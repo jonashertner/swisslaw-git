@@ -4,13 +4,13 @@ number: III G/1
 title: Gesetz über die Verwaltungsrechtspflege
 short: Verwaltungsrechtspflegegesetz
 language: de
-version: 2022-02-01
-valid_until: 2022-06-30
+version: 2022-07-01
+valid_until: 2022-12-31
 version_adopted: 2021-09-05
 adopted: 1986-05-04
 in_force: 1987-10-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/III-G.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/2254/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2286/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2254/pdf_file"
 
 (Verwaltungsrechtspflegegesetz)
 
-Vom 04.05.1986 (Stand 01.02.2022)
+Vom 04.05.1986 (Stand 01.07.2022)
 
 Die Landsgemeinde,
 
@@ -181,7 +181,7 @@ beschliesst:
 
 <sup>2</sup> Ist der Ausstand streitig, so entscheidet darüber die vorgesetzte oder die aufsichtsführende Behörde oder, wenn es sich um den Ausstand eines Mitgliedes einer Kollegialbehörde handelt, dieses Kollegium unter Ausschluss des betroffenen Mitgliedes von der Beratung und Beschlussfassung.
 
-<sup>3</sup> Für das Verwaltungsgericht gilt Artikel 22 des Gerichtsorganisationsgesetzes[^14-1].
+<sup>3</sup> Für das Verwaltungsgericht gilt Artikel 32 des Gerichtsorganisationsgesetzes[^14-1].
 
 [^14-1]: GS [III A/2](https://gesetze.gl.ch/data/III-A.2/de)
 
@@ -325,6 +325,14 @@ beschliesst:
 <sup>3</sup> Eine Eingabe ist grundsätzlich schriftlich zu machen. Ein Begehren kann bei der zuständigen Behörde aber auch zu Protokoll gegeben werden.
 
 <sup>4</sup> Die Behörde kann unter Fristansetzung eine Begründung, Verdeutlichung, Berichtigung oder Ergänzung der Eingabe verlangen.
+
+#### Art. 28a
+
+**Amtssprache**
+
+<sup>1</sup> Die Amtssprache ist Deutsch.
+
+<sup>2</sup> Die Bestimmungen von Artikel 38 des Gerichtsorganisationsgesetzes gelten sinngemäss.
 
 #### Art. 29
 
