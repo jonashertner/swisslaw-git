@@ -3,18 +3,18 @@ sr: "784.101.113"
 title: "Ordinanza dell'UFCOM del 9 dicembre 1997 sui servizi di telecomunicazione e gli elementi d'indirizzo"
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/480_480_480"
 language: it
-version: 2022-01-01
+version: 2022-07-01
 adopted: 1997-12-09
 in_force: 1998-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/480_480_480/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1998-480_480_480-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/480_480_480/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/480_480_480/20220701/it/xml/fedlex-data-admin-ch-eli-cc-1998-480_480_480-20220701-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/480_480_480/20220701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza dell’UFCOM sui servizi di telecomunicazione e gli elementi d’indirizzo****
 
-del 9 dicembre 1997 (Stato 1° gennaio 2022)[^t-1]
+del 9 dicembre 1997 (Stato 1° luglio 2022)[^t-1]
 
 [^t-1]: Nuovo testo giusta il n. I dell’O dell’UFCOM del 25 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4631](https://fedlex.data.admin.ch/eli/oc/2016/748)).
 
@@ -50,12 +50,12 @@ Allegato 1*[^t-2]*
 
 [^annex1-lvlu1-1]
 
-[^t-2]: Aggiornato dai n. II delle O dell’UFCOM del 14 nov. 2014 ([RU 2014 4353](https://fedlex.data.admin.ch/eli/oc/2014/717)), del 25 nov. 2016 ([RU 2016 4631](https://fedlex.data.admin.ch/eli/oc/2016/748)), del 12 dic. 2016 ([RU 2017 19](https://fedlex.data.admin.ch/eli/oc/2017/5)), dai n. I delle O dell’UFCOM del 30 nov. 2018 ([RU 2018 4677](https://fedlex.data.admin.ch/eli/oc/2018/737)) e del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5273](https://fedlex.data.admin.ch/eli/oc/2020/912)).
+[^t-2]: Aggiornato dai n. II delle O dell’UFCOM del 25 nov. 2016 ([RU 2016 4631](https://fedlex.data.admin.ch/eli/oc/2016/748)), del 12 dic. 2016 ([RU 2017 19](https://fedlex.data.admin.ch/eli/oc/2017/5)), dai n. I delle O dell’UFCOM del 18 nov. 2020 ([RU 2020 5273](https://fedlex.data.admin.ch/eli/oc/2020/912)) e del 23 feb. 2022, in vigore dal 1° lug. 2022 ([RU 2022 135](https://fedlex.data.admin.ch/eli/oc/2022/135)).
 [^annex1-lvlu1-1]: Il testo delle prescrizioni tecniche e amministrative non è pubblicato nella RU. È ottenibile presso l’UFCOM, rue de l’Avenir 44, casella postale, 2501 Bienne o consultabile all’indirizzo Internet: www.ufcom.admin.ch &gt; L’UFCOM &gt; Basi legali &gt; Prassi d’esecuzione &gt; Telecomunicazione.
 
 - 1\. Prescrizioni tecniche e amministrative relative alla gestione e alla messa a disposizione dei dati elenco dei fornitori del servizio telefonico pubblico (7<sup>a</sup> edizione)
 - 2\. Prescrizioni tecniche e amministrative relative alla qualità del servizio universale (9<sup>a</sup> edizione)
-- 3\. Prescrizioni tecniche e amministrative relative all’istradamento e alla localizzazione delle chiamate d’emergenza (15<sup>a</sup> edizione)
+- 3\. Prescrizioni tecniche e amministrative relative all’istradamento e alla localizzazione delle chiamate d’emergenza (16<sup>a</sup> edizione)
 - 4\. Prescrizioni tecniche e amministrative relative alle interfacce per l’accesso alle reti e ai servizi di telecomunicazione (7<sup>a</sup> edizione)
 - 5\. ...
 - 6\. Prescrizioni tecniche e amministrative relative alle proprietà delle interfacce del servizio universale (7<sup>a</sup> edizione)

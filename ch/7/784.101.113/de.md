@@ -3,18 +3,18 @@ sr: "784.101.113"
 title: Verordnung des BAKOM vom 9. Dezember 1997 über Fernmeldedienste und Adressierungselemente
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/480_480_480"
 language: de
-version: 2022-01-01
+version: 2022-07-01
 adopted: 1997-12-09
 in_force: 1998-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/480_480_480/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1998-480_480_480-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/480_480_480/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/480_480_480/20220701/de/xml/fedlex-data-admin-ch-eli-cc-1998-480_480_480-20220701-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/480_480_480/20220701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des BAKOM über Fernmeldedienste und Adressierungselemente****
 
-vom 9. Dezember 1997 (Stand am 1. Januar 2022)[^t-1]
+vom 9. Dezember 1997 (Stand am 1. Juli 2022)[^t-1]
 
 [^t-1]: Fassung gemäss Ziff. I der V des BAKOM vom 25. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4631](https://fedlex.data.admin.ch/eli/oc/2016/748)).
 
@@ -50,12 +50,12 @@ Anhang 1*[^t-2]*
 
 [^annex1-lvlu1-1]
 
-[^t-2]: Bereinigt gemäss Ziff. II der V des BAKOM vom 14. Nov. 2014 ([AS 2014 4353](https://fedlex.data.admin.ch/eli/oc/2014/717)), vom 25. Nov. 2016 ([AS 2016 4631](https://fedlex.data.admin.ch/eli/oc/2016/748)), vom 12. Dez. 2016 ([AS 2017 19](https://fedlex.data.admin.ch/eli/oc/2017/5)), vom 30. Nov. 2018 ([AS 2018 4677](https://fedlex.data.admin.ch/eli/oc/2018/737)) und Ziff. I der V des BAKOM vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5273](https://fedlex.data.admin.ch/eli/oc/2020/912)).
+[^t-2]: Bereinigt gemäss Ziff. II der V des BAKOM vom 25. Nov. 2016 ([AS 2016 4631](https://fedlex.data.admin.ch/eli/oc/2016/748)), vom 12. Dez. 2016 ([AS 2017 19](https://fedlex.data.admin.ch/eli/oc/2017/5)), Ziff. I der V des BAKOM vom 18. Nov. 2020 ([AS 2020 5273](https://fedlex.data.admin.ch/eli/oc/2020/912)) und vom 23. Febr. 2022, in Kraft seit 1. Juli 2022 ([AS 2022 135](https://fedlex.data.admin.ch/eli/oc/2022/135)).
 [^annex1-lvlu1-1]: Der Text der technischen und administrativen Vorschriften wird in der AS nicht publiziert. Er kann beim Bundesamt für Kommunikation, Zukunftstrasse 44, Postfach, 2501 Biel, bezogen oder im Internet unter www.bakom.admin.ch &gt; Das BAKOM &gt; Rechtliche Grundlagen &gt; Vollzugspraxis &gt; Telekommunikation abgerufen werden.
 
 - 1\. Technische und administrative Vorschriften betreffend die Verwaltung und Bereitstellung von Verzeichnisdaten der Anbieterinnen des öffentlichen Telefondienstes (Ausgabe 7)
 - 2\. Technische und administrative Vorschriften betreffend die Dienstqualität der Grundversorgung (Ausgabe 9)
-- 3\. Technische und administrative Vorschriften betreffend die Leitweglenkung und die Standortidentifikation der Notrufe (Ausgabe 15)
+- 3\. Technische und administrative Vorschriften betreffend die Leitweglenkung und die Standortidentifikation der Notrufe (Ausgabe 16)
 - 4\. Technische und administrative Vorschriften betreffend Schnittstellen von Fernmeldenetzen und -diensten (Ausgabe 7)
 - 5\. …
 - 6\. Technische und administrative Vorschriften betreffend die Eigenschaften von Schnittstellen der Grundversorgung (Ausgabe 7)
