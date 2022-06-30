@@ -4,18 +4,18 @@ title: "Ordinanza del 7 ottobre 2015 sulle raccolte del diritto federale e sul F
 short: OPubb
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/670"
 language: it
-version: 2018-01-01
+version: 2022-07-01
 adopted: 2015-10-07
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/670/20180101/it/xml/fedlex-data-admin-ch-eli-cc-2015-670-20180101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/670/20180101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/670/20220701/it/xml/fedlex-data-admin-ch-eli-cc-2015-670-20220701-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/670/20220701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sulle raccolte del diritto federale e sul Foglio federale (Ordinanza sulle pubblicazioni ufficiali, OPubb)
 
-del 7 ottobre 2015 (Stato 1° gennaio 2018) (Stato 1° gennaio 2018)
+del 7 ottobre 2015 (Stato 1° luglio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -40,17 +40,18 @@ ordina:
 Per le seguenti categorie di trattati internazionali l’autorità competente può presumere che non contengano norme di diritto e che non autorizzino ad emanarne (art. 3 cpv. 1 lett. b LPubb):
 
 - a. accordi internazionali ai sensi dell’articolo 10 della legge federale del 19 marzo 1976[^1-2] sulla cooperazione allo sviluppo e l’aiuto umanitario internazionali, se concernono esclusivamente progetti concreti o determinati contributi;
-- b. accordi internazionali ai sensi dell’articolo 13 capoverso 2 della legge federale del 24 marzo 2006[^1-3] sulla cooperazione con gli Stati dell’Europa dell’Est;
-- c. accordi internazionali ai sensi dell’articolo 8 della legge federale del 19 dicembre 2003[^1-4] su misure di promozione civile della pace e di rafforzamento dei diritti dell’uomo;
-- d. accordi di esecuzione relativi ad accordi internazionali ai sensi dell’articolo 48*a* capoverso 1 della legge militare del 3 febbraio 1995[^1-5] (LM) sull’istruzione all’estero o con truppe straniere;
+- b.[^1-3] accordi internazionali ai sensi dell’articolo 12 capoverso 2 della legge federale del 30 settembre 2016[^1-4] sulla cooperazione con gli Stati dell’Europa dell’Est;
+- c. accordi internazionali ai sensi dell’articolo 8 della legge federale del 19 dicembre 2003[^1-5] su misure di promozione civile della pace e di rafforzamento dei diritti dell’uomo;
+- d. accordi di esecuzione relativi ad accordi internazionali ai sensi dell’articolo 48*a* capoverso 1 della legge militare del 3 febbraio 1995[^1-6] (LM) sull’istruzione all’estero o con truppe straniere;
 - e. convenzioni internazionali ai sensi dell’articolo 66*b* capoverso 2 LM sull’esecuzione di impieghi di promovimento della pace;
 - f. accordi internazionali ai sensi dell’articolo 109*b* LM sulla cooperazione in materia di armamenti.
 
 [^1-1]: [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
 [^1-2]: [RS 974.0](https://fedlex.data.admin.ch/eli/cc/1977/1352_1352_1352)
-[^1-3]: [RS 974.1](https://fedlex.data.admin.ch/eli/cc/2017/323)
-[^1-4]: [RS 193.9](https://fedlex.data.admin.ch/eli/cc/2004/253)
-[^1-5]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^1-3]: Nuovo testo giusta il n. I dell’O del 10 nov. 2021, in vigore dal 1° lug. 2022 ([RU 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
+[^1-4]: [RS 974.1](https://fedlex.data.admin.ch/eli/cc/2017/323)
+[^1-5]: [RS 193.9](https://fedlex.data.admin.ch/eli/cc/2004/253)
+[^1-6]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
 
 #### Art. 2
 
@@ -138,7 +139,9 @@ Gli errori che modificano il senso secondo l’articolo 10 capoverso 1 LPubb son
 
 <sup>1</sup> Il termine di cui all’articolo 7 capoverso 1 LPubb non comprende né il giorno della pubblicazione nella RU né quello dell’entrata in vigore.
 
-<sup>2</sup> Se l’atto normativo e i suoi effetti sono di grande portata o è necessario adottare disposizioni d’esecuzione, l’autorità competente provvede, in collaborazione con la CaF, affinché la pubblicazione abbia luogo con sufficiente anticipo.
+<sup>2</sup> Se l’atto normativo e i suoi effetti sono di grande portata o è necessario adottare disposizioni d’esecuzione, l’autorità competente provvede, in collaborazione con la Cancelleria federale (CaF), affinché la pubblicazione abbia luogo con sufficiente anticipo.[^10-1]
+
+[^10-1]: Nuovo testo giusta il n. I dell’O del 10 nov. 2021, in vigore dal 1° lug. 2022 ([RU 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
 
 #### Art. 11
 
@@ -189,6 +192,10 @@ L’ente presso cui possono essere ottenuti i testi di cui all’articolo 5 capo
 - b. l’autorità competente oppure, se del caso, altri servizi dove il testo può essere consultato gratuitamente;
 - c. l’indirizzo postale dove il testo può essere ottenuto, se il servizio in questione non dispone di un indirizzo Internet.
 
+<sup>4</sup> I testi pubblicati mediante rimando possono eccezionalmente essere pubblicati in linea in un luogo diverso dalla piattaforma di pubblicazione se per motivi tecnici non si prestano alla pubblicazione su tale piattaforma.[^14-1]
+
+[^14-1]: Introdotto dal n. I dell’O del 10 nov. 2021, in vigore dal 1° lug. 2022 ([RU 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
+
 #### Art. 15
 
 **Modifiche, rettifiche e abrogazioni**
@@ -197,17 +204,34 @@ Le modifiche, rettifiche e abrogazioni dei testi pubblicati mediante rimando son
 
 #### Art. 16
 
-**Obblighi dell’autorità competente**
+**Obblighi dell’autorità competente**[^16-1]
 
 <sup>1</sup>
 
-Nell’ambito della pubblicazione mediante rimando l’autorità competente deve:
+Nell’ambito della pubblicazione mediante rimando secondo l’articolo 5 capoverso 1 LPubb l’autorità competente fornisce tempestivamente alla CaF prima della pubblicazione:
 
-- a. provvedere, in caso di modifica di testi di cui all’articolo 5 capoverso 1 LPubb, affinché a partire dalla data dell’entrata in vigore della modifica siano disponibili versioni consolidate di questi testi;
-- b. fornire alla CaF i testi di cui all’articolo 5 capoverso 1 LPubb in forma elettronica e pronti per la stampa al fine di predisporre, in via eccezionale, tirature separate (art. 36);
-- c. provvedere affinché i testi di cui all’articolo 5 capoverso 2 LPubb siano disponibili, dalla data della pubblicazione del rimando nella RU, in qualsiasi momento nelle lingue ufficiali richieste e un’eventuale versione in linea sia accessibile.
+- a. il testo da pubblicare mediante rimando nella RU;
+- b.
 
-<sup>2</sup> L’autorità competente garantisce che il consolidamento dei testi di cui all’articolo 5 capoverso 1 LPubb sia corretto dal punto di vista del contenuto.
+  in caso di revisioni parziali:
+
+  - 1\. il testo consolidato da pubblicare, e
+  - 2\. ulteriori documenti da pubblicare sulla piattaforma di pubblicazione, nella misura in cui ciò sia necessario a rendere trasparenti le modifiche rispetto alla versione precedente.
+
+<sup>2</sup>
+
+Nell’ambito della pubblicazione mediante rimando secondo l’articolo 5 capoverso 2 LPubb l’autorità competente assicura che:
+
+- a.
+
+  dalla pubblicazione del rimando, il testo da pubblicare mediante rimando nella RU:
+
+  - 1\. sia disponibile in qualsiasi momento nelle lingue ufficiali richieste, e
+  - 2\. se si tratta di un testo pubblicato da un’organizzazione privata, possa essere consultato gratuitamente presso l’autorità competente, o eventualmente presso l’organizzazione interessata, e copiato per uso personale;
+
+- b. in caso di modifica di testi pubblicati mediante rimando, le modifiche rispetto alla versione precedente siano riconoscibili.
+
+[^16-1]: Nuovo testo giusta il n. I dell’O del 10 nov. 2021, in vigore dal 1° lug. 2022 ([RU 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
 
 ### Sezione 6: Pubblicazione straordinaria
 
@@ -283,7 +307,10 @@ Nel FF sono pubblicati soltanto con il titolo, corredato di un rimando o dell’
 
 - a. il messaggio sul preventivo della Confederazione Svizzera e le relative aggiunte;
 - b. il messaggio sul consuntivo della Confederazione Svizzera;
+- b<sup>bis</sup>.[^23-1] il messaggio sul programma di legislatura
 - c. il rapporto di gestione del Consiglio federale.
+
+[^23-1]: Introdotta dal n. I dell’O del 10 nov. 2021, in vigore dal 1° lug. 2022 ([RU 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
 
 ### Sezione 2: Menzioni
 
@@ -307,9 +334,14 @@ Gli atti normativi dell’Assemblea federale sono pubblicati dapprima nel FF sol
 
 [^26-1]
 
-Oltre ai testi di cui all’articolo 13*a* capoverso 1 LPubb, sulla piattaforma di pubblicazione è pubblicata la banca dati della CaF relativa alle commissioni extraparlamentari.
+Oltre ai testi di cui all’articolo 13*a* LPubb, sulla piattaforma di pubblicazione sono pubblicati:
 
-[^26-1]: Nuovo testo giusta il n. II dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5765](https://fedlex.data.admin.ch/eli/oc/2017/622)).
+- a. il commento alle ordinanze per le quali è stata indetta una procedura di consultazione;
+- b. il commento ad altre ordinanze, qualora l’autorità che le ha emanate decida di pubblicarlo;
+- c. le informazioni della Direzione del diritto internazionale pubblico del Dipartimento federale degli affari esteri sui trattati internazionali e sulle decisioni di diritto internazionale in vigore per la Svizzera o firmati dalla Svizzera;
+- d. le versioni non ancora entrate in vigore di testi del diritto federale già pubblicati nella RU.
+
+[^26-1]: Nuovo testo giusta il n. I dell’O del 10 nov. 2021, in vigore dal 1° lug. 2022 ([RU 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
 
 ## Capitolo 5: Disposizioni comuni
 
@@ -342,19 +374,27 @@ Sulla piattaforma di ricerca i testi sono accessibili segnatamente mediante i se
 
 <sup>1</sup> Sulla piattaforma di pubblicazione i testi sono pubblicati nel formato PDF. I requisiti tecnici sono definiti nel numero 1 dell’allegato.
 
-<sup>2</sup> La CaF può pubblicare i testi in ulteriori formati.
+<sup>2</sup> Il numero 3 dell’allegato stabilisce i testi da pubblicare in ulteriori formati.[^29-1]
 
 <sup>3</sup> I documenti nel formato PDF contengono la versione determinante dei testi.
 
-<sup>4</sup> I testi della RU, della RS e del FF hanno una presentazione grafica uniforme.
+<sup>4</sup> I testi della RU, della RS e del FF, ma non quelli pubblicati mediante rimando, hanno una presentazione grafica uniforme.[^29-2]
+
+[^29-1]: Nuovo testo giusta il n. I dell’O del 10 nov. 2021, in vigore dal 1° lug. 2022 ([RU 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
+[^29-2]: Nuovo testo giusta il n. I dell’O del 10 nov. 2021, in vigore dal 1° lug. 2022 ([RU 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
 
 #### Art. 30
 
 **Firma elettronica**
 
-<sup>1</sup> I testi della RU e del FF pubblicati nel formato PDF sulla piattaforma di pubblicazione recano una firma elettronica della CaF. I requisiti tecnici sono definiti nel numero 2 dell’allegato.
+<sup>1</sup> I testi della RU e del FF pubblicati sulla piattaforma di pubblicazione nel formato PDF, compresi i testi pubblicati mediante rimando secondo gli articoli 5 capoverso 1 e 13 capoverso 3 LPubb, recano una firma elettronica della CaF. I requisiti tecnici sono definiti nel numero 2 dell’allegato.[^30-1]
 
 <sup>2</sup> La CaF provvede affinché le firme elettroniche possano essere verificate in linea in qualsiasi momento mediante un sistema di convalida.
+
+<sup>3</sup> Se vi è urgenza e insorgono problemi tecnici, è possibile rinunciare temporaneamente alla firma elettronica.[^30-2]
+
+[^30-1]: Nuovo testo giusta il n. I dell’O del 10 nov. 2021, in vigore dal 1° lug. 2022 ([RU 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
+[^30-2]: Introdotto dal n. I dell’O del 10 nov. 2021, in vigore dal 1° lug. 2022 ([RU 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
 
 ### Sezione 3: Lingue ufficiali
 
@@ -376,17 +416,31 @@ La guida per gli utenti della pubblicazione elettronica deve essere disponibile 
 
 <sup>1</sup> La CaF decide, d’intesa con l’autorità competente, in merito alle deroghe alla pubblicazione in tutte le lingue ufficiali ai sensi dell’articolo 14 capoverso 2 LPubb.
 
-<sup>2</sup> I testi della GAAC sono pubblicati soltanto nella lingua originale del documento, unitamente a un riassunto nelle altre lingue ufficiali.
+<sup>2</sup> Nel caso dei commenti a ordinanze per le quali è stata indetta una procedura di consultazione, una deroga alla pubblicazione in tutte le lingue ufficiali è ammessa soltanto se la consultazione non era obbligatoria (art. 3 cpv. 2 della legge del 18 marzo 2005[^33-1] sulla consultazione) e il progetto riveste un interesse esclusivamente locale o regionale.[^33-2]
+
+[^33-1]: [RS 172.061](https://fedlex.data.admin.ch/eli/cc/2005/542)
+[^33-2]: Nuovo testo giusta il n. I dell’O del 10 nov. 2021, in vigore dal 1° lug. 2022 ([RU 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
+
+#### Art. 33a
+
+**Pubblicazione in altre lingue**[^33a-1]
+
+La CaF decide, d’intesa con l’autorità competente, in merito alla pubblicazione in altre lingue ai sensi dell’articolo 14 capoverso 6 LPubb.
+
+[^33a-1]: Introdotto dal n. I dell’O del 10 nov. 2021, in vigore dal 1° lug. 2022 ([RU 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
 
 ### Sezione 4: Modalità di pubblicazione
 
 #### Art. 34
 
-<sup>1</sup> L’indirizzo Internet della piattaforma di pubblicazione è www.dirittofederale.admin.ch. Ogni edizione della RU e del FF rimanda a questo indirizzo.
+<sup>1</sup> ...[^34-1]
 
-<sup>2</sup> La RU è pubblicata una volta alla settimana, contemporaneamente al FF. Se si rendono necessarie pubblicazioni urgenti, si pubblicano edizioni supplementari. La RU è pubblicata soltanto nei giorni feriali.
+<sup>2</sup> Di regola la RU e il FF sono pubblicati ogni giorno feriale.[^34-2]
 
 <sup>3</sup> La versione in linea della RS è aggiornata costantemente.
+
+[^34-1]: Abrogato dal n. I dell’O del 10 nov. 2021, con effetto dal 1° lug. 2022 ([RU 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
+[^34-2]: Nuovo testo giusta il n. I dell’O del 10 nov. 2021, in vigore dal 1° lug. 2022 ([RU 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
 
 ### Sezione 5: Pubblicazioni stampate
 
@@ -406,13 +460,19 @@ La versione stampata è pubblicata secondo una frequenza stabilita dalla CaF in 
 
 <sup>3</sup> L’edizione stampata della RS è ottenibile come raccolta integrale o per singole parti. Gli abbonati ricevono anche i complementi.
 
+<sup>4</sup> I capoversi 1–3 non si applicano ai testi della RU, della RS e del FF pubblicati mediante rimando secondo gli articoli 5 capoverso 1 e 13 capoverso 3 LPubb.[^35-1]
+
+[^35-1]: Introdotto dal n. I dell’O del 10 nov. 2021, in vigore dal 1° lug. 2022 ([RU 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
+
 #### Art. 36
 
-**Tirature separate**
+**Tirature separate**[^36-1]
 
-<sup>1</sup> La CaF assicura che i testi della RU, della RS e del FF, compresi i testi pubblicati mediante rimando secondo l’articolo 5 capoverso 1 LPubb, possano essere ottenuti in tirature separate.
+<sup>1</sup> La CaF assicura che i testi della RU, della RS e del FF, compresi i testi pubblicati mediante rimando secondo gli articoli 5 capoverso 1 e 13 capoverso 3 LPubb, possano essere ottenuti in tirature separate.
 
-<sup>2</sup> La CaF pubblica, in funzione della domanda prevedibile, compilazioni di testi della RU, della RS e del FF.
+<sup>2</sup> La CaF pubblica, in funzione della domanda prevedibile, compilazioni di testi della RU, della RS e del FF, compresi i testi pubblicati mediante rimando secondo gli articoli 5 capoverso 1 e 13 capoverso 3 LPubb.
+
+[^36-1]: Nuovo testo giusta il n. I dell’O del 10 nov. 2021, in vigore dal 1° lug. 2022 ([RU 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
 
 #### Art. 37
 
@@ -434,13 +494,14 @@ Le pubblicazioni secondo la LPubb sono ottenibili presso l’Ufficio federale de
 
 <sup>1</sup> La CaF assicura la pubblicazione tempestiva dei testi soggetti alla LPubb.
 
-<sup>2</sup> I testi destinati alla pubblicazione devono essere forniti tempestivamente alla CaF in forma elettronica, nella versione definitiva e nelle lingue ufficiali richieste.
+<sup>2</sup> L’autorità competente deve fornire tempestivamente alla CaF i testi da pubblicare sulla piattaforma di pubblicazione. La loro forma è disciplinata nel numero 4 dell’allegato. I testi devono essere forniti nella versione definitiva e nelle lingue ufficiali richieste.[^39-1]
 
 <sup>3</sup> I trattati e le risoluzioni internazionali devono inoltre essere forniti tempestivamente, prima della loro entrata in vigore, alla Direzione del diritto internazionale pubblico del Dipartimento federale degli affari esteri, nella lingua originale e, in forma elettronica, nelle lingue ufficiali richieste.
 
-<sup>4</sup> Se la pubblicazione tempestiva di messaggi e rapporti secondo l’articolo 149 della legge del 13 dicembre 2002[^39-1] sul Parlamento non è possibile, l’autorità competente è responsabile della trasmissione di tali testi ai Servizi del Parlamento.
+<sup>4</sup> Se la pubblicazione tempestiva di messaggi e rapporti secondo l’articolo 149 della legge del 13 dicembre 2002[^39-2] sul Parlamento non è possibile, l’autorità competente è responsabile della trasmissione di tali testi ai Servizi del Parlamento.
 
-[^39-1]: [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
+[^39-1]: Nuovo testo giusta il n. I dell’O del 10 nov. 2021, in vigore dal 1° lug. 2022 ([RU 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
+[^39-2]: [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
 
 #### Art. 40
 
@@ -505,11 +566,13 @@ Ai sensi dell’articolo 16*a* LPubb s’intende per:
 
 La conservazione, l’autenticità e l’integrità dei testi pubblicati sulla piattaforma di pubblicazione sono assicurate segnatamente mediante le seguenti misure:
 
-- a. dei testi pubblicati sulla piattaforma di pubblicazione sono conservati tutti i dati necessari per ripristinare i testi nello stato in cui sono stati pubblicati per la prima volta sulla piattaforma di pubblicazione (dati definitivi); i dati definitivi sono conservati al di fuori delle reti di comunicazione accessibili al pubblico in ubicazioni separate nello spazio; almeno una delle ubicazioni è protetta contro le catastrofi;
+- a.[^43-1] dei testi pubblicati sulla piattaforma di pubblicazione sono conservati tutti i dati necessari per ripristinare i testi nello stato in cui sono stati pubblicati per la prima volta sulla piattaforma di pubblicazione (dati definitivi); i dati definitivi sono conservati al di fuori delle reti di comunicazione accessibili al pubblico in ubicazioni separate nello spazio;
 - b. se si constata una divergenza tra i dati definitivi e il testo pubblicato sulla piattaforma di pubblicazione, il testo è ripristinato nel giro di un giorno nello stato in cui è stato pubblicato per la prima volta sulla piattaforma di pubblicazione; sono eccettuati i dati anonimizzati di cui all’articolo 44 capoverso 2;
 - c. i dati sono trasmessi in modo tale che il destinatario possa identificare in modo sicuro la piattaforma di pubblicazione quale mittente.
 
 <sup>3</sup> La CaF adotta le misure tecniche e organizzative necessarie per garantire l’esercizio impeccabile della piattaforma di pubblicazione.
+
+[^43-1]: Nuovo testo giusta il n. I dell’O del 10 nov. 2021, in vigore dal 1° lug. 2022 ([RU 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
 
 #### Art. 44
 
@@ -528,9 +591,11 @@ Una persona i cui dati personali degni di particolare protezione sono contenuti 
 
 #### Art. 45
 
-**Dati personali degni di particolare protezione nei testi della RU e della RS**
+**Dati personali degni di particolare protezione nei testi della RU e della RS**[^45-1]
 
-I dati personali degni di particolare protezione contenuti in testi della RU e della RS, compresi i testi in essi pubblicati mediante rimando secondo l’articolo 5 capoverso 1 LPubb, sono rimossi se lo ordina l’autorità competente.
+I dati personali degni di particolare protezione contenuti in testi della RU e della RS, compresi i testi pubblicati mediante rimando secondo l’articolo 5 capoverso 1 LPubb, sono rimossi se lo ordina l’autorità competente.
+
+[^45-1]: Nuovo testo giusta il n. I dell’O del 10 nov. 2021, in vigore dal 1° lug. 2022 ([RU 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
 
 #### Art. 46
 
@@ -548,11 +613,9 @@ La consultazione gratuita della piattaforma di pubblicazione secondo l’articol
 
 #### Art. 48
 
-**Ottenimento di dati a fini di sfruttamento**
+[^48-1]
 
-<sup>1</sup> La CaF mette a disposizione elettronicamente e in forma strutturata i testi della RU, della RS e del FF, ad eccezione dei testi pubblicati mediante rimando. Non vi è diritto a una elaborazione dei dati per esigenze particolari.
-
-<sup>2</sup> Lo scaricamento di dati a fini di sfruttamento è gratuito. Per le forniture di dati sono riscossi emolumenti.
+[^48-1]: Abrogato dal n. I dell’O del 10 nov. 2021, con effetto dal 1° lug. 2022 ([RU 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
 
 #### Art. 49
 
@@ -560,19 +623,24 @@ La consultazione gratuita della piattaforma di pubblicazione secondo l’articol
 
 <sup>1</sup>
 
-Per lo sfruttamento di dati secondo l’articolo 48 si applicano le seguenti disposizioni:
+Per lo sfruttamento di dati disponibili sulla piattaforma di pubblicazione si applicano le seguenti disposizioni:[^49-1]
 
 - a. il contenuto dei dati non può essere modificato;
 - b. i dati devono essere presentati in modo tale che visivamente si distinguano in modo netto da commenti o da ulteriori aggiunte;
 - c. i dati devono recare la menzione seguente: «Il presente documento non è una pubblicazione ufficiale. Fa unicamente fede la pubblicazione della Cancelleria federale.»;
-- d. devono essere pubblicate anche le indicazioni della CaF sulla qualità dei dati forniti;
+- d.[^49-2] ...
 - e. nella pubblicità, sull’imballaggio, sul supporto di dati o nel mezzo elettronico di comunicazione non si deve suscitare l’impressione che si tratti di una pubblicazione ufficiale;
-- f. i dati personali degni di particolare protezione contenuti in testi della RU e della RS, compresi i testi in essi pubblicati mediante rimando secondo l’articolo 5 capoverso 1 LPubb, devono essere rimossi non appena la CaF non li pubblica più o li pubblica soltanto in forma anonimizzata;
-- g. i dati personali degni di particolare protezione contenuti in testi diversi da quelli di cui alla lettera f non possono essere sfruttati o diffusi.
+- f.[^49-3] i dati personali degni di particolare protezione contenuti in testi della RU e della RS, compresi i testi pubblicati mediante rimando secondo l’articolo 5 capoverso 1 LPubb, devono essere rimossi non appena la CaF non li pubblica più o li pubblica soltanto in forma anonimizzata
+- g. i dati personali degni di particolare protezione contenuti in testi diversi da quelli di cui alla lettera f non possono essere sfruttati o diffusi;
+- h.[^49-4] i dati possono essere diffusi o resi accessibili contro rimunerazione soltanto in forma elaborata.
 
-<sup>2</sup> Chi ha ottenuto dati secondo l’articolo 48 può diffonderli o renderli accessibili contro rimunerazione soltanto in forma elaborata.
+<sup>2</sup> e <sup>3</sup> ...[^49-5]
 
-<sup>3</sup> In caso di inosservanza degli oneri, la CaF può rifiutare ulteriori forniture di dati.
+[^49-1]: Nuovo testo giusta il n. I dell’O del 10 nov. 2021, in vigore dal 1° lug. 2022 ([RU 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
+[^49-2]: Abrogata dal n. I dell’O del 10 nov. 2021, con effetto dal 1° lug. 2022 ([RU 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
+[^49-3]: Nuovo testo giusta il n. I dell’O del 10 nov. 2021, in vigore dal 1° lug. 2022 ([RU 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
+[^49-4]: Introdotta dal n. I dell’O del 10 nov. 2021, in vigore dal 1° lug. 2022 ([RU 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
+[^49-5]: Abrogati dal n. I dell’O del 10 nov. 2021, con effetto dal 1° lug. 2022 ([RU 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
 
 ### Sezione 10: Consultazione e ottenimento dei dati
 
@@ -586,15 +654,20 @@ Per lo sfruttamento di dati secondo l’articolo 48 si applicano le seguenti dis
 
 <sup>3</sup> Presso le sedi di consultazione possono essere consultate anche le pubblicazioni straordinarie di cui all’articolo 7 capoverso 4 LPubb che sono state loro trasmesse.
 
-<sup>4</sup> Se la piattaforma di pubblicazione subisce un guasto temporaneo, la CaF trasmette su richiesta testi della RU e del FF.
+<sup>4</sup> Se la piattaforma di pubblicazione subisce un guasto temporaneo, la CaF trasmette su richiesta testi della RU e del FF, compresi i testi pubblicati mediante rimando secondo gli articoli 5 capoverso 1 e 13 capoverso 3 LPubb.[^50-1]
+
+[^50-1]: Nuovo testo giusta il n. I dell’O del 10 nov. 2021, in vigore dal 1° lug. 2022 ([RU 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
 
 #### Art. 51
 
-**Emolumenti**
+**Emolumenti**[^51-1]
 
-Gli emolumenti per l’ottenimento di dati elettronici secondo l’articolo 48 e di prodotti stampati secondo gli articoli 35 e 36 sono disciplinati dall’ordinanza del 19 novembre 2014[^51-1] sugli emolumenti per le pubblicazioni.
+<sup>1</sup> Gli emolumenti per l’ottenimento di prodotti stampati secondo gli articoli 35 e 36 sono disciplinati dall’ordinanza del 19 novembre 2014[^51-2] sugli emolumenti per le pubblicazioni.
 
-[^51-1]: [RS 172.041.11](https://fedlex.data.admin.ch/eli/cc/2014/711)
+<sup>2</sup> Per la consultazione di dati elettronici mediante procedura di richiamo non sono riscossi emolumenti.
+
+[^51-1]: Nuovo testo giusta il n. I dell’O del 10 nov. 2021, in vigore dal 1° lug. 2022 ([RU 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
+[^51-2]: [RS 172.041.11](https://fedlex.data.admin.ch/eli/cc/2014/711)
 
 ## Capitolo 6: Disposizioni finali
 
@@ -636,24 +709,39 @@ La CaF gestisce applicazioni specifiche nel settore delle pubblicazioni secondo 
 
 La presente ordinanza entra in vigore il 1° gennaio 2016.
 
-Allegato*[^t-1]*
+Allegato[^t-1]
 
-(art. 29 cpv. 1, 30 cpv. 1 e 52 cpv. 3)
+(art. 29 cpv. 1 e 2, 30 cpv. 1, 39 cpv. 2 e 52 cpv. 3)
 
 ## Requisiti tecnici
 
-[^t-1]: Aggiornato dal n. II 1 dell’O del 23 nov. 2016 sulla firma elettronica ([RU 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)) e dal n. I dell’O della CaF dell’8 mar. 2017, in vigore dal 1° gen. 2017 ([RU 2017 709](https://fedlex.data.admin.ch/eli/oc/2017/134)).
+[^t-1]: Nuovo testo giusta il n. II dell’O del 10 nov. 2021, in vigore dal 1° lug. 2022 ([RU 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
 
-### 1 Formato PDF
+### 1. Formato PDF
 
-Il formato PDF di cui all’articolo 29 capoverso 1 va utilizzato nella versione A-1a.
+Il formato PDF di cui all’articolo 29 capoverso 1 va utilizzato nella versione A-1a o A-2.
 
-### 2 Firma elettronica
+### 2. Firma elettronica
 
 - 2\.1 La firma elettronica di cui all’articolo 30 è un sigillo elettronico regolamentato ai sensi dell’articolo 2 lettera d della legge del 18 marzo 2016[^annexu1-lvlu1-lvl2-1] sulla firma elettronica (FiEle).
 - 2\.2 La validità del certificato deve essere verificata al momento dell’apposizione del sigillo.
 - 2\.3 Il sigillo deve essere provvisto di una marca temporale elettronica qualificata ai sensi dell’articolo 2 lettera j FiEle.
-- 2\.4 Fintanto che non sono realizzati i requisiti tecnici necessari per l’apposizione del sigillo, i testi sono firmati secondo il diritto previgente[^annexu1-lvlu1-lvl2-2].
 
 [^annexu1-lvlu1-lvl2-1]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
-[^annexu1-lvlu1-lvl2-2]: [RU 2015 3989](https://fedlex.data.admin.ch/eli/oc/2015/670)
+
+### 3. Ulteriori formati
+
+- 3\.1
+
+  Oltre che nel formato PDF, i testi della RU, della RS e del FF sono pubblicati nei formati seguenti (art. 29 cpv. 2):
+
+  - a. Word;
+  - b. XML;
+  - c. HTML.
+
+- 3\.2. La CaF pubblica le specifiche del formato XML.
+
+### 4. Forma dei testi da fornire alla CaF
+
+- 4\.1 I testi da pubblicare nella RU o nel FF sono forniti alla CaF come documenti Word, formato DOCX, utilizzando i modelli di documento messi a disposizione dalla CaF.
+- 4\.2 Le versioni consolidate dei testi pubblicati mediante rimando secondo gli articoli 5 capoverso 1 e 13 capoverso 3 LPubb, i documenti relativi alle procedure di consultazione e i commenti alle ordinanze sono di regola forniti alla CaF nel formato PDF A-2.

@@ -4,11 +4,11 @@ title: "Verordnung vom 7. Oktober 2015 über die Sammlungen des Bundesrechts und
 short: PublV
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/670"
 language: de
-version: 2018-01-01
+version: 2022-07-01
 adopted: 2015-10-07
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/670/20180101/de/xml/fedlex-data-admin-ch-eli-cc-2015-670-20180101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/670/20180101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/670/20220701/de/xml/fedlex-data-admin-ch-eli-cc-2015-670-20220701-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/670/20220701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/670/20180101/de"
 
 (Publikationsverordnung, PublV)
 
-vom 7. Oktober 2015 (Stand am 1. Januar 2018)
+vom 7. Oktober 2015 (Stand am 1. Juli 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -42,17 +42,18 @@ verordnet:
 Bei folgenden Kategorien von völkerrechtlichen Verträgen kann die federführende Behörde davon ausgehen, dass sie weder Recht setzen noch zur Rechtsetzung ermächtigen (Art. 3 Abs. 1 Bst. b PublG):
 
 - a. internationale Vereinbarungen im Sinne von Artikel 10 des Bundesgesetzes vom 19. März 1976[^1-2] über die internationale Entwicklungszusammenarbeit und humanitäre Hilfe, wenn sie ausschliesslich konkrete Projekte oder bestimmte Beiträge betreffen;
-- b. völkerrechtliche Verträge im Sinne von Artikel 13 Absatz 2 des Bundesgesetzes vom 24. März 2006[^1-3] über die Zusammenarbeit mit den Staaten Osteuropas;
-- c. völkerrechtliche Verträge im Sinne von Artikel 8 des Bundesgesetzes vom 19. Dezember 2003[^1-4] über Massnahmen zur zivilen Friedensförderung und Stärkung der Menschenrechte;
-- d. Vollzugsabkommen zu internationalen Abkommen im Sinne von Artikel 48*a* Absatz 1 des Militärgesetzes vom 3. Februar 1995[^1-5] (MG) über die Ausbildung im Ausland oder mit ausländischen Truppen;
+- b.[^1-3] völkerrechtliche Verträge im Sinne von Artikel 12 Absatz 2 des Bundesgesetzes vom 30. September 2016[^1-4] über die Zusammenarbeit mit den Staaten Osteuropas;
+- c. völkerrechtliche Verträge im Sinne von Artikel 8 des Bundesgesetzes vom 19. Dezember 2003[^1-5] über Massnahmen zur zivilen Friedensförderung und Stärkung der Menschenrechte;
+- d. Vollzugsabkommen zu internationalen Abkommen im Sinne von Artikel 48*a* Absatz 1 des Militärgesetzes vom 3. Februar 1995[^1-6] (MG) über die Ausbildung im Ausland oder mit ausländischen Truppen;
 - e. internationale Abkommen im Sinne von Artikel 66*b* Absatz 2 MG über die Durchführung von Friedensförderungseinsätzen;
 - f. internationale Abkommen im Sinne von Artikel 109*b* MG über Rüstungskooperationen.
 
 [^1-1]: [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
 [^1-2]: [SR 974.0](https://fedlex.data.admin.ch/eli/cc/1977/1352_1352_1352)
-[^1-3]: [SR 974.1](https://fedlex.data.admin.ch/eli/cc/2017/323)
-[^1-4]: [SR 193.9](https://fedlex.data.admin.ch/eli/cc/2004/253)
-[^1-5]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^1-3]: Fassung gemäss Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Juli 2022 ([AS 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
+[^1-4]: [SR 974.1](https://fedlex.data.admin.ch/eli/cc/2017/323)
+[^1-5]: [SR 193.9](https://fedlex.data.admin.ch/eli/cc/2004/253)
+[^1-6]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
 
 #### Art. 2
 
@@ -140,7 +141,9 @@ Sinnverändernde Fehler nach Artikel 10 Absatz 1 PublG sind namentlich:
 
 <sup>1</sup> Die in Artikel 7 Absatz 1 PublG festgelegte Frist umfasst weder den Tag der Veröffentlichung in der AS noch den Tag des Inkrafttretens.
 
-<sup>2</sup> Sind der Erlass und seine Auswirkungen von grosser Tragweite oder erfordert er den Erlass von Ausführungsbestimmungen, so sorgt die federführende Behörde in Zusammenarbeit mit der BK dafür, dass die Veröffentlichung ausreichend früh erfolgt.
+<sup>2</sup> Sind der Erlass und seine Auswirkungen von grosser Tragweite oder erfordert er den Erlass von Ausführungsbestimmungen, so sorgt die federführende Behörde in Zusammenarbeit mit der Bundeskanzlei (BK) dafür, dass die Veröffentlichung ausreichend früh erfolgt.[^10-1]
+
+[^10-1]: Fassung gemäss Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Juli 2022 ([AS 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
 
 #### Art. 11
 
@@ -191,6 +194,10 @@ Die Bezugsquelle von Texten nach Artikel 5 Absatz 2 PublG wird mit den folgenden
 - b. der federführenden Behörde oder allenfalls anderen Stellen, bei welchen der Text unentgeltlich eingesehen werden kann;
 - c. der Postadresse, bei welcher der Text bezogen werden kann, wenn die betreffende Stelle über keine Internetadresse verfügt.
 
+<sup>4</sup> Texte, die durch Verweis veröffentlicht werden, können ausnahmsweise an einem anderen Ort als auf der Publikationsplattform online veröffentlicht werden, wenn sie sich für eine Veröffentlichung auf der Publikationsplattform aus technischen Gründen nicht eignen.[^14-1]
+
+[^14-1]: Eingefügt durch Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Juli 2022 ([AS 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
+
 #### Art. 15
 
 **Änderungen, Berichtigungen und Aufhebungen**
@@ -199,17 +206,34 @@ Wird der durch Verweis veröffentlichte Text geändert, berichtigt oder aufgehob
 
 #### Art. 16
 
-**Pflichten der federführenden Behörde**
+**Pflichten der federführenden Behörde**[^16-1]
 
 <sup>1</sup>
 
-Bei der Veröffentlichung durch Verweis muss die federführende Behörde:
+Bei der Veröffentlichung durch Verweis nach Artikel 5 Absatz 1 PublG liefert die federführende Behörde der BK rechtzeitig vor der Veröffentlichung:
 
-- a. dafür sorgen, dass bei Änderungen von Texten nach Artikel 5 Absatz 1 PublG ab dem Datum des Inkrafttretens der Änderung konsolidierte Fassungen dieser Texte verfügbar sind;
-- b. der BK Texte nach Artikel 5 Absatz 1 PublG zur ausnahmsweisen Erstellung von Einzelausgaben (Art. 36) in elektronischer und druckfertiger Form liefern;
-- c. dafür sorgen, dass die Texte nach Artikel 5 Absatz 2 PublG ab dem Datum der Veröffentlichung des Verweises in der AS jederzeit in den erforderlichen Amtssprachen verfügbar sind und eine allfällige Online-Version zugänglich ist.
+- a. den in der AS durch Verweis zu veröffentlichenden Text;
+- b.
 
-<sup>2</sup> Sie gewährleistet die inhaltliche Richtigkeit der Konsolidierung von Texten nach Artikel 5 Absatz 1 PublG.
+  bei Teilrevisionen:
+
+  - 1\. den zu veröffentlichenden konsolidierten Text, und
+  - 2\. soweit dies zur Herstellung der Transparenz über die Änderungen gegenüber der vorhergehenden Version erforderlich ist, weitere Dokumente zur Veröffentlichung auf der Publikationsplattform.
+
+<sup>2</sup>
+
+Bei der Veröffentlichung durch Verweis nach Artikel 5 Absatz 2 PublG stellt die federführende Behörde sicher, dass:
+
+- a.
+
+  der in der AS durch Verweis zu veröffentlichende Text ab der Veröffentlichung des Verweises:
+
+  - 1\. jederzeit in den erforderlichen Amtssprachen verfügbar ist, und
+  - 2\. wenn es ein von einer privaten Organisation herausgegebener Text ist, bei der federführenden Behörde und allenfalls bei der betreffenden Organisation kostenlos eingesehen und zum persönlichen Gebrauch kopiert werden kann;
+
+- b. bei Änderungen von durch Verweis veröffentlichten Texten die Änderungen gegenüber der vorhergehenden Version erkennbar sind.
+
+[^16-1]: Fassung gemäss Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Juli 2022 ([AS 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
 
 ### 6. Abschnitt: Ausserordentliche Veröffentlichung
 
@@ -285,7 +309,10 @@ Nur mit Titel sowie Fundstelle oder Bezugsquelle (Art. 13 Abs. 3 PublG) werden n
 
 - a. die Botschaft zum Voranschlag der Schweizerischen Eidgenossenschaft und zu dessen Nachträgen;
 - b. die Botschaft zur Staatsrechnung der Schweizerischen Eidgenossenschaft;
+- b<sup>bis</sup>.[^23-1] die Botschaft zur Legislaturplanung;
 - c. der Geschäftsbericht des Bundesrates.
+
+[^23-1]: Eingefügt durch Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Juli 2022 ([AS 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
 
 ### 2. Abschnitt: Hinweise
 
@@ -309,9 +336,14 @@ Erlasse der Bundesversammlung werden im BBl vorerst nur mit Titel und Verabschie
 
 [^26-1]
 
-Zusätzlich zu den Texten nach Artikel 13*a* Absatz 1 PublG wird auf der Publikationsplattform die Datenbank der BK zu den ausserparlamentarischen Kommissionen veröffentlicht.
+Zusätzlich zu den Texten nach Artikel 13*a* PublG werden auf der Publikationsplattform veröffentlicht:
 
-[^26-1]: Fassung gemäss Ziff. II der V vom 11. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5765](https://fedlex.data.admin.ch/eli/oc/2017/622)).
+- a. Erläuterungen zu Verordnungen, zu denen eine Vernehmlassung durchgeführt wurde;
+- b. Erläuterungen zu weiteren Verordnungen, wenn die erlassende Behörde beschliesst, dass die Erläuterungen veröffentlicht werden;
+- c. Informationen der Direktion für Völkerrecht des Eidgenössischen Departements für auswärtige Angelegenheiten über völkerrechtliche Verträge und Beschlüsse des internationalen Rechts, die für die Schweiz in Kraft sind oder von der Schweiz unterzeichnet wurden;
+- d. noch nicht in Kraft getretene Fassungen des Bundesrechts, soweit es in der AS bereits veröffentlicht ist.
+
+[^26-1]: Fassung gemäss Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Juli 2022 ([AS 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
 
 ## 5. Kapitel: Gemeinsame Bestimmungen
 
@@ -344,19 +376,27 @@ Auf der Publikationsplattform sind die Texte namentlich durch folgende Hilfsmitt
 
 <sup>1</sup> Die Texte auf der Publikationsplattform werden im Format PDF veröffentlicht. Die technischen Anforderungen sind in Ziffer 1 des Anhangs festgelegt.
 
-<sup>2</sup> Die BK kann die Texte in weiteren Formaten veröffentlichen.
+<sup>2</sup> Ziffer 3 des Anhangs legt fest, welche Texte in welchen zusätzlichen Formaten veröffentlicht werden.[^29-1]
 
 <sup>3</sup> Die Dokumente im Format PDF enthalten die massgebliche Fassung der Texte.
 
-<sup>4</sup> Die Texte der AS, der SR und des BBl weisen eine einheitliche Darstellung auf.
+<sup>4</sup> Die Texte der AS, der SR und des BBl, nicht aber die durch Verweis veröffentlichten Texte, weisen eine einheitliche Darstellung auf.[^29-2]
+
+[^29-1]: Fassung gemäss Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Juli 2022 ([AS 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
+[^29-2]: Fassung gemäss Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Juli 2022 ([AS 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
 
 #### Art. 30
 
 **Elektronische Signatur**
 
-<sup>1</sup> Auf der Publikationsplattform veröffentlichte Texte der AS und des BBl im Format PDF tragen eine elektronische Signatur der BK. Die technischen Anforderungen sind in Ziffer 2 des Anhangs festgelegt.
+<sup>1</sup> Auf der Publikationsplattform im Format PDF veröffentlichte Texte der AS und des BBl, einschliesslich der Texte, die nach den Artikeln 5 Absatz 1 und 13 Absatz 3 PublG durch Verweis veröffentlicht werden, tragen eine elektronische Signatur der BK. Die technischen Anforderungen sind in Ziffer 2 des Anhangs festgelegt.[^30-1]
 
 <sup>2</sup> Die BK sorgt dafür, dass die elektronischen Signaturen jederzeit über ein Validatorsystem online geprüft werden können.
+
+<sup>3</sup> In dringenden Fällen kann bei technischen Problemen vorübergehend auf die elektronische Signatur verzichtet werden.[^30-2]
+
+[^30-1]: Fassung gemäss Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Juli 2022 ([AS 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
+[^30-2]: Eingefügt durch Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Juli 2022 ([AS 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
 
 ### 3. Abschnitt: Amtssprachen
 
@@ -378,17 +418,31 @@ Die Benutzerführung ist mindestens in den Amtssprachen anzubieten.
 
 <sup>1</sup> Die BK entscheidet im Einvernehmen mit der federführenden Behörde über die Ausnahme von der Veröffentlichung in allen Amtssprachen im Sinne von Artikel 14 Absatz 2 PublG.
 
-<sup>2</sup> Die Texte der VPB werden nur in der Originalsprache des Dokuments mit einer Zusammenfassung in den anderen Amtssprachen veröffentlicht.
+<sup>2</sup> Bei Erläuterungen zu Verordnungen, zu denen eine Vernehmlassung durchgeführt wurde, ist eine Ausnahme von der Veröffentlichung in allen Amtssprachen nur zulässig, wenn die Vernehmlassung freiwillig durchgeführt wurde (Art. 3 Abs. 2 Vernehmlassungsgesetz vom 18. März 2005[^33-1]) und das Vorhaben ausschliesslich von lokaler oder regionaler Bedeutung ist.[^33-2]
+
+[^33-1]: [SR 172.061](https://fedlex.data.admin.ch/eli/cc/2005/542)
+[^33-2]: Fassung gemäss Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Juli 2022 ([AS 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
+
+#### Art. 33a
+
+**Veröffentlichung in weiteren Sprachen**[^33a-1]
+
+Die BK entscheidet im Einvernehmen mit der federführenden Behörde über die Veröffentlichung in weiteren Sprachen im Sinne von Artikel 14 Absatz 6 PublG.
+
+[^33a-1]: Eingefügt durch Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Juli 2022 ([AS 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
 
 ### 4. Abschnitt: Erscheinungsweise
 
 #### Art. 34
 
-<sup>1</sup> Die Internetadresse der Publikationsplattform ist www.bundesrecht.admin.ch. Jede Ausgabe der AS und des BBl weist auf diese Adresse hin.
+<sup>1</sup> ...[^34-1]
 
-<sup>2</sup> Die AS erscheint einmal wöchentlich, gleichzeitig mit dem BBl. Erfordern es dringliche Veröffentlichungen, so erscheinen zusätzliche Ausgaben. Die AS erscheint nur an Arbeitstagen.
+<sup>2</sup> Die AS und das BBl erscheinen in der Regel an jedem Arbeitstag.[^34-2]
 
 <sup>3</sup> Die Online-Version der SR wird laufend nachgeführt.
+
+[^34-1]: Aufgehoben durch Ziff. I der V vom 10. Nov. 2021, mit Wirkung seit 1. Juli 2022 ([AS 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
+[^34-2]: Fassung gemäss Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Juli 2022 ([AS 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
 
 ### 5. Abschnitt: Gedruckte Veröffentlichungen
 
@@ -408,13 +462,19 @@ Gedruckt erfolgt die Veröffentlichung in einem von der BK aufgrund der Nachfrag
 
 <sup>3</sup> Die gedruckte Ausgabe der SR ist als ganze Sammlung oder nach einzelnen Teilen getrennt erhältlich. Die Abonnentinnen und Abonnenten erhalten auch die Nachträge.
 
+<sup>4</sup> Die Absätze 1–3 gelten nicht für die Texte der AS, der SR und des BBl, die durch Verweis nach den Artikeln 5 Absatz 1 und 13 Absatz 3 PublG veröffentlicht werden.[^35-1]
+
+[^35-1]: Eingefügt durch Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Juli 2022 ([AS 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
+
 #### Art. 36
 
-**Einzelausgaben**
+**Einzelausgaben**[^36-1]
 
-<sup>1</sup> Die BK stellt sicher, dass Texte der AS, der SR und des BBl, einschliesslich der Texte, die nach Artikel 5 Absatz 1 PublG durch Verweis veröffentlicht werden, in Form von Einzelausgaben bezogen werden können.
+<sup>1</sup> Die BK stellt sicher, dass Texte der AS, der SR und des BBl, einschliesslich der Texte, die nach den Artikeln 5 Absatz 1 und 13 Absatz 3 PublG durch Verweis veröffentlicht werden, in Form von Einzelausgaben bezogen werden können.
 
-<sup>2</sup> Die BK gibt nach Massgabe der voraussichtlichen Nachfrage Zusammenstellungen von Texten der AS, der SR und des BBl heraus.
+<sup>2</sup> Sie gibt nach Massgabe der voraussichtlichen Nachfrage Zusammenstellungen von Texten der AS, der SR und des BBl, einschliesslich der Texte, die nach den Artikeln 5 Absatz 1 und 13 Absatz 3 PublG durch Verweis veröffentlicht werden, heraus.
+
+[^36-1]: Fassung gemäss Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Juli 2022 ([AS 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
 
 #### Art. 37
 
@@ -436,13 +496,14 @@ Die Veröffentlichungen nach dem PublG sind beim Bundesamt für Bauten und Logis
 
 <sup>1</sup> Die BK stellt die rechtzeitige Veröffentlichung der dem PublG unterliegenden Texte sicher.
 
-<sup>2</sup> Die zur Veröffentlichung bestimmten Texte müssen der BK rechtzeitig in elektronischer Form geliefert werden, und zwar in ihrer definitiven Fassung sowie in den erforderlichen Amtssprachen.
+<sup>2</sup> Die federführende Behörde muss der BK die auf der Publikationsplattform zu veröffentlichenden Texte rechtzeitig liefern. Die Form der zu liefernden Texte richtet sich nach Ziffer 4 des Anhangs. Die Texte sind in ihrer definitiven Fassung und in den erforderlichen Sprachen zu liefern.[^39-1]
 
 <sup>3</sup> Völkerrechtliche Verträge und Beschlüsse des internationalen Rechts müssen zudem der Direktion für Völkerrecht des Eidgenössischen Departements für auswärtige Angelegenheiten rechtzeitig vor ihrem Inkrafttreten in der Originalsprache sowie in elektronischer Form in den erforderlichen Amtssprachen geliefert werden.
 
-<sup>4</sup> Ist die rechtzeitige Veröffentlichung von Botschaften und Berichten nach Artikel 149 des Parlamentsgesetzes vom 13. Dezember 2002[^39-1] nicht möglich, so ist die federführende Behörde für die Zustellung dieser Texte an die Parlamentsdienste verantwortlich.
+<sup>4</sup> Ist die rechtzeitige Veröffentlichung von Botschaften und Berichten nach Artikel 149 des Parlamentsgesetzes vom 13. Dezember 2002[^39-2] nicht möglich, so ist die federführende Behörde für die Zustellung dieser Texte an die Parlamentsdienste verantwortlich.
 
-[^39-1]: [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
+[^39-1]: Fassung gemäss Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Juli 2022 ([AS 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
+[^39-2]: [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
 
 #### Art. 40
 
@@ -507,11 +568,13 @@ Im Sinne von Artikel 16*a* PublG bedeuten:
 
 Die Aufbewahrung der auf der Publikationsplattform veröffentlichten Texte sowie deren Authentizität und Integrität werden namentlich durch folgende Massnahmen sichergestellt:
 
-- a. Von den auf der Publikationsplattform veröffentlichten Texten werden alle Daten aufbewahrt, die notwendig sind, um den Zustand der Texte wiederherzustellen, in dem sie erstmals auf der Publikationsplattform veröffentlicht worden sind (abgeschlossene Daten); die abgeschlossenen Daten werden ausserhalb der öffentlich zugänglichen Kommunikationsnetze an räumlich getrennten Standorten aufbewahrt; mindestens einer der Standorte ist vor Katastrophen geschützt.
+- a.[^43-1] Von den auf der Publikationsplattform veröffentlichten Texten werden alle Daten aufbewahrt, die notwendig sind, um den Zustand der Texte wiederherzustellen, in dem sie erstmals auf der Publikationsplattform veröffentlicht worden sind (abgeschlossene Daten); die abgeschlossenen Daten werden ausserhalb der öffentlich zugänglichen Kommunikationsnetze an räumlich getrennten Standorten aufbewahrt.
 - b. Wird eine Abweichung zwischen den abgeschlossenen Daten und dem auf der Publikationsplattform veröffentlichten Text festgestellt, so wird dieser Text innert eines Tages wieder in den Zustand versetzt, in dem er erstmals auf der Publikationsplattform veröffentlicht worden ist; davon ausgenommen sind anonymisierte Daten im Sinne von Artikel 44 Absatz 2.
 - c. Die Daten werden so übermittelt, dass die Empfängerseite die Publikationsplattform als Absenderin sicher identifizieren kann.
 
 <sup>3</sup> Die BK ergreift die technischen und organisatorischen Massnahmen, die notwendig sind, um den störungsfreien Betrieb der Publikationsplattform sicherzustellen.
+
+[^43-1]: Fassung gemäss Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Juli 2022 ([AS 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
 
 #### Art. 44
 
@@ -530,9 +593,11 @@ Eine Person, über die besonders schützenswerte Personendaten in einem online z
 
 #### Art. 45
 
-**Besonders schützenswerte Personendaten in Texten der AS und der SR**
+**Besonders schützenswerte Personendaten in Texten der AS und der SR**[^45-1]
 
-Besonders schützenswerte Personendaten in Texten der AS und der SR, einschliesslich in Texten, die nach Artikel 5 Absatz 1 PublG dort durch Verweis veröffentlicht wurden, werden entfernt, wenn die federführende Behörde dies anordnet.
+Besonders schützenswerte Personendaten in Texten der AS und der SR, einschliesslich in Texten, die nach Artikel 5 Absatz 1 PublG durch Verweis veröffentlicht werden, werden entfernt, wenn die federführende Behörde dies anordnet.
+
+[^45-1]: Fassung gemäss Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Juli 2022 ([AS 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
 
 #### Art. 46
 
@@ -550,11 +615,9 @@ Die unentgeltliche Konsultation der Publikationsplattform nach Artikel 19 Absatz
 
 #### Art. 48
 
-**Bezug von Daten zu Verwertungszwecken**
+[^48-1]
 
-<sup>1</sup> Die BK stellt die Texte der AS, der SR und des BBl, nicht aber die durch Verweis veröffentlichten Texte, in strukturierter Form elektronisch zur Verfügung. Auf eine Aufbereitung der Daten für besondere Bedürfnisse besteht kein Anspruch.
-
-<sup>2</sup> Das Herunterladen von Daten zu Verwertungszwecken ist unentgeltlich. Für Datenlieferungen werden Gebühren erhoben.
+[^48-1]: Aufgehoben durch Ziff. I der V vom 10. Nov. 2021, mit Wirkung seit 1. Juli 2022 ([AS 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
 
 #### Art. 49
 
@@ -562,19 +625,24 @@ Die unentgeltliche Konsultation der Publikationsplattform nach Artikel 19 Absatz
 
 <sup>1</sup>
 
-Für die Verwertung von Daten nach Artikel 48 gelten die folgenden Bestimmungen:
+Für die Verwertung von auf der Publikationsplattform verfügbaren Daten gelten die folgenden Bestimmungen:[^49-1]
 
 - a. Die Daten dürfen inhaltlich nicht verändert werden.
 - b. Sie sind so darzustellen, dass sie sich optisch deutlich von Kommentaren oder weiteren Zusätzen unterscheiden.
 - c. Sie sind mit folgendem Hinweis zu versehen: «Dies ist keine amtliche Veröffentlichung. Massgebend ist allein die Veröffentlichung durch die Bundeskanzlei.»
-- d. Angaben, welche die BK zur Qualität der gelieferten Daten macht, sind ebenfalls zu veröffentlichen.
+- d. [^49-2] ...
 - e. Weder in der Werbung noch auf der Verpackung, dem Datenträger oder dem elektronischen Medium darf der Eindruck erweckt werden, es handle sich um eine amtliche Veröffentlichung.
-- f. Besonders schützenswerte Personendaten in Texten der AS und der SR, einschliesslich in Texten, die nach Artikel 5 Absatz 1 PublG dort durch Verweis veröffentlicht wurden, müssen entfernt werden, sobald die BK diese nicht mehr oder nur noch in einer anonymisierten Fassung veröffentlicht.
+- f.[^49-3] Besonders schützenswerte Personendaten in Texten der AS und der SR, einschliesslich in Texten, die nach Artikel 5 Absatz 1 PublG durch Verweis veröffentlicht werden, müssen entfernt werden, sobald die BK diese nicht mehr oder nur noch in einer anonymisierten Fassung veröffentlicht.
 - g. Besonders schützenswerte Personendaten in anderen Texten als jenen nach Buchstabe f dürfen nicht verwertet oder weiterverbreitet werden.
+- h.[^49-4] Sie dürfen nur in veredelter Form gegen Entgelt weiterverbreitet oder zugänglich gemacht werden.
 
-<sup>2</sup> Wer Daten nach Artikel 48 bezogen hat, darf diese nur in veredelter Form gegen Entgelt weiterverbreiten oder zugänglich machen.
+<sup>2</sup> und <sup>3</sup> ... [^49-5]
 
-<sup>3</sup> Bei Widerhandlungen gegen die Auflagen kann die BK künftige Datenlieferungen verweigern.
+[^49-1]: Fassung gemäss Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Juli 2022 ([AS 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
+[^49-2]: Aufgehoben durch Ziff. I der V vom 10. Nov. 2021, mit Wirkung seit 1. Juli 2022 ([AS 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
+[^49-3]: Fassung gemäss Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Juli 2022 ([AS 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
+[^49-4]: Eingefügt durch Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Juli 2022 ([AS 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
+[^49-5]: Aufgehoben durch Ziff. I der V vom 10. Nov. 2021, mit Wirkung seit 1. Juli 2022 ([AS 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
 
 ### 10. Abschnitt: Einsichtnahme und Bezug
 
@@ -588,15 +656,20 @@ Für die Verwertung von Daten nach Artikel 48 gelten die folgenden Bestimmungen:
 
 <sup>3</sup> Bei den Einsichtnahmestellen können auch die ihnen zugestellten ausserordentlichen Veröffentlichungen nach Artikel 7 Absatz 4 PublG eingesehen werden.
 
-<sup>4</sup> Fällt die Publikationsplattform vorübergehend aus, so übermittelt die BK auf Anfrage Texte der AS und des BBl.
+<sup>4</sup> Fällt die Publikationsplattform vorübergehend aus, so übermittelt die BK auf Anfrage Texte der AS und des BBl, einschliesslich der Texte, die nach den Artikeln 5 Absatz 1 und 13 Absatz 3 PublG durch Verweis veröffentlicht werden.[^50-1]
+
+[^50-1]: Fassung gemäss Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Juli 2022 ([AS 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
 
 #### Art. 51
 
-**Gebühren**
+**Gebühren**[^51-1]
 
-Die Gebühren für den Bezug von elektronischen Daten nach Artikel 48 sowie von gedruckten Produkten nach den Artikeln 35 und 36 richten sich nach der Gebührenverordnung Publikationen vom 19. November 2014[^51-1].
+<sup>1</sup> Die Gebühren für den Bezug von gedruckten Produkten nach den Artikeln 35 und 36 richten sich nach der Gebührenverordnung Publikationen vom 19. November 2014[^51-2].
 
-[^51-1]: [SR 172.041.11](https://fedlex.data.admin.ch/eli/cc/2014/711)
+<sup>2</sup> Für den Abruf von elektronischen Daten werden keine Gebühren erhoben.
+
+[^51-1]: Fassung gemäss Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Juli 2022 ([AS 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
+[^51-2]: [SR 172.041.11](https://fedlex.data.admin.ch/eli/cc/2014/711)
 
 ## 6. Kapitel: Schlussbestimmungen
 
@@ -638,24 +711,39 @@ Sie betreibt Fachapplikationen im Bereich der Veröffentlichungen nach dem PublG
 
 Diese Verordnung tritt am 1. Januar 2016 in Kraft.
 
-Anhang*[^t-1]*
+Anhang[^t-1]
 
-(Art. 29 Abs. 1, 30 Abs. 1 und 52 Abs. 3)
+(Art. 29 Abs. 1 und 2, 30 Abs. 1, 39 Abs. 2 und 52 Abs. 3)
 
 ## Technische Anforderungen
 
-[^t-1]: Bereinigt gemäss Anhang Ziff. II 1 der V vom 23. Nov. 2016 über die elektronische Signatur ([AS 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)) und Ziff. I der V der BK vom 8. März 2017, in Kraft seit 1. Jan. 2017 ([AS 2017 709](https://fedlex.data.admin.ch/eli/oc/2017/134)).
+[^t-1]: Fassung gemäss Ziff. II der V vom 10. Nov. 2021, in Kraft seit 1. Juli 2022 ([AS 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
 
-### 1 Format PDF
+### 1. Format PDF
 
-Das Format PDF im Sinne von Artikel 29 Absatz 1 ist in der Version A-1a einzusetzen.
+Als Format PDF im Sinne von Artikel 29 Absatz 1 gelten die Versionen A-1a und A-2.
 
-### 2 Elektronische Signatur
+### 2. Elektronische Signatur
 
 - 2\.1 Die elektronische Signatur gemäss Artikel 30 ist ein geregeltes elektronisches Siegel nach Artikel 2 Buchstabe d des Bundesgesetzes vom 18. März 2016[^annexu1-lvlu1-lvl2-1] über die elektronische Signatur (ZertES).
 - 2\.2 Die Gültigkeit des Zertifikats muss beim Anbringen des Siegels geprüft werden.
 - 2\.3 Dem Siegel muss ein qualifizierter elektronischer Zeitstempel nach Artikel 2 Buchstabe j ZertES beigefügt werden.
-- 2\.4 Bis die technischen Voraussetzungen für das Anbringen des Siegels geschaffen sind, werden die Texte nach bisherigem Recht[^annexu1-lvlu1-lvl2-2] signiert.
 
 [^annexu1-lvlu1-lvl2-1]: [SR 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
-[^annexu1-lvlu1-lvl2-2]: [AS 2015 3989](https://fedlex.data.admin.ch/eli/oc/2015/670)
+
+### 3. Zusätzliche Formate
+
+- 3\.1
+
+  Die Texte der AS, der SR und des BBl werden zusätzlich zum Format PDF in folgenden Formaten veröffentlicht (Art. 29 Abs. 2):
+
+  - a. Word;
+  - b. XML;
+  - c. HTML.
+
+- 3\.2. Die BK veröffentlicht die Spezifikation des Formats XML.
+
+### 4. Form der Texte für die Lieferung an die BK
+
+- 4\.1 Die Texte, die in der AS oder im BBl zu veröffentlichen sind, werden der BK als Word-Datei, Format DOCX, unter Verwendung der von der BK zur Verfügung gestellten Dokumentenvorlagen geliefert.
+- 4\.2 Die konsolidierten Fassungen der Texte, die nach den Artikeln 5 Absatz 1 und 13 Absatz 3 PublG durch Verweis zu veröffentlichen sind, die Unterlagen zu Vernehmlassungen sowie die Erläuterungen zu Verordnungen werden der BK in der Regel im Format PDF A-2 geliefert.
