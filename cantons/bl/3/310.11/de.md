@@ -4,13 +4,13 @@ number: "310.11"
 title: Finanzhaushaltsverordnung
 short: Vo FHG
 language: de
-version: 2022-01-01
-valid_until: 2022-06-30
-version_adopted: 2021-11-23
+version: 2022-07-01
+valid_until: 2022-12-31
+version_adopted: 2022-06-28
 adopted: 2017-11-14
 in_force: 2018-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/310.11"
-pdf: "https://bl.clex.ch/api/de/versions/3203/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3357/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3203/pdf_file"
 
 (Vo FHG)
 
-Vom 14.11.2017 (Stand 01.01.2022)
+Vom 14.11.2017 (Stand 01.07.2022)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -351,13 +351,13 @@ beschliesst:
 
 #### § 28
 
-**Weiterbelastung von IT-Leistungen sowie von Materialbezügen beim Stab Rechnungswesen, Einkauf und Logistik des Generalsekretariats der Bildungs-, Kultur- und Sportdirektion ([§ 30](https://bl.clex.ch/data/310/de/art30) FHG)**
+**Weiterbelastung von IT-Leistungen sowie von Materialbezügen bei der Abteilung Rechnungswesen, Einkauf und Logistik des Generalsekretariats der Bildungs-, Kultur- und Sportdirektion ([§ 30](https://bl.clex.ch/data/310/de/art30) FHG)**
 
 <sup>1</sup> Aufwendungen für Server, Storage und Clients (IT-Arbeitsplätze) für den Betrieb bestehender Arbeitsplätze belastet die Finanz- und Kirchendirektion der leistungsbeziehenden Dienststelle über die Finanzbuchhaltung weiter.
 
 <sup>2</sup> Für die Weiterbelastung von IT-Leistungen werden die externen Aufwendungen für Hardware, Software, Wartung und Dienstleistungen Dritter gemäss Service Level Agreement zwischen der Zentralen Informatik und der jeweiligen Dienststelle berücksichtigt.
 
-<sup>3</sup> Für die Weiterbelastung von Materialbezügen bei der Schul- und Büromaterialverwaltung gilt Abs. 1 sinngemäss.
+<sup>3</sup> Für die Weiterbelastung von Materialbezügen bei Einkauf und Logistik gilt Abs. 1 sinngemäss.
 
 <sup>4</sup> Die Weiterbelastungen erfolgen zu Einkaufspreisen.
 
@@ -505,7 +505,8 @@ beschliesst:
 - h. an die Gemeinden für ihren Anteil an den Gebühren, die infolge gewährter Fristerstreckung für die Einreichung der Steuererklärung erhoben werden,
 - i. für die von der Konferenz der Kantonalen Finanzdirektoren und Finanzdirektorinnen (FDK) beschlossenen Kostenbeiträge zur Finanzierung der Projekte der Schweizerischen Steuerkonferenz (SSK),
 - j. für den Anteil der Einwohnergemeinden an der direkten Bundessteuer,
-- k. für den Anteil der Landeskirchen an der direkten Bundessteuer.
+- k. für den Anteil der Landeskirchen an der direkten Bundessteuer,
+- l. an die Gemeinden für die Vergütung der Kosten in den Bereichen der Unterstützung bedürftiger Personen, der Unterstützung Asylsuchender sowie der Eingliederung bedürftiger Personen entsprechend den §§ 31, 32 sowie 34 des Sozialhilfegesetzes (SHG) vom 21. Juni 2001[^39-1].
 
 <sup>2</sup> Die Volkswirtschafts- und Gesundheitsdirektion ist unabhängig von der Ausgabenhöhe zuständig für die Bewilligung der gebundenen Ausgaben für:
 
@@ -513,7 +514,7 @@ beschliesst:
 - b. die stationären Aufenthalte in Spitälern und Kliniken,
 - c. den Kantonsbeitrag an das SECO für Arbeitsvermittlung und arbeitsmarktliche Massnahmen,
 - d. die Revier- und Pflegebeiträge gemäss der kantonalen Waldgesetzgebung,
-- e. die Förderbeiträge an Organisationen des gemeinnützigen Wohnungsbaus ([SGS 842.15](https://bl.clex.ch/data/842.15/de)).
+- e. Kantonsbeiträge, Investitionskredite und Betriebshilfedarlehen in Kompetenz der Investitionshilfekommission gemäss § 4 der Verordnung über die Investitionshilfen in der Landwirtschaft ([SGS 514.11](https://bl.clex.ch/data/514.11/de)).
 
 <sup>3</sup> Die Bau- und Umweltschutzdirektion ist unabhängig von der Ausgabenhöhe zuständig für die Bewilligung der gebundenen Ausgaben für:
 
@@ -533,13 +534,14 @@ beschliesst:
 
 - a. die interkantonalen Schulabkommen,
 - b. die Lehrmittel,
-- c. das Schul- und Büromaterial, das durch den Stab Rechnungswesen, Einkauf und Logistik des Generalsekretariats der Bildungs-, Kultur- und Sportdirektion eingekauft wird;
+- c. das Schul- und Büromaterial, das durch die Abteilung Rechnungswesen, Einkauf und Logistik des Generalsekretariats der Bildungs-, Kultur- und Sportdirektion eingekauft wird;
 - d. die schulischen Aufgaben- und Leistungschecks;
 - e. die Kulturvertragspauschale,
 - f. die bedarfsabhängigen Leistungen der Behinderten- und Jugendhilfe,
-- g. die bedarfsabhängigen Leistungen der Speziellen Förderung an einer Privatschule, der integrativen oder separativen Sonderschulung und der heilpädagogischen Früherziehung gemäss der Verordnung über die Spezielle Förderung, die Sonderschulung und die heilpädagogische Früherziehung vom 22. Juni 2021[^39-1].
+- g. die bedarfsabhängigen Leistungen der Speziellen Förderung an einer Privatschule, der integrativen oder separativen Sonderschulung und der heilpädagogischen Früherziehung gemäss der Verordnung über die Spezielle Förderung, die Sonderschulung und die heilpädagogische Früherziehung vom 22. Juni 2021[^39-2].
 
-[^39-1]: [SGS 640.71](https://bl.clex.ch/data/640.71/de)
+[^39-1]: [SGS 850](https://bl.clex.ch/data/850/de/art31)
+[^39-2]: [SGS 640.71](https://bl.clex.ch/data/640.71/de)
 
 #### § 40
 
