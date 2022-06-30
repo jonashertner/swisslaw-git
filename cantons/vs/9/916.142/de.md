@@ -4,13 +4,13 @@ number: "916.142"
 title: Verordnung über den Rebbau und den Wein
 short: VRW
 language: de
-version: 2021-09-01
-valid_until: 2022-06-30
-version_adopted: 2021-08-18
+version: 2022-07-01
+valid_until: 2026-03-31
+version_adopted: 2022-07-13
 adopted: 2004-03-17
 in_force: 2004-05-01
 url: "https://lex.vs.ch/app/de/texts_of_law/916.142"
-pdf: "https://lex.vs.ch/api/de/versions/2939/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3051/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,25 +19,25 @@ pdf: "https://lex.vs.ch/api/de/versions/2939/pdf_file"
 
 (VRW)
 
-vom 17.03.2004 (Stand 01.09.2021)
+vom 17.03.2004 (Stand 01.07.2022)
 
 Der Staatsrat des Kantons Wallis
 
-eingesehen das Bundesgesetz über die Landwirtschaft vom 29. April 1998 (Landwirtschaftsgesetz, LwG);
+eingesehen das Bundesgesetz über die Landwirtschaft vom 29. April 1998 (LwG);
 
-eingesehen die Bundesverordnung über den Rebbau und die Einfuhr von Wein vom 7. Dezember 1998 (Weinverordnung);
+eingesehen das Bundesgesetz über Lebensmittel und Gebrauchsgegenstände vom 20. Juni 2014 (LMG);
 
-eingesehen das Bundesgesetz über Lebensmittel und Gebrauchsgegenstände vom 9. Oktober 1992 (Lebensmittelgesetz, LMG) und die Lebensmittelverordnung vom 1. März 1995;
+eingesehen die Bundesverordnung über den Rebbau und die Einfuhr von Wein vom 14. November 2007 (Weinverordnung, VRW);
 
-eingesehen die Verordnung des Bundesrats über die Kontrolle des Handels mit Wein vom 28. Mai 1997;
+eingesehen die Verordnung des EDI über Getränke vom 16. Dezember 2016 (VG);
 
-eingesehen das kantonale Gesetz über die Landwirtschaft vom 28. September 1993 (kLwG);
+eingesehen die Lebensmittel- und Gebrauchsgegenständeverordnung vom 16. Dezember 2016 (LGV);
 
-eingesehen das kantonale Gesetz über den Schutz von Personendaten von 28. Juni 1984;
+eingesehen das kantonale Gesetz über die Landwirtschaft und die Entwicklung des ländlichen Raumes vom 8. Februar 2007 (kLwG);
 
-auf Antrag des Departements der Finanzen, Landwirtschaft und Äusseren Angelegenheiten,
+auf Antrag des für die Volkswirtschaft zuständigen Departements,
 
-beschliesst:
+verordnet:
 
 #### Art. 1
 
@@ -78,10 +78,11 @@ beschliesst:
 - f) die Sicherstellung der Beratung und der Kontrolle der umweltverträglichen Bewirtschaftungsmethoden;
 - g) die Erstellung und die Verteilung der Produktionsrechte (Bescheinungen);
 - h) die Koordination der Aktualisierung der Rebbausektoren durch die Gemeinden und ihre Unterstützung in dieser Aufgabe;
-- i) die Anerkennung der traditionellen, spezifischen und ursprünglichen Bezeichnungen;
+- i) die Definition der Weine mit spezifischen und traditionellen Bezeichnungen;
+- i<sup>bis</sup> die Festlegung der Anforderungen an die kontrollierten Ursprungsbezeichnungen;
 - j) die Führung, die Organisation und die Überwachung der Kontrolle der Weinernte;
-- k) die Ernennung der offiziellen Kontrolleure für jede Weinregion durch den Staatsrat;
-- l) das Ergreifen von allen notwendigen Massnahmen bei Unregelmässigkeiten und der definitive Entscheid über alle Streitigkeiten bezüglich der Kontrolle der Weinernte;
+- k) …
+- l) das Ergreifen von allen notwendigen Massnahmen bei Unregelmässigkeiten, unter Vorbehalt der an andere Stellen übertragenen Zuständigkeiten, und der definitive Entscheid über alle Streitigkeiten bezüglich der Kontrolle der Weinernte;
 - m) die Führung von weinwirtschaftlichen Statistiken.
 
 <sup>2</sup> Sie ist mit allen Aufgaben betraut, welche nicht ausdrücklich einer anderen Behörde zugewiesen sind.
@@ -113,8 +114,8 @@ beschliesst:
 - a) die Ertragsgrenze im Sinne von Artikel 44 jährlich auf Ende Juni nach Angebot und Nachfrage des Marktes festzulegen;
 - b) die Richtpreise der Trauben vor der Ernte festzulegen;
 - c) die Kontrollen und die verschiedenen Aufgaben, die ihr durch das Kapitel 10 dieser Verordnung anvertraut sind, vorzunehmen;
-- d) die Qualitätskontrollen durch Degustation zu organisieren;
-- e) die festgestellten Unregelmässigkeiten anlässlich der Degustationskontrollen dem Kantonschemiker zu melden;
+- d) die Qualitätskontrollen durch Degustation zu organisieren und bei Unregelmässigkeiten die Deklassierung auszusprechen;
+- e) die anlässlich der Degustationskontrollen festgestellten Unregelmässigkeiten der Schweizer Weinhandelskontrolle (SWK), dem Kantonschemiker und der Dienststelle zu melden;
 - f) die Zahlen des Walliser Weinmarktes zusammenzuführen;
 - g) die Strategie im Bereich der Absatzförderung sowie der Weinbranche im Allgemeinen zu definieren;
 - h) die gesetzlichen Änderungen in allen Bereichen, welche die Weinbranche betreffen, vorzuschlagen.
@@ -139,7 +140,7 @@ beschliesst:
 
 <sup>5</sup> Sie ist zuständig für die Aufteilung der Produktionsrechte.
 
-<sup>6</sup> Für die Anwendung der Bezeichnung Grand Cru gemäss Kapitel 11 dieser Verordnung kann sie allein oder mit Nachbargemeinden ein Reglement erstellen.
+<sup>6</sup> Für die Anwendung der Kennzeichnung Grand Cru gemäss Kapitel 11 dieser Verordnung kann sie allein oder mit Nachbargemeinden ein Reglement erstellen.
 
 <sup>7</sup> Auf der Grundlage einer Gemeindeklausel kann sie den Rebberg unter Bann stellen.
 
@@ -192,6 +193,8 @@ beschliesst:
 
 <sup>2</sup> Es entspricht der Fläche, die vernünftigerweise zum Wenden nötig ist.
 
+<sup>2<sup>bis</sup></sup> Wird nachgewiesen, dass ausgewogene spezifische Massnahmen zugunsten der Biodiversität getroffen wurden, gilt die diesbezügliche Fläche als Rebfläche.
+
 <sup>3</sup> Die Bestimmungen des Bundesrechts bleiben vorbehalten.
 
 #### Art. 11
@@ -226,7 +229,7 @@ beschliesst:
 
 <sup>4</sup> Eine Kontrolle an Ort wird durch die Dienststelle durchgeführt, welche die Vormeinung der Dienststelle für Wald und Landschaft einfordert und namentlich in Anwendung der Kriterien des Bundesrechts beschliesst.
 
-<sup>5</sup> Befindet sich die Parzelle am Ufer eines Wasserlaufs, wird das Gesuch der kantonalen Dienststelle für Strassen Verkehr und Flussbau sowie der kantonalen Dienststelle für Umweltschutz zur Vormeinung unterbreitet.
+<sup>5</sup> Befindet sich die Parzelle am Ufer eines Fliessgewässers, wird das Gesuch den zuständigen kantonalen Dienststellen für Flussbau, für Raumentwicklung, sowie für Umwelt zur Vormeinung unterbreitet.
 
 #### Art. 14
 
@@ -295,7 +298,7 @@ beschliesst:
 - f) das Jahr des Wiederaufbaus oder der Neuanpflanzung;
 - g) die Fläche pro Rebsorte, die Rebsorte und das Unterlagenholz;
 - h) der Rebbausektor;
-- i) die Hangneigung (50%, Terrasse);
+- i) die Hangneigung (nach den von den Direktzahlungen verwendeten Daten);
 - j) die Zugehörigkeit zum Weingebiet oder ausserhalb des Weingebiets in der Landwirtschaftszone oder Bauzone.
 
 #### Art. 16
@@ -354,7 +357,7 @@ beschliesst:
 
 <sup>2</sup> Jeder Weinbauer und jeder Rebschulist muss in der Lage sein, über das angepflanzte oder gelagerte Pflanzengut seines Rebberges Auskunft zu erteilen. Ebenso hat er alle notwendigen Dokumente, welche die Echtheit der Rebsorte und der Unterlage der betroffenen Mengen bescheinigt, sowie der Name des Lieferanten, respektiv des Käufers vorzuweisen.
 
-<sup>3</sup> Auf Anfrage der Dienststelle ist der Weinbauer gehalten, für alles eingeführte Pflanzengut die vom Bund geforderten Begleitdokumente bei der Einfuhr vorzuweisen. Jede Anpflanzung mit importiertem Pflanzengut muss der Dienststelle bis spätestens am 30. Juni nach der Pflanzung gemeldet werden.
+<sup>3</sup> Auf Anfrage der Dienststelle ist der Weinbauer gehalten, für alles eingeführte Pflanzengut die vom Bund geforderten Begleitdokumente bei der Einfuhr vorzuweisen.
 
 ## 4 Produktionsrechte (Bescheinigungen)
 
@@ -364,16 +367,16 @@ beschliesst:
 
 <sup>1</sup> Die Bescheinigung ist ein Amtsdokument, erstellt durch die Dienststelle gemäss den Daten des kantonalen Rebbergregisters, welche die maximalen Produktionsrechte pro Rebfläche festlegt.
 
-<sup>2</sup> Die Bescheinigung ist auf den Eigentümer ausgestellt und wird nach Gemeinden gestützt auf die Gesamtheit seiner Parzellen, nach Massgabe der Rebsorte, der Kategorie und der Ursprungsbezeichnung zugestellt.
+<sup>2</sup> Die Bescheinigung ist auf den Eigentümer ausgestellt und wird nach Gemeinden, gestützt auf die Gesamtheit seiner Parzellen, nach Massgabe der Rebsorte, der Weinklasse und der Ursprungsbezeichnung zugestellt.
 
 <sup>2<sup>bis</sup></sup> Sie ist mit einem spezifischen Rückverfolgbarkeitscode versehen.
 
-<sup>3</sup> Die Produktion von Tafeltrauben ist nicht in der Bescheinigung enthalten.
+<sup>3</sup> …
 
 <sup>4</sup> Geben kein Anrecht auf eine Bescheinigung:
 
 - a) die den gesetzlichen Anforderungen nicht entsprechenden Rebflächen;
-- b) die brachliegenden oder vernachlässigten Parzellen;
+- b) die vernachlässigten oder derelinquierten Parzellen;
 - c) Rebberge, deren Anpflanzung gemäss Artikel 9 Absatz 4 bewilligt wurde.
 
 <sup>5</sup> In speziellen Fällen kann die Dienststelle für ein begründetes Gesuch ein Doppel der Bescheinigung ausstellen.
@@ -388,16 +391,29 @@ beschliesst:
 
 <sup>3</sup> Die Aufteilung der Bescheinigungen liegt im Zuständigkeitsbereich derjenigen Gemeinde, in der sich die betroffenen Parzellen befinden.
 
+#### Art. 24a
+
+**Zusammenlegung von Bescheinigungen**
+
+<sup>1</sup> Bescheinigungen, die kumulativ dieselbe Gemeinde, dieselbe Rebsorte, dieselbe Weinklasse und dieselbe Ursprungsbezeichnung betreffen, können zusammengelegt werden.
+
+<sup>2</sup> Die Zusammenlegung von Bescheinigungen unter den in Absatz 1 genannten Bedingungen kann insbesondere in Betracht gezogen werden, wenn ein einziger Bewirtschafter die Parzellen mehrerer Eigentümer erntet und anschliessend die entsprechende Ernte demselben Einkellerer abliefert.
+
+<sup>3</sup> Die Bescheinigungen werden im vom Kanton zur Verfügung gestellten Informatiksystem zusammengelegt. Daraus ergibt sich eine einzige zusammengelegte Bescheinigung, deren Gesamtfläche jener der ursprünglichen Bescheinigungen entspricht.
+
+<sup>4</sup> Die Zusammenlegung der Bescheinigungen liegt im Zuständigkeitsbereich des Bewirtschafters.
+
 #### Art. 25
 
 **Arten**
 
-<sup>1</sup> Die Bescheinigungen sind getrennt nach Rebsorten, Kategorien und Ursprungs-bezeichnungen ausgestellt.
+<sup>1</sup> Die Bescheinigungen sind getrennt nach Rebsorten, Weinklassen und Ursprungsbezeichnungen ausgestellt.
 
-<sup>2</sup> Zwei Bescheinigungsarten sind zugelassen:
+<sup>2</sup> Drei Bescheinigungsarten sind zugelassen:
 
-- a) Ursprungsbescheinigung pro Rebsorte, Kategorie und Ursprungsbezeichnung;
-- b) Teilbescheinigung, welche sich aus der Aufgliederung einer Ursprungsbescheinigung ergibt.
+- a) Ursprungsbescheinigung pro Rebsorte, Weinklasse und Ursprungsbezeichnung;
+- b) Teilbescheinigung, die sich aus der Aufgliederung einer Ursprungs- oder Teilbescheinigung ergibt;
+- c) zusammengelegte Bescheinigung, die sich aus der Zusammenlegung mehrerer Ursprungs- und/oder Teilbescheinigungen ergibt.
 
 #### Art. 26
 
@@ -409,15 +425,17 @@ beschliesst:
 - b) die Name, Vorname(n) und die Adresse des Eigentümers;
 - c) das Jahr;
 - d) die Gemeinde, in der sich die Parzellen befinden;
-- e) die Rebsorte, die Kategorie und die Ursprungsbezeichnung;
+- e) die Rebsorte, die Weinklasse und die Ursprungsbezeichnung;
 - f) die Rebfläche in Quadratmeter;
-- g) das Produktionsrecht, ausgedrückt in Kilogramm, unter Angabe der quantitativen Ertragsgrenze für jede der drei Kategorien für die betroffenen Flächen.
+- g) das Produktionsrecht, ausgedrückt in Kilogramm, unter Angabe der quantitativen Ertragsgrenze für jede der drei Weinklassen für die betroffenen Flächen.
 
 <sup>2</sup> Die Teilbescheinigungen enthalten namentlich folgende Angaben:
 
 - a) die Elemente der Ursprungsbescheinigung;
 - b) die Teilungsnummer;
 - c) der Stempel und die Unterschrift des kommunalen Rebbergregisterhalters.
+
+<sup>3</sup> Die zusammengelegten Bescheinigungen enthalten namentlich die kumulativen Elemente der Ursprungs- und/oder Teilbescheinigungen.
 
 #### Art. 27
 
@@ -426,10 +444,10 @@ beschliesst:
 <sup>1</sup> Jährlich übermittelt die Dienststelle jedem Eigentümer, aufgeteilt nach der Gemeinde, in der sich die Parzellen befinden, folgende Angaben:
 
 - a) eine Kopie seines Rebbergregisters;
-- b) eine Bescheinigung pro Fläche für jede Rebsorte, Kategorie und Ursprungsbezeichnung;
+- b) eine Bescheinigung pro Fläche für jede Rebsorte, Weinklasse und Ursprungsbezeichnung.
 - c) …
 
-<sup>2</sup> Bei der Ausgabe der Bescheinigungen übermittelt die Dienststelle dem Rebbergregisterhalter der Gemeinde eine Kopie des Rebbergregisters jedes Eigentümers.
+<sup>2</sup> …
 
 #### Art. 28
 
@@ -447,7 +465,7 @@ beschliesst:
 
 <sup>2</sup> Die Bescheinigungen müssen dem Einkellerer spätestens bei der ersten Einlieferung der Weinernte ausgehändigt werden.
 
-<sup>3</sup> Auf jeder hinterlegten Bescheinigung müssen die vollständige Adresse des Lieferanten (Name, Vorname(n), Vatername und Wohnort) sowie die Kategorie angegeben sein, welcher dieser die Weinernte der auf der Bescheinigung aufgeführten Fläche zuweisen will.
+<sup>3</sup> Auf jeder hinterlegten Bescheinigung müssen die vollständige Adresse des Lieferanten (Name, Vorname(n), Vatername und Wohnort), seine Businesspartner-Nummer sowie die einzige Weinklasse angegeben sein, welcher dieser die Weinernte der auf der Bescheinigung aufgeführten Fläche zuweisen will.
 
 <sup>4</sup> Sie müssen sofort durch den Einkellerer datiert und unterzeichnet werden.
 
@@ -459,9 +477,13 @@ beschliesst:
 
 <sup>2</sup> Die Bescheinigung von jedem Lieferant (Eigentümer, Selbstbewirtschafter, Einkellerer) muss Gegenstand einer Kontrolle und einer individuellen Deklassierung sein.
 
-<sup>3</sup> Die Einkellerer deklassieren die eingebrachten Mengen in die entsprechende Kategorie, wenn der festgestellte natürliche Mindestzuckergehalt für Weine dieser Kategorie nicht erreicht wird. Die Deklassierung erfolgt für den Posten, welcher die Deklassierung verursacht hat.
+<sup>3</sup> Die Einkellerer deklassieren die eingebrachten Mengen in die nächstniedrigere Weinklasse, wenn der festgestellte natürliche Mindestzuckergehalt für Weine dieser Weinklasse nicht erreicht wird. Die Deklassierung erfolgt für die Traubenlieferung, welche die Deklassierung verursacht hat.
 
 <sup>4</sup> …
+
+<sup>5</sup> Die Einkellerer deklassieren die entgegengenommenen Traubenlieferungen, welche die quantitative Ertragsgrenze (QEG) für die gemeldete Klasse überschreiten, in die nächstniedrigere Klasse. Die Deklassierung erfolgt für den gesamten betroffenen Traubenposten.
+
+<sup>6</sup> Wenn eine Traubenlieferung nicht den natürlichen Mindestzuckergehalt für die Tafelweine aufweist, kann sie nicht zu Wein weiterverarbeitet werden.
 
 ## 5 Rebsorten und Unterlagen
 
@@ -484,12 +506,12 @@ beschliesst:
 
 <sup>1</sup> Als einheimische Rebsorten werden folgende Rebsorten betrachtet:
 
-- a) Weisse Rebsorten: Amigne (2 bis 3), Arvine (3), Humagne blanc (2), Resi (2);
+- a) Weisse Rebsorten: Amigne (2 bis 3), Arvine (Petite Arvine) (3), Humagne blanc (Humagne blanche) (2), Resi (2);
 - b) Rote Rebsorten: Cornalin du Valais (3) (Landroter).
 
 <sup>2</sup> Als traditionelle Rebsorten werden folgende Rebsorten betrachtet:
 
-- a) Weisse Rebsorten: Chardonnay (1), Chasselas (1), Gwäss (Gouais) (2 bis 3), Himbertscha (1 bis 2), Lafnetscha (1), Marsanne blanche (3) (Ermitage), Muscat (1 bis 2), Pinot blanc (1), Pinot gris (Malvoisie) (1), Riesling (Petit Rhin) (2), Müller-Thurgau oder Riesling-Sylvaner (Riesling x Chasselas de Courtiller) (F), Roussanne (2 bis 3), Savagnin blanc (Heida oder Païen) (1 bis 2), Sylvaner (Gros Rhin) (1 bis 2);
+- a) Weisse Rebsorten: Chardonnay (1), Chasselas (1), Gwäss (Gouais) (2 bis 3), Himbertscha (1 bis 2), Lafnetscha (1), Marsanne blanche (Marsanne, Ermitage) (3), Muscat (1 bis 2), Pinot blanc (1), Pinot gris (Malvoisie) (1), Riesling (Petit Rhin) (2), Müller-Thurgau oder Riesling-Sylvaner (Riesling x Chasselas de Courtiller) (F), Roussanne (2 bis 3), Savagnin blanc (Heida oder Païen) (1 bis 2), Sylvaner (Gros Rhin) (1 bis 2);
 - b) Rote Rebsorten: Durize (Rouge de Fully) (3), Eyholzer Roter (2), Gamay (1), Humagne rouge (3), Pinot noir (1), Syrah (2 bis 3).
 
 #### Art. 33
@@ -512,15 +534,15 @@ beschliesst:
 
 **AOC Wallis nicht berechtigte Rebsorten**
 
-<sup>1</sup> Für Versuche mit AOC Wallis nicht berechtigten Rebsorten muss vorgängig eine Bewilligung bei der Dienststelle eingeholt werden.
+<sup>1</sup> …
 
 <sup>2</sup> …
 
-<sup>3</sup> Weine, welche von AOC Wallis nicht berechtigten Rebsorten abstammen, haben kein Recht auf die Bezeichnung AOC oder auf irgendeine traditionelle Walliser Bezeichnung.
+<sup>3</sup> Weine, welche von AOC Wallis nicht berechtigten Rebsorten abstammen, haben kein Recht auf die Ursprungsbezeichnung AOC oder auf irgendeine traditionelle Walliser Bezeichnung.
 
 <sup>4</sup> Sie können nicht mit anderen AOC-Weinen zusammengemischt werden.
 
-<sup>5</sup> Die Hauptetiquette muss die Bezeichnung "Landwein" aufweisen.
+<sup>5</sup> Die Hauptetiquette muss die Weinklasse “Landwein“ aufweisen.
 
 #### Art. 34a
 
@@ -556,13 +578,13 @@ beschliesst:
 
 <sup>2</sup> Sie wird für alle Rebsorten bei denen die Anpflanzung in den Artikeln 32 und 33 erlaubt ist, erteilt.
 
-<sup>3</sup> Schaumweine mit der kontrollierten Ursprungsbezeichnung AOC Wallis sind das Erzeugnis aus Stillweinen, die alle Bestimmungen der Walliser AOC erfüllen.
+<sup>3</sup> Schaum- und Perlweine mit der kontrollierten Ursprungsbezeichnung AOC Wallis sind das Erzeugnis aus Stillweinen, die alle Bestimmungen der Walliser AOC erfüllen.
 
 #### Art. 38
 
 **Landweine**
 
-<sup>1</sup> Die Bezeichnung Landweine (LW) wird Weinen zugeteilt, die aus Walliser LW-Weinernten stammen und für diese mit traditioneller Bezeichnung den Anforderungen, die in den Artikeln 41 und 43 vorgesehen sind, entsprechen.
+<sup>1</sup> Die Weinklasse "Landweine" (LW) wird Weinen zugeteilt, die aus Walliser LW-Weinernten stammen und die in den Artikeln 41 und 43 vorgesehenen Anforderungen für diese traditionellen Bezeichnungen erfüllen.
 
 #### Art. 39
 
@@ -594,19 +616,15 @@ beschliesst:
 <tr><td>Alle roten Rebsorten</td><td>83.0</td><td>20.0</td><td>70.6</td><td>17.2</td></tr>
 </table>
 
-<sup>2</sup> Für die Rebberge unterhalb von Evionnaz wird der Mindestgehalt an natürlichem Zucker der weissen beziehungsweise roten Rebsorten, welche Anrecht auf AOC-Weine haben, um 1.0 Prozent Brix beziehungsweise 1.4 Prozent Brix herabgesetzt. Diese Weine müssen obligatorisch die Herkunftsbezeichnung der betreffenden Gemeinde benutzen (z.B. Fendant von Vouvry, Pinot noir von Monthey usw.).
+<sup>2</sup> …
 
 <sup>3</sup> In Jahren mit aussergewöhnlich ungünstigen klimatischen Bedingungen kann der Vorsteher des mit der Landwirtschaft beauftragten Departements, nach Anhörung der Branchenorganisation, bei der Ernteeröffnung eine Herabsetzung dieser natürlichen Mindestzuckergehalte beschliessen.
 
-<sup>4</sup> Für das Traubengut, das zur Herstellung von Walliser AOC-Schaumweinen bestimmt ist, beträgt der natürliche Mindestzuckergehalt 17.2 Prozent Brix (70,6 °Oe).
+<sup>4</sup> Für das Traubengut, das zur Herstellung von Walliser AOC-Schaum- und Perlweinen bestimmt ist, beträgt der natürliche Mindestzuckergehalt 17.2 Prozent Brix (70,6 °Oe).
 
 #### Art. 42
 
-**Klassierung**
-
-<sup>1</sup> Wenn eine Traubenlieferung nicht den natürlichen Mindestzuckergehalt für AOC-Weine beziehungsweise LW aufweist, wird sie direkt in der niedrigeren Kategorie klassiert.
-
-<sup>2</sup> Wenn eine Traubenlieferung nicht den natürlichen Mindestzuckergehalt für TW aufweist, kann sie nicht zu Wein weiterverarbeitet werden.
+**…**
 
 #### Art. 43
 
@@ -623,7 +641,7 @@ beschliesst:
 
 <sup>2</sup> Die quantitativen Ertragsgrenzen der AOC-Weine, beziehungsweise der LW und TW können in keinem Fall kumuliert werden.
 
-<sup>3</sup> Für die Rebberge unterhalb von Evionnaz werden die quantitativen Ertragsgrenzen, welche Anrecht auf AOC-Weine haben, um 1.250kg/m² für den Chasselas und um 0.100kg/m² für die roten Rebsorten herabgesetzt.
+<sup>3</sup> …
 
 #### Art. 44
 
@@ -633,7 +651,7 @@ beschliesst:
 
 <sup>2</sup> Bei der Kategorie Landweine mit traditioneller Bezeichnung kann sie maximal um 0.3kg/m² Trauben herabsetzen.
 
-<sup>3</sup> Wenn sie die quantitative Ertragsgrenze der AOC-Weine herabsetzt, entscheiden die Einkellerer, in welcher anderen Kategorie als AOC die Mengen zwischen der herabgesetzten und der maximalen Ertragsgrenze klassiert werden.
+<sup>3</sup> Wenn sie die quantitative Ertragsgrenze der AOC-Weine herabsetzt, entscheidet die Branchenorganisation, in welcher anderen Weinklasse als AOC die Mengen zwischen der herabgesetzten und der gesetzlich festgelegten maximalen Ertragsgrenze klassiert werden.
 
 <sup>4</sup> Sie veröffentlicht ihren Entscheid vor Ende Juni im Amtsblatt.
 
@@ -643,11 +661,11 @@ beschliesst:
 
 **Einkellerung und Vinifizierung**
 
-<sup>1</sup> Um in den Genuss einer speziellen Ursprungsbezeichnung zu gelangen, müssen die Trauben und Moste der verschiedenen Kategorien und geographischen Bezeichnungen gesondert geerntet, eingekellert und vinifiziert werden.
+<sup>1</sup> Um Anspruch auf eine spezifische Bezeichnung oder Kennzeichnung zu haben, müssen die Trauben und Moste der verschiedenen Weinklassen und geographischen Bezeichnungen gesondert geerntet, eingekellert und vinifiziert werden.
 
 <sup>2</sup> Die Weinbehälter, die zur Vinifizierung und Lagerung gebraucht werden, müssen mit ihrem Inhalt beschriftet und mit einer Messvorrichtung eingerichtet sein, damit sie leicht kontrolliert werden können.
 
-<sup>3</sup> Die Verfahren zur Vinifizierung sind durch die Bundesverordnung über Lebensmittel und Gebrauchsgegenstände vom 23. November 2005 (LGV), die Bundesverordnung des EDI über alkoholische Getränke vom 29. November 2013, namentlich ihren Anhang 2, sowie die Empfehlungen der Forschungsanstalt Agroscope und der önologischen Beratungsstellen geregelt.
+<sup>3</sup> Die önologischen Verfahren und Behandlungen sind durch die Bundesverordnung über Lebensmittel und Gebrauchsgegenstände, die Verordnung des EDI über Getränke, die Bundesverordnung über den Rebbau und die Einfuhr von Wein, sowie durch die vorliegende Verordnung geregelt.
 
 #### Art. 46
 
@@ -659,7 +677,7 @@ beschliesst:
 
 <sup>3</sup> Der Verschnitt von AOC-Walliser Wein mit Nicht-Walliser-Wein ist verboten.
 
-<sup>4</sup> Darüber hinaus wird auf die Vorgaben nach Artikel 8 der Bundesverordnung über alkoholische Getränke verwiesen.
+<sup>4</sup> Darüber hinaus wird auf die Vorgaben der Verordnung des EDI über Getränke verwiesen.
 
 #### Art. 47
 
@@ -702,7 +720,7 @@ beschliesst:
 
 <sup>3</sup> Der Wein muss nach eventuellen, oben aufgeführten Anreicherungsprozessen ein Volumenprozent von mindestens 8.5 Prozent Vol. aufweisen.
 
-<sup>4</sup> Darüber hinaus wird auf die Vorgaben nach Artikel 4 Absatz 5 der Bundesverordnung über alkoholische Getränke sowie nach Appendix 14 ihres Anhangs 2 verwiesen.
+<sup>4</sup> Darüber hinaus wird auf die Vorgaben der Verordnung des EDI über Getränke verwiesen.
 
 #### Art. 48d
 
@@ -717,7 +735,7 @@ beschliesst:
 
 <sup>3</sup> Den obgenannten Süssweinen und Weinen aus Spätlese sowie den Trauben, aus welchen sie stammen, dürfen weder Alkohol, Zucker noch Traubensaftkonzentrat zugesetzt werden.
 
-<sup>4</sup> Darüber hinaus wird auf die Vorgaben nach Anlage 9 des Anhangs 2 der Bundesverordnung über alkoholische Getränke verwiesen.
+<sup>4</sup> Darüber hinaus wird auf die Vorgaben der Verordnung des EDI über Getränke verwiesen.
 
 #### Art. 48e
 
@@ -730,9 +748,9 @@ beschliesst:
 
 <sup>2</sup> Als besondere Verfahren gelten die Produktionsarten der Weine, die in Artikel 48d Absatz 2 und 3 beschrieben sind.
 
-<sup>3</sup> Darüber hinaus wird auf die Vorgaben nach Anlage 10 des Anhangs 2 der Bundesverordnung über alkoholische Getränke verwiesen.
+<sup>3</sup> Darüber hinaus wird auf die Vorgaben der Verordnung des EDI über Getränke verwiesen.
 
-## 8 Traditionelle Bezeichnungen der AOC-Weine
+## 8 Kennzeichnungen der AOC-Weine und weinspezifische Begriffe
 
 ### 8.1 AOC-Weissweine
 
@@ -782,7 +800,7 @@ beschliesst:
 
 **Petite Arvine**
 
-<sup>1</sup> "Petite Arvine" ist die traditionelle Bezeichnung des Walliser AOC-Weines, der aus der Rebsorte Arvine stammt.
+<sup>1</sup> “Petite Arvine“ ist ein Walliser AOC-Wein, der aus der Rebsorte Arvine stammt.
 
 #### Art. 54b
 
@@ -798,7 +816,7 @@ beschliesst:
 
 **Dôle**
 
-<sup>1</sup> Der Dôle ist ein Walliser AOC-Wein, der aus reinem Pinot noir oder einer Mischung von roten Rebsorten stammt. Diese Mischung muss mindestens 51 Prozent Pinot noir und Gamay enthalten. In diesen 51 Prozent muss der Pinot noir überwiegen.
+<sup>1</sup> Der Dôle ist ein Walliser AOC-Wein, der aus reinem Pinot noir oder einer Mischung von roten Rebsorten stammt. Diese Mischung muss mindestens 51 Prozent Pinot noir und Gamay enthalten. In diesem Pinot-Gamay-Anteil muss der Pinot noir überwiegen.
 
 <sup>2</sup> Jegliche Zugabe ist verboten.
 
@@ -820,7 +838,7 @@ beschliesst:
 
 **Weisser Dôle**
 
-<sup>1</sup> Der weisse Dôle ist ein Walliser AOC-Roséwein, der aus reinem Pinot noir oder einer Mischung von roten Rebsorten stammt. Diese Mischung muss mindestens 51 Prozent Pinot noir und Gamay enthalten. In diesen 51 Prozent muss der Pinot noir überwiegen.
+<sup>1</sup> Der weisse Dôle ist ein Walliser AOC-Roséwein, der aus reinem Pinot noir oder einer Mischung von roten Rebsorten stammt. Diese Mischung muss mindestens 51 Prozent Pinot noir und Gamay enthalten. In diesem Pinot-Gamay-Anteil muss der Pinot noir überwiegen.
 
 <sup>2</sup> Er muss der Definition der Roséweine gemäss Artikel 27a Absatz 2 der Bundesweinverordnung entsprechen.
 
@@ -836,6 +854,72 @@ beschliesst:
 
 <sup>2</sup> Der Walliser Rosé kann bis zu 10 Prozent mit Walliser AOC-Weissweinen verschnitten werden.
 
+### 8.3 Weinspezifische Begriffe
+
+#### Art. 58a
+
+**Auslese**
+
+<sup>1</sup> Als “Auslese“ kann ein Walliser AOC-Wein bezeichnet werden, den der Produzent hervorheben will.
+
+#### Art. 58b
+
+**Beerenauslese**
+
+<sup>1</sup> Als “Beerenauslese“ kann ein Walliser AOC-Wein bezeichnet werden, der aus Trauben mit Edelfäulebefall erzeugt worden ist.
+
+<sup>2</sup> Der natürliche Mindestzuckergehalt ist auf 30 Prozent Brix (129,1 °Oe) festgelegt.
+
+<sup>3</sup> Jede Anreicherung oder Konzentration ist verboten.
+
+#### Art. 58c
+
+**Walliser Auslese**
+
+<sup>1</sup> Als “Walliser Auslese“ kann ein Walliser AOC-Wein bezeichnet werden, wenn er die Anforderungen der entsprechenden kantonalen Verordnung erfüllt.
+
+#### Art. 58d
+
+**Reserve**
+
+<sup>1</sup> Die Bezeichnung “Reserve“ kann für einen Walliser AOC-Wein, der nach einem Reifungsprozess von mindestens 18 Monaten ab dem 1. Oktober des Erntejahres für Rotweine beziehungsweise von 12 Monaten ab dem 1. Oktober des Erntejahres für Weissweine auf den Markt gelangt, verwendet werden.
+
+#### Art. 58e
+
+**Beerli oder Beerliwein**
+
+<sup>1</sup> Als “Beerli“ oder “Beerliwein“ kann ein Walliser AOC-Rotwein bezeichnet werden, der ohne Kämme verarbeitet wurde.
+
+#### Art. 58f
+
+**Eiswein**
+
+<sup>1</sup> Als “Eiswein“ kann ein Walliser AOC-Wein aus zum Erntezeitpunkt am Stock gefrorenen Trauben, die vor dem Auftauen gekeltert werden, bezeichnet werden.
+
+<sup>2</sup> Die Lese muss bei einer Temperatur von minus 7 Grad Celsius oder tiefer erfolgen. Der Wein muss einen potentiellen Alkoholgehalt von mindestens 15 Volumenprozent, bzw. mindestens 25.3 Prozent Brix aufweisen.
+
+<sup>3</sup> Jede Anreicherung oder Konzentration ist verboten.
+
+#### Art. 58g
+
+**Flétri oder Flétri sur souche**
+
+<sup>1</sup> Als “Flétri“ oder “Flétri sur souche“ kann ein Walliser AOC-Süsswein aus am Stock getrockneten Trauben bezeichnet werden.
+
+<sup>2</sup> Der Wein muss einen potentiellen Alkoholgehalt von mindestens 13 Volumenprozent aufweisen, ihm dürfen weder Alkohol, noch Zucker oder Traubensaftkonzentrat zugesetzt worden sein und er muss nach der normalen Gärung noch Restzucker enthalten.
+
+<sup>3</sup> Jede Anreicherung oder Konzentration ist verboten.
+
+<sup>4</sup> Bezeichnungen wie mi-flétri, semi-flétri usw. sind nicht gestattet.
+
+#### Art. 58h
+
+**Strohwein**
+
+<sup>1</sup> Als “Strohwein“ kann ein Walliser AOC-Wein, hergestellt aus weissen oder roten, auf Stroh, Horden, Lattenkisten oder nach einer anderen geeigneten Methode getrockneten Trauben bezeichnet werden.
+
+<sup>2</sup> Jede Anreicherung oder Konzentration ist verboten.
+
 ## 9 Bezeichnungen und Ettiketierung
 
 ### 9.1 Spezifische Bezeichnungen
@@ -844,27 +928,27 @@ beschliesst:
 
 **Spezifische Bezeichnungen**
 
-<sup>1</sup> Die spezifischen Bezeichnungen sind unter Vorbehalt dieser Verordnung in der Gesetzgebung über Lebensmittel geregelt.
+<sup>1</sup> Die spezifischen Bezeichnungen sind unter Vorbehalt der vorliegenden Verordnung in der Bundesverordnung über den Rebbau und die Einfuhr von Wein geregelt.
 
 #### Art. 60
 
 **Kontrollierte Ursprungsbezeichnung**
 
-<sup>1</sup> Weine aus Walliser AOC-Traubenernten müssen die geografische Ursprungsbezeichnung des Wallis führen (AOC-Wallis).
+<sup>1</sup> Weine aus Walliser AOC-Traubenernten dürfen die geografische Ursprungsbezeichnung des Wallis führen (AOC-Wallis).
 
 <sup>2</sup> Sie werden unter der Bezeichnung der Rebsorte oder ihrer traditionellen Bezeichnung in den Handel gebracht.
 
-<sup>3</sup> Diese Weinmischungen müssen unter einem Phantasienamen mit geographischer Bezeichnung im Zusammenhang mit der AOC-Angabe kommerzialisiert werden.
+<sup>3</sup> Weinmischungen müssen unter einem Phantaisienamen mit geographischer Bezeichnung kommerzialisiert werden.
 
 #### Art. 61
 
 **Landwein**
 
-<sup>1</sup> Landweine müssen die Bezeichnung "LW" tragen.
+<sup>1</sup> Landweine müssen die Klassenbezeichnung "Landwein" tragen.
 
 <sup>2</sup> Unter der traditionellen Bezeichnung "Goron", beziehungsweise "Rosé de Goron" können nur Weine aus Walliser LW-Traubenernten in den Handel gebracht werden. Diese Bezeichnung darf nicht mit einer geographischen Referenz begleitet sein.
 
-<sup>3</sup> Stammt ein Wein nur aus der Rebsorte Chasselas, Pinot noir oder Gamay, so kann er ebenfalls als Rebsortenbezeichnung verbunden mit einer geographischen Herkunftsbezeichnung (z.B. Chasselas romand, Schweizer Pinot noir, Schweizer Rosé de Gamay usw.) und dem Vermerk "Landwein" in den Handel gebracht werden.
+<sup>3</sup> Stammt ein Wein nur aus der Rebsorte Chasselas, Pinot noir oder Gamay, so kann er ebenfalls als Rebsortenskennzeichnung, verbunden mit einer geographischen Herkunftsbezeichnung (z.B. Chasselas romand, Schweizer Pinot noir, Schweizer Rosé de Gamay usw.) und dem Vermerk der Weinklasse “Landwein“ in den Handel gebracht werden.
 
 ### 9.2 Ursprungsbezeichnungen
 
@@ -887,6 +971,8 @@ beschliesst:
 <sup>2</sup> Die übrigen 15 Prozent müssen aus der(den) angrenzenden Gemeinde(n) stammen.
 
 <sup>3</sup> Der Ursprungsbezeichnung der Gemeinde kann der Hinweis "Stadt ..." oder "Dorf ..." vorangesetzt werden. Sie deckt das ganze Gebiet der betreffenden Gemeinde ab.
+
+<sup>4</sup> Gemäss Artikel 46 der vorliegenden Verordnung kann zusätzlich ein Ursprungsverschnitt vorgenommen werden.
 
 #### Art. 64
 
@@ -925,7 +1011,7 @@ beschliesst:
 
 <sup>1</sup> Die Bezeichnung "Domäne ..." wird für die Ernte aus einer oder mehreren Nachbarparzellen verwendet, die von gleicher Beschaffenheit sind, sich grundsätzlich im gleichen Weingebiet befinden und eine homogene Betriebseinheit im Sinne von Artikel 6 Absatz 2 der Bundesverordnung über landwirtschaftliche Begriffe bilden.
 
-<sup>2</sup> Die Bezeichnung wird aus dem Ausdruck "Domäne" gebildet, verbunden mit dem Namen des Betriebsgebäudes, dem Lokalnamen des Gebietes in dem sich die Rebberge befinden, oder mit dem Katasternamen der Parzelle oder den Parzellen, die den Grundbesitz bilden.
+<sup>2</sup> Die Bezeichnung wird aus dem Ausdruck "Domäne" gebildet, verbunden mit dem Namen des Betriebsgebäudes, dem Lokalnamen des Gebietes in dem sich die Rebberge befinden, oder mit dem Katasternamen der Parzelle oder den Parzellen, die die Betriebseinheit bilden.
 
 <sup>3</sup> Nur die Bezeichnung der Domäne, welche die obgenannten Bedingungen erfüllt, darf mit dem Namen des Eigentümers verbunden werden.
 
@@ -935,37 +1021,27 @@ beschliesst:
 
 **Lokalname**
 
-<sup>1</sup> Die Bezeichnung eines Lokalnamens (Ortsnamen oder Katasterbezeichnung) wird für Ernten aus einer oder mehreren Parzellen verwendet, die unter diesem Namen im Kataster eingetragen sind.
+<sup>1</sup> Die Bezeichnung eines Lokalnamens (geografischer Name der amtlichen Vermessung oder Katasterbezeichnung) wird für Ernten aus einer oder mehreren Parzellen verwendet, die unter diesem Namen im Kataster eingetragen sind.
 
-<sup>2</sup> Die Bezeichnung wird aus dem Lokalnamen gebildet.
+<sup>1<sup>bis</sup></sup> Die Bezeichnung eines Lokalnamens kann auf eine oder mehrere angrenzende Parzellen der Rebberge ausgedehnt werden, sofern diese die gleiche Bodenbeschaffenheit und die gleiche Exposition aufweisen. Die Gesamtfläche der angrenzenden Parzellen muss verhältnismässig zur Gesamtfläche der Parzellen sein, die unter dem verwendeten Lokalnamen im Kataster eingetragen sind.
+
+<sup>2</sup> Die Bezeichnung wird aus dem Lokalnamen gebildet. Wenn die Gemeinden einen offiziellen Entscheid erlassen, welcher eine Übersetzung des Lokalnamens in die andere Amtssprache des Kantons festlegt, kann die Bezeichnung aus der Übersetzung des Lokalnamens gebildet werden.
 
 #### Art. 69
 
-**Auslese**
-
-<sup>1</sup> Als "Auslese" kann ein Walliser AOC-Wein bezeichnet werden, den der Produzent hervorheben will.
+**…**
 
 #### Art. 69a
 
-**Beerenauslese**
-
-<sup>1</sup> Als "Beerenauslese" kann ein Walliser AOC-Wein bezeichnet werden, der aus Trauben mit Edelfäulebefall erzeugt worden ist.
-
-<sup>2</sup> Der natürliche Mindestzuckergehalt ist auf 30 Prozent Brix (129,1 °Oe) festgelegt.
-
-<sup>3</sup> Jede Anreicherung oder Konzentration ist verboten.
+**…**
 
 #### Art. 69b
 
-**Walliser Auslese**
-
-<sup>1</sup> Als "Walliser Auslese" kann ein Walliser AOC-Wein bezeichnet werden, wenn er die Anforderungen der entsprechenden kantonalen Verordnung erfüllt.
+**…**
 
 #### Art. 69c
 
-**Reserve**
-
-<sup>1</sup> Die Bezeichnung "Reserve" kann für einen Walliser AOC-Wein, der nach einem Reifungsprozess von mindestens 18 Monaten ab dem 1. Oktober des Erntejahres für Rotweine beziehungsweise von 12 Monaten ab dem 1. Oktober des Erntejahres für Weissweine auf den Markt gelangt, verwendet werden.
+**…**
 
 ### 9.3 Etiquettierung
 
@@ -973,7 +1049,9 @@ beschliesst:
 
 **Etikettierung**
 
-<sup>1</sup> Die Personen, welche als Einkellerer bei der DVSV eingetragen sind und die Weinernte durch eine Drittperson vinifizieren lassen, dürfen nur dann auf der Etikette eine Bezeichnung wie "Selbsteinkellerer", "Weinbauer-Einkellerer", "Einkellerer" usw. angeben, wenn ihre Weinernte separat vinifiziert wurde.
+<sup>1</sup> Die Personen, welche als Einkellerer beim Kanton eingetragen sind und die Weinernte durch eine Drittperson vinifizieren lassen, dürfen nur dann auf der Etikette einen Vermerk wie “Selbsteinkellerer“, “Weinbauer-Einkellerer“, “Einkellerer“ usw. angeben, wenn ihre Weinernte separat vinifiziert wurde.
+
+<sup>1<sup>bis</sup></sup> Ein “Selbsteinkellerer“ oder “Weinbauer-Einkellerer“ ist ein Produzent, der seine eigenen Trauben verarbeitet und verkauft und jährlich nicht mehr als 2’000 Liter aus demselben Produktionsgebiet zukauft.
 
 <sup>2</sup> Die Angabe "kontrollierte Ursprungsbezeichnung" oder "AOC Wallis" ist obligatorisch und muss in ausgeschriebener Form auf der Hauptetikette stehen. Sie kann im Zusammenhang mit der Bezeichnung einer Gemeinde, einer Region, eines Weingutes, eines Schlosses, einer Domäne, eines Lokalnamens oder mit der traditionellen Bezeichnung des Weines stehen.
 
@@ -985,7 +1063,7 @@ beschliesst:
 
 <sup>6</sup> Die Bezeichnung "Mise d'origine" oder "Originalabfüllung" darf nur bei Weinen, welche im Wallis abgefüllt worden sind, verwendet werden.
 
-<sup>7</sup> Im Übrigen wird auf die Vorgaben nach Artikel 10 und 11 der Bundesverordnung über alkoholische Getränke verwiesen.
+<sup>7</sup> Im Übrigen wird auf die Vorgaben der Verordnung des EDI über Getränke verwiesen.
 
 ## 10 Kontrolle
 
@@ -1010,7 +1088,7 @@ beschliesst:
 
 **Kompetenzen der Branchenorganisation**
 
-<sup>1</sup> Die Kontrolle im Rebberg, die Degustation sowie die Vermarktungskontrolle werden der Branchenorganisation übertragen.
+<sup>1</sup> Die Kontrolle im Rebberg und die Degustationskontrolle werden der Branchenorganisation übertragen.
 
 <sup>2</sup> Die Modalität bezüglich der Kontrollen sind in einem Leistungsvertrag zwischen dem Staat und der Branchenorganisation geregelt.
 
@@ -1024,9 +1102,11 @@ beschliesst:
 
 <sup>1</sup> Die Einkellerer nehmen während des Sommers mit ihren Traubenlieferanten die Kontrolle der Produktionsvoraussetzungen der Ernte vor. Diese Kontrolle wird gemäss einer zu treffenden vertraglichen Vereinbarung unter den betroffenen Parteien vorgenommen.
 
-<sup>2</sup> Die Branchenorganisation führt eine Kontrolle in den Rebbergen durch, welche sich namentlich auf die Traubenlast und die Bewirtschaftung bezieht.
+<sup>2</sup> Die Branchenorganisation führt eine Kontrolle in den Rebbergen durch, welche sich namentlich auf die Traubenlast und die Bewirtschaftung bezieht und entscheidet bei Unregelmässigkeiten über die Deklassierung.
 
-<sup>3</sup> Die Dienststelle überwacht die Anwendung der Kontrollanforderungen.
+<sup>3</sup> Sie erstellt zu diesem Zweck ein vom Staatsrat zu genehmigendes Anwendungsreglement, in dem namentlich das Verfahren und die Rechtsmittel beschrieben werden.
+
+<sup>4</sup> Die zuständigen staatlichen Stellen setzen die Entscheide der Branchenorganisation um.
 
 #### Art. 74
 
@@ -1054,7 +1134,7 @@ beschliesst:
 
 <sup>3</sup> Jede Zuführung von Produkten bei den Trauben oder die Vermischung von Rebsorten vor der Kontrolle sind verboten.
 
-<sup>4</sup> Die offiziellen Kontrolleure, die durch die Dienststelle ausgebildet und durch den Staatsrat ernannt worden sind, überwachen die Selbstkontrolle gemäss der Weinverordnung des Bundes und geben den Einkellerern und den Eigentümern der Weinernte alle notwendigen Weisungen.
+<sup>4</sup> Die durch die Dienststelle ernannten und ausgebildeten Weinlesekontrolleure überwachen die Selbstkontrolle gemäss der Weinverordnung des Bundes und geben den Einkellerern und den Eigentümern der Weinernte alle notwendigen Weisungen.
 
 #### Art. 77
 
@@ -1064,11 +1144,11 @@ beschliesst:
 
 <sup>2</sup> Bei jeder Lieferung muss gemäss Artikel 23 Absatz 2<sup>bis</sup> ein spezifischer Rückverfolgbarkeitscode eingegeben werden.
 
-<sup>2<sup>bis</sup></sup> Die Quantität jeder Lieferung wird in Kilogramm festgehalten und mithilfe eines vom Kanton zur Verfügung gestellten Informatikwerkzeugs erfasst. Die manuelle Erfassung durch den Kanton ist gebührenpflichtig. Die Daten müssen bis spätestens am 15. November des Jahresgangs übermittelt werden. Für Weine aus Spätlese wird die Frist auf den 28. Februar verlegt.
+<sup>2<sup>bis</sup></sup> Die Quantität jeder Lieferung wird in Kilogramm festgehalten und mit dem vom Kanton zur Verfügung gestellten Informatiksystem erfasst. Die manuelle Erfassung durch den Kanton ist gebührenpflichtig. Die Erntedaten müssen bis spätestens am 15. November des Erntejahres übermittelt werden. Für Weine aus Spätlese wird die Frist auf den 28. Februar verlegt.
 
 <sup>3</sup> Die Traubenlieferanten sind selber für die Einhaltung der Produktionsrechte gemäss ihren Bescheinigungen und für eine eventuelle Deklassierung verantwortlich.
 
-<sup>4</sup> Für die quantitative Festlegung der Produktion, in Liter geschätzt, sieht die Bundesgesetzgebung einen Maximalertrag von 80 Liter Most für 100kg Trauben vor.
+<sup>4</sup> Für die quantitative Festlegung der Produktion, in Liter geschätzt, wird ein Maximalertrag von 80 Liter geklärter Wein für 100 Kilo Trauben zugelassen.
 
 #### Art. 78
 
@@ -1078,7 +1158,7 @@ beschliesst:
 
 <sup>2</sup> Die Bestimmung des natürlichen Zuckergehaltes (% Brix) hat auf Grund einer repräsentativen Auswahl von der Gesamteinlieferung zu erfolgen.
 
-<sup>2<sup>bis</sup></sup> Der natürliche Zuckergehalt von jeder Traubenlieferung wird mithilfe eines vom Kanton zur Verfügung gestellten Informatikwerkzeugs erfasst. Die manuelle Erfassung durch den Kanton ist gebührenpflichtig. Die Daten müssen bis spätestens am 15. November des Jahresgangs übertragen werden. Für Weine aus Spätlese wird die Frist auf den 28. Februar verlegt.
+<sup>2<sup>bis</sup></sup> Der natürliche Zuckergehalt von jeder Traubenlieferung wird mit dem vom Kanton zur Verfügung gestellten Informatiksystem erfasst. Die manuelle Erfassung durch den Kanton ist gebührenpflichtig. Die Erntedaten müssen bis spätestens am 15. November des Erntejahres übermittelt werden. Für Weine aus Spätlese wird die Frist auf den 28. Februar verlegt.
 
 <sup>3</sup> Die Einkellerer sind verantwortlich für das gute Funktionieren der verwendeten Refraktometer.
 
@@ -1100,17 +1180,17 @@ beschliesst:
 
 <sup>4</sup> Die Dienststelle erstellt anhand der Ernteeinlieferungen einen jährlichen Erntebericht.
 
-### 10.4 Kellerkontrolle
+### 10.4
 
 #### Art. 80
 
-**Einkellerungsdeklaration**
+**Kellerblatt**
 
-<sup>1</sup> Anhand der Erfassung der Ernteeinlieferungen kann der Einkellerer mit dem vom Kanton zur Verfügung gestellten Informatiksystem seine Einkellerungsdeklaration generieren.
+<sup>1</sup> Anhand der Erfassung der Ernteeinlieferungen kann der Einkellerer mit dem vom Kanton zur Verfügung gestellten Informatiksystem sein Kellerblatt generieren.
 
-<sup>2</sup> Es obliegt dem Einkellerer die Einkellerungsdeklaration auszudrucken, sie zu datieren und zu unterzeichnen.
+<sup>2</sup> Es obliegt dem Einkellerer, das Kellerblatt auszudrucken, zu datieren und zu unterzeichnen.
 
-<sup>3</sup> Er hält sie für die offiziellen Kontrollorgane des Bundes und des Kantons bereit.
+<sup>3</sup> Er hält das Kellerblatt für die offiziellen Kontrollorgane des Bundes und des Kantons bereit.
 
 #### Art. 81
 
@@ -1126,11 +1206,7 @@ beschliesst:
 
 #### Art. 82
 
-**Kellerkontrolle**
-
-<sup>1</sup> Die Einkellerer müssen den Kontrolleuren die Bescheinigungen, die Einkellerungsdeklaration, die Bestätigungen der Ernteeinlieferungen, den Stand der Bestände, die Aufzeichnung der Aus- und Eingänge sowie die Buchhaltungsbelege zur Verfügung halten.
-
-<sup>2</sup> Diese Dokumente müssen während zehn Jahren aufbewahrt werden.
+**…**
 
 ### 10.5 Degustation
 
@@ -1138,13 +1214,13 @@ beschliesst:
 
 **Degustation**
 
-<sup>1</sup> Die Branchenorganisation ist verantwortlich für die organoleptische Kontrolle der AOC Weine.
+<sup>1</sup> Die Branchenorganisation ist verantwortlich für die organoleptische Kontrolle der AOC Weine, entscheidet bei Unregelmässigkeiten über die Deklassierung und übermittelt ihre Entscheide an die zuständigen staatlichen Stellen zur Umsetzung.
 
-<sup>2</sup> Sie ernennt zu diesem Zweck eine Degustationskommission und erstellt ein Anwendungsreglement und unterbreitet dies dem Staatsrat zur Genehmigung.
+<sup>2</sup> Sie ernennt zu diesem Zweck eine Ad-hoc-Kommission mit dem Titel “Degustationskommission“ und erstellt ein Anwendungsreglement, das vom Staatsrat genehmigt werden muss.
 
-<sup>3</sup> Dieses Reglement enthält unter anderem die Zusammensetzung der Kommission, die Degustationsprinzipien sowie die Rekursmöglichkeiten.
+<sup>3</sup> Dieses Reglement enthält unter anderem die Zusammensetzung und Organisation der Kommission, das Verfahren und die Kriterien für die Degustation sowie die Rechtsmittel.
 
-<sup>4</sup> Die Einkellerer sind gehalten, die für die Degustation bestimmten Proben kostenlos zur Verfügung zu stellen.
+<sup>4</sup> …
 
 ### 10.6
 
@@ -1160,9 +1236,9 @@ beschliesst:
 
 <sup>1</sup> Unter "Grand Cru" (GC) versteht man einen Wein von höherer Qualität, der die Typizität des Terroirs und die Eigenart der einheimischen und traditionellen Walliser Rebsorten hervorhebt.
 
-<sup>2</sup> Die Bezeichnung ist anwendbar für AOC Weine, die den minimalen Anforderungen dieses Kapitels entsprechen und die:
+<sup>2</sup> Die Kennzeichnung Grand Cru ist anwendbar für AOC Weine, die den minimalen Anforderungen dieses Kapitels entsprechen und die:
 
-- a) aus Traubenernten eines limitierten Rebgebietes einer Gemeinde stammt, die beschlossen hat die Bezeichnung Grand Cru anzuwenden;
+- a) aus Traubenernten eines limitierten Rebgebietes einer Gemeinde stammt, die beschlossen hat die Kennzeichnung Grand Cru anzuwenden;
 - b) den zusätzlichen erweiterten Anforderungen entsprechen, die zumindest in folgenden Gebieten definiert werden:
   - 1\. Rebsorte(n) nach dem spezifischen Gebiet,
   - 2\. Abgegrenzte Produktionsgebiete,
@@ -1194,7 +1270,7 @@ beschliesst:
 
 **Rebsorten**
 
-<sup>1</sup> Die Bezeichnung Grand Cru ist nachfolgenden Rebsorten vorbehalten:
+<sup>1</sup> Die Kennzeichnung Grand Cru ist nachfolgenden Rebsorten vorbehalten:
 
 - a) Weisse Rebsorten: Chasselas (Fendant), Sylvaner (Rhin oder Gros Rhin), Amigne, Arvine (Petite Arvine), Marsanne blanche (Ermitage), Roussanne, Savagnin blanc (Païen oder Heida), Humagne blanc, Pinot gris (Malvoisie), Resi;
 - b) Rote Rebsorten: Pinot noir, Gamay, Cornalin du Valais, Humagne rouge, Syrah.
@@ -1253,7 +1329,7 @@ beschliesst:
 
 **Anbaumethoden**
 
-<sup>1</sup> Die Anbauanforderungen für die Bezeichnung Grand Cru sind folgende:
+<sup>1</sup> Die Anbauanforderungen für die Kennzeichnung Grand Cru sind folgende:
 
 - a) die ökologisch geforderten Leistungen der Dienststelle müssen respektiert werden;
 - b) das Alter der Rebstöcke muss mindestens acht Jahre sein, Anpflanzungsjahr inbegriffen;
@@ -1268,13 +1344,13 @@ beschliesst:
 
 <sup>1</sup> Die Grand Cru Weine müssen obligatorisch im Kanton Wallis vinifiziert und abgefüllt werden.
 
-<sup>2</sup> Für Weine mit der Bezeichnung Grand Cru ist jede Mischung unter Vorbehalt nachfolgender Absätze 3 und 4 verboten.
+<sup>2</sup> Für Grand Cru Weine ist jede Mischung unter Vorbehalt nachfolgender Absätze 3 und 4 verboten.
 
-<sup>3</sup> Weine aus Spätlese können vermischt werden, wenn die vermischten Rebsorten in der Rebsortenliste des Grand Cru enthalten sind.
+<sup>3</sup> Weine aus Spätlese können vermischt werden, wenn die vermischten Rebsorten in der Rebsortenliste der Kennzeichnung Grand Cru enthalten sind.
 
 <sup>4</sup> Alle Rebsorten die für die Zusammensetzung des Dôle Grand Cru in Frage kommen, müssen den Anforderungen der Rotweine der Kategorie des Grand Cru entsprechen.
 
-<sup>5</sup> Der Dôle blanche, der OEil de Perdrix und der Walliser Rosé haben kein Anrecht auf die Bezeichnung Grand Cru.
+<sup>5</sup> Der Dôle blanche, der Œil de Perdrix und der Walliser Rosé haben kein Anrecht auf die Kennzeichnung Grand Cru.
 
 <sup>6</sup> Alle Jahrgangsmischungen sind verboten.
 
@@ -1286,11 +1362,11 @@ beschliesst:
 
 **Bezeichnung und Etikettierung**
 
-<sup>1</sup> Die Bezeichnung Grand Cru darf nur im Zusammenhang mit dem Namen der Gemeinde oder der Region aus der die Ernte stammt verwendet werden.
+<sup>1</sup> Die Kennzeichnung Grand Cru darf nur im Zusammenhang mit dem Namen der Gemeinde oder der Region aus der die Ernte stammt verwendet werden.
 
-<sup>2</sup> Die Bezeichnung "Grand Cru Wallis" ist verboten.
+<sup>2</sup> Die Kennzeichnung “Grand Cru Wallis“ ist verboten.
 
-<sup>3</sup> Ausserhalb der angewanden Regeln der AOC Weinen, muss die Bezeichnung "Grand Cru", die Ursprungsgemeinde sowie auch der Jahrgang auf der Etikette aufgeführt sein.
+<sup>3</sup> Ausserhalb der angewanden Regeln der AOC Weinen, muss die Kennzeichnung "Grand Cru", die Ursprungsgemeinde sowie auch der Jahrgang auf der Etikette aufgeführt sein.
 
 <sup>4</sup> Die Verwendung von Ausdrücken wie "Premier cru", "Cru classé", "Grand cru classe", "Grand cru valaisan", "Grand Cru du Valais" usw. sind verboten.
 
@@ -1306,13 +1382,13 @@ beschliesst:
 
 **Kontrollen**
 
-<sup>1</sup> Die Branchenorganisation ist mit der Harmonisierung der Kontrollen und der spezifischen Anforderungen der Bezeichnung Grand Cru beauftragt.
+<sup>1</sup> Die Branchenorganisation ist mit der Harmonisierung der Kontrollen und der spezifischen Anforderungen der Kennzeichnung Grand Cru beauftragt.
 
-<sup>2</sup> Auf den zur Grand Cru Produktion bestimmten Parzellen führt die Branchenorganisation eine systematische Kontrolle der Reben ein.
+<sup>2</sup> Auf den zur Produktion mit Kennzeichnung Grand Cru bestimmten Parzellen führt die Branchenorganisation eine systematische Kontrolle der Reben ein.
 
 <sup>3</sup> Grand Cru Weine unterliegen systematisch der Degustation vor der Abfüllung. Kontrollen durch Musterentnahmen werden ebenfalls nach der Abfüllung vorgenommen.
 
-<sup>4</sup> Falls ein Wein nicht die verlangte Qualität erreicht, erhält er keinen Anspruch auf die Bezeichnung "Grand Cru".
+<sup>4</sup> Falls ein Wein nicht die verlangte Qualität erreicht, erhält er keinen Anspruch auf die Kennzeichnung “Grand Cru“.
 
 <sup>5</sup> Die Branchenorganisation ist mit der Rückverfolgbarkeit der Lose und der Identifikation des Endproduktes durch ein einheitliches, deutlich erkennbares Kommerzialisierungszeichen, beauftragt.
 
@@ -1327,7 +1403,7 @@ beschliesst:
 <sup>2</sup> Dieses Reglement enthält namentlich folgende Elemente:
 
 - a) die Bestimmungen bezüglich der fortlaufenden Arbeiten und der Kontrollen der Grand Cru Parzellen;
-- b) die Zusammensetzung der Degustationskommission und der Rekursmöglichkeiten;
+- b) die Zusammensetzung der Degustationskommission Grand Cru und der Rekursmöglichkeiten;
 - c) die Degustationsgrundsätze;
 - d) die besonderen Etikettierungsregeln;
 - e) die Bestimmungen betreffend der Kontrolle der Vermarktung;
@@ -1345,13 +1421,15 @@ beschliesst:
 
 #### Art. 99
 
-**Kantonale Kontrolle**
+**…**
 
-<sup>1</sup> Jede Person, welche Wein aus ihrer eigenen Ernte kommerzialisieren will, muss sich bei der DVSV eintragen.
+#### Art. 99a
 
-<sup>2</sup> Produzenten, die nur ihre eigenen Produkte verarbeiten und verkaufen und jährlich höchstens 2'000 Liter dem gleichen Produktionsgebiet zukaufen, sind nur der kantonalen Kontrolle unterstellt.
+**Dokumente**
 
-<sup>3</sup> Das mit der Lebensmittelkontrolle beauftragte Departement fixiert die Regeln dieser Kontrolle und wendet die Erkenntnisse der gleichnamigen Bundesbehörde an.
+<sup>1</sup> Die Einkellerer müssen den Kontrolleuren die Bescheinigungen, das Kellerblatt, die Bestätigungen der Traubenlieferungen, den Stand der Bestände, die Aufzeichnung der Aus- und Eingänge sowie die Buchhaltungsbelege zur Verfügung halten.
+
+<sup>2</sup> Diese Dokumente müssen während 10 Jahren aufbewahrt werden.
 
 ## 13 Weinstatistik
 
@@ -1365,15 +1443,17 @@ beschliesst:
 
 #### Art. 102
 
-**Verkaufverfügbarkeiten**
+**Verfügbarkeiten**
 
-<sup>1</sup> Jeder Einkellerer hat seine vorhandene Weinlagermenge am 31. Dezember festzuhalten, diese auf dem Erhebungspapier einzutragen und dieses bis zum folgenden 31. Januar der Kontrollstelle zuzustellen.
+<sup>1</sup> Jeder Einkellerer hat seine vorhandene Weinlagermenge am 31. Dezember festzuhalten und sie der Dienststelle mit dem vom Kanton zur Verfügung gestellten Informatiksystem bis zum folgenden 31. Januar zuzustellen. Die Dienststelle hält diese Daten für das Kontrollorgan zur Verfügung.
 
 <sup>2</sup> …
 
 <sup>3</sup> …
 
 <sup>4</sup> …
+
+<sup>5</sup> Bis zum folgenden 31. März veröffentlicht die Dienststelle auf ihrer Webseite die konsolidierten Daten über die Bestände auf kantonaler Ebene, die nach den wichtigsten Weinklassen, Rebsorten und Jahrgängen aufgeschlüsselt sind. Diese Daten werden auf der Webseite der Dienststelle veröffentlicht.
 
 #### Art. 103
 
@@ -1439,9 +1519,9 @@ beschliesst:
 
 <sup>1</sup> Soweit die Kosten die durch die Delegierung von Aufgaben an die Branchenorganisation der vorliegenden Verordnung verursacht wird, weder vom Bund noch vom Kanton übernommen wird, hat die Branchenorganisation das Recht eine jährliche Gebühr zu verlangen.
 
-<sup>2</sup> Das mit der Lebensmittekontrolle beauftragte Departement bestimmt die Höhe der Gebühren wobei ausschliesslich der eingekellerten Menge AOC-Weine Rechnung getragen wird.
+<sup>2</sup> Die für die Landwirtschaft zuständige Departement genehmigt die Höhe der Gebühr im Leistungsauftrag.
 
-<sup>3</sup> Die Gebühren werden durch die Branchenorganisation direkt bei den Einkellerern und Selbsteinkellerern erhoben.
+<sup>3</sup> Die Gebühren werden durch die Branchenorganisation direkt bei den Einkellerern, Weinbauern-Einkellerern und Selbsteinkellerern erhoben.
 
 #### Art. 113a
 

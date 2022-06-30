@@ -4,13 +4,13 @@ number: "916.142"
 title: Ordonnance sur la vigne et le vin
 short: OVV
 language: fr
-version: 2021-09-01
-valid_until: 2022-06-30
-version_adopted: 2021-08-18
+version: 2022-07-01
+valid_until: 2026-03-31
+version_adopted: 2022-07-13
 adopted: 2004-03-17
 in_force: 2004-05-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/916.142"
-pdf: "https://lex.vs.ch/api/fr/versions/2939/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3051/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,25 +19,25 @@ pdf: "https://lex.vs.ch/api/fr/versions/2939/pdf_file"
 
 (OVV)
 
-du 17.03.2004 (état 01.09.2021)
+du 17.03.2004 (état 01.07.2022)
 
 Le Conseil d'Etat du canton du Valais
 
-vu la loi fédérale sur l'agriculture du 29 avril 1998 (Loi sur l'agriculture, LAgr);
+vu la loi fédérale sur l'agriculture du 29 avril 1998 (LAgr);
 
-vu l'ordonnance fédérale sur la viticulture et l'importation de vin du 7 décembre 1998 (Ordonnance sur le vin);
+vu la loi fédérale sur les denrées alimentaires et les objets usuels du 20 juin 2014 (LDAl);
 
-vu la loi fédérale sur les denrées alimentaires et les objets usuels du 9 octobre 1992 (Loi sur les denrées alimentaires, LDAl) et l'ordonnance fédérale du 1<sup>er</sup> mars 1995 sur les denrées alimentaires;
+vu l'ordonnance fédérale sur la viticulture et l'importation de vin du 14 novembre 2007 (ordonnance sur le vin, OVin);
 
-vu l'ordonnance du Conseil fédéral sur le contrôle du commerce des vins du 28 mai 1997;
+vu l'ordonnance du DFI sur les boissons du 16 décembre 2016 (OB);
 
-vu la loi cantonale sur l'agriculture du 28 septembre 1993 (LcAgr);
+vu l'ordonnance fédérale sur les denrées alimentaires et les objets usuels du 16 décembre 2016 (ODAIOUs);
 
-vu la loi cantonale concernant la protection des données à caractère personnel du 28 juin 1984 (LIPDA);
+vu la loi cantonale sur l'agriculture et le développement rural du 8 février 2007 (LcAgr);
 
-sur proposition du Département des finances, de l'agriculture et des affaires extérieures,
+sur la proposition du département en charge de l'économie,
 
-arrête:
+ordonne:
 
 #### Art. 1
 
@@ -78,10 +78,11 @@ arrête:
 - f) assurer la vulgarisation et le contrôle des méthodes de culture respectueuses de l'environnement;
 - g) établir et distribuer les droits de production (acquits);
 - h) coordonner la mise à jour des secteurs d'encépagement par les communes et les soutenir dans cette tâche;
-- i) reconnaître les dénominations traditionnelles, spécifiques et d'origine;
+- i) définir les vins avec les termes vinicoles spécifiques et les dénominations traditionnelles;
+- i<sup>bis</sup> fixer les exigences applicables aux appellations d'origine contrôlée;
 - j) diriger, organiser et surveiller le contrôle de la vendange;
-- k) faire nommer par le Conseil d'Etat des contrôleurs officiels pour chacune des régions viticoles;
-- l) prendre toute mesure appropriée en cas d'irrégularités et trancher définitivement toute contestation relative au contrôle de la vendange;
+- k) …
+- l) prendre toute mesure appropriée en cas d'irrégularités, sous réserve des attributions confiées à d'autres entités, et trancher définitivement toute contestation relative au contrôle de la vendange;
 - m) tenir des statistiques vitivinicoles.
 
 <sup>2</sup> Il est chargé de toutes les tâches qui ne sont pas expressément attribuées à une autre autorité.
@@ -113,8 +114,8 @@ arrête:
 - a) de fixer les limites de rendement au sens de l'article 44, annuellement pour la fin juin, de manière à adapter l'offre aux besoins du marché;
 - b) de fixer les prix indicatifs du raisin avant vendange;
 - c) d'effectuer les contrôles et les différentes tâches qui lui sont confiées par le chapitre 10 de la présente ordonnance;
-- d) d'organiser les contrôles de qualité par dégustation;
-- e) d'annoncer au chimiste cantonal les irrégularités constatées lors des contrôles par dégustation;
+- d) d'organiser les contrôles de qualité par dégustation et de prononcer le déclassement en cas d'irrégularités;
+- e) d'annoncer au Contrôle suisse du commerce des vins (CSCV), au chimiste cantonal et au service les irrégularités constatées lors des contrôles par dégustation;
 - f) de réunir les données relatives à la connaissance du marché des vins valaisans;
 - g) de définir la stratégie en matière de promotion et en général de la branche vitivinicole;
 - h) de proposer les modifications législatives dans tous les domaines qui touchent à la branche.
@@ -131,7 +132,7 @@ arrête:
 
 <sup>1</sup> La commune désigne un préposé au registre des vignes et peut nommer une Commission viticole communale.
 
-<sup>2</sup> Elle annonce au Service les mutations foncières relatives aux surfaces viticoles.
+<sup>2</sup> Elle annonce au service les mutations foncières relatives aux surfaces viticoles.
 
 <sup>3</sup> Elle adapte les secteurs d’encépagement de son vignoble aux exigences qualitatives des vins AOC.
 
@@ -139,7 +140,7 @@ arrête:
 
 <sup>5</sup> Elle est compétente en matière de division des droits de production.
 
-<sup>6</sup> Elle peut établir un règlement pour les vins d'appellation Grand Cru, seule ou avec des communes voisines, conformément au chapitre 11 de la présente ordonnance.
+<sup>6</sup> Elle peut établir un règlement pour les vins de désignation Grand Cru, seule ou avec des communes voisines, conformément au chapitre 11 de la présente ordonnance.
 
 <sup>7</sup> Elle peut prononcer la mise à ban du vignoble sur la base d'une clause réglementaire communale.
 
@@ -192,6 +193,8 @@ arrête:
 
 <sup>2</sup> Elles correspondent à ce qui est raisonnablement nécessaire pour manoeuvrer.
 
+<sup>2<sup>bis</sup></sup> S'il est démontré que des mesures spécifiques pour la biodiversité ont été réalisées de manière pondérée, la superficie aménagée y relative est considérée comme de la surface viticole.
+
 <sup>3</sup> Les dispositions du droit fédéral demeurent réservées.
 
 #### Art. 11
@@ -226,7 +229,7 @@ arrête:
 
 <sup>4</sup> Une inspection des lieux est effectuée par le service qui prend sa décision sur la base notamment des critères du droit fédéral et après consultation du Service cantonal des forêts et du paysage.
 
-<sup>5</sup> Si la parcelle est située en bordure de cours d'eau, la demande est soumise pour préavis au Service cantonal des routes, transports et cours d'eau, ainsi qu'au Service cantonal de la protection de l'environnement.
+<sup>5</sup> Si la parcelle est située en bordure de cours d'eau, la demande est soumise pour préavis aux services en charge des cours d'eau, du développement territorial et de l'environnement.
 
 #### Art. 14
 
@@ -295,7 +298,7 @@ arrête:
 - f) l'année de reconstitution ou de création;
 - g) la surface par cépage, le cépage et le porte-greffe;
 - h) le secteur d'encépagement;
-- i) la déclivité (&lt;30%, 30-50%, &gt;50%, terrasse);
+- i) la déclivité (selon les données utilisées par les paiements directs);
 - j) l'affectation dans l'aire ou hors de l'aire vinicole, en zone agricole ou en zone à bâtir.
 
 #### Art. 16
@@ -354,7 +357,7 @@ arrête:
 
 <sup>2</sup> Tout viticulteur et tout pépiniériste doivent être en mesure de démontrer l'origine du matériel végétal planté ou entreposé sur leur domaine et de fournir tout document attestant de l'authenticité du cépage et du porte-greffe, du nom du fournisseur, respectivement de l'acheteur, et des quantités concernées.
 
-<sup>3</sup> Pour toute marchandise importée de l’étranger, le viticulteur est tenu de présenter, sur demande du service, les pièces d’accompagnement exigées par la Confédération lors de l’entrée en Suisse. Toute plantation avec du matériel végétal importé doit être annoncée au service au plus tard le 30 juin qui suit la plantation.
+<sup>3</sup> Pour toute marchandise importée de l’étranger, le viticulteur est tenu de présenter, sur demande du service, les pièces d’accompagnement exigées par la Confédération lors de l’entrée en Suisse.
 
 ## 4 Droits de production (acquits)
 
@@ -364,16 +367,16 @@ arrête:
 
 <sup>1</sup> L'acquit est un document officiel, établi par le service sur la base des données du registre cantonal des vignes, fixant les droits de production maximale par surface.
 
-<sup>2</sup> Il est attribué au propriétaire, par commune de situation des parcelles, sur la base de l'ensemble de ses parcelles, par cépage, par catégorie et par dénomination d'origine.
+<sup>2</sup> Il est attribué au propriétaire, par commune de situation des parcelles, sur la base de l'ensemble de ses parcelles, par cépage, par classe de vin et par dénomination d'origine.
 
 <sup>2<sup>bis</sup></sup> Il est muni d'un code spécifique de traçabilité.
 
-<sup>3</sup> La production de raisins de table n'est pas prise en compte dans les acquits.
+<sup>3</sup> …
 
 <sup>4</sup> Ne donnent pas droit à un acquit:
 
 - a) les surfaces non conformes aux exigences légales;
-- b) les parcelles en friche ou mal entretenues;
+- b) les parcelles mal entretenues ou laissées à l'abandon;
 - c) les vignes dont la plantation a été autorisée en vertu de l'article 9 alinéa 4.
 
 <sup>5</sup> Dans les cas de rigueur, le service peut, sur requête dûment justifiée, délivrer un duplicata d'acquit.
@@ -388,16 +391,29 @@ arrête:
 
 <sup>3</sup> La division des acquits est de la compétence des communes de situation des parcelles.
 
+#### Art. 24a
+
+**Fusion d'acquits**
+
+<sup>1</sup> Les acquits qui sont cumulativement d'une même commune, d'un même cépage, d'une même classe et d'une même dénomination d'origine peuvent être fusionnés.
+
+<sup>2</sup> La fusion d'acquits, dans les conditions de l'alinéa 1, peut être envisagée notamment lorsqu'un même exploitant vendange les parcelles de plusieurs propriétaires, puis livre la récolte complète y relative au même encaveur.
+
+<sup>3</sup> Les acquits sont fusionnés au moyen de l'outil informatique mis à disposition par le canton. Il en résulte un seul acquit fusionné dont la surface totale équivaut à celle des acquits initiaux.
+
+<sup>4</sup> La fusion d'acquits est de la compétence de l'exploitant.
+
 #### Art. 25
 
 **Types**
 
-<sup>1</sup> Les acquits sont établis séparément, selon les cépages, catégories et dénominations d'origine.
+<sup>1</sup> Les acquits sont établis séparément, selon les cépages, classes de vin et dénominations d'origine.
 
-<sup>2</sup> Deux types d'acquits sont attribués:
+<sup>2</sup> Trois types d'acquits sont attribués:
 
-- a) acquits initiaux par cépage, catégorie et dénomination d'origine;
-- b) acquits partiels résultant de la division d'un acquit initial.
+- a) acquits initiaux par cépage, classe de vin et dénomination d'origine;
+- b) acquits partiels résultant de la division d'un acquit initial ou partiel;
+- c) acquits fusionnés résultant de la fusion de plusieurs acquits initiaux et/ou d'acquits partiels.
 
 #### Art. 26
 
@@ -409,15 +425,17 @@ arrête:
 - b) les nom, prénom(s) et adresse du propriétaire;
 - c) l'année;
 - d) la commune de situation des parcelles;
-- e) le cépage, la catégorie et la dénomination d'origine;
+- e) le cépage, la classe de vin et la dénomination d'origine;
 - f) la surface de vigne en mètre carré;
-- g) le droit de production, exprimé en kilogrammes, indiquant pour les surfaces concernées la limite quantitative de production pour chacune des trois catégories.
+- g) le droit de production, exprimé en kilogrammes, indiquant pour les surfaces concernées la limite quantitative de production pour chacune des trois classes de vin.
 
 <sup>2</sup> Les acquits partiels contiennent notamment les indications suivantes:
 
 - a) les éléments de l'acquit initial;
 - b) le numéro de division;
 - c) le sceau et la signature du préposé communal au registre des vignes.
+
+<sup>3</sup> Les acquits fusionnés contiennent notamment les éléments cumulés des acquits initiaux et/ou d'acquits partiels.
 
 #### Art. 27
 
@@ -426,10 +444,10 @@ arrête:
 <sup>1</sup> Chaque année, le service transmet à tout propriétaire, par commune de situation des parcelles, les documents suivants:
 
 - a) une copie de son registre des vignes;
-- b) un acquit par surface pour chaque cépage, catégorie et dénomination d'origine.
+- b) un acquit par surface pour chaque cépage, classe de vin et dénomination d'origine.
 - c) …
 
-<sup>2</sup> Le service transmet au préposé communal au registre des vignes, au moment de l'édition des acquits, une copie du registre des vignes de chaque propriétaire.
+<sup>2</sup> …
 
 #### Art. 28
 
@@ -447,7 +465,7 @@ arrête:
 
 <sup>2</sup> Les acquits doivent être transmis à l'encaveur au plus tard lors du premier apport de vendange.
 
-<sup>3</sup> Sur chaque acquit déposé doivent être indiquées l'adresse complète du fournisseur (nom, prénom(s), filiation et domicile), ainsi que la catégorie unique à laquelle il souhaite affecter la vendange de la surface figurant sur l'acquit concerné.
+<sup>3</sup> Sur chaque acquit déposé doivent être indiqués l'adresse complète du fournisseur (nom, prénom(s), filiation et domicile), son numéro de business partner, ainsi que la classe de vin unique à laquelle il souhaite affecter la vendange de la surface figurant sur l'acquit concerné.
 
 <sup>4</sup> Ils doivent être immédiatement datés et signés par l'encaveur.
 
@@ -459,9 +477,13 @@ arrête:
 
 <sup>2</sup> Les acquits de chaque fournisseur (propriétaire, exploitant, encaveur) doivent faire l'objet d'un contrôle et d'un déclassement individuels.
 
-<sup>3</sup> Les encaveurs déclassent dans la catégorie adéquate les quantités réceptionnées qui n'atteignent pas les teneurs naturelles minimales en sucre pour une catégorie donnée. Le déclassement est opéré par lot ayant occasionné le déclassement.
+<sup>3</sup> Les encaveurs déclassent dans la classe de vin inférieure les quantités réceptionnées qui n'atteignent pas les teneurs naturelles minimales en sucre pour une classe de vin donnée. Le déclassement est opéré par apport ayant occasionné le déclassement.
 
 <sup>4</sup> …
+
+<sup>5</sup> Les encaveurs déclassent dans la classe de vin inférieure la vendange réceptionnée qui dépasse la limite quantitative de production (LQP) pour la classe annoncée. Le déclassement est opéré pour l'intégralité du raisin concerné par l'acquit.
+
+<sup>6</sup> Lorsqu'un apport de vendange n'atteint pas la teneur naturelle minimale en sucre requise pour les vins VDT, il ne peut pas être transformé en vin.
 
 ## 5 Cépages et porte-greffes
 
@@ -484,12 +506,12 @@ arrête:
 
 <sup>1</sup> Sont considérés comme autochtones les cépages suivants:
 
-- a) cépages blancs: Amigne (2 à 3), Arvine (3), Humagne blanc (2), Rèze (2);
+- a) cépages blancs: Amigne (2 à 3), Arvine (Petite Arvine) (3), Humagne blanc (Humagne blanche) (2), Rèze (2);
 - b) cépage rouge: Cornalin du Valais (3) (Rouge du Pays).
 
 <sup>2</sup> Sont considérés comme cépages traditionnels les cépages suivants:
 
-- a) cépages blancs: Chardonnay (1), Chasselas (1), Gouais (Gwäss) (2 à 3), Himbertscha (1 à 2), Lafnetscha (1), Marsanne blanche (3) (Ermitage), Muscat (1 à 2), Pinot blanc (1), Pinot gris (Malvoisie) (1), Riesling (Petit Rhin) (2), Müller-Thurgau ou Riesling-Sylvaner (Riesling x Chasselas de Courtiller) (P), Roussanne (2 à 3), Savagnin blanc (Païen ou Heida) (1 à 2), Sylvaner (Gros Rhin) (1 à 2);
+- a) cépages blancs: Chardonnay (1), Chasselas (1), Gouais (Gwäss) (2 à 3), Himbertscha (1 à 2), Lafnetscha (1), Marsanne blanche (Marsanne, Ermitage) (3), Muscat (1 à 2), Pinot blanc (1), Pinot gris (Malvoisie) (1), Riesling (Petit Rhin) (2), Müller-Thurgau ou Riesling-Sylvaner (Riesling x Chasselas de Courtiller) (P), Roussanne (2 à 3), Savagnin blanc (Païen ou Heida) (1 à 2), Sylvaner (Gros Rhin) (1 à 2);
 - b) cépages rouges: Durize (Rouge de Fully) (3), Eyholzer Roter (Rouge de Viège) (2), Gamay (1), Humagne rouge (3), Pinot noir (1), Syrah (2 à 3).
 
 #### Art. 33
@@ -512,15 +534,15 @@ arrête:
 
 **Cépages non autorisés en AOC Valais**
 
-<sup>1</sup> Pour l'expérimentation de cépages non autorisés en AOC Valais, une autorisation doit être requise au préalable auprès du service.
+<sup>1</sup> …
 
 <sup>2</sup> …
 
-<sup>3</sup> Les vins issus de cépages non autorisés en AOC Valais n'ont pas droit à la désignation AOC ou à une quelconque désignation traditionnelle valaisanne.
+<sup>3</sup> Les vins issus de cépages non autorisés en AOC Valais n'ont pas droit à l'appellation AOC ou à une quelconque dénomination traditionnelle valaisanne.
 
 <sup>4</sup> Ils ne peuvent pas entrer dans la composition d'un vin AOC.
 
-<sup>5</sup> L'étiquette principale doit porter la désignation "Vin de pays".
+<sup>5</sup> L'étiquette principale doit mentionner la classe de vin "Vin de pays".
 
 #### Art. 34a
 
@@ -556,13 +578,13 @@ arrête:
 
 <sup>2</sup> Elle est attribuée à tous les cépages dont la plantation est autorisée en Valais selon les articles 32 et 33.
 
-<sup>3</sup> Les vins mousseux portant l'appellation AOC Valais sont élaborés à partir de vins tranquilles respectant tous les critères de l'AOC Valais.
+<sup>3</sup> Les vins mousseux, pétillants ou perlés, portant l'appellation AOC Valais sont élaborés à partir de vins tranquilles respectant tous les critères de l'AOC Valais.
 
 #### Art. 38
 
 **Vins de pays**
 
-<sup>1</sup> L’appellation vins de pays (VDP) est attribuée aux vins issus de vendanges valaisannes VDP répondant, pour les dénominations traditionnelles, aux exigences des articles 41 et 43.
+<sup>1</sup> La classe de vin "vins de pays" (VDP) est attribuée aux vins issus de vendanges valaisannes VDP répondant, pour les dénominations traditionnelles, aux exigences des articles 41 et 43.
 
 #### Art. 39
 
@@ -594,19 +616,15 @@ arrête:
 <tr><td>Ensemble des cépages rouges</td><td>83.0</td><td>20.0</td><td>70.6</td><td>17.2</td></tr>
 </table>
 
-<sup>2</sup> Pour les vignobles en aval d’Evionnaz, les degrés minima des cépages blancs, respectivement rouges donnant droit aux vins AOC, sont réduits de 1.0 pour cent Brix, respectivement 1.4 pour cent Brix. Ces vins doivent porter obligatoirement la dénomination d’origine de la commune concernée (p.ex.: Fendant de Vouvry, Pinot noir de Monthey, etc.).
+<sup>2</sup> …
 
 <sup>3</sup> Si les conditions climatiques de l'année sont particulières, le chef du département en charge de l'agriculture peut, l'Interprofession entendue, arrêter à l'ouverture des vendanges une réduction de ces teneurs naturelles minimales en sucre.
 
-<sup>4</sup> Pour les vendanges destinées à l'élaboration des vins mousseux donnant droit à l'appellation AOC Valais, le degré minimal est fixé à 17.2 pour cent Brix (70,6 °Oe).
+<sup>4</sup> Pour les vendanges destinées à l'élaboration des vins mousseux, pétillants ou perlés donnant droit à l'appellation AOC Valais, le degré minimal est fixé à 17.2 pour cent Brix (70,6 °Oe).
 
 #### Art. 42
 
-**Classement**
-
-<sup>1</sup> Lorsqu’un lot de vendange n’atteint pas la teneur naturelle minimale en sucre requise pour les vins AOC, respectivement VDP, il est classé dans la catégorie directement inférieure.
-
-<sup>2</sup> Lorsqu’un lot de vendange n’atteint pas la teneur naturelle minimale en sucre requise pour les vins VDT, il ne peut être transformé en vin.
+**…**
 
 #### Art. 43
 
@@ -623,7 +641,7 @@ arrête:
 
 <sup>2</sup> Les limites quantitatives de production des vins AOC, respectivement VDP et VDT, ne peuvent en aucun cas être cumulées.
 
-<sup>3</sup> Pour les vignobles en aval d'Evionnaz, les limites quantitatives de production des raisins donnant droit aux vins AOC sont fixées à 1.250kg/m² pour le Chasselas et réduites de 0.100kg/m² pour les cépages rouges.
+<sup>3</sup> …
 
 #### Art. 44
 
@@ -633,7 +651,7 @@ arrête:
 
 <sup>2</sup> Pour les VDP avec dénomination traditionnelle, elle peut réduire les limites quantitatives de production au maximum de 0.3kg/m² de raisins.
 
-<sup>3</sup> Lorsqu'elle réduit les limites quantitatives de production des vins AOC, les encaveurs décident de la catégorie autre que l'AOC dans laquelle seront classées les quantités comprises entre la limite abaissée et la limite maximale.
+<sup>3</sup> Lorsqu'elle réduit les limites quantitatives de production des vins AOC, l'Interprofession décide de la classe de vin autre que l'AOC dans laquelle seront inscrites les quantités comprises entre la limite abaissée et la limite maximale fixée par la législation.
 
 <sup>4</sup> L'Interprofession publie immédiatement sa décision au Bulletin officiel.
 
@@ -643,11 +661,11 @@ arrête:
 
 **Encavage et vinification**
 
-<sup>1</sup> Pour bénéficier d'une appellation spécifique, les raisins et les moûts des différentes catégories et appellations géographiques doivent être récoltés, encavés et vinifiés séparément.
+<sup>1</sup> Pour bénéficier d'une dénomination ou désignation spécifique, les raisins et les moûts des différentes classes de vin et dénominations géographiques doivent être récoltés, encavés et vinifiés séparément.
 
 <sup>2</sup> Les récipients vinaires utilisés pour la vinification et le stockage doivent porter l'indication de leur contenu et être munis de jauges ou de tout autre instrument permettant un contrôle aisé.
 
-<sup>3</sup> Les procédés de vinification sont réglés par l’ordonnance fédérale sur les denrées alimentaires et les objets usuels du 23 novembre 2005 (ODAIOUs), l’ordonnance du Département fédéral de l'intérieur sur les boissons alcooliques du 29 novembre 2013, notamment son annexe 2, ainsi que par les recommandations de la Station de recherche Agroscope et celles des organes chargés du conseil en œnologie.
+<sup>3</sup> Les pratiques et traitements oenologiques sont réglés par l’ordonnance fédérale sur les denrées alimentaires et les objets usuels, l’ordonnance fédérale sur les boissons, l'ordonnance fédérale sur la viticulture et l'importation de vin, ainsi que par la présente ordonnance.
 
 #### Art. 46
 
@@ -659,7 +677,7 @@ arrête:
 
 <sup>3</sup> Pour les AOC Valais, tout coupage avec du vin non valaisan est prohibé.
 
-<sup>4</sup> Il est en outre renvoyé aux prescriptions de l’article 8 de l’ordonnance fédérale sur les boissons alcooliques.
+<sup>4</sup> Il est en outre renvoyé aux prescriptions de l’ordonnance du DFI sur les boissons.
 
 #### Art. 47
 
@@ -702,7 +720,7 @@ arrête:
 
 <sup>3</sup> Le vin doit présenter, après les éventuelles opérations d’enrichissement précitées, un titre alcoométrique volumique acquis non inférieur à 8.5 pour cent vol.
 
-<sup>4</sup> Il est en outre renvoyé aux prescriptions de l’article 4 alinéa 5 de l’ordonnance fédérale sur les boissons alcooliques, ainsi que de l’appendice 14 de son annexe 2.
+<sup>4</sup> Il est en outre renvoyé aux prescriptions de l’ordonnance du DFI sur les boissons.
 
 #### Art. 48d
 
@@ -717,7 +735,7 @@ arrête:
 
 <sup>3</sup> Les vins doux ou vins issus de vendanges tardives précités doivent, eux et les raisins dont ils proviennent, n’avoir subi aucune addition d’alcool, de sucre ou de jus de raisin concentré.
 
-<sup>4</sup> Il est en outre renvoyé aux prescriptions de l’appendice 9 de l’annexe 2 de l’ordonnance fédérale sur les boissons alcooliques.
+<sup>4</sup> Il est en outre renvoyé aux prescriptions de l’ordonnance du DFI sur les boissons.
 
 #### Art. 48e
 
@@ -730,9 +748,9 @@ arrête:
 
 <sup>2</sup> On entend par méthodes particulières les productions de vins définis par l’article 48d alinéa 2 et 3.
 
-<sup>3</sup> Il est en outre renvoyé aux prescriptions de l'appendice 10 de l'annexe 2 de l'ordonnance fédérale sur les boissons alcooliques.
+<sup>3</sup> Il est en outre renvoyé aux prescriptions de l'ordonnance du DFI sur les boissons.
 
-## 8 Dénominations traditionnelles des vins AOC
+## 8 Désignations des vins AOC et termes vinicoles spécifiques
 
 ### 8.1 Vins blancs AOC
 
@@ -782,7 +800,7 @@ arrête:
 
 **Petite Arvine**
 
-<sup>1</sup> "Petite Arvine" est la dénomination traditionnelle du vin d'appellation d'origine contrôlée Valais issu du cépage Arvine.
+<sup>1</sup> "Petite Arvine" est un vin d'appellation d'origine contrôlée Valais issu du cépage Arvine.
 
 #### Art. 54b
 
@@ -822,7 +840,7 @@ arrête:
 
 <sup>1</sup> La Dôle blanche est un vin rosé AOC du Valais issu de Pinot noir pur ou d’un assemblage de cépages rouges comprenant au moins 51 pour cent de Pinot noir et de Gamay, part dans laquelle le Pinot noir domine.
 
-<sup>2</sup> Elle doit répondre à la définition des vins rosés selon l’article 27a alinéa 2 de l'ordonnance fédérale sur le vin.
+<sup>2</sup> Elle doit répondre à la définition des vins rosés selon l'article 27a alinéa 2 de l’ordonnance fédérale sur le vin.
 
 <sup>3</sup> La Dôle blanche peut être coupée avec des vins blancs AOC du Valais à concurrence de 10 pour cent.
 
@@ -836,6 +854,72 @@ arrête:
 
 <sup>2</sup> Le Rosé du Valais peut être coupé avec des vins blancs AOC du Valais à concurrence de 10 pour cent.
 
+### 8.3 Termes vinicoles spécifiques
+
+#### Art. 58a
+
+**Sélection**
+
+<sup>1</sup> La désignation "sélection" peut être attribuée à un vin d'appellation d'origine contrôlée Valais que le producteur souhaite singulariser.
+
+#### Art. 58b
+
+**Sélection de grains nobles**
+
+<sup>1</sup> La désignation "sélection de grains nobles" peut être attribuée à un vin d'appellation d'origine contrôlée Valais élaboré avec des raisins atteints par la pourriture noble.
+
+<sup>2</sup> La teneur naturelle minimale en sucre est fixée à 30 pour cent Brix (129,1°Oe).
+
+<sup>3</sup> Tout enrichissement ou concentration est interdit.
+
+#### Art. 58c
+
+**Sélection Valais**
+
+<sup>1</sup> La désignation "sélection Valais" peut être attribuée à un vin d'appellation d'origine contrôlée Valais en conformité avec l'ordonnance cantonale y relative.
+
+#### Art. 58d
+
+**Réserve**
+
+<sup>1</sup> La désignation "réserve" peut être attribuée à un vin d'appellation d'origine contrôlée Valais mis dans le commerce après une période de vieillissement d'au moins 18 mois pour les vins rouges et 12 mois pour les vins blancs à partir du 1<sup>er</sup> octobre de l'année de récolte.
+
+#### Art. 58e
+
+**Beerli ou Beerliwein**
+
+<sup>1</sup> La désignation "Beerli" ou "Beerliwein" peut être attribuée à un vin rouge d'appellation d'origine contrôlée Valais vinifié sans les rafles.
+
+#### Art. 58f
+
+**Vin de glace**
+
+<sup>1</sup> La désignation "vin de glace" peut être attribuée à un vin d'appellation d'origine contrôlée Valais issu de raisins gelés sur souche au moment de la récolte et pressés avant leur dégel.
+
+<sup>2</sup> La récolte doit avoir lieu à une température inférieure ou égale à moins 7 degrés Celsius. Le vin doit avoir au minimum 15 pour cent de volume d'alcool en puissance, soit au minimum 25.3 pour cent Brix.
+
+<sup>3</sup> Tout enrichissement ou concentration est interdit.
+
+#### Art. 58g
+
+**Flétri ou Flétri sur souche**
+
+<sup>1</sup> La désignation "Flétri" ou "Flétri sur souche" peut être attribuée à un vin doux d'appellation d'origine contrôlée Valais issu de raisins flétris sur souche.
+
+<sup>2</sup> Le vin doit avoir au minimum 13 pour cent de volume d'alcool en puissance, n'avoir subi aucune addition d'alcool, de sucre ou de jus de raisin concentré et contenir encore du sucre résiduel après fermentation normale.
+
+<sup>3</sup> Tout enrichissement ou concentration est interdit.
+
+<sup>4</sup> Les dénominations mi-flétri, semi-flétri ou autres similaires sont interdites.
+
+#### Art. 58h
+
+**Passerillé**
+
+<sup>1</sup> La désignation "Passerillé" est attribuée à un vin d'appellation d'origine contrôlée Valais élaboré à partir de raisins blancs ou rouges séchés sur de la paille, des claies, des cagettes ou par une autre méthode appropriée.
+
+<sup>2</sup> Tout enrichissement ou concentration est interdit.
+
 ## 9 Dénominations et étiquetage
 
 ### 9.1 Dénominations spécifiques
@@ -844,27 +928,27 @@ arrête:
 
 **Dénominations spécifiques**
 
-<sup>1</sup> Les dénominations spécifiques sont réglées par la législation sur les denrées alimentaires, sous réserve de la présente ordonnance.
+<sup>1</sup> Les dénominations spécifiques sont réglées par l'ordonnance fédérale sur la viticulture et l'importation de vin, sous réserve de la présente ordonnance.
 
 #### Art. 60
 
 **Appellation d'origine contrôlée**
 
-<sup>1</sup> Les vins issus de vendanges valaisannes AOC doivent porter la dénomination d'origine géographique valaisanne (AOC Valais).
+<sup>1</sup> Les vins issus de vendanges valaisannes AOC sont autorisés à porter la dénomination d'origine géographique valaisanne (AOC Valais).
 
 <sup>2</sup> Ils sont commercialisés sous la désignation du cépage ou de la dénomination traditionnelle.
 
-<sup>3</sup> Les vins d'assemblage doivent être commercialisés sous une appellation de fantaisie avec la dénomination géographique.
+<sup>3</sup> Les vins d'assemblage doivent être commercialisés sous une mention de fantaisie avec la dénomination géographique.
 
 #### Art. 61
 
 **Vins de pays**
 
-<sup>1</sup> Les vins de pays doivent porter la désignation "VDP".
+<sup>1</sup> Les vins de pays doivent porter le nom de la classe "vin de pays".
 
 <sup>2</sup> Les vins rouges et rosés issus de vendanges VDP peuvent être commercialisés sous la dénomination traditionnelle "Goron", respectivement "Rosé de Goron" réservée aux vins provenant exclusivement du vignoble valaisan. Cette désignation ne peut être accompagnée d’aucune référence géographique.
 
-<sup>3</sup> Un vin issu uniquement de Chasselas, de Pinot noir ou de Gamay peut également être commercialisé sous la désignation du cépage, liée à une indication de provenance géographique (p.ex.: Chasselas romand, Pinot noir suisse, Rosé de Gamay suisse) et à la mention "Vin de pays".
+<sup>3</sup> Un vin issu uniquement de Chasselas, de Pinot noir ou de Gamay peut également être commercialisé sous la désignation du cépage, liée à une indication de provenance géographique (p.ex.: Chasselas romand, Pinot noir suisse, Rosé de Gamay suisse) et à la classe "Vin de pays".
 
 ### 9.2 Dénominations d'origine
 
@@ -888,6 +972,8 @@ arrête:
 
 <sup>3</sup> La dénomination d'origine de la commune peut être précédée de l'indication "Ville de ..." ou "Village de ...". Elle couvre la totalité du territoire de la commune concernée.
 
+<sup>4</sup> Il peut être effectué un coupage d'origine, en sus, selon l'article 46 de la présente ordonnance.
+
 #### Art. 64
 
 **Dénomination de la région**
@@ -905,7 +991,7 @@ arrête:
 - a) soit sont cadastrées comme telles; dans les cas justifiés, la dénomination peut être étendue à une ou plusieurs parcelles contiguës aux vignes considérées, pour autant qu'elles bénéficient des mêmes conditions de sol et d'exposition;
 - b) soit sont séparées des vignes voisines par une clôture, un mur, une haie vive, une falaise ou autre accident du terrain.
 
-<sup>2</sup> L'appellation est alors formée du nom cadastral associé au mot "Clos".
+<sup>2</sup> La dénomination est alors formée du nom cadastral associé au mot "Clos".
 
 #### Art. 66
 
@@ -925,7 +1011,7 @@ arrête:
 
 <sup>1</sup> La dénomination "Domaine..." s'applique à la récolte d'une ou plusieurs parcelles voisines de même nature, situées en principe dans le même secteur d'encépagement, et formant une unité d'exploitation homogène au sens de l'article 6 alinéa 2 de l'ordonnance fédérale sur la terminologie agricole.
 
-<sup>2</sup> La dénomination est formée du terme "Domaine" associé au nom du bâtiment d'exploitation, au nom du lieu-dit sur lequel se trouvent les vignes ou au nom cadastral de la ou des parcelles constituant la propriété.
+<sup>2</sup> La dénomination est formée du terme "Domaine" associé au nom du bâtiment d'exploitation, au nom du lieu-dit sur lequel se trouvent les vignes ou au nom cadastral de la ou des parcelles constituant l'entité d'exploitation.
 
 <sup>3</sup> Seule la dénomination d'un domaine répondant aux conditions précitées peut être liée au nom du propriétaire.
 
@@ -935,37 +1021,27 @@ arrête:
 
 **Nom local**
 
-<sup>1</sup> La dénomination d'un nom local (lieu-dit ou donnée cadastrale) s'applique à la récolte d'une ou plusieurs parcelles cadastrées sous ce nom.
+<sup>1</sup> La dénomination d'un nom local (nom géographique de la mensuration officielle ou donnée cadastrale) s'applique à la récolte d'une ou plusieurs parcelles cadastrées sous ce nom.
 
-<sup>2</sup> La dénomination est formée du nom local.
+<sup>1<sup>bis</sup></sup> La dénomination d'un nom local peut être étendue à une ou plusieurs parcelles contiguës aux parcelles considérées pour autant qu'elles bénéficient des mêmes conditions de sol et d'exposition. La surface totale des parcelles contiguës doit être pondérée par rapport à la surface totale des parcelles cadastrées sous le nom local utilisé.
+
+<sup>2</sup> La dénomination est formée du nom local. Si les communes rendent une décision officielle qui définit une traduction du nom local dans l'autre langue officielle du canton, la dénomination peut être formée de la traduction du nom local.
 
 #### Art. 69
 
-**Sélection**
-
-<sup>1</sup> La dénomination "sélection" peut être attribuée à un vin AOC Valais que le producteur souhaite singulariser.
+**…**
 
 #### Art. 69a
 
-**Sélection de grains nobles**
-
-<sup>1</sup> La dénomination "sélection de grains nobles" peut être attribuée à un vin AOC Valais élaboré avec des raisins atteints par la pourriture noble.
-
-<sup>2</sup> La teneur naturelle minimale en sucre est fixée à 30 pour cent Brix (129,1 °Oe).
-
-<sup>3</sup> Tout enrichissement ou concentration est interdit.
+**…**
 
 #### Art. 69b
 
-**Sélection Valais**
-
-<sup>1</sup> La dénomination "Sélection Valais" peut être attribuée à un vin AOC Valais en conformité à l'ordonnance cantonale y relative.
+**…**
 
 #### Art. 69c
 
-**Réserve**
-
-<sup>1</sup> La dénomination "réserve" peut être attribuée à un vin AOC Valais mis dans le commerce après une période de vieillissement d'au moins 18 mois pour les vins rouges et 12 mois pour les vins blancs à partir du 1<sup>er</sup> octobre de l'année de récolte.
+**…**
 
 ### 9.3 Etiquetage
 
@@ -973,7 +1049,9 @@ arrête:
 
 **Etiquetage**
 
-<sup>1</sup> Les personnes inscrites comme encaveur auprès du SCAV et faisant vinifier leur vendange par un tiers ne peuvent indiquer sur l’étiquette une dénomination telle que "propriétaire encaveur", "vigneron encaveur", "encaveur", etc., que si leur vendange a été vinifiée séparément.
+<sup>1</sup> Les personnes inscrites comme encaveur auprès du canton et faisant vinifier leur vendange par un tiers ne peuvent indiquer sur l’étiquette une mention telle que "propriétaire encaveur", "vigneron encaveur", "encaveur", etc., que si leur vendange a été vinifiée séparément.
+
+<sup>1<sup>bis</sup></sup> Un "propriétaire encaveur" ou "vigneron encaveur" est un producteur qui transforme et vend ses propres produits et qui n'achète pas plus de 2'000 litres par an en provenance de la même région de production.
 
 <sup>2</sup> La mention "appellation d'origine contrôlée Valais" ou "AOC Valais" est obligatoire et doit figurer en toutes lettres sur l'étiquette principale. Elle peut être mise en relation avec la dénomination d'une commune, d'une région, d'un clos, d'un château, d'un domaine, d'un nom local ou avec la dénomination traditionnelle du vin.
 
@@ -985,7 +1063,7 @@ arrête:
 
 <sup>6</sup> La mention "mise d'origine" ne peut être utilisée que pour les vins dont l'embouteillage a été effectué en Valais.
 
-<sup>7</sup> Pour le surplus, il est renvoyé aux prescriptions des articles 10 et 11 de l’ordonnance fédérale sur les boissons alcooliques.
+<sup>7</sup> Pour le surplus, il est renvoyé aux prescriptions de l'ordonnance du DFI sur les boissons.
 
 ## 10 Contrôle
 
@@ -1010,7 +1088,7 @@ arrête:
 
 **Compétences de l'Interprofession**
 
-<sup>1</sup> Le contrôle de la vigne, la dégustation ainsi que le contrôle de la commercialisation sont confiés à l'Interprofession.
+<sup>1</sup> Le contrôle de la vigne et la dégustation sont confiés à l'Interprofession.
 
 <sup>2</sup> Les modalités relatives à ces contrôles sont réglées dans un contrat de prestations conclu entre l'Etat et l'Interprofession.
 
@@ -1024,9 +1102,11 @@ arrête:
 
 <sup>1</sup> Les encaveurs effectuent durant l'été, avec leurs fournisseurs, le contrôle des conditions de production de la vendange. Ce contrôle se fait selon une convention à conclure entre les partenaires concernés.
 
-<sup>2</sup> L'Interprofession met en place un contrôle sur la vigne portant notamment sur la charge et la conduite de la vigne.
+<sup>2</sup> L'Interprofession met en place un contrôle sur la vigne, portant notamment sur la charge et la conduite de la vigne, et décide du déclassement en cas d'irrégularités.
 
-<sup>3</sup> Le service veille à l'application des exigences de contrôle.
+<sup>3</sup> Elle adopte à cet effet un règlement de fonctionnement qui décrit notamment la procédure et les voies de droit et qui devra être homologué par le Conseil d'Etat.
+
+<sup>4</sup> Les organes étatiques compétents mettent en oeuvre les décisions prises par l'Interprofession.
 
 #### Art. 74
 
@@ -1054,7 +1134,7 @@ arrête:
 
 <sup>3</sup> Tout ajout de produits aux raisins ou mélange de cépages avant le contrôle sont interdits.
 
-<sup>4</sup> Les contrôleurs officiels formés par le service, nommés par le Conseil d'Etat, surveillent l'autocontrôle selon l'ordonnance fédérale sur le vin et donnent aux encaveurs et propriétaires de vendanges toutes directives nécessaires.
+<sup>4</sup> Les contrôleurs nommés et formés par le service surveillent l'autocontrôle selon l'ordonnance fédérale sur le vin et donnent aux encaveurs et propriétaires de vendanges toutes directives nécessaires.
 
 #### Art. 77
 
@@ -1064,11 +1144,11 @@ arrête:
 
 <sup>2</sup> Chaque saisie d'apport doit être accompagnée du code spécifique de traçabilité selon l'article 23 alinéa 2<sup>bis</sup>.
 
-<sup>2<sup>bis</sup></sup> La quantité de chaque apport est exprimée en kilogrammes et saisie au moyen de l'outil informatique mis à disposition par le canton. La saisie manuelle par le canton est soumise à émolument. La transmission au canton doit être effectuée au plus tard au 15 novembre de l'année du millésime, sauf pour les vendanges tardives où le délai est reporté au 28 février.
+<sup>2<sup>bis</sup></sup> La quantité de chaque apport est exprimée en kilogrammes et saisie au moyen de l'outil informatique mis à disposition par le canton. La saisie manuelle par le canton est soumise à émolument. La transmission au canton des données de la vendange doit être effectuée au plus tard au 15 novembre de l'année du millésime, sauf pour les vendanges tardives où le délai est reporté au 28 février.
 
 <sup>3</sup> Les fournisseurs sont seuls responsables du respect des droits de production indiqués sur leurs acquits et répondent d'éventuels déclassements.
 
-<sup>4</sup> Pour la détermination des limites quantitatives de production estimées en litres, la législation fédérale admet un rendement maximum de 80 litres de moût pour 100 kilos de raisin.
+<sup>4</sup> Pour la détermination des limites quantitatives de production estimées en litres, il est admis un rendement maximal de vinification de 80 litres de vin clair pour 100 kilos de raisin.
 
 #### Art. 78
 
@@ -1078,7 +1158,7 @@ arrête:
 
 <sup>2</sup> La détermination de la teneur naturelle en sucre (% Brix) doit se faire sur la base d'un échantillon représentatif de l'apport.
 
-<sup>2<sup>bis</sup></sup> La teneur naturelle en sucre de chaque apport est saisie au moyen de l'outil informatique mis à disposition par le canton. La saisie manuelle par le canton est soumise à émolument. La transmission au canton doit être effectuée au plus tard au 15 novembre de l'année du millésime, sauf pour les vendanges tardives où le délai est reporté au 28 février.
+<sup>2<sup>bis</sup></sup> La teneur naturelle en sucre de chaque apport est saisie au moyen de l'outil informatique mis à disposition par le canton. La saisie manuelle par le canton est soumise à émolument. La transmission au canton des données de la vendange doit être effectuée au plus tard au 15 novembre de l'année du millésime, sauf pour les vendanges tardives où le délai est reporté au 28 février.
 
 <sup>3</sup> Les encaveurs sont responsables du bon fonctionnement des réfractomètres utilisés.
 
@@ -1100,17 +1180,17 @@ arrête:
 
 <sup>4</sup> Le service établit le rapport annuel de vendange sur la base des apports de vendange.
 
-### 10.4 Contrôle de la cave
+### 10.4
 
 #### Art. 80
 
-**Déclaration d'encavage**
+**Fiche de cave**
 
-<sup>1</sup> Sur la base des saisies des apports de vendange, le système informatique mis à disposition par le canton permet à l'encaveur de générer sa déclaration d'encavage.
+<sup>1</sup> Sur la base des saisies des apports de vendange, le système informatique mis à disposition par le canton permet à l'encaveur de générer sa fiche de cave.
 
-<sup>2</sup> Il appartient à l'encaveur d'imprimer la déclaration d'encavage, puis de dater et signer ce document.
+<sup>2</sup> Il appartient à l'encaveur d'imprimer la fiche de cave, puis de dater et signer ce document.
 
-<sup>3</sup> Il le tient à disposition des organes officiels de contrôle fédéraux et cantonaux.
+<sup>3</sup> Il tient la fiche de cave à disposition des organes officiels de contrôle fédéraux et cantonaux.
 
 #### Art. 81
 
@@ -1126,23 +1206,19 @@ arrête:
 
 #### Art. 82
 
-**Contrôle de la cave**
-
-<sup>1</sup> Les encaveurs doivent mettre à disposition des contrôleurs les acquits, la déclaration d'encavage, les attestations d'apport de vendange, l'état des stocks, le récapitulatif des entrées et des sorties et les pièces comptables.
-
-<sup>2</sup> Ces documents doivent être conservés pendant dix ans.
+**…**
 
 ### 10.5 Dégustation
 
 #### Art. 83
 
-<sup>1</sup> L’Interprofession est responsable du contrôle organoleptique des vins AOC.
+<sup>1</sup> L’Interprofession est responsable du contrôle organoleptique des vins AOC, décide du déclassement en cas d'irrégularités et transmet aux organes étatiques compétents pour exécution.
 
-<sup>2</sup> Elle nomme à cet effet une Commission de dégustation et adopte un règlement de fonctionnement, lequel devra être approuvé et homologué par le Conseil d'Etat.
+<sup>2</sup> Elle nomme à cet effet une commission ad hoc intitulée "Commission de dégustation" et adopte un règlement de fonctionnement, lequel devra être homologué par le Conseil d'Etat.
 
-<sup>3</sup> Ce règlement contient notamment les règles de composition de la commission, les principes de dégustation ainsi que les possibilités de recours.
+<sup>3</sup> Ce règlement contient notamment les règles de composition et d'organisation de la commission, la procédure et les critères de dégustation, ainsi que les voies de droit.
 
-<sup>4</sup> Les encaveurs sont tenus de fournir gratuitement les échantillons destinés à la dégustation.
+<sup>4</sup> …
 
 ### 10.6
 
@@ -1158,9 +1234,9 @@ arrête:
 
 <sup>1</sup> On entend par "Grand Cru" (GC) un vin de qualité supérieure qui met en évidence la typicité des terroirs et la spécificité des cépages autochtones et traditionnels du Valais.
 
-<sup>2</sup> L'appellation Grand Cru désigne des vins AOC qui remplissent les conditions minimales prévues par le présent chapitre et qui:
+<sup>2</sup> La désignation Grand Cru désigne des vins AOC qui remplissent les conditions minimales prévues par le présent chapitre et qui:
 
-- a) sont issus de vendanges provenant d'une aire limitée à une commune ayant décidé d'adopter l'appellation Grand Cru;
+- a) sont issus de vendanges provenant d'une aire limitée à une commune ayant décidé d'adopter la désignation Grand Cru;
 - b) satisfont en outre à des exigences supplémentaires définies au moins dans les domaines suivants:
   - 1\. cépage(s) selon le terroir spécifique,
   - 2\. délimitation des périmètres de production,
@@ -1192,7 +1268,7 @@ arrête:
 
 **Cépages**
 
-<sup>1</sup> L’appellation Grand Cru est réservée aux cépages suivants :
+<sup>1</sup> La désignation Grand Cru est réservée aux cépages suivants:
 
 - a) cépages blancs: Chasselas (Fendant), Sylvaner (Rhin ou gros Rhin), Amigne, Arvine (Petite Arvine), Marsanne blanche (Ermitage), Roussanne, Savagnin blanc (Païen ou Heida), Humagne blanc, Pinot gris (Malvoisie), Rèze;
 - b) cépages rouges: Pinot noir, Gamay, Cornalin du Valais, Humagne rouge, Syrah.
@@ -1251,7 +1327,7 @@ arrête:
 
 **Méthodes de culture**
 
-<sup>1</sup> Les exigences culturales relatives à l'appellation Grand Cru sont les suivantes:
+<sup>1</sup> Les exigences culturales relatives à la désignation Grand Cru sont les suivantes:
 
 - a) les prestations écologiques requises par le service doivent être respectées;
 - b) la vigne doit être âgée d'au moins huit ans, année de plantation incluse;
@@ -1268,11 +1344,11 @@ arrête:
 
 <sup>2</sup> Pour les vins Grand Cru tout assemblage est exclu, sous réserve des alinéas 3 et 4.
 
-<sup>3</sup> Les vins surmaturés peuvent être assemblés à condition que chaque cépage les composant soient inclus dans la liste de l'appellation Grand Cru.
+<sup>3</sup> Les vins surmaturés peuvent être assemblés à condition que chaque cépage les composant soit inclus dans la liste de la désignation Grand Cru.
 
 <sup>4</sup> Tous les cépages entrant dans la composition de la Dôle Grand Cru doivent respecter les exigences relatives aux vins rouges de la catégorie Grand Cru.
 
-<sup>5</sup> La Dôle blanche, l'OEil de Perdrix et le Rosé du Valais ne peuvent bénéficier de l'appellation Grand Cru.
+<sup>5</sup> La Dôle blanche, l'OEil de Perdrix et le Rosé du Valais ne peuvent bénéficier de la désignation Grand Cru.
 
 <sup>6</sup> Tout assemblage de millésimes est interdit.
 
@@ -1284,11 +1360,11 @@ arrête:
 
 **Dénomination et étiquetage**
 
-<sup>1</sup> L'appellation Grand Cru ne peut être utilisée qu'en rapport avec le nom de la commune ou de la région d'où provient la vendange.
+<sup>1</sup> La désignation Grand Cru ne peut être utilisée qu'en rapport avec le nom de la commune ou de la région d'où provient la vendange.
 
-<sup>2</sup> L’appellation "Grand Cru Valais" est interdite.
+<sup>2</sup> La désignation "Grand Cru Valais" est interdite.
 
-<sup>3</sup> Outre les règles applicables à tous les vins AOC, les mentions "Grand Cru", la commune ou région de provenance ainsi que le millésime doivent figurer sur l'étiquette.
+<sup>3</sup> Outre les règles applicables à tous les vins AOC, la désignation "Grand Cru", la commune ou région de provenance ainsi que le millésime doivent figurer sur l'étiquette.
 
 <sup>4</sup> L'emploi d'expressions telles que "premier cru", "cru classé", "grand cru classé", "grand cru valaisan", "grand cru du Valais", etc. est prohibé.
 
@@ -1304,13 +1380,13 @@ arrête:
 
 **Contrôles**
 
-<sup>1</sup> L'Interprofession est chargée de l'harmonisation du contrôle et des exigences spécifiques relatives à l'appellation Grand Cru.
+<sup>1</sup> L'Interprofession est chargée de l'harmonisation du contrôle et des exigences spécifiques relatives à la désignation Grand Cru.
 
-<sup>2</sup> Pour les parcelles destinées à produire un vin d'appellation Grand Cru, l'Interprofession instaure un contrôle systématique de la vigne.
+<sup>2</sup> Pour les parcelles destinées à produire un vin de désignation Grand Cru, l'Interprofession instaure un contrôle systématique de la vigne.
 
 <sup>3</sup> Les vins Grand Cru doivent faire l'objet d'une dégustation systématique avant mise en bouteille. Des contrôles par échantillonnage seront également effectués après mise en bouteille.
 
-<sup>4</sup> Lorsqu'un vin n'atteint pas la qualité exigée, il ne reçoit pas le droit à l'appellation "Grand Cru".
+<sup>4</sup> Lorsqu'un vin n'atteint pas la qualité exigée, il ne reçoit pas le droit à la désignation "Grand Cru".
 
 <sup>5</sup> L'Interprofession est chargée du contrôle relatif à la traçabilité des lots et à l'identification du produit fini par un signe distinctif et uniforme à la commercialisation.
 
@@ -1325,7 +1401,7 @@ arrête:
 <sup>2</sup> Ce règlement comprend notamment les éléments suivants:
 
 - a) les dispositions relatives au suivi et au contrôle des parcelles Grand Cru;
-- b) la composition de la Commission de dégustation et les possibilités de recours;
+- b) la composition de la Commission de dégustation Grand Cru et les possibilités de recours;
 - c) les principes de dégustation;
 - d) les règles particulières concernant l'étiquetage;
 - e) les dispositions relatives au contrôle de la commercialisation;
@@ -1343,13 +1419,15 @@ arrête:
 
 #### Art. 99
 
-**Contrôle cantonal**
+**…**
 
-<sup>1</sup> Toute personne qui désire commercialiser du vin de sa récolte doit être inscrite auprès du SCAV.
+#### Art. 99a
 
-<sup>2</sup> Les producteurs qui transforment et vendent leurs propres produits, qui n'achètent pas plus de 2'000 litres par an en provenance de la même région de production, sont soumis uniquement à un contrôle cantonal.
+**Documents**
 
-<sup>3</sup> Le département chargé du contrôle des denrées alimentaires fixe les règles de ce contrôle et requiert la reconnaissance de son équivalence à l'autorité fédérale.
+<sup>1</sup> Les encaveurs doivent mettre à disposition des contrôleurs les acquits, la fiche de cave, les attestations d'apport de vendange, l'état des stocks, le récapitulatif des entrées et des sorties et les pièces comptables.
+
+<sup>2</sup> Ces documents doivent être conservés pendant dix ans.
 
 ## 13 Statistiques des vins
 
@@ -1363,15 +1441,17 @@ arrête:
 
 #### Art. 102
 
-**Disponibilités et ventes**
+**Disponibilités**
 
-<sup>1</sup> Chaque encaveur doit déterminer ses disponibilités de vin au 31 décembre, les mentionner sur le document d'enquête et les communiquer à l'organe de contrôle pour le 31 janvier suivant.
+<sup>1</sup> Chaque encaveur doit déterminer ses disponibilités de vin au 31 décembre et les communiquer au service au moyen de l'outil informatique mis à disposition par le canton pour le 31 janvier suivant. Le service tient ces données à disposition de l'organe de contrôle.
 
 <sup>2</sup> …
 
 <sup>3</sup> …
 
 <sup>4</sup> …
+
+<sup>5</sup> Le service publie sur son site internet, au plus tard au 31 mars de l'année suivante, les données consolidées des stocks au niveau cantonal, détaillées selon les principales classes de vins, cépages et millésimes.
 
 #### Art. 103
 
@@ -1437,9 +1517,9 @@ arrête:
 
 <sup>1</sup> Dans la mesure où les dépenses occasionnées par les tâches déléguées à l'Interprofession par la présente ordonnance ne sont pas entièrement prises en charge par le canton ou la Confédération, l'Interprofession a le droit de percevoir un émolument annuel.
 
-<sup>2</sup> Le département chargé du contrôle des denrées alimentaires fixe ces émoluments en tenant compte uniquement du volume d'encavage des vins AOC.
+<sup>2</sup> Le département en charge de l'agriculture approuve le montant de l'émolument dans le mandat de prestations.
 
-<sup>3</sup> L'Interprofession perçoit ces émoluments directement auprès des encaveurs et des vignerons encaveurs.
+<sup>3</sup> L'Interprofession perçoit ces émoluments directement auprès des encaveurs, des propriétaires encaveurs et des vignerons encaveurs.
 
 #### Art. 113a
 
