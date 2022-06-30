@@ -4,13 +4,13 @@ number: "125.12"
 title: Gesetz über die Gerichtsorganisation
 short: GO
 language: de
-version: 2021-11-01
-valid_until: 2022-06-30
-version_adopted: 2020-11-04
+version: 2022-07-01
+valid_until: 2024-12-31
+version_adopted: 2021-08-31
 adopted: 1977-03-13
 in_force: 1977-05-01
 url: "https://bgs.so.ch/app/de/texts_of_law/125.12"
-pdf: "https://bgs.so.ch/api/de/versions/5117/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5188/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5117/pdf_file"
 
 (GO)
 
-Vom 13.03.1977 (Stand 01.11.2021)
+Vom 13.03.1977 (Stand 01.07.2022)
 
 Der Kantonsrat von Solothurn
 
@@ -544,9 +544,12 @@ beschliesst:
 - b) Streitigkeiten aus öffentlich-rechtlichen Verträgen, ausgenommen Streitigkeiten aus öffentlich-rechtlichen Anstellungsverträgen nach § 18 des Gesetzes über das Staatspersonal, soweit es sich nicht um vermögensrechtliche Streitigkeiten handelt;
 - b<sup>bis</sup>) Streitigkeiten zwischen dem Konzessionär oder der Konzessionärin und der Konzessionsbehörde über die Rechte und Pflichten aus der Konzession;
 - c) Schadenersatz- und Regressansprüche gegen den Staat und seine Funktionäre im Rahmen bundesrechtlicher Haftungsbestimmungen;
+- c<sup>bis</sup>) Schadenersatzansprüche gegen Auftraggeber gemäss Artikel 58 Absatz 4 der Interkantonalen Vereinbarung über das öffentliche Beschaffungswesen (IVöB) vom 15. November 2019[^48-1], wenn diese nicht im Beschwerdeverfahren gemäss Artikel 58 Absatz 3 IVöB entschieden werden;
 - d) die Rückübertragung enteigneter Rechte und damit zusammenhängende Fristverlängerungen.
 
 <sup>2</sup> Den Gemeinden gleichgestellt sind andere öffentlich-rechtliche Körperschaften und Anstalten, eingeschlossen Gemeindeverbände.
+
+[^48-1]: BGS [721.532](https://bgs.so.ch/data/721.532/de).
 
 #### § 49
 
