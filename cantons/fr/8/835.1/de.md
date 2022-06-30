@@ -4,13 +4,12 @@ number: "835.1"
 title: Gesetz über die familienergänzenden Tagesbetreuungseinrichtungen
 short: FBG
 language: de
-version: 2020-01-01
-valid_until: 2022-06-30
-version_adopted: 2018-12-13
+version: 2022-07-01
+version_adopted: 2022-03-22
 adopted: 2011-06-09
 in_force: 2011-10-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/835.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/6109/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7494/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Familienergänzende Tagesbetreuungseinrichtungen – G
 
 (FBG)
 
-vom 09.06.2011 (Fassung in Kraft getreten am 01.01.2020)
+vom 09.06.2011 (Fassung in Kraft getreten am 01.07.2022)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -192,6 +191,14 @@ beschliesst:
 
 <sup>3</sup> Die Voraussetzungen für den Beitrag und die Berechnungsweise werden im Ausführungsreglement festgelegt.
 
+#### Art. 13a
+
+**Assistenzpersonen**
+
+<sup>1</sup> Kinder, die aufgrund von Artikel 32 des Gesetzes vom 11. Oktober 2017 über die Sonderpädagogik (SPG) verstärkte sonderpädagogische Massnahmen (VM) durch eine Assistenzperson erhalten, können diese auch im Rahmen der ausserschulischen Betreuung erhalten.
+
+<sup>2</sup> Die Kosten für die ausserschulische Betreuung durch eine Assistenzperson werden gemäss Verteilschlüssel im Gesetz über die Sonderpädagogik zwischen dem Kanton und den Gemeinden aufgeteilt.
+
 #### Art. 14
 
 **Grundausbildung des pädagogischen Fachpersonals**
@@ -210,6 +217,14 @@ beschliesst:
 <sup>1</sup> Der Staat kann sich an den Kosten für die Weiterbildung, die das pädagogische Fachpersonal der Betreuungseinrichtungen zur Erfüllung seiner Aufgaben braucht, beteiligen. Grundsätzlich gibt er kollektiven Weiterbildungsangeboten den Vorzug.
 
 <sup>2</sup> Die Direktion legt die Einzelheiten der Weiterbildung fest.
+
+#### Art. 15a
+
+**Gebühren**
+
+<sup>1</sup> Die Direktion und die weiteren Organe, die mit dem Vollzug dieses Gesetzes beauftragt sind, können für Bewilligungen, Kontrollen und administrative oder Untersuchungsschritte, für ergriffene Massnahmen und alle anderen Entscheide oder Dienstleistungen Gebühren erheben.
+
+<sup>2</sup> Der Staatsrat setzt den Tarif der Gebühren fest.
 
 #### Art. 16
 

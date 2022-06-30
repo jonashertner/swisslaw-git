@@ -4,13 +4,12 @@ number: "835.1"
 title: "Loi sur les structures d'accueil extrafamilial de jour"
 short: LStE
 language: fr
-version: 2020-01-01
-valid_until: 2022-06-30
-version_adopted: 2018-12-13
+version: 2022-07-01
+version_adopted: 2022-03-22
 adopted: 2011-06-09
 in_force: 2011-10-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/835.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6109/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7494/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Structures d'accueil extrafamilial de jour – L
 
 (LStE)
 
-du 09.06.2011 (version entrée en vigueur le 01.01.2020)
+du 09.06.2011 (version entrée en vigueur le 01.07.2022)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -192,6 +191,14 @@ Décrète:
 
 <sup>3</sup> Le règlement d'exécution fixe les conditions et le mode de calcul du subventionnement.
 
+#### Art. 13a
+
+**Auxiliaires de vie**
+
+<sup>1</sup> Les enfants qui bénéficient, en vertu de l'article 32 de la loi du 11 octobre 2017 sur la pédagogie spécialisée d'une mesure d'aide renforcée (MAR) sous forme d'octroi d'un ou d'une auxiliaire de vie, peuvent également obtenir cette mesure pour l'accueil extrascolaire.
+
+<sup>2</sup> Le coût de l'aide fournie par les auxiliaires de vie en accueil extrascolaire est réparti entre le canton et les communes conformément à la clef de répartition des coûts prévue par la loi sur la pédagogie spécialisée.
+
 #### Art. 14
 
 **Formation de base du personnel éducatif**
@@ -210,6 +217,14 @@ Décrète:
 <sup>1</sup> L'Etat peut participer au financement des frais de perfectionnement nécessaire à l'exercice des tâches du personnel éducatif des structures d'accueil. En principe, il favorise les offres de formation collective.
 
 <sup>2</sup> La Direction fixe les modalités du perfectionnement.
+
+#### Art. 15a
+
+**Emoluments**
+
+<sup>1</sup> La Direction ainsi que les autres organes chargés de l'application de la présente loi peuvent percevoir des émoluments pour les autorisations délivrées, les contrôles ou les démarches administratives ou d'instruction effectués, les mesures prises ou toute autre décision rendue ou tout autre service fourni.
+
+<sup>2</sup> Le tarif des émoluments est fixé par le Conseil d'Etat.
 
 #### Art. 16
 
