@@ -4,13 +4,13 @@ number: "815.122"
 title: Einführungsverordnung zur eidgenössischen Epidemiengesetzgebung
 short: EV EpG
 language: de
-version: 2022-01-01
-valid_until: 2022-06-30
-version_adopted: 2021-11-03
+version: 2022-07-01
+valid_until: 2025-12-31
+version_adopted: 2022-06-08
 adopted: 2015-12-09
 in_force: 2016-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/815.122"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2505/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2611/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2505/pdf_file"
 
 (EV EpG)
 
-vom 09.12.2015 (Stand 01.01.2022)
+vom 09.12.2015 (Stand 01.07.2022)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -103,6 +103,39 @@ beschliesst:
 <sup>1</sup> Die zuständige kantonale Behörde kann Organisationen und Personen des öffentlichen oder privaten Rechts mit Aufgaben zur Bekämpfung übertragbarer Krankheiten betrauen.
 
 <sup>2</sup> Art, Menge und Qualität der zu erbringenden Leistungen, deren Abgeltung und die Qualitätssicherung werden in einem Leistungsvertrag geregelt.
+
+#### Art. 11a
+
+**Covid-19-Impfungen in Apotheken**
+
+<sup>1</sup> Apothekerinnen und Apotheker, die gestützt auf Artikel 19 Absatz 2 der Verordnung vom 24. Oktober 2001 über die beruflichen Tätigkeiten im Gesundheitswesen (Gesundheitsverordnung, GesV)[^11a-1] über eine Bewilligung zur Durchführung von Impfungen verfügen, sind ermächtigt und beauftragt, an gesunden Personen ab 16 Jahren Covid-19-Impfungen in der Apotheke vorzunehmen.
+
+<sup>2</sup> Sie können die Durchführung der Covid-19-Impfungen sowie der saisonalen Grippeimpfungen unter ihrer fachlichen Aufsicht und Verantwortung an Pharma-Assistentinnen und Pharma-Assistenten sowie an diplomierte Pflegefachpersonen übertragen, sofern diese über eine entsprechende Weiterbildung verfügen.
+
+[^11a-1]: BSG [811.111](https://www.belex.sites.be.ch/data/811.111/de)
+
+#### Art. 11b
+
+**Sicherstellung ausreichender Kapazitäten in Spitälern und Kliniken**
+
+<sup>1</sup> Für Anordnungen zur Sicherstellung ausreichender Kapazitäten in Spitälern und Kliniken für Covid-19-Patientinnen und -Patienten sowie für weitere medizinisch dringend angezeigte Untersuchungen und Behandlungen nach Artikel 25 Absatz 1 und 2 der eidgenössischen Verordnung 3 vom 19. Juni 2020 über Massnahmen zur Bekämpfung des Coronavirus (Covid-19) (Covid-19-Verordnung 3)[^11b-1] gelten die folgenden Zuständigkeiten:
+
+- a Das Gesundheitsamt ist zuständig, einzelne Spitäler und Kliniken zu verpflichten,
+  - 1\. ihre Kapazitäten im stationären Bereich zur Verfügung zu stellen oder auf Abruf bereitzuhalten, und
+  - 2\. medizinisch nicht dringend angezeigte Untersuchungen und Behandlungen zu beschränken oder einzustellen.
+- b Der Regierungsrat ist zuständig, alle Spitäler und Kliniken zu verpflichten,
+  - 1\. ihre Kapazitäten im stationären Bereich zur Verfügung zu stellen oder auf Abruf bereitzuhalten, und
+  - 2\. medizinisch nicht dringend angezeigte Untersuchungen und Behandlungen zu beschränken oder einzustellen.
+
+[^11b-1]: SR [818.101.24](https://db.clex.ch/link/Bund/818.101.24/de)
+
+#### Art. 11c
+
+**Covid-19-Zertifikate**
+
+<sup>1</sup> Die Gesundheits-, Sozial- und Integrationsdirektion ist die zuständige kantonale Behörde für den Vollzug der eidgenössischen Verordnung vom 4. Juni 2021 über Zertifikate zum Nachweis einer Covid-19-Impfung, einer Covid-19-Genesung oder eines Covid-19-Testergebnisses (Covid-19-Verordnung Zertifikate)[^11c-1].
+
+[^11c-1]: SR [818.102.2](https://db.clex.ch/link/Bund/818.102.2/de)
 
 #### Art. 12
 

@@ -4,13 +4,13 @@ number: "815.122"
 title: Ordonnance portant introduction de la législation fédérale sur les épidémies
 short: OiLEp
 language: fr
-version: 2022-01-01
-valid_until: 2022-06-30
-version_adopted: 2021-11-03
+version: 2022-07-01
+valid_until: 2025-12-31
+version_adopted: 2022-06-08
 adopted: 2015-12-09
 in_force: 2016-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/815.122"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2505/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2611/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2505/pdf_file"
 
 (OiLEp)
 
-du 09.12.2015 (état au 01.01.2022)
+du 09.12.2015 (état au 01.07.2022)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -103,6 +103,39 @@ arrête:
 <sup>1</sup> L'autorité cantonale compétente peut confier des tâches de lutte contre les maladies transmissibles à des organisations et à des personnes de droit public ou de droit privé.
 
 <sup>2</sup> La nature, le volume et la qualité des prestations, leur rétribution et l'assurance-qualité sont définies par contrat de prestations.
+
+#### Art. 11a
+
+**Vaccination contre le COVID-19 en pharmacie**
+
+<sup>1</sup> Les pharmaciennes et pharmaciens autorisés à administrer des vaccins sur la base de l'article 19, alinéa 2 de l'ordonnance du 24 octobre 2001 sur les activités professionnelles dans le secteur sanitaire (ordonnance sur la santé publique, OSP)[^11a-1] sont habilités à et chargés de vacciner des personnes en bonne santé dès 16 ans contre le COVID-19 dans les pharmacies.
+
+<sup>2</sup> Ils peuvent déléguer l’administration des vaccins contre le COVID-19 et contre la grippe saisonnière à des assistantes et assistants en pharmacie, ainsi qu'à du personnel soignant diplômé, placés sous leur surveillance et leur responsabilité, pour autant que ces personnes aient suivi une formation continue appropriée.
+
+[^11a-1]: RSB [811.111](https://www.belex.sites.be.ch/data/811.111/fr)
+
+#### Art. 11b
+
+**Capacités sanitaires dans les hôpitaux et les cliniques**
+
+<sup>1</sup> Les compétences pour la prescription de mesures destinées à garantir des capacités suffisantes dans les hôpitaux et les cliniques pour les personnes atteintes du COVID-19 ainsi que pour d’autres examens et traitements urgents selon l’article 25, alinéas 1 et 2 de l'ordonnance fédérale 3 du 19 juin 2020 sur les mesures destinées à lutter contre le coronavirus (COVID-19) (ordonnance 3 COVID-19)[^11b-1] sont les suivantes:
+
+- a L’ODS peut obliger certains hôpitaux et certaines cliniques
+  - 1\. à mettre à disposition leurs capacités dans le domaine hospitalier ou à les libérer sur demande, et
+  - 2\. à limiter ou à suspendre les examens et traitements non urgents.
+- b Le Conseil-exécutif peut obliger tous les hôpitaux et toutes les cliniques
+  - 1\. à mettre à disposition leurs capacités dans le domaine hospitalier ou à les libérer sur demande, et
+  - 2\. à limiter ou à suspendre les examens et traitements non urgents.
+
+[^11b-1]: RS [818.101.24](https://db.clex.ch/link/Bund/818.101.24/fr)
+
+#### Art. 11c
+
+**Certificats COVID-19**
+
+<sup>1</sup> La Direction de la santé, des affaires sociales et de l'intégration est l'autorité cantonale compétente pour l'exécution de l'ordonnance fédérale du 4 juin 2021 sur les certificats attestant la vaccination contre le COVID-19, la guérison du COVID-19 ou la réalisation d’un test de dépistage du COVID-19 (ordonnance COVID-19 certificats)[^11c-1].
+
+[^11c-1]: RS [818.102.2](https://db.clex.ch/link/Bund/818.102.2/fr)
 
 #### Art. 12
 
