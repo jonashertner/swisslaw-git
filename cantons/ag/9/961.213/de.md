@@ -4,13 +4,13 @@ number: "961.213"
 title: Übergangsverordnung zum Bundesgesetz über die gesetzlichen Grundlagen für Verordnungen des Bundesrates zur Bewältigung der Covid-19-Epidemie
 short: Übergangsverordnung Covid-19-Gesetz
 language: de
-version: 2022-04-16
-valid_until: 2022-06-30
+version: 2022-07-01
+valid_until: 2024-04-15
 version_adopted: 2022-03-09
 adopted: 2022-03-09
 in_force: 2022-04-16
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/961.213"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3166/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3226/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3166/pdf_file"
 
 (Übergangsverordnung Covid-19-Gesetz)
 
-Vom 09.03.2022 (Stand 16.04.2022)
+Vom 09.03.2022 (Stand 01.07.2022)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -103,13 +103,11 @@ beschliesst:
 
 <sup>1</sup> Das Departement Bildung, Kultur und Sport (BKS) ist zuständig für die Behandlung von Gesuchen um Ausrichtung von Ausfallentschädigungen und von Finanzhilfen zur Unterstützung von Transformationsprojekten gemäss den Art. 6 und 10 Covid-19-Kulturverordnung.
 
-## 4. Solidarbürgschaften im Sport
+## 4.
 
 #### § 7
 
-**Solidarbürgschaften im Sport**
-
-<sup>1</sup> Das BKS kann gemäss Art. 13 lit. b Ziff. 5 der Covid-19-Verordnung Mannschaftssport Sicherheiten in Form von Solidarbürgschaften leisten.
+**…**
 
 ## 5. Unterstützung von Veranstaltungsunternehmen
 
