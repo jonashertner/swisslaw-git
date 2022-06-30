@@ -3,20 +3,19 @@ canton: LU
 number: 806a
 title: Psychotherapeutenverordnung
 language: de
-version: 2021-07-01
-valid_until: 2022-06-30
-version_adopted: 2021-06-15
+version: 2022-07-01
+version_adopted: 2022-03-15
 adopted: 2013-04-16
 in_force: 2013-04-01
 url: "https://srl.lu.ch/app/de/texts_of_law/806a"
-pdf: "https://srl.lu.ch/api/de/versions/3755/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3916/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Psychotherapeutenverordnung
 
-vom 16.04.2013 (Stand 01.07.2021)
+vom 16.04.2013 (Stand 01.07.2022)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -36,21 +35,26 @@ beschliesst:
 
 <sup>1</sup> Die Verordnung regelt
 
-- a. die Einzelheiten der Berufsausübungsbewilligung (Bewilligung) für die psychologische Psychotherapie,
+- a. die Einzelheiten der Berufsausübungsbewilligung und der Betriebsbewilligung für die psychologische Psychotherapie,
 - b. die besonderen Rechte und Pflichten der Personen, welche die psychologische Psychotherapie fachlich eigenverantwortlich ausüben.
+
+<sup>2</sup> Die Zulassung von Berufsleuten und Betrieben nach dieser Verordnung zur Leistungserbringung zulasten der obligatorischen Krankenpflegeversicherung nach dem Bundesgesetz über die Krankenversicherung (KVG) vom 18. März 1994[^1-1] richtet sich nach der Kantonalen Zulassungsverordnung vom 30. November 2021[^1-2].
+
+[^1-1]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de)
+[^1-2]: SRL Nr. [865c](https://srl.lu.ch/data/865c/de)
 
 #### § 2
 
 **Dienststelle Gesundheit und Sport[^2-1]**
 
-<sup>1</sup> Die Dienststelle Gesundheit und Sport beaufsichtigt Personen, die im Kanton die psychologische Psychotherapie fachlich eigenverantwortlich ausüben.
+<sup>1</sup> Die Dienststelle Gesundheit und Sport beaufsichtigt Personen und Betriebe, die im Kanton die psychologische Psychotherapie fachlich eigenverantwortlich ausüben.
 
 <sup>2</sup> Sie ist insbesondere zuständig für
 
 - a. Entscheide im Zusammenhang mit der Bewilligung,
 - b. die Publikation der erteilten Bewilligungen, der Entzüge oder des anderweitigen Erlöschens von Bewilligungen gemäss § 21 des Gesundheitsgesetzes vom 13. September 2005[^2-2],
 - c. die Befreiung von psychologischen Psychotherapeutinnen und Psychotherapeuten vom Berufsgeheimnis im Sinn von Artikel 321 Ziffer 2 des Schweizerischen Strafgesetzbuches vom 21. Dezember 1937[^2-3],
-- d. die Meldung der Erteilung, der Verweigerung und jeder Änderung der Bewilligung an das Eidgenössische Departement des Innern.
+- d. die Meldung der Erteilung, der Verweigerung und jeder Änderung der Berufsausübungsbewilligung an das Eidgenössische Departement des Innern.
 
 <sup>3</sup> Sie entscheidet zudem auch über die Befreiung von bewilligungsfrei tätigen Psychologinnen und Psychologen vom Berufsgeheimnis im Sinn von Artikel 321 Ziffer 2 des Schweizerischen Strafgesetzbuches[^2-4].
 
@@ -61,13 +65,15 @@ beschliesst:
 
 ## 2 Bewilligungs- und Meldepflicht
 
+### 2.1 Psychologische Psychotherapeutinnen und -therapeuten
+
 #### § 3
 
-**Grundsatz**
+**Bewilligungspflicht**
 
 <sup>1</sup> Die fachlich eigenverantwortliche Ausübung der psychologischen Psychotherapie ist bewilligungspflichtig.
 
-<sup>2</sup> Keine Bewilligung benötigt, wer die psychologische Psychotherapie unter der fachlichen Kontrolle, in den Räumlichkeiten und im Namen und Auftrag eines Arztes oder einer Ärztin oder eines Psychotherapeuten oder einer Psychotherapeutin mit Berufsausübungsbewilligung ausübt (delegierte Psychotherapie).
+<sup>2</sup> Keine Berufsausübungsbewilligung benötigt, wer die psychologische Psychotherapie unter der fachlichen Kontrolle, in den Räumlichkeiten und im Namen und Auftrag eines Arztes oder einer Ärztin oder eines Psychotherapeuten oder einer Psychotherapeutin mit Berufsausübungsbewilligung ausübt.
 
 #### § 4
 
@@ -87,6 +93,8 @@ beschliesst:
 - b. ein Auszug aus dem Schweizerischen Strafregister oder ein gleichwertiges Dokument des Herkunftsstaates.
 - c. …
 
+<sup>1<sup>bis</sup></sup> Gesuchstellerinnen und Gesuchsteller, die nicht deutscher Muttersprache sind, haben den Nachweis über gute Kenntnisse der deutschen Sprache zu erbringen, in der Regel in Form eines international anerkannten Sprachdiploms mit Sprachniveau mindestens B2 gemäss dem Gemeinsamen Europäischen Referenzrahmen für Sprachen.
+
 <sup>2</sup> Die Dienststelle Gesundheit und Sport kann weitere Unterlagen verlangen, namentlich Bewilligungen und Unbedenklichkeitsbescheinigungen anderer Kantone.
 
 #### § 6
@@ -101,7 +109,34 @@ beschliesst:
 
 [^6-1]: SR [935.01](https://db.clex.ch/link/Bund/935.01/de)
 
-## 3 Vorschriften über die Berufsausübung
+### 2.2 Organisationen der psychologischen Psychotherapie
+
+#### § 6a
+
+**Bewilligungspflicht**
+
+<sup>1</sup> Organisationen der psychologischen Psychotherapie benötigen eine Betriebsbewilligung.
+
+<sup>2</sup> Die in einem bewilligungspflichtigen Betrieb fachlich eigenverantwortlich tätigen Berufsleute benötigen eine Berufsausübungsbewilligung.
+
+#### § 6b
+
+**Bewilligungsgesuch**
+
+<sup>1</sup> Die Gesuchstellerinnen und Gesuchsteller haben in ihrem Gesuch eine verantwortliche Fachperson zu bezeichnen, die über die Bewilligung zur fachlich eigenverantwortlichen Ausübung der psychologischen Psychotherapie im Kanton Luzern verfügt.
+
+<sup>2</sup> Dem Gesuch sind beizufügen:
+
+- a. ein Betriebskonzept, das Auskunft gibt über Angebot, Personal und Einrichtung sowie über Qualitätssicherungsmassnahmen,
+- b. ein Betreibungsregisterauszug des Gesuchstellers oder der Gesuchstellerin,
+- c. eine Erklärung des Gesuchstellers oder der Gesuchstellerin, dass die therapeutische Unabhängigkeit der für die Einrichtung fachlich eigenverantwortlich tätigen Berufsleute gewährleistet ist.
+
+<sup>3</sup> Die Dienststelle Gesundheit und Sport kann zur Prüfung der betrieblichen Bewilligungsvoraussetzungen
+
+- a. weitere erforderliche Unterlagen einverlangen; diese sind auf Verlangen auf Deutsch zu übersetzen und amtlich zu beglaubigen,
+- b. eine Inspektion des Betriebs vornehmen.
+
+## 3 Vorschriften über die Berufsausübung und den Betrieb
 
 #### § 7
 
@@ -117,7 +152,7 @@ beschliesst:
 
 **Meldepflicht**
 
-<sup>1</sup> Aufnahme, Verlegung und Einstellung der fachlich eigenverantwortlichen Tätigkeit sowie Namenswechsel sind der Dienststelle gemäss § 2 umgehend zu melden.
+<sup>1</sup> Aufnahme, Verlegung und Einstellung der fachlich eigenverantwortlichen Tätigkeit oder des Betriebs, Namenswechsel und Wechsel der gemäss Betriebsbewilligung fachverantwortlichen Person sind der Dienststelle Gesundheit und Sport umgehend zu melden.
 
 #### § 9
 
@@ -141,7 +176,7 @@ beschliesst:
 
 **Strafbestimmungen**
 
-<sup>1</sup> Wer vorsätzlich oder fahrlässig die Bestimmungen der §§ 3, 6 Absatz 3 und 7 – 10 übertritt oder bei deren Übertretung Hilfe leistet, wird, soweit nicht besondere Strafbestimmungen anwendbar sind, mit Busse bestraft.
+<sup>1</sup> Wer vorsätzlich oder fahrlässig die Bestimmungen der §§ 3, 6 Absatz 3, 6a und 7–10 übertritt oder bei deren Übertretung Hilfe leistet, wird, soweit nicht besondere Strafbestimmungen anwendbar sind, mit Busse bestraft.
 
 #### § 12
 
