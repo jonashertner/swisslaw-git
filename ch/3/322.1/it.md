@@ -4,11 +4,11 @@ title: Procedura penale militare del 23 marzo 1979 (PPM)
 short: PPM
 eli: "https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059"
 language: it
-version: 2020-02-01
+version: 2022-07-01
 adopted: 1979-03-23
 in_force: 1980-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059/20200201/it/xml/fedlex-data-admin-ch-eli-cc-1979-1059_1059_1059-20200201-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1979/1059_1059_1059/20200201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059/20220701/it/xml/fedlex-data-admin-ch-eli-cc-1979-1059_1059_1059-20220701-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1979/1059_1059_1059/20220701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1979/1059_1059_1059/20200201/it"
 
 (PPM)
 
-del 23 marzo 1979 (Stato 1° febbraio 2020)
+del 23 marzo 1979 (Stato 1° luglio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -3172,11 +3172,11 @@ La revisione di un decreto d’accusa o di una sentenza esecutori può essere ch
 - c. dopo l’emanazione della sentenza è stata pronunciata una nuova sentenza penale inconciliabile con essa;
 - d. dopo l’emanazione della sentenza, l’accusato assolto ha fatto una confessione fededegna;
 - e. sono state violate le norme in materia di astensione o ricusazione e questa violazione non ha potuto essere invocata precedentemente;
-- f.[^200-1] La Corte europea dei diritti dell’uomo o il Comitato dei Ministri del Consiglio d’Europa ha accolto un ricorso individuale per violazione della Convenzione del 4 novembre 1950[^200-2] per la salvaguardia dei diritti dell’uomo e delle libertà fondamentali o dei suoi protocolli e la riparazione è possibile soltanto mediante una revisione; in tal caso, la domanda di revisione deve essere presentata entro 90 giorni dalla notificazione della decisione delle autorità europee da parte dell’Ufficio federale di giustizia.
+- f.[^200-1] la Corte europea dei diritti dell’uomo ha accertato in una sentenza definitiva che la Convenzione del 4 novembre 1950[^200-2] per la salvaguardia dei diritti dell’uomo e delle libertà fondamentali (CEDU) o i suoi protocolli sono stati violati oppure ha chiuso la causa con una composizione amichevole (art. 39 CEDU), per quanto un indennizzo non sia atto a compensare le conseguenze della violazione e la revisione sia necessaria per ovviarvi; in tal caso, la domanda di revisione deve essere presentata entro 90 giorni da quello in cui la sentenza o la decisione della Corte europea dei diritti dell’uomo è divenuta definitiva.
 
 <sup>2</sup> Scaduto il termine di prescrizione, la revisione a pregiudizio dell’accusato assolto o del condannato è esclusa.
 
-[^200-1]: Introdotta dall’all. n. 16 della LF del 4 ott. 1991, in vigore dal 15 feb. 1992 ([RU 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)[337](https://fedlex.data.admin.ch/eli/oc/1992/337_337_337)art. 2 cpv. 1 lett. i; [FF 1991 II 413](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)).
+[^200-1]: Introdotta dall’all. n. 16 della LF del 4 ott. 1991 ([RU 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)[337](https://fedlex.data.admin.ch/eli/oc/1992/337_337_337)art. 2 cpv. 1 lett. i; [FF 1991 II 413](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)). Nuovo testo giusta l’all. n. 4 della LF del 1° ott. 2021, in vigore dal 1° lug. 2022 ([RU 2022 289](https://fedlex.data.admin.ch/eli/oc/2022/289); [FF 2021 300](https://fedlex.data.admin.ch/eli/fga/2021/300), [889](https://fedlex.data.admin.ch/eli/fga/2021/889)).
 [^200-2]: [RS 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
 
 #### Art. 201

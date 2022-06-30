@@ -4,11 +4,11 @@ title: Procédure pénale militaire du 23 mars 1979 (PPM)
 short: PPM
 eli: "https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059"
 language: fr
-version: 2020-02-01
+version: 2022-07-01
 adopted: 1979-03-23
 in_force: 1980-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059/20200201/fr/xml/fedlex-data-admin-ch-eli-cc-1979-1059_1059_1059-20200201-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1979/1059_1059_1059/20200201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-1979-1059_1059_1059-20220701-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1979/1059_1059_1059/20220701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1979/1059_1059_1059/20200201/fr"
 
 (PPM)
 
-du 23 mars 1979 (Etat le 1<sup>er</sup> février 2020)
+du 23 mars 1979 (Etat le 1<sup>er</sup> juillet 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -25,7 +25,7 @@ vu l’art. 20 de la constitution[^ingress-1][^ingress-2], vu le message du Cons
 
 arrête:
 
-[^ingress-1]: [RS **1** 3]. A la disp. mentionnée correspond actuellement l’art. 60 de la Cst. du 18 avr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^ingress-1]: [RS **1** 3]. À la disp. mentionnée correspond actuellement l’art. 60 de la Cst. du 18 avr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
 [^ingress-2]: Nouvelle teneur selon le ch. V 1 de la LF du 24 mars 2000 sur la création et l’adaptation de bases légales concernant le traitement de données personnelles, en vigueur depuis le 1<sup>er</sup> sept. 2000 ([RO 2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293); [FF 1999 8381](https://fedlex.data.admin.ch/eli/fga/1999/1_9005_8381_7979)).
 [^ingress-3]: [FF 1977 II 1](https://fedlex.data.admin.ch/eli/fga/1977/2_1_1_1)
 
@@ -232,7 +232,7 @@ Le Tribunal militaire de cassation connaît des pourvois en cassation au sens de
 
 #### Art. 14
 
-**Election des juges; formation requise**
+**Élection des juges; formation requise**
 
 <sup>1</sup> Le président, les juges et les juges suppléants sont élus par l’Assemblée fédérale pour une période de quatre ans.
 
@@ -262,7 +262,7 @@ Le président désigne parmi les juges ordinaires un officier pour le remplacer;
 - e. des mesures de protection des participants à la procédure.[^15-2]
 
 [^15-1]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^15-2]: Nouvelle teneur selon le ch. II 12 de l’annexe 1 au CPP du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^15-2]: Nouvelle teneur selon l’annexe 1 ch. II 12 du CPP du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
 #### Art. 15a
 
@@ -270,7 +270,7 @@ Le président désigne parmi les juges ordinaires un officier pour le remplacer;
 
 Le président, les juges et les juges suppléants prêtent serment ou font la promesse solennelle devant le Tribunal militaire de cassation.
 
-[^15a-1]: Introduit par le ch. II 6 de l’annexe à la loi du 13 déc. 2002 sur le Parlement, en vigueur depuis le 1<sup>er</sup> déc. 2003 ([RO 2003 3543](https://fedlex.data.admin.ch/eli/oc/2003/510); [FF 2001 3298](https://fedlex.data.admin.ch/eli/fga/2001/639)[5181](https://fedlex.data.admin.ch/eli/fga/2001/853)).
+[^15a-1]: Introduit par l’annexe ch. II 6 de la loi du 13 déc. 2002 sur le Parlement, en vigueur depuis le 1<sup>er</sup> déc. 2003 ([RO 2003 3543](https://fedlex.data.admin.ch/eli/oc/2003/510); [FF 2001 3298](https://fedlex.data.admin.ch/eli/fga/2001/639)[5181](https://fedlex.data.admin.ch/eli/fga/2001/853)).
 
 ### Chapitre 4 Auditeur en chef
 
@@ -332,7 +332,7 @@ Une autorité pénale ne doit requérir assistance que pour des opérations auxq
 
 Le Tribunal pénal fédéral règle les différends portant sur un refus d’entraide judiciaire.
 
-[^21-1]: Nouvelle teneur selon le ch. 12 de l’annexe à la LF du 4 oct. 2002 sur le TPF, en vigueur depuis le 1<sup>er</sup> avril 2004 ([RO 2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^21-1]: Nouvelle teneur selon l’annexe ch. 12 de la LF du 4 oct. 2002 sur le TPF, en vigueur depuis le 1<sup>er</sup> avril 2004 ([RO 2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 22
 
@@ -392,7 +392,7 @@ L’entraide judiciaire est gratuite. Le remboursement de frais particuliers est
 
 **For en cas de pluralité d’actes et d’auteurs**[^30-1]
 
-<sup>1</sup> En cas de concours d’infractions relevant d’autorités pénales différentes, le for est celui de l’autorité pénale qui connaît de l’infraction la plus grave. A gravité égale, l’autorité pénale qui a ouvert l’enquête en premier lieu est compétente.
+<sup>1</sup> En cas de concours d’infractions relevant d’autorités pénales différentes, le for est celui de l’autorité pénale qui connaît de l’infraction la plus grave. À gravité égale, l’autorité pénale qui a ouvert l’enquête en premier lieu est compétente.
 
 <sup>2</sup> S’il y a des coauteurs, l’autorité pénale qui a ouvert l’enquête en premier lieu est compétente.
 
@@ -431,10 +431,10 @@ Un juge, auditeur, juge d’instruction ou greffier doit se récuser:
 - d.[^33-3] s’il est le conjoint ou le partenaire enregistré de l’avocat d’une partie ou mène de fait une vie de couple avec lui;
 - [tab] d<sup>bis</sup>.[^33-4] s’il est parent ou allié de l’avocat d’une partie en ligne directe ou en ligne collatérale jusqu’au deuxième degré.
 
-[^33-1]: Nouvelle teneur selon le ch. 23 de l’annexe à la loi du 18 juin 2004 sur le partenariat, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1192](https://fedlex.data.admin.ch/eli/fga/2003/194)).
-[^33-2]: Introduite par le ch. 23 de l’annexe à la loi du 18 juin 2004 sur le partenariat, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1192](https://fedlex.data.admin.ch/eli/fga/2003/194)).
-[^33-3]: Nouvelle teneur selon le ch. 23 de l’annexe à la loi du 18 juin 2004 sur le partenariat, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1192](https://fedlex.data.admin.ch/eli/fga/2003/194)).
-[^33-4]: Introduite par le ch. 23 de l’annexe à la loi du 18 juin 2004 sur le partenariat, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1192](https://fedlex.data.admin.ch/eli/fga/2003/194)).
+[^33-1]: Nouvelle teneur selon l’annexe ch. 23 de la loi du 18 juin 2004 sur le partenariat, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1192](https://fedlex.data.admin.ch/eli/fga/2003/194)).
+[^33-2]: Introduite par l’annexe ch. 23 de la loi du 18 juin 2004 sur le partenariat, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1192](https://fedlex.data.admin.ch/eli/fga/2003/194)).
+[^33-3]: Nouvelle teneur selon l’annexe ch. 23 de la loi du 18 juin 2004 sur le partenariat, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1192](https://fedlex.data.admin.ch/eli/fga/2003/194)).
+[^33-4]: Introduite par l’annexe ch. 23 de la loi du 18 juin 2004 sur le partenariat, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1192](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 
 #### Art. 34
 
@@ -585,14 +585,14 @@ Le rejet de la requête peut, dans les dix jours dès sa communication écrite, 
 
 <sup>1</sup> Les débats des tribunaux militaires sont publics, mais non la délibération et les votes.
 
-<sup>2</sup> Le tribunal peut ordonner le huis-clos dans la mesure où la défense nationale, la sûreté de l’Etat, l’ordre public ou les bonnes mœurs sont mis en danger ou lorsque l’intérêt d’une partie ou d’une personne en cause l’exige. Il ordonne le huis-clos lorsque des intérêts prépondérants de la victime l’exigent.[^48-1] La victime d’une infraction contre l’intégrité sexuelle peut demander que le tribunal prononce le huis-clos.[^48-2]
+<sup>2</sup> Le tribunal peut ordonner le huis-clos dans la mesure où la défense nationale, la sûreté de l’État, l’ordre public ou les bonnes mœurs sont mis en danger ou lorsque l’intérêt d’une partie ou d’une personne en cause l’exige. Il ordonne le huis-clos lorsque des intérêts prépondérants de la victime l’exigent.[^48-1] La victime d’une infraction contre l’intégrité sexuelle peut demander que le tribunal prononce le huis-clos.[^48-2]
 
 <sup>3</sup> Le jugement est prononcé en séance publique.
 
 <sup>4</sup> Il est interdit de procéder à des enregistrements visuels et sonores dans la salle du tribunal. Le tribunal peut décider des exceptions.
 
-[^48-1]: Nouvelle teneur de la phrase selon le ch. II 12 de l’annexe 1 au CPP du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124)).
-[^48-2]: Nouvelle teneur selon le ch. 2 de l’annexe à la loi du 23 mars 2007 sur l’aide aux victimes, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 1607](https://fedlex.data.admin.ch/eli/oc/2008/232); [FF 2005 6683](https://fedlex.data.admin.ch/eli/fga/2005/1167)).
+[^48-1]: Nouvelle teneur de la phrase selon l’annexe 1 ch. II 12 du CPP du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^48-2]: Nouvelle teneur selon l’annexe ch. 2 de la loi du 23 mars 2007 sur l’aide aux victimes, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 1607](https://fedlex.data.admin.ch/eli/oc/2008/232); [FF 2005 6683](https://fedlex.data.admin.ch/eli/fga/2005/1167)).
 
 #### Art. 49
 
@@ -685,7 +685,7 @@ Toute personne peut en appréhender une autre:
 
 <sup>2</sup> Les organes civils ou militaires de police appréhendent toute personne qu’ils surprennent en train de commettre un acte punissable ou immédiatement après. S’il y a danger de fuite, ils peuvent de même appréhender des personnes qui, d’après leurs propres constatations, les mandats d’arrêt ou des renseignements dignes de foi provenant de tiers, sont soupçonnées d’avoir commis un acte punissable.
 
-<sup>3</sup> A la demande de ces organes, la personne appréhendée est tenue de décliner son identité, de présenter ses papiers d’identité et tout objet qu’elle détient et, à cette fin, d’ouvrir son véhicule et les objets mobiliers qu’elle transporte.
+<sup>3</sup> À la demande de ces organes, la personne appréhendée est tenue de décliner son identité, de présenter ses papiers d’identité et tout objet qu’elle détient et, à cette fin, d’ouvrir son véhicule et les objets mobiliers qu’elle transporte.
 
 <sup>4</sup> Ces organes peuvent demander à des militaires de leur prêter main-forte lors de l’appréhension d’une personne prise en flagrant délit.
 
@@ -724,10 +724,10 @@ Toute personne peut en appréhender une autre:
 L’inculpé contre lequel une enquête ordinaire a été ordonnée et contre lequel existent des présomptions graves de culpabilité de crime ou de délit, peut être mis en détention préventive s’il est à craindre qu’il:
 
 - a. prenne la fuite pour se soustraire à la poursuite pénale;
-- b. détruise les traces de son acte, fasse disparaître ou modifie des moyens de preuve, incite à de fausses déclarations des témoins, des coïnculpés ou des tiers appelés à fournir des renseignements, ou compromette de quelque autre façon le résultat de l’enquête; ou
+- b. détruise les traces de son acte, fasse disparaître ou modifie des moyens de preuve, incite à de fausses déclarations des témoins, des coïnculpés ou des tiers appelés à fournir des renseignements, ou compromette de quelque autre façon le résultat de l’enquête, ou
 - c. poursuive son activité coupable après sa remise en liberté.[^56-1]
 
-<sup>2</sup> A moins qu’elle n’y ait expressément renoncé, la victime est informée de la mise en détention provisoire ou en détention pour des motifs de sécurité de l’inculpé, de sa libération de cette mesure de contrainte ou de son évasion. L’autorité peut renoncer à informer la victime de la libération de l’inculpé si cette information devait exposer celui-ci à un danger sérieux.[^56-2]
+<sup>2</sup> À moins qu’elle n’y ait expressément renoncé, la victime est informée de la mise en détention provisoire ou en détention pour des motifs de sécurité de l’inculpé, de sa libération de cette mesure de contrainte ou de son évasion. L’autorité peut renoncer à informer la victime de la libération de l’inculpé si cette information devait exposer celui-ci à un danger sérieux.[^56-2]
 
 [^56-1]: Nouvelle teneur selon le ch. I 4 de la LF du 26 sept. 2014 sur le droit de la victime à être informée, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 1623](https://fedlex.data.admin.ch/eli/oc/2015/321); [FF 2014 863](https://fedlex.data.admin.ch/eli/fga/2014/136)[885](https://fedlex.data.admin.ch/eli/fga/2014/138)).
 [^56-2]: Introduit par le ch. I 4 de la LF du 26 sept. 2014 sur le droit de la victime à être informée, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 1623](https://fedlex.data.admin.ch/eli/oc/2015/321); [FF 2014 863](https://fedlex.data.admin.ch/eli/fga/2014/136)[885](https://fedlex.data.admin.ch/eli/fga/2014/138)).
@@ -869,7 +869,7 @@ L’autopsie, l’ajournement de la sépulture et l’exhumation du cadavre ou l
 
 [^tit2-chap1-sec10-1]
 
-[^tit2-chap1-sec10-1]: Introduit par le ch. IV 3 de la LF du 23 mars 1979 sur la protection de la vie privée ([RO 1979 1170](https://fedlex.data.admin.ch/eli/oc/1979/1170_1170_1170); [FF 1976 I 521](https://fedlex.data.admin.ch/eli/fga/1976/1__521_)II 1529). Nouvelle teneur selon le ch. II 12 de l’annexe 1 au CPP du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^tit2-chap1-sec10-1]: Introduit par le ch. IV 3 de la LF du 23 mars 1979 sur la protection de la vie privée ([RO 1979 1170](https://fedlex.data.admin.ch/eli/oc/1979/1170_1170_1170); [FF 1976 I 521](https://fedlex.data.admin.ch/eli/fga/1976/1__521_)II 1529). Nouvelle teneur selon l’annexe 1 ch. II 12 du CPP du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
 #### Art. 70
 
@@ -1281,7 +1281,7 @@ La personne de contact a notamment les tâches suivantes:
 
 #### Art. 73h
 
-**Etendue de l’intervention**
+**Étendue de l’intervention**
 
 <sup>1</sup> Il est interdit à un agent infiltré d’encourager un tiers à commettre des infractions de manière générale ou de l’inciter à commettre des infractions plus graves. Son intervention doit se limiter à la concrétisation d’une décision existante de passer à l’acte.
 
@@ -1303,7 +1303,7 @@ L’agent infiltré qui agit dans le cadre d’une investigation secrète dûmen
 
 **Montants nécessaires à la conclusion d’un marché fictif**
 
-<sup>1</sup> A la demande du juge d’instruction, la Confédération peut, par l’intermédiaire de la Banque nationale, mettre à la disposition de l’agent infiltré les montants dont il a besoin pour conclure des marchés fictifs et pour démontrer sa capacité économique, sous la forme et la quantité requise.
+<sup>1</sup> À la demande du juge d’instruction, la Confédération peut, par l’intermédiaire de la Banque nationale, mettre à la disposition de l’agent infiltré les montants dont il a besoin pour conclure des marchés fictifs et pour démontrer sa capacité économique, sous la forme et la quantité requise.
 
 <sup>2</sup> La demande accompagnée d’une brève description du cas doit être adressée à l’Office fédéral de la police.
 
@@ -1672,7 +1672,7 @@ S’il est à prévoir que l’audition ou la confrontation pourrait entraîner 
 
 L’autorité compétente peut, à titre exceptionnel, classer la procédure aux conditions suivantes:
 
-- a. l’intérêt de l’enfant l’exige impérieusement et le classement l’emporte manifestement sur l’intérêt de l’Etat à la poursuite pénale;
+- a. l’intérêt de l’enfant l’exige impérieusement et le classement l’emporte manifestement sur l’intérêt de l’État à la poursuite pénale;
 - b. la victime ou, si elle n’est pas capable de discernement, son représentant légal y consent.
 
 <sup>2</sup> Lorsqu’elle classe la procédure, l’autorité compétente veille à ce qu’au besoin, des mesures de protection de l’enfant soient ordonnées.
@@ -1930,7 +1930,7 @@ Pour garantir l’anonymat, le juge d’instruction ou le président du tribunal
 
 <sup>3</sup> Les tribunaux militaires établissent chaque année une liste des défenseurs d’office.
 
-<sup>4</sup> Dans les affaires dont les circonstances doivent être tenues secrètes dans l’intérêt de la défense nationale ou de la sûreté de l’Etat, le président du tribunal peut refuser le défenseur que s’est choisi l’inculpé. Il est enjoint à ce dernier d’en désigner un autre. Le président du tribunal attire l’attention du défenseur sur les dispositions relatives au maintien du secret dans l’armée.
+<sup>4</sup> Dans les affaires dont les circonstances doivent être tenues secrètes dans l’intérêt de la défense nationale ou de la sûreté de l’État, le président du tribunal peut refuser le défenseur que s’est choisi l’inculpé. Il est enjoint à ce dernier d’en désigner un autre. Le président du tribunal attire l’attention du défenseur sur les dispositions relatives au maintien du secret dans l’armée.
 
 [^99-1]: Nouvelle teneur selon le ch. II de la LF du 3 oct. 2008 (Mod. découlant de la nouvelle partie générale du CPM et autres adaptations), en vigueur depuis le 1<sup>er</sup> mars 2009 ([RO 2009 701](https://fedlex.data.admin.ch/eli/oc/2009/117); [FF 2007 7845](https://fedlex.data.admin.ch/eli/fga/2007/1322)).
 [^99-2]: Nouvelle teneur selon le ch. II de la LF du 3 oct. 2008 (Mod. découlant de la nouvelle partie générale du CPM et autres adaptations), en vigueur depuis le 1<sup>er</sup> mars 2009 ([RO 2009 701](https://fedlex.data.admin.ch/eli/oc/2009/117); [FF 2007 7845](https://fedlex.data.admin.ch/eli/fga/2007/1322)).
@@ -2272,7 +2272,7 @@ L’ordonnance de condamnation est rendue par écrit, sommairement motivée. Ell
 
 **Fixation des débats**
 
-A réception de l’acte d’accusation et du dossier, le président du tribunal militaire fixe sans retard le lieu et la date des débats. Dans les affaires complexes, il peut mettre tout ou partie du dossier en circulation auprès des juges.
+À réception de l’acte d’accusation et du dossier, le président du tribunal militaire fixe sans retard le lieu et la date des débats. Dans les affaires complexes, il peut mettre tout ou partie du dossier en circulation auprès des juges.
 
 #### Art. 125
 
@@ -2374,7 +2374,7 @@ Lorsque les débats doivent être renvoyés du fait de l’absence du défenseur
 
 **Participation de la partie plaignante et de tiers**[^133a-1]
 
-<sup>1</sup> A la demande de la partie plaignante, le président du tribunal militaire peut la dispenser de comparaître personnellement lorsque sa présence n’est pas nécessaire.
+<sup>1</sup> À la demande de la partie plaignante, le président du tribunal militaire peut la dispenser de comparaître personnellement lorsque sa présence n’est pas nécessaire.
 
 <sup>2</sup> Le tiers concerné par une mesure de confiscation a le droit de ne pas comparaître personnellement.
 
@@ -2413,7 +2413,7 @@ Lorsque les débats doivent être renvoyés du fait de l’absence du défenseur
 
 **Interrogatoire de l’accusé**
 
-<sup>1</sup> Le président du tribunal militaire interroge l’accusé sur sa situation personnelle et militaire ainsi que sur les faits retenus à sa charge dans l’acte d’accusation. A la requête d’un juge, de l’auditeur ou du défenseur, il pose à l’accusé de nouvelles questions propres à éclaircir les circonstances de la cause.
+<sup>1</sup> Le président du tribunal militaire interroge l’accusé sur sa situation personnelle et militaire ainsi que sur les faits retenus à sa charge dans l’acte d’accusation. À la requête d’un juge, de l’auditeur ou du défenseur, il pose à l’accusé de nouvelles questions propres à éclaircir les circonstances de la cause.
 
 <sup>2</sup> Lorsque l’accusé avoue les faits d’une façon digne de foi, le tribunal peut, avec l’assentiment des parties, abréger la procédure probatoire.
 
@@ -2574,7 +2574,7 @@ Le tribunal peut ordonner l’arrestation immédiate du condamné ou de l’accu
 
 <sup>1</sup> Le président du tribunal militaire communique le jugement aux parties en séance publique en donnant lecture du dispositif et en exposant les considérants essentiels.
 
-<sup>2</sup> Il s’abstient de cet exposé dans la mesure où les considérants doivent être tenus secrets dans l’intérêt de la défense nationale ou de la sûreté de l’Etat.
+<sup>2</sup> Il s’abstient de cet exposé dans la mesure où les considérants doivent être tenus secrets dans l’intérêt de la défense nationale ou de la sûreté de l’État.
 
 <sup>3</sup> Il informe les parties des voies de recours.
 
@@ -2628,7 +2628,7 @@ Le jugement doit être rédigé. Il indique le lieu et la date des débats, les 
 
 <sup>1</sup> Des expéditions du jugement sont notifiées au défenseur, pour lui et le condamné ou l’acquitté, à la partie plaignante[^154-1], à l’auditeur, à l’auditeur en chef, au canton chargé de l’exécution ainsi qu’aux autres destinataires désignés par le Conseil fédéral.
 
-<sup>2</sup> Les jugements qui contiennent des faits qui doivent être tenus secrets dans l’intérêt de la défense nationale ou de la sûreté de l’Etat ne sont remis qu’au Département fédéral de la défense, de la protection de la population et des sports et à l’auditeur en chef. Sur demande, l’auditeur et le défenseur obtiennent pour consultation une expédition du jugement. Le condamné et, dans la mesure où la sentence touche ses prétentions civiles ou peut avoir des effets sur le jugement de ces dernières, la partie plaignante, sont autorisés, sur demande, à consulter le jugement.[^154-2]
+<sup>2</sup> Les jugements qui contiennent des faits qui doivent être tenus secrets dans l’intérêt de la défense nationale ou de la sûreté de l’État ne sont remis qu’au Département fédéral de la défense, de la protection de la population et des sports et à l’auditeur en chef. Sur demande, l’auditeur et le défenseur obtiennent pour consultation une expédition du jugement. Le condamné et, dans la mesure où la sentence touche ses prétentions civiles ou peut avoir des effets sur le jugement de ces dernières, la partie plaignante, sont autorisés, sur demande, à consulter le jugement.[^154-2]
 
 <sup>3</sup> L’art. 125*a* est applicable à la notification des jugements par voie de publication officielle. Seul le dispositif est publié.[^154-3]
 
@@ -3045,7 +3045,7 @@ La cassation sera prononcée lorsque:
 
 #### Art. 187
 
-**Echange d’écritures, effets**
+**Échange d’écritures, effets**
 
 <sup>1</sup> Après l’annonce du pourvoi en cassation, le président du tribunal fixe au recourant, en lui notifiant le jugement motivé, un délai de vingt jours pour motiver par écrit le pourvoi.
 
@@ -3181,12 +3181,12 @@ La révision d’une ordonnance de condamnation ou d’un jugement exécutoire p
 - c. depuis le jugement, un second jugement pénal inconciliable avec lui a été rendu;
 - d. depuis le jugement, l’accusé acquitté a fait un aveu digne de foi;
 - e. des dispositions sur la récusation ont été violées et que cette violation n’a pu être invoquée plus tôt;
-- f.[^200-1] la Cour européenne des droits de l’homme ou le Comité des Ministres du Conseil de l’Europe a admis le bien-fondé d’une requête individuelle pour violation de la convention de sauvegarde des droits de l’homme et des libertés fondamentales, du 4 novembre 1950[^200-2] ou de ses protocoles, et que réparation ne peut être obtenue que par la voie de la révision; dans ce cas, la demande de révision doit être introduite dans les 90 jours à compter de la notification de la décision des autorités européennes par l’Office fédéral de la justice.
+- f.[^200-1] la Cour européenne des droits de l’homme a constaté, dans un arrêt définitif, une violation de la Convention du 4 novembre 1950 de sauvegarde des droits de l’homme et des libertés fondamentales (CEDH)[^200-2] ou de ses protocoles, ou a conclu le cas par un règlement amiable (art. 39 CEDH), pour autant qu’une indemnité ne soit pas de nature à remédier aux effets de la violation et que la révision soit nécessaire pour y remédier; dans ce cas, la demande de révision doit être déposée au plus tard 90 jours après que l’arrêt ou la décision de la cour est devenue définitive.
 
 <sup>2</sup> Lorsque l’infraction est prescrite, la révision en défaveur de l’accusé acquitté ou du condamné est exclue.
 
-[^200-1]: Introduite par l’annexe ch. 16 de la LF du 4 oct. 1991, en vigueur depuis le 15 fév. 1992 ([RO 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)[337](https://fedlex.data.admin.ch/eli/oc/1992/337_337_337)art. 2 al. 1 let. i; [FF 1991 II 461](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)).
-[^200-2]: [RS 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^200-1]: Introduite par l’annexe ch. 16 de la LF du 4 oct. 1991 ([RO 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)[337](https://fedlex.data.admin.ch/eli/oc/1992/337_337_337)art. 2 al. 1 let. i; [FF 1991 II 461](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)). Nouvelle teneur selon l’annexe ch. 4 de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 289](https://fedlex.data.admin.ch/eli/oc/2022/289); [FF 2021 300](https://fedlex.data.admin.ch/eli/fga/2021/300), [889](https://fedlex.data.admin.ch/eli/fga/2021/889)).
+[^200-2]: [<sup>RS</sup> 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
 
 #### Art. 201
 
@@ -3210,7 +3210,7 @@ Peuvent demander la révision:
 - a. l’auditeur;
 - [tab] b.[^202-1] le condamné ou, s’il est décédé, ses parents et alliés en ligne ascendante ou descendante, ses frères et sœurs, ainsi que son conjoint ou son partenaire enregistré;
 - c. le représentant légal du condamné;
-- [tab] d.[^202-2] la partie plaignante si elle était déjà partie à la procédure auparavant et dans la mesure où le jugement touche ses prétentions civiles ou peut avoir des effets sur le jugement de ces dernières;
+- d.[^202-2] la partie plaignante si elle était déjà partie à la procédure auparavant et dans la mesure où le jugement touche ses prétentions civiles ou peut avoir des effets sur le jugement de ces dernières;
 - e.[^202-3] le tiers touché par une confiscation.
 
 [^202-1]: Nouvelle teneur selon l’annexe ch. 23 de la loi du 18 juin 2004 sur le partenariat, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1192](https://fedlex.data.admin.ch/eli/fga/2003/194)).
@@ -3235,7 +3235,7 @@ Peuvent demander la révision:
 
 **Défenseur d’office**
 
-A moins que la demande de révision n’apparaisse d’emblée vouée à l’échec, le président du Tribunal militaire de cassation peut désigner au requérant un défenseur d’office pour le dépôt d’un mémoire et pour la suite de la procédure.
+À moins que la demande de révision n’apparaisse d’emblée vouée à l’échec, le président du Tribunal militaire de cassation peut désigner au requérant un défenseur d’office pour le dépôt d’un mémoire et pour la suite de la procédure.
 
 #### Art. 205
 

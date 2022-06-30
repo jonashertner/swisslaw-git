@@ -4,11 +4,11 @@ title: Militärstrafprozess vom 23. März 1979 (MStP)
 short: MStP
 eli: "https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059"
 language: de
-version: 2020-02-01
+version: 2022-07-01
 adopted: 1979-03-23
 in_force: 1980-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059/20200201/de/xml/fedlex-data-admin-ch-eli-cc-1979-1059_1059_1059-20200201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1979/1059_1059_1059/20200201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059/20220701/de/xml/fedlex-data-admin-ch-eli-cc-1979-1059_1059_1059-20220701-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1979/1059_1059_1059/20220701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1979/1059_1059_1059/20200201/de"
 
 (MStP)
 
-vom 23. März 1979 (Stand am 1. Februar 2020)
+vom 23. März 1979 (Stand am 1. Juli 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -3175,11 +3175,11 @@ Die Revision eines rechtskräftigen Strafmandats oder Urteils kann verlangt werd
 - c. seit Erlass des früheren Urteils ein neues Strafurteil ausgesprochen wurde, das mit dem früheren unvereinbar ist;
 - d. der Freigesprochene nach Erlass des Urteils ein glaubwürdiges Geständnis abgelegt hat;
 - e. eine Verletzung der Ausstandsvorschriften vorliegt, die früher nicht geltend gemacht werden konnte;
-- f.[^200-1] der Europäische Gerichtshof für Menschenrechte oder das Ministerkomitee des Europarates eine Individualbeschwerde wegen Verletzung der Konvention vom 4. November 1950[^200-2] zum Schutze der Menschenrechte und Grundfreiheiten und deren Protokolle gutheisst und eine Wiedergutmachung nur durch eine Revision möglich ist; in diesem Fall muss das Revisionsgesuch, nach Zustellung des Entscheides der europäischen Behörden durch das Bundesamt für Justiz, innert 90 Tagen eingereicht werden.
+- f.[^200-1] der Europäische Gerichtshof für Menschenrechte in einem endgültigen Urteil festgestellt hat, dass die Konvention vom 4. November 1950[^200-2] zum Schutze der Menschenrechte und Grundfreiheiten (EMRK) oder die Protokolle dazu verletzt worden sind, oder den Fall durch eine gütliche Einigung (Art. 39 EMRK) abgeschlossen hat, sofern eine Entschädigung nicht geeignet ist, die Folgen der Verletzung auszugleichen, und die Revision notwendig ist, um die Verletzung zu beseitigen; in diesem Fall muss das Revisionsgesuch innert 90 Tagen eingereicht werden, nachdem das Urteil oder die Entscheidung des Gerichtshofs endgültig geworden ist.
 
 <sup>2</sup> Nach Ablauf der Verjährungsfrist ist die Revision zuungunsten des Beurteilten ausgeschlossen.
 
-[^200-1]: Eingefügt durch Anhang Ziff. 16 des BG vom 4. Okt. 1991, in Kraft seit 15. Febr. 1992 ([AS 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)[337](https://fedlex.data.admin.ch/eli/oc/1992/337_337_337)Art. 2 Abs. 1 Bst. i; [BBl 1991 II 465](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)).
+[^200-1]: Eingefügt durch Anhang Ziff. 16 des BG vom 4. Okt. 1991 ([AS 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288), [337](https://fedlex.data.admin.ch/eli/oc/1992/337_337_337)Art. 2 Abs. 1 Bst. i; [BBl 1991 II 465](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)). Fassung gemäss Anhang Ziff. 4 des BG vom 1. Okt. 2021, in Kraft seit 1. Juli 2022 ([AS 2022 289](https://fedlex.data.admin.ch/eli/oc/2022/289); [BBl 2021 300](https://fedlex.data.admin.ch/eli/fga/2021/300), [889](https://fedlex.data.admin.ch/eli/fga/2021/889)).
 [^200-2]: [SR 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
 
 #### Art. 201
@@ -3353,7 +3353,7 @@ Der Bundesrat erlässt die Vollzugsvorschriften.
 
 Das Bundesgesetz vom 28. Juni 1889 [^219-1] über die Militärstrafgerichtsordnung wird aufgehoben.
 
-[^219-1]: (BS **3** 456. [AS 1951 437](https://fedlex.data.admin.ch/eli/oc/1951/437_439_435)Ziff. II, [1968 212](https://fedlex.data.admin.ch/eli/oc/1968/212_228_228)Ziff. III]
+[^219-1]: (BS **3** 456. [AS 1951 437](https://fedlex.data.admin.ch/eli/oc/1951/437_439_435)Ziff. II; [1968 212](https://fedlex.data.admin.ch/eli/oc/1968/212_228_228)Ziff. III]
 
 #### Art. 220
 
