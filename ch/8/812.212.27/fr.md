@@ -4,11 +4,11 @@ title: Ordonnance du 18 août 2004 sur les médicaments vétérinaires (OMédV)
 short: OMédv
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/592"
 language: fr
-version: 2022-06-01
+version: 2022-07-01
 adopted: 2004-08-18
 in_force: 2004-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/592/20220601/fr/xml/fedlex-data-admin-ch-eli-cc-2004-592-20220601-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/592/20220601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/592/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-2004-592-20220701-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/592/20220701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,17 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/592/20220601/fr"
 
 (OMédV)
 
-du 18 août 2004 (Etat le 1<sup>er</sup> juin 2022)
+du 18 août 2004 (Etat le 1<sup>er</sup> juillet 2022)
 
 Le Conseil fédéral suisse,
 
-vu les art. 5, al. 2, let. b, 42, al. 3, 42*a*, 44 et 82, al. 2, de la loi du 15 décembre 2000 sur les produits thérapeutiques (LPTh)[^ingress-1], vu l’art. 20 de la loi du 20 juin 2014 sur les denrées alimentaires[^ingress-2],[^ingress-3]
+vu les art. 5, al. 2, let. b, 20, al. 2, let. b, 42, al. 3, 42*a*, 44 et 82, al. 2, de la loi du 15 décembre 2000 sur les produits thérapeutiques (LPTh)[^ingress-1], vu les art. 10, al. 3, et 20, al. 1, de la loi du 20 juin 2014 sur les denrées alimentaires[^ingress-2],[^ingress-3]
 
 arrête:
 
 [^ingress-1]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
 [^ingress-2]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^ingress-3]: Nouvelle teneur selon le ch. I 3 de l’O du 12 janv. 2022 portant adaptation d’ordonnances au nouveau droit européen sur les médicaments vétérinaires, en vigueur depuis le 28 janv. 2022 ([RO 2022 16](https://fedlex.data.admin.ch/eli/oc/2022/16)).
+[^ingress-3]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
 ## Chapitre 1 Dispositions générales
 
@@ -65,31 +65,35 @@ La présente ordonnance règle:
 
 Au sens de la présente ordonnance, on entend par:
 
-- a.[^3-1] *animaux de rente:* les animaux appartenant aux espèces autorisées pour la production de denrées alimentaires en vertu de la législation sur les denrées alimentaires, ainsi que les abeilles;
+- a.[^3-1] *animaux de rente:* les animaux appartenant aux espèces autorisées pour la production de denrées alimentaires en vertu de la législation sur les denrées alimentaires ou pour la production d’aliments pour animaux en vertu de la législation sur les épizooties, ainsi que les abeilles;
 - b.[^3-2]
 
   *animaux de compagnie:*
 
-  - 1\. animaux appartenant à des espèces non admises pour la production de denrées alimentaires,
-  - 2\. animaux appartenant aux espèces suivantes pour autant qu’ils ne servent pas à la production de denrées alimentaires mais qu’ils sont détenus par intérêt pour l’animal ou comme compagnon dans le ménage, ou destinés à une telle utilisation: équidés, volaille domestique, lapins domestiques, gibier détenu dans un enclos, grenouilles, reptiles d’élevage, poissons, crustacés, mollusques et échinodermes.
+  - 1\. les animaux appartenant à des espèces non admises pour la production de denrées alimentaires ou d’aliments pour animaux,
+  - 2\. les animaux appartenant aux espèces suivantes pour autant qu’ils ne servent pas à la production de denrées alimentaires ou d’aliments pour animaux mais qu’ils sont détenus par intérêt pour l’animal ou comme compagnon dans le ménage, ou destinés à une telle utilisation: équidés, volaille domestique, lapins domestiques, gibier détenu dans un enclos, grenouilles, reptiles d’élevage, poissons, crustacés, mollusques, échinodermes et insectes, à l’exclusion des abeilles;
 
 - c.[^3-3] *…*
 - d.[^3-4]
 
-  *traitement d’un groupe d’animaux par voie orale:* le traitement d’un groupe d’animaux au moyen d’un prémélange pour aliments médicamenteux ou au moyen d’un aliment médicamenteux; la notion de groupe d’animaux se fonde sur les valeurs indicatives ci-après:
+  *traitement d’un groupe d’animaux par voie orale:* le traitement d’un groupe d’animaux au moyen d’un prémélange pour aliments médicamenteux ou au moyen d’un aliment médicamenteux, sachant qu’un groupe d’animaux comprend le nombre suivant d’animaux:
 
-  - 1\. pour les veaux: au moins 10 animaux,
-  - 2\. pour les porcs: au moins 20 animaux,
-  - 3\. pour les poules: au moins 50 animaux;
+  - 1\. porcs: à partir de 20 animaux,
+  - 2\. animaux à onglons, sauf les porcs: à partir de 10 animaux,
+  - 3\. volaille: à partir de 50 animaux,
+  - 4\. lapins: à partir de 50 animaux,
+  - 5\. poissons: à partir de 10 animaux,
+  - 6\. abeilles: à partir de 10 colonies,
+  - 7\. autres: à partir de 10 animaux;
 
 - e.[^3-5] *prophylaxie:* le traitement d’un animal ou d’un groupe d’animaux avant l’émergence des signes cliniques d’une maladie afin de prévenir l’apparition de cette maladie.
 
 <sup>2</sup> Sont par ailleurs applicables les définitions figurant à l’art. 2 de l’ordonnance du 14 novembre 2018 sur les autorisations dans le domaine des médicaments[^3-6].
 
-[^3-1]: Nouvelle teneur selon l’annexe 2 ch. II 1 de l’O du 23 nov. 2005 sur les denrées alimentaires et les objets usuels, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746)).
-[^3-2]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 2311](https://fedlex.data.admin.ch/eli/oc/2010/332)).
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^3-2]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 [^3-3]: Introduite par le ch. I de l’O du 11 mars 2016 ([RO 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)). Abrogée par l’art. 20 ch. 1 de l’O du 31 oct. 2018 concernant le système d’information sur les antibiotiques en médecine vétérinaire, avec effet au 1<sup>er</sup> janv. 2019 ([RO 2018 4353](https://fedlex.data.admin.ch/eli/oc/2018/702)).
-[^3-4]: Introduite par le ch. I de l’O du 11 mars 2016, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
+[^3-4]: Introduite par le ch. I de l’O du 11 mars 2016 ([RO 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)). Nouvelle teneur selon le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 [^3-5]: Introduite par le ch. I de l’O du 11 mars 2016, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
 [^3-6]: [RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786). Le renvoi a été adapté en application de l'art. 12 al. 2 de la Loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> janv. 2019.
 
@@ -101,11 +105,13 @@ Au sens de la présente ordonnance, on entend par:
 
 **Étiquette supplémentaire**
 
-Quiconque remet des médicaments à consigner dans un registre en vertu de l’art. 26 doit apposer sur chaque emballage unitaire du médicament vétérinaire remis, à côté de l’étiquette d’origine, une étiquette supplémentaire mentionnant au moins:
+Quiconque remet des médicaments à consigner dans un registre en vertu de l’art. 26, let. a à e, doit apposer sur chaque emballage unitaire du médicament remis, à côté de l’étiquette d’origine, une étiquette supplémentaire mentionnant au moins:[^4-1]
 
 - a. les nom et adresse de la personne, du cabinet vétérinaire ou de la pharmacie remettant le médicament;
 - b. la date de remise;
 - c. le nom du détenteur d’animaux.
+
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
 #### Art. 5
 
@@ -113,7 +119,7 @@ Quiconque remet des médicaments à consigner dans un registre en vertu de l’a
 
 <sup>1</sup>
 
-Pour chaque médicament vétérinaire visé à l’art. 26, prescrit ou remis, le vétérinaire doit établir des instructions d’utilisation mentionnant:
+Quiconque remet des médicaments à consigner dans un registre en vertu de l’art. 26, let. a à e, doit, lors de la remise, établir des instructions d’utilisation. Celles-ci mentionnent:[^5-1]
 
 - a. la dénomination de l’animal ou du groupe d’animaux à traiter;
 - b. l’indication;
@@ -126,69 +132,215 @@ Pour chaque médicament vétérinaire visé à l’art. 26, prescrit ou remis, l
 
 <sup>3</sup> En cas de traitement de longue durée, les instructions d’utilisation doivent toujours être remises par écrit.
 
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+
 #### Art. 6
 
 **Reconversion de médicaments autorisés**
 
-<sup>1</sup> Si aucun médicament vétérinaire n’est autorisé pour le traitement d’une maladie, le vétérinaire est habilité à prescrire, à remettre ou à utiliser un médicament vétérinaire autorisé pour une autre indication, à condition que le dosage et l’espèce de destination soient les mêmes.[^6-1]
+<sup>1</sup>
+
+Le vétérinaire est habilité à prescrire, à remettre ou à utiliser un médicament vétérinaire autorisé pour une autre indication (reconversion), à condition que le dosage et l’espèce cible soient les mêmes, si l’une des conditions suivantes est remplie:
+
+- a. aucun médicament vétérinaire n’est autorisé et disponible pour le traitement d’une maladie;
+- b. il n’est pas possible, dans un cas particulier, d’utiliser de médicament vétérinaire autorisé pour des raisons liées à sa composition ou sa forme pharmaceutique (galénique);
+- c. il existe des doutes quant au développement de résistances.[^6-1]
 
 <sup>2</sup>
 
 Si un tel médicament vétérinaire fait défaut, le vétérinaire est autorisé à prescrire, à remettre ou à utiliser dans l’ordre suivant:
 
-- a. un médicament vétérinaire autorisé par l’Institut suisse des produits thérapeutiques (institut) pour une autre espèce de destination;
-- b. un médicament à usage humain autorisé par l’institut.[^6-2]
+- a. un médicament vétérinaire autorisé par l’Institut suisse des produits thérapeutiques (Swissmedic[^6-2]) pour une autre espèce cible[^6-3];
+- b. un médicament à usage humain autorisé par Swissmedic.[^6-4]
 
-<sup>3</sup> Tout médicament homéopathique, anthroposophique ou phytothérapeutique autorisé peut être reconverti même s’il existe un médicament autorisé pour l’indication ou l’espèce de destination à traiter.
+<sup>2bis</sup> Si, dans un cas particulier, la reconversion au sens de l’al. 1 n’est pas possible pour des raisons liées à la galénique ou s’il existe des doutes quant au développement de résistances, le vétérinaire est habilité à prescrire, remettre ou utiliser le médicament suivant selon l’ordre défini à l’al. 2.[^6-5]
+
+<sup>3</sup> Tout médicament homéopathique, anthroposophique ou phytothérapeutique autorisé peut être reconverti même s’il existe un médicament autorisé pour l’indication ou l’espèce cible à traiter.
 
 <sup>4</sup> Les médicaments contenant des organismes génétiquement modifiés ne doivent en aucun cas faire l’objet d’une reconversion.
 
 <sup>5</sup> L’art. 12 est réservé.
 
-<sup>6</sup> Le Département fédéral de l’intérieur (DFI) peut interdire pour des raisons de sécurité alimentaire ou de sécurité des médicaments la reconversion de médicaments au bénéfice d’une autorisation simplifiée et la reconversion de principes actifs.[^6-3]
+<sup>6</sup> Le Département fédéral de l’intérieur (DFI) peut interdire pour des raisons de sécurité alimentaire ou de sécurité des médicaments la reconversion de médicaments au bénéfice d’une autorisation simplifiée et la reconversion de principes actifs.[^6-6]
 
-[^6-1]: Nouvelle teneur selon le ch. I de l’O du 24 mars 2010, en vigueur depuis le 15 avr. 2010 ([RO 2010 1299](https://fedlex.data.admin.ch/eli/oc/2010/188)).
-[^6-2]: Nouvelle teneur selon le ch. I de l’O du 24 mars 2010, en vigueur depuis le 15 avr. 2010 ([RO 2010 1299](https://fedlex.data.admin.ch/eli/oc/2010/188)).
-[^6-3]: Introduit par le ch. I de l’O du 24 mars 2010 ([RO 2010 1299](https://fedlex.data.admin.ch/eli/oc/2010/188)). Nouvelle teneur selon le ch. I de l’O du 11 mars 2016, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
+[^6-1]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^6-2]: Nouvelle expression selon le ch. I al. 1 de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)). Il a été tenu compte de cette mod. dans tout le texte.
+[^6-3]: Nouvelle expression selon le ch. I al. 2 de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)). Il a été tenu compte de cette mod. dans tout le texte.
+[^6-4]: Nouvelle teneur selon le ch. I de l’O du 24 mars 2010, en vigueur depuis le 15 avr. 2010 ([RO 2010 1299](https://fedlex.data.admin.ch/eli/oc/2010/188)).
+[^6-5]: Introduit par le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^6-6]: Introduit par le ch. I de l’O du 24 mars 2010 ([RO 2010 1299](https://fedlex.data.admin.ch/eli/oc/2010/188)). Nouvelle teneur selon le ch. I de l’O du 11 mars 2016, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
 
 #### Art. 7
 
-**Importation de médicaments vétérinaires par des personnes exerçant une profession médicale**
+**Importation de médicaments autorisés dans un pays ayant institué un contrôle équivalent des médicaments**[^7-1]
 
 <sup>1</sup>
 
-Les personnes exerçant une profession médicale ne peuvent importer des médicaments vétérinaires prêts à l’emploi non autorisés en Suisse que sur autorisation de l’institut. L’autorisation est limitée à la quantité requise pour l’approvisionnement de la clientèle de l’importateur pendant un an et elle n’est délivrée qu’aux conditions suivantes:
+Les vétérinaires titulaires d’une autorisation de remise de médicaments délivrée par le canton compétent peuvent importer des médicaments pour animaux de rente ou pour animaux de compagnie prêts à l’emploi qui sont autorisés dans un pays ayant institué un contrôle équivalent des médicaments pour animaux de rente ou pour animaux de compagnie, et ce au plus dans la quantité requise pour l’approvisionnement des animaux de leur clientèle pendant un an, si les conditions suivantes sont réunies:
 
-- a. aucun médicament substitutif ou équivalent n’est autorisé et disponible;
-- b. le médicament est autorisé par un état dont l’institut reconnaît l’équivalence du système d’autorisation;
-- c. cette autorisation porte sur l’indication correspondante, et
-- d. l’institut n’a pas de doute sérieux et fondé concernant la sécurité du médicament et, pour ceux destinés à des animaux de rente, concernant la sécurité alimentaire.[^7-1]
+- a. aucun médicament vétérinaire substitutif n’est autorisé et disponible en Suisse;
+- b. l’autorisation porte sur l’espèce cible et l’indication correspondantes.
 
-<sup>2</sup> Les personnes exerçant une profession médicale et titulaires d’une autorisation de commerce de détail délivrée par le canton compétent peuvent importer sans autorisation des médicaments en petites quantités pour le traitement d’un animal de compagnie ou d’un groupe d’animaux de compagnie donné, pour autant que ces médicaments soient autorisés dans un pays ayant institué un contrôle des médicaments équivalent et qu’aucun médicament analogue ne soit autorisé en Suisse. Ces personnes doivent tenir un registre de leurs importations.
+<sup>2</sup>
 
-<sup>3</sup> L’importation de médicaments immunologiques, à l’exception des allergènes, requiert une autorisation de l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV).[^7-2]
+Avant d’importer des médicaments vétérinaires, ils transmettent les informations suivantes à l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV):
 
-<sup>4</sup> L’importation de médicaments non autorisés contenant des organismes génétiquement modifiés est interdite.
+- a. nom et coordonnées du cabinet ou de la clinique vétérinaire et nom de la personne ayant passé la commande;
+- b. dénomination, contenance des emballages et indication principale du médicament vétérinaire;
+- c. quantité du médicament vétérinaire importée;
+- d. pays dans lequel le médicament vétérinaire est autorisé et numéro d’autorisation correspondant;
+- e. motif de l’importation;
+- f. numéro de l’autorisation de mise sur le marché suisse en cas de non-disponibilité du médicament vétérinaire en Suisse;
+- g. espèce cible: animal de compagnie ou animal de rente.
 
-<sup>5</sup> Les personnes exerçant une profession médicale en Suisse sur la base d’accords internationaux ne peuvent utiliser ou remettre des médicaments que dans le cadre de la présente ordonnance. Dans la mesure où ces personnes y sont habilitées en vertu d’un accord international[^7-3], elles ne peuvent utiliser ou remettre que des médicaments autorisés en Suisse ou dans le pays dont elles sont ressortissantes, et uniquement dans le cadre d’une visite du cheptel (art. 10, al. 1).
+<sup>3</sup> Pour toute importation d’un médicament vétérinaire contenant des stupéfiants, l’autorisation d’importation prévue par la législation sur les stupéfiants doit être jointe à la déclaration.
 
-[^7-1]: Nouvelle teneur selon le ch. I de l’O du 24 mars 2010, en vigueur depuis le 15 avr. 2010 ([RO 2010 1299](https://fedlex.data.admin.ch/eli/oc/2010/188)).
-[^7-2]: Nouvelle teneur selon l’annexe 8 ch. II 4 de l’O du 14 nov. 2018 sur les autorisations dans le domaine des médicaments, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5029](https://fedlex.data.admin.ch/eli/oc/2018/786)).
-[^7-3]: [RS 0.811.119.136](https://fedlex.data.admin.ch/eli/cc/7/446_402_446), [0.811.119.163](https://fedlex.data.admin.ch/eli/cc/9/220_178_220), [0.811.119.349](https://fedlex.data.admin.ch/eli/cc/11/180_167_180),[0.811.119.454.1](https://fedlex.data.admin.ch/eli/cc/10/724_649_724)
+<sup>4</sup>
+
+En dérogation aux al. 1 et 2, les vétérinaires doivent obtenir une autorisation de l’OSAV pour importer les médicaments suivants, qui sont autorisés dans un pays ayant institué un contrôle équivalent des médicaments pour animaux de rente ou pour animaux de compagnie:
+
+- a. les médicaments vétérinaires contenant des principes actifs visés à l’annexe 5;
+- b. les médicaments vétérinaires contenant des principes actifs antimicrobiens qui ne sont pas utilisés dans des médicaments vétérinaires autorisés en Suisse;
+- c. les médicaments vétérinaires immunologiques, à l’exception des allergènes;
+- d. les médicaments destinés aux abeilles.
+
+<sup>5</sup>
+
+L’autorisation est délivrée si les conditions suivantes sont réunies:
+
+- a. aucun médicament vétérinaire substitutif n’est autorisé et disponible en Suisse;
+- b. l’autorisation porte sur l’espèce cible et l’indication correspondantes;
+- c. il existe un besoin médical particulier;
+- d. il n’existe pas de doute sérieux concernant la sécurité du médicament pour l’être humain, les animaux et l’environnement, ni, pour les médicaments vétérinaires destinés à des animaux de rente, concernant la sécurité alimentaire.
+
+[^7-1]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+
+#### Art. 7a
+
+**Importation de médicaments autorisés dans un pays n’ayant pas institué un contrôle équivalent des médicaments**[^7a-1]
+
+<sup>1</sup> Les vétérinaires doivent obtenir une autorisation de l’OSAV pour importer les médicaments pour animaux de rente ou pour animaux de compagnie prêts à l’emploi qui sont autorisés dans un pays n’ayant pas institué un contrôle équivalent des médicaments pour animaux de rente ou pour animaux de compagnie.
+
+<sup>2</sup>
+
+L’autorisation est délivrée si les conditions suivantes sont réunies:
+
+- a. aucun médicament vétérinaire substitutif n’est autorisé et disponible en Suisse;
+- b. aucun médicament vétérinaire visé à l’art. 7 ne peut être importé;
+- c. l’autorisation porte sur l’espèce cible et l’indication correspondantes;
+- d. il existe un besoin médical particulier;
+- e. il n’existe pas de doute sérieux concernant la sécurité du médicament pour l’être humain, les animaux et l’environnement, ni, pour les médicaments vétérinaires destinés à des animaux de rente, concernant la sécurité alimentaire.
+
+<sup>3</sup> Il est interdit d’importer des médicaments pour animaux de rente ou pour animaux de compagnie qui contiennent des principes actifs visés à l’annexe 5 et qui sont autorisés dans un pays n’ayant pas institué un contrôle équivalent des médicaments pour animaux de rente ou pour animaux de compagnie.
+
+[^7a-1]: Introduit par le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+
+#### Art. 7b
+
+**Reconversion de médicaments importés**[^7b-1]
+
+<sup>1</sup> Les vétérinaires doivent obtenir une autorisation de l’OSAV pour importer des médicaments pour reconversion.
+
+<sup>2</sup>
+
+L’autorisation est délivrée si les conditions suivantes sont réunies:
+
+- a. les conditions préalables visées à l’art. 7*a*, al. 2, let. a, b, d et e, sont remplies;
+- b. il n’est pas possible de reconvertir un médicament autorisé en Suisse;
+- c. les exigences pour la reconversion visées à l’art. 6 et, pour les médicaments destinés aux animaux de rente, celles visées à l’art. 12 sont respectées par analogie.
+
+[^7b-1]: Introduit par le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+
+#### Art. 7c
+
+**Importation et remise de médicaments par des vétérinaires exerçant à l’étranger**[^7c-1]
+
+<sup>1</sup> Les vétérinaires ressortissants d’un autre pays exerçant en Suisse sur la base d’accords internationaux[^7c-2] sont autorisés, dans la mesure où ils y sont habilités en vertu d’un accord international et dans le cadre de la présente ordonnance, à utiliser ou remettre non seulement des médicaments autorisés en Suisse mais aussi ceux qui sont autorisés dans le pays dont ils sont ressortissants. L’importation de ces médicaments est régie par l’art. 20 OAMéd[^7c-3].
+
+<sup>2</sup> Dans le cadre d’une convention Médvét, des médicaments autorisés en Suisse peuvent être remis à titre de stocks.
+
+<sup>3</sup> Les médicaments autorisés dans le pays dont le vétérinaire est ressortissant ne peuvent être remis à titre de stocks que s’ils sont importés avec une déclaration ou une autorisation au sens des art. 7 à 7*b*.
+
+[^7c-1]: Introduit par le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^7c-2]: [RS 0.811.119.136](https://fedlex.data.admin.ch/eli/cc/7/446_402_446), [0.811.119.163](https://fedlex.data.admin.ch/eli/cc/9/220_178_220), [0.811.119.349](https://fedlex.data.admin.ch/eli/cc/11/180_167_180), [0.811.119.454.1](https://fedlex.data.admin.ch/eli/cc/10/724_649_724), [0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^7c-3]: [RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)
+
+#### Art. 7d
+
+**Interdiction d’importer des médicaments**[^7d-1]
+
+Il est interdit d’importer des médicaments non autorisés contenant des organismes génétiquement modifiés.
+
+[^7d-1]: Introduit par le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+
+#### Art. 7e
+
+**Déclarations et autorisations d’importer des médicaments**[^7e-1]
+
+<sup>1</sup> L’OSAV met à disposition un modèle de formulaire électronique pour déclarer l’importation de médicaments et pour les demandes d’autorisation d’importation de médicaments.
+
+<sup>2</sup> Les données relatives au cabinet ou à la clinique vétérinaire font l’objet d’une vérification électronique par recoupement avec les données du système d’information sur les antibiotiques en médecine vétérinaire (SI ABV) visé dans l’ordonnance du 31 octobre 2018 sur le système d’information sur les antibiotiques en médecine vétérinaire (O-SI ABV)[^7e-2].
+
+<sup>3</sup> Les déclarations et les autorisations sont saisies dans le système d’information sur les données d’exécution du service vétérinaire public (ASAN) visé dans l’ordonnance du 27 avril 2022 concernant les systèmes d’information de l’OSAV liés à la chaîne agroalimentaire[^7e-3].
+
+<sup>4</sup> L’OSAV met à la disposition de Swissmedic et de l’Office fédéral de la douane et de la sécurité des frontières (OFDF) les données relatives aux déclarations et aux autorisations nécessaires à l’accomplissement de leurs tâches.
+
+<sup>5</sup> Si l’OFDF, à la frontière, ou les cantons, lors des contrôles en Suisse, constatent que des médicaments ont été importés sans déclaration ou sans autorisation de l’OSAV, ils en informent Swissmedic.
+
+[^7e-1]: Introduit par le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^7e-2]: [RS 812.214.4](https://fedlex.data.admin.ch/eli/cc/2018/702)
+[^7e-3]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
 
 #### Art. 8
 
-**Limitations de la remise**
+**Limitations de l’utilisation et de la remise[^8-1]**
 
 <sup>1</sup> Dans le cas des vaccinations à confirmer par un certificat vétérinaire, les vaccins doivent être administrés exclusivement en présence du vétérinaire.
 
-<sup>2</sup> Les médicaments vétérinaires à utiliser pour l’anesthésie lors de l’écornage et de la castration ne peuvent être remis qu’à un détenteur d’animaux titulaire d’une attestation de compétences conforme à l’art. 32, al. 2, de l’ordonnance du 23 avril 2008 sur la protection des animaux[^8-1].[^8-2]
+<sup>2</sup> Les médicaments vétérinaires à utiliser pour l’anesthésie lors de l’écornage et de la castration ne peuvent être remis qu’à un détenteur d’animaux titulaire d’une attestation de compétences conforme à l’art. 32, al. 2, de l’ordonnance du 23 avril 2008 sur la protection des animaux[^8-2].[^8-3]
 
-<sup>3</sup> Il est interdit de remettre à des animaux de rente des médicaments réputés stupéfiants.[^8-3] Sont réservés les médicaments vétérinaires autorisés par l’institut spécifiquement pour les indications mentionnées à l’al. 2.
+<sup>3</sup> La remise de médicaments réputés stupéfiants est interdite pour les animaux de rente. Cela n’inclut pas la remise pour utilisation directe afin d’immobiliser à distance du gibier détenu en enclos ou du gibier sauvage.[^8-4]
 
-[^8-1]: [RS 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
-[^8-2]: Nouvelle teneur selon l’annexe 6 ch. II 5 de l’O du 23 avr. 2008 sur la protection des animaux, en vigueur depuis le 1<sup>er</sup> sept. 2008 ([RO 2008 2985](https://fedlex.data.admin.ch/eli/oc/2008/416)).
-[^8-3]: Nouvelle teneur selon l’annexe 2 ch. II 1 de l’O du 23 nov. 2005 sur les denrées alimentaires et les objets usuels, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746)).
+<sup>4</sup> Les antibiotiques ne doivent pas être prescrits, remis ou utilisés de manière routinière pour compenser des insuffisances en matière d’hygiène, de conditions de détention, de soins ou de gestion de l’exploitation.[^8-5]
+
+[^8-1]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^8-2]: [RS 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
+[^8-3]: Nouvelle teneur selon l’annexe 6 ch. II 5 de l’O du 23 avr. 2008 sur la protection des animaux, en vigueur depuis le 1<sup>er</sup> sept. 2008 ([RO 2008 2985](https://fedlex.data.admin.ch/eli/oc/2008/416)).
+[^8-4]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^8-5]: Introduit par le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+
+#### Art. 8a
+
+**Déconditionnement**[^8a-1]
+
+<sup>1</sup> Lorsque la stabilité des médicaments le permet, le vétérinaire peut subdiviser en emballages individuels en vue de leur remise directe les médicaments autorisés uniquement en emballages trop grands pour un traitement donné.
+
+<sup>2</sup>
+
+Les emballages individuels remis doivent arborer une étiquette avec les informations suivantes:
+
+- a. la dénomination du médicament, suivie du dosage;
+- b. la dénomination de l’animal ou du groupe d’animaux à traiter;
+- c. le mode d’administration;
+- d. la date de péremption de l’emballage individuel après le premier prélèvement;
+- e. le numéro de lot;
+- f. les conditions de stockage;
+- g. les mentions pour la sécurité ou pour la protection de la santé, y compris toute précaution particulière d’emploi et autres avertissements.
+
+<sup>3</sup>
+
+L’étiquette des médicaments devant être portés au registre doit en plus mentionner:
+
+- a. les nom et adresse de la personne, du cabinet vétérinaire ou de la pharmacie remettant le médicament;
+- b. la date de remise;
+- c. le nom du détenteur d’animaux;
+- d. l’indication;
+- e. le dosage et la durée d’utilisation;
+- f. les délais d’attente.
+
+<sup>4</sup> Pour les médicaments avec instructions d’utilisation écrites, il est possible de renoncer aux mentions qui y ont déjà été faites.
+
+[^8a-1]: Introduit par le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
 #### Art. 9
 
@@ -200,7 +352,7 @@ Les personnes exerçant une profession médicale ne peuvent importer des médica
 
 <sup>3</sup> Les services d’inspection cantonaux des ruchers sont également habilités à remettre des médicaments destinés aux abeilles.
 
-<sup>4</sup> L’institut détermine les médicaments qui peuvent être remis. …[^9-4] .
+<sup>4</sup> Swissmedic détermine les médicaments qui peuvent être remis. …[^9-4] .
 
 [^9-1]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
 [^9-2]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2014 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
@@ -213,15 +365,16 @@ Les personnes exerçant une profession médicale ne peuvent importer des médica
 
 **Évaluation de l’état de santé, convention Médvét**
 
-<sup>1</sup> Avant de prescrire ou de remettre un médicament vétérinaire à consigner dans un registre en vertu de l’art. 26, les vétérinaires doivent évaluer personnellement l’état de santé de l’animal de rente ou du groupe d’animaux de rente à traiter (visite du cheptel).
+<sup>1</sup> Avant de prescrire ou de remettre un médicament à consigner dans un registre en vertu de l’art. 26, let. a à e, les vétérinaires doivent évaluer personnellement l’état de santé de l’animal de rente ou du groupe d’animaux de rente à traiter (visite du cheptel).[^10-1]
 
 <sup>2</sup> Les vétérinaires et les cabinets vétérinaires peuvent conclure avec le détenteur d’animaux une convention écrite portant sur les visites régulières de l’exploitation ainsi que sur la médication vétérinaire (convention Médvét). Dans ce cas, ils peuvent aussi prescrire ou remettre des médicaments vétérinaires sans visite préalable du cheptel.
 
-<sup>3</sup> Seule une convention Médvét peut être conclue par espèce d’animaux de rente.[^10-1]
+<sup>3</sup> Seule une convention Médvét peut être conclue par espèce d’animaux de rente.[^10-2]
 
 <sup>4</sup> Les critères d’évaluation, la fréquence des visites et le contenu de la convention Médvét sont réglés à l’annexe 1.
 
-[^10-1]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2016, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
+[^10-1]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^10-2]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2016, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
 
 #### Art. 10a
 
@@ -270,14 +423,14 @@ Il est interdit d’administrer à des animaux de rente les substances et prépa
 S’il existe une convention Médvét, le vétérinaire peut aussi prescrire ou remettre, selon l’indication et la taille du cheptel, des médicaments vétérinaires à titre de stocks, compte tenu des besoins suivants:
 
 - a.[^11-1] prophylaxie: pour quatre mois au maximum, sauf pour les médicaments contenant des principes actifs antimicrobiens;
-- b.[^11-2] traitement de cas isolés: pour trois mois au maximum, sauf pour les médicaments contenant les principes actifs antimicrobiens figurant dans la liste de l’annexe 5;
+- b.[^11-2] traitement de cas: pour trois mois au maximum, sauf pour les médicaments contenant les principes actifs antimicrobiens figurant dans la liste de l’annexe 5;
 - c. anesthésie en cas d’écornage durant les premières semaines ou de castration précoce: pour trois mois au maximum;
 - d. lutte antiparasitaire: pour douze mois au maximum.
 
 <sup>3</sup> Quiconque représente la personne ou le cabinet vétérinaire ayant conclu une convention Médvét ne peut prescrire ou remettre des médicaments que pour l’indication en cours, le traitement et l’après-traitement choisis ainsi que pour le nombre d’animaux à traiter.
 
 [^11-1]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2016, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
-[^11-2]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2016, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
+[^11-2]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
 #### Art. 12
 
@@ -299,23 +452,24 @@ Pour les animaux de rente, seules les reconversions suivantes sont autorisées:
 
 <sup>5</sup> Pour les animaux domestiqués de la famille zoologique des *Camelidae* et pour le gibier détenu en enclos et autorisé pour l’obtention de denrées alimentaires, des médicaments dont les principes actifs ne satisfont pas aux exigences de l’al. 1 peuvent aussi être prescrits ou remis.
 
-<sup>6</sup> Les médicaments destinés aux abeilles ne doivent pas provenir d’une reconversion.
+<sup>6</sup> Les médicaments destinés aux abeilles et aux insectes utilisés pour la production de denrées alimentaires ou d’aliments pour animaux ne doivent pas provenir d’une reconversion.[^12-6]
 
 [^12-1]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2016, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
 [^12-2]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 16 déc. 2016 sur les denrées alimentaires et les objets usuels, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)).
 [^12-3]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
 [^12-4]: Abrogée par l’annexe ch. 2 de l’O du 16 déc. 2016 sur les denrées alimentaires et les objets usuels, avec effet au 1<sup>er</sup> mai 2017 ([RO 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)).
 [^12-5]: Règlement (UE) n<sup>o</sup> 122/2013 de la Commission du 12 février 2013 modifiant le règlement (CE) n<sup>o</sup> 1950/2006 établissant, conformément à la directive 2001/82/CE du Parlement européen et du Conseil instituant un code communautaire relatif aux médicaments vétérinaires, une liste de substances essentielles pour le traitement des équidés, JO L 42 du 13.2.2013, p. 1.
+[^12-6]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
 #### Art. 13
 
 **Délais d’attente pour médicaments reconvertis**
 
-<sup>1</sup> Les médicaments vétérinaires autorisés pour une espèce de destination et une indication données, mais utilisés pour une autre indication, sont soumis aux mêmes délais d’attente que pour l’indication autorisée, le dosage et le mode d’administration devant être par ailleurs les mêmes.
+<sup>1</sup> Les médicaments vétérinaires autorisés pour une espèce cible et une indication données, mais utilisés pour une autre indication, sont soumis aux mêmes délais d’attente que pour l’indication autorisée, le dosage et le mode d’administration devant être par ailleurs les mêmes.
 
 <sup>2</sup>
 
-Les médicaments vétérinaires autorisés pour une espèce de destination donnée ainsi que les médicaments à usage humain ne peuvent être administrés que conformément à leur autorisation. Les délais d’attente valables pour ces médicaments doivent être les suivants:
+Les médicaments vétérinaires autorisés pour une espèce cible donnée ainsi que les médicaments à usage humain ne peuvent être administrés que conformément à leur autorisation. Les délais d’attente valables pour ces médicaments doivent être les suivants:
 
 - a.[^13-1] si les principes actifs présents dans le médicament figurent à l’annexe 2, aucun délai d’attente n’est requis;
 - b.[^13-2] si un médicament contient des principes actifs pour lesquels le DFI n’a pas fixé de concentrations maximales en application de l’art. 10, al. 4, let. e, ODAlOUs[^13-3] ou n’a pas estimé nécessaire de fixer des concentrations maximales et que le médicament est administré à un animal qui appartient à la même classe zoologique que l’animal pour lequel il est autorisé, le délai d’attente à respecter est le plus long délai d’attente prévu pour la classe zoologique de l’animal considéré, multiplié par le facteur 1,5; la let. a est réservée;
@@ -348,16 +502,17 @@ Dans le cas des médicaments homéopathiques, anthroposophiques ou phytothérape
 
 #### Art. 14
 
-**Médicaments selon l’art. 9, al. 2, let. a à c<sup>bis</sup>, LPTh**[^14-1]
+**Médicaments visés à l’art. 9, al. 2, let. a à c<sup>bis</sup>, LPTh**[^14-1]
 
-<sup>1</sup> Les médicaments selon l’art. 9, al. 2, let. a à c<sup>bis</sup>, LPTh ne peuvent être prescrits ou remis pour des animaux de rente ou être utilisés à cet effet que si aucun autre médicament n’est autorisé et qu’aucun médicament au bénéfice d’une autorisation ne peut faire l’objet d’une reconversion.
+<sup>1</sup> Les médicaments visés à l’art. 9, al. 2, let. a à c<sup>bis</sup>, LPTh ne peuvent être prescrits, remis ou utilisés pour des animaux de rente que si aucun autre médicament n’est autorisé et qu’aucun médicament au bénéfice d’une autorisation ne peut faire l’objet d’une reconversion.
 
-<sup>2</sup> Pour la fabrication d’un tel médicament, seuls peuvent être prescrits et utilisés des principes actifs figurant à l’annexe 2 ou ayant fait l’objet d’une dilution D6 ou supérieure. L’art. 12, al. 3, est réservé.[^14-2]
+<sup>2</sup> Pour la fabrication d’un tel médicament, seuls peuvent être prescrits et utilisés des principes actifs figurant à l’annexe 2 ou ayant fait l’objet d’une dilution D6 ou supérieure.
 
-<sup>3</sup> Pour le traitement des abeilles, les médicaments selon l’art. 9, al. 2, let. a à c<sup>bis</sup>, LPTh, ne peuvent être ni prescrits, ni remis, ni utilisés.
+<sup>3</sup> L’art. 12, al. 3 et 5, s’applique par analogie pour la prescription et l’utilisation de principes actifs destinés aux animaux domestiqués de la famille zoologique des *Equidae* et des *Camelidae* et pour le gibier détenu en enclos. Le délai d’attente pour ces médicaments est de six mois.
 
-[^14-1]: Nouvelle teneur selon le ch. I de l’O du 24 mars 2010, en vigueur depuis le 15 avr. 2010 ([RO 2010 1299](https://fedlex.data.admin.ch/eli/oc/2010/188)).
-[^14-2]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 16 déc. 2016 sur les denrées alimentaires et les objets usuels, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)).
+<sup>4</sup> Pour le traitement des abeilles et des insectes utilisés pour la production de denrées alimentaires ou d’aliments pour animaux, les médicaments selon l’art. 9, al. 2, let. a à c<sup>bis</sup>, LPTh, ne peuvent être ni prescrits, ni remis, ni utilisés.
+
+[^14-1]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
 #### Art. 15
 
@@ -400,12 +555,16 @@ Si un vétérinaire responsable technique prescrit un aliment médicamenteux ou 
 - f. les nom et adresse du vétérinaire responsable technique ou du cabinet vétérinaire;
 - g. la date de la prescription.
 
+<sup>1bis</sup> Le formulaire électronique d’ordonnance doit être utilisé dans le SI ABV visé dans l’O-SI ABV[^16-2] pour prescrire un aliment médicamenteux ou un prémélange pour aliments médicamenteux contenant des principes actifs antimicrobiens destinés à traiter un groupe d’animaux par voie orale. Il peut aussi être utilisé pour la prescription d’un aliment médicamenteux ou d’un prémélange pour aliments médicamenteux ne contenant pas de principes actifs antimicrobiens. Dans ce cas, les données ne sont pas enregistrées dans le SI ABV.[^16-3]
+
 <sup>2</sup> Les instructions d’utilisation pour le traitement d’un groupe d’animaux par voie orale doivent être consignées sur le formulaire électronique officiel d’ordonnance.
 
-<sup>3</sup> Le vétérinaire responsable technique remet l’ordonnance au fabricant et au détenteur d’animaux et conserve un exemplaire dans le dossier médical.[^16-2]
+<sup>3</sup> Le vétérinaire responsable technique remet l’ordonnance au fabricant et au détenteur d’animaux et conserve un exemplaire dans le dossier médical.[^16-4]
 
 [^16-1]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2016, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
-[^16-2]: Nouvelle teneur selon l’art. 20 ch. 1 de l’O du 31 oct. 2018 concernant le système d’information sur les antibiotiques en médecine vétérinaire, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4353](https://fedlex.data.admin.ch/eli/oc/2018/702)).
+[^16-2]: [RS 812.214.4](https://fedlex.data.admin.ch/eli/cc/2018/702)
+[^16-3]: Introduit par le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^16-4]: Nouvelle teneur selon l’art. 20 ch. 1 de l’O du 31 oct. 2018 concernant le système d’information sur les antibiotiques en médecine vétérinaire, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4353](https://fedlex.data.admin.ch/eli/oc/2018/702)).
 
 #### Art. 17
 
@@ -419,9 +578,9 @@ Si un vétérinaire responsable technique prescrit un aliment médicamenteux ou 
 
 #### Art. 18
 
-**Adjonction de médicaments vétérinaires à l’aide des propres installations d’exploitation**
+**Adjonction de médicaments vétérinaires dans les exploitations agricoles[^18-1]**
 
-<sup>1</sup> Toute exploitation agricole qui ajoute des médicaments aux aliments pour animaux à l’aide de ses propres installations techniques doit être titulaire d’une autorisation de fabrication de l’institut conformément aux dispositions de l’ordonnance du 17 octobre 2001 sur les autorisations dans le domaine des médicaments[^18-1].[^18-2]
+<sup>1</sup> Toute exploitation agricole qui ajoute des médicaments aux aliments pour animaux à l’aide des installations techniques doit être titulaire d’une autorisation de fabrication de Swissmedic conformément aux dispositions de l’OAMéd[^18-2].[^18-3]
 
 <sup>2</sup>
 
@@ -430,22 +589,30 @@ Aucune autorisation de fabrication n’est requise pour l’exploitation agricol
 - a. ne fabrique pas plus d’une ration journalière pour les animaux à traiter;
 - b. pratique l’adjonction manuelle de médicaments vétérinaires à la ration.
 
-[^18-1]: [RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)
-[^18-2]: Nouvelle teneur selon le ch. I de l’O du 24 mars 2010, en vigueur depuis le 15 avr. 2010 ([RO 2010 1299](https://fedlex.data.admin.ch/eli/oc/2010/188)).
+[^18-1]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^18-2]: [RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)
+[^18-3]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
 #### Art. 19
 
-**Exigences relatives aux exploitations pratiquant l’adjonction et l’administration de médicaments**[^19-1]
+**Exigences et convention relatives aux exploitations pratiquant l’adjonction et l’administration de médicaments**[^19-1]
 
-Toute exploitation agricole qui ajoute des médicaments aux aliments pour animaux ou qui administre des aliments médicamenteux à l’aide de ses propres installations techniques doit satisfaire aux exigences suivantes:
+<sup>1</sup>
 
-- a. elle doit avoir conclu un contrat écrit avec un vétérinaire responsable technique;
+Toute exploitation agricole qui ajoute des médicaments aux aliments pour animaux ou qui administre des aliments médicamenteux à l’aide des installations techniques doit satisfaire aux exigences suivantes:
+
+- a. elle doit avoir conclu un contrat écrit avec un vétérinaire responsable technique ou un cabinet vétérinaire;
 - b. elle doit disposer d’installations appropriées;
 - c. elle peut uniquement utiliser des prémélanges pour aliments médicamenteux dont l’information indique qu’ils peuvent être ajoutés aux aliments pour animaux selon le procédé de préparation prévu;
 - d. elle doit disposer d’un système de documentation comportant les instructions de travail, le descriptif des procédures et le compte rendu des principaux processus;
-- e. elle doit garantir la fonctionnalité et l’hygiène de ses installations techniques avant et après toute administration d’un prémélange pour aliments médicamenteux ou d’un aliment médicamenteux destinés à traiter un groupe d’animaux par voie orale.
+- e. elle doit garantir la fonctionnalité et l’hygiène de ses installations techniques avant et après toute administration d’un prémélange pour aliments médicamenteux ou d’un aliment médicamenteux destinés à traiter un groupe d’animaux par voie orale;
+- f. elle doit s’assurer que les installations techniques fonctionnent sans problème et qu’un spécialiste en assure l’entretien régulier conformément aux indications du fabriquant et le documente.
 
-[^19-1]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2016, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
+<sup>2</sup> Lorsqu’une exploitation agricole conclut une convention avec un cabinet vétérinaire, l’un des vétérinaires qui y travaille doit être un vétérinaire responsable technique. Tout vétérinaire qui effectue des tâches dans le cadre d’une telle convention doit satisfaire aux exigences visées à l’art. 20.
+
+<sup>3</sup> La convention peut être conclue dans le cadre d’une convention Médvét.
+
+[^19-1]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
 #### Art. 20
 
@@ -469,11 +636,11 @@ Toute exploitation agricole qui ajoute des médicaments aux aliments pour animau
 
 <sup>1</sup>
 
-Le vétérinaire responsable technique est chargé des tâches suivantes:
+Dans le cadre de la convention, le vétérinaire responsable technique est chargé des tâches suivantes:[^20a-2]
 
-- a. exercer la surveillance technique directe dans le secteur d’activité qui lui est attribué par le contrat visé à l’art. 19, let. a, et garantir en particulier que les conditions nécessaires à une manipulation appropriée des médicaments sont remplies;
+- a.[^20a-3] exercer la surveillance technique directe dans le secteur d’activité qui lui est attribué par la convention et garantir en particulier que les conditions nécessaires à une manipulation appropriée des médicaments et à une utilisation hygiénique des installations techniques sont remplies;
 - b. assurer la qualité et l’administration correcte des aliments médicamenteux fabriqués dans l’exploitation pour le secteur d’activité qui lui est attribué ainsi que l’administration correcte de prémélanges médicamenteux par adjonction manuelle à la ration alimentaire (*top dressing*);
-- c. vérifier, dans le cadre des visites d’exploitation visées à l’art. 10, al. 2, que les exigences fixées à l’art. 19, let. e, sont satisfaites.
+- c.[^20a-4] vérifier que les exigences fixées à l’art. 19, al. 1, let. e et f, sont satisfaites.
 
 <sup>2</sup> Il est habilité à donner des instructions dans le cadre des tâches visées à l’al. 1. Il veille notamment à ce que toutes les mesures correctrices nécessaires soient prises.
 
@@ -482,6 +649,9 @@ Le vétérinaire responsable technique est chargé des tâches suivantes:
 <sup>4</sup> S’il a des raisons de croire que les mesures correctrices ordonnées n’ont pas été exécutées, il s’adresse au vétérinaire cantonal compétent.
 
 [^20a-1]: Introduit par le ch. I de l’O du 11 mars 2016, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
+[^20a-2]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^20a-3]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^20a-4]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
 #### Art. 21
 
@@ -506,9 +676,13 @@ Les installations utilisées dans une exploitation agricole pour le mélange de 
 
 #### Art. 22
 
-**Devoir de diligence**
+**Devoir de diligence**[^22-1]
 
-Quiconque détient des animaux de rente est tenu de conserver et de classer, dans des conditions sûres et hygiéniquement irréprochables, les médicaments vétérinaires dont il dispose sur site, conformément aux dispositions de conservation et de stockage figurant dans l’information sur le médicament et dans les instructions d’utilisation. Les instructions d’utilisation écrites doivent être archivées aussi longtemps que les médicaments vétérinaires concernés sont disponibles sur site.
+<sup>1</sup> Le détenteur d’animaux de rente utilise les médicaments vétérinaires en respectant les instructions de la personne les ayant prescrits ou remis.
+
+<sup>2</sup> Il est tenu de conserver et de classer, dans des conditions sûres et hygiéniquement irréprochables, les médicaments vétérinaires dont il dispose sur site, conformément aux dispositions de conservation et de stockage figurant dans l’information sur le médicament et dans les instructions d’utilisation. Les instructions d’utilisation écrites doivent être archivées aussi longtemps que les médicaments vétérinaires concernés sont disponibles sur site.
+
+[^22-1]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
 #### Art. 23
 
@@ -541,22 +715,24 @@ Ces données doivent être consignées comme suit:
 
 #### Art. 24
 
-**Devoirs de diligence particuliers pour l’obtention de denrées alimentaires**
+**Devoirs de diligence particuliers pour l’obtention de denrées alimentaires**[^24-1]
 
-<sup>1</sup> La viande, le lait, les œufs et le miel ainsi que leurs produits dérivés ne peuvent pas être utilisés comme denrées alimentaires tant que le délai d’attente du médicament vétérinaire utilisé n’est pas échu pour les animaux correspondants. Sont réservées les dispositions de l’art. 10, al. 2, de l’ordonnance du 23 novembre 2005 concernant l’abattage d’animaux et le contrôle des viandes[^24-1].[^24-2]
+<sup>1</sup> La viande, le lait, les œufs et le miel ainsi que leurs produits dérivés ne peuvent pas être utilisés comme denrées alimentaires tant que le délai d’attente du médicament vétérinaire utilisé n’est pas échu pour les animaux correspondants. Sont réservées les dispositions de l’art. 8, al. 2, de l’ordonnance du 16 décembre 2016 concernant l’abattage d’animaux et le contrôle des viandes[^24-2].
 
-<sup>2</sup> Le lait produit avant l’échéance du délai d’attente peut être utilisé comme aliment pour animaux de rente. Toute utilisation de ce lait doit être consignée à titre de traitement médicamenteux pour les animaux abreuvés. Il y a lieu de respecter les mêmes délais d’attente que pour le médicament correspondant*.*
+<sup>2</sup> Le lait produit avant l’échéance du délai d’attente peut être donné aux animaux de rente de la même unité d’élevage. Toute utilisation de ce lait doit être consignée à titre de traitement médicamenteux pour les animaux abreuvés et il y a lieu de respecter les mêmes délais d’attente que pour le médicament correspondant.
 
-[^24-1]: [[RO 2005 5493](https://fedlex.data.admin.ch/eli/oc/2005/747), [2006 4807](https://fedlex.data.admin.ch/eli/oc/2006/738)[4809](https://fedlex.data.admin.ch/eli/oc/2006/739), [2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)annexe 2 ch. 2 [2711](https://fedlex.data.admin.ch/eli/oc/2007/358)ch. II 1, [2008 5169](https://fedlex.data.admin.ch/eli/oc/2008/723), [2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)annexe 8 ch. II 2 [5453](https://fedlex.data.admin.ch/eli/oc/2011/775)annexe 2 ch. II 2, [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)ch. I 8, [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)annexe 3 ch. II 6, [2015 3629](https://fedlex.data.admin.ch/eli/oc/2015/608)[5201](https://fedlex.data.admin.ch/eli/oc/2015/843)annexe ch. II 3. AS **2017** 411 art. 62 al. 1]. Voir actuellement l’O du 16 déc. 2016 ([RS 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)).
-[^24-2]: Nouvelle teneur selon l’annexe 2 ch. II 1 de l’O du 23 nov. 2005 sur les denrées alimentaires et les objets usuels, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746)).
+[^24-1]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^24-2]: [RS 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)
 
 ## Chapitre 4 Obligation de tenir un registre et obligation de consigner
 
 #### Art. 25
 
-**Personnes soumises à l’obligation de tenir un registre**
+**Personnes soumises à l’obligation de tenir un registre**[^25-1]
 
-L’obligation de tenir un registre s’applique à toute personne habilitée à remettre des médicaments à des animaux de rente en vertu de l’art. 24 LPTh (personne habilitée à remettre des médicaments) ainsi qu’à tout détenteur d’animaux de rente.
+L’obligation de tenir un registre s’applique à toute personne habilitée à remettre des médicaments destinés à des animaux de rente en vertu de l’art. 24 LPTh ou de l’art. 9, al. 2 et 3 de la présente ordonnance (personne habilitée à remettre des médicaments), ainsi qu’à tout détenteur d’animaux de rente.
+
+[^25-1]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
 #### Art. 26
 
@@ -568,9 +744,12 @@ Il y a lieu de porter au registre:
 - b. les médicaments vétérinaires pour lesquels un délai d’attente doit être respecté;
 - c.[^26-1] les médicaments utilisés selon les art. 6 et 12, sauf les médicaments visés à l’art. 13, al. 5;
 - d. les médicaments vétérinaires non soumis à l’autorisation de mise sur le marché (art. 9, al. 2, LPTh);
-- e. les médicaments importés au sens de l’art. 7.
+- e.[^26-2] les médicaments importés conformément aux art. 7 à 7*c*;
+- f.[^26-3] les médicaments destinés aux abeilles.
 
 [^26-1]: Nouvelle teneur selon l’annexe 2 ch. II 1 de l’O du 23 nov. 2005 sur les denrées alimentaires et les objets usuels, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746)).
+[^26-2]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^26-3]: Introduite par le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
 #### Art. 27
 
@@ -651,27 +830,28 @@ Les vétérinaires cantonaux sont responsables des contrôles et de l’exécuti
 
 <sup>2</sup>
 
-Ils sont notamment habilités:
+Les organes de contrôle sont notamment habilités:[^30-4]
 
 - a. à accéder, pendant les heures d’ouverture habituelles et sans avertissement préalable, à tous les locaux et véhicules dans lesquels les médicaments vétérinaires ou aliments pour animaux sont conservés, préparés ou utilisés;
 - b. à consulter tous les dossiers et documents établis ou archivés en vertu de la présente ordonnance, ainsi que les comptabilités, et à mettre en sûreté les pièces justificatives;
-- c.[^30-4] à prescrire, dans des cas particuliers, des visites des exploitations supplémentaires à celles qui sont prévues par la convention Médvét lorsque des contrôles font apparaître des manquements compromettant la sécurité alimentaire ou la santé des animaux;
+- c.[^30-5] à prescrire, dans des cas particuliers, des visites des exploitations supplémentaires à celles qui sont prévues par la convention Médvét lorsque des contrôles font apparaître des manquements compromettant la sécurité alimentaire ou la santé des animaux;
 - d. à prélever des échantillons d’animaux vivants ou abattus, de médicaments et d’aliments pour animaux;
 - e. à confisquer, à saisir ou à garder en dépôt à l’intention de l’autorité compétente, voire à détruire tout médicament vétérinaire dangereux pour la santé, interdit, non conforme à la législation sur les produits thérapeutiques ou acquis de façon illicite;
 - f. à contrôler les exploitations et les personnes qui approvisionnent les détenteurs d’animaux de rente en produits destinés au traitement et aux soins de tels animaux.
 
 <sup>3</sup> Les titulaires d’autorisations de fabrication et de commerce de gros communiquent aux vétérinaires cantonaux, à leur demande, les données relatives aux quantités de médicaments vétérinaires remises aux différents acheteurs dans leurs secteurs respectifs de contrôle.
 
-<sup>4</sup> L’OSAV fixe la forme et le contenu des contrôles dans des directives techniques après avoir consulté l’Office fédéral de l’agriculture (OFAG), l’Office fédéral de la santé publique (OFSP), le Service d’accréditation suisse (SAS) et les organes de contrôle. Il veille, en collaboration avec ces services, à ce que les contrôles prévus par la présente ordonnance soient coordonnés avec ceux relevant de la compétence de ces services.[^30-5]
+<sup>4</sup> L’OSAV fixe la forme et le contenu des contrôles dans des directives techniques après avoir consulté les organes de contrôle. Il veille, en collaboration avec l’Office fédéral de l’agriculture (OFAG), à ce que les contrôles prévus par la présente ordonnance soient coordonnés avec d’autres contrôles relevant de la compétence de ces services.[^30-6]
 
-<sup>5</sup> Il veille à une exécution uniforme de la présente ordonnance par les cantons.[^30-6]
+<sup>5</sup> Il veille à une exécution uniforme de la présente ordonnance par les cantons.[^30-7]
 
 [^30-1]: Nouvelle teneur selon l’annexe 2 ch. 2 de l’O du 26 oct. 2011 sur la coordination des contrôles, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5297](https://fedlex.data.admin.ch/eli/oc/2011/766)).
 [^30-2]: Nouvelle teneur selon l’annexe ch. 4 de l’O du 14 nov. 2007 sur la coordination des inspections, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6167](https://fedlex.data.admin.ch/eli/oc/2007/820)).
 [^30-3]: [RS 916.020](https://fedlex.data.admin.ch/eli/cc/2005/752)
-[^30-4]: Nouvelle teneur selon l’annexe 2 ch. 2 de l’O du 26 oct. 2011 sur la coordination des contrôles, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5297](https://fedlex.data.admin.ch/eli/oc/2011/766)).
-[^30-5]: Nouvelle teneur selon le ch. I de l’O du 8 mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1455](https://fedlex.data.admin.ch/eli/oc/2013/335)).
-[^30-6]: Introduit par le ch. I de l’O du 8 mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1455](https://fedlex.data.admin.ch/eli/oc/2013/335)).
+[^30-4]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^30-5]: Nouvelle teneur selon l’annexe 2 ch. 2 de l’O du 26 oct. 2011 sur la coordination des contrôles, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5297](https://fedlex.data.admin.ch/eli/oc/2011/766)).
+[^30-6]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^30-7]: Introduit par le ch. I de l’O du 8 mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1455](https://fedlex.data.admin.ch/eli/oc/2013/335)).
 
 #### Art. 31
 
@@ -739,28 +919,104 @@ L’OSAV peut demander:
 - b. que les vétérinaires responsables techniques qui prescrivent des aliments médicamenteux ou des prémélanges pour aliments médicamenteux lui communiquent les données consignées sur le formulaire électronique officiel d’ordonnance;
 - c. que les autorités et organismes concernés lui communiquent les données nécessaires à l’exécution de la présente ordonnance.
 
-<sup>2</sup> …[^35-2]
+<sup>2</sup> Les vétérinaires doivent déclarer à l’OSAV la prescription, la remise et l’utilisation d’antibiotiques non topiques dans le SI ABV visé dans l’O-SI ABV[^35-2].[^35-3]
 
 [^35-1]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2016, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
-[^35-2]: Abrogé par l’art. 20 ch. 1 de l’O du 31 oct. 2018 concernant le système d’information sur les antibiotiques en médecine vétérinaire, avec effet au 1<sup>er</sup> janv. 2019 ([RO 2018 4353](https://fedlex.data.admin.ch/eli/oc/2018/702)).
+[^35-2]: [RS 812.214.4](https://fedlex.data.admin.ch/eli/cc/2018/702)
+[^35-3]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
 #### Art. 36
 
 **Collections de données**
 
-<sup>1</sup> L’OSAV traite les données personnelles visées aux art. 16, 33 et 35.[^36-1]
+<sup>1</sup> L’OSAV traite les données personnelles visées aux art. 7 à 7*b*, 16, 33 et 35.[^36-1]
 
 <sup>2</sup> Les organes de contrôle compétents en vertu de la présente ordonnance sont autorisés à traiter les données personnelles de leur propre chef.
 
-<sup>3</sup> L’OSAV et l’institut peuvent se transmettre les données collectées et les mettre à la disposition de l’OFSP et de l’OFAG.[^36-2]
+<sup>2bis</sup> Pour l’accomplissement de leurs tâches légales, les autorités cantonales compétentes peuvent se mettre mutuellement à disposition les données recueillies dans le cadre de l’exécution de la présente ordonnance.[^36-2]
+
+<sup>3</sup> L’OSAV et Swissmedic peuvent se transmettre les données collectées et les mettre à la disposition de l’OFSP et de l’OFAG.[^36-3]
 
 <sup>4</sup> Les données peuvent être publiées sous forme anonymisée.
 
-<sup>5</sup> Le traitement des données personnelles est soumis à la loi fédérale du 19 juin 1992 sur la protection des données[^36-3].
+<sup>5</sup> Le traitement des données personnelles est soumis à la loi fédérale du 19 juin 1992 sur la protection des données[^36-4].
 
-[^36-1]: Nouvelle teneur selon l’art. 20 ch. 1 de l’O du 31 oct. 2018 concernant le système d’information sur les antibiotiques en médecine vétérinaireen vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4353](https://fedlex.data.admin.ch/eli/oc/2018/702)).
-[^36-2]: Nouvelle teneur selon le ch. I de l’O du 8 mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1455](https://fedlex.data.admin.ch/eli/oc/2013/335)).
-[^36-3]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+<sup>6</sup> Le traitement des données sur la prescription, la remise et l’utilisation d’antibiotiques non topiques est soumis aux dispositions de l’O-SI ABV[^36-5].[^36-6]
+
+[^36-1]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^36-2]: Introduit par le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^36-3]: Nouvelle teneur selon le ch. I de l’O du 8 mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1455](https://fedlex.data.admin.ch/eli/oc/2013/335)).
+[^36-4]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^36-5]: [RS 812.214.4](https://fedlex.data.admin.ch/eli/cc/2018/702)
+[^36-6]: Introduit par le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+
+### Section 3**** Mesures en cas d’augmentation de l’utilisation d’antibiotiques
+
+[^chap5-sec3-1]
+
+[^chap5-sec3-1]: Introduite par le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+
+#### Art. 36a
+
+**Évaluation des données sur l’utilisation d’antibiotiques**
+
+<sup>1</sup> Sur la base des données déclarées conformément à l’art. 4, al. 2, O-SI ABV[^36a-1], l’OSAV calcule chaque année, pour chaque unité d’élevage d’animaux de rente et pour chaque cabinet ou clinique vétérinaire, les données comparatives visées à l’art. 2, al. 1, let. b, ch. 1, O-SI ABV.
+
+<sup>2</sup> Sur la base des données comparatives, il définit des valeurs de signal et d’action. La valeur de signal définit la limite entre une utilisation normale et une utilisation accrue. La valeur d’action définit la limite entre une utilisation accrue et une utilisation excessive.
+
+<sup>3</sup> L’OSAV édicte des directives techniques pour calculer les données comparatives et pour définir les valeurs de signal et d’action.
+
+[^36a-1]: [RS 812.214.4](https://fedlex.data.admin.ch/eli/cc/2018/702)
+
+#### Art. 36b
+
+**Évaluation par les autorités cantonales et premières mesures**
+
+<sup>1</sup> L’autorité cantonale compétente évalue l’utilisation d’antibiotiques des détenteurs d’animaux de rente et des cabinets et cliniques vétérinaires à l’aide des valeurs de signal et d’action fournies par l’OSAV.
+
+<sup>2</sup> Elle informe les détenteurs d’animaux de rente et les cabinets et cliniques vétérinaires dont les données comparatives dépassent la valeur de signal.
+
+#### Art. 36c
+
+**Mesures en cas de dépassement répété de la valeur d’action**
+
+<sup>1</sup>
+
+L’autorité cantonale compétente informe les détenteurs d’animaux de rente et les cabinets et cliniques vétérinaires dont les données comparatives dépassent la valeur d’action deux fois en trois ans; à leurs frais, ceux-ci doivent:
+
+- a. clarifier les causes de l’utilisation accrue d’antibiotiques, et
+- b. rédiger et mettre en œuvre un plan de mesures pour réduire l’utilisation d’antibiotiques.
+
+<sup>2</sup> Pour ce faire, les détenteurs d’animaux de rente font appel à un vétérinaire ou un service de santé animale.
+
+<sup>3</sup> L’autorité cantonale compétente peut prolonger la période de trois ans dans des cas dûment justifiés, notamment pour les cabinets et cliniques vétérinaires spécialisés dans les types de détention sensibles ou pour les exploitations d’animaux de rente dans lesquelles les conditions sont particulières.
+
+#### Art. 36d
+
+**Autres mesures**
+
+<sup>1</sup>
+
+Si les données comparatives dépassent à nouveau la valeur d’action dans les deux ans suivant la mise en œuvre des mesures visées à l’art. 36*c*, l’autorité cantonale compétente ordonne, aux frais du destinataire, les mesures nécessaires pour réduire l’utilisation d’antibiotiques, notamment:
+
+- a.
+
+  vis-à-vis des détenteurs d’animaux de rente:
+
+  - 1\. l’appel à un vétérinaire spécifique ou un service de santé animale, notamment pour l’évaluation et le suivi de la mise en œuvre du plan de mesures visé à l’art. 36*c*, al. 1, let. b,
+  - 2\. des charges relatives à la détention des animaux de rente, notamment pour l’alimentation, l’hygiène, l’engraissement, la densité d’animaux, l’équipement et l’aménagement des locaux de stabulation, ainsi que d’autres mesures prophylactiques,
+  - 3\. la charge selon laquelle les antibiotiques peuvent être utilisés seulement par un vétérinaire pour une période définie,
+  - 4\. la participation à des cours de formation continue;
+
+- b.
+
+  vis-à-vis des cabinets et cliniques vétérinaires:
+
+  - 1\. l’appel à un expert, notamment pour l’évaluation et le suivi de la mise en œuvre du plan de mesures visé à l’art. 36*c*, al. 1, let b,
+  - 2\. la participation à des cours de formation continue,
+  - 3\. la limitation de l’obtention et de la remise d’antibiotiques.
+
+<sup>2</sup> L’autorité cantonale compétente peut prolonger la période de deux ans dans des cas dûment justifiés, notamment pour les cabinets et cliniques vétérinaires spécialisés dans les types de détention sensibles ou pour les exploitations d’animaux de rente dans lesquelles les conditions sont particulières.
 
 ## Chapitre 6 Dispositions finales
 
@@ -819,6 +1075,18 @@ Les principes actifs qui étaient inscrits dans l’ancien droit aux listes a et
 
 [^39b-1]: Introduit par l’annexe ch. 2 de l’O du 16 déc. 2016 sur les denrées alimentaires et les objets usuels, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)).
 
+#### Art. 39c
+
+**Dispositions transitoires concernant la modification du 3 juin 2022**[^39c-1]
+
+<sup>1</sup> Les autorisations pour l’importation de médicaments délivrées par Swissmedic avant l’entrée en vigueur de la modification du 3 juin 2022 sont valables jusqu’à leur expiration.
+
+<sup>2</sup> Les demandes d’autorisation pour l’importation de médicaments déposées auprès de Swissmedic le 31 août 2022 au plus tard sont évaluées selon l’ancien droit.
+
+<sup>3</sup> Les valeurs de signal et d’action visées à l’art. 36*a*, al. 2, sont fixées pour la première fois pour 2023, sur la base des données comparatives de 2022 visées à l’art. 36*a*, al. 1.
+
+[^39c-1]: Introduit par le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+
 #### Art. 40
 
 **Entrée en vigueur**
@@ -833,26 +1101,45 @@ Les principes actifs qui étaient inscrits dans l’ancien droit aux listes a et
 
 Annexe 1*[^t-1]*
 
-(art. 10, al. 2)
+(art. 10, al. 4)
 
-## Conditions préalables à la remise de médicaments vétérinaires dans le cadre d’une convention Médvét
+## Critères d’évaluation, fréquence des visites et contenu de la convention Médvét
 
-[^t-1]: Mise à jour par le ch. II de l’O du 11 mars 2016, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
+[^t-1]: Mise à jour par le ch. II de l’O du 11 mars 2016 ([RO 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)) et du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
 ### 1 Critères d’évaluation
 
-Lors de chaque visite de l’exploitation, le vétérinaire ayant conclu une convention Médvét doit, pour chaque espèce animale, vérifier et documenter par écrit:
+<sup>1</sup> Le vétérinaire qui visite une exploitation dans le cadre d’une convention Médvét doit, lors de chaque visite, pour chaque espèce animale, vérifier et documenter par écrit:
 
 - a. l’état de santé du cheptel;
 - b. les problèmes sanitaires constatés depuis la dernière visite ainsi que les traitements consécutifs et les contrôles ultérieurs;
 - c. les indications établies depuis la dernière visite pour des mesures prophylactiques ou thérapeutiques;
-- d. les données relatives à l’utilisation des médicaments vétérinaires et au stockage sur site des médicaments vétérinaires.
+- d. les données relatives à l’utilisation des médicaments vétérinaires et au stockage des médicaments vétérinaires remis dans le cadre de la convention Médvét.
+
+<sup>2</sup> Il doit vérifier au moins tous les deux ans l’utilisation correcte des médicaments visés à l’art. 8, al. 2, lorsqu’ils sont remis pour la castration des porcelets, notamment la qualité de l’anesthésie et la sécurité de l’utilisation.
 
 ### 2 Fréquence des visites des exploitations
 
-<sup>1</sup> Chaque exploitation doit être visitée entre une et quatre fois par an en fonction des risques.
+<sup>1</sup> En fonction de la catégorie de l’exploitation, le vétérinaire d’exploitation effectue chaque année le nombre suivant de visites d’exploitation:
 
-<sup>2</sup> L’OSAV fixe les catégories de risques selon des critères uniformes. Le vétérinaire compétent classe l’exploitation dans une des catégories lors de la conclusion d’une convention Médvét.
+<table>
+<tr><th>Espèce/catégorie animale</th><th>Type de production</th><th>Nombre de places</th><th>Prophylaxie antibiotique à la mise en place</th><th>Nombre de visites</th></tr>
+<tr><td>**Porcs**</td><td>Élevage de porcelets</td><td>≥ 200</td><td></td><td>min. 2 visites / an</td></tr>
+<tr><td></td><td>Truies</td><td>≥ 50</td><td></td><td>min. 2 visites / an</td></tr>
+<tr><td></td><td></td><td>≥ 100</td><td>non</td><td>si possible à chaque mise en place, min. 2 visites / an</td></tr>
+<tr><td></td><td>Porcs d’engraissement</td><td>≥ 100</td><td>oui</td><td>si possible à chaque mise en place, à partir de &gt; 4 mises en place / an, min. 4 visites réparties sur toute l’année pour différents groupes mis en place</td></tr>
+<tr><td>**Veaux**</td><td>Veaux d’engraissement</td><td>≥ 25</td><td>non</td><td>si possible à chaque mise en place, min. 2 visites / an</td></tr>
+<tr><td></td><td></td><td>≥ 25</td><td>oui</td><td>si possible à chaque mise en place, à partir de &gt; 4 mises en place / an, min. 4 visites réparties sur toute l’année pour différents groupes mis en place</td></tr>
+<tr><td>**Autres bovins et porcs**</td><td></td><td></td><td></td><td>min. 1 visite / an</td></tr>
+<tr><td>**Volailles** (poulets de chair, poules pondeuses)</td><td></td><td></td><td></td><td>min. 1 visite / an</td></tr>
+<tr><td>**Petits** **ruminants**</td><td></td><td></td><td></td><td>min. 1 visite / an</td></tr>
+<tr><td>**Animaux sauvages**</td><td></td><td></td><td></td><td>min. 1 visite / an</td></tr>
+<tr><td>**Poissons**</td><td></td><td></td><td></td><td>min. 1 visite / an</td></tr>
+<tr><td>**Lapins**</td><td></td><td></td><td></td><td>min. 1 visite / an</td></tr>
+<tr><td>**Autres**</td><td></td><td></td><td></td><td>min. 1 visite / an</td></tr>
+</table>
+
+<sup>2</sup> …
 
 <sup>3</sup> Les visites des exploitations doivent être judicieusement réparties sur toute l’année. Dans la mesure du possible, elles doivent être opérées lors des visites du cheptel effectuées pour raisons médicales. Dans les exploitations d’animaux à l’engrais fonctionnant par rotation, les visites doivent être réparties en fonction des rotations.
 
@@ -861,6 +1148,8 @@ Lors de chaque visite de l’exploitation, le vétérinaire ayant conclu une con
 <sup>1</sup> La convention Médvét doit être conclue pour une durée d’au moins un an.
 
 <sup>2</sup> Le vétérinaire doit veiller à ce qu’un service d’urgence soit garanti en permanence et doit en principe avoir son siège dans la région du détenteur d’animaux de rente.
+
+<sup>3</sup> La convention Médvét doit indiquer la catégorie de l’exploitation pour définir la fréquence des visites.
 
 ### 4 Obligation d’archiver
 

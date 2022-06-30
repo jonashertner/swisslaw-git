@@ -4,11 +4,11 @@ title: "Ordinanza del 18 agosto 2004 sui medicamenti per uso veterinario (Ordina
 short: OMvet
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/592"
 language: it
-version: 2022-06-01
+version: 2022-07-01
 adopted: 2004-08-18
 in_force: 2004-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/592/20220601/it/xml/fedlex-data-admin-ch-eli-cc-2004-592-20220601-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/592/20220601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/592/20220701/it/xml/fedlex-data-admin-ch-eli-cc-2004-592-20220701-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/592/20220701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,17 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/592/20220601/it"
 
 (Ordinanza sui medicamenti veterinari, OMVet)
 
-del 18 agosto 2004 (Stato 1° giugno 2022)
+del 18 agosto 2004 (Stato 1° luglio 2022) (Stato 1° luglio 2022)
 
 Il Consiglio federale svizzero,
 
-visti gli articoli 5 capoverso 2 lettera b, 42 capoverso 3, 42*a*, 44 e 82 capoverso 2 della legge del 15 dicembre 2000[^ingress-1] sugli agenti terapeutici (LATer); visto l’articolo 20 della legge del 20 giugno 2014[^ingress-2] sulle derrate alimentari,[^ingress-3]
+visti gli articoli 5 capoverso 2 lettera b, 20 capoverso 2 lettera b, 42 capoverso 3, 42*a*, 44 e 82 capoverso 2 della legge del 15 dicembre 2000[^ingress-1] sugli agenti terapeutici (LATer); visti gli articoli 10 capoverso 3 e 20 capoverso 1 della legge del 20 giugno 2014[^ingress-2] sulle derrate alimentari,[^ingress-3]
 
 ordina:
 
 [^ingress-1]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
 [^ingress-2]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^ingress-3]: Nuovo testo giusta il n. I 3 dell’O del 12 gen. 2022 concernente gli adeguamenti al nuovo diritto UE sui medicamenti veterinari, in vigore dal 28 gen. 2022 ([RU 2022 16](https://fedlex.data.admin.ch/eli/oc/2022/16)).
+[^ingress-3]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
 ## Capitolo 1: Disposizioni generali
 
@@ -63,33 +63,37 @@ La presente ordinanza disciplina:
 
 <sup>1</sup>
 
-Ai sensi della presente ordinanza si intende per:
+Ai sensi della presente ordinanza, si intende per:
 
-- a.[^3-1] *animali da reddito:* animali delle specie che possono essere utilizzate per produrre derrate alimentari secondo la legislazione sulle derrate alimentari, come pure le api;
-- b.
+- a.[^3-1] *animali da reddito*: animali delle specie che possono essere utilizzate per produrre derrate alimentari secondo la legislazione sulle derrate alimentari oppure per la produzione di alimenti per animali secondo la legislazione sulle epizoozie, come pure le api;
+- b.[^3-2]
 
-  *animali domestici:*
+  *animali da compagnia:*
 
-  - 1\. animali di specie non ammesse per la produzione di derrate alimentari,
-  - 2\. animali delle seguenti specie sempre che non servano alla produzione di derrate alimentari e siano tenuti o destinati a essere tenuti nell’ambiente domestico nell’interesse dell’animale o per compagnia: equidi, volatili domestici, conigli domestici, selvaggina tenuta in cattività, rane, rettili d’allevamento, pesci, crostacei, molluschi ed echinodermi.[^3-2]
+  - 1\. animali di specie non ammesse per la produzione di derrate alimentari o di alimenti per animali,
+  - 2\. animali delle seguenti specie, sempre che non servano alla produzione di derrate alimentari o di alimenti per animali e siano tenuti o destinati a essere tenuti nell’ambiente domestico nell’interesse dell’animale o per compagnia: equidi, volatili domestici, conigli domestici, selvaggina tenuta in cattività, rane, rettili d’allevamento, pesci, crostacei, molluschi, echinodermi e insetti tranne le api;
 
 - c.[^3-3] *...*
 - d.[^3-4]
 
-  *terapia di gruppo per via orale:* trattamento di un gruppo di animali con una premiscela di medicamenti aggiunta al foraggio o con un foraggio medicinale. Il valore di riferimento per un gruppo è di:
+  *terapia di gruppo per via orale:* trattamento di un gruppo di animali con una premiscela di medicamenti aggiunta al mangime o con un mangime medicato, laddove per un gruppo valgono i seguenti numeri di animali:
 
-  - 1\. almeno 10 animali per i vitelli,
-  - 2\. almeno 20 animali per i suini,
-  - 3\. almeno 50 animali per i polli;
+  - 1\. almeno 20 animali per i suini,
+  - 2\. almeno 10 animali per gli animali ad unghia fessa, esclusi i suini,
+  - 3\. almeno 50 animali per il pollame,
+  - 4\. almeno 50 animali per i conigli,
+  - 5\. almeno 10 animali per i pesci,
+  - 6\. almeno 10 colonie per le api,
+  - 7\. almeno 10 animali per altre specie;
 
 - e.[^3-5] *profilassi:* trattamento di un animale o di un gruppo di animali prima che insorgano i segni clinici di una malattia, al fine di impedire l’insorgenza della malattia.
 
 <sup>2</sup> Sono inoltre applicabili le definizioni di cui all’articolo 2 dell’ordinanza del 14 novembre 2018[^3-6] sull’autorizzazione dei medicamenti.
 
-[^3-1]: Nuovo testo giusta l’all. 2 n. II 1 dell’O del 23 nov. 2005 sulle derrate alimentari e gli oggetti d’uso, in vigore dal 1° gen. 2006 ([RU 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746)).
-[^3-2]: Nuovo testo giusta il n. I dell’O del 12 mag. 2010, in vigore dal 1° gen. 2011 ([RU 2010 2311](https://fedlex.data.admin.ch/eli/oc/2010/332)).
+[^3-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^3-2]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 [^3-3]: Introdotta dal n. I dell’O dell’11 mar. 2016 ([RU 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)). Abrogata dall’art. 20 n. 1 dell’O del 31 ott. 2018 concernente il sistema d’informazione sugli antibiotici nella medicina veterinaria, con effetto dal 1° gen. 2019 ([RU 2018 4353](https://fedlex.data.admin.ch/eli/oc/2018/702)).
-[^3-4]: Introdotta dal n. I dell’O dell’11 mar. 2016, in vigore dal 1° apr. 2016 ([RU 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
+[^3-4]: Introdotta dal n. I dell’O dell’11 mar. 2016 ([RU 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)). Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 [^3-5]: Introdotta dal n. I dell’O dell’11 mar. 2016, in vigore dal 1° apr. 2016 ([RU 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
 [^3-6]: [RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786). Il rimando è stato adeguato in applicazione dell'art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)**)** con effetto dal 1° gen. 2019.
 
@@ -101,11 +105,13 @@ Ai sensi della presente ordinanza si intende per:
 
 **Etichetta supplementare**
 
-Chi dispensa medicamenti veterinari per i quali vige l’obbligo di tenere un registro (art. 26) deve apporre su ogni imballaggio del medicamento veterinario dispensato, oltre all’etichetta originale, un’etichetta supplementare contenente almeno le seguenti indicazioni:
+Chi dispensa medicamenti veterinari per i quali vige l’obbligo di tenere un registro ai sensi dell’articolo 26 lettere a–e deve apporre su ogni imballaggio del medicamento veterinario dispensato, oltre all’etichetta originale, un’etichetta supplementare contenente almeno le seguenti indicazioni:[^4-1]
 
 - a. nome e indirizzo della persona, dello studio o della farmacia che dispensa il medicamento veterinario;
 - b. data della dispensazione;
 - c. nome del detentore di animali.
+
+[^4-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
 #### Art. 5
 
@@ -113,7 +119,7 @@ Chi dispensa medicamenti veterinari per i quali vige l’obbligo di tenere un re
 
 <sup>1</sup>
 
-Il veterinario deve redigere per ogni medicamento veterinario di cui all’articolo 26 da lui prescritto o dispensato un’istruzione per l’uso conformemente. Quest’ultima comprende:
+Chi dispensa medicamenti veterinari per i quali vige l’obbligo di tenere un registro ai sensi dell’articolo 26 lettere a–e, al momento della dispensazione deve redigere un’istruzione per l’uso. Quest’ultima comprende:[^5-1]
 
 - a. la designazione dell’animale o del gruppo di animali da trattare;
 - b. l’indicazione;
@@ -126,18 +132,28 @@ Il veterinario deve redigere per ogni medicamento veterinario di cui all’artic
 
 <sup>3</sup> Per trattamenti di lunga durata, l’istruzione per l’uso dev’essere sempre consegnata per scritto.
 
+[^5-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+
 #### Art. 6
 
 **Cambiamento di destinazione di medicamenti omologati**
 
-<sup>1</sup> Se, per il trattamento di una malattia, non è stato omologato alcun medicamento veterinario, il veterinario può prescrivere, dispensare o utilizzare un medicamento veterinario, omologato per la stessa specie animale di destinazione ma per un’altra indicazione, nello stesso dosaggio previsto per l’indicazione ammessa.[^6-1]
+<sup>1</sup>
+
+Il veterinario può prescrivere, dispensare o utilizzare un medicamento veterinario, omologato per la stessa specie animale di destinazione ma per un’altra indicazione, nello stesso dosaggio previsto per l’indicazione ammessa (cambiamento di destinazione) se:
+
+- a. per il trattamento di una malattia non è omologato né disponibile nessun medicamento veterinario;
+- b. l’utilizzo del medicamento veterinario omologato nel caso specifico non è possibile a causa della composizione o della forma di somministrazione (galenica); oppure
+- c. sussistono dubbi concernenti lo sviluppo di resistenze.[^6-1]
 
 <sup>2</sup>
 
 Se un simile medicamento veterinario non è disponibile, il veterinario può prescrivere, dispensare o utilizzare nella successione seguente:
 
-- a. un medicamento veterinario omologato dall’Istituto svizzero per gli agenti terapeutici (Istituto) per un’altra specie animale di destinazione;
-- b. un medicamento per uso umano omologato dall’Istituto.[^6-2]
+- a. un medicamento veterinario omologato dall’Istituto svizzero per gli agenti terapeutici (Swissmedic[^6-2]) per un’altra specie animale di destinazione;
+- b. un medicamento per uso umano omologato da Swissmedic.[^6-3]
+
+<sup>2bis</sup> Se un cambiamento di destinazione secondo il capoverso 1 non è possibile nel caso specifico a causa di motivi galenici oppure se sussistono dubbi concernenti lo sviluppo di resistenze, può essere prescritto, dispensato o utilizzato il medicamento successivo secondo la successione indicata al capoverso 2.[^6-4]
 
 <sup>3</sup> I medicamenti omeopatici, antroposofici e fitoterapeutici omologati possono essere utilizzati anche per una diversa destinazione, se un medicamento è omologato per l’indicazione o la specie animale da trattare.
 
@@ -145,50 +161,185 @@ Se un simile medicamento veterinario non è disponibile, il veterinario può pre
 
 <sup>5</sup> È fatto salvo l’articolo 12.
 
-<sup>6</sup> Per motivi di sicurezza del medicamento o della derrata alimentare, il Dipartimento federale dell’interno (DFI) può escludere un medicamento omologato con procedura semplificata o singole sostanze attive dal cambiamento di destinazione.[^6-3]
+<sup>6</sup> Per motivi di sicurezza del medicamento o della derrata alimentare, il Dipartimento federale dell’interno (DFI) può escludere un medicamento omologato con procedura semplificata o singole sostanze attive dal cambiamento di destinazione.[^6-5]
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del 24 mar. 2010, in vigore dal 15 apr. 2010 ([RU 2010 1299](https://fedlex.data.admin.ch/eli/oc/2010/188)).
-[^6-2]: Nuovo testo giusta il n. I dell’O del 24 mar. 2010, in vigore dal 15 apr. 2010 ([RU 2010 1299](https://fedlex.data.admin.ch/eli/oc/2010/188)).
-[^6-3]: Introdotto dal n. I dell’O del 24 mar. 2010 ([RU 2010 1299](https://fedlex.data.admin.ch/eli/oc/2010/188)). Nuovo testo giusta il n. I dell’O dell’11 mar. 2016, in vigore dal 1° apr. 2016 ([RU 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
+[^6-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^6-2]: Nuova espr. giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^6-3]: Nuovo testo giusta il n. I dell’O del 24 mar. 2010, in vigore dal 15 apr. 2010 ([RU 2010 1299](https://fedlex.data.admin.ch/eli/oc/2010/188)).
+[^6-4]: Introdotto dal n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^6-5]: Introdotto dal n. I dell’O del 24 mar. 2010 ([RU 2010 1299](https://fedlex.data.admin.ch/eli/oc/2010/188)). Nuovo testo giusta il n. I dell’O dell’11 mar. 2016, in vigore dal 1° apr. 2016 ([RU 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
 
 #### Art. 7
 
-**Importazione di medicamenti veterinari da parte di operatori sanitari**
+**Importazione di medicamenti con omologazione in un Paese con un sistema di controllo equivalente dei medicamenti**[^7-1]
 
 <sup>1</sup>
 
-Un operatore sanitario può importare medicamenti per animali pronti per l’uso che non sono omologati in Svizzera solo con l’autorizzazione dell’Istituto. L’autorizzazione concerne al massimo la quantità di un fabbisogno annuo per l’approvvigionamento della propria clientela e viene rilasciata solo se:
+I veterinari che dispongono di un’autorizzazione alla dispensazione rilasciata dal Cantone competente possono importare medicamenti per animali da reddito e per animali da compagnia pronti per l’uso e omologati in un Paese con un sistema di controllo equivalente dei medicamenti per animali da reddito o da compagnia al massimo nella quantità di un fabbisogno annuo per l’approvvigionamento degli animali della propria clientela se:
 
-- a. non è omologato o non esiste alcun medicamento alternativo o alcun medicamento equivalente a livello medico;
-- b. il medicamento è omologato da uno Stato con un sistema di omologazione equivalente riconosciuto dall’Istituto;
-- c. questa omologazione si riferisce all’indicazione corrispondente; e
-- d. l’Istituto non ha sostanziali dubbi giustificati in merito alla sicurezza del medicamento e, nel caso dei medicamenti per gli animali da reddito, alla sicurezza delle derrate alimentari.[^7-1]
+- a. in Svizzera non è omologato o non esiste alcun medicamento veterinario alternativo; e
+- b. l’omologazione si riferisce alla relativa specie di destinazione e indicazione.
 
-<sup>2</sup> Un operatore sanitario che dispone di un’autorizzazione per il commercio al dettaglio rilasciata dal Cantone competente può importare senza autorizzazione medicamenti in piccole quantità, per il trattamento di un animale domestico o di un gruppo di animali domestici, purché questi medicamenti siano omologati in un Paese con un controllo equivalente dei medicamenti e in Svizzera non sia omologato un medicamento alternativo. L’operatore sanitario responsabile dell’importazione tiene un registro a questo riguardo.
+<sup>2</sup>
 
-<sup>3</sup> L’importazione di medicamenti immunologici, ad eccezione degli allergeni, necessita di un’autorizzazione dell’Ufficio federale della sicurezza alimentare e di veterinaria (USAV).[^7-2]
+Essi trasmettono all’Ufficio federale della sicurezza alimentare e di veterinaria (USAV) prima dell’importazione dei medicamenti veterinari le seguenti indicazioni:
 
-<sup>4</sup> L’importazione di medicamenti non omologati che contengono organismi geneticamente modificati è vietata.
+- a. il nome e i dati di contatto dello studio veterinario o della clinica veterinaria e il nome e cognome della persona che effettua l’ordine;
+- b. la denominazione, il formato e l’indicazione principale del medicamento veterinario;
+- c. la quantità del medicamento veterinario importato;
+- d. il Paese in cui il medicamento veterinario è omologato e il relativo numero di omologazione;
+- e. il motivo dell’importazione;
+- f. il numero di omologazione svizzero in caso di indisponibilità del medicamento veterinario in Svizzera;
+- g. la specie animale di destinazione: animale da compagnia o animale da reddito.
 
-<sup>5</sup> Un operatore sanitario, attivo in Svizzera in virtù di un disciplinamento internazionale, può utilizzare o dispensare medicamenti solo nel rispetto della presente ordinanza. Se è autorizzato da un trattato internazionale[^7-3], detto operatore può utilizzare o dispensare solo medicamenti omologati nel suo Paese d’origine o in Svizzera e solo nell’ambito di una visita dell’effettivo (art. 10 cpv. 1).
+<sup>3</sup> Se si importa un medicamento veterinario contenente uno stupefacente, deve essere allegata la notifica dell’autorizzazione di importazione secondo la legislazione sugli stupefacenti.
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del 24 mar. 2010, in vigore dal 15 apr. 2010 ([RU 2010 1299](https://fedlex.data.admin.ch/eli/oc/2010/188)).
-[^7-2]: Nuovo testo giusta l’all. 8 n. II 4 dell’O del 14 nov. 2018 sull’autorizzazione dei medicamenti, in vigore dal 1° gen. 2019 ([RU 2018 5029](https://fedlex.data.admin.ch/eli/oc/2018/786)).
-[^7-3]: [RS 0.811.119.136](https://fedlex.data.admin.ch/eli/cc/7/446_402_446),[0.811.119.163](https://fedlex.data.admin.ch/eli/cc/9/220_178_220),[0.811.119.349](https://fedlex.data.admin.ch/eli/cc/11/180_167_180),[0.811.119.454.1](https://fedlex.data.admin.ch/eli/cc/10/724_649_724)
+<sup>4</sup>
+
+In deroga ai capoversi 1 e 2, i veterinari necessitano di un’autorizzazione dell’USAV per l’importazione dei seguenti medicamenti con omologazione in un Paese con un sistema di controllo equivalente dei medicamenti per animali da reddito o da compagnia:
+
+- a. medicamenti veterinari che contengono sostanze attive di cui all’allegato 5;
+- b. medicamenti veterinari che contengono sostanze attive antimicrobiche, che in Svizzera sono contenute in medicamenti non omologati;
+- c. medicamenti veterinari immunologici, ad eccezione degli allergeni;
+- d. medicamenti per le api.
+
+<sup>5</sup>
+
+L’autorizzazione è rilasciata se:
+
+- a. in Svizzera non è omologato o non esiste alcun medicamento alternativo;
+- b. l’omologazione si riferisce alla specie animale di destinazione e all’indicazione corrispondenti;
+- c. vi è una particolare necessità medica; e
+- d. non vi sono dubbi sostanziali in merito alla sicurezza per gli esseri umani, gli animali e l’ambiente nonché, nel caso dei medicamenti per animali da reddito, in merito alla sicurezza alimentare.
+
+[^7-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+
+#### Art. 7a
+
+**Importazione di medicamenti con omologazione in un Paese senza un sistema di controllo equivalente dei medicamenti**[^7a-1]
+
+<sup>1</sup> Per l’importazione di medicamenti pronti all’uso per animali da reddito e animali da compagnia con omologazione in un Paese senza un sistema di controllo equivalente dei medicamenti per animali da reddito o da compagnia, i veterinari necessitano di un’autorizzazione dell’USAV.
+
+<sup>2</sup>
+
+L’autorizzazione è rilasciata se:
+
+- a. in Svizzera non è omologato o non esiste alcun medicamento alternativo;
+- b. non può essere importato nessun medicamento veterinario di cui all’articolo 7;
+- c. l’omologazione si riferisce alla specie animale di destinazione e all’indicazione corrispondenti;
+- d. vi è una particolare necessità medica; e
+- e. non vi sono dubbi sostanziali in merito alla sicurezza per gli esseri umani, gli animali e l’ambiente nonché, nel caso dei medicamenti per animali da reddito, in merito alla sicurezza alimentare.
+
+<sup>3</sup> È vietata l’importazione di medicamenti pronti all’uso per animali da reddito e animali da compagnia con omologazione in un Paese senza un sistema di controllo equivalente dei medicamenti per animali da reddito o da compagnia e contenenti le sostanze attive di cui all’allegato 5.
+
+[^7a-1]: Introdotto dal n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+
+#### Art. 7b
+
+**Cambiamento destinazione di medicamenti importati**[^7b-1]
+
+<sup>1</sup> Per l’importazione di medicamenti per il cambiamento di destinazione, i veterinari necessitano di un’autorizzazione dell’USAV.
+
+<sup>2</sup>
+
+L’autorizzazione è rilasciata se:
+
+- a. sono soddisfatti i requisiti di cui all’articolo 7*a* capoverso 2 lettere a, b, d ed e;
+- b. non è possibile il cambiamento di destinazione di un medicamento omologato in Svizzera; e
+- c. sono rispettati per analogia i requisiti per il cambiamento di destinazione di cui all’articolo 6 e, per i medicamenti veterinari per animali da reddito, all’articolo 12.
+
+[^7b-1]: Introdotto dal n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+
+#### Art. 7c
+
+**Importazione e dispensazione di medicamenti da parte di veterinari esteri**[^7c-1]
+
+<sup>1</sup> I veterinari esteri che operano in Svizzera in virtù di un trattato internazionale[^7c-2], se autorizzati in virtù di tale trattato, possono utilizzare o dispensare nell’ambito della presente ordinanza, oltre ai medicamenti veterinari omologati in Svizzera, anche medicamenti veterinari omologati nel loro Paese di provenienza. L’importazione di tali medicamenti si basa sull’articolo 20 OAMed[^7c-3].
+
+<sup>2</sup> Nell’ambito di una convenzione Mvet, possono essere dispensati per la scorta medicamenti omologati in Svizzera.
+
+<sup>3</sup> I medicamenti omologati nel Paese di provenienza possono essere dispensati per la scorta solo se importati con una notifica o un’autorizzazione secondo gli articoli 7‒7*b*.
+
+[^7c-1]: Introdotto dal n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^7c-2]: [RS 0.811.119.136](https://fedlex.data.admin.ch/eli/cc/7/446_402_446), [0.811.119.163](https://fedlex.data.admin.ch/eli/cc/9/220_178_220), [0.811.119.349](https://fedlex.data.admin.ch/eli/cc/11/180_167_180), [0.811.119.454.1](https://fedlex.data.admin.ch/eli/cc/10/724_649_724), [0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^7c-3]: [RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)
+
+#### Art. 7d
+
+**Divieto di importazione di medicamenti**[^7d-1]
+
+L’importazione di medicamenti non omologati che contengono organismi geneticamente modificati è vietata.
+
+[^7d-1]: Introdotto dal n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+
+#### Art. 7e
+
+**Notifiche e autorizzazioni per l’importazione di medicamenti veterinari**[^7e-1]
+
+<sup>1</sup> L’USAV mette a disposizione un modulo elettronico per la notifica di importazione dei medicamenti e per le domande di autorizzazione all’importazione di medicamenti.
+
+<sup>2</sup> I dati relativi allo studio veterinario o alla clinica veterinaria vengono confrontati elettronicamente con i dati del sistema d’informazione sugli antibiotici nella medicina veterinaria (SI AMV) secondo l’ordinanza del 31 ottobre 2018[^7e-2] concernente il sistema d’informazione sugli antibiotici nella medicina veterinaria (O-SIAMV).
+
+<sup>3</sup> Le notifiche e le autorizzazioni vengono registrate nel sistema d’informazione per i dati del servizio veterinario pubblico raccolti nell’ambito dell’esecuzione (ASAN) secondo l’ordinanza del 27 aprile 2022[^7e-3] concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare.
+
+<sup>4</sup> L’USAV mette a disposizione di Swissmedic e dell’Ufficio federale della dogana e della sicurezza dei confini (UDSC) i dati delle notifiche e delle autorizzazioni necessari all’adempimento dei loro compiti.
+
+<sup>5</sup> Se l’UDSC al confine oppure i Cantoni nell’ambito dei controlli in Svizzera rilevano medicamenti importati senza notifica o senza autorizzazione dell’USAV, ne informano Swissmedic.
+
+[^7e-1]: Introdotto dal n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^7e-2]: [RS 812.214.4](https://fedlex.data.admin.ch/eli/cc/2018/702)
+[^7e-3]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
 
 #### Art. 8
 
-**Restrizioni nella dispensazione**
+**Restrizioni per l’utilizzo e la dispensazione[^8-1]**
 
 <sup>1</sup> Per le vaccinazioni che devono essere confermate da un certificato veterinario, i vaccini possono essere somministrati esclusivamente in presenza del veterinario.
 
-<sup>2</sup> I medicamenti veterinari utilizzati a scopo anestetico per la decornazione o la castrazione possono essere dispensati solo ai detentori di animali titolari di un attestato di competenza di cui all’articolo 32 capoverso 2 dell’ordinanza del 23 aprile 2008[^8-1] sulla protezione degli animali.[^8-2]
+<sup>2</sup> I medicamenti veterinari utilizzati a scopo anestetico per la decornazione o la castrazione possono essere dispensati solo ai detentori di animali titolari di un attestato di competenza di cui all’articolo 32 capoverso 2 dell’ordinanza del 23 aprile 2008[^8-2] sulla protezione degli animali.[^8-3]
 
-<sup>3</sup> I medicamenti considerati sostanze stupefacenti non possono essere dispensati per animali da reddito.[^8-3] Sono fatti salvi medicamenti veterinari, omologati specificatamente dall’Istituto per le indicazioni menzionate nel capoverso 2.
+<sup>3</sup> I medicamenti considerati sostanze stupefacenti non possono essere dispensati per animali da reddito. È fatta salva la dispensazione per una telesedazione immediata di selvaggina tenuta in parchi e allo stato libero.[^8-4]
 
-[^8-1]: [RS 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
-[^8-2]: Nuovo testo giusta l’all. 6 n. II 5 dell’O del 23 apr. 2008 sulla protezione degli animali, in vigore dal 1° set. 2008 ([RU 2008 2985](https://fedlex.data.admin.ch/eli/oc/2008/416)).
-[^8-3]: Nuovo testo giusta l’all. 2 n. II 1 dell’O del 23 nov. 2005 sulle derrate alimentari e gli oggetti d’uso, in vigore dal 1° gen. 2006 ([RU 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746)).
+<sup>4</sup> Gli antibiotici non possono essere prescritti, dispensati o utilizzati abitudinariamente per compensare carenze di igiene, condizioni di detenzione o di accudimento inadeguate o una gestione aziendale insufficiente.[^8-5]
+
+[^8-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^8-2]: [RS 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
+[^8-3]: Nuovo testo giusta l’all. 6 n. II 5 dell’O del 23 apr. 2008 sulla protezione degli animali, in vigore dal 1° set. 2008 ([RU 2008 2985](https://fedlex.data.admin.ch/eli/oc/2008/416)).
+[^8-4]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^8-5]: Introdotto dal n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+
+#### Art. 8a
+
+**Confezionamento parziale**[^8a-1]
+
+<sup>1</sup> I medicamenti omologati esclusivamente con confezioni di dimensioni troppo grandi per un determinato trattamento possono essere suddivisi dal veterinario in unità più piccole e dispensati immediatamente, se la stabilità del medicamento lo consente.
+
+<sup>2</sup>
+
+Sulle unità dispensate deve essere apposta un’etichetta contenente le seguenti indicazioni:
+
+- a. la denominazione del medicamento seguita dal dosaggio;
+- b. la denominazione dell’animale o del gruppo di animali da trattare;
+- c. la via di somministrazione;
+- d. la data di scadenza della confezione parziale dopo il primo prelievo;
+- e. il numero di lotto;
+- f. le prescrizioni per la conservazione;
+- g. le indicazioni per la sicurezza o la protezione della salute, incluse particolari misure precauzionali per l’utilizzo e altre avvertenze.
+
+<sup>3</sup>
+
+Per i medicamenti per i quali vige l’obbligo di tenere un registro devono essere presenti sull’etichetta anche le seguenti indicazioni:
+
+- a. il nome e l’indirizzo della persona, dello studio o della farmacia che dispensa il medicamento veterinario;
+- b. la data della dispensazione;
+- c. il nome del detentore di animali;
+- d. l’indicazione;
+- e. il dosaggio e la durata dell’utilizzazione;
+- f. i termini di attesa.
+
+<sup>4</sup> Per i medicamenti con istruzioni per l’uso scritte è possibile rinunciare ad apporre sull’etichetta le indicazioni in esse contenute.
+
+[^8a-1]: Introdotto dal n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
 #### Art. 9
 
@@ -200,7 +351,7 @@ Un operatore sanitario può importare medicamenti per animali pronti per l’uso
 
 <sup>3</sup> Gli ispettorati cantonali degli apiari sono autorizzati anche a dispensare medicamenti.
 
-<sup>4</sup> L’Istituto stabilisce i medicamenti che possono essere dispensati. ...[^9-4]
+<sup>4</sup> Swissmedic stabilisce i medicamenti che possono essere dispensati. ...[^9-4]
 
 [^9-1]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
 [^9-2]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2014. Di detta mod. è tenuto conto in tutto il presente testo.
@@ -213,15 +364,16 @@ Un operatore sanitario può importare medicamenti per animali pronti per l’uso
 
 **Esame dello stato di salute, convenzione Mvet**
 
-<sup>1</sup> Prima di prescrivere o dispensare un medicamento veterinario per il quale è prescritta la tenuta di un registro (art. 26), i veterinari devono esaminare personalmente lo stato di salute dell’animale da reddito o del gruppo di animali da reddito da trattare (visita dell’effettivo).
+<sup>1</sup> Prima di prescrivere o dispensare un medicamento per il quale vige l’obbligo di tenere un registro secondo l’articolo 26 lettere a–e, i veterinari devono esaminare personalmente lo stato di salute dell’animale da reddito o del gruppo di animali da reddito da trattare (visita dell’effettivo).[^10-1]
 
 <sup>2</sup> I veterinari e gli studi veterinari possono stipulare con il detentore di animali una convenzione scritta relativa a visite regolari all’azienda e al corretto impiego di medicamenti veterinari (convenzione Mvet). In questo caso possono prescrivere o dispensare medicamenti veterinari anche senza una visita preliminare dell’effettivo.
 
-<sup>3</sup> Per ciascuna specie di animali da reddito si può stipulare una sola convenzione Mvet.[^10-1]
+<sup>3</sup> Per ciascuna specie di animali da reddito si può stipulare una sola convenzione Mvet.[^10-2]
 
 <sup>4</sup> I criteri di valutazione, la frequenza delle visite e il contenuto della convenzione Mvet sono disciplinati nell’allegato 1.
 
-[^10-1]: Nuovo testo giusta il n. I dell’O dell’11 mar. 2016, in vigore dal 1° apr. 2016 ([RU 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
+[^10-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^10-2]: Nuovo testo giusta il n. I dell’O dell’11 mar. 2016, in vigore dal 1° apr. 2016 ([RU 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
 
 #### Art. 10a
 
@@ -270,14 +422,14 @@ Un operatore sanitario può importare medicamenti per animali pronti per l’uso
 Se esiste una convenzione Mvet, il veterinario può prescrivere o dispensare per una determinata indicazione medicamenti veterinari in funzione delle dimensioni dell’effettivo, anche per la scorta:
 
 - a.[^11-1] a scopo di profilassi: il fabbisogno per quattro mesi al massimo; fanno eccezione i medicamenti con sostanze attive antimicrobiche;
-- b.[^11-2] per il trattamento di singoli animali: il fabbisogno per tre mesi al massimo; fanno eccezione i medicamenti con sostante attive antimicrobiche di cui all’allegato 5;
+- b.[^11-2] per il trattamento di animali: il fabbisogno per tre mesi al massimo; fanno eccezione i medicamenti con sostanze attive antimicrobiche di cui all’allegato 5;
 - c. a scopo di anestesia in caso di decornazione nelle prime settimane o in caso di castrazione precoce: il fabbisogno per tre mesi al massimo;
 - d. per trattamenti antiparassitari: il fabbisogno per 12 mesi al massimo.
 
 <sup>3</sup> Chi sostituisce la persona o rappresenta lo studio che ha concluso la convenzione Mvet può prescrivere o dispensare medicamenti veterinari solo per l’indicazione data, il trattamento scelto e il seguito del trattamento nonché il numero degli animali da trattare.
 
 [^11-1]: Nuovo testo giusta il n. I dell’O dell’11 mar. 2016, in vigore dal 1° apr. 2016 ([RU 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
-[^11-2]: Nuovo testo giusta il n. I dell’O dell’11 mar. 2016, in vigore dal 1° apr. 2016 ([RU 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
+[^11-2]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
 #### Art. 12
 
@@ -299,13 +451,14 @@ Nel caso di animali da reddito, possono essere utilizzati per una diversa destin
 
 <sup>5</sup> Per gli animali addomesticati della famiglia zoologica delle *Camelidae* e per la selvaggina tenuta in cattività, ammessi per la produzione di derrate alimentari, possono anche essere prescritti o dispensati medicamenti con sostanze attive che non soddisfano i requisiti di cui al capoverso 1.
 
-<sup>6</sup> Nel caso delle api nessun medicamento può essere utilizzato diversamente dalla sua destinazione.
+<sup>6</sup> Nel caso delle api e degli insetti destinati alla produzione di derrate alimentari o di alimenti per animali, nessun medicamento può essere utilizzato diversamente dalla sua destinazione.[^12-6]
 
 [^12-1]: Nuovo testo giusta il n. I dell’O dell’11 mar. 2016, in vigore dal 1° apr. 2016 ([RU 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
 [^12-2]: Nuovo testo giusta l’all. n. 2 dell’O del 16 dic. 2016 sulle derrate alimentari e gli oggetti d’uso, in vigore dal 1° mag. 2017 ([RU 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)).
 [^12-3]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
 [^12-4]: Abrogata dall’all. n. 2 dell’O del 16 dic. 2016 sulle derrate alimentari e gli oggetti d’uso, con effetto dal 1° mag. 2017 ([RU 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)).
 [^12-5]: Regolamento (UE) n. 122/2013 della Commissione, del 12 febbraio 2013, che modifica il regolamento (CE) n. 1950/2006 che istituisce, conformemente alla direttiva 2001/82/CE del Parlamento europeo e del Consiglio recante un codice comunitario relativo ai prodotti medicinali per uso veterinario, un elenco di sostanze essenziali per il trattamento degli equidi, GU L 42 del 13.2.2013, pag. 1.
+[^12-6]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
 #### Art. 13
 
@@ -350,14 +503,15 @@ Per medicamenti omeopatici, antroposofici e fitoterapeutici omologati si può ri
 
 **Medicamenti di cui all’articolo 9 capoverso 2 lettere a–c<sup>bis</sup> LATer**[^14-1]
 
-<sup>1</sup> I medicamenti di cui all’articolo 9 capoverso 2 lettere a–c<sup>bis</sup> LATer possono essere prescritti o dispensati o utilizzati per gli animali da redditto soltanto se nessun medicamento è omologato e nessun medicamento omologato può essere utilizzato diversamente dalla sua destinazione.
+<sup>1</sup> I medicamenti di cui all’articolo 9 capoverso 2 lettere a–c<sup>bis</sup> LATer possono essere prescritti o dispensati o utilizzati per gli animali da reddito soltanto se non esiste nessun medicamento omologato e se nessun medicamento omologato può essere utilizzato diversamente dalla sua destinazione.
 
-<sup>2</sup> Per fabbricare un simile medicamento possono essere prescritte e impiegate unicamente le sostanze attive che figurano nell’allegato 2 oppure che presentano un potenziamento D6 o più. È fatto salvo l’articolo 12 capoverso 3.[^14-2]
+<sup>2</sup> Per fabbricare un simile medicamento possono essere prescritte e impiegate unicamente le sostanze attive che figurano nell’allegato 2 oppure che presentano un potenziamento D6 o più elevato.
 
-<sup>3</sup> Per trattare le api non può essere prescritto, dispensato o utilizzato nessun medicamento di cui all’articolo 9 capoverso 2 lettere a–c<sup>bis</sup> LATer.
+<sup>3</sup> Per la prescrizione e l’utilizzo di sostanze attive per gli animali addomesticati delle famiglie zoologiche Equidae e Camelidae e per la selvaggina tenuta in cattività si applica per analogia l’articolo 12 capoversi 3 e 5. Il termine d’attesa per questi medicamenti è di sei mesi.
 
-[^14-1]: Nuovo testo giusta il n. I dell’O del 24 mar. 2010, in vigore dal 15 apr. 2010 ([RU 2010 1299](https://fedlex.data.admin.ch/eli/oc/2010/188)).
-[^14-2]: Nuovo testo giusta l’all. n. 2 dell’O del 16 dic. 2016 sulle derrate alimentari e gli oggetti d’uso, in vigore dal 1° mag. 2017 ([RU 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)).
+<sup>4</sup> Per trattare le api e gli insetti destinati alla produzione di derrate alimentari o di alimenti per animali, non possono essere prescritti, dispensati né utilizzati i medicamenti di cui all’articolo 9 capoverso 2 lettere a–c<sup>bis</sup> LATer.
+
+[^14-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
 #### Art. 15
 
@@ -365,14 +519,15 @@ Per medicamenti omeopatici, antroposofici e fitoterapeutici omologati si può ri
 
 <sup>1</sup> Un animale della famiglia zoologica degli Equidi è considerato, dalla nascita, un animale da reddito.
 
-<sup>2</sup> Se non è destinato alla produzione di derrate alimentari deve essere designato come animale domestico. Questo scopo d’utilizzo non può più essere modificato.
+<sup>2</sup> Se non è destinato alla produzione di derrate alimentari deve essere designato come animale da compagnia. Questo scopo d’utilizzo non può più essere modificato.[^15-2]
 
-<sup>3</sup> Lo scopo d’utilizzo va iscritto nella banca dati sul traffico di animali e nel passaporto per equide di cui all’articolo 15*c* dell’ordinanza del 27 giugno 1995[^15-2] sulle epizoozie.
+<sup>3</sup> Lo scopo d’utilizzo va iscritto nella banca dati sul traffico di animali e nel passaporto per equide di cui all’articolo 15*c* dell’ordinanza del 27 giugno 1995[^15-3] sulle epizoozie.
 
 <sup>4</sup> Se le indicazioni nel passaporto per equide divergono da quelle nella banca dati sul traffico di animali prevalgono le indicazioni della banca dati sul traffico di animali.
 
 [^15-1]: Nuovo testo giusta il n. I dell’O del 12 mag. 2010, in vigore dal 1° gen. 2011 ([RU 2010 2311](https://fedlex.data.admin.ch/eli/oc/2010/332)).
-[^15-2]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^15-2]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^15-3]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
 
 ### Sezione 3: Fabbricazione di foraggi medicinali nonché dispensazione e somministrazione di foraggi medicinali e premiscele di medicamenti
 
@@ -390,7 +545,7 @@ I foraggi medicinali e le premiscele di medicamenti per la terapia di gruppo per
 
 <sup>1</sup>
 
-Il veterinario responsabile tecnico che prescrive un foraggio medicinale o una premiscela di medicamenti per la terapia di gruppo per via orale deve avvalersi del modulo elettronico della ricetta dell’USAV e fornire in particolare le seguenti indicazioni:
+Il veterinario responsabile tecnico che prescrive un mangime medicato[^16-2] o una premiscela di medicamenti per la terapia di gruppo per via orale deve avvalersi del modulo elettronico della ricetta dell’USAV e fornire in particolare le seguenti indicazioni:
 
 - a. nome e indirizzo del detentore;
 - b. specie e numero degli animali da trattare;
@@ -400,12 +555,17 @@ Il veterinario responsabile tecnico che prescrive un foraggio medicinale o una p
 - f. nome e indirizzo del veterinario responsabile tecnico o dello studio;
 - g. data della prescrizione.
 
+<sup>1bis</sup> La prescrizione di mangime medicato o di premiscele di medicamenti con sostanze attive antimicrobiche per la terapia di gruppo per via orale deve essere effettuata nel SI AMV con il modulo elettronico della ricetta secondo l’O-SIAMV[^16-3]. Anche per la prescrizione di mangime medicato o di premiscele di medicamenti senza sostanze antimicrobiche è possibile utilizzare il modulo elettronico della ricetta nel SI AMV. In questi casi i dati non vengono salvati nel SI AMV.[^16-4]
+
 <sup>2</sup> L’istruzione per l’uso riguardante la terapia di gruppo per via orale deve essere iscritta sul modulo elettronico della ricetta.
 
-<sup>3</sup> Il veterinario responsabile tecnico fornisce la ricetta all’azienda di produzione e al detentore di animali e ne conserva un esemplare nella cartella medica.[^16-2]
+<sup>3</sup> Il veterinario responsabile tecnico fornisce la ricetta all’azienda di produzione e al detentore di animali e ne conserva un esemplare nella cartella medica.[^16-5]
 
 [^16-1]: Nuovo testo giusta il n. I dell’O dell’11 mar. 2016, in vigore dal 1° apr. 2016 ([RU 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
-[^16-2]: Nuovo testo giusta l’art. 20 n. 1 dell’O del 31 ott. 2018 concernente il sistema d’informazione sugli antibiotici nella medicina veterinaria, in vigore dal 1° gen. 2019 ([RU 2018 4353](https://fedlex.data.admin.ch/eli/oc/2018/702)).
+[^16-2]: Nuova espr. giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^16-3]: [RS 812.214.4](https://fedlex.data.admin.ch/eli/cc/2018/702)
+[^16-4]: Introdotto dal n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^16-5]: Nuovo testo giusta l’art. 20 n. 1 dell’O del 31 ott. 2018 concernente il sistema d’informazione sugli antibiotici nella medicina veterinaria, in vigore dal 1° gen. 2019 ([RU 2018 4353](https://fedlex.data.admin.ch/eli/oc/2018/702)).
 
 #### Art. 17
 
@@ -419,9 +579,9 @@ Il veterinario responsabile tecnico che prescrive un foraggio medicinale o una p
 
 #### Art. 18
 
-**Aggiunta di medicamenti veterinari in impianti propri all’azienda**
+**Aggiunta di medicamenti veterinari nelle aziende agricole[^18-1]**
 
-<sup>1</sup> Chi, negli impianti tecnici della propria azienda agricola, aggiunge medicamenti ai foraggi, necessita di un’autorizzazione di fabbricazione dell’Istituto conformemente alle disposizioni dell’ordinanza del 17 ottobre 2001[^18-1] sull’autorizzazione dei medicamenti.[^18-2]
+<sup>1</sup> Chi, negli impianti tecnici della propria azienda agricola, aggiunge medicamenti agli alimenti per animali, necessita di un’autorizzazione di fabbricazione di Swissmedic conformemente alle disposizioni dell’OaMed[^18-2].[^18-3]
 
 <sup>2</sup>
 
@@ -430,22 +590,30 @@ Non necessita di un’autorizzazione di fabbricazione chi, per il proprio effett
 - a. fabbrica al massimo una razione giornaliera per gli animali da trattare;
 - b. aggiunge manualmente nella mangiatoia medicamenti veterinari alla razione.
 
-[^18-1]: [RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)
-[^18-2]: Nuovo testo giusta il n. I dell’O del 24 mar. 2010, in vigore dal 15 apr. 2010 ([RU 2010 1299](https://fedlex.data.admin.ch/eli/oc/2010/188)).
+[^18-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^18-2]: [RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)
+[^18-3]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
 #### Art. 19
 
-**Requisiti posti all’azienda per l’aggiunta e la somministrazione di medicamenti**[^19-1]
+**Requisiti posti all’azienda e convenzione per l’aggiunta e la somministrazione di medicamenti**[^19-1]
 
-Un’azienda agricola, nei cui impianti tecnici sono aggiunti medicamenti ai foraggi o nella quale sono somministrati foraggi medicinali, deve soddisfare i seguenti requisiti:
+<sup>1</sup>
 
-- a. deve stipulare un contratto scritto con un veterinario responsabile tecnico;
+Un’azienda agricola, nei cui impianti tecnici sono aggiunti medicamenti agli alimenti per animali o nella quale è somministrato mangime medicato, deve soddisfare i seguenti requisiti:
+
+- a. deve stipulare una convenzione scritta con un veterinario responsabile tecnico;
 - b. deve disporre di impianti adeguati;
 - c. deve utilizzare solo una premiscela di medicamenti che, secondo l’informazione sui medicamenti veterinari, sia adatta quale aggiunta nel processo di lavorazione previsto;
 - d. deve registrare in un sistema di documentazione le istruzioni di lavoro, le descrizioni dei procedimenti e i protocolli relativi ai principali processi;
-- e. deve garantire la funzionalità e l’igiene degli impianti tecnici propri all’azienda prima e dopo ogni somministrazione di premiscele di medicamenti o di foraggi medicinali per la terapia di gruppo per via orale.
+- e. deve garantire la funzionalità e l’igiene degli impianti tecnici propri all’azienda prima e dopo ogni somministrazione di premiscele di medicamenti o di mangimi medicati per la terapia di gruppo per via orale;
+- f. deve fare in modo che gli impianti tecnici funzionino in maniera ineccepibile e che a intervalli regolari sia eseguita e documentata la manutenzione regolare da parte di una persona specializzata.
 
-[^19-1]: Nuovo testo giusta il n. I dell’O dell’11 mar. 2016, in vigore dal 1° apr. 2016 ([RU 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
+<sup>2</sup> Se l’azienda agricola stipula una convenzione con uno studio veterinario, quest’ultimo deve disporre almeno di un veterinario responsabile tecnico. Il veterinario, che svolge i compiti nell’ambito di questa convenzione, deve soddisfare i requisiti di cui all’articolo 20.
+
+<sup>3</sup> La convenzione può essere stipulata nell’ambito di una convenzione Mvet.
+
+[^19-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
 #### Art. 20
 
@@ -469,19 +637,22 @@ Un’azienda agricola, nei cui impianti tecnici sono aggiunti medicamenti ai for
 
 <sup>1</sup>
 
-Il veterinario responsabile tecnico svolge i seguenti compiti:
+Il veterinario responsabile tecnico svolge i seguenti compiti nell’ambito della convenzione:[^20a-2]
 
-- a. esercita la sorveglianza tecnica diretta nel settore d’attività assegnatogli secondo il contratto di cui all’articolo 19 lettera a e assicura in particolare le condizioni per il corretto impiego dei medicamenti;
+- a.[^20a-3] esercita la sorveglianza tecnica diretta nel settore d’attività assegnatogli secondo la convenzione e assicura in particolare le condizioni per il corretto impiego dei medicamenti e la gestione degli impianti tecnici dal profilo igienico;
 - b. è responsabile della qualità e della corretta somministrazione dei foraggi medicinali fabbricati nell’azienda per il rispettivo settore d’attività, nonché della corretta somministrazione di premiscele di medicamenti mediante aggiunta manuale direttamente nella mangiatoia («top dressing»);
-- c. nel quadro delle visite alle aziende di cui all’articolo 10 capoverso 2, verifica che siano soddisfatti i requisiti di cui all’articolo 19 lettera e.
+- c.[^20a-4] verifica che i criteri di cui all’articolo 19 capoverso 1 lettere e ed f siano soddisfatti.
 
 <sup>2</sup> È autorizzato a impartire istruzioni nel suo settore di competenza di cui al capoverso 1. In particolare dispone che siano prese tutte le misure correttive necessarie.
 
-<sup>3</sup> Deve vietare l’utilizzazione di un impianto se questo non è o non è più idoneo a produrre e somministrare un foraggio medicinale di qualità ineccepibile.
+<sup>3</sup> Deve vietare l’utilizzazione di un impianto se questo non è o non è più idoneo a produrre e somministrare un mangime medicato di qualità ineccepibile.
 
 - [tab] <sup>4</sup> Se vi è motivo di presumere che le misure correttive disposte non siano state soddisfatte, il veterinario responsabile tecnico deve rivolgersi al veterinario cantonale competente.
 
 [^20a-1]: Introdotto dal n. I dell’O dell’11 mar. 2016, in vigore dal 1° apr. 2016 ([RU 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
+[^20a-2]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^20a-3]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^20a-4]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
 #### Art. 21
 
@@ -492,7 +663,7 @@ Il veterinario responsabile tecnico svolge i seguenti compiti:
 L’impianto utilizzato in un’azienda agricola per l’aggiunta di medicamenti ai foraggi o per la macinazione, la distribuzione o la somministrazione di foraggi medicinali deve essere concepito in modo tale che:
 
 - a. il processo di miscelazione assicuri una miscela di medicamenti e foraggi omogenea;
-- b. il foraggio medicinale possa essere somministrato agli animali conformemente alla prescrizione; e
+- b. il mangime medicato possa essere somministrato agli animali conformemente alla prescrizione; e
 - c. sia facile da pulire.
 - [tab] <sup>2</sup> Il produttore, il suo rappresentante domiciliato in Svizzera o l’importatore collauda l’impianto prima della messa in esercizio e istruisce il detentore di animali da reddito circa la corretta utilizzazione.
 
@@ -505,9 +676,13 @@ L’impianto utilizzato in un’azienda agricola per l’aggiunta di medicamenti
 
 #### Art. 22
 
-**Obbligo di diligenza**
+**Obblighi di diligenza**[^22-1]
 
-Chi detiene animali da reddito è obbligato a conservare i medicamenti veterinari a disposizione nell’azienda in maniera ordinata e in condizioni igienicamente irreprensibili e sicure secondo le prescrizioni per la conservazione e il deposito contenute nell’informazione sul medicamento veterinario e nell’istruzione per l’uso. Le istruzioni per l’uso scritte vanno conservate fintanto che il medicamento veterinario si trova nell’azienda.
+<sup>1</sup> I detentori di animali da reddito impiegano i medicamenti veterinari secondo le istruzioni della persona che effettua la prescrizione o la dispensazione.
+
+<sup>2</sup> Sono tenuti a conservare i medicamenti veterinari presenti in azienda secondo le prescrizioni di conservazione e di stoccaggio indicate nell’informazione sul medicamento veterinario e nell’istruzione per l’uso, in condizioni igienicamente irreprensibili, al sicuro e in ordine. Le istruzioni per l’uso scritte vanno conservate fintanto che il medicamento veterinario si trova nell’azienda.
+
+[^22-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
 #### Art. 23
 
@@ -540,22 +715,24 @@ Queste indicazioni devono figurare:
 
 #### Art. 24
 
-**Particolari obblighi di diligenza nella produzione di derrate alimentari**
+**Particolari obblighi di diligenza nella produzione di derrate alimentari**[^24-1]
 
-<sup>1</sup> La carne, il latte, le uova e il miele, nonché i prodotti che ne derivano non possono essere utilizzati quali derrate alimentari, fintanto che per gli animali interessati non è scaduto il termine d’attesa per il medicamento veterinario utilizzato. Sono fatte salve le disposizioni dell’articolo 10 capoverso 2 dell’ordinanza del 23 novembre 2005[^24-1] concernente la macellazione e il controllo delle carni.[^24-2]
+<sup>1</sup> La carne, il latte, le uova e il miele, nonché i prodotti che ne derivano non possono essere utilizzati quali derrate alimentari, fintanto che per gli animali interessati non è scaduto il termine d’attesa per il medicamento veterinario utilizzato. Sono fatte salve le disposizioni dell’articolo 8 capoverso 2 dell’ordinanza del 16 dicembre 2016[^24-2] concernente la macellazione e il controllo delle carni.
 
-<sup>2</sup> Il latte raccolto prima della scadenza del termine d’attesa può essere utilizzato quale foraggio per animali da reddito. Per gli animali abbeverati, ogni utilizzazione di questo latte va documentata quale impiego di medicamenti. I termini d’attesa validi per il medicamento corrispondente vanno rispettati.
+<sup>2</sup> Il latte raccolto prima della scadenza del termine d’attesa può essere utilizzato quale mangime per gli animali da reddito nella stessa azienda di detenzione. Per gli animali abbeverati, ogni utilizzazione di questo latte deve essere documentata quale impiego di medicamenti e devono essere rispettati i termini d’attesa validi per il medicamento in questione.
 
-[^24-1]: [[RU 2005 5493](https://fedlex.data.admin.ch/eli/oc/2005/747), [2006 4807](https://fedlex.data.admin.ch/eli/oc/2006/738)[4809](https://fedlex.data.admin.ch/eli/oc/2006/739), [2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)all. 2 n. 2 [2711](https://fedlex.data.admin.ch/eli/oc/2007/358)n. II 1, [2008 5169](https://fedlex.data.admin.ch/eli/oc/2008/723), [2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)all. 8 n. II 2 [5453](https://fedlex.data.admin.ch/eli/oc/2011/775)all. 2 n. II 2, [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)n. I 8, [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)all. 3 n. II 6, [2015 3629](https://fedlex.data.admin.ch/eli/oc/2015/608)[5201](https://fedlex.data.admin.ch/eli/oc/2015/843)all. n. II 3. [RU 2017 411](https://fedlex.data.admin.ch/eli/oc/2017/66)art. 62]. Vedi ora la l’O del 16 dic. 2016 ([RS 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)).
-[^24-2]: Nuovo testo giusta l’all. 2 n. II 1 dell’O del 23 nov. 2005 sulle derrate alimentari e gli oggetti d’uso, in vigore dal 1° gen. 2006 ([RU 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746)).
+[^24-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^24-2]: [RS 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)
 
 ## Capitolo 4: Obbligo di tenere un registro e obbligo di registrazione
 
 #### Art. 25
 
-**Persone soggette all’obbligo del registro**
+**Persone soggette all’obbligo del registro**[^25-1]
 
-Ha l’obbligo di tenere un registro chi è autorizzato a dispensare medicamenti ad animali da reddito secondo l’articolo 24 LATer (persone autorizzate a dispensare medicamenti) e chi detiene animali da reddito.
+Ha l’obbligo di tenere un registro chi è autorizzato a dispensare medicamenti ad animali da reddito secondo l’articolo 24 LATer o secondo l’articolo 9 capoversi 2 e 3 (persone autorizzate a dispensare medicamenti) e chi detiene animali da reddito.
+
+[^25-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
 #### Art. 26
 
@@ -566,10 +743,13 @@ Vanno iscritti a registro:
 - a. i medicamenti veterinari soggetti a prescrizione;
 - b. i medicamenti veterinari per i quali occorre rispettare un termine d’attesa;
 - c.[^26-1] i medicamenti utilizzati secondo gli articoli 6 e 12, eccettuati quelli di cui all’articolo 13 capoverso 5;
-- d. i medicamenti veterinari non soggetti a omologazione (art. 9 cpv. 2 LATer),
-- e. i medicamenti importati secondo l’articolo 7.
+- d. i medicamenti veterinari non soggetti a omologazione (art. 9 cpv. 2 LATer);
+- e.[^26-2] i medicamenti importati secondo gli articoli 7−7*c*;
+- f.[^26-3] i medicamenti per le api.
 
 [^26-1]: Nuovo testo giusta l’all. 2 n. II 1 dell’O del 23 nov. 2005 sulle derrate alimentari e gli oggetti d’uso, in vigore dal 1° gen. 2006 ([RU 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746)).
+[^26-2]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^26-3]: Introdotta dal n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
 #### Art. 27
 
@@ -584,11 +764,13 @@ Le persone autorizzate a dispensare medicamenti devono indicare per ogni dispens
 - c. la data della dispensazione o dell’utilizzazione;
 - d. il nome e l’indirizzo del detentore degli animali.
 
-<sup>2</sup> Le persone autorizzate a dispensare e a prescrivere medicamenti veterinari devono iscrivere queste indicazioni nella cartella medica dell’animale o del gruppo di animali di un effettivo o memorizzarle su un supporto comparabile accessibile in ogni momento. Se dispensano medicamenti sia per animali da reddito sia per animali domestici, la documentazione deve indicare in modo sufficientemente chiaro le quantità rispettive di medicamenti somministrati.
+<sup>2</sup> Le persone autorizzate a dispensare e a prescrivere medicamenti veterinari devono iscrivere queste indicazioni nella cartella medica dell’animale o del gruppo di animali di un effettivo o memorizzarle su un supporto comparabile accessibile in ogni momento. Se dispensano medicamenti sia per animali da reddito sia per animali da compagnia, la documentazione deve indicare in modo sufficientemente chiaro le quantità rispettive di medicamenti somministrati.[^27-1]
 
 <sup>3</sup> Le persone autorizzate a dispensare ma non a prescrivere medicamenti veterinari devono inoltre allegare la prescrizione veterinaria o, nel caso non sia necessaria una prescrizione, indicare il nome e l’indirizzo del destinatario.
 
 <sup>4</sup> Chi dispensa medicamenti secondo l’articolo 26 deve conservare in ordine cronologico i bollettini di consegna di tutti i medicamenti acquistati nonché i documenti relativi a ogni restituzione o distruzione di medicamenti. Deve anche allegare le corrispondenti istruzioni per l’uso.
+
+[^27-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
 #### Art. 28
 
@@ -650,27 +832,28 @@ I veterinari cantonali sono responsabili per i controlli e per l’esecuzione de
 
 <sup>2</sup>
 
-Essi possono in particolare:
+Gli organi di controllo possono in particolare:[^30-4]
 
 - a. accedere nelle ore di apertura abituali, senza preavviso, a tutti i locali nonché ispezionare i veicoli nei quali sono conservati, lavorati o utilizzati medicamenti veterinari o foraggi;
 - b. consultare e mettere al sicuro tutti i registri e documenti, che devono essere allestiti o conservati conformemente alla presente ordinanza, come pure la contabilità;
-- c.[^30-4] prescrivere, in casi singoli, visite all’azienda supplementari a quelle previste nella convenzione Mvet, se nel quadro di controlli vengono constatati difetti che mettono in pericolo la sicurezza alimentare o la salute degli animali;
+- c.[^30-5] prescrivere, in casi singoli, visite all’azienda supplementari a quelle previste nella convenzione Mvet, se nel quadro di controlli vengono constatati difetti che mettono in pericolo la sicurezza alimentare o la salute degli animali;
 - d. prelevare campioni da animali vivi o macellati, nonché da medicamenti e foraggi;
 - e. mettere al sicuro, sequestrare, custodire ufficialmente all’indirizzo dell’autorità competente o distruggere medicamenti veterinari nocivi per la salute, vietati, non conformi alle prescrizioni della legislazione sugli agenti terapeutici o acquisiti illecitamente;
 - f. controllare aziende e persone che riforniscono i detentori di animali da reddito di prodotti per il trattamento e la cura di animali.
 
 <sup>3</sup> I titolari di autorizzazioni per la fabbricazione e il commercio all’ingrosso forniscono ai veterinari cantonali, su richiesta, le indicazioni relative alle quantità di medicamenti veterinari consegnati ai singoli acquirenti nel loro settore di controllo.
 
-<sup>4</sup> Previa consultazione dell’Ufficio federale dell’agricoltura (UFAG), dell’Ufficio federale della sanità pubblica (UFSP), del Servizio d’accreditamento svizzero (SAS) e degli organi di controllo, l’USAV fissa in una direttiva tecnica forma e contenuto dei controlli. Con questi organismi provvede a far sì che i controlli effettuati in virtù della presente ordinanza siano coordinati con i controlli nel settore di competenza di tali organismi.[^30-5]
+<sup>4</sup> Previa consultazione degli organi di controllo, l’USAV fissa in una direttiva tecnica forma e contenuto dei controlli. Insieme all’Ufficio federale dell’agricoltura (UFAG) provvede affinché i controlli effettuati in virtù della presente ordinanza siano coordinati con i controlli nel settore di competenza di tali organismi.[^30-6]
 
-<sup>5</sup> Esso si adopera per garantire un’esecuzione uniforme della presente ordinanza da parte dei Cantoni.[^30-6]
+<sup>5</sup> Esso si adopera per garantire un’esecuzione uniforme della presente ordinanza da parte dei Cantoni.[^30-7]
 
 [^30-1]: Nuovo testo giusta l’all. 2 n. 2 dell’O del 26 ott. 2011 sul coordinamento dei controlli, in vigore dal 1° gen. 2012 ([RU 2011 5297](https://fedlex.data.admin.ch/eli/oc/2011/766)).
 [^30-2]: Nuovo testo giusta l’all.n. 4 dell’O del 14 nov. 2007 sul coordinamento dei controlli, in vigore dal 1° gen. 2008 ([RU 2007 6167](https://fedlex.data.admin.ch/eli/oc/2007/820)).
 [^30-3]: [RS 916.020](https://fedlex.data.admin.ch/eli/cc/2005/752)
-[^30-4]: Nuovo testo giusta l’all. 2 n. 2 dell’O del 26 ott. 2011 sul coordinamento dei controlli, in vigore dal 1° gen. 2012 ([RU 2011 5297](https://fedlex.data.admin.ch/eli/oc/2011/766)).
-[^30-5]: Nuovo testo giusta il n. I dell’O dell’8 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1455](https://fedlex.data.admin.ch/eli/oc/2013/335)).
-[^30-6]: Introdotto dal n. I dell’O dell’8 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1455](https://fedlex.data.admin.ch/eli/oc/2013/335)).
+[^30-4]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^30-5]: Nuovo testo giusta l’all. 2 n. 2 dell’O del 26 ott. 2011 sul coordinamento dei controlli, in vigore dal 1° gen. 2012 ([RU 2011 5297](https://fedlex.data.admin.ch/eli/oc/2011/766)).
+[^30-6]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^30-7]: Introdotto dal n. I dell’O dell’8 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1455](https://fedlex.data.admin.ch/eli/oc/2013/335)).
 
 #### Art. 31
 
@@ -738,28 +921,104 @@ Su richiesta dell’USAV:
 - b. i veterinari responsabili tecnici che prescrivono foraggi medicinali o premiscele di medicamenti devono mettere a disposizione i dati rilevati sul modulo elettronico della ricetta;
 - c. le competenti autorità e organizzazioni devono mettere a disposizione i dati necessari all’esecuzione della presente ordinanza.
 
-<sup>2</sup> ...[^35-2]
+<sup>2</sup> I veterinari devono notificare all’USAV la prescrizione, la dispensazione e l’utilizzo di antibiotici a uso non topico per il tramite del SI AMV secondo l’O-SIAMV[^35-2].[^35-3]
 
 [^35-1]: Nuovo testo giusta il n. I dell’O dell’11 mar. 2016, in vigore dal 1° apr. 2016 ([RU 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
-[^35-2]: Abrogato dall’art. 20 n. 1 dell’O del 31 ott. 2018 concernente il sistema d’informazione sugli antibiotici nella medicina veterinaria, con effetto dal 1° gen. 2019 ([RU 2018 4353](https://fedlex.data.admin.ch/eli/oc/2018/702)).
+[^35-2]: [RS 812.214.4](https://fedlex.data.admin.ch/eli/cc/2018/702)
+[^35-3]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
 #### Art. 36
 
 **Collezione di dati**
 
-<sup>1</sup> L’USAV tratta i dati personali di cui agli articoli 16, 33 e 35.[^36-1]
+<sup>1</sup> L’USAV tratta i dati personali secondo gli articoli 7‒7*b*, 16, 33 e 35.[^36-1]
 
 <sup>2</sup> Gli organi di controllo competenti secondo la presente ordinanza possono trattare autonomamente dati personali.
 
-<sup>3</sup> L’USAV e l’Istituto possono scambiarsi e mettere a disposizione dell’UFSP e dell’UFAG i dati rilevati.[^36-2]
+<sup>2bis</sup> Per lo svolgimento dei loro compiti sanciti dalla legge, le autorità cantonali competenti possono scambiarsi i dati rilevati nell’ambito dell’esecuzione della presente ordinanza.[^36-2]
+
+<sup>3</sup> L’USAV e Swissmedic possono scambiarsi e mettere a disposizione dell’UFSP e dell’UFAG i dati rilevati.[^36-3]
 
 <sup>4</sup> I dati possono essere pubblicati in forma anonima.
 
-<sup>5</sup> Tutti i trattamenti sottostanno alla legge federale del 19 giugno 1992[^36-3] sulla protezione dei dati.
+<sup>5</sup> Tutti i trattamenti sottostanno alla legge federale del 19 giugno 1992[^36-4] sulla protezione dei dati.
 
-[^36-1]: Nuovo testo giusta l’art. 20 n. 1 dell’O del 31 ott. 2018 concernente il sistema d’informazione sugli antibiotici nella medicina veterinaria, in vigore dal 1° gen. 2019 ([RU 2018 4353](https://fedlex.data.admin.ch/eli/oc/2018/702)).
-[^36-2]: Nuovo testo giusta il n. I dell’O dell’8 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1455](https://fedlex.data.admin.ch/eli/oc/2013/335)).
-[^36-3]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+<sup>6</sup> Per il trattamento dei dati sulla prescrizione, la dispensazione e l’utilizzo di antibiotici non topici si applicano le disposizioni dell’O-SIAMV[^36-5].[^36-6]
+
+[^36-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^36-2]: Introdotto dal n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^36-3]: Nuovo testo giusta il n. I dell’O dell’8 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1455](https://fedlex.data.admin.ch/eli/oc/2013/335)).
+[^36-4]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^36-5]: [RS 812.214.4](https://fedlex.data.admin.ch/eli/cc/2018/702)
+[^36-6]: Introdotto dal n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+
+### Sezione 3:**** Misure in caso di un consumo maggiorato di antibiotici
+
+[^chap5-sec3-1]
+
+[^chap5-sec3-1]: Introdotta dal n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+
+#### Art. 36a
+
+**Valutazione dei dati sul consumo di antibiotici**
+
+<sup>1</sup> Per ciascuna azienda di detenzione di animali da reddito e studio veterinario o clinica veterinaria, l’USAV conteggia ogni anno, in base ai dati notificati secondo l’articolo 4 capoverso 2 O-SIAMV[^36a-1], i dati comparativi di cui all’articolo 2 capoverso 1 lettera b numero 1 O-SIAMV.
+
+<sup>2</sup> Sulla base dei dati comparativi, stabilisce valori di segnalazione e di azione. Il valore di segnalazione definisce il limite tra un consumo normale e un consumo maggiorato. Il valore di azione definisce il limite tra un consumo maggiorato e un consumo eccessivo.
+
+<sup>3</sup> L’USAV emana direttive tecniche sul conteggio dei dati comparativi e sulla fissazione dei valori di azione e di segnalazione.
+
+[^36a-1]: [RS 812.214.4](https://fedlex.data.admin.ch/eli/cc/2018/702)
+
+#### Art. 36b
+
+**Verifica da parte delle autorità cantonali e prime misure**
+
+<sup>1</sup> L’autorità cantonale competente verifica il consumo di antibiotici dei detentori di animali da reddito, degli studi veterinari e delle cliniche veterinarie in base ai valori di segnalazione e di azione messi a disposizione dall’USAV.
+
+<sup>2</sup> Informa i detentori di animali da reddito, gli studi veterinari o le cliniche veterinarie i cui dati comparativi superano il valore di segnalazione.
+
+#### Art. 36c
+
+**Misure in caso di ripetuto superamento del valore di azione**
+
+<sup>1</sup>
+
+I detentori di animali da reddito, gli studi veterinari e le cliniche veterinarie i cui dati comparativi superano per due volte i valori di azione nell’arco di tre anni vengono informati al riguardo dall’autorità cantonale competente e devono, a proprie spese:
+
+- a. chiarire le cause del consumo maggiorato di antibiotici; e
+- b. redigere per iscritto e attuare un piano di misure per ridurre il consumo di antibiotici.
+
+<sup>2</sup> A tale scopo, i detentori di animali da reddito consultano un veterinario o un servizio sanitario animale.
+
+<sup>3</sup> In casi motivati, l’autorità cantonale competente può prolungare il periodo di tre anni, in particolare per gli studi veterinari e le cliniche veterinarie specializzati in metodi di detenzione problematici o in situazioni aziendali particolari nelle detenzioni di animali da reddito interessate.
+
+#### Art. 36d
+
+**Ulteriori misure**
+
+<sup>1</sup>
+
+Se dopo l’esecuzione delle misure di cui all’articolo 36*c*, i dati comparativi superano nuovamente il valore di azione nell’arco dei due anni successivi, l’autorità cantonale competente ordina a spese del destinatario le misure necessarie per ridurre il consumo di antibiotici, in particolare nei confronti:
+
+- a.
+
+  dei detentori di animali da reddito:
+
+  - 1\. la consultazione di un determinato veterinario o servizio sanitario animale, in particolare per valutare e accompagnare l’attuazione del piano di misure di cui all’articolo 36*c* capoverso 1 lettera b,
+  - 2\. le condizioni per la detenzione di animali da reddito, in particolare riguardo ad alimentazione, igiene, ingrasso, densità di occupazione, dotazione ed equipaggiamento delle stalle e altre misure profilattiche,
+  - 3\. la condizione che gli antibiotici possano essere utilizzati per una determinata durata solo per il tramite di un veterinario,
+  - 4\. la frequentazione di corsi di formazione continua;
+
+- b.
+
+  degli studi veterinari e delle cliniche veterinarie:
+
+  - 1\. la consultazione di un esperto, in particolare per valutare e accompagnare l’attuazione del piano di misure cui all’articolo 36*c* capoverso 1 lettera b,
+  - 2\. la frequentazione di corsi di formazione continua,
+  - 3\. la restrizione nell’acquisto e nella dispensazione di antibiotici.
+
+<sup>2</sup> In casi motivati, l’autorità cantonale competente può prolungare il periodo di due anni, in particolare per gli studi veterinari e le cliniche veterinarie specializzati in metodi di detenzione problematici o in situazioni aziendali particolari nelle detenzioni di animali da reddito interessate.
 
 ## Capitolo 6: Disposizioni finali
 
@@ -818,6 +1077,18 @@ Le sostanze attive che figurano negli elenchi a e b dell’allegato 2 secondo il
 
 [^39b-1]: Introdotto dall’all. n. 2 dell’O del 16 dic. 2016 sulle derrate alimentari e gli oggetti d’uso, in vigore dal 1° mag. 2017 ([RU 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)).
 
+#### Art. 39c
+
+**Disposizioni transitorie relative alla modifica del 3 giugno 2022**[^39c-1]
+
+<sup>1</sup> Le autorizzazioni per l’importazione di medicamenti che Swissmedic ha emesso prima della modifica del 3 giugno 2022 valgono fino al termine della loro validità.
+
+<sup>2</sup> Le domande di autorizzazione per l’importazione di medicamenti presentate a Swissmedic entro il 31 agosto 2022 vengono trattate secondo il diritto previgente.
+
+<sup>3</sup> I valori di segnalazione e di azione di cui all’articolo 36*a* capoverso 2 vengono stabiliti per la prima volta per il 2023, sulla base dei dati comparativi di cui all’articolo 36*a* capoverso 1 dell’anno 2022.
+
+[^39c-1]: Introdotto dal n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+
 #### Art. 40
 
 **Entrata in vigore**
@@ -832,26 +1103,45 @@ Le sostanze attive che figurano negli elenchi a e b dell’allegato 2 secondo il
 
 Allegato 1*[^t-1]*
 
-(art. 10 cpv. 2)
+(art. 10 cpv. 4)
 
-## Condizioni per la dispensazione di medicamenti veterinari nell’ambito di una convenzione Mvet
+## Criteri di valutazione, frequenza delle visite e contenuto della convenzione Mvet
 
-[^t-1]: Aggiornato dal n. II dell’O dell’11 mar. 2016, in vigore dal 1° apr. 2016 ([RU 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
+[^t-1]: Aggiornato dai n. II delle O dell’11 mar. 2016 ([RU 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)) e del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
 ### 1 Criteri di valutazione
 
-In occasione della visita all’azienda, il veterinario che ha stipulato una convenzione Mvet, deve esaminare e documentare per scritto per ogni specie animale:
+<sup>1</sup> Il veterinario, che effettua una visita all’azienda nel quadro di una convenzione Mvet, deve esaminare e documentare per scritto in occasione di ogni visita per ogni specie animale:
 
 - a. lo stato di salute attuale dell’effettivo;
 - b. i problemi di salute constatati dall’ultima visita, nonché i trattamenti e i controlli successivi effettuati;
 - c. le indicazioni date per misure di profilassi e terapie dopo l’ultima visita;
-- d. le registrazioni relative all’utilizzazione di medicamenti veterinari e al deposito di medicamenti veterinari nella stalla.
+- d. le registrazioni relative all’utilizzazione di medicamenti veterinari e al deposito di medicamenti veterinari dispensati nell’ambito della convenzione Mvet.
+
+<sup>2</sup> Almeno ogni due anni deve controllare l’utilizzazione corretta, in particolare la qualità dell’anestesia e la sicurezza di utilizzazione dei medicamenti veterinari di cui all’articolo 8 capoverso 2, se essi sono dispensati per la castrazione dei suinetti.
 
 ### 2 Frequenze minime di visita per ispezioni d’azienda
 
-<sup>1</sup> Tutte le aziende devono essere visitate con una frequenza di una-quattro volte all’anno, in base ai rischi.
+<sup>1</sup> Il veterinario dell’effettivo svolge il seguente numero di visite all’anno in funzione della categoria aziendale:
 
-<sup>2</sup> L’USAV stabilisce categorie di rischio secondo criteri uniformi. Alla stipulazione di una convenzione Mvet, il veterinario competente classifica l’azienda nella categoria corrispondente.
+<table>
+<tr><th>Specie/categoria di animali</th><th>Modo di produzione</th><th>Numero di posti</th><th>Profilassi per la stabulazione con antibiotici</th><th>Numero di visite</th></tr>
+<tr><td>**Suini**</td><td>Allevamento di suinetti</td><td>≥ 200</td><td></td><td>Almeno 2 visite/anno</td></tr>
+<tr><td></td><td>Scrofe madri</td><td>≥ 50</td><td></td><td>Almeno 2 visite/anno</td></tr>
+<tr><td></td><td></td><td>≥ 100</td><td>No</td><td>Possibilmente a ogni stabulazione, almeno 2 visite/anno</td></tr>
+<tr><td></td><td>Suini da ingrasso</td><td>≥ 100</td><td>Sì</td><td>Possibilmente a ogni stabulazione, a partire da &gt; 4 stabulazioni/anno almeno 4 visite su differenti gruppi distribuiti su tutto l’anno</td></tr>
+<tr><td>**Vitelli**</td><td>Vitelli da ingrasso</td><td>≥ 25</td><td>No</td><td>Possibilmente a ogni stabulazione, almeno 2 visite/anno</td></tr>
+<tr><td></td><td></td><td>≥ 25</td><td>Sì</td><td>Possibilmente a ogni stabulazione, a partire da &gt; 4 stabulazioni/anno almeno 4 visite su differenti gruppi su tutto l’anno</td></tr>
+<tr><td>**Restanti** **bovini** **e suini**</td><td></td><td></td><td></td><td>Almeno 1 visita/anno</td></tr>
+<tr><td>**Pollame** (polli da ingrasso, galline ovaiole)</td><td></td><td></td><td></td><td>Almeno 1 visita/anno</td></tr>
+<tr><td>**Piccoli** **ruminanti**</td><td></td><td></td><td></td><td>Almeno 1 visita/anno</td></tr>
+<tr><td>**Animali** **selvatici**</td><td></td><td></td><td></td><td>Almeno 1 visita/anno</td></tr>
+<tr><td>**Pesci**</td><td></td><td></td><td></td><td>Almeno 1 visita/anno</td></tr>
+<tr><td>**Conigli**</td><td></td><td></td><td></td><td>Almeno 1 visita/anno</td></tr>
+<tr><td>**Altri**</td><td></td><td></td><td></td><td>Almeno 1 visita/anno</td></tr>
+</table>
+
+<sup>2</sup> ...
 
 <sup>3</sup> Le ispezioni d’azienda vanno ripartite adeguatamente sull’arco dell’anno. Se possibile devono essere svolte nel corso di una visita dell’effettivo necessaria per motivi d’ordine medico. Nelle aziende dedite all’ingrasso che praticano l’ingrassamento di un lotto omogeneo, le visite devono essere ripartite sui diversi gruppi di animali da ingrasso.
 
@@ -860,6 +1150,8 @@ In occasione della visita all’azienda, il veterinario che ha stipulato una con
 <sup>1</sup> La convenzione Mvet dev’essere conclusa per una durata di almeno un anno.
 
 <sup>2</sup> Il veterinario si adopera per garantire un servizio d’emergenza permanente; egli per principio deve avere la propria sede nella regione del detentore di animali.
+
+<sup>3</sup> Nella convenzione Mvet deve essere indicata la categoria di azienda in riferimento alla frequenza delle visite.
 
 ### 4 Obbligo di conservazione
 
