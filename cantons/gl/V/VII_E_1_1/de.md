@@ -4,13 +4,13 @@ number: VII E/1/1
 title: Energiegesetz
 short: EnG
 language: de
-version: 2016-07-01
-valid_until: 2022-06-30
-version_adopted: 2016-05-01
+version: 2022-07-01
+valid_until: 2022-12-31
+version_adopted: 2022-05-01
 adopted: 2000-05-07
 in_force: 2001-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VII-E.1.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/1878/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2326/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/1878/pdf_file"
 
 (EnG)
 
-Vom 07.05.2000 (Stand 01.07.2016)
+Vom 07.05.2000 (Stand 01.07.2022)
 
 (Erlassen von der Landsgemeinde am 7. Mai 2000)
 
@@ -399,9 +399,11 @@ Vom 07.05.2000 (Stand 01.07.2016)
 
 <sup>1</sup> Der Energiefonds wird als Spezialfinanzierung gemäss der Gesetzgebung über den Finanzhaushalt [^36-1] geführt.
 
-<sup>2</sup> Der Energiefonds wird mit einer Entnahme aus den Steuerreserven von 9 Millionen Franken dotiert.
+<sup>2</sup> Der Energiefonds wird 2023 mit 12 Millionen Franken und in den Jahren 2024–2035 jährlich mit 1 Million Franken dotiert.
 
-<sup>3</sup> Der Landrat dotiert den Fonds jährlich mit einem Beitrag.
+<sup>2a</sup> Der Regierungsrat kann Ertragsüberschüsse in der Jahresrechnung für die Einlage in den Energiefonds verwenden. Wird durch solche Einlagen das Gesamttotal von 24 Millionen Franken früher erreicht, entfällt die jährliche Einlage.
+
+<sup>3</sup> …
 
 <sup>4</sup> Sämtliche in diesem Zusammenhang stehenden Einnahmen und Ausgaben werden über die Erfolgsrechnung abgewickelt. Der Energiefonds gleicht den Nettoaufwand aus.
 
