@@ -4,11 +4,11 @@ title: "Ordonnance du 28 avril 2004 sur l'état civil (OEC)"
 short: OEC
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/362"
 language: fr
-version: 2022-01-01
+version: 2022-07-01
 adopted: 2004-04-28
 in_force: 2004-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/362/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2004-362-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/362/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/362/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-2004-362-20220701-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/362/20220701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,17 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/362/20220101/fr"
 
 (OEC)
 
-du 28 avril 2004 (Etat le 1<sup>er</sup> janvier 2022)
+du 28 avril 2004 (Etat le 1<sup>er</sup> juillet 2022)
 
 Le Conseil fédéral suisse,
 
-vu les art. 40, 43*a*, 44, al. 2, 45*a*, al. 3, 48, 103 et l’art. 6*a*, al. 1, titre final, du code civil suisse (CC)[^ingress-1], vu l’art. 8 de la loi fédérale du 18 juin 2004 sur le partenariat enregistré entre personnes de même sexe (LPart)[^ingress-2],[^ingress-3]
+vu les art. 40, 43*a*, 44, al. 2, 45*a*, al. 3, 48 et 103 ainsi que les art. *6a*, al. 1, et 9*g*, al. 4, titre final, du code civil (CC)[^ingress-1], vu l’art. 35, al. 4, de la loi du 18 juin 2004 sur le partenariat (LPart)[^ingress-2],[^ingress-3]
 
 arrête:
 
 [^ingress-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 [^ingress-2]: [RS 211.231](https://fedlex.data.admin.ch/eli/cc/2005/782)
-[^ingress-3]: Nouvelle teneur selon le ch. I de l’O du 28 juin 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
+[^ingress-3]: Nouvelle teneur selon le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
 
 ## Chapitre 1 Dispositions générales
 
@@ -53,11 +53,13 @@ arrête:
 
 <sup>2</sup> Ils préviennent l’OFEC avant de déplacer le siège d’un office.
 
-<sup>3</sup> Tout arrondissement doit comporter au moins une salle mise gratuitement à la disposition des couples pour la célébration des mariages et la conclusion des partenariats enregistrés.
+<sup>3</sup> Tout arrondissement doit comporter au moins une salle des mariages mise gratuitement à la disposition des couples pour la célébration des mariages et la conversion de partenariats enregistrés en mariages sous forme de cérémonie.[^1a-2]
 
-<sup>4</sup> L’utilisation d’autres locaux pour la célébration des mariages et la conclusion des partenariats enregistrés requiert l’autorisation de l’autorité de surveillance, sauf pour les cas prévus aux art. 70, al. 2, et 75*i*, al. 2.
+<sup>4</sup> L’utilisation d’autres locaux pour la célébration des mariages et la conversion de partenariats enregistrés en mariages sous forme de cérémonie requiert l’autorisation de l’autorité de surveillance, sauf pour les cas prévus à l’art. 70, al. 2.[^1a-3]
 
 [^1a-1]: Introduit par le ch. I de l’O du 4 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^1a-2]: Nouvelle teneur selon le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
+[^1a-3]: Nouvelle teneur selon le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
 
 #### Art. 2
 
@@ -133,25 +135,28 @@ Dans le domaine de l’état civil, les représentations de la Suisse à l’ét
 
 - a. informer et conseiller les personnes concernées;
 - b. rechercher, recevoir, légaliser, traduire et transmettre des décisions et des documents étrangers relatifs à l’état civil;
-- c. recevoir et transmettre des demandes et des déclarations en vue de la célébration d’un mariage (art. 63, al. 2, et 65, al. 1) ou la conclusion d’un partenariat enregistré (art. 75*b*, al. 2, et 75*d*, al. 1) en Suisse, procéder à l’audition des fiancés (art. 74*a*, al. 2) ou des partenaires (art. 75*m*, al. 2) et transmettre des certificats suisses de capacité matrimoniale en vue d’un mariage à l’étranger (art. 75);
+- c.[^5-3] recevoir et transmettre des demandes et des déclarations en vue de la célébration d’un mariage en Suisse (art. 63, al. 2, et 65, al. 1) ou de la remise de certificats de capacité matrimoniale destinés à un mariage à l’étranger (art. 75) et procéder à l’audition des fiancés (art. 74*a*, al. 2);
+- c<sup>bis</sup>.[^5-4] recevoir et transmettre des déclarations de conversion du partenariat enregistré en mariage (art. 75*n*);
 - d. recevoir et transmettre des déclarations de paternité (art. 11, al. 6) si l’enregistrement de la reconnaissance de l’enfant n’est pas possible à l’étranger;
-- e.[^5-3] recevoir et transmettre des déclarations concernant le nom (art. 12, al. 2, 12*a*, al. 2, 13, al. 1, 13*a*, al. 1, 14, al. 2, 14*a*, al. 1, 37, al. 4, et 37*a*, al. 5);
-- e<sup>bis</sup>.[^5-4] recevoir et transmettre des déclarations concernant le changement de sexe et, le cas échéant, de prénoms inscrits dans le registre de l’état civil (art. 14*b*);
+- e.[^5-5] recevoir et transmettre des déclarations concernant le nom (art. 12, al. 2, 12*a*, al. 2, 13, al. 1, 13*a*, al. 1, 14, al. 2, 14*a*, al. 1, 37, al. 4, et 37*a*, al. 5);
+- e<sup>bis</sup>.[^5-6] recevoir et transmettre des déclarations concernant le changement de sexe et, le cas échéant, de prénoms inscrits dans le registre de l’état civil (art. 14*b*);
 - f. faire vérifier les droits de cité communaux et cantonaux et la nationalité suisse;
 - g. vérifier l’authenticité de documents étrangers;
 - h. rechercher et transmettre des informations relatives au droit étranger;
 - i. percevoir des émoluments.
 
-<sup>2</sup> Elles communiquent à l’office de l’état civil et à l’autorité de surveillance, à l’intention de l’autorité cantonale compétente en matière d’étrangers, les faits indiquant qu’un mariage ou un partenariat est prévu ou a été conclu dans le but de contourner les dispositions sur l’admission et le séjour des étrangers (art. 82*a* de l’ordonnance du 24 octobre 2007 relative à l’admission, au séjour et à l’exercice d’une activité lucrative, OASA[^5-5]).[^5-6]
+<sup>2</sup> Elles communiquent à l’office de l’état civil et à l’autorité de surveillance, à l’intention de l’autorité cantonale compétente en matière d’étrangers, les faits indiquant qu’un mariage ou un partenariat est prévu ou a été conclu dans le but de contourner les dispositions sur l’admission et le séjour des étrangers (art. 82*a* de l’ordonnance du 24 octobre 2007 relative à l’admission, au séjour et à l’exercice d’une activité lucrative, OASA[^5-7]).[^5-8]
 
 <sup>3</sup> L’OFEC donne les instructions nécessaires et exerce la surveillance.
 
 [^5-1]: Nouvelle teneur selon le ch. I de l’O du 4 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
 [^5-2]: Nouvelle teneur selon le ch. I de l’O du 7 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
-[^5-3]: Nouvelle teneur selon le ch. I de l’O du 14 mai 2014, en vigueur depuis le 1<sup>er</sup> juil. 2014 ([RO 2014 1327](https://fedlex.data.admin.ch/eli/oc/2014/282)).
-[^5-4]: Introduite par le ch. I de l’O du 27 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
-[^5-5]: [RS 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
-[^5-6]: Nouvelle teneur selon le ch. I de l’O du 31 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
+[^5-3]: Nouvelle teneur selon le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
+[^5-4]: Introduite par le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
+[^5-5]: Nouvelle teneur selon le ch. I de l’O du 14 mai 2014, en vigueur depuis le 1<sup>er</sup> juil. 2014 ([RO 2014 1327](https://fedlex.data.admin.ch/eli/oc/2014/282)).
+[^5-6]: Introduite par le ch. I de l’O du 27 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^5-7]: [RS 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
+[^5-8]: Nouvelle teneur selon le ch. I de l’O du 31 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
 
 #### Art. 6
 
@@ -203,11 +208,11 @@ Les données suivantes sont saisies:
 - m. adoption;
 - n. déclaration d’absence;
 - o. changement de sexe;
-- p.[^7-1] préparation de l’enregistrement du partenariat;
+- p.[^7-1] …
 - q.[^7-2] enregistrement du partenariat;
 - r.[^7-3] dissolution du partenariat.
 
-[^7-1]: Introduite par le ch. I de l’O du 28 juin 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
+[^7-1]: Introduite par le ch. I de l’O du 28 juin 2006 ([RO 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)). Abrogée par le ch. I de l’O du 30 mars 2022, avec effet au 1<sup>er</sup> juil. 2022 ([RO 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
 [^7-2]: Introduite par le ch. I de l’O du 28 juin 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
 [^7-3]: Introduite par le ch. I de l’O du 28 juin 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
 
@@ -227,7 +232,7 @@ Les données suivantes sont traitées dans le registre de l’état civil:
   - 4\. Listes (communes, arrondissements de l’état civil, États, adresses);
 
 - b.[^8-1] Numéro AVS;
-- b<sup>bis</sup>.[^8-2] ...
+- b<sup>bis</sup>.[^8-2] …
 - c.
 
   Noms:
@@ -441,23 +446,19 @@ Lorsqu’il est reconnu par le père et qu’il ne s’agit pas du premier enfan
 
 <sup>1</sup> Les fiancés remettent la déclaration au sens de l’art. 160, al. 2 ou 3, CC à l’officier de l’état civil qui dirige la procédure préparatoire du mariage ou qui célèbre le mariage.
 
-<sup>2</sup> En cas de mariage à l’étranger, la déclaration peut être remise à la représentation de la Suisse ou à l’office de l’état civil du lieu d’origine ou du domicile suisse du fiancé ou de la fiancée.
+<sup>2</sup> En cas de mariage à l’étranger, la déclaration peut être remise à la représentation de la Suisse ou à l’office de l’état civil du lieu d’origine ou du domicile suisse des fiancés ou de l’un d’eux. Cette disposition s’applique par analogie aux partenariats enregistrés à l’étranger.[^12-2]
 
-<sup>3</sup> Les signatures doivent être légalisées si la déclaration concernant le nom est remise indépendamment de la procédure préparatoire.
+<sup>3</sup> Les signatures doivent être légalisées.[^12-3]
 
 [^12-1]: Nouvelle teneur selon le ch. I de l’O du 7 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
+[^12-2]: Nouvelle teneur selon le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
+[^12-3]: Nouvelle teneur selon le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
 
 #### Art. 12a
 
-**Déclaration concernant le nom avant l’enregistrement du partenariat**[^12a-1]
+[^12a-1]
 
-<sup>1</sup> Les partenaires peuvent remettre la déclaration au sens de l’art. 12*a* LPart à l’officier de l’état civil qui dirige la procédure préliminaire du partenariat enregistré ou qui enregistre le partenariat.
-
-<sup>2</sup> Si le partenariat est enregistré à l’étranger, la déclaration peut être remise à la représentation de la Suisse ou à l’office de l’état civil du lieu d’origine ou du domicile suisse de l’un des partenaires.
-
-<sup>3</sup> Les signatures doivent être légalisées si la déclaration concernant le nom est remise indépendamment de la procédure préliminaire.
-
-[^12a-1]: Introduit par le ch. I de l’O du 7 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
+[^12a-1]: Introduit par le ch. I de l’O du 7 nov. 2012 ([RO 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)). Abrogé par le ch. I de l’O du 30 mars 2022, avec effet au 1<sup>er</sup> juil. 2022 ([RO 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
 
 #### Art. 13
 
@@ -487,14 +488,14 @@ Lorsqu’il est reconnu par le père et qu’il ne s’agit pas du premier enfan
 
 <sup>2</sup> Lorsqu’un fait d’état civil survient à l’étranger, une telle déclaration peut être faite directement à l’autorité de surveillance ou par l’entremise de la représentation de la Suisse.
 
-<sup>3</sup> Lorsqu’une personne de nationalité suisse fait une déclaration concernant le nom énoncée aux art. 12, 12*a*, 13, 13*a*, 14*a*, 37, al. 2 ou 3, ou 37*a*, al. 3 ou 4, celle-ci a valeur de soumission du nom au droit suisse.[^14-2]
+<sup>3</sup> Lorsqu’une personne de nationalité suisse fait une déclaration concernant le nom énoncée aux art. 12, 13, 13*a*, 14*a*, 37, al. 2 ou 3, ou 37*a*, al. 3 ou 4, celle-ci a valeur de soumission du nom au droit suisse.[^14-2]
 
 <sup>4</sup> Lorsque survient un fait d’état civil qui se rapporte personnellement à un Suisse domicilié à l’étranger ou à un étranger, la personne concernée peut déclarer par écrit devant l’officier de l’état civil qu’elle souhaite soumettre l’inscription de son sexe et, le cas échéant, de ses prénoms dans le registre de l’état civil à son droit national (art. 40*a* LDIP).[^14-3]
 
 <sup>5</sup> Lorsqu’une personne de nationalité suisse fait une déclaration concernant le changement de sexe inscrit dans le registre de l’état civil au sens de l’art. 14*b*, celle-ci a valeur de soumission du sexe au droit suisse.[^14-4]
 
 [^14-1]: [RS 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
-[^14-2]: Nouvelle teneur selon le ch. I de l’O du 14 mai 2014, en vigueur depuis le 1<sup>er</sup> juil. 2014 ([RO 2014 1327](https://fedlex.data.admin.ch/eli/oc/2014/282)).
+[^14-2]: Nouvelle teneur selon le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
 [^14-3]: Introduit par le ch. I de l’O du 27 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
 [^14-4]: Introduit par le ch. I de l’O du 27 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
 
@@ -555,7 +556,7 @@ Un ressortissant étranger dont les données ne sont pas disponibles est saisi l
 - b. dépose une demande d’acquisition de la nationalité suisse;
 - c. demande d’inscrire le fait qu’il a constitué un mandat pour cause d’inaptitude (art. 8, let. k, ch. 1).[^15a-2]
 
-<sup>2bis</sup> ...[^15a-3]
+<sup>2bis</sup> …[^15a-3]
 
 <sup>3</sup> Si la présentation des documents nécessaires à la saisie d’un ressortissant étranger dans le registre de l’état civil s’avère impossible ou ne peut être raisonnablement exigée, l’officier de l’état civil examine la possibilité de recevoir une déclaration conformément à l’art. 41, al. 1, CC.
 
@@ -612,13 +613,13 @@ L’autorité de l’état civil:
 
 - a. examine si elle est compétente;
 - b. s’assure de l’identité et de la capacité civile des personnes concernées;
-- c.[^16-1] vérifie que les données disponibles ...[^16-2] et les indications à enregistrer sont exactes, complètes et conformes à l’état actuel.
+- c.[^16-1] vérifie que les données disponibles …[^16-2] et les indications à enregistrer sont exactes, complètes et conformes à l’état actuel.
 
 <sup>2</sup> Les personnes concernées doivent produire les pièces requises. Celles-ci ne doivent pas dater de plus de six mois. Si l’obtention de tels documents s’avère impossible ou ne peut manifestement être exigée, des documents plus anciens sont admis dans des cas fondés.
 
-<sup>3</sup> ...[^16-3]
+<sup>3</sup> …[^16-3]
 
-<sup>4</sup> Il n’est pas nécessaire de produire des documents pour prouver des faits d’état civil qui sont disponibles ...[^16-4].[^16-5]
+<sup>4</sup> Il n’est pas nécessaire de produire des documents pour prouver des faits d’état civil qui sont disponibles …[^16-4].[^16-5]
 
 <sup>5</sup> L’autorité de l’état civil informe et conseille les personnes concernées, met en œuvre, au besoin, des recherches supplémentaires et peut exiger la collaboration des personnes concernées.
 
@@ -685,31 +686,34 @@ Les actes suivants doivent être signés à la main et en présence de la person
 - a. le consentement à la reconnaissance (art. 11, al. 4);
 - b. la déclaration de reconnaissance d’un enfant (art. 11, al. 5 et 6);
 - b<sup>bis</sup>.[^18-2] la déclaration concernant l’autorité parentale conjointe (art. 11*b*, al. 1);
-- c. la déclaration concernant le nom avant le mariage, si elle est remise indépendamment de la procédure préparatoire (art. 12, al. 3);
-- d. la déclaration concernant le nom avant l’enregistrement du partenariat (art. 12*a*, al. 3);
+- c.[^18-3] la déclaration concernant le nom avant le mariage ou suite à l’enregistrement du partenariat à l’étranger (art. 12, al. 3);
+- d.[^18-4] …
 - e. la déclaration concernant le nom après la dissolution du mariage (art. 13, al. 2);
 - f. la déclaration concernant le nom après la dissolution du partenariat enregistré (art. 13*a*, al. 2);
 - g. la déclaration concernant le nom au sens de l’art. 8*a*, titre final, CC (art. 14*a*, al. 2);
-- h.[^18-3] la déclaration concernant le changement de sexe et, le cas échéant, de prénoms inscrits dans le registre de l’état civil (art. 14*b,* al. 1);
-- h<sup>bis</sup>.[^18-4] le consentement à la déclaration concernant le changement de sexe inscrit dans le registre de l’état civil (art. 14*b,* al. 2);
+- h.[^18-5] la déclaration concernant le changement de sexe et, le cas échéant, de prénoms inscrits dans le registre de l’état civil (art. 14*b,* al. 1);
+- h<sup>bis</sup>.[^18-6] le consentement à la déclaration concernant le changement de sexe inscrit dans le registre de l’état civil (art. 14*b,* al. 2);
 - i. la confirmation de l’exactitude des données (art. 16*a*);
 - j. la déclaration valant preuve de données non litigieuses (art. 17);
-- k.[^18-5] la déclaration du nom de l’enfant (art. 37, al. 5, et 37*a*, al. 6);
+- k.[^18-7] la déclaration du nom de l’enfant (art. 37, al. 5, et 37*a*, al. 6);
 - l. le consentement de l’enfant au changement de nom (art. 37*b*, al. 2);
-- m.[^18-6] la déclaration relative aux conditions du mariage (art. 65, al. 1 et 2);
+- m.[^18-8] la déclaration relative aux conditions du mariage (art. 65, al. 1 et 2);
 - n. la confirmation du mariage (art. 71, al. 4);
-- o.[^18-7] la déclaration relative aux conditions d’enregistrement du partenariat (art. 75*d*, al. 1 et 2);
-- p. la déclaration de volonté de conclure un partenariat enregistré (art. 75*k*, al. 2).
+- o.[^18-9] la déclaration de conversion du partenariat enregistré en mariage (art. 75*n*, al. 4, et 75*o*, al. 1, let. c);
+- p.[^18-10] …
 
 <sup>2</sup> Si une personne disposée à signer n’est pas en état de le faire, le fonctionnaire compétent selon l’art. 4 ou 5 atteste cette disposition par écrit en indiquant le motif du défaut de signature.
 
 [^18-1]: Nouvelle teneur selon le ch. I de l’O du 7 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
 [^18-2]: Introduite par le ch. I de l’O du 14 mai 2014, en vigueur depuis le 1<sup>er</sup> juil. 2014 ([RO 2014 1327](https://fedlex.data.admin.ch/eli/oc/2014/282)).
-[^18-3]: Nouvelle teneur selon le ch. I de l’O du 27 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
-[^18-4]: Introduite par le ch. I de l’O du 27 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
-[^18-5]: Nouvelle teneur selon le ch. I de l’O du 14 mai 2014, en vigueur depuis le 1<sup>er</sup> juil. 2014 ([RO 2014 1327](https://fedlex.data.admin.ch/eli/oc/2014/282)).
-[^18-6]: Nouvelle teneur selon le ch. I de l’O du 27 mars 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
-[^18-7]: Nouvelle teneur selon le ch. I de l’O du 27 mars 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
+[^18-3]: Nouvelle teneur selon le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
+[^18-4]: Abrogée par le ch. I de l’O du 30 mars 2022, avec effet au 1<sup>er</sup> juil. 2022 ([RO 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
+[^18-5]: Nouvelle teneur selon le ch. I de l’O du 27 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^18-6]: Introduite par le ch. I de l’O du 27 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^18-7]: Nouvelle teneur selon le ch. I de l’O du 14 mai 2014, en vigueur depuis le 1<sup>er</sup> juil. 2014 ([RO 2014 1327](https://fedlex.data.admin.ch/eli/oc/2014/282)).
+[^18-8]: Nouvelle teneur selon le ch. I de l’O du 27 mars 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
+[^18-9]: Nouvelle teneur selon le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
+[^18-10]: Abrogée par le ch. I de l’O du 30 mars 2022, avec effet au 1<sup>er</sup> juil. 2022 ([RO 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
 
 #### Art. 18a
 
@@ -795,9 +799,9 @@ Les données de l’état civil dûment établies sont enregistrées sans délai
 
 **Mariages et déclarations[^21-2]**[^21-1]
 
-<sup>1</sup> La célébration du mariage et la réception de la déclaration de volonté de conclure un partenariat enregistré, de la déclaration de reconnaissance d’un enfant et de la déclaration concernant le nom sont enregistrées à l’office de l’état civil qui a procédé à l’acte.[^21-3]
+<sup>1</sup> La célébration du mariage et la réception de la déclaration de volonté de convertir un partenariat enregistré en mariage, de la déclaration de reconnaissance d’un enfant, de la déclaration concernant le nom et de la déclaration concernant le changement de sexe inscrit dans le registre de l’état civil sont enregistrées à l’office de l’état civil qui a procédé à l’acte.[^21-3]
 
-<sup>2</sup> L’art. 23 s’applique par analogie à la compétence d’enregistrer la déclaration de reconnaissance d’un enfant ou la déclaration concernant le nom reçues par une représentation de la Suisse à l’étranger.[^21-4]
+<sup>2</sup> L’art. 23 s’applique par analogie à la compétence d’enregistrer les déclarations reçues par une représentation de la Suisse à l’étranger.[^21-4]
 
 <sup>3</sup> La reconnaissance d’un enfant faite devant le juge ou par testament est enregistrée par l’office de l’état civil du siège du tribunal ou du lieu où le testament a été ouvert. Les offices spécialisés conservent la compétence prévue à l’art. 2, al. 2, let. b.
 
@@ -805,8 +809,8 @@ Les données de l’état civil dûment établies sont enregistrées sans délai
 
 [^21-1]: Nouvelle teneur selon le ch. I de l’O du 4 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
 [^21-2]: Nouvelle teneur selon le ch. I de l’O du 7 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
-[^21-3]: Nouvelle teneur selon le ch. I de l’O du 7 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
-[^21-4]: Nouvelle teneur selon le ch. I de l’O du 7 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
+[^21-3]: Nouvelle teneur selon le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
+[^21-4]: Nouvelle teneur selon le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
 
 #### Art. 22
 
@@ -926,7 +930,7 @@ Sont enregistrés:
 
 <sup>2</sup> Lorsque plusieurs autorités de surveillance sont concernées, la modification doit intervenir conformément aux directives de l’OFEC.
 
-<sup>3</sup> et <sup>4</sup> ...[^29-2]
+<sup>3</sup> et <sup>4</sup> …[^29-2]
 
 [^29-1]: Nouvelle teneur selon le ch. I de l’O du 28 juin 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
 [^29-2]: Abrogés par le ch. I de l’O du 4 juin 2010, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
@@ -937,7 +941,7 @@ Sont enregistrés:
 
 <sup>1</sup> Sous réserve de l’art. 29, les tribunaux procèdent à la modification des données de l’état civil (art. 42 CC).
 
-<sup>2</sup> ...[^30-1]
+<sup>2</sup> …[^30-1]
 
 [^30-1]: Abrogé par le ch. II 2 de l’O du 18 juin 2010 portant adaptation d’O au CPC, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 3053](https://fedlex.data.admin.ch/eli/oc/2010/410)).
 
@@ -1025,19 +1029,20 @@ Sont tenus d’annoncer les décès:
 
 <sup>5</sup> Toute annonce de décès ou d’enfant mort-né doit être accompagnée d’un certificat médical.
 
-<sup>6</sup> L’office de l’état civil peut exiger un certificat médical attestant l’accouchement si la naissance est annoncée par une des personnes visées à l’art. 34, let. b<sup>bis</sup>.[^35-5]
+<sup>6</sup> L’office de l’état civil peut exiger un certificat médical attestant l’accouchement si la naissance est annoncée par une des personnes visées à l’art. 34, let. b<sup>bis</sup>. Si la mère est mariée à une femme au moment de la naissance et si l’enfant a été conçu au moyen d’un don de sperme conformément aux dispositions de la loi fédérale du 18 décembre 1998 sur la procréation médicalement assistée (LPMA)[^35-5], un certificat médical confirmant la conception par un don de sperme selon la LPMA doit être présenté en cas d’annonce de la naissance par une personne mentionnée à l’art. 34, let. b<sup>bis</sup>.[^35-6]
 
-<sup>7</sup> Si l’annonce est faite sur papier, elle doit être signée par la personne astreinte à l’annonce.[^35-6]
+<sup>7</sup> Si l’annonce est faite sur papier, elle doit être signée par la personne astreinte à l’annonce.[^35-7]
 
-<sup>8</sup> La transmission d’annonces et de certificats médicaux sous forme électronique est régie par l’art. 89, al. 4.[^35-7]
+<sup>8</sup> La transmission d’annonces et de certificats médicaux sous forme électronique est régie par l’art. 89, al. 4.[^35-8]
 
 [^35-1]: Nouvelle teneur selon le ch. I de l’O du 27 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
 [^35-2]: Nouvelle teneur selon le ch. I de l’O du 7 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
 [^35-3]: Nouvelle teneur selon le ch. I de l’O du 4 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
 [^35-4]: Nouvelle teneur de la phrase selon le ch. I de l’O du 27 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
-[^35-5]: Introduit par le ch. I de l’O du 26 oct. 2016, en vigueur depuis le 1<sup>er</sup> juil. 2017 ([RO 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
-[^35-6]: Introduit par le ch. I de l’O du 27 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^35-5]: [RS 810.11](https://fedlex.data.admin.ch/eli/cc/2000/554)
+[^35-6]: Introduit par le ch. I de l’O du 26 oct. 2016 ([RO 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)). Nouvelle teneur selon le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
 [^35-7]: Introduit par le ch. I de l’O du 27 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^35-8]: Introduit par le ch. I de l’O du 27 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
 
 #### Art. 36
 
@@ -1251,7 +1256,7 @@ L’établissement sur demande de documents d’état civil est réglé comme su
 
 **Conditions de la divulgation**
 
-<sup>1</sup> ...[^45-1]
+<sup>1</sup> …[^45-1]
 
 <sup>2</sup> Les données personnelles non encore enregistrées valablement (art. 28), celles qui doivent faire l’objet d’une modification (art. 29 et 30) ainsi que les données bloquées (art. 46) ne peuvent être divulguées qu’avec l’autorisation de l’autorité de surveillance.
 
@@ -1415,7 +1420,7 @@ L’office de l’état civil compétent pour l’enregistrement communique à l
 - e. la découverte d’un enfant;
 - f.[^50-4] l’adoption d’un enfant à l’étranger.
 
-<sup>2</sup> ...[^50-5]
+<sup>2</sup> …[^50-5]
 
 <sup>3</sup> L’autorité de surveillance saisie d’une demande de reconnaissance d’un mariage contracté à l’étranger par un mineur communique ce fait à l’autorité de protection de l’enfant à son lieu de domicile.[^50-6]
 
@@ -1436,15 +1441,17 @@ L’office de l’état civil compétent pour enregistrer les données de l’é
 
 - a. les naissances;
 - b.[^51-4] l’établissement et la rupture de liens de filiation;
-- c. les mariages et les partenariats enregistrés;
+- c.[^51-5] les mariages, les partenariats enregistrés et leur conversion en mariage, ainsi que les dissolutions de mariages et de partenariats enregistrés;
 - d. les décès.
 
-<sup>2</sup> L’office de l’état civil compétent pour la préparation du mariage ou du partenariat enregistré procède en outre aux communications prévues aux art. 67, al. 5, 74*a*, al. 6, let. b et c, et 7, 75*f*, al. 5, et 75*m*, al. 6, let. b et c, et 7.
+<sup>2</sup> L’office de l’état civil compétent pour la préparation du mariage procède en outre aux communications prévues aux art. 67, al. 5, et 74*a*, al. 6, let. b et c, et 7.[^51-6]
 
 [^51-1]: Nouvelle teneur selon le ch. I de l’O du 4 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
 [^51-2]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2015 en application de l’art.16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
 [^51-3]: Nouvelle teneur selon le ch. I de l’O du 27 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
 [^51-4]: Nouvelle teneur selon le ch. I de l’O du 27 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^51-5]: Nouvelle teneur selon le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
+[^51-6]: Nouvelle teneur selon le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
 
 #### Art. 52
 
@@ -1598,14 +1605,15 @@ La représentation étrangère doit prouver:
 
 Est compétent pour l’exécution de la procédure préparatoire:
 
-- a. l’office de l’état civil du lieu de domicile du fiancé ou de la fiancée;
+- a.[^62-1] l’office de l’état civil du lieu de domicile de l’un des fiancés;
 - b. l’office de l’état civil où il est prévu de célébrer le mariage, lorsque les deux fiancés ont leur domicile à l’étranger.
 
 <sup>2</sup> Un changement ultérieur de domicile ne modifie pas la compétence.
 
-<sup>3</sup> Lorsque l’un des fiancés est en danger de mort, l’officier de l’état civil du lieu de séjour de ce fiancé peut, sur présentation d’une attestation médicale, exécuter la procédure préparatoire et célébrer le mariage.[^62-1]
+<sup>3</sup> Lorsque l’un des fiancés est en danger de mort, l’officier de l’état civil du lieu de séjour de ce fiancé peut, sur présentation d’une attestation médicale, exécuter la procédure préparatoire et célébrer le mariage.[^62-2]
 
-[^62-1]: Introduit par le ch. I de l’O du 28 juin 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
+[^62-1]: Nouvelle teneur selon le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
+[^62-2]: Introduit par le ch. I de l’O du 28 juin 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
 
 #### Art. 63
 
@@ -1624,12 +1632,13 @@ Est compétent pour l’exécution de la procédure préparatoire:
 À l’appui de leur demande, les fiancés présentent les documents suivants:
 
 - a. un certificat relatif à leur domicile actuel;
-- b. des documents relatifs à la naissance, au sexe, au nom, à la filiation, à l’état civil (pour les personnes qui ont déjà été mariées ou liées par un partenariat enregistré: date de la dissolution du mariage ou du partenariat) ainsi qu’aux lieux d’origine et à la nationalité, lorsque les données relatives aux fiancés n’ont pas encore été enregistrées ou que les données disponibles ne sont pas exactes, complètes ou conformes à l’état actuel;
+- b.[^64-2] des documents relatifs à la naissance, au sexe, au nom, à la filiation, à l’état civil (pour les personnes qui ont déjà été mariées ou qui ont déjà été liées par un partenariat enregistré avec une tierce personne: date de la dissolution du mariage ou du partenariat) ainsi qu’aux lieux d’origine et à la nationalité, lorsque les données relatives aux fiancés n’ont pas encore été enregistrées dans le système ou que les données disponibles ne sont pas exactes, complètes ou conformes à l’état actuel;
 - c. des documents relatifs à la naissance, au sexe, au nom et à la filiation des enfants communs, lorsque le lien de filiation n’a pas encore été enregistré ou que les données disponibles ne sont pas exactes, complètes ou conformes à l’état actuel.
 
 <sup>2</sup> Les fiancés qui ne sont pas citoyens suisses joignent en outre une pièce établissant la légalité de leur séjour en Suisse jusqu’au jour probable de la célébration.
 
 [^64-1]: Nouvelle teneur selon le ch. I de l’O du 27 mars 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
+[^64-2]: Nouvelle teneur selon le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
 
 #### Art. 65
 
@@ -1640,9 +1649,9 @@ Est compétent pour l’exécution de la procédure préparatoire:
 Les fiancés déclarent devant l’officier de l’état civil:
 
 - a. que les données figurant dans la demande et les documents présentés sont à jour, complets et exacts;
-- [tab] b.[^65-1]...
-- c.[^65-2] qu’ils ne sont pas parents en ligne directe, ni frère et sœur germains, consanguins ou utérins, que la parenté repose sur la descendance ou l’adoption;
-- d.[^65-3] qu’ils n’ont pas contracté de mariage ou de partenariat enregistré antérieurs non dissous.
+- [tab] b.[^65-1]…
+- c.[^65-2] qu’ils ne sont ni parents en ligne directe, ni frère et sœur ou frères ou sœurs germains, consanguins ou utérins, que la parenté repose sur la descendance ou l’adoption;
+- d.[^65-3] qu’ils n’ont pas contracté de partenariat enregistré avec une tierce personne ou un mariage antérieurs non dissous.
 
 <sup>1bis</sup> L’officier de l’état civil rappelle aux fiancés qu’il ne peut célébrer le mariage s’il n’est pas l’expression de leur libre volonté.[^65-4]
 
@@ -1661,8 +1670,8 @@ L’officier de l’état civil invite expressément les fiancés à dire la vé
 <sup>3</sup> Dans des cas fondés, la déclaration prévue à l’al. 1 peut être reçue ailleurs que dans les locaux officiels.[^65-9]
 
 [^65-1]: Abrogée par le ch. I de l’O du 7 nov. 2012, avec effet au 1<sup>er</sup> janv. 2013 ([RO 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
-[^65-2]: Nouvelle teneur selon le ch. I de l’O du 9 déc. 2005, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 5679](https://fedlex.data.admin.ch/eli/oc/2005/781)).
-[^65-3]: Nouvelle teneur selon le ch. I de l’O du 28 juin 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
+[^65-2]: Nouvelle teneur selon le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
+[^65-3]: Nouvelle teneur selon le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
 [^65-4]: Introduit par le ch. I de l’O du 4 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
 [^65-5]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^65-6]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758). Le titre a été adapté au 1<sup>er</sup> janv. 2019 en application de l’art. 12 al. 2 de la LF du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Il a été tenu compte de cette mod. dans tout le texte.
@@ -1683,14 +1692,14 @@ Il examine, en outre:
 - a. si la demande a été présentée en la forme requise;
 - b. si les documents et déclarations nécessaires sont joints;
 - c.[^66-1] si la capacité matrimoniale des deux fiancés est établie (art. 94 CC).
-- d.[^66-2] si aucun empêchement au mariage n’existe (art. 95, 96 CC et 26 LPart: absence d’empêchements liés à la parenté ou à l’existence d’un mariage ou d’un partenariat antérieurs non dissous);
+- d.[^66-2] si aucun empêchement au mariage n’existe (art. 95 et 96 CC);
 - e.[^66-3] si les fiancés qui ne sont pas citoyens suisses ont établi la légalité de leur séjour en Suisse (art. 98, al. 4, CC);
 - f.[^66-4] s’il n’existe aucun élément permettant de conclure que la demande n’est manifestement pas l’expression de la libre volonté des fiancés (art. 99, al. 1, ch. 3, CC).
 
 <sup>3</sup> L’office de l’état civil peut vérifier la légalité du séjour dans le système d’information central sur la migration. En cas de doute, il peut la faire vérifier par l’autorité cantonale compétente en matière d’étrangers du lieu de domicile ou de séjour de l’un des fiancés. Cette autorité est tenue de renseigner gratuitement l’office dans les meilleurs délais.[^66-5]
 
 [^66-1]: Nouvelle teneur selon le ch. I de l’O du 7 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
-[^66-2]: Nouvelle teneur selon le ch. I de l’O du 28 juin 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
+[^66-2]: Nouvelle teneur selon le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
 [^66-3]: Introduite par le ch. I de l’O du 4 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
 [^66-4]: Introduite par le ch. I de l’O du 27 mars 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
 [^66-5]: Introduit par le ch. I de l’O du 4 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
@@ -1701,7 +1710,7 @@ Il examine, en outre:
 
 <sup>1</sup> L’officier de l’état civil constate le résultat de la procédure préparatoire.
 
-<sup>2</sup> Si les conditions selon l’art. 66, al. 2, sont remplies, l’office de l’état civil communique aux fiancés que le mariage peut être célébré. Il arrête avec eux les détails de la célébration ou les renvoie à cette fin devant l’office de l’état civil qu’ils ont choisi pour la célébration.[^67-2]
+<sup>2</sup> Si les conditions selon l’art. 66, al. 2, sont remplies, l’office de l’état civil communique aux fiancés par écrit que le mariage peut être célébré. Il arrête avec eux les détails de la célébration ou les renvoie à cette fin devant l’office de l’état civil qu’ils ont choisi pour la célébration. Si celle-ci intervient immédiatement après la clôture de la procédure préparatoire, la communication s’effectue oralement.[^67-2]
 
 <sup>3</sup> Si les conditions ne sont pas remplies ou que des doutes importants subsistent, l’office de l’état civil refuse de célébrer le mariage.[^67-3]
 
@@ -1712,7 +1721,7 @@ Il examine, en outre:
 <sup>6</sup> L’art. 16, al. 7, est applicable à la dénonciation des infractions constatées et aux mesures de protection.[^67-4]
 
 [^67-1]: Nouvelle teneur selon le ch. I de l’O du 4 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^67-2]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3815](https://fedlex.data.admin.ch/eli/oc/2019/696)).
+[^67-2]: Nouvelle teneur selon le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
 [^67-3]: Nouvelle teneur selon le ch. I de l’O du 27 mars 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
 [^67-4]: Introduit par le ch. I de l’O du 27 mars 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
 
@@ -1754,11 +1763,11 @@ Le mariage peut être célébré dans les trois mois suivant la communication de
 
 <sup>1</sup> Le mariage est célébré publiquement, en présence de deux témoins majeurs et capables de discernement. Ceux-ci doivent être désignés par les fiancés.
 
-<sup>2</sup> Lors de la célébration, l’officier de l’état civil demande aux fiancés:
+<sup>2</sup> Lors de la célébration, l’officier de l’état civil demande aux fiancés, en adaptant la formule en fonction de leur sexe:
 
 «N. N., déclarez-vous vouloir prendre MM pour époux?»
 
-«M. M., déclarez-vous vouloir prendre NN pour épouse?»
+«M. M., déclarez-vous vouloir prendre NN pour épouse?»[^71-1]
 
 <sup>3</sup> Si l’un et l’autre ont répondu affirmativement, l’officier de l’état civil déclare:
 
@@ -1766,9 +1775,10 @@ Le mariage peut être célébré dans les trois mois suivant la communication de
 
 <sup>4</sup> Immédiatement après la célébration, la pièce justificative qui a été préparée à l’avance en vue de l’enregistrement du mariage est signée par les époux, par les témoins et par l’officier de l’état civil.
 
-<sup>5</sup> S’il existe des éléments permettant de conclure que la demande de mariage n’est manifestement pas l’expression de la libre volonté des fiancés, l’officier de l’état civil refuse la célébration et annule l’autorisation de mariage dans le cadre d’une décision écrite communiquée aux fiancés et à l’officier de l’état civil qui a mené la procédure préparatoire. Il dénonce les faits aux autorités de poursuites pénales (art. 16, al. 7).[^71-1]
+<sup>5</sup> S’il existe des éléments permettant de conclure que la demande de mariage n’est manifestement pas l’expression de la libre volonté des fiancés, l’officier de l’état civil refuse la célébration et annule l’autorisation de mariage dans le cadre d’une décision écrite communiquée aux fiancés et à l’officier de l’état civil qui a mené la procédure préparatoire. Il dénonce les faits aux autorités de poursuites pénales (art. 16, al. 7).[^71-2]
 
-[^71-1]: Introduit par le ch. I de l’O du 27 mars 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
+[^71-1]: Nouvelle teneur selon le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
+[^71-2]: Introduit par le ch. I de l’O du 27 mars 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
 
 #### Art. 72
 
@@ -1845,237 +1855,45 @@ L’officier de l’état civil communique par écrit son refus d’exécuter la
 
 <sup>1</sup> À la demande des deux fiancés, il est délivré un certificat de capacité matrimoniale si ce document est nécessaire à la célébration du mariage d’un citoyen ou d’une citoyenne suisse à l’étranger.
 
-<sup>2</sup> Les dispositions relatives à la procédure préparatoire des mariages célébrés en Suisse (art. 62 à 67, 69 et 74*a*) s’appliquent par analogie à la compétence et à la procédure. À défaut de domicile en Suisse, l’office de l’état civil du lieu d’origine de la fiancée ou du fiancé est compétent.[^75-1]
+<sup>2</sup> Les dispositions relatives à la procédure préparatoire des mariages célébrés en Suisse (art. 62 à 67, 69 et 74*a*) s’appliquent par analogie à la compétence et à la procédure. À défaut de domicile en Suisse, l’office de l’état civil du lieu d’origine de l’un des fiancés est compétent.[^75-1]
 
-[^75-1]: Nouvelle teneur selon le ch. I de l’O du 27 mars 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
+[^75-1]: Nouvelle teneur selon le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
 
-## Chapitre 7*a***** Partenariat enregistré
+## Chapitre 7*a***** Conversion du partenariat enregistré en mariage
 
 [^chap7a-1]
 
-[^chap7a-1]: Introduit par le ch. I de l’O du 28 juin 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
+[^chap7a-1]: Introduit par le ch. I de l’O du 28 juin 2006 ([RO 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)). Nouvelle teneur selon le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
 
-### Section 1 Procédure préliminaire
+#### Art. 75a à 75m
 
-#### Art. 75a
+Abrogés
 
-**Compétence**
+#### Art. 75n
 
-<sup>1</sup>
+**Déclaration de conversion**
 
-Est compétent pour l’exécution de la procédure préliminaire:
+<sup>1</sup> Les partenaires qui veulent convertir en mariage leur partenariat enregistré conclu en Suisse ou à l’étranger avant le 1<sup>er</sup> juillet 2022 peuvent, en Suisse, remettre leur déclaration de conversion à tout officier de l’état civil. À l’étranger, ils peuvent remettre la déclaration à la représentation compétente de la Suisse.
 
-- a. l’office de l’état civil du lieu de domicile de l’un ou l’une des partenaires;
-- b. l’office de l’état civil où il est prévu d’enregistrer le partenariat, lorsque les deux partenaires ont leur domicile à l’étranger et que l’un d’eux ou l’une d’elles possède la nationalité suisse (art. 43 et 65*a* LDIP[^75a-1]).
+<sup>2</sup> Ils doivent remettre leur déclaration de conversion ensemble, personnellement et en la forme écrite.
 
-<sup>2</sup> Un changement ultérieur de domicile ne modifie pas la compétence.
+<sup>3</sup> Si les partenaires démontrent que leur comparution personnelle à l’office de l’état civil ne peut manifestement pas être exigée, la déclaration de conversion peut être reçue en dehors des locaux de l’office.
 
-<sup>3</sup> Lorsque l’un ou l’une des partenaires est en danger de mort, l’officier de l’état civil du lieu de séjour de cette personne peut, sur présentation d’une attestation médicale, exécuter la procédure préliminaire et enregistrer le partenariat.
+<sup>4</sup> Leurs signatures doivent être légalisées.
 
-[^75a-1]: [RS 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
+#### Art. 75o
 
-#### Art. 75b
-
-**Dépôt de la demande**
-
-<sup>1</sup> Les partenaires présentent leur demande d’exécution de la procédure préliminaire à l’office de l’état civil compétent.
-
-<sup>2</sup> Si la compétence d’enregistrement est donnée conformément à l’art. 75*a*, les partenaires résidant à l’étranger peuvent présenter leur demande par l’entremise de la représentation compétente de la Suisse.
-
-#### Art. 75c
-
-**Documents**
+**Conversion sous forme de cérémonie**
 
 <sup>1</sup>
 
-À l’appui de leur demande, les partenaires présentent les documents suivants:
+Si, à la demande commune des partenaires enregistrés, la déclaration de conversion est reçue par l’officier de l’état civil dans la salle des mariages, sous forme de cérémonie et en présence de deux témoins majeurs et capables de discernement, les règles suivantes sont applicables:
 
-- a. un certificat relatif à leur domicile actuel;
-- b. des documents relatifs à la naissance, au sexe, au nom, à la filiation, à l’état civil (pour les personnes qui ont déjà été liées par un partenariat enregistré ou mariées: date de la dissolution du partenariat ou du mariage) ainsi qu’aux lieux d’origine et à la nationalité, lorsque les données relatives aux partenaires n’ont pas encore été enregistrées ou que les données disponibles ne sont pas exactes, complètes ou conformes à l’état actuel.
+- a. la réception de la déclaration de conversion est publique;
+- b. les témoins doivent être choisis par les deux partenaires;
+- c. l’officier de l’état civil reçoit la déclaration de conversion, la fait signer par les deux partenaires et les deux témoins et légalise les signatures.
 
-<sup>2</sup> ...[^75c-1]
-
-<sup>3</sup> Les partenaires qui ne sont pas citoyens suisses joignent en outre une pièce établissant la légalité de leur séjour en Suisse jusqu’au jour probable de la conclusion du partenariat.[^75c-2]
-
-[^75c-1]: Abrogé par le ch. I de l’O du 7 nov. 2012, avec effet au 1<sup>er</sup> janv. 2013 ([RO 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
-[^75c-2]: Introduit par le ch. I de l’O du 4 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-
-#### Art. 75d
-
-**Déclarations**
-
-<sup>1</sup>
-
-Les partenaires déclarent devant l’officier de l’état civil:
-
-- a. que les données figurant dans la demande et les documents présentés sont à jour, complets et exacts;
-- b.[^75d-1] ...
-- c. ne pas être parents en ligne directe, ni frères ou sœurs germains, consanguins ou utérins, que la parenté repose sur la descendance ou l’adoption;
-- d. ne pas avoir contracté de partenariat enregistré ou de mariage antérieurs non dissous.
-
-<sup>1bis</sup> L’officier de l’état civil rappelle aux partenaires qu’il ne peut enregistrer le partenariat s’il n’est pas l’expression de leur libre volonté.[^75d-2]
-
-<sup>2</sup>
-
-L’officier de l’état civil invite expressément les partenaires à dire la vérité et les rend attentifs aux conséquences pénales en cas de:
-
-- a. partenariat forcé (art. 181*a* CP[^75d-3]);
-- b. d’infractions contre l’intégrité sexuelle (art. 187 à 200 CP);
-- c. de crimes ou délits contre la famille (art. 213 à 220 CP);
-- d. de faux dans les titres (art. 251 à 257 CP);
-- e. d’infraction aux art. 115 à 122 LEI[^75d-4].[^75d-5]
-
-<sup>2bis</sup> L’officier de l’état civil légalise les signatures.[^75d-6]
-
-<sup>3</sup> Dans des cas fondés, la déclaration prévue à l’al. 1 peut être reçue ailleurs que dans les locaux officiels.[^75d-7]
-
-[^75d-1]: Abrogée par le ch. I de l’O du 7 nov. 2012, avec effet au 1<sup>er</sup> janv. 2013 ([RO 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
-[^75d-2]: Introduit par le ch. I de l’O du 4 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^75d-3]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^75d-4]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^75d-5]: Nouvelle teneur selon le ch. I de l’O du 27 mars 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
-[^75d-6]: Introduit par le ch. I de l’O du 27 mars 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
-[^75d-7]: Introduit par le ch. I de l’O du 4 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-
-#### Art. 75e
-
-**Examen de la demande**
-
-<sup>1</sup> L’office de l’état civil effectue l’examen prévu à l’art. 16.
-
-<sup>2</sup>
-
-Il examine, en outre:
-
-- a. si la demande a été présentée en la forme requise;
-- b. si les documents et déclarations nécessaires sont joints;
-- c.[^75e-1] si les conditions d’enregistrement du partenariat sont remplies et s’il n’existe aucun empêchement à son enregistrement (art. 3, 4 et 26 LPart);
-- d.[^75e-2] si les partenaires qui ne sont pas citoyens suisses ont établi la légalité de leur séjour en Suisse (art. 5, al. 4, LPart);
-- e.[^75e-3] s’il n’existe aucun élément permettant de conclure que la demande d’enregistrement n’est manifestement pas l’expression de la libre volonté des partenaires (art. 6, al. 1, LPart).
-
-<sup>3</sup> L’office de l’état civil peut vérifier la légalité du séjour dans le système d’information central sur la migration. En cas de doute, il peut la faire vérifier par l’autorité cantonale compétente en matière d’étrangers du lieu de domicile ou de séjour de l’un des partenaires. Cette autorité est tenue de renseigner gratuitement l’office dans les meilleurs délais.[^75e-4]
-
-[^75e-1]: Nouvelle teneur selon le ch. I de l’O du 7 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
-[^75e-2]: Introduite par le ch. I de l’O du 4 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^75e-3]: Introduite par le ch. I de l’O du 27 mars 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
-[^75e-4]: Introduit par le ch. I de l’O du 4 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-
-#### Art. 75f
-
-**Clôture de la procédure préliminaire**[^75f-1]
-
-<sup>1</sup> L’officier de l’état civil constate le résultat de la procédure préliminaire.
-
-<sup>2</sup> Si les conditions selon l’art. 75*e*, al. 2, sont remplies, l’office de l’état civil communique aux partenaires que le partenariat peut être enregistré. Il arrête avec eux les détails de l’enregistrement ou les renvoie à cette fin devant l’office de l’état civil qu’ils ont choisi pour l’enregistrement.[^75f-2]
-
-<sup>3</sup> Si les conditions ne sont pas remplies ou que des doutes importants subsistent, l’office de l’état civil refuse l’enregistrement.[^75f-3]
-
-<sup>4</sup> L’officier de l’état civil communique par écrit aux partenaires son refus d’enregistrer le partenariat, en indiquant les voies de recours.
-
-<sup>5</sup> L’office de l’état civil communique l’identité des partenaires qui n’ont pas établi la légalité de leur séjour à l’autorité cantonale compétente en matière d’étrangers du lieu de séjour de la personne concernée.
-
-<sup>6</sup> L’art. 16, al. 7, est applicable à la dénonciation des infractions constatées et aux mesures de protection.[^75f-4]
-
-[^75f-1]: Nouvelle teneur selon le ch. I de l’O du 4 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^75f-2]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3815](https://fedlex.data.admin.ch/eli/oc/2019/696)).
-[^75f-3]: Nouvelle teneur selon le ch. I de l’O du 27 mars 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
-[^75f-4]: Introduit par le ch. I de l’O du 27 mars 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
-
-#### Art. 75g
-
-**Moment de l’enregistrement**
-
-Le partenariat peut être enregistré immédiatement et au plus tard trois mois après la communication de la décision relative au résultat positif de la procédure préliminaire.
-
-#### Art. 75h
-
-**Coopération d’autres autorités**[^75h-1]
-
-<sup>1</sup> Si la comparution personnelle à l’office de l’état civil compétent ne peut manifestement pas être exigée de l’un des partenaires, l’office de l’état civil du lieu de séjour peut être appelé à coopérer à l’exécution de la procédure préliminaire du partenariat, en recevant notamment la déclaration prévue à l’art. 75*d*, al. 1.
-
-<sup>2</sup> Tout partenaire résidant à l’étranger peut faire la déclaration prévue à l’art. 75*d*, al. 1, auprès d’une représentation de la Suisse. Dans des cas fondés, la déclaration peut, exceptionnellement et avec l’autorisation de l’office de l’état civil, être reçue par un officier public étranger, qui légalise la signature.
-
-[^75h-1]: Nouvelle teneur selon le ch. I de l’O du 4 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-
-### Section 2 Conclusion du partenariat enregistré****
-
-[^chap7a-sec2-1]
-
-[^chap7a-sec2-1]: Nouvelle teneur selon le ch. I de l’O du 4 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-
-#### Art. 75i
-
-**Lieu**[^75i-1]
-
-<sup>1</sup> Le partenariat enregistré est conclu dans la salle de l’arrondissement de l’état civil choisi par les partenaires (art. 75*f*, al. 2).
-
-<sup>2</sup> L’officier de l’état civil peut recevoir la déclaration de volonté de conclure le partenariat dans un autre lieu si les partenaires démontrent que leur déplacement à la salle officielle ne peut manifestement pas être exigé.
-
-<sup>3</sup> Les partenaires présentent l’autorisation d’enregistrer le partenariat lorsque la procédure préliminaire a été exécutée dans un autre arrondissement de l’état civil.
-
-[^75i-1]: Nouvelle teneur selon le ch. I de l’O du 4 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-
-#### Art. 75k
-
-**Forme de la conclusion[^75k-1]**
-
-<sup>1</sup> La réception de la déclaration de volonté de conclure un partenariat enregistré est publique.[^75k-2]
-
-<sup>2</sup> L’officier de l’état civil reçoit la déclaration concordante des partenaires exprimant leur volonté de conclure un partenariat, leur fait signer l’acte de partenariat, puis l’enregistre.[^75k-3]
-
-<sup>3</sup> Les signatures doivent être légalisées.
-
-<sup>4</sup> S’il existe des éléments permettant de conclure que la demande d’enregistrement n’est manifestement pas l’expression de la libre volonté des partenaires, l’officier de l’état civil refuse l’enregistrement et annule l’autorisation d’enregistrement dans le cadre d’une décision écrite communiquée aux partenaires et à l’officier de l’état civil qui a mené la procédure préliminaire. Il dénonce les faits aux autorités de poursuites pénales (art. 16, al. 7).[^75k-4]
-
-[^75k-1]: Nouvelle teneur selon le ch. I de l’O du 4 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^75k-2]: Nouvelle teneur selon le ch. I de l’O du 4 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^75k-3]: Nouvelle teneur selon le ch. I de l’O du 4 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^75k-4]: Introduit par le ch. I de l’O du 27 mars 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
-
-#### Art. 75l
-
-**Dispositions organisationnelles particulières**[^75l-1]
-
-<sup>1</sup> L’officier de l’état civil peut limiter le nombre de participants pour des motifs d’organisation. Quiconque perturbe la conclusion d’un partenariat est expulsé de la salle.
-
-<sup>2</sup> Aucun partenariat ne peut être conclu le dimanche ni un jour férié général au siège de l’office de l’état civil.
-
-[^75l-1]: Nouvelle teneur selon le ch. I de l’O du 4 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-
-### Section 3**** Partenariat de ressortissants étrangers
-
-[^chap7a-sec3-1]
-
-[^chap7a-sec3-1]: Introduite par le ch. I de l’O du 24 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5625](https://fedlex.data.admin.ch/eli/oc/2007/772)).
-
-#### Art. 75m
-
-<sup>1</sup> L’officier de l’état civil appelé à exécuter la procédure préliminaire du partenariat ou à l’enregistrer refuse son concours lorsque l’un des partenaires ne veut manifestement pas mener une vie commune, mais éluder les dispositions sur l’admission et le séjour des étrangers (art. 6, al. 2, LPart).
-
-<sup>2</sup> L’officier de l’état civil entend les partenaires séparément. Exceptionnellement, les partenaires peuvent être entendus ensemble si cela paraît plus opportun pour établir les faits. Les partenaires ont la possibilité de déposer des pièces écrites.
-
-<sup>3</sup> L’officier de l’état civil requiert le dossier des autorités migratoires; il peut solliciter des renseignements auprès d’autres autorités et de tiers.
-
-<sup>4</sup> Les autorités précitées sont tenues de fournir les renseignements requis dans les meilleurs délais et sans frais.
-
-<sup>5</sup> L’audition des partenaires et les renseignements donnés oralement ou par téléphone font l’objet d’un procès-verbal écrit.
-
-<sup>6</sup>
-
-L’officier de l’état civil communique par écrit son refus d’exécuter la procédure préliminaire du partenariat ou de recevoir la déclaration de volonté de conclure un partenariat aux personnes et autorités suivantes:
-
-- a. aux partenaires, en indiquant les voies de recours;
-- b. à l’autorité de surveillance du canton d’origine, si un des partenaires est citoyen suisse;
-- c. à l’autorité de surveillance du ou des cantons de domicile des partenaires.[^75m-1]
-
-<sup>7</sup> L’office de l’état civil communique à l’autorité cantonale compétente en matière d’étrangers du lieu de séjour de la personne concernée les faits indiquant que le partenariat est prévu ou a été conclu dans le but de contourner les dispositions sur l’admission et le séjour des étrangers (art. 82*a* OASA[^75m-2]). Il communique en outre le résultat des investigations éventuellement menées, sa décision et, le cas échéant, le retrait de la demande.[^75m-3]
-
-<sup>8</sup> L’art. 16, al. 7, est applicable à la dénonciation des infractions constatées et aux mesures de protection.[^75m-4]
-
-[^75m-1]: Nouvelle teneur selon le ch. I de l’O du 4 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^75m-2]: [RS 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
-[^75m-3]: Introduit par le ch. I de l’O du 4 juin 2010 ([RO 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)). Nouvelle teneur selon le ch. I de l’O du 31 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
-[^75m-4]: Introduit par le ch. I de l’O du 27 mars 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
+<sup>2</sup> Au surplus, les art. 72 et 75*n* sont applicables par analogie.
 
 ## Chapitre 8 Système d’information central de personnes****
 
@@ -2237,9 +2055,9 @@ Les données sont saisies selon le jeu de caractères ISO 8859-15[^80-2].
 
 L’OFEC est notamment chargé des tâches suivantes:[^84-2]
 
-- a.[^84-3] l’élaboration d’instructions concernant la tenue des registres de l’état civil, la procédure préparatoire et la célébration du mariage, la procédure préliminaire et l’enregistrement du partenariat ainsi que la sauvegarde des registres et des pièces justificatives;
+- a.[^84-3] l’élaboration d’instructions concernant notamment la tenue des registres de l’état civil, la procédure préparatoire et la célébration du mariage, la réception et l’enregistrement de déclarations ainsi que la sauvegarde des registres et des pièces justificatives;
 - b. l’inspection des offices de l’état civil, des autorités de surveillance et des archives cantonales de l’état civil;
-- c.[^84-4] ...
+- c.[^84-4] …
 
 <sup>4</sup> Pour l’échange et l’obtention de documents d’état civil, il peut traiter directement avec les représentations de la Suisse à l’étranger ainsi qu’avec les autorités et services étrangers.
 
@@ -2257,7 +2075,7 @@ L’UIS est responsable des aspects techniques de l’exploitation, du développ
 
 [^84-1]: Nouvelle teneur selon le ch. I de l’O du 26 oct. 2016, en vigueur depuis le 1<sup>er</sup> juil. 2017 ([RO 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
 [^84-2]: Nouvelle teneur selon le ch. I de l’O du 31 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
-[^84-3]: Nouvelle teneur selon le ch. I de l’O du 28 juin 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
+[^84-3]: Nouvelle teneur selon le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
 [^84-4]: Abrogée par le ch. I de l’O du 31 oct. 2018, avec effet au 1<sup>er</sup> janv. 2019 ([RO 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
 [^84-5]: Nouvelle expression selon le ch. I de l’O du 31 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)). Il a été tenu compte de cette mod. dans tout le texte.
 [^84-6]: Introduit par le ch. I de l’O du 26 oct. 2016, en vigueur depuis le 1<sup>er</sup> juil. 2017 ([RO 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
@@ -2280,7 +2098,7 @@ Une fois par année, les autorités de surveillance présentent à l’OFEC un r
 - e. l’accomplissement de tâches pour lesquelles l’obligation d’établir un rapport est prévue spécialement, comme pour ce qui a trait au respect de la protection des données et à la garantie de la sécurité des données ainsi qu’aux mesures d’intégration des personnes handicapées (art. 18 de la LF du 13 déc. 2002 sur l’élimination des inégalités frappant les personnes handicapées[^85-2]);
 - f. les résultats obtenus pour optimiser les tâches à effectuer.
 
-<sup>3</sup> ...[^85-3]
+<sup>3</sup> …[^85-3]
 
 [^85-1]: Nouvelle teneur selon le ch. I de l’O du 26 oct. 2016, en vigueur depuis le 1<sup>er</sup> juil. 2017 ([RO 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
 [^85-2]: [RS 151.3](https://fedlex.data.admin.ch/eli/cc/2003/667)
@@ -2476,22 +2294,23 @@ L’office de l’état civil compétent selon la législation cantonale a accè
 
 #### Art. 96
 
-**Célébration du mariage et enregistrement du partenariat par un membre d’un exécutif communal[^96-1]**
+**Célébration du mariage par un membre d’un exécutif communal [^96-1]**
 
 <sup>1</sup>
 
-Le droit cantonal peut prévoir que certains membres d’un exécutif communal soient nommés en tant qu’officiers de l’état civil extraordinaires avec l’autorisation exclusive de célébrer des mariages:
+Le droit cantonal peut prévoir que certains membres d’un exécutif communal soient nommés en tant qu’officiers de l’état civil extraordinaires avec l’autorisation exclusive de célébrer des mariages et de recevoir les déclarations de conversion de partenariats enregistrés en mariage:[^96-2]
 
 - a. si la célébration des mariages par ces personnes provient d’une tradition et si elle est profondément ancrée dans la population;
 - b. si la formation et le perfectionnement de ces personnes sont garantis.
 
-<sup>1bis</sup> Les officiers de l’état civil extraordinaires enregistrent également les partenariats.[^96-2]
+<sup>1bis</sup> …[^96-3]
 
-<sup>2</sup> L’autorité de surveillance informe l’OFEC des personnes qu’elle a nommées dans son rapport (art. 85, al. 2).[^96-3]
+<sup>2</sup> L’autorité de surveillance informe l’OFEC des personnes qu’elle a nommées dans son rapport (art. 85, al. 2).[^96-4]
 
-[^96-1]: Nouvelle teneur selon le ch. I de l’O du 31 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
-[^96-2]: Introduit par selon le ch. I de l’O du 31 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
-[^96-3]: Nouvelle teneur selon le ch. I de l’O du 26 oct. 2016, en vigueur depuis le 1<sup>er</sup> juil. 2017 ([RO 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
+[^96-1]: Nouvelle teneur selon le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
+[^96-2]: Nouvelle teneur selon le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
+[^96-3]: Introduit par selon le ch. I de l’O du 31 oct. 2018 ([RO 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)). Abrogé par le ch. I de l’O du 30 mars 2022, avec effet au 1<sup>er</sup> juil. 2022 ([RO 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
+[^96-4]: Nouvelle teneur selon le ch. I de l’O du 26 oct. 2016, en vigueur depuis le 1<sup>er</sup> juil. 2017 ([RO 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
 
 #### Art. 97
 
@@ -2559,7 +2378,7 @@ Sont abrogés:
 - 1\. l’ordonnance du 22 décembre 1980 sur l’acte d’origine[^99-1];
 - 2\. l’ordonnance du 1<sup>er</sup> juin 1953 sur l’état civil[^99-2] à l’exception des art. 130 à 132 (art. 100, al. 3). Les art. 130 à 132 de l’ordonnance du 1<sup>er</sup> juin 1953 sur l’état civil seront abrogés lors de l’entrée en vigueur des art. 22 et 43, al. 1 à 3, de la nouvelle ordonnance du 28 avril 2004 sur l’état civil, fixée par le DFJP (art. 100, al. 3).
 
-<sup>2</sup> ...[^99-3]
+<sup>2</sup> …[^99-3]
 
 [^99-1]: [[RO 1981 34](https://fedlex.data.admin.ch/eli/oc/1981/34_34_34), [2000 2028](https://fedlex.data.admin.ch/eli/oc/2000/303)]
 [^99-2]: [[RO 1953 815](https://fedlex.data.admin.ch/eli/oc/1953/797_815_645), **1977** 2065, [1987 285](https://fedlex.data.admin.ch/eli/oc/1987/285_285_285), [1988 2030](https://fedlex.data.admin.ch/eli/oc/1988/2030_2030_2030), [1991 1594](https://fedlex.data.admin.ch/eli/oc/1991/1594_1594_1594), [1994 1384](https://fedlex.data.admin.ch/eli/oc/1994/1384_1384_1384), [1997 2006](https://fedlex.data.admin.ch/eli/oc/1997/2006_2006_2006), [1999 3028](https://fedlex.data.admin.ch/eli/oc/1999/463)[3480](https://fedlex.data.admin.ch/eli/oc/1999/490)art. 17 ch. 3, [2001 3068](https://fedlex.data.admin.ch/eli/oc/2001/458), [2004 2915](https://fedlex.data.admin.ch/eli/oc/2004/362)art. 99 al. 1 ch. 2. [RO 2005 1823](https://fedlex.data.admin.ch/eli/oc/2005/300)]

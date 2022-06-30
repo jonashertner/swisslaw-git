@@ -4,11 +4,11 @@ title: Zivilstandsverordnung vom 28. April 2004 (ZStV)
 short: ZStV
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/362"
 language: de
-version: 2022-01-01
+version: 2022-07-01
 adopted: 2004-04-28
 in_force: 2004-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/362/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2004-362-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/362/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/362/20220701/de/xml/fedlex-data-admin-ch-eli-cc-2004-362-20220701-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/362/20220701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,17 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/362/20220101/de"
 
 (ZStV)
 
-vom 28. April 2004 (Stand am 1. Januar 2022)
+vom 28. April 2004 (Stand am 1. Juli 2022)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf die Artikel 40, 43*a*, 44 Absatz 2, 45*a* Absatz 3, 48, 103 und Schlusstitel Artikel 6*a* Absatz 1 des Zivilgesetzbuches[^ingress-1] (ZGB) sowie Artikel 8 des Partnerschaftsgesetzes vom 18. Juni 2004[^ingress-2] (PartG),[^ingress-3]
+gestützt auf die Artikel 40, 43*a*, 44 Absatz 2, 45*a* Absatz 3, 48 und 103 sowie Schlusstitel Artikel 6*a* Absatz 1 und 9*g* Absatz 4 des Zivilgesetzbuches[^ingress-1] (ZGB) sowie Artikel 35 Absatz 4 des Partnerschaftsgesetzes vom 18. Juni 2004[^ingress-2] (PartG),[^ingress-3]
 
 verordnet:
 
 [^ingress-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 [^ingress-2]: [SR 211.231](https://fedlex.data.admin.ch/eli/cc/2005/782)
-[^ingress-3]: Fassung gemäss Ziff. I der V vom 28. Juni 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
+[^ingress-3]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Juli 2022 ([AS 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
@@ -53,11 +53,13 @@ verordnet:
 
 <sup>2</sup> Die Kantone melden die Verlegung eines Amtssitzes vorgängig dem EAZW.
 
-<sup>3</sup> In jedem Zivilstandskreis wird mindestens ein Amtsraum bezeichnet, der für die Durchführung von Trauungen und die Begründung eingetragener Partnerschaften kostenfrei zur Verfügung steht.
+<sup>3</sup> In jedem Zivilstandskreis wird mindestens ein Trauungslokal bezeichnet, das für die Durchführung von Trauungen und zeremoniellen Umwandlungen der eingetragenen Partnerschaft in eine Ehe kostenfrei zur Verfügung steht.[^1a-2]
 
-<sup>4</sup> Die Benutzung anderer Lokale für die Durchführung von Trauungen und die Begründung eingetragener Partnerschaften unterliegt der Bewilligung der Aufsichtsbehörde; vorbehalten bleiben die Fälle nach den Artikeln 70 Absatz 2 und 75*i* Absatz 2.
+<sup>4</sup> Die Benützung anderer Lokale für die Durchführung von Trauungen und zeremoniellen Umwandlungen der eingetragenen Partnerschaft in eine Ehe unterliegt der Bewilligung der Aufsichtsbehörde; vorbehalten bleiben die Fälle nach Artikel 70 Absatz 2.[^1a-3]
 
 [^1a-1]: Eingefügt durch Ziff. I der V vom 4. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^1a-2]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Juli 2022 ([AS 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
+[^1a-3]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Juli 2022 ([AS 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
 
 #### Art. 2
 
@@ -132,25 +134,28 @@ Die Vertretungen der Schweiz im Ausland haben im Zivilstandswesen insbesondere f
 
 - a. Information und Beratung der betroffenen Personen;
 - b. Beschaffung, Entgegennahme, Beglaubigung, Übersetzung und Übermittlung ausländischer Entscheidungen und Urkunden über den Zivilstand;
-- c. Entgegennahme und Übermittlung von Gesuchen und Erklärungen für die Eheschliessung (Art. 63 Abs. 2 und 65 Abs. 1) oder Begründung einer eingetragenen Partnerschaft (Art. 75*b* Abs. 2 und 75*d* Abs. 1) in der Schweiz, Anhörung der Verlobten (Art. 74*a* Abs. 2) oder der Partnerinnen und Partner (Art. 75*m* Abs. 2) und Übermittlung von schweizerischen Ehefähigkeitszeugnissen im Hinblick auf die Eheschliessung imAusland (Art. 75);
+- c.[^5-3] Entgegennahme und Übermittlung von Gesuchen und Erklärungen für die Eheschliessung in der Schweiz (Art. 63 Abs. 2 und 65 Abs. 1) sowie für die Ausstellung von Ehefähigkeitszeugnissen im Hinblick auf die Eheschliessung im Ausland (Art. 75) und Anhörung der Verlobten (Art. 74*a* Abs. 2);
+- c<sup>bis</sup>.[^5-4] Entgegennahme und Übermittlung von Erklärungen über die Umwandlung der eingetragenen Partnerschaft in eine Ehe (Art. 75*n*);
 - d. Entgegennahme und Übermittlung von Erklärungen über die Vaterschaft (Art. 11 Abs. 6), wenn eine Beurkundung der Anerkennung des Kindes im Ausland nicht möglich ist;
-- e.[^5-3] Entgegennahme und Übermittlung von Namenserklärungen (Art. 12 Abs. 2, 12*a* Abs. 2, 13 Abs. 1, 13*a* Abs. 1, 14 Abs. 2, 14*a* Abs. 1, 37 Abs. 4 sowie 37*a* Abs. 5);
-- e<sup>bis</sup>.[^5-4] Entgegennahme und Übermittlung von Erklärungen über die Änderung des im Personenstandsregister eingetragenen Geschlechts und über die damit verbundene Änderung von Vornamen (Art. 14*b*);
+- e.[^5-5] Entgegennahme und Übermittlung von Namenserklärungen (Art. 12 Abs. 2, 12*a* Abs. 2, 13 Abs. 1, 13*a* Abs. 1, 14 Abs. 2, 14*a* Abs. 1, 37 Abs. 4 sowie 37*a* Abs. 5);
+- e<sup>bis</sup>.[^5-6] Entgegennahme und Übermittlung von Erklärungen über die Änderung des im Personenstandsregister eingetragenen Geschlechts und über die damit verbundene Änderung von Vornamen (Art. 14*b*);
 - f. Abklärung von Gemeinde- und Kantonsbürgerrechten und des Schweizer Bürgerrechts;
 - g. Überprüfung der Echtheit ausländischer Urkunden;
 - h. Beschaffung und Übermittlung von Informationen über das ausländische Recht;
 - i. Erhebung von Gebühren.
 
-<sup>2</sup> Sie melden dem Zivilstandsamt und der Aufsichtsbehörde zuhanden der zuständigen kantonalen Ausländerbehörde Tatsachen, die darauf hindeuten, dass mit einer beabsichtigten oder erfolgten Eheschliessung oder Begründung einer eingetragenen Partnerschaft eine Umgehung der Bestimmungen über Zulassung und Aufenthalt von Ausländerinnen und Ausländern bezweckt wird (Art. 82*a* der V vom 24. Okt. 2007[^5-5] über Zulassung, Aufenthalt und Erwerbstätigkeit, VZAE).[^5-6]
+<sup>2</sup> Sie melden dem Zivilstandsamt und der Aufsichtsbehörde zuhanden der zuständigen kantonalen Ausländerbehörde Tatsachen, die darauf hindeuten, dass mit einer beabsichtigten oder erfolgten Eheschliessung oder Begründung einer eingetragenen Partnerschaft eine Umgehung der Bestimmungen über Zulassung und Aufenthalt von Ausländerinnen und Ausländern bezweckt wird (Art. 82*a* der V vom 24. Okt. 2007[^5-7] über Zulassung, Aufenthalt und Erwerbstätigkeit, VZAE).[^5-8]
 
 <sup>3</sup> Das EAZW erlässt die nötigen Weisungen und übt die Aufsicht aus.
 
 [^5-1]: Fassung gemäss Ziff. I der V vom 4. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
 [^5-2]: Fassung gemäss Ziff. I der V vom 7. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
-[^5-3]: Fassung gemäss Ziff. I der V vom 14. Mai 2014, in Kraft seit 1. Juli 2014 ([AS 2014 1327](https://fedlex.data.admin.ch/eli/oc/2014/282)).
-[^5-4]: Eingefügt durch Ziff. I der V vom 27. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
-[^5-5]: [SR 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
-[^5-6]: Fassung gemäss Ziff. I der V vom 31. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
+[^5-3]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Juli 2022 ([AS 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
+[^5-4]: Eingefügt durch Ziff. I der V vom 30. März 2022, in Kraft seit 1. Juli 2022 ([AS 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
+[^5-5]: Fassung gemäss Ziff. I der V vom 14. Mai 2014, in Kraft seit 1. Juli 2014 ([AS 2014 1327](https://fedlex.data.admin.ch/eli/oc/2014/282)).
+[^5-6]: Eingefügt durch Ziff. I der V vom 27. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^5-7]: [SR 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
+[^5-8]: Fassung gemäss Ziff. I der V vom 31. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
 
 #### Art. 6
 
@@ -201,11 +206,11 @@ Erfasst werden:
 - m. Adoption;
 - n. Verschollenerklärung;
 - o. Geschlechtsänderung;
-- p.[^7-1] Vorbereitung der Eintragung einer Partnerschaft;
+- p.[^7-1] ...
 - q.[^7-2] Eintragung einer Partnerschaft;
 - r.[^7-3] Auflösung einer eingetragenen Partnerschaft.
 
-[^7-1]: Eingefügt durch Ziff. I der V vom 28. Juni 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
+[^7-1]: Eingefügt durch Ziff. I der V vom 28. Juni 2006 ([AS 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)). Aufgehoben durch Ziff. I der V vom 30. März 2022, mit Wirkung seit 1. Juli 2022 ([AS 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
 [^7-2]: Eingefügt durch Ziff. I der V vom 28. Juni 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
 [^7-3]: Eingefügt durch Ziff. I der V vom 28. Juni 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
 
@@ -326,7 +331,7 @@ Folgende Daten werden im Personenstandsregister geführt:
 Die Zentrale Ausgleichsstelle der Alters- und Hinterlassenenversicherung (ZAS) weist der nach Artikel 53 Absatz 1 gemeldeten Person die AHV-Nummer zu.
 
 [^8a-1]: Eingefügt durch Anhang Ziff. 2 der Registerharmonisierungsverordnung vom 21. Nov. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6719](https://fedlex.data.admin.ch/eli/oc/2007/868)).
-[^8a-2]: Ausdruck gemäss Anhang Ziff. II 8 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Diese Änd. wurde im ganzen Erlass berücksichtigt
+[^8a-2]: Ausdruck gemäss Anhang Ziff. II 8 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 #### Art. 9
 
@@ -439,25 +444,22 @@ Wird das Kind durch den Vater anerkannt und ist es nicht das erste gemeinsame Ki
 
 **Namenserklärung vor der Trauung**[^12-1]
 
-<sup>1</sup> Die Brautleute geben gegenüber der Zivilstandsbeamtin oder dem Zivilstandsbeamten, welche oder welcher das Vorbereitungsverfahren zur Eheschliessung durchführt oder die Trauung vornimmt, die Erklärung nach Artikel 160 Absatz 2 oder 3 ZGB ab.
+<sup>1</sup> Die Verlobten geben gegenüber der Zivilstandsbeamtin oder dem Zivilstandsbeam-ten, die oder der das Vorbereitungsverfahren zur Eheschliessung durchführt oder die Trauung vornimmt, die Erklärung nach Artikel 160 Absatz 2 oder 3 ZGB ab.[^12-2]
 
-<sup>2</sup> Bei Trauung im Ausland kann die Erklärung der Vertretung der Schweiz oder dem Zivilstandsamt des Heimatortes oder des schweizerischen Wohnsitzes der Braut oder des Bräutigams abgegeben werden.
+<sup>2</sup> Bei Trauung im Ausland kann die Erklärung der Vertretung der Schweiz oder dem Zivilstandsamt des Heimatortes oder des schweizerischen Wohnortes einer oder eines der Verlobten abgegeben werden. Diese Bestimmung gilt sinngemäss für im Ausland begründete eingetragene Partnerschaften.[^12-3]
 
-<sup>3</sup> Die Unterschriften werden beglaubigt, wenn die Namenserklärung unabhängig vom Vorbereitungsverfahren abgegeben wird.
+<sup>3</sup> Die Unterschriften werden beglaubigt.[^12-4]
 
 [^12-1]: Fassung gemäss Ziff. I der V vom 7. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
+[^12-2]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Juli 2022 ([AS 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
+[^12-3]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Juli 2022 ([AS 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
+[^12-4]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Juli 2022 ([AS 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
 
 #### Art. 12a
 
-**Namenserklärung vor der Beurkundung der eingetragenen Partnerschaft**[^12a-1]
+[^12a-1]
 
-<sup>1</sup> Die Partnerinnen oder Partner können gegenüber der Zivilstandsbeamtin oder dem Zivilstandsbeamten, welche oder welcher das Vorverfahren zur Eintragung der Partnerschaft durchführt oder die eingetragene Partnerschaft beurkundet, die Erklärung nach Artikel 12*a* PartG abgeben.
-
-<sup>2</sup> Wird die Partnerschaft im Ausland eingetragen, so kann die Erklärung der Vertretung der Schweiz oder dem Zivilstandsamt des Heimatortes oder des schweizerischen Wohnsitzes einer der Partnerinnen oder eines der Partner abgegeben werden.
-
-<sup>3</sup> Die Unterschriften werden beglaubigt, wenn die Namenserklärung unabhängig vom Vorverfahren abgegeben wird.
-
-[^12a-1]: Eingefügt durch Ziff. I der V vom 7. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
+[^12a-1]: Eingefügt durch Ziff. I der V vom 7. Nov. 2012 ([AS 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)). Aufgehoben durch Ziff. I der V vom 30. März 2022, mit Wirkung seit 1. Juli 2022 ([AS 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
 
 #### Art. 13
 
@@ -487,7 +489,7 @@ Wird das Kind durch den Vater anerkannt und ist es nicht das erste gemeinsame Ki
 
 <sup>2</sup> Im Zusammenhang mit einem ausländischen Zivilstandsereignis kann eine solche Erklärung der Aufsichtsbehörde direkt oder durch Vermittlung der Vertretung der Schweiz abgegeben werden.[^14-4]
 
-<sup>3</sup> Wenn eine Schweizerin oder ein Schweizer die Namenserklärung nach Artikel 12, 12*a*, 13, 13*a*, 14*a*, 37 Absatz 2 oder 3 oder Artikel 37*a* Absatz 3 oder 4 abgibt, so gilt dies als Erklärung, den Namen dem Heimatrecht unterstellen zu wollen.[^14-5]
+<sup>3</sup> Wenn eine Schweizerin oder ein Schweizer die Namenserklärung nach Artikel 12, 13, 13*a*, 14*a*, 37 Absatz 2 oder 3 oder Artikel 37*a* Absatz 3 oder 4 abgibt, so gilt dies als Erklärung, den Namen dem Heimatrecht unterstellen zu wollen.[^14-5]
 
 <sup>4</sup> Im Zusammenhang mit einem sie oder ihn persönlich betreffenden Zivilstandsereignis kann die Schweizerin oder der Schweizer mit Wohnsitz im Ausland oder die Ausländerin oder der Ausländer gegenüber der Zivilstandsbeamtin oder dem Zivilstandsbeamten schriftlich erklären, die Eintragung des Geschlechts im Personenstandsregister und die damit verbundene Änderung von Vornamen dem Heimatrecht unterstellen zu wollen (Art. 40*a* IPRG).[^14-6]
 
@@ -497,7 +499,7 @@ Wird das Kind durch den Vater anerkannt und ist es nicht das erste gemeinsame Ki
 [^14-2]: [SR 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
 [^14-3]: Fassung gemäss Ziff. I der V vom 4. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
 [^14-4]: Fassung gemäss Ziff. I der V vom 4. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^14-5]: Fassung gemäss Ziff. I der V vom 14. Mai 2014, in Kraft seit 1. Juli 2014 ([AS 2014 1327](https://fedlex.data.admin.ch/eli/oc/2014/282)).
+[^14-5]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Juli 2022 ([AS 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
 [^14-6]: Eingefügt durch Ziff. I der V vom 27. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
 [^14-7]: Eingefügt durch Ziff. I der V vom 27. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
 
@@ -687,31 +689,34 @@ Eigenhändig und in Gegenwart der Person, die für die Entgegennahme oder Beurku
 - a. Zustimmung zur Anerkennung (Art. 11 Abs. 4);
 - b. Erklärung über die Anerkennung eines Kindes (Art. 11 Abs. 5 und 6);
 - b<sup>bis</sup>.[^18-2] Erklärung über die gemeinsame elterliche Sorge (Art. 11*b* Abs. 1);
-- c. Namenserklärung vor der Trauung, wenn sie unabhängig vom Vorbereitungsverfahren abgegeben wird (Art. 12 Abs. 3);
-- d. Namenserklärung vor der Beurkundung der eingetragenen Partnerschaft (Art. 12*a* Abs. 3);
+- c.[^18-3] Namenserklärung vor der Trauung oder nach der Eintragung der Partnerschaft im Ausland (Art. 12 Abs. 3);
+- d.[^18-4] …
 - e. Namenserklärung nach Auflösung der Ehe (Art. 13 Abs. 2);
 - f. Namenserklärung nach Auflösung der eingetragenen Partnerschaft (Art. 13*a* Abs. 2);
 - g. Namenserklärung nach Artikel 8*a* Schlusstitel ZGB (Art. 14*a* Abs. 2);
-- h.[^18-3] Erklärung über die Änderung des im Personenstandsregister eingetragenen Geschlechts und über die damit verbundene Änderung von Vornamen (Art. 14*b* Abs. 1);
-- h<sup>bis</sup>.[^18-4] Zustimmung zur Erklärung über die Änderung des im Personenstandsregister eingetragenen Geschlechts (Art. 14*b* Abs. 2);
+- h.[^18-5] Erklärung über die Änderung des im Personenstandsregister eingetragenen Geschlechts und über die damit verbundene Änderung von Vornamen (Art. 14*b* Abs. 1);
+- h<sup>bis</sup>.[^18-6] Zustimmung zur Erklärung über die Änderung des im Personenstandsregister eingetragenen Geschlechts (Art. 14*b* Abs. 2);
 - i. Bestätigung der Richtigkeit der Angaben (Art. 16*a*);
 - j. Erklärung zum Nachweis nicht streitiger Angaben (Art. 17);
-- k.[^18-5] Erklärung über den Namen des Kindes (Art. 37 Abs. 5 und 37*a* Abs. 6);
+- k.[^18-7] Erklärung über den Namen des Kindes (Art. 37 Abs. 5 und 37*a* Abs. 6);
 - l. Zustimmung des Kindes zur Namensänderung (Art. 37*b* Abs. 2);
-- m.[^18-6] Erklärung über die Voraussetzungen für die Eheschliessung (Art. 65 Abs. 1 und 2);
+- m.[^18-8] Erklärung über die Voraussetzungen für die Eheschliessung (Art. 65 Abs. 1 und 2);
 - n. Bestätigung der Trauung (Art. 71 Abs. 4);
-- o.[^18-7] Erklärung über die Voraussetzungen für die Begründung einer eingetragenen Partnerschaft (Art. 75*d* Abs. 1 und 2);
-- p. Erklärung über die Begründung der eingetragenen Partnerschaft (Art. 75*k* Abs. 2).
+- o.[^18-9] Erklärung über die Umwandlung der eingetragenen Partnerschaft in eine Ehe (Art. 75*n* Abs. 4 und 75*o* Abs. 1 Bst. c);
+- p.[^18-10] ….
 
 <sup>2</sup> Ist eine unterschriftsbereite Person ausserstande zu unterschreiben, so wird dies von der nach Artikel 4 oder 5 zuständigen Amtsperson mit einer Begründung schriftlich festgehalten.
 
 [^18-1]: Fassung gemäss Ziff. I der V vom 7. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
 [^18-2]: Eingefügt durch Ziff. I der V vom 14. Mai 2014, in Kraft seit 1. Juli 2014 ([AS 2014 1327](https://fedlex.data.admin.ch/eli/oc/2014/282)).
-[^18-3]: Fassung gemäss Ziff. I der V vom 27. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
-[^18-4]: Eingefügt durch Ziff. I der V vom 27. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
-[^18-5]: Fassung gemäss Ziff. I der V vom 14. Mai 2014, in Kraft seit 1. Juli 2014 ([AS 2014 1327](https://fedlex.data.admin.ch/eli/oc/2014/282)).
-[^18-6]: Fassung gemäss Ziff. I der V vom 27. März 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
-[^18-7]: Fassung gemäss Ziff. I der V vom 27. März 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
+[^18-3]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Juli 2022 ([AS 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
+[^18-4]: Aufgehoben durch Ziff. I der V vom 30. März 2022, mit Wirkung seit 1. Juli 2022 ([AS 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
+[^18-5]: Fassung gemäss Ziff. I der V vom 27. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^18-6]: Eingefügt durch Ziff. I der V vom 27. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^18-7]: Fassung gemäss Ziff. I der V vom 14. Mai 2014, in Kraft seit 1. Juli 2014 ([AS 2014 1327](https://fedlex.data.admin.ch/eli/oc/2014/282)).
+[^18-8]: Fassung gemäss Ziff. I der V vom 27. März 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
+[^18-9]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Juli 2022 ([AS 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
+[^18-10]: Aufgehoben durch Ziff. I der V vom 30. März 2022, mit Wirkung seit 1. Juli 2022 ([AS 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
 
 #### Art. 18a
 
@@ -797,9 +802,9 @@ Nachgewiesene Personenstandsdaten sind unverzüglich zu beurkunden.
 
 **Trauungen und Erklärungen[^21-2]**[^21-1]
 
-<sup>1</sup> Die Trauung und die Erklärungen über die Begründung der eingetragenen Partnerschaft, über die Anerkennung eines Kindes sowie über die Namensführung werden vom Zivilstandsamt beurkundet, das die Amtshandlung durchgeführt hat.[^21-3]
+<sup>1</sup> Die Trauung und die Erklärungen über die Umwandlung der eingetragenen Partnerschaft in eine Ehe, über die Anerkennung eines Kindes, über die Namensführung sowie über die Änderung des im Personenstandsregister eingetragenen Geschlechts werden vom Zivilstandsamt beurkundet, das die Amtshandlung durchgeführt hat.[^21-3]
 
-<sup>2</sup> Ist die Erklärung über die Anerkennung eines Kindes oder über die Namensführung von einer Vertretung der Schweiz im Ausland entgegengenommen worden, so richtet sich die Zuständigkeit für die Beurkundung sinngemäss nach Artikel 23.[^21-4]
+<sup>2</sup> Die Zuständigkeit für die Beurkundung der Erklärungen, die von einer Vertretung der Schweiz im Ausland entgegengenommen wurden, richtet sich sinngemäss nach Artikel 23.[^21-4]
 
 <sup>3</sup> Die Anerkennung eines Kindes vor Gericht oder durch letztwillige Verfügung wird vom Zivilstandsamt am Sitz des Gerichts oder am Ort der Testamentseröffnung beurkundet. Vorbehalten bleibt die Zuständigkeit der Sonderzivilstandsämter nach Artikel 2 Absatz 2 Buchstabe b.
 
@@ -807,8 +812,8 @@ Nachgewiesene Personenstandsdaten sind unverzüglich zu beurkunden.
 
 [^21-1]: Fassung gemäss Ziff. I der V vom 4. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
 [^21-2]: Fassung gemäss Ziff. I der V vom 7. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
-[^21-3]: Fassung gemäss Ziff. I der V vom 7. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
-[^21-4]: Fassung gemäss Ziff. I der V vom 7. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
+[^21-3]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Juli 2022 ([AS 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
+[^21-4]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Juli 2022 ([AS 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
 
 #### Art. 22
 
@@ -1023,19 +1028,20 @@ Zur Meldung des Todes verpflichtet sind:
 
 <sup>5</sup> Wird der Tod oder eine Totgeburt gemeldet, so ist eine ärztliche Bescheinigung einzureichen.
 
-<sup>6</sup> Das Zivilstandsamt kann eine ärztliche Bestätigung der Niederkunft verlangen, wenn die Meldung durch eine in Artikel 34 Buchstabe b<sup>bis</sup> aufgeführte Person erfolgt.[^35-5]
+<sup>6</sup> Das Zivilstandsamt kann eine ärztliche Bestätigung der Niederkunft verlangen, wenn die Meldung durch eine in Artikel 34 Buchstabe b<sup>bis</sup> aufgeführte Person erfolgt. Ist die Mutter im Zeitpunkt der Geburt mit einer Frau verheiratet und wurde das Kind nach den Bestimmungen des Fortpflanzungsmedizingesetzes vom 18. Dezember 1998[^35-5] (FMedG) durch eine Samenspende gezeugt, so ist in den Fällen, in denen eine in Artikel 34 Buchstabe b<sup>bis</sup> aufgeführte Person die Geburt meldet, eine ärztliche Bestätigung über die Zeugung durch eine Samenspende gemäss FMedG beizubringen.[^35-6]
 
-<sup>7</sup> Erfolgt die Meldung in Papierform, so ist sie von der meldepflichtigen Person zu unterzeichnen.[^35-6]
+<sup>7</sup> Erfolgt die Meldung in Papierform, so ist sie von der meldepflichtigen Person zu unterzeichnen.[^35-7]
 
-<sup>8</sup> Die Übermittlung von Meldungen und ärztlichen Bescheinigungen in elektronischer Form richtet sich nach Artikel 89 Absatz 4.[^35-7]
+<sup>8</sup> Die Übermittlung von Meldungen und ärztlichen Bescheinigungen in elektronischer Form richtet sich nach Artikel 89 Absatz 4.[^35-8]
 
 [^35-1]: Fassung gemäss Ziff. I der V vom 27. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
 [^35-2]: Fassung gemäss Ziff. I der V vom 7. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
 [^35-3]: Fassung gemäss Ziff. I der V vom 4. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
 [^35-4]: Fassung des zweiten Satzes gemäss Ziff. I der V vom 27. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
-[^35-5]: Eingefügt durch Ziff. I der V vom 26. Okt. 2016, in Kraft seit 1. Juli 2017 ([AS 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
-[^35-6]: Eingefügt durch Ziff. I der V vom 27. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^35-5]: [SR 810.11](https://fedlex.data.admin.ch/eli/cc/2000/554)
+[^35-6]: Eingefügt durch Ziff. I der V vom 26. Okt. 2016 ([AS 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)). Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Juli 2022 ([AS 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
 [^35-7]: Eingefügt durch Ziff. I der V vom 27. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^35-8]: Eingefügt durch Ziff. I der V vom 27. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
 
 #### Art. 36
 
@@ -1433,15 +1439,17 @@ Das für die Beurkundung zuständige Zivilstandsamt meldet dem Staatssekretariat
 
 - a. Geburten;
 - b.[^51-4] Entstehung und Aufhebung von Kindesverhältnissen;
-- c. Trauungen und eingetragene Partnerschaften;
+- c.[^51-5] Eheschliessungen, eingetragene Partnerschaften und deren Umwandlungen in eine Ehe sowie Auflösungen von Ehen und eingetragenen Partnerschaften;
 - d. Todesfälle.
 
-<sup>2</sup> Das für die Vorbereitung der Eheschliessung oder für das Vorverfahren der eingetragenen Partnerschaft zuständige Zivilstandsamt nimmt zudem die Mitteilungen nach den Artikeln 67 Absatz 5, 74*a* Absätze 6 Buchstaben b und c sowie 7, 75*f* Absatz 5 und 75*m* Absätze 6 Buchstaben b und c sowie 7 vor.
+<sup>2</sup> Das für die Vorbereitung der Eheschliessung zuständige Zivilstandsamt nimmt zudem die Mitteilungen nach den Artikeln 67 Absatz 5 und 74*a* Absätze 6 Buchstaben b und c sowie 7 vor.[^51-6]
 
 [^51-1]: Fassung gemäss Ziff. I der V vom 4. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
 [^51-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2015 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
 [^51-3]: Fassung gemäss Ziff. I der V vom 27. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
 [^51-4]: Fassung gemäss Ziff. I der V vom 27. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^51-5]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Juli 2022 ([AS 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
+[^51-6]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Juli 2022 ([AS 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
 
 #### Art. 52
 
@@ -1595,14 +1603,15 @@ Die ausländische Vertretung muss nachweisen, dass:
 
 Zuständig für die Durchführung des Vorbereitungsverfahrens ist:
 
-- a. das Zivilstandsamt des schweizerischen Wohnsitzes der Braut oder des Bräutigams;
+- a.[^62-1] das Zivilstandsamt des schweizerischen Wohnsitzes einer oder eines der Verlobten;
 - b. das Zivilstandsamt, das die Trauung durchführen soll, wenn beide Verlobten im Ausland wohnen.
 
 <sup>2</sup> Ein nachträglicher Wohnsitzwechsel hebt die einmal begründete Zuständigkeit nicht auf.
 
-<sup>3</sup> Schwebt eine verlobte Person in Todesgefahr, so kann die Zivilstandsbeamtin oder der Zivilstandsbeamte an ihrem Aufenthaltsort auf ärztliche Bestätigung hin das Vorbereitungsverfahren durchführen und die Trauung vornehmen.[^62-1]
+<sup>3</sup> Schwebt eine verlobte Person in Todesgefahr, so kann die Zivilstandsbeamtin oder der Zivilstandsbeamte an ihrem Aufenthaltsort auf ärztliche Bestätigung hin das Vorbereitungsverfahren durchführen und die Trauung vornehmen.[^62-2]
 
-[^62-1]: Eingefügt durch Ziff. I der V vom 28. Juni 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
+[^62-1]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Juli 2022 ([AS 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
+[^62-2]: Eingefügt durch Ziff. I der V vom 28. Juni 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
 
 #### Art. 63
 
@@ -1621,12 +1630,13 @@ Zuständig für die Durchführung des Vorbereitungsverfahrens ist:
 Die Verlobten legen dem Gesuch folgende Dokumente bei:
 
 - a. Ausweise über den aktuellen Wohnsitz;
-- b. Dokumente über Geburt, Geschlecht, Namen, Abstammung, Zivilstand (Verlobte, die verheiratet gewesen sind oder in eingetragener Partnerschaft gelebt haben: Datum der Eheauflösung oder der Auflösung der eingetragenen Partnerschaft) sowie Heimatorte und Staatsangehörigkeit, wenn die Angaben über den aktuellen Personenstand noch nicht beurkundet worden sind oder wenn die abrufbaren Daten nicht richtig, nicht vollständig oder nicht auf dem neusten Stand sind;
+- b.[^64-2] Dokumente über Geburt, Geschlecht, Namen, Abstammung, Zivilstand (Verlobte, die verheiratet gewesen sind oder in eingetragener Partnerschaft mit einer Drittperson gelebt haben: Datum der Eheauflösung oder der Auflösung der eingetragenen Partnerschaft) sowie Heimatorte und Staatsangehörigkeit, wenn die Angaben über den aktuellen Personenstand noch nicht beurkundet worden sind oder wenn die abrufbaren Daten nicht richtig, nicht vollständig oder nicht auf dem neusten Stand sind;
 - c. Dokumente über Geburt, Geschlecht, Namen und Abstammung gemeinsamer Kinder, wenn das Kindesverhältnis noch nicht beurkundet worden ist oder wenn die abrufbaren Daten nicht richtig, nicht vollständig oder nicht auf dem neusten Stand sind.
 
 <sup>2</sup> Verlobte, die nicht Schweizerbürgerinnen oder Schweizerbürger sind, legen zusätzlich ein Dokument zum Nachweis der Rechtmässigkeit ihres Aufenthaltes in der Schweiz bis zum voraussichtlichen Zeitpunkt der Trauung bei.
 
 [^64-1]: Fassung gemäss Ziff. I der V vom 27. März 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
+[^64-2]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Juli 2022 ([AS 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
 
 #### Art. 65
 
@@ -1639,7 +1649,7 @@ Die Verlobten erklären vor der Zivilstandsbeamtin oder dem Zivilstandsbeamten, 
 - a. die Angaben im Gesuch und die vorgelegten Dokumente auf dem neuesten Stand, vollständig und richtig sind;
 - b.[^65-1] …
 - c.[^65-2] sie weder durch leibliche Abstammung noch durch Adoption miteinander in gerader Linie verwandt und nicht Geschwister oder Halbgeschwister sind;
-- d.[^65-3] sie keine bestehende Ehe oder eingetragene Partnerschaft verschwiegen haben.
+- d.[^65-3] sie keine bestehende Ehe oder eingetragene Partnerschaft mit einer Drittperson verschwiegen haben.
 
 <sup>1bis</sup> Die Zivilstandsbeamtin oder der Zivilstandsbeamte macht die Verlobten darauf aufmerksam, dass die Eheschliessung ihren freien Willen voraussetzt.[^65-4]
 
@@ -1659,7 +1669,7 @@ Die Zivilstandsbeamtin oder der Zivilstandsbeamte ermahnt die Verlobten zur Wahr
 
 [^65-1]: Aufgehoben durch Ziff. I der V vom 7. Nov. 2012, mit Wirkung seit 1. Jan. 2013 ([AS 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
 [^65-2]: Fassung gemäss Ziff. I der V vom 9. Dez. 2005, in Kraft seit 1. Jan. 2006 ([AS 2005 5679](https://fedlex.data.admin.ch/eli/oc/2005/781)).
-[^65-3]: Fassung gemäss Ziff. I der V vom 28. Juni 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
+[^65-3]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Juli 2022 ([AS 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
 [^65-4]: Eingefügt durch Ziff. I der V vom 4. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
 [^65-5]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^65-6]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
@@ -1681,13 +1691,13 @@ Zusätzlich prüft es, ob:
 - a. das Gesuch in der richtigen Form eingereicht worden ist;
 - b. die nötigen Dokumente und Erklärungen vorliegen;
 - c. die Ehefähigkeit beider Verlobten feststeht (Art. 94 ZGB);
-- d.[^66-1] keine Ehehindernisse vorliegen (Art. 95, 96 ZGB und 26 PartG: keine durch Verwandtschaft, bestehende Ehe oder eingetragene Partnerschaft begründeten Ehehindernisse);
+- d.[^66-1] keine Ehehindernisse vorliegen (Art. 95 und 96 ZGB);
 - e.[^66-2] die Verlobten, die nicht Schweizerbürgerinnen oder Schweizerbürger sind, ihren rechtmässigen Aufenthalt in der Schweiz während des Vorbereitungsverfahrens nachgewiesen haben (Art. 98 Abs. 4 ZGB);
 - f.[^66-3] kein Umstand erkennen lässt, dass das Gesuch offensichtlich nicht dem freien Willen der Verlobten entspricht (Art. 99 Abs. 1 Ziff. 3 ZGB).
 
 <sup>3</sup> Das Zivilstandsamt kann die Rechtmässigkeit des Aufenthaltes gestützt auf das Zentrale Migrationsinformationssystem überprüfen. Im Zweifelsfall kann es sie durch Rückfrage bei der zuständigen Ausländerbehörde am Wohnsitz oder Aufenthaltsort der Verlobten überprüfen lassen. Diese Behörde ist verpflichtet, die Auskunft gebührenfrei und unverzüglich zu erteilen.[^66-4]
 
-[^66-1]: Fassung gemäss Ziff. I der V vom 28. Juni 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
+[^66-1]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Juli 2022 ([AS 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
 [^66-2]: Eingefügt durch Ziff. I der V vom 4. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
 [^66-3]: Eingefügt durch Ziff. I der V vom 27. März 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
 [^66-4]: Eingefügt durch Ziff. I der V vom 4. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
@@ -1698,7 +1708,7 @@ Zusätzlich prüft es, ob:
 
 <sup>1</sup> Die Zivilstandsbeamtin oder der Zivilstandsbeamte stellt das Ergebnis des Vorbereitungsverfahrens fest.
 
-<sup>2</sup> Sind die Voraussetzungen nach Artikel 66 Absatz 2 erfüllt, so eröffnet das Zivilstandsamt den Verlobten den Entscheid, dass die Trauung stattfinden kann. Es vereinbart die Einzelheiten des Vollzugs oder verweist die Verlobten an das Zivilstandsamt, das diese für die Trauung gewählt haben.[^67-2]
+<sup>2</sup> Sind die Voraussetzungen nach Artikel 66 Absatz 2 erfüllt, so eröffnet das Zivilstandsamt den Verlobten den Entscheid, dass die Trauung stattfinden kann. Es vereinbart die Einzelheiten des Vollzugs oder verweist die Verlobten an das Zivilstandsamt, das sie für die Trauung gewählt haben. Wenn diese sofort nach Abschluss des Vorbereitungsverfahren stattfindet, so erfolgt die Mitteilung mündlich.[^67-2]
 
 <sup>3</sup> Sind die Ehevoraussetzungen nicht erfüllt oder bleiben erhebliche Zweifel bestehen, so verweigert das Zivilstandsamt die Trauung.[^67-3]
 
@@ -1709,7 +1719,7 @@ Zusätzlich prüft es, ob:
 <sup>6</sup> Die Anzeige der festgestellten Widerhandlungen und die Schutzmassnahmen richten sich nach Artikel 16 Absatz 7.[^67-4]
 
 [^67-1]: Fassung gemäss Ziff. I der V vom 4. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^67-2]: Fassung gemäss Ziff. I der V vom 20. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3815](https://fedlex.data.admin.ch/eli/oc/2019/696)).
+[^67-2]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Juli 2022 ([AS 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
 [^67-3]: Fassung gemäss Ziff. I der V vom 27. März 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
 [^67-4]: Eingefügt durch Ziff. I der V vom 27. März 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
 
@@ -1751,11 +1761,11 @@ Die Trauung kann nach Mitteilung des Entscheids über das positive Ergebnis des 
 
 <sup>1</sup> Die Trauung ist öffentlich und findet in Anwesenheit von zwei volljährigen und urteilsfähigen Zeuginnen und Zeugen statt. Diese müssen von den Verlobten gestellt werden.[^71-1]
 
-<sup>2</sup> Die Trauung wird vollzogen, indem die Zivilstandsbeamtin oder der Zivilstandsbeamte an die Braut und den Bräutigam einzeln die Frage richtet:
+<sup>2</sup> Die Trauung wird vollzogen, indem die Zivilstandsbeamtin oder der Zivilstandsbeamte an die Verlobten einzeln die Frage richtet:
 
 «N. N., ich richte an Sie die Frage: Wollen Sie mit M. M. die Ehe eingehen?»
 
-«M. M., ich richte an Sie die Frage: Wollen Sie mit N. N. die Ehe eingehen?»
+«M. M., ich richte an Sie die Frage: Wollen Sie mit N. N. die Ehe eingehen?»[^71-2]
 
 <sup>3</sup> Haben beide die Frage bejaht, so erklärt die Zivilstandsbeamtin oder der Zivilstandsbeamte:
 
@@ -1763,10 +1773,11 @@ Die Trauung kann nach Mitteilung des Entscheids über das positive Ergebnis des 
 
 <sup>4</sup> Unmittelbar nach der Trauung wird der vorbereitete Beleg für die Erfassung der Trauung von den Ehegatten, den Zeuginnen oder Zeugen und der Zivilstandsbeamtin oder dem Zivilstandsbeamten unterzeichnet.
 
-<sup>5</sup> Lassen die Umstände erkennen, dass das Eheschliessungsgesuch offensichtlich nicht dem freien Willen der Verlobten entspricht, so verweigert die Zivilstandsbeamtin oder der Zivilstandsbeamte die Trauung und hebt die Trauungsermächtigung durch schriftliche Eröffnung des Entscheids an die Verlobten und an die Zivilstandsbeamtin oder den Zivilstandsbeamten auf, die oder der das Vorbereitungsverfahren durchgeführt hat. Sie oder er zeigt die Tatsachen den Strafverfolgungsbehörden an (Art. 16 Abs. 7).[^71-2]
+<sup>5</sup> Lassen die Umstände erkennen, dass das Eheschliessungsgesuch offensichtlich nicht dem freien Willen der Verlobten entspricht, so verweigert die Zivilstandsbeamtin oder der Zivilstandsbeamte die Trauung und hebt die Trauungsermächtigung durch schriftliche Eröffnung des Entscheids an die Verlobten und an die Zivilstandsbeamtin oder den Zivilstandsbeamten auf, die oder der das Vorbereitungsverfahren durchgeführt hat. Sie oder er zeigt die Tatsachen den Strafverfolgungsbehörden an (Art. 16 Abs. 7).[^71-3]
 
 [^71-1]: Fassung gemäss Ziff. I der V vom 7. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
-[^71-2]: Eingefügt durch Ziff. I der V vom 27. März 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
+[^71-2]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Juli 2022 ([AS 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
+[^71-3]: Eingefügt durch Ziff. I der V vom 27. März 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
 
 #### Art. 72
 
@@ -1843,237 +1854,45 @@ Die Zivilstandsbeamtin oder der Zivilstandsbeamte teilt den Entscheid, dass auf 
 
 <sup>1</sup> Ein für die Trauung einer Schweizer Bürgerin oder eines Schweizer Bürgers im Ausland notwendiges Ehefähigkeitszeugnis wird auf Gesuch beider Verlobten ausgestellt.
 
-<sup>2</sup> Zuständigkeit und Verfahren richten sich sinngemäss nach den Vorschriften über das Vorbereitungsverfahren für eine Eheschliessung in der Schweiz (Art. 62–67, 69 und 74*a*). Besteht kein Wohnsitz in der Schweiz, so ist das Zivilstandsamt des Heimatortes der Braut oder des Bräutigams zuständig.[^75-1]
+<sup>2</sup> Zuständigkeit und Verfahren richten sich sinngemäss nach den Vorschriften über das Vorbereitungsverfahren für eine Eheschliessung in der Schweiz (Art. 62–67, 69 und 74*a*). Besteht kein Wohnsitz in der Schweiz, so ist das Zivilstandsamt des Heimatortes einer oder eines der Verlobten zuständig.[^75-1]
 
-[^75-1]: Fassung gemäss Ziff. I der V vom 27. März 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
+[^75-1]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Juli 2022 ([AS 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
 
-## 7*a*. Kapitel:**** Eingetragene Partnerschaft
+## 7*a*. Kapitel:**** Umwandlung der eingetragenen Partnerschaft in eine Ehe
 
 [^chap7a-1]
 
-[^chap7a-1]: Eingefügt durch Ziff. I der V vom 24. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5625](https://fedlex.data.admin.ch/eli/oc/2007/772)).
+[^chap7a-1]: Eingefügt durch Ziff. I der V vom 28. Juni 2006 ([AS 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)). Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Juli 2022 ([AS 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
 
-### 1. Abschnitt: Vorverfahren
+#### Art. 75a–75m
 
-#### Art. 75a
+Aufgehoben
 
-**Zuständigkeit**
+#### Art. 75n
 
-<sup>1</sup>
+**Umwandlungserklärung**
 
-Zuständig für die Durchführung des Vorverfahrens ist:
+<sup>1</sup> Eingetragene Partnerinnen oder Partner, die ihre vor dem 1. Juli 2022 in der Schweiz oder im Ausland begründete eingetragene Partnerschaft in eine Ehe umwandeln wollen, können die Umwandlungserklärung in der Schweiz jeder Zivilstandsbeamtin oder jedem Zivilstandsbeamten abgeben. Im Ausland können sie die Erklärung der zuständigen Vertretung der Schweiz abgeben.
 
-- a. das Zivilstandsamt am schweizerischen Wohnsitz einer der Partnerinnen oder eines der Partner;
-- b. das Zivilstandsamt, das die Eintragung durchführen soll, wenn beide Partnerinnen oder Partner im Ausland wohnen und eine oder einer von ihnen das Schweizer Bürgerrecht besitzt (Art. 43 und 65*a* IPRG[^75a-1]).
+<sup>2</sup> Sie müssen die Umwandlungserklärung gemeinsam und persönlich in schriftlicher Form abgeben.
 
-<sup>2</sup> Ein nachträglicher Wohnsitzwechsel hebt die einmal begründete Zuständigkeit nicht auf.
+<sup>3</sup> Weisen sie nach, dass es für sie offensichtlich unzumutbar ist, persönlich auf dem Zivilstandsamt zu erscheinen, so kann die Umwandlungserklärung ausserhalb der Amtsräume entgegengenommen werden.
 
-<sup>3</sup> Schwebt die eine Partnerin oder der eine Partner in Todesgefahr, so kann die Zivilstandsbeamtin oder der Zivilstandsbeamte am Aufenthaltsort dieser Person auf ärztliche Bestätigung hin das Vorverfahren durchführen und die Eintragung der Partnerschaft vornehmen.
+<sup>4</sup> Ihre Unterschriften werden beglaubigt.
 
-[^75a-1]: [SR 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
+#### Art. 75o
 
-#### Art. 75b
-
-**Einreichung des Gesuchs**
-
-<sup>1</sup> Die beiden Partnerinnen oder Partner reichen das Gesuch beim zuständigen Zivilstandsamt ein.
-
-<sup>2</sup> Sind die schweizerischen Behörden nach Artikel 75*a* zuständig, so können Partnerinnen oder Partner, die sich im Ausland aufhalten, das Gesuch durch Vermittlung der zuständigen Vertretung der Schweiz einreichen.
-
-#### Art. 75c
-
-**Dokumente**
+**Zeremonielle Umwandlung**
 
 <sup>1</sup>
 
-Die Partnerinnen oder Partner legen dem Gesuch folgende Dokumente bei:
+Wird die Umwandlungserklärung auf gemeinsamen Antrag der eingetragenen Partnerinnen oder Partner in zeremonieller Form in Anwesenheit von zwei volljährigen und urteilsfähigen Zeuginnen oder Zeugen durch die Zivilstandsbeamtin oder den Zivilstandsbeamten im Trauungslokal entgegengenommen, so gilt Folgendes:
 
-- a. Ausweise über den aktuellen Wohnsitz;
-- b. Dokumente über Geburt, Geschlecht, Namen, Abstammung, Zivilstand (Partnerinnen oder Partner, die in eingetragener Partnerschaft gelebt haben oder verheiratet gewesen sind: Datum der Auflösung der eingetragenen Partnerschaft oder der Eheauflösung) sowie Heimatorte und Staatsangehörigkeit, wenn die Angaben über den aktuellen Personenstand noch nicht beurkundet worden sind oder wenn die abrufbaren Daten nicht richtig, nicht vollständig oder nicht auf dem neusten Stand sind.
+- a. Die Entgegennahme der Umwandlungserklärung ist öffentlich.
+- b. Die Zeuginnen oder Zeugen müssen von den beiden Partnerinnen oder Partnern gestellt werden.
+- c. Die Zivilstandsbeamtin oder der Zivilstandsbeamte nimmt die Umwandlungserklärung entgegen, lässt sie von den beiden Partnerinnen oder Partnern sowie den beiden Zeuginnen oder Zeugen unterschreiben und beglaubigt die Unterschriften.
 
-<sup>2</sup> …[^75c-1]
-
-<sup>3</sup> Partnerinnen oder Partner, die nicht Schweizerbürgerinnen oder Schweizerbürger sind, legen zusätzlich ein Dokument zum Nachweis der Rechtmässigkeit ihres Aufenthaltes in der Schweiz bis zum voraussichtlichen Zeitpunkt der Beurkundung der eingetragenen Partnerschaft bei.[^75c-2]
-
-[^75c-1]: Aufgehoben durch Ziff. I der V vom 7. Nov. 2012, mit Wirkung seit 1. Jan. 2013 ([AS 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
-[^75c-2]: Eingefügt durch Ziff. I der V vom 4. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-
-#### Art. 75d
-
-**Erklärungen**
-
-<sup>1</sup>
-
-Die beiden Partnerinnen oder Partner erklären vor der Zivilstandsbeamtin oder dem Zivilstandsbeamten, dass:
-
-- a. die Angaben im Gesuch und die vorgelegten Dokumente auf dem neuesten Stand, vollständig und richtig sind;
-- b.[^75d-1] …
-- c. sie weder durch leibliche Abstammung noch durch Adoption miteinander in gerader Linie verwandt und keine Geschwister oder Halbgeschwister sind;
-- d. sie keine eingetragene Partnerschaft oder bestehende Ehe verschwiegen haben.
-
-<sup>1bis</sup> Die Zivilstandsbeamtin oder der Zivilstandsbeamte macht die Partnerinnen oder Partner darauf aufmerksam, dass die Begründung der eingetragenen Partnerschaft ihren freien Willen voraussetzt.[^75d-2]
-
-<sup>2</sup>
-
-Die Zivilstandsbeamtin oder der Zivilstandsbeamte ermahnt die Partnerinnen oder Partner zur Wahrheit und informiert sie über die Straffolgen:
-
-- a. einer erzwungenen eingetragenen Partnerschaft (Art. 181*a* StGB[^75d-3]);
-- b. einer strafbaren Handlung gegen die sexuelle Integrität (Art. 187–200 StGB);
-- c. eines Verbrechens oder Vergehens gegen die Familie (Art. 213–220 StGB);
-- d. einer Urkundenfälschung (Art. 251–257 StGB);
-- e. einer Widerhandlung gegen die Artikel 115–122 AIG[^75d-4].[^75d-5]
-
-<sup>2bis</sup> Die Zivilstandsbeamtin oder der Zivilstandsbeamte beglaubigt die Unterschriften.[^75d-6]
-
-<sup>3</sup> In begründeten Fällen kann die Erklärung nach Absatz 1 ausserhalb der Amtsräume entgegengenommen werden.[^75d-7]
-
-[^75d-1]: Aufgehoben durch Ziff. I der V vom 7. Nov. 2012, mit Wirkung seit 1. Jan. 2013 ([AS 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
-[^75d-2]: Eingefügt durch Ziff. I der V vom 4. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^75d-3]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^75d-4]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^75d-5]: Fassung gemäss Ziff. I der V vom 27. März 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
-[^75d-6]: Eingefügt durch Ziff. I der V vom 27. März 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
-[^75d-7]: Eingefügt durch Ziff. I der V vom 4. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-
-#### Art. 75e
-
-**Prüfung des Gesuchs**
-
-<sup>1</sup> Das Zivilstandsamt führt die Prüfung nach Artikel 16 durch.
-
-<sup>2</sup>
-
-Zusätzlich prüft es, ob:
-
-- a. das Gesuch in der richtigen Form eingereicht worden ist;
-- b. die nötigen Dokumente und Erklärungen vorliegen;
-- c.[^75e-1] die Voraussetzungen für die Beurkundung der eingetragenen Partnerschaft erfüllt sind und keine Eintragungshindernisse vorliegen (Art. 3, 4 und 26 PartG);
-- d.[^75e-2] Partnerinnen oder Partner, die nicht Schweizerbürgerinnen oder Schweizerbürger sind, ihren rechtmässigen Aufenthalt in der Schweiz während des Vorverfahrens nachgewiesen haben (Art. 5 Abs. 4 PartG);
-- e.[^75e-3] kein Umstand erkennen lässt, dass das Eintragungsgesuch offensichtlich nicht dem freien Willen der Partnerinnen oder Partner entspricht (Art. 6 Abs. 1 PartG).
-
-<sup>3</sup> Das Zivilstandsamt kann die Rechtmässigkeit des Aufenthaltes gestützt auf das Zentrale Migrationsinformationssystem überprüfen. Im Zweifelsfall kann es sie durch Rückfrage bei der zuständigen Ausländerbehörde am Wohnsitz oder Aufenthaltsort der Partnerinnen oder Partner überprüfen lassen. Diese Behörde ist verpflichtet, die Auskunft gebührenfrei und unverzüglich zu erteilen.[^75e-4]
-
-[^75e-1]: Fassung gemäss Ziff. I der V vom 7. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
-[^75e-2]: Eingefügt durch Ziff. I der V vom 4. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^75e-3]: Eingefügt durch Ziff. I der V vom 27. März 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
-[^75e-4]: Eingefügt durch Ziff. I der V vom 4. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-
-#### Art. 75f
-
-**Abschluss des Vorverfahrens**[^75f-1]
-
-<sup>1</sup> Die Zivilstandsbeamtin oder der Zivilstandsbeamte stellt das Ergebnis des Vorverfahrens fest.
-
-<sup>2</sup> Sind die Voraussetzungen nach Artikel 75*e* Absatz 2 erfüllt, so eröffnet das Zivilstandsamt den Partnerinnen oder Partnern den Entscheid, dass die Beurkundung stattfinden kann. Es vereinbart die Einzelheiten des Vollzugs oder verweist das Paar an das Zivilstandsamt, das dieses für die Beurkundung gewählt hat.[^75f-2]
-
-<sup>3</sup> Sind die Voraussetzungen nicht erfüllt oder bleiben erhebliche Zweifel bestehen, so verweigert das Zivilstandsamt die Beurkundung.[^75f-3]
-
-<sup>4</sup> Der Entscheid der Zivilstandsbeamtin oder des Zivilstandsbeamten über die Verweigerung der Beurkundung der Partnerschaft wird den Partnerinnen oder Partnern schriftlich mitgeteilt; er enthält eine Rechtsmittelbelehrung.
-
-<sup>5</sup> Das Zivilstandsamt teilt der zuständigen Ausländerbehörde am Aufenthaltsort der betroffenen Person die Identität von Partnerinnen oder Partnern mit, die ihren rechtmässigen Aufenthalt in der Schweiz nicht nachgewiesen haben.
-
-<sup>6</sup> Die Anzeige der festgestellten Widerhandlungen und die Schutzmassnahmen richten sich nach Artikel 16 Absatz 7.[^75f-4]
-
-[^75f-1]: Fassung gemäss Ziff. I der V vom 4. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^75f-2]: Fassung gemäss Ziff. I der V vom 20. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3815](https://fedlex.data.admin.ch/eli/oc/2019/696)).
-[^75f-3]: Fassung gemäss Ziff. I der V vom 27. März 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
-[^75f-4]: Eingefügt durch Ziff. I der V vom 27. März 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
-
-#### Art. 75g
-
-**Zeitpunkt der Beurkundung**
-
-Die Beurkundung der eingetragenen Partnerschaft kann unmittelbar nach Mitteilung des Entscheids über das positive Ergebnis des Vorverfahrens stattfinden; sie muss spätestens drei Monate nach diesem Entscheid erfolgen.
-
-#### Art. 75h
-
-**Mitwirkung**[^75h-1]
-
-<sup>1</sup> Ist es für eine Partnerin oder einen Partner offensichtlich unzumutbar, im Vorbereitungsverfahren persönlich beim zuständigen Zivilstandsamt zu erscheinen, so kann insbesondere für die Entgegennahme der Erklärung nach Artikel 75*d* Absatz 1 die Mitwirkung des Zivilstandsamtes am Aufenthaltsort verlangt werden.
-
-<sup>2</sup> Jede Partnerin oder jeder Partner mit Aufenthalt im Ausland kann die Erklärung nach Artikel 75*d* Absatz 1 bei einer Vertretung der Schweiz abgeben. In begründeten Ausnahmefällen kann die Erklärung mit Bewilligung der Zivilstandsbeamtin oder des Zivilstandsbeamten auch bei einer ausländischen Urkundsperson abgegeben werden, welche die Unterschrift beglaubigt.
-
-[^75h-1]: Fassung gemäss Ziff. I der V vom 4. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-
-### 2. Abschnitt: Begründung der eingetragenen Partnerschaft****
-
-[^chap7a-sec2-1]
-
-[^chap7a-sec2-1]: Fassung gemäss Ziff. I der V vom 4. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-
-#### Art. 75i
-
-**Ort**[^75i-1]
-
-<sup>1</sup> Die Begründung der eingetragenen Partnerschaft findet im Amtsraum des Zivilstandskreises statt, den die Partnerinnen oder Partner gewählt haben (Art. 75*f* Abs. 2).
-
-<sup>2</sup> Weisen die Partnerinnen oder Partner nach, dass es für sie offensichtlich unzumutbar ist, sich in den Amtsraum zu begeben, so kann die Zivilstandsbeamtin oder der Zivilstandsbeamte die Erklärung über die Begründung der Partnerschaft in einem anderen Lokal entgegennehmen.
-
-<sup>3</sup> Wurde das Vorverfahren in einem anderen Zivilstandskreis durchgeführt, so muss eine Ermächtigung zur Begründung der Partnerschaft vorgelegt werden.
-
-[^75i-1]: Fassung gemäss Ziff. I der V vom 4. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-
-#### Art. 75k
-
-**Form der Begründung[^75k-1]**
-
-<sup>1</sup> Die Entgegennahme der Erklärung über die Begründung der eingetragenen Partnerschaft ist öffentlich.[^75k-2]
-
-<sup>2</sup> Die Zivilstandsbeamtin oder der Zivilstandsbeamte nimmt die übereinstimmende Erklärung der beiden Partnerinnen oder Partner entgegen, eine eingetragene Partnerschaft begründen zu wollen, lässt die Partnerschaftsurkunde von beiden Partnerinnen oder Partnern unterschreiben und beurkundet sie anschliessend.[^75k-3]
-
-<sup>3</sup> Die Unterschriften sind zu beglaubigen.
-
-<sup>4</sup> Lassen die Umstände erkennen, dass das Eintragungsgesuch offensichtlich nicht dem freien Willen der Partnerinnen oder Partner entspricht, so verweigert die Zivilstandsbeamtin oder der Zivilstandsbeamte die Beurkundung und hebt die Ermächtigung zur Begründung der Partnerschaft durch schriftliche Eröffnung des Entscheids an die Partnerinnen oder Partner und an die Zivilstandsbeamtin oder den Zivilstandsbeamten auf, die oder der das Vorverfahren durchgeführt hat. Sie oder er zeigt die Tatsachen den Strafverfolgungsbehörden an (Art. 16 Abs. 7).[^75k-4]
-
-[^75k-1]: Fassung gemäss Ziff. I der V vom 4. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^75k-2]: Fassung gemäss Ziff. I der V vom 4. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^75k-3]: Fassung gemäss Ziff. I der V vom 4. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^75k-4]: Eingefügt durch Ziff. I der V vom 27. März 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
-
-#### Art. 75l
-
-**Besondere organisatorische Vorschriften**[^75l-1]
-
-<sup>1</sup> Die Zivilstandsbeamtin oder der Zivilstandsbeamte kann die Zahl der teilnehmenden Personen aus Ordnungsgründen beschränken. Wer die Begründung einer eingetragenen Partnerschaft stört, wird weggewiesen.
-
-<sup>2</sup> An Sonntagen und an den am Sitz des Zivilstandsamtes geltenden allgemeinen Feiertagen dürfen keine eingetragenen Partnerschaften begründet werden.
-
-[^75l-1]: Fassung gemäss Ziff. I der V vom 4. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-
-### 3. Abschnitt:**** Eingetragene Partnerschaft von ausländischen Staatsangehörigen
-
-[^chap7a-sec3-1]
-
-[^chap7a-sec3-1]: Eingefügt durch Ziff. I der V vom 24. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5625](https://fedlex.data.admin.ch/eli/oc/2007/772)).
-
-#### Art. 75m
-
-<sup>1</sup> Die Zivilstandsbeamtin oder der Zivilstandsbeamte, die oder der für die Durchführung des Vorverfahrens oder für die Beurkundung der eingetragenen Partnerschaft zuständig ist, tritt auf das Gesuch nicht ein, wenn eine der Partnerinnen oder einer der Partner offensichtlich keine Lebensgemeinschaft begründen, sondern die Bestimmungen über Zulassung und Aufenthalt von Ausländerinnen und Ausländern umgehen will (Art. 6 Abs. 2 PartG).
-
-<sup>2</sup> Die Zivilstandsbeamtin oder der Zivilstandsbeamte hört die Partnerinnen oder Partner einzeln an. Ausnahmsweise werden die Partnerinnen oder Partner gemeinsam angehört, wenn dies für die Abklärung des Sachverhalts besser geeignet erscheint. Die Partnerinnen oder Partner haben die Möglichkeit, Dokumente einzureichen.
-
-<sup>3</sup> Die Zivilstandsbeamtin oder der Zivilstandsbeamte fordert das Dossier der Ausländerbehörden an; sie oder er kann auch bei anderen Behörden und bei Drittpersonen Auskünfte einholen.
-
-<sup>4</sup> Die Behörden sind verpflichtet, die Auskünfte ohne Verzug und gebührenfrei zu erteilen.
-
-<sup>5</sup> Die Anhörung der Partnerinnen oder Partner und mündlich oder telefonisch erteilte Auskünfte werden protokolliert.
-
-<sup>6</sup>
-
-Die Zivilstandsbeamtin oder der Zivilstandsbeamte teilt den Entscheid, dass auf das Gesuch um Durchführung des Vorverfahrens zur Begründung der eingetragenen Partnerschaft nicht eingetreten oder die Entgegennahme der Erklärung über die Begründung verweigert wird, folgenden Personen und Stellen schriftlich mit:
-
-- a. den Partnerinnen oder Partnern; der Entscheid enthält eine Rechtsmittelbelehrung;
-- b. der Aufsichtsbehörde des Heimatkantons, wenn eine der Partnerinnen oder einer der Partner das Schweizer Bürgerrecht besitzt;
-- c. der Aufsichtsbehörde des Wohnsitzkantons der Partnerinnen oder der Partner.[^75m-1]
-
-<sup>7</sup> Das Zivilstandsamt meldet der kantonalen Ausländerbehörde am Aufenthaltsort der betroffenen Person Tatsachen, die darauf hindeuten, dass mit der beabsichtigten oder erfolgten Begründung der eingetragenen Partnerschaft eine Umgehung der Bestimmungen über Zulassung und Aufenthalt von Ausländerinnen und Ausländern bezweckt wird (Art. 82*a* VZAE[^75m-2]). Zudem teilt es ihr das Resultat allfälliger Abklärungen, seinen Entscheid und den allfälligen Rückzug des Gesuchs mit.[^75m-3]
-
-<sup>8</sup> Die Anzeige der festgestellten Widerhandlungen und die Schutzmassnahmen richten sich nach Artikel 16 Absatz 7.[^75m-4]
-
-[^75m-1]: Fassung gemäss Ziff. I der V vom 4. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^75m-2]: [SR 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
-[^75m-3]: Eingefügt durch Ziff. I der V vom 4. Juni 2010 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)). Fassung gemäss Ziff. I der V vom 31. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
-[^75m-4]: Eingefügt durch Ziff. I der V vom 27. März 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
+<sup>2</sup> Im Übrigen sind die Artikel 72 und 75*n* Absatz 2 sinngemäss anwendbar.
 
 ## 8. Kapitel: Zentrales Personen-Informationssystem****
 
@@ -2235,7 +2054,7 @@ Die Daten werden nach dem hinterlegten Standardzeichensatz erfasst (ISO-Norm 885
 
 Das EAZW hat insbesondere folgende Aufgaben:[^84-2]
 
-- a.[^84-3] Erlass von Weisungen über die Beurkundung des Personenstandes, die Vorbereitung der Eheschliessung und die Trauung, die Vorbereitung und die Eintragung einer Partnerschaft sowie die Sicherstellung der Register und Belege;
+- a.[^84-3] Erlass von Weisungen, insbesondere über die Beurkundung des Personenstandes, die Vorbereitung der Eheschliessung und die Trauung, die Entgegennahme und Beurkundung von Erklärungen sowie die Sicherstellung der Register und Belege;
 - b. Inspektion der Zivilstandsämter, der Aufsichtsbehörden und der kantonalen Zivilstandsarchive;
 - c.[^84-4] …
 
@@ -2255,7 +2074,7 @@ Der FIS ist für die technischen Aspekte des Betriebs, der Entwicklung und der A
 
 [^84-1]: Fassung gemäss Ziff. I der V vom 26. Okt. 2016, in Kraft seit 1. Juli 2017 ([AS 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
 [^84-2]: Fassung gemäss Ziff. I der V vom 31. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
-[^84-3]: Fassung gemäss Ziff. I der V vom 28. Juni 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
+[^84-3]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Juli 2022 ([AS 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
 [^84-4]: Aufgehoben durch Ziff. I der V vom 31. Okt. 2018, mit Wirkung seit 1. Jan. 2019 ([AS 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
 [^84-5]: Ausdruck gemäss Ziff. I der V vom 31. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 [^84-6]: Eingefügt durch Ziff. I der V vom 26. Okt. 2016, in Kraft seit 1. Juli 2017 ([AS 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
@@ -2473,22 +2292,23 @@ Die Originale der für jeden Zivilstandskreis geführten Zivilstandsregister mü
 
 #### Art. 96
 
-**Trauung und Beurkundung einer eingetragenen Partnerschaft durch Mitglieder einer Gemeindeexekutive[^96-1]**
+**Trauung durch Mitglieder einer Gemeindeexekutive[^96-1]**
 
 <sup>1</sup>
 
-Das kantonale Recht kann vorsehen, dass bestimmte Mitglieder einer Gemeindeexekutive zu ausserordentlichen Zivilstandsbeamtinnen oder ausserordentlichen Zivilstandsbeamten mit der ausschliesslichen Befugnis, Trauungen zu vollziehen, ernannt werden, wenn:
+Das kantonale Recht kann vorsehen, dass bestimmte Mitglieder einer Gemeindeexekutive zu ausserordentlichen Zivilstandsbeamtinnen oder ausserordentlichen Zivilstandsbeamten mit der ausschliesslichen Befugnis, Trauungen zu vollziehen und die Erklärungen über die Umwandlung der eingetragenen Partnerschaft in eine Ehe entgegenzunehmen, ernannt werden, wenn:[^96-2]
 
 - a. die Trauung durch diese Personen der Tradition entspricht und in der Bevölkerung fest verankert ist; und
 - b. die erforderliche Aus- und Weiterbildung sichergestellt ist.
 
-<sup>1bis</sup> Die ausserordentlichen Zivilstandsbeamtinnen und Zivilstandsbeamten beurkunden auch eingetragene Partnerschaften.[^96-2]
+<sup>1bis</sup> …[^96-3]
 
-<sup>2</sup> Die Aufsichtsbehörde berichtet dem EAZW im Rahmen ihrer Berichterstattungspflicht (Art. 85 Abs. 2) über die ernannten Personen.[^96-3]
+<sup>2</sup> Die Aufsichtsbehörde berichtet dem EAZW im Rahmen ihrer Berichterstattungspflicht (Art. 85 Abs. 2) über die ernannten Personen.[^96-4]
 
-[^96-1]: Fassung gemäss Ziff. I der V vom 31. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
-[^96-2]: Eingefügt durch Ziff. I der V vom 31. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
-[^96-3]: Fassung gemäss Ziff. I der V vom 26. Okt. 2016, in Kraft seit 1. Juli 2017 ([AS 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
+[^96-1]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Juli 2022 ([AS 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
+[^96-2]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Juli 2022 ([AS 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
+[^96-3]: Eingefügt durch Ziff. I der V vom 31. Okt. 2018 ([AS 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)). Aufgehoben durch Ziff. I der V vom 30. März 2022, mit Wirkung seit 1. Juli 2022 ([AS 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
+[^96-4]: Fassung gemäss Ziff. I der V vom 26. Okt. 2016, in Kraft seit 1. Juli 2017 ([AS 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
 
 #### Art. 97
 
@@ -2558,8 +2378,8 @@ Folgende Erlasse werden aufgehoben:
 
 <sup>2</sup> …[^99-3]
 
-[^99-1]: [[AS 1981 34](https://fedlex.data.admin.ch/eli/oc/1981/34_34_34), [2000 2028](https://fedlex.data.admin.ch/eli/oc/2000/303)]
-[^99-2]: [[AS 1953 797](https://fedlex.data.admin.ch/eli/oc/1953/797_815_645), [1977 265](https://fedlex.data.admin.ch/eli/oc/1977/265_265_265), [1987 285](https://fedlex.data.admin.ch/eli/oc/1987/285_285_285), [1988 2030](https://fedlex.data.admin.ch/eli/oc/1988/2030_2030_2030), [1991 1594](https://fedlex.data.admin.ch/eli/oc/1991/1594_1594_1594), [1994 1384](https://fedlex.data.admin.ch/eli/oc/1994/1384_1384_1384), [1997 2006](https://fedlex.data.admin.ch/eli/oc/1997/2006_2006_2006), [1999 3028](https://fedlex.data.admin.ch/eli/oc/1999/463)[3480](https://fedlex.data.admin.ch/eli/oc/1999/490)Art. 17 Ziff. 3, [2001 3068](https://fedlex.data.admin.ch/eli/oc/2001/458), [2004 2915](https://fedlex.data.admin.ch/eli/oc/2004/362)Art. 99 Abs. 1 Ziff. 2. [AS 2005 1823](https://fedlex.data.admin.ch/eli/oc/2005/300)]
+[^99-1]: [[AS 1981 34](https://fedlex.data.admin.ch/eli/oc/1981/34_34_34); [2000 2028](https://fedlex.data.admin.ch/eli/oc/2000/303)]
+[^99-2]: [[AS 1953 797](https://fedlex.data.admin.ch/eli/oc/1953/797_815_645); [1977 265](https://fedlex.data.admin.ch/eli/oc/1977/265_265_265); [1987 285](https://fedlex.data.admin.ch/eli/oc/1987/285_285_285); [1988 2030](https://fedlex.data.admin.ch/eli/oc/1988/2030_2030_2030); [1991 1594](https://fedlex.data.admin.ch/eli/oc/1991/1594_1594_1594); [1994 1384](https://fedlex.data.admin.ch/eli/oc/1994/1384_1384_1384); [1997 2006](https://fedlex.data.admin.ch/eli/oc/1997/2006_2006_2006); [1999 3028](https://fedlex.data.admin.ch/eli/oc/1999/463), [3480](https://fedlex.data.admin.ch/eli/oc/1999/490)Art. 17 Ziff. 3; [2001 3068](https://fedlex.data.admin.ch/eli/oc/2001/458); [2004 2915](https://fedlex.data.admin.ch/eli/oc/2004/362)Art. 99 Abs. 1 Ziff. 2. [AS 2005 1823](https://fedlex.data.admin.ch/eli/oc/2005/300)]
 [^99-3]: Die Änderungen können unter [AS 2004 2915](https://fedlex.data.admin.ch/eli/oc/2004/362)konsultiert werden.
 
 #### Art. 99a

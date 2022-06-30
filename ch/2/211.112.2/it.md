@@ -4,11 +4,11 @@ title: Ordinanza del 28 aprile 2004 sullo stato civile (OSC)
 short: OSC
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/362"
 language: it
-version: 2022-01-01
+version: 2022-07-01
 adopted: 2004-04-28
 in_force: 2004-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/362/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2004-362-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/362/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/362/20220701/it/xml/fedlex-data-admin-ch-eli-cc-2004-362-20220701-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/362/20220701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,17 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/362/20220101/it"
 
 (OSC)
 
-del 28 aprile 2004 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 28 aprile 2004 (Stato 1° luglio 2022)
 
 Il Consiglio federale svizzero,
 
-visti gli articoli 40, 43*a*, 44 capoverso 2, 45*a* capoverso 3, 48, 103 e, titolo finale, articolo 6*a* capoverso 1, del Codice civile (CC)[^ingress-1]; visto l’articolo 8 della legge federale del 18 giugno 2004[^ingress-2] sull’unione domestica registrata di coppie omosessuali (LUD),[^ingress-3]
+visti gli articoli 40, 43*a*, 44 capoverso 2, 45*a* capoverso 3, 48, 103 e, titolo finale, articoli 6*a* capoverso 1 e 9*g* capoverso 4 del Codice civile (CC)[^ingress-1]; visto l’articolo 35 capoverso 4 della legge federale del 18 giugno 2004[^ingress-2] sull’unione domestica registrata (LUD),[^ingress-3]
 
 ordina:
 
 [^ingress-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 [^ingress-2]: [RS 211.231](https://fedlex.data.admin.ch/eli/cc/2005/782)
-[^ingress-3]: Nuovo testo giusta il n. I dell’O del 28 giu. 2006, in vigore dal 1° gen. 2007 ([RU 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
+[^ingress-3]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
 
 ## Capitolo 1: Disposizioni generali
 
@@ -53,11 +53,13 @@ ordina:
 
 <sup>2</sup> Essi informano l’UFSC prima di trasferire la sede di un ufficio.
 
-<sup>3</sup> In ogni circondario dello stato civile deve esservi almeno un locale ufficiale in cui le coppie possano celebrare il matrimonio e costituire l’unione domestica registrata gratuitamente.
+<sup>3</sup> In ogni circondario dello stato civile deve esservi almeno un locale dei matrimoni disponibile gratuitamente, in cui le coppie possano celebrare il matrimonio e convertire l’unione domestica registrata in matrimonio nel quadro di una cerimonia.[^1a-2]
 
-<sup>4</sup> L’uso di altri locali per la celebrazione dei matrimoni e la costituzione delle unioni domestiche registrate è soggetto ad autorizzazione dell’autorità di vigilanza; sono fatti salvi i casi in conformità degli articoli 70 capoverso 2 e 75*i* capoverso 2.
+<sup>4</sup> L’uso di altri locali per la celebrazione dei matrimoni e la conversione delle unioni domestiche registrate in matrimoni nel quadro di una cerimonia è soggetto ad autorizzazione dell’autorità di vigilanza; sono fatti salvi i casi in conformità con l’articolo 70 capoverso 2.[^1a-3]
 
 [^1a-1]: Introdotto dal n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^1a-2]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
+[^1a-3]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
 
 #### Art. 2
 
@@ -133,25 +135,28 @@ In materia di stato civile le rappresentanze svizzere all’estero svolgono in p
 
 - a. informano e offrono consulenza agli interessati;
 - b. ottengono, ricevono, autenticano, traducono e trasmettono decisioni e documenti esteri concernenti lo stato civile;
-- c. ricevono e trasmettono domande e dichiarazioni per la celebrazione del matrimonio (art. 63 cpv. 2 e 65 cpv. 1) o per la costituzione di un’unione domestica registrata (art. 75*b* cpv. 2 e 75*d* cpv. 1) in Svizzera, procedono all’audizione dei fidanzati (art 74*a* cpv. 2) o dei partner (art. 75*m* cpv. 2), e trasmettono certificati svizzeri di capacità al matrimonio in vista della celebrazione del matrimonio all’estero (art. 75);
+- c.[^5-3] ricevono e trasmettono domande e dichiarazioni per la celebrazione del matrimonio in Svizzera (art. 63 cpv. 2 e 65 cpv. 1) o per il rilascio di certificati di capacità al matrimonio in vista della celebrazione del matrimonio all’estero (art. 75) e procedono all’audizione dei fidanzati (art. 74*a* cpv. 2);
+- c<sup>bis</sup>.[^5-4] ricevono e trasmettono dichiarazioni di conversione dell’unione domestica registrata in matrimonio (art. 75*n*);
 - d. ricevono e trasmettono dichiarazioni concernenti la paternità (art. 11 cpv. 6), se il riconoscimento del figlio non può essere documentato all’estero.
-- e.[^5-3] ricevono e trasmettono dichiarazioni concernenti il cognome (art. 12 cpv. 2, 12*a* cpv. 2, 13 cpv. 1, 13*a* cpv. 1, 14 cpv. 2, 14*a* cpv. 1, 37 cpv. 4 e 37*a* cpv. 5);
-- e<sup>bis</sup>.[^5-4] ricevono e trasmettono dichiarazioni concernenti il cambiamento del sesso e, se del caso, dei prenomi iscritti nel registro dello stato civile (art. 14*b*);
+- e.[^5-5] ricevono e trasmettono dichiarazioni concernenti il cognome (art. 12 cpv. 2, 12*a* cpv. 2, 13 cpv. 1, 13*a* cpv. 1, 14 cpv. 2, 14*a* cpv. 1, 37 cpv. 4 e 37*a* cpv. 5);
+- e<sup>bis</sup>.[^5-6] ricevono e trasmettono dichiarazioni concernenti il cambiamento del sesso e, se del caso, dei prenomi iscritti nel registro dello stato civile (art. 14*b*);
 - f. accertano le cittadinanze comunali e cantonali, nonché la cittadinanza svizzera;
 - g. verificano l’autenticità dei documenti esteri;
 - h. ottengono e trasmettono informazioni sul diritto estero;
 - i. riscuotono emolumenti.
 
-<sup>2</sup> Le rappresentanze svizzere all’estero comunicano all’ufficio dello stato civile e all’autorità di vigilanza, per trasmissione all’autorità cantonale competente in materia di migrazione, i fatti indicanti che è previsto o è già stato contratto un matrimonio o un’unione domestica registrata al fine di eludere le disposizioni in materia di ammissione e soggiorno di stranieri (art. 82*a* dell’ordinanza del 24 ottobre 2007[^5-5] sull’ammissione, il soggiorno e l’attività lucrativa, OASA).[^5-6]
+<sup>2</sup> Le rappresentanze svizzere all’estero comunicano all’ufficio dello stato civile e all’autorità di vigilanza, per trasmissione all’autorità cantonale competente in materia di migrazione, i fatti indicanti che è previsto o è già stato contratto un matrimonio o un’unione domestica registrata al fine di eludere le disposizioni in materia di ammissione e soggiorno di stranieri (art. 82*a* dell’ordinanza del 24 ottobre 2007[^5-7] sull’ammissione, il soggiorno e l’attività lucrativa, OASA).[^5-8]
 
 <sup>3</sup> L’UFSC emana le necessarie istruzioni ed esercita la vigilanza.
 
 [^5-1]: Nuovo testo giusta il n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
 [^5-2]: Nuovo testo giusta il n. I dell’O del 7 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
-[^5-3]: Nuovo testo giusta il n. I dell’O del 14 mag. 2014, in vigore dal 1° lug. 2014 ([RU 2014 1327](https://fedlex.data.admin.ch/eli/oc/2014/282)).
-[^5-4]: Introdotta dal n. I dell’O del 27 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
-[^5-5]: [RS 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
-[^5-6]: Nuovo testo giusta il n. I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
+[^5-3]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
+[^5-4]: Introdotta dal n. I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
+[^5-5]: Nuovo testo giusta il n. I dell’O del 14 mag. 2014, in vigore dal 1° lug. 2014 ([RU 2014 1327](https://fedlex.data.admin.ch/eli/oc/2014/282)).
+[^5-6]: Introdotta dal n. I dell’O del 27 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^5-7]: [RS 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
+[^5-8]: Nuovo testo giusta il n. I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
 
 #### Art. 6
 
@@ -202,11 +207,11 @@ Sono registrati:
 - m. adozione;
 - n. dichiarazione di scomparsa;
 - o. cambiamento di sesso;
-- p.[^7-1] procedura preliminare alla registrazione dell’unione domestica;
+- p.[^7-1] ...
 - q.[^7-2] registrazione dell’unione domestica;
 - r.[^7-3] scioglimento dell’unione domestica registrata.
 
-[^7-1]: Introdotta dal n. I dell’O del 28 giu. 2006, in vigore dal 1° gen. 2007 ([RU 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
+[^7-1]: Introdotta dal n. I dell’O del 28 giu. 2006 ([RU 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)). Abrogata dal n. I dell’O del 30 mar. 2022, con effetto dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
 [^7-2]: Introdotta dal n. I dell’O del 28 giu. 2006, in vigore dal 1° gen. 2007 ([RU 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
 [^7-3]: Introdotta dal n. I dell’O del 28 giu. 2006, in vigore dal 1° gen. 2007 ([RU 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
 
@@ -439,25 +444,22 @@ Se non è il primo figlio in comune di genitori non uniti in matrimonio, il figl
 
 **Dichiarazione concernente il cognome prima della celebrazione del matrimonio**[^12-1]
 
-<sup>1</sup> Gli sposi fanno all’ufficiale dello stato civile che istruisce la procedura preparatoria del matrimonio o celebra il matrimonio la dichiarazione di cui all’articolo 160 capoverso 2 o 3 CC.
+<sup>1</sup> I fidanzati fanno all’ufficiale dello stato civile che istruisce la procedura preparatoria del matrimonio o celebra il matrimonio la dichiarazione di cui all’articolo 160 capoverso 2 o 3 CC.[^12-2]
 
-<sup>2</sup> Se il matrimonio è celebrato all’estero, la dichiarazione può essere fatta presso la rappresentanza svizzera oppure all’ufficio dello stato civile del luogo di attinenza o a quello del luogo di domicilio svizzero della sposa o dello sposo.
+<sup>2</sup> Se il matrimonio è celebrato all’estero, la dichiarazione può essere fatta presso la rappresentanza svizzera oppure all’ufficio dello stato civile del luogo di attinenza o a quello del luogo di domicilio svizzero di uno dei fidanzati. Questa disposizione si applica per analogia alle unioni domestiche registrate costituite all’estero.[^12-3]
 
-<sup>3</sup> Le firme sono autenticate, se la dichiarazione concernente il cognome non è stata fatta nell’ambito della procedura preparatoria.
+<sup>3</sup> Le firme sono autenticate.[^12-4]
 
 [^12-1]: Nuovo testo giusta il n. I dell’O del 7 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
+[^12-2]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
+[^12-3]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
+[^12-4]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
 
 #### Art. 12a
 
-**Dichiarazione concernente il cognome prima della registrazione dell’unione domestica**[^12a-1]
+[^12a-1]
 
-<sup>1</sup> I partner possono fare all’ufficiale dello stato civile che istruisce la procedura preliminare per la registrazione dell’unione domestica o documenta l’unione domestica registrata la dichiarazione di cui all’articolo 12*a* LUD.
-
-<sup>2</sup> Se l’unione domestica è registrata all’estero, la dichiarazione può essere fatta presso la rappresentanza svizzera oppure all’ufficio dello stato civile del luogo di attinenza o a quello del luogo di domicilio svizzero di uno dei partner.
-
-<sup>3</sup> Le firme sono autenticate, se la dichiarazione concernente il cognome non è stata fatta nell’ambito della procedura preliminare.
-
-[^12a-1]: Introdotto dal n. I dell’O del 7 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
+[^12a-1]: Introdotto dal n. I dell’O del 7 nov. 2012 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)). Abrogato dal n. I dell’O del 30 mar. 2022, con effetto dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
 
 #### Art. 13
 
@@ -487,7 +489,7 @@ Se non è il primo figlio in comune di genitori non uniti in matrimonio, il figl
 
 <sup>2</sup> In rapporto a un fatto di stato civile avvenuto all’estero, siffatta dichiarazione può essere consegnata all’autorità di vigilanza direttamente o per il tramite di una rappresentanza svizzera.
 
-<sup>3</sup> Nel caso in cui un cittadino svizzero faccia la dichiarazione concernente il cognome prevista dagli articoli 12, 12*a*, 13, 13*a*, 14*a*, 37 capoverso 2 o 3 oppure 37*a* capoverso 3 o 4, questa vale quale dichiarazione di voler sottoporre il nome al diritto nazionale.[^14-3]
+<sup>3</sup> Nel caso in cui un cittadino svizzero faccia la dichiarazione concernente il cognome prevista dagli articoli 12, 13, 13*a*, 14*a*, 37 capoverso 2 o 3 oppure 37*a* capoverso 3 o 4, questa vale quale dichiarazione di voler sottoporre il nome al diritto nazionale.[^14-3]
 
 <sup>4</sup> Nel caso di un fatto di stato civile che lo concerne personalmente, il cittadino svizzero domiciliato all’estero o lo straniero può dichiarare per scritto dinanzi all’ufficiale dello stato civile di volere che l’iscrizione nel registro dello stato civile del suo sesso e, se del caso, dei suoi prenomi siano regolati dal suo diritto nazionale (art. 40*a* LDIP).[^14-4]
 
@@ -495,7 +497,7 @@ Se non è il primo figlio in comune di genitori non uniti in matrimonio, il figl
 
 [^14-1]: Nuovo testo giusta il n. I dell’O del 27 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
 [^14-2]: [RS 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
-[^14-3]: Nuovo testo giusta il n. I dell’O del 14 mag. 2014, in vigore dal 1° lug. 2014 ([RU 2014 1327](https://fedlex.data.admin.ch/eli/oc/2014/282)).
+[^14-3]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
 [^14-4]: Introdotto dal n. I dell’O del 27 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
 [^14-5]: Introdotto dal n. I dell’O del 27 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
 
@@ -685,31 +687,34 @@ La firma autografa va apposta in presenza della persona competente per la ricezi
 - a. il consenso al riconoscimento (art. 11 cpv. 4);
 - b. la dichiarazione concernente il riconoscimento (art. 11 cpv. 5 e 6);
 - b<sup>bis</sup>.[^18-2] la dichiarazione concernente l’autorità parentale congiunta (art. 11*b* cpv. 1);
-- c. la dichiarazione concernente il cognome prima della celebrazione del matrimonio, se questa non è stata fatta nell’ambito della procedura preparatoria (art. 12 cpv. 3);
-- d. la dichiarazione concernente il cognome prima della registrazione dell’unione domestica (art. 12*a* cpv. 3);
+- c.[^18-3] la dichiarazione concernente il cognome prima della celebrazione del matrimonio o dopo la registrazione dell’unione domestica costituita all’estero (art. 12 cpv. 3);
+- d.[^18-4] *...*
 - e. la dichiarazione concernente il cognome dopo lo scioglimento del matrimonio (art. 13 cpv. 2);
 - f. la dichiarazione concernente il cognome dopo lo scioglimento dell’unione domestica registrata (art. 13*a* cpv. 2);
 - g. la dichiarazione concernente il cognome di cui all’articolo 8*a* titolo finale CC (art. 14*a* cpv. 2);
-- h.[^18-3] la dichiarazione concernente il cambiamento del sesso e, se del caso, dei prenomi iscritti nel registro dello stato civile (art. 14*b* cpv. 1);
-- h<sup>bis</sup>.[^18-4] il consenso alla dichiarazione concernente il cambiamento del sesso iscritto nel registro dello stato civile (art. 14*b* cpv. 2);
+- h.[^18-5] la dichiarazione concernente il cambiamento del sesso e, se del caso, dei prenomi iscritti nel registro dello stato civile (art. 14*b* cpv. 1);
+- h<sup>bis</sup>.[^18-6] il consenso alla dichiarazione concernente il cambiamento del sesso iscritto nel registro dello stato civile (art. 14*b* cpv. 2);
 - i. la conferma della correttezza dei dati (art. 16*a*);
 - j. la dichiarazione a comprova di dati non controversi (art. 17);
-- k.[^18-5] la dichiarazione concernente il cognome del figlio (art. 37 cpv. 5 e 37*a* cpv. 6);
+- k.[^18-7] la dichiarazione concernente il cognome del figlio (art. 37 cpv. 5 e 37*a* cpv. 6);
 - l. il consenso del figlio al cambiamento del cognome (art. 37*b* cpv. 2);
-- m.[^18-6] la dichiarazione concernente le condizioni per la celebrazione del matrimonio (art. 65 cpv. 1 e 2);
+- m.[^18-8] la dichiarazione concernente le condizioni per la celebrazione del matrimonio (art. 65 cpv. 1 e 2);
 - n. la conferma della celebrazione del matrimonio (art. 71 cpv. 4);
-- o.[^18-7] la dichiarazione concernente le condizioni per la registrazione di un’unione domestica registrata (art. 75*d* cpv. 1 e 2);
-- p. la dichiarazione che esprime la volontà di costituire l’unione domestica registrata (art. 75*k* cpv. 2).
+- o.[^18-9] la dichiarazione di conversione dell’unione domestica registrata in matrimonio (art. 75*n* cpv. 4 e 75*o* cpv. 1 lett. c);
+- p.[^18-10] *...*
 
 <sup>2</sup> Se una persona disposta ad apporre la propria firma non è in grado di firmare, il funzionario competente secondo l’articolo 4 o 5 annota tale circostanza per scritto e ne indica il motivo.
 
 [^18-1]: Nuovo testo giusta il n. I dell’O del 7 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
 [^18-2]: Introdotta dal n. I dell’O del 14 mag. 2014, in vigore dal 1° lug. 2014 ([RU 2014 1327](https://fedlex.data.admin.ch/eli/oc/2014/282)).
-[^18-3]: Nuovo testo giusta il n. I dell’O del 27 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
-[^18-4]: Introdotta dal n. I dell’O del 27 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
-[^18-5]: Nuovo testo giusta il n. I dell’O del 14 mag. 2014, in vigore dal 1° lug. 2014 ([RU 2014 1327](https://fedlex.data.admin.ch/eli/oc/2014/282)).
-[^18-6]: Nuovo testo giusta il n. I dell’O del 27 mar. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
-[^18-7]: Nuovo testo giusta il n. I dell’O del 27 mar. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
+[^18-3]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
+[^18-4]: Abrogata dal n. I dell’O del 30 mar. 2022, con effetto dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
+[^18-5]: Nuovo testo giusta il n. I dell’O del 27 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^18-6]: Introdotta dal n. I dell’O del 27 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^18-7]: Nuovo testo giusta il n. I dell’O del 14 mag. 2014, in vigore dal 1° lug. 2014 ([RU 2014 1327](https://fedlex.data.admin.ch/eli/oc/2014/282)).
+[^18-8]: Nuovo testo giusta il n. I dell’O del 27 mar. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
+[^18-9]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
+[^18-10]: Abrogata dal n. I dell’O del 30 mar. 2022, con effetto dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
 
 #### Art. 18a
 
@@ -795,9 +800,9 @@ I dati dello stato civile comprovati vanno documentati senza indugio.
 
 **Celebrazioni di matrimoni e dichiarazioni[^21-2]**[^21-1]
 
-<sup>1</sup> Le celebrazioni di matrimoni, nonché le dichiarazioni concernenti la volontà di costituire l’unione domestica registrata, il riconoscimento di un figlio e il cognome sono documentate dall’ufficio dello stato civile che ha effettuato l’atto ufficiale.[^21-3]
+<sup>1</sup> Le celebrazioni di matrimoni, nonché le dichiarazioni concernenti la volontà di convertire l’unione domestica registrata in matrimonio, il riconoscimento di un figlio, il cognome e il cambiamento del sesso nel registro dello stato civile sono documentate dall’ufficio dello stato civile che ha effettuato l’atto ufficiale.[^21-3]
 
-<sup>2</sup> L’articolo 23 si applica per analogia alla competenza di documentare la dichiarazione concernente il riconoscimento di un figlio o il cognome fatta a una rappresentanza svizzera all’estero.[^21-4]
+<sup>2</sup> La competenza di documentare le dichiarazioni fatte a una rappresentanza svizzera all’estero è retta per analogia dall’articolo 23.[^21-4]
 
 <sup>3</sup> Il riconoscimento di un figlio dinanzi al giudice o per disposizione a causa di morte è documentato dall’ufficio dello stato civile della sede dell’autorità giudiziaria o del luogo in cui avviene l’apertura del testamento. È fatta salva la competenza di un ufficio dello stato civile speciale in virtù dell’articolo 2 capoverso 2 lettera b.
 
@@ -805,8 +810,8 @@ I dati dello stato civile comprovati vanno documentati senza indugio.
 
 [^21-1]: Nuovo testo giusta il n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
 [^21-2]: Nuovo testo giusta il n. I dell’O del 7 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
-[^21-3]: Nuovo testo giusta il n. I dell’O del 7 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
-[^21-4]: Nuovo testo giusta il n. I dell’O del 7 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
+[^21-3]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
+[^21-4]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
 
 #### Art. 22
 
@@ -1021,19 +1026,20 @@ La morte è notificata:
 
 <sup>5</sup> Se è notificata la morte o un infante nato morto, va presentato un certificato medico.
 
-<sup>6</sup> Se la nascita è notificata da una delle persone di cui all’articolo 34 lettera b<sup>bis</sup>, l’ufficio dello stato civile può chiedere una conferma del parto da parte del medico.[^35-5]
+<sup>6</sup> Se la nascita è notificata da una delle persone di cui all’articolo 34 lettera b<sup>bis</sup>, l’ufficio dello stato civile può chiedere una conferma del parto da parte del medico. Se al momento della nascita la madre è sposata con una donna, e se il figlio è stato concepito mediante dono di spermatozoi secondo le disposizioni della legge del 18 dicembre 1998[^35-5] sulla medicina della procreazione (LPAM), nei casi in cui la nascita è notificata da una persona di cui all’articolo 34 lettera b<sup>bis</sup> deve essere presentata la conferma medica del concepimento mediante dono di spermatozoi secondo la LPAM.[^35-6]
 
-<sup>7</sup> Se è fatta in forma cartacea, la notificazione deve essere firmata dalla persona tenuta a notificare la morte.[^35-6]
+<sup>7</sup> Se è fatta in forma cartacea, la notificazione deve essere firmata dalla persona tenuta a notificare la morte.[^35-7]
 
-<sup>8</sup> La trasmissione di notificazioni e certificati medici in forma elettronica è retta dall’articolo 89 capoverso 4.[^35-7]
+<sup>8</sup> La trasmissione di notificazioni e certificati medici in forma elettronica è retta dall’articolo 89 capoverso 4.[^35-8]
 
 [^35-1]: Nuovo testo giusta il n. I dell’O del 27 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
 [^35-2]: Nuovo testo giusta il n. I dell’O del 7 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
 [^35-3]: Nuovo testo giusta il n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
 [^35-4]: Nuovo testo giusta del per. giusta il n. I dell’O del 27 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
-[^35-5]: Introdotto dal n. I dell’O del 26 ott. 2016, in vigore dal 1° lug. 2017 ([RU 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
-[^35-6]: Introdotto dal n. I dell’O del 27 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^35-5]: [RS 810.11](https://fedlex.data.admin.ch/eli/cc/2000/554)
+[^35-6]: Introdotto dal n. I dell’O del 26 ott. 2016 ([RU 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)). Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
 [^35-7]: Introdotto dal n. I dell’O del 27 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^35-8]: Introdotto dal n. I dell’O del 27 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
 
 #### Art. 36
 
@@ -1434,15 +1440,17 @@ L’ufficio dello stato civile competente per la documentazione comunica alla Se
 
 - a. le nascite;
 - b.[^51-4] il sorgere e l’annullamento del legame di filiazione;
-- c. i matrimoni e le unioni domestiche registrate;
+- c.[^51-5] i matrimoni, le unioni domestiche registrate e la loro conversione in matrimonio nonché lo scioglimento di matrimoni e unioni domestiche registrate;
 - d. le morti.
 
-<sup>2</sup> L’ufficio dello stato civile competente per la preparazione del matrimonio o dell’unione domestica registrata procede inoltre alle comunicazioni previste agli articoli 67 capoverso 5, 74*a* capoverso 6 lettere b e c nonché capoverso 7, 75*f* capoverso 5 e 75*m* capoverso 6 lettere b e c nonché capoverso 7.
+<sup>2</sup> L’ufficio dello stato civile competente per la preparazione del matrimonio procede inoltre alle comunicazioni previste agli articoli 67 capoverso 5 e 74*a* capoverso 6 lettere b e c nonché capoverso 7.[^51-6]
 
 [^51-1]: Nuovo testo giusta il n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
 [^51-2]: La designatzione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1°gen. 2015. Di detta mod. è tenuto conto in tutto il presente testo.
 [^51-3]: Nuovo testo giusta il n. I dell’O del 27 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
 [^51-4]: Nuovo testo giusta il n. I dell’O del 27 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^51-5]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
+[^51-6]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
 
 #### Art. 52
 
@@ -1596,14 +1604,15 @@ La rappresentanza estera deve provare che:
 
 L’esecuzione della procedura preparatoria spetta:
 
-- a. all’ufficio dello stato civile del luogo di domicilio svizzero del fidanzato o della fidanzata;
+- a.[^62-1] all’ufficio dello stato civile del luogo di domicilio svizzero di uno dei fidanzati;
 - b. all’ufficio dello stato civile che effettua la celebrazione del matrimonio, se i due fidanzati sono domiciliati all’estero.
 
 <sup>2</sup> Un cambiamento ulteriore di domicilio non modifica la competenza.
 
-<sup>3</sup> Quando uno dei fidanzati è in pericolo di morte, l’ufficiale dello stato civile del luogo di soggiorno di tale fidanzato può, dietro presentazione di un attestato medico, espletare la procedura preparatoria e celebrare il matrimonio.[^62-1]
+<sup>3</sup> Quando uno dei fidanzati è in pericolo di morte, l’ufficiale dello stato civile del luogo di soggiorno di tale fidanzato può, dietro presentazione di un attestato medico, espletare la procedura preparatoria e celebrare il matrimonio.[^62-2]
 
-[^62-1]: Introdotto dal n. I dell’O del 28 giu. 2006, in vigore dal 1° gen. 2007 ([RU 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
+[^62-1]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
+[^62-2]: Introdotto dal n. I dell’O del 28 giu. 2006, in vigore dal 1° gen. 2007 ([RU 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
 
 #### Art. 63
 
@@ -1624,12 +1633,13 @@ L’esecuzione della procedura preparatoria spetta:
 Alla domanda d’esecuzione della procedura preparatoria i fidanzati allegano i documenti seguenti:
 
 - a. i certificati del loro attuale domicilio;
-- b. i documenti concernenti la nascita, il sesso, i nomi, la filiazione, lo stato civile (persone che sono state sposate o che hanno vissuto in unione domestica registrata: data dello scioglimento del matrimonio o dello scioglimento dell’unione domestica registrata) nonché i luoghi di attinenza e la cittadinanza se i dati dei fidanzati non sono ancora stati documentati oppure se i dati disponibili non sono corretti, completi o aggiornati;
+- b.[^64-2] i documenti concernenti la nascita, il sesso, i nomi, la filiazione, lo stato civile (persone che sono state sposate o che hanno vissuto in unione domestica registrata con una terza persona: data dello scioglimento del matrimonio o dello scioglimento dell’unione domestica registrata) nonché i luoghi di attinenza e la cittadinanza se i dati dei fidanzati non sono ancora stati documentati oppure se i dati disponibili non sono corretti, completi o aggiornati;
 - c. i documenti concernenti la nascita, il sesso, i nomi e la discendenza dei figli in comune se il rapporto di filiazione non è ancora stato documentato oppure se i dati disponibili non sono corretti, completi o aggiornati.
 
 <sup>2</sup> I fidanzati che non hanno la cittadinanza svizzera allegano inoltre un documento che provi la legalità del loro soggiorno in Svizzera fino al giorno in cui è prevista la celebrazione del matrimonio.
 
 [^64-1]: Nuovo testo giusta il n. I dell’O del 27 mar. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
+[^64-2]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
 
 #### Art. 65
 
@@ -1640,9 +1650,9 @@ Alla domanda d’esecuzione della procedura preparatoria i fidanzati allegano i 
 I fidanzati dichiarano davanti all’ufficiale dello stato civile che:
 
 - a. i dati nella domanda e i documenti presentati sono attuali, esatti e completi;
-- b.[^65-1] …
+- b.[^65-1] ...
 - c.[^65-2] non sono parenti in linea retta, per discendenza o per adozione, né fratelli o sorelle germani, consanguinei o uterini;
-- d.[^65-3] non hanno omesso di dichiarare un matrimonio o un’unione domestica registrata ancora esistente.
+- d.[^65-3] non hanno omesso di dichiarare un matrimonio o un’unione domestica registrata ancora esistente con una terza persona.
 
 <sup>1bis</sup> L’ufficiale dello stato civile rammenta ai fidanzati che non può celebrare il matrimonio se non vi consentono con libera volontà.[^65-4]
 
@@ -1662,7 +1672,7 @@ L’ufficiale dello stato civile rende attenti i fidanzati del loro obbligo di d
 
 [^65-1]: Abrogata dal n. I dell’O del 7 nov. 2012, con effetto dal 1° gen. 2013 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
 [^65-2]: Nuovo testo giusta il n. I dell’O del 9 dic. 2005, in vigore dal 1° gen. 2006 ([RU 2005 5679](https://fedlex.data.admin.ch/eli/oc/2005/781)).
-[^65-3]: Nuovo testo giusta il n. I dell’O del 28 giu. 2006, in vigore dal 1° gen. 2007 ([RU 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
+[^65-3]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
 [^65-4]: Introdotto dal n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
 [^65-5]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^65-6]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
@@ -1684,13 +1694,13 @@ Inoltre, esso esamina se:
 - a. la domanda è stata depositata nella forma richiesta;
 - b. esistono i documenti e le dichiarazioni necessari;
 - c. è data la capacità al matrimonio per entrambi i fidanzati (art. 94 CC);
-- d.[^66-1] non vi sono impedimenti al matrimonio (art. 95 e 96 CC e 26 LUD: nessun impedimento al matrimonio in seguito a parentela, unione domestica registrata o matrimonio ancora esistente);
+- d.[^66-1] non vi sono impedimenti al matrimonio (art. 95 e 96 CC);
 - e.[^66-2] i fidanzati che non hanno la cittadinanza svizzera hanno provato la legalità del loro soggiorno in Svizzera (art. 98 cpv. 4 CC);
 - f.[^66-3] sussistono circostanze secondo cui la domanda manifestamente non corrisponde alla libera volontà dei fidanzati (art. 99 cpv. 1 n. 3 CC).
 
 <sup>3</sup> L’ufficio dello stato civile può verificare la legalità del soggiorno nel Sistema d’informazione centrale sulla migrazione. In caso di dubbi, può incaricare di tale verifica l’autorità cantonale competente in materia di migrazione del luogo di domicilio o di soggiorno di uno dei fidanzati. Questa autorità deve informare l’ufficio senza indugio e gratuitamente.[^66-4]
 
-[^66-1]: Nuovo testo giusta il n. I dell’O del 28 giu. 2006, in vigore dal 1° gen. 2007 ([RU 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
+[^66-1]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
 [^66-2]: Introdotta dal n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
 [^66-3]: Introdotta dal n. I dell’O del 27 mar. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
 [^66-4]: Introdotto dal n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
@@ -1701,7 +1711,7 @@ Inoltre, esso esamina se:
 
 <sup>1</sup> L’ufficiale dello stato civile constata il risultato della procedura preparatoria.
 
-<sup>2</sup> Se sono soddisfatti i requisiti secondo l’articolo 66 capoverso 2, l’ufficio dello stato civile comunica ai fidanzati che il matrimonio può essere celebrato. Concorda con loro i dettagli della celebrazione oppure li indirizza all’ufficio dello stato civile che hanno scelto per il matrimonio.[^67-2]
+<sup>2</sup> Se sono soddisfatti i requisiti secondo l’articolo 66 capoverso 2, l’ufficio dello stato civile comunica per scritto ai fidanzati che il matrimonio può essere celebrato. Concorda con loro i dettagli della celebrazione oppure li indirizza all’ufficio dello stato civile che hanno scelto per il matrimonio. Se il matrimonio è celebrato subito dopo la chiusura della procedura preparatoria, la comunicazione avviene oralmente.[^67-2]
 
 <sup>3</sup> Se i requisiti non sono soddisfatti o se permangono seri dubbi, l’ufficio dello stato civile rifiuta di celebrare il matrimonio.[^67-3]
 
@@ -1712,7 +1722,7 @@ Inoltre, esso esamina se:
 <sup>6</sup> La denuncia dei reati constatati e le misure di protezione sono rette dall’articolo 16 capoverso 7.[^67-4]
 
 [^67-1]: Nuovo testo giusta il n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^67-2]: Nuovo testo giusta il n. I dell’O del 20 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3815](https://fedlex.data.admin.ch/eli/oc/2019/696)).
+[^67-2]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
 [^67-3]: Nuovo testo giusta il n. I dell’O del 27 mar. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
 [^67-4]: Introdotto dal n. I dell’O del 27 mar. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
 
@@ -1754,11 +1764,11 @@ Il matrimonio può essere celebrato entro tre mesi dalla comunicazione della dec
 
 <sup>1</sup> Il matrimonio è celebrato pubblicamente, in presenza di due testimoni maggiorenni e capaci di discernimento. I testimoni devono essere scelti dai fidanzati.
 
-<sup>2</sup> L’ufficiale dello stato civile celebra il matrimonio rivolgendo singolarmente al fidanzato e alla fidanzata la seguente domanda:
+<sup>2</sup> L’ufficiale dello stato civile celebra il matrimonio rivolgendo singolarmente ai fidanzati una delle seguenti domande in funzione del sesso:
 
-«N. N. dichiara lei di voler prendere M.M. per moglie?»
+«N. N. dichiara lei di voler prendere M. M. per moglie?»
 
-«M. M. dichiara lei di voler prendere N. N. per marito?»
+«M. M. dichiara lei di voler prendere N. N. per marito?»[^71-1]
 
 <sup>3</sup> Dopo che ambedue gli sposi hanno risposto affermativamente, l’ufficiale dello stato civile dichiara:
 
@@ -1766,9 +1776,10 @@ Il matrimonio può essere celebrato entro tre mesi dalla comunicazione della dec
 
 <sup>4</sup> Subito dopo la celebrazione il documento giustificativo preparato per la registrazione della celebrazione è firmato dagli sposi, dai testimoni e dall’ufficiale dello stato civile.
 
-<sup>5</sup> Se sussistono circostanze secondo cui la domanda di matrimonio manifestamente non corrisponde alla libera volontà dei fidanzati, l’ufficiale dello stato civile rifiuta di celebrare il matrimonio e annulla l’autorizzazione della celebrazione mediante una decisione scritta notificata ai fidanzati e all’ufficiale dello stato civile che ha svolto la procedura preparatoria. Denuncia i fatti alle autorità di perseguimento penale (art. 16 cpv. 7).[^71-1]
+<sup>5</sup> Se sussistono circostanze secondo cui la domanda di matrimonio manifestamente non corrisponde alla libera volontà dei fidanzati, l’ufficiale dello stato civile rifiuta di celebrare il matrimonio e annulla l’autorizzazione della celebrazione mediante una decisione scritta notificata ai fidanzati e all’ufficiale dello stato civile che ha svolto la procedura preparatoria. Denuncia i fatti alle autorità di perseguimento penale (art. 16 cpv. 7).[^71-2]
 
-[^71-1]: Introdotto dal n. I dell’O del 27 mar. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
+[^71-1]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
+[^71-2]: Introdotto dal n. I dell’O del 27 mar. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
 
 #### Art. 72
 
@@ -1845,237 +1856,45 @@ L’ufficiale dello stato civile comunica per scritto il rifiuto di eseguire la 
 
 <sup>1</sup> Se un cittadino svizzero ha bisogno di un certificato di capacità per la celebrazione del suo matrimonio all’estero, questo è rilasciato su domanda di entrambi i fidanzati.
 
-<sup>2</sup> La competenza e la procedura sono rette per analogia dalle disposizioni sulla procedura preparatoria del matrimonio in Svizzera (art. 62–67, 69 e 74*a*). Se non vi è domicilio in Svizzera, è competente l’ufficio dello stato civile del luogo di attinenza della fidanzata o del fidanzato.[^75-1]
+<sup>2</sup> La competenza e la procedura sono rette per analogia dalle disposizioni sulla procedura preparatoria del matrimonio in Svizzera (art. 62–67, 69 e 74*a*). Se non vi è domicilio in Svizzera, è competente l’ufficio dello stato civile del luogo di attinenza di uno dei fidanzati.[^75-1]
 
-[^75-1]: Nuovo testo giusta il n. I dell’O del 27 mar. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
+[^75-1]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
 
-## Capitolo 7*a*:**** Unione domestica registrata
+## Capitolo 7*a*:**** Conversione dell’unione domestica registrata in matrimonio
 
 [^chap7a-1]
 
-[^chap7a-1]: Introdotto dal n. I dell’O del 28 giu. 2006, in vigore dal 1° gen. 2007 ([RU 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
+[^chap7a-1]: Introdotto dal n. I dell’O del 28 giu. 2006 ([RU 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)). Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
 
-### Sezione 1: Procedura preliminare
+#### Art. 75a a 75m
 
-#### Art. 75a
+*Abrogati*
 
-**Competenza**
+#### Art. 75n
 
-<sup>1</sup>
+**Dichiarazione di conversione**
 
-L’esecuzione della procedura preliminare spetta:
+<sup>1</sup> In Svizzera i partner che desiderano convertire in matrimonio l’unione domestica registrata costituita in Svizzera o all’estero prima del 1° luglio 2022 possono fare la dichiarazione di conversione a qualsiasi ufficiale dello stato civile. All’estero possono fare la dichiarazione presso la rappresentanza svizzera competente.
 
-- a. all’ufficio dello stato civile del luogo di domicilio svizzero di uno dei due partner;
-- b. all’ufficio dello stato civile che dovrebbe registrare l’unione domestica, se i due partner sono domiciliati all’estero e almeno uno dei due è cittadino svizzero (art. 43 e 65*a* LDIP[^75a-1]).
+<sup>2</sup> Devono fare la dichiarazione di conversione congiuntamente, di persona e in forma scritta.
 
-<sup>2</sup> Un successivo cambiamento di domicilio non modifica la competenza.
+<sup>3</sup> Se dimostrano che manifestamente non si può esigere da loro che si presentino di persona all’ufficio dello stato civile, la dichiarazione di conversione può essere ricevuta al di fuori dei locali ufficiali.
 
-<sup>3</sup> Quando uno dei partner è in pericolo di morte, l’ufficiale dello stato civile del luogo di soggiorno di tale persona può, dietro presentazione di un attestato medico, espletare la procedura preliminare e registrare l’unione domestica.
+<sup>4</sup> Le loro firme sono autenticate.
 
-[^75a-1]: [RS 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
+#### Art. 75o
 
-#### Art. 75b
-
-**Inoltro della domanda**
-
-<sup>1</sup> I partner inoltrano la domanda all’ufficio dello stato civile competente.
-
-<sup>2</sup> Se è data la competenza di cui all’articolo 75*a*, i partner dimoranti all’estero possono inoltrare la domanda per il tramite della rappresentanza svizzera competente.
-
-#### Art. 75c
-
-**Documenti**
+**Conversione nel quadro di una cerimonia**
 
 <sup>1</sup>
 
-Alla domanda d’esecuzione della procedura preliminare i partner allegano i documenti seguenti:
+Se, su domanda congiunta dei partner registrati, la dichiarazione di conversione è ricevuta dall’ufficiale dello stato civile nel locale dei matrimoni, nel quadro di una cerimonia in presenza di due testimoni maggiorenni e capaci di discernimento, vale quanto segue:
 
-- a. i certificati del loro attuale domicilio;
-- b. i documenti concernenti la nascita, il sesso, i nomi, la filiazione, lo stato civile (persone che hanno vissuto in unione domestica registrata o sono state sposate: data dello scioglimento del matrimonio o dello scioglimento dell’unione domestica registrata) nonché luoghi di attinenza e cittadinanza se i dati dei partner non sono ancora stati documentati oppure se i dati disponibili non sono corretti, completi o aggiornati.
+- a. la ricezione della dichiarazione di conversione è pubblica;
+- b. i testimoni devono essere scelti da entrambi i partner;
+- c. l’ufficiale dello stato civile riceve la dichiarazione di conversione, la fa firmare ai due partner e ai due testimoni e autentica le firme.
 
-<sup>2</sup> ...[^75c-1]
-
-<sup>3</sup> I partner che non hanno la cittadinanza svizzera allegano inoltre un documento che provi la legalità del loro soggiorno in Svizzera fino al giorno in cui è prevista la costituzione dell’unione domestica registrata.[^75c-2]
-
-[^75c-1]: Abrogato dal n. I dell’O del 7 nov. 2012, con effetto dal 1° gen. 2013 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
-[^75c-2]: Introdotto dal n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-
-#### Art. 75d
-
-**Dichiarazioni**
-
-<sup>1</sup>
-
-I partner dichiarano davanti all’ufficiale dello stato civile che:
-
-- a. i dati nella domanda e i documenti presentati sono corretti, completi e aggiornati;
-- [tab] b.[^75d-1]...
-- c. non sono parenti in linea retta, per discendenza o per adozione, né fratelli o sorelle germani, consanguinei o uterini;
-- d. non hanno omesso di dichiarare un’unione domestica registrata o un matrimonio ancora esistente.
-
-<sup>1bis</sup> L’ufficiale dello stato civile rammenta ai partner che non può registrare l’unione domestica se non vi consentono con libera volontà.[^75d-2]
-
-<sup>2</sup>
-
-L’ufficiale dello stato civile rende attenti i partner del loro obbligo di dire la verità e li avverte delle conseguenze penali in caso di:
-
-- a. unione domestica forzata (art. 181*a* CP[^75d-3]);
-- b. reati contro l’integrità sessuale (art. 187–200 CP);
-- c. crimini o delitti contro la famiglia (art. 213–220 CP);
-- d. falsità in atti (art. 251–257 CP);
-- e. violazione agli articoli 115–122 LStrI[^75d-4].[^75d-5]
-
-<sup>2bis</sup> L’ufficiale dello stato civile autentica le firme.[^75d-6]
-
-<sup>3</sup> In casi motivati la dichiarazione conformemente al capoverso 1 può essere raccolta al di fuori dei locali ufficiali.[^75d-7]
-
-[^75d-1]: Abrogata dal n. I dell’O del 7 nov. 2012, con effetto dal 1° gen. 2013 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
-[^75d-2]: Introdotto dal n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^75d-3]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^75d-4]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^75d-5]: Nuovo testo giusta il n. I dell’O del 27 mar. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
-[^75d-6]: Introdotto dal n. I dell’O del 27 mar. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
-[^75d-7]: Introdotto dal n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-
-#### Art. 75e
-
-**Esame della domanda**
-
-<sup>1</sup> L’ufficio dello stato civile effettua l’esame ai sensi dell’articolo 16.
-
-<sup>2</sup>
-
-Inoltre, esso esamina se:
-
-- a. la domanda è stata depositata nella forma richiesta;
-- b. esistono i documenti e le dichiarazioni necessari;
-- c.[^75e-1] sono soddisfatte le condizioni per la registrazione e se non sussistono impedimenti alla registrazione (art. 3, 4 e 26 LUD);
-- d.[^75e-2] i partner che non hanno la cittadinanza svizzera hanno provato la legalità del loro soggiorno in Svizzera (art. 5 cpv. 4 LUD);
-- e.[^75e-3] sussistono circostanze secondo cui la domanda manifestamente non corrisponde alla libera volontà dei partner (art. 6 cpv. 1 LUD).
-
-<sup>3</sup> L’ufficio dello stato civile può verificare nel Sistema d’informazione centrale sulla migrazione la legalità del soggiorno. In caso di dubbi, può incaricare di tale verifica l’autorità cantonale competente in materia di migrazione del luogo di domicilio o di soggiorno di uno dei due partner. Questa autorità deve informare l’ufficio senza indugio e gratuitamente.[^75e-4]
-
-[^75e-1]: Nuovo testo giusta il n. I dell’O del 7 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
-[^75e-2]: Introdotta dal n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^75e-3]: Introdotta dal n. I dell’O del 27 mar. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
-[^75e-4]: Introdotto dal n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-
-#### Art. 75f
-
-**Chiusura della procedura preliminare**[^75f-1]
-
-<sup>1</sup> L’ufficiale dello stato civile constata il risultato della procedura preliminare.
-
-<sup>2</sup> Se sono soddisfatti i requisiti secondo l’articolo 75*e* capoverso 2, l’ufficio dello stato civile comunica ai partner che l’unione domestica può essere registrata. Concorda con loro i dettagli della registrazione oppure li indirizza all’ufficio dello stato civile che hanno scelto per la registrazione.[^75f-2]
-
-<sup>3</sup> Se i requisiti non sono soddisfatti o se permangono seri dubbi, l’ufficio dello stato civile rifiuta di registrare l’unione domestica.[^75f-3]
-
-<sup>4</sup> L’ufficiale dello stato civile notifica per scritto ai partner il rifiuto di registrare l’unione domestica indicando i rimedi giuridici.
-
-<sup>5</sup> L’ufficio dello stato civile comunica l’identità dei partner che non hanno provato la legalità del loro soggiorno in Svizzera all’autorità cantonale competente in materia di migrazione del luogo di soggiorno dell’interessato.
-
-<sup>6</sup> La denuncia dei reati constatati e le misure di protezione sono rette dall’articolo 16 capoverso 7.[^75f-4]
-
-[^75f-1]: Nuovo testo giusta il n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^75f-2]: Nuovo testo giusta il n. I dell’O del 20 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3815](https://fedlex.data.admin.ch/eli/oc/2019/696)).
-[^75f-3]: Nuovo testo giusta il n. I dell’O del 27 mar. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
-[^75f-4]: Introdotto dal n. I dell’O del 27 mar. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
-
-#### Art. 75g
-
-**Momento della registrazione**
-
-L’unione domestica può essere registrata subito o al più tardi tre mesi dopo la comunicazione della decisione relativa al risultato positivo della procedura preliminare.
-
-#### Art. 75h
-
-**Collaborazione con altre autorità**[^75h-1]
-
-<sup>1</sup> Se non è manifestamente esigibile che un partner assista di persona alla procedura preliminare presso l’ufficio dello stato civile competente, l’ufficio dello stato civile del luogo di soggiorno può essere chiamato a collaborare, segnatamente per ricevere la dichiarazione di cui all’articolo 75*d* capoverso 1.
-
-<sup>2</sup> Un partner che risiede all’estero può rilasciare la dichiarazione di cui all’articolo 75*d* capoverso 1 presso una rappresentanza svizzera all’estero. In casi eccezionali motivati, con l’autorizzazione dell’ufficio dello stato civile, la dichiarazione può essere raccolta anche da un pubblico ufficiale straniero che autentica la firma.
-
-[^75h-1]: Nuovo testo giusta il n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-
-### Sezione 2: Costituzione dell’unione domestica registrata****
-
-[^chap7a-sec2-1]
-
-[^chap7a-sec2-1]: Nuovo testo giusta il n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-
-#### Art. 75i
-
-**Luogo**[^75i-1]
-
-<sup>1</sup> L’unione domestica registrata è costituita nel locale ufficiale del circondario dello stato civile scelto dai partner (art. 75*f* cpv. 2).
-
-<sup>2</sup> Il luogo in cui l’ufficiale dello stato civile riceve la dichiarazione della volontà dei partner di costituire l’unione domestica registrata può essere diverso dal locale ufficiale, se essi dimostrano che non è manifestamente esigibile che vi si rechino.
-
-<sup>3</sup> Se la procedura preliminare è stata eseguita in un altro circondario dello stato civile, i partner producono l’autorizzazione di costituire l’unione domestica.
-
-[^75i-1]: Nuovo testo giusta il n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-
-#### Art. 75k
-
-**Forma della costituzione[^75k-1]**
-
-<sup>1</sup> La dichiarazione della volontà dei partner di costituire l’unione domestica registrata è ricevuta in pubblico.[^75k-2]
-
-<sup>2</sup> L’ufficiale dello stato civile riceve la dichiarazione concordante con cui i partner esprimono la volontà di costituire un’unione domestica registrata, fa loro firmare il certificato d’unione e in seguito lo documenta.[^75k-3]
-
-<sup>3</sup> Le firme vanno autenticate.
-
-<sup>4</sup> Se sussistono circostanze secondo cui la domanda di registrazione manifestamente non corrisponde alla libera volontà dei partner, l’ufficiale dello stato civile rifiuta la registrazione e annulla l’autorizzazione della registrazione mediante una decisione scritta notificata ai partner e all’ufficiale dello stato civile che ha svolto la procedura preliminare. Denuncia i fatti alle autorità di perseguimento penale (art. 16 cpv. 7).[^75k-4]
-
-[^75k-1]: Nuovo testo giusta il n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^75k-2]: Nuovo testo giusta il n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^75k-3]: Nuovo testo giusta il n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^75k-4]: Introdotto dal n. I dell’O del 27 mar. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
-
-#### Art. 75l
-
-**Disposizioni organizzative particolari**[^75l-1]
-
-<sup>1</sup> Per motivi organizzativi, l’ufficiale dello stato civile può limitare il numero dei partecipanti. Le persone che perturbano la conclusione di un’unione domestica registrata sono allontanate dal locale.
-
-<sup>2</sup> L’unione domestica registrata non può essere costituita di domenica e nei giorni festivi generali osservati nel luogo in cui ha sede l’ufficio dello stato civile.
-
-[^75l-1]: Nuovo testo giusta il n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-
-### Sezione 3:**** Unione domestica registrata di cittadini stranieri
-
-[^chap7a-sec3-1]
-
-[^chap7a-sec3-1]: Introdotta dal n. I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5625](https://fedlex.data.admin.ch/eli/oc/2007/772)).
-
-#### Art. 75m
-
-<sup>1</sup> L’ufficiale dello stato civile competente per l’esecuzione della procedura preliminare o la registrazione dell’unione domestica si rifiuta di procedere se uno dei partner non intende manifestamente creare una comunione di vita bensì eludere le disposizioni in materia di entrata e soggiorno di stranieri (art. 6 cpv. 2 LUD).
-
-<sup>2</sup> L’ufficiale dello stato civile sente i partner separatamente. In via eccezionale i partner sono sentiti congiuntamente se ciò sembra opportuno per l’accertamento dei fatti. I partner hanno la possibilità di produrre documenti.
-
-<sup>3</sup> L’ufficiale dello stato civile richiede il fascicolo della polizia degli stranieri; può inoltre sollecitare informazioni anche ad altre autorità o a terzi.
-
-<sup>4</sup> Le autorità sono tenute a fornire senza indugio e gratuitamente le informazioni richieste.
-
-<sup>5</sup> L’audizione dei partner e le informazioni fornite oralmente, di presenza o al telefono, sono messe a verbale.
-
-<sup>6</sup>
-
-L’ufficiale dello stato civile comunica per scritto il rifiuto di eseguire la procedura preliminare o di ricevere la dichiarazione della volontà dei partner di costituire l’unione domestica registrata a:
-
-- a. i partner, con l’indicazione dei rimedi giuridici;
-- b. l’autorità di vigilanza del Cantone d’origine se uno dei partner ha la cittadinanza svizzera;
-- c. l’autorità di vigilanza dei Cantoni di domicilio dei partner.[^75m-1]
-
-<sup>7</sup> L’ufficio dello stato civile comunica all’autorità cantonale competente in materia di migrazione del luogo di soggiorno dell’interessato i fatti indicanti che l’unione domestica registrata è prevista o è stata contratta al fine di eludere le disposizioni in materia di ammissione e soggiorno di stranieri (art. 82*a* OASA[^75m-2]). Comunica inoltre il risultato di eventuali accertamenti, la sua decisione e, se del caso, il ritiro della domanda.[^75m-3]
-
-<sup>8</sup> La denuncia dei reati constatati e le misure di protezione sono rette dall’articolo 16 capoverso 7.[^75m-4]
-
-[^75m-1]: Nuovo testo giusta il n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^75m-2]: [RS 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
-[^75m-3]: Introdotto dal n. I dell’O del 4 giu. 2010 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)). Nuovo testo giusta il n. I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
-[^75m-4]: Introdotto dal n. I dell’O del 27 mar. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
+<sup>2</sup> Per il resto, sono applicabili per analogia gli articoli 72 e 75*n*.
 
 ## Capitolo 8: Sistema centrale d’informazione sulle persone****
 
@@ -2237,7 +2056,7 @@ I dati sono registrati con il set di caratteri ISO 8859-15[^80-2].
 
 L’UFSC ha in particolare i seguenti compiti:[^84-2]
 
-- a.[^84-3] emanazione d’istruzioni concernenti la documentazione dello stato civile, la preparazione e la celebrazione del matrimonio, la preparazione e la registrazione dell’unione domestica nonché la salvaguardia dei registri e dei documenti giustificativi;
+- a.[^84-3] emanazione d’istruzioni concernenti in particolare la documentazione dello stato civile, la preparazione e la celebrazione del matrimonio, la ricezione e la documentazione di dichiarazioni nonché la salvaguardia dei registri e dei documenti giustificativi;
 - b. ispezione degli uffici dello stato civile, delle autorità cantonali di vigilanza sullo stato civile e degli archivi cantonali dello stato civile;
 - c.[^84-4] ...
 
@@ -2257,7 +2076,7 @@ Il SIS è responsabile degli aspetti tecnici della gestione, dello sviluppo e de
 
 [^84-1]: Nuovo testo giusta il n. I dell’O del 26 ott. 2016, in vigore dal 1° lug. 2017 ([RU 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
 [^84-2]: Nuovo testo giusta il n. I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
-[^84-3]: Nuovo testo giusta il n. I dell’O del 28 giu. 2006, in vigore dal 1° gen. 2007 ([RU 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
+[^84-3]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
 [^84-4]: Abrogata dal n. I dell’O del 31 ott. 2018, con effetto dal 1° gen. 2019 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
 [^84-5]: Nuova espr. giusta il n. I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)). Di detta mod. è tenuto conto in tutto il testo.
 [^84-6]: Introdotto dal n. I dell’O del 26 ott. 2016, in vigore dal 1° lug. 2017 ([RU 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
@@ -2474,22 +2293,22 @@ L’ufficio dello stato civile competente in virtù del diritto cantonale deve p
 
 #### Art. 96
 
-**Celebrazione del matrimonio e registrazione dell’unione domestica da parte di membri di un esecutivo comunale[^96-1]**
+**Celebrazione del matrimonio da parte di membri di un esecutivo comunale [^96-1]**
 
 <sup>1</sup>
 
-Il diritto cantonale può prevedere che determinati membri di un esecutivo comunale siano nominati ufficiali dello stato civile straordinari con l’esclusiva competenza di celebrare matrimoni, se:[^96-2]
+Il diritto cantonale può prevedere che determinati membri di un esecutivo comunale siano nominati ufficiali dello stato civile straordinari con l’esclusiva competenza di celebrare matrimoni e ricevere le dichiarazioni di conversione dell’unione domestica registrata in matrimonio, se:[^96-2]
 
 - a. la celebrazione del matrimonio da parte di queste persone corrisponde a una tradizione che è profondamente radicata nella popolazione; e
 - b. la formazione e il perfezionamento sono garantiti.
 
-<sup>1bis</sup> Gli ufficiali dello stato civile straordinari registrano anche unioni domestiche.[^96-3]
+<sup>1bis</sup> ...[^96-3]
 
 <sup>2</sup> L’autorità di vigilanza fa rapporto all’UFSC in merito alle persone nominate nel quadro del suo pertinente obbligo (art. 85 cpv. 2).[^96-4]
 
 [^96-1]: Nuovo testo giusta il n. I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
-[^96-2]: Nuovo testo giusta il n. I dell’O del 26 ott. 2016, in vigore dal 1° lug. 2017 ([RU 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
-[^96-3]: Introdotto dal n. I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
+[^96-2]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
+[^96-3]: Introdotto dal n. I dell’O del 31 ott. 2018 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)). Abrogato dal n. I dell’O del 30 mar. 2022, con effetto dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
 [^96-4]: Nuovo testo giusta il n. I dell’O del 26 ott. 2016, in vigore dal 1° lug. 2017 ([RU 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
 
 #### Art. 97
@@ -2561,7 +2380,7 @@ I seguenti atti sono abrogati:
 <sup>2</sup> ...[^99-3]
 
 [^99-1]: [[RU 1981 34](https://fedlex.data.admin.ch/eli/oc/1981/34_34_34), [2000 2028](https://fedlex.data.admin.ch/eli/oc/2000/303)]
-[^99-2]: [[RU 1953 645](https://fedlex.data.admin.ch/eli/oc/1953/797_815_645), [1977 265](https://fedlex.data.admin.ch/eli/oc/1977/265_265_265), [1987 285](https://fedlex.data.admin.ch/eli/oc/1987/285_285_285), [1988 2030](https://fedlex.data.admin.ch/eli/oc/1988/2030_2030_2030), [1991 1594](https://fedlex.data.admin.ch/eli/oc/1991/1594_1594_1594), [1994 1384](https://fedlex.data.admin.ch/eli/oc/1994/1384_1384_1384), [1997 2006](https://fedlex.data.admin.ch/eli/oc/1997/2006_2006_2006), [1999 3028](https://fedlex.data.admin.ch/eli/oc/1999/463)[3480](https://fedlex.data.admin.ch/eli/oc/1999/490)art. 17 n. 3, [2001 3068](https://fedlex.data.admin.ch/eli/oc/2001/458), [2004 2915](https://fedlex.data.admin.ch/eli/oc/2004/362)art. 99 cpv. 1 n. 2. [RU 2005 1823](https://fedlex.data.admin.ch/eli/oc/2005/300)]
+[^99-2]: [[RU 1953 645](https://fedlex.data.admin.ch/eli/oc/1953/797_815_645); [1977 265](https://fedlex.data.admin.ch/eli/oc/1977/265_265_265); [1987 285](https://fedlex.data.admin.ch/eli/oc/1987/285_285_285); [1988 2030](https://fedlex.data.admin.ch/eli/oc/1988/2030_2030_2030); [1991 1594](https://fedlex.data.admin.ch/eli/oc/1991/1594_1594_1594); [1994 1384](https://fedlex.data.admin.ch/eli/oc/1994/1384_1384_1384); [1997 2006](https://fedlex.data.admin.ch/eli/oc/1997/2006_2006_2006); [1999 3028](https://fedlex.data.admin.ch/eli/oc/1999/463), [3480](https://fedlex.data.admin.ch/eli/oc/1999/490)art. 17 n. 3; [2001 3068](https://fedlex.data.admin.ch/eli/oc/2001/458); [2004 2915](https://fedlex.data.admin.ch/eli/oc/2004/362)art. 99 cpv. 1 n. 2. [RU 2005 1823](https://fedlex.data.admin.ch/eli/oc/2005/300)]
 [^99-3]: Le mod. possono essere consultate alla [RU 2004 2915](https://fedlex.data.admin.ch/eli/oc/2004/362).
 
 #### Art. 99a
