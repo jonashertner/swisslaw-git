@@ -3,20 +3,19 @@ canton: OW
 number: "856.211"
 title: Ausführungsbestimmungen der Zentralschweizer BVG- und Stiftungsaufsicht (ZBSA) über die berufliche Vorsorge
 language: de
-version: 2019-09-01
-valid_until: 2022-06-30
-version_adopted: 2019-06-03
+version: 2022-07-01
+version_adopted: 2022-05-23
 adopted: 2005-09-16
 in_force: 2006-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/856.211"
-pdf: "http://gdb.ow.ch/api/de/versions/1370/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1585/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen der Zentralschweizer BVG- und Stiftungsaufsicht (ZBSA) über die berufliche Vorsorge
 
-vom 16.09.2005 (Stand 01.09.2019)
+vom 16.09.2005 (Stand 01.07.2022)
 
 Der Konkordatsrat der Zentralschweizer BVG- und Stiftungsaufsicht (ZBSA),
 
@@ -196,7 +195,7 @@ beschliesst:
 
 **Jährliche Aufsichtsgebühr**
 
-<sup>1</sup> Für die jährliche Prüfung der Berichte und Rechnungen wird eine Grundgebühr von 300 Franken zuzüglich 0,2 Promille des Bruttovermögens, abgerundet auf den nächsten vollen Franken, höchstens aber von 6 300 Franken erhoben.
+<sup>1</sup> Für die jährliche Prüfung der Berichte und Rechnungen wird eine Grundgebühr von 300 Franken zuzüglich 0,2 Promille des Bruttovermögens, abgerundet auf den nächsten vollen Franken, höchstens aber von 7 300 Franken erhoben.
 
 <sup>2</sup> Sind Abklärungen notwendig, die das übliche Mass übersteigen, darf die Gebühr auf maximal den doppelten Betrag erhöht werden.
 
@@ -228,6 +227,8 @@ geändert durch:
 
 \- Nachtrag vom 17. Mai 2013, in Kraft rückwirkend seit 1. Juli 2013 (OGS 2013, 47)
 
-\- Nachtrag vom 19. Juni 2019, in Kraft seit 1. September 2019 (OGS 2019, 38)
+\- Nachtrag vom 19. Juni 2019, in Kraft seit 1. September 2019 (OGS 2019, 38),
+
+\- Nachtrag vom 23. Mai 2022, in Kraft seit 1. Juli 2022 (OGS 2022, 15)
 
 OGS 2005, 73
