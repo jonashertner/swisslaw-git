@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordinance of 4 June 2021 on Certificates to Prove COVID-19 Vaccination, COVID-19 Recovery or a COVID-19 Test Result (COVID-19 Certificates Ordinance)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: en
-version: 2022-06-27
+version: 2022-07-01
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220627/en/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220627-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220627/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220701/en/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220701-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Certificates Ordinance)
 
-of 4 June 2021 (Status as of 27 June 2022)
+of 4 June 2021 (Status as of 1 July 2022)
 
 The Swiss Federal Council,
 
@@ -456,8 +456,8 @@ In addition to the general content of all COVID-19 certificates, COVID-19 recove
 
 [^18-1]: Amended by No I of the O of 19 Jan. 2022 (COVID Recovery Certificates for Rapid Antigen Tests), in force since 24 Jan. 2022 ([AS 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)).
 [^18-2]: Inserted by No I of the O of 3 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)). Repealed by No I of the O of 16 Feb. 2022 (Expiry of COVID-19 Certificates only valid in Switzerland), with effect from 17 Feb. 2022 ([AS 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)).
-[^18-3]: Regulation (EU) 2021/953 of the European Parliament and of the Council of 14 June 2021 on a framework for the issuance, verification and acceptance of interoperable COVID-19 vaccination, test and recovery certificates (EU Digital COVID Certificate) to facilitate free movement during the COVID-19 pandemic. Last amended by OJ L 211 of 15.6.2021, p. 1.
-[^18-4]: Inserted by No I of the O of 3 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)). Amended by No I of the O of 16 Feb. 2022 (Expiry of COVID-19 Certificates only valid in Switzerland), in force since 17 Feb. 2022 ([AS 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)).
+[^18-3]: Regulation (EU) 2021/953 of the European Parliament and of the Council of 14 June 2021 on a framework for the issuance, verification and acceptance of interoperable COVID-19 vaccination, test and recovery certificates (EU Digital COVID Certificate) to facilitate free movement during the COVID-19 pandemic. Version in OJ L 211 of 15.6.2021, p. 1; amended by Regulation (EU) 2022/1034, OJ L 173 of 30.6.2022, p. 37.
+[^18-4]: Inserted by No I of the O of 3 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)). Amended by No I of the O of 10 June 2022, in force since 1 July. 2022 ([AS 2022 374](https://fedlex.data.admin.ch/eli/oc/2022/374),[382](https://fedlex.data.admin.ch/eli/oc/2022/382)).
 
 ## Section 6 COVID-19 Test Certificates
 
@@ -1007,7 +1007,7 @@ Annex 5*[^t-6]*
 
 ## List of recognised foreign certificates
 
-[^t-6]: Amended by No I of the O of 7 July 2021 ([AS 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Revised by No II of the O of 17 Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), of 19 Jan. 2022 (COVID Recovery Certificates for Rapid Antigen Tests) ([AS 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)), of 27 April 2022 (EU Compatible COVID-19 Recovery Certificates for Rapid Antigen Tests) ([AS 2022 258](https://fedlex.data.admin.ch/eli/oc/2022/258)) and of 10 June 2022, in force since 27 June 2022 ([AS 2022 374](https://fedlex.data.admin.ch/eli/oc/2022/374)).
+[^t-6]: Amended by No I of the O of 7 July 2021 ([AS 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Revised by No II of the O of 17 Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), of 19 Jan. 2022 (COVID Recovery Certificates for Rapid Antigen Tests) ([AS 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)), of 27 April 2022 (EU Compatible COVID-19 Recovery Certificates for Rapid Antigen Tests) ([AS 2022 258](https://fedlex.data.admin.ch/eli/oc/2022/258)) and of 10 June 2022, in force since 1 July 2022 ([AS 2022 374](https://fedlex.data.admin.ch/eli/oc/2022/374), [382](https://fedlex.data.admin.ch/eli/oc/2022/382)).
 
 ### 1 Recognised certificates issued by an EU member state or an EFTA state
 
@@ -1022,7 +1022,7 @@ Annex 5*[^t-6]*
 
 ### 2 Other recognised certificates
 
-[^annex5-lvlu1-lvl1-1]: Regulation (EU) 2021/953 of the European Parliament and of the Council of 14 June 2021 on a framework for the issuance, verification and acceptance of interoperable COVID-19 vaccination, test and recovery certificates (EU Digital COVID Certificate) to facilitate free movement during the COVID-19 pandemic, as amended by OJ L 211, 15.6.2021, p. 1.
+[^annex5-lvlu1-lvl1-1]: Regulation (EU) 2021/953 of the European Parliament and of the Council of 14 June 2021 on a framework for the issuance, verification and acceptance of interoperable COVID-19 vaccination, test and recovery certificates (EU Digital COVID Certificate) to facilitate free movement during the COVID-19 pandemic. Version in OJ L 211 of 15.6.2021, p. 1; amended by Regulation (EU) 2022/1034, OJ L 173 of 30.6.2022, p. 37.
 
 - 2\.1 Vaccination, recovery and test certificates that are interoperable in accordance with Regulation (EU) 2021/953 and have been issued by the following states and regions are recognised:
 
@@ -1095,7 +1095,6 @@ Annex 6*[^t-7]*
   - d. an exemption certificate under Article 1 letter a number 4 in its version of 3 November 2021[^annex6-lvlu1-4].
 
 - 4\. “Test certificate”: Access for persons with a test certificate or with an exemption certificate under Article 1 letter a number 4 in its version of 3 November 2021[^annex6-lvlu1-5].
-- [tab]
 
 [^annex6-lvlu1-1]: [AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [813](https://fedlex.data.admin.ch/eli/oc/2021/813)
 [^annex6-lvlu1-2]: [AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [813](https://fedlex.data.admin.ch/eli/oc/2021/813)

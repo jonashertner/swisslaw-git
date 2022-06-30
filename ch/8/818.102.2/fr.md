@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordonnance du 4 juin 2021 sur les certificats attestant la vaccination contre le COVID-19, la guérison du COVID-19 ou la réalisation d’un test de dépistage du COVID-19 (Ordonnance COVID-19 certificats)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: fr
-version: 2022-06-27
+version: 2022-07-01
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220627/fr/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220627-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220627/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220701-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220627/fr"
 
 (Ordonnance COVID-19 certificats)
 
-du 4 juin 2021 (Etat le 27 juin 2022)
+du 4 juin 2021 (Etat le 1<sup>er</sup> juillet 2022)
 
 Le Conseil fédéral suisse,
 
@@ -454,8 +454,8 @@ Les certificats de guérison COVID-19 contiennent, en plus du contenu général 
 
 [^18-1]: Nouvelle teneur selon le ch. I de l’O du 19 janv. 2022 (Certificat de guérison COVID-19 pour les tests rapides antigéniques), en vigueur depuis le 24 janv. 2022 ([RO 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)).
 [^18-2]: Introduits par le ch. I de l’O du 3 nov. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)). Abrogés par le ch. I de l’O du 16 fév. 2022 (Expiration des certificats dont la validité est limitée à la Suisse), avec effet au 17 fév. 2022 ([RO 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)).
-[^18-3]: Règlement (UE) 2021/953 du Parlement européen et du Conseil du 14 juin 2021 relatif à un cadre pour la délivrance, la vérification et l’acceptation de certificats COVID-19 interopérables de vaccination, de test et de rétablissement (certificat COVID numérique de l’UE) afin de faciliter la libre circulation pendant la pandémie de COVID-19, JO L 211 du 15.6.2021, p. 1
-[^18-4]: Introduit par le ch. I de l’O du 3 nov. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)). Nouvelle teneur selon le ch. I de l’O du 16 fév. 2022 (Expiration des certificats dont la validité est limitée à la Suisse), en vigueur depuis le 17 fév. 2022 ([RO 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)).
+[^18-3]: Règlement (UE) 2021/953 du Parlement européen et du Conseil du 14 juin 2021 relatif à un cadre pour la délivrance, la vérification et l’acceptation de certificats COVID-19 interopérables de vaccination, de test et de rétablissement (certificat COVID numérique de l’UE) afin de faciliter la libre circulation pendant la pandémie de COVID-19, JO L 211 du 15.6.2021, p. 1; modifié par le Règlement (UE) 2022/1034, JO L 173 du 30.6.2022, p. 37.
+[^18-4]: Introduit par le ch. I de l’O du 3 nov. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)). Nouvelle teneur selon le ch. I de l’O du 10 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 374](https://fedlex.data.admin.ch/eli/oc/2022/374), [382](https://fedlex.data.admin.ch/eli/oc/2022/382)).
 
 ## Section 6 Certificats de test COVID-19
 
@@ -1007,7 +1007,7 @@ Annexe 5*[^t-6]*
 
 ## Liste des certificats étrangers reconnus
 
-[^t-6]: Nouvelle teneur selon le ch. I de l’O du 7 juil. 2021 ([RO 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Mise à jour par le ch. II des O du 17 sept. 2021 ([RO 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), du 19 janv. 2022 (Certificat de guérison COVID-19 pour les tests rapides antigéniques) ([RO 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)), du 27 avr. 2022 (Certificats de guérison COVID-19 compatibles avec l’UE fondés sur des tests rapides antigéniques) ([RO 2022 258](https://fedlex.data.admin.ch/eli/oc/2022/258)) et du 10 juin 2022, en vigueur depuis le 27 juin 2022 ([RO 2022 374](https://fedlex.data.admin.ch/eli/oc/2022/374)).
+[^t-6]: Nouvelle teneur selon le ch. I de l’O du 7 juil. 2021 ([RO 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Mise à jour par le ch. II des O du 17 sept. 2021 ([RO 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), du 19 janv. 2022 (Certificat de guérison COVID-19 pour les tests rapides antigéniques) ([RO 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)), du 27 avr. 2022 (Certificats de guérison COVID-19 compatibles avec l’UE fondés sur des tests rapides antigéniques) ([RO 2022 258](https://fedlex.data.admin.ch/eli/oc/2022/258)) et du 10 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 374](https://fedlex.data.admin.ch/eli/oc/2022/374), [382](https://fedlex.data.admin.ch/eli/oc/2022/382)).
 
 ### 1 Certificats reconnus établis par un État membre de l’UE ou de l’AELE
 
@@ -1020,7 +1020,7 @@ Annexe 5*[^t-6]*
   - b. les vaccins ayant obtenu une autorisation sur la base de la liste des situations d’urgence de l’OMS;
   - c. les vaccins dont il peut être prouvé qu’ils ont la même composition que des vaccins autorisés en vertu des let. a ou b mais qui sont mis en circulation par un preneur de licence sous un autre nom et qui ont été entièrement administrés conformément aux prescriptions ou aux recommandations du pays dans lequel ils ont été administrés.
 
-[^annex5-lvlu1-lvl1-1]: Règlement (UE) 2021/953 du Parlement européen et du Conseil du 14 juin 2021 relatif à un cadre pour la délivrance, la vérification et l’acceptation de certificats COVID-19 interopérables de vaccination, de test et de rétablissement (certificat COVID numérique de l’UE) afin de faciliter la libre circulation pendant la pandémie de COVID-19, JO L 211 du 15.6.2021, p. 1.
+[^annex5-lvlu1-lvl1-1]: Règlement (UE) 2021/953 du Parlement européen et du Conseil du 14 juin 2021 relatif à un cadre pour la délivrance, la vérification et l’acceptation de certificats COVID-19 interopérables de vaccination, de test et de rétablissement (certificat COVID numérique de l’UE) afin de faciliter la libre circulation pendant la pandémie de COVID-19, JO L 211 du 15.6.2021, p. 1; modifié par le Règlement (UE) 2022/1034, JO L 173 du 30.6.2022, p. 37.
 
 ### 2 Autres certificats reconnus
 

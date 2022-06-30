@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Verordnung vom 4. Juni 2021 über Zertifikate zum Nachweis einer Covid-19-Impfung, einer Covid-19-Genesung oder eines Covid-19-Testergebnisses (Covid-19-Verordnung Zertifikate)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: de
-version: 2022-06-27
+version: 2022-07-01
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220627/de/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220627-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220627/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220701/de/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220701-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220627/de"
 
 (Covid-19-Verordnung Zertifikate)
 
-vom 4. Juni 2021 (Stand am 27. Juni 2022)
+vom 4. Juni 2021 (Stand am 1. Juli 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -454,8 +454,8 @@ Covid-19-Genesungszertifikate enthalten neben dem allgemeinen Inhalt aller Covid
 
 [^18-1]: Fassung gemäss Ziff. I der V vom 19. Jan. 2022 (Covid-Genesungszertifikate für Antigen-Schnelltests), in Kraft seit 24. Jan. 2022 ([AS 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)).
 [^18-2]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)). Aufgehoben durch Ziff. I der V vom 16. Febr. 2022 (Auslaufen der nur in der Schweiz gültigen Covid-19-Zertifikate), mit Wirkung seit 17. Febr. 2022 ([AS 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)).
-[^18-3]: Verordnung (EU) 2021/953 des Europäischen Parlaments und des Rates vom 14. Juni 2021 über einen Rahmen für die Ausstellung, Überprüfung und Anerkennung interoperabler Zertifikate zur Bescheinigung von COVID-19-Impfungen und -Tests sowie der Genesung von einer COVID-19-Infektion (digitales COVID-Zertifikat der EU) mit der Zielsetzung der Erleichterung der Freizügigkeit während der COVID-19-Pandemie, Fassung gemäss ABl. L 211 vom 15.6.2021, S. 1.
-[^18-4]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)). Fassung gemäss Ziff. I der V vom 16. Febr. 2022 (Auslaufen der nur in der Schweiz gültigen Covid-19-Zertifikate), in Kraft seit 17. Febr. 2022 ([AS 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)).
+[^18-3]: Verordnung (EU) 2021/953 des Europäischen Parlaments und des Rates vom 14. Juni 2021 über einen Rahmen für die Ausstellung, Überprüfung und Anerkennung interoperabler Zertifikate zur Bescheinigung von COVID-19-Impfungen und -Tests sowie der Genesung von einer COVID-19-Infektion (digitales COVID-Zertifikat der EU) mit der Zielsetzung der Erleichterung der Freizügigkeit während der COVID-19-Pandemie, Fassung gemäss ABl. L 211 vom 15.6.2021, S. 1; geändert durch Verordnung (EU) 2022/1034, ABl. L 173 vom 30.6.2022, S. 37.
+[^18-4]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)). Fassung gemäss Ziff. I der V vom 10. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 374](https://fedlex.data.admin.ch/eli/oc/2022/374), [382](https://fedlex.data.admin.ch/eli/oc/2022/382)).
 
 ## 6. Abschnitt: Covid-19-Testzertifikate
 
@@ -1005,7 +1005,7 @@ Anhang 5*[^t-6]*
 
 ## Liste der anerkannten ausländischen Zertifikate
 
-[^t-6]: Fassung gemäss Ziff. I der V vom 7. Juli 2021 ([AS 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Bereinigt gemäss Ziff. II der V vom 17. Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), vom 19. Jan. 2022 (Covid-Genesungsertifikate für Antigen-Schnelltests) ([AS 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)), vom 27. April 2022 (EU-kompatible Covid-19-Genesungszertifikate für Antigen-Schnelltests) ([AS 2022 258](https://fedlex.data.admin.ch/eli/oc/2022/258)) und vom 10. Juni 2022, in Kraft seit 27. Juni 2022 ([AS 2022 374](https://fedlex.data.admin.ch/eli/oc/2022/374)).
+[^t-6]: Fassung gemäss Ziff. I der V vom 7. Juli 2021 ([AS 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Bereinigt gemäss Ziff. II der V vom 17. Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), vom 19. Jan. 2022 (Covid-Genesungsertifikate für Antigen-Schnelltests) ([AS 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)), vom 27. April 2022 (EU-kompatible Covid-19-Genesungszertifikate für Antigen-Schnelltests) ([AS 2022 258](https://fedlex.data.admin.ch/eli/oc/2022/258)) und vom 10. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 374](https://fedlex.data.admin.ch/eli/oc/2022/374), [382](https://fedlex.data.admin.ch/eli/oc/2022/382)).
 
 ### 1 Anerkannte Zertifikate, die von einem Mitgliedstaat der EU oder der EFTA ausgestellt wurden
 
@@ -1018,7 +1018,7 @@ Anhang 5*[^t-6]*
   - b. gemäss dem «WHO Emergency Use Listing» zugelassen ist; oder
   - c. nachweislich dieselbe Zusammensetzung wie ein Impfstoff aufweist, der nach Buchstabe a oder b zugelassen ist, jedoch von einem Lizenznehmer unter anderem Namen in Verkehr gebracht wird, und der gemäss den Vorgaben oder Empfehlungen des Staates, in dem die Impfung durchgeführt wurde, vollständig verimpft wurde.
 
-[^annex5-lvlu1-lvl1-1]: Verordnung (EU) 2021/953 des Europäischen Parlaments und des Rates vom 14. Juni 2021 über einen Rahmen für die Ausstellung, Überprüfung und Anerkennung interoperabler Zertifikate zur Bescheinigung von COVID-19-Impfungen und -Tests sowie der Genesung von einer COVID-19-Infektion (digitales COVID-Zertifikat der EU) mit der Zielsetzung der Erleichterung der Freizügigkeit während der COVID-19-Pandemie, Fassung gemäss ABl. L 211 vom 15.6.2021, S. 1.
+[^annex5-lvlu1-lvl1-1]: Verordnung (EU) 2021/953 des Europäischen Parlaments und des Rates vom 14. Juni 2021 über einen Rahmen für die Ausstellung, Überprüfung und Anerkennung interoperabler Zertifikate zur Bescheinigung von COVID-19-Impfungen und -Tests sowie der Genesung von einer COVID-19-Infektion (digitales COVID-Zertifikat der EU) mit der Zielsetzung der Erleichterung der Freizügigkeit während der COVID-19-Pandemie, Fassung gemäss ABl. L 211 vom 15.6.2021, S. 1; geändert durch Verordnung (EU) 2022/1034, ABl. L 173 vom 30.6.2022, S. 37.
 
 ### 2 Weitere anerkannte Zertifikate
 

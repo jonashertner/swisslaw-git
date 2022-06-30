@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordinanza del 4 giugno 2021 concernente i certificati attestanti l’avvenuta vaccinazione anti-COVID-19, la guarigione dalla COVID-19 o il risultato di un test COVID-19 (Ordinanza sui certificati COVID-19)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: it
-version: 2022-06-27
+version: 2022-07-01
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220627/it/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220627-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220627/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220701/it/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220701-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220627/it"
 
 (Ordinanza sui certificati COVID-19)
 
-del 4 giugno 2021 (Stato 27 giugno 2022) (Stato 27 giugno 2022)
+del 4 giugno 2021 (Stato 1° luglio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -451,12 +451,12 @@ Oltre al contenuto generale di tutti i certificati COVID-19, i certificati di gu
 
 <sup>3 e 4</sup> ...[^18-2]
 
-<sup>5</sup> I certificati di guarigione dalla COVID 19 di cui all’articolo 16 capoverso 1 contengono una data di scadenza compatibile con i requisiti del regolamento (UE) 2021/953[^18-3]. Possono essere validi oltre la data iscritta secondo l’allegato 3 numero 1.2 lettera a.[^18-4]
+<sup>5</sup> I certificati di guarigione dalla COVID-19 di cui all’articolo 16 capoverso 1 contengono una data di scadenza compatibile con i requisiti del regolamento (UE) 2021/953[^18-3]. Possono essere validi oltre la data iscritta secondo l’allegato 3 numero 1.2 lettera a.[^18-4]
 
 [^18-1]: Nuovo testo giusta il n. I dell’O del 19 gen. 2022 (Certificati di guarigione dalla COVID-19 per i test antigenici rapidi), in vigore dal 24 gen. 2022 ([RU 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)).
 [^18-2]: Introdotti dal n. I dell’O del 3 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)). Abrogati dal n. I dell’O del 16 feb. 2022 (Scadenza dei certificati COVID-19 validi solo in Svizzera), con effetto dal 17 feb. 2022 ([RU 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)).
-[^18-3]: Regolamento (UE) 2021/953 del Parlamento europeo e del Consiglio, del 14 giugno 2021, su un quadro per il rilascio, la verifica e l’accettazione di certificati interoperabili di vaccinazione, di test e di guarigione in relazione alla COVID-19 (certificato COVID digitale dell’UE) per agevolare la libera circolazione delle persone durante la pandemia di COVID-19, versione GU L 211 del 15.6.2021, pag. 1.
-[^18-4]: Introdotto dal n. I dell’O del 3 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)). Nuovo testo giusta n. I dell’O del 16 feb. 2022 (Scadenza dei certificati COVID-19 validi solo in Svizzera), in vigore dal 17 feb. 2022 ([RU 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)).
+[^18-3]: Regolamento (UE) 2021/953 del Parlamento europeo e del Consiglio, del 14 giugno 2021, su un quadro per il rilascio, la verifica e l’accettazione di certificati interoperabili di vaccinazione, di test e di guarigione in relazione alla COVID-19 (certificato COVID digitale dell’UE) per agevolare la libera circolazione delle persone durante la pandemia di COVID-19, versione GU L 211 del 15.6.2021, pag. 1; modificato da ultimo dal regolamento (UE) 2022/1034, GU L 173 del 30.06.2022, pag. 37.
+[^18-4]: Introdotto dal n. I dell’O del 3 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)). Nuovo testo giusta il n. I dell’O del 10 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 374](https://fedlex.data.admin.ch/eli/oc/2022/374), [382](https://fedlex.data.admin.ch/eli/oc/2022/382)).
 
 ## Sezione 6: Certificati di test COVID-19
 
@@ -1007,7 +1007,7 @@ Allegato 5*[^t-6]*
 
 ## Elenco dei certificati esteri riconosciuti
 
-[^t-6]: Nuovo testo giusta il n. I dell’O del 7 lug. 2021 ([RU 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Aggiornato dai n. II delle O del 17 set. 2021 ([RU 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), del 19 gen. 2022 (Certificati di guarigione dalla COVID-19 per i test antigenici rapidi) ([RU 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)), del 27 apr. 2022 (Certificati di guarigione dalla COVID-19 compatibili con l’UE basati su test antigenici rapidi), in vigore dal 2 mag. 2022 ([RU 2022 258](https://fedlex.data.admin.ch/eli/oc/2022/258)) e del 10 giu. 2022, in vigore dal 27 giu. 2022 ([RU 2022 374](https://fedlex.data.admin.ch/eli/oc/2022/374)).
+[^t-6]: Nuovo testo giusta il n. I dell’O del 7 lug. 2021 ([RU 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Aggiornato dai n. II delle O del 17 set. 2021 ([RU 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), del 19 gen. 2022 (Certificati di guarigione dalla COVID-19 per i test antigenici rapidi) ([RU 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)), del 27 apr. 2022 (Certificati di guarigione dalla COVID-19 compatibili con l’UE basati su test antigenici rapidi), in vigore dal 2 mag. 2022 ([RU 2022 258](https://fedlex.data.admin.ch/eli/oc/2022/258)) e del 10 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 374](https://fedlex.data.admin.ch/eli/oc/2022/374), [382](https://fedlex.data.admin.ch/eli/oc/2022/382)).
 
 ### 1 Certificati riconosciuti emessi da uno Stato membro dell’UE o dell’AELS
 
@@ -1020,7 +1020,7 @@ Allegato 5*[^t-6]*
   - b. è autorizzato conformemente all’elenco per l’uso di emergenza dell’OMS; o
   - c. presenta comprovatamente la stessa composizione di un vaccino autorizzato secondo la lettera a o b, ma è immesso in commercio da un licenziatario con un altro nome ed è stato somministrato completamente secondo le prescrizioni o le raccomandazioni dello Stato in cui è stata effettuata la vaccinazione.
 
-[^annex5-lvlu1-lvl1-1]: Regolamento (UE) 2021/953 del Parlamento europeo e del Consiglio, del 14 giugno 2021, su un quadro per il rilascio, la verifica e l’accettazione di certificati interoperabili di vaccinazione, di test e di guarigione in relazione alla COVID-19 (certificato COVID digitale dell’UE) per agevolare la libera circolazione delle persone durante la pandemia di COVID-19, versione della GU L 211 del 15.6.2021, pag. 1.
+[^annex5-lvlu1-lvl1-1]: Regolamento (UE) 2021/953 del Parlamento europeo e del Consiglio, del 14 giugno 2021, su un quadro per il rilascio, la verifica e l’accettazione di certificati interoperabili di vaccinazione, di test e di guarigione in relazione alla COVID-19 (certificato COVID digitale dell’UE) per agevolare la libera circolazione delle persone durante la pandemia di COVID-19, versione della GU L 211 del 15.6.2021, pag. 1; modificato da ultimo dal regolamento (UE) 2022/1034, GU L 173 del 30.06.2022, pag. 37.
 
 ### 2 Altri certificati esteri riconosciuti
 
