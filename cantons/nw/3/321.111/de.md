@@ -4,425 +4,258 @@ number: "321.111"
 title: Reglement über die Benutzung der Kantonsbibliothek
 short: Bibliotheksreglement
 language: de
-version: 1996-08-01
-corrected: 2021-11-02
-version_adopted: 1996-07-10
+version: 2022-07-01
+version_adopted: 2022-06-24
 adopted: 2022-06-24
 in_force: 2022-07-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/321.111"
-pdf: "https://gesetze.nw.ch/api/de/versions/451/pdf_file"
-text: pdf
+pdf: "https://gesetze.nw.ch/api/de/versions/1046/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über die Benutzung der Kantonsbibliothek
 
-vom 10. Juli 1996[^t-1]
+(Bibliotheksreglement)
 
-Die Bibliothekskommission,
+vom 24.06.2022 (Stand 01.07.2022)
 
-in Ausführung von § 16 Absatz 2 der Verordnung vom 21. März 1970 über die Kantonsbibliothek[^t-2],
+Die Bildungsdirektion von Nidwalden,
+
+gestützt auf Art. 11 Abs. 1 und Art. 14 des Gesetzes vom 4. Februar 2004 über die Förderung des kulturellen Lebens (Kulturförderungsgesetz, KFG)[^ingress-1],
 
 beschliesst:
 
-[^t-1]: A 1996, 1519
-[^t-2]: A 1970, 379, 857 (NG 324.11)
+[^ingress-1]: NG 324.11
 
-### I. ZULASSUNG UND AUSSCHLUSS
+## 1 Allgemeine Bestimmungen
 
 #### § 1
 
-**Benutzerkreis**
+**Zugangsberechtigung**
 
-Die Kantonsbibliothek dient in erster Linie den Bewohnern des Kantons.
+<sup>1</sup> Die Kantonsbibliothek ist öffentlich zugänglich und dient in erster Linie den Einwohnerinnen und Einwohnern des Kantons Nidwalden.
 
 #### § 2
 
-**Einschreibung**
+**Öffnungszeiten**
 
-### 1. allgemein
+<sup>1</sup> Die Öffnungszeiten sind beim Eingang der Kantonsbibliothek und auf der Website ersichtlich.
 
-<sup>1</sup> Wer die Kantonsbibliothek benutzen will, hat sich persönlich unter Vorlage eines amtlichen Ausweises mit gültiger Adresse bei der Ausleihe einzuschreiben.
+<sup>2</sup> Ausserordentliche Öffnungszeiten sind rechtzeitig bekanntzugeben.
 
-<sup>2</sup> Für die Zulassung Minderjähriger ist das schriftliche Einverständnis der Eltern beziehungsweise des gesetzlichen Vertreters notwendig.
-
-<sup>3</sup> Von Personen ohne festen Wohnsitz im Kanton kann für die Zulassung eine Kaution verlangt werden.
-
-<sup>4</sup> Adressänderungen müssen vom Benutzer unverzüglich schriftlich der Kantonsbibliothek mitgeteilt werden.
-
-<sup>5</sup> Die Einschreibegebühr richtet sich nach dem im Anhang festgesetzten Ansatz.
+<sup>3</sup> Es besteht kein Anspruch, dass alle Dienstleistungen während der gesamten Öffnungszeit angeboten werden.
 
 #### § 3
 
-**2. Wirkung**
+**Bibliotheksausweis 1. Berechtigung**
 
-Mit der Einschreibung werden das Reglement über die Benutzung der Kantonsbibliothek sowie die Weisungen des Bibliothekspersonals als verbindlich anerkannt.
+<sup>1</sup> Der Bibliotheksausweis berechtigt zur Benutzung und Ausleihe von analogen sowie digitalen Medien.
 
-**1**
-
-1.8.2004 - 38
+<sup>2</sup> Der Bibliotheksausweis ist persönlich und nicht übertragbar. Die Benutzerinnen und Benutzer verpflichten sich mit der Unterschrift auf dem Bibliotheksausweis, das Bibliotheksreglement zu beachten.
 
 #### § 4
 
-**3. Ausweis**
+**2. Ausstellung, Verlust**
 
-<sup>1</sup> Die Benutzungsberechtigung beginnt mit der Aushändigung des Benutzerausweises; er ist persönlich und nicht übertragbar.
+<sup>1</sup> Die Einschreibung für einen Bibliotheksausweis erfolgt vor Ort oder online.
 
-<sup>2</sup> Der Benutzerausweis ist zeitlich nicht beschränkt. Die Kantonsbibliothek kann die Erneuerung von Ausweisen verlangen.
+<sup>2</sup> Das Bibliothekspersonal stellt den Bibliotheksausweis gegen eine Gebühr aus.
 
-<sup>3</sup> Der Verlust des Benutzerausweises ist der Kantonsbibliothek sofort zu melden. Ein Ersatzausweis wird gegen Gebühr ausgehändigt.
+<sup>3</sup> Die Benutzerinnen und Benutzer haben den Verlust des Bibliotheksausweises sowie Adress- und Namensänderungen mitzuteilen.
 
 #### § 5
 
-**Wegweisung, Ausschluss**
+**Zutritt**
 
-<sup>1</sup> Personen, die sich nicht zum Zwecke der Benutzung im Sinne dieses Reglementes in der Kantonsbibliothek aufhalten, sind vom Bibliothekspersonal wegzuweisen.
+<sup>1</sup> Die Benutzerinnen und Benutzer haben zu den Sammlungsbeständen, die im Freihandbereich aufgestellt sind, freien Zutritt.
 
-<sup>2</sup> Wer den Bibliotheksbetrieb behindert, wiederholt das Benutzungsreglement oder die Hausordnung missachtet, Anordnungen des Bibliothekspersonal nicht befolgt oder andere Personen stört, kann durch die Bibliotheksleitung zeitlich befristet ganz oder teilweise von der Bibliotheksbenutzung ausgeschlossen werden.
+<sup>2</sup> Der Zutritt zu den Magazinbeständen der Bibliothek ist nicht gestattet.
 
-<sup>3</sup> Personen, gegen die mehr als zweimal ein befristeter Ausschluss verfügt werden musste, können unbefristet von der Benutzung ausgeschlossen werden.
-
-<sup>4</sup> Ausschluss oder Benutzungsbeschränkung können auch bei Diebstahl sowie bei Schädigung der Bibliotheksbestände oder der Bibliothekseinrichtungen verfügt werden.
-
-### II. BIBLIOTHEKSBENUTZUNG
+## 2 Ausleihe
 
 #### § 6
 
-**Arten**
+**Medien**
 
-<sup>1</sup> Die Kantonsbibliothek stellt ihre Dokumente zur Benutzung im Lesesaal, zur Ausleihe und für Reproduktionen zur Verfügung; sie entscheidet über die Art der Benutzung.
+<sup>1</sup> Personen mit einem gültigen Bibliotheksausweis können analoge und digitale Medien der Kantonsbibliothek ausleihen.
 
-<sup>2</sup> Die Kantonsbibliothek behält sich bei besonders wertvollen oder schwer ersetzbaren Sammlungsgegenständen eine besondere Bewilligung durch die Bibliotheksleitung vor. Die Bibliothek kann Aufzeichnungen über die Benutzung solcher Sammlungsgegenstände aufbewahren.
+<sup>2</sup> Die Bibliotheksleitung legt die Höchstzahl gleichzeitig auszuleihender Medien je Person fest.
+
+<sup>3</sup> Benutzerinnen und Benutzer können Medien reservieren.
 
 #### § 7
 
-**Lesesaal**
+**Magazinbestände**
 
-<sup>1</sup> Der Lesesaal und die dort aufgestellten Präsenzbestände stehen zur freien Benutzung zur Verfügung. Präsenzbestände können nicht nach Hause ausgeliehen werden; ausnahmsweise kann eine Ausleihe während eines öffentlichen Ruhetages bewilligt werden.
-
-<sup>2</sup> Sammlungsgüter, die nur im Lesesaal benutzt werden dürfen, wie Werke, die über hundert Jahre alt sind, sowie Zeitungen, Zeitschriften, Bücher mit wertvollen Illustrationen, Loseblattsammlungen, Bestände von Spezialsammlungen usw. sind bei der Ausleihe zu bestellen.
-
-<sup>3</sup> Präsenzbestände sind nach erfolgter Benutzung wieder in die Regale zurückzustellen.
+<sup>1</sup> Magazinbestände, die nicht zum frei zugänglichen Bestand gehören, müssen für die Benutzung bestellt werden.
 
 #### § 8
 
-**Studienplätze**
+**Rückgabe**
 
-<sup>1</sup> Die in beschränkter Anzahl vorhandenen Studienplätze werden durch die Bibliotheksleitung an wissenschaftlich arbeitende Bibliotheksbenutzer zugeteilt.
+<sup>1</sup> Die Bibliotheksleitung legt das Rückgabedatum beziehungsweise die Ausleihfrist fest.
 
-<sup>2</sup> Die wissenschaftlichen Handapparate dürfen auf dem Studienplatz liegen gelassen werden, sofern nicht ein Benutzungsunterbruch von fünf oder mehr Arbeitstagen eintritt.
+<sup>2</sup> Ausgeliehene Medien sind bis zum Rückgabedatum zurückzubringen.
 
 #### § 9
 
-**Zutritt**
+**Mahnung**
 
-<sup>1</sup> Jeder Benutzungsberechtigte hat zu den Sammlungsbeständen, die in der Freihandabteilung aufgestellt sind, freien Zutritt.
+<sup>1</sup> Das Bibliothekspersonal stellt sieben Tage nach Ablauf der Ausleihfrist eine erste Mahnung aus. Sie stellt zehn Tage nach der ersten Mahnung eine zweite Mahnung und zehn Tage nach der zweiten Mahnung eine dritte, letzte Mahnung aus.
 
-<sup>2</sup> Der Zutritt zu den Magazinen der Bibliothek ist nicht gestattet.
+<sup>2</sup> Nach Ablauf der dritten Mahnfrist wird die Ersatzanschaffung des Mediums in Rechnung gestellt.
+
+## 3 Weitere Dienstleistungen
 
 #### § 10
 
-**Bestellung**
+**Fernleihe**
 
-<sup>1</sup> Dokumente, die nicht zum frei zugänglichen Bestand gehören, müssen für die Benutzung bestellt werden. Bücher aus dem frei zugänglichen Bestand sind vom Benutzer selbst zu holen.
+<sup>1</sup> Das Bibliothekspersonal vermittelt Medien und Kopien aus anderen Bibliotheken, sofern sie im eigenen Bestand nicht vorhanden sind und eine Vermittlung möglich ist.
 
-<sup>2</sup> Ausgeliehene Werke können zur Benutzung vorbestellt werden.
+<sup>2</sup> Leihfristen und Nutzungsbedingungen richten sich nach den Bestimmungen der Bibliothek, aus der das Medium stammt.
 
-<sup>3</sup> Bestellte Bücher werden während fünf Arbeitstagen zum Abholen bereitgehalten.
-
-**3**
-
-1.8.2004 - 38
+<sup>3</sup> Die Fernleihe ist kostenpflichtig.
 
 #### § 11
 
-**Ausleihe**
+**Kopien, Scans**
 
-### 1. allgemein
-
-<sup>1</sup> Sammlungsgegenstände, die keiner Ausleihbeschränkung unterliegen, können nach Hause entliehen oder durch Vermittlung einer Bibliothek entliehen werden.
-
-<sup>2</sup> Ausleihen an nicht anwesende Personen sind nur unter Vorweisung von deren Benutzersausweisen möglich.
-
-<sup>3</sup> Bei Ausleihen an Personen ohne feste Wohnadresse im Kanton sowie für besonders teure Werke kann die Bibliothek eine Kaution bis zur Höhe des Wiederbeschaffungswertes verlangen.
-
-<sup>4</sup> Die Weitergabe der entliehenen Dokumente an Drittpersonen ist untersagt.
+<sup>1</sup> Im Rahmen der geltenden Urheberrechtsgesetzgebung dürfen aus den Beständen der Kantonsbibliothek Kopien und Scans gegen Gebühr angefertigt werden.
 
 #### § 12
 
-**2. Frist**
+**Arbeits- und Leseplätze**
 
-Die Ausleihfrist beträgt einen Monat; sie kann stillschweigend bis auf höchstens drei Monate verlängert werden, sofern kein anderer Bibliotheksbenutzer das Leihgut vorbestellt hat. Während der Verlängerungszeit kann die Bibliothek ausgeliehene Bestände jederzeit zurückrufen.
+<sup>1</sup> In der Kantonsbibliothek stehen Arbeits- und Leseplätze zur Verfügung.
+
+## 4 Gebühren
 
 #### § 13
 
-**3. Rückgabe**
+**Unentgeltlichkeit**
 
-<sup>1</sup> Nach Ablauf der Ausleih- beziehungsweise der Verlängerungsfrist ist der Entleiher verpflichtet, ausgeliehene Werke ohne Aufforderung zurückzubringen. Die Ausleihe kann nur unter Vorlage des Leihgegenstandes erneuert werden.
-
-<sup>2</sup> Ist der Entleiher am Ende einer Ausleihfrist abwesend, müssen die entsprechenden Dokumente vorzeitig zurückgebracht werden, oder die fristgerechte Rückgabe muss anderweitig sichergestellt werden.
-
-<sup>3</sup> Die Rückgabe kann auch über die Post erfolgen, wenn eine dem Wert der Sendung entsprechende Versicherung gewährleistet ist; für verspäteten Posteingang, Beschädigung oder Verlust haftet der Benutzer.
-
-<sup>4</sup> Als Rückgabedatum gilt der Tag des Eintreffens des ausgeliehenen Werkes in der Bibliothek.
-
-<sup>5</sup> Nach Ablauf der Leihfrist wird gemahnt; die Gebührenansätze richten sich nach dem im Anhang enthaltenen Tarif.
+<sup>1</sup> Die Benutzung und Ausleihe der bibliothekseigenen Bestände sind unentgeltlich.
 
 #### § 14
 
-**4. Postversand**
+**Gebühren 1. Erhebung**
 
-<sup>1</sup> Innerhalb des Kantons erfolgt keine Zustellung von Leihgütern über die Post an Bibliotheksbenutzer.
+<sup>1</sup> Für besondere Aufwendungen, namentlich Fernleihe, Beratung, Mahnungen oder Wiederbeschaffung nicht zurückgebrachter Medien, werden Gebühren erhoben.
 
-<sup>2</sup> Ausserhalb des Kantons erfolgt der Versand nur an Bibliotheken.
+<sup>2</sup> Auf bibliothekseigenen Geräten hergestellte Kopien und andere Reproduktionen sind gebührenpflichtig.
 
 #### § 15
 
-**5. Verbuchung**
+**2. Höhe**
 
-Für die Ausleihverbuchung muss der Benutzerausweis vorgewiesen werden. Bis zur Rückbuchung gilt der Sammlungsgegenstand als ausgeliehen. Die Bibliothek bescheinigt die Rückgabe.
+<sup>1</sup> Die Gebühren richten sich nach dem im Anhang 1 enthaltenen Tarif.
+
+<sup>2</sup> Gebühren für Amtshandlungen oder Dienstleistungen, die nicht im Tarif aufgeführt sind, bemessen sich nach Zeitaufwand.
+
+## 5 Weitere Bestimmungen
 
 #### § 16
 
-**6. Rückruf, Mahnung, Ersatz von Verlusten**
+**Verhaltensregeln**
 
-<sup>1</sup> Der Rückruf eines ausgeliehenen Werkes erfolgt nach Ablauf der Leihfrist von einem Monat, wenn das betreffende Werk von einem andern Bibliotheksbenutzer vorbestellt ist.
+<sup>1</sup> Die Benutzerinnen und Benutzer nehmen aufeinander Rücksicht. Sie stören weder andere Personen noch den Bibliotheksbetrieb.
 
-<sup>2</sup> Nach Ablauf von drei Monaten Ausleihe erfolgt eine gebührenfreie erste Mahnung.
+<sup>2</sup> Die Bibliotheksleitung trifft die Anordnungen für einen reibungslosen Betriebsablauf sowie zum Schutz des Sammelgutes und der Bibliotheksräume mit ihren Einrichtungen. Das Bibliothekspersonal sorgt für die Durchsetzung dieser Anordnungen.
 
-<sup>3</sup> Nach erfolglosem Rückruf beziehungsweise erfolgloser erster Mahnung erfolgt nach zehn Tagen die gebührenpflichtige zweite Mahnung.
+<sup>3</sup> Tiere sind in der Kantonsbibliothek verboten.
 
-<sup>4</sup> Nach erfolgloser zweiter Mahnung erfolgt nach zehn Tagen die eingeschriebene gebührenpflichtige dritte Mahnung, in der die Wiederbeschaffung des ausgeliehenen Werkes auf Kosten des Benutzers angekündigt wird. Gleichzeitig tritt eine Benutzungssperre bis zur Erfüllung der Forderung der Bibliothek in Kraft. Die Bibliothek behält sich weitere rechtliche Schritte vor.
-
-<sup>5</sup> Nach Ablauf der in Rückrufen beziehungsweise Mahnungen gesetzten Frist wird die Gebühr für die folgende Mahnung fällig.
+<sup>4</sup> Taschen und Mappen sind dem Bibliothekspersonal auf Verlangen offen vorzuweisen.
 
 #### § 17
 
-**Fernleihe**
+**Umgang mit Bibliothekseigentum**
 
-<sup>1</sup> Für berufliche und wissenschaftliche Zwecke vermittelt die Kantonsbibliothek bei ihr nicht vorhandene und in keiner andern Bibliothek in Stans nachgewiesene Literatur aus andern Bibliotheken.
+<sup>1</sup> Wer Medien und Archivalien der Kantonsbibliothek nutzt, ist für deren sorgfältige Behandlung verantwortlich. Markierungen, Anmerkungen, Veränderungen und dergleichen sind untersagt.
 
-<sup>2</sup> Leihfrist und Benutzungsbeschränkungen richten sich nach den Bestimmungen der ausleihenden Bibliothek.
-
-<sup>3</sup> Aus der Vermittlung entstehende Kosten trägt der Besteller und zwar auch dann, wenn er bestellte und richtig gelieferte Sendungen trotz Aufforderung nicht abholt.
-
-**5**
-
-1.8.2004 - 38
+<sup>2</sup> Allfällige Mängel und Schäden sind dem Bibliothekspersonal umgehend zu melden. Andernfalls wird angenommen, dass die Medien bei der Ausleihe in einwandfreiem Zustand ausgehändigt wurden.
 
 #### § 18
 
-**Reproduktionen**
+**Beschädigung, Verlust**
 
-<sup>1</sup> Die Kopiereinrichtungen der Kantonsbibliothek stehen den Bibliotheksbenutzern für das Kopieren bibliothekseigener Vorlagen zur Verfügung; die Gebühren richten sich nach dem im Anhang enthaltenen Tarif.
+<sup>1</sup> Die Benutzerinnen und Benutzer haften:
 
-<sup>2</sup> Aus bestimmten Beständen, aus alten oder wertvollen Büchern sowie aus gebundenen Zeitungen und von grafischen Blättern dürfen die Benutzer nicht selbst Kopien anfertigen; die Bibliothek entscheidet, ob sie im Auftrag gegen Verrechnung der Gebühren und Kosten einzelne Kopien anfertigt.
+- 1\. für sämtliche Schäden an den ausgeliehenen Medien, die nicht auf eine gewöhnliche Abnutzung zurückzuführen sind;
+- 2\. für abhanden gekommene Medien.
 
-<sup>3</sup> Von Sammlungsgegenständen, die auch in Mikroform vorhanden sind, dürfen Kopien nur ab Mikroform hergestellt werden.
-
-<sup>4</sup> Originaldokumente der Kantonsbibliothek dürfen nur mit Bewilligung der Bibliotheksleitung reproduziert und nur mit Quellenangabe veröffentlicht werden; im Einzelfall kann eine Kopie- oder Reproduktionssperre ohne Nennung der Gründe verfügt werden.
-
-<sup>5</sup> Für die Einhaltung urheberrechtlicher Bestimmungen ist der Benutzer verantwortlich; allfällige Kosten sind der Bibliothek zu ersetzen.
+<sup>2</sup> Für Verluste oder Schäden stellt die Kantonsbibliothek den Benutzerinnen und Benutzern die Kosten für die Ersatzbeschaffung oder die Reparatur und die hieraus entstehenden Bearbeitungsgebühren in Rechnung.
 
 #### § 19
 
-**Mediothek**
+**Belegexemplare**
 
-<sup>1</sup> Die in der Mediothek gesammelten Dokumente können nur für wissenschaftliche Zwecke in der Bibliothek abgespielt werden.
-
-<sup>2</sup> Eine Ausleihe von Dokumenten der Mediothek ist nicht gestattet.
-
-### III. ALLGEMEINE BESTIMMUNGEN
+<sup>1</sup> Personen, die eine Publikation erstellen und hierfür die Sammelbestände der Kantonsbibliothek benutzen, haben der Kantonsbibliothek unentgeltlich ein Belegexemplar abzugeben.
 
 #### § 20
 
-**Bestand**
+**Haftung der Kantonsbibliothek**
 
-Die Kantonsbibliothek ist nicht verpflichtet bestimmte Werke anzuschaffen oder auswärts auszuleihen.
+<sup>1</sup> Die Haftung der Kantonsbibliothek wird im rechtlich zulässigen Rahmen ausgeschlossen. Insbesondere wird jede Haftung ausgeschlossen für:
+
+- 1\. den Inhalt der angebotenen Medien;
+- 2\. Schäden durch ausgeliehene Medien;
+- 3\. Schäden oder Verlust von Eigentum der Benutzerinnen und Benutzer, die durch die Nutzung der Infrastruktur entstehen oder von persönlichen Gegenständen, die in der Kantonsbibliothek aufbewahrt werden;
+- 4\. Schäden, die aus dem Verlust oder Missbrauch des Bibliotheksausweises entstehen;
+- 5\. Schäden durch Missachtung des Urheberrechts durch die Benutzerinnen und Benutzer.
 
 #### § 21
 
-**Öffnungszeiten**
+**Urheberrecht**
 
-<sup>1</sup> Die Öffnungszeiten sind am Eingang zur Kantonsbibliothek angeschlagen.
+<sup>1</sup> Es gelten die Bestimmungen des Urheberrechts[^21-1].
 
-<sup>2</sup> Änderungen der Öffnungszeiten sind im Amtsblatt bekannt zu machen.
+<sup>2</sup> Die Kantonsbibliothek übernimmt keine Urheberrechtsabklärungen auf Bestände, die sich in ihrer Sammlung befinden.
 
-<sup>3</sup> Ausserordentliche Schliessungsdaten werden rechtzeitig durch Anschlag bekanntgemacht.
+[^21-1]: SR 231.1
 
 #### § 22
 
-**Hausordnung**
-
-<sup>1</sup> Die Bibliotheksleitung trifft die Anordnungen für einen reibungslosen Betriebsablauf sowie zum Schutz des Sammelgutes und der Bibliotheksräume mit ihren Einrichtungen. Das Bibliothekspersonal sorgt für die Durchsetzung dieser Anordnungen; es ist berechtigt, von Personen, die sich in der Bibliothek aufhalten, eine Legitimation zu verlangen.
-
-<sup>2</sup> Für Mäntel, Regenschirme usw. sind die in der Eingangszone vorhandenen Garderobenständer zu benutzen; sie dürfen nicht in den Lesesaal mitgenommen werden.
-
-<sup>3</sup> Im Lesesaal sind die Gespräche auf das Notwendigste zu beschränken und leise zu führen.
-
-<sup>4</sup> In der Kantonsbibliothek darf nicht geraucht werden. Essen und Trinken sind nur im Eingangsbereich an den dafür vorgesehenen Tischchen erlaubt.
-
-<sup>5</sup> Hunde dürfen nicht in die Bibliothek mitgenommen werden.
-
-#### § 23
-
-**Auskunft, Information**
-
-<sup>1</sup> Das Bibliothekspersonal erteilt Auskunft über die Bibliotheksbenutzung sowie über die Literatur- und Informationssuche.
-
-<sup>2</sup> Die Kantonsbibliothek stellt für die Literatursuche die vorhandenen Nachschlagewerke sowie Datenbankanschlüsse zur Verfügung.
-
-<sup>3</sup> Das Bibliothekspersonal nimmt Anregungen, Wünsche und Anschaffungsvorschläge entgegen.
-
-#### § 24
-
-**Kontrolle**
-
-Das Bibliothekspersonal ist befugt bei weggehenden Personen Bücher, Mappen, Taschen und dergleichen zu kontrollieren.
-
-#### § 25
-
-**Kosten**
-
-<sup>1</sup> Die Benutzung der bibliothekseigenen Sammelbestände und Informationsmittel ist unentgeltlich.
-
-<sup>2</sup> Für besondere Verwaltungsarbeiten, wie die Vermittlung von Dokumenten anderer Bibliotheken, Mahnungen, Wiederbeschaffung nicht zurückgebrachter Bücher usw. werden Gebühren und Kosten nach den im Anhang enthaltenen Ansätzen erhoben.
-
-**7**
-
-1.8.2004 - 38
-
-<sup>3</sup> Ausserdem werden in Rechnung gestellt:
-
-- 1\. Schadenersatz für verlorene oder beschädigte Werke;
-
-- 2\. auf bibliothekseigenen Einrichtungen hergestellte Fotokopien und andere Reproduktionen;
-
-- 3\. Benutzungskosten kommerzieller Datenbanken;
-
-- 4\. Telekommunikationsgebühren und besondere Portospesen;
-
-- 5\. weitere besondere Dienstleistungen der Kantonsbibliothek nach Aufwand.
-
-<sup>4</sup> Allfällige Kautionen sind im Rahmen des im Anhang enthaltenen Ansatzes zu hinterlegen.
-
-#### § 26
-
-**Sorgfaltspflicht**
-
-<sup>1</sup> Wer Sammlungsgüter der Kantonsbibliothek benutzt ist für deren sorgfältige Behandlung verantwortlich. Anstreichungen, Anmerkungen und dergleichen sowie Reparaturen und andere Veränderungen sind untersagt.
-
-<sup>2</sup> Festgestellte oder selbst verursachte Schäden sind dem Bibliothekspersonal zu melden.
-
-#### § 27
-
-**Belegexemplare**
-
-<sup>1</sup> Von Veröffentlichungen, für die Bestände der Kantonsbibliothek mitbenutzt worden sind, ist der Kantonsbibliothek ein Belegexemplar unentgeltlich abzuliefern.
-
-<sup>2</sup> Werden Originaldokumente der Kantonsbibliothek fotografiert, ist von jeder Aufnahme ein Abzug unentgeltlich abzuliefern.
-
-#### § 28
-
-**Haftung**
-
-<sup>1</sup> Der Benutzer ist verantwortlich für die von ihm entliehenen oder benutzten Dokumente.
-
-<sup>2</sup> Der Entleiher haftet für den vollen Schaden, der bei Verlust oder Beschädigung oder aus der Verletzung der Benutzungsvorschriften an den entliehenen Dokumenten entsteht; er trägt auch alle hieraus der Kantonsbibliothek erwachsenden Verwaltungskosten.
-
-<sup>3</sup> Meldet der Entleiher keine Mängel, bedeutet dies, dass er die Dokumente in einwandfreiem Zustand erhalten hat.
-
-<sup>4</sup> Die Kantonsbibliothek lehnt im gesetzlich zulässigen Rahmen die Haftung ab für:
-
-- 1\. Urheberrechtsverletzungen durch Bibliotheksbenutzer;
-
-- 2\. Schäden, die durch falsche Auskünfte im Zusammenhang mit der Benutzung der Kantonsbibliothek entstehen;
-
-- 3\. Diebstähle und Schäden, die zum Nachteil von Bibliotheksbenutzern von Dritten begangen beziehungsweise verursacht werden.
-
-#### § 29
-
-**Beschwerden**
-
-<sup>1</sup> Beschwerden gegen Angestellte der Kantonsbibliothek und deren Anordnungen sind an die Bibliotheksleitung zu richten.
-
-<sup>2</sup> Beschwerden gegen Verfügungen und Entscheide der Bibliotheksleitung sind an die Bibliothekskommission zu richten, die endgültig entscheidet.
-
-### IV. SCHLUSSBESTIMMUNGEN
-
-#### § 30
-
-**Rechtskraft**
-
-<sup>1</sup> Dieses Reglement tritt am 1. August 1996 in Kraft; es ist im Amtsblatt zu veröffentlichen und in die Gesetzessammlung aufzunehmen.
-
-<sup>2</sup> Alle mit ihm in Widerspruch stehenden Bestimmungen sind aufgehoben, insbesondere das Reglement vom 17. Dezember 1971 über die Benützung der Kantonsbibliothek[^30-1].
-
-**9**
-
-1.8.2004 - 38
-
-[^30-1]: A 1971, 1522
-
-### GEBÜHRENORDNUNG
-
-### Benutzerausweis
-
-**Fr. 5.– Fr. 10.–**
-
-- Erstbezug
-
-- Ersatzausweis
-
-### Vorbestellung
-
-**Fr. 1.–**
-
-- je Medium
-
-### Kaution
-
-- je nach Fall Fr. 50.- bis Fr. 500.–
-
-### Fernleihe
-
-**Fr. 1.–**
-
-- je Medium Der Betrag ist zusammen mit der Bestellung zu entrichten. Allfällige Gebühren und Kosten der ausleihenden Bibliothek sind ebenfalls vom Besteller zu bezahlen.
-
-Die Gebühr wird nicht zurückerstattet, auch wenn das Gewünschte nicht vermittelt werden kann.
-
-### Mahnungen
-
-**gebührenfrei gebührenfrei Fr. 10.– je Buch Fr. 35.– je Buch**
-
-- Rückruf
-
-- 1\. Mahnung, nach Ablauf von drei Monaten
-
-- 2\. Mahnung
-
-- 3\. Mahnung Die Mahngebühren werden kumuliert. Nach erfolgloser dritter Mahnung wird Rechnung gestellt; zu bezahlen sind die geschuldeten Mahngebühren, der Neuwert der Medien sowie eine Bearbeitungsgebühr von Fr. 30.– je Medium.
-
-### Fotokopien
-
-**Fr. -.20 Fr. -.30 Fr. -.30 Fr. -.45**
-
-- Format A4: einseitig doppelseitig
-
-- Format A3: einseitig doppelseitig Fotokopien von andern Bibliotheken werden nach deren Gebührentarif verrechnet.
-
-Kopien, die ausserhalb des Hauses erstellt werden müssen (Color-Laser-Kopien, s/w Laser-Kopien, Foto-Reproduktionen s/w oder farbig, Diapositive) werden nach Aufwand verrechnet.
-
-**11**
-
-1.8.2004 - 38
-
-### Schäden und Verluste
-
-**Verrechnung der Reparaturkosten Neuwert plus Bearbeitungskosten von Fr. 30.– je Medium.**
-
-- Schäden an Medien:
-
-- Verlust von Medien:
+**Ausschluss**
+
+<sup>1</sup> Wer wiederholt gegen das Bibliotheksreglement verstösst, den Bibliotheksbetrieb stört oder die Kantonsbibliothek vorsätzlich schädigt, kann durch die Bibliotheksleitung befristet oder unbefristet von der Benutzung ausgeschlossen werden.
+
+## A1 Anhang 1: Gebührentarif
+
+#### § A1-1
+
+**Gebührentarif**
+
+<sup>1</sup>
+
+<table>
+<tr><th>Nr.</th><th>Inhalt</th><th>Betrag in Fr.</th></tr>
+<tr><td>1.</td><td>Bibliotheksausweis</td><td></td></tr>
+<tr><td>1.1</td><td>einmalige Einschreibgebühr</td><td>5.–</td></tr>
+<tr><td>1.2</td><td>jährliche Benutzungsgebühr für Auswärtige</td><td>40.–</td></tr>
+<tr><td>2.</td><td>Ausleihe</td><td></td></tr>
+<tr><td>2.1</td><td>Reservation von Medien</td><td>gebührenfrei</td></tr>
+<tr><td>2.2</td><td>bibliothekseigene Ausleihe</td><td>gebührenfrei</td></tr>
+<tr><td>3.</td><td>Fernleihe</td><td></td></tr>
+<tr><td>3.1</td><td>je Medium</td><td>12.-</td></tr>
+<tr><td>3.2</td><td>je Artikel</td><td>ab 8.- (nach Umfang)</td></tr>
+<tr><td>4.</td><td>Mahnungen, je Mahnschreiben</td><td></td></tr>
+<tr><td>4.1</td><td>Erinnerung</td><td>gebührenfrei</td></tr>
+<tr><td>4.2</td><td>1. Mahnung</td><td>5.-</td></tr>
+<tr><td>4.3</td><td>2. Mahnung</td><td>zusätzlich 10.-</td></tr>
+<tr><td>4.4</td><td>3. Mahnung</td><td>zusätzlich 15.-</td></tr>
+<tr><td>5.</td><td>Fotokopien, Druckerzeugnisse</td><td></td></tr>
+<tr><td>5.1</td><td>einseitig</td><td>0.30</td></tr>
+<tr><td>5.2</td><td>doppelseitig</td><td>0.40</td></tr>
+<tr><td>5.3</td><td>einseitig / bedient</td><td>1.-</td></tr>
+<tr><td>5.4</td><td>doppelseitig / bedient</td><td>1.50</td></tr>
+<tr><td>6.</td><td>Schäden, Verluste</td><td></td></tr>
+<tr><td>6.1</td><td>Schäden an Medien</td><td>Verrechnung der Reparaturkosten</td></tr>
+<tr><td>6.2</td><td>Verlust von Medien</td><td>Neuwert plus Bearbeitungsgebühr nach Aufwand</td></tr>
+<tr><td>7.</td><td>Beratung</td><td></td></tr>
+<tr><td>7.1</td><td>Erstberatung bis 30 Minuten</td><td>gebührenfrei</td></tr>
+<tr><td>7.2</td><td>begleitete Recherche ab 30 Minuten</td><td>nach Zeitaufwand</td></tr>
+</table>
+
+2022-025
