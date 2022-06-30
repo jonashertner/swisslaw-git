@@ -4,13 +4,13 @@ number: "150"
 title: Gesetz über die Arbeitsverhältnisse der Mitarbeiterinnen und Mitarbeiter des Kantons
 short: Personalgesetz
 language: de
-version: 2022-04-01
-valid_until: 2022-06-30
-version_adopted: 2022-01-13
+version: 2022-07-01
+valid_until: 2023-12-31
+version_adopted: 2019-06-27
 adopted: 1997-09-25
 in_force: 1998-04-01
 url: "https://bl.clex.ch/app/de/texts_of_law/150"
-pdf: "https://bl.clex.ch/api/de/versions/3297/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3353/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3297/pdf_file"
 
 (Personalgesetz)
 
-Vom 25.09.1997 (Stand 01.04.2022)
+Vom 25.09.1997 (Stand 01.07.2022)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -128,7 +128,11 @@ beschliesst:[^ingress-2]
 
 <sup>1</sup> Die Direktionen, die Gerichte und die Besonderen Behörden vollziehen die Personalpolitik.
 
+<sup>1<sup>bis</sup></sup> Die HR-Beratungen der Direktionen und der Besonderen Behörden sind dem Personalamt zugeordnet. Die HR-Beratung der Gerichte ist der Gerichtsverwaltung zugeordnet.
+
 <sup>2</sup> Das Personalamt erarbeitet die Grundlagen für die Personalpolitik und sorgt mit entsprechenden Weisungen für die einheitliche Anwendung der personalrechtlichen Bestimmungen.
+
+<sup>3</sup> Die fachliche und organisatorische Führung der Mitarbeitenden der HR-Beratungen der Direktionen und der Besonderen Behörden, des Dienstleistungszentrums Personal sowie des Kompetenzzentrums Personal liegt in der Verantwortung der Leitung des Personalamts.
 
 #### § 9
 
