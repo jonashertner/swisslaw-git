@@ -4,13 +4,13 @@ number: "184.13"
 title: Verordnung über den E-Government-Schalter des Staates
 short: E-GovSchV
 language: de
-version: 2022-01-01
-valid_until: 2022-06-30
-version_adopted: 2022-01-31
+version: 2022-07-01
+valid_until: 2023-11-30
+version_adopted: 2022-06-28
 adopted: 2023-11-20
 in_force: 2023-12-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/184.13"
-pdf: "https://bdlf.fr.ch/api/de/versions/7110/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7513/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ E-Government-Schalter des Staates – V
 
 (E-GovSchV)
 
-vom 15.05.2017 (Fassung in Kraft getreten am 01.01.2022)
+vom 15.05.2017 (Fassung in Kraft getreten am 01.07.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -37,7 +37,7 @@ beschliesst:
 
 **Verwaltungsorgan (Art. 14 und 15 Abs. 1 E-GovG)**
 
-<sup>1</sup> Die Staatskanzlei ist das Organ, das mit der Verwaltung des virtuellen Schalters beauftragt ist. Sie erhält technische Unterstützung vom Amt für Informatik und Telekommunikation.
+<sup>1</sup> Die Staatskanzlei ist das Organ, das mit der Verwaltung des virtuellen Schalters beauftragt ist. Sie erhält technische Unterstützung vom Amt für Informatik und Telekommunikation (ITA).
 
 #### Art. 2
 
@@ -78,7 +78,12 @@ beschliesst:
 
 <sup>3</sup> Wenn nötig, namentlich wenn Missbräuche zu befürchten sind, ergreift das Verwaltungsorgan des virtuellen Schalters vorsorgliche Massnahmen, indem es zum Beispiel den Zugang vorübergehend sperren lässt.
 
-<sup>4</sup> Ein elektronisches Konto, das seit über 36 Monaten inaktiv ist, wird nach einer Verwarnung aufgehoben.
+<sup>4</sup> Ein elektronisches Konto kann nach einer Kündigungsfrist von zwei Monaten gelöscht werden, wenn:
+
+- a) das Konto seit mehr als 36 Monaten inaktiv ist;
+- b) das Konto die technischen Anforderungen nicht mehr erfüllt.
+
+<sup>5</sup> Benützerinnen und Benützer, welche die Schliessung ihres Kontos ankündigen oder eine Benachrichtigung über die Schliessung ihres Kontos erhalten, werden darüber informiert, dass ihre Daten nach Ablauf der festgelegten Frist endgültig gelöscht werden. Es obliegt ihnen, geeignete Massnahmen zu ergreifen, um die Daten, die sie benötigen, aufzubewahren und/oder um noch laufende Verfahren fortzusetzen.
 
 #### Art. 6
 
@@ -131,7 +136,7 @@ beschliesst:
 
 <sup>1</sup> Wenn die Zugangsberechtigung zu gewissen Leistungen von besonderen Anforderungen abhängt, muss sie von der betreffenden Verwaltungseinheit verwaltet werden.
 
-<sup>2</sup> Der Vermerk der AHV-Nummer darf nur verlangt werden, wenn eine eidgenössische oder kantonale gesetzliche Grundlage deren Verwendung erlaubt oder vorschreibt. Die freiwillige Bekanntgabe dieser Information durch die Userin oder den User bleibt vorbehalten.
+<sup>2</sup> …
 
 #### Art. 11
 
@@ -166,6 +171,14 @@ beschliesst:
 **Unterstützung**
 
 <sup>1</sup> Den Userinnen und Usern stehen eine Online-Hilfe und eine Unterstützung über Telekommunikation in beiden Amtssprachen zur Verfügung. Die Unterstützung über Telekommunikation kann auf die Arbeitszeit der Kantonsverwaltung beschränkt werden.
+
+#### Art. 13a
+
+**Elektronisches Identifikationsmittel (Art. 34 E-GovG)**
+
+<sup>1</sup> Der Staatsrat legt auf gemeinsamen Vorschlag der Staatskanzlei und des ITA das oder die elektronischen Identifikationsmittel, die für die Verbindung mit dem virtuellen Schalter anerkannt werden, fest. Je nach Bedarf und verfügbaren Lösungen können sie entweder auf einer von der öffentlichen Hand entwickelten Lösung oder auf einer von einem privaten Anbieter angebotenen Lösung beruhen.
+
+<sup>2</sup> Bei einem Wechsel des elektronischen Identifikationsmittels ist die Staatskanzlei dafür zuständig, die Migration zu den neu gewählten Identifikationsmitteln zu organisieren. Sie kann den betroffenen Personen eine Frist setzen, um die Migration durchzuführen. Es gilt Artikel 5 Abs. 4 Bst. b.
 
 #### Art. 14
 

@@ -4,13 +4,13 @@ number: "184.13"
 title: "Ordonnance sur le guichet de cyberadministration de l'Etat"
 short: OGCyb
 language: fr
-version: 2022-01-01
-valid_until: 2022-06-30
-version_adopted: 2022-01-31
+version: 2022-07-01
+valid_until: 2023-11-30
+version_adopted: 2022-06-28
 adopted: 2023-11-20
 in_force: 2023-12-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/184.13"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7110/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7513/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Guichet de cyberadministration de l'Etat – O
 
 (OGCyb)
 
-du 15.05.2017 (version entrée en vigueur le 01.01.2022)
+du 15.05.2017 (version entrée en vigueur le 01.07.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -37,7 +37,7 @@ Arrête:
 
 **Organe de gestion (art. 14 et 15 al. 1 LCyb)**
 
-<sup>1</sup> L'organe chargé de la gestion du guichet est la Chancellerie d'Etat. Il bénéficie de l'appui technique du Service de l'informatique et des télécommunications.
+<sup>1</sup> L'organe chargé de la gestion du guichet est la Chancellerie d'Etat. Il bénéficie de l'appui technique du Service de l'informatique et des télécommunications (ci-après: SITel).
 
 #### Art. 2
 
@@ -78,7 +78,12 @@ Arrête:
 
 <sup>3</sup> En cas de nécessité, notamment s'il y a lieu de craindre des abus, l'organe de gestion du guichet prend des mesures provisionnelles, par exemple en faisant bloquer temporairement l'autorisation d'accès.
 
-<sup>4</sup> Un compte électronique inactif depuis plus de trente-six mois est supprimé après un avertissement.
+<sup>4</sup> Un compte électronique peut être supprimé après un préavis de deux mois si:
+
+- a) le compte est inactif depuis plus de trente-six mois;
+- b) le compte ne répond plus aux exigences techniques requises.
+
+<sup>5</sup> L'usager ou l'usagère qui annonce la clôture de son compte ou qui reçoit un préavis de clôture de son compte est informé-e que ses données seront définitivement supprimées au terme du délai imparti. Il lui appartient de prendre les mesures utiles pour conserver les données qui lui sont nécessaires et/ou pour poursuivre les procédures qui sont encore en cours.
 
 #### Art. 6
 
@@ -131,7 +136,7 @@ Arrête:
 
 <sup>1</sup> Si le droit d'accès à certaines prestations est soumis à des exigences particulières, sa gestion incombe à l'unité administrative concernée.
 
-<sup>2</sup> La mention du numéro AVS ne peut être exigée que si une base légale fédérale ou cantonale autorise ou prescrit son usage. La communication volontaire de cette information par l'usager ou l'usagère demeure réservée.
+<sup>2</sup> …
 
 #### Art. 11
 
@@ -166,6 +171,14 @@ Arrête:
 **Assistance**
 
 <sup>1</sup> Les usagers et usagères bénéficient d'une aide en ligne et d'une assistance par voie de télécommunication dans les deux langues officielles. L'assistance par voie de télécommunication peut être limitée aux horaires de travail de l'administration cantonale.
+
+#### Art. 13a
+
+**Moyen d'identification électronique (art. 34 LCyb)**
+
+<sup>1</sup> Le ou les moyens d'identification électroniques reconnus pour se connecter au guichet virtuel sont déterminés par le Conseil d'Etat sur la proposition commune de la Chancellerie d'Etat et du SITel. En fonction des besoins et des solutions disponibles, ils peuvent reposer soit sur une solution développée par les pouvoirs publics, soit sur une solution proposée par un prestataire privé.
+
+<sup>2</sup> En cas de changement de moyen d'identification électronique, la Chancellerie d'Etat est compétente pour organiser la migration vers le ou les nouveaux moyens retenus. Elle peut impartir un délai aux personnes concernées pour procéder à la migration. L'article 5 al. 4 let. b est applicable.
 
 #### Art. 14
 
