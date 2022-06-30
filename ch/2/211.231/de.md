@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 18. Juni 2004 über die eingetragene Partnerschaft glei
 short: PartG
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/782"
 language: de
-version: 2018-01-01
+version: 2022-07-01
 adopted: 2004-06-18
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/782/20180101/de/xml/fedlex-data-admin-ch-eli-cc-2005-782-20180101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/782/20180101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/782/20220701/de/xml/fedlex-data-admin-ch-eli-cc-2005-782-20220701-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/782/20220701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/782/20180101/de"
 
 (Partnerschaftsgesetz, PartG)
 
-vom 18. Juni 2004 (Stand am 1. Januar 2018)
+vom 18. Juni 2004 (Stand am 1. Juli 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -28,92 +28,39 @@ beschliesst:
 [^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
 [^ingress-2]: [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)
 
-## 1. Kapitel: Allgemeine Bestimmungen
+## 1. Kapitel:**** Gegenstand
+
+[^chap1-1]
+
+[^chap1-1]: Fassung gemäss Anhang Ziff. 1 des BG vom 18. Dez. 2020 (Ehe für alle), in Kraft seit 1. Juli 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 #### Art. 1
 
-**Gegenstand**
+Dieses Gesetz regelt die Wirkungen, die Auflösung und die Umwandlung in eine Ehe der vor der abschliessenden Inkraftsetzung der Änderung vom 18. Dezember 2020[^1-1] des Zivilgesetzbuches begründeten eingetragenen Partnerschaft gleichgeschlechtlicher Paare.
 
-Dieses Gesetz regelt die Begründung, die Wirkungen und die Auflösung der eingetragenen Partnerschaft gleichgeschlechtlicher Paare.
+[^1-1]: [AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747)
 
 #### Art. 2
 
-**Grundsatz**
-
-<sup>1</sup> Zwei Personen gleichen Geschlechts können ihre Partnerschaft eintragen lassen.
-
-<sup>2</sup> Sie verbinden sich damit zu einer Lebensgemeinschaft mit gegenseitigen Rechten und Pflichten.
-
-<sup>3</sup> Der Personenstand lautet: «in eingetragener Partnerschaft».
+Aufgehoben
 
 ## 2. Kapitel: Die Eintragung der Partnerschaft
 
-### 1. Abschnitt: Voraussetzungen und Eintragungshindernisse
+### 1. Abschnitt: …
 
-#### Art. 3
+#### Art. 3 und 4
 
-**Voraussetzungen**
+[^34-1]
 
-<sup>1</sup> Beide Partnerinnen oder Partner müssen das 18. Altersjahr zurückgelegt haben und urteilsfähig sein.
+[^34-1]: Aufgehoben durch Anhang Ziff. 1 des BG vom 18. Dez. 2020 (Ehe für alle), mit Wirkung seit 1. Juli 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
-<sup>2</sup> ...[^3-1]
+### 2. Abschnitt: …
 
-[^3-1]: Aufgehoben durch Anhang Ziff. 8 des BG vom 19. Dez. 2008 (Erwachsenenschutz, Personenrecht und Kindesrecht), mit Wirkung seit 1. Jan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+#### Art. 5–8
 
-#### Art. 4
+[^58-1]
 
-**Eintragungshindernisse**
-
-<sup>1</sup> Verwandte in gerader Linie, Geschwister sowie Halbgeschwister können keine eingetragene Partnerschaft eingehen.
-
-<sup>2</sup> Beide Partnerinnen oder Partner müssen nachweisen, dass sie nicht bereits in eingetragener Partnerschaft leben oder verheiratet sind.
-
-### 2. Abschnitt: Verfahren
-
-#### Art. 5
-
-**Gesuch**
-
-<sup>1</sup> Das Gesuch um Eintragung ist beim Zivilstandsamt am Wohnsitz einer der beiden Partnerinnen oder eines der beiden Partner einzureichen.
-
-<sup>2</sup> Die beiden Partnerinnen oder Partner müssen persönlich erscheinen. Falls sie nachweisen, dass dies für sie offensichtlich unzumutbar ist, wird die schriftliche Durchführung des Vorverfahrens bewilligt.
-
-<sup>3</sup> Die beiden Partnerinnen oder Partner legen die erforderlichen Dokumente vor. Sie haben beim Zivilstandsamt persönlich zu erklären, dass sie die Voraussetzungen zur Eintragung einer Partnerschaft erfüllen.
-
-<sup>4</sup> Partnerinnen oder Partner, die nicht Schweizerbürgerinnen oder Schweizerbürger sind, müssen während des Vorverfahrens ihren rechtmässigen Aufenthalt in der Schweiz nachweisen.[^5-1]
-
-[^5-1]: Eingefügt durch Ziff. II 2 des BG vom 12. Juni 2009 (Unterbindung von Ehen bei rechtswidrigem Aufenthalt), in Kraft seit 1. Jan. 2011 ([AS 2010 3057](https://fedlex.data.admin.ch/eli/oc/2010/411); [BBl 2008 2467](https://fedlex.data.admin.ch/eli/fga/2008/517)[2481](https://fedlex.data.admin.ch/eli/fga/2008/519)).
-
-#### Art. 6
-
-**Prüfung**
-
-<sup>1</sup> Das zuständige Zivilstandsamt prüft, ob die Voraussetzungen für die Eintragung erfüllt sind und keine Eintragungshindernisse sowie keine Umstände vorliegen, die erkennen lassen, dass das Gesuch um Eintragung offensichtlich nicht dem freien Willen der Partnerinnen oder Partner entspricht.[^6-1]
-
-<sup>2</sup> Die Zivilstandsbeamtin oder der Zivilstandsbeamte tritt auf das Gesuch nicht ein, wenn eine der Partnerinnen oder einer der Partner offensichtlich keine Lebensgemeinschaft begründen, sondern die Bestimmungen über Zulassung und Aufenthalt von Ausländerinnen und Ausländern umgehen will.[^6-2]
-
-<sup>3</sup> In den Fällen nach Absatz 2 hört die Zivilstandsbeamtin oder der Zivilstandsbeamte die Partnerinnen oder Partner an und kann bei anderen Behörden oder bei Drittpersonen Auskünfte einholen.[^6-3]
-
-<sup>4</sup> Das Zivilstandsamt teilt der zuständigen Behörde die Identität von Partnerinnen oder Partnern mit, die ihren rechtmässigen Aufenthalt in der Schweiz nicht nachgewiesen haben.[^6-4]
-
-[^6-1]: Fassung gemäss Ziff. I 4 des BG vom 15. Juni 2012 über Massnahmen gegen Zwangs- heiraten, in Kraft seit 1. Juli 2013 ([AS 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [BBl 2011 2185](https://fedlex.data.admin.ch/eli/fga/2011/292)).
-[^6-2]: Eingefügt durch Anhang Ziff. II 5 des BG vom 16. Dez. 2005 über Ausländerinnen und Ausländer, in Kraft seit 1. Jan. 2008 ([AS 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758); [BBl 2002 3709](https://fedlex.data.admin.ch/eli/fga/2002/541)).
-[^6-3]: Eingefügt durch Anhang Ziff. II 5 des BG vom 16. Dez. 2005 über Ausländerinnen und Ausländer, in Kraft seit 1. Jan. 2008 ([AS 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758); [BBl 2002 3709](https://fedlex.data.admin.ch/eli/fga/2002/541)).
-[^6-4]: Eingefügt durch Ziff. II 2 des BG vom 12. Juni 2009 (Unterbindung von Ehen bei rechtswidrigem Aufenthalt), in Kraft seit 1. Jan. 2011 ([AS 2010 3057](https://fedlex.data.admin.ch/eli/oc/2010/411); [BBl 2008 2467](https://fedlex.data.admin.ch/eli/fga/2008/517)[2481](https://fedlex.data.admin.ch/eli/fga/2008/519)).
-
-#### Art. 7
-
-**Form**
-
-<sup>1</sup> Die Zivilstandsbeamtin oder der Zivilstandsbeamte beurkundet die Willenserklärung der beiden Partnerinnen oder Partner und lässt die Urkunde von beiden unterschreiben.
-
-<sup>2</sup> Die Beurkundung der eingetragenen Partnerschaft ist öffentlich.
-
-#### Art. 8
-
-**Ausführungsbestimmungen**
-
-Der Bundesrat erlässt die Ausführungsbestimmungen.
+[^58-1]: Aufgehoben durch Anhang Ziff. 1 des BG vom 18. Dez. 2020 (Ehe für alle), mit Wirkung seit 1. Juli 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 ### 3. Abschnitt: Ungültigkeit
 
@@ -126,17 +73,20 @@ Der Bundesrat erlässt die Ausführungsbestimmungen.
 Jede Person, die ein Interesse hat, kann jederzeit beim Gericht auf Ungültigkeit der eingetragenen Partnerschaft klagen, wenn:
 
 - a. zur Zeit der Eintragung der Partnerschaft eine der Partnerinnen oder einer der Partner nicht urteilsfähig war und seither nicht wieder urteilsfähig geworden ist;
-- b. bei der Eintragung Artikel 4 verletzt wurde;
-- c.[^9-1] eine der Partnerinnen oder einer der Partner nicht eine Lebensgemeinschaft begründen, sondern die Bestimmungen über Zulassung und Aufenthalt von Ausländerinnen und Ausländern umgehen will;
-- d.[^9-2] eine der Partnerinnen oder einer der Partner der Eintragung der Partnerschaft nicht aus freiem Willen zugestimmt hat;
-- e.[^9-3] eine der Partnerinnen oder einer der Partner minderjährig ist, es sei denn, die Aufrechterhaltung der Eintragung entspricht den überwiegenden Interessen dieser Partnerin oder dieses Partners.
+- b.[^9-1] die Partnerinnen oder Partner Verwandte in gerader Linie, Geschwister oder Halbgeschwister sind;
+- b<sup>bis</sup>.[^9-2] zur Zeit der Eintragung eine der Partnerinnen oder einer der Partner bereits in eingetragener Partnerschaft lebte oder verheiratet war und die frühere eingetragene Partnerschaft oder Ehe nicht aufgelöst worden ist;
+- c.[^9-3] eine der Partnerinnen oder einer der Partner nicht eine Lebensgemeinschaft begründen, sondern die Bestimmungen über Zulassung und Aufenthalt von Ausländerinnen und Ausländern umgehen will;
+- d.[^9-4] eine der Partnerinnen oder einer der Partner der Eintragung der Partnerschaft nicht aus freiem Willen zugestimmt hat;
+- e.[^9-5] eine der Partnerinnen oder einer der Partner minderjährig ist, es sei denn, die Aufrechterhaltung der Eintragung entspricht den überwiegenden Interessen dieser Partnerin oder dieses Partners.
 
-<sup>2</sup> Während des Bestehens einer eingetragenen Partnerschaft wird die Klage von der zuständigen Behörde am Wohnsitz der Partnerinnen oder Partner von Amtes wegen erhoben. Soweit dies mit ihren Aufgaben vereinbar ist, melden die Behörden des Bundes und der Kantone der für die Klage zuständigen Behörde, wenn sie Anlass zur Annahme haben, dass ein Ungültigkeitsgrund vorliegt.[^9-4]
+<sup>2</sup> Während des Bestehens einer eingetragenen Partnerschaft wird die Klage von der zuständigen Behörde am Wohnsitz der Partnerinnen oder Partner von Amtes wegen erhoben. Soweit dies mit ihren Aufgaben vereinbar ist, melden die Behörden des Bundes und der Kantone der für die Klage zuständigen Behörde, wenn sie Anlass zur Annahme haben, dass ein Ungültigkeitsgrund vorliegt.[^9-6]
 
-[^9-1]: Eingefügt durch Anhang Ziff. II 5 des BG vom 16. Dez. 2005 über Ausländerinnen und Ausländer, in Kraft seit 1. Jan. 2008 ([AS 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758); [BBl 2002 3709](https://fedlex.data.admin.ch/eli/fga/2002/541)).
-[^9-2]: Eingefügt durch Ziff. I 4 des BG vom 15. Juni 2012 über Massnahmen gegen Zwangs- heiraten, in Kraft seit 1. Juli 2013 ([AS 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [BBl 2011 2185](https://fedlex.data.admin.ch/eli/fga/2011/292)).
-[^9-3]: Eingefügt durch Ziff. I 4 des BG vom 15. Juni 2012 über Massnahmen gegen Zwangs- heiraten, in Kraft seit 1. Juli 2013 ([AS 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [BBl 2011 2185](https://fedlex.data.admin.ch/eli/fga/2011/292)).
-[^9-4]: Letzter Satz eingefügt durch Ziff. I 4 des BG vom 15. Juni 2012 über Massnahmen gegen Zwangsheiraten, in Kraft seit 1. Juli 2013 ([AS 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [BBl 2011 2185](https://fedlex.data.admin.ch/eli/fga/2011/292)).
+[^9-1]: Fassung gemäss Anhang Ziff. 1 des BG vom 18. Dez. 2020 (Ehe für alle), in Kraft seit 1. Juli 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+[^9-2]: Eingefügt durch Anhang Ziff. 1 des BG vom 18. Dez. 2020 (Ehe für alle), in Kraft seit 1. Juli 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+[^9-3]: Eingefügt durch Anhang Ziff. II 5 des BG vom 16. Dez. 2005 über Ausländerinnen und Ausländer, in Kraft seit 1. Jan. 2008 ([AS 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758); [BBl 2002 3709](https://fedlex.data.admin.ch/eli/fga/2002/541)).
+[^9-4]: Eingefügt durch Ziff. I 4 des BG vom 15. Juni 2012 über Massnahmen gegen Zwangs- heiraten, in Kraft seit 1. Juli 2013 ([AS 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [BBl 2011 2185](https://fedlex.data.admin.ch/eli/fga/2011/292)).
+[^9-5]: Eingefügt durch Ziff. I 4 des BG vom 15. Juni 2012 über Massnahmen gegen Zwangs- heiraten, in Kraft seit 1. Juli 2013 ([AS 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [BBl 2011 2185](https://fedlex.data.admin.ch/eli/fga/2011/292)).
+[^9-6]: Letzter Satz eingefügt durch Ziff. I 4 des BG vom 15. Juni 2012 über Massnahmen gegen Zwangsheiraten, in Kraft seit 1. Juli 2013 ([AS 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [BBl 2011 2185](https://fedlex.data.admin.ch/eli/fga/2011/292)).
 
 #### Art. 10
 
@@ -319,9 +269,9 @@ Steht ein Vermögenswert im Miteigentum der beiden Partnerinnen oder Partner und
 
 #### Art. 26
 
-**Eheschliessung**
+[^26-1]
 
-Eine Person, die in eingetragener Partnerschaft lebt, kann keine Ehe eingehen.
+[^26-1]: Aufgehoben durch Anhang Ziff. 1 des BG vom 18. Dez. 2020 (Ehe für alle), mit Wirkung seit 1. Juli 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 #### Art. 27
 
@@ -414,16 +364,44 @@ Die während der Dauer der eingetragenen Partnerschaft erworbenen Austrittsleist
 
 <sup>3</sup> Ferner kann eine Person angemessene Unterhaltsbeiträge verlangen, wenn sie durch die Auflösung der eingetragenen Partnerschaft in Bedürftigkeit gerät und der Partnerin oder dem Partner die Bezahlung von Unterhaltsbeiträgen nach den gesamten Umständen zugemutet werden kann.
 
-<sup>4</sup> Im Übrigen sind die Artikel 125 Absätze 2 und 3 sowie 126–134 ZGB[^34-1] sinngemäss anwendbar.[^34-2]
+<sup>4</sup> Im Übrigen sind die Artikel 125 Absätze 2 und 3 sowie 126–134 ZGB[^34-2] sinngemäss anwendbar.[^34-3]
 
-[^34-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^34-2]: Fassung gemäss Anhang Ziff. 1 des BG vom 17. Juni 2016 (Adoption), in Kraft seit 1. Jan. 2018 ([AS 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [BBl 2015 877](https://fedlex.data.admin.ch/eli/fga/2015/94)).
+[^34-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^34-3]: Fassung gemäss Anhang Ziff. 1 des BG vom 17. Juni 2016 (Adoption), in Kraft seit 1. Jan. 2018 ([AS 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [BBl 2015 877](https://fedlex.data.admin.ch/eli/fga/2015/94)).
+
+## 4*a*. Kapitel: Umwandlung der eingetragenen Partnerschaft in eine Ehe****
+
+[^chap4a-1]
+
+[^chap4a-1]: Eingefügt durch Anhang Ziff. 1 des BG vom 18. Dez. 2020 (Ehe für alle), in Kraft seit 1. Juli 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 #### Art. 35
 
-[^35-1]
+**Umwandlungserklärung**[^35-1]
 
-[^35-1]: Aufgehoben durch Anhang 1 Ziff. II 4 der Zivilprozessordnung vom 19. Dez. 2008, mit Wirkung seit 1. Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+<sup>1</sup> Eingetragene Partnerinnen oder Partner können jederzeit gemeinsam vor jeder Zivilstandsbeamtin oder jedem Zivilstandsbeamten erklären, dass sie ihre eingetragene Partnerschaft in eine Ehe umwandeln wollen.
+
+<sup>2</sup> Sie müssen vor der Zivilstandsbeamtin oder dem Zivilstandsbeamten persönlich erscheinen, ihre Personalien und ihre eingetragene Partnerschaft mittels Dokumenten belegen und die Umwandlungserklärung unterzeichnen.
+
+<sup>3</sup> Auf Antrag wird die Umwandlungserklärung in Anwesenheit von zwei volljährigen und urteilsfähigen Zeuginnen oder Zeugen im Trauungslokal entgegengenommen.
+
+<sup>4</sup> Der Bundesrat erlässt die Ausführungsbestimmungen.
+
+[^35-1]: Fassung gemäss Anhang Ziff. 1 des BG vom 18. Dez. 2020 (Ehe für alle), in Kraft seit 1. Juli 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+
+#### Art. 35a
+
+**Wirkungen der Umwandlungserklärung**[^35a-1]
+
+<sup>1</sup> Sobald die Umwandlungserklärung vorliegt, gelten die bisherigen eingetragenen Partnerinnen oder Partner als verheiratet.
+
+<sup>2</sup> Knüpft eine gesetzliche Bestimmung für Rechtswirkungen an die Dauer der Ehe an, so ist die Dauer der vorangegangenen eingetragenen Partnerschaft anzurechnen.
+
+<sup>3</sup> Der ordentliche Güterstand der Errungenschaftsbeteiligung gilt ab dem Zeitpunkt der Umwandlung, sofern nicht durch Vermögens- oder Ehevertrag etwas anderes vereinbart wurde.
+
+<sup>4</sup> Ein bestehender Vermögens- oder Ehevertrag bleibt nach der Umwandlung weiterhin gültig.
+
+[^35a-1]: Eingefügt durch Anhang Ziff. 1 des BG vom 18. Dez. 2020 (Ehe für alle), in Kraft seit 1. Juli 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 ## 5. Kapitel: Schlussbestimmungen
 
@@ -437,7 +415,7 @@ Die Änderung bisherigen Rechts wird im Anhang geregelt.
 
 **Koordination mit Änderungen anderer Erlasse**
 
-### ...**
+### …**
 
 [^37-subdiv-1]
 
@@ -471,6 +449,6 @@ Anhang
 
 Die nachstehenden Bundesgesetze werden wie folgt geändert:
 
-...[^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Die Änderungen können unter [AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)konsultiert werden.

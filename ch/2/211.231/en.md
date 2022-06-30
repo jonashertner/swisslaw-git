@@ -4,11 +4,11 @@ title: "Federal Act of 18 June 2004 on the Registered Partnership between Same-S
 short: SSPA
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/782"
 language: en
-version: 2018-01-01
+version: 2022-07-01
 adopted: 2004-06-18
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/782/20180101/en/xml/fedlex-data-admin-ch-eli-cc-2005-782-20180101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/782/20180101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/782/20220701/en/xml/fedlex-data-admin-ch-eli-cc-2005-782-20220701-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/782/20220701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Same-Sex Partnership Act, SSPA)
 
-of 18 June 2004 (Status as of 1 January 2018)
+of 18 June 2004 (Status as of 1 July 2022)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -30,92 +30,41 @@ decrees:
 [^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
 [^ingress-2]: [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)
 
-## Chapter 1 General Provisions
+## Chapter 1**** Subject Matter
+
+[^chap1-1]
+
+[^chap1-1]: Amended by Annex No 1 of the FA of 18 Dec. 2020 (Marriage for All), in force since 1 July 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 #### Art. 1
 
 **Object**
 
-This Act regulates the establishment, effects and dissolution of registered partnerships between same-sex couples.
+This Act regulates the effects, dissolution and conversion into marriage of registered partnerships between same-sex couples established before the Amendment of 18 December 2020[^1-1] to the Civil Code comes fully into force.
+
+[^1-1]: [AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747)
 
 #### Art. 2
 
-**Principle**
-
-<sup>1</sup> Two persons of the same sex may register their partnership.
-
-<sup>2</sup> They unite in a partnership with reciprocal rights and obligations.
-
-<sup>3</sup> Their civil status is: «in a registered partnership».
+*Repealed*
 
 ## Chapter 2 Registration of the Partnership
 
-### Section 1 Requirements and Grounds for Refusing Registration
+### Section 1 ...
 
-#### Art. 3
+#### Art. 3 and 4
 
-**Requirements**
+[^34-1]
 
-<sup>1</sup> Both partners must have reached the age of 18 and be capable of judgement.
+[^34-1]: Repealed by Annex No 1 of the FA of 18 Dec. 2020 (Marriage for All), with effect from 1 July 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
-<sup>2</sup> ...[^3-1]
+### Section 2 …
 
-[^3-1]: Repealed by Annex No 8 of the FA of 19 Dec. 2008 (Adult Protection, Law of Persons, Law of Children), with effect from 1 Jan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+#### Art. 5–8
 
-#### Art. 4
+[^58-1]
 
-**Grounds for refusing registration**
-
-<sup>1</sup> Direct relatives, siblings and half-siblings may not enter into a registered partnership.
-
-<sup>2</sup> Both partners must prove that they are not already in a registered partnership or married.
-
-### Section 2 Procedure
-
-#### Art. 5
-
-**Application**
-
-<sup>1</sup> The application for a registered partnership must be submitted to the civil register office at the domicile of one of the two partners.
-
-<sup>2</sup> The two partners must appear in person. If this is clearly unreasonable for them, the preliminary procedure may be conducted in writing.
-
-<sup>3</sup> The two partners shall submit the necessary documents. They must explain in person to the civil register office that they meet all the conditions for registering a partnership.
-
-<sup>4</sup> Partners who are not Swiss citizens must provide evidence during the preliminary procedure that their residence in Switzerland is lawful.[^5-1]
-
-[^5-1]: Inserted by No II 2 of the FA of 12 June 2009 (Prohibition of Marriage in cases of Unlawful Residence), in force since 1 Jan. 2011 ([AS 2010 3057](https://fedlex.data.admin.ch/eli/oc/2010/411); [BBl 2008 2467](https://fedlex.data.admin.ch/eli/fga/2008/517)[2481](https://fedlex.data.admin.ch/eli/fga/2008/519)).
-
-#### Art. 6
-
-**Examination**
-
-<sup>1</sup> The competent civil register office shall check whether the conditions for registration have been fulfilled and whether there are any grounds for refusal or circumstances which indicate that the application for registration is clearly not in accordance with the free will of the partners.[^6-1]
-
-<sup>2</sup> The civil registrar shall reject the application if either or both partners clearly do not wish to establish a domestic partnership, but wish to circumvent the regulations on the admission and residence of foreign nationals.[^6-2]
-
-<sup>3</sup> In the cases referred to in paragraph 2, the civil registrar shall hear the partners and may obtain information from other authorities or third parties.[^6-3]
-
-<sup>4</sup> The civil registrar shall notify the competent authority of the identity of partners who have not provided evidence of their lawful residence in Switzerland.[^6-4]
-
-[^6-1]: Amended by No I 4 of the FA of 15 June 2012 on Measures against Forced Marriages, in force since 1 July 2013 ([AS 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [BBl 2011 2185](https://fedlex.data.admin.ch/eli/fga/2011/292)).
-[^6-2]: Inserted by Annex No II 5 of the FA of 16 Dec. 2005 on Foreign Nationals, in force since 1 Jan. 2008 ([AS 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758); [BBl 2002 3709](https://fedlex.data.admin.ch/eli/fga/2002/541)).
-[^6-3]: Inserted by Annex No II 5 of the FA of 16 Dec. 2005 on Foreign Nationals, in force since 1 Jan. 2008 ([AS 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758); [BBl 2002 3709](https://fedlex.data.admin.ch/eli/fga/2002/541)).
-[^6-4]: Inserted by No II 2 of the FA of 12 June 2009 (Prohibition of Marriage in cases of Unlawful Residence), in force since 1 Jan. 2011 ([AS 2010 3057](https://fedlex.data.admin.ch/eli/oc/2010/411); [BBl 2008 2467](https://fedlex.data.admin.ch/eli/fga/2008/517)[2481](https://fedlex.data.admin.ch/eli/fga/2008/519)).
-
-#### Art. 7
-
-**Form**
-
-<sup>1</sup> The civil registrar shall notarise the declaration of intent of both partners and have both sign the document.
-
-<sup>2</sup> The notarisation of a registered partnership is public.
-
-#### Art. 8
-
-**Implementing provisions**
-
-The Federal Council issues the implementing provisions.
+[^58-1]: Repealed by Annex No 1 of the FA of 18 Dec. 2020 (Marriage for All), with effect from 1 July 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 ### Section 3 Nullity
 
@@ -128,17 +77,20 @@ The Federal Council issues the implementing provisions.
 Any person who has an interest may at any time bring an action before the court to have the registered partnership declared null and void if:
 
 - a. either of the partners was not capable of judgement at the time the partnership was registered and has not become capable of judgement since then;
-- b. the registration infringed Article 4;
-- c.[^9-1] either of the partners does not wish to establish a domestic partnership, but wishes to circumvent the regulations on the admission and residence of foreign nationals;
-- d.[^9-2] either of the partners did not give their free consent to the registration of the partnership;
-- e.[^9-3] either of the partners is a minor, unless the purpose of the registration meets the overriding interests of this partner.
+- b.[^9-1] the partners are related in direct line, or are siblings or half-siblings;
+- b<sup>bis</sup>.[^9-2] at the time of registration, either of the partners was already living in a registered partnership or married, and the earlier registered partnership or marriage has not been dissolved;
+- c.[^9-3] either of the prospective spouses clearly has no intention of living with the other but wishes to circumvent the provisions on the admission and residence of foreign nationals;
+- d.[^9-4] either of the partners did not give their free consent to the registration of the partnership;
+- e.[^9-5] either of the partners is a minor, unless the purpose of the registration meets the overriding interests of this partner.
 
-<sup>2</sup> While a registered partnership is in existence, the action shall be instituted ex officio by the competent authority at the partners’ place of residence. Insofar as this is compatible with their duties, the federal and cantonal authorities shall notify the authority responsible for the action if they have reason to believe that grounds for nullity exist.[^9-4]
+<sup>2</sup> While a registered partnership is in existence, the action shall be instituted ex officio by the competent authority at the partners’ place of residence. Insofar as this is compatible with their duties, the federal and cantonal authorities shall notify the authority responsible for the action if they have reason to believe that grounds for nullity exist.[^9-6]
 
-[^9-1]: Inserted by Annex No II 5 of the FA of 16 Dec. 2005 on Foreign Nationals, in force since 1 Jan. 2008 ([AS 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758); [BBl 2002 3709](https://fedlex.data.admin.ch/eli/fga/2002/541)).
-[^9-2]: Inserted by No I 4 of the FA of 15 June 2012 on Measures against Forced Marriages, in force since 1 July 2013 ([AS 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [BBl 2011 2185](https://fedlex.data.admin.ch/eli/fga/2011/292)).
-[^9-3]: Inserted by No I 4 of the FA of 15 June 2012 on Measures against Forced Marriages, in force since 1 July 2013 ([AS 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [BBl 2011 2185](https://fedlex.data.admin.ch/eli/fga/2011/292)).
-[^9-4]: Last sentence inserted by No I 4 of the FA of 15 June 2012 on Measures against Forced Marriages, in force since 1 July 2013 ([AS 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [BBl 2011 2185](https://fedlex.data.admin.ch/eli/fga/2011/292)).
+[^9-1]: Amended by Annex No 1 of the FA of 18 Dec. 2020 (Marriage for All), in force since 1 July 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+[^9-2]: Inserted by Annex No 1 of the FA of 18 Dec. 2020 (Marriage for All), in force since 1 July 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+[^9-3]: Inserted by Annex No II 5 of the FA of 16 Dec. 2005 on Foreign Nationals, in force since 1 Jan. 2008 ([AS 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758); [BBl 2002 3709](https://fedlex.data.admin.ch/eli/fga/2002/541)).
+[^9-4]: Inserted by No I 4 of the FA of 15 June 2012 on Measures against Forced Marriages, in force since 1 July 2013 ([AS 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [BBl 2011 2185](https://fedlex.data.admin.ch/eli/fga/2011/292)).
+[^9-5]: Inserted by No I 4 of the FA of 15 June 2012 on Measures against Forced Marriages, in force since 1 July 2013 ([AS 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [BBl 2011 2185](https://fedlex.data.admin.ch/eli/fga/2011/292)).
+[^9-6]: Last sentence inserted by No I 4 of the FA of 15 June 2012 on Measures against Forced Marriages, in force since 1 July 2013 ([AS 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [BBl 2011 2185](https://fedlex.data.admin.ch/eli/fga/2011/292)).
 
 #### Art. 10
 
@@ -321,9 +273,9 @@ Where one partner proves an overriding interest in an asset in co-ownership, not
 
 #### Art. 26
 
-**Marriage**
+[^26-1]
 
-A person living in a registered same-sex partnership may not enter into a marriage.
+[^26-1]: Repealed by Annex No 1 of the FA of 18 Dec. 2020 (Marriage for All), with effect from 1 July 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 #### Art. 27
 
@@ -416,16 +368,44 @@ The withdrawal benefits acquired under the occupational pension scheme throughou
 
 <sup>3</sup> Furthermore, a person may demand appropriate maintenance payments if they become indigent due to the dissolution of the registered partnership and the partner can be expected to pay the maintenance payments in the overall circumstances.
 
-<sup>4</sup> Article 125 paragraphs 2 and 3 as well as 126–134 CC[^34-1] is otherwise applicable *mutatis mutandis*.[^34-2]
+<sup>4</sup> Article 125 paragraphs 2 and 3 as well as 126–134 CC[^34-2] is otherwise applicable *mutatis mutandis*.[^34-3]
 
-[^34-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^34-2]: Amended by Annex No 1 of the FA of 17 June 2016 (Adoption), in force since 1 Jan. 2018 ([AS 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [BBl 2015 877](https://fedlex.data.admin.ch/eli/fga/2015/94)).
+[^34-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^34-3]: Amended by Annex No 1 of the FA of 17 June 2016 (Adoption), in force since 1 Jan. 2018 ([AS 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [BBl 2015 877](https://fedlex.data.admin.ch/eli/fga/2015/94)).
+
+## Chapter 4*a* Conversion of a Registered Partnership into a Marriage****
+
+[^chap4a-1]
+
+[^chap4a-1]: Inserted by Annex No 1 of the FA of 18 Dec. 2020 (Marriage for All), in force since 1 July 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 #### Art. 35
 
-[^35-1]
+**Declaration of conversion**[^35-1]
 
-[^35-1]: Repealed by Annex 1 No II 4 of the Civil Procedure Code of 19 Dec. 2008, with effect from 1 Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+<sup>1</sup> Registered partners may at any time jointly declare before any civil registrar that they wish to convert their registered partnership into a marriage.
+
+<sup>2</sup> They must appear in person before the civil registrar, provide documents to prove their personal details and their registered partnership, and sign the declaration of conversion.
+
+<sup>3</sup> On request, the declaration of conversion shall be made in a wedding venue in the presence of two adult witnesses with capacity of judgement.
+
+<sup>4</sup> The Federal Council shall issue the implementing provisions.
+
+[^35-1]: Amended by Annex No 1 of the FA of 18 Dec. 2020 (Marriage for All), in force since 1 July 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+
+#### Art. 35a
+
+**Effects of the declaration of conversion**[^35a-1]
+
+<sup>1</sup> As soon as the declaration of conversion is concluded, the registered partners are deemed to be married.
+
+<sup>2</sup> Where a legal provision makes legal effects dependent on the duration of a marriage, the duration of a preceding registered partnership shall be taken into account.
+
+<sup>3</sup> The statutory marital property regime of participation in acquired property applies from the time of conversion, unless the couple agrees otherwise by marital agreement or property agreement.
+
+<sup>4</sup> Any existing property or marital agreement remains valid following the conversion.
+
+[^35a-1]: Inserted by Annex No 1 of the FA of 18 Dec. 2020 (Marriage for All), in force since 1 July 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 ## Chapter 5 Final Provisions
 

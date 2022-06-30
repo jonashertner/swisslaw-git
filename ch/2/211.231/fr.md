@@ -4,11 +4,11 @@ title: "Loi fédérale du 18 juin 2004 sur le partenariat enregistré entre pers
 short: LPart
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/782"
 language: fr
-version: 2018-01-01
+version: 2022-07-01
 adopted: 2004-06-18
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/782/20180101/fr/xml/fedlex-data-admin-ch-eli-cc-2005-782-20180101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/782/20180101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/782/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-2005-782-20220701-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/782/20220701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/782/20180101/fr"
 
 (Loi sur le partenariat, LPart)
 
-du 18 juin 2004 (Etat le 1<sup>er</sup> janvier 2018)
+du 18 juin 2004 (Etat le 1<sup>er</sup> juillet 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -28,92 +28,39 @@ arrête:
 [^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
 [^ingress-2]: [FF 2003 1192](https://fedlex.data.admin.ch/eli/fga/2003/194)
 
-## Chapitre 1 Dispositions générales
+## Chapitre 1**** Objet
+
+[^chap1-1]
+
+[^chap1-1]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 18 déc. 2020 (Mariage pour tous), en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 8127](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1223](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 #### Art. 1
 
-**Objet**
+La présente loi règle les effets, la dissolution et la conversion en mariage du partenariat enregistré entre deux personnes du même sexe conclu avant la dernière mise en vigueur partielle de la modification du 18 décembre 2020[^1-1] du code civil.
 
-La présente loi règle la conclusion, les effets et la dissolution du partenariat enregistré entre personnes du même sexe.
+[^1-1]: [RO 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747)
 
 #### Art. 2
 
-**Principe**
-
-<sup>1</sup> Deux personnes du même sexe peuvent faire enregistrer officiellement leur partenariat.
-
-<sup>2</sup> Elles s’engagent à mener une vie de couple et à assumer l’une envers l’autre les droits et les devoirs découlant du partenariat enregistré.
-
-<sup>3</sup> Leur état civil est: «lié par un partenariat enregistré».
+Abrogé
 
 ## Chapitre 2 Enregistrement du partenariat
 
-### Section 1 Conditions et empêchements
+### Section 1 …
 
-#### Art. 3
+#### Art. 3 et 4
 
-**Conditions**
+[^34-1]
 
-<sup>1</sup> Les deux partenaires doivent être âgés de 18 ans et capables de discernement.
+[^34-1]: Abrogés par l’annexe ch. 1 de la LF du 18 déc. 2020 (Mariage pour tous), avec effet au 1<sup>er</sup> juil. 2022 ([RO 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 8127](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1223](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
-<sup>2</sup> …[^3-1]
+### Section 2 …
 
-[^3-1]: Abrogé par le ch. 8 de l’annexe à la LF du 19 déc. 2008 (Protection de l’adulte, droit des personnes et droit de la filiation), avec effet au 1<sup>er</sup> janv. 2013 ([RO 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6635](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+#### Art. 5 à 8
 
-#### Art. 4
+[^58-1]
 
-**Empêchements**
-
-<sup>1</sup> Le partenariat enregistré est prohibé entre deux parents en ligne directe ainsi qu’entre frères et sœurs germains, consanguins ou utérins.
-
-<sup>2</sup> Chacun des partenaires doit établir qu’il n’est pas déjà lié par un partenariat enregistré ni marié.
-
-### Section 2 Procédure
-
-#### Art. 5
-
-**Demande**
-
-<sup>1</sup> La demande d’enregistrement est présentée auprès de l’office de l’état civil du domicile de l’un des partenaires.
-
-<sup>2</sup> Les partenaires comparaissent personnellement. S’ils démontrent que cela ne peut manifestement pas être exigé d’eux, l’exécution de la procédure préliminaire est admise en la forme écrite.
-
-<sup>3</sup> Les partenaires produisent les documents nécessaires. Ils déclarent personnellement auprès de l’office de l’état civil qu’ils remplissent les conditions de l’enregistrement du partenariat.
-
-<sup>4</sup> Les partenaires qui ne sont pas citoyens suisses doivent établir la légalité de leur séjour en Suisse au cours de la procédure préliminaire.[^5-1]
-
-[^5-1]: Introduit par le ch. II 2 de la LF du 12 juin 2009 (Empêcher les mariages en cas de séjour irrégulier), en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3057](https://fedlex.data.admin.ch/eli/oc/2010/411); [FF 2008 2247](https://fedlex.data.admin.ch/eli/fga/2008/517)[2261](https://fedlex.data.admin.ch/eli/fga/2008/519)).
-
-#### Art. 6
-
-**Examen**
-
-<sup>1</sup> L’office de l’état civil compétent vérifie que les conditions auxquelles est subordonné l’enregistrement sont remplies et qu’il n’existe pas de motif d’empêchement ni aucun élément permettant de conclure que la demande d’enregistrement n’est manifestement pas l’expression de la libre volonté des partenaires.[^6-1]
-
-<sup>2</sup> L’officier de l’état civil refuse son concours lorsque l’un des partenaires ne veut manifestement pas mener une vie commune, mais éluder les dispositions sur l’admission et le séjour des étrangers.[^6-2]
-
-<sup>3</sup> Dans les cas visés à l’al. 2, il entend les partenaires et peut demander des renseignements auprès d’autres autorités ou de tiers.[^6-3]
-
-<sup>4</sup> L’office de l’état civil communique à l’autorité compétente l’identité des partenaires qui n’ont pas établi la légalité de leur séjour en Suisse.[^6-4]
-
-[^6-1]: Nouvelle teneur selon le ch. I 4 de la LF du 15 juin 2012 concernant les mesures de lutte contre les mariages forcés, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [FF 2011 2045](https://fedlex.data.admin.ch/eli/fga/2011/292)).
-[^6-2]: Introduit par le ch. II 5 de l’annexe à la LF du 16 déc. 2005 sur les étrangers, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758); [FF 2002 3469](https://fedlex.data.admin.ch/eli/fga/2002/541)).
-[^6-3]: Introduit par le ch. II 5 de l’annexe à la LF du 16 déc. 2005 sur les étrangers, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758); [FF 2002 3469](https://fedlex.data.admin.ch/eli/fga/2002/541)).
-[^6-4]: Introduit par le ch. II 2 de la LF du 12 juin 2009 (Empêcher les mariages en cas de séjour irrégulier), en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3057](https://fedlex.data.admin.ch/eli/oc/2010/411); [FF 2008 2247](https://fedlex.data.admin.ch/eli/fga/2008/517)[2261](https://fedlex.data.admin.ch/eli/fga/2008/519)).
-
-#### Art. 7
-
-**Forme de l’enregistrement**
-
-<sup>1</sup> L’officier de l’état civil enregistre la déclaration de volonté des deux partenaires et leur fait signer l’acte de partenariat.
-
-<sup>2</sup> L’enregistrement du partenariat est public.
-
-#### Art. 8
-
-**Dispositions d’exécution**
-
-Le Conseil fédéral édicte les dispositions d’exécution.
+[^58-1]: Abrogés par l’annexe ch. 1 de la LF du 18 déc. 2020 (Mariage pour tous), avec effet au 1<sup>er</sup> juil. 2022 ([RO 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 8127](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1223](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 ### Section 3 Annulation
 
@@ -126,17 +73,20 @@ Le Conseil fédéral édicte les dispositions d’exécution.
 En tout temps, toute personne intéressée peut demander au juge l’annulation du partenariat enregistré si:
 
 - a. l’un des partenaires était incapable de discernement au moment de l’enregistrement du partenariat et qu’il n’a pas recouvré la capacité de discernement depuis lors;
-- b. le partenariat a été enregistré en violation de l’art. 4;
-- c.[^9-1] l’un des partenaires ne veut pas mener une vie commune, mais éluder les dispositions sur l’admission et le séjour des étrangers;
-- d.[^9-2] le partenariat a été enregistré en violation de la libre volonté d’un des partenaires;
-- e.[^9-3] l’un des partenaires est mineur, à moins que l’intérêt supérieur de ce dernier ne commande de maintenir le partenariat enregistré.
+- b.[^9-1] les partenaires sont parents en ligne directe ou s’ils sont frères ou sœurs germains, consanguins ou utérins;
+- b<sup>bis</sup>.[^9-2] au moment de l’enregistrement, l’un des partenaires était déjà lié par un partenariat enregistré ou marié et que le précédent partenariat enregistré ou mariage n’a pas été dissous;
+- c.[^9-3] l’un des partenaires ne veut pas mener une vie commune, mais éluder les dispositions sur l’admission et le séjour des étrangers;
+- d.[^9-4] le partenariat a été enregistré en violation de la libre volonté d’un des partenaires;
+- e.[^9-5] l’un des partenaires est mineur, à moins que l’intérêt supérieur de ce dernier ne commande de maintenir le partenariat enregistré.
 
-<sup>2</sup> Pendant la durée du partenariat enregistré, l’autorité compétente du domicile des partenaires intente d’office l’action en annulation. Dans la mesure où cela est compatible avec leurs attributions, les autorités fédérales ou cantonales informent l’autorité compétente pour intenter action lorsqu’elles ont des raisons de croire qu’un partenariat enregistré est entaché d’un vice entraînant la nullité.[^9-4]
+<sup>2</sup> Pendant la durée du partenariat enregistré, l’autorité compétente du domicile des partenaires intente d’office l’action en annulation. Dans la mesure où cela est compatible avec leurs attributions, les autorités fédérales ou cantonales informent l’autorité compétente pour intenter action lorsqu’elles ont des raisons de croire qu’un partenariat enregistré est entaché d’un vice entraînant la nullité.[^9-6]
 
-[^9-1]: Introduite par le ch. II 5 de l’annexe à la LF du 16 déc. 2005 sur les étrangers, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758); [FF 2002 3469](https://fedlex.data.admin.ch/eli/fga/2002/541)).
-[^9-2]: Introduite par le ch. I 4 de la LF du 15 juin 2012 concernant les mesures de lutte contre les mariages forcés, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [FF 2011 2045](https://fedlex.data.admin.ch/eli/fga/2011/292)).
-[^9-3]: Introduite par le ch. I 4 de la LF du 15 juin 2012 concernant les mesures de lutte contre les mariages forcés, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [FF 2011 2045](https://fedlex.data.admin.ch/eli/fga/2011/292)).
-[^9-4]: Phrase introduite par le ch. I 4 de la LF du 15 juin 2012 concernant les mesures de lutte contre les mariages forcés, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [FF 2011 2045](https://fedlex.data.admin.ch/eli/fga/2011/292)).
+[^9-1]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 18 déc. 2020 (Mariage pour tous), en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 8127](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1223](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+[^9-2]: Introduite par l’annexe ch. 1 de la LF du 18 déc. 2020 (Mariage pour tous), en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 8127](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1223](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+[^9-3]: Introduite par le ch. II 5 de l’annexe à la LF du 16 déc. 2005 sur les étrangers, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758); [FF 2002 3469](https://fedlex.data.admin.ch/eli/fga/2002/541)).
+[^9-4]: Introduite par le ch. I 4 de la LF du 15 juin 2012 concernant les mesures de lutte contre les mariages forcés, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [FF 2011 2045](https://fedlex.data.admin.ch/eli/fga/2011/292)).
+[^9-5]: Introduite par le ch. I 4 de la LF du 15 juin 2012 concernant les mesures de lutte contre les mariages forcés, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [FF 2011 2045](https://fedlex.data.admin.ch/eli/fga/2011/292)).
+[^9-6]: Phrase introduite par le ch. I 4 de la LF du 15 juin 2012 concernant les mesures de lutte contre les mariages forcés, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [FF 2011 2045](https://fedlex.data.admin.ch/eli/fga/2011/292)).
 
 #### Art. 10
 
@@ -207,7 +157,7 @@ Les partenaires se doivent l’un à l’autre assistance et respect.
 
 Au-delà des besoins courants, un partenaire ne représente la communauté que:
 
-- a. lorsqu’il y a été autorisé par son partenaire ou par le juge; ou
+- a. lorsqu’il y a été autorisé par son partenaire ou par le juge, ou
 - b. lorsque l’affaire ne souffre aucun retard et que son partenaire est empêché de donner son consentement par la maladie, l’absence ou d’autres causes analogues.
 
 <sup>3</sup> Chaque partenaire s’oblige personnellement par ses actes et il oblige solidairement son partenaire en tant qu’il n’excède pas ses pouvoirs d’une manière reconnaissable pour les tiers.
@@ -232,7 +182,7 @@ Au-delà des besoins courants, un partenaire ne représente la communauté que:
 
 <sup>2</sup>
 
-A la requête d’un des partenaires, le juge:
+À la requête d’un des partenaires, le juge:
 
 - a. fixe la contribution pécuniaire à verser par l’un des partenaires à l’autre;
 - b. règle l’utilisation du logement et du mobilier de ménage.
@@ -262,7 +212,7 @@ A la requête d’un des partenaires, le juge:
 
 <sup>1</sup> Quiconque allègue qu’un bien appartient à l’un ou à l’autre des partenaires est tenu d’en établir la preuve.
 
-<sup>2</sup> A défaut de preuve, le bien est présumé appartenir en copropriété aux deux partenaires.
+<sup>2</sup> À défaut de preuve, le bien est présumé appartenir en copropriété aux deux partenaires.
 
 #### Art. 20
 
@@ -312,16 +262,16 @@ Lorsqu’un bien est en copropriété, un partenaire peut, à la dissolution du 
 
 <sup>4</sup> Les art. 185 et 193 CC sont applicables par analogie.
 
-[^25-1]: RS**210**
-[^25-2]: Nouvelle teneur de la phrase selon le ch. 1 de l’annexe à la LF du 17 juin 2016 (Droit de l’adoption), en vigueur depuis le 1er janv. 2018 (RO 2017 3699; FF 2015 835).
+[^25-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^25-2]: Nouvelle teneur de la phrase selon le ch. 1 de l’annexe à la LF du 17 juin 2016 (Droit de l’adoption), en vigueur depuis le 1er janv. 2018 ([RO 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 835](https://fedlex.data.admin.ch/eli/fga/2015/94)).
 
 ### Section 3 Effets particuliers
 
 #### Art. 26
 
-**Mariage**
+[^26-1]
 
-Une personne liée par un partenariat enregistré ne peut se marier.
+[^26-1]: Abrogé par l’annexe ch. 1 de la LF du 18 déc. 2020 (Mariage pour tous), avec effet au 1<sup>er</sup> juil. 2022 ([RO 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 8127](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1223](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 #### Art. 27
 
@@ -414,16 +364,44 @@ Les prestations de sortie de la prévoyance professionnelle acquises pendant la 
 
 <sup>3</sup> En outre, un partenaire peut demander une contribution d’entretien équitable lorsqu’il tombe dans le dénuement en raison de la dissolution du partenariat enregistré et que le versement de la contribution peut être raisonnablement imposé à son ex‑partenaire, compte tenu des circonstances.
 
-<sup>4</sup> Au surplus, les art. 125, al. 2 et 3, et 126 à 134 CC[^34-1] sont applicables par analogie.[^34-2]
+<sup>4</sup> Au surplus, les art. 125, al. 2 et 3, et 126 à 134 CC[^34-2] sont applicables par analogie.[^34-3]
 
-[^34-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^34-2]: Nouvelle teneur selon le ch. 1 de l’annexe à la LF du 17 juin 2016 (Droit de l’adoption), en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 835](https://fedlex.data.admin.ch/eli/fga/2015/94)).
+[^34-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^34-3]: Nouvelle teneur selon le ch. 1 de l’annexe à la LF du 17 juin 2016 (Droit de l’adoption), en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 835](https://fedlex.data.admin.ch/eli/fga/2015/94)).
+
+## Chapitre 4*a* Conversion du partenariat enregistré en mariage****
+
+[^chap4a-1]
+
+[^chap4a-1]: Introduit par l’annexe ch. 1 de la LF du 18 déc. 2020 (Mariage pour tous), en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 8127](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1223](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 #### Art. 35
 
-[^35-1]
+**Déclaration de conversion**[^35-1]
 
-[^35-1]: Abrogé par le ch. II 4 de l’annexe 1 au CPC du 19 déc. 2008, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6841](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+<sup>1</sup> Les partenaires peuvent en tout temps déclarer ensemble à tout officier de l’état civil vouloir convertir leur partenariat enregistré en mariage.
+
+<sup>2</sup> Ils doivent comparaître personnellement devant l’officier de l’état civil, établir leur identité et l’existence du partenariat enregistré au moyen de documents et signer la déclaration de conversion.
+
+<sup>3</sup> Sur demande, la déclaration de conversion est reçue dans la salle des mariages, en présence de deux témoins majeurs et capables de discernement.
+
+<sup>4</sup> Le Conseil fédéral édicte les dispositions d’exécution.
+
+[^35-1]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 18 déc. 2020 (Mariage pour tous), en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 8127](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1223](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+
+#### Art. 35a
+
+**Effets de la déclaration de conversion**[^35a-1]
+
+<sup>1</sup> Dès que la déclaration de conversion est effectuée, les partenaires sont considérés comme mariés.
+
+<sup>2</sup> Lorsqu’une disposition légale fait dépendre des effets juridiques de la durée du mariage, il est tenu compte de la durée du partenariat enregistré qui l’a précédé.
+
+<sup>3</sup> Le régime ordinaire de la participation aux acquêts est appliqué dès le moment de la conversion, à moins qu’une convention sur les biens ou un contrat de mariage n’en dispose autrement.
+
+<sup>4</sup> Une convention sur les biens ou un contrat de mariage reste valable même après la conversion.
+
+[^35a-1]: Introduit par l’annexe ch. 1 de la LF du 18 déc. 2020 (Mariage pour tous), en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 8127](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1223](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 ## Chapitre 5 Dispositions finales
 

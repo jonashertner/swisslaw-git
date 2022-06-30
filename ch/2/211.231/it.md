@@ -4,11 +4,11 @@ title: "Legge federale del 18 giugno 2004 sull'unione domestica registrata di co
 short: LUD
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/782"
 language: it
-version: 2018-01-01
+version: 2022-07-01
 adopted: 2004-06-18
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/782/20180101/it/xml/fedlex-data-admin-ch-eli-cc-2005-782-20180101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/782/20180101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/782/20220701/it/xml/fedlex-data-admin-ch-eli-cc-2005-782-20220701-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/782/20220701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/782/20180101/it"
 
 (Legge sull’unione domestica registrata, LUD)
 
-del 18 giugno 2004 (Stato 1° gennaio 2018) (Stato 1° gennaio 2018)
+del 18 giugno 2004 (Stato 1° luglio 2022) (Stato 1° luglio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -28,92 +28,39 @@ decreta:
 [^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
 [^ingress-2]: [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)
 
-## Capitolo 1: Disposizioni generali
+## Capitolo 1:**** Oggetto
+
+[^chap1-1]
+
+[^chap1-1]: Nuovo testo giusta l’all. n. 1 della LF del 18 dic. 2020 (Matrimonio per tutti), in vigore dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 #### Art. 1
 
-**Oggetto**
+La presente legge disciplina gli effetti e lo scioglimento nonché la conversione in matrimonio dell’unione domestica registrata contratta da coppie omosessuali prima dell’entrata in vigore integrale della modifica del Codice civile del 18 dicembre 2020[^1-1].
 
-La presente legge disciplina la costituzione, gli effetti e lo scioglimento dell’unione domestica registrata di coppie omosessuali.
+[^1-1]: [RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747)
 
 #### Art. 2
 
-**Principio**
-
-<sup>1</sup> Due persone dello stesso sesso possono far registrare ufficialmente la loro unione domestica.
-
-<sup>2</sup> In tal modo si uniscono in una comunione di vita con diritti e doveri reciproci.
-
-<sup>3</sup> Il loro stato civile è: «in unione domestica registrata».
+*Abrogato*
 
 ## Capitolo 2: Registrazione dell’unione domestica
 
-### Sezione 1: Condizioni e impedimenti
+### Sezione 1: ...
 
-#### Art. 3
+#### Art. 3 e 4
 
-**Condizioni**
+[^34-1]
 
-<sup>1</sup> Entrambi i partner devono aver compiuto il diciottesimo anno di età ed essere capaci di discernimento.
+[^34-1]: Abrogati dall’all. n. 1 della LF del 18 dic. 2020 (Matrimonio per tutti), con effetto dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
-<sup>2</sup> ...[^3-1]
+### Sezione 2: ...
 
-[^3-1]: Abrogato dal n. 8 dell’all. alla LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), con effetto dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+#### Art. 5 a 8
 
-#### Art. 4
+[^58-1]
 
-**Impedimenti**
-
-<sup>1</sup> È proibito contrarre un’unione domestica registrata tra parenti in linea retta e tra fratelli o sorelle germani, consanguinei o uterini.
-
-<sup>2</sup> Entrambi i partner devono provare di non essere già vincolati da un’unione domestica registrata o coniugati.
-
-### Sezione 2: Procedura
-
-#### Art. 5
-
-**Domanda**
-
-<sup>1</sup> La domanda di registrazione si fa all’ufficio dello stato civile del domicilio di uno dei partner.
-
-<sup>2</sup> I partner compaiono personalmente. Se provano che la comparsa personale non può essere manifestamente pretesa da loro, la procedura preliminare si svolge per scritto.
-
-<sup>3</sup> I partner producono i documenti necessari. Dichiarano personalmente all’ufficio dello stato civile di soddisfare le condizioni di registrazione dell’unione domestica.
-
-<sup>4</sup> I partner che non hanno la cittadinanza svizzera devono provare la legalità del loro soggiorno in Svizzera durante la procedura preliminare.[^5-1]
-
-[^5-1]: Introdotto dal n. II 2 della LF del 12 giu. 2009 (Impedire la conclusione di matrimoni in caso di soggiorno irregolare), in vigore dal 1° gen. 2011 ([RU 2010 3057](https://fedlex.data.admin.ch/eli/oc/2010/411); [FF 2008 2145](https://fedlex.data.admin.ch/eli/fga/2008/517)[2159](https://fedlex.data.admin.ch/eli/fga/2008/519)).
-
-#### Art. 6
-
-**Esame**
-
-<sup>1</sup> L’ufficio dello stato civile competente esamina se sono soddisfatte le condizioni di registrazione e se non sussistono impedimenti né circostanze secondo cui la domanda non corrisponde manifestamente alla libera volontà dei partner.[^6-1]
-
-<sup>2</sup> L’ufficiale dello stato civile si rifiuta di procedere se uno dei partner manifestamente non intende creare una comunione di vita bensì eludere le disposizioni relative all’ammissione e al soggiorno degli stranieri.[^6-2]
-
-<sup>3</sup> Nei casi di cui al capoverso 2, l’ufficiale dello stato civile sente i partner e può sollecitare informazioni da altre autorità o terzi.[^6-3]
-
-<sup>4</sup> L’ufficio dello stato civile comunica all’autorità competente l’identità dei partner che non hanno fornito la prova della legalità del loro soggiorno in Svizzera.[^6-4]
-
-[^6-1]: Nuovo testo giusta il n. I 4 della LF del 15 giu. 2012 sulle misure contro i matrimoni forzati, in vigore dal 1° lug. 2013 ([RU 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [FF 2011 1987](https://fedlex.data.admin.ch/eli/fga/2011/292)).
-[^6-2]: Introdotto dal n. II 5 dell’all. alla LF del 16 dic. 2005 sugli stranieri, in vigore dal 1° gen. 2008 ([RU 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758); [FF 2002 3327](https://fedlex.data.admin.ch/eli/fga/2002/541)).
-[^6-3]: Introdotto dal n. II 5 dell’all. alla LF del 16 dic. 2005 sugli stranieri, in vigore dal 1° gen. 2008 ([RU 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758); [FF 2002 3327](https://fedlex.data.admin.ch/eli/fga/2002/541)).
-[^6-4]: Introdotto dal n. II 2 della LF del 12 giu. 2009 (Impedire la conclusione di matrimoni in caso di soggiorno irregolare), in vigore dal 1° gen. 2011 ([RU 2010 3057](https://fedlex.data.admin.ch/eli/oc/2010/411); [FF 2008 2145](https://fedlex.data.admin.ch/eli/fga/2008/517)[2159](https://fedlex.data.admin.ch/eli/fga/2008/519)).
-
-#### Art. 7
-
-**Forma**
-
-<sup>1</sup> L’ufficiale dello stato civile registra la dichiarazione di volontà di entrambi i partner e fa loro firmare il certificato di unione.
-
-<sup>2</sup> La registrazione dell’unione domestica è pubblica.
-
-#### Art. 8
-
-**Disposizioni di esecuzione**
-
-Il Consiglio federale emana le disposizioni di esecuzione.
+[^58-1]: Abrogati dall’all. n. 1 della LF del 18 dic. 2020 (Matrimonio per tutti), con effetto dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 ### Sezione 3: Annullamento
 
@@ -126,18 +73,21 @@ Il Consiglio federale emana le disposizioni di esecuzione.
 Qualsiasi interessato può in ogni tempo domandare al giudice l’annullamento dell’unione domestica registrata se:
 
 - a. al momento della registrazione dell’unione domestica uno dei partner non era capace di discernimento e da allora non ha riacquistato la capacità di discernimento;
-- b. l’unione domestica è stata registrata in violazione dell’articolo 4;
-- c.[^9-1] uno dei partner non intendeva creare una comunione di vita bensì eludere le disposizioni relative all’ammissione e al soggiorno degli stranieri;
-- d.[^9-2] l’unione domestica registrata non corrispondeva alla libera volontà di uno dei partner;[^9-3]
-- e.[^9-4] uno dei partner è minorenne, salvo che interessi preponderanti dello stesso impongano il proseguimento dell’unione.
+- b.**[^9-1]** i partner sono parenti in linea retta oppure fratelli o sorelle germani, consanguinei o uterini;
+- b<sup>bis</sup>.[^9-2] al momento della costituzione dell’unione domestica registrata uno dei partner era già coniugato o vincolato da un’unione domestica registrata e il matrimonio o l’unione domestica registrata contratti in precedenza non sono stati sciolti;
+- c.[^9-3] uno dei partner non intendeva creare una comunione di vita bensì eludere le disposizioni relative all’ammissione e al soggiorno degli stranieri;
+- d.[^9-4] l’unione domestica registrata non corrispondeva alla libera volontà di uno dei partner;[^9-5]
+- e.[^9-6] uno dei partner è minorenne, salvo che interessi preponderanti dello stesso impongano il proseguimento dell’unione.
 
-<sup>2</sup> Durante l’unione domestica registrata l’azione di annullamento è promossa d’ufficio dall’autorità competente nel domicilio dei partner. Compatibilmente con i loro compiti, le autorità della Confederazione e dei Cantoni che hanno motivo di ritenere nulla un’unione domestica registrata ne informano l’autorità competente per promuovere l’azione.[^9-5]
+<sup>2</sup> Durante l’unione domestica registrata l’azione di annullamento è promossa d’ufficio dall’autorità competente nel domicilio dei partner. Compatibilmente con i loro compiti, le autorità della Confederazione e dei Cantoni che hanno motivo di ritenere nulla un’unione domestica registrata ne informano l’autorità competente per promuovere l’azione.[^9-7]
 
-[^9-1]: Introdotta dal n. II 5 dell’all. alla LF del 16 dic. 2005 sugli stranieri, in vigore dal 1° gen. 2008 ([RU 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758); [FF 2002 3327](https://fedlex.data.admin.ch/eli/fga/2002/541)).
-[^9-2]: Introdotta dal n. I 4 della LF del 15 giu. 2012 sulle misure contro i matrimoni forzati, in vigore dal 1° lug. 2013 ([RU 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [FF 2011 1987](https://fedlex.data.admin.ch/eli/fga/2011/292)).
-[^9-3]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^9-1]: Nuovo testo giusta l’all. n. 1 della LF del 18 dic. 2020 (Matrimonio per tutti), in vigore dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+[^9-2]: Introdotta dall’all. n. 1 della LF del 18 dic. 2020 (Matrimonio per tutti), in vigore dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+[^9-3]: Introdotta dal n. II 5 dell’all. alla LF del 16 dic. 2005 sugli stranieri, in vigore dal 1° gen. 2008 ([RU 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758); [FF 2002 3327](https://fedlex.data.admin.ch/eli/fga/2002/541)).
 [^9-4]: Introdotta dal n. I 4 della LF del 15 giu. 2012 sulle misure contro i matrimoni forzati, in vigore dal 1° lug. 2013 ([RU 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [FF 2011 1987](https://fedlex.data.admin.ch/eli/fga/2011/292)).
-[^9-5]: Per. introdotto dal n. I 4 della LF del 15 giu. 2012 sulle misure contro i matrimoni forzati, in vigore dal 1° lug. 2013 ([RU 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [FF 2011 1987](https://fedlex.data.admin.ch/eli/fga/2011/292)).
+[^9-5]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^9-6]: Introdotta dal n. I 4 della LF del 15 giu. 2012 sulle misure contro i matrimoni forzati, in vigore dal 1° lug. 2013 ([RU 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [FF 2011 1987](https://fedlex.data.admin.ch/eli/fga/2011/292)).
+[^9-7]: Per. introdotto dal n. I 4 della LF del 15 giu. 2012 sulle misure contro i matrimoni forzati, in vigore dal 1° lug. 2013 ([RU 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [FF 2011 1987](https://fedlex.data.admin.ch/eli/fga/2011/292)).
 
 #### Art. 10
 
@@ -320,9 +270,9 @@ Se un bene è in comproprietà dei partner, il partner che provi d’avere un in
 
 #### Art. 26
 
-**Esclusione del matrimonio**
+[^26-1]
 
-Chi è vincolato da un’unione domestica registrata non può contrarre matrimonio.
+[^26-1]: Abrogato dall’all. n. 1 della LF del 18 dic. 2020 (Matrimonio per tutti), con effetto dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 #### Art. 27
 
@@ -415,16 +365,44 @@ Le prestazioni di uscita della previdenza professionale acquisite durante l’un
 
 <sup>3</sup> Un partner può inoltre esigere contributi di mantenimento adeguati se si trova in stato di bisogno in seguito allo scioglimento dell’unione domestica registrata e si può ragionevolmente pretendere dall’altro, dato l’insieme delle circostanze, il versamento di contributi di mantenimento.
 
-<sup>4</sup> Per il rimanente si applicano per analogia gli articoli 125 capoversi 2 e 3 nonché 126–134 CC[^34-1].[^34-2]
+<sup>4</sup> Per il rimanente si applicano per analogia gli articoli 125 capoversi 2 e 3 nonché 126–134 CC[^34-2].[^34-3]
 
-[^34-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^34-2]: Nuovo testo giusta il n. 1 dell’all. della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
+[^34-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^34-3]: Nuovo testo giusta il n. 1 dell’all. della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
+
+## Capitolo 4*a*: Conversione dell’unione domestica registrata in matrimonio****
+
+[^chap4a-1]
+
+[^chap4a-1]: Introdotto dall’all. n. 1 della LF del 18 dic. 2020 (Matrimonio per tutti), in vigore dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 #### Art. 35
 
-[^35-1]
+**Dichiarazione di conversione**[^35-1]
 
-[^35-1]: Abrogato dal n. II 4 dell’all. 1 al Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+<sup>1</sup> In qualunque momento, i partner possono dichiarare congiuntamente a qualsiasi ufficiale dello stato civile di voler convertire l’unione domestica registrata in matrimonio.
+
+<sup>2</sup> Devono comparire personalmente davanti all’ufficiale dello stato civile, provare la loro identità e l’esistenza dell’unione domestica registrata per mezzo di documenti, e firmare la dichiarazione di conversione.
+
+<sup>3</sup> Su domanda, la dichiarazione di conversione è resa in presenza di due testimoni maggiorenni e capaci di discernimento nel locale dei matrimoni.
+
+<sup>4</sup> Il Consiglio federale emana le disposizioni di esecuzione.
+
+[^35-1]: Nuovo testo giusta l’all. n. 1 della LF del 18 dic. 2020 (Matrimonio per tutti), in vigore dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+
+#### Art. 35a
+
+**Effetti della dichiarazione di conversione**[^35a-1]
+
+<sup>1</sup> Dal momento in cui la dichiarazione di conversione è firmata, i partner sono considerati coniugati.
+
+<sup>2</sup> Se gli effetti giuridici di una disposizione legale dipendono dalla durata del matrimonio, la durata dell’unione domestica registrata che lo precede è computata.
+
+<sup>3</sup> Il regime ordinario della partecipazione agli acquisti ha effetto dalla data della conversione, salvo che i partner abbiano disposto altrimenti per convenzione patrimoniale o matrimoniale.
+
+<sup>4</sup> Se è stata conclusa una convenzione patrimoniale o matrimoniale, essa resta valida anche dopo la conversione.
+
+[^35a-1]: Introdotto dal l’all. n. 1 della LF del 18 dic. 2020 (Matrimonio per tutti), in vigore dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 ## Capitolo 5: Disposizioni finali
 
