@@ -4,22 +4,22 @@ title: "Ordinaziun dals 4 da zercladur 2010 davart las linguas naziunalas e la c
 short: OLing
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/355"
 language: rm
-version: 2014-10-01
+version: 2022-07-01
 adopted: 2010-06-04
 in_force: 2010-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/355/20141001/rm/xml/fedlex-data-admin-ch-eli-cc-2010-355-20141001-rm-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/355/20141001/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/355/20220701/rm/xml/fedlex-data-admin-ch-eli-cc-2010-355-20220701-rm-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/355/20220701/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Ordinaziun davart las linguas naziunalas e la chapientscha tranter las cuminanzas linguisticas
 
-Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Confederaziun, numnadamain en la correspundenza cun persunas da lingua rumantscha. La translaziun d’in relasch federal serva a l’infurmaziun, n’ha dentant nagina validitad legala.
+Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Confederaziun, numnadamain en la correspundenza cun persunas da lingua rumantscha. La translaziun d’in decret federal serva a l’infurmaziun, n’ha dentant nagina validitad legala.
 
 (Ordinaziun da linguas, OLing)
 
-dals 4 da zercladur 2010 (versiun dal 1. d’october 2014)
+dals 4 da zercladur 2010 (versiun dal 1. da fanadur 2022)
 
 Il Cussegl federal svizzer,
 
@@ -42,7 +42,7 @@ Sch’ina unitad da l’administraziun federala prepara en ils cas tenor l’art
 - a. criteris u finamiras, che correspundan a las pretensiuns da la 2. part LLing, duain vegnir integrads en las finamiras strategicas u en ils instruments;
 - b. disposiziuns da la 2. part LLing duain vegnir decleradas sco applitgablas sin la via d’ordinaziun.
 
-[^1-1]: Versiun tenor la cifra I da l’O dals 27 d’avust 2014, en vigur dapi il 1. d’oct. 2014 ([AS 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504))
+[^1-1]: Versiun tenor la cifra I da l’O dals 27 d’avust 2014, en vigur dapi il 1. d’oct. 2014 ([AS 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
 
 #### Art. 2
 
@@ -50,23 +50,24 @@ Sch’ina unitad da l’administraziun federala prepara en ils cas tenor l’art
 
 ### (art. 7 LLing)
 
-<sup>1</sup> Las publicaziuns uffizialas ed ils ulteriurs texts da la Confederaziun ch’èn destinads a la publicitad ston vegnir formulads en tut las linguas uffizialas en moda adequata, clera e chapaivla sco er tenor ils princips dal tractament linguistic egual da las schlattainas.
+<sup>1</sup> Ils texts da la Confederaziun che duain vegnir publitgads ston vegnir formulads en tut las linguas uffizialas en moda adequata, clera e chapaivla sco er tenor ils princips dal tractament linguistic egual da las schlattainas.[^2-1]
 
-<sup>2</sup> Las unitads da l’administraziun federala prendan las mesiras organisatoricas ch’èn necessarias per che la qualitad redacziunala e formala dals texts saja garantida. La Chanzlia federala fixescha ils standards da qualitad redacziunals e formals en instrucziuns.[^2-1]
+<sup>2</sup> Las unitads da l’administraziun federala prendan las mesiras organisatoricas ch’èn necessarias per che la qualitad redacziunala e formala dals texts saja garantida. La Chanzlia federala fixescha ils standards da qualitad redacziunals e formals en instrucziuns.[^2-2]
 
-[^2-1]: Versiun tenor la cifra I da l’O dals 27 d’avust 2014, en vigur dapi il 1. d’oct. 2014 ([AS 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504))
+[^2-1]: Versiun tenor la cifra 3 da l’agiunta da l’O dals 10 da nov. 2021, en vigur dapi il 1. da fan. 2022 ([AS 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
+[^2-2]: Versiun tenor la cifra I da l’O dals 27 d’avust 2014, en vigur dapi il 1. d’oct. 2014 ([AS 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
 
 #### Art. 3
 
 **Rumantsch**
 
-### (Art. 11 LLing)
+### (art. 11 LLing)
 
 <sup>1</sup> La Chanzlia federala coordinescha entaifer l’administraziun federala las translaziuns en rumantsch e la publicaziun dals texts rumantschs.
 
 <sup>2</sup> Ils texts vegnan translatads en rumantsch en collavuraziun cun la Chanzlia chantunala dal Grischun.
 
-<sup>3</sup> La Chanzlia federala procura ch’ils relaschs translatads en rumantsch vegnian actualisads cuntinuadamain.
+<sup>3</sup> La Chanzlia federala procura ch’ils decrets translatads en rumantsch vegnian actualisads cuntinuadamain.
 
 <sup>4</sup> Ella è responsabla per la terminologia rumantscha entaifer l’administraziun federala e publitgescha questa terminologia en l’internet.
 
@@ -76,11 +77,11 @@ Sch’ina unitad da l’administraziun federala prepara en ils cas tenor l’art
 
 ### (art. 12 al. 2 LLing)
 
-<sup>1</sup> Las unitads da l'administraziun federala mettan a disposiziun ils cuntegns ils pli impurtants da lur paginas d'internet per tudestg, per franzos e per talian. Ils cuntegns ils pli impurtants vegnan determinads tenor l’impurtanza dal text e tenor il circul d’adressats.[^4-1]
+<sup>1</sup> Las unitads da l’administraziun federala mettan a disposiziun ils cuntegns ils pli impurtants da lur paginas d’internet per tudestg, per franzos e per talian. Ils cuntegns ils pli impurtants vegnan determinads tenor l’impurtanza dal text e tenor il circul d’adressats.[^4-1]
 
 <sup>2</sup> Tenor cunvegnientscha cun la Chanzlia federala porschan ellas ultra da quai tschertas paginas d’internet en rumantsch.
 
-[^4-1]: Versiun tenor la cifra I da l’O dals 27 d’avust 2014, en vigur dapi il 1. d’oct. 2014 ([AS 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504))
+[^4-1]: Versiun tenor la cifra I da l’O dals 27 d’avust 2014, en vigur dapi il 1. d’oct. 2014 ([AS 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
 
 #### Art. 5
 
@@ -93,7 +94,7 @@ Sch’ina unitad da l’administraziun federala prepara en ils cas tenor l’art
 Contracts internaziunals pon vegnir concludids en englais, sche:
 
 - a. igl è avant maun in’urgenza speziala;
-- b. ina furma specifica da la cunvegna pretenda quai; u sche
+- b. ina furma specifica da la cunvegna pretenda quai; u
 - c. quai correspunda a la pratica usitada da las relaziuns internaziunalas da la Svizra en il sectur respectiv.
 
 <sup>2</sup> Ina versiun originala en ina da las linguas uffizialas duai dentant vegnir prendida en mira.
@@ -111,10 +112,10 @@ Contracts internaziunals pon vegnir concludids en englais, sche:
 Els garanteschan oravant tut che tut ils emploiads, independentamain dal fatg, da tge cuminanza linguistica ch’els fan part:
 
 - a. pon tscherner, sch’els vulan lavurar per tudestg, per franzos u per talian, nun che motivs impurtants pretendian da lavurar en in’autra lingua che quella tschernida;
-- b. pon sa participar – correspundentamain a lur qualificaziuns – da medema maniera al process da decisiun;
+- b. pon sa participar – correspundentamain a qualificaziuns – da medema maniera al process da decisiun;
 - c. han las medemas schanzas da svilup e da far carriera.
 
-[^6-1]: Versiun tenor la cifra I da l’O dals 27 d’avust 2014, en vigur dapi il 1. d’oct. 2014 ([AS 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504))
+[^6-1]: Versiun tenor la cifra I da l’O dals 27 d’avust 2014, en vigur dapi il 1. d’oct. 2014 ([AS 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
 [^6-2]: [SR 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
 
 #### Art. 7
@@ -123,20 +124,20 @@ Els garanteschan oravant tut che tut ils emploiads, independentamain dal fatg, d
 
 ### (art. 20 al. 2 LLing ed art. 4 al. 2 lit. e LPers)
 
-<sup>1</sup>
+<sup>1</sup> Per la represchentanza da las cuminanzas linguisticas en las unitads administrativas tenor l’artitgel 1 alinea 1 literas a e b LPers[^7-2], cun excepziun da quellas che appartegnan al sectur da las scolas politecnicas federalas, en spezial er en las funcziuns da cader, duain vegnir prendidas en mira las suandantas procentualas:
 
-Per la represchentanza da las cuminanzas linguisticas en las unitads administrativas tenor l’artitgel 1 alinea 1 literas a e b LPers[^7-2], cun excepziun da quellas che appartegnan al sectur da las scolas politecnicas federalas, en spezial er en las funcziuns da cader, duain vegnir prendidas en mira las suandantas procentualas:
-
-- a. tudestg: 68,5–70,5 %
-- b. franzos: 21,5-23,5 %
-- c. talian: 6,5– 8,5 %
-- d. rumantsch: 0,5– 1,0 %
+<table>
+<tr><td>[tab] a.</td><td>[tab] tudestg:</td><td>[tab] 68,5–70,5 %</td></tr>
+<tr><td>[tab] b.</td><td>[tab] franzos:</td><td>[tab] 21,5–23,5 %</td></tr>
+<tr><td>[tab] c.</td><td>[tab] talian:</td><td>[tab] 6,5– 8,5 %</td></tr>
+<tr><td>[tab] d.</td><td>[tab] rumantsch:</td><td>[tab] 0,5– 1,0 %</td></tr>
+</table>
 
 <sup>2</sup> Las represchentanzas da las cuminanzas linguisticas latinas pon esser pli grondas che las procentualas tenor l’alinea 1 literas b–d.
 
 <sup>3</sup> Sche plazzas da lavur vegnan occupadas, garantescha il patrun tenor l’alinea 1 che persunas da tut las cuminanzas linguisticas vegnan resguardadas tar la preselecziun ed envidadas al discurs da preschentaziun, sch’ellas adempleschan ils criteris objectivs. Sche las qualificaziuns èn equivalentas, vegnan engaschadas en emprima lingia persunas che appartegnan ad ina cuminanza linguistica ch’è sutrepreschentada en l’unitad administrativa respectiva; quai vala particularmain per plazzas da cader.
 
-[^7-1]: Versiun tenor la cifra I da l’O dals 27 d’avust 2014, en vigur dapi il 1. d’oct. 2014 ([AS 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504))
+[^7-1]: Versiun tenor la cifra I da l’O dals 27 d’avust 2014, en vigur dapi il 1. d’oct. 2014 ([AS 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
 [^7-2]: [SR 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
 
 #### Art. 8
@@ -159,7 +160,7 @@ Ils patruns tenor l’artitgel 6 alinea 1 procuran che:
 
 <sup>4</sup> La scolaziun ch’è necessaria per cuntanscher las enconuschientschas linguisticas vala sco scolaziun e furmaziun supplementara che s’orientescha al basegn tenor l’artitgel 4 alinea 4 OPers[^8-2].
 
-[^8-1]: Versiun tenor la cifra I da l’O dals 27 d’avust 2014, en vigur dapi il 1. d’oct. 2014 ([AS 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504))
+[^8-1]: Versiun tenor la cifra I da l’O dals 27 d’avust 2014, en vigur dapi il 1. d’oct. 2014 ([AS 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
 [^8-2]: [SR 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
 
 #### Art. 8a
@@ -170,15 +171,15 @@ Ils patruns tenor l’artitgel 6 alinea 1 procuran che:
 
 Il Cussegl federal fixescha per mintga perioda da legislatura las finamiras strategicas en connex cun la promoziun da la plurilinguitad.
 
-[^8a-1]: Integrà tras la cifra I da l’O dals 27 d’avust 2014, en vigur dapi il 1. d’oct. 2014 ([AS 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504))
+[^8a-1]: Integrà tras la cifra I da l’O dals 27 d’avust 2014, en vigur dapi il 1. d’oct. 2014 ([AS 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
 
 #### Art. 8b
 
-**Delegada federala u delegà federal per la plurilinguitad**[^8b-1]
+**Delegà federal per la plurilinguitad**[^8b-1]
 
 ### (art. 20 al. 1 e 2 LLing)
 
-<sup>1</sup> Il Cussegl federal nominescha in delegà per la plurilinguitad (delegada federala per la plurilinguitad). El è attribuì al Departament federal da finanzas.
+<sup>1</sup> Il Cussegl federal nominescha in delegà per la plurilinguitad (delegà federal per la plurilinguitad). El è attribuì al Departament federal da finanzas.
 
 <sup>2</sup>
 
@@ -191,7 +192,7 @@ El ha en spezial las suandantas incumbensas:
 - e. infurmar regularmain la publicitad en il sectur da la plurilinguitad;
 - f. represchentar la Confederaziun en gremis naziunals che s’occupan da la promoziun da la plurilinguitad.
 
-[^8b-1]: Integrà tras la cifra I da l’O dals 27 d’avust 2014, en vigur dapi il 1. d’oct. 2014 ([AS 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504))
+[^8b-1]: Integrà tras la cifra I da l’O dals 27 d’avust 2014, en vigur dapi il 1. d’oct. 2014 ([AS 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
 
 #### Art. 8c
 
@@ -203,7 +204,7 @@ El ha en spezial las suandantas incumbensas:
 
 <sup>2</sup> Las unitads administrativas èn responsablas per realisar il catalog da mesiras e mettan a disposiziun las resursas finanzialas e persunalas ch’èn necessarias per promover la plurilinguitad.
 
-[^8c-1]: Integrà tras la cifra I da l’O dals 27 d’avust 2014, en vigur dapi il 1. d’oct. 2014 ([AS 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504))
+[^8c-1]: Integrà tras la cifra I da l’O dals 27 d’avust 2014, en vigur dapi il 1. d’oct. 2014 ([AS 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
 
 #### Art. 8d
 
@@ -221,7 +222,7 @@ El ha en spezial las suandantas incumbensas:
 
 <sup>5</sup> Sch’in departament u sche la Chanzlia federala n’ademplescha evidentamain betg las directivas per promover la plurilinguitad, po il delegà federal per la plurilinguitad far recumandaziuns al departament pertutgà u a la Chanzlia federala.
 
-[^8d-1]: Integrà tras la cifra I da l’O dals 27 d’avust 2014, en vigur dapi il 1. d’oct. 2014 ([AS 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504))
+[^8d-1]: Integrà tras la cifra I da l’O dals 27 d’avust 2014, en vigur dapi il 1. d’oct. 2014 ([AS 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
 
 ## 2. part Promoziun da la chapientscha e dal barat tranter las cuminanzas linguisticas
 
@@ -233,12 +234,20 @@ El ha en spezial las suandantas incumbensas:
 
 <sup>1</sup>
 
-Per promover il barat scolastic vegnan concedids agids finanzials ad organisaziuns per:
+Per promover il barat scolastic vegnan concedids agids finanzials ad organisaziuns che adempleschan las suandantas premissas:
+
+- a. ellas ston avair l’intent da promover il barat naziunal ed internaziunal da scolars sco er da persunas d’instrucziun da tut ils stgalims da scola, cun la finamira da meglierar las cumpetenzas en las linguas naziunalas;
+- b. ellas ston esser vegnidas fundadas dals chantuns;
+- c. ellas ston esser activas en tut la Svizra.
+
+<sup>2</sup>
+
+Ils agids finanzials vegnan conceds per:
 
 - a. prestaziuns da basa en il sectur naziunal e regiunal;
 - b. projects d’impurtanza naziunala che han l’intent da promover la chapientscha e la diversitad linguistica.
 
-<sup>2</sup>
+<sup>3</sup>
 
 Prestaziuns da basa èn en spezial:
 
@@ -248,14 +257,6 @@ Prestaziuns da basa èn en spezial:
 - d. la realisaziun e l’evaluaziun d’agens projects da barat;
 - e. publicaziuns, l’elavuraziun da meds auxiliars didactics e documentaziuns;
 - f. la scolaziun e la furmaziun supplementara da las persunas che lavuran per il barat en scola ed en l’administraziun.
-
-<sup>3</sup>
-
-Las organisaziuns ston ademplir las suandantas premissas:
-
-- a. ellas ston avair l’intent da promover il barat naziunal ed internaziunal da scolaras e da scolars sco er da persunas d’instrucziun da tut ils stgalims da scola, cun la finamira da meglierar las cumpetenzas en las linguas naziunalas;
-- b. ellas ston esser vegnidas fundadas dals chantuns;
-- c. ellas ston esser activas en tut la Svizra.
 
 #### Art. 10
 
@@ -319,7 +320,7 @@ Per survegnir agids finanzials sto l’Institut:
 
 Agids finanzials pon vegnir concedids ad agenturas da novitads d’impurtanza naziunala, sch’ellas:
 
-- a. han ed adempleschan ina incumbensa da la politica da chapientscha;
+- a. han ed adempleschan ina incumbensa da la politica da chapientscha; e
 - b. rapportan da temas da la politica da linguas, da cultura e da chapientscha da tut las quatter regiuns linguisticas.
 
 <sup>2</sup> In’agentura da novitads è d’impurtanza naziunala, sch’ella publitgescha regularmain infurmaziuns en almain trais linguas naziunalas.
@@ -384,11 +385,11 @@ Las organisaziuns e las instituziuns ston ademplir las suandantas premissas:
 - d. ellas ston esser politicamain e confessiunalmain neutralas;
 - e. ellas ston ademplir ina incumbensa ch’è relevanta per la politica da linguas e da chapientscha e lur activitad sto avair ina impurtanza en l’entira Svizra.
 
-<sup>3</sup> Organisaziuns ed instituziuns che survegnan agids finanzials tenor l’artitgel 14 n’han nagin dretg sin agids finanzials per translaziuns.
+<sup>3</sup> Organisaziuns ed instituziuns che survegnan agids finanzials tenor l’artitgel 14 n’han nagin dretg d’agids finanzials per translaziuns.
 
 ## 3. part Sustegn dals chantuns plurilings
 
-### (art. 21 LLing)
+(art. 21 LLing)
 
 #### Art. 17
 
@@ -397,7 +398,7 @@ Las organisaziuns e las instituziuns ston ademplir las suandantas premissas:
 Cun l’intent da promover la plurilinguitad en las autoritads chantunalas ed en las administraziuns vegnan concedids als chantuns plurilings agids finanzials per ademplir lur incumbensas particularas, e quai en spezial a favur:
 
 - a. d’incumbensas da translaziun e da terminologia per la communicaziun entaifer ed ordaifer il chantun;
-- b. da la scolaziun e da la furmaziun supplementara linguistica e professiunala da las emploiadas e dals emploiads chantunals en dumondas da la plurilinguitad;
+- b. da la scolaziun e da la furmaziun supplementara linguistica e professiunala dals emploiads chantunals en dumondas da la plurilinguitad;
 - c. da projects che han l’intent da sensibilisar la publicitad per la plurilinguitad.
 
 <sup>2</sup>
@@ -408,7 +409,7 @@ Cun l’intent da promover la plurilinguitad en il sectur da la furmaziun vegnan
 - b. da la scolaziun e da la furmaziun supplementara linguistica da las persunas d’instrucziun;
 - c. da projects che han l’intent d’intermediar ina lingua naziunala sur l’instrucziun bilingua sin tut ils stgalims da furmaziun;
 - d. da projects che han l’intent da laschar frequentar l’instrucziun en in’autra lingua uffiziala dal chantun sin tut ils stgalims da furmaziun;
-- e. da projects che han l’intent da promover il e­learning.
+- e. da projects che han l’intent da promover il e‑learning.
 
 ## 4. part Mantegniment e promoziun da la lingua e cultura rumantscha e taliana en il chantun Grischun
 
@@ -500,13 +501,10 @@ Questas agenturas da novitads ston en spezial:
 
 Cun l’intent da mantegnair e da promover la lingua e cultura taliana vegnan concedids al chantun Tessin agids finanzials en spezial a favur:
 
-dal sustegn da programs e da projects da perscrutaziun en il sectur scientific;
-
-dal sustegn da programs e da projects en il sectur linguistic e politic-cultural;
-
-publicaziuns d’impurtanza speziala per la promoziun da la lingua e cultura taliana;
-
-occurrenzas davart la lingua e cultura taliana.
+- a. dal sustegn da programs e da projects da perscrutaziun en il sectur scientific;
+- b. dal sustegn da programs e da projects en il sectur linguistic e politic-cultural;
+- c. da publicaziuns d’impurtanza speziala per la promoziun da la lingua e cultura taliana;
+- d. d’occurrenzas davart la lingua e cultura taliana.
 
 #### Art. 23
 
@@ -546,24 +544,24 @@ Al chantun Tessin vegnan concedids agids finanzials per translatar ovras en tali
 
 **Dumondas**
 
-<sup>1</sup> Dumondas per agids finanzials tenor ils artitgels 9 e 12 fin 25 ston vegnir inoltradas a l’UFC.
+<sup>1</sup> Dumondas per agids finanzials tenor ils artitgels 9 e 13–25 ston vegnir inoltradas al UFC.
 
-<sup>2</sup> Dumondas per agids finanzials tenor ils artitgels 10 ed 11 ston vegnir inoltradas a la Conferenza svizra da las directuras e dals directurs chantunals da l’educaziun publica (CDEP). La CDEP trametta vinavant las dumondas a l’UFC, agiuntond ina recumandaziun.
+<sup>2</sup> Dumondas per agids finanzials tenor ils artitgels 10 ed 11 ston vegnir inoltradas a la Conferenza svizra dals directurs chantunals da l’educaziun publica (CDEP). La CDEP trametta vinavant las dumondas al UFC, agiuntond ina recumandaziun.
 
 <sup>3</sup> Las dumondas ston vegnir inoltradas mintg’onn, nun che la cunvegna da prestaziun prevesia insatge auter.
 
 <sup>4</sup>
 
-Ellas ston vegnir inoltradas fin als suandants termins:
+Ellas ston vegnir inoltradas fin ils suandants termins:
 
-- a. dumondas tenor ils artitgels 9 fin 11 e 13 fin 16: fin ils 31 da mars da l’onn, per il qual l’agid finanzial vegn dumandà;
-- b. dumondas tenor ils artitgels 17 fin 25: fin ils 31 da december da l’onn precedent.
+- a. dumondas tenor ils artitgels 9–11 e 13–16: fin ils 31 da mars da l’onn, per il qual l’agid finanzial vegn dumandà;
+- b. dumondas tenor ils artitgels 17–25: fin ils 31 da december da l’onn precedent.
 
 #### Art. 27
 
-**Procedura**
+**Procedura e meds legals**
 
-<sup>1</sup> Davart las dumondas per agids finanzials decida l’UFC.
+<sup>1</sup> 1 Davart las dumondas per agids finanzials decida il UFC.
 
 <sup>2</sup> La procedura ed ils meds legals sa drizzan tenor las disposiziuns generalas da la Lescha federala davart l’organisaziun giudiziala.
 
@@ -571,7 +569,7 @@ Ellas ston vegnir inoltradas fin als suandants termins:
 
 **Urden da prioritads**
 
-<sup>1</sup> Tut ils agids finanzials vegnan concedids en il rom dals credits permess.
+<sup>1</sup> Ils agids finanzials vegnan concedids en il rom dals credits permess.
 
 <sup>2</sup> Sch’ils agids finanzials dumandads surpassan ils meds disponibels, fa il Departament federal da l’intern – sa basond sin l’artitgel 13 alinea 2 da la Lescha da subvenziuns dals 5 d’october 1990[^28-1] – in urden da prioritads, tenor il qual las dumondas vegnan giuditgadas.
 
@@ -581,7 +579,7 @@ Ellas ston vegnir inoltradas fin als suandants termins:
 
 **Pajament dals agids finanzials**
 
-<sup>1</sup> Ils agids finanzials tenor ils artitgels 9 e 12 fin 25 vegnan pajads da l’UFC.
+<sup>1</sup> Ils agids finanzials tenor ils artitgels 9 e 12–25 vegnan pajads dal UFC.
 
 <sup>2</sup> Ils agids finanzials tenor ils artitgels 10 ed 11 vegnan pajads da la CDEP.
 
@@ -603,11 +601,11 @@ Agiunta
 
 (art. 30)
 
-## Aboliziun e Midada dal dretg vertent
+## Aboliziun e midada dal dretg vertent
 
 I
 
-L’ordinaziun dals 26 da zercladur 1996[^annexu1-lvlu1-1] davart agids finanzials per mantegnair e promover la lingua e cultura rumantscha e taliana vegn abolida.
+L’Ordinaziun dals 26 da zercladur 1996[^annexu1-lvlu1-1] davart agids finanzials per mantegnair e promover la lingua e cultura rumantscha e taliana vegn abolida.
 
 II
 
@@ -616,4 +614,4 @@ Las ordinaziuns qua sutvart vegnan midadas sco suonda:
 ...[^annexu1-lvlu1-2]
 
 [^annexu1-lvlu1-1]: [[AS 1996 2283](https://fedlex.data.admin.ch/eli/oc/1996/2283_2283_2283)]
-[^annexu1-lvlu1-2]: Ins po consultar las midadas en il [AS 2010 2653](https://fedlex.data.admin.ch/eli/oc/2010/355)...
+[^annexu1-lvlu1-2]: Las midadas pon vegnir consultadas en la [AS 2010 2653](https://fedlex.data.admin.ch/eli/oc/2010/355).

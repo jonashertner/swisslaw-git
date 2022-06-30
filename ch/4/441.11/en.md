@@ -4,11 +4,11 @@ title: "Ordinance of 4 June 2010 on the National Languages and Understanding bet
 short: LangO
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/355"
 language: en
-version: 2014-10-01
+version: 2022-07-01
 adopted: 2010-06-04
 in_force: 2010-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/355/20141001/en/xml/fedlex-data-admin-ch-eli-cc-2010-355-20141001-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/355/20141001/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/355/20220701/en/xml/fedlex-data-admin-ch-eli-cc-2010-355-20220701-en-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/355/20220701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Languages Ordinance, LangO)
 
-of 4 June 2010 (Status as of 1 October 2014)
+of 4 June 2010 (Status as of 1 July 2022)
 
 The Swiss Federal Council,
 
@@ -50,11 +50,12 @@ Whenever, in the cases described in Article 4 paragraph 2 of the LangA, a unit o
 
 ### (Art. 7 LangA)
 
-<sup>1</sup> Official publications and other federal texts written for a public readership must be drawn up in all of the official languages in an appropriate, clear and citizen-friendly manner and must comply with the principles of gender equality in language.
+<sup>1</sup> The federal texts that are published must be drawn up in all of the official languages in an appropriate, clear and citizen-friendly manner and must comply with the principles of gender equality in language.[^2-1]
 
-<sup>2</sup> The units of the Federal Administration shall take the necessary organisational measures to guarantee the quality of the drafting and form of texts. The Federal Chancellery shall draw up instructions establishing quality standards for the drafting and form of texts.[^2-1]
+<sup>2</sup> The units of the Federal Administration shall take the necessary organisational measures to guarantee the quality of the drafting and form of texts. The Federal Chancellery shall draw up instructions establishing quality standards for the drafting and form of texts.[^2-2]
 
-[^2-1]: Amended by No I of the O of 27 Aug. 2014, in effect since 1 Oct. 2014 ([AS 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
+[^2-1]: Amended by Annex No 3 of the O of 10 Nov. 2021, in force since 1 July 2022 ([AS 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
+[^2-2]: Amended by No I of the O of 27 Aug. 2014, in effect since 1 Oct. 2014 ([AS 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
 
 #### Art. 3
 

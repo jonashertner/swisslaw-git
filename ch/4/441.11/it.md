@@ -4,11 +4,11 @@ title: "Ordinanza del 4 giugno 2010 sulle lingue nazionali e la comprensione tra
 short: OLing
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/355"
 language: it
-version: 2014-10-01
+version: 2022-07-01
 adopted: 2010-06-04
 in_force: 2010-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/355/20141001/it/xml/fedlex-data-admin-ch-eli-cc-2010-355-20141001-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/355/20141001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/355/20220701/it/xml/fedlex-data-admin-ch-eli-cc-2010-355-20220701-it-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/355/20220701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/355/20141001/it"
 
 (Ordinanza sulle lingue, OLing)
 
-del 4 giugno 2010 (Stato 1° ottobre 2014)
+del 4 giugno 2010 (Stato 1° luglio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -48,11 +48,12 @@ L’unità dell’Amministrazione federale che, nei casi di cui all’articolo 4
 
 ### (art. 7 LLing)
 
-<sup>1</sup> Le pubblicazioni ufficiali e gli altri testi della Confederazione destinati al pubblico sono redatti, in tutte le lingue ufficiali, in modo appropriato, chiaro e conforme alle esigenze dei destinatari, nonché secondo i principi della parità linguistica tra i sessi.
+<sup>1</sup> I testi della Confederazione che devono essere pubblicati sono redatti, in tutte le lingue ufficiali, in modo appropriato, chiaro e conforme alle esigenze dei destinatari, nonché secondo i principi della parità linguistica tra i sessi.[^2-1]
 
-<sup>2</sup> Le unità dell’Amministrazione federale adottano le misure organizzative necessarie per garantire la qualità redazionale e formale dei testi. I criteri qualitativi redazionali e formali sono disciplinati dalla Cancelleria federale mediante istruzioni.[^2-1]
+<sup>2</sup> Le unità dell’Amministrazione federale adottano le misure organizzative necessarie per garantire la qualità redazionale e formale dei testi. I criteri qualitativi redazionali e formali sono disciplinati dalla Cancelleria federale mediante istruzioni.[^2-2]
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del 27 ago. 2014, in vigore dal 1° ott. 2014 ([RU 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
+[^2-1]: Nuovo testo giusta l’all. n. 3 dell’O del 10 nov. 2021, in vigore dal 1° lug. 2022 ([RU 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
+[^2-2]: Nuovo testo giusta il n. I dell’O del 27 ago. 2014, in vigore dal 1° ott. 2014 ([RU 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
 
 #### Art. 3
 
@@ -121,14 +122,14 @@ Provvedono in particolare affinché gli impiegati, a prescindere dalla comunità
 
 ### (art. 20 cpv. 2 LLing e art. 4 cpv. 2 lett. e LPers)
 
-<sup>1</sup> La rappresentanza delle comunità linguistiche nelle unità dell’Amministrazione federale di cui all’articolo 1 capoverso 1 lettere a e b OPers[^7-2], escluso il settore dei Politecnici federali, deve perseguire le fasce percentuali seguenti, anche a livello di quadri:
+<sup>1</sup>
 
-<table>
-<tr><td>a. tedesco:</td><td>68,5–70,5 %</td></tr>
-<tr><td>b. francese:</td><td>21,5–23,5 %</td></tr>
-<tr><td>c. italiano:</td><td>6,5– 8,5 %</td></tr>
-<tr><td>d. romancio:</td><td>0,5– 1,0 %</td></tr>
-</table>
+La rappresentanza delle comunità linguistiche nelle unità dell’Amministrazione federale di cui all’articolo 1 capoverso 1 lettere a e b OPers[^7-2], escluso il settore dei Politecnici federali, deve perseguire le fasce percentuali seguenti, anche a livello di quadri:
+
+- a. tedesco: 68,5–70,5 %
+- b. francese: 21,5–23,5 %
+- c. italiano: 6,5– 8,5 %
+- d. romancio: 0,5– 1,0 %
 
 <sup>2</sup> Le rappresentanze delle comunità linguistiche latine possono superare il limite superiore delle fasce percentuali di cui al capoverso 1 lettere b–d.
 
@@ -611,4 +612,4 @@ Le ordinanze qui appresso sono modificate come segue:
 …[^annexu1-lvlu1-2]
 
 [^annexu1-lvlu1-1]: [[RU 1996 2283](https://fedlex.data.admin.ch/eli/oc/1996/2283_2283_2283)]
-[^annexu1-lvlu1-2]: Le modifiche possono essere consultate alla [RU 2010 2653](https://fedlex.data.admin.ch/eli/oc/2010/355).
+[^annexu1-lvlu1-2]: Le mod. possono essere consultate alla [RU 2010 2653](https://fedlex.data.admin.ch/eli/oc/2010/355).

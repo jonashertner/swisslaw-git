@@ -4,11 +4,11 @@ title: "Verordnung vom 4. Juni 2010 über die Landessprachen und die Verständig
 short: SpV
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/355"
 language: de
-version: 2014-10-01
+version: 2022-07-01
 adopted: 2010-06-04
 in_force: 2010-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/355/20141001/de/xml/fedlex-data-admin-ch-eli-cc-2010-355-20141001-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/355/20141001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/355/20220701/de/xml/fedlex-data-admin-ch-eli-cc-2010-355-20220701-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/355/20220701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/355/20141001/de"
 
 (Sprachenverordnung, SpV)
 
-vom 4. Juni 2010 (Stand am 1. Oktober 2014)
+vom 4. Juni 2010 (Stand am 1. Juli 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -48,11 +48,12 @@ Bereitet eine Einheit der Bundesverwaltung in den Fällen nach Artikel 4 Absatz 
 
 ### (Art. 7 SpG)
 
-<sup>1</sup> Die amtlichen Publikationen und die weiteren für die Öffentlichkeit bestimmten Texte des Bundes sind in allen Amtssprachen sachgerecht, klar und bürgerfreundlich sowie nach den Grundsätzen der sprachlichen Gleichbehandlung der Geschlechter zu formulieren.
+<sup>1</sup> Die zu veröffentlichenden Texte des Bundes sind in allen Amtssprachen sachgerecht, klar und bürgerfreundlich sowie nach den Grundsätzen der sprachlichen Gleichbehandlung der Geschlechter zu formulieren.[^2-1]
 
-<sup>2</sup> Die Einheiten der Bundesverwaltung treffen die organisatorischen Massnahmen, die notwendig sind, damit die redaktionelle und formale Qualität der Texte gewährleistet ist. Die Bundeskanzlei legt die redaktionellen und formalen Qualitätsstandards in Weisungen fest.[^2-1]
+<sup>2</sup> Die Einheiten der Bundesverwaltung treffen die organisatorischen Massnahmen, die notwendig sind, damit die redaktionelle und formale Qualität der Texte gewährleistet ist. Die Bundeskanzlei legt die redaktionellen und formalen Qualitätsstandards in Weisungen fest.[^2-2]
 
-[^2-1]: Fassung gemäss Ziff. I der V vom 27. Aug. 2014, in Kraft seit 1. Okt. 2014 ([AS 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
+[^2-1]: Fassung gemäss Anhang Ziff. 3 der V vom 10. Nov. 2021, in Kraft seit 1. Juli 2022 ([AS 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
+[^2-2]: Fassung gemäss Ziff. I der V vom 27. Aug. 2014, in Kraft seit 1. Okt. 2014 ([AS 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
 
 #### Art. 3
 
@@ -124,10 +125,10 @@ Sie stellen insbesondere sicher, dass alle Angestellten, unabhängig davon, welc
 <sup>1</sup> Bei der Vertretung der Sprachgemeinschaften in den Verwaltungseinheiten nach Artikel 1 Absatz 1 Buchstaben a und b BPV[^7-2], mit Ausnahme des ETH-Bereichs, namentlich auch in den Kaderfunktionen, sind folgende Bandbreiten anzustreben:
 
 <table>
-<tr><td></td><td>a.</td><td>Deutsch:</td><td>68,5–70,5 %</td></tr>
-<tr><td></td><td>b.</td><td>Französisch:</td><td>21,5–23,5 %</td></tr>
-<tr><td></td><td>c.</td><td>Italienisch:</td><td>6,5– 8,5 %</td></tr>
-<tr><td></td><td>d.</td><td>Rätoromanisch:</td><td>0,5– 1,0 %</td></tr>
+<tr><td>[tab] a.</td><td>[tab] Deutsch:</td><td>[tab] 68,5–70,5 %</td></tr>
+<tr><td>[tab] b.</td><td>[tab] Französisch:</td><td>[tab] 21,5–23,5 %</td></tr>
+<tr><td>[tab] c.</td><td>[tab] Italienisch:</td><td>[tab] 6,5– 8,5 %</td></tr>
+<tr><td>[tab] d.</td><td>[tab] Rätoromanisch:</td><td>[tab] 0,5– 1,0 %</td></tr>
 </table>
 
 <sup>2</sup> Die Vertretungen der lateinischen Sprachgemeinschaften können oberhalb der Bandbreiten nach Absatz 1 Buchstaben b–d liegen.

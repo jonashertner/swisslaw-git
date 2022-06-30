@@ -4,11 +4,11 @@ title: "Ordonnance du 4 juin 2010 sur les langues nationales et la compréhensio
 short: OLang
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/355"
 language: fr
-version: 2014-10-01
+version: 2022-07-01
 adopted: 2010-06-04
 in_force: 2010-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/355/20141001/fr/xml/fedlex-data-admin-ch-eli-cc-2010-355-20141001-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/355/20141001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/355/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-2010-355-20220701-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/355/20220701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/355/20141001/fr"
 
 (Ordonnance sur les langues, OLang)
 
-du 4 juin 2010 (Etat le 1<sup>er</sup> octobre 2014)
+du 4 juin 2010 (Etat le 1<sup>er</sup> juillet 2022)
 
 Le Conseil fédéral suisse,
 
@@ -48,11 +48,12 @@ Lorsque, dans les cas visés à l’art. 4, al. 2, LLC, une unité de l’admini
 
 ### (art. 7 LLC)
 
-<sup>1</sup> Les publications officielles et les textes fédéraux destinés au public doivent être formulés dans un langage adéquat, clair et compréhensible dans toutes les langues officielles et suivre les principes de la formulation non sexiste.
+<sup>1</sup> Les textes publiés par la Confédération sont formulés dans un langage adéquat, clair et compréhensible dans toutes les langues officielles; ils suivent les principes de la formulation non sexiste.[^2-1]
 
-<sup>2</sup> Les unités de l’administration fédérale prennent les mesures organisationnelles nécessaires pour assurer la qualité rédactionnelle et formelle des textes. La Chancellerie fédérale fixe les critères de qualité rédactionnels et formels dans des instructions.[^2-1]
+<sup>2</sup> Les unités de l’administration fédérale prennent les mesures organisationnelles nécessaires pour assurer la qualité rédactionnelle et formelle des textes. La Chancellerie fédérale fixe les critères de qualité rédactionnels et formels dans des instructions.[^2-2]
 
-[^2-1]: Nouvelle teneur selon le ch. I de l’O du 27 août 2014, en vigueur depuis le 1<sup>er</sup> oct. 2014 ([RO 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
+[^2-1]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
+[^2-2]: Nouvelle teneur selon le ch. I de l’O du 27 août 2014, en vigueur depuis le 1<sup>er</sup> oct. 2014 ([RO 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
 
 #### Art. 3
 
