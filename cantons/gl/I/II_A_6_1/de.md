@@ -4,13 +4,13 @@ number: II A/6/1
 title: Gesetz über das Personalwesen
 short: "Personalgesetz, PG"
 language: de
-version: 2018-07-01
-valid_until: 2022-06-30
-version_adopted: 2017-05-07
+version: 2022-07-01
+valid_until: 2022-12-31
+version_adopted: 2022-05-01
 adopted: 2002-05-05
 in_force: 2002-07-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/II-A.6.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/2225/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2310/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2225/pdf_file"
 
 (Personalgesetz, PG)
 
-Vom 05.05.2002 (Stand 01.07.2018)
+Vom 05.05.2002 (Stand 01.07.2022)
 
 (Erlassen von der Landsgemeinde am 5. Mai 2002)
 
@@ -163,7 +163,7 @@ Vom 05.05.2002 (Stand 01.07.2018)
 
 <sup>1</sup> Die Anstellung erfolgt unter dem Vorbehalt einer abweichenden Regelung unbefristet.
 
-<sup>2</sup> Die Staatsanwälte oder Staatsanwältinnen, die Jugendanwälte oder Jugendanwältinnen, die Gerichtsschreiber oder Gerichtsschreiberinnen sowie der Leiter oder die Leiterin der Finanzkontrolle werden auf die Amtsdauer angestellt.
+<sup>2</sup> Die Staatsanwälte oder Staatsanwältinnen, die Jugendanwälte oder Jugendanwältinnen sowie der Leiter oder die Leiterin der Finanzkontrolle werden auf die Amtsdauer angestellt.
 
 ## 3. Rechte des Personals
 
@@ -212,7 +212,7 @@ Vom 05.05.2002 (Stand 01.07.2018)
 
 <sup>1</sup> Bei Mutterschaft hat die Angestellte Anspruch auf 16 Wochen bezahlten Urlaub.
 
-<sup>2</sup> Der Lohnfortzahlungsanspruch richtet sich nach dem Beschäftigungsumfang bei Antritt des Mutterschaftsurlaubs.
+<sup>2</sup> Die Lohnfortzahlung richtet sich nach dem Erwerbseinkommen bei Beginn des Anspruchs.
 
 <sup>3</sup> Die Mutterschaftsentschädigung gemäss dem eidgenössischen Erwerbsersatzgesetz[^19-1] geht an den Kanton, soweit er die volle Gehaltszahlung erbringt.
 
@@ -220,11 +220,27 @@ Vom 05.05.2002 (Stand 01.07.2018)
 
 #### Art. 19a
 
-**Vaterschaftsurlaub**
+**Lohnfortzahlung bei Vaterschaft**
 
-<sup>1</sup> Bei Geburt eigener Kinder hat der Angestellte Anspruch auf fünf Tage bezahlten Urlaub.
+<sup>1</sup> Bei Geburt eigener Kinder hat der Angestellte Anspruch auf zwei Wochen bezahlten Urlaub.
 
-<sup>2</sup> Der Regierungsrat regelt dessen Bezug. Er kann weitere Formen des Vaterschaftsurlaubs vorsehen wie insbesondere einen Anspruch auf Bezug eines unbezahlten Urlaubs oder den Bezug des 13. Monatslohns in Form von bezahltem Urlaub.
+<sup>2</sup> …
+
+<sup>3</sup> Die Lohnfortzahlung richtet sich nach dem Erwerbseinkommen bei Beginn des Anspruchs.
+
+<sup>4</sup> Die Erwerbsausfallentschädigung gemäss dem eidgenössischen Erwerbsersatzgesetz geht an den Kanton, soweit er die volle Gehaltszahlung erbringt.
+
+#### Art. 19b
+
+**Lohnfortzahlung bei Betreuung kranker und verunfallter Kinder**
+
+<sup>1</sup> Für die Betreuung eines minderjährigen Kindes, das gemäss dem eidgenössischen Erwerbsersatzgesetz wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigt ist, hat die angestellte Person einen Anspruch auf höchstens 14 Wochen Betreuungsurlaub.
+
+<sup>2</sup> Sind beide Eltern erwerbstätig, so hat die angestellte Person Anspruch auf einen Betreuungsurlaub von höchstens sieben Wochen. Sie kann eine abweichende Aufteilung des Urlaubs beantragen.
+
+<sup>3</sup> Die Lohnfortzahlung richtet sich nach dem Erwerbseinkommen bei Beginn des Anspruchs.
+
+<sup>4</sup> Die Erwerbsausfallentschädigung gemäss dem eidgenössischen Erwerbsersatzgesetz geht an den Kanton, soweit er die volle Gehaltszahlung erbringt.
 
 #### Art. 20
 
@@ -312,7 +328,7 @@ Vom 05.05.2002 (Stand 01.07.2018)
 - g. die ordentlichen Staats- und Jugendanwältinnen und -anwälte;
 - h. die ordentlichen Gerichtsschreiberinnen und -schreiber;
 - i. die ständigen Mitglieder der Kindes- und Erwachsenenschutzbehörde;
-- j. der Präsident bzw. die Präsidentin sowie der Vizepräsident bzw. die Vizepräsidentin der Kantonalen Schlichtungsbehörde.
+- j. der Präsident bzw. die Präsidentin sowie der Vizepräsident bzw. die Vizepräsidentin der Schlichtungsbehörde.
 
 #### Art. 29
 
@@ -633,6 +649,16 @@ Vom 05.05.2002 (Stand 01.07.2018)
 <sup>1</sup> Für streitige personalrechtliche Verfahren, welche bei Inkrafttreten dieser Änderungen rechtshängig sind, findet das bisherige Recht bis zum rechtskräftigen Abschluss des Verfahrens Anwendung.
 
 <sup>2</sup> Im Übrigen gelten die Änderungen für alle bestehenden Anstellungsverhältnisse ab Inkrafttreten.
+
+#### Art. 58b
+
+**Übergangsbestimmung zu den Änderungen vom 1. Mai 2022**
+
+<sup>1</sup> Angestellten, die seit dem 1. Januar 2021 einen Vaterschaftsurlaub von zwei Wochen bezogen haben, wird die volle Lohnfortzahlung gemäss Artikel 19a ausgerichtet.
+
+<sup>2</sup> Angestellten, die seit dem 1. Juli 2021 einen Betreuungsurlaub bezogen haben, wird die volle Lohnfortzahlung gemäss Artikel 19b ausgerichtet.
+
+<sup>3</sup> Die volle Lohnfortzahlung setzt voraus, dass sich die angestellte Person im Zeitpunkt des Inkrafttretens der Änderungen vom 1. Mai 2022 in einem ungekündigten Arbeitsverhältnis zum Kanton befindet.
 
 #### Art. 59
 
