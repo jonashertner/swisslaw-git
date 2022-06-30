@@ -4,13 +4,13 @@ number: "850.1"
 title: Gesetz über die öffentliche Sozialhilfe
 short: "Sozialhilfegesetz, SHG"
 language: de
-version: 2018-01-01
-valid_until: 2022-06-30
-version_adopted: 2017-12-06
+version: 2022-07-01
+valid_until: 2023-03-31
+version_adopted: 2022-01-12
 adopted: 1984-03-29
 in_force: 1986-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/850.1"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2294/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2534/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ SHG
 
 (Sozialhilfegesetz, SHG)
 
-vom 29.03.1984 (Stand 01.01.2018)
+vom 29.03.1984 (Stand 01.07.2022)
 
 ## 1. Zweck und Organisation
 
@@ -57,7 +57,7 @@ vom 29.03.1984 (Stand 01.01.2018)
 
 <sup>1</sup> Zuständig ist die Wohnsitzgemeinde des Hilfsbedürftigen. Die Gemeinde des Aufenthaltsortes ist zuständig, solange die Wohnsitzgemeinde nicht feststeht oder wenn jemand unaufschiebbar der Hilfe bedarf.
 
-<sup>2</sup> Wohnsitz und Aufenthalt bestimmen sich nach den Vorschriften des Bundes über die Zuständigkeit für die Unterstützung Bedürftiger[^4-1].
+<sup>2</sup> Wohnsitz und Aufenthalt bestimmen sich nach den Vorschriften des Bundes über die Zuständigkeit für die Unterstützung Bedürftiger (ZUG)[^4-1].
 
 <sup>3</sup> Kantonale Amtsstelle gemäss dem Bundesgesetz über die Zuständigkeit für die Unterstützung Bedürftiger ist das Fürsorgeamt.
 
@@ -115,7 +115,7 @@ vom 29.03.1984 (Stand 01.01.2018)
 
 ## 2. Massnahmen
 
-### 2.1. Allgemeine Hilfeleistungen
+### 2.1.
 
 #### § 7
 
@@ -141,7 +141,70 @@ vom 29.03.1984 (Stand 01.01.2018)
 
 <sup>1</sup> Hilfsbedürftige können zur Aufnahme einer zumutbaren Arbeit auf dem freien Markt oder im Rahmen eines Beschäftigungsprogrammes verpflichtet werden. Bei Weigerung wird die Unterstützung gekürzt oder eingestellt.
 
-### 2.2. Besondere Massnahmen
+## 2a. Observationen
+
+#### § 8c
+
+**Zweck und Voraussetzungen**
+
+<sup>1</sup> Die Fürsorgebehörde kann die Observation einer Person veranlassen, die Leistungen nach diesem Gesetz bezieht oder beantragt, und dabei Bild- und Tonaufzeichnungen machen lassen, um die Bedürftigkeit im Grundsatz oder das Ausmass der Bedürftigkeit abzuklären.
+
+<sup>2</sup> Eine Observation ist zulässig, wenn
+
+- 1\. konkrete Anhaltspunkte bestehen, dass eine Person unrechtmässig Leistungen bezieht, zu erhalten versucht oder bezogen hat,
+- 2\. die Abklärungen sonst aussichtslos wären oder unverhältnismässig erschwert würden,
+- 3\. sie von einer fachlich qualifizierten Person durchgeführt wird, die über eine Bewilligung des zuständigen Departementes verfügt,
+- 4\. sich die observierte Person an einem allgemein zugänglichen Ort aufhält oder an einem Ort, der von einem allgemein zugänglichen Ort aus frei einsehbar ist.
+
+#### § 8d
+
+**Modalitäten**
+
+<sup>1</sup> Vor der Durchführung einer Observation legt die Fürsorgebehörde schriftlich den Auftrag für die observierende Person fest. Dieser enthält Angaben über:
+
+- 1\. die erforderlichen Personendaten der zu observierenden und der observierenden Person
+- 2\. eine Beschreibung der konkreten Anhaltspunkte und die diese begründenden Tatsachen
+- 3\. die Ergebnisse bereits erfolgter Abklärungen
+- 4\. eine klare Umschreibung der erforderlichen Abklärungen
+- 5\. die Dauer der Observation und die Anzahl Observationstage, wobei eine Observation an höchstens 30 Tagen innerhalb von sechs Monaten ab dem ersten Observationstag stattfinden darf. Dieser Zeitraum kann um bis zu sechs Monate verlängert werden, wenn hinreichende Gründe bestehen.
+
+<sup>2</sup> Erweist sich ein Auftrag während der Durchführung als sachlich zu eng gefasst, so ist der ursprüngliche Auftrag vorgängig zu weiteren Observationen durch die Fürsorgebehörde schriftlich zu erweitern.
+
+<sup>3</sup> Die observierende Person erstattet der Fürsorgebehörde Bericht und übergibt ihr das Observationsmaterial vollständig. Sie darf vom Observationsmaterial keine Kopien aufbewahren und die gesammelten Informationen ausschliesslich im Rahmen ihres Auftrags verwenden. Sie untersteht dem Amtsgeheimnis und dem Gesetz über den Datenschutz (TG DSG)[^8d-1].
+
+<sup>4</sup> Die Fürsorgebehörde kann zur Durchführung von Observationen Leistungsvereinbarungen abschliessen.
+
+[^8d-1]: RB [170.7](https://www.rechtsbuch.tg.ch/data/170.7/de)
+
+#### § 8e
+
+**Aktenführung und Einsichtsrecht**
+
+<sup>1</sup> Bestätigen sich die Anhaltspunkte, die zu einer Observation geführt haben, macht die Fürsorgebehörde der observierten Person schriftlich Mitteilung über den Grund, die Art und die Dauer der Observation und weist auf das Einsichtsrecht hin, bevor sie einen Entscheid betreffend die Unterstützung erlässt. Die observierte Person kann innert dreissig Tagen Stellung nehmen.
+
+<sup>2</sup> Bestätigen sich die Anhaltspunkte, die zu einer Observation geführt haben, nicht, so
+
+- 1\. erlässt die Fürsorgebehörde einen Entscheid über den Grund, die Art und die Dauer der erfolgten Observation und weist die observierte Person auf das Einsichtsrecht hin,
+- 2\. vernichtet die Fürsorgebehörde nach Rechtskraft des Entscheids das Observationsmaterial, sofern die observierte Person nicht schriftlich beantragt, dass das Observationsmaterial vollständig in den Akten verbleibt.
+
+<sup>3</sup> Die Fürsorgebehörde kann das Material einer Observation verwenden, die von einer anderen Fürsorgebehörde angeordnet wurde, wenn bei der Observation die Voraussetzungen nach diesem Gesetz erfüllt waren.
+
+<sup>4</sup> Zieht eine observierte Person während einer laufenden Observation aus einer Gemeinde weg, endet die Observation von Gesetzes wegen. In begründeten Fällen hat die Fürsorgebehörde das Recht, die Fürsorgebehörde der neuen Wohnsitzgemeinde innerhalb von 30 Tagen über diese Observation zu informieren.
+
+#### § 8f
+
+**Berichterstattung**
+
+<sup>1</sup> Die Fürsorgebehörde erstattet dem Departement für Finanzen und Soziales auf Verlangen Bericht über:
+
+- 1\. Anzahl Observationen
+- 2\. Ergebnisse der Observationen
+- 3\. verfügte Sanktionen
+- 4\. Dauer und Kosten je Observation
+- 5\. eingereichte Strafanzeigen
+- 6\. Namen der mit der Observation beauftragten Personen
+
+### 2.2.
 
 ### 2.2.1.
 
@@ -163,17 +226,17 @@ vom 29.03.1984 (Stand 01.01.2018)
 
 <sup>1</sup> Die Gemeinden bestreiten die Kosten für Leistungen an Hilfsbedürftige insbesondere aus:
 
-- 1\. familienrechtlichen Unterhalts- oder Unterstützungsbeiträgen;
-- 2\. Rückerstattungen;
-- 3\. Erträgen von Fonds;
-- 4\. allgemeinen Mitteln;
-- 5\. Beiträgen des Kantons an stationäre Aufenthalte.
+- 1\. familienrechtlichen Unterhalts- oder Unterstützungsbeiträgen
+- 2\. Rückerstattungen
+- 3\. Erträgen von Fonds
+- 4\. allgemeinen Mitteln
+- 5\. Beiträgen des Kantons an stationäre Aufenthalte
 
 #### § 18
 
 **Verwandtenunterstützung**
 
-<sup>1</sup> Die Gemeinde prüft, ob nach den Bestimmungen des Schweizerischen Zivilgesetzbuches[^18-1] Verwandte zur Unterstützung des Hilfsbedürftigen verpflichtet sind. Sie hat Unterstützungspflichtige zur Hilfe aufzufordern und zwischen ihnen und dem Hilfsbedürftigen zu vermitteln. Nötigenfalls ist die Verwandtenunterstützung bei den zuständigen Behörden geltend zu machen.
+<sup>1</sup> Die Gemeinde prüft, ob nach den Bestimmungen des Schweizerischen Zivilgesetzbuches (ZGB)[^18-1] Verwandte zur Unterstützung des Hilfsbedürftigen verpflichtet sind. Sie hat Unterstützungspflichtige zur Hilfe aufzufordern und zwischen ihnen und dem Hilfsbedürftigen zu vermitteln. Nötigenfalls ist die Verwandtenunterstützung bei den zuständigen Behörden geltend zu machen.
 
 <sup>2</sup> Für uneinbringliche Vorschüsse auf Unterhaltsbeiträge ist der Rückgriff auf Verwandte ausgeschlossen.
 
@@ -191,11 +254,19 @@ vom 29.03.1984 (Stand 01.01.2018)
 
 <sup>4</sup> Rückerstattungsansprüche verjähren fünf Jahre seit Kenntnis, in jedem Fall aber 15 Jahre seit der letzten Leistung. Bei Haftung aus Erbschaft beträgt die Frist 20 Jahre.
 
+<sup>5</sup> Bezieht eine dem Asylrecht unterstellte Person Leistungen, für welche die Gemeinde vom Kanton einen aus den vom Bund ausgerichteten Globalpauschalen finanzierten Beitrag erhält, ist sie von der Rückerstattungspflicht ausgenommen.
+
 #### § 19a
 
 **Rückerstattung von Bevorschussungen**
 
 <sup>1</sup> Bevorschusst die Fürsorgebehörde Versicherungsleistungen oder vermögensrechtliche Forderungen gegenüber Dritten, gehen die betreffenden Ansprüche der Sozialhilfebedürftigen im Umfang der geleisteten Zahlungen mit allen Rechten auf die Fürsorgebehörde über. Diese kann verlangen, dass ihr diese Leistungen direkt ausbezahlt werden.
+
+#### § 19b
+
+**Globalpauschalen**
+
+<sup>1</sup> Im Rahmen des Asylrechts dem Kanton vom Bund ausbezahlte Globalpauschalen und daraus finanzierte zweckgebundene Beiträge an die Gemeinden sind Staatsbeiträge. Sie werden nicht auf dem Klientenkonto verbucht.
 
 #### § 20
 
@@ -215,9 +286,9 @@ vom 29.03.1984 (Stand 01.01.2018)
 
 <sup>1</sup> Der Kanton kann im Rahmen der Finanzkompetenzen Beiträge leisten, insbesondere an:
 
-- 1\. Erwerb, Bau oder Betrieb von Einrichtungen für Hilfsbedürftige;
-- 2\. anerkannte Hilfswerke, soweit diese der Verhinderung oder Linderung sozialer Not dienen;
-- 3\. Ausbildung von Fachpersonal.
+- 1\. Erwerb, Bau oder Betrieb von Einrichtungen für Hilfsbedürftige
+- 2\. anerkannte Hilfswerke, soweit diese der Verhinderung oder Linderung sozialer Not dienen
+- 3\. Ausbildung von Fachpersonal
 
 #### § 21a
 
@@ -225,8 +296,8 @@ vom 29.03.1984 (Stand 01.01.2018)
 
 <sup>1</sup> Der Kanton gewährt den Gemeinden ab Eingang ihres Kostengutsprachegesuchs Beiträge an den stationären Aufenthalt von:
 
-- 1\. Hilfsbedürftigen, deren Aufenthalt aus Mitteln der öffentlichen Sozialhilfe finanziert wird;
-- 2\. nicht versicherten Ausländern ohne festen Wohnsitz in der Schweiz, die infolge Krankheit oder Unfall einer unaufschiebbaren Behandlung bedürfen, sofern eine Kostengutsprache des Kantons eingeholt worden ist.
+- 1\. Hilfsbedürftigen, deren Aufenthalt aus Mitteln der öffentlichen Sozialhilfe finanziert wird
+- 2\. nicht versicherten Ausländern ohne festen Wohnsitz in der Schweiz, die infolge Krankheit oder Unfall einer unaufschiebbaren Behandlung bedürfen, sofern eine Kostengutsprache des Kantons eingeholt worden ist
 
 <sup>2</sup> Der Regierungsrat regelt die näheren Voraussetzungen für die Beiträge. Die Höhe der Beiträge entspricht den anerkannten Aufenthaltskosten, soweit diese nach Abzug von eigenen Mitteln des Hilfsbedürftigen und Leistungen Dritter den Grundbetrag übersteigen. Übersteigt der Kantonsbeitrag ebenfalls die Höhe des Grundbetrages, tragen Gemeinde und Kanton die darüber hinausgehenden Kosten je zur Hälfte.
 
@@ -294,10 +365,6 @@ vom 29.03.1984 (Stand 01.01.2018)
 
 #### § 28
 
-**Inkrafttreten**
-
-<sup>1</sup> Dieses Gesetz tritt nach Annahme durch das Volk auf einen vom Regierungsrat zu bestimmenden Zeitpunkt in Kraft[^28-1].
-
-[^28-1]: Vom Bundesrat genehmigt am 30. Dezember 1985, in Kraft gesetzt auf den 1. Januar 1986.
+**…**
 
 ABl. 4/1985 ABl. 1/1986
