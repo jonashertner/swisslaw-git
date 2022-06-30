@@ -4,13 +4,12 @@ number: III B/2/1
 title: Gesetz über die Einführung des Schweizerischen Obligationenrechtes (Zivilgesetzbuch V. Teil) im Kanton Glarus
 short: Einführungsgesetz zum Obligationenrecht; EG OR
 language: de
-version: 2011-01-01
-valid_until: 2022-06-30
-version_adopted: 2010-05-02
+version: 2022-07-01
+version_adopted: 2021-09-05
 adopted: 1923-05-06
 in_force: 1923-05-06
 url: "https://gesetze.gl.ch/app/de/texts_of_law/III-B.2.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/1070/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2282/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,20 +18,13 @@ pdf: "https://gesetze.gl.ch/api/de/versions/1070/pdf_file"
 
 (Einführungsgesetz zum Obligationenrecht; EG OR)
 
-Vom 06.05.1923 (Stand 01.01.2011)
+Vom 06.05.1923 (Stand 01.07.2022)
 
 (Erlassen von der Landsgemeinde am 6. Mai 1923)
 
 ## 1. Zuständige Behörden und Verfahren
 
-#### Art. 1
-
-<sup>1</sup> Zuständigkeit und Verfahren vor Gerichtsbehörden richten sich nach der Zivilprozessordnung[^1-1] und dem Gerichtsorganisationsgesetz[^1-2].
-
-[^1-1]: Ab 1. Januar 2011 EG ZPO, GS [III C/1](https://gesetze.gl.ch/data/III-C.1/de)
-[^1-2]: GS [III A/2](https://gesetze.gl.ch/data/III-A.2/de)
-
-#### Art. 2–4a
+#### Art. 1–4a
 
 **…**
 
@@ -56,7 +48,7 @@ Vom 06.05.1923 (Stand 01.01.2011)
 
 #### Art. 7
 
-<sup>1</sup> Tritt einer der in Artikel 6 vorgesehenen Fälle ein, so trifft der Betreibungsbeamte nach Verfügung des Kantonsgerichtspräsidiums (Ziff. 1, 4, 5 und 6) oder auf Begehren des Klägers (Ziff. 2, 3 und 7) diejenigen Anordnungen, die das Obligationenrecht in den angeführten Artikeln vorschreibt.
+<sup>1</sup> Tritt einer der in Artikel 6 vorgesehenen Fälle ein, so trifft der Betreibungsbeamte nach Verfügung des Kantonsgerichts (Ziff. 1, 4, 5 und 6) oder auf Begehren des Klägers (Ziff. 2, 3 und 7) diejenigen Anordnungen, welche das Obligationenrecht in den angeführten Artikeln vorschreibt.
 
 #### Art. 8
 
@@ -148,7 +140,7 @@ Vom 06.05.1923 (Stand 01.01.2011)
 
 #### Art. 22
 
-<sup>1</sup> Die Schlichtungsbehörde für Mietverhältnisse ist zuständig für die Genehmigung der von der Bundesgesetzgebung vorgeschriebenen Formulare (Art. 266l, 269d und 298 OR).
+<sup>1</sup> Die Schlichtungsbehörde ist zuständig für die Genehmigung der von der Bundesgesetzgebung vorgeschriebenen Formulare (Art. 266l, 269d und 298 OR).
 
 <sup>2</sup> Bei indexierten und gestaffelten Mietzinsen gilt die Kopie der Mietzinsvereinbarung als rechtsgenügendes Formular im Sinne von Artikel 19 Absatz 2 der eidgenössischen Verordnung über die Miete und Pacht von Wohn- und Geschäftsräumen (VMWG).
 
