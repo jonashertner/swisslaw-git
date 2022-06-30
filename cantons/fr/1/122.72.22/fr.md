@@ -4,13 +4,13 @@ number: "122.72.22"
 title: "Règlement relatif à la procédure d'évaluation et de classification des fonctions du personnel de l'Etat"
 short: RECF
 language: fr
-version: 2015-06-01
-valid_until: 2022-06-30
-version_adopted: 2015-07-10
+version: 2022-07-01
+valid_until: 2023-01-31
+version_adopted: 2022-05-24
 adopted: 1991-06-11
 in_force: 1992-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/122.72.22"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6398/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7501/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Personnel de l'Etat, évaluation et classification des fonctions – R
 
 (RECF)
 
-du 11.06.1991 (version entrée en vigueur le 01.06.2015)
+du 11.06.1991 (version entrée en vigueur le 01.07.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -49,15 +49,11 @@ Arrête:
 
 **Composition**
 
-<sup>1</sup> La Commission est composée de sept membres, dont le chef du Service du personnel et d'organisation qui la préside, trois représentants du personnel et trois autres personnes choisies par le Conseil d'Etat.
+<sup>1</sup> La Commission est composée de neuf membres, dont le ou la chef-fe du Service du personnel et d'organisation qui la préside, quatre personnes représentant le personnel et quatre autres personnes choisies par le Conseil d'Etat.
 
-<sup>2</sup> Les trois représentants du personnel, dont deux au moins doivent être membres du personnel de l'Etat, soit choisis respectivement par:
+<sup>2</sup> Les quatre personnes représentant le personnel, dont trois au moins doivent être membres du personnel de l'Etat, sont choisies d'entente entre les partenaires reconnus. A défaut d'entente, le Conseil d'Etat tranche sur recommandation de la Délégation du Conseil d'Etat pour les questions du personnel.
 
-- a) la Commission consultative permanente pour les questions de personnel, parmi les six membres de cette dernière qui représentent le personnel;
-- b) la Fédération des associations du personnel des services publics de l'Etat de Fribourg;
-- c) l'Association des cadres supérieurs et magistrats, magistrates de l'Etat de Fribourg.
-
-<sup>3</sup> Parmi les trois personnes choisies par le Conseil d'Etat, deux au moins doivent être membres du personnel de l'Etat.
+<sup>3</sup> Parmi les quatre personnes choisies par le Conseil d'Etat, trois au moins doivent être membres du personnel de l'Etat.
 
 <sup>4</sup> Le secrétariat de la Commission est assuré par le Service du personnel et d'organisation.
 

@@ -4,13 +4,13 @@ number: "122.72.22"
 title: Reglement über das Verfahren zur Bewertung und Einreihung der Funktionen des Staatspersonals
 short: BEFR
 language: de
-version: 2015-06-01
-valid_until: 2022-06-30
-version_adopted: 2015-07-10
+version: 2022-07-01
+valid_until: 2023-01-31
+version_adopted: 2022-05-24
 adopted: 1991-06-11
 in_force: 1992-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.72.22"
-pdf: "https://bdlf.fr.ch/api/de/versions/6398/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7501/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Staatspersonal, Bewertung und Einreihung der Funktionen – B
 
 (BEFR)
 
-vom 11.06.1991 (Fassung in Kraft getreten am 01.06.2015)
+vom 11.06.1991 (Fassung in Kraft getreten am 01.07.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -49,15 +49,11 @@ beschliesst:
 
 **Zusammensetzung**
 
-<sup>1</sup> Die Kommission setzt sich aus sieben Mitgliedern zusammen, und zwar dem Chef des Amtes für Personal und Organisation als Präsidenten, drei Personalvertretern und drei weiteren Personen, die vom Staatsrat bezeichnet werden.
+<sup>1</sup> Die Kommission setzt sich aus neun Mitgliedern zusammen, und zwar dem Chef des Amtes für Personal und Organisation als Präsidenten, vier Personalvertretern und vier weiteren Personen, die vom Staatsrat bezeichnet werden.
 
-<sup>2</sup> Die drei Personalvertreter, von denen mindestens zwei Staatsangestellte sein müssen, werden ausgewählt:
+<sup>2</sup> Die vier Personalvertreter, von denen mindestens drei Staatsangestellte sein müssen, werden im Einvernehmen zwischen den anerkannten Sozialpartnern ausgewählt. Kommt keine Einigung zustande, so entscheidet der Staatsrat auf Empfehlung seiner Delegation für das Personalwesen.
 
-- a) von der ständigen beratenden Kommission für Personalfragen unter den sechs Mitgliedern, die in dieser Kommission das Personal vertreten;
-- b) vom Dachverband des Personals öffentlicher Dienste des Kantons Freiburg, und
-- c) von der Vereinigung der höheren Kader und Magistratspersonen des Staates Freiburg Freiburg.
-
-<sup>3</sup> Von den drei vom Staatsrat bezeichneten Personen müssen mindestens zwei Staatsangestellte sein.
+<sup>3</sup> Von den vier vom Staatsrat bezeichneten Personen müssen mindestens zwei Staatsangestellte sein.
 
 <sup>4</sup> Das Amt für Personal und Organisation führt das Sekretariat der Kommission.
 
