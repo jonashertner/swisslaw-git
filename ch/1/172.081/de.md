@@ -4,11 +4,11 @@ title: "Verordnung vom 14. November 2012 über die Sprachdienste der Bundesverwa
 short: SpDV
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/771"
 language: de
-version: 2014-10-01
+version: 2022-07-01
 adopted: 2012-11-14
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/771/20141001/de/xml/fedlex-data-admin-ch-eli-cc-2012-771-20141001-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/771/20141001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/771/20220701/de/xml/fedlex-data-admin-ch-eli-cc-2012-771-20220701-de-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/771/20220701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/771/20141001/de"
 
 (Sprachdiensteverordnung, SpDV)
 
-vom 14. November 2012 (Stand am 1. Oktober 2014)
+vom 14. November 2012 (Stand am 1. Juli 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -25,8 +25,8 @@ gestützt auf die Artikel 43 Absatz 2 und 47 Absatz 2 des Regierungs- und Verwal
 
 verordnet:
 
-[^ingress-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^ingress-2]: [SR 441.1](https://fedlex.data.admin.ch/eli/cc/2009/821)
+[^ingress-1]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^ingress-2]: [SR 441.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7101)
 
 ## 1. Abschnitt: Gegenstand
 
@@ -44,9 +44,11 @@ Diese Verordnung regelt:
 
 Damit regelt sie, wie die Sprachdienste beitragen:
 
-- a. zur Gewährleistung einer hohen formalen und inhaltlichen Qualität der amtlichen Veröffentlichungen im Sinne der Publikationsgesetzgebung und weiterer Texte des Bundes;
+- a.[^1-1] zur Gewährleistung einer hohen formalen und inhaltlichen Qualität der zu veröffentlichenden Texte des Bundes;
 - b. zur Informations- und Kommunikationstätigkeit des Bundes in mehreren Sprachen;
 - c. zur Förderung der Mehrsprachigkeit und zum mehrsprachigen internen Funktionieren der Bundesverwaltung.
+
+[^1-1]: Fassung gemäss Anhang Ziff. 1 der V vom 10. Nov. 2021, in Kraft seit 1. Juli 2022 ([AS 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
 
 ## 2. Abschnitt: Organisation und Koordination
 
@@ -110,7 +112,7 @@ Die Sprachdienstleistungen umfassen insbesondere:
 
 <sup>2</sup> Die Qualitätsstandards sind in den Weisungen nach Artikel 2 Absatz 2 der Sprachenverordnung vom 4. Juni 2010[^7-1] festgelegt.[^7-2]
 
-[^7-1]: [SR 441.11](https://fedlex.data.admin.ch/eli/cc/2010/355)
+[^7-1]: [SR 441.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7102)
 [^7-2]: Fassung gemäss Ziff. II 1 der V vom 27. Aug. 2014, in Kraft seit 1. Okt. 2014 ([AS 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
 
 #### Art. 8
@@ -125,9 +127,14 @@ Die Sprachdienstleistungen umfassen insbesondere:
 
 #### Art. 9
 
-**Gemeinsame Planung**
+**Gemeinsame Planung**[^9-1]
 
-Die Sprachdienste der Bundesverwaltung und ihre Auftraggeber bestimmen in der Planung gemeinsam die für die einzelnen Sprachdienstleistungen nötige Zeit; sie bestimmen die Fristen gemeinsam so, dass die Qualitätssicherung durchgeführt und, wenn es sich um amtliche Veröffentlichungen handelt, diese gleichzeitig in allen Amtssprachen veröffentlicht werden können.
+Die Sprachdienste der Bundesverwaltung und ihre Auftraggeber bestimmen in der Planung gemeinsam die für die einzelnen Sprachdienstleistungen nötige Zeit. Sie bestimmen die Fristen gemeinsam so, dass:
+
+- a. die Qualitätssicherung durchgeführt werden kann; und
+- b. wenn es sich um Texte handelt, die in mehr als einer Sprache veröffentlicht werden, diese gleichzeitig in den erforderlichen Sprachen veröffentlicht werden können.
+
+[^9-1]: Fassung gemäss Anhang Ziff. 1 der V vom 10. Nov. 2021, in Kraft seit 1. Juli 2022 ([AS 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
 
 #### Art. 10
 
@@ -143,7 +150,9 @@ Die Einheiten, die in der Bundeskanzlei Sprachdienstleistungen erbringen, sind i
 
 - a. die Übersetzung und die Revision der Texte der Bundeskanzlei;
 - b. die Übersetzung und die Revision der Texte, die mit der Funktion der Bundespräsidentin oder des Bundespräsidenten zusammenhängen;
-- c. die abschliessende sprachliche Prüfung der Texte, die gestützt auf die Publikationsgesetzgebung veröffentlicht werden.
+- c.[^10-1] die abschliessende sprachliche Prüfung der Texte, die gestützt auf die Publikationsgesetzgebung veröffentlicht werden, mit Ausnahme insbesondere der durch Verweis zu veröffentlichenden Texte und der Erläuterungen zu Verordnungen.
+
+[^10-1]: Fassung gemäss Anhang Ziff. 1 der V vom 10. Nov. 2021, in Kraft seit 1. Juli 2022 ([AS 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
 
 #### Art. 11
 
@@ -177,7 +186,7 @@ Die Einheiten, die in der Bundeskanzlei Sprachdienstleistungen erbringen, sind i
 
 <sup>2</sup> Die Veröffentlichung rätoromanischer Texte richtet sich nach Artikel 3 der Sprachenverordnung vom 4. Juni 2010[^13-1].
 
-[^13-1]: [SR 441.11](https://fedlex.data.admin.ch/eli/cc/2010/355)
+[^13-1]: [SR 441.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7102)
 
 #### Art. 14
 
@@ -205,7 +214,7 @@ Die Einheiten, die in der Bundeskanzlei Sprachdienstleistungen erbringen, sind i
 
 Die Verordnung vom 19. Juni 1995[^16-1] über das Übersetzungswesen in der allgemeinen Bundesverwaltung wird aufgehoben.
 
-[^16-1]: [[AS 1995 3632](https://fedlex.data.admin.ch/eli/oc/1995/3632_3632_3632), [2008 5153](https://fedlex.data.admin.ch/eli/oc/2008/719)Anhang Ziff. 3, [2010 2653](https://fedlex.data.admin.ch/eli/oc/2010/355)Anhang Ziff. II 2]
+[^16-1]: [[AS 1995 3632](https://fedlex.data.admin.ch/eli/oc/1995/3632_3632_3632); [2008 5153](https://fedlex.data.admin.ch/eli/oc/2008/719)Anhang Ziff. 3; [2010 2653](https://fedlex.data.admin.ch/eli/oc/2010/355)Anhang Ziff. II 2]
 
 #### Art. 17
 

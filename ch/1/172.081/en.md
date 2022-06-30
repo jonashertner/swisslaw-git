@@ -4,11 +4,11 @@ title: "Ordinance of 14 November 2012 on the Federal Administration Language Ser
 short: LangSO
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/771"
 language: en
-version: 2014-10-01
+version: 2022-07-01
 adopted: 2012-11-14
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/771/20141001/en/xml/fedlex-data-admin-ch-eli-cc-2012-771-20141001-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/771/20141001/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/771/20220701/en/xml/fedlex-data-admin-ch-eli-cc-2012-771-20220701-en-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/771/20220701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Language Services Ordinance, LangSO)
 
-of 14 November 2012 (Status as of 1 October 2014)
+of 14 November 2012 (Status as of 1 July 2022)
 
 The Swiss Federal Council,
 
@@ -27,8 +27,8 @@ on the basis of Articles 43 paragraph 2 and 47 paragraph 2 of the Government and
 
 ordains:
 
-[^ingress-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^ingress-2]: [SR 441.1](https://fedlex.data.admin.ch/eli/cc/2009/821)
+[^ingress-1]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^ingress-2]: [SR 441.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7101)
 
 ## Section 1 Subject Matter
 
@@ -46,9 +46,11 @@ This Ordinance regulates:
 
 It therefore regulates how the language services contribute:
 
-- a. to guaranteeing the high quality of the form and content of publications governed by the legislation on official publications and of other federal texts;
+- a.[^1-1] to guaranteeing the high quality of the form and content of the federal texts that are published;
 - b. to the activities of the Confederation in providing information and in communicating in several languages;
 - c. to promoting multilingualism and to the internal functioning of the Federal Administration as a multilingual organisation.
+
+[^1-1]: Amended by Annex No 1 of the O of 10 Nov. 2021, in force since 1 July 2022 ([AS 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
 
 ## Section 2 Organisation and Coordination
 
@@ -112,7 +114,7 @@ Linguistic services include in particular:
 
 <sup>2</sup> The quality standards are set out in the directives mentioned in Article 2 paragraph 2 of the Languages Ordinance of 4 June 2010[^7-1].[^7-2]
 
-[^7-1]: [SR 441.11](https://fedlex.data.admin.ch/eli/cc/2010/355)
+[^7-1]: [SR 441.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7102)
 [^7-2]: Amended by No II 1 of the O of 27 Aug. 2014, in force since 1 Oct. 2014 ([AS 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
 
 #### Art. 8
@@ -127,9 +129,14 @@ Linguistic services include in particular:
 
 #### Art. 9
 
-**Joint planning**
+**Joint planning**[^9-1]
 
-The Federal Administration language services and their clients shall jointly determine in their planning process the time required for individual linguistic services; they shall fix deadlines so that quality assurance can be carried out and, in the case of official publications, so that they can be published in all the official languages at the same time.
+The Federal Administration language services and their clients shall jointly determine in their planning process the time required for individual linguistic services. They shall fix deadlines so that:
+
+- a. quality assurance can be carried out; and
+- b. when texts are published in more than one language, they can be published in all the required languages at the same time.
+
+[^9-1]: Amended by Annex No 1 of the O of 10 Nov. 2021, in force since 1 July 2022 ([AS 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
 
 #### Art. 10
 
@@ -145,7 +152,9 @@ The units that provide linguistic services in the Federal Chancellery are normal
 
 - a. translating and revising Federal Chancellery texts;
 - b. translating and revising texts relating to the duties of the President of the Swiss Confederation;
-- c. the final linguistic revision of texts published under the legislation on official publications.
+- c.[^10-1] the final linguistic revision of texts published under the legislation on official publications, with the exception in particular of the texts to be published by reference and explanatory reports on ordinances.
+
+[^10-1]: Amended by Annex No 1 of the O of 10 Nov. 2021, in force since 1 July 2022 ([AS 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
 
 #### Art. 11
 
@@ -179,7 +188,7 @@ The units that provide linguistic services in the Federal Chancellery are normal
 
 <sup>2</sup> The publication of Romansh texts is governed by Article 3 of the Languages Ordinance of 4 June 2010[^13-1].
 
-[^13-1]: [SR 441.11](https://fedlex.data.admin.ch/eli/cc/2010/355)
+[^13-1]: [SR 441.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7102)
 
 #### Art. 14
 

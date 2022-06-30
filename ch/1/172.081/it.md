@@ -4,11 +4,11 @@ title: "Ordinanza del 14 novembre 2012 sui servizi linguistici dell'Amministrazi
 short: OSLing
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/771"
 language: it
-version: 2014-10-01
+version: 2022-07-01
 adopted: 2012-11-14
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/771/20141001/it/xml/fedlex-data-admin-ch-eli-cc-2012-771-20141001-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/771/20141001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/771/20220701/it/xml/fedlex-data-admin-ch-eli-cc-2012-771-20220701-it-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/771/20220701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/771/20141001/it"
 
 (Ordinanza sui servizi linguistici, OSLing)
 
-del 14 novembre 2012 (Stato 1° ottobre 2014) (Stato 1° ottobre 2014)
+del 14 novembre 2012 (Stato 1° luglio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -25,8 +25,8 @@ visti gli articoli 43 capoverso 2 e 47 capoverso 2 della legge del 21 marzo 1997
 
 ordina:
 
-[^ingress-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^ingress-2]: [RS 441.1](https://fedlex.data.admin.ch/eli/cc/2009/821)
+[^ingress-1]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^ingress-2]: [RS 441.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7101)
 
 ## Sezione 1: Oggetto
 
@@ -44,9 +44,11 @@ La presente ordinanza disciplina:
 
 Essa disciplina inoltre il contributo che i servizi linguistici dell’Amministrazione federale forniscono:
 
-- a. alla qualità formale e materiale dei testi che sottostanno alla legislazione sulle pubblicazioni ufficiali e di altri documenti della Confederazione;
+- a.[^1-1] alla qualità formale e materiale dei testi della Confederazione che devono essere pubblicati;
 - b. all’attività di informazione e comunicazione plurilingue della Confederazione;
 - c. alla promozione del plurilinguismo e al funzionamento plurilingue e integrato dell’Amministrazione federale.
+
+[^1-1]: Nuovo testo giusta l’all. n. 1 dell’O del 10 nov. 2021, in vigore dal 1° lug. 2022 ([RU 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
 
 ## Sezione 2: Organizzazione e coordinamento
 
@@ -110,8 +112,8 @@ Le prestazioni linguistiche comprendono segnatamente:
 
 <sup>2</sup> I criteri qualitativi sono definiti nelle istruzioni di cui all’articolo 2 capoverso 2 dell’ordinanza del 4 giugno 2010[^7-1] sulle lingue.[^7-2]
 
-[^7-1]: [RS 441.11](https://fedlex.data.admin.ch/eli/cc/2010/355)
-[^7-2]: Nuovo testo giusta il n. II 1 dell’O 27 ago. 2014, in vigore dal 1° ott. 2014 ([RU 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
+[^7-1]: [RS 441.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7102)
+[^7-2]: Nuovo testo giusta il n. II 1 dell’O del 27 ago. 2014, in vigore dal 1° ott. 2014 ([RU 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
 
 #### Art. 8
 
@@ -125,9 +127,14 @@ Le prestazioni linguistiche comprendono segnatamente:
 
 #### Art. 9
 
-**Pianificazione concertata**
+**Pianificazione concertata**[^9-1]
 
-I servizi linguistici dell’Amministrazione federale e i committenti pianificano congiuntamente il tempo necessario per le singole prestazioni linguistiche; fissano i termini di consegna in modo da includere i controlli qualitativi e, trattandosi di pubblicazioni ufficiali, garantire la pubblicazione simultanea dei testi nelle lingue ufficiali.
+I servizi linguistici dell’Amministrazione federale e i committenti pianificano congiuntamente il tempo necessario per le singole prestazioni linguistiche. Fissano di concerto i termini di consegna in modo da:
+
+- a. includere i controlli qualitativi; e
+- b. se si tratta di testi pubblicati in più di una lingua, garantire la loro pubblicazione simultanea nelle lingue richieste.
+
+[^9-1]: Nuovo testo giusta l’all. n. 1 dell’O del 10 nov. 2021, in vigore dal 1° lug. 2022 ([RU 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
 
 #### Art. 10
 
@@ -143,7 +150,9 @@ Le unità che forniscono prestazioni linguistiche nella Cancelleria federale eff
 
 - a. le traduzioni e le revisioni dei testi che emanano dalla Cancelleria federale;
 - b. le traduzioni e le revisioni dei testi che pertengono alla funzione del Presidente della Confederazione;
-- c. il controllo linguistico finale dei testi pubblicati in virtù della legislazione sulle pubblicazioni ufficiali.
+- c.[^10-1] il controllo linguistico finale dei testi pubblicati in virtù della legislazione sulle pubblicazioni ufficiali, ad eccezione in particolare dei testi da pubblicare mediante rimando e del commento alle ordinanze.
+
+[^10-1]: Nuovo testo giusta l’all. n. 1 dell’O del 10 nov. 2021, in vigore dal 1° lug. 2022 ([RU 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
 
 #### Art. 11
 
@@ -177,7 +186,7 @@ Le unità che forniscono prestazioni linguistiche nella Cancelleria federale eff
 
 <sup>2</sup> La pubblicazione dei testi in romancio è disciplinata dall’articolo 3 dell’ordinanza del 4 giugno 2010[^13-1] sulle lingue.
 
-[^13-1]: [RS 441.11](https://fedlex.data.admin.ch/eli/cc/2010/355)
+[^13-1]: [RS 441.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7102)
 
 #### Art. 14
 

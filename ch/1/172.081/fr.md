@@ -4,11 +4,11 @@ title: "Ordonnance du 14 novembre 2012 sur les services linguistiques de l'admin
 short: OSLing
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/771"
 language: fr
-version: 2014-10-01
+version: 2022-07-01
 adopted: 2012-11-14
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/771/20141001/fr/xml/fedlex-data-admin-ch-eli-cc-2012-771-20141001-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/771/20141001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/771/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-2012-771-20220701-fr-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/771/20220701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,16 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/771/20141001/fr"
 
 (Ordonnance sur les services linguistiques, OSLing)
 
-du 14 novembre 2012 (Etat le 1<sup>er</sup> octobre 2014)
+du 14 novembre 2012 (État le 1<sup>er</sup> juillet 2022)
 
 Le Conseil fédéral suisse,
 
-vu les art. 43, al. 2, et 47, al. 2, de la loi du 21 mars 1993 sur l’organisation de l’administration[^ingress-1], vu la loi du 5 octobre 2007 sur les langues[^ingress-2],
+vu les art. 43, al. 2, et 47, al. 2, de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration[^ingress-1], vu la loi du 5 octobre 2007 sur les langues[^ingress-2],
 
 arrête:
 
-[^ingress-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^ingress-2]: [RS 441.1](https://fedlex.data.admin.ch/eli/cc/2009/821)
+[^ingress-1]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^ingress-2]: [RS 441.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7101)
 
 ## Section 1 Objet
 
@@ -44,9 +44,11 @@ La présente ordonnance a pour objet:
 
 Elle régit la contribution des services linguistiques de l’administration fédérale:
 
-- a. à la qualité formelle et matérielle des publications officielles au sens de la législation sur les publications officielles et d’autres textes de la Confédération;
+- a.[^1-1] à la qualité formelle et matérielle des textes publiés par la Confédération;
 - b. aux activités de la Confédération dans le domaine de l’information et de la communication plurilingues;
 - c. à la promotion du plurilinguisme et au fonctionnement interne plurilingue de l’administration fédérale.
+
+[^1-1]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
 
 ## Section 2 Organisation et coordination
 
@@ -110,7 +112,7 @@ Les prestations linguistiques comprennent notamment:
 
 <sup>2</sup> Les critères de qualité sont définis dans les instructions visées à l’art. 2, al. 2, de l’ordonnance du 4 juin 2010 sur les langues[^7-1].[^7-2]
 
-[^7-1]: [RS 441.11](https://fedlex.data.admin.ch/eli/cc/2010/355)
+[^7-1]: [RS 441.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7102)
 [^7-2]: Nouvelle teneur selon le ch. II 1 de l’O du 27 août 2014, en vigueur depuis le 1<sup>er</sup> oct. 2014 ([RO 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
 
 #### Art. 8
@@ -125,9 +127,14 @@ Les prestations linguistiques comprennent notamment:
 
 #### Art. 9
 
-**Planification commune**
+**Planification commune**[^9-1]
 
-Les services linguistiques de l’administration fédérale et leurs mandants conviennent du temps nécessaire à la fourniture des prestations linguistiques et des délais de manière à garantir le contrôle de qualité et, s’agissant des publications officielles, la publication simultanée des textes dans les langues officielles.
+Les services linguistiques de l’administration fédérale et leurs mandants conviennent du temps nécessaire à la fourniture des prestations linguistiques. Ils conviennent des délais de manière:
+
+- a. que le contrôle de la qualité puisse être garanti, et
+- b. que les textes à publier dans plusieurs langues officielles le soient simultanément.
+
+[^9-1]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
 
 #### Art. 10
 
@@ -139,11 +146,13 @@ Les services linguistiques de l’administration fédérale et leurs mandants co
 
 <sup>3</sup>
 
-Les unités de la Chancellerie fédérale qui fournissent des prestations linguistiques assurent en principe :
+Les unités de la Chancellerie fédérale qui fournissent des prestations linguistiques assurent en principe:
 
 - a. la traduction et la révision des textes provenant de la Chancellerie fédérale;
 - b. la traduction et la révision des textes qui relèvent de la fonction de président de la Confédération;
-- c. le contrôle linguistique final des textes publiés en vertu de la législation sur les publications officielles.
+- c.[^10-1] le contrôle linguistique final des textes publiés en vertu de la législation sur les publications officielles, à l’exception en particulier des textes publiés par renvoi et des rapports explicatifs d’ordonnances.
+
+[^10-1]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
 
 #### Art. 11
 
@@ -177,7 +186,7 @@ Les unités de la Chancellerie fédérale qui fournissent des prestations lingui
 
 <sup>2</sup> La publication des textes en romanche est régie par l’art. 3 de l’ordonnance du 4 juin 2010 sur les langues[^13-1].
 
-[^13-1]: [RS 441.11](https://fedlex.data.admin.ch/eli/cc/2010/355)
+[^13-1]: [RS 441.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7102)
 
 #### Art. 14
 
@@ -205,7 +214,7 @@ Les unités de la Chancellerie fédérale qui fournissent des prestations lingui
 
 L’ordonnance du 19 juin 1995 sur la traduction au sein de l’administration générale de la Confédération[^16-1] est abrogée.
 
-[^16-1]: [[RO 1995 3632](https://fedlex.data.admin.ch/eli/oc/1995/3632_3632_3632), [2008 5153](https://fedlex.data.admin.ch/eli/oc/2008/719)annexe ch. 3, [2010 2653](https://fedlex.data.admin.ch/eli/oc/2010/355)annexe ch. II 2]
+[^16-1]: [[RO 1995 3632](https://fedlex.data.admin.ch/eli/oc/1995/3632_3632_3632); [2008 5153](https://fedlex.data.admin.ch/eli/oc/2008/719)annexe ch. 3; [2010 2653](https://fedlex.data.admin.ch/eli/oc/2010/355)annexe ch. II 2]
 
 #### Art. 17
 
