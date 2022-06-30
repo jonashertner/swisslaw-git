@@ -4,13 +4,13 @@ number: "713.121"
 title: Bauverordnung
 short: BauV
 language: de
-version: 2022-01-01
-valid_until: 2022-06-30
-version_adopted: 2021-11-10
+version: 2022-07-01
+valid_until: 2023-02-26
+version_adopted: 2022-05-18
 adopted: 2011-05-25
 in_force: 2011-09-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/713.121"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3197/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3221/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3197/pdf_file"
 
 (BauV)
 
-Vom 25.05.2011 (Stand 01.01.2022)
+Vom 25.05.2011 (Stand 01.07.2022)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -796,6 +796,8 @@ AZ = ∑aGF / aGSF
 - a) ein Nachweis der Einhaltung der Energiegesetzgebung (Energienachweis); in begründeten Fällen kann der Nachweis auch später, spätestens aber vor Baubeginn erbracht werden. Im Anwendungsbereich der Energienachweisformulare EN-1 bis EN-5 der Konferenz Kantonaler Energiefachstellen genügt das provisorische Minergie-Zertifikat,
 - b) eine Konformitätserklärung zur erdbebengerechten Bauweise von Neu- und Erweiterungsbauten sowie von Umbauten mit Eingriff in die Tragstruktur,
 - c) für Einrichtungen der Langzeitpflege, die gemäss Pflegegesetz (PflG) vom 26. Juni 2007 bewilligungspflichtig sind, ein Nachweis vom Departement Gesundheit und Soziales über die Einhaltung der §§ 8 Abs. 7 beziehungsweise 24 Abs. 2 lit. d der Pflegeverordnung (PflV) vom 21. November 2012[^51-1], falls eine entsprechende Vorprüfung des Projekts durchgeführt wurde.
+
+<sup>1<sup>bis</sup></sup> Die Baugesuchspläne sind vermasst mit Angabe des Massstabs und vorzugsweise mit Darstellung des Massstabsbalkens einzureichen.
 
 <sup>2</sup> Die Gemeinden bieten entsprechende Formulare an. Die Abteilung für Baubewilligungen des Departements Bau, Verkehr und Umwelt gibt den Gemeinden Formulare für die kantonalen und eidgenössischen Bewilligungen und Zustimmungen ab.
 
