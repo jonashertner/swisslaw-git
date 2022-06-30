@@ -4,11 +4,11 @@ title: "Ordonnance du 11 décembre 1978 sur l'indication des prix (OIP)"
 short: OIP
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/2081_2081_2081"
 language: fr
-version: 2021-07-01
+version: 2022-07-01
 adopted: 1978-12-11
 in_force: 1979-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/2081_2081_2081/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-1978-2081_2081_2081-20210701-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/2081_2081_2081/20210701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/2081_2081_2081/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-1978-2081_2081_2081-20220701-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/2081_2081_2081/20220701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1978/2081_2081_2081/20210701/fr"
 
 (OIP)**[^t-1]**
 
-du 11 décembre 1978 (Etat le 1<sup>er</sup> juillet 2021)
+du 11 décembre 1978 (Etat le 1<sup>er</sup> juillet 2022)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 14 déc. 1987, en vigueur depuis le 1<sup>er</sup> mars 1988 ([RO 1988 241](https://fedlex.data.admin.ch/eli/oc/1988/241_241_241)).
 
@@ -65,24 +65,26 @@ L’ordonnance s’applique:
 
 **Obligation d’indiquer le prix de détail**
 
-<sup>1</sup> Le prix à payer effectivement pour les marchandises offertes au consommateur doit être indiqué en francs suisses (prix de détail).
+<sup>1</sup> Pour les marchandises offertes au consommateur, le prix à payer effectivement en francs suisses (prix de détail) doit être indiqué à tout moment.[^3-1]
 
 <sup>2</sup> L’obligation d’indiquer ce prix s’applique aussi aux actes juridiques semblables à l’achat.
 
 <sup>3</sup> L’indication n’est pas obligatoire pour les marchandises vendues aux enchères ou selon tout autre mode de vente analogue.
 
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du 25 mai 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 343](https://fedlex.data.admin.ch/eli/oc/2022/343)).
+
 #### Art. 4
 
 **Taxes publiques, redevances de droits d’auteur, contributions anticipées à l’élimination, avantages[^4-1]**
 
-<sup>1</sup> Les taxes publiques, les redevances de droits d’auteur, les contributions anticipées à l’élimination et les suppléments non optionnels de tous genres, reportés sur le prix de détail, doivent être inclus dans ce prix.[^4-2]
+<sup>1</sup> Les taxes publiques, les redevances de droits d’auteur, les contributions anticipées à l’élimination et les suppléments non optionnels de tous genres facturés notamment pour la réservation, le service ou le traitement doivent être inclus dans le prix de détail. Les frais d’expédition peuvent être indiqués séparément.[^4-2]
 
 <sup>1bis</sup> En cas de modification du taux de la taxe sur la valeur ajoutée, le nouveau prix doit être indiqué dans les trois mois qui suivent l’entrée en vigueur de cette modification. Durant ce délai, les consommateurs doivent être informés, par une mention bien visible, que le prix indiqué ne tient pas compte de la modification du taux de la taxe sur la valeur ajoutée.[^4-3]
 
 <sup>2</sup> Des avantages tels que rabais, timbres de rabais ou ristournes, qui ne peuvent être réalisés qu’après l’achat, seront désignés séparément et indiqués en chiffres.
 
 [^4-1]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2011, en vigueur depuis le 1<sup>er</sup> avr. 2012 ([RO 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)).
-[^4-2]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2011, en vigueur depuis le 1<sup>er</sup> avr. 2012 ([RO 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)).
+[^4-2]: Nouvelle teneur selon le ch. I de l’O du 25 mai 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 343](https://fedlex.data.admin.ch/eli/oc/2022/343)).
 [^4-3]: Introduit par le ch. I de l’O du 28 avr. 1999, en vigueur depuis le 1<sup>er</sup> nov. 1999 ([RO 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)).
 
 ### Section 2 Indication du prix unitaire
@@ -91,7 +93,7 @@ L’ordonnance s’applique:
 
 **Obligation d’indiquer le prix unitaire**
 
-<sup>1</sup> Il est obligatoire d’indiquer le prix unitaire pour les marchandises mesurables, offertes au consommateur.
+<sup>1</sup> Pour les marchandises mesurables offertes au consommateur, le prix unitaire doit être indiqué à tout moment.[^5-1]
 
 <sup>2</sup> Lorsqu’il s’agit de marchandises préemballées, il y a lieu d’indiquer le prix de détail et le prix unitaire.
 
@@ -101,20 +103,21 @@ Il n’est pas obligatoire d’indiquer le prix unitaire:
 
 - a. lors de ventes facturées à la pièce ou d’après le nombre de pièces;
 - b. lors de ventes par 1, 2 ou 5 litres, kilogrammes, mètres, mètres carrés ou mètres cubes, ou par leurs multiples ou sous-multiples décimaux;
-- c.[^5-1] les boissons spiritueuses dans des récipients dont le contenu nominal est de 35 et 70 cl;
+- c.[^5-2] les boissons spiritueuses dans des récipients dont le contenu nominal est de 35 et 70 cl;
 - d. pour les emballages de conditionnement d’un poids net ou après égouttage de 25, 125, 250 et 2500 g;
 - e. pour les emballages combinés, les emballages composés et les emballages-cadeaux;
 - f. pour les conserves alimentaires se composant d’un mélange de produits solides, à condition que le poids des constituants soit déclaré;
-- g.[^5-2] pour les marchandises en emballages de conditionnement dont le prix de détail n’excède pas 2 francs;
+- g.[^5-3] pour les marchandises en emballages de conditionnement dont le prix de détail n’excède pas 2 francs;
 - h. pour les marchandises en emballages de conditionnement dont le prix unitaire par kilogramme ou litre est supérieur à 150 francs lorsqu’il s’agit de denrées alimentaires et à 750 francs lorsqu’il s’agit d’autres marchandises;
 - i. dans les établissements publics;
-- j.[^5-3] pour les préemballages de médicaments des catégories de remise A et B visées aux art. 41 et 42 de l’ordonnance du 21 septembre 2018 sur les médicaments[^5-4] et de la catégorie de remise C selon l’art. 25 de l’ordonnance du 17 octobre 2001 sur les médicaments[^5-5].
+- j.[^5-4] pour les préemballages de médicaments des catégories de remise A et B visées aux art. 41 et 42 de l’ordonnance du 21 septembre 2018 sur les médicaments[^5-5] et de la catégorie de remise C selon l’art. 25 de l’ordonnance du 17 octobre 2001 sur les médicaments[^5-6].
 
-[^5-1]: Nouvelle teneur selon l’art. 39 ch. 2 de l’O du 5 sept. 2012 sur les déclarations de quantité, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 5275](https://fedlex.data.admin.ch/eli/oc/2012/607)).
-[^5-2]: Nouvelle teneur selon le ch. I de l’O du 14 déc. 1987, en vigueur depuis le 1<sup>er</sup> mars 1988 ([RO 1988 241](https://fedlex.data.admin.ch/eli/oc/1988/241_241_241)).
-[^5-3]: Introduite par l’art. 39 ch. 2 de l’O du 5 sept. 2012 sur les déclarations de quantité ([RO 2012 5275](https://fedlex.data.admin.ch/eli/oc/2012/607)). Nouvelle teneur selon le ch. II 6 de l’annexe 8 à l’O du 14 nov. 2018 sur les autorisations dans le domaine des médicaments, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5029](https://fedlex.data.admin.ch/eli/oc/2018/786)).
-[^5-4]: [RS 812.212.21](https://fedlex.data.admin.ch/eli/cc/2018/588)
-[^5-5]: [RO 2001 3420](https://fedlex.data.admin.ch/eli/oc/2001/516)
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du 25 mai 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 343](https://fedlex.data.admin.ch/eli/oc/2022/343)).
+[^5-2]: Nouvelle teneur selon l’art. 39 ch. 2 de l’O du 5 sept. 2012 sur les déclarations de quantité, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 5275](https://fedlex.data.admin.ch/eli/oc/2012/607)).
+[^5-3]: Nouvelle teneur selon le ch. I de l’O du 14 déc. 1987, en vigueur depuis le 1<sup>er</sup> mars 1988 ([RO 1988 241](https://fedlex.data.admin.ch/eli/oc/1988/241_241_241)).
+[^5-4]: Introduite par l’art. 39 ch. 2 de l’O du 5 sept. 2012 sur les déclarations de quantité ([RO 2012 5275](https://fedlex.data.admin.ch/eli/oc/2012/607)). Nouvelle teneur selon l’annexe 8 ch. II 6 de l’O du 14 nov. 2018 sur les autorisations dans le domaine des médicaments, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5029](https://fedlex.data.admin.ch/eli/oc/2018/786)).
+[^5-5]: [RS 812.212.21](https://fedlex.data.admin.ch/eli/cc/2018/588)
+[^5-6]: [RO 2001 3420](https://fedlex.data.admin.ch/eli/oc/2001/516)
 
 #### Art. 6
 
@@ -173,49 +176,50 @@ Il n’est pas obligatoire d’indiquer le prix unitaire:
 
 <sup>1</sup>
 
-Le prix à payer effectivement pour les prestations de services offertes dans les domaines énumérés ci-après, sera indiqué en francs suisses:
+Pour les prestations de services offertes au consommateur dans les domaines énumérés ci-après, le prix à payer effectivement en francs suisses doit être indiqué à tout moment:[^10-1]
 
 - a. salons de coiffure;
 - b. travaux courants dans les garages;
 - c. restauration et hôtellerie;
-- d.[^10-1] instituts de beauté et soins du corps;
-- e.[^10-2] centres de culture physique, piscines, patinoires et autres installations sportives;
+- d.[^10-2] instituts de beauté et soins du corps;
+- e.[^10-3] centres de culture physique, piscines, patinoires et autres installations sportives;
 - f. taxis;
 - g. distractions et divertissements (théâtres, concerts, cinémas, dancings, etc.), musées, expositions, foires ainsi que manifestations sportives;
 - h. location de véhicules, d’appareils et d’installations;
-- i.[^10-3] blanchisserie et nettoyage à sec (principaux procédés et articles standard);
+- i.[^10-4] blanchisserie et nettoyage à sec (principaux procédés et articles standard);
 - k. parcage de voitures;
 - l. branche de la photographie (services standardisés tels que développements, copies, agrandissements);
-- m.[^10-4] offres de cours;
-- n.[^10-5] voyages en avion et voyages à forfait;
-- o.[^10-6] services afférents à la réservation d’un voyage et facturés séparément (réservation, intermédiaires);
-- p.[^10-7] services de télécommunication au sens de la loi du 30 avril 1997 sur les télécommunications;
-- q.[^10-8] prestations de services comme les services d’information, de conseil, de commercialisation et de répartition des frais de communication, qui sont fournies ou offertes par le biais de services de télécommunication, qu’elles soient facturées par un fournisseur de services de télécommunication ou non;
-- r.[^10-9] ouverture, tenue et clôture de comptes, trafic national et international des paiements, moyens de paiement (cartes de crédit), achat et vente de monnaies étrangères (change);
-- s.[^10-10] droit d’utilisation à temps partiel de biens immobiliers;
-- t.[^10-11] prestations de services liées à la remise des médicaments et des dispositifs médicaux, ainsi que prestations de services des vétérinaires et des médecins-dentistes;
-- u.[^10-12] pompes funèbres;
-- v.[^10-13] prestations de notariat.
+- m.[^10-5] offres de cours;
+- n.[^10-6] voyages en avion et voyages à forfait;
+- o.[^10-7] services afférents à la réservation d’un voyage et facturés séparément (réservation, intermédiaires);
+- p.[^10-8] services de télécommunication au sens de la loi du 30 avril 1997 sur les télécommunications;
+- q.[^10-9] prestations de services comme les services d’information, de conseil, de commercialisation et de répartition des frais de communication, qui sont fournies ou offertes par le biais de services de télécommunication, qu’elles soient facturées par un fournisseur de services de télécommunication ou non;
+- r.[^10-10] ouverture, tenue et clôture de comptes, trafic national et international des paiements, moyens de paiement (cartes de crédit), achat et vente de monnaies étrangères (change);
+- s.[^10-11] droit d’utilisation à temps partiel de biens immobiliers;
+- t.[^10-12] prestations de services liées à la remise des médicaments et des dispositifs médicaux, ainsi que prestations de services des vétérinaires et des médecins-dentistes;
+- u.[^10-13] pompes funèbres;
+- v.[^10-14] prestations de notariat.
 
-<sup>2</sup> Les taxes publiques, les redevances de droits d’auteur et les suppléments non optionnels de tous genres, mis à la charge du client, doivent être inclus dans le prix. Les taxes de séjour peuvent être indiquées séparément.[^10-14]
+<sup>2</sup> Les taxes publiques, les redevances de droits d’auteur et les suppléments non optionnels de tous genres facturés notamment pour la réservation, le service ou le traitement doivent être inclus dans le prix. Les taxes de séjour peuvent être indiquées séparément.[^10-15]
 
-<sup>3</sup> En cas de modification du taux de la taxe sur la valeur ajoutée, le nouveau prix doit être indiqué dans les trois mois qui suivent l’entrée en vigueur de cette modification. Durant ce délai, les consommateurs doivent être informés, par une mention bien visible, que le prix indiqué ne tient pas compte de la modification du taux de la taxe sur la valeur ajoutée.[^10-15]
+<sup>3</sup> En cas de modification du taux de la taxe sur la valeur ajoutée, le nouveau prix doit être indiqué dans les trois mois qui suivent l’entrée en vigueur de cette modification. Durant ce délai, les consommateurs doivent être informés, par une mention bien visible, que le prix indiqué ne tient pas compte de la modification du taux de la taxe sur la valeur ajoutée.[^10-16]
 
-[^10-1]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2011, en vigueur depuis le 1<sup>er</sup> avr. 2012 ([RO 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)).
-[^10-2]: Nouvelle teneur selon le ch. I de l’O du 28 avr. 1999, en vigueur depuis le 1<sup>er</sup> nov. 1999 ([RO 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)).
-[^10-3]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2011, en vigueur depuis le 1<sup>er</sup> avr. 2012 ([RO 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)).
-[^10-4]: Introduite par le ch. I de l’O du 28 avr. 1999, en vigueur depuis le 1<sup>er</sup> nov. 1999 ([RO 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)).
-[^10-5]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2011, en vigueur depuis le 1<sup>er</sup> avr. 2012 ([RO 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)).
-[^10-6]: Introduite par le ch. I de l’O du 28 avr. 1999, en vigueur depuis le 1<sup>er</sup> nov. 1999 ([RO 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)).
-[^10-7]: Introduite par le ch. I de l’O du 28 avr. 1999 ([RO 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)). Nouvelle teneur selon le ch. II de l’O du 4 nov. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
+[^10-1]: Nouvelle teneur selon le ch. I de l’O du 25 mai 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 343](https://fedlex.data.admin.ch/eli/oc/2022/343)).
+[^10-2]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2011, en vigueur depuis le 1<sup>er</sup> avr. 2012 ([RO 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)).
+[^10-3]: Nouvelle teneur selon le ch. I de l’O du 28 avr. 1999, en vigueur depuis le 1<sup>er</sup> nov. 1999 ([RO 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)).
+[^10-4]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2011, en vigueur depuis le 1<sup>er</sup> avr. 2012 ([RO 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)).
+[^10-5]: Introduite par le ch. I de l’O du 28 avr. 1999, en vigueur depuis le 1<sup>er</sup> nov. 1999 ([RO 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)).
+[^10-6]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2011, en vigueur depuis le 1<sup>er</sup> avr. 2012 ([RO 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)).
+[^10-7]: Introduite par le ch. I de l’O du 28 avr. 1999, en vigueur depuis le 1<sup>er</sup> nov. 1999 ([RO 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)).
 [^10-8]: Introduite par le ch. I de l’O du 28 avr. 1999 ([RO 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)). Nouvelle teneur selon le ch. II de l’O du 4 nov. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
-[^10-9]: Introduite par le ch. I de l’O du 28 avr. 1999, en vigueur depuis le 1<sup>er</sup> nov. 1999 ([RO 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)).
+[^10-9]: Introduite par le ch. I de l’O du 28 avr. 1999 ([RO 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)). Nouvelle teneur selon le ch. II de l’O du 4 nov. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
 [^10-10]: Introduite par le ch. I de l’O du 28 avr. 1999, en vigueur depuis le 1<sup>er</sup> nov. 1999 ([RO 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)).
-[^10-11]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2011, en vigueur depuis le 1<sup>er</sup> avr. 2012 ([RO 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)).
-[^10-12]: Introduite par le ch. I de l’O du 12 oct. 2011, en vigueur depuis le 1<sup>er</sup> avr. 2012 ([RO 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)).
+[^10-11]: Introduite par le ch. I de l’O du 28 avr. 1999, en vigueur depuis le 1<sup>er</sup> nov. 1999 ([RO 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)).
+[^10-12]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2011, en vigueur depuis le 1<sup>er</sup> avr. 2012 ([RO 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)).
 [^10-13]: Introduite par le ch. I de l’O du 12 oct. 2011, en vigueur depuis le 1<sup>er</sup> avr. 2012 ([RO 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)).
-[^10-14]: Nouvelle teneur selon le ch. II de l’O du 5 nov. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
-[^10-15]: Introduit par le ch. I de l’O du 28 avr. 1999, en vigueur depuis le 1<sup>er</sup> nov. 1999 ([RO 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)).
+[^10-14]: Introduite par le ch. I de l’O du 12 oct. 2011, en vigueur depuis le 1<sup>er</sup> avr. 2012 ([RO 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)).
+[^10-15]: Nouvelle teneur selon le ch. I de l’O du 25 mai 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 343](https://fedlex.data.admin.ch/eli/oc/2022/343), [388](https://fedlex.data.admin.ch/eli/oc/2022/388)).
+[^10-16]: Introduit par le ch. I de l’O du 28 avr. 1999, en vigueur depuis le 1<sup>er</sup> nov. 1999 ([RO 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)).
 
 #### Art. 11
 

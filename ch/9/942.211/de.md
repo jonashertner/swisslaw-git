@@ -4,11 +4,11 @@ title: "Verordnung vom 11. Dezember 1978 über die Bekanntgabe von Preisen (Prei
 short: PBV
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/2081_2081_2081"
 language: de
-version: 2021-07-01
+version: 2022-07-01
 adopted: 1978-12-11
 in_force: 1979-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/2081_2081_2081/20210701/de/xml/fedlex-data-admin-ch-eli-cc-1978-2081_2081_2081-20210701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/2081_2081_2081/20210701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/2081_2081_2081/20220701/de/xml/fedlex-data-admin-ch-eli-cc-1978-2081_2081_2081-20220701-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/2081_2081_2081/20220701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1978/2081_2081_2081/20210701/de"
 
 (Preisbekanntgabeverordnung, PBV)**[^t-1]**
 
-vom 11. Dezember 1978 (Stand am 1. Juli 2021)
+vom 11. Dezember 1978 (Stand am 1. Juli 2022)
 
 [^t-1]: Abkürzung gemäss Ziff. I der V vom 14. Dez. 1987, in Kraft seit 1. März 1988 ([AS 1988 241](https://fedlex.data.admin.ch/eli/oc/1988/241_241_241)).
 
@@ -66,24 +66,26 @@ Die Verordnung gilt für:
 
 **Bekanntgabepflicht**
 
-<sup>1</sup> Für Waren, die der Konsumentin oder dem Konsumenten zum Kauf angeboten werden, ist der tatsächlich zu bezahlende Preis in Schweizerfranken (Detailpreis) bekanntzugeben.
+<sup>1</sup> Werden den Konsumentinnen und Konsumenten Waren zum Kauf angeboten, so muss mit dem Angebot stets der tatsächlich zu bezahlende Preis in Schweizerfranken (Detailpreis) bekanntgegeben werden.[^3-1]
 
 <sup>2</sup> Die Bekanntgabepflicht gilt auch für kaufähnliche Rechtsgeschäfte.
 
 <sup>3</sup> Sie gilt nicht für Waren, die an Versteigerungen, Auktionen und ähnlichen Veranstaltungen verkauft werden.
 
+[^3-1]: Fassung gemäss Ziff. I der V vom 25. Mai 2022, in Kraft seit 1. Juli 2022 ([AS 2022 343](https://fedlex.data.admin.ch/eli/oc/2022/343), [388](https://fedlex.data.admin.ch/eli/oc/2022/388)).
+
 #### Art. 4
 
 **Öffentliche Abgaben, Urheberrechtsvergütungen, vorgezogene Entsorgungsbeiträge, Vergünstigungen[^4-1]**
 
-<sup>1</sup> Überwälzte öffentliche Abgaben, Urheberrechtsvergütungen, vorgezogene Entsorgungsbeiträge sowie weitere nicht frei wählbare Zuschläge jeglicher Art müssen im Detailpreis inbegriffen sein.[^4-2]
+<sup>1</sup> Überwälzte öffentliche Abgaben, Urheberrechtsvergütungen, vorgezogene Entsorgungsbeiträge sowie weitere nicht frei wählbare Zuschläge jeglicher Art, namentlich für Reservation, Service oder Bearbeitung, müssen im Detailpreis inbegriffen sein. Versandkosten dürfen separat bekanntgegeben werden.[^4-2]
 
 <sup>1bis</sup> Bei Änderung des Mehrwertsteuersatzes muss innert drei Monaten nach deren Inkrafttreten die Preisanschrift angepasst werden. Die Konsumentinnen und Konsumenten sind während dieser Frist mit einem gut sichtbaren Hinweis darüber in Kenntnis zu setzen, dass in der Preisanschrift die Steuersatzänderung noch nicht berücksichtigt ist.[^4-3]
 
 <sup>2</sup> Vergünstigungen wie Rabatte, Rabattmarken oder Rückvergütungen, die erst nach dem Kauf realisiert werden können, sind gesondert bekanntzugeben und zu beziffern.
 
 [^4-1]: Fassung gemäss Ziff. I der V vom 12. Okt. 2011, in Kraft seit 1. April 2012 ([AS 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)).
-[^4-2]: Fassung gemäss Ziff. I der V vom 12. Okt. 2011, in Kraft seit 1. April 2012 ([AS 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)).).
+[^4-2]: Fassung gemäss Ziff. I der V vom 25. Mai 2022, in Kraft seit 1. Juli 2022 ([AS 2022 343](https://fedlex.data.admin.ch/eli/oc/2022/343)).
 [^4-3]: Eingefügt durch Ziff. I der V vom 28. April 1999, in Kraft seit 1. Nov. 1999 ([AS 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)).
 
 ### 2. Abschnitt: Bekanntgabe des Grundpreises
@@ -92,7 +94,7 @@ Die Verordnung gilt für:
 
 **Bekanntgabepflicht**
 
-<sup>1</sup> Für messbare Waren, die der Konsumentin oder dem Konsumenten zum Kauf angeboten werden, ist der Grundpreis bekanntzugeben.
+<sup>1</sup> Werden den Konsumentinnen und Konsumenten messbare Waren zum Kauf angeboten, so muss mit dem Angebot stets der Grundpreis bekanntgegeben werden.[^5-1]
 
 <sup>2</sup> Für vorverpackte Ware sind Detail- und Grundpreis bekanntzugeben.
 
@@ -102,20 +104,21 @@ Der Grundpreis muss nicht angegeben werden bei:
 
 - a. Verkauf per Stück oder nach Stückzahl;
 - b. Verkauf von 1, 2 oder 5 Liter, Kilogramm, Meter, Quadratmeter oder Kubikmeter und ihrer dezimalen Vielfachen und Teile;
-- c.[^5-1] Spirituosen in Behältern mit einem Nenninhalt von 35 und 70 cl;
+- c.[^5-2] Spirituosen in Behältern mit einem Nenninhalt von 35 und 70 cl;
 - d. Fertigpackungen mit einem Nettogewicht oder einem Abtropfgewicht von 25, 125, 250 und 2500 g;
 - e. Kombinationspackungen, Mehrteilpackungen und Geschenkpackungen;
 - f. Lebensmittelkonserven, die aus einer Mischung von festen Produkten bestehen, sofern die Gewichte der Bestandteile angegeben werden;
-- g.[^5-2] Waren in Fertigpackungen, deren Detailpreis nicht mehr als 2 Franken beträgt;
+- g.[^5-3] Waren in Fertigpackungen, deren Detailpreis nicht mehr als 2 Franken beträgt;
 - h. Waren in Fertigpackungen, deren Grundpreis je Kilogramm oder Liter bei Lebensmitteln 150 Franken und bei den übrigen Waren 750 Franken übersteigt;
 - i. gastgewerblichen Betrieben;
-- j.[^5-3] Fertigpackungen von Arzneimitteln der Abgabekategorien A und B nach den Artikeln 41 und 42 der Arzneimittelverordnung vom 21. September 2018[^5-4] sowie der Abgabekategorie C nach Artikel 25 der Arzneimittelverordnung vom 17. Oktober 2001[^5-5].
+- j.[^5-4] Fertigpackungen von Arzneimitteln der Abgabekategorien A und B nach den Artikeln 41 und 42 der Arzneimittelverordnung vom 21. September 2018[^5-5] sowie der Abgabekategorie C nach Artikel 25 der Arzneimittelverordnung vom 17. Oktober 2001[^5-6].
 
-[^5-1]: Fassung gemäss Art. 39 Ziff. 2 der Mengenangabeverordnung vom 5. Sept. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 5275](https://fedlex.data.admin.ch/eli/oc/2012/607)).
-[^5-2]: Fassung gemäss Ziff. I der V vom 14. Dez. 1987, in Kraft seit 1. März 1988 ([AS 1988 241](https://fedlex.data.admin.ch/eli/oc/1988/241_241_241)).
-[^5-3]: Eingefügt durch Art. 39 Ziff. 2 der Mengenangabeverordnung vom 5. Sept. 2012 ([AS 2012 5275](https://fedlex.data.admin.ch/eli/oc/2012/607)). Fassung gemäss Anhang 8 Ziff. II 6 der Arzneimittel-Bewilligungsverordnung vom 14. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 5029](https://fedlex.data.admin.ch/eli/oc/2018/786)).
-[^5-4]: [SR 812.212.21](https://fedlex.data.admin.ch/eli/cc/2018/588)
-[^5-5]: [AS 2001 3420](https://fedlex.data.admin.ch/eli/oc/2001/516)
+[^5-1]: Fassung gemäss Ziff. I der V vom 25. Mai 2022, in Kraft seit 1. Juli 2022 ([AS 2022 343](https://fedlex.data.admin.ch/eli/oc/2022/343), [388](https://fedlex.data.admin.ch/eli/oc/2022/388)).
+[^5-2]: Fassung gemäss Art. 39 Ziff. 2 der Mengenangabeverordnung vom 5. Sept. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 5275](https://fedlex.data.admin.ch/eli/oc/2012/607)).
+[^5-3]: Fassung gemäss Ziff. I der V vom 14. Dez. 1987, in Kraft seit 1. März 1988 ([AS 1988 241](https://fedlex.data.admin.ch/eli/oc/1988/241_241_241)).
+[^5-4]: Eingefügt durch Art. 39 Ziff. 2 der Mengenangabeverordnung vom 5. Sept. 2012 ([AS 2012 5275](https://fedlex.data.admin.ch/eli/oc/2012/607)). Fassung gemäss Anhang 8 Ziff. II 6 der Arzneimittel-Bewilligungsverordnung vom 14. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 5029](https://fedlex.data.admin.ch/eli/oc/2018/786)).
+[^5-5]: [SR 812.212.21](https://fedlex.data.admin.ch/eli/cc/2018/588)
+[^5-6]: [AS 2001 3420](https://fedlex.data.admin.ch/eli/oc/2001/516)
 
 #### Art. 6
 
@@ -173,49 +176,50 @@ Der Grundpreis muss nicht angegeben werden bei:
 
 <sup>1</sup>
 
-Für Dienstleistungen in den folgenden Bereichen sind die tatsächlich zu bezahlenden Preise in Schweizerfranken bekannt zu geben:
+Werden den Konsumentinnen und Konsumenten in den folgenden Bereichen Dienstleistungen angeboten, so muss mit dem Angebot stets der tatsächlich zu bezahlende Preis in Schweizerfranken bekanntgegeben werden:[^10-1]
 
 - a. Coiffeurgewerbe;
 - b. Garagegewerbe für Serviceleistungen;
 - c. Gastgewerbe und Hotellerie;
-- d.[^10-1] Kosmetische Institute und Körperpflege;
-- e.[^10-2] Fitnessinstitute*,* Schwimmbäder, Eisbahnen und andere Sportanlagen;
+- d.[^10-2] Kosmetische Institute und Körperpflege;
+- e.[^10-3] Fitnessinstitute*,* Schwimmbäder, Eisbahnen und andere Sportanlagen;
 - f. Taxigewerbe;
 - g. Unterhaltungsgewerbe (Theater, Konzerte, Kinos, Dancings und dgl.), Museen, Ausstellungen, Messen sowie Sportveranstaltungen;
 - h. Vermietung von Fahrzeugen, Apparaten und Geräten;
-- i.[^10-3] Wäschereien und Textilreinigungen (Hauptverfahren und Standardartikel);
+- i.[^10-4] Wäschereien und Textilreinigungen (Hauptverfahren und Standardartikel);
 - k. Parkieren und Einstellen von Autos;
 - l. Fotobranche (standardisierte Leistungen in den Bereichen Entwickeln, Kopieren, Vergrössern);
-- m.[^10-4] Kurswesen;
-- n.[^10-5] Flug- und Pauschalreisen;
-- o.[^10-6] die mit der Buchung einer Reise zusammenhängenden und gesondert in Rechnung gestellten Leistungen (Buchung, Reservation, Vermittlung);
-- p.[^10-7] Fernmeldedienste nach dem Fernmeldegesetz vom 30. April 1997;
-- q.[^10-8] Dienstleistungen wie Informations-, Beratungs-, Vermarktungs- und Gebührenteilungsdienste, die über Fernmeldedienste erbracht oder angeboten werden, unabhängig davon, ob sie von einer Anbieterin von Fernmeldediensten verrechnet werden;
-- r.[^10-9] die Kontoeröffnung, -führung und -schliessung, den Zahlungsverkehr im Inland und grenzüberschreitend, Zahlungsmittel (Kreditkarten) sowie den Kauf und Verkauf ausländischer Währungen (Geldwechsel);
-- s.[^10-10] Teilzeitnutzungsrechte an Immobilien;
-- t.[^10-11] Dienstleistungen im Zusammenhang mit der Abgabe von Arzneimitteln und Medizinprodukten sowie Dienstleistungen von Tier- und Zahnärzten;
-- u.[^10-12] Bestattungsinstitute;
-- v.[^10-13] Notariatsdienstleistungen.
+- m.[^10-5] Kurswesen;
+- n.[^10-6] Flug- und Pauschalreisen;
+- o.[^10-7] die mit der Buchung einer Reise zusammenhängenden und gesondert in Rechnung gestellten Leistungen (Buchung, Reservation, Vermittlung);
+- p.[^10-8] Fernmeldedienste nach dem Fernmeldegesetz vom 30. April 1997;
+- q.[^10-9] Dienstleistungen wie Informations-, Beratungs-, Vermarktungs- und Gebührenteilungsdienste, die über Fernmeldedienste erbracht oder angeboten werden, unabhängig davon, ob sie von einer Anbieterin von Fernmeldediensten verrechnet werden;
+- r.[^10-10] die Kontoeröffnung, -führung und -schliessung, den Zahlungsverkehr im Inland und grenzüberschreitend, Zahlungsmittel (Kreditkarten) sowie den Kauf und Verkauf ausländischer Währungen (Geldwechsel);
+- s.[^10-11] Teilzeitnutzungsrechte an Immobilien;
+- t.[^10-12] Dienstleistungen im Zusammenhang mit der Abgabe von Arzneimitteln und Medizinprodukten sowie Dienstleistungen von Tier- und Zahnärzten;
+- u.[^10-13] Bestattungsinstitute;
+- v.[^10-14] Notariatsdienstleistungen.
 
-<sup>2</sup> Überwälzte öffentliche Abgaben, Urheberrechtsvergütungen sowie weitere nicht frei wählbare Zuschläge jeglicher Art müssen im Preis enthalten sein. Kurtaxen dürfen separat bekannt gegeben werden.[^10-14]
+<sup>2</sup> Überwälzte öffentliche Abgaben, Urheberrechtsvergütungen sowie weitere nicht frei wählbare Zuschläge jeglicher Art, namentlich für Reservation, Service oder Bearbeitung, müssen im Preis enthalten sein. Kurtaxen dürfen separat bekanntgegeben werden.[^10-15]
 
-<sup>3</sup> Bei Änderung des Mehrwertsteuersatzes muss innert drei Monaten nach deren Inkrafttreten die Preisanschrift angepasst werden. Die Konsumentinnen und Konsumenten sind während dieser Frist mit einem gut sichtbaren Hinweis darüber in Kenntnis zu setzen, dass die Steuersatzänderung in der Preisanschrift noch nicht berücksichtigt ist.[^10-15]
+<sup>3</sup> Bei Änderung des Mehrwertsteuersatzes muss innert drei Monaten nach deren Inkrafttreten die Preisanschrift angepasst werden. Die Konsumentinnen und Konsumenten sind während dieser Frist mit einem gut sichtbaren Hinweis darüber in Kenntnis zu setzen, dass die Steuersatzänderung in der Preisanschrift noch nicht berücksichtigt ist.[^10-16]
 
-[^10-1]: Fassung gemäss Ziff. I der V vom 12. Okt. 2011, in Kraft seit 1. April 2012 ([AS 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)).
-[^10-2]: Fassung gemäss Ziff. I der V vom 28. April 1999, in Kraft seit 1. Nov. 1999 ([AS 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)).
-[^10-3]: Fassung gemäss Ziff. I der V vom 12. Okt. 2011, in Kraft seit 1. April 2012 ([AS 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)).
-[^10-4]: Eingefügt durch Ziff. I der V vom 28. April 1999, in Kraft seit 1. Nov. 1999 ([AS 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)).
-[^10-5]: Eingefügt durch Ziff. I der V vom 28. April 1999 ([AS 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)). Fassung gemäss Ziff. I der V vom 12. Okt. 2011, in Kraft seit 1. April 2012 ([AS 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)).
-[^10-6]: Eingefügt durch Ziff. I der V vom 28. April 1999, in Kraft seit 1. Nov. 1999 ([AS 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)).
-[^10-7]: Eingefügt durch Ziff. I der V vom 28. April 1999 ([AS 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)). Fassung gemäss Ziff. II der V vom 4. Nov. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
+[^10-1]: Fassung gemäss Ziff. I der V vom 25. Mai 2022, in Kraft seit 1. Juli 2022 ([AS 2022 343](https://fedlex.data.admin.ch/eli/oc/2022/343), [388](https://fedlex.data.admin.ch/eli/oc/2022/388)).
+[^10-2]: Fassung gemäss Ziff. I der V vom 12. Okt. 2011, in Kraft seit 1. April 2012 ([AS 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)).
+[^10-3]: Fassung gemäss Ziff. I der V vom 28. April 1999, in Kraft seit 1. Nov. 1999 ([AS 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)).
+[^10-4]: Fassung gemäss Ziff. I der V vom 12. Okt. 2011, in Kraft seit 1. April 2012 ([AS 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)).
+[^10-5]: Eingefügt durch Ziff. I der V vom 28. April 1999, in Kraft seit 1. Nov. 1999 ([AS 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)).
+[^10-6]: Eingefügt durch Ziff. I der V vom 28. April 1999 ([AS 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)). Fassung gemäss Ziff. I der V vom 12. Okt. 2011, in Kraft seit 1. April 2012 ([AS 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)).
+[^10-7]: Eingefügt durch Ziff. I der V vom 28. April 1999, in Kraft seit 1. Nov. 1999 ([AS 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)).
 [^10-8]: Eingefügt durch Ziff. I der V vom 28. April 1999 ([AS 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)). Fassung gemäss Ziff. II der V vom 4. Nov. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
-[^10-9]: Eingefügt durch Ziff. I der V vom 28. April 1999, in Kraft seit 1. Nov. 1999 ([AS 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)).
+[^10-9]: Eingefügt durch Ziff. I der V vom 28. April 1999 ([AS 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)). Fassung gemäss Ziff. II der V vom 4. Nov. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
 [^10-10]: Eingefügt durch Ziff. I der V vom 28. April 1999, in Kraft seit 1. Nov. 1999 ([AS 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)).
-[^10-11]: Eingefügt durch Ziff. I der V vom 21. Jan. 2004 ([AS 2004 827](https://fedlex.data.admin.ch/eli/oc/2004/94)). Fassung gemäss Ziff. I der V vom 12. Okt. 2011, in Kraft seit 1. April 2012 ([AS 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)).
-[^10-12]: Eingefügt durch Ziff. I der V vom 12. Okt. 2011, in Kraft seit 1. April 2012 ([AS 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)).
+[^10-11]: Eingefügt durch Ziff. I der V vom 28. April 1999, in Kraft seit 1. Nov. 1999 ([AS 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)).
+[^10-12]: Eingefügt durch Ziff. I der V vom 21. Jan. 2004 ([AS 2004 827](https://fedlex.data.admin.ch/eli/oc/2004/94)). Fassung gemäss Ziff. I der V vom 12. Okt. 2011, in Kraft seit 1. April 2012 ([AS 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)).
 [^10-13]: Eingefügt durch Ziff. I der V vom 12. Okt. 2011, in Kraft seit 1. April 2012 ([AS 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)).
-[^10-14]: Fassung gemäss Ziff. II der V vom 5. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
-[^10-15]: Eingefügt durch Ziff. I der V vom 28. April 1999, in Kraft seit 1. Nov. 1999 ([AS 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)).
+[^10-14]: Eingefügt durch Ziff. I der V vom 12. Okt. 2011, in Kraft seit 1. April 2012 ([AS 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)).
+[^10-15]: Fassung gemäss Ziff. I der V vom 25. Mai 2022, in Kraft seit 1. Juli 2022 ([AS 2022 343](https://fedlex.data.admin.ch/eli/oc/2022/343), [388](https://fedlex.data.admin.ch/eli/oc/2022/388)).
+[^10-16]: Eingefügt durch Ziff. I der V vom 28. April 1999, in Kraft seit 1. Nov. 1999 ([AS 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)).
 
 #### Art. 11
 
@@ -223,7 +227,7 @@ Für Dienstleistungen in den folgenden Bereichen sind die tatsächlich zu bezahl
 
 <sup>1</sup> Preisanschläge, Preislisten, Kataloge usw. müssen leicht zugänglich und gut lesbar sein.
 
-<sup>1bis</sup> ...[^11-1]
+<sup>1bis</sup> …[^11-1]
 
 <sup>2</sup> Aus der Bekanntgabe muss hervorgehen, auf welche Art und Einheit der Dienstleistung oder auf welche Verrechnungssätze sich der Preis bezieht.
 
@@ -334,7 +338,7 @@ Neben dem tatsächlich zu bezahlenden Preis ist mindestens der eigentliche Flugp
 
 <sup>1</sup> Werden in der Werbung Preise aufgeführt oder bezifferte Hinweise auf Preisrahmen oder Preisgrenzen gemacht, so sind die tatsächlich zu bezahlenden Preise bekanntzugeben.
 
-<sup>1bis</sup> ...[^13-2]
+<sup>1bis</sup> …[^13-2]
 
 <sup>2</sup> Hersteller, Importeure und Grossisten können Richtpreise bekanntgeben.[^13-3]
 
@@ -352,7 +356,7 @@ Neben dem tatsächlich zu bezahlenden Preis ist mindestens der eigentliche Flugp
 
 <sup>3</sup> Die Preisinformationen müssen mindestens in der Schriftgrösse der beworbenen Nummer, gut sichtbar und deutlich lesbar in unmittelbarer Nähe der beworbenen Nummer angegeben werden.[^13a-2]
 
-<sup>4</sup> ...[^13a-3]
+<sup>4</sup> …[^13a-3]
 
 [^13a-1]: Eingefügt durch Ziff. II der V vom 4. Nov. 2009, in Kraft seit 1. Juli 2010 ([AS 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
 [^13a-2]: Fassung gemäss Ziff. II der V vom 5. Nov. 2014, in Kraft seit 1. Juli 2015 ([AS 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
@@ -487,7 +491,7 @@ Widerhandlungen gegen diese Verordnung werden nach den Bestimmungen des Bundesge
 
 **Änderung bisherigen Rechts**
 
-...[^24-1]
+…[^24-1]
 
 [^24-1]: Die Änderungen können unter [AS 1978 2081](https://fedlex.data.admin.ch/eli/oc/1978/2081_2081_2081)konsultiert werden.
 

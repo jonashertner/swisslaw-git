@@ -4,11 +4,11 @@ title: "Ordinanza dell'11 dicembre 1978 sull'indicazione dei prezzi (OIP)"
 short: OIP
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/2081_2081_2081"
 language: it
-version: 2021-07-01
+version: 2022-07-01
 adopted: 1978-12-11
 in_force: 1979-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/2081_2081_2081/20210701/it/xml/fedlex-data-admin-ch-eli-cc-1978-2081_2081_2081-20210701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/2081_2081_2081/20210701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/2081_2081_2081/20220701/it/xml/fedlex-data-admin-ch-eli-cc-1978-2081_2081_2081-20220701-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/2081_2081_2081/20220701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1978/2081_2081_2081/20210701/it"
 
 (OIP)**[^t-1]**
 
-dell’11 dicembre 1978 (Stato 1° luglio 2021) (Stato 1° luglio 2021)
+dell’11 dicembre 1978 (Stato 1° luglio 2022)
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del 14 dic. 1987, in vigore dal 1° mar. 1988 ([RU 1988 241](https://fedlex.data.admin.ch/eli/oc/1988/241_241_241)).
 
@@ -65,24 +65,26 @@ L’ordinanza s’applica:
 
 **Obbligo di indicare il prezzo**
 
-<sup>1</sup> Le merci offerte in vendita al consumatore devono essere contrassegnate con il prezzo effettivamente pagabile in franchi svizzeri (prezzo al minuto).
+<sup>1</sup> Per le merci offerte in vendita al consumatore deve essere indicato in ogni momento il prezzo effettivamente da pagare in franchi svizzeri (prezzo al minuto).[^3-1]
 
 <sup>2</sup> L’obbligo di indicare i prezzi s’applica anche ai negozi giuridici analoghi alla compera.
 
 <sup>3</sup> L’indicazione non è obbligatoria per le merci vendute all’incanto o in altro modo di vendita analoga.
 
+[^3-1]: Nuovo testo giusta il n. I dell’O del 25 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 343](https://fedlex.data.admin.ch/eli/oc/2022/343), [388](https://fedlex.data.admin.ch/eli/oc/2022/388)).
+
 #### Art. 4
 
 **Tasse pubbliche, compensi per i diritti d’autore, contributi anticipati per lo smaltimento, vantaggi[^4-1]**
 
-<sup>1</sup> Le tasse pubbliche inglobabili nei prezzi al minuto, i compensi per i diritti d’autore, i contributi anticipati per lo smaltimento e altri supplementi non facoltativi di qualsiasi tipo devono già essere inclusi nel prezzo indicato.[^4-2]
+<sup>1</sup> Le tasse pubbliche inglobabili nei prezzi al minuto, i compensi per i diritti d’autore, i contributi anticipati per lo smaltimento e altri supplementi non facoltativi di qualsiasi tipo, segnatamente per la prenotazione, il servizio o l’elaborazione, devono già essere inclusi nel prezzo indicato. I costi di spedizione possono essere indicati separatamente.[^4-2]
 
 <sup>1bis</sup> In caso di modifica dell’aliquota dell’imposta sul valore aggiunto, l’indicazione del prezzo deve essere adattata entro i tre mesi successivi all’entrata in vigore di tale modifica. Durante questo periodo, i consumatori devono essere informati con una menzione ben visibile che la modifica dell’aliquota d’imposta non è ancora considerata nel prezzo indicato.[^4-3]
 
 <sup>2</sup> Vantaggi come ribassi, tagliandi di ribasso o ristorno, realizzabili soltanto dopo la compera, devono essere designati separatamente e indicati in cifre.
 
 [^4-1]: Nuovo testo giusta il n. I dell’O del 12 ott. 2011, in vigore dal 1° apr. 2012 ([RU 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)).
-[^4-2]: Nuovo testo giusta il n. I dell’O del 12 ott. 2011, in vigore dal 1° apr. 2012 ([RU 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)).
+[^4-2]: Nuovo testo giusta il n. I dell’O del 25 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 343](https://fedlex.data.admin.ch/eli/oc/2022/343)).
 [^4-3]: Introdotto dal n. I dell’O del 28 apr. 1999, in vigore dal 1° nov. 1999 ([RU 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)).
 
 ### Sezione 2: Indicazione del prezzo unitario
@@ -91,7 +93,7 @@ L’ordinanza s’applica:
 
 **Obbligo di indicare il prezzo unitario**
 
-<sup>1</sup> Le merci misurabili offerte in vendita al consumatore devono essere indicate con il prezzo unitario.
+<sup>1</sup> Per le merci misurabili offerte in vendita al consumatore deve essere indicato in ogni momento il prezzo unitario.[^5-1]
 
 <sup>2</sup> Quando si tratta di merce preimballata, devono essere indicati il prezzo al minuto e il prezzo unitario.
 
@@ -101,20 +103,21 @@ L’indicazione del prezzo unitario non è obbligatoria:
 
 - a. per le vendite fatturate al pezzo o secondo il numero dei pezzi;
 - b. per le vendite di uno, due o cinque litri, chilogrammi, metri, metri quadrati o metri cubi o dei loro multipli o sottomultipli;
-- c.[^5-1] per le bevande spiritose in recipienti della capacità nominale di 35 e 70 cl;
+- c.[^5-2] per le bevande spiritose in recipienti della capacità nominale di 35 e 70 cl;
 - d. per gli imballaggi di condizionamento del peso netto o del peso stillato di 25, 125, 250, 2500 grammi;
 - e. per gli imballaggi combinati, gli imballaggi composti e le confezioni regalo;
 - f. per le conserve alimentari composte di una miscela di prodotti solidi sempre che sia dichiarato il peso dei componenti;
-- g.[^5-2] per le merci in imballaggi di condizionamento il cui prezzo al minuto non supera i 2 franchi;
+- g.[^5-3] per le merci in imballaggi di condizionamento il cui prezzo al minuto non supera i 2 franchi;
 - h. per le merci in imballaggio di condizionamento il cui prezzo unitario per chilogrammo o litro supera i 150 franchi trattandosi di derrate alimentari e i 750 franchi trattandosi di altre merci;
 - i. negli esercizi pubblici;
-- j.[^5-3] per gli imballaggi preconfezionati di medicamenti delle categorie di dispensazione A e B secondo gli articoli 41 e 42 dell’ordinanza del 21 settembre 2018[^5-4] sui medicamenti, come anche della categoria C secondo l’articolo 25 dell’ordinanza del 17 ottobre 2001[^5-5] sui medicamenti.
+- j.[^5-4] per gli imballaggi preconfezionati di medicamenti delle categorie di dispensazione A e B secondo gli articoli 41 e 42 dell’ordinanza del 21 settembre 2018[^5-5] sui medicamenti, come anche della categoria C secondo l’articolo 25 dell’ordinanza del 17 ottobre 2001[^5-6] sui medicamenti.
 
-[^5-1]: Nuovo testo giusta l’art. 39 n. 2 dell’O del 5 set. 2012 sulle indicazioni di quantità, in vigore dal 1° gen. 2013 ([RU 2012 5275](https://fedlex.data.admin.ch/eli/oc/2012/607)).
-[^5-2]: Nuovo testo giusta il n. I dell’O del 14 dic. 1987, in vigore dal 1° mar. 1988 ([RU 1988 241](https://fedlex.data.admin.ch/eli/oc/1988/241_241_241)).
-[^5-3]: Introdotta dall’art. 39 n. 2 dell’O del 5 set. 2012 sulle indicazioni di quantità ([RU 2012 5275](https://fedlex.data.admin.ch/eli/oc/2012/607)). Nuovo testo giusta l’all. 8 n. II 6 dell’O del 14 nov. 2018 sull’autorizzazione dei medicamenti, in vigore dal 1° gen. 2019 ([RU 2018 5029](https://fedlex.data.admin.ch/eli/oc/2018/786)).
-[^5-4]: [RS 812.212.21](https://fedlex.data.admin.ch/eli/cc/2018/588)
-[^5-5]: [RU 2001 3420](https://fedlex.data.admin.ch/eli/oc/2001/516)
+[^5-1]: Nuovo testo giusta il n. I dell’O del 25 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 343](https://fedlex.data.admin.ch/eli/oc/2022/343), [388](https://fedlex.data.admin.ch/eli/oc/2022/388)).
+[^5-2]: Nuovo testo giusta l’art. 39 n. 2 dell’O del 5 set. 2012 sulle indicazioni di quantità, in vigore dal 1° gen. 2013 ([RU 2012 5275](https://fedlex.data.admin.ch/eli/oc/2012/607)).
+[^5-3]: Nuovo testo giusta il n. I dell’O del 14 dic. 1987, in vigore dal 1° mar. 1988 ([RU 1988 241](https://fedlex.data.admin.ch/eli/oc/1988/241_241_241)).
+[^5-4]: Introdotta dall’art. 39 n. 2 dell’O del 5 set. 2012 sulle indicazioni di quantità ([RU 2012 5275](https://fedlex.data.admin.ch/eli/oc/2012/607)). Nuovo testo giusta l’all. 8 n. II 6 dell’O del 14 nov. 2018 sull’autorizzazione dei medicamenti, in vigore dal 1° gen. 2019 ([RU 2018 5029](https://fedlex.data.admin.ch/eli/oc/2018/786)).
+[^5-5]: [RS 812.212.21](https://fedlex.data.admin.ch/eli/cc/2018/588)
+[^5-6]: [RU 2001 3420](https://fedlex.data.admin.ch/eli/oc/2001/516)
 
 #### Art. 6
 
@@ -172,7 +175,7 @@ L’indicazione del prezzo unitario non è obbligatoria:
 
 <sup>1</sup>
 
-Il prezzo effettivamente pagabile per le prestazioni offerte nei campi elencati qui di seguito è indicato in franchi svizzeri:[^10-1]
+Il prezzo effettivamente da pagare per le prestazioni offerte al consumatore nei campi elencati qui di seguito è indicato in ogni momento in franchi svizzeri:[^10-1]
 
 - a. saloni da parrucchiere;
 - b. lavori correnti nelle autorimesse;
@@ -196,11 +199,11 @@ Il prezzo effettivamente pagabile per le prestazioni offerte nei campi elencati 
 - u.[^10-13] agenzie di onoranze funebri;
 - v. [^10-14] prestazioni notarili.
 
-<sup>2</sup> Le tasse pubbliche inglobabili nel prezzo, i compensi per i diritti d’autore e altri supplementi non facoltativi di qualsiasi tipo devono essere inclusi nel prezzo. Le tasse di soggiorno possono essere indicate separatamente .[^10-15]
+<sup>2</sup> Le tasse pubbliche inglobabili nel prezzo, i compensi per i diritti d’autore e altri supplementi non facoltativi di qualsiasi tipo, segnatamente per la prenotazione, il servizio o l’elaborazione, devono essere inclusi nel prezzo. Le tasse di soggiorno possono essere indicate separatamente.[^10-15]
 
 <sup>3</sup> In caso di modifica dell’aliquota dell’imposta sul valore aggiunto, l’indicazione del prezzo deve essere adattata entro i tre mesi successivi all’entrata in vigore di tale modifica. Durante questo periodo, i consumatori devono essere informati con una menzione ben visibile che la modifica dell’aliquota d’imposta non è ancora considerata nel prezzo indicato.[^10-16]
 
-[^10-1]: Nuovo testo giusta l’art. 107 dell’O del 9 mar. 2007 sui servizi di telecomunicazioni, in vigore dal 1° apr. 2007 ([RU 2007 945](https://fedlex.data.admin.ch/eli/oc/2007/166)).
+[^10-1]: Nuovo testo giusta il n. I dell’O del 25 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 343](https://fedlex.data.admin.ch/eli/oc/2022/343), [388](https://fedlex.data.admin.ch/eli/oc/2022/388)).
 [^10-2]: Nuovo testo giusta il n. I dell’O del 12 ott. 2011, in vigore dal 1° apr. 2012 ([RU 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)).
 [^10-3]: Nuovo testo giusta il n. I dell’O del 28 apr. 1999, in vigore dal 1° nov. 1999 ([RU 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)).
 [^10-4]: Nuovo testo giusta il n. I dell’O del 12 ott. 2011, in vigore dal 1° apr. 2012 ([RU 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)).
@@ -214,7 +217,7 @@ Il prezzo effettivamente pagabile per le prestazioni offerte nei campi elencati 
 [^10-12]: Introdotta dal n. I dell’O del 21 gen. 2004 ([RU 2004 827](https://fedlex.data.admin.ch/eli/oc/2004/94)). Nuovo testo giusta il n. I dell’O del 12 ott. 2011, in vigore dal 1° apr. 2012 ([RU 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)).
 [^10-13]: Introdotta dal n. I dell’O del 12 ott. 2011, in vigore dal 1° apr. 2012 ([RU 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)).
 [^10-14]: Introdotta dal n. I dell’O del 12 ott. 2011, in vigore dal 1° apr. 2012 ([RU 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)).
-[^10-15]: Nuovo testo giusta il n. II dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
+[^10-15]: Nuovo testo giusta il n. I dell’O del 25 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 343](https://fedlex.data.admin.ch/eli/oc/2022/343)).
 [^10-16]: Introdotto dal n. I dell’O del 28 apr. 1999, in vigore dal 1° nov. 1999 ([RU 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)).
 
 #### Art. 11
@@ -302,11 +305,11 @@ Per le prestazioni ai sensi dell’articolo 10 capoverso 1 lettera q che richied
 
 <sup>1</sup> Chi propone tariffe aeree ai consumatori in Svizzera, in qualsiasi forma, segnatamente anche in Internet, per servizi aerei a partire da un aeroporto in Svizzera o nell’Unione europea deve menzionare le condizioni tariffarie applicabili.
 
-<sup>2</sup> Il prezzo pagabile effettivamente deve sempre essere indicato. Esso include la tariffa aerea e tutte le imposte, le tasse, i supplementi e i diritti inevitabili e prevedibili al momento della pubblicazione.
+<sup>2</sup> Il prezzo effettivamente da pagare deve essere indicato in ogni momento.[^11c-2] Esso include la tariffa aerea e tutte le imposte, le tasse, i supplementi e i diritti inevitabili e prevedibili al momento della pubblicazione.
 
 <sup>3</sup>
 
-Oltre al prezzo pagabile effettivamente, devono essere indicati almeno la tariffa aerea e, se sono aggiunti a quest’ultima, i seguenti elementi:
+Oltre al prezzo effettivamente da pagare[^11c-3], devono essere indicati almeno la tariffa aerea e, se sono aggiunti a quest’ultima, i seguenti elementi:
 
 - a. le imposte;
 - b. le tasse aeroportuali; e
@@ -315,6 +318,8 @@ Oltre al prezzo pagabile effettivamente, devono essere indicati almeno la tariff
 <sup>4</sup> I supplementi di prezzo opzionali devono essere comunicati in modo chiaro, trasparente e inequivocabile all’inizio di qualsiasi procedura di prenotazione; la loro accettazione da parte del consumatore deve essere confermata espressamente (opt-in).
 
 [^11c-1]: Introdotto dal n. I dell’O del 12 ott. 2011, in vigore dal 1° apr. 2012 ([RU 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)).
+[^11c-2]: Nuovo testo giusta il n. I dell’O del 25 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 343](https://fedlex.data.admin.ch/eli/oc/2022/343), [388](https://fedlex.data.admin.ch/eli/oc/2022/388)).
+[^11c-3]: Nuova espr. giusta il n. I dell’O del 25 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 343](https://fedlex.data.admin.ch/eli/oc/2022/343)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
 
 #### Art. 12
 
@@ -332,7 +337,7 @@ Oltre al prezzo pagabile effettivamente, devono essere indicati almeno la tariff
 
 **Indicazione dei prezzi nella pubblicità in generale[^13-1]**
 
-<sup>1</sup> Se, nella pubblicità, sono menzionati prezzi, categorie o limiti di prezzi in cifre, devono essere indicati i prezzi pagabili effettivamente.
+<sup>1</sup> Se, nella pubblicità, sono menzionati prezzi, categorie o limiti di prezzi in cifre, devono essere indicati i prezzi effettivamente da pagare.
 
 <sup>1bis</sup> ...[^13-2]
 
@@ -396,7 +401,7 @@ Le disposizioni concernenti l’indicazione fallace dei prezzi (art. 16 a 18) s�
 
 <sup>1</sup>
 
-Oltre al prezzo pagabile effettivamente il fornitore può indicare un prezzo comparativo se:
+Oltre al prezzo effettivamente da pagare il fornitore può indicare un prezzo comparativo se:
 
 - a. in precedenza ha effettivamente offerto la merce o la prestazione di servizio a questo prezzo (autocomparazione);
 - b. effettivamente offrirà la merce o la prestazione di servizio a questo prezzo con effetto immediato (prezzo di lancio); o
@@ -417,7 +422,7 @@ Oltre al prezzo pagabile effettivamente il fornitore può indicare un prezzo com
 
 **Menzione della riduzione di prezzo**
 
-<sup>1</sup> L’indicazione in cifre di riduzioni di prezzo, abbuoni, vantaggi procurati da campagne di ritiro o di scambio come anche di regali, ecc. è assimilata all’indicazione di altri prezzi all’infuori di quelli pagabili effettivamente.
+<sup>1</sup> L’indicazione in cifre di riduzioni di prezzo, abbuoni, vantaggi procurati da campagne di ritiro o di scambio come anche di regali, ecc. è assimilata all’indicazione di altri prezzi all’infuori di quelli effettivamente da pagare.
 
 <sup>2</sup> L’obbligo di indicare i prezzi e di specificare il prodotto e l’unità di vendita si applica, giusta la presente ordinanza, a tali indicazioni. Sono eccettuate le indicazioni concernenti parecchi prodotti di ugual natura, prodotti diversi, gruppi di prodotti o assortimenti, sempre che l’aliquota o l’importo di riduzione siano i medesimi.[^17-1]
 
