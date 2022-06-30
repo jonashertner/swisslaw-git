@@ -4,10 +4,11 @@ number: "833.1"
 title: Gesetz über die BVG- und Stiftungsaufsicht (BSAG)
 short: BSAG
 language: de
-nachtrag: "75"
-valid_until: 2022-07-01
+version: "2022-07-01"
+nachtrag: "117"
+valid_until: 2025-10-01
 adopted: 2025-06-30
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-833_1-2011_07_11-2012_01_01-075.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-833_1-2011_07_11-2012_01_01-117.html"
 text: pdf
 ---
 
@@ -36,22 +37,36 @@ beschliesst:
 
 Unter dem Namen «BVG- und Stiftungsaufsicht des Kantons Zürich (BVS)» besteht eine selbstständige öffentlich-rechtliche Anstalt mit Sitz in Zürich.
 
-#### § 2
+**Zuständigkeit der Anstalt**
 
-**Zweck der Anstalt**
+§ 2.[^1-1] <sup>1</sup> Die Anstalt ist kantonale Aufsichtsbehörde über folgende Einrichtungen mit Sitz im Kanton Zürich:
 
-<sup>1</sup> Die Anstalt ist kantonale Aufsichtsbehörde über folgende Einrichtungen mit Sitz im Kanton Zürich:
+- a. Vorsorgeeinrichtungen sowie Einrichtungen, die nach ihrem Zweck der beruflichen Vorsorge dienen, gemäss Art. 61 des Bundesgesetzes vom 25. Juni 1982 über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVG)[^1-2],
 
-- a. Vorsorgeeinrichtungen sowie Einrichtungen, die nach ihrem Zweck der beruflichen Vorsorge dienen, gemäss Art. 61 des Bundesgesetzes vom 25. Juni 1982 über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVG)[^2-1],
-
-- b. Personalfürsorgestiftungen nach Art. 89<sup>bis</sup> Abs. 6 ZGB[^2-2].
+- b. Personalfürsorgestiftungen nach Art. 89 a Abs. 6 ZGB[^1-3].
 
 <sup>2</sup> Sie ist Aufsichtsbehörde über Stiftungen nach Art. 84 ZGB, die nach ihrer Bestimmung dem Kanton oder mehreren Bezirken angehören. Sie nimmt weitere Aufgaben des Kantons im Bereich des Stiftungsrechts gemäss diesem Gesetz wahr.
 
-<sup>3</sup> Sie kann im Rahmen interkantonaler Vereinbarungen für andere Kantone die Aufsicht über Einrichtungen im Sinne von Abs. 1 wahrnehmen.
+<sup>3</sup> Sie ist Aufsichtsbehörde über Stiftungen nach Art. 84 ZGB, die nach ihrer Bestimmung einer Gemeinde angehören. Ausgenommen sind Stiftungen, die nach § 2 a von der Gemeinde beaufsichtigt werden.
 
-[^2-1]: SR 831.40.
-[^2-2]: SR 210.
+<sup>4</sup> Die Anstalt nimmt gestützt auf interkantonale Verträge die Aufsicht über Einrichtungen im Sinne von Abs. 1 und über Stiftungen nach Art. 84 ZGB für andere Kantone wahr.
+
+**Zuständigkeit der Gemeinde**
+
+§ 2 a.[^1-4] <sup>1</sup> Der Gemeindevorstand kann für einzelne Stiftungen gemäss § 2 Abs. 3 beschliessen, die Aufsicht selber wahrzunehmen, wenn die Stiftung a. eine Bilanzsumme von weniger als 5 Mio. Franken ausweist und b. im Jahresdurchschnitt über weniger als fünf Vollzeitstellen verfügt.
+
+**1**
+
+- 1\. 7. 22 - 117
+
+<sup>2</sup> Die Zuständigkeit für die Aufsicht wechselt auf den 1. Juli. Der Gemeindevorstand teilt seinen Beschluss der Anstalt bis zum Ende des Vorjahres mit.
+
+<sup>3</sup> Erfüllt eine Stiftung die Voraussetzungen gemäss Abs. 1 nicht mehr, hebt der Gemeindevorstand seinen Beschluss auf und teilt dies der Anstalt mit. Die Zuständigkeit für die Aufsicht wechselt auf den 1. Juli zur Anstalt.
+
+[^1-1]: Fassung gemäss G vom 7. Februar 2022 (OS 77, 311; ABl 2020-09-04). In Kraft seit 1. Juli 2022. 1. 7. 22 - 117 7
+[^1-2]: SR 831.40.
+[^1-3]: SR 210.
+[^1-4]: Eingefügt durch G vom 7. Februar 2022 (OS 77, 311; ABl 2020-09-04). In Kraft seit 1. Juli 2022.
 
 ### B. Organisation
 
@@ -65,11 +80,11 @@ Die Organe der Anstalt sind a. der Verwaltungsrat,
 
 - c. die Revisionsstelle.
 
-**1**
-
-- 1\. 1. 12 - 75 § 4. <sup>1</sup> Der Regierungsrat wählt die Präsidentin oder den Präsidenten und vier weitere Mitglieder des Verwaltungsrates auf eine Amtsdauer von vier Jahren. Er stellt dabei sicher, dass der Verwaltungsrat unabhängig ist und über die erforderlichen Fachkenntnisse in den Bereichen Recht, Wirtschaftsprüfung und Management verfügt.
+#### § 4
 
 **Verwaltungsrat a. Wahl**
+
+<sup>1</sup> Der Regierungsrat wählt die Präsidentin oder den Präsidenten und vier weitere Mitglieder des Verwaltungsrates auf eine Amtsdauer von vier Jahren. Er stellt dabei sicher, dass der Verwaltungsrat unabhängig ist und über die erforderlichen Fachkenntnisse in den Bereichen Recht, Wirtschaftsprüfung und Management verfügt.
 
 <sup>2</sup> Im Übrigen konstituiert sich der Verwaltungsrat selbst.
 
@@ -111,17 +126,12 @@ Die Organe der Anstalt sind a. der Verwaltungsrat,
 
 <sup>3</sup> Sie oder er nimmt an den Sitzungen des Verwaltungsrates mit beratender Stimme und Antragsrecht teil.
 
-#### § 8
-
 **Revisionsstelle**
 
-<sup>1</sup> Die Revisionsstelle der Anstalt muss a. die unabhängige Erfüllung ihrer Aufgaben gewährleisten,
+§ 8.[^7-1] Die Finanzkontrolle des Kantons Zürich prüft die Rechnung der Anstalt nach Massgabe des Finanzkontrollgesetzes vom 30. Oktober 2000[^7-2].
 
-- b. als Revisionsexperte im Sinne von Art. 4 des Bundesgesetzes vom 16. Dezember 2005 über die Zulassung und Beaufsichtigung der Revisorinnen und Revisoren[^8-1] zugelassen sein.
-
-<sup>2</sup> Sie erstattet dem Verwaltungsrat einen schriftlichen Bericht über das Vorgehen und das Ergebnis ihrer Prüfung. Sie empfiehlt Genehmigung, Genehmigung mit Einschränkung oder Rückweisung der Jahresrechnung.
-
-[^8-1]: SR 221.302.
+[^7-1]: Fassung gemäss G vom 7. Februar 2022 (OS 77, 311; ABl 2020-09-04). In Kraft seit 1. Juli 2022. 1. 7. 22 - 117 7
+[^7-2]: LS 614.
 
 #### § 9
 
@@ -129,15 +139,15 @@ Die Organe der Anstalt sind a. der Verwaltungsrat,
 
 <sup>1</sup> Der Regierungsrat übt die allgemeine Aufsicht über die Anstalt aus.
 
-<sup>2</sup> Der Regierungsrat a. wählt die Revisionsstelle auf Amtsdauer,
+<sup>2</sup> Der Regierungsrat[^9-1] a. legt die Entschädigung der Mitglieder des Verwaltungsrates fest,
 
-- b. legt die Entschädigung der Mitglieder des Verwaltungsrates fest,
+- b. verabschiedet die Jahresrechnung und den Geschäftsbericht und leitet diese zusammen mit dem Bericht der Revisionsstelle an den Kantonsrat weiter,
 
-- c. verabschiedet die Jahresrechnung und den Geschäftsbericht und leitet diese zusammen mit dem Bericht der Revisionsstelle an den Kantonsrat weiter,
+- c. genehmigt die vom Verwaltungsrat beschlossenen Erlasse der Anstalt,
 
-- d. genehmigt die vom Verwaltungsrat beschlossenen Erlasse der Anstalt,
+- d. ist zuständig für den Abschluss interkantonaler Verträge betreffend die Übernahme der Aufsicht für andere Kantone.
 
-- e. entscheidet über die Übernahme der Aufsichtstätigkeit anderer Kantone über Einrichtungen nach § 2 Abs. 1.
+[^9-1]: Fassung gemäss G vom 7. Februar 2022 (OS 77, 311; ABl 2020-09-04). In Kraft seit 1. Juli 2022. 1. 7. 22 - 117 7
 
 #### § 10
 
@@ -155,21 +165,21 @@ Die Organe der Anstalt sind a. der Verwaltungsrat,
 
 Im Bereich der Aufsicht über Einrichtungen nach § 2 Abs. 1 erfüllt die Anstalt alle Aufgaben, die gemäss dem Vorsorgerecht des Bundes von der kantonalen Aufsichtsbehörde wahrzunehmen sind.
 
+[^11-1]: Fassung gemäss G vom 7. Februar 2022 (OS 77, 311; ABl 2020-09-04). In Kraft seit 1. Juli 2022. 1. 7. 22 - 117 7
+
 #### § 12
 
-**Stiftungen a. Aufgaben**
+**Stiftungen a. Zuständigkeit**
 
-<sup>1</sup> Im Bereich der Stiftungen im Sinne von § 2 Abs. 2 erfüllt die Anstalt folgende Aufgaben:
+<sup>1</sup> Die Anstalt ist die zuständige Kantonsbehörde im Sinne von[^11-1] a. Art. 85, 86 und 86 a ZGB,
 
-- a. Entscheid über die Änderung der Organisation oder des Zwecks (Art. 85, 86 und 86 a ZGB[^12-1],
-
-- b. Aufsicht über Stiftungen, die nach ihrer Bestimmung dem Kanton oder mehreren Bezirken angehören (Art. 84 ZGB[^12-1], sowie Entscheid über die Auflösung solcher Stiftungen (Art. 88 Abs.1 ZGB[^12-1].
+- b. Art. 88 ZGB, wenn sie Aufsichtsbehörde im Sinne von § 2 Abs. 1–4 ist.
 
 <sup>2</sup> Bei der Ausübung der Aufsicht über subventionierte Stiftungen berücksichtigt die Anstalt die Kontrolle derjenigen Direktion des Regierungsrates, die für die Ausrichtung der Beiträge zuständig ist.
 
 **3**
 
-- 1\. 1. 12 - 75 § 13. <sup>1</sup> Die Stiftungen reichen der Anstalt jährlich die Jahresrechnung, einen Tätigkeitsbericht und, sofern die Stiftung von der Pflicht zur Bezeichnung einer Revisionsstelle nicht befreit worden ist, den Bericht der Revisionsstelle ein.
+- 1\. 7. 22 - 117 § 13. <sup>1</sup> Die Stiftungen reichen der Anstalt jährlich die Jahresrechnung, einen Tätigkeitsbericht und, sofern die Stiftung von der Pflicht zur Bezeichnung einer Revisionsstelle nicht befreit worden ist, den Bericht der Revisionsstelle ein.
 
 **b. Aufsicht**
 
@@ -178,8 +188,6 @@ Im Bereich der Aufsicht über Einrichtungen nach § 2 Abs. 1 erfüllt die Anstal
 <sup>3</sup> Sie benachrichtigen die Anstalt unverzüglich bei besonderen Vorkommnissen, welche die Beurteilung der Lage der Stiftung erheblich beeinflussen oder ein rasches Einschreiten erfordern.
 
 <sup>4</sup> Die Anstalt regelt das Nähere.
-
-[^12-1]: SR 210.
 
 #### § 14
 
@@ -245,11 +253,11 @@ Bei Rechtsverletzungen der Stiftungsorgane trifft die Anstalt die erforderlichen
 
 <sup>2</sup> Die Anstalt kann das Darlehen jederzeit teilweise oder ganz zurückzahlen.
 
-#### § 20
-
 **Eigenkapital**
 
-Die Zielgrösse des Eigenkapitals der Anstalt beträgt mindestens einen Jahresumsatz und höchstens zwei Jahresumsätze.
+§ 20.[^19-1] Die Zielgrösse des Eigenkapitals der Anstalt beträgt einen Jahresumsatz.
+
+[^19-1]: Fassung gemäss G vom 7. Februar 2022 (OS 77, 311; ABl 2020-09-04). In Kraft seit 1. Juli 2022. 1. 7. 22 - 117 7
 
 #### § 21
 
@@ -259,19 +267,20 @@ Die Anstalt erstellt eine Finanzplanung, ein Budget und einen Geschäftsbericht.
 
 ### E. Rechtspflege
 
-[^hERechtspflege-1]: SR 831.40.
+§ 22.[^hERechtspflege-1] <sup>1</sup> Die Anfechtung von Verfügungen der Anstalt im Bereich der beruflichen Vorsorge im Sinne von § 2 Abs. 1 richtet sich nach Art. 74 Abs. 1 BVG[^hERechtspflege-2].
 
-#### § 22
+<sup>2</sup> Erstinstanzliche Anordnungen und Rechtsmittelentscheide der Anstalt im Bereich der Stiftungen im Sinne von Art. 84 ZGB sind mit Beschwerde beim Verwaltungsgericht anfechtbar.
 
-<sup>1</sup> Die Anfechtung von Verfügungen der Anstalt im Bereich der beruflichen Vorsorge im Sinne von § 2 Abs. 1 richtet sich nach Art. 74 Abs. 1 BVG[^hERechtspflege-1].
+<sup>3</sup> Anordnungen des Verwaltungsrates sind mit Beschwerde beim Verwaltungsgericht anfechtbar.
 
-<sup>2</sup> Über Rekurse gegen Anordnungen der Anstalt im Bereich der Stiftungen gemäss § 2 Abs. 2 entscheidet der Verwaltungsrat.
-
-<sup>3</sup> Erstinstanzliche Anordnungen und Rekursentscheide des Verwaltungsrates sind mit Beschwerde beim Verwaltungsgericht anfechtbar.
+<sup>4</sup> Anordnungen der Bezirke und Gemeinden im Bereich der Stiftungen im Sinne von Art. 84 ZGB sind mit Rekurs bei der Anstalt anfechtbar.
 
 **5**
 
-- 1\. 1. 12 - 75
+- 1\. 7. 22 - 117
+
+[^hERechtspflege-1]: Fassung gemäss G vom 7. Februar 2022 (OS 77, 311; ABl 2020-09-04). In Kraft seit 1. Juli 2022. 1. 7. 22 - 117 7
+[^hERechtspflege-2]: SR 831.40.
 
 ### F. Schluss- und Übergangsbestimmungen
 
@@ -287,12 +296,25 @@ Das geltende Recht wird wie folgt geändert:
 
 **Übergangsrecht**
 
-§ 24. Bis zum Erlass der Gebührenordnung durch den Verwaltungsrat erhebt die Anstalt Gebühren nach §§ 3 und 10 der Verordnung über die berufliche Vorsorge und das Stiftungswesen vom 19. Juli 2000[^23-4].
-
-Dieses Gesetz untersteht dem fakultativen Referendum. Es wird nach Art. 37 der Kantonsverfassung[^23-5] als dringlich erklärt und tritt am 1. Januar 2012 in Kraft.
+§ 24. Bis zum Erlass der Gebührenordnung durch den Verwaltungsrat erhebt die Anstalt Gebühren nach §§ 3 und 10 der Verordnung über die berufliche Vorsorge und das Stiftungswesen vom 19. Juli 2000.
 
 [^23-1]: LS 230.
 [^23-2]: Text siehe OS 66, 645.
 [^23-3]: LS 935.31.
-[^23-4]: LS 831.4.
-[^23-5]: LS 101.
+
+### Übergangsbestimmungen zur Änderung vom 7. Februar 2022
+
+(OS 77, 311)
+
+I. Die Zuständigkeit für Verfahren, die bei Inkrafttreten der Änderung vom 7. Februar 2022 hängig sind, richtet sich nach bisherigem Recht.
+
+II. <sup>1</sup> Die Anstalt ist ab dem 1. Juli, der dem Inkrafttreten der Änderung vom 7. Februar 2022 folgt, für die Aufsicht gemäss § 2 Abs. 3 zuständig.
+
+<sup>2</sup> Die Gemeinde und die Anstalt können den Wechsel der Zuständigkeit gemäss § 2 Abs. 3 auf einen früheren Zeitpunkt vereinbaren. Dieses Gesetz untersteht dem fakultativen Referendum. Es wird nach Art. 37 der Kantonsverfassung[^hÜbergangsbestimmunge-1] als dringlich erklärt und tritt am 1. Januar 2012 in Kraft.
+
+[^hÜbergangsbestimmunge-1]: LS 101.
+
+## Weitere Fussnoten
+
+- [10] Obsolet.
+- [13] SR 221.302.
