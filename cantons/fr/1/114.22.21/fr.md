@@ -4,13 +4,12 @@ number: "114.22.21"
 title: "Ordonnance sur l'intégration des migrants et des migrantes et la prévention du racisme"
 short: OInt
 language: fr
-version: 2022-02-01
-valid_until: 2022-06-30
-version_adopted: 2022-02-18
+version: 2022-07-01
+version_adopted: 2022-05-31
 adopted: 2012-03-06
 in_force: 2012-04-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/114.22.21"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7234/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8158/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Intégration des migrants et prévention du racisme – O
 
 (OInt)
 
-du 06.03.2012 (version entrée en vigueur le 01.02.2022)
+du 06.03.2012 (version entrée en vigueur le 01.07.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -90,7 +89,8 @@ Arrête:
 - g) une personne représentant la Direction de la formation et des affaires culturelles;
 - h) une personne représentant la Direction de la sécurité, de la justice et du sport;
 - i) une personne représentant la Direction de l'économie, de l'emploi et de la formation professionnelle;
-- j) une personne représentant la Direction de la santé et des affaires sociales.
+- j) une personne représentant la Direction de la santé et des affaires sociales;
+- k) une personne représentant la Direction des institutions, de l'agriculture et des forêts.
 
 <sup>2</sup> La Commission pour l'intégration désigne son vice-président ou sa vice-présidente, qui doit être choisi-e parmi les personnes représentant les communautés étrangères.
 
@@ -134,10 +134,12 @@ Arrête:
 
 <sup>1</sup> La Commission de la scolarisation et de l'intégration a pour objectifs:
 
-- a) d'encourager et de soutenir la mise en œuvre de recommandations concernant la scolarisation et l'intégration des élèves ainsi que des dispositions de l'accord intercantonal sur l'harmonisation de la scolarité obligatoire (HarmoS) relatives aux cours de langue et de culture d'origine (art. 4 al. 4 de l'accord intercantonal);
+- a) d'encourager et de soutenir la mise en œuvre de recommandations concernant la scolarisation et l'intégration des élèves ainsi que des dispositions de l'accord intercantonal sur l'harmonisation de la scolarité obligatoire (HarmoS) relatives aux cours de langue et de culture d'origine (art. 4 al. 4 de l'accord intercantonal[^9-1]);
 - b) de veiller à la prise en compte des particularités des enfants de migrants et migrantes dans la mise en œuvre des mesures d'accueil et de scolarisation;
 - c) de veiller à la mise en place des propositions du concept cantonal de l'apprentissage des langues étrangères à l'école relatives à la langue d'origine;
 - d) de promouvoir et de coordonner des activités d'information et de formation auprès des acteurs et actrices de l'éducation chargés d'enfants de migrants et migrantes et plus spécifiquement auprès des enseignants et enseignantes réguliers et d'appui.
+
+[^9-1]: RSF [416.2](https://bdlf.fr.ch/data/416.2/fr)
 
 #### Art. 10
 
@@ -147,7 +149,7 @@ Arrête:
 
 - a) le coordinateur ou la coordinatrice de la scolarisation des enfants de migrants et migrantes de la partie francophone;
 - b) le coordinateur ou la coordinatrice de la scolarisation des enfants de migrants et migrantes de la partie alémanique;
-- c) une personne représentant l'inspectorat scolaire;
+- c) une personne représentant les migrants et les migrantes;
 - d) ...
 - e) une personne représentant les conseillers et conseillères en orientation professionnelle;
 - f) une personne représentant la Direction de la santé et des affaires sociales;
@@ -159,7 +161,7 @@ Arrête:
 - l) une personne représentant ORS Service AG;
 - m) une personne représentant Caritas Suisse;
 - n) ...
-- o) une personne représentant les chef-fe-s de service de la Direction de la formation et des affaires culturelles, qui en assume la présidence.
+- o) une personne représentant les services de l'enseignement de la Direction de la formation et des affaires culturelles, qui en assume la présidence.
 
 #### Art. 11
 

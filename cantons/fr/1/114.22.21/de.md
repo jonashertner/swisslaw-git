@@ -4,13 +4,12 @@ number: "114.22.21"
 title: Verordnung über die Integration der Migrantinnen und Migranten und die Rassismusprävention
 short: IntV
 language: de
-version: 2022-02-01
-valid_until: 2022-06-30
-version_adopted: 2022-02-18
+version: 2022-07-01
+version_adopted: 2022-05-31
 adopted: 2012-03-06
 in_force: 2012-04-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/114.22.21"
-pdf: "https://bdlf.fr.ch/api/de/versions/7234/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8158/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Integration der Migranten und Rassismusprävention – V
 
 (IntV)
 
-vom 06.03.2012 (Fassung in Kraft getreten am 01.02.2022)
+vom 06.03.2012 (Fassung in Kraft getreten am 01.07.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -90,7 +89,8 @@ beschliesst:
 - g) eine Vertreterin oder ein Vertreter der Direktion für Bildung und kulturelle Angelegenheiten;
 - h) eine Vertreterin oder ein Vertreter der Sicherheits-, Justiz- und Sportdirektion;
 - i) eine Vertreterin oder ein Vertreter der Volkswirtschafts- und Berufsbildungsdirektion;
-- j) eine Vertreterin oder ein Vertreter der Direktion für Gesundheit und Soziales.
+- j) eine Vertreterin oder ein Vertreter der Direktion für Gesundheit und Soziales;
+- k) eine Vertreterin oder ein Vertreter der Direktion der Institutionen und der Land- und Forstwirtschaft.
 
 <sup>2</sup> Die Kommission für die Integration bezeichnet eine Vertreterin oder einen Vertreter der Ausländervereinigungen als Vizepräsidentin oder Vizepräsidenten.
 
@@ -134,10 +134,12 @@ beschliesst:
 
 <sup>1</sup> Die Kommission für die schulische Betreuung und Integration hat zum Ziel:
 
-- a) die Umsetzung der Empfehlungen zur schulischen Betreuung und Integration der Schülerinnen und Schüler sowie der Bestimmungen der interkantonalen Vereinbarung über die Harmonisierung der obligatorischen Schule (HarmoS) zu den Kursen in heimatlicher Sprache und Kultur (Art. 4 Abs. 4 der interkantonalen Vereinbarung) zu fördern und zu unterstützen;
+- a) die Umsetzung der Empfehlungen zur schulischen Betreuung und Integration der Schülerinnen und Schüler sowie der Bestimmungen der interkantonalen Vereinbarung über die Harmonisierung der obligatorischen Schule (HarmoS) zu den Kursen in heimatlicher Sprache und Kultur (Art. 4 Abs. 4 der interkantonalen Vereinbarung[^9-1]) zu fördern und zu unterstützen;
 - b) dafür zu sorgen, dass die Besonderheiten der Kinder von Migrantinnen und Migranten bei der Umsetzung der Aufnahme- und schulischen Betreuungsmassnahmen berücksichtigt werden;
 - c) dafür zu sorgen, dass die Vorschläge des Kantonalen Konzepts für den Erwerb von Fremdsprachen in der Schule zur heimatlichen Sprache umgesetzt werden;
 - d) die Informations- und Ausbildungsaktivitäten bei den Bildungsakteurinnen und -akteuren, die für Kinder von Migrantinnen und Migranten zuständig sind, und insbesondere bei den regulären und den Aushilfslehrkräften zu fördern und zu koordinieren.
+
+[^9-1]: SGF [416.2](https://bdlf.fr.ch/data/416.2/de)
 
 #### Art. 10
 
@@ -147,7 +149,7 @@ beschliesst:
 
 - a) die Koordinatorin oder der Koordinator der schulischen Betreuung der Kinder von Migrantinnen und Migranten für den französischsprachigen Kantonsteil;
 - b) die Koordinatorin oder der Koordinator der schulischen Betreuung der Kinder von Migrantinnen und Migranten für den deutschsprachigen Kantonsteil;
-- c) eine Vertreterin oder ein Vertreter des Schulinspektorats;
+- c) eine Vertreterin oder ein Vertreter der Migrantinnen und Migranten;
 - d) ...
 - e) eine Vertreterin oder ein Vertreter der Berufsberaterinnen und Berufsberater;
 - f) eine Vertreterin oder ein Vertreter der Direktion für Gesundheit und Soziales;
@@ -159,7 +161,7 @@ beschliesst:
 - l) eine Vertreterin oder ein Vertreter von ORS Service AG;
 - m) eine Vertreterin oder ein Vertreter von Caritas Schweiz;
 - n) ...
-- o) eine Vertreterin oder ein Vertreter der Amtsvorsteherinnen und Amtsvorsteher der Direktion für Bildung und kulturelle Angelegenheiten; diese Person hat den Vorsitz inne.
+- o) eine Vertreterin oder ein Vertreter der Unterrichtsämter der Direktion für Bildung und kulturelle Angelegenheiten; diese Person hat den Vorsitz inne.
 
 #### Art. 11
 
