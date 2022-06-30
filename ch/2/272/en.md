@@ -4,11 +4,11 @@ title: "Swiss Civil Procedure Code of 19 December 2008 (Civil Procedure Code, CP
 short: CPC
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/262"
 language: en
-version: 2022-01-01
+version: 2022-07-01
 adopted: 2008-12-19
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/262/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2010-262-20220101-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/262/20220101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/262/20220701/en/xml/fedlex-data-admin-ch-eli-cc-2010-262-20220701-en-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/262/20220701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Civil Procedure Code, CPC)
 
-of 19 December 2008 (Status as of 1 January 2022)
+of 19 December 2008 (Status as of 1 July 2022)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -83,25 +83,26 @@ The cantonal law designates the court that has jurisdiction as sole cantonal ins
 - b. cartel law disputes;
 - c. disputes on the use of a business name;
 - d. disputes under the Unfair Competition Act of 19 December 1986[^5-1] if the amount in dispute exceeds 30,000 francs or if the Confederation exercises its right to file an action;
-- e. disputes under the Nuclear Energy Public Liability Act of 18 March 1983[^5-2];
+- e.[^5-2] disputes under the Nuclear Energy Public Liability Act of 13 June 2008[^5-3];
 - f. claims against the Confederation;
-- g. the designation of a special comptroller by virtue of Article 697*b* of the Code of Obligations (CO)[^5-3];
-- h.[^5-4] disputes under the Collective Investment Schemes Act of 23 June 2006[^5-5], the Financial Market Infrastructure Act of 19 June 2015[^5-6] and the Financial Institutions Act of 15 June 2018[^5-7];
-- i.[^5-8] disputes under the Coat of Arms Protection Act of 21 June 2013[^5-9], the Federal Act of 25 March 1954[^5-10] on the Protection of the Emblem and Name of the Red Cross and the Federal Act of 15 December 1961[^5-11] on the Protection of the Names and Emblems of the United Nations Organization and other Intergovernmental Organisations.
+- g. the designation of a special comptroller by virtue of Article 697*b* of the Code of Obligations (CO)[^5-4];
+- h.[^5-5] disputes under the Collective Investment Schemes Act of 23 June 2006[^5-6], the Financial Market Infrastructure Act of 19 June 2015[^5-7] and the Financial Institutions Act of 15 June 2018[^5-8];
+- i.[^5-9] disputes under the Coat of Arms Protection Act of 21 June 2013[^5-10], the Federal Act of 25 March 1954[^5-11] on the Protection of the Emblem and Name of the Red Cross and the Federal Act of 15 December 1961[^5-12] on the Protection of the Names and Emblems of the United Nations Organization and other Intergovernmental Organisations.
 
 <sup>2</sup> This court is also competent to order interim measures before an action is pending.
 
 [^5-1]: [SR 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
-[^5-2]: [SR 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43)
-[^5-3]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^5-4]: Amended by Annex No II 4 of the Financial Institutes Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^5-5]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^5-6]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
-[^5-7]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^5-8]: Inserted by Annex 3 No II 3 of the Coat of Arms Protection Act of 21 June 2013, in force since 1 Jan. 2017 ([AS 2015 3679](https://fedlex.data.admin.ch/eli/oc/2015/613); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
-[^5-9]: [SR 232.21](https://fedlex.data.admin.ch/eli/cc/2015/613)
-[^5-10]: [SR 232.22](https://fedlex.data.admin.ch/eli/cc/1954/1297_1327_1355)
-[^5-11]: [SR 232.23](https://fedlex.data.admin.ch/eli/cc/1962/455_461_475)
+[^5-2]: Amended by Annex 2 No 1, in force since 1 Jan. 2022 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914); [AS 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [BBl 2007 5397](https://fedlex.data.admin.ch/eli/fga/2007/761)).
+[^5-3]: [SR 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43)
+[^5-4]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^5-5]: Amended by Annex No II 4 of the Financial Institutes Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^5-6]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^5-7]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^5-8]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^5-9]: Inserted by Annex 3 No II 3 of the Coat of Arms Protection Act of 21 June 2013, in force since 1 Jan. 2017 ([AS 2015 3679](https://fedlex.data.admin.ch/eli/oc/2015/613); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+[^5-10]: [SR 232.21](https://fedlex.data.admin.ch/eli/cc/2015/613)
+[^5-11]: [SR 232.22](https://fedlex.data.admin.ch/eli/cc/1954/1297_1327_1355)
+[^5-12]: [SR 232.23](https://fedlex.data.admin.ch/eli/cc/1962/455_461_475)
 
 #### Art. 6
 
@@ -415,7 +416,16 @@ The court at the domicile or registered office of the defendant or at the place 
 
 <sup>2</sup> Actions against the Swiss National Bureau of Insurance (Art. 74 of the Road Traffic Act of 19 December 1958[^38-1]; RTA) or against the Swiss National Guarantee Fund (Art. 76 RTA) may also be brought before the court at the place of any branch of such institutions.
 
+**Art. 38**a*[^38-2]* Nuclear damage
+
+<sup>1</sup> In the case of actions arising from nuclear incidents, the court in the canton where the incident took place has mandatory jurisdiction.
+
+<sup>2</sup> If there is any uncertainty as to which canton this is, the court in the canton where the nuclear installation of the liable proprietor is located has mandatory jurisdiction.
+
+<sup>3</sup> If two or more courts have jurisdiction in accordance with these rules, the court in the canton that is most closely linked to the incident and which is most seriously affected by it has mandatory jurisdiction.
+
 [^38-1]: [SR 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
+[^38-2]: Inserted by Annex 2 No 1, in force since 1 Jan. 2022 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914); [AS 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [BBl 2007 5397](https://fedlex.data.admin.ch/eli/fga/2007/761)).
 
 #### Art. 39
 
@@ -3890,11 +3900,12 @@ A party may request the court that has decided as final instance to review the f
 
 A review on the grounds of a violation of the European Convention on Human Rights of 4 November 1950[^328-1] (ECHR) may be requested if:
 
-- a. the European Court of Human Rights has determined in a final judgment that the ECHR or its protocols have been violated;
+- a.[^328-2] the European Court of Human Rights has determined in a final judgment (Art. 44 ECHR) that the ECHR or its protocols have been violated, or the case has been concluded by means of a friendly settlement (Art. 39 ECHR);
 - b. compensation is not an appropriate remedy for the effects of the violation; and
 - c. the review is necessary to remedy the violation.
 
 [^328-1]: [SR 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^328-2]: Amended by Annex No 2 of the FA of 1 Oct. 2021, in force since 1 July 2022 ([AS 2022 289](https://fedlex.data.admin.ch/eli/oc/2022/289); [BBl 2021 300](https://fedlex.data.admin.ch/eli/fga/2021/300), [889](https://fedlex.data.admin.ch/eli/fga/2021/889)).
 
 #### Art. 329
 
@@ -4321,7 +4332,9 @@ A member of the arbitral tribunal may be challenged:
 - b. if there is a ground for challenge in accordance with the rules of arbitration adopted by the parties; or
 - c. if there is reasonable doubt as to his or her independence or impartiality.
 
-<sup>2</sup> A party may challenge an arbitrator whom that party has appointed or in whose appointment that party has participated only if the grounds for the challenge came to the attention of the party concerned after the appointment despite exercising due diligence. Notice of the reason for the challenge must be given to the arbitral tribunal and the opposing party immediately.
+<sup>2</sup> A party may challenge an arbitrator whom that party has appointed or in whose appointment that party has participated only if the grounds for the challenge came to the attention of the party concerned after the appointment despite exercising due diligence.[^367-1] Notice of the reason for the challenge must be given to the arbitral tribunal and the opposing party immediately.
+
+[^367-1]: Amended by Annex No 2 of the FA of 19 June 2020, in force since 1 Jan. 2021 ([AS 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [BBl 2018 7163](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
 
 #### Art. 368
 
@@ -4660,12 +4673,13 @@ A party may request the ordinary court that has jurisdiction under Article 356 p
 
 The review on the grounds of a violation of the ECHR[^396-2] may be requested if:
 
-- a. the European Court of Human Rights has determined in a final judgment that the ECHR or its protocols have been violated;
+- a.[^396-3] the European Court of Human Rights has determined in a final judgment (Art. 44 ECHR) that the ECHR or its protocols have been violated, or the case has been concluded by means of a friendly settlement (Art. 39 ECHR);
 - b. compensation is not an appropriate remedy for the effects of the violation; and
 - c. the review is necessary to remedy the violation.
 
 [^396-1]: Inserted by Annex No 2 of the FA of 19 June 2020, in force since 1 Jan. 2021 ([AS 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [BBl 2018 7163](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
 [^396-2]: [SR 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^396-3]: Amended by Annex No 2 of the FA of 1 Oct. 2021, in force since 1 July 2022 ([AS 2022 289](https://fedlex.data.admin.ch/eli/oc/2022/289); [BBl 2021 300](https://fedlex.data.admin.ch/eli/fga/2021/300), [889](https://fedlex.data.admin.ch/eli/fga/2021/889)).
 
 #### Art. 397
 
@@ -4853,24 +4867,10 @@ Annex 2
 
 *Irrespective of whether the Nuclear Energy Public Liability Act of 13 June 2008*[^annex2-lvlu1-lvl1-1] *(new NEPLA) or the Civil Procedure Code of 19 December 2008 (CPC) comes into force first, on commencement of the enactment that comes into force later or if both enactments come into force on the same date, the CPC shall be amended as fo**l**lows:*
 
-**Art. 5 para. 1 let. e**
-
-<sup>1</sup>
-
-Cantonal law shall designate the court that has jurisdiction as sole cantonal instance for:
-
-- e. disputes under the Nuclear Energy Public Liability Act of 13 June 2008[^annex2-lvlu1-lvl1-2];
-
-**Art. 38a Nuclear damage**
-
-<sup>1</sup> In the case of actions arising from nuclear incidents, the court in the canton where the incident took place has mandatory jurisdiction.
-
-<sup>2</sup> If there is any uncertainty as to which canton this is, the court in the canton where the nuclear installation of the liable proprietor is located has mandatory jurisdiction.
-
-<sup>3</sup> If two or more courts have jurisdiction in accordance with these rules, the court in the canton that is most closely linked to the incident and which is most seriously affected by it has mandatory jurisdiction.
+…[^annex2-lvlu1-lvl1-2]
 
 [^annex2-lvlu1-lvl1-1]: [SR 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43); [BBl 2008 5339](https://fedlex.data.admin.ch/eli/fga/2008/954)
-[^annex2-lvlu1-lvl1-2]: [SR 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43); [BBl 2008 5339](https://fedlex.data.admin.ch/eli/fga/2008/954)
+[^annex2-lvlu1-lvl1-2]: The amendments may be consulted under [AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262).
 
 ### 2. Coordination of Number 19 of Annex 1 with the new NEPLA
 

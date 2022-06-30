@@ -4,11 +4,11 @@ title: Code de procédure civile du 19 décembre 2008 (CPC)
 short: CPC
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/262"
 language: fr
-version: 2022-01-01
+version: 2022-07-01
 adopted: 2008-12-19
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/262/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2010-262-20220101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/262/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/262/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-2010-262-20220701-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/262/20220701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/262/20220101/fr"
 
 (CPC)
 
-du 19 décembre 2008 (Etat le 1<sup>er</sup> janvier 2022)
+du 19 décembre 2008 (Etat le 1<sup>er</sup> juillet 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -1122,7 +1122,7 @@ Les décisions relatives aux avances de frais et aux sûretés peuvent faire l�
 
 <sup>2</sup> Lorsqu’aucune des parties n’obtient entièrement gain de cause, les frais sont répartis selon le sort de la cause.
 
-<sup>3</sup> Lorsque plusieurs personnes participent au procès en tant que parties principales ou accessoires, le tribunal détermine la part de chacune au frais du procès. Il peut les tenir pour solidairement responsables.
+<sup>3</sup> Lorsque plusieurs personnes participent au procès en tant que parties principales ou accessoires, le tribunal détermine la part de chacune aux frais du procès. Il peut les tenir pour solidairement responsables.
 
 #### Art. 107
 
@@ -3905,11 +3905,12 @@ Une partie peut demander la révision de la décision entrée en force au tribun
 
 La révision pour violation de la convention du 4 novembre 1950 de sauvegarde des droits de l’homme et des libertés fondamentales (CEDH)[^328-1] peut être demandée aux conditions suivantes:
 
-- a. la Cour européenne des droits de l’homme a constaté, dans un arrêt définitif, une violation de la CEDH ou de ses protocoles;
+- a.[^328-2] la Cour européenne des droits de l’homme a constaté, dans un arrêt définitif (art. 44 CEDH), une violation de la CEDH ou de ses protocoles, ou a conclu le cas par un règlement amiable (art. 39 CEDH);
 - b. une indemnité n’est pas de nature à remédier aux effets de la violation;
 - c. la révision est nécessaire pour remédier aux effets de la violation.
 
 [^328-1]: [RS 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^328-2]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 289](https://fedlex.data.admin.ch/eli/oc/2022/289); [FF 2021 300](https://fedlex.data.admin.ch/eli/fga/2021/300), [889](https://fedlex.data.admin.ch/eli/fga/2021/889)).
 
 #### Art. 329
 
@@ -4680,12 +4681,13 @@ Une partie peut, pour l’une des raisons suivantes, demander au tribunal compé
 
 La révision pour violation de la CEDH[^396-2] peut être demandée aux conditions suivantes:
 
-- a. la Cour européenne des droits de l’homme a constaté, dans un arrêt définitif, une violation de la CEDH ou de ses protocoles;
+- a.[^396-3] la Cour européenne des droits de l’homme a constaté, dans un arrêt définitif (art. 44 CEDH), une violation de la CEDH ou de ses protocoles, ou a conclu le cas par un règlement amiable (art. 39 CEDH);
 - b. une indemnité n’est pas de nature à remédier aux effets de la violation;
 - c. la révision est nécessaire pour remédier aux effets de la violation.
 
 [^396-1]: Introduite par l’annexe ch. 2 de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 7153](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
 [^396-2]: [RS 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^396-3]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 289](https://fedlex.data.admin.ch/eli/oc/2022/289); [FF 2021 300](https://fedlex.data.admin.ch/eli/fga/2021/300), [889](https://fedlex.data.admin.ch/eli/fga/2021/889)).
 
 #### Art. 397
 

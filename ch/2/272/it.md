@@ -4,11 +4,11 @@ title: "Codice di diritto processuale civile svizzero del 19 dicembre 2008 (Codi
 short: CPC
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/262"
 language: it
-version: 2022-01-01
+version: 2022-07-01
 adopted: 2008-12-19
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/262/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2010-262-20220101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/262/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/262/20220701/it/xml/fedlex-data-admin-ch-eli-cc-2010-262-20220701-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/262/20220701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/262/20220101/it"
 
 (Codice di procedura civile, CPC)
 
-del 19 dicembre 2008 (Stato 1° gennaio 2022)
+del 19 dicembre 2008 (Stato 1° luglio 2022) (Stato 1° luglio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -3896,11 +3896,12 @@ Una parte può chiedere al giudice che ha statuito sulla causa in ultima istanza
 
 La revisione può essere chiesta per violazione della Convenzione europea del 4 novembre 1950[^328-1] per la salvaguardia dei diritti dell’uomo e delle libertà fondamentali (CEDU) se:
 
-- a. la Corte europea dei diritti dell’uomo ha accertato in una sentenza definitiva che la CEDU o i suoi protocolli sono stati violati;
+- a.[^328-2] la Corte europea dei diritti dell’uomo ha accertato in una sentenza definitiva (art. 44 CEDU) che la CEDU o i suoi protocolli sono stati violati oppure ha chiuso la causa con una composizione amichevole (art. 39 CEDU);
 - b. un indennizzo è inadatto a compensare le conseguenze della violazione; e
 - c. la revisione è necessaria per rimuovere la violazione.
 
 [^328-1]: [RS 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^328-2]: Nuovo testo giusta l’all. n. 2 della LF del 1° ott. 2021, in vigore dal 1° lug. 2022 ([RU 2022 289](https://fedlex.data.admin.ch/eli/oc/2022/289); [FF 2021 300](https://fedlex.data.admin.ch/eli/fga/2021/300), [889](https://fedlex.data.admin.ch/eli/fga/2021/889)).
 
 #### Art. 329
 
@@ -4669,12 +4670,13 @@ Una parte può chiedere la revisione del lodo al tribunale statale competente se
 
 La revisione può essere chiesta per violazione della CEDU[^396-2] se:
 
-- a. la Corte europea dei diritti dell’uomo ha accertato in una sentenza definitiva che la CEDU o i suoi protocolli sono stati violati;
+- a.[^396-3] la Corte europea dei diritti dell’uomo ha accertato in una sentenza definitiva (art. 44 CEDU) che la CEDU o i suoi protocolli sono stati violati oppure ha chiuso la causa con una composizione amichevole (art. 39 CEDU);
 - b. un indennizzo è inadatto a compensare le conseguenze della violazione; e
 - c. la revisione è necessaria per rimuovere la violazione.
 
 [^396-1]: Introdotta dall’all. n. 2 della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
 [^396-2]: [RS 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^396-3]: Nuovo testo giusta l’all. n. 2 della LF del 1° ott. 2021, in vigore dal 1° lug. 2022 ([RU 2022 289](https://fedlex.data.admin.ch/eli/oc/2022/289); [FF 2021 300](https://fedlex.data.admin.ch/eli/fga/2021/300), [889](https://fedlex.data.admin.ch/eli/fga/2021/889)).
 
 #### Art. 397
 

@@ -4,11 +4,11 @@ title: "Schweizerische Zivilprozessordnung vom 19. Dezember 2008 (Zivilprozessor
 short: ZPO
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/262"
 language: de
-version: 2022-01-01
+version: 2022-07-01
 adopted: 2008-12-19
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/262/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2010-262-20220101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/262/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/262/20220701/de/xml/fedlex-data-admin-ch-eli-cc-2010-262-20220701-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/262/20220701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/262/20220101/de"
 
 (Zivilprozessordnung, ZPO)
 
-vom 19. Dezember 2008 (Stand am 1. Januar 2022)
+vom 19. Dezember 2008 (Stand am 1. Juli 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -3901,11 +3901,12 @@ Eine Partei kann beim Gericht, welches als letzte Instanz in der Sache entschied
 
 Die Revision wegen Verletzung der Europäischen Menschenrechtskonvention vom 4. November 1950[^328-1] (EMRK) kann verlangt werden, wenn:
 
-- a. der Europäische Gerichtshof für Menschenrechte in einem endgültigen Urteil festgestellt hat, dass die EMRK oder die Protokolle dazu verletzt worden sind;
+- a.[^328-2] der Europäische Gerichtshof für Menschenrechte in einem endgültigen Urteil (Art. 44 EMRK) festgestellt hat, dass die EMRK oder die Protokolle dazu verletzt worden sind, oder den Fall durch eine gütliche Einigung (Art. 39 EMRK) abgeschlossen hat;
 - b. eine Entschädigung nicht geeignet ist, die Folgen der Verletzung auszugleichen; und
 - c. die Revision notwendig ist, um die Verletzung zu beseitigen.
 
 [^328-1]: [SR 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^328-2]: Fassung gemäss Anhang Ziff. 2 des BG vom 1. Okt. 2021, in Kraft seit 1. Juli 2022 ([AS 2022 289](https://fedlex.data.admin.ch/eli/oc/2022/289); [BBl 2021 300](https://fedlex.data.admin.ch/eli/fga/2021/300), [889](https://fedlex.data.admin.ch/eli/fga/2021/889)).
 
 #### Art. 329
 
@@ -4674,12 +4675,13 @@ Eine Partei kann beim nach Artikel 356 Absatz 1 zuständigen staatlichen Gericht
 
 Die Revision wegen Verletzung der EMRK[^396-2] kann verlangt werden, wenn:
 
-- a. der Europäische Gerichtshof für Menschenrechte in einem endgültigen Urteil festgestellt hat, dass die EMRK oder die Protokolle dazu verletzt worden sind;
+- a.[^396-3] der Europäische Gerichtshof für Menschenrechte in einem endgültigen Urteil (Art. 44 EMRK) festgestellt hat, dass die EMRK oder die Protokolle dazu verletzt worden sind, oder den Fall durch eine gütliche Einigung (Art. 39 EMRK) abgeschlossen hat;
 - b. eine Entschädigung nicht geeignet ist, die Folgen der Verletzung auszugleichen; und
 - c. die Revision notwendig ist, um die Verletzung zu beseitigen.
 
 [^396-1]: Eingefügt durch Anhang Ziff. 2 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [BBl 2018 7163](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
 [^396-2]: [SR 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^396-3]: Fassung gemäss Anhang Ziff. 2 des BG vom 1. Okt. 2021, in Kraft seit 1. Juli 2022 ([AS 2022 289](https://fedlex.data.admin.ch/eli/oc/2022/289); [BBl 2021 300](https://fedlex.data.admin.ch/eli/fga/2021/300), [889](https://fedlex.data.admin.ch/eli/fga/2021/889)).
 
 #### Art. 397
 
@@ -4847,7 +4849,7 @@ Anhang 1
 
 Das Gerichtsstandsgesetz vom 24. März 2000[^annex1-lvlu1-lvlI-1] wird aufgehoben.
 
-[^annex1-lvlu1-lvlI-1]: [[AS 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374), [2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320)Anhang Ziff. 3, [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)Anhang Ziff. 14, [2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822)Anhang Ziff. II 2]
+[^annex1-lvlu1-lvlI-1]: [[AS 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); [2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320)Anhang Ziff. 3; [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)Anhang Ziff. 14; [2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822)Anhang Ziff. II 2]
 
 ### II. Änderung bisherigen Rechts
 
