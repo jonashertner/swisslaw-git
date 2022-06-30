@@ -4,13 +4,13 @@ number: II A/3/2
 title: Gesetz über die Organisation des Regierungsrates und der Verwaltung
 short: Regierungs- und Verwaltungsorganisationsgesetz; RVOG
 language: de
-version: 2014-09-01
-valid_until: 2022-06-30
-version_adopted: 2014-05-04
+version: 2022-07-01
+valid_until: 2022-12-31
+version_adopted: 2022-05-01
 adopted: 2004-05-02
 in_force: 2006-05-07
 url: "https://gesetze.gl.ch/app/de/texts_of_law/II-A.3.2"
-pdf: "https://gesetze.gl.ch/api/de/versions/1723/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2312/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/1723/pdf_file"
 
 (Regierungs- und Verwaltungsorganisationsgesetz; RVOG)
 
-Vom 02.05.2004 (Stand 01.09.2014)
+Vom 02.05.2004 (Stand 01.07.2022)
 
 (Erlassen von der Landsgemeinde am 2. Mai 2004)
 
@@ -47,7 +47,7 @@ Vom 02.05.2004 (Stand 01.09.2014)
 
 <sup>1</sup> Der Regierungsrat, die Departemente und die Staatskanzlei führen aufeinander abgestimmte Planungen ihrer Tätigkeiten. Diese dienen der Festlegung der strategischen und der operativen Vorgaben sowie der Steuerung und Kontrolle bei der Umsetzung.
 
-<sup>2</sup> Die Planungen nennen die Ziele und deren Prioritäten. Der Regierungsrat sorgt für die Abstimmung mit der Finanzplanung gemäss dem Finanzhaushaltgesetz.[^3-1]
+<sup>2</sup> Die Planungen nennen die Ziele und deren Prioritäten. Der Regierungsrat sorgt für die Abstimmung mit der Integrierten Aufgaben- und Finanzplanung gemäss dem Finanzhaushaltgesetz[^3-1].
 
 <sup>3</sup> Der Regierungsrat legt dem Landrat spätestens bis zur ordentlichen Beratung des Budgets sein Legislaturprogramm, welches auf den Planungen gemäss dieser Bestimmung beruht, zur Genehmigung vor; er erstattet zugleich Bericht über die Verwirklichung des für die vorangehende Legislatur erstellten Programmes.
 
