@@ -4,13 +4,13 @@ number: "102.111.2"
 title: Geschäftsordnung des Rats für französischsprachige Angelegenheiten des Verwaltungskreises Biel/Bienne
 short: GO RFB
 language: de
-version: 2018-06-01
-valid_until: 2022-06-30
-version_adopted: 2018-03-26
+version: 2022-07-01
+valid_until: 2026-05-31
+version_adopted: 2022-04-04
 adopted: 2006-08-31
 in_force: 2006-09-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/102.111.2"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1450/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2607/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +19,11 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1450/pdf_file"
 
 (GO RFB)
 
-vom 31.08.2006 (Stand 01.06.2018)
+vom 31.08.2006 (Stand 01.07.2022)
 
 Der Rat für französischsprachige Angelegenheiten des Verwaltungskreises Biel/Bienne,
 
-gestützt auf Artikel 40 und Artikel 41 Absatz 4 des Gesetzes vom 13. September 2004 über das Sonderstatut des Berner Juras und über die französischsprachige Minderheit des zweisprachigen Amtsbezirks Biel (Sonderstatutsgesetz, SStG)[^ingress-1],
+gestützt auf Artikel 40 und Artikel 41 Absatz 4 des Gesetzes vom 13. September 2004 über das Sonderstatut des Berner Juras und über die französischsprachige Minderheit des Verwaltungskreises Biel/Bienne (Sonderstatutsgesetz, SStG)[^ingress-1],
 
 beschliesst:
 
@@ -112,11 +112,14 @@ beschliesst:
 
 - a wenn Dringlichkeit herrscht und es unmöglich oder unverhältnismässig scheint, eine ausserordentliche Plenarsitzung einzuberufen;
 - b wenn es darauf verzichtet, zu einem Geschäft Stellung zu beziehen, weil dieses die französischsprachige Bevölkerung des Verwaltungskreises Biel/Bienne nicht besonders betrifft;
-- c wenn ihm das Plenum oder eine Kommission die Antrags- oder Entscheidungsbefugnis abtritt.
+- c wenn ihm das Plenum oder eine Kommission die Antrags- oder Entscheidungsbefugnis abtritt;
+- d wenn es sich um Geschäfte im Zusammenhang mit der Anwendung des Bundesgesetzes vom 5. Oktober 2007 über die Landessprachen und die Verständigung zwischen den Sprachgemeinschaften (Sprachengesetz, SpG)[^6-1] handelt.
 
 <sup>3</sup> Die Beschlüsse des Büros im Sinne von Absatz 2 werden dem RFB zur Kenntnis gebracht.
 
 <sup>4</sup> Die Mitglieder des Büros, die weder das Präsidium noch das Vizepräsidium innehaben, stellen in ihrer Eigenschaft als Stimmenzählerinnen und Stimmenzähler die Abstimmungsresultate fest.
+
+[^6-1]: SR [441.1](https://db.clex.ch/link/Bund/441.1/de)
 
 ### 1.4 Rechte und Pflichten der Mitglieder des RFB
 
@@ -239,7 +242,7 @@ beschliesst:
 
 <sup>1</sup> Der RFB bildet aus seiner Mitte die Kommission Bildung, Gesundheit und Soziales, die ihn bei seinen interkantonalen Beziehungen vertritt und Geschäfte im Zusammenhang mit den Bereichen Bildung, Gesundheit und Soziales behandelt.
 
-<sup>2</sup> Die Kommission Bildung, Gesundheit und Soziales setzt sich aus drei bis fünf Mitgliedern zusammen und vertritt den RFB in den interkantonalen Beziehungen gemäss Artikel 45 SStG und Artikel 16 bis 18 der Verordnung vom 2. November 2005 über das Sonderstatut des Berner Juras und über die französischsprachige Minderheit des zweisprachigen Amtsbezirks Biel (Sonderstatutsverordnung, SStV)[^15-1].
+<sup>2</sup> Die Kommission Bildung, Gesundheit und Soziales setzt sich aus drei bis fünf Mitgliedern zusammen und vertritt den RFB in den interkantonalen Beziehungen gemäss Artikel 45 SStG und Artikel 16 bis 18 der Verordnung vom 2. November 2005 über das Sonderstatut des Berner Juras und über die französischsprachige Minderheit des Verwaltungskreises Biel/Bienne (Sonderstatutsverordnung, SStV)[^15-1].
 
 <sup>3</sup> Die Kommission Bildung, Gesundheit und Soziales kann ihre Präsidentin oder ihren Präsidenten im Einzelfall ermächtigen, den RFB in seinen interkantonalen Beziehungen zu vertreten.
 
@@ -316,9 +319,7 @@ beschliesst:
 
 #### Art. 23a
 
-<sup>1</sup> Gemäss Artikel 8 der Versuchsverordnung vom 21. Juni 2017 über die Erweiterung des Wirkungskreises des Rats für französischsprachige Angelegenheiten des zweisprachigen Amtsbezirks Biel auf den Verwaltungskreis Biel/Bienne (RFB VV)[^23a-1] können die Gemeinden des Verwaltungskreises Biel/Bienne dem RFB gegen Bezahlung weitere Aufgaben zuweisen.
-
-[^23a-1]: BSG 102.111.20
+<sup>1</sup> Gemäss Artikel 5 SStV können die Gemeinden des Verwaltungskreises Biel/Bienne dem RFB gegen Bezahlung weitere Aufgaben zuweisen.
 
 ## 4 Generalsekretariat
 
@@ -354,7 +355,7 @@ beschliesst:
 
 <sup>1</sup> Die Generalsekretärin oder der Generalsekretär ist administrativ dem Amt für Zweisprachigkeit, Gesetzgebung und Ressourcen (AZGR) der Staatskanzlei des Kantons Bern angegliedert. Sie oder er ist bei der Ausübung ihrer oder seiner Funktion unabhängig, nur dem RFB sowie dessen Präsidentin oder Präsidenten Rechenschaft schuldig und arbeitet nach deren bzw. dessen Weisungen.
 
-<sup>2</sup> Das periodische Mitarbeitergespräch findet unter der Leitung der Vorsteherin oder des Vorstehers des Amt für Zweisprachigkeit, Gesetzgebung und Ressourcen (AZGR) der Staatskanzlei statt.
+<sup>2</sup> Das periodische Mitarbeitergespräch findet unter der Leitung der Vorsteherin oder des Vorstehers des Amts für Zweisprachigkeit, Gesetzgebung und Ressourcen (AZGR) der Staatskanzlei statt.
 
 ## 5 Zusammenarbeit mit dem Bernjurassischen Rat
 

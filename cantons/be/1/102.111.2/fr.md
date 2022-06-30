@@ -4,13 +4,13 @@ number: "102.111.2"
 title: "Règlement du Conseil des affaires francophones de l'arrondissement de Biel/Bienne *"
 short: RCAF
 language: fr
-version: 2018-06-01
-valid_until: 2022-06-30
-version_adopted: 2018-03-26
+version: 2022-07-01
+valid_until: 2026-05-31
+version_adopted: 2022-04-04
 adopted: 2006-08-31
 in_force: 2006-09-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/102.111.2"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1450/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2607/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,11 +19,11 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1450/pdf_file"
 
 (RCAF)
 
-du 31.08.2006 (état au 01.06.2018)
+du 31.08.2006 (état au 01.07.2022)
 
 Le Conseil des affaires francophones de l'arrondissement de Biel/Bienne,
 
-vu les articles 40 et 41, alinéa 4 de la loi du 13 septembre 2004 sur le statut particulier du Jura bernois et sur la minorité francophone du district bilingue de Bienne (loi sur le statut particulier, LStP)[^ingress-1],
+vu les articles 40 et 41, alinéa 4 de la loi du 13 septembre 2004 sur le statut particulier du Jura bernois et sur la minorité francophone l’arrondissement de Biel/Bienne (loi sur le statut particulier, LStP)[^ingress-1],
 
 arrête:
 
@@ -112,11 +112,14 @@ arrête:
 
 - a lorsqu'il y a urgence et qu'il est impossible ou qu'il apparaît disproportionné de convoquer une séance plénière extraordinaire;
 - b lorsqu'il renonce à prendre position sur une affaire parce qu'elle ne concerne pas spécifiquement la population francophone de l'arrondissement administratif de Biel/Bienne;
-- c lorsque le Plénum ou une commission lui cède sa compétence de préavis ou de décision.
+- c lorsque le Plénum ou une commission lui cède sa compétence de préavis ou de décision;
+- d lorsqu'il s'agit d'affaires relatives à l'application de la loi fédérale du 5 octobre 2007 sur les langues nationales et la compréhension entre les communautés linguistiques (loi sur les langues, LLC)[^6-1].
 
 <sup>3</sup> Les décisions du Bureau au sens de l'alinéa 2 sont portées à la connaissance du CAF.
 
 <sup>4</sup> Les membres du Bureau qui n'assument ni la présidence, ni la vice-présidence déterminent le résultat des votes en qualité de scrutateurs ou scrutatrices.
+
+[^6-1]: RS [441.1](https://db.clex.ch/link/Bund/441.1/fr)
 
 ### 1.4 Droits et devoirs des membres du CAF
 
@@ -239,7 +242,7 @@ arrête:
 
 <sup>1</sup> Le CAF constitue en son sein la Commission formation, santé-social pour le représenter dans ses relations intercantonales et traiter des affaires en lien avec l'instruction publique et le domaine santé-social.
 
-<sup>2</sup> La Commission formation, santé-social, composée de trois à cinq membres représente le CAF dans les relations intercantonales définies à l'article 45 LStP et aux articles 16 à 18 de l'ordonnance du 2 novembre 2005 sur le statut particulier du Jura bernois et sur la minorité francophone du district bilingue de Bienne (ordonnance sur le statut particulier, OStP)[^15-1].
+<sup>2</sup> La Commission formation, santé-social, composée de trois à cinq membres représente le CAF dans les relations intercantonales définies à l'article 45 LStP et aux articles 16 à 18 de l'ordonnance du 2 novembre 2005 sur le statut particulier du Jura bernois et sur la minorité francophone l'arrondissement administratif de Biel/Bienne (ordonnance sur le statut particulier, OStP)[^15-1].
 
 <sup>3</sup> De cas en cas, la Commission formation, santé-social peut habiliter son président ou sa présidente à représenter le CAF dans ses relations intercantonales.
 
@@ -316,9 +319,7 @@ arrête:
 
 #### Art. 23a
 
-<sup>1</sup> Les communes de l'arrondissement administratif de Biel/Bienne peuvent soumettre au CAF d'autres tâches communales et moyennant rémunération selon l'article 8 de l'ordonnance exploratoire du 21 juin 2017 sur l’extension du périmètre d'action du Conseil des affaires francophones du district bilingue de Bienne à l’arrondissement administratif de Biel/Bienne (OECAF)[^23a-1].
-
-[^23a-1]: RSB 102.111.20
+<sup>1</sup> Les communes de l'arrondissement administratif de Biel/Bienne peuvent soumettre au CAF d'autres tâches communales et moyennant rémunération selon l'article 5 OStP.
 
 ## 4 Secrétariat général
 
