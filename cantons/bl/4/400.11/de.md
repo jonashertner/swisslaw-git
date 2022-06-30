@@ -4,13 +4,13 @@ number: "400.11"
 title: Verordnung zum Raumplanungs- und Baugesetz
 short: RBV
 language: de
-version: 2022-03-01
-valid_until: 2022-06-30
-version_adopted: 2022-01-25
+version: 2022-07-01
+valid_until: 2023-01-31
+version_adopted: 2022-05-17
 adopted: 1998-10-27
 in_force: 1999-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/400.11"
-pdf: "https://bl.clex.ch/api/de/versions/3229/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3328/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3229/pdf_file"
 
 (RBV)
 
-Vom 27.10.1998 (Stand 01.03.2022)
+Vom 27.10.1998 (Stand 01.07.2022)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -1182,17 +1182,18 @@ Hauptdächer, Vordächer und offene, durchgehende Balkone. Andere Bauteile dürf
 - f. Stützmauern bis maximal 1,20 m Höhe generell sowie geringfügige Terrainveränderungen im Rahmen der ortsüblichen Gartengestaltung. Liegen (bewilligungsfreie) Stützmauern an einer Strasse, ist die Zustimmung des Strasseneigentümers einzuholen;
 - g. im ortsüblichen Rahmen Anlagen der Garten- oder Aussenraumgestaltung wie Wege, Treppen, Brunnen, Teiche, offene, ungedeckte Sitzplätze, Gartencheminées, Sandkästen und Planschbecken sowie ungedeckte Autoabstellpätze etc.;
 - h. Umnutzungen in Gewerbezonen, falls dies mit geringen Auswirkungen auf Verkehr und Umwelt verbunden ist. Diese sind der Baubewilligungsbehörde anzuzeigen;
-- i. freistehende Velounterstände in Leichtbauweise ausserhalb von Kernzonen, Ortsbild- und Denkmalschutzzonen sowie Quartierplanperimetern, sofern sie eine Höhe von 1,50 m und eine insgesamte Grundfläche von 6 m² pro Parzelle nicht überschreiten.
+- i. freistehende Velounterstände in Leichtbauweise ausserhalb von Kernzonen, Ortsbild- und Denkmalschutzzonen sowie Quartierplanperimetern, sofern sie eine Höhe von 1,50 m und eine insgesamte Grundfläche von 6 m² pro Parzelle nicht überschreiten;
+- j. aussen aufgestellte Luft/Wasser-Wärmepumpen bis zu einem Volumen von 2 m³, sofern sie nicht in einer Kernzone, einer Ortsbildschutzzone, einer Denkmalschutzzone oder in der Umgebung eines geschützten Kulturdenkmals erstellt werden sollen; kommunale Gestaltungsvorschriften sind zu beachten; ohne schriftliche Einwilligung der betroffenen Grundeigentümerin oder des betroffenen Grundeigentümers haben sie, unter Beachtung der Lärmschutzvorschriften, einen Abstand von mindestens 2 m zur Nachbarparzelle einzuhalten; bei einem Standort zwischen Bau- und Strassenlinie ist die schriftliche Zustimmung der Strasseneigentümerin oder des Strasseneigentümers einzuholen.
 
 <sup>2</sup> Die Errichtung von baubewilligungsfreien Bauten und Anlagen entbindet nicht von der Einhaltung aller übrigen Bauvorschriften.
 
 #### § 94a
 
-**Meldepflicht für Solaranlagen**
+**Meldepflicht für Solaranlagen und Wärmepumpen**
 
-<sup>1</sup> Solaranlagen in Bau- und in Landwirtschaftszonen, die keiner Baubewilligung bedürfen, sind meldepflichtig.
+<sup>1</sup> Solaranlagen und Wärmepumpen gemäss § 94 Abs. 1 Bst. e und j unterstehen einer vorgängigen Meldepflicht bei der zuständigen Baubewilligungsbehörde gemäss § 118 Abs. 1 und 3 RBG. Im Rahmen der Meldepflicht ist bei Wärmepumpen zudem ein Lärmschutznachweis zu erbringen.
 
-<sup>2</sup> Die Meldung hat mindestens 30 Tage vor Baubeginn schriftlich an das Bauinspektorat zu erfolgen, bei welchem das Formular «Meldung Solaranlage» bezogen oder vom Internet unter www.bauinspektorat.bl.ch heruntergeladen werden kann.
+<sup>2</sup> Die Meldung hat mindestens 30 Tage vor Baubeginn schriftlich an die zuständige Baubewilligungsbehörde zu erfolgen mittels Meldung im Internet unter [www.bauinspektorat.bl.ch](http://www.bauinspektorat.bl.ch) oder mit den Formularen «Meldung Solaranlagen» bzw. «Meldung Wärmepumpen», welche bei der Baubewilligungsbehörde bezogen oder vom Internet heruntergeladen werden können.
 
 ### 6.6 Beschwerdeverfahren (Organisation und Verfahren der Baurekurskommission)
 
