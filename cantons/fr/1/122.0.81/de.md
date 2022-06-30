@@ -3,13 +3,13 @@ canton: FR
 number: "122.0.81"
 title: Verordnung über die Sicherheit und den Gesundheitsschutz am Arbeitsplatz in der Kantonsverwaltung
 language: de
-version: 2015-06-01
-valid_until: 2022-06-30
-version_adopted: 2015-07-10
+version: 2022-07-01
+valid_until: 2022-12-31
+version_adopted: 2022-05-24
 adopted: 2007-04-24
 in_force: 2007-05-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.0.81"
-pdf: "https://bdlf.fr.ch/api/de/versions/5004/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7499/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/5004/pdf_file"
 
 Kantonsverwaltung, Gesundheitsschutz am Arbeitsplatz – V
 
-vom 24.04.2007 (Fassung in Kraft getreten am 01.06.2015)
+vom 24.04.2007 (Fassung in Kraft getreten am 01.07.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -93,12 +93,12 @@ beschliesst:
 
 - a) der Chefin oder dem Chef der Fachstelle nach Artikel 10; diese Person führt den Vorsitz;
 - b) der Kantonsärztin oder dem Kantonsarzt;
-- c) der Kantonsarchitektin oder dem Kantonsarchitekten;
+- c) der Chefin oder dem Chef des Hochbauamtes;
 - d) der Kantonschemikerin oder dem Kantonschemiker;
-- e) der für die Schulbauten verantwortliche Person;
-- f) zwei Personalvertreterinnen oder Personalvertretern.
+- e) der Kantonsingenieurin oder dem Kantonsingenieur;
+- f) drei Personalvertreterinnen oder Personalvertretern.
 
-<sup>2</sup> Die Personalvertreterinnen und -vertreter müssen Staatsangestellte sein; sie werden vom Dachverband des Personals öffentlicher Dienste des Kantons Freiburg oder der Vereinigung der höheren Kader und Magistratspersonen des Staates Freiburg ausgewählt.
+<sup>2</sup> Die drei Personalvertreterinnen und -vertreter, von denen mindestens zwei Staatsangestellte sein müssen, werden im Einvernehmen zwischen den anerkannten Sozialpartnern ausgewählt. Kommt keine Einigung zustande, so entscheidet der Staatsrat auf Empfehlung seiner Delegation für das Personalwesen.
 
 <sup>3</sup> Die SGA-Kommission kann als Mitglieder mit beratender Stimme bezeichnen:
 

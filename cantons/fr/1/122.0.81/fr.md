@@ -3,13 +3,13 @@ canton: FR
 number: "122.0.81"
 title: "Ordonnance relative à la sécurité et à la protection de la santé au travail dans l'administration cantonale"
 language: fr
-version: 2015-06-01
-valid_until: 2022-06-30
-version_adopted: 2015-07-10
+version: 2022-07-01
+valid_until: 2022-12-31
+version_adopted: 2022-05-24
 adopted: 2007-04-24
 in_force: 2007-05-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/122.0.81"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5004/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7499/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/5004/pdf_file"
 
 Administration cantonale, protection de la santé au travail – O
 
-du 24.04.2007 (version entrée en vigueur le 01.06.2015)
+du 24.04.2007 (version entrée en vigueur le 01.07.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -93,12 +93,12 @@ Arrête:
 
 - a) le ou la chef-fe du service spécialisé au sens de l'article 10, qui la préside;
 - b) le ou la médecin cantonal-e;
-- c) l'architecte cantonal-e;
+- c) le ou la chef-fe du Service des bâtiments;
 - d) le ou la chimiste cantonal-e;
-- e) la personne responsable des constructions scolaires;
-- f) deux personnes représentant le personnel.
+- e) l'ingénieur-e cantonal-e;
+- f) trois personnes représentant le personnel.
 
-<sup>2</sup> Les deux personnes représentant le personnel doivent être membres du personnel de l'Etat; elles sont choisies respectivement par la Fédération des associations du personnel des services publics du canton de Fribourg et par l'Association des cadres supérieurs et magistrats, magistrates de l'Etat de Fribourg.
+<sup>2</sup> Les trois personnes représentant le personnel, dont deux au moins doivent être membres du personnel de l'Etat, sont choisies d'entente entre les partenaires reconnus. A défaut d'entente, le Conseil d'Etat tranche sur recommandation de la Délégation du Conseil d'Etat pour les questions du personnel.
 
 <sup>3</sup> La Commission SST peut désigner en qualité de membres avec voix consultative:
 
