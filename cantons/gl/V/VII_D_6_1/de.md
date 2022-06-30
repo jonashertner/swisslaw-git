@@ -4,13 +4,13 @@ number: VII D/6/1
 title: Gesetz über den öffentlichen Verkehr
 short: öV-Gesetz
 language: de
-version: 2011-01-01
-valid_until: 2022-06-30
-version_adopted: 2010-05-02
+version: 2022-07-01
+valid_until: 2025-12-31
+version_adopted: 2021-09-05
 adopted: 2025-05-04
 in_force: 2026-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VII-D.6.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/1133/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2304/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/1133/pdf_file"
 
 (öV-Gesetz)
 
-Vom 05.05.1996 (Stand 01.01.2011)
+Vom 05.05.1996 (Stand 01.07.2022)
 
 (Erlassen von der Landsgemeinde am 5. Mai 1996)
 
@@ -41,7 +41,7 @@ Vom 05.05.1996 (Stand 01.01.2011)
 
 **Massnahmen**
 
-<sup>1</sup> Der Kanton und die Gemeinden gewährleisten zusammen mit dem Bund auf der Basis des Eisenbahngesetzes (EBG) den öffentlichen Regionalverkehr durch Abgeltung der ungedeckten Kosten des Verkehrsangebotes an die Transportunternehmungen (Art. 49 ff. EBG) und durch Finanzhilfen und Darlehen an technische Verbesserungen und Betriebsumstellungen (Art. 56, 57 und 60 EBG).
+<sup>1</sup> Der Kanton und die Gemeinden gewährleisten zusammen mit dem Bund auf der Basis des Personenbeförderungsgesetzes (PBG)[^3-1] den öffentlichen Regionalverkehr durch Abgeltung der ungedeckten Kosten des Verkehrsangebotes an die Transportunternehmungen (Art. 28 ff. PBG) und durch Finanzhilfen und Darlehen an technische Verbesserungen und Betriebsumstellungen.
 
 <sup>2</sup> Im weiteren gestaltet und fördert der Kanton zusammen mit den Gemeinden unter Vorbehalt der Bundesvorschriften den öffentlichen Verkehr durch eine aktive Verkehrspolitik sowie durch die Ausrichtung von Beiträgen.
 
@@ -49,9 +49,11 @@ Vom 05.05.1996 (Stand 01.01.2011)
 
 - a. Sicherstellung leistungsfähiger Verkehrsverbindungen im ganzen Kanton, wobei grundsätzlich ein Stundentakt vorzusehen ist;
 - b. Verbesserung der Anschlüsse von und zu den angrenzenden regionalen und übergeordneten Verkehrsnetzen, insbesondere beim Knotenbahnhof Ziegelbrücke, und rasche Erreichbarkeit ausserkantonaler zentraler Orte, insbesondere Zürich;
-- c. Gewährung möglichst gleicher Entwicklungschancen für alle Gemeinden unter Berücksichtigung volks- und betriebswirtschaftlicher Gesichtspunkte;
+- c. Erschliessung aller Ortschaften mit dem öffentlichen Verkehr;
 - d. Verbesserung der Nahtstellen zwischen dem öffentlichen und privaten Verkehr;
 - e. Schaffung finanzieller und anderer Anreize zur vermehrten Benützung der öffentlichen Verkehrsmittel.
+
+[^3-1]: SR 745.1
 
 #### Art. 4
 
