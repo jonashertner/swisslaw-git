@@ -4,13 +4,12 @@ number: 880e
 title: Reglement über die paritätische Personalkommission des Sozialversicherungszentrums WAS
 short: Personalkommissionsreglement
 language: de
-version: 2020-01-01
-valid_until: 2022-06-30
-version_adopted: 2019-12-12
+version: 2022-07-01
+version_adopted: 2022-08-22
 adopted: 2019-12-12
 in_force: 2020-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/880e"
-pdf: "https://srl.lu.ch/api/de/versions/3547/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3963/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3547/pdf_file"
 
 (Personalkommissionsreglement)
 
-vom 12.12.2019 (Stand 01.01.2020)
+vom 12.12.2019 (Stand 01.07.2022)
 
 Der Verwaltungsrat des Sozialversicherungszentrums des Kantons Luzern,
 
@@ -59,7 +58,7 @@ beschliesst:
 - a. Die Mitgestaltung und die Mitverantwortung der Mitarbeitenden werden gestärkt.
 - b. Das Erfahrungswissen und die Anliegen der Mitarbeitenden bei personalrelevanten Entscheidprozessen werden einbezogen.
 - c. Im Interesse der Mitarbeitenden und der Versicherten wird die Leistungsfähigkeit des Unternehmens gefördert.
-- d. Das WAS-Zielbild mit Wissen, Wertschätzung und Weitblick wird im Sinne der Unternehmenskultur gelebt.
+- d. Die WAS-Kernwerte und -Handlungsgrundsätze werden im Sinne der Unternehmenskultur gelebt.
 
 #### § 4
 
@@ -169,6 +168,8 @@ beschliesst:
 - i. informiert die Geschäftsleitung bzw. die zuständigen Stellen vorgängig bei Umfragen, Versammlungen, Aktionen,
 - j. schlägt dem Verwaltungsrat gemäss § 16 Absatz 1 Personalreglement des Sozialversicherungszentrums[^10-1] drei Mitglieder zur Wahl für die Schlichtungsstelle vor.
 
+<sup>2</sup> Die Präsidentin oder der Präsident der PeKo tauscht sich quartalsweise mit der Bereichsleitung Personal aus.
+
 [^10-1]: SRL Nr. [880c](https://srl.lu.ch/data/880c/de)
 
 #### § 11
@@ -187,13 +188,17 @@ beschliesst:
 
 <sup>2</sup> Bei Erlass oder Änderung der mitwirkungsrelevanten Angelegenheiten ist die PeKo frühzeitig einzubeziehen, zu konsultieren und anzuhören.
 
-<sup>3</sup> Die PeKo-Leitung (Präsidentin/Präsident und Stellvertretung) wird zu Kader-Anlässen eingeladen.
+<sup>3</sup> …
 
-<sup>4</sup> Den PeKo-Mitgliedern ist die Teilnahme an Kader-Informationsveranstaltungen zu ermöglichen, zudem die Teilnahme an internen Kaderschulungen, soweit dies die Arbeit in der PeKo fördert.
+<sup>4</sup> Den PeKo-Mitgliedern ist die Teilnahme an Kader-Informationsveranstaltungen zu ermöglichen.
+
+<sup>5</sup> Die PeKo-Leitung (Präsidentin/Präsident) wird über den Zeitpunkt und das Programm von Kaderschulungen und Kaderworkshops im Vorfeld orientiert, und nach den Veranstaltungen erfolgt eine kurze Information über den Inhalt der Veranstaltung.
 
 ## 4 Zusammensetzung der Personalkommission
 
 #### § 12
+
+**Zusammensetzung**
 
 <sup>1</sup> Die PeKo besteht aus 10 gewählten Mitgliedern.
 
@@ -237,7 +242,7 @@ beschliesst:
 
 **Wählbarkeit (passives Wahlrecht)**
 
-<sup>1</sup> Wählbar sind alle Mitarbeitenden, die in einem ungekündigten Arbeitsverhältnis stehen und einen Beschäftigungsgrad von mindestens 50 Prozent der Normalarbeitszeit wahrnehmen.
+<sup>1</sup> Wählbar sind alle Mitarbeitenden, die in einem ungekündigten Arbeitsverhältnis stehen.
 
 <sup>2</sup> Von der Wahl ausgenommen sind die Mitglieder der Geschäftsleitung, der Bereichsleitung Personal sowie Auszubildende.
 
@@ -384,7 +389,7 @@ beschliesst:
 <sup>3</sup> Zum Ausscheiden aus der PeKo führen
 
 - a. Wechsel des Geschäftsfeldes,
-- b. Reduktion des Arbeitspensums unter 50 Prozent,
+- b. …
 - c. Beendigung des Arbeitsverhältnisses.
 
 <sup>4</sup> Mitglieder der PeKo können ihr Mandat aus persönlichen Gründen niederlegen. Sie müssen dies der PeKo und der Bereichsleitung Personal schriftlich mitteilen.
@@ -401,7 +406,7 @@ beschliesst:
 
 <sup>2</sup> Pro Kalenderjahr wird von einem maximalen Aufwand von 5 Arbeitstagen ausgegangen.
 
-<sup>3</sup> Für das Präsidium wird als Richtwert von einem Pensum von 5 Prozent ausgegangen.
+<sup>3</sup> Für das Präsidium wird als Richtwert von einem Pensum von maximal 10 Prozent ausgegangen.
 
 <sup>4</sup> Grundsätzlich gilt die Weisung über die Arbeitszeit.
 
