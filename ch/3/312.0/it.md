@@ -4,11 +4,11 @@ title: "Codice di diritto processuale penale svizzero del 5 ottobre 2007 (Codice
 short: CPP
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/267"
 language: it
-version: 2021-07-01
+version: 2022-07-01
 adopted: 2007-10-05
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20210701/it/xml/fedlex-data-admin-ch-eli-cc-2010-267-20210701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20210701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20220701/it/xml/fedlex-data-admin-ch-eli-cc-2010-267-20220701-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20220701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20210701/it"
 
 (Codice di procedura penale, CPP)
 
-del 5 ottobre 2007 (Stato 1° luglio 2021)
+del 5 ottobre 2007 (Stato 1° luglio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -5671,7 +5671,7 @@ Chi è aggravato da una sentenza passata in giudicato, da un decreto d’accusa,
 
 La revisione per violazione della Convenzione europea del 4 novembre 1950[^410-1] per la salvaguardia dei diritti dell’uomo e delle libertà fondamentali (CEDU) può essere chiesta se:
 
-- a. la Corte europea dei diritti dell’uomo ha accertato con sentenza definitiva che la CEDU o i suoi Protocolli sono stati violati;
+- a.[^410-2] la Corte europea dei diritti dell’uomo ha accertato con sentenza definitiva (art. 44 CEDU) che la CEDU o i suoi Protocolli sono stati violati oppure ha chiuso la causa con una composizione amichevole (art. 39 CEDU);
 - b. un’indennità non è atta a compensare le conseguenze della violazione; e
 - c. la revisione è necessaria per porre fine alla violazione.
 
@@ -5680,6 +5680,7 @@ La revisione per violazione della Convenzione europea del 4 novembre 1950[^410-1
 <sup>4</sup> La revisione limitata alle pretese civili è ammissibile soltanto se la legge di procedura civile del foro consente la revisione in materia civile.
 
 [^410-1]: [RS 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^410-2]: Nuovo testo giusta l’all. n. 3 della LF del 1° ott. 2021, in vigore dal 1° lug. 2022 ([RU 2022 289](https://fedlex.data.admin.ch/eli/oc/2022/289); [FF 2021 300](https://fedlex.data.admin.ch/eli/fga/2021/300), [889](https://fedlex.data.admin.ch/eli/fga/2021/889)).
 
 #### Art. 411
 

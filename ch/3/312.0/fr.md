@@ -4,11 +4,11 @@ title: "Code de procédure pénale suisse du 5 octobre 2007 (Code de procédure 
 short: CPP
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/267"
 language: fr
-version: 2021-07-01
+version: 2022-07-01
 adopted: 2007-10-05
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-2010-267-20210701-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20210701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-2010-267-20220701-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20220701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20210701/fr"
 
 (Code de procédure pénale, CPP)
 
-du 5 octobre 2007 (Etat le 1<sup>er</sup> juillet 2021)
+du 5 octobre 2007 (Etat le 1<sup>er</sup> juillet 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -933,7 +933,7 @@ Les procès-verbaux de procédure relatent tous les actes essentiels de procédu
 
 <sup>4</sup> La direction de la procédure peut autoriser la personne entendue à dicter elle-même sa déposition.
 
-<sup>5</sup> A l’issue de l’audition, le procès-verbal est lu ou remis pour lecture à la personne entendue. Après en avoir pris connaissance, la personne entendue appose sa signature au bas du procès-verbal et en paraphe chaque page. Si elle refuse de lire intégralement ou de signer le procès-verbal, le refus et les motifs invoqués sont consignés au procès-verbal.
+<sup>5</sup> À l’issue de l’audition, le procès-verbal est lu ou remis pour lecture à la personne entendue. Après en avoir pris connaissance, la personne entendue appose sa signature au bas du procès-verbal et en paraphe chaque page. Si elle refuse de lire intégralement ou de signer le procès-verbal, le refus et les motifs invoqués sont consignés au procès-verbal.
 
 <sup>5bis</sup> Si, durant les débats, une audition est enregistrée par des moyens techniques, le tribunal peut renoncer à lire le procès-verbal à la personne entendue ou à le lui remettre pour lecture et à le lui faire signer. Les enregistrements doivent être versés au dossier.[^78-1]
 
@@ -1225,7 +1225,7 @@ Sont réservés:
 [^96-1]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
 [^96-2]: [RS 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
 [^96-3]: [RS 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
-[^96-4]: Nouvelle teneur selon le ch. I 1 let. a de l’annexe 2 à la LF du 13 juin 2008 sur les systèmes d’information de police de la Confédération, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2008 4989](https://fedlex.data.admin.ch/eli/oc/2008/698); [FF 2006 4819](https://fedlex.data.admin.ch/eli/fga/2006/611)).
+[^96-4]: Nouvelle teneur selon l’annexe 2 ch. I 1 let. a de la LF du 13 juin 2008 sur les systèmes d’information de police de la Confédération, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2008 4989](https://fedlex.data.admin.ch/eli/oc/2008/698); [FF 2006 4819](https://fedlex.data.admin.ch/eli/fga/2006/611)).
 
 #### Art. 97
 
@@ -1255,7 +1255,7 @@ Tant que la procédure est pendante, les parties et les autres participants à l
 
 [^99-1]: [RS 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
 [^99-2]: [RS 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
-[^99-3]: Nouvelle teneur selon le ch. I 1 let. a de l’annexe 2 à la LF du 13 juin 2008 sur les systèmes d’information de police de la Confédération, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2008 4989](https://fedlex.data.admin.ch/eli/oc/2008/698); [FF 2006 4819](https://fedlex.data.admin.ch/eli/fga/2006/611)).
+[^99-3]: Nouvelle teneur selon l’annexe 2 ch. I 1 let. a de la LF du 13 juin 2008 sur les systèmes d’information de police de la Confédération, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2008 4989](https://fedlex.data.admin.ch/eli/oc/2008/698); [FF 2006 4819](https://fedlex.data.admin.ch/eli/fga/2006/611)).
 
 ### Section 9 Tenue, consultation et conservation des dossiers
 
@@ -1913,7 +1913,7 @@ Lorsque l’administration de preuves a lieu à l’étranger par commission rog
 
 <sup>2</sup>
 
-A cette fin, la direction de la procédure peut limiter de façon appropriée les droits de procédure des parties et notamment:
+À cette fin, la direction de la procédure peut limiter de façon appropriée les droits de procédure des parties et notamment:
 
 - a. assurer l’anonymat de la personne à protéger;
 - b. procéder à des auditions en l’absence des parties ou à huis clos;
@@ -2923,7 +2923,7 @@ Dans sa décision, il peut:
 
 **Demande de prolongation de la détention provisoire**
 
-<sup>1</sup> A l’expiration de la durée de la détention provisoire fixée par le tribunal des mesures de contrainte, le ministère public peut demander la prolongation de la détention. Si la durée de la détention n’est pas limitée, la demande doit être présentée dans les trois mois suivant le début de la détention.
+<sup>1</sup> À l’expiration de la durée de la détention provisoire fixée par le tribunal des mesures de contrainte, le ministère public peut demander la prolongation de la détention. Si la durée de la détention n’est pas limitée, la demande doit être présentée dans les trois mois suivant le début de la détention.
 
 <sup>2</sup> Le ministère public transmet au tribunal des mesures de contrainte la demande de prolongation écrite et motivée, au plus tard quatre jours avant la fin de la période de détention, et y joint les pièces essentielles du dossier.
 
@@ -3095,7 +3095,7 @@ Les sûretés sont libérées dès que:
 - b. la procédure pénale est close par une ordonnance de classement ou un acquittement entré en force;
 - c. le prévenu a commencé l’exécution de la sanction privative de liberté.
 
-<sup>2</sup> Les sûretés fournies par le prévenu qui ont été libérés peuvent être utilisées pour payer les peines pécuniaires, les amendes, les frais et les indemnités mis à sa charge.
+<sup>2</sup> Les sûretés fournies par le prévenu qui ont été libérées peuvent être utilisées pour payer les peines pécuniaires, les amendes, les frais et les indemnités mis à sa charge.
 
 <sup>3</sup> L’autorité saisie de la cause ou qui en a été saisie en dernier statue sur la libération des sûretés.
 
@@ -3815,7 +3815,7 @@ La communication est différée ou il y est renoncé aux conditions suivantes:
 
 **Principe**
 
-A la demande du ministère public, le tribunal des mesures de contrainte peut autoriser la surveillance des relations entre une banque ou un établissement similaire et un prévenu, dans le but d’élucider des crimes ou des délits.
+À la demande du ministère public, le tribunal des mesures de contrainte peut autoriser la surveillance des relations entre une banque ou un établissement similaire et un prévenu, dans le but d’élucider des crimes ou des délits.
 
 #### Art. 285
 
@@ -4014,7 +4014,7 @@ L’agent infiltré qui agit dans le cadre d’une investigation secrète dûmen
 
 **Montants nécessaires à la conclusion d’un marché fictif**
 
-<sup>1</sup> A la demande du ministère public, la Confédération peut, par l’intermédiaire de la Banque nationale, mettre à la disposition de l’agent infiltré les montants dont il a besoin pour conclure des marchés fictifs et pour démontrer sa capacité économique, sous la forme et la quantité requise.
+<sup>1</sup> À la demande du ministère public, la Confédération peut, par l’intermédiaire de la Banque nationale, mettre à la disposition de l’agent infiltré les montants dont il a besoin pour conclure des marchés fictifs et pour démontrer sa capacité économique, sous la forme et la quantité requise.
 
 <sup>2</sup> La demande accompagnée d’une brève description du cas doit être adressée à l’Office fédéral de la police.
 
@@ -4392,7 +4392,7 @@ Le ministère public ordonne le classement de tout ou partie de la procédure:
 
 <sup>2</sup>
 
-A titre exceptionnel, le ministère public peut également classer la procédure aux conditions suivantes:
+À titre exceptionnel, le ministère public peut également classer la procédure aux conditions suivantes:
 
 - a. l’intérêt d’une victime qui était âgée de moins de 18 ans à la date de commission de l’infraction l’exige impérieusement et le classement l’emporte manifestement sur l’intérêt de l’État à la poursuite pénale;
 - b. la victime ou, si elle n’est pas capable de discernement, son représentant légal a consenti au classement.
@@ -4648,7 +4648,7 @@ Le prévenu doit participer en personne aux débats dans les cas suivants:
 
 **Partie plaignante et tiers**
 
-<sup>1</sup> A la demande de la partie plaignante, la direction de la procédure peut la dispenser de comparaître personnellement, lorsque sa présence n’est pas nécessaire.
+<sup>1</sup> À la demande de la partie plaignante, la direction de la procédure peut la dispenser de comparaître personnellement, lorsque sa présence n’est pas nécessaire.
 
 <sup>2</sup> Le tiers concerné par une mesure de confiscation a le droit de ne pas comparaître personnellement.
 
@@ -5096,7 +5096,7 @@ La procédure par défaut ne peut être engagée qu’aux conditions suivantes:
 
 <sup>2</sup> Le tribunal statue sur la base des preuves administrées durant la procédure préliminaire et lors des débats.
 
-<sup>3</sup> A l’issue des plaidoiries, le tribunal peut rendre un jugement ou suspendre la procédure jusqu’à ce que le prévenu comparaisse à la barre.
+<sup>3</sup> À l’issue des plaidoiries, le tribunal peut rendre un jugement ou suspendre la procédure jusqu’à ce que le prévenu comparaisse à la barre.
 
 <sup>4</sup> Au surplus, la procédure par défaut est régie par les dispositions applicables à la procédure de première instance.
 
@@ -5667,7 +5667,7 @@ Toute personne lésée par un jugement entré en force, une ordonnance pénale, 
 
 La révision pour violation de la Convention du 4 novembre 1950 de sauvegarde des droits de l’homme et des libertés fondamentales (CEDH)[^410-1] peut être demandée aux conditions suivantes:
 
-- a. la Cour européenne des droits de l’homme a constaté dans un arrêt définitif une violation de la CEDH ou de ses protocoles;
+- a.[^410-2] la Cour européenne des droits de l’homme a constaté, dans un arrêt définitif (art. 44 CEDH), une violation de la CEDH ou de ses protocoles, ou a conclu le cas par un règlement amiable (art. 39 CEDH);
 - b. une indemnité n’est pas de nature à remédier aux effets de la violation;
 - c. la révision est nécessaire pour remédier aux effets de la violation.
 
@@ -5676,6 +5676,7 @@ La révision pour violation de la Convention du 4 novembre 1950 de sauvegarde de
 <sup>4</sup> La révision limitée aux prétentions civiles n’est recevable qu’au cas où le droit de la procédure civile applicable au for permettrait la révision.
 
 [^410-1]: [RS 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^410-2]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 289](https://fedlex.data.admin.ch/eli/oc/2022/289); [FF 2021 300](https://fedlex.data.admin.ch/eli/fga/2021/300), [889](https://fedlex.data.admin.ch/eli/fga/2021/889)).
 
 #### Art. 411
 
@@ -6114,7 +6115,7 @@ Le Conseil fédéral et, dans la mesure où ils sont compétents, les cantons é
 
 <sup>1</sup> L’abrogation et la modification du droit en vigueur sont réglées dans l’annexe 1.
 
-<sup>2</sup> L’Assemblée fédérale peut adapter par voie d’ordonnance les dispositions de lois fédérales qui, bien que contraires au présent code qui n’ont pas été formellement modifiées par celui-ci.
+<sup>2</sup> L’Assemblée fédérale peut adapter par voie d’ordonnance les dispositions de lois fédérales qui, bien que contraires au présent code, n’ont pas été formellement modifiées par celui-ci.
 
 #### Art. 447
 

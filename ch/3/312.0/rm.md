@@ -4,11 +4,11 @@ title: "Cudesch da procedura penala svizzer dals 5 d'october 2007 (Cudesch da pr
 short: CPP
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/267"
 language: rm
-version: 2021-07-01
+version: 2022-07-01
 adopted: 2007-10-05
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20210701/rm/xml/fedlex-data-admin-ch-eli-cc-2010-267-20210701-rm-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20210701/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20220701/rm/xml/fedlex-data-admin-ch-eli-cc-2010-267-20220701-rm-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20220701/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Cudesch da procedura penala, CPP)
 
-dals 5 d’october 2007 (versiun dal 1. da fanadur 2021)
+dals 5 d’october 2007 (versiun dal 1. da fanadur 2022)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -5673,7 +5673,7 @@ Tgi ch’è engrevgià tras ina sentenzia legalmain valaivla, tras in mandat pen
 
 La revisiun pervia da la violaziun da la Convenziun dals 4 da november 1950[^410-1] per la protecziun dals dretgs umans e da las libertads fundamentalas (CEDU) po vegnir pretendida, sche:
 
-- a. la curt europeica dals dretgs umans ha constatà en ina sentenzia definitiva che la CEDU u ch’ils protocols latiers sajan vegnids violads;
+- a.[^410-2] il Tribunal europeic dals dretgs umans ha constatà en ina sentenzia definitiva (art. 44 CEDU) che la CEDU u ils protocols latiers sajan vegnids violads, u ha terminà il cas tras ina cunvegna amicabla (art. 39 CEDU);
 - b. ina indemnisaziun n’è betg adattada per cumpensar las consequenzas da la violaziun; e
 - c. la revisiun è necessaria per eliminar la violaziun.
 
@@ -5682,6 +5682,7 @@ La revisiun pervia da la violaziun da la Convenziun dals 4 da november 1950[^410
 <sup>4</sup> La revisiun che sa restrenscha als aspects civils è admissibla mo, sch’il dretg da procedura civila ch’è applitgabel a la dretgira cumpetenta permettess ina revisiun.
 
 [^410-1]: [SR 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^410-2]: Versiun tenor la cifra 3 da l’agiunta da la LF dal 1. d’oct. 2021, en vigur dapi il 1. da fan. 2022 ([AS 2022 289](https://fedlex.data.admin.ch/eli/oc/2022/289); [BBl 2021 300](https://fedlex.data.admin.ch/eli/fga/2021/300), [889](https://fedlex.data.admin.ch/eli/fga/2021/889)).
 
 #### Art. 411
 
@@ -6245,8 +6246,8 @@ Las leschas federalas qua sutvart vegnan midadas sco suonda:
 
 …[^annex1-lvlu1-3]
 
-[^annex1-lvlu1-1]: [BS **3** 303; [AS 1971 777](https://fedlex.data.admin.ch/eli/oc/1971/777_777_777)cifra III 4, [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)agiunta cifra 2, [1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)art. 88 cifra 4, [1979 1170](https://fedlex.data.admin.ch/eli/oc/1979/1170_1170_1170), [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)agiunta cifra 15 [2465](https://fedlex.data.admin.ch/eli/oc/1992/2465_2465_2465)agiunta cifra 2, [1993 1993](https://fedlex.data.admin.ch/eli/oc/1993/1993_1993_1993), [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)agiunta cifra 7, [2000 505](https://fedlex.data.admin.ch/eli/oc/2000/95)cifra I 3 [2719](https://fedlex.data.admin.ch/eli/oc/2000/453)cifra II 3 [2725](https://fedlex.data.admin.ch/eli/oc/2000/454)cifra II, [2001 118](https://fedlex.data.admin.ch/eli/oc/2001/22)cifra I 3 [3071](https://fedlex.data.admin.ch/eli/oc/2001/459)cifra II 1 [3096](https://fedlex.data.admin.ch/eli/oc/2001/467)agiunta cifra 2 [3308](https://fedlex.data.admin.ch/eli/oc/2001/492), [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)agiunta cifra 9, [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)cifra I 4, [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)agiunta cifra 19, [2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)agiunta cifra 10, [2007 6087](https://fedlex.data.admin.ch/eli/oc/2007/811), [2008 1607](https://fedlex.data.admin.ch/eli/oc/2008/232)agiunta cifra 1 [4989](https://fedlex.data.admin.ch/eli/oc/2008/698)agiunta 1 cifra 6 [5463](https://fedlex.data.admin.ch/eli/oc/2008/759)agiunta cifra 3, [2009 6605](https://fedlex.data.admin.ch/eli/oc/2009/821)agiunta cifra II 3]
-[^annex1-lvlu1-2]: [[AS 2004 1409](https://fedlex.data.admin.ch/eli/oc/2004/177), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)agiunta cifra 29, [2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758)agiunta cifra II 6, [2006 5437](https://fedlex.data.admin.ch/eli/oc/2006/823)art. 2 cifra 2. [AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)agiunta 1 cifra I 2]
+[^annex1-lvlu1-1]: [BS **3** 303; [AS 1971 777](https://fedlex.data.admin.ch/eli/oc/1971/777_777_777)cifra III 4; [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)agiunta cifra 2; [1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)art. 88 cifra 4; [1979 1170](https://fedlex.data.admin.ch/eli/oc/1979/1170_1170_1170); [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)agiunta cifra 15, [2465](https://fedlex.data.admin.ch/eli/oc/1992/2465_2465_2465)agiunta cifra 2; [1993 1993](https://fedlex.data.admin.ch/eli/oc/1993/1993_1993_1993); [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)agiunta cifra 7; [2000 505](https://fedlex.data.admin.ch/eli/oc/2000/95)cifra I 3, [2719](https://fedlex.data.admin.ch/eli/oc/2000/453)cifra II 3, [2725](https://fedlex.data.admin.ch/eli/oc/2000/454)cifra II; [2001 118](https://fedlex.data.admin.ch/eli/oc/2001/22)cifra I 3, [3071](https://fedlex.data.admin.ch/eli/oc/2001/459)cifra II 1, [3096](https://fedlex.data.admin.ch/eli/oc/2001/467)agiunta cifra 2, [3308](https://fedlex.data.admin.ch/eli/oc/2001/492); [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)agiunta cifra 9; [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)cifra I 4; [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)agiunta cifra 19; [2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)agiunta cifra 10; [2007 6087](https://fedlex.data.admin.ch/eli/oc/2007/811); [2008 1607](https://fedlex.data.admin.ch/eli/oc/2008/232)agiunta cifra 1, [4989](https://fedlex.data.admin.ch/eli/oc/2008/698)agiunta 1 cifra 6, [5463](https://fedlex.data.admin.ch/eli/oc/2008/759)agiunta cifra 3; [2009 6605](https://fedlex.data.admin.ch/eli/oc/2009/821)agiunta cifra II 3]
+[^annex1-lvlu1-2]: [[AS 2004 1409](https://fedlex.data.admin.ch/eli/oc/2004/177); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)agiunta cifra 29; [2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758)agiunta cifra II 6; [2006 5437](https://fedlex.data.admin.ch/eli/oc/2006/823)art. 2 cifra 2. [AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)agiunta 1 cifra I 2]
 [^annex1-lvlu1-3]: Las midadas pon vegnir consultadas sut [AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267).
 
 Agiunta 2

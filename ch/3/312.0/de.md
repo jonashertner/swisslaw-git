@@ -4,11 +4,11 @@ title: "Schweizerische Strafprozessordnung vom 5. Oktober 2007 (Strafprozessordn
 short: StPO
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/267"
 language: de
-version: 2021-07-01
+version: 2022-07-01
 adopted: 2007-10-05
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20210701/de/xml/fedlex-data-admin-ch-eli-cc-2010-267-20210701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20210701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20220701/de/xml/fedlex-data-admin-ch-eli-cc-2010-267-20220701-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20220701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20210701/de"
 
 (Strafprozessordnung, StPO)
 
-vom 5. Oktober 2007 (Stand am 1. Juli 2021)
+vom 5. Oktober 2007 (Stand am 1. Juli 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -4825,7 +4825,7 @@ Hat die beschuldigte Person im Vorverfahren den Sachverhalt eingestanden oder is
 
 - a. eine Busse;
 - b. eine Geldstrafe von höchstens 180 Tagessätzen;
-- c.[^352-1] ...
+- c.[^352-1] *…*
 - d. eine Freiheitsstrafe von höchstens 6 Monaten.
 
 <sup>2</sup> Jede dieser Strafen kann mit einer Massnahme nach den Artikeln 66 und 67*e*–73 StGB[^352-2] verbunden werden.[^352-3]
@@ -5671,7 +5671,7 @@ Wer durch ein rechtskräftiges Urteil, einen Strafbefehl, einen nachträglichen 
 
 Die Revision wegen Verletzung der Konvention vom 4. November 1950[^410-1] zum Schutze der Menschenrechte und Grundfreiheiten (EMRK) kann verlangt werden, wenn:
 
-- a. der Europäische Gerichtshof für Menschenrechte in einem endgültigen Urteil festgestellt hat, dass die EMRK oder die Protokolle dazu verletzt worden sind;
+- a.[^410-2] der Europäische Gerichtshof für Menschenrechte in einem endgültigen Urteil (Art. 44 EMRK) festgestellt hat, dass die EMRK oder die Protokolle dazu verletzt worden sind, oder den Fall durch eine gütliche Einigung (Art. 39 EMRK) abgeschlossen hat;
 - b. eine Entschädigung nicht geeignet ist, die Folgen der Verletzung auszugleichen; und
 - c. die Revision notwendig ist, um die Verletzung zu beseitigen.
 
@@ -5680,6 +5680,7 @@ Die Revision wegen Verletzung der Konvention vom 4. November 1950[^410-1] zum Sc
 <sup>4</sup> Beschränkt sich die Revision auf Zivilansprüche, so ist sie nur zulässig, wenn das am Gerichtsstand anwendbare Zivilprozessrecht eine Revision gestatten würde.
 
 [^410-1]: [SR 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^410-2]: Fassung gemäss Anhang Ziff. 3 des BG vom 1. Okt. 2021, in Kraft seit 1. Juli 2022 ([AS 2022 289](https://fedlex.data.admin.ch/eli/oc/2022/289); [BBl 2021 300](https://fedlex.data.admin.ch/eli/fga/2021/300), [889](https://fedlex.data.admin.ch/eli/fga/2021/889)).
 
 #### Art. 411
 
@@ -5816,7 +5817,7 @@ Auslagen sind namentlich:
 
 <sup>1</sup> Die Verfahrenskosten werden vom Bund oder dem Kanton getragen, der das Verfahren geführt hat; abweichende Bestimmungen dieses Gesetzes bleiben vorbehalten.
 
-<sup>2</sup> und <sup>3</sup> ...[^423-1]
+<sup>2</sup> und <sup>3</sup> …[^423-1]
 
 [^423-1]: Aufgehoben durch Anhang Ziff. II 7 des Strafbehördenorganisationsgesetzes vom 19. März 2010, mit Wirkung seit 1. Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 
@@ -6241,10 +6242,10 @@ II
 
 Die nachstehenden Bundesgesetze werden wie folgt geändert:
 
-...[^annex1-lvlu1-3]
+…[^annex1-lvlu1-3]
 
-[^annex1-lvlu1-1]: [BS **3** 303; [AS 1971 777](https://fedlex.data.admin.ch/eli/oc/1971/777_777_777)Ziff. III 4, [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)Anhang Ziff. 2, [1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)Art. 88 Ziff. 4, [1979 1170](https://fedlex.data.admin.ch/eli/oc/1979/1170_1170_1170), [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 15 [2465](https://fedlex.data.admin.ch/eli/oc/1992/2465_2465_2465)Anhang Ziff. 2, [1993 1993](https://fedlex.data.admin.ch/eli/oc/1993/1993_1993_1993), [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Anhang Ziff. 7, [2000 505](https://fedlex.data.admin.ch/eli/oc/2000/95)Ziff. I 3 [2719](https://fedlex.data.admin.ch/eli/oc/2000/453)Ziff. II 3 [2725](https://fedlex.data.admin.ch/eli/oc/2000/454)Ziff. II, [2001 118](https://fedlex.data.admin.ch/eli/oc/2001/22)Ziff. I 3 [3071](https://fedlex.data.admin.ch/eli/oc/2001/459)Ziff. II 1 [3096](https://fedlex.data.admin.ch/eli/oc/2001/467)Anhang Ziff. 2 [3308](https://fedlex.data.admin.ch/eli/oc/2001/492), [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)Anhang Ziff. 9, [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)Ziff. I 4, [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)Anhang Ziff. 19, [2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)Anhang Ziff. 10, [2007 6087](https://fedlex.data.admin.ch/eli/oc/2007/811), [2008 1607](https://fedlex.data.admin.ch/eli/oc/2008/232)Anhang Ziff. 1 [4989](https://fedlex.data.admin.ch/eli/oc/2008/698)Anhang 1 Ziff. 6 [5463](https://fedlex.data.admin.ch/eli/oc/2008/759)Anhang Ziff. 3, [2009 6605](https://fedlex.data.admin.ch/eli/oc/2009/821)Anhang Ziff. II 3]
-[^annex1-lvlu1-2]: [[AS 2004 1409](https://fedlex.data.admin.ch/eli/oc/2004/177), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 29, [2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758)Anhang Ziff. II 6, [2006 5437](https://fedlex.data.admin.ch/eli/oc/2006/823)Art. 2 Ziff. 2. [AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)Anhang 1 Ziff. I 2]
+[^annex1-lvlu1-1]: [BS **3** 303; [AS 1971 777](https://fedlex.data.admin.ch/eli/oc/1971/777_777_777)Ziff. III 4; [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)Anhang Ziff. 2; [1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)Art. 88 Ziff. 4; [1979 1170](https://fedlex.data.admin.ch/eli/oc/1979/1170_1170_1170); [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 15, [2465](https://fedlex.data.admin.ch/eli/oc/1992/2465_2465_2465)Anhang Ziff. 2; [1993 1993](https://fedlex.data.admin.ch/eli/oc/1993/1993_1993_1993); [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Anhang Ziff. 7; [2000 505](https://fedlex.data.admin.ch/eli/oc/2000/95)Ziff. I 3, [2719](https://fedlex.data.admin.ch/eli/oc/2000/453)Ziff. II 3, [2725](https://fedlex.data.admin.ch/eli/oc/2000/454)Ziff. II; [2001 118](https://fedlex.data.admin.ch/eli/oc/2001/22)Ziff. I 3, [3071](https://fedlex.data.admin.ch/eli/oc/2001/459)Ziff. II 1, [3096](https://fedlex.data.admin.ch/eli/oc/2001/467)Anhang Ziff. 2, [3308](https://fedlex.data.admin.ch/eli/oc/2001/492); [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)Anhang Ziff. 9; [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)Ziff. I 4; [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)Anhang Ziff. 19; [2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)Anhang Ziff. 10; [2007 6087](https://fedlex.data.admin.ch/eli/oc/2007/811); [2008 1607](https://fedlex.data.admin.ch/eli/oc/2008/232)Anhang Ziff. 1, [4989](https://fedlex.data.admin.ch/eli/oc/2008/698)Anhang 1 Ziff. 6, [5463](https://fedlex.data.admin.ch/eli/oc/2008/759)Anhang Ziff. 3; [2009 6605](https://fedlex.data.admin.ch/eli/oc/2009/821)Anhang Ziff. II 3]
+[^annex1-lvlu1-2]: [[AS 2004 1409](https://fedlex.data.admin.ch/eli/oc/2004/177); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 29; [2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758)Anhang Ziff. II 6; [2006 5437](https://fedlex.data.admin.ch/eli/oc/2006/823)Art. 2 Ziff. 2. [AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)Anhang 1 Ziff. I 2]
 [^annex1-lvlu1-3]: Die Änderungen können unter [AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)konsultiert werden.
 
 Anhang 2
@@ -6261,7 +6262,7 @@ Anhang 2
 
 Unabhängig davon, ob das neue Opferhilfegesetz vom 23. März 2007[^annex2-lvlu1-lvl1-2] (neues OHG) oder die Strafprozessordnung vom 5. Oktober 2007 (StPO) zuerst in Kraft tritt, wird mit Inkrafttreten des später in Kraft tretenden Gesetzes sowie bei gleichzeitigem Inkrafttreten Artikel 305 Absatz 2 Buchstabe b StPO wie folgt geändert:
 
-...
+…
 
 [^annex2-lvlu1-lvl1-2]: [SR 312.5](https://fedlex.data.admin.ch/eli/cc/2008/232)
 
@@ -6277,12 +6278,12 @@ Unabhängig davon, ob das neue OHG oder die StPO zuerst in Kraft tritt, wird mit
 
 Unabhängig davon, ob das neue OHG oder die StPO zuerst in Kraft tritt, werden mit Inkrafttreten des später in Kraft tretenden Gesetzes sowie bei gleichzeitigem Inkrafttreten die Artikel 84a, 104 Absatz 3 und 118 Absatz 2 von Ziffer 12 des Anhangs 1 der StPO wie folgt geändert:
 
-...
+…
 
 ### 4. Koordination von Art. 269 Abs. 2 Bst. a mit dem BB vom 18. Dezember 2015 über die Genehmigung und die Umsetzung des Internationalen Übereinkommens zum Schutz aller Personen vor dem Verschwindenlassen
 
 Unabhängig davon, ob zuerst die vorliegende Änderung der Strafprozessordnung oder die Änderung vom 18. Dezember 2015[^annex2-lvlu1-lvl4-1] in Kraft tritt, lautet mit Inkrafttreten des später in Kraft tretenden Gesetzes sowie bei gleichzeitigem Inkrafttreten die nachfolgende Bestimmung wie folgt:
 
-...
+…
 
 [^annex2-lvlu1-lvl4-1]: [AS 2016 4687](https://fedlex.data.admin.ch/eli/oc/2016/756)

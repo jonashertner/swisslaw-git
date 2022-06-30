@@ -4,11 +4,11 @@ title: "Swiss Criminal Procedure Code of 5 October 2007 (Criminal Procedure Code
 short: CrimPC
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/267"
 language: en
-version: 2021-07-01
+version: 2022-07-01
 adopted: 2007-10-05
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20210701/en/xml/fedlex-data-admin-ch-eli-cc-2010-267-20210701-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20210701/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20220701/en/xml/fedlex-data-admin-ch-eli-cc-2010-267-20220701-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20220701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Criminal Procedure Code, CrimPC)
 
-of 5 October 2007 (Status as of 1 July 2021)
+of 5 October 2007 (Status as of 1 July 2022)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -3874,43 +3874,42 @@ The public prosecutor may order an undercover investigation if:
 
 An undercover investigation is permitted in respect of offences under the following Articles:
 
-- a.[^286-1] SCC[^286-2]: Articles 111–113, 122, 124, 129, 135, 138–140, 143 paragraph 1, 144 paragraph 3, 144<sup>bis</sup> number 1 paragraph 2 and number 2 paragraph 2, 146 paragraphs 1 and 2, 147 paragraphs 1 and 2, 148, 156, 160, 182–185, 187, 188 number 1, 189 paragraphs 1 and 3, 190 paragraphs 1 and 3, 191, 192 paragraph 1, 195, 196, 197 paragraphs 3–5, 221 paragraphs 1 and 2, 223 number 1, 224 paragraph 1, 227 number 1 paragraph 1, 228 number 1 paragraph 1, 230<sup>bis</sup>, 231 number 1, 232 number 1, 233 number 1, 234 paragraph 1, 237 number 1, 238 paragraph 1, 240 paragraph 1, 242, 244 paragraph 2, 251 number 1, 260<sup>bis</sup>–260<sup>sexies</sup>, 264–267, 271, 272 number 2, 273, 274 number 1 paragraph 2, 301, 305<sup>bis</sup> number 2, 310, 322<sup>ter</sup>, 322<sup>quater</sup>, 322<sup>septies</sup>;
-- b.[^286-3] Foreign Nationals and Integration Act of 16. December 2005[^286-4]: Articles 116 paragraph 3 and 118 paragraph 3;
-- c. Federal Act of 22. June 2001[^286-5] on the Hague Convention on Adoption and on Measures to Protect Children in International Adoption Cases: Article 24;
-- d.[^286-6] War Material Act of 13 December 1996[^286-7]: Articles 33 paragraph 2 and 34–35*b*;
-- e. Nuclear Energy Act of 21 March 2003[^286-8]: Articles 88 paragraphs 1 and 2, 89 paragraphs 1 and 2 and 90 paragraph 1;
-- f.[^286-9] Narcotics Act of 3 October 1951[^286-10]: Articles 19 number 1 second sentence and number 2, and 20 number 1 second sentence;
-- g. Goods Control Act of 13 December 1996[^286-11]: Article 14 paragraph 2;
-- h.[^286-12] Sport Promotion Act of 17 June 2011[^286-13]: Articles 22 paragraph 2 and 25*a* paragraph 3;
-- i.[^286-14] Weapons Act of 20 June 1997[^286-15]: Article 33 paragraph 3;
-- j.[^286-16] Medicinal Products Act of 15 December 2000[^286-17]: Article 86 paragraphs 2 and 3;
-- k.[^286-18] Gambling Act of 29 September 2017[^286-19]: Article 130 paragraph 2 for the offences under Article 130 paragraph 1 letter a;
-- l.[^286-20] Intelligence Service Act of 25 September 2015[^286-21]: Article 74 paragraph 4.
+- a.[^286-1] SCC: Articles 111–113, 122, 124, 129, 135, 138–140, 143 paragraph 1, 144 paragraph 3, 144<sup>bis</sup> number 1 paragraph 2 and number 2 paragraph 2, 146 paragraphs 1 and 2, 147 paragraphs 1 and 2, 148, 156, 160, 182–185, 187, 188 number 1, 189 paragraphs 1 and 3, 190 paragraphs 1 and 3, 191, 192 paragraph 1, 195, 196, 197 paragraphs 3–5, 221 paragraphs 1 and 2, 223 number 1, 224 paragraph 1, 227 number 1 paragraph 1, 228 number 1 paragraph 1, 230<sup>bis</sup>, 231 number 1, 232 number 1, 233 number 1, 234 paragraph 1, 237 number 1, 238 paragraph 1, 240 paragraph 1, 242, 244 paragraph 2, 251 number 1, 260<sup>bis</sup>–260<sup>sexies</sup>, 264–267, 271, 272 number 2, 273, 274 number 1 paragraph 2, 301, 305<sup>bis</sup> number 2, 310, 322<sup>ter</sup>, 322<sup>quater</sup>, 322<sup>septies</sup>;
+- b.[^286-2] Foreign Nationals and Integration Act of 16. December 2005[^286-3]: Articles 116 paragraph 3 and 118 paragraph 3;
+- c. Federal Act of 22. June 2001[^286-4] on the Hague Convention on Adoption and on Measures to Protect Children in International Adoption Cases: Article 24;
+- d.[^286-5] War Material Act of 13 December 1996[^286-6]: Articles 33 paragraph 2 and 34–35*b*;
+- e. Nuclear Energy Act of 21 March 2003[^286-7]: Articles 88 paragraphs 1 and 2, 89 paragraphs 1 and 2 and 90 paragraph 1;
+- f.[^286-8] Narcotics Act of 3 October 1951[^286-9]: Articles 19 number 1 second sentence and number 2, and 20 number 1 second sentence;
+- g. Goods Control Act of 13 December 1996[^286-10]: Article 14 paragraph 2;
+- h.[^286-11] Sport Promotion Act of 17 June 2011[^286-12]: Articles 22 paragraph 2 and 25*a* paragraph 3;
+- i.[^286-13] Weapons Act of 20 June 1997[^286-14]: Article 33 paragraph 3;
+- j.[^286-15] Medicinal Products Act of 15 December 2000[^286-16]: Article 86 paragraphs 2 and 3;
+- k.[^286-17] Gambling Act of 29 September 2017[^286-18]: Article 130 paragraph 2 for the offences under Article 130 paragraph 1 letter a;
+- l.[^286-19] Intelligence Service Act of 25 September 2015[^286-20]: Article 74 paragraph 4.
 
-<sup>3</sup> If the adjudication an offence subject to military jurisdiction is assigned to the jurisdiction of the civil courts, an undercover investigation may also be ordered in respect of offences under Article 70 paragraph 2 of the Military Criminal Procedure Code of 23 March 1979[^286-22].
+<sup>3</sup> If the adjudication an offence subject to military jurisdiction is assigned to the jurisdiction of the civil courts, an undercover investigation may also be ordered in respect of offences under Article 70 paragraph 2 of the Military Criminal Procedure Code of 23 March 1979[^286-21].
 
 [^286-1]: Amended by Annex No II 3 of the FedD of 25 Sept. 2020 on the Approval and Implementation of the Council of Europe Convention on the Prevention of Terrorism and its Additional Protocol and the Strengthening of Criminal Justice Instruments for combating Terrorism and Organised Crime, in force since 1 July 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
-[^286-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^286-3]: Amended by Annex No II 7 of the Criminal Justice Authorities Act of 19 March 2010, in force since 1 Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
-[^286-4]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^286-5]: [SR 211.221.31](https://fedlex.data.admin.ch/eli/cc/2002/639)
-[^286-6]: Amended by No II of the FA of 16 March 2012, in force since 1 Feb. 2013 ([AS 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [BBl 2011 5905](https://fedlex.data.admin.ch/eli/fga/2011/879)).
-[^286-7]: [SR 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
-[^286-8]: [SR 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
-[^286-9]: Correction by the Federal Assembly Drafting Committee dated 19 Sept. 2014, published on 4 Oct. 2014 ([AS 2011 4487](https://fedlex.data.admin.ch/eli/oc/2011/619)).
-[^286-10]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
-[^286-11]: [SR 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
-[^286-12]: Inserted by Art. 34 No 2 of the Sport Promotion Act of 17 June 2012 ([AS 2012 3953](https://fedlex.data.admin.ch/eli/oc/2012/460); [BBl 2009 8189](https://fedlex.data.admin.ch/eli/fga/2009/1425)). Amended by Annex No II 2 of the Gambling Act of 29 Sept. 2017, in force since 1 Jan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
-[^286-13]: [SR 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
-[^286-14]: Inserted by Annex No II 1 of the FA of 18 March 2016 on the Surveillance of Postal and Telecommunications Traffic, in force since 1 March 2018 ([AS 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [BBl 2013 2683](https://fedlex.data.admin.ch/eli/fga/2013/512)).
-[^286-15]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
-[^286-16]: Inserted by Annex No 1 of the FD of 29 Sept. 2017 (Medicrime Convention), in force since 1 Jan. 2019 ([AS 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [BBl 2017 3135](https://fedlex.data.admin.ch/eli/fga/2017/649)).
-[^286-17]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^286-18]: Inserted by Annex No II 2 of the Gambling Act of 29 Sept. 2017, in force since 1 Jan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
-[^286-19]: [SR 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
-[^286-20]: Inserted by Annex No II 3 of the FedD of 25 Sept. 2020 on the Approval and Implementation of the Council of Europe Convention on the Prevention of Terrorism and its Additional Protocol and the Strengthening of Criminal Justice Instruments for combating Terrorism and Organised Crime, in force since 1 July 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
-[^286-21]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^286-22]: [SR 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
+[^286-2]: Amended by Annex No II 7 of the Criminal Justice Authorities Act of 19 March 2010, in force since 1 Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^286-3]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^286-4]: [SR 211.221.31](https://fedlex.data.admin.ch/eli/cc/2002/639)
+[^286-5]: Amended by No II of the FA of 16 March 2012, in force since 1 Feb. 2013 ([AS 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [BBl 2011 5905](https://fedlex.data.admin.ch/eli/fga/2011/879)).
+[^286-6]: [SR 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
+[^286-7]: [SR 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
+[^286-8]: Correction by the Federal Assembly Drafting Committee dated 19 Sept. 2014, published on 4 Oct. 2014 ([AS 2011 4487](https://fedlex.data.admin.ch/eli/oc/2011/619)).
+[^286-9]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^286-10]: [SR 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
+[^286-11]: Inserted by Art. 34 No 2 of the Sport Promotion Act of 17 June 2012 ([AS 2012 3953](https://fedlex.data.admin.ch/eli/oc/2012/460); [BBl 2009 8189](https://fedlex.data.admin.ch/eli/fga/2009/1425)). Amended by Annex No II 2 of the Gambling Act of 29 Sept. 2017, in force since 1 Jan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^286-12]: [SR 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
+[^286-13]: Inserted by Annex No II 1 of the FA of 18 March 2016 on the Surveillance of Postal and Telecommunications Traffic, in force since 1 March 2018 ([AS 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [BBl 2013 2683](https://fedlex.data.admin.ch/eli/fga/2013/512)).
+[^286-14]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^286-15]: Inserted by Annex No 1 of the FD of 29 Sept. 2017 (Medicrime Convention), in force since 1 Jan. 2019 ([AS 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [BBl 2017 3135](https://fedlex.data.admin.ch/eli/fga/2017/649)).
+[^286-16]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^286-17]: Inserted by Annex No II 2 of the Gambling Act of 29 Sept. 2017, in force since 1 Jan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^286-18]: [SR 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
+[^286-19]: Inserted by Annex No II 3 of the FedD of 25 Sept. 2020 on the Approval and Implementation of the Council of Europe Convention on the Prevention of Terrorism and its Additional Protocol and the Strengthening of Criminal Justice Instruments for combating Terrorism and Organised Crime, in force since 1 July 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^286-20]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^286-21]: [SR 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
 
 #### Art. 287
 
@@ -4854,7 +4853,7 @@ The summary penalty order contains:
 - c. a description of the act committed by the accused;
 - d. the offence constituted by the act;
 - e. the sanction;
-- f. notice of the revocation of a suspended sentence or of parole with a brief statement of the reasons;
+- f. notice of the revocation of a suspended sanction or of parole with a brief statement of the reasons;
 - g. the costs and damages due;
 - h. details of any seized property or assets that are to be released or forfeited;
 - i. reference to the possibility of rejecting the order and the consequences of failing to reject the order;
@@ -5676,7 +5675,7 @@ Any person who is adversely affected by a legally binding final judgment, a summ
 
 The review of a case due to a violation of the Convention of 4 November 1950[^410-1] for the Protection of Human Rights and Fundamental Freedoms (ECHR) may be requested if:
 
-- a. the European Court of Human Rights has held in a final judgment that the ECHR or its Protocols have been violated;
+- a.[^410-2] the European Court of Human Rights has held in a final judgment (Art. 44 ECHR) that the ECHR or its Protocols have been violated or the case has been concluded by means of a friendly settlement (Art. 39 ECHR);
 - b. the consequences the violation cannot be compensated for by the payment of damages; and
 - c. the review of a case is necessary in order to redress the violation.
 
@@ -5685,6 +5684,7 @@ The review of a case due to a violation of the Convention of 4 November 1950[^41
 <sup>4</sup> Is the review of a case is limited to civil claims, it shall be admissible only if the civil procedure law applicable at the place of jurisdiction would allow a review of a case.
 
 [^410-1]: [SR 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^410-2]: Amended by Annex No 3 of the FA of 1 Oct. 2021, in force since 1 July 2022 ([AS 2022 289](https://fedlex.data.admin.ch/eli/oc/2022/289); [BBl 2021 300](https://fedlex.data.admin.ch/eli/fga/2021/300), [889](https://fedlex.data.admin.ch/eli/fga/2021/889)).
 
 #### Art. 411
 
@@ -6248,8 +6248,8 @@ The federal acts below are amended as follows:
 
 …[^annex1-lvlu1-3]
 
-[^annex1-lvlu1-1]: [BS **3** 303; [AS 1971 777](https://fedlex.data.admin.ch/eli/oc/1971/777_777_777)No III 4, [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)Annex No 2, [1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)Art. 88 No 4, [1979 1170](https://fedlex.data.admin.ch/eli/oc/1979/1170_1170_1170), [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Annex No 15 [2465](https://fedlex.data.admin.ch/eli/oc/1992/2465_2465_2465)Annex No 2, [1993 1993](https://fedlex.data.admin.ch/eli/oc/1993/1993_1993_1993), [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Annex No 7, [2000 505](https://fedlex.data.admin.ch/eli/oc/2000/95)No I 3 [2719](https://fedlex.data.admin.ch/eli/oc/2000/453)No II 3 [2725](https://fedlex.data.admin.ch/eli/oc/2000/454)No II, [2001 118](https://fedlex.data.admin.ch/eli/oc/2001/22)No I 3 [3071](https://fedlex.data.admin.ch/eli/oc/2001/459)No II 1 [3096](https://fedlex.data.admin.ch/eli/oc/2001/467)Annex No 2 [3308](https://fedlex.data.admin.ch/eli/oc/2001/492), [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)Annex No 9, [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)No I 4, [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)Annex No 19, [2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)Annex No 10, [2007 6087](https://fedlex.data.admin.ch/eli/oc/2007/811), [2008 1607](https://fedlex.data.admin.ch/eli/oc/2008/232)Annex No 1 [4989](https://fedlex.data.admin.ch/eli/oc/2008/698)Annex 1 No 6 [5463](https://fedlex.data.admin.ch/eli/oc/2008/759)Annex No 3, [2009 6605](https://fedlex.data.admin.ch/eli/oc/2009/821)Annex No II 3]
-[^annex1-lvlu1-2]: [[AS 2004 1409](https://fedlex.data.admin.ch/eli/oc/2004/177), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Annex No 29, [2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758)Annex No II 6, [2006 5437](https://fedlex.data.admin.ch/eli/oc/2006/823)Art. 2 No 2. [AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)Annex 1 No I 2]
+[^annex1-lvlu1-1]: [BS **3** 303; [AS 1971 777](https://fedlex.data.admin.ch/eli/oc/1971/777_777_777)No III 4; [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)Annex No 2; [1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)Art. 88 No 4; [1979 1170](https://fedlex.data.admin.ch/eli/oc/1979/1170_1170_1170); [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Annex No 15, [2465](https://fedlex.data.admin.ch/eli/oc/1992/2465_2465_2465)Annex No 2; [1993 1993](https://fedlex.data.admin.ch/eli/oc/1993/1993_1993_1993); [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Annex No 7; [2000 505](https://fedlex.data.admin.ch/eli/oc/2000/95)No I 3, [2719](https://fedlex.data.admin.ch/eli/oc/2000/453)No II 3, [2725](https://fedlex.data.admin.ch/eli/oc/2000/454)No II; [2001 118](https://fedlex.data.admin.ch/eli/oc/2001/22)No I 3, [3071](https://fedlex.data.admin.ch/eli/oc/2001/459)No II 1, [3096](https://fedlex.data.admin.ch/eli/oc/2001/467)Annex No 2, [3308](https://fedlex.data.admin.ch/eli/oc/2001/492); [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)Annex No 9; [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)No I 4; [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)Annex No 19; [2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)Annex No 10; [2007 6087](https://fedlex.data.admin.ch/eli/oc/2007/811); [2008 1607](https://fedlex.data.admin.ch/eli/oc/2008/232)Annex No 1, [4989](https://fedlex.data.admin.ch/eli/oc/2008/698)Annex 1 No 6, [5463](https://fedlex.data.admin.ch/eli/oc/2008/759)Annex No 3; [2009 6605](https://fedlex.data.admin.ch/eli/oc/2009/821)Annex No II 3]
+[^annex1-lvlu1-2]: [[AS 2004 1409](https://fedlex.data.admin.ch/eli/oc/2004/177); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Annex No 29; [2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758)Annex No II 6; [2006 5437](https://fedlex.data.admin.ch/eli/oc/2006/823)Art. 2 No 2. [AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)Annex 1 No I 2]
 [^annex1-lvlu1-3]: The amendments may be consulted under [AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267).
 
 Annex 2
