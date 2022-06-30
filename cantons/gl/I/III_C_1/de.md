@@ -4,13 +4,12 @@ number: III C/1
 title: Einführungsgesetz zur Schweizerischen Zivilprozessordnung
 short: EG ZPO
 language: de
-version: 2018-07-01
-valid_until: 2022-06-30
-version_adopted: 2017-05-07
+version: 2022-07-01
+version_adopted: 2021-09-05
 adopted: 2010-05-02
 in_force: 2011-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/III-C.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/1950/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2283/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/1950/pdf_file"
 
 (EG ZPO)
 
-Vom 02.05.2010 (Stand 01.07.2018)
+Vom 02.05.2010 (Stand 01.07.2022)
 
 (Erlassen von der Landsgemeinde am 2. Mai 2010)
 
@@ -45,46 +44,33 @@ Vom 02.05.2010 (Stand 01.07.2018)
 
 #### Art. 3
 
-**Behörden**
-
-<sup>1</sup> Gerichtliche Befugnisse im Zivilprozess haben:
-
-- a. das Obergericht;
-- b. das Obergerichtspräsidium;
-- c. das Kantonsgericht;
-- d. das Kantonsgerichtspräsidium;
-- e. die Kantonale Schlichtungsbehörde;
-- f.–g. …
+**…**
 
 ## 2. Besondere Zuständigkeiten
 
 #### Art. 4
 
-**Familienrichter**
-
-<sup>1</sup> Gemeinsame Begehren auf Scheidung mit umfassender Einigung nach Artikel 285 ZPO beurteilt das Kantonsgerichtspräsidium oder ein Mitglied der Zivilkammern des Kantonsgerichts.
-
-<sup>2</sup> Das Kantonsgerichtspräsidium oder ein Mitglied der Zivilkammern des Kantonsgerichts führt die Anhörung gemäss Artikel 287 ZPO und bei einer Scheidungsklage die Einigungsverhandlung gemäss Artikel 291 ZPO durch.
+**…**
 
 #### Art. 5
 
 **Rechtshilfe in Zivilsachen**
 
-<sup>1</sup> Für die Gewährung von nationaler oder internationaler Rechtshilfe ist das Kantonsgerichtspräsidium zuständig (Art. 194 ff. ZPO und Art. 11 Bundesgesetz über das Internationale Privatrecht [IPRG]).
+<sup>1</sup> Für die Gewährung von nationaler oder internationaler Rechtshilfe ist das Kantonsgericht zuständig (Art. 194 ff. ZPO und Art. 11a Bundesgesetz über das Internationale Privatrecht [IPRG]).
 
-<sup>2</sup> Sehen Gesetze oder Staatsverträge zwingend eine obere Instanz vor, ist das Obergerichtspräsidium zuständig.
+<sup>2</sup> Sehen Gesetze oder Staatsverträge zwingend eine obere Instanz vor, ist das Obergericht zuständig.
 
 #### Art. 6
 
 **Schiedsgerichtsbarkeit**
 
-<sup>1</sup> In Schiedssachen leistet das Kantonsgerichtspräsidium Amtshilfe gemäss Artikel 183 Absatz 2, 184 Absatz 2 sowie 185 IPRG und ist einzige Instanz im Sinne von Artikel 356 Absatz 2 ZPO.
+<sup>1</sup> In Schiedssachen leistet das Kantonsgericht Amtshilfe gemäss Artikel 183 Absatz 2, Artikel 184 Absatz 2 sowie Artikel 185 IPRG und ist einzige Instanz im Sinne von Artikel 356 Absatz 2 ZPO.
 
 #### Art. 7
 
 **Freiwillige Gerichtsbarkeit**
 
-<sup>1</sup> Das Kantonsgerichtspräsidium entscheidet im summarischen Verfahren insbesondere über:
+<sup>1</sup> Das Kantonsgericht entscheidet im summarischen Verfahren insbesondere über:
 
 - 1\. Zivilgesetzbuch (ZGB)
   - a. Entgegennahme von mündlichen letztwilligen Verfügungen (Art. 507 ZGB);
@@ -94,6 +80,8 @@ Vom 02.05.2010 (Stand 01.07.2018)
   - e. Losbildung (Art. 611 ZGB);
   - f. Versteigerungs- oder Teilungsart vor Anhebung des Erbteilungsprozesses (Art. 612f. ZGB);
   - g. Beauftragung der Schätzungskommission mit der Feststellung des Anrechnungswertes von Grundstücken (Art. 618 ZGB);
+  - h. Aufsicht über den Willensvollstrecker (Art. 517 f. ZGB);
+  - i. Aufsicht über den Erbschaftsliquidator (Art. 595 ZGB);
 
 <sup>2</sup> Obligationenrecht (OR)
 
@@ -112,27 +100,9 @@ Vom 02.05.2010 (Stand 01.07.2018)
 
 ### 4.1. Allgemeines
 
-#### Art. 12
+#### Art. 12–14
 
-**Verfahrenssprache (Art. 129 ZPO)**
-
-<sup>1</sup> Die Verfahrenssprache ist Deutsch.
-
-#### Art. 13
-
-**Prozessleitung (Art. 124 ZPO)**
-
-<sup>1</sup> Das Präsidium der Schlichtungsbehörde oder des Gerichts leitet den Prozess.
-
-<sup>2</sup> Es fällt alle Vor-, Teil- und Endentscheide, in denen nicht in der Sache entschieden wird.
-
-<sup>3</sup> Es entscheidet insbesondere über den Kostenvorschuss (Art. 98 ZPO), die Leistung einer Sicherheit (Art. 99 ff. ZPO), die unentgeltliche Rechtspflege (Art. 117 ff. ZPO) und die vorsorgliche Beweisführung (Art. 158 ZPO).
-
-#### Art. 14
-
-**Mediation (Art. 218 Abs. 2 ZPO)**
-
-<sup>1</sup> Das Präsidium des Gerichts entscheidet über ein Gesuch um eine unentgeltliche Mediation in kindesrechtlichen Angelegenheiten gemäss Artikel 218 Absatz 2 ZPO. Ist beim Gericht noch kein Verfahren hängig, entscheidet das Kantonsgerichtspräsidium.
+**…**
 
 #### Art. 15
 
@@ -140,13 +110,15 @@ Vom 02.05.2010 (Stand 01.07.2018)
 
 <sup>1</sup> Im summarischen Verfahren nach Artikel 251 ZPO können sich die Parteien durch eine handlungsfähige natürliche Person ohne Zulassung zum Anwaltsberuf oder durch eine juristische Person vertreten lassen.
 
-<sup>2</sup> In miet-, pacht- und arbeitsrechtlichen Streitigkeiten können sich die Parteien im vereinfachten Verfahren durch eine Person mit Funktion in einem Fachverband vertreten lassen.
+<sup>2</sup> In Streitigkeiten über Miete und Pacht von Wohn- und Geschäftsräumen, aus landwirtschaftlicher Pacht und aus Arbeitsvertrag können sich die Parteien im vereinfachten Verfahren durch eine Person mit Funktion in einem Fachverband vertreten lassen.
+
+<sup>3</sup> In Streitigkeiten gemäss Absatz 2 können sich die Parteien im Verfahren nach Artikel 257 ZPO (Rechtsschutz in klaren Fällen) durch eine Person im Sinne von Artikel 68 Absatz 2 Buchstabe d ZPO vertreten lassen.
 
 ### 4.2. Amtlicher Befund
 
 #### Art. 16
 
-**Inhalt und Verfahren**
+**Inhalt**
 
 <sup>1</sup> Über den tatsächlichen Zustand einer Sache kann auf Verlangen ein amtlicher Befund aufgenommen werden, soweit dies ohne besondere Sachkenntnis möglich ist.
 
@@ -158,27 +130,31 @@ Vom 02.05.2010 (Stand 01.07.2018)
 
 **Zuständigkeit**
 
-<sup>1</sup> Für die Anordnung des amtlichen Befundes ist das Kantonsgerichtspräsidium zuständig.
+<sup>1</sup> Für die Anordnung des amtlichen Befundes ist das Kantonsgericht zuständig.
 
-<sup>2</sup> Die Aufnahme des amtlichen Befundes erfolgt durch eine vom Kantonsgerichtspräsidium beauftragte Person.
+<sup>2</sup> Die Aufnahme des amtlichen Befundes erfolgt durch eine vom Kantonsgericht beauftragte Person.
 
 #### Art. 18
 
-**Kosten**
+**Kosten und Verfahren**
 
 <sup>1</sup> Die Kosten des amtlichen Befundes trägt, wer diesen verlangt hat.
 
 <sup>2</sup> Es werden keine Parteientschädigungen zugesprochen.
 
+<sup>3</sup> Im Übrigen ist das summarische Verfahren gemäss Artikel 252 ZPO anwendbar.
+
 ### 4.3. Kosten
 
 #### Art. 19
 
-**Vollstreckung der Prozesskosten (Art. 111 ZPO)**
+**…**
 
-<sup>1</sup> Die Gerichtskasse vollstreckt alle von den Gerichten auferlegten Prozesskosten.
+#### Art. 19a
 
-<sup>2</sup> Die Schlichtungsbehörden vollstrecken die von ihnen auferlegten Prozesskosten selbst.
+**Nachzahlung (Art. 123 ZPO)**
+
+<sup>1</sup> Das Kantonsgericht entscheidet im summarischen Verfahren über die Nachzahlung von Prozesskosten im Sinne von Artikel 123 ZPO.
 
 #### Art. 20
 
@@ -186,7 +162,7 @@ Vom 02.05.2010 (Stand 01.07.2018)
 
 <sup>1</sup> Die Parteientschädigung bemisst sich nach dem notwendigen Zeitaufwand, dem Streit- oder Interessenwert und der Schwierigkeit des Falles.
 
-<sup>2</sup> Die Anwaltskommission kann einen Tarif über die Kosten der berufsmässigen Vertretung im Sinne von Artikel 95 Absatz 3 Buchstabe b ZPO erlassen. Dieser bedarf der Genehmigung des Landrates.
+<sup>2</sup> Das Obergericht erlässt einen Tarif über die Kosten der berufsmässigen Vertretung durch Anwältinnen und Anwälte im Sinne von Artikel 95 Absatz 3 Buchstabe b ZPO sowie die Entschädigung der unentgeltlichen Rechtsbeiständinnen und Rechtsbeistände im Sinne von Artikel 122 Absatz 1 Buchstabe a ZPO. Dieser bedarf der Genehmigung durch den Landrat.
 
 <sup>3</sup> Bei arbeitsrechtlichen Streitigkeiten bis zu einem Streitwert von 30'000 Franken sind die Parteikosten von den Parteien selber zu tragen. Vorbehalten bleiben Fälle mutwilliger Prozessführung.
 
