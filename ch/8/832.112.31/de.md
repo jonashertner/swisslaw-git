@@ -4,11 +4,11 @@ title: "Verordnung des EDI vom 29. September 1995 über Leistungen in der obliga
 short: KLV
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964"
 language: de
-version: 2022-04-01
+version: 2022-07-01
 adopted: 1995-09-29
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20220401/de/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20220401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20220401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20220701/de/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20220701-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20220701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20220401/de"
 
 (Krankenpflege-Leistungsverordnung, KLV)[^t-1]
 
-vom 29. September 1995 (Stand am 1. April 2022)
+vom 29. September 1995 (Stand am 1. Juli 2022)
 
 [^t-1]: Fassung gemäss Ziff. I der V des EDI vom 7. Okt. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3670](https://fedlex.data.admin.ch/eli/oc/2002/562)).
 
@@ -652,13 +652,26 @@ Die nach Artikel 50 KVV zugelassenen Logopäden und Logopädinnen und die nach A
 
 [^11a-1]: Fassung gemäss Ziff. I der V des EDI vom 23. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 440](https://fedlex.data.admin.ch/eli/oc/2021/440)).
 
-### 6. Abschnitt: …
+### 6. Abschnitt:**** Psychologische Psychotherapie
+
+[^tit1-chap2-sec6-1]
+
+[^tit1-chap2-sec6-1]: Eingefügt durch Ziff. I der V vom 19. März 2021 ([AS 2021 189](https://fedlex.data.admin.ch/eli/oc/2021/189)). Fassung gemäss Ziff. I der V des EDI vom 23. Juni 2021, in Kraft seit 1. Juli 2022 ([AS 2021 440](https://fedlex.data.admin.ch/eli/oc/2021/440)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
 
 #### Art. 11b
 
-[^11b-1]
+<sup>1</sup>
 
-[^11b-1]: Tritt am 1. Juli 2022 in Kraft ([AS 2021 189](https://fedlex.data.admin.ch/eli/oc/2021/189), [440](https://fedlex.data.admin.ch/eli/oc/2021/440)).
+Die Versicherung übernimmt die Kosten für Leistungen der psychologischen Psychotherapie und der damit in Beziehung stehenden Leistungen der Koordination, die von nach Artikel 50*c* KVV zugelassenen psychologischen Psychotherapeuten und psychologischen Psychotherapeutinnen oder von nach Artikel 52*e* KVV zugelassenen Organisationen der psychologischen Psychotherapie durchgeführt werden, wenn die Grundsätze nach Artikel 2 eingehalten und die Leistungen wie folgt erbracht werden:
+
+- a. auf Anordnung eines Arztes oder einer Ärztin mit einem eidgenössischen oder einem anerkannten ausländischen Weiterbildungstitel in Allgemeiner Innerer Medizin, in Psychiatrie und Psychotherapie, in Kinder- und Jugendpsychiatrie und -psychotherapie oder in Kinder- und Jugendmedizin oder eines Arztes oder einer Ärztin mit dem interdisziplinären Schwerpunkt Psychosomatische und psychosoziale Medizin der Schweizerischen Akademie für Psychosomatische und Psychosoziale Medizin;
+- b. bei Leistungen zur Krisenintervention oder Kurztherapien für Patienten und Patientinnen mit schweren Erkrankungen bei Neudiagnose oder bei einer lebensbedrohlichen Situation: auf Anordnung eines Arztes oder einer Ärztin mit einem Weiterbildungstitel nach Buchstabe a oder einem anderen Weiterbildungstitel.
+
+<sup>2</sup> Für Leistungen nach Absatz 1 Buchstabe a übernimmt die Versicherung pro ärztliche Anordnung die Kosten für höchstens 15 Abklärungs- und Therapiesitzungen. Der psychologische Psychotherapeut oder die psychologische Psychotherapeutin erstattet vor Ablauf der angeordneten Anzahl Sitzungen dem anordnenden Arzt oder der anordnenden Ärztin Bericht.
+
+<sup>3</sup> Soll die Psychotherapie für Leistungen nach Absatz 1 Buchstabe a nach 30 Sitzungen zulasten der Versicherung fortgesetzt werden, so ist das Verfahren nach Artikel 3*b* sinngemäss anwendbar. Der Bericht mit dem Vorschlag zur Fortsetzung erfolgt durch den anordnenden Arzt oder die anordnende Ärztin. Er enthält eine durch einen Facharzt oder eine Fachärztin mit einem Weiterbildungstitel in Psychiatrie und Psychotherapie oder in Kinder- und Jugendpsychiatrie und -psychotherapie erbrachte Fallbeurteilung.
+
+<sup>4</sup> Für Leistungen nach Absatz 1 Buchstabe b übernimmt die Versicherung höchstens 10 Abklärungs- und Therapiesitzungen.
 
 ### 7. Abschnitt:**** Podologie
 
@@ -753,7 +766,7 @@ Die Versicherung übernimmt die Kosten für folgende prophylaktische Impfungen u
 [^12a-5]: Aufgehoben durch Ziff. I der V des EDI vom 8. Juni 2021, mit Wirkung seit 1. Juli 2021 ([AS 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)).
 [^12a-6]: Fassung gemäss Ziff. I der V des EDI vom 1. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)).
 [^12a-7]: Das Dokument ist einsehbar unter: www.bag.admin.ch/ref.
-[^12a-8]: Eingefügt durch Ziff. I der V des EDI vom 30. Nov. 2020 ([AS 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)). Fassung gemäss Ziff. I der V des EDI vom 3. Nov. 2021, in Kraft vom 4. Nov. 2021 bis zum 30. Juni 2022 ([AS 2021 649](https://fedlex.data.admin.ch/eli/oc/2021/649)).
+[^12a-8]: Eingefügt durch Ziff. I der V des EDI vom 30. Nov. 2020 ([AS 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)). Fassung gemäss Ziff. I der V des EDI vom 2. Juni 2022, in Kraft seit 1. Juli 2022, Ziff. 2 in Kraft bis zum 31. Dez. 2022 ([AS 2022 369](https://fedlex.data.admin.ch/eli/oc/2022/369)).
 [^12a-9]: Eingefügt durch Ziff. I der V des EDI vom 1. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)).
 [^12a-10]: Das Dokument ist einsehbar unter: www.bag.admin.ch/ref.
 
@@ -772,6 +785,8 @@ Die Versicherung übernimmt die Kosten für folgende Massnahmen zur Prophylaxe v
 <tr><td>d.[^12b-4] Postexpositionelle passive Immunisierung</td><td>Gemäss den Empfehlungen des BAG und der Schweizerischen Kommission für Impffragen (Richtlinien und Empfehlungen «Postexpositionelle passive Immunisierung» vom Oktober 2004)[^12b-5]. Bei beruflicher Indikation erfolgt keine Kostenübernahme durch die Versicherung.</td></tr>
 <tr><td>e.[^12b-6] Prophylaktische Mastektomie und / oder Adnexektomie</td><td>Bei Trägerinnen von Mutationen oder Deletionen im BRCA1- oder BRCA2-Gen</td></tr>
 <tr><td>f.[^12b-7] Passive Impfung mit Hepatitis B-Immunglobulin</td><td>Bei Neugeborenen HBs-Ag-positiver Mütter.</td></tr>
+<tr><td>g.[^12b-8] monoklonaler Antikörper zur RSV-Prophylaxe</td><td>Indikationsstellung gemäss den Empfehlungen «Konsensus Statement zur Prävention von Respiratory Syncytial Virus (RSV)-Infektionen mit dem humanisierten monoklonalen Antikörper Palivizumab (Synagis®) (Update 2016)»[^12b-9] der interdisziplinären Arbeitsgruppe aus Mitgliedern der Pädiatrischen Infektiologie-Gruppe der Schweiz (PIGS), der Schweizerischen Gesellschaft für Pädiatrische Pneumologie (SGPP), der Schweizerischen Gesellschaft für Kinderkardiologie (SGK) und der Schweizerischen Gesellschaft für Neonatologie (SGN).</td></tr>
+<tr><td>h.[^12b-10] Passive Immunisierung mit Covid-19-Antikörper</td><td>Bei immundefizienten Personen mit höchster Priorität für die passive Immunisierungstherapie gemäss «Position paper on the use of monoclonal antibodies against SARS-CoV-2 as passive immunisation treatments in severely immunocompromised persons in Switzerland», Version vom 26. April 2022[^12b-11], sowie bei Personen mit Sichelzellanämie. Die Kosten werden nur für Antikörperpräparate übernommen, die für die betreffenden Indikationen über die nötige Zulassung verfügen.</td></tr>
 </table>
 
 [^12b-1]: Eingefügt durch Ziff. I der V des EDI vom 21. Nov. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6839](https://fedlex.data.admin.ch/eli/oc/2007/882)).
@@ -781,6 +796,10 @@ Die Versicherung übernimmt die Kosten für folgende Massnahmen zur Prophylaxe v
 [^12b-5]: Das Dokument ist einsehbar unter: www.bag.admin.ch/ref
 [^12b-6]: Eingefügt durch Ziff. I der V des EDI vom 5. Dez. 2011 ([AS 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)). Fassung gemäss Ziff. I der V des EDI vom 12. Juni 2012, in Kraft seit 1. Juli 2012 ([AS 2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400)).
 [^12b-7]: Eingefügt durch Ziff. I der V des EDI vom 8. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)).
+[^12b-8]: Eingefügt durch Ziff. I der V des EDI vom 2. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 369](https://fedlex.data.admin.ch/eli/oc/2022/369)).
+[^12b-9]: Das Dokument ist einsehbar unter: www.bag.admin.ch/ref.
+[^12b-10]: Eingefügt durch Ziff. I der V des EDI vom 2. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 369](https://fedlex.data.admin.ch/eli/oc/2022/369)).
+[^12b-11]: Das Dokument ist einsehbar unter: www.bag.admin.ch/ref.
 
 #### Art. 12c
 
@@ -1335,7 +1354,7 @@ Ein Arzneimittel wird in die Spezialitätenliste aufgenommen, wenn:[^30-1]
 Ein Gesuch um Aufnahme in die Spezialitätenliste hat insbesondere zu enthalten:
 
 - a.[^30a-2] für Gesuche nach Artikel 31 Absatz 1 Buchstaben a und c: die Voranzeige der Swissmedic mit deren Mitteilung über die beabsichtigte Zulassung und der Angabe der zuzulassenden Indikationen und Dosierungen, sowie, falls diese vorliegen, die Zulassungsverfügung und die Zulassungsbescheinigung von Swissmedic sowie die definitive Fachinformation;
-- a<sup>bis</sup>.[^30a-3] für Gesuche nach Artikel 31 Absatz 2: die Zulassungsverfügung und die Zulassungsbescheinigung von Swissmedic sowie die definitive Fachinformation;
+- a<sup>bis</sup>.[^30a-3] für Gesuche nach Artikel 31 Absatz 2: die Zulassungsverfügung von Swissmedic, die definitive Fachinformation sowie rechtzeitig vor Anpassung der Spezialitätenliste nachgereicht die Zulassungsbescheinigung von Swissmedic;
 - b. die der Swissmedic eingereichte Fachinformation;
 - b<sup>bis</sup>.[^30a-4] bei Originalpräparaten mit Patentschutz: die Nummern der Patente und der ergänzenden Schutzzertifikate sowie deren Ablaufdaten;
 - c.[^30a-5] falls das Arzneimittel im Ausland bereits zugelassen ist: die genehmigten Indikationen im Ausland;
@@ -1348,7 +1367,7 @@ Ein Gesuch um Aufnahme in die Spezialitätenliste hat insbesondere zu enthalten:
 
 [^30a-1]: Eingefügt durch Ziff. I der V vom 2. Juli 2002, in Kraft seit 1. Juli 2002 ([AS 2002 3013](https://fedlex.data.admin.ch/eli/oc/2002/436)). Siehe auch die UeB Änd. 21.3.2012 am Schluss dieses Textes.
 [^30a-2]: Fassung gemäss Ziff. I der V des EDI vom 1. Febr. 2017, in Kraft seit 1. März 2017 ([AS 2017 633](https://fedlex.data.admin.ch/eli/oc/2017/108)).
-[^30a-3]: Eingefügt durch Ziff. I der V des EDI vom 1. Febr. 2017, in Kraft seit 1. März 2017 ([AS 2017 633](https://fedlex.data.admin.ch/eli/oc/2017/108)).
+[^30a-3]: Eingefügt durch Ziff. I der V des EDI vom 1. Febr. 2017 ([AS 2017 633](https://fedlex.data.admin.ch/eli/oc/2017/108)). Fassung gemäss Ziff. I der V des EDI vom 2. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 369](https://fedlex.data.admin.ch/eli/oc/2022/369)).
 [^30a-4]: Eingefügt durch Ziff. I der V des EDI vom 26. April 2006, in Kraft seit 10. Mai 2006 ([AS 2006 1757](https://fedlex.data.admin.ch/eli/oc/2006/271)).
 [^30a-5]: Fassung gemäss Ziff. I der V des EDI vom 1. Febr. 2017, in Kraft seit 1. März 2017 ([AS 2017 633](https://fedlex.data.admin.ch/eli/oc/2017/108)).
 [^30a-6]: Fassung gemäss Ziff. I der V des EDI vom 1. Febr. 2017, in Kraft seit 1. März 2017 ([AS 2017 633](https://fedlex.data.admin.ch/eli/oc/2017/108)).
@@ -2056,11 +2075,19 @@ Die Versicherer setzen die in Artikel 38*a* vorgesehene Selbstbehaltsregelung bi
 
 [^u12-2]: Eingefügt durch Ziff. I der V des EDI vom 7. Febr. 2020, in Kraft seit 1. Juli 2020 ([AS 2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99)).
 
-## Übergangsbestimmung zur Änderung vom 23. Juni 2021****
+## Übergangsbestimmung zur Änderung vom 19. März 2021****
 
 [^u13-1]
 
-[^u13-1]: Tritt am 1. Juli 2022 in Kraft ([AS 2021 440](https://fedlex.data.admin.ch/eli/oc/2021/440)).
+[^u13-1]: [AS 2021 189](https://fedlex.data.admin.ch/eli/oc/2021/189). Aufgehoben durch Ziff. I der V des EDI vom 23. Juni 2021, mit Wirkung seit 1. Juli 2022 ([AS 2021 440](https://fedlex.data.admin.ch/eli/oc/2021/440)).
+
+## Übergangsbestimmung zur Änderung vom 23. Juni 2021****
+
+[^u14-1]
+
+[^u14-1]: [AS 2021 440](https://fedlex.data.admin.ch/eli/oc/2021/440)
+
+Die Versicherung übernimmt die Kosten für Leistungen der delegierten Psychotherapie längstens bis 6 Monate nach Inkrafttreten der Änderung vom 23. Juni 2021.
 
 Anhang 1*[^t-2]*
 
@@ -2070,7 +2097,7 @@ Anhang 1*[^t-2]*
 
 [^annex1-lvlu1-1]
 
-[^t-2]: Fassung gemäss Ziff. II der V des EDI vom 7. Febr. 2020 ([AS 2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99)). Bereinigt gemäss Ziff. II Abs. 1 der V des EDI vom 27. Mai 2020 ([AS 2020 2539](https://fedlex.data.admin.ch/eli/oc/2020/464)), vom 30. Nov. 2020 ([AS 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)), vom 8. Juni 2021 ([AS 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)) und vom 1. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)).
+[^t-2]: Fassung gemäss Ziff. II der V des EDI vom 7. Febr. 2020 ([AS 2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99)). Bereinigt gemäss Ziff. II Abs. 1 der V des EDI vom 27. Mai 2020 ([AS 2020 2539](https://fedlex.data.admin.ch/eli/oc/2020/464)), vom 30. Nov. 2020 ([AS 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)), vom 8. Juni 2021 ([AS 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)), vom 1. Dez. 2021 ([AS 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)) und vom 2. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 369](https://fedlex.data.admin.ch/eli/oc/2022/369)).
 [^annex1-lvlu1-1]: Der Anhang wird nicht in der AS nicht veröffentlicht. Er kann eingesehen werden unter www.bag.admin.ch &gt; Versicherungen &gt; Krankenversicherung &gt; Leistungen und Tarife &gt; ärztliche Leistungen &gt; Anhang 1 der KLV.
 
 Anhang 1a*[^t-3]*
@@ -2092,7 +2119,7 @@ Anhang 2*[^t-4]*
 
 [^annex2-lvlu1-1]
 
-[^t-4]: Bereinigt gemäss Ziff. II Abs. 2 der V des EDI vom 5. Juni 2009 ([AS 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370), vom 27. Okt. 2009 ([AS 2009 6083](https://fedlex.data.admin.ch/eli/oc/2009/744)), vom 14. Juni 2010 ([AS 2010 2755](https://fedlex.data.admin.ch/eli/oc/2010/359)), vom 2. Dez. 2010 ([AS 2010 5837](https://fedlex.data.admin.ch/eli/oc/2010/831)), vom 31. Mai 2011 ([AS 2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370)), vom 5. Dez. 2011 ([AS 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)), vom 12. Juni 2012 ([AS 2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400)), vom 15. Nov. 2012 ([AS 2012 6587](https://fedlex.data.admin.ch/eli/oc/2012/795)), vom 10. Juni 2013 ([AS 2013 1925](https://fedlex.data.admin.ch/eli/oc/2013/414)), vom 6. Dez. 2013 ([AS 2013 5329](https://fedlex.data.admin.ch/eli/oc/2013/850)), vom 16. Mai 2014 ([AS 2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269)), vom 20. Nov. 2014 ([AS 2014 4393](https://fedlex.data.admin.ch/eli/oc/2014/724)), vom 17. Juni 2015 ([AS 2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406)), vom 27. Nov. 2015 ([AS 2015 5125](https://fedlex.data.admin.ch/eli/oc/2015/837)), vom 20. Juni 2016 ([AS 2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396)), vom 25. Nov. 2016 ([AS 2016 4639](https://fedlex.data.admin.ch/eli/oc/2016/750)), vom 2. Juni 2017 ([AS 2017 3487](https://fedlex.data.admin.ch/eli/oc/2017/379)), vom 28. Nov. 2017 ([AS 2017 7151](https://fedlex.data.admin.ch/eli/oc/2017/773)), vom 7. Juni 2018 ([AS 2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339)), Ziff. I der V des EDI vom 7. Juni 2018 ([AS 2018 2375](https://fedlex.data.admin.ch/eli/oc/2018/340)), Ziff. II Abs. 3 der V des EDI vom 30. Nov. 2018 ([AS 2018 5085](https://fedlex.data.admin.ch/eli/oc/2018/793)), Ziff. II Abs. 2 der V des EDI vom 16. Jan. 2019 ([AS 2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78)), vom 6. Juni 2019 ([AS 2019 1931](https://fedlex.data.admin.ch/eli/oc/2019/355)), vom 6. Dez. 2019 ([AS 2019 4387](https://fedlex.data.admin.ch/eli/oc/2019/756)), vom 7. Febr. 2020 ([AS 2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98)), vom 27. Mai 2020 ([AS 2020 2539](https://fedlex.data.admin.ch/eli/oc/2020/464)), Ziff. II Abs. 3 der V des EDI vom 30. Nov. 2020 ([AS 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)), Ziff. I der V des EDI vom 30. Nov. 2020 ([AS 2020 6337](https://fedlex.data.admin.ch/eli/oc/2020/1034)), Ziff. II Abs. 2 der V des EDI vom 8. Juni 2021 ([AS 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)), Ziff. I der V des EDI vom 8. Juni 2021 ([AS 2021 393](https://fedlex.data.admin.ch/eli/oc/2021/393), [394](https://fedlex.data.admin.ch/eli/oc/2021/394), [395](https://fedlex.data.admin.ch/eli/oc/2021/395)), Ziff. II Abs. 3 der V des EDI vom 1. Dez. 2021 ([AS 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)) und Ziff. I der V des EDI vom 1. Dez. 2021, in Kraft seit 1. April 2022 ([AS 2021 887](https://fedlex.data.admin.ch/eli/oc/2021/887))
+[^t-4]: Bereinigt gemäss Ziff. II Abs. 2 der V des EDI vom 5. Juni 2009 ([AS 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370), vom 27. Okt. 2009 ([AS 2009 6083](https://fedlex.data.admin.ch/eli/oc/2009/744)), vom 14. Juni 2010 ([AS 2010 2755](https://fedlex.data.admin.ch/eli/oc/2010/359)), vom 2. Dez. 2010 ([AS 2010 5837](https://fedlex.data.admin.ch/eli/oc/2010/831)), vom 31. Mai 2011 ([AS 2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370)), vom 5. Dez. 2011 ([AS 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)), vom 12. Juni 2012 ([AS 2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400)), vom 15. Nov. 2012 ([AS 2012 6587](https://fedlex.data.admin.ch/eli/oc/2012/795)), vom 10. Juni 2013 ([AS 2013 1925](https://fedlex.data.admin.ch/eli/oc/2013/414)), vom 6. Dez. 2013 ([AS 2013 5329](https://fedlex.data.admin.ch/eli/oc/2013/850)), vom 16. Mai 2014 ([AS 2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269)), vom 20. Nov. 2014 ([AS 2014 4393](https://fedlex.data.admin.ch/eli/oc/2014/724)), vom 17. Juni 2015 ([AS 2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406)), vom 27. Nov. 2015 ([AS 2015 5125](https://fedlex.data.admin.ch/eli/oc/2015/837)), vom 20. Juni 2016 ([AS 2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396)), vom 25. Nov. 2016 ([AS 2016 4639](https://fedlex.data.admin.ch/eli/oc/2016/750)), vom 2. Juni 2017 ([AS 2017 3487](https://fedlex.data.admin.ch/eli/oc/2017/379)), vom 28. Nov. 2017 ([AS 2017 7151](https://fedlex.data.admin.ch/eli/oc/2017/773)), vom 7. Juni 2018 ([AS 2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339)), Ziff. I der V des EDI vom 7. Juni 2018 ([AS 2018 2375](https://fedlex.data.admin.ch/eli/oc/2018/340)), Ziff. II Abs. 3 der V des EDI vom 30. Nov. 2018 ([AS 2018 5085](https://fedlex.data.admin.ch/eli/oc/2018/793)), Ziff. II Abs. 2 der V des EDI vom 16. Jan. 2019 ([AS 2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78)), vom 6. Juni 2019 ([AS 2019 1931](https://fedlex.data.admin.ch/eli/oc/2019/355)), vom 6. Dez. 2019 ([AS 2019 4387](https://fedlex.data.admin.ch/eli/oc/2019/756)), vom 7. Febr. 2020 ([AS 2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98)), vom 27. Mai 2020 ([AS 2020 2539](https://fedlex.data.admin.ch/eli/oc/2020/464)), Ziff. II Abs. 3 der V des EDI vom 30. Nov. 2020 ([AS 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)), Ziff. I der V des EDI vom 30. Nov. 2020 ([AS 2020 6337](https://fedlex.data.admin.ch/eli/oc/2020/1034)), Ziff. II Abs. 2 der V des EDI vom 8. Juni 2021 ([AS 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)), Ziff. I der V des EDI vom 8. Juni 2021 ([AS 2021 393](https://fedlex.data.admin.ch/eli/oc/2021/393), [394](https://fedlex.data.admin.ch/eli/oc/2021/394), [395](https://fedlex.data.admin.ch/eli/oc/2021/395)), Ziff. II Abs. 3 der V des EDI vom 1. Dez. 2021 ([AS 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)), Ziff. I der V des EDI vom 1. Dez. 2021 ([AS 2021 887](https://fedlex.data.admin.ch/eli/oc/2021/887)) und Ziff. II Abs. 2 der V des EDI vom 2. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 369](https://fedlex.data.admin.ch/eli/oc/2022/369)).
 [^annex2-lvlu1-1]: In der AS nicht veröffentlicht. Die Liste kann eingesehen werden unter www.bag.admin.ch &gt; Versicherungen &gt; Krankenversicherung &gt; Leistungen und Tarife &gt; Mittel- und Gegenständeliste (MiGeL).
 
 Anhang 3*[^t-5]*
@@ -2103,7 +2130,7 @@ Anhang 3*[^t-5]*
 
 [^annex3-lvlu1-1]
 
-[^t-5]: Bereinigt gemäss Ziff. I der V des EDI vom 28. Jan. 2009 ([AS 2009 1669](https://fedlex.data.admin.ch/eli/oc/2009/246)), vom 26. Juni 2009 ([AS 2009 3173](https://fedlex.data.admin.ch/eli/oc/2009/401)), Ziff. II Abs. 3 der V des EDI vom 27. Okt. 2009 ([AS 2009 6083](https://fedlex.data.admin.ch/eli/oc/2009/744)), vom 14. Juni 2010 ([AS 2010 2755](https://fedlex.data.admin.ch/eli/oc/2010/359)), vom 2. Dez. 2010 ([AS 2010 5837](https://fedlex.data.admin.ch/eli/oc/2010/831)), vom 31. Mai 2011 ([AS 2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370)), vom 5. Dez. 2011 ([AS 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)), vom 12. Juni 2012 ([AS 2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400)), Ziff. I der V des EDI vom 13. Aug. 2012 ([AS 2012 4347](https://fedlex.data.admin.ch/eli/oc/2012/511)), Ziff. II Abs. 3 der V des EDI vom 15. Nov. 2012 ([AS 2012 6587](https://fedlex.data.admin.ch/eli/oc/2012/795)), vom 10. Juni 2013 ([AS 2013 1925](https://fedlex.data.admin.ch/eli/oc/2013/414)), vom 6. Dez. 2013 ([AS 2013 5329](https://fedlex.data.admin.ch/eli/oc/2013/850)), vom 16. Mai 2014 ([AS 2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269)), Ziff. I der V des EDI vom 21. Okt. 2014 ([AS 2014 3487](https://fedlex.data.admin.ch/eli/oc/2014/607)), Ziff. II Abs. 3 der V des EDI vom 20. Nov. 2014 ([AS 2014 4393](https://fedlex.data.admin.ch/eli/oc/2014/724)), vom 17. Juni 2015 ([AS 2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406)), vom 27. Nov. 2015 ([AS 2015 5125](https://fedlex.data.admin.ch/eli/oc/2015/837)), vom 20. Juni 2016 ([AS 2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396)), vom 25. Nov. 2016 ([AS 2016 4639](https://fedlex.data.admin.ch/eli/oc/2016/750)), vom 2. Juni 2017 ([AS 2017 3487](https://fedlex.data.admin.ch/eli/oc/2017/379)), vom 28. Nov. 2017 ([AS 2017 7151](https://fedlex.data.admin.ch/eli/oc/2017/773)), vom 7. Juni 2018 ([AS 2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339)), Ziff. II Abs. 4 der V des EDI vom 30. Nov. 2018 ([AS 2018 5085](https://fedlex.data.admin.ch/eli/oc/2018/793)), Ziff. II Abs. 3 der V des EDI vom 16. Jan. 2019 ([AS 2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78)), vom 6. Juni 2019 ([AS 2019 1931](https://fedlex.data.admin.ch/eli/oc/2019/355)), vom 7. Febr. 2020 ([AS 2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98)), Ziff. I der V des EDI vom 28. Febr. 2020 ([AS 2020 629](https://fedlex.data.admin.ch/eli/oc/2020/121)), vom 27. April 2020 ([AS 2020 1409](https://fedlex.data.admin.ch/eli/oc/2020/277)), Ziff. II Abs. 3 der V des EDI vom 27. Mai 2020 ([AS 2020 2539](https://fedlex.data.admin.ch/eli/oc/2020/464)), Ziff. I der V des EDI vom 25. Sept. 2020 ([AS 2020 4139](https://fedlex.data.admin.ch/eli/oc/2020/755)), Ziff. II Abs. 4 der V des EDI vom 30. Nov. 2020 ([AS 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)), Ziff. I der V des EDI vom 5. Jan. 2021 ([AS 2021 44](https://fedlex.data.admin.ch/eli/oc/2021/44)), vom 26. Febr. 2021 ([AS 2021 148](https://fedlex.data.admin.ch/eli/oc/2021/148)), Ziff. II Abs. 3 der V des EDI vom 8. Juni 2021 ([AS 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)), Ziff. II Abs. 4 der V des EDI vom 1. Dez. 2021 ([AS 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)) und Ziff. I der V des EDI vom 1. Dez. 2021, in Kraft seit 1. Febr. 2022 ([AS 2021 886](https://fedlex.data.admin.ch/eli/oc/2021/886)).
+[^t-5]: Bereinigt gemäss Ziff. I der V des EDI vom 28. Jan. 2009 ([AS 2009 1669](https://fedlex.data.admin.ch/eli/oc/2009/246)), vom 26. Juni 2009 ([AS 2009 3173](https://fedlex.data.admin.ch/eli/oc/2009/401)), Ziff. II Abs. 3 der V des EDI vom 27. Okt. 2009 ([AS 2009 6083](https://fedlex.data.admin.ch/eli/oc/2009/744)), vom 14. Juni 2010 ([AS 2010 2755](https://fedlex.data.admin.ch/eli/oc/2010/359)), vom 2. Dez. 2010 ([AS 2010 5837](https://fedlex.data.admin.ch/eli/oc/2010/831)), vom 31. Mai 2011 ([AS 2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370)), vom 5. Dez. 2011 ([AS 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)), vom 12. Juni 2012 ([AS 2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400)), Ziff. I der V des EDI vom 13. Aug. 2012 ([AS 2012 4347](https://fedlex.data.admin.ch/eli/oc/2012/511)), Ziff. II Abs. 3 der V des EDI vom 15. Nov. 2012 ([AS 2012 6587](https://fedlex.data.admin.ch/eli/oc/2012/795)), vom 10. Juni 2013 ([AS 2013 1925](https://fedlex.data.admin.ch/eli/oc/2013/414)), vom 6. Dez. 2013 ([AS 2013 5329](https://fedlex.data.admin.ch/eli/oc/2013/850)), vom 16. Mai 2014 ([AS 2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269)), Ziff. I der V des EDI vom 21. Okt. 2014 ([AS 2014 3487](https://fedlex.data.admin.ch/eli/oc/2014/607)), Ziff. II Abs. 3 der V des EDI vom 20. Nov. 2014 ([AS 2014 4393](https://fedlex.data.admin.ch/eli/oc/2014/724)), vom 17. Juni 2015 ([AS 2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406)), vom 27. Nov. 2015 ([AS 2015 5125](https://fedlex.data.admin.ch/eli/oc/2015/837)), vom 20. Juni 2016 ([AS 2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396)), vom 25. Nov. 2016 ([AS 2016 4639](https://fedlex.data.admin.ch/eli/oc/2016/750)), vom 2. Juni 2017 ([AS 2017 3487](https://fedlex.data.admin.ch/eli/oc/2017/379)), vom 28. Nov. 2017 ([AS 2017 7151](https://fedlex.data.admin.ch/eli/oc/2017/773)), vom 7. Juni 2018 ([AS 2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339)), Ziff. II Abs. 4 der V des EDI vom 30. Nov. 2018 ([AS 2018 5085](https://fedlex.data.admin.ch/eli/oc/2018/793)), Ziff. II Abs. 3 der V des EDI vom 16. Jan. 2019 ([AS 2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78)), vom 6. Juni 2019 ([AS 2019 1931](https://fedlex.data.admin.ch/eli/oc/2019/355)), vom 7. Febr. 2020 ([AS 2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98)), Ziff. I der V des EDI vom 28. Febr. 2020 ([AS 2020 629](https://fedlex.data.admin.ch/eli/oc/2020/121)), vom 27. April 2020 ([AS 2020 1409](https://fedlex.data.admin.ch/eli/oc/2020/277)), Ziff. II Abs. 3 der V des EDI vom 27. Mai 2020 ([AS 2020 2539](https://fedlex.data.admin.ch/eli/oc/2020/464)), Ziff. I der V des EDI vom 25. Sept. 2020 ([AS 2020 4139](https://fedlex.data.admin.ch/eli/oc/2020/755)), Ziff. II Abs. 4 der V des EDI vom 30. Nov. 2020 ([AS 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)), Ziff. I der V des EDI vom 5. Jan. 2021 ([AS 2021 44](https://fedlex.data.admin.ch/eli/oc/2021/44)), vom 26. Febr. 2021 ([AS 2021 148](https://fedlex.data.admin.ch/eli/oc/2021/148)), Ziff. II Abs. 3 der V des EDI vom 8. Juni 2021 ([AS 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)), Ziff. II Abs. 4 der V des EDI vom 1. Dez. 2021 ([AS 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)), Ziff. I der V des EDI vom 1. Dez. 2021 ([AS 2021 886](https://fedlex.data.admin.ch/eli/oc/2021/886)) und Ziff. II Abs. 3 der V des EDI vom 2. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 369](https://fedlex.data.admin.ch/eli/oc/2022/369)).
 [^annex3-lvlu1-1]: In der AS nicht veröffentlicht. Die Liste kann eingesehen werden unter: www.bag.admin.ch &gt; Versicherungen &gt; Krankenversicherung &gt; Leistungen und Tarife &gt; Analysenliste (AL).
 
 Anhang 4*[^t-6]*
