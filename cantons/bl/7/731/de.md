@@ -1,33 +1,35 @@
 ---
 canton: BL
 number: "731"
-title: Gesetz über den Bevölkerungsschutz und den Zivilschutz im Kanton Basel-Landschaft
+title: Gesetz über den Bevölkerungsschutz im Kanton Basel-Landschaft
 short: "Bevölkerungsschutzgesetz BL, BSG BL"
 language: de
-version: 2021-01-01
-valid_until: 2022-06-30
-version_adopted: 2020-09-10
+version: 2022-07-01
+version_adopted: 2021-05-20
 adopted: 2021-05-20
 in_force: 2022-07-01
 url: "https://bl.clex.ch/app/de/texts_of_law/731"
-pdf: "https://bl.clex.ch/api/de/versions/2795/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4473/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Gesetz über den Bevölkerungsschutz und den Zivilschutz im Kanton Basel-Landschaft
+# Gesetz über den Bevölkerungsschutz im Kanton Basel-Landschaft
 
-Vom 05.02.2004 (Stand 01.01.2021)
+(Bevölkerungsschutzgesetz BL, BSG BL)
+
+Vom 20.05.2021 (Stand 01.07.2022)
 
 Der Landrat,
 
-gestützt auf die §§ 63 und 93 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-1],
+gestützt auf §§ 63 und 93 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-1],
 
-beschliesst:
+beschliesst:[^ingress-2]
 
 [^ingress-1]: [SGS 100](https://bl.clex.ch/data/100/de/art63)
+[^ingress-2]: Vom Landrat mit 4/5-Mehr beschlossen. Referendumsfrist unbenützt abgelaufen am 22. Juli 2021. Beschluss des Landrats gemäss § 63 GpR ([SGS 120](https://bl.clex.ch/data/120/de/art63)) mit Verfügung der Landeskanzlei vom 23. Juli 2021 (publiziert im [Amtsblatt Nr. 30 vom 29. Juli 2021](https://www.baselland.ch/themen/a/amtsblatt/politische-rechte/downloads-2021/polit2021-07-29.pdf/@@download/file/polit2021-07-29.pdf)) für rechtskräftig erklärt.
 
-## 1 Allgemeines
+## 1 Allgemeine Bestimmungen
 
 #### § 1
 
@@ -35,418 +37,347 @@ beschliesst:
 
 <sup>1</sup> Dieses Gesetz regelt:
 
-- a. den Vollzug der Bundesgesetzgebung über den Bevölkerungs- und Zivilschutz, den Kulturgüterschutz sowie die wirtschaftliche Landesversorgung;
-- b. die Vorbereitung und Durchführung von Massnahmen für den Schutz der Bevölkerung vor den Auswirkungen von Katastrophen, Notlagen und schweren Mangellagen;
-- c. die Zusammenarbeit von Kanton, Gemeinden, Partnerorganisationen und Führungsstäben im Bevölkerungsschutz.
+- a. den Vollzug der Bundesgesetzgebung über den Bevölkerungs- und den Kulturgüterschutz;
+- b. die Vorbereitung und Durchführung von Massnahmen für den Schutz der Bevölkerung und ihrer Lebensgrundlagen vor den Auswirkungen von Grossereignissen, Katastrophen, Notlagen, schweren Mangellagen und Krisen;
+- c. die Zusammenarbeit von Kanton, Einwohnergemeinden, Führungsstäben und Partnerorganisationen.
 
 #### § 2
 
-**Katastrophe**
+**Partnerorganisationen im Bevölkerungsschutz**
 
-<sup>1</sup> Als Katastrophe gilt ein Ereignis (natur- oder zivilisationsbedingtes Schadenereignis bzw. schwerer Unglücksfall), das so viele Schäden und Ausfälle verursacht, dass die personellen und materiellen Mittel der betroffenen Gemeinschaft überfordert sind.
+<sup>1</sup> Partnerorganisationen im Bevölkerungsschutz sind:
+
+- a. die Polizei;
+- b. die Feuerwehr;
+- c. das Gesundheitswesen, einschliesslich des sanitätsdienstlichen Rettungswesens;
+- d. die technischen Betriebe;
+- e. der Zivilschutz.
+
+<sup>2</sup> Die Partnerorganisationen arbeiten zum Schutz der Bevölkerung und ihrer Lebensgrundlagen, soweit sinnvoll, unter einer gemeinsamen Führung in der Vorsorge sowie der Bewältigung von Ereignissen zusammen.
+
+<sup>3</sup> Die zuständigen Behörden können weitere kommunale und kantonale Stellen sowie private Organisationen und Einzelpersonen zur Zusammenarbeit mit dem Bevölkerungsschutz verpflichten, insbesondere im Einsatz, für die Vorsorge, die Ausbildung und für Übungen.
+
+<sup>4</sup> Private Organisationen und Einzelpersonen haben grundsätzlich Anspruch auf Entschädigung für Dienstleistungen gemäss Abs. 3.
+
+## 2 Ereignisarten
 
 #### § 3
 
-**Notlage**
+**Grossereignis**
 
-<sup>1</sup> Als Notlage gilt eine Situation, die sich aus einer gesellschaftlichen Entwicklung oder einem technisch bedingten Ereignis ergeben kann und im Rahmen ordentlicher Abläufe nicht zu bewältigen ist, weil sie die betroffene Gemeinschaft in ihren personellen und materiellen Mitteln überfordert.
+<sup>1</sup> Als Grossereignis gilt ein überschaubares Ereignis von grösserer Dynamik und Komplexität, dessen Bewältigung ein Zusammenwirken der Führung mit mehreren Partnerorganisationen und Fachdiensten erforderlich macht.
 
 #### § 4
 
-**Schwere Mangellage**
+**Katastrophe**
 
-<sup>1</sup> Als schwere Mangellage gilt ein Mengenproblem an lebenswichtigen Gütern und Dienstleistungen, das über eine bestimmte Zeit hinaus landesweit eine normale Versorgung nicht mehr zulässt.
-
-## 2 Bevölkerungsschutz
-
-### 2.1 Aufgaben und Zuständigkeiten im Bevölkerungsschutz
+<sup>1</sup> Als Katastrophe gilt ein Ereignis, das so viele Schäden und Ausfälle verursacht, dass die Mittel der betroffenen Einwohnergemeinde oder des Kantons für dessen Bewältigung nicht ausreichen.
 
 #### § 5
 
-**Aufgaben des Kantons**
+**Notlage**
 
-<sup>1</sup> Der Kanton ist zuständig für die Bewältigung von Katastrophen, Notlagen und schweren Mangellagen, soweit nicht die Gemeinden zuständig sind.
-
-<sup>2</sup> Er schafft die dafür notwendigen Organisationen und legt die Kompetenzen fest.
-
-<sup>3</sup> Er ist insbesondere zuständig für:
-
-- a. die Regelung der Zuständigkeiten und die Planung der Massnahmen gemäss den Vorgaben des Bundes;
-- b. die Festlegung der im Ereignisfall zu erbringenden Leistungen der Partnerorganisationen, insbesondere des Zivilschutzes;
-- c. die Koordination der Requisition für die Partnerorganisationen;
-- d. das Anordnen vorsorglicher Massnahmen bei regionalen, umweltbedingten Mangellagen oder Gefährdungen;
-- e. die Übernahme der Führung auf Grund der Auswirkungen einer Katastrophe, Notlage oder schweren Mangellage;
-- f. die Regelung der Schadenplatzorganisation;
-- g. die Ausbildung und Ernennung von Schadenplatzkommandanten und Schadenplatzkommandantinnen;
-- h. die Unterstützung der Gemeinden bei der Bewältigung ihrer Aufgaben.
+<sup>1</sup> Als Notlage gilt eine Situation, die sich aus einer Entwicklung oder einem Ereignis ergibt und im Rahmen ordentlicher Abläufe nicht bewältigt werden kann.
 
 #### § 6
 
-**Aufgaben der Gemeinden**
+**Schwere Mangellage**
 
-<sup>1</sup> Die Gemeinden sind im eigenen Wirkungskreis zuständig für die Bewältigung von Katastrophen und Notlagen.
+<sup>1</sup> Als schwere Mangellage gilt:
 
-<sup>2</sup> Sie sind insbesondere zuständig für:
-
-- a. das Planen von Massnahmen zum Schutz der Bevölkerung;
-- b. das Treffen von Massnahmen zur Begrenzung und Bewältigung von Schadenereignissen;
-- c. das zur Verfügung Halten ihrer Mittel für die überörtliche Hilfe.
+- a. eine erhebliche Gefährdung der Versorgung des Landes mit lebenswichtigen Gütern und Dienstleistungen mit unmittelbar drohenden, grossen volkswirtschaftlichen Schäden oder;
+- b. eine erhebliche Störung der Versorgung des Landes mit lebenswichtigen Gütern und Dienstleistungen.
 
 #### § 7
 
-**Aufgaben der Partnerorganisationen**
+**Krise**
 
-<sup>1</sup> Der Polizei obliegen insbesondere folgende Aufgaben:
+<sup>1</sup> Als Krise gilt eine Situation, in welcher die Behörden eine erhebliche Gefährdung von Staat und Gesellschaft erkennen und unter Zeitdruck sowie unter höchst unsicheren Rahmenbedingungen Entscheide von grosser Tragweite treffen müssen.
 
-- a. die Warnung, die Alarmierung und die Verbreitung von Verhaltensanweisungen;
-- b. die Aufrechterhaltung von Sicherheit und Ordnung;
-- c. die Verkehrsregelung.
-
-<sup>2</sup> Der Feuerwehr obliegen insbesondere die Rettung und die allgemeine Schadenwehr.
-
-<sup>3</sup> Dem Gesundheitswesen, einschliesslich des sanitätsdienstlichen Rettungswesens, obliegt insbesondere die medizinische Versorgung der Bevölkerung und der Einsatzkräfte.
-
-<sup>4</sup> Die Betriebe und Werke stellen das Funktionieren ihrer Einrichtungen sicher.
-
-<sup>5</sup> Dem Zivilschutz obliegen namentlich folgende Aufgaben:
-
-- a. die Betreuung Schutz suchender Personen;
-- b. der Kulturgüterschutz;
-- c. die Führungsunterstützung und die Logistik zu Gunsten der Führungsstäbe sowie die Unterstützung der Partnerorganisationen;
-- d. Instandstellungs- und Sicherungsarbeiten sowie Einsätze zu Gunsten der Gemeinschaft.
+## 3 Aufgaben und Zuständigkeiten der Einwohnergemeinden
 
 #### § 8
 
-**Regionale Verbünde für den Bevölkerungsschutz**
+**Aufgaben der Einwohnergemeinden**
 
-<sup>1</sup> Die Gemeinden können regionale Verbünde für den Bevölkerungsschutz bilden.
+<sup>1</sup> Die Einwohnergemeinden sind zuständig für die Vorsorgeplanung, die Vorhalteleistungen sowie für die Bewältigung von Katastrophen, Notlagen und schweren Mangellagen.
 
-<sup>2</sup> Die regionalen Verbünde umfassen mindestens eine gemeinsame Führung sowie eine gemeinsame Zivilschutzkompanie.
+<sup>2</sup> Sie sind insbesondere zuständig für:
 
-<sup>3</sup> Der Regierungsrat kann die Gemeinden verpflichten, regionale Verbünde für den Bevölkerungsschutz zu bilden, wenn sie die festgelegten Leistungen nicht erbringen.
+- a. das Planen von Massnahmen zum Schutz der Bevölkerung und ihren Lebensgrundlagen;
+- b. das Treffen von Massnahmen zur Begrenzung und Bewältigung von Ereignissen;
+- c. die Planung und Koordination der Instandstellung der Infrastruktur;
+- d. die Bereitstellung ihrer Mittel für das Schadenplatzkommando sowie für innerkantonale, nationale und internationale Hilfeleistungen;
+- e. die Fortbildung der Gemeindeführungsstäbe gemäss den Empfehlungen des Kantons;
+- f. die Einsatzbereitschaft ihrer Stäbe.
 
 #### § 9
+
+**Strategische Führung**
+
+<sup>1</sup> Die Gemeinderäte nehmen bei Katastrophen, Notlagen und schweren Mangellagen die strategische Führung wahr.
+
+#### § 10
+
+**Organisation**
+
+<sup>1</sup> Die Einwohnergemeinden stimmen ihre Organisationen und Einsatzräume nach Möglichkeit aufeinander ab.
+
+<sup>2</sup> Bei Überlagerung der Einsatzräume regeln sie zusammen mit den Partnerorganisationen die Führungszuständigkeiten.
+
+#### § 11
+
+**Gemeindeführungsstäbe**
+
+<sup>1</sup> Die Einwohnergemeinden bilden Gemeindeführungsstäbe.
+
+#### § 12
+
+**Aufgaben der Gemeindeführungsstäbe**
+
+<sup>1</sup> Die Gemeindeführungsstäbe erstellen Vorsorgeplanungen für die Bewältigung von Katastrophen, Notlagen und schweren Mangellagen.
+
+<sup>2</sup> Sie übernehmen bei Katastrophen, Notlagen und schweren Mangellagen die operative Führung.
+
+<sup>3</sup> Sie nehmen insbesondere folgende Aufgaben wahr:
+
+- a. sie beurteilen die Lage und die Lageentwicklungsmöglichkeiten;
+- b. sie planen und koordinieren die Massnahmen für eine zeitgerechte und wirkungsvolle Bewältigung;
+- c. sie ordnen notwendige Massnahmen selbständig an, sofern diese zum Schutz der Bevölkerung, der Umwelt, der Sach- und der Kulturgüter unverzüglich getroffen werden müssen;
+- d. sie erarbeiten die Entscheidungsgrundlagen zuhanden der politischen Behörden und vollziehen deren Entscheide;
+- e. sie vollziehen die Anweisungen des kantonalen Führungsstabs.
+
+<sup>4</sup> Die Gemeindeführungsstäbe unterstützen bei Grossereignissen das Schadenplatzkommando mit ihren Mitteln.
+
+<sup>5</sup> Jedes Mitglied eines Gemeindeführungsstabs kann in dringenden Fällen Massnahmen gemäss Abs. 3 Bst. c selbständig anordnen.
+
+#### § 13
+
+**Ausbildung**
+
+<sup>1</sup> Die Mitglieder der Gemeindeführungsstäbe sind verpflichtet, eine ihren Aufgaben entsprechende Grundausbildung zu absolvieren.
+
+#### § 14
+
+**Finanzierung**
+
+<sup>1</sup> Die Einwohnergemeinden tragen im Bevölkerungsschutz im Rahmen ihrer Zuständigkeiten die Kosten für:
+
+- a. die Vorsorgeplanungen und Vorhalteleistungen;
+- b. die Fortbildung ihrer Führungsstäbe;
+- c. die Einsätze ihrer Gemeindeführungsstäbe und Partnerorganisationen sowie für die beigezogenen Dritten;
+- d. den Betrieb und den Unterhalt ihrer Systeme zur Warnung und Alarmierung der Bevölkerung;
+- e. die Beschaffung, den Betrieb und den Unterhalt der einheitlichen Systeme ihrer Führungskommunikation, ihres Lage- und Informationswesens sowie die Alarmierung ihrer Gemeindeführungsstäbe;
+- f. die Entschädigung ihrer Stabsmitglieder während der Zeit der Grundausbildung, der Fortbildung und einem Einsatz.
+
+#### § 15
+
+**Regionale Führungsstäbe**
+
+<sup>1</sup> Die Einwohnergemeinden können ihre Aufgaben im Bereich der Führung zusammen mit anderen Einwohnergemeinden erfüllen.
+
+<sup>2</sup> Arbeiten die Einwohnergemeinden zusammen, bilden sie einen regionalen Führungsstab.
+
+<sup>3</sup> Die Einwohnergemeinden regeln die Zusammenarbeit in einem Zusammenarbeitsvertrag.
+
+<sup>4</sup> Der Zusammenarbeitsvertrag bedarf der Genehmigung des Kantons.
+
+#### § 16
+
+**Zusammenarbeitsvertrag**
+
+<sup>1</sup> Die Zusammenarbeit erfolgt gemäss Formen und Bedingungen des Gemeindegesetzes[^16-1] und des Zivilschutzgesetzes[^16-2].
+
+<sup>2</sup> Der Zusammenarbeitsvertrag regelt insbesondere:
+
+- a. die Kostenverteilung betreffend Vorsorgeplanung, Vorhalteleistungen, Einsatz und Nachbearbeitung;
+- b. die Zusammensetzung der strategischen Führung im Ereignisfall und deren Kompetenzen;
+- c. das Verfahren für den Einsatzabschluss des Führungsstabs und der Partnerorganisationen.
+
+<sup>3</sup> Der Zusammenarbeitsvertrag kann vorsehen, dass die Aufnahme von weiteren Einwohnergemeinden in eine bestehende Organisation mit Beschluss der Gemeinderäte der bisherigen Mitglieder möglich ist.
+
+[^16-1]: [SGS 180](https://bl.clex.ch/data/180/de)
+[^16-2]: [SGS 732](https://bl.clex.ch/data/732/de)
+
+## 4 Aufgaben und Zuständigkeiten des Kantons
+
+#### § 17
+
+**Aufgaben des Kantons**
+
+<sup>1</sup> Der Kanton ist zuständig für die Vorsorgeplanung und die Bewältigung von Grossereignissen und Krisen.
+
+<sup>2</sup> Er ist zuständig für die Vorsorgeplanung und die Bewältigung von Katastrophen, Notlagen und schweren Mangellagen, soweit nicht die Einwohnergemeinden zuständig sind.
+
+<sup>3</sup> Er schafft die dafür notwendigen Organisationen und legt die Kompetenzen fest.
+
+<sup>4</sup> Er ist insbesondere zuständig für:
+
+- a. die Steuerung der Vorsorgeplanung von Kanton, Einwohnergemeinden, privatrechtlichen und öffentlich-rechtlichen Organisationen;
+- b. die Koordination der Requisition und der Inanspruchnahme von Leistungen Privater für die Führungsstäbe und Partnerorganisationen;
+- c. die Einsatzbereitschaft seines Stabs.
+
+#### § 18
+
+**Strategische Führung**
+
+<sup>1</sup> Der Regierungsrat nimmt bei Grossereignissen und Krisen die strategische Führung wahr.
+
+<sup>2</sup> Der Regierungsrat nimmt bei Katastrophen, Notlagen und schweren Mangellagen die strategische Führung wahr, sofern die Einwohnergemeinden nicht zuständig sind.
+
+#### § 19
+
+**Kantonaler Führungsstab**
+
+<sup>1</sup> Der Regierungsrat wählt die Mitglieder des Kantonalen Führungsstabs.
+
+#### § 20
+
+**Aufgaben des Kantonalen Führungsstabs**
+
+<sup>1</sup> Der Kantonale Führungsstab erstellt übergeordnete Vorsorge- und Einsatzplanungen für die Bewältigung von Grossereignissen, Katastrophen, Notlagen, schweren Mangellagen und Krisen.
+
+<sup>2</sup> Er übernimmt bei Krisen die operative Führung.
+
+<sup>3</sup> Er übernimmt bei Grossereignissen bei Bedarf die operative Führung. Die Leiterin oder der Leiter des Kantonalen Führungsstabs entscheidet über den Bedarf.
+
+<sup>4</sup> Er übernimmt bei Katastrophen, Notlagen und schweren Mangellagen die operative Führung, soweit nicht die Führungsstäbe der Einwohnergemeinden zuständig sind.
+
+<sup>5</sup> Er ordnet die notwendigen Massnahmen an, sofern diese zum Schutz der Bevölkerung, der Tiere, der Umwelt, der Sach- und Kulturgüter unverzüglich getroffen werden müssen.
+
+<sup>6</sup> Jedes Mitglied des Kantonalen Führungsstabs kann in dringenden Fällen Massnahmen gemäss Abs. 5 anordnen.
+
+#### § 21
+
+**Schadenplatzkommando**
+
+<sup>1</sup> Der Regierungsrat ernennt kantonale Schadenplatzkommandantinnen und Schadenplatzkommandanten.
+
+<sup>2</sup> Sie sind Mitglieder des Kantonalen Führungsstabs.
+
+<sup>3</sup> Sie übernehmen bei einem Ereignis gemäss § 3 ff. oder für spezifische Aufgaben die Führung vor Ort.
+
+#### § 22
 
 **Zusammenarbeit mit anderen Kantonen und dem grenznahen Ausland**
 
 <sup>1</sup> Der Regierungsrat kann im Rahmen seiner Zuständigkeit Zusammenarbeitsverträge mit anderen Kantonen und dem grenznahen Ausland endgültig abschliessen.
 
-#### § 10
+#### § 23
 
-**Politische Führung**
+**Ausbildung der Führung**
 
-<sup>1</sup> Der Regierungsrat und die Gemeinderäte nehmen bei Katastrophen, Notlagen und schweren Mangellagen die politische Führung wahr.
+<sup>1</sup> Der Kanton ist zuständig:
 
-<sup>2</sup> Bilden die Gemeinden für den Bevölkerungsschutz regionale Verbünde, bestimmen sie ein gemeinsames politisches Organ.
+- a. für die Grundausbildung der Führungsstäbe der Einwohnergemeinden und des Kantons sowie des Schadenplatzkommandos;
+- b. für die Fortbildung des Kantonalen Führungsstabs und des Schadenplatzkommandos.
 
-#### § 11
+<sup>2</sup> Der Kanton kann für betriebliche Führungsstäbe kostenpflichtige Grundausbildungs- und Fortbildungskurse anbieten.
 
-**Führungsstäbe**
+<sup>3</sup> Der Kanton kann Instruktionskurse, Stabs- und Einsatzübungen mit den Organisationen der Einwohnergemeinden und des Kantons durchführen. Diese sind zur Teilnahme verpflichtet.
 
-<sup>1</sup> Der Regierungsrat bildet einen Stab Regierungsrat und den Kantonalen Krisenstab.
+#### § 24
 
-<sup>2</sup> Die Gemeinden bilden Gemeindeführungsstäbe.
+**Finanzierung**
 
-<sup>3</sup> Bilden die Gemeinden einen regionalen Verbund für den Bevölkerungsschutz, ist an Stelle der Gemeindeführungsstäbe ein regionaler Führungsstab zu bilden.
+<sup>1</sup> Der Kanton trägt die Kosten für die ihm übertragenen Aufgaben, sofern dieses Gesetz keine abweichende Regelung vorsieht.
 
-#### § 12
+## 5 Gemeinsame Bestimmungen
 
-**Aufgaben der Führungsstäbe**
-
-<sup>1</sup> Die Führungsstäbe übernehmen in Katastrophen, Notlagen und schweren Mangellagen die operative Führung.
-
-<sup>2</sup> Sie nehmen insbesondere folgende Aufgaben wahr:
-
-- a. Sie erarbeiten die Entscheidungsgrundlagen zuhanden der politischen Behörden für die Bewältigung von Katastrophen und Notlagen.
-- b. Sie vollziehen die Entscheide der politischen Behörden.
-- c. Sie planen und koordinieren die notwendigen Massnahmen.
-- d. Sie ordnen die notwendigen Massnahmen selbständig an, sofern diese zum Schutz der Bevölkerung, der Umwelt, der Sach- und der Kulturgüter unverzüglich getroffen werden müssen.
-- e. In schweren Mangellagen vollziehen sie die Anweisungen von Bund und Kanton.
-
-<sup>3</sup> Jedes Mitglied eines Führungsstabes kann in dringenden Fällen Massnahmen gemäss Abs. 2 Bst. d selbständig anordnen.
-
-#### § 13
+#### § 25
 
 **Aufgebot der Führungsstäbe**
 
-<sup>1</sup> Die Führungsstäbe können durch den zuständigen Einsatzleiter, die zuständige Einsatzleiterin oder den Schadenplatzkommandanten, die Schadenplatzkommandantin sowie die zuständige Behörde aufgeboten werden.
+<sup>1</sup> Die Führungsstäbe können durch die Einsatzleitzentrale der Polizei Basel-Landschaft, den zuständigen Einsatzleiter, die zuständige Einsatzleiterin oder den zuständigen Schadenplatzkommandanten, die zuständige Schadenplatzkommandantin sowie die zuständige Behörde aufgeboten werden.
 
-<sup>2</sup> Gemeindeführungsstäbe oder regionale Führungsstäbe können auch durch den Regierungsrat oder den kantonalen Krisenstab aufgeboten werden.
+<sup>2</sup> Gemeindeführungsstäbe oder regionale Führungsstäbe können auch durch den Kantonalen Führungsstab aufgeboten werden.
 
-#### § 14
+#### § 26
 
-**Schadenplatzkommando**
+**Warnung und Alarmierung**
 
-<sup>1</sup> Der Regierungsrat ernennt kantonale Schadenplatzkommandanten und Schadenplatzkommandantinnen.
+<sup>1</sup> Der Regierungsrat regelt die Warnung und Alarmierung der Bevölkerung sowie die Erteilung von Verhaltensempfehlungen und Verhaltensanweisungen.
 
-<sup>2</sup> Die Schadenplatzkommandanten und Schadenplatzkommandantinnen übernehmen bei einem Grossereignis die Führung auf dem Schadenplatz.
+#### § 27
 
-<sup>3</sup> Die Schadenplatzkommandanten und Schadenplatzkommandantinnen bilden ein dem Ereignis entsprechendes Schadenplatzkommando.
+**Informations- und Kommunikationstechnologie für die Führung**
 
-#### § 15
+<sup>1</sup> Der Regierungsrat regelt im Verhältnis des Kantons zu den Gemeinden die Anwendung einheitlicher Kommunikations- und Führungssysteme.
 
-**Alarmierung und Telematik**
+#### § 28
 
-<sup>1</sup> Der Regierungsrat regelt die Warnung und Alarmierung der Bevölkerung sowie die Erteilung von Verhaltensanweisungen.
+**Versicherungsschutz**
 
-<sup>2</sup> Der Kanton sorgt nach den Vorgaben des Bundes für einheitliche Telematiksysteme für die Führung.
+<sup>1</sup> Die für das Aufgebot zuständige Behörde sorgt für einen genügenden Versicherungsschutz für Personen, die Hilfeleistungen erbringen.
 
-#### § 16
-
-**Pflichten für die Bevölkerung**
-
-<sup>1</sup> Massnahmen und Anordnungen der kantonalen und kommunalen Behörden bei Katastrophen, Notlagen und schweren Mangellagen, insbesondere Eingriffe in die persönliche Freiheit, in Besitz und Eigentum, sind für jede Person verbindlich.
-
-<sup>2</sup> Die politische Führung kann Personen, die nicht bei den Partnerorganisationen eingeteilt sind, zur Hilfeleistung verpflichten.
-
-<sup>3</sup> Der Kanton sorgt für einen genügenden Versicherungsschutz für Personen, die zur Hilfeleistung verpflichtet werden.
-
-#### § 17
+#### § 29
 
 **Verhältnismässigkeit**
 
 <sup>1</sup> Alle Massnahmen, Anordnungen und persönlichen Aufgebote müssen den Grundsatz der Verhältnismässigkeit beachten und im öffentlichen Interesse liegen.
 
-### 2.2 Organisation, Ausbildung und Finanzierung
-
-#### § 18
-
-**Organisation**
-
-<sup>1</sup> Die Organisation der Partnerorganisationen richtet sich nach der jeweiligen Gesetzgebung.
-
-<sup>2</sup> Die Partnerorganisationen stimmen ihre Organisationen und Einsatzräume nach Möglichkeit aufeinander ab.
-
-#### § 19
-
-**Ausbildung der Führung**
-
-<sup>1</sup> Der Kanton ist zuständig für die Aus- und Weiterbildung der Führungsstäbe und der Verantwortlichen in der Schadenplatzorganisation.
-
-<sup>2</sup> Die Gemeinden sind für die Fortbildung ihrer Führungsstäbe gemäss den Richtlinien des Kantons zuständig.
-
-<sup>3</sup> Der Kanton ist zuständig für die Fortbildung des kantonalen Krisenstabes und der Verantwortlichen der Schadenplatzorganisation.
-
-#### § 20
-
-**Ausbildung der Partnerorganisationen**
-
-<sup>1</sup> Die Partnerorganisationen sind für die Ausbildung ihrer Angehörigen zuständig.
-
-<sup>2</sup> Die Partnerorganisationen stimmen die gemeinsamen Ausbildungsbereiche sowie deren Leistungen aufeinander ab.
-
-#### § 21
-
-**Material**
-
-<sup>1</sup> Die Partnerorganisationen stimmen ihre Materialbeschaffungen im Hinblick auf einen gemeinsamen Einsatz aufeinander ab.
-
-<sup>2</sup> Der Kanton kann technische Anforderungen festlegen, um die notwendige Kompatibilität unter den Partnern sicherzustellen.
-
-#### § 22
-
-**Finanzierung**
-
-<sup>1</sup> Der Kanton trägt im Bevölkerungsschutz die Kosten, die nicht von den Gemeinden oder den Partnerorganisationen getragen werden müssen.
-
-<sup>2</sup> Die Gemeinden tragen im Bevölkerungsschutz die Kosten für:
-
-- a. die administrativen Arbeiten, die im Zusammenhang mit ihrer Zuständigkeit stehen;
-- b. die Einsatzbereitschaft und den Einsatz ihrer Führungsstäbe;
-- c. Übungen, die von den Gemeinden oder den regionalen Verbünden angeordnet werden;
-- d. das Material, das von den Gemeinden oder den regionalen Verbünden benötigt und nicht von den Partnerorganisationen zur Verfügung gestellt wird;
-- e. Einsätze von Partnerorganisationen auf ihrem Gebiet, sofern diese Kosten nicht durch die Partnerorganisationen selbst getragen werden;
-- f. den Betrieb und den Unterhalt der Systeme zur Alarmierung der Bevölkerung.
-
-<sup>3</sup> Die Partnerorganisationen tragen die Kosten für ihre Einsatzbereitschaft gemäss ihrer speziellen Gesetzgebung.
-
-#### § 23
-
-**Rückgriff**
-
-<sup>1</sup> Der Kanton und die Gemeinden können für die Kosten, die ihnen im Zusammenhang mit Katastrophen und Notlagen entstehen, auf die Verursacher und Verursacherinnen Rückgriff nehmen.
-
-## 3 Zivilschutz
-
-### 3.1 Organisation
-
-#### § 24
-
-**Zivilschutzkompanien**
-
-<sup>1</sup> Der Regierungsrat bestimmt die Anzahl und die Mindestbestände der Zivilschutzkompanien.
-
-<sup>2</sup> Die Gemeinden bilden und organisieren die Zivilschutzkompanien gemäss den Vorgaben des Kantons.
-
-<sup>3</sup> Der Kanton kann eigene Zivilschutzkompanien bilden.
-
-<sup>4</sup> Das zuständige Amt erarbeitet in Zusammenarbeit mit den Gemeinden die Entscheidungsgrundlagen.
-
-### 3.2 Ausbildung und Aufgebot
-
-#### § 25
-
-**Ausbildung**
-
-<sup>1</sup> Der Regierungsrat legt die Dauer der Grund-, Zusatz- und Kaderausbildung, der Weiterbildung sowie der Wiederholungskurse nach den jeweiligen Ausbildungsbedürfnissen fest.
-
-#### § 26
-
-**Aufgebote und Information**
-
-<sup>1</sup> Die Schutzdienstpflichtigen werden zu den Kursen für die Grund-, Zusatz- und Kaderausbildung, die Weiterbildung sowie für die Wiederholungskurse schriftlich aufgeboten.
-
-<sup>2</sup> Oeffentlich angeschlagene Kurstableaus sind dem schriftlichen Aufgebot gleichgestellt.
-
-<sup>3</sup> Die Schutzdienstpflichtigen sind rechtzeitig über bevorstehende ordentliche Dienstleistungen zu informieren.
-
-<sup>4</sup> Im Ereignisfall können die Schutzdienstpflichtigen mit Alarmierungsmitteln aufgeboten werden.
-
-<sup>5</sup> Die Schutzdienstpflichtigen können jederzeit zu Alarmübungen aufgeboten werden.
-
-#### § 27
-
-**Zuweisung in die Personalreserve**
-
-<sup>1</sup> Schutzdienstpflichtige können der Personalreserve zugewiesen werden, wenn der Sollbestand aller Zivilschutzkompanien um 10 % überschritten wird.
-
-#### § 27a
-
-**Übergangsbestimmung Schutzdienstpflicht**
-
-<sup>1</sup> Schutzdienstpflichtige, die ihre Schutzdienstpflicht in der Zeit vom 1. Januar 2021 bis zum 31. Dezember 2025 erfüllen, bleiben schutzdienstpflichtig bis zum Ende des Jahres, in dem sie 40 Jahre alt werden.
-
-### 3.3 Zuständigkeiten im Zivilschutz
-
-#### § 28
-
-**Zuständigkeit des Kantons**
-
-<sup>1</sup> Der Kanton ist zuständig für:
-
-- a. die Einteilung der Schutzdienstpflichtigen in die Zivilschutzkompanien;
-- b. die Kontrollführung über die Schutzdienstpflichtigen;
-- c. die Durchführung der Grund-, Zusatz-, Weiter- und Kaderausbildung;
-- d. das Aufgebot und die Dispensationen bei kantonalen Kursen;
-- e. das Aufgebot der kantonalen Kompanien;
-- f. die Festlegung und die Überwachung der Leistungsziele in der Ausbildung;
-- g. die Festlegung des notwendigen Materials der Zivilschutzkompanien;
-- h. alle weiteren, nicht ausdrücklich den Gemeinden zugeordneten, im Zusammenhang mit dem Zivilschutz stehenden Aufgaben;
-- i. die Bewilligung von Einsätzen zugunsten der Gemeinschaft.
-
-<sup>2</sup> Der Kanton kann bei Katastrophen und in Notlagen sowie für Einsätze zugunsten der Gemeinschaft auch kommunale Zivilschutzkompanien aufbieten.
-
-<sup>3</sup> Der Kanton kann auf Gesuch hin kantonale und kommunale Zivilschutzkompanien zugunsten anderer Kantone aufbieten.
-
-<sup>4</sup> Der Kanton erlässt Weisungen über die Organisation und Verwaltung von Zivilschutzkursen.
-
-#### § 29
-
-**Zuständigkeit der Gemeinden und der Gemeindeverbünde**
-
-<sup>1</sup> Die Gemeinden oder die Gemeindeverbünde sind zuständig für:
-
-- a. die Durchführung der jährlichen Wiederholungskurse;
-- b. das Aufgebot und die Dispensationen für die Wiederholungskurse;
-- c. das Aufgebot für Einsätze, sofern nicht der Kanton zuständig ist;
-- d. die Beförderungen der Schutzdienstpflichtigen ihrer Zivilschutzkompanien;
-- e. die persönliche Ausrüstung der Schutzdienstpflichtigen;
-- f. die Beschaffung und die Instandhaltung des Materials und der Fahrzeuge ihrer Zivilschutzkompanien;
-- g. die Erstellung der Verzeichnisse und der Kurzdokumentationen der Kulturgüter von regionaler und lokaler Bedeutung;
-- h. Einsätze zugunsten der Gemeinschaft, sofern nicht der Kanton deren Kosten übernimmt.
-
-### 3.4 Schutzbauten
-
 #### § 30
 
-**Befreiung von der Schutzraumbaupflicht**
+**Kostenersatz**
 
-<sup>1</sup> Keine Schutzräume müssen erstellt werden, wenn in einer Gemeinde oder einem Beurteilungsgebiet der Schutzplatzbedarf gedeckt ist.
+<sup>1</sup> Die Einwohnergemeinden und der Kanton können die Kosten, die ihnen im Zusammenhang mit Grossereignissen, Katastrophen, Notlagen und schweren Mangellagen entstehen, den Verursachern und den Verursacherinnen in Rechnung stellen.
 
-<sup>2</sup> Der Regierungsrat legt die Ersatzbeiträge fest.
+<sup>2</sup> Die Kosten der Partnerorganisationen können in dem Umfang in Rechnung gestellt werden, den die Gesetzgebungen betreffend die jeweiligen Partnerorganisationen vorsehen.
 
-<sup>3</sup> Die Gemeinden verwalten die Ersatzbeiträge.
+## 6 Kulturgüterschutz
 
 #### § 31
 
-**Periodische Schutzraumkontrolle**
+**Aufgaben der Einwohnergemeinden**
 
-<sup>1</sup> Die Gemeinden kontrollieren periodisch die Betriebsbereitschaft und den Unterhalt der den Schutzanforderungen entsprechenden Schutzräume und Kulturgüterschutzräume.
+<sup>1</sup> Die Einwohnergemeinden erstellen ein Inventar geschützter Kulturgüter von lokaler Bedeutung und führen es periodisch nach.
 
-<sup>2</sup> Den zuständigen Personen muss der Zugang zu den Schutzräumen und Ausrüstungen ermöglicht werden.
+<sup>2</sup> Die Einwohnergemeinden erstellen in Zusammenarbeit mit den Partnerorganisationen eine Einsatz- und Evakuationsplanung für die Kulturgüter von lokaler Bedeutung.
+
+<sup>3</sup> Sie informieren die Eigentümerinnen und Eigentümer von Kulturgütern über die Vorbereitung und Durchführung von Schutzmassnahmen.
 
 #### § 32
 
-**Periodische Anlagekontrolle**
+**Aufgaben des Kantons**
 
-<sup>1</sup> Der Kanton kontrolliert periodisch die Betriebsbereitschaft und den Unterhalt der Schutzanlagen.
+<sup>1</sup> Der Kanton unterstützt den Bund bei der Erstellung des Inventars geschützter Kulturgüter von nationaler und regionaler Bedeutung.
 
-<sup>2</sup> Die Gemeinden haben das zuständige Amt bei der Kontrolle personell zu unterstützen.
+<sup>2</sup> Der Regierungsrat beantragt die Aufnahme der Kulturgüter von nationaler und regionaler Bedeutung in das Kulturgüterschutzinventar des Bundes.
+
+<sup>3</sup> Der Kanton erstellt in Zusammenarbeit mit den Partnerorganisationen eine Einsatz- und Evakuationsplanung für die Kulturgüter von nationaler und regionaler Bedeutung.
+
+<sup>4</sup> Er stellt im Ereignisfall Schutzräume für die Aufnahme von evakuierten Kulturgütern von nationaler und regionaler Bedeutung bereit.
 
 #### § 33
 
-**Einsatzbereitschaft**
+**Finanzierung**
 
-<sup>1</sup> Private und öffentliche Schutzräume müssen die Schutzfunktionen jederzeit erfüllen.
+<sup>1</sup> Die Einwohnergemeinden tragen die Kosten für die Massnahmen im Kulturgüterschutz, die in ihrem Zuständigkeitsbereich liegen.
+
+<sup>2</sup> Der Kanton trägt die Kosten für die Massnahmen im Kulturgüterschutz, die in seinem Zuständigkeitsbereich liegen.
+
+## 7 Strafbestimmungen und Rechtspflege
 
 #### § 34
 
-**Zivilschutzfremde Nutzung**
-
-<sup>1</sup> Für die dauernde zivilschutzfremde Nutzung öffentlicher oder gemeinsamer Schutzräume sind die Gemeinden zuständig, für Schutzanlagen ist eine Bewilligung des zuständigen Amtes erforderlich.
-
-### 3.5 Finanzierung
-
-#### § 35
-
-**Kostentragung durch den Kanton**
-
-<sup>1</sup> Der Kanton trägt die Kosten für:
-
-- a. die administrativen Arbeiten, die im Zusammenhang mit seiner Zuständigkeit stehen;
-- b. die Grund-, Zusatz-, Kaderaus- und Weiterbildungskurse, sofern sie nicht vom Bund getragen werden;
-- c. die Wiederholungskurse der kantonalen Formationen;
-- d. die Beschaffung und den Unterhalt des Materials und der Fahrzeuge der kantonalen Formationen;
-- e. die vom Kanton erstellten Schutzräume;
-- f. die vom Bund nicht gedeckten Ausgaben für den Unterhalt der kantonalen Schutzanlagen;
-- g. die Einsatzbereitschaft der kantonalen Zivilschutzkompanien.
-
-#### § 36
-
-**Kostentragung durch die Gemeinden**
-
-<sup>1</sup> Die Gemeinden tragen die Kosten für:
-
-- a. die administrativen Arbeiten, die im Zusammenhang mit ihrer Zuständigkeit stehen;
-- b. die Wiederholungskurse;
-- c. die Beschaffung und den Unterhalt des Materials und der Fahrzeuge der kommunalen Zivilschutzkompanie;
-- d. die von ihnen erstellten Schutzräume;
-- e. die vom Bund nicht gedeckten Ausgaben für den Unterhalt und die periodische Kontrolle ihrer Schutzanlagen;
-- f. die Einsatzbereitschaft ihrer Zivilschutzkompanien;
-- g. die ärztlichen Beurteilungen.
-
-## 4 Schlussbestimmungen
-
-#### § 37
-
 **Strafbestimmungen**
 
-<sup>1</sup> Wer Anordnungen und Verhaltensanweisungen der zuständigen Führungsstäbe nicht beachtet, wird mit Busse bis CHF 10'000.– bestraft.
+<sup>1</sup> Wer gegen gestützt auf dieses Gesetz erlassene Anordnungen und Verhaltensanweisungen verstösst, wird mit Busse bestraft.
 
 <sup>2</sup> In leichten Fällen kann die zuständige Behörde auf die Einleitung eines Strafverfahrens verzichten; sie kann die betreffende Person verwarnen.
 
-#### § 38
+#### § 35
 
 **Zuständige Instanz für den Entscheid über vermögensrechtliche Ansprüche**
 
-<sup>1</sup> Die Justiz-, Polizei- und Militärdirektion[^38-1] entscheidet erstinstanzlich über:
+<sup>1</sup> Die Sicherheitsdirektion entscheidet erstinstanzlich über:
 
-- a. Schadenersatzansprüche und Rückgriffsforderungen für Schäden, die während kantonalen oder kommunalen Dienstleistungen entstanden sind;
-- b. Ansprüche vermögensrechtlicher Art von oder gegen den Kanton oder die Gemeinden, die sich auf die Bundesgesetzgebung über den Bevölkerungsschutz stützen.
+- a. Schadenersatzansprüche und Rückgriffsforderungen für Schäden, die während kantonaler und kommunaler Dienstleistungen entstanden sind;
+- b. Ansprüche vermögensrechtlicher Art vom oder gegen den Kanton, gestützt auf die Bundesgesetzgebung über den Bevölkerungsschutz;
+- c. Ansprüche vermögensrechtlicher Art von oder gegen die Gemeinden, gestützt auf die Bundesgesetzgebung über den Bevölkerungsschutz;
+- d. Ansprüche auf Entschädigung gemäss § 2 Abs. 4 dieses Gesetzes.
 
-[^38-1]: Heute: Sicherheitsdirektion.
-
-#### § 39
+#### § 36
 
 **Verfahrensrecht**
 
@@ -454,26 +385,20 @@ beschliesst:
 
 <sup>2</sup> Die Beschwerdeinstanz kann auf Antrag die aufschiebende Wirkung zuerkennen, wenn der beschwerdeführenden Person ein nicht wiedergutzumachender Nachteil entstünde.
 
-#### § 40
+## 8 Schlussbestimmungen
+
+#### § 37
+
+**Übergangsbestimmung**
+
+<sup>1</sup> Die bei Inkrafttreten dieses Gesetzes hängigen Beschwerden werden nach altem Recht beurteilt.
+
+<sup>2</sup> Auf alle anderen Verfahren finden die neuen Bestimmungen Anwendung.
+
+#### § 38
 
 **Umsetzung**
 
-<sup>1</sup> Die Gemeinden passen ihre Organisationen und reglementarischen Bestimmungen innert drei Jahren seit Inkrafttreten des Gesetzes den Bestimmungen dieses Gesetzes an.
+<sup>1</sup> Die Einwohnergemeinden passen ihre Organisation und reglementarischen Bestimmungen innert 3 Jahren seit Inkrafttreten des Gesetzes dessen Bestimmungen an.
 
-#### § 41
-
-**Aufhebung bisherigen Rechts**
-
-<sup>1</sup> Das Gesetz vom 6. Februar 1997[^41-1] über den zivilen Schutz der Bevölkerung und der Kulturgüter wird aufgehoben.
-
-[^41-1]: GS 32.841
-
-#### § 42
-
-**Inkrafttreten**
-
-<sup>1</sup> Der Regierungsrat beschliesst das Inkrafttreten dieses Gesetzes.[^42-1]
-
-[^42-1]: Vom Regierungsrat am 24. August 2004 auf den 1. September 2004 in Kraft gesetzt.
-
-GS 35.0203
+GS 2022.056
