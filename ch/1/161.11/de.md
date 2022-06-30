@@ -4,20 +4,20 @@ title: Verordnung vom 24. Mai 1978 über die politischen Rechte (VPR)
 short: VPR
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/712_712_712"
 language: de
-version: 2019-07-01
+version: 2022-07-01
 adopted: 1978-05-24
 in_force: 1978-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/712_712_712/20190701/de/xml/fedlex-data-admin-ch-eli-cc-1978-712_712_712-20190701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/712_712_712/20190701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/712_712_712/20220701/de/xml/fedlex-data-admin-ch-eli-cc-1978-712_712_712-20220701-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/712_712_712/20220701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die politischen Rechte
 
-(VPR)**[^t-1]**
+(VPR)[^t-1]
 
-vom 24. Mai 1978 (Stand am 1. Juli 2019)
+vom 24. Mai 1978 (Stand am 1. Juli 2022)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 13. Dez. 2013, in Kraft seit 15. Jan. 2014 ([AS 2013 5365](https://fedlex.data.admin.ch/eli/oc/2013/858)).
 
@@ -172,12 +172,13 @@ Die Kantonsregierung erlässt die zur Anordnung und Durchführung der Nationalra
 
 **Wahlanmeldeschluss**[^8a-1]
 
-<sup>1</sup> Jeder Kanton teilt der Bundeskanzlei bis zum 1. März des Wahljahres mit, welchen Montag zwischen dem 1. August und dem 30. September er als Termin für den Wahlanmeldeschluss bestimmt hat und ob er die Bereinigungsfrist auf sieben oder auf 14 Tage festgelegt hat.
+<sup>1</sup> Jeder Kanton teilt der Bundeskanzlei bis zum 1. März des Wahljahres mit, welchen Montag er als Termin für den Wahlanmeldeschluss bestimmt hat und ob er die Bereinigungsfrist auf sieben oder auf vierzehn Tage festgelegt hat.[^8a-2]
 
-<sup>2</sup> Keine Meldung zu machen haben Kantone mit nur einem Nationalratssitz, die keine stillen Wahlen kennen.[^8a-2]
+<sup>2</sup> Keine Meldung zu machen haben Kantone mit nur einem Nationalratssitz, die keine stillen Wahlen kennen.[^8a-3]
 
 [^8a-1]: Eingefügt durch Ziff. I der V vom 19. Okt. 1994, in Kraft seit 15. Nov. 1994 ([AS 1994 2423](https://fedlex.data.admin.ch/eli/oc/1994/2423_2423_2423)).
-[^8a-2]: Eingefügt durch Ziff. I der V vom 26. Febr. 1997, in Kraft seit 1. April 1997 ([AS 1997 761](https://fedlex.data.admin.ch/eli/oc/1997/761_761_761)).
+[^8a-2]: Fassung gemäss Ziff. I der V vom 25. Mai 2022, in Kraft seit 1. Juli 2022 ([AS 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
+[^8a-3]: Eingefügt durch Ziff. I der V vom 26. Febr. 1997, in Kraft seit 1. April 1997 ([AS 1997 761](https://fedlex.data.admin.ch/eli/oc/1997/761_761_761)).
 
 #### Art. 8b
 
@@ -213,14 +214,14 @@ Die Kantonsregierung erlässt die zur Anordnung und Durchführung der Nationalra
 
 <sup>2</sup> Die Bundeskanzlei belässt mehrfach Vorgeschlagene auf dem Wahlvorschlag, der als erster bei ihr eintrifft. …[^8d-3]
 
-<sup>3</sup> Die Bundeskanzlei meldet dem Kanton innerhalb von 72 Stunden ab Eintreffen seines Wahlvorschlages Streichungen elektronisch oder per Telefax.[^8d-4]
+<sup>3</sup> Sie meldet dem Kanton innerhalb von 72 Stunden ab Eintreffen seines Wahlvorschlages die Streichungen auf elektronischem Weg.[^8d-4]
 
 <sup>4</sup> Der Kanton übermittelt der Bundeskanzlei spätestens innerhalb von 24 Stunden nach Ablauf der Bereinigungsfrist eine Kopie jeder Liste. Er bezeichnet dabei die Liste als bereinigt.
 
 [^8d-1]: Eingefügt durch Ziff. I der V vom 19. Okt. 1994, in Kraft seit 15. Nov. 1994 ([AS 1994 2423](https://fedlex.data.admin.ch/eli/oc/1994/2423_2423_2423)).
 [^8d-2]: Fassung gemäss Ziff. I der V vom 26. Febr. 1997, in Kraft seit 1. April 1997 ([AS 1997 761](https://fedlex.data.admin.ch/eli/oc/1997/761_761_761)).
 [^8d-3]: Zweiter Satz aufgehoben durch Ziff. IV 3 der V vom 22. Aug. 2007 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Jan. 2008 ([AS 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
-[^8d-4]: Fassung gemäss Ziff. I der V vom 20. Sept. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3200](https://fedlex.data.admin.ch/eli/oc/2002/479)).
+[^8d-4]: Fassung gemäss Ziff. I der V vom 25. Mai 2022, in Kraft seit 1. Juli 2022 ([AS 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
 
 #### Art. 8e
 
@@ -444,7 +445,7 @@ Der 4. Abschnitt dieser Verordnung gilt für die Volksinitiative sinngemäss.
 
 [^27-1]: Aufgehoben durch Ziff. IV 3 der V vom 22. Aug. 2007 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Jan. 2008 ([AS 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
-## 6*a*. Abschnitt:**** Versuche**** mit elektronischer Stimmabgabe
+## 6*a*. Abschnitt: Versuche mit elektronischer Stimmabgabe
 
 [^sec6a-1][^sec6a-2]
 
@@ -483,9 +484,10 @@ Die Grundbewilligung wird erteilt, wenn:
   - 4\. Dritte vom Inhalt elektronisch abgegebener Stimmen keine Kenntnis erhalten können (Stimmgeheimnis),
   - 5\. jeglicher systematische Missbrauch ausgeschlossen werden kann (Regelkonformität des Urnengangs);
 
-- b. die Bundeskanzlei gestützt auf die eingereichten Belege oder Zertifikate festgestellt hat, dass sich das vom Kanton gewählte System der elektronischen Stimmabgabe dazu eignet, die Versuche bundesrechtskonform durchzuführen.
+- b.[^27b-2] die Bundeskanzlei festgestellt hat, dass die Voraussetzungen für die Erteilung einer Zulassung nach Artikel 27*e* Absatz 1<sup>bis</sup> erfüllt sind.
 
 [^27b-1]: Fassung gemäss Ziff. I der V vom 13. Dez. 2013, in Kraft seit 15. Jan. 2014 ([AS 2013 5365](https://fedlex.data.admin.ch/eli/oc/2013/858)).
+[^27b-2]: Fassung gemäss Ziff. I der V vom 25. Mai 2022, in Kraft seit 1. Juli 2022 ([AS 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
 
 #### Art. 27c
 
@@ -501,9 +503,10 @@ Das Gesuch um Erteilung der Grundbewilligung muss enthalten:
 - d. den maximalen Anteil des kantonalen Elektorats, der in die Versuche einbezogen werden soll;
 - e. bei mehreren Versuchen die Anzahl der Urnengänge oder die Höchstdauer, für welche die Grundbewilligung erteilt werden soll.
 
-<sup>2</sup> Die Bundeskanzlei legt fest, welche Belege oder Zertifikate dem Gesuch beizulegen sind.
+<sup>2</sup> …[^27c-2]
 
 [^27c-1]: Fassung gemäss Ziff. I der V vom 13. Dez. 2013, in Kraft seit 15. Jan. 2014 ([AS 2013 5365](https://fedlex.data.admin.ch/eli/oc/2013/858)).
+[^27c-2]: Aufgehoben durch Ziff. I der V vom 25. Mai 2022, mit Wirkung seit 1. Juli 2022 ([AS 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
 
 #### Art. 27d
 
@@ -513,17 +516,20 @@ Der Bundesrat legt in der Grundbewilligung fest:
 
 - a. für welche Urnengänge des Bundes oder für welche Höchstdauer die elektronische Stimmabgabe bewilligt wird;
 - b. in welchem Zeitraum die elektronische Stimmabgabe ermöglicht werden darf;
-- c. für welches Gebiet die aus den Versuchen hervorgehenden Ergebnisse der Urnengänge rechtlich verbindliche Wirkungen zeitigen.
+- c.[^27d-2] für welches Gebiet und für welchen Anteil des Elektorats die elektronische Stimmabgabe bewilligt wird.
 
 [^27d-1]: Fassung gemäss Ziff. I der V vom 13. Dez. 2013, in Kraft seit 15. Jan. 2014 ([AS 2013 5365](https://fedlex.data.admin.ch/eli/oc/2013/858)).
+[^27d-2]: Fassung gemäss Ziff. I der V vom 25. Mai 2022, in Kraft seit 1. Juli 2022 ([AS 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
 
 #### Art. 27e
 
 **Zulassung durch die Bundeskanzlei**[^27e-1]
 
-<sup>1</sup> Der Kanton, der eine Grundbewilligung erhalten hat, muss für die elektronische Stimmabgabe pro Urnengang bei der Bundeskanzlei um eine Zulassung ersuchen. Die Bundeskanzlei legt die Voraussetzungen für die Erteilung der Zulassung und den Inhalt der Gesuche fest.
+<sup>1</sup> Der Kanton, der eine Grundbewilligung erhalten hat, muss pro Urnengang bei der Bundeskanzlei um eine Zulassung für die elektronische Stimmabgabe ersuchen.[^27e-2]
 
-<sup>2</sup> Die Zulassung wird erteilt, wenn das vom Kanton gewählte System und die Betriebsmodalitäten die von der Bundeskanzlei festgelegten Voraussetzungen erfüllen.
+<sup>1bis</sup> Die Bundeskanzlei legt die Voraussetzungen für die Erteilung der Zulassung und insbesondere die Anforderungen an das System der elektronischen Stimmabgabe und dessen Betrieb fest.[^27e-3]
+
+<sup>2</sup> Die Zulassung wird erteilt, wenn die Voraussetzungen nach Absatz 1<sup>bis</sup> erfüllt sind.[^27e-4]
 
 <sup>3</sup> Gelangt die Bundeskanzlei nach der Prüfung eines Gesuchs um Zulassung zum Schluss, dass die Voraussetzungen nicht erfüllt sind, so teilt sie dies dem betreffenden Kanton mit und begründet ihre Beurteilung.
 
@@ -532,6 +538,9 @@ Der Bundesrat legt in der Grundbewilligung fest:
 <sup>5</sup> Die elektronische Stimmabgabe bei eidgenössischen Urnengängen ist nur zulässig, soweit sie in den dafür bestimmten Gebieten für alle Abstimmungsvorlagen und Wahlen des betreffenden Urnengangs ermöglicht wird.
 
 [^27e-1]: Fassung gemäss Ziff. I der V vom 13. Dez. 2013, in Kraft seit 15. Jan. 2014 ([AS 2013 5365](https://fedlex.data.admin.ch/eli/oc/2013/858)).
+[^27e-2]: Fassung gemäss Ziff. I der V vom 25. Mai 2022, in Kraft seit 1. Juli 2022 ([AS 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
+[^27e-3]: Eingefügt durch Ziff. I der V vom 25. Mai 2022, in Kraft seit 1. Juli 2022 ([AS 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
+[^27e-4]: Fassung gemäss Ziff. I der V vom 25. Mai 2022, in Kraft seit 1. Juli 2022 ([AS 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
 
 #### Art. 27e<sup>bis</sup>
 
@@ -543,17 +552,13 @@ Der Bundesrat legt in der Grundbewilligung fest:
 
 **Limiten**[^27f-1]
 
-<sup>1</sup>
+<sup>1</sup> Es werden höchstens 30 Prozent des kantonalen Elektorats zur elektronischen Stimmabgabe zugelassen. Dabei darf die Limite von 10 Prozent des gesamtschweizerischen Elektorats nicht überschritten werden.
 
-Die Bundeskanzlei legt fest, welche Anforderungen ein System der elektronischen Stimmabgabe sowie der Betrieb erfüllen müssen, damit:
+<sup>2</sup> Die Bundeskanzlei überprüft regelmässig, ob die Höhe der Limiten nach Absatz 1 unter Berücksichtigung der Entwicklungen im Bereich der elektronischen Stimmabgabe anzupassen ist.
 
-- a. höchstens 30 Prozent des kantonalen Elektorats zur elektronischen Stimmabgabe zugelassen werden kann; dabei darf die Limite von 10 Prozent des gesamtschweizerischen Elektorats nicht überschritten werden;
-- b. höchstens 50 Prozent des kantonalen Elektorats zur elektronischen Stimmabgabe zugelassen werden kann; dabei darf die Limite von 30 Prozent des gesamtschweizerischen Elektorats nicht überschritten werden;
-- c. das gesamte kantonale Elektorat zur elektronischen Stimmabgabe zugelassen werden kann.
+<sup>3</sup> Die stimmberechtigten Auslandschweizerinnen und -schweizer sowie Stimmberechtigte, die aufgrund einer Behinderung ihre Stimme nicht autonom abgeben können, werden bei der Berechnung der Limiten nicht mitgezählt.
 
-<sup>2</sup> Die stimmberechtigten Auslandschweizer werden bei der Berechnung der Limiten nicht mitgezählt.
-
-[^27f-1]: Fassung gemäss Ziff. I der V vom 13. Dez. 2013, in Kraft seit 15. Jan. 2014 ([AS 2013 5365](https://fedlex.data.admin.ch/eli/oc/2013/858)).
+[^27f-1]: Fassung gemäss Ziff. I der V vom 25. Mai 2022, in Kraft seit 1. Juli 2022 ([AS 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
 
 #### Art. 27g
 
@@ -577,17 +582,20 @@ Die Bundeskanzlei legt fest, welche Anforderungen ein System der elektronischen 
 
 #### Art. 27i
 
-**Plausibilisierung und Verifizierbarkeit der elektronischen Stimmabgabe**[^27i-1]
+**Verifizierbarkeit und Plausibilisierung der elektronischen Stimmabgabe[^27i-2]**[^27i-1]
 
-<sup>1</sup> Kantone, die lediglich einen Teil ihres Elektorats in einen Versuch einbeziehen, müssen die Ergebnisse plausibilisieren können.
+<sup>1</sup> Die Kantone stellen sicher, dass die korrekte Verarbeitung der Stimmen und die Korrektheit des Ergebnisses der elektronischen Stimmabgabe verifiziert werden.[^27i-3]
 
-<sup>2</sup> Kantone, die das ganze Elektorat in einen Versuch einbeziehen, müssen sicherstellen, dass der korrekte Ablauf der elektronischen Stimmabgabe und die Korrektheit des Ergebnisses dieses Stimmkanals verifiziert werden können.
+<sup>2</sup> Sie plausibilisieren die Ergebnisse der elektronischen Stimmabgabe.[^27i-4]
 
 <sup>3</sup> Die Bundeskanzlei regelt die Verifizierbarkeit und die Plausibilisierung.
 
 <sup>4</sup> Werden bei der Verifizierung oder der Plausibilisierung Unregelmässigkeiten festgestellt, so muss die Anzahl fehlerhafter Stimmen erhoben oder zumindest das Ausmass der Auswirkungen auf das Auszählungsergebnis abgeschätzt werden können.
 
 [^27i-1]: Fassung gemäss Ziff. I der V vom 13. Dez. 2013, in Kraft seit 15. Jan. 2014 ([AS 2013 5365](https://fedlex.data.admin.ch/eli/oc/2013/858)).
+[^27i-2]: Fassung gemäss Ziff. I der V vom 25. Mai 2022, in Kraft seit 1. Juli 2022 ([AS 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
+[^27i-3]: Fassung gemäss Ziff. I der V vom 25. Mai 2022, in Kraft seit 1. Juli 2022 ([AS 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
+[^27i-4]: Fassung gemäss Ziff. I der V vom 25. Mai 2022, in Kraft seit 1. Juli 2022 ([AS 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
 
 #### Art. 27j
 
@@ -616,37 +624,76 @@ Ein Kanton ohne eigenes System kann:
 - a. seinen Stimmberechtigten ermöglichen, über ein durch einen andern Kanton betriebenes System elektronisch abzustimmen und zu wählen;
 - b. für die Durchführung der elektronischen Stimmabgabe ein privates Unternehmen beiziehen.
 
-<sup>2</sup> In diesen Fällen werden die Einzelheiten zwischen den beteiligten Kantonen, der Bundeskanzlei und gegebenenfalls dem privaten Unternehmen vertraglich geregelt.
+<sup>2</sup> …[^27kbis-2]
 
 [^27kbis-1]: Eingefügt durch Ziff. I der V vom 13. Jan. 2010 ([AS 2010 275](https://fedlex.data.admin.ch/eli/oc/2010/36)). Fassung gemäss Ziff. I der V vom 13. Dez. 2013, in Kraft seit 15. Jan. 2014 ([AS 2013 5365](https://fedlex.data.admin.ch/eli/oc/2013/858)).
+[^27kbis-2]: Aufgehoben durch Ziff. I der V vom 25. Mai 2022, mit Wirkung seit 1. Juli 2022 ([AS 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
 
 #### Art. 27l
 
-**Evaluation der Systeme und der Betriebsmodalitäten**[^27l-1]
+**Überprüfung der Systeme und der Betriebsmodalitäten**[^27l-1]
 
 <sup>1</sup>
 
-Eine unabhängige, von der Bundeskanzlei anerkannte externe Stelle muss:
+Eine Überprüfung des Systems und der Betriebsmodalitäten ist erforderlich:
 
-- a. bestätigen, dass die Sicherheitsanforderungen der Bundeskanzlei erfüllt sind;
-- b. überprüfen, ob die Sicherheitsvorkehrungen und das System der elektronischen Stimmabgabe auf dem neuesten Stand sind.
+- a. vor dem Einsatz eines neuen Systems;
+- b. bei jeder wesentlichen Änderung des Systems oder der Betriebsmodalitäten;
+- c. in regelmässigen zeitlichen Abständen.
 
-<sup>2</sup> Auf dieselbe Weise ist bei jeder wesentlichen Änderung des Systems oder der Betriebsmodalitäten zu verfahren.
+<sup>2</sup>
 
-<sup>3</sup> Die Bundeskanzlei legt die Voraussetzungen für die Anerkennung fest und regelt die Einzelheiten der Evaluation.
+Die Überprüfung erfolgt durch unabhängige Stellen. Diese überprüfen, ob:
 
-[^27l-1]: Fassung gemäss Ziff. I der V vom 13. Dez. 2013, in Kraft seit 15. Jan. 2014 ([AS 2013 5365](https://fedlex.data.admin.ch/eli/oc/2013/858)).
+- a. die Anforderungen der Bundeskanzlei erfüllt sind;
+- b. die Sicherheitsvorkehrungen und das System der elektronischen Stimmabgabe auf dem neuesten Stand sind.
+
+<sup>3</sup> Die Bundeskanzlei regelt die zeitlichen Abstände und die Einzelheiten der Überprüfung sowie die Anforderungen an die unabhängigen Stellen.
+
+<sup>4</sup> Sie legt fest, für welche Überprüfungen die Bundeskanzlei und für welche der Kanton zuständig ist.
+
+[^27l-1]: Fassung gemäss Ziff. I der V vom 25. Mai 2022, in Kraft seit 1. Juli 2022 ([AS 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
+
+#### Art. 27l<sup>bis</sup>
+
+**Öffentlichkeit der Informationen zum System und dessen Betrieb**[^27lbis-1]
+
+<sup>1</sup> Die Kantone, die Versuche durchführen, machen die Funktionsweise und die Sicherheitseigenschaften des Systems der elektronischen Stimmabgabe sowie die wesentlichen betrieblichen Abläufe öffentlich bekannt.
+
+<sup>2</sup>
+
+Sie stellen sicher, dass die folgenden Informationen offengelegt werden:
+
+- a. die Dokumentation zum System und dessen Betrieb;
+- b. der Quellcode der Software;
+- c. die Dokumentation des Entwicklungsprozesses;
+- d. ein Nachweis, dass die maschinenlesbaren Programme aus dem publizierten Quellcode der Software erstellt worden sind.
+
+<sup>3</sup> Vorbehalten bleiben die Bestimmungen des Öffentlichkeits- und des Datenschutzrechts.
+
+[^27lbis-1]: Eingefügt durch Ziff. I der V vom 25. Mai 2022, in Kraft seit 1. Juli 2022 ([AS 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
+
+#### Art. 27l<sup>ter</sup>
+
+**Einbezug der Öffentlichkeit**[^27lter-1]
+
+<sup>1</sup> Die Bundeskanzlei und die Kantone, die Versuche durchführen, sorgen für den Einbezug der Öffentlichkeit und der Fachkreise.
+
+<sup>2</sup> Insbesondere setzen die Kantone Anreize für die Mitwirkung der Öffentlichkeit und der Fachkreise bei der Verbesserung von Systemen der elektronischen Stimmabgabe.
+
+[^27lter-1]: Eingefügt durch Ziff. I der V vom 25. Mai 2022, in Kraft seit 1. Juli 2022 ([AS 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
 
 #### Art. 27m
 
-**Information der Stimmberechtigten**[^27m-1]
+**Information der Stimmberechtigten und Veröffentlichung der Ergebnisse der elektronischen Stimmabgabe**[^27m-1]
 
-<sup>1</sup> Die Kantone, die Versuche durchführen, informieren die Stimmberechtigten allgemein verständlich über Organisation, Technik und Verfahren der elektronischen Stimmabgabe. Sie zeigen, wie beim Auftreten von Problemen vorzugehen ist, und erklären, wie die Verifizierbarkeit funktioniert.
+<sup>1</sup> Die Kantone, die Versuche durchführen, informieren die Stimmberechtigten allgemein verständlich über die Organisation, die Technik und das Verfahren der elektronischen Stimmabgabe. Sie zeigen, wie beim Auftreten von Problemen vorzugehen ist, und erklären, wie die Verifizierbarkeit funktioniert.
 
-<sup>2</sup> Alle wichtigen behördlichen Vorgänge rund um die elektronische Stimmabgabe und die entsprechende Dokumentation müssen einer Vertretung der Stimmberechtigten zugänglich sein. Artikel 7 des Öffentlichkeitsgesetzes vom 17. Dezember 2004[^27m-2] bleibt vorbehalten.
+<sup>2</sup> Alle wichtigen behördlichen Vorgänge bei der Abwicklung eines Urnengangs mit der elektronischen Stimmabgabe und die entsprechende Dokumentation müssen einer Vertretung der Stimmberechtigten zugänglich sein.
 
-[^27m-1]: Fassung gemäss Ziff. I der V vom 13. Dez. 2013, in Kraft seit 15. Jan. 2014 ([AS 2013 5365](https://fedlex.data.admin.ch/eli/oc/2013/858)).
-[^27m-2]: [SR 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
+<sup>3</sup> Die Kantone veröffentlichen bei eidgenössischen Wahlen und Abstimmungen die Ergebnisse der über den elektronischen Stimmkanal abgegebenen Stimmen. Die Publikation hat so zu erfolgen, dass das Stimmgeheimnis gewahrt bleibt.
+
+[^27m-1]: Fassung gemäss Ziff. I der V vom 25. Mai 2022, in Kraft seit 1. Juli 2022 ([AS 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
 
 #### Art. 27n
 
@@ -662,15 +709,22 @@ Eine unabhängige, von der Bundeskanzlei anerkannte externe Stelle muss:
 
 #### Art. 27o
 
-**Wissenschaftliche Begleitung**[^27o-1]
+**Beizug unabhängiger Fachpersonen und wissenschaftliche Begleitung**[^27o-1]
 
-<sup>1</sup> Die Bundeskanzlei kann Daten zur Benützung der elektronischen Stimmabgabe erheben oder durch die Kantone erheben lassen und Versuche wissenschaftlich begleiten lassen.
+<sup>1</sup> Die Bundeskanzlei und die Kantone ziehen unabhängige Fachpersonen bei, die sie bei der Erfüllung ihrer Arbeiten unterstützen, soweit dies zweckmässig ist und insbesondere zur Stärkung des Vertrauens in die elektronische Stimmabgabe und der Sicherheit des elektronischen Stimmkanals beiträgt.
 
-<sup>2</sup> Sie sorgt insbesondere dafür, dass Versuche mit elektronischer Stimmabgabe auf ihre Wirksamkeit, namentlich die Entwicklung der Stimmbeteiligung und die Auswirkungen auf die Stimmgewohnheiten, untersucht werden, und gewährleistet die Kohärenz der Untersuchungen.
+<sup>2</sup>
 
-<sup>3</sup> Die Kantone übermitteln der Bundeskanzlei nach jedem Versuch anonyme statistische Angaben zur Verwendung der elektronischen Stimmabgabe. Führen sie weitergehende Begleiterhebungen durch, so informieren sie die Bundeskanzlei über diese Ergebnisse.
+Die Bundeskanzlei sorgt für eine wissenschaftliche Begleitung der Versuche und kann dazu:
 
-[^27o-1]: Fassung gemäss Ziff. I der V vom 13. Dez. 2013, in Kraft seit 15. Jan. 2014 ([AS 2013 5365](https://fedlex.data.admin.ch/eli/oc/2013/858)).
+- a Forschungsarbeiten in Auftrag geben, namentlich in sozialwissenschaftlichen und technischen Bereichen;
+- b. Daten zur Benützung der elektronischen Stimmabgabe erheben oder durch die Kantone erheben lassen.
+
+<sup>3</sup> Sie sorgt dafür, dass Versuche mit der elektronischen Stimmabgabe auf ihre Auswirkungen, namentlich auf die Entwicklung der Stimmbeteiligung und die Stimmgewohnheiten, untersucht werden.
+
+<sup>4</sup> Die Kantone übermitteln der Bundeskanzlei nach jedem Versuch anonyme statistische Angaben zur Verwendung der elektronischen Stimmabgabe. Führen sie weitergehende Begleiterhebungen durch, so informieren sie die Bundeskanzlei über diese Ergebnisse.
+
+[^27o-1]: Fassung gemäss Ziff. I der V vom 25. Mai 2022, in Kraft seit 1. Juli 2022 ([AS 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
 
 #### Art. 27p
 
@@ -718,7 +772,7 @@ Es werden aufgehoben:
 - 3\. der Bundesratsbeschluss vom 10. Dezember 1945[^29-3] betreffend die Beteiligung der Wehrmänner an eidgenössischen, kantonalen und kommunalen Wahlen und Abstimmungen.
 
 [^29-1]: [BS **1** 177]
-[^29-2]: [BS **1** 188; [AS 1971 912](https://fedlex.data.admin.ch/eli/oc/1971/912_912_912), [1975 901](https://fedlex.data.admin.ch/eli/oc/1975/901_901_901)]
+[^29-2]: [BS **1** 188; [AS 1971 912](https://fedlex.data.admin.ch/eli/oc/1971/912_912_912); [1975 901](https://fedlex.data.admin.ch/eli/oc/1975/901_901_901)]
 [^29-3]: [BS **1** 165; [AS 1976 1809](https://fedlex.data.admin.ch/eli/oc/1976/1809_1809_1809)Art. 16]
 
 #### Art. 30
@@ -727,7 +781,7 @@ Es werden aufgehoben:
 
 Diese Verordnung tritt am 1. Juli 1978 in Kraft
 
-## Schlussbestimmungen der Änderung vom 26. Februar 1997****
+## Schlussbestimmungen der Änderung vom 26. Februar 1997
 
 [^u1-1]
 
@@ -759,7 +813,7 @@ Oggetto
 <tr><td colspan="6"></td><td colspan="4">Totale</td><td colspan="6"></td></tr>
 </table>
 
-Anhang 1b*[^t-2]*
+Anhang 1b[^t-2]
 
 (Art. 4 Abs. 1)
 
@@ -787,7 +841,9 @@ Oggetto
 
 [^t-2]: Fassung gemäss Ziff. II der V vom 26. Febr. 1997, in Kraft seit 1. April 1997 ([AS 1997 761](https://fedlex.data.admin.ch/eli/oc/1997/761_761_761)).
 
-Anhang 2*[^t-3]*
+Anhang 2[^t-3]
+
+(Art. 8 Abs. 1, 12 Abs. 1 und 14 Abs. 2)
 
 <table>
 <tr><td>Formular</td><td>**1**</td><td>Gemeinde</td><td>Wahlkreis, Kanton</td><td>Wahltag</td></tr>
@@ -834,7 +890,7 @@ Formular 1 rechter Teil / Formule 1 moitié droite / Modulo 1 parte destra
 <tr><td colspan="6"></td><td>10</td><td colspan="2">16</td><td>17</td><td>23</td><td colspan="3">24</td><td colspan="2">30</td><td colspan="3">31-32</td></tr>
 </table>
 
-**Kandidaten- und Parteistimmen/Suffrages nominatifs et de parti/ Suffragi personali e di partito**
+**Kandidaten- und Parteistimmen/Suffrages nominatifs et de parti/** **Suffragi personali e di partito**
 
 <table>
 <tr><td>Kandidaten – Candidats – Candidati Art der Stimmen – Genre de suffrages – Genere dei suffragi</td><td colspan="7">Stimmen von den unveränderten Wahlzetteln Suffrages des bulletins non modifiés Suffragi delle schede invariate</td><td colspan="7">Stimmen von den veränderten Wahlzetteln und Wahlzetteln ohne Parteibezeichnung Suffrages des bulletins modifiés et des bulletins sans dénomination de parti Suffragi delle schede variate e delle schede senza intestazione (Form. 3b)</td><td colspan="7">Total Totale</td><td></td></tr>
@@ -896,7 +952,7 @@ Formular 2 Rückseite / Formule 2 verso / Modulo 2 retro
 </table>
 
 <table>
-<tr><td>Zählbogen Nr. Feuille de dépouillement N<sup>o</sup> Foglio di conteggio N.</td><td></td><td></td><td>**Erneuerungswahl von Election pour le renouvellement de Elezione per il rinnovo dei**</td><td></td><td>**Mitgliedern des Nationalrates membres du Conseil national membri del Consiglio nazionale**</td><td>**Liste Nr./N****<sup>o</sup>** **Lista N.**</td><td></td></tr>
+<tr><td>Zählbogen Nr. Feuille de dépouillement N<sup>o</sup> Foglio di conteggio N.</td><td></td><td></td><td>**Erneuerungswahl von** **Election pour le renouvellement de** **Elezione per il rinnovo dei**</td><td></td><td>**Mitgliedern des Nationalrates** **membres du Conseil national** **membri del Consiglio nazionale**</td><td>**Liste Nr./N****<sup>o</sup>** **Lista N.**</td><td></td></tr>
 </table>
 
 <table>
@@ -926,7 +982,7 @@ Die Richtigkeit der Auszählung bezeugen die Stimmenzähler: Les scrutateurs cer
 </table>
 
 <table>
-<tr><td>Zusammenzug der Zählbogen Récapitulation des feuilles de dépouillement Prospetto riassuntivo dei fogli di conteggio</td><td>**Erneuerungswahl von Election pour le renouvellement de Elezione per il rinnovo dei**</td><td></td><td>**Mitgliedern des Nationalrates membres du Conseil national membri del Consiglio nazionale**</td><td>**Liste Nr./N****<sup>o</sup>** **Lista N.**</td><td></td></tr>
+<tr><td>Zusammenzug der Zählbogen Récapitulation des feuilles de dépouillement Prospetto riassuntivo dei fogli di conteggio</td><td>**Erneuerungswahl von** **Election pour le renouvellement de** **Elezione per il rinnovo dei**</td><td></td><td>**Mitgliedern des Nationalrates** **membres du Conseil national** **membri del Consiglio nazionale**</td><td>**Liste Nr./N****<sup>o</sup>** **Lista N.**</td><td></td></tr>
 </table>
 
 <table>
@@ -994,7 +1050,7 @@ Die Richtigkeit der Auszählung bezeugen die Stimmenzähler: Les scrutateurs cer
 </table>
 
 <table>
-<tr><td>Zusammenzug aller Listen. Récapitulation de toutes les listes Prospetto riassuntivo di tutte le liste</td><td>**Erneuerungswahl von Election pour le renouvellement de Elezione per il rinnovo dei**</td><td></td><td>**Mitgliedern des Nationalrates membres du Conseil national membri del Consiglio nazionale**</td><td>Alle Listen Ensemble des listes Tutte le liste</td></tr>
+<tr><td>Zusammenzug aller Listen. Récapitulation de toutes les listes Prospetto riassuntivo di tutte le liste</td><td>**Erneuerungswahl von** **Election pour le renouvellement de** **Elezione per il rinnovo dei**</td><td></td><td>**Mitgliedern des Nationalrates** **membres du Conseil national** **membri del Consiglio nazionale**</td><td>Alle Listen Ensemble des listes Tutte le liste</td></tr>
 </table>
 
 <table>
@@ -1064,7 +1120,7 @@ Die Richtigkeit der Auszählung bezeugen die Stimmenzähler: Les scrutateurs cer
 
 Wahlkreis, Kanton Arrondissement électoral, canton Circondario elettorale, cantone
 
-**Protokoll Procès-verbal Processo verbale**
+**Protokoll** **Procès-verbal** **Processo verbale**
 
 <table>
 <tr><td>über die Erneuerungswahl von de l’élection pour le renouvellement de dell’elezione per il rinnovo dei</td><td></td><td>Mitgliedern des Nationalrates membres du Conseil national membri del Consiglio nazionale</td></tr>
@@ -1296,7 +1352,7 @@ Bemerkungen/Remarques/Osservazioni
 <tr><td>Formular Formule Modulo</td><td>**5a**</td><td colspan="2"></td><td>Einlagebogen Feuille intercalaire Foglio intercalare</td><td>**I**</td></tr>
 </table>
 
-**B. Verteilung der Sitze auf die einzelnen Listen oder Listengruppen bei verbundenen Listen**
+**B.** **Verteilung der Sitze auf die einzelnen Listen oder Listengruppen bei verbundenen Listen**
 
 **Répartition des sièges entre les différentes listes ou groupes de listes, s’il s’agit de listes conjointes**
 
@@ -1424,7 +1480,7 @@ La lista no ……, il gruppo di liste ……, ha il quoziente maggiore; essa/o 
 
 *Formular 5a Seite 3 oben / Formule 5a page 3 en haut / Modulo 5a pagina 3 in alto*
 
-**C. Verteilung der Sitze innerhalb der verbundenen Listen**
+**C.** **Verteilung der Sitze innerhalb der verbundenen Listen**
 
 **Répartition des sièges entre les listes conjointes**
 
@@ -1773,59 +1829,60 @@ Bemerkungen/Remarques/Osservazioni:
 <tr><td>Certificano l’esattezza del presente processo verbale</td><td>Per l’Ufficio elettorale cantonale:</td></tr>
 </table>
 
-[^t-3]: Bereinigt gemäss Ziff. I der V vom 27. Sept. 1982 ([AS 1982 1787](https://fedlex.data.admin.ch/eli/oc/1982/1787_1787_1787)), 9. Juni 1986 ([AS 1986 1059](https://fedlex.data.admin.ch/eli/oc/1986/1059_1059_1059)) und Ziff. II der V vom 14. Juni 2002, in Kraft seit 1. Aug. 2002 ([AS 2002 1755](https://fedlex.data.admin.ch/eli/oc/2002/262)).
+[^t-3]: Bereinigt gemäss Ziff. I der V vom 27. Sept. 1982 ([AS 1982 1787](https://fedlex.data.admin.ch/eli/oc/1982/1787_1787_1787)), vom 9. Juni 1986 ([AS 1986 1059](https://fedlex.data.admin.ch/eli/oc/1986/1059_1059_1059)), Ziff. II der V vom 14. Juni 2002 ([AS 2002 1755](https://fedlex.data.admin.ch/eli/oc/2002/262)) und Ziff. II Abs. 1 der V vom 25. Mai 2022, in Kraft seit 1. Juli 2022 ([AS 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
 
-Anhang 3a*[^t-4]*
+Anhang 3a[^t-4]
+
+(Art. 8*b* Abs. 1)
 
 <table>
-<tr><td>Kanton/Canton/Cantone</td><td></td><td></td><td>Anzahl Nationalratssitze/Nombre de sièges au Conseil national/Numero dei seggi</td><td colspan="2"></td></tr>
-<tr><td colspan="5">Gesamterneuerungswahl des Nationalrates vom/Renouvellement intégral du Conseil national du/Rinnovo integrale del Consiglio nazionale del</td><td></td></tr>
+<tr><td colspan="3">Kanton/Canton/Cantone</td><td></td><td></td><td colspan="3">Anzahl Nationalratssitze/Nombre de sièges au Conseil national/ Numero dei seggi nel Consiglio nazionale</td><td colspan="4"></td></tr>
+<tr><td colspan="10">Gesamterneuerungswahl des Nationalrates vom/Renouvellement intégral du Conseil national du/Rinnovo integrale del Consiglio nazionale del</td><td colspan="2"></td></tr>
+<tr><td>A</td><td>1.</td><td colspan="5">Bezeichnung des Wahlvorschlags/Dénomination de la liste de candidats/Designazione della proposta di candidatura:</td><td colspan="5"></td></tr>
+<tr><td></td><td>2.</td><td colspan="4">Evtl. **Präzisierung** nach Alter, Geschlecht, Region oder Parteiflügel: Le cas échéant, **adjonction** de l’âge, du sexe, de la région ou de l’aile d’appartenance: Ev. **specificazione** di età, sesso, regione o appartenenza di un gruppo:</td><td colspan="6"></td></tr>
+<tr><td></td><td>3.</td><td colspan="7">**Listennummer** (wird vom Kanton zugeteilt)/**Numéro de la liste** (attribué par le canton)/**Numero della lista** (assegnato dal Cantone):</td><td colspan="3"></td></tr>
+<tr><td>B</td><td colspan="10">Kandidaturen/Candidatures/Candidatura</td></tr>
 </table>
 
 <table>
-<tr><td>**A**</td><td>1.</td><td colspan="2">Bezeichnung des Wahlvorschlags/Dénomination de la liste de candidats/Designazione della proposta:</td><td colspan="2"></td></tr>
-<tr><td></td><td>2.</td><td>Evtl. **Präzisierung** nach Alter, Geschlecht, Region oder Parteiflügel: Le cas échéant, **adjonction** de l’âge, du sexe, de la région ou de l’aile d’appartenance: Ev. **specificazione** di sesso, appartenenza di un gruppo, regione o età:</td><td colspan="3"></td></tr>
-<tr><td></td><td>3.</td><td colspan="3">**Listennummer** (wird vom Kanton zugeteilt)/**Numéro de la liste** (attribué par le canton)/**Numero della lista** (assegnato dal Cantone):</td><td></td></tr>
-<tr><td>B</td><td colspan="5">Kandidaturen/Candidatures/Candidatura</td></tr>
+<tr><th>Nr.</th><th>Amtli-che(r) Name(n)</th><th>Amtliche(r) Vorname(n)</th><th>Name, unter dem die Person politisch oder im Alltag bekannt ist</th><th>Vorname, unter dem die Person politisch oder im Alltag bekannt ist</th><th>Geschlecht</th><th>Geburtsdatum (Tag/Monat/ Jahr)</th><th>Beruf</th><th>Strasse</th><th>Nr.</th><th>PLZ</th><th>Wohnort</th><th>Heimatorte inkl. Kanton</th><th>Unterschrift</th><th>Bemerkungen\*</th><th>Kontrolle (leer lassen)</th></tr>
+<tr><th>N<sup>o</sup></th><th>Nom(s) officiel(s)</th><th>Prénom(s) officiel(s)</th><th>Nom usuel</th><th>Prénom usuel</th><th>Sexe</th><th>Date de naissance (jour/ mois/ année)</th><th>Profession</th><th>Rue</th><th>N<sup>o</sup></th><th>NPA</th><th>Lieu de domicile</th><th>Lieux d’origine, y compris canton</th><th>Signature</th><th>Observations\*</th><th>Contrôle (laisser en blanc)</th></tr>
+<tr><th>N.</th><th>Cognome/i ufficiale/i</th><th>Nome/i ufficiale/i</th><th>Cognome, con il quale la persona à politicamente o comunemente conosciuta</th><th>Nome, con il quale la persona è politicamente o comunemente conosciuta</th><th>Sesso</th><th>Data di nascita (giorno/mese/ anno)</th><th>Professione</th><th>Via</th><th>N.</th><th>NPA</th><th>Domicilio</th><th>Luoghi d’origine, incluso Cantone</th><th>Firma</th><th>Osservazioni\*</th><th>Controllo (lasciare in bianco)</th></tr>
+</table>
+
+...
+
+<table>
+<tr><td>\* Unter dieser Rubrik sind eine Person, die den Wahlvorschlag vertritt, sowie deren Stellvertretung zu bezeichnen. Diese sind gegenüber den zuständigen Amtsstellen von Kanton und Bund berechtigt und verpflichtet, allenfalls nötige Erklärungen zur Bereinigung von Anständen oder Unklarheiten im Namen aller Unterzeichnenden rechtsverbindlich abzugeben (BPR Art. 25 Abs. 2). Wo eine klare Bezeichnung fehlt, kommt diese Aufgabe der erst- und der zweitunterzeichnenden Person zu.</td></tr>
+<tr><td>\* Mentionner sous cette rubrique le nom du mandataire des signataires et celui de son suppléant. Ces deux personnes ont, vis-à-vis de l’office cantonal compétent et de la Confédération, le droit et l’obligation de donner s’il le faut, au nom des signataires de la liste et de manière à les lier juridiquement, toutes les indications permettant d’éliminer les difficultés qui pourraient se produire (art. 25, 2*e* al., LDP). Si ces mentions font défaut, cette tâche incombe au premier et au deuxième signataires.</td></tr>
+<tr><td>\* In questa rubrica devono essere designati il rappresentante e il suo sostituto che davanti agli uffici cantonali e federali competenti hanno il diritto e il dovere di fare validamente, in nome dei firmatari, le dichiarazioni necessarie a togliere le difficoltà che potessero sorgere (art. 25 cpv. 2 LDP). In caso di non chiara indicazione, per legge si riterrà rappresentante il primo firmatario e sostituto il secondo.</td></tr>
+</table>
+
+Anhang 3a Rückseite / Annexe 3a verso / Allegato 3a retro
+
+<table>
+<tr><td>C</td><td>(Weitere) **Unterzeichnerinnen und Unterzeichner des Wahlvorschlags** (Autres) **signataires de la liste de candidats** (Altri) **firmatari della proposta di candidature**</td></tr>
 </table>
 
 <table>
-<tr><th>Nr. N° No.</th><th>Name Nom Cognome</th><th>Vorname Prénom Nome</th><th>Ge- schlecht Sexe Sesso</th><th>Geburtsdatum (Tag/Monat/Jahr)</th><th>Beruf Profession Professione</th><th>Strasse Rue Via</th><th>Nr. N° No.</th><th>PLZ NPA NPA</th><th>Wohnort Lieu de domicile Domicilio</th><th>PLZ NPA NPA</th><th>Heimatort Lieu d’origine Luogo di attinenza</th><th>Unterschrift Signature Firma</th><th>Bemerkungen \* Remarques \* Osservazioni \*</th><th>Kontrolle (leer lassen)</th></tr>
-<tr><th></th><th></th><th></th><th></th><th>Date de naissance (jour/mois/année)</th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th>Contrôle (laisser en blanc)</th></tr>
-<tr><th></th><th></th><th></th><th></th><th>Data di nascita (giorno/mese/anno)</th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th>Controllo (lasciare in bianco)</th></tr>
+<tr><th>Nr.</th><th>Name</th><th>Vorname</th><th>Geburtsdatum (Tag/Monat/Jahr)</th><th>Strasse</th><th>Nr.</th><th>PLZ</th><th>Wohnort</th><th>Unterschrift</th><th>Bemerkungen\*</th><th>Kontrolle (leer lassen)</th></tr>
+<tr><th>N<sup>o</sup></th><th>Nom</th><th>Prénom</th><th>Date de naissance (jour/mois/année)</th><th>Rue</th><th>N<sup>o</sup></th><th>NPA</th><th>Lieu de domicile</th><th>Signature</th><th>Observations\*</th><th>Contrôle (laisser en blanc)</th></tr>
+<tr><th>N.</th><th>Cognome</th><th>Nome</th><th>Data di nascita (giorno/mese/anno)</th><th>Via</th><th>N.</th><th>NPA</th><th>Domicilio</th><th>Firma</th><th>Osservazioni\*</th><th>Controllo (lasciare in bianco)</th></tr>
 </table>
 
-…
+...
 
 <table>
-<tr><td>\*</td><td>Unter dieser Rubrik sind eine Person, die den Wahlvorschlag vertritt, sowie deren Stellvertretung zu bezeichnen. Diese sind gegenüber den zuständigen Amtsstellen von Kanton und Bund berechtigt und verpflichtet, allenfalls nötige Erklärungen zur Bereinigung von Anständen oder Unklarheiten im Namen aller Unterzeichnenden rechtsverbindlich abzugeben (BPR Art. 25 Abs. 2). Wo eine klare Bezeichnung fehlt, kommt diese Aufgabe der erst- und der zweitunterzeichnenden Person zu.</td></tr>
-<tr><td>\*</td><td>Mentionner sous cette rubrique le nom du mandataire des signataires et celui de son suppléant. Ces deux personnes ont, vis-à-vis de l’office cantonal compétent et de la Confédération, le droit et l’obligation de donner s’il le faut, au nom des signataires de la liste et de manière à les lier juridiquement, toutes les indications permettant d’éliminer les difficultés qui pourraient se produire (art. 25, 2e al., LDP). Si ces mentions font défaut, cette tâche incombe au premier et au deuxième signataires.</td></tr>
-<tr><td>\*</td><td>In questa rubrica devono essere designati il rappresentante e il suo sostituto che davanti agli uffici cantonali e federali competenti hanno il diritto e il dovere di fare validamente, in nome dei firmatari, le dichiarazioni necessarie a togliere le difficoltà che potessero sorgere (art. 25 cpv. 2 LDP). In caso di non chiara indicazione, per legge si riterrà rappresentante il primo firmatario e sostituto il secondo.</td></tr>
+<tr><td>\* Falls sich die Partei im Parteiregister der Bundeskanzlei hat eintragen lassen, ist unter der Rubrik «Bemerkungen» zur Überprüfung die präzise Fundstelle im Internet anzugeben.</td></tr>
+<tr><td>\* Le parti politique qui s’est fait enregistrer dans le registre des partis de la Chancellerie fédérale indiquera ici son adresse Internet précise pour vérification.</td></tr>
+<tr><td>\* Se il partito si è fatto iscrivere nel registro dei partiti della Cancelleria federale, nella rubrica «Osservazioni» deve essere indicato per verifica il suo indirizzo Internet esatto.</td></tr>
 </table>
 
-*Anhang 3a Rückseite / Annexe 3a verso / Allegato 3a retro*
+[^t-4]: Eingefügt durch Ziff. I der V vom 19. Okt. 1994 ([AS 1994 2423](https://fedlex.data.admin.ch/eli/oc/1994/2423_2423_2423)). Fassung gemäss Ziff. II Abs. 2 der V vom 25. Mai 2022, in Kraft seit 1. Juli 2022 ([AS 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
 
-<table>
-<tr><td>**C**</td><td>(Weitere) **Unterzeichnerinnen und Unterzeichner des Wahlvorschlags** (Autres) **signataires de la liste** (Altri) **firmatari della proposta**</td></tr>
-</table>
+Anhang 3b[^t-5]
 
-<table>
-<tr><th>Nr.</th><th>Name</th><th>Vorname</th><th>Geburtsdatum (Tag/Monat/Jahr)</th><th>Strasse</th><th>Nr.</th><th>PLZ</th><th>Wohnort</th><th>Unterschrift</th><th>Bemerkungen \*</th><th>Kontrolle (leer lassen)</th></tr>
-<tr><th>N°</th><th>Nom</th><th>Prénom</th><th>Date de naissance (jour/mois/année)</th><th>Rue</th><th>N°</th><th>NPA</th><th>Lieu de domicile</th><th>Signature</th><th>Remarques \*</th><th>Contrôle (laisser en blanc)</th></tr>
-<tr><th>No.</th><th>Cognome</th><th>Nome</th><th>Data di nascita (giorno/mese/anno)</th><th>Via</th><th>No.</th><th>NPA</th><th>Domicilio</th><th>Firma</th><th>Osservazioni \*</th><th>Controllo (lasciare in bianco)</th></tr>
-</table>
-
-…
-
-<table>
-<tr><td>\*</td><td>Falls sich die Partei im Parteiregister der Bundeskanzlei hat eintragen lassen, ist unter der Rubrik «Bemerkungen» zur Überprüfung die präzise Fundstelle im Internet anzugeben. Falls die Partei im Kanton einen einzigen Wahlvorschlag einreicht, genügen in diesem Falle die Unterschriften jener Personen, welche das Präsidium und das Sekretariat der Kantonalpartei ausüben; das kantonale Unterschriftenquorum entfällt.</td></tr>
-<tr><td>\*</td><td>Le parti politique qui s’est fait enregistrer dans le registre des partis de la Chancellerie fédérale indiquera ici son adresse Internet précise pour vérification. Si le parti ne dépose qu’une seule liste de candidats dans le canton, les signatures du président et du secrétaire du parti cantonal suffiront. Le quorum cantonal sera donc sans objet.</td></tr>
-<tr><td>\*</td><td>Se il partito si è fatto iscrivere nel registro dei partiti della Cancelleria federale, nella rubrica «Osservazioni» deve essere indicato per verifica il suo indirizzo Internet esatto. Se il partito presenta inoltre una sola proposta nel Cantone, basta la firma delle persone preposte alla presidenza e alla segreteria del partito cantonale; l’obbligo di far firmare la proposta da un numero minimo di elettori con domicilio politico nel circondario elettorale decade.</td></tr>
-</table>
-
-[^t-4]: Eingefügt durch Ziff. I der V vom 19. Okt. 1994 ([AS 1994 2423](https://fedlex.data.admin.ch/eli/oc/1994/2423_2423_2423)). Bereinigt durch Ziff. II der V vom 20. Sept. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3200](https://fedlex.data.admin.ch/eli/oc/2002/479), [2003 234](https://fedlex.data.admin.ch/eli/oc/2003/33)).
-
-Anhang 3b*[^t-5]*
+(Art. 8*e* Abs. 1)
 
 <table>
 <tr><td>Kanton Canton Cantone</td><td></td><td></td><td>Anzahl Nationalratssitze Nombre de sièges au Conseil national Numero dei seggi</td><td></td></tr>
@@ -1856,13 +1913,13 @@ I rappresentanti sottoscritti dichiarano congiunte le seguenti liste per l’ele
 
 <table>
 <tr><td>\*</td><td>Gegebenenfalls ist unter dieser Rubrik zu vermerken, mit welcher oder welchen anderen Liste(n) die eigene Liste unterverbunden ist. Eine solche Unterlistenverbindung ist nur möglich unter Listen *gleichen Namens*, die sich einzig durch eine Präzisierung hinsichtlich Region, Geschlecht, Alter oder Flügel einer Gruppierung voneinander unterscheiden.</td></tr>
-<tr><td>\*</td><td>Le cas échéant, mentionner sous cette rubrique avec quelle(s) autre(s) liste(s) la présente liste est sous-apparentée. Le sous-apparentement n’est possible qu’entre listes *de même dénomination* qui ne se différencient les unes des autres que par l’adjonction de la région, du sexe, de l’âge ou de l’aile d’appartenance du groupement.</td></tr>
-<tr><td>\*</td><td>All’occorrenza, in questa rubrica, vanno indicate eventuali sotto-congiunzioni della presente lista. La sotto-congiunzione è permessa soltanto fra liste di *uguale denominaz**i**one*, differenziate unicamente da aggiunte intese a specificare il sesso, l’appartenenza ad un gruppo, la regione o l’età dei candidati.</td></tr>
+<tr><td>\*</td><td>Le cas échéant, mentionner sous cette rubrique avec quelle(s) autre(s) liste(s) la présente liste est sous-apparentée. Le sous-apparentement n’est possible qu’entre listes *de même* *dénomination* qui ne se différencient les unes des autres que par l’adjonction de la région, du sexe, de l’âge ou de l’aile d’appartenance du groupement.</td></tr>
+<tr><td>\*</td><td>All’occorrenza, in questa rubrica, vanno indicate eventuali sotto-congiunzioni della presente lista. La sotto-congiunzione è permessa soltanto fra liste di *uguale denominazione*, differenziate unicamente da aggiunte intese a specificare il sesso, l’appartenenza ad un gruppo, la regione o l’età dei candidati.</td></tr>
 </table>
 
-[^t-5]: Eingefügt durch Ziff. I der V vom 19. Okt. 1994, in Kraft seit 15. Nov. 1994 ([AS 1994 2423](https://fedlex.data.admin.ch/eli/oc/1994/2423_2423_2423)).
+[^t-5]: Eingefügt durch Ziff. I der V vom 19. Okt. 1994 ([AS 1994 2423](https://fedlex.data.admin.ch/eli/oc/1994/2423_2423_2423)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 25. Mai 2022, in Kraft seit 1. Juli 2022 ([AS 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
 
-Anhang 4a*[^t-6]*
+Anhang 4a[^t-6]
 
 (Art. 25 Abs. 1<sup>bis</sup> Bst. a)
 
@@ -1894,7 +1951,7 @@ Da rispedire con le firme originali, al più tardi entro il ………… a: Canc
 
 [^t-6]: Ursprünglich Anhang 4. Eingefügt durch Ziff. II der V vom 26. Febr. 1997 ([AS 1997 761](https://fedlex.data.admin.ch/eli/oc/1997/761_761_761)). Fassung gemäss Ziff. I der V vom 13. Jan. 2010, in Kraft seit 1. Febr. 2010 ([AS 2010 275](https://fedlex.data.admin.ch/eli/oc/2010/36)).
 
-Anhang 4b*[^t-7]*
+Anhang 4b[^t-7]
 
 (Art. 25 Abs. 1<sup>bis</sup> Bst. b)
 
@@ -1904,8 +1961,8 @@ Eidgenössische Volksinitiative «…»/Initiative populaire fédérale «…»/
 
 Erklärung/Déclaration/Dichiarazione
 
-- **a.** **des bedingten Rückzugs zugunsten des indirekten Gegenvorschlags gemäss dem Bundesgesetz vom … über …/de retrait conditionnel en faveur du contre-projet ind****i****rect élaboré sous la forme de la loi fédérale du … sur …/di ritiro condizionato a favore del controprogetto indiretto secondo la legge federale del … …;** **o****der/ou/o**
-- **b.** **des unb****e****dingten Rückzugs/de retrait inconditionnel/di ritiro incondizionato**
+- **a.** **des bedingten Rückzugs zugunsten des indirekten Gegenvorschlags gemäss dem Bundesgesetz vom … über …/de retrait conditionnel en faveur du contre-projet indirect élaboré sous la forme de la loi fédérale du … sur …/di ritiro condizionato a favore del controprogetto indiretto secondo la legge federale del … …; oder/ou/o**
+- **b.** **des unbedingten Rückzugs/de retrait inconditionnel/di ritiro incondizionato**
 
 Die unterzeichneten stimmberechtigten Schweizer Bürgerinnen und Bürger sind Mitglieder des rückzugsberechtigten Urheberkomitees der eidgenössischen Volks-initiative «…» (vgl. BBl …) und haben davon Kenntnis genommen, dass die eidgenössischen Räte als indirekten Gegenvorschlag zur genannten Volksinitiative das Bundesgesetz vom … über … verabschiedet haben (vgl. BBl …). Sie erklären gestützt auf die Artikel 68 Absatz 1 Buchstaben c und e sowie 73 und 73*a* des Bun-desgesetzes vom 17. Dezember 1976 über die politischen Rechte (SR *161.1*) mit ihrer Unterschrift, dass sie die eidgenössische Volksinitiative «…» rechtsgültig, unwiderruflich und ohne jeden weiteren Vorbehalt wie folgt zurückziehen:
 

@@ -4,20 +4,20 @@ title: Ordinanza del 24 maggio 1978 sui diritti politici (ODP)
 short: ODP
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/712_712_712"
 language: it
-version: 2019-07-01
+version: 2022-07-01
 adopted: 1978-05-24
 in_force: 1978-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/712_712_712/20190701/it/xml/fedlex-data-admin-ch-eli-cc-1978-712_712_712-20190701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/712_712_712/20190701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/712_712_712/20220701/it/xml/fedlex-data-admin-ch-eli-cc-1978-712_712_712-20220701-it-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/712_712_712/20220701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sui diritti politici
 
-(ODP)**[^t-1]**
+(ODP)[^t-1]
 
-del 24 maggio 1978 (Stato 1° luglio 2019)
+del 24 maggio 1978 (Stato 1° luglio 2022)
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del 13 dic. 2013, in vigore dal 15 gen. 2014 ([RU 2013 5365](https://fedlex.data.admin.ch/eli/oc/2013/858)).
 
@@ -172,12 +172,13 @@ Il Governo cantonale emana le disposizioni necessarie per l’organizzazione e l
 
 **Termine per la presentazione delle proposte**[^8a-1]
 
-<sup>1</sup> Ogni Cantone comunica alla Cancelleria federale, entro il 1° marzo dell’anno delle elezioni, il lunedì che ha designato, tra il 1° agosto e il 30 settembre, come termine per la presentazione delle proposte di candidatura e se ha limitato a sette oppure a 14 giorni il termine per le modifiche.
+<sup>1</sup> Ogni Cantone comunica alla Cancelleria federale, entro il 1° marzo dell’anno delle elezioni, il lunedì che ha designato come termine per la presentazione delle proposte di candidatura e se ha limitato a sette oppure a 14 giorni il termine per le modifiche.[^8a-2]
 
-<sup>2</sup> I Cantoni che hanno diritto a un solo seggio al Consiglio nazionale e i cui ordinamenti non contemplano elezioni tacite non sono tenuti a effettuare alcuna comunicazione.[^8a-2]
+<sup>2</sup> I Cantoni che hanno diritto a un solo seggio al Consiglio nazionale e i cui ordinamenti non contemplano elezioni tacite non sono tenuti a effettuare alcuna comunicazione.[^8a-3]
 
 [^8a-1]: Introdotto dal n. I dell’O del 19 ott. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2423](https://fedlex.data.admin.ch/eli/oc/1994/2423_2423_2423)).
-[^8a-2]: Introdotto dal n. I dell’O del 26 feb. 1997, in vigore dal 1° apr. 1997 ([RU 1997 761](https://fedlex.data.admin.ch/eli/oc/1997/761_761_761)).
+[^8a-2]: Nuovo testo giusta il n. I dell’O del 25 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
+[^8a-3]: Introdotto dal n. I dell’O del 26 feb. 1997, in vigore dal 1° apr. 1997 ([RU 1997 761](https://fedlex.data.admin.ch/eli/oc/1997/761_761_761)).
 
 #### Art. 8b
 
@@ -213,14 +214,14 @@ Il Governo cantonale emana le disposizioni necessarie per l’organizzazione e l
 
 <sup>2</sup> Nel caso di candidature plurime, la Cancelleria federale considera quella della prima proposta ricevuta. …[^8d-3]
 
-<sup>3</sup> La Cancelleria federale notifica gli stralci al Cantone, per via elettronica o mediante telefax, entro 72 ore dal recapito delle proposte.[^8d-4]
+<sup>3</sup> La Cancelleria federale notifica gli stralci al Cantone, per via elettronica, entro 72 ore dal recapito delle proposte.[^8d-4]
 
 <sup>4</sup> Il Cantone trasmette alla Cancelleria federale una copia di ciascuna lista, entro 24 ore dalla scadenza del termine di appuramento. Specifica che la lista è appurata.
 
 [^8d-1]: Introdotto dal n. I dell’O del 19 ott. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2423](https://fedlex.data.admin.ch/eli/oc/1994/2423_2423_2423)).
 [^8d-2]: Nuovo testo giusta il n. I dell’O del 26 feb. 1997, in vigore dal 1° apr. 1997 ([RU 1997 761](https://fedlex.data.admin.ch/eli/oc/1997/761_761_761)).
 [^8d-3]: Per. abrogato dal n. IV 3 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
-[^8d-4]: Nuovo testo giusta il n. I dell’O del 20 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3200](https://fedlex.data.admin.ch/eli/oc/2002/479)).
+[^8d-4]: Nuovo testo giusta il n. I dell’O del 25 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
 
 #### Art. 8e
 
@@ -444,7 +445,7 @@ La sezione 4 della presente ordinanza si applica per analogia all’iniziativa p
 
 [^27-1]: Abrogato dal n. IV 3 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
-## Sezione 6*a*:**** Prove**** del voto elettronico
+## Sezione 6*a*: Prove del voto elettronico
 
 [^sec6a-1][^sec6a-2]
 
@@ -483,9 +484,10 @@ L’autorizzazione di principio è accordata se:
   - 4\. terzi non possano venire a conoscenza del contenuto di voti espressi per via elettronica (segreto del voto),
   - 5\. possa essere escluso qualsiasi abuso sistematico (scrutinio conforme alle norme);
 
-- b. la Cancelleria federale ha appurato, sulla base dei documenti o dei certificati prodotti, che il sistema di voto elettronico prescelto dal Cantone permette di svolgere le prove conformemente al diritto federale.
+- b.[^27b-2] la Cancelleria federale ha appurato che sono soddisfatte le condizioni per la concessione del nulla osta secondo l’articolo 27*e* capoverso 1<sup>bis</sup>.
 
 [^27b-1]: Nuovo testo giusta il n. I dell’O del 13 dic. 2013, in vigore dal 15 gen. 2014 ([RU 2013 5365](https://fedlex.data.admin.ch/eli/oc/2013/858)).
+[^27b-2]: Nuovo testo giusta il n. I dell’O del 25 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
 
 #### Art. 27c
 
@@ -501,9 +503,10 @@ La domanda di rilascio dell’autorizzazione di principio deve contenere:
 - d. la percentuale massima dell’elettorato che sarà coinvolto nelle prove;
 - e. se sono previste più prove, il numero di scrutini o la durata massima per cui è richiesta l’autorizzazione di principio.
 
-<sup>2</sup> La Cancelleria federale stabilisce quali documenti o certificati devono essere allegati alla domanda.
+<sup>2</sup> ...[^27c-2]
 
 [^27c-1]: Nuovo testo giusta il n. I dell’O del 13 dic. 2013, in vigore dal 15 gen. 2014 ([RU 2013 5365](https://fedlex.data.admin.ch/eli/oc/2013/858)).
+[^27c-2]: Abrogato dal n. I dell’O del 25 mag. 2022, con effetto dal 1° lug. 2022 ([RU 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
 
 #### Art. 27d
 
@@ -513,17 +516,20 @@ Il Consiglio federale stabilisce nell’autorizzazione di principio:
 
 - a. per quali scrutini federali o per quale durata massima è ammesso il voto elettronico;
 - b. in quale periodo è consentito il voto elettronico;
-- c. il territorio in cui i risultati degli scrutini svolti nell’ambito della prova hanno effetto giuridicamente vincolante.
+- c.[^27d-2] il territorio e la percentuale dell’elettorato per i quali è ammesso il voto elettronico.
 
 [^27d-1]: Nuovo testo giusta il n. I dell’O del 13 dic. 2013, in vigore dal 15 gen. 2014 ([RU 2013 5365](https://fedlex.data.admin.ch/eli/oc/2013/858)).
+[^27d-2]: Nuovo testo giusta il n. I dell’O del 25 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
 
 #### Art. 27e
 
 **Nulla osta della Cancelleria federale**[^27e-1]
 
-<sup>1</sup> Il Cantone cui è stata accordata l’autorizzazione di principio deve ottenere il nulla osta della Cancelleria federale per ogni scrutinio svolto con il voto elettronico. La Cancelleria federale stabilisce le condizioni cui è subordinata la concessione del nulla osta e il contenuto delle relative domande.
+<sup>1</sup> Il Cantone cui è stata accordata l’autorizzazione di principio deve ottenere il nulla osta della Cancelleria federale per ogni scrutinio svolto con il voto elettronico.[^27e-2]
 
-<sup>2</sup> Il nulla osta è concesso se il sistema scelto dal Cantone e le modalità d’esercizio soddisfano le condizioni stabilite dalla Cancelleria federale.
+<sup>1bis</sup> La Cancelleria federale stabilisce le condizioni cui è subordinata la concessione del nulla osta e in particolare i requisiti che il sistema di voto elettronico e il suo esercizio devono soddisfare.[^27e-3]
+
+<sup>2</sup> Il nulla osta è concesso se le condizioni di cui al capoverso 1<sup>bis</sup> sono soddisfatte.[^27e-4]
 
 <sup>3</sup> Se, esaminata una domanda, la Cancelleria federale giunge alla conclusione che le condizioni non sono soddisfatte, lo comunica al Cantone interessato motivando le proprie valutazioni.
 
@@ -532,6 +538,9 @@ Il Consiglio federale stabilisce nell’autorizzazione di principio:
 <sup>5</sup> Il voto elettronico nell’ambito di scrutini federali è ammesso soltanto in quanto nel territorio stabilito sia reso possibile per tutti gli oggetti e le elezioni previsti dallo scrutinio in questione.
 
 [^27e-1]: Nuovo testo giusta il n. I dell’O del 13 dic. 2013, in vigore dal 15 gen. 2014 ([RU 2013 5365](https://fedlex.data.admin.ch/eli/oc/2013/858)).
+[^27e-2]: Nuovo testo giusta il n. I dell’O del 25 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
+[^27e-3]: Introdotto dal n. I dell’O del 25 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
+[^27e-4]: Nuovo testo giusta il n. I dell’O del 25 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
 
 #### Art. 27e<sup>bis</sup>
 
@@ -543,17 +552,13 @@ Il Consiglio federale stabilisce nell’autorizzazione di principio:
 
 **Limiti**[^27f-1]
 
-<sup>1</sup>
+<sup>1</sup> Il 30 per cento al massimo dell’elettorato cantonale è ammesso a votare per via elettronica. Non può tuttavia essere superato il limite del 10 per cento dell’elettorato svizzero.
 
-La Cancelleria federale stabilisce i requisiti che il sistema di voto elettronico e il suo esercizio devono soddisfare affinché:
+<sup>2</sup> La Cancelleria federale verifica periodicamente se l’entità dei limiti di cui al capoverso 1 va adeguata in considerazione degli sviluppi intervenuti nell’ambito del voto elettronico.
 
-- a. il 30 per cento al massimo dell’elettorato cantonale possa essere ammesso a votare per via elettronica; non può tuttavia essere superato il limite del 10 per cento dell’elettorato svizzero;
-- b. il 50 per cento al massimo dell’elettorato cantonale possa essere ammesso a votare per via elettronica; non può tuttavia essere superato il limite del 30 per cento dell’elettorato svizzero;
-- c. l’intero elettorato cantonale possa essere ammesso a votare per via elettronica.
+<sup>3</sup> Nel verificare il rispetto dei limiti non si tiene conto degli Svizzeri all’estero aventi diritto di voto né degli aventi diritto di voto che a causa della loro disabilità non possono esprimere il proprio voto autonomamente.
 
-<sup>2</sup> Nel verificare il rispetto dei limiti non si tiene conto degli Svizzeri all’estero aventi diritto di voto.
-
-[^27f-1]: Nuovo testo giusta il n. I dell’O del 13 dic. 2013, in vigore dal 15 gen. 2014 ([RU 2013 5365](https://fedlex.data.admin.ch/eli/oc/2013/858)).
+[^27f-1]: Nuovo testo giusta il n. I dell’O del 25 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
 
 #### Art. 27g
 
@@ -577,17 +582,20 @@ La Cancelleria federale stabilisce i requisiti che il sistema di voto elettronic
 
 #### Art. 27i
 
-**Controllo della plausibilità e verificabilità del voto elettronico**[^27i-1]
+**Verificabilità e controllo della plausibilità del voto elettronico[^27i-2]**[^27i-1]
 
-<sup>1</sup> I Cantoni che coinvolgono soltanto una parte dell’elettorato in una prova devono poter controllare la plausibilità dei risultati.
+<sup>1</sup> I Cantoni provvedono affinché siano verificati la corretta elaborazione dei voti e la correttezza del risultato del voto elettronico.[^27i-3]
 
-<sup>2</sup> I Cantoni che coinvolgono l’intero elettorato in una prova devono garantire che il regolare svolgimento del voto per via elettronica e la correttezza del suo risultato possano essere verificati.
+<sup>2</sup> I Cantoni controllano la plausibilità dei risultati del voto elettronico.[^27i-4]
 
 <sup>3</sup> La Cancelleria federale disciplina la verificabilità e il controllo della plausibilità del voto.
 
 <sup>4</sup> Se in sede di verifica o di controllo della plausibilità si rilevano irregolarità, deve essere possibile determinare il numero dei voti viziati o quantomeno stimare l’incidenza di tali irregolarità sul risultato del voto.
 
 [^27i-1]: Nuovo testo giusta il n. I dell’O del 13 dic. 2013, in vigore dal 15 gen. 2014 ([RU 2013 5365](https://fedlex.data.admin.ch/eli/oc/2013/858)).
+[^27i-2]: Nuovo testo giusta il n. I dell’O del 25 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
+[^27i-3]: Nuovo testo giusta il n. I dell’O del 25 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
+[^27i-4]: Nuovo testo giusta il n. I dell’O del 25 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
 
 #### Art. 27j
 
@@ -616,37 +624,76 @@ Un Cantone privo di un proprio sistema di voto elettronico può:
 - a. consentire al proprio elettorato di partecipare per via elettronica alle votazioni e alle elezioni tramite un sistema gestito da un altro Cantone;
 - b. far capo a un’impresa privata per lo svolgimento del voto elettronico.
 
-<sup>2</sup> In tali casi i Cantoni interessati, la Cancelleria federale ed eventualmente l’impresa in questione disciplinano i dettagli in un contratto.
+<sup>2</sup> ...[^27kbis-2]
 
 [^27kbis-1]: Introdotto dal n. I dell’O del 13 gen. 2010 ([RU 2010 275](https://fedlex.data.admin.ch/eli/oc/2010/36)). Nuovo testo giusta il n. I dell’O del 13 dic. 2013, in vigore dal 15 gen. 2014 ([RU 2013 5365](https://fedlex.data.admin.ch/eli/oc/2013/858)).
+[^27kbis-2]: Abrogato dal n. I dell’O del 25 mag. 2022, con effetto dal 1° lug. 2022 ([RU 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
 
 #### Art. 27l
 
-**Valutazione dei sistemi e delle modalità d’esercizio**[^27l-1]
+**Verifica dei sistemi e delle modalità d’esercizio**[^27l-1]
 
 <sup>1</sup>
 
-Un ente esterno indipendente, riconosciuto dalla Cancelleria federale, deve:
+Una verifica del sistema e delle modalità d’esercizio è necessaria:
 
-- a. confermare che i requisiti in materia di sicurezza della Cancelleria federale sono soddisfatti;
-- b. verificare che le misure di sicurezza e il sistema di voto elettronico siano conformi allo stato della tecnica.
+- a. prima dell’impiego di un nuovo sistema;
+- b. a ogni modifica sostanziale del sistema o delle modalità d’esercizio;
+- c. a scadenze regolari.
 
-<sup>2</sup> Ogni modifica sostanziale del sistema o delle modalità d’esercizio va sottoposta alla medesima procedura.
+<sup>2</sup>
 
-<sup>3</sup> La Cancelleria federale stabilisce le condizioni per il riconoscimento e disciplina i dettagli della valutazione.
+La verifica è eseguita da enti indipendenti. Questi verificano che:
 
-[^27l-1]: Nuovo testo giusta il n. I dell’O del 13 dic. 2013, in vigore dal 15 gen. 2014 ([RU 2013 5365](https://fedlex.data.admin.ch/eli/oc/2013/858)).
+- a. i requisiti della Cancelleria federale siano soddisfatti;
+- b. le misure di sicurezza e il sistema di voto elettronico siano conformi allo stato della tecnica.
+
+<sup>3</sup> La Cancelleria federale disciplina le scadenze e i dettagli della verifica e i requisiti posti agli enti indipendenti.
+
+<sup>4</sup> Stabilisce per quali verifiche è competente la Cancelleria federale e per quali il Cantone.
+
+[^27l-1]: Nuovo testo giusta il n. I dell’O del 25 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
+
+#### Art. 27l<sup>bis</sup>
+
+**Pubblicità delle informazioni sul sistema e il suo esercizio**[^27lbis-1]
+
+<sup>1</sup> I Cantoni che svolgono prove rendono pubblici il funzionamento e le caratteristiche di sicurezza del sistema di voto elettronico e i suoi principali processi operativi.
+
+<sup>2</sup>
+
+Essi provvedono affinché le seguenti informazioni siano rese pubbliche:
+
+- a. la documentazione concernente il sistema e il suo esercizio;
+- b. il codice sorgente del software;
+- c. la documentazione del processo di sviluppo;
+- d. una prova che i programmi leggibili da una macchina siano stati elaborati a partire dal codice sorgente del software pubblicato.
+
+<sup>3</sup> Sono fatte salve disposizioni del diritto in materia di trasparenza e di protezione dei dati.
+
+[^27lbis-1]: Introdotto dal n. I dell’O del 25 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
+
+#### Art. 27l<sup>ter</sup>
+
+**Coinvolgimento del pubblico**[^27lter-1]
+
+<sup>1</sup> La Cancelleria federale e i Cantoni che svolgono prove provvedono a coinvolgere il pubblico e le cerchie di specialisti.
+
+<sup>2</sup> In particolare i Cantoni definiscono incentivi per la partecipazione del pubblico e delle cerchie di specialisti al miglioramento di sistemi di voto elettronico.
+
+[^27lter-1]: Introdotto dal n. I dell’O del 25 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
 
 #### Art. 27m
 
-**Informazione degli aventi diritto di voto**[^27m-1]
+**Informazione degli aventi diritto di voto e pubblicazione dei risultati del voto elettronico**[^27m-1]
 
 <sup>1</sup> I Cantoni che svolgono prove informano in modo comprensibile gli aventi diritto di voto sull’organizzazione, la tecnica e la procedura del voto elettronico. Spiegano come affrontare eventuali problemi e come è assicurata la verificabilità.
 
-<sup>2</sup> Tutti gli atti importanti compiuti dalle autorità in relazione al voto elettronico e la relativa documentazione devono essere accessibili a rappresentanti degli aventi diritto di voto. È fatto salvo l’articolo 7 della legge del 17 dicembre 2004[^27m-2] sulla trasparenza.
+<sup>2</sup> Tutti gli atti importanti compiuti dalle autorità nello svolgimento di uno scrutinio con il voto elettronico e la relativa documentazione devono essere accessibili a rappresentanti degli aventi diritto di voto.
 
-[^27m-1]: Nuovo testo giusta il n. I dell’O del 13 dic. 2013, in vigore dal 15 gen. 2014 ([RU 2013 5365](https://fedlex.data.admin.ch/eli/oc/2013/858)).
-[^27m-2]: [RS 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
+<sup>3</sup> In occasione di elezioni e votazioni federali i Cantoni pubblicano i risultati dei voti espressi per via elettronica. La pubblicazione avviene in modo tale che il segreto del voto sia tutelato.
+
+[^27m-1]: Nuovo testo giusta il n. I dell’O del 25 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
 
 #### Art. 27n
 
@@ -662,13 +709,20 @@ Un ente esterno indipendente, riconosciuto dalla Cancelleria federale, deve:
 
 #### Art. 27o
 
-**Consulenza scientifica**[^27o-1]
+**Ricorso a specialisti indipendenti e accompagnamento scientifico**[^27o-1]
 
-<sup>1</sup> La Cancelleria federale può rilevare dati concernenti l’utilizzazione del voto elettronico o farli rilevare dai Cantoni e disporre che talune prove siano sorrette da una consulenza scientifica.
+<sup>1</sup> La Cancelleria federale e i Cantoni ricorrono a specialisti indipendenti che li sostengono nell’adempimento delle loro attività, per quanto sia opportuno e contribuisca in particolare a rafforzare la fiducia nel voto elettronico e la sua sicurezza.
 
-<sup>2</sup> La Cancelleria federale provvede in particolare a verificare l’efficacia delle prove del voto elettronico, segnatamente l’evoluzione della partecipazione al voto e l’incidenza sulle abitudini di voto, e assicura la coerenza delle verifiche.
+<sup>2</sup>
 
-<sup>3</sup> Dopo ogni prova, il Cantone trasmette alla Cancelleria federale dati statistici anonimi concernenti l’utilizzazione del voto elettronico. Se rileva ulteriori dati, informa la Cancelleria federale sulle risultanze di tali dati.
+La Cancelleria federale provvede a un accompagnamento scientifico relativo alle prove e può a tal fine:
+
+- a commissionare lavori di ricerca, segnatamente nei settori delle scienze sociali e della tecnica;
+- b. rilevare dati concernenti l’utilizzazione del voto elettronico o farli rilevare dai Cantoni.
+
+<sup>3</sup> La Cancelleria federale provvede affinché siano analizzate le ripercussioni delle prove del voto elettronico, segnatamente sull’evoluzione della partecipazione al voto e sulle abitudini di voto.
+
+<sup>4</sup> Dopo ogni prova, il Cantone trasmette alla Cancelleria federale dati statistici anonimi concernenti l’utilizzazione del voto elettronico. Se rileva ulteriori dati, informa la Cancelleria federale sulle risultanze di tali dati.
 
 [^27o-1]: Nuovo testo giusta il n. I dell’O del 13 dic. 2013, in vigore dal 15 gen. 2014 ([RU 2013 5365](https://fedlex.data.admin.ch/eli/oc/2013/858)).
 
@@ -718,7 +772,7 @@ Sono abrogati:
 - 3\. Il decreto del Consiglio federale del 10 dicembre 1945[^29-3] concernente la partecipazione dei militari alle votazioni ed elezioni federali, cantonali e comunali.
 
 [^29-1]: [CS **1** 171]
-[^29-2]: [CS **1** 181; [RU 1971 912](https://fedlex.data.admin.ch/eli/oc/1971/912_912_912), [1975 901](https://fedlex.data.admin.ch/eli/oc/1975/901_901_901)[1297](https://fedlex.data.admin.ch/eli/oc/1975/1297_1297_1297)]
+[^29-2]: [CS **1** 181; [RU 1971 912](https://fedlex.data.admin.ch/eli/oc/1971/912_912_912); [1975 901](https://fedlex.data.admin.ch/eli/oc/1975/901_901_901), [1297](https://fedlex.data.admin.ch/eli/oc/1975/1297_1297_1297)]
 [^29-3]: [CS **1** 160; [RU 1976 1809](https://fedlex.data.admin.ch/eli/oc/1976/1809_1809_1809)art. 16]
 
 #### Art. 30
@@ -727,7 +781,7 @@ Sono abrogati:
 
 La presente ordinanza entra in vigore il 1° luglio 1978.
 
-## Disposizioni finali della modifica del 27 febbraio 1997****
+## Disposizioni finali della modifica del 27 febbraio 1997
 
 [^u1-1]
 
@@ -759,7 +813,7 @@ Oggetto
 <tr><td colspan="6"></td><td colspan="4">Totale</td><td colspan="6"></td></tr>
 </table>
 
-Allegato 1b*[^t-2]*
+Allegato 1b[^t-2]
 
 (art. 4 cpv. 1)
 
@@ -787,7 +841,9 @@ Oggetto
 
 [^t-2]: Nuovo testo giusta il n. II dell’O del 26 feb. 2003, in vigore dal 1° apr. 1997 ([RU 1997 761](https://fedlex.data.admin.ch/eli/oc/1997/761_761_761)).
 
-Allegato 2*[^t-3]*
+Allegato 2[^t-3]
+
+(art. 8 cpv. 1, 12 cpv. 1 e 14 cpv. 2)
 
 <table>
 <tr><td>Formular</td><td>**1**</td><td>Gemeinde</td><td>Wahlkreis, Kanton</td><td>Wahltag</td></tr>
@@ -837,7 +893,7 @@ Formular 1 rechter Teil / Formule 1 moitié droite / Modulo 1 parte destra
 <tr><td colspan="5"></td><td>10</td><td>16</td><td>17</td><td>23</td><td colspan="2">24</td><td colspan="2">30</td><td colspan="3">31-32</td></tr>
 </table>
 
-**Kandidaten- und Parteistimmen/Suffrages nominatifs et de parti/ Suffragi personali e di partito**
+**Kandidaten- und Parteistimmen/Suffrages nominatifs et de parti/** **Suffragi personali e di partito**
 
 <table>
 <tr><td>Kandidaten – Candidats – Candidati Art der Stimmen - Genre de suffrages – Genere dei suffragi</td><td colspan="7">Stimmen von den unveränderten Wahlzetteln Suffrages des bulletins non modifiés Suffragi delle schede invariate</td><td colspan="7">Stimmen von den veränderten Wahlzetteln und Wahlzetteln ohne Parteibezeichnung Suffrages des bulletins modifiés et des bulletins sans dénomination de parti Suffragi delle schede variate e delle schede senza intestazione (Form. 3b)</td><td colspan="7">Total Totale</td><td></td></tr>
@@ -892,7 +948,7 @@ Formular 2 Rückseite / Formule 2 verso / Modulo 2 retro
 <tr><td>\*</td><td>Die Zahl der leeren Stimmen ist nur **einmal**, und zwar auf dem Formular der **letzten Liste** anzugeben. Le nombre des suffrages blancs ne doit être indiqué qu’**une seule fois** sur la formule de la **dernière liste**. Il numero dei suffragi in bianco deve essere indicato **una sola volta** sul modulo dell’**ultima lista**.</td></tr>
 </table>
 
-[^t-3]: Aggiornato dal n. I delle O del 27 set. 1982 ([RU 1982 1787](https://fedlex.data.admin.ch/eli/oc/1982/1787_1787_1787)), del 9 giu. 1986 ([RU 1986 1059](https://fedlex.data.admin.ch/eli/oc/1986/1059_1059_1059)) e dal n. II dell’O del 14 giu. 2002, in vigore dal 1° ago. 2002 ([RU 2002 1755](https://fedlex.data.admin.ch/eli/oc/2002/262)).
+[^t-3]: Aggiornato dal n. I delle O del 27 set. 1982 ([RU 1982 1787](https://fedlex.data.admin.ch/eli/oc/1982/1787_1787_1787)), del 9 giu. 1986 ([RU 1986 1059](https://fedlex.data.admin.ch/eli/oc/1986/1059_1059_1059)), dal n. II dell’O del 14 giu. 2002 ([RU 2002 1755](https://fedlex.data.admin.ch/eli/oc/2002/262)) e dal n. II cpv. 1 dell’O del 25 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
 
 <table>
 <tr><td>Formular</td><td>**3**</td><td>Gemeinde</td><td>Wahlkreis, Kanton</td><td>Wahltag</td></tr>
@@ -901,7 +957,7 @@ Formular 2 Rückseite / Formule 2 verso / Modulo 2 retro
 </table>
 
 <table>
-<tr><td>Zählbogen Nr. Feuille de dépouillement N<sup>o</sup> Foglio di conteggio N.</td><td></td><td></td><td>**Erneuerungswahl von Election pour le renouvellement de Elezione per il rinnovo dei**</td><td></td><td>**Mitgliedern des Nationalrates membres du Conseil national membri del Consiglio nazionale**</td><td>**Liste Nr./N****<sup>o</sup>** **Lista N.**</td><td></td></tr>
+<tr><td>Zählbogen Nr. Feuille de dépouillement N<sup>o</sup> Foglio di conteggio N.</td><td></td><td></td><td>**Erneuerungswahl von** **Election pour le renouvellement de** **Elezione per il rinnovo dei**</td><td></td><td>**Mitgliedern des Nationalrates** **membres du Conseil national** **membri del Consiglio nazionale**</td><td>**Liste Nr./N****<sup>o</sup>** **Lista N.**</td><td></td></tr>
 </table>
 
 <table>
@@ -931,7 +987,7 @@ Die Richtigkeit der Auszählung bezeugen die Stimmenzähler: Les scrutateurs cer
 </table>
 
 <table>
-<tr><td>Zusammenzug der Zählbogen Récapitulation des feuilles de dépouillement Prospetto riassuntivo dei fogli di conteggio</td><td>**Erneuerungswahl von Election pour le renouvellement de Elezione per il rinnovo dei**</td><td></td><td>**Mitgliedern des Nationalrates membres du Conseil national membri del Consiglio nazionale**</td><td>**Liste Nr./N****<sup>o</sup>** **Lista N.**</td><td></td></tr>
+<tr><td>Zusammenzug der Zählbogen Récapitulation des feuilles de dépouillement Prospetto riassuntivo dei fogli di conteggio</td><td>**Erneuerungswahl von** **Election pour le renouvellement de** **Elezione per il rinnovo dei**</td><td></td><td>**Mitgliedern des Nationalrates** **membres du Conseil national** **membri del Consiglio nazionale**</td><td>**Liste Nr./N****<sup>o</sup>** **Lista N.**</td><td></td></tr>
 </table>
 
 <table>
@@ -1000,7 +1056,7 @@ Die Richtigkeit der Auszählung bezeugen die Stimmenzähler: Les scrutateurs cer
 </table>
 
 <table>
-<tr><td>Zusammenzug aller Listen. Récapitulation de toutes les listes Prospetto riassuntivo di tutte le liste</td><td>**Erneuerungswahl von Election pour le renouvellement de Elezione per il rinnovo dei**</td><td></td><td>**Mitgliedern des Nationalrates membres du Conseil national membri del Consiglio nazionale**</td><td>Alle Listen Ensemble des listes Tutte le liste</td></tr>
+<tr><td>Zusammenzug aller Listen. Récapitulation de toutes les listes Prospetto riassuntivo di tutte le liste</td><td>**Erneuerungswahl von** **Election pour le renouvellement de** **Elezione per il rinnovo dei**</td><td></td><td>**Mitgliedern des Nationalrates** **membres du Conseil national** **membri del Consiglio nazionale**</td><td>Alle Listen Ensemble des listes Tutte le liste</td></tr>
 </table>
 
 <table>
@@ -1069,7 +1125,7 @@ Die Richtigkeit der Auszählung bezeugen die Stimmenzähler: Les scrutateurs cer
 
 Wahlkreis, Kanton Arrondissement électoral, canton Circondario elettorale, cantone
 
-**Protokoll Procès-verbal Processo verbale**
+**Protokoll** **Procès-verbal** **Processo verbale**
 
 <table>
 <tr><td>über die Erneuerungswahl von de l’élection pour le renouvellement de dell’elezione per il rinnovo dei</td><td></td><td>Mitgliedern des Nationalrates membres du Conseil national membri del Consiglio nazionale</td></tr>
@@ -1301,7 +1357,7 @@ Bemerkungen/Remarques/Osservazioni
 <tr><td>Formular Formule Modulo</td><td>**5a**</td><td colspan="2"></td><td>Einlagebogen Feuille intercalaire Foglio intercalare</td><td>**I**</td></tr>
 </table>
 
-**B. Verteilung der Sitze auf die einzelnen Listen oder Listengruppen bei verbundenen Listen**
+**B.** **Verteilung der Sitze auf die einzelnen Listen oder Listengruppen bei verbundenen Listen**
 
 **Répartition des sièges entre les différentes listes ou groupes de listes, s’il s’agit de listes conjointes**
 
@@ -1429,7 +1485,7 @@ La lista no ......, il gruppo di liste ......, ha il quoziente maggiore; essa/o 
 
 *Formular 5a Seite 3 oben / Formule 5a page 3 en haut / Modulo 5a pagina 3 in alto*
 
-**C. Verteilung der Sitze innerhalb der verbundenen Listen**
+**C.** **Verteilung der Sitze innerhalb der verbundenen Listen**
 
 **Répartition des sièges entre les listes conjointes**
 
@@ -1777,53 +1833,58 @@ Bemerkungen/Remarques/Osservazioni:
 <tr><td>Certificano l’esattezza del presente processo verbale</td><td>Per l’Ufficio elettorale cantonale:</td></tr>
 </table>
 
-Allegato 3a*[^t-4]*
+Allegato 3a[^t-4]
+
+(art. 8*b* cpv. 1)
 
 <table>
-<tr><td colspan="3">Kanton/Canton/Cantone</td><td></td><td></td><td colspan="4">Anzahl Nationalratssitze/Nombre de sièges au Conseil national/Numero dei seggi</td><td colspan="2"></td></tr>
-<tr><td colspan="10">Gesamterneuerungswahl des Nationalrates vom/Renouvellement intégral du Conseil national du/Rinnovo integrale del Consiglio nazionale del</td><td></td></tr>
-<tr><td>**A**</td><td>1.</td><td colspan="5">Bezeichnung des Wahlvorschlags/Dénomination de la liste de candidats/Designazione della proposta:</td><td colspan="4"></td></tr>
-<tr><td></td><td>2.</td><td colspan="4">Evtl. **Präzisierung** nach Alter, Geschlecht, Region oder Parteiflügel: Le cas échéant, **adjonction** de l’âge, du sexe, de la région ou de l’aile d’appartenance: Ev. **specificazione** di sesso, appartenenza di un gruppo, regione o età:</td><td colspan="5"></td></tr>
-<tr><td></td><td>3.</td><td colspan="6">**Listennummer** (wird vom Kanton zugeteilt)/**Numéro de la liste** (attribué par le canton)/**Numero della lista** (assegnato dal Cantone):</td><td colspan="3"></td></tr>
+<tr><td colspan="3">Kanton/Canton/Cantone</td><td></td><td></td><td colspan="3">Anzahl Nationalratssitze/Nombre de sièges au Conseil national/ Numero dei seggi nel Consiglio nazionale</td><td colspan="4"></td></tr>
+<tr><td colspan="10">Gesamterneuerungswahl des Nationalrates vom/Renouvellement intégral du Conseil national du/Rinnovo integrale del Consiglio nazionale del</td><td colspan="2"></td></tr>
+<tr><td>A</td><td>1.</td><td colspan="5">Bezeichnung des Wahlvorschlags/Dénomination de la liste de candidats/Designazione della proposta di candidatura:</td><td colspan="5"></td></tr>
+<tr><td></td><td>2.</td><td colspan="4">Evtl. **Präzisierung** nach Alter, Geschlecht, Region oder Parteiflügel: Le cas échéant, **adjonction** de l’âge, du sexe, de la région ou de l’aile d’appartenance: Ev. **specificazione** di età, sesso, regione o appartenenza di un gruppo:</td><td colspan="6"></td></tr>
+<tr><td></td><td>3.</td><td colspan="7">**Listennummer** (wird vom Kanton zugeteilt)/**Numéro de la liste** (attribué par le canton)/**Numero della lista** (assegnato dal Cantone):</td><td colspan="3"></td></tr>
 <tr><td>B</td><td colspan="10">Kandidaturen/Candidatures/Candidatura</td></tr>
 </table>
 
 <table>
-<tr><th>Nr. N° No.</th><th>Name Nom Cognome</th><th>Vorname Prénom Nome</th><th>Ge- schlecht Sexe Sesso</th><th>Geburtsdatum (Tag/Monat/Jahr)</th><th>Beruf Profession Professione</th><th>Strasse Rue Via</th><th>Nr. N° No.</th><th>PLZ NPA NPA</th><th>Wohnort Lieu de domicile Domicilio</th><th>PLZ NPA NPA</th><th>Heimatort Lieu d’origine Luogo di attinenza</th><th>Unterschrift Signature Firma</th><th>Bemerkungen \* Remarques \* Osservazioni \*</th><th>Kontrolle (leer lassen)</th></tr>
-<tr><th></th><th></th><th></th><th></th><th>Date de naissance (jour/mois/année)</th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th>Contrôle (laisser en blanc)</th></tr>
-<tr><th></th><th></th><th></th><th></th><th>Data di nascita (giorno/mese/anno)</th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th>Controllo (lasciare in bianco)</th></tr>
+<tr><th>Nr.</th><th>Amtli-che(r) Name(n)</th><th>Amtliche(r) Vorname(n)</th><th>Name, unter dem die Person politisch oder im Alltag bekannt ist</th><th>Vorname, unter dem die Person politisch oder im Alltag bekannt ist</th><th>Geschlecht</th><th>Geburtsdatum (Tag/Monat/ Jahr)</th><th>Beruf</th><th>Strasse</th><th>Nr.</th><th>PLZ</th><th>Wohnort</th><th>Heimatorte inkl. Kanton</th><th>Unterschrift</th><th>Bemerkungen\*</th><th>Kontrolle (leer lassen)</th></tr>
+<tr><th>N<sup>o</sup></th><th>Nom(s) officiel(s)</th><th>Prénom(s) officiel(s)</th><th>Nom usuel</th><th>Prénom usuel</th><th>Sexe</th><th>Date de naissance (jour/ mois/ année)</th><th>Profession</th><th>Rue</th><th>N<sup>o</sup></th><th>NPA</th><th>Lieu de domicile</th><th>Lieux d’origine, y compris canton</th><th>Signature</th><th>Observations\*</th><th>Contrôle (laisser en blanc)</th></tr>
+<tr><th>N.</th><th>Cognome/i ufficiale/i</th><th>Nome/i ufficiale/i</th><th>Cognome, con il quale la persona à politicamente o comunemente conosciuta</th><th>Nome, con il quale la persona è politicamente o comunemente conosciuta</th><th>Sesso</th><th>Data di nascita (giorno/mese/ anno)</th><th>Professione</th><th>Via</th><th>N.</th><th>NPA</th><th>Domicilio</th><th>Luoghi d’origine, incluso Cantone</th><th>Firma</th><th>Osservazioni\*</th><th>Controllo (lasciare in bianco)</th></tr>
 </table>
 
-…
+...
 
 <table>
 <tr><td>\* Unter dieser Rubrik sind eine Person, die den Wahlvorschlag vertritt, sowie deren Stellvertretung zu bezeichnen. Diese sind gegenüber den zuständigen Amtsstellen von Kanton und Bund berechtigt und verpflichtet, allenfalls nötige Erklärungen zur Bereinigung von Anständen oder Unklarheiten im Namen aller Unterzeichnenden rechtsverbindlich abzugeben (BPR Art. 25 Abs. 2). Wo eine klare Bezeichnung fehlt, kommt diese Aufgabe der erst- und der zweitunterzeichnenden Person zu.</td></tr>
-<tr><td>\* Mentionner sous cette rubrique le nom du mandataire des signataires et celui de son suppléant. Ces deux personnes ont, vis-à-vis de l’office cantonal compétent et de la Confédération, le droit et l’obligation de donner s’il le faut, au nom des signataires de la liste et de manière à les lier juridiquement, toutes les indications permettant d’éliminer les difficultés qui pourraient se produire (art. 25, 2e al., LDP). Si ces mentions font défaut, cette tâche incombe au premier et au deuxième signataires.</td></tr>
+<tr><td>\* Mentionner sous cette rubrique le nom du mandataire des signataires et celui de son suppléant. Ces deux personnes ont, vis-à-vis de l’office cantonal compétent et de la Confédération, le droit et l’obligation de donner s’il le faut, au nom des signataires de la liste et de manière à les lier juridiquement, toutes les indications permettant d’éliminer les difficultés qui pourraient se produire (art. 25, 2*e* al., LDP). Si ces mentions font défaut, cette tâche incombe au premier et au deuxième signataires.</td></tr>
 <tr><td>\* In questa rubrica devono essere designati il rappresentante e il suo sostituto che davanti agli uffici cantonali e federali competenti hanno il diritto e il dovere di fare validamente, in nome dei firmatari, le dichiarazioni necessarie a togliere le difficoltà che potessero sorgere (art. 25 cpv. 2 LDP). In caso di non chiara indicazione, per legge si riterrà rappresentante il primo firmatario e sostituto il secondo.</td></tr>
 </table>
 
-*Anhang 3a Rückseite / Annexe 3a verso / Allegato 3a retro*
+Anhang 3a Rückseite / Annexe 3a verso / Allegato 3a retro
 
 <table>
-<tr><td>**C**[^t-5]</td><td>(Weitere) **Unterzeichnerinnen und Unterzeichner des Wahlvorschlags** [tab] (Autres) **signataires de la liste** (Altri) **firmatari della proposta**</td></tr>
+<tr><td>C</td><td>(Weitere) **Unterzeichnerinnen und Unterzeichner des Wahlvorschlags** (Autres) **signataires de la liste de candidats** (Altri) **firmatari della proposta di candidature**</td></tr>
 </table>
 
 <table>
-<tr><th>Nr.</th><th>Name</th><th>Vorname</th><th>Geburtsdatum (Tag/Monat/Jahr)</th><th>Strasse</th><th>Nr.</th><th>PLZ</th><th>Wohnort</th><th>Unterschrift</th><th>Bemerkungen \*</th><th>Kontrolle (leer lassen)</th></tr>
-<tr><th>N°</th><th>Nom</th><th>Prénom</th><th>Date de naissance (jour/mois/année)</th><th>Rue</th><th>N°</th><th>NPA</th><th>Lieu de domicile</th><th>Signature</th><th>Remarques \*</th><th>Contrôle (laisser en blanc)</th></tr>
-<tr><th>No.</th><th>Cognome</th><th>Nome</th><th>Data di nascita (giorno/mese/anno)</th><th>Via</th><th>No.</th><th>NPA</th><th>Domicilio</th><th>Firma</th><th>Osservazioni \*</th><th>Controllo (lasciare in bianco)</th></tr>
+<tr><th>Nr.</th><th>Name</th><th>Vorname</th><th>Geburtsdatum (Tag/Monat/Jahr)</th><th>Strasse</th><th>Nr.</th><th>PLZ</th><th>Wohnort</th><th>Unterschrift</th><th>Bemerkungen\*</th><th>Kontrolle (leer lassen)</th></tr>
+<tr><th>N<sup>o</sup></th><th>Nom</th><th>Prénom</th><th>Date de naissance (jour/mois/année)</th><th>Rue</th><th>N<sup>o</sup></th><th>NPA</th><th>Lieu de domicile</th><th>Signature</th><th>Observations\*</th><th>Contrôle (laisser en blanc)</th></tr>
+<tr><th>N.</th><th>Cognome</th><th>Nome</th><th>Data di nascita (giorno/mese/anno)</th><th>Via</th><th>N.</th><th>NPA</th><th>Domicilio</th><th>Firma</th><th>Osservazioni\*</th><th>Controllo (lasciare in bianco)</th></tr>
 </table>
+
+...
 
 <table>
-<tr><td>\* Falls sich die Partei im Parteiregister der Bundeskanzlei hat eintragen lassen, ist unter der Rubrik «Bemerkungen» zur Überprüfung die präzise Fundstelle im Internet anzugeben. Falls die Partei im Kanton einen einzigen Wahlvorschlag einreicht, genügen in diesem Falle die Unterschriften jener Personen, welche das Präsidium und das Sekretariat der Kantonalpartei ausüben; das kantonale Unterschriftenquorum entfällt.</td></tr>
-<tr><td>\* Le parti politique qui s’est fait enregistrer dans le registre des partis de la Chancellerie fédérale indiquera ici son adresse Internet précise pour vérification. Si le parti ne dépose qu’une seule liste de candidats dans le canton, les signatures du président et du secrétaire du parti cantonal suffiront. Le quorum cantonal sera donc sans objet.</td></tr>
-<tr><td>\* Se il partito si è fatto iscrivere nel registro dei partiti della Cancelleria federale, nella rubrica «Osservazioni» deve essere indicato per verifica il suo indirizzo Internet esatto. Se il partito presenta inoltre una sola proposta nel Cantone, basta la firma delle persone preposte alla presidenza e alla segreteria del partito cantonale; l’obbligo di far firmare la proposta da un numero minimo di elettori con domicilio politico nel circondario elettorale decade.</td></tr>
+<tr><td>\* Falls sich die Partei im Parteiregister der Bundeskanzlei hat eintragen lassen, ist unter der Rubrik «Bemerkungen» zur Überprüfung die präzise Fundstelle im Internet anzugeben.</td></tr>
+<tr><td>\* Le parti politique qui s’est fait enregistrer dans le registre des partis de la Chancellerie fédérale indiquera ici son adresse Internet précise pour vérification.</td></tr>
+<tr><td>\* Se il partito si è fatto iscrivere nel registro dei partiti della Cancelleria federale, nella rubrica «Osservazioni» deve essere indicato per verifica il suo indirizzo Internet esatto.</td></tr>
 </table>
 
-[^t-4]: Introdotto dal n. I dell’O del 19 ott. 1994 ([RU 1994 2423](https://fedlex.data.admin.ch/eli/oc/1994/2423_2423_2423)). Aggiornato giusta il n. II dell’O del 20 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3200](https://fedlex.data.admin.ch/eli/oc/2002/479), [2003 234](https://fedlex.data.admin.ch/eli/oc/2003/33)).
-[^t-5]: [RU 2003 234](https://fedlex.data.admin.ch/eli/oc/2003/33)
+[^t-4]: Introdotto dal n. I dell’O del 19 ott. 1994 ([RU 1994 2423](https://fedlex.data.admin.ch/eli/oc/1994/2423_2423_2423)). Nuovo testo giusta il n. II cpv. 2 dell’O del 25 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
 
-Allegato 3b*[^t-6]*
+Allegato 3b[^t-5]
+
+(art. 8*e* cpv. 1)
 
 <table>
 <tr><td>Kanton Canton Cantone</td><td></td><td></td><td>Anzahl Nationalratssitze Nombre de sièges au Conseil national Numero dei seggi</td><td></td></tr>
@@ -1855,12 +1916,12 @@ I rappresentanti sottoscritti dichiarano congiunte le seguenti liste per l’ele
 <table>
 <tr><td>\* Gegebenenfalls ist unter dieser Rubrik zu vermerken, mit welcher oder welchen anderen Liste(n) die eigene Liste unterverbunden ist. Eine solche Unterlistenverbindung ist nur möglich unter Listen *gleichen Namens*, die sich einzig durch eine Präzisierung hinsichtlich Region, Geschlecht, Alter oder Flügel einer Gruppierung voneinander unterscheiden.</td></tr>
 <tr><td>\* Le cas échéant, mentionner sous cette rubrique avec quelle(s) autre(s) liste(s) la présente liste est sous-apparentée. Le sous-apparentement n’est possible qu’entre listes *de même* *dénomination* qui ne se différencient les unes des autres que par l’adjonction de la région, du sexe, de l’âge ou de l’aile d’appartenance du groupement.</td></tr>
-<tr><td>\* All’occorrenza, in questa rubrica, vanno indicate eventuali sotto-congiunzioni della presente lista. La sotto-congiunzione è permessa soltanto fra liste di *uguale denomin**a**zione*, differenziate unicamente da aggiunte intese a specificare il sesso, l’appartenenza ad un gruppo, la regione o l’età dei candidati.</td></tr>
+<tr><td>\* All’occorrenza, in questa rubrica, vanno indicate eventuali sotto-congiunzioni della presente lista. La sotto-congiunzione è permessa soltanto fra liste di *uguale denominazione*, differenziate unicamente da aggiunte intese a specificare il sesso, l’appartenenza ad un gruppo, la regione o l’età dei candidati.</td></tr>
 </table>
 
-[^t-6]: Introdotto dal n. I dell’O del 19 ott. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2423](https://fedlex.data.admin.ch/eli/oc/1994/2423_2423_2423)).
+[^t-5]: Introdotto dal n. I dell’O del 19 ott. 1994 ([RU 1994 2423](https://fedlex.data.admin.ch/eli/oc/1994/2423_2423_2423)). Aggiornato dal n. II cpv. 1 dell’O del 25 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
 
-Allegato 4a*[^t-7]*
+Allegato 4a[^t-6]
 
 (art. 25 cpv. 1<sup>bis</sup> lett. a)
 
@@ -1890,9 +1951,9 @@ A renvoyer, muni des signatures, d’ici au ………… à: Chancellerie fédé
 
 Da rispedire con le firme originali, al più tardi entro il ………… a: Cancelleria federale svizzera, Sezione dei diritti politici, 3003 Berna.
 
-[^t-7]: Originario all. 4. Introdotto dal n. II dell’O de 26 feb. 1997 ([RU 1997 761](https://fedlex.data.admin.ch/eli/oc/1997/761_761_761)). Nuovo testo giusta il n. II dell’O del 13 gen. 2010, in vigore dal 1° feb. 2010 ([RU 2010 275](https://fedlex.data.admin.ch/eli/oc/2010/36)).
+[^t-6]: Originario all. 4. Introdotto dal n. II dell’O de 26 feb. 1997 ([RU 1997 761](https://fedlex.data.admin.ch/eli/oc/1997/761_761_761)). Nuovo testo giusta il n. II dell’O del 13 gen. 2010, in vigore dal 1° feb. 2010 ([RU 2010 275](https://fedlex.data.admin.ch/eli/oc/2010/36)).
 
-Allegato 4b*[^t-8]*
+Allegato 4b[^t-7]
 
 (art. 25 cpv. 1<sup>bis</sup> lett. b)
 
@@ -1902,8 +1963,8 @@ Eidgenössische Volksinitiative «…»/Initiative populaire fédérale «…»/
 
 Erklärung/Déclaration/Dichiarazione
 
-- **a.** **des bedingten Rückzugs zugunsten des indirekten Gegenvorschlags gemäss dem Bundesgesetz vom … über …/de retrait conditionnel en faveur du co****n****tre-projet indirect élaboré sous la forme de la loi fédérale du … sur …/di ritiro condizionato a favore del controprogetto indiretto secondo la legge federale del … …;** **o****der/ou/o**
-- **b.** **des unb****e****dingten Rückzugs/de retrait inconditionnel/di ritiro incondizionato**
+- **a.** **des bedingten Rückzugs zugunsten des indirekten Gegenvorschlags gemäss dem Bundesgesetz vom … über …/de retrait conditionnel en faveur du contre-projet indirect élaboré sous la forme de la loi fédérale du … sur …/di ritiro condizionato a favore del controprogetto indiretto secondo la legge federale del … …; oder/ou/o**
+- **b.** **des unbedingten Rückzugs/de retrait inconditionnel/di ritiro incondizionato**
 
 Die unterzeichneten stimmberechtigten Schweizer Bürgerinnen und Bürger sind Mitglieder des rückzugsberechtigten Urheberkomitees der eidgenössischen Volks-initiative «…» (vgl. BBl …) und haben davon Kenntnis genommen, dass die eidgenössischen Räte als indirekten Gegenvorschlag zur genannten Volksinitiative das Bundesgesetz vom … über … verabschiedet haben (vgl. BBl …). Sie erklären gestützt auf die Artikel 68 Absatz 1 Buchstaben c und e sowie 73 und 73*a* des Bun-desgesetzes vom 17. Dezember 1976 über die politischen Rechte (SR *161.1*) mit ihrer Unterschrift, dass sie die eidgenössische Volksinitiative «…» rechtsgültig, unwiderruflich und ohne jeden weiteren Vorbehalt wie folgt zurückziehen:
 
@@ -1929,4 +1990,4 @@ Da rispedire con le firme originali, al più tardi entro il ………… a: Canc
 
 \* Es ist zulässig, an dieser Stelle sowohl für den unbedingten Rückzug als auch für den bedingten Rückzug zu optieren./Il est possible d’opter à la fois pour l’une et pour l’autre de ces colonnes./Qui è possibile optare per entrambe le forme di ritiro.
 
-[^t-8]: Originario all. 4. Introdotto dal n. II dell’O de 26 feb. 1997 ([RU 1997 761](https://fedlex.data.admin.ch/eli/oc/1997/761_761_761)). Nuovo testo giusta il n. II dell’O del 13 gen. 2010, in vigore dal 1° feb. 2010 ([RU 2010 275](https://fedlex.data.admin.ch/eli/oc/2010/36)).
+[^t-7]: Originario all. 4. Introdotto dal n. II dell’O de 26 feb. 1997 ([RU 1997 761](https://fedlex.data.admin.ch/eli/oc/1997/761_761_761)). Nuovo testo giusta il n. II dell’O del 13 gen. 2010, in vigore dal 1° feb. 2010 ([RU 2010 275](https://fedlex.data.admin.ch/eli/oc/2010/36)).

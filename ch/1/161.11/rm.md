@@ -4,20 +4,20 @@ title: Ordinaziun dals 24 da matg 1978 davart ils dretgs politics (ODP)
 short: ODP
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/712_712_712"
 language: rm
-version: 2019-07-01
+version: 2022-07-01
 adopted: 1978-05-24
 in_force: 1978-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/712_712_712/20190701/rm/xml/fedlex-data-admin-ch-eli-cc-1978-712_712_712-20190701-rm-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/712_712_712/20190701/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/712_712_712/20220701/rm/xml/fedlex-data-admin-ch-eli-cc-1978-712_712_712-20220701-rm-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/712_712_712/20220701/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Ordinaziun davart ils dretgs politics (ODP)****
+# Ordinaziun davart ils dretgs politics (ODP)
 
 Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Confederaziun, numnadamain en la correspundenza cun persunas da lingua rumantscha. La translaziun d’in decret federal serva a l’infurmaziun, n’ha dentant nagina validitad legala.[^t-1]
 
-dals 24 da matg 1978 (versiun dal 1. da fanadur 2019)
+dals 24 da matg 1978 (versiun dal 1. da fanadur 2022)
 
 [^t-1]: Versiun tenor la cifra I da la O dals 13 da dec. 2013, en vigur dapi ils 15 da schan. 2014 ([AS 2013 5365](https://fedlex.data.admin.ch/eli/oc/2013/858)).
 
@@ -77,7 +77,7 @@ Per votaziuns federalas dal pievel restan reservadas las suandantas dumengias da
 
 **Trametter pli baud il material da votar**[^2b-1]
 
-Ils chantuns garanteschan che las autoritads cumpetentas tenor il dretg chantunal possian trametter ordavant il material da votar als Svizzers a l’exteriur e – sin dumonda speziala – ad auters votants che sa chattan a l’exteriur il pli baud 1 emna avant la spediziun uffiziala.
+Ils chantuns garanteschan che las autoritads cumpetentas tenor il dretg chantunal possian trametter ordavant il material da votar als Svizzers a l’exteriur e – sin dumonda speziala – ad auters Svizzers a l’exteriur cun dretg da votar il pli baud 1 emna avant la spediziun uffiziala.
 
 [^2b-1]: Integrà tras la cifra I da la O dals 14 da zer. 2002 ([AS 2002 1755](https://fedlex.data.admin.ch/eli/oc/2002/262)). Versiun tenor la cifra I da la O dals 21 da sett. 2007, en vigur dapi il 1. da schan. 2008 ([AS 2007 4639](https://fedlex.data.admin.ch/eli/oc/2007/650)).
 
@@ -87,7 +87,7 @@ Ils chantuns garanteschan che las autoritads cumpetentas tenor il dretg chantuna
 
 **Preparaziun**
 
-<sup>1</sup> La Chanzlia federala prenda las mesiras ch’èn necessarias tenor las prescripziuns legalas per manar tras las votaziuns.
+<sup>1</sup> La Chanzlia federala prenda las mesiras ch’èn necessarias tenor las prescripziuns legalas per realisar las votaziuns.
 
 <sup>2</sup> Ensemen cun il departament cumpetent elavura ella las explicaziuns e suttametta quellas al Cussegl federal per prender in conclus en chaussa.
 
@@ -144,7 +144,7 @@ La repartiziun dals sezs en il Cussegl naziunal sin ils chantuns sa drizza tenor
 
 **Cedels electorals prestampads**[^7-1]
 
-Cedels electorals prestampads ston laschar plazza avunda per ch’ils votants possian panaschar e cumular en moda bain legibla.
+Cedels electorals prestampads ston laschar plazza avunda per che las persunas cun dretg da votar possian panaschar e cumular en moda bain legibla.
 
 [^7-1]: Oriundamain art. 6*a*. Integrà tras la cifra I da la O dals 14 da zer. 2002, en vigur dapi il 1. d’avust 2002 ([AS 2002 1755](https://fedlex.data.admin.ch/eli/oc/2002/262)).
 
@@ -152,7 +152,7 @@ Cedels electorals prestampads ston laschar plazza avunda per ch’ils votants po
 
 **Biro electoral chantunal**[^7a-1]
 
-La regenza chantunala decretescha las disposiziuns ch’èn necessarias per ordinar e per manar tras las elecziuns dal Cussegl naziunal. Ella designescha l’uffizi che maina e surveglia las elecziuns, che retschaiva e rectifitgescha las glistas da candidats e che cumpilescha ils resultats da l’elecziun (biro electoral chantunal).
+La regenza chantunala decretescha las disposiziuns ch’èn necessarias per ordinar e per realisar las elecziuns dal Cussegl naziunal. Ella designescha l’uffizi che maina e surveglia las elecziuns, che retschaiva e rectifitgescha las glistas da candidats e che cumpilescha ils resultats da l’elecziun (biro electoral chantunal).
 
 [^7a-1]: Oriundamain art. 7.
 
@@ -172,12 +172,13 @@ La regenza chantunala decretescha las disposiziuns ch’èn necessarias per ordi
 
 **Termin final per inoltrar las glistas da candidats**[^8a-1]
 
-<sup>1</sup> Mintga chantun communitgescha a la Chanzlia federala fin il 1. da mars da l’onn d’elecziuns, tge glindesdi tranter il 1. d’avust ed ils 30 da settember ch’el ha fixà sco termin final per inoltrar las glistas da candidats e sch’el ha fixà 7 u 14 dis per rectifitgar las glistas.
+<sup>1</sup> Mintga chantun communitgescha a la Chanzlia federala fin il 1. da mars da l’onn d’elecziuns, tge glindesdi ch’el ha fixà sco termin final per inoltrar las glistas da candidats e sch’el ha fixà 7 u 14 dis per rectifitgar las glistas.[^8a-2]
 
-<sup>2</sup> Ils chantuns che han mo il dretg d’in sez en il Cussegl naziunal e che n’enconuschan betg il sistem da l’elecziun taciturna na ston communitgar nagut a la Chanzlia federala.[^8a-2]
+<sup>2</sup> Ils chantuns che han mo il dretg d’in sez en il Cussegl naziunal e che n’enconuschan betg il sistem da l’elecziun taciturna na ston communitgar nagut a la Chanzlia federala.[^8a-3]
 
 [^8a-1]: Integrà tras la cifra I da la O dals 19 d’oct. 1994, en vigur dapi ils 15 da nov. 1994 ([AS 1994 2423](https://fedlex.data.admin.ch/eli/oc/1994/2423_2423_2423)).
-[^8a-2]: Integrà tras la cifra I da la O dals 26 da favr. 1997, en vigur dapi il 1. d’avr. 1997 ([AS 1997 761](https://fedlex.data.admin.ch/eli/oc/1997/761_761_761)).
+[^8a-2]: Versiun tenor la cifra I da l’O dals 25 da matg 2022, en vigur dapi il 1. da fan. 2022 ([AS 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
+[^8a-3]: Integrà tras la cifra I da la O dals 26 da favr. 1997, en vigur dapi il 1. d’avr. 1997 ([AS 1997 761](https://fedlex.data.admin.ch/eli/oc/1997/761_761_761)).
 
 #### Art. 8b
 
@@ -187,7 +188,7 @@ La regenza chantunala decretescha las disposiziuns ch’èn necessarias per ordi
 
 <sup>2</sup> Cun suttascriver la glista da candidats (art. 24 al. 1 LDP) decleran ils candidats, che han lur domicil politic en il circul electoral, il medem mument ch’els sajan perencletgs cun l’atgna candidatura (art. 22 al. 3 LDP).
 
-<sup>3</sup> Il num d’in votant che ha suttascrit pliras glistas da candidats vegn stritgà immediatamain dal chantun da tut las glistas da candidats.[^8b-2]
+<sup>3</sup> Il num d’ina persuna cun dretg da votar che ha suttascrit pliras glistas da candidats vegn stritgà immediatamain dal chantun da tut las glistas da candidats.[^8b-2]
 
 [^8b-1]: Integrà tras la cifra I da la O dals 19 d’oct. 1994, en vigur dapi ils 15 da nov. 1994 ([AS 1994 2423](https://fedlex.data.admin.ch/eli/oc/1994/2423_2423_2423)).
 [^8b-2]: Versiun tenor la cifra I da la O dals 20 da sett. 2002, en vigur dapi il 1. da schan. 2003 ([AS 2002 3200](https://fedlex.data.admin.ch/eli/oc/2002/479)).
@@ -213,14 +214,14 @@ La regenza chantunala decretescha las disposiziuns ch’èn necessarias per ordi
 
 <sup>2</sup> La Chanzlia federala lascha sin la glista da candidats che arriva sco emprima tar ella ils candidats che vegnan proponids pliras giadas. ...[^8d-3]
 
-<sup>3</sup> La Chanzlia federala communitgescha al chantun las stritgadas en moda electronica e per telefax entaifer 72 uras suenter l’entrada da sia glista da candidats.[^8d-4]
+<sup>3</sup> Ella communitgescha sin via electronica al chantun las stritgadas entaifer 72 uras suenter l’entrada da sia glista da candidats.[^8d-4]
 
 <sup>4</sup> Il chantun transferescha a la Chanzlia federala ina copia da mintga glista il pli tard entaifer 24 uras suenter ch’il termin da rectificaziun è ì a fin. El designescha en quest connex la glista sco rectifitgada.
 
 [^8d-1]: Integrà tras la cifra I da la O dals 19 d’oct. 1994, en vigur dapi ils 15 da nov. 1994 ([AS 1994 2423](https://fedlex.data.admin.ch/eli/oc/1994/2423_2423_2423)).
 [^8d-2]: Versiun tenor la cifra I da la O dals 26 da favr. 1997, en vigur dapi il 1. d’avr. 1997 ([AS 1997 761](https://fedlex.data.admin.ch/eli/oc/1997/761_761_761)).
 [^8d-3]: Abolì la segunda frasa tras la cifra IV 3 da la O dals 22 d’avust 2007 davart la rectificaziun formala dal dretg federal, cun effect dapi il 1. da schan. 2008 ([AS 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
-[^8d-4]: Versiun tenor la cifra I da la O dals 20 da sett. 2002, en vigur dapi il 1. da schan. 2003 ([AS 2002 3200](https://fedlex.data.admin.ch/eli/oc/2002/479)).
+[^8d-4]: Versiun tenor la cifra I da l’O dals 25 da matg 2022, en vigur dapi il 1. da fan. 2022 ([AS 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
 
 #### Art. 8e
 
@@ -318,9 +319,9 @@ Tar la Chanzlia federala pon vegnir retratgs gratuitamain models d’ina glista 
 
 #### Art. 18a
 
-**Suttascripziun per votants che n’èn betg abels da scriver**[^18a-1]
+**Suttascripziun per persunas cun dretg da votar che n’èn betg ablas da scriver**[^18a-1]
 
-Votants che suttascrivan in referendum per auters votants betg abels da scriver, inditgeschan las persunalias cumplettas da quests votants en la glista da suttascripziun. En la rubrica «suttascripziun d’agen maun» scrivan els cun bustabs da stampa lur agen num ensemen cun l’indicaziun «per incumbensa/p.i.» ed agiuntan lur atgna suttascripziun.
+Persunas cun dretg da votar che suttascrivan in referendum per autras persunas cun dretg da votar betg ablas da scriver, inditgeschan las persunalias cumplettas da questas persunas cun dretg da votar en la glista da suttascripziun. En la rubrica «suttascripziun d’agen maun» scrivan ellas cun bustabs da stampa lur agen num ensemen cun l’indicaziun «per incumbensa/p.i.» ed agiuntan lur atgna suttascripziun.
 
 [^18a-1]: Integrà tras la cifra I da la O dals 26 da favr. 1997, en vigur dapi il 1. d’avr. 1997 ([AS 1997 761](https://fedlex.data.admin.ch/eli/oc/1997/761_761_761)).
 
@@ -444,7 +445,7 @@ La 4. secziun da questa ordinaziun vala tenor il senn per l’iniziativa dal pie
 
 [^27-1]: Abolì tras la cifra IV 3 da la O dals 22 d’avust 2007 davart la rectificaziun formala dal dretg federal, cun effect dapi il 1. da schan. 2008 ([AS 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
-## 6*a*. secziun**** Emprovas**** cun la votaziun electronica
+## 6*a*. secziun Emprovas cun la votaziun electronica
 
 [^sec6a-1][^sec6a-2]
 
@@ -459,7 +460,7 @@ La 4. secziun da questa ordinaziun vala tenor il senn per l’iniziativa dal pie
 
 <sup>2</sup> A chantuns che dumondan per l’emprima giada ina permissiun generala conceda il Cussegl federal la permissiun per maximalmain tschintg votaziuns.
 
-<sup>3</sup> Sch’in chantun ha manà tras senza incaps almain tschintg emprovas singulas consecutivas tar votaziuns federalas, al po il Cussegl federal permetter d’applitgar la votaziun electronica per in tschert dumber maximal da votaziuns federalas dal pievel en in territori limità, per tscherts temas e durant in temp determinà.
+<sup>3</sup> Sch’in chantun ha realisà senza incaps almain tschintg emprovas singulas consecutivas tar votaziuns federalas, al po il Cussegl federal permetter d’applitgar la votaziun electronica per in tschert dumber maximal da votaziuns federalas dal pievel en in territori limità, per tscherts temas e durant in temp determinà.
 
 <sup>4</sup> Emprovas per eleger il Cussegl naziunal sin via electronica dovran en mintga cas ina permissiun generala speziala dal Cussegl federal.
 
@@ -478,14 +479,15 @@ La permissiun generala vegn concedida, sche:
   il chantun garantescha ch’el fetschia las emprovas tenor las prescripziuns dal dretg federal; en spezial sto el prender tut las mesiras efficazias ed adequatas per che:
 
   - 1\. mo persunas cun dretg da votar possian sa participar a la votaziun (controlla dal dretg da votar),
-  - 2\. mintga votant haja mo in’unica vusch e possia votar mo in’unica giada (exclusivitad da la vusch),
+  - 2\. mintga persuna cun dretg da votar haja mo in’unica vusch e possia votar mo in’unica giada (exclusivitad da la vusch),
   - 3\. terzas persunas na possian betg tschiffar, midar u deviar sistematicamain ed efficaziamain las vuschs dadas giu electronicamain (garanzia da la manifestaziun fidaivla da la voluntad dal votant),
   - 4\. terzas persunas na possian survegnir naginas enconuschientschas dal cuntegn da las vuschs consegnadas electronicamain (secret da votaziun),
   - 5\. mintga abus sistematic possia vegnir exclus (votaziun confurma a las normas);
 
-- b. la Chanzlia federala ha constatà sin basa dals mussaments u dals certificats inoltrads ch’il sistem per votar electronicamain, ch’il chantun ha tschernì, è adattà per realisar las emprovas tenor il dretg federal.
+- b.[^27b-2] la Chanzlia federala ha constatà che las premissas per conceder in’admissiun tenor l’artitgel 27*e* alinea 1<sup>bis</sup> èn ademplidas.
 
 [^27b-1]: Versiun tenor la cifra I da la O dals 13 da dec. 2013, en vigur dapi ils 15 da schan. 2014 ([AS 2013 5365](https://fedlex.data.admin.ch/eli/oc/2013/858)).
+[^27b-2]: Versiun tenor la cifra I da l’O dals 25 da matg 2022, en vigur dapi il 1. da fan. 2022 ([AS 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
 
 #### Art. 27c
 
@@ -495,15 +497,16 @@ La permissiun generala vegn concedida, sche:
 
 La dumonda per survegnir la permissiun generala sto cuntegnair:
 
-- a. la garanzia che l’emprova vegnia manada tras tenor las prescripziuns dal dretg federal e ch’in concept realisabel da mesiras finanzialas ed organisatoricas saja avant maun per manar tras las emprovas;
+- a. la garanzia che l’emprova vegnia realisada tenor las prescripziuns dal dretg federal e ch’in concept realisabel da mesiras finanzialas ed organisatoricas saja avant maun per realisar las emprovas;
 - b. las disposiziuns chantunalas che vegnan decretadas per quest intent;
 - c. las indicaziuns davart il sistem che duai vegnir applitgà sco er davart las modalitads da sia gestiun;
 - d. la part maximala da l’electorat chantunal che duai vegnir involvida en l’emprova;
 - e. en cas da pliras emprovas il dumber da votaziuns u la durada maximala, per la quala la permissiun generala duai vegnir concedida.
 
-<sup>2</sup> La Chanzlia federala fixescha tge mussaments u certificats che ston vegnir agiuntads a la dumonda.
+<sup>2</sup> ...[^27c-2]
 
 [^27c-1]: Versiun tenor la cifra I da la O dals 13 da dec. 2013, en vigur dapi ils 15 da schan. 2014 ([AS 2013 5365](https://fedlex.data.admin.ch/eli/oc/2013/858)).
+[^27c-2]: Abolì tras la cifra I da l’O dals 25 da matg 2022, cun effect dapi il 1. da fan. 2022 ([AS 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
 
 #### Art. 27d
 
@@ -513,17 +516,20 @@ Il Cussegl federal fixescha en la permissiun generala:
 
 - a. per tge votaziuns federalas u per tge durada maximala che la votaziun electronica vegn permessa;
 - b. durant tge perioda che la votaziun electronica dastga vegnir pussibilitada;
-- c. per tge territori ch’ils resultats da las votaziuns, ch’èn vegnids constatads en las emprovas, han in effect giuridicamain liant.
+- c.[^27d-2] per tge territori e per tge part da l’electorat che la votaziun electronica vegn permessa.
 
 [^27d-1]: Versiun tenor la cifra I da la O dals 13 da dec. 2013, en vigur dapi ils 15 da schan. 2014 ([AS 2013 5365](https://fedlex.data.admin.ch/eli/oc/2013/858)).
+[^27d-2]: Versiun tenor la cifra I da l’O dals 25 da matg 2022, en vigur dapi il 1. da fan. 2022 ([AS 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
 
 #### Art. 27e
 
 **Admissiun tras la Chanzlia federala**[^27e-1]
 
-<sup>1</sup> Il chantun che ha survegnì ina permissiun generala sto dumandar in’admissiun da la Chanzlia federala per mintga scrutini ch’el maina tras en il rom d’ina votaziun electronica. La Chanzlia federala fixescha las premissas per conceder l’admissiun e per il cuntegn da las dumondas.
+<sup>1</sup> Il chantun che ha survegnì ina permissiun generala sto dumandar in’admissiun da la Chanzlia federala per mintga scrutini ch’el realisescha cun la votaziun electronica.[^27e-2]
 
-<sup>2</sup> L’admissiun vegn concedida, sch’il sistem tschernì dal chantun e sche las modalitads da gestiun adempleschan las premissas fixadas da la Chanzlia federala.
+<sup>1bis</sup> La Chanzlia federala fixescha las premissas per la concessiun da l’admissiun ed en spezial las pretensiuns che valan per il sistem da la votaziun electronica e per ses manaschi.[^27e-3]
+
+<sup>2</sup> L’admissiun vegn concedida, sche las premissas tenor l’alinea 1<sup>bis</sup> èn ademplidas.[^27e-4]
 
 <sup>3</sup> Sche la Chanzlia federala arriva a la conclusiun, suenter avair examinà ina dumonda d’admissiun, che las premissas na sajan betg ademplidas, communitgescha ella quai al chantun respectiv e motivescha ses giudicament.
 
@@ -532,6 +538,9 @@ Il Cussegl federal fixescha en la permissiun generala:
 <sup>5</sup> La votaziun electronica tar votaziuns federalas è admessa mo, uschenavant che quai vegn pussibilità en ils territoris fixads per quest intent per tut ils projects da la votaziun correspundenta e per tut ils scrutinis da l’elecziun respectiva.
 
 [^27e-1]: Versiun tenor la cifra I da la O dals 13 da dec. 2013, en vigur dapi ils 15 da schan. 2014 ([AS 2013 5365](https://fedlex.data.admin.ch/eli/oc/2013/858)).
+[^27e-2]: Versiun tenor la cifra I da l’O dals 25 da matg 2022, en vigur dapi il 1. da fan. 2022 ([AS 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
+[^27e-3]: Integrà tras la cifra I da l’O dals 25 da matg 2022, en vigur dapi il 1. da fan. 2022 ([AS 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
+[^27e-4]: Versiun tenor la cifra I da l’O dals 25 da matg 2022, en vigur dapi il 1. da fan. 2022 ([AS 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
 
 #### Art. 27e<sup>bis</sup>
 
@@ -543,25 +552,21 @@ Il Cussegl federal fixescha en la permissiun generala:
 
 **Limitas**[^27f-1]
 
-<sup>1</sup>
+<sup>1</sup> A la votaziun electronica vegnan admess maximalmain 30 pertschient da l’electorat chantunal. Però na dastga la limita da 10 pertschient da l’entir electorat svizzer betg vegnir surpassada.
 
-La Chanzlia federala fixescha tge pretensiuns ch’in sistem per la votaziun electronica e tge pretensiuns che sia gestiun ston ademplir per che:
+<sup>2</sup> La Chanzlia federala examinescha regularmain, sche l’autezza da las limitas tenor l’alinea 1 sto vegnir adattada resguardond ils svilups en il sectur da la votaziun electronica.
 
-- a. maximalmain 30 pertschient da l’electorat chantunal possia vegnir admess a la votaziun electronica; en quest connex na dastga la limita da 10 pertschient da tut l’electorat svizzer betg vegnir surpassà;
-- b. maximalmain 50 pertschient da l’electorat chantunal possia vegnir admess a la votaziun electronica; en quest connex na dastga la limita da 30 pertschient da tut l’electorat svizzer betg vegnir surpassà;
-- c. tut l’electorat chantunal possia vegnir admess a la votaziun electronica.
+<sup>3</sup> Ils Svizzers a l’exteriur cun dretg da votar e las persunas cun dretg da votar che na pon betg vuschar autonomamain pervia d’in impediment, na vegnan betg resguardads cun calcular las limitas.
 
-<sup>2</sup> Ils votants svizzers a l’exteriur na vegnan betg resguardads cun calcular las limitas.
-
-[^27f-1]: Versiun tenor la cifra I da la O dals 13 da dec. 2013, en vigur dapi ils 15 da schan. 2014 ([AS 2013 5365](https://fedlex.data.admin.ch/eli/oc/2013/858)).
+[^27f-1]: Versiun tenor la cifra I da l’O dals 25 da matg 2022, en vigur dapi il 1. da fan. 2022 ([AS 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
 
 #### Art. 27g
 
-**Votants cun in impediment**[^27g-1]
+**Persunas cun dretg da votar che han in impediment**[^27g-1]
 
-<sup>1</sup> Il process da la votaziun electronica sto vegnir concepì uschia ch’i vegnan resguardads ils basegns da votants che na pon betg dar giu lur vusch en moda autonoma pervia d’in impediment.
+<sup>1</sup> Il process da la votaziun electronica sto vegnir concepì uschia ch’i vegnan resguardads ils basegns da persunas cun dretg da votar che na pon betg dar giu lur vusch en moda autonoma pervia d’in impediment.
 
-<sup>2</sup> Realisond las pretensiuns envers la votaziun electronica po la Chanzlia federala admetter levgiaments per quests votants, premess che la segirezza na vegnia betg pregiuditgada considerablamain tras quests levgiaments.
+<sup>2</sup> Realisond las pretensiuns envers la votaziun electronica po la Chanzlia federala admetter levgiaments per questas persunas cun dretg da votar, premess che la segirezza na vegnia betg pregiuditgada considerablamain tras quests levgiaments.
 
 [^27g-1]: Versiun tenor la cifra I da la O dals 13 da dec. 2013, en vigur dapi ils 15 da schan. 2014 ([AS 2013 5365](https://fedlex.data.admin.ch/eli/oc/2013/858)).
 
@@ -577,23 +582,26 @@ La Chanzlia federala fixescha tge pretensiuns ch’in sistem per la votaziun ele
 
 #### Art. 27i
 
-**Controlla da la plausibilitad e da la verificabilitad da la votaziun electronica**[^27i-1]
+**Verificabladad e plausibilisaziun da la votaziun electronica[^27i-2]**[^27i-1]
 
-<sup>1</sup> Ils chantuns che involvan mo ina part da lur electorat en in’emprova, ston pudair plausibilisar ils resultats.
+<sup>1</sup> Ils chantuns procuran che l’elavuraziun correcta da las vuschs e la correctadad dal resultat da la votaziun electronica vegnian verifitgadas.[^27i-3]
 
-<sup>2</sup> Ils chantuns che involvan tut lur electorat en in’emprova, ston garantir che l’andament correct da la votaziun electronica e che la correctadad dal resultat da quest chanal da votaziun possian vegnir verifitgads.
+<sup>2</sup> Els plausibiliseschan ils resultats da la votaziun electronica.[^27i-4]
 
 <sup>3</sup> La Chanzlia federala regla la verificabilitad e la plausibilisaziun.
 
 <sup>4</sup> Sch’i vegnan constatadas irregularitads tar la verificaziun u tar la plausibilisaziun, sto il dumber da vuschs faussas vegnir eruì u i sto almain pudair vegnir giuditgà tge effect che las vuschs faussas han sin il resultat da la votaziun.
 
-[^27i-1]: Versiun tenor la cifra I da la O dals 13 da dec. 2013, en vigur dapi ils 15 da schan. 2014 ([AS 2013 5365](https://fedlex.data.admin.ch/eli/oc/2013/858)).
+[^27i-1]: Versiun tenor la cifra I da l’O dals 13 da dec. 2013, en vigur dapi ils 15 da schan. 2014 ([AS 2013 5365](https://fedlex.data.admin.ch/eli/oc/2013/858)).
+[^27i-2]: Versiun tenor la cifra I da l’O dals 25 da matg 2022, en vigur dapi il 1. da fan. 2022 ([AS 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
+[^27i-3]: Versiun tenor la cifra I da l’O dals 25 da matg 2022, en vigur dapi il 1. da fan. 2022 ([AS 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
+[^27i-4]: Versiun tenor la cifra I da l’O dals 25 da matg 2022, en vigur dapi il 1. da fan. 2022 ([AS 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
 
 #### Art. 27j
 
 **Fidaivladad da la votaziun electronica**[^27j-1]
 
-<sup>1</sup> Ils chantuns ston prender tut las mesiras efficazias e commensuradas per garantir che la votaziun possia vegnir manada tras e serrada giu correctamain.
+<sup>1</sup> Ils chantuns ston prender tut las mesiras efficazias e commensuradas per garantir che la votaziun possia vegnir realisada e serrada giu correctamain.
 
 <sup>2</sup> Els ston garantir particularmain che naginas vuschs na giajan a perder per adina, avant ch’il resultat è verifitgà.
 
@@ -613,38 +621,79 @@ La Chanzlia federala fixescha tge pretensiuns ch’in sistem per la votaziun ele
 
 In chantun che n’ha betg in agen sistem po:
 
-- a. pussibilitar a ses votants da votar e d’eleger electronicamain sur in sistem che vegn manà d’in auter chantun;
-- b. engaschar ina interpresa privata per manar tras la votaziun electronica.
+- a. pussibilitar a sias persunas cun dretg da votar da votar e d’eleger electronicamain sur in sistem che vegn manà d’in auter chantun;
+- b. engaschar ina interpresa privata per realisar la votaziun electronica.
 
-<sup>2</sup> En quests cas vegnan ils detagls reglads en in contract tranter ils chantuns participads, la Chanzlia federala ed eventualmain l’interpresa privata.
+<sup>2</sup> ...[^27kbis-2]
 
 [^27kbis-1]: Integrà tras la cifra I da la O dals 13 da dec. 2010 ([AS 2010 275](https://fedlex.data.admin.ch/eli/oc/2010/36)). Versiun tenor la cifra I da la O dals 13 da dec. 2013, en vigur dapi ils 15 da schan. 2014 ([AS 2013 5365](https://fedlex.data.admin.ch/eli/oc/2013/858)).
+[^27kbis-2]: Abolì tras la cifra I da l’O dals 25 da matg 2022, cun effect dapi il 1. da fan. 2022 ([AS 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
 
 #### Art. 27l
 
-**Evaluaziun dals sistems e da las modalitads da gestiun**[^27l-1]
+**Controlla dals sistems e da las modalitads dal manaschi**[^27l-1]
 
-In post extern independent, renconuschì da la Chanzlia federala, sto:
+<sup>1</sup>
 
-- a. confermar che las pretensiuns da la Chanzlia federala envers la segirezza èn ademplidas;
-- b. controllar, sche las mesiras da segirezza ed il sistem da la votaziun electronica èn sin il stadi il pli actual.
+Il sistem e las modalitads dal manaschi ston vegnir controllads:
 
-<sup>2</sup> En la medema moda e maniera stoi er vegnir procedì tar mintga midada essenziala dal sistem u da las modalitads da gestiun.
+- a. avant il diever d’in nov sistem;
+- b. a chaschun da mintga midada essenziala dal sistem u da las modalitads da manaschi;
+- c. en intervals regulars.
 
-<sup>3</sup> La Chanzlia federala fixescha las premissas per la renconuschientscha e regla ils detagls da l’evaluaziun.
+<sup>2</sup>
 
-[^27l-1]: Versiun tenor la cifra I da la O dals 13 da dec. 2013, en vigur dapi ils 15 da schan. 2014 ([AS 2013 5365](https://fedlex.data.admin.ch/eli/oc/2013/858)).
+La controlla vegn fatga tras posts independents. Quels controlleschan, sche:
+
+- a. las pretensiuns da la Chanzlia federala èn ademplidas;
+- b. las mesiras da segirezza ed il sistem da la votaziun electronica èn sin il stadi il pli actual.
+
+<sup>3</sup> La Chanzlia federala regla ils intervals ed ils detagls da la controlla sco er las pretensiuns envers ils posts independents.
+
+<sup>4</sup> Ella fixescha, tge controllas ch’èn chaussa da la Chanzlia federala e tgeninas chaussa dal chantun.
+
+[^27l-1]: Versiun tenor la cifra I da l’O dals 25 da matg 2022, en vigur dapi il 1. da fan. 2022 ([AS 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
+
+#### Art. 27l<sup>bis</sup>
+
+**Publicitad da las infurmaziuns davart il sistem e davart ses manaschi**[^27lbis-1]
+
+<sup>1</sup> Ils chantuns che fan emprovas cun la votaziun electronica communitgeschan publicamain la moda da funcziun e las caracteristicas da segirezza dal sistem da la votaziun electronica sco er ils andaments essenzials dal manaschi.
+
+<sup>2</sup>
+
+Els procuran che las suandantas infurmaziuns vegnian publitgadas:
+
+- a. la documentaziun dal sistem e da ses manaschi;
+- b. il code da funtauna da la software;
+- c. la documentaziun dal process da svilup;
+- d. ina cumprova ch’ils programs legibels d’ina maschina sajan vegnids generads sin basa dal code da funtauna da la software publitgà.
+
+<sup>3</sup> Resalvadas restan las disposiziuns da la legislaziun davart la transparenza e davart la protecziun da datas.
+
+[^27lbis-1]: Integrà tras la cifra I da l’O dals 25 da matg 2022, en vigur dapi il 1. da fan. 2022 ([AS 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
+
+#### Art. 27l<sup>ter</sup>
+
+**Integraziun da la publicitad**[^27lter-1]
+
+<sup>1</sup> La Chanzlia federala ed ils chantuns che fan emprovas cun la votaziun electronica procuran per l’integraziun da la publicitad e dals circuls spezialisads.
+
+<sup>2</sup> En spezial dattan ils chantuns impuls, per che la publicitad ed ils circuls spezialisads coopereschian a la meglieraziun dals sistems da la votaziun electronica.
+
+[^27lter-1]: Integrà tras la cifra I da l’O dals 25 da matg 2022, en vigur dapi il 1. da fan. 2022 ([AS 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
 
 #### Art. 27m
 
-**Infurmaziun dals votants**[^27m-1]
+**Infurmaziun da las persunas cun dretg da votar e publicaziun dals resultats da la votaziun electronica**[^27m-1]
 
-<sup>1</sup> Ils chantuns che fan emprovas cun la votaziun electronica infurmeschan ils votants en ina moda generalmain chapaivla davart l’organisaziun, davart la tecnica e davart la procedura da la votaziun electronica. Els mussan co ch’ins sto proceder, sch’i dat problems, e decleran, co che la verificabilitad funcziuna.
+<sup>1</sup> Ils chantuns che fan emprovas cun la votaziun electronica infurmeschan las persunas cun dretg da votar en ina moda generalmain chapaivla davart l’organisaziun, davart la tecnica e davart la procedura da la votaziun electronica. Els mussan co ch’ins sto proceder, sch’i dat problems, e decleran, co che la verificabladad funcziuna.
 
-<sup>2</sup> Tut las proceduras uffizialas impurtantas da la votaziun electronica e la documentaziun correspundenta ston esser accessiblas ad ina represchentanza dals votants. L’artitgel 7 da la Lescha da transparenza dals 17 da december 2004[^27m-2] resta resalvà.
+<sup>2</sup> Tut las proceduras uffizialas impurtantas durant in scrutini realisà cun la votaziun electronica sco er la documentaziun correspundenta ston esser accessiblas ad ina represchentanza da las persunas cun dretg da votar.
 
-[^27m-1]: Versiun tenor la cifra I da la O dals 13 da dec. 2013, en vigur dapi ils 15 da schan. 2014 ([AS 2013 5365](https://fedlex.data.admin.ch/eli/oc/2013/858)).
-[^27m-2]: [SR 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
+<sup>3</sup> En cas d’elecziuns e da votaziuns federalas publitgeschan ils chantuns ils resultats da las vuschs consegnadas sin via electronica. Las cifras ston vegnir publitgadas uschia, ch’il secret da votaziun resta garantì.
+
+[^27m-1]: Versiun tenor la cifra I da l’O dals 25 da matg 2022, en vigur dapi il 1. da fan. 2022 ([AS 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
 
 #### Art. 27n
 
@@ -660,15 +709,22 @@ In post extern independent, renconuschì da la Chanzlia federala, sto:
 
 #### Art. 27o
 
-**Accumpagnament scientific**[^27o-1]
+**Engaschament da spezialists independents ed accumpagnament scientific**[^27o-1]
 
-<sup>1</sup> La Chanzlia federala po evaluar datas davart l’utilisaziun da la votaziun electronica u laschar evaluar questas datas tras ils chantuns e laschar accumpagnar scientificamain las emprovas.
+<sup>1</sup> La Chanzlia federala ed ils chantuns engaschan spezialists independents che gidan ad ademplir lur lavurs, uschenavant che quai è commensurà ed en spezial in agid per rinforzar la confidenza en la votaziun electronica ed en la segirezza dal chanal da la votaziun electronica.
 
-<sup>2</sup> Ella procura particularmain che las emprovas cun la votaziun electronica vegnian evaluadas areguard lur efficacitad, en spezial il svilup da la participaziun a la votaziun ed ils effects sin la disa da votar, e garantescha la coerenza da las evaluaziuns.
+<sup>2</sup>
 
-<sup>3</sup> Suenter mintga emprova transmettan ils chantuns a la Chanzlia federala indicaziuns statisticas anonimisadas davart l’utilisaziun da la votaziun electronica. Sch’els fan retschertgas accumpagnantas pli detagliadas, infurmeschan els la Chanzlia federala davart ils resultats da talas.
+La Chanzlia federala procura per in accumpagnament scientific da las emprovas e po, per quest intent:
 
-[^27o-1]: Versiun tenor la cifra I da la O dals 13 da dec. 2013, en vigur dapi ils 15 da schan. 2014 ([AS 2013 5365](https://fedlex.data.admin.ch/eli/oc/2013/858)).
+- a. surdar lavurs da perscrutaziun, en spezial en secturs da las scienzas socialas e da la tecnica;
+- b. registrar datas davart l’utilisaziun da la votaziun electronica u laschar registrar questas datas tras ils chantuns.
+
+<sup>3</sup> Ella procura che las emprovas cun la votaziun electronica vegnian evaluadas areguard lur efficacitad, en spezial areguard il svilup da la participaziun a las votaziuns ed areguard las disas da votar.
+
+<sup>4</sup> Suenter mintga emprova transmettan ils chantuns a la Chanzlia federala indicaziuns statisticas anonimisadas davart l’utilisaziun da la votaziun electronica. Sch’els fan retschertgas accumpagnantas pli detagliadas, infurmeschan els la Chanzlia federala davart ils resultats da talas.
+
+[^27o-1]: Versiun tenor la cifra I da l’O dals 25 da matg 2022, en vigur dapi il 1. da fan. 2022 ([AS 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
 
 #### Art. 27p
 
@@ -716,7 +772,7 @@ Ils suandants decrets vegnan abolids:
 - 3\. il Conclus dal Cussegl federal dals 10 da december 1945[^29-3] concernent la participaziun dals schuldads ad elecziuns ed a votaziuns federalas, chantunalas e communalas.
 
 [^29-1]: [BS **1** 177]
-[^29-2]: [BS **1** 188; [AS 1971 912](https://fedlex.data.admin.ch/eli/oc/1971/912_912_912), [1975 901](https://fedlex.data.admin.ch/eli/oc/1975/901_901_901)]
+[^29-2]: [BS **1** 188; [AS 1971 912](https://fedlex.data.admin.ch/eli/oc/1971/912_912_912); [1975 901](https://fedlex.data.admin.ch/eli/oc/1975/901_901_901)]
 [^29-3]: [BS **1** 165; [AS 1976 1809](https://fedlex.data.admin.ch/eli/oc/1976/1809_1809_1809)art. 16]
 
 #### Art. 30
@@ -725,7 +781,7 @@ Ils suandants decrets vegnan abolids:
 
 Questa ordinaziun entra en vigur il 1. da fanadur 1978.
 
-## Disposiziuns finalas da la midada dals 26 da favrer 1997****
+## Disposiziuns finalas da la midada dals 26 da favrer 1997
 
 [^u1-1]
 
@@ -737,10 +793,8 @@ Agiunta 1a
 
 <table>
 <tr><td colspan="6"></td><td>1</td><td></td><td></td><td>4</td></tr>
-<tr><td>Gemeinde</td><td></td><td>Kanton</td><td></td><td colspan="2">Datum</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Commune</td><td></td><td>Canton</td><td></td><td colspan="2">Date</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Comune</td><td></td><td>Cantone</td><td></td><td>Data</td><td>20</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Vischnanca</td><td></td><td>Chantun</td><td></td><td>Data</td><td>20</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Gemeinde / Commune</td><td></td><td>Kanton / Canton</td><td></td><td>Datum / Date</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Comune / Vischnanca</td><td></td><td>Cantone / Chantun</td><td></td><td>Data</td><td>20</td><td></td><td></td><td></td><td></td></tr>
 <tr><td colspan="6"></td><td>5</td><td></td><td></td><td>8</td></tr>
 </table>
 
@@ -756,23 +810,22 @@ Project
 <tr><td colspan="4">Stimmberechtigte Electeurs inscrits Elettori iscritti Persunas cun dretg da votar</td><td colspan="2">Eingelangte Stimmzettel Bulletins rentrés Schede rientrate Cedels entrads</td><td colspan="4">Ausser Betracht fallende Stimmzettel Bulletins n’entrant pas en ligne de compte Schede non computabili Cedels betg considerads</td><td colspan="2">In Betracht fallende Stimmzettel Bulletins entrant en ligne de compte Schede computabili Cedels considerads</td><td colspan="2">ja oui si gea</td><td colspan="2">nein non no na</td></tr>
 <tr><td colspan="2">Total Total Totale Total</td><td colspan="2">davon Auslandschweizer dont Suisses de l’étranger di cui residenti all’estero da quai Svizzers a l’exteriur</td><td colspan="2"></td><td colspan="2">leere blancs bianche vids</td><td colspan="2">ungültige nuls nulle nunvalaivels</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td></tr>
 <tr><td>9</td><td>14</td><td>15</td><td>20</td><td>21</td><td>26</td><td>27</td><td>32</td><td>33</td><td>38</td><td>39</td><td>44</td><td>51</td><td>56</td><td>57</td><td>62</td></tr>
-<tr><td colspan="6"></td><td colspan="4">Summe Total Totale Summa</td><td colspan="6"></td></tr>
+<tr><td colspan="6"></td><td colspan="4">Summe / Total</td><td colspan="6"></td></tr>
+<tr><td colspan="6"></td><td colspan="4">Totale / Summa</td><td colspan="6"></td></tr>
 </table>
 
-Agiunta 1b*[^t-2]*
+Agiunta 1b[^t-2]
 
 (art. 4 al. 1)
 
 <table>
 <tr><td colspan="5"></td><td>1</td><td></td><td></td><td>4</td></tr>
-<tr><td>Gemeinde</td><td></td><td>Kanton</td><td></td><td>Datum</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Commune</td><td></td><td>Canton</td><td></td><td>Date</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Comune</td><td></td><td>Cantone</td><td></td><td>Data</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Vischnanca</td><td></td><td>Chantun</td><td></td><td>Data</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Gemeinde / Commune</td><td></td><td>Kanton / Canton</td><td></td><td>Datum / Date</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Comune / Vischnanca</td><td></td><td>Cantone / Chantun</td><td></td><td>Data</td><td></td><td></td><td></td><td></td></tr>
 <tr><td colspan="5"></td><td>5</td><td></td><td></td><td>8</td></tr>
 </table>
 
-Vorlage – Objet – Oggetto – Project
+Vorlage / Objet Oggetto / Project
 
 <table>
 <tr><td colspan="4">Stimmberechtigte Electeurs inscrits Elettori iscritti Persunas cun dretg da votar</td><td colspan="2">Eingelangte Stimmzettel Bulletins rentrés Schede rientrate Cedels entrads</td><td colspan="4">Ausser Betracht fallende Stimmzettel Bulletins n’entrant pas en ligne de compte Schede non computabili Cedels betg considerads</td><td colspan="2">In Betracht fallende Stimmzettel Bulletins entrant en ligne de compte Schede computabili Cedels considerads</td><td colspan="9">Volksinitiative Initiative populaire Inziativa popolare Iniziativa dal pievel</td><td colspan="9">Gegenentwurf Contre-projet Controprogetto Cuntraproposta</td><td colspan="8">Stichfrage Question subsidiaire Domanda sussidiaria risolutiva Dumonda decisiva</td></tr>
@@ -782,9 +835,11 @@ Vorlage – Objet – Oggetto – Project
 <tr><td>9</td><td>14</td><td>15</td><td>20</td><td>21</td><td>26</td><td>27</td><td>32</td><td>33</td><td>38</td><td>39</td><td>44</td><td>45</td><td>50</td><td colspan="2">51</td><td>56</td><td>57</td><td>62</td><td>63</td><td>68</td><td>69</td><td>74</td><td colspan="2">75</td><td>80</td><td>81</td><td>86</td><td>87</td><td>92</td><td>93</td><td>98</td><td>99</td><td>104</td><td>105</td><td>110</td><td>111</td><td colspan="2">116</td></tr>
 </table>
 
-[^t-2]: Versiun tenor la cifra II da l’O dals 26 da favr. 1997, en vigur dapi il 1. d’avr. 1997 ([AS 1997 761](https://fedlex.data.admin.ch/eli/oc/1997/761_761_761)).
+[^t-2]: Versiun tenor la cifra II da l'O dals 26 da favr. 1997, en vigur dapi il 1. d'avr. 1997 ([AS 1997 761](https://fedlex.data.admin.ch/eli/oc/1997/761_761_761)).
 
-Agiunta 2*[^t-3]*
+Agiunta 2[^t-3]
+
+(art. 8 al. 1, 12 al. 1 e 14 al. 2)
 
 <table>
 <tr><td>Formular</td><td>**1**</td><td>Gemeinde</td><td>Wahlkreis, Kanton</td><td>Wahltag</td></tr>
@@ -802,7 +857,7 @@ Agiunta 2*[^t-3]*
 
 <table>
 <tr><td>Namen der Stimmenzähler Nom des scrutateurs Nomi degli scrutatori Nums dals dumbravuschs</td><td>Total der eingegangenen Wahlzettel Total des bulletins rentrés Totale delle schede rientrate Total dals cedels entrads</td><td>Leere Wahlzettel Bulletins blancs Schede bianche Cedels vids</td><td>Ungültige Wahlzettel Bulletins nuls Schede nulle Cedels nunvalaivels</td><td></td><td colspan="3">Gültige Wahlzettel/Bulletins valables</td></tr>
-<tr><td></td><td></td><td></td><td></td><td>Total der gültigen Wahlzettel Total des bulletins valables Totale delle schede valide Total dals cedels valaivels</td><td colspan="3">Unveränderte Wahlzettel/Bulletins non modifiés/Schede invariate Schede invariate/Cedels originals</td></tr>
+<tr><td></td><td></td><td></td><td></td><td>Total der gültigen Wahlzettel Total des bulletins valables Totale delle schede valide Total dals cedels valaivels</td><td colspan="3">Unveränderte Wahlzettel/Bulletins non modifiés Schede invariate/Cedels originals</td></tr>
 <tr><td></td><td></td><td></td><td></td><td></td><td>**1**</td><td>**…**</td><td>**10**</td></tr>
 <tr><td>Total – Totale</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 </table>
@@ -823,21 +878,24 @@ Formular 1 rechter Teil / Formule 1 moitié droite / Modulo 1 parte destra / For
 </table>
 
 <table>
-<tr><td>Formular</td><td colspan="2">**2**</td><td colspan="5">Gemeinde</td><td colspan="4">Kanton</td><td colspan="7">Einlagebogen</td></tr>
-<tr><td>Formule</td><td colspan="2"></td><td colspan="5">Commune</td><td colspan="4">Canton</td><td colspan="7">Feuille intercalaire</td></tr>
-<tr><td>Modulo</td><td colspan="2"></td><td colspan="5">Comune</td><td colspan="4">Cantone</td><td colspan="7">Foglio intercalare</td></tr>
-<tr><td>Formular</td><td colspan="2"></td><td colspan="5">Vischnanca</td><td colspan="4">Chantun</td><td colspan="7">Fegl d’inserziun</td></tr>
-<tr><td colspan="3"></td><td colspan="10">Wahltag – Jour du scrutin – Giorno dell’elezione – Di d’elecziun</td><td colspan="4"></td><td colspan="2"></td></tr>
-<tr><td colspan="13"></td><td colspan="2">2</td><td colspan="2">5</td><td>6</td><td>7</td></tr>
-<tr><td colspan="2">Liste Nr./No/ Lista N./Glista nr.</td><td colspan="3"></td><td></td><td colspan="3">Unveränderte Wahlzettel Bulletins non modifiés Schede invariate Cedels originals</td><td colspan="2">Veränderte Wahlzettel Bulletins modifiés Schede variate Cedels midads</td><td colspan="5">Total Totale</td><td colspan="3"></td></tr>
-<tr><td colspan="2">Bezeichnung Dénomination Denominazione Denominaziun</td><td colspan="2">8</td><td>9</td><td></td><td colspan="3"></td><td colspan="2"></td><td colspan="5"></td><td colspan="3">90</td></tr>
-<tr><td colspan="6"></td><td>10</td><td colspan="2">16</td><td>17</td><td>23</td><td colspan="3">24</td><td colspan="2">30</td><td colspan="3">31-32</td></tr>
+<tr><td>Formular</td><td>**2**</td><td>Gemeinde</td><td>Kanton</td><td>Einlagebogen</td></tr>
+<tr><td>Formule</td><td></td><td>Commune</td><td>Canton</td><td>Feuille intercalaire</td></tr>
+<tr><td>Modulo</td><td></td><td>Comune</td><td>Cantone</td><td>Foglio intercalare</td></tr>
+<tr><td>Formular</td><td></td><td>Vischnanca</td><td>Chantun</td><td>Fegl d’inserziun</td></tr>
 </table>
 
-Kandidaten- und Parteistimmen/Suffrages nominatifs et de parti/ Suffragi personali e di partito/Vuschs da candidats e da partida
+<table>
+<tr><td colspan="2"></td><td colspan="8">Wahltag/Jour du scrutin Giorno dell’elezione/Di d’elecziun</td><td colspan="4"></td><td colspan="2"></td></tr>
+<tr><td colspan="10"></td><td colspan="2">2</td><td colspan="2">5</td><td>6</td><td>7</td></tr>
+<tr><td>Liste Nr./No Lista N./Glista nr.</td><td colspan="3"></td><td></td><td colspan="2">Unveränderte Wahlzettel Bulletins non modifiés Schede invariate Cedels originals</td><td colspan="2">Veränderte Wahlzettel Bulletins modifiés Schede variate Cedels midads</td><td colspan="4">Total Total Totale Total</td><td colspan="3"></td></tr>
+<tr><td>Bezeichnung Dénomination Denominazione Denominaziun</td><td colspan="2">8</td><td>9</td><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="4"></td><td colspan="3">90</td></tr>
+<tr><td colspan="5"></td><td>10</td><td>16</td><td>17</td><td>23</td><td colspan="2">24</td><td colspan="2">30</td><td colspan="3">31-32</td></tr>
+</table>
+
+**Kandidaten- und Parteistimmen/Suffrages nominatifs et de parti/** **Suffragi personali e di partito**/Vuschs da candidats e da partida
 
 <table>
-<tr><td>Kandidaten – Candidats – Candidati – Candidats Art der Stimmen – Genre de suffrages – Genere dei suffragi – Gener da las vuschs</td><td colspan="7">Stimmen von den unveränderten Wahlzetteln Suffrages des bulletins non modifiés Suffragi delle schede invariate Vuschs dals cedels originals</td><td colspan="7">Stimmen von den veränderten Wahlzetteln und Wahlzetteln ohne Parteibezeichnung Suffrages des bulletins modifiés et des bulletins sans dénomination de parti Suffragi delle schede variate e delle schede senza intestazione Vuschs dals cedels midads e dals cedels senza denominaziun da la partida (Form. 3b)</td><td colspan="7">Total Totale</td><td></td></tr>
+<tr><td>Kandidaten – Candidats Candidati – Candidats Art der Stimmen Genre de suffrages Genere dei suffragi Gener da las vuschs</td><td colspan="7">Stimmen von den unveränderten Wahlzetteln Suffrages des bulletins non modifiés Suffragi delle schede invariate Vuschs dals cedels originals</td><td colspan="7">Stimmen von den veränderten Wahlzetteln und Wahlzetteln ohne Parteibezeichnung Suffrages des bulletins modifiés et des bulletins sans dénomination de parti Suffragi delle schede variate e delle schede senza intestazione Vuschs dals cedels midads e dals cedels senza denominaziun da la partida (Form. 3b)</td><td colspan="7">Total Total Totale Total</td><td></td></tr>
 <tr><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>01</td></tr>
 <tr><td>…</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>…</td></tr>
 <tr><td>17</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>17</td></tr>
@@ -845,7 +903,7 @@ Kandidaten- und Parteistimmen/Suffrages nominatifs et de parti/ Suffragi persona
 <tr><td>Kandidatenstimmen, total Suffrages nominatifs, total Suffragi personali, totale Vuschs da candidat, total</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>91</td></tr>
 <tr><td>Zusatzstimmen Suffrages complémentaires Suffragi di complemento Vuschs supplementaras</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>92</td></tr>
 <tr><td>Parteistimmen, total Suffrages de parti, total Suffragi di partito, totale Vuschs da partida, total</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>93</td></tr>
-<tr><td>Leere Stimmen\* Suffrages blancs\* Suffragi in bianco\* Vuschs vidas\*</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>94</td></tr>
+<tr><td>Leere Stimmen\* / Suffrages blancs\* Suffragi in bianco\* / Vuschs vidas\*</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>94</td></tr>
 </table>
 
 <table>
@@ -855,20 +913,21 @@ Kandidaten- und Parteistimmen/Suffrages nominatifs et de parti/ Suffragi persona
 Formular 2 Rückseite / Formule 2 verso / Modulo 2 retro / Formular 2 vart davos
 
 <table>
-<tr><td>Kandidaten – Candidats – Candidati – Candidats Art der Stimmen – Genre de suffrages – Genere dei suffragi – Gener da las vuschs</td><td colspan="8">Stimmen von den unveränderten Wahlzetteln Suffrages des bulletins non modifiés Suffragi delle schede invariate Vuschs dals cedels originals</td><td colspan="8">Stimmen von den veränderten Wahlzetteln und Wahlzetteln ohne Parteibezeichnung Suffrages des bulletins modifiés et des bulletins sans dénomination de parti Suffragi delle schede variate e delle schede senza intestazione Vuschs dals cedels midads e dals cedels senza denominaziun da la partida (Form. 3b)</td><td colspan="8">Total Totale</td><td></td></tr>
+<tr><td>Kandidaten – Candidats Candidati – Candidats Art der Stimmen Genre de suffrages Genere dei suffragi Gener da las vuschs</td><td colspan="8">Stimmen von den unveränderten Wahlzetteln Suffrages des bulletins non modifiés Suffragi delle schede invariate Vuschs dals cedels originals</td><td colspan="8">Stimmen von den veränderten Wahlzetteln und Wahlzetteln ohne Parteibezeichnung Suffrages des bulletins modifiés et des bulletins sans dénomination de parti Suffragi delle schede variate e delle schede senza intestazione Vuschs dals cedels midads e dals cedels senza denominaziun da la partida (Form. 3b)</td><td colspan="8">Total Total Totale Total</td><td></td></tr>
 <tr><td></td><td colspan="4">10</td><td colspan="4">16</td><td colspan="4">17</td><td colspan="4">23</td><td colspan="4">24</td><td colspan="4">30</td><td>31-32</td></tr>
-<tr><td>Übertrag – Report – Riporto–Transport</td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Übertrag – Report Riporto – Transport</td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>18</td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td>18</td></tr>
 <tr><td>19</td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td>19</td></tr>
 <tr><td>20</td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td>20</td></tr>
 <tr><td>21</td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td>21</td></tr>
 <tr><td>22</td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td>22</td></tr>
 <tr><td>23</td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td>23</td></tr>
-<tr><td>24</td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td>24</td></tr>
-<tr><td>25</td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td>25</td></tr>
-<tr><td>…</td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td>26</td></tr>
-<tr><td>33</td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td>27</td></tr>
-<tr><td>34</td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td>28</td></tr>
+<tr><td>…</td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td>…</td></tr>
+<tr><td>30</td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td>30</td></tr>
+<tr><td>31</td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td>31</td></tr>
+<tr><td>32</td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td>32</td></tr>
+<tr><td>33</td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td>33</td></tr>
+<tr><td>34</td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td>34</td></tr>
 <tr><td>35</td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td>35</td></tr>
 <tr><td>Kandidatenstimmen, total Suffrages nominatifs, total Suffragi personali, totale Vuschs da candidat, total</td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td>91</td></tr>
 <tr><td>Zusatzstimmen Suffrages complémentaires Suffragi di complemento Vuschs supplementaras</td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td>92</td></tr>
@@ -888,14 +947,14 @@ Formular 2 Rückseite / Formule 2 verso / Modulo 2 retro / Formular 2 vart davos
 </table>
 
 <table>
-<tr><td>Zählbogen Nr. Feuille de dépouillement N<sup>o</sup> Foglio di conteggio N. Fegl da dumbraziun nr.</td><td></td><td></td><td>**Erneuerungswahl von Election pour le renouvellement de Elezione per il rinnovo dei Elecziun da renovaziun da**</td><td></td><td>**Mitgliedern des Nationalrates membres du Conseil national membri del Consiglio nazionale commembers dal Cussegl naziunal**</td><td>**Liste Nr./ Liste N****<sup>o</sup>****/ Lista N./ Glista nr.**</td><td></td></tr>
+<tr><td>Zählbogen Nr. Feuille de dépouillement N<sup>o</sup> Foglio di conteggio N. Fegl da dumbraziun nr.</td><td></td><td></td><td>**Erneuerungswahl von** **Election pour le renouvellement de** **Elezione per il rinnovo dei** **Elecziun da renovaziun da**</td><td></td><td>**Mitgliedern des Nationalrates** **membres du Conseil national** **membri del Consiglio nazionale** **commembers dal Cussegl naziunal**</td><td>**Liste Nr.** **Liste N****<sup>o</sup>** **Lista N.** **Glista nr.**</td><td></td></tr>
 </table>
 
 <table>
 <tr><td>Stimmen haben erhalten Ont obtenu des suffrages Hanno ottenuto voti Vuschs han survegnì</td><td colspan="28">vom veränderten Wahlzettel Nr./du bulletin modifié N<sup>o</sup>/della scheda variata N./dal cedel midà nr.</td></tr>
 <tr><td></td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>…</td><td>38</td><td>39</td><td>40</td><td>41</td><td>42</td><td>43</td><td>44</td><td>45</td><td>46</td><td>47</td><td>48</td><td>49</td><td>50</td><td>Total Totale</td></tr>
 <tr><td>…</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Übertrag/à reporter/da riportare/ transport</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Übertrag/Report/Riporto/Transport</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
 Formular 3 Rückseite / Formule 3 verso / Modulo 3 retro / Formular 3 vart davos
@@ -903,9 +962,9 @@ Formular 3 Rückseite / Formule 3 verso / Modulo 3 retro / Formular 3 vart davos
 <table>
 <tr><td>Stimmen haben erhalten Ont obtenu des suffrages Hanno ottenuto voti Vuschs han survegnì</td><td colspan="28">vom veränderten Wahlzettel Nr./du bulletin modifié N<sup>o</sup>/della scheda variata N./dal cedel midà nr.</td></tr>
 <tr><td></td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>…</td><td>38</td><td>39</td><td>40</td><td>41</td><td>42</td><td>43</td><td>44</td><td>45</td><td>46</td><td>47</td><td>48</td><td>49</td><td>50</td><td colspan="2">Total Totale</td></tr>
-<tr><td>Übertrag/à reporter/da riportare/ transport</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>Übertrag/Report/Riporto/Transport</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
 <tr><td>…</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
-<tr><td>Leere Stimmen/ Suffrages blancs/ Suffragi in bianco Vuschs vidas</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>Leere Stimmen/ Suffrages blancs/ Suffragi in bianco/ Vuschs vidas</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
 <tr><td>Total/Totale</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
 </table>
 
@@ -919,7 +978,7 @@ Die Richtigkeit der Auszählung bezeugen die Stimmenzähler: Les scrutateurs cer
 </table>
 
 <table>
-<tr><td>Zusammenzug der Zählbogen Récapitulation des feuilles de dépouillement Prospetto riassuntivo dei fogli di conteggio Resumaziun dals fegls da dumbraziun</td><td>**Erneuerungswahl von Election pour le renouvellement de Elezione per il rinnovo dei Elecziun da renovaziun da**</td><td></td><td>**Mitgliedern des Nationalrates membres du Conseil national membri del Consiglio nazionale commembers dal Cussegl naziunal**</td><td>**Liste Nr./ Liste N****<sup>o</sup>****/ Lista N./ Glista nr.**</td><td></td></tr>
+<tr><td>Zusammenzug der Zählbogen Récapitulation des feuilles de dépouillement Prospetto riassuntivo dei fogli di conteggio Resumaziun dals fegls da dumbraziun</td><td>**Erneuerungswahl von** **Election pour le renouvellement de** **Elezione per il rinnovo dei** **Elecziun da renovaziun da**</td><td></td><td>**Mitgliedern des Nationalrates** **membres du Conseil national** **membri del Consiglio nazionale** **commembers dal Cussegl naziunal**</td><td>**Liste Nr./** **Liste N****<sup>o</sup>****/** **Lista N./** **Glista nr.**</td><td></td></tr>
 </table>
 
 <table>
@@ -942,9 +1001,7 @@ Die Richtigkeit der Auszählung bezeugen die Stimmenzähler: Les scrutateurs cer
 <tr><td></td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td></tr>
 <tr><td></td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td></tr>
 <tr><td></td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td></tr>
-<tr><td></td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td></tr>
-<tr><td></td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td></tr>
-<tr><td>Übertrag/à reporter/da riportare/transport</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td></tr>
+<tr><td>Übertrag/à reporter da riportare/transport</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td></tr>
 </table>
 
 Formular 3a Rückseite / Formule 3a verso / Modulo 3a retro / Formular 3a vart davos
@@ -952,8 +1009,7 @@ Formular 3a Rückseite / Formule 3a verso / Modulo 3a retro / Formular 3a vart d
 <table>
 <tr><td>Stimmen haben erhalten Ont obtenu des suffrages Hanno ottenuto voti Vuschs han survegnì</td><td colspan="21">vom Zählbogen/de la feuille de dépouillement/dal foglio di conteggio/dal fegl da dumbraziun</td></tr>
 <tr><td></td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td><td>16</td><td>17</td><td>18</td><td>19</td><td>20</td><td>Total Totale</td></tr>
-<tr><td>Übertrag/à reporter/da riportare/ transport</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td></tr>
-<tr><td></td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td></tr>
+<tr><td>Übertrag/Report Riporto/Transport</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td></tr>
 <tr><td></td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td></tr>
 <tr><td></td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td></tr>
 <tr><td></td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td></tr>
@@ -963,7 +1019,6 @@ Formular 3a Rückseite / Formule 3a verso / Modulo 3a retro / Formular 3a vart d
 <tr><td></td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td></tr>
 <tr><td></td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td></tr>
 <tr><td>…</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td></td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td></tr>
 <tr><td></td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td></tr>
 <tr><td></td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td></tr>
 <tr><td></td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td></tr>
@@ -989,7 +1044,7 @@ Die Richtigkeit der Auszählung bezeugen die Stimmenzähler: Les scrutateurs cer
 </table>
 
 <table>
-<tr><td>Zusammenzug aller Listen. Récapitulation de toutes les listes Prospetto riassuntivo di tutte le liste Resumaziun da tut las glistas</td><td>**Erneuerungswahl von Election pour le renouvellement de Elezione per il rinnovo dei Elecziun da renovaziun da**</td><td></td><td>**Mitgliedern des Nationalrates membres du Conseil national membri del Consiglio nazionale commembers dal Cussegl nazi****u****nal**</td><td>Alle Listen Ensemble des listes Tutte le liste Tut las glistas</td></tr>
+<tr><td>Zusammenzug aller Listen. Récapitulation de toutes les listes Prospetto riassuntivo di tutte le liste Resumaziun da tut las glistas</td><td>**Erneuerungswahl von** **Election pour le renouvellement de** **Elezione per il rinnovo dei** **Elecziun da renovaziun da**</td><td></td><td>**Mitgliedern des Nationalrates** **membres du Conseil national** **membri del Consiglio nazionale** **commembers dal Cussegl naziunal**</td><td>Alle Listen Ensemble des listes Tutte le liste</td></tr>
 </table>
 
 <table>
@@ -1009,8 +1064,7 @@ Die Richtigkeit der Auszählung bezeugen die Stimmenzähler: Les scrutateurs cer
 <tr><td></td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟ ⎟</td></tr>
 <tr><td></td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟ ⎟</td></tr>
 <tr><td></td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟ ⎟</td></tr>
-<tr><td></td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟ ⎟</td></tr>
-<tr><td>Übertrag/à reporter/da riportare/transport</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟ ⎟</td></tr>
+<tr><td>Übertrag/à reporter/ da riportare/transport</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟ ⎟</td></tr>
 </table>
 
 Formular 3b Rückseite / Formule 3b verso / Modulo 3b retro / Formular 3b vart davos
@@ -1018,8 +1072,7 @@ Formular 3b Rückseite / Formule 3b verso / Modulo 3b retro / Formular 3b vart d
 <table>
 <tr><td>Stimmen haben erhalten Ont obtenu des suffrages Hanno ottenuto voti Vuschs han survegnì</td><td colspan="17">von *veränderten* Wahlzetteln der Liste/des bulletins *modifiés* de la liste/dalle schede *variate* della lista/da cedels *midads* da la glista</td></tr>
 <tr><td></td><td>I</td><td>II</td><td>III</td><td>IV</td><td>V</td><td>VI</td><td>VII</td><td>VIII</td><td>IX</td><td>X</td><td>XI</td><td>XII</td><td>XIII</td><td>XIV</td><td>XV</td><td>ohne Bezeichnung sans en-tête senza intestazione senza denominaziun</td><td>Total Totale</td></tr>
-<tr><td>Übertrag/à reporter/da riportare/ transport</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟ ⎟</td></tr>
-<tr><td></td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟ ⎟</td></tr>
+<tr><td>Übertrag/Report Riporto/Transport</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟ ⎟</td></tr>
 <tr><td></td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟ ⎟</td></tr>
 <tr><td></td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟ ⎟</td></tr>
 <tr><td></td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟ ⎟</td></tr>
@@ -1027,7 +1080,6 @@ Formular 3b Rückseite / Formule 3b verso / Modulo 3b retro / Formular 3b vart d
 <tr><td></td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟ ⎟</td></tr>
 <tr><td></td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟ ⎟</td></tr>
 <tr><td>…</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td></td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟ ⎟</td></tr>
 <tr><td></td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟ ⎟</td></tr>
 <tr><td></td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟ ⎟</td></tr>
 <tr><td></td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟</td><td>⎟ ⎟ ⎟ ⎟ ⎟</td></tr>
@@ -1051,19 +1103,19 @@ Die Richtigkeit der Auszählung bezeugen die Stimmenzähler: Les scrutateurs cer
 </table>
 
 <table>
-<tr><td>Gemeinde / Commune / Comune / Vischnanca</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td>Gemeinde/Commune Comune/Vischnanca</td><td colspan="2"></td><td colspan="2"></td></tr>
 <tr><td></td><td>2</td><td>5</td><td>6</td><td>7</td></tr>
 </table>
 
 Wahlkreis, Kanton Arrondissement électoral, canton Circondario elettorale, cantone Circul electoral, chantun
 
-Protokoll / Procès-verbal / Processo verbale / Protocol
+**Protokoll / Procès-verbal / Processo verbale /** **Protocol**
 
 <table>
 <tr><td>über die Erneuerungswahl von de l’élection pour le renouvellement de dell’elezione per il rinnovo dei davart l’elecziun da renovaziun da</td><td></td><td>Mitgliedern des Nationalrates membres du Conseil national membri del Consiglio nazionale commembers dal Cussegl naziunal</td></tr>
 </table>
 
-Wahltag / Jour du scrutin / Giorno dell’elezione / Di d’elecziun
+Wahltag / Jour du scrutin Giorno dell’elezione / Di d’elecziun
 
 Zahl der Stimmberechtigten:
 
@@ -1072,34 +1124,34 @@ Nombre des électeurs:
 Numero degli elettori: Dumber da persunas cun dretg da votar:
 
 <table>
-<tr><td></td><td>Männer</td><td>Frauen</td><td colspan="3">Total</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>Hommes</td><td>Femmes</td><td colspan="3">Total</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>Uomini</td><td>Donne</td><td colspan="3">Totale</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>Umens</td><td>Dunnas</td><td colspan="3">Total</td><td></td><td></td><td>(81)</td></tr>
-<tr><td></td><td colspan="2">davon Auslandschweizer / dont Suisses de l’étranger</td><td colspan="3"></td><td></td><td></td><td></td></tr>
-<tr><td></td><td colspan="2">di cui residenti all’estero / da quai Svizzers a l’exteriur</td><td colspan="3"></td><td></td><td></td><td>(75)</td></tr>
-<tr><td colspan="3">Zahl der Stimmenden (eingelegte Wahlzettel)</td><td colspan="3"></td><td></td><td></td><td></td></tr>
-<tr><td colspan="3">Nombre des votants (bulletins déposés)</td><td colspan="3"></td><td></td><td></td><td></td></tr>
-<tr><td colspan="3">Numero dei votanti</td><td colspan="3"></td><td></td><td></td><td></td></tr>
-<tr><td colspan="3">Dumber da votants (cedels entrads)</td><td colspan="3"></td><td></td><td></td><td>(82)</td></tr>
-<tr><td colspan="3">Zahl der leeren Wahlzettel / Nombre des bulletins blancs</td><td colspan="3"></td><td></td><td></td><td></td></tr>
-<tr><td colspan="3">Numero delle schede bianche / Dumber da cedels vids</td><td colspan="3"></td><td></td><td></td><td>(83)</td></tr>
-<tr><td colspan="3">Zahl der ungültigen Wahlzettel / Nombre des bulletins nuls</td><td colspan="3"></td><td></td><td></td><td></td></tr>
-<tr><td colspan="3">Numero delle schede nulle / Dumber da cedels nunvalaivels</td><td colspan="3"></td><td></td><td></td><td>(84)</td></tr>
-<tr><td colspan="3">Zahl der gültigen Wahlzettel / Nombre des bulletins valables</td><td colspan="3"></td><td></td><td></td><td></td></tr>
-<tr><td colspan="3">Numero delle schede valide / Dumber da cedels valaivels</td><td colspan="3"></td><td></td><td></td><td>(85)</td></tr>
-<tr><td></td><td colspan="2">Zahl der unveränderten Wahlzettel</td><td colspan="3"></td><td></td><td></td><td></td></tr>
-<tr><td></td><td colspan="2">Nombre des bulletins de vote non modifiés</td><td colspan="3"></td><td></td><td></td><td></td></tr>
-<tr><td></td><td colspan="2">Numero delle schede invariate</td><td colspan="3"></td><td></td><td></td><td></td></tr>
-<tr><td></td><td colspan="2">Dumber da cedels originals</td><td colspan="3"></td><td></td><td></td><td>(86)</td></tr>
-<tr><td></td><td colspan="5">Zahl der veränderten Wahlzettel mit Parteibezeichnung</td><td></td><td></td><td></td></tr>
-<tr><td></td><td colspan="8">Nombre des bulletins de vote modifiés et manuscrits avec dénomination de parti</td></tr>
-<tr><td></td><td colspan="8">Numero delle schede variate con intestazione</td></tr>
-<tr><td></td><td colspan="3">Dumber da cedels midads cun denominaziun da la partida</td><td colspan="2"></td><td></td><td></td><td>(87)</td></tr>
-<tr><td></td><td colspan="3">Zahl der Wahlzettel ohne Parteibezeichnung</td><td colspan="2"></td><td></td><td></td><td></td></tr>
-<tr><td></td><td colspan="5">Nombre des bulletins de vote sans dénomination de parti</td><td></td><td></td><td></td></tr>
-<tr><td></td><td colspan="5">Numero delle schede senza intestazione</td><td></td><td></td><td></td></tr>
-<tr><td></td><td colspan="4">Dumber da cedels senza denominaziun da la partida</td><td></td><td></td><td></td><td>(88)</td></tr>
+<tr><td></td><td>Männer</td><td>Frauen</td><td>Total</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Hommes</td><td>Femmes</td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Uomini</td><td>Donne</td><td>Totale</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Umens</td><td>Dunnas</td><td>Total</td><td></td><td></td><td>(81)</td></tr>
+<tr><td></td><td colspan="2">davon Auslandschweizer / dont Suisses de l’étranger</td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td colspan="2">di cui residenti all’estero / da quai Svizzers a l’exteriur</td><td></td><td></td><td></td><td>(75)</td></tr>
+<tr><td colspan="3">Zahl der Stimmenden (eingelegte Wahlzettel)</td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="3">Nombre des votants (bulletins déposés)</td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="3">Numero dei votanti</td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="3">Dumber da votants (cedels entrads)</td><td></td><td></td><td></td><td>(82)</td></tr>
+<tr><td colspan="3">Zahl der leeren Wahlzettel / Nombre des bulletins blancs</td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="3">Numero delle schede bianche / Dumber da cedels vids</td><td></td><td></td><td></td><td>(83)</td></tr>
+<tr><td colspan="3">Zahl der ungültigen Wahlzettel / Nombre des bulletins nuls</td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="3">Numero delle schede nulle / Dumber da cedels nunvalaivels</td><td></td><td></td><td></td><td>(84)</td></tr>
+<tr><td colspan="3">Zahl der gültigen Wahlzettel / Nombre des bulletins valables</td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="3">Numero delle schede valide / Dumber da cedels valaivels</td><td></td><td></td><td></td><td>(85)</td></tr>
+<tr><td></td><td colspan="2">Zahl der unveränderten Wahlzettel</td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td colspan="2">Nombre des bulletins de vote non modifiés</td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td colspan="2">Numero delle schede invariate</td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td colspan="2">Dumber da cedels originals</td><td></td><td></td><td></td><td>(86)</td></tr>
+<tr><td></td><td colspan="3">Zahl der veränderten Wahlzettel mit Parteibezeichnung</td><td></td><td></td><td></td></tr>
+<tr><td></td><td colspan="6">Nombre des bulletins de vote modifiés et manuscrits avec dénomination de parti</td></tr>
+<tr><td></td><td colspan="2">Numero delle schede variate con intestazione</td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td colspan="3">Dumber da cedels midads cun denominaziun da la partida</td><td></td><td></td><td>(87)</td></tr>
+<tr><td></td><td colspan="2">Zahl der Wahlzettel ohne Parteibezeichnung</td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td colspan="3">Nombre des bulletins de vote sans dénomination de parti</td><td></td><td></td><td></td></tr>
+<tr><td></td><td colspan="2">Numero delle schede senza intestazione</td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td colspan="2">Dumber da cedels senza denominaziun da la partida</td><td></td><td></td><td></td><td>(88)</td></tr>
 </table>
 
 *Formular 4 Seite 2 / Formule 4 page 2 / Modulo 4 pagina 2 / Formular 4 pagina 2*
@@ -1116,6 +1168,7 @@ Numero degli elettori: Dumber da persunas cun dretg da votar:
 <tr><td></td><td></td><td>5:</td><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td></td><td>05</td></tr>
 <tr><td></td><td></td><td>6:</td><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td></td><td>06</td></tr>
 <tr><td></td><td></td><td>7:</td><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td></td><td>07</td></tr>
+<tr><td></td><td></td><td>8:</td><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td></td><td>08</td></tr>
 <tr><td></td><td>…</td><td></td><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td></td><td></td><td>21:</td><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td></td><td>21</td></tr>
 <tr><td></td><td></td><td>22:</td><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td></td><td>22</td></tr>
@@ -1124,7 +1177,7 @@ Numero degli elettori: Dumber da persunas cun dretg da votar:
 <tr><td></td><td></td><td>25:</td><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td></td><td>25</td></tr>
 <tr><td></td><td></td><td colspan="2">Total/Totale</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td></td><td>96</td></tr>
 <tr><td></td><td colspan="7">Zahl der leeren Stimmen/Nombre des suffrages blancs/ Numero dei suffragi in bianco/Dumber da vuschs vidas</td><td colspan="2"></td><td></td><td>97</td></tr>
-<tr><td></td><td colspan="7">Summe der Kandidaten-, Zusatz- und leeren Stimmen / Total des suffrages nominatifs, des suffrages complémentaires et des suffrages blancs / Totale dei suffragi personali, dei suffragi di complemento e dei suffragi in bianco / Summa da las vuschs da candidat, da las vuschs supplementaras e da las vuschs vidas</td><td colspan="2"></td><td></td><td>98</td></tr>
+<tr><td></td><td colspan="7">Summe der Kandidaten-, Zusatz- und leeren Stimmen Total des suffrages nominatifs, des suffrages complémentaires et des suffrages blancs Totale dei suffragi personali, dei suffragi di complemento e dei suffragi in bianco Summa da las vuschs da candidat, da las vuschs supplementaras e da las vuschs vidas</td><td colspan="2"></td><td></td><td>98</td></tr>
 </table>
 
 **Anmerkung:** Die Summe der Kandidaten-, Zusatz- und leeren Stimmen, geteilt durch die Zahl der vom Wahlkreis zu wählenden Vertreter, muss gleich sein der Zahl der gültigen Wahlzettel.
@@ -1172,13 +1225,13 @@ Circondario elettorale, cantone
 
 Circul electoral, chantun
 
-Protokoll
+**Protokoll**
 
-Procès-verbal
+**Procès-verbal**
 
-Processo verbale
+**Processo verbale**
 
-Protocol
+**Protocol**
 
 <table>
 <tr><td>über die Erneuerungswahl von de l’élection pour le renouvellement de dell’elezione per il rinnovo dei da l’elecziun da renovaziun da</td><td></td><td>Mitgliedern des Nationalrates membres du Conseil national membri del Consiglio nazionale commembers dal Cussegl naziunal</td></tr>
@@ -1196,7 +1249,9 @@ Zahl der Stimmberechtigten:
 
 Nombre des électeurs:
 
-Numero degli elettori: Dumber da persunas cun dretg da votar:
+Numero degli elettori:
+
+Dumber da persunas cun dretg da votar:
 
 <table>
 <tr><td></td><td>Männer Hommes Uomini Umens</td><td></td><td></td><td></td><td colspan="2"></td></tr>
@@ -1309,19 +1364,18 @@ Bemerkungen/Remarques/Osservazioni/Remartgas
 <tr><td>Formular Formule Modulo Formular</td><td>**5a**</td><td colspan="2"></td><td>Einlagebogen Feuille intercalaire Foglio intercalare Fegl d’inserziun</td><td>**I**</td></tr>
 </table>
 
-B. Verteilung der Sitze auf die einzelnen Listen oder Listengruppen bei verbundenen Listen
+**B.** **Verteilung der Sitze auf die einzelnen Listen oder Listengruppen bei verbundenen Listen**
 
-Répartition des sièges entre les différentes listes ou groupes de listes, s’il s’agit de listes conjointes
+**Répartition des sièges entre les différentes listes ou groupes de listes, s’il s’agit de listes conjointes**
 
-Ripartizione dei seggi tra le diverse liste o i gruppi di liste, se si tratta di liste congiunte
+**Ripartizione dei seggi tra le diverse liste o i gruppi di liste, se si tratta di liste congiunte**
 
 Repartiziun dals sezs sin las singulas glistas u gruppas da glistas en cas da colliaziuns da glistas
 
 Erste Verteilung/Première répartition/Prima ripartizione/Emprima repartiziun
 
 <table>
-<tr><td>Liste oder Listengruppe Liste ou groupe des listes Lista o gruppo di liste Glista u gruppa da glistas</td><td></td><td>Stimmenzahl Nombre des suffrages Numero dei suffragi Dumber da vuschs</td><td>: : :</td><td>Verteilungszahl Quotient provisoire Quoziente provvisorio Cifra da repartiziun</td><td></td><td>= = = =</td><td colspan="2">Zahl der Sitze Nombre des sièges Numero dei seggi Dumber da sezs</td></tr>
-<tr><td></td><td></td><td></td><td>:</td><td></td><td></td><td>=</td><td colspan="2"></td></tr>
+<tr><td>Liste oder Listengruppe Liste ou groupe des listes Lista o gruppo di liste Glista u gruppa da glistas</td><td></td><td>Stimmenzahl Nombre des suffrages Numero dei suffragi Dumber da vuschs</td><td>: : : :</td><td>Verteilungszahl Quotient provisoire Quoziente provvisorio Cifra da repartiziun</td><td></td><td>= = = =</td><td colspan="2">Zahl der Sitze Nombre des sièges Numero dei seggi Dumber da sezs</td></tr>
 <tr><td></td><td></td><td></td><td>:</td><td></td><td></td><td>=</td><td colspan="2"></td></tr>
 <tr><td></td><td></td><td></td><td>:</td><td></td><td></td><td>=</td><td colspan="2"></td></tr>
 <tr><td></td><td></td><td></td><td>:</td><td></td><td></td><td>=</td><td colspan="2"></td></tr>
@@ -1374,7 +1428,7 @@ Il quozient il pli grond ha la glista ……, gruppa da glistas ……; ella sur
 Dritte Verteilung/Troisième répartition/Terza ripartizione/Terza repartiziun
 
 <table>
-<tr><td>Liste oder Listengruppe Liste ou groupe des listes Lista o gruppo di liste Glista u gruppa da glistas</td><td></td><td>Stimmenzahl Nombre des suffrages Numero dei suffragi Dumber da vuschs</td><td>: : : :</td><td colspan="2">Sitze der ersten beiden Verteilungen Sièges attribués lors des deux premières répartitions Seggi attribuiti nelle due prime ripartizioni Sezs or da las emprimas duas repartiziuns</td><td colspan="2">+ 1 + 1 + 1 + 1</td><td>= = = =</td><td>Quotient Quotient Quoziente Quozient</td></tr>
+<tr><td>Liste oder Listengruppe Liste ou groupe des listes Lista o gruppo di liste Glista u gruppa da glistas</td><td></td><td>Stimmenzahl Nombre des suffrages Numero dei suffragi Dumber da vuschs</td><td>: : : :</td><td colspan="2">Sitze der ersten Verteilung Sièges attribués lors de la première répartition Seggi attribuiti nella prima ripartizione Sezs or da l’emprima repartiziun</td><td colspan="2">+ 1 + 1 + 1 + 1</td><td>= = = =</td><td>Quotient Quotient Quoziente Quozient</td></tr>
 <tr><td></td><td></td><td></td><td>:</td><td colspan="2"></td><td colspan="2"></td><td>=</td><td></td></tr>
 <tr><td></td><td></td><td></td><td>:</td><td colspan="2"></td><td colspan="2"></td><td>=</td><td></td></tr>
 <tr><td></td><td></td><td></td><td>:</td><td colspan="2"></td><td colspan="2"></td><td>=</td><td></td></tr>
@@ -1409,8 +1463,7 @@ Il quozient il pli grond ha la glista ……, gruppa da glistas ……; ella sur
 Vierte Verteilung/Quatrième répartition/Quarta ripartizione/Quarta repartiziun
 
 <table>
-<tr><td>Liste oder Listengruppe Liste ou groupe des listes Lista o gruppo di liste Glista u gruppa da glistas</td><td></td><td>Stimmenzahl Nombre des suffrages Numero dei suffragi Dumber da vuschs</td><td>: : : :</td><td colspan="2">Sitze der ersten drei Verteilungen Sièges attribués lors des trois premières répartitions Seggi attribuiti nelle tre prime ripartizioni Sezs or da las emprimas trais repartiziuns</td><td colspan="2">+ 1 + 1 + 1 + 1</td><td>= = = =</td><td>Quotient Quotient Quoziente Quozient</td></tr>
-<tr><td></td><td></td><td></td><td>:</td><td colspan="2"></td><td colspan="2"></td><td>=</td><td></td></tr>
+<tr><td>Liste oder Listengruppe Liste ou groupe des listes Lista o gruppo di liste Glista u gruppa da glistas</td><td></td><td>Stimmenzahl Nombre des suffrages Numero dei suffragi Dumber da vuschs</td><td>: : : :</td><td colspan="2">Sitze der ersten Verteilung Sièges attribués lors de la première répartition Seggi attribuiti nella prima ripartizione Sezs or da l’emprima repartiziun</td><td colspan="2">+ 1 + 1 + 1 + 1</td><td>= = = =</td><td>Quotient Quotient Quoziente Quozient</td></tr>
 <tr><td></td><td></td><td></td><td>:</td><td colspan="2"></td><td colspan="2"></td><td>=</td><td></td></tr>
 <tr><td></td><td></td><td></td><td>:</td><td colspan="2"></td><td colspan="2"></td><td>=</td><td></td></tr>
 <tr><td></td><td></td><td></td><td>:</td><td colspan="2"></td><td colspan="2"></td><td>=</td><td></td></tr>
@@ -1441,11 +1494,11 @@ Il quozient il pli grond ha la glista ……, gruppa da glistas ……; ella sur
 
 *Formular 5a Seite 3 oben / Formule 5a page 3 en haut / Modulo 5a pagina 3 in alto / Formular 5a pagina 3 survart*
 
-C. Verteilung der Sitze innerhalb der verbundenen Listen
+**C.** **Verteilung der Sitze innerhalb der verbundenen Listen**
 
-Répartition des sièges entre les listes conjointes
+**Répartition des sièges entre les listes conjointes**
 
-Ripartizione dei seggi tra le liste congiunte
+**Ripartizione dei seggi tra le liste congiunte**
 
 Repartiziun dals sezs tranter las colliaziuns da glistas
 
@@ -1486,6 +1539,7 @@ Erste Verteilung/Première répartition/Prima ripartizione/Emprima repartiziun
 <tr><td></td><td></td><td></td><td>:</td><td></td><td></td><td>=</td><td colspan="2"></td></tr>
 <tr><td></td><td></td><td></td><td>:</td><td></td><td></td><td>=</td><td colspan="2"></td></tr>
 <tr><td></td><td></td><td></td><td>:</td><td></td><td></td><td>=</td><td colspan="2"></td></tr>
+<tr><td></td><td></td><td></td><td>:</td><td></td><td></td><td>=</td><td colspan="2"></td></tr>
 <tr><td></td><td></td><td></td><td></td><td></td><td colspan="2">Zusammen Total Totale Total</td><td colspan="2"></td></tr>
 </table>
 
@@ -1493,6 +1547,7 @@ Zweite Verteilung/Deuxième répartition/Seconda ripartizione/Segunda repartiziu
 
 <table>
 <tr><td>Liste Lista Glista</td><td></td><td>Stimmenzahl Nombre des suffrages Numero dei suffragi Dumber da vuschs</td><td>: : : :</td><td>Sitze der ersten Verteilung Sièges attribués lors de la première répartition Seggi attribuiti nella prima ripartizione Sezs or da l’emprima repartiziun</td><td>+ 1 + 1 + 1 + 1</td><td>= = = =</td><td>Quotient Quotient Quoziente Quozient</td></tr>
+<tr><td></td><td></td><td></td><td>:</td><td></td><td></td><td>=</td><td></td></tr>
 <tr><td></td><td></td><td></td><td>:</td><td></td><td></td><td>=</td><td></td></tr>
 <tr><td></td><td></td><td></td><td>:</td><td></td><td></td><td>=</td><td></td></tr>
 <tr><td></td><td></td><td></td><td>:</td><td></td><td></td><td>=</td><td></td></tr>
@@ -1508,7 +1563,7 @@ La lista no …… ha il quoziente maggiore; essa ottiene quindi un nuovo seggio
 La glista nr. …… ha il quozient il pli grond; ella survegn perquai in ulteriur sez, en tut pia …… sezs.
 
 <table>
-<tr><td>Formular Formule Modulo Formular</td><td>**5b**</td><td>**D. Ergebni****s****se/Résultats/ Risultati/Resulats**</td><td>Einlagebogen Feuille intercalaire Foglio intercalare Fegl d’inserziun</td><td>**II**</td></tr>
+<tr><td>Formular Formule Modulo Formular</td><td>**5b**</td><td>**D. Ergebnisse/Résultats/** **Risultati/Resultats**</td><td>Einlagebogen Feuille intercalaire Foglio intercalare Fegl d’inserziun</td><td>**II**</td></tr>
 </table>
 
 <table>
@@ -1541,17 +1596,14 @@ Elegids èn ils candidats cun il dumber da vuschs il pli grond:
 <tr><td>5.</td><td></td><td>»</td><td></td><td></td><td>»</td></tr>
 <tr><td>6.</td><td></td><td>»</td><td></td><td></td><td>»</td></tr>
 <tr><td>7.</td><td></td><td>»</td><td></td><td></td><td>»</td></tr>
+<tr><td>8.</td><td></td><td>»</td><td></td><td></td><td>»</td></tr>
 <tr><td>…</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>16.</td><td></td><td>»</td><td></td><td></td><td>»</td></tr>
 </table>
 
-Nicht gewählt sind die Kandidaten:
+Nicht gewählt sind die Kandidaten: / Ne sont pas élus les candidats suivants:
 
-Ne sont pas élus les candidats suivants:
-
-Non sono eletti i seguenti candidati:
-
-Betg elegids n’èn ils suandants candidats:
+Non sono eletti i seguenti candidati: / Betg elegids n’èn ils suandants candidats:
 
 <table>
 <tr><td>1.</td><td></td><td>mit</td><td></td><td></td><td>Stimmen</td></tr>
@@ -1561,6 +1613,8 @@ Betg elegids n’èn ils suandants candidats:
 <tr><td>5.</td><td></td><td>»</td><td></td><td></td><td>»</td></tr>
 <tr><td>6.</td><td></td><td>»</td><td></td><td></td><td>»</td></tr>
 <tr><td>7.</td><td></td><td>»</td><td></td><td></td><td>»</td></tr>
+<tr><td>8.</td><td></td><td>»</td><td></td><td></td><td>»</td></tr>
+<tr><td>9.</td><td></td><td>»</td><td></td><td></td><td>»</td></tr>
 <tr><td>…</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>19.</td><td></td><td>»</td><td></td><td></td><td>»</td></tr>
 </table>
@@ -1576,6 +1630,7 @@ Betg elegids n’èn ils suandants candidats:
 <tr><td>Dumber da vuschs supplementaras</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Zusammen gleich der Parteistimmenzahl</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Total égal au nombre des suffrages de parti</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Totale uguale al numero dei voti di partito</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Total tuttina grond sco il dumber da vuschs da partida</td><td></td><td></td><td></td><td></td></tr>
 </table>
 
@@ -1599,7 +1654,9 @@ Gewählt sind die Kandidaten mit der höchsten Stimmenzahl:
 
 Sont élus les candidats ayant obtenu le plus grand nombre de suffrages:
 
-Sono eletti i candidati che hanno ottenuto il maggior numero di suffragi: Elegids èn ils candidats cun il dumber da vuschs il pli grond:
+Sono eletti i candidati che hanno ottenuto il maggior numero di suffragi:
+
+Elegids èn ils candidats cun il dumber da vuschs il pli grond:
 
 <table>
 <tr><td>1.</td><td></td><td>mit</td><td></td><td></td><td>Stimmen</td></tr>
@@ -1610,16 +1667,13 @@ Sono eletti i candidati che hanno ottenuto il maggior numero di suffragi: Elegid
 <tr><td>6.</td><td></td><td>»</td><td></td><td></td><td>»</td></tr>
 <tr><td>7.</td><td></td><td>»</td><td></td><td></td><td>»</td></tr>
 <tr><td>8.</td><td></td><td>»</td><td></td><td></td><td>»</td></tr>
-<tr><td>9.</td><td></td><td>»</td><td></td><td></td><td>»</td></tr>
 <tr><td>…</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>16.</td><td></td><td>»</td><td></td><td></td><td>»</td></tr>
 </table>
 
-Nicht gewählt sind die Kandidaten:
+Nicht gewählt sind die Kandidaten: / Ne sont pas élus les candidats suivants:
 
-Ne sont pas élus les candidats suivants:
-
-Non sono eletti i seguenti candidati: Betg elegids n’èn ils suandants candidats:
+Non sono eletti i seguenti candidati: / Betg elegids n’èn ils suandants candidats:
 
 <table>
 <tr><td>1.</td><td></td><td>mit</td><td></td><td></td><td>Stimmen</td></tr>
@@ -1631,6 +1685,9 @@ Non sono eletti i seguenti candidati: Betg elegids n’èn ils suandants candida
 <tr><td>7.</td><td></td><td>»</td><td></td><td></td><td>»</td></tr>
 <tr><td>8.</td><td></td><td>»</td><td></td><td></td><td>»</td></tr>
 <tr><td>9.</td><td></td><td>»</td><td></td><td></td><td>»</td></tr>
+<tr><td>10.</td><td></td><td>»</td><td></td><td></td><td>»</td></tr>
+<tr><td>11.</td><td></td><td>»</td><td></td><td></td><td>»</td></tr>
+<tr><td>12.</td><td></td><td>»</td><td></td><td></td><td>»</td></tr>
 <tr><td>…</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>19.</td><td></td><td>»</td><td></td><td></td><td>»</td></tr>
 </table>
@@ -1670,7 +1727,9 @@ Gewählt sind die Kandidaten mit der höchsten Stimmenzahl:
 
 Sont élus les candidats ayant obtenu le plus grand nombre de suffrages:
 
-Sono eletti i candidati che hanno ottenuto il maggior numero di suffragi: Elegids èn ils candidats cun il dumber da vuschs il pli grond:
+Sono eletti i candidati che hanno ottenuto il maggior numero di suffragi:
+
+Elegids èn ils candidats cun il dumber da vuschs il pli grond:
 
 <table>
 <tr><td>1.</td><td></td><td>mit</td><td></td><td></td><td>Stimmen</td></tr>
@@ -1681,16 +1740,13 @@ Sono eletti i candidati che hanno ottenuto il maggior numero di suffragi: Elegid
 <tr><td>6.</td><td></td><td>»</td><td></td><td></td><td>»</td></tr>
 <tr><td>7.</td><td></td><td>»</td><td></td><td></td><td>»</td></tr>
 <tr><td>8.</td><td></td><td>»</td><td></td><td></td><td>»</td></tr>
-<tr><td>9.</td><td></td><td>»</td><td></td><td></td><td>»</td></tr>
 <tr><td>…</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>16.</td><td></td><td>»</td><td></td><td></td><td>»</td></tr>
 </table>
 
-Nicht gewählt sind die Kandidaten:
+Nicht gewählt sind die Kandidaten: / Ne sont pas élus les candidats suivants:
 
-Ne sont pas élus les candidats suivants:
-
-Non sono eletti i seguenti candidati: Betg elegids n’èn ils suandants candidats:
+Non sono eletti i seguenti candidati: / Betg elegids n’èn ils suandants candidats:
 
 <table>
 <tr><td>1.</td><td></td><td>mit</td><td></td><td></td><td>Stimmen</td></tr>
@@ -1702,6 +1758,9 @@ Non sono eletti i seguenti candidati: Betg elegids n’èn ils suandants candida
 <tr><td>7.</td><td></td><td>»</td><td></td><td></td><td>»</td></tr>
 <tr><td>8.</td><td></td><td>»</td><td></td><td></td><td>»</td></tr>
 <tr><td>9.</td><td></td><td>»</td><td></td><td></td><td>»</td></tr>
+<tr><td>10.</td><td></td><td>»</td><td></td><td></td><td>»</td></tr>
+<tr><td>11.</td><td></td><td>»</td><td></td><td></td><td>»</td></tr>
+<tr><td>12.</td><td></td><td>»</td><td></td><td></td><td>»</td></tr>
 <tr><td>…</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>19.</td><td></td><td>»</td><td></td><td></td><td>»</td></tr>
 </table>
@@ -1757,13 +1816,9 @@ Elegids èn ils candidats cun il dumber da vuschs il pli grond:
 <tr><td>16.</td><td></td><td>»</td><td></td><td></td><td>»</td></tr>
 </table>
 
-Nicht gewählt sind die Kandidaten:
+Nicht gewählt sind die Kandidaten: / Ne sont pas élus les candidats suivants:
 
-Ne sont pas élus les candidats suivants:
-
-Non sono eletti i seguenti candidati:
-
-Betg elegids n’èn ils suandants candidats:
+Non sono eletti i seguenti candidati: / Betg elegids n’èn ils suandants candidats:
 
 <table>
 <tr><td>1.</td><td></td><td>mit</td><td></td><td></td><td>Stimmen</td></tr>
@@ -1772,6 +1827,8 @@ Betg elegids n’èn ils suandants candidats:
 <tr><td>4.</td><td></td><td>cun</td><td></td><td></td><td>vuschs</td></tr>
 <tr><td>5.</td><td></td><td>»</td><td></td><td></td><td>»</td></tr>
 <tr><td>6.</td><td></td><td>»</td><td></td><td></td><td>»</td></tr>
+<tr><td>7.</td><td></td><td>»</td><td></td><td></td><td>»</td></tr>
+<tr><td>8.</td><td></td><td>»</td><td></td><td></td><td>»</td></tr>
 <tr><td>…</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>19.</td><td></td><td>»</td><td></td><td></td><td>»</td></tr>
 </table>
@@ -1791,7 +1848,7 @@ Betg elegids n’èn ils suandants candidats:
 <tr><td>Total tuttina grond sco il dumber da vuschs da partida</td><td></td><td></td><td></td><td></td></tr>
 </table>
 
-Bemerkungen/Remarques/Osservazioni/Remartgas:
+Bemerkungen/Remarques/OsservazioniRemartgas:
 
 <table>
 <tr><td>Die Richtigkeit des vorstehenden Protokolls bezeugt</td><td>Der Vorstand des kantonalen Wahlbüros:</td></tr>
@@ -1800,60 +1857,67 @@ Bemerkungen/Remarques/Osservazioni/Remartgas:
 <tr><td>La correctadad dal protocol conferman</td><td>En num dal biro electoral chantunal:</td></tr>
 </table>
 
-[^t-3]: Rectifitgà tenor la cifra I da l’O dals 27 da sett. 1982 ([AS 1982 1787](https://fedlex.data.admin.ch/eli/oc/1982/1787_1787_1787)), 9 da zer. 1986 ([AS 1986 1059](https://fedlex.data.admin.ch/eli/oc/1986/1059_1059_1059)) e cifra II da l’O dals 14 da zer. 2002, en vigur dapi il 1. d’avust 2002 ([AS 2002 1755](https://fedlex.data.admin.ch/eli/oc/2002/262)).
+[^t-3]: Rectifitgà tenor la cifra I da l'O dals 27 da sett. 1982 ([AS 1982 1787](https://fedlex.data.admin.ch/eli/oc/1982/1787_1787_1787)), dals 9 da zer. 1986 ([AS 1986 1059](https://fedlex.data.admin.ch/eli/oc/1986/1059_1059_1059)), cifra II da l'O dals 14 da zer. 2002 ([AS 2002 1755](https://fedlex.data.admin.ch/eli/oc/2002/262)) e cifra II al. 1 da l'O dals 25 da matg 2022, en vigur dapi il 1. da fan. 2022 ([AS 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
 
-Agiunta 3a*[^t-4]*
+Agiunta 3a[^t-4]
+
+(art. 8*b* al. 1)
 
 <table>
-<tr><td>Kanton/Canton/ Cantone/Chantun</td><td></td><td></td><td>Anzahl Nationalratssitze/Nombre de sièges au Conseil national/ Numero dei seggi/Dumber da sezs en il Cussegl naziunal</td><td colspan="2"></td></tr>
-<tr><td colspan="5">Gesamterneuerungswahl des Nationalrates vom/Renouvellement intégral du Conseil national du/ Rinnovo integrale del Consiglio nazionale del/Elecziun per la renovaziun totala dal Cussegl naziunal dals</td><td></td></tr>
+<tr><td colspan="3">Kanton Canton Cantone Chantun</td><td></td><td></td><td colspan="4">Anzahl Nationalratssitze Nombre de sièges au Conseil national/ Numero dei seggi nel Consiglio nazionale Dumber da sezs en il Cussegl naziunal</td><td colspan="2"></td></tr>
+<tr><td colspan="9">Gesamterneuerungswahl des Nationalrates vom/Renouvellement intégral du Conseil national du/ Rinnovo integrale del Consiglio nazionale del/Elecziun per la renovaziun totala dal Cussegl naziunal dals</td><td></td></tr>
+<tr><td>A</td><td>1.</td><td colspan="5">Bezeichnung des Wahlvorschlags/Dénomination de la liste de candidats/Designazione della proposta di candidatura/Denominaziun da la glista da candidats::</td><td colspan="4"></td></tr>
+<tr><td></td><td>2.</td><td colspan="4">Evtl. **Präzisierung** nach Alter, Geschlecht, Region oder Parteiflügel: Le cas échéant, **adjonction** de l’âge, du sexe, de la région ou de l’aile d’appartenance: Ev. **specificazione** di età, sesso, regione o appartenenza di un gruppo: Ev. **precisaziun** tenor vegliadetgna, schlattaina, regiun u ala da la partida:</td><td colspan="5"></td></tr>
+<tr><td></td><td>3.</td><td colspan="6">**Listennummer** (wird vom Kanton zugeteilt) **Numéro de la liste** (attribué par le canton) **Numero della lista** (assegnato dal Cantone) **Numer da la glista** (vegn attribuida dal chantun):</td><td colspan="3"></td></tr>
 </table>
 
 <table>
-<tr><td>**A**</td><td>1.</td><td colspan="2">Bezeichnung des Wahlvorschlags/Dénomination de la liste de candidats/ Designazione della proposta/Denominaziun da la glista da candidats:</td><td colspan="2"></td></tr>
-<tr><td></td><td>2.</td><td>Evtl. **Präzisierung** nach Alter, Geschlecht, Region oder Parteiflügel: Le cas échéant, **adjonction** de l’âge, du sexe, de la région ou de l’aile d’appartenance: Ev. **specificazione** di sesso, appartenenza di un gruppo, regione o età: Ev. **precisaziun** tenor vegliadetgna, schlattaina, regiun u ala da la partida:</td><td colspan="3"></td></tr>
-<tr><td></td><td>3.</td><td colspan="3">**Listennummer** (wird vom Kanton zugeteilt)/**Numéro de la liste** (attribué par le canton)/ **Numero della lista** (assegnato dal Cantone)/**Numer da la glista** (vegn attribuida dal chantun):</td><td></td></tr>
-<tr><td>B</td><td colspan="5">Kandidaturen/Candidatures/Candidatura/Candidaturas</td></tr>
+<tr><td>B</td><td>Kandidaturen/Candidatures/Candidatura/Candidaturas</td></tr>
 </table>
 
 <table>
-<tr><th>Nr. N° No. Nr.</th><th>Name Nom Cognome Num</th><th>Vorname Prénom Nome Prenum</th><th>Ge- schlecht Sexe Sesso Schlattaina</th><th>Geburtsdatum (Tag/Monat/Jahr) Date de naissance (jour/mois/année) Data di nascita (giorno/mese/anno) Data da naschientscha (di/mais/onn)</th><th>Beruf Profession Professione Professiun</th><th>Strasse Rue Via Via</th><th>Nr. N° No. Nr.</th><th>PLZ NPA NPA NP</th><th>Wohnort Lieu de domicile Domicilio Domicil</th><th>PLZ NPA NPA NP</th><th>Heimatort Lieu d’origine Luogo di attinenza Lieu da burgais</th><th>Unterschrift Signature Firma Suttascripziun</th><th>Bemerkungen \* Remarques \* Osservazioni \* Remartgas\*</th><th>Kontrolle (leer lassen) Contrôle (laisser en blanc) Controllo (lasciare in bianco) Controlla (laschar vid)</th></tr>
+<tr><th>Nr.</th><th>Amtli-che(r) Name(n)</th><th>Amtliche(r) Vorname(n)</th><th>Name, unter dem die Person politisch oder im Alltag bekannt ist</th><th>Vorname, unter dem die Person politisch oder im Alltag bekannt ist</th><th>Geschlecht</th><th>Geburtsdatum (Tag/Monat/ Jahr)</th><th>Beruf</th><th>Strasse</th><th>Nr.</th><th>PLZ</th><th>Wohnort</th><th>Heimatorte inkl. Kanton</th><th>Unterschrift</th><th>Bemerkungen\*</th><th>Kontrolle (leer lassen)</th></tr>
+<tr><th>N<sup>o</sup></th><th>Nom(s) officiel(s)</th><th>Prénom(s) officiel(s)</th><th>Nom usuel</th><th>Prénom usuel</th><th>Sexe</th><th>Date de naissance (jour/ mois/ année)</th><th>Profession</th><th>Rue</th><th>N<sup>o</sup></th><th>NPA</th><th>Lieu de domicile</th><th>Lieux d’origine, y compris canton</th><th>Signature</th><th>Observations\*</th><th>Contrôle (laisser en blanc)</th></tr>
+<tr><th>N.</th><th>Cognome/i ufficiale/i</th><th>Nome/i ufficiale/i</th><th>Cognome, con il quale la persona à politicamente o comunemente conosciuta</th><th>Nome, con il quale la persona è politicamente o comunemente conosciuta</th><th>Sesso</th><th>Data di nascita (giorno/mese/ anno)</th><th>Professione</th><th>Via</th><th>N.</th><th>NPA</th><th>Domicilio</th><th>Luoghi d’origine, incluso Cantone</th><th>Firma</th><th>Osservazioni\*</th><th>Controllo (lasciare in bianco)</th></tr>
+<tr><th>Nr.</th><th>Num(s) uffizial(s)</th><th>Prenum(s) uffizial(s)</th><th>Num, sut il qual la persuna è enconuschenta sin plaun politic u en il mintgadi</th><th>Prenum, sut il qual la persuna è enconuschenta sin plaun politic u en il mintgadi</th><th>Schlattaina</th><th>Data da naschientscha (di/mais/onn)</th><th>Professiun</th><th>Via</th><th>Nr.</th><th>NP</th><th>Domicil</th><th>Lieus d'origin, incl. chantun</th><th>Suttascripziun</th><th>Remartgas\*</th><th>Controlla (laschar vid)</th></tr>
 </table>
 
-…
+...
 
 <table>
-<tr><td>\*</td><td>Unter dieser Rubrik sind eine Person, die den Wahlvorschlag vertritt, sowie deren Stellvertretung zu bezeichnen. Diese sind gegenüber den zuständigen Amtsstellen von Kanton und Bund berechtigt und verpflichtet, allenfalls nötige Erklärungen zur Bereinigung von Anständen oder Unklarheiten im Namen aller Unterzeichnenden rechtsverbindlich abzugeben (BPR Art. 25 Abs. 2). Wo eine klare Bezeichnung fehlt, kommt diese Aufgabe der erst- und der zweitunterzeichnenden Person zu.</td></tr>
-<tr><td>\*</td><td>Mentionner sous cette rubrique le nom du mandataire des signataires et celui de son suppléant. Ces deux personnes ont, vis-à-vis de l’office cantonal compétent et de la Confédération, le droit et l’obligation de donner s’il le faut, au nom des signataires de la liste et de manière à les lier juridiquement, toutes les indications permettant d’éliminer les difficultés qui pourraient se produire (art. 25, 2e al., LDP). Si ces mentions font défaut, cette tâche incombe au premier et au deuxième signataires.</td></tr>
-<tr><td>\*</td><td>In questa rubrica devono essere designati il rappresentante e il suo sostituto che davanti agli uffici cantonali e federali competenti hanno il diritto e il dovere di fare validamente, in nome dei firmatari, le dichiarazioni necessarie a togliere le difficoltà che potessero sorgere (art. 25 cpv. 2 LDP). In caso di non chiara indicazione, per legge si riterrà rappresentante il primo firmatario e sostituto il secondo.</td></tr>
-<tr><td>\*</td><td>Sut questa rubrica èsi da designar ina persuna che represchenta la glista da candidats sco er sia substituziun. Visavi ils uffizis cumpetents dal chantun e da la Confederaziun han questas persunas il dretg e l’obligaziun da far – en moda giuridicamain lianta – eventualas decleraziuns necessarias per rectifitgar problems u intschertezzas en num da tut las persunas sutsegnadas (art. 25 al. 2 LDP). Sch’i manca ina clera designaziun, han l’emprima e la segunda persuna sutsegnada questa incumbensa.</td></tr>
+<tr><td>\* Unter dieser Rubrik sind eine Person, die den Wahlvorschlag vertritt, sowie deren Stellvertretung zu bezeichnen. Diese sind gegenüber den zuständigen Amtsstellen von Kanton und Bund berechtigt und verpflichtet, allenfalls nötige Erklärungen zur Bereinigung von Anständen oder Unklarheiten im Namen aller Unterzeichnenden rechtsverbindlich abzugeben (BPR Art. 25 Abs. 2). Wo eine klare Bezeichnung fehlt, kommt diese Aufgabe der erst- und der zweitunterzeichnenden Person zu.</td></tr>
+<tr><td>\* Mentionner sous cette rubrique le nom du mandataire des signataires et celui de son suppléant. Ces deux personnes ont, vis-à-vis de l’office cantonal compétent et de la Confédération, le droit et l’obligation de donner s’il le faut, au nom des signataires de la liste et de manière à les lier juridiquement, toutes les indications permettant d’éliminer les difficultés qui pourraient se produire (art. 25, 2*e* al., LDP). Si ces mentions font défaut, cette tâche incombe au premier et au deuxième signataires.</td></tr>
+<tr><td>\* In questa rubrica devono essere designati il rappresentante e il suo sostituto che davanti agli uffici cantonali e federali competenti hanno il diritto e il dovere di fare validamente, in nome dei firmatari, le dichiarazioni necessarie a togliere le difficoltà che potessero sorgere (art. 25 cpv. 2 LDP). In caso di non chiara indicazione, per legge si riterrà rappresentante il primo firmatario e sostituto il secondo.</td></tr>
+<tr><td>\* Sut questa rubrica èsi da designar ina persuna che represchenta la glista da candidats sco er sia substituziun. Visavi ils uffizis cumpetents dal chantun e da la Confederaziun han questas persunas il dretg e l’obligaziun da far – en moda giuridicamain lianta – eventualas decleraziuns necessarias per rectifitgar problems u intschertezzas en num da tut las persunas sutsegnadas (art. 25 al. 2 LDP). Sch’i manca ina clera designaziun, han l’emprima e la segunda persuna sutsegnada questa incumbensa.</td></tr>
 </table>
 
-*Anhang 3a Rückseite / Annexe 3a verso / Allegato 3a retro / Agiunta 3a vart davos*
+Anhang 3a Rückseite / Annexe 3a verso / Allegato 3a retro / Agiunta 3a vart davos
 
 <table>
-<tr><td>**C**</td><td>(Weitere) **Unterzeichnerinnen und Unterzeichner des Wahlvorschlags** (Autres) **signataires de la liste** (Altri) **firmatari della proposta** (Autras) **persunas che han suttascrit la glista da candidats**</td></tr>
+<tr><td>C</td><td>(Weitere) **Unterzeichnerinnen und Unterzeichner des Wahlvorschlags** (Autres) **signataires de la liste de candidats** (Altri) **firmatari della proposta di candidature** (Autras) **persunas che han suttascrit la glista da candidats**</td></tr>
 </table>
 
 <table>
-<tr><th>Nr.</th><th>Name</th><th>Vorname</th><th>Geburtsdatum (Tag/Monat/Jahr)</th><th>Strasse</th><th>Nr.</th><th>PLZ</th><th>Wohnort</th><th>Unterschrift</th><th>Bemerkungen \*</th><th>Kontrolle (leer lassen)</th></tr>
-<tr><th>N°</th><th>Nom</th><th>Prénom</th><th>Date de naissance (jour/mois/année)</th><th>Rue</th><th>N°</th><th>NPA</th><th>Lieu de domicile</th><th>Signature</th><th>Remarques \*</th><th>Contrôle (laisser en blanc)</th></tr>
-<tr><th>No.</th><th>Cognome</th><th>Nome</th><th>Data di nascita (giorno/mese/anno)</th><th>Via</th><th>No.</th><th>NPA</th><th>Domicilio</th><th>Firma</th><th>Osservazioni \*</th><th>Controllo (lasciare in bianco)</th></tr>
-<tr><th>Nr.</th><th>Num</th><th>Prenum</th><th>Data da naschientscha (di/mais/onn)</th><th>Via</th><th>Nr.</th><th>NP</th><th>Domicil</th><th>Suttascripziun</th><th>Remartgas \*</th><th>Controlla (laschar vid)</th></tr>
+<tr><th>Nr.</th><th>Name</th><th>Vorname</th><th>Geburtsdatum (Tag/Monat/Jahr)</th><th>Strasse</th><th>Nr.</th><th>PLZ</th><th>Wohnort</th><th>Unterschrift</th><th>Bemerkungen\*</th><th>Kontrolle (leer lassen)</th></tr>
+<tr><th>N<sup>o</sup></th><th>Nom</th><th>Prénom</th><th>Date de naissance (jour/mois/année)</th><th>Rue</th><th>N<sup>o</sup></th><th>NPA</th><th>Lieu de domicile</th><th>Signature</th><th>Observations\*</th><th>Contrôle (laisser en blanc)</th></tr>
+<tr><th>N.</th><th>Cognome</th><th>Nome</th><th>Data di nascita (giorno/mese/anno)</th><th>Via</th><th>N.</th><th>NPA</th><th>Domicilio</th><th>Firma</th><th>Osservazioni\*</th><th>Controllo (lasciare in bianco)</th></tr>
+<tr><th>Nr.</th><th>Num</th><th>Prenum</th><th>Data da naschientscha (di/mais/onn)</th><th>Via</th><th>Nr.</th><th>NP</th><th>Domicilio</th><th>Suttascripziun</th><th>Remartgas\*</th><th>Controlla (laschar vid)</th></tr>
 </table>
 
-…
+...
 
 <table>
-<tr><td>\*</td><td>Falls sich die Partei im Parteiregister der Bundeskanzlei hat eintragen lassen, ist unter der Rubrik «Bemerkungen» zur Überprüfung die präzise Fundstelle im Internet anzugeben. Falls die Partei im Kanton einen einzigen Wahlvorschlag einreicht, genügen in diesem Falle die Unterschriften jener Personen, welche das Präsidium und das Sekretariat der Kantonalpartei ausüben; das kantonale Unterschriftenquorum entfällt.</td></tr>
-<tr><td>\*</td><td>Le parti politique qui s’est fait enregistrer dans le registre des partis de la Chancellerie fédérale indiquera ici son adresse Internet précise pour vérification. Si le parti ne dépose qu’une seule liste de candidats dans le canton, les signatures du président et du secrétaire du parti cantonal suffiront. Le quorum cantonal sera donc sans objet.</td></tr>
-<tr><td>\*</td><td>Se il partito si è fatto iscrivere nel registro dei partiti della Cancelleria federale, nella rubrica «Osservazioni» deve essere indicato per verifica il suo indirizzo Internet esatto. Se il partito presenta inoltre una sola proposta nel Cantone, basta la firma delle persone preposte alla presidenza e alla segreteria del partito cantonale; l’obbligo di far firmare la proposta da un numero minimo di elettori con domicilio politico nel circondario elettorale decade.</td></tr>
-<tr><td>\*</td><td>Sche la partida è sa laschada inscriver en il register da las partidas da la Chanzlia federala, ston ins inditgar – per la controlla – l’adressa d’internet exacta sut la rubrica «remartgas». Sche la partida inoltrescha ina suletta glista da candidats en il chantun, bastan en quest cas las suttascripziuns da las persunas che presidieschan e che mainan il secretariat da la partida chantunala; il quorum chantunal da suttascripziuns croda davent.</td></tr>
+<tr><td>\* Falls sich die Partei im Parteiregister der Bundeskanzlei hat eintragen lassen, ist unter der Rubrik «Bemerkungen» zur Überprüfung die präzise Fundstelle im Internet anzugeben.</td></tr>
+<tr><td>\* Le parti politique qui s’est fait enregistrer dans le registre des partis de la Chancellerie fédérale indiquera ici son adresse Internet précise pour vérification.</td></tr>
+<tr><td>\* Se il partito si è fatto iscrivere nel registro dei partiti della Cancelleria federale, nella rubrica «Osservazioni» deve essere indicato per verifica il suo indirizzo Internet esatto.</td></tr>
+<tr><td>\* Sche la partida è sa laschada inscriver en il register da las partidas da la Chanzlia federala, ston ins inditgar – per la controlla – l'adressa d'internet exacta sut la rubrica «remartgas».</td></tr>
 </table>
 
-[^t-4]: Integrà tras la cifra I da l’O dals 19 d’oct. 1994 ([AS 1994 2423](https://fedlex.data.admin.ch/eli/oc/1994/2423_2423_2423)). Rectifitgà tras la cifra II da l’O dals 20 da sett. 2002, en vigur dapi il 1. da schan. 2003 ([AS 2002 3200](https://fedlex.data.admin.ch/eli/oc/2002/479), [2003 234](https://fedlex.data.admin.ch/eli/oc/2003/33)).
+[^t-4]: Integrà tras la cifra I da l'O dals 19 d'oct. 1994 ([AS 1994 2423](https://fedlex.data.admin.ch/eli/oc/1994/2423_2423_2423)). Versiun tenor la cifra II al. 2 da l'O dals 25 da matg 2022, en vigur dapi il 1. da fan. 2022 ([AS 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
 
-Agiunta 3b*[^t-5]*
+Agiunta 3b[^t-5]
+
+(art. 8*e* al. 1)
 
 <table>
 <tr><td>Kanton Canton Cantone Chantun</td><td></td><td></td><td>Anzahl Nationalratssitze Nombre de sièges au Conseil national Numero dei seggi Dumber da sezs en il Cussegl naziunal</td><td></td></tr>
@@ -1874,30 +1938,30 @@ I rappresentanti sottoscritti dichiarano congiunte le seguenti liste per l’ele
 Las represchentantas ed ils represchentants sutsegnads decleran qua tras che las suandantas glistas sajan colliadas per l’elecziun per la renovaziun totala dal Cussegl naziunal:
 
 <table>
-<tr><td>Nr. N° No. Nr.</td><td>Bezeichnung Dénomination Designazione Denominaziun</td><td colspan="2">Vertreter/Vertreterin Mandataire des signataires Rappresentante Represchentanta u represchentant</td><td>Bemerkungen \* Remarque \* Osservazioni \* Remartgas \*</td><td>Ort Lieu Luogo Lieu</td><td>Datum Date Data Data</td></tr>
+<tr><td>Nr. N° No. Nr.</td><td>Bezeichnung Dénomination Designazione Denominaziun</td><td colspan="2">Vertreter/Vertreterin Mandataire des signataires Rappresentante Represchentant</td><td>Bemerkungen \* Remarque \* Osservazioni \* Remartgas \*</td><td>Ort Lieu Luogo Lieu</td><td>Datum Date Data Data</td></tr>
 <tr><td></td><td></td><td>Name Nom Cognome Num</td><td>Unterschrift Signature Firma Suttascripziun</td><td></td><td></td><td></td></tr>
 </table>
 
-…
+...
 
 <table>
 <tr><td>\*</td><td>Gegebenenfalls ist unter dieser Rubrik zu vermerken, mit welcher oder welchen anderen Liste(n) die eigene Liste unterverbunden ist. Eine solche Unterlistenverbindung ist nur möglich unter Listen *gleichen Namens*, die sich einzig durch eine Präzisierung hinsichtlich Region, Geschlecht, Alter oder Flügel einer Gruppierung voneinander unterscheiden.</td></tr>
-<tr><td>\*</td><td>Le cas échéant, mentionner sous cette rubrique avec quelle(s) autre(s) liste(s) la présente liste est sous-apparentée. Le sous-apparentement n’est possible qu’entre listes *de même dénomination* qui ne se différencient les unes des autres que par l’adjonction de la région, du sexe, de l’âge ou de l’aile d’appartenance du groupement.</td></tr>
-<tr><td>\*</td><td>All’occorrenza, in questa rubrica, vanno indicate eventuali sotto-congiunzioni della presente lista. La sotto-congiunzione è permessa soltanto fra liste di *uguale denominaz**i**one*, differenziate unicamente da aggiunte intese a specificare il sesso, l’appartenenza ad un gruppo, la regione o l’età dei candidati.</td></tr>
+<tr><td>\*</td><td>Le cas échéant, mentionner sous cette rubrique avec quelle(s) autre(s) liste(s) la présente liste est sous-apparentée. Le sous-apparentement n’est possible qu’entre listes *de même* *dénomination* qui ne se différencient les unes des autres que par l’adjonction de la région, du sexe, de l’âge ou de l’aile d’appartenance du groupement.</td></tr>
+<tr><td>\*</td><td>All’occorrenza, in questa rubrica, vanno indicate eventuali sotto-congiunzioni della presente lista. La sotto-congiunzione è permessa soltanto fra liste di *uguale denominazione*, differenziate unicamente da aggiunte intese a specificare il sesso, l’appartenenza ad un gruppo, la regione o l’età dei candidati.</td></tr>
 <tr><td>\*</td><td>Eventualmain stoi vegnir menziunà sut questa rubrica, cun tge autra(s) glista(s) che l’atgna glista è sutcolliada. Ina tala sutcolliaziun da glistas è pussaivla mo tranter glistas dal *medem num* che sa distinguan ina da l’autra mo tras ina precisaziun areguard la regiun, la schlattaina, la vegliadetgna u l’ala d’ina gruppaziun.</td></tr>
 </table>
 
-[^t-5]: Integrà tras la cifra I da l’O dals 19 d’oct. 1994, en vigur dapi ils 15 da nov. 1994 ([AS 1994 2423](https://fedlex.data.admin.ch/eli/oc/1994/2423_2423_2423)).
+[^t-5]: Integrà tras la cifra I da l'O dals 19 d'oct. 1994 ([AS 1994 2423](https://fedlex.data.admin.ch/eli/oc/1994/2423_2423_2423)). Rectifitgà tenor la cifra II al. 1 da l'O dals 25 da matg 2022, en vigur dapi il 1. da fan. 2022 ([AS 2022 335](https://fedlex.data.admin.ch/eli/oc/2022/335)).
 
-Agiunta 4a*[^t-6]*
+Agiunta 4a[^t-6]
 
-(art. 25 al. 1<sup>bis</sup> lit. a)
+(Art. 25 Abs. 1<sup>bis</sup> Bst. a)
 
 Formular/Formule/Modulo/Formular
 
 Eidgenössische Volksinitiative «…»/Initiative populaire fédérale «…»/Iniziativa popolare federale «…»/Iniziativa federala dal pievel «…»
 
-Erklärung des unbedingten Rückzugs / Déclaration de retrait inconditionnel / Dichiarazione di ritiro incondizionato / Decleraziun da la retratga nuncundiziunada
+Erklärung des unbedingten Rückzugs/Déclaration de retrait inconditionnel/ Dichiarazione di ritiro incondizionato/Decleraziun da la retratga nuncundiziunada
 
 Die unterzeichneten stimmberechtigten Schweizer Bürgerinnen und Bürger sind Mitglieder des rückzugsberechtigten Urheberkomitees der eidgenössischen Volks-initiative «…» (vgl. BBl …) und bilden darin die absolute Mehrheit seiner derzeit noch stimmberechtigten Personen. Sie erklären gestützt auf die Artikel 68 Absatz 1 Buchstaben c und e sowie 73 und 74 des Bundesgesetzes vom 17. Dezember 1976 über die politischen Rechte (SR *161.1*), dass sie die eidgenössische Volksinitiative «…» hiermit rechtsgültig, unwiderruflich und vorbehaltlos zurückziehen:
 
@@ -1908,7 +1972,7 @@ I cittadini svizzeri sottoscritti sono membri del comitato promotore autorizzato
 Las burgaisas svizras ed ils burgais svizzers che han suttascrit la glista èn commembers dal comité d’iniziativa che ha il dretg da retrair l’iniziativa federala dal pievel «…» (cf. Fegl uffizial federal …). En quest comité furman els la maioritad absoluta da ses commembers che han actualmain il dretg da votar. Sin basa dals artitgels 68 alinea 1 literas c ed e sco er 73 e 74 da la Lescha federala dals 17 da december 1976 davart ils dretgs politics (CS *161.1*) decleran els ch’els retirian qua tras valaivlamain, irrevocablamain e senza resalvas l’iniziativa federala dal pievel «…»:
 
 <table>
-<tr><th>Nr./ N<sup>o</sup>/ N./ Nr.</th><th>Name/ Nom/ Cognome Num</th><th>Vorname/ Prénom(s)/ Nome/ Prenum</th><th>Strasse/ Rue/ Via/ Via</th><th>Nr./ N<sup>o</sup>/ N./ Nr.</th><th>PLZ/ NPA/ NPA/ NP</th><th>Wohnort/ Localité/ Domicilio/ Domicil</th><th>Unterschrift/ Signature/ Firma/ Suttascripziun</th><th>Datum/ Date/ Data/ Data</th></tr>
+<tr><th>Nr./ N<sup>o</sup>/ N./ Nr.</th><th>Name/ Nom/ Cognome/ Num</th><th>Vorname/ Prénom(s)/ Nome/ Prenum</th><th>Strasse/ Rue/ Via/ Via</th><th>Nr./ N<sup>o</sup>/ N./ Nr.</th><th>PLZ/ NPA/ NPA/ NP</th><th>Wohnort/ Localité/ Domicilio/ Domicil</th><th>Unterschrift/ Signature/ Firma/ Suttascripziun</th><th>Datum/ Date/ Data/ Data</th></tr>
 <tr><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>2</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>…</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
@@ -1923,19 +1987,19 @@ Da rispedire con le firme originali, al più tardi entro il ………… a: Canc
 
 Trametter enavos cun las suttascripziuns originalas fin il pli tard ils ………… a: Chanzlia federala, Secziun dals dretgs politics, 3003 Berna.
 
-[^t-6]: Oriundamain agiunta 4. Integrà tras la cifra II da l’O dals 26 da favr. 1997 ([AS 1997 761](https://fedlex.data.admin.ch/eli/oc/1997/761_761_761)). Versiun tenor la cifra I da l’O dals 13 da schan. 2010, en vigur dapi il 1. da favr. 2010 ([AS 2010 275](https://fedlex.data.admin.ch/eli/oc/2010/36)).
+[^t-6]: Oriundamain agiunta 4. Integrà tras la cifra II da l'O dals 26 da favr. 1997 ([AS 1997 761](https://fedlex.data.admin.ch/eli/oc/1997/761_761_761)). Versiun tenor la cifra I da l'O dals 13 da schan. 2010, en vigur dapi il 1. da favr. 2010 ([AS 2010 275](https://fedlex.data.admin.ch/eli/oc/2010/36)).
 
-Agiunta 4b*[^t-7]*
+Agiunta 4b[^t-7]
 
-(art. 25 al. 1<sup>bis</sup> lit. b)
+(Art. 25 Abs. 1<sup>bis</sup> Bst. b)
 
-Formular/Formule/Modulo
+Formular/Formule/Modulo/Formular
 
 Eidgenössische Volksinitiative «…»/Initiative populaire fédérale «…»/Iniziativa popolare federale «…»/Iniziativa federala dal pievel «…»
 
 Erklärung/Déclaration/Dichiarazione/Decleraziun
 
-- **a.** **des bedingten Rückzugs zugunsten des indirekten Gegenvorschlags gemäss dem Bundesgesetz vom … über …/de retrait conditionnel en faveur du contre-projet ind****i****rect élaboré sous la forme de la loi fédérale du … sur …/di ritiro condizionato a favore del controprogetto indiretto secondo la legge federale del … …/da la retratga cundiziunada a favur da la cuntraproposta indirecta tenor la Lescha federala dals … davart …;** **o****der/ou/o/u**
+- **a.** **des bedingten Rückzugs zugunsten des indirekten Gegenvorschlags gemäss dem Bundesgesetz vom … über …/de retrait conditionnel en faveur du contre-projet indirect élaboré sous la forme de la loi fédérale du … sur …/di ritiro condizionato a favore del controprogetto indiretto secondo la legge federale del … …; /da la retratga cundiziunada a favur da la cuntraproposta indirecta tenor la Lescha federala dals … davart …; oder/ou/o/u**
 - **b.** **des unbedingten Rückzugs/de retrait inconditionnel/di ritiro incondizionato/da la retratga nuncundiziunada**
 
 Die unterzeichneten stimmberechtigten Schweizer Bürgerinnen und Bürger sind Mitglieder des rückzugsberechtigten Urheberkomitees der eidgenössischen Volks-initiative «…» (vgl. BBl …) und haben davon Kenntnis genommen, dass die eidgenössischen Räte als indirekten Gegenvorschlag zur genannten Volksinitiative das Bundesgesetz vom … über … verabschiedet haben (vgl. BBl …). Sie erklären gestützt auf die Artikel 68 Absatz 1 Buchstaben c und e sowie 73 und 73*a* des Bun-desgesetzes vom 17. Dezember 1976 über die politischen Rechte (SR *161.1*) mit ihrer Unterschrift, dass sie die eidgenössische Volksinitiative «…» rechtsgültig, unwiderruflich und ohne jeden weiteren Vorbehalt wie folgt zurückziehen:
@@ -1966,4 +2030,4 @@ Trametter enavos cun las suttascripziuns originalas fin il pli tard ils ……�
 
 \* Es ist zulässig, an dieser Stelle sowohl für den unbedingten Rückzug als auch für den bedingten Rückzug zu optieren./Il est possible d’opter à la fois pour l’une et pour l’autre de ces colonnes./Qui è possibile optare per entrambe le forme di ritiro./En quest lieu èsi pussaivel da tscherner tant la retratga cundiziunada sco er la retratga nuncundiziunada.
 
-[^t-7]: Oriundamain agiunta 4. Integrà tras la cifra II da l’O dals 26 da favr. 1997 ([AS 1997 761](https://fedlex.data.admin.ch/eli/oc/1997/761_761_761)). Versiun tenor la cifra I da l’O dals 13 da schan. 2010, en vigur dapi il 1. da favr. 2010 ([AS 2010 275](https://fedlex.data.admin.ch/eli/oc/2010/36)).
+[^t-7]: Oriundamain agiunta 4. Integrà tras la cifra II da l'O dals 26 da favr. 1997 ([AS 1997 761](https://fedlex.data.admin.ch/eli/oc/1997/761_761_761)). Versiun tenor la cifra I da l'O dals 13 da schan. 2010, en vigur dapi il 1. da favr. 2010 ([AS 2010 275](https://fedlex.data.admin.ch/eli/oc/2010/36)).
