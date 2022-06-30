@@ -4,13 +4,12 @@ number: "140.1"
 title: Staatsverwaltungsgesetz
 short: StVG
 language: de
-version: 2019-01-01
-corrected: 2018-11-15
-version_adopted: 2018-08-14
+version: 2022-07-01
+version_adopted: 2022-04-12
 adopted: 1994-06-16
 in_force: 1995-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/140.1"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2445/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3368/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2445/pdf_file"
 
 (StVG)
 
-vom 16.06.1994 (Stand 01.01.2019)
+vom 16.06.1994 (Stand 01.07.2022)
 
 Der Grosse Rat des Kantons St.Gallen
 
@@ -89,9 +88,11 @@ als Gesetz:[^ingress-4]
 
 **Regierung a) Vorlagen**
 
-<sup>1</sup> Die Regierung unterbreitet dem Kantonsrat von sich aus oder in dessen Auftrag Berichte, Anträge und Entwürfe. Aus der Begründung von Gesetzes- und Beschlussesentwürfen sind die wesentlichen Folgen ersichtlich.
+<sup>1</sup> Die Regierung unterbreitet dem Kantonsrat von sich aus oder in dessen Auftrag Berichte, Anträge und Entwürfe. Aus der Botschaft zu Gesetzes- und Beschlussesentwürfen sind die wesentlichen Folgen sowie die beabsichtigten Wirkungen ersichtlich.
 
-<sup>2</sup> Die Regierung berichtet dem Kantonsrat jährlich über den Stand:
+<sup>1<sup>bis</sup></sup> Sie unterbreitet dem Kantonsrat bei Entwürfen mit Gesetzesrang im Rahmen der Botschaft auch die Grundzüge des angedachten zugehörigen Verordnungsrechts, wenn die Verordnung von erheblicher Bedeutung ist.
+
+<sup>2</sup> Sie berichtet dem Kantonsrat jährlich über den Stand:
 
 - a) der Bearbeitung von gutgeheissenen parlamentarischen Vorstössen;
 - b) der Erfüllung von Aufträgen des Kantonsrates aus Vorlagen und Berichten.
@@ -247,6 +248,12 @@ als Gesetz:[^ingress-4]
 
 <sup>2</sup> Regierungsräte und Staatssekretär leisten Eid oder Gelübde vor dem Kantonsrat zu Beginn jeder Amtsdauer gemeinsam.
 
+#### Art. 13a
+
+**Mitgliedschaft in der Bundesversammlung**
+
+<sup>1</sup> Mitglieder der Regierung gehören in der Regel nicht der Bundesversammlung an. Die gleichzeitige Mitgliedschaft in Regierung und Bundesversammlung ist während höchstens 12 Monaten bis zum Ende der jeweiligen kantonalen Amtsdauer zulässig.
+
 #### Art. 14
 
 **Regierungspräsident**
@@ -273,7 +280,7 @@ als Gesetz:[^ingress-4]
 - d) bestimmt die Organisation der Staatsverwaltung, soweit sie nicht durch Gesetz festgelegt wird;
 - e) teilt Departementen und zentralen Diensten das Personal zu;
 - f) nimmt die ihr durch Gesetz zugewiesenen Wahlen vor;
-- g) bezeichnet die Vertretung des Staates in zwischenstaatlichen und nichtstaatlichen Einrichtungen,
+- g) bezeichnet die Vertretung des Staates in zwischenstaatlichen und nichtstaatlichen Einrichtungen. Art. 94i bis Art. 94l dieses Erlasses bleiben vorbehalten;
 - h) erfüllt weitere ihr durch Gesetz übertragene Aufgaben.
 
 #### Art. 16a
@@ -354,6 +361,17 @@ als Gesetz:[^ingress-4]
 <sup>2</sup> Die Überprüfung erstreckt sich auf die Tätigkeit der Dienststellen sowie die Umsetzung der Projekte der Departemente und der Staatskanzlei.
 
 <sup>3</sup> Departemente und Staatskanzlei berichten der Regierung über die Ergebnisse.
+
+#### Art. 16j
+
+**Regulierungscontrolling**
+
+<sup>1</sup> Die Regierung überprüft für Gesetze und zwischenstaatliche Vereinbarungen mit Gesetzesrang sowie zugehörige Verordnungen periodisch und gestützt auf ein Prüfprogramm Notwendigkeit, verfassungskonforme Umsetzung der Aufgabenzuteilung an Kanton und Gemeinden sowie Wirksamkeit, Wirtschaftlichkeit und Nachhaltigkeit (Regulierungscontrolling).
+
+<sup>2</sup> Sie unterbreitet dem Kantonsrat wenigstens einmal je Amtsdauer:
+
+- a) das Prüfprogramm des Regulierungscontrollings zur Beschlussfassung;
+- b) einen Bericht über die Ergebnisse des Regulierungscontrollings und die eingeleiteten Massnahmen.
 
 #### Art. 17
 
@@ -572,6 +590,7 @@ als Gesetz:[^ingress-4]
 - a) erarbeitet nach Weisung der Regierung die Grundlagen für die Schwerpunktplanung und deren Umsetzung;
 - a<sup>bis</sup>) koordiniert die Überarbeitung der Departementsstrategien;
 - b) erfüllt nach Weisung der Regierung Aufgaben des Regierungscontrollings;
+- b<sup>bis</sup>) koordiniert die Durchführung des Regulierungscontrollings;
 - c) beantragt der Regierung Wirksamkeitsüberprüfungen, stellt deren Durchführung sicher und berichtet über die Ergebnisse;
 - d) führt zuhanden der Regierung eine Übersicht über:
   - 1\. die gutgeheissenen parlamentarischen Vorstösse;
@@ -1229,6 +1248,14 @@ als Gesetz:[^ingress-4]
 <sup>1</sup> Art. 7 Abs. 1 Bst. b des Gesetzes über die Verwaltungsrechtspflege vom 16. Mai 1965[^94k-1] findet keine Anwendung, wenn die Einsitznahme von Mitgliedern der Regierung in ein oberstes strategisches Leitungsorgan nach Art. 94i Abs. 1 dieses Erlasses erfolgt.
 
 [^94k-1]: sGS [951.1](https://www.gesetzessammlung.sg.ch/data/951.1/de).
+
+#### Art. 94l
+
+**Genehmigung der Wahl der Mitglieder des Kantons St.Gallen im Hochschulrat der Ost – Ostschweizer Fachhochschule**
+
+<sup>1</sup> Die Wahl der Mitglieder des Kantons St.Gallen im Hochschulrat der Ost – Ostschweizer Fachhochschule sowie die Bestimmung der Präsidentin oder des Präsidenten nach Art. 18 Abs. 2 Bst. a und Abs. 3 der Vereinbarung über die Ost – Ostschweizer Fachhochschule vom 15. Februar 2019[^94l-1] bedarf der Genehmigung des Kantonsrates.
+
+[^94l-1]: sGS 218.21.
 
 ## V. Schlussbestimmungen
 
