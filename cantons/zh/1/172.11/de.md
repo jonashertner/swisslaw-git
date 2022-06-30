@@ -4,11 +4,11 @@ number: "172.11"
 title: Verordnung über die Organisation des Regierungsrates und der kantonalen Verwaltung (VOG RR)
 short: VOG RR
 language: de
-version: "2022-01-01"
-nachtrag: "115"
-valid_until: 2022-07-01
+version: "2022-07-01"
+nachtrag: "117"
+valid_until: 2023-05-01
 adopted: 2007-07-18
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-172_11-2007_07_18-2007_09_01-115.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-172_11-2007_07_18-2007_09_01-117.html"
 text: pdf
 ---
 
@@ -65,7 +65,7 @@ beschliesst:
 
 **1**
 
-- 1\. 1. 22 - 115
+- 1\. 7. 22 - 117
 
 <sup>2</sup> Der Legislaturbericht zeigt auf:
 
@@ -153,7 +153,7 @@ beschliesst:
 
 **3**
 
-- 1\. 1. 22 - 115
+- 1\. 7. 22 - 117
 
 <sup>3</sup> Die Staatskanzlei stellt Antrag. Sie stützt sich hierfür auf die jährliche Berichterstattung der Direktionen und stellt Querbezüge her.
 
@@ -231,7 +231,7 @@ Die Direktionen bereiten die Planungen ihrer Politikbereiche vor.
 
 **5**
 
-- 1\. 1. 22 - 115
+- 1\. 7. 22 - 117
 
 ### B. Aussenbeziehungen
 
@@ -323,7 +323,7 @@ Stellungnahmen des Regierungsrates, die eines seiner Mitglieder in der Plenarver
 
 **7**
 
-- 1\. 1. 22 - 115
+- 1\. 7. 22 - 117
 
 ### C. Information und Kommunikation
 
@@ -429,7 +429,7 @@ Der Regierungsrat verhandelt an seinen Sitzungen folgende Geschäftsarten:
 
 **9**
 
-- 1\. 1. 22 - 115
+- 1\. 7. 22 - 117
 
 <sup>3</sup> Verlangt ein Mitglied des Regierungsrates oder die Staatsschreiberin oder der Staatsschreiber zu einem Geschäft eine Diskussion, wird es zurückgestellt und für die nächste Sitzung als Besonderes Geschäft traktandiert.
 
@@ -515,7 +515,7 @@ Der Regierungsrat verhandelt an seinen Sitzungen folgende Geschäftsarten:
 
 **11**
 
-- 1\. 1. 22 - 115 § 39. <sup>1</sup> Sollen andere Direktionen oder die Staatskanzlei an der Meinungsbildung oder Entscheidfindung beteiligt werden oder wird ein Vernehmlassungsverfahren durchgeführt, lädt die Direktion oder die Staatskanzlei alle andern Direktionen und die Staatskanzlei zum Mitbericht ein.
+- 1\. 7. 22 - 117 § 39. <sup>1</sup> Sollen andere Direktionen oder die Staatskanzlei an der Meinungsbildung oder Entscheidfindung beteiligt werden oder wird ein Vernehmlassungsverfahren durchgeführt, lädt die Direktion oder die Staatskanzlei alle andern Direktionen und die Staatskanzlei zum Mitbericht ein.
 
 **Mitberichte und Besondere Stellungnahmen**
 
@@ -605,7 +605,7 @@ Der Regierungsrat verhandelt an seinen Sitzungen folgende Geschäftsarten:
 
 **13**
 
-- 1\. 1. 22 - 115
+- 1\. 7. 22 - 117
 
 ### F.<sup>36</sup> Protokoll und Ausfertigung
 
@@ -684,7 +684,7 @@ Ist die Staatsschreiberin oder der Staatsschreiber und die Stellvertreterin oder
 
 **15**
 
-- 1\. 1. 22 - 115
+- 1\. 7. 22 - 117
 
 ### 4. Abschnitt: Kommissionen und Vertretungen des Regierungsrates
 
@@ -777,7 +777,7 @@ Die Direktionen des Regierungsrates sind:
 
 **17**
 
-- 1\. 1. 22 - 115 § 62. <sup>1</sup> Die Direktionen gewährleisten in ihrem Generalsekretariat Ansprechstellen für folgende Themen und Querschnittaufgaben:
+- 1\. 7. 22 - 117 § 62. <sup>1</sup> Die Direktionen gewährleisten in ihrem Generalsekretariat Ansprechstellen für folgende Themen und Querschnittaufgaben:
 
 **Zentrale Aufgaben**
 
@@ -869,7 +869,7 @@ Das Generalsekretariat führt eine Geschäftskontrolle über die Direktionsgesch
 
 **19**
 
-- 1\. 1. 22 - 115
+- 1\. 7. 22 - 117
 
 <sup>3</sup> Sie kann Themen bearbeiten, die alle Direktionen betreffen, und dem Regierungsrat hierzu Bericht erstatten.
 
@@ -961,7 +961,7 @@ Das Generalsekretariat führt eine Geschäftskontrolle über die Direktionsgesch
 
 **21**
 
-- 1\. 1. 22 - 115 § 76.<sup>43,</sup> <sup>58</sup> Die HRK unterstützt den Regierungsrat und die Finanzdirektion bei der Erfüllung ihrer Aufgaben im Personalwesen, insbesondere durch:
+- 1\. 7. 22 - 117 § 76.<sup>43,</sup> <sup>58</sup> Die HRK unterstützt den Regierungsrat und die Finanzdirektion bei der Erfüllung ihrer Aufgaben im Personalwesen, insbesondere durch:
 
 **b. Aufgaben**
 
@@ -1085,9 +1085,11 @@ Diese Verordnung tritt am 1. September 2007 in Kraft.
 
 <sup>62</sup> Fassung gemäss RRB vom 6. Oktober 2021 (OS 76, 594; ABl 2021-10-29). In Kraft seit 1. Januar 2022.
 
+<sup>63</sup> Fassung gemäss RRB vom 27. April 2022 (OS 77, 259; ABl 2022-05-06). In Kraft seit 1. Juli 2022.
+
 **25**
 
-- 1\. 1. 22 - 115
+- 1\. 7. 22 - 117
 
 ### Anhang 1: Zuständigkeitsbereiche der Direktionen
 
@@ -1210,7 +1212,7 @@ Diese Verordnung tritt am 1. September 2007 in Kraft.
 
 **27**
 
-- 1\. 1. 22 - 115
+- 1\. 7. 22 - 117
 
 [^hCFinanzdirektions-1]: Fassung gemäss RRB vom 2. Juni 2010 (OS 65, 366; ABl 2010, 1248). In Kraft seit 1. Juli 2010.
 
@@ -1306,7 +1308,7 @@ stelle
 
 **29**
 
-- 1\. 1. 22 - 115
+- 1\. 7. 22 - 117
 
 - 4\. Aufsicht über die Lehrbetriebe
 
@@ -1366,7 +1368,7 @@ stelle
 
 **31**
 
-- 1\. 1. 22 - 115
+- 1\. 7. 22 - 117
 
 [^hBeiträge-1]: Fassung gemäss RRB vom 4. Mai 2011 (OS 66, 425; ABl 2011, 1507). In Kraft seit 1. August 2011.
 
@@ -1374,21 +1376,15 @@ stelle
 
 (§ 59)
 
-### 1. Justiz und Inneres
+### 1. Direktion der Justiz und des Innern<sup>63</sup>
 
-1.1 Verwaltungseinheiten mit Amtsstruktur a.<sup>54</sup> Justizvollzug und Wiedereingliederung b.[^h1JustizundInnere-1] Oberstaatsanwaltschaft und Staatsanwaltschaften (Strafverfolgung
+1.1 Verwaltungseinheiten mit Amtsstruktur a.<sup>54</sup> Justizvollzug und Wiedereingliederung b.<sup>63</sup> Oberstaatsanwaltschaft und Staatsanwaltschaften (Staatsanwaltschaft) c.[^h1DirektionderJus-1] Oberjugendanwaltschaft und Jugendanwaltschaften (Jugendstrafrechtspflege) d. Gemeindeamt e. Handelsregisteramt f. Statistisches Amt g. Staatsarchiv
 
-[^h1JustizundInnere-1]: Fassung gemäss RRB vom 2. Juni 2010 (OS 65, 366; ABl 2010, 1248). In Kraft seit 1. Juli 2010.
+1.2 Weitere Verwaltungseinheiten a.<sup>63</sup> Fachstelle Gleichstellung b.<sup>63</sup> Fachstelle Integration c. Fachstelle Kultur d. Kantonale Opferhilfestelle
 
-### Erwachsene)
+1.3 Administrativ angegliederte Einheiten[^h1DirektionderJus-1] a. Bezirksratskanzleien b.[^h1DirektionderJus-2] Statthalterämter
 
-c.[^hErwachsene-1] Oberjugendanwaltschaft und Jugendanwaltschaften (Jugendstrafrechtspflege) d. Gemeindeamt e. Handelsregisteramt f. Amt für berufliche Vorsorge und Stiftungen g. Statistisches Amt h. Staatsarchiv
-
-1.2 Weitere Verwaltungseinheiten a.[^hErwachsene-2] Fachstelle für Gleichstellung von Frau und Mann b. Fachstelle für Integrationsfragen c. Fachstelle Kultur d. Kantonale Opferhilfestelle
-
-1.3 Administrativ angegliederte Einheiten[^hErwachsene-1] a. Bezirksratskanzleien b.[^hErwachsene-3] Statthalterämter
-
-- 2\. Sicherheitsdirektion[^hErwachsene-4] 2.1 Verwaltungseinheiten mit Amtsstruktur
+- 2\. Sicherheitsdirektion[^h1DirektionderJus-3] 2.1 Verwaltungseinheiten mit Amtsstruktur
 
 - a. Kantonspolizei
 
@@ -1398,11 +1394,11 @@ c.[^hErwachsene-1] Oberjugendanwaltschaft und Jugendanwaltschaften (Jugendstrafr
 
 - d. Amt für Militär und Zivilschutz
 
-- e. Sozialamt f.[^hErwachsene-5] Sportamt 2.2 Weitere Verwaltungseinheiten <sup>22</sup>
+- e. Sozialamt f.[^h1DirektionderJus-4] Sportamt 2.2 Weitere Verwaltungseinheiten <sup>22</sup>
 
-- a. Passbüro b.[^hErwachsene-2] Eichämter
+- a. Passbüro b.[^h1DirektionderJus-5] Eichämter
 
-- c. Gewerbebewilligungen und Beglaubigungen d.[^hErwachsene-6] Rekursabteilung
+- c. Gewerbebewilligungen und Beglaubigungen d.[^h1DirektionderJus-6] Rekursabteilung
 
 - 3\. Finanzdirektion 3.1 Verwaltungseinheiten mit Amtsstruktur<sup>39</sup>
 
@@ -1418,7 +1414,7 @@ c.[^hErwachsene-1] Oberjugendanwaltschaft und Jugendanwaltschaften (Jugendstrafr
 
 3.3<sup>33</sup>
 
-- 4\. Volkswirtschaftsdirektion 4.1 Verwaltungseinheiten mit Amtsstruktur[^hErwachsene-2]
+- 4\. Volkswirtschaftsdirektion 4.1 Verwaltungseinheiten mit Amtsstruktur[^h1DirektionderJus-5]
 
 - a. Amt für Wirtschaft und Arbeit b.<sup>56</sup> Amt für Mobilität
 
@@ -1426,9 +1422,9 @@ c.[^hErwachsene-1] Oberjugendanwaltschaft und Jugendanwaltschaften (Jugendstrafr
 
 **33**
 
-- 1\. 1. 22 - 115
+- 1\. 7. 22 - 117
 
-- 5\. Gesundheitsdirektion[^hErwachsene-2],[^hErwachsene-7] 5.1 Verwaltungseinheiten mit Amtsstruktur<sup>32,</sup> <sup>60</sup>
+- 5\. Gesundheitsdirektion[^h1DirektionderJus-5],[^h1DirektionderJus-7] 5.1 Verwaltungseinheiten mit Amtsstruktur<sup>32,</sup> <sup>60</sup>
 
 - a. Amt für Gesundheit
 
@@ -1458,7 +1454,7 @@ c.[^hErwachsene-1] Oberjugendanwaltschaft und Jugendanwaltschaften (Jugendstrafr
 
 - b. Tiefbauamt
 
-- c. Immobilienamt d.[^hErwachsene-1] Amt für Raumentwicklung
+- c. Immobilienamt d.[^h1DirektionderJus-1] Amt für Raumentwicklung
 
 - e. Amt für Abfall, Wasser, Energie und Luft
 
@@ -1466,13 +1462,13 @@ c.[^hErwachsene-1] Oberjugendanwaltschaft und Jugendanwaltschaften (Jugendstrafr
 
 7.2 Weitere Verwaltungseinheiten a.<sup>32</sup> Koordination Bau und Umwelt
 
-[^hErwachsene-1]: Fassung gemäss RRB vom 4. Mai 2011 (OS 66, 425; ABl 2011, 1507). In Kraft seit 1. August 2011.
-[^hErwachsene-2]: Fassung gemäss RRB vom 2. Juni 2010 (OS 65, 366; ABl 2010, 1248). In Kraft seit 1. Juli 2010.
-[^hErwachsene-3]: Eingefügt durch RRB vom 15. Juni 2011 (OS 66, 428; ABl 2011, 1810). In Kraft seit 1. Januar 2012.
-[^hErwachsene-4]: Fassung gemäss RRB vom 15. Juni 2011 (OS 66, 428; ABl 2011, 1810). In Kraft seit 1. Januar 2012.
-[^hErwachsene-5]: Eingefügt durch RRB vom 2. Mai 2012 (OS 67, 491; ABl 2012, 1012). In Kraft seit 1. Januar 2013. 1. 1. 22 - 115 23
-[^hErwachsene-6]: Eingefügt durch RRB vom 4. Mai 2011 (OS 66, 425; ABl 2011, 1507). In Kraft seit 1. August 2011.
-[^hErwachsene-7]: Fassung gemäss RRB vom 13. Juli 2011 (OS 66, 576; ABl 2011, 2065). In Kraft seit 1. Juli 2011.
+[^h1DirektionderJus-1]: Fassung gemäss RRB vom 4. Mai 2011 (OS 66, 425; ABl 2011, 1507). In Kraft seit 1. August 2011.
+[^h1DirektionderJus-2]: Eingefügt durch RRB vom 15. Juni 2011 (OS 66, 428; ABl 2011, 1810). In Kraft seit 1. Januar 2012.
+[^h1DirektionderJus-3]: Fassung gemäss RRB vom 15. Juni 2011 (OS 66, 428; ABl 2011, 1810). In Kraft seit 1. Januar 2012.
+[^h1DirektionderJus-4]: Eingefügt durch RRB vom 2. Mai 2012 (OS 67, 491; ABl 2012, 1012). In Kraft seit 1. Januar 2013. 1. 7. 22 - 117 23
+[^h1DirektionderJus-5]: Fassung gemäss RRB vom 2. Juni 2010 (OS 65, 366; ABl 2010, 1248). In Kraft seit 1. Juli 2010.
+[^h1DirektionderJus-6]: Eingefügt durch RRB vom 4. Mai 2011 (OS 66, 425; ABl 2011, 1507). In Kraft seit 1. August 2011.
+[^h1DirektionderJus-7]: Fassung gemäss RRB vom 13. Juli 2011 (OS 66, 576; ABl 2011, 2065). In Kraft seit 1. Juli 2011.
 
 ### Anhang 3: Selbstständige Entscheidkompetenzen der Verwaltungseinheiten
 
@@ -1504,13 +1500,13 @@ Verwaltungseinheit Sachbereiche mit Entscheidungskompetenz im eigenen Namen
 
 **35**
 
-- 1\. 1. 22 - 115 Verwaltungseinheit Sachbereiche mit Entscheidungskompetenz im eigenen Namen
+- 1\. 7. 22 - 117 Verwaltungseinheit Sachbereiche mit Entscheidungskompetenz im eigenen Namen
 
-[^h1DirektionderJus-1]: Fassung gemäss RRB vom 2. Juni 2010 (OS 65, 366; ABl 2010, 1248). In Kraft seit 1. Juli 2010.
+[^h1DirektionderJus_2-1]: Fassung gemäss RRB vom 2. Juni 2010 (OS 65, 366; ABl 2010, 1248). In Kraft seit 1. Juli 2010.
 
 ### 4. Volkswirtschaftsdirektion
 
-[^h1DirektionderJus-1]
+[^h1DirektionderJus_2-1]
 
 4.1 Amt für Wirtschaft und Arbeit Gesamter Aufgabenbereich, einschliesslich Anordnungen betreffend die Erwerbstätigkeit kontrollpflichtiger Ausländerinnen und Aus-
 
@@ -1566,7 +1562,7 @@ länder.
 
 **37**
 
-- 1\. 1. 22 - 115
+- 1\. 7. 22 - 117
 
 [^3_2-1]: LS 412.100.
 [^3_2-2]: LS 413.21.
