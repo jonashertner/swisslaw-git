@@ -3,20 +3,20 @@ canton: SO
 number: "614.12"
 title: Vollzugsverordnung zum Gesetz über die Staats- und Gemeindesteuern
 language: de
-version: 2021-01-01
-valid_until: 2022-06-30
-version_adopted: 2020-10-27
+version: 2022-07-01
+valid_until: 2025-12-31
+version_adopted: 2021-12-21
 adopted: 1986-01-28
 in_force: 1986-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/614.12"
-pdf: "https://bgs.so.ch/api/de/versions/5042/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5224/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Vollzugsverordnung zum Gesetz über die Staats- und Gemeindesteuern
 
-Vom 28.01.1986 (Stand 01.01.2021)[^t-1]
+Vom 28.01.1986 (Stand 01.07.2022)[^t-1]
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -571,6 +571,16 @@ beschliesst:[^ingress-2]
 <sup>1</sup> Minderjährige Kinder werden durch den Inhaber der elterlichen Sorge vertreten, soweit sie nicht für Erwerbs- oder Ersatzeinkommen (§ 14 Absatz 2 des Gesetzes) oder für Grundstückgewinne (§ 52 Absatz 2 des Gesetzes) selbständig steuerpflichtig sind.
 
 <sup>2</sup> Als Vertreter eines Steuerpflichtigen mit Wohnsitz oder Sitz im Ausland kann eine natürliche oder juristische Person mit Wohnsitz oder Sitz in der Schweiz bezeichnet werden, die zum Empfang aller Mitteilungen, Verfügungen und Entscheide in Steuersachen ermächtigt ist. Wird auf Aufforderung hin kein solcher Zustellungsbevollmächtigter bezeichnet, so können Mitteilungen, Verfügungen und Entscheide durch Publikation im Amtsblatt rechtswirksam eröffnet werden.
+
+#### § 50bis
+
+**Eröffnung § 136 Abs. 1<sup>bis</sup>**
+
+<sup>1</sup> Die Zustellung von Verfügungen und Entscheiden, für welche ein Zustellnachweis erbracht werden soll, kann mit A-Post Plus erfolgen, wenn dem Empfangenden keine Frist angesetzt wird oder diese mindestens 30 Tage lang ist.
+
+<sup>2</sup> Bei der Verwendung der Zustellform A-Post Plus für Verfügungen und Entscheide ist die Rechtsmittelbelehrung mit dem Hinweis zu ergänzen, dass die Ablage im Briefkasten oder Postfach als Zustellung gilt. Ist dies nicht oder nur mit unverhältnismässigem Aufwand möglich, ist der Hinweis in einer Beilage anzubringen.
+
+<sup>3</sup> Bei der Verwendung der Zustellform A-Post Plus für Mahnungen und andere amtliche Schreiben, die mit der Androhung von Rechtsnachteilen verbunden sind, ist der Hinweis im Schreiben selbst oder in einer Beilage anzubringen.
 
 #### § 51
 
