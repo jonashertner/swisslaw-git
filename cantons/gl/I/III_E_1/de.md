@@ -4,13 +4,12 @@ number: III E/1
 title: Gesetz über die Einführung des Schweizerischen Strafgesetzbuches im Kanton Glarus
 short: Einführungsgesetz zum Schweizerischen Strafgesetzbuch; EG StGB
 language: de
-version: 2014-09-01
-valid_until: 2022-06-30
-version_adopted: 2014-05-04
+version: 2022-07-01
+version_adopted: 2021-09-05
 adopted: 1965-05-02
 in_force: 1966-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/III-E.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/1661/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2284/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/1661/pdf_file"
 
 (Einführungsgesetz zum Schweizerischen Strafgesetzbuch; EG StGB)
 
-Vom 02.05.1965 (Stand 01.09.2014)
+Vom 02.05.1965 (Stand 01.07.2022)
 
 (Erlassen von der Landsgemeinde am 2. Mai 1965)
 
@@ -35,9 +34,7 @@ Vom 02.05.1965 (Stand 01.09.2014)
 
 #### Art. 2
 
-**Busse statt Haft**
-
-<sup>1</sup> Die Haft wird in den Strafbestimmungen sämtlicher kantonaler Erlasse aufgehoben und, wo neben dieser nicht bereits eine Busse angedroht wird, durch Busse ersetzt.
+**…**
 
 #### Art. 3
 
@@ -51,7 +48,7 @@ Vom 02.05.1965 (Stand 01.09.2014)
 
 <sup>1</sup> Landsgemeinde, Landrat und Regierungsrat sind befugt, in den Gesetzen, Beschlüssen, Verordnungen und Reglementen Strafbestimmungen über die Widerhandlungen gegen die Bestimmungen dieser Erlasse aufzunehmen, ebenso die Gemeinden in bezug auf die Gemeindeerlasse.
 
-<sup>2</sup> Diese Strafbestimmungen lauten auf Haft oder Busse.
+<sup>2</sup> Diese Strafbestimmungen lauten auf Busse.
 
 ### 1.2. Einzelne Übertretungen
 
@@ -59,7 +56,7 @@ Vom 02.05.1965 (Stand 01.09.2014)
 
 **Nichtbefolgen von Anordnungen, Verfahrensdisziplin**
 
-<sup>1</sup> Wer den Anordnungen, die Behörden oder Angestellte des Kantons sowie der Gemeinden erlassen, nicht nachkommt, diesen gegenüber den Geschäftsgang stört oder den Anstand verletzt, wird mit Busse bestraft.
+<sup>1</sup> Wer mündlichen Anordnungen, die Behörden oder Angestellte des Kantons sowie der Gemeinden erlassen, nicht nachkommt, diesen gegenüber den Geschäftsgang stört oder den Anstand verletzt, wird mit Busse bestraft.
 
 #### Art. 6
 
@@ -198,9 +195,13 @@ Vom 02.05.1965 (Stand 01.09.2014)
 
 #### Art. 26
 
-**Meldepflicht und Vollzugsbeginn**
+**Urteilszustellung und Vollzugsbeginn**
 
-<sup>1</sup> Sind Vollzugsvorkehren zu treffen, gehen die für den Vollzug massgeblichen Strafakten samt den rechtskräftigen Urteilen, Verfügungen und Beschlüssen an die für den Vollzug zuständige Verwaltungsbehörde.
+<sup>1</sup> Die Gerichte stellen der für den Vollzug zuständigen Verwaltungsbehörde das rechtskräftige Urteil zu. Sie melden ihr den Rechtsspruch umgehend, wenn der verurteilten Person die Freiheit bereits entzogen ist oder vorsorgliche Massnahmen zu prüfen sind.
+
+<sup>1a</sup> Die Staats- und Jugendanwaltschaft stellt der für den Vollzug zuständigen Verwaltungsbehörde den rechtskräftigen Strafbefehl zu, wenn eine unbedingte Freiheitsstrafe, Bewährungshilfe oder eine Weisung angeordnet wurde.
+
+<sup>1b</sup> Die Gerichte sowie die Staats- und Jugendanwaltschaft legen ihren Strafentscheiden allfällige Gutachten und Berichte sowie weitere Unterlagen bei, soweit diese für den Vollzug geeignet und notwendig sind.
 
 <sup>2</sup> Der Vollzug von freiheitsbeschränkenden Strafen und Mass nahmen in einer geeigneten Anstalt ist nach Eintritt der Rechtskraft so rasch als möglich einzuleiten.
 
@@ -210,9 +211,19 @@ Vom 02.05.1965 (Stand 01.09.2014)
 
 **Vorzeitiger Straf- und Massnahmenvollzug**
 
-<sup>1</sup> Die Strafbehörde kann der beschuldigten Person bewilligen, Freiheitsstrafen und freiheitsentziehende Massnahmen vorzeitig anzutreten (Art. 58 und 75 StGB), sofern der Stand des Verfahrens es erlaubt.
+<sup>1</sup> …
+
+<sup>1a</sup> Die Bewilligung des vorzeitigen stationären Massnahmenvollzugs durch die Verfahrensleitung bedarf der Zustimmung der für den Vollzug zuständigen Verwaltungsbehörde.
 
 <sup>2</sup> Die Strafbehörde erteilt der zuständigen Vollzugsbehörde die nötigen Anweisungen für den vorzeitigen Vollzug.
+
+#### Art. 26b
+
+**Haft- und Straferstehungsfähigkeit**
+
+<sup>1</sup> Die einweisende Behörde entscheidet im Zweifelsfall oder bei entsprechender Indikation über die Haft- oder Straferstehungsfähigkeit einer betroffenen Person.
+
+<sup>2</sup> Sie stützt sich dabei auf den Befund und die allfällige Empfehlung einer medizinischen Fachperson.
 
 #### Art. 27
 
@@ -313,7 +324,9 @@ Vom 02.05.1965 (Stand 01.09.2014)
 
 <sup>2</sup> Die Verfügung erfolgt aufgrund einer umfassenden Würdigung, insbesondere der objektiven Schwere der disziplinarischen Verfehlung, des bisherigen Verhaltens im Vollzug und der Beweggründe. Die Massnahme soll geeignet sein künftige Verstösse gegen die Anstaltsdisziplin zu verhindern. Das Verhängen von kollektiven Disziplinarmassnahmen ist unzulässig.
 
-<sup>3</sup> Die von einer Disziplinarmassnahme betroffene Person kann gegen Disziplinarverfügungen innert 48 Stunden seit der Eröffnung entsprechend den Bestimmungen des Verwaltungsrechtspflegegesetzes[^29e-1] Beschwerde erheben.
+<sup>3</sup> Die von einer Disziplinarmassnahme betroffene Person kann gegen Disziplinarverfügungen innert zwei Tagen seit der Eröffnung Beschwerde erheben.
+
+<sup>4</sup> Dieser kommt keine aufschiebende Wirkung zu, es sei denn, diese werde von der Beschwerdeinstanz angeordnet. Im Übrigen richtet sich der Rechtsschutz nach dem Verwaltungsrechtspflegegesetz[^29e-1].
 
 [^29e-1]: GS [III G/1](https://gesetze.gl.ch/data/III-G.1/de)
 
@@ -371,7 +384,21 @@ Vom 02.05.1965 (Stand 01.09.2014)
 
 <sup>3</sup> Beschwerden haben keine aufschiebende Wirkung, es sei denn, diese werden von der Beschwerdeinstanz angeordnet.
 
+<sup>3a</sup> Erachtet die zuständige Vollzugsbehörde die Aufhebung einer therapeutischen Massnahme nach Artikel 56 ff. StGB und gleichzeitig die nachträgliche Anordnung einer anderen strafrechtlichen Sanktion als angezeigt, beantragt sie dies beim Kantonsgericht. Dieses entscheidet auch über die Aufhebung der therapeutischen Massnahme. Die Staats- und Jugendanwaltschaft hat die Rechte einer Partei. Die zuständige Vollzugsbehörde nimmt die rechtserheblichen Abklärungen vor, die für den Entscheid von Bedeutung sein können.
+
+<sup>3b</sup> Erstinstanzliche Entscheide des zuständigen Departements unterliegen unmittelbar der Beschwerde an das Verwaltungsgericht; es kann auch die Angemessenheit eines Entscheides überprüfen.
+
 <sup>4</sup> Verfügungen, denen von Gesetzes wegen, auf Antrag der Vollzugsbehörden oder der verurteilten Person ein Entscheid einer richterlichen Behörde folgt, sind nicht auf dem Weg der Verwaltungsrechtspflege anfechtbar.
+
+#### Art. 32a
+
+**Videokonferenzen**
+
+<sup>1</sup> Die Strafvollzugsbehörden sind berechtigt, Verfahrenshandlungen und Vollzugsüberprüfungen, insbesondere im Zusammenhang mit Anhörungen vor dem Erlass von Verfügungen über Vollzugsöffnungsschritte, mit der verurteilten Person oder anderen Behörden mit Videokonferenz durchzuführen.
+
+<sup>2</sup> Die verurteilte Person hat ihr Einverständnis zur Videokonferenz zu erklären, wenn es um die Gewährung des rechtlichen Gehörs bei einer bedingten Entlassung geht.
+
+<sup>3</sup> Das Gespräch ist in Ton und Bild aufzuzeichnen oder, bei Verzicht auf eine Aufzeichnung, zu protokollieren.
 
 #### Art. 33
 
