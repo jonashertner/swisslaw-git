@@ -3,11 +3,11 @@ sr: "172.220.111.342.1"
 title: Verordnung des VBS vom 15. Februar 2019 über die Zulagen im Flug- und Fallschirmsprungdienst des VBS (Flugzulagenverordnung VBS)
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/151"
 language: de
-version: 2019-04-01
+version: 2022-07-01
 adopted: 2019-02-15
 in_force: 2019-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/151/20190401/de/xml/fedlex-data-admin-ch-eli-cc-2019-151-20190401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/151/20190401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/151/20220701/de/xml/fedlex-data-admin-ch-eli-cc-2019-151-20220701-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/151/20220701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/151/20190401/de"
 
 (Flugzulagenverordnung VBS)
 
-vom 15. Februar 2019 (Stand am 1. April 2019)
+vom 15. Februar 2019 (Stand am 1. Juli 2022)
 
 Das Eidgenössische Departement für Verteidigung, Bevölkerungsschutz und Sport (VBS), im Einvernehmen mit dem Eidgenössischen Finanzdepartement,
 
@@ -30,18 +30,27 @@ verordnet:
 
 #### Art. 1
 
-Diese Verordnung regelt die Zulagen für folgende Personalkategorien im VBS:
+Diese Verordnung regelt die Zulagen für folgende Angestellte im VBS:[^1-1]
 
 - a. Berufsmilitärpiloten und -pilotinnen;
 - b. Berufsbordoperateure und -operateurinnen;
 - c. Berufs-FLIR-Operateure und -Operateurinnen;
-- d. Berufsfallschirmaufklärer und -aufklärerinnen;
-- e. Berufsbordfotografen und -fotografinnen;
+- d.[^1-2] Berufsbordfotografen und -fotografinnen;
+- e.[^1-3] Berufsfallschirmaufklärer und -aufklärerinnen;
+- e<sup>bis</sup>.[^1-4] Angehörige des Armee-Aufklärungsdetachements 10 (AAD 10) mit militärischer Freifallausbildung;
+- e<sup>ter</sup>.[^1-5] Fachlehrer und -lehrerinnen mit Fallschirminstruktor-Lizenz im Fachdienst Fallschirm;
 - f. Besatzungsmitglieder, die an Bord des Luftfahrzeugs zur Erfüllung des Flugauftrages beitragen;
 - g. zivile Transportpiloten und -pilotinnen des Lufttransportdienstes des Bundes (zivile Transportpiloten und -pilotinnen LTDB);
 - h. Testpiloten und -pilotinnen;
 - i. Flugversuchsingenieure und -ingenieurinnen;
-- j. Bordoperateure und -operateurinnen des Bundesamts für Landestopographie (Bordoperateure und -operateurinnen L+T).
+- j.[^1-6] Ingenieure und Ingenieurinnen des Flugdienstes des Bundesamts für Landestopografie (Swisstopo).
+
+[^1-1]: Fassung gemäss Anhang Ziff. I der V des VBS vom 21. März 2022 über die Angehörigen des militärischen Flugdienstes, in Kraft seit 1. Juli 2022 ([AS 2022 214](https://fedlex.data.admin.ch/eli/oc/2022/214)).
+[^1-2]: Fassung gemäss Anhang Ziff. I der V des VBS vom 21. März 2022 über die Angehörigen des militärischen Flugdienstes, in Kraft seit 1. Juli 2022 ([AS 2022 214](https://fedlex.data.admin.ch/eli/oc/2022/214)).
+[^1-3]: Fassung gemäss Anhang Ziff. I der V des VBS vom 21. März 2022 über die Angehörigen des militärischen Flugdienstes, in Kraft seit 1. Juli 2022 ([AS 2022 214](https://fedlex.data.admin.ch/eli/oc/2022/214)).
+[^1-4]: Eingefügt durch Anhang Ziff. I der V des VBS vom 21. März 2022 über die Angehörigen des militärischen Flugdienstes, in Kraft seit 1. Juli 2022 ([AS 2022 214](https://fedlex.data.admin.ch/eli/oc/2022/214)).
+[^1-5]: Eingefügt durch Anhang Ziff. I der V des VBS vom 21. März 2022 über die Angehörigen des militärischen Flugdienstes, in Kraft seit 1. Juli 2022 ([AS 2022 214](https://fedlex.data.admin.ch/eli/oc/2022/214)).
+[^1-6]: Fassung gemäss Anhang Ziff. I der V des VBS vom 21. März 2022 über die Angehörigen des militärischen Flugdienstes, in Kraft seit 1. Juli 2022 ([AS 2022 214](https://fedlex.data.admin.ch/eli/oc/2022/214)).
 
 ## 2. Abschnitt: Angehörige des militärischen Flugdienstes
 
@@ -49,7 +58,7 @@ Diese Verordnung regelt die Zulagen für folgende Personalkategorien im VBS:
 
 **Zulagen**
 
-<sup>1</sup> Berufsmilitärpiloten und -pilotinnen, zivile Transportpiloten und -pilotinnen des Lufttransportdienstes des Bundes, Berufsbordoperateure und -operateurinnen, Berufs-FLIR-Operateure und -Operateurinnen, Berufsfallschirmaufklärer und ‑aufklärerinnen sowie Berufsbordfotografen und -fotografinnen erhalten eine Zulage nach Anhang 1 für besondere Beanspruchung, für den vermehrten Einsatz im Flugdienst und für das erhöhte Risiko.
+<sup>1</sup> Berufsmilitärpiloten und -pilotinnen, zivile Transportpiloten und -pilotinnen LTDB, Berufsbordoperateure und -operateurinnen, Berufs-FLIR-Operateure und -Operateurinnen, Berufsbordfotografen und -fotografinnen, Berufsfallschirmaufklärer und -aufklärerinnen, Angehörige des AAD 10 mit militärischer Freifallausbildung sowie Fachlehrer und -lehrerinnen mit Fallschirminstruktor-Lizenz im Fachdienst Fallschirmerhalten eine Zulage nach Anhang 1 für besondere Beanspruchung, für den vermehrten Einsatz im Flugdienst und für das erhöhte Risiko.[^2-1]
 
 <sup>2</sup>
 
@@ -63,15 +72,31 @@ Die Zulage der Berufsmilitärpiloten und –pilotinnen nach Anhang 1 wird wie fo
 
 <sup>4</sup> Eine Zulage pro Flugminute nach Anhang 3 erhalten Besatzungsmitglieder, die an Bord des Luftfahrzeugs zur Erfüllung des Flugauftrags beitragen.
 
+[^2-1]: Fassung gemäss Anhang Ziff. I der V des VBS vom 21. März 2022 über die Angehörigen des militärischen Flugdienstes, in Kraft seit 1. Juli 2022 ([AS 2022 214](https://fedlex.data.admin.ch/eli/oc/2022/214)).
+
 #### Art. 3
 
 **Dauer des Anspruchs auf Zulage**
 
-<sup>1</sup> Anspruch auf eine Zulage nach Anhang 1 haben Berufsmilitärpiloten und ‑pilotinnen nach erfolgreichem Abschluss der Pilotenschule der Luftwaffe, zivile Transportpiloten und -pilotinnen LTDB mit Beginn der entsprechenden Anstellung, Berufsfallschirmaufklärer und -aufklärerinnen nach Ablauf der Probezeit und die übrigen Berechtigten nach der Brevetierung.
+<sup>1</sup>
+
+Anspruch auf eine Zulage nach Anhang 1 haben:
+
+- a. Berufsmilitärpiloten und -pilotinnen nach erfolgreichem Abschluss der Pilotenschule der Luftwaffe;
+- b. zivile Transportpiloten und -pilotinnen LTDB mit Beginn der entsprechenden Anstellung;
+- c. Berufsfallschirmaufklärer und -aufklärerinnen nach Ablauf der Probezeit;
+- d. Angehörige des AAD 10 mit militärischer Freifallausbildung sowie Fachlehrer und Fachlehrerinnen mit Fallschirminstruktor-Lizenz im Fachdienst Fallschirm ab dem Monat, in dem das Sprungobligatorium begründet wird;
+- e. die übrigen Berechtigten nach der Brevetierung.[^3-1]
 
 <sup>2</sup> Die Zulage wird als Bestandteil der Lohnfortzahlung im Vorruhestand nach Artikel 34*a* BPV weiterhin ausgerichtet.
 
-## 3. Abschnitt: Personal der armasuisse
+[^3-1]: Fassung gemäss Anhang Ziff. I der V des VBS vom 21. März 2022 über die Angehörigen des militärischen Flugdienstes, in Kraft seit 1. Juli 2022 ([AS 2022 214](https://fedlex.data.admin.ch/eli/oc/2022/214)).
+
+## 3. Abschnitt: Personal des Bundesamts für Rüstung (Armasuisse) und der Swisstopo
+
+[^sec3-1]
+
+[^sec3-1]: Fassung gemäss Anhang Ziff. I der V des VBS vom 21. März 2022 über die Angehörigen des militärischen Flugdienstes, in Kraft seit 1. Juli 2022 ([AS 2022 214](https://fedlex.data.admin.ch/eli/oc/2022/214)).
 
 #### Art. 4
 
@@ -87,9 +112,11 @@ Flugversuchsingenieure und -ingenieurinnen sowie übrige Besatzungsmitglieder na
 
 #### Art. 6
 
-**Zulage für Bordoperateure und -operateurinnen L+T**
+**Zulage für Ingenieure und Ingenieurinnen des Flugdienstes der Swisstopo**[^6-1]
 
-Bordoperateure und -operateurinnen L+T erhalten für die mit dem Flugdienst verbundene besondere Beanspruchung eine Zulage nach Anhang 1.
+Ingenieure und Ingenieurinnen des Flugdienstes der Swisstopo erhalten für die mit dem Flugdienst verbundene besondere Beanspruchung eine Zulage nach Anhang 1.
+
+[^6-1]: Fassung gemäss Anhang Ziff. I der V des VBS vom 21. März 2022 über die Angehörigen des militärischen Flugdienstes, in Kraft seit 1. Juli 2022 ([AS 2022 214](https://fedlex.data.admin.ch/eli/oc/2022/214)).
 
 ## 4. Abschnitt: Gemeinsame Bestimmungen
 
@@ -101,15 +128,26 @@ Die Versicherbarkeit der Zulagen richtet sich nach Artikel 88*a* Absatz 1 BPV.
 
 #### Art. 8
 
-**Einstellung im Flugdienst**
+**Einstellung im Flugdienst**[^8-1]
 
-<sup>1</sup> Wer aus fliegermedizinischen Gründen vorübergehend im Flugdienst eingestellt wird, den Dienst wegen Krankheit, Unfall oder Mutterschaftsurlaub aussetzt oder endgültig aus fliegermedizinischen Gründen oder wegen herabgesetzter körperlicher oder geistiger Leistungsfähigkeit im Flugdienst eingestellt wird, jedoch weiterhin bei der Bundesverwaltung beschäftigt ist, hat ebenso lange Anspruch auf die Zulage nach Artikel 2 Absatz 1 und den Artikeln 4 und 6, wie ein Anspruch auf Leistung der Arbeitgeber an die Angestellten bei Arbeitsverhinderung nach Artikel 29 Absatz 1 des Bundespersonalgesetzes vom 24. März 2000[^8-1] besteht.
+<sup>1</sup> Wer aus fliegermedizinischen Gründen vorübergehend im Flugdienst eingestellt wird, den Dienst wegen Krankheit, Unfall oder Mutterschaftsurlaub aussetzt oder endgültig aus fliegermedizinischen Gründen oder wegen herabgesetzter körperlicher oder geistiger Leistungsfähigkeit im Flugdienst eingestellt wird, jedoch weiterhin bei der Bundesverwaltung beschäftigt ist, hat ebenso lange Anspruch auf die Zulage nach Artikel 2 Absatz 1 und den Artikeln 4 und 6, wie ein Anspruch auf Leistung der Arbeitgeber an die Angestellten bei Arbeitsverhinderung nach Artikel 29 Absatz 1 des Bundespersonalgesetzes vom 24. März 2000[^8-2] besteht.
 
-<sup>2</sup> Wer aus fliegermedizinischen Gründen endgültig im Flugdienst eingestellt wird und keinen Anspruch auf eine Rente der Invalidenversicherung besitzt, hat bei einer festgestellten ganzen oder teilweisen Berufsinvalidität nach Artikel 88*e* BPV unabhängig vom Alter Anspruch auf eine Berufsinvalidenrente der PUBLICA.
+<sup>2</sup> Werden Angestellte nach Artikel 1 Buchstaben a–g, i und j nach vollendetem 55. Altersjahr aus fliegermedizinischen Gründen endgültig im Flugdienst eingestellt, so werden nach Ablauf der Frist nach Absatz 1 60 Prozent der Zulage nach Anhang 1 ausgerichtet, solange diese Personen in der Bundesverwaltung angestellt bleiben. Die Zulage ist jedoch vom Teuerungsausgleich und von Reallohnerhöhungen ausgenommen.
 
-<sup>3</sup> Werden Testpiloten und -pilotinnen nach vollendetem 58. Altersjahr aus fliegermedizinischen Gründen endgültig im Flugdienst eingestellt, so wird die Zulage nach Anhang 2 ausgerichtet, solange sie in der Bundesverwaltung beschäftigt bleiben. Die Zulage ist jedoch vom Teuerungsausgleich und von Reallohnerhöhungen ausgenommen.
+<sup>3</sup> Werden Testpiloten und Testpilotinnen nach vollendetem 55. Altersjahr aus fliegermedizinischen Gründen endgültig im Flugdienst eingestellt, so werden nach Ablauf der Frist nach Absatz 1 60 Prozent der Zulage nach Anhang 2 ausgerichtet, solange diese Personen in der Bundesverwaltung angestellt bleiben. Die Zulage ist jedoch vom Teuerungsausgleich und von Reallohnerhöhungen ausgenommen.
 
-[^8-1]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+<sup>4</sup> Die Zulagen nach den Absätzen 2 und 3 werden um die Höhe allfälliger Leistungen der Militärversicherung, der Schweizerischen Unfallversicherungsanstalt, der Invalidenversicherung oder einer anderen obligatorischen Unfallversicherung gekürzt. Die Angestellten melden ihre Berechtigung zu solchen Leistungen unverzüglich schriftlich dem Arbeitgeber und der Gruppe Verteidigung, der Armasuisse oder der Swisstopo.
+
+[^8-1]: Fassung gemäss Anhang Ziff. I der V des VBS vom 21. März 2022 über die Angehörigen des militärischen Flugdienstes, in Kraft seit 1. Juli 2022 ([AS 2022 214](https://fedlex.data.admin.ch/eli/oc/2022/214)).
+[^8-2]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+
+#### Art. 8a
+
+**Kostentragung**[^8a-1]
+
+Die Gruppe Verteidigung, die Armasuisse und die Swisstopo tragen die Kosten der von ihren ausgerichteten Zulagen.
+
+[^8a-1]: Eingefügt durch Anhang Ziff. I der V des VBS vom 21. März 2022 über die Angehörigen des militärischen Flugdienstes, in Kraft seit 1. Juli 2022 ([AS 2022 214](https://fedlex.data.admin.ch/eli/oc/2022/214)).
 
 ## 5. Abschnitt: Schlussbestimmungen
 
@@ -119,7 +157,7 @@ Die Versicherbarkeit der Zulagen richtet sich nach Artikel 88*a* Absatz 1 BPV.
 
 Die Verordnung vom 15. Mai 2003[^9-1] über die Zulagen im Flug- und Fallschirmsprungdienst des VBS wird aufgehoben.
 
-[^9-1]: [[AS 2003 1271](https://fedlex.data.admin.ch/eli/oc/2003/219), [2004 5009](https://fedlex.data.admin.ch/eli/oc/2004/764), [2008 2741](https://fedlex.data.admin.ch/eli/oc/2008/383)]
+[^9-1]: [[AS 2003 1271](https://fedlex.data.admin.ch/eli/oc/2003/219); [2004 5009](https://fedlex.data.admin.ch/eli/oc/2004/764); [2008 2741](https://fedlex.data.admin.ch/eli/oc/2008/383)]
 
 #### Art. 10
 
@@ -131,17 +169,27 @@ Die Verordnung vom 15. Mai 2003[^9-1] über die Zulagen im Flug- und Fallschirms
 
 [^10-1]: [AS 1995 98](https://fedlex.data.admin.ch/eli/oc/1995/98_98_98), [2002 1](https://fedlex.data.admin.ch/eli/oc/2002/1)
 
+#### Art. 10a
+
+**Übergangsbestimmung zur Änderung vom 21. März 2022**[^10a-1]
+
+Artikel 8 Absätze 2 und 3 der Änderung vom 21. März 2022 gilt auch für Angestellte nach Artikel 1 Buchstaben a–e und f–j, die zwischen dem 1. Januar 2020 und dem Inkrafttreten dieser Änderung endgültig im Flugdienst eingestellt wurden.
+
+[^10a-1]: Eingefügt durch Anhang Ziff. I der V des VBS vom 21. März 2022 über die Angehörigen des militärischen Flugdienstes, in Kraft seit 1. Juli 2022 ([AS 2022 214](https://fedlex.data.admin.ch/eli/oc/2022/214)).
+
 #### Art. 11
 
 **Inkrafttreten**
 
 Diese Verordnung tritt am 1. April 2019 in Kraft.
 
-Anhang 1
+Anhang 1[^t-1]
 
 (Art. 2, 3 und 6)
 
-## Zulagen für Personal der Luftwaffe und der L+T
+## Zulagen für Angehörige des militärischen Flugdienstes und für Ingenieure und Ingenieurinnen des Flugdienstes der Swisstopo
+
+[^t-1]: Bereinigt gemäss Anhang Ziff. II der V des VBS vom 21. März 2022 über die Angehörigen des militärischen Flugdienstes, in Kraft seit 1. Juli 2022 ([AS 2022 214](https://fedlex.data.admin.ch/eli/oc/2022/214)).
 
 Die Zulage nach Artikel 2 Absatz 1 und Artikel 6 beträgt jährlich:
 
@@ -155,9 +203,11 @@ Die Zulage nach Artikel 2 Absatz 1 und Artikel 6 beträgt jährlich:
 <tr><td>[tab]</td><td>b. vom vierten bis sechsten Jahr</td><td>37 244</td></tr>
 <tr><td>[tab]</td><td>c. ab dem siebten Jahr</td><td>48 657</td></tr>
 <tr><td>3. Berufs-FLIR-Operateure/ ‑Operateurinnen</td><td></td><td>23 772</td></tr>
-<tr><td>4. Bordoperateure/ ‑operateurinnen L+T</td><td></td><td>20 053</td></tr>
-<tr><td>5. Berufsfallschirmaufklärer/ ‑aufklärerinnen</td><td></td><td>13 755</td></tr>
-<tr><td>6. Berufsbordfotografen/ ‑fotografinnen</td><td></td><td>12 297</td></tr>
+<tr><td>4. Ingenieure/Ingenieurinnen des Flugdienstes der Swisstopo</td><td></td><td>20 053</td></tr>
+<tr><td>5. Berufsbordfotografen/ -fotografinnen</td><td></td><td>12 297</td></tr>
+<tr><td>6. Berufsfallschirmaufklärer/ -aufklärerinnen</td><td></td><td>13 755</td></tr>
+<tr><td>[tab] 6<sup>bis</sup>. Angehörige des AAD 10 mit militärischer Freifallausbildung</td><td></td><td>13 755</td></tr>
+<tr><td>[tab] 6<sup>ter</sup>. Fachlehrer/-lehrerinnen mit Fallschirminstruktor-Lizenz im Fachdienst Fallschirm</td><td></td><td>13 755</td></tr>
 <tr><td>7. Zivile Transportpiloten/ -pilotinnen LTDB</td><td>a. vom ersten bis dritten Jahr</td><td>15 511</td></tr>
 <tr><td>[tab]</td><td>b. vom vierten bis sechsten Jahr</td><td>21 044</td></tr>
 <tr><td>[tab]</td><td>c. ab dem siebten Jahr</td><td>40 216</td></tr>
