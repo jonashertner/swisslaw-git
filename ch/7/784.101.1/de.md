@@ -4,11 +4,11 @@ title: Verordnung vom 9. März 2007 über Fernmeldedienste (FDV)
 short: FDV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/166"
 language: de
-version: 2022-01-01
+version: 2022-07-01
 adopted: 2007-03-09
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/166/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2007-166-20220101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/166/20220701/de/xml/fedlex-data-admin-ch-eli-cc-2007-166-20220701-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20220701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20220101/de"
 
 (FDV)
 
-vom 9. März 2007 (Stand am 1. Januar 2022)
+vom 9. März 2007 (Stand am 1. Juli 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -36,7 +36,7 @@ In dieser Verordnung bedeuten:
 
 - a. *Benutzerin/Benutzer:* Person, die Dienste einer Anbieterin von Fernmeldediensten in Anspruch nimmt;
 - b. *Kundin/Kunde:* Person, die mit einer Anbieterin von Fernmeldediensten einen Vertrag über die Inanspruchnahme von deren Diensten geschlossen hat;
-- c.[^1-1] ...
+- c.[^1-1] …
 - d.[^1-2] *Zugangspreis:* Preis für den Zugang zu Diensten und Einrichtungen marktbeherrschender Anbieterinnen nach Artikel 11 Absatz 1 FMG.
 
 [^1-1]: Aufgehoben durch Ziff. I der V vom 18. Nov. 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
@@ -123,7 +123,7 @@ Der Dienst Überwachung Post- und Fernmeldeverkehr stellt dem BAKOM kostenlos di
 Für Anbieterinnen, die zur Erbringung ihrer Fernmeldedienste das Funkfrequenzspektrum nutzen, gilt die Verordnung vom 18. November 2020[^8-2] über die Nutzung des Funkfrequenzspektrums.
 
 [^8-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^8-2]: SR **784****.****102.1**
+[^8-2]: [SR 784.102.1](https://fedlex.data.admin.ch/eli/cc/2020/1024)
 
 #### Art. 9
 
@@ -254,7 +254,7 @@ Die Anbieterinnen von Fernmeldediensten müssen:
 Sie müssen für jeden der angebotenen Dienste mindestens:
 
 - a.[^10e-2] die tatsächlich erreichte Datenübertragungsrate, die Verzögerung und bei Mobilfunkverbindungen die Signalstärke messen und veröffentlichen;
-- b.[^10e-3] ...
+- b.[^10e-3] …
 
 <sup>3</sup> Die Informationen über die Qualität müssen Vergleiche zwischen den Angeboten der verschiedenen Anbieterinnen erlauben. Sie müssen auch in Form von geografischen Karten veröffentlicht werden.
 
@@ -646,7 +646,11 @@ Die Anbieterinnen des öffentlichen Telefondienstes müssen die Leitweglenkung d
 
 #### Art. 29a
 
-[^29a-1]
+**Standortidentifikation bei Notrufen: Pflichten der Mobilfunkkonzessionärinnen**[^29a-1]
+
+<sup>1</sup> Die Mobilfunkkonzessionärinnen müssen bei Notrufen auf die Europäische Notrufnummer, die von entsprechend ausgerüsteten Fahrzeugen ausgehen (eCall112), den minimalen Datensatz (*Minimum Set of Data,* MSD) aus dem Sprachkanal herauslesen und für den Standortidentifikationsdienst bereitstellen.
+
+<sup>2</sup> Sie müssen bei Notrufen¸ bei denen die geräte- und betriebssystemeigene Ortungsfunktion sowie die sprachkanalunabhängige Übertragung der Standortinformation genutzt werden (*Advanced Mobile Location,* AML), die Standortinformation für den Standortidentifikationsdienst bereitstellen.
 
 [^29a-1]: Eingefügt durch Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Juli 2022 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020); [2021 724](https://fedlex.data.admin.ch/eli/oc/2021/724)).
 
@@ -824,7 +828,7 @@ Die Anbieterinnen von Fernmeldediensten, die verpflichtet sind, die Nummernporta
 
 <sup>3</sup> Für die Bereitstellung von Mehrwertdiensten mittels SMS oder MMS dürfen nur Kurznummern nach den Artikeln 15*a*–15*f* AEFV verwendet werden.
 
-<sup>3bis</sup> Inhaberinnen und Inhaber von Nummern nach den Absätzen 2 und 3 gelten auch dann als Anbieterinnen von Mehrwertdiensten, wenn sie diese nicht selbst anbieten.[^36-3]
+<sup>3</sup> <sup>bis</sup> Inhaberinnen und Inhaber von Nummern nach den Absätzen 2 und 3 gelten auch dann als Anbieterinnen von Mehrwertdiensten, wenn sie diese nicht selbst anbieten.[^36-3]
 
 <sup>4</sup> Mehrwertdienste, die weder über Adressierungselemente des Nummerierungsplans E.164 noch mittels SMS oder MMS bereitgestellt werden, müssen eindeutig und ausdrücklich als Mehrwertdienste gekennzeichnet werden.
 
@@ -1199,7 +1203,7 @@ Andere Anbieterinnen können von der marktbeherrschenden Anbieterin die vom BAKO
 - b. technisch realisierbar sind; und
 - c. für die Erbringung von Diensten einen beachtlichen wirtschaftlichen Vorteil darstellen.
 
-[^55-1]: Fassung gemäss Ziff. I der V vom 14. März 2014, in Kraft seit 1. Juli 2014 (AS **201****4** 729).
+[^55-1]: Fassung gemäss Ziff. I der V vom 14. März 2014, in Kraft seit 1. Juli 2014 ([AS 2014 729](https://fedlex.data.admin.ch/eli/oc/2014/158)).
 
 #### Art. 56
 
@@ -1420,9 +1424,9 @@ Das Gesuch um Erlass einer Zugangsverfügung umfasst:
 - a. die Anträge;
 - b. die wesentlichen Tatsachen;
 - c.[^70-1] das vom BAKOM bereitgestellte Formular, wenn das Gesuch durch die marktbeherrschende Stellung der Gesuchsgegnerin begründet ist und diese die marktbeherrschende Stellung bestreitet;
-- d.[^70-2] ...
+- d.[^70-2] …
 
-<sup>2</sup> ...[^70-3]
+<sup>2</sup> …[^70-3]
 
 <sup>3</sup> Das BAKOM führt die Instruktion durch. Beurteilt es das Gesuch als unvollständig oder unklar, so räumt es der Gesuchstellerin eine kurze Nachfrist zur Verbesserung ein. Es weist sie darauf hin, dass es der ComCom beantragen wird, nicht auf das Gesuch einzutreten, falls die Mängel nicht innert dieser Frist behoben werden.
 
@@ -1678,7 +1682,7 @@ Wenn es mit vertretbarem Aufwand technisch möglich ist, müssen die Anbieterinn
 
 <sup>1</sup> Die in einem Verzeichnis aufgeführten Kundinnen und Kunden sind berechtigt, eindeutig vermerken zu lassen, dass sie keine Werbemitteilungen von Personen erhalten möchten, mit denen sie in keiner Geschäftsbeziehung stehen, und dass ihre Daten zu Zwecken der Direktwerbung nicht weitergegeben werden dürfen.[^88-1]
 
-<sup>2</sup> und <sup>3</sup> ...[^88-2]
+<sup>2</sup> und <sup>3</sup> …[^88-2]
 
 <sup>4</sup> Die Anbieterin eines Online-Verzeichnisses muss die geeigneten technischen und organisatorischen Massnahmen treffen, um zu verhindern, dass der Inhalt einer Eintragung oder eines Teils des Verzeichnisses durch Unbefugte geändert oder gelöscht wird.
 
@@ -1795,7 +1799,7 @@ Die Anbieterinnen von Fernmeldediensten können zur Unterstützung der Organe na
 
 <sup>2</sup> Soweit die Einschränkungen nach Artikel 94 den Anbieterinnen keine kommerziellen Vorteile bringen, trägt der Bund die Kosten der Vorbereitungsmassnahmen.
 
-[^95-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^95-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 (AS **2****020** 6183).
 
 ### 3. Abschnitt: Sicherheit
 
@@ -1923,7 +1927,7 @@ Die mit der Durchführung von statistischen Arbeiten betrauten Personen unterlie
 
 Die Verordnung vom 31. Oktober 2001[^106-1] über Fernmeldedienste wird aufgehoben.
 
-[^106-1]: [[AS 2001 2759](https://fedlex.data.admin.ch/eli/oc/2001/421), [2002 158](https://fedlex.data.admin.ch/eli/oc/2002/27)[271](https://fedlex.data.admin.ch/eli/oc/2002/58), [2003 544](https://fedlex.data.admin.ch/eli/oc/2003/117)[4767](https://fedlex.data.admin.ch/eli/oc/2003/693), [2005 669](https://fedlex.data.admin.ch/eli/oc/2005/70)[3555](https://fedlex.data.admin.ch/eli/oc/2005/510), [2006 3939](https://fedlex.data.admin.ch/eli/oc/2006/592)]
+[^106-1]: [[AS 2001 2759](https://fedlex.data.admin.ch/eli/oc/2001/421); [2002 158](https://fedlex.data.admin.ch/eli/oc/2002/27), [271](https://fedlex.data.admin.ch/eli/oc/2002/58); [2003 544](https://fedlex.data.admin.ch/eli/oc/2003/117), [4767](https://fedlex.data.admin.ch/eli/oc/2003/693); [2005 669](https://fedlex.data.admin.ch/eli/oc/2005/70), [3555](https://fedlex.data.admin.ch/eli/oc/2005/510); [2006 3939](https://fedlex.data.admin.ch/eli/oc/2006/592)]
 
 #### Art. 106a
 
@@ -1932,13 +1936,13 @@ Die Verordnung vom 31. Oktober 2001[^106-1] über Fernmeldedienste wird aufgehob
 Die Verordnung des UVEK vom 15. Dezember 1997[^106a-2] über Fernmeldeanschlüsse ausserhalb des Siedlungsgebiets wird aufgehoben.
 
 [^106a-1]: Eingefügt durch Ziff. I der V vom 2. Dez. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 13](https://fedlex.data.admin.ch/eli/oc/2017/4)).
-[^106a-2]: [[AS 1998 483](https://fedlex.data.admin.ch/eli/oc/1998/483_483_483), [2006 4393](https://fedlex.data.admin.ch/eli/oc/2006/665), [2009 477](https://fedlex.data.admin.ch/eli/oc/2009/84), [2013 4077](https://fedlex.data.admin.ch/eli/oc/2013/744)]
+[^106a-2]: [[AS 1998 483](https://fedlex.data.admin.ch/eli/oc/1998/483_483_483); [2006 4393](https://fedlex.data.admin.ch/eli/oc/2006/665); [2009 477](https://fedlex.data.admin.ch/eli/oc/2009/84); [2013 4077](https://fedlex.data.admin.ch/eli/oc/2013/744)]
 
 #### Art. 107
 
 **Änderung bisherigen Rechts**
 
-...[^107-1]
+…[^107-1]
 
 [^107-1]: Die Änderungen können unter [AS 2007 945](https://fedlex.data.admin.ch/eli/oc/2007/166)konsultiert werden.
 

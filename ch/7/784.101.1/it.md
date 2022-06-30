@@ -4,11 +4,11 @@ title: Ordinanza del 9 marzo 2007 sui servizi di telecomunicazione (OST)
 short: OST
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/166"
 language: it
-version: 2022-01-01
+version: 2022-07-01
 adopted: 2007-03-09
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/166/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2007-166-20220101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/166/20220701/it/xml/fedlex-data-admin-ch-eli-cc-2007-166-20220701-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20220701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20220101/it"
 
 (OST)
 
-del 9 marzo 2007 (Stato 1° gennaio 2022)
+del 9 marzo 2007 (Stato 1° luglio 2022) (Stato 1° luglio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -664,7 +664,11 @@ I fornitori del servizio telefonico pubblico devono garantire l’istradamento d
 
 #### Art. 29a
 
-[^29a-1]
+**Localizzazione delle chiamate d’emergenza: obblighi per i concessionari di telecomunicazione mobile**[^29a-1]
+
+<sup>1</sup> Per le chiamate d’emergenza verso il numero d’emergenza europeo provenienti da veicoli specificamente equipaggiati (eCall112), i concessionari di telecomunicazione mobile devono estrarre dal canale vocale la serie minima di dati (*Minimum Set of Data*, MSD) e metterla a disposizione del servizio di localizzazione delle chiamate.
+
+<sup>2</sup> In caso di chiamate d’emergenza in cui vengono utilizzate le funzioni di localizzazione del dispositivo o del sistema operativo nonché la trasmissione indipendente dal canale vocale delle informazioni relative all’ubicazione (*Advanced Mobile Location*, AML), devono trasmettere queste informazioni al servizio di localizzazione.
 
 [^29a-1]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° lug. 2022 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020); [2021 724](https://fedlex.data.admin.ch/eli/oc/2021/724)).
 
@@ -1946,7 +1950,7 @@ Le persone incaricate dei lavori statistici sono tenute a mantenere il segreto s
 
 L’ordinanza del 31 ottobre 2001[^106-1] sui servizi di telecomunicazione è abrogata.
 
-[^106-1]: [[RU 2001 2759](https://fedlex.data.admin.ch/eli/oc/2001/421)[3170](https://fedlex.data.admin.ch/eli/oc/2001/479), [2002 158](https://fedlex.data.admin.ch/eli/oc/2002/27)[271](https://fedlex.data.admin.ch/eli/oc/2002/58), [2003 544](https://fedlex.data.admin.ch/eli/oc/2003/117)[4767](https://fedlex.data.admin.ch/eli/oc/2003/693), [2005 669](https://fedlex.data.admin.ch/eli/oc/2005/70)[3555](https://fedlex.data.admin.ch/eli/oc/2005/510), [2006 3939](https://fedlex.data.admin.ch/eli/oc/2006/592)]
+[^106-1]: [[RU 2001 2759](https://fedlex.data.admin.ch/eli/oc/2001/421), [3170](https://fedlex.data.admin.ch/eli/oc/2001/479); [2002 158](https://fedlex.data.admin.ch/eli/oc/2002/27), [271](https://fedlex.data.admin.ch/eli/oc/2002/58); [2003 544](https://fedlex.data.admin.ch/eli/oc/2003/117), [4767](https://fedlex.data.admin.ch/eli/oc/2003/693); [2005 669](https://fedlex.data.admin.ch/eli/oc/2005/70), [3555](https://fedlex.data.admin.ch/eli/oc/2005/510); [2006 3939](https://fedlex.data.admin.ch/eli/oc/2006/592)]
 
 #### Art. 106a
 

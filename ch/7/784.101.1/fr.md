@@ -4,11 +4,11 @@ title: Ordonnance du 9 mars 2007 sur les services de télécommunication (OST)
 short: OST
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/166"
 language: fr
-version: 2022-01-01
+version: 2022-07-01
 adopted: 2007-03-09
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/166/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-166-20220101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/166/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-2007-166-20220701-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20220701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20220101/fr"
 
 (OST)
 
-du 9 mars 2007 (Etat le 1<sup>er</sup> janvier 2022)
+du 9 mars 2007 (Etat le 1<sup>er</sup> juillet 2022)
 
 Le Conseil fédéral suisse,
 
@@ -645,7 +645,11 @@ Les fournisseurs du service téléphonique public doivent garantir l’acheminem
 
 #### Art. 29a
 
-[^29a-1]
+**Localisation des appels d’urgence: obligations à la charge des concessionnaires de radiocommunication mobile**[^29a-1]
+
+<sup>1</sup> En cas d’appels d’urgence au numéro d’urgence européen provenant de véhicules spécifiquement équipés (eCall112), les concessionnaires de radiocommunication mobile doivent extraire l’ensemble minimum de données (*Minimum Set of Data*, MSD) du canal vocal et le transmettre au service de localisation.
+
+<sup>2</sup> En cas d’appels d’urgence au cours desquels la fonctionnalité de localisation de l’appareil et du système d’exploitation ainsi que la transmission indépendante du canal vocal des informations de localisation sont utilisées (*Advanced Mobile Location*, AML), ils doivent transmettre ces informations au service de localisation.
 
 [^29a-1]: Introduit par le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020); [2021 724](https://fedlex.data.admin.ch/eli/oc/2021/724)).
 
@@ -1927,7 +1931,7 @@ Les personnes chargées des travaux statistiques sont tenues de garder le secret
 
 L’ordonnance du 31 octobre 2001 sur les services de télécommunication[^106-1] est abrogée.
 
-[^106-1]: [[RO 2001 2759](https://fedlex.data.admin.ch/eli/oc/2001/421), [2002 158](https://fedlex.data.admin.ch/eli/oc/2002/27)[271](https://fedlex.data.admin.ch/eli/oc/2002/58), [2003 544](https://fedlex.data.admin.ch/eli/oc/2003/117)[4767](https://fedlex.data.admin.ch/eli/oc/2003/693), [2005 669](https://fedlex.data.admin.ch/eli/oc/2005/70)[3555](https://fedlex.data.admin.ch/eli/oc/2005/510), [2006 3939](https://fedlex.data.admin.ch/eli/oc/2006/592)]
+[^106-1]: [[RO 2001 2759](https://fedlex.data.admin.ch/eli/oc/2001/421); [2002 158](https://fedlex.data.admin.ch/eli/oc/2002/27), [271](https://fedlex.data.admin.ch/eli/oc/2002/58); [2003 544](https://fedlex.data.admin.ch/eli/oc/2003/117), [4767](https://fedlex.data.admin.ch/eli/oc/2003/693); [2005 669](https://fedlex.data.admin.ch/eli/oc/2005/70), [3555](https://fedlex.data.admin.ch/eli/oc/2005/510); [2006 3939](https://fedlex.data.admin.ch/eli/oc/2006/592)]
 
 #### Art. 106a
 
@@ -1936,7 +1940,7 @@ L’ordonnance du 31 octobre 2001 sur les services de télécommunication[^106-1
 L’ordonnance du DETEC du 15 décembre 1997 sur les raccordements de télécommunication situés hors des zones habitées[^106a-2] est abrogée.
 
 [^106a-1]: Introduit par le ch. I de l’O du 2 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 13](https://fedlex.data.admin.ch/eli/oc/2017/4)).
-[^106a-2]: [[RO 1998 483](https://fedlex.data.admin.ch/eli/oc/1998/483_483_483), [2006 4393](https://fedlex.data.admin.ch/eli/oc/2006/665), [2009 477](https://fedlex.data.admin.ch/eli/oc/2009/84), [2013 4077](https://fedlex.data.admin.ch/eli/oc/2013/744)]
+[^106a-2]: [[RO 1998 483](https://fedlex.data.admin.ch/eli/oc/1998/483_483_483); [2006 4393](https://fedlex.data.admin.ch/eli/oc/2006/665); [2009 477](https://fedlex.data.admin.ch/eli/oc/2009/84); [2013 4077](https://fedlex.data.admin.ch/eli/oc/2013/744)]
 
 #### Art. 107
 

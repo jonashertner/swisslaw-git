@@ -4,11 +4,11 @@ title: Ordinance of 9 March 2007 on Telecommunications Services (OTS)
 short: OTS
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/166"
 language: en
-version: 2022-01-01
+version: 2022-07-01
 adopted: 2007-03-09
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/166/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2007-166-20220101-en-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20220101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/166/20220701/en/xml/fedlex-data-admin-ch-eli-cc-2007-166-20220701-en-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20220701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (OTS)
 
-of 9 March 2007 (Status as of 1 January 2022)
+of 9 March 2007 (Status as of 1 July 2022)
 
 The Swiss Federal Council,
 
@@ -650,9 +650,13 @@ Providers of the public telephony service must assure the routing of emergency c
 
 #### Art. 29a
 
-[^29a-1]
+**Location of emergency calls: Obligations of mobile telephony licensees**[^29a-1]
 
-[^29a-1]: Inserted by No I of the O of 18 Nov. 2020, in force from 1 July 2022 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020); [2021 724](https://fedlex.data.admin.ch/eli/oc/2021/724)).
+<sup>1</sup> In the case of emergency calls to the European emergency number from suitably equipped vehicles (eCall112), mobile telephony licensees must extract the minimum set of data (MSD) from the voice channel and make it available for the location service.
+
+<sup>2</sup> In the case of emergency calls using the device and operating system-specific location function and voice channel-independent transmission of location information (Advanced Mobile Location, AML), they must make the location information available for the location service.
+
+[^29a-1]: Inserted by No I of the O of 18 Nov. 2020, in force since 1 July 2022 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020); [2021 724](https://fedlex.data.admin.ch/eli/oc/2021/724)).
 
 #### Art. 29b
 
