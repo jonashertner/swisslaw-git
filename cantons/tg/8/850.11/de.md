@@ -1,27 +1,27 @@
 ---
 canton: TG
 number: "850.11"
-title: Verordnung des Regierungsrates zum Gesetz über die öffentliche Sozialhilfe
-short: "Sozialhilfeverordnung, SHV"
+title: Sozialhilfeverordnung
+short: SHV
 language: de
-version: 2020-01-01
-valid_until: 2022-06-30
-version_adopted: 2017-12-12
+version: 2022-07-01
+valid_until: 2025-12-31
+version_adopted: 2022-06-28
 adopted: 1985-10-15
 in_force: 1986-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/850.11"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2295/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2798/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung des Regierungsrates zum Gesetz über die öffentliche Sozialhilfe
+# Sozialhilfeverordnung
 
 SHV
 
-(Sozialhilfeverordnung, SHV)
+(SHV)
 
-vom 15.10.1985 (Stand 01.01.2020)
+vom 15.10.1985 (Stand 01.07.2022)
 
 ## 1. Massnahmen
 
@@ -33,12 +33,12 @@ vom 15.10.1985 (Stand 01.01.2020)
 
 <sup>1</sup> Die Gemeinde berät und betreut den Hilfsbedürftigen insbesondere durch:
 
-- 1\. Spezialberatungen von Familien und Alleinstehenden;
-- 2\. Vermittlung von Familien-, Heim- und Klinikplätzen;
-- 3\. Vermittlung von Lehr- und Arbeitsstellen in Zusammenarbeit mit Berufsberatung und Arbeitsamt in Unterstützungsfällen;
-- 4\. Durchführung von Schuldensanierungen und freiwilligen Einkommens- und Vermögensverwaltungen;
-- 5\. Besorgung von Unterkunft;
-- 6\. Geltendmachung finanzieller Ansprüche.
+- 1\. Spezialberatungen von Familien und Alleinstehenden
+- 2\. Vermittlung von Familien-, Heim- und Klinikplätzen
+- 3\. Vermittlung von Lehr- und Arbeitsstellen in Zusammenarbeit mit Berufsberatung und Arbeitsamt in Unterstützungsfällen
+- 4\. Durchführung von Schuldensanierungen und freiwilligen Einkommens- und Vermögensverwaltungen
+- 5\. Besorgung von Unterkunft
+- 6\. Geltendmachung finanzieller Ansprüche
 
 <sup>2</sup> Ist die Gemeinde an einem gemeinsamen Sozialdienst beteiligt oder arbeitet sie mit anerkannten sozialen Hilfswerken oder weiteren privaten Fachstellen zusammen, so kann sie den Hilfsbedürftigen dorthin verweisen.
 
@@ -50,8 +50,8 @@ vom 15.10.1985 (Stand 01.01.2020)
 
 <sup>1</sup> Das Departement für Finanzen und Soziales anerkennt ein soziales Hilfswerk, wenn und solange
 
-- 1\. öffentliches Interesse und Bedürfnis an ihm bestehen und es allgemein zugänglich ist;
-- 2\. die Trägerschaft eine Körperschaft oder Anstalt des öffentlichen oder privaten Rechtes mit klarer gemeinnütziger Zweckbestimmung ist;
+- 1\. öffentliches Interesse und Bedürfnis an ihm bestehen und es allgemein zugänglich ist,
+- 2\. die Trägerschaft eine Körperschaft oder Anstalt des öffentlichen oder privaten Rechtes mit klarer gemeinnütziger Zweckbestimmung ist,
 - 3\. es über fachlich geeignetes Personal verfügt.
 
 <sup>2</sup> Die Anerkennung erfolgt auf Gesuch des Hilfswerkes.
@@ -86,7 +86,7 @@ vom 15.10.1985 (Stand 01.01.2020)
 
 <sup>1</sup> Situationsbedingte Leistungen stehen in direktem Zusammenhang zu den besonderen gesundheitlichen, wirtschaftlichen oder familiären Verhältnissen der unterstützungsbedürftigen Person. Zahnarztkosten, welche nicht der Erhaltung der Kaufähigkeit dienen oder schmerzstillend sind, werden nicht übernommen.
 
-<sup>2</sup> Situationsbedingte Leistungen werden soweit ausgerichtet, als sie ausgewiesen und zwingend notwendig sind. Für die Mehrkosten auswärts eingenommener Hauptmahlzeiten gilt ein Ansatz zwischen sechs und zehn Franken.
+<sup>2</sup> Situationsbedingte Leistungen werden soweit ausgerichtet, als sie ausgewiesen und zwingend notwendig sind. Für die Mehrkosten auswärts eingenommener Hauptmahlzeiten gilt ein Ansatz zwischen Fr. 6 und Fr. 10.
 
 #### § 2d
 
@@ -148,7 +148,7 @@ vom 15.10.1985 (Stand 01.01.2020)
 
 <sup>3</sup> Bei wiederholter Verletzung der Mitwirkungspflicht, des Subsidiaritätsprinzips (zum Beispiel Arbeitsverweigerung) oder bei einer absichtlich herbeigeführter Notlage, um wirtschaftliche Sozialhilfe zu beanspruchen, kann nach schriftlicher Verwarnung die Unterstützung eingestellt und nur noch Nothilfe ausgerichtet werden.
 
-<sup>4</sup> Kürzung oder Einstellung der Sozialhilfe werden sofort wirksam. Einem allfälligen Rekurs wird in der Regel die aufschiebende Wirkung entzogen. Der Entzug ist gemäss § 48 Abs. 1 des Gesetzes über die Verwaltungsrechtspflege[^2h-1] zu begründen.
+<sup>4</sup> Kürzung oder Einstellung der Sozialhilfe werden sofort wirksam. Einem allfälligen Rekurs wird in der Regel die aufschiebende Wirkung entzogen. Der Entzug ist gemäss § 48 Abs. 1 des Gesetzes über die Verwaltungsrechtspflege (VRG)[^2h-1] zu begründen.
 
 [^2h-1]: RB [170.1](https://www.rechtsbuch.tg.ch/data/170.1/de)
 
@@ -174,11 +174,11 @@ vom 15.10.1985 (Stand 01.01.2020)
 
 <sup>1</sup> Unter Vorbehalt abweichender Bestimmungen des Bundesrechts sind folgende Personen von der ordentlichen Sozialhilfe ausgeschlossen:
 
-- 1\. Touristen mit Wohnsitz oder Aufenthalt im Ausland;
-- 2\. Personen mit Kurzaufenthaltsbewilligung;
-- 3\. Arbeitssuchende nach Art. 2 Abs. 1 Anhang I zum Abkommen vom 21. Juni 1999 zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft und ihren Mitgliedsstaaten andererseits über die Freizügigkeit (FZA)[^2l-1] und Art. 2 Abs. 1 Anhang K Anlage 1 zum Übereinkommen vom 4. Januar 1960 zur Errichtung der Europäischen Freihandelsassoziation (EFTA-Übereinkommen)[^2l-2].
+- 1\. Touristen mit Wohnsitz oder Aufenthalt im Ausland
+- 2\. Personen mit Kurzaufenthaltsbewilligung
+- 3\. Arbeitssuchende nach Art. 2 Abs. 1 Anhang I zum Abkommen vom 21. Juni 1999 zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft und ihren Mitgliedsstaaten andererseits über die Freizügigkeit (FZA)[^2l-1] und Art. 2 Abs. 1 Anhang K Anlage 1 zum Übereinkommen vom 4. Januar 1960 zur Errichtung der Europäischen Freihandelsassoziation (EFTA-Übereinkommen)[^2l-2]
 
-<sup>2</sup> Die Fürsorgebehörde leistet Nothilfe im Sinne von Art. 12 BV[^2l-3]. Sofern die Rückreise aus medizinischer Sicht möglich ist, beschränkt sich die Nothilfe auf die Unterstützung bei der Rückkehr in den Wohnsitz- beziehungsweise Aufenthaltsstaat oder den Heimatstaat.
+<sup>2</sup> Die Fürsorgebehörde leistet Nothilfe im Sinne von Art. 12 der Bundesverfassung (BV)[^2l-3]. Sofern die Rückreise aus medizinischer Sicht möglich ist, beschränkt sich die Nothilfe auf die Unterstützung bei der Rückkehr in den Wohnsitz- beziehungsweise Aufenthaltsstaat oder den Heimatstaat.
 
 <sup>3</sup> Sie meldet Unterstützungsfälle nach Abs. 1 Ziff. 2 und Ziff. 3 der zuständigen Ausländerbehörde.
 
@@ -190,7 +190,7 @@ vom 15.10.1985 (Stand 01.01.2020)
 
 **Arten der Unterstützung**
 
-<sup>1</sup> Der Hilfsbedürftige kann mit Bargeld, Gutscheinen, Naturalien oder durch Bezahlung von Rechnungen unterstützt werden.
+<sup>1</sup> Der Hilfsbedürftige kann mit Geld- und Sachleistungen, insbesondere Gutscheinen und Naturalien, oder durch eine vorgängige Kostengutsprache unterstützt werden.
 
 <sup>2</sup> Bei vorübergehender Notlage kann ihm ein Darlehen gewährt werden.
 
@@ -198,9 +198,7 @@ vom 15.10.1985 (Stand 01.01.2020)
 
 #### § 4
 
-**Kostengutsprache**
-
-<sup>1</sup> Bedarf der Hilfsbedürftige einer Behandlung durch einen Arzt oder Zahnarzt, benötigt er Medikamente oder ist ein Eintritt in ein Spital, eine Klinik oder ein Heim erforderlich, so kann die Unterstützung durch eine Kostengutsprache geleistet werden.
+**…**
 
 #### § 5
 
@@ -222,15 +220,16 @@ vom 15.10.1985 (Stand 01.01.2020)
 
 **Kürzung von Leistungen**
 
-<sup>1</sup> Die Leistungen sind zu kürzen, wenn jemand durch eigenes Verschulden in der Anspruchsberechtigung für Taggelder gemäss Arbeitslosenversicherungsgesetz[^6a-1] eingestellt worden ist. Der Entscheid einer Arbeitslosenkasse oder der kantonalen Amtsstelle über die Einstellung gilt als Verwarnung gemäss § 25 Abs. 3 des Sozialhilfegesetzes.
+<sup>1</sup> Die Leistungen sind zu kürzen, wenn jemand durch eigenes Verschulden in der Anspruchsberechtigung für Taggelder gemäss Arbeitslosenversicherungsgesetz[^6a-1] eingestellt worden ist. Der Entscheid einer Arbeitslosenkasse oder der kantonalen Amtsstelle über die Einstellung gilt als Verwarnung gemäss § 25 Abs. 3 des Sozialhilfegesetzes (SHG)[^6a-2].
 
 [^6a-1]: SR [837.0](https://db.clex.ch/link/Bund/837.0/de)
+[^6a-2]: RB [850.1](https://www.rechtsbuch.tg.ch/data/850.1/de)
 
 #### § 6b
 
 **Beschäftigungsprogramme**
 
-<sup>1</sup> Erhalten Teilnehmer von Beschäftigungsprogrammen als Gegenleistung wirtschaftliche Sozialhilfe gemäss ihrem Unterstützungsbedarf, sind sowohl die Programmkosten wie auch die Unterstützungsleistungen im Sinne des Bundesgesetzes über die Zuständigkeit für die Unterstützung Bedürftiger (ZUG) weiterverrechenbar. Auf Beiträgen, die als Gegenleistung ausgerichtet werden, dürfen keine Sozialversicherungsbeiträge abgerechnet werden.
+<sup>1</sup> Programmkosten und Unterstützungsleistungen für Teilnehmende von Beschäftigungsprogrammen gelten als Unterstützungsbeiträge im Sinne von § 19 Abs. 2 SHG. Auf Unterstützungsleistungen werden keine Sozialversicherungsbeiträge erhoben.
 
 <sup>2</sup> Erhalten Teilnehmer von Beschäftigungsprogrammen einen Lohn, wofür Sozialversicherungsbeiträge entrichtet werden, muss dieser der effektiven Arbeitsleistung entsprechen. Der Lohn ist als Erwerbseinkommen dem Klientenkonto gut zu schreiben.
 
@@ -262,11 +261,62 @@ vom 15.10.1985 (Stand 01.01.2020)
 
 **…**
 
-### 1.2.2. Inkassohilfe und Bevorschussung
+### 1.2.2.
 
 #### § 14–19
 
 **…**
+
+### 1.2.3. Observationen
+
+#### § 19a
+
+**Observationsumfang**
+
+<sup>1</sup> Abklärungen zur Feststellung der Bedürftigkeit oder dem Ausmass der Bedürftigkeit betreffen insbesondere:
+
+- 1\. Einkommens- und Vermögensverhältnisse
+- 2\. Erwerbs- und Arbeitsfähigkeit
+- 3\. laufende und andere Ausgaben
+- 4\. Wohnsitz
+- 5\. Zivilstand und Haushaltszusammensetzung
+
+#### § 19b
+
+**Aktenführung und Einsichtsrecht bei Observationen**
+
+<sup>1</sup> Die Fürsorgebehörde führt ein vollständiges, chronologisch geordnetes Aktendossier.
+
+<sup>2</sup> Die Akten müssen sicher und durch angemessene bauliche, technische und organisatorische Massnahmen vor unberechtigten Zugriffen, vor unprotokollierten Veränderungen und vor Verlust geschützt werden.
+
+<sup>3</sup> Der observierten Person ist Einsicht in die Akten zu gewähren. Sie hat das Recht auf kostenlose Kopien der Akten, worauf sie im Falle einer Einsichtnahme hinzuweisen ist.
+
+#### § 19c
+
+**Bewilligungspflicht für Observationstätigkeit**
+
+<sup>1</sup> Wer Observationen durchführen will, benötigt eine Bewilligung des Departementes für Finanzen und Soziales.
+
+<sup>2</sup> Die Bewilligung wird auf schriftliches Gesuch hin erteilt, wenn die gesuchstellende Person
+
+- 1\. eine polizeiliche oder eine gleichwertige Observationsausbildung oder -weiterbildung erfolgreich absolviert hat,
+- 2\. über die erforderlichen Rechtskenntnisse verfügt, insbesondere im Sozialhilferecht, Datenschutzrecht und Verfahrensrecht, und
+- 3\. vertrauenswürdig ist.
+
+<sup>3</sup> Die gesuchstellende Person reicht mit dem Gesuch namentlich folgende Unterlagen ein:
+
+- 1\. Lebenslauf mit Angaben über bisherige berufliche Tätigkeiten
+- 2\. Privatauszug und Sonderprivatauszug aus dem Strafregister
+- 3\. Betreibungsregisterauszug
+- 4\. Erklärung, dass gegen sie kein Strafverfahren und kein Zivilverfahren wegen Persönlichkeitsverletzung hängig ist oder in den letzten zehn Jahren abgeschlossen wurde
+
+<sup>4</sup> Sie hat wesentliche Änderungen der Bewilligungsinstanz, die für die Beurteilung der Bewilligungserteilung erforderlich sind, umgehend mitzuteilen.
+
+<sup>5</sup> Die Bewilligung wird in der Regel auf zehn Jahre befristet erteilt.
+
+<sup>6</sup> Sie wird entzogen, wenn die Voraussetzungen für deren Erteilung nicht mehr vorliegen, Auflagen nicht eingehalten werden oder die Pflicht zur Meldung wesentlicher Änderungen verletzt wird.
+
+<sup>7</sup> Sie darf nicht als Berufsbezeichnung genannt werden und verleiht keinen geschützten Berufstitel. Sie darf nicht zu Werbezwecken verwendet werden.
 
 ## 2. Finanzierung
 
@@ -282,7 +332,7 @@ vom 15.10.1985 (Stand 01.01.2020)
 
 **Rechtspflege nach Bundesrecht**
 
-<sup>1</sup> Gesuche betreffend Einsprache, Abweisung, Beschwerde oder Richtigstellung gemäss dem Bundesgesetz über die Zuständigkeit für die Unterstützung Bedürftiger[^21-1] sind dem Kantonalen Fürsorgeamt innert 10 Tagen seit Empfang der Anzeige oder der Rechnung einzureichen.
+<sup>1</sup> Gesuche betreffend Einsprache, Abweisung, Beschwerde oder Richtigstellung gemäss dem Bundesgesetz über die Zuständigkeit für die Unterstützung Bedürftiger (ZUG)[^21-1] sind dem Kantonalen Fürsorgeamt innert 10 Tagen seit Empfang der Anzeige oder der Rechnung einzureichen.
 
 <sup>2</sup> Das Kantonale Fürsorgeamt kann dem Gesetz nicht entsprechende Gesuche unter Fristansetzung zur Verbesserung zurückweisen.
 
@@ -296,9 +346,9 @@ vom 15.10.1985 (Stand 01.01.2020)
 
 #### § 24a
 
-**Lastenausgleich, Verfahren**
+**Lastenausgleich**
 
-<sup>1</sup> Zur Berechnung des Lastenausgleichs gemäss § 20a des Gesetzes bestimmt das kantonale Fürsorgeamt den Zeitpunkt für die Meldung der jährlichen, anrechenbaren Ausgaben für anerkannte Flüchtlinge während fünf Jahren nach Erlangung der Niederlassungsbewilligung.
+<sup>1</sup> Zur Berechnung des Lastenausgleichs gemäss § 20a SHG bestimmt das kantonale Fürsorgeamt den Zeitpunkt für die Meldung der jährlichen, anrechenbaren Ausgaben für anerkannte Flüchtlinge mit Asylgewährung während fünf Jahren nach dem Ende der Kostenerstattung des Bundes mittels Globalpauschalen.
 
 <sup>2</sup> Die Auszahlung erfolgt nach Meldung der notwendigen Angaben durch die jeweilige Gemeinde und nachdem diese auf ihre Richtigkeit überprüft worden sind. Für Aufwendungen, die nicht fristgerecht gemeldet werden, entfällt der Anspruch auf Ausgleich.
 
@@ -334,9 +384,9 @@ vom 15.10.1985 (Stand 01.01.2020)
 
 <sup>1</sup> Verwandtenunterstützungen und Rückerstattungen Einzelner sind von der kostenpflichtigen Gemeinde geltend zu machen.
 
-<sup>2</sup> Für Alimentenvorschüsse darf nur von Alimentenverpflichteten Rückerstattung verlangt werden. Ausgenommen ist der Tatbestand gemäss § 19 Abs. 3 des Gesetzes.
+<sup>2</sup> Für Alimentenvorschüsse darf nur von Alimentenverpflichteten Rückerstattung verlangt werden. Ausgenommen ist der Tatbestand gemäss § 19 Abs. 3 SHG.
 
-<sup>3</sup> Für Fürsorgeleistungen, die vorschussweise für Versicherungsleistungen ausgerichtet worden sind, ist die Zumutbarkeit zur Rückerstattung im Sinne von § 19 Abs. 2 Sozialhilfegesetz in jedem Fall gegeben. Bevorschusst die Fürsorge Versicherungsleistungen oder vermögensrechtliche Forderungen gegenüber Dritten, so gehen die betreffenden Ansprüche der Sozialhilfebedürftigen im Umfang der geleisteten Zahlungen mit allen Rechten auf die Fürsorge über. Diese kann verlangen, dass ihr diese Leistungen direkt ausbezahlt werden.
+<sup>3</sup> Für Fürsorgeleistungen, die vorschussweise für Versicherungsleistungen ausgerichtet worden sind, ist die Zumutbarkeit zur Rückerstattung im Sinne von § 19 Abs. 2 SHG in jedem Fall gegeben. Bevorschusst die Fürsorge Versicherungsleistungen oder vermögensrechtliche Forderungen gegenüber Dritten, so gehen die betreffenden Ansprüche der Sozialhilfebedürftigen im Umfang der geleisteten Zahlungen mit allen Rechten auf die Fürsorge über. Diese kann verlangen, dass ihr diese Leistungen direkt ausbezahlt werden.
 
 #### § 28
 
@@ -344,8 +394,8 @@ vom 15.10.1985 (Stand 01.01.2020)
 
 <sup>1</sup> Die Verjährung wird unterbrochen und beginnt neu zu laufen durch:
 
-- 1\. Anerkennung der Forderung des zur Rückerstattung Verpflichteten;
-- 2\. Schuldbetreibung, Klage oder Einrede vor Gericht sowie Eingabe im Konkurs und Ladung zu einem amtlichen Sühneversuch.
+- 1\. Anerkennung der Forderung des zur Rückerstattung Verpflichteten
+- 2\. Schuldbetreibung, Schlichtungsgesuch, Klage oder Einrede vor Gericht sowie Eingabe im Konkurs
 
 ### 2.4. Beiträge des Kantons
 
@@ -353,10 +403,10 @@ vom 15.10.1985 (Stand 01.01.2020)
 
 **Stationäre Aufenthalte**
 
-<sup>1</sup> Der Kanton gewährt Beiträge im Sinne von § 21a Abs. 1 Ziff. 1 des Gesetzes, sofern
+<sup>1</sup> Der Kanton gewährt Beiträge im Sinne von § 21a Abs. 1 Ziff. 1 SHG, sofern
 
-- 1\. die Plazierung fachlich notwendig und durch einen Fachbericht ausgewiesen ist;
-- 2\. durch die Plazierung in der gewählten Institution das vorgesehene Ziel erreicht werden kann;
+- 1\. die Platzierung fachlich notwendig und durch einen Fachbericht ausgewiesen ist,
+- 2\. durch die Platzierung in der gewählten Institution das vorgesehene Ziel erreicht werden kann,
 - 3\. die Kosten in einem angemessenen Verhältnis zum vorhandenen Angebot stehen.
 
 #### § 28b
@@ -365,16 +415,16 @@ vom 15.10.1985 (Stand 01.01.2020)
 
 <sup>1</sup> Als Aufenthaltskosten werden anerkannt:
 
-- 1\. die Taxe pro Tag;
-- 2\. die Aufenthaltskosten gemäss Interkantonaler Vereinbarung für soziale Einrichtungen (IVSE)[^28b-1] beziehungsweise Anhang zu den IVSE-Richtlinien zur Leistungsabgeltung und zur Kostenrechnung;
-- 3\. im Einzelfall angeordnete Therapien;
-- 4\. vom Heim durchgeführte Lager- und Ferienaktivitäten.
+- 1\. die Taxe pro Tag
+- 2\. die Aufenthaltskosten gemäss Interkantonaler Vereinbarung für soziale Einrichtungen (IVSE)[^28b-1] beziehungsweise Anhang zu den IVSE-Richtlinien zur Leistungsabgeltung und zur Kostenrechnung
+- 3\. im Einzelfall angeordnete Therapien
+- 4\. vom Heim durchgeführte Lager- und Ferienaktivitäten
 
 <sup>2</sup> Nicht anerkannt als Aufenthaltskosten werden:
 
-- 1\. das Taschengeld;
-- 2\. die Kleideranschaffungen;
-- 3\. weitere individuelle Leistungen.
+- 1\. das Taschengeld
+- 2\. die Kleideranschaffungen
+- 3\. weitere individuelle Leistungen
 
 [^28b-1]: RB [850.6](https://www.rechtsbuch.tg.ch/data/850.6/de)
 
@@ -384,13 +434,13 @@ vom 15.10.1985 (Stand 01.01.2020)
 
 <sup>1</sup> Als eigene Mittel und Leistungen Dritter werden insbesondere angerechnet:
 
-- 1\. eigenes Einkommen;
-- 2\. eigenes Vermögen;
-- 3\. Unterhaltsbeiträge;
-- 4\. Unterstützungsbeiträge;
-- 5\. Versicherungsleistungen;
-- 6\. Stipendien;
-- 7\. Zuwendungen.
+- 1\. eigenes Einkommen
+- 2\. eigenes Vermögen
+- 3\. Unterhaltsbeiträge
+- 4\. Unterstützungsbeiträge
+- 5\. Versicherungsleistungen
+- 6\. Stipendien
+- 7\. Zuwendungen
 
 #### § 28d
 
@@ -410,7 +460,7 @@ vom 15.10.1985 (Stand 01.01.2020)
 
 **Kantonsbeiträge**
 
-<sup>1</sup> Macht die Fürsorgebehörde für die Heimplazierung Kantonsbeiträge geltend, hat sie vor dem Beschluss über die Heimplazierung oder die Zusprechung einer Kostengutsprache beim kantonalen Fürsorgeamt ein Gesuch zur Genehmigung einzureichen.
+<sup>1</sup> Macht die Fürsorgebehörde für die Heimplatzierung Kantonsbeiträge geltend, hat sie vor dem Beschluss über die Heimplatzierung oder die Zusprechung einer Kostengutsprache beim kantonalen Fürsorgeamt ein Gesuch zur Genehmigung einzureichen.
 
 <sup>2</sup> Dem Gesuch sind die erforderlichen Unterlagen wie Fachbericht, Beschreibung der Institution, Tageskosten, voraussichtliche Aufenthaltsdauer und der Beschluss der Fürsorgebehörde über die anrechenbaren Unterhalts- und Unterstützungsbeiträge sowie die eigenen Mittel und Leistungen Dritter beizulegen.
 
@@ -432,13 +482,11 @@ vom 15.10.1985 (Stand 01.01.2020)
 
 <sup>1</sup> Bei nicht versicherten Ausländern ohne festen Wohnsitz in der Schweiz werden jene Kosten anerkannt, die entstehen, wenn die krankheits- oder unfallbedingte Behandlung unaufschiebbar und die Übernahme der Kosten im Gesetz vorgesehen sind.
 
-<sup>2</sup> Die Taxen werden im Rahmen des Bundesgesetzes über die Zuständigkeit für die Unterstützung Bedürftiger[^28h-1] anerkannt.
+<sup>2</sup> Die Taxen werden im Rahmen des ZUG anerkannt.
 
 <sup>3</sup> Die Fürsorgebehörde hat das Gesuch um Kantonsbeiträge so rasch wie möglich, spätestens aber innert 10 Tagen nach Kenntnis der Kostenpflicht, dem Kantonalen Fürsorgeamt zur Genehmigung einzureichen.
 
 <sup>4</sup> Ist die Kostenpflicht ungewiss, hat die Fürsorgebehörde vorsorglich ein Gesuch zu stellen.
-
-[^28h-1]: SR [851.1](https://db.clex.ch/link/Bund/851.1/de)
 
 #### § 29
 
@@ -446,12 +494,12 @@ vom 15.10.1985 (Stand 01.01.2020)
 
 <sup>1</sup> Der Kanton kann Beiträge an Erwerb, Bau und Betrieb von Einrichtungen für Hilfsbedürftige gewähren, wenn
 
-- 1\. öffentliches Interesse und Bedürfnis für Betrieb und Weiterbestand bestehen;
-- 2\. die Trägerschaft eine Körperschaft oder Anstalt des öffentlichen oder des privaten Rechtes mit klarer gemeinnütziger Zweckbestimmung ist;
-- 3\. die Trägerschaft Gewähr für fachkundige Leitung des Betriebes bietet;
-- 4\. genügend geeignetes Personal vorhanden und eine fachgerechte Betreuung gewährleistet ist;
-- 5\. die Organisation des Betriebes sowie Betreuung und Unterbringung der Hilfsbedürftigen dem vorgesehenen Zweck der Einrichtung entsprechen und insbesondere die notwendigen Anlagen und Einrichtungen vorhanden sind;
-- 6\. die Trägerschaft angemessene Eigenleistungen erbracht sowie alle zumutbaren Finanzquellen ausgeschöpft hat, die Finanzierungsmittel aber dennoch nicht ausreichen;
+- 1\. öffentliches Interesse und Bedürfnis für Betrieb und Weiterbestand bestehen,
+- 2\. die Trägerschaft eine Körperschaft oder Anstalt des öffentlichen oder des privaten Rechtes mit klarer gemeinnütziger Zweckbestimmung ist,
+- 3\. die Trägerschaft Gewähr für fachkundige Leitung des Betriebes bietet,
+- 4\. genügend geeignetes Personal vorhanden und eine fachgerechte Betreuung gewährleistet ist,
+- 5\. die Organisation des Betriebes sowie Betreuung und Unterbringung der Hilfsbedürftigen dem vorgesehenen Zweck der Einrichtung entsprechen und insbesondere die notwendigen Anlagen und Einrichtungen vorhanden sind,
+- 6\. die Trägerschaft angemessene Eigenleistungen erbracht sowie alle zumutbaren Finanzquellen ausgeschöpft hat, die Finanzierungsmittel aber dennoch nicht ausreichen,
 - 7\. mit der Beitragsgewährung die finanzielle Grundlage der Einrichtung langfristig gesichert erscheint.
 
 #### § 29a
@@ -462,10 +510,10 @@ vom 15.10.1985 (Stand 01.01.2020)
 
 <sup>2</sup> Damit der Kanton mit einer Einrichtung für erwachsene Menschen mit Behinderung einen Leistungsvertrag abschliesst, müssen folgende Voraussetzungen erfüllt sein:
 
-- 1\. Die Einrichtung verfügt über eine Betriebsbewilligung des Kantons;
-- 2\. Angebot und Konzept der Einrichtung entsprechen einem ausgewiesenen qualitativen und quantitativen Bedarf des Kantons und stimmen mit seiner Angebotsplanung überein;
-- 3\. die Einrichtung erfüllt die Voraussetzungen der Gemeinnützigkeit und bietet Gewähr für die zweckentsprechende und effiziente Verwendung der finanziellen Beiträge;
-- 4\. die Einrichtung führt eine Kostenrechnung gemäss den Vorgaben des kantonalen Fürsorgeamtes.
+- 1\. Die Einrichtung verfügt über eine Betriebsbewilligung des Kantons
+- 2\. Angebot und Konzept der Einrichtung entsprechen einem ausgewiesenen qualitativen und quantitativen Bedarf des Kantons und stimmen mit seiner Angebotsplanung überein
+- 3\. die Einrichtung erfüllt die Voraussetzungen der Gemeinnützigkeit und bietet Gewähr für die zweckentsprechende und effiziente Verwendung der finanziellen Beiträge
+- 4\. die Einrichtung führt eine Kostenrechnung gemäss den Vorgaben des kantonalen Fürsorgeamtes
 
 #### § 29b
 
@@ -515,10 +563,10 @@ vom 15.10.1985 (Stand 01.01.2020)
 
 <sup>2</sup> Es werden folgende Bemessungskategorien unterschieden:
 
-- 1\. Wohnen und Tagesstruktur ohne Lohn für Menschen mit geistiger oder körperlicher Behinderung;
-- 2\. Wohnen und Tagesstruktur ohne Lohn für Menschen mit psychischer oder Suchtbehinderung;
+- 1\. Wohnen und Tagesstruktur ohne Lohn für Menschen mit geistiger oder körperlicher Behinderung
+- 2\. Wohnen und Tagesstruktur ohne Lohn für Menschen mit psychischer oder Suchtbehinderung
 - 3\. Tagesstruktur mit Lohn für Menschen mit geistiger oder körperlicher Behinderung sowie
-- 4\. Tagesstruktur mit Lohn für Menschen mit psychischer oder Suchtbehinderung.
+- 4\. Tagesstruktur mit Lohn für Menschen mit psychischer oder Suchtbehinderung
 
 #### § 29f
 
@@ -596,12 +644,12 @@ vom 15.10.1985 (Stand 01.01.2020)
 
 <sup>3</sup> Werden Anordnungen nicht befolgt, Leistungen nicht oder in ungenügender Weise erbracht oder die Mitwirkung verweigert, kann das Sozialamt beziehungsweise das Departement namentlich:
 
-- 1\. fehlende und unzureichende Datengrundlagen von Einrichtungen nach einmaliger Mahnung basierend auf den verfügbaren Informationen selber festlegen;
-- 2\. Massnahmen zur Behebung von Mängeln anordnen;
-- 3\. die Auszahlung von finanziellen Beiträgen ganz oder teilweise verweigern;
-- 4\. urteilsfähige betreute Personen oder deren gesetzliche Vertretung informieren, wenn das Wohl der betreuten Personen gefährdet erscheint;
-- 5\. den Entzug der Betriebsbewilligung anordnen;
-- 6\. die Schliessung der Einrichtung verfügen, wenn Gefahr in Verzug ist.
+- 1\. fehlende und unzureichende Datengrundlagen von Einrichtungen nach einmaliger Mahnung basierend auf den verfügbaren Informationen selber festlegen
+- 2\. Massnahmen zur Behebung von Mängeln anordnen
+- 3\. die Auszahlung von finanziellen Beiträgen ganz oder teilweise verweigern
+- 4\. urteilsfähige betreute Personen oder deren gesetzliche Vertretung informieren, wenn das Wohl der betreuten Personen gefährdet erscheint
+- 5\. den Entzug der Betriebsbewilligung anordnen
+- 6\. die Schliessung der Einrichtung verfügen, wenn Gefahr in Verzug ist
 
 #### § 29m
 
@@ -664,9 +712,7 @@ vom 15.10.1985 (Stand 01.01.2020)
 
 #### § 35a
 
-**Schlichtungsstelle**
-
-<sup>1</sup> Das Departement bezeichnet eine Schlichtungsstelle, welche bei Auseinandersetzungen zwischen Einrichtungen und betreuten erwachsenen Menschen mit Behinderung oder den für sie zuständigen Behörden sowie Angehörigen zum Einsatz kommt, und regelt das Verfahren.
+**…**
 
 #### § 35b
 
@@ -692,7 +738,7 @@ vom 15.10.1985 (Stand 01.01.2020)
 
 **Verwarnung**
 
-<sup>1</sup> Die Verwarnung gemäss § 25 Abs. 3 des Gesetzes muss in der Regel schriftlich erfolgen.
+<sup>1</sup> Die Verwarnung gemäss § 25 Abs. 3 SHG muss in der Regel schriftlich erfolgen.
 
 #### § 37b
 
@@ -702,66 +748,14 @@ vom 15.10.1985 (Stand 01.01.2020)
 
 ## 4. Übergangs- und Schlussbestimmungen
 
-#### § 38
+#### § 38–40
 
-**Kostenpflicht, Rückerstattungspflicht**
-
-<sup>1</sup> Die Kostenpflicht oder Rückerstattungspflicht für Hilfsbedürftige, die bei Inkrafttreten des Gesetzes unterstützt werden, geht nach Ablauf von sechs Monaten auf die nach neuem Recht zuständige Gemeinde über.
-
-#### § 39
-
-**Bisherige Unterstützungen, anwendbares Recht**
-
-<sup>1</sup> Die Rückerstattung von Unterstützungen, die auf Grund des Gesetzes über die öffentliche Fürsorge ausgerichtet worden sind, erfolgt nach neuem Recht, sofern das bisherige Recht für den Betroffenen nicht günstiger ist.
-
-<sup>2</sup> Dasselbe gilt im Rekursverfahren vor Bezirksrat[^39-1] für die Beurteilung von Art und Mass der Unterstützungen, die noch nach bisherigem Recht festgelegt worden sind.
-
-[^39-1]: Jetzt Departement für Finanzen und Soziales.
-
-#### § 40
-
-**Fürsorgerische Freiheitsentziehung, anwendbares Recht**
-
-<sup>1</sup> Für die bei Inkrafttreten des Gesetzes hängigen gerichtlichen Verfahren der fürsorgerischen Freiheitsentziehung gilt bisheriges Recht.
+**…**
 
 #### § 41
 
-#### § 42
+#### § 42–43d
 
-**...[^42-1]**
-
-[^42-1]: Aufhebung bisherigen Rechtes, ABl. 1986, Seite 10.
-
-#### § 43
-
-**Inkrafttreten**
-
-<sup>1</sup> Das Gesetz über die öffentliche Sozialhilfe vom 29. März 1984 und diese Verordnung treten nach Genehmigung durch den Bundesrat am 1. Januar 1986 in Kraft.
-
-#### § 43a
-
-**Übergangsbestimmung**
-
-<sup>1</sup> Für Personen, denen bei Inkrafttreten der neuen Verordnung bereits Unterstützung gewährt wird, richtet sich der Anspruch bis zum 31. März 2006 nach bisherigem Recht.
-
-#### § 43b
-
-**Intertemporale Regelung**
-
-<sup>1</sup> Gegenüber Kantonen, die der Interkantonalen Vereinbarung für soziale Einrichtungen (IVSE) in den Bereichen A und B beigetreten sind, gelten für die Zeit ab Inkrafttreten der IVSE bis zum Beitritt des Kantons Thurgau dieselben Rechte und Pflichten wie gegenüber Vereinbarungskantonen der Interkantonalen Vereinbarung über Vergütungen an Betriebsdefizite und die Zusammenarbeit zugunsten von Kinder- und Jugendheimen sowie von Behinderteneinrichtungen (Heimvereinbarung)[^43b-1].
-
-[^43b-1]: RB [850.6](https://www.rechtsbuch.tg.ch/data/850.6/de)
-
-#### § 43c
-
-**Regelung während der Jahre 2014 und 2015**
-
-<sup>1</sup> Ergibt sich in den Rechnungsjahren 2014 und 2015 eine Differenz zwischen dem zuletzt abgerechneten Betriebsbeitrag und dem nach dem neuen Finanzierungssystem errechneten Beitrag, so wird diese im Jahr 2014 zu einem Viertel und im Jahr 2015 zur Hälfte angerechnet.
-
-#### § 43d
-
-**Geäufnete Rücklagen aus Betriebsbeitragszahlungen ab 2008**
-
-<sup>1</sup> Konnte eine Einrichtung aus Betriebsbeiträgen des Kantons ab 2008 Rücklagen verbuchen, so dürfen diese nur zweckgebunden für den Betrieb oder für Investitionen in Absprache mit dem Sozialamt verwendet werden.
+**…**
 
 keine Angabe
