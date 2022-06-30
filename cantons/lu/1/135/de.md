@@ -4,13 +4,13 @@ number: "135"
 title: Reglement der Luzerner Pensionskasse
 short: LUPK-Reglement
 language: de
-version: 2022-01-01
-valid_until: 2022-06-30
-version_adopted: 2022-09-06
+version: 2022-07-01
+valid_until: 2023-12-31
+version_adopted: 2022-06-22
 adopted: 2013-12-12
 in_force: 2014-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/135"
-pdf: "https://srl.lu.ch/api/de/versions/3977/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4144/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3977/pdf_file"
 
 (LUPK-Reglement)
 
-vom 12.12.2013 (Stand 01.01.2022)
+vom 12.12.2013 (Stand 01.07.2022)
 
 ## 1 Allgemeine Bestimmungen
 
@@ -837,13 +837,11 @@ vom 12.12.2013 (Stand 01.01.2022)
 
 <sup>1</sup> Der Vorstand besteht aus zwölf Personen.
 
-<sup>2</sup> Sechs Mitglieder sowie ein erstes und zweites Ersatzmitglied werden unter Beachtung der folgenden Vorschriften an der Versammlung der Versicherten von den aktiv Versicherten als Arbeitnehmervertretung für eine Amtsdauer von vier Jahren gewählt:
+<sup>2</sup> Sechs Mitglieder werden nach Massgabe des Wahlreglements als Arbeitnehmervertretung gewählt.
 
-- a. Die verschiedenen Berufsgruppen sollen angemessen vertreten sein.
-- b. Mindestens fünf Mitglieder müssen bei der LUPK aktive Versicherte sein. Pensionierte Versicherte der LUPK sind nicht wählbar.
-- c. Tritt ein Mitglied während der Amtsdauer zurück oder kann es sein Mandat nicht mehr wahrnehmen, tritt an seine Stelle für den Rest der Amtsperiode das Ersatzmitglied, entsprechend der bei der Wahl durch die Versammlung bestimmten Reihenfolge.
-  - 1\. …
-  - 2\. …
+- a. …
+- b. …
+- c. …
 - d. …
 
 <sup>3</sup> Sechs Personen werden vom Regierungsrat als Arbeitgebervertretung bestimmt. Die Gemeinden und die angeschlossenen Arbeitgeber sollen im Vorstand angemessen vertreten sein.
@@ -860,11 +858,11 @@ vom 12.12.2013 (Stand 01.01.2022)
 
 #### Art. 57
 
-**Ausschuss**
+**Vorstandsausschuss**
 
-<sup>1</sup> Die Präsidentin oder der Präsident, die Vizepräsidentin oder der Vizepräsident und zwei weitere Mitglieder bilden den Vorstandsausschuss.
+<sup>1</sup> Die Präsidentin oder der Präsident, die Vizepräsidentin oder der Vizepräsident und zwei weitere Mitglieder, die vom Vorstand gewählt werden, bilden den paritätisch besetzten Vorstandsausschuss.
 
-<sup>2</sup> Der Vorstand umschreibt die Aufgaben des Ausschusses in einem Reglement oder weist sie im Einzelfall zu.
+<sup>2</sup> Der Vorstand umschreibt die Aufgaben des Vorstandsausschusses in einem Reglement oder weist sie im Einzelfall zu.
 
 ### 4.2 Verwaltung
 
@@ -884,7 +882,7 @@ vom 12.12.2013 (Stand 01.01.2022)
 
 <sup>1</sup> Die Versammlung der Versicherten hat folgende Aufgaben:
 
-- a. Wahl von sechs Vorstandsmitgliedern und zwei Ersatzmitgliedern für eine Amtsdauer von vier Jahren,
+- a. Wahl von sechs Vorstandsmitgliedern als Arbeitnehmervertretung, vorbehältlich einer stillen Wahl gemäss Wahlreglement,
 - b. Stellungnahmen zu Änderungen dieses Reglements, welche wesentliche Auswirkungen auf die Rechte und Pflichten der Versicherten haben,
 - c. Antragstellung zuhanden des Vorstandes.
 
@@ -904,7 +902,7 @@ vom 12.12.2013 (Stand 01.01.2022)
 
 <sup>2</sup> Die Präsidentin oder der Präsident des Vorstandes leitet in der Regel die Versammlung.
 
-<sup>3</sup> Wahlen und Beschlüsse bedürfen des absoluten Mehrs der Stimmen. Bei Wahlen gemäss Art. 55.2 sind ausschliesslich die aktiv Versicherten stimmberechtigt.
+<sup>3</sup> Beschlüsse bedürfen des absoluten Mehrs der Stimmen. Bei Wahlen gemäss Art. 55.2 gelten die Bestimmungen des Wahlreglements.
 
 ### 4.4 Organisationsrechtliche Stellung, Aufsicht, Kontrolle
 
