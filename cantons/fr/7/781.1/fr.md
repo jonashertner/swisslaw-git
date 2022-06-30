@@ -4,13 +4,13 @@ number: "781.1"
 title: "Loi d'application de la législation fédérale sur la circulation routière"
 short: LALCR
 language: fr
-version: 2022-01-01
-valid_until: 2022-06-30
-version_adopted: 2021-10-06
+version: 2022-07-01
+valid_until: 2022-12-31
+version_adopted: 2022-03-24
 adopted: 1981-11-12
 in_force: 1982-09-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/781.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7207/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7493/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Circulation routière – L
 
 (LALCR)
 
-du 12.11.1981 (version entrée en vigueur le 01.01.2022)
+du 12.11.1981 (version entrée en vigueur le 01.07.2022)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -54,7 +54,7 @@ Décrète:
 <sup>1</sup> Le Conseil d'Etat a les attributions suivantes:
 
 - a) il donne le préavis ou l'accord du canton ou fait des propositions au nom de celui-ci dans les cas prévus par la législation fédérale; il consulte s'il y a lieu les communes intéressées;
-- b) il nomme les membres des commissions prévues aux articles 8 et 10 de la présente loi;
+- b) il nomme les membres de la commission prévue à l'article 10 de la présente loi;
 - c) il arrête le tarif des émoluments dus en matière de circulation routière et celui des taxes à percevoir pour l'utilisation accrue des routes par des transports spéciaux;
 - d) il peut édicter des prescriptions complémentaires de la législation fédérale, notamment au sens de l'article 106 al. 3 LCR;
 - e) il prend les dispositions pour interdire, restreindre ou régler la circulation des véhicules automobiles ou d'autres catégories de véhicules ou d'usagers en dehors des routes, lorsque ces mesures relèvent du droit cantonal;
@@ -78,7 +78,7 @@ Décrète:
 
 **Office de la circulation et de la navigation**
 
-<sup>1</sup> L'Office de la circulation et de la navigation est l'autorité d'admission des personnes et des véhicules à la circulation routière.
+<sup>1</sup> L'Office de la circulation et de la navigation (ci-après: l'Office) est l'autorité d'admission des personnes et des véhicules à la circulation routière.
 
 <sup>2</sup> A ce titre, il procède notamment:
 
@@ -86,6 +86,16 @@ Décrète:
 - b) à la délivrance et au retrait des permis de circulation et des plaques de contrôle;
 - c) à la délivrance et au retrait des permis de moniteurs de conduite;
 - d) à l'expertise et aux contrôles subséquents des véhicules.
+
+<sup>2a</sup> Il est également compétent pour prononcer les mesures suivantes:
+
+- a) les avertissements en matière de circulation routière;
+- b) l'obligation de suivre un cours d'éducation routière;
+- c) le refus ou le retrait du permis de conduire ou d'élève conducteur;
+- d) l'interdiction de conduire un cycle ou un véhicule à traction animale;
+- e) l'interdiction de faire usage d'un permis de conduire étranger ou international;
+- f) l'interdiction de circuler avec des cyclomoteurs, engins assimilés à un véhicule ou encore des véhicules pour lesquels un permis de conduire n'est pas nécessaire;
+- g) toutes les autres mesures administratives découlant de la législation fédérale ou cantonale sur la circulation routière.
 
 <sup>3</sup> Il exerce en outre toutes les tâches et compétences qui lui sont attribuées par les dispositions d'exécution de la présente loi.
 
@@ -109,7 +119,7 @@ Décrète:
 
 <sup>1</sup> Les préfets exercent les compétences qui leur sont attribuées par la présente loi et ses dispositions d'exécution.
 
-<sup>2</sup> Ils sont compétents pour accorder l'autorisation d'utiliser des haut-parleurs montés sur des véhicules automobiles. L'Office de la circulation et de la navigation est toutefois compétent lorsque la publicité se fait en une même tournée dans plusieurs districts.
+<sup>2</sup> Ils sont compétents pour accorder l'autorisation d'utiliser des haut-parleurs montés sur des véhicules automobiles. L'Office est toutefois compétent lorsque la publicité se fait en une même tournée dans plusieurs districts.
 
 #### Art. 7
 
@@ -123,19 +133,7 @@ Décrète:
 
 #### Art. 8
 
-**Commission des mesures administratives**
-
-<sup>1</sup> La commission des mesures administratives est compétente pour prononcer:
-
-- a) le refus ou le retrait du permis de conduire ou d'élève conducteur;
-- b) l'interdiction de conduire un cycle ou un véhicule à traction animale;
-- c) l'interdiction de faire usage d'un permis de conduire étranger ou international.
-
-<sup>2</sup> La Commission est composée d'un président, d'un président suppléant et de huit membres. Elle siège à trois membres.
-
-<sup>3</sup> La Commission est présidée par le directeur de l'Office de la circulation et de la navigation ou le chef de son service juridique. Son secrétariat est assumé par cet Office.
-
-<sup>4</sup> Le Conseil d'Etat fixe les règles d'organisation et de fonctionnement de la Commission.
+**…**
 
 #### Art. 9
 
@@ -171,7 +169,11 @@ Décrète:
 
 <sup>1</sup> Les décisions prises en application de la présente loi sont sujettes à recours conformément au code de procédure et de juridiction administrative.
 
-<sup>2</sup> En particulier, les décisions de la Commission des mesures administratives peuvent faire l'objet d'un recours au Tribunal cantonal.
+<sup>2</sup> …
+
+<sup>3</sup> Toutefois, l'Office peut rendre directement une décision avec voie de réclamation dans les cas d'avertissements ou de retraits ou interdictions dont la durée correspond aux seuils minimaux légaux prévus par la LCR.
+
+<sup>4</sup> Quiconque est atteint par une décision au sens de l'alinéa 3 a le droit de déposer une réclamation écrite et motivée auprès de l'Office dans un délai de 30 jours dès réception de la décision querellée.
 
 #### Art. 13
 

@@ -4,13 +4,13 @@ number: "781.1"
 title: Gesetz zur Ausführung der Bundesgesetzgebung über den Strassenverkehr
 short: AGSVG
 language: de
-version: 2022-01-01
-valid_until: 2022-06-30
-version_adopted: 2021-10-06
+version: 2022-07-01
+valid_until: 2022-12-31
+version_adopted: 2022-03-24
 adopted: 1981-11-12
 in_force: 1982-09-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/781.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/7207/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7493/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Strassenverkehr – G
 
 (AGSVG)
 
-vom 12.11.1981 (Fassung in Kraft getreten am 01.01.2022)
+vom 12.11.1981 (Fassung in Kraft getreten am 01.07.2022)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -54,7 +54,7 @@ beschliesst:
 <sup>1</sup> Der Staatsrat hat folgende Befugnisse:
 
 - a) er gibt die Stellungnahme oder das Einverständnis des Kantons oder macht in dessen Namen Vorschläge in den Fällen nach Bundesgesetzgebung; wenn nötig befragt er die betroffenen Gemeinden;
-- b) er ernennt die Mitglieder der in den Artikeln 8 und 10 dieses Gesetzes vorgesehenen Kommissionen;
+- b) er ernennt die Mitglieder der in Artikel 10 dieses Gesetzes vorgesehenen Kommission;
 - c) er beschliesst den Tarif der Gebühren im Strassenverkehr und jenen der Abgaben für den erhöhten Gemeingebrauch der Strassen durch Ausnahmetransporte;
 - d) er kann zusätzliche Vorschriften zur Bundesgesetzgebung erlassen, insbesondere im Sinne des Artikels 106 Abs. 3 SVG;
 - e) er erlässt Bestimmungen über Verbot, Einschränkung oder Regelung des Verkehrs der Motorfahrzeuge oder anderer Kategorien von Fahrzeugen, oder Benützern ausserhalb der Strassen, wenn diese Massnahmen vom kantonalen Recht abhängen;
@@ -78,7 +78,7 @@ beschliesst:
 
 **Amt für Strassenverkehr und Schifffahrt**
 
-<sup>1</sup> Das Amt für Strassenverkehr und Schifffahrt ist die zuständige Behörde für die Zulassung von Personen und Fahrzeugen zum Strassenverkehr.
+<sup>1</sup> Das Amt für Strassenverkehr und Schifffahrt (das Amt) ist die zuständige Behörde für die Zulassung von Personen und Fahrzeugen zum Strassenverkehr.
 
 <sup>2</sup> Diesbezüglich umfasst sein Aufgabenbereich:
 
@@ -86,6 +86,16 @@ beschliesst:
 - b) die Aushändigung und den Entzug der Fahrzeugausweise und der Kontrollschilder;
 - c) die Erteilung und den Entzug der Fahrlehrerausweise;
 - d) die Neuprüfung und die Nachprüfungen der Fahrzeuge.
+
+<sup>2a</sup> Es ist ausserdem zuständig für folgende Massnahmen:
+
+- a) Verwarnungen im Strassenverkehr;
+- b) die Verpflichtung zum Besuch der Verkehrserziehungskurse;
+- c) die Verweigerung oder den Entzug des Führerausweises oder Lernfahrausweises;
+- d) das Verbot, ein Fahrrad oder ein Fuhrwerk zu benützen;
+- e) das Verbot, einen ausländischen oder internationalen Führerausweis zu benützen;
+- f) das Verbot, Motorfahrräder, fahrzeugähnliche Geräte oder Fahrzeuge, für die kein Führerausweis erforderlich ist, zu benützen;
+- g) alle übrigen administrativen Massnahmen nach der eidgenössischen oder kantonalen Strassenverkehrsgesetzgebung.
 
 <sup>3</sup> Es übt zudem alle Aufgaben und Zuständigkeiten aus, die ihm durch die Ausführungsbestimmungen zu diesem Gesetz übertragen werden.
 
@@ -109,7 +119,7 @@ beschliesst:
 
 <sup>1</sup> Die Oberamtmänner üben die Kompetenzen aus, die ihnen durch dieses Gesetz und seine Ausführungsbestimmungen zukommen.
 
-<sup>2</sup> Sie sind zuständig, die Verwendung von Lautsprechern auf Fahrzeugen zu bewilligen. Bei Lautsprecherwerbung auf einer Fahrt durch mehrere Bezirke ist jedoch das Amt für Strassenverkehr und Schifffahrt zuständig.
+<sup>2</sup> Sie sind zuständig, die Verwendung von Lautsprechern auf Fahrzeugen zu bewilligen. Bei Lautsprecherwerbung auf einer Fahrt durch mehrere Bezirke ist jedoch das Amt zuständig.
 
 #### Art. 7
 
@@ -123,19 +133,7 @@ beschliesst:
 
 #### Art. 8
 
-**Kommission für administrative Massnahmen**
-
-<sup>1</sup> Die Kommission für administrative Massnahmen ist zuständig für die Entscheide über:
-
-- a) die Verweigerung oder den Entzug des Führer- oder Lernfahrausweises;
-- b) das Verbot, ein Fahrrad oder ein Fuhrwerk zu benützen;
-- c) das Verbot, einen ausländischen oder internationalen Führerausweis zu benützen.
-
-<sup>2</sup> Die Kommission setzt sich aus einem Präsidenten, einem stellvertretenden Präsidenten und acht Mitgliedern zusammen. Sie tagt mit drei Mitgliedern.
-
-<sup>3</sup> Die Kommission wird vom Direktor des Amtes für Strassenverkehr und Schifffahrt oder vom Vorsteher des Rechtsdiensts dieses Amtes präsidiert. Das Sekretariat wird von diesem Amt geführt.
-
-<sup>4</sup> Der Staatsrat regelt die Organisation und die Arbeitsweise der Kommission.
+**…**
 
 #### Art. 9
 
@@ -171,7 +169,11 @@ beschliesst:
 
 <sup>1</sup> Die in Anwendung dieses Gesetzes getroffenen Entscheide sind mit Beschwerde gemäss dem Gesetz über die Verwaltungsrechtspflege anfechtbar.
 
-<sup>2</sup> Insbesondere kann gegen Entscheide der Kommission für administrative Massnahmen beim Kantonsgericht Beschwerde erhoben werden.
+<sup>2</sup> …
+
+<sup>3</sup> Bei Verwarnungen, Entzügen und Verboten, deren Dauer den gesetzlichen Untergrenzen gemäss SVG entspricht, kann das Amt jedoch direkt einen mit Einsprache anfechtbaren Entscheid erlassen.
+
+<sup>4</sup> Wer von einem Entscheid im Sinne von Absatz 3 betroffen ist, hat das Recht, beim Amt innert 30 Tagen ab Erhalt des Entscheids eine schriftliche und begründete Einsprache einzureichen.
 
 #### Art. 13
 
