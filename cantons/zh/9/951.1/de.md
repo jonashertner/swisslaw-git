@@ -4,11 +4,11 @@ number: "951.1"
 title: Kantonalbankgesetz (ZKBG)
 short: ZKBG
 language: de
-version: "2020-05-01"
-nachtrag: "108"
-valid_until: 2022-07-01
+version: "2022-07-01"
+nachtrag: "117"
+valid_until: 2024-01-01
 adopted: 1997-09-28
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-951_1-1997_09_28-1998_01_01-108.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-951_1-1997_09_28-1998_01_01-117.html"
 text: pdf
 ---
 
@@ -60,7 +60,7 @@ Weitere eigene Mittel beschafft sich die Bank durch die Äufnung von Reserven so
 
 **Staatsgarantie**
 
-§ 6.<sup>15</sup> <sup>1</sup> Der Kanton<sup>15</sup> haftet für alle Verbindlichkeiten der Bank, soweit ihre eigenen Mittel nicht ausreichen.
+§ 6.<sup>18</sup> <sup>1</sup> Der Kanton<sup>15</sup> haftet für alle Verbindlichkeiten der Bank, soweit ihre eigenen Mittel nicht ausreichen.
 
 <sup>2</sup> Die Haftung erfasst nachrangige Verbindlichkeiten nicht.
 
@@ -70,9 +70,11 @@ Weitere eigene Mittel beschafft sich die Bank durch die Äufnung von Reserven so
 
 **1**
 
-- 1\. 4. 20 - 108
+- 1\. 7. 22 - 117
 
-<sup>5</sup> Die Entschädigung fliesst in den Fonds zur Absicherung der Staatsgarantie.
+<sup>5</sup> Die Entschädigung wird bei der Berechnung des mittelfristigen Ausgleichs der Rechnung des Kantons nicht berücksichtigt.
+
+<sup>6</sup> Der Regierungsrat weist die Summe aller von der Kantonalbank geleisteten Entschädigungen im Geschäftsbericht aus.
 
 ### Dritter Abschnitt: Geschäftskreis
 
@@ -164,7 +166,7 @@ Weitere eigene Mittel beschafft sich die Bank durch die Äufnung von Reserven so
 
 **3**
 
-- 1\. 4. 20 - 108 § 13.<sup>16</sup>
+- 1\. 7. 22 - 117 § 13.<sup>16</sup>
 
 [^12-1]: LS 171.1.
 
@@ -234,15 +236,13 @@ Weitere eigene Mittel beschafft sich die Bank durch die Äufnung von Reserven so
 
 - 3\. ein Risiko-Management-Ausschuss, 4.<sup>14</sup> ein IT-Ausschuss.
 
-**5**
-
-- 1\. 4. 20 - 108
-
 <sup>3</sup> Die Mitglieder des Bankpräsidiums dürfen dem Prüfungsausschuss nicht angehören.
 
-**Bankpräsidium**
+**5**
 
-§ 16.<sup>15</sup> <sup>1</sup> Das Bankpräsidium besteht aus der Präsidentin oder dem Präsidenten und den beiden Vizepräsidentinnen oder Vizepräsidenten des Bankrates.<sup>8</sup>
+- 1\. 7. 22 - 117 § 16.<sup>15</sup> <sup>1</sup> Das Bankpräsidium besteht aus der Präsidentin oder dem Präsidenten und den beiden Vizepräsidentinnen oder Vizepräsidenten des Bankrates.<sup>8</sup>
+
+**Bankpräsidium**
 
 <sup>2</sup> Die Amtsdauer beträgt vier Jahre. Wiederwahl ist möglich. Vollendet ein Mitglied des Bankpräsidiums während einer Amtsdauer das 65. Altersjahr, so endet seine Amtszeit mit Ablauf der Amtsdauer. Im Übrigen besteht für die Mitglieder des Bankpräsidiums keine Amtszeitbeschränkung.<sup>10</sup>
 
@@ -310,10 +310,6 @@ Die Bank wird durch die Mitglieder des Bankpräsidiums und der Generaldirektion 
 
 § 25.<sup>15</sup> Die Mitglieder der Organe der Bank haften der Bank und dem Kanton sowie den Gläubigerinnen und den Gläubigern nachrangiger Verbindlichkeiten nach den Bestimmungen des Aktienrechts (Art. 752–760 OR[^hSiebterAbschnittH-1]. Ansprüche aus dieser Haftung sind beim Verwaltungsgericht geltend zu machen. Kanton und Bank werden dabei vom Kantonsrat vertreten.
 
-**7**
-
-- 1\. 4. 20 - 108
-
 [^hSiebterAbschnittH-1]: SR 220.
 
 ### Achter Abschnitt: Gewinnverteilung
@@ -322,9 +318,11 @@ Die Bank wird durch die Mitglieder des Bankpräsidiums und der Generaldirektion 
 
 § 26.<sup>15</sup> Aus dem Bilanzgewinn oder dafür gebildeten Reserven kann dem Kanton für die Bereitstellung des Dotationskapitals eine Dividende ausgerichtet werden.
 
-**Verwendung der Dividende**
+**7**
 
-§ 26 a.<sup>14</sup> Der Kanton verwendet die Dividende zunächst zur Bestreitung der Kapitalkosten für die Refinanzierung des Dotationskapitals. Vom verbleibenden Betrag steht ein Drittel den politischen Gemeinden im Verhältnis zur Einwohnerzahl zu.
+- 1\. 7. 22 - 117 § 26 a.<sup>14</sup> Der Kanton verwendet die Dividende zunächst zur Bestreitung der Kapitalkosten für die Refinanzierung des Dotationskapitals. Vom verbleibenden Betrag steht ein Drittel den politischen Gemeinden im Verhältnis zur Einwohnerzahl zu.
+
+**Verwendung der Dividende**
 
 ### Neunter Abschnitt: Personalvorsorge
 
@@ -368,6 +366,8 @@ Die Bank wird durch die Mitglieder des Bankpräsidiums und der Generaldirektion 
 
 <sup>17</sup> Fassung gemäss Kantonsratsgesetz vom 25. März 2019 (OS 74, 387). In Kraft seit 1. Mai 2020.
 
+<sup>18</sup> Fassung gemäss G vom 15. November 2021 (OS 77, 249; ABl 2020-06-12). In Kraft seit 1. Juli 2022.
+
 **9**
 
-- 1\. 4. 20 - 108
+- 1\. 7. 22 - 117
