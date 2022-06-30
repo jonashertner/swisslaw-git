@@ -3,11 +3,11 @@ sr: "818.102"
 title: Federal Act of 25 September 2020 on the Statutory Principles for Federal Council Ordinances on Combating the COVID-19 Epidemic (COVID-19 Act)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/711"
 language: en
-version: 2022-05-01
+version: 2022-07-01
 adopted: 2020-09-25
 in_force: 2020-09-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/711/20220501/en/xml/fedlex-data-admin-ch-eli-cc-2020-711-20220501-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20220501/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/711/20220701/en/xml/fedlex-data-admin-ch-eli-cc-2020-711-20220701-en-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20220701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Act)
 
-of 25 September 2020 (Status as of 1 May 2022)
+of 25 September 2020 (Status as of 1 July 2022)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -48,8 +48,8 @@ decrees:
 <sup>6</sup> When ordering measures, the Federal Council and the cantons shall be guided by any available data, comparable with regard to time and the regions concerned, that indicate that the healthcare system is in danger of becoming overburdened, the mortality rate is increasing or the disease is becoming more virulent.
 
 [^1-1]: Applies until 31 Dec. 2031 (Art. 21 para. 6).
-[^1-2]: Inserted by No I of the FA of 18 Dec. 2020 (Culture. Hardship Cases. Sport, Unemployment Insurance, Fixed Penalty Fines) ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359)). Amended by No I of the FA of 19 March 2021 (Hardship Cases, Unemployment Insurance, Childcare, Creative Artists, Events), in force from 20 March 2021 to 31 Dec. 2031 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153), [878](https://fedlex.data.admin.ch/eli/oc/2021/878)No II para. 3; [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285), [2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
-[^1-3]: Amended by No I of the FA of 19 March 2021 (Hardship Cases, Unemployment Insurance, Childcare, Creative Artists, Events), in force from 20 March 2021 to 31 Dec. 2031 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153), [878](https://fedlex.data.admin.ch/eli/oc/2021/878)No II para. 3; [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285), [2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
+[^1-2]: Inserted by No I of the FA of 18 Dec. 2020 (Culture. Hardship Cases. Sport, Unemployment Insurance, Fixed Penalty Fines) ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359)). Amended by No I of the FA of 19 March 2021 (Hardship Cases, Unemployment Insurance, Childcare, Creative Artists, Events), in force from 20 March 2021 to 31 Dec. 2021 extended to 31 Dec. 2031 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153), [878](https://fedlex.data.admin.ch/eli/oc/2021/878)No II para. 3; [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285), [2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
+[^1-3]: Amended by No I of the FA of 19 March 2021 (Hardship Cases, Unemployment Insurance, Childcare, Creative Artists, Events), in force from 20 March 2021 to 31 Dec. 2021 extended to 31 Dec. 2031 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153), [878](https://fedlex.data.admin.ch/eli/oc/2021/878)No II para. 3; [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285), [2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
 
 #### Art. 1a
 
@@ -59,7 +59,7 @@ decrees:
 
 <sup>2</sup> If a sufficient number of adults in the population who are willing to be vaccinated have been vaccinated, the capacity restrictions for publicly accessible establishments and businesses, and for events and private gatherings shall be lifted. Appropriate precautionary measures plans are permitted, provided they are proportionate.[^1a-2]
 
-[^1a-1]: Inserted by No I of the FA of 19 March 2021 (Hardship Cases, Unemployment Insurance, Childcare, Creative Artists, Events), in force from 20 March 2021 to 31 Dec. 2022 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153), [878](https://fedlex.data.admin.ch/eli/oc/2021/878)No II para. 2; [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285), [2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
+[^1a-1]: Inserted by No I of the FA of 19 March 2021 (Hardship Cases, Unemployment Insurance, Childcare, Creative Artists, Events), in force from 20 March 2021 to 31 Dec. 2021, extended to 31 Dec. 2022 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153), [878](https://fedlex.data.admin.ch/eli/oc/2021/878)No II para. 2; [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285), [2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
 [^1a-2]: Inserted by No I of the FA of 18 June 2021 (Loss of Earnings Compensation, Sport and Capacity Restrictions), in force since 19 June 2021 ([AS 2021 354](https://fedlex.data.admin.ch/eli/oc/2021/354); [BBl 2021 1093](https://fedlex.data.admin.ch/eli/fga/2021/1093)).
 
 #### Art. 2
@@ -144,7 +144,7 @@ The Confederation shall take the following measures in close consultation with t
 
 <sup>2</sup> The Federal Council may make exceptions.
 
-[^3a-1]: Inserted by No I of the FA of 19 March 2021 (Hardship Cases, Unemployment Insurance, Childcare, Creative Artists, Events), in force since 20 March 2021 until 31 Dec. 2022 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153), [878](https://fedlex.data.admin.ch/eli/oc/2021/878)No II para. 2, [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285), [2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
+[^3a-1]: Inserted by No I of the FA of 19 March 2021 (Hardship Cases, Unemployment Insurance, Childcare, Creative Artists, Events), in force since 20 March 2021 until 31 Dec. 2021, extended to 31 dec. 2022 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153), [878](https://fedlex.data.admin.ch/eli/oc/2021/878)No II para. 2, [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285), [2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
 [^3a-2]: Amended by No I of the FA of 17 Dec. 2021, in force from 18 Dec. 2021 until 31 Dec. 2022 ([AS 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878); [BBl 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
 
 #### Art. 3b
@@ -156,7 +156,7 @@ The Confederation in cooperation with the cantons shall provide a testing and co
 - a. require the cantons to improve the data situation in relation to suspected clusters and sources of infection in contact tracing and compensate the cantons for the related expenditure;
 - b. make subsidiary federal resources available that may be called on at any time if the TTIQ system is no longer operational in a canton.
 
-[^3b-1]: Inserted by No I of the FA of 19 March 2021 (Hardship Cases, Unemployment Insurance, Childcare, Creative Artists, Events), in force from 20 March 2021 to 31 Dec. 2022 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153), [878](https://fedlex.data.admin.ch/eli/oc/2021/878)No II para. 2; [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285), [2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
+[^3b-1]: Inserted by No I of the FA of 19 March 2021 (Hardship Cases, Unemployment Insurance, Childcare, Creative Artists, Events), in force from 20 March 2021 to 31 Dec. 2021, extended to 31 Dec. 2022 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153), [878](https://fedlex.data.admin.ch/eli/oc/2021/878)No II para. 2; [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285), [2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
 [^3b-2]: TTIQ = Testing, Tracing, Isolation, Quarantine
 
 #### Art. 4
@@ -183,7 +183,7 @@ The Confederation in cooperation with the cantons shall provide a testing and co
 
 The Federal Council may fund measures by the cantons aimed at making it easier for school leavers to enter the employment market where this has been made more difficult by the COVID-19 epidemic.
 
-[^4a-1]: Inserted by No I of the FA of 19 March 2021 (Hardship Cases, Unemployment Insurance, Childcare, Creative Artists, Events), in force from 20 March 2021 to 31 Dec. 2022 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153), [878](https://fedlex.data.admin.ch/eli/oc/2021/878)No II para. 2; [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285), [2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
+[^4a-1]: Inserted by No I of the FA of 19 March 2021 (Hardship Cases, Unemployment Insurance, Childcare, Creative Artists, Events), in force from 20 March 2021 to 31 Dec. 2021, etended till 31 dec. 2022 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153), [878](https://fedlex.data.admin.ch/eli/oc/2021/878)No II para. 2; [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285), [2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
 
 #### Art. 5
 
@@ -338,7 +338,7 @@ The Federal Council may, insofar as it may be required in order to prevent mass 
 
 <sup>7</sup> Support for regional and local events is a matter for the cantons.
 
-[^11a-1]: Inserted by No I of the FA of 19 March 2021 (Hardship Cases, Unemployment Insurance, Childcare, Creative Artists, Events), in force from 20 March 2021 to 31 Dec. 2022 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153), [878](https://fedlex.data.admin.ch/eli/oc/2021/878)No II para. 2; [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285), [2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)). Correction by the FA Drafting Committee dated 25 Aug. 2021, published 2 Sept. 2021 ([AS 2021 527](https://fedlex.data.admin.ch/eli/oc/2021/527)).
+[^11a-1]: Inserted by No I of the FA of 19 March 2021 (Hardship Cases, Unemployment Insurance, Childcare, Creative Artists, Events), in force from 20 March 2021 to 30 April 2022, extended to 31 Dec. 2022 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153), [878](https://fedlex.data.admin.ch/eli/oc/2021/878)No II para. 2; [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285), [2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)). Correction by the FA Drafting Committee dated 25 Aug. 2021, published 2 Sept. 2021 ([AS 2021 527](https://fedlex.data.admin.ch/eli/oc/2021/527)).
 [^11a-2]: Amended by No I of the FA of 17 Dec. 2021, in force from 18 Dec. 2021 until 31 Dec. 2022 ([AS 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878); [BBl 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
 [^11a-3]: [SR 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)
 
@@ -395,7 +395,7 @@ In the case of hardship assistance granted to companies with an annual turnover 
 
 <sup>2quater</sup> In order to expedite the processing of claims, advance payments not exceeding the probable claims are permitted provided due diligence is exercised.[^12-16]
 
-<sup>3</sup> ... [^12-17]
+<sup>3</sup> ...[^12-17]
 
 <sup>4</sup> The Federal Council shall regulate the details in an ordinance; it shall consider businesses that achieved an average turnover in 2018 and 2019 of at least 50 000 francs.[^12-18]
 
@@ -416,7 +416,7 @@ In the case of hardship assistance granted to companies with an annual turnover 
 [^12-9]: [SR 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
 [^12-10]: Inserted by No I of the FA of 19 March 2021 (Hardship Cases, Unemployment Insurance, Childcare, Creative Artists, Events), in force since 20 March 2021 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
 [^12-11]: Amended by No I of the FA of 19 March 2021 (Hardship Cases, Unemployment Insurance, Childcare, Creative Artists, Events), in force since 20 March 2021 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
-[^12-12]: [AS 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194)[1207](https://fedlex.data.admin.ch/eli/oc/2020/228)[1233](https://fedlex.data.admin.ch/eli/oc/2020/235)[3799](https://fedlex.data.admin.ch/eli/oc/2020/696)
+[^12-12]: [AS 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194), [1207](https://fedlex.data.admin.ch/eli/oc/2020/228), [1233](https://fedlex.data.admin.ch/eli/oc/2020/235), [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)
 [^12-13]: [SR 951.26](https://fedlex.data.admin.ch/eli/cc/2020/982)
 [^12-14]: Inserted by No I of the FA of 18 Dec. 2020 (Culture. Hardship Cases. Sport, Unemployment Insurance, Fixed Penalty Fines), in force since 19 Dec. 2020 ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
 [^12-15]: Inserted by No I of the FA of 18 Dec. 2020 (Culture. Hardship Cases. Sport, Unemployment Insurance, Fixed Penalty Fines), in force since 19 Dec. 2020 ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
@@ -452,57 +452,27 @@ The following entities and persons are obliged to provide the competent cantonal
 
 **Measures in the sports sector: Non-repayable contributions to clubs playing professional and semi-professional team sports**[^12b-1]
 
-<sup>1</sup>
+<sup>1–4</sup> ...
 
-The Confederation may provide non-repayable contributions to support:[^12b-2]
+<sup>5</sup> ...[^12b-2]
 
-- a. football and ice hockey clubs with a team playing in one of the two professional leagues;
-- b. basketball, handball, floorball, volleyball, women’s football and women’s ice hockey clubs with a team playing in the highest league for their sport.
+<sup>6</sup> and <sup>7</sup> ...
 
-<sup>2</sup> A club pursuant to paragraph 1 is defined as the legal entity that fields a team in the sport concerned.
+<sup>8</sup> If the conditions specified in paragraph 6 letter a or d or the duty in the first sentence of paragraph 7 are not complied with, the contributions may be reclaimed in accordance with the Subsidies Act of 5 October 1990[^12b-3]. If the conditions specified in paragraph 6 letter b or c are not complied with, the club concerned must repay the contributions that exceed 50 per cent of the lost ticket revenues in accordance with paragraph 4.[^12b-4]
 
-<sup>3</sup> The contributions are paid in compensation for the reduction in revenues from matches in the national championship that have been played since 29 October 2020 without spectators or with a reduced number of spectators as a result of measures taken by the Confederation.
+<sup>9</sup> …[^12b-5]
 
-<sup>4</sup> They shall amount for each match to a maximum of two thirds of the average ticket revenues that the club received from matches in the national championship in the 2018/2019 season. The effective revenues from any ticket sales since 29 October 2020 shall be deducted from the amount.
-
-<sup>5</sup> ...[^12b-3]
-
-<sup>6</sup>
-
-The contributions are conditional on the following:
-
-- a. The club must not distribute dividends or shares of profits and must not repay capital contributions for five years following receipt of the contributions.
-- b. At the time that the contributions are paid, the club must reduce the average salary including premiums, bonuses and other financial benefits to the maximum insured salary for the purposes of compulsory accident insurance or reduce the average salary that exceeds this amount by at least 20 per cent. The average salary shall be calculated on the basis of the employees’ income in the 2018/2019 season. The Federal Council may on request also take account of employees’ income up to 13 March 2020. Salary reductions that have already been made in response to federal measures related to the COVID-19 epidemic shall be taken into account. The Federal Council may make exceptions for clubs whose total salary bill is considerably lower than the league average. If a club does not reduce its salaries or does not do so to the required extent, it shall receive a contribution not exceeding 50 per cent of the loss in ticket revenues in accordance with paragraph 4.[^12b-4]
-- c.[^12b-5] The total salary bill for all employees and all players based on the 2019/2020 season may increase in the five years following receipt of the contributions by a maximum of the increase in the Swiss Retail Price Index. The Federal Council may make exceptions for clubs that are promoted to a higher league.
-- d. The promotion of young talent and of women players must continue for five years to the same extent at least as in the 2018/2019 season.
-
-<sup>7</sup> The club shall report to the Confederation annually on its compliance with the conditions under paragraph 6. The Federal Council shall specify the details of what must be included in the report and the publication requirements. It may issue provisions to prevent abuses.[^12b-6]
-
-<sup>8</sup> If the conditions specified in paragraph 6 letter a or d or the duty in the first sentence of paragraph 7 are not complied with, the contributions may be reclaimed in accordance with the Subsidies Act of 5 October 1990[^12b-7]. If the conditions specified in paragraph 6 letter b or c are not complied with, the club concerned must repay the contributions that exceed 50 per cent of the lost ticket revenues in accordance with paragraph 4.[^12b-8]
-
-<sup>9</sup> …[^12b-9]
-
-[^12b-1]: Inserted by No I of the FA of 18 Dec. 2020 (Culture. Hardship Cases. Sport, Unemployment Insurance, Fixed Penalty Fines), in force from 19 Dec. 2020 to 30 June 2022 ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)No II para. 1; [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
-[^12b-2]: Amended by No I of the FA of 18 June 2021 (Loss of Earnings Compensation, Sport and Capacity Restrictions), in force from 19 June 2021 to 30 June 2022 ([AS 2021 354](https://fedlex.data.admin.ch/eli/oc/2021/354), [878](https://fedlex.data.admin.ch/eli/oc/2021/878)No II para. 1; [BBl 2021 1093](https://fedlex.data.admin.ch/eli/fga/2021/1093), [2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
-[^12b-3]: Repealed by No I of the FA of 19 March 2021 (Hardship Cases, Unemployment Insurance, Childcare, Creative Artists, Events), with effect from 1 Jan 2021 to 31 Dec. 2021 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
-[^12b-4]: Sixth sentence inserted by No I of the FA of 19 March 2021 (Hardship Cases, Unemployment Insurance, Childcare, Creative Artists, Events), in force from 1 Jan 2021 to 30 June 2022 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153), [878](https://fedlex.data.admin.ch/eli/oc/2021/878)No II para. 1; [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285), [2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
-[^12b-5]: Amended by No I of the FA of 19 March 2021 (Hardship Cases, Unemployment Insurance, Childcare, Creative Artists, Events), in force from 1 Jan 2021 to 30 June 2022 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153), [878](https://fedlex.data.admin.ch/eli/oc/2021/878)No II para. 1; [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285), [2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
-[^12b-6]: Third sentence inserted by No I of the FA of 19 March 2021 (Hardship Cases, Unemployment Insurance, Childcare, Creative Artists, Events), in force from 1 Jan 2021 to 30 June 2022 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153), [878](https://fedlex.data.admin.ch/eli/oc/2021/878)No II para. 1; [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285), [2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
-[^12b-7]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
-[^12b-8]: Amended by No I of the FA of 17 Dec. 2021, in force from 18 Dec. 2021 to 31 Dec. 2027 ([AS 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878); [BBl 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
-[^12b-9]: Inserted by No I of the FA of 19 March 2021 (Hardship Cases, Unemployment Insurance, Childcare, Creative Artists, Events), in force from 1 Jan 2021 to 31 Dec. 2021 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
+[^12b-1]: Inserted by No I of the FA of 18 Dec. 2020 (Culture. Hardship Cases. Sport, Unemployment Insurance, Fixed Penalty Fines), in force from 19 Dec. 2020 to 31 Dec. 2021, para. 1–4, 6 and 7 extended to 30 June 2022 ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)No II para. 1; [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
+[^12b-2]: Repealed by No I of the FA of 19 March 2021 (Hardship Cases, Unemployment Insurance, Childcare, Creative Artists, Events), with effect from 1 Jan 2021 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
+[^12b-3]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^12b-4]: Amended by No I of the FA of 17 Dec. 2021, in force from 18 Dec. 2021 to 31 Dec. 2027 ([AS 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878); [BBl 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
+[^12b-5]: Inserted by No I of the FA of 19 March 2021 (Hardship Cases, Unemployment Insurance, Childcare, Creative Artists, Events), in force from 1 Jan 2021 to 31 Dec. 2021 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
 
 #### Art. 13
 
-**Measures in the sports sector: Loan for clubs playing professional or semi-professional team sports**[^13-1]
+[^13-1]
 
-<sup>1</sup> The Confederation may support clubs pursuant to Article 12*b* paragraph 1 that are basically solvent but which face cash flow problems even after being granted contributions under Article 12*b* with interest-free loans amounting to a maximum of 235 million francs. These must be repaid within ten years at the latest. The borrower shall provide collateral recognised by the Confederation amounting to at least 25 per cent of the loan amount.
-
-<sup>2</sup> The loans shall amount to a maximum of 25 per cent of the operating expenses incurred by the club in order that its team may play in the national championship in a league pursuant to Article 12*b* paragraph 1 in the 2018/2019 season.
-
-<sup>3</sup> The Confederation may permit the loans to be given a subordinate ranking provided this is likely to reduce the financial risks to the Confederation.
-
-[^13-1]: Amended by No I of the FA of 18 Dec. 2020 (Culture. Hardship Cases. Sport, Unemployment Insurance, Fixed Penalty Fines), in force from 19 Dec. 2020 to 30 June 2022 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153), [878](https://fedlex.data.admin.ch/eli/oc/2021/878)No II para. 1; [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285), [2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
+[^13-1]: Amended by No I of the FA of 18 Dec. 2020 (Culture. Hardship Cases. Sport, Unemployment Insurance, Fixed Penalty Fines), in force from 19 Dec. 2020 to 31 Dec. 2021, extended to 30 June 2022 ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)No II para. 1; [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
 
 #### Art. 14
 
@@ -535,7 +505,7 @@ The Federal Council may issue provisions on:
 [^15-1]: Applies until 31 Dec. 2022 (Art. 21 para. 11).
 [^15-2]: Second sentence amended by No I of the FA of 19 March 2021 Hardship Cases, Unemployment Insurance, Childcare, Creative Artists, Events), in force since 1 April 2021 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153), [354](https://fedlex.data.admin.ch/eli/oc/2021/354); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
 [^15-3]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^15-4]: Amended by No. I of th FA of 17 Dec. 2021, in force from 1 Jan. 2022 to 31 Dec. 2022 ([AS 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878); [BBl 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
+[^15-4]: Amended by No I of the FA of 17 Dec. 2021, in force from 1 Jan. 2022 to 31 Dec. 2022 ([AS 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878); [BBl 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
 
 #### Art. 16
 
@@ -570,8 +540,8 @@ The Federal Council may issue provisions in derogation from the Unemployment Ins
 [^17-4]: Applies until 31 Dec. 2023 (Art. 21 para. 7).
 [^17-5]: In force until 31 Dec. 2022 ([AS 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)No II para. 2; [BBl 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
 [^17-6]: In force until 31 Dec. 2022 ([AS 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)No II para. 2; [BBl 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
-[^17-7]: Inserted by No I of the FA of 18 Dec. 2020 (Culture. Hardship Cases. Sport, Unemployment Insurance, Fixed Penalty Fines), in force from 19 Dec. 2020 to 31 Dec. 2022 ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980), [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)No II para. 2; [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359), [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
-[^17-8]: Inserted by No I of the FA of 18 Dec. 2020 (Culture. Hardship Cases. Sport, Unemployment Insurance, Fixed Penalty Fines), in force from 1 Sept. 2020 to 31 Dec. 2022 ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)No II para. 2; [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
+[^17-7]: Inserted by No I of the FA of 18 Dec. 2020 (Culture. Hardship Cases. Sport, Unemployment Insurance, Fixed Penalty Fines), in force from 19 Dec. 2020 to 31 Dec. 2021, extended to 31 Dec. 2022 ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980), [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)No II para. 2; [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359), [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
+[^17-8]: Inserted by No I of the FA of 18 Dec. 2020 (Culture. Hardship Cases. Sport, Unemployment Insurance, Fixed Penalty Fines), in force from 19 Dec. 2020 to 31 Dec. 2021, extended to 31 Dec. 2022 ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980), [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)No II para. 2; [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359), [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
 [^17-9]: Inserted by No I of the FA of 19 March 2021 (Hardship Cases, Unemployment Insurance, Childcare, Creative Artists, Events), in force from 20 March 2021 to 31 Dec. 2022 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
 [^17-10]: Inserted by No I of the FA of 19 March 2021 (Hardship Cases, Unemployment Insurance, Childcare, Creative Artists, Events), in force from 20 March 2021 to 31 Dec. 2023 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
 [^17-11]: Inserted by No I of the FA of 19 March 2021 (Hardship Cases, Unemployment Insurance, Childcare, Creative Artists, Events), in force from 20 March 2021 to 31 Dec. 2023 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
@@ -587,12 +557,12 @@ In derogation from the UIA[^17a-2], short-time work compensation is calculated a
   where the monthly income of a person working full-time:
 
   - 1\. does not exceed 3470 francs, short-time work compensation amounts to 100 per cent of the allowable loss of earnings,
-  - 2\. is between 3470 and 4340 francs, short-time work compensation amounts to 3470 francs in the case of a complete loss of earnings; compensation for partial losses of earnings is calculated on a pro rata basisl,
+  - 2\. is between 3470 and 4340 francs, short-time work compensation amounts to 3470 francs in the case of a complete loss of earnings; compensation for partial losses of earnings is calculated on a pro rata basis,
   - 3\. exceeds 4340 francs, Article 34 paragraph 1 UIA applies unchanged;
 
 - b. in the case of part-time work, the income and the minimum amount for the short-time work compensation in accordance with letter a is calculated in proportion to the full-time equivalent.
 
-[^17a-1]: Inserted by No I of the FA of 18 Dec. 2020 (Culture. Hardship Cases. Sport, Unemployment Insurance, Fixed Penalty Fines), in force from 1 Dec. 2020 to 31 Dec. 2022 ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153), [354](https://fedlex.data.admin.ch/eli/oc/2021/354), [878](https://fedlex.data.admin.ch/eli/oc/2021/878)No II para. 2; [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359); [2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285), [1093](https://fedlex.data.admin.ch/eli/fga/2021/1093), [2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)). Correction by the FA Drafting Committee dated 25 Aug. 2021, published 2 Sept. 2021 ([AS 2021 527](https://fedlex.data.admin.ch/eli/oc/2021/527)).
+[^17a-1]: Inserted by No I of the FA of 18 Dec. 2020 (Culture. Hardship Cases. Sport, Unemployment Insurance, Fixed Penalty Fines), in force from 1 Dec. 2020 to 31 Dec. 2021, extended to 31 Dec. 2022 ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153), [354](https://fedlex.data.admin.ch/eli/oc/2021/354), [878](https://fedlex.data.admin.ch/eli/oc/2021/878)No II para. 2; [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359); [2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285), [1093](https://fedlex.data.admin.ch/eli/fga/2021/1093), [2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)). Correction by the FA Drafting Committee dated 25 Aug. 2021, published 2 Sept. 2021 ([AS 2021 527](https://fedlex.data.admin.ch/eli/oc/2021/527)).
 [^17a-2]: [SR 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
 
 #### Art. 17b
@@ -683,7 +653,7 @@ The Confederation shall keep regularly updated statistics on the financial assis
 
 <sup>11</sup> The term of application of Article 15 in accordance with paragraph 10 is extended until 31 December 2022.[^21-6]
 
-[^21-1]: Inserted by No I of the FA of 18 Dec. 2020 (Culture. Hardship Cases. Sport, Unemployment Insurance, Fixed Penalty Fines), in force from 19 Dec. 2020 until 31 Dec. 2031 ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [2021 924](https://fedlex.data.admin.ch/eli/oc/2021/924); [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359))..
+[^21-1]: Inserted by No I of the FA of 18 Dec. 2020 (Culture. Hardship Cases. Sport, Unemployment Insurance, Fixed Penalty Fines), in force from 19 Dec. 2020 until 31 Dec. 2031 ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [2021 924](https://fedlex.data.admin.ch/eli/oc/2021/924); [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
 [^21-2]: Inserted by No I of the FA of 18 Dec. 2020 (Culture. Hardship Cases. Sport, Unemployment Insurance, Fixed Penalty Fines), in force from 19 Dec. 2020 until 31 Dec. 2023 ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [2021 924](https://fedlex.data.admin.ch/eli/oc/2021/924); [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
 [^21-3]: Inserted by No I of the FA of 18 Dec. 2020 (Culture. Hardship Cases. Sport, Unemployment Insurance, Fixed Penalty Fines), ), in force from 19 Dec. 2020 until 31 Dec. 2031 ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [2021 924](https://fedlex.data.admin.ch/eli/oc/2021/924); [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
 [^21-4]: Inserted by No I of the FA of 18 Dec. 2020 (Culture. Hardship Cases. Sport, Unemployment Insurance, Fixed Penalty Fines), in force since 19 Dec. 2020 ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
