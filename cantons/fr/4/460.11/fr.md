@@ -4,13 +4,12 @@ number: "460.11"
 title: Règlement sur le sport
 short: RSport
 language: fr
-version: 2015-08-01
-valid_until: 2022-06-30
-version_adopted: 2015-07-09
+version: 2022-07-01
+version_adopted: 2022-07-04
 adopted: 2011-12-20
 in_force: 2012-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/460.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5228/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8571/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Sport – R
 
 (RSport)
 
-du 20.12.2011 (version entrée en vigueur le 01.08.2015)
+du 20.12.2011 (version entrée en vigueur le 01.07.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -37,7 +36,9 @@ Arrête:
 
 **Objet**
 
-<sup>1</sup> Le présent règlement fixe les modalités d'application de la loi sur le sport.
+<sup>1</sup> Le présent règlement fixe les modalités d'application de la loi sur le sport[^1-1].
+
+[^1-1]: RSF [460.1](https://bdlf.fr.ch/data/460.1/fr)
 
 #### Art. 2
 
@@ -51,11 +52,11 @@ Arrête:
 
 **Respect des valeurs éthiques et de la sécurité dans le sport – Etablissement de directives et recommandations**
 
-<sup>1</sup> La Direction de l'instruction publique, de la culture et du sport (ci-après: la Direction) peut édicter des directives dans le domaine du sport scolaire portant sur le respect des valeurs éthiques et la sécurité dans le sport.
+<sup>1</sup> La Direction de la formation et des affaires culturelles peut adopter des directives dans le domaine du sport scolaire portant sur le respect des valeurs éthiques et la sécurité dans le sport scolaire.
 
-<sup>2</sup> Au même titre, elle peut adopter des recommandations pour le sport de loisir et de performance.
+<sup>2</sup> La Direction de la sécurité, de la justice et du sport peut adopter des directives et recommandations pour le sport de loisir et de performance.
 
-<sup>3</sup> Elle consulte au préalable la Commission cantonale du sport et de l'éducation physique (ci-après: la Commission).
+<sup>3</sup> Le Service du sport (ci-après: le Service) consulte au préalable la Commission cantonale du sport et de l'éducation physique (ci-après: la Commission). Les propositions sont adoptées par les Directions compétentes.
 
 #### Art. 4
 
@@ -73,7 +74,7 @@ Arrête:
 
 **Sport scolaire obligatoire – Surveillance**
 
-<sup>1</sup> La Direction veille, par le Service du sport (ci-après: le Service), à l'application de la législation fédérale relative à l'encouragement du sport et de l'activité physique dans les écoles publiques.
+<sup>1</sup> La Direction de la formation et des affaires culturelles veille, par le Service, à l'application de la législation fédérale relative à l'encouragement du sport et de l'activité physique dans les écoles publiques.
 
 #### Art. 6
 
@@ -109,7 +110,7 @@ Arrête:
 
 <sup>2</sup> La participation de l'Etat aux indemnités s'élève, sur la base de tarifs unifiés sur le plan cantonal, à 50 % pour l'école obligatoire, le solde étant supporté par les communes. Pour l'enseignement secondaire supérieur, l'Etat prend en charge l'entier des indemnités.
 
-<sup>3</sup> La Direction fixe les conditions d'octroi d'une participation aux indemnités des moniteurs et monitrices, notamment en ce qui concerne la fréquence, la durée, l'infrastructure, la sécurité ainsi que la formation des intervenants et intervenantes requis pour les activités relevant du sport scolaire facultatif.
+<sup>3</sup> La Direction de la sécurité, de la justice et du sport fixe les conditions d'octroi d'une participation aux indemnités des moniteurs et monitrices, notamment en ce qui concerne la fréquence, la durée, l'infrastructure, la sécurité ainsi que la formation des intervenants et intervenantes requis pour les activités relevant du sport scolaire facultatif.
 
 #### Art. 10
 
@@ -127,15 +128,15 @@ Arrête:
 
 <sup>2</sup> Pour les activités sportives à but non lucratif destinées aux jeunes de moins de 20 ans, l'Etat et les communes se limitent à prélever un émolument pour les frais de conciergerie.
 
-<sup>3</sup> La Direction détermine, en collaboration avec la Direction chargée des bâtiments et du mobilier de l'Etat (Direction de l'aménagement, de l'environnement et des constructions), les conditions d'utilisation des infrastructures sportives de l'Etat et fixe les émoluments pour les frais de personnel et d'utilisation.
+<sup>3</sup> La Direction de la sécurité, de la justice et du sport détermine, en collaboration avec la Direction chargée des bâtiments et du mobilier de l'Etat (Direction du développement territorial, des infrastructures, de la mobilité et de l'environnement), les conditions d'utilisation des infrastructures sportives de l'Etat et fixe les émoluments pour les frais de personnel et d'utilisation.
 
 #### Art. 12
 
 **Programme «sports-arts-formation» – But et organisation**
 
-<sup>1</sup> L'Etat met en œuvre un programme «sports-arts-formation» permettant aux jeunes sportifs et sportives de talent de concilier leur formation scolaire et la pratique d'un sport de haut niveau.
+<sup>1</sup> L'Etat met en œuvre un programme «sports-arts-formation», piloté par le Service, lequel gère un guichet unique pour les artistes et sportifs et sportives de talent (ci-après: le guichet), permettant aux jeunes sportifs et sportives de talent de concilier leur formation scolaire et la pratique d'un sport de haut niveau.
 
-<sup>2</sup> La Direction détermine la procédure d'admission, les mesures ainsi que l'organisation du programme.
+<sup>2</sup> La Direction de la sécurité, de la justice et du sport détermine la procédure d'admission et l'organisation du programme. La Direction de la formation et des affaires culturelles détermine les mesures scolaires.
 
 <sup>3</sup> Les mesures scolaires du programme ressortissent à la législation scolaire.
 
@@ -143,7 +144,7 @@ Arrête:
 
 **Programme «sports-arts-formation» – Conditions d'admission**
 
-<sup>1</sup> Le programme est, en principe, réservé aux élèves du degré secondaire, pratiquant un sport reconnu par la Direction.
+<sup>1</sup> Le programme est, en principe, réservé aux élèves du degré secondaire, pratiquant un sport reconnu par la Direction de la sécurité, de la justice et du sport.
 
 <sup>2</sup> Peuvent être admis au programme les jeunes sportifs et sportives de talent qui remplissent en outre les conditions suivantes:
 
@@ -156,27 +157,31 @@ Arrête:
 
 #### Art. 14
 
-**Programme «sports-arts-formation» – Demande**
+**Programme «sports-arts-formation» – Décision d'admission**
 
-<sup>1</sup> La demande doit être adressée au Service, jusqu'au 15 février précédant l'année scolaire suivante.
+<sup>1</sup> La demande doit être adressée au guichet, jusqu'au 15 février précédant l'année scolaire suivante.
 
-<sup>2</sup> Le Service examine si toutes les conditions de l'article 13 sont remplies et transmet son préavis à la direction d'école compétente.
+<sup>2</sup> Le Service examine si toutes les conditions de l'article 13 sont remplies et transmet sa décision à l'élève ainsi que la liste des décisions prises à la direction d'école compétente.
+
+<sup>3</sup> La décision d'admission au programme n'est valable que pour la durée d'une année scolaire et peut être renouvelée, le cas échéant, si toutes les conditions fixées par l'article 13 sont remplies et si les engagements de la convention ont été pleinement respectés.
 
 #### Art. 15
 
-**Programme «sports-arts-formation» – Décision**
+**Programme «sports-arts-formation» – Décision sur les mesures scolaires**
 
-<sup>1</sup> La direction de l'école décide de l'admission d'un ou d'une élève au programme, en tenant compte du préavis du Service.
+<sup>1</sup> La direction de l'école décide des mesures scolaires en faveur d'un ou d'une élève admis-e au programme, en tenant compte de la décision du Service.
+
+<sup>1a</sup> Elle statue rapidement dès réception de la décision du Service et en informe ce dernier.
 
 <sup>2</sup> Elle est habilitée à conclure une convention avec la personne admise, fixant les mesures convenues, les devoirs spécifiques relatifs au suivi scolaire et à la pratique du sport ainsi que les conséquences possibles de leur inobservation.
 
-<sup>3</sup> La décision d'admission au programme n'est valable que pour la durée d'une année scolaire et peut être renouvelée, le cas échéant, si toutes les conditions fixées par l'article 13 sont remplies et si les engagements de la convention ont été pleinement respectés.
+<sup>3</sup> Les mesures scolaires ne sont valables que pour la durée d'une année scolaire et peuvent être renouvelées, le cas échéant, si toutes les conditions fixées par l'article 13 sont remplies et si les engagements de la convention ont été pleinement respectés.
 
 #### Art. 16
 
 **Prise en charge de frais d'écolage dans un autre canton – Conditions**
 
-<sup>1</sup> Lorsque, à défaut de structures de formation sportive cantonales reconnues par la Direction, le lieu de pratique, à haut niveau, d'un sport se situe dans un autre canton, l'Etat peut contribuer aux frais d'écolage de jeunes sportifs ou sportives de talent.
+<sup>1</sup> Lorsque, à défaut de structures de formation sportive cantonales reconnues par la Direction de la sécurité, de la justice et du sport, le lieu de pratique, à haut niveau, d'un sport se situe dans un autre canton, l'Etat peut contribuer aux frais d'écolage de jeunes sportifs ou sportives de talent.
 
 <sup>2</sup> Peuvent bénéficier d'une aide selon l'alinéa 1 les jeunes sportifs et sportives de talent qui remplissent en outre les conditions suivantes:
 
@@ -194,19 +199,21 @@ Arrête:
 
 #### Art. 17
 
-**Prise en charge de frais d'écolage dans un autre canton – Demande**
+**Prise en charge de frais d'écolage dans un autre canton – Décision sur le principe**
 
-<sup>1</sup> La demande doit être adressée au Service, jusqu'au 15 février précédant l'année scolaire suivante.
+<sup>1</sup> La demande doit être adressée au guichet, jusqu'au 15 février précédant l'année scolaire suivante.
 
-<sup>2</sup> Le Service examine si toutes les conditions de l'article 16 sont remplies et transmet son préavis à la Direction.
+<sup>2</sup> La Direction de la sécurité, de la justice et du sport, par le biais de son Service, examine si toutes les conditions de l'article 16 sont remplies et transmet sa décision à la Direction de la formation et des affaires culturelles.
 
 #### Art. 18
 
-**Prise en charge de frais d'écolage dans un autre canton – Décision**
+**Prise en charge de frais d'écolage dans un autre canton – Décision sur le montant**
 
-<sup>1</sup> La Direction décide du principe et du montant de la prise en charge des frais d'écolage dans un autre canton.
+<sup>1</sup> La Direction de la formation et des affaires culturelles décide du montant de la prise en charge des frais d'écolage dans un autre canton.
 
-<sup>2</sup> Le montant de l'aide ne peut pas dépasser les contributions cantonales fixées par les conventions scolaires régionales et intercantonales en matière de fréquentation d'une école dans un canton autre que celui de domicile pour le degré scolaire et la filière de formation correspondants.
+<sup>2</sup> Le montant de l'aide ne peut pas dépasser les contributions cantonales fixées par les conventions scolaires régionales et intercantonales en matière de fréquentation d'une école dans un canton autre que celui de domicile pour le degré scolaire et la filière de formation correspondants, y compris lorsque le canton d'accueil n'est pas conventionné.
+
+<sup>2a</sup> A défaut de convention scolaire avec le canton d'accueil, les frais d'écolage dans un autre canton sont pris en charge par le biais du Fonds cantonal du sport.
 
 <sup>3</sup> La décision de participation aux frais d'écolage n'est valable que pour la durée d'une année scolaire et peut être renouvelée, le cas échéant, si toutes les conditions de l'article 16 sont remplies.
 
@@ -227,7 +234,7 @@ Arrête:
 - c) qu'elle soit exploitée sans but commercial et/ou touristique exclusif ou prépondérant;
 - d) que l'accessibilité du public, des sociétés et des écoles aux installations sportives soit garantie.
 
-<sup>2</sup> La Direction fixe la procédure et les modalités d'octroi d'une aide et décide de l'utilisation du Fonds.
+<sup>2</sup> La Direction de la sécurité, de la justice et du sport fixe la procédure et les modalités d'octroi d'une aide et décide de l'utilisation du Fonds.
 
 <sup>3</sup> Toutefois, l'attribution d'un montant supérieur à 50'000 francs relève de la compétence du Conseil d'Etat.
 
@@ -251,7 +258,7 @@ Arrête:
 
 **Manifestations sportives – Aides financières**
 
-<sup>1</sup> Lorsque les circonstances le justifient, l'Etat peut également, dans les limites des disponibilités du Fonds cantonal du sport, contribuer financièrement à des manifestations d'envergure organisées sur sol fribourgeois selon l'article 9 al. 2 de la loi, à l'exception de celles qui poursuivent un but commercial et/ou touristique exclusif ou prépondérant.
+<sup>1</sup> Lorsque les circonstances le justifient, l'Etat peut également, dans les limites des disponibilités du Fonds cantonal du sport, contribuer financièrement à des manifestations d'envergure organisées sur sol fribourgeois selon l'article 9 al. 2 de la loi[^23-1], à l'exception de celles qui poursuivent un but commercial et/ou touristique exclusif ou prépondérant.
 
 <sup>2</sup> Dans ses appréciations, il tient notamment compte des critères suivants:
 
@@ -260,6 +267,8 @@ Arrête:
 - c) les prestations des districts, des communes et des tiers concernés;
 - d) le nombre de participants et participantes;
 - e) le respect par les organisateurs et organisatrices des recommandations les concernant, notamment en matière de respect de l'éthique, de sécurité, de prévention d'accidents et d'abus, de dopage et de développement durable dans le sport.
+
+[^23-1]: RSF [460.1](https://bdlf.fr.ch/data/460.1/fr)
 
 ## 3 Moyens
 
@@ -305,7 +314,7 @@ Arrête:
 
 <sup>1</sup> Le concept cantonal du sport est élaboré par le Service, qui associe la Commission à ses travaux.
 
-<sup>2</sup> Le concept est adopté par le Conseil d'Etat, sur la proposition de la Direction.
+<sup>2</sup> Le concept est adopté par le Conseil d'Etat, sur la proposition de la Direction de la sécurité, de la justice et du sport.
 
 <sup>3</sup> Il est adapté chaque fois que les circonstances le justifient, mais en règle générale en concertation avec le Programme gouvernemental de législature.
 
@@ -315,7 +324,7 @@ Arrête:
 
 **Attributions du Service du sport**
 
-<sup>1</sup> Le Service a notamment les attributions suivantes, qu'il exerce sous l'autorité de la Direction:
+<sup>1</sup> Le Service a notamment les attributions suivantes, qu'il exerce sous l'autorité de la Direction de la sécurité, de la justice et du sport:
 
 - a) il accomplit toutes les tâches et exerce toutes les compétences que les législations fédérale et cantonale attribuent au canton en matière de sport et qui ne sont pas réservées à d'autres autorités;
 - b) il veille à la coordination des activités de l'Etat dans le domaine du sport et de l'éducation physique;

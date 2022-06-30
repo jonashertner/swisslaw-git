@@ -4,13 +4,12 @@ number: "460.11"
 title: Reglement über den Sport
 short: SportR
 language: de
-version: 2015-08-01
-valid_until: 2022-06-30
-version_adopted: 2015-07-09
+version: 2022-07-01
+version_adopted: 2022-07-04
 adopted: 2011-12-20
 in_force: 2012-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/460.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/5228/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8571/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Sport – R
 
 (SportR)
 
-vom 20.12.2011 (Fassung in Kraft getreten am 01.08.2015)
+vom 20.12.2011 (Fassung in Kraft getreten am 01.07.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -37,7 +36,9 @@ beschliesst:
 
 **Gegenstand**
 
-<sup>1</sup> Dieses Reglement legt die Modalitäten für die Ausführung des Sportgesetzes (SportG) fest.
+<sup>1</sup> Dieses Reglement legt die Modalitäten für die Ausführung des Sportgesetzes (SportG[^1-1]) fest.
+
+[^1-1]: SGF [460.1](https://bdlf.fr.ch/data/460.1/de)
 
 #### Art. 2
 
@@ -51,11 +52,11 @@ beschliesst:
 
 **Achtung der Fairness und der Sicherheit im Sport – Erlass von Weisungen und Empfehlungen**
 
-<sup>1</sup> Die Direktion für Erziehung, Kultur und Sport (die Direktion) kann für den Schulsport Weisungen zur Einhaltung von Fairness und Sicherheit im Sport erlassen.
+<sup>1</sup> Die Direktion für Bildung und kulturelle Angelegenheiten kann für den Schulsport Weisungen zur Einhaltung von Fairness und Sicherheit im Schulsport erlassen.
 
-<sup>2</sup> Zum gleichen Zweck kann sie Empfehlungen für den Freizeitsport und den Leistungssport verabschieden.
+<sup>2</sup> Die Sicherheits-, Justiz- und Sportdirektion kann Weisungen und Empfehlungen für den Freizeitsport und den Leistungssport erlassen.
 
-<sup>3</sup> Vorgängig hört sie die kantonale Sportkommission (die Kommission) an.
+<sup>3</sup> Das Amt für Sport (das Amt) hört vorgängig die kantonale Sportkommission (die Kommission) an. Die Anträge werden von den zuständigen Direktionen verabschiedet.
 
 #### Art. 4
 
@@ -73,7 +74,7 @@ beschliesst:
 
 **Obligatorischer Schulsport – Aufsicht**
 
-<sup>1</sup> Die Direktion sorgt durch das Amt für Sport (das Amt) für die Ausführung der Bundesgesetzgebung über die Förderung von Sport und Bewegung in den öffentlichen Schulen.
+<sup>1</sup> Die Direktion für Bildung und kulturelle Angelegenheiten sorgt durch das Amt für die Ausführung der Bundesgesetzgebung über die Förderung von Sport und Bewegung in den öffentlichen Schulen.
 
 #### Art. 6
 
@@ -109,7 +110,7 @@ beschliesst:
 
 <sup>2</sup> Der Staat übernimmt auf der Grundlage kantonaler Einheitstarife für die obligatorische Schule 50 % der Entschädigungen; der Restbetrag wird von den Gemeinden getragen. Bei den Schulen der Sekundarstufe 2 trägt der Staat die gesamten Kosten der Entschädigungen.
 
-<sup>3</sup> Die Direktion legt die Bedingungen für die Gewährung von Beiträgen an die Entschädigungen für Kursleiterinnen und Kursleiter fest, insbesondere die Anforderungen an Häufigkeit und Dauer der Aktivität, an die Infrastruktur und Sicherheit sowie an die Ausbildung der Kursleiterinnen und Kursleiter des freiwilligen Schulsports.
+<sup>3</sup> Die Sicherheits-, Justiz- und Sportdirektion legt die Bedingungen für die Gewährung von Beiträgen an die Entschädigungen für Kursleiterinnen und Kursleiter fest, insbesondere die Anforderungen an Häufigkeit und Dauer der Aktivität, an die Infrastruktur und Sicherheit sowie an die Ausbildung der Kursleiterinnen und Kursleiter des freiwilligen Schulsports.
 
 #### Art. 10
 
@@ -127,15 +128,15 @@ beschliesst:
 
 <sup>2</sup> Für nicht gewinnorientierte Sportaktivitäten zugunsten von Jugendlichen unter 20 Jahren erheben der Staat und die Gemeinden lediglich eine Gebühr für die Hauswartkosten.
 
-<sup>3</sup> Die Direktion legt zusammen mit der für die Gebäude und das Mobiliar des Staates zuständigen Direktion (Raumplanungs-, Umwelt- und Baudirektion) die Bedingungen für die Nutzung der Sportanlagen des Staates fest und bestimmt die Höhe der Gebühren für die Personal- und die Benutzungskosten.
+<sup>3</sup> Die Sicherheits-, Justiz- und Sportdirektion legt zusammen mit der für die Gebäude und das Mobiliar des Staates zuständigen Direktion (Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt) die Bedingungen für die Nutzung der Sportanlagen des Staates fest und bestimmt die Höhe der Gebühren für die Personal- und die Benutzungskosten.
 
 #### Art. 12
 
 **Förderprogramm «Sport-Kunst-Ausbildung» – Zweck und Organisation**
 
-<sup>1</sup> Der Staat schafft ein Förderprogramm «Sport-Kunst-Ausbildung», das jungen Nachwuchssportlerinnen und Nachwuchssportlern erlauben soll, ihre schulische Ausbildung mit der Ausübung eines Spitzensports zu verbinden.
+<sup>1</sup> Der Staat schafft ein Förderprogramm «Sport-Kunst-Ausbildung» unter der Leitung des Amts, das jungen Nachwuchssportlerinnen und Nachwuchssportlern erlauben soll, ihre schulische Ausbildung mit der Ausübung eines Spitzensports zu verbinden; das Amt betreibt dafür eine zentrale Anlaufstelle für Sport- und Kunsttalente (die zentrale Anlaufstelle).
 
-<sup>2</sup> Die Direktion legt das Zulassungsverfahren, die Massnahmen und die Organisation des Förderprogramms fest.
+<sup>2</sup> Die Sicherheits-, Justiz- und Sportdirektion legt das Zulassungsverfahren und die Organisation des Förderprogramms fest. Die Direktion für Bildung und kulturelle Angelegenheiten legt die schulischen Massnahmen fest.
 
 <sup>3</sup> Die schulischen Massnahmen des Förderprogramms werden in der Schulgesetzgebung geregelt.
 
@@ -143,7 +144,7 @@ beschliesst:
 
 **Förderprogramm «Sport-Kunst-Ausbildung» – Zulassungsvoraussetzungen**
 
-<sup>1</sup> Grundsätzlich ist das Förderprogramm den Schülerinnen und Schülern der Sekundarstufe vorbehalten, die einen von der Direktion anerkannten Sport ausüben.
+<sup>1</sup> Das Förderprogramm ist grundsätzlich den Schülerinnen und Schülern der Sekundarstufe vorbehalten, die einen von der Sicherheits-, Justiz- und Sportdirektion anerkannten Sport ausüben.
 
 <sup>2</sup> Zum Förderprogramm zugelassen werden können junge Nachwuchssportlerinnen und Nachwuchssportler, sofern sie ausserdem folgende Voraussetzungen erfüllen:
 
@@ -156,27 +157,31 @@ beschliesst:
 
 #### Art. 14
 
-**Förderprogramm «Sport-Kunst-Ausbildung» – Gesuch**
+**Förderprogramm «Sport-Kunst-Ausbildung» – Zulassungsentscheid**
 
-<sup>1</sup> Das Gesuch ist jeweils bis zum 15. Februar vor Beginn des folgenden Schuljahres an das Amt zu richten.
+<sup>1</sup> Das Gesuch ist jeweils bis zum 15. Februar vor Beginn des folgenden Schuljahres an die zentrale Anlaufstelle zu richten.
 
-<sup>2</sup> Das Amt prüft, ob alle Voraussetzungen gemäss Artikel 13 erfüllt sind und teilt seine Stellungnahme der zuständigen Schuldirektion mit.
+<sup>2</sup> Das Amt prüft, ob alle Voraussetzungen gemäss Artikel 13 erfüllt sind, teilt seinen Entscheid der Schülerin oder dem Schüler mit und lässt eine Liste der Entscheide der zuständigen Schuldirektion zukommen.
+
+<sup>3</sup> Der Entscheid über die Zulassung zum Programm ist nur für ein Schuljahr gültig. Er kann gegebenenfalls verlängert werden, wenn alle Voraussetzungen gemäss Artikel 13 erfüllt sind und die Verpflichtungen der Vereinbarung vollumfänglich eingehalten wurden.
 
 #### Art. 15
 
-**Förderprogramm «Sport-Kunst-Ausbildung» – Entscheid**
+**Förderprogramm «Sport-Kunst-Ausbildung» – Entscheid über schulische Massnahmen**
 
-<sup>1</sup> Die Schuldirektion entscheidet unter Berücksichtigung der Stellungnahme des Amtes über die Zulassung einer Schülerin oder eines Schülers zum Förderprogramm.
+<sup>1</sup> Die Schuldirektion entscheidet unter Berücksichtigung des Entscheids des Amtes über die schulischen Massnahmen für eine Schülerin oder einen Schüler, die oder der zum Förderprogramm zugelassen wurde.
+
+<sup>1a</sup> Sie entscheidet rasch nach Erhalt des Entscheids des Amtes und informiert dieses.
 
 <sup>2</sup> Sie kann mit der zugelassenen Person eine Vereinbarung abschliessen, in der die vorgesehenen Massnahmen, die besonderen Pflichten beim Schulbesuch und bei der Ausübung des Sports sowie die möglichen Folgen einer Missachtung dieser Pflichten festgelegt werden.
 
-<sup>3</sup> Der Entscheid über die Zulassung zum Programm ist nur für ein Schuljahr gültig. Er kann gegebenenfalls verlängert werden, wenn alle Voraussetzungen gemäss Artikel 13 erfüllt sind und die Verpflichtungen der Vereinbarung vollumfänglich eingehalten wurden.
+<sup>3</sup> Die schulischen Massnahmen sind nur für ein Schuljahr gültig. Sie können gegebenenfalls verlängert werden, wenn alle Voraussetzungen gemäss Artikel 13 erfüllt sind und die Verpflichtungen der Vereinbarung vollumfänglich eingehalten wurden.
 
 #### Art. 16
 
 **Übernahme von Schulkosten in einem anderen Kanton – Voraussetzungen**
 
-<sup>1</sup> Befindet sich der Ausübungsort eines Spitzensports in einem anderen Kanton, da im Kanton Freiburg keine von der Direktion anerkannten Ausbildungsstrukturen vorhanden sind, so kann der Staat Beiträge an die Schulkosten von jungen Nachwuchssportlerinnen oder Nachwuchssportlern leisten.
+<sup>1</sup> Befindet sich der Ausübungsort eines Spitzensports in einem anderen Kanton, da im Kanton Freiburg keine von der Sicherheits-, Justiz- und Sportdirektion anerkannten Ausbildungsstrukturen vorhanden sind, so kann der Staat Beiträge an die Schulkosten von jungen Nachwuchssportlerinnen oder Nachwuchssportlern leisten.
 
 <sup>2</sup> Einen Beitrag gemäss Absatz 1 können junge Nachwuchssportlerinnen und Nachwuchssportler erhalten, die ausserdem folgende Voraussetzungen erfüllen:
 
@@ -194,19 +199,21 @@ beschliesst:
 
 #### Art. 17
 
-**Übernahme von Schulkosten in einem anderen Kanton – Gesuch**
+**Übernahme von Schulkosten in einem anderen Kanton – Entscheid über den Grundsatz**
 
-<sup>1</sup> Das Gesuch ist jeweils bis zum 15. Februar vor Beginn des folgenden Schuljahres an das Amt zu richten.
+<sup>1</sup> Das Gesuch ist jeweils bis zum 15. Februar vor Beginn des folgenden Schuljahres an die zentrale Anlaufstelle zu richten.
 
-<sup>2</sup> Das Amt prüft, ob alle Voraussetzungen gemäss Artikel 16 erfüllt sind, und teilt seine Stellungnahme der Direktion mit.
+<sup>2</sup> Die Sicherheits-, Justiz- und Sportdirektion prüft durch ihr Amt, ob alle Voraussetzungen gemäss Artikel 16 erfüllt sind, und teilt ihren Entscheid der Direktion für Bildung und kulturelle Angelegenheiten mit.
 
 #### Art. 18
 
-**Übernahme von Schulkosten in einem anderen Kanton – Entscheid**
+**Übernahme von Schulkosten in einem anderen Kanton – Entscheid über die Höhe des Beitrags**
 
-<sup>1</sup> Die Direktion entscheidet über den Grundsatz der Beitragsleistung und die Höhe des Beitrags an die Schulkosten in einem anderen Kanton.
+<sup>1</sup> Die Direktion für Bildung und kulturelle Angelegenheiten entscheidet über die Höhe des Beitrags an die Schulkosten in einem anderen Kanton.
 
-<sup>2</sup> Der Beitrag darf die in den regionalen und interkantonalen Schulvereinbarungen für den Schulbesuch ausserhalb des Wohnkantons festgelegten Kantonsbeiträge für die entsprechende Schulstufe oder den entsprechenden Ausbildungsgang nicht überschreiten.
+<sup>2</sup> Der Beitrag darf die in den regionalen und interkantonalen Schulvereinbarungen für den Schulbesuch ausserhalb des Wohnkantons festgelegten Kantonsbeiträge für die entsprechende Schulstufe oder den entsprechenden Ausbildungsgang nicht überschreiten, auch dann, wenn mit dem Aufnahmekanton keine Vereinbarung abgeschlossen wurde.
+
+<sup>2a</sup> Wenn mit dem Aufnahmekanton keine Schulvereinbarung abgeschlossen wurde, übernimmt der kantonale Sportfonds die Schulkosten.
 
 <sup>3</sup> Der Entscheid über die Beitragsleistung an die Schulkosten ist nur für ein Schuljahr gültig. Er kann gegebenenfalls verlängert werden, wenn alle Voraussetzungen gemäss Artikel 16 erfüllt sind.
 
@@ -227,7 +234,7 @@ beschliesst:
 - c) Sie wird nicht ausschliesslich oder hauptsächlich kommerziell und/oder touristisch genutzt.
 - d) Der Zugang der Bevölkerung, der Vereine und der Schulen zur Sportanlage ist gewährleistet.
 
-<sup>2</sup> Die Direktion legt das Verfahren und die Modalitäten einer Beitragsgewährung fest und entscheidet über die Verwendung der Fondsmittel.
+<sup>2</sup> Die Sicherheits-, Justiz- und Sportdirektion legt das Verfahren und die Modalitäten einer Beitragsgewährung fest und entscheidet über die Verwendung der Fondsmittel.
 
 <sup>3</sup> Für die Gewährung von Beiträgen über 50'000 Franken ist der Staatsrat zuständig.
 
@@ -251,7 +258,7 @@ beschliesst:
 
 **Sportveranstaltungen – Finanzhilfen**
 
-<sup>1</sup> Wenn die Umstände es rechtfertigen, kann sich der Staat, in den Grenzen der verfügbaren Mittel des kantonalen Sportfonds, auch an der Finanzierung von Grossveranstaltungen gemäss Artikel 9 Abs. 2 des Gesetzes beteiligen, die auf Freiburger Boden stattfinden. Nicht unterstützt werden Veranstaltungen, die ausschliesslich oder hauptsächlich kommerzielle und/oder touristische Zwecke verfolgen.
+<sup>1</sup> Wenn die Umstände es rechtfertigen, kann sich der Staat, in den Grenzen der verfügbaren Mittel des kantonalen Sportfonds, auch an der Finanzierung von Grossveranstaltungen gemäss Artikel 9 Abs. 2 des Gesetzes[^23-1] beteiligen, die auf Freiburger Boden stattfinden. Nicht unterstützt werden Veranstaltungen, die ausschliesslich oder hauptsächlich kommerzielle und/oder touristische Zwecke verfolgen.
 
 <sup>2</sup> In seiner Beurteilung berücksichtigt er namentlich folgende Kriterien:
 
@@ -260,6 +267,8 @@ beschliesst:
 - c) die Leistungen der betreffenden Bezirke, Gemeinden und Drittpersonen;
 - d) die Teilnehmerzahl;
 - e) die Einhaltung der sie betreffenden Empfehlungen durch die Organisatorinnen oder Organisatoren, vor allem bei der Fairness und Sicherheit, bei der Unfall- und Missbrauchsprävention, beim Doping und bei der Nachhaltigkeit im Sport.
+
+[^23-1]: SGF [460.1](https://bdlf.fr.ch/data/460.1/de)
 
 ## 3 Mittel
 
@@ -305,7 +314,7 @@ beschliesst:
 
 <sup>1</sup> Das kantonale Sportkonzept wird vom Amt gemeinsam mit der Kommission ausgearbeitet.
 
-<sup>2</sup> Das Konzept wird auf Antrag der Direktion vom Staatsrat genehmigt.
+<sup>2</sup> Das Konzept wird auf Antrag der Sicherheits-, Justiz- und Sportdirektion vom Staatsrat genehmigt.
 
 <sup>3</sup> Es wird angepasst, wann immer es die Umstände rechtfertigen, in der Regel jedoch in Abstimmung mit dem Regierungsprogramm der Legislaturperiode.
 
@@ -315,7 +324,7 @@ beschliesst:
 
 **Befugnisse des Amts für Sport**
 
-<sup>1</sup> Das Amt hat namentlich folgende Befugnisse, die es unter der Aufsicht der Direktion ausübt:
+<sup>1</sup> Das Amt hat namentlich folgende Befugnisse, die es unter der Aufsicht der Sicherheits-, Justiz- und Sportdirektion ausübt:
 
 - a) Es erfüllt alle Aufgaben und übt alle Befugnisse aus, die Bundes- und kantonale Sportgesetzgebung ihm übertragen und die nicht anderen Behörden vorbehalten sind.
 - b) Es sorgt für die Koordination der Aktivitäten des Staates im Bereich von Sport und Sporterziehung.
