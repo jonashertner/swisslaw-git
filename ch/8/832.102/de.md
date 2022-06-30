@@ -4,11 +4,11 @@ title: Verordnung vom 27. Juni 1995 über die Krankenversicherung (KVV)
 short: KVV
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867"
 language: de
-version: 2022-01-01
+version: 2022-07-01
 adopted: 1995-06-27
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20220701/de/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20220701-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20220701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20220101/de"
 
 (KVV)
 
-vom 27. Juni 1995 (Stand am 1. Januar 2022)
+vom 27. Juni 1995 (Stand am 1. Juli 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -826,7 +826,7 @@ Bei Personen, die in einem Mitgliedstaat der Europäischen Union, in Island, in 
 
 [^37-1]: Fassung gemäss Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2019 ([AS 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
 
-### 3. Kapitel:**** Kommissionen
+### 3. Kapitel: Kommissionen
 
 [^part1-tit3-chap3-1]
 
@@ -1287,9 +1287,25 @@ Neuropsychologen und Neuropsychologinnen werden zugelassen, wenn sie die folgend
 
 #### Art. 50c
 
-[^50c-1]
+**Psychologische Psychotherapeuten und psychologische Psychotherapeutinnen**[^50c-1]
 
-[^50c-1]: Tritt am 1. Juli 2022 in Kraft ([AS 2021 188](https://fedlex.data.admin.ch/eli/oc/2021/188), [439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+Psychologische Psychotherapeuten und psychologische Psychotherapeutinnen werden zugelassen, wenn sie die folgenden Voraussetzungen erfüllen:
+
+- a. Sie verfügen über eine kantonale Bewilligung für die Ausübung des Psychotherapieberufs nach Artikel 22 PsyG[^50c-2].
+- b.
+
+  Sie haben eine klinische Erfahrung von drei Jahren, davon mindestens 12 Monate in psychotherapeutisch-psychiatrischen Einrichtungen, die über eine der folgenden Anerkennungen des Schweizerischen Instituts für ärztliche Weiter- und Fortbildung (SIWF) verfügen:
+
+  - 1\. ambulante oder stationäre Weiterbildungsstätte der Kategorie A oder der Kategorie B nach dem Weiterbildungsprogramm «Facharzt für Psychiatrie und Psychotherapie» vom 1. Juli 2009[^50c-3] in der Fassung vom 15. Dezember 2016;
+  - 2\. Weiterbildungsstätte der Kategorien A, B oder C nach dem Weiterbildungsprogramm «Facharzt für Kinder- und Jugendpsychiatrie und ‑psychotherapie» vom 1. Juli 2006[^50c-4] in der Fassung vom 20. Dezember 2018.
+
+- c. Sie üben ihren Beruf selbstständig und auf eigene Rechnung aus.
+- d. Sie weisen nach, dass sie die Qualitätsanforderungen nach Artikel 58*g* erfüllen.
+
+[^50c-1]: Eingefügt durch Ziff. I der V vom 19. März 2021 ([AS 2021 188](https://fedlex.data.admin.ch/eli/oc/2021/188)). Fassung gemäss Ziff. I der V vom 23. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
+[^50c-2]: [SR 935.81](https://fedlex.data.admin.ch/eli/cc/2012/268)
+[^50c-3]: Das Dokument ist einsehbar unter: www.bag.admin.ch/ref.
+[^50c-4]: Das Dokument ist einsehbar unter: www.bag.admin.ch/ref.
 
 #### Art. 50d
 
@@ -1399,9 +1415,17 @@ Organisationen der Neuropsychologie werden zugelassen, wenn sie die folgenden Vo
 
 #### Art. 52e
 
-[^52e-1]
+**Organisationen der psychologischen Psychotherapie**[^52e-1]
 
-[^52e-1]: Tritt am 1. Juli 2022 in Kraft ([AS 2021 188](https://fedlex.data.admin.ch/eli/oc/2021/188), [439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+Organisationen der psychologischen Psychotherapie werden zugelassen, wenn sie die folgenden Voraussetzungen erfüllen:
+
+- a. Sie sind nach der Gesetzgebung des Kantons, in dem sie tätig sind, zugelassen.
+- b. Sie haben ihren örtlichen, zeitlichen, sachlichen und personellen Tätigkeitsbereich festgelegt.
+- c. Sie erbringen ihre Leistungen durch Personen, welche die Voraussetzungen nach Artikel 50*c* Buchstaben a und b erfüllen.
+- d. Sie verfügen über die für die Leistungserbringung notwendigen Einrichtungen.
+- e. Sie weisen nach, dass sie die Qualitätsanforderungen nach Artikel 58*g* erfüllen*.*
+
+[^52e-1]: Eingefügt durch Ziff. I der V vom 26. Mai 2021 ([AS 2021 188](https://fedlex.data.admin.ch/eli/oc/2021/188)). Fassung gemäss Ziff. I der V vom 23. Juni 2021, in Kraft seit 1. Juli 2022 ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
 #### Art. 52f
 
@@ -2794,7 +2818,7 @@ Die Prämien sind im Voraus und in der Regel monatlich zu bezahlen.
 
 [^92-1]: Aufgehoben durch Anhang Ziff. 3 der Krankenversicherungsaufsichtsverordnung vom 18. Nov. 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
 
-### 1*a*. Abschnitt:**** Prämien der Versicherten mit Wohnort in einem Mitgliedstaat der Europäischen Union, in Island oder Norwegen
+### 1*a*. Abschnitt:**** Prämien der Versicherten mit Wohnort in einem Mitgliedstaat der Europäischen Union, in Island oder Norwegen****
 
 [^part1-tit5-chap2-sec1a-1][^part1-tit5-chap2-sec1a-2]
 
@@ -2813,7 +2837,7 @@ Wohnt die versicherte Person im Ausland, so erhebt der Versicherer die Prämien 
 
 [^92b92c-1]: Aufgehoben durch Anhang Ziff. 3 der Krankenversicherungsaufsichtsverordnung vom 18. Nov. 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
 
-### 1*b*. Abschnitt:**** Prämien von nothilfeberechtigten Personen nach Artikel 82 AsylG
+### 1*b*. Abschnitt:**** Prämien von nothilfeberechtigten Personen nach Artikel 82 AsylG****
 
 [^part1-tit5-chap2-sec1b-1][^part1-tit5-chap2-sec1b-2]
 
@@ -3515,7 +3539,7 @@ Eine Überentschädigung bei Sachleistungen liegt in dem Masse vor, als die jewe
 
 [^123126-1]: Aufgehoben durch Ziff. I der V vom 11. Sept. 2002, mit Wirkung seit 1. Jan. 2003 ([AS 2002 3908](https://fedlex.data.admin.ch/eli/oc/2002/605)).
 
-## 4. Teil: Verfügung, Kosten der Bekanntgabe und Publikation von Daten****
+## 4. Teil: Verfügung, Kosten der Bekanntgabe und Publikation von Daten
 
 [^part4-1]
 
@@ -3923,19 +3947,25 @@ Für Gesuche um Anerkennung der Gleichwertigkeit von Weiterbildungstiteln in Lab
 
 [^u27-2]: [SR 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
 
-## Übergangsbestimmung zur Änderung vom 26. Mai 2021****
+## Übergangsbestimmung zur Änderung vom 19. März 2021****
 
 [^u28-1]
 
-[^u28-1]: [AS 2021 323](https://fedlex.data.admin.ch/eli/oc/2021/323). Aufgehoben durch Ziff. I der V vom 23. Juni 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^u28-1]: [AS 2021 188](https://fedlex.data.admin.ch/eli/oc/2021/188). Aufgehoben durch Ziff. I der V vom 23. Juni 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
-## Übergangsbestimmungen zur Änderung vom 23. Juni 2021****
+## Übergangsbestimmung zur Änderung vom 26. Mai 2021****
 
 [^u29-1]
 
-[^u29-1]: [AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)
+[^u29-1]: [AS 2021 323](https://fedlex.data.admin.ch/eli/oc/2021/323). Aufgehoben durch Ziff. I der V vom 23. Juni 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
-<sup>1</sup> Die Versicherer müssen den Kantonen innert sechs Monaten nach Inkrafttreten der Änderung vom 23. Juni 2021 die Daten zu den vor Inkrafttreten der Änderung des KVG vom 19. Juni 2020[^u29-2] auf ihrem Gebiet zugelassenen Leistungserbringern zukommen lassen.
+## Übergangsbestimmungen zur Änderung vom 23. Juni 2021****
+
+[^u30-1]
+
+[^u30-1]: [AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)
+
+<sup>1</sup> Die Versicherer müssen den Kantonen innert sechs Monaten nach Inkrafttreten der Änderung vom 23. Juni 2021 die Daten zu den vor Inkrafttreten der Änderung des KVG vom 19. Juni 2020[^u30-2] auf ihrem Gebiet zugelassenen Leistungserbringern zukommen lassen.
 
 <sup>2</sup> Die Listen der akutsomatischen Spitäler und der Geburtshäuser müssen innert vier Jahren nach Inkrafttreten der Änderung vom 23. Juni 2021 den Planungskriterien nach dieser Verordnung entsprechen.
 
@@ -3943,7 +3973,7 @@ Für Gesuche um Anerkennung der Gleichwertigkeit von Weiterbildungstiteln in Lab
 
 <sup>4</sup> Die Listen der Pflegeheime müssen innert fünf Jahren nach Inkrafttreten der Änderung vom 23. Juni 2021 den Planungskriterien nach dieser Verordnung entsprechen.
 
-<sup>5</sup> ...[^u29-3]
+<sup>5</sup> Psychologische Psychotherapeuten und psychologische Psychotherapeutinnen, die beim Inkrafttreten der Änderung vom 23. Juni 2021 über eine psychotherapeutische Berufserfahrung in der psychotherapeutisch-psychiatrischen Versorgung von mindestens drei Jahren verfügen, die von einer qualifizierten Supervision begleitet wurde, werden zugelassen, auch wenn diese Berufserfahrung die Voraussetzungen nach Artikel 50*c* Buchstabe b nicht erfüllt. Bei einer Teilzeitbeschäftigung verlängert sich die Mindestdauer entsprechend.
 
 <sup>7</sup> Bei Podologen und Podologinnen, die beim Inkrafttreten der Änderung vom 23. Juni 2021 einen Abschluss nach Artikel 50*d* Buchstabe b oder nach Absatz 6 besitzen oder innerhalb von zwei Jahren ein Diplom nach Artikel 50*d* Buchstabe b erwerben, wird jede praktische Tätigkeit nach dem Erwerb des Diploms als Podologe oder Podologin vor dem Inkrafttreten der Änderung und während vier Jahren danach für die Beurteilung der Erfüllung des Erfordernisses der zweijährigen praktischen Tätigkeit nach Artikel 50*d* Buchstabe c angerechnet, auch wenn die Tätigkeit die Voraussetzungen nach Artikel 50*d* Buchstabe c nicht erfüllt.
 
@@ -3953,24 +3983,23 @@ Für Gesuche um Anerkennung der Gleichwertigkeit von Weiterbildungstiteln in Lab
 - b. Fähigkeitszeugnis des Fachverbandes Schweizerischer Podologen (FSP);
 - c. Diplom als Podologe oder Podologin des Kantons Tessin ergänzt mit dem bestandenen Kurs über den diabetischen Fuss des Centro professionale sociosanitario (CPS) Lugano in Zusammenarbeit mit der Unione dei podologi della Svizzera italiana (UPSI).
 
-[^u29-2]: [AS 2021 413](https://fedlex.data.admin.ch/eli/oc/2021/413)
-[^u29-3]: Tritt am 1. Juli 2022 in Kraft ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^u30-2]: [AS 2021 413](https://fedlex.data.admin.ch/eli/oc/2021/413)
 
 ## Übergangsbestimmungen zur Änderung vom 3. November 2021****
 
-[^u30-1]
+[^u31-1]
 
-[^u30-1]: [AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)
+[^u31-1]: [AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)
 
 <sup>1</sup> Artikel 65 Absatz 1<sup>bis</sup> gilt auch für Gesuche um Aufnahme in die Spezialitätenliste, die beim Inkrafttreten der Änderung vom 3. November 2021 beim BAG hängig sind.
 
-<sup>2</sup> Arzneimittel, die die Voraussetzungen für eine Aufnahme in die Geburtsgebrechen-Spezialitätenliste nach Artikel 3<sup>sexies</sup> IVV[^u30-2] erfüllen und in der Spezialitätenliste aufgeführt sind, werden in Umsetzung von Artikel 65 Absatz 1<sup>bis</sup> im Rahmen der Überprüfung nach Artikel 65*d* in die Geburtsgebrechen-Spezialitätenliste überführt.
+<sup>2</sup> Arzneimittel, die die Voraussetzungen für eine Aufnahme in die Geburtsgebrechen-Spezialitätenliste nach Artikel 3<sup>sexies</sup> IVV[^u31-2] erfüllen und in der Spezialitätenliste aufgeführt sind, werden in Umsetzung von Artikel 65 Absatz 1<sup>bis</sup> im Rahmen der Überprüfung nach Artikel 65*d* in die Geburtsgebrechen-Spezialitätenliste überführt.
 
 <sup>3</sup> Arzneimittel, die in der Geburtsgebrechenmedikamentenliste der Spezialitätenliste aufgeführt sind, werden im Rahmen der Überprüfung nach Artikel 65*d* in die Geburtsgebrechen-Spezialitätenliste nach Artikel 3<sup>sexies</sup> IVV oder die Spezialitätenliste nach Artikel 52 Absatz 1 Buchstabe b des Gesetzes überführt.
 
-[^u30-2]: [SR 831.201](https://fedlex.data.admin.ch/eli/cc/1961/29_29_29)
+[^u31-2]: [SR 831.201](https://fedlex.data.admin.ch/eli/cc/1961/29_29_29)
 
-Anhang 1[^t-1]
+Anhang 1*[^t-1]*
 
 (Art. 70*b*)
 
@@ -3991,7 +4020,7 @@ Anhang 1[^t-1]
 <tr><td>2. Jahresgebühr pro aufgenommenes Arzneimittel und aufgeführte Packung</td><td>40</td></tr>
 </table>
 
-Anhang 2[^t-2]
+Anhang 2*[^t-2]*
 
 ## Aufhebung und Änderung von Verordnungen
 

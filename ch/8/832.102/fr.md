@@ -4,11 +4,11 @@ title: "Ordonnance du 27 juin 1995 sur l'assurance-maladie (OAMal)"
 short: OAMal
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867"
 language: fr
-version: 2022-01-01
+version: 2022-07-01
 adopted: 1995-06-27
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20220701-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20220701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20220101/fr"
 
 (OAMal)
 
-du 27 juin 1995 (Etat le 1<sup>er</sup> janvier 2022)
+du 27 juin 1995 (Etat le 1<sup>er</sup> juillet 2022)
 
 Le Conseil fédéral suisse,
 
@@ -1249,7 +1249,7 @@ Les logopédistes-orthophonistes sont admis s’ils remplissent les conditions s
 
 **Diététiciens**[^50a-1]
 
-Les diététiciens sont admis s’ils remplissent les conditions suivantes:
+Les diététiciens sont admis s’ils remplissent les conditions suivantes :
 
 - a. disposer d’une autorisation cantonale d’exercer la profession de diététicien octroyée conformément à l’art. 11 LPSan[^50a-2] ou reconnue conformément à l’art. 34, al. 1, LPSan;
 - b.
@@ -1288,9 +1288,25 @@ Les neuropsychologues sont admis s’ils remplissent les conditions suivantes:
 
 #### Art. 50c
 
-[^50c-1]
+**Psychologues-psychothérapeutes**[^50c-1]
 
-[^50c-1]: Entre en vigueur le 1<sup>er</sup> juil.2022 ([RO 2021 188](https://fedlex.data.admin.ch/eli/oc/2021/188), [439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+Les psychologues-psychothérapeutes sont admis s’ils remplissent les conditions suivantes:
+
+- a. disposer d’une autorisation cantonale d’exercer la profession de psychothérapeute conformément à l’art. 22 LPsy[^50c-2];
+- b.
+
+  avoir une expérience clinique de trois ans, dont au moins douze mois dans des institutions proposant des traitements psychothérapeutiques et psychiatriques qui disposent de l’une des reconnaissances suivantes de l’Institut suisse pour la formation médicale postgraduée et continue:
+
+  - 1\. établissement ambulatoire ou hospitalier de formation postgraduée des catégories A ou B selon le programme de formation postgraduée «Spécialiste en psychiatrie et psychothérapie» du 1<sup>er</sup> juillet 2009[^50c-3], dans la version du 15 décembre 2016,
+  - 2\. établissement des catégories A, B ou C selon le programme de formation postgraduée «Spécialiste en psychiatrie et psychothérapie d’enfants et d’adolescents» du 1<sup>er</sup> juillet 2006[^50c-4], dans la version du 20 décembre 2018;
+
+- c. exercer à titre indépendant et à leur compte;
+- d. prouver qu’ils remplissent les exigences de qualité définies à l’art. 58*g.*
+
+[^50c-1]: Introduit par le ch. I de l’O du 19 mars 2021 ([RO 2021 188](https://fedlex.data.admin.ch/eli/oc/2021/188)). Nouvelle teneur par le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)). Voir aussi la disp. trans. de cette mod. à la fin du texte.
+[^50c-2]: [RS 935.81](https://fedlex.data.admin.ch/eli/cc/2012/268)
+[^50c-3]: Le document peut être consulté à l’adresse suivante: www.ofsp.admin.ch/ref.
+[^50c-4]: Le document peut être consulté à l’adresse suivante: www.ofsp.admin.ch/ref.
 
 #### Art. 50d
 
@@ -1400,9 +1416,17 @@ Les organisations de neuropsychologues sont admises si elles remplissent les con
 
 #### Art. 52e
 
-[^52e-1]
+**Organisations de psychologues-psychothérapeutes**[^52e-1]
 
-[^52e-1]: En vigueur le 1<sup>er</sup> juil. 2022 ([RO 2021 323](https://fedlex.data.admin.ch/eli/oc/2021/323), [439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+Les organisations de psychologues-psychothérapeutes sont admises si elles remplissent les conditions suivantes:
+
+- a. être admises en vertu de la législation du canton dans lequel elles exercent leur activité;
+- b. avoir délimité leur champ d’activité quant au lieu et à l’horaire de leurs interventions, quant aux prestations qu’elles fournissent et quant aux patients auxquels elles fournissent leurs prestations;
+- c. fournir leurs prestations en ayant recours à des personnes qui remplissent les conditions de l’art. 50*c*, let. a et b;
+- d. disposer des équipements nécessaires aux prestations qu’elles fournissent;
+- e. prouver qu’elles remplissent les exigences de qualité définies à l’art. 58*g.*
+
+[^52e-1]: Introduit par le ch. I de l’O du 19 mars 2021 ([RO 2021 188](https://fedlex.data.admin.ch/eli/oc/2021/188)). Nouvelle teneur selon le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
 #### Art. 52f
 
@@ -1480,7 +1504,7 @@ Les laboratoires mandatés par un autre fournisseur de prestations admis et qui 
 [^54-4]: Nouvelle teneur selon le ch. I de l’O du 6 juin 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
 [^54-5]: Nouvelle teneur selon le ch. I de l’O du 9 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4927](https://fedlex.data.admin.ch/eli/oc/2016/792)).
 [^54-6]: Nouvelle teneur selon le ch. I de l’O du 9 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4927](https://fedlex.data.admin.ch/eli/oc/2016/792)).
-[^54-7]: Introduit par le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^54-7]: Nouvelle teneur selon le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 [^54-8]: Introduit par le ch. I de l’O du 6 juin 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
 
 #### Art. 54a
@@ -3679,7 +3703,7 @@ Les procédures pendantes à l’entrée en vigueur de la présente modification
 
 [^u9-1]
 
-[^u9-1]: [RO 2005 5639](https://fedlex.data.admin.ch/eli/oc/2005/771). Abrogées par le ch. IV 51 de l’O du 22 août 2007 relative à la mise à jour formelle du droit fédéral, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
+[^u9-1]: [RO 2005 5639](https://fedlex.data.admin.ch/eli/oc/2005/771). Abrogée par le ch. IV 51 de l’O du 22 août 2007 relative à la mise à jour formelle du droit fédéral, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
 ## Dispositions finales de la modification du 26 avril 2006****
 
@@ -3837,7 +3861,7 @@ Lorsqu’un assureur reçoit une demande de prise en charge de prestations par u
 
 L’ancien droit reste applicable à l’Islande, au Liechtenstein et à la Norvège jusqu’à l’entrée en vigueur de la modification du …[^u20-2] de l’annexe K de l’Accord AELE.[^u20-3]
 
-[^u20-2]: RO ...
+[^u20-2]: RO …
 [^u20-3]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
 
 ## Disposition transitoire de la modification du 4 juillet 2012****
@@ -3920,19 +3944,25 @@ Les demandes en reconnaissance de l’équivalence d’un titre postgrade en mé
 
 [^u27-2]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
 
-## Disposition transitoire de la modification du 26 mai 2021****
+## Disposition transitoire de la modification du 19 mars 2021****
 
 [^u28-1]
 
-[^u28-1]: [RO 2021 323](https://fedlex.data.admin.ch/eli/oc/2021/323). Abrogée par le ch. I de l’O du 23 juin 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^u28-1]: [RO 2021 188](https://fedlex.data.admin.ch/eli/oc/2021/188). Abrogée par le ch. I de l’O du 23 juin 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
-## Dispositions transitoires de la modification du 23 juin 2021****
+## Disposition transitoire de la modification du 26 mai 2021****
 
 [^u29-1]
 
-[^u29-1]: [RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)
+[^u29-1]: [RO 2021 323](https://fedlex.data.admin.ch/eli/oc/2021/323). Abrogée par le ch. I de l’O du 23 juin 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
-<sup>1</sup> Les assureurs doivent fournir aux cantons, dans un délai de six mois à compter de l’entrée en vigueur de la modification du 23 juin 2021, les données concernant les fournisseurs de prestations admis sur leur territoire avant l’entrée en vigueur de la modification du 19 juin 2020 de la LAMal[^u29-2].
+## Dispositions transitoires de la modification du 23 juin 2021****
+
+[^u30-1]
+
+[^u30-1]: [RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)
+
+<sup>1</sup> Les assureurs doivent fournir aux cantons, dans un délai de six mois à compter de l’entrée en vigueur de la modification du 23 juin 2021, les données concernant les fournisseurs de prestations admis sur leur territoire avant l’entrée en vigueur de la modification du 19 juin 2020 de la LAMal[^u30-2].
 
 <sup>2</sup> Les listes des hôpitaux de soins somatiques aigus et des maisons de naissance doivent se conformer aux critères de planification prévus par la présente ordonnance dans un délai de quatre ans à compter de l’entrée en vigueur de la modification du 23 juin 2021.
 
@@ -3940,7 +3970,7 @@ Les demandes en reconnaissance de l’équivalence d’un titre postgrade en mé
 
 <sup>4</sup> Les listes des établissements médico-sociaux doivent se conformer aux critères de planification prévus par la présente ordonnance dans un délai de cinq ans à compter de l’entrée en vigueur de la modification du 23 juin 2021.
 
-<sup>5</sup> ...[^u29-3]
+<sup>5</sup> Les psychologues-psychothérapeutes qui, à l’entrée en vigueur de la modification du 23 juin 2021, disposent d’une expérience professionnelle d’au moins trois ans dans le domaine des soins psychothérapeutiques-psychiatriques sous la supervision d’un professionnel qualifié, sont admis même si cette expérience professionnelle ne remplit pas les conditions de l’art. 50*c*, let. b. Dans le cas d’un emploi à temps partiel, la durée minimale est prolongée en conséquence.
 
 <sup>7</sup> Lorsqu’un podologue dispose d’un titre visé à l’art. 50*d*, let. b, ou à l’al. 6 à l’entrée en vigueur de la modification du 23 juin 2021 ou obtient un diplôme visé à l’art. 50*d*, let. b, dans les deux ans qui suivent, toute activité pratique qu’il exerce après l’obtention du diplôme en tant que podologue avant l’entrée en vigueur de la modification et pendant les quatre années suivantes est prise en compte dans l’évaluation du respect de l’exigence de deux ans d’activité pratique visée à l’art. 50*d*, let. c, même si l’activité ne remplit pas les conditions énoncées à l’art. 50*d*, let. c.
 
@@ -3950,22 +3980,21 @@ Les demandes en reconnaissance de l’équivalence d’un titre postgrade en mé
 - b. certificat de capacité de podologue délivré par l’Association Professionnelle <sup>Suisse des Podologues (APSP);</sup>
 - c. diplôme de podologue délivré par le canton du Tessin, complété par l’attestation de réussite du cours relatif au pied diabétique du centre de formation professionnelle socio-sanitaire (CPS) de Lugano en collaboration avec l’Union des podologues de la Suisse italienne (UPSI).
 
-[^u29-2]: [RO 2021 413](https://fedlex.data.admin.ch/eli/oc/2021/413)
-[^u29-3]: Entre en vigueur le 1<sup>er</sup> juil.2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^u30-2]: [RO 2021 413](https://fedlex.data.admin.ch/eli/oc/2021/413)
 
 ## Dispositions transitoires de la modification du 3 novembre 2021****
 
-[^u30-1]
+[^u31-1]
 
-[^u30-1]: [RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)
+[^u31-1]: [RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)
 
 <sup>1</sup> L’art. 65, al. 1<sup>bis</sup>, s’applique aussi aux demandes d’admission dans la liste des spécialités qui sont encore pendantes auprès de l’OFSP au moment de l’entrée en vigueur de la modification du 3 novembre 2021.
 
-<sup>2</sup> En application de l’art. 65, al. 1<sup>bis</sup>, les médicaments figurant sur la liste des spécialités qui remplissent les conditions fixées à l’art. 3<sup>sexies</sup> RAI[^u30-2] pour l’admission dans la liste des spécialités en matière d’infirmités congénitales sont transférés dans cette dernière dans le cadre du réexamen prévu à l’art. 65*d*.
+<sup>2</sup> En application de l’art. 65, al. 1<sup>bis</sup>, les médicaments figurant sur la liste des spécialités qui remplissent les conditions fixées à l’art. 3<sup>sexies</sup> RAI[^u31-2] pour l’admission dans la liste des spécialités en matière d’infirmités congénitales sont transférés dans cette dernière dans le cadre du réexamen prévu à l’art. 65*d*.
 
 <sup>3</sup> Dans le cadre du réexamen prévu à l’art. 65*d*, les médicaments figurant sur la liste des médicaments en matière d’infirmités congénitales, qui fait partie de la liste des spécialités, sont transférés dans la liste des spécialités en matière d’infirmités congénitales au sens de l’art. 3<sup>sexies</sup> RAI ou dans la liste des spécialités au sens de l’art. 52, al. 1, de la loi.
 
-[^u30-2]: [RS 832.201](https://fedlex.data.admin.ch/eli/cc/1982/1724_1724_1724)
+[^u31-2]: [RS 832.201](https://fedlex.data.admin.ch/eli/cc/1982/1724_1724_1724)
 
 Annexe 1*[^t-1]*
 

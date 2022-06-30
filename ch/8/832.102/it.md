@@ -4,11 +4,11 @@ title: "Ordinanza del 27 giugno 1995 sull'assicurazione malattie (OAMal)"
 short: OAMal
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867"
 language: it
-version: 2022-01-01
+version: 2022-07-01
 adopted: 1995-06-27
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20220701/it/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20220701-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20220701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20220101/it"
 
 (OAMal)
 
-del 27 giugno 1995 (Stato 1° gennaio 2022)
+del 27 giugno 1995 (Stato 1° luglio 2022) (Stato 1° luglio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -295,7 +295,7 @@ Gli assicuratori informano per iscritto gli assicurati di cui all’articolo 6*a
 [^10-2]: Nuovo testo giusta il n. I dell’O del 25 nov. 1996, in vigore dal 1° gen. 1997 ([RU 1996 3139](https://fedlex.data.admin.ch/eli/oc/1996/3139_3139_3139)).
 [^10-3]: Introdotto dal n. I dell’O del 3 lug. 2001, in vigore dal 1° giu. 2002 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)).
 
-### Capitolo 2: Sospensione dell’obbligo d’assicurazione e della copertura dell’infortunio****
+### Capitolo 2: Sospensione dell’obbligo d’assicurazione e della copertura dell’infortunio
 
 [^part1-tit1-chap2-1]
 
@@ -646,7 +646,7 @@ L’UST trasmette ai seguenti destinatari i dati elencati qui di seguito:
   alle autorità cantonali competenti:
 
   - 1\. i dati di cui all’articolo 30, se necessari per la pianificazione degli ospedali, delle case per partorienti e delle case di cura (art. 39 LAMal),
-  - 2\. i dati di cui all’articolo 30 lettere a, d ed e, se necessari per l’esame delle tariffe (art. 43, 46 cpv. 4 e art. 47 LAMal),
+  - 2\. i dati di cui all’articolo 30 lettere a, d ed e, se necessari per l’esame delle tariffe (art. 43, 46 cpv. 4 e art. 47 LAMal);
   - 3\.[^30b-4] i dati di cui all’articolo 30, se necessari per determinare i numeri massimi (art. 55*a* LAMal);
 
 - c. agli assicuratori: i dati di cui all’articolo 30 lettere a, c, d ed e, se necessari per eseguire le disposizioni in merito al controllo dell’economicità delle prestazioni a carico dell’assicurazione obbligatoria delle cure medico-sanitarie;
@@ -1286,9 +1286,25 @@ I neuropsicologi sono autorizzati se adempiono le seguenti condizioni:
 
 #### Art. 50c
 
-[^50c-1]
+**Psicologi psicoterapeuti**[^50c-1]
 
-[^50c-1]: In vigore dal 1° lug. 2022 ([RU 2021 188](https://fedlex.data.admin.ch/eli/oc/2021/188), [439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+Gli psicologi psicoterapeuti sono autorizzati se adempiono le seguenti condizioni:
+
+- a. disporre di un’autorizzazione cantonale a esercitare la professione di psicoterapeuta conformemente all’articolo 22 LPPsi[^50c-2];
+- b.
+
+  avere acquisito un’esperienza clinica di tre anni, di cui almeno 12 mesi presso un istituto che offre trattamenti di psicoterapia e psichiatria e disporre di uno dei seguenti riconoscimenti dell’Istituto svizzero per la formazione medica (ISFM):
+
+  - 1\. centro di perfezionamento professionale ambulatoriale o stazionario di categoria A o B secondo il programma di perfezionamento professionale «Specialista in psichiatria e psicoterapia» del 1° luglio 2009[^50c-3] nella versione del 15 dicembre 2016,
+  - 2\. centro di perfezionamento professionale di categoria A, B o C secondo il programma di perfezionamento professionale «Specialista in psichiatria e psicoterapia infantile e adolescenziale» del 1° luglio 2006[^50c-4] nella versione del 20 dicembre 2018;
+
+- c. esercitare a titolo indipendente e per conto proprio;
+- d. dimostrare che adempiono i requisiti di qualità definiti nell’articolo 58*g.*
+
+[^50c-1]: Introdotto dal n. I dell’O del 19 mar. 2021 ([RU 2021 188](https://fedlex.data.admin.ch/eli/oc/2021/188)). Nuovo testo giusta il n. I dell’O del 23 giu. 2021, in vigore dal 1° lug. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^50c-2]: [RS 935.81](https://fedlex.data.admin.ch/eli/cc/2012/268)
+[^50c-3]: Il documento può essere consultato al seguente indirizzo Internet: www.ufsp.admin.ch/ref.
+[^50c-4]: Il documento può essere consultato al seguente indirizzo Internet: www.ufsp.admin.ch/ref.
 
 #### Art. 50d
 
@@ -1398,9 +1414,17 @@ Le organizzazioni di neuropsicologia sono autorizzate se adempiono le seguenti c
 
 #### Art. 52e
 
-[^52e-1]
+**Organizzazioni di psicologi psicoterapeuti**[^52e-1]
 
-[^52e-1]: In vigore il 1° lug. 2022 ([RU 2021 188](https://fedlex.data.admin.ch/eli/oc/2021/188), [439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+Le organizzazioni di psicologi psicoterapeuti sono autorizzate se adempiono le seguenti condizioni:
+
+- a. essere autorizzate ai sensi della legislazione del Cantone nel quale esercitano la loro attività;
+- b. avere delimitato il loro campo d’attività in relazione al luogo e all’orario degli interventi, alle prestazioni fornite e ai pazienti ai quali forniscono le prestazioni;
+- c. fornire le loro prestazioni facendo ricorso a personale che adempie le condizioni dell’articolo 50*c* lettere a e b;
+- d. disporre delle attrezzature necessarie alla fornitura delle prestazioni;
+- e. dimostrare che adempiono i requisiti di qualità definiti nell’articolo 58*g.*
+
+[^52e-1]: Introdotto dal n. I dell’O del 19 mar. 2021 ([RU 2021 188](https://fedlex.data.admin.ch/eli/oc/2021/188)). Nuovo testo giusta il n. I dell’O del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
 #### Art. 52f
 
@@ -1775,7 +1799,7 @@ Per il settore ambulatoriale il DFI emana disposizioni d’esecuzione sulla rile
 [^59ater-1]: Introdotto dal n. I dell’O del 4 lug. 2012, in vigore dal 1° gen. 2013 ([RU 2012 4089](https://fedlex.data.admin.ch/eli/oc/2012/474)).
 [^59ater-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 
-### Capitolo 3: Tariffe e prezzi**** ****
+### Capitolo 3: Tariffe e prezzi
 
 [^part1-tit4-chap3-1][^part1-tit4-chap3-2]
 
@@ -1844,7 +1868,7 @@ Le parti contraenti sottopongono la convenzione tariffale all’approvazione del
 
 [^59e-1]: Introdotto dal n. I dell’O del 22 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5097](https://fedlex.data.admin.ch/eli/oc/2008/708)). Vedi anche le disp. fin. di detta mod. alla fine del presente testo.
 
-### Sezione 2:**** Elenco delle analisi
+### Sezione 2: Elenco delle analisi
 
 [^part1-tit4-chap3-sec2-1]
 
@@ -1897,7 +1921,7 @@ Il DFI designa le analisi che:
 
 <sup>2</sup> Per l’ammissione di medicamenti nell’elenco dei medicamenti con tariffa si applicano per analogia le disposizioni relative all’ammissione nell’elenco delle specialità.
 
-### Sezione 4:**** Elenco delle specialità
+### Sezione 4: Elenco delle specialità
 
 [^part1-tit4-chap3-sec4-1]
 
@@ -2283,7 +2307,7 @@ Il DFI emana prescrizioni di dettaglio:
 [^71-3]: Nuovo testo giusta il n. I dell’O del 1° feb. 2017, in vigore dal 1° mar. 2017 ([RU 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
 [^71-4]: I documenti possono essere consultati al seguente indirizzo Internet: www.bag.admin.ch &gt; Temi &gt; Assicurazione malattie &gt; Tariffe e prezzi &gt; Elenco delle specialità
 
-### Sezione 4*a*: Rimunerazione di medicamenti nel singolo caso****
+### Sezione 4*a*: Rimunerazione di medicamenti nel singolo caso
 
 [^part1-tit4-chap3-sec4a-1]
 
@@ -2354,7 +2378,7 @@ Gli articoli 71*a*–71*d* non si applicano all’assunzione dei costi dei:
 [^71e-1]: Introdotto dal n. III dell’O del 12 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)). Nuovo testo giusta il n. I dell’O del 17 dic. 2021, in vigore dal 1° gen. 2022 al 31 dic. 2022 ([RU 2021 892](https://fedlex.data.admin.ch/eli/oc/2021/892)).
 [^71e-2]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
 
-### Sezione 5:**** Disposizioni comuni per l’Elenco delle analisi, l’Elenco dei medicamenti con tariffa e l’Elenco delle specialità
+### Sezione 5: Disposizioni comuni per l’Elenco delle analisi, l’Elenco dei medicamenti con tariffa e l’Elenco delle specialità
 
 [^part1-tit4-chap3-sec5-1]
 
@@ -2793,7 +2817,7 @@ I premi devono essere pagati in anticipo e di regola mensilmente.
 
 [^92-1]: Abrogato dall’all. n. 3 dell’O del 18 nov. 2015 sulla vigilanza sull’assicurazione malattie, con effetto dal 1° gen. 2016 ([RU 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
 
-### Sezione 1*a*:**** Premi degli assicurati residenti in uno Stato membro dell’Unione europea, in Islanda o in Norvegia****
+### Sezione 1*a*: Premi degli assicurati residenti in uno Stato membro dell’Unione europea, in Islanda o in Norvegia
 
 [^part1-tit5-chap2-sec1a-1][^part1-tit5-chap2-sec1a-2]
 
@@ -3029,11 +3053,9 @@ Gli assicurati residenti in uno Stato membro dell’Unione europea, in Islanda o
 
 **Contributo ai costi di degenza ospedaliera**[^104-1]
 
-<sup>1</sup> Il contributo giornaliero ai costi di degenza ospedaliera previsto nell’articolo 64 capoverso 5 della legge ammonta a 15 franchi.
+<sup>1</sup>
 
-<sup>1bis</sup>
-
-Non è dovuto:
+Il contributo giornaliero ai costi di degenza ospedaliera previsto nell’articolo 64 capoverso 5 della legge ammonta a 15 franchi. <sup>1bis</sup> Non è dovuto:
 
 - a. per il giorno di dimissione;
 - b. per i giorni di congedo calcolati secondo le regole della struttura tariffale applicabile di cui all’articolo 49 capoverso 1 della legge, nel loro tenore approvato o fissato dal Consiglio federale.[^104-2]
@@ -3088,7 +3110,7 @@ Il DFI designa le prestazioni per le quali va riscossa una partecipazione ai cos
 
 [^105-1]: Introdotto dal n. I dell’O del 29 nov. 2013, in vigore dal 1° mar. 2014 ([RU 2013 4523](https://fedlex.data.admin.ch/eli/oc/2013/800)).
 
-### Capitolo 3*a*:**** Mancato pagamento dei premi e delle partecipazioni ai costi
+### Capitolo 3*a*: Mancato pagamento dei premi e delle partecipazioni ai costi
 
 [^part1-tit5-chap3a-1]
 
@@ -3918,23 +3940,29 @@ Le domande di riconoscimento dell’equipollenza di titoli di perfezionamento in
 
 [^u27-2]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
 
-## Disposizione transitoria della modifica del 26 maggio 2021****
+## Disposizione transitoria della modifica del 19 marzo 2021****
 
 [^u28-1]
 
-[^u28-1]: [RU 2021 323](https://fedlex.data.admin.ch/eli/oc/2021/323). Abrogata dal n. I dell’O del 23 giu. 2021, con effetto dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^u28-1]: [RU 2021 188](https://fedlex.data.admin.ch/eli/oc/2021/188). Abrogata dal n. I dell’O del 23 giu. 2021, con effetto dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
-## Disposizioni transitorie della modifica del 23 giugno 2021****
+## Disposizione transitoria della modifica del 26 maggio 2021****
 
 [^u29-1]
 
-[^u29-1]: [RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)
+[^u29-1]: [RU 2021 323](https://fedlex.data.admin.ch/eli/oc/2021/323). Abrogata dal n. I dell’O del 23 giu. 2021, con effetto dal 1° gen. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
-<sup>1</sup> Gli assicuratori devono fornire ai Cantoni entro un termine di sei mesi dall’entrata in vigore della modifica del 23 giugno 2021 i dati relativi ai fornitori di prestazioni autorizzati sul loro territorio prima dell’entrata in vigore della modifica della LAMal del 19 giugno 2020[^u29-2].
+## Disposizioni transitorie della modifica del 23 giugno 2021****
+
+[^u30-1]
+
+[^u30-1]: [RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)
+
+<sup>1</sup> Gli assicuratori devono fornire ai Cantoni entro un termine di sei mesi dall’entrata in vigore della modifica del 23 giugno 2021 i dati relativi ai fornitori di prestazioni autorizzati sul loro territorio prima dell’entrata in vigore della modifica della LAMal del 19 giugno 2020[^u30-2].
 
 <sup>4</sup> Gli elenchi delle case di cura devono essere adeguati ai criteri di pianificazione previsti dalla presente ordinanza entro cinque anni dall’entrata in vigore della modifica del 23 giugno 2021.
 
-<sup>5</sup> ...[^u29-3]
+<sup>5</sup> Gli psicologi psicoterapeuti che all’entrata in vigore della modifica del 23 giugno 2021 hanno acquisito un’esperienza professionale di almeno tre anni nell’assistenza psichiatrica-psicoterapeutica sotto la supervisione di un professionista qualificato sono autorizzati all’esercizio della professione anche se tale esperienza professionale in psicoterapia non adempie le condizioni di cui all’articolo 50*c* lettera b. In caso di occupazione a tempo parziale, la durata minima aumenta di conseguenza.
 
 <sup>7</sup> Se all’entrata in vigore della modifica del 23 giugno 2021 un podologo dispone di un titolo di cui all’articolo 50*d* lettera b o capoverso 6 o consegue entro due anni un diploma di cui all’articolo 50*d* lettera b, ogni attività pratica svolta dopo il conseguimento del diploma di podologo prima dell’entrata in vigore della modifica e durante i quattro anni seguenti viene computata nella valutazione dell’adempimento del requisito dello svolgimento di un’attività pratica di due anni secondo l’articolo 50*d* lettera c, anche se l’attività non adempie le condizioni di cui all’articolo 50*d* lettera c.
 
@@ -3947,22 +3975,21 @@ Le domande di riconoscimento dell’equipollenza di titoli di perfezionamento in
 - b. attestato di capacità di podologo rilasciato dall’associazione professionale «Fachverband Schweizerischer Podologen» (FSP);
 - c. diploma di podologo rilasciato dal Cantone Ticino, completato con l’attestazione di superamento del corso sul piede diabetico organizzato dal Centro professionale sociosanitario (CPS) di Lugano in collaborazione con l’Unione dei podologi della Svizzera italiana (UPSI).
 
-[^u29-2]: [RU 2021 413](https://fedlex.data.admin.ch/eli/oc/2021/413)
-[^u29-3]: In vigore dal 1° lug. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^u30-2]: [RU 2021 413](https://fedlex.data.admin.ch/eli/oc/2021/413)
 
 ## Disposizioni transitorie della modifica del 3 novembre 2021****
 
-[^u30-1]
+[^u31-1]
 
-[^u30-1]: [RU 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)
+[^u31-1]: [RU 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)
 
 <sup>1</sup> L’articolo 65 capoverso 1<sup>bis</sup> si applica anche alle domande di ammissione nell’elenco delle specialità pendenti presso l’UFSP al momento dell’entrata in vigore della modifica del 3 novembre 2021.
 
-<sup>2</sup> I medicamenti che adempiono le condizioni per l’ammissione nell’elenco delle specialità per le infermità congenite di cui all’articolo 3<sup>sexies</sup> OAI[^u30-2] e figurano nell’elenco delle specialità sono inseriti, nel quadro del riesame di cui all’articolo 65*d*, in applicazione dell’articolo 65 capoverso 1<sup>bis</sup>, nell’elenco delle specialità per le infermità congenite.
+<sup>2</sup> I medicamenti che adempiono le condizioni per l’ammissione nell’elenco delle specialità per le infermità congenite di cui all’articolo 3<sup>sexies</sup> OAI[^u31-2] e figurano nell’elenco delle specialità sono inseriti, nel quadro del riesame di cui all’articolo 65*d*, in applicazione dell’articolo 65 capoverso 1<sup>bis</sup>, nell’elenco delle specialità per le infermità congenite.
 
 <sup>3</sup> I medicamenti che figurano nell’elenco dei farmaci per infermità congenite dell’elenco delle specialità sono inseriti, nel quadro del riesame di cui all’articolo 65*d*, nell’elenco delle specialità per le infermità congenite di cui all’articolo 3<sup>sexies</sup> OAI o nell’elenco delle specialità di cui all’articolo 52 capoverso 1 lettera b della legge.
 
-[^u30-2]: [RS 831.201](https://fedlex.data.admin.ch/eli/cc/1961/29_29_29)
+[^u31-2]: [RS 831.201](https://fedlex.data.admin.ch/eli/cc/1961/29_29_29)
 
 Allegato 1*[^t-1]*
 
