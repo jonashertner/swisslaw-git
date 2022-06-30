@@ -4,13 +4,13 @@ number: 865c
 title: Verordnung über die Zulassung von Leistungserbringern zur Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung
 short: "Kantonale Zulassungsverordnung, VZL"
 language: de
-version: 2022-01-01
-valid_until: 2022-06-30
-version_adopted: 2021-11-30
+version: 2022-07-01
+valid_until: 2023-06-30
+version_adopted: 2022-03-15
 adopted: 2021-11-30
 in_force: 2022-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/865c"
-pdf: "https://srl.lu.ch/api/de/versions/3872/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3917/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3872/pdf_file"
 
 (Kantonale Zulassungsverordnung, VZL)
 
-vom 30.11.2021 (Stand 01.01.2022)
+vom 30.11.2021 (Stand 01.07.2022)
 
 Der Regierunsrat des Kantons Luzern,
 
@@ -39,11 +39,12 @@ beschliesst:
 
 <sup>1</sup> Diese Verordnung regelt die Zulassung von ambulanten Leistungserbringern gemäss Artikel 35 Absatz 2a–g, m und n des Bundesgesetzes über die Krankenversicherung (KVG) vom 18. März 1994[^1-1] zur Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung.
 
-<sup>2</sup> Die Einzelheiten über die Berufsausübungs- und die Betriebsbewilligung der Leistungserbringer sind in der Medizinalberufeverordnung vom 28. April 2009[^1-2] und der Gesundheitsberufeverordnung vom 28. April 2009[^1-3] geregelt.
+<sup>2</sup> Die Einzelheiten über die Berufsausübungs- und die Betriebsbewilligung der Leistungserbringer sind in der Medizinalberufeverordnung vom 28. April 2009[^1-2], in der Gesundheitsberufeverordnung vom 28. April 2009[^1-3] und in der Psychotherapeutenverordnung vom 16. April 2013[^1-4] geregelt.
 
 [^1-1]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de)
 [^1-2]: SRL Nr. [805](https://srl.lu.ch/data/805/de)
 [^1-3]: SRL Nr. [806](https://srl.lu.ch/data/806/de)
+[^1-4]: SRL Nr. [806a](https://srl.lu.ch/data/806a/de)
 
 #### § 2
 
