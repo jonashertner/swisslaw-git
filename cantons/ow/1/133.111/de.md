@@ -3,20 +3,20 @@ canton: OW
 number: "133.111"
 title: Ausführungsbestimmungen über die Aufgaben und Gliederung der Departemente
 language: de
-version: 2021-10-01
-valid_until: 2022-06-30
-version_adopted: 2021-09-21
+version: 2022-07-01
+valid_until: 2022-12-31
+version_adopted: 2022-06-21
 adopted: 2002-06-04
 in_force: 2002-07-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/133.111"
-pdf: "http://gdb.ow.ch/api/de/versions/1529/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1593/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen über die Aufgaben und Gliederung der Departemente
 
-vom 04.06.2002 (Stand 01.10.2021)
+vom 04.06.2002 (Stand 01.07.2022)
 
 Der Regierungsrat des Kantons Obwalden,
 
@@ -32,11 +32,11 @@ beschliesst:
 
 **Staatskanzlei**
 
-<sup>1</sup> Der Staatskanzlei sind folgende Aufgabenbereiche zugeteilt:
+<sup>1</sup> Der Staatskanzlei (STK) sind folgende Aufgabenbereiche zugeteilt:
 
 - a. Kanzlei:
   - 1\. Sekretariat von Regierungsrat und Kantonsrat,
-  - 2\. Information der Öffentlichkeit, Internet,
+  - 2\. Information und Kommunikation,
   - 3\. Protokoll und offizielle Anlässe,
   - 4\. Amtsblatt,
   - 5\. Ausweisschriften und Beglaubigungen,
@@ -52,20 +52,21 @@ beschliesst:
   - 2\. Sammeln von Quellen zur Kantonsgeschichte und von Amtsdruckschriften,
   - 3\. Beratung von Gemeinden und Korporationen in der Schriftgutverwaltung und Übernahme von Deposita von öffentlich-rechtlichen Körperschaften und Privaten,
   - 4\. Führung des Wappenregisters;
-- d. Finanzkontrolle:
+- d.–e. …
+
+<sup>2</sup> Der Staatskanzlei ist zugewiesen:
+
+- a. Ratssekretariat des Kantonsrats:
+  - 1\. Planung und Organisation der Sitzungen des Kantonsrats, der Ratsleitung sowie in Verbindung mit der Staatskanzlei und den Departementen Koordination der Kommissionssitzungen,
+  - 2\. Protokollführung und Sekretariat für Kantonsrat und Ratsleitung,
+  - 3\. Beratung in Rechts- und Verfahrensfragen sowie Vermittlung von Dokumentationen und Auskünften aus der Staatsverwaltung für Ratspräsidium, Kommissionen und Ratsmitglieder,
+  - 4\. Sekretariat der Rechtspflegekommission (RPK), der Kommission für strategische Planung und Aussenbeziehungen (KSPA) sowie der Redaktionskommission;
+- b. Finanzkontrolle:
   - 1\. Organ der allgemeinen Finanzaufsicht von Kantonsrat, Regierungsrat und Gerichte,
   - 2\. Buchprüfung und Revisionen,
   - 3\. Mitwirkung bei der Aufsicht und beim Controlling über die Geschäftsführung von Regierungsrat und kantonaler Verwaltung,
   - 4\. Sekretariat der Geschäfts- und Rechnungsprüfungskommission (GRPK);
-- e. Ratssekretariat des Kantonsrats:
-  - 1\. Planung und Organisation der Sitzungen des Kantonsrats, der Ratsleitung sowie in Verbindung mit der Staatskanzlei und den Departementen Koordination der Kommissionssitzungen,
-  - 2\. Protokollführung und Sekretariat für Kantonsrat und Ratsleitung,
-  - 3\. Beratung in Rechts- und Verfahrensfragen sowie Vermittlung von Dokumentationen und Auskünften aus der Staatsverwaltung für Ratspräsidium, Kommissionen und Ratsmitglieder,
-  - 4\. Sekretariat der Rechtspflegekommission (RPK) sowie der Kommission für strategische Planung und Aussenbeziehungen (KSPA).
-
-<sup>2</sup> Der Staatskanzlei ist zugewiesen:
-
-- a. der oder die Beauftragte für Datenschutz.
+- c. der oder die Beauftragte für Datenschutz.
 
 #### Art. 2
 
@@ -86,46 +87,32 @@ beschliesst:
   - 3\. Finanzausgleich,
   - 4\. Staatshaftung, Verantwortlichkeit, Sach- und Haftpflichtversicherungen,
   - 5\. …
-  - 6\. Beschaffung von Büromaterial und -maschinen,
-  - 7\. Verwaltung des Lotterie-Fonds,
+  - 6\. Beschaffung von Büromaterial,
+  - 7\. Verwaltung des Swisslos-Fonds,
   - 8\. allgemeine Verwaltungsgebühren, Salzregal,
-  - 9\. Steuerbezug mit: Inkasso in Strafsachen, Inkasso in Opferhilfesachen,
+  - 9\. Steuerbezug sowie Inkasso in Strafsachen und Opferhilfesachen,
   - 10\. Postdienstleistungen,
   - 11\. Banken, Bankdienstleistungen;
 - d. Steuerverwaltung:
   - 1\. Steuern,
   - 2\. nichtlandwirtschaftliche Grundstückschätzung,
   - 3\. …
-- e. Gesundheitsamt:
-  - 1\. Gesundheitsvorsorge (eingeschlossen Krankheitsbekämpfung, Schulgesundheitsdienst),
-  - 2\. koordinierter Sanitätsdienst,
-  - 3\. Heilmittel, Betäubungsmittel (eingeschlossen Tierheilmittel),
-  - 4\. Giftinspektorat,
-  - 5\. Spitalversorgung,
-  - 6\. Pflege- und Betagtenheime,
-  - 7\. Schwangerschaftsberatung und Prävention/Sexualpädagogik,
-  - 8\. Kranken- und Unfallversicherung,
-  - 9\. Bewilligungen für Berufe der Gesundheitspflege,
-  - 10\. Bestattungen,
-  - 11\. Tierschutz,
-  - 12\. Kontrolle Lebensmittel und Gebrauchsgegenstände (eingeschlossen Tierhaltung und Schlachtung, Laboratorium),
-  - 13\. Tierseuchenbekämpfung (eingeschlossen Viehhandel, Hundehaltung), Fleischhygiene,
-  - 14\. Prämienverbilligung in der Krankenversicherung.
+- e. …
 
 <sup>2</sup> Dem Finanzdepartement sind zugewiesen:
 
-- a. Informatikleistungszentrum Obwalden/Nidwalden (ILZ):
+- a. Informatikleistungszentrum Obwalden - Nidwalden (ILZ):
   - 1\. Informatikdienstleistungen,
   - 2\. Telekommunikationsdienstleistungen;
 - b. Laboratorium der Urkantone;
-- c. Kantonsspital:
-  - 1\. Spitalmässige Grundversorgung.
+- c. Kantonsspital;
+- d. Obwaldner Kantonalbank.
 
 #### Art. 3
 
-**Sicherheits- und Justizdepartement**
+**Sicherheits- und Sozialdepartement**
 
-<sup>1</sup> Dem Sicherheits- und Justizdepartement (SJD) sind folgende Aufgabenbereiche zugeteilt:
+<sup>1</sup> Dem Sicherheits- und Sozialdepartement (SSD) sind folgende Aufgabenbereiche zugeteilt:
 
 - a. Departementssekretariat:
 - b. Amt für Justiz:
@@ -143,31 +130,45 @@ beschliesst:
   - 12\. Einwohnerkontrolle,
   - 13\. Schuldbetreibung und Konkurs (unter Vorbehalt der Aufsicht durch das Obergericht),
   - 14\. öffentliche Versteigerung,
-  - 15\. Sekretariat Steuerrekurskommission,
+  - 15\. Sekretariat Steuerrekurskommission (unter Vorbehalt der Aufsicht durch das Obergericht),
   - 16\. Opferhilfe (Entschädigung und Genugtuung);
 - c. Kantonspolizei:
-  - 1\. Kantonspolizei mit: Kriminal- sowie Verkehrs- und Sicherheitspolizei, Handel mit Waffen, Munition und Sprengstoffen,
-  - 2\. Militär und Bevölkerungsschutz mit: Koordination der Partnerorganisationen im Bevölkerungsschutz, Militärverwaltung (mit Kreiskommando, Wehrpflichtersatz, Zeughausverwaltung), Zivilschutz; Feuerwehr, Feuerpolizei (Massnahmen bei erhöhter Brandgefahr), Feuerwehrkasse;
-  - 3\. Straf- und Massnahmenvollzug, Bewährungshilfe, Gefängnisverwaltung,
+  - 1\. Kantonspolizei mit: Kriminal- sowie Verkehrs- und Sicherheitspolizei, Handel, Erwerb, Besitz und Umgang mit bzw. von Waffen, Munition, Pyrotechnik und Sprengstoffen,
+  - 2\. Militär und Bevölkerungsschutz mit: Koordination der Partnerorganisationen im Bevölkerungsschutz, Militärverwaltung (mit Kreiskommando und Wehrpflichtersatz), Zivilschutz, Feuerwehr, Feuerpolizei (Massnahmen bei erhöhter Brandgefahr), Feuerwehrkasse,
+  - 3\. Straf- und Massnahmenvollzug, Bewährungshilfe, Gefängnisverwaltung;
 - d.–e. …
+- e1. Gesundheitsamt:
+  - 1\. Organisation des öffentlichen Gesundheitswesens,
+  - 2\. Gesundheitsförderung und Prävention,
+  - 3\. Krankheitsbekämpfung,
+  - 4\. Gewährleistung der ambulanten und stationären Versorgung einschliesslich ambulanter Notfalldienst (Koordination und Aufsicht),
+  - 5\. Aufsicht über Pflege- und Betagtenheime, Organisationen der Krankenpflege und Hilfe zu Hause,
+  - 6\. koordinierter Sanitätsdienst,
+  - 7\. Berufe und Einrichtungen des Gesundheitswesens,
+  - 8\. Patientenrechte und -pflichten,
+  - 9\. Heilmittel, Betäubungsmittel (eingeschlossen Tierheilmittel),
+  - 10\. Kranken- und Unfallversicherung (ohne Prämienverbilligung in der Krankenversicherung),
+  - 11\. Schwangerschaftsberatung,
+  - 12\. Lebensmittel und Gebrauchsgegenstände, soweit diese Aufgaben nicht dem Laboratorium der Urkantone übertragen sind,
+  - 13\. Tierschutz, Tierseuchenbekämpfung, Tierarzneimittel, Schlachtung, Fleischhygiene, Hundehaltung und Berufe der Tierheilkunde, soweit diese Aufgaben nicht dem Laboratorium der Urkantone übertragen sind;
 - f. Sozialamt:
   - 1\. Sozialhilfe mit: Koordination privater und öffentlicher sozialer Tätigkeiten, Aufsicht über die öffentliche Sozialhilfe, Beiträge aus dem Alkoholzehntel,
-  - 2\. Beratungen mit: Opferhilfe (Anlaufstelle), Beratung Betagter, Behinderter und psychisch Kranker,
+  - 2\. Beratung Betagter, Behinderter und psychisch Kranker,
   - 3\. Kinder- und Jugendheime (Heimvereinbarung), Behinderteneinrichtungen, Pflegekinderaufsicht,
   - 4\. Adoption,
   - 5\. Kindes- und Erwachsenenschutz mit: fürsorgerischer Unterbringung, internationaler Kindesentführung,
   - 6\. Betreuung für Asylsuchende und Flüchtlinge,
-  - 8\. Fachstelle Gesellschaftsfragen mit: Familienförderung, Kinder- und Jugendförderung, Gesundheitsförderung, Integration, Fahrende, Beratungen mit Suchtberatung sowie Jugend- und Familienberatung, Ehe- und Lebensberatung;
+  - 8\. Fachstelle für Gesellschaftsfragen mit: Familienförderung, Kinder- und Jugendförderung, Gesundheitsförderung, Integration, Suchtberatung, Jugend- und Familienberatung, Ehe- und Lebensberatung, Opferhilfe (Beratungsstelle),
   - 7\. …
 - g. Staatsanwaltschaft (unter Vorbehalt der Aufsicht durch das Obergericht):
   - 1\. Strafverfolgung,
-  - 2\. häusliche Gewalt;
+  - 2\. häusliche Gewalt.
 
-<sup>2</sup> Dem Sicherheits- und Justizdepartement sind zugewiesen:
+<sup>2</sup> Dem Sicherheits- und Sozialdepartement sind zugewiesen:
 
 - a. …
 - b. kantonaler Führungsstab;
-- c. Verkehrssicherheitszentrum Obwalden/Nidwalden:
+- c. Verkehrssicherheitszentrum Obwalden/Nidwalden (VSZ):
   - 1\. Zulassung von Personen und Fahrzeugen zum Strassenverkehr und zur Schifffahrt,
   - 2\. Erhebung der Fahrzeug- und der Schiffssteuer,
   - 3\. Administrativmassnahmen im Strassenverkehr.
@@ -179,26 +180,32 @@ beschliesst:
 <sup>1</sup> Dem Volkswirtschaftsdepartement (VD) sind folgende Aufgabenbereiche zugeteilt:
 
 - a. Departementssekretariat:
-  - 1\. Aussenbeziehungen: Konferenz der Kantonsregierungen (KdK), Zentralschweizer Regierungskonferenz (ZRK), Regierungskonferenz der Gebirgskantone (RKGK), Europa,
-  - 2\. Wirtschaftsförderung,
-  - 3\. wirtschaftliche Landesversorgung,
-  - 4\. …
+  - 1\. Aussenbeziehungen: Konferenz der Kantonsregierungen (KdK), Zentralschweizer Regierungskonferenz (ZRK), Europa,
+  - 2\. Koordinationsstelle für Wirtschaftsfragen,
+  - 3\.–4. …
+  - 5\. Sozialversicherungen der Ausgleichskasse (AHV, IV, EO, eingeschlossen Ergänzungsleistungen und Familienausgleichskasse sowie ÜLG),
+  - 6\. Prämienverbilligung in der Krankenversicherung;
 - b. Volkswirtschaftsamt:
-  - 1\. Regionalpolitik, Investitionshilfe für das Berggebiet,
-  - 2\. Binnenmarkt (mit GATT/WTO [Welthandelsabkommen]), Submissionsvorschriften,
+  - 1\. Wirtschaftsförderung: Neue Regionalpolitik und Bürgschaftsgenossenschaft für KMU,
+  - 2\. Binnenmarkt und WTO (Welthandelsabkommen GATT/GATS/TRIPS), Submissionsvorschriften,
   - 3\. Tourismus,
   - 4\. Wohnbau- und Eigentumsförderung,
   - 5\. …
   - 6\. Statistik,
-  - 7\. Handelsregister, Stiftungsaufsicht, Amtsnotariat,
+  - 7\. Handelsregister,
+  - 7a. Stiftungsaufsicht,
   - 8\. Grundstückerwerb durch Personen im Ausland,
-  - 9\. Grundbuch und Vermessung,
-  - 10\. GIS-Koordination, Landinformationssystem,
-  - 11\. Öffentlicher Verkehr mit: Planung und Umsetzung der Leistungen des öffentlichen Verkehrs (Infrastruktur, Rollmaterial und Angebot), Vollzug der kantonalen Aufgaben gemäss Eisenbahngesetz, Konzessionen und kantonale Bewilligungen, Angebotsbestellungen und -vereinbarungen, Fahrplanwesen, Tarifverbund;
+  - 9\. Grundbuch,
+  - 9a. Grundbuchbereinigung,
+  - 9b. Amtliche Vermessung,
+  - 10\. Geoinformation einschliesslich GIS-Koordination und Führung des ÖREB-Katasters,
+  - 11\. …
+  - 12\. Wirtschaftliche Landesversorgung,
+  - 13\. Registerharmonisierung (ohne Aufsicht über die Einwohnerkontrollen);
 - c. Amt für Arbeit:
   - 1\. Arbeitsrecht, Arbeitsmarkt,
   - 2\. Arbeitsvermittlung, Arbeitslosenversicherung, Zivildiensteinsätze,
-  - 3\. Aufenthalt und Niederlassung von ausländischen Personen mit Zwangsmassnahmen im Ausländerrecht,
+  - 3\. Aufenthalt und Niederlassung von ausländischen Personen (eingeschlossen Ausweisschriften und Zwangsmassnahmen im Ausländerrecht),
   - 4\. Transnationale Ehe- und Partnerschaftsvermittlung,
   - 5\. Markt- und Reisendengewerbe,
   - 6\. Gastgewerbe, Handel mit alkoholischen Getränken, Campingplätze, Bergführerwesen und Anbieten weiterer Risikoaktivitäten,
@@ -208,24 +215,26 @@ beschliesst:
   - 10\. Eich- und Messwesen,
   - 11\. Preiskontrolle,
   - 12\. Konsumkredit,
-  - 13\. Geldspiele,
-  - 14\. allgemeine Kantonsbeiträge und Vergabungen (eingeschlossen Entwicklungshilfe und humanitäre Hilfe);
+  - 13\. Geldspiel- und Lotteriewesen,
+  - 14\. Vergabungen aus dem Swisslos-Fonds (Entwicklungshilfe und humanitäre Hilfe im Ausland);
 - d. Amt für Landwirtschaft und Umwelt:
-  - 1\. Agrarpolitik,
-  - 2\. Beratung mit: Betriebswirtschaft/Marketing, Tierhaltung, Milchwirtschaft, Alpwirtschaft, Pflanzenbau, Weinbau, Ökologie, Tier- und Gewässerschutz in der Landwirtschaft, Bodenschutz in der Landwirtschaft, Hauswirtschaft (Beratung im ländlichen Raum),
-  - 3\. Strukturverbesserungen und Fördermassnahmen mit: Finanzhilfen (Beiträge, Investitionskredite, Betriebshilfedarlehen, Umschulungsbeiträge, Wohnungsbau im ländlichen Raum, landwirtschaftliche Betriebsleiterwohnungen im Berggebiet), Absatzförderung, Innovationsbeiträge, Förderung der Tierzucht,
+  - 1\. Agrarrecht,
+  - 2\. Beratung Landwirtschaft,
+  - 3\. Strukturverbesserungen,
   - 4\. …
+  - 4a. Schlachtvieh-Absatzförderung und Förderung der Tierzucht,
   - 5\. Bodenrecht und Pachtrecht,
-  - 6\. Allgemeine und ökologische Direktzahlungen mit: Agrardatenerhebung,
-  - 7\. Umweltschutz mit: Luftreinhaltung, Lärmschutz, Störfallvorsorge, nichtionisierende Strahlen, Abfallbewirtschaftung, Sonderabfälle, wassergefährdende Flüssigkeiten, qualitativer und quantitativer Gewässerschutz, Bodenschutz, umweltgefährdende Stoffe, Organismen,
+  - 6\. Direktzahlungen,
+  - 7\. Umweltschutz mit: Luftreinhaltung, Lärmschutz, Störfallvorsorge, nichtionisierende Strahlen, Koordination ABC-Schutz, Abfallbewirtschaftung, Sonderabfälle, belastete Standorte, Bodenschutz, wassergefährdende Flüssigkeiten, Bodenschutz, umweltgefährdende Stoffe, Organismen,
+  - 7a. Gewässerschutz,
+  - 7b. Wärmenutzung aus Wasser und Boden,
   - 8\. Fischerei,
-  - 9\. Gewässernutzung, Wärmenutzung aus Wasser und Boden;
+  - 9\. …
   - 10\. landwirtschaftliche Grundstückschätzung.
 
 <sup>2</sup> Dem Volkswirtschaftsdepartement ist zugewiesen:
 
-- a. Ausgleichskasse:
-  - 1\. Sozialversicherung (AHV, IV, EO, eingeschlossen Ergänzungsleistungen und Familienausgleichskasse);
+- a. Ausgleichskasse;
 - b. …
 
 #### Art. 5
@@ -235,29 +244,34 @@ beschliesst:
 <sup>1</sup> Dem Bildungs- und Kulturdepartement (BKD) sind folgende Aufgabenbereiche zugeteilt:
 
 - a. Departementssekretariat:
-  - 1\. höhere Fachschulen, Fachhochschulen, Hochschulen, Lehrerinnen- und Lehrerbildung,
+  - 1\. höhere Fachschulen, Hochschulen,
   - 2\. Ausbildungsbeiträge (Stipendien und Darlehen),
   - 3\. kirchliche Angelegenheiten;
 - b. Amt für Volks- und Mittelschulen:
-  - 1\. Kindergarten, Volksschule, Sonderschulen,
-  - 2\. Schulaufsicht,
+  - 1\. Schulen der Einwohnergemeinden, Sonderschulen,
+  - 2\. Schulaufsicht, Qualitätsmanagement,
   - 3\. Lehrmittel, Lehrerinnen- und Lehrerweiterbildung,
   - 4\. Privatschulen und Privatunterricht (Aufsicht),
-  - 5\. Schulpsychologischer Dienst, Psychomotoriktherapie,
-  - 6\. Logopädischer Dienst,
+  - 5\. Schulpsychologischer Dienst, psychomotorische Therapiestelle, Logopädischer Dienst, heilpädagogische Früherziehung,
+  - 6\. Sonderpädagogische Massnahmen,
   - 7\. Lehrerinnen- und Lehrerberatung,
-  - 8\. Kantonsschule, Mittelschulen;
+  - 8\. Kantonsschule, Mittelschulen,
+  - 9\. Schulgesundheitsdienst;
 - c. Amt für Berufsbildung:
   - 1\. Lehraufsicht,
-  - 2\. berufliche Grundausbildung, Berufsmaturität,
+  - 1a. Brückenangebote,
+  - 2\. berufliche Grundbildung, Berufsmaturität,
+  - 2a. höhere Berufsbildung (Aufsicht),
   - 3\. berufsorientierte und allgemeine Weiterbildung,
+  - 3a. Qualifikationsverfahren,
+  - 3b. Bildung von Bildungsverantwortlichen,
   - 4\. Berufs- und Weiterbildungsberatung;
 - d. Amt für Kultur und Sport:
   - 1\. Kulturförderung, Kulturpflege, Denkmalpflege, Archäologie, Kulturgüterschutz,
   - 2\. Kantonsbibliothek,
-  - 3\. Medienfragen,
+  - 3\. …
   - 4\. Jugend und Sport, Schulsport, Vereinssport,
-  - 5\. Sport-Toto-Beiträge.
+  - 5\. …
 - e. …
 
 #### Art. 6
@@ -267,35 +281,37 @@ beschliesst:
 <sup>1</sup> Dem Bau- und Raumentwicklungsdepartement (BRD) sind folgende Aufgabenbereiche zugeteilt:
 
 - a. Departementssekretariat:
-- b. Hoch und Tiefbauamt:
-  - 1\. Liegenschaftsverwaltung mit: Miete, Pacht, Erwerb und Verkauf von Liegenschaften, Rechtsgeschäfte mit dinglichem Charakter, Inanspruchnahme öffentlicher Plätze,
-  - 2\. Hochbau mit: Planung und Bau, Gebäudebewirtschaftung (baulicher Unterhalt, Mobiliar und Ausstattung), Hauswart- und Reinigungsdienst,
-  - 3\. Energie,
+- b. Hoch- und Tiefbauamt:
+  - 1\. Immobilien- und Raumbewirtschaftung,
+  - 2\. Hochbauprojekte,
+  - 3\. Energie und Klima,
+  - 3a. Nutzung der Gewässer,
   - 4\. Bergregal,
-  - 5\. Kantons- und Nationalstrassen (inklusiv Radwege von kantonaler Bedeutung) mit: Projektierung, Bau, Betrieb und Unterhalt, Landerwerb,
-  - 6\. Strassenbeiträge (aus Treibstoffzollanteilen und Verkehrsabgaben);
+  - 5\. Kantonsstrassen und kantonale Velowege,
+  - 5a. Nationalstrassen,
+  - 6\. Strassenbeiträge (aus Mineralöl- und Verkehrssteuern),
   - 7\. …
 - c. Amt für Wald und Landschaft:
-  - 1\. Waldentwicklung,
-  - 2\. Waldnutzung und Waldpflege,
-  - 3\. Strukturverbesserungen,
-  - 4\. Aus- und Weiterbildung des Forstpersonals, Beratung der Waldeigentümer,
-  - 5\. Förderungsmassnahmen (forstliche Beiträge und Investitionskredite),
-  - 6\. Forstschutz, Vollzug Stoffverordnung, Bodenschutz im Wald,
-  - 7\. Natur- und Landschaftsschutz (eingeschlossen Pilzschutz),
-  - 8\. Wildtiere (Artenschutz und Jagd),
-  - 9\. Schutz vor Naturgefahren (Gefahrenkartierung und -beurteilung, forstlicher Bach- und Hangverbau, Steinschlagverbau, Lawinenverbau),
-  - 10\. Wasserbau (mit Wuhrgenossenschaften) und Gewässeraufsicht (eingeschlossen Aufsicht über Stauanlagen, Gewässerraum und Gewässerrevitalisierung);
-  - 11\. Forstpolizei, Walderhaltung.
-  - 12\.–17. …
+  - 1\. Wald,
+  - 2\.–6. …
+  - 7\. Natur- und Landschaftsschutz,
+  - 8\. Wildtiere und Jagd,
+  - 9\. Naturgefahren,
+  - 10\. Wasserbau,
+  - 11\.–17. …
 - d. Amt für Raumentwicklung und Verkehr:
   - 1\. Bau- und Planungsrecht (eingeschlossen Genehmigung von Bau- und Erschliessungsreglementen),
   - 2\. Richtplanung, Nutzungs-, Quartier- und Spezialplanungen,
-  - 3\. Gesamtverkehrsplanung im Bereich: der kantonalen Richtplanung, der Beteiligung an der Sachplanung Verkehr des Bundes,
-  - 4\. Verkehrsplanung im Bereich: der Rad-, Fuss- und Wanderwege von kantonaler Bedeutung, der Strassen von kantonaler Bedeutung,
-  - 5\. Transportanlagen (Seilbahnen und Skilifte), Leitungen, Luftfahrt (Flugeinrichtungen und -hindernisse, Aussenlandungen im Gebirge),
+  - 3\. Gesamtverkehrsplanung,
+  - 4\. Verkehrsplanung im Bereich der Fuss- und Wanderwege sowie der kantonalen Velowege,
+  - 4a. Öffentlicher Verkehr,
+  - 5\. Transportanlagen (Seilbahnen und Skilifte), Leitungen, Luftfahrt,
   - 6\. Telekommunikationsanlagen,
   - 7\. Baukoordination.
+
+<sup>2</sup> Dem Bau- und Raumentwicklungsdepartement ist zugewiesen:
+
+- a. Elektrizitätswerk Obwalden.
 
 ## 2. Gliederung
 
@@ -375,6 +391,8 @@ geändert durch:
 
 \- AB zum Einführungsgesetz zum Geldspielgesetz vom 22. Dezember 2020, in Kraft seit 1.1.2021 (OGS 2021, 2),
 
-\- AB über das Interne Kontrollsystem IKS vom 21. September 2021, in Kraft seit 1. Oktober 2021 (OGS 2021, 31)
+\- AB über das Interne Kontrollsystem IKS vom 21. September 2021, in Kraft seit 1. Oktober 2021 (OGS 2021, 31),
+
+\- Nachtrag vom 21. Juni 2022, in Kraft seit 1. Juli 2022 (OGS 2022, 20)
 
 OGS 2002, 33
