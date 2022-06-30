@@ -4,11 +4,11 @@ title: Règlement du 17 avril 2008 du Tribunal administratif fédéral (RTAF)
 short: RTAF
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/320"
 language: fr
-version: 2021-10-01
+version: 2022-07-01
 adopted: 2008-04-17
 in_force: 2008-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/320/20211001/fr/xml/fedlex-data-admin-ch-eli-cc-2008-320-20211001-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/320/20211001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/320/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-2008-320-20220701-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/320/20220701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/320/20211001/fr"
 
 (RTAF)
 
-du 17 avril 2008 (Etat le 1<sup>er</sup> octobre 2021)
+du 17 avril 2008 (Etat le 1<sup>er</sup> juillet 2022)
 
 Le Tribunal administratif fédéral,
 
@@ -43,11 +43,13 @@ La Cour plénière est compétente pour:
 - d. élire les membres du Comité de conciliation qui n’en font pas partie d’office;
 - e. se prononcer sur les modifications du taux d’occupation des juges durant la période de fonction;
 - f. adopter le rapport de gestion;
-- g. constituer les cours et nommer leur président sur proposition de la Commission administrative;
+- g.[^1-1] constituer les cours et nommer leur président;
 - h. faire une proposition à l’Assemblée fédérale pour l’élection du président et du vice-président;
 - i. nommer le secrétaire général et son suppléant sur proposition de la Commission administrative;
 - j. statuer sur l’adhésion à des associations internationales;
 - k. exercer les autres tâches que la LTAF lui attribue.
+
+[^1-1]: Nouvelle teneur selon le ch. I de la D du TAF du 14 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 355](https://fedlex.data.admin.ch/eli/oc/2022/355)).
 
 #### Art. 2
 
@@ -93,17 +95,17 @@ Seules sont éligibles les personnes dont la candidature a été annoncée dans 
 
 #### Art. 6
 
-**Élection des présidents de cours**
+**Élection des présidents de cours**[^6-1]
 
-<sup>1</sup> Ne peuvent être élues président d’une cour que les personnes dont la candidature a été préalablement annoncée et soumise à l’examen de la Commission administrative.
+<sup>1</sup> Les candidatures à l’élection de la présidence d’une cour doivent être annoncées à la cour. Cette dernière définit la procédure interne et propose à la Commission administrative un candidat.
 
-<sup>2</sup> La Commission administrative fixe le délai de dépôt des candidatures et les communique à la Cour plénière.
+<sup>2</sup> La Commission administrative fixe le délai de dépôt des candidatures au sens de l’al. 1 et communique la date aux membres de la Cour plénière.
 
-<sup>3</sup> Elle examine les candidatures et consulte la cour concernée.
+<sup>3</sup> Elle examine la proposition de la cour et fait parvenir sa proposition (art. 16, al. 1, let. e, LTAF) aux membres de la Cour plénière au plus tard cinq jours avant l’élection.
 
-<sup>4</sup> Elle communique sa proposition et le nom des autres candidats examinés aux membres de la Cour plénière au plus tard cinq jours avant l’élection.
+<sup>4</sup> et <sup>5</sup> *Abrogés*
 
-<sup>5</sup> Si la Commission administrative ne propose qu’une personne et qu’elle n’a pas examiné d’autres candidatures, le candidat n’est élu que si la majorité absolue des membres participants à la séance approuve la proposition. À défaut, l’affaire est renvoyée à la Commission administrative.
+[^6-1]: Nouvelle teneur selon le ch. I de la D du TAF du 14 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 355](https://fedlex.data.admin.ch/eli/oc/2022/355)).
 
 #### Art. 7
 
@@ -125,9 +127,11 @@ La Commission administrative fait une proposition à la Cour plénière pour la 
 
 <sup>2</sup> Est élue la personne qui réunit sur son nom plus de la moitié des bulletins valables.
 
-<sup>3</sup> Les bulletins nuls et blancs ne sont pas pris en compte dans le calcul de la majorité absolue prévue à l’art. 22 LTAF. L’art. 6, al. 5, est réservé.
+<sup>3</sup> Les bulletins nuls et blancs ne sont pas pris en compte dans le calcul de la majorité absolue prévue à l’art. 22 LTAF.[^9-1]
 
 <sup>4</sup> Si aucun candidat n’obtient la majorité absolue, un nouveau tour de scrutin est organisé, le candidat recueillant le moins de voix étant éliminé.
+
+[^9-1]: Nouvelle teneur selon le ch. I de la D du TAF du 14 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 355](https://fedlex.data.admin.ch/eli/oc/2022/355)).
 
 ### Section 2 Présidence
 

@@ -4,11 +4,11 @@ title: Geschäftsreglement vom 17. April 2008 für das Bundesverwaltungsgericht 
 short: VGR
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/320"
 language: de
-version: 2021-10-01
+version: 2022-07-01
 adopted: 2008-04-17
 in_force: 2008-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/320/20211001/de/xml/fedlex-data-admin-ch-eli-cc-2008-320-20211001-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/320/20211001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/320/20220701/de/xml/fedlex-data-admin-ch-eli-cc-2008-320-20220701-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/320/20220701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/320/20211001/de"
 
 (VGR)
 
-Vom 17. April 2008 (Stand am 1. Oktober 2021)
+Vom 17. April 2008 (Stand am 1. Juli 2022)
 
 Das Bundesverwaltungsgericht (BVGer),
 
@@ -43,11 +43,13 @@ Das Gesamtgericht ist zuständig für:
 - d. die Wahl der Mitglieder der Schlichtungsstelle, die ihr nicht von Amtes wegen angehören;
 - e. Entscheide über Veränderungen des Beschäftigungsgrades der Richter und Richterinnen während der Amtsdauer;
 - f. die Verabschiedung des Geschäftsberichts;
-- g. die Bestellung der Abteilungen und die Wahl ihrer Präsidenten und Präsidentinnen auf Antrag der Verwaltungskommission;
+- g.[^1-1] die Bestellung der Abteilungen und die Wahl ihrer Präsidenten und Präsidentinnen;
 - h. den Vorschlag an die Bundesversammlung für die Wahl des Präsidenten oder der Präsidentin und des Vizepräsidenten oder der Vizepräsidentin;
 - i. die Anstellung des Generalsekretärs oder der Generalsekretärin und des Stellvertreters oder der Stellvertreterin auf Antrag der Verwaltungskommission;
 - j. Beschlüsse betreffend den Beitritt zu internationalen Vereinigungen;
 - k. andere Aufgaben, die ihm vom VGG zugewiesen werden.
+
+[^1-1]: Fassung gemäss Ziff. I des Beschlusses des BVGer vom 14. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 355](https://fedlex.data.admin.ch/eli/oc/2022/355)).
 
 #### Art. 2
 
@@ -93,17 +95,17 @@ Wählbar sind nur Kandidaten und Kandidatinnen, deren Kandidatur den Mitgliedern
 
 #### Art. 6
 
-**Wahl der Präsidenten oder Präsidentinnen der Abteilungen**
+**Wahl der Präsidenten oder Präsidentinnen der Abteilungen**[^6-1]
 
-<sup>1</sup> Zum Präsidenten oder zur Präsidentin einer Abteilung können nur Kandidaten und Kandidatinnen gewählt werden, deren Kandidatur vorgängig bei der Verwaltungskommission angemeldet und von dieser geprüft worden ist.
+<sup>1</sup> Kandidaturen zur Wahl als Präsident oder Präsidentin einer Abteilung sind bei der Abteilung anzumelden. Diese bestimmt das abteilungsinterne Verfahren und reicht ihren Wahlvorschlag, welcher einen Kandidaten oder eine Kandidatin enthält, der Verwaltungskommission ein.
 
-<sup>2</sup> Die Verwaltungskommission legt die Frist für die Anmeldung von Kandidaturen fest und teilt diese dem Gesamtgericht mit.
+<sup>2</sup> Die Verwaltungskommission legt die Eingabefristen nach Absatz 1 fest und teilt diese den Mitgliedern des Gesamtgerichts mit.
 
-<sup>3</sup> Sie prüft die Kandidaturen und hört die betroffene Abteilung an.
+<sup>3</sup> Die Verwaltungskommission prüft den Wahlvorschlag der Abteilung und stellt ihren Antrag (Art. 16 Abs. 1 Bst. e VGG) spätestens fünf Tage vor der Wahl den Mitgliedern des Gesamtgerichts zu.
 
-<sup>4</sup> Sie teilt ihren Wahlvorschlag zusammen mit den Namen der übrigen geprüften Kandidaten und Kandidatinnen spätestens fünf Tage vor der Wahl den Mitgliedern des Gesamtgerichts mit.
+<sup>4</sup> und <sup>5</sup> *Aufgehoben*
 
-<sup>5</sup> Schlägt die Verwaltungskommission für die Wahl nur einen einzigen Kandidaten oder eine einzige Kandidatin vor und stehen auch keine weiteren geprüften Kandidaturen zur Wahl, so ist der Kandidat oder die Kandidatin nur gewählt, wenn die absolute Mehrheit aller an der Sitzung teilnehmenden Mitglieder des Gesamtgerichts dem Vorschlag zustimmt. Andernfalls wird das Geschäft an die Verwaltungskommission zurückgewiesen.
+[^6-1]: Fassung gemäss Ziff. I des Beschlusses des BVGer vom 14. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 355](https://fedlex.data.admin.ch/eli/oc/2022/355)).
 
 #### Art. 7
 
@@ -125,9 +127,11 @@ Für die Anstellung des Generalsekretärs oder der Generalsekretärin und dessen
 
 <sup>2</sup> Gewählt ist, wer mehr als die Hälfte der gültigen Stimmen auf sich vereinigt.
 
-<sup>3</sup> Für die Bestimmung des absoluten Mehrs nach Artikel 22 VGG werden die leeren und die ungültigen Wahlzettel nicht gezählt. Vorbehalten bleibt Artikel 6 Absatz 5.
+<sup>3</sup> Für die Bestimmung des absoluten Mehrs nach Artikel 22 VGG werden die leeren und die ungültigen Wahlzettel nicht gezählt.[^9-1]
 
 <sup>4</sup> Erreicht niemand das absolute Mehr, so scheidet nach jedem Wahlgang der Kandidat oder die Kandidatin mit der geringsten Stimmenzahl aus.
+
+[^9-1]: Fassung gemäss Ziff. I des Beschlusses des BVGer vom 14. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 355](https://fedlex.data.admin.ch/eli/oc/2022/355)).
 
 ### 2. Abschnitt: Präsidium
 
@@ -594,7 +598,7 @@ Zu den öffentlichen Sitzungen des Gerichts erscheinen die Richter und Richterin
 
 <sup>1</sup> Das Geschäftsreglement vom 11. Dezember 2006[^38-1] für das Bundesverwaltungsgericht wird aufgehoben.
 
-<sup>2</sup> ...[^38-2]
+<sup>2</sup> …[^38-2]
 
 [^38-1]: [[AS 2006 5287](https://fedlex.data.admin.ch/eli/oc/2006/799)]
 [^38-2]: Die Änderung kann unter [AS 2008 2189](https://fedlex.data.admin.ch/eli/oc/2008/320)konsultiert werden.

@@ -4,11 +4,11 @@ title: Regolamento del 17 aprile 2008 del Tribunale amministrativo federale (RTA
 short: RTAF
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/320"
 language: it
-version: 2021-10-01
+version: 2022-07-01
 adopted: 2008-04-17
 in_force: 2008-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/320/20211001/it/xml/fedlex-data-admin-ch-eli-cc-2008-320-20211001-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/320/20211001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/320/20220701/it/xml/fedlex-data-admin-ch-eli-cc-2008-320-20220701-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/320/20220701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/320/20211001/it"
 
 (RTAF)
 
-del 17 aprile 2008 (Stato 1° ottobre 2021)
+del 17 aprile 2008 (Stato 1° luglio 2022)
 
 Il Tribunale amministrativo federale,
 
@@ -43,11 +43,13 @@ La Corte plenaria è competente per:
 - d. la nomina dei membri del Comitato di conciliazione che non ne fanno parte d’ufficio;
 - e. le decisioni concernenti le modifiche del grado di occupazione dei giudici durante il periodo di carica;
 - f. l’adozione del rapporto di gestione;
-- g. la costituzione delle corti e la nomina dei loro presidenti su proposta della Commissione amministrativa;
+- g.[^1-1] la costituzione delle corti e la nomina dei loro presidenti;
 - h. la proposta all’Assemblea federale per la nomina del presidente e del vicepresidente;
 - i. l’assunzione del segretario generale e del suo sostituto su proposta della Commissione amministrativa;
 - j. le decisioni concernenti l’adesione ad associazioni internazionali;
 - k. altri compiti che le sono attribuite dalla LTAF.
+
+[^1-1]: Nuovo testo giusta il n. I della Dec. del TAF del 14 giu. 2022, con effetto dal 1° lug. 2022 ([RU 2022 355](https://fedlex.data.admin.ch/eli/oc/2022/355)).
 
 #### Art. 2
 
@@ -93,17 +95,17 @@ Possono essere nominate soltanto persone la cui candidatura è stata resa nota a
 
 #### Art. 6
 
-**Nomina dei presidenti delle corti**
+**[Nomina dei presidenti delle corti](https://www.fedlex.admin.ch/eli/cc/2008/320/de)**[^6-1]
 
-<sup>1</sup> Possono essere nominate alla presidenza di una corte soltanto le persone la cui candidatura è stata presentata preventivamente alla Commissione amministrativa ed è stata esaminata da quest’ultima.
+<sup>1</sup> Le candidature per la nomina a presidente di una corte devono essere presentate alla stessa corte. Questa definisce la procedura da seguire al suo interno e propone alla Commissione amministrativa un candidato.
 
-<sup>2</sup> La Commissione amministrativa fissa il termine per la presentazione delle candidature e lo comunica alla Corte plenaria.
+<sup>2</sup> La Commissione amministrativa fissa i termini di presentazione ai sensi del capoverso 1 e li comunica ai membri della Corte plenaria.
 
-<sup>3</sup> Essa esamina le candidature e consulta la corte interessata.
+<sup>3</sup> Essa esamina la proposta di nomina presentata dalla corte e, al più tardi cinque giorni prima della nomina, invia la sua proposta (art. 16 cpv. 1 lett. e LTAF) ai membri della Corte plenaria.
 
-<sup>4</sup> La Commissione amministrativa comunica ai membri della Corte plenaria, al più tardi cinque giorni prima della nomina, la propria proposta di nomina unitamente ai nomi degli altri candidati esaminati.
+<sup>4</sup> e <sup>5</sup> *Abrogati*
 
-<sup>5</sup> Se la Commissione amministrativa propone un solo candidato per la nomina e se non vi sono altri candidati esaminati, il candidato è nominato soltanto se la maggioranza assoluta dei membri della Corte plenaria partecipanti alla seduta approva la proposta. In caso contrario, l’affare è rinviato alla Commissione amministrativa.
+[^6-1]: Nuovo testo giusta il n. I della Dec. del TAF del 14 giu. 2022, con effetto dal 1° lug. 2022 ([RU 2022 355](https://fedlex.data.admin.ch/eli/oc/2022/355)).
 
 #### Art. 7
 
@@ -125,9 +127,11 @@ Per l’assunzione del segretario generale e del suo sostituto, la Commissione a
 
 <sup>2</sup> Sono nominati i candidati che hanno ricevuto più della metà dei voti validi.
 
-<sup>3</sup> Per la determinazione della maggioranza assoluta secondo l’articolo 22 LTAF non vengono considerate né le schede bianche né quelle nulle. È fatto salvo l’articolo 6 capoverso 5.
+<sup>3</sup> Per la determinazione della maggioranza assoluta secondo l’articolo 22 LTAF non vengono considerate né le schede bianche né quelle nulle.[^9-1]
 
 <sup>4</sup> Se nessun candidato ottiene la maggioranza assoluta, il candidato che ha ottenuto il minor numero di voti viene eliminato dopo ogni turno di scrutinio.
+
+[^9-1]: Nuovo testo giusta il n. I della Dec. del TAF del 14 giu. 2022, con effetto dal 1° lug. 2022 ([RU 2022 355](https://fedlex.data.admin.ch/eli/oc/2022/355)).
 
 ### Sezione 2: Presidenza
 
@@ -279,7 +283,7 @@ Il segretario generale dirige l’amministrazione del Tribunale, ivi inclusi i s
 
 [^chap1-sec6-1]
 
-[^chap1-sec6-1]: Nuovo testo giusta il n. I della D del TAF del 21 mar. 2017, in vigore dal 1° lug. 2017 ([RU 2017 3401](https://fedlex.data.admin.ch/eli/oc/2017/373)).
+[^chap1-sec6-1]: Nuovo testo giusta il n. I della Dec. del TAF del 21 mar. 2017, in vigore dal 1° lug. 2017 ([RU 2017 3401](https://fedlex.data.admin.ch/eli/oc/2017/373)).
 
 #### Art. 16
 
