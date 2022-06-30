@@ -4,13 +4,13 @@ number: "121.213"
 title: Verordnung über das Kantons- und das Gemeindebürgerrecht
 short: KBüV
 language: de
-version: 2020-07-01
-valid_until: 2022-06-30
-version_adopted: 2020-02-26
+version: 2022-07-01
+valid_until: 2024-06-30
+version_adopted: 2022-02-16
 adopted: 2015-12-16
 in_force: 2016-04-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/121.213"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2837/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3206/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2837/pdf_file"
 
 (KBüV)
 
-Vom 16.12.2015 (Stand 01.07.2020)
+Vom 16.12.2015 (Stand 01.07.2022)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -103,9 +103,9 @@ beschliesst:
 
 **Gesuchsbeilagen im Allgemeinen**
 
-<sup>1</sup> Die Gesuchsbeilagen gemäss den §§ 8, 9 und 10 dürfen bei Gesuchseinreichung auf Gemeindeebene nicht älter als drei Monate sein.
+<sup>1</sup> …
 
-<sup>2</sup> Sie müssen für alle in das Gesuch einbezogenen Personen und, wenn nichts anderes festgelegt ist, im Original eingereicht werden.
+<sup>2</sup> Gesuchsbeilagen müssen für alle in das Gesuch einbezogenen Personen und, wenn nichts anderes festgelegt ist, im Original eingereicht werden.
 
 #### § 8
 
@@ -119,22 +119,26 @@ beschliesst:
 - d) Betreibungsregisterauszug für die letzten fünf Jahre (ab Volljährigkeit),
 - e) Bescheinigung der Finanzverwaltung der Wohngemeinde über die Bezahlung aller fälligen Steuern (ab Steuerpflicht).
 
+<sup>2</sup> Bei Gesuchseinreichung dürfen die Beilagen gemäss Absatz 1 lit. a und c–e nicht älter als drei Monate, jene gemäss Absatz 1 lit. b nicht älter als sechs Monate sein.
+
 #### § 9
 
 **Zusätzliche Gesuchsbeilagen von Ausländerinnen und Ausländern**
 
 <sup>1</sup> Einbürgerungsgesuchen von Ausländerinnen und Ausländern sind zusätzlich beizulegen:
 
-- a) Kopie des Ausländerausweises,
-- b) Passkopie,
+- a) Kopie des gültigen Ausländerausweises,
+- b) Kopie des gültigen Passes,
 - c) Aufstellung aller bisherigen Wohnorte, Schulorte und Arbeitsstellen auf kantonalem Formular,
 - d) bei Arbeitnehmenden: Bestätigung der aktuellen Arbeitgeberin beziehungsweise des aktuellen Arbeitgebers,
-- e) bei Lernenden: Bestätigung des Lehrbetriebs,
-- f) bei Studierenden: Immatrikulationsbestätigung,
+- e) bei Lernenden: Bestätigung des aktuellen Lehrbetriebs,
+- f) bei Studierenden: Immatrikulationsbestätigung der aktuellen Studieneinrichtung,
 - g) bei Schülerinnen und Schülern: Bestätigung der aktuellen Schule,
 - h) Kopie des Sprachdiploms oder Nachweis eines mindestens 5 Jahre dauernden Besuchs der obligatorischen Schule in Deutsch oder einer Ausbildung auf Sekundarstufe II oder Tertiärstufe in Deutsch, sofern die Muttersprache nicht Deutsch ist,
 - i) Bestätigung des bestandenen Tests der staatsbürgerlichen Kenntnisse,
-- j) Bestätigung betreffend Bezug von Sozialhilfe.
+- j) Bestätigungen betreffend Bezug von Sozialhilfe für die letzten 10 Jahre vor Gesuchseinreichung.
+
+<sup>1<sup>bis</sup></sup> Bei Gesuchseinreichung dürfen die Beilagen gemäss Absatz 1 lit. d–g und j nicht älter als drei Monate, jene gemäss Absatz 1 lit. i nicht älter als sechs Monate sein.
 
 <sup>2</sup> Bei Bedarf können die für die Erhebungen zuständigen kommunalen und kantonalen Stellen bei der gesuchstellenden Person oder bei Drittpersonen weitere relevante Unterlagen verlangen.
 
@@ -144,8 +148,8 @@ beschliesst:
 
 <sup>1</sup> Gesuchen um Bürgerrechtsentlassung sind beizulegen:
 
-- a) Aktuelle Wohnsitzbestätigung,
-- b) Zivilstandsdokumente aus dem schweizerischen Personenstandsregister.
+- a) …
+- b) Zivilstandsdokumente aus dem schweizerischen Personenstandsregister, die bei Gesuchseinreichung nicht älter als sechs Monate sind.
 
 #### § 11
 
