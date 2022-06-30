@@ -3,20 +3,19 @@ canton: OW
 number: "419.311"
 title: Reglement über den Kathriner-Egger-Fonds
 language: de
-version: 2022-01-01
-valid_until: 2022-06-30
-version_adopted: 2021-12-21
+version: 2022-07-01
+version_adopted: 2022-06-13
 adopted: 2007-02-06
 in_force: 2007-02-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/419.311"
-pdf: "http://gdb.ow.ch/api/de/versions/1564/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1590/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über den Kathriner-Egger-Fonds
 
-vom 06.02.2007 (Stand 01.01.2022)
+vom 06.02.2007 (Stand 01.07.2022)
 
 Der Regierungsrat des Kantons Obwalden,
 
@@ -58,7 +57,7 @@ beschliesst:
 
 <sup>1</sup> Für eine Periode von fünf Jahren dürfen dem Fonds höchstens Fr. 150 000.– entnommen werden. Pro Jahr können somit durchschnittlich Fr. 30 000.– an Beiträgen ausgeschüttet werden.
 
-<sup>2</sup> Die in einem Kalenderjahr anfallenden Zinsen werden dem Fondsvermögen zugeschlagen.
+<sup>2</sup> Die in einem Kalenderjahr anfallenden Zinsen werden dem Fondsvermögen zugeschlagen. Negativzinsen werden nicht dem Fondsvermögen belastet.
 
 <sup>3</sup> Über die Mittelverwendung für die nächste Fünfjahres-Periode wird im letzten Jahr der laufenden Periode entschieden.
 
@@ -119,6 +118,8 @@ geändert durch
 
 \- Nachtrag vom 13. Dezember 2016, in Kraft seit 1. Januar 2017 (OGS 2016, 87),
 
-\- Nachtrag vom 21. Dezember 2021, in Kraft seit 1. Januar 2022 (OGS 2021, 58)
+\- Nachtrag vom 21. Dezember 2021, in Kraft seit 1. Januar 2022 (OGS 2021, 58),
+
+\- Nachtrag vom 13. Juni 2022, in Kraft seit 1. Juli 2022 (OGS 2022, 19)
 
 OGS 2007, 7
