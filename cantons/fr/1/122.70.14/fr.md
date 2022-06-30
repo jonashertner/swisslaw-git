@@ -4,13 +4,12 @@ number: "122.70.14"
 title: Ordonnance relative au harcèlement et aux difficultés relationnelles sur le lieu de travail
 short: OHarc
 language: fr
-version: 2016-07-01
-valid_until: 2022-06-30
-version_adopted: 2015-12-14
+version: 2022-07-01
+version_adopted: 2022-05-24
 adopted: 2015-12-14
 in_force: 2016-07-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/122.70.14"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5020/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8294/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Harcèlement sur le lieu de travail – O
 
 (OHarc)
 
-du 14.12.2015 (version entrée en vigueur le 01.07.2016)
+du 14.12.2015 (version entrée en vigueur le 01.07.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -45,7 +44,9 @@ Arrête:
 
 <sup>2</sup> Elle précise en outre certaines règles de la procédure formelle.
 
-<sup>3</sup> La présente ordonnance s'applique à l'ensemble du personnel soumis à la loi sur le personnel de l'Etat. Elle s'applique par analogie aux apprenti-e-s et aux stagiaires.
+<sup>3</sup> La présente ordonnance s'applique à l'ensemble du personnel soumis à la loi sur le personnel de l'Etat[^1-1]. Elle s'applique par analogie aux apprenti-e-s et aux stagiaires.
+
+[^1-1]: RSF [122.70.1](https://bdlf.fr.ch/data/122.70.1/fr)
 
 #### Art. 2
 
@@ -192,13 +193,18 @@ Arrête:
 
 **Application du CPJA**
 
-<sup>1</sup> La procédure formelle est régie par le code de procédure et de juridiction administrative (CPJA), sous réserve des dispositions de la loi sur le personnel de l'Etat et des garanties particulières prévues par la législation fédérale dans le domaine de l'égalité entre femmes et hommes. L'autorité qui mène la procédure formelle collabore systématiquement avec le BEF sur les aspects juridiques pour les situations de harcèlement sexuel.
+<sup>1</sup> La procédure formelle est régie par le code de procédure et de juridiction administrative (CPJA)[^14-1], sous réserve des dispositions de la loi sur le personnel de l'Etat[^14-2] et des garanties particulières prévues par la législation fédérale dans le domaine de l'égalité entre femmes et hommes. L'autorité qui mène la procédure formelle collabore systématiquement avec le BEF sur les aspects juridiques pour les situations de harcèlement sexuel.
 
 <sup>2</sup> Si une médiation, demandée et acceptée par les parties, est effectuée par une personne de confiance n'étant pas intervenue dans la procédure informelle ou par un médiateur ou une médiatrice externe, l'autorité d'engagement peut suspendre la procédure formelle.
 
 <sup>3</sup> Si la procédure formelle suit une procédure informelle, les personnes de confiance, ou toute autre personne ayant participé à la procédure informelle, sont exclues du processus d'enquête afin que la confidentialité de leur action soit garantie.
 
-<sup>4</sup> Conformément à l'article 141a du règlement du 17 décembre 2002 du personnel de l'Etat, la Commission de conciliation en matière d'égalité entre les sexes dans les rapports de travail peut être appelée à rendre un avis sur un recours dirigé contre une décision de première instance portant sur les rapports de service de droit public et comprenant une discrimination au sens de la loi fédérale sur l'égalité entre femmes et hommes invoquée par la partie recourante.
+<sup>4</sup> Conformément à l'article 141a du règlement du 17 décembre 2002 du personnel de l'Etat[^14-3], la Commission de conciliation en matière d'égalité entre les sexes dans les rapports de travail peut être appelée à rendre un avis sur un recours dirigé contre une décision de première instance portant sur les rapports de service de droit public et comprenant une discrimination au sens de la loi fédérale sur l'égalité entre femmes et hommes[^14-4] invoquée par la partie recourante.
+
+[^14-1]: RSF [150.1](https://bdlf.fr.ch/data/150.1/fr)
+[^14-2]: RSF [122.70.1](https://bdlf.fr.ch/data/122.70.1/fr)
+[^14-3]: RSF [122.70.11](https://bdlf.fr.ch/data/122.70.11/fr)
+[^14-4]: RS [151.1](https://db.clex.ch/link/Bund/151.1/fr)
 
 #### Art. 15
 
@@ -220,11 +226,11 @@ Arrête:
 
 **Composition**
 
-<sup>1</sup> La Commission OHarc est composée de sept membres, soit le président ou la présidente, trois personnes représentant le personnel et trois autres personnes.
+<sup>1</sup> La Commission OHarc est composée de neuf membres, soit le président ou la présidente, quatre personnes représentant le personnel et quatre autres personnes.
 
-<sup>2</sup> Pour les trois personnes représentant le personnel, dont deux au moins doivent être membres du personnel de l'Etat, deux sont désignées par la Fédération des associations du personnel des services publics du canton de Fribourg et une, par l'Association des cadres supérieurs et magistrats, magistrates de l'Etat de Fribourg.
+<sup>2</sup> Les quatre personnes représentant le personnel, dont trois au moins doivent être membres du personnel de l'Etat, sont choisies d'entente entre les partenaires reconnus. A défaut d'entente, le Conseil d'Etat tranche sur recommandation de la Délégation du Conseil d'Etat pour les questions du personnel.
 
-<sup>3</sup> Les trois autres personnes sont choisies par le Conseil d'Etat, et deux d'entre elles au moins doivent être membres du personnel de l'Etat.
+<sup>3</sup> Les quatre autres personnes sont choisies par le Conseil d'Etat, et trois d'entre elles au moins doivent être membres du personnel de l'Etat.
 
 <sup>4</sup> Le président ou la présidente est une personne spécialisée dans la thématique du harcèlement sexuel et psychologique. Il ou elle est désigné-e par le Conseil d'Etat.
 
@@ -257,7 +263,9 @@ Arrête:
 
 **Fusion de la Commission OHarc et de la Commission SST**
 
-<sup>1</sup> La Commission OHarc, selon l'article 16, et la Commission SST, selon l'article 6 de l'ordonnance du 24 avril 2007 relative à la sécurité et à la protection de la santé au travail dans l'administration cantonale, fusionneront dans un délai expirant le 31 décembre 2017.
+<sup>1</sup> La Commission OHarc, selon l'article 16, et la Commission SST, selon l'article 6 de l'ordonnance du 24 avril 2007 relative à la sécurité et à la protection de la santé au travail dans l'administration cantonale[^20-1], fusionneront dans un délai expirant le 31 décembre 2017.
+
+[^20-1]: RSF [122.0.81](https://bdlf.fr.ch/data/122.0.81/fr)
 
 #### Art. 21
 

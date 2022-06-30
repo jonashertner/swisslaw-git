@@ -4,13 +4,12 @@ number: "122.70.14"
 title: "Verordnung über Mobbing, sexuelle Belästigung und zwischenmenschliche Probleme am Arbeitsplatz"
 short: MobV
 language: de
-version: 2016-07-01
-valid_until: 2022-06-30
-version_adopted: 2015-12-14
+version: 2022-07-01
+version_adopted: 2022-05-24
 adopted: 2015-12-14
 in_force: 2016-07-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.70.14"
-pdf: "https://bdlf.fr.ch/api/de/versions/5020/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8294/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Mobbing am Arbeitsplatz – V
 
 (MobV)
 
-vom 14.12.2015 (Fassung in Kraft getreten am 01.07.2016)
+vom 14.12.2015 (Fassung in Kraft getreten am 01.07.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -45,7 +44,9 @@ beschliesst:
 
 <sup>2</sup> Sie legt ausserdem einige Regeln für das formelle Verfahren fest.
 
-<sup>3</sup> Diese Verordnung gilt für das gesamte dem Gesetz über das Staatspersonal unterstehende Personal. Sie gilt sinngemäss für die Lernenden sowie die Praktikantinnen und Praktikanten.
+<sup>3</sup> Diese Verordnung gilt für das gesamte dem Gesetz über das Staatspersonal[^1-1] unterstehende Personal. Sie gilt sinngemäss für die Lernenden sowie die Praktikantinnen und Praktikanten.
+
+[^1-1]: SGF [122.70.1](https://bdlf.fr.ch/data/122.70.1/de)
 
 #### Art. 2
 
@@ -192,13 +193,18 @@ beschliesst:
 
 **Anwendung des VRG**
 
-<sup>1</sup> Das formelle Verfahren richtet sich nach dem Gesetz über die Verwaltungsrechtspflege (VRG); die Bestimmungen des Gesetzes über das Staatspersonal und die besonderen Garantien im Bereich der Gleichstellung von Frau und Mann nach der Bundesgesetzgebung bleiben vorbehalten. Die Behörde, die das formelle Verfahren leitet, arbeitet bei den rechtlichen Aspekten in Fällen sexueller Belästigung in jedem Fall mit dem GFB zusammen.
+<sup>1</sup> Das formelle Verfahren richtet sich nach dem Gesetz über die Verwaltungsrechtspflege (VRG)[^14-1]; die Bestimmungen des Gesetzes über das Staatspersonal[^14-2] und die besonderen Garantien im Bereich der Gleichstellung von Frau und Mann nach der Bundesgesetzgebung bleiben vorbehalten. Die Behörde, die das formelle Verfahren leitet, arbeitet bei den rechtlichen Aspekten in Fällen sexueller Belästigung in jedem Fall mit dem GFB zusammen.
 
 <sup>2</sup> Werden von den Parteien verlangte und akzeptierte Mediationen von Vertrauenspersonen, die nicht in das informelle Verfahren einbezogen waren, oder von externen Mediatorinnen oder Mediatoren durchgeführt, so kann die Anstellungsbehörde das formelle Verfahren sistieren.
 
 <sup>3</sup> Folgt ein formelles Verfahren auf ein informelles Verfahren, so sind die Vertrauenspersonen und alle anderen Personen, die am informellen Verfahren teilgenommen haben, vom Untersuchungsprozess ausgeschlossen, damit die Vertraulichkeit ihres Handelns gewahrt ist.
 
-<sup>4</sup> Nach Artikel 141a des Reglements vom 17. Dezember 2002 über das Staatspersonal kann die Schlichtungskommission für die Gleichstellung der Geschlechter im Erwerbsleben ersucht werden, zu einer Beschwerde gegen einen erstinstanzlichen Entscheid Stellung zu nehmen, der ein öffentlich-rechtliches Arbeitsverhältnis betrifft und eine von der beschwerdeführenden Partei geltend gemachte Diskriminierung im Sinne des Bundesgesetzes über die Gleichstellung von Frau und Mann enthält.
+<sup>4</sup> Nach Artikel 141a des Reglements vom 17. Dezember 2002 über das Staatspersonal[^14-3] kann die Schlichtungskommission für die Gleichstellung der Geschlechter im Erwerbsleben ersucht werden, zu einer Beschwerde gegen einen erstinstanzlichen Entscheid Stellung zu nehmen, der ein öffentlich-rechtliches Arbeitsverhältnis betrifft und eine von der beschwerdeführenden Partei geltend gemachte Diskriminierung im Sinne des Bundesgesetzes über die Gleichstellung von Frau und Mann[^14-4] enthält.
+
+[^14-1]: SGF [150.1](https://bdlf.fr.ch/data/150.1/de)
+[^14-2]: SGF [122.70.1](https://bdlf.fr.ch/data/122.70.1/de)
+[^14-3]: SGF [122.70.11](https://bdlf.fr.ch/data/122.70.11/de)
+[^14-4]: SR [151.1](https://db.clex.ch/link/Bund/151.1/de)
 
 #### Art. 15
 
@@ -220,11 +226,11 @@ beschliesst:
 
 **Zusammensetzung**
 
-<sup>1</sup> Die MobV-Kommission setzt sich aus sieben Mitgliedern zusammen, der Präsidentin oder dem Präsidenten, drei Personalvertreterinnen und -vertretern und drei anderen Personen.
+<sup>1</sup> Die MobV-Kommission setzt sich aus neun Mitgliedern zusammen, der Präsidentin oder dem Präsidenten, vier Personalvertreterinnen und ‑vertretern und vier anderen Personen.
 
-<sup>2</sup> Mindestens zwei der drei Personalvertreterinnen und -vertreter müssen Staatsangestellte sein, zwei Personalvertreterinnen und -vertreter werden von der Föderation der Personalverbände der Staatsangestellten des Kantons Freiburg (FEDE) bestimmt und eine Personalvertreterin bzw. ein Personalvertreter von der Vereinigung der Magistraten und höheren Beamten der Kantonverwaltung Freiburg.
+<sup>2</sup> Die vier Personalvertreterinnen und -vertreter, von denen mindestens drei Staatsangestellte sein müssen, werden im Einvernehmen zwischen den anerkannten Sozialpartnern ausgewählt. Kommt keine Einigung zustande, so entscheidet der Staatsrat auf Empfehlung seiner Delegation für das Personalwesen.
 
-<sup>3</sup> Die drei übrigen Personen werden vom Staatsrat bestimmt; mindestens zwei von ihnen müssen Staatsangestellte sein.
+<sup>3</sup> Die vier übrigen Personen werden vom Staatsrat bestimmt; mindestens drei von ihnen müssen Staatsangestellte sein.
 
 <sup>4</sup> Die Präsidentin oder der Präsident muss eine Fachperson im Bereich Mobbing und sexuelle Belästigung sein. Sie oder er wird vom Staatsrat bestimmt.
 
@@ -257,7 +263,9 @@ beschliesst:
 
 **Zusammenschluss der MobV-Kommission und der SGA-Kommission**
 
-<sup>1</sup> Die MobV-Kommission nach Artikel 16 und die SGA-Kommission nach Artikel 6 der Verordnung vom 24. April 2007 über die Sicherheit und den Gesundheitsschutz am Arbeitsplatz in der Kantonsverwaltung werden bis 31. Dezember 2017 zusammengeschlossen.
+<sup>1</sup> Die MobV-Kommission nach Artikel 16 und die SGA-Kommission nach Artikel 6 der Verordnung vom 24. April 2007 über die Sicherheit und den Gesundheitsschutz am Arbeitsplatz[^20-1] in der Kantonsverwaltung werden bis 31. Dezember 2017 zusammengeschlossen.
+
+[^20-1]: SGF [122.0.81](https://bdlf.fr.ch/data/122.0.81/de)
 
 #### Art. 21
 
