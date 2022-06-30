@@ -3,20 +3,19 @@ canton: ZG
 number: "212.313"
 title: Ausführungsbestimmungen der Zentralschweizer BVG- und Stiftungsaufsicht (ZBSA) betreffend die Aufsicht über die Stiftungen
 language: de
-version: 2019-09-01
-valid_until: 2022-06-30
-version_adopted: 2019-06-03
+version: 2022-07-01
+version_adopted: 2022-05-23
 adopted: 2005-09-16
 in_force: 2006-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/212.313"
-pdf: "https://bgs.zg.ch/api/de/versions/2006/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2346/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen der Zentralschweizer BVG- und Stiftungsaufsicht (ZBSA) betreffend die Aufsicht über die Stiftungen
 
-Vom 16. September 2005 (Stand 1. September 2019)
+Vom 16. September 2005 (Stand 1. Juli 2022)
 
 Der Konkordatsrat der Zentralschweizer BVG- und Stiftungsaufsicht (ZBSA),
 
@@ -33,7 +32,7 @@ beschliesst:
 
 **Geltungsbereich**
 
-<sup>1</sup> Diese Ausführungsbestimmungen regeln die gesetzliche Aufsicht über die privaten Stiftungen im Sinne von Art. 80 ff. ZGB (sog. klassische Stiftungen), die nach ihrer Bestimmung den Kantonen Luzern, Schwyz, Nidwalden oder Zug angehören.
+<sup>1</sup> Diese Ausführungsbestimmungen regeln die gesetzliche Aufsicht über die privaten Stiftungen im Sinne von Art. 80 ff. ZGB (sog. klassische Stiftungen), die nach ihrer Bestimmung den Kantonen Luzern, Schwyz, Obwalden, Nidwalden oder Zug angehören.
 
 <sup>2</sup> Sie sind nicht anwendbar auf Familienstiftungen und kirchliche Stiftungen (Art. 87 ZGB) sowie auf Stiftungen, die der Aufsicht des Bundes unterstehen. Für Personalvorsorgestiftungen, die auf dem Gebiet der Alters-, Hinterlassenen- und Invalidenvorsorge tätig sind, und für Einrichtungen, die nach ihrem Zweck der beruflichen Vorsorge dienen, gelten die Ausführungsbestimmungen der ZBSA über die berufliche Vorsorge vom 16. September 2005[^1-1].
 
@@ -168,7 +167,7 @@ beschliesst:
 
 **Jährliche Aufsichtsgebühr**
 
-<sup>1</sup> Für die jährliche Prüfung der Berichte und Rechnungen wird eine Grundgebühr von 300 Franken zuzüglich 0,1 Promille des Bruttovermögens, abgerundet auf den nächsten vollen Franken, höchstens aber von 3300 Franken erhoben.
+<sup>1</sup> Für die jährliche Prüfung der Berichte und Rechnungen wird eine Grundgebühr von 300 Franken zuzüglich 0,1 Promille des Bruttovermögens, abgerundet auf den nächsten vollen Franken, höchstens aber von 3800 Franken erhoben.
 
 <sup>2</sup> Sind Abklärungen notwendig, die das übliche Mass übersteigen, darf die Gebühr auf maximal den doppelten Betrag erhöht werden.
 
