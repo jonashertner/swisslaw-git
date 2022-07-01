@@ -4,13 +4,13 @@ number: "154.211"
 title: Vollziehungsverordnung zum Gesetz über das Arbeitsverhältnis des Staatspersonals
 short: Personalverordnung
 language: de
-version: 2018-01-01
-valid_until: 2022-07-01
-version_adopted: 2017-11-28
+version: 2022-07-02
+valid_until: 2023-12-31
+version_adopted: 2022-06-21
 adopted: 1994-12-12
 in_force: 1995-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/154.211"
-pdf: "https://bgs.zg.ch/api/de/versions/1716/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2350/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/1716/pdf_file"
 
 (Personalverordnung)
 
-Vom 12. Dezember 1994 (Stand 1. Januar 2018)
+Vom 12. Dezember 1994 (Stand 2. Juli 2022)
 
 Der Regierungsrat des Kantons Zug,
 
@@ -253,13 +253,15 @@ beschliesst:
 
 #### § 13a
 
-**Telearbeit**
+**Mobil-flexible Arbeit**
 
-<sup>1</sup> Mit Genehmigung der Leiterin bzw. des Leiters des Amts können Mitarbeiterinnen und Mitarbeiter ihre Arbeitsleistung in Form von Telearbeit erbringen. Weder besteht ein Rechtsanspruch auf Telearbeit noch kann diese angeordnet werden.
+<sup>1</sup> Mit Genehmigung der Leiterin bzw. des Leiters des Amts können Mitarbeiterinnen und Mitarbeiter ihre Arbeitsleistung in Form von mobil-flexibler Arbeit erbringen. Weder besteht ein Rechtsanspruch auf mobil-flexible Arbeit noch kann diese angeordnet werden.
 
-<sup>2</sup> Telearbeit liegt vor, wenn Mitarbeiterinnen und Mitarbeiter ihre Arbeitsleistung regelmässig ganz oder teilweise an einem auswärtigen, mit der kantonalen Informatikstruktur vernetzten Arbeitsort erbringen.
+<sup>1a</sup> Der Begriff mobil-flexible Arbeit steht für ein hybrides Arbeitsmodell mit orts- und zeitunabhängiger Arbeit.
 
-<sup>3</sup> Nicht als Telearbeit gelten der gelegentliche Fernzugriff auf die Informatiksysteme und das Datennetz der Kantonsverwaltung sowie Tätigkeiten, die sporadisch ausserhalb des ordentlichen Arbeitsplatzes ausgeführt werden.
+<sup>2</sup> Mobil-flexible Arbeit liegt vor, wenn Mitarbeiterinnen und Mitarbeiter ihre Arbeitsleistung regelmässig ganz oder teilweise an einem auswärtigen, mit der kantonalen Informatikstruktur vernetzten Arbeitsort erbringen.
+
+<sup>3</sup> Nicht als mobil-flexible Arbeit gilt der gelegentliche Fernzugriff auf die Informatiksysteme und das Datennetz der Kantonsverwaltung.
 
 <sup>4</sup> Das Personalamt regelt das Weitere.
 
