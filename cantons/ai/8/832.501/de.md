@@ -4,13 +4,13 @@ number: "832.501"
 title: Standeskommissionsbeschluss über die individuelle Prämienverbilligung in der Krankenversicherung
 short: StKB IPV
 language: de
-version: 2022-01-01
-valid_until: 2022-07-04
-version_adopted: 2021-11-23
+version: 2022-07-05
+valid_until: 2022-12-31
+version_adopted: 2022-07-05
 adopted: 1996-04-02
 in_force: 1996-04-02
 url: "https://ai.clex.ch/app/de/texts_of_law/832.501"
-pdf: "https://ai.clex.ch/api/de/versions/2073/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2074/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://ai.clex.ch/api/de/versions/2073/pdf_file"
 
 (StKB IPV)
 
-vom 02.04.1996 (Stand 01.01.2022)
+vom 02.04.1996 (Stand 05.07.2022)
 
 Die Standeskommission des Kantons Appenzell I. Rh.,
 
@@ -129,11 +129,13 @@ beschliesst:
 
 <sup>1</sup> Für die Berechnung des Anspruchs von Personen, die an der Quelle besteuert werden, ist das der Quellensteuer zugrundeliegende auf ein Jahr umgerechnete Einkommen massgebend. Bei quellenbesteuerten Personen mit einem ergänzend ordentlichen oder nachträglich ordentlichen Steuerverfahren gelten zusätzlich die Einkommens- und Vermögensverhältnisse gemäss entsprechender Steuerveranlagung.
 
-<sup>2</sup> Bezüger von Ergänzungsleistungen erhalten den tiefsten der folgenden Beträge:
+<sup>2</sup> Bezüger von Ergänzungsleistungen haben keinen Anspruch auf Prämienverbilligung nach diesem Standeskommissionsbeschluss. Die von der Kantonalen Ausgleichskasse verfügten Ergänzungsleistungen beinhalten bereits eine Prämienpauschale für die Krankenversicherung.
 
-- a Betrag der jährlichen Ergänzungsleistungen;
-- b Betrag der regionalen Durchschnittsprämie;
-- c Betrag der tatsächlichen Prämie für die obligatorische Krankenversicherung.
+Die Ausgleichskasse meldet dem Gesundheits- und Sozialdepartement monatlich die Bezüger von Ergänzungsleistungen und die Höhe der Prämienpauschale für die Krankenversicherung. Das Gesundheits- und Sozialdepartement fungiert bei Bezügern von Ergänzungsleistungen als Zahlstelle und überweist insbesondere die von der Ausgleichskasse verfügten Prämienpauschalen für die Krankenversicherung an die zuständigen Krankenversicherer.
+
+- a …
+- b …
+- c …
 
 <sup>2<sup>bis</sup></sup> Bezüger von Sozialhilfe erhalten die volle Richtprämie, jedoch maximal die tatsächliche Prämie. Das Sozialamt meldet der zuständigen Amtsstelle jährlich die Bezüger von Sozialhilfeleistungen.
 
