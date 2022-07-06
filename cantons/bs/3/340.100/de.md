@@ -3,22 +3,22 @@ canton: BS
 number: "340.100"
 title: Heilmittelverordnung
 language: de
-version: 2021-04-08
-valid_until: 2022-07-06
-version_adopted: 2021-03-30
+version: 2022-07-07
+valid_until: 2026-04-29
+version_adopted: 2022-06-28
 adopted: 2011-12-06
 in_force: 2012-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/340.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5215/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6019/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Heilmittelverordnung
 
-Heilmittelverordnung | Heilmittelkontrolle / Gifte
+Heilmittelkontrolle / Gifte
 
-Vom 6. Dezember 2011 (Stand 8. April 2021)
+Vom 6. Dezember 2011 (Stand 7. Juli 2022)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -162,12 +162,16 @@ beschliesst:
 
 **Impfungen durch Apothekerinnen und Apotheker**
 
-<sup>1</sup> Apothekerinnen und Apotheker können ohne ärztliche Verschreibung folgende Impfungen an Personen, die das 18. Altersjahr vollendet haben, vornehmen:
+<sup>1</sup> Apothekerinnen und Apotheker können ohne ärztliche Verschreibung folgende Impfungen an Personen, die das 16. Altersjahr vollendet haben, vornehmen:
 
 - a) Impfung gegen Grippe;
 - b) Impfung gegen Frühsommer-Meningoenzephalitis (FSME);
 - c) Impfungen gegen Hepatitis A, Hepatitis B sowie Hepatitis A + B;
-- d) Impfung gegen Covid-19.
+- d) Impfung gegen Covid-19;
+- e) Impfung gegen Diphtherie, Tetanus und Keuchhusten (DTP);
+- f) Impfung gegen Masern, Mumps und Röteln (MMR);
+- g) Impfung gegen Meningokokken;
+- h) Impfung gegen Herpes Zoster (Gürtelrose).
 
 <sup>2</sup> Apothekerinnen und Apotheker, die Impfungen durchführen, verfügen über:
 
