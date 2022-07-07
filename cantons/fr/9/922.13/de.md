@@ -4,13 +4,13 @@ number: "922.13"
 title: Verordnung über den Schutz wildlebender Säugetiere und Vögel und ihrer Lebensräume
 short: SchutzV
 language: de
-version: 2021-07-01
-valid_until: 2022-07-07
-version_adopted: 2021-05-26
+version: 2022-07-08
+valid_until: 2025-03-31
+version_adopted: 2022-06-28
 adopted: 2016-06-21
 in_force: 2016-07-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/922.13"
-pdf: "https://bdlf.fr.ch/api/de/versions/6847/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7512/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Schutz wildlebender Säugetiere und Vögel und ihrer Lebensräume – V
 
 (SchutzV)
 
-vom 21.06.2016 (Fassung in Kraft getreten am 01.07.2021)
+vom 21.06.2016 (Fassung in Kraft getreten am 08.07.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -225,7 +225,7 @@ beschliesst:
 - c) Die Tiere dürfen nicht aufgestöbert werden.
 - d) Die Tiere dürfen weder aktiv noch passiv aus den Schutzgebieten hinausgetrieben oder herausgelockt werden.
 
-<sup>3</sup> Die Bestimmungen der Bundesverordnungen über die eidgenössischen Jagdbanngebiete und die Wasser- und Zugvogelreservate von internationaler und nationaler Bedeutung bleiben vorbehalten.
+<sup>3</sup> Die Bestimmungen der Bundesverordnungen über die eidgenössischen Jagdbanngebiete und die Wasser- und Zugvogelreservate von internationaler und nationaler Bedeutung sowie die kantonalen Bestimmungen zu den Regulierungsabschüssen bleiben vorbehalten.
 
 #### Art. 17
 
@@ -678,9 +678,13 @@ beschliesst:
 
 <sup>1</sup> Das **eidgenössische Jagdbanngebiet Hochmatt–Motélon** hat folgende Grenzen: der Rio du Petit-Mont (Klein-Montbach) von der Kantonsstrasse bei Im Fang bis zur Schänisbrücke (Pkt. 1390) dann die Strasse bis zur Abzweigung nach Fregima-à-Tena (Pkt. 1544); dann der Rio bis zur Brücke Le Lapé; dann die Strasse bis La Gueyre (Pkt. 1725); von da der Féguelenabach bis zum Rio du Gros-Mont; diesem Bach entlang bis zur Brücke Notre-Dame; dann der Grat des Vanil-de-l'Ardille, Vanil-du-Croset, Dent-de-Brenleires (Pkt. 2353); von da eine gerade Linie über die Ruinen der Alphütte Chaux-de-Brenleires bis zur Brücke beim Eingang des Mortheys-Tales; dann die Kantonsgrenze über die Dent-de-Bimis bis zum Vanil-Noir; dann der Grat bis zur Tête-de-l'Herbette; von da der Pass von Bounavalette, Tsermon (Pkt. 2140); dann der Grat über den Petit-Tsermon (Pkt. 1865) und eine gerade Linie bis zur Alphütte Curarda; dann der Weg bis zur Alphütte Patchalet-d'en-Bas; von da die Forststrasse zur Brücke der Vonderweire; von da der Zug begrenzt durch den linken Waldrand bergwärts gesehen, bis zum Grat des Gipfels der Noires-Joux, dann der Grat der Noires-Joux und des Folliu (Pkt. 1751.5) bis zur Alphütte Pra; dann der Bach von Fin-Hugon bis zum Rio du Gros-Mont; diesen Bach entlang bis zur Kantonsstrasse bei Pra-Jean (Pkt. 890) und diese Strasse bis Im Fang.
 
+<sup>2</sup> Auf der gesamten Fläche des eidgenössischen Jagdbanngebiets sind nur Regulierungsabschüsse erlaubt, in Anwendung der entsprechenden eidgenössischen und kantonalen Bestimmungen.
+
 #### Art. A1-2
 
 <sup>1</sup> Das **eidgenössische Jagdbanngebiet Dent-de-Lys** hat folgende Grenzen: die Alpstrasse von der Kapelle in Albeuve bis zur Brücke von Beaucu; der Beaucubach bis zur Brücke von Pra-Nicod, dann die Strasse nach Les Prés, der Fussweg nach Lys bis auf den Pass; dann der Grat bis zum Gipfel der Dent-de-Lys; dann in Richtung Norden, der Zug bis zum Marivuebach; dann dieser Bach bis zur Kapelle von Albeuve.
+
+<sup>2</sup> Auf der gesamten Fläche des eidgenössischen Jagdbanngebiets sind nur Regulierungsabschüsse erlaubt, in Anwendung der entsprechenden eidgenössischen und kantonalen Bestimmungen.
 
 ## A1-2 Wasser- und Zugvogelreservate von internationaler und nationaler Bedeutung
 
@@ -688,33 +692,45 @@ beschliesst:
 
 <sup>1</sup> Das **Reservat Fanel–Chablais-de-Cudrefin–Pointe-de-Marin** hat folgende Grenzen: von Cudrefin, die Strasse bis La Sauge, dem rechten Broyeufer entlang bis zu Le Rondet, der Kantonsgrenze entlang bis zur Strasse Richtung Gampelen, den Bach Schwarzgrabe entlang, die Strasse, die den Weiher Glungge umfährt, und zurück zur Strasse Richtung Gampelen bis zum Bahnhof Gampelen; dann der Islerenkanal bis zum Zihlkanal; diesem Kanal entlang bis zum Ende der Nord-Mole; von da in gerader Linie zum Ende der Mole des Broyekanals und bis Cudrefin (Camping).
 
-<sup>2</sup> Im neuen Teilgebiet IIIb ist die Ansitzjagd auf Reh, Wildschwein, Fuchs, Dachs, Steinmarder und verwilderte Hauskatzen (mit Ausnahme der getigerten Katze) im Rahmen der allgemeinen Jagdvorschriften während der Rehjagd und bis zum 31. Dezember gestattet. Die Jagd mit Hunden ist untersagt.
+<sup>2</sup> …
+
+<sup>3</sup> Auf der gesamten Fläche des Reservats sind nur Regulierungsabschüsse von Hochsitzen aus erlaubt, in Anwendung der entsprechenden eidgenössischen und kantonalen Bestimmungen.
 
 #### Art. A1-4
 
 <sup>1</sup> Das **Reservat Chevroux–Portalban** hat folgende Grenzen: vom Ende der Ost-Mole des Hafens von Chevroux, diese Mole, dann die Strasse des Hafens bis zum nordwestlichen Rand des Strandwaldes; diesem Waldrand entlang bis zum Kanal von Gletterens, der parallel zum Seeufer verläuft; dann dem Strandweg entlang bis zu den ersten Häusern von Portalban; dann entlang der Grenze zwischen dem Seggenbestand und dem Wald in gerader Linie bis zur Brücke, dann die Strasse bis zur Einmündung des Baches von Portalban in den See und seine Verlängerung auf einer Länge von 500 m in den See hinaus; von da in gerader Linie bis 300 m vom Ufer entfernt vor dem Kanal von Gletterens; dann in gerader Linie bis zum Ende der Ost-Mole des Hafens von Chevroux.
 
-<sup>2</sup> In diesem Reservat ist ausschliesslich die Jagd auf Wildschweine gemäss der Jagdverordnung und der jährlichen Verordnung über die Planung der Jagd erlaubt.
+<sup>2</sup> …
+
+<sup>3</sup> Auf der gesamten Fläche des Reservats sind nur Regulierungsabschüsse von Hochsitzen aus erlaubt, in Anwendung der entsprechenden eidgenössischen und kantonalen Bestimmungen.
 
 #### Art. A1-5
 
 <sup>1</sup> Das **Reservat Yvonand–Cheyres** hat folgende Grenzen: die Kantonsstrasse Yvonand–Cheyres bis zur Kantonsgrenze; dann der Waldrand, der Rand des Festlands vor den Chalets in Crevel und der Rand des Waldes La Rochette; dann die Ferienhäuser im Westen umfahrend bis zum Kanal; von der Einmündung dieses Kanals in gerader Linie bis ungefähr 200 m in den See hinaus vor der Einmündung der Mentue, dann diesem Fluss entlang, der südliche Waldrand bis zur Kantonsstrasse am Ost-Eingang von Yvonand und diese Strasse nach Cheyres.
 
-<sup>2</sup> In diesem Reservat ist die Jagd auf Wildschweine gemäss der Jagdverordnung und der jährlichen Verordnung über die Planung der Jagd erlaubt.
+<sup>2</sup> …
+
+<sup>3</sup> Auf der gesamten Fläche des Reservats sind nur Regulierungsabschüsse von Hochsitzen aus erlaubt, in Anwendung der entsprechenden eidgenössischen und kantonalen Bestimmungen.
 
 #### Art. A1-6
 
 <sup>1</sup> Das **Reservat Chablais (Murtensee)** hat folgende Grenzen: von Muntelier auf dem Wanderweg bis Vor Moos, dem Waldrand entlang bis zum letzten Kanal vor Sugiez, diesen Kanal entlang durch den Wald bis zum Broyekanal und in gerader Linie zurück nach Muntelier.
 
-<sup>2</sup> Die Ansitzjagd auf Reh, Wildschwein, Fuchs, Dachs, Steinmarder und verwilderte Hauskatzen (mit Ausnahme der getigerten Katze) ist während der Rehjagd und bis zum 31. Dezember gestattet. Die Jagd mit Hunden ist untersagt.
+<sup>2</sup> …
+
+<sup>3</sup> Auf der gesamten Fläche des Reservats sind nur Regulierungsabschüsse von Hochsitzen aus erlaubt, in Anwendung der entsprechenden eidgenössischen und kantonalen Bestimmungen.
 
 #### Art. A1-7
 
 <sup>1</sup> Das **Reservat Greyerzersee bei Broc** hat folgende Grenzen: das Greyerzersee-Ufer von Bois-des-Crêts (dieser Wald ausgeschlossen) bis zur Brücke der Strasse Morlon–Broc über die Saane; diese Strasse bis zur Kreuzung der Strasse Broc–Broc-Fabrique, dann die Strasse bis zum Elektrizitätswerk; von da der untere Waldrand, dann der Fuss der Böschung bis zum See; dann das Seeufer bis zur Einmündung des Bachs unterhalb Botterens; von da in gerader Linie durch den See bis zum Bois-des-Crêts.
 
+<sup>2</sup> Auf der gesamten Fläche des Reservats sind nur Regulierungsabschüsse von Hochsitzen aus erlaubt, in Anwendung der entsprechenden eidgenössischen und kantonalen Bestimmungen.
+
 #### Art. A1-8
 
 <sup>1</sup> Das **Reservat Pérolles-See** hat folgende Grenzen: von Creux-du-Loup bis zur Staumauer. Das Reservat befindet sich vollständig innerhalb des kantonalen Wildschutzgebietes Freiburg.
+
+<sup>2</sup> Auf der gesamten Fläche des Reservats sind nur Regulierungsabschüsse von Hochsitzen aus erlaubt, in Anwendung der entsprechenden eidgenössischen und kantonalen Bestimmungen.
 
 #### Art. A1-9
 
