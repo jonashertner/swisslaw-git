@@ -1,22 +1,22 @@
 ---
 canton: VS
 number: "922.110"
-title: Beschluss über die Ausübung der Jagd im Wallis 2021-2022
+title: Beschluss über die Ausübung der Jagd im Wallis 2022-2023
 language: de
-version: 2021-06-25
-valid_until: 2022-07-07
-version_adopted: 2021-06-16
+version: 2022-07-08
+valid_until: 2023-06-30
+version_adopted: 2022-08-10
 adopted: 2026-06-17
 in_force: 2026-07-01
 url: "https://lex.vs.ch/app/de/texts_of_law/922.110"
-pdf: "https://lex.vs.ch/api/de/versions/2916/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3063/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Beschluss über die Ausübung der Jagd im Wallis 2021-2022
+# Beschluss über die Ausübung der Jagd im Wallis 2022-2023
 
-vom 16.06.2021 (Stand 25.06.2021)
+vom 28.06.2022 (Stand 08.07.2022)
 
 Der Staatsrat des Kantons Wallis
 
@@ -145,9 +145,9 @@ beschliesst:[^ingress-1]
 
 **Jagderöffnung und Jagddauer**
 
-<sup>1</sup> Die Jagderöffnung 2021-2022 erfolgt am 20. September 2021.
+<sup>1</sup> Die Jagderöffnung 2022-2023 erfolgt am 19. September 2022.
 
-<sup>2</sup> Die Daten der Jagdzeiten 2021-2022 und 2022-2023 sind in Anhang 1 aufgeführt.
+<sup>2</sup> Die Daten der Jagdzeiten 2022-2023 und 2023-2024 sind in Anhang 1 aufgeführt.
 
 #### Art. 9
 
@@ -181,7 +181,7 @@ beschliesst:[^ingress-1]
 <tr><td>Feldhase</td><td>4 Stück (höchstens 1 pro Tag)</td></tr>
 <tr><td>Birkhahn</td><td>6 Stück (höchstens 1 pro Tag)</td></tr>
 <tr><td>Schneehuhn</td><td>6 Stück (höchstens 2 pro Tag)</td></tr>
-<tr><td>Waldschnepfe</td><td>15 Stück (höchstens 2 pro Tag)</td></tr>
+<tr><td>Waldschnepfe</td><td>15 Stück (gemäss Art. 25 Abs. 2 des vorliegenden Beschlusses)</td></tr>
 <tr><td>Jagdbare Enten</td><td>unbegrenzt (höchstens 6 Stück pro Tag)</td></tr>
 <tr><td>Rothirsch</td><td>gemäss Art. 13 und 14 des vorliegenden Beschlusses</td></tr>
 <tr><td>Gämse</td><td>gemäss Art. 13, 17 und 18 des vorliegenden Beschlusses</td></tr>
@@ -197,21 +197,23 @@ beschliesst:[^ingress-1]
 
 <sup>1</sup> Erlegt der Jäger Rotwild, Rehwild, Gamswild oder Schwarzwild so ist er verpflichtet, dieses am gleichen Tag dem am Abschussort zuständigen Wildhüter vorzuzeigen.
 
-<sup>2</sup> Geschützte oder nicht erlaubte Tiere sind vom Erleger selber unverzüglich dem am Abschussort zuständigen Wildhüter zu melden und vorzuzeigen.
+<sup>2</sup> Kann das Wild nicht am gleichen Tag auf dem Kontrollposten vorgezeigt werden, muss der zuständige Wildhüter telefonisch benachrichtigt werden und die Kontrolle des Tiers zu einem späteren Zeitpunkt ist mit ihm zu vereinbaren.
 
-<sup>3</sup> Der Jäger muss vor dem Abtransport des Wildes alle Felder, die sich auf das erlegte Tier beziehen, im Kontrollbüchlein gut lesbar ausfüllen.
+<sup>3</sup> Gamswild kann von einer Drittperson vorgezeigt werden. Das Kontrollbüchlein des Erlegers muss zusammen mit dem erlegten Wild vorgezeigt werden. Im Streitfall werden das Wild und das Kontrollbüchlein einbehalten, bis sich der Erleger am Kontrollposten einfindet.
 
-<sup>4</sup> Kann das Wild nicht am gleichen Tag auf dem Kontrollposten vorgezeigt werden, muss der zuständige Wildhüter telefonisch benachrichtigt werden.
+<sup>4</sup> Geschützte oder nicht erlaubte Tiere sind vom Erleger selber unverzüglich dem am Abschussort zuständigen Wildhüter zu melden und vorzuzeigen.
 
-<sup>5</sup> Kann ein erlaubtes Stück Rotwild aus topographischen Gründen nicht als Ganzes transportiert werden, so darf der Jäger dieses im Gelände zerteilen. Der zuständige Wildhüter ist vorgängig zu informieren und die Kontrolle des Tieres ist mit ihm zu vereinbaren.
+<sup>5</sup> Der Jäger muss vor dem Abtransport des Wildes alle Felder, die sich auf das erlegte Tier beziehen, im Kontrollbüchlein gut lesbar ausfüllen.
 
-<sup>6</sup> Handelt es sich um ein nicht erlaubtes Stück Rotwild ist der zuständige Wildhüter zu informieren; dieser legt die Modalitäten der Kontrolle und einer allfälligen Zerlegung fest.
+<sup>6</sup> Kann ein erlaubtes Stück Rotwild aus topographischen Gründen nicht als Ganzes transportiert werden, so darf der Jäger dieses im Gelände zerteilen. Der zuständige Wildhüter ist vorgängig zu informieren und die Kontrolle des Tieres ist mit ihm zu vereinbaren.
 
-<sup>7</sup> Während der Hochjagd ist die Wildhut nicht verpflichtet, das Wild ausserhalb der Kontrollposten und den angegebenen Zeiten zu kontrollieren.
+<sup>7</sup> Handelt es sich um ein nicht erlaubtes Stück Rotwild ist der zuständige Wildhüter zu informieren; dieser legt die Modalitäten der Kontrolle und einer allfälligen Zerlegung fest.
 
-<sup>8</sup> Die Organisation der Kontrollposten obliegt der DJFW. Nach der Hochjagd sind die Kontrollposten nicht mehr besetzt. Der Ort der Kontrolle wird mit dem zuständigen Wildhüter telefonisch sobald als möglich vereinbart.
+<sup>8</sup> Während der Hochjagd ist die Wildhut nicht verpflichtet, das Wild ausserhalb der Kontrollposten und den angegebenen Zeiten zu kontrollieren.
 
-<sup>9</sup> Das Vorzeigen von gefrorenem Wild ist verboten.
+<sup>9</sup> Die Organisation der Kontrollposten obliegt der DJFW. Nach der Hochjagd sind die Kontrollposten nicht mehr besetzt. Der Ort der Kontrolle wird mit dem zuständigen Wildhüter telefonisch sobald als möglich vereinbart.
+
+<sup>10</sup> Das Vorzeigen von gefrorenem Wild ist verboten.
 
 #### Art. 12
 
@@ -251,7 +253,7 @@ beschliesst:[^ingress-1]
 <sup>2</sup> Folgendes Wild ist geschützt:
 
 - a) starke Schmalspiesser;
-- b) Hochgabler oder Schmalspiesser mit Kronenausbildung.
+- b) Schmalspiesser mit einer Hochgabel oder Kronenausbildung.
 
 #### Art. 15
 
@@ -262,6 +264,8 @@ beschliesst:[^ingress-1]
 <sup>2</sup> In diesen Teilgebieten dürfen nur Hirschkühe, Schmaltiere, Hirschkälber und geringe Schmalspiesser erlegt werden.
 
 <sup>3</sup> Die Teilgebiete der KBG werden auf der Jagdkarte veröffentlicht.
+
+<sup>4</sup> Die besonderen Bestimmungen sind in Anhang 4 dieses Beschlusses festgelegt.
 
 #### Art. 16
 
@@ -284,7 +288,7 @@ beschliesst:[^ingress-1]
 - a) 2 adulte Gämsen, nämlich 1 Bock und 1 Geiss oder zwei Geissen (wovon nur 1 von 2,5 Jahren);
 - b) 1 Jährling (männlich oder weiblich).
 
-<sup>2</sup> Eine vierte Gämse ist für den Jäger erlaubt, der ein Bonuskontingent gemäss den Präzisierungen in Absatz 3 des vorliegenden Artikels erhalten hat.
+<sup>2</sup> Eine 4. Gämse ist für den Jäger erlaubt, der ein Bonuskontingent gemäss den Präzisierungen in Absatz 3 des vorliegenden Artikels erhalten hat.
 
 <sup>3</sup> Das Bonuskontingent wird vom Wildhüter beim Vorzeigen der folgenden Gämsen erteilt:
 
@@ -303,7 +307,13 @@ beschliesst:[^ingress-1]
 
 <sup>6</sup> Wird ein starker Bockjährling erlegt (Gewicht von 17kg oder mehr), erlischt das Anrecht für den Abschuss eines Bocks. Wurde bereits ein Bock (adult) erlegt, liegt ein Fehlabschuss vor.
 
-<sup>7</sup> Erlegt der Jäger eine nicht erlaubte Gämse, erhält er auch beim Abschuss einer Gämse gemäss Absatz 3 dieses Artikels kein Bonuskontingent mehr. Der Jäger verliert sein Anrecht auf die Kategorie, die er erlegen wollte. Die erlegte Gämse wird im Kontrollbüchlein unter der Rubrik eingetragen, die er ursprünglich erlegen wollte.
+<sup>7</sup> Erlegt der Jäger eine nicht erlaubte Gämse, erhält er auch beim Abschuss einer Gämse gemäss Absatz 3 dieses Artikels kein Bonuskontingent mehr.
+
+<sup>8</sup> Alle erlegten Gämsen werden im Kontrollbüchlein unter der entsprechenden Rubrik eingetragen. Wurde das Abschussrecht bereits genutzt, so trägt der Jäger die erlegte Gämse wie folgt ein:
+
+- a) beim Abschuss eines zweiten Bockes, verliert der Jäger das Abschussrecht für die adulte Gämse, ansonsten muss er sein Jährlingskontingent nutzen;
+- b) beim Abschuss eines zweiten Jährlings verliert der Jäger das Abschussrecht für die adulte Gämse welche dem Geschlecht des erlegten Jährlings entspricht, ansonsten verliert er das Abschussrecht für die verbleibende adulte Gämse;
+- c) beim Erlegen eines Kitzes verliert der Jäger das Abschussrecht für den Jährling, andernfalls verliert er das Abschussrecht für die adulte Gämse, welche dem Geschlecht des erlegten Kitzes entspricht, andernfalls verliert er das Abschussrecht für die verbleibende adulte Gämse.
 
 #### Art. 18
 
@@ -324,17 +334,21 @@ beschliesst:[^ingress-1]
 
 - a) in diesen Wildräumen sind Böcke im Alter von 2,5 Jahren geschützt (Grundkontingent und Bonuskontingent).
 
-<sup>5</sup> In den Gämswildräumen 10.4 und 10.5 gelten folgende besondere Vorschriften:
+<sup>5</sup> In den Gämswildräumen 4.3 und 4.4 gelten folgende besondere Vorschriften:
+
+- a) in diesen Wildräumen sind männliche und weibliche Gämsen im Alter von 2,5 Jahren geschützt (Grundkontingent und Bonuskontingent).
+
+<sup>6</sup> In den Gämswildräumen 10.4 und 10.5 gelten folgende besondere Vorschriften:
 
 - a) in diesen Wildräumen sind sämtliche Jährlinge und männliche und weibliche Gämsen im Alter von 2,5 Jahren geschützt (Grundkontingent und Bonuskontingent)
 
-<sup>6</sup> Bei einem Fehlabschuss gelten die Bestimmungen gemäss Artikel 44 ReKJSG. Zusätzlich darf der betroffene Jäger keine weiteren Gämsen im gesamten Jagdgebiet des Kantons erlegen. Der Wildhüter streicht dem Jäger bei der Kontrolle die verbleibenden Kontingente.
+<sup>7</sup> Bei einem Fehlabschuss gelten die Bestimmungen gemäss Artikel 44 ReKJSG. Zusätzlich darf der betroffene Jäger keine weiteren Gämsen im gesamten Jagdgebiet des Kantons erlegen. Der Wildhüter streicht dem Jäger bei der Kontrolle die verbleibenden Kontingente.
 
 #### Art. 19
 
 **g) Rehjagd während der Hochjagd**
 
-<sup>1</sup> Die Inhaber der Patente A, A+B oder G sind während der Hochjagd ermächtigt, 2 nicht melke Rehgeissen zu erlegen. Ein Jäger, der 1 melke Rehgeiss, 1 Rehkitz oder 1 Rehbock erlegt, verliert sein Geisskontingent. Der Wildhüter streicht dem Jäger bei der Kontrolle die verbleibenden Kontingente.
+<sup>1</sup> Die Inhaber der Patente A+B oder G sind während der Hochjagd ermächtigt, 2 nicht melke Rehgeissen zu erlegen. Ein Jäger, der 1 melke Rehgeiss, 1 Rehkitz oder 1 Rehbock erlegt, verliert sein Geisskontingent. Der Wildhüter streicht dem Jäger bei der Kontrolle die verbleibenden Kontingente.
 
 #### Art. 20
 
@@ -369,19 +383,17 @@ beschliesst:[^ingress-1]
 
 <sup>2</sup> Die spezielle Rehjagdzone in der das Rehkitz oder die Rehgeiss erlegt werden darf, ist auf der Jagdkarte aufgeführt.
 
-<sup>3</sup> In den KBG, Teilen von KBG oder gemischten KBG, die sich in der Rehjagdzone befinden, darf das Rehkitz oder die Rehgeiss bejagt werden, mit Ausnahme der gemischten KBG Nr. 29, 30, 31, 32, 33, 37 und 44 sowie KBG Nr. 98, 101, 118 und 119.
+<sup>3</sup> Die Jagd in der Rehjagdzone ist an den 3 aufeinanderfolgenden Samstagen nach dem Ende der Rehbockjagd gestattet; geschossen werden darf ausschliesslich mit Waffen und Munition gemäss Artikel 30 ReKJSG.
 
-<sup>4</sup> Die Jagd in der Rehjagdzone ist an den 3 aufeinanderfolgenden Samstagen nach dem Ende der Rehbockjagd gestattet; geschossen werden darf ausschliesslich mit Waffen und Munition gemäss Artikel 30 ReKJSG.
+<sup>4</sup> Während den 3 oben genannten Tagen ist der Jäger berechtigt, mit der Flinte neben Rehkitzen und Rehgeissen alle Arten zu bejagen, die bei der Niederjagd gemäss Artikel 20 Buchstabe b bis f des vorliegenden Beschlusses erlaubt sind. Diese Arten dürfen jedoch in den KBG, Teilen von KBG oder gemischten KBG, die sich in der Rehjagdzone befinden, nicht bejagt werden.
 
-<sup>5</sup> Während den 3 oben genannten Tagen ist der Jäger berechtigt, mit der Flinte neben Rehkitzen und Rehgeissen alle Arten zu bejagen, die bei der Niederjagd gemäss Artikel 20 Buchstabe b bis f des vorliegenden Beschlusses erlaubt sind. Diese Arten dürfen jedoch in den KBG, Teilen von KBG oder gemischten KBG, die sich in der Rehjagdzone befinden, nicht bejagt werden.
+<sup>5</sup> Im Teil der speziellen Rehjagdzone, der sich in der Rhoneebene befindet, gelten die Sicherheitsvorschriften gemäss Artikel 34 Absatz 4 und 5 des vorliegenden Beschlusses.
 
-<sup>6</sup> Im Teil der speziellen Rehjagdzone, der sich in der Rhoneebene befindet, gelten die Sicherheitsvorschriften gemäss Artikel 34 Absatz 4 und 5 des vorliegenden Beschlusses.
+<sup>6</sup> Da die spezielle Rehjagdzone auch bewohntes Gebiet umfasst, ist der Einhaltung von Artikel 32 Absatz 2 ReKJSG besondere Aufmerksamkeit zu schenken.
 
-<sup>7</sup> Da die spezielle Rehjagdzone auch bewohntes Gebiet umfasst, ist der Einhaltung von Artikel 32 Absatz 2 ReKJSG besondere Aufmerksamkeit zu schenken.
+<sup>7</sup> Die Erlegung einer melken Rehgeiss wird nicht bestraft. Der Abschuss einer zweiten Rehgeiss, melk oder nicht melk, wird gemäss Artikel 44 ReKJSG geahndet.
 
-<sup>8</sup> Die Erlegung einer melken Rehgeiss wird nicht bestraft. Der Abschuss einer zweiten Rehgeiss, melk oder nicht melk, wird gemäss Artikel 44 ReKJSG geahndet.
-
-<sup>9</sup> Bei einem Fehlabschuss verliert der Jäger das Anrecht auf sein Kontingent. Der Wildhüter streicht dem Jäger bei der Kontrolle die verbleibenden Kontingente.
+<sup>8</sup> Bei einem Fehlabschuss verliert der Jäger das Anrecht auf sein Kontingent. Der Wildhüter streicht dem Jäger bei der Kontrolle die verbleibenden Kontingente.
 
 #### Art. 23
 
@@ -397,7 +409,7 @@ beschliesst:[^ingress-1]
 
 **e) Feldhasen-, Schneehasen- und Wildkaninchenjagd**
 
-<sup>1</sup> Die Jagd ist gestattet vom 5. Oktober 2021 bis 25. November 2021.
+<sup>1</sup> Die Jagd ist gestattet vom 4. Oktober 2022 bis 29. November 2022.
 
 <sup>2</sup> Zum Einsatz von Hunden gelten die Bestimmungen gemäss Artikel 32 des vorliegenden Beschlusses.
 
@@ -407,12 +419,18 @@ beschliesst:[^ingress-1]
 
 <sup>1</sup> Die Jagd mit Vorstehhund findet statt:
 
-- a) ab dem 16. Oktober 2021 ohne Schontage bis am 30. Oktober 2021;
-- b) ab dem 2. November 2021 bis am 25. November 2021 an den gemäss Patent B erlaubten Tagen.
+- a) ab dem 17. Oktober 2022 ohne Schontage bis am 31. Oktober 2022;
+- b) ab dem 3. November 2022 bis am 29. November 2022 an den gemäss Patent B erlaubten Tagen.
 
-<sup>2</sup> Vom 16. bis 30. Oktober gelten die Einschränkungen für die Benutzung von Motorfahrzeugen gemäss Artikel 35 des vorliegenden Beschlusses ausschliesslich während den Jagdtagen an denen die Rehbockjagd ebenfalls gestattet ist.
+<sup>2</sup> Die Jagd mit Vorstehhund auf die Waldschnepfe findet statt:
 
-<sup>3</sup> Zum Einsatz von Hunden gelten die Bestimmungen gemäss Artikel 32 des vorliegenden Beschlusses.
+- a) ab dem 20. Oktober 2022 ohne Schontage bis am 31. Oktober 2022;
+- b) ab dem 3. November 2022 bis am 29. November 2022 an den gemäss Patent B erlaubten Tagen;
+- c) Kontingent: 15 Stück, davon bis Ende Oktober 3 Stück (höchstens 1 pro Tag), ab dem 1. November das restliche Kontingent (höchstens 2 pro Tag).
+
+<sup>3</sup> Vom 17. bis 31. Oktober gelten die Einschränkungen für die Benutzung von Motorfahrzeugen gemäss Artikel 35 des vorliegenden Beschlusses ausschliesslich während den Jagdtagen an denen die Rehbockjagd ebenfalls gestattet ist.
+
+<sup>4</sup> Zum Einsatz von Hunden gelten die Bestimmungen gemäss Artikel 32 des vorliegenden Beschlusses.
 
 #### Art. 26
 
@@ -420,8 +438,8 @@ beschliesst:[^ingress-1]
 
 <sup>1</sup> Die Wasserwildjagd findet statt:
 
-- a) vom 2. November 2021 bis am 30. November 2021 an den gemäss Patent B erlaubten Jagdtagen;
-- b) ab dem 1. Dezember 2021 ohne Schontage bis am 31. Januar 2022.
+- a) vom 3. November 2022 bis am 29. November 2022 an den gemäss Patent B erlaubten Jagdtagen;
+- b) ab dem 1. Dezember 2022 ohne Schontage bis am 31. Januar 2023.
 
 <sup>2</sup> Dieses Patent erlaubt den Abschuss mit der Flinte von Haubentaucher, Blässhuhn, Kormoran und allen jagdbaren Wildenten gemäss JSG sowie der Rabenvögel und des jagdbaren Kleinraubwilds gemäss Artikel 27 des vorliegenden Beschlusses.
 
@@ -447,7 +465,7 @@ beschliesst:[^ingress-1]
   - 4\. der Wechsel des Ansitzplatzes in derselben Nacht ist verboten. Mit dem Verlassen des Ansitzplatzes beendet der Jäger die Jagd,
   - 5\. das Schiessen aus einem am Ansitzplatz abgestellten Motorfahrzeug ist gestattet,
   - 6\. unter Vorbehalt einer Bewilligung durch den zuständigen Wildhüter, ist die Verwendung von tierischen Nebenprodukten[^27-1] als Köder verboten;
-- c) der Jäger ist verpflichtet die erlegten Tiere in einer Kadaversammelstelle zu entsorgen.
+- c) der Jäger ist verpflichtet die erlegten Tiere in einer Kadaversammelstelle zu entsorgen. Allerdings können Tierkörper, die nicht im Verdacht stehen, Träger einer auf Mensch oder Tier übertragbaren Krankheit zu sein, gemäss der guten Jagdpraxis im Gelände entsorgt werden.
 
 [^27-1]: Verordnung über die Entsorgung tierischer Nebenprodukte (RS 916.400)
 
@@ -459,7 +477,7 @@ beschliesst:[^ingress-1]
 
 <sup>2</sup> Die Jagd erfolgt in den auf der Jagdkarte ausgewiesenen Zonen. Es können höchstens 75 Jäger in der gleichen Zone die Jagd ausüben.
 
-<sup>3</sup> Es dürfen nur Jagdwaffen (Büchsen) benutzt werden, die für die Hochjagd gestattet sind.
+<sup>3</sup> Erlaubt sind diejenigen Jagdwaffen (Büchsen), die für die Hochjagd gestattet sind, sowie Doppelbüchsen.
 
 <sup>4</sup> Die Jagd erfolgt in Gruppen. Ein Gruppenchef ist zuständig für die administrativen Belange gemäss der Weisung auf der Internetseite der DJFW.
 
@@ -502,7 +520,7 @@ beschliesst:[^ingress-1]
 
 <sup>1</sup> Patent B:
 
-- a) die Jagd auf den Hasen ist nach der Rehjagd nur gestattet, wenn mindestens 1 Jagdhund pro 4 Jäger im Einsatz ist;
+- a) die Jagd auf den Hasen ist nach der Rehbockjagd nur gestattet, wenn mindestens 1 Jagdhund pro 4 Jäger im Einsatz ist;
 - b) für die Jagd mit Vorstehhund muss mindestens 1 Vorstehhund oder 1 Apportierhund pro 2 Jäger im Einsatz sein.
 
 <sup>2</sup> Patent C: pro 3 Jäger muss mindestens 1 Hund im Einsatz sein, der aus dem Wasser apportiert.
@@ -511,7 +529,7 @@ beschliesst:[^ingress-1]
 
 <sup>4</sup> Patent S:
 
-- a) es sind nur Hunderassen zugelassen, die gemäss Artikel 33 ReKJSG anerkannt sind und deren Risthöhe 42cm nicht übersteigt;
+- a) es sind nur Hunderassen zugelassen, die gemäss Artikel 33 ReKJSG anerkannt sind und die von der DJFW für diese Jagdart zugelassen wurden oder über einen anerkannten Sachkundenachweis verfügen;
 - b) die Hunde dürfen nicht vor 8.30 Uhr losgelassen werden und nur wenn sie sich auf einer frischen Wildschweinfährte befinden. Das Loslassen ist auch möglich, wenn die Wildschweine in einer Waldinsel oder einem klar abgegrenzten Ort eingekreist sind;
 - c) bei einer geschlossenen Schneedecke von mehr als 15cm ist es verboten, die Hunde ab der Leine zu lassen.
 
@@ -526,26 +544,25 @@ beschliesst:[^ingress-1]
 - c) Oberwald – Ulrichen: Zwischen der Kantonsstrasse und dem markierten Waldweg, von Oberwald bis Zum Loch-Aegina, P. 1358;
 - d) Ulrichen – Niederwald: rechte Talseite: zwischen der Kantonsstrasse und der Rhone; linke Talseite: zwischen der Rhone und dem markierten Feldweg;
 - e) Bieligermatte und Zeiterbode wie folgt: von der Ritzibrigge die Forststrasse durch den Camping bis zu P. 1326 (Abzweigung), dieser Strasse abwärts folgend in die Haarnadelkurve (Markierung), weiter in gerader Linie zur Strasse beim Scheibenstand (Markierung), der Strasse folgend bis Zeit P. 1284, weiter zur Selkingerbrücke;
-- f) Niederwald - Steinhaus: vom Bahnübergang in Niederwald hinunter zur Rhonebrücke, dem Feldweg Richtung Steinhaus bis zur Brücke über den Rufibach, den Rufibach bis zur Einmündung in den Rotten, von hier in gerader Linie bis zur Kantonsstrasse P. 1237, der Kantonsstrasse Richtung Niederwald folgend bis zum Ausgangspunkt;
-- g) im Guldersand, zwischen dem Rotten und dem MGB-Geleise von der MGB-Brücke "Nussbaum" bis zur MGB-Brücke Grengiols, inklusiv Parkplatzareal der VBB;
-- h) auf dem gesamten Fabrikareal der Société Suisse des Explosifs in Gamsen sowie einem Umkreis von 200m um das Areal;
-- i) Visp: Von Visp Landbrücke die Kantonsstrasse bis Neubrück und von hier auf der anderen Talseite der Flurstrasse entlang zurück bis zur Landbrücke;
-- j) Saas-Fee: in der Region Plattjen (Gämsweg - Waldweg - Forststrasse) ist das Schiessen zwischen 9.00 Uhr und 16.00 Uhr verboten;
-- k) Kalpetran: von der Killerhofbrücke bis Emdbach ist das Überschiessen der Mattervispa und der MGB Geleise verboten;
-- l) Randa – Täsch: Von der Einmündung des Birchbachs in die Vispa, dieser nach taleinwärts bis zum Fenster des Umleitungsstollens, von hier dem Wanderweg entlang zum Schalibach, diesem abwärts in die Mattervispa, der Vispa nach hinunter zur Schalibrücke, über die Strasse zur Kantonsstrasse, beim Haus Bärgfriede. Der Kantonsstrasse talauswärts folgend bis zum Birchbach, diesen hinab zur Vispa und dieser abwärts folgend zum Ausgangspunkt;
-- m) Zermatt/Zär Bänä: Von der Mattervispa dem Leimragraben nach aufwärts zur Riedstrasse. Der Riedstrasse abwärts folgend bis zur Abzweigung AHV-Weg oberhalb Hotel Cervin. Diesem Weg folgend bis zum GGB Geleise. Diesem aufwärts folgend zur Findelbrücke und von hier dem Findelbach nach abwärts in die Vispa, dieser abwärts folgend zum Ausgangspunkt;
-- n) Gampel-Bratsch – Steg-Hohtenn: Das Überschiessen des Lonzabaches ist von der Zentrale Steg der Lonza entlang aufsteigend bis Goppenstein verboten;
-- o) Les Haudères (Sanières): von der Kreuzung der Strasse von Molignon mit dem von Coulayes abwärts fliessenden Bach; von hier dieser Strasse entlang nach Molignon – les Haudères – les Sanières bis Coulayes; von dort dem Bach abwärts entlang bis zum Ausgangspunkt;
-- p) Riddes – Bieudron: das Schiessen von der Ebene Richtung Hang, den Reben und den Obstgärten ist verboten zwischen dem Bach von Econe und der ARA von Bieudron;
-- q) Ardève – Chamoson – Leytron: das Schiessen von der Ebene Richtung Hang und den Reben ist im ganzen Perimeter von l’Ardève verboten;
-- r) Les Marécottes (Salvan): 200m beidseits der Geleise vom Bahnhof Marécottes bis zum letzten bewohnten Gebäude des Weilers Medetta;
-- s) auf den Sport- und Campingplätzen.
+- f) im Guldersand, zwischen dem Rotten und dem MGB-Geleise von der MGB-Brücke "Nussbaum" bis zur MGB-Brücke Grengiols, inklusiv Parkplatzareal der VBB;
+- g) auf dem gesamten Fabrikareal der Société Suisse des Explosifs in Gamsen sowie einem Umkreis von 200m um das Areal;
+- h) Visp: Von Visp Landbrücke die Kantonsstrasse bis Neubrück und von hier auf der anderen Talseite der Flurstrasse entlang zurück bis zur Landbrücke;
+- i) Saas-Fee: in der Region Plattjen (Gämsweg - Waldweg - Forststrasse) ist das Schiessen zwischen 9.00 Uhr und 16.00 Uhr verboten;
+- j) Kalpetran: von der Killerhofbrücke bis Emdbach ist das Überschiessen der Mattervispa und der MGB Geleise verboten;
+- k) Randa – Täsch: Von der Einmündung des Birchbachs in die Vispa, dieser nach taleinwärts bis zum Fenster des Umleitungsstollens, von hier dem Wanderweg entlang zum Schalibach, diesem abwärts in die Mattervispa, der Vispa nach hinunter zur Schalibrücke, über die Strasse zur Kantonsstrasse, beim Haus Bärgfriede. Der Kantonsstrasse talauswärts folgend bis zum Birchbach, diesen hinab zur Vispa und dieser abwärts folgend zum Ausgangspunkt;
+- l) Zermatt/Zär Bänä: Von der Mattervispa dem Leimragraben nach aufwärts zur Riedstrasse. Der Riedstrasse abwärts folgend bis zur Abzweigung AHV-Weg oberhalb Hotel Cervin. Diesem Weg folgend bis zum GGB Geleise. Diesem aufwärts folgend zur Findelbrücke und von hier dem Findelbach nach abwärts in die Vispa, dieser abwärts folgend zum Ausgangspunkt;
+- m) Gampel-Bratsch – Steg-Hohtenn: Das Überschiessen des Lonzabaches ist von der Zentrale Steg der Lonza entlang aufsteigend bis Goppenstein verboten;
+- n) Les Haudères (Sanières): von der Kreuzung der Strasse von Molignon mit dem von Coulayes abwärts fliessenden Bach; von hier dieser Strasse entlang nach Molignon – les Haudères – les Sanières bis Coulayes; von dort dem Bach abwärts entlang bis zum Ausgangspunkt;
+- o) Riddes – Bieudron: das Schiessen von der Ebene Richtung Hang, den Reben und den Obstgärten ist verboten zwischen dem Bach von Econe und der ARA von Bieudron;
+- p) Ardève – Chamoson – Leytron: das Schiessen von der Ebene Richtung Hang und den Reben ist im ganzen Perimeter von l’Ardève verboten;
+- q) Les Marécottes (Salvan): 200m beidseits der Geleise vom Bahnhof Marécottes bis zum letzten bewohnten Gebäude des Weilers Medetta;
+- r) auf den Sport- und Campingplätzen.
 
 <sup>2</sup> Das Schiessen mit der Flinte während der Niederjagd ist verboten:
 
 - a) Zermatt/Zär Bänä: Von der Mattervispa dem Leimragraben nach aufwärts zur Riedstrasse. Der Riedstrasse abwärts folgend bis zur Abzweigung AHV-Weg oberhalb Hotel Cervin. Diesem Weg folgend bis zum GGB Geleise. Diesem aufwärts folgend zur Findelbrücke und von hier dem Findelbach nach abwärts in die Vispa, dieser abwärts folgend zum Ausgangspunkt;
 - b) Leukerbad: Von der Kreuzung des Bennonggrabens mit dem Römerweg P. 1404 dem Wanderweg folgend vorbei am Restaurant Bodmenstübli bis hinunter zum Russengraben. Dem Wasserverlauf des Russengraben folgend bis zur Kreuzung mit dem Kulturweg Varen – Leukerbad, diesem Wanderweg taleinwärts folgend bis zum Bennonggraben, diesen Graben aufwärts bis zur Brücke beim Römerweg, Ausgangspunkt;
-- c) vom P. 566 (Chemin de Bouillet), der landwirtschaftlichen Strasse von Perrec folgend, über die Bisse du Ricard zum Parkplatz der Stallung Crétillons. Von dort die Brieystrasse hinunter zur Kiesgrubenstrasse und dieser folgend, über Les Zittes zum Dorf Chalais. Von der Kreuzung mit der Route de la Bourgeoisie hinauf zum Ausgangspunkt;
+- c) Chalais (Coudrettes): vom P. 566 (Chemin de Bouillet), der landwirtschaftlichen Strasse von Perrec folgend, über die Bisse du Ricard zum Parkplatz der Stallung Crétillons. Von dort die Brieystrasse hinunter zur Kiesgrubenstrasse und dieser folgend, über Les Zittes zum Dorf Chalais. Von der Kreuzung mit der Route de la Bourgeoisie hinauf zum Ausgangspunkt;
 - d) Les Marécottes (Salvan): 200m beidseits der Geleise vom Bahnhof Marécottes bis zum letzten bewohnten Gebäude des Weilers Medetta;
 - e) auf den Sport- und Campingplätzen.
 
@@ -573,9 +590,9 @@ beschliesst:[^ingress-1]
 
 **Benutzung von Strassen und Wegen zur Ausübung der Jagd, Allgemeines**
 
-<sup>1</sup> Das Fahren ist auf allen Kantons-, Gemeinde,- Flur- und Forststrassen und We-gen der Klassen 1 bis 5 erlaubt (gemäss Swisstopo[^35-1]).
+<sup>1</sup> Das Fahren ist auf allen Kantons-, Gemeinde,- Flur- und Forststrassen und Wegen der Klassen 1 bis 5 erlaubt (gemäss Swisstopo[^35-1]).
 
-<sup>2</sup> Jäger, die eine Gemeinde-, Flur- oder Forststrasse benutzen, welche mit einer homologierten Verkehrsbeschränkung versehen ist, tun dies auf eigene Verantwortung.
+<sup>2</sup> Der Jäger, der eine Gemeinde-, Flur- oder Forststrasse benutzt, welche mit einer homologierten Verkehrsbeschränkung versehen ist, tut dies auf eigene Verantwortung.
 
 <sup>3</sup> Pisten entlang von Skiliften und Sesselbahnen, welche ausschliesslich zum Zwecke der Bewirtschaftung dieser Bereiche erstellt wurden, dürfen nicht benutzt werden.
 
@@ -600,11 +617,13 @@ beschliesst:[^ingress-1]
 
 <sup>2</sup> Für den Transport von erlegtem Schalenwild ist die Benutzung eines Motorfahrzeugs auf eingeschränkt zugelassenen und verbotenen Strassen erlaubt, wenn der zuständige Wildhüter vorgängig informiert wird und dieser die Modalitäten festlegt. In diesem Fall kann das Fahrzeug nach dem Transport wieder an demselben Ort abgestellt werden, wo es sich vorher befunden hat.
 
-<sup>3</sup> Bei Jagdabbruch muss der Jäger die genaue Abfahrtszeit und die Bezeichnung der benutzten Strasse bis zur nächsten rot eingezeichneten Strasse ins Kontrollbüchlein eintragen.
+<sup>3</sup> Bei Jagdabbruch für den fraglichen Tag muss der Jäger die genaue Abfahrtszeit und die Bezeichnung der benutzten Strasse bis zur nächsten rot eingezeichneten Strasse ins Kontrollbüchlein eintragen.
 
-<sup>4</sup> Für die Durchquerung eines Banngebietes dürfen nur die auf der Jagdkarte rot und orange eingezeichneten Strassen benutzt werden, jegliches Anhalten im Banngebiet ist untersagt.
+<sup>4</sup> Sofern keine besonderen Bestimmungen gemäss Anhang 4 dieses Beschlusses vorliegen, gelten für das Fahren innerhalb der gemischten Banngebiete und den Teilgebieten die Zeitfenster.
 
-<sup>5</sup> Nach Abschluss der Rehbockjagd ist die Benutzung der Strassen unter Vorbehalt von homologieren Verkehrssignalen frei.
+<sup>5</sup> Für die Durchquerung eines Banngebietes dürfen nur die auf der Jagdkarte rot, orange oder violett eingezeichneten Strassen benutzt werden, jegliches Anhalten im Banngebiet ist untersagt.
+
+<sup>6</sup> Nach Abschluss der Rehbockjagd ist die Benutzung der Strassen unter Vorbehalt von homologieren Verkehrssignalen frei.
 
 #### Art. 37
 
@@ -664,7 +683,7 @@ beschliesst:[^ingress-1]
 
 **Trophäenwettbewerb des KWJV**
 
-<sup>1</sup> Jäger, die während der Jagd Schalenwild mit einer kapitalen Trophäe erlegt haben, können an einem Walliser- und interkantonalen Trophäenwettbewerb teilnehmen. Die Bedingungen sind in einem Reglement des KWJV und des schweizerischen Dachverbandes festgelegt. Das Tier (ganzes Stück) muss dem zuständigen Wildhüter vorgezeigt werden.
+<sup>1</sup> Der Jäger, der während der Jagd Schalenwild mit einer kapitalen Trophäe erlegt hat, kann an einem Walliser- und interkantonalen Trophäenwettbewerb teilnehmen. Die Bedingungen sind in einem Reglement des KWJV und des schweizerischen Dachverbandes festgelegt. Das Tier (ganzes Stück) muss dem zuständigen Wildhüter vorgezeigt werden.
 
 <sup>2</sup> Für die Abgabe der Trophäen werden den Jägern keine separaten schriftlichen Aufforderungen zugestellt.
 
@@ -672,13 +691,11 @@ beschliesst:[^ingress-1]
 
 **Fuchs- und Dachsprämie**
 
-<sup>1</sup> Für jedes gelöste Patent überweist die DJFW dem KWJV einen Betrag von 20 Franken, damit dieser für jeden während der Jagd erlegten Fuchs eine Prämie von 15 Franken und für jeden erlegten Dachs eine Prämie von 20 Franken sowie eine allfällige, damit zusammenhängende Kadaverentsorgungsgebühr auszahlen kann.
+<sup>1</sup> Die DJFW überweist dem Jäger für jeden erlegten Fuchs eine Prämie von 15 Franken und für jeden erlegten Dachs eine Prämie von 20 Franken sowie allfällige, damit zusammenhängende Kadaverentsorgungsgebühren.
 
 <sup>2</sup> Zur Erlangung dieser Beträge muss der Jäger dem zuständigen Wildhüter innerhalb von 10 Tagen nach Abschluss der jeweiligen Jagd die zwei Vorderpfoten des Fuchses und/oder des Dachses, die Nachweise der Kadaver-Entsorgungen, sowie das Kontrollbüchlein abgeben und die Bank- oder Postkontoverbindung angeben.
 
-<sup>3</sup> Sobald die Abschussdaten registriert sind, werden diese von der DJFW dem KWJV übermittelt, der für die Auszahlung dieser Beträge verantwortlich ist.
-
-<sup>4</sup> Allfällige Reklamationen in Zusammenhang mit diesen Beträgen sind ausschliesslich an den KWJV zu richten.
+<sup>3</sup> Allfällige Reklamationen in Zusammenhang mit diesen Beträgen sind ausschliesslich an die DJFW zu richten.
 
 #### Art. 44
 
@@ -698,4 +715,4 @@ beschliesst:[^ingress-1]
 
 <sup>2</sup> Einer allfälligen Beschwerde gegen diesen Beschluss wird zur Gewährleistung der Jagdausübung und der damit verbundenen erforderlichen Regulation der Wildbestände zur Verhinderung von Schaden am Schutzwald, an landwirtschaftlichen Kulturen, zur Erhaltung der Lebensräume und der Artenvielfalt die aufschiebende Wirkung entzogen.
 
-CSW RO/AGS 2021-076
+CSW RO/AGS 2022-060
