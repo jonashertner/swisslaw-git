@@ -4,13 +4,13 @@ number: "922.100"
 title: "Règlement d'exécution de la loi sur la chasse"
 short: RexChP
 language: fr
-version: 2021-06-25
-valid_until: 2022-07-07
-version_adopted: 2021-06-16
+version: 2022-07-08
+valid_until: 2023-06-30
+version_adopted: 2022-06-28
 adopted: 2021-06-16
 in_force: 2021-06-25
 url: "https://lex.vs.ch/app/fr/texts_of_law/922.100"
-pdf: "https://lex.vs.ch/api/fr/versions/2915/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3052/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/2915/pdf_file"
 
 (RexChP)
 
-du 16.06.2021 (état 25.06.2021)
+du 16.06.2021 (état 08.07.2022)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -363,9 +363,11 @@ arrête:[^ingress-1]
 
 **Armes de chasse**
 
-<sup>1</sup> Pour la chasse avec arme à canon rayé, il ne peut être utilisé que des carabines à répétition manuelle ou à canon basculant, disposant d'un seul canon rayé d'un calibre minimal de 7 millimètres.
+<sup>1</sup> Pour la chasse avec arme à canon rayé, il ne peut être utilisé que des carabines à répétition manuelle, à bloc tombant ou à canon basculant, disposant d'un seul canon rayé d'un calibre minimal de 7 millimètres.
 
 <sup>2</sup> L'utilisation d'une arme à canon rayée disposant d'un magasin est permise pour autant que celui-ci soit conservé dans sa configuration originale.
+
+<sup>2<sup>bis</sup></sup> Les express à canon rayé d'un calibre minimal de 7 millimètres sont autorisés lors de la chasse spéciale au sanglier.
 
 <sup>3</sup> Le calibre des armes à canon lisse doit être de 12 à 20. Ces armes à canon lisse à un ou deux canons ne doivent pouvoir contenir que deux cartouches.
 
@@ -379,7 +381,7 @@ arrête:[^ingress-1]
 
 <sup>1</sup> Pour la chasse avec arme à canon rayé:
 
-- a) la cartouche à balle d'une énergie initiale de 3500 joules (EO) au minimum;
+- a) la cartouche à balle d'une énergie initiale de 3000 joules (EO) au minimum;
 - b) la balle blindée est interdite, à l’exception du tir de la marmotte;
 - c) la cartouche à balle d’un calibre allant du .22 Hornet jusqu’au 5.6X52 est autorisée pour le tir des petits prédateurs à l’affût;
 - d) les munitions avec des projectiles en plomb ou comprenant un noyau en plomb sont interdites.
@@ -414,7 +416,9 @@ arrête:[^ingress-1]
 
 <sup>4</sup> Le tir depuis l'intérieur d'un véhicule, même à l'arrêt, est en principe interdit. A titre exceptionnel, une dérogation peut être accordée par le SCPF.
 
-<sup>5</sup> Les instruments d'optique tels que les jumelles, longues-vues, lunettes de visée et télémètres sont autorisés. Les appareils électroniques de reproduction du son pour attirer les animaux, appareils produisant des électrochocs, sources lumineuses artificielles, miroirs ou autres objets éblouissants ainsi que dispositifs de visée laser ou de visée nocturne et combinaisons d’appareils de fonction comparable ainsi qu’aéronefs civils sans occupant, en particulier drones, sont interdits lors de l'exercice de la chasse.
+<sup>5</sup> Les instruments d'optique tels que les jumelles, longues-vues, lunettes de visée et télémètres sont autorisés.
+
+<sup>5<sup>bis</sup></sup> Pendant les 24 heures du jour de chasse autorisé, la détention et l'utilisation des instruments d'optique à vision nocturne ou thermique, des appareils électroniques de reproduction du son pour attirer les animaux, des appareils produisant des électrochocs, des sources lumineuses artificielles, des miroirs ou autres objets éblouissants ainsi que des dispositifs de visée laser ou de visée nocturne et combinaisons d’appareils de fonction comparable ainsi qu’aéronefs civils sans occupant, en particulier drones, sont interdites pour le chasseur et tout accompagnant.
 
 <sup>6</sup> La création ou l'utilisation de miradors à des fins de chasse est interdite.
 
@@ -449,7 +453,8 @@ arrête:[^ingress-1]
 <sup>1</sup> Sauf autorisation spéciale du SCPF, le porteur du permis de chasse pour l'année précédente ou le nouveau chasseur ayant réussi l'examen est autorisé à entraîner son chien:
 
 - a) dans les territoires d'essais de chiens portés sur la carte de chasse;
-- b) du 1<sup>er</sup> au 31 août dans les territoires ouverts à la chasse le mardi, jeudi, samedi et dimanche. Le chasseur doit accompagner son chien et faire son possible pour le ramener au domicile. Si le chien erre sans contrôle, le chasseur est punissable.
+- b) du 1<sup>er</sup> au 31 août dans les territoires ouverts à la chasse le mardi, jeudi, samedi et dimanche. Le chasseur doit accompagner son chien et faire son possible pour le ramener au domicile. Si le chien erre sans contrôle, le chasseur est punissable;
+- c) l'entraînement des chiens d'arrêt est autorisé uniquement à partir du 15 août.
 
 <sup>2</sup> Dès que le chien s'écarte du territoire autorisé, le chasseur doit en informer le garde-faune ou la police.
 
@@ -545,7 +550,7 @@ arrête:[^ingress-1]
 
 <sup>2</sup> Il doit prendre toutes les mesures nécessaires à la conservation et à l'identification de ce gibier. Le chasseur qui ne se conforme pas à ces dispositions, qui cherche à soustraire le gibier aux organes de contrôle, à le mutiler en vue de le rendre méconnaissable, à l'abandonner volontairement ou à l'utiliser à son profit, sera dénoncé.
 
-<sup>3</sup> En cas de tir accidentel d'un animal protégé ou non autorisé et annoncé correctement, les taxes forfaitaires suivantes sont appliquées:
+<sup>3</sup> En cas de tir accidentel d'un animal protégé ou non autorisé et annoncé correctement, pour le porteur de permis dont l'espèce concernée est autorisée, les taxes forfaitaires suivantes sont appliquées:
 
 - a) durant la chasse haute:
   - 1\. tir d'une chèvre de chamois allaitante: — Fr. 300.-
@@ -554,10 +559,13 @@ arrête:[^ingress-1]
   - 4\. erreur de tir sur la catégorie chamois lorsque le chasseur ne dispose plus du droit de tir correspondant: — Fr. 200.-
   - 5\. tir d'une chevrette allaitante: — Fr. 250.-
   - 6\. tir d'un faon de chevreuil: — Fr. 200.-
+  - 6<sup>bis</sup>. tir d'un brocard sans bois ou dont la longueur des bois est inférieure à 5cm y.c.: — Fr. 250.-
+  - 6<sup>ter</sup>. tir d'un brocard dont la longueur est supérieure à 5cm et jusqu'à 15cm y.c.: — Fr. 300.-
+  - 6<sup>quater</sup>. tir d'un brocard dont la longueur est supérieure à 15cm: — Fr. 350.-
   - 7\. tir d'une 3<sup>e</sup> biche ou bichette: — Fr. 500.-
-  - 8\. tir d'un daguet non-chétif dont la longueur des bois est supérieur à 25cm et jusqu'à 30cm y.c.: — Fr. 750.-
-  - 9\. tir d'un daguet non-chétif dont la longueur des bois est supérieur à 30cm et jusqu'à 35cm y.c.: — Fr. 1'000.-
-  - 10\. tir d'un daguet non-chétif dont la longueur des bois est supérieur à 35cm: — Fr. 1'250.-
+  - 8\. tir d'un daguet non-chétif dont la longueur des bois est supérieure à 25cm et jusqu'à 30cm y.c.: — Fr. 750.-
+  - 9\. tir d'un daguet non-chétif dont la longueur des bois est supérieure à 30cm et jusqu'à 35cm y.c.: — Fr. 1'000.-
+  - 10\. tir d'un daguet non-chétif dont la longueur des bois est supérieure à 35cm: — Fr. 1'250.-
   - 11\. tir d'une laie allaitante: — Fr. 250.-
 - b) durant la chasse au brocard:
   - 1\. tir d'une chevrette allaitante ou non: — Fr. 300.-
@@ -566,6 +574,9 @@ arrête:[^ingress-1]
 - c) durant la chasse particulière au chevreuil:
   - 1\. tir d'une 2<sup>e</sup> chevrette: — Fr. 200.-
   - 2\. tir d'une 2<sup>e</sup> chevrette allaitante: — Fr. 300.-
+  - 2<sup>bis</sup>. tir d'un brocard sans bois ou dont la longueur des bois est inférieure à 5cm y.c.: — Fr. 250.-
+  - 2<sup>ter</sup>. tir d'un brocard dont la longueur est supérieure à 5cm et jusqu'à 15cm y.c.: — Fr. 300.-
+  - 2<sup>quater</sup>. tir d'un brocard dont la longueur est supérieure à 15cm: — Fr. 350.-
   - 3\. tir d'une laie allaitante: — Fr. 250.-
 - d) durant le permis S:
   - 1\. tir d'une laie allaitante: — Fr. 250.-
@@ -793,10 +804,18 @@ arrête:[^ingress-1]
 
 <sup>1</sup> Dans un délai transitoire de 4 ans, dès l’entrée en vigueur du présent règlement d’exécution, afin de justifier de ses capacités à utiliser son arme avec efficience le chasseur doit présenter, au minimum tous les 2 ans, une attestation correspondant aux modalités fixées dans la directive du SCPF relative aux exercices périodiques de tir. Pour 2021, le chasseur qui n’a pas fourni d’attestation depuis 2018, doit impérativement faire valoir une attestation justifiant de ses compétences de tir pour la délivrance de son permis de chasse.
 
-<sup>2</sup> Dans un délai transitoire de 2 ans, dès l’entrée du présent règlement, la cartouche à grenaille d'un diamètre de plus que 4,5 millimètres est tolérée pour l'exercice de la chasse selon l'article 30 alinéa 2 lettre a du présent règlement.
+<sup>2</sup> Dans un délai transitoire de 2 ans, dès l’entrée en vigueur du présent règlement, la cartouche à grenaille d'un diamètre de plus que 4,5 millimètres est tolérée pour l'exercice de la chasse selon l'article 30 alinéa 2 lettre a du présent règlement.
 
 <sup>3</sup> Dans un délai transitoire de 5 ans, dès l’entrée en vigueur du présent règlement, la munition, pour les armes à canon rayé, contenant du plomb est tolérée pour l'exercice de la chasse selon l'article 30 alinéa 1 lettre d du présent règlement, ceci afin de résorber les stocks de munition en circulation. Tout achat de nouvelle munition doit concerner prioritairement de la munition sans plomb.
 
 <sup>4</sup> Les chiens ne répondant pas aux exigences minimales posées en matières de validation de compétences reconnues par le SCPF peuvent être engagés pour autant qu’ils ne présentent pas de risque pour eux ou pour le gibier. Un garde-faune peut interdire l'utilisation d'un chien manifestement inapte; cette interdiction est confirmée par le SCPF, elle est levée dès que le propriétaire de l'animal pourra attester de la réussite d'une épreuve confirmant l'aptitude du chien concerné. Après un délai de 3 ans, dès l’entrée en vigueur du présent règlement, seuls les chiens pouvant apporter la preuve d’une attestation de compétence selon l’article 33 du présent règlement, pourront être engagés.
+
+## T1 Disposition transitoire de la modification du 28 juin 2022
+
+#### Art. T1-1
+
+**Adaptations de dispositions et dispositions transitoires**
+
+<sup>1</sup> Dans un délai transitoire de 4 ans, dès l’entrée en vigueur du présent règlement d’exécution, afin de justifier de ses capacités à utiliser son arme avec efficience le chasseur doit présenter, au minimum tous les 2 ans, une attestation correspondant aux modalités fixées dans la directive du SCPF relative aux exercices périodiques de tir. Pour 2022, le chasseur qui n’a pas fourni d’attestation en 2021, doit impérativement faire valoir une attestation justifiant de ses compétences de tir pour la délivrance de son permis de chasse.
 
 RCV RO/AGS 2021-075

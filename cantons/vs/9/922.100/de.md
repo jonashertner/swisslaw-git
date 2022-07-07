@@ -4,13 +4,13 @@ number: "922.100"
 title: Ausführungsreglement zum Jagdgesetz
 short: ReKJSG
 language: de
-version: 2021-06-25
-valid_until: 2022-07-07
-version_adopted: 2021-06-16
+version: 2022-07-08
+valid_until: 2023-06-30
+version_adopted: 2022-06-28
 adopted: 2021-06-16
 in_force: 2021-06-25
 url: "https://lex.vs.ch/app/de/texts_of_law/922.100"
-pdf: "https://lex.vs.ch/api/de/versions/2915/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3052/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/de/versions/2915/pdf_file"
 
 (ReKJSG)
 
-vom 16.06.2021 (Stand 25.06.2021)
+vom 16.06.2021 (Stand 08.07.2022)
 
 Der Staatsrat des Kantons Wallis
 
@@ -363,9 +363,11 @@ beschliesst:[^ingress-1]
 
 **Jagdwaffen**
 
-<sup>1</sup> Für die Jagd mit der Büchse dürfen nur einläufige Handrepetierer oder Kipplaufbüchsen verwendet werden. Diese müssen einen gezogenen Lauf von mindestens 7 Millimetern (Kaliber) aufweisen.
+<sup>1</sup> Für die Jagd mit der Büchse dürfen nur einläufige Handrepetierer, Fallblockbüchsen oder Kipplaufbüchsen verwendet werden. Diese müssen einen gezogenen Lauf von mindestens 7 Millimetern (Kaliber) aufweisen.
 
 <sup>2</sup> Die Verwendung des Magazins in Originalkonfiguration ist bei Handrepetierern gestattet.
+
+<sup>2<sup>bis</sup></sup> Doppelbüchsen mit gezogenem Lauf von mindestens 7 Millimetern (Kaliber) sind für die Spezialjagd auf Wildschweine erlaubt.
 
 <sup>3</sup> Das Kaliber der Flinten beträgt 12 bis 20. Diese ein- oder zweiläufigen Waffen dürfen maximal zwei Patronen aufnehmen können.
 
@@ -379,7 +381,7 @@ beschliesst:[^ingress-1]
 
 <sup>1</sup> Für die Jagd mit der Büchse:
 
-- a) die Initialenergie (EO) muss mindestens 3500 Joule betragen;
+- a) die Initialenergie (EO) muss mindestens 3000 Joule betragen;
 - b) Vollmantelgeschosse sind verboten; die Verwendung von Vollmantelmunition ist nur für den Abschuss von Murmeltieren erlaubt;
 - c) Geschosse mit einem Kaliber von .22 Hornet bis 5.6X52 sind für die Passjagd auf Kleinraubwild erlaubt;
 - d) Geschosse aus Blei oder mit einem Bleikern sind verboten.
@@ -414,7 +416,9 @@ beschliesst:[^ingress-1]
 
 <sup>4</sup> Das Schiessen vom Innern eines Fahrzeugs aus, auch im Stillstand, ist grundsätzlich verboten. Die DJFW kann Ausnahmen bewilligen.
 
-<sup>5</sup> Optische Geräte wie Ferngläser, Fernrohre, Zielfernrohre oder Distanzmesser sind gestattet. Elektronische Tonwiedergabegeräte zum Anlocken von Tieren, Elektroschockgeräte, künstliche Lichtquellen, Spiegel oder andere blendende Gegenstände sowie Infrarotsysteme, Laservisiere oder Nachtsichtzielgeräte und Kombinationen von Geräten mit ähnlichen Funktionen sowie unbemannte zivile Luftfahrzeuge, insbesondere Drohnen, sind während der Jagdausübung verboten.
+<sup>5</sup> Optische Geräte wie Ferngläser, Fernrohre, Zielfernrohre oder Distanzmesser sind gestattet.
+
+<sup>5<sup>bis</sup></sup> Während der 24 Stunden des erlaubten Jagdtages ist das Mitführen und Verwenden von optischen Geräten wie Nachtsichtgeräten und Wärmebildkameras, elektronischen Tonwiedergabegeräten zum Anlocken von Tieren, Elektroschockgeräten, künstlichen Lichtquellen, Spiegeln oder anderen blendenden Gegenstände sowie Infrarotsystemen, Laservisieren oder Nachtsichtzielgeräten und Kombinationen von Geräten mit ähnlichen Funktionen sowie unbemannten zivilen Luftfahrzeugen, insbesondere Drohnen, sowohl für den Jäger als auch für Begleitpersonen verboten.
 
 <sup>6</sup> Das Erstellen und Benutzen von Hochsitzen zu Jagdzwecken ist verboten.
 
@@ -449,7 +453,8 @@ beschliesst:[^ingress-1]
 <sup>1</sup> Mit Ausnahme von Sonderfällen, die eine Bewilligung der DJFW erfordern, ist das Trainieren von Jagdhunden den Jägern, die im vergangenen Jahr ein Patent gelöst haben, sowie Jungjägern, die ihre Jagdausbildung bestanden haben, gestattet:
 
 - a) in den auf der Jagdkarte eingezeichneten Gebieten für das Trainieren von Jagdhunden;
-- b) vom 1. bis 31. August: in allen Gebieten, die für die Jagd offen sind, am Dienstag, Donnerstag, Samstag und Sonntag. Der Jäger muss seinen Hund begleiten und hat alles zu unternehmen diesen wieder nach Hause zurückzubringen. Jagen Hunde unbeaufsichtigt herum, ist der Jäger strafbar.
+- b) vom 1. bis 31. August: in allen Gebieten, die für die Jagd offen sind, am Dienstag, Donnerstag, Samstag und Sonntag. Der Jäger muss seinen Hund begleiten und hat alles zu unternehmen diesen wieder nach Hause zurückzubringen. Jagen Hunde unbeaufsichtigt herum, ist der Jäger strafbar;
+- c) das Trainieren von Vorstehhunden ist erst ab dem 15. August erlaubt.
 
 <sup>2</sup> Hat sich der Hund aus dem Trainingsgebiet entfernt, muss der Jäger dem Wildhüter oder der Polizei Meldung erstatten.
 
@@ -545,7 +550,7 @@ beschliesst:[^ingress-1]
 
 <sup>2</sup> Er hat die nötigen Vorkehrungen zu treffen, damit das Wildbret erhalten und das Wildtier identifizierbar bleibt. Der Jäger, der dieser Bestimmung nicht Folge leistet, der versucht das Wild zu seinen Gunsten zu unterschlagen, es freiwillig an Ort und Stelle belässt, es verstümmelt, damit es nicht mehr erkenntlich ist, wird verzeigt.
 
-<sup>3</sup> Beim irrtümlichen Abschuss eines geschützten oder nicht erlaubten Wildes und sofern eine korrekte Selbstanzeige erfolgt, werden folgende Pauschalen erhoben:
+<sup>3</sup> Beim irrtümlichen Abschuss eines geschützten oder nicht erlaubten Wildes durch den Inhaber eines Patentes, für welches die betroffene Wildart erlaubt ist und sofern eine korrekte Selbstanzeige erfolgt, werden folgende Pauschalen erhoben:
 
 - a) während der Hochjagd:
   - 1\. Abschuss einer melken Gämsgeiss: — Fr. 300.-
@@ -554,6 +559,9 @@ beschliesst:[^ingress-1]
   - 4\. Abschuss einer Gämse aus einer Kategorie, über die der Jäger nicht mehr verfügt: — Fr. 200.-
   - 5\. Abschuss einer melken Rehgeiss: — Fr. 250.-
   - 6\. Abschuss eines Rehkitzes: — Fr. 200.-
+  - 6<sup>bis</sup>. Abschuss eines Rehbocks ohne Geweih oder mit einer mittleren Geweihlänge bis und mit 5cm: — Fr. 250.-
+  - 6<sup>ter</sup>. Abschuss eines Rehbocks mit einer mittleren Geweihlänge über 5cm und bis und mit 15cm: — Fr. 300.-
+  - 6<sup>quater</sup>. Abschuss eines Rehbocks mit einer mittleren Geweihlänge über 15cm: — Fr. 350.-
   - 7\. Abschuss einer 3. Hirschkuh/eines 3. Schmaltiers: — Fr. 500.-
   - 8\. Abschuss eines starken Spiessers mit einer mittleren Geweihlänge über 25cm und bis und mit 30cm: — Fr. 750.-
   - 9\. Abschuss eines starken Spiessers mit einer mittleren Geweihlänge über 30cm und bis und mit 35cm: — Fr. 1'000.-
@@ -566,6 +574,9 @@ beschliesst:[^ingress-1]
 - c) während der Spezialjagd auf Rehwild:
   - 1\. Abschuss einer 2. Rehgeiss (nicht melk): — Fr. 200.-
   - 2\. Abschuss einer 2. Rehgeiss (melk): — Fr. 300.-
+  - 2<sup>bis</sup>. Abschuss eines Rehbocks ohne Geweih oder mit einer mittleren Geweihlänge bis und mit 5cm: — Fr. 250.-
+  - 2<sup>ter</sup>. Abschuss eines Rehbocks mit einer mittleren Geweihlänge über 5cm und bis und mit 15cm: — Fr. 300.-
+  - 2<sup>quater</sup>. Abschuss eines Rehbocks mit einer mittleren Geweihlänge über 15cm: — Fr. 350.-
   - 3\. Abschuss einer melken Bache: — Fr. 250.-
 - d) während der Spezialjagd auf Wildschweine (Patent S):
   - 1\. Abschuss einer melken Bache: — Fr. 250.-
@@ -798,5 +809,13 @@ beschliesst:[^ingress-1]
 <sup>3</sup> Während einer Übergangsfrist von 5 Jahren ab Inkrafttreten dieses Ausführungsreglementes wird bleihaltige Munition zur Ausübung der Jagd mit Büchsen gemäss Artikel 30 Abstand 1 Buchstabe d dieses Reglements erlaubt, um die sich in Umlauf befindlichen Munitionsbestände zu verringern. Beim Kauf neuer Munition muss es sich vorrangig um bleifreie Munition handeln.
 
 <sup>4</sup> Hunde, die die von der DJFW anerkannten Mindestanforderungen für den Fähigkeitsnachweis nicht erfüllen, dürfen eingesetzt werden, solange sie keine Gefahr für sich selbst oder das Wild darstellen. Ein Wildhüter kann den Einsatz eines offensichtlich untauglichen Hundes verbieten; dieses Verbot wird von der DJFW bestätigt und aufgehoben, sobald der Hundeführer die erfolgreiche Absolvierung der Prüfung bescheinigen kann, die die Tauglichkeit des betreffenden Hundes bestätigt. Nach Ablauf einer Frist von 3 Jahren nach Inkrafttreten dieses Ausführungsreglements dürfen Hunde, die den Fähigkeitsnachweis gemäss Artikel 33 des vorliegenden Reglements nicht erbringen können, nicht eingesetzt werden.
+
+## T1 Übergangsbestimmung der Änderung vom 28. Juni 2022
+
+#### Art. T1-1
+
+**Anpassungen der Bestimmungen und Übergangsbestimmungen**
+
+<sup>1</sup> Während einer Übergangsfrist von 4 Jahren ab Inkrafttreten dieses Ausführungsreglements muss der Jäger mindestens alle 2 Jahre einen Treffsicherheitsnachweis über die Befähigung zum effizienten Umgang mit seiner Waffe vorlegen, die den Anforderungen der DJFW gemäss der Richtlinie über periodische Schiessübungen entspricht. Für das Jahr 2022 muss der Jäger, der 2021 keinen Treffsicherheitsnachweis vorgelegt hat, für die Erteilung eines Patentes zwingend einen Treffsicherheitsnachweis vorlegen.
 
 CSW RO/AGS 2021-075
