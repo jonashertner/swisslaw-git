@@ -4,13 +4,13 @@ number: "922.11"
 title: Jagdverordnung
 short: JaV
 language: de
-version: 2022-03-01
-valid_until: 2022-07-07
-version_adopted: 2022-02-22
+version: 2022-07-08
+valid_until: 2022-11-30
+version_adopted: 2022-06-28
 adopted: 2016-06-06
 in_force: 2016-07-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/922.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/7449/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7511/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Jagdverordnung
 
 (JaV)
 
-vom 06.06.2016 (Fassung in Kraft getreten am 01.03.2022)
+vom 06.06.2016 (Fassung in Kraft getreten am 08.07.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -480,6 +480,8 @@ beschliesst:
 
 <sup>2</sup> Unter Vorbehalt der Bestimmungen über den Fangschuss ist die Verwendung von Vollmantelgeschossen verboten.
 
+<sup>3</sup> Die Verwendung von bleihaltigen Kugelpatronen ist verboten.
+
 #### Art. 35
 
 **Munition – Schrotpatronen**
@@ -488,7 +490,7 @@ beschliesst:
 
 <sup>2</sup> Die Verwendung von Schrotkörnern mit mehr als 4,5 mm Durchmesser ist verboten.
 
-<sup>3</sup> Für die Jagd auf Wasservögel ist die Verwendung von Bleischrot verboten. Die Verwendung sämtlicher Ersatzstoffe für Blei ist jedoch gestattet.
+<sup>3</sup> Die Verwendung von bleihaltigen Schrotpatronen ist verboten. Die Verwendung sämtlicher Ersatzstoffe für Blei ist jedoch gestattet.
 
 <sup>4</sup> Für den Abschuss des Wildschweins, des Hirschs, der Gämse und des Steinwilds ist die Verwendung von Schrot verboten.
 
@@ -777,7 +779,7 @@ beschliesst:
 
 **Spezialjagd auf die Gämse**
 
-<sup>1</sup> Eine Spezialjagd auf die Gämse kann in den eidgenössischen Jagdbanngebieten, in den kantonalen Wildschutzgebieten im Gebirge, in den kantonalen Wildschutzgebieten im Flachland und eventuell in gewissen Gebieten im Flachland stattfinden.
+<sup>1</sup> Eine Spezialjagd auf die Gämse kann in den kantonalen Wildschutzgebieten im Gebirge, in den kantonalen Wildschutzgebieten im Flachland und eventuell in gewissen Gebieten im Flachland stattfinden.
 
 <sup>2</sup> Diese Jagd ist gestattet:
 
@@ -876,13 +878,13 @@ beschliesst:
 
 #### Art. 66
 
-**Jagd auf Wildschweine – in den kantonalen Reservaten am Südufer des Neuenburgersees und im WZVV-Reservat Chevroux-Portalban**
+**Jagd auf Wildschweine – in den kantonalen Reservaten am Südufer des Neuenburgersees**
 
-<sup>1</sup> Am Südufer des Neuenburgersees und im WZVV-Reservat Chevroux–Portalban gemäss Anhang 1 der Verordnung vom 21. Juni 2016 über den Schutz wildlebender Säugetiere und Vögel und ihrer Lebensräume ist die Jagd auf Wildschweine gestattet.
+<sup>1</sup> In den kantonalen Reservaten am Südufer des Neuenburgersees, gemäss Anhang 1 der Verordnung über den Schutz wildlebender Säugetiere und Vögel und ihrer Lebensräume, ist die Jagd auf Wildschweine gestattet.
 
 <sup>2</sup> Diese Jagd ist vom 15. Oktober bis 31. Dezember gestattet. Das Amt kann diese Jagd am 15. Dezember beenden, wenn es die Regulierung als genügend betrachtet.
 
-<sup>3</sup> Die Jagd in den Wasser- und Zugvogelreservaten (WZVV) dauert bis am 31. Dezember. In den kantonalen Reservaten dauert die Jagd bis spätestens am 31. Januar.
+<sup>3</sup> …
 
 <sup>4</sup> Diese Jagd steht nur Jägerinnen und Jägern offen, die Inhaber des Patents D für die laufende Jagdsaison sind.
 
@@ -898,9 +900,9 @@ beschliesst:
 
 <sup>10</sup> Der Abschuss der Bachen, die gestreifte Frischlinge führen, ist verboten.
 
-<sup>11</sup> Betrachtet das Amt die Regulierung als ungenügend, wird die Jagd in bestimmten oder allen Reservaten gemäss Absatz 1 bis zum 31. Januar verlängert, ausser an Freitagen.
+<sup>11</sup> Betrachtet das Amt die Regulierung als ungenügend, wird die Jagd in bestimmten oder allen Reservaten bis spätestens zum 31. Januar verlängert.
 
-<sup>12</sup> Die punktuelle Verwendung von Taschenlampen ist nur im WZVV-Reservat gestattet. Die Jägerinnen und Jäger müssen vom Amt instruiert werden.
+<sup>12</sup> …
 
 <sup>13</sup> Jägerinnen und Jäger, die gegen die Jagdgesetzgebung verstossen haben, dürfen im folgenden Jahr nicht an dieser Jagd teilnehmen.
 
@@ -910,7 +912,9 @@ beschliesst:
 
 <sup>1</sup> Das Patent E berechtigt die Inhaberin oder den Inhaber im Flachland zu jagen:
 
-- a) Waldschnepfen, vom 15. Oktober bis 14. Dezember; es ist verboten, mehr als zwei Schnepfen pro Tag zu erlegen;
+- a) Waldschnepfen, vom 20. Oktober bis 14. Dezember;
+  - 1\. vom 20. bis 31. Oktober ist es verboten mehr als eine Schnepfe pro Tag zu erlegen (maximal drei in dieser Zeitspanne);
+  - 2\. vom 1. November bis 14. Dezember ist es verboten mehr als zwei Schnepfen pro Tag zu erlegen (maximal zehn während der gesamten Jagdsaison).
 - b) Stockenten, Krickenten und Kormorane, vom Montag des eidgenössischen Buss- und Bettages bis zum 31. Januar.
 
 <sup>2</sup> Wasserwild darf erlegt werden:
@@ -1157,7 +1161,13 @@ beschliesst:
 
 <sup>2</sup> Der für die verschiedenen Tierarten zu bezahlende Betrag entspricht demjenigen nach dem Konkordat über die Ausübung und die Beaufsichtigung der Jagd.
 
-## 7 Schlussbestimmungen
+## 7 Übergangs- und Schlussbestimmungen
+
+#### Art. 88a
+
+**Übergangsbestimmung zur Änderung vom 28. Juni 2022.**
+
+<sup>1</sup> Die Verwendung von bleihaltiger Munition im Sinne der Artikel 34 Abs. 3 und 35 Abs. 3 ist für die Jagd bis zur Saison 2026-2027 erlaubt, mit Ausnahme der Jagd auf Wasservögel.
 
 #### Art. 89
 

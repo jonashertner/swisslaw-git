@@ -4,13 +4,13 @@ number: "922.11"
 title: Ordonnance concernant la chasse
 short: OCha
 language: fr
-version: 2022-03-01
-valid_until: 2022-07-07
-version_adopted: 2022-02-22
+version: 2022-07-08
+valid_until: 2022-11-30
+version_adopted: 2022-06-28
 adopted: 2016-06-06
 in_force: 2016-07-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/922.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7449/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7511/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Chasse – O
 
 (OCha)
 
-du 06.06.2016 (version entrée en vigueur le 01.03.2022)
+du 06.06.2016 (version entrée en vigueur le 08.07.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -480,6 +480,8 @@ Arrête:
 
 <sup>2</sup> Sous réserve des dispositions concernant l'achèvement des animaux, l'utilisation de balles blindées est interdite.
 
+<sup>3</sup> L'utilisation de balles contenant du plomb est interdite.
+
 #### Art. 35
 
 **Munitions – Cartouches à grenaille**
@@ -488,7 +490,7 @@ Arrête:
 
 <sup>2</sup> L'utilisation de grenaille d'un diamètre supérieur à 4,5 mm est interdite.
 
-<sup>3</sup> L'utilisation de grenaille en plomb est interdite pour la chasse aux oiseaux d'eau. Toutefois, l'utilisation de toute autre matière substituant le plomb est autorisée.
+<sup>3</sup> L'utilisation de grenaille en plomb est interdite. Toutefois, l'utilisation de toute autre matière substituant le plomb est autorisée.
 
 <sup>4</sup> L'utilisation de la grenaille est interdite pour le tir du sanglier, du cerf, du chamois et du bouquetin.
 
@@ -777,7 +779,7 @@ Arrête:
 
 **Chasse spéciale du chamois**
 
-<sup>1</sup> Une chasse spéciale du chamois peut avoir lieu dans les districts francs fédéraux, les réserves cantonales de faune en montagne, les réserves cantonales de faune en plaine et éventuellement dans certaines régions de plaine.
+<sup>1</sup> Une chasse spéciale du chamois peut avoir lieu dans les réserves cantonales de faune en montagne, les réserves cantonales de faune en plaine et éventuellement dans certaines régions de plaine.
 
 <sup>2</sup> Cette chasse est autorisée:
 
@@ -876,13 +878,13 @@ Arrête:
 
 #### Art. 66
 
-**Chasse du sanglier – dans les réserves cantonales de la rive sud du lac de Neuchâtel ainsi que dans la réserve OROEM de Chevroux–Portalban**
+**Chasse du sanglier – dans les réserves cantonales de la rive sud du lac de Neuchâtel**
 
-<sup>1</sup> La chasse du sanglier est autorisée sur la rive sud du lac de Neuchâtel et dans la réserve OROEM de Chevroux–Portalban définie dans l'Annexe 1 de l'ordonnance du 21 juin 2016 sur la protection des mammifères, des oiseaux sauvages et de leurs biotopes.
+<sup>1</sup> La chasse du sanglier est autorisée dans les réserves cantonales sur la rive sud du lac de Neuchâtel définies dans l'Annexe 1 de l'ordonnance sur la protection des mammifères, des oiseaux sauvages et de leurs biotopes.
 
 <sup>2</sup> Cette chasse est autorisée du 15 octobre au 31 décembre. Le Service peut mettre fin à cette chasse le 15 décembre s'il juge la régulation suffisante.
 
-<sup>3</sup> La chasse dans les réserves d'oiseaux d'eau et de migrateurs (OROEM) se termine le 31 décembre. Dans les réserves cantonales, la chasse se termine au plus tard le 31 janvier.
+<sup>3</sup> …
 
 <sup>4</sup> Cette chasse n'est autorisée qu'aux chasseurs et chasseuses titulaires du permis D pour la saison de chasse en cours.
 
@@ -898,9 +900,9 @@ Arrête:
 
 <sup>10</sup> Le tir des laies qui conduisent des marcassins rayés est interdit.
 
-<sup>11</sup> Si la régulation est jugée insuffisante par le Service, la chasse est prolongée dans certaines ou dans toutes les réserves définies à l'alinéa 1 jusqu'au 31 janvier, à l'exclusion des vendredis.
+<sup>11</sup> Si la régulation est jugée insuffisante par le Service, la chasse est prolongée dans certaines ou dans toutes les réserves jusqu'au 31 janvier au plus tard.
 
-<sup>12</sup> L'utilisation ponctuelle de lampes de poche est admise uniquement dans la réserve OROEM. Les chasseurs et chasseuses doivent recevoir une instruction par le Service.
+<sup>12</sup> …
 
 <sup>13</sup> Les chasseurs et chasseuses qui ont commis une infraction à la législation sur la chasse n'ont pas le droit de participer à cette chasse l'année suivante.
 
@@ -910,7 +912,9 @@ Arrête:
 
 <sup>1</sup> Le permis E confère à son ou sa titulaire le droit de tirer en plaine:
 
-- a) les bécasses des bois, du 15 octobre au 14 décembre; il est interdit de tirer plus de deux bécasses par jour;
+- a) les bécasses des bois, du 20 octobre au 14 décembre;
+  - 1\. du 20 au 31 octobre: il est interdit de tirer plus d'une bécasse par jour (trois au maximum durant cette période);
+  - 2\. du 1<sup>er</sup> novembre au 14 décembre: il est interdit de tirer plus de deux bécasses par jour (dix au maximum durant toute la période de chasse);
 - b) les canards colverts, les sarcelles d'hiver et les cormorans, du lundi du Jeûne fédéral au 31 janvier.
 
 <sup>2</sup> Le gibier d'eau peut être tiré:
@@ -1157,7 +1161,13 @@ Arrête:
 
 <sup>2</sup> Le montant à verser pour les diverses espèces d'animaux est celui qui est fixé par le concordat sur l'exercice et la surveillance de la chasse.
 
-## 7 Dispositions finales
+## 7 Dispositions transitoires et finales
+
+#### Art. 88a
+
+**Disposition transitoire relative à la modification du 28 juin 2022**
+
+<sup>1</sup> L'utilisation des munitions contenant du plomb au sens des articles 34 al. 3 et 35 al. 3 est autorisée pour la chasse jusqu'à la saison 2026-2027, à l'exception de la chasse aux oiseaux d'eau.
 
 #### Art. 89
 
