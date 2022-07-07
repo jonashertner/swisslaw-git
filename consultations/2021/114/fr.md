@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ordonnance relative au rapport sur les questions climatiques
 document: Projet mis en consultation
 language: fr

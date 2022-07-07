@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Verordnung über die Berichterstattung über Klimabelange
 document: Vernehmlassungsvorlage
 language: de

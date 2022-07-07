@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ordinanza concernente la relazione sulle questioni climatiche
 document: Progetto posto in consultazione
 language: it
