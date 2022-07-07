@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Genehmigung des Haager Gerichtsstandsübereinkommens
 document: Vernehmlassungsvorlage-2
 language: de

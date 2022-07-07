@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Approvazione della Convenzione sugli accordi di scelta del foro
 document: Progetto posto in consultazione-2
 language: it

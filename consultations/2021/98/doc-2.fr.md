@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Approbation de la Convention sur les accords d’élection de for
 document: Projet mis en consultation-2
 language: fr
