@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Umsetzung der Änderung vom 1. Oktober 2021 des EnG auf Verordnungsstufe und weitere Änderungen der Energieverordnung, der Energieeffizienzverordnung, der Energieförderungsverordnung und der Stromversorgungsverordnung mit Inkrafttreten Anfang 2023"
 document: Vernehmlassungsvorlage-2
 language: de

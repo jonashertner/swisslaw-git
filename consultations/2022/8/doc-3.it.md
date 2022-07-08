@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Attuazione, a livello di ordinanza, della modifica del 1° ottobre 2021 della LEne e ulteriori modifiche dell’ordinanza sull’energia, dell’ordinanza sull’efficienza energetica, dell’ordinanza sulla promozione dell’energia e dell’ordinanza sull’approvvigionamento elettrico con entrata in vigore il 1° gennaio 2023"
 document: Progetto posto in consultazione-3
 language: it

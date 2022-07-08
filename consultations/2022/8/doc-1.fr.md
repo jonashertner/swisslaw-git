@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Mise en œuvre, au niveau des ordonnances, de la modification apportée le 1er octobre 2021 à la loi sur l’énergie et autres adaptations de l’ordonnance sur l’énergie, de l’ordonnance sur les exigences relatives à l’efficacité énergétique, de l’ordonnance sur l’encouragement de la production d’électricité issue d’énergies renouvelables et de l’ordonnance sur l’approvisionnement en électricité, avec entrée en vigueur début 2023"
 document: Projet mis en consultation-2
 language: fr
