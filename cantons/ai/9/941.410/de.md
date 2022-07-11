@@ -5,109 +5,108 @@ title: Einführungsverordnung zum Bundesgesetz über explosionsgefährliche Stof
 short: EV SprstG
 language: de
 version: 2006-10-23
+corrected: 2022-07-12
 version_adopted: 2006-10-23
 adopted: 1981-11-23
 in_force: 1981-11-23
 url: "https://ai.clex.ch/app/de/texts_of_law/941.410"
-pdf: "https://ai.clex.ch/api/de/versions/2052/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/1005/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Einführungsverordnung zum Bundesgesetz über explosionsgefährliche Stoffe
+# Einführungsverordnung zum Bundesgesetz über explosionsgefährliche Stoffe (EV SprstG)
 
-(EV SprstG)
+vom 23. November 19811
 
-vom 23.11.1981 (Stand 23.10.2006)
+Der Grosse Rat des Kantons Appenzell I. Rh.,
 
-Der Grosse Rat des Kantons Appenzell I.Rh.,
-
-gestützt auf Art. 42 Abs. 2 und 3 des Bundesgesetzes über explosionsgefährliche Stoffe vom 25. März 1977 (Sprengstoffgesetz, SprstG) sowie Art. 27 Abs. 1 der Kantonsverfassung vom 24. Wintermonat 1872,
+gestützt auf Art. 42 Abs. 2 und 3 des Bundesgesetzes über explosionsgefährliche Stoffe vom 25. März 1977 (Sprengstoffgesetz, SprstG) sowie Art. 27 Abs. 1 der Kantonsverfassung vom 24. Wintermonat 1872,2
 
 beschliesst:
 
-## I. Zuständigkeit
+### I. Zuständigkeit
 
-#### Art. 1
+#### Art. 13
 
 **Justiz-, Polizei- und Militärdepartement**
 
-<sup>1</sup> Die Justiz- Polizei- und Militärdepartement (nachfolgend Departement genannt) ist zuständig für:
+Die Justiz- Polizei- und Militärdepartement (nachfolgend Departement genannt) ist zuständig für:
 
-- a) Die Verkaufsbewilligung für Sprengmittel und pyrotechnische Gegenstände, ausgenommen Feuerwerk (Art. 4–7 und Art. 10 SprstG);
+- a) Die Verkaufsbewilligung für Sprengmittel und pyrotechnische Gegenstände, ausgenommen Feuerwerk (Art. 4 - 7 und Art. 10 SprstG);
+
 - b) administrative Massnahmen gegen Verkäufer von Sprengmitteln und pyrotechnischen Gegenständen, ausgenommen Feuerwerk (Art. 35 SprstG);
+
 - c) den Entzug von Sprengausweisen (Art. 60 Verordnung über explosionsgefährliche Stoffe vom 27. November 2000 (Sprengstoffverordnung, SprstV).
 
-#### Art. 2
+#### Art. 24
 
 **Kantonspolizei**
 
-<sup>1</sup> Die Kantonspolizei besorgt unter Aufsicht des Departementes alle Vollzugsaufgaben, die nicht einer andern Behörde zugewiesen sind. Sie ist insbesondere zuständig für:
+Die Kantonspolizei besorgt unter Aufsicht des Departementes alle Vollzugsaufgaben, die nicht einer andern Behörde zugewiesen sind. Sie ist insbesondere zuständig für:
 
 - a) die Verkaufsbewilligung für Feuerwerk (Art. 7 lit. b und Art. 10 SprstG);
-- b) die Verkaufsbewilligung für Schiesspulver (Art. 7a und 10 SprstG );
+
+- b) die Verkaufsbewilligung für Schiesspulver (Art. 7a und Art. 10 SprstG);
+
 - c) die Ausstellung von Erwerbsscheinen für Sprengmittel und pyrotechnische Gegenstände (Art. 12 SprstG, Art. 45 und 47 SprstV);
-- e) die Überwachung des Verkehrs mit Sprengmitteln, pyrotechnischen Gegenständen und Schiesspulver (Art. 28 SprstG );
-- f) administrative Verfügungen (Art. 35 SprstG ).
 
-#### Art. 3
+- e) die Überwachung des Verkehrs mit Sprengmitteln, pyrotechnischen Gegenständen und Schiesspulver (Art. 28 SprstG);
 
-**Standeskommission**
+- f) administrative Verfügungen (Art. 35 SprstG).
 
-<sup>1</sup> Der Standeskommission obliegt die Erteilung von Ausnahmebewilligungen für die Verwendung von Schiesspulver für die Feier historischer Anlässe oder für ähnliche Bräuche (Art. 15 Abs. 5 SprstG).
+#### Art. 31
 
-#### Art. 4
+Standes- Der Standeskommission obliegt die Erteilung von Ausnahmebewilligungen für die kommission Verwendung von Schiesspulver für die Feier historischer Anlässe oder für ähnliche Bräuche (Art. 15 Abs. 5 SprstG).
 
-**Arbeitsinspektorat**
+#### Art. 42
 
-<sup>1</sup> Das kantonale Arbeitsinspektorat ist zuständig für den Vollzug der Massnahmen zum Schutze der Arbeitnehmer in Betrieben, die dem Arbeitsgesetz unterstehen (Art. 23 und 34 SprstG).
+Arbeits- Das kantonale Arbeitsinspektorat ist zuständig für den Vollzug der Massnahmen inspektorat zum Schutze der Arbeitnehmer in Betrieben, die dem Arbeitsgesetz unterstehen (Art. 23 und 34 SprstG).
 
-## II. Verfahren
+### II. Verfahren
 
-#### Art. 5
+#### Art. 53
 
-**Verkaufsbewilligung**
-
-<sup>1</sup> Gesuche um Bewilligungen zum Verkauf von Sprengmitteln und pyrotechnischen Gegenständen sowie Schiesspulver sind bei der Bewilligungsinstanz einzureichen.
+Verkaufs- Gesuche um Bewilligungen zum Verkauf von Sprengmitteln und pyrotechnischen bewilligung Gegenständen sowie Schiesspulver sind bei der Bewilligungsinstanz einzureichen.
 
 #### Art. 6
 
-**Ausnahmebewilligungen**
+Ausnahme- <sup>1</sup>Gesuche um Ausnahmebewilligungen für die Verwendung von Schiesspulver für bewilligungen historische Anlässe und Bräuche sind 14 Tage vor dem Anlass bei der Ratskanzlei einzureichen.
 
-<sup>1</sup> Gesuche um Ausnahmebewilligungen für die Verwendung von Schiesspulver für historische Anlässe und Bräuche sind 14 Tage vor dem Anlass bei der Ratskanzlei einzureichen.
+<sup>2</sup> Der Gesuchsteller\* hat Gewähr für eine fachgemässe Verwendung von Schiesspulver zu bieten sowie den Nachweis einer genügenden Unfallversicherung für alle Beteiligten und einer Haftpflichtversicherung für Drittschäden zu erbringen.
 
-<sup>2</sup> Der Gesuchsteller[^6-1] hat Gewähr für eine fachgemässe Verwendung von Schiesspulver zu bieten sowie den Nachweis einer genügenden Unfallversicherung für alle Beteiligten und einer Haftpflichtversicherung für Drittschäden zu erbringen.
+#### Art. 74
 
-[^6-1]: Die Verwendung der männlichen Bezeichnungen gilt sinngemäss für beide Geschlechter.
+Sprengausweise Der Kanton anerkennt Sprengausweise, welche an Prüfungen erworben werden, die geeignete Organisationen der Wirtschaft durchführen. Soweit für die Durchführung der Prüfungen nicht geeignete Organisationen der Wirtschaft herangezogen werden
 
-#### Art. 7
+können, organisiert diese das Departement (Art. 14 SprstG).
 
-**Sprengausweise**
+#### Art. 85
 
-<sup>1</sup> Der Kanton anerkennt Sprengausweise, welche an Prüfungen erworben werden, die geeignete Organisationen der Wirtschaft durchführen. Soweit für die Durchführung der Prüfungen nicht geeignete Organisationen der Wirtschaft herangezogen werden können, organisiert diese das Departement (Art. 14 SprstG).
+Gebühren Die Standeskommission legt die Gebühren im Rahmen des Bundesrechts fest (Art. 113 ff. SprstV).
 
-#### Art. 8
+### III. Schlussbestimmung
 
-**Gebühren**
+Art. 9 - Art. 101
 
-<sup>1</sup> Die Standeskommission legt die Gebühren im Rahmen des Bundesrechts fest (Art. 113 ff. SprstV).
-
-## III. Schlussbestimmung
-
-#### Art. 9
-
-**…**
-
-#### Art. 10
-
-**…**
-
-#### Art. 11
+Art. 112
 
 **Inkrafttreten**
 
-<sup>1</sup> Diese Verordnung tritt nach Annahme durch den Grossen Rat und unter dem Vorbehalt der Genehmigung durch den Bundesrat[^11-1] in Kraft.
+Diese Verordnung tritt nach Annahme durch den Grossen Rat und unter dem Vorbehalt der Genehmigung durch den Bundesrat in Kraft. Vom Bundesrat genehmigt am 12. Februar 1982.
 
-[^11-1]: Vom Bundesrat genehmigt am 12. Februar 1982.
+## Weitere Fussnoten
 
-cGS -
+- [1] Mit Revision vom 23. Oktober 2006.
+- [2] Titel und Ingress abgeändert durch GrRB vom 23. Oktober 2006.
+- [3] Abgeändert durch GrRB vom 23. Oktober 2006.
+- [4] Abgeändert durch GrRB vom 23. Oktober 2006.
+- [1] Abgeändert durch GrRB vom 23. Oktober 2006.
+- [2] Abgeändert durch GrRB vom 23. Oktober 2006.
+- [3] Abgeändert durch GrRB vom 23. Oktober 2006.
+- [4] Abgeändert durch GrRB vom 23. Oktober 2006.
+- [5] Abgeändert durch GrRB vom 23. Oktober 2006.
+- [*] Die Verwendung der männlichen Bezeichnungen gilt sinngemäss für beide Geschlechter.
+- [1] Aufgehoben durch GrRB vom 23. Oktober 2006.
+- [2] Abgeändert durch GrRB vom 23. Oktober 2006.
