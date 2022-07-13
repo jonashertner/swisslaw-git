@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Revisione totale dell’ordinanza sugli impianti di accumulazione nonché modifiche di ordinanze riguardanti il settore nucleare e il campo di applicazione della legge sugli impianti elettrici, con entrata in vigore all’inizio del 2023"
 document: Progetto posto in consultazione-8
 language: it

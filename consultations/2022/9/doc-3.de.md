@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Totalrevision der Stauanlagenverordnung sowie Verordnungsänderungen im Kernenergiebereich sowie im Anwendungsbereich des Elektrizitätsgesetzes mit Inkrafttreten Anfang 2023
 document: Vernehmlassungsvorlage
 language: de

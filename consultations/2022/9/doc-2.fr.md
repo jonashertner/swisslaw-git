@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Révision totale de l’ordonnance sur les ouvrages d’accumulation et adaptation d’ordonnances dans le domaine de l’énergie nucléaire et dans le domaine d’application de la loi sur l’électricité, avec entrée en vigueur début 2023"
 document: Projet mis en consultation-2
 language: fr
