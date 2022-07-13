@@ -3,13 +3,12 @@ canton: BS
 number: "730.700"
 title: Verordnung über Beiträge an die Kosten der Beseitigung von Sprayereien an privaten Liegenschaften
 language: de
-version: 2017-01-01
-valid_until: 2022-07-13
-version_adopted: 2017-01-24
+version: 2022-07-14
+version_adopted: 2022-07-05
 adopted: 1994-09-06
 in_force: 1994-09-11
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/730.700"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4014/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5585/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4014/pdf_file"
 
 Sprayereien, Kostenbeitrag für deren Beseitigung: Verordnung | Hochbauten
 
-Vom 6. September 1994 (Stand 1. Januar 2017)
+Vom 6. September 1994 (Stand 14. Juli 2022)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -47,6 +46,8 @@ erlässt folgende Verordnung:
 <sup>2</sup> …
 
 <sup>3</sup> …
+
+<sup>4</sup> Entlang von Demonstrationsrouten oder Vandalenzügen angebrachte grossflächige Sprayereien oder Sprayereien mit anstössigen Inhalten kann das Tiefbauamt unentgeltlich beseitigen oder beseitigen lassen.
 
 ## III. Geltungsbereich
 
