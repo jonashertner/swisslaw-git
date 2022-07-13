@@ -3,11 +3,11 @@ sr: "0.741.10"
 title: Übereinkommen vom 8. November 1968 über den Strassenverkehr (mit Anhängen)
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/402_402_402"
 language: de
-version: 2020-05-19
+version: 2022-07-14
 adopted: 1968-11-08
 in_force: 1992-12-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20200519/de/xml/fedlex-data-admin-ch-eli-cc-1993-402_402_402-20200519-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/402_402_402/20200519/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/de/xml/fedlex-data-admin-ch-eli-cc-1993-402_402_402-20220714-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/402_402_402/20220714/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1993** 402; BBl **1978** I 1440
 
 Abgeschlossen in Wien am 8. November 1968 Von der Bundesversammlung genehmigt am 15. Dezember 1978[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 11. Dezember 1991 In Kraft getreten für die Schweiz am 11. Dezember 1992
 
-(Stand am 19. Mai 2020)
+(Stand am 14. Juli 2022)
 
 [^t-1]: Art. 1 Abs. 1 Bst. a des BB vom 15. Dez. 1978 ([AS 1993 400](https://fedlex.data.admin.ch/eli/oc/1993/400_400_400)).
 
@@ -100,20 +100,22 @@ Die Vertragsparteien können jedoch die nach Ziffer ii stillstehenden Fahrzeuge 
 Im Sinne dieses Übereinkommens haben die nachstehenden Begriffe die ihnen in diesem Artikel zugeordneten Bedeutungen:
 
 - a) «Innerstaatliche Rechtsvorschriften» einer Vertragspartei sind alle im Hoheitsgebiet dieser Vertragspartei in Kraft befindlichen nationalen oder örtlichen Gesetze und Regelungen;
+- ab)[^1-1] «System für automatisiertes Fahren» bezeichnet ein Fahrzeugsystem, das mithilfe von Hardware und Software dauerhaft die dynamische Steuerung eines Fahrzeugs übernehmen kann.
+- ac)[^1-2] «Dynamische Steuerung» bezeichnet das Ausführen aller Betriebsfunktionen und taktischen Funktionen in Echtzeit, die zur Fortbewegung des Fahrzeugs erforderlich sind. Dies beinhaltet die Steuerung der Fahrzeugbewegungen in Quer- und Längsrichtung, die Überwachung der Straße, die Reaktion auf Ereignisse im Straßenverkehr sowie die Planung von Fahrmanövern samt Signalgebung.
 - b) ein Fahrzeug gilt als «im internationalen Verkehr» im Hoheitsgebiet eines Staates, wenn
   - i) es einer natürlichen oder juristischen Person gehört, die ihren ordentlichen Wohnsitz ausserhalb dieses Staates hat;
   - ii) es in diesem Staat nicht zugelassen ist, und
   - iii) es vorübergehend in diesen Staat eingeführt wird;
   - dabei steht es jedoch jeder Vertragspartei frei, es abzulehnen, ein Fahrzeug als «im internationalen Verkehr» befindlich anzusehen, das ohne nennenswerte Unterbrechung, deren Dauer sie festsetzen kann, länger als ein Jahr in ihrem Hoheitsgebiet geblieben ist.
 
-- c)[^1-1] «Ortschaft» ist ein Gebiet, das bebaute Grundstücke umfasst und dessen Ein- und Ausfahrten als solche besonders gekennzeichnet sind oder das in den innerstaatlichen Rechtsvorschriften in anderer Weise bestimmt ist;
-- ...[^1-2]
+- c)[^1-3] «Ortschaft» ist ein Gebiet, das bebaute Grundstücke umfasst und dessen Ein- und Ausfahrten als solche besonders gekennzeichnet sind oder das in den innerstaatlichen Rechtsvorschriften in anderer Weise bestimmt ist;
+- ...[^1-4]
 - d) «Strasse» ist die gesamte Fläche jedes dem öffentlichen Verkehr dienenden Weges;
 - e) «Fahrbahn» ist der Teil der Strasse, der üblicherweise von den Fahrzeugen benutzt wird; eine Strasse kann mehrere Fahrbahnen haben, die insbesondere durch einen Mittelstreifen oder einen Höhenunterschied deutlich voneinander getrennt sind;
 - f) auf Fahrbahnen, wo ein seitlicher Fahrstreifen oder ein Weg oder mehrere seitliche Fahrstreifen oder Wege dem Verkehr bestimmter Fahrzeuge vorbehalten sind, ist «Fahrbahnrand» für die anderen Verkehrsteilnehmer der Rand des übrigen Teils der Fahrbahn;
 - g) «Fahrstreifen» ist jeder der Längsstreifen, in welche die Fahrbahn unterteilt werden kann, mag er durch Strassenmarkierungen in der Längsrichtung gekennzeichnet sein oder nicht, dessen Breite für die Fortbewegung einer Reihe mehrspuriger Kraftfahrzeuge (Art. 1 Bst. p) ausreicht;
-- [tab] g<sup>bis</sup>)[^1-3]«Radstreifen» ist jener Teil der Fahrbahn, der für die Radfahrer bestimmt ist. Ein Radstreifen ist von der übrigen Fahrbahn durch Strassenmarkierungen in der Längsrichtung getrennt.
-- g<sup>ter</sup>)[^1-4] «Radweg» ist eine eigene Strasse oder der Teil einer Strasse, die bzw. der Radfahrern vorbehalten und als Radweg gekennzeichnet ist. Ein Radweg ist von anderen Strassen oder anderen Strassenteilen durch bauliche Einrichtungen getrennt.
+- [tab] g<sup>bis</sup>)[^1-5]«Radstreifen» ist jener Teil der Fahrbahn, der für die Radfahrer bestimmt ist. Ein Radstreifen ist von der übrigen Fahrbahn durch Strassenmarkierungen in der Längsrichtung getrennt.
+- g<sup>ter</sup>)[^1-6] «Radweg» ist eine eigene Strasse oder der Teil einer Strasse, die bzw. der Radfahrern vorbehalten und als Radweg gekennzeichnet ist. Ein Radweg ist von anderen Strassen oder anderen Strassenteilen durch bauliche Einrichtungen getrennt.
 - h) «Kreuzung» ist jede höhengleiche Kreuzung, Einmündung oder Gabelung von Strassen einschliesslich der durch solche Kreuzungen, Einmündungen oder Gabelungen gebildeten Plätze;
 - i) «Bahnübergang» ist jede höhengleiche Kreuzung zwischen einer Strasse und Eisenbahn‑ oder Strassenbahnschienen auf eigenem Schienenkörper;
 - j)
@@ -132,10 +134,10 @@ Im Sinne dieses Übereinkommens haben die nachstehenden Begriffe die ihnen in di
   - ii) «parkendes Fahrzeug», wenn es aus einem anderen Grunde als zur Vermeidung eines Zusammentreffens mit einem anderen Verkehrsteilnehmer oder mit einem Hindernis oder zur Einhaltung von Verkehrsvorschriften hält und wenn sich sein Halten nicht auf die Zeit beschränkt, die zum Ein‑ oder Aussteigen oder zum Be‑ und Entladen erforderlich ist.
 
 - l) «Fahrrad» ist jedes Fahrzeug mit wenigstens zwei Rädern, das ausschliesslich durch die Muskelkraft auf ihm befindlicher Personen, insbesondere mit Hilfe von Pedalen oder Handkurbeln, angetrieben wird;
-- m) «Motorfahrräder» sind zwei‑ oder dreirädrige Fahrzeuge mit einem Verbrennungsmotor, dessen Zylinderinhalt 50 cm<sup>3</sup> (3,05 Kubikzoll) und dessen durch die Bauart bestimmte Höchstgeschwindigkeit 50 km (30 Meilen) in der Stunde nicht übersteigt. Die Vertragsparteien haben jedoch das Recht, in ihren innerstaatlichen Rechtsvorschriften solche Fahrzeuge nicht als Motorfahrräder anzusehen, die nicht hinsichtlich ihrer Verwendungsmöglichkeiten die Merkmale von Fahrrädern haben – insbesondere das Merkmal, durch Pedale angetrieben werden zu können – oder deren durch die Bauart bestimmte Höchstgeschwindigkeit, deren Masse[^1-5] oder gewisse Merkmale des Motors gegebene Grenzen übersteigen. Nichts in dieser Begriffsbestimmung ist so auszulegen, als hindere es die Vertragsparteien, hinsichtlich der Anwendung ihrer innerstaatlichen Rechtsvorschriften für den Strassenverkehr, die Motorfahrräder völlig den Fahrrädern gleichzustellen;
-- n)[^1-6] «Kraftrad» ist jedes zweirädrige Fahrzeug mit oder ohne Beiwagen, das einen Antriebsmotor hat. Die Vertragsparteien können in ihren innerstaatlichen Rechtsvorschriften dreirädrige Fahrzeuge mit einer Leermasse von nicht mehr als 400 kg (900 Pfund) den Krafträdern gleichstellen. Der Begriff «Kraftrad» schliesst die Motorfahrräder nicht ein; die Vertragsparteien können jedoch unter der Bedingung, dass sie nach Artikel 54 Absatz 2 eine entsprechende Erklärung abgeben, für die Anwendung dieses Übereinkommens die Motorfahrräder den Krafträdern gleichstellen;
-- o) «Kraftfahrzeug»[^1-7] ist jedes auf der Strasse mit eigener Kraft verkehrende Fahrzeug mit Antriebsmotor mit Ausnahme der Motorfahrräder in dem Hoheitsgebiet der Vertragsparteien, die sie nicht den Krafträdern gleichgestellt haben, und mit Ausnahme der Schienenfahrzeuge;
-- p) «Kraftfahrzeuge»[^1-8] im Sinne dieses Buchstabens sind nur die Kraftfahrzeuge, die üblicherweise auf der Strasse zur Beförderung von Personen oder Gütern oder zum Ziehen von Fahrzeugen, die für die Personen‑ oder Güterbeförderung benutzt werden, dienen. Dieser Begriff schliesst die Oberleitungsomnibusse – das heisst die mit einer elektrischen Leitung verbundenen und nicht auf Schienen fahrenden Fahrzeuge – ein. Er umfasst nicht Fahrzeuge, die auf der Strasse nur gelegentlich zur Beförderung von Personen oder Gütern oder zum Ziehen von Fahrzeugen, die der Personen‑ oder Güterbeförderung dienen, benutzt werden, wie landwirtschaftliche Zugmaschinen;
+- m) «Motorfahrräder» sind zwei‑ oder dreirädrige Fahrzeuge mit einem Verbrennungsmotor, dessen Zylinderinhalt 50 cm<sup>3</sup> (3,05 Kubikzoll) und dessen durch die Bauart bestimmte Höchstgeschwindigkeit 50 km (30 Meilen) in der Stunde nicht übersteigt. Die Vertragsparteien haben jedoch das Recht, in ihren innerstaatlichen Rechtsvorschriften solche Fahrzeuge nicht als Motorfahrräder anzusehen, die nicht hinsichtlich ihrer Verwendungsmöglichkeiten die Merkmale von Fahrrädern haben – insbesondere das Merkmal, durch Pedale angetrieben werden zu können – oder deren durch die Bauart bestimmte Höchstgeschwindigkeit, deren Masse[^1-7] oder gewisse Merkmale des Motors gegebene Grenzen übersteigen. Nichts in dieser Begriffsbestimmung ist so auszulegen, als hindere es die Vertragsparteien, hinsichtlich der Anwendung ihrer innerstaatlichen Rechtsvorschriften für den Strassenverkehr, die Motorfahrräder völlig den Fahrrädern gleichzustellen;
+- n)[^1-8] «Kraftrad» ist jedes zweirädrige Fahrzeug mit oder ohne Beiwagen, das einen Antriebsmotor hat. Die Vertragsparteien können in ihren innerstaatlichen Rechtsvorschriften dreirädrige Fahrzeuge mit einer Leermasse von nicht mehr als 400 kg (900 Pfund) den Krafträdern gleichstellen. Der Begriff «Kraftrad» schliesst die Motorfahrräder nicht ein; die Vertragsparteien können jedoch unter der Bedingung, dass sie nach Artikel 54 Absatz 2 eine entsprechende Erklärung abgeben, für die Anwendung dieses Übereinkommens die Motorfahrräder den Krafträdern gleichstellen;
+- o) «Kraftfahrzeug»[^1-9] ist jedes auf der Strasse mit eigener Kraft verkehrende Fahrzeug mit Antriebsmotor mit Ausnahme der Motorfahrräder in dem Hoheitsgebiet der Vertragsparteien, die sie nicht den Krafträdern gleichgestellt haben, und mit Ausnahme der Schienenfahrzeuge;
+- p) «Kraftfahrzeuge»[^1-10] im Sinne dieses Buchstabens sind nur die Kraftfahrzeuge, die üblicherweise auf der Strasse zur Beförderung von Personen oder Gütern oder zum Ziehen von Fahrzeugen, die für die Personen‑ oder Güterbeförderung benutzt werden, dienen. Dieser Begriff schliesst die Oberleitungsomnibusse – das heisst die mit einer elektrischen Leitung verbundenen und nicht auf Schienen fahrenden Fahrzeuge – ein. Er umfasst nicht Fahrzeuge, die auf der Strasse nur gelegentlich zur Beförderung von Personen oder Gütern oder zum Ziehen von Fahrzeugen, die der Personen‑ oder Güterbeförderung dienen, benutzt werden, wie landwirtschaftliche Zugmaschinen;
 - q) «Anhänger» ist jedes Fahrzeug, das dazu bestimmt ist, an ein Kraftfahrzeug angehängt zu werden; dieser Begriff schliesst die Sattelanhänger ein;
 - r) «Sattelanhänger» ist jeder Anhänger, der dazu bestimmt ist, mit einem Kraftfahrzeug (Art. 1 Bst. p) so verbunden zu werden, dass er teilweise auf diesem aufliegt und dass ein wesentlicher Teil seiner Masse und der Masse seiner Ladung von diesem getragen wird;
 - s) «leichter Anhänger» ist jeder Anhänger, dessen höchste zulässige Gesamtmasse 750 kg (1650 Pfund) nicht übersteigt;
@@ -147,17 +149,19 @@ Im Sinne dieses Übereinkommens haben die nachstehenden Begriffe die ihnen in di
 - y) «Gesamtmasse» ist die tatsächliche Masse des beladenen Fahrzeugs einschliesslich der Besatzung und der Fahrgäste;
 - z) «Verkehrsrichtung» und «entsprechend der Verkehrsrichtung» bedeuten rechts, wenn nach den innerstaatlichen Rechtsvorschriften der Fahrzeugführer ein entgegenkommendes Fahrzeug links vorbeilassen muss; im umgekehrten Falle bedeuten diese Ausdrücke links;
 - aa) die Pflicht für den Fahrzeugführer, anderen Fahrzeugen «die Vorfahrt zu gewähren» bedeutet, dass er seine Fahrt oder seine Fahrbewegung nicht fortsetzen oder wiederaufnehmen darf, wenn dies andere Fahrzeugführer dazu zwingen könnte, die Richtung oder die Geschwindigkeit ihrer Fahrzeuge unvermittelt zu ändern.
-- ...[^1-9]
+- ...[^1-11]
 
-[^1-1]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 3).
-[^1-2]: Siehe für den eingefügten Bst. das Europäische Zusatzübereinkommen vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 3).
-[^1-3]: Eingefügt durch die am 28. März 2006 in Kraft getretene Änd. ([AS 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
-[^1-4]: Eingefügt durch die am 28. März 2006 in Kraft getretene Änd. ([AS 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
-[^1-5]: Wort gemäss der am 3. Sept. 1993 in Kraft getretenen Änd. ([AS 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)). Diese Änd. ist im ganzen Übereink. berücksichtigt.
-[^1-6]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 3).
-[^1-7]: Der Begriff «Kraftfahrzeug» wird in zwei verschiedenen Bedeutungen gebraucht. Wird er ohne Zusatz gebraucht, so hat er die ihm unter Bst. o zugeordnete Bedeutung. Wird er mit dem Zusatz «(Art. 1 Bst. p)» gebraucht, so hat er die ihm unter Bst. p zugeordnete Bedeutung.
-[^1-8]: Wort gemäss der am 3. Sept. 1993 in Kraft getretenen Änd. ([AS 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)). Diese Änd. ist im ganzen Übereink. berücksichtigt.
-[^1-9]: Siehe für den eingefügten Bst. das Europäische Zusatzübereinkommen vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 3).
+[^1-1]: Eingefügt durch die Änd. vom 14. Dez. 2020, in Kraft seit 14. Juli 2022 ([AS 2022 51](https://fedlex.data.admin.ch/eli/oc/2022/51)).
+[^1-2]: Eingefügt durch die Änd. vom 14. Dez. 2020, in Kraft seit 14. Juli 2022 ([AS 2022 51](https://fedlex.data.admin.ch/eli/oc/2022/51)).
+[^1-3]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 3).
+[^1-4]: Siehe für den eingefügten Bst. das Europäische Zusatzübereinkommen vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 3).
+[^1-5]: Eingefügt durch die am 28. März 2006 in Kraft getretene Änd. ([AS 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
+[^1-6]: Eingefügt durch die am 28. März 2006 in Kraft getretene Änd. ([AS 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
+[^1-7]: Wort gemäss der am 3. Sept. 1993 in Kraft getretenen Änd. ([AS 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)). Diese Änd. ist im ganzen Übereink. berücksichtigt.
+[^1-8]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 3).
+[^1-9]: Der Begriff «Kraftfahrzeug» wird in zwei verschiedenen Bedeutungen gebraucht. Wird er ohne Zusatz gebraucht, so hat er die ihm unter Bst. o zugeordnete Bedeutung. Wird er mit dem Zusatz «(Art. 1 Bst. p)» gebraucht, so hat er die ihm unter Bst. p zugeordnete Bedeutung.
+[^1-10]: Wort gemäss der am 3. Sept. 1993 in Kraft getretenen Änd. ([AS 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)). Diese Änd. ist im ganzen Übereink. berücksichtigt.
+[^1-11]: Siehe für den eingefügten Bst. das Europäische Zusatzübereinkommen vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 3).
 
 #### Art. 2
 
@@ -904,6 +908,19 @@ Die Verwendung von andersfarbigen Warnleuchten kann von den innerstaatlichen Rec
 
 [^34-1]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 26).
 
+#### Art. 34<sup>bis</sup>
+
+**Automatisiertes Fahren**[^34bis-1]
+
+Die Wirkung dieses Artikels ist auf das Hoheitsgebiet der Vertragspartei begrenzt, in dem die entsprechenden innerstaatlichen technischen Regelungen und Rechtsvorschriften über den Betrieb gelten.
+
+Die Pflicht, dass jedes Fahrzeug und miteinander verbundene Fahrzeuge einen Führer haben müssen, wenn sie in Bewegung sind, gilt während der Verwendung eines Systems für automatisiertes Fahren als erfüllt, sofern das System vereinbar ist mit:
+
+- a) innerstaatlichen technischen Regelungen und sonstigen geltenden internationalen Rechtsinstrumenten für Radfahrzeuge, Ausrüstungsgegenstände und Teile, die in Radfahrzeuge(n) eingebaut und/oder verwendet werden können; und
+- b) innerstaatlichen Rechtsvorschriften über den Betrieb.
+
+[^34bis-1]: Eingefügt durch die Änd. vom 14. Dez. 2020, in Kraft seit 14. Juli 2022 ([AS 2022 51](https://fedlex.data.admin.ch/eli/oc/2022/51)).
+
 ## Kapitel III Bedingungen für die Zulassung der Kraftfahrzeuge (Artikel 1 Buchstabe p) und Anhänger zum internationalen Verkehr
 
 #### Art. 35
@@ -1485,7 +1502,7 @@ Das gilt jedoch nicht für Scheinwerfer für Fern‑ oder für Abblendlicht, wen
 
 \42. Keine Beleuchtungseinrichtung, ausgenommen Blinkleuchten und Warnleuchten, darf ein Blink‑ oder Rundumlicht ausstrahlen. Die Seitenbegrenzungsleuchten können zusammen mit den Begrenzungsleuchten aufblinken.
 
-42<sup>bis</sup>. Die Warnleuchten müssen ein Blink‑ oder Rundumlicht ausstrahlen; die Farbe des ausgestrahlten Lichts muss den Bestimmungen nach Artikel 32 Absatz 14 genügen.
+42<sup>bi</sup><sup>s</sup>. Die Warnleuchten müssen ein Blink‑ oder Rundumlicht ausstrahlen; die Farbe des ausgestrahlten Lichts muss den Bestimmungen nach Artikel 32 Absatz 14 genügen.
 
 42<sup>ter</sup>. Jedes Kraftfahrzeug, ausgenommen Krafträder, und jeder Anhänger muss eine Warnblinkanlage haben.
 
@@ -1701,13 +1718,13 @@ Anhang 6*[^t-6]*
 
 <table>
 <tr><td colspan="2">Code der Fahrzeugklasse / Piktogramm</td><td colspan="2">Code der Unterklasse / Piktogramm</td></tr>
-<tr><td>A</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20200519/de/xml/image/image1.png)</td><td>A1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20200519/de/xml/image/image2.png)</td></tr>
-<tr><td>B</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20200519/de/xml/image/image3.png)</td><td>B1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20200519/de/xml/image/image4.png)</td></tr>
-<tr><td>C</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20200519/de/xml/image/image5.png)</td><td>C1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20200519/de/xml/image/image6.png)</td></tr>
-<tr><td>D</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20200519/de/xml/image/image7.png)</td><td>D1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20200519/de/xml/image/image8.png)</td></tr>
-<tr><td>BE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20200519/de/xml/image/image9.png)</td><td></td><td></td></tr>
-<tr><td>CE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20200519/de/xml/image/image10.png)</td><td>C1E</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20200519/de/xml/image/image11.png)</td></tr>
-<tr><td>DE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20200519/de/xml/image/image12.png)</td><td>D1E</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20200519/de/xml/image/image13.png)</td></tr>
+<tr><td>A</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/de/xml/image/image1.png)</td><td>A1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/de/xml/image/image2.png)</td></tr>
+<tr><td>B</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/de/xml/image/image3.png)</td><td>B1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/de/xml/image/image4.png)</td></tr>
+<tr><td>C</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/de/xml/image/image5.png)</td><td>C1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/de/xml/image/image6.png)</td></tr>
+<tr><td>D</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/de/xml/image/image7.png)</td><td>D1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/de/xml/image/image8.png)</td></tr>
+<tr><td>BE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/de/xml/image/image9.png)</td><td></td><td></td></tr>
+<tr><td>CE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/de/xml/image/image10.png)</td><td>C1E</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/de/xml/image/image11.png)</td></tr>
+<tr><td>DE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/de/xml/image/image12.png)</td><td>D1E</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/de/xml/image/image13.png)</td></tr>
 </table>
 
 [^annex6-lvlu1-1]: Der Geburtsort kann durch andere, nach nationaler Gesetzgebung bestimmte Eintragungen ersetzt werden.
@@ -1777,13 +1794,13 @@ Anhang 7*[^t-7]*
 <tr><td></td><td colspan="2">Ordentlicher Wohnsitz<sup>2)</sup></td><td colspan="3"></td><td>5.</td><td colspan="2"></td></tr>
 <tr><td></td><td colspan="6">FAHRZEUGKLASSEN UND UNTERKLASSEN, FÜR DIE DER FÜHRERSCHEIN GILT, MIT DEN ENTSPRECHENDEN BEZEICHNUNGEN</td><td colspan="2"></td></tr>
 <tr><td></td><td colspan="3">**Bezeichnung der Fahrzeu****g****- klasse / Piktogramm**</td><td colspan="3">**Bezeichnung der Unte****r****klasse / Pikt****o****gramm**</td><td colspan="2"></td></tr>
-<tr><td></td><td>**A**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20200519/de/xml/image/image1.png)</td><td>**A1**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20200519/de/xml/image/image2.png)</td><td></td></tr>
-<tr><td></td><td>**B**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20200519/de/xml/image/image3.png)</td><td>**B1**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20200519/de/xml/image/image4.png)</td><td></td></tr>
-<tr><td></td><td>**C**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20200519/de/xml/image/image5.png)</td><td>**C1**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20200519/de/xml/image/image6.png)</td><td></td></tr>
-<tr><td></td><td>**D**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20200519/de/xml/image/image7.png)</td><td>**D1**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20200519/de/xml/image/image8.png)</td><td></td></tr>
-<tr><td></td><td>**BE**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20200519/de/xml/image/image9.png)</td><td></td><td colspan="2"></td><td></td></tr>
-<tr><td></td><td>**CE**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20200519/de/xml/image/image10.png)</td><td>**C1E**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20200519/de/xml/image/image11.png)</td><td></td></tr>
-<tr><td></td><td>**DE**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20200519/de/xml/image/image12.png)</td><td>**D1E**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20200519/de/xml/image/image13.png)</td><td></td></tr>
+<tr><td></td><td>**A**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/de/xml/image/image1.png)</td><td>**A1**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/de/xml/image/image2.png)</td><td></td></tr>
+<tr><td></td><td>**B**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/de/xml/image/image3.png)</td><td>**B1**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/de/xml/image/image4.png)</td><td></td></tr>
+<tr><td></td><td>**C**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/de/xml/image/image5.png)</td><td>**C1**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/de/xml/image/image6.png)</td><td></td></tr>
+<tr><td></td><td>**D**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/de/xml/image/image7.png)</td><td>**D1**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/de/xml/image/image8.png)</td><td></td></tr>
+<tr><td></td><td>**BE**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/de/xml/image/image9.png)</td><td></td><td colspan="2"></td><td></td></tr>
+<tr><td></td><td>**CE**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/de/xml/image/image10.png)</td><td>**C1E**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/de/xml/image/image11.png)</td><td></td></tr>
+<tr><td></td><td>**DE**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/de/xml/image/image12.png)</td><td>**D1E**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/de/xml/image/image13.png)</td><td></td></tr>
 <tr><td></td><td colspan="6">EINSCHRÄNKENDE AUFLAGEN<sup>3)</sup></td><td colspan="2"></td></tr>
 </table>
 
@@ -1911,7 +1928,7 @@ Geltungsbereich am 19. Mai 2020**[^t-8]**
 <tr><td colspan="5">\* Vorbehalte und Erklärungen. (Die Erklärungen aller Vertragsstaaten über das gewählte Unterscheidungszeichen der Fahrzeuge im internationalen Verkehr, gemäss Artikel 45 Absatz 4 sind im oben erwähnten Geltungsbereich nicht mit \* aufgeführt). Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden. a Das Übereink. findet keine Anwendung auf die Föröer und Grönland. <sup>b</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-8]: [AS 1993 402](https://fedlex.data.admin.ch/eli/oc/1993/402_402_402), [2004 4111](https://fedlex.data.admin.ch/eli/oc/2004/602), [2006 1881](https://fedlex.data.admin.ch/eli/oc/2006/293), [2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444), [2013 715](https://fedlex.data.admin.ch/eli/oc/2013/140), [2016 553](https://fedlex.data.admin.ch/eli/oc/2016/104), [2018 3031](https://fedlex.data.admin.ch/eli/oc/2018/475), [2019 2251](https://fedlex.data.admin.ch/eli/oc/2019/423), [2020 1871](https://fedlex.data.admin.ch/eli/oc/2020/384). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-8]: [AS 1993 402](https://fedlex.data.admin.ch/eli/oc/1993/402_402_402), [2004 4111](https://fedlex.data.admin.ch/eli/oc/2004/602), [2006 1881](https://fedlex.data.admin.ch/eli/oc/2006/293), [2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444), [2013 715](https://fedlex.data.admin.ch/eli/oc/2013/140), [2016 553](https://fedlex.data.admin.ch/eli/oc/2016/104), [2018 3031](https://fedlex.data.admin.ch/eli/oc/2018/475), [2019 2251](https://fedlex.data.admin.ch/eli/oc/2019/423), [2020 1871](https://fedlex.data.admin.ch/eli/oc/2020/384). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: www.fedlex.admin.ch/de/treaty.
 
 Vorbehalte und Erklärungen
 

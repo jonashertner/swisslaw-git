@@ -3,11 +3,11 @@ sr: "0.741.10"
 title: Convention du 8 novembre 1968 sur la circulation routière (avec annexes)
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/402_402_402"
 language: fr
-version: 2020-05-19
+version: 2022-07-14
 adopted: 1968-11-08
 in_force: 1992-12-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20200519/fr/xml/fedlex-data-admin-ch-eli-cc-1993-402_402_402-20200519-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/402_402_402/20200519/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/fr/xml/fedlex-data-admin-ch-eli-cc-1993-402_402_402-20220714-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/402_402_402/20220714/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 11 décembre 1991
 
 Entrée en vigueur pour la Suisse le 11 décembre 1992
 
-(Etat le 19 mai 2020)
+(Etat le 14 juillet 2022)
 
 [^t-1]: Art. 1 al. 1 let. a de l’AF du 15 déc. 1978 ([RO 1993 400](https://fedlex.data.admin.ch/eli/oc/1993/400_400_400)).
 
@@ -45,6 +45,8 @@ sont convenues des dispositions suivantes:
 Pour l’application des dispositions de la présente Convention, les termes ci-après auront le sens qui leur est donné dans le présent article:
 
 - a) le terme «législation nationale» d’une Partie contractante désigne l’ensemble des lois et règlements nationaux ou locaux en vigueur sur le territoire de cette Partie contractante;
+- ab)[^1-1] le terme «système de conduite automatisé» désigne un dispositif associant des éléments matériels et logiciels permettant d’assurer le contrôle dynamique d’un véhicule de façon ininterrompue;
+- ac)[^1-2] le terme «contrôle dynamique» désigne l’exécution de toutes les fonctions opérationnelles et tactiques en temps réel nécessaires au déplacement du véhicule. Il s’agit notamment du contrôle du déplacement latéral et longitudinal du véhicule, de la surveillance de la route, des réactions aux événements survenant dans la circulation routière, ainsi que de la préparation et du signalement des manœuvres;
 - b)
 
   un véhicule est dit en «circulation internationale» sur le territoire d’un état lorsque:
@@ -55,14 +57,14 @@ Pour l’application des dispositions de la présente Convention, les termes ci-
 
 - toute Partie contractante restant libre, toutefois, de refuser de considérer comme étant en «circulation internationale» tout véhicule qui serait resté sur son territoire pendant plus d’un an sans une interruption importante, dont cette Partie contractante peut fixer la durée.
 - Un ensemble de véhicules est dit en «circulation internationale» si l’un au moins des véhicules qui le composent répond à la définition.
-- c)[^1-1] le terme «agglomération» désigne un espace qui comprend des immeubles bâtis et dont les entrées et les sorties sont spécialement désignées comme telles, ou qui est défini de quelque autre manière dans la législation nationale;
-- [tab] ...[^1-2]
+- c)[^1-3] le terme «agglomération» désigne un espace qui comprend des immeubles bâtis et dont les entrées et les sorties sont spécialement désignées comme telles, ou qui est défini de quelque autre manière dans la législation nationale;
+- [tab] ...[^1-4]
 - d) le terme «route» désigne toute l’emprise de tout chemin ou rue ouvert à la circulation publique;
 - e) le terme «chaussée» désigne la partie de la route normalement utilisée pour la circulation des véhicules; une route peut comporter plusieurs chaussées nettement séparées l’une de l’autre, notamment par un terre-plein central ou une différence de niveau;
 - f) sur les chaussées où une voie latérale ou une piste ou des voies latérales ou des pistes sont réservées à la circulation de certains véhicules, le terme «bord de la chaussée» désigne, pour les autres usagers de la route, le bord du reste de la chaussée;
 - g) le terme «voie» désigne l’une quelconque des bandes longitudinales, matérialisées ou non par des marques routières longitudinales, mais ayant une largeur suffisante pour permettre l’écoulement d’une file d’automobiles autres que des motocycles, en lesquelles peut être subdivisée la chaussée;
-- g<sup>bis</sup>)[^1-3] Le terme «voie cyclable» désigne la partie d’une chaussée conçue pour les cycles. Une voie cyclable est séparée du reste de la chaussée par des marques routières longitudinales;
-- g<sup>ter</sup>)[^1-4] le terme «piste cyclable» désigne une route indépendante ou la partie d’une route destinée aux cyclistes et indiquée comme telle par des signaux. Une piste cyclable est séparée des autres routes ou des autres parties de la même route par des aménagements matériels;
+- g<sup>bis</sup>)[^1-5] Le terme «voie cyclable» désigne la partie d’une chaussée conçue pour les cycles. Une voie cyclable est séparée du reste de la chaussée par des marques routières longitudinales;
+- g<sup>ter</sup>)[^1-6] le terme «piste cyclable» désigne une route indépendante ou la partie d’une route destinée aux cyclistes et indiquée comme telle par des signaux. Une piste cyclable est séparée des autres routes ou des autres parties de la même route par des aménagements matériels;
 - h) le terme «intersection» désigne toute croisée à niveau, jonction ou bifurcation de routes, y compris les places formées par de telles croisées, jonctions ou bifurcations;
 - i) le terme «passage à niveau» désigne tout croisement à niveau d’une route et d’une voie de chemin de fer ou de tramway à plate-forme indépendante;
 - j)
@@ -82,8 +84,8 @@ Pour l’application des dispositions de la présente Convention, les termes ci-
 
 - Les Parties contractantes pourront, toutefois, considérer comme «à l’arrêt» les véhicules immobilisés dans les conditions définies à l’alinéa ii) ci-dessus si la durée de l’immobilisation n’excède pas une limite de temps fixée par la législation nationale et considérer comme «en stationnement» les véhicules immobilisés dans les conditions définies à l’alinéa i) ci-dessus si la durée de l’immobilisation excède une limite de temps fixée par la législation nationale.
 - l) le terme «cycle» désigne tout véhicule qui a deux roues au moins et qui est propulsé exclusivement par l’énergie musculaire des personnes se trouvant sur ce véhicule, notamment à l’aide de pédales ou de manivelles;
-- m) le terme «cyclomoteur» désigne tout véhicule à deux ou trois roues qui est pourvu d’un moteur thermique de propulsion de cylindrée au plus égale à 50 cm<sup>3</sup> (3,05 pouces cubes) et dont la limite de vitesse, par construction, n’excède pas 50 km (30 miles) à l’heure. Les Parties contractantes peuvent, toutefois, ne pas considérer comme cyclomoteurs, au regard de leur législation nationale, les engins qui n’ont pas les caractéristiques des cycles quant à leurs possibilités d’emploi, notamment la caractéristique de pouvoir être mus par des pédales, ou dont la vitesse maximale, par construction, la masse[^1-5] ou certaines caractéristiques du moteur excèdent des limites données. Rien dans la présente définition ne saurait être interprété comme empêchant les Parties contractantes d’assimiler complètement les cyclomoteurs aux cycles pour l’application des prescriptions de leur législation nationale sur la circulation routière;
-- n)[^1-6] le terme «motocycle» désigne tout véhicule à deux roues, avec ou sans side-car, pourvu d’un moteur de propulsion. Les Parties contractantes peuvent, dans leur législation nationale, assimiler aux motocycles les véhicules à trois roues dont la masse à vide n’excède pas 400 kg (900 livres). Le terme «motocycle» n’englobe pas les cyclomoteurs; toutefois, les Parties contractantes peuvent, à condition de faire une déclaration à cet effet, conformément au paragraphe 2 de l’article 54 de la présente Convention, assimiler les cyclomoteurs aux motocycles pour l’application de la Convention;
+- m) le terme «cyclomoteur» désigne tout véhicule à deux ou trois roues qui est pourvu d’un moteur thermique de propulsion de cylindrée au plus égale à 50 cm<sup>3</sup> (3,05 pouces cubes) et dont la limite de vitesse, par construction, n’excède pas 50 km (30 miles) à l’heure. Les Parties contractantes peuvent, toutefois, ne pas considérer comme cyclomoteurs, au regard de leur législation nationale, les engins qui n’ont pas les caractéristiques des cycles quant à leurs possibilités d’emploi, notamment la caractéristique de pouvoir être mus par des pédales, ou dont la vitesse maximale, par construction, la masse[^1-7] ou certaines caractéristiques du moteur excèdent des limites données. Rien dans la présente définition ne saurait être interprété comme empêchant les Parties contractantes d’assimiler complètement les cyclomoteurs aux cycles pour l’application des prescriptions de leur législation nationale sur la circulation routière;
+- n)[^1-8] le terme «motocycle» désigne tout véhicule à deux roues, avec ou sans side-car, pourvu d’un moteur de propulsion. Les Parties contractantes peuvent, dans leur législation nationale, assimiler aux motocycles les véhicules à trois roues dont la masse à vide n’excède pas 400 kg (900 livres). Le terme «motocycle» n’englobe pas les cyclomoteurs; toutefois, les Parties contractantes peuvent, à condition de faire une déclaration à cet effet, conformément au paragraphe 2 de l’article 54 de la présente Convention, assimiler les cyclomoteurs aux motocycles pour l’application de la Convention;
 - o) le terme «véhicule à moteur» désigne, à l’exception des cyclomoteurs sur le territoire des Parties contractantes qui ne les ont pas assimilés aux motocycles et à l’exception des véhicules qui se déplacent sur rails, tout véhicule pourvu d’un moteur de propulsion et circulant sur route par ses moyens propres;
 - p) le terme «automobile» désigne ceux des véhicules à moteur qui servent normalement au transport sur route de personnes ou de choses ou à la traction sur route de véhicules utilisés pour le transport de personnes ou de choses. Ce terme englobe les trolleybus, c’est-à-dire les véhicules reliés à une ligne électrique et ne circulant pas sur rails. Il n’englobe pas les véhicules, tels que les tracteurs agricoles, dont l’utilisation pour le transport sur route de personnes ou de choses ou la traction sur route de véhicules utilisés pour le transport de personnes ou de choses n’est qu’accessoire;
 - q) le terme «remorque» désigne tout véhicule destiné à être attelé à un véhicule à moteur; ce terme englobe les semi-remorques;
@@ -97,15 +99,17 @@ Pour l’application des dispositions de la présente Convention, les termes ci-
 - y) le terme «masse en charge» désigne la masse effective du véhicule tel qu’il est chargé, l’équipage et les passagers restant à bord;
 - z) les termes «sens de la circulation» et «correspondant au sens de la circulation» désignent la droite lorsque, d’après la législation nationale, le conducteur d’un véhicule doit croiser un autre véhicule en laissant ce véhicule à sa gauche; ils désignent la gauche dans le cas contraire;
 - aa) l’obligation pour le conducteur d’un véhicule de «céder le passage» à d’autres véhicules signifie que ce conducteur ne doit pas continuer sa marche ou sa manoeuvre ou la reprendre si cela risque d’obliger les conducteurs d’autres véhicules à modifier brusquement la direction ou la vitesse de leurs véhicules.
-- [tab] ...[^1-7]
+- [tab] ...[^1-9]
 
-[^1-1]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 3).
-[^1-2]: Pour l’al. introduit, voir l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 3).
-[^1-3]: Introduit par les Am. du 28 sept. 2004, en vigueur depuis le 28 mars 2006 ([RO 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
-[^1-4]: Introduit par les Am. du 28 sept. 2004, en vigueur depuis le 28 mars 2006 ([RO 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
-[^1-5]: Nouveau terme selon les Am. en vigueur depuis le 3 sept. 1993 ([RO 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)). Il a été tenu compte de cette mod. dans tout le texte.
-[^1-6]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 3).
-[^1-7]: Pour l’al. introduit, voir l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 3).
+[^1-1]: Introduite par les Am. du 14 déc. 2020, en vigueur depuis le 14 juil. 2022 ([RO 2022 51](https://fedlex.data.admin.ch/eli/oc/2022/51)).
+[^1-2]: Introduite par les Am. du 14 déc. 2020, en vigueur depuis le 14 juil. 2022 ([RO 2022 51](https://fedlex.data.admin.ch/eli/oc/2022/51)).
+[^1-3]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 3).
+[^1-4]: Pour l’al. introduit, voir l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 3).
+[^1-5]: Introduite par les Am. du 28 sept. 2004, en vigueur depuis le 28 mars 2006 ([RO 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
+[^1-6]: Introduite par les Am. du 28 sept. 2004, en vigueur depuis le 28 mars 2006 ([RO 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
+[^1-7]: Nouveau terme selon les Am. en vigueur depuis le 3 sept. 1993 ([RO 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)). Il a été tenu compte de cette mod. dans tout le texte.
+[^1-8]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 3).
+[^1-9]: Pour l’al. introduit, voir l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 3).
 
 #### Art. 2
 
@@ -897,6 +901,19 @@ Les feux spéciaux d’avertissement:
 <sup>4.</sup> Pour dépasser ou croiser les engins visés au paragraphe 3 du présent article pendant qu’ils participent aux travaux sur la route, les conducteurs des autres véhicules peuvent, dans la mesure nécessaire et à condition de prendre toutes précautions utiles, ne pas observer les dispositions des articles 11 et 12 de la présente Convention.
 
 [^34-1]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 26).
+
+#### Art. 34<sup>bis</sup>
+
+**Conduite automatisée**[^34bis-1]
+
+Le champ d’application du présent article est limité au territoire de la Partie contractante où s’appliquent la réglementation technique nationale et la législation nationale régissant le fonctionnement du véhicule.
+
+L’exigence selon laquelle tout véhicule ou tout ensemble de véhicules en mouvement doit avoir un conducteur est réputée satisfaite lorsque le véhicule utilise un système de conduite automatisé qui est conforme:
+
+- a) à la réglementation technique nationale, et à tout instrument juridique international applicable, concernant les véhicules à roues et les équipements et pièces susceptibles d’être montés et/ou utilisés sur un véhicule à roues;
+- b) à la législation nationale régissant le fonctionnement du véhicule.
+
+[^34bis-1]: Introduit par les Am. du 14 déc. 2020, en vigueur depuis le 14 juil. 2022 ([RO 2022 51](https://fedlex.data.admin.ch/eli/oc/2022/51)).
 
 ## Chapitre III Conditions à remplir par les automobiles et les remorques pour être admises en circulation internationale
 
@@ -1701,13 +1718,13 @@ Annexe 6*[^t-6]*
 
 <table>
 <tr><td colspan="2">Code de la catégorie / Pictogramme</td><td colspan="2">Code de la sous-catégorie / Pictogramme</td></tr>
-<tr><td>A</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20200519/fr/xml/image/image1.png)</td><td>A1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20200519/fr/xml/image/image2.png)</td></tr>
-<tr><td>B</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20200519/fr/xml/image/image3.png)</td><td>B1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20200519/fr/xml/image/image4.png)</td></tr>
-<tr><td>C</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20200519/fr/xml/image/image5.png)</td><td>C1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20200519/fr/xml/image/image6.png)</td></tr>
-<tr><td>D</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20200519/fr/xml/image/image7.png)</td><td>D1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20200519/fr/xml/image/image8.png)</td></tr>
-<tr><td>BE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20200519/fr/xml/image/image9.png)</td><td></td><td></td></tr>
-<tr><td>CE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20200519/fr/xml/image/image10.png)</td><td>C1E</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20200519/fr/xml/image/image11.png)</td></tr>
-<tr><td>DE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20200519/fr/xml/image/image12.png)</td><td>D1E</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20200519/fr/xml/image/image13.png)</td></tr>
+<tr><td>A</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/fr/xml/image/image1.png)</td><td>A1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/fr/xml/image/image2.png)</td></tr>
+<tr><td>B</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/fr/xml/image/image3.png)</td><td>B1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/fr/xml/image/image4.png)</td></tr>
+<tr><td>C</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/fr/xml/image/image5.png)</td><td>C1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/fr/xml/image/image6.png)</td></tr>
+<tr><td>D</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/fr/xml/image/image7.png)</td><td>D1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/fr/xml/image/image8.png)</td></tr>
+<tr><td>BE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/fr/xml/image/image9.png)</td><td></td><td></td></tr>
+<tr><td>CE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/fr/xml/image/image10.png)</td><td>C1E</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/fr/xml/image/image11.png)</td></tr>
+<tr><td>DE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/fr/xml/image/image12.png)</td><td>D1E</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/fr/xml/image/image13.png)</td></tr>
 </table>
 
 [^annex6-lvlu1-1]: Le lieu de naissance peut être remplacé par d’autres précisions définies par la législation nationale.
@@ -1754,15 +1771,15 @@ Annexe 7*[^t-7]*
 
 (Verso du premier feuillet de la couverture)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20200519/fr/xml/image/image14.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/fr/xml/image/image14.png)
 
 **Modèle 3** (page de gauche)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20200519/fr/xml/image/image15.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/fr/xml/image/image15.png)
 
 Modèle 3 (page de droite)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20200519/fr/xml/image/image16.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/fr/xml/image/image16.png)
 
 Champ d’application le 19 mai 2020**[^t-8]**
 
@@ -1837,7 +1854,7 @@ Champ d’application le 19 mai 2020**[^t-8]**
 <tr><td>Gibraltar\*</td><td colspan="2">26 février</td><td>2019</td><td>31 mars</td><td colspan="2">2019</td></tr>
 <tr><td>Guernesey\*</td><td colspan="2">26 février</td><td>2019</td><td>31 mars</td><td colspan="2">2019</td></tr>
 <tr><td>Jersey\*</td><td colspan="2">26 février</td><td>2019</td><td>31 mars</td><td colspan="2">2019</td></tr>
-<tr><td>Russie</td><td colspan="2">7 juin</td><td>1974</td><td>21 mai</td><td colspan="2">1977</td></tr>
+<tr><td>Russie\*</td><td colspan="2">7 juin</td><td>1974</td><td>21 mai</td><td colspan="2">1977</td></tr>
 <tr><td>Saint-Marin</td><td colspan="2">20 juillet</td><td>1970</td><td>21 mai</td><td colspan="2">1977</td></tr>
 <tr><td>Sénégal</td><td colspan="2">16 août</td><td>1972 A</td><td>21 mai</td><td colspan="2">1977</td></tr>
 <tr><td>Serbie</td><td colspan="2">12 mars</td><td>2001 S</td><td>27 avril</td><td colspan="2">1992</td></tr>
@@ -1860,7 +1877,7 @@ Champ d’application le 19 mai 2020**[^t-8]**
 <tr><td colspan="7"><sup>b</sup> Pour le Royaume en Europe.</td></tr>
 </table>
 
-[^t-8]: [RO 1993 402](https://fedlex.data.admin.ch/eli/oc/1993/402_402_402), [2004 4111](https://fedlex.data.admin.ch/eli/oc/2004/602), [2006 1881](https://fedlex.data.admin.ch/eli/oc/2006/293), [2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444), [2013 715](https://fedlex.data.admin.ch/eli/oc/2013/140), [2016 553](https://fedlex.data.admin.ch/eli/oc/2016/104), [2018 3031](https://fedlex.data.admin.ch/eli/oc/2018/475), [2019 2251](https://fedlex.data.admin.ch/eli/oc/2019/423), [2020 1871](https://fedlex.data.admin.ch/eli/oc/2020/384). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-8]: [RO 1993 402](https://fedlex.data.admin.ch/eli/oc/1993/402_402_402); [2004 4111](https://fedlex.data.admin.ch/eli/oc/2004/602); [2006 1881](https://fedlex.data.admin.ch/eli/oc/2006/293); [2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444); [2013 715](https://fedlex.data.admin.ch/eli/oc/2013/140); [2016 553](https://fedlex.data.admin.ch/eli/oc/2016/104); [2018 3031](https://fedlex.data.admin.ch/eli/oc/2018/475); [2019 2251](https://fedlex.data.admin.ch/eli/oc/2019/423); [2020 1871](https://fedlex.data.admin.ch/eli/oc/2020/384). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: www.fedlex.admin.ch/fr/treaty
 
 Réserves et déclarations
 
@@ -1929,4 +1946,4 @@ Signe distinctif des véhicules en circulation internationale**[^t-11]**
 <tr><td>Maroc</td><td>MA</td><td>Zimbabwe</td><td>ZW</td></tr>
 </table>
 
-[^t-11]: RO **2007** 3615, [2013 715](https://fedlex.data.admin.ch/eli/oc/2013/140), [2016 553](https://fedlex.data.admin.ch/eli/oc/2016/104), [2018 3031](https://fedlex.data.admin.ch/eli/oc/2018/475), [2019 2251](https://fedlex.data.admin.ch/eli/oc/2019/423).
+[^t-11]: RO **2007** 3615; [2013 715](https://fedlex.data.admin.ch/eli/oc/2013/140); [2016 553](https://fedlex.data.admin.ch/eli/oc/2016/104); [2018 3031](https://fedlex.data.admin.ch/eli/oc/2018/475); [2019 2251](https://fedlex.data.admin.ch/eli/oc/2019/423).
