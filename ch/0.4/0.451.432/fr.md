@@ -3,11 +3,11 @@ sr: "0.451.432"
 title: "Protocole de Nagoya du 29 octobre 2010 sur l'accès aux ressources génétiques et le partage juste et équitable des avantages découlant de leur utilisation relatif à la Convention sur la diversité biologique (avec annexe)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/532"
 language: fr
-version: 2022-01-31
+version: 2022-07-14
 adopted: 2010-10-29
 in_force: 2014-10-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/532/20220131/fr/xml/fedlex-data-admin-ch-eli-cc-2014-532-20220131-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/532/20220131/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/532/20220714/fr/xml/fedlex-data-admin-ch-eli-cc-2014-532-20220714-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/532/20220714/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 11 juillet 2014
 
 Entré en vigueur pour la Suisse le 12 octobre 2014
 
-(Etat le 31 janvier 2022)
+(Etat le 14 juillet 2022)
 
 [^t-1]: [RO 2014 2629](https://fedlex.data.admin.ch/eli/oc/2014/467)
 
@@ -538,7 +538,7 @@ Aucune réserve ne peut être faite au présent Protocole.
 
 **Dénonciation**
 
-<sup>1.</sup> A l’expiration d’un délai de deux ans à compter de la date d’entrée en vigueur du présent Protocole à l’égard d’une Partie, cette Partie peut dénoncer le présent Protocole par notification écrite au Dépositaire.
+<sup>1.</sup> À l’expiration d’un délai de deux ans à compter de la date d’entrée en vigueur du présent Protocole à l’égard d’une Partie, cette Partie peut dénoncer le présent Protocole par notification écrite au Dépositaire.
 
 <sup>2.</sup> Cette dénonciation prend effet à l’expiration d’un délai d’un an à compter de la date de sa réception par le Dépositaire, ou à toute date ultérieure qui pourra être spécifiée dans ladite notification.
 
@@ -587,7 +587,7 @@ Annexe
 - p) reconnaissance sociale;
 - q) copropriété et droits de propriété intellectuelle pertinents.
 
-Champ d’application le 31 janvier 2022**[^t-2]**
+Champ d’application le 14 juillet 2022**[^t-2]**
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -601,6 +601,7 @@ Champ d’application le 31 janvier 2022**[^t-2]**
 <tr><td>Argentine\*</td><td>9 décembre</td><td>2016</td><td>9 mars</td><td>2017</td></tr>
 <tr><td>Autriche</td><td>20 juillet</td><td>2018</td><td>18 octobre</td><td>2018</td></tr>
 <tr><td>Bahamas</td><td>30 décembre</td><td>2021 A</td><td>30 mars</td><td>2022</td></tr>
+<tr><td>Bahreïn</td><td>22 février</td><td>2022 A</td><td>23 mai</td><td>2022</td></tr>
 <tr><td>Bélarus</td><td>26 juin</td><td>2014 A</td><td>12 octobre</td><td>2014</td></tr>
 <tr><td>Belgique\*</td><td>9 août</td><td>2016</td><td>7 novembre</td><td>2016</td></tr>
 <tr><td>Bénin</td><td>22 janvier</td><td>2014</td><td>12 octobre</td><td>2014</td></tr>
@@ -666,6 +667,7 @@ Champ d’application le 31 janvier 2022**[^t-2]**
 <tr><td>Malawi</td><td>26 août</td><td>2014 A</td><td>24 novembre</td><td>2014</td></tr>
 <tr><td>Maldives</td><td>1<sup>er</sup> juillet</td><td>2019 A</td><td>29 septembre</td><td>2019</td></tr>
 <tr><td>Malte</td><td>1<sup>er</sup> décembre</td><td>2016 A</td><td>1<sup>er</sup> mars</td><td>2017</td></tr>
+<tr><td>Maroc</td><td>22 avril</td><td>2022</td><td>21 juillet</td><td>2022</td></tr>
 <tr><td>Maurice</td><td>17 décembre</td><td>2012 A</td><td>12 octobre</td><td>2014</td></tr>
 <tr><td>Mauritanie</td><td>18 août</td><td>2015</td><td>16 novembre</td><td>2015</td></tr>
 <tr><td>Mexique</td><td>16 mai</td><td>2012</td><td>12 octobre</td><td>2014</td></tr>
@@ -679,6 +681,7 @@ Champ d’application le 31 janvier 2022**[^t-2]**
 <tr><td>Népal</td><td>28 décembre</td><td>2018 A</td><td>28 mars</td><td>2019</td></tr>
 <tr><td>Nicaragua</td><td>12 juin</td><td>2020 A</td><td>10 septembre</td><td>2020</td></tr>
 <tr><td>Niger</td><td>2 juillet</td><td>2014</td><td>12 octobre</td><td>2014</td></tr>
+<tr><td>Nigéria</td><td>29 juin</td><td>2022</td><td>27 septembre</td><td>2022</td></tr>
 <tr><td>Norvège</td><td>1<sup>er</sup> octobre</td><td>2013</td><td>12 octobre</td><td>2014</td></tr>
 <tr><td>Oman</td><td>23 juin</td><td>2020 A</td><td>21 septembre</td><td>2020</td></tr>
 <tr><td>Ouganda</td><td>25 juin</td><td>2014 A</td><td>12 octobre</td><td>2014</td></tr>
@@ -698,6 +701,7 @@ Champ d’application le 31 janvier 2022**[^t-2]**
 <tr><td>Royaume-Uni</td><td>22 février</td><td>2016</td><td>22 mai</td><td>2016</td></tr>
 <tr><td>Rwanda</td><td>20 mars</td><td>2012</td><td>12 octobre</td><td>2014</td></tr>
 <tr><td>Saint-Kitts-et-Nevis</td><td>5 septembre</td><td>2018 A</td><td>4 décembre</td><td>2018</td></tr>
+<tr><td>Sainte-Lucie</td><td>14 mars</td><td>2022 A</td><td>12 juin</td><td>2022</td></tr>
 <tr><td>Samoa</td><td>20 mai</td><td>2014 A</td><td>12 octobre</td><td>2014</td></tr>
 <tr><td>Sao Tomé-et-Principe</td><td>10 janvier</td><td>2017 A</td><td>10 avril</td><td>2017</td></tr>
 <tr><td>Sénégal</td><td>3 mars</td><td>2016</td><td>1<sup>er</sup> juin</td><td>2016</td></tr>
@@ -717,6 +721,7 @@ Champ d’application le 31 janvier 2022**[^t-2]**
 <tr><td>Tunisie</td><td>27 août</td><td>2021</td><td>25 novembre</td><td>2021</td></tr>
 <tr><td>Turkménistan</td><td>4 novembre</td><td>2020 A</td><td>2 février</td><td>2021</td></tr>
 <tr><td>Tuvalu</td><td>28 août</td><td>2018 A</td><td>26 novembre</td><td>2018</td></tr>
+<tr><td>Ukraine</td><td>15 février</td><td>2022</td><td>16 mai</td><td>2022</td></tr>
 <tr><td>Union européenne\*</td><td>16 mai</td><td>2014</td><td>12 octobre</td><td>2014</td></tr>
 <tr><td>Uruguay</td><td>14 juillet</td><td>2014</td><td>12 octobre</td><td>2014</td></tr>
 <tr><td>Vanuatu</td><td>1<sup>er</sup> juillet</td><td>2014</td><td>12 octobre</td><td>2014</td></tr>
@@ -727,4 +732,4 @@ Champ d’application le 31 janvier 2022**[^t-2]**
 <tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Le Protocole ne s’applique pas à Hong Kong et Macao. <sup>b</sup> Le Protocole ne s’applique ni au Groenland ni aux îles Féroé.</td></tr>
 </table>
 
-[^t-2]: [RO 2014 3141](https://fedlex.data.admin.ch/eli/oc/2014/532); [2015 695](https://fedlex.data.admin.ch/eli/oc/2015/116), [3839](https://fedlex.data.admin.ch/eli/oc/2015/647); [2016 987](https://fedlex.data.admin.ch/eli/oc/2016/175), [2291](https://fedlex.data.admin.ch/eli/oc/2016/368), [3153](https://fedlex.data.admin.ch/eli/oc/2016/526), [3859](https://fedlex.data.admin.ch/eli/oc/2016/650); [2017 505](https://fedlex.data.admin.ch/eli/oc/2017/86), [5073](https://fedlex.data.admin.ch/eli/oc/2017/555); [2018 2919](https://fedlex.data.admin.ch/eli/oc/2018/445), [4077](https://fedlex.data.admin.ch/eli/oc/2018/661); [2019 2241](https://fedlex.data.admin.ch/eli/oc/2019/418); [2020 617](https://fedlex.data.admin.ch/eli/oc/2020/115), [3815](https://fedlex.data.admin.ch/eli/oc/2020/704); [2022 58](https://fedlex.data.admin.ch/eli/oc/2022/58). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: www.fedlex.admin.ch/fr/treaty
+[^t-2]: [RO 2014 3141](https://fedlex.data.admin.ch/eli/oc/2014/532); [2015 695](https://fedlex.data.admin.ch/eli/oc/2015/116), [3839](https://fedlex.data.admin.ch/eli/oc/2015/647); [2016 987](https://fedlex.data.admin.ch/eli/oc/2016/175), [2291](https://fedlex.data.admin.ch/eli/oc/2016/368), [3153](https://fedlex.data.admin.ch/eli/oc/2016/526), [3859](https://fedlex.data.admin.ch/eli/oc/2016/650); [2017 505](https://fedlex.data.admin.ch/eli/oc/2017/86), [5073](https://fedlex.data.admin.ch/eli/oc/2017/555); [2018 2919](https://fedlex.data.admin.ch/eli/oc/2018/445), [4077](https://fedlex.data.admin.ch/eli/oc/2018/661); [2019 2241](https://fedlex.data.admin.ch/eli/oc/2019/418); [2020 617](https://fedlex.data.admin.ch/eli/oc/2020/115), [3815](https://fedlex.data.admin.ch/eli/oc/2020/704); [2022 58](https://fedlex.data.admin.ch/eli/oc/2022/58), [422](https://fedlex.data.admin.ch/eli/oc/2022/422). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: www.fedlex.admin.ch/fr/treaty

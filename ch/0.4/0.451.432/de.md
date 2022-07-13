@@ -3,11 +3,11 @@ sr: "0.451.432"
 title: Protokoll von Nagoya vom 29. Oktober 2010 über den Zugang zu genetischen Ressourcen und die ausgewogene und gerechte Aufteilung der sich aus ihrer Nutzung ergebenden Vorteile zum Übereinkommen über die biologische Vielfalt (mit Anhang)
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/532"
 language: de
-version: 2022-01-31
+version: 2022-07-14
 adopted: 2010-10-29
 in_force: 2014-10-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/532/20220131/de/xml/fedlex-data-admin-ch-eli-cc-2014-532-20220131-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/532/20220131/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/532/20220714/de/xml/fedlex-data-admin-ch-eli-cc-2014-532-20220714-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/532/20220714/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -28,7 +28,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 11. Juli 2014
 
 In Kraft getreten für die Schweiz am 12. Oktober 2014
 
-(Stand am 31. Januar 2022)
+(Stand am 14. Juli 2022)
 
 [^t-1]: [AS 2014 2629](https://fedlex.data.admin.ch/eli/oc/2014/467)
 
@@ -587,7 +587,7 @@ Anlage
 - p) soziale Anerkennung;
 - q) gemeinschaftliche Inhaberschaft an einschlägigen Rechten des geistigen Eigentums.
 
-Geltungsbereich am 31. Januar 2022**[^t-2]**
+Geltungsbereich am 14. Juli 2022**[^t-2]**
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -599,6 +599,7 @@ Geltungsbereich am 31. Januar 2022**[^t-2]**
 <tr><td>Argentinien\*</td><td>9. Dezember</td><td>2016</td><td>9. März</td><td>2017</td></tr>
 <tr><td>Äthiopien</td><td>16. November</td><td>2012 B</td><td>12. Oktober</td><td>2014</td></tr>
 <tr><td>Bahamas</td><td>30. Dezember</td><td>2021 B</td><td>30. März</td><td>2022</td></tr>
+<tr><td>Bahrain</td><td>22. Februar</td><td>2022 B</td><td>23. Mai</td><td>2022</td></tr>
 <tr><td>Belarus</td><td>26. Juni</td><td>2014 B</td><td>12. Oktober</td><td>2014</td></tr>
 <tr><td>Belgien\*</td><td>9. August</td><td>2016</td><td>7. November</td><td>2016</td></tr>
 <tr><td>Benin</td><td>22. Januar</td><td>2014</td><td>12. Oktober</td><td>2014</td></tr>
@@ -661,6 +662,7 @@ Geltungsbereich am 31. Januar 2022**[^t-2]**
 <tr><td>Malaysia</td><td>5. November</td><td>2018</td><td>3. November</td><td>2019</td></tr>
 <tr><td>Malediven</td><td>1. Juli</td><td>2019 B</td><td>29. September</td><td>2019</td></tr>
 <tr><td>Malta</td><td>1. Dezember</td><td>2016 B</td><td>1. März</td><td>2017</td></tr>
+<tr><td>Marokko</td><td>22. April</td><td>2022</td><td>21. Juli</td><td>2022</td></tr>
 <tr><td>Marshallinseln</td><td>10. Oktober</td><td>2014 B</td><td>8. Januar</td><td>2015</td></tr>
 <tr><td>Mauretanien</td><td>18. August</td><td>2015</td><td>16. November</td><td>2015</td></tr>
 <tr><td>Mauritius</td><td>17. Dezember</td><td>2012 B</td><td>12. Oktober</td><td>2014</td></tr>
@@ -677,6 +679,7 @@ Geltungsbereich am 31. Januar 2022**[^t-2]**
 <tr><td>Niederlande</td><td>19. August</td><td>2016</td><td>17. November</td><td>2016</td></tr>
 <tr><td>Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td>19. August</td><td>2016</td><td>17. November</td><td>2016</td></tr>
 <tr><td>Niger</td><td>2. Juli</td><td>2014</td><td>12. Oktober</td><td>2014</td></tr>
+<tr><td>Nigeria</td><td>29. Juni</td><td>2022</td><td>27. September</td><td>2022</td></tr>
 <tr><td>Norwegen</td><td>1. Oktober</td><td>2013</td><td>12. Oktober</td><td>2014</td></tr>
 <tr><td>Oman</td><td>23. Juni</td><td>2020 B</td><td>21. September</td><td>2020</td></tr>
 <tr><td>Österreich</td><td>20. Juli</td><td>2018</td><td>18. Oktober</td><td>2018</td></tr>
@@ -703,6 +706,7 @@ Geltungsbereich am 31. Januar 2022**[^t-2]**
 <tr><td>Slowakei</td><td>29. Dezember</td><td>2015 B</td><td>28. März</td><td>2016</td></tr>
 <tr><td>Spanien</td><td>3. Juni</td><td>2014</td><td>12. Oktober</td><td>2014</td></tr>
 <tr><td>St. Kitts und Nevis</td><td>5. September</td><td>2018 B</td><td>4. Dezember</td><td>2018</td></tr>
+<tr><td>St. Lucia</td><td>14. März</td><td>2022 B</td><td>12. Juni</td><td>2022</td></tr>
 <tr><td>Sudan</td><td>7. Juli</td><td>2014</td><td>12. Oktober</td><td>2014</td></tr>
 <tr><td>Syrien</td><td>5. April</td><td>2013 B</td><td>12. Oktober</td><td>2014</td></tr>
 <tr><td>Südafrika</td><td>10. Januar</td><td>2013</td><td>12. Oktober</td><td>2014</td></tr>
@@ -716,6 +720,7 @@ Geltungsbereich am 31. Januar 2022**[^t-2]**
 <tr><td>Turkmenistan</td><td>4. November</td><td>2020 B</td><td>2. Februar</td><td>2021</td></tr>
 <tr><td>Tuvalu</td><td>28. August</td><td>2018 B</td><td>26. November</td><td>2018</td></tr>
 <tr><td>Uganda</td><td>25. Juni</td><td>2014 B</td><td>12. Oktober</td><td>2014</td></tr>
+<tr><td>Ukraine</td><td>15. Februar</td><td>2022</td><td>16. Mai</td><td>2022</td></tr>
 <tr><td>Ungarn</td><td>29. April</td><td>2014</td><td>12. Oktober</td><td>2014</td></tr>
 <tr><td>Uruguay</td><td>14. Juli</td><td>2014</td><td>12. Oktober</td><td>2014</td></tr>
 <tr><td>Vanuatu</td><td>1. Juli</td><td>2014</td><td>12. Oktober</td><td>2014</td></tr>
@@ -727,4 +732,4 @@ Geltungsbereich am 31. Januar 2022**[^t-2]**
 <tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden. <sup>a</sup> Das Protokoll gilt nicht für Hongkong und Macao. <sup>b</sup> Das Protokoll gilt nicht für Grönland und die Färöer.</td></tr>
 </table>
 
-[^t-2]: [AS 2014 3141](https://fedlex.data.admin.ch/eli/oc/2014/532); [2015 695](https://fedlex.data.admin.ch/eli/oc/2015/116), [3839](https://fedlex.data.admin.ch/eli/oc/2015/647); [2016 987](https://fedlex.data.admin.ch/eli/oc/2016/175), [2291](https://fedlex.data.admin.ch/eli/oc/2016/368), [3153](https://fedlex.data.admin.ch/eli/oc/2016/526), [3859](https://fedlex.data.admin.ch/eli/oc/2016/650); [2017 505](https://fedlex.data.admin.ch/eli/oc/2017/86), [5073](https://fedlex.data.admin.ch/eli/oc/2017/555); [2018 2919](https://fedlex.data.admin.ch/eli/oc/2018/445), [4077](https://fedlex.data.admin.ch/eli/oc/2018/661); [2019 2241](https://fedlex.data.admin.ch/eli/oc/2019/418); [2020 617](https://fedlex.data.admin.ch/eli/oc/2020/115), [3815](https://fedlex.data.admin.ch/eli/oc/2020/704); [2022 58](https://fedlex.data.admin.ch/eli/oc/2022/58). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: www.fedlex.admin.ch/de/treaty
+[^t-2]: [AS 2014 3141](https://fedlex.data.admin.ch/eli/oc/2014/532); [2015 695](https://fedlex.data.admin.ch/eli/oc/2015/116), [3839](https://fedlex.data.admin.ch/eli/oc/2015/647); [2016 987](https://fedlex.data.admin.ch/eli/oc/2016/175), [2291](https://fedlex.data.admin.ch/eli/oc/2016/368), [3153](https://fedlex.data.admin.ch/eli/oc/2016/526), [3859](https://fedlex.data.admin.ch/eli/oc/2016/650); [2017 505](https://fedlex.data.admin.ch/eli/oc/2017/86), [5073](https://fedlex.data.admin.ch/eli/oc/2017/555); [2018 2919](https://fedlex.data.admin.ch/eli/oc/2018/445), [4077](https://fedlex.data.admin.ch/eli/oc/2018/661); [2019 2241](https://fedlex.data.admin.ch/eli/oc/2019/418); [2020 617](https://fedlex.data.admin.ch/eli/oc/2020/115), [3815](https://fedlex.data.admin.ch/eli/oc/2020/704); [2022 58](https://fedlex.data.admin.ch/eli/oc/2022/58), [422](https://fedlex.data.admin.ch/eli/oc/2022/422). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: www.fedlex.admin.ch/de/treaty
