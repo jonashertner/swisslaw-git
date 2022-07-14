@@ -4,13 +4,13 @@ number: "922.102"
 title: Standeskommissionsbeschluss über die Jagd
 short: StKB Jagd
 language: de
-version: 2021-07-15
-valid_until: 2022-07-14
-version_adopted: 2021-07-06
+version: 2022-07-15
+valid_until: 2023-07-31
+version_adopted: 2022-06-28
 adopted: 2021-07-06
 in_force: 2021-07-15
 url: "https://ai.clex.ch/app/de/texts_of_law/922.102"
-pdf: "https://ai.clex.ch/api/de/versions/1932/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2129/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://ai.clex.ch/api/de/versions/1932/pdf_file"
 
 (StKB Jagd)
 
-vom 06.07.2021 (Stand 15.07.2021)
+vom 06.07.2021 (Stand 15.07.2022)
 
 Die Standeskommission des Kantons Appenzell I.Rh.,
 
@@ -239,13 +239,13 @@ beschliesst:
 
 **Patenttaxen**
 
-<sup>1</sup> Die Grundtaxe für die Hochwildjagd für im Kanton Wohnhafte und Niedergelassene beträgt Fr. 480.--.
+<sup>1</sup> Die Grundtaxe für die Hochwildjagd für im Kanton Wohnhafte und Niedergelassene beträgt Fr. 550.--.
 
-<sup>2</sup> Die Grundtaxe für die Hochwildjagd für Ausserkantonale beträgt Fr. 1'200.--.
+<sup>2</sup> Die Grundtaxe für die Hochwildjagd für Ausserkantonale beträgt Fr. 1'375.--.
 
-<sup>3</sup> Die Grundtaxe für die Niederwildjagd für im Kanton Wohnhafte und Niedergelassene beträgt Fr. 450.--.
+<sup>3</sup> Die Grundtaxe für die Niederwildjagd für im Kanton Wohnhafte und Niedergelassene beträgt Fr. 500.--.
 
-<sup>4</sup> Die Grundtaxe für die Niederwildjagd für Ausserkantonale beträgt Fr. 1'125.--.
+<sup>4</sup> Die Grundtaxe für die Niederwildjagd für Ausserkantonale beträgt Fr. 1'250.--.
 
 <sup>5</sup> Der Wildschadenbeitrag beträgt Fr. 20.--, die Hegebeiträge Fr. 100.--. Für Ausserkantonale wird darauf ein Zuschlag von 100% erhoben.
 
@@ -255,7 +255,7 @@ beschliesst:
 
 <sup>1</sup> Die Gebühr für die Anmeldung an die Hoch- und Niederwildjagd beträgt Fr. 25.--. Wird nur ein Patent gelöst, beträgt sie Fr. 15.--. Für Ausserkantonale wird darauf ein Zuschlag von 100% erhoben.
 
-<sup>2</sup> Für eine Gästebewilligung wird eine Gebühr von Fr. 60.-- je Patent erhoben.
+<sup>2</sup> Für eine Gästebewilligung wird eine Gebühr von Fr. 100.-- je Patent erhoben.
 
 <sup>3</sup> Für die verspätete Jagdanmeldung wird eine Gebühr von Fr. 100.-- erhoben. Für Ausserkantonale wird darauf ein Zuschlag von Fr. 100.-- erhoben.
 
