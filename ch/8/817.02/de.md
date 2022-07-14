@@ -4,11 +4,11 @@ title: Lebensmittel- und Gebrauchsgegenständeverordnung vom 16. Dezember 2016 (
 short: LGV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/63"
 language: de
-version: 2020-10-17
+version: 2022-07-15
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/63/20201017/de/xml/fedlex-data-admin-ch-eli-cc-2017-63-20201017-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/63/20201017/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/63/20220715/de/xml/fedlex-data-admin-ch-eli-cc-2017-63-20220715-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/63/20220715/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/63/20201017/de"
 
 (LGV)
 
-vom 16. Dezember 2016 (Stand am 17. Oktober 2020)
+vom 16. Dezember 2016 (Stand am 15. Juli 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -314,12 +314,17 @@ Verboten sind insbesondere:
 - h. bei alkoholischen Getränken: Angaben, die sich in irgendeiner Weise auf die Gesundheit beziehen; vorbehalten sind die vom EDI festgelegten Bezeichnungen traditioneller alkoholischer Getränke;
 - i. bei bewilligungspflichtigen Produkten: Hinweise mit Werbecharakter auf die durch das BLV erteilte Bewilligung.
 
+<sup>2bis</sup> Das EDI kann bei Versorgungsengpässen infolge einer unvorhergesehenen, durch äussere Faktoren bedingten Situation, wie einen bewaffneten Konflikt, eine Pandemie oder eine Naturkatastrophe, befristet Abweichungen von den Anforderungen an die Information über Lebensmittel vorsehen. Ausgenommen ist die Information über Lebensmittel nach Artikel 31 Absatz 1.[^12-6]
+
+<sup>2ter</sup> Die Abweichungen von den Anforderungen an die Information über Lebensmittel dürfen für den Schutz der Gesundheit der Konsumentinnen und Konsumenten, insbesondere in Bezug auf Zutaten, die Allergien oder andere unerwünschte Reaktionen auslösen können, nicht relevant sein.[^12-7]
+
 <sup>3</sup>
 
 Das EDI regelt:
 
 - a. die Grenzen zulässiger Werbung;
-- b. die zulässigen nährwert- und gesundheitsbezogenen Angaben.
+- b. die zulässigen nährwert- und gesundheitsbezogenen Angaben;
+- c.[^12-8] die Modalitäten der Abweichungen von den Anforderungen an die Information über Lebensmittel nach Absatz 2<sup>bis</sup>; es stellt sicher, dass die Konsumentinnen und Konsumenten in geeigneter Weise über die tatsächliche Zusammensetzung der Lebensmittel informiert werden.
 
 <sup>4</sup> Es kann Anforderungen an die Aufmachung sowie an die Umhüllung und Verpackung festlegen.
 
@@ -328,6 +333,9 @@ Das EDI regelt:
 [^12-3]: [SR 910.12](https://fedlex.data.admin.ch/eli/cc/1997/1198_1198_1198)
 [^12-4]: [SR 232.112.2](https://fedlex.data.admin.ch/eli/cc/2015/612)
 [^12-5]: [SR 232.11](https://fedlex.data.admin.ch/eli/cc/1993/274_274_274)
+[^12-6]: Eingefügt durch Ziff. I der V vom 29. Juni 2022, in Kraft seit 15. Juli 2022 ([AS 2022 396](https://fedlex.data.admin.ch/eli/oc/2022/396)).
+[^12-7]: Eingefügt durch Ziff. I der V vom 29. Juni 2022, in Kraft seit 15. Juli 2022 ([AS 2022 396](https://fedlex.data.admin.ch/eli/oc/2022/396)).
+[^12-8]: Eingefügt durch Ziff. I der V vom 29. Juni 2022, in Kraft seit 15. Juli 2022 ([AS 2022 396](https://fedlex.data.admin.ch/eli/oc/2022/396)).
 
 #### Art. 13
 
@@ -1645,7 +1653,7 @@ Das EDI legt fest, welche seiner administrativen oder technischen Vorschriften d
 
 <sup>2</sup> Die Änderung anderer Erlasse ist im Anhang geregelt.
 
-[^94-1]: [[AS 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746), [2006 4909](https://fedlex.data.admin.ch/eli/oc/2006/765), [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Anhang 4 Ziff. 47, [2008 789](https://fedlex.data.admin.ch/eli/oc/2008/195)[4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Anhang 5 Ziff. 8 [5167](https://fedlex.data.admin.ch/eli/oc/2008/722)[6025](https://fedlex.data.admin.ch/eli/oc/2008/833), [2009 1611](https://fedlex.data.admin.ch/eli/oc/2009/233), [2010 4611](https://fedlex.data.admin.ch/eli/oc/2010/668), [2011 5273](https://fedlex.data.admin.ch/eli/oc/2011/761)Art. 37 [5803](https://fedlex.data.admin.ch/eli/oc/2011/803)Anhang 2 Ziff. II 3, [2012 4713](https://fedlex.data.admin.ch/eli/oc/2012/572)[6809](https://fedlex.data.admin.ch/eli/oc/2012/824), [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 7 [3669](https://fedlex.data.admin.ch/eli/oc/2013/684), [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)Anhang 3 Ziff. II 4 [2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Anhang 11 Ziff. 3, [2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)Anhang Ziff. II 2, [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)Anhang Ziff. 5]
+[^94-1]: [[AS 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746); [2006 4909](https://fedlex.data.admin.ch/eli/oc/2006/765); [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Anhang 4 Ziff. 47; [2008 789](https://fedlex.data.admin.ch/eli/oc/2008/195)[4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Anhang 5 Ziff. 8, [5167](https://fedlex.data.admin.ch/eli/oc/2008/722), [6025](https://fedlex.data.admin.ch/eli/oc/2008/833); [2009 1611](https://fedlex.data.admin.ch/eli/oc/2009/233); [2010 4611](https://fedlex.data.admin.ch/eli/oc/2010/668); [2011 5273](https://fedlex.data.admin.ch/eli/oc/2011/761)Art. 37, [5803](https://fedlex.data.admin.ch/eli/oc/2011/803)Anhang 2 Ziff. II 3; [2012 4713](https://fedlex.data.admin.ch/eli/oc/2012/572), [6809](https://fedlex.data.admin.ch/eli/oc/2012/824); [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 7, [3669](https://fedlex.data.admin.ch/eli/oc/2013/684); [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)Anhang 3 Ziff. II 4, [2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Anhang 11 Ziff. 3; [2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)Anhang Ziff. II 2; [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)Anhang Ziff. 5]
 
 #### Art. 95
 

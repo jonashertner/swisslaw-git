@@ -4,11 +4,11 @@ title: Ordonnance du 16 décembre 2016 sur les denrées alimentaires et les obje
 short: ODAlOUs
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/63"
 language: fr
-version: 2020-10-17
+version: 2022-07-15
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/63/20201017/fr/xml/fedlex-data-admin-ch-eli-cc-2017-63-20201017-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/63/20201017/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/63/20220715/fr/xml/fedlex-data-admin-ch-eli-cc-2017-63-20220715-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/63/20220715/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/63/20201017/fr"
 
 (ODAlOUs)
 
-du 16 décembre 2016 (Etat le 17 octobre 2020)
+du 16 décembre 2016 (Etat le 15 juillet 2022)
 
 Le Conseil fédéral suisse,
 
@@ -314,12 +314,17 @@ Sont notamment interdites:
 - h. dans le cas des boissons alcooliques: les indications se référant d’une quelconque manière à la santé; sont réservées les désignations des boissons alcooliques traditionnelles fixées par le DFI;
 - i. dans le cas des produits soumis à autorisation: la mention à des fins publicitaires de l’autorisation accordée par l’OSAV.
 
+<sup>2bis</sup> En cas de difficultés d’approvisionnement résultant d’une situation imprévue due à des facteurs extérieurs, tels qu’un conflit armé, une pandémie ou une catastrophe naturelle, le DFI peut prévoir, pour une durée limitée, des dérogations aux prescriptions d’information sur les denrées alimentaires, exception faite de l’information sur les denrées alimentaires visées à l’art. 31, al. 1.[^12-6]
+
+<sup>2ter</sup> Les dérogations aux prescriptions d’information sur les denrées alimentaires ne doivent pas avoir d’incidence sur la protection de la santé des consommateurs, notamment en ce qui concerne les ingrédients susceptibles de provoquer des allergies ou d’autres réactions indésirables.[^12-7]
+
 <sup>3</sup>
 
 Le DFI règle:
 
 - a. les limites de la publicité admise;
-- b. les allégations nutritionnelles et de santé admises.
+- b. les allégations nutritionnelles et de santé admises;
+- c.[^12-8] les modalités de dérogation aux prescriptions d’information sur les denrées alimentaires visées à l’al. 2<sup>bis</sup>; il garantit que les consommateurs sont informés de manière adéquate sur la composition réelle de la denrée alimentaire.
 
 <sup>4</sup> Il peut fixer des exigences pour la présentation, le conditionnement et l’emballage.
 
@@ -328,6 +333,9 @@ Le DFI règle:
 [^12-3]: [RS 910.12](https://fedlex.data.admin.ch/eli/cc/1997/1198_1198_1198)
 [^12-4]: [RS 232.112.2](https://fedlex.data.admin.ch/eli/cc/2015/612)
 [^12-5]: [RS 232.11](https://fedlex.data.admin.ch/eli/cc/1993/274_274_274)
+[^12-6]: Introduit par le ch. I de l’O du 29 juin 2022, en vigueur depuis le 15 juil. 2022 ([RO 2022 396](https://fedlex.data.admin.ch/eli/oc/2022/396)).
+[^12-7]: Introduit par le ch. I de l’O du 29 juin 2022, en vigueur depuis le 15 juil. 2022 ([RO 2022 396](https://fedlex.data.admin.ch/eli/oc/2022/396)).
+[^12-8]: Introduite par le ch. I de l’O du 29 juin 2022, en vigueur depuis le 15 juil. 2022 ([RO 2022 396](https://fedlex.data.admin.ch/eli/oc/2022/396)).
 
 #### Art. 13
 

@@ -4,11 +4,11 @@ title: "Ordinanza del 16 dicembre 2016 sulle derrate alimentari e gli oggetti d'
 short: ODerr
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/63"
 language: it
-version: 2020-10-17
+version: 2022-07-15
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/63/20201017/it/xml/fedlex-data-admin-ch-eli-cc-2017-63-20201017-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/63/20201017/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/63/20220715/it/xml/fedlex-data-admin-ch-eli-cc-2017-63-20220715-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/63/20220715/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/63/20201017/it"
 
 (ODerr)
 
-del 16 dicembre 2016 (Stato 17 ottobre 2020) (Stato 17 ottobre 2020)
+del 16 dicembre 2016 (Stato 15 luglio 2022) (Stato 15 luglio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -314,20 +314,28 @@ In particolare sono vietati:
 - h. per le bevande alcoliche: le indicazioni che in qualche modo si riferiscono alla salute; sono fatte salve le denominazioni di bevande alcoliche tradizionali fissate dal DFI;
 - i. nel caso di prodotti soggetti ad autorizzazione: riferimenti a carattere pubblicitario all’autorizzazione rilasciata dall’USAV.
 
+<sup>2</sup> <sup>bis</sup> Il DFI può prevedere deroghe temporanee ai requisiti in materia di informazione sulle derrate alimentari in caso di difficoltà di approvvigionamento a seguito di una situazione imprevista dovuta a fattori esterni come un conflitto armato, una pandemia o una catastrofe naturale. È eccettuata l’informazione sulle derrate alimentari di cui all’articolo 31 capoverso 1.[^12-6]
+
+<sup>2ter</sup> Le deroghe ai requisiti in materia di informazione sulle derrate alimentari non possono essere rilevanti per la protezione della salute dei consumatori, in particolare per quanto riguarda gli ingredienti che potrebbero provocare allergie o altre reazioni indesiderate.[^12-7]
+
 <sup>3</sup>
 
 Il DFI disciplina:
 
 - a. i limiti della pubblicità ammessa;
-- b. le indicazioni nutrizionali o sulla salute ammesse.
+- b. le indicazioni nutrizionali o sulla salute ammesse;
+- c.[^12-8] le modalità delle deroghe ai requisiti in materia di informazione sulle derrate alimentari di cui al capoverso 2<sup>bis</sup>; esso garantisce che i consumatori siano in-formati in modo adeguato sulla composizione effettiva delle derrate alimentari.
 
 <sup>4</sup> Può prescrivere requisiti per la presentazione, la confezione e l’imballaggio.
 
-[^12-1]: Introdotto dal n. I dell'O dell'16 apr. 2020, in vigore dal 17 apr. 2020 fino al 16 ott. 2020 ([RU 2020 1243](https://fedlex.data.admin.ch/eli/oc/2020/237)).
-[^12-2]: Introdotto dal n. I dell'O dell'16 apr. 2020, in vigore dal 17 apr. 2020 fino al 16 ott. 2020 ([RU 2020 1243](https://fedlex.data.admin.ch/eli/oc/2020/237)).
+[^12-1]: Introdotto dal n. I dell’O dell’16 apr. 2020, in vigore dal 17 apr. 2020 fino al 16 ott. 2020 ([RU 2020 1243](https://fedlex.data.admin.ch/eli/oc/2020/237)).
+[^12-2]: Introdotto dal n. I dell’O dell’16 apr. 2020, in vigore dal 17 apr. 2020 fino al 16 ott. 2020 ([RU 2020 1243](https://fedlex.data.admin.ch/eli/oc/2020/237)).
 [^12-3]: [RS 910.12](https://fedlex.data.admin.ch/eli/cc/1997/1198_1198_1198)
 [^12-4]: [RS 232.112.2](https://fedlex.data.admin.ch/eli/cc/2015/612)
 [^12-5]: [RS 232.11](https://fedlex.data.admin.ch/eli/cc/1993/274_274_274)
+[^12-6]: Introdotto dal n. I dell’O del 29 giu. 2022, in vigore dal 15 lug. 2022 ([RU 2022 396](https://fedlex.data.admin.ch/eli/oc/2022/396)).
+[^12-7]: Introdotto dal n. I dell’O del 29 giu. 2022, in vigore dal 15 lug. 2022 ([RU 2022 396](https://fedlex.data.admin.ch/eli/oc/2022/396)).
+[^12-8]: Introdotto dal n. I dell’O del 29 giu. 2022, in vigore dal 15 lug. 2022 ([RU 2022 396](https://fedlex.data.admin.ch/eli/oc/2022/396)).
 
 #### Art. 13
 
@@ -1648,7 +1656,7 @@ Il DFI prevede quali delle sue prescrizioni amministrative o tecniche possano es
 
 <sup>2</sup> La modifica di altri atti legislativi è disciplinata nell’allegato.
 
-[^94-1]: [[RU 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746), [2006 4909](https://fedlex.data.admin.ch/eli/oc/2006/765), [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 47, [2008 789](https://fedlex.data.admin.ch/eli/oc/2008/195)[4377](https://fedlex.data.admin.ch/eli/oc/2008/614)all. 5 n. 8 [5167](https://fedlex.data.admin.ch/eli/oc/2008/722)[6025](https://fedlex.data.admin.ch/eli/oc/2008/833), [2009 1611](https://fedlex.data.admin.ch/eli/oc/2009/233), [2010 4611](https://fedlex.data.admin.ch/eli/oc/2010/668), [2011 5273](https://fedlex.data.admin.ch/eli/oc/2011/761)art. 37 [5803](https://fedlex.data.admin.ch/eli/oc/2011/803)all. 2 n. II 3, [2012 4713](https://fedlex.data.admin.ch/eli/oc/2012/572)[6809](https://fedlex.data.admin.ch/eli/oc/2012/824), [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)n. I 7 [3669](https://fedlex.data.admin.ch/eli/oc/2013/684), [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)all. 3 n. II 4 [2073](https://fedlex.data.admin.ch/eli/oc/2014/357)all. 11 n. 3, [2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)all. n. II 2, [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)all. n. 5]
+[^94-1]: [[RU 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746); [2006 4909](https://fedlex.data.admin.ch/eli/oc/2006/765); [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 47; [2008 789](https://fedlex.data.admin.ch/eli/oc/2008/195), [4377](https://fedlex.data.admin.ch/eli/oc/2008/614)all. 5 n. 8, [5167](https://fedlex.data.admin.ch/eli/oc/2008/722)[6025](https://fedlex.data.admin.ch/eli/oc/2008/833); [2009 1611](https://fedlex.data.admin.ch/eli/oc/2009/233); [2010 4611](https://fedlex.data.admin.ch/eli/oc/2010/668); [2011 5273](https://fedlex.data.admin.ch/eli/oc/2011/761)art. 37, [5803](https://fedlex.data.admin.ch/eli/oc/2011/803)all. 2 n. II 3; [2012 4713](https://fedlex.data.admin.ch/eli/oc/2012/572), [6809](https://fedlex.data.admin.ch/eli/oc/2012/824); [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)n. I 7, [3669](https://fedlex.data.admin.ch/eli/oc/2013/684); [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)all. 3 n. II 4, [2073](https://fedlex.data.admin.ch/eli/oc/2014/357)all. 11 n. 3; [2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)all. n. II 2; [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)all. n. 5]
 
 #### Art. 95
 
@@ -1689,7 +1697,7 @@ Per singoli settori, il DFI può prevedere periodi transitori divergenti:
 
 Le derrate alimentari non conformi alla modifica del 27 maggio 2020 possono essere importate e fabbricate secondo il diritto anteriore sino al 30 giugno 2021 e consegnate ai consumatori fino a esaurimento delle scorte.
 
-[^95a-1]: Introdotto dal n. I dell'O del 16 apr. 2020 ([RU 2020 1243](https://fedlex.data.admin.ch/eli/oc/2020/237)). Nuovo testo giusta il n. I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
+[^95a-1]: Introdotto dal n. I dell’O del 16 apr. 2020 ([RU 2020 1243](https://fedlex.data.admin.ch/eli/oc/2020/237)). Nuovo testo giusta il n. I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
 
 #### Art. 96
 
