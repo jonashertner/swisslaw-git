@@ -3,11 +3,11 @@ sr: "0.741.10"
 title: Übereinkommen vom 8. November 1968 über den Strassenverkehr (mit Anhängen)
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/402_402_402"
 language: de
-version: 2022-07-14
+version: 2022-07-15
 adopted: 1968-11-08
 in_force: 1992-12-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/de/xml/fedlex-data-admin-ch-eli-cc-1993-402_402_402-20220714-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/402_402_402/20220714/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/de/xml/fedlex-data-admin-ch-eli-cc-1993-402_402_402-20220715-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/402_402_402/20220715/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1993** 402; BBl **1978** I 1440
 
 Abgeschlossen in Wien am 8. November 1968 Von der Bundesversammlung genehmigt am 15. Dezember 1978[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 11. Dezember 1991 In Kraft getreten für die Schweiz am 11. Dezember 1992
 
-(Stand am 14. Juli 2022)
+(Stand am 15. Juli 2022)
 
 [^t-1]: Art. 1 Abs. 1 Bst. a des BB vom 15. Dez. 1978 ([AS 1993 400](https://fedlex.data.admin.ch/eli/oc/1993/400_400_400)).
 
@@ -1718,13 +1718,13 @@ Anhang 6*[^t-6]*
 
 <table>
 <tr><td colspan="2">Code der Fahrzeugklasse / Piktogramm</td><td colspan="2">Code der Unterklasse / Piktogramm</td></tr>
-<tr><td>A</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/de/xml/image/image1.png)</td><td>A1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/de/xml/image/image2.png)</td></tr>
-<tr><td>B</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/de/xml/image/image3.png)</td><td>B1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/de/xml/image/image4.png)</td></tr>
-<tr><td>C</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/de/xml/image/image5.png)</td><td>C1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/de/xml/image/image6.png)</td></tr>
-<tr><td>D</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/de/xml/image/image7.png)</td><td>D1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/de/xml/image/image8.png)</td></tr>
-<tr><td>BE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/de/xml/image/image9.png)</td><td></td><td></td></tr>
-<tr><td>CE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/de/xml/image/image10.png)</td><td>C1E</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/de/xml/image/image11.png)</td></tr>
-<tr><td>DE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/de/xml/image/image12.png)</td><td>D1E</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/de/xml/image/image13.png)</td></tr>
+<tr><td>A</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/de/xml/image/image1.png)</td><td>A1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/de/xml/image/image2.png)</td></tr>
+<tr><td>B</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/de/xml/image/image3.png)</td><td>B1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/de/xml/image/image4.png)</td></tr>
+<tr><td>C</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/de/xml/image/image5.png)</td><td>C1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/de/xml/image/image6.png)</td></tr>
+<tr><td>D</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/de/xml/image/image7.png)</td><td>D1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/de/xml/image/image8.png)</td></tr>
+<tr><td>BE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/de/xml/image/image9.png)</td><td></td><td></td></tr>
+<tr><td>CE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/de/xml/image/image10.png)</td><td>C1E</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/de/xml/image/image11.png)</td></tr>
+<tr><td>DE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/de/xml/image/image12.png)</td><td>D1E</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/de/xml/image/image13.png)</td></tr>
 </table>
 
 [^annex6-lvlu1-1]: Der Geburtsort kann durch andere, nach nationaler Gesetzgebung bestimmte Eintragungen ersetzt werden.
@@ -1794,13 +1794,13 @@ Anhang 7*[^t-7]*
 <tr><td></td><td colspan="2">Ordentlicher Wohnsitz<sup>2)</sup></td><td colspan="3"></td><td>5.</td><td colspan="2"></td></tr>
 <tr><td></td><td colspan="6">FAHRZEUGKLASSEN UND UNTERKLASSEN, FÜR DIE DER FÜHRERSCHEIN GILT, MIT DEN ENTSPRECHENDEN BEZEICHNUNGEN</td><td colspan="2"></td></tr>
 <tr><td></td><td colspan="3">**Bezeichnung der Fahrzeu****g****- klasse / Piktogramm**</td><td colspan="3">**Bezeichnung der Unte****r****klasse / Pikt****o****gramm**</td><td colspan="2"></td></tr>
-<tr><td></td><td>**A**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/de/xml/image/image1.png)</td><td>**A1**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/de/xml/image/image2.png)</td><td></td></tr>
-<tr><td></td><td>**B**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/de/xml/image/image3.png)</td><td>**B1**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/de/xml/image/image4.png)</td><td></td></tr>
-<tr><td></td><td>**C**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/de/xml/image/image5.png)</td><td>**C1**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/de/xml/image/image6.png)</td><td></td></tr>
-<tr><td></td><td>**D**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/de/xml/image/image7.png)</td><td>**D1**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/de/xml/image/image8.png)</td><td></td></tr>
-<tr><td></td><td>**BE**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/de/xml/image/image9.png)</td><td></td><td colspan="2"></td><td></td></tr>
-<tr><td></td><td>**CE**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/de/xml/image/image10.png)</td><td>**C1E**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/de/xml/image/image11.png)</td><td></td></tr>
-<tr><td></td><td>**DE**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/de/xml/image/image12.png)</td><td>**D1E**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/de/xml/image/image13.png)</td><td></td></tr>
+<tr><td></td><td>**A**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/de/xml/image/image1.png)</td><td>**A1**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/de/xml/image/image2.png)</td><td></td></tr>
+<tr><td></td><td>**B**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/de/xml/image/image3.png)</td><td>**B1**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/de/xml/image/image4.png)</td><td></td></tr>
+<tr><td></td><td>**C**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/de/xml/image/image5.png)</td><td>**C1**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/de/xml/image/image6.png)</td><td></td></tr>
+<tr><td></td><td>**D**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/de/xml/image/image7.png)</td><td>**D1**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/de/xml/image/image8.png)</td><td></td></tr>
+<tr><td></td><td>**BE**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/de/xml/image/image9.png)</td><td></td><td colspan="2"></td><td></td></tr>
+<tr><td></td><td>**CE**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/de/xml/image/image10.png)</td><td>**C1E**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/de/xml/image/image11.png)</td><td></td></tr>
+<tr><td></td><td>**DE**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/de/xml/image/image12.png)</td><td>**D1E**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/de/xml/image/image13.png)</td><td></td></tr>
 <tr><td></td><td colspan="6">EINSCHRÄNKENDE AUFLAGEN<sup>3)</sup></td><td colspan="2"></td></tr>
 </table>
 
@@ -1834,17 +1834,19 @@ Muster 3
 - <sup>5)</sup> Name des Staates.
 - <sup>6)</sup> Siegel oder Stempel der Behörde, welche den Führerschein für ihr Hoheitsgebiet als ungültig erklärt hat. Falls die auf dieser Seite für die Ungültigkeitserklärungen vorgesehenen Felder nicht ausreichen, können weitere Ungültigkeitserklärungen auf der Rückseite eingetragen werden.
 
-Geltungsbereich am 19. Mai 2020**[^t-8]**
+Geltungsbereich am 15. Juli 2022**[^t-8]**
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td>Albanien</td><td>29. Juni</td><td>2000 B</td><td>29. Juni</td><td>2001</td></tr>
 <tr><td>Armenien</td><td>8. Februar</td><td>2005 B</td><td>8. Februar</td><td>2006</td></tr>
 <tr><td>Aserbaidschan</td><td>3. Juli</td><td>2002 B</td><td>3. Juli</td><td>2003</td></tr>
+<tr><td>Äthiopien</td><td>25. August</td><td>2021 B</td><td>25. August</td><td>2022</td></tr>
 <tr><td>Bahamas</td><td>14. Mai</td><td>1991 B</td><td>14. Mai</td><td>1992</td></tr>
 <tr><td>Bahrain</td><td>4. Mai</td><td>1973 B</td><td>21. Mai</td><td>1977</td></tr>
 <tr><td>Belarus\*</td><td>18. Juni</td><td>1974</td><td>21. Mai</td><td>1977</td></tr>
 <tr><td>Belgien\*</td><td>16. November</td><td>1988</td><td>16. November</td><td>1989</td></tr>
+<tr><td>Benin</td><td>7. Juli</td><td>2022 B</td><td>7. Juli</td><td>2023</td></tr>
 <tr><td>Bosnien und Herzegowina</td><td>1. September</td><td>1993 N</td><td>6. März</td><td>1992</td></tr>
 <tr><td>Brasilien\*</td><td>29. Oktober</td><td>1980</td><td>29. Oktober</td><td>1981</td></tr>
 <tr><td>Bulgarien\*</td><td>28. Dezember</td><td>1978</td><td>28. Dezember</td><td>1979</td></tr>
@@ -1858,7 +1860,7 @@ Geltungsbereich am 19. Mai 2020**[^t-8]**
 <tr><td>Georgien</td><td>23. Juli</td><td>1993 B</td><td>23. Juli</td><td>1994</td></tr>
 <tr><td>Griechenland</td><td>18. Dezember</td><td>1986 B</td><td>18. Dezember</td><td>1987</td></tr>
 <tr><td>Guyana</td><td>31. Januar</td><td>1973 B</td><td>21. Mai</td><td>1977</td></tr>
-<tr><td>Honduras</td><td>3. Februar</td><td>2020 B</td><td>3. Februar</td><td>2021</td></tr>
+<tr><td>Honduras\*</td><td>3. Februar</td><td>2020 B</td><td>3. Februar</td><td>2021</td></tr>
 <tr><td>Irak</td><td>1. Februar</td><td>2017 B</td><td>1. Februar</td><td>2018</td></tr>
 <tr><td>Iran</td><td>21. Mai</td><td>1976</td><td>21. Mai</td><td>1977</td></tr>
 <tr><td>Israel\*</td><td>11. Mai</td><td>1971</td><td>21. Mai</td><td>1977</td></tr>
@@ -1888,9 +1890,10 @@ Geltungsbereich am 19. Mai 2020**[^t-8]**
 <tr><td>Nigeria</td><td>18. Oktober</td><td>2018 B</td><td>18. Oktober</td><td>2019</td></tr>
 <tr><td>Nordmazedonien</td><td>18. August</td><td>1993 N</td><td>17. November</td><td>1991</td></tr>
 <tr><td>Norwegen\*</td><td>1. April</td><td>1985</td><td>1. April</td><td>1986</td></tr>
+<tr><td>Oman\*</td><td>9. Juni</td><td>2020 B</td><td>9. Juni</td><td>2021</td></tr>
 <tr><td>Österreich</td><td>11. August</td><td>1981</td><td>11. August</td><td>1982</td></tr>
 <tr><td>Pakistan</td><td>19. März</td><td>1986 B</td><td>19. März</td><td>1987</td></tr>
-<tr><td>Palästina\*</td><td>11. November</td><td>2019 B</td><td>11. November</td><td>2020</td></tr>
+<tr><td>Palästina</td><td>11. November</td><td>2019 B</td><td>11. November</td><td>2020</td></tr>
 <tr><td>Peru</td><td>6. Oktober</td><td>2006 B</td><td>6. Oktober</td><td>2007</td></tr>
 <tr><td>Philippinen</td><td>27. Dezember</td><td>1973</td><td>21. Mai</td><td>1977</td></tr>
 <tr><td>Polen</td><td>23. August</td><td>1984</td><td>23. August</td><td>1985</td></tr>
@@ -1910,7 +1913,7 @@ Geltungsbereich am 19. Mai 2020**[^t-8]**
 <tr><td>Südafrika\*</td><td>1. November</td><td>1977 B</td><td>1. November</td><td>1978</td></tr>
 <tr><td>Tadschikistan</td><td>9. März</td><td>1994 B</td><td>9. März</td><td>1995</td></tr>
 <tr><td>Thailand\*</td><td>1. Mai</td><td>2020</td><td>1. Mai</td><td>2021</td></tr>
-<tr><td>Tschechische Republik\*</td><td>2. Juni</td><td>1993 N</td><td>1. Januar</td><td>1993</td></tr>
+<tr><td>Tschechische Republik</td><td>2. Juni</td><td>1993 N</td><td>1. Januar</td><td>1993</td></tr>
 <tr><td>Tunesien\*</td><td>5. Januar</td><td>2004 B</td><td>5. Januar</td><td>2005</td></tr>
 <tr><td>Türkei\*</td><td>22. Januar</td><td>2013 B</td><td>22. Januar</td><td>2014</td></tr>
 <tr><td>Turkmenistan</td><td>14. Juni</td><td>1993 B</td><td>14. Juni</td><td>1994</td></tr>
@@ -1928,7 +1931,7 @@ Geltungsbereich am 19. Mai 2020**[^t-8]**
 <tr><td colspan="5">\* Vorbehalte und Erklärungen. (Die Erklärungen aller Vertragsstaaten über das gewählte Unterscheidungszeichen der Fahrzeuge im internationalen Verkehr, gemäss Artikel 45 Absatz 4 sind im oben erwähnten Geltungsbereich nicht mit \* aufgeführt). Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden. a Das Übereink. findet keine Anwendung auf die Föröer und Grönland. <sup>b</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-8]: [AS 1993 402](https://fedlex.data.admin.ch/eli/oc/1993/402_402_402), [2004 4111](https://fedlex.data.admin.ch/eli/oc/2004/602), [2006 1881](https://fedlex.data.admin.ch/eli/oc/2006/293), [2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444), [2013 715](https://fedlex.data.admin.ch/eli/oc/2013/140), [2016 553](https://fedlex.data.admin.ch/eli/oc/2016/104), [2018 3031](https://fedlex.data.admin.ch/eli/oc/2018/475), [2019 2251](https://fedlex.data.admin.ch/eli/oc/2019/423), [2020 1871](https://fedlex.data.admin.ch/eli/oc/2020/384). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: www.fedlex.admin.ch/de/treaty.
+[^t-8]: [AS 1993 402](https://fedlex.data.admin.ch/eli/oc/1993/402_402_402), [2004 4111](https://fedlex.data.admin.ch/eli/oc/2004/602), [2006 1881](https://fedlex.data.admin.ch/eli/oc/2006/293), [2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444), [2013 715](https://fedlex.data.admin.ch/eli/oc/2013/140), [2016 553](https://fedlex.data.admin.ch/eli/oc/2016/104), [2018 3031](https://fedlex.data.admin.ch/eli/oc/2018/475), [2019 2251](https://fedlex.data.admin.ch/eli/oc/2019/423), [2020 1871](https://fedlex.data.admin.ch/eli/oc/2020/384); [2022 423](https://fedlex.data.admin.ch/eli/oc/2022/423). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: www.fedlex.admin.ch/de/treaty.
 
 Vorbehalte und Erklärungen
 
@@ -2001,6 +2004,8 @@ Israel IL
 
 Italien I
 
+Kap Verde CV
+
 Kasachstan KZ
 
 Kenia E.A.K
@@ -2014,6 +2019,8 @@ Kroatien HR
 Kuwait KWT
 
 Lettland LV
+
+Liechtenstein FL
 
 Litauen LT
 
@@ -2042,6 +2049,8 @@ Norwegen N
 Österreich A
 
 Pakistan PK
+
+Palästina PS
 
 Philippinen RP
 
@@ -2073,9 +2082,11 @@ Südafrika ZA
 
 Tadschikistan TJ
 
-Tschechische CZ
+Thailand T
 
-Republik Tunesien TN
+Tschechische Republik CZ
+
+Tunesien TN
 
 Turkmenistan TM
 
@@ -2099,4 +2110,4 @@ Vietnam VN
 
 Zentralafrikanische Republik RCA
 
-[^t-11]: [AS 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444), [2013 715](https://fedlex.data.admin.ch/eli/oc/2013/140), [2016 553](https://fedlex.data.admin.ch/eli/oc/2016/104), [2018 3031](https://fedlex.data.admin.ch/eli/oc/2018/475), [2019 2251](https://fedlex.data.admin.ch/eli/oc/2019/423)
+[^t-11]: [AS 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444); [2013 715](https://fedlex.data.admin.ch/eli/oc/2013/140); [2016 553](https://fedlex.data.admin.ch/eli/oc/2016/104); [2018 3031](https://fedlex.data.admin.ch/eli/oc/2018/475); [2019 2251](https://fedlex.data.admin.ch/eli/oc/2019/423); [2022 423](https://fedlex.data.admin.ch/eli/oc/2022/423)

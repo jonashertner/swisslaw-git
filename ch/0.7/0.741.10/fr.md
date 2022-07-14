@@ -3,11 +3,11 @@ sr: "0.741.10"
 title: Convention du 8 novembre 1968 sur la circulation routière (avec annexes)
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/402_402_402"
 language: fr
-version: 2022-07-14
+version: 2022-07-15
 adopted: 1968-11-08
 in_force: 1992-12-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/fr/xml/fedlex-data-admin-ch-eli-cc-1993-402_402_402-20220714-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/402_402_402/20220714/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/fr/xml/fedlex-data-admin-ch-eli-cc-1993-402_402_402-20220715-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/402_402_402/20220715/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 11 décembre 1991
 
 Entrée en vigueur pour la Suisse le 11 décembre 1992
 
-(Etat le 14 juillet 2022)
+(Etat le 15 juillet 2022)
 
 [^t-1]: Art. 1 al. 1 let. a de l’AF du 15 déc. 1978 ([RO 1993 400](https://fedlex.data.admin.ch/eli/oc/1993/400_400_400)).
 
@@ -1718,13 +1718,13 @@ Annexe 6*[^t-6]*
 
 <table>
 <tr><td colspan="2">Code de la catégorie / Pictogramme</td><td colspan="2">Code de la sous-catégorie / Pictogramme</td></tr>
-<tr><td>A</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/fr/xml/image/image1.png)</td><td>A1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/fr/xml/image/image2.png)</td></tr>
-<tr><td>B</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/fr/xml/image/image3.png)</td><td>B1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/fr/xml/image/image4.png)</td></tr>
-<tr><td>C</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/fr/xml/image/image5.png)</td><td>C1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/fr/xml/image/image6.png)</td></tr>
-<tr><td>D</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/fr/xml/image/image7.png)</td><td>D1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/fr/xml/image/image8.png)</td></tr>
-<tr><td>BE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/fr/xml/image/image9.png)</td><td></td><td></td></tr>
-<tr><td>CE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/fr/xml/image/image10.png)</td><td>C1E</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/fr/xml/image/image11.png)</td></tr>
-<tr><td>DE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/fr/xml/image/image12.png)</td><td>D1E</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/fr/xml/image/image13.png)</td></tr>
+<tr><td>A</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/fr/xml/image/image1.png)</td><td>A1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/fr/xml/image/image2.png)</td></tr>
+<tr><td>B</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/fr/xml/image/image3.png)</td><td>B1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/fr/xml/image/image4.png)</td></tr>
+<tr><td>C</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/fr/xml/image/image5.png)</td><td>C1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/fr/xml/image/image6.png)</td></tr>
+<tr><td>D</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/fr/xml/image/image7.png)</td><td>D1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/fr/xml/image/image8.png)</td></tr>
+<tr><td>BE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/fr/xml/image/image9.png)</td><td></td><td></td></tr>
+<tr><td>CE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/fr/xml/image/image10.png)</td><td>C1E</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/fr/xml/image/image11.png)</td></tr>
+<tr><td>DE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/fr/xml/image/image12.png)</td><td>D1E</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/fr/xml/image/image13.png)</td></tr>
 </table>
 
 [^annex6-lvlu1-1]: Le lieu de naissance peut être remplacé par d’autres précisions définies par la législation nationale.
@@ -1771,17 +1771,17 @@ Annexe 7*[^t-7]*
 
 (Verso du premier feuillet de la couverture)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/fr/xml/image/image14.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/fr/xml/image/image14.png)
 
 **Modèle 3** (page de gauche)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/fr/xml/image/image15.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/fr/xml/image/image15.png)
 
 Modèle 3 (page de droite)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220714/fr/xml/image/image16.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/fr/xml/image/image16.png)
 
-Champ d’application le 19 mai 2020**[^t-8]**
+Champ d’application le 15 juillet 2022**[^t-8]**
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th colspan="2"></th><th>Entrée en vigueur</th><th colspan="2"></th></tr>
@@ -1796,27 +1796,29 @@ Champ d’application le 19 mai 2020**[^t-8]**
 <tr><td>Bahreïn</td><td colspan="2">4 mai</td><td>1973 A</td><td>21 mai</td><td colspan="2">1977</td></tr>
 <tr><td>Bélarus\*</td><td colspan="2">18 juin</td><td>1974</td><td>21 mai</td><td colspan="2">1977</td></tr>
 <tr><td>Belgique\*</td><td colspan="2">16 novembre</td><td>1988</td><td>16 novembre</td><td colspan="2">1989</td></tr>
+<tr><td>Bénin</td><td>7 juillet</td><td colspan="2">2022 A</td><td>7 juillet</td><td colspan="2">2023</td></tr>
 <tr><td>Bosnie et Herzégovine</td><td colspan="2">1<sup>er</sup> septembre</td><td>1993 S</td><td>6 mars</td><td colspan="2">1992</td></tr>
 <tr><td>Brésil\*</td><td colspan="2">29 octobre</td><td>1980</td><td>29 octobre</td><td colspan="2">1981</td></tr>
 <tr><td>Bulgarie\*</td><td colspan="2">28 décembre</td><td>1978</td><td colspan="2">28 décembre</td><td colspan="2">1979</td></tr>
 <tr><td>Cabo Verde</td><td colspan="2">12 juin</td><td>2018 A</td><td colspan="2">12 juin</td><td colspan="2">2019</td></tr>
 <tr><td>Congo (Kinshasa) \*</td><td colspan="2">25 juillet</td><td>1977 A</td><td>25 juillet</td><td colspan="2">1978</td></tr>
-<tr><td>Côte d'Ivoire\*</td><td colspan="2">24 juillet</td><td>1985 A</td><td>24 juillet</td><td colspan="2">1986</td></tr>
+<tr><td>Côte d’Ivoire\*</td><td colspan="2">24 juillet</td><td>1985 A</td><td>24 juillet</td><td colspan="2">1986</td></tr>
 <tr><td>Croatie</td><td colspan="2">23 novembre</td><td>1992 S</td><td>8 octobre</td><td colspan="2">1991</td></tr>
 <tr><td>Cuba\*</td><td colspan="2">30 septembre</td><td>1977 A</td><td>30 septembre</td><td colspan="2">1978</td></tr>
 <tr><td>Danemark\* <sup>a</sup></td><td colspan="2">3 novembre</td><td>1986</td><td>3 novembre</td><td colspan="2">1987</td></tr>
 <tr><td>émirats arabes unis</td><td colspan="2">10 janvier</td><td>2007 A</td><td>10 janvier</td><td colspan="2">2008</td></tr>
 <tr><td>Estonie\*</td><td colspan="2">24 août</td><td>1992 A</td><td>24 août</td><td colspan="2">1993</td></tr>
+<tr><td>Éthiopie</td><td>25 août</td><td colspan="2">2021 A</td><td>25 août</td><td colspan="2">2022</td></tr>
 <tr><td>Finlande\*</td><td colspan="2">1<sup>er</sup> avril</td><td>1985</td><td colspan="2">1<sup>er</sup> avril</td><td colspan="2">1986</td></tr>
 <tr><td>France</td><td colspan="2">9 décembre</td><td>1971</td><td>21 mai</td><td colspan="2">1977</td></tr>
-<tr><td>[tab] Territoires d'outre-mer</td><td colspan="2">9 décembre</td><td>1971</td><td>21 mai</td><td colspan="2">1977</td></tr>
+<tr><td>[tab] Territoires d’outre-mer</td><td colspan="2">9 décembre</td><td>1971</td><td>21 mai</td><td colspan="2">1977</td></tr>
 <tr><td>Géorgie</td><td colspan="2">23 juillet</td><td>1993 A</td><td>23 juillet</td><td colspan="2">1994</td></tr>
 <tr><td>Grèce</td><td colspan="2">18 décembre</td><td>1986 A</td><td>18 décembre</td><td colspan="2">1987</td></tr>
 <tr><td>Guyana</td><td colspan="2">31 janvier</td><td>1973 A</td><td>21 mai</td><td colspan="2">1977</td></tr>
-<tr><td>Honduras</td><td colspan="2">3 février</td><td>2020 A</td><td>3 février</td><td colspan="2">2021</td></tr>
+<tr><td>Honduras\*</td><td colspan="2">3 février</td><td>2020 A</td><td>3 février</td><td colspan="2">2021</td></tr>
 <tr><td>Hongrie\*</td><td colspan="2">16 mars</td><td>1976</td><td>21 mai</td><td colspan="2">1977</td></tr>
-<tr><td>Iraq</td><td colspan="2">1<sup>er</sup> février</td><td>2017 A</td><td>1<sup>er</sup> février</td><td colspan="2">2018</td></tr>
 <tr><td>Iran</td><td colspan="2">21 mai</td><td>1976</td><td>21 mai</td><td colspan="2">1977</td></tr>
+<tr><td>Iraq</td><td colspan="2">1<sup>er</sup> février</td><td>2017 A</td><td>1<sup>er</sup> février</td><td colspan="2">2018</td></tr>
 <tr><td>Israël\*</td><td colspan="2">11 mai</td><td>1971</td><td>21 mai</td><td colspan="2">1977</td></tr>
 <tr><td>Italie</td><td colspan="2">2 octobre</td><td>1996</td><td>2 octobre</td><td colspan="2">1997</td></tr>
 <tr><td>Kazakhstan</td><td colspan="2">4 avril</td><td>1994 A</td><td>4 avril</td><td colspan="2">1995</td></tr>
@@ -1831,16 +1833,17 @@ Champ d’application le 19 mai 2020**[^t-8]**
 <tr><td>Macédoine du Nord</td><td>18 août</td><td colspan="2">1993 S</td><td>17 novembre</td><td colspan="2">1991</td></tr>
 <tr><td>Maroc\*</td><td colspan="2">29 décembre</td><td>1982 A</td><td>29 décembre</td><td colspan="2">1983</td></tr>
 <tr><td>Moldova</td><td colspan="2">26 mai</td><td>1993 A</td><td>26 mai</td><td colspan="2">1994</td></tr>
-<tr><td>Monaco<sup>\*</sup></td><td colspan="2">6 juin</td><td>1978 A</td><td>6 juin</td><td colspan="2">1979</td></tr>
+<tr><td>Monaco\*</td><td colspan="2">6 juin</td><td>1978 A</td><td>6 juin</td><td colspan="2">1979</td></tr>
 <tr><td>Mongolie</td><td colspan="2">19 décembre</td><td>1997 A</td><td>19 décembre</td><td colspan="2">1998</td></tr>
 <tr><td>Monténégro</td><td colspan="2">23 octobre</td><td>2006 S</td><td>3 juin</td><td colspan="2">2006</td></tr>
 <tr><td>Myanmar\*</td><td colspan="2">26 juin</td><td>2019 A</td><td>26 juin</td><td colspan="2">2010</td></tr>
 <tr><td>Niger</td><td colspan="2">11 juillet</td><td>1975 A</td><td>21 mai</td><td colspan="2">1977</td></tr>
 <tr><td>Nigéria</td><td colspan="2">18 octobre</td><td>2018 A</td><td>18 octobre</td><td colspan="2">2019</td></tr>
 <tr><td>Norvège\*</td><td colspan="2">1<sup>er</sup> avril</td><td>1985</td><td>1<sup>er</sup> avril</td><td colspan="2">1986</td></tr>
+<tr><td>Oman\*</td><td>9 juin</td><td colspan="2">2020 A</td><td>9 juin</td><td colspan="2">2021</td></tr>
 <tr><td>Ouzbékistan</td><td colspan="2">17 janvier</td><td>1995 A</td><td>17 janvier</td><td colspan="2">1996</td></tr>
 <tr><td>Pakistan</td><td colspan="2">19 mars</td><td>1986 A</td><td>19 mars</td><td colspan="2">1987</td></tr>
-<tr><td>Palestine\*</td><td colspan="2">11 novembre</td><td>2019 A</td><td>11 novembre</td><td colspan="2">2020</td></tr>
+<tr><td>Palestine</td><td colspan="2">11 novembre</td><td>2019 A</td><td>11 novembre</td><td colspan="2">2020</td></tr>
 <tr><td>Pays-Bas\* <sup>b</sup></td><td>8 novembre</td><td colspan="2">2007 A</td><td>8 novembre</td><td colspan="2">2008</td></tr>
 <tr><td>Pérou</td><td colspan="2">6 octobre</td><td>2006 A</td><td>6 octobre</td><td colspan="2">2007</td></tr>
 <tr><td>Philippines</td><td colspan="2">27 décembre</td><td>1973</td><td>21 mai</td><td colspan="2">1977</td></tr>
@@ -1848,7 +1851,7 @@ Champ d’application le 19 mai 2020**[^t-8]**
 <tr><td>Portugal</td><td>30 septembre</td><td colspan="2">2010</td><td>30 octobre</td><td colspan="2">2011</td></tr>
 <tr><td>Qatar\*</td><td>6 mars</td><td colspan="2">2013 A</td><td>6 mars</td><td colspan="2">2014</td></tr>
 <tr><td>République centrafricaine</td><td colspan="2">3 février</td><td>1988 A</td><td>3 février</td><td colspan="2">1989</td></tr>
-<tr><td>République tchèque\*</td><td colspan="2">2 juin</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td colspan="2">1993</td></tr>
+<tr><td>République tchèque</td><td colspan="2">2 juin</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td colspan="2">1993</td></tr>
 <tr><td>Roumanie\*</td><td colspan="2">9 décembre</td><td>1981</td><td>9 décembre</td><td colspan="2">1981</td></tr>
 <tr><td>Royaume-Uni\*</td><td colspan="2">28 mars</td><td>2018</td><td>28 mars</td><td colspan="2">2019</td></tr>
 <tr><td>Gibraltar\*</td><td colspan="2">26 février</td><td>2019</td><td>31 mars</td><td colspan="2">2019</td></tr>
@@ -1872,12 +1875,10 @@ Champ d’application le 19 mai 2020**[^t-8]**
 <tr><td>Uruguay\*</td><td colspan="2">8 avril</td><td>1981 A</td><td>8 avril</td><td colspan="2">1982</td></tr>
 <tr><td>Vietnam\*</td><td colspan="2">20 août</td><td>2014 A</td><td>20 août</td><td colspan="2">2015</td></tr>
 <tr><td>Zimbabwe\*</td><td colspan="2">31 juillet</td><td>1981 A</td><td>31 juillet</td><td colspan="2">1982</td></tr>
-<tr><td colspan="7">\* Réserves et déclarations. (les \* de tous les États parties concernant le signe distinctif des véhicules en circulation internationale, selon l’art. 45, par. 4, ne figurent pas dans le champ d’application ci-dessus). Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus à la Direction du droit internationalpublic (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
-<tr><td colspan="7"><sup>a</sup> La Convention ne s’applique pas aux îles Féroé et au Groenland.</td></tr>
-<tr><td colspan="7"><sup>b</sup> Pour le Royaume en Europe.</td></tr>
+<tr><td colspan="7">\* Réserves et déclarations. (les \* de tous les États parties concernant le signe distinctif des véhicules en circulation internationale, selon l’art. 45, par. 4, ne figurent pas dans le champ d’application ci-dessus). Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus à la Direction du droit internationalpublic (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La Convention ne s’applique pas aux îles Féroé et au Groenland. <sup>b</sup> Pour le Royaume en Europe.</td></tr>
 </table>
 
-[^t-8]: [RO 1993 402](https://fedlex.data.admin.ch/eli/oc/1993/402_402_402); [2004 4111](https://fedlex.data.admin.ch/eli/oc/2004/602); [2006 1881](https://fedlex.data.admin.ch/eli/oc/2006/293); [2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444); [2013 715](https://fedlex.data.admin.ch/eli/oc/2013/140); [2016 553](https://fedlex.data.admin.ch/eli/oc/2016/104); [2018 3031](https://fedlex.data.admin.ch/eli/oc/2018/475); [2019 2251](https://fedlex.data.admin.ch/eli/oc/2019/423); [2020 1871](https://fedlex.data.admin.ch/eli/oc/2020/384). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: www.fedlex.admin.ch/fr/treaty
+[^t-8]: [RO 1993 402](https://fedlex.data.admin.ch/eli/oc/1993/402_402_402); [2004 4111](https://fedlex.data.admin.ch/eli/oc/2004/602); [2006 1881](https://fedlex.data.admin.ch/eli/oc/2006/293); [2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444); [2013 715](https://fedlex.data.admin.ch/eli/oc/2013/140); [2016 553](https://fedlex.data.admin.ch/eli/oc/2016/104); [2018 3031](https://fedlex.data.admin.ch/eli/oc/2018/475); [2019 2251](https://fedlex.data.admin.ch/eli/oc/2019/423); [2020 1871](https://fedlex.data.admin.ch/eli/oc/2020/384); [2022 423](https://fedlex.data.admin.ch/eli/oc/2022/423). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: www.fedlex.admin.ch/fr/treaty
 
 Réserves et déclarations
 
@@ -1918,9 +1919,10 @@ Signe distinctif des véhicules en circulation internationale**[^t-11]**
 <tr><td>Bahreïn</td><td>BRN</td><td>Norvège</td><td>N</td></tr>
 <tr><td>Bélarus</td><td>BY</td><td>Ouzbékistan</td><td>UZ</td></tr>
 <tr><td>Belgique</td><td>B</td><td>Pakistan</td><td>PK</td></tr>
-<tr><td>Bosnie et Herzégovine</td><td>BIH</td><td>Pays-Bas</td><td>NL</td></tr>
-<tr><td>Brésil</td><td>BR</td><td>Philippines</td><td>RP</td></tr>
-<tr><td>Bulgarie</td><td>BG</td><td>Pologne</td><td>PL</td></tr>
+<tr><td>Bosnie et Herzégovine</td><td>BIH</td><td>Palestine</td><td>PS</td></tr>
+<tr><td>Brésil</td><td>BR</td><td>Pays-Bas</td><td>NL</td></tr>
+<tr><td>Bulgarie</td><td>BG</td><td>Philippines</td><td>RP</td></tr>
+<tr><td>Cap-Vert</td><td>CV</td><td>Pologne</td><td>PL</td></tr>
 <tr><td>Congo (Kinshasa)</td><td>ZRE</td><td>République Centrafricaine</td><td>RCA</td></tr>
 <tr><td>Côte d’Ivoire</td><td>CI</td><td>République tchèque</td><td>CZ</td></tr>
 <tr><td>Croatie</td><td>HR</td><td>Roumanie</td><td>RO</td></tr>
@@ -1938,12 +1940,13 @@ Signe distinctif des véhicules en circulation internationale**[^t-11]**
 <tr><td>Kazakhstan</td><td>KZ</td><td>Suède</td><td>S</td></tr>
 <tr><td>Kenya</td><td>E.A.K.</td><td>Suisse</td><td>CH</td></tr>
 <tr><td>Kirghizistan</td><td>KG</td><td>Tadjikistan</td><td>TJ</td></tr>
-<tr><td>Koweït</td><td>KWT</td><td>Tunisie</td><td>TN</td></tr>
-<tr><td>Lettonie</td><td>LV</td><td>Turkménistan</td><td>TM</td></tr>
+<tr><td>Koweït</td><td>KWT</td><td>Thaïlande</td><td>T</td></tr>
+<tr><td>Lettonie</td><td>LV</td><td>Tunisie</td><td>TN</td></tr>
+<tr><td>Liechtenstein</td><td>FL</td><td>Turkménistan</td><td>TM</td></tr>
 <tr><td>Lituanie</td><td>LT</td><td>Ukraine</td><td>UA</td></tr>
 <tr><td>Luxembourg</td><td>L</td><td>Uruguay</td><td>ROU</td></tr>
 <tr><td>Macédoine du Nord</td><td>MK</td><td>Vietnam</td><td>VN</td></tr>
 <tr><td>Maroc</td><td>MA</td><td>Zimbabwe</td><td>ZW</td></tr>
 </table>
 
-[^t-11]: RO **2007** 3615; [2013 715](https://fedlex.data.admin.ch/eli/oc/2013/140); [2016 553](https://fedlex.data.admin.ch/eli/oc/2016/104); [2018 3031](https://fedlex.data.admin.ch/eli/oc/2018/475); [2019 2251](https://fedlex.data.admin.ch/eli/oc/2019/423).
+[^t-11]: RO **2007** 3615; [2013 715](https://fedlex.data.admin.ch/eli/oc/2013/140); [2016 553](https://fedlex.data.admin.ch/eli/oc/2016/104); [2018 3031](https://fedlex.data.admin.ch/eli/oc/2018/475); [2019 2251](https://fedlex.data.admin.ch/eli/oc/2019/423); [2022 423](https://fedlex.data.admin.ch/eli/oc/2022/423).
