@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung der Bankenverordnung
 document: Vernehmlassungsvorlage
 language: de
