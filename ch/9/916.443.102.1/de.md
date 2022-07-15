@@ -3,18 +3,18 @@ sr: "916.443.102.1"
 title: Verordnung des BLV vom 15. Oktober 2021 über Massnahmen zur Verhinderung der Einschleppung der Aviären Influenza aus bestimmten Mitgliedstaaten der Europäischen Union sowie Nordirland
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/615"
 language: de
-version: 2022-07-02
+version: 2022-07-16
 adopted: 2021-10-15
 in_force: 2021-10-19
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/615/20220702/de/xml/fedlex-data-admin-ch-eli-cc-2021-615-20220702-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/615/20220702/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/615/20220716/de/xml/fedlex-data-admin-ch-eli-cc-2021-615-20220716-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/615/20220716/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des BLV über Massnahmen zur Verhinderung der Einschleppung der Aviären Influenza aus bestimmten Mitgliedstaaten der Europäischen Union****
 
-vom 15. Oktober 2021 (Stand am 2. Juli 2022)[^t-1]
+vom 15. Oktober 2021 (Stand am 16. Juli 2022)[^t-1]
 
 [^t-1]: Fassung gemäss Ziff. I der V des BLV vom 7. April 2022, in Kraft seit 9. April 2022 ([AS 2022 224](https://fedlex.data.admin.ch/eli/oc/2022/224)).
 
@@ -91,7 +91,7 @@ Anhang*[^t-2]*
 
 ## Betroffene Gebiete und Sperrzonen
 
-[^t-2]: Fassung gemäss Ziff. I der V des BLV vom 30. Juni 2022, in Kraft seit 2. Juli 2022 ([AS 2022 389](https://fedlex.data.admin.ch/eli/oc/2022/389)).
+[^t-2]: Fassung gemäss Ziff. I der V des BLV vom 30. Juni 2022 ([AS 2022 389](https://fedlex.data.admin.ch/eli/oc/2022/389)). Bereinigt gemäss Ziff. I der V des BLV vom 14. Juli 2022, in Kraft seit 16. Juli 2022 ([AS 2022 412](https://fedlex.data.admin.ch/eli/oc/2022/412)).
 
 ### 1 Sperrzonen in den betroffenen Mitgliedstaaten der EU
 
@@ -99,7 +99,7 @@ Die betroffenen Mitgliedstaaten der EU sowie die dort festgelegten Sperrzonen we
 
 <table>
 <tr><td>EU-Grunderlass</td><td>Titel und Publikationsdatum des Grunderlasses sowie Änderungserlasse mit Publikationsdaten</td></tr>
-<tr><td>Durchführungsbeschluss (EU) 2021/641</td><td>Durchführungsbeschluss (EU) 2021/641 der Kommission vom 16. April 2021 betreffend Sofortmassnahmen im Zusammenhang mit Ausbrüchen der hochpathogenen Aviären Influenza in bestimmten Mitgliedstaaten, ABl. L 134 vom 20.4.2021, S. 166; zuletzt geändert durch Durchführungsbeschluss (EU) 2022/963, ABl. L 165 vom 21.6.2022, S. 47</td></tr>
+<tr><td>Durchführungsbeschluss (EU) 2021/641</td><td>Durchführungsbeschluss (EU) 2021/641 der Kommission vom 16. April 2021 betreffend Sofortmassnahmen im Zusammenhang mit Ausbrüchen der hochpathogenen Aviären Influenza in bestimmten Mitgliedstaaten, ABl. L 134 vom 20.4.2021, S. 166; zuletzt geändert durch Durchführungsbeschluss (EU) 2022/1021, ABl. L 170 vom 28.6.2022, S. 85</td></tr>
 </table>
 
 ### 2 Betroffene Mitgliedstaaten der EU
