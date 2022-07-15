@@ -4,11 +4,11 @@ title: "Ordonnance du 10 janvier 2001 sur la mise en circulation des engrais (Or
 short: OEng
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/105"
 language: fr
-version: 2022-01-01
+version: 2022-07-16
 adopted: 2001-01-10
 in_force: 2001-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/105/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2001-105-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/105/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/105/20220716/fr/xml/fedlex-data-admin-ch-eli-cc-2001-105-20220716-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/105/20220716/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/105/20220101/fr"
 
 (Ordonnance sur les engrais, OEng)
 
-du 10 janvier 2001 (Etat le 1<sup>er</sup> janvier 2022)
+du 10 janvier 2001 (Etat le 16 juillet 2022)
 
 Le Conseil fédéral suisse,
 
@@ -53,7 +53,7 @@ L’ordonnance ne s’applique pas:
 [^1-2]: Nouvelle teneur selon le ch. I de l’O du 14 nov. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835)).
 [^1-3]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
 [^1-4]: [RS 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
-[^1-5]: Nouvelle teneur selon le ch. 7 de l’annexe 6 de l’O du 5 juin 2015 sur les produits chimiques, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)).
+[^1-5]: Nouvelle teneur selon l’annexe 6 ch. 7 de l’O du 5 juin 2015 sur les produits chimiques, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)).
 [^1-6]: Introduite par le ch. I de l’O du 31 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4205](https://fedlex.data.admin.ch/eli/oc/2018/681)).
 
 #### Art. 2
@@ -89,7 +89,7 @@ Un engrais ne peut être homologué qu’aux conditions suivantes:
 [^3-1]: Introduite par le ch. II 18 de l’O du 18 mai 2005, en vigueur depuis le 1<sup>er</sup> août 2005 ([RO 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)).
 [^3-2]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
 [^3-3]: [RS 451.61](https://fedlex.data.admin.ch/eli/cc/2016/39)
-[^3-4]: Introduit par le ch. 8 de l’annexe à l’O de Nagoya du 11 déc. 2015, en vigueur depuis le 1<sup>er</sup> fév. 2016 ([RO 2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)).
+[^3-4]: Introduit par l’annexe ch. 8 de l’O de Nagoya du 11 déc. 2015, en vigueur depuis le 1<sup>er</sup> fév. 2016 ([RO 2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)).
 
 #### Art. 4
 
@@ -205,7 +205,7 @@ Au sens de la présente ordonnance, on entend par:
 - g. *emballage:* le réceptacle scellable utilisé pour conserver, protéger, manutentionner et distribuer des engrais;
 - h. *livraison en vrac:* la livraison d’engrais sans emballage.[^5-11]
 
-[^5-1]: Nouvelle teneur selon le ch. 3 de l’annexe à l’O du 26 mars 2003, en vigueur depuis le 1<sup>er</sup> mai 2003 ([RO 2003 940](https://fedlex.data.admin.ch/eli/oc/2003/171)).
+[^5-1]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 26 mars 2003, en vigueur depuis le 1<sup>er</sup> mai 2003 ([RO 2003 940](https://fedlex.data.admin.ch/eli/oc/2003/171)).
 [^5-2]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3971](https://fedlex.data.admin.ch/eli/oc/2013/724)).
 [^5-3]: Nouvelle teneur selon le ch. I de l’O du 14 nov. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835)).
 [^5-4]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3971](https://fedlex.data.admin.ch/eli/oc/2013/724)).
@@ -254,7 +254,7 @@ Les engrais des catégories mentionnées ci-après peuvent être mis en circulat
 
 <sup>5</sup> Lorsque de nouvelles connaissances démontrent que, malgré une utilisation conforme aux prescriptions, un engrais inscrit sur la liste a des effets secondaires néfastes inadmissibles ou qu’il présente des risques pour l’environnement et, partant, pour l’être humain, ou encore qu’il n’est pas garanti que les denrées alimentaires et les objets usuels fabriqués à partir de produits de base traités avec ces matières satisfont aux exigences de la législation sur les denrées alimentaires, l’OFAG peut fixer temporairement des exigences supplémentaires pour cet engrais ou annuler l’homologation pour la mise en circulation.
 
-[^7-1]: Nouvelle teneur selon le ch. 3 de l’annexe à l’O du 26 mars 2003, en vigueur depuis le 1<sup>er</sup> mai 2003 ([RO 2003 940](https://fedlex.data.admin.ch/eli/oc/2003/171)).
+[^7-1]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 26 mars 2003, en vigueur depuis le 1<sup>er</sup> mai 2003 ([RO 2003 940](https://fedlex.data.admin.ch/eli/oc/2003/171)).
 [^7-2]: Introduite par le ch. I de l’O du 14 nov. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835)).
 
 #### Art. 8
@@ -287,7 +287,7 @@ Un type d’engrais est inscrit sur la liste:
 <sup>4</sup> Ces dispositions sont sans préjudice des règles du droit de la concurrence et du droit de la propriété intellectuelle.
 
 [^8-1]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3971](https://fedlex.data.admin.ch/eli/oc/2013/724)).
-[^8-2]: Introduite par le ch. II 3 de l’annexe 8 à l’O du 25 mai 2011 concernant l’élimination des sous-produits animaux ([RO 2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)). Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3971](https://fedlex.data.admin.ch/eli/oc/2013/724)).
+[^8-2]: Introduite par l’annexe 8 ch. II 3 de l’O du 25 mai 2011 concernant l’élimination des sous-produits animaux ([RO 2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)). Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3971](https://fedlex.data.admin.ch/eli/oc/2013/724)).
 
 #### Art. 9
 
@@ -356,7 +356,7 @@ L’OFAG peut en tout temps subordonner une autorisation à des conditions et de
 
 [^11-1]: Nouvelle teneur selon le ch. I de l’O du 14 nov. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835)).
 [^11-2]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
-[^11-3]: Nouvelle teneur selon le ch. 12 de l’annexe 5 à l’O du 10 sept. 2008 sur la dissémination dans l’environnement, en vigueur depuis le 1<sup>er</sup> oct. 2008 ([RO 2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)).
+[^11-3]: Nouvelle teneur selon l’annexe 5 ch. 12 de l’O du 10 sept. 2008 sur la dissémination dans l’environnement, en vigueur depuis le 1<sup>er</sup> oct. 2008 ([RO 2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)).
 [^11-4]: Nouvelle teneur selon le ch. I de l’O du 14 nov. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835)).
 [^11-5]: Introduit par le ch. I de l’O du 14 nov. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835)).
 
@@ -376,7 +376,7 @@ L’OFAG peut accorder, avant la fin de la procédure d’autorisation et pendan
 
 [^12-1]: Introduite par le ch. I de l’O du 31 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4205](https://fedlex.data.admin.ch/eli/oc/2018/681)).
 [^12-2]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
-[^12-3]: Nouvelle teneur selon le ch. 12 de l’annexe 5 à l’O du 10 sept. 2008 sur la dissémination dans l’environnement, en vigueur depuis le 1<sup>er</sup> oct. 2008 ([RO 2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)).
+[^12-3]: Nouvelle teneur selon l’annexe 5 ch. 12 de l’O du 10 sept. 2008 sur la dissémination dans l’environnement, en vigueur depuis le 1<sup>er</sup> oct. 2008 ([RO 2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)).
 
 #### Art. 13
 
@@ -453,7 +453,7 @@ Sauf exigences spéciales, le dossier accompagnant la demande doit contenir au m
 [^16-2]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
 [^16-3]: Nouvelle teneur selon le ch. I de l’O du 14 nov. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835)).
 [^16-4]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
-[^16-5]: Nouvelle teneur selon le ch. 12 de l’annexe 5 à l’O du 10 sept. 2008 sur la dissémination dans l’environnement, en vigueur depuis le 1<sup>er</sup> oct. 2008 ([RO 2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)).
+[^16-5]: Nouvelle teneur selon l’annexe 5 ch. 12 de l’O du 10 sept. 2008 sur la dissémination dans l’environnement, en vigueur depuis le 1<sup>er</sup> oct. 2008 ([RO 2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)).
 
 #### Art. 17
 
@@ -477,9 +477,9 @@ Il renonce à ces essais ou à ces relevés et statue sur la base des pièces ju
 <sup>3</sup> Lorsque l’engrais consiste en des organismes génétiquement modifiés ou pathogènes ou qu’il contient de tels organismes, l’OFAG ne procède aux essais sur le terrain qui sont éventuellement nécessaires à l’octroi de l’autorisation que si les exigences de l’ordonnance du 10 septembre 2008 sur la dissémination dans l’environnement[^18-3] sont satisfaites. [^18-4]
 
 [^18-1]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
-[^18-2]: Nouvelle teneur selon le ch. 7 de l’annexe 6 de l’O du 5 juin 2015 sur les produits chimiques, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)).
+[^18-2]: Nouvelle teneur selon l’annexe 6 ch. 7 de l’O du 5 juin 2015 sur les produits chimiques, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)).
 [^18-3]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
-[^18-4]: Nouvelle teneur selon le ch. 12 de l’annexe 5 à l’O du 10 sept. 2008 sur la dissémination dans l’environnement, en vigueur depuis le 1<sup>er</sup> oct. 2008 ([RO 2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)).
+[^18-4]: Nouvelle teneur selon l’annexe 5 ch. 12 de l’O du 10 sept. 2008 sur la dissémination dans l’environnement, en vigueur depuis le 1<sup>er</sup> oct. 2008 ([RO 2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)).
 
 ## Chapitre 3 Annonce
 
@@ -560,7 +560,7 @@ L’annonce doit contenir les indications suivantes:
 
 <sup>3</sup> Les établissements autorisés doivent satisfaire non seulement aux exigences de la présente ordonnance mais aussi à celles de l’ordonnance du 25 mai 2011 concernant l’élimination des sous-produits animaux[^21b-2].
 
-[^21b-1]: Introduit par le ch. II 3 de l’annexe 8 à l’O du 25 mai 2011 concernant l’élimination des sous-produits animaux, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)).
+[^21b-1]: Introduit par l’annexe 8 ch. II 3 de l’O du 25 mai 2011 concernant l’élimination des sous-produits animaux, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)).
 [^21b-2]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
 
 ## Chapitre 4 Importation
@@ -620,11 +620,20 @@ Le nom et l’adresse de l’entreprise responsable de la mise en circulation ou
 <sup>6</sup> Le DEFR règle les indications spécifiques supplémentaires concernant les différents types d’engrais.
 
 [^23-1]: Nouvelle teneur selon le ch. I de l’O du 14 nov. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835)).
-[^23-2]: Nouvelle teneur selon le ch. 7 de l’annexe 6 de l’O du 5 juin 2015 sur les produits chimiques, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)).
-[^23-3]: Nouvelle teneur selon le ch. 7 de l’annexe 6 de l’O du 5 juin 2015 sur les produits chimiques, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)).
+[^23-2]: Nouvelle teneur selon l’annexe 6 ch. 7 de l’O du 5 juin 2015 sur les produits chimiques, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)).
+[^23-3]: Nouvelle teneur selon l’annexe 6 ch. 7 de l’O du 5 juin 2015 sur les produits chimiques, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)).
 [^23-4]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
-[^23-5]: Introduit par le ch. 3 de l’annexe à l’O du 19 mai 2010 sur la mise sur le marché de produits fabriqués selon des prescriptions étrangères, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2631](https://fedlex.data.admin.ch/eli/oc/2010/350)).
+[^23-5]: Introduit par l’annexe ch. 3 de l’O du 19 mai 2010 sur la mise sur le marché de produits fabriqués selon des prescriptions étrangères, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2631](https://fedlex.data.admin.ch/eli/oc/2010/350)).
 [^23-6]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3971](https://fedlex.data.admin.ch/eli/oc/2013/724)).
+
+#### Art. 23a
+
+**Étiquetage prévu par le règlement (UE) 2019/1009**[^23a-1]
+
+À la place de l'étiquetage prévu à l’art. 23 et par les dispositions que le DEFR a édictées en vertu de l'art. 23, al. 6, l’étiquetage des engrais prévu par les prescriptions du règlement (UE) 2019/1009[^23a-2] est admis.
+
+[^23a-1]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 16 juil. 2022 ([RO 2021 686](https://fedlex.data.admin.ch/eli/oc/2021/686)).
+[^23a-2]: Règlement (UE) 2019/1009 du parlement européen et du Conseil du 5 juin 2019 établissant les règles relatives à la mise à disposition sur le marché des fertilisants UE, modifiant les règlements (CE) n<sup>o</sup> 1069/2009 et (CE) n<sup>o</sup> 1107/2009 et abrogeant le règlement (CE) n<sup>o</sup> 2003/2003, version du JO L 170 du 25.6.2019 p. 1.
 
 #### Art. 24
 
@@ -721,7 +730,7 @@ Le mode d’emploi ne doit pas contenir d’indications ou de remarques qui:
 <sup>2</sup> En accord avec les autres offices participant à la procédure d’homologation, l’OFAG peut accorder exceptionnellement des dérogations à l’obligation de déclaration pour des engrais contenant, indépendamment de la volonté du fabricant ou de l’importateur, des traces d’organismes génétiquement modifiés autorisés, à raison de moins de 0,1 % masse. [^25-2]
 
 [^25-1]: Nouvelle teneur selon le ch. I 7 de l’O du 19 nov. 2003 (Génie génétique), en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4793](https://fedlex.data.admin.ch/eli/oc/2003/703)).
-[^25-2]: Nouvelle teneur selon le ch. 12 de l’annexe 5 à l’O du 10 sept. 2008 sur la dissémination dans l’environnement, en vigueur depuis le 1<sup>er</sup> oct. 2008 ([RO 2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)).
+[^25-2]: Nouvelle teneur selon l’annexe 5 ch. 12 de l’O du 10 sept. 2008 sur la dissémination dans l’environnement, en vigueur depuis le 1<sup>er</sup> oct. 2008 ([RO 2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)).
 
 #### Art. 26
 
@@ -787,7 +796,7 @@ Les entreprises et les personnes qui fabriquent ou mettent en circulation des en
 [^30-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 [^30-2]: Nouvelle teneur selon le ch. II 18 de l’O du 18 mai 2005 , en vigueur depuis le 1<sup>er</sup> août 2005 ([RO 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)).
 [^30-3]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
-[^30-4]: Nouvelle teneur selon le ch. 12 de l’annexe 5 à l’O du 10 sept. 2008 sur la dissémination dans l’environnement, en vigueur depuis le 1<sup>er</sup> oct. 2008 ([RO 2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)).
+[^30-4]: Nouvelle teneur selon l’annexe 5 ch. 12 de l’O du 10 sept. 2008 sur la dissémination dans l’environnement, en vigueur depuis le 1<sup>er</sup> oct. 2008 ([RO 2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)).
 [^30-5]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
 [^30-6]: Introduit par le ch. II 18 de l’O du 18 mai 2005 , en vigueur depuis le 1<sup>er</sup> août 2005 ([RO 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)).
 
@@ -851,7 +860,7 @@ Il peut autoriser, pour une durée limitée, la remise de compost ou de digestat
 
 L’ordonnance du 26 janvier 1994 sur la mise dans le commerce des engrais et des produits assimilés aux engrais[^33-1] est abrogée.
 
-[^33-1]: [[RO 1994 700](https://fedlex.data.admin.ch/eli/oc/1994/700_700_700), [1999 303](https://fedlex.data.admin.ch/eli/oc/1999/35)ch. I 14 [2748](https://fedlex.data.admin.ch/eli/oc/1999/442)annexe 5 ch. 5]
+[^33-1]: [[RO 1994 700](https://fedlex.data.admin.ch/eli/oc/1994/700_700_700); [1999 303](https://fedlex.data.admin.ch/eli/oc/1999/35)ch. I 14, [2748](https://fedlex.data.admin.ch/eli/oc/1999/442)annexe 5 ch. 5]
 
 #### Art. 34
 
@@ -861,13 +870,9 @@ La modification du droit en vigueur est réglée dans l’annexe.
 
 #### Art. 35
 
-**Dispositions transitoires concernant la modification du 14 novembre 2007**[^35-1]
+[^35-1]
 
-<sup>1</sup> Les engrais homologués selon l’ancien droit peuvent être vendus ou remis gratuitement selon l’ancien droit jusqu’au 31 décembre 2010.
-
-<sup>2</sup> Les autorisations délivrées avant l’entrée en vigueur de la modification du 14 novembre 2007 restent valables jusqu’au 31 décembre 2017.
-
-[^35-1]: Nouvelle teneur selon le ch. I de l’O du 14 nov. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835)).
+[^35-1]: Abrogé par le ch. I de l’O du 3 nov. 2021, avec effet au 16 juil. 2022 ([RO 2021 686](https://fedlex.data.admin.ch/eli/oc/2021/686)).
 
 #### Art. 35a
 

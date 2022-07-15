@@ -4,11 +4,11 @@ title: "Ordinanza del 10 gennaio 2001 sulla messa in commercio di concimi (Ordin
 short: OCon
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/105"
 language: it
-version: 2022-01-01
+version: 2022-07-16
 adopted: 2001-01-10
 in_force: 2001-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/105/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2001-105-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/105/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/105/20220716/it/xml/fedlex-data-admin-ch-eli-cc-2001-105-20220716-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/105/20220716/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/105/20220101/it"
 
 (Ordinanza sui concimi, OCon)
 
-del 10 gennaio 2001 (Stato 1° gennaio 2022)
+del 10 gennaio 2001 (Stato 16 luglio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -629,6 +629,15 @@ Il nome e l’indirizzo della ditta responsabile per la messa in commercio o l�
 [^23-5]: Introdotto dall’all. n. 3 dell’O del 19 mag. 2010 sull’immissione in commercio di prodotti conformi a prescrizioni tecniche estere, in vigore dal 1° lug. 2010 ([RU 2010 2631](https://fedlex.data.admin.ch/eli/oc/2010/350)).
 [^23-6]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3971](https://fedlex.data.admin.ch/eli/oc/2013/724)).
 
+#### Art. 23a
+
+**Etichettatura prevista dal regolamento (UE) 2019/1009**[^23a-1]
+
+In sostituzione dell’etichettatura prevista all’articolo 23 e conformemente alle disposizioni emanate dal DEFR in virtù dell’articolo 23 capoverso 6, è consentita l’etichettatura dei concimi prevista dalle prescrizioni del regolamento (UE) 2019/1009[^23a-2].
+
+[^23a-1]: Introdotto dal n. I dell’O del 3 nov. 2021, in vigore dal 16 lug. 2022 ([RU 2021 686](https://fedlex.data.admin.ch/eli/oc/2021/686)).
+[^23a-2]: Regolamento (UE) 2019/1009 del Parlamento europeo e del Consiglio, del 5 giugno 2019, che stabilisce norme relative alla messa a disposizione sul mercato di prodotti fertilizzanti dell’UE, che modifica i regolamenti (CE) n. 1069/2009 e (CE) n. 1107/2009 e che abroga il regolamento (CE) n. 2003/2003, versione della GU L 170 del 25.6.2019, pag. 1.
+
 #### Art. 24
 
 **Etichettatura di prodotti della fermentazione e del compostaggio**[^24-1]
@@ -864,13 +873,9 @@ La modifica del diritto vigente è disciplinata nell’allegato.
 
 #### Art. 35
 
-**Disposizioni transitorie relative alla modifica del 14 novembre 2007**[^35-1]
+[^35-1]
 
-<sup>1</sup> I concimi omologati in base al diritto previgente possono essere venduti o ceduti gratuitamente secondo il diritto previgente fino al 31 dicembre 2010.
-
-<sup>2</sup> Le autorizzazioni concesse prima dell’entrata in vigore della modifica del 14 novembre 2007 mantengono la loro validità fino al 31 dicembre 2017.
-
-[^35-1]: Nuovo testo giusta il n. I dell’O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835)).
+[^35-1]: Abrogato dal n. I dell’O del 3 nov. 2021, con effetto dal 16 lug. 2022 ([RU 2021 686](https://fedlex.data.admin.ch/eli/oc/2021/686)).
 
 #### Art. 35a
 

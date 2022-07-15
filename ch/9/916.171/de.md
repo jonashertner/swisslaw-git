@@ -4,11 +4,11 @@ title: "Verordnung vom 10. Januar 2001 über das Inverkehrbringen von Düngern (
 short: DüV
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/105"
 language: de
-version: 2022-01-01
+version: 2022-07-16
 adopted: 2001-01-10
 in_force: 2001-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/105/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2001-105-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/105/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/105/20220716/de/xml/fedlex-data-admin-ch-eli-cc-2001-105-20220716-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/105/20220716/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/105/20220101/de"
 
 (Dünger-Verordnung, DüV)
 
-vom 10. Januar 2001 (Stand am 1. Januar 2022)
+vom 10. Januar 2001 (Stand am 16. Juli 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -316,7 +316,7 @@ Folgende Dünger bedürfen zur Zulassung einer Bewilligung des BLW:
   Dünger der folgenden Düngerkategorien:
 
   - 1\. Zusätze zu Düngern mit Ausnahme der Hofdüngerzusätze,
-  - 2\. ...[^10-1]
+  - 2\. …[^10-1]
   - 3\. Kulturen von Mikroorganismen zur Behandlung von Böden, Saatgut oder Pflanzen,
   - 4\. Mittel zur Beeinflussung biologischer Vorgänge im Boden,
   - 4<sup>bis</sup>.[^10-2] mineralische Recyclingdünger,
@@ -495,7 +495,7 @@ Es führt keine solchen Versuche und Erhebungen durch und entscheidet über das 
 
 <sup>3</sup> Dünger, die mit einer Anmeldung in Verkehr gebracht worden sind, brauchen auf den nachfolgenden Handelsstufen keine Anmeldung.
 
-<sup>4</sup> ...[^19-2]
+<sup>4</sup> …[^19-2]
 
 [^19-1]: Fassung gemäss Ziff. I der V vom 14. Nov. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835)).
 [^19-2]: Aufgehoben durch Ziff. II 18 der V vom 18. Mai 2005, mit Wirkung seit 1. Aug. 2005 ([AS 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)).
@@ -628,6 +628,15 @@ Der Name und die Adresse der für das Inverkehrbringen oder die Einfuhr verantwo
 [^23-5]: Eingefügt durch Anhang Ziff. 3 der V vom 19. Mai 2010 über das Inverkehrbringen von Produkten nach ausländischen Vorschriften, in Kraft seit 1. Juli 2010 ([AS 2010 2631](https://fedlex.data.admin.ch/eli/oc/2010/350)).
 [^23-6]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3971](https://fedlex.data.admin.ch/eli/oc/2013/724)).
 
+#### Art. 23a
+
+**Kennzeichnung nach der Verordnung (EU) 2019/1009**[^23a-1]
+
+Anstelle der Kennzeichnung nach Artikel 23 und nach den Bestimmungen, die das WBF gestützt auf Artikel 23 Absatz 6 erlassen hat, ist die Kennzeichnung von Düngern nach den Vorschriften der Verordnung (EU) 2019/1009[^23a-2] zulässig.
+
+[^23a-1]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 16. Juli 2022 ([AS 2021 686](https://fedlex.data.admin.ch/eli/oc/2021/686)).
+[^23a-2]: Verordnung (EU) 2019/1009 des Europäischen Parlaments und des Rates vom 5. Juni 2019 mit Vorschriften für die Bereitstellung von EU-Düngerprodukten auf dem Markt und zur Änderung der Verordnungen (EG) Nr. 1069/2009 und (EG) Nr. 1107/2009 sowie zur Aufhebung der Verordnung (EG) Nr. 2003/2003, Fassung gemäss ABl. L 170 vom 25.6. 2019, S. 1.
+
 #### Art. 24
 
 **Kennzeichnung von Produkten der Vergärung und Kompostierung**[^24-1]
@@ -681,7 +690,7 @@ Die Gebrauchsanweisung darf keine Angaben oder Hinweise enthalten, die:
 
 <sup>4</sup> Wird Hofdünger in Säcken abgegeben, so muss die Gebrauchsanweisung die für den jeweiligen Abnehmer anwendbaren Düngungsempfehlungen berücksichtigen.
 
-<sup>5</sup> ...[^24a-3]
+<sup>5</sup> …[^24a-3]
 
 [^24a-1]: Eingefügt durch Ziff. II 18 der V vom 18. Mai 2005, in Kraft seit 1. Aug. 2005 ([AS 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)). Fassung gemäss Ziff. I der V vom 14. Nov. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835)).
 [^24a-2]: [SR 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
@@ -863,13 +872,9 @@ Die Änderung bisherigen Rechts wird im Anhang geregelt.
 
 #### Art. 35
 
-**Übergangsbestimmungen zur Änderung vom 14. November 2007**[^35-1]
+[^35-1]
 
-<sup>1</sup> Nach bisherigem Recht zugelassene Dünger dürfen noch bis zum 31. Dezember 2010 nach bisherigem Recht verkauft oder unentgeltlich abgegeben werden.
-
-<sup>2</sup> Bewilligungen, die vor dem Inkrafttreten der Änderung vom 14. November 2007 erteilt worden sind, bleiben bis zum 31. Dezember 2017 gültig.
-
-[^35-1]: Fassung gemäss Ziff. I der V vom 14. Nov. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835)).
+[^35-1]: Aufgehoben durch Ziff. I der V vom 3. Nov. 2021, mit Wirkung seit 16. Juli 2022 ([AS 2021 686](https://fedlex.data.admin.ch/eli/oc/2021/686)).
 
 #### Art. 35a
 
@@ -896,6 +901,6 @@ Anhang
 
 ## Änderung bisherigen Rechts
 
-...[^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Die Änd. können unter [AS 2001 522](https://fedlex.data.admin.ch/eli/oc/2001/105)konsultiert werden.
