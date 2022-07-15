@@ -3,18 +3,18 @@ sr: "916.443.107"
 title: "Ordonnance de l’OSAV du 6 août 2021 instituant des mesures contre la propagation de la peste porcine africaine par les échanges d’importation, de transit et d’exportation avec les États membres de l’Union européenne, l’Islande et la Norvège"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/474"
 language: fr
-version: 2022-07-02
+version: 2022-07-16
 adopted: 2021-08-06
 in_force: 2021-08-10
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/474/20220702/fr/xml/fedlex-data-admin-ch-eli-cc-2021-474-20220702-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/474/20220702/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/474/20220716/fr/xml/fedlex-data-admin-ch-eli-cc-2021-474-20220716-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/474/20220716/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance de l’OSAV instituant des mesures contre la propagation de la peste porcine africaine par les échanges d’importation, de transit et d’exportation avec les États membres de l’Union européenne, l’Islande et la Norvège
 
-du 6 août 2021 (Etat le 2 juillet 2022)
+du 6 août 2021 (Etat le 16 juillet 2022)
 
 L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV),
 
@@ -135,7 +135,7 @@ Annexe*[^t-1]*
 
 ## 1 Zones réglementées conformément au règlement d’exécution (UE) 2021/605
 
-[^t-1]: Nouvelle teneur selon le ch. II de l’O de l’OSAV du 17 juin 2022 ([RO 2022 363](https://fedlex.data.admin.ch/eli/oc/2022/363)). Mise à jour par le ch. II de l’O de l’OSAV du 30 juin 2022, en vigueur depuis le 2 juil. 2022 ([RO 2022 390](https://fedlex.data.admin.ch/eli/oc/2022/390)).
+[^t-1]: Nouvelle teneur selon le ch. II de l’O de l’OSAV du 17 juin 2022 ([RO 2022 363](https://fedlex.data.admin.ch/eli/oc/2022/363)). Mise à jour par le ch. II de l’O de l’OSAV du 30 juin 2022 ([RO 2022 390](https://fedlex.data.admin.ch/eli/oc/2022/390)) et le ch. I de l’O de l’OSAV du 14 juil. 2022, en vigueur depuis le 16 juil. 2022 ([RO 2022 414](https://fedlex.data.admin.ch/eli/oc/2022/414)).
 
 Les États membres de l’UE et les zones réglementées visées à l’art. 2, al. 1, let. a, sont inscrits dans le règlement d’exécution suivant:
 
@@ -215,7 +215,7 @@ Les États membres de l’UE et les zones infectées selon le règlement délég
 <table>
 <tr><th>Acte de l’UE</th><th>Titre et date de publication de l’acte et dates de publication des actes modificateurs</th></tr>
 <tr><td>Décision d’exécution (UE) 2022/920</td><td>Décision d’exécution (UE) 2022/920 de la Commission du 13 juin 2022 concernant certaines mesures d’urgence contre la peste porcine africaine en Italie, version du JO L 159 du 14.6.2022, p. 90</td></tr>
-<tr><td>Décision d’exécution (UE) 2022/921</td><td>Décision d’exécution (UE) 2022/921 de la Commission du 13 juin 2022 concernant certaines mesures d’urgence contre la peste porcine africaine en Allemagne, version du JO L 159 du 14.6.2022, p. 94</td></tr>
+<tr><td>Décision d’exécution (UE) 2022/1189</td><td>Décision d’exécution (UE) 2022/1189 de la Commission du 8 juillet 2022 concernant certaines mesures d’urgence contre la peste porcine africaine en Allemagne, version du JO L 184 du 11.7.2022, p. 66</td></tr>
 </table>
 
 Des zones réglementées ont été délimitées dans les États membres de l’UE suivants:

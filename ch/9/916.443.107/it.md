@@ -3,18 +3,18 @@ sr: "916.443.107"
 title: "Ordinanza dell’USAV del 6 agosto 2021 che istituisce provvedimenti contro la propagazione della peste suina africana nel traffico con Stati membri dell’Unione europea, Islanda e Norvegia"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/474"
 language: it
-version: 2022-07-02
+version: 2022-07-16
 adopted: 2021-08-06
 in_force: 2021-08-10
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/474/20220702/it/xml/fedlex-data-admin-ch-eli-cc-2021-474-20220702-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/474/20220702/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/474/20220716/it/xml/fedlex-data-admin-ch-eli-cc-2021-474-20220716-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/474/20220716/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza dell’USAV che istituisce provvedimenti contro la propagazione della peste suina africana nel traffico con Stati membri dell’Unione europea, Islanda e Norvegia
 
-del 6 agosto 2021 (Stato 2 luglio 2022)
+del 6 agosto 2021 (Stato 16 luglio 2022)
 
 L’Ufficio federale della sicurezza alimentare e di veterinaria (USAV),
 
@@ -134,7 +134,7 @@ Allegato*[^t-1]*
 
 ## Stati membri e zone interessati
 
-[^t-1]: Nuovo testo giusta il n. II dell’O dell’USAV del 17 giu. 2022, in vigore dal 21 giu. 2022 ([RU 2022 363](https://fedlex.data.admin.ch/eli/oc/2022/363)). Aggiornato dal n. II dell’O dell’USAV del 30 giu. 2022, in vigore dal 2 lug. 2022 ([RU 2022 390](https://fedlex.data.admin.ch/eli/oc/2022/390)).
+[^t-1]: Nuovo testo giusta il n. II dell’O dell’USAV del 17 giu. 2022 ([RU 2022 363](https://fedlex.data.admin.ch/eli/oc/2022/363)). Aggiornato dal n. II dell’O dell’USAV del 30 giu. 2022 ([RU 2022 390](https://fedlex.data.admin.ch/eli/oc/2022/390)) e dal n. I dell’O dell’USAV del 14 lug. 2022, in vigore dal 16 lug. 2022 ([RU 2022 414](https://fedlex.data.admin.ch/eli/oc/2022/414)).
 
 ### 1 Zone soggette a restrizioni disciplinate secondo il regolamento di esecuzione (UE) 2021/605
 
@@ -216,7 +216,7 @@ Gli Stati membri dell’UE nonché le zone infette secondo il regolamento delega
 <table>
 <tr><th>Atto normativo di base UE</th><th>Titolo e data di pubblicazione dell’atto normativo di base nonché atti modificatori con date di pubblicazione</th></tr>
 <tr><td>Decisione di esecuzione (UE) 2022/920</td><td>Decisione di esecuzione (UE) 2022/920 della Commissione del 13 giugno 2022 relativa ad alcune misure di emergenza contro la peste suina africana in Italia, versione della GU L 159 del 14.6.2022, pag. 90</td></tr>
-<tr><td>Decisione di esecuzione (UE) 2022/921</td><td>Decisione di esecuzione (UE) 2022/921 della Commissione del 13 giugno 2022 relativa ad alcune misure di emergenza contro la peste suina africana in Germania, GU L 159 del 14.6.2022, pag. 94</td></tr>
+<tr><td>Decisione di esecuzione (UE) 2022/1189</td><td>Decisione di esecuzione (UE) 2022/1189 della Commissione, dell’8 luglio 2022, relativa ad alcune misure di emergenza contro la peste suina africana in Germania, versione della GU L 184 dell’11.7.2022, pag. 66</td></tr>
 </table>
 
 Nei seguenti Stati membri dell’UE vi sono tali zone soggette a restrizioni:
