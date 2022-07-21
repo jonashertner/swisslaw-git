@@ -4,11 +4,11 @@ title: Übereinkommen vom 30. September 1957 über die internationale Beförderu
 short: ADR
 eli: "https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249"
 language: de
-version: 2022-02-23
+version: 2022-07-22
 adopted: 1957-09-30
 in_force: 1972-07-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249/20220223/de/xml/fedlex-data-admin-ch-eli-cc-1972-1073_1085_1249-20220223-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1972/1073_1085_1249/20220223/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249/20220722/de/xml/fedlex-data-admin-ch-eli-cc-1972-1073_1085_1249-20220722-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1972/1073_1085_1249/20220722/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -23,7 +23,7 @@ AS **1972** 1073; BBl **1969** II 1[^t-1]
 
 Abgeschlossen in Genf am 30. September 1957 Von der Bundesversammlung genehmigt am 4. Dezember 1969[^t-3] Schweizerische Ratifikationsurkunde hinterlegt am 20. Juni 1972 In Kraft getreten für die Schweiz am 20. Juli 1972 Anhänge A und B geändert am 29. Januar 1968, 26. Oktober 1970 und 30. Dezember 1971
 
-(Stand am 23. Februar 2022)
+(Stand am 22. Juli 2022)
 
 [^t-1]: Berichtigung vom 23. Febr. 2022 ([AS 2022 127](https://fedlex.data.admin.ch/eli/oc/2022/127)).
 [^t-2]: Gemeinsame schweizerische, bundesdeutsche und österreichische Übersetzung.
@@ -198,12 +198,13 @@ Anlagen A und B*[^t-4]*
 
 [^t-4]: Die Anlagen werden in der AS nicht veröffentlicht (AS **1972** 1081, 1361; [1973 1339](https://fedlex.data.admin.ch/eli/oc/1973/1339_1339_1339); [1974 843](https://fedlex.data.admin.ch/eli/oc/1974/843_843_843), [1395](https://fedlex.data.admin.ch/eli/oc/1974/1395_1395_1395); [1975 1609](https://fedlex.data.admin.ch/eli/oc/1975/1609_1607_1607); [1978 1610](https://fedlex.data.admin.ch/eli/oc/1978/1610_1610_1610); [1980 222](https://fedlex.data.admin.ch/eli/oc/1980/222_222_222); [1982 300](https://fedlex.data.admin.ch/eli/oc/1982/300_300_300); [1983 441](https://fedlex.data.admin.ch/eli/oc/1983/441_441_441); [1985 494](https://fedlex.data.admin.ch/eli/oc/1985/494_494_494); [1987 1625](https://fedlex.data.admin.ch/eli/oc/1987/1625_1625_1625); [1989 2486](https://fedlex.data.admin.ch/eli/oc/1989/2486_2486_2486); [1993 191](https://fedlex.data.admin.ch/eli/oc/1993/191_191_191); [1994 2856](https://fedlex.data.admin.ch/eli/oc/1994/2856_2856_2856); [1997 422](https://fedlex.data.admin.ch/eli/oc/1997/422_422_422); [1999 751](https://fedlex.data.admin.ch/eli/oc/1999/115); [2002 455](https://fedlex.data.admin.ch/eli/oc/2002/102), [4363](https://fedlex.data.admin.ch/eli/oc/2002/712); [2004 5201](https://fedlex.data.admin.ch/eli/oc/2004/800); [2007 69](https://fedlex.data.admin.ch/eli/oc/2007/16); [2008 5123](https://fedlex.data.admin.ch/eli/oc/2008/716); [2011 3553](https://fedlex.data.admin.ch/eli/oc/2011/485); [2012 6657](https://fedlex.data.admin.ch/eli/oc/2012/803); [2014 4707](https://fedlex.data.admin.ch/eli/oc/2014/794); [2016 3805](https://fedlex.data.admin.ch/eli/oc/2016/636); [2018 3893](https://fedlex.data.admin.ch/eli/oc/2018/617); [2020 4473](https://fedlex.data.admin.ch/eli/oc/2020/785)). Separatdrucke sind beim BBL, Verkauf Bundespublikationen, 3003 Bern, erhältlich.
 
-Geltungsbereich am 19. Juni 2019**[^t-5]**
+Geltungsbereich am 22. Juli 2022**[^t-5]**
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td>Albanien</td><td>26. Januar</td><td>2005 B</td><td>26. Februar</td><td>2005</td></tr>
 <tr><td>Andorra</td><td>9. März</td><td>2009 B</td><td>9. April</td><td>2009</td></tr>
+<tr><td>Armenien</td><td>12. April</td><td>2022 B</td><td>12. Mai</td><td>2022</td></tr>
 <tr><td>Aserbaidschan</td><td>28. September</td><td>2000 B</td><td>28. Oktober</td><td>2000</td></tr>
 <tr><td>Belarus</td><td>5. April</td><td>1993 B</td><td>5. Mai</td><td>1993</td></tr>
 <tr><td>Belgien</td><td>25. August</td><td>1960</td><td>29. Januar</td><td>1968</td></tr>
@@ -251,9 +252,10 @@ Geltungsbereich am 19. Juni 2019**[^t-5]**
 <tr><td>Türkei</td><td>22. Februar</td><td>2010 B</td><td>22. März</td><td>2010</td></tr>
 <tr><td>Ukraine</td><td>1. Mai</td><td>2000 B</td><td>1. Juni</td><td>2000</td></tr>
 <tr><td>Ungarn\*</td><td>19. Juli</td><td>1979 B</td><td>19. August</td><td>1979</td></tr>
+<tr><td>Usbekistan</td><td>24. Januar</td><td>2020 B</td><td>24. Februar</td><td>2020</td></tr>
 <tr><td>Vereinigtes Königreich</td><td>29. Juni</td><td>1968</td><td>29. Juli</td><td>1968</td></tr>
 <tr><td>Zypern</td><td>19. April</td><td>2004 B</td><td>19. Mai</td><td>2004</td></tr>
 <tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-5]: AS **1975** 1628; [1978 1610](https://fedlex.data.admin.ch/eli/oc/1978/1610_1610_1610); [1980 222](https://fedlex.data.admin.ch/eli/oc/1980/222_222_222); [1982 300](https://fedlex.data.admin.ch/eli/oc/1982/300_300_300); [1987 1144](https://fedlex.data.admin.ch/eli/oc/1987/1144_1144_1144); [2005 1237](https://fedlex.data.admin.ch/eli/oc/2005/181); [2008 4939](https://fedlex.data.admin.ch/eli/oc/2008/692); [2012 4571](https://fedlex.data.admin.ch/eli/oc/2012/550); [2019 2003](https://fedlex.data.admin.ch/eli/oc/2019/365). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: www.fedlex.admin.ch/de/treaty.
+[^t-5]: AS **1975** 1628; [1978 1610](https://fedlex.data.admin.ch/eli/oc/1978/1610_1610_1610); [1980 222](https://fedlex.data.admin.ch/eli/oc/1980/222_222_222); [1982 300](https://fedlex.data.admin.ch/eli/oc/1982/300_300_300); [1987 1144](https://fedlex.data.admin.ch/eli/oc/1987/1144_1144_1144); [2005 1237](https://fedlex.data.admin.ch/eli/oc/2005/181); [2008 4939](https://fedlex.data.admin.ch/eli/oc/2008/692); [2012 4571](https://fedlex.data.admin.ch/eli/oc/2012/550); [2019 2003](https://fedlex.data.admin.ch/eli/oc/2019/365); [2022 429](https://fedlex.data.admin.ch/eli/oc/2022/429). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: www.fedlex.admin.ch/de/treaty
