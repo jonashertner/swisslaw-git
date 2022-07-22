@@ -4,13 +4,13 @@ number: "153.753"
 title: Verfügung über die Delegation von Entscheid- und Unterzeichnungsbefugnissen in der Sicherheitsdirektion
 short: "Delegationsverfügung SD, DelV SD"
 language: de
-version: 2019-08-17
-valid_until: 2022-07-22
-version_adopted: 2019-07-18
+version: 2022-07-23
+valid_until: 2023-06-30
+version_adopted: 2022-07-15
 adopted: 2007-12-12
 in_force: 2008-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/153.753"
-pdf: "https://bgs.zg.ch/api/de/versions/2000/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2362/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/2000/pdf_file"
 
 (Delegationsverfügung SD, DelV SD)
 
-Vom 12. Dezember 2007 (Stand 17. August 2019)
+Vom 12. Dezember 2007 (Stand 23. Juli 2022)
 
 Die Sicherheitsdirektion des Kantons Zug,
 
@@ -115,9 +115,11 @@ verfügt:
 
 <sup>2</sup> Die Delegation der Entscheid- und Unterzeichnungsbefugnis umfasst jeweils auch die entsprechende Delegation zum Bewilligungsentzug.
 
-<sup>3</sup> Die Polizei nimmt zudem gegenüber der kantonalen Koordinationsstelle Stellung zu dauernden Strassenreklamen im Bereich von Kantonsstrassen (§ 13 Abs. 2 der Verordnung über den Strassenverkehr und die Strassensignalisation vom 22. Februar 1977[^7-4]).
+<sup>2a</sup> Die Polizei erlässt vorübergehende Verkehrsanordnungen an Kantonsstrassen (§ 6 Abs. 1 der Verordnung über den Strassenverkehr und die Strassensignalisation vom 22. Februar 1977[^7-4]).
 
-<sup>4</sup> Die Polizei entscheidet über die Freigabe gefrorener Seeflächen zum Betreten (§ 3 Abs. 3 Bst. g des Einführungsgesetzes zum Bundesgesetz über die Binnenschifffahrt vom 29. September 1988[^7-5]).
+<sup>3</sup> Die Polizei nimmt zudem gegenüber der kantonalen Koordinationsstelle Stellung zu dauernden Strassenreklamen im Bereich von Kantonsstrassen (§ 13 Abs. 2 der Verordnung über den Strassenverkehr und die Strassensignalisation vom 22. Februar 1977[^7-5]).
+
+<sup>4</sup> Die Polizei entscheidet über die Freigabe gefrorener Seeflächen zum Betreten (§ 3 Abs. 3 Bst. g des Einführungsgesetzes zum Bundesgesetz über die Binnenschifffahrt vom 29. September 1988[^7-6]).
 
 <sup>5</sup> Die Polizei trifft im Zusammenhang mit dem Betrieb des Durchgangsplatzes für Fahrende in Oberwil bei Cham die erforderlichen administrativen Vorkehrungen, um
 
@@ -129,7 +131,8 @@ verfügt:
 [^7-2]: BGS [753.1](https://bgs.zg.ch/data/753.1/de)
 [^7-3]: BGS [753.6](https://bgs.zg.ch/data/753.6/de)
 [^7-4]: BGS [751.21](https://bgs.zg.ch/data/751.21/de)
-[^7-5]: BGS [753.1](https://bgs.zg.ch/data/753.1/de)
+[^7-5]: BGS [751.21](https://bgs.zg.ch/data/751.21/de)
+[^7-6]: BGS [753.1](https://bgs.zg.ch/data/753.1/de)
 
 #### § 8
 
@@ -149,6 +152,6 @@ verfügt:
 
 **Inkrafttreten**
 
-<sup>1</sup> Diese Verfügung tritt am 1. Januar 2008 in Kraft.
+<sup>1</sup> …
 
 GS 29, 585
