@@ -5,12 +5,12 @@ title: "Règlement d'exécution de la loi sur la chasse"
 short: RexChP
 language: fr
 version: 2022-07-08
-valid_until: 2023-06-30
+corrected: 2022-07-26
 version_adopted: 2022-06-28
 adopted: 2021-06-16
 in_force: 2021-06-25
 url: "https://lex.vs.ch/app/fr/texts_of_law/922.100"
-pdf: "https://lex.vs.ch/api/fr/versions/3052/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3049/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -418,7 +418,7 @@ arrête:[^ingress-1]
 
 <sup>5</sup> Les instruments d'optique tels que les jumelles, longues-vues, lunettes de visée et télémètres sont autorisés.
 
-<sup>5<sup>bis</sup></sup> Pendant les 24 heures du jour de chasse autorisé, la détention et l'utilisation des instruments d'optique à vision nocturne ou thermique, des appareils électroniques de reproduction du son pour attirer les animaux, des appareils produisant des électrochocs, des sources lumineuses artificielles, des miroirs ou autres objets éblouissants ainsi que des dispositifs de visée laser ou de visée nocturne et combinaisons d’appareils de fonction comparable ainsi qu’aéronefs civils sans occupant, en particulier drones, sont interdites pour le chasseur et tout accompagnant.
+<sup>5<sup>bis</sup></sup> Pendant les 24 heures du jour de chasse autorisé, la détention et l'utilisation des instruments d'optique à visée nocturne ou thermique, des appareils électroniques de reproduction du son pour attirer les animaux, des appareils produisant des électrochocs, des sources lumineuses artificielles, des miroirs ou autres objets éblouissants ainsi que des dispositifs de visée laser ou de visée nocturne et combinaisons d’appareils de fonction comparable ainsi qu’aéronefs civils sans occupant, en particulier drones, sont interdites pour le chasseur et tout accompagnant.
 
 <sup>6</sup> La création ou l'utilisation de miradors à des fins de chasse est interdite.
 

@@ -5,12 +5,12 @@ title: Ausführungsreglement zum Jagdgesetz
 short: ReKJSG
 language: de
 version: 2022-07-08
-valid_until: 2023-06-30
+corrected: 2022-07-26
 version_adopted: 2022-06-28
 adopted: 2021-06-16
 in_force: 2021-06-25
 url: "https://lex.vs.ch/app/de/texts_of_law/922.100"
-pdf: "https://lex.vs.ch/api/de/versions/3052/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3049/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
