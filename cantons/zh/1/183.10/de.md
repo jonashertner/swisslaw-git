@@ -3,10 +3,9 @@ canton: ZH
 number: "183.10"
 title: Kirchenordnung der Christkatholischen Kirchgemeinde Zürich
 language: de
-nachtrag: "67"
-valid_until: 2022-07-25
+nachtrag: "118"
 adopted: 2018-06-21
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-183_10-2009_06_30-2010_01_01-067.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-183_10-2018_06_21-2019_04_03-118.html"
 text: pdf
 ---
 
@@ -14,11 +13,12 @@ text: pdf
 
 # Kirchenordnung der Christkatholischen Kirchgemeinde Zürich
 
-(vom 30. Juni 2009)[^t-1]
+(vom 21. Juni 2018)[^t-1],[^t-2]
 
 Die Kirchgemeindeversammlung beschliesst:
 
-[^t-1]: OS 64, 856.
+[^t-1]: OS 77, 318.
+[^t-2]: Inkrafttreten: 3. April 2019 (ABl 2022-05-20).
 
 ### Präambel
 
@@ -30,9 +30,9 @@ Die Christkatholische Kirchgemeinde Zürich ist ein Teil des Bistums der Christk
 
 **Bestand**
 
-<sup>1</sup> Die Christkatholische Kirchgemeinde Zürich ist eine
+<sup>1</sup> Die Christkatholische Kirchgemeinde Zürich ist eine selbst-
 
-selbstständige Körperschaft des öffentlichen Rechts gemäss Art. 130 Abs. 1 lit. c der Verfassung des Kantons Zürich (KV)[^1-1], die sowohl Elemente einer kantonalen kirchlichen Körperschaft als auch Elemente einer Kirchgemeinde im Sinne der §§ 10 ff. des Kirchengesetzes (KiG)[^1-2] enthält.
+ständige Körperschaft des öffentlichen Rechts gemäss Art. 130 Abs. 1 lit. c der Verfassung des Kantons Zürich vom 27. Februar 2005 (KV)[^1-1], die sowohl Elemente einer kantonalen kirchlichen Körperschaft als auch Elemente einer Kirchgemeinde im Sinne der §§ 10 ff. des Kirchengesetzes vom 9. Juli 2007 (KiG)[^1-2] enthält.
 
 <sup>2</sup> Sie hat ihren Sitz in der Stadt Zürich.
 
@@ -43,27 +43,27 @@ selbstständige Körperschaft des öffentlichen Rechts gemäss Art. 130 Abs. 1 l
 
 **Aufgaben**
 
-<sup>1</sup> Die Christkatholische Kirchgemeinde ist auf ihrem Gebiet
-
-verantwortlich für das kirchliche Leben und den Aufbau von Gemeinschaft sowie für die Wahrnehmung ihrer öffentlichen und sozialen Verpflichtungen.
+Die Christkatholische Kirchgemeinde ist auf ihrem Gebiet verantwortlich für das kirchliche Leben und den Aufbau von Gemeinschaft sowie für die Wahrnehmung ihrer öffentlichen und sozialen Verpflichtungen.
 
 <sup>2</sup> Sie sorgt insbesondere für Gottesdienst, Religionsunterricht und Seelsorge. Sie errichtet und unterhält die notwendigen Gebäulichkeiten und finanziert ihre Verwaltung, Institutionen und Vorhaben. Sie unterstützt die Diaspora und gesamtschweizerische kirchliche Tätigkeiten und finanziert sie mit.
 
 **1**
 
-- 1\. 1. 10 - 67
+1.10. 22 - 118
 
-<sup>3</sup> Sie gewährt finanzielle Beiträge namentlich für: Spezialseelsorge, Jugend- und Erwachsenenbildung, Aus- und Weiterbildung der in der Kirche Mitarbeitenden, soziale Institutionen, kulturelle Vorhaben, Medien sowie kirchliche Hilfen im In- und Ausland.
+<sup>3</sup> Sie gewährt finanzielle Beiträge namentlich für Spezialseelsorge, Jugend- und Erwachsenenbildung, Aus- und Weiterbildung der in der Kirche Mitarbeitenden, soziale Institutionen, kulturelle Vorhaben, Medien sowie kirchliche Hilfen im In- und Ausland.
 
 <sup>4</sup> Sie stärkt die Einheit im Bistum durch regelmässige Kontakte mit dem Bischof.
 
 #### Art. 3
 
-**Ökumene und interreligiöser Dialog Mitgliedschaft**
+**Ökumene und Interreligiöser Dialog**
 
 Die Christkatholische Kirchgemeinde fördert zusammen mit den kirchlichen Organen die Ökumene und den interreligiösen Dialog.
 
 #### Art. 4
+
+**Mitgliedschaft**
 
 <sup>1</sup> Als Mitglied der Christkatholischen Kirchgemeinde gilt
 
@@ -85,7 +85,7 @@ jede Person, die a. Mitglied der Christkatholischen Kirche ist,
 
 gemeinde, die das 18. Altersjahr zurückgelegt haben und handlungsfähig sind.
 
-<sup>2</sup> In eine Behörde wählbar ist, wer stimm- und wahlberechtigt ist und die weiteren Voraussetzungen dieser Kirchenordnung erfüllt (Art. 27, 36, 43).
+<sup>2</sup> In eine Behörde wählbar ist, wer stimm- und wahlberechtigt ist und die weiteren Voraussetzungen dieser Kirchenordnung erfüllt (Art. 22, 32, 40).
 
 ### II. Organisation
 
@@ -97,9 +97,7 @@ gemeinde, die das 18. Altersjahr zurückgelegt haben und handlungsfähig sind.
 
 tonalen Rechts und gemäss dieser Kirchenordnung selbstständig.
 
-<sup>2</sup> Wo die Kirchgemeinde keine eigenen Bestimmungen erlässt, wendet sie das staatliche Recht sinngemäss als kirchlich-körperschaftliches Recht an (§ 5 Abs. 3 KiG[^6-1].
-
-[^6-1]: LS 180.1.
+<sup>2</sup> Wo die Kirchgemeinde keine eigenen Bestimmungen erlässt, wendet sie das staatliche Recht sinngemäss als kirchlich-körperschaftliches Recht an (§ 5 Abs. 3 KiG).
 
 #### Art. 7
 
@@ -107,7 +105,7 @@ tonalen Rechts und gemäss dieser Kirchenordnung selbstständig.
 
 Die Organe der Kirchgemeinde sind:
 
-- a. die Gesamtheit der Stimmberechtigten und die Kirchgemeindeversammlung als Legislative,
+- a. die Gesamtheit der Stimmberechtigten versammelt in der Kirchgemeindeversammlung als Legislative,
 
 - b. die Kirchenpflege als Exekutive,
 
@@ -117,16 +115,13 @@ Die Organe der Kirchgemeinde sind:
 
 **Aufsicht und Rechtsschutz**
 
-<sup>1</sup> Die Kirchgemeinde verfügt über keine Rekurskommission.
+<sup>1</sup> Die Kirchgemeinde verfügt über keine Rekurskommis-
 
-<sup>2</sup> Die Kirchgemeinde und ihre Organe unterstehen der Aufsicht des Bezirksrates Zürich.
+sion.
 
-<sup>3</sup> Aufsichtsrecht und Rechtsmittel richten sich nach § 18 KiG[^8-1] und dem danach massgebenden Verwaltungsrechtspflegegesetz[^8-2] sowie den sinngemäss anzuwendenden Bestimmungen des Gemeindegesetzes[^8-3] und des Gesetzes über die politischen Rechte[^8-4]. Kultische Fragen sind von der Beurteilung durch staatliche Behörden und Gerichte ausgeschlossen.
+<sup>2</sup> Die Kirchgemeinde und ihre Organe unterstehen der Aufsicht des Bezirksrates Zürich (§ 12 Abs. 3 KiG).
 
-[^8-1]: LS 180.1.
-[^8-2]: LS 175.2.
-[^8-3]: LS 131.1.
-[^8-4]: LS 161.
+<sup>3</sup> Aufsichtsrecht und Rechtsmittel richten sich nach § 18 KiG und dem danach massgebenden Verwaltungsrechtspflegegesetz. Kultische Fragen sind von der Beurteilung durch staatliche Behörden und Gerichte ausgeschlossen.
 
 #### Art. 9
 
@@ -134,7 +129,7 @@ Die Organe der Kirchgemeinde sind:
 
 <sup>1</sup> Die Wahl der kirchlich-körperschaftlichen Behörden sowie
 
-der Pfarrerinnen und Pfarrer obliegt der Kirchgemeindeversammlung, sofern nicht eine Urnenwahl gemäss Art. 22–24 durchzuführen ist.
+der Pfarrerinnen und Pfarrer obliegt der Kirchgemeindeversammlung.
 
 <sup>2</sup> Die Wahl erfolgt für eine Amtsdauer von vier Jahren, bei Ersatzwahlen für den Rest der Amtsdauer. Die Amtsdauer beginnt mit der Konstituierung der neu gewählten Behörde und endet mit dem Beginn der Amtsdauer der erneuerten Behörde. Bei Pfarrwahlen beginnt die Amtsdauer am 1. Juli des Jahres der Gesamterneuerung.
 
@@ -148,7 +143,7 @@ der Pfarrerinnen und Pfarrer obliegt der Kirchgemeindeversammlung, sofern nicht 
 
 <sup>1</sup> Über die vorzeitige Entlassung der Mitglieder der Kir-
 
-chenpflege und der Rechnungsprüfungskommission entscheidet der Bezirksrat, über diejenige der Pfarrerinnen und Pfarrer die Kirchenpflege.
+chenpflege und der Rechnungsprüfungskommission entscheidet der Bezirksrat, über diejenige der Pfarrerinnen und Pfarrer sowie der Delegierten und Ersatzdelegierten für die Nationalsynode der Christkatholischen Kirche der Schweiz die Kirchenpflege.
 
 <sup>2</sup> Die entlassene Person bleibt bis zum Amtsantritt der Nachfolgerin oder des Nachfolgers im Amt. Die Entlassungsbehörde kann das Ausscheiden auf einen früheren Zeitpunkt anordnen.
 
@@ -162,11 +157,11 @@ der Rechnungsprüfungskommission längstens bis zum Ablauf ihrer Amtsdauer im Am
 
 <sup>2</sup> Diese Befugnis steht der Kirchenpflege in Absprache mit dem Bischof auch gegenüber gewählten Pfarrerinnen und Pfarrern zu.
 
-<sup>3</sup> Die Kirchenpflege kann ausserdem in Absprache mit dem Bischof Pfarrerinnen und Pfarrer sowie andere mit pfarramtlichen Funktionen betraute Personen abberufen, die sich zur Weiterführung ihres Amtes als unfähig oder unwürdig erweisen, oder deren Verhalten Ursache schwerer Missstände in der Kirchgemeinde ist.
-
 **3**
 
-- 1\. 1. 10 - 67
+1.10. 22 - 118
+
+<sup>3</sup> Die Kirchenpflege kann ausserdem in Absprache mit dem Bischof Pfarrerinnen und Pfarrer sowie andere mit pfarramtlichen Funktionen betraute Personen abberufen, die sich zur Weiterführung ihres Amtes als unfähig oder unwürdig erweisen oder deren Verhalten Ursache schwerer Missstände in der Kirchgemeinde ist.
 
 #### Art. 12
 
@@ -176,11 +171,9 @@ der Rechnungsprüfungskommission längstens bis zum Ablauf ihrer Amtsdauer im Am
 
 auf der Grundlage der staatlichen Datenschutzgesetzgebung. Die Kirchenpflege bezeichnet eine für Datenschutzfragen zuständige Ansprechperson.
 
-<sup>2</sup> Pfarrerinnen und Pfarrer sowie von ihnen beauftragte Personen sind unter Vorbehalt individueller Sperrvermerke und unter Wahrung des Amtsgeheimnisses befugt, Daten zur Erfüllung kirchlicher Aufgaben zu bearbeiten oder untereinander auszutauschen. Dies gilt auch für die Zusammenarbeit unter den durch die Kantonsverfassung[^12-1] anerkannten kirchlichen Körperschaften.
+<sup>2</sup> Pfarrerinnen und Pfarrer sowie von ihnen beauftragte Personen sind unter Vorbehalt individueller Sperrvermerke und unter Wahrung des Amtsgeheimnisses befugt, Daten zur Erfüllung kirchlicher Aufgaben zu bearbeiten oder untereinander auszutauschen. Dies gilt auch für die Zusammenarbeit unter den durch die Kantonsverfassung anerkannten kirchlichen Körperschaften.
 
 <sup>3</sup> Die Kirchenpflege regelt Einzelheiten in einem Datenschutzreglement. Sie kann dies in Absprache mit den weiteren kantonalen kirchlichen Körperschaften tun.
-
-[^12-1]: LS 101.
 
 #### Art. 13
 
@@ -188,13 +181,11 @@ auf der Grundlage der staatlichen Datenschutzgesetzgebung. Die Kirchenpflege bez
 
 <sup>1</sup> Mitglieder von Behörden, Kommissionen und Arbeits-
 
-gruppen, Pfarrerinnen und Pfarrer sowie Angestellte, Beauftragte und Freiwillige sind hinsichtlich ihrer Tätigkeit für die Kirchgemeinde zur Verschwiegenheit verpflichtet, wenn an der Geheimhaltung ein überwiegendes öffentliches oder privates Interesse im Sinne des Gesetzes über die Information und den Datenschutz[^13-1] besteht oder wenn eine besondere Vorschrift dies vorsieht.
+gruppen, Pfarrerinnen und Pfarrer sowie Angestellte, Beauftragte und Freiwillige sind hinsichtlich ihrer Tätigkeit für die Kirchgemeinde zur Verschwiegenheit verpflichtet, wenn an der Geheimhaltung ein überwiegendes öffentliches oder privates Interesse im Sinne des Gesetzes über die Information und den Datenschutz besteht oder wenn eine besondere Vorschrift dies vorsieht.
 
 <sup>2</sup> Diese Verpflichtung bleibt nach Beendigung des Amts- und Dienstverhältnisses sowie der freiwilligen Mitarbeit bestehen.
 
 <sup>3</sup> Für die Entbindung vom Amtsgeheimnis der Mitglieder der Kirchenpflege und der Rechnungsprüfungskommission ist der Bezirksrat, in den übrigen Fällen die Kirchenpflege zuständig.
-
-[^13-1]: LS 170.4.
 
 #### Art. 14
 
@@ -204,7 +195,7 @@ gruppen, Pfarrerinnen und Pfarrer sowie Angestellte, Beauftragte und Freiwillige
 
 kone wahren Geheimnisse, die ihnen um ihres Berufes willen anvertraut werden oder die sie in dessen Ausübung wahrnehmen.
 
-<sup>2</sup> Werden sie von anderen Personen unterstützt, so unterstehen diese der gleichen Geheimhaltungspflicht.
+<sup>2</sup> Werden sie von anderen Personen unterstützt, unterstehen diese der gleichen Geheimhaltungspflicht.
 
 <sup>3</sup> Die Kirchenpflege kann die zur Wahrung des Berufsgeheimnisses verpflichtete Person auf deren Gesuch hin ausnahmsweise von der Geheimhaltungspflicht entbinden, wenn überwiegende allgemeine, kirchliche oder private Interessen dies gebieten.
 
@@ -224,15 +215,13 @@ In der Kirchgemeindeversammlung versammelt sich die Gesamtheit der Stimmberechti
 
 - a. die Präsidentin oder den Präsidenten der Kirchgemeinde,
 
-- b. acht weitere Mitglieder der Kirchenpflege,
+- b. mindestens vier weitere Mitglieder der Kirchenpflege,
 
 - c. drei Mitglieder der Rechnungsprüfungskommission,
 
-- d. drei Mitglieder des Wahlbüros für Urnenwahlen,
+- d. die Delegierten und Ersatzdelegierten für die Nationalsynode der Christkatholischen Kirche der Schweiz.
 
-- e. die Delegierten und Ersatzdelegierten für die Nationalsynode der Christkatholischen Kirche der Schweiz,
-
-- f. die Pfarrerinnen und Pfarrer im Rahmen der Neuwahl; die Bestätigungswahl richtet sich nach dem Gesetz über die politischen Rechte[^16-1] (§§ 117 und 118 GPR) bzw. nach den Bestimmungen der unten stehenden Ziff. IV.
+- e. die Pfarrerinnen und Pfarrer.
 
 <sup>2</sup> Die Kirchgemeindeversammlung beschliesst über:
 
@@ -264,17 +253,15 @@ In der Kirchgemeindeversammlung versammelt sich die Gesamtheit der Stimmberechti
 
 - c. den Berichten allfälliger Kommissionen.
 
-[^16-1]: LS 161.
-
 #### Art. 17
 
 **Einberufung**
 
-Die Kirchgemeindeversammlung wird von der Kirchenpflege einberufen. Mindestens acht Tage vor der Versammlung wird die Traktandenliste im Christkatholischen Kirchenblatt und in der Regel im Gemeindeorgan publiziert. Die Akten liegen mindestens acht Tage vor der Kirchgemeindeversammlung im Kirchgemeindehaus zur Einsicht auf.
+Die Kirchgemeindeversammlung wird von der Kirchenpflege einberufen. Mindestens acht Tage vor der Versammlung wird die Traktandenliste in der Zeitschrift der Christkatholischen Kirche der Schweiz und in der Regel im Gemeindeorgan publiziert. Die Akten liegen mindestens acht Tage vor der Kirchgemeindeversammlung im Kirchgemeindehaus zur Einsicht auf.
 
 **5**
 
-- 1\. 1. 10 - 67
+1.10. 22 - 118
 
 [^17-1]: LS 131.1.
 
@@ -282,7 +269,7 @@ Die Kirchgemeindeversammlung wird von der Kirchenpflege einberufen. Mindestens a
 
 **Leitung**
 
-Die Kirchgemeindeversammlung wird von der Kirchgemeindepräsidentin bzw. vom Kirchgemeindepräsidenten oder im Verhinderungsfalle von der Vizepräsidentin bzw. vom Vizepräsidenten oder einem anderen Mitglied der Kirchenpflege geleitet, wobei die Bestimmungen über die Gemeindeversammlung gemäss Gemeindegesetz[^17-1] sinngemäss anzuwenden sind.
+Die Kirchgemeindeversammlung wird von der Kirchgemeindepräsidentin oder dem Kirchgemeindepräsidenten oder im Verhinderungsfalle von der Vizepräsidentin oder dem Vizepräsidenten oder einem anderen Mitglied der Kirchenpflege geleitet, wobei die Bestimmungen über die Gemeindeversammlung gemäss §§ 12 und 20–26 des Gemeindegesetzes vom 20. April 2015 (GG)[^17-1] sinngemäss anzuwenden sind.
 
 #### Art. 19
 
@@ -290,113 +277,67 @@ Die Kirchgemeindeversammlung wird von der Kirchgemeindepräsidentin bzw. vom Kir
 
 <sup>1</sup> Wahlen und Abstimmungen werden offen durchgeführt,
 
-wenn nicht ein Viertel der anwesenden Stimmberechtigten geheime Wahl oder Abstimmung verlangt. Vorbehalten bleibt die geheime Wahl bzw. Urnenwahl gemäss §§ 117 und 118 GPR[^19-1] und nachstehender Ziff. IV.
+wenn nicht ein Viertel der anwesenden Stimmberechtigten geheime Wahl oder Abstimmung verlangt. Vorbehalten bleibt die geheime Pfarrwahl gemäss Art. 40 Abs. 2.
 
 <sup>2</sup> Bei Abstimmungen gilt das absolute Mehr, bei Wahlen das relative Mehr. Der oder die Vorsitzende der Kirchgemeindeversammlung stimmt bei offenen Wahlen und Abstimmungen nicht mit; bei Stimmengleichheit hat er oder sie den Stichentscheid.
 
-<sup>3</sup> Die Wahlergebnisse und die Beschlüsse der Gemeindeversammlung werden im Christkatholischen Kirchenblatt und im Amtsblatt veröffentlicht.
-
-[^19-1]: LS 161.
+<sup>3</sup> Die Wahlergebnisse und die Beschlüsse der Gemeindeversammlung werden in der Zeitschrift der Christkatholischen Kirche der Schweiz und im Amtsblatt veröffentlicht.
 
 #### Art. 20
 
 **Versammlungsbüro, Protokoll**
 
-Der oder die Vorsitzende der Kirchgemeindeversammlung und der Aktuar oder die Aktuarin bilden zusammen mit den Stimmenzählern das Versammlungsbüro. Das Versammlungsbüro prüft und genehmigt das Protokoll durch Unterzeichnung. Das genehmigte Protokoll liegt im Kirchgemeindehaus zur Einsicht auf.
+Die oder der Vorsitzende der Kirchgemeindeversammlung und die Aktuarin oder der Aktuar bilden zusammen mit den Stimmenzählenden das Versammlungsbüro. Das Versammlungsbüro prüft und genehmigt das Protokoll durch Unterzeichnung. Das genehmigte Protokoll liegt im Kirchgemeindehaus zur Einsicht auf.
 
 #### Art. 21
 
 **Initiative**
 
-<sup>1</sup> Jeder Stimmberechtigte kann über einen in die Befugnis
+<sup>1</sup> Jede und jeder Stimmberechtigte kann über einen in die
 
-der Gemeindeversammlung fallenden Gegenstand eine Initiative einreichen.
+Befugnis der Gemeindeversammlung fallenden Gegenstand eine Initiative einreichen.
 
-<sup>2</sup> Die Initiative ist dem Präsidenten oder der Präsidentin der Kirchenpflege in der Form eines ausgearbeiteten Entwurfs oder einer allgemeinen Anregung einzureichen. Initiativen auf Gesamtrevision der Kirchenordnung sind nur in der Form der allgemeinen Anregung zulässig.
+<sup>2</sup> Die Initiative ist der Präsidentin oder dem Präsidenten der Kirchenpflege in der Form eines ausgearbeiteten Entwurfs oder einer allgemeinen Anregung einzureichen. Initiativen auf Gesamtrevision der Kirchenordnung sind nur in der Form der allgemeinen Anregung zulässig.
 
-<sup>3</sup> Für die Behandlung, die Form und Rechtmässigkeit einer Initiative sind die Bestimmungen des Gemeindegesetzes[^21-1] sinngemäss anzuwenden.
+<sup>3</sup> Für die Behandlung, die Form und Rechtmässigkeit einer Initiative sind die Bestimmungen von §§ 146–154 des Gesetzes über die politischen Rechte vom 1. September 2003 (GPR)[^21-1] sinngemäss anzuwenden.
 
-[^21-1]: LS 131.1.
+[^21-1]: LS 161.
 
-### IV. Urnenwahlen
+### IV. Die Kirchenpflege
 
 #### Art. 22
 
-**Anwendbarkeit**
-
-Die Kirchenpflege als wahlleitende Behörde führt in folgenden Fällen eine Wahl an der Urne durch:
-
-- a. für alle Pfarrerinnen und Pfarrer, sofern die Kirchenpflege beschliesst, den Stimmberechtigten die Nichtbestätigung von Pfarrerinnen oder Pfarrern zu beantragen, oder wenn 150 Stimmberechtigte binnen 20 Tagen ab der Veröffentlichung der Vorschläge im Christkatholischen Kirchenblatt bei der Präsidentin oder dem Präsidenten der Kirchenpflege schriftlich das Begehren um Vornahme der Bestätigungswahl der Pfarrerinnen oder Pfarrer an der Urne stellen (§ 118 Abs. 1 GPR[^22-1],
-
-- b. in den übrigen Fällen, sofern in einer Kirchgemeindeversammlung weniger als die Hälfte der Stimmberechtigten anwesend ist, und ein Drittel der Anwesenden zu Beginn einer Wahl verlangt, dass diese statt in der Versammlung an der Urne erfolgen soll.
-
-[^22-1]: LS 161.
-
-#### Art. 23
-
-**Bestätigung von Pfarrerinnen und Pfarrern an der Urne**
-
-<sup>1</sup> Erweist sich die Urnenwahl als notwendig, werden die
-
-Namen der Pfarrerinnen und Pfarrer auf den Wahlzettel gedruckt mit dem Antrag der Kirchenpflege auf Bestätigung oder Nichtbestätigung.
-
-<sup>2</sup> Wollen die Wählenden die Bestätigung einer Pfarrerin oder eines Pfarrers ablehnen, streichen sie deren oder dessen Namen durch. Streichungen werden als Nein-Stimmen, unveränderte Linien als Ja-Stimmen gezählt. Stimmen für andere als auf dem Wahlzettel aufgeführte Personen und Wiederholungen des gleichen Namens sind ungültig.
-
-<sup>3</sup> Für jede Pfarrerin und jeden Pfarrer entscheiden die für sie oder ihn abgegebenen Ja- oder Nein-Stimmen.
-
-<sup>4</sup> Das gleiche Verfahren wird angewendet, wenn sich mehr Pfarrerinnen oder Pfarrer zur Bestätigungswahl stellen, als Pfarrstellen bestehen. Erhalten mehr Pfarrerinnen oder Pfarrer, als zu bestätigen sind, mehr Ja- als Nein-Stimmen, gilt das relative Mehr. Bei Stimmengleichheit entscheidet das Los.
-
-#### Art. 24
-
-**Übrige Urnenwahlen**
-
-<sup>1</sup> Die bis zum gültig zustande gekommenen Begehren auf
-
-Durchführung einer Urnenwahl vorliegenden Wahlvorschläge sowie diejenigen, welche der Präsidentin oder dem Präsidenten der Kirchenpflege bis spätestens 15 Tage nach der Kirchgemeindeversammlung schriftlich, unterzeichnet von mindestens 15 Stimmberechtigten eingereicht worden sind, werden auf Wahlzettel gedruckt.
-
-<sup>2</sup> Für die Stimmabgabe, die Auswertung der Wahlzettel, die Ermittlung des Wahlergebnisses und den Abschluss der Wahl gelten sinngemäss die Bestimmungen von §§ 65 ff. GPR[^24-1]. Es gibt jedoch nur einen Wahlgang; massgebend ist das relative Mehr.
-
-**7**
-
-- 1\. 1. 10 - 67
-
-[^24-1]: LS 161.
-
-### V. Die Kirchenpflege
-
-#### Art. 25
-
 **Zusammensetzung**
 
-Die Kirchenpflege besteht aus neun Mitgliedern der Kirchgemeinde, die in der Kirchgemeindeversammlung auf Amtsdauer gewählt werden.
+Die Kirchenpflege besteht aus mindestens fünf Mitgliedern der Kirchgemeinde, die in der Kirchgemeindeversammlung auf Amtsdauer gewählt werden.
 
-#### Art. 26
+#### Art. 23
 
 **Funktion**
 
 Die Kirchenpflege ist die leitende Behörde der Kirchgemeinde. Als solche berät, entscheidet und vollzieht sie die Geschäfte. Sie führt die Verwaltung und nimmt gemeinsam mit dem Bischof die Aufsicht über die Amtsführung der Geistlichen sowie die Aufgabenerfüllung durch Angestellte, Beauftragte und Freiwillige wahr.
 
-#### Art. 27
+#### Art. 24
 
 **Unvereinbarkeit**
 
-<sup>1</sup> Die Pfarrerinnen und Pfarrer, Diakoninnen und Dia-
+<sup>1</sup> Die Pfarrerinnen und Pfarrer, Diakoninnen und Diakone
 
-kone sowie die in einem Anstellungsverhältnis zur Kirchgemeinde stehenden Mitarbeiterinnen und Mitarbeiter können nicht Mitglieder der Kirchenpflege sein.
+sowie die in einem Anstellungsverhältnis zur Kirchgemeinde stehenden Mitarbeiterinnen und Mitarbeiter können nicht Mitglieder der Kirchenpflege sein.
 
-<sup>2</sup> Die Geistlichen sowie der oder die mit der Protokollführung betraute Mitarbeiter oder Mitarbeiterin des Kirchgemeindesekretariats nehmen mit beratender Stimme an den Sitzungen teil. Die Kirchenpflege kann für einzelne Geschäfte weitere Personen mit beratender Stimme zu den Sitzungen einladen.
+<sup>2</sup> Die Geistlichen sowie die oder der mit der Protokollführung betraute Mitarbeitende des Kirchgemeindesekretariats nehmen mit beratender Stimme an den Sitzungen teil. Die Kirchenpflege kann für einzelne Geschäfte weitere Personen mit beratender Stimme zu den Sitzungen einladen.
 
-#### Art. 28
+#### Art. 25
 
 **Konstituierung**
 
 <sup>1</sup> Mit Ausnahme der von der Kirchgemeindeversammlung
 
-gewählten Präsidentin bzw. des Präsidenten konstituiert sich die Kirchenpflege selber. Sie wählt insbesondere aus ihrer Mitte eine Vizepräsidentin oder einen Vizepräsidenten, die Gutsverwalterin oder den Gutsverwalter, die Aktuarin oder den Aktuar sowie die Archivarin oder den Archivar mit den entsprechenden Aufgabenbereichen.
+gewählten Präsidentin oder des gewählten Präsidenten konstituiert sich die Kirchenpflege selber. Sie wählt insbesondere aus ihrer Mitte eine Vizepräsidentin oder einen Vizepräsidenten, die Gutsverwalterin oder den Gutsverwalter, die Aktuarin oder den Aktuar sowie die Archivarin oder den Archivar mit den entsprechenden Aufgabenbereichen.
 
-<sup>2</sup> Der Präsident bzw. die Präsidentin oder die Vizepräsidentin bzw. der Vizepräsident zeichnet zusammen mit der Aktuarin bzw. dem Aktuar oder der Gutsverwalterin bzw. dem Gutsverwalter kollektiv zu zweien.
+<sup>2</sup> Die Präsidentin oder der Präsident oder die Vizepräsidentin oder der Vizepräsident zeichnet zusammen mit der Aktuarin oder dem Aktuar oder der Gutsverwalterin oder dem Gutsverwalter kollektiv zu zweien. Durch Beschluss der Kirchenpflege können weitere kollektiv zu zweien Zeichnungsberechtigte ernannt werden.
 
-#### Art. 29
+#### Art. 26
 
 **Aufgaben**
 
@@ -418,11 +359,13 @@ nisse:
 
 - g. Vollzug der Beschlüsse und Prüfung der Empfehlungen von Bischof, Synodalrat und Nationalsynode,
 
-- h. Abgabe der Empfehlung für Mitglieder der Kirchgemeinde, die zum selbstständigen Diakonat geweiht werden sollen,
+**7**
+
+1.10. 22 - 118 h. Abgabe der Empfehlung für Mitglieder der Kirchgemeinde, die zum selbstständigen Diakonat geweiht werden sollen,
 
 - i. Anstellung von Mitarbeiterinnen und Mitarbeitern wie Diakon, Pfarrverweser und Vikar, Katechet, Sigrist, Organist, Dirigent eines Kirchenchors sowie von Mitarbeiterinnen oder Mitarbeitern des Kirchgemeindesekretariates usw.,
 
-- k. Feststellung der Anstellungsbedingungen für Pfarrerinnen und Pfarrer sowie der übrigen Mitarbeiterinnen und Mitarbeiter,
+- k. Feststellung der Anstellungsbedingungen für Pfarrerinnen und Pfarrer sowie der übrigen Behördemitglieder, Mitarbeiterinnen und Mitarbeiter,
 
 - l. Verwaltung der Liegenschaften und der übrigen Vermögenswerte sowie Planung von Bauvorhaben,
 
@@ -434,13 +377,13 @@ nisse:
 
 <sup>3</sup> Die Kirchenpflege kann administrative Aufgaben einem Kirchgemeindesekretariat übertragen.
 
-#### Art. 30
+#### Art. 27
 
 **Finanzkompetenzen**
 
 <sup>1</sup> Die Kirchenpflege beschliesst Ausgaben im Rahmen des
 
-Budgets und der besonderen Ausgabenbeschlüsse der Kirchgemeindeversammlung.
+Budgets und der besonderen Ausgabebeschlüsse der Kirchgemeindeversammlung.
 
 <sup>2</sup> In eigener Kompetenz beschliesst sie über:
 
@@ -452,35 +395,29 @@ Budgets und der besonderen Ausgabenbeschlüsse der Kirchgemeindeversammlung.
 
 - 2\. jährlich wiederkehrende Ausgaben im Einzelfall bis zu Fr. 10 000, insgesamt aber nicht mehr als Fr. 40 000 im Jahr.
 
-<sup>3</sup> Diese Ansätze verändern sich entsprechend der Veränderung des Landesindexes der Konsumentenpreise des Bundesamtes für Statistik.
+<sup>2</sup> Diese Ansätze verändern sich entsprechend der Veränderung des Landesindexes der Konsumentenpreise des Bundesamtes für Statistik.
 
-**9**
-
-- 1\. 1. 10 - 67
-
-#### Art. 31
+#### Art. 28
 
 **Berichterstattung**
 
-<sup>1</sup> Die Kirchenpflege erstattet durch ihre Präsidentin bzw.
+<sup>1</sup> Die Kirchenpflege erstattet durch ihre Präsidentin oder
 
 ihren Präsidenten der Kirchgemeindeversammlung jährlich Bericht über ihre Tätigkeit und unterbreitet die Jahresrechnung und das Budget zur Genehmigung.
 
 <sup>2</sup> Sie besorgt die Berichterstattung gegenüber dem Kanton, insbesondere über die Verwendung der Kostenbeiträge und der Erträge aus den Kirchensteuern der juristischen Personen sowie über die Auswirkungen und die Wirksamkeit der durchgeführten Tätigkeitsprogramme.
 
-#### Art. 32
+#### Art. 29
 
 **Sitzungen**
 
 <sup>1</sup> Die Sitzungen der Kirchenpflege werden von der Präsi-
 
-dentin bzw. dem Präsidenten nach Bedarf oder auf Verlangen von mindestens drei Mitgliedern einberufen.
+dentin oder dem Präsidenten nach Bedarf oder auf Verlangen von mindestens drei Mitgliedern einberufen.
 
-<sup>2</sup> Sie werden von der Präsidentin bzw. dem Präsidenten oder im Falle der Verhinderung von einem anderen Mitglied geleitet, wobei die Bestimmungen über die Gemeindevorsteherschaft gemäss Gemeindegesetz[^32-1] sinngemäss anzuwenden sind.
+<sup>2</sup> Sie werden von der Präsidentin oder dem Präsidenten oder im Fall der Verhinderung von einem anderen Mitglied geleitet, wobei die Bestimmungen über den Gemeindevorstand gemäss Gemeindegesetz sinngemäss anzuwenden sind.
 
-[^32-1]: LS 131.1.
-
-#### Art. 33
+#### Art. 30
 
 **Beschlussfassung**
 
@@ -488,43 +425,47 @@ dentin bzw. dem Präsidenten nach Bedarf oder auf Verlangen von mindestens drei 
 
 der Mitglieder anwesend ist. Sie entscheidet mit dem Mehr der Anwesenden.
 
-<sup>2</sup> Jedes Mitglied ist zur Stimmabgabe verpflichtet. Die Präsidentin bzw. der Präsident stimmt mit. Bei gleichgeteilten Stimmen gibt die Stimme der Präsidentin bzw. des Präsidenten den Ausschlag.
+<sup>2</sup> Jedes Mitglied ist zur Stimmabgabe verpflichtet. Die Präsidentin oder der Präsident stimmt mit. Bei gleichgeteilten Stimmen gibt die Stimme der Präsidentin oder des Präsidenten den Ausschlag.
 
-<sup>3</sup> Formelle Verfügungen und Verfügungen, die zwar materieller Natur, aber von geringer Bedeutung oder dringlich sind, können in der Zeit zwischen zwei Sitzungen von der Präsidentin bzw. dem Präsidenten oder auf dem Zirkularweg getroffen werden.
+<sup>3</sup> Formelle Verfügungen und Verfügungen, die zwar materieller Natur, aber von geringer Bedeutung oder dringlich sind, können in der Zeit zwischen zwei Sitzungen von der Präsidentin oder dem Präsidenten oder auf dem Zirkularweg getroffen werden.
 
-#### Art. 34
+#### Art. 31
 
 **Protokoll, Veröffentlichung**
 
-<sup>1</sup> Über die Verhandlungen der Kirchenpflege wird ein
+<sup>1</sup> Über die Verhandlungen der Kirchenpflege wird ein Pro-
 
-Protokoll geführt. Dieses enthält sämtliche Beschlüsse, die Präsidialverfügungen und auf Verlangen die Anträge einzelner Mitglieder oder Minderheiten.
+tokoll geführt. Dieses enthält sämtliche Beschlüsse, die Präsidialverfügungen und auf Verlangen die Anträge einzelner Mitglieder oder Minderheiten.
 
-<sup>2</sup> In jeder Sitzung wird das Protokoll über die vorausgegangene Sitzung und über die in der Zwischenzeit getroffenen Präsidialverfügungen und Zirkulationsbeschlüsse zum Zwecke der Genehmigung aufgelegt und alsdann von der Präsidentin bzw. dem Präsidenten und der Protokollführerin bzw. dem Protokollführer unterzeichnet.
+<sup>2</sup> In jeder Sitzung wird das Protokoll über die vorausgegangene Sitzung und über die in der Zwischenzeit getroffenen Präsidialverfügungen und Zirkulationsbeschlüsse zum Zwecke der Genehmigung aufgelegt und alsdann von der Präsidentin oder dem Präsidenten und der Protokollführerin oder dem Protokollführer unterzeichnet.
 
-<sup>3</sup> Allgemein verbindliche Beschlüsse der Kirchenpflege werden im Christkatholischen Kirchenblatt und im Amtsblatt veröffentlicht.
+<sup>3</sup> Allgemein verbindliche Beschlüsse der Kirchenpflege werden in der Zeitschrift der Christkatholischen Kirche der Schweiz und im Amtsblatt veröffentlicht.
 
-### VI. Die Rechnungsprüfungskommission
+### V. Die Rechnungsprüfungskommission
 
-#### Art. 35
+#### Art. 32
 
 **Zusammensetzung**
 
 Die Rechnungsprüfungskommission besteht aus drei Mitgliedern der Kirchgemeinde, die in der Kirchgemeindeversammlung auf Amtsdauer gewählt werden.
 
-#### Art. 36
+**9**
+
+1.10. 22 - 118
+
+#### Art. 33
 
 **Unvereinbarkeit**
 
 Die Mitglieder der Kirchenpflege, die Pfarrerinnen und Pfarrer sowie die in einem Anstellungsverhältnis zur Kirchgemeinde stehenden Mitarbeiterinnen und Mitarbeiter können nicht Mitglieder der Rechnungsprüfungskommission sein.
 
-#### Art. 37
+#### Art. 34
 
 **Konstituierung**
 
 Die Rechnungsprüfungskommission konstituiert sich selbst. Sie wählt aus ihrer Mitte die Präsidentin oder den Präsidenten.
 
-#### Art. 38
+#### Art. 35
 
 **Aufgaben**
 
@@ -536,25 +477,25 @@ von finanzieller Tragweite an die Kirchgemeindeversammlung, namentlich die Jahre
 
 <sup>3</sup> Sie kontrolliert das Kassen- und Rechnungswesen der Kirchgemeinde.
 
-#### Art. 39
+#### Art. 36
 
 **Andere Prüfungsorgane**
 
-<sup>1</sup> Die Kirchenpflege kann private Buchprüfer, die über
+<sup>1</sup> Die Kirchenpflege kann mit übereinstimmendem Be-
 
-einen anerkannten Fachausweis verfügen, oder die zuständige Direktion des Regierungsrates zur Überwachung und Kontrolle des Kassen- und Rechnungswesens beiziehen.
+schluss der Rechnungsprüfungskommission die finanztechnische Prüfung einer privaten Prüfstelle übertragen, die den Anforderungen von §§ 145 und 146 GG entspricht und gemäss § 147 GG Bericht erstattet.
 
-<sup>2</sup> Soweit solche Prüfungsorgane Feststellungen der Rechnungsprüfungskommission zur Kenntnis bringen, kann die Rechnungsprüfungskommission auf eigene Prüfung verzichten.
+<sup>2</sup> Soweit die private Prüfstelle Feststellungen der Rechnungsprüfungskommission zur Kenntnis bringt, kann die Rechnungsprüfungskommission auf eigene Prüfung verzichten.
 
-### VII. Finanzen
+### VI. Finanzen
 
-#### Art. 40
+#### Art. 37
 
 **Einnahmen**
 
 Die Einnahmen der Kirchgemeinde bestehen aus:
 
-- a. den Kirchensteuern, die aufgrund von Art. 130 Abs. 3 lit. b KV[^40-1] und §§ 201 ff. des Kantonalen Steuergesetzes (StG)[^40-2] von ihren Mitgliedern und den juristischen Personen erhoben werden,
+- a. den Kirchensteuern, die aufgrund von Art. 130 Abs. 3 lit. b KV und §§ 201 ff. des Steuergesetzes vom 8. Juni 1997 (StG)[^37-1] von ihren Mitgliedern und den juristischen Personen erhoben werden,
 
 - b. Beiträgen,
 
@@ -562,50 +503,41 @@ Die Einnahmen der Kirchgemeinde bestehen aus:
 
 - d. dem Vermögensertrag.
 
-**11**
+[^37-1]: LS 631.1. 1.10. 22 - 118 13
 
-- 1\. 1. 10 - 67
-
-[^40-1]: LS 101.
-[^40-2]: LS 631.1.
-
-#### Art. 41
+#### Art. 38
 
 **Kirchensteuern**
 
 <sup>1</sup> Für die Veranlagung der Kirchensteuern gelten die Be-
 
-stimmungen der §§ 187–198 StG[^41-1] sinngemäss.
+stimmungen von §§ 187–198 StG sinngemäss.
 
 <sup>2</sup> Der Bezug der Kirchensteuern wird den Einwohnergemeinden übertragen.
 
-<sup>3</sup> Einsprachen über Bestand und Umfang der Kirchensteuerpflicht können gemäss § 204 StG[^41-1] bei der Kirchenpflege erhoben werden. Der Einspracheentscheid ist innert 30 Tagen ab Zustellung bei der Steuerrekurskommission anfechtbar. Für das Verfahren gilt das kantonale Recht als kirchlich-körperschaftliches Recht.
+<sup>3</sup> Einsprachen über Bestand und Umfang der Kirchensteuerpflicht können gemäss § 204 StG bei der Kirchenpflege erhoben werden. Der Einspracheentscheid ist innert 30 Tagen ab Zustellung bei der Steuerrekurskommission anfechtbar. Für das Verfahren gilt das kantonale Recht als kirchlich-körperschaftliches Recht.
 
-[^41-1]: LS 631.1.
-
-#### Art. 42
+#### Art. 39
 
 **Kirchenopfer**
 
 Die Kirchenopfer werden in der Regel für soziale Zwecke entgegengenommen. Die Kirchenpflege entscheidet auf Vorschlag des Pfarramtes über ihre Verwendung.
 
-### VIII. Das Pfarramt
+### VII. Das Pfarramt
 
-#### Art. 43
+#### Art. 40
 
 **Wählbarkeit und Wahl**
 
-<sup>1</sup> Als Pfarrerin bzw. Pfarrer wählbar ist jede Priesterin
+<sup>1</sup> Als Pfarrerin oder Pfarrer wählbar ist jede Priesterin oder
 
-bzw. jeder Priester, die oder der über einen Nachweis über eine theoretische und praktische Ausbildung verfügt, der von einer vom Synodalrat der Christkatholischen Kirche der Schweiz anerkannten Prüfungsbehörde ausgestellt ist. Die Tätigkeit der Pfarrerin bzw. des Pfarrers kann vollamtlich oder teilzeitlich sein.
+jeder Priester, die oder der über einen Nachweis über eine theoretische und praktische Ausbildung verfügt, der von einer vom Synodalrat der Christkatholischen Kirche der Schweiz anerkannten Prüfungsbehörde ausgestellt ist. Die Tätigkeit der Pfarrerin oder des Pfarrers kann vollamtlich oder teilzeitlich sein.
 
-<sup>2</sup> Die Neubesetzung von Pfarrstellen erfolgt, in Absprache mit dem Bischof, auf dem Berufungsweg. Die Kirchenpflege kann eine Ausschreibung der Stelle beschliessen. Die Neuwahl einer Pfarrerin bzw. eines Pfarrers erfolgt durch die Kirchgemeindeversammlung in geheimer Wahl auf Amtsdauer. Die Bestätigungswahl richtet sich nach den Bestimmungen von §§ 117 und 118 GPR[^43-1] und vorstehender Ziff. IV.
+<sup>2</sup> Die Kirchenpflege legt die Anzahl zu besetzender Pfarrstellen fest. Die Neubesetzung von Pfarrstellen erfolgt, in Absprache mit dem Bischof, auf dem Berufungsweg. Die Kirchenpflege kann eine Ausschreibung der Stelle beschliessen. Die Neuwahl und Bestätigungswahl einer Pfarrerin oder eines Pfarrers erfolgt durch die Kirchgemeindeversammlung in geheimer Wahl auf Amtsdauer.
 
-[^43-1]: LS 161.
+#### Art. 41
 
-#### Art. 44
-
-**Der kirchliche Auftrag**
+**Kirchlicher Auftrag**
 
 <sup>1</sup> Die Priesterinnen und Priester sowie Diakoninnen und
 
@@ -613,13 +545,15 @@ Diakone der Kirchgemeinde üben im Auftrag des Bischofs und der Kirchgemeinde di
 
 <sup>2</sup> Die spezifischen Aufgaben der geistlichen Personen sind namentlich die Feier der Eucharistie und die Spendung der Sakramente gemäss ihrer Beauftragung und den Richtlinien der Nationalsynode.
 
-#### Art. 45
+**11**
+
+1.10. 22 - 118
+
+#### Art. 42
 
 **Aufgaben der Pfarrerinnen und Pfarrer**
 
-<sup>1</sup> Die Aufgaben der Pfarrerinnen und Pfarrer sind nament-
-
-lich:
+Die Aufgaben der Pfarrerinnen und Pfarrer sind namentlich:
 
 - a. Gestaltung von Gottesdienst und Predigt,
 
@@ -635,7 +569,7 @@ lich:
 
 <sup>2</sup> Die Pfarrerinnen und Pfarrer üben ihre Tätigkeit im Zusammenwirken mit der Kirchenpflege aus, an deren Sitzungen sie mit beratender Stimme teilnehmen.
 
-#### Art. 46
+#### Art. 43
 
 **Pfarrkonvent**
 
@@ -649,34 +583,28 @@ Diakone beraten sich und beschliessen über die ihnen obliegenden Aufgaben im Pf
 
 <sup>4</sup> Der Pfarrkonvent kann weitere Personen mit beratender Stimme zu seinen Sitzungen einladen.
 
-#### Art. 47
+#### Art. 44
 
 **Unentgeltlichkeit**
 
-Die Dienste der Geistlichen sind grundsätzlich unentgeltlich. Über freiwillige Spenden und deren Verwendung legt das Pfarramt der Kirchenpflege jährlich einen zusammenfassenden Bericht vor.
+Die Dienste der Geistlichen sind grundsätzlich unentgeltlich.
 
-### IX. Übergangs- und Schlussbestimmungen
+### VIII. Übergangs- und Schlussbestimmungen
 
-#### Art. 48
+#### Art. 45
 
 **Inkrafttreten**
 
 <sup>1</sup> Die Kirchenordnung tritt nach deren Annahme in der
 
-Kirchgemeindeversammlung und der Genehmigung durch den Regierungsrat[^48-1] und den Synodalrat der Christkatholischen Kirche der Schweiz[^48-2] zusammen mit dem Kirchengesetz[^48-3] in Kraft[^48-4].
+Kirchgemeindeversammlung und der Genehmigung durch den Regierungsrat[^45-1] und den Synodalrat der Christkatholischen Kirche der Schweiz[^45-2] am 3. April 2019 in Kraft.
 
-<sup>2</sup> Sie ersetzt die Kirchenordnung vom 5. Juni 1991.
+<sup>2</sup> Sie ersetzt die Kirchenordnung vom 30. Juni 2009 und wurde durch Beschluss der Kirchgemeindeversammlung vom 21. Juni 2018 revidiert.
 
-**13**
+[^45-1]: Vom Regierungsrat genehmigt am 3. April 2019.
+[^45-2]: Vom Synodalrat der Christkatholischen Kirche der Schweiz genehmigt am 2. November 2018.
 
-- 1\. 1. 10 - 67
-
-[^48-1]: Vom Synodalrat der Christkatholischen Kirche der Schweiz genehmigt am 21. August 2009.
-[^48-2]: Vom Regierungsrat genehmigt am 25. November 2009.
-[^48-3]: LS 180.1.
-[^48-4]: Inkrafttreten: 1. Januar 2010 (OS 63, 152).
-
-#### Art. 49
+#### Art. 46
 
 **Amtsdauer**
 
