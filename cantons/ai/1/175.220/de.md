@@ -4,11 +4,12 @@ number: "175.220"
 title: Grossratsbeschluss über die Grenzbeschriebe der Bezirke des inneren Landesteiles des Kantons Appenzell I. Rh.
 language: de
 version: 2022-05-01
+corrected: 2022-07-27
 version_adopted: 2022-02-07
 adopted: 1920-11-29
 in_force: 1920-11-29
 url: "https://ai.clex.ch/app/de/texts_of_law/175.220"
-pdf: "https://ai.clex.ch/api/de/versions/2064/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2034/pdf_file"
 text: pdf
 ---
 
