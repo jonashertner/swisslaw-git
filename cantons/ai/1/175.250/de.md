@@ -4,11 +4,12 @@ number: "175.250"
 title: Grossratsbeschluss über den Grenzbeschrieb der Feuerschaugemeinde Appenzell
 language: de
 version: 2022-05-01
+corrected: 2022-07-27
 version_adopted: 2022-02-07
 adopted: 1962-11-29
 in_force: 1963-01-01
 url: "https://ai.clex.ch/app/de/texts_of_law/175.250"
-pdf: "https://ai.clex.ch/api/de/versions/2067/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2037/pdf_file"
 text: pdf
 ---
 
