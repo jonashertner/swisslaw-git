@@ -4,11 +4,12 @@ number: "175.240"
 title: Grossratsbeschluss über Grenzbeschriebe der Kirchgemeinden des Kantons Appenzell I. Rh.
 language: de
 version: 2022-05-01
+corrected: 2022-07-27
 version_adopted: 2022-02-07
 adopted: 1921-09-13
 in_force: 1921-09-13
 url: "https://ai.clex.ch/app/de/texts_of_law/175.240"
-pdf: "https://ai.clex.ch/api/de/versions/2066/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2036/pdf_file"
 text: pdf
 ---
 
