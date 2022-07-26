@@ -4,11 +4,12 @@ number: "175.230"
 title: Grossratsbeschluss über Grenzbeschriebe der Schulgemeinden des Kantons Appenzell I. Rh.
 language: de
 version: 2022-05-01
+corrected: 2022-07-27
 version_adopted: 2022-02-07
 adopted: 1921-11-29
 in_force: 1921-11-29
 url: "https://ai.clex.ch/app/de/texts_of_law/175.230"
-pdf: "https://ai.clex.ch/api/de/versions/2065/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2035/pdf_file"
 text: pdf
 ---
 
