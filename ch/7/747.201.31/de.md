@@ -4,11 +4,11 @@ title: Ausführungsbestimmungen des UVEK vom 28. August 2017 zur Verordnung übe
 short: AB-VASm
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/548"
 language: de
-version: 2020-04-01
+version: 2022-07-29
 adopted: 2017-08-28
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/548/20200401/de/xml/fedlex-data-admin-ch-eli-cc-2017-548-20200401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/548/20200401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/548/20220729/de/xml/fedlex-data-admin-ch-eli-cc-2017-548-20220729-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/548/20220729/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/548/20200401/de"
 
 (AB-VASm)
 
-vom 28. August 2017 (Stand am 1. April 2020)
+vom 28. August 2017 (Stand am 29. Juli 2022)
 
 Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK),
 
@@ -52,7 +52,7 @@ In diesen Ausführungsbestimmungen bedeuten:
 
 #### Art. 3
 
-**Pflicht zur Abgasnachuntersuchung und zur Kontrolle an Motoren mit Partikelfilter-System**[^3-1]
+**Pflicht zur Abgasnachuntersuchung und zur Kontrolle an Motoren mit Partikelfilter‑System**[^3-1]
 
 An Motoren und Abgasnachbehandlungssystemen von zugelassenen Schiffen sind in regelmässigen Zeitabständen Abgasnachuntersuchungen und Kontrollen durchzuführen.
 
@@ -60,7 +60,7 @@ An Motoren und Abgasnachbehandlungssystemen von zugelassenen Schiffen sind in re
 
 #### Art. 4
 
-**Umfang der Abgasnachuntersuchung an Fremdzündungs- und Selbstzündungsmotoren und deren Abgasnachbehandlungs-systemen[^4-1]**
+**Umfang der Abgasnachuntersuchung an Fremdzündungs- und Selbstzündungsmotoren und deren Abgasnachbehandlungssystemen[^4-1]**
 
 <sup>1</sup> Der Mindestumfang der Abgasnachuntersuchung an Fremdzündungs- und Selbstzündungsmotoren und deren Abgasnachbehandlungssystemen richtet sich nach den Vorgaben in Anhang 1 Ziffer 6. Sofern vom Hersteller zur Gewährleistung einer einwandfreien Wartung zusätzliche oder abweichende Vorgaben über den Umfang und die Periodizität der Abgasnachuntersuchung vorliegen, sind diese zu berücksichtigen.[^4-2]
 
@@ -96,7 +96,7 @@ Die Messung der Partikelanzahl ist mit Messmitteln für Nanopartikel aus Verbren
 
 #### Art. 8
 
-**Fristen für die Abgasnachuntersuchung und die Kontrolle der Partikelfilter-Systeme**
+**Fristen für die Abgasnachuntersuchung und die Kontrolle der Partikelfilter‑Systeme**
 
 <sup>1</sup>
 
@@ -125,11 +125,11 @@ Die Fristen für die Abgasnachuntersuchung und die Kontrolle der Partikelfilter-
 [^9-2]: [SR 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
 [^9-3]: [SR 941.242](https://fedlex.data.admin.ch/eli/cc/2006/251)
 
-## 3. Abschnitt: Durchführung der Abgasnachuntersuchung und der periodischen Kontrolle der Partikelfilter-Systeme
+## 3. Abschnitt: Durchführung der Abgasnachuntersuchung und der periodischen Kontrolle der Partikelfilter‑Systeme
 
 #### Art. 10
 
-**Voraussetzungen für die Durchführung von Abgasnachuntersuchungen und periodischen Kontrollen der Partikelfilter-Systeme**
+**Voraussetzungen für die Durchführung von Abgasnachuntersuchungen und periodischen Kontrollen der Partikelfilter‑Systeme**
 
 <sup>1</sup> Abgasnachuntersuchungen und periodische Kontrollen der Partikelfiltersysteme dürfen nur von Personen und Betrieben vorgenommen werden, die von der zuständigen Behörde dafür zugelassen sind.
 
@@ -147,7 +147,7 @@ Die notwendigen Kenntnisse nach Absatz 2 gelten als vorhanden, wenn die für die
 
 #### Art. 11
 
-**Zulassung zur Durchführung von Abgasnachuntersuchungen oder zu periodischen Kontrollen von Partikelfilter-Systemen**
+**Zulassung zur Durchführung von Abgasnachuntersuchungen oder zu periodischen Kontrollen von Partikelfilter‑Systemen**
 
 <sup>1</sup> Ist eine Person oder ein Betrieb an der Durchführung von Abgasnachuntersuchungen oder periodischen Kontrollen der Partikelfilter-Systeme interessiert, so hat sie oder er die Angaben im Antragsformular nach Anhang 2 zu bestätigen und den Antrag an die zuständige Behörde zu senden. Zuständig ist die Behörde des Kantons, in dem sich der Betrieb befindet. Die zuständige Behörde entscheidet über den Antrag. Sie kann Kontrollen durchführen.
 
@@ -175,11 +175,13 @@ Das Abgaswartungsdokument ist vom Hersteller eines Motors oder von der Inhaberin
 
 **Vorweisen des Abgaswartungsdokuments**
 
-<sup>1</sup> Die Eigentümerin, der Eigentümer, die Halterin oder der Halter eines Schiffes muss für Motoren und Partikelfilter-Systeme, die in Betrieb sind, ein Abgaswartungsdokument vorweisen können. Davon ausgenommen sind Motoren, die nach Artikel 3 Absatz 2 von der Abgasnachuntersuchung befreit sind.
+<sup>1</sup> Die Eigentümerin, der Eigentümer, die Halterin oder der Halter eines Schiffes muss für Motoren und Partikelfilter-Systeme, die in Betrieb sind, ein Abgaswartungsdokument vorweisen können.[^14-1]
 
 <sup>2</sup> Das Abgaswartungsdokument ist der zuständigen Behörde bei der Inbetriebnahme eines Motors, der der Abgasnachuntersuchung oder der Kontrolle des Partikelfilter-Systems unterliegt, vorzuweisen.
 
 <sup>3</sup> Es ist immer auf dem Schiff mitzuführen und der zuständigen Behörde oder der Polizei auf Verlangen vorzuweisen.
+
+[^14-1]: Fassung gemäss Ziff. I der V des UVEK vom 19. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 723](https://fedlex.data.admin.ch/eli/oc/2020/133)). Berichtigung vom 29. Juli 2022 ([AS 2022 431](https://fedlex.data.admin.ch/eli/oc/2022/431)).
 
 #### Art. 15
 
@@ -231,7 +233,7 @@ Die Ausführungsbestimmungen des UVEK vom 9. Januar 2009[^18-1] zur Verordnung �
 
 Diese Ausführungsbestimmungen treten am 1. Januar 2018 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 4 Abs. 1 und 12 Abs. 1)
 
@@ -260,7 +262,7 @@ Das Abgaswartungsdokument muss die folgenden Rubriken und Angaben (Mindestanford
   - – Motortyp (Modell)
   - – Motornummer
   - – Prüfnummer der Abgastypengenehmigung, Nummer der Bestätigung über die Konformität des Motors mit den Anforderungen gemäss der Richtlinie 2013/53/EU[^annex1-lvlu1-1] oder des Abgastypengenehmigungszertifikates
-  - – Bereich der maximalen Drehzahl nach «ISO 3046, 2009-12, Hubkolben-Verbrennungsmotoren – Anforderungen – Teil 4: Drehzahlregelung» oder «EN 8665, 2006-12, Kleine Wasserfahrzeuge – Schiffsantriebs-Hubkolben-Verbrennungsmotoren – Leistungsmessungen und Leistungsangaben (ISO 8665:2006)»[^annex1-lvlu1-2]
+  - – Bereich der maximalen Drehzahl nach «ISO 3046, 2009-12, Hubkolben-Verbrennungsmotoren – Anforderungen – Teil 4: Drehzahlregelung» oder «EN 8665, 2006‑12, Kleine Wasserfahrzeuge – Schiffsantriebs-Hubkolben-Verbrennungsmotoren – Leistungsmessungen und Leistungsangaben (ISO 8665:2006)»[^annex1-lvlu1-2]
   - – Lehrlaufdrehzahlbereich in min<sup>-1</sup>
 
 - 6\. *Auszuführende Arbeiten und Kontrollen bei der Abgasnachuntersuchung*

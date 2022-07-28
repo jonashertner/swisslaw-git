@@ -4,11 +4,11 @@ title: "Dispositions d'exécution du DETEC du 28 août 2017 de l'ordonnance sur 
 short: DE-OMBat
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/548"
 language: fr
-version: 2020-04-01
+version: 2022-07-29
 adopted: 2017-08-28
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/548/20200401/fr/xml/fedlex-data-admin-ch-eli-cc-2017-548-20200401-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/548/20200401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/548/20220729/fr/xml/fedlex-data-admin-ch-eli-cc-2017-548-20220729-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/548/20220729/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/548/20200401/fr"
 
 (DE-OMBat)
 
-du 28 août 2017 (Etat le 1<sup>er</sup> avril 2020)
+du 28 août 2017 (État le 29 juillet 2022)
 
 Le Département fédéral de l’environnement, des transports, des communications et de l’énergie (DETEC),
 
@@ -60,7 +60,7 @@ Les moteurs et les systèmes de post-traitement des gaz d’échappement de bate
 
 #### Art. 4
 
-**Étendue des contrôles subséquents des gaz d’échappement des moteurs à allumage commandé et à allumage par compression et de leurs systèmes de post-traitement des gaz d’échappement[^4-1]**
+**Étendue des contrôles subséquents des gaz d’échappement des moteurs à allumage commandé et à allumage par compression et de leurs systèmes de post‑traitement des gaz d’échappement[^4-1]**
 
 <sup>1</sup> L’étendue minimale du contrôle subséquent des gaz d’échappement des moteurs à allumage commandé et à allumage par compression ainsi que de leurs systèmes de post-traitement des gaz d’échappement est régie par les prescriptions figurant à l’annexe 1, ch. 6. Si le fabricant a prévu des prescriptions supplémentaires ou différentes quant à l’étendue et à la périodicité du contrôle subséquent des gaz d’échappement afin de garantir un entretien irréprochable, il y a lieu d’en tenir compte.[^4-2]
 
@@ -75,7 +75,7 @@ Les moteurs et les systèmes de post-traitement des gaz d’échappement de bate
 
 Lors du contrôle des systèmes de filtres à particules, il y a lieu de mesurer le nombre de particules à la fin de tous les systèmes. Le nombre de particules mesuré ne doit pas dépasser la valeur-limite de 2,5×10<sup>5</sup> particules/cm<sup>3</sup> (= 250 000 particules/cm<sup>3</sup>), conformément à l’art. 15, al. 1, OMBat. Le nombre de particules est mesuré conformément à la procédure de vérification fixée à l’annexe A5 de la directive de l’Office fédéral de l’environnement concernant les mesures d’exploitation et les mesures techniques visant à limiter les émissions de polluants atmosphériques des chantiers (directive Air Chantiers); édition complétée; état février 2016[^5-1].
 
-[^5-1]: Téléchargeable sous: www.bafu.admin.ch &gt; Publications, médias &gt; Publications &gt; Air
+[^5-1]: Téléchargeable sous: www.bafu.admin.ch &gt; Publications, médias &gt; Publications &gt; Air.
 
 #### Art. 6
 
@@ -175,11 +175,13 @@ Le fabricant du moteur ou le titulaire de l’homologation par type des gaz d’
 
 **Présentation de la fiche**
 
-<sup>1</sup> Le propriétaire ou le détenteur du bateau doivent être en mesure de présenter la fiche relative aux moteurs et aux systèmes de filtres à particules en exploitation. Sont exceptés de cette obligation les moteurs exemptés du contrôle subséquent des gaz d’échappement en vertu de l’art. 3, al. 2.
+<sup>1</sup> Le propriétaire ou le détenteur du bateau doivent être en mesure de présenter la fiche relative aux moteurs et aux systèmes de filtres à particules en exploitation.[^14-1]
 
 <sup>2</sup> La fiche doit être présentée à l’autorité compétente lors de la mise en exploitation du moteur soumis au contrôle subséquent des gaz d’échappement ou au contrôle du système de filtres à particules.
 
 <sup>3</sup> Elle doit toujours se trouver à bord du bateau et être présentée, sur demande, à l’autorité compétente ou à la police.
+
+[^14-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 19 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 723](https://fedlex.data.admin.ch/eli/oc/2020/133)). Erratum du 29 juil. 2022 ([RO 2022 431](https://fedlex.data.admin.ch/eli/oc/2022/431)).
 
 #### Art. 15
 
@@ -231,7 +233,7 @@ Les dispositions d’exécution de l’ordonnance du 9 janvier 2009 sur les pres
 
 Les présentes dispositions d’exécution entrent en vigueur le 1<sup>er</sup> janvier 2018.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 4, al. 1, et 12, al. 1)
 
@@ -290,7 +292,7 @@ La fiche d’entretien du système antipollution doit contenir, dans l’une des
 - Attestation portant la date, la signature et le timbre de l’entreprise, selon laquelle le contrôle subséquent des gaz d’échappement et le contrôle du système de filtres à particules ont été exécutés de manière complète et correcte, conformément aux indications du fabricant et en utilisant les appareils de mesure prescrits.
 
 [^annex1-lvlu1-1]: Directive 2013/53/UE du Parlement européen et du Conseil du 20 novembre 2013 relative aux bateaux de plaisance et aux véhicules nautiques à moteur et abrogeant la directive 94/25/CE, JO L 354 du 28.12.2013, p. 90.
-[^annex1-lvlu1-2]: Ces normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour, www.snv.ch
+[^annex1-lvlu1-2]: Ces normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour, www.snv.ch.
 
 Annexe 2
 
@@ -327,4 +329,4 @@ Notre entreprise remplit les conditions mentionnées ci-dessus et demande l’au
 <tr><td></td><td>Signature et timbre de l’entreprise</td></tr>
 </table>
 
-[^annex2-lvlu1-1]: RS **747.223**
+[^annex2-lvlu1-1]: [RS 747.201.3](https://fedlex.data.admin.ch/eli/cc/2015/731)

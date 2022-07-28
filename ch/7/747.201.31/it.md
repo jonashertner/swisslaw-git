@@ -4,11 +4,11 @@ title: "Disposizioni esecutive del DATEC del 28 agosto 2017 dell'ordinanza sui r
 short: DE-OMBat
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/548"
 language: it
-version: 2020-04-01
+version: 2022-07-29
 adopted: 2017-08-28
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/548/20200401/it/xml/fedlex-data-admin-ch-eli-cc-2017-548-20200401-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/548/20200401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/548/20220729/it/xml/fedlex-data-admin-ch-eli-cc-2017-548-20220729-it-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/548/20220729/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/548/20200401/it"
 
 (DE-OMBat)
 
-del 28 agosto 2017 (Stato 1° aprile 2020)
+del 28 agosto 2017 (Stato 29 luglio 2022)
 
 Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (DATEC),
 
@@ -60,7 +60,7 @@ I motori e i sistemi di post-trattamento dei gas di scarico di battelli immatric
 
 #### Art. 4
 
-**Portata del controllo periodico dei gas di scarico dei motori ad accensione comandata e ad accensione per compressione nonché dei sistemi di post-trattamento dei gas di scarico di tali motori[^4-1]**
+**Portata del controllo periodico dei gas di scarico dei motori ad accensione comandata e ad accensione per compressione nonché dei sistemi di post‑trattamento dei gas di scarico di tali motori[^4-1]**
 
 <sup>1</sup> La portata minima dei controlli periodici dei gas di scarico sui motori ad accensione comandata e ad accensione per compressione nonché sui sistemi di post-trattamento dei gas di scarico di tali motori è retta dalle disposizioni di cui all’allegato 1 numero 6. Vanno osservate, per garantire una manutenzione ineccepibile, eventuali disposizioni supplementari o derogatorie del fabbricante riguardo alla portata e alla periodicità di tali controlli.[^4-2]
 
@@ -73,7 +73,7 @@ I motori e i sistemi di post-trattamento dei gas di scarico di battelli immatric
 
 **Controllo dei sistemi di filtri antiparticolato**
 
-- [tab] Durante il controllo dei sistemi di filtri antiparticolato deve essere misurato il numero di particelle alla fine di tutti i sistemi di filtri antiparticolato, se presenti. Nel quadro di queste misurazioni non deve essere superato il valore limite di 2,5×10<sup>5</sup> particelle/cm<sup>3</sup> (= 250 000 particelle/cm<sup>3</sup>) conformemente all’articolo 15 capoverso 1 OMBat. La misurazione del numero di particelle si effettua secondo la procedura stabilita nell’Allegato A5 della direttiva dell’Ufficio federale dell’ambiente sulle misure funzionali e tecniche per la limitazione delle emissioni di inquinanti atmosferici dai cantieri (Direttiva aria cantieri); edizione completata, stato febbraio 2016[^5-1].
+Durante il controllo dei sistemi di filtri antiparticolato deve essere misurato il numero di particelle alla fine di tutti i sistemi di filtri antiparticolato, se presenti. Nel quadro di queste misurazioni non deve essere superato il valore limite di 2,5×10<sup>5</sup> particelle/cm<sup>3</sup> (= 250 000 particelle/cm<sup>3</sup>) conformemente all’articolo 15 capoverso 1 OMBat. La misurazione del numero di particelle si effettua secondo la procedura stabilita nell’Allegato A5 della direttiva dell’Ufficio federale dell’ambiente sulle misure funzionali e tecniche per la limitazione delle emissioni di inquinanti atmosferici dai cantieri (Direttiva aria cantieri); edizione completata, stato febbraio 2016[^5-1].
 
 [^5-1]: Disponibile in Internet alla pagina: www.bafu.admin.ch &gt; Pubblicazioni, media &gt; Pubblicazioni &gt; Aria.
 
@@ -175,11 +175,13 @@ Il documento sulla manutenzione deve essere rilasciato e firmato dal fabbricante
 
 **Esibizione del documento sulla manutenzione**
 
-<sup>1</sup> Il proprietario o il detentore di un battello deve poter esibire il documento sulla manutenzione per i motori e i sistemi di filtri antiparticolato in servizio. Fanno eccezione i motori esenti dal controllo periodico dei gas di scarico secondo l’articolo 3 capoverso 2.
+<sup>1</sup> Il proprietario o il detentore di un battello deve poter esibire il documento sulla manutenzione per i motori e i sistemi di filtri antiparticolato in servizio.[^14-1]
 
 <sup>2</sup> Il documento sulla manutenzione va esibito all’autorità competente in occasione della messa in servizio di un motore soggetto al controllo periodico dei gas di scarico o al controllo del sistema di filtri antiparticolato.
 
 <sup>3</sup> Esso deve sempre essere custodito a bordo del battello in modo da poterlo esibire, se richiesto, all’autorità competente o alla polizia.
+
+[^14-1]: Nuovo testo giusta il n. I dell’O del DATEC del 19 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 723](https://fedlex.data.admin.ch/eli/oc/2020/133)). Correzione del 29 lug. 2022 ([RU 2022 431](https://fedlex.data.admin.ch/eli/oc/2022/431)).
 
 #### Art. 15
 
@@ -231,7 +233,7 @@ Le disposizioni esecutive del DATEC del 9 gennaio 2009[^18-1] dell’ordinanza s
 
 Le presenti disposizioni esecutive entrano in vigore il 1° gennaio 2018.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 4 cpv. 1 e 12 cpv. 1)
 
@@ -260,7 +262,7 @@ Il documento sulla manutenzione deve comprendere le voci e i dati (requisiti min
   - – Tipo (modello)
   - – Numero
   - – Numero di controllo dell’omologazione relativa ai gas di scarico, numero della conferma sulla conformità del motore ai requisiti di cui alla direttiva 2013/53/UE[^annex1-lvlu1-1] o al certificato dell’omologazione relativa ai gas di scarico
-  - – Fascia del numero massimo di giri secondo la norma «ISO 3046, 2009-12, Hubkolben-Verbrennungsmotoren – Anforderungen – Teil 4: Drehzahlregelung» oppure «EN 8665, 2006-12, Kleine Wasserfahrzeuge – Schiffsantriebs-Hubkolben-Verbrennungsmotoren – Leistungsmessungen und Leistungsangaben (ISO 8665:2006)»[^annex1-lvlu1-2]
+  - – Fascia del numero massimo di giri secondo la norma «ISO 3046, 2009-12, Hubkolben-Verbrennungsmotoren – Anforderungen – Teil 4: Drehzahlregelung» oppure «EN 8665, 2006‑12, Kleine Wasserfahrzeuge – Schiffsantriebs-Hubkolben-Verbrennungsmotoren – Leistungsmessungen und Leistungsangaben (ISO 8665:2006)»[^annex1-lvlu1-2]
   - – Numero di giri al minimo in min<sup>-1</sup>
 
 - 6\. *Lavori e controlli da eseguire nell’ambito del controllo periodico dei gas di scarico*
@@ -323,7 +325,7 @@ L’azienda soddisfa le condizioni summenzionate e chiede pertanto di poter eseg
 <tr><td>Ditta:</td><td>Data:</td></tr>
 <tr><td>Indirizzo:</td><td></td></tr>
 <tr><td>NPA/Luogo:</td><td></td></tr>
-<tr><td>Tel. :</td><td></td></tr>
+<tr><td>Tel.:</td><td></td></tr>
 <tr><td></td><td>Firma e timbro</td></tr>
 </table>
 
