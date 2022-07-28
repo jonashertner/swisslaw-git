@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordinanza del 4 marzo 2022 che istituisce provvedimenti in relazione alla situazione in Ucraina
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: it
-version: 2022-06-29
+version: 2022-07-29
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20220629/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20220629-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20220629/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20220729/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20220729-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20220729/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti in relazione alla situazione in Ucraina
 
-del 4 marzo 2022 (Stato 29 giugno 2022)
+del 4 marzo 2022 (Stato 29 luglio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -456,7 +456,7 @@ Il divieto di cui al capoverso 1 non si applica ai beni:
 [^14c-1]: Introdotto dal n. I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 [^14c-2]: Nuovo testo giusta il n. I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
 [^14c-3]: Nuovo testo giusta il n. I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
-[^14c-4]: In vigore dal 29 lug. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260))
+[^14c-4]: In vigore dal 29 lug. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 
 ## Sezione 3: Restrizioni finanziarie
 
@@ -874,8 +874,8 @@ D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare
 - b. attività della società civile che promuovono direttamente la democrazia, i diritti umani o lo Stato di diritto nella Federazione Russa;
 - c.[^28d-3] la gestione di un trust o di istituti giuridici affini il cui scopo è amministrare fondi della previdenza professionale, contratti di assicurazione o piani di azionariato per i dipendenti oppure organizzazioni di utilità pubblica, club sportivi amatoriali o fondi per minorenni e adulti vulnerabili.
 
-[^28d-1]: Introdotto dal n. I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
-[^28d-2]: Abrogato n. I dell’O del 29 giu. 2022, con effetto dal 29 giu. 2022 alle ore 18.00, al 31 lug. 2022 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
+[^28d-1]: Introdotto dal n. I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00, il cpv. 2 entra in vigore il 29 mag. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^28d-2]: Abrogato temporanemente dal n. I dell’O del 29 giu. 2022, con effetto dal 29 giu. 2022 alle ore 18.00 al 31 lug. 2022 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
 [^28d-3]: Introdotta dal n. I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
 
 #### Art. 28e
@@ -1101,8 +1101,8 @@ Allegato 1*[^t-1]*
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Aggiornato dai n. II cpv. 1 delle O del 25 mar. 2022 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)), del 27 apr. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)) e dal n. I cpv. 1 dell’O del DEFR del 10 giu. 2022, in vigore dal 10 giu. 2022 alle 18.00 ([RU 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)).
-[^annex1-lvlu1-1]: L’all. non è pubblicato né nella RU. È possibile ordinarne il contenuto presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Economia esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi &gt; Sanzioni della Svizzera
+[^t-1]: Aggiornato dai n. II cpv. 1 delle O del 25 mar. 2022 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)), del 27 apr. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)), dai n. I cpv. 1 delle O del DEFR del 10 giu. 2022 ([RU 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)) e del 28 lug. 2022, in vigore dal 29 lug. 2022 alle ore 18.00 ([RU 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)).
+[^annex1-lvlu1-1]: Questo allegato non è pubblicato né nella RU né nella RS. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 2*[^t-2]*
 
@@ -1112,8 +1112,8 @@ Allegato 2*[^t-2]*
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Aggiornato dal n. II cpv. 1 dell’O del 25 mar. 2022 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)) e dal n. I cpv. 1 dell’O del DEFR del 10 giu. 2022, in vigore dal 10 giu. 2022 alle 18.00 ([RU 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)).
-[^annex2-lvlu1-1]: L’all. non è pubblicato né nella RU. È possibile ordinarne il contenuto presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Economia esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi &gt; Sanzioni della Svizzera
+[^t-2]: Aggiornato dal n. II cpv. 1 dell’O del 25 mar. 2022 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)) dai n. I cpv. 1 delle O del DEFR del 10 giu. 2022 ([RU 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)) e del 28 lug. 2022, in vigore dal 29 lug. 2022 alle ore 18.00 ([RU 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)).
+[^annex2-lvlu1-1]: Questo allegato non è pubblicato né nella RU né nella RS. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 3
 
@@ -1132,37 +1132,38 @@ Allegato 4*[^t-3]*
 
 ## Beni per la lavorazione di petrolio e gas
 
-[^t-3]: Aggiornato dal n. II cpv. 1 dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^t-3]: Nuovo testo giusta il n. I cpv. 2 dell’O del DEFR 28 lug. 2022, in vigore dal 29 lug. 2022 alle ore 18.00 ([RU 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)).
 
 <table>
 <tr><th></th><th>Voce di tariffa</th><th>Designazione</th></tr>
-<tr><td>ex</td><td>8419 89 98 o 8419 89 10</td><td>Unità di alchilazione e isomerizzazione</td></tr>
-<tr><td>ex</td><td>8419 89 98 o 8419 89 10</td><td>Unità di produzione di idrocarburi aromatici</td></tr>
-<tr><td>ex</td><td>8419 40 00</td><td>Unità di distillazione del greggio (CDU) a vuoto atmosferico</td></tr>
-<tr><td>ex</td><td>8419 89 98 o 8419 89 10</td><td>Unità di reforming / cracking catalitico</td></tr>
-<tr><td>ex</td><td>8419 89 98 o 8419 89 10</td><td>Apparecchi per coking ritardato</td></tr>
-<tr><td>ex</td><td>8419 89 98 o 8419 89 10</td><td>Unità di cokefazione flessibile</td></tr>
-<tr><td>ex</td><td>8419 89 98 o 8419 89 10</td><td>Reattori di idrocracking</td></tr>
-<tr><td>ex</td><td>8419 89 98 o 8419 89 10</td><td>Contenitori di reattori di idrocracking</td></tr>
-<tr><td>ex</td><td>8419 89 98 o 8419 89 10</td><td>Tecnologia per la generazione di idrogeno</td></tr>
-<tr><td>ex</td><td>8421 39 15, 8421 39 25, 8421 39 35, 8421 39 85, 8419 60 00, 8419 89 98 o 8419 89 10</td><td>Tecnologia di recupero e purificazione dell’idrogeno</td></tr>
-<tr><td>ex</td><td>8419 89 98 o 8419 89 10</td><td>Tecnologia/unità di idrotrattamento</td></tr>
-<tr><td>ex</td><td>8419 89 98 o 8419 89 10</td><td>Unità di isomerizzazione della nafta</td></tr>
-<tr><td>ex</td><td>8419 89 98 o 8419 89 10</td><td>Unità di polimerizzazione</td></tr>
-<tr><td>ex</td><td>8419 89 10, 8419 89 98, 8421 39 35, 8421 39 85 o 8419 60 00</td><td>Tecnologia di trattamento dei gas di raffineria e di recupero dello zolfo (comprese le unità di lavaggio con ammine, le unità di recupero dello zolfo, le unità di trattamento dei gas di coda)</td></tr>
-<tr><td>ex</td><td>8479 89 97</td><td>Unità di deasfaltazione con solvente</td></tr>
-<tr><td>ex</td><td>8419 89 98 o 8419 89 10</td><td>Unità di produzione dello zolfo</td></tr>
-<tr><td>ex</td><td>8419 89 98 o 8419 89 10</td><td>Unità di alchilazione e rigenerazione con acido solforico</td></tr>
-<tr><td>ex</td><td>8419 89 98 o 8419 89 10</td><td>Unità di cracking termico</td></tr>
-<tr><td>ex</td><td>8419 89 98 o 8419 89 10</td><td>Unità di transalchilazione [del toluene e degli aromatici pesanti]</td></tr>
-<tr><td>ex</td><td>8419 89 98 o 8419 89 10</td><td>Riduttori di viscosità (visbreaker)</td></tr>
-<tr><td>ex</td><td>8419 89 98 o 8419 89 10</td><td>Unità di idrocracking con gasolio sottovuoto</td></tr>
+<tr><td>ex</td><td>8414.1090</td><td>Pompe criogeniche nel trattamento del GNL</td></tr>
 <tr><td>ex</td><td>8418 69</td><td>Unità di processo per il raffreddamento del gas nel trattamento del GNL</td></tr>
+<tr><td>ex</td><td>8419 40</td><td>Unità di distillazione del greggio (CDU) a vuoto atmosferico</td></tr>
 <tr><td>ex</td><td>8419 40</td><td>Unità di processo per la separazione e il frazionamento degli idrocarburi nel trattamento del GNL</td></tr>
-<tr><td>ex</td><td>8419 60</td><td>Unità di processo per la liquefazione del gas naturale</td></tr>
 <tr><td>ex</td><td>8419 50</td><td>Camera fredda (cold box) nel trattamento del GNL</td></tr>
-<tr><td>ex</td><td>8419 50 20</td><td>Scambiatori criogenici nel trattamento del GNL</td></tr>
-<tr><td>ex</td><td>8414 10 90</td><td>Pompe criogeniche nel trattamento del GNL</td></tr>
+<tr><td>ex</td><td>8419 50</td><td>Scambiatori criogenici nel trattamento del GNL</td></tr>
+<tr><td>ex</td><td>8414 60</td><td>Unità di processo per la liquefazione del gas naturale</td></tr>
+<tr><td>ex</td><td>8419 60, 8419 89, 8421 39</td><td>Tecnologia di recupero e purificazione dell’idrogeno</td></tr>
+<tr><td>ex</td><td>8419 60, 8419 89, 8421 39</td><td>Tecnologia di trattamento dei gas di raffineria e di recupero dello zolfo (comprese le unità di lavaggio con ammine, le unità di recupero dello zolfo, le unità di trattamento dei gas di coda)</td></tr>
+<tr><td>ex</td><td>8419 89</td><td>Apparecchi e dispositivi di raffreddamento a ritorno d’acqua, nei quali lo scambio termico non si effettua attraverso una parete, progettati per essere utilizzati con la tecnologia di cui al presente allegato</td></tr>
+<tr><td>ex</td><td>8419 89</td><td>Unità di alchilazione e isomerizzazione</td></tr>
+<tr><td>ex</td><td>8419 89</td><td>Unità di produzione di idrocarburi aromatici</td></tr>
+<tr><td>ex</td><td>8419 89</td><td>Unità di reforming / cracking catalitico</td></tr>
+<tr><td>ex</td><td>8419 89</td><td>Apparecchi per coking ritardato</td></tr>
+<tr><td>ex</td><td>8419 89</td><td>Unità di cokefazione flessibile</td></tr>
+<tr><td>ex</td><td>8419 89</td><td>Reattori di idrocracking</td></tr>
+<tr><td>ex</td><td>8419 89</td><td>Contenitori di reattori di idrocracking</td></tr>
+<tr><td>ex</td><td>8419 89</td><td>Tecnologia per la generazione di idrogeno</td></tr>
+<tr><td>ex</td><td>8419 89</td><td>Tecnologia/unità di idrotrattamento</td></tr>
+<tr><td>ex</td><td>8419 89</td><td>Unità di isomerizzazione della nafta</td></tr>
+<tr><td>ex</td><td>8419 89</td><td>Unità di polimerizzazione</td></tr>
+<tr><td>ex</td><td>8419 89</td><td>Unità di produzione dello zolfo</td></tr>
+<tr><td>ex</td><td>8419 89</td><td>Unità di alchilazione e rigenerazione con acido solforico</td></tr>
+<tr><td>ex</td><td>8419 89</td><td>Unità di cracking termico</td></tr>
+<tr><td>ex</td><td>8419 89</td><td>Unità di transalchilazione [del toluene e degli aromatici pesanti]</td></tr>
+<tr><td>ex</td><td>8419 89</td><td>Riduttori di viscosità (visbreaker)</td></tr>
+<tr><td>ex</td><td>8419 89</td><td>Unità di idrocracking con gasolio sottovuoto</td></tr>
+<tr><td>ex</td><td>8479 89</td><td>Unità di deasfaltazione con solvente</td></tr>
 </table>
 
 Allegato 5*[^t-4]*
@@ -1402,8 +1403,8 @@ Allegato 8*[^t-5]*
 
 [^annex8-lvlu1-1]
 
-[^t-5]: Aggiornato dai n. I delle O del DEFR del 16 mar. ([RU 2022 173](https://fedlex.data.admin.ch/eli/oc/2022/173)), del 13 apr. 2022 ([RU 2022 237](https://fedlex.data.admin.ch/eli/oc/2022/237)), del 3 mag. 2022 ([RU 2022 270](https://fedlex.data.admin.ch/eli/oc/2022/270)) e dal n. I cpv. 1 dell’O del DEFR del 10 giu. 2022, in vigore dal 10 giu. 2022 alle 18.00 ([RU 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)).
-[^annex8-lvlu1-1]: L’all. non è pubblicato né nella RU. È possibile ordinarne il contenuto presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Economia esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi &gt; Sanzioni della Svizzera
+[^t-5]: Aggiornato dai n. I delle O del DEFR del 16 mar. ([RU 2022 173](https://fedlex.data.admin.ch/eli/oc/2022/173)), del 13 apr. 2022 ([RU 2022 237](https://fedlex.data.admin.ch/eli/oc/2022/237)), del 3 mag. 2022 ([RU 2022 270](https://fedlex.data.admin.ch/eli/oc/2022/270)), dai n. I cpv. 1 delle O del DEFR del 10 giu. 2022 ([RU 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)) e del 28 lug. 2022, in vigore dal 29 lug. 2022 alle ore 18.00 ([RU 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)).
+[^annex8-lvlu1-1]: Questo allegato non è pubblicato né nella RU né nella RS. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 9
 
@@ -1413,7 +1414,7 @@ Allegato 9
 
 [^annex9-lvlu1-1]
 
-[^annex9-lvlu1-1]: L’all. non è pubblicato né nella RU. È possibile ordinarne il contenuto presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Economia esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi &gt; Sanzioni della Svizzera
+[^annex9-lvlu1-1]: Questo allegato non è pubblicato né nella RU né nella RS. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 10
 
@@ -1423,7 +1424,7 @@ Allegato 10
 
 [^annex10-lvlu1-1]
 
-[^annex10-lvlu1-1]: L’all. non è pubblicato né nella RU. È possibile ordinarne il contenuto presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Economia esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi &gt; Sanzioni della Svizzera
+[^annex10-lvlu1-1]: Questo allegato non è pubblicato né nella RU né nella RS. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 11*[^t-6]*
 
@@ -1434,7 +1435,7 @@ Allegato 11*[^t-6]*
 [^annex11-lvlu1-1]
 
 [^t-6]: Aggiornato dal n. II cpv. 1 dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
-[^annex11-lvlu1-1]: L’all. non è pubblicato né nella RU. È possibile ordinarne il contenuto presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Economia esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi &gt; Sanzioni della Svizzera
+[^annex11-lvlu1-1]: Questo allegato non è pubblicato né nella RU né nella RS. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 12
 
@@ -1444,7 +1445,7 @@ Allegato 12
 
 [^annex12-lvlu1-1]
 
-[^annex12-lvlu1-1]: L’all. non è pubblicato né nella RU. È possibile ordinarne il contenuto presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Economia esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi &gt; Sanzioni della Svizzera
+[^annex12-lvlu1-1]: Questo allegato non è pubblicato né nella RU né nella RS. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 13
 
@@ -1454,7 +1455,7 @@ Allegato 13
 
 [^annex13-lvlu1-1]
 
-[^annex13-lvlu1-1]: L’all. non è pubblicato né nella RU. È possibile ordinarne il contenuto presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Economia esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi &gt; Sanzioni della Svizzera
+[^annex13-lvlu1-1]: Questo allegato non è pubblicato né nella RU né nella RS. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 14[^t-7]
 
@@ -1465,7 +1466,7 @@ Allegato 14[^t-7]
 [^annex14-lvlu1-1]
 
 [^t-7]: Aggiornato dal n. I cpv. 1 dell’O del DEFR del 10 giu. 2022, in vigore dal 10 giu. 2022 alle 18.00 ([RU 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)).
-[^annex14-lvlu1-1]: L’all. non è pubblicato né nella RU. È possibile ordinarne il contenuto presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Economia esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi &gt; Sanzioni della Svizzera
+[^annex14-lvlu1-1]: Questo allegato non è pubblicato né nella RU né nella RS. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 15*[^t-8]*
 
@@ -1476,7 +1477,7 @@ Allegato 15*[^t-8]*
 [^annex15-lvlu1-1]
 
 [^t-8]: Introdotto dal n. II cpv. 2 dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
-[^annex15-lvlu1-1]: L’all. non è pubblicato né nella RU. È possibile ordinarne il contenuto presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Economia esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi &gt; Sanzioni della Svizzera
+[^annex15-lvlu1-1]: Questo allegato non è pubblicato né nella RU né nella RS. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 16*[^t-9]*
 
@@ -2140,8 +2141,8 @@ Allegato 23*[^t-16]*
 
 [^annex23-lvlu1-1]
 
-[^t-16]: Introdotto dal n. II cpv. 3 dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
-[^annex23-lvlu1-1]: L’all. non è pubblicato né nella RU. È possibile ordinarne il contenuto presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Economia esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi &gt; Sanzioni della Svizzera
+[^t-16]: Introdotto dal n. II cpv. 3 dell’O del 27 apr. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Aggiornato dal n. I cpv. 1 dell’O del DEFR del 28 lug. 2022, in vigore dal 29 lug. 2022 alle ore 18.00 ([RU 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)).
+[^annex23-lvlu1-1]: Questo allegato non è pubblicato né nella RU né nella RS. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 24*[^t-17]*
 
@@ -2166,4 +2167,4 @@ Allegato 25*[^t-18]*
 [^annex25-lvlu1-1]
 
 [^t-18]: Introdotto dal n. II dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
-[^annex25-lvlu1-1]: L’allegato non è pubblicato né nella RU né nella RS. È possibile ordinarne il contenuto presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: [www.seco.admin.ch](https://www.seco.admin.ch/seco/it/home/Aussenwirtschaftspolitik_Wirtschaftliche_Zusammenarbeit/Wirtschaftsbeziehungen/exportkontrollen-und-sanktionen/sanktionen-embargos/sanktionsmassnahmen.html) &gt; Economia esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi &gt; Sanzioni della Svizzera.
+[^annex25-lvlu1-1]: Questo allegato non è pubblicato né nella RU né nella RS. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.

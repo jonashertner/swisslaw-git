@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Verordnung vom 4. März 2022 über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: de
-version: 2022-06-29
+version: 2022-07-29
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20220629/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20220629-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20220629/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20220729/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20220729-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20220729/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 
-vom 4. März 2022 (Stand am 29. Juni 2022)
+vom 4. März 2022 (Stand am 29. Juli 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -457,7 +457,7 @@ Das Verbot nach Absatz 1 gilt nicht für Güter, die:
 [^14c-1]: Eingefügt durch Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 [^14c-2]: Fassung gemäss Ziff. I der V vom 29. Juni 2022, in Kraft seit 29. Juni 2022 um 18.00 Uhr ([AS 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
 [^14c-3]: Fassung gemäss Ziff. I der V vom 29. Juni 2022, in Kraft seit 29. Juni 2022 um 18.00 Uhr ([AS 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
-[^14c-4]: Tritt am 29. Juli 2022 in Kraft ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^14c-4]: In Kraft seit 29. Juli 2022 ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 
 ## 3. Abschnitt: Finanzielle Beschränkungen
 
@@ -878,8 +878,8 @@ Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD
 - b. zivilgesellschaftliche Aktivitäten zur direkten Förderung der Demokratie, der Menschenrechte oder der Rechtsstaatlichkeit in der Russischen Föderation; oder
 - c. den Betrieb von Trusts oder ähnlichen Rechtsformen, deren Zweck die Verwaltung von Mitteln der beruflichen Vorsorge, Versicherungsverträgen oder Belegschaftsaktienprogrammen oder von gemeinnützigen Organisationen, Amateursportvereinen oder Fonds für Minderjährige oder vulnerable Erwachsene ist.[^28d-3]
 
-[^28d-1]: Eingefügt durch Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
-[^28d-2]: Aufgehoben durch Ziff. I der V vom 29. Juni 2022, mit Wirkung vom 29. Juni 2022 um 18.00 Uhr bis zum 31. Juli 2022 ([AS 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
+[^28d-1]: Eingefügt durch Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr, Abs. 2 seit 29. Mai 2022 ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^28d-2]: Temporär aufgehoben durch Ziff. I der V vom 29. Juni 2022, mit Wirkung vom 29. Juni 2022 um 18.00 Uhr bis zum 31. Juli 2022 ([AS 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
 [^28d-3]: Eingefügt durch Ziff. I der V vom 29. Juni 2022, in Kraft seit 29. Juni 2022 um 18.00 Uhr ([AS 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
 
 #### Art. 28e
@@ -1105,8 +1105,8 @@ Anhang 1*[^t-1]*
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 25. März 2022 ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)), vom 27. April 2022 ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)) und Ziff. I Abs. 1 der V des WBF vom 10. Juni 2022, in Kraft seit 10. Juni 2022 um 18.00 Uhr ([AS 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)).
-[^annex1-lvlu1-1]: Der Anhang wird weder in der AS noch in der SR veröffentlicht. Der Text kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern bestellt oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Wirtschaftsbeziehungen &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.
+[^t-1]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 25. März 2022 ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)), vom 27. April 2022 ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)), Ziff. I Abs. 1 der V des WBF vom 10. Juni 2022 ([AS 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)) und vom 28. Juli 2022, in Kraft seit 29. Juli 2022 um 18.00 Uhr ([AS 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)).
+[^annex1-lvlu1-1]: Der Anhang wird weder in der AS noch in der SR veröffentlicht. Der Inhalt kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 2*[^t-2]*
 
@@ -1116,8 +1116,8 @@ Anhang 2*[^t-2]*
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 25. März 2022 ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)) und Ziff. I Abs. 1 der V des WBF vom 10. Juni 2022, in Kraft seit 10. Juni 2022 um 18.00 Uhr ([AS 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)).
-[^annex2-lvlu1-1]: Der Anhang wird weder in der AS noch in der SR veröffentlicht. Der Text kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern bestellt oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Wirtschaftsbeziehungen &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.
+[^t-2]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 25. März 2022 ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)), Ziff. I Abs. 1 der V des WBF vom 10. Juni 2022 ([AS 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)) und Ziff. I Abs. 1 der V des WBF vom 28. Juli 2022, in Kraft seit 29. Juli 2022 um 18.00 Uhr ([AS 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)).
+[^annex2-lvlu1-1]: Der Anhang wird weder in der AS noch in der SR veröffentlicht. Der Inhalt kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 3
 
@@ -1136,37 +1136,38 @@ Anhang 4*[^t-3]*
 
 ## Güter für die Ölraffination und die Verflüssigung von Erdgas
 
-[^t-3]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^t-3]: Fassung gemäss Ziff. I Abs. 2 der V des WBF vom 28. Juli 2022, in Kraft seit 29. Juli 2022 um 18.00 Uhr ([AS 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)).
 
 <table>
 <tr><th></th><th>Tarifnummer</th><th>Bezeichnung</th></tr>
-<tr><td>ex</td><td>8419 89 98 oder 8419 89 10</td><td>Alkylierungs- und Isomerisierungsanlagen</td></tr>
-<tr><td>ex</td><td>8419 89 98 oder 8419 89 10</td><td>Anlagen zur Herstellung von aromatischen Kohlenwasserstoffen</td></tr>
-<tr><td>ex</td><td>8419 40 00</td><td>Anlagen zur atmosphärischen und Vakuum-Rohöldestillation (CDU)</td></tr>
-<tr><td>ex</td><td>8419 89 98 oder 8419 89 10</td><td>Anlagen zum katalytischen Reformieren / Cracken</td></tr>
-<tr><td>ex</td><td>8419 89 98 oder 8419 89 10</td><td>Verzögerte Verkoker</td></tr>
-<tr><td>ex</td><td>8419 89 98 oder 8419 89 10</td><td>Flexicoking-Anlagen</td></tr>
-<tr><td>ex</td><td>8419 89 98 oder 8419 89 10</td><td>Hydrocracking-Reaktoren</td></tr>
-<tr><td>ex</td><td>8419 89 98 oder 8419 89 10</td><td>Hydrocracking-Reaktorbehälter</td></tr>
-<tr><td>ex</td><td>8419 89 98 oder 8419 89 10</td><td>Technologie zur Wasserstofferzeugung</td></tr>
-<tr><td>ex</td><td>8421 39 15, 8421 39 25, 8421 39 35, 8421 39 85, 8419 60 00, 8419 89 98 oder 8419 89 10</td><td>Wasserstoffrückgewinnungs- und -reinigungstechnologie</td></tr>
-<tr><td>ex</td><td>8419 89 98 oder 8419 89 10</td><td>Hydrierungstechnologie/-anlagen</td></tr>
-<tr><td>ex</td><td>8419 89 98 oder 8419 89 10</td><td>Anlagen zur Naphtha-Isomerisierung</td></tr>
-<tr><td>ex</td><td>8419 89 98 oder 8419 89 10</td><td>Polymerisationsanlagen</td></tr>
-<tr><td>ex</td><td>8419 89 10, 8419 89 98, 8421 39 35, 8421 39 85 oder 8419 60 00</td><td>Raffineriebrenngasbehandlungs- und Schwefelrückgewinnungstechnologie (einschliesslich Aminwäscheanlagen, Schwefelrückgewinnungsanlangen, Tailgas-Behandlungsanlagen)</td></tr>
-<tr><td>ex</td><td>8479 89 97</td><td>Solvententasphaltierungsanlagen</td></tr>
-<tr><td>ex</td><td>8419 89 98 oder 8419 89 10</td><td>Anlagen zur Schwefelerzeugung</td></tr>
-<tr><td>ex</td><td>8419 89 98 oder 8419 89 10</td><td>Anlagen zur Alkylierung und Regeneration von Schwefelsäure</td></tr>
-<tr><td>ex</td><td>8419 89 98 oder 8419 89 10</td><td>Thermische Crackanlagen</td></tr>
-<tr><td>ex</td><td>8419 89 98 oder 8419 89 10</td><td>Transalkylierungsanlagen [Toluol und schwere Aromaten]</td></tr>
-<tr><td>ex</td><td>8419 89 98 oder 8419 89 10</td><td>Viskositätsbrecher</td></tr>
-<tr><td>ex</td><td>8419 89 98 oder 8419 89 10</td><td>Hydrocracker-Vakuumgasöl-Anlagen</td></tr>
+<tr><td>ex</td><td>8414.1090</td><td>Kryopumpen im LNG-Prozess</td></tr>
 <tr><td>ex</td><td>8418 69</td><td>Prozesseinheiten für die Kühlung des Gases im LNG-Prozess</td></tr>
+<tr><td>ex</td><td>8419 40</td><td>Anlagen zur atmosphärischen und Vakuum-Rohöldestillation (CDU)</td></tr>
 <tr><td>ex</td><td>8419 40</td><td>Prozesseinheiten für die Trennung und Fraktionierung der Kohlenwasserstoffe im LNG-Prozess</td></tr>
-<tr><td>ex</td><td>8419 60</td><td>Prozesseinheiten für die Verflüssigung von Erdgas</td></tr>
 <tr><td>ex</td><td>8419 50</td><td>Kaltkästen im LNG-Prozess</td></tr>
-<tr><td>ex</td><td>8419 50 20</td><td>Kryogene Austauscher im LNG-Prozess</td></tr>
-<tr><td>ex</td><td>8414 10 90</td><td>Kryopumpen im LNG-Prozess</td></tr>
+<tr><td>ex</td><td>8419 50</td><td>Kryogene Austauscher im LNG-Prozess</td></tr>
+<tr><td>ex</td><td>8419 60</td><td>Prozesseinheiten für die Verflüssigung von Erdgas</td></tr>
+<tr><td>ex</td><td>8419 60, 8419 89, 8421 39</td><td>Wasserstoffrückgewinnungs- und -reinigungstechnologie</td></tr>
+<tr><td>ex</td><td>8419 60, 8419 89, 8421 39</td><td>Raffineriebrenngasbehandlungs- und Schwefelrückgewinnungstechnologie (einschließlich Aminwäscheanlagen, Schwefelrückgewinnungsanlangen, Tailgas-Behandlungsanlagen)</td></tr>
+<tr><td>ex</td><td>8419 89</td><td>Kühltürme und ähnliche Anlagen zur direkten Kühlung (ohne Trennwand) durch rezirkulierendes Wasser, entwickelt für den Einsatz mit der in diesem Anhang genannten Technologie.</td></tr>
+<tr><td>ex</td><td>8419 89</td><td>Alkylierungs- und Isomerisierungsanlagen</td></tr>
+<tr><td>ex</td><td>8419 89</td><td>Anlagen zur Herstellung von aromatischen Kohlenwasserstoffen</td></tr>
+<tr><td>ex</td><td>8419 89</td><td>Anlagen zum katalytischen Reformieren / Cracken</td></tr>
+<tr><td>ex</td><td>8419 89</td><td>Verzögerte Verkoker</td></tr>
+<tr><td>ex</td><td>8419 89</td><td>Flexicoking-Anlagen</td></tr>
+<tr><td>ex</td><td>8419 89</td><td>Hydrocracking-Reaktoren</td></tr>
+<tr><td>ex</td><td>8419 89</td><td>Hydrocracking-Reaktorbehälter</td></tr>
+<tr><td>ex</td><td>8419 89</td><td>Technologie zur Wasserstofferzeugung</td></tr>
+<tr><td>ex</td><td>8419 89</td><td>Hydrierungstechnologie/-anlage</td></tr>
+<tr><td>ex</td><td>8419 89</td><td>Anlagen zur Naphtha-Isomerisierung</td></tr>
+<tr><td>ex</td><td>8419 89</td><td>Polymerisationsanlagen</td></tr>
+<tr><td>ex</td><td>8419 89</td><td>Anlagen zur Schwefelerzeugung</td></tr>
+<tr><td>ex</td><td>8419 89</td><td>Anlagen zur Alkylierung und Regeneration von Schwefelsäure</td></tr>
+<tr><td>ex</td><td>8419 89</td><td>Thermische Crackanlagen</td></tr>
+<tr><td>ex</td><td>8419 89</td><td>Transalkylierungsanlagen [Toluol und schwere Aromaten]</td></tr>
+<tr><td>ex</td><td>8419 89</td><td>Viskositätsbrecher</td></tr>
+<tr><td>ex</td><td>8419 89</td><td>Hydrocracker-Vakuumgasöl-Anlagen</td></tr>
+<tr><td>ex</td><td>8479 89</td><td>Solvententasphaltierungsanlagen</td></tr>
 </table>
 
 Anhang 5*[^t-4]*
@@ -1407,7 +1408,7 @@ Anhang 8*[^t-5]*
 [^annex8-lvlu1-1]
 
 [^t-5]: Bereinigt gemäss Ziff. I der V des WBF vom 15. März 2022 ([AS 2022 173](https://fedlex.data.admin.ch/eli/oc/2022/173)), vom 13. April 2022 ([AS 2022 237](https://fedlex.data.admin.ch/eli/oc/2022/237)), vom 3. Mai 2022 ([AS 2022 270](https://fedlex.data.admin.ch/eli/oc/2022/270)) und Ziff. I Abs. 1 der V des WBF vom 10. Juni 2022, in Kraft seit 10. Juni 2022 um 18.00 Uhr ([AS 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)).
-[^annex8-lvlu1-1]: Der Anhang wird weder in der AS noch in der SR veröffentlicht. Der Text kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern bestellt werden oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Wirtschaftsbeziehungen &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.
+[^annex8-lvlu1-1]: Der Anhang wird weder in der AS noch in der SR veröffentlicht. Der Inhalt kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 9
 
@@ -1417,7 +1418,7 @@ Anhang 9
 
 [^annex9-lvlu1-1]
 
-[^annex9-lvlu1-1]: Der Anhang wird weder in der AS noch in der SR veröffentlicht. Der Text kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern bestellt oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Wirtschaftsbeziehungen &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.
+[^annex9-lvlu1-1]: Der Anhang wird weder in der AS noch in der SR veröffentlicht. Der Inhalt kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 10
 
@@ -1427,7 +1428,7 @@ Anhang 10
 
 [^annex10-lvlu1-1]
 
-[^annex10-lvlu1-1]: Der Anhang wird weder in der AS noch in der SR veröffentlicht. Der Text kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern bestellt oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Wirtschaftsbeziehungen &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.
+[^annex10-lvlu1-1]: Der Anhang wird weder in der AS noch in der SR veröffentlicht. Der Inhalt kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 11*[^t-6]*
 
@@ -1438,7 +1439,7 @@ Anhang 11*[^t-6]*
 [^annex11-lvlu1-1]
 
 [^t-6]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
-[^annex11-lvlu1-1]: Der Anhang wird weder in der AS noch in der SR veröffentlicht. Der Text kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern bestellt oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Wirtschaftsbeziehungen &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.
+[^annex11-lvlu1-1]: Der Anhang wird weder in der AS noch in der SR veröffentlicht. Der Inhalt kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 12
 
@@ -1448,7 +1449,7 @@ Anhang 12
 
 [^annex12-lvlu1-1]
 
-[^annex12-lvlu1-1]: Der Anhang wird weder in der AS noch in der SR veröffentlicht. Der Text kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern bestellt oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Wirtschaftsbeziehungen &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.
+[^annex12-lvlu1-1]: Der Anhang wird weder in der AS noch in der SR veröffentlicht. Der Inhalt kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 13
 
@@ -1458,7 +1459,7 @@ Anhang 13
 
 [^annex13-lvlu1-1]
 
-[^annex13-lvlu1-1]: Der Anhang wird weder in der AS noch in der SR veröffentlicht. Der Text kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern bestellt oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Wirtschaftsbeziehungen &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.
+[^annex13-lvlu1-1]: Der Anhang wird weder in der AS noch in der SR veröffentlicht. Der Inhalt kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 14*[^t-7]*
 
@@ -1469,7 +1470,7 @@ Anhang 14*[^t-7]*
 [^annex14-lvlu1-1]
 
 [^t-7]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 27. April 2022 ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)) und Ziff. I Abs. 1 der V des WBF vom 10. Juni 2022, in Kraft seit 10. Juni 2022 um 18.00 Uhr ([AS 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)).
-[^annex14-lvlu1-1]: Der Anhang wird weder in der AS noch in der SR veröffentlicht. Der Text kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern bestellt oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Wirtschaftsbeziehungen &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.
+[^annex14-lvlu1-1]: Der Anhang wird weder in der AS noch in der SR veröffentlicht. Der Inhalt kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 15*[^t-8]*
 
@@ -1480,7 +1481,7 @@ Anhang 15*[^t-8]*
 [^annex15-lvlu1-1]
 
 [^t-8]: Eingefügt durch Ziff. II Abs. 2 der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
-[^annex15-lvlu1-1]: Der Anhang wird weder in der AS noch in der SR veröffentlicht. Der Text kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern bestellt oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Wirtschaftsbeziehungen &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.
+[^annex15-lvlu1-1]: Der Anhang wird weder in der AS noch in der SR veröffentlicht. Der Inhalt kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 16*[^t-9]*
 
@@ -2144,7 +2145,7 @@ Anhang 23*[^t-16]*
 [^annex23-lvlu1-1]
 
 [^t-16]: Eingefügt durch Ziff. II Abs. 3 der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
-[^annex23-lvlu1-1]: Der Anhang wird weder in der AS noch in der SR veröffentlicht. Der Text kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern bestellt oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Wirtschaftsbeziehungen &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.
+[^annex23-lvlu1-1]: Der Anhang wird weder in der AS noch in der SR veröffentlicht. Der Inhalt kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 24*[^t-17]*
 
@@ -2169,4 +2170,4 @@ Anhang 25*[^t-18]*
 [^annex25-lvlu1-1]
 
 [^t-18]: Eingefügt durch Ziff. II der V vom 29. Juni 2022, in Kraft seit 29. Juni 2022 um 18.00 Uhr ([AS 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
-[^annex25-lvlu1-1]: Der Anhang wird weder in der AS noch in der SR veröffentlicht. Der Text kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern bestellt oder unter [www.seco.admin.ch](https://www.seco.admin.ch/seco/de/home/Aussenwirtschaftspolitik_Wirtschaftliche_Zusammenarbeit/Wirtschaftsbeziehungen/exportkontrollen-und-sanktionen/sanktionen-embargos/sanktionsmassnahmen.html) &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Wirtschaftsbeziehungen &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.
+[^annex25-lvlu1-1]: Der Anhang wird weder in der AS noch in der SR veröffentlicht. Der Inhalt kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
