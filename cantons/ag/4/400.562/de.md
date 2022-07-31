@@ -4,13 +4,13 @@ number: "400.562"
 title: Interkantonale Vereinbarung über die Beiträge an die Ausbildungskosten in der beruflichen Grundbildung
 short: "Berufsfachschulvereinbarung, BFSV"
 language: de
-version: 2021-08-01
-valid_until: 2022-07-31
-version_adopted: 2019-10-25
+version: 2022-08-01
+valid_until: 2023-07-31
+version_adopted: 2020-10-30
 adopted: 2006-06-22
 in_force: 2007-08-13
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/400.562"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2980/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3179/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2980/pdf_file"
 
 (Berufsfachschulvereinbarung, BFSV)
 
-Vom 22.06.2006 (Stand 01.08.2021)
+Vom 22.06.2006 (Stand 01.08.2022)
 
 ## 1. Allgemeine Bestimmungen
 
