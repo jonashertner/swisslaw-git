@@ -4,13 +4,13 @@ number: "411.011"
 title: Standeskommissionsbeschluss zum Schulgesetz
 short: StKB SchG
 language: de
-version: 2022-04-01
-valid_until: 2022-07-31
-version_adopted: 2022-04-26
+version: 2022-08-01
+valid_until: 2023-07-31
+version_adopted: 2022-06-28
 adopted: 2005-08-16
 in_force: 2005-08-01
 url: "https://ai.clex.ch/app/de/texts_of_law/411.011"
-pdf: "https://ai.clex.ch/api/de/versions/2210/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2214/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://ai.clex.ch/api/de/versions/2210/pdf_file"
 
 (StKB SchG)
 
-vom 16.08.2005 (Stand 01.04.2022)
+vom 16.08.2005 (Stand 01.08.2022)
 
 Die Standeskommission des Kantons Appenzell I.Rh.,
 
@@ -79,18 +79,17 @@ beschliesst:
 
 #### Art. 7
 
-**Anrechnung der Dienstjahre**
+**Anrechnung der Dienstjahre und Stufenanstieg**
 
-<sup>1</sup> Für die Einstufung in die Besoldungstabelle zählen die Jahre der Lehrtätigkeit. Bei Dienstantritt im ersten Schulsemester wird das betreffende Schuljahr voll als Dienstjahr angerechnet. Bei Dienstantritt während des zweiten Schulsemesters wird der Rest dieses Schuljahres nicht mehr als Dienstjahr angerechnet; erst das nachfolgende Schuljahr gilt als erstes Dienstjahr.
+<sup>1</sup> Für die Einstufung in die Besoldungstabelle zählen die Jahre der Lehrtätigkeit. Bei unbefristeten Anstellungen werden die während eines Schuljahres geleisteten Lehrtätigkeiten unabhängig von Pensenumfang und Dauer als Dienstjahre angerechnet. Bei befristeten Anstellungen muss für eine Anrechnung ein Minimalpensum von 200 Jahreslektionen erreicht werden.
 
-<sup>2</sup> Die Stufenerhöhung wird gewährt:
+<sup>2</sup> …
 
-- a) bei einem Pflichtpensum von 31 Lektionen ab 15 Lektionen
-- b) bei einem Pflichtpensum von 29 Lektionen ab 14 Lektionen
+<sup>3</sup> Bei Neuanstellungen werden geleistete Lehrtätigkeiten der Dauer entsprechend als Dienstjahre angerechnet.
 
-<sup>3</sup> Bei Neuanstellungen werden geleistete Lehrtätigkeiten den Pensen und der Dauer entsprechend als Dienstjahre angerechnet.
+<sup>4</sup> Die Erziehung von Kindern bis zum vollendeten 18. Altersjahr in der Familie und Tätigkeiten in anderen Berufen nach Abschluss der Erstausbildung werden für die Zeit ohne Lehrtätigkeit zur Hälfte angerechnet. Die beiden Tätigkeiten sind nicht kumulierbar.
 
-<sup>4</sup> Die Erziehung von Kindern bis zum vollendeten 18. Altersjahr in der Familie und Tätigkeiten in anderen Berufen nach Abschluss der Erstausbildung werden zur Hälfte angerechnet. Die beiden Tätigkeiten sind nicht kumulierbar.
+<sup>4a</sup> Nach erfolgter Einstufung wird der Lehrperson ein jährlicher Anstieg in die jeweils nächsthöhere Stufe der Besoldungstabelle gewährt.
 
 <sup>5</sup> Sind die Leistungen einer Lehrperson ungenügend, kann der Schulrat nach Rücksprache mit dem Volksschulamt eine vorgesehene Stufenerhöhung verweigern. In den geleiteten Schulen entscheidet der Schulrat auf Antrag der Schulleitung.
 
@@ -268,7 +267,7 @@ beschliesst:
 
 <sup>1</sup> Zur Unterrichtszeit gehören die Lektionen gemäss Lehrplan, die nach Stufen differenziert sind:
 
-- a) Kindergartenlehrpersonen: 28 Lektionen à 45 Minuten resp. 26 Lektionen + 1 Lektion Pausenbetreuung und 1 Lektion für Funktion als Klassenlehrperson
+- a) Kindergartenlehrpersonen: 29 Lektionen à 45 Minuten resp. 27 Lektionen + 1 Lektion Pausenbetreuung und 1 Lektion für Funktion als Klassenlehrperson
 - b) Handarbeits- u. Hauswirtschaftslehrpersonen Primar: 31 Lektionen à 45 Minuten
 - c) Handarbeits- u. Hauswirtschaftslehrpersonen Sek I: 29 Lektionen à 45 Minuten
 - d) Lehrpersonen für Deutschunterricht für Fremdsprachige: 31 Lektionen à 45 Minuten
@@ -353,9 +352,9 @@ beschliesst:
 
 #### Art. 29
 
-**Übergang**
+**Nachprüfung der Stufenerhöhung**
 
-<sup>1</sup> Lehrpersonen erhalten die Treueprämien noch bis Ende 2018 nach bisherigem Recht.
+<sup>1</sup> Die Einstufung von Lehrpersonen, denen der Stufenanstieg in der Vergangenheit wegen zu geringer Pflichtpensen bei einer Schulgemeinde des Kantons Appenzell I.Rh. nicht gewährt wurde, wird mit Wirkung ab Beginn des Schuljahrs 2022/2023 um die entgangenen Stufenanstiege erhöht, höchstens jedoch bis zur obersten Stufe der Besoldungstabelle.
 
 #### Art. 29a
 
