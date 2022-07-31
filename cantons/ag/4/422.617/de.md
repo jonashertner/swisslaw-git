@@ -4,13 +4,13 @@ number: "422.617"
 title: Verordnung über das Landwirtschaftliche Zentrum Liebegg
 short: LZLV
 language: de
-version: 2019-05-01
-valid_until: 2022-07-31
-version_adopted: 2019-03-20
+version: 2022-08-01
+valid_until: 2024-06-30
+version_adopted: 2021-12-15
 adopted: 2012-05-23
 in_force: 2012-08-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/422.617"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2703/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3160/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2703/pdf_file"
 
 (LZLV)
 
-Vom 23.05.2012 (Stand 01.05.2019)
+Vom 23.05.2012 (Stand 01.08.2022)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -133,6 +133,10 @@ beschliesst:
 **Vorgaben berufliche Grundbildung**
 
 <sup>1</sup> Die Vorgaben des BKS an das LZL betreffend die berufliche Grundbildung in den Bereichen Landwirtschaft, Hauswirtschaft und Ernährung werden in einer mehrjährigen Leistungsvereinbarung festgelegt.
+
+<sup>2</sup> Im Bereich Landwirtschaft gelten der Schullehrplan Allgemeinbildung der Organisation der Arbeitswelt (OdA) AgriAliForm vom 15. Mai 2020 sowie die Wegleitung zum Qualifikationsverfahren Grundbildung im Berufsfeld Landwirtschaft der OdA AgriAliForm vom 24. Oktober 2017[^8b-1].
+
+[^8b-1]: Diese Grundlagen können unter www.agri-job.ch abgerufen werden.
 
 ### 3<sup>bis</sup>.2. Höhere Berufsbildung
 
