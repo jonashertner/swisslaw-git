@@ -3,13 +3,12 @@ canton: BE
 number: 439.121-1
 title: Convention entre le Canton de Berne et la République et Canton du Jura concernant les écolages liés aux fréquentations scolaires transfrontalières dans le cadre de la scolarité obligatoire
 language: de
-version: 2019-08-01
-valid_until: 2022-07-31
-version_adopted: 2018-05-25
+version: 2022-08-01
+version_adopted: 2021-08-16
 adopted: 1983-08-17
 in_force: 1983-08-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/439.121-1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1477/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2370/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1477/pdf_file"
 
 Dieser Erlass ist nur auf Französisch verfügbar.
 
-vom 17.08.1983 (Stand 01.08.2019)
+vom 17.08.1983 (Stand 01.08.2022)
 
 Préambule
 
@@ -36,11 +35,11 @@ Quelques situations géographiques particulières (par exemple distance, accès)
 
 <sup>1</sup> Vu le caractère restreint des cas de fréquentation scolaire transfrontalière, cet écolage est calculé sur la base des frais moyens de fonctionnement d’une école en excluant notamment les frais résultant des traitements du corps enseignant.
 
-<sup>2</sup> A partir de l'année scolaire 2019-2020, ces écolages n'excéderont pas les montants suivants:
+<sup>2</sup> A partir de l'année scolaire 2022-2023, ces écolages n'excéderont pas les montants suivants:
 
-- a Ecole enfantine / jardin d'enfants: — 1'150 francs
-- b Degré primaire: — 1'970 francs
-- c Degré secondaire: — 2'970 francs
+- a Ecole enfantine (1P et 2P Harmos) — 1150 francs
+- b Degré primaire (3P à 8P Harmos) — 1970 francs
+- c Degré secondaire I — 2970 francs
 
 <sup>3</sup> Ces montants seront au besoin réévalués tous les trois ans d’un commun accord entre la Direction de l’Instruction publique du Canton de Berne et le Département de l’Education et des Affaires sociales de la République et Canton du Jura. La décision de réévaluer les montants des écolages intervient huit mois avant chaque échéance de la convention.
 
