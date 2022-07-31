@@ -4,11 +4,11 @@ title: "Ordonnance du DFI du 30 mai 2011 sur les tableaux des stupéfiants, des 
 short: OTStup-DFI
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/363"
 language: fr
-version: 2021-12-06
+version: 2022-08-01
 adopted: 2011-05-30
 in_force: 2011-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/363/20211206/fr/xml/fedlex-data-admin-ch-eli-cc-2011-363-20211206-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/363/20211206/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/363/20220801/fr/xml/fedlex-data-admin-ch-eli-cc-2011-363-20220801-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/363/20220801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/363/20211206/fr"
 
 (Ordonnance sur les tableaux des stupéfiants, OTStup-DFI)
 
-du 30 mai 2011 (Etat le 6 décembre 2021)
+du 30 mai 2011 (Etat le 1<sup>er</sup> août 2022)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -77,12 +77,9 @@ La paille de pavot (capsules, têtes ou tiges de pavot) qui n’est pas destiné
 
 #### Art. 4
 
-**Graines de chanvre**
+[^4-1]
 
-Les graines de chanvre visées à l’annexe 4 de l’ordonnance du 7 décembre 1998 sur le catalogue des variétés[^4-1] et dans le catalogue commun des variétés de l’Union européenne[^4-2] sont exclues des dispositions relatives aux substances soumises à contrôle.
-
-[^4-1]: [[RO 1999 429](https://fedlex.data.admin.ch/eli/oc/1999/52), [2000 626](https://fedlex.data.admin.ch/eli/oc/2000/109), [2004 2711](https://fedlex.data.admin.ch/eli/oc/2004/327), [2012 2835](https://fedlex.data.admin.ch/eli/oc/2012/332). [RO 2013 1947](https://fedlex.data.admin.ch/eli/oc/2013/417)art. 2]. Voir actuellement l’O du 12 juin 2013 sur les variétés ([RS 916.151.6](https://fedlex.data.admin.ch/eli/cc/2013/417)).
-[^4-2]: Catalogue commun des variétés des espèces agricoles, 29<sup>e</sup> édition intégrale, dans la version selon JO C 337 A du 14.12.2010, p. 1
+[^4-1]: Abrogé par le ch. I de l’O du DFI du 22 juin 2022, avec effet au 1<sup>er</sup> août 2022 ([RO 2022 387](https://fedlex.data.admin.ch/eli/oc/2022/387)).
 
 #### Art. 5
 
@@ -120,7 +117,7 @@ Annexe 1*[^t-1]*
 
 ## Tableau général des substances soumises à contrôle des tableaux a à d
 
-[^t-1]: Mise à jour selon le ch. I al. 1 des O du DFI du 5 sept. 2014 ([RO 2014 3011](https://fedlex.data.admin.ch/eli/oc/2014/508)), du 18 août 2017 ([RO 2017 5003](https://fedlex.data.admin.ch/eli/oc/2017/539)) et le ch. I des O du DFI du 18 mars 2019 ([RO 2019 1057](https://fedlex.data.admin.ch/eli/oc/2019/195)) et du 29 mai 2020, en vigueur depuis le 1<sup>er</sup> août 2020 ([RO 2020 2603](https://fedlex.data.admin.ch/eli/oc/2020/479)).
+[^t-1]: Mise à jour par le ch. I al. 1 des O du DFI du 5 sept. 2014 ([RO 2014 3011](https://fedlex.data.admin.ch/eli/oc/2014/508)), du 18 août 2017 ([RO 2017 5003](https://fedlex.data.admin.ch/eli/oc/2017/539)), le ch. I des O du DFI du 18 mars 2019 ([RO 2019 1057](https://fedlex.data.admin.ch/eli/oc/2019/195)), du 29 mai 2020 ([RO 2020 2603](https://fedlex.data.admin.ch/eli/oc/2020/479)) et le ch. II de l’O du DFI du 22 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 387](https://fedlex.data.admin.ch/eli/oc/2022/387)).
 
 <table>
 <tr><th>Désignation</th><th>GTIN</th><th>Tableau</th></tr>
@@ -187,7 +184,8 @@ Annexe 1*[^t-1]*
 <tr><td>**1-butyl-3-(1-naphthoyl)indole** voir sous JWH-073</td><td>7611746990901</td><td>d</td></tr>
 <tr><td>**butylone** voir sous 2-méthylamino-1-(3,4-méthylènedioxyphényl)butan-1-one</td><td>7611746990994</td><td>d</td></tr>
 <tr><td>**camazépam**</td><td>7611746172000</td><td>b</td></tr>
-<tr><td>**cannabis** Plante de chanvre ou parties de plante de chanvre présentant une teneur totale moyenne en THC de 1,0 % au moins et tous les objets et préparations présentant une teneur totale en THC de 1,0 % au moins ou fabriqués à partir de chanvre présentant une teneur totale en THC de 1,0 % au moins.</td><td>7611746999522</td><td>d</td></tr>
+<tr><td>**cannabis** Plantes de chanvre ou parties de plantes de chanvre présentant une teneur totale moyenne en THC de 1,0 % au moins, ainsi que l’ensemble des objets et préparations présentant une teneur totale en THC de 1,0 % au moins ou fabriqués à partir de chanvre présentant une teneur totale en THC de 1,0 % au moins (sous réserve des dispositions applicables au cannabis destiné à des fins médicales)</td><td>7611746999522</td><td>d</td></tr>
+<tr><td>**cannabis** **destiné à des fins médicales** Plantes de chanvre ou parties de plantes de chanvre destinées à des fins médicales et à une production pharmaceutique, présentant une teneur totale moyenne en THC de 1,0 % au moins, ainsi que l’ensemble des objets et préparations destinées à des fins médicales et à une production pharmaceutique présentant une teneur totale en THC de 1,0 % au moins ou fabriqués à partir de chanvre présentant une teneur totale en THC de 1,0 % au moins</td><td>7611746946311</td><td>a</td></tr>
 <tr><td>**carfentanyl**</td><td>7611746958161</td><td>a</td></tr>
 <tr><td>**catha edulis, feuilles** (feuilles de la plante de kath)</td><td>7611746999270</td><td>d</td></tr>
 <tr><td>**cathine** [(+)-norpseudoéphédrine]</td><td>7611746173007</td><td>b</td></tr>
@@ -196,12 +194,18 @@ Annexe 1*[^t-1]*
 <tr><td>**cétobémidone**</td><td>7611746058007</td><td>a</td></tr>
 <tr><td>**champignons hallucinogènes des genres conocybe, panaeolus, psilocybe et str****o****pharia**</td><td>7611746370000</td><td>d</td></tr>
 <tr><td>**chanvre** voir sous cannabis</td><td></td><td>d</td></tr>
-<tr><td>**chanvre, boutures** pour les plantes de chanvre présentant une teneur totale en THC de 1,0 % au moins.</td><td>7611746999522</td><td>d</td></tr>
-<tr><td>**chanvre, extrait** voir sous cannabis</td><td>7611746999515</td><td>d</td></tr>
-<tr><td>**chanvre, graines** pour les plantes de chanvre présentant une teneur totale en THC de 1,0 % au moins.</td><td>7611746999522</td><td>d</td></tr>
-<tr><td>**chanvre, huile** voir sous cannabis</td><td>7611746999485</td><td>d</td></tr>
-<tr><td>**chanvre, résine** (haschich)</td><td>7611746999508</td><td>d</td></tr>
-<tr><td>**chanvre, teinture** voir sous cannabis</td><td>7611746999492</td><td>d</td></tr>
+<tr><td>**chanvre, boutures** pour plantes de chanvre présentant une teneur totale en THC de 1,0 % au moins (sous réserve des dispositions applicables aux boutures de chanvre à cultiver en vue d’une production pharmaceutique)</td><td>7611746999522</td><td>d</td></tr>
+<tr><td>**chanvre, boutures à cultiver en vue d’une production pharmaceutique** pour des plantes de chanvre présentant une teneur totale en THC de 1,0 % au moins</td><td>7611746946311</td><td>a</td></tr>
+<tr><td>**chanvre, extrait** voir cannabis (sous réserve des dispositions applicables à l’extrait de chanvre destiné à des fins médicales)</td><td>7611746999515</td><td>d</td></tr>
+<tr><td>**chanvre, extrait destiné à des fins médicales** voir cannabis destiné à des fins médicales</td><td>7611746946335</td><td>a</td></tr>
+<tr><td>**chanvre, graines** pour plantes de chanvre présentant une teneur totale en THC de 1,0 % au moins (sous réserve des dispositions applicables aux graines de chanvre à cultiver en vue d’une production pharmaceutique)</td><td>7611746999522</td><td>d</td></tr>
+<tr><td>**chanvre, graines à cultiver en vue d’une production pharmaceutique** pour des plantes de chanvre présentant une teneur totale en THC de 1,0 % au moins</td><td>7611746946311</td><td>a</td></tr>
+<tr><td>**chanvre, huile** voir cannabis (sous réserve des dispositions applicables à l’huile de chanvre destinée à des fins médicales)</td><td>7611746999485</td><td>d</td></tr>
+<tr><td>**chanvre, huile destinée à des fins médicales** voir cannabis destiné à des fins médicales</td><td>7611746946342</td><td>a</td></tr>
+<tr><td>**chanvre, résine** **(haschich)** voir cannabis (sous réserve des dispositions applicables à la résine de chanvre destinée à des fins médicales)</td><td>7611746999508</td><td>d</td></tr>
+<tr><td>**chanvre, résine (haschich) destinée à des fins** **médicales** voir cannabis destiné à des fins médicales</td><td>7611746946434</td><td>a</td></tr>
+<tr><td>**chanvre, teinture** voir cannabis (sous réserve des dispositions applicables à la teinture de chanvre destinée à des fins médicales)</td><td>7611746999492</td><td>d</td></tr>
+<tr><td>**chanvre, teinture destinée à des fins médicales** voir cannabis destiné à des fins médicales</td><td>7611746946298</td><td>a</td></tr>
 <tr><td>**chlordiazépoxide**</td><td>7611746174004</td><td>b</td></tr>
 <tr><td>**1-(2-chlorphényl)pipérazine** voir sous o-chlorphényl-pipérazine</td><td>7611746991045</td><td>d</td></tr>
 <tr><td>**1-(3-chlorphényl)pipérazine** voir sous m-chlorphényl-pipérazine</td><td>7611746991038</td><td>d</td></tr>
@@ -240,7 +244,7 @@ Annexe 1*[^t-1]*
 <tr><td>**2C-T-7** voir sous 2,5-diméthoxy-4-(n)-propylthiophenéthylamine</td><td>7611746138013</td><td>d</td></tr>
 <tr><td>**CUMYL-4CN-BINACA****,** 1-(4-cyanobutyl)-N-(2-phénylpropane-2-yl)indazole-3-carboxamide</td><td>7611746943266</td><td>d</td></tr>
 <tr><td>**cyclobarbital**</td><td>7611746179009</td><td>b</td></tr>
-<tr><td>**Cyclopropylfentanyl****,** N-phényl-N-[1-(2-phényléthyl)pipéridine-4-yl]cyclopropanecarboxamide</td><td>7611746943297</td><td>d</td></tr>
+<tr><td>**cyclopropylfentanyl****,** N-phényl-N-[1-(2-phényléthyl)pipéridine-4-yl]cyclopropanecarboxamide</td><td>7611746943297</td><td>d</td></tr>
 <tr><td>**délorazépam**</td><td>7611746180005</td><td>b</td></tr>
 <tr><td>**désomorphine**</td><td>7611746025009</td><td>a</td></tr>
 <tr><td>**DET** voir sous N,N-diéthyltryptamine</td><td>7611746135005</td><td>d</td></tr>
@@ -300,7 +304,8 @@ Annexe 1*[^t-1]*
 <tr><td>**DOC****,** 1-(4-chloro-2,5-diméthoxyphényl)propane-2-amine, 2,5-diméthoxy-4-chloramphétamine, 4-chloro-2,5-DMA</td><td>7611746943228</td><td>d</td></tr>
 <tr><td>**DOET** voir sous 2,5-diméthoxy-4-éthylamphétamine</td><td>7611746138006</td><td>d</td></tr>
 <tr><td>**DOM** (STP) voir sous 2,5-diméthoxy-4-méthylamphétamine</td><td>7611746133001</td><td>d</td></tr>
-<tr><td>**dronabinol** voir sous (-)-trans-delta-9-tétrahydrocannabinol</td><td>7611746155010</td><td>d</td></tr>
+<tr><td>**dronabinol** voir (-)-trans-delta-9-tétrahydrocannabinol (sous réserve des dispositions applicables au dronabinol destiné à des fins médicales)</td><td>7611746155010</td><td>d</td></tr>
+<tr><td>**dronabinol destiné à des fins médicales** voir (-)-trans-delta-9-tétrahydrocannabinol destiné à des fins médicales</td><td>7611746946380</td><td>a</td></tr>
 <tr><td>**drotébanol**</td><td>7611746040002</td><td>a</td></tr>
 <tr><td>**ecgonine et ses esters et dérivés qui sont transfor****m****a****bles en ecgonine et cocaïne**</td><td>7611746041009</td><td>a</td></tr>
 <tr><td>**éphédrone** voir sous méthcathinone</td><td>7611746331001</td><td>d</td></tr>
@@ -330,13 +335,13 @@ Annexe 1*[^t-1]*
 <tr><td>**fénétylline**</td><td>7611746120001</td><td>a</td></tr>
 <tr><td>**fenproporex**</td><td>7611746188001</td><td>b</td></tr>
 <tr><td>**fentanyl**</td><td>7611746047001</td><td>a</td></tr>
-<tr><td>**Flualprazolam****,** 8-chloro-6-(2-fluorophényl)-1-méthyl-4H-[1,2,4]triazole[4,3-a][1,4]benzodiazépine</td><td>7611746943402</td><td>d</td></tr>
+<tr><td>**flualprazolam****,** 8-chloro-6-(2-fluorophényl)-1-méthyl-4H-[1,2,4]triazole[4,3-a][1,4]benzodiazépine</td><td>7611746943402</td><td>d</td></tr>
 <tr><td>**fludiazépam**</td><td>7611746189008</td><td>b</td></tr>
 <tr><td>**flunitrazépam**</td><td>7611746190004</td><td>b</td></tr>
 <tr><td>**4-fluoroamphétamine**</td><td>7611746991052</td><td>d</td></tr>
-<tr><td>**4-Fluorobutyrylfentanyl, parafluorobutyrylfentanyl****,** N-(4-fluorophényl)-N-[1-(2-phényléthyl)pipéridine-4-yl]butanamide</td><td>7611746943327</td><td>d</td></tr>
+<tr><td>**4-fluorobutyrylfentanyl, parafluorobutyrylfentanyl****,** N-(4-fluorophényl)-N-[1-(2-phényléthyl)pipéridine-4-yl]butanamide</td><td>7611746943327</td><td>d</td></tr>
 <tr><td>**p-fluorofentanyl**</td><td>7611746048008</td><td>a</td></tr>
-<tr><td>**2-Fluorofentanyl, ortho-fluorofentanyl****,** N-(2-fluorophényl)-N-[1-(2-phényléthyl)pipéridine-4-yl]propanamide</td><td>7611746943310</td><td>d</td></tr>
+<tr><td>**2-fluorofentanyl, ortho-fluorofentanyl****,** N-(2-fluorophényl)-N-[1-(2-phényléthyl)pipéridine-4-yl]propanamide</td><td>7611746943310</td><td>d</td></tr>
 <tr><td>**4-fluoroisobutyr(yl)fentanyl****,** N-(4-fluorophényl)-N-(1-phénéthylpipéridin-4-yl)isobutyramide</td><td>7611746941200</td><td>d</td></tr>
 <tr><td>**1-(4-fluorophényl)propan-2-amine** voir sous 4-fluoro-amphétamine</td><td>7611746991052</td><td>d</td></tr>
 <tr><td>**flurazépam**</td><td>7611746191001</td><td>b</td></tr>
@@ -369,7 +374,7 @@ Annexe 1*[^t-1]*
 <tr><td>**JWH-019, 1-hexyl-3-(1-naphthoyl)indole**</td><td>7611746990918</td><td>d</td></tr>
 <tr><td>**JWH-073, 1-butyl-3-(1-naphthoyl)indole**</td><td>7611746990901</td><td>d</td></tr>
 <tr><td>**JWH-250, 1-pentyl-3-(2-méthoxyphénylacétyl)indole**</td><td>7611746990895</td><td>d</td></tr>
-<tr><td>**Kétamine** Sont soustraites au contrôle les préparations injectables prêtes à l’emploi qui sont destinées à des personnes autorisées à manier des substances soumises à contrôle figurant dans le tableau b.</td><td>7611746941163</td><td>b</td></tr>
+<tr><td>**kétamine** Sont soustraites au contrôle les préparations injectables prêtes à l’emploi qui sont destinées à des personnes autorisées à manier des substances soumises à contrôle figurant dans le tableau b.</td><td>7611746941163</td><td>b</td></tr>
 <tr><td>**kétazolam**</td><td>7611746195009</td><td>b</td></tr>
 <tr><td>**LAAM** voir sous lévacétylméthadol</td><td>7611746236009</td><td>a</td></tr>
 <tr><td>**léfétamine** (SPA)</td><td>7611746196006</td><td>b</td></tr>
@@ -418,7 +423,7 @@ Annexe 1*[^t-1]*
 <tr><td>**méthcathinone** (éphédrone) [(±-isomère)</td><td>7611746331001</td><td>d</td></tr>
 <tr><td>**méthiopropamine, MPA,** N-méthyl-1-(thiophen-2-yl)propan-2-amine</td><td>7611746965145</td><td>d</td></tr>
 <tr><td>**méthoxétamine,** 2-(3-méthoxyphényl)-2-(éthylamino cyclohexanone</td><td>7611746964728</td><td>d</td></tr>
-<tr><td>**Méthoxyacétylfentanyl****,** 2-méthoxy-N-phényl-N-[1-(2-phényléthyl)pipéridine-4-yl]acétamide</td><td>7611746943303</td><td>d</td></tr>
+<tr><td>**méthoxyacétylfentanyl****,** 2-méthoxy-N-phényl-N-[1-(2-phényléthyl)pipéridine-4-yl]acétamide</td><td>7611746943303</td><td>d</td></tr>
 <tr><td>**para-méthoxyamphétamine** voir sous paraméthoxyamphétamine (PMA)</td><td>7611746150008</td><td>d</td></tr>
 <tr><td>**5-méthoxy-3,4-méthylènedioxyamphétamine** (MMDA)</td><td>7611746145004</td><td>d</td></tr>
 <tr><td>**2-(2-méthoxyphényl)-1-(1-pentylindol-3-yl)éthanone** voir sous JWH-250</td><td>7611746990895</td><td>d</td></tr>
@@ -571,8 +576,10 @@ Annexe 1*[^t-1]*
 <tr><td>**ténamfétamine** voir sous 3,4-méthylènedioxyamphétamine</td><td>7611746459002</td><td>d</td></tr>
 <tr><td>**ténocyclidine** (TCP)</td><td>7611746154006</td><td>d</td></tr>
 <tr><td>**tétrabamate**</td><td>7611746998358</td><td>b</td></tr>
-<tr><td>**(-)-trans-delta-9-tétrahydrocannabinol** (dronabinol, [-]trans-Δ<sup>9</sup>-THC)</td><td>7611746155010</td><td>d</td></tr>
-<tr><td>**tétrahydrocannabinol** (THC) tous les isomères et leurs variantes stéréochimiques sauf (-)-trans-Δ<sup>9</sup>-THC</td><td>7611746155003</td><td>d</td></tr>
+<tr><td>**(-)-trans-delta-9-tétrahydrocannabinol** (dronabinol, [-]-trans-Δ<sup>9</sup>-THC) (sous réserve des dispositions applicables au (-)-trans-delta-9-tétrahydrocannabinol destiné à des fins médicales)</td><td>7611746155010</td><td>d</td></tr>
+<tr><td>**(-)-trans-delta-9-tétrahydrocannabinol destiné à des fins médicales** (dronabinol, [-]-trans-Δ<sup>9</sup>-THC)</td><td>7611746946380</td><td>a</td></tr>
+<tr><td>**tétrahydrocannabinol (THC)** tous les isomères et leurs variantes stéréochimiques à l’exception du (-)-trans-Δ<sup>9</sup>-THC (sous réserve des dispositions applicables au tétrahydrocannabinol (THC) destiné à des fins médicales)</td><td>7611746155003</td><td>d</td></tr>
+<tr><td>**tétrahydrocannabinol (THC) destiné à des fins médicales** tous les isomères et leurs variantes stéréochimiques à l’exception du (-)-trans-Δ<sup>9</sup>-THC</td><td>7611746946427</td><td>a</td></tr>
 <tr><td>**tétrahydrofuranylfentanyl****,** N-(1-phénéthylpipéridin-4-yl)-N-phényltétrahydrofuran-2-carboxamide</td><td>7611746941217</td><td>d</td></tr>
 <tr><td>**tétrazépam**</td><td>7611746221005</td><td>b</td></tr>
 <tr><td>**TFMPP** voir sous trifluorométhylphénylpipérazine</td><td>7611746991014</td><td>d</td></tr>
@@ -592,7 +599,7 @@ Annexe 1*[^t-1]*
 <tr><td>**3,4,5-triméthoxyamphétamine** (TMA)</td><td>7611746156000</td><td>d</td></tr>
 <tr><td>**1-(3,4,5-triméthoxyphényl)-2-aminoéthane** voir sous mescaline</td><td>7611746144007</td><td>d</td></tr>
 <tr><td>**UR-144****,** (1-pentyl-1H-indol-3-yl)(2,2,3,3-tétraméthylcyclopropyl)méthanone</td><td>7611746941255</td><td>d</td></tr>
-<tr><td>**Valérylfentanyl****,** N-phényl-N-[1-(2-phényléthyl)pipéridine-4-yl]pentanamide</td><td>7611746943235</td><td>d</td></tr>
+<tr><td>**valérylfentanyl****,** N-phényl-N-[1-(2-phényléthyl)pipéridine-4-yl]pentanamide</td><td>7611746943235</td><td>d</td></tr>
 <tr><td>**vinylbital**</td><td>7611746223009</td><td>b</td></tr>
 <tr><td>**XLR-11;** [1-(5-fluoropentyl)-1H-indol-3-yl](2,2,3,3-tétraméthylcyclopropyl)méthanone</td><td>7611746960737</td><td>d</td></tr>
 <tr><td>**zipéprol**</td><td>7611746232001</td><td>a</td></tr>
@@ -607,7 +614,7 @@ Annexe 2*[^t-2]*
 
 ## Tableau a
 
-[^t-2]: Mise à jour selon le ch. I al. 1 des O du DFI du 5 sept. 2014 ([RO 2014 3011](https://fedlex.data.admin.ch/eli/oc/2014/508)) ) et du 18 août 2017, en vigueur depuis le 1<sup>er</sup> oct. 2017 ([RO 2017 5003](https://fedlex.data.admin.ch/eli/oc/2017/539)).
+[^t-2]: Mise à jour par le ch. I al. 1 des O du DFI du 5 sept. 2014 ([RO 2014 3011](https://fedlex.data.admin.ch/eli/oc/2014/508)), du 18 août 2017 ([RO 2017 5003](https://fedlex.data.admin.ch/eli/oc/2017/539)) et le ch. II de l’O du DFI du 22 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 387](https://fedlex.data.admin.ch/eli/oc/2022/387)).
 
 <table>
 <tr><th colspan="2">Désignation</th><th>GTIN</th><th colspan="2">Tableau</th></tr>
@@ -634,8 +641,15 @@ Annexe 2*[^t-2]*
 <tr><td colspan="2">**bétaprodine**</td><td>7611746015000</td><td colspan="2">a</td></tr>
 <tr><td colspan="2">**bézitramide**</td><td>7611746016007</td><td colspan="2">a</td></tr>
 <tr><td colspan="2">**buprénorphine**</td><td>7611746017004</td><td colspan="2">a</td></tr>
+<tr><td colspan="2">**cannabis** **destiné à des fins médicales** Plantes de chanvre ou parties de plantes de chanvre destinées à des fins médicales et à une production pharmaceutique, présentant une teneur totale moyenne en THC de 1,0 % au moins ainsi que l’ensemble des objets et préparations destinées à des fins médicales et à une production pharmaceutique, présentant une teneur totale en THC de 1,0 % au moins ou fabriqués à partir de chanvre présentant une teneur totale en THC de 1,0 % au moins</td><td>7611746946311</td><td colspan="2">a</td></tr>
 <tr><td colspan="2">**carfentanyl**</td><td>7611746958161</td><td colspan="2">a</td></tr>
 <tr><td colspan="2">**cétobémidone**</td><td>7611746058007</td><td colspan="2">a</td></tr>
+<tr><td colspan="2">**chanvre, boutures** **à cultiver en vue d’une production pharmaceutique** pour des plantes de chanvre présentant une teneur totale en THC de 1,0 % au moins</td><td>7611746946311</td><td colspan="2">a</td></tr>
+<tr><td colspan="2">**chanvre, extrait** **destiné à des fins médicales** voir cannabis destiné à des fins médicales</td><td>7611746946335</td><td colspan="2">a</td></tr>
+<tr><td colspan="2">**chanvre, graines** **à cultiver en vue d’une production pharmaceutique** pour les plantes de chanvre présentant une teneur totale en THC de 1,0 % au moins</td><td>7611746946311</td><td colspan="2">a</td></tr>
+<tr><td colspan="2">**chanvre, huile** **destinée à des fins médicales** voir cannabis destiné à des fins médicales</td><td>7611746946342</td><td colspan="2">a</td></tr>
+<tr><td colspan="2">**chanvre, résine (haschisch)** **destinée à des fins** **médicales** voir cannabis destiné à des fins médicales</td><td>7611746946434</td><td colspan="2">a</td></tr>
+<tr><td colspan="2">**chanvre, teinture destinée à des fins médicales** voir cannabis destiné à des fins médicales</td><td>7611746946298</td><td colspan="2">a</td></tr>
 <tr><td colspan="2">**clonitazène**</td><td>7611746019008</td><td colspan="2">a</td></tr>
 <tr><td colspan="2">**coca, feuilles de**</td><td>7611746999478</td><td colspan="2">a</td></tr>
 <tr><td colspan="2">**coca, extraits** À l’exception des extraits de coca dont la teneur totale en cocaïne, en ecgonine ou en tout autre alcaloïde ecgoninique ne dépasse pas 1,25 ppm ou 1,25 milligramme par litre ou kilogramme**.**</td><td>7611746999461</td><td colspan="2">a</td></tr>
@@ -664,6 +678,7 @@ Annexe 2*[^t-2]*
 <tr><td colspan="2">**dioxaphétylbutyrate**</td><td>7611746037002</td><td colspan="2">a</td></tr>
 <tr><td colspan="2">**diphénoxylate**</td><td>7611746038009</td><td colspan="2">a</td></tr>
 <tr><td colspan="2">**dipipanone**</td><td>7611746039006</td><td colspan="2">a</td></tr>
+<tr><td colspan="2">**dronabinol** **destiné à des fins médicales** voir (-)-trans-delta-9-tétrahydrocannabinol destiné à des fins médicales</td><td>7611746946380</td><td colspan="2">a</td></tr>
 <tr><td colspan="2">**drotébanol**</td><td>7611746040002</td><td colspan="2">a</td></tr>
 <tr><td colspan="2">**ecgonine et ses esters et dérivés qui sont transform****a****bles en ecgonine et cocaïne**</td><td>7611746041009</td><td colspan="2">a</td></tr>
 <tr><td colspan="2">**éthylméthylthiambutène**</td><td>7611746042006</td><td colspan="2">a</td></tr>
@@ -771,6 +786,8 @@ Annexe 2*[^t-2]*
 <tr><td colspan="2">**rémifentanil**</td><td>7611746340003</td><td colspan="2">a</td></tr>
 <tr><td colspan="2">**sufentanil**</td><td>7611746112006</td><td colspan="2">a</td></tr>
 <tr><td colspan="2">**tapentadole**</td><td>7611746990888</td><td colspan="2">a</td></tr>
+<tr><td colspan="2">**(-)-trans-delta-9-tétrahydrocannabinol** **destiné à des fins médicales** (dronabinol, [-]-trans-Δ<sup>9</sup>-THC)</td><td>7611746946380</td><td colspan="2">a</td></tr>
+<tr><td colspan="2">**tétrahydrocannabinol (THC) destiné à des fins** **médicales** tous les isomères et leurs variantes stéréochimiques à l’exception du (-)-trans-Δ<sup>9</sup>-THC</td><td>7611746946427</td><td colspan="2">a</td></tr>
 <tr><td colspan="2">**thébacone**</td><td>7611746113003</td><td colspan="2">a</td></tr>
 <tr><td colspan="2">**thébaïne**</td><td>7611746114000</td><td colspan="2">a</td></tr>
 <tr><td colspan="2">**thiofentanyl**</td><td>7611746115007</td><td colspan="2">a</td></tr>
@@ -785,7 +802,7 @@ Annexe 3*[^t-3]*
 
 ## Tableau b
 
-[^t-3]: Mise à jour selon le ch. I al. 1 de l’O du DFI du 5 sept. 2014 ([RO 2014 3011](https://fedlex.data.admin.ch/eli/oc/2014/508)) et le ch. I des O du DFI du 18 mars 2019 ([RO 2019 1057](https://fedlex.data.admin.ch/eli/oc/2019/195)) et du 29 mai 2020, en vigueur depuis le 1<sup>er</sup> août 2020 ([RO 2020 2603](https://fedlex.data.admin.ch/eli/oc/2020/479)).
+[^t-3]: Mise à jour par le ch. I al. 1 de l’O du DFI du 5 sept. 2014 ([RO 2014 3011](https://fedlex.data.admin.ch/eli/oc/2014/508)) et le ch. I des O du DFI du 18 mars 2019 ([RO 2019 1057](https://fedlex.data.admin.ch/eli/oc/2019/195)) et du 29 mai 2020, en vigueur depuis le 1<sup>er</sup> août 2020 ([RO 2020 2603](https://fedlex.data.admin.ch/eli/oc/2020/479)).
 
 <table>
 <tr><th>Désignation</th><th>GTIN</th><th>Tableau</th></tr>
@@ -828,7 +845,7 @@ Annexe 3*[^t-3]*
 <tr><td>**glutéthimide**</td><td>7611746192008</td><td>b</td></tr>
 <tr><td>**halazépam**</td><td>7611746193005</td><td>b</td></tr>
 <tr><td>**haloxazolam**</td><td>7611746194002</td><td>b</td></tr>
-<tr><td>Kétamine Sont soustraites au contrôle les préparations injectables prêtes à l’emploi qui sont destinées à des personnes autorisées à manier des substances soumises à contrôle figurant dans le tableau b.</td><td>7611746941163</td><td>b</td></tr>
+<tr><td>kétamine Sont soustraites au contrôle les préparations injectables prêtes à l’emploi qui sont destinées à des personnes autorisées à manier des substances soumises à contrôle figurant dans le tableau b.</td><td>7611746941163</td><td>b</td></tr>
 <tr><td>**kétazolam**</td><td>7611746195009</td><td>b</td></tr>
 <tr><td>**léfétamine** (SPA)</td><td>7611746196006</td><td>b</td></tr>
 <tr><td>**loflazépate d’éthyle**</td><td>7611746185000</td><td>b</td></tr>
@@ -897,7 +914,7 @@ Annexe 5*[^t-4]*
 
 ## Tableau d
 
-[^t-4]: Mise à jour selon le ch. I al. 1 des O du DFI du 5 sept. 2014 ([RO 2014 3011](https://fedlex.data.admin.ch/eli/oc/2014/508)), du 18 août 2017 ([RO 2017 5003](https://fedlex.data.admin.ch/eli/oc/2017/539)) et le ch. I des O du DFI du 18 mars 2019 ([RO 2019 1057](https://fedlex.data.admin.ch/eli/oc/2019/195)) et du 29 mai 2020, en vigueur depuis le 1<sup>er</sup> août 2020 ([RO 2020 2603](https://fedlex.data.admin.ch/eli/oc/2020/479)).
+[^t-4]: Mise à jour par le ch. I al. 1 des O du DFI du 5 sept. 2014 ([RO 2014 3011](https://fedlex.data.admin.ch/eli/oc/2014/508)), du 18 août 2017 ([RO 2017 5003](https://fedlex.data.admin.ch/eli/oc/2017/539)), le ch. I des O du DFI du 18 mars 2019 ([RO 2019 1057](https://fedlex.data.admin.ch/eli/oc/2019/195)), du 29 mai 2020 ([RO 2020 2603](https://fedlex.data.admin.ch/eli/oc/2020/479)) et le ch. II de l’O du DFI du 22 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 387](https://fedlex.data.admin.ch/eli/oc/2022/387)).
 
 <table>
 <tr><th>Désignation</th><th>GTIN</th><th>Tableau</th></tr>
@@ -926,18 +943,18 @@ Annexe 5*[^t-4]*
 <tr><td>**1-butyl-3-(1-naphthoyl)indole** voir sous JWH-073</td><td>7611746990901</td><td>d</td></tr>
 <tr><td>**butylone** voir sous 2-méthylamino-1-(3,4-méthylènedioxyphényl)butan-1-one</td><td>7611746990994</td><td>d</td></tr>
 <tr><td>**butyrfentanyl,** butanoylfentanyl, N-phényl-N-(1-(2-phényléthyl)-4-pipéridinyl)-butanamide</td><td>7611746958673</td><td>d</td></tr>
-<tr><td>**cannabis** Plante de chanvre ou parties de plante de chanvre présentant une teneur totale moyenne en THC de 1,0 % au moins et tous les objets et préparations présentant une teneur totale en THC de 1,0 % au moins ou fabriqués à partir de chanvre présentant une teneur totale en THC de 1,0 % au moins.</td><td>7611746999522</td><td>d</td></tr>
+<tr><td>**cannabis** Plantes de chanvre ou parties de plantes de chanvre présentant une teneur totale moyenne en THC de 1,0 % au moins, ainsi que l’ensemble des objets et préparations présentant une teneur totale en THC de 1,0 % au moins ou fabriqués à partir de chanvre présentant une teneur totale en THC de 1,0 % au moins (sous réserve des dispositions applicables au cannabis destiné à des fins médicales)</td><td>7611746999522</td><td>d</td></tr>
 <tr><td>**catha edulis, feuilles** (feuilles de la plante de kath)</td><td>7611746999270</td><td>d</td></tr>
 <tr><td>**cathinone**</td><td>7611746134008</td><td>d</td></tr>
 <tr><td>**2C-B** voir sous 4-brom-2,5-diméthoxyphényléthylamine</td><td>7611746350002</td><td>d</td></tr>
 <tr><td>**champignons hallucinogènes des genres conocybe, panaeolus, psilocybe et str****o****pharia**</td><td>7611746370000</td><td>d</td></tr>
 <tr><td>**chanvre** voir sous cannabis</td><td></td><td>d</td></tr>
-<tr><td>**chanvre, boutures** pour les plantes de chanvre présentant une teneur totale en THC de 1,0 % au moins.</td><td>7611746999522</td><td>d</td></tr>
-<tr><td>**chanvre, extrait** voir sous cannabis</td><td>7611746999515</td><td>d</td></tr>
-<tr><td>**chanvre, graines** pour les plantes de chanvre présentant une teneur totale en THC de 1,0 % au moins.</td><td>7611746999522</td><td>d</td></tr>
-<tr><td>**chanvre, huile** voir sous cannabis</td><td>7611746999485</td><td>d</td></tr>
-<tr><td>**chanvre, résine** (haschich)</td><td>7611746999508</td><td>d</td></tr>
-<tr><td>**chanvre, teinture** voir sous cannabis</td><td>7611746999492</td><td>d</td></tr>
+<tr><td>**chanvre, boutures** pour plantes de chanvre présentant une teneur totale en THC de 1,0 % au moins (sous réserve des dispositions applicables aux boutures de chanvre à cultiver en vue d’une production pharmaceutique)</td><td>7611746999522</td><td>d</td></tr>
+<tr><td>**chanvre, extrait** voir cannabis (sous réserve des dispositions applicables à l’extrait de chanvre destiné à des fins médicales)</td><td>7611746999515</td><td>d</td></tr>
+<tr><td>**chanvre, graines** pour plantes de chanvre présentant une teneur totale en THC de 1,0 % au moins (sous réserve des dispositions applicables aux graines de chanvre à cultiver en vue d’une production pharmaceutique)</td><td>7611746999522</td><td>d</td></tr>
+<tr><td>**chanvre, huile** voir cannabis (sous réserve des dispositions applicables à l’huile de chanvre destinée à des fins médicales)</td><td>7611746999485</td><td>d</td></tr>
+<tr><td>**chanvre, résine** **(haschich)** voir cannabis (sous réserve des dispositions applicables à la résine de chanvre destinée à des fins médicales)</td><td>7611746999508</td><td>d</td></tr>
+<tr><td>**chanvre, teinture** voir cannabis (sous réserve des dispositions applicables à la teinture de chanvre destinée à des fins médicales)</td><td>7611746999492</td><td>d</td></tr>
 <tr><td>**1-(2-chlorphényl)pipérazine** voir sous o-chlorphényl-pipérazine</td><td>7611746991045</td><td>d</td></tr>
 <tr><td>**1-(3-chlorphényl)pipérazine** voir sous m-chlorphényl-pipérazine</td><td>7611746991038</td><td>d</td></tr>
 <tr><td>**1-(4-chlorphényl)pipérazine** voir sous p-chlorphényl-pipérazine</td><td>7611746991021</td><td>d</td></tr>
@@ -954,11 +971,11 @@ Annexe 5*[^t-4]*
 <tr><td>**m-CPP** voir sous m-chlorphénylpipérazine</td><td>7611746991038</td><td>d</td></tr>
 <tr><td>**o-CPP** voir sous o-chlorphénylpipérazine</td><td>7611746991045</td><td>d</td></tr>
 <tr><td>**p-CPP** voir sous p-chlorphénylpipérazine</td><td>7611746991021</td><td>d</td></tr>
-<tr><td>**Crotonylfentanyl,** N-phényl-N-[1-(2-phényléthyl)pipéridine-4-yl]but-2-énamide</td><td>7611746943242</td><td>d</td></tr>
+<tr><td>**crotonylfentanyl,** N-phényl-N-[1-(2-phényléthyl)pipéridine-4-yl]but-2-énamide</td><td>7611746943242</td><td>d</td></tr>
 <tr><td>**2C-T-2** voir sous 4-éthylthio-2,5-diméthoxyphenéthylamine</td><td>7611746137016</td><td>d</td></tr>
 <tr><td>**2C-T-7** voir sous 2,5-diméthoxy-4-(n)-propylthiophenéthylamine</td><td>7611746138013</td><td>d</td></tr>
 <tr><td>**CUMYL-4CN-BINACA****,** 1-(4-cyanobutyl)-N-(2-phénylpropane-2-yl)indazole-3-carboxamide</td><td>7611746943266</td><td>d</td></tr>
-<tr><td>**Cyclopropylfentanyl,** N-phényl-N-[1-(2-phényléthyl)pipéridine-4-yl]cyclopropanecarboxamide</td><td>7611746943297</td><td>d</td></tr>
+<tr><td>**cyclopropylfentanyl,** N-phényl-N-[1-(2-phényléthyl)pipéridine-4-yl]cyclopropanecarboxamide</td><td>7611746943297</td><td>d</td></tr>
 <tr><td>**DET** voir sous N,N-diéthyltryptamine</td><td>7611746135005</td><td>d</td></tr>
 <tr><td>**diacétylmorphine** voir sous héroïne</td><td>7611746050001</td><td>d</td></tr>
 <tr><td>**diamorphine** voir sous héroïne</td><td>7611746050001</td><td>d</td></tr>
@@ -992,7 +1009,7 @@ Annexe 5*[^t-4]*
 <tr><td>**DOC****,** 1-(4-chloro-2,5-diméthoxyphényl)propane-2-amine, 2,5-diméthoxy-4-chloramphétamine, 4-chloro-2,5-DMA</td><td>7611746943228</td><td>d</td></tr>
 <tr><td>**DOET** voir sous 2,5-diméthoxy-4-éthylamphétamine</td><td>7611746138006</td><td>d</td></tr>
 <tr><td>**DOM** (STP) voir sous 2,5-diméthoxy-4-méthylamphétamine</td><td>7611746133001</td><td>d</td></tr>
-<tr><td>**dronabinol** voir sous (-)-trans-delta-9-tétrahydrocannabinol</td><td>7611746155010</td><td>d</td></tr>
+<tr><td>**dronabinol** voir (-)-trans-delta-9-tétrahydrocannabinol (sous réserve des dispositions applicables au dronabinol destiné à des fins médicales)</td><td>7611746155010</td><td>d</td></tr>
 <tr><td>**éphédrone** voir sous méthcathinone</td><td>7611746331001</td><td>d</td></tr>
 <tr><td>**N-éthyl-****MDA** voir sous N-éthyl-3,4-méthylènedioxyamphétamine</td><td>7611746132004</td><td>d</td></tr>
 <tr><td>**N-éthyl-3,4-méthylènedioxyamphétamine** (MDE, MDEA) [(±)-isomère]</td><td>7611746132004</td><td>d</td></tr>
@@ -1005,10 +1022,10 @@ Annexe 5*[^t-4]*
 <tr><td>**4-éthylthio-2,5-diméthoxyphenéthylamine** (2C-T-2)</td><td>7611746137016</td><td>d</td></tr>
 <tr><td>**éticyclidine** (PCE)</td><td>7611746140009</td><td>d</td></tr>
 <tr><td>**étryptamine**</td><td>7611746227007</td><td>d</td></tr>
-<tr><td>**Flualprazolam,** 8-chloro-6-(2-fluorophényl)-1-méthyl-4H-[1,2,4]triazole[4,3-a][1,4]benzodiazépine</td><td>7611746943402</td><td>d</td></tr>
+<tr><td>**flualprazolam,** 8-chloro-6-(2-fluorophényl)-1-méthyl-4H-[1,2,4]triazole[4,3-a][1,4]benzodiazépine</td><td>7611746943402</td><td>d</td></tr>
 <tr><td>**4-fluoroamphétamine**</td><td>7611746991052</td><td>d</td></tr>
-<tr><td>**4-Fluorobutyrylfentanyl, parafluorobutyrylfentanyl****,** N-(4-fluorophényl)-N-[1-(2-phényléthyl)pipéridine-4-yl]butanamide</td><td>7611746943327</td><td>d</td></tr>
-<tr><td>**2-Fluorofentanyl, ortho-fluorofentanyl****,** N-(2-fluorophényl)-N-[1-(2-phényléthyl)pipéridine-4-yl]propanamide</td><td>7611746943310</td><td>d</td></tr>
+<tr><td>**4-fluorobutyrylfentanyl, parafluorobutyrylfentanyl****,** N-(4-fluorophényl)-N-[1-(2-phényléthyl)pipéridine-4-yl]butanamide</td><td>7611746943327</td><td>d</td></tr>
+<tr><td>**2-fluorofentanyl, ortho-fluorofentanyl****,** N-(2-fluorophényl)-N-[1-(2-phényléthyl)pipéridine-4-yl]propanamide</td><td>7611746943310</td><td>d</td></tr>
 <tr><td>**4-fluoroisobutyr(yl)fentanyl****,** N-(4-fluorophényl)-N-(1-phénéthylpipéridin-4-yl)isobutyramide</td><td>7611746941200</td><td>d</td></tr>
 <tr><td>**1-(4-fluorophényl)propan-2-amine** voir sous 4-fluoro-amphétamine</td><td>7611746991052</td><td>d</td></tr>
 <tr><td>**5F-MDMB-PINACA****, 5F-ADB,** méthyl-2-[1-(5-fluoropentyl)-1H-indazol-3-carboxamido]-3,3-diméthylbutanoate</td><td>7611746941231</td><td>d</td></tr>
@@ -1046,7 +1063,7 @@ Annexe 5*[^t-4]*
 <tr><td>**méthcathinone** (éphédrone) [(±-isomère)</td><td>7611746331001</td><td>d</td></tr>
 <tr><td>**méthiopropamine, MPA,** N-méthyl-1-(thiophen-2-yl)propan-2-amine</td><td>7611746965145</td><td>d</td></tr>
 <tr><td>**méthoxétamine,** 2-(3-méthoxyphényl)-2-(éthylamino cyclohexanone</td><td>7611746964728</td><td>d</td></tr>
-<tr><td>**Méthoxyacétylfentanyl****,** 2-méthoxy-N-phényl-N-[1-(2-phényléthyl)pipéridine-4-yl]acétamide</td><td>7611746943303</td><td>d</td></tr>
+<tr><td>**méthoxyacétylfentanyl****,** 2-méthoxy-N-phényl-N-[1-(2-phényléthyl)pipéridine-4-yl]acétamide</td><td>7611746943303</td><td>d</td></tr>
 <tr><td>**para-méthoxyamphétamine** **v**oir sous paraméthoxyamphétamine (PMA)</td><td>7611746150008</td><td>d</td></tr>
 <tr><td>**5-méthoxy-3,4-méthylènedioxyamphétamine** (MMDA)</td><td>7611746145004</td><td>d</td></tr>
 <tr><td>**2-(2-méthoxyphényl)-1-(1-pentylindol-3-yl)éthanone** voir sous JWH-250</td><td>7611746990895</td><td>d</td></tr>
@@ -1103,8 +1120,8 @@ Annexe 5*[^t-4]*
 <tr><td>**TCP** voir sous ténocyclidine</td><td>7611746154006</td><td>d</td></tr>
 <tr><td>**ténamfétamine** voir sous 3,4-méthylènedioxyamphétamine</td><td>7611746459002</td><td>d</td></tr>
 <tr><td>**ténocyclidine** (TCP)</td><td>7611746154006</td><td>d</td></tr>
-<tr><td>**(-)-trans-delta-9-tétrahydrocannabinol** (dronabinol, [-]trans-Δ<sup>9</sup>-THC)</td><td>7611746155010</td><td>d</td></tr>
-<tr><td>**tétrahydrocannabinol** (THC) tous les isomères et leurs variantes stéréochimiques sauf (-)-trans-Δ<sup>9</sup>-THC</td><td>7611746155003</td><td>d</td></tr>
+<tr><td>**(-)-trans-delta-9-tétrahydrocannabinol** (dronabinol, [-]-trans-Δ<sup>9</sup>-THC) (sous réserve des dispositions applicables au (-)-trans-delta-9-tétrahydrocannabinol destiné à des fins médicales)</td><td>7611746155010</td><td>d</td></tr>
+<tr><td>**tétrahydrocannabinol (THC)** tous les isomères et leurs variantes stéréochimiques à l’exception du (-)-trans-Δ<sup>9</sup>-THC (sous réserve des dispositions applicables au tétrahydrocannabinol (THC) destiné à des fins médicales)</td><td>7611746155003</td><td>d</td></tr>
 <tr><td>**tétrahydrofuranylfentanyl****,** N-(1-phénéthylpipéridin-4-yl)-N-phényltétrahydrofuran-2-carboxamide</td><td>7611746941217</td><td>d</td></tr>
 <tr><td>**TFMPP** voir sous trifluorométhylphénylpipérazine</td><td>7611746991014</td><td>d</td></tr>
 <tr><td>**1-[1-(2-thiényl)-cyclohexyl]-pipéridine** voir sous ténocyclidine</td><td>7611746154006</td><td>d</td></tr>
@@ -1118,7 +1135,7 @@ Annexe 5*[^t-4]*
 <tr><td>**1-(3,4,5-triméthoxyphényl)-2-aminoéthane** voir sous mescaline</td><td>7611746144007</td><td>d</td></tr>
 <tr><td>**U-47700,** 3,4-dichloro-N-(2-diméthylamino-cyclohéxyl)-N-méthyl-benzamide</td><td>7611746958109</td><td>d</td></tr>
 <tr><td>**UR-144****,** (1-pentyl-1H-indol-3-yl)(2,2,3,3-tétraméthylcyclopropyl)méthanone</td><td>7611746941255</td><td>d</td></tr>
-<tr><td>**Valérylfentanyl,** N-phényl-N-[1-(2-phényléthyl)pipéridine-4-yl]pentanamide</td><td>7611746943235</td><td>d</td></tr>
+<tr><td>**valérylfentanyl,** N-phényl-N-[1-(2-phényléthyl)pipéridine-4-yl]pentanamide</td><td>7611746943235</td><td>d</td></tr>
 <tr><td>**XLR-11;** [1-(5-fluoropentyl)-1H-indol-3-yl](2,2,3,3-tétraméthylcyclopropyl)méthanone</td><td>7611746960737</td><td>d</td></tr>
 </table>
 
@@ -1128,7 +1145,7 @@ Annexe 6*[^t-5]*
 
 ## Tableau e: Matières premières et produits ayant un effet présumé semblable à celui des stupéfiants
 
-[^t-5]: Nouvelle teneur selon le ch. I de l’O du DFI du 21 nov. 2011 ([RO 2011 5649](https://fedlex.data.admin.ch/eli/oc/2011/797)). Mise à jour selon le ch. I des O du DFI du 20 nov. 2012 ([RO 2012 6803](https://fedlex.data.admin.ch/eli/oc/2012/823)), du 8 nov. 2013 ([RO 2013 4515](https://fedlex.data.admin.ch/eli/oc/2013/797)), du 3 nov. 2014 ([RO 2014 4381](https://fedlex.data.admin.ch/eli/oc/2014/721)), du 2 nov. 2015 ([RO 2015 5093](https://fedlex.data.admin.ch/eli/oc/2015/834)), du 1<sup>er</sup> nov. 2016 ([RO 2016 4197](https://fedlex.data.admin.ch/eli/oc/2016/705)), ch. I al. 1 de l’O du DFI du 18 août 2017 ([RO 2017 5003](https://fedlex.data.admin.ch/eli/oc/2017/539)), le ch. I des O du DFI du 2 fév. 2018 ([RO 2018 949](https://fedlex.data.admin.ch/eli/oc/2018/132)), du 2 nov. 2018 ([RO 2018 4287](https://fedlex.data.admin.ch/eli/oc/2018/687)), du 18 mars 2019 ([RO 2019 1057](https://fedlex.data.admin.ch/eli/oc/2019/195)), du 24 oct. 2019 ([RO 2019 4089](https://fedlex.data.admin.ch/eli/oc/2019/713)), du 29 mai 2020 ([RO 2020 2603](https://fedlex.data.admin.ch/eli/oc/2020/479)), du 13 nov. 2020 ([RO 2020 5775](https://fedlex.data.admin.ch/eli/oc/2020/972)) et du 8 nov. 2021, en vigueur depuis le 6 déc. 2021 à 10 h 00 ([RO 2021 815](https://fedlex.data.admin.ch/eli/oc/2021/815)).
+[^t-5]: Nouvelle teneur selon le ch. I de l’O du DFI du 21 nov. 2011 ([RO 2011 5649](https://fedlex.data.admin.ch/eli/oc/2011/797)). Mise à jour par le ch. I des O du DFI du 20 nov. 2012 ([RO 2012 6803](https://fedlex.data.admin.ch/eli/oc/2012/823)), du 8 nov. 2013 ([RO 2013 4515](https://fedlex.data.admin.ch/eli/oc/2013/797)), du 3 nov. 2014 ([RO 2014 4381](https://fedlex.data.admin.ch/eli/oc/2014/721)), du 2 nov. 2015 ([RO 2015 5093](https://fedlex.data.admin.ch/eli/oc/2015/834)), du 1<sup>er</sup> nov. 2016 ([RO 2016 4197](https://fedlex.data.admin.ch/eli/oc/2016/705)), ch. I al. 1 de l’O du DFI du 18 août 2017 ([RO 2017 5003](https://fedlex.data.admin.ch/eli/oc/2017/539)), le ch. I des O du DFI du 2 fév. 2018 ([RO 2018 949](https://fedlex.data.admin.ch/eli/oc/2018/132)), du 2 nov. 2018 ([RO 2018 4287](https://fedlex.data.admin.ch/eli/oc/2018/687)), du 18 mars 2019 ([RO 2019 1057](https://fedlex.data.admin.ch/eli/oc/2019/195)), du 24 oct. 2019 ([RO 2019 4089](https://fedlex.data.admin.ch/eli/oc/2019/713)), du 29 mai 2020 ([RO 2020 2603](https://fedlex.data.admin.ch/eli/oc/2020/479)), du 13 nov. 2020 ([RO 2020 5775](https://fedlex.data.admin.ch/eli/oc/2020/972)) et du 8 nov. 2021, en vigueur depuis le 6 déc. 2021 à 10 h 00 ([RO 2021 815](https://fedlex.data.admin.ch/eli/oc/2021/815)).
 
 <table>
 <tr><th>Numéro</th><th>Désignation</th></tr>
@@ -1367,7 +1384,7 @@ Annexe 6*[^t-5]*
 <tr><td>233</td><td>ALD-52 1-Acétyl-acide lysergique diéthylamide 4-Acétyl-N,N-diéthyl-7-méthyl-4,6,6a,7,8,9-hexahydroindolo[4,3-fg]quinolin-9-carboxamide</td></tr>
 <tr><td>234</td><td>…</td></tr>
 <tr><td>235</td><td>…</td></tr>
-<tr><td>236</td><td>Fentanyls Toute substance (à l’exception des substances soumises à contrôle figurant dans les tableaux a, b, d et f), dont la structure est dérivée de la 4-aminopipéridine, ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/363/20211206/fr/xml/image/image1.png) dès lors que: – l’azote du cycle pipéridine est substitué par des groupes arylalkyles ou hétéroalkyles, ces groupes, ainsi que le squelette carboné du cycle pipéridine, pouvant en outre être substitués dans n’importe quelle mesure et n’importe quelle position par des groupes alcoxyle, alcoxycarbonyle, alkyle, aryle, halogène et hydroxyle; que – le groupe amine de la 4-aminopipéridine est substitué par un groupe aryle ou hétéroaryle, ce groupe pouvant en outre être substitué dans n’importe quelle mesure et n’importe quelle position par des groupes alcoxyle, alkyle, halogène et hydroxyle; et que, – le groupe amine de la 4-aminopipéridine est substitué par n’importe quel groupe acyle. L’usage industriel de même que l’usage scientifique sont soustraits au contrôle. L’usage privé n’est pas soustrait au contrôle.</td></tr>
+<tr><td>236</td><td>Fentanyls Toute substance (à l’exception des substances soumises à contrôle figurant dans les tableaux a, b, d et f), dont la structure est dérivée de la 4-aminopipéridine, ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/363/20220801/fr/xml/image/image1.png) dès lors que: – l’azote du cycle pipéridine est substitué par des groupes arylalkyles ou hétéroalkyles, ces groupes, ainsi que le squelette carboné du cycle pipéridine, pouvant en outre être substitués dans n’importe quelle mesure et n’importe quelle position par des groupes alcoxyle, alcoxycarbonyle, alkyle, aryle, halogène et hydroxyle; que – le groupe amine de la 4-aminopipéridine est substitué par un groupe aryle ou hétéroaryle, ce groupe pouvant en outre être substitué dans n’importe quelle mesure et n’importe quelle position par des groupes alcoxyle, alkyle, halogène et hydroxyle; et que, – le groupe amine de la 4-aminopipéridine est substitué par n’importe quel groupe acyle. L’usage industriel de même que l’usage scientifique sont soustraits au contrôle. L’usage privé n’est pas soustrait au contrôle.</td></tr>
 <tr><td>237</td><td>Flunitrazolam 1-méthyl-8-nitro-6-(2-fluorophényl)-4*H*-[1,2,4]triazolo[4,3-a][1,4]benzodiazépine L’usage industriel de même que l’usage scientifique sont soustraits au contrôle. L’usage privé n’est pas soustrait au contrôle.</td></tr>
 <tr><td>238</td><td>Adinazolam 1-(8-chloro-6-phenyl-4*H*-[1,2,4]triazolo[4,3-a][1,4]benzodiazépine-1-yl)-N,N-diméthylméthanamine L’usage industriel de même que l’usage scientifique sont soustraits au contrôle. L’usage privé n’est pas soustrait au contrôle.</td></tr>
 <tr><td>239</td><td>Dichloropane méthyl-3-(3,4-dichlorophényl)-8-méthyl-8-azabicyclo[3.2.1]octan-2-carboxylate</td></tr>
@@ -1394,10 +1411,10 @@ Annexe 6*[^t-5]*
 <tr><td>260</td><td>4'-fluoro-4-méthylaminorex 5-(4-fluorophényl)-4,5-dihydro-4-méthyl-2-oxazolamine 4F-MAR</td></tr>
 <tr><td>261</td><td>Thiothinone 2-(méthylamino)-1-(2-thiophényl)-1-propanone βk-MPA</td></tr>
 <tr><td>262</td><td>MMB-CHMINACA Méthyl-2-[[1-(cyclohexylméthyl)-1H-indazole-3-carbonyl]amino]-3-méthylbutanoate AMB-CHMINACA</td></tr>
-<tr><td>263</td><td>Dérivés de l’acide lysergique Toute substance (autre que la méthylergométrine, le méthysergide, l’amésergide ou qu’une des substances soumises à contrôle figurant dans les tableaux a, b, d et f), dont la structure est dérivée de l’amide de l’acide lysergique (ergine), ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/363/20211206/fr/xml/image/image2.png) dès lors que: – l’azote du cycle à cinq atomes (R1) n’est pas substitué ou est substitué par un quelconque groupe alkyle ou carbonyle, que – l’azote du groupe amide (R2 et R3) n’est pas substitué ou est substitué dans n’importe quelle mesure par des groupes alkyles, alkényles, alcoxy-alkyles ou hydroxyalkyles, et que – l’azote (R6) est substitué par un quelconque groupe alkyle ou alkényle. L’usage industriel de même que l’usage scientifique sont soustraits au contrôle. L’usage privé n’est pas soustrait au contrôle.</td></tr>
-<tr><td>264</td><td>Dérivés du nitazène Toute substance (à l’exception des substances soumises à contrôle figurant dans les tableaux a, b, d et f), dont la structure est dérivée du nitazène, ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/363/20211206/fr/xml/image/image3.png) dès lors que: – le cycle phényl (R1) est substitué d’une quelconque manière et dans n’importe quelle mesure, et que – l’azote du groupe amine (R2 et R3) est substitué dans n’importe quelle mesure par des groupes alkyles. L’usage industriel de même que l’usage scientifique sont soustraits au contrôle. L’usage privé n’est pas soustrait au contrôle.</td></tr>
-<tr><td>265</td><td>Cannabinoïdes de synthèse Toute substance (à l’exception des substances soumises à contrôle figurant dans les tableaux a, b, d et f), dont la structure est dérivée de l’indole, indépendamment de la substitution d’un autre atome de carbone de la structure indole par un atome d’azote, par substitution: ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/363/20211206/fr/xml/image/image4.png) – au niveau de l’atome d’azote (position 1) avec des structures alkyles cycliques, alkényles cycliques, aryles cycliques ou hétérocycliques avec au moins 3 atomes de carbone; et, en outre, – au niveau de la position 3 de l’indole par une structure carbonyle, ester d’acide carboxylique ou amide d’acide carboxylique qui est en outre encore substituée d’une quelconque manière et dans n’importe quelle mesure et peut être condensée à la structure indole. Ces structures peuvent être substituées au niveau des positions 2, 4, 5, 6 et 7 de la structure indole d’une quelconque manière et dans n’importe quelle mesure. L’usage industriel de même que l’usage scientifique sont soustraits au contrôle. L’usage privé n’est pas soustrait au contrôle.</td></tr>
-<tr><td>266</td><td>Tryptamines Toute substance (à l’exception des substances soumises à contrôle figurant dans les tableaux a, b, d et f), dont la structure est dérivée de la tryptamine, par substitution: ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/363/20211206/fr/xml/image/image5.png) – au niveau de l’atome d’azote de la chaîne latérale avec des groupes alkyles ou alkényles dans n’importe quelle mesure, ou par intégration de cet atome d’azote dans une structure cyclique. Ces structures peuvent être substituées de l’une ou de plusieurs des manières suivantes: – au niveau de la position α de la chaîne latérale avec des groupes alkyles ou alkényles; – dans la structure cyclique indole de la tryptamine dans n’importe quelle mesure avec des groupes alkyles, alkoxy, halogènes ou hydroxy. L’usage industriel de même que l’usage scientifique sont soustraits au contrôle. L’usage privé n’est pas soustrait au contrôle.</td></tr>
+<tr><td>263</td><td>Dérivés de l’acide lysergique Toute substance (autre que la méthylergométrine, le méthysergide, l’amésergide ou qu’une des substances soumises à contrôle figurant dans les tableaux a, b, d et f), dont la structure est dérivée de l’amide de l’acide lysergique (ergine), ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/363/20220801/fr/xml/image/image2.png) dès lors que: – l’azote du cycle à cinq atomes (R1) n’est pas substitué ou est substitué par un quelconque groupe alkyle ou carbonyle, que – l’azote du groupe amide (R2 et R3) n’est pas substitué ou est substitué dans n’importe quelle mesure par des groupes alkyles, alkényles, alcoxy-alkyles ou hydroxyalkyles, et que – l’azote (R6) est substitué par un quelconque groupe alkyle ou alkényle. L’usage industriel de même que l’usage scientifique sont soustraits au contrôle. L’usage privé n’est pas soustrait au contrôle.</td></tr>
+<tr><td>264</td><td>Dérivés du nitazène Toute substance (à l’exception des substances soumises à contrôle figurant dans les tableaux a, b, d et f), dont la structure est dérivée du nitazène, ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/363/20220801/fr/xml/image/image3.png) dès lors que: – le cycle phényl (R1) est substitué d’une quelconque manière et dans n’importe quelle mesure, et que – l’azote du groupe amine (R2 et R3) est substitué dans n’importe quelle mesure par des groupes alkyles. L’usage industriel de même que l’usage scientifique sont soustraits au contrôle. L’usage privé n’est pas soustrait au contrôle.</td></tr>
+<tr><td>265</td><td>Cannabinoïdes de synthèse Toute substance (à l’exception des substances soumises à contrôle figurant dans les tableaux a, b, d et f), dont la structure est dérivée de l’indole, indépendamment de la substitution d’un autre atome de carbone de la structure indole par un atome d’azote, par substitution: ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/363/20220801/fr/xml/image/image4.png) – au niveau de l’atome d’azote (position 1) avec des structures alkyles cycliques, alkényles cycliques, aryles cycliques ou hétérocycliques avec au moins 3 atomes de carbone; et, en outre, – au niveau de la position 3 de l’indole par une structure carbonyle, ester d’acide carboxylique ou amide d’acide carboxylique qui est en outre encore substituée d’une quelconque manière et dans n’importe quelle mesure et peut être condensée à la structure indole. Ces structures peuvent être substituées au niveau des positions 2, 4, 5, 6 et 7 de la structure indole d’une quelconque manière et dans n’importe quelle mesure. L’usage industriel de même que l’usage scientifique sont soustraits au contrôle. L’usage privé n’est pas soustrait au contrôle.</td></tr>
+<tr><td>266</td><td>Tryptamines Toute substance (à l’exception des substances soumises à contrôle figurant dans les tableaux a, b, d et f), dont la structure est dérivée de la tryptamine, par substitution: ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/363/20220801/fr/xml/image/image5.png) – au niveau de l’atome d’azote de la chaîne latérale avec des groupes alkyles ou alkényles dans n’importe quelle mesure, ou par intégration de cet atome d’azote dans une structure cyclique. Ces structures peuvent être substituées de l’une ou de plusieurs des manières suivantes: – au niveau de la position α de la chaîne latérale avec des groupes alkyles ou alkényles; – dans la structure cyclique indole de la tryptamine dans n’importe quelle mesure avec des groupes alkyles, alkoxy, halogènes ou hydroxy. L’usage industriel de même que l’usage scientifique sont soustraits au contrôle. L’usage privé n’est pas soustrait au contrôle.</td></tr>
 <tr><td>267</td><td>Pagoclone 2-(7-chloro-1,8-naphthyridin-2-yl)-2,3-dihydro-3-(5-méthyl-2-oxohéxyl)-1H-isoindol-1-one L’usage industriel de même que l’usage scientifique sont soustraits au contrôle. L’usage privé n’est pas soustrait au contrôle.</td></tr>
 <tr><td>268</td><td>FDU-PB-22 1-naphthalènyl-1-[(4-fluorophényl)méthyl]-1H-indole-3-carboxylate</td></tr>
 <tr><td>269</td><td>5-MeO-N,N-DBT 5-méthoxy-N,N-dibutyltryptamine</td></tr>
@@ -1422,7 +1439,7 @@ Annexe 6*[^t-5]*
 <tr><td>288</td><td>3-Me-PCP 3-Méthylphéncyclidine 1-[1-(3-Méthylphényl)cyclohexyl]pipéridine</td></tr>
 <tr><td>289</td><td>Méphédrène N-Méthyl-1-(5-méthylthiophène-2-yl)propane-2-amine 5-Méthylméthiopropamine 5-MMPA</td></tr>
 <tr><td>290</td><td>Méthoxisopropamine 2-Isopropylamino-2-(3-méthoxyphényl)cyclohexane-1-one MXiPr</td></tr>
-<tr><td>291</td><td>Arylcyclohexylamine Toutes les substances (à l’exception des substances soumises à contrôle des tableaux a, b, d et f) dont la structure est dérivée de la phénylcyclohexylamine suite à une substitution d’une ou de plusieurs des manières suivantes: ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/363/20211206/fr/xml/image/image6.png) – au niveau de l'atome d’azote du groupe aminé avec des structures alkyl ou alkényl à n’importe quelle extension, ou avec des structures cycliques ou hétérocycliques incluant l’atome d’azote; – au niveau du cycle cyclohexyl par des groupes alkyl, aryl, arylalkyl, hydroxy, alkoxy ou oxo à n'importe quelle extension; – au niveau de l’aromate avec des groupes halogène, alkoxy, alkyl ou hydroxy à n’importe quelle extension, quel que soit le système aromatique. L’usage industriel de même que l’usage scientifique sont soustraits au contrôle. L'usage privé n'est pas soustrait au contrôle.</td></tr>
+<tr><td>291</td><td>Arylcyclohexylamine Toutes les substances (à l’exception des substances soumises à contrôle des tableaux a, b, d et f) dont la structure est dérivée de la phénylcyclohexylamine suite à une substitution d’une ou de plusieurs des manières suivantes: ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/363/20220801/fr/xml/image/image6.png) – au niveau de l'atome d’azote du groupe aminé avec des structures alkyl ou alkényl à n’importe quelle extension, ou avec des structures cycliques ou hétérocycliques incluant l’atome d’azote; – au niveau du cycle cyclohexyl par des groupes alkyl, aryl, arylalkyl, hydroxy, alkoxy ou oxo à n'importe quelle extension; – au niveau de l’aromate avec des groupes halogène, alkoxy, alkyl ou hydroxy à n’importe quelle extension, quel que soit le système aromatique. L’usage industriel de même que l’usage scientifique sont soustraits au contrôle. L'usage privé n'est pas soustrait au contrôle.</td></tr>
 </table>
 
 [^annex6-lvlu1-1]: [RS 812.121.1](https://fedlex.data.admin.ch/eli/cc/2011/362)
@@ -1433,50 +1450,50 @@ Annexe 7*[^t-6]*
 
 ## Tableau f: précurseurs
 
-[^t-6]: Nouvelle teneur selon le ch. I al. 2 de l’O du DFI du 18 août 2017 ([RO 2017 5003](https://fedlex.data.admin.ch/eli/oc/2017/539)). Mise à jour selon le ch. I des O du DFI du 18 mars 2019 ([RO 2019 1057](https://fedlex.data.admin.ch/eli/oc/2019/195)) et du 29 mai 2020, en vigueur depuis le 1<sup>er</sup> août 2020 ([RO 2020 2603](https://fedlex.data.admin.ch/eli/oc/2020/479)).
+[^t-6]: Nouvelle teneur selon le ch. I al. 2 de l’O du DFI du 18 août 2017 ([RO 2017 5003](https://fedlex.data.admin.ch/eli/oc/2017/539)). Mise à jour par le ch. I des O du DFI du 18 mars 2019 ([RO 2019 1057](https://fedlex.data.admin.ch/eli/oc/2019/195)) et du 29 mai 2020, en vigueur depuis le 1<sup>er</sup> août 2020 ([RO 2020 2603](https://fedlex.data.admin.ch/eli/oc/2020/479)).
 
 <table>
 <tr><th>Numéro</th><th>Désignation</th></tr>
-<tr><td>1</td><td>anhydride acétique à partir de 100kg Sont exemptées de l’obligation de tenir un registre pour le commerce en Suisse et du régime d’autorisation pour l’importation, les entreprises titulaires d’une autorisation d’exploitation permettant d’utiliser des substances soumises à contrôle figurant dans le tableau f.</td></tr>
-<tr><td>2</td><td>acide N-acétylanthranilique</td></tr>
-<tr><td>3</td><td>alpha-phénylacétoacétonitrile (APAAN)</td></tr>
-<tr><td>4</td><td>acide anthranilique</td></tr>
-<tr><td>5</td><td>éphédrine</td></tr>
-<tr><td>6</td><td>ergométrine</td></tr>
-<tr><td>7</td><td>ergotamine</td></tr>
-<tr><td>8</td><td>isosafrole</td></tr>
-<tr><td>9</td><td>permanganate de potassium à partir de 5 kg Sont exemptées de l’obligation de tenir un registre pour le commerce en Suisse et du régime d’autorisation pour l’importation, les entreprises titulaires d’une autorisation d’exploitation permettant d’utiliser des substances soumises à contrôle figurant dans le tableau f.</td></tr>
-<tr><td>10</td><td>acide lysergique</td></tr>
-<tr><td>11</td><td>(3,4-méthylendioxyphényle)-2-propanone (MDP2P)</td></tr>
-<tr><td>12</td><td>noréphédrine</td></tr>
-<tr><td>13</td><td>acide phénylacétique</td></tr>
-<tr><td>14</td><td>phénylpropanolamine (dl-noréphédrine)</td></tr>
-<tr><td>15</td><td>phényl-2-propanone (P2P, BMK)</td></tr>
-<tr><td>16</td><td>pipéridine</td></tr>
-<tr><td>17</td><td>pipéronal</td></tr>
-<tr><td>18</td><td>pseudoéphédrine</td></tr>
-<tr><td>19</td><td>safrole</td></tr>
-<tr><td>20</td><td>sassafras, sous forme d’huile</td></tr>
-<tr><td>21</td><td>N-phénéthyl-4-pipéridone (NPP)</td></tr>
-<tr><td>22</td><td>4-anilino-N-phénéthylpipéridine (4-ANPP)</td></tr>
-<tr><td>23</td><td>3-oxo-2-phénylbutanamide (APAA, alpha-phénylacétoacétamide)</td></tr>
-<tr><td>24</td><td>ester méthylique de l’acide-2-méthyl-3-[3’,4’-(méthylènedioxy)phényl]oxiranecarboxylique</td></tr>
-<tr><td>25</td><td>acide-2-méthyl-3-[3’,4’-(méthylènedioxy)phényl]oxiranecarboxylique</td></tr>
-<tr><td>26</td><td>**Methyl-alpha-phénylacétoacétate (méthyl-alpha-acétylphénylacétate, MAPA, méthyl 3-oxo-2-phénylbutanoate)**</td></tr>
-<tr><td>100</td><td>préparations à base de pseudoéphédrine Ces préparations sont soustraites au contrôle lorsqu’elles renferment un ou plusieurs autres composants (substances actives ou excipients) et que la quantité de pseudoéphédrine, calculée en base, n’excède pas 50 mg de pseudoéphédrine par unité de prise.</td></tr>
-<tr><td>101</td><td>préparations à base d’éphédrine Ces préparations sont soustraites au contrôle lorsqu’elles renferment un ou plusieurs autres composants (substances actives ou excipients) et que la quantité d’éphédrine, calculée en base, n’excède pas 15 mg d’éphédrine par unité de prise ou 10 mg/ml d’éphédrine dans les préparations de forme non divisée.</td></tr>
-<tr><td>102</td><td>chloréphédrine Sont soustraites au contrôle les entreprises titulaires d’une autorisation d’exploitation permettant d’utiliser des substances soumises à contrôle figurant dans le tableau f.</td></tr>
-<tr><td>103</td><td>chloro-pseudoéphédrine Sont soustraites au contrôle les entreprises titulaires d’une autorisation d’exploitation permettant d’utiliser des substances soumises à contrôle figurant dans le tableau f.</td></tr>
+<tr><td>1</td><td>**anhydride acétique à partir de 100kg** Sont exemptées de l’obligation de tenir un registre pour le commerce en Suisse et du régime d’autorisation pour l’importation, les entreprises titulaires d’une autorisation d’exploitation permettant d’utiliser des substances soumises à contrôle figurant dans le tableau f.</td></tr>
+<tr><td>2</td><td>**acide N-acétylanthranilique**</td></tr>
+<tr><td>3</td><td>**alpha-phénylacétoacétonitrile** **(APAAN)**</td></tr>
+<tr><td>4</td><td>**acide anthranilique**</td></tr>
+<tr><td>5</td><td>**éphédrine**</td></tr>
+<tr><td>6</td><td>**ergométrine**</td></tr>
+<tr><td>7</td><td>**ergotamine**</td></tr>
+<tr><td>8</td><td>**isosafrole**</td></tr>
+<tr><td>9</td><td>**permanganate de potassium à partir de 5 kg** Sont exemptées de l’obligation de tenir un registre pour le commerce en Suisse et du régime d’autorisation pour l’importation, les entreprises titulaires d’une autorisation d’exploitation permettant d’utiliser des substances soumises à contrôle figurant dans le tableau f.</td></tr>
+<tr><td>10</td><td>**acide lysergique**</td></tr>
+<tr><td>11</td><td>**(3,4-méthylendioxyphényle)-2-propanone** **(MDP2P)**</td></tr>
+<tr><td>12</td><td>**noréphédrine**</td></tr>
+<tr><td>13</td><td>**acide phénylacétique**</td></tr>
+<tr><td>14</td><td>**phénylpropanolamine (dl-noréphédrine)**</td></tr>
+<tr><td>15</td><td>**phényl-2-propanone** **(P2P, BMK)**</td></tr>
+<tr><td>16</td><td>**pipéridine**</td></tr>
+<tr><td>17</td><td>**pipéronal**</td></tr>
+<tr><td>18</td><td>**pseudoéphédrine**</td></tr>
+<tr><td>19</td><td>**safrole**</td></tr>
+<tr><td>20</td><td>**sassafras, sous forme d****’****huile**</td></tr>
+<tr><td>21</td><td>**N-phénéthyl-4-pipéridone (NPP)**</td></tr>
+<tr><td>22</td><td>**4-anilino-N-phénéthylpipéridine (4-ANPP)**</td></tr>
+<tr><td>23</td><td>**3-oxo-2-phénylbutanamide** **(APAA, alpha-phénylacétoacétamide)**</td></tr>
+<tr><td>24</td><td>**ester méthylique de l’acide-2-méthyl-3-[3’,4’-(méthylènedioxy)phényl]oxiranecarboxylique**</td></tr>
+<tr><td>25</td><td>**acide-2-méthyl-3-[3’,4’-(méthylènedioxy)phényl]oxiranecarboxylique**</td></tr>
+<tr><td>26</td><td>**methyl-alpha-phénylacétoacétate (méthyl-alpha-acétylphénylacétate, MAPA, méthyl 3-oxo-2-phénylbutanoate)**</td></tr>
+<tr><td>100</td><td>**préparations à base de pseudoéphédrine** Ces préparations sont soustraites au contrôle lorsqu’elles renferment un ou plusieurs autres composants (substances actives ou excipients) et que la quantité de pseudoéphédrine, calculée en base, n’excède pas 50 mg de pseudoéphédrine par unité de prise.</td></tr>
+<tr><td>101</td><td>**préparations à base d****’****éphédrine** Ces préparations sont soustraites au contrôle lorsqu’elles renferment un ou plusieurs autres composants (substances actives ou excipients) et que la quantité d’éphédrine, calculée en base, n’excède pas 15 mg d’éphédrine par unité de prise ou 10 mg/ml d’éphédrine dans les préparations de forme non divisée.</td></tr>
+<tr><td>102</td><td>**chloréphédrine** Sont soustraites au contrôle les entreprises titulaires d’une autorisation d’exploitation permettant d’utiliser des substances soumises à contrôle figurant dans le tableau f.</td></tr>
+<tr><td>103</td><td>**chloro-pseudoéphédrine** Sont soustraites au contrôle les entreprises titulaires d’une autorisation d’exploitation permettant d’utiliser des substances soumises à contrôle figurant dans le tableau f.</td></tr>
 <tr><td>104</td><td>…</td></tr>
-<tr><td>105</td><td>acide phényl-2-hydroxypropane sulfonique Sont soustraites au contrôle les entreprises titulaires d’une autorisation d’exploitation permettant d’utiliser des substances soumises à contrôle figurant dans le tableau f.</td></tr>
-<tr><td>106</td><td>ester d’acide phénylacétique à partir de 100g Sont soustraites au contrôle les entreprises titulaires d’une autorisation d’exploitation permettant d’utiliser des substances soumises à contrôle figurant dans le tableau f.</td></tr>
-<tr><td>107</td><td>acide-2-méthyl-3-phényloxiranecarboxylique ainsi que ses esters à partir de 100g Sont soustraites au contrôle les entreprises titulaires d’une autorisation d’exploitation permettant d’utiliser des substances soumises à contrôle figurant dans le tableau f.</td></tr>
-<tr><td>108</td><td>acide-3-méthyl-3-phényloxiranecarboxylique ainsi que ses esters à partir de 100g</td></tr>
+<tr><td>105</td><td>**acide phényl-2-hydroxypropane sulfonique** Sont soustraites au contrôle les entreprises titulaires d’une autorisation d’exploitation permettant d’utiliser des substances soumises à contrôle figurant dans le tableau f.</td></tr>
+<tr><td>106</td><td>**ester d’acide phénylacétique à partir de 100g** Sont soustraites au contrôle les entreprises titulaires d’une autorisation d’exploitation permettant d’utiliser des substances soumises à contrôle figurant dans le tableau f.</td></tr>
+<tr><td>107</td><td>**acide-2-méthyl-3-phényloxiranecarboxylique ainsi que ses esters à partir de 100g** Sont soustraites au contrôle les entreprises titulaires d’une autorisation d’exploitation permettant d’utiliser des substances soumises à contrôle figurant dans le tableau f.</td></tr>
+<tr><td>108</td><td>**acide-3-méthyl-3-phényloxiranecarboxylique ainsi que ses esters à partir de 100g**</td></tr>
 <tr><td></td><td>Sont soustraites au contrôle les entreprises titulaires d’une autorisation d’exploitation permettant d’utiliser des substances soumises à contrôle figurant dans le tableau f.</td></tr>
-<tr><td>109</td><td>ester de l’acide-2-méthyl-3-[3’,4’-(méthylènedioxy)phényl]oxiranecarboxylique à partir de 100g Sont soustraites au contrôle les entreprises titulaires d’une autorisation d’exploitation permettant d’utiliser des substances soumises à contrôle figurant dans le tableau f.</td></tr>
-<tr><td>110</td><td>acide N-alkyle-N-[3’,4’-(méthylènedioxy)phényl]propan-2-yle carbamique à partir de 100g Sont soustraites au contrôle les entreprises titulaires d’une autorisation d’exploitation permettant d’utiliser des substances soumises à contrôle figurant dans le tableau f.</td></tr>
-<tr><td>111</td><td>acide N-[3’,4’-(méthylènedioxy)phényl]propan-2-yle carbamique à partir de 100g Sont soustraites au contrôle les entreprises titulaires d’une autorisation d’exploitation permettant d’utiliser des substances soumises à contrôle figurant dans le tableau f.</td></tr>
-<tr><td>112</td><td>Olivétol (5-pentylbenzène-1,3-diol) Sont soustraites au contrôle les entreprises titulaires d’une autorisation d’exploitation permettant d’utiliser des substances soumises à contrôle figurant dans le tableau f.</td></tr>
+<tr><td>109</td><td>**ester de l’acide-2-méthyl-3-[3’,4’-(méthylènedioxy)phényl]oxiranecarboxylique à partir de 100g** Sont soustraites au contrôle les entreprises titulaires d’une autorisation d’exploitation permettant d’utiliser des substances soumises à contrôle figurant dans le tableau f.</td></tr>
+<tr><td>110</td><td>**acide N-alkyle-N-[3’,4’-(méthylènedioxy)phényl]propan-2-yle carbamique** **à partir de 100g** Sont soustraites au contrôle les entreprises titulaires d’une autorisation d’exploitation permettant d’utiliser des substances soumises à contrôle figurant dans le tableau f.</td></tr>
+<tr><td>111</td><td>**acide N-[3’,4’-(méthylènedioxy)phényl]propan-2-yle carbamique** **à partir de 100g** Sont soustraites au contrôle les entreprises titulaires d’une autorisation d’exploitation permettant d’utiliser des substances soumises à contrôle figurant dans le tableau f.</td></tr>
+<tr><td>112</td><td>**olivétol (5-pentylbenzène-1,3-diol)** Sont soustraites au contrôle les entreprises titulaires d’une autorisation d’exploitation permettant d’utiliser des substances soumises à contrôle figurant dans le tableau f.</td></tr>
 <tr><td>v</td><td></td></tr>
 </table>
 
@@ -1486,7 +1503,7 @@ Annexe 8*[^t-7]*
 
 ## Tableau g: Adjuvants chimiques
 
-[^t-7]: Mise à jour selon le ch. I al. 1 de l’O du DFI du 18 août 2017, en vigueur depuis le 1<sup>er</sup> oct. 2017 ([RO 2017 5003](https://fedlex.data.admin.ch/eli/oc/2017/539)).
+[^t-7]: Mise à jour par le ch. I al. 1 de l’O du DFI du 18 août 2017, en vigueur depuis le 1<sup>er</sup> oct. 2017 ([RO 2017 5003](https://fedlex.data.admin.ch/eli/oc/2017/539)).
 
 Les pays cibles[^annex8-lvlu1-1] sont tous les pays.
 
