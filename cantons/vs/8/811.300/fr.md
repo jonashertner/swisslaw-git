@@ -3,20 +3,20 @@ canton: VS
 number: "811.300"
 title: Ordonnance sur la mise à disposition des places de stage et d’apprentissage pour les professions non universitaires de la santé
 language: fr
-version: 2021-08-01
-valid_until: 2022-07-31
+version: 2022-08-01
+valid_until: 2025-12-31
 version_adopted: 2021-06-16
 adopted: 2021-06-16
 in_force: 2021-08-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/811.300"
-pdf: "https://lex.vs.ch/api/fr/versions/2926/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/2927/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Ordonnance sur la mise à disposition des places de stage et d’apprentissage pour les professions non universitaires de la santé
 
-du 16.06.2021 (état 01.08.2021)
+du 16.06.2021 (état 01.08.2022)
 
 Le Conseil d’Etat du canton du Valais
 
@@ -113,6 +113,12 @@ ordonne:
 <sup>2</sup> L’OrTra Santé Social Valais fixe les rémunérations des apprentis ASSC, ASE et ASA. Le financement est assuré par les institutions accueillant des apprentis.
 
 <sup>3</sup> Le Service de la santé publique formule des recommandations sur l’indemnisation des étudiants pour les formations de technicien ambulancier et d’ambulancier ES. Le financement est assuré par les institutions accueillant des stagiaires.
+
+#### Art. 9
+
+**Indemnisation des étudiants pour la formation d'infirmier-ère diplôme ES**
+
+<sup>1</sup> Le Service des hautes écoles formule des recommandations concernant l’indemnisation des étudiants pour les formation d'infirmier-ère diplômé-e ES, en collaboration avec les institutions concernées. Le financement est assuré par les institutions accueillant des stagiaires.
 
 #### Art. 10
 

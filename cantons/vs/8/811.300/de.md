@@ -3,20 +3,20 @@ canton: VS
 number: "811.300"
 title: Verordnung über die Bereitstellung von Praktikums- und Ausbildungsplätzen für nichtuniversitäre Gesundheitsberufe
 language: de
-version: 2021-08-01
-valid_until: 2022-07-31
+version: 2022-08-01
+valid_until: 2025-12-31
 version_adopted: 2021-06-16
 adopted: 2021-06-16
 in_force: 2021-08-01
 url: "https://lex.vs.ch/app/de/texts_of_law/811.300"
-pdf: "https://lex.vs.ch/api/de/versions/2926/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/2927/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Bereitstellung von Praktikums- und Ausbildungsplätzen für nichtuniversitäre Gesundheitsberufe
 
-vom 16.06.2021 (Stand 01.08.2021)
+vom 16.06.2021 (Stand 01.08.2022)
 
 Der Staatsrat des Kantons Wallis
 
@@ -113,6 +113,12 @@ verordnet:
 <sup>2</sup> OdA Gesundheit und Soziales Wallis legt die Entschädigung für Lernende FaGe, FaBe und AGS fest. Die Finanzierung erfolgt durch die Institutionen, welche die Lernenden betreuen.
 
 <sup>3</sup> Die Dienststelle für Gesundheitswesen gibt für die Entschädigung von Studierenden der Bildungsgänge Transportsanitäter/in und Rettungssanitäter/in HF Empfehlungen ab. Die Finanzierung erfolgt durch die Institutionen, welche die Praktikanten betreuen.
+
+#### Art. 9
+
+**Entschädigung für Studierende der Ausbildung Pflege HF**
+
+<sup>1</sup> Die Dienststelle für Hochschulwesen gibt in Zusammenarbeit mit den betroffenen Institutionen Empfehlungen zur Entschädigungen der Studierenden der Ausbildung Pflege HF ab. Die Finanzierung erfolgt durch die Institutionen, welche die Studierenden betreuen.
 
 #### Art. 10
 
