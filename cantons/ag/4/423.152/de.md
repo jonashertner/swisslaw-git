@@ -4,13 +4,13 @@ number: "423.152"
 title: Verordnung über die Promotion und die Maturität an den Mittelschulen
 short: Maturitätsverordnung
 language: de
-version: 2019-08-01
-valid_until: 2022-07-31
-version_adopted: 2019-05-15
+version: 2022-08-01
+valid_until: 2023-07-31
+version_adopted: 2022-05-04
 adopted: 1999-06-23
 in_force: 1999-08-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/423.152"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2733/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3211/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2733/pdf_file"
 
 (Maturitätsverordnung)
 
-Vom 23.06.1999 (Stand 01.08.2019)
+Vom 23.06.1999 (Stand 01.08.2022)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -73,7 +73,7 @@ beschliesst:
 
 <sup>2</sup> Promotionsentscheide sind die definitive Aufnahme nach der Probezeit, die Beförderung, die Nichtbeförderung und die Entlassung aus der Schule. Sie basieren auf den Beurteilungen gemäss § 2.
 
-<sup>3</sup> Promotionsentscheide werden am Ende der Probezeit und am Ende des 1., 2. und 3. Schuljahrs sowie im Lehrgang für Spitzensportlerinnen oder Spitzensportler am Ende des 4. Schuljahrs getroffen. Beurteilungsperiode ist die Probezeit beziehungsweise das jeweils vorausgegangene Schuljahr.
+<sup>3</sup> Promotionsentscheide werden am Ende der Probezeit und am Ende des 1., 2. und 3. Schuljahrs sowie im Lehrgang für Leistungssportlerinnen und -sportler am Ende des 4. Schuljahrs getroffen. Beurteilungsperiode ist die Probezeit beziehungsweise das jeweils vorausgegangene Schuljahr.
 
 #### § 5
 
@@ -96,17 +96,17 @@ beschliesst:
 
 #### § 5a
 
-**Promotionsfächer im Lehrgang für Spitzensportlerinnen beziehungsweise Spitzensportler**
+**Promotionsfächer im Lehrgang für Leistungssportlerinnen und -sportler**
 
 <sup>1</sup> Promotionsfächer bis Ende der 2. Klasse sind:
 
-- a) die Grundlagenfächer Deutsch, Französisch, Englisch, Mathematik, Bildnerisches Gestalten, Chemie (nur in der 2. Klasse), Biologie, Geografie, die obligatorischen Fächer Einführung in Wirtschaft und Recht (nur in der 1. Klasse) sowie Informatik, und
+- a) die Grundlagenfächer Deutsch, Französisch, Englisch, Mathematik, Bildnerisches Gestalten, Chemie, Biologie (nur in der 2. Klasse), Geografie (nur in der 2. Klasse) sowie das obligatorische Fach Einführung in Wirtschaft und Recht (nur in der 1. Klasse), und
 - b) das Akzentfach.
 
 <sup>2</sup> Promotionsfächer in der 3. Klasse sind:
 
-- a) die Grundlagenfächer Deutsch, Französisch, Englisch, Mathematik, Bildnerisches Gestalten, Chemie, Biologie, Physik, Geschichte, und
-- b) das Akzentfach.
+- a) die Grundlagenfächer Deutsch, Französisch, Englisch, Mathematik, Biologie, Physik, Geschichte, Geografie und das obligatorische Fach Informatik.
+- b) …
 
 <sup>3</sup> Promotionsfächer in der 4. Klasse sind:
 
@@ -121,7 +121,7 @@ beschliesst:
 <sup>1</sup> Schülerinnen und Schüler werden nach der Probezeit definitiv aufgenommen beziehungsweise am Ende des Schuljahrs in die nächsthöhere Klasse befördert, wenn in den Promotionsfächern
 
 - a) die doppelte Summe aller Notenabweichungen von 4 nach unten nicht grösser ist als die Summe aller Notenabweichungen von 4 nach oben und
-- b) nicht mehr als 4 Noten unter 4 erzielt wurden.
+- b) nicht mehr als 4 Noten beziehungsweise im Falle der Schülerinnen und Schüler im Lehrgang für Leistungssportlerinnen und -sportler nicht mehr als 3 Noten unter 4 erzielt wurden.
 
 <sup>2</sup> Liegen wichtige Gründe vor, können Schülerinnen und Schüler, welche die Voraussetzungen von Absatz 1 nicht erfüllen, definitiv aufgenommen beziehungsweise befördert werden, wenn ihnen für das Erreichen der Lernziele der entsprechenden Klasse eine günstige Prognose gestellt werden kann.
 
@@ -143,7 +143,7 @@ beschliesst:
 
 **Zeugnis**
 
-<sup>1</sup> Zeugnisse werden an den Promotionsterminen und am Ende des 4. beziehungsweise des 5. Schuljahrs (Lehrgang für Spitzensportlerinnen beziehungsweise Spitzensportler) ausgestellt.
+<sup>1</sup> Zeugnisse werden an den Promotionsterminen und am Ende des 4. beziehungsweise des 5. Schuljahrs (Lehrgang für Leistungssportlerinnen und -sportler) ausgestellt.
 
 <sup>2</sup> Das Zeugnis enthält die Noten sämtlicher Fächer, an den Promotionsterminen den Promotionsentscheid und in den Fällen von § 6 Abs. 2 eine zusätzliche Begründung.
 
@@ -319,7 +319,7 @@ beschliesst:
 
 <sup>2</sup> In den prüfungsfreien Fächern entspricht die Maturitätsnote der Zeugnisnote in der letzten Klasse, in der das betreffende Fach unterrichtet wird.
 
-<sup>3</sup> Im Grundlagenfach Geografie ist das Mittel der Noten der letzten zwei Klassen, in denen das Fach unterrichtet wird, massgebend. Bei Schülerinnen und Schülern, welche die 2. Klasse nicht an der Stammschule besucht haben, ist die Note der 3. Klasse massgebend. Bei Schülerinnen und Schülern, die den Lehrgang für Spitzensportlerinnen beziehungsweise Spitzensportler absolvieren, entspricht die Maturitätsnote der Zeugnisnote der letzten Klasse, in der das Fach unterrichtet wird.
+<sup>3</sup> Im Grundlagenfach Geografie ist das Mittel der Noten der letzten zwei Klassen, in denen das Fach unterrichtet wird, massgebend. Bei Schülerinnen und Schülern, welche die 2. Klasse nicht an der Stammschule besucht haben, ist die Note der 3. Klasse massgebend. Bei Schülerinnen und Schülern, die den Lehrgang für Leistungssportlerinnen und -sportler absolvieren, entspricht die Maturitätsnote der Zeugnisnote der letzten Klasse, in der das Fach unterrichtet wird.
 
 <sup>4</sup> Die Bewertung der Maturaarbeit erfolgt aufgrund des Arbeitsprozesses, der schriftlichen oder schriftlich kommentierten Arbeit und ihrer Präsentation.
 
@@ -348,7 +348,7 @@ beschliesst:
 
 **Wiederholung bei Nichtbestehen, Dispensation**
 
-<sup>1</sup> Schülerinnen und Schüler, welche die Maturität im ersten Versuch nicht bestehen, müssen bei einem zweiten Versuch das letzte Schuljahr und die Maturitätsprüfung wiederholen. Schülerinnen und Schüler des Lehrgangs für Spitzensportlerinnen beziehungsweise Spitzensportler absolvieren das Repetitionsjahr in einer 4. Regelklasse.
+<sup>1</sup> Schülerinnen und Schüler, welche die Maturität im ersten Versuch nicht bestehen, müssen bei einem zweiten Versuch das letzte Schuljahr und die Maturitätsprüfung wiederholen. Schülerinnen und Schüler des Lehrgangs für Leistungssportlerinnen und -sportler absolvieren das Repetitionsjahr in einer 4. Regelklasse.
 
 <sup>2</sup> Sie können sich vom Unterrichtsbesuch und der Prüfung in denjenigen Maturitätsfächern und Fachbereichen dispensieren lassen, in welchen sie beim ersten Versuch mindestens die Note 5 erzielt haben. Diese Noten zählen auch beim zweiten Versuch.
 
@@ -377,7 +377,7 @@ beschliesst:
 <sup>3</sup> Zusätzlich werden im Maturitätsausweis folgende Noten aufgeführt:
 
 - a) …
-- b) die Note im obligatorischen Fach Sport (ausser bei Schülerinnen und Schülern, die den Lehrgang für Spitzensportlerinnen beziehungsweise Spitzensportler absolviert haben);
+- b) die Note im obligatorischen Fach Sport (ausser bei Schülerinnen und Schülern, die den Lehrgang für Leistungssportlerinnen und -sportler absolviert haben);
 - c) die Note im obligatorischen Fach Englisch, sofern dieses nicht Maturitätsfach ist;
 - d) die Noten in den Freifächern Französisch, Italienisch und Griechisch, sofern sie bis zur Maturität besucht wurden.
 
@@ -422,9 +422,11 @@ beschliesst:
 
 <sup>7</sup> …
 
-<sup>8</sup> Bei Schülerinnen und Schülern, die ihre Maturitätsprüfung in den Jahren 2014 bis und mit 2016 beziehungsweise im Lehrgang für Spitzensportlerinnen und Spitzensportler bis und mit 2017 ablegen, richtet sich die Bildung der Maturitätsnote in den Grundlagenfächern Chemie und Geografie nach bisherigem Recht.
+<sup>8</sup> …
 
-<sup>9</sup> Für Schülerinnen und Schüler, die ihre Ausbildung vor dem Schuljahr 2016/17 begonnen haben, gelten die Bestimmungen des bisherigen Rechts. Für Repetentinnen und Repetenten, die im Schuljahr 2017/18 die 2. Klasse wiederholen, ist die Note im Fach Informatik nicht promotionswirksam.
+<sup>9</sup> …
+
+<sup>10</sup> Für Schülerinnen und Schüler, die den Lehrgang für Spitzensportlerinnen und -sportler vor dem Schuljahr 2022/23 begonnen haben, gelten die Bestimmungen des bisherigen Rechts. Im Falle der Repetition gelten für Schülerinnen und Schüler, die den Lehrgang im Schuljahr 2021/22 begonnen haben, die Bestimmungen des neuen Rechts. Falls während oder nach der Repetition keine Zeugnisnoten erlangt werden, aus denen Maturitätsnoten gemäss § 23 gebildet werden können, sind die Zeugnisnoten des letzten Schuljahrs massgebend, in dem die betroffenen Fächer vor der Repetition belegt wurden.
 
 #### § 32
 
