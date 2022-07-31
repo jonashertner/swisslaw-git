@@ -4,13 +4,12 @@ number: "74"
 title: Besoldungsordnung für die Lehrpersonen und die Fachpersonen der schulischen Dienste
 short: BOL
 language: de
-version: 2020-08-01
-valid_until: 2022-07-31
-version_adopted: 2019-02-18
+version: 2022-08-01
+version_adopted: 2022-05-16
 adopted: 2005-05-02
 in_force: 2006-08-01
 url: "https://srl.lu.ch/app/de/texts_of_law/74"
-pdf: "https://srl.lu.ch/api/de/versions/3606/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3946/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3606/pdf_file"
 
 (BOL)
 
-vom 02.05.2005 (Stand 01.08.2020)
+vom 02.05.2005 (Stand 01.08.2022)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -87,7 +86,7 @@ beschliesst:
 
 **Funktionsgruppen**
 
-<sup>1</sup> Die Lohnklassen, die Funktionen und Schulstufen und die Funktionsgruppen werden einander unter Vorbehalt von Absatz 2 wie folgt zugeordnet:
+<sup>1</sup> Die Lohnklassen, die Funktionen und Schulstufen und die Funktionsgruppen werden einander unter Vorbehalt der Absätze 2 und 3 wie folgt zugeordnet:
 
 <table>
 <tr><th>Funktionsgruppe</th><th>Funktionen und Schulstufen</th><th>Lohnklassen</th></tr>
@@ -99,6 +98,8 @@ beschliesst:
 </table>
 
 <sup>2</sup> An der Universität sind der Rektor oder die Rektorin, die Dekaninnen und Dekane, die Professorinnen und Professoren und die weiteren Dozierenden den Lohnklassen 26–35 zugeordnet. Der Regierungsrat regelt auf Antrag des Universitätsrates das Nähere.
+
+<sup>3</sup> An der Pädagogischen Hochschule Luzern sind der Rektor oder die Rektorin, die Prorektorinnen oder Prorektoren, die Dozierenden mit und ohne Führungsaufgaben, die Lehrpersonen im Hochschuldienst sowie die Instrumentallehrpersonen den Lohnklassen 22–35 zugeordnet. Der Regierungsrat regelt auf Antrag des Rates der Pädagogischen Hochschule Luzern das Nähere.
 
 #### § 3
 
