@@ -4,13 +4,12 @@ number: "213.12"
 title: Verordnung über den Volksschulunterricht
 short: VVU
 language: de
-version: 2021-08-01
-valid_until: 2022-07-31
+version: 2022-08-01
 version_adopted: 2022-03-29
 adopted: 1996-06-11
 in_force: 1996-08-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/213.12"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3337/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3338/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3337/pdf_file"
 
 (VVU)
 
-vom 11.06.1996 (Stand 01.08.2021)
+vom 11.06.1996 (Stand 01.08.2022)
 
 Landammann und Regierung des Kantons St.Gallen
 
@@ -164,7 +163,10 @@ als Verordnung:[^ingress-2]
 
 <sup>2</sup> Das Bildungsdepartement kann ausnahmsweise eine Schule ausserhalb der Vereinbarung anerkennen.
 
-<sup>3</sup> Das Schulgeld je Schüler beträgt jährlich Fr. 15'000.–.
+<sup>3</sup> Das Schulgeld je Schüler beträgt jährlich:
+
+- a) für Talentschulen, deren Talente in Regelklassen integriert sind, Fr. 15'000.–;
+- b) für Talentschulen mit reinen Talentklassen Fr. 19'000.–.
 
 [^11ter-1]: sGS [211.83](https://www.gesetzessammlung.sg.ch/data/211.83/de).
 
