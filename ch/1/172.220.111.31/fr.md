@@ -4,11 +4,11 @@ title: "Ordonnance du DFF du 6 décembre 2001 concernant l'ordonnance sur le per
 short: O-OPers
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/485"
 language: fr
-version: 2022-01-01
+version: 2022-08-01
 adopted: 2001-12-06
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/485/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2001-485-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/485/20220801/fr/xml/fedlex-data-admin-ch-eli-cc-2001-485-20220801-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20220801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20220101/fr"
 
 (O-OPers)
 
-du 6 décembre 2001 (Etat le 1<sup>er</sup> janvier 2022)
+du 6 décembre 2001 (Etat le 1<sup>er</sup> août 2022)
 
 Le Département fédéral des finances (DFF),*[^ingress-1]*
 
@@ -49,6 +49,29 @@ arrête:
 [^1-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 26 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4401](https://fedlex.data.admin.ch/eli/oc/2013/781)).
 [^1-2]: Abrogé par le ch. I de l’O du DFF du 31 mai 2013, avec effet au 1<sup>er</sup> juil. 2013 ([RO 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
 [^1-3]: Introduit par le ch. I de l’O du DFF du 26 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4401](https://fedlex.data.admin.ch/eli/oc/2013/781)).
+
+#### Art. 1a
+
+**Réalisation de projets pilotes**[^1a-1]
+
+### (art. 18*a* OPers)
+
+<sup>1</sup>
+
+Si un département souhaite réaliser un projet pilote, il établit à l’intention de l’Office fédéral du personnel (OFPER) un programme qui comprend les indications suivantes:
+
+- a. description succincte du projet pilote;
+- b. indications sur le but et l’utilité du projet pilote;
+- c. participants;
+- d. calendrier relatif à la mise en œuvre.
+
+<sup>2</sup> L’OFPER consulte la Conférence des ressources humaines visée à l’art. 20 OPers et informe le comité de suivi des partenaires sociaux avant d’adresser au DFF sa proposition de réalisation de projets pilotes.
+
+<sup>3</sup> Le département évalue le projet pilote et résume ses conclusions dans un rapport à l’intention de l’OFPER. Le rapport doit être présenté au plus tard trois mois après la clôture du projet.
+
+<sup>4</sup> L’OFPER coordonne les projets pilotes en cours, informe le comité de suivi des partenaires sociaux et discute des résultats des projets pilotes avec la Conférence des ressources humaines.
+
+[^1a-1]: Introduit par le ch. I de l’O du DFF du 29 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 405](https://fedlex.data.admin.ch/eli/oc/2022/405)).
 
 ## Chapitre 2 Entretien avec le collaborateur et évaluation personnelle
 

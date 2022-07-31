@@ -4,11 +4,11 @@ title: "Ordinanza del DFF del 6 dicembre 2001 concernente l'ordinanza sul person
 short: O-OPers
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/485"
 language: it
-version: 2022-01-01
+version: 2022-08-01
 adopted: 2001-12-06
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/485/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2001-485-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/485/20220801/it/xml/fedlex-data-admin-ch-eli-cc-2001-485-20220801-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20220801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20220101/it"
 
 (O-OPers)
 
-del 6 dicembre 2001 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 6 dicembre 2001 (Stato 1° agosto 2022)
 
 Il Dipartimento federale delle finanze (DFF),*[^ingress-1]*
 
@@ -49,6 +49,29 @@ ordina:
 [^1-1]: Nuovo testo giusta il n. I dell’O del DFF del 26 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4401](https://fedlex.data.admin.ch/eli/oc/2013/781)).
 [^1-2]: Abrogato dal n. I dell’O del DFF del 31 mag. 2013, con effetto dal 1° lug. 2013 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
 [^1-3]: Introdotto dal n. I dell’O del DFF del 26 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4401](https://fedlex.data.admin.ch/eli/oc/2013/781)).
+
+#### Art. 1a
+
+**Esecuzione di progetti pilota**[^1a-1]
+
+### (art. 18*a* OPers)
+
+<sup>1</sup>
+
+Il Dipartimento che intende eseguire un progetto pilota redige all’attenzione dell’Ufficio federale del personale (UFPER) un piano contenente le seguenti indicazioni:
+
+- a. breve descrizione del progetto pilota;
+- b. indicazioni sullo scopo e sull’utilità del progetto pilota;
+- c. cerchia di partecipanti;
+- d. calendario per l’attuazione.
+
+<sup>2</sup> Prima di sottoporre al DFF la domanda di esecuzione di progetti pilota, l’UFPER consulta la Conferenza delle risorse umane di cui all’articolo 20 OPers e informa il comitato di seguito delle parti sociali.
+
+<sup>3</sup> Il Dipartimento valuta il progetto pilota e riassume le conclusioni in un rapporto all’attenzione dell’UFPER. Il rapporto deve essere presentato al più tardi tre mesi dopo la conclusione del progetto pilota.
+
+<sup>4</sup> L’UFPER coordina i progetti pilota in corso, informa il comitato di seguito delle parti sociali e discute i risultati dei progetti con la Conferenza delle risorse umane.
+
+[^1a-1]: Introdotto dal n. I dell’O del DFF del 29 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 405](https://fedlex.data.admin.ch/eli/oc/2022/405)).
 
 ## Capitolo 2: Colloquio con il collaboratore e valutazione del personale
 

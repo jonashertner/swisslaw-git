@@ -4,11 +4,11 @@ title: Verordnung des EFD vom 6. Dezember 2001 zur Bundespersonalverordnung (VBP
 short: VBPV
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/485"
 language: de
-version: 2022-01-01
+version: 2022-08-01
 adopted: 2001-12-06
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/485/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2001-485-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/485/20220801/de/xml/fedlex-data-admin-ch-eli-cc-2001-485-20220801-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20220801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20220101/de"
 
 (VBPV)
 
-vom 6. Dezember 2001 (Stand am 1. Januar 2022)
+vom 6. Dezember 2001 (Stand am 1. August 2022)
 
 Das Eidgenössische Finanzdepartement (EFD),*[^ingress-1]*
 
@@ -49,6 +49,29 @@ verordnet:
 [^1-1]: Fassung gemäss Ziff. I der V des EFD vom 26. Nov. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4401](https://fedlex.data.admin.ch/eli/oc/2013/781)).
 [^1-2]: Aufgehoben durch Ziff. I der V des EFD vom 31. Mai 2013, mit Wirkung seit 1. Juli 2013 ([AS 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
 [^1-3]: Eingefügt durch Ziff. I der V des EFD vom 26. Nov. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4401](https://fedlex.data.admin.ch/eli/oc/2013/781)).
+
+#### Art. 1a
+
+**Durchführung von Pilotversuchen**[^1a-1]
+
+### (Art. 18*a* BPV)
+
+<sup>1</sup>
+
+Will ein Departement einen Pilotversuch durchführen, so erstellt es zuhanden des Eidgenössischen Personalamts (EPA) ein Konzept mit folgenden Angaben:
+
+- a. Kurzbeschreibung des Pilotversuchs;
+- b. Angaben zum Ziel und zum Nutzen des Pilotversuchs;
+- c. Teilnehmerkreis;
+- d. Zeitplan für die Umsetzung.
+
+<sup>2</sup> Das EPA konsultiert vor seinem Antrag an das EFD zur Durchführung von Pilotversuchen die Human-Resources-Konferenz nach Artikel 20 BPV und informiert den Begleitausschuss der Sozialpartner.
+
+<sup>3</sup> Das Departement evaluiert den Pilotversuch und fasst die Erkenntnisse in einem Bericht zuhanden des EPA zusammen. Der Bericht muss spätestens drei Monate nach Abschluss des Pilotversuchs vorliegen.
+
+<sup>4</sup> Das EPA koordiniert die laufenden Pilotversuche, informiert den Begleitausschuss der Sozialpartner und diskutiert die Ergebnisse der Pilotversuche mit der Human- Resources-Konferenz.
+
+[^1a-1]: Eingefügt durch Ziff. I der V des EFD vom 29. Juni 2022, in Kraft seit 1. Aug. 2022 ([AS 2022 405](https://fedlex.data.admin.ch/eli/oc/2022/405)).
 
 ## 2. Kapitel: Mitarbeitergespräch und Personalbeurteilung
 
