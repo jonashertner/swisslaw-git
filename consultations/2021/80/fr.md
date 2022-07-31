@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Loi fédérale sur le traitement des données relatives aux passagers aériens pour la lutte contre les infractions terroristes et autres infractions graves (Loi sur les données relatives aux passagers aériens, LDPa)"
 document: Projet mis en consultation
 language: fr
