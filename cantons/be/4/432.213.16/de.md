@@ -4,13 +4,13 @@ number: "432.213.16"
 title: Direktionsverordnung über den Lehrplan 21 des Kantons Bern
 short: DVLP 21
 language: de
-version: 2018-08-01
-valid_until: 2022-07-31
-version_adopted: 2016-06-23
+version: 2022-08-01
+valid_until: 2026-07-31
+version_adopted: 2022-06-22
 adopted: 2016-06-23
 in_force: 2018-08-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/432.213.16"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1096/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2629/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1096/pdf_file"
 
 (DVLP 21)
 
-vom 23.06.2016 (Stand 01.08.2018)
+vom 23.06.2016 (Stand 01.08.2022)
 
 Die Erziehungsdirektion des Kantons Bern,
 
@@ -62,6 +62,8 @@ beschliesst:
 
 #### Art. A1-1
 
+**Erstfassung**
+
 <sup>1</sup> Dieser Erlass wird in Anwendung von Artikel 5 des Publikationsgesetzes vom 18. Januar 1993 (PuG)[^A11-1] in der Bernischen Amtlichen Gesetzessammlug nur in der Form eines Verweises veröffentlicht.
 
 Er kann bei der folgenden Stelle bezogen werden:
@@ -81,6 +83,16 @@ Er ist auch auf Internet verfügbar unter:
 [http://be.lehrplan.ch](http://be.lehrplan.ch)
 
 [^A11-1]: BSG 103.1
+
+#### Art. A1-2
+
+**Änderung vom 22. Juni 2022**
+
+<sup>1</sup> Die Änderung vom 22. Juni 2022 des Anhangs 1 Lehrplan 21 des Kantons Bern wird nur in Form eines Verweises veröffentlicht.
+
+Sie ist auf Internet verfügbar unter:
+
+[http://be.lehrplan.ch](http://be.lehrplan.ch)
 
 Bern, 23. Juni 2016
 
