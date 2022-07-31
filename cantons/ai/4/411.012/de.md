@@ -4,13 +4,13 @@ number: "411.012"
 title: Landesschulkommissionsbeschluss zum Schulgesetz
 short: LSKB SchG
 language: de
-version: 2022-01-01
-valid_until: 2022-07-31
+version: 2022-08-01
+valid_until: 2023-12-31
 version_adopted: 2021-12-16
 adopted: 2005-05-18
 in_force: 2005-08-01
 url: "https://ai.clex.ch/app/de/texts_of_law/411.012"
-pdf: "https://ai.clex.ch/api/de/versions/1987/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/1989/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://ai.clex.ch/api/de/versions/1987/pdf_file"
 
 (LSKB SchG)
 
-vom 18.05.2005 (Stand 01.01.2022)
+vom 18.05.2005 (Stand 01.08.2022)
 
 Die Landesschulkommission des Kantons Appenzell I.Rh.,
 
@@ -1143,8 +1143,8 @@ Schnitt von (3 x Deutsch + 2 x Französisch + 2 x Englisch + 3 x Arithmetik + 2 
 
 <sup>1</sup> Die Unterrichtspräsenz im Kindergarten beträgt:
 
-- a) Im ersten Jahr des Kindergartens 15 bis 18 Lektionen pro Woche;
-- b) Im zweiten Jahr des Kindergartens 22 bis 24 Lektionen pro Woche.
+- a) Im ersten Jahr des Kindergartens 17 Lektionen pro Woche;
+- b) Im zweiten Jahr des Kindergartens 24 Lektionen pro Woche.
 
 <sup>2</sup> Eine Wochenlektion dauert 45 Minuten.
 
@@ -1152,11 +1152,13 @@ Schnitt von (3 x Deutsch + 2 x Französisch + 2 x Englisch + 3 x Arithmetik + 2 
 
 **Blockzeiten**
 
-<sup>1</sup> Die Schulgemeinden sind verpflichtet, an drei Vormittagen oder an zwei Vormittagen und einem Nachmittag pro Woche den Unterricht in Blockzeiten durchzuführen.
+<sup>1</sup> Die Schulgemeinden sind verpflichtet, den Unterricht im zweiten Jahr des Kindergartens und in der Primarschule (inkl. Einführungs-, Vorschul- und Kleinklassen) in Blockzeiten durchzuführen.
 
-<sup>2</sup> Der Unterricht in den Kindergärten und den Primarklassen sowie den Klein-, Vorschul- und Einführungsklassen hat zum gleichen Zeitpunkt zu beginnen und zu enden.
+<sup>2</sup> Blockzeiten bedeuten das Verweilen der Schülerinnen und Schüler an den Vormittagen von Montag bis Freitag zu je vier Lektionen in der Schule.
 
-<sup>3</sup> Die Blockzeiten gelten nicht für das erste Kindergartenjahr.
+<sup>3</sup>
+
+<sup>4</sup> Für das freiwillige erste Kindergartenjahr findet der Unterricht an drei Vormittagen und zwei Nachmittagen statt.
 
 #### Art. 73
 
