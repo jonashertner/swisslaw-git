@@ -3,24 +3,23 @@ canton: ZG
 number: "412.114"
 title: Reglement betreffend das Übertrittsverfahren
 language: de
-version: 2019-08-01
-valid_until: 2022-07-31
-version_adopted: 2018-09-05
+version: 2022-08-01
+version_adopted: 2021-03-03
 adopted: 1991-12-17
 in_force: 1992-08-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/412.114"
-pdf: "https://bgs.zg.ch/api/de/versions/1996/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2357/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement betreffend das Übertrittsverfahren
 
-Vom 17. Dezember 1991 (Stand 1. August 2019)
+Vom 17. Dezember 1991 (Stand 1. August 2022)
 
 Der Bildungsrat des Kantons Zug,
 
-gestützt auf § 30 Abs. 5 des Schulgesetzes vom 27. September 1990[^ingress-1],
+gestützt auf § 30 Abs. 5 und § 65 Abs. 3a Bst. c des Schulgesetzes vom 27. September 1990[^ingress-1],
 
 beschliesst:
 
@@ -64,8 +63,8 @@ beschliesst:
 
 <sup>2</sup> Für den Zuweisungsentscheid sind folgende Kriterien massgebend:
 
-- a) die Leistungen und der Entwicklungsverlauf des Schülers in der 5. Klasse und im 1. Semester der 6. Klasse der Primarstufe;
-- b) die Lern-, Sozial- und Selbstkompetenzen des Schülers;
+- a) die fachlichen Kompetenzen, in welche die Beurteilung der methodischen Kompetenzen miteinzubeziehen ist, und der Entwicklungsverlauf des Schülers in der 5. Klasse und im 1. Semester der 6. Klasse der Primarstufe;
+- b) die sozialen und personalen Kompetenzen des Schülers;
 - c) die Neigungen und Interessen des Schülers.
 
 <sup>3</sup> Die diesbezüglichen Feststellungen sind von der Lehrperson in den Beobachtungs- und Beurteilungsunterlagen des Amts für gemeindliche Schulen (nachfolgend Beobachtungs- und Beurteilungsunterlagen genannt) festzuhalten.
@@ -116,7 +115,7 @@ beschliesst:
 
 **Orientierungsgespräche und Zuweisungsgespräch**
 
-<sup>1</sup> Die Lehrperson der 5. Klasse der Primarstufe orientiert im zweiten Semester in einem Gespräch die Erziehungsberechtigten und ihr Kind über die Leistungsanforderungen, die Leistungserfüllung, den Lernfortschritt und die Leistungsentwicklung in den Fachkompetenzen sowie in den Lern-, Selbst- und Sozialkompetenzen. Sie orientiert auf der Grundlage der Beobachtungs- und Beurteilungsunterlagen.
+<sup>1</sup> Die Lehrperson der 5. Klasse der Primarstufe orientiert im zweiten Semester in einem Gespräch die Erziehungsberechtigten und ihr Kind über die Leistungsanforderungen, die Leistungserfüllung, den Lernfortschritt und die Leistungsentwicklung in den fachlichen Kompetenzen, in welche die Beurteilung der methodischen Kompetenzen miteinzubeziehen ist, sowie in den sozialen und personalen Kompetenzen. Sie orientiert auf der Grundlage der Beobachtungs- und Beurteilungsunterlagen sowie weiterer Leistungsbelege.
 
 <sup>2</sup> Sofern sich die schulische Situation und die Leistungen des Schülers wesentlich verändern, führt sie im ersten Semester der 6. Klasse der Primarstufe ein weiteres Orientierungsgespräch mit den Erziehungsberechtigten und dem Kind.
 
@@ -219,6 +218,6 @@ beschliesst:
 
 **Übergangsbestimmung**
 
-<sup>1</sup> Die Ausführungen zum Orientierungswert im Zusammenhang mit dem Übertrittsverfahren gelten erstmals für die Schülerinnen und Schüler der 5. Klassen im Schuljahr 2015/16.
+<sup>1</sup> …
 
 GS 23, 895
