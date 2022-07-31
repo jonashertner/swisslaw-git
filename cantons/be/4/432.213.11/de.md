@@ -4,13 +4,12 @@ number: "432.213.11"
 title: Direktionsverordnung über die Beurteilung und Schullaufbahnentscheide in der Volksschule
 short: DVBS
 language: de
-version: 2019-08-01
-valid_until: 2022-07-31
-version_adopted: 2019-06-21
+version: 2022-08-01
+version_adopted: 2022-06-22
 adopted: 2018-03-06
 in_force: 2018-08-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/432.213.11"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1689/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2619/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1689/pdf_file"
 
 (DVBS)
 
-vom 06.03.2018 (Stand 01.08.2019)
+vom 06.03.2018 (Stand 01.08.2022)
 
 Die Erziehungsdirektion des Kantons Bern,
 
@@ -37,7 +36,7 @@ beschliesst:
 
 **Geltungsbereich**
 
-<sup>1</sup> Diese Verordnung regelt die Beurteilung und die Schullaufbahnentscheide im Kindergarten, in der Primarstufe und in der Sekundarstufe I.
+<sup>1</sup> Diese Verordnung regelt die Beurteilung und die Schullaufbahnentscheide im Kindergarten, in der Primarstufe und in der Sekundarstufe I im Regelschulangebot und im besonderen Volksschulangebot.
 
 #### Art. 2
 
@@ -72,6 +71,8 @@ beschliesst:
 
 <sup>1</sup> Die Lernziele basieren auf den Kompetenzerwartungen gemäss dem Lehrplan.
 
+<sup>1a</sup> Für Schülerinnen und Schüler im besonderen Volksschulangebot richten sich die Lernziele zusätzlich nach der individuellen Förderplanung.
+
 <sup>2</sup> Die Lehrkräfte bestimmen die Lernziele ihres Unterrichts.
 
 #### Art. 6
@@ -96,7 +97,7 @@ beschliesst:
 
 <sup>2</sup> Die Dokumentenmappe enthält alle Dokumente, die für die Schullaufbahn der Schülerin oder des Schülers massgebend sind.
 
-<sup>3</sup> Die von der Erziehungsdirektion zur Verfügung gestellten Dokumente sind zu verwenden.
+<sup>3</sup> Die von der Bildungs- und Kulturdirektion zur Verfügung gestellten Dokumente sind zu verwenden.
 
 <sup>4</sup> Die Klassenlehrkraft führt die Dokumentenmappe.
 
@@ -119,6 +120,11 @@ beschliesst:
 <sup>3</sup> Wird kein anderslautender Entscheid gefällt, treten die Schülerinnen und Schüler ins nächstfolgende Kindergarten- oder Schuljahr über. Vorbehalten bleiben die Absätze 4 und 5.
 
 <sup>4</sup> Am Ende des 2., 4., 5. und 6. Schuljahres auf der Primarstufe (4H, 6H, 7H und 8H) und am Ende des 7., 8. und 9. Schuljahres auf der Sekundarstufe I (9H, 10H und 11H) werden ein Beurteilungsbericht abgegeben und ein Entscheid über den Übertritt ins nächste Schuljahr gefällt.
+
+<sup>4a</sup> Im besonderen Volksschulangebot
+
+- a kann von Absatz 4 abgewichen werden,
+- b wird in jedem Schuljahr ein Förderbericht abgegeben.
 
 <sup>5</sup> Im Weiteren werden Schullaufbahnentscheide gefällt, sobald es aufgrund der fachlichen oder überfachlichen Kompetenzen, aufgrund des Entwicklungsstands oder aufgrund anderer Umstände angezeigt ist.
 
@@ -150,9 +156,9 @@ beschliesst:
 - a den Übertritt ins nächste Schuljahr,
 - b das Überspringen eines Schuljahres,
 - c das Wiederholen eines Schuljahres,
-- d die zweijährige Einschulung in der Regelklasse,
-- e die Zuweisung zu einer besonderen Klasse,
-- f die Rückführung aus einer besonderen Klasse in die Regelklasse,
+- d die zweijährige Einschulung in der Regelklasse im Regelschulangebot,
+- e die Zuweisung zu einer besonderen Klasse im Regelschulangebot,
+- f die Rückführung aus einer besonderen Klasse in die Regelklasse im Regelschulangebot,
 - g die Zuweisung zu einem Niveau oder einem Schultyp bzw. einer section der Sekundarstufe I,
 - h das Verbleiben in einem Niveau oder einem Schultyp bzw. einer section der Sekundarstufe I,
 - i den Wechsel in ein anderes Niveau oder einen anderen Schultyp bzw. eine andere section der Sekundarstufe I,
@@ -166,13 +172,13 @@ beschliesst:
 
 **…**
 
-## 2 Standortbestimmung im Kindergarten
+## 2
 
 ### 2.1
 
 #### Art. 16
 
-<sup>1</sup> Zur Standortbestimmung wird jährlich ein Standortgespräch durchgeführt.
+**…**
 
 ### 2.2
 
@@ -204,7 +210,7 @@ beschliesst:
 
 **Individuelle Lernziele**
 
-<sup>1</sup> Die Bewilligung von individuellen Lernzielen erfolgt gemäss der Verordnung vom 19. September 2007 über die besonderen Massnahmen in der Volksschule (BMV)[^20-1].
+<sup>1</sup> Im Regelschulangebot erfolgt die Bewilligung von individuellen Lernzielen gemäss der Verordnung vom 19. September 2007 über die einfachen sonderpädagogischen und unterstützenden Massnahmen im Regelschulangebot (VMR)[^20-1].
 
 <sup>2</sup> Es wird unterschieden zwischen
 
@@ -219,7 +225,7 @@ beschliesst:
 
 **Beurteilung der fachlichen Kompetenzen bei individuellen Lernzielen**
 
-<sup>1</sup> Die Beurteilung der fachlichen Kompetenzen bei individuellen Lernzielen erfolgt nach den Bestimmungen über die Beurteilung im jeweiligen Kantonsteil und hat sich im betreffenden Fach oder in den betreffenden Fächern auf das Erreichen der individuellen Lernziele zu beziehen.
+<sup>1</sup> Die Beurteilung der fachlichen Kompetenzen bei individuellen Lernzielen im Regelschulangebot erfolgt nach den Bestimmungen über die Beurteilung im jeweiligen Kantonsteil und hat sich im betreffenden Fach oder in den betreffenden Fächern auf das Erreichen der individuellen Lernziele zu beziehen.
 
 <sup>2</sup> Solche Beurteilungen sind im Beurteilungsbericht mit einem \* gekennzeichnet und verweisen auf einen zusätzlichen Bericht.
 
@@ -234,6 +240,8 @@ beschliesst:
 **Beurteilungsformen**
 
 <sup>1</sup> Es wird in Textform oder in Worten und ab dem 3. Schuljahr auf der Primarstufe auch mit Noten beurteilt. Im Fach Französisch wird im 3. Schuljahr mit Worten, ab dem 4. Schuljahr mit Noten beurteilt.
+
+<sup>2</sup> Im besonderen Volksschulangebot kann die Schulleitung im Einvernehmen mit den Eltern von der Notengebung absehen.
 
 #### Art. 23
 
@@ -271,7 +279,7 @@ beschliesst:
 
 **Beurteilungsbericht**
 
-<sup>1</sup> Die Klassenlehrkraft verfasst unter Einbezug der übrigen an der Klasse unterrichtenden Lehrkräfte den Beurteilungsbericht.
+<sup>1</sup> Die Klassenlehrkraft verfasst den Beurteilungsbericht unter Einbezug der übrigen an der Klasse unterrichtenden Personen. Vorbehalten bleibt Artikel 24a.
 
 <sup>2</sup> Der Beurteilungsbericht enthält die nötigen Angaben
 
@@ -282,6 +290,7 @@ beschliesst:
 - e zur Beurteilung der fachlichen Kompetenzen in den obligatorischen Fächern bezogen auf das vergangene Schuljahr (Ausnahmen: «Medien und Informatik» sowie «Ethik, Religionen, Gemeinschaft»),
 - f zum fakultativen Unterricht,
 - g gegebenenfalls zum zusätzlichen Bericht,
+- g1 gegebenenfalls zum Förderbericht,
 - h zum Schullaufbahnentscheid oder zu den Schullaufbahnentscheiden,
 - i zu den Absenzen und Dispensationen gemäss Artikel 11 der Direktionsverordnung vom 16. März 2007 über Absenzen und Dispensationen in der Volksschule (DVAD)[^24-1].
 
@@ -294,6 +303,16 @@ beschliesst:
 <sup>6</sup> Die Schulleitung beschliesst den Beurteilungsbericht auf Antrag der Klassenlehrkraft.
 
 [^24-1]: BSG [432.213.12](https://www.belex.sites.be.ch/data/432.213.12/de)
+
+#### Art. 24a
+
+**Förderbericht im besonderen Volksschulangebot**
+
+<sup>1</sup> Im besonderen Volksschulangebot wird am Ende jedes Schuljahres ein Förderbericht abgegeben.
+
+<sup>2</sup> Im Förderbericht werden die fachlichen und überfachlichen Kompetenzen im Sinne einer Gesamtbeurteilung mit Worten beschrieben.
+
+<sup>3</sup> Die Schulleitung kann im Einvernehmen mit den Eltern davon absehen, zusätzlich zum Förderbericht einen Beurteilungsbericht gemäss Artikel 24 abzugeben.
 
 #### Art. 25
 
@@ -318,6 +337,8 @@ beschliesst:
 <sup>1</sup> Die fachlichen Kompetenzen werden in Textform und falls nötig mit Kommentaren und ab dem 3. Schuljahr auf der Primarstufe (5H) auch mit Noten beurteilt. Im Fach Deutsch wird im 3. Schuljahr auf der Primarstufe (5H) mit Worten, ab dem 4. Schuljahr (6H) mit Noten beurteilt.
 
 <sup>2</sup> Die überfachlichen Kompetenzen werden mit Prädikaten und falls nötig mit Kommentaren beurteilt.
+
+<sup>3</sup> Im besonderen Volksschulangebot kann die Schulleitung im Einvernehmen mit den Eltern von der Beurteilung mit Noten oder Prädikaten absehen.
 
 #### Art. 28
 
@@ -347,7 +368,7 @@ beschliesst:
 
 **Beurteilungsbericht**
 
-<sup>1</sup> Die Klassenlehrkraft verfasst unter Einbezug der übrigen an der Klasse unterrichtenden Lehrkräfte den Beurteilungsbericht.
+<sup>1</sup> Die Klassenlehrkraft verfasst den Beurteilungsbericht unter Einbezug der übrigen an der Klasse unterrichtenden Personen. Vorbehalten bleibt Artikel 29a.
 
 <sup>2</sup> Der Beurteilungsbericht enthält die nötigen Angaben
 
@@ -359,6 +380,7 @@ beschliesst:
 - f …
 - g zum fakultativen Unterricht,
 - h gegebenenfalls zum zusätzlichen Bericht,
+- h1 gegebenenfalls zum Förderbericht,
 - i zum Schullaufbahnentscheid oder zu den Schullaufbahnentscheiden,
 - k zu den Absenzen und Dispensationen gemäss Artikel 11 DVAD[^29-1].
 
@@ -373,6 +395,16 @@ beschliesst:
 <sup>7</sup> Die Schulleitung beschliesst den Beurteilungsbericht auf Antrag der Klassenlehrkraft.
 
 [^29-1]: BSG [432.213.12](https://www.belex.sites.be.ch/data/432.213.12/de)
+
+#### Art. 29a
+
+**Förderbericht im besonderen Volksschulangebot**
+
+<sup>1</sup> Im besonderen Volksschulangebot wird am Ende jedes Schuljahres ein Förderbericht abgegeben.
+
+<sup>2</sup> Im Förderbericht werden die fachlichen und überfachlichen Kompetenzen im Sinne einer Gesamtbeurteilung mit Worten beschrieben.
+
+<sup>3</sup> Die Schulleitung kann im Einvernehmen mit den Eltern davon absehen, zusätzlich zum Förderbericht einen Beurteilungsbericht gemäss Artikel 29 abzugeben.
 
 #### Art. 30
 
@@ -399,7 +431,7 @@ beschliesst:
 - a im deutschsprachigen Kantonsteil: die begründete Annahme besteht, dass die Schülerin oder der Schüler den Anforderungen des nächsten Schuljahres zu genügen vermag,
 - b im französischsprachigen Kantonsteil: die überfachlichen Kompetenzen der Schülerin oder des Schülers dies rechtfertigen.
 
-## 5 Übertritt in die Sekundarstufe I
+## 5 Übertrittsverfahren in die Sekundarstufe I mit Zuweisung zu einem Niveau oder Schultyp bzw. section
 
 ### 5.1 Beide Kantonsteile
 
@@ -435,14 +467,14 @@ beschliesst:
 
 **Übertrittsbericht**
 
-<sup>1</sup> Die Klassenlehrkraft verfasst unter Einbezug der übrigen an der Klasse unterrichtenden Lehrkräfte am Ende des ersten Semesters des 6. Schuljahres auf der Primarstufe den Übertrittsbericht.
+<sup>1</sup> Die Klassenlehrkraft verfasst unter Einbezug der übrigen an der Klasse unterrichtenden Personen am Ende des ersten Semesters des 6. Schuljahres auf der Primarstufe den Übertrittsbericht.
 
 <sup>2</sup> Der Übertrittsbericht enthält die nötigen Angaben
 
 - a zur Anzahl der bisher besuchten Kindergarten- und Schuljahre und zum Pensum des besuchten Schuljahres,
 - b zur Beurteilung der fachlichen Kompetenzen in den Fächern Deutsch, Französisch und Mathematik bezogen auf das vergangene Semester,
 - c zur Beurteilung der personalen Kompetenzen in allen Fächern bezogen auf das vergangene Semester,
-- d gegebenenfalls zum zusätzlichen Bericht bei besonderen Umständen.
+- d gegebenenfalls zum zusätzlichen Bericht oder zum Förderbericht.
 
 <sup>3</sup> Die fachlichen Kompetenzen werden in Textform «sehr gut», «gut», «genügend», «ungenügend» beurteilt, wobei die Kriterien für Noten (Art. 23 Abs. 2) massgebend sind.
 
@@ -540,14 +572,14 @@ beschliesst:
 
 **Übertrittsbericht**
 
-<sup>1</sup> Die Klassenlehrkraft verfasst unter Einbezug der übrigen an der Klasse unterrichtenden Lehrkräfte den Übertrittsbericht am Ende des ersten Semesters des 6. Schuljahres auf der Primarstufe (8H) .
+<sup>1</sup> Die Klassenlehrkraft verfasst unter Einbezug der übrigen an der Klasse unterrichtenden Personen den Übertrittsbericht am Ende des ersten Semesters des 6. Schuljahres auf der Primarstufe (8H).
 
 <sup>2</sup> Der Übertrittsbericht enthält die nötigen Angaben
 
 - a zur Anzahl der bisher besuchten Kindergarten- und Schuljahre und zum Pensum des besuchten Schuljahres,
 - b zur Beurteilung der fachlichen Kompetenzen in den Fächern Französisch, Deutsch und Mathematik bezogen auf das vergangene Semester,
 - c zur Beurteilung der überfachlichen Kompetenzen bezogen auf das vergangene Semester,
-- d gegebenenfalls zum zusätzlichen Bericht bei besonderen Umständen.
+- d gegebenenfalls zum zusätzlichen Bericht oder zum Förderbericht.
 
 <sup>3</sup> Die fachlichen Kompetenzen werden in Textform «Lernziele bei weitem übertroffen», «Lernziele übertroffen», «Lernziele erreicht», «Lernziele nur teilweise erreicht» beurteilt, wobei die Kriterien für Noten (Art. 28 Abs. 2) massgebend sind.
 

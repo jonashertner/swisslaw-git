@@ -4,13 +4,12 @@ number: "432.213.11"
 title: Ordonnance de Direction concernant l’évaluation et les décisions d’orientation à l’école obligatoire
 short: ODED
 language: fr
-version: 2019-08-01
-valid_until: 2022-07-31
-version_adopted: 2019-06-21
+version: 2022-08-01
+version_adopted: 2022-06-22
 adopted: 2018-03-06
 in_force: 2018-08-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/432.213.11"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1689/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2619/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1689/pdf_file"
 
 (ODED)
 
-du 06.03.2018 (état au 01.08.2019)
+du 06.03.2018 (état au 01.08.2022)
 
 La Direction de l'instruction publique du canton de Berne,
 
@@ -37,7 +36,7 @@ arrête:
 
 **Champ d’application**
 
-<sup>1</sup> La présente ordonnance de Direction réglemente l’évaluation et les décisions d’orientation à l’école enfantine, au degré primaire et au degré secondaire I.
+<sup>1</sup> La présente ordonnance de Direction réglemente l’évaluation et les décisions d’orientation à l’école enfantine, au degré primaire et au degré secondaire I dans le cadre de l’offre ordinaire de l'école obligatoire et de l’offre spécialisée de l’école obligatoire.
 
 #### Art. 2
 
@@ -72,6 +71,8 @@ arrête:
 
 <sup>1</sup> Les objectifs d’apprentissage se fondent sur les compétences attendues conformément aux plans d’études de l’école obligatoire.
 
+<sup>1a</sup> Pour les élèves relevant de l'offre spécialisée de l'école obligatoire, les objectifs d'apprentissage se fondent également sur le projet pédagogique individualisé.
+
 <sup>2</sup> L’enseignant ou l’enseignante définit les objectifs d’apprentissage de son enseignement.
 
 #### Art. 6
@@ -96,7 +97,7 @@ arrête:
 
 <sup>2</sup> Le dossier d’évaluation contient tous les documents déterminants pour le parcours scolaire de l’élève.
 
-<sup>3</sup> Les documents mis à disposition par la Direction de l’instruction publique doivent être utilisés.
+<sup>3</sup> Les documents mis à disposition par la Direction de l'instruction publique et de la culture doivent être utilisés.
 
 <sup>4</sup> Le maître ou la maîtresse de classe gère le dossier d’évaluation.
 
@@ -119,6 +120,11 @@ arrête:
 <sup>3</sup> Si aucune décision contraire n’est prise, les élèves passent dans l’année scolaire suivante. Les alinéas 4 et 5 sont réservés.
 
 <sup>4</sup> A la fin de la 2<sup>e</sup>, de la 4<sup>e</sup>, de la 5<sup>e</sup> et de la 6<sup>e</sup> année du degré primaire (4H, 6H, 7H et 8H) et à la fin de la 1<sup>re</sup>, de la 2<sup>e</sup> et de la 3<sup>e</sup> année du degré secondaire I (9H, 10H et 11H), un rapport d’évaluation est remis aux élèves et une décision est prise quant au passage dans l’année scolaire suivante.
+
+<sup>4a</sup> Dans le cadre de l'offre spécialisée de l'école obligatoire,
+
+- a il est possible de déroger à l'alinéa 4;
+- b un rapport d'évaluation du projet pédagogique individualisé est délivré chaque année scolaire.
 
 <sup>5</sup> Au surplus, des décisions d’orientation sont rendues lorsque les compétences disciplinaires ou les capacités transversales de l'élève, le niveau de développement de l'élève ou d’autres circonstances le justifient.
 
@@ -150,9 +156,9 @@ arrête:
 - a le passage dans l’année scolaire suivante,
 - b le saut d’une année scolaire,
 - c la répétition d’une année scolaire,
-- d l’admission au programme d’introduction sur deux ans dans une classe régulière,
-- e l’orientation vers une classe spéciale,
-- f le retour dans une classe régulière après la fréquentation d’une classe spéciale,
+- d l’admission au programme d’introduction sur deux ans dans une classe ordinaire dans le cadre de l’offre ordinaire de l’école obligatoire,
+- e l’orientation vers une classe spéciale dans le cadre de l’offre ordinaire de l’école obligatoire,
+- f le retour dans une classe ordinaire après la fréquentation d’une classe spéciale dans le cadre de l’offre ordinaire de l’école obligatoire,
 - g l’orientation vers un niveau ou vers un type d'école (Schultyp) ou une section du degré secondaire I,
 - h le maintien dans un niveau ou dans un type d'école (Schultyp) ou une section du degré secondaire I,
 - i le passage dans un autre niveau ou un autre type d'école (Schultyp) ou une autre section du degré secondaire I,
@@ -166,13 +172,13 @@ arrête:
 
 **…**
 
-## 2 Bilan des apprentissages à l’école enfantine
+## 2
 
 ### 2.1
 
 #### Art. 16
 
-<sup>1</sup> Un entretien est organisé chaque année afin de dresser un bilan des apprentissages.
+**…**
 
 ### 2.2
 
@@ -204,7 +210,7 @@ arrête:
 
 **Objectifs d’apprentissage individuels**
 
-<sup>1</sup> L’autorisation de recourir à des objectifs d’apprentissage individuels est octroyée conformément à l’ordonnance du 19 septembre 2007 régissant les mesures pédagogiques particulières à l’école obligatoire (OMPP)[^20-1].
+<sup>1</sup> Dans le cadre de l'offre ordinaire de l'école obligatoire, l'autorisation de recourir à des objectifs d'apprentissage individuels est octroyée conformément à l'ordonnance du 19 septembre 2007 régissant les mesures de pédagogie spécialisée ordinaires et les mesures de soutien relevant de l'offre ordinaire de l'école obligatoire (OMO)[^20-1].
 
 <sup>2</sup> Sont différenciés
 
@@ -219,7 +225,7 @@ arrête:
 
 **Evaluation des compétences disciplinaires en cas d’objectifs d’apprentissage individuels**
 
-<sup>1</sup> L’évaluation des compétences disciplinaires des élèves qui ont des objectifs d’apprentissage individuels se fonde sur les dispositions relatives à l’évaluation dans la partie du canton concernée et porte sur la maîtrise des objectifs d’apprentissage individuels dans la ou les disciplines concernées.
+<sup>1</sup> L'évaluation des compétences disciplinaires des élèves qui ont des objectifs d'apprentissage individuels dans le cadre de l'offre ordinaire de l'école obligatoire se fonde sur les dispositions relatives à l'évaluation dans la partie du canton concernée et porte sur la maîtrise des objectifs d'apprentissage individuels dans la ou les disciplines concernées.
 
 <sup>2</sup> Ce type d’évaluation est signalé par un astérisque (\*) dans le rapport d’évaluation avec un renvoi à un rapport complémentaire.
 
@@ -234,6 +240,8 @@ arrête:
 **Formes d’évaluation**
 
 <sup>1</sup> L’évaluation se traduit par des appréciations ou des commentaires et, à partir de la 3<sup>e</sup> année du degré primaire, aussi par des notes. L’évaluation du français se traduit par des appréciations en 3<sup>e</sup> année du degré primaire et par des notes à compter de la 4<sup>e</sup> année du degré primaire.
+
+<sup>2</sup> Dans le cadre de l'offre spécialisée de l'école obligatoire, la direction d'école peut, en accord avec les parents, renoncer à attribuer des notes.
 
 #### Art. 23
 
@@ -271,7 +279,7 @@ arrête:
 
 **Rapport d’évaluation**
 
-<sup>1</sup> Le maître ou la maîtresse de classe établit le rapport d’évaluation avec le concours des autres enseignants et enseignantes de la classe.
+<sup>1</sup> Le maître ou la maîtresse de classe établit le rapport d'évaluation avec le concours des autres personnes impliquées dans l'enseignement. L'article 24a est réservé.
 
 <sup>2</sup> Le rapport d’évaluation contient les informations nécessaires concernant
 
@@ -282,6 +290,7 @@ arrête:
 - e l’évaluation des compétences dans les disciplines obligatoires durant l’année scolaire écoulée (exception faite des domaines «Medien und Informatik» et «Ethik, Religionen, Gemeinschaft»),
 - f l’enseignement facultatif,
 - g le cas échéant, le rapport complémentaire,
+- g1 le cas échéant, le rapport d'évaluation du projet pédagogique individualisé,
 - h la ou les décisions d’orientation,
 - i les absences et les dispenses énoncées à l’article 11 de l’ordonnance de Direction du 16 mars 2007 sur les absences et les dispenses à l’école obligatoire (ODAD)[^24-1].
 
@@ -294,6 +303,16 @@ arrête:
 <sup>6</sup> La direction d’école valide le rapport d’évaluation sur proposition du maître ou de la maîtresse de classe.
 
 [^24-1]: RSB [432.213.12](https://www.belex.sites.be.ch/data/432.213.12/fr)
+
+#### Art. 24a
+
+**Rapport d'évaluation du projet pédagogique individualisé dans le cadre de l'offre spécialisée de l'école obligatoire**
+
+<sup>1</sup> Dans le cadre de l'offre spécialisée de l'école obligatoire, un rapport d'évaluation du projet pédagogique individualisé est délivré à la fin de chaque année scolaire.
+
+<sup>2</sup> Le rapport d'évaluation du projet pédagogique individualisé décrit les compétences disciplinaires et transversales à des fins d'évaluation globale par des commentaires.
+
+<sup>3</sup> La direction d'école peut, en accord avec les parents, renoncer à compléter le rapport d'évaluation du projet pédagogique individualisé par un rapport d’évaluation conformément à l’article 24.
 
 #### Art. 25
 
@@ -318,6 +337,8 @@ arrête:
 <sup>1</sup> L’évaluation des compétences disciplinaires se traduit par des appréciations assorties de commentaires si nécessaire et, à partir de la 3<sup>e</sup> année du degré primaire (5H), aussi par des notes. L’évaluation de l’allemand se traduit par des appréciations en 3<sup>e</sup> année du degré primaire (5H) et par des notes à compter de la 4<sup>e</sup> année du degré primaire (6H).
 
 <sup>2</sup> L'évaluation des capacités transversales se traduit par des mentions assorties de commentaires si nécessaire.
+
+<sup>3</sup> Dans le cadre de l'offre spécialisée de l'école obligatoire, la direction d'école peut, en accord avec les parents, renoncer à l'évaluation avec des notes ou assortie de commentaires.
 
 #### Art. 28
 
@@ -347,7 +368,7 @@ arrête:
 
 **Rapport d’évaluation**
 
-<sup>1</sup> Le maître ou la maîtresse de classe établit le rapport d’évaluation avec le concours des autres enseignants et enseignantes de la classe.
+<sup>1</sup> Le maître ou la maîtresse de classe établit le rapport d'évaluation avec le concours des autres personnes impliquées dans l'enseignement. L'article 29a est réservé.
 
 <sup>2</sup> Le rapport d’évaluation contient les informations nécessaires concernant
 
@@ -359,6 +380,7 @@ arrête:
 - f …
 - g l’enseignement facultatif,
 - h le cas échéant, le rapport complémentaire,
+- h1 le cas échéant, le rapport d'évaluation du projet pédagogique individualisé,
 - i la ou les décisions d’orientation,
 - k les absences et les dispenses énoncées à l’article 11 ODAD [^29-1].
 
@@ -373,6 +395,16 @@ arrête:
 <sup>7</sup> La direction d’école valide le rapport d’évaluation sur proposition du maître ou de la maîtresse de classe.
 
 [^29-1]: RSB [432.213.12](https://www.belex.sites.be.ch/data/432.213.12/fr)
+
+#### Art. 29a
+
+**Rapport d'évaluation du projet pédagogique individualisé dans le cadre de l'offre spécialisée de l'école obligatoire**
+
+<sup>1</sup> Dans le cadre de l'offre spécialisée de l'école obligatoire, un rapport d'évaluation du projet pédagogique individualisé est délivré à la fin de chaque année scolaire.
+
+<sup>2</sup> Le rapport d'évaluation du projet pédagogique individualisé décrit les compétences disciplinaires et transversales à des fins d'évaluation globale par des commentaires.
+
+<sup>3</sup> La direction d'école peut, en accord avec les parents, renoncer à compléter le rapport d'évaluation du projet pédagogique individualisé par un rapport d’évaluation conformément à l’article 29.
 
 #### Art. 30
 
@@ -399,7 +431,7 @@ arrête:
 - a dans la partie germanophone du canton: il est fondé de penser que l’élève peut satisfaire aux exigences de l’année scolaire suivante;
 - b dans la partie francophone du canton : les capacités transversales de l'élève le justifient.
 
-## 5 Passage au degré secondaire I
+## 5 Procédure de passage au degré secondaire I avec orientation vers un niveau ou un type d'école (Schultyp) ou vers une section
 
 ### 5.1 Ensemble du canton
 
@@ -435,14 +467,14 @@ arrête:
 
 **Rapport de passage**
 
-<sup>1</sup> Le maître ou la maîtresse de classe établit le rapport de passage avec le concours des autres enseignants et enseignantes de la classe à la fin du premier semestre de la 6<sup>e</sup> année du degré primaire.
+<sup>1</sup> Le maître ou la maîtresse de classe établit le rapport de passage avec le concours des autres personnes impliquées dans l'enseignement à la fin du premier semestre de la 6<sup>e</sup> année du degré primaire.
 
 <sup>2</sup> Le rapport de passage contient les informations nécessaires concernant
 
 - a le nombre d’années scolaires suivies et le programme de l’année scolaire écoulée,
 - b l’évaluation des compétences disciplinaires en allemand, français et mathématiques durant le semestre écoulé,
 - c l’évaluation des compétences personnelles dans toutes les disciplines durant le semestre écoulé,
-- d le cas échéant, le rapport complémentaire établi en cas de circonstances particulières.
+- d le cas échéant, le rapport complémentaire ou le rapport d'évaluation du projet pédagogique individualisé.
 
 <sup>3</sup> Les compétences disciplinaires sont évaluées au moyen des appréciations «très bien», «bien», «suffisant» et «insuffisant», les critères relatifs aux notes (art. 23, al. 2) étant déterminants.
 
@@ -540,14 +572,14 @@ arrête:
 
 **Rapport de passage**
 
-<sup>1</sup> Le maître ou la maîtresse de classe établit le rapport de passage avec le concours des autres enseignants et enseignantes de la classe à la fin du premier semestre de la 6<sup>e</sup> année du degré primaire (8H).
+<sup>1</sup> Le maître ou la maîtresse de classe établit le rapport de passage avec le concours des autres personnes impliquées dans l'enseignement à la fin du premier semestre de la 6<sup>e</sup> année du degré primaire (8H).
 
 <sup>2</sup> Le rapport de passage contient les informations nécessaires concernant
 
 - a le nombre d’années scolaires suivies et le programme de l’année scolaire écoulée,
 - b l’évaluation des compétences dans les disciplines «français», «allemand» et «mathématiques» durant le semestre écoulé,
 - c l’évaluation des capacités transversales durant le semestre écoulé,
-- d le cas échéant, le rapport complémentaire établi en cas de circonstances particulières.
+- d le cas échéant, le rapport complémentaire ou le rapport d'évaluation du projet pédagogique individualisé.
 
 <sup>3</sup> Les compétences disciplinaires sont évaluées au moyen des appréciations «atteint très largement les objectifs», «atteint largement les objectifs», «atteint les objectifs» et «n’atteint que partiellement les objectifs», les critères relatifs aux notes (art. 28, al. 2) étant déterminants.
 
