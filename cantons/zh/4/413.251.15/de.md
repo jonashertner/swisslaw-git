@@ -3,11 +3,10 @@ canton: ZH
 number: "413.251.15"
 title: Promotionsreglement für die K+S Klassen am Mathematisch-Naturwissenschaftlichen Gymnasium Rämibühl Zürich
 language: de
-version: "2012-08-20"
-nachtrag: "78"
-valid_until: 2022-08-01
+version: "2022-08-01"
+nachtrag: "117"
 adopted: 1999-11-17
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-413_251_15-1999_11_17-2012_08_20-078.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-413_251_15-1999_11_17-2012_08_20-117.html"
 text: pdf
 ---
 
@@ -23,56 +22,57 @@ Der Bildungsrat beschliesst:
 
 ### A. Geltungsbereich
 
-#### § 1
-
 **Geltungsbereich**
 
-<sup>1</sup> Diese Bestimmungen gelten für die Aufnahme am Ende der Probezeit und für die Promotion am Ende einer Zeugnisperiode.
+§ 1.[^hAGeltungsbereich-1] Diese Bestimmungen gelten für die Promotion am Ende einer Zeugnisperiode.
 
-<sup>2</sup> Die Probezeit dauert bis zum Ende des ersten Semesters.
+[^hAGeltungsbereich-1]: Fassung gemäss Beschluss des Bildungsrates vom 14. März 2022 (OS 77, 274; ABl 2022-03-25). In Kraft seit 1. August 2022.
 
 ### B. Massgebliche Fächer
 
-[^hBMassgeblicheFäch-1]: SR 413.11.
+**Promotionsfächer im Untergymnasium (9. und 10. Schuljahr)11**
 
-#### § 2
+§ 2.[^hBMassgeblicheFäch-1] Promotionsfächer im Untergymnasium sind die Fächer Deutsch, Französisch, Englisch, Latein, Mathematik, Biologie, Chemie, Physik, Informatik, Geschichte, Geografie, Bildnerisches Gestalten und Musik, soweit sie in der betreffenden Zeugnisperiode unterrichtet werden.
 
-**Maturitätsfächer**
+[^hBMassgeblicheFäch-1]: Fassung gemäss Beschluss des Bildungsrates vom 25. August 2021 (OS 77, 94; ABl 2021-09-03). In Kraft seit 1. August 2022.
+[^hBMassgeblicheFäch-2]: LS 410.5.
 
-<sup>1</sup> Massgeblich für die Promotion sind die Maturitätsfächer gemäss den Bestimmungen des Bundesrates und der EDK über die Anerkennung von gymnasialen Maturitätsausweisen vom 16. Januar/ 15. Februar 1995[^hBMassgeblicheFäch-1], sofern sie in der betreffenden Zeugnisperiode unterrichtet wurden.
+#### § 3
 
-<sup>2</sup> Die Maturitätsfächer sind zehn Grundlagenfächer, ein Schwerpunktfach und ein Ergänzungsfach, welche jeweils aus einem einzelnen Fach oder aus einer Fächergruppe mit mehreren Fächern bestehen.[^2-1]
+**Promotionsfächer im Obergymnasium (11. bis 15. Schuljahr)11**
 
-**Promotionsfächer**
-
-§ 3.[^2-1] <sup>1</sup> Promotionsfächer sind die Maturitätsfächer sowie das obligatorische Fach Einführung in Wirtschaft und Recht gemäss Lehrplan.
+<sup>1</sup> Promotionsfächer im Obergymnasium sind die Grundlagen-, Schwerpunkt- und Ergänzungsfächer gemäss den Bestimmungen des Bundesrates und der EDK über die Anerkennung von gymnasialen Maturitätsausweisen vom 16. Januar / 15. Februar 1995[^hBMassgeblicheFäch-2] sowie die Fächer Informatik und Einführung in Wirtschaft und Recht, soweit sie in der betreffenden Zeugnisperiode unterrichtet werden.[^hBMassgeblicheFäch-1]
 
 <sup>2</sup> Für die Promotion zählt jedes Promotionsfach einfach.
 
 <sup>3</sup> Werden im Schwerpunktfach «Biologie und Chemie» die Teilfächer einzeln unterrichtet, so zählen sie je einzeln als Promotionsfach.
 
-<sup>4</sup> Solange Bildnerisches Gestalten und Musik gleichzeitig im Grundlagenfach unterrichtet werden, zählt für die Promotion das gerundete Mittel aus beiden Noten. Ergibt das Mittel eine Viertelnote, so ist diese auf die nächste ganze oder halbe Note aufzurunden.[^2-2]
+<sup>4</sup> Solange Bildnerisches Gestalten und Musik gleichzeitig im Grundlagenfach unterrichtet werden, zählt für die Promotion das gerundete Mittel aus beiden Noten. Ergibt das Mittel eine Viertelnote, so ist diese auf die nächste ganze oder halbe Note aufzurunden.[^3-1]
 
 <sup>5</sup> Wird in einer Zeugnisperiode das gleiche Fach sowohl als Grundlagenfach wie auch als Schwerpunkt- oder Ergänzungsfach erteilt, so sind im Zeugnis die Noten für beide Bereiche getrennt auszuweisen; für die Promotion zählt das Mittel aus beiden Noten.
 
-**1**
-
-- 1\. 10. 12 - 78 § 4.[^2-1] Die Noten für nicht promotionsrelevante Fächer werden im Zeugnis aufgeführt.
-
 **Weitere Fächer**
 
-[^2-1]: Fassung gemäss Beschluss des Bildungsrates vom 26. Mai 2008 (OS 63, 443). In Kraft seit 18. August 2008.
-[^2-2]: Eingefügt durch Beschluss des Bildungsrates vom 12. April 2012 (OS 67, 192; ABl 2012, 851). In Kraft seit 20. August 2012.
+§ 4.[^3-2] Die Noten für nicht promotionsrelevante Fächer werden im Zeugnis aufgeführt.
+
+**1**
+
+- 1\. 7. 22 - 117
+
+[^3-1]: Eingefügt durch Beschluss des Bildungsrates vom 12. April 2012 (OS 67, 192; ABl 2012, 851). In Kraft seit 20. August 2012.
+[^3-2]: Fassung gemäss Beschluss des Bildungsrates vom 26. Mai 2008 (OS 63, 443). In Kraft seit 18. August 2008.
 
 ### C. Beurteilung der Leistungen
 
 **Zeugnis**
 
-§ 5.[^hCBeurteilungderL-1] <sup>1</sup> Mit Ausnahme der letzten beiden Semester wird für jedes Semester der Ausbildung den Schülerinnen und Schülern ein Zeugnis über ihre schulischen Leistungen ausgestellt.
+§ 5.[^hCBeurteilungderL-1] <sup>1</sup> Die Schülerinnen und Schüler erhalten mit Ausnahme der letzten beiden Schuljahre vor den Maturitätsprüfungen für jedes Semester der Ausbildung ein Zeugnis über ihre Leistungen.
 
-<sup>2</sup> Für die letzten beiden Semester vor den Maturitätsprüfungen wird ein Jahreszeugnis ausgestellt. Im Sinne einer Standortbestimmung wird den Schülerinnen und Schülern auf Ende des Kalenderjahrs eine Zwischenbeurteilung ihrer Leistungen in ganzen und halben Noten mitgeteilt.
+<sup>2</sup> Sie erhalten in den letzten beiden Schuljahren auf Ende des Schuljahres ein Jahreszeugnis. Im Sinne einer Standortbestimmung wird ihnen auf Ende des ersten Semesters des zweitletzten Schuljahres sowie auf Ende des Kalenderjahres des letzten Schuljahres eine schriftliche Zwischenbeurteilung ihrer Leistungen in ganzen und halben Noten ausgestellt.
 
-[^hCBeurteilungderL-1]: Fassung gemäss Beschluss des Bildungsrates vom 30. August 2010 (OS 66, 311; ABl 2011, 631). In Kraft seit 20. August 2012.
+<sup>3</sup> Für Maturitätsfächer, die im zweitletzten Schuljahr in beiden Semestern und im letzten Schuljahr in einem Semester unterrichtet werden, wird die Leistung für das zweite Semester des zweitletzten Schuljahres gesondert ausgewiesen.
+
+[^hCBeurteilungderL-1]: Fassung gemäss Beschluss des Bildungsrates vom 14. März 2022 (OS 77, 274; ABl 2022-03-25). In Kraft seit 1. August 2022.
 
 #### § 6
 
@@ -90,41 +90,45 @@ Die Leistungen in den einzelnen Fächern werden mit ganzen und halben Noten bewe
 
 ### D. Promotionsentscheide
 
-#### § 8
-
 **Entscheid**
 
-Der Klassenkonvent entscheidet am Ende der Probezeit über die definitive Aufnahme und jeweils am Ende des Semesters, letztmals ein Jahr vor der Maturität, über die Promotion.
+§ 8.[^hDPromotionsentsche-1] Der Klassenkonvent entscheidet jeweils am Ende einer Zeugnisperiode, letztmals ein Jahr vor der Maturität, über die Promotion.
+
+[^hDPromotionsentsche-1]: Fassung gemäss Beschluss des Bildungsrates vom 14. März 2022 (OS 77, 274; ABl 2022-03-25). In Kraft seit 1. August 2022.
 
 #### § 9
 
 **Bedingungen**
 
-Die Bedingungen für die definitive Aufnahme bzw. Promotion sind erfüllt, wenn in allen Promotionsfächern, die im betreffenden Semester unterrichtet werden,
+Die Bedingungen für die Promotion sind erfüllt, wenn in allen Promotionsfächern, die in der betreffenden Zeugnisperiode unterrichtet werden,[^hDPromotionsentsche-1] a. die doppelte Summe aller Notenabweichungen von 4 nach unten nicht grösser ist als die Summe aller Notenabweichungen von 4 nach oben und b. nicht mehr als drei Noten unter 4 erteilt werden.
 
-- a. die doppelte Summe aller Notenabweichungen von 4 nach unten nicht grösser ist als die Summe aller Notenabweichungen von 4 nach oben und
+**Provisorische Promotion und Nichtpromotion**
 
-- b. nicht mehr als drei Noten unter 4 erteilt werden.
+§ 10.[^9-1] <sup>1</sup> Schülerinnen und Schüler werden am Ende einer Zeugnisperiode provisorisch promoviert oder nicht promoviert, wenn sie die Bedingungen für die Promotion nach § 9 nicht erfüllen. Sie werden nicht promoviert, wenn sie a. sich im Untergymnasium befinden und bereits einmal provisorisch promoviert wurden,
 
-**Nichtaufnahme, provisorische Promotion, Nichtpromotion**
+- b. am Ende des 10. Schuljahres provisorisch promoviert wurden und am Ende des darauffolgenden Semesters der K+S Ausbildung die Promotionsbedingungen erneut nicht erfüllen,
 
-§ 10.[^9-1] Schülerinnen und Schüler, welche die Bedingungen für die definitive Aufnahme bzw. Promotion nach § 9 nicht erfüllen, werden am Ende der Probezeit abgewiesen bzw. am Ende einer Zeugnisperiode provisorisch promoviert oder nicht promoviert. Sie werden nicht promoviert, wenn sie a. sich in den ersten beiden Klassen des Gymnasiums mit Anschluss an die 6. Klasse der Primarstufe (Unterstufe) befinden und schon einmal provisorisch promoviert wurden oder b. vom 11. Schuljahr an in der unmittelbar vorangehenden Zeugnisperiode bereits im Provisorium waren oder c. vom 11. Schuljahr an in der K+S Ausbildung bereits zweimal im Provisorium waren oder d. am Ende der 2. Klasse der Unterstufe provisorisch promoviert wurden und am Ende des darauffolgenden Semesters die Promotionsbedingungen erneut nicht erfüllen. Eine provisorische Promotion am Ende der 2. Klasse der Unterstufe zählt als Provisorium auf der Unterstufe.
+- c. sie im Obergymnasium bereits einmal provisorisch promoviert wurden,
+
+- d. die Promotionsbedingungen am Ende des 14. Schuljahres nicht erfüllen.
+
+<sup>2</sup> Eine provisorische Promotion am Ende des 10. Schuljahres zählt als Provisorium im Untergymnasium.
 
 **Verlust der Zusatzqualifikation**
 
-§ 11.[^9-1] <sup>1</sup> Die Schulleitung überprüft die musikalischen, sportlichen oder tänzerischen Fähigkeiten der Schülerinnen und Schüler regelmässig.
+§ 11.[^9-2] <sup>1</sup> Die Schulleitung überprüft die musikalischen, sportlichen oder tänzerischen Fähigkeiten der Schülerinnen und Schüler regelmässig.
 
-<sup>2</sup> Im 2. Semester der 2. Klasse der Unterstufe richtet sich die Abklärung dieser Fähigkeiten (Eignungsabklärung) nach § 17 des Reglements für die Aufnahme in die K+S Klassen am Mathematisch-Naturwissenschaftlichen Gymnasium Rämibühl Zürich mit Anschluss an die 2. Klasse der Sekundarstufe vom 13. Januar 2010.
+<sup>2</sup> Im 2. Semester des 10. Schuljahres richtet sich die Abklärung dieser Fähigkeiten (Eignungsabklärung) nach § 26 der Verordnung über die Aufnahme in die Maturitätsschulen im Anschluss an Sekundarstufe und nach Abschluss der beruflichen Grundbildung vom 3. April 2019[^9-3].[^9-1]
 
 <sup>3</sup> Wer die Zusatzqualifikation im musikalischen, sportlichen oder tänzerischen Bereich verliert, weil er die ausserschulische Laufbahn abbricht, die vereinbarten Ausbildungsstrukturen nicht einhält oder die ausserschulischen Bedingungen im musikalischen, sportlichen oder tänzerischen Bereich nicht mehr erfüllt, hat keinen Anspruch mehr auf den Besuch einer K+S Klasse. Für den Übertritt in eine Klasse auf vergleichbarer Jahrgangsstufe an einem anderen kantonalen Gymnasium ist der aktuelle Promotionsstand massgebend.
 
-[^9-1]: Fassung gemäss Beschluss des Bildungsrates vom 12. April 2012 (OS 67, 192; ABl 2012, 851). In Kraft seit 20. August 2012.
-
-#### § 12
-
 **Letzte Promotionstermine**
 
-Eine provisorische Promotion kann letztmals 1½ Jahre, eine Nichtpromotion letztmals ein Jahr vor Abschluss der Mittelschulzeit ausgesprochen werden.
+§ 12.[^9-1] Schülerinnen und Schüler können letztmals am Ende des 13. Schuljahres provisorisch promoviert und letztmals am Ende des 14. Schuljahres nicht promoviert werden.
+
+[^9-1]: Fassung gemäss Beschluss des Bildungsrates vom 14. März 2022 (OS 77, 274; ABl 2022-03-25). In Kraft seit 1. August 2022.
+[^9-2]: Fassung gemäss Beschluss des Bildungsrates vom 12. April 2012 (OS 67, 192; ABl 2012, 851). In Kraft seit 20. August 2012.
+[^9-3]: LS 413.250.2.
 
 #### § 13
 
@@ -134,13 +138,13 @@ Eine provisorische Promotion kann letztmals 1½ Jahre, eine Nichtpromotion letzt
 
 **3**
 
-- 1\. 10. 12 - 78
+- 1\. 7. 22 - 117
 
 <sup>2</sup> Während der ganzen Mittelschulzeit kann nur einmal repetiert werden[^13-1]. Dies gilt auch, wenn eine Schülerin oder ein Schüler eine Klasse freiwillig wiederholt.
 
 <sup>3</sup> Eine Wiederholung im Anschluss an eine nicht bestandene Maturitätsprüfung zählt nicht als Repetition im Sinne von Abs. 2.
 
-[^13-1]: Bei Schülerinnen und Schülern, die ohne Aufnahmeprüfung aus einem kantonalzürcherischen oder entsprechenden Gymnasium in eine erste K+S Klasse des MNG Rämibühl eintreten, werden Repetitionen gemäss § 13 berücksichtigt. Wer – sofern die Möglichkeit dazu besteht – eine Aufnahmeprüfung und die Probezeit absolviert, kann ohne Anrechnung einer früheren Repetition eintreten. 1. 10. 12 - 78 5
+[^13-1]: Bei Schülerinnen und Schülern, die ohne Aufnahmeprüfung aus einem kantonalzürcherischen oder entsprechenden Gymnasium in eine erste K+S Klasse des MNG Rämibühl eintreten, werden Repetitionen gemäss § 13 berücksichtigt. Wer – sofern die Möglichkeit dazu besteht – eine Aufnahmeprüfung und die Probezeit absolviert, kann ohne Anrechnung einer früheren Repetition eintreten.
 
 ### E. Besondere Bestimmungen
 
@@ -170,21 +174,17 @@ Das Überspringen einer Klasse ist in Ausnahmefällen, spätestens zwei Jahre vo
 
 [^hFRechtsmittel-1]: Fassung gemäss Beschluss des Bildungsrates vom 26. Mai 2008 (OS 63, 443). In Kraft seit 18. August 2008.
 [^hFRechtsmittel-2]: LS 175.2.
+[^hFRechtsmittel-3]: Fassung gemäss Beschluss des Bildungsrates vom 14. März 2022 (OS 77, 274; ABl 2022-03-25). In Kraft seit 1. August 2022.
 
-### G. Schlussbestimmungen
+### G. Übergangsbestimmung
 
-[^hFRechtsmittel-1]
+[^hFRechtsmittel-3]
 
-**Inkrafttreten**
+§ 18.[^hGÜbergangsbestimmu-1] Für Schülerinnen und Schüler, die das Obergymnasium vor dem Schuljahr 2022/2023 begonnen haben, gilt das Promotionsreglement für die K+S Klassen am Mathematisch-Naturwissenschaftlichen Gymnasium Rämibühl Zürich in der Fassung vom 12. April 2012. § 19.[^hGÜbergangsbestimmu-2]
 
-§ 18.[^hGSchlussbestimmung-1] Die Änderung des Reglements tritt auf Beginn des Schuljahrs 2012/2013 (20. August 2012) in Kraft.
-
-**Übergangsbestimmung**
-
-§ 19.[^hGSchlussbestimmung-1] Für Schülerinnen und Schüler, die die Ausbildung vor dem Schuljahr 2008/2009 begonnen haben, gilt mit Ausnahme von § 5 weiterhin das Promotionsreglement für die K+S Klassen am Mathematisch-Naturwissenschaftlichen Gymnasium Rämibühl Zürich in der Fassung vom 17. November 1999. § 5 (Jahreszeugnis im letzten Schuljahr) gilt für alle Schülerinnen und Schüler in der Fassung vom 30. August 2010.
-
-[^hGSchlussbestimmung-1]: Fassung gemäss Beschluss des Bildungsrates vom 30. August 2010 (OS 66, 311; ABl 2011, 631). In Kraft seit 20. August 2012.
+[^hGÜbergangsbestimmu-1]: Fassung gemäss Beschluss des Bildungsrates vom 14. März 2022 (OS 77, 274; ABl 2022-03-25). In Kraft seit 1. August 2022.
+[^hGÜbergangsbestimmu-2]: Aufgehoben durch Beschluss des Bildungsrates vom 14. März 2022 (OS 77, 274; ABl 2022-03-25). In Kraft seit 1. August 2022. 1. 7. 22 - 117 5
 
 ## Weitere Fussnoten
 
-- [4] Eingefügt durch Beschluss des Bildungsrates vom 26. Mai 2008 (OS 63, 443). In Kraft seit 18. August 2008.
+- [6] Obsolet.
