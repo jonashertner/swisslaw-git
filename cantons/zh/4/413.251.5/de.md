@@ -3,11 +3,10 @@ canton: ZH
 number: "413.251.5"
 title: Promotionsreglement für die kantonalen Handelsmittelschulen
 language: de
-version: "2020-08-01"
-nachtrag: "110"
-valid_until: 2022-08-01
+version: "2022-08-01"
+nachtrag: "117"
 adopted: 1995-01-10
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-413_251_5-1995_01_10-1995_08_21-110.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-413_251_5-1995_01_10-1995_08_21-117.html"
 text: pdf
 ---
 
@@ -21,53 +20,60 @@ Der Bildungsrat beschliesst:[^t-2]
 
 **Geltungsbereich**
 
-§ 1. Diese Bestimmungen gelten für die Aufnahme am Ende der Probezeit und für die Promotion am Ende jeder Zeugnisperiode.
+§ 1.[^t-3] Diese Bestimmungen gelten für die Promotion am Ende einer Zeugnisperiode.
 
 **Massgebliche Fächer**
 
-§ 2.[^t-3] Massgeblich sind alle Fächer (ohne Sport), sofern sie in der betreffenden Zeugnisperiode unterrichtet worden sind.
+§ 2.[^t-4] Massgeblich sind alle Fächer (ohne Sport), sofern sie in der betreffenden Zeugnisperiode unterrichtet worden sind.
 
 [^t-1]: OS 66, 501.
 [^t-2]: Fassung gemäss Beschluss des Bildungsrates vom 5. Mai 2020 (OS 75, 359; ABl 2020-06-05). In Kraft seit 1. August 2020.
-[^t-3]: Fassung gemäss Beschluss des Bildungsrates vom 20. Juni 2011 (OS 66, 503; ABl 2011, 1929). In Kraft seit 22. August 2011.
+[^t-3]: Fassung gemäss Beschluss des Bildungsrates vom 14. März 2022 (OS 77, 278; ABl 2022-03-25). In Kraft seit 1. August 2022.
+[^t-4]: Fassung gemäss Beschluss des Bildungsrates vom 20. Juni 2011 (OS 66, 503; ABl 2011, 1929). In Kraft seit 22. August 2011.
 
 #### § 3
 
-**Aufnahme, definitive Promotion**
+**Bedingungen**
 
-Für die definitive Aufnahme bzw. Promotion müssen folgende Bedingungen erfüllt sein:[^t-3] a. Durchschnitt mindestens 4, b.[^t-2] keine Abweichung von insgesamt mehr als 2 Punkten unter 4, c.[^t-2] nicht mehr als zwei Fachnoten unter 4.
+Für die Promotion müssen folgende Bedingungen erfüllt sein:[^t-3] a. Durchschnitt mindestens 4, b.[^t-2] keine Abweichung von insgesamt mehr als 2 Punkten unter 4, c.[^t-2] nicht mehr als zwei Fachnoten unter 4.
 
-**Nichtaufnahme, provisorische Promotion, Nichtpromotion**
+**Provisorische Promotion und Nichtpromotion**
 
-§ 4.[^3-1] Erfüllt eine Schülerin oder ein Schüler die Bedingungen für die definitive Promotion nach § 3 nicht, so wird sie oder er am Ende der Probezeit abgewiesen, am Ende einer Zeugnisperiode ins Provisorium versetzt oder nicht promoviert. Sie oder er wird nicht promoviert, wenn sie oder er a. in der unmittelbar vorangehenden Zeugnisperiode bereits im Provisorium war oder b. während ihrer oder seiner ganzen Ausbildung an der Handelsmittelschule einmal im Provisorium war.
+§ 4.[^3-1] <sup>1</sup> Schülerinnen und Schüler werden am Ende einer Zeugnisperiode provisorisch promoviert oder nicht promoviert, wenn sie die Bedingungen für die Promotion nach § 3 nicht erfüllen.
+
+<sup>2</sup> Sie werden nicht promoviert, wenn sie bereits einmal provisorisch promoviert wurden.
 
 § 5.[^3-2]
 
 **Repetition**
 
-§ 6.[^3-1] <sup>1</sup> Während der ganzen Dauer der Ausbildung an der Handelsmittelschule kann eine Schülerin oder ein Schüler nur einmal repetieren.
+§ 6.[^3-3] <sup>1</sup> Während der ganzen Dauer der Ausbildung an der Handelsmittelschule kann eine Schülerin oder ein Schüler nur einmal repetieren.
 
 <sup>2</sup> Eine Wiederholung bei Nichtbestehen der Abschlussprüfung zählt nicht als Repetition im Sinne von Abs. 1.
 
 **Besondere Fälle**
 
-§ 7.[^3-1] In besonderen Fällen kann der Klassenkonvent zugunsten der Schülerin oder des Schülers von §§ 3–6 dieser Promotionsbestimmungen abweichen.
+§ 7.[^3-3] In besonderen Fällen kann der Klassenkonvent zugunsten der Schülerin oder des Schülers von §§ 3–6 dieser Promotionsbestimmungen abweichen.
 
-**1**
+[^3-1]: Fassung gemäss Beschluss des Bildungsrates vom 14. März 2022 (OS 77, 278; ABl 2022-03-25). In Kraft seit 1. August 2022.
+[^3-2]: Aufgehoben durch Beschluss des Bildungsrates vom 28. September 2015 (OS 71, 5; ABl 2015-10-09). In Kraft seit 1. August 2016.
+[^3-3]: Fassung gemäss Beschluss des Bildungsrates vom 20. Juni 2011 (OS 66, 503; ABl 2011, 1929). In Kraft seit 22. August 2011.
 
-1.10. 20 - 110 § 8. <sup>1</sup> Dieses Reglement tritt auf Beginn des Schuljahres 1995/96 (21. August 1995) in Kraft. Es ersetzt das Promotionsreglement für die kantonalen Handelsmittelschulen vom 12. Oktober 1982 und gilt für Klassen, welche den Ausbildungsgang mit Berufsmaturität absolvieren.
+#### § 8
 
 **Gültigkeit**
 
+<sup>1</sup> Dieses Reglement tritt auf Beginn des Schuljahres 1995/96 (21. August 1995) in Kraft. Es ersetzt das Promotionsreglement für die kantonalen Handelsmittelschulen vom 12. Oktober 1982 und gilt für Klassen, welche den Ausbildungsgang mit Berufsmaturität absolvieren.
+
 <sup>2</sup> Für die bisherige Ausbildung mit eidgenössisch anerkanntem Diplomabschluss gilt das Promotionsreglement vom 12. Oktober 1982.
+
+**1**
+
+- 1\. 7. 22 - 117 § 9.[^8-1] Für Schülerinnen und Schüler, welche die Ausbildung vor dem Schuljahr 2011/2012 begonnen haben, gelten weiterhin §§ 2–6 des bisherigen Promotionsreglements für die kantonalen Handelsmittelschulen vom 10. Januar 1995 (siehe Anhang). Sie gelten längstens bis Ende Schuljahr 2016/2017.
 
 **Übergangsbestimmungen**
 
-§ 9.[^3-3] Für Schülerinnen und Schüler, welche die Ausbildung vor dem Schuljahr 2011/2012 begonnen haben, gelten weiterhin §§ 2–6 des bisherigen Promotionsreglements für die kantonalen Handelsmittelschulen vom 10. Januar 1995 (siehe Anhang). Sie gelten längstens bis Ende Schuljahr 2016/2017.
-
-[^3-1]: Fassung gemäss Beschluss des Bildungsrates vom 20. Juni 2011 (OS 66, 503; ABl 2011, 1929). In Kraft seit 22. August 2011.
-[^3-2]: Aufgehoben durch Beschluss des Bildungsrates vom 28. September 2015 (OS 71, 5; ABl 2015-10-09). In Kraft seit 1. August 2016.
-[^3-3]: Eingefügt durch Beschluss des Bildungsrates vom 20. Juni 2011 (OS 66, 503; ABl 2011, 1929). In Kraft seit 22. August 2011.
+[^8-1]: Eingefügt durch Beschluss des Bildungsrates vom 20. Juni 2011 (OS 66, 503; ABl 2011, 1929). In Kraft seit 22. August 2011.
 
 ### Übergangsbestimmung zur Änderung vom 5. Mai 2020 (OS 75, 359)
 
@@ -119,4 +125,4 @@ Die provisorische Promotion wird letztmals ein Jahr vor Abschluss der Ausbildung
 
 **3**
 
-1.10. 20 - 110
+- 1\. 7. 22 - 117
