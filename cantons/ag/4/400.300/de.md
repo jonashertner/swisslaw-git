@@ -4,13 +4,13 @@ number: "400.300"
 title: Regionales Schulabkommen über die gegenseitige Aufnahme von Auszubildenden und Ausrichtung von Beiträgen
 short: RSA 2009
 language: de
-version: 2021-08-01
-valid_until: 2022-07-31
-version_adopted: 2021-06-09
+version: 2022-08-01
+valid_until: 2023-07-31
+version_adopted: 2022-06-08
 adopted: 2007-11-23
 in_force: 2009-08-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/400.300"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3009/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3224/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3009/pdf_file"
 
 (RSA 2009)
 
-Vom 23.11.2007 (Stand 01.08.2021)
+Vom 23.11.2007 (Stand 01.08.2022)
 
 Zwischen den Kantonen Aargau, Basel-Landschaft, Basel-Stadt, Bern, Freiburg, Luzern, Solothurn, Wallis und Zürich, nachfolgend Abkommenskantone genannt,
 
@@ -165,7 +165,7 @@ wird folgendes Abkommen getroffen:
 
 **Kommission zum Vollzug des Abkommens**
 
-<sup>1</sup> Der Kommission zum Vollzug des Abkommens obliegen die folgendenAufgaben:
+<sup>1</sup> Der Kommission zum Vollzug des Abkommens obliegen die folgenden Aufgaben:
 
 - a) Vorschläge für die Anpassung und Weiterentwicklung des Abkommens ausarbeiten (Initialfunktion),
 - b) gegenseitiger Austausch von Erfahrungen und praktische interkantonale Kooperation bei der kantonalen Aufgabenerfüllung (Kooperationsfunktion),
