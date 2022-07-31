@@ -3,20 +3,20 @@ canton: BL
 number: "156.11"
 title: Verordnung über Schulvergütungen an den Schulen des Kantons Basel-Landschaft
 language: de
-version: 2022-01-24
-valid_until: 2022-07-31
+version: 2022-08-01
+valid_until: 2024-07-31
 version_adopted: 2021-12-07
 adopted: 2005-03-15
 in_force: 2005-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/156.11"
-pdf: "https://bl.clex.ch/api/de/versions/3154/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3157/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über Schulvergütungen an den Schulen des Kantons Basel-Landschaft
 
-Vom 15.03.2005 (Stand 24.01.2022)
+Vom 15.03.2005 (Stand 01.08.2022)
 
 Der Regierungsrat des Kantons Basel-Landschaft beschliesst:
 
@@ -37,7 +37,8 @@ Der Regierungsrat des Kantons Basel-Landschaft beschliesst:
 - c. die Stundenplanlegung der Sekundarstufen I und II;
 - d. den technischen ICT-Support (TICTS) der Sekundarstufe I;
 - e. die Betreuung in ihrer schulischen bzw. beruflichen Laufbahn gefährdeter Schülerinnen und Schüler gemäss Schulprogramm der Sekundarschule bzw. der berufsbildenden Schule mit dualem Beschulungsauftrag;
-- f. den pädagogischen ICT-Support (PICTS).
+- f. den pädagogischen ICT-Support (PICTS);
+- g. Laufbahnverantwortliche bzw. Laufbahnverantwortlicher.
 
 #### § 2
 
@@ -161,6 +162,12 @@ Der Regierungsrat des Kantons Basel-Landschaft beschliesst:
 <sup>2</sup> Für die Berufsfachschulen werden zur Berechnung der Vergütung gemäss Abs. 1 die Klassen mit dem Faktor 0,4 multipliziert.
 
 <sup>3</sup> Innerhalb der Schulart koordiniert die zuständige Dienststelle die Verteilung der pro Jahr budgetierten finanziellen Mittel auf die einzelnen Schulen.
+
+#### § 9b
+
+**Laufbahnverwantwortliche bzw. Laufbahnverantwortlicher**
+
+<sup>1</sup> Jeder Sekundarschule stehen zugunsten der Laufbahnverantwortlichen für Massnahmen zur Sicherung der Anschlüsse der Schülerinnen und Schüler an die weiterführenden Ausbildungen der Sekundarstufe II und die Vernetzung mit den Lehrstellenanbietern 2 Lektionen zur Verfügung.
 
 #### § 10
 
