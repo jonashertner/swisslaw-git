@@ -3,20 +3,20 @@ canton: BL
 number: "642.11"
 title: Verordnung für die Sekundarschule
 language: de
-version: 2021-08-01
-valid_until: 2022-07-31
-version_adopted: 2021-09-07
+version: 2022-08-01
+valid_until: 2023-07-31
+version_adopted: 2021-12-07
 adopted: 2003-05-13
 in_force: 2003-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/642.11"
-pdf: "https://bl.clex.ch/api/de/versions/3089/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3160/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung für die Sekundarschule
 
-Vom 13.05.2003 (Stand 01.08.2021)
+Vom 13.05.2003 (Stand 01.08.2022)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -148,7 +148,8 @@ beschliesst:
 - 2\. …
 - a. im Fach Sport mindestens 10 und höchstens 24 Schülerinnen und Schüler;
 - b. in der Hauswirtschaft sowie in den Fächern Textiles und Technisches Gestalten mindestens 8 und höchstens 13 Schülerinnen und Schüler;
-- c. in den Wahlpflichtfächern (ausser Textiles und Technisches Gestalten) mindestens 10 und höchstens 24 Schülerinnen und Schüler.
+- c. in den Wahlpflichtfächern (ausser Textiles und Technisches Gestalten und Leistungszug A der 3. Klasse) mindestens 10 und höchstens 24 Schülerinnen und Schüler;
+- d. in den Wahlpflichtfächern Leistungszug A der 3. Klasse besteht für Französisch und Englisch der Anspruch der Schülerinnen und Schüler auf Durchführung der Kurse. Bei 5 Schülerinnen und Schülern und weniger kann die Schulleitung bei gleichbleibenden Lernzielen eine Pensenreduktion auf jeweils 2 vornehmen.
 
 <sup>2</sup> …
 
@@ -175,8 +176,9 @@ beschliesst:
 
 <sup>1</sup> Der Schule steht pro Klasse ein Deputat an Lehrpersonenlektionen für den Unterricht einschliesslich des Wahlpflichtfachunterrichtes, des Ergänzenden Angebots sowie der Spezialfunktion für Klassenlehrpersonen zur Verfügung:
 
-- a. 1. bis 3. Klasse — 42 Lektionen;
-- b. 1. bis 3. Kleinklasse oder Mehrjahrgangskleinklasse — 38 Lektionen.
+- a. 1. bis 3. Klasse — 43 1/3 Lektionen;
+- b. 1. bis 3. Kleinklasse oder Mehrjahrgangskleinklasse — 39 Lektionen;
+- c. 3. Klasse für den Leistungszug A — zusätzlich 1 Lektion für das Wahlpflichtfach.
 
 <sup>2</sup> Das Amt für Volksschulen kann auf Antrag der Schulleitung für jeden Leistungszug A, E und P eines Jahrgangs ohne Parallelklasse 2 bis 4 Zusatzlektionen bewilligen.
 
@@ -244,6 +246,16 @@ beschliesst:
 <sup>3</sup> Stehen für den Schulweg keine öffentlichen Verkehrsmittel zur Verfügung oder ist der Anteil des Schulwegs bis zur nächstgelegenen Haltestelle des öffentlichen Verkehrs nicht zumutbar, entscheidet das Amt für Volksschulen über alternative Transportmöglichkeiten oder eine Entschädigung für diese.
 
 <sup>4</sup> Werden Erziehungsberechtigte für den Transport ihrer Kinder durch Nutzung des privaten Fahrzeugs beigezogen, beträgt die Entschädigung pro beitragsberechtigtem Kilometer CHF 0.70.
+
+#### § 13c
+
+**Ressourcierung dringlicher Massnahmen bei erschwerter Klassensituation (SOS-Lektionen)**
+
+<sup>1</sup> Zur Sicherung des Bildungserfolgs bei erschwerten Klassensituationen stehen den Schulleitungen für dringliche, zeitlich befristete Massnahmen insgesamt maximal 1/3 Lektion pro Klasse Leistungszüge A und E zur Verfügung («SOS-Lektionen»).
+
+<sup>2</sup> Die Schulleitung entscheidet über die Massnahmen im Rahmen des Schulprogramms.
+
+<sup>3</sup> Die Schulleitung berichtet dem Schulrat und dem Amt für Volksschulen per Ende Schuljahr über den Einsatz von SOS-Lektionen.
 
 ## 3 Massnahmen zur kulturellen Identität
 
