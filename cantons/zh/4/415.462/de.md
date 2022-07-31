@@ -3,10 +3,10 @@ canton: ZH
 number: "415.462"
 title: Rahmenverordnung für das Studium in den Bachelor- und Masterstudiengängen der Mathematisch-naturwissenschaftlichen Fakultät der Universität Zürich
 language: de
-nachtrag: "113"
-valid_until: 2022-08-01
+version: "2022-08-01"
+nachtrag: "117"
 adopted: 2020-08-24
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_462-2020_08_24-2021_08_01-113.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_462-2020_08_24-2021_08_01-117.html"
 text: pdf
 ---
 
@@ -61,7 +61,7 @@ Einzelheiten werden in der Studienordnung geregelt.
 
 **1**
 
-- 1\. 7. 21 - 113
+- 1\. 7. 22 - 117
 
 <sup>3</sup> Die Fakultät bietet folgenden Masterstudiengang im Umfang von 90 ECTS Credits an:
 
@@ -161,38 +161,19 @@ Für die Zulassung zu den Studiengängen ist die Verordnung über die Zulassung 
 
 **3**
 
-- 1\. 7. 21 - 113 § 12. Studentische Arbeiten können zum Zweck der Überprüfung auf Plagiate unter Einsatz entsprechender Software bearbeitet werden. Zu diesem Zweck können geeignete Dienstleister im In- oder Ausland beauftragt werden.
+- 1\. 7. 22 - 117 § 12. Studentische Arbeiten können zum Zweck der Überprüfung auf Plagiate unter Einsatz entsprechender Software bearbeitet werden. Zu diesem Zweck können geeignete Dienstleister im In- oder Ausland beauftragt werden.
 
 **Plagiatskontrolle**
 
-**Studienzeit und Gebühren**
-
-§ 13.[^11-1] <sup>1</sup> In den ersten 12 Semestern des Bachelor- wie auch des Masterstudiums sind die Studiengebühren gemäss den Bestimmungen der Verordnung über die Studiengebühren an der Universität Zürich vom 5. März 2012[^11-2] zu entrichten. Die Zählung beginnt mit dem ersten Semester nach der Immatrikulation an der UZH.
-
-<sup>2</sup> Überschreitet die oder der Studierende die Studienzeit gemäss Abs. 1 und liegt keine bewilligte Verlängerung nach § 14 vor, verdoppelt sich die Studiengebühr gemäss den Bestimmungen der Verordnung über die Studiengebühren an der Universität Zürich.
-
-<sup>3</sup> Die oder der Studierende erhält am Ende des 11. Semesters nach Immatrikulation mit dem Leistungsausweis die Aufforderung, unverzüglich mit der Studienberatung Kontakt aufzunehmen, um einen individuellen Studienplan auszuarbeiten.
-
-**Antrag auf Verlängerung**
-
-§ 14.[^11-1] <sup>1</sup> Bei Vorliegen von wichtigen Gründen kann die oder der Studierende beim Studiendekanat eine Verlängerung der Studienzeit, für welche die einfache Studiengebühr zu entrichten ist, um zwei Semester beantragen. Der Antrag ist zu begründen und innerhalb von 30 Tagen nach Erhalt des Leistungsausweises einzureichen.
-
-<sup>2</sup> Die Studiendekanin oder der Studiendekan entscheidet in der Regel innert 30 Tagen über den Antrag. Sie oder er kann weitere Nachweise anfordern oder Berichte einholen.
-
-<sup>3</sup> Wird kein Antrag eingereicht oder lehnt die Studiendekanin oder der Studiendekan den Antrag ab, verdoppelt sich die Studiengebühr gemäss den Bestimmungen der Verordnung über die Studiengebühren an der Universität Zürich.
-
-<sup>4</sup> Anträge auf Verlängerung können mehrfach gestellt werden.
-
-[^11-1]: Noch nicht in Kraft.
-[^11-2]: LS 415.321. 1. 7. 21 - 113 15
-
-#### § 15
+§§ 13 und 14.[^11-1]
 
 **Informationspflicht**
 
-<sup>1</sup> Alle studienrelevanten Informationen werden in geeigneter Weise bekannt gegeben und sind verbindlich.
+§ 15. <sup>1</sup> Alle studienrelevanten Informationen werden in geeigneter Weise bekannt gegeben und sind verbindlich.
 
 <sup>2</sup> Die Studierenden sind verpflichtet, sich über sämtliche studienrelevante Belange, insbesondere über die für sie geltenden Erlasse und Fristen, selbstständig zu informieren.
+
+[^11-1]: Aufgehoben durch URB vom 28. Februar 2022 (OS 77, 218; ABl 2022-03-18). In Kraft seit 1. August 2022.
 
 ### 2. Abschnitt: Module und ECTS Credits
 
@@ -248,10 +229,6 @@ Der Fachbereich bestimmt für sämtliche Module Modulverantwortliche, die für d
 
 <sup>3</sup> Für die Vergabe von ECTS Credits muss die oder der Studierende einen expliziten Leistungsnachweis bestehen. Die Vergabe von ECTS Credits auf Basis blosser Anwesenheit ist ausgeschlossen.
 
-**5**
-
-- 1\. 7. 21 - 113
-
 <sup>4</sup> Die dem Modul zugewiesene Anzahl von ECTS Credits wird immer vollständig vergeben, eine anteilige Vergabe ist nicht zulässig.
 
 ### 3. Abschnitt: Leistungsnachweise, endgültige Abweisung und Sperre
@@ -284,11 +261,11 @@ Der Fachbereich bestimmt für sämtliche Module Modulverantwortliche, die für d
 
 <sup>2</sup> Bei Leistungsnachweisen in Form einer mündlichen Prüfung ist eine Beisitzerin oder ein Beisitzer anwesend, die oder der über einen Studienabschluss mindestens auf Masterstufe verfügt. Es ist ein Protokoll zu führen.
 
-#### § 24
+**5**
+
+- 1\. 7. 22 - 117 § 24. <sup>1</sup> Tritt vor Beginn der Durchführung eines Leistungsnachweises ein zwingender, unvorhersehbarer und unabwendbarer Verhinderungsgrund ein oder liegt ein bewilligtes Urlaubs- oder Sistierungsgesuch vor, ist dies dem Studiendekanat mitzuteilen.
 
 **Verhinderung, Abbruch, unentschuldigtes Fernbleiben**
-
-<sup>1</sup> Tritt vor Beginn der Durchführung eines Leistungsnachweises ein zwingender, unvorhersehbarer und unabwendbarer Verhinderungsgrund ein oder liegt ein bewilligtes Urlaubs- oder Sistierungsgesuch vor, ist dies dem Studiendekanat mitzuteilen.
 
 <sup>2</sup> Tritt ein solcher Verhinderungsgrund unmittelbar vor oder während der Durchführung eines Leistungsnachweises ein, ist dies der oder dem Modulverantwortlichen mitzuteilen.
 
@@ -346,11 +323,11 @@ Der Fachbereich bestimmt für sämtliche Module Modulverantwortliche, die für d
 
 <sup>2</sup> Substitutionen sind im Rahmen des in der Studienordnung definierten Bereichs möglich.
 
-**7**
-
-- 1\. 7. 21 - 113 § 30. <sup>1</sup> Unlauteres Verhalten liegt bei der Vornahme von Betrugshandlungen oder Unredlichkeiten vor. Dazu gehören insbesondere das Mitbringen oder die Verwendung unerlaubter Hilfsmittel, die unerlaubte Kommunikation mit Dritten, das Einreichen eines Plagiats oder einer schriftlichen Prüfung oder Arbeit, die nicht selbstständig verfasst wurde.
+#### § 30
 
 **Unlauteres Verhalten**
+
+<sup>1</sup> Unlauteres Verhalten liegt bei der Vornahme von Betrugshandlungen oder Unredlichkeiten vor. Dazu gehören insbesondere das Mitbringen oder die Verwendung unerlaubter Hilfsmittel, die unerlaubte Kommunikation mit Dritten, das Einreichen eines Plagiats oder einer schriftlichen Prüfung oder Arbeit, die nicht selbstständig verfasst wurde.
 
 <sup>2</sup> Liegt unlauteres Verhalten gemäss Abs. 1 vor, erklärt die Studiendekanin oder der Studiendekan den Leistungsnachweis für nicht bestanden und einen ausgestellten Leistungsausweis für ungültig. Bereits verliehene Grade werden durch die Studiendekanin oder den Studiendekan aberkannt. Sämtliche Dokumente, die nach dem unlauteren Verhalten ausgestellt wurden, werden eingezogen.
 
@@ -371,6 +348,10 @@ Zur Sicherstellung der Geheimhaltung der Prüfungsfragen können die Herausgabe 
 <sup>1</sup> Nach Abschluss eines Semesters werden die bestandenen und nicht bestandenen Module in einem Leistungsausweis dokumentiert. Studienleistungen, die nicht an der UZH erbracht worden sind, werden gekennzeichnet.
 
 <sup>2</sup> Der Leistungsausweis wird in deutscher Sprache ausgestellt. Es wird eine englische Übersetzung abgegeben.
+
+**7**
+
+- 1\. 7. 22 - 117
 
 ### B. Endgültige Abweisung und Sperre
 
@@ -428,10 +409,6 @@ Die Bachelorstudiengänge vermitteln den Studierenden Grundlagenwissen und die F
 
 <sup>4</sup> Die Wiederholung einer ungenügenden Bachelorarbeit bzw. eines ungenügenden Bachelorportfolios richtet sich nach § 27.
 
-**9**
-
-- 1\. 7. 21 - 113
-
 <sup>5</sup> Die Studienordnung regelt die Einzelheiten, insbesondere die Ausarbeitungsmodalitäten, Betreuung, Begutachtung und die Überarbeitungsmöglichkeiten der Bachelorarbeit bzw. des Bachelorportfolios.
 
 #### § 38
@@ -469,6 +446,10 @@ Die Masterstudiengänge vermitteln den Studierenden vertiefte fachliche Kenntnis
 - Mono-Studienprogramm im Umfang von 120 ECTS Credits oder 90 ECTS Credits,
 
 - Major-Studienprogramm im Umfang von 90 ECTS Credits in Kombination mit einem Minor-Studienprogramm im Umfang von 30 ECTS Credits,
+
+**9**
+
+- 1\. 7. 22 - 117
 
 - Major-Studienprogramm im Umfang von 90 ECTS Credits in Kombination mit einer Liberal Arts Option im Umfang von 30 ECTS Credits.
 
@@ -516,13 +497,11 @@ Die Masterstudiengänge vermitteln den Studierenden vertiefte fachliche Kenntnis
 
 <sup>3</sup> Über die Anerkennung entscheidet die Studiendekanin oder der Studiendekan.
 
-**11**
-
-- 1\. 7. 21 - 113 § 45. <sup>1</sup> Anerkannte Studienleistungen sind anrechenbar, wenn
+#### § 45
 
 **Anrechnung an den Studienabschluss**
 
-- a. sie gemäss Studienordnung an ein Studienprogramm anrechenbar sind,
+<sup>1</sup> Anerkannte Studienleistungen sind anrechenbar, wenn a. sie gemäss Studienordnung an ein Studienprogramm anrechenbar sind,
 
 - b. sie äquivalent zu Studienleistungen gemäss lit. a sind.
 
@@ -549,6 +528,10 @@ Gleiche oder inhaltlich ähnliche Module bzw. Studienleistungen können nicht me
 <sup>3</sup> Wenn gemäss Abs. 2 nicht alle Module angerechnet werden können, werden bei Modulen, die im gleichen Semester absolviert wurden, die von den Studierenden bezeichneten Module an den Studienabschluss angerechnet.
 
 <sup>4</sup> Nicht angerechnete Module werden im Academic Record ausgewiesen.
+
+**11**
+
+- 1\. 7. 22 - 117
 
 ### D. Studienabschluss
 
@@ -604,11 +587,11 @@ Die Fakultät validiert die Abschlüsse. Sie kann die Validierung an die Studien
 
 Die Absolventinnen und Absolventen erhalten folgende Abschlussdokumente: die Diplomurkunde, das Diploma Supplement und den Academic Record (Abschlusszeugnis).
 
-**13**
-
-- 1\. 7. 21 - 113 § 54. <sup>1</sup> Die Diplomurkunde trägt das Siegel der Universität und der Fakultät sowie die Unterschrift der Rektorin oder des Rektors der UZH sowie der Dekanin oder des Dekans der Fakultät.
+#### § 54
 
 **Diplomurkunde**
+
+<sup>1</sup> Die Diplomurkunde trägt das Siegel der Universität und der Fakultät sowie die Unterschrift der Rektorin oder des Rektors der UZH sowie der Dekanin oder des Dekans der Fakultät.
 
 <sup>2</sup> Die Diplomurkunde weist die gewichtete Gesamtnote und, soweit vorhanden, die Studienprogrammnoten aus.
 
@@ -637,6 +620,10 @@ Das Diploma Supplement ist eine standardisierte Erläuterung des Studienabschlus
 <sup>1</sup> Leistungsausweise gemäss § 32 Abs. 1 unterliegen bezüglich der für die im letzten Semester neu ausgewiesenen Leistungen der Einsprache an die Studiendekanin oder den Studiendekan. Die Einsprache ist an das Studiendekanat innerhalb von 30 Tagen nach Empfang des Leistungsausweises schriftlich und begründet einzureichen. Der Einspracheentscheid unterliegt dem Rekurs.
 
 <sup>2</sup> Die übrigen Verfügungen gemäss dieser Rahmenverordnung unterliegen dem Rekurs.
+
+**13**
+
+- 1\. 7. 22 - 117
 
 <sup>3</sup> Für den Rekurs zuständig ist die Rekurskommission der Zürcher Hochschulen.
 
