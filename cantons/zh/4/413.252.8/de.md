@@ -3,11 +3,11 @@ canton: ZH
 number: "413.252.8"
 title: Reglement für die Maturitätsprüfungen des schweizerisch-italienischen Liceo artistico (Kunstgymnasium) Zürich
 language: de
-version: "2012-08-20"
-nachtrag: "84"
-valid_until: 2022-08-01
+version: "2022-08-01"
+nachtrag: "117"
+valid_until: 2023-08-01
 adopted: 1998-08-11
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-413_252_8-1998_08_11-1998_08_01-084.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-413_252_8-1998_08_11-1998_08_01-117.html"
 text: pdf
 ---
 
@@ -61,7 +61,7 @@ B. Massgebende Fächer
 
 **1**
 
-- 1\. 4. 14 - 84
+- 1\. 7. 22 - 117
 
 <sup>3</sup> Das Schwerpunktfach ist Bildnerisches Gestalten. Das Ergänzungsfach wird von der Schülerin bzw. vom Schüler aus dem Angebot des Liceo artistico gewählt.
 
@@ -153,9 +153,9 @@ Die Leistungen in den für die Maturität massgeblichen Fächern werden mit ganz
 
 **3**
 
-- 1\. 4. 14 - 84
+- 1\. 7. 22 - 117
 
-<sup>2</sup> Erfahrungsnote: In allen Fächern wird eine Erfahrungsnote gebildet. Sie ist entweder die Zeugnisnote des letzten Schuljahres oder das ungerundete Mittel der Zeugnisnoten der letzten beiden Semester, in denen das Fach erteilt wurde.<sup>6</sup>
+<sup>2</sup> Erfahrungsnote: In allen Maturitätsfächern wird eine Erfahrungsnote gebildet. Die Erfahrungsnote ist das ungerundete Mittel der Noten der letzten beiden Semester, in denen das Fach unterrichtet wurde. Wird ein Fach in beiden Semestern des zweitletzten oder in beiden Semestern des letzten Schuljahres vor der Maturität unterrichtet, ist die Erfahrungsnote die Note aus dem entsprechenden Jahreszeugnis.<sup>7</sup>
 
 <sup>3</sup> Die Schulleitung bezeichnet die Semester, deren Zeugnisnoten für die Erfahrungsnote zählen, entsprechend dem Lehrplan der Schule.
 
@@ -215,7 +215,7 @@ Den Schülerinnen und Schülern, die den Maturitätsanforderungen genügen, wird
 
 **5**
 
-- 1\. 4. 14 - 84
+- 1\. 7. 22 - 117
 
 - b. den Namen der Schule: Liceo artistico (Kunstgymnasium) Zürich,
 
@@ -266,7 +266,7 @@ Der Maturitätsausweis kann ausser den Noten für die massgebenden Fächer und f
 
 § 25.[^hHSchlussbestimmung-1] Für Schülerinnen und Schüler, die 2012/2013 nach nicht bestandener Maturitätsprüfung das letzte Schuljahr wiederholen, gilt mit Ausnahme von § 2 und § 14 Abs. 2 Satz 2 weiterhin das Reglement für die Maturitätsprüfungen des schweizerisch-italienischen Liceo artistico (Kunstgymnasium) Zürich in der Fassung vom 11. August 1998. § 2 (Zeitpunkt der Prüfungen) sowie § 14 Abs. 2 Satz 2 (Einbezug des Jahreszeugnisses im letzten Schuljahr in die Bildung der Erfahrungsnote) gelten für alle Schülerinnen und Schüler in der Fassung vom 30. August 2010.
 
-[^hHSchlussbestimmung-1]: Fassung gemäss Beschluss des Bildungsrates vom 30. August 2010 (OS 66, 317; ABl 2011, 631). In Kraft seit 20. August 2012. 1. 4. 14 - 84 7
+[^hHSchlussbestimmung-1]: Fassung gemäss Beschluss des Bildungsrates vom 30. August 2010 (OS 66, 317; ABl 2011, 631). In Kraft seit 20. August 2012.
 
 ### Umrechnungstabelle der Punktzahlen nach schweizerischem System
 
@@ -285,3 +285,4 @@ Punktzahl Noten in Hundertsteln nach schweizerischem System nach italienischem S
 - [1] OS 54, 825.
 - [2] Vom Erziehungsrat erlassen.
 - [74] . In Kraft seit 23. August 2010.
+- [7] Fassung gemäss Beschluss des Bildungsrates vom 14. März 2022 (OS 77, 283; ABl 2022-03-25). In Kraft seit 1. August 2022. 1. 7. 22 - 117 7
