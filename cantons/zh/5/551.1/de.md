@@ -4,11 +4,10 @@ number: "551.1"
 title: Polizeiorganisationsgesetz (POG)
 short: POG
 language: de
-version: "2022-04-01"
-nachtrag: "116"
-valid_until: 2022-08-01
+version: "2022-08-01"
+nachtrag: "119"
 adopted: 2004-11-29
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-551_1-2004_11_29-2006_01_01-116.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-551_1-2004_11_29-2006_01_01-119.html"
 text: pdf
 ---
 
@@ -56,19 +55,19 @@ Der Kanton verfügt über eine Kantonspolizei. Ihr Kommando untersteht der zust�
 
 **1**
 
-- 1\. 4. 22 - 116
+- 1\. 1. 23 - 119
 
 <sup>3</sup> Nimmt eine Gemeinde ihre polizeilichen Aufgaben nicht oder nicht umfassend wahr, erfüllt die Kantonspolizei an ihrer Stelle jene kommunalen polizeilichen Aufgaben, für die es einer polizeilichen Ausbildung bedarf. Die Gemeinden zahlen der Kantonspolizei dafür eine Entschädigung gemäss § 31.
 
 <sup>4</sup> Die Gemeinden können im Rahmen ihrer polizeilichen Aufgaben mit der zuständigen Direktion eine Vereinbarung über die von der Kantonspolizei zu erbringenden Leistungen abschliessen. Die Entschädigung für diese Leistungen darf nicht tiefer sein als die Entschädigung gemäss § 31 Abs. 1 und 2.
 
-#### § 4
-
 **Angehörige der Polizei**
 
-<sup>1</sup> Kanton und Gemeinden sorgen dafür, dass die Angehörigen ihrer Polizei über eine ihren Aufgaben entsprechende Ausbildung verfügen.
+§ 4.<sup>28</sup> <sup>1</sup> Kanton und Gemeinden sorgen dafür, dass die Angehörigen ihrer Polizei über eine ihren Aufgaben entsprechende Ausbildung verfügen.
 
-<sup>2</sup> Die Angehörigen der Polizei werden vereidigt.
+<sup>2</sup> Die Angehörigen der Polizei müssen ab Beginn der Ausbildung über das Schweizer Bürgerrecht verfügen.
+
+<sup>3</sup> Sie werden vereidigt.
 
 #### § 5
 
@@ -148,7 +147,7 @@ Die verkehrspolizeilichen Aufgaben umfassen:
 
 **3**
 
-- 1\. 4. 22 - 116
+- 1\. 1. 23 - 119
 
 <sup>2</sup> Komplexe Strafrechtsfälle sowie die von den Bundesbehörden delegierten Verfahren werden von den kriminalpolizeilichen Spezialdiensten der Kantonspolizei bearbeitet. In diesen Fällen sind die Spezialdienste Ansprechpartner der zuständigen Untersuchungsbehörden und der Bundeskriminalpolizei.
 
@@ -246,7 +245,7 @@ Gemeinden, die über eine eigene Gemeindepolizei verfügen, können mittels Vere
 
 **5**
 
-- 1\. 4. 22 - 116
+- 1\. 1. 23 - 119
 
 ### D. Die kommunalen Polizeikorps der Städte Zürich und Winterthur
 
@@ -334,7 +333,7 @@ Die Kantonspolizei und die kommunalen Polizeien unterstützen sich gegenseitig b
 
 **7**
 
-- 1\. 4. 22 - 116
+- 1\. 1. 23 - 119
 
 <sup>3</sup> Über Polizeieinsätze, an denen Kantonspolizei und kommunale Polizeien beteiligt sind, informiert die Kantonspolizei. Abweichende Absprachen bleiben vorbehalten.<sup>17</sup>
 
@@ -412,7 +411,7 @@ Das Gerichtsverfassungsgesetz vom 13. Juni 1976, in der Fassung vom 27. Januar 2
 
 **9**
 
-- 1\. 4. 22 - 116 § 38. An Stelle der Übernahme der ärztlichen Behandlungskosten durch den Staat wird den am 1. Juli 1999 aktiven Korpsangehörigen im Sinne einer befristeten und degressiven Übergangslösung ein jährlich abnehmender Betrag ausgerichtet. Im ersten Jahr werden 2000 Franken ausgerichtet. Dieser Betrag reduziert sich in jedem Folgejahr um 200 Franken. Dieser Betrag ist nicht Bestandteil der versicherten Besoldung. Der Regierungsrat regelt die Einzelheiten.
+- 1\. 1. 23 - 119 § 38. An Stelle der Übernahme der ärztlichen Behandlungskosten durch den Staat wird den am 1. Juli 1999 aktiven Korpsangehörigen im Sinne einer befristeten und degressiven Übergangslösung ein jährlich abnehmender Betrag ausgerichtet. Im ersten Jahr werden 2000 Franken ausgerichtet. Dieser Betrag reduziert sich in jedem Folgejahr um 200 Franken. Dieser Betrag ist nicht Bestandteil der versicherten Besoldung. Der Regierungsrat regelt die Einzelheiten.
 
 **Übergangsbestimmung**
 
@@ -470,6 +469,8 @@ Das Gerichtsverfassungsgesetz vom 13. Juni 1976, in der Fassung vom 27. Januar 2
 
 <sup>27</sup> Fassung gemäss G vom 4. Oktober 2021 (OS 77, 165; ABl 2021-05-14). In Kraft seit 1. April 2022.
 
+<sup>28</sup> Fassung gemäss G vom 28. Februar 2022 (OS 77, 349; ABl 2021-10-29). In Kraft seit 1. August 2022.
+
 **11**
 
-- 1\. 4. 22 - 116
+- 1\. 1. 23 - 119
