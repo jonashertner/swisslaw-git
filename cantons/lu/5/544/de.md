@@ -4,13 +4,13 @@ number: "544"
 title: "Verordnung über die Schul- und Studiengelder sowie die Gebühren an kantonalen Schulen, privaten Berufsfachschulen und den Hochschulen des Kantons Luzern"
 short: Schulgeldverordnung
 language: de
-version: 2021-08-01
-valid_until: 2022-07-31
-version_adopted: 2020-04-07
+version: 2022-08-01
+valid_until: 2023-07-31
+version_adopted: 2022-03-29
 adopted: 2015-03-03
 in_force: 2015-07-01
 url: "https://srl.lu.ch/app/de/texts_of_law/544"
-pdf: "https://srl.lu.ch/api/de/versions/3779/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3947/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3779/pdf_file"
 
 (Schulgeldverordnung)
 
-vom 03.03.2015 (Stand 01.08.2021)
+vom 03.03.2015 (Stand 01.08.2022)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -83,14 +83,14 @@ beschliesst:
 
 <sup>3</sup> Es werden pro Semester folgende Studiengebühren erhoben:
 
-- a. Studierende mit Wohnsitz im Kanton Luzern oder in einem Vereinbarungskanton (Studierende, welche nur noch eine Bachelor- oder Masterarbeit abgeben oder Abschlussprüfungen wiederholen müssen, ohne Module zu besuchen: Fr. 340.–). — Fr. 695.–
+- a. Studierende mit Wohnsitz im Kanton Luzern oder in einem Vereinbarungskanton (Studierende, welche nur noch eine Projektarbeit Fachdidaktik oder eine Bachelor- oder Masterarbeit abgeben oder Abschlussprüfungen wiederholen müssen, ohne Module zu besuchen: Fr. 340.–). — Fr. 695.–
 - a.<sup>bis</sup> Gaststudierenden, die den Unterricht ausserhalb eines Austauschprogramms besuchen, wird nebst der allgemeinen Anmeldegebühr eine Gebühr von 150 Franken pro ECTS-Punkt auferlegt.
 - b. Den übrigen Studierenden oder solchen, welche ein Drittstudium absolvieren, wird nebst der allgemeinen Studiengebühr eine Gebühr auferlegt, welche dem Beitrag der Vereinbarungskantone entspricht.
 - c. Instrumental- oder Gesangsunterricht pro Lektion von 45 Minuten (bei anderer Lektionsdauer im Verhältnis; exkl. allfällige Instrumentenmiete):
   - 1\. obligatorischer Instrumental- oder Gesangsunterricht — unentgeltlich
   - 2\. freiwilliger Instrumental- oder Gesangsunterricht im Einzelunterricht (in begründeten Ausnahmefällen) — Fr. 900.–
   - 3\. freiwilliger Instrumental- oder Gesangsunterricht im Gruppenunterricht — Fr. 450.–
-- c.<sup>bis</sup> Freiwilliger Sprachkurs Niveau B2 — Fr. 250.–
+- c.<sup>bis</sup> Freiwilliger Sprachkurs Niveau B2 — Fr. 200.–
 - d. Gebühren für Diplomerweiterungsstudien:
   - 1\. Studierende der Primar- oder der Sekundarstufe mit Wohnsitz im Kanton Luzern oder in einem Vereinbarungskanton — Fr. 650.–
   - 2\. Den übrigen Studierenden der Primar- oder der Sekundarstufe wird nebst der allgemeinen Studiengebühr eine Gebühr auferlegt, welche dem Beitrag der Vereinbarungskantone entspricht.
