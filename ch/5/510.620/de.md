@@ -4,11 +4,11 @@ title: "Verordnung vom 21. Mai 2008 über Geoinformation (Geoinformationsverordn
 short: GeoIV
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/389"
 language: de
-version: 2021-07-01
+version: 2022-08-01
 adopted: 2008-05-21
 in_force: 2008-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/389/20210701/de/xml/fedlex-data-admin-ch-eli-cc-2008-389-20210701-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/389/20210701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/389/20220801/de/xml/fedlex-data-admin-ch-eli-cc-2008-389-20220801-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/389/20220801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/389/20210701/de"
 
 (Geoinformationsverordnung, GeoIV)
 
-vom 21. Mai 2008 (Stand am 1. Juli 2021)
+vom 21. Mai 2008 (Stand am 1. August 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -626,14 +626,14 @@ Pauschalgebühren werden erhoben für:
 - b.[^46-2] die Nutzung besonderer Dienste und Leistungen;
 - c. Software;
 - d. Berichte und Studien;
-- e. und f.[^46-3] ...
+- e. und f.[^46-3] …
 - g. Änderungen von Einwilligungen und Lizenzen;
 - h. das Verfahren der nachträglichen Einwilligung (Art. 27);
 - i. die Verfügung der Vernichtung oder Einziehung (Art. 33).
 
 <sup>2</sup> Zusätzlich zur Pauschalgebühr können die Bereitstellungskosten und die Transportkosten erhoben werden.[^46-4]
 
-<sup>3</sup> ...[^46-5]
+<sup>3</sup> …[^46-5]
 
 [^46-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 6189](https://fedlex.data.admin.ch/eli/oc/2009/759)).
 [^46-2]: Fassung gemäss Ziff. I der V vom 3. April 2020, in Kraft seit 1. März 2021 ([AS 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
@@ -767,7 +767,7 @@ Anhang 1[^t-1]
 
 ## Katalog der Geobasisdaten des Bundesrechts
 
-[^t-1]: Fassung gemäss Ziff. II der V vom 28. März 2012 ([AS 2012 1791](https://fedlex.data.admin.ch/eli/oc/2012/254)). Bereinigt gemäss Ziff. II 2 der V vom 27. Juni 2012 ([AS 2012 3683](https://fedlex.data.admin.ch/eli/oc/2012/422)[4169](https://fedlex.data.admin.ch/eli/oc/2012/489)), Art. 30 Ziff. 2 der V vom 23. Okt. 2013 über Informationssysteme im Bereich der Landwirtschaft ([AS 2013 4009](https://fedlex.data.admin.ch/eli/oc/2013/733)), Anhang Ziff. II 2 der V vom 29. Okt. 2014 über den Schutz der Kulturgüter bei bewaffneten Konfikten, bei Katastrophen und in Notlagen ([AS 2014 3555](https://fedlex.data.admin.ch/eli/oc/2014/616)), Ziff. III der V vom 28. Okt. 2015 ([AS 2015 4581](https://fedlex.data.admin.ch/eli/oc/2015/772)), Anhang 6 Ziff. 1 der Abfallverordnung vom 4. Dez. 2015 ([AS 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), Anhang Ziffer II 1 der V vom 17. Aug. 2016 ([AS 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)), Anhang 2 Ziff. II 3 der V vom 9. Juni über das eidgenössische Gebäude- und Wohnungsregister ([AS 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)), Ziff. II der V vom 15. Nov. 2017 ([AS 2017 6653](https://fedlex.data.admin.ch/eli/oc/2017/739)), Anhang 8 Ziff. 2 der Pflanzengesundheitsverordnung vom 31. Okt. 2018 ([AS 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)), Ziff. I der V vom 3. April 2019 ([AS 2019 1343](https://fedlex.data.admin.ch/eli/oc/2019/262)), vom 16. Okt. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3231](https://fedlex.data.admin.ch/eli/oc/2019/595)), Ziff. III der V vom 17. Okt. 2018 ([AS 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611), [2020 145](https://fedlex.data.admin.ch/eli/oc/2020/25)), Ziff. I der V vom 25. Nov. 2020 ([AS 2020 6013](https://fedlex.data.admin.ch/eli/oc/2020/1004)) und Anhang 2 Ziff. 1 der Rohrleitungssicherheitsverordnung vom 4. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 348](https://fedlex.data.admin.ch/eli/oc/2021/348)).
+[^t-1]: Fassung gemäss Ziff. II der V vom 28. März 2012 ([AS 2012 1791](https://fedlex.data.admin.ch/eli/oc/2012/254)). Bereinigt gemäss Ziff. II 2 der V vom 27. Juni 2012 ([AS 2012 3683](https://fedlex.data.admin.ch/eli/oc/2012/422)[4169](https://fedlex.data.admin.ch/eli/oc/2012/489)), Art. 30 Ziff. 2 der V vom 23. Okt. 2013 über Informationssysteme im Bereich der Landwirtschaft ([AS 2013 4009](https://fedlex.data.admin.ch/eli/oc/2013/733)), Anhang Ziff. II 2 der V vom 29. Okt. 2014 über den Schutz der Kulturgüter bei bewaffneten Konfikten, bei Katastrophen und in Notlagen ([AS 2014 3555](https://fedlex.data.admin.ch/eli/oc/2014/616)), Ziff. III der V vom 28. Okt. 2015 ([AS 2015 4581](https://fedlex.data.admin.ch/eli/oc/2015/772)), Anhang 6 Ziff. 1 der Abfallverordnung vom 4. Dez. 2015 ([AS 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), Anhang Ziffer II 1 der V vom 17. Aug. 2016 ([AS 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)), Anhang 2 Ziff. II 3 der V vom 9. Juni über das eidgenössische Gebäude- und Wohnungsregister ([AS 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)), Ziff. II der V vom 15. Nov. 2017 ([AS 2017 6653](https://fedlex.data.admin.ch/eli/oc/2017/739)), Anhang 8 Ziff. 2 der Pflanzengesundheitsverordnung vom 31. Okt. 2018 ([AS 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)), Ziff. I der V vom 3. April 2019 ([AS 2019 1343](https://fedlex.data.admin.ch/eli/oc/2019/262)), vom 16. Okt. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3231](https://fedlex.data.admin.ch/eli/oc/2019/595)), Ziff. III der V vom 17. Okt. 2018 ([AS 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611), [2020 145](https://fedlex.data.admin.ch/eli/oc/2020/25)), Ziff. I der V vom 25. Nov. 2020 ([AS 2020 6013](https://fedlex.data.admin.ch/eli/oc/2020/1004)), Anhang 2 Ziff. 1 der Rohrleitungssicherheitsverordnung vom 4. Juni 2021 ([AS 2021 348](https://fedlex.data.admin.ch/eli/oc/2021/348)) und Ziff. I der V vom 22. Juni 2022, in Kraft seit 1. Aug. 2022 ([AS 2022 395](https://fedlex.data.admin.ch/eli/oc/2022/395)).
 
 <table>
 <tr><th>Bezeichnung</th><th colspan="2">Rechtsgrundlage</th><th colspan="2">Zuständige Stelle (SR *510.62* Art. 8 Abs. 1) [Fachstelle des Bundes]</th><th colspan="2">Georeferenzdaten</th><th>ÖREB Kataster</th><th colspan="2">Zugangsberechtigungsstufe</th><th>Download-Dienst</th><th>Identifikator</th></tr>
@@ -849,7 +849,7 @@ Anhang 1[^t-1]
 <tr><td>Schutz vor Naturereignissen (weitere Erhebungen)</td><td colspan="2">SR *721.100* Art. 14 SR *721.100.1* Art. 24, 27 Abs. 1 Bst. a, d und f SR *921.0* Art. 36 SR *921.01* Art. 15 Abs. 1 Bst. a, Art. 16 Abs. 1</td><td colspan="2">Kantone [BAFU]</td><td colspan="2"></td><td></td><td colspan="2">A</td><td></td><td>81</td></tr>
 <tr><td>Übersicht Wasserkraftanlagen (WASTA)</td><td colspan="2">SR *721.80* Art. 29*a*</td><td colspan="2">BFE</td><td colspan="2"></td><td></td><td colspan="2">A</td><td>X</td><td>82</td></tr>
 <tr><td>VAEW-Gebiete</td><td colspan="2">SR *721.821* Art. 5</td><td colspan="2">BFE</td><td colspan="2"></td><td></td><td colspan="2">A</td><td>X</td><td>85</td></tr>
-<tr><td>Nationalstrassen</td><td colspan="2">SR *725.11* Art. 11 SR *725.113.11* Anhang</td><td colspan="2">ASTRA</td><td colspan="2">X</td><td></td><td colspan="2">A</td><td>X</td><td>86</td></tr>
+<tr><td>Nationalstrassen</td><td colspan="2">SR *725.11* Art. 11 BBl *2017* 7807 Anhang</td><td colspan="2">ASTRA</td><td colspan="2">X</td><td></td><td colspan="2">A</td><td>X</td><td>86</td></tr>
 <tr><td>Projektierungszonen Nationalstrassen</td><td colspan="2">SR *725.11* Art. 14</td><td colspan="2">ASTRA</td><td colspan="2"></td><td>X</td><td colspan="2">A</td><td>X</td><td>87</td></tr>
 <tr><td>Baulinien Nationalstrassen</td><td colspan="2">SR *725.11* Art. 22</td><td colspan="2">ASTRA</td><td colspan="2"></td><td>X</td><td colspan="2">A</td><td>X</td><td>88</td></tr>
 <tr><td>Hauptstrassennetz</td><td colspan="2">SR *725.116.21* Art. 16, Anhang 2</td><td colspan="2">ASTRA</td><td colspan="2">X</td><td></td><td colspan="2">A</td><td></td><td>90</td></tr>
@@ -977,6 +977,7 @@ Anhang 1[^t-1]
 <tr><td colspan="2">Rohrleitungsanlagen: Schutzbereiche</td><td colspan="2">SR *746.12* Art. 44</td><td colspan="2">Werksbetreiber [BFE]</td><td></td><td colspan="2"></td><td>A</td><td>X</td><td>223</td></tr>
 <tr><td colspan="2">Lage und Schutzbereiche von Rohrleitungsanlagen im Bereich militärische Anlagen</td><td colspan="2">SR *746.12* Art. 44, 45</td><td colspan="2">VBS [BFE]</td><td></td><td colspan="2"></td><td>B</td><td></td><td>224</td></tr>
 <tr><td colspan="2">Lage und Schutzbereiche von Rohrleitungsanlagen im Bereich geschützte militärische Anlagen im Sinne des Bundesgesetzes über den Schutz militärischer Anlagen</td><td colspan="2">SR *510.518* Art. 1 SR *746.12* Art. 44, 45</td><td colspan="2">VBS [BFE]</td><td></td><td colspan="2"></td><td>C</td><td></td><td>225</td></tr>
+<tr><td colspan="2">Sachplan Verkehr Teil unterirdischer Gütertransport</td><td colspan="2">SR *749.1* Art. 7 SR *700.1* Art. 14 ff.</td><td colspan="2">BAV [ARE]</td><td></td><td colspan="2"></td><td>A</td><td>X</td><td>226</td></tr>
 </table>
 
 [^annex1-lvlu1-1]: [[AS 1999 689](https://fedlex.data.admin.ch/eli/oc/1999/101); [2009 5981](https://fedlex.data.admin.ch/eli/oc/2009/732)Art. 26 Bst. c].
@@ -993,6 +994,6 @@ Anhang 2
 
 Die nachstehenden Verordnungen werden wie folgt geändert:
 
-...[^annex2-lvlu1-1]
+…[^annex2-lvlu1-1]
 
 [^annex2-lvlu1-1]: Die Änderungen können unter [AS 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)konsultiert werden.
