@@ -3,20 +3,20 @@ canton: SG
 number: "216.14"
 title: Studienordnung der Pädagogischen Hochschule St.Gallen
 language: de
-version: 2020-06-01
-valid_until: 2022-07-31
-version_adopted: 2020-06-24
+version: 2022-08-01
+valid_until: 2023-08-31
+version_adopted: 2021-12-09
 adopted: 2008-04-11
 in_force: 2007-09-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/216.14"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2995/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3316/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Studienordnung der Pädagogischen Hochschule St.Gallen
 
-vom 11.04.2008 (Stand 01.06.2020)
+vom 11.04.2008 (Stand 01.08.2022)
 
 Der Rat der Pädagogischen Hochschule des Kantons St.Gallen
 
@@ -58,11 +58,13 @@ als Studienordnung:[^ingress-2]
 
 **b) zur Lehrperson der Berufsbildung**
 
-<sup>1</sup> Die PHSG bietet folgende Studiengänge zur Lehrperson der Berufsbildung an:
+<sup>1</sup> Die PHSG kann folgende Studiengänge zur Lehrperson der Berufsbildung anbieten:
 
 - a) Studiengang zur Lehrperson für allgemeinbildenden Unterricht;
 - b) Studiengang zur Lehrperson für berufskundlichen Unterricht;
-- c) Studiengang zur Lehrperson an höheren Fachschulen.
+- c) Studiengang zur Lehrperson an höheren Fachschulen;
+- d) Studiengang für Berufsbildnerinnen und Berufsbildner in überbetrieblichen Kursen und Lehrwerkstätten im Hauptberuf;
+- e) Studiengang zur Lehrperson für Sportunterricht in der beruflichen Grundbildung.
 
 #### Art. 2ter
 
