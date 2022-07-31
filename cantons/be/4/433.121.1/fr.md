@@ -4,13 +4,13 @@ number: "433.121.1"
 title: Ordonnance de Direction sur les écoles moyennes
 short: ODEM
 language: fr
-version: 2021-08-01
-valid_until: 2022-07-31
-version_adopted: 2021-07-06
+version: 2022-08-01
+valid_until: 2023-07-31
+version_adopted: 2022-06-22
 adopted: 2017-06-16
 in_force: 2017-08-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/433.121.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2340/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2632/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2340/pdf_file"
 
 (ODEM)
 
-du 16.06.2017 (état au 01.08.2021)
+du 16.06.2017 (état au 01.08.2022)
 
 La Direction de l’instruction publique du canton de Berne,
 
@@ -184,13 +184,19 @@ arrête:
 
 <sup>1</sup> Les admissions ordinaires aux filières pluriannuelles ont lieu au début de la formation et au début de l’avant-dernière année de la formation. Dans la partie francophone du canton, elles ont également lieu au début de la deuxième année s’agissant de la formation gymnasiale.
 
+<sup>1a</sup> En cas de changement de région linguistique, les règles suivantes s'appliquent:
+
+- a une ou un élève promu à la fin de la première année de la formation gymnasiale dans la partie germanophone du canton peut passer en deuxième année de la formation gymnasiale dans la partie francophone du canton;
+- b une ou un élève admis par voie de décision en deuxième année de la formation gymnasiale dans la partie francophone du canton peut être admis en première année de la formation gymnasiale dans la partie germanophone du canton;
+- c une ou un élève admis par voie de décision à la filière de formation en école de culture générale (filière ECG) dans l’une des deux régions linguistiques du canton peut être admis dans la filière ECG de l’autre région linguistique.
+
 <sup>2</sup> Les admissions aux formations spécifiquement axées sur les besoins des adultes ont lieu conformément à l’article 49.
 
 <sup>3</sup> Les admissions aux autres filières ont lieu au début de la formation.
 
 <sup>4</sup> Les décisions d’admission ne sont valables que pour la prochaine date d’admission possible.
 
-<sup>5</sup> Peuvent se présenter à la procédure d’admission pour la filière gymnasiale et la filière d’école de culture générale (filière ECG) les candidats et les candidates
+<sup>5</sup> Peuvent se présenter à la procédure d’admission pour la filière gymnasiale et la filière ECG les candidates et les candidats
 
 - a qui n’ont pas eu 17 ans avant le 1<sup>er</sup> mai de l’année durant laquelle ils veulent intégrer la première année de la formation gymnasiale dans la partie germanophone du canton;
 - b qui n’ont pas eu 18 ans avant le 1<sup>er</sup> mai de l’année durant laquelle ils veulent intégrer la filière ECG ou, dans la partie francophone du canton, la deuxième année de la formation gymnasiale;
@@ -209,6 +215,8 @@ arrête:
 - a si de justes motifs personnels tels qu’un changement de domicile rendent un changement d’école nécessaire;
 - b si les conditions de la fréquentation d’une filière soutenant des talents particuliers ne sont plus réunies ou
 - c si l’encouragement d’un talent particulier nouvellement attesté rend nécessaire le changement d’école.
+
+<sup>1a</sup> Le changement d'école dans les situations prévues à l'alinéa 1, lettres b et c doit avoir lieu au début de l'année scolaire.
 
 <sup>2</sup> Les décisions d’admission d’autres cantons sont reconnues. Si l’élève est issu d’un gymnase dont le certificat de maturité est reconnu sur le plan suisse ou d’une école de culture générale dont le certificat d’école de culture générale est reconnu sur le plan suisse, la décision de promotion de l’école dont l’élève est issu est reprise.
 
@@ -248,7 +256,9 @@ arrête:
 
 **Statut d'auditeur ou d'auditrice**
 
-<sup>1</sup> Dans des cas particuliers, notamment lorsqu’un ou une élève ne dispose pas des compétences linguistiques suffisantes pour suivre correctement l’enseignement, le statut d’auditeur ou d’auditrice peut lui être accordé dans une filière pluriannuelle. Ce statut est en règle générale accordé jusqu’à la fin de l’année scolaire en cours.
+<sup>1</sup> Dans des cas particuliers, le statut d’auditeur ou d’auditrice​ dans une filière pluriannuelle peut être accordé à un ou une élève récemment arrivée. C’est en particulier le cas lorsqu’il peut être présumé, justificatif à l’appui, que l’élève peut satisfaire aux exigences de la filière de formation, mais ne dispose pas des compétences linguistiques suffisantes pour suivre correctement l’enseignement​.
+
+<sup>1a</sup> Le statut d'auditeur ou d'auditrice est en règle générale accordé jusqu'à la fin de l'année scolaire en cours.
 
 <sup>2</sup> Après la moitié de la durée en question, l’élève et ses parents sont informés du niveau des prestations atteint.
 
@@ -265,6 +275,11 @@ arrête:
 <sup>1</sup> La direction d’école peut autoriser à des élèves invités la fréquentation d’une filière pluriannuelle pendant un an au maximum.
 
 <sup>2</sup> Ils reçoivent une attestation de fréquentation des cours. S’ils le désirent, un rapport portant sur leurs prestations peut leur être délivré.
+
+<sup>3</sup> Après l’année d'échange, une ou un élève invité qui a fréquenté auparavant une école délivrant un titre de maturité reconnu sur le plan suisse peut
+
+- a être admis définitivement si les dispositions régissant la promotion sont remplies;
+- b être admis provisoirement si les dispositions régissant la promotion ne sont pas remplies.
 
 ### 1.6 Promotions
 
@@ -323,14 +338,14 @@ arrête:
 - c dans la formation gymnasiale, en sport, la mention éventuelle «dispensé», si une dispense est nécessaire pour des raisons médicales ou si une dispense a été délivrée dans le cadre de l’encouragement des talents particuliers;
 - d les notes de bulletin ou l’attestation de la fréquentation d’autres cours obligatoires et de disciplines facultatives, complétés éventuellement de la mention «au niveau d’exigences de la discipline comptant pour la promotion»;
 - e la mention «bulletin suffisant» ou «bulletin insuffisant» en fonction de l’évaluation globale des prestations et la décision de promotion prononcée conformément à l’article 18;
-- f le nombre d’absences excusées et non excusées conformément aux articles 131 à 133, à l’exception des filières de formation qui sont spécifiquement axées sur les besoins des adultes;
+- f le nombre d'absences excusées et non excusées conformément aux articles 130 et 131, à l'exception des filières de formation qui sont spécifiquement axées sur les besoins des adultes;
 - g une indication des voies de droit et
 - h les signatures de la direction d’école en tant qu’autorité décisionnaire et du maître ou de la maîtresse de classe.
 
 <sup>3</sup> Le bulletin peut également contenir:
 
 - a les notes des branches,
-- b des remarques relatives à l’attitude face au travail et à l’apprentissage,
+- b des remarques relatives aux compétences méthodologiques et personnelles,
 - c la mention correspondante en cas de maturité bilingue, avec indication de la langue d’immersion et des disciplines enseignées en immersion,
 - d une mention spécifique en cas de fréquentation d’un programme d’encouragement de talents particuliers.
 
@@ -350,7 +365,7 @@ arrête:
 
 <sup>4</sup> L’évaluation formative porte au minimum sur les disciplines dans lesquelles l’élève a obtenu des notes insuffisantes jusque-là.
 
-<sup>5</sup> Dans les filières ECG, l’évaluation formative porte en outre sur l’attitude face au travail et à l’apprentissage.
+<sup>5</sup> Dans les filières ECG, l'évaluation formative peut en outre porter sur les compétences méthodologiques et personnelles.
 
 #### Art. 22
 
@@ -376,7 +391,7 @@ arrête:
 
 <sup>2</sup> Les parents inscrivent leur enfant auprès de la direction de l’école dont il provient au moyen d’un formulaire spécifique à remettre au plus tard début décembre.
 
-<sup>3</sup> Les parents des élèves qui ne fréquentent pas une école publique ou qui n’ont pas pris part à la procédure de recommandation d’une école publique inscrivent leur enfant à l’examen d’admission directement auprès du gymnase compétent au moyen d’un formulaire spécifique à remettre au plus tard mi-février.
+<sup>3</sup> Les parents des élèves qui n'ont pas pris part à la procédure de recommandation d'une école publique peuvent inscrire leur enfant à l’examen d'admission directement auprès du gymnase compétent au moyen d'un formulaire spécifique à remettre au plus tard mi-février.
 
 #### Art. 24
 
@@ -450,47 +465,56 @@ arrête:
 
 <sup>1</sup> Les admissions en deuxième année de la formation gymnasiale des élèves de troisième année du degré secondaire I d’une école publique du canton de Berne ont lieu sur la base d’une évaluation de l’autorité compétente de l’école dont ils proviennent ou d’un examen d’admission.
 
-<sup>2</sup> Pour intégrer la deuxième année d’une formation gymnasiale, l’élève doit avoir préalablement suivi l’enseignement en «section préparant aux écoles de maturité (section p)» ou avoir réussi un examen d’admission.
+<sup>2</sup> …
 
-<sup>3</sup> Les parents inscrivent leur enfant auprès de la direction de l’école dont il provient au moyen d’un formulaire spécifique à remettre au plus tard fin janvier.
+<sup>3</sup> Les parents inscrivent leur enfant auprès de la direction de l'école dont il provient au moyen d'un formulaire spécifique à remettre au plus tard début décembre.
 
 #### Art. 31
 
-**Evaluation**
-
-<sup>1</sup> L’évaluation de l’élève en troisième année du degré secondaire I d’une école publique dans la perspective de son admission en deuxième année de la formation gymnasiale repose sur
-
-- a ses compétences en français, allemand et mathématiques,
-- b ses compétences dans les autres disciplines,
-- c son attitude face au travail et à l’apprentissage.
+**…**
 
 #### Art. 32
 
 **Admission sans examen, inscription à l’examen d’admission**
 
-<sup>1</sup> Est admis sans examen en deuxième année de la formation gymnasiale l’élève de la «section préparant aux écoles de maturité (section p)» qui, à la fin du premier semestre de la troisième année du degré secondaire I,
+<sup>1</sup> Est admise ou admis sans examen l'élève qui, à la fin du premier semestre de la troisième année du degré secondaire I, est affectée ou affecté à la «section préparant aux écoles de maturité (section p)» et qui satisfait aux exigences ci-après.
 
-- a satisfait aux exigences suivantes en français, en allemand et en mathématiques: trois niveaux A (dont au moins une note supérieure ou égale à 5 si aucune des autres notes n’est insuffisante, mais avec deux notes supérieures ou égales à 5 si la troisième est insuffisante) ou deux niveaux A (note supérieure ou égale à 5 pour chacun) et un niveau B (avec une note suffisante);
-- b obtient une note supérieure ou égale à 4,5 dans la majorité des autres disciplines obligatoires et
-- c n’obtient pas plus d’une note inférieure à 4 dans les autres disciplines obligatoires.
+<sup>1a</sup> L'élève doit
 
-<sup>2</sup> L’élève est admis pour une période probatoire d’un semestre. L’article 33 est réservé.
+- a se voir attribuer le niveau A en français, en allemand et en mathématiques et
+  - 1\. obtenir la note 5 ou plus dans au moins deux disciplines ou
+  - 2\. obtenir la note 5 ou plus dans au moins une discipline et n’obtenir aucune note inférieure à 4 dans les deux autres disciplines soit
+- b se voir attribuer le niveau A dans deux disciplines parmi le français, l'allemand et les mathématiques et le niveau B dans la troisième discipline, la note des deux disciplines de niveau A devant être de 5 ou plus et la note de la troisième discipline ne devant pas être inférieure à 4.
 
-<sup>3</sup> Si l’élève ne peut être admis sans examen, la direction de l’école dont il provient, à la demande des parents, inscrit celui-ci jusqu’à mi-février à l’examen d’admission auprès du Gymnase français de Bienne.
+<sup>1b</sup> L'attribution des niveaux et l'évaluation des compétences disciplinaires s'appuient sur les critères de l'ODED.
+
+<sup>1c</sup> L'évaluation des compétences disciplinaires se fonde sur les performances du semestre précédent.
+
+<sup>2</sup> L’élève est admise ou admis pour une période probatoire d’un semestre. L’article 33 est réservé.
+
+<sup>2a</sup> La direction de l'école du degré secondaire I statue par voie de décision sur l'admission sans examen.
+
+<sup>3</sup> Si l'élève ne peut être admise ou admis sans examen, la direction de l'école dont elle ou il provient, à la demande des parents, inscrit celle-ci ou celui-ci jusqu'à mi-février à l'examen d'admission auprès du gymnase compétent.
 
 #### Art. 33
 
 **Admission définitive**
 
-<sup>1</sup> L’élève admis en vertu de l’article 32, alinéas 1 et 2 est définitivement admis en deuxième année de la formation gymnasiale si, à la fin du deuxième semestre de la troisième année du degré secondaire I, il ou elle satisfait aux exigences mentionnées à l’article 32, alinéa 1.
+<sup>1</sup> L'élève de la «section préparant aux écoles de maturité (section p)» admise ou admis en vertu de l’article 32, alinéas 1 et 2 est définitivement admise ou admis en deuxième année de la formation gymnasiale si, à la fin du deuxième semestre de la troisième année du degré secondaire I,
+
+- a ses prestations en français, allemand et mathématiques satisfont aux exigences mentionnées à l’article 32, alinéa 1a;
+- b l'élève obtient une note supérieure ou égale à 4,5 dans la majorité des autres disciplines obligatoires et
+- c l'élève n'obtient pas plus d’une note inférieure à 4 dans les autres disciplines obligatoires.
+
+<sup>2</sup> Les dispositions ordinaires relatives à la promotion s'appliquent.
 
 #### Art. 34
 
-**Dossier d’information**
+**Examen d'admission**
 
-<sup>1</sup> A la fin du premier semestre de la troisième année du degré secondaire I, l’école publique constitue, pour chaque élève inscrit, un dossier d’information à l’intention de la direction d’école du gymnase compétent.
+<sup>1</sup> L'examen d’admission est régi par l’article 35.
 
-<sup>2</sup> Ce dossier comporte le formulaire d’inscription, les rapports d’évaluation du deuxième semestre de la deuxième année du degré secondaire I et du premier semestre de la troisième année du degré secondaire I; pour les élèves inscrits à l’examen d’admission, il comporte en plus la recommandation de la direction d’école établie conformément à l’annexe 4.
+<sup>2</sup> …
 
 ### 2.1.5 Autres formes d’admission en deuxième année de la formation gymnasiale dans la partie francophone du canton
 
@@ -498,21 +522,27 @@ arrête:
 
 **Examen d’admission**
 
-<sup>1</sup> Les élèves qui ne fréquentent pas la troisième année du degré secondaire I dans une école publique s’inscrivent à l’examen d’admission au Gymnase français de Bienne au plus tard mi-février.
+<sup>1</sup> Les élèves qui ne fréquentent pas la «section préparant aux écoles de maturité (section p)» du degré secondaire I dans une école publique s'inscrivent à l'examen d'admission auprès du gymnase compétent au plus tard mi-février.
 
 <sup>2</sup> L’examen d’admission a lieu avant fin mars dans la région de Bienne-Jura bernois.
 
 <sup>3</sup> Les dispositions relatives à la procédure d’examen figurent à l’annexe 4.
 
-<sup>4</sup> La direction de l’école faisant passer l’examen d’admission statue sur l’admission par voie de décision et notifie cette dernière aux parents.
+<sup>4</sup> Sur la base du résultat obtenu à l’examen d'admission, la direction du gymnase faisant passer l'examen statue sur l’admission par voie de décision.
 
-<sup>5</sup> L’élève admis sur examen en deuxième année de la formation gymnasiale est admis pour une période probatoire d’un semestre.
+<sup>5</sup> L'élève admise ou admis sur examen en deuxième année de la formation gymnasiale est admise ou admis pour une période probatoire d’un semestre. L'article 36 est réservé.
 
 #### Art. 36
 
 **Période probatoire et admission définitive**
 
-<sup>1</sup> Les dispositions ordinaires relatives à la promotion s’appliquent aux élèves admis de manière définitive en deuxième année de la formation gymnasiale en vertu de l’article 33.
+<sup>1</sup> L'élève de la «section préparant aux écoles de maturité (section p)» admise ou admis à la formation gymnasiale est définitivement admise ou admis en deuxième année de la formation gymnasiale si, à la fin de la troisième année du degré secondaire I,
+
+- a ses prestations en français, allemand et mathématiques satisfont aux exigences mentionnées à l’article 32, alinéa 1a;
+- b l'élève obtient une note supérieure ou égale à 4,5 dans la majorité des autres disciplines obligatoires et
+- c l'élève n'obtient pas plus d’une note inférieure à 4 dans les autres disciplines obligatoires.
+
+<sup>1a</sup> Les dispositions ordinaires relatives à la promotion s'appliquent.
 
 <sup>2</sup> Les élèves admis en deuxième année de la formation gymnasiale pour une période probatoire sont informés du niveau de prestations atteint après la moitié du premier semestre. Les élèves dont l’évaluation globale des prestations est insuffisante à la fin de la période probatoire doivent quitter la filière.
 
@@ -542,7 +572,7 @@ arrête:
 - b se voir attribuer le niveau A en français, en allemand et en mathématiques et
   - 1\. obtenir la note 5 ou plus dans au moins deux disciplines ou
   - 2\. obtenir la note 5 ou plus dans au moins une discipline et n’obtenir aucune note inférieure à 4 dans les deux autres disciplines, soit
-- c se voir attribuer le niveau A dans deux disciplines parmi le français, l’allemand et les mathématiques, obtenir la note 5 ou plus dans ces deux disciplines et obtenir une note qui n’est pas inférieure à 4 dans la troisième discipline.
+- c se voir attribuer le niveau A dans deux disciplines parmi le français, l’allemand et les mathématiques et le niveau B dans la troisième discipline, la note des deux disciplines de niveau A devant être de 5 ou plus et la note de la troisième discipline ne devant pas être inférieure à 4.
 
 <sup>1b</sup> L’attribution des niveaux et l’évaluation des compétences disciplinaires s’appuient sur les critères de l’ODED.
 
@@ -668,9 +698,19 @@ arrête:
 
 <sup>1</sup> Les admissions peuvent avoir lieu au début de chacun des quatre premiers semestres de la formation.
 
-<sup>2</sup> Les admissions au début du premier semestre ont lieu sans examen. Les admissions au début du deuxième et du troisième semestres ont lieu sur examen. Les dispositions relatives à la procédure d’examen figurent aux annexes 6a et 6b.
+<sup>2</sup> Les admissions au début du premier semestre ont lieu sans examen.
 
-<sup>3</sup> Les titulaires d’un certificat reconnu de maturité professionnelle ou spécialisée sont admis au début du quatrième semestre. Les admissions se font sans examen et sont assorties d'une période probatoire d'un semestre.
+<sup>3</sup> Les admissions au début du deuxième semestre ont lieu sur examen, pour autant qu'aucune admission en vertu de l'alinéa 4 ne soit possible. Les dispositions sur la procédure d'examen sont fixées à l'annexe 6a.
+
+<sup>4</sup> Les admissions au début du deuxième, troisième ou quatrième semestre ont lieu sans examen pour
+
+- a les titulaires d'un certificat de maturité professionnelle reconnu,
+- b les titulaires d'un certificat d’école de culture générale, si le titre obtenu est reconnu par la CDIP et si l'école de culture générale a émis une recommandation les concernant,
+- c les titulaires d'un autre diplôme délivré par une école moyenne, si leur formation post-obligatoire a duré au moins trois ans, s'ils ont été scolarisés dans l’école concernée pendant cinq années au minimum et si cette école a émis une recommandation les concernant.
+
+<sup>5</sup> En cas d'admission en vertu de l'alinéa 4, l'élève détermine le semestre de sa rentrée après un entretien de conseil avec la direction d'école.
+
+<sup>6</sup> Les admissions ne sont pas assorties d'une période probatoire.
 
 ### 2.2 Notes de bulletin, bulletin et promotions
 
@@ -795,34 +835,36 @@ arrête:
 
 <sup>1</sup> Les prescriptions relatives aux bulletins et aux promotions dans les filières gymnasiales ordinaires s’appliquent aux formations spécifiquement axées sur les besoins des adultes sous réserve des dispositions qui suivent.
 
+<sup>1a</sup> Les périodes d'évaluation sont
+
+- a le premier semestre,
+- b les deuxième et troisième semestres,
+- c les quatrième et cinquième semestres et
+- d les sixième et septième semestres.
+
+<sup>1b</sup> Les promotions ont lieu à la fin de chaque période d'évaluation. Il n'y a pas de promotion à la fin de la dernière période d'évaluation.
+
 <sup>2</sup> Une évaluation formative est réalisée en cas de besoin.
 
 #### Art. 58
 
 **Promotion**
 
-<sup>1</sup> Dans les formations spécifiquement axées sur les besoins des adultes, est promu au deuxième ou au troisième semestre quiconque a réussi l’examen conformément aux annexes 6a et 6b.
+<sup>1</sup> Dans les formations spécifiquement axées sur les besoins des adultes, est promu au deuxième semestre quiconque a réussi l'examen conformément à l'annexe 6a
 
-<sup>2</sup> Est promu définitivement au quatrième semestre quiconque a obtenu un bulletin suffisant pour le troisième semestre et a fréquenté régulièrement l’enseignement dans toutes les disciplines. Les dispenses au sens de l’article 132 sont réservées.
+<sup>2</sup> Est promu définitivement au quatrième et au sixième semestres quiconque a obtenu un bulletin suffisant portant sur la période d'évaluation passée et a fréquenté régulièrement l'enseignement dans toutes les disciplines. Les dispenses au sens de l'article 132 sont réservées.
 
-<sup>3</sup> Sur demande motivée, la direction d’école peut en outre promouvoir au quatrième semestre avec période probatoire des personnes qui ont obtenu un bulletin insuffisant pour le troisième semestre.
-
-<sup>4</sup> Une évaluation globale des prestations est réalisée au quatrième semestre pour chaque personne promue à ce semestre avec période probatoire. Si l’évaluation est suffisante, la personne est admise définitivement. Dans le cas contraire, elle doit quitter la filière. La direction d’école peut, sur demande, autoriser la personne en formation à rester dans l’école en proposant,
-
-- a pour les personnes admises au quatrième semestre en vertu de l’article 49, alinéa 3, une prolongation de la période probatoire à l’ensemble de l’année scolaire ou un redoublement au début du troisième semestre;
-- b pour les personnes admises au quatrième semestre malgré un bulletin insuffisant pour le troisième semestre, un redoublement au début du troisième semestre.
-
-<sup>5</sup> Un bulletin portant sur les quatrième et cinquième semestres est établi à la fin du cinquième semestre; un bulletin portant sur les sixième et septième semestres est établi à la fin du septième semestre.
-
-<sup>6</sup> Est promu au sixième semestre quiconque a obtenu des résultats suffisants à l’évaluation globale des prestations au cours des quatrième et cinquième semestres et a fréquenté régulièrement l’enseignement dans toutes les disciplines. Les dispenses au sens de l’article 132 sont réservées.
+<sup>3–6</sup> …
 
 #### Art. 59
 
 **Possibilité de redoublement**
 
-<sup>1</sup> Les examens permettant d’accéder au deuxième et au troisième semestres peuvent être répétés une fois.
+<sup>1</sup> Les examens permettant d'accéder au deuxième semestre peuvent être répétés une fois.
 
-<sup>2</sup> A compter du troisième semestre, les personnes non promues qui sont préalablement admises à titre définitif ont le droit de répéter une année de formation, les redoublements prononcés en vertu de l’article 58, alinéa 4 étant toutefois pris en compte.
+<sup>2</sup> A compter du deuxième semestre, les personnes admises qui ne sont pas promues ont le droit de répéter une année, les redoublements prononcés en vertu de l'alinéa 3 étant pris en compte.
+
+<sup>3</sup> Les personnes admises au troisième semestre qui obtiennent un bulletin insuffisant à la fin du troisième semestre et utilisent la possibilité de redoubler reprennent l'enseignement au niveau du deuxième semestre.
 
 ### 2.2.5 Compétences disciplinaires de base requises pour les études supérieures
 
@@ -994,9 +1036,9 @@ arrête:
 
 #### Art. 73
 
-**Duplicata**
+**Certificats émis ultérieurement**
 
-<sup>1</sup> Les certificats de maturité égarés sont remplacés par un duplicata signé par le chef ou la cheffe de la Section des écoles moyennes.
+<sup>1</sup> Si des certificats de maturité doivent être émis ultérieurement, la cheffe ou le chef de la Section des écoles moyennes atteste l'exactitude du document nouvellement émis.
 
 ## 3 Formation en école de culture générale (ECG)
 
@@ -1017,10 +1059,7 @@ arrête:
 
 <sup>2</sup> Les élèves d’une école privée ne peuvent être admis sur recommandation que si, au moment de la recommandation, ils ont déjà accompli trois semestres au moins dans cette école. Si tel n’est pas le cas, ils doivent passer un examen d’admission.
 
-<sup>3</sup> Les parents des élèves qui souhaitent fréquenter une filière ECG inscrivent ceux-ci auprès de la direction de l’école dont ils proviennent au moyen d’un formulaire spécifique à remettre,
-
-- a dans la partie germanophone du canton, au plus tard début décembre et,
-- b dans la partie francophone du canton, au plus tard fin janvier.
+<sup>3</sup> Les parents des élèves qui souhaitent fréquenter une filière ECG inscrivent celles-ci ou ceux-ci auprès de la direction de l'école dont elles ou ils proviennent au moyen d'un formulaire spécifique à remettre au plus tard début décembre.
 
 #### Art. 75
 
@@ -1051,7 +1090,7 @@ arrête:
 
 <sup>1</sup> L’évaluation concerne les élèves de la section moderne (section m) et de la section préparant aux écoles de maturité (section p) et porte sur le français, l’allemand et les mathématiques.
 
-<sup>2</sup> L’élève est admis sans examen sur la base de l’évaluation s’il n’a pas obtenu de note insuffisante dans les disciplines évaluées et si la somme des notes du bulletin obtenue à la fin du premier semestre de la troisième année du degré secondaire I atteint les valeurs suivantes:
+<sup>2</sup> L'élève est admise ou admis sans examen si, lors de l'évaluation à la fin du premier semestre de la troisième année du degré secondaire I, elle ou il n'a pas obtenu de note insuffisante dans les disciplines évaluées et a atteint les valeurs suivantes:
 
 - a niveau AAA: 12,5 points,
 - b niveau AAB: 13 points,
@@ -1367,9 +1406,9 @@ arrête:
 
 #### Art. 98
 
-**Duplicata**
+**Certificats émis ultérieurement**
 
-<sup>1</sup> Les certificats d’école de culture générale égarés sont remplacés par un duplicata signé par le chef ou la cheffe de la Section des écoles moyennes.
+<sup>1</sup> Si des certificats d'école de culture générale doivent être émis ultérieurement, la cheffe ou le chef de la Section des écoles moyennes atteste l'exactitude du document nouvellement émis.
 
 ### 3.2 Filières de maturité spécialisée
 
@@ -1506,6 +1545,8 @@ arrête:
 
 <sup>3</sup> L’école de culture générale notifie par voie de décision la note générale obtenue pour le travail de maturité spécialisée.
 
+<sup>4</sup> Dans les écoles moyennes privées délivrant un certificat de maturité spécialisée reconnu, la direction d'école arrête la note générale du travail de maturité spécialisée par voie de décision.
+
 #### Art. 105
 
 **Evaluation du travail de maturité spécialisée dans les filières de maturité spécialisée orientation Santé et orientation Travail social**
@@ -1515,6 +1556,8 @@ arrête:
 <sup>2</sup> L’évaluation du travail écrit de maturité spécialisée est effectuée par l’enseignant ou l’enseignante qui encadre le travail au sein de l’école de culture générale et par un expert ou une experte du domaine considéré.
 
 <sup>3</sup> La direction d’école notifie l’évaluation du travail écrit de maturité spécialisée par voie de décision.
+
+<sup>4</sup> Dans les écoles moyennes privées délivrant un certificat de maturité spécialisée reconnu, la direction d'école arrête l’évaluation du travail écrit de maturité spécialisée par voie de décision.
 
 ### 3.2.4 Examens de maturité spécialisée
 
@@ -1609,9 +1652,9 @@ arrête:
 
 #### Art. 113
 
-**Duplicata**
+**Certificats émis ultérieurement**
 
-<sup>1</sup> Les certificats de maturité spécialisée égarés sont remplacés par un duplicata signé par le chef ou la cheffe de la Section des écoles moyennes.
+<sup>1</sup> Si des certificats de maturité spécialisée doivent être émis ultérieurement, la cheffe ou le chef de la Section des écoles moyennes atteste l'exactitude du document nouvellement émis.
 
 ## 4 Autres formations générales débouchant sur des diplômes d’enseignement général du degré secondaire II reconnus et formations spéciales préparant à l’admission à des filières de hautes écoles spécifiques
 
@@ -1668,9 +1711,9 @@ arrête:
 
 #### Art. 120
 
-**Duplicata**
+**Certificats émis ultérieurement**
 
-<sup>1</sup> Les certificats sanctionnant l’examen complémentaire égarés sont remplacés par un duplicata signé par le chef ou la cheffe de la Section des écoles moyennes.
+<sup>1</sup> Si des certificats de maturité spécialisée sont émis ultérieurement, ils sont signés par la cheffe ou le chef de la Section des écoles moyennes.
 
 ### 4.2 Cours préparant à l’admission à des formations de hautes écoles spécifiques
 
@@ -1734,7 +1777,7 @@ arrête:
 
 <sup>3</sup> Si des objectifs d’apprentissage individuels ont été arrêtés jusqu’aux examens finaux, la direction d’école signale en temps utile aux élèves concernés la possibilité de demander l’application, pour les examens finaux, de réglementations spéciales au sens de l’article 11.
 
-<sup>4</sup> La Section des écoles moyennes peut autoriser pour la première ou la deuxième langue au maximum 40 leçons d’appui par élève et par langue, sur demande de la direction d’école.
+<sup>4</sup> La Section des écoles moyennes peut autoriser des leçons d’appui pour le développement des compétences dans la première ou la deuxième langue, sur demande de la direction d'école.
 
 #### Art. 128
 
@@ -1865,7 +1908,7 @@ arrête:
 
 <sup>1</sup> Le président ou la présidente de la CCM perçoit des indemnités journalières et un dédommagement de ses frais conformément à l’ordonnance du 2 juillet 1980 concernant les indemnités journalières et de déplacement des membres des commissions cantonales[^136-1] ainsi qu’une indemnité annuelle de 3000 francs pour l’encadrement des examens de maturité gymnasiale et de 900 francs pour l’encadrement de l’examen complémentaire.
 
-<sup>2</sup> Le président ou la présidente de la CCECG perçoit des indemnités journalières et un dédommagement de ses frais conformément à l’ordonnance concernant les indemnités journalières et de déplacement des membres des commissions cantonales ainsi qu’une indemnité annuelle totale de 2200 francs pour l’encadrement des examens du certificat ECG et des examens de maturité spécialisée.
+<sup>2</sup> Le président ou la présidente de la CCECG perçoit des indemnités journalières et un dédommagement de ses frais conformément à l'ordonnance concernant les indemnités journalières et de déplacement des membres des commissions cantonales ainsi qu'une indemnité annuelle totale de 2200 francs pour l'encadrement des examens du certificat ECG et une indemnité annuelle totale de 900 francs pour l'encadrement des examens de maturité spécialisée.
 
 <sup>3</sup> L’expert principal ou l’experte principale pour les examens de maturité spécialisée de l’orientation Santé et de l’orientation Travail social perçoit des indemnités journalières et un dédommagement de ses frais conformément à l’ordonnance concernant les indemnités journalières et de déplacement des membres des commissions cantonales ainsi qu’une indemnité de 2200 francs par année.
 
@@ -2170,23 +2213,27 @@ arrête:
 
 #### Art. A4-2
 
-**Recommandation**
-
-<sup>1</sup> Pour les élèves des «sections préparant aux écoles de maturité (section p)», qui ne peuvent pas être admis sans examen en deuxième année de la formation gymnasiale, la direction d’école peut, sur préavis du maître ou de la maîtresse de classe, délivrer une recommandation pour la poursuite de la formation gymnasiale, dans la mesure où l’élève semble pouvoir remplir les conditions correspondantes, compte tenu de sa motivation à apprendre, de sa capacité d’appréhension et de compréhension et de sa capacité à appliquer et à effectuer des transferts.
+**…**
 
 #### Art. A4-3
 
 **Conditions d’admission**
 
-<sup>1</sup> Quiconque obtient dans les épreuves écrites de l’examen d’admission moins de 11 points, correspondant au total des notes des trois examens et des deux points éventuellement attribués pour la recommandation, n’est pas admis. Tous les autres candidats et candidates sont en plus interrogés à l’oral dans les trois disciplines d'examen. Les épreuves écrites et orales additionnées donnent six notes. Quiconque obtient un résultat minimal de 26 points, correspondant au total des six notes d’examen et des deux points éventuellement attribués pour la recommandation, est admis.
+<sup>1</sup> Quiconque obtient dans les épreuves écrites de l'examen d’admission moins de 10 points, correspondant au total des notes des trois examens, n'est pas admis. Toutes les autres candidates et candidats sont en plus interrogés à l'oral dans les trois disciplines d’examen.
+
+<sup>2</sup> Les épreuves écrites et orales additionnées donnent six notes. Est admis quiconque, avec les six notes d'examen, obtient
+
+- a au moins 24 points sans aucune note insuffisante,
+- b au moins 25 points avec une note insuffisante ou
+- c au moins 26 points avec plus d'une note insuffisante.
 
 #### Art. A4-4
 
 **Epreuves de l’examen d’admission**
 
-<sup>1</sup> Les épreuves de l’examen d’admission se fondent sur le plan d’études pour les écoles secondaires de langue française et correspondent aux exigences du niveau A. Elles sont publiées chaque année.
+<sup>1</sup> Les épreuves de l'examen d'admission se fondent sur le Plan d'études romand. Les exigences requises sont publiées chaque année.
 
-<sup>2</sup> Elles tiennent compte du fait que les objectifs et les contenus du plan d’études pour la dernière année du degré secondaire I n’ont été traités que pour moitié au moment de l’examen d’admission.
+<sup>2</sup> Pour les élèves de dernière année du degré secondaire I, elles tiennent compte du fait que les objectifs et les contenus du plan d'études pour la dernière année scolaire n'ont été traités que pour moitié au moment de l'examen d'admission.
 
 ## A5 Annexe 5: Procédure d’examen pour l’admission au début de la troisième année de la formation gymnasiale (art. 42)
 
@@ -2233,10 +2280,10 @@ arrête:
 
 <table>
 <tr><th>N°</th><th>Discipline d’examen</th><th>Examen écrit</th><th>Examen oral</th></tr>
-<tr><td>1</td><td>Français</td><td>60 min</td><td>–</td></tr>
-<tr><td>2</td><td>Mathématiques</td><td>90 min</td><td>–</td></tr>
-<tr><td>3</td><td>Biologie</td><td>60 min</td><td>–</td></tr>
-<tr><td>4</td><td>Histoire</td><td>–</td><td>15 min</td></tr>
+<tr><td>1</td><td>Allemand</td><td>60 min</td><td>–</td></tr>
+<tr><td>2</td><td>Français</td><td>60 min</td><td>–</td></tr>
+<tr><td>3</td><td>Mathématiques</td><td>60 min</td><td>–</td></tr>
+<tr><td>4</td><td>Biologie</td><td>60 min</td><td>–</td></tr>
 </table>
 
 #### Art. A6a-2
@@ -2251,41 +2298,15 @@ arrête:
 
 <sup>1</sup> L’école communique sur demande les épreuves de l’examen d’admission. Elles correspondent à la matière étudiée au cours du premier semestre.
 
-## A6b Annexe 6b: Procédure d’examen pour l’admission et la promotion dans les formations gymnasiales spécifiquement axées sur les besoins des adultes (art. 49), troisième semestre
+## A6b
 
-#### Art. A6b-1
+#### Art. A6b-1–A6b-2
 
-**Type d’examen et durée**
-
-<sup>1</sup>
-
-<table>
-<tr><th>N°</th><th>Discipline d’examen</th><th>Examen écrit</th><th>Examen oral</th></tr>
-<tr><td>1</td><td>Allemand</td><td>60 min</td><td>15 min</td></tr>
-<tr><td>2</td><td>Français</td><td>60 min</td><td>15 min</td></tr>
-<tr><td>3</td><td>Anglais</td><td>60 min</td><td>15 min</td></tr>
-<tr><td>4</td><td>Mathématiques</td><td>90 min</td><td>15 min</td></tr>
-<tr><td>5</td><td>Chimie</td><td>60 min</td><td>15 min</td></tr>
-<tr><td>6</td><td>Géographie</td><td>60 min</td><td>15 min</td></tr>
-</table>
-
-<sup>2</sup> Tous les candidats et les candidates subissent une épreuve écrite dans les six disciplines d’examen et, selon le résultat de l’épreuve écrite, une épreuve orale complémentaire.
-
-#### Art. A6b-2
-
-**Conditions d’admission**
-
-<sup>1</sup> Quiconque obtient dans les épreuves écrites de l’examen d’admission au moins 24 points avec les six notes d’examen et n’a pas plus de deux notes inférieures à 4 est admis.
-
-<sup>2</sup> Quiconque obtient dans les épreuves écrites de l’examen d’admission moins de 22,5 points avec les six notes d’examen n’est pas admis.
-
-<sup>3</sup> Tous les autres candidats et candidates subissent en plus une épreuve orale dans les six disciplines d'examen. La moyenne non arrondie des épreuves écrites et orales donne la note de discipline. Quiconque obtient au moins 24 points avec les six notes de discipline et n’a pas plus de deux notes inférieures à 4 est admis.
+**…**
 
 #### Art. A6b-3
 
 **Epreuves de l’examen d’admission**
-
-<sup>1</sup> L’école communique sur demande les épreuves de l’examen d’admission. Elles correspondent à la matière étudiée au cours des deux premiers semestres.
 
 ## A7a Annexe 7a: Procédure d'examen pour l'admission en première année d’une filière ECG dans la partie germanophone du canton (art. 78)
 
@@ -2310,13 +2331,13 @@ arrête:
 
 **Conditions d’admission**
 
-<sup>1</sup> Quiconque obtient à l’examen d’admission au moins 16 points avec les quatre notes d’examen et n’a pas plus de deux notes inférieures à 4 est admis.
+<sup>1</sup> L'examen d'admission comprend quatre notes. Quiconque obtient au moins 16 points avec les quatre notes d'examen et n'a pas plus d'une note inférieure à 4 est admis.
 
 #### Art. A7a-3
 
 **Epreuves de l’examen d’admission**
 
-<sup>1</sup> Les épreuves de l’examen d’admission se fondent sur le plan d’études de l'école obligatoire jusqu’au premier semestre de la troisième année du degré secondaire I compris et tiennent compte des exigences du niveau secondaire. Pour les candidats et les candidates qui ont terminé le degré secondaire I, les épreuves d’examen portent sur l’ensemble du programme de la troisième année du degré secondaire I.
+<sup>1</sup> Les épreuves de l'examen d'admission se fondent sur le plan d'études de l'école obligatoire jusqu'au premier semestre de la troisième année du degré secondaire I compris et tiennent compte des exigences du niveau secondaire. Pour les candidates et les candidats qui ont terminé le degré secondaire I, les épreuves d’examen portent sur l'ensemble du programme de la troisième année du degré secondaire I. Les exigences requises sont publiées chaque année.
 
 ## A7b Annexe 7b: Procédure d’examen pour l’admission en deuxième année d’une filière ECG dans la partie germanophone du canton (art. 82)
 
@@ -2348,7 +2369,7 @@ arrête:
 
 **Epreuves de l’examen d’admission**
 
-<sup>1</sup> Les épreuves de l’examen d’admission se fondent sur le plan d’études cantonal pour les ECG pour la première année de la formation en ECG.
+<sup>1</sup> Les épreuves de l'examen d'admission se fondent sur le plan d'études cantonal pour les ECG pour la première année de la formation en ECG. Les exigences requises sont publiées chaque année.
 
 ## A7c Annexe 7c: Procédure d’examen pour l’admission au début de la première ou de la deuxième année d’une filière ECG dans la partie francophone du canton (art. 78 et 82)
 
@@ -2360,27 +2381,27 @@ arrête:
 
 <table>
 <tr><th>N°</th><th>Discipline d’examen</th><th>Examen écrit</th></tr>
-<tr><td>1</td><td>Première langue (français)[^A7c1-1]</td><td>90 min</td></tr>
+<tr><td>1</td><td>Première langue (français)[^A7c1-1]</td><td>120 min</td></tr>
 <tr><td>2</td><td>Deuxième langue nationale (allemand)[^A7c1-2]</td><td>60 min</td></tr>
-<tr><td>3</td><td>Mathématiques</td><td>90 min</td></tr>
+<tr><td>3</td><td>Mathématiques</td><td>120 min</td></tr>
 </table>
 
-[^A7c1-1]: Les candidats et les candidates ayant des connaissances limitées en français (enseignement dans la première langue depuis la dernière année du degré primaire ou ultérieurement) peuvent choisir s’ils désirent être interrogés uniquement en rédaction, auquel cas la durée de l’enseignement dans la première langue est prise en compte dans l’évaluation.
-[^A7c1-2]: Les candidats et les candidates ayant des connaissances limitées en allemand (enseignement dans la deuxième langue nationale depuis la dernière année du degré primaire ou ultérieurement) peuvent choisir s’ils préfèrent être interrogés en allemand ou en anglais.
+[^A7c1-1]: Les candidates et les candidats ayant des connaissances limitées en français (enseignement dans la première langue depuis la dernière année du degré primaire ou ultérieurement) peuvent choisir si elles ou ils désirent être interrogés uniquement en rédaction, auquel cas la durée de l’enseignement dans la première langue est prise en compte dans l’évaluation.
+[^A7c1-2]: Les candidates et les candidats ayant des connaissances limitées en allemand (enseignement dans la deuxième langue nationale depuis la dernière année du degré primaire ou ultérieurement) peuvent choisir si elles ou ils préfèrent être interrogés en allemand ou en anglais.
 
 #### Art. A7c-2
 
 **Conditions d’admission**
 
-<sup>1</sup> Quiconque obtient à l’examen d’admission au moins 12 points avec les trois notes d’examen est admis.
+<sup>1</sup> L'examen d'admission comprend trois notes. Quiconque obtient au moins 12 points avec les trois notes d'examen et n'a pas plus d’une note inférieure à 4 est admis.
 
 #### Art. A7c-3
 
 **Epreuves de l’examen d’admission**
 
-<sup>1</sup> Les épreuves de l’examen d’admission en première année d’une filière ECG se fondent sur le plan d’études de l’école obligatoire jusqu’au premier semestre de la troisième année du degré secondaire I compris et tiennent compte des exigences du niveau B. Pour les candidats et les candidates qui ont terminé le degré secondaire I, les épreuves de l’examen portent sur l’ensemble du programme de la troisième année du degré secondaire I.
+<sup>1</sup> Les épreuves de l'examen d’admission en première année d'une filière ECG se fondent sur le Plan d'études romand. Pour les élèves de dernière année du degré secondaire I, elles tiennent compte du fait que les objectifs et les contenus du plan d'études pour la dernière année scolaire n'ont été traités que pour moitié au moment de l'examen d’admission. Pour les candidates et les candidats qui ont terminé le degré secondaire I, les épreuves de l'examen portent sur l'ensemble du programme de la troisième année du degré secondaire I. Les exigences requises sont publiées chaque année.
 
-<sup>2</sup> Les épreuves de l’examen d’admission en deuxième année d’une filière ECG se fondent sur le plan d’études cantonal applicable aux écoles de culture générale pour la première année de la formation en ECG.
+<sup>2</sup> Les épreuves de l'examen d'admission en deuxième année d’une filière ECG se fondent sur le plan d’études cantonal applicable aux écoles de culture générale pour la première année de la formation en ECG. Les exigences requises sont publiées chaque année.
 
 ## A8 Annexe 8: Disciplines d’examen, type d’examen et durée des épreuves pour les examens de maturité (art. 67)
 
