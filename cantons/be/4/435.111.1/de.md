@@ -4,13 +4,13 @@ number: "435.111.1"
 title: "Direktionsverordnung über die Berufsbildung, die Weiterbildung und die Berufsberatung"
 short: BerDV
 language: de
-version: 2022-04-01
-valid_until: 2022-07-31
-version_adopted: 2022-02-25
+version: 2022-08-01
+valid_until: 2023-07-31
+version_adopted: 2022-06-22
 adopted: 2006-04-06
 in_force: 2006-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/435.111.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2579/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2633/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2579/pdf_file"
 
 (BerDV)
 
-vom 06.04.2006 (Stand 01.04.2022)
+vom 06.04.2006 (Stand 01.08.2022)
 
 Die Erziehungsdirektion des Kantons Bern,
 
@@ -451,10 +451,10 @@ beschliesst:
 
 **Prüfungsfreie Aufnahme für Kandidatinnen und Kandidaten aus dem deutschsprachigen Kantonsteil**
 
-<sup>1</sup> Unter Vorbehalt von Artikel 27 wird prüfungsfrei in eine HMS aufgenommen, wer
+<sup>1</sup> Unter Vorbehalt von Artikel 27 wird prüfungsfrei in eine HMS aufgenommen, wer in einer öffentlichen Schule des deutschsprachigen Kantonsteils
 
 - a das erste Jahr des gymnasialen Bildungsgangs besucht oder
-- b am Ende des ersten Semesters des dritten Schuljahrs der Sekundarstufe I bezüglich Sachkompetenz (Sekundarschulniveau) sowie Arbeits- und Lernverhalten in den Fächern Deutsch, Französisch, Mathematik und Natur-Mensch-Mitwelt im Hinblick auf den Unterricht an einer HMS als geeignet beurteilt wird.
+- b am Ende des ersten Semesters des dritten Schuljahrs der Sekundarstufe I bezüglich der fachlichen sowie der methodischen und personalen Kompetenzen in den Fächern Deutsch, Französisch, Mathematik und Natur-Mensch-Gesellschaft im Hinblick auf den Unterricht an einer HMS als geeignet beurteilt wird.
 
 <sup>2</sup> Die zuständige Behörde der Volksschule beurteilt die Eignung für den Besuch einer HMS und entscheidet mit Verfügung über die Aufnahme.
 
@@ -468,7 +468,7 @@ beschliesst:
 
 **Prüfungsfreie Aufnahme für Kandidatinnen und Kandidaten aus dem französischsprachigen Kantonsteil**
 
-<sup>1</sup> Unter Vorbehalt von Artikel 27 wird prüfungsfrei in eine HMS aufgenommen, wer am Ende des ersten Semesters des dritten Schuljahrs der Sekundarstufe I in einer öffentlichen Schule in den Fächern Französisch, Deutsch und Mathematik mindestens folgende Punktzahl erreicht:
+<sup>1</sup> Unter Vorbehalt von Artikel 27 wird prüfungsfrei in eine HMS aufgenommen, wer in der Beurteilung am Ende des ersten Semesters des dritten Jahrs der Sekundarstufe I einer öffentliche Schule des französischsprachigen Kantonsteils in den Fächern Französisch, Deutsch und Mathematik folgende Punktzahl erreicht
 
 - 1\. Niveau AAA: — 11,0 Punkte
 - 2\. Niveau AAB: — 11,5 Punkte
@@ -612,7 +612,7 @@ beschliesst:
 <sup>1</sup> In eine IMS wird aufgenommen, wer
 
 - a das erste Jahr des gymnasialen Bildungsgangs besucht und ein genügendes Zeugnis vorweist oder
-- b am Ende des ersten Semesters des dritten Schuljahrs der Sekundarstufe I bezüglich Sachkompetenz (Sekundarschulniveau) sowie Arbeits- und Lernverhalten in den Fächern Deutsch, Französisch, Mathematik und Natur-Mensch-Mitwelt im Hinblick auf den Unterricht an einer IMS von der zuständigen Behörde der Volksschule als geeignet beurteilt wird, wobei sich die Beurteilung sinngemäss nach den Bestimmungen für die Empfehlung für den Besuch des gymnasialen Bildungsgangs gemäss Mittelschulgesetzgebung richtet und
+- b am Ende des ersten Semesters des dritten Schuljahrs der Sekundarstufe I bezüglich der fachlichen sowie der methodischen und personalen Kompetenzen in den Fächern Deutsch, Französisch, Mathematik und Natur-Mensch-Gesellschaft im Hinblick auf den Unterricht an einer IMS von der zuständigen Behörde der Volksschule als geeignet beurteilt wird, wobei sich die Beurteilung sinngemäss nach den Bestimmungen für die Empfehlungen für den Besuch des gymnasialen Bildungsgangs richtet und
 - c die Eignungsprüfung bestanden hat.
 
 <sup>2</sup> Wer die Voraussetzungen gemäss Absatz 1 nicht erfüllt, absolviert eine Aufnahme- und eine Eignungsprüfung.
@@ -742,7 +742,7 @@ beschliesst:
 <sup>1</sup> Prüfungsfrei in eine BM 1 aufgenommen wird, wer
 
 - a im deutschsprachigen Kantonsteil definitiv in einen gymnasialen oder einen FMS-Bildungsgang aufgenommen worden ist,
-- b im deutschsprachigen Kantonsteil am Ende des ersten Semesters des dritten Schuljahrs der Sekundarstufe I bezüglich Sachkompetenz (Sekundarschulniveau) sowie Arbeits- und Lernverhalten in den Fächern Deutsch, Französisch, Mathematik und Natur-Mensch-Mitwelt im Hinblick auf den Unterricht an einer BMS als geeignet beurteilt wird, wobei sich die Beurteilung sinngemäss nach den Bestimmungen für die Empfehlung für den Besuch des gymnasialen Bildungsgangs gemäss Mittelschulgesetzgebung richtet,
+- b im deutschsprachigen Kantonsteil am Ende des ersten Semesters des dritten Schuljahrs der Sekundarstufe I bezüglich der fachlichen sowie der methodischen und personalen Kompetenzen in den Fächern Deutsch, Französisch, Mathematik und Natur-Mensch-Gesellschaft im Hinblick auf den Unterricht an einer BMS als geeignet beurteilt wird, wobei sich die Beurteilung sinngemäss nach den Bestimmungen für die Empfehlungen für den Besuch des gymnasialen Bildungsgangs richtet,
 - b1 definitiv in den Bildungsgang Deutsch-Französisch der Gymnasien der Regionen Biel-Seeland und Bienne-Jura bernois aufgenommen worden ist,
 - c im französischsprachigen Kantonsteil eine «section préparant aux écoles de maturité (section p)» besucht.
 
@@ -766,9 +766,12 @@ beschliesst:
 
 **Prüfungsfreie Aufnahme in eine HMS mit BM im französischsprachigen Kantonsteil**
 
-<sup>1</sup> Prüfungsfrei in eine dreijährige HMS mit BM im französischsprachigen Kantonsteil wird aufgenommen, wer die Promotionsbedingungen der „section préparant aux écoles de maturité (section p)“ am Ende des ersten Semesters des dritten Schuljahrs der Sekundarstufe I in einer öffentlichen Schule erfüllt.
+<sup>1</sup> Prüfungsfrei in eine dreijährige HMS mit BM im französischsprachigen Kantonsteil wird aufgenommen, wer im dritten Schuljahr der Sekundarstufe I die „section préparant aux écoles de maturité (section p)“ besucht, und in der Beurteilung am Ende des ersten Semesters einer öffentliche Schule in den Fächern Französisch, Deutsch und Mathematik keine ungenügende Note aufweist und folgende Punktzahl erreicht:
 
-<sup>2</sup> Prüfungsfrei in eine vierjährige HMS mit BM im französischsprachigen Kantonsteil wird aufgenommen, wer am Ende des ersten Semesters des dritten Schuljahrs der Sekundarstufe I in einer öffentlichen Schule in den Fächern Französisch, Deutsch und Mathematik mindestens folgende Punktzahl erreicht hat:
+- 1 Niveau AAA: — 12,0 Punkte
+- 2 Niveau AAB: — 12,0 Punkte
+
+<sup>2</sup> Prüfungsfrei in eine vierjährige HMS mit BM im französischsprachigen Kantonsteil wird aufgenommen, wer in der Beurteilung am Ende des ersten Semesters des dritten Schuljahrs der Sekundarstufe I in einer öffentlichen Schule in den Fächern Französisch, Deutsch und Mathematik mindestens folgende Punktzahl erreicht:
 
 - 1\. Niveau AAA: — 12,0 Punkte
 - 2\. Niveau AAB: — 12,0 Punkte
@@ -1067,9 +1070,9 @@ beschliesst:
 
 #### Art. 59a
 
-**Berufsmaturitätsausweise**
+**Nachträglich erneut ausgestellte Ausweise**
 
-<sup>1</sup> Abhanden gekommene Berufsmaturitätszeugnisse oder Notenausweise werden durch ein Duplikat mit Unterschrift der Vorsteherin oder des Vorstehers der Abteilung Berufsfachschulen des Mittelschul- und Berufsbildungsamts ersetzt.
+<sup>1</sup> Müssen Berufsmaturitätszeugnisse oder Notenausweise nachträglich erneut ausgestellt werden, bestätigt die Vorsteherin oder der Vorsteher der Abteilung Berufsfachschulen die Richtigkeit des neu ausgestellten Dokuments.
 
 #### Art. 60
 

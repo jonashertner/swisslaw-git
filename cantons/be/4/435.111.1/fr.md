@@ -4,13 +4,13 @@ number: "435.111.1"
 title: "Ordonnance de Direction sur la formation professionnelle, la formation continue et l'orientation professionnelle"
 short: ODFOP
 language: fr
-version: 2022-04-01
-valid_until: 2022-07-31
-version_adopted: 2022-02-25
+version: 2022-08-01
+valid_until: 2023-07-31
+version_adopted: 2022-06-22
 adopted: 2006-04-06
 in_force: 2006-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/435.111.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2579/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2633/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2579/pdf_file"
 
 (ODFOP)
 
-du 06.04.2006 (état au 01.04.2022)
+du 06.04.2006 (état au 01.08.2022)
 
 La Direction de l’instruction publique du canton de Berne,
 
@@ -449,10 +449,10 @@ arrête:
 
 **Admission sans examen pour les candidats et les candidates de la partie germanophone du canton**
 
-<sup>1</sup> Sous réserve de l'article 27, est admis sans examen en EC quiconque
+<sup>1</sup> Sous réserve de l'article 27, est admis sans examen en EC quiconque, dans une école publique de la partie germanophone du canton,
 
 - a fréquente la première année de la formation gymnasiale ou
-- b à la fin du premier semestre de la troisième année du degré secondaire I, est jugé apte, en ce qui concerne les compétences (niveau Sekundarschule) ainsi que l’attitude face au travail et à l’apprentissage en allemand, français, mathématiques et dans la discipline Natur-Mensch-Mitwelt, à suivre l’enseignement en EC.
+- b à la fin du premier semestre de la troisième année du degré secondaire I, est jugé apte, en ce qui concerne les compétences disciplinaires, méthodologiques et personnelles en allemand, français, mathématiques et dans la discipline «Natur-Mensch-Gesellschaft», à suivre l’enseignement en EC.
 
 <sup>2</sup> L’autorité compétente pour l’école obligatoire évalue l’aptitude à suivre l’enseignement en EC et statue par voie de décision sur l'admission.
 
@@ -466,7 +466,7 @@ arrête:
 
 **Admission sans examen pour les candidats et les candidates de la partie francophone du canton**
 
-<sup>1</sup> Sous réserve de l'article 27, est admis sans examen en EC quiconque totalise, à la fin du premier semestre de la troisième année du degré secondaire I fréquentée dans une école publique, en français, en allemand et en mathématiques au minimum
+<sup>1</sup> Sous réserve de l'article 27, est admis sans examen en EC quiconque totalise, lors de l’évaluation à la fin du premier semestre de la troisième année du degré secondaire I fréquentée dans une école publique de la partie francophone du canton, le nombre de points suivants en français, en allemand et en mathématiques
 
 - 1\. Niveau AAA: — 11,0 points
 - 2\. Niveau AAB: — 11,5 points
@@ -610,7 +610,7 @@ arrête:
 <sup>1</sup> Est admis en école moyenne d’informatique quiconque
 
 - a fréquente la première année de la formation gymnasiale et produit un bulletin suffisant ou
-- b à la fin du premier semestre de la troisième année du degré secondaire I, est jugé apte par l’autorité compétente pour l'école obligatoire, en ce qui concerne les compétences (niveau Sekundarschule) et l’attitude face au travail et à l’apprentissage en allemand, en français, en mathématiques et dans la discipline «Natur-Mensch-Mitwelt», à suivre l’enseignement dans l’école, l’évaluation se faisant en appliquant par analogie les dispositions régissant la recommandation pour la fréquentation de la filière gymnasiale figurant dans la législation sur les écoles moyennes et
+- b à la fin du premier semestre de la troisième année du degré secondaire I, est jugé apte par l’autorité compétente pour l'école obligatoire, en ce qui concerne les compétences disciplinaires, méthodologiques et personnelles en allemand, en français, en mathématiques et dans la discipline «Natur-Mensch-Gesellschaft», à suivre l’enseignement dans l’école, l’évaluation se faisant en appliquant par analogie les dispositions régissant les recommandations pour la fréquentation de la filière gymnasiale et
 - c a réussi l’examen d’aptitude.
 
 <sup>2</sup> Quiconque ne remplit pas les conditions énoncées à l’alinéa 1 doit passer un examen d’admission et un examen d’aptitude.
@@ -740,7 +740,7 @@ arrête:
 <sup>1</sup> Est admis sans examen en MP 1 quiconque,
 
 - a dans la partie germanophone du canton, a été admis définitivement dans un gymnase ou une ECG;
-- b dans la partie germanophone du canton, à la fin du premier semestre de la troisième année du degré secondaire I, est jugé apte, en ce qui concerne les compétences (niveau Sekundarschule) et l'attitude face au travail et à l'apprentissage en allemand, en français, en mathématiques et dans la discipline Natur-Mensch-Mitwelt, à suivre l'enseignement de MP, l’évaluation se faisant en appliquant par analogie les dispositions régissant la recommandation pour la fréquentation de la filière gymnasiale figurant dans la législation sur les écoles moyennes;
+- b dans la partie germanophone du canton, à la fin du premier semestre de la troisième année du degré secondaire I, est jugé apte, en ce qui concerne les compétences disciplinaires, méthodologiques et personnelles en allemand, en français, en mathématiques et dans la discipline «Natur-Mensch-Gesellschaft», à suivre l'enseignement de MP, l’évaluation se faisant en appliquant par analogie les dispositions régissant les recommandations pour la fréquentation de la filière gymnasiale;
 - b1 a été admis définitivement à la formation gymnasiale bilingue allemand-français dans un gymnase des régions Bienne-Seeland et Bienne-Jura bernois;
 - c dans la partie francophone du canton, fréquente une «section préparant aux écoles de maturité (section p)».
 
@@ -764,9 +764,12 @@ arrête:
 
 **Admission sans examen dans une EC avec MP dans la partie francophone du canton**
 
-<sup>1</sup> Dans la partie francophone du canton, est admis sans examen à une formation de trois ans dans une EC avec MP quiconque remplit les conditions de promotion de la section préparant à une école de maturité (section p) à la fin du premier semestre de la troisième année du degré secondaire I fréquentée dans une école publique.
+<sup>1</sup> Dans la partie francophone du canton, est admis sans examen à une formation de trois ans dans une EC avec MP quiconque fréquente en troisième année du degré secondaire I la section préparant à une école de maturité (section p) et, à la fin du premier semestre fréquenté dans une école publique, obtient en français, en allemand et en mathématiques le nombre de points suivant sans note insuffisante:
 
-<sup>2</sup> Dans la partie francophone du canton, est admis sans examen à une formation de quatre ans dans une EC avec MP quiconque totalise au minimum le nombre de points suivants, à la fin du premier semestre de la troisième année du degré secondaire I fréquentée dans une école publique, dans les disciplines français, allemand et mathématiques:
+- 1 Niveau AAA: — 12,0 points
+- 2 Niveau AAB: — 12,0 points
+
+<sup>2</sup> Dans la partie francophone du canton, est admis sans examen à une formation de quatre ans dans une EC avec MP quiconque totalise au minimum le nombre de points suivants, lors de l’évaluation à la fin du premier semestre de la troisième année du degré secondaire I fréquentée dans une école publique, dans les disciplines français, allemand et mathématiques:
 
 - 1\. Niveau AAA: — 12,0 points
 - 2\. Niveau AAB: — 12,0 points
@@ -1065,9 +1068,9 @@ arrête:
 
 #### Art. 59a
 
-**Certificats de maturité professionnelle**
+**Certificats émis ultérieurement**
 
-<sup>1</sup> Les certificats de maturité professionnelle et les bulletins de notes égarés sont remplacés par un duplicata signé par le chef ou la cheffe de la Section des écoles professionnelles de l’Office des écoles moyennes et de la formation professionnelle.
+<sup>1</sup> Si des certificats de maturité professionnelle ou des bulletins de notes doivent être émis ultérieurement, la cheffe ou le chef de la Section des écoles moyennes atteste l'exactitude du document nouvellement émis.
 
 #### Art. 60
 
