@@ -1,27 +1,27 @@
 ---
 canton: TG
 number: "411.111"
-title: Verordnung des Regierungsrates über die Volksschule
-short: RRV VG
+title: Volksschulverordnung
+short: VSV
 language: de
-version: 2019-08-01
-valid_until: 2022-07-31
-version_adopted: 2019-06-18
+version: 2022-08-01
+valid_until: 2023-12-31
+version_adopted: 2022-06-21
 adopted: 2007-12-11
 in_force: 2008-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/411.111"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2102/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2529/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung des Regierungsrates über die Volksschule
+# Volksschulverordnung
 
-RRV VG
+VSV
 
-(RRV VG)
+(VSV)
 
-vom 11.12.2007 (Stand 01.08.2019)
+vom 11.12.2007 (Stand 01.08.2022)
 
 ## 1. Aufsicht und kantonale Leistungen
 
@@ -48,15 +48,15 @@ vom 11.12.2007 (Stand 01.08.2019)
 <sup>1</sup> Der Kanton berät und unterstützt Lehrpersonen, Schulleitungen, Behörden und deren Mitglieder in berufsbezogenen Fragen und in schulischen Angelegenheiten, namentlich:
 
 - 1\.–2. …
-- 3\. in Entwicklungs- und Veränderungsprozessen;
-- 4\. bei schulischen, erzieherischen oder persönlichen Schwierigkeiten von Schülern oder Schülerinnen;
-- 5\. mit Vermittlung und Empfehlung pädagogisch-psychologischer, heilpädagogischer oder ärztlicher Massnahmen;
-- 6\. bei der Umsetzung integrativer Massnahmen;
-- 7\. mit Evaluation zur systematischen, ganzheitlichen Rückmeldung von Stärken und Schwächen von Schulen;
-- 8\. in finanziellen Fragen;
-- 9\. mit Förderung präventiver Massnahmen;
-- 10\. mit Vermittlung in schulischen Konflikten;
-- 11\. in Krisensituationen.
+- 3\. in Entwicklungs- und Veränderungsprozessen
+- 4\. bei schulischen, erzieherischen oder persönlichen Schwierigkeiten von Schülern oder Schülerinnen
+- 5\. mit Vermittlung und Empfehlung pädagogisch-psychologischer, heilpädagogischer oder ärztlicher Massnahmen
+- 6\. bei der Umsetzung integrativer Massnahmen
+- 7\. mit Evaluation zur systematischen, ganzheitlichen Rückmeldung von Stärken und Schwächen von Schulen
+- 8\. in finanziellen Fragen
+- 9\. mit Förderung präventiver Massnahmen
+- 10\. mit Vermittlung in schulischen Konflikten
+- 11\. in Krisensituationen
 
 <sup>2</sup> Für angeforderte Dienstleistungen, die in zeitlicher oder sachlicher Hinsicht ein Grundangebot überschreiten, sind Kostenbeiträge zu erheben. Das Departement legt einen Tarif fest.
 
@@ -108,13 +108,13 @@ vom 11.12.2007 (Stand 01.08.2019)
 
 **Organisationsplanung**
 
-<sup>1</sup> In den Schulgemeinden besteht
+<sup>1</sup> In den Schulgemeinden besteht:
 
-- 1\. eine klare Zuweisung von Aufgaben und Kompetenzen;
-- 2\. eine Planung der Team-, Unterrichts- und Organisationsentwicklung, namentlich der Weiterbildung sowie der pädagogischen Grundsätze;
-- 3\. eine Schulordnung, die Rechte und Pflichten in den örtlichen Schulbetrieben sowie nach Bedarf weitere schulbezogene Pflichten der Schüler und Schülerinnen regelt;
-- 4\. eine Regelung der Zusammenarbeit und des Informationsflusses zwischen Behörde, Schulleitungen, Lehrpersonen, Schülern und Schülerinnen sowie den Erziehungsberechtigten;
-- 5\. eine Regelung der Aussenkontakte, insbesondere mit kantonalen Stellen und Elternräten.
+- 1\. eine klare Zuweisung von Aufgaben und Kompetenzen
+- 2\. eine Planung der Team-, Unterrichts- und Organisationsentwicklung, namentlich der Weiterbildung sowie der pädagogischen Grundsätze
+- 3\. eine Schulordnung, die Rechte und Pflichten in den örtlichen Schulbetrieben sowie nach Bedarf weitere schulbezogene Pflichten der Schüler und Schülerinnen regelt
+- 4\. eine Regelung der Zusammenarbeit und des Informationsflusses zwischen Behörde, Schulleitungen, Lehrpersonen, Schülern und Schülerinnen sowie den Erziehungsberechtigten
+- 5\. eine Regelung der Aussenkontakte, insbesondere mit kantonalen Stellen und Elternräten
 
 #### § 8
 
@@ -122,8 +122,8 @@ vom 11.12.2007 (Stand 01.08.2019)
 
 <sup>1</sup> Die für die Personalführung zuständige Person
 
-- 1\. führt jährliche Mitarbeitergespräche;
-- 2\. besucht den Unterricht;
+- 1\. führt jährliche Mitarbeitergespräche,
+- 2\. besucht den Unterricht und
 - 3\. führt mindestens alle zwei Jahre eine Mitarbeiterbeurteilung mit Zielvereinbarung durch, für Teilzeitangestellte mit einem Anstellungsgrad von unter 50 % mindestens alle drei Jahre.
 
 <sup>2</sup> Wird die Führung durch ein Behördenmitglied wahrgenommen, muss sich dieses entsprechend der Aufgabe in Pädagogik, Personal- und Betriebsführung ausbilden und wie eine eingesetzte Schulleitung regelmässig weiterbilden. Das Amt kann einen Ausbildungsnachweis verlangen.
@@ -180,13 +180,13 @@ vom 11.12.2007 (Stand 01.08.2019)
 
 <sup>1</sup> Pro Abteilung sind folgende Schülerzahlen anzustreben:
 
-- 1\. Kindergarten 20;
-- 2\. Regelklasse 24;
-- 2a. Basisstufe 26;
-- 3\. Einschulungsklasse 12;
-- 4\. Sonderklasse 11;
-- 5\. Werken, Textilarbeit, Hauswirtschaftsunterricht an Regelklassen 12;
-- 6\. Werken, Textilarbeit, Hauswirtschaftsunterricht an Sonderklassen 8.
+- 1\. Kindergarten 20
+- 2\. Regelklasse 24
+- 2a. Basisstufe 26
+- 3\. Einschulungsklasse 12
+- 4\. Sonderklasse 11
+- 5\. Werken, Textilarbeit, Hauswirtschaftsunterricht an Regelklassen 12
+- 6\. Werken, Textilarbeit, Hauswirtschaftsunterricht an Sonderklassen 8
 
 <sup>2</sup> Liegen die Schülerzahlen pro Abteilung länger als zwei Jahre mehr als 20 % über oder mehr als 40 % unter dem Richtwert, ist eine Genehmigung der Schulaufsicht einzuholen.
 
@@ -346,9 +346,9 @@ vom 11.12.2007 (Stand 01.08.2019)
 
 <sup>1</sup> In der Sekundarschule kann auf eine äussere Typengliederung oder eine Niveauführung verzichtet werden, wenn
 
-- 1\. in jeder Klasse das ganze Leistungsspektrum der Regelschule geführt wird;
-- 2\. der Unterricht in den Fächern Deutsch, Französisch, Englisch, Mathematik und Realien, soweit sie von einem Verzicht betroffen sind, mit mindestens zwei Leistungszügen oder einer darüber hinausgehenden Differenzierung geführt wird;
-- 3\. die Zugehörigkeit zu einem Leistungszug für die in Ziff. 2 genannten Fächer mindestens auf jeden Zeugniszeitpunkt hin festgestellt wird;
+- 1\. in jeder Klasse das ganze Leistungsspektrum der Regelschule geführt wird,
+- 2\. der Unterricht in den Fächern Deutsch, Französisch, Englisch, Mathematik und Realien, soweit sie von einem Verzicht betroffen sind, mit mindestens zwei Leistungszügen oder einer darüber hinausgehenden Differenzierung geführt wird,
+- 3\. die Zugehörigkeit zu einem Leistungszug für die in Ziff. 2 genannten Fächer mindestens auf jeden Zeugniszeitpunkt hin festgestellt wird und
 - 4\. für die ganze Schuleinheit in gleicher Weise auf eine äussere Typengliederung oder eine Niveauführung verzichtet wird.
 
 ## 5. Pädagogische Massnahmen
@@ -363,12 +363,12 @@ vom 11.12.2007 (Stand 01.08.2019)
 
 <sup>2</sup> Die Schulgemeinde erlässt ein Förderkonzept, welches folgende Bereiche regelt:
 
-- 1\. Zielsetzung und Festlegung der sonderpädagogischen Massnahmen von der frühen Kindheit bis Ende der Schulpflicht sowie der Massnahmen der Begabtenförderung;
-- 2\. Umgang mit sonderschulbedürftigen Kindern;
-- 3\. Verfahren und Zuständigkeiten betreffend Anordnung von Massnahmen;
-- 4\. Zusammenarbeit aller beteiligten Personen;
-- 5\. Weiterbildung;
-- 6\. Art und Periodizität der Überprüfung der Wirksamkeit der individuellen Massnahmen.
+- 1\. Zielsetzung und Festlegung der sonderpädagogischen Massnahmen von der frühen Kindheit bis Ende der Schulpflicht sowie der Massnahmen der Begabtenförderung
+- 2\. Umgang mit sonderschulbedürftigen Kindern
+- 3\. Verfahren und Zuständigkeiten betreffend Anordnung von Massnahmen
+- 4\. Zusammenarbeit aller beteiligten Personen
+- 5\. Weiterbildung
+- 6\. Art und Periodizität der Überprüfung der Wirksamkeit der individuellen Massnahmen
 
 <sup>3</sup> Das Förderkonzept ist dem Amt zur Genehmigung vorzulegen.
 
@@ -424,11 +424,11 @@ vom 11.12.2007 (Stand 01.08.2019)
 
 #### § 34a
 
-**Integrationskurse**
+**Integration fremdsprachiger Jugendlicher**
 
-<sup>1</sup> Für fremdsprachige Jugendliche werden an maximal sechs Standorten Integrationskurse 1a angeboten. Die Klassengrösse beträgt mindestens fünf Schüler oder Schülerinnen.
+<sup>1</sup> Fremdsprachige Jugendliche werden bis in dem Schuljahr in die Volksschule aufgenommen, in dem sie das 16. Altersjahr vollenden (Stichtag: 31. Juli). Die Beschulung erfolgt entweder im Integrationskurs 1a oder angemessen in der eigenen Schulgemeinde.
 
-<sup>2</sup> Jugendliche werden ab dem Schuljahr aufgenommen, in dem sie das 13. Altersjahr vollenden. Sie besuchen den Kurs spätestens in dem Schuljahr, in dem sie das 16. Altersjahr vollenden.
+<sup>2</sup> Für fremdsprachige Jugendliche werden an maximal sechs Standorten Integrationskurse 1a angeboten. Es werden Jugendliche ab dem Schuljahr aufgenommen, in dem sie das 13. Altersjahr vollenden. Die Klassengrösse beträgt mindestens fünf Schüler oder Schülerinnen.
 
 <sup>3</sup> Der Integrationskurs 1a dauert in der Regel längstens ein Jahr und hat insbesondere das Erlernen der deutschen Sprache zum Inhalt.
 
@@ -490,11 +490,11 @@ vom 11.12.2007 (Stand 01.08.2019)
 
 <sup>1</sup> Das Departement erlässt ein vom Regierungsrat zu genehmigendes Rahmenkonzept für schulergänzende Angebote zur Begabtenförderung in Sport und Musik, das namentlich folgende Belange regelt:
 
-- 1\. Beitrag des Kantons und Beiträge der Schulortgemeinde, in der das Kind wohnt oder sich tatsächlich aufhält;
-- 2\. Strukturen und Vereinbarungen, welche vorliegen müssen;
-- 3\. Bewilligungsvoraussetzungen und -bedingungen;
-- 4\. Aufnahmeverfahren und -voraussetzungen;
-- 5\. Maximale Anzahl der Angebote und Plätze.
+- 1\. Beitrag des Kantons und Beiträge der Schulortgemeinde, in der das Kind wohnt oder sich tatsächlich aufhält
+- 2\. Strukturen und Vereinbarungen, welche vorliegen müssen
+- 3\. Bewilligungsvoraussetzungen und -bedingungen
+- 4\. Aufnahmeverfahren und -voraussetzungen
+- 5\. Maximale Anzahl der Angebote und Plätze
 
 <sup>2</sup> Das Departement kann auf Ersuchen von Schulgemeinden mit solchen Angeboten die Stundentafel anpassen.
 
@@ -596,16 +596,8 @@ vom 11.12.2007 (Stand 01.08.2019)
 
 <sup>1</sup> Die Schulgemeinden erstellen das Förderkonzept nach § 28 bis spätestens zu Beginn des Schuljahres 2014/2015.
 
-#### § 49
+#### § 49–50
 
-**Aufhebung bisherigen Rechtes**
-
-<sup>1</sup> Die Verordnung des Regierungsrates über die Volksschule und den Kindergarten vom 12. Dezember 1995 wird aufgehoben.
-
-#### § 50
-
-**Inkrafttreten**
-
-<sup>1</sup> Das Gesetz über die Volksschule sowie diese Verordnung treten am 1. Januar 2008 in Kraft.
+**…**
 
 ABl. 50/2007
