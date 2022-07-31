@@ -3,11 +3,10 @@ canton: ZH
 number: "413.250.1"
 title: Reglement für die Aufnahme in die Gymnasien mit Anschluss an die 6. Klasse der Primarschule
 language: de
-version: "2012-08-20"
-nachtrag: "78"
-valid_until: 2022-08-01
+version: "2022-08-01"
+nachtrag: "117"
 adopted: 2010-01-13
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-413_250_1-2010_01_13-2010_03_01-078.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-413_250_1-2010_01_13-2010_03_01-117.html"
 text: pdf
 ---
 
@@ -29,13 +28,15 @@ beschliesst:
 
 ### A. Allgemeine Bestimmungen
 
+[^hAAllgemeineBestim-1]: Fassung gemäss RRB vom 3. April 2019 (OS 74, 352; ABl 2019-04-12). In Kraft seit 1. August 2022 (OS 76, 267).
+
 #### § 1
 
 **Vorbildung**
 
-Der Eintritt in die 1. Klasse ist aus der 6. Klasse der zürcherischen Primarschule möglich oder setzt eine gleichwertige Ausbildung voraus. Schüler aus der 1. Klasse einer öffentlichen zürcherischen Sekundarstufe oder einer gleichwertigen privaten oder ausserkantonalen Schulstufe sind nicht zugelassen.
+Der Eintritt in die 1. Klasse ist aus der 6. Klasse der zürcherischen Primarschule möglich oder setzt eine gleichwertige Ausbildung voraus. Schülerinnen und Schüler[^hAAllgemeineBestim-1] aus der 1. Klasse einer öffentlichen zürcherischen Sekundarstufe oder einer gleichwertigen privaten oder ausserkantonalen Schulstufe sind nicht zugelassen.
 
-#### § 1a
+#### § 1 a
 
 **Vorzeitige Zulassung ab der 5. Kl. Ausnahmefälle Gesuch und Entscheid**
 
@@ -47,35 +48,51 @@ Der Eintritt in die 1. Klasse ist aus der 6. Klasse der zürcherischen Primarsch
 
 <sup>3</sup> Beim Überspringen der 6. Klasse der Primarschule erstellt die Lehrperson der 5. Klasse im Hinblick auf den Eintritt in die 1. Klasse des Gymnasiums einen Bericht zuhanden des Schulpsychologischen Dienstes. Dieser nimmt eine Abklärung vor. Gestützt auf die Berichte gibt die Schulpflege eine Empfehlung zuhanden des Gymnasiums und einer von der Bildungsdirektion bestimmten neutralen Abklärungsstelle ab. Die neutrale Abklärungsstelle gibt ihrerseits aufgrund einer Überprüfung der bisherigen Untersuchungen und allfälliger Ergänzungen vor Ablauf der Anmeldefrist für die Aufnahmeprüfung ein Gutachten zuhanden des Gymnasiums ab.
 
+[^1a-1]: Fassung gemäss RRB vom 3. April 2019 (OS 74, 352; ABl 2019-04-12). In Kraft seit 1. August 2022 (OS 76, 267).
+
 #### § 2
 
 **Altersgrenze**
 
-<sup>1</sup> In die 1. Klasse werden nur Bewerber zugelassen, die nicht vor dem 1. Mai des Eintrittsjahres das 15. Altersjahr vollenden. Bei einem späteren Eintritt verschiebt sich diese Altersgrenze entsprechend.
+<sup>1</sup> In die 1. Klasse werden nur Schülerinnen und Schüler zugelassen, die das 15. Altersjahr vor dem 1. August des Eintrittsjahres nicht vollendet haben. Für die Aufnahme in ein höheres Schuljahr gilt das entsprechend höhere Altersjahr.[^1a-1]
 
 <sup>2</sup> In Ausnahmefällen entscheidet die Schulleitung über die Zulassung.
 
 **1**
 
-- 1\. 10. 12 - 78 § 3. <sup>1</sup> Die ordentlichen Aufnahmeprüfungen finden im 2. Semester des Schuljahres statt.[^2-1]
+- 1\. 7. 22 - 117 § 2 a.[^2-1] <sup>1</sup> Schülerinnen und Schüler mit ausserkantonalem Wohnsitz können aufgenommen werden, wenn sie die Aufnahmebedingungen erfüllen, freie Ausbildungsplätze vorhanden sind und eine Kostenübernahme sichergestellt ist.
+
+**Ausserkantonaler Wohnsitz**
+
+<sup>2</sup> Aufnahmen, die gestützt auf ein Abkommen erfolgen, bleiben vorbehalten.
+
+[^2-1]: Eingefügt durch RRB vom 3. April 2019 (OS 74, 352; ABl 2019-04-12). In Kraft seit 1. August 2022 (OS 76, 267).
+[^2-2]: Fassung gemäss RRB vom 6. Juli 2011 (OS 66, 569; ABl 2011, 1952). In Kraft seit 22. August 2011.
+
+#### § 3
 
 **Prüfungstermine**
 
-<sup>2</sup> Ausserordentliche Prüfungen können auf jedes Semesterende angesetzt werden, wenn besondere Gründe vorliegen (z.B. Wechsel des Wohnortes).
+<sup>1</sup> Die ordentlichen Aufnahmeprüfungen finden im 2. Semester des Schuljahres statt.[^2-2]
 
-[^2-1]: Fassung gemäss RRB vom 6. Juli 2011 (OS 66, 569; ABl 2011, 1952). In Kraft seit 22. August 2011.
+<sup>2</sup> Jede Mittelschule erstellt bei Vorliegen besonderer Gründe ausserordentliche Aufnahmeprüfungen und führt diese durch. Bei entsprechender Nachfrage müssen sie mindestens auf Beginn jedes Semesters hin angesetzt werden.[^3-1]
 
-#### § 4
+**Anmeldegebühr**
 
-**Durchführung**
+§ 3 a.[^3-2] <sup>1</sup> Die Anmeldegebühr für die ordentliche Aufnahmeprüfung beträgt Fr. 50.
 
-Die Durchführung der Prüfungen obliegt den einzelnen Schulen. Für ausserordentliche Prüfungen ist eine Gebühr zu entrichten.
+<sup>2</sup> Für die ausserordentliche Aufnahmeprüfung wird eine angemessene Gebühr erhoben.
 
-#### § 5
+**Prüfungsart**
 
-**Ausschluss der Öffentlichkeit**
+§ 4.[^3-1] Die Prüfungen sind schriftlich.
 
-Die Prüfungen sind nicht öffentlich.
+**Prüfungsort und Öffentlichkeit**
+
+§ 5.[^3-1] Die Prüfungen finden an den einzelnen Schulen statt und sind nicht öffentlich.
+
+[^3-1]: Fassung gemäss RRB vom 3. April 2019 (OS 74, 352; ABl 2019-04-12). In Kraft seit 1. August 2022 (OS 76, 267).
+[^3-2]: Eingefügt durch RRB vom 3. April 2019 (OS 74, 352; ABl 2019-04-12). In Kraft seit 1. August 2022 (OS 76, 267).
 
 ### B. Aufnahme in die 1. Klasse
 
@@ -83,7 +100,24 @@ Die Prüfungen sind nicht öffentlich.
 
 § 6.[^hBAufnahmeindie1-1] Für die Anforderungen, die an der Aufnahmeprüfung gestellt werden, sind der Lehrplan und die obligatorischen Lehrmittel der zürcherischen Primarstufe sowie das vom Bildungsrat erlassene Anschlussprogramm für den Übertritt von der Primarstufe an zürcherische Mittelschulen massgebend.
 
+**Termine a. Anmeldung**
+
+§ 6 a.[^hBAufnahmeindie1-2] Die Anmeldung zur Aufnahmeprüfung erfolgt bis zum 10. Februar im Schuljahr, das dem Übertritt vorangeht.
+
+**b. Prüfung**
+
+§ 6 b.[^hBAufnahmeindie1-2] <sup>1</sup> Die einheitlichen Aufnahmeprüfungen finden gleichzeitig im März statt, in der Regel in den Kalenderwochen 10 oder 11.
+
+<sup>2</sup> Die Prüfung wird an einem Tag durchgeführt.
+
+<sup>3</sup> Für Schülerinnen und Schüler, die den Prüfungstermin entschuldigt nicht wahrnehmen konnten, findet möglichst bald eine Nachprüfung statt.
+
+**c. Festlegung und Veröffentlichung**
+
+§ 6 c.[^hBAufnahmeindie1-2] Die Prüfungskommission bestimmt die Termine und veröffentlicht diese rechtzeitig.
+
 [^hBAufnahmeindie1-1]: Fassung gemäss RRB vom 6. Juli 2011 (OS 66, 569; ABl 2011, 1952). In Kraft seit 22. August 2011.
+[^hBAufnahmeindie1-2]: Eingefügt durch RRB vom 3. April 2019 (OS 74, 352; ABl 2019-04-12). In Kraft seit 1. August 2022 (OS 76, 267).
 
 #### § 7
 
@@ -93,92 +127,136 @@ Die Prüfungsfächer sind Deutsch und Mathematik.
 
 **Prüfung**
 
-§ 8.[^7-1] <sup>1</sup> Die Prüfung wird schriftlich an einem oder zwei Tagen durchgeführt. Sie umfasst folgende Teile:
+§ 8.[^7-1] <sup>1</sup> Die schriftliche Prüfung umfasst die folgenden Prüfungsteile:
 
-**60 Minuten**
+- a. Deutsch:
 
-Deutsch: Verfassen eines Textes Textverständnis und Sprachbetrachtung 45 Minuten Mathematik:
+**60 Minuten 45 Minuten 60 Minuten**
 
-**60 Minuten**
+- 1\. Verfassen eines Textes
 
-<sup>2</sup> Die Prüfungsaufgaben und die Bewertungsrichtlinien werden durch Fachkommissionen erstellt, die aus Mittelschul- und Primarlehrpersonen zusammengesetzt sind. Die Leistung wird von Mittelschullehrpersonen bewertet, Primarlehrpersonen wirken als Experten mit.
+- 2\. Sprachbetrachtung und Textverständnis
 
-§ 9.[^7-2]
+- b. Mathematik:
 
-**Prüfungsnote**
+<sup>2</sup> Die Prüfungsaufgaben und die Bewertungsrichtlinien werden durch Fachkommissionen erstellt, die aus Mittelschul- und Primarlehrpersonen zusammengesetzt sind. Die Leistung wird von Mittelschullehrpersonen bewertet, Primarlehrpersonen wirken als Expertinnen und Experten mit.
+
+**Durchführung der Prüfung a. Nachteilsausgleich**
+
+§ 9.[^7-2],[^7-3] <sup>1</sup> Schülerinnen und Schüler mit behinderungsbedingten Erschwernissen können der Schulleitung ein Gesuch stellen zur Anordnung von Massnahmen, die dem Ausgleich der Erschwernisse an der Aufnahmeprüfung dienen (Nachteilsausgleich). Sie müssen die geltend gemachten Erschwernisse nachweisen.
+
+<sup>2</sup> Die Schulleitung entscheidet über den Einsatz besonderer Hilfsmittel oder die Anordnung besonderer Rahmenbedingungen, damit die Leistungsfähigkeit der Schülerin oder des Schülers angemessen beurteilt werden kann.
+
+<sup>3</sup> Das Mittelschul- und Berufsbildungsamt legt die Anforderungen an den Nachweis fest.
+
+<sup>4</sup> Das Gesuch ist spätestens mit der Anmeldung zur Aufnahmeprüfung einzureichen.
+
+**b. Verhinderung**
+
+§ 9 a.[^7-3] <sup>1</sup> Wer die Prüfung oder Teile davon aufgrund eines zwingenden, unvorhersehbaren und unabwendbaren Verhinderungsgrundes nicht antreten oder zu Ende führen kann, meldet dies unverzüglich der Schulleitung oder der Prüfungsaufsicht.
+
+<sup>2</sup> Der Verhinderungsgrund ist zu belegen. Wer medizinische Gründe geltend macht, reicht der Schulleitung innert dreier Tage ein ärztliches Zeugnis ein.
+
+<sup>3</sup> Wer einer Prüfung oder Teilen davon unentschuldigt fernbleibt, hat die Prüfung nicht bestanden.
+
+<sup>4</sup> Verhinderungsgründe, die im Zeitpunkt der Prüfung bekannt oder erkennbar waren, können nicht geltend gemacht werden, nachdem die Prüfung ganz oder teilweise abgelegt wurde.
+
+**3**
+
+- 1\. 7. 22 - 117 § 9 b.[^7-3] <sup>1</sup> Die Schulleitung erklärt die Prüfung als nicht bestanden, wenn eine Schülerin oder ein Schüler anlässlich der Prüfung unerlaubte Hilfsmittel verwendet, zu verwenden versucht oder sonstige Unredlichkeiten begeht.
+
+**c. Unredlichkeiten**
+
+<sup>2</sup> Sie kann die Zulassung zur Aufnahmeprüfung bei Unredlichkeiten im Zusammenhang mit der Anmeldung zur Prüfung verweigern.
+
+**Prüfungsergebnis a. Prüfungsnote**
 
 § 10.[^7-1] <sup>1</sup> Die Noten der einzelnen Prüfungsteile gemäss § 8 Abs. 1 werden in ganzen, halben oder Viertelnoten ausgedrückt.
 
-<sup>2</sup> Zur Ermittlung der Note im Fach Deutsch haben die Noten für den verfassten Text sowie für Textverständnis und Sprachbetrachtung je hälftiges Gewicht. Die Note im Fach Deutsch wird in zwei Dezimalstellen ausgedrückt.
+<sup>2</sup> Die Noten der zwei Prüfungsteile im Fach Deutsch werden gleich gewichtet. Die Note wird nicht gerundet.
 
-<sup>3</sup> Die Prüfungsnote ist das Mittel aus der Note im Fach Deutsch und der Note in Mathematik. Sie wird in zwei Dezimalstellen ausgedrückt.
+<sup>3</sup> Die Prüfungsnote ist der Durchschnitt der Noten in den Fächern Deutsch und Mathematik. Die Prüfungsnote wird auf zwei Dezimalstellen gerundet, wenn die Erfahrungsnote nicht berücksichtigt wird. Sie wird nicht gerundet, wenn die Erfahrungsnote berücksichtigt wird.
 
-[^7-1]: Fassung gemäss RRB vom 8. Februar 2012 (OS 67, 139; ABl 2012, 289). In Kraft seit 20. August 2012.
-[^7-2]: Aufgehoben durch RRB vom 8. Februar 2012 (OS 67, 139; ABl 2012, 289). In Kraft seit 20. August 2012. 1. 10. 12 - 78 5
+**b. Berücksichtigung der Erfahrungsnote**
 
-#### § 11
+§ 11.[^7-1] <sup>1</sup> Für die Berechnung des Prüfungsergebnisses wird bei Schülerinnen und Schülern, die im Zeitpunkt der Anmeldung die 6. Klasse einer öffentlichen zürcherischen oder entsprechenden ausserkantonalen öffentlichen Primarschule besuchen, die Erfahrungsnote mitberücksichtigt.
 
-**Erfahrungsnote**
+<sup>2</sup> Die Erfahrungsnote wird aus dem Durchschnitt der Noten in Deutsch und Mathematik des Zeugnisses vor der Prüfung berechnet. Die Note wird nicht gerundet.
 
-<sup>1</sup> Für den Entscheid über die Aufnahme wird bei Kandidaten aus öffentlichen zürcherischen oder entsprechenden ausserkantonalen öffentlichen Schulen, die im Zeitpunkt der Anmeldung die 6. Klasse der Primarschule besuchen, die Erfahrungsnote mitberücksichtigt.
+<sup>3</sup> Die Eltern lassen die Noten von der Lehrperson bestätigen und reichen sie mit dem Anmeldeformular ein.[^7-4]
 
-<sup>2</sup> Bei Kandidaten aus der 5. Klasse der Primarschule, die gemäss § 1a zur Aufnahmeprüfung zugelassen werden, wird für den Entscheid über die Aufnahme die Erfahrungsnote nicht berücksichtigt.
+**c. Ergebnis mit Erfahrungsnote**
 
-<sup>3</sup> Massgebend ist bei Schülern der 6. Klasse der Primarschule das letzte reguläre Zeugnis.
+§ 12.[^7-1] Die Prüfung ist bestanden, wenn der Durchschnitt aus der Prüfungsnote und der Erfahrungsnote mindestens 4,75 beträgt. Massgebend ist die auf zwei Dezimalstellen gerundete Note.
 
-<sup>4</sup> Die Eltern lassen die Noten von der Lehrperson bestätigen und reichen sie mit dem Anmeldeformular ein.[^11-1]
+**d. Ergebnis ohne Erfahrungsnote**
 
-<sup>5</sup> Als Erfahrungsnote gilt bei Schülern der 6. Klasse der Primarschule das Mittel aus den Noten in Deutsch und Mathematik.
+§ 13.[^7-1] Schülerinnen und Schüler, deren Erfahrungsnote nicht berücksichtigt wird, haben die Prüfung bestanden, wenn die schriftliche Prüfungsnote mindestens 4,5 beträgt.
 
-**Entscheid mit Erfahrungsnote**
+**Zweisprachiger Maturitätsgang**
 
-§ 12.[^11-1] Die Prüfung ist bestanden, wenn der Durchschnitt aus der Prüfungsnote und der Erfahrungsnote mindestens 4,5 beträgt.
+§ 13 a.[^7-3] <sup>1</sup> Führt eine Schule für die ersten beiden Klassen einen zweisprachigen Maturitätsgang, entscheidet die Schulleitung über die Aufnahme. Massgebend sind die Noten der Aufnahmeprüfung.
 
-**Entscheid ohne Erfahrungsnote**
+<sup>2</sup> Es besteht kein Anspruch auf Aufnahme.
 
-§ 13.[^11-1] Bei Kandidaten, deren Erfahrungsnote gemäss § 11 nicht berücksichtigt werden kann, entscheidet allein das Prüfungsergebnis. Eine schriftliche Prüfungsnote von mindestens 4 berechtigt zur Aufnahme.
+**Mitteilung des Aufnahmeentscheides**
 
-[^11-1]: Fassung gemäss RRB vom 8. Februar 2012 (OS 67, 139; ABl 2012, 289). In Kraft seit 20. August 2012.
+§ 13 b.[^7-3] <sup>1</sup> Die Schulleitung teilt den Schülerinnen und Schülern das Prüfungsergebnis und den Entscheid über die Aufnahme mit. Zusätzlich teilt sie den Entscheid über die Aufnahme in den zweisprachigen Maturitätsgang mit.
 
-#### § 14
+<sup>2</sup> Sie teilt den Schülerinnen und Schülern am Ende der Probezeit den Entscheid über die definitive Aufnahme mit.
+
+**Einsicht in die Prüfungen**
+
+§ 13 c.[^7-3] <sup>1</sup> Die Schulleitung setzt mindestens einen Termin für die Einsicht in die Prüfungen fest. Sie teilt den Schülerinnen und Schülern diesen zusammen mit dem Entscheid über die Aufnahme mit.
+
+<sup>2</sup> Von den Prüfungen dürfen Fotos erstellt werden. Für die Erstellung von Fotokopien wird eine Gebühr erhoben.
+
+<sup>3</sup> Den Schülerinnen und Schülern steht während der Rekursfrist Einsicht in die Prüfungen zu.
 
 **Eintritt aus Mittelschulen**
 
-Schüler eidgenössisch anerkannter Gymnasien werden prüfungsfrei übernommen, sofern sie an ihrer angestammten Schule in die nächste Klasse übertreten könnten und sofern der Schulwechsel wegen eines Wohnortswechsels der Inhaber der elterlichen Gewalt notwendig wird.
+§ 14.[^7-1] Schülerinnen und Schüler, die in einem anderen Kanton das Zulassungsverfahren für eine öffentliche Mittelschule im Anschluss an die 6. Klasse der Primarschule erfolgreich durchlaufen haben, werden prüfungsfrei aufgenommen.
 
-[^14-1]: Fassung gemäss RRB vom 8. Februar 2012 (OS 67, 139; ABl 2012, 289). In Kraft seit 20. August 2012.
+[^7-1]: Fassung gemäss RRB vom 3. April 2019 (OS 74, 352; ABl 2019-04-12). In Kraft seit 1. August 2022 (OS 76, 267).
+[^7-2]: Aufgehoben durch RRB vom 8. Februar 2012 (OS 67, 139; ABl 2012, 289). In Kraft seit 20. August 2012.
+[^7-3]: Eingefügt durch RRB vom 3. April 2019 (OS 74, 352; ABl 2019-04-12). In Kraft seit 1. August 2022 (OS 76, 267).
+[^7-4]: Fassung gemäss RRB vom 8. Februar 2012 (OS 67, 139; ABl 2012, 289). In Kraft seit 20. August 2012.
 
 #### § 15
 
 **Probezeit**
 
-<sup>1</sup> Die Aufnahme erfolgt für eine Probezeit von einem Semester. Nach Ablauf der Probezeit entscheidet der Klassenkonvent gemäss Promotionsreglement über die endgültige Aufnahme.[^14-1]
+<sup>1</sup> Die Aufnahme erfolgt für eine Probezeit von einem Semester. Nach Ablauf der Probezeit entscheidet der Klassenkonvent gemäss Promotionsreglement über die endgültige Aufnahme.[^7-4]
 
 <sup>2</sup> Die bestandene Aufnahmeprüfung berechtigt zum Eintritt in die Probezeit nur im unmittelbar folgenden Schuljahr.
 
-### C. Aufnahme in höhere Klassen und in die 1. Klasse im Laufe
+[^15-1]: Fassung gemäss RRB vom 3. April 2019 (OS 74, 352; ABl 2019-04-12). In Kraft seit 1. August 2022 (OS 76, 267).
 
-des Schuljahres
+### C. Aufnahme nach Beginn der 1. Klasse
+
+[^15-1]
 
 **Voraussetzungen**
 
-§ 16. <sup>1</sup> Schüler, die in eine höhere Klasse oder nach Beginn des Schuljahres in die 1. Klasse eintreten wollen, müssen sich über eine entsprechende Vorbildung ausweisen. Der Eintritt kann spätestens ein Jahr vor dem Maturitätsabschluss erfolgen.
+§ 16.[^hCAufnahmenachBeg-1] <sup>1</sup> Schülerinnen und Schüler, die in eine höhere Klasse oder nach Beginn des Schuljahres in die 1. Klasse eintreten wollen, müssen ihre Vorbildung belegen. Die Schulleitung dieser Schule beurteilt die Gleichwertigkeit der Vorbildung und entscheidet über die Aufnahme.
 
-**3**
+<sup>2</sup> Der Eintritt kann spätestens ein Jahr vor dem Maturitätsabschluss erfolgen.
 
-- 1\. 10. 12 - 78
-
-<sup>2</sup> Schülern, die ihre bisherige Schule aus disziplinarischen Gründen verlassen mussten, kann ein sofortiger Übertritt an eine zürcherische Mittelschule verweigert werden. Der Präsident der Schulkommission entscheidet darüber auf Antrag der Schulleitung.
-
-#### § 17
+<sup>3</sup> Schülerinnen und Schüler, die ihre bisherige Schule aus disziplinarischen Gründen verlassen mussten, haben keinen Anspruch auf Aufnahme. Die Präsidentin oder der Präsident der Schulkommission der Schule, in welche die Schülerin oder der Schüler eintreten will, entscheidet über die Aufnahme auf Antrag der Schulleitung.
 
 **Aufnahmebedingungen**
 
-<sup>1</sup> Schüler aus eidgenössisch anerkannten Maturitätsschulen werden mit dem gleichen Promotionsstand prüfungsfrei übernommen, sofern kein Profilwechsel vorliegt und sofern der Schulwechsel durch einen Wohnortswechsel der Eltern bedingt ist.
+§ 17.[^hCAufnahmenachBeg-1] <sup>1</sup> Schülerinnen und Schüler aus öffentlichen Mittelschulen mit Anschluss an die 6. Klasse der Primarschule werden mit dem Promotionsstand an ihrer bisherigen Schule prüfungsfrei in die der Vorbildung entsprechende Klassenstufe aufgenommen.
 
-<sup>2</sup> Alle andern Schüler haben eine Prüfung nach Anordnung der Schulleitung abzulegen.
+<sup>2</sup> Repetitionen und Provisorien in den Klassenstufen, die der vierjährigen zürcherischen Mittelschule entsprechen, werden angerechnet. Die Schule übernimmt auferlegte Disziplinarmassnahmen.
 
-<sup>3</sup> Repetitionen (ab 9. Schuljahr) und Provisorien werden entsprechend den Promotionsbestimmungen angerechnet.
+**5**
+
+- 1\. 7. 22 - 117
+
+<sup>3</sup> Alle anderen Schülerinnen und Schüler legen eine ausserordentliche Aufnahmeprüfung nach Anordnung der Schulleitung ab.
+
+[^hCAufnahmenachBeg-1]: Fassung gemäss RRB vom 3. April 2019 (OS 74, 352; ABl 2019-04-12). In Kraft seit 1. August 2022 (OS 76, 267).
 
 #### § 18
 
@@ -186,29 +264,48 @@ des Schuljahres
 
 Die Aufnahme in höhere Klassen und in die 1. Klasse im Laufe des Schuljahres erfolgt auf eine Probezeit von in der Regel einem Semester. Nach ihrem Ablauf entscheidet der Klassenkonvent gemäss Promotionsreglement über die endgültige Aufnahme. Vorbehalten bleibt § 17 Abs. 1.
 
+[^18-1]: Fassung gemäss RRB vom 3. April 2019 (OS 74, 352; ABl 2019-04-12). In Kraft seit 1. August 2022 (OS 76, 267).
+
 #### § 19
 
 **Wiedereintritt**
 
-Schüler, die ausgetreten sind, haben bei ihrem Wiedereintritt grundsätzlich eine Aufnahmeprüfung nach Anordnung der Schulleitung zu bestehen. Eine allfällige Repetition und allfällige Provisorien werden angerechnet.
+Schülerinnen und Schüler[^18-1], die ausgetreten sind, haben bei ihrem Wiedereintritt grundsätzlich eine Aufnahmeprüfung nach Anordnung der Schulleitung zu bestehen. Eine allfällige Repetition und allfällige Provisorien werden angerechnet.
 
 ### D. Besondere Bestimmungen
 
-#### § 20
+**Besondere Umstände**
 
-**Freie Würdigung**
+§ 20.[^hDBesondereBestimm-1] <sup>1</sup> Die Schulleitung kann beim Entscheid über die Aufnahme besondere Umstände angemessen berücksichtigen.
 
-Schulleitung oder zuständige Konvente können bei ihren Entscheiden über die Aufnahme besonderen Umständen angemessen Rechnung tragen.
+<sup>2</sup> Der Klassenkonvent kann beim Entscheid über die definitive Aufnahme am Ende der Probezeit bei besonderen Umständen zugunsten der Schülerin oder des Schülers von den Promotionsbestimmungen abweichen.
 
-#### § 21
+**Aufnahmen aus ausländischen Bildungssystemen**
 
-**Hospitanten**
+§ 20 a.[^hDBesondereBestimm-2] <sup>1</sup> Schülerinnen und Schüler aus ausländischen Bildungssystemen müssen ihre Vorbildung belegen.
 
-Die Schulleitung ist berechtigt, Schüler in besonderen Fällen ohne Prüfung für eine beschränkte Zeit als Hospitanten aufzunehmen. Hospitanten unterstehen den Promotionsbestimmungen nicht.
+<sup>2</sup> Die Schulleitung beurteilt die Gleichwertigkeit der Vorbildung. Sie kann verlangen, dass die Schülerinnen oder Schüler eine Aufnahmeprüfung ablegen, oder diese als Hospitantinnen oder Hospitanten aufnehmen.
 
-E.
+**Hospitantinnen und Hospitanten**
 
-#### § 22
+§ 21.[^hDBesondereBestimm-1] <sup>1</sup> Die Schulleitung kann in besonderen Fällen Hospitantinnen und Hospitanten aufnehmen. Die Aufnahme erfolgt ohne Prüfung und in der Regel für längstens zwei Semester.
+
+<sup>2</sup> Hospitantinnen und Hospitanten, die als Schülerinnen und Schüler aufgenommen werden wollen, unterstehen in der Regel im zweiten Semester den Promotionsbestimmungen. Erfüllen sie die Promotionsbedingungen, werden sie aufgenommen. Eine Aufnahme kann spätestens ein Jahr vor dem Maturitätsabschluss erfolgen.
+
+[^hDBesondereBestimm-1]: Fassung gemäss RRB vom 3. April 2019 (OS 74, 352; ABl 2019-04-12). In Kraft seit 1. August 2022 (OS 76, 267).
+[^hDBesondereBestimm-2]: Eingefügt durch RRB vom 3. April 2019 (OS 74, 352; ABl 2019-04-12). In Kraft seit 1. August 2022 (OS 76, 267).
+
+### E. Rechtsmittel
+
+[^hDBesondereBestimm-2]
+
+§ 22.[^hERechtsmittelhDB-1] <sup>1</sup> Die Entscheide über die Aufnahme können mit Rekurs bei der Bildungsdirektion angefochten werden.
+
+<sup>2</sup> Bei Anordnungen über die Erfahrungsnoten kann ein Entscheid der Schulpflege verlangt werden.
+
+<sup>3</sup> Werden die Erfahrungsnoten zusammen mit dem Entscheid über die Aufnahme angefochten, sistiert die Bildungsdirektion das Rekursverfahren in der Regel bis zum Vorliegen des Entscheides der Schulpflege.
+
+[^hERechtsmittelhDB-1]: Eingefügt durch RRB vom 3. April 2019 (OS 74, 352; ABl 2019-04-12). In Kraft seit 1. August 2022 (OS 76, 267).
 
 ### F. Schlussbestimmung
 
@@ -228,4 +325,24 @@ Schüler, die im Schuljahr 2004/05 die Probezeit nicht bestanden haben, werden i
 
 Die am 28. Mai 2008 beschlossene Änderung[^hÜbergangsbestimmung_2-1] von § 1 gilt nicht für diejenigen Schülerinnen und Schüler, die im Schuljahr 2007/08 die 6. Klasse der Primarschule besucht haben.
 
+**7**
+
+- 1\. 7. 22 - 117
+
 [^hÜbergangsbestimmung_2-1]: OS 63, 279.
+
+### Übergangsbestimmung zur Änderung vom 3. April 2019 (OS 74, 352)
+
+Als Stichtage für die Altersgrenze gemäss § 2 gelten:
+
+- a. bis zum Eintrittsjahr 2021 der 1. Mai,
+
+- b. im Eintrittsjahr 2022 der 16. Mai,
+
+- c. im Eintrittsjahr 2023 der 1. Juni,
+
+- d. im Eintrittsjahr 2024 der 16. Juni,
+
+- e. im Eintrittsjahr 2025 der 1. Juli,
+
+- f. im Eintrittsjahr 2026 der 16. Juli.
