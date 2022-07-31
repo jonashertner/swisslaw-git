@@ -4,13 +4,13 @@ number: "411.0.11"
 title: Règlement de la loi sur la scolarité obligatoire
 short: RLS
 language: fr
-version: 2022-07-01
-valid_until: 2022-07-31
-version_adopted: 2022-07-04
+version: 2022-08-01
+valid_until: 2022-12-31
+version_adopted: 2022-06-14
 adopted: 2016-04-19
 in_force: 2016-08-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/411.0.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7514/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7573/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Scolarité obligatoire – R
 
 (RLS)
 
-du 19.04.2016 (version entrée en vigueur le 01.07.2022)
+du 19.04.2016 (version entrée en vigueur le 01.08.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -45,7 +45,7 @@ Arrête:
 
 <sup>1</sup> Les communes établissent chaque année la liste des enfants domiciliés sur leur territoire devant commencer l'école obligatoire et en informent les parents concernés jusqu'au 31 janvier.
 
-<sup>2</sup> A la rentrée scolaire, le ou la responsable d'établissement primaire s'assure que l'obligation scolaire est respectée sur la base des informations fournies par les communes.
+<sup>2</sup> A la rentrée scolaire, la direction d'établissement s'assure que l'obligation scolaire est respectée sur la base des informations fournies par les communes.
 
 #### Art. 2
 
@@ -53,7 +53,7 @@ Arrête:
 
 <sup>1</sup> Les parents peuvent adresser par écrit, jusqu'au 30 mars, une demande à l'inspecteur ou à l'inspectrice scolaire afin de reporter l'âge d'entrée de leur enfant à l'école.
 
-<sup>2</sup> L'inspecteur ou l'inspectrice scolaire s'entretient avec les parents avant d'accorder par écrit la dérogation, dont une copie est adressée au ou à la responsable d'établissement et à la commune de domicile ou de résidence habituelle de l'enfant.
+<sup>2</sup> L'inspecteur ou l'inspectrice scolaire s'entretient avec les parents avant d'accorder par écrit la dérogation, dont une copie est adressée à la direction d'établissement et à la commune de domicile ou de résidence habituelle de l'enfant.
 
 #### Art. 3
 
@@ -244,7 +244,7 @@ Arrête:
 
 **Premier cycle (art. 8 al. 2 LS)**
 
-<sup>1</sup> La ou les communes d'un cercle scolaire, sur la proposition du ou de la responsable d'établissement primaire, peuvent décider de réunir les élèves du premier cycle (1–4H) dans une même classe dans la mesure où:
+<sup>1</sup> La ou les communes d'un cercle scolaire, sur la proposition de la direction d'établissement, peuvent décider de réunir les élèves du premier cycle (1–4H) dans une même classe dans la mesure où:
 
 - a) un nombre suffisant d'élèves fréquentera l'enseignement commun sur une période prolongée;
 - b) des locaux appropriés sont disponibles;
@@ -458,6 +458,22 @@ Arrête:
 
 <sup>4</sup> Les parents et les communes sont informés au plus tôt de la mise en congé des élèves.
 
+#### Art. 36a
+
+**Jours joker (art. 21 al.2 LS)**
+
+<sup>1</sup> Les jours joker ne peuvent pas être utilisés le premier jour d'école de l'année scolaire, lors des activités scolaires définies à l'article 33 et durant les jours de tests de référence cantonale, intercantonale ou internationale.
+
+<sup>2</sup> En début d'année scolaire, la direction d'établissement peut déterminer d'autres occasions particulières où un jour joker ne peut pas être pris.
+
+<sup>3</sup> Les jours joker peuvent être cumulés. Les jours joker non utilisés ne peuvent pas être reportés à l'année scolaire suivante.
+
+<sup>4</sup> En cas d'absences non justifiées d'un ou d'une élève, la direction d'établissement peut restreindre ou refuser l'utilisation des jours joker.
+
+<sup>5</sup> Les parents informent l'établissement de la prise d'un jour joker au moins une semaine à l'avance.
+
+<sup>6</sup> Les parents sont responsables des congés qu'ils sollicitent pour leurs enfants et assument le suivi des programmes. A la demande de l'école, les élèves rattrapent la matière et les évaluations manquées.
+
 #### Art. 37
 
 **Congé à un ou une élève (art. 21 LS) – Principes**
@@ -469,7 +485,7 @@ Arrête:
 - c) un événement sportif ou artistique d'importance auquel l'élève participe activement;
 - d) à l'école du cycle d'orientation, un stage, un examen ou un autre événement relevant de l'orientation professionnelle s'il ne peut être effectué en dehors du temps scolaire.
 
-<sup>2</sup> Sous réserve d'un motif cité à l'alinéa 1, il n'est pas accordé de congé immédiatement avant ou après les vacances scolaires ou un jour férié.
+<sup>2</sup> …
 
 #### Art. 38
 
@@ -670,9 +686,9 @@ Arrête:
 
 **Effectifs des classes (art. 26 et 27 LS) – Ecole primaire d) Répartition des classes primaires**
 
-<sup>1</sup> Le ou la responsable d'établissement primaire répartit les classes par année d'enseignement en fonction du nombre de classes attribué au cercle scolaire ou à l'établissement. Il ou elle répartit également les élèves dans les classes et les classes dans les locaux scolaires. Ces répartitions sont soumises pour approbation aux communes et à l'inspecteur ou à l'inspectrice scolaire.
+<sup>1</sup> La direction d'établissement répartit les classes par année d'enseignement en fonction du nombre de classes attribué au cercle scolaire ou à l'établissement. Elle répartit également les élèves dans les classes et les classes dans les locaux scolaires. Ces répartitions sont soumises pour approbation aux communes et à l'inspecteur ou à l'inspectrice scolaire.
 
-<sup>2</sup> Les classes sont attribuées aux enseignants et enseignantes par le ou la responsable d'établissement primaire.
+<sup>2</sup> Les classes sont attribuées aux enseignants et enseignantes par la direction d'établissement.
 
 #### Art. 48
 
@@ -731,9 +747,9 @@ Arrête:
 
 **Effectifs des classes (art. 26 et 27 LS) – Ecole du cycle d'orientation c) Répartition des classes du cycle d'orientation**
 
-<sup>1</sup> Le directeur ou la directrice répartit les classes par année d'enseignement en fonction du nombre de classes attribué à l'établissement. Il ou elle répartit également les élèves dans les classes et les classes dans les locaux scolaires. Ces répartitions sont soumises pour approbation aux communes et à l'inspecteur ou à l'inspectrice scolaire.
+<sup>1</sup> La direction d'établissement répartit les classes par année d'enseignement en fonction du nombre de classes attribué à l'établissement. Elle répartit également les élèves dans les classes et les classes dans les locaux scolaires. Ces répartitions sont soumises pour approbation aux communes et à l'inspecteur ou à l'inspectrice scolaire.
 
-<sup>2</sup> Les classes sont attribuées aux enseignants et enseignantes par le directeur ou la directrice.
+<sup>2</sup> Les classes sont attribuées aux enseignants et enseignantes par la direction d'établissement.
 
 #### Art. 51
 
@@ -1087,13 +1103,13 @@ Arrête:
 
 <sup>2</sup> Les indicateurs permettant de prendre une décision de préorientation sont l'avis des enseignants et enseignantes de 8H, les notes du premier semestre de la 8H, l'avis des parents et de l'élève et les résultats obtenus à l'évaluation de préorientation.
 
-<sup>3</sup> Lorsque les trois premiers indicateurs sont concordants, le directeur ou la directrice confirme l'accès de l'élève au type de classe correspondant. En cas de non-concordance, le directeur ou la directrice décide de la préorientation de l'élève en tenant compte des quatre indicateurs.
+<sup>3</sup> Lorsque les trois premiers indicateurs sont concordants, la direction d'établissement confirme l'accès de l'élève au type de classe correspondant. En cas de non-concordance, la direction d'établissement décide de la préorientation de l'élève en tenant compte des quatre indicateurs.
 
 <sup>4</sup> La procédure vise à une préorientation. La perméabilité entre les types de classes constitue une possibilité d'orientation en continu.
 
 <sup>5</sup> La procédure de préorientation est définie par la Direction.
 
-<sup>6</sup> La préorientation des élèves provenant d'autres cantons, de l'étranger ou de l'enseignement privé est décidée par le directeur ou la directrice.
+<sup>6</sup> La préorientation des élèves provenant d'autres cantons, de l'étranger ou de l'enseignement privé est décidée par la direction d'établissement.
 
 #### Art. 81
 
@@ -1105,7 +1121,7 @@ Arrête:
 
 <sup>3</sup> Le changement vers un type de classe plus exigeant est facilité par une pédagogie de soutien de durée limitée organisée par l'établissement en plus des unités d'enseignement hebdomadaires.
 
-<sup>4</sup> Avant de décider d'un changement de type de classe, le directeur ou la directrice entend l'élève et ses parents et prend l'avis des enseignants et enseignantes concernés.
+<sup>4</sup> Avant de décider d'un changement de type de classe, la direction d'établissement entend l'élève et ses parents et prend l'avis des enseignants et enseignantes concernés.
 
 <sup>5</sup> La Direction fixe les conditions d'un changement de type de classe.
 
@@ -1115,7 +1131,7 @@ Arrête:
 
 <sup>1</sup> L'orientation continue des élèves est favorisée:
 
-- a) par une concertation régulière entre le directeur ou la directrice, le corps enseignant, les parents et l'élève; d'autres professionnel-le-s intervenant auprès de l'élève peuvent être amenés à collaborer;
+- a) par une concertation régulière entre la direction d'établissement, le corps enseignant, les parents et l'élève; d'autres professionnel-le-s intervenant auprès de l'élève peuvent être amenés à collaborer;
 - b) par une information des élèves et des parents sur les conditions d'un changement de type de classe ainsi que sur les possibilités de formation, de leurs conditions d'accès et des débouchés qu'elles permettent.
 
 ### 4.3 Mesures de soutien (art. 35 LS)
@@ -1236,7 +1252,7 @@ Arrête:
 
 <sup>4</sup> Les parents s'engagent à ce que leur enfant respecte les règles mises en place par la direction d'établissement et à signaler toute situation pouvant provoquer des difficultés particulières.
 
-<sup>5</sup> En cas de résultats scolaires insuffisants ou de comportement insatisfaisant, la direction d'établissement en informe les parents. Si cette mise en garde ne porte aucun effet, la direction d'établissement peut supprimer, temporairement ou définitivement, les mesures après avoir entendu les personnes concernées. Elle en informe le Service du sport.
+<sup>5</sup> En cas de résultats scolaires insuffisants ou de comportement insatisfaisant, la direction d'établissement en informe les parents. Si cette mise en garde ne porte aucun effet, la direction d'établissement peut supprimer, temporairement ou définitivement, les mesures après avoir entendu les personnes concernées.
 
 <sup>6</sup> Les élèves participent, dans la mesure du possible, aux activités scolaires mentionnées à l'article 33.
 
@@ -1384,6 +1400,16 @@ Arrête:
 
 <sup>3</sup> Lorsque l'élève quitte l'école obligatoire pour entrer dans une formation du degré secondaire 2, ses données personnelles nécessaires à la transition sont communiquées d'une direction d'établissement à l'autre.
 
+<sup>4</sup> Afin de faciliter l'accès aux services de formation en ligne, les données suivantes concernant les élèves, les enseignants et enseignantes ainsi que le personnel administratif peuvent être transmises, pour traitement, à la fédération des services d'identité de l'espace suisse de formation, mandatée par la Conférence suisse des directeurs cantonaux de l'instruction publique (CDIP):
+
+- a) le prénom et le nom;
+- b) la date de naissance;
+- c) la langue d'enseignement;
+- d) le rôle ou la fonction;
+- e) l'établissement scolaire, la voie de formation et le degré;
+- f) le canton de domicile;
+- g) l'identificateur technique (NAVS 13).
+
 #### Art. 107
 
 **Communication dans un cas d'espèce**
@@ -1424,29 +1450,29 @@ Arrête:
 
 #### Art. 110
 
-**Responsables d'établissement primaire et directeurs ou directrices – Statut**
+**Directeurs ou directrices – Statut**
 
-<sup>1</sup> Le ou la responsable d'établissement primaire et le directeur ou la directrice sont engagés par la Direction, sur le préavis de l'inspecteur ou de l'inspectrice scolaire et du Service.
+<sup>1</sup> Les directeurs ou les directrices sont engagés par la Direction, sur le préavis de l'inspecteur ou de l'inspectrice scolaire et du Service.
 
 <sup>2</sup> Avant de procéder à l'engagement, la Direction informe les communes concernées de son choix.
 
-<sup>3</sup> Le ou la responsable d'établissement primaire et le directeur ou la directrice sont subordonnés à l'inspecteur ou à l'inspectrice scolaire.
+<sup>3</sup> Les directeurs ou les directrices sont subordonnés à l'inspecteur ou à l'inspectrice scolaire.
 
 #### Art. 111
 
-**Responsables d'établissement primaire et directeurs ou directrices – Taux d'activité**
+**Directeurs ou directrices – Taux d'activité**
 
-<sup>1</sup> La Direction fixe le taux d'activité des responsables d'établissement primaire et des directeurs et directrices en fonction de la grandeur de l'établissement.
+<sup>1</sup> La Direction fixe le taux d'activité des directeurs et des directrices en fonction de la grandeur de l'établissement.
 
 #### Art. 112
 
-**Responsables d'établissement primaire et directeurs ou directrices – Charge publique**
+**Directeurs ou directrices – Charge publique**
 
-<sup>1</sup> Les responsables d'établissement primaire et les directeurs et directrices ne peuvent assumer la fonction de conseiller ou conseillère communal-e responsable des écoles dans leur cercle scolaire d'engagement.
+<sup>1</sup> Les directeurs et les directrices ne peuvent assumer la fonction de conseiller ou conseillère communal-e responsable des écoles dans leur cercle scolaire d'engagement.
 
 #### Art. 113
 
-**Responsables d'établissement primaire et directeurs ou directrices – Conférences des directions d'établissement**
+**Directeurs ou directrices – Conférences des directions d'établissement**
 
 <sup>1</sup> Les conférences des directions d'établissement sont présidées par les inspecteurs et inspectrices scolaires.
 
@@ -1458,7 +1484,7 @@ Arrête:
 
 **Adjoints et adjointes de direction – Fonction**
 
-<sup>1</sup> Sur décision de la Direction, le ou la responsable d'établissement primaire et le directeur ou la directrice peuvent être secondés par un ou une ou par plusieurs adjoints ou adjointes dans la conduite de l'établissement.
+<sup>1</sup> Sur décision de la Direction, les directeurs ou les directrices peuvent être secondés par un ou une ou par plusieurs adjoints ou adjointes dans la conduite de l'établissement.
 
 <sup>2</sup> Les attributions de l'adjoint ou de l'adjointe sont définies dans un cahier des charges approuvé par la Direction. La direction d'établissement peut leur déléguer des compétences décisionnelles.
 
@@ -1805,8 +1831,8 @@ Arrête:
 
 <sup>1</sup> Les autorités de plainte sont:
 
-- a) le ou la responsable d'établissement primaire ou, au cycle d'orientation, le directeur ou la directrice, lorsque la plainte est portée contre les actes ou les omissions d'un enseignant ou d'une enseignante ou d'un adjoint ou d'une adjointe de direction;
-- b) l'inspecteur ou l'inspectrice scolaire, lorsque la plainte est portée contre les actes ou les omissions d'un ou d'une responsable d'établissement primaire ou d'un directeur ou d'une directrice;
+- a) le directeur ou la directrice, lorsque la plainte est portée contre les actes ou les omissions d'un enseignant ou d'une enseignante ou d'un adjoint ou d'une adjointe de direction;
+- b) l'inspecteur ou l'inspectrice scolaire, lorsque la plainte est portée contre les actes ou les omissions d'un directeur ou d'une directrice;
 - c) le Service, lorsque la plainte est portée contre les actes ou les omissions d'un inspecteur ou d'une inspectrice scolaire.
 
 <sup>2</sup> La Direction est l'autorité de recours contre la décision de l'autorité scolaire qui déclare la plainte irrecevable ou mal fondée ou qui met des frais de procédure à la charge du plaignant ou de la plaignante.

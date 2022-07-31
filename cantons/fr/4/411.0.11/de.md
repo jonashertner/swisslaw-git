@@ -4,13 +4,13 @@ number: "411.0.11"
 title: Reglement zum Gesetz über die obligatorische Schule
 short: SchR
 language: de
-version: 2022-07-01
-valid_until: 2022-07-31
-version_adopted: 2022-07-04
+version: 2022-08-01
+valid_until: 2022-12-31
+version_adopted: 2022-06-14
 adopted: 2016-04-19
 in_force: 2016-08-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/411.0.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/7514/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7573/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Obligatorische Schule – R
 
 (SchR)
 
-vom 19.04.2016 (Fassung in Kraft getreten am 01.07.2022)
+vom 19.04.2016 (Fassung in Kraft getreten am 01.08.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -45,7 +45,7 @@ beschliesst:
 
 <sup>1</sup> Die Gemeinden erstellen jährlich die Liste der auf ihrem Gebiet wohnhaften Kinder, welche die obligatorische Schule beginnen sollen, und benachrichtigen die betroffenen Eltern bis zum 31. Januar.
 
-<sup>2</sup> Die Primarschulleitung stellt zu Schuljahresbeginn sicher, dass die Schulpflicht auf der Grundlage der von den Gemeinden gelieferten Informationen erfüllt wird.
+<sup>2</sup> Die Schuldirektion stellt zu Schuljahresbeginn sicher, dass die Schulpflicht auf der Grundlage der von den Gemeinden gelieferten Informationen erfüllt wird.
 
 #### Art. 2
 
@@ -53,7 +53,7 @@ beschliesst:
 
 <sup>1</sup> Die Eltern können bis zum 30. März ein schriftliches Gesuch an das Schulinspektorat richten, um das Schuleintrittsalter ihres Kindes aufzuschieben.
 
-<sup>2</sup> Das Schulinspektorat bespricht sich mit den Eltern, bevor es die Ausnahme schriftlich bewilligt; eine Kopie der Bewilligung geht an die Schulleitung und an die Gemeinde, in der das Kind seinen Wohnsitz oder ständigen Aufenthalt hat.
+<sup>2</sup> Das Schulinspektorat bespricht sich mit den Eltern, bevor es die Ausnahme schriftlich bewilligt; eine Kopie der Bewilligung geht an die Schuldirektion und an die Gemeinde, in der das Kind seinen Wohnsitz oder ständigen Aufenthalt hat.
 
 #### Art. 3
 
@@ -67,7 +67,7 @@ beschliesst:
 
 <sup>4</sup> Schülerinnen und Schüler, die während der obligatorischen Schulzeit in die Schweiz ziehen oder die nach einem privaten Unterricht in die öffentliche Schule übertreten, werden in der Regel in das Schuljahr und in den Klassentypus aufgenommen, die ihrem Alter und Bildungsstand entsprechen. Bei Bedarf können Evaluationen durchgeführt werden.
 
-<sup>5</sup> Die Schulleitung entscheidet über die Klassenzuteilung.
+<sup>5</sup> Die Schuldirektion entscheidet über die Klassenzuteilung.
 
 #### Art. 4
 
@@ -85,9 +85,9 @@ beschliesst:
 
 **Schulkreiswechsel (Art. 14 SchG) – Verfahren**
 
-<sup>1</sup> Das für den Wohnsitz oder ständigen Aufenthaltsort der Schülerin oder des Schülers zuständige Schulinspektorat entscheidet auf begründetes schriftliches Gesuch der Eltern, der Schulleitung oder der Kinderschutzbehörde hin über einen Schulkreiswechsel. Geht das Gesuch nicht von den Eltern aus, so werden diese angehört.
+<sup>1</sup> Das für den Wohnsitz oder ständigen Aufenthaltsort der Schülerin oder des Schülers zuständige Schulinspektorat entscheidet auf begründetes schriftliches Gesuch der Eltern, der Schuldirektion oder der Kinderschutzbehörde hin über einen Schulkreiswechsel. Geht das Gesuch nicht von den Eltern aus, so werden diese angehört.
 
-<sup>2</sup> Vor dem Entscheid über einen Schulkreiswechsel holt das Schulinspektorat die Stellungnahme der betroffenen Gemeinden und Schulleitungen ein. Zieht der Schulkreiswechsel auch einen Wechsel des Inspektoratskreises nach sich, so wird auch die Stellungnahme des betroffenen Schulinspektorats eingeholt. Erfolgt der Schulkreiswechsel für einen Zeitraum von drei Monaten oder weniger, ist die Stellungnahme der Gemeinden jedoch nicht erforderlich.
+<sup>2</sup> Vor dem Entscheid über einen Schulkreiswechsel holt das Schulinspektorat die Stellungnahme der betroffenen Gemeinden und Schuldirektionen ein. Zieht der Schulkreiswechsel auch einen Wechsel des Inspektoratskreises nach sich, so wird auch die Stellungnahme des betroffenen Schulinspektorats eingeholt. Erfolgt der Schulkreiswechsel für einen Zeitraum von drei Monaten oder weniger, ist die Stellungnahme der Gemeinden jedoch nicht erforderlich.
 
 <sup>3</sup> Wird der Schulkreiswechsel für eine Schülerin oder einen Schüler verlangt, die oder der ins Förderprogramm «Sport-Kunst-Ausbildung» aufgenommen worden ist, so muss vorab ebenfalls die Stellungnahme des Amts für Sport oder des Konservatoriums eingeholt werden.
 
@@ -244,7 +244,7 @@ beschliesst:
 
 **Erster Zyklus (Art. 8 Abs. 2 SchG)**
 
-<sup>1</sup> Die Gemeinde oder Gemeinden eines Schulkreises können auf Antrag der Primarschulleitung beschliessen, die Schülerinnen und Schüler des ersten Zyklus (1–4H) in einer einzigen Klasse gemeinsam zu unterrichten, sofern folgende Voraussetzungen erfüllt sind:
+<sup>1</sup> Die Gemeinde oder Gemeinden eines Schulkreises können auf Antrag der Schuldirektion beschliessen, die Schülerinnen und Schüler des ersten Zyklus (1–4H) in einer einzigen Klasse gemeinsam zu unterrichten, sofern folgende Voraussetzungen erfüllt sind:
 
 - a) Eine genügende Anzahl Schülerinnen und Schüler besuchen über einen längeren Zeitraum den gemeinsamen Unterricht.
 - b) Es sind geeignete Räumlichkeiten vorhanden.
@@ -280,7 +280,7 @@ beschliesst:
 
 <sup>2</sup> Erfolgt der Sprachaustausch in Form eines Aufenthalts, mit oder ohne Übernachtungen, so darf die Aufenthaltsdauer nicht länger als zehn Schultage pro Schuljahr betragen.
 
-<sup>3</sup> Die Schulleitung genehmigt die Sprachaufenthalte.
+<sup>3</sup> Die Schuldirektion genehmigt die Sprachaufenthalte.
 
 <sup>4</sup> Finden die Sprachaufenthalte in der Schweiz statt, so sind sie für die Schülerinnen und Schüler obligatorisch und unentgeltlich. Die Eltern tragen einzig die Verpflegungskosten innerhalb der vom Staatsrat gesetzten Grenzen.
 
@@ -306,7 +306,7 @@ beschliesst:
 
 <sup>1</sup> Aktivitäten oder Unterrichtssequenzen können nicht nur im spezifischen Fremdsprachenunterricht, sondern auch in anderen Fächern in der Partnersprache unterrichtet werden.
 
-<sup>2</sup> Die Schulleitung legt die Modalitäten im Rahmen des allgemeinen Konzepts für den Sprachenunterricht fest und unterbreitet ihren Vorschlag dem Schulinspektorat zur Genehmigung.
+<sup>2</sup> Die Schuldirektion legt die Modalitäten im Rahmen des allgemeinen Konzepts für den Sprachenunterricht fest und unterbreitet ihren Vorschlag dem Schulinspektorat zur Genehmigung.
 
 <sup>3</sup> An Schulen, an denen Aktivitäten und Unterrichtssequenzen in der Partnersprache eingeführt wurden, sind diese für die Schülerinnen und Schüler obligatorisch.
 
@@ -318,11 +318,11 @@ beschliesst:
 
 <sup>1</sup> Es können zweisprachige Klassen gebildet werden, wobei die Sprachkenntnisse der Schülerinnen und Schüler und die lokalen Gegebenheiten, insbesondere die Verfügbarkeit von Lehrpersonen, berücksichtigt werden.
 
-<sup>2</sup> Die Schulleitung legt die Modalitäten im Rahmen des allgemeinen Konzepts für den Sprachenunterricht fest und unterbreitet ihren Vorschlag dem Schulinspektorat zur Genehmigung. Die Gemeinden müssen ebenfalls ihre Zustimmung erteilen.
+<sup>2</sup> Die Schuldirektion legt die Modalitäten im Rahmen des allgemeinen Konzepts für den Sprachenunterricht fest und unterbreitet ihren Vorschlag dem Schulinspektorat zur Genehmigung. Die Gemeinden müssen ebenfalls ihre Zustimmung erteilen.
 
 <sup>3</sup> Der Besuch einer zweisprachigen Klasse ist für die Schülerinnen und Schüler freiwillig. Wer sich jedoch für eine solche Klasse angemeldet hat, ist verpflichtet, während des ganzen Schuljahrs zu bleiben. Nur aus zwingenden Gründen ist es einer Schülerin oder einem Schüler gestattet, die Teilnahme abzubrechen.
 
-<sup>4</sup> Die Schulleitung entscheidet darüber, ob eine Schülerin oder ein Schüler in eine zweisprachige Klasse aufgenommen werden kann. Sie berücksichtigt dabei die Stellungnahme der Lehrpersonen sowie die Schulergebnisse der einzelnen Schülerinnen und Schüler, ihr Verhalten, ihr Engagement und ihre schulische Eigenverantwortung.
+<sup>4</sup> Die Schuldirektion entscheidet darüber, ob eine Schülerin oder ein Schüler in eine zweisprachige Klasse aufgenommen werden kann. Sie berücksichtigt dabei die Stellungnahme der Lehrpersonen sowie die Schulergebnisse der einzelnen Schülerinnen und Schüler, ihr Verhalten, ihr Engagement und ihre schulische Eigenverantwortung.
 
 <sup>5</sup> Übersteigt die Zahl der in Frage kommenden Schülerinnen und Schüler die Aufnahmekapazität, so entscheidet das Los.
 
@@ -334,7 +334,7 @@ beschliesst:
 
 **Schulordnung**
 
-<sup>1</sup> Die Schulleitung erlässt in Zusammenarbeit mit den Lehrpersonen eine Schulordnung, in der der Schulbetrieb und die Schulhausregeln festgelegt werden.
+<sup>1</sup> Die Schuldirektion erlässt in Zusammenarbeit mit den Lehrpersonen eine Schulordnung, in der der Schulbetrieb und die Schulhausregeln festgelegt werden.
 
 <sup>2</sup> Diese Schulordnung wird zur Information dem Elternrat, den Gemeinden und dem Schulinspektorat zugestellt.
 
@@ -348,11 +348,11 @@ beschliesst:
 
 **Mitwirkung von Dritten in der Schule**
 
-<sup>1</sup> Mit Ausnahme des Schulpersonals und der Studierenden, die ein Praktikum absolvieren, müssen Personen, die für die Schülerinnen und Schülern punktuelle Leistungen erbringen sollen, vorab die Zustimmung der Schulleitung einholen; diese prüft, ob deren Mitwirkung zweckmässig ist.
+<sup>1</sup> Mit Ausnahme des Schulpersonals und der Studierenden, die ein Praktikum absolvieren, müssen Personen, die für die Schülerinnen und Schülern punktuelle Leistungen erbringen sollen, vorab die Zustimmung der Schuldirektion einholen; diese prüft, ob deren Mitwirkung zweckmässig ist.
 
 <sup>2</sup> Die Mitwirkung muss den Aufgaben und Zielen der Schule entsprechen.
 
-<sup>3</sup> Bestehen Zweifel hinsichtlich der Zweckmässigkeit oder Qualität einer Mitwirkung oder bei regelmässiger Mitwirkung, leitet die Schulleitung das Gesuch an das Amt für obligatorischen Unterricht (das Amt) weiter.
+<sup>3</sup> Bestehen Zweifel hinsichtlich der Zweckmässigkeit oder Qualität einer Mitwirkung oder bei regelmässiger Mitwirkung, leitet die Schuldirektion das Gesuch an das Amt für obligatorischen Unterricht (das Amt) weiter.
 
 <sup>4</sup> Die gesetzlich berechtigten oder von der Direktion anerkannten Partner sind von Amtes wegen befugt, in den Schulen mitzuwirken. Vorbehalten bleibt das Genehmigungsverfahren nach Artikel 8 des Reglements vom 14. Juni 2004 über Gesundheitsförderung und Prävention.
 
@@ -387,13 +387,13 @@ beschliesst:
 
 **Unterrichtszeiten der Klassen**
 
-<sup>1</sup> Die Schulleitung erstellt in Zusammenarbeit mit den Lehrpersonen die Planung der Unterrichtszeiten und legt sie den Gemeinden und dem Schulinspektorat zur Genehmigung sowie dem Elternrat zur Information vor.
+<sup>1</sup> Die Schuldirektion erstellt in Zusammenarbeit mit den Lehrpersonen die Planung der Unterrichtszeiten und legt sie den Gemeinden und dem Schulinspektorat zur Genehmigung sowie dem Elternrat zur Information vor.
 
 <sup>2</sup> An der Primarschule müssen die Lektionen in Blockzeiten (volle Halbtage) organisiert werden, die für alle Klassen des Schulkreises identisch sind. Das Schulinspektorat kann ausnahmsweise Abweichungen genehmigen, vor allem wenn dies für die Organisation der Schülertransporte erforderlich ist.
 
 <sup>3</sup> An der Orientierungsschule sind die Lektionen nach Möglichkeit so zusammenzulegen, dass Blockzeiten entstehen (volle Halbtage).
 
-<sup>4</sup> Jede punktuelle Änderung der Unterrichtszeiten muss von der Schulleitung genehmigt werden.
+<sup>4</sup> Jede punktuelle Änderung der Unterrichtszeiten muss von der Schuldirektion genehmigt werden.
 
 #### Art. 32
 
@@ -413,13 +413,13 @@ beschliesst:
 
 <sup>1</sup> Der Unterricht kann namentlich in Form von Schulausflügen, Schulreisen, Landschulwochen, Projektwochen, Studienreisen, Schullagern, Sport- oder Kulturtagen durchgeführt werden, jedoch pro Schuljahr höchstens während 10 Tagen. Diese Aktivitäten müssen Ziele verfolgen, die einen Bezug zu den Lehrplänen aufweisen.
 
-<sup>2</sup> Für die schulischen Aktivitäten stellen die Schulleitungen den Gemeinden im Rahmen der Erstellung der Gemeindevoranschläge vorab ein Finanzierungsgesuch. Die Modalitäten des Gesuchs werden von den Gemeinden festgelegt.
+<sup>2</sup> Für die schulischen Aktivitäten stellen die Schuldirektionen den Gemeinden im Rahmen der Erstellung der Gemeindevoranschläge vorab ein Finanzierungsgesuch. Die Modalitäten des Gesuchs werden von den Gemeinden festgelegt.
 
-<sup>3</sup> Die Lehrperson informiert die Schulleitung über die Organisation einer Aktivität. Besondere Aufmerksamkeit wird dabei dem Betreuungsverhältnis und der Sicherheit der Schülerinnen und Schüler geschenkt.
+<sup>3</sup> Die Lehrperson informiert die Schuldirektion über die Organisation einer Aktivität. Besondere Aufmerksamkeit wird dabei dem Betreuungsverhältnis und der Sicherheit der Schülerinnen und Schüler geschenkt.
 
 <sup>4</sup> Der Elternrat und/oder die Eltern werden über die schulischen Aktivitäten informiert. Für Aktivitäten, die im Ausland stattfinden, ist die Zustimmung der Eltern erforderlich.
 
-<sup>5</sup> Alle Schülerinnen und Schüler nehmen an den schulischen Aktivitäten teil, ausser eine Schülerin oder ein Schüler verfügt über eine individuelle Dispens der Schulleitung aus stichhaltigen Gründen. Die dispensierte Schülerin oder der dispensierte Schüler bleibt, ausser im Fall von Krankheit oder Unfall, unter der Verantwortung und Aufsicht der Schule
+<sup>5</sup> Alle Schülerinnen und Schüler nehmen an den schulischen Aktivitäten teil, ausser eine Schülerin oder ein Schüler verfügt über eine individuelle Dispens der Schuldirektion aus stichhaltigen Gründen. Die dispensierte Schülerin oder der dispensierte Schüler bleibt, ausser im Fall von Krankheit oder Unfall, unter der Verantwortung und Aufsicht der Schule.
 
 <sup>6</sup> Die Direktion kann Richtlinien zu den schulischen Aktivitäten erlassen oder Empfehlungen dazu abgeben.
 
@@ -454,9 +454,25 @@ beschliesst:
 
 <sup>2</sup> Für die Gewährung von mehr als einem Urlaubstag ist die Direktion zuständig, ebenso für die Gewährung eines Urlaubs für mehrere Schulkreise oder für alle Schulen des Kantons.
 
-<sup>3</sup> Die Schulleitung kann während der Schulzeit für sämtliche Lehrpersonen eine pädagogische Weiterbildung von einem Tag oder zwei Halbtagen pro Schuljahr organisieren. Die Schülerinnen und Schüler haben in dieser Zeit schulfrei. Die Schulleitung legt dem Schulinspektorat die Daten und den Inhalt der Weiterbildung zur Genehmigung vor. Zusätzliche Weiterbildungstage finden ausserhalb der Schulzeit statt.
+<sup>3</sup> Die Schuldirektion kann während der Schulzeit für sämtliche Lehrpersonen eine pädagogische Weiterbildung von einem Tag oder zwei Halbtagen pro Schuljahr organisieren. Die Schülerinnen und Schüler haben in dieser Zeit schulfrei. Die Schuldirektion legt dem Schulinspektorat die Daten und den Inhalt der Weiterbildung zur Genehmigung vor. Zusätzliche Weiterbildungstage finden ausserhalb der Schulzeit statt.
 
 <sup>4</sup> Den Eltern und Gemeinden wird so früh wie möglich mitgeteilt, wann die Schülerinnen und Schüler schulfrei haben.
+
+#### Art. 36a
+
+**Jokertage (Art. 21 Abs. 2 SchG)**
+
+<sup>1</sup> Jokertage dürfen nicht am ersten Schultag des Schuljahres, während schulischer Aktivitäten im Sinne von Artikel 33 und der Durchführung von kantonalen, interkantonalen oder internationalen Referenztests bezogen werden.
+
+<sup>2</sup> Zu Beginn des Schuljahres kann die Schuldirektion andere besondere Anlässe festlegen, an denen Jokertage nicht eingesetzt werden können.
+
+<sup>3</sup> Jokertage können kumuliert werden. Nicht bezogene Jokertage können nicht auf das nächste Schuljahr übertragen werden.
+
+<sup>4</sup> Im Falle von ungerechtfertigten Absenzen einer Schülerin oder eines Schülers kann die Schuldirektion den Bezug von Jokertagen einschränken oder verweigern.
+
+<sup>5</sup> Die Eltern informieren die Schule mindestens eine Woche im Voraus über die Inanspruchnahme eines Jokertages.
+
+<sup>6</sup> Die Eltern tragen die Verantwortung für den Urlaub, den sie für ihre Kinder beantragen und sorgen dafür, dass ihre Kinder dem Lernprogramm folgen. Auf Verlangen der Schule holen die Schülerinnen und Schüler den Stoff und die verpassten Prüfungen nach.
 
 #### Art. 37
 
@@ -469,21 +485,21 @@ beschliesst:
 - c) eine wichtige Sportveranstaltung oder künstlerische Veranstaltung, an der die Schülerin oder der Schüler aktiv teilnimmt;
 - d) an der Orientierungsschule ein Praktikum, eine Prüfung oder eine andere Veranstaltung im Zusammenhang mit der Berufswahl, sofern dies nicht ausserhalb der Schulzeit stattfinden kann.
 
-<sup>2</sup> Unmittelbar vor oder nach den Schulferien oder einem Feiertag wird grundsätzlich kein Urlaub gewährt, ausser aus einem der Gründe nach Absatz 1.
+<sup>2</sup> …
 
 #### Art. 38
 
 **Urlaub für eine Schülerin oder einen Schüler (Art. 21 SchG) – Verfahren**
 
-<sup>1</sup> Das Urlaubsgesuch muss rechtzeitig im Voraus, spätestens, wenn der Grund bekannt ist, in schriftlicher Form bei der Schulleitung eingereicht werden. Das begründete Gesuch wird gegebenenfalls mit Unterlagen belegt und von den Eltern unterzeichnet.
+<sup>1</sup> Das Urlaubsgesuch muss rechtzeitig im Voraus, spätestens, wenn der Grund bekannt ist, in schriftlicher Form bei der Schuldirektion eingereicht werden. Das begründete Gesuch wird gegebenenfalls mit Unterlagen belegt und von den Eltern unterzeichnet.
 
-<sup>2</sup> Im Gesuch wird angegeben, wie viele Kinder betroffen sind und in welchem Schuljahr sie sich befinden. Sind von einem Gesuch sowohl Schülerinnen und Schüler der Primarschule als auch der Orientierungsschule betroffen, so ist ein gemeinsamer Entscheid der Schulleitungen erforderlich.
+<sup>2</sup> Im Gesuch wird angegeben, wie viele Kinder betroffen sind und in welchem Schuljahr sie sich befinden. Sind von einem Gesuch sowohl Schülerinnen und Schüler der Primarschule als auch der Orientierungsschule betroffen, so ist ein gemeinsamer Entscheid der Schuldirektionen erforderlich.
 
 <sup>3</sup> Der Entscheid wird den Eltern schriftlich mitgeteilt.
 
 <sup>4</sup> Die Eltern tragen die Verantwortung für die Urlaube, die sie für ihre Kinder beantragen, und sorgen dafür, dass die Lernprogramme weitergeführt werden. Auf Verlangen der Schule holen die Schülerinnen und Schüler den Stoff und die verpassten Prüfungen nach. Überlagert sich der Urlaub mit einer ordentlichen Prüfungsperiode, so müssen besondere Massnahmen getroffen werden.
 
-<sup>5</sup> Die Schulleitungen sind für Entscheide über einen Urlaub von bis zu vier Wochen oder 20 Tagen pro Schuljahr zuständig. Über längere Urlaube entscheidet die Direktion.
+<sup>5</sup> Die Schuldirektionen sind für Entscheide über einen Urlaub von bis zu vier Wochen oder 20 Tagen pro Schuljahr zuständig. Über längere Urlaube entscheidet die Direktion.
 
 #### Art. 38a
 
@@ -507,7 +523,7 @@ beschliesst:
 
 <sup>2</sup> Erhält die Schule keine Nachricht von den Eltern, so nimmt sie unverzüglich Verbindung mit ihnen oder mit den von ihnen bezeichneten Personen auf, um den Grund der Abwesenheit abzuklären. Ergeben ihre Nachforschungen kein Ergebnis, so leitet die Schule eine Suche ein, gegebenenfalls mit Hilfe der Gemeinden. Sie ist dabei befugt, alle zweckdienlichen Massnahmen zu ergreifen, um die Schülerin oder den Schüler aufzufinden. Allfällige Kosten, die dabei entstehen, gehen zulasten der Eltern.
 
-<sup>3</sup> Eine Absenz wegen Krankheit oder Unfall muss mit einem ärztlichen Zeugnis an die Schulleitung belegt werden, wenn sie länger als vier aufeinanderfolgende Schultage dauert, Wochenenden und Feiertage nicht eingeschlossen, oder wenn sie wiederholt erfolgt.
+<sup>3</sup> Eine Absenz wegen Krankheit oder Unfall muss mit einem ärztlichen Zeugnis an die Schuldirektion belegt werden, wenn sie länger als vier aufeinanderfolgende Schultage dauert, Wochenenden und Feiertage nicht eingeschlossen, oder wenn sie wiederholt erfolgt.
 
 <sup>4</sup> Wird aus gesundheitlichen Gründen um eine Dispens für ein bestimmtes Fach oder eine schulische Aktivität ersucht, so muss ein ärztliches Zeugnis vorgelegt werden.
 
@@ -519,7 +535,7 @@ beschliesst:
 
 **Wiederholte oder längere Absenzen**
 
-<sup>1</sup> Wenn die Absenzen einer Schülerin oder eines Schülers, unabhängig von der Begründung, so zahlreich sind, dass man nicht annehmen kann, dass sie oder er den Unterricht regelmässig besucht hat, insbesondere wenn die Abwesenheit mehr als 60 aufeinanderfolgende oder nicht aufeinanderfolgende Schultage gedauert hat, kann die Schulleitung nach Rücksprache mit den betreffenden Lehrpersonen beschliessen, das Schuljahr nicht zu validieren. Dieses wird nicht angerechnet.
+<sup>1</sup> Wenn die Absenzen einer Schülerin oder eines Schülers, unabhängig von der Begründung, so zahlreich sind, dass man nicht annehmen kann, dass sie oder er den Unterricht regelmässig besucht hat, insbesondere wenn die Abwesenheit mehr als 60 aufeinanderfolgende oder nicht aufeinanderfolgende Schultage gedauert hat, kann die Schuldirektion nach Rücksprache mit den betreffenden Lehrpersonen beschliessen, das Schuljahr nicht zu validieren. Dieses wird nicht angerechnet.
 
 <sup>2</sup> Diese Massnahme kann während der obligatorischen Schulzeit nur einmal verfügt werden.
 
@@ -527,9 +543,9 @@ beschliesst:
 
 **Absenzen auf Veranlassung der Eltern (Art. 32 SchG)**
 
-<sup>1</sup> Bleibt eine Schülerin oder ein Schüler auf Veranlassung der Eltern ungerechtfertigt der Schule fern oder trifft sie oder er wiederholt verspätet zum Unterricht ein oder wurde ein Urlaub gestützt auf unwahren Angaben gewährt, so verzeigt die Schulleitung die Eltern beim Oberamt.
+<sup>1</sup> Bleibt eine Schülerin oder ein Schüler auf Veranlassung der Eltern ungerechtfertigt der Schule fern oder trifft sie oder er wiederholt verspätet zum Unterricht ein oder wurde ein Urlaub gestützt auf unwahren Angaben gewährt, so verzeigt die Schuldirektion die Eltern beim Oberamt.
 
-<sup>2</sup> Die Direktion setzt die Schulleitung über den Ausgang einer Anzeige wegen Verletzung der Schulpflicht in Kenntnis.
+<sup>2</sup> Die Direktion setzt die Schuldirektion über den Ausgang einer Anzeige wegen Verletzung der Schulpflicht in Kenntnis.
 
 <sup>3</sup> Vorbehalten bleibt eine Meldung an die Kinderschutzbehörde gemäss Artikel 102.
 
@@ -545,9 +561,9 @@ beschliesst:
 
 <sup>1</sup> Die Direktion setzt die Anzahl Unterrichtslektionen für den Religionsunterricht fest und holt dazu vorab die Stellungnahme der anerkannten Kirchen und Religionsgemeinschaften ein.
 
-<sup>2</sup> Auf Gesuch der zuständigen kirchlichen Behörden gibt die Schulleitung den Schülerinnen und Schülern, die sich auf wichtige Kultushandlungen vorbereiten möchten, im gegenseitigen Einvernehmen bis zu zwei Tage pro Ereignis frei.
+<sup>2</sup> Auf Gesuch der zuständigen kirchlichen Behörden gibt die Schuldirektion den Schülerinnen und Schülern, die sich auf wichtige Kultushandlungen vorbereiten möchten, im gegenseitigen Einvernehmen bis zu zwei Tage pro Ereignis frei.
 
-<sup>3</sup> Die Eltern übergeben ihre schriftliche Erklärung, dass ihr Kind den konfessionellen Religionsunterricht nicht besuchen wird, vor Beginn des Schuljahres der Schulleitung. Schülerinnen und Schüler, die das 16. Altersjahr vollendet haben, können diese Erklärung selber abgeben.
+<sup>3</sup> Die Eltern übergeben ihre schriftliche Erklärung, dass ihr Kind den konfessionellen Religionsunterricht nicht besuchen wird, vor Beginn des Schuljahres der Schuldirektion. Schülerinnen und Schüler, die das 16. Altersjahr vollendet haben, können diese Erklärung selber abgeben.
 
 <sup>4</sup> Die dispensierten Schülerinnen und Schüler stehen unter der Verantwortung und Aufsicht der Schule.
 
@@ -670,9 +686,9 @@ beschliesst:
 
 **Klassenbestände (Art. 26 und 27 SchG) – Primarschule d) Verteilung der Primarklassen**
 
-<sup>1</sup> Die Primarschulleitung organisiert die Klassen gemäss der dem Schulkreis oder der Schule zugewiesenen Anzahl Klassen. Sie verteilt ebenfalls die Schülerinnen und Schüler auf die Klassen und die Klassen auf die Schulräume. Diese Verteilung wird den Gemeinden und dem Schulinspektorat zur Genehmigung vorgelegt.
+<sup>1</sup> Die Schuldirektion organisiert die Klassen gemäss der dem Schulkreis oder der Schule zugewiesenen Anzahl Klassen. Sie verteilt ebenfalls die Schülerinnen und Schüler auf die Klassen und die Klassen auf die Schulräume. Diese Verteilung wird den Gemeinden und dem Schulinspektorat zur Genehmigung vorgelegt.
 
-<sup>2</sup> Die Primarschulleitung teilt die Klassen den Lehrerinnen und Lehrern zu.
+<sup>2</sup> Die Schuldirektion teilt die Klassen den Lehrerinnen und Lehrern zu.
 
 #### Art. 48
 
@@ -747,7 +763,7 @@ beschliesst:
 
 **Aufgaben der Gemeinden**
 
-<sup>1</sup> Die Gemeinden führen die Schülerstatistik, verfolgen die Entwicklung der Schülerzahlen und planen in Zusammenarbeit mit der Schulleitung entsprechende Klasseneröffnungen und Klassenschliessungen.
+<sup>1</sup> Die Gemeinden führen die Schülerstatistik, verfolgen die Entwicklung der Schülerzahlen und planen in Zusammenarbeit mit der Schuldirektion entsprechende Klasseneröffnungen und Klassenschliessungen.
 
 #### Art. 53
 
@@ -810,7 +826,7 @@ beschliesst:
 
 <sup>7</sup> Die Schulen können den Eltern und ihren Kindern vorschlagen, eine Charta zu unterzeichnen, die alle beteiligten Parteien verpflichtet, sich an die vereinbarten Regeln zu halten.
 
-<sup>8</sup> Bei Schwierigkeiten in der Zusammenarbeit können die Schulleitung oder die Eltern ein Gespräch verlangen.
+<sup>8</sup> Bei Schwierigkeiten in der Zusammenarbeit können die Schuldirektion oder die Eltern ein Gespräch verlangen.
 
 #### Art. 58
 
@@ -818,13 +834,13 @@ beschliesst:
 
 <sup>1</sup> Der Elternrat ermöglicht den Austausch von Informationen und die Diskussion über Vorschläge zwischen Eltern, Schule und Gemeinden. Er vertritt die Anliegen der Eltern sowie die Interessen der Schülerinnen und Schüler im Allgemeinen. Der Elternrat wird weder über Einzelfälle informiert noch befasst er sich mit solchen.
 
-<sup>2</sup> Der Elternrat kann Aufgaben übernehmen, die das Schulleben betreffen. Er kann in Absprache mit der Schulleitung verschiedene Aktionen oder Aktivitäten organisieren, an denen er teilnimmt.
+<sup>2</sup> Der Elternrat kann Aufgaben übernehmen, die das Schulleben betreffen. Er kann in Absprache mit der Schuldirektion verschiedene Aktionen oder Aktivitäten organisieren, an denen er teilnimmt.
 
 #### Art. 59
 
 **Elternrat (Art. 31 SchG) – Bildung**
 
-<sup>1</sup> Die Gemeinden bilden in Zusammenarbeit mit der Schulleitung den Elternrat. Das Schulreglement der Gemeinde regelt namentlich die Anzahl Mitglieder und die Ernennung der Mitglieder sowie allgemein die Organisation und die Arbeitsweise.
+<sup>1</sup> Die Gemeinden bilden in Zusammenarbeit mit der Schuldirektion den Elternrat. Das Schulreglement der Gemeinde regelt namentlich die Anzahl Mitglieder und die Ernennung der Mitglieder sowie allgemein die Organisation und die Arbeitsweise.
 
 <sup>2</sup> Die Mitglieder werden für mindestens drei Jahre ernannt. Die Gemeinden können eine Höchstdauer festlegen.
 
@@ -884,7 +900,7 @@ beschliesst:
 
 <sup>1</sup> Ab der 3H können die Lehrpersonen den Schülerinnen und Schülern gemäss den Empfehlungen des Amtes Hausaufgaben erteilen.
 
-<sup>2</sup> Die Schulleitungen achten auf eine einheitliche Praxis innerhalb ihrer Schule.
+<sup>2</sup> Die Schuldirektionen achten auf eine einheitliche Praxis innerhalb ihrer Schule.
 
 #### Art. 66
 
@@ -899,7 +915,7 @@ beschliesst:
 
 <sup>3</sup> Bei einem Verstoss gegen dieses Verbot kann die Schule diese Gegenstände und Produkte umgehend einziehen. Der Zugriff auf den Inhalt eines Mobiltelefons ist nur mit dem Einverständnis der Eigentümerin oder des Eigentümers möglich.
 
-<sup>4</sup> Sie werden der Schülerin oder dem Schüler oder den Eltern wieder ausgehändigt, und zwar zu einem von der Schulleitung bestimmten Zeitpunkt innerhalb einer Frist von spätestens zwei Wochen nach dem Einziehen des Gegenstands.
+<sup>4</sup> Sie werden der Schülerin oder dem Schüler oder den Eltern wieder ausgehändigt, und zwar zu einem von der Schuldirektion bestimmten Zeitpunkt innerhalb einer Frist von spätestens zwei Wochen nach dem Einziehen des Gegenstands.
 
 <sup>5</sup> Vorbehalten bleiben strafrechtliche und kinderschutzrechtliche Bestimmungen.
 
@@ -928,7 +944,7 @@ beschliesst:
 
 **Disziplinarmassnahmen (Art. 39 SchG)**
 
-<sup>1</sup> Die Schulleitung ist für folgende Disziplinarmassnahmen zuständig:
+<sup>1</sup> Die Schuldirektion ist für folgende Disziplinarmassnahmen zuständig:
 
 - a) Verweis;
 - b) erzieherische Aufgabe im Umfang von drei bis achtzehn Stunden pro Verstoss, die während oder ausserhalb der Schulzeit ausgeführt werden muss.
@@ -972,7 +988,7 @@ beschliesst:
 
 **Dringende Schutzmassnahme**
 
-<sup>1</sup> Unabhängig von einem allfälligen Disziplinarverstoss kann die Schulleitung mit sofortiger Wirkung entscheiden, dass eine Schülerin oder ein Schüler die Schule nicht mehr besucht, wenn ihr oder sein Wohl, das Wohl der anderen Schülerinnen und Schüler und der Schule dies erfordert. Das Schulinspektorat wird darüber in Kenntnis gesetzt.
+<sup>1</sup> Unabhängig von einem allfälligen Disziplinarverstoss kann die Schuldirektion mit sofortiger Wirkung entscheiden, dass eine Schülerin oder ein Schüler die Schule nicht mehr besucht, wenn ihr oder sein Wohl, das Wohl der anderen Schülerinnen und Schüler und der Schule dies erfordert. Das Schulinspektorat wird darüber in Kenntnis gesetzt.
 
 <sup>2</sup> Die Wegweisung, für höchstens zwei Wochen, wird in der Regel mit folgenden Massnahmen verbunden:
 
@@ -981,7 +997,7 @@ beschliesst:
 
 <sup>3</sup> Die Eltern und die Schülerin oder der Schüler werden möglichst rasch angehört.
 
-<sup>4</sup> Die Schulleitung kann die Kindesschutzbehörde zur Zusammenarbeit beiziehen.
+<sup>4</sup> Die Schuldirektion kann die Kindesschutzbehörde zur Zusammenarbeit beiziehen.
 
 ### 4.2 Beurteilung der Schularbeit (Art. 37 und 38 SchG)
 
@@ -1075,7 +1091,7 @@ beschliesst:
 
 <sup>4</sup> Das Schulzeugnis wird den Eltern zweimal im Jahr zugestellt, jeweils am Ende des Semesters. Die Eltern bezeugen mit ihrer Unterschrift, dass sie die darin eingetragenen Ergebnisse zur Kenntnis genommen haben.
 
-<sup>5</sup> Nur die Lehrpersonen und die Schulleitungen dürfen im Schulzeugnis Anmerkungen anbringen oder Änderungen vornehmen. Die Schülerin oder der Schüler oder jede andere Person, die das Schulzeugnis beschädigt, verliert oder persönliche Einträge oder Änderungen vornimmt, muss dieses auf eigene Kosten ersetzen.
+<sup>5</sup> Nur die Lehrpersonen und die Schuldirektionen dürfen im Schulzeugnis Anmerkungen anbringen oder Änderungen vornehmen. Die Schülerin oder der Schüler oder jede andere Person, die das Schulzeugnis beschädigt, verliert oder persönliche Einträge oder Änderungen vornimmt, muss dieses auf eigene Kosten ersetzen.
 
 <sup>6</sup> Das Schulzeugnis wird an der Schule aufbewahrt und am Ende der obligatorischen Schulzeit der Schülerin oder dem Schüler ausgehändigt.
 
@@ -1128,7 +1144,7 @@ beschliesst:
 
 <sup>2</sup> Bei Bedarf beantragt die Lehrperson in Zusammenarbeit mit den Eltern geeignete Unterstützungsmassnahmen.
 
-<sup>3</sup> Wird keine andere Behörde als zuständig bezeichnet, so entscheidet die Schulleitung über die Gewährung und den Umfang der niederschwelligen Unterstützungsmassnahmen. Dabei stützt sie sich auf die Stellungnahme der für die Schülerin oder den Schüler zuständigen Fachpersonen. Die Eltern werden in das Verfahren miteinbezogen.
+<sup>3</sup> Wird keine andere Behörde als zuständig bezeichnet, so entscheidet die Schuldirektion über die Gewährung und den Umfang der niederschwelligen Unterstützungsmassnahmen. Dabei stützt sie sich auf die Stellungnahme der für die Schülerin oder den Schüler zuständigen Fachpersonen. Die Eltern werden in das Verfahren miteinbezogen.
 
 <sup>4</sup> Die Direktion bestimmt die Verteilung des Angebots an niederschwelligen Unterstützungsmassnahmen. Das Schulinspektorat sorgt für die Einhaltung dieser Vorschriften.
 
@@ -1136,7 +1152,7 @@ beschliesst:
 
 **Umsetzung, Kontrolle und Evaluation der Massnahmen**
 
-<sup>1</sup> In Zusammenarbeit mit den beteiligten Fachpersonen sorgt die Schulleitung für die Umsetzung, die Kontrolle und die regelmässige Evaluation der gewährten Massnahmen, wobei sie deren Zweckmässigkeit und deren Übereinstimmung mit den Bedürfnissen der Schülerinnen und Schüler überprüft.
+<sup>1</sup> In Zusammenarbeit mit den beteiligten Fachpersonen sorgt die Schuldirektion für die Umsetzung, die Kontrolle und die regelmässige Evaluation der gewährten Massnahmen, wobei sie deren Zweckmässigkeit und deren Übereinstimmung mit den Bedürfnissen der Schülerinnen und Schüler überprüft.
 
 <sup>2</sup> Dies erfordert eine enge Zusammenarbeit zwischen den Lehrpersonen und den Fachpersonen, welche die Unterstützungsmassnahmen erbringen. Namentlich bestimmen Letztere in Absprache mit den Lehrpersonen die pädagogischen und erzieherischen Ziele der gewährten Massnahme.
 
@@ -1196,7 +1212,7 @@ beschliesst:
 
 <sup>2</sup> Die individuellen Lernziele nach Vorgabe der im Lehrplan festgelegten Ziele tragen den Bedürfnissen und Fähigkeiten der Schülerin oder des Schülers Rechnung. Die Beurteilung der Schulleistungen bezieht sich auf die im individuellen Förderplan festgelegten Ziele.
 
-<sup>3</sup> Mit Zustimmung des Schulinspektorats können die Schulleitungen hochbegabte Schülerinnen und Schüler an einem gemeinsamen Unterrichtsort zusammenziehen, jedoch höchstens an einem Halbtag pro Woche. Wer sich für dieses Angebot anmeldet, ist verpflichtet, dieses während des ganzen Schuljahrs zu besuchen. Nur aus zwingenden Gründen ist es einer Schülerin oder einem Schüler gestattet, die Teilnahme abzubrechen.
+<sup>3</sup> Mit Zustimmung des Schulinspektorats können die Schuldirektionen hochbegabte Schülerinnen und Schüler an einem gemeinsamen Unterrichtsort zusammenziehen, jedoch höchstens an einem Halbtag pro Woche. Wer sich für dieses Angebot anmeldet, ist verpflichtet, dieses während des ganzen Schuljahrs zu besuchen. Nur aus zwingenden Gründen ist es einer Schülerin oder einem Schüler gestattet, die Teilnahme abzubrechen.
 
 <sup>4</sup> Die Kosten und die Organisation der Schülertransporte, die durch das Zusammenziehen von Schülerinnen und Schüler entstehen, übernehmen die Eltern.
 
@@ -1210,9 +1226,9 @@ beschliesst:
 
 <sup>3</sup> Die Eltern sind für die Teilnahme am besonderen Unterrichtsprogramm verantwortlich und tragen die dadurch entstehenden Kosten.
 
-<sup>4</sup> Die Eltern verpflichten sich, dass ihr Kind die von der Schulleitung festgelegten Regeln einhält, und melden ihr jegliche Umstände, die zu Schwierigkeiten führen könnten.
+<sup>4</sup> Die Eltern verpflichten sich, dass ihr Kind die von der Schuldirektion festgelegten Regeln einhält, und melden ihr jegliche Umstände, die zu Schwierigkeiten führen könnten.
 
-<sup>5</sup> Falls die Schülerin oder der Schüler ungenügende Schulleistungen erbringt oder ein unbefriedigendes Verhalten zeigt, informiert die Schulleitung die Eltern. Hat diese Ermahnung keine Wirkung, so kann die Schulleitung die Massnahme, nach Anhörung der betroffenen Personen, vorübergehend oder endgültig aufheben.
+<sup>5</sup> Falls die Schülerin oder der Schüler ungenügende Schulleistungen erbringt oder ein unbefriedigendes Verhalten zeigt, informiert die Schuldirektion die Eltern. Hat diese Ermahnung keine Wirkung, so kann die Schuldirektion die Massnahme, nach Anhörung der betroffenen Personen, vorübergehend oder endgültig aufheben.
 
 <sup>6</sup> Die Schülerin oder der Schüler nimmt soweit als möglich an den schulischen Aktivitäten nach Artikel 33 teil.
 
@@ -1228,15 +1244,15 @@ beschliesst:
 
 **Zum Förderprogramm «Sport-Kunst-Ausbildung» zugelassene Schülerinnen und Schüler – Stundenplananpassungen und -erleichterungen**
 
-<sup>1</sup> Der Schülerin oder dem Schüler, die oder der gemäss der Gesetzgebung über den Sport und die kulturellen Angelegenheiten ins Förderprogramm «Sport-Kunst-Ausbildung» aufgenommenen wurde, wird eine Anpassung des wöchentlichen Stundenplans oder eine Dispensation gewährt. Die Schulleitung informiert das Amt für Sport.
+<sup>1</sup> Der Schülerin oder dem Schüler, die oder der gemäss der Gesetzgebung über den Sport und die kulturellen Angelegenheiten ins Förderprogramm «Sport-Kunst-Ausbildung» aufgenommenen wurde, wird eine Anpassung des wöchentlichen Stundenplans oder eine Dispensation gewährt. Die Schuldirektion informiert das Amt für Sport.
 
 <sup>2</sup> Nach den Vorgaben des Förderprogramms «Sport-Kunst-Ausbildung» kann die Schülerin oder der Schüler vollständig oder teilweise von bestimmten Fächern, für eine befristete Dauer oder ein Schuljahr, dispensiert werden. Ebenso können ihr oder ihm Sonderurlaube für die Vorbereitung von wichtigen sportlichen oder kulturellen Anlässen und die Teilnahme daran bewilligt werden.
 
 <sup>3</sup> Diese Massnahmen dürfen die schulische Ausbildung der Schülerin oder des Schülers, die weiterhin vorrangig bleibt, nicht gefährden und das gute Funktionieren der Schule nicht beeinträchtigen.
 
-<sup>4</sup> Die Eltern verpflichten sich, dass ihr Kind die von der Schulleitung festgelegten Regeln einhält, und melden ihr alle Umstände, die zu Schwierigkeiten führen könnten.
+<sup>4</sup> Die Eltern verpflichten sich, dass ihr Kind die von der Schuldirektion festgelegten Regeln einhält, und melden ihr alle Umstände, die zu Schwierigkeiten führen könnten.
 
-<sup>5</sup> Falls die Schülerin oder der Schüler ungenügende Schulleistungen erbringt oder ein unbefriedigendes Verhalten zeigt, informiert die Schulleitung die Eltern. Hat diese Ermahnung keinerlei Wirkung, so kann die Schulleitung, nach Anhörung der betroffenen Personen, die Massnahmen vorübergehend oder endgültig aufheben. Sie informiert das Amt für Sport.
+<sup>5</sup> Falls die Schülerin oder der Schüler ungenügende Schulleistungen erbringt oder ein unbefriedigendes Verhalten zeigt, informiert die Schuldirektion die Eltern. Hat diese Ermahnung keinerlei Wirkung, so kann die Schuldirektion, nach Anhörung der betroffenen Personen, die Massnahmen vorübergehend oder endgültig aufheben.
 
 <sup>6</sup> Die Schülerin oder der Schüler nimmt soweit als möglich an den schulischen Aktivitäten nach Artikel 33 teil.
 
@@ -1258,7 +1274,7 @@ beschliesst:
 
 <sup>2</sup> Diese Kurse werden von den Landesvertretungen oder den Migrationsgemeinschaften, die dafür die Verantwortung tragen, organisiert, finanziert und erteilt.
 
-<sup>3</sup> Die Kurse sind freiwillig und finden ausserhalb der ordentlichen Schulzeit statt. Die Lehrpersonen, welche die Kurse in heimatlicher Sprache und Kultur erteilen, informieren die Schulleitung über die teilnehmenden Schülerinnen und Schüler.
+<sup>3</sup> Die Kurse sind freiwillig und finden ausserhalb der ordentlichen Schulzeit statt. Die Lehrpersonen, welche die Kurse in heimatlicher Sprache und Kultur erteilen, informieren die Schuldirektion über die teilnehmenden Schülerinnen und Schüler.
 
 <sup>4</sup> Die Gemeinden stellen die notwendigen Räume unentgeltlich zur Verfügung. Die Kosten und die Organisation allfälliger Transporte übernehmen die Eltern.
 
@@ -1266,7 +1282,7 @@ beschliesst:
 
 **Schülerinnen und Schüler mit Verhaltensauffälligkeiten – Mobile Einheit**
 
-<sup>1</sup> Die Mobile Einheit unterstützt die Schulen bei der Prävention und der Bewältigung von Krisensituationen, die durch das schwierige Verhalten einzelner Schülerinnen und Schüler entstehen. Sie wird auf Begehren der Schulleitung tätig und koordiniert ihre Einsätze mit ihr sowie falls notwendig mit anderen sozialpädagogischen und -medizinischen Fachstellen.
+<sup>1</sup> Die Mobile Einheit unterstützt die Schulen bei der Prävention und der Bewältigung von Krisensituationen, die durch das schwierige Verhalten einzelner Schülerinnen und Schüler entstehen. Sie wird auf Begehren der Schuldirektion tätig und koordiniert ihre Einsätze mit ihr sowie falls notwendig mit anderen sozialpädagogischen und -medizinischen Fachstellen.
 
 <sup>2</sup> Der Mobilen Einheit gehören auf Verhaltensauffälligkeiten spezialisierte Fachpersonen an, die von der Direktion angestellt werden und der Gesetzgebung über das Staatspersonal unterstehen. Die Mobile Einheit ist den Ämtern für obligatorischen Unterricht unterstellt, die ihre Organisation und Aufgaben festlegen.
 
@@ -1274,7 +1290,7 @@ beschliesst:
 
 **Schülerinnen und Schüler mit Verhaltensauffälligkeiten – Relaisklasse**
 
-<sup>1</sup> Eine Schülerin oder ein Schüler mit schweren Verhaltensauffälligkeiten, die oder der trotz Einsatz der der Schule zur Verfügung stehenden Ressourcen den Unterricht und das Klassen- oder Schulklima erheblich beeinträchtigt oder eine Gefahr für sich selber oder für Dritte darstellt, kann in einer Relaisklasse unterrichtet werden. Die teilweise oder vollzeitliche Beschulung in einer Relaisklasse wird vom Schulinspektorat auf Antrag der Schulleitung beschlossen.
+<sup>1</sup> Eine Schülerin oder ein Schüler mit schweren Verhaltensauffälligkeiten, die oder der trotz Einsatz der der Schule zur Verfügung stehenden Ressourcen den Unterricht und das Klassen- oder Schulklima erheblich beeinträchtigt oder eine Gefahr für sich selber oder für Dritte darstellt, kann in einer Relaisklasse unterrichtet werden. Die teilweise oder vollzeitliche Beschulung in einer Relaisklasse wird vom Schulinspektorat auf Antrag der Schuldirektion beschlossen.
 
 <sup>2</sup> Die Relaisklasse ist eine Tagesstruktur, deren Zweck darin besteht, die Schülerin oder den Schüler dazu zu bringen, ihre oder seine Einstellungen und ihr oder sein Verhalten zu reflektieren und zu ändern, damit eine Reintegration in die Regelklasse gelingt oder sie oder er im letzten obligatorischen Schuljahr eine berufsvorbereitende Ausbildung anstreben kann. Die Beschulung in einer Relaisklasse ist auf vier Monate beschränkt und kann pro Schuljahr einmal verlängert werden.
 
@@ -1294,7 +1310,7 @@ beschliesst:
 
 <sup>2</sup> Die individuellen Lernziele nach Vorgabe der im Lehrplan festgelegten Ziele tragen den Bedürfnissen und Fähigkeiten der Schülerin oder des Schülers Rechnung. Die Beurteilung der Schulleistungen bezieht sich auf die im individuellen Förderplan festgelegten Ziele.
 
-<sup>3</sup> Mit Zustimmung des Schulinspektorats können die Schulleitungen Schülerinnen und Schüler mit ungenügenden Schulleistungen und ohne Anschlusslösung, während höchstens eines Halbtags pro Woche zusammenziehen.
+<sup>3</sup> Mit Zustimmung des Schulinspektorats können die Schuldirektionen Schülerinnen und Schüler mit ungenügenden Schulleistungen und ohne Anschlusslösung während höchstens eines Halbtags pro Woche zusammenziehen.
 
 <sup>4</sup> Die Kosten und die Organisation der Schülertransporte, die durch das Zusammenziehen von Schülerinnen und Schülern entstehen, übernehmen die Gemeinden des Schulkreises, in dem die Schülerinnen und Schüler ihren Wohnsitz oder ständigen Aufenthalt haben. Die Fahrkosten für Betriebsbesuche tragen die Eltern.
 
@@ -1314,7 +1330,7 @@ beschliesst:
 
 **Hospitalisierte oder rekonvaleszente Schülerinnen und Schüler**
 
-<sup>1</sup> Eine Schülerin oder ein Schüler, die oder der über eine längere Dauer hospitalisiert oder rekonvaleszent ist, erhält einen den Umständen angepassten Unterricht, der von der Schulleitung in Zusammenarbeit mit den Eltern und den medizinischen Fachstellen organisiert wird.
+<sup>1</sup> Eine Schülerin oder ein Schüler, die oder der über eine längere Dauer hospitalisiert oder rekonvaleszent ist, erhält einen den Umständen angepassten Unterricht, der von der Schuldirektion in Zusammenarbeit mit den Eltern und den medizinischen Fachstellen organisiert wird.
 
 <sup>2</sup> Die Schule und die Eltern sorgen für die Begleitung der Schülerin oder des Schülers.
 
@@ -1328,7 +1344,7 @@ beschliesst:
 
 **Meldung von Schülerinnen und Schülern an die Kinderschutzbehörde**
 
-<sup>1</sup> In Anwendung der Gesetzgebung über den Kindesschutz informieren die Lehrpersonen und die sozialpädagogischen Fachpersonen die Schulleitung, wenn konkrete Hinweise dafür bestehen, dass die körperliche, psychische oder sexuelle Integrität der Schülerin oder des Schülers gefährdet ist. Die Schulleitung meldet den Fall der Kindesschutzbehörde und informiert das Schulinspektorat.
+<sup>1</sup> In Anwendung der Gesetzgebung über den Kindesschutz informieren die Lehrpersonen und die sozialpädagogischen Fachpersonen die Schuldirektion, wenn konkrete Hinweise dafür bestehen, dass die körperliche, psychische oder sexuelle Integrität der Schülerin oder des Schülers gefährdet ist. Die Schuldirektion meldet den Fall der Kindesschutzbehörde und informiert das Schulinspektorat.
 
 ### 4.4 Bearbeiten von Personendaten der Schülerinnen und Schüler (Art. 43 SchG)
 
@@ -1362,9 +1378,9 @@ beschliesst:
 
 **Verantwortliche der Datensammlung**
 
-<sup>1</sup> Die Schulleitungen sind für die Datenbearbeitung verantwortlich.
+<sup>1</sup> Die Schuldirektionen sind für die Datenbearbeitung verantwortlich.
 
-<sup>2</sup> Die Lehrpersonen sowie das Verwaltungspersonal der Schulleitungen und der kantonalen Schulbehörden dürfen nur diejenigen Daten bearbeiten, die sie zur Ausübung ihrer jeweiligen Aufgaben benötigen.
+<sup>2</sup> Die Lehrpersonen sowie das Verwaltungspersonal der Schuldirektionen und der kantonalen Schulbehörden dürfen nur diejenigen Daten bearbeiten, die sie zur Ausübung ihrer jeweiligen Aufgaben benötigen.
 
 #### Art. 105
 
@@ -1378,17 +1394,27 @@ beschliesst:
 
 **Systematische Datenbekanntgabe**
 
-<sup>1</sup> Um die Qualität der Übertrittsentscheide sicherzustellen (Art. 80), können die Schulzeugnisse der Schülerinnen und Schüler am Ende des ersten oder zweiten Semesters an der Orientierungsschule den betroffenen Primarschulleitungen bekanntgegeben werden.
+<sup>1</sup> Um die Qualität der Übertrittsentscheide sicherzustellen (Art. 80), können die Schulzeugnisse der Schülerinnen und Schüler am Ende des ersten oder zweiten Semesters an der Orientierungsschule den betroffenen Primarschuldirektionen bekanntgegeben werden.
 
-<sup>2</sup> Die Schulleitungen übermitteln den anerkannten Kirchen und Religionsgemeinschaften die Namen der Schülerinnen und Schüler, die am konfessionellen Religionsunterricht teilnehmen, und geben dabei auch die Anschrift der Eltern, die Klasse und die Klassenlehrperson an.
+<sup>2</sup> Die Schuldirektionen übermitteln den anerkannten Kirchen und Religionsgemeinschaften die Namen der Schülerinnen und Schüler, die am konfessionellen Religionsunterricht teilnehmen, und geben dabei auch die Anschrift der Eltern, die Klasse und die Klassenlehrperson an.
 
 <sup>3</sup> Wechseln die Schülerinnen und Schüler von der obligatorischen Schule in die Sekundarstufe 2, so werden die für den Übertritt notwendigen Personendaten von einer Schuldirektion zur anderen übermittelt.
+
+<sup>4</sup> Um den Zugang zu den elektronischen Dienstleistungen im Bildungswesen zu erleichtern, dürfen folgende Daten von Schülerinnen und Schülern sowie des Lehr- und Verwaltungspersonals an die von der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (EDK) beauftragte Föderation der Identitätsdienste im Bildungsraum Schweiz zur Bearbeitung bekanntgeben werden:
+
+- a) Vorname und Name;
+- b) Geburtsdatum;
+- c) Unterrichtssprache;
+- d) Rolle oder Funktion;
+- e) Schule, Bildungsgang, Stufe;
+- f) Wohnsitzkanton;
+- g) technischer Identifikator (AHVN13).
 
 #### Art. 107
 
 **Datenbekanntgabe im Einzelfall**
 
-<sup>1</sup> Die Schulleitungen dürfen im Einzelfall Personendaten von Schülerinnen und Schülern ohne die Zustimmung der betroffenen Personen bekanntgeben, wenn der Datenempfänger eine öffentliche, dem Kindesinteresse dienende Funktion ausübt. Es werden ausschliesslich diejenigen Daten bekanntgegeben, die nötig sind, damit der Datenempfänger seine Funktion ausüben kann.
+<sup>1</sup> Die Schuldirektionen dürfen im Einzelfall Personendaten von Schülerinnen und Schülern ohne die Zustimmung der betroffenen Personen bekanntgeben, wenn der Datenempfänger eine öffentliche, dem Kindesinteresse dienende Funktion ausübt. Es werden ausschliesslich diejenigen Daten bekanntgegeben, die nötig sind, damit der Datenempfänger seine Funktion ausüben kann.
 
 <sup>2</sup> Die besonderen Schweigepflichten (Art. 42 SchG) sowie die Grundsätze der Datenschutzgesetzgebung bleiben vorbehalten.
 
@@ -1396,7 +1422,7 @@ beschliesst:
 
 **Aufbewahrung, Archivierung und Vernichtung der Daten**
 
-<sup>1</sup> Mit Ausnahme der Personen- und Schullaufbahndaten der Schülerin oder des Schülers (Art. 103 Abs. 1 Bst. a und f), die für eine Dauer von fünfzig Jahren aufbewahrt werden, vernichtet die Schulleitung nach Schulaustritt alle Personendaten, unabhängig davon, ob diese in Datenbanken und Schülerdateien oder in Papierform vorhanden sind.
+<sup>1</sup> Mit Ausnahme der Personen- und Schullaufbahndaten der Schülerin oder des Schülers (Art. 103 Abs. 1 Bst. a und f), die für eine Dauer von fünfzig Jahren aufbewahrt werden, vernichtet die Schuldirektion nach Schulaustritt alle Personendaten, unabhängig davon, ob diese in Datenbanken und Schülerdateien oder in Papierform vorhanden sind.
 
 <sup>2</sup> Nach Ablauf der oben genannten Frist werden die aufbewahrten Daten gemäss den ordentlichen Regeln dem Staatsarchiv zur Archivierung angeboten.
 
@@ -1410,13 +1436,13 @@ beschliesst:
 
 <sup>1</sup> Schulen, die eine Website betreiben, müssen dies der zuständigen Fachstelle für Informations- und Kommunikationstechnologien im pädagogischen Bereich mitteilen. Die Fachstelle kann Richtlinien erlassen, namentlich über den obligatorischen Inhalt und die Veröffentlichung von Personendaten.
 
-<sup>2</sup> Ein öffentlicher Internetauftritt liegt in der Verantwortung der Schule. Die Schulleitungen müssen die Datenschutzgesetzgebung einhalten. Insbesondere ist es verboten, Bildmaterial ohne Zustimmung der betroffenen Personen zu publizieren oder Kontextdaten zu veröffentlichen, die eine Personenidentifikation erlauben.
+<sup>2</sup> Ein öffentlicher Internetauftritt liegt in der Verantwortung der Schule. Die Schuldirektionen müssen die Datenschutzgesetzgebung einhalten. Insbesondere ist es verboten, Bildmaterial ohne Zustimmung der betroffenen Personen zu publizieren oder Kontextdaten zu veröffentlichen, die eine Personenidentifikation erlauben.
 
 <sup>3</sup> Die auf dem Internet veröffentlichten Informationen und Diskussionen unterstehen den gesetzlichen Regeln des Persönlichkeits- und Urheberrechtsschutzes. Die Herausgeberinnen und Herausgeber eines Blogs sind für den gesamten veröffentlichten Inhalt verantwortlich, einschliesslich der Kommentare, die Besucherinnen und Besucher hinterlassen.
 
 <sup>4</sup> Um die Schülerinnen und Schüler sowie deren Eltern über den Internetgebrauch zu informieren und sie für die damit verbundenen Gefahren zu sensibilisieren, können sie von den Schulen zur Unterzeichnung einer Internet-Charta angehalten werden.
 
-<sup>5</sup> Im Widerhandlungsfall kann die Schulleitung der Schülerin oder dem Schüler den Zugang zum Schulnetzwerk vorübergehend oder dauerhaft sperren. Disziplinarische und/oder strafrechtliche Sanktionen bleiben vorbehalten.
+<sup>5</sup> Im Widerhandlungsfall kann die Schuldirektion der Schülerin oder dem Schüler den Zugang zum Schulnetzwerk vorübergehend oder dauerhaft sperren. Disziplinarische und/oder strafrechtliche Sanktionen bleiben vorbehalten.
 
 ## 5 Schulbehörden
 
@@ -1424,31 +1450,31 @@ beschliesst:
 
 #### Art. 110
 
-**Schulleiterinnen und Schulleiter der Primarschule sowie Schuldirektorinnen und Schuldirektoren – Dienstverhältnis**
+**Schuldirektorinnen und Schuldirektoren – Dienstverhältnis**
 
-<sup>1</sup> Die Schulleiterin oder der Schulleiter der Primarschule und die Schuldirektorin oder der Schuldirektor werden von der Direktion auf Antrag des Schulinspektorats und des Amtes angestellt.
+<sup>1</sup> Die Schuldirektorinnen und Schuldirektoren werden von der Direktion auf Antrag des Schulinspektorats und des Amtes angestellt.
 
 <sup>2</sup> Vor der Anstellung informiert die Direktion die betreffenden Gemeinden über ihre Wahl.
 
-<sup>3</sup> Die Schulleiterin oder der Schulleiter der Primarschule und die Schuldirektorin oder der Schuldirektor sind dem Schulinspektorat unterstellt.
+<sup>3</sup> Die Schuldirektorinnen und Schuldirektoren sind dem Schulinspektorat unterstellt.
 
 #### Art. 111
 
-**Schulleiterinnen und Schulleiter der Primarschule sowie Schuldirektorinnen und Schuldirektoren – Beschäftigungsgrad**
+**Schuldirektorinnen und Schuldirektoren – Beschäftigungsgrad**
 
-<sup>1</sup> Die Direktion legt den Beschäftigungsgrad der Primarschulleiterinnen und Primarschulleiter sowie der Schuldirektorinnen und Schuldirektoren im Verhältnis zur Grösse der Schule fest.
+<sup>1</sup> Die Direktion legt den Beschäftigungsgrad der Schuldirektorinnen und Schuldirektoren im Verhältnis zur Grösse der Schule fest.
 
 #### Art. 112
 
-**Schulleiterinnen und Schulleiter der Primarschule sowie Schuldirektorinnen und Schuldirektoren – Öffentliches Amt**
+**Schuldirektorinnen und Schuldirektoren – Öffentliches Amt**
 
-<sup>1</sup> Die Schulleiterinnen und Schulleiter oder die Schuldirektorinnen und Schuldirektoren dürfen im Schulkreis, in dem sie ihre Funktion ausüben, als Gemeinderätin oder Gemeinderat nicht das Ressort Schulen übernehmen.
+<sup>1</sup> Die Schuldirektorinnen und Schuldirektoren dürfen im Schulkreis, in dem sie ihre Funktion ausüben, als Gemeinderätin oder Gemeinderat nicht das Ressort Schulen übernehmen.
 
 #### Art. 113
 
-**Schulleiterinnen und Schulleiter der Primarschule sowie Schuldirektorinnen und Schuldirektoren – Konferenzen der Schulleitungen**
+**Schuldirektorinnen und Schuldirektoren – Konferenzen der Schuldirektionen**
 
-<sup>1</sup> Die Konferenzen der Schulleitungen werden von den Schulinspektorinnen und Schulinspektoren geleitet.
+<sup>1</sup> Die Konferenzen der Schuldirektionen werden von den Schulinspektorinnen und Schulinspektoren geleitet.
 
 <sup>2</sup> Sie versammeln sich regelmässig und so oft es die oder der Vorsitzende für nötig erachtet. Die Mitglieder können ebenfalls eine Sitzung verlangen.
 
@@ -1456,11 +1482,11 @@ beschliesst:
 
 #### Art. 114
 
-**Stellvertretende Schulleiterin oder stellvertretender Schulleiter / Stellvertretende Schuldirektorin oder stellvertretender Schuldirektor – Funktion**
+**Stellvertretende Schuldirektorin oder stellvertretender Schuldirektor – Funktion**
 
-<sup>1</sup> Die Schulleiterinnen und Schulleiter der Primarschule und die Schuldirektorinnen und Schuldirektoren können auf Entscheid der Direktion in der Leitung der Schule von einer bzw. einem oder mehreren Stellvertreterinnen und Stellvertretern unterstützt werden.
+<sup>1</sup> Die Schuldirektorinnen und Schuldirektoren können auf Entscheid der Direktion in der Leitung der Schule von einer bzw. einem oder mehreren Stellvertreterinnen und Stellvertretern unterstützt werden.
 
-<sup>2</sup> Die Zuständigkeiten der Stellvertreterin oder des Stellvertreters werden in einem Pflichtenheft festgelegt, das von der Direktion genehmigt wird. Die Schulleitung kann Entscheidungskompetenzen delegieren.
+<sup>2</sup> Die Zuständigkeiten der Stellvertreterin oder des Stellvertreters werden in einem Pflichtenheft festgelegt, das von der Direktion genehmigt wird. Die Schuldirektion kann Entscheidungskompetenzen delegieren.
 
 #### Art. 115
 
@@ -1468,9 +1494,9 @@ beschliesst:
 
 <sup>1</sup> Die Stellvertreterinnen und Stellvertreter unterstehen der Gesetzgebung über das Staatspersonal, soweit in den Ausführungsbestimmungen keine besonderen oder ergänzenden Vorschriften festgelegt werden.
 
-<sup>2</sup> Sie werden von der Direktion auf Antrag der Schulleitung und des Amtes angestellt.
+<sup>2</sup> Sie werden von der Direktion auf Antrag der Schuldirektion und des Amtes angestellt.
 
-<sup>3</sup> Sie sind der Schulleitung unterstellt.
+<sup>3</sup> Sie sind der Schuldirektion unterstellt.
 
 <sup>4</sup> Sie müssen über ein von der Schweizerischen Konferenz der kantonalen Erziehungsdirektorinnen und Erziehungsdirektoren (EDK) anerkanntes Lehrdiplom, über mehrere Jahre Unterrichtserfahrung und über eine angemessene Zusatzausbildung verfügen.
 
@@ -1524,15 +1550,15 @@ beschliesst:
 
 **Schulgelände**
 
-<sup>1</sup> Die Gemeinden legen in Zusammenarbeit mit der Schulleitung im Gemeindeschulreglement das Gelände jeder Schule fest. Das Schulgelände begrenzt den Bereich, in dem die Schülerinnen und Schüler während der Schulzeit unter der Verantwortung der Schule stehen.
+<sup>1</sup> Die Gemeinden legen in Zusammenarbeit mit der Schuldirektion im Gemeindeschulreglement das Gelände jeder Schule fest. Das Schulgelände begrenzt den Bereich, in dem die Schülerinnen und Schüler während der Schulzeit unter der Verantwortung der Schule stehen.
 
 #### Art. 123
 
 **Zustand der Schulräume und Schulanlagen (Art. 41 Abs. 3 SchG)**
 
-<sup>1</sup> Die Gemeinden kontrollieren regelmässig, ob der Zustand der Schulräume und Schulanlagen den Anforderungen von Artikel 41 Absatz 3 des Schulgesetzes entspricht, und informieren die Schulleitungen darüber.
+<sup>1</sup> Die Gemeinden kontrollieren regelmässig, ob der Zustand der Schulräume und Schulanlagen den Anforderungen von Artikel 41 Abs. 3 des Schulgesetzes entspricht, und informieren die Schuldirektionen darüber.
 
-<sup>2</sup> Die Schulleitungen melden alle Mängel den Gemeinden und wenden sich nach Bedarf an die Direktion, damit diese einschreitet.
+<sup>2</sup> Die Schuldirektionen melden alle Mängel den Gemeinden und wenden sich nach Bedarf an die Direktion, damit diese einschreitet.
 
 #### Art. 124
 
@@ -1540,7 +1566,7 @@ beschliesst:
 
 <sup>1</sup> Während der Schulzeit ist der Zugang zu den Schulräumen und Schulanlagen den Schülerinnen und Schülern, dem Personal der Schule und anderen berechtigten Personen vorbehalten.
 
-<sup>2</sup> Die Gemeinden und/oder die Schulleitung können, unter Androhung einer Strafanzeige, allen Personen, die den Unterricht oder den Schulbetrieb stören, den Zugang zum Schulgelände untersagen.
+<sup>2</sup> Die Gemeinden und/oder die Schuldirektion können, unter Androhung einer Strafanzeige, allen Personen, die den Unterricht oder den Schulbetrieb stören, den Zugang zum Schulgelände untersagen.
 
 #### Art. 125
 
@@ -1554,7 +1580,7 @@ beschliesst:
 
 **Sicherheitsmassnahmen**
 
-<sup>1</sup> Im Ernstfall müssen die Schülerinnen und die Schüler und das Personal der Schule in der Lage sein, die Schule unverzüglich und reibungslos zu evakuieren. Zu diesem Zweck erarbeiten die Gemeinden in Zusammenarbeit mit der Schulleitung ein Verfahren, das die Sicherheit der Schülerinnen und Schüler sowie des Schulpersonals gewährleistet.
+<sup>1</sup> Im Ernstfall müssen die Schülerinnen und die Schüler und das Personal der Schule in der Lage sein, die Schule unverzüglich und reibungslos zu evakuieren. Zu diesem Zweck erarbeiten die Gemeinden in Zusammenarbeit mit der Schuldirektion ein Verfahren, das die Sicherheit der Schülerinnen und Schüler sowie des Schulpersonals gewährleistet.
 
 #### Art. 127
 
@@ -1568,7 +1594,7 @@ beschliesst:
 
 **Administratives und technisches Personal (Art. 57 Abs. 2 Bst. c SchG)**
 
-<sup>1</sup> Das administrative und technische Personal wird von den Gemeinden angestellt. Diese legen nach Anhörung der Schulleitung sein Pflichtenheft fest. Die Schulleitung sowie das administrative und technische Personal arbeiten eng zusammen.
+<sup>1</sup> Das administrative und technische Personal wird von den Gemeinden angestellt. Diese legen nach Anhörung der Schuldirektion sein Pflichtenheft fest. Die Schuldirektion sowie das administrative und technische Personal arbeiten eng zusammen.
 
 ## 7 Logopädische, psychologische und psychomotorische Dienste
 
@@ -1605,7 +1631,7 @@ beschliesst:
 
 <sup>1</sup> Die Inanspruchnahme der logopädischen, psychologischen und psychomotorischen Dienste wird von den Eltern, nach Möglichkeit in Zusammenarbeit mit der Lehrperson, bei der Leitung der besagten Dienste beantragt. Sie können sich gegebenenfalls von den beteiligten Fachpersonen beraten lassen, um ihren Antrag zu stellen.
 
-<sup>2</sup> Die Leitung der logopädischen, psychologischen und psychomotorischen Dienste teilt der Schulleitung ihren Entscheid mit.
+<sup>2</sup> Die Leitung der logopädischen, psychologischen und psychomotorischen Dienste teilt der Schuldirektion ihren Entscheid mit.
 
 #### Art. 132
 
@@ -1627,9 +1653,9 @@ beschliesst:
 
 <sup>2</sup> Die Schulen bestellen das Material bei der kantonalen Lehrmittelverwaltung und kontrollieren die Lieferungen. Spezifische Materialien für bestimmte gestalterische Aktivitäten oder für den Hauswirtschaftsunterricht können sie in den örtlichen Geschäften beziehen, wenn diese nicht bei der kantonalen Lehrmittelverwaltung erhältlich sind.
 
-<sup>3</sup> Die Direktion überweist der kantonalen Lehrmittelverwaltung den pro Schülerin oder Schüler anerkannten Pauschalbetrag. Die in lokalen Geschäften getätigten und von den Schulleitungen validierten Einkäufe werden nach den von der Direktion festgelegten Modalitäten übernommen.
+<sup>3</sup> Die Direktion überweist der kantonalen Lehrmittelverwaltung den pro Schülerin oder Schüler anerkannten Pauschalbetrag. Die in lokalen Geschäften getätigten und von den Schuldirektionen validierten Einkäufe werden nach den von der Direktion festgelegten Modalitäten übernommen.
 
-<sup>4</sup> Auf ein vorab begründetes Gesuch der Schulleitungen hin können die Gemeinden den Teil, der diesen Pauschalbetrag übersteigt, oder die Kosten der nicht anerkannten Lehrmittel übernehmen.
+<sup>4</sup> Auf ein vorab begründetes Gesuch der Schuldirektionen hin können die Gemeinden den Teil, der diesen Pauschalbetrag übersteigt, oder die Kosten der nicht anerkannten Lehrmittel übernehmen.
 
 <sup>5</sup> Die Lehrmittel und das Schulmaterial können den Eltern in Rechnung gestellt werden, wenn ihr Kind sie verliert oder nicht mit der üblichen Sorgfalt behandelt.
 
@@ -1704,7 +1730,7 @@ beschliesst:
 
 <sup>1</sup> Für die Erteilung der Bewilligung zur Eröffnung einer Privatschule ist bis 31. Dezember für das folgende Schuljahr ein Gesuch einzureichen. Dem Gesuch müssen namentlich folgende Unterlagen beigelegt werden:
 
-- a) die Liste der Mitglieder der Schulleitung und der Lehrpersonen mit Lebenslauf und erworbenen Ausbildungsabschlüssen, ein Strafregisterauszug und ein Sonderprivatauszug aus dem Strafregister für jede einzelne Person;
+- a) die Liste der Mitglieder der Schuldirektion und der Lehrpersonen mit Lebenslauf und erworbenen Ausbildungsabschlüssen, ein Strafregisterauszug und ein Sonderprivatauszug aus dem Strafregister für jede einzelne Person;
 - b) die Rechtsform und die Bezeichnung der Schule;
 - c) die betreffenden Schuljahre;
 - d) die Beschreibung der Schulräume und Schulanlagen;
@@ -1787,9 +1813,9 @@ beschliesst:
 
 <sup>1</sup> Die Einsprache enthält eine kurze Darstellung des Sachverhalts, eine Begründung sowie ein Rechtsbegehren.
 
-<sup>2</sup> Die Schulleitung lädt die Lehrperson dazu ein, innert kurzer Frist zur Einsprache schriftlich Stellung zu nehmen.
+<sup>2</sup> Die Schuldirektion lädt die Lehrperson dazu ein, innert kurzer Frist zur Einsprache schriftlich Stellung zu nehmen.
 
-<sup>3</sup> Die Schulleitung behandelt das Verfahren zügig. Sie stellt den Sachverhalt fest, wobei sie nicht an den Inhalt der Einsprache gebunden ist. Sie kann die Eltern und, wenn die Umstände es rechtfertigen, die betroffene Schülerin oder den betroffenen Schüler anhören.
+<sup>3</sup> Die Schuldirektion behandelt das Verfahren zügig. Sie stellt den Sachverhalt fest, wobei sie nicht an den Inhalt der Einsprache gebunden ist. Sie kann die Eltern und, wenn die Umstände es rechtfertigen, die betroffene Schülerin oder den betroffenen Schüler anhören.
 
 <sup>4</sup> Der Einspracheentscheid erfolgt schriftlich und wird kurz begründet.
 
@@ -1797,7 +1823,7 @@ beschliesst:
 
 **In Vertretung getroffene Entscheide (Art. 87 SchG)**
 
-<sup>1</sup> Die Entscheide von Stellvertreterinnen und Stellvertretern der Schulleitung, welche die Stellung einer Schülerin oder eines Schülers beeinträchtigen oder zu beeinträchtigen vermögen, können nach Artikel 87 des Schulgesetzes bei der Direktion angefochten werden.
+<sup>1</sup> Die Entscheide von Stellvertreterinnen und Stellvertretern der Schuldirektion, welche die Stellung einer Schülerin oder eines Schülers beeinträchtigen oder zu beeinträchtigen vermögen, können nach Artikel 87 des Schulgesetzes bei der Direktion angefochten werden.
 
 #### Art. 149
 
@@ -1805,8 +1831,8 @@ beschliesst:
 
 <sup>1</sup> Aufsichtsbeschwerdebehörden sind:
 
-- a) die Schulleiterin oder der Schulleiter der Primarschule oder an der Orientierungsschule die Schuldirektorin oder der Schuldirektor bei Beschwerden gegen Handlungen oder Unterlassungen einer Lehrperson oder einer stellvertretenden Schulleiterin oder eines stellvertretenden Schulleiters oder einer stellvertretenden Schuldirektorin oder eines stellvertretenden Schuldirektors;
-- b) die Schulinspektorin oder der Schulinspektor bei Beschwerden gegen Handlungen oder Unterlassungen einer Schulleiterin oder eines Schulleiters der Primarschule oder einer Schuldirektorin oder eines Schuldirektors;
+- a) die Schuldirektorin oder der Schuldirektor bei Beschwerden gegen Handlungen oder Unterlassungen einer Lehrperson oder einer stellvertretenden Schuldirektorin oder eines stellvertretenden Schuldirektors;
+- b) die Schulinspektorin oder der Schulinspektor bei Beschwerden gegen Handlungen oder Unterlassungen einer Schuldirektorin oder eines Schuldirektors;
 - c) das Amt bei Beschwerden gegen Handlungen oder Unterlassungen einer Schulinspektorin oder eines Schulinspektors.
 
 <sup>2</sup> Die Direktion ist zuständig für die Beurteilung einer Beschwerde gegen den Entscheid der Schulbehörde, mit dem die Aufsichtsbeschwerde für unzulässig oder unbegründet erklärt wird oder der Beschwerdeführerin oder dem Beschwerdeführer Verfahrenskosten auferlegt werden.
@@ -1879,7 +1905,7 @@ beschliesst:
 
 **Halbklassenunterricht (Art. 51)**
 
-<sup>1</sup> Die Schulleitungen müssen den Unterricht in den gestalterischen Fächern und der Hauswirtschaft bis 1. August 2019 gemäss Artikel 51 Abs. 1 organisieren.
+<sup>1</sup> Die Schuldirektionen müssen den Unterricht in den gestalterischen Fächern und der Hauswirtschaft bis 1. August 2019 gemäss Artikel 51 Abs. 1 organisieren.
 
 #### Art. 158
 
