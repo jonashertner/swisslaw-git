@@ -4,11 +4,11 @@ number: "413.21"
 title: Mittelschulgesetz (MSG)
 short: MSG
 language: de
-version: "2022-01-01"
-nachtrag: "115"
-valid_until: 2022-08-01
+version: "2022-08-01"
+nachtrag: "117"
+valid_until: 2026-04-01
 adopted: 1999-06-13
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-413_21-1999_06_13-1999_11_01-115.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-413_21-1999_06_13-1999_11_01-117.html"
 text: pdf
 ---
 
@@ -66,7 +66,7 @@ Die kantonalen Mittelschulen 1. bilden die Schülerinnen und Schüler gemäss de
 
 **1**
 
-- 1\. 1. 22 - 115
+- 1\. 7. 22 - 117
 
 <sup>2</sup> Daten gemäss Abs. 1 sind insbesondere Informationen über a. Leistungsbeurteilungen,
 
@@ -154,7 +154,7 @@ Die kantonalen Mittelschulen 1. bilden die Schülerinnen und Schüler gemäss de
 
 **3**
 
-- 1\. 1. 22 - 115
+- 1\. 7. 22 - 117
 
 <sup>2</sup> Die Schulleitung hat insbesondere folgende Aufgaben:
 
@@ -228,7 +228,7 @@ Die kantonalen Mittelschulen 1. bilden die Schülerinnen und Schüler gemäss de
 
 **5**
 
-- 1\. 1. 22 - 115 § 11 b.<sup>22</sup> Wird eine Administrativuntersuchung durchgeführt, kann die für das Bildungswesen zuständige Direktion vorsorgliche Massnahmen anordnen.
+- 1\. 7. 22 - 117 § 11 b.<sup>22</sup> Wird eine Administrativuntersuchung durchgeführt, kann die für das Bildungswesen zuständige Direktion vorsorgliche Massnahmen anordnen.
 
 #### § 12
 
@@ -250,7 +250,7 @@ Die Lehrperson hat das Recht, im Rahmen des Lehrplans, der Konventsbeschlüsse, 
 
 **Aufnahme**
 
-§ 14.<sup>8</sup> Der Regierungsrat legt die Bedingungen für die Aufnahme in die Mittelschulen fest. Die definitive Aufnahme ist vom Bestehen einer Prüfung und einer Probezeit abhängig.
+§ 14.<sup>24</sup> Der Regierungsrat legt die Bedingungen für die Aufnahme in die Mittelschulen fest. Die Vorleistungen der Schülerinnen und Schüler werden dabei angemessen berücksichtigt. Die definitive Aufnahme ist vom Bestehen einer Prüfung und einer Probezeit abhängig.
 
 **Promotion**
 
@@ -326,7 +326,7 @@ Die Schülerinnen und Schüler können grundsätzlich nach freier Wahl an eine S
 
 **7**
 
-- 1\. 1. 22 - 115 § 26. <sup>1</sup> Der Unterricht wird von Fachlehrpersonen erteilt und erfolgt im allgemeinen im Klassenverband.
+- 1\. 7. 22 - 117 § 26. <sup>1</sup> Der Unterricht wird von Fachlehrpersonen erteilt und erfolgt im allgemeinen im Klassenverband.
 
 **Unterricht**
 
@@ -400,7 +400,7 @@ Die Schülerinnen und Schüler können grundsätzlich nach freier Wahl an eine S
 
 **9**
 
-- 1\. 1. 22 - 115 § 31 a.<sup>23</sup> <sup>1</sup> Der Kanton trägt die Unterrichtskosten für die Spitalschulen gemäss § 26 a für Schülerinnen und Schüler mit Wohnsitz im Kanton Zürich, die
+- 1\. 7. 22 - 117 § 31 a.<sup>23</sup> <sup>1</sup> Der Kanton trägt die Unterrichtskosten für die Spitalschulen gemäss § 26 a für Schülerinnen und Schüler mit Wohnsitz im Kanton Zürich, die
 
 **Spitalschulen**
 
@@ -480,7 +480,7 @@ Der Regierungsrat kann mit anderen Kantonen Vereinbarungen über Schulbeiträge 
 
 **11**
 
-- 1\. 1. 22 - 115 § 38 a.<sup>14</sup> <sup>1</sup> Die Regelung gemäss § 11 a über den Entzug des Lehrdiploms und die Unterrichtsberechtigung gilt auch für Lehrpersonen an nichtstaatlichen Mittelschulen, die über eine Bewilligung gemäss § 35 verfügen oder deren Ausbildungsabschlüsse gemäss § 36 anerkannt werden.
+- 1\. 7. 22 - 117 § 38 a.<sup>14</sup> <sup>1</sup> Die Regelung gemäss § 11 a über den Entzug des Lehrdiploms und die Unterrichtsberechtigung gilt auch für Lehrpersonen an nichtstaatlichen Mittelschulen, die über eine Bewilligung gemäss § 35 verfügen oder deren Ausbildungsabschlüsse gemäss § 36 anerkannt werden.
 
 **Entzug des Lehrdiploms**
 
@@ -566,7 +566,7 @@ Die nachfolgenden Gesetze werden wie folgt geändert:
 
 **13**
 
-- 1\. 1. 22 - 115
+- 1\. 7. 22 - 117
 
 <sup>18</sup> Fassung gemäss G über die Anpassung der Gesetzgebung im Bereich der Bildungsdirektion an das Gesetz über die Information und den Datenschutz vom 24. August 2015 (OS 71, 9; ABl 2014-11-14). In Kraft seit 1. Januar 2017 (OS 71, 463; ABl 2016-10-14).
 
@@ -579,3 +579,5 @@ Die nachfolgenden Gesetze werden wie folgt geändert:
 <sup>22</sup> Eingefügt durch G über die Administrativuntersuchung vom 22. Februar 2021 (OS 76, 447; ABl 2018-07-20). In Kraft seit 1. Januar 2022.
 
 <sup>23</sup> Eingefügt durch G über die Spitalschulen auf der Sekundarstufe II vom 2. September 2019 (OS 76, 564; ABl 2018-07-13). In Kraft seit 1. Januar 2022.
+
+<sup>24</sup> Fassung gemäss G vom 27. April 2015 (OS 74, 350; ABl 2014-10-10). In Kraft seit 1. August 2022 (OS 76, 265).
