@@ -4,13 +4,13 @@ number: "421.010"
 title: Verordnung zum Schulgesetz
 short: Schulverordnung
 language: de
-version: 2021-08-01
-valid_until: 2022-07-31
-version_adopted: 2021-06-29
+version: 2022-08-01
+valid_until: 2025-07-31
+version_adopted: 2022-06-21
 adopted: 2012-09-25
 in_force: 2013-08-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/421.010"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3181/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3542/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3181/pdf_file"
 
 (Schulverordnung)
 
-Vom 25.09.2012 (Stand 01.08.2021)
+Vom 25.09.2012 (Stand 01.08.2022)
 
 Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung[^ingress-1] und Art. 97 des Gesetzes für die Volksschulen des Kantons Graubünden (Schulgesetz)[^ingress-2]
 
@@ -81,6 +81,12 @@ von der Regierung erlassen am 25. September 2012
 <sup>1</sup> Auf Gesuch der Erziehungsberechtigten kann ein Kind in begründeten Fällen in die Schule einer anderen Schulträgerschaft aufgenommen werden. Deren Schulrat entscheidet über die Aufnahme sowie über das Schulgeld mit dem Einverständnis der abgebenden Schulträgerschaft.
 
 <sup>2</sup> Das Schulgeld und die allfälligen Transportkosten entrichtet in der Regel die abgebende Schulträgerschaft. Die Erziehungsberechtigten haben das Schulgeld und die allfälligen Transportkosten zu bezahlen, sofern der Schulbesuch in der anderen Schulträgerschaft vorwiegend aus Gründen erfolgt, die in ihren oder des Kindes persönlichen Interessen liegen.
+
+<sup>3</sup> Kann eine vom Amt angeordnete integrative Sonderschulung aus Gründen, welche nicht im persönlichen Interesse der Erziehungsberechtigten oder des Kindes liegen, nicht in der Regelschule der zuständigen Schulträgerschaft durchgeführt werden, hat das Kind Anspruch auf eine entsprechende Beschulung in der nächstgelegenen geeigneten Schulträgerschaft.
+
+<sup>4</sup> Die Voraussetzungen gelten als erfüllt, wenn die Gründe vor der Anordnung der Massnahmen durch die Fachstellen des Amts geprüft wurden und wenn für den Wechsel ein direkter Zusammenhang mit der Umsetzung der Sonderschulung besteht.
+
+<sup>5</sup> Sind die Voraussetzungen gemäss Absatz 4 erfüllt, trägt der Kanton das Schulgeld sowie die allfälligen Transportkosten.
 
 #### Art. 7
 
@@ -156,9 +162,16 @@ von der Regierung erlassen am 25. September 2012
 <sup>1</sup> Schulleitungen erfüllen die Mindestvoraussetzungen, wenn:
 
 - a) den Schulleitungspersonen die operative Führung der Schule in den Bereichen Pädagogik und Sonderpädagogik, Personal, Organisation, Administration und Finanzen übertragen wird und die entsprechenden Aufgaben in einem Pflichtenheft festgehalten sind;
-- b) die Schulleitungspersonen über Berufserfahrung im pädagogischen Bereich sowie über eine Zusatzausbildung im Schulleitungsbereich verfügen. Das Amt entscheidet über die Äquivalenz von ausserschulischen Berufserfahrungen und Ausbildungen;
+- b) die Schulleitungspersonen über Berufserfahrung im pädagogischen Bereich sowie über eine Zusatzausbildung im Schulleitungsbereich verfügen. Das Amt entscheidet über die Äquivalenz von Berufs- und Führungserfahrungen sowie Ausbildungen;
 - c) das Beschäftigungspensum einer Schulleitungsperson für die Aufgabenerfüllung mindestens 20 Stellenprozent beträgt. Für die Berechnung des minimalen Beschäftigungspensums gelten die Bestimmungen der kantonalen Personalgesetzgebung;
 - d) die Vorgaben des Departements bezüglich Schnittstellen zu den kantonalen Instanzen eingehalten werden.
+
+<sup>2</sup> Findet die Schulträgerschaft mit den üblichen Bemühungen keine geeignete Schulleitungsperson mit abgeschlossener Zusatzausbildung im Schulleitungsbereich, gelten die Mindestvoraussetzungen im Falle einer Anstellung ebenfalls als erfüllt, wenn:
+
+- a) die Schulleitungsperson einen vom Amt anerkannten Lehrgang im Schulleitungsbereich absolviert; und
+- b) der anerkannte Lehrgang im Schulleitungsbereich innert drei Jahren seit dessen Beginn erfolgreich abgeschlossen wird.
+
+<sup>3</sup> Beiträge an Schulträgerschaften mit einer Schulleitung gemäss Absatz 2 werden ab Beginn des Lehrgangs geleistet. Erfolgt der Abschluss des Lehrgangs nicht innert der Frist gemäss Absatz 2 Litera b, sind die geleisteten Beiträge dem Kanton zurückzuerstatten.
 
 #### Art. 16
 

@@ -4,13 +4,13 @@ number: "421.010"
 title: Ordinanza relativa alla legge scolastica
 short: Ordinanza scolastica
 language: it
-version: 2021-08-01
-valid_until: 2022-07-31
-version_adopted: 2021-06-29
+version: 2022-08-01
+valid_until: 2025-07-31
+version_adopted: 2022-06-21
 adopted: 2012-09-25
 in_force: 2013-08-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/421.010"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3181/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3542/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3181/pdf_file"
 
 (Ordinanza scolastica)
 
-del 25.09.2012 (stato 01.08.2021)
+del 25.09.2012 (stato 01.08.2022)
 
 emanata dal Governo il 25 settembre 2012
 
@@ -81,6 +81,12 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 97 dell
 <sup>1</sup> Su richiesta dei titolari dell'autorità parentale, in casi motivati un bambino può essere ammesso nella scuola di un altro ente scolastico. Il consiglio scolastico di quest'ultimo decide in merito all'ammissione e alla tassa scolastica, con il consenso dell'ente scolastico di origine.
 
 <sup>2</sup> La tassa scolastica e gli eventuali costi di trasporto vengono di norma assunti dall'ente scolastico di origine. Se la scuola viene frequentata presso un altro ente scolastico prevalentemente per motivi che rientrano nell'interesse personale dei titolari dell'autorità parentale o del bambino, la tassa scolastica e gli eventuali costi di trasporto devono essere pagati dai titolari dell'autorità parentale.
+
+<sup>3</sup> Se un'istruzione scolastica speciale integrativa disposta dall'Ufficio per motivi che non rientrano nell'interesse personale dei titolari dell'autorità parentale o del bambino non può essere svolta nella scuola regolare dell'ente scolastico competente, il bambino ha diritto a una corrispondente istruzione scolastica presso il più vicino ente scolastico idoneo.
+
+<sup>4</sup> Le condizioni sono considerate soddisfatte se i motivi per la disposizione delle misure sono stati esaminati dai servizi specializzati dell'Ufficio e se il cambiamento è direttamente correlato all'attuazione dell'istruzione scolastica speciale.
+
+<sup>5</sup> Se le condizioni conformemente al capoverso 4 sono soddisfatte, il Cantone si fa carico della tassa scolastica nonché di eventuali costi di trasporto.
 
 #### Art. 7
 
@@ -156,9 +162,16 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 97 dell
 <sup>1</sup> Le direzioni scolastiche soddisfano le condizioni minime se:
 
 - a) ai membri della direzione scolastica viene delegata la gestione operativa della scuola nei settori della pedagogia e della pedagogia specializzata, del personale, dell'organizzazione, dell'amministrazione e delle finanze e se i rispettivi compiti sono stabiliti in un mansionario;
-- b) i membri della direzione scolastica dispongono di esperienza professionale nel settore della pedagogia e di una formazione complementare nel settore della direzione di scuole. L'Ufficio decide in merito all'equivalenza di esperienze professionali e formazioni extrascolastiche;
+- b) i membri della direzione scolastica dispongono di esperienza professionale nel settore della pedagogia e di una formazione complementare nel settore della direzione di scuole. L'Ufficio decide in merito all'equivalenza di esperienze professionali e gestionali nonché di formazioni;
 - c) il volume d'impiego che un direttore scolastico dedica all'adempimento dei suoi compiti è almeno del 20 per cento. Per il calcolo del volume d'impiego minimo fanno stato le disposizioni della legislazione cantonale sul personale;
 - d) sono osservate le direttive del Dipartimento concernenti i contatti con le autorità cantonali.
+
+<sup>2</sup> Qualora con gli sforzi usuali l'ente scolastico non trovi un membro della direzione scolastica adeguato in possesso di una formazione complementare conclusa nel settore della direzione scolastica, in caso di assunzione le condizioni minime sono considerate soddisfatte anche se:
+
+- a) il membro della direzione scolastica frequenta un ciclo di formazione nel settore della direzione scolastica riconosciuto dall'Ufficio; e
+- b) il ciclo di formazione nel settore della direzione scolastica riconosciuto viene concluso entro tre anni dal suo inizio.
+
+<sup>3</sup> I contributi a favore degli enti scolastici che dispongono di una direzione scolastica conformemente al capoverso 2 vengono versati a partire dall'inizio del ciclo di formazione. Se il ciclo di formazione non viene concluso entro il termine previsto conformemente al capoverso 2 lettera b, i contributi erogati devono essere restituiti al Cantone.
 
 #### Art. 16
 

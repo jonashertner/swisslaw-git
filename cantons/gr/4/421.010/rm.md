@@ -4,13 +4,13 @@ number: "421.010"
 title: Ordinaziun tar la lescha da scola
 short: ordinaziun da scola
 language: rm
-version: 2021-08-01
-valid_until: 2022-07-31
-version_adopted: 2021-06-29
+version: 2022-08-01
+valid_until: 2025-07-31
+version_adopted: 2022-06-21
 adopted: 2012-09-25
 in_force: 2013-08-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/421.010"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3181/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3542/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3181/pdf_file"
 
 (ordinaziun da scola)
 
-dals 25-09-2012 (versiun dals 01-08-2021)
+dals 25-09-2012 (versiun dals 01-08-2022)
 
 sa basond sin l'art. 45 al. 1 da la constituziun chantunala[^ingress-1] e sin l'art. 97 da la lescha davart las scolas popularas dal chantun Grischun (lescha da scola)[^ingress-2]
 
@@ -82,9 +82,15 @@ relaschada da la regenza ils 25 da settember 2012
 
 <sup>2</sup> Ils daners da scola ed eventuals custs da transport vegnan pajads per regla da l'instituziun cedenta. Las persunas cun la pussanza dals geniturs han da pajar ils daners da scola ed eventuals custs da transport, sche la scola da l'autra instituziun responsabla per la scola vegn frequentada per motivs che sa chattan surtut en l'interess persunal dad ellas sezzas u da l'uffant.
 
+<sup>3</sup> Sch'ina scolaziun speziala integrativa, ch'è vegnida ordinada da l'uffizi, na po betg vegnir realisada en la scola regulara da l'instituziun responsabla per la scola, e quai per motivs che n'èn betg en l'interess da las persunas cun la pussanza dals geniturs u da l'uffant, ha l'uffant il dretg d'ina instrucziun correspundenta tar l'instituziun responsabla per la scola adattada la pli vischina.
+
+<sup>4</sup> Las premissas valan sco ademplidas, sch'ils motivs èn vegnids examinads dals posts spezialisads da l'uffizi, avant che las mesiras èn vegnidas ordinadas, e sch'igl exista per la midada in connex direct cun la realisaziun da la scolaziun speziala.
+
+<sup>5</sup> Sche las premissas tenor l'alinea 4 èn ademplidas, surpiglia il chantun ils daners da scola sco er ils eventuals custs da transport.
+
 #### Art. 7
 
-**Spustament e suspensiun da l'entrada en scolina**
+**Anticipaziun e suspensiun da l'entrada en scolina**
 
 <sup>1</sup> Las instituziuns responsablas per la scola pon er admetter al stgalim da la scolina uffants che cumpleneschan il 4. onn da vegliadetgna fin ils 31 da december da l'onn chalendar current.
 
@@ -92,7 +98,7 @@ relaschada da la regenza ils 25 da settember 2012
 
 #### Art. 8
 
-**Spustament e suspensiun da l'entrada en scola primara**
+**Anticipaziun e suspensiun da l'entrada en il stgalim primar**
 
 <sup>1</sup> Sin dumonda po il cussegl da scola conceder la permissiun per entrar pli baud en scola, premess ch'i saja avant maun in'expertisa dal servetsch psicologic da scola e ch'i na dettia naginas resalvas cunter in'admissiun a la scola.
 
@@ -156,9 +162,16 @@ relaschada da la regenza ils 25 da settember 2012
 <sup>1</sup> Las direcziuns da scola adempleschan las premissas minimalas, sche:
 
 - a) la direcziun operativa da la scola vegn surdada a las manadras ed als manaders da scola en ils secturs da la pedagogia e da la pedagogia speziala, dal persunal, da l'organisaziun, da l'administraziun e da las finanzas e sche las incumbensas correspundentas èn fixadas en in carnet d'obligaziuns;
-- b) las manadras ed ils manaders da scola han experientschas professiunalas en il sectur pedagogic sco er ina scolaziun supplementara en il sectur da la direcziun d'ina scola. L'uffizi decida davart l'equivalenza d'experientschas professiunalas e da scolaziuns d'ordaifer la scola;
+- b) las manadras ed ils manaders da scola han experientschas professiunalas en il sectur pedagogic sco er ina scolaziun supplementara en il sectur da la direcziun d'ina scola. L'uffizi decida davart l'equivalenza d'experientschas professiunalas e da direcziun sco er da scolaziuns;
 - c) il pensum da lavur da la manadra u dal manader da scola per ademplir questa incumbensa importa almain 20 pertschient d'ina plazza. Per calcular il pensum d'occupaziun minimal valan las disposiziuns da la lescha chantunala dal persunal[^15-1];
 - d) las directivas dal departament areguard las interfatschas a las instanzas chantunalas vegnan ademplidas.
+
+<sup>2</sup> Sche l'instituziun responsabla per la scola na chatta cun las stentas usitadas betg ina persuna adattada sco manadra u manader da scola cun ina scolaziun supplementara terminada en il sectur da la direcziun d'ina scola, valan las premissas minimalas – en cas d'in engaschament – medemamain sco ademplidas, sche:
+
+- a) la manadra u il manader da scola frequenta ina scolaziun en il sectur da la direcziun d'ina scola ch'è renconuschida da l'uffizi; e
+- b) la scolaziun renconuschida en il sectur da la direcziun d'ina scola vegn terminada cun success entaifer 3 onns suenter il cumenzament da quella.
+
+<sup>3</sup> Las contribuziuns ad instituziuns responsablas per la scola cun ina direcziun da scola tenor l'alinea 2 vegnan pajadas a partir dal cumenzament da la scolaziun. Sche la scolaziun na vegn betg terminada entaifer il termin tenor l'alinea 2 litera b, ston las contribuziuns pajadas vegnir restituidas al chantun.
 
 [^15-1]: DG [170.400](https://www.gr-lex.gr.ch/data/170.400/rm)
 
