@@ -1,439 +1,426 @@
 ---
 canton: VS
 number: "414.300"
-title: "Règlement d'études concernant les filières ES (école supérieure) du social Valais"
+title: "Règlement d'études concernant les filières école supérieure (ES) éducation de l’enfance et maîtrise socioprofessionnelle de la Haute Ecole Spécialisée de Suisse occidentale Valais-Wallis"
 short: Règlement ES Social
 language: fr
-version: 2013-09-01
-corrected: 2017-09-06
-version_adopted: 2013-12-18
+version: 2022-08-01
+valid_until: 2022-08-31
+version_adopted: 2022-05-11
 adopted: 2022-05-11
 in_force: 2022-08-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/414.300"
-pdf: "https://lex.vs.ch/api/fr/versions/503/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/fr/versions/3032/pdf_file"
 ---
 
-> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
-# Règlement d'études concernant les filières ES (école supérieure) du social Valais
+# Règlement d'études concernant les filières école supérieure (ES) éducation de l’enfance et maîtrise socioprofessionnelle de la Haute Ecole Spécialisée de Suisse occidentale Valais-Wallis
 
-du 18 décembre 2013
+(Règlement ES Social)
+
+du 11.05.2022 (état 01.08.2022)
 
 Le Conseil d'Etat du canton du Valais
 
-vu l'article 29 de la loi fédérale sur la formation professionnelle du 13 décembre 2002 (LFPr);
+vu la loi fédérale sur la formation professionnelle du 13 décembre 2002 (LFPr) et son ordonnance du 19 novembre 2003 (OFPr);
 
-vu l'article 28 de l'ordonnance sur la formation professionnelle du 19 novembre 2003 (OFPr);
+vu l’ordonnance du département fédéral de l'économie, de la formation et de la recherche (DEFR) concernant les conditions minimales de reconnaissance des filières de formation et des études postdiplômes des écoles supérieures du 11 septembre 2017 (OCM-ES);
 
-vu les articles 7, 13 et l'annexe 6 de l'ordonnance du Département fédéral de l'économie, de la formation et de la recherche (DEFR) concernant les conditions minimales de reconnaissance des filières de formation et des études postdiplômes des écoles supérieures du 11 mars 2005;
+vu l’Accord intercantonal sur les contributions dans le domaine des écoles supérieures du 22 mars 2012 (AES);
 
-sur la proposition du Département de la formation et de la sécurité,
+vu les plans d’études cadre du Secrétariat d’État à la formation, à la recherche et à l’innovation (SEFRI) applicables pour les filières de formation des écoles supérieures "Education de l’enfance ES" et "Maîtrise socioprofessionnelle ES";
 
-ordonne:[^t-1]
+vu la loi d'application de la loi fédérale sur la formation professionnelle du 13 juin 2008 (LALFPr) et son ordonnance du 9 février 2011 (OLALFPr);
 
-[^t-1]: Dans le présent règlement, toute désignation de personne, de statut et de fonction vise indifféremment l'homme ou la femme.
+vu la loi sur la Haute Ecole Spécialisée de Suisse occidentale Valais-Wallis du 16 novembre 2012;
 
-### Section 1: Dispositions générales
+sur la proposition du département en charge de la formation,
+
+ordonne:[^ingress-1]
+
+[^ingress-1]: Dans le présent règlement, toute désignation de personne, de statut et de fonction vise indifféremment l'homme ou la femme.
+
+## 1 Dispositions générales
 
 #### Art. 1
 
 **Champ d'application**
 
-<sup>1</sup> Le présent règlement arrête les conditions d'admission, l'organisation des études, les règles de validation et de promotion, ainsi que le statut des étudiants des filières ES (école supérieure) éducateur-trice de l'enfance (EDE) et maître-sse socioprofessionnel-le (MSP) fréquentant la Haute école spécialisée santé-social Valais (HEVs2).
+<sup>1</sup> Le présent règlement fixe les dispositions cadres relatives aux formations menant aux titres de "Educateur de l’enfance diplômé ES" et "Maître socioprofessionnel diplômé ES" délivrés par la Haute Ecole Spécialisée de Suisse occidentale Valais-Wallis (ci-après: HES-SO Valais-Wallis). L’organisation des formations est sous la responsabilité du Domaine Travail Social (ci-après: école).
 
-<sup>2</sup> Cas échéant, les dispositions d'application du présent règlement sont précisées dans des directives.
+<sup>2</sup> Il s’applique à tout étudiant et candidat à la HES-SO Valais-Wallis visant un titre de la formation des filières ES "Education de l’enfance" ou "Maîtrise socioprofessionnelle".
+
+<sup>3</sup> Il règle notamment l’organisation des formations, la promotion et les voies de droit.
+
+<sup>4</sup> Cas échéant, les dispositions d’application du présent règlement sont précisées dans des règlements spécifiques.
 
 #### Art. 2
 
-**Forme et durée des études**
+**Statut d’étudiant**
 
-<sup>1</sup> La formation se déroule à plein temps. Elle inclut la formation théorique et la formation pratique, que l'étudiant effectue parallèlement, soit par des stages soit par l'exercice d'une activité professionnelle. Dans ce dernier cas, l'accord préalable de l'employeur est exigé.
+<sup>1</sup> Est considéré comme étudiant ES quiconque est admis dans l’une des deux filières mentionnées à l’article 1 alinéa 2 en vue d’y obtenir un titre.
 
-<sup>2</sup> La formation dure au minimum trois ans et au maximum quatre ans. Des dérogations peuvent être accordées, dans des cas particuliers, par le membre de la Direction générale de la Haute école spécialisée Valais (HES-Valais) désigné à cet effet (ci-après: la direction), sur préavis du responsable de filière.
+<sup>2</sup> Le statut d’étudiant est effectif au premier jour de la formation et donne droit à une carte d’étudiant qui mentionne la période de validité.
 
-<sup>3</sup> La durée maximale des études n'inclut pas les périodes d'interruption découlant des congés prévus à l'article 25 alinéa 1.
-
-### Section 2: Conditions d'admission
+<sup>3</sup> Les données relatives au parcours d’études de chaque étudiant, de son admission à la perte du statut d’étudiant sont gérées par le système d’information de l'école.
 
 #### Art. 3
 
-**Accès**
+**Modalités et durée de la formation**
 
-<sup>1</sup> Les formations sont ouvertes à tous les candidats qui remplissent les conditions d'admission fixées dans le présent règlement. Sont réservées les dispositions de l'accord intercantonal sur les écoles supérieures spécialisées (AESS).
+<sup>1</sup> 2 modalités de formation sont proposées:
 
-<sup>2</sup> Les admissions peuvent être régulées en fonction des places de formation théorique et pratique disponibles.
+- a) formation en cours d’emploi (dual): elle inclut la formation théorique et la formation pratique. L’étudiant effectue la formation pratique dans une activité professionnelle de la profession correspondante à un taux de 50 pour cent minimum;
+- b) formation à plein temps (avec stages): elle inclut la formation théorique et la formation pratique. La formation pratique est organisée en 3 stages effectués dans la profession correspondante et formant un module.
 
-<sup>3</sup> Les candidats désireux de suivre les cours dispensés par les filières ES mentionnées à l'article 1 alinéa 1 doivent s'inscrire dans les délais fixés.
+<sup>2</sup> Les formations durent:
 
-<sup>4</sup> Le formulaire d'inscription, signé par le candidat, doit être accompagné des documents définis par les responsables de filières.
+- a) 4 semestres (3'600 heures) pour l’étudiant admis avec un certificat fédéral de capacité dans le domaine ou titre jugé équivalent;
+- b) 6 semestres (5'400 heures) pour l’étudiant admis avec un autre certificat du degré secondaire II ou titre jugé équivalent;
+- c) entre 3 et 4 semestres (entre 2'400 et 3'600 heures) pour l’étudiant admis avec une reconnaissance d’acquis;
+- d) 2 semestres (1'800 heures) pour l’étudiant admis avec un diplôme ES du domaine, y compris le processus de qualification finale.
+
+<sup>3</sup> La durée maximale des études est de 10 semestres pour les formations en 6 semestres, 8 semestres pour les formations en 4 semestres et 4 semestres pour les formations en 2 et 3 semestres. Cette durée n’inclut pas les périodes d’interruption découlant des congés prévus à l’article 19.
+
+<sup>4</sup> Des dérogations peuvent être accordées pour des raisons dûment justifiées, dans des cas particuliers. La demande de prolongation fait l'objet d'une décision prononcée par la direction de l’école, sur proposition du responsable de filière.
 
 #### Art. 4
 
-**Admission**
+**Langue d’enseignement**
 
-<sup>1</sup> Sont admis les candidats qui:
-
-- a) possèdent un CFC ou un titre jugé équivalent ou supérieur;
-
-- b) ont réussi la sélection au sens de l'article 6;
-
-- c) fournissent un extrait de leur casier judiciaire suisse.
-
-<sup>2</sup> L'admission des candidats qui ont effectué une formation préalable exclusivement théorique (scolaire) est assujettie à la réalisation d'une expérience professionnelle complémentaire, conformément à l'article 9 du présent règlement.
-
-<sup>3</sup> Les candidats qui accomplissent la formation pratique par l'exercice d'une activité professionnelle doivent présenter, pour leur admission, un contrat de travail conclu au moins à mi-temps, dans la profession choisie, et avec un employeur agréé par les responsables de filières.
-
-<sup>4</sup> Les candidats non francophones doivent justifier de compétences en langue française qui soient conformes au degré B2 du portfolio européen des langues.
-
-<sup>5</sup> Les candidats âgés de plus de 22 ans peuvent être exemptés de l'obligation de détenir un CFC ou un titre jugé équivalent. La dérogation est accordée sur la base d'une reconnaissance et d'une validation des acquis, dont les dispositions d'application sont fixées dans une directive.
+<sup>1</sup> La langue d’enseignement est le français.
 
 #### Art. 5
 
-**Accès à la sélection**
+**Qualité**
 
-<sup>1</sup> La sélection est ouverte aux candidats détenteurs d'un CFC ou d'un titre jugé équivalent, ainsi qu'aux candidats mentionnés à l'article 4 alinéa 5 du présent règlement.
+<sup>1</sup> Les filières ES appliquent le système qualité de la HES-SO Valais-Wallis.
 
-<sup>2</sup> Les apprentis assistants socio-éducatifs CFC de dernière année peuvent être admis à la sélection avant la fin de leur formation. Dans ce cas, la réussite à la sélection est subordonnée à la réussite ultérieure du CFC.
+## 2 Admission
 
 #### Art. 6
 
-**Composantes de la sélection**
+**Procédure**
 
-La sélection comprend:
+<sup>1</sup> L’école arrête, dans un règlement d’application, préavisé par le département en charge de la formation (ci-après: département), la procédure d’admission.
 
-- a) un test d'aptitude organisé par les filières;
+<sup>2</sup> Le département, sur proposition de l’école, détermine le nombre de places de formation dans chacune des 2 filières.
 
-- b) un stage probatoire dans le domaine d'études (stage de pré-pratique), accompli après la réussite du test d'aptitude.
+## 3 Organisation des formations
 
 #### Art. 7
 
-**Test d'aptitude**
+**Principes**
 
-<sup>1</sup> Le test d'aptitude vérifie, à l'aide de méthodes appropriées, si le candidat dispose:
+<sup>1</sup> Les programmes de formation correspondent à une application des plans d’études cadre (ci-après: PEC) au niveau de l’école.
 
-- a) des aptitudes requises pour une pratique professionnelle dans le domaine choisi;
+<sup>2</sup> Les formations sont organisées en modules orientés vers les compétences définies dans le PEC de chaque filière.
 
-- b) de la motivation nécessaire pour l'exercice de la profession et l'accomplissement de la formation;
+<sup>3</sup> La formation est organisée sur le principe de l’alternance intégrative permettant d’associer théorie et pratique.
 
-- c) des compétences voulues pour la réussite du cursus scolaire et des examens, soit:
-
-- la maîtrise orale et écrite de la langue française;
-
-- les capacités personnelles, interpersonnelles et professionnelles en matière de communication, de collaboration et de réflexion.
-
-<sup>2</sup> Les prestations du candidat sont appréciées globalement par un jury de sélection, qui comprend au moins un représentant des milieux professionnels. Si nécessaire, le jury peut requérir des informations complémentaires, notamment un avis médical ou psychologique.
-
-<sup>3</sup> La réussite du test d'aptitude, qui ouvre l'accès au stage probatoire, est valable durant les deux années académiques subséquentes.
-
-<sup>4</sup> En cas d'échec, le candidat ne peut se représenter au plus qu'une deuxième fois.
+<sup>4</sup> Les programmes de formation sont arrêtés par le Conseil de direction de l’école et sont communiqués aux étudiants avant le début de leur cursus.
 
 #### Art. 8
 
-**Stage probatoire**
+**Modules**
 
-<sup>1</sup> Le stage probatoire se déroule dans une institution ou un service de droit public ou privé reconnu(e) par les filières.
+<sup>1</sup> Les formations comprennent des modules d’enseignement, de formation pratique et un module de qualification finale.
 
-<sup>2</sup> Sa durée est fixée dans le plan d'études cadre de la filière considérée. Il doit être accompli dans les deux ans qui suivent le test d'aptitude.
+<sup>2</sup> Chaque module fait l’objet d’un descriptif validé par le responsable de filière et est communiqué aux étudiants au plus tard au début du module.
 
-<sup>3</sup> Les candidats détenteurs d'un Certificat fédéral de capacité (CFC) d'assistant socioéducatif ou d'une maturité spécialisée, options «santé» ou «social», sont dispensés du stage probatoire, sous certaines conditions. Ils doivent notamment avoir accompli et validé, dans le domaine d'études considéré, un ou des stages correspondant à la durée prescrite dans le plan d'études cadre de la filière. Les candidats peuvent être appelés à fournir un rapport de stage(s) complémentaire.
+<sup>3</sup> Un descriptif de module contient au minimum:
 
-<sup>4</sup> La réussite au stage probatoire clôt le processus de sélection. La validité de la réussite à la sélection est de deux ans à partir de la décision de validation du stage.
+- a) les compétences et processus visés;
+- b) les objectifs et les modalités pédagogiques;
+- c) les contenus d’enseignement;
+- d) le semestre durant lequel le module se déroule et la durée du module;
+- e) l’exigence de fréquentation de module;
+- f) les modalités d’évaluation et de validation;
+- g) les modalités de remédiation quand elle est prévue;
+- h) les modalités de répétition.
 
-<sup>5</sup> En cas d'échec, le candidat peut faire un deuxième stage.
+<sup>4</sup> Les modules peuvent être communs aux deux filières.
+
+<sup>5</sup> De manière exceptionnelle, la direction de l’école peut statuer sur une modification des descriptifs de modules après publication. Le cas échéant, elle assure la communication aux étudiants.
 
 #### Art. 9
 
 **Pratique professionnelle**
 
-<sup>1</sup> Les candidats ayant effectué une formation préalable exclusivement théorique (scolaire) doivent attester d'une pratique professionnelle d'une année.
+<sup>1</sup> La pratique professionnelle est régie par le dispositif de l’école (ci-après: dispositif) et ses 2 niveaux contractuels:
 
-<sup>2</sup> Cette année de pratique inclut le stage probatoire au sens de l'article 8 du présent règlement et une expérience professionnelle complémentaire, acquise obligatoirement à l'extérieur du domaine social.
+- a) la convention avec l’institution partenaire de pratique professionnelle, nécessitant les signatures de la direction de l’institution partenaire, du formateur à la pratique professionnelle, de l’étudiant et de la direction de l’école;
+- b) le contrat pédagogique tripartite, nécessitant les signatures du formateur à la pratique professionnelle, de l’étudiant et du responsable de filière de l’école.
 
-### Section 3: Organisation des études
+<sup>2</sup> Les périodes de pratique professionnelle s’effectuent en principe dans les institutions qui ont adhéré au dispositif.
+
+<sup>3</sup> Pendant la durée de sa formation, l’étudiant doit être suivi dans sa pratique professionnelle par un formateur à la pratique professionnelle (FPP) qualifié.
+
+<sup>4</sup> La pratique professionnelle comprend une supervision pédagogique de 12 heures et peut être étendue exceptionnellement jusqu’à 16 heures.
 
 #### Art. 10
 
-**Principe**
+**Calendrier d’études**
 
-Les filières ES du social appliquent un système qualité qui comprend les procédures et directives spécifiques à leur mission d'enseignement, depuis l'admission des étudiants jusqu'à et y compris la remise des diplômes.
+<sup>1</sup> Le calendrier d’études fixe notamment le début et la durée de l’année, il est adopté par le Conseil de direction de l’école.
+
+## 4 Evaluation, promotion et certification
 
 #### Art. 11
 
-**Année académique**
+**Evaluation**
 
-<sup>1</sup> Le début de l'année académique est décidé par la direction de la HEVs2.
+<sup>1</sup> Les évaluations de module sont exprimées par une note allant de A à F ou par une appréciation acquis/non-acquis.
 
-<sup>2</sup> Le plan d'études fixe la durée de l'année académique.
+<sup>2</sup> Lors de l’utilisation d’une échelle de notation, l’échelle d’évaluation suivante est applicable:
 
-<sup>3</sup> Les semaines de vacances sont fixées par les responsables de filières.
+- A Excellent
+- B Très bien
+- C Bien
+- D Satisfaisant
+- E Suffisant
+- F Echec
 
 #### Art. 12
 
-**Organisation de la formation**
+**Participation aux évaluations**
 
-<sup>1</sup> La formation est organisée en unités d'enseignement orientées vers les compétences, en conformité avec les processus de travail et les domaines d'enseignement prévus dans les plans d'études cadres respectifs.
+<sup>1</sup> La participation aux évaluations est obligatoire. Toute absence doit être justifiée au moyen d’un certificat médical ou d’un document officiel.
 
-<sup>2</sup> Les unités d'enseignement s'organisent autour d'une ou de plusieurs compétences génériques.
+<sup>2</sup> En cas d'absence justifiée, l'étudiant est convoqué pour de nouvelles évaluations, se déroulant à une date fixée par le responsable de filière.
 
-<sup>3</sup> Les unités d'enseignement peuvent être communes aux deux filières ou spécifiques à l'une ou l'autre filière.
-
-<sup>4</sup> Les programmes de formation sont arrêtés par les responsables de filières et approuvés par la direction. Ils sont conformes aux plans d'études cadres.
+<sup>3</sup> En cas d'absence injustifiée ou si les travaux ne sont pas rendus dans les délais fixés, un échec est comptabilisé.
 
 #### Art. 13
 
-**Déroulement de la formation**
+**Remédiation**
 
-<sup>1</sup> La formation se déroule en alternance entre des temps de formation sur le site de la filière (formation théorique) et des temps de formation sur les lieux d'exercice de la pratique professionnelle (périodes de formation pratique).
+<sup>1</sup> Un module pour lequel l’appréciation de l’évaluation est F fait l’objet d’une remédiation pour autant que celle-ci soit explicitement prévue dans le descriptif de module.
 
-<sup>2</sup> La formation comprend des unités d'enseignement, des périodes de formation pratique et les travaux liés à l'examen de diplôme.
+<sup>2</sup> Les modalités de remédiation (examen complémentaire ou travail additionnel) sont précisées dans le descriptif de module.
+
+<sup>3</sup> Un étudiant qui réussit une remédiation obtient l’appréciation E au module.
+
+<sup>4</sup> Lorsque les résultats de la remédiation sont insuffisants, l’étudiant peut répéter le module aux conditions précisées dans le descriptif de module.
+
+<sup>5</sup> Un module répété ne peut être remédié.
 
 #### Art. 14
 
-**Reconnaissance et validation des acquis antérieurs**
+**Répétition**
 
-Des enseignements théoriques équivalant à ceux qui sont dispensés dans le cadre des formations EDE ou MSP, acquis avant l'entrée en formation ou, cas échéant, pendant la formation, peuvent être reconnus et validés aux conditions suivantes:
+<sup>1</sup> L’étudiant qui a échoué à un module doit le répéter dès que possible.
 
-- a) pour les enseignements théoriques soumis à une évaluation formalisée: avoir été suivis dans une école supérieure ou une haute école de travail social, dans une université ou dans un établissement de niveau analogue et qu'ils aient été sanctionnés par un examen réussi;
+<sup>2</sup> Les modalités de répétition sont précisées dans le descriptif de module.
 
-- b) pour les autres enseignements: correspondre aux compétences et processus définis dans les descriptifs des unités d'enseignement et avoir été évalués en conséquence.
+<sup>3</sup> Chaque module ne peut être répété qu’une seule fois. Les abandons sont considérés comme des échecs.
 
 #### Art. 15
 
-**Changements de voie de formation ou de filière**
+**Exclusion de la filière**
 
-<sup>1</sup> Sous réserve de places disponibles, l'étudiant peut:
+<sup>1</sup> En cas de double échec à un module défini comme obligatoire pour acquérir le profil de formation correspondant, l’étudiant est exclu de la filière.
 
-- a) demander à changer de voie de formation (voie avec stage[s] ou voie avec activité professionnelle);
+<sup>2</sup> L’étudiant est également exclu de la filière lorsqu’il n’a pas validé les modules nécessaires à l’obtention du titre dans la durée maximale de la formation fixée selon l’article 3.
 
-- b) demander à changer de filière.
-
-<sup>2</sup> Dans les deux cas, les validations déjà effectuées demeurent valables pour autant qu'elles concernent la nouvelle voie ou la nouvelle filière.
-
-<sup>3</sup> Les modalités appliquées pour le passage d'une voie de formation à une autre, ou d'une filière à une autre, sont fixées conjointement par le responsable de la filière et la direction.
+<sup>3</sup> La décision d’exclusion est communiquée par la direction de l’école à l’étudiant par écrit avec mention des voies de droit.
 
 #### Art. 16
 
-**Formation pratique**
+**Promotion**
 
-<sup>1</sup> L'organisation de la formation pratique fait l'objet de directives particulières.
-
-<sup>2</sup> Les périodes de formation pratique s'effectuent en principe dans les institutions valaisannes ou romandes, reconnues par les filières.
-
-<sup>3</sup> Les périodes de formation pratique effectuées en Suisse alémanique, au Tessin ou à l'étranger doivent satisfaire aux exigences fixées en la matière dans les plans d'études cadres des filières.
+<sup>1</sup> Pour être promu d’une année à l’autre, l’étudiant doit avoir obtenu la mention "acquis" ou un résultat compris entre A et E aux modules.
 
 #### Art. 17
 
-**Langues d'enseignement**
+**Titres**
 
-<sup>1</sup> La langue d'enseignement est le français.
+<sup>1</sup> L’étudiant ayant réussi l’ensemble des modules et la pratique professionnelle dans le temps imparti obtient le titre formalisé par le PEC de sa filière, à savoir:
 
-<sup>2</sup> Les examens peuvent être passés et les travaux importants formulés dans la langue choisie par l'étudiant (français ou allemand), selon les modalités arrêtées conjointement par le responsable de la filière et la direction.
+- a) "Educatrice de l’enfance, diplômée ES", "Educateur de l’enfance, diplômé ES";
+- b) "Maîtresse socioprofessionnelle, diplômée ES", "Maître socioprofessionnel, diplômé ES".
+
+## 5 Droits et devoirs de l’étudiant
 
 #### Art. 18
 
-**Formations-passerelles**
+**Fréquentation de la formation et congé de courte durée**
 
-<sup>1</sup> Les porteurs d'un diplôme ES dans le domaine social ou d'un diplôme apparenté peuvent entreprendre une formation-passerelle pour acquérir un deuxième diplôme dans le domaine social.
+<sup>1</sup> Les exigences liées à la fréquentation de la formation sont précisées dans les descriptifs de modules.
 
-<sup>2</sup> Les exigences à remplir par les candidats à ces formations sont conformes à celles fixées dans les plans d'études cadres respectifs.
+<sup>2</sup> En cas d’absence de plus de 3 jours consécutifs pour raison de santé, l’étudiant est tenu de présenter un certificat médical dans les 7 jours suivants le début de l’arrêt.
 
-### Section 4: Evaluation des savoirs et des compétences,
-
-promotion et certification
+<sup>3</sup> Les congés dûment motivés de courte durée peuvent être accordés dans des cas exceptionnels par le responsable de filière.
 
 #### Art. 19
 
-**Validation de la formation théorique et de la formation pratique**
+**Congé de longue durée**
 
-<sup>1</sup> Le contenu de la formation théorique est organisé autour de cinq grands domaines décrits dans les plans d'études cadres respectifs. Il est réparti dans des unités d'enseignement déclinées en cours, séminaires, ateliers ou sessions interdisciplinaires.
+<sup>1</sup> L’étudiant qui envisage d’interrompre sa formation avec l’intention de la reprendre ultérieurement peut demander un congé. La direction de l’école statue.
 
-<sup>2</sup> Chaque unité d'enseignement fait l'objet d'un descriptif élaboré selon les normes des filières ES et comporte au moins les compétences et processus visés, le contenu et les modalités pédagogiques, les modalités d'évaluation et de validation. Ce document est communiqué aux étudiants au plus tard au début de l'unité d'enseignement.
+<sup>2</sup> Un congé peut être accordé pour une période d’un semestre ou d’une année.
 
-<sup>3</sup> La validation des unités d'enseignement est effectuée sur la base des deux évaluations suivantes: les évaluations ordinaires, basées sur la présence et la participation active des étudiants et les évaluations formalisées (examens).
-
-<sup>4</sup> Les évaluations ordinaires sont appréciées en termes d'acquis (prestations suffisantes) ou de non-acquis (prestations insuffisantes).
-
-<sup>5</sup> Les évaluations formalisées sont appréciées selon une échelle de notation. Elles sont considérées comme réussies lorsque l'étudiant obtient une qualification comprise entre A (excellent) et E (suffisant). La qualification F est attribuée lorsque l'étudiant doit fournir un travail supplémentaire considérable; elle équivaut à un échec.
-
-<sup>6</sup> Les directives de promotion et d'obtention du diplôme établies par les responsables de filières en accord avec la Direction de la HEVs2 précisent les critères de l'échelle de notation, et, pour chaque année, les unités d'enseignement à évaluer, ainsi que les principes d'évaluation de la formation pratique.
+<sup>3</sup> L’octroi d’un congé est renouvelable sur demande motivée. La durée totale cumulée des congés ne peut pas excéder 2 ans.
 
 #### Art. 20
 
-**Promotion et obtention du diplôme**
+**Taxe d'inscription**
 
-<sup>1</sup> Les directives de promotion et d'obtention du diplôme précisent les exigences de promotion d'une année à l'autre, les conditions de répétition, de remédiation et d'échec ainsi que les conditions d'obtention du diplôme, sous réserve des circonstances particulières explicitement documentées.
+<sup>1</sup> La taxe d'inscription est due pour toute nouvelle ouverture de dossier de candidature dans une formation ES telle que définie à l’article 1 du présent règlement.
 
-<sup>2</sup> Ces directives règlent également les modalités afférentes à la notification de l'interruption définitive de la formation aux étudiants en échec.
+<sup>2</sup> Le montant de la taxe est de 150 francs par procédure d'admission.
+
+<sup>3</sup> Ce montant n'est pas remboursable.
+
+<sup>4</sup> Le non-paiement de la taxe d'inscription entraîne la nullité de l'inscription du candidat.
 
 #### Art. 21
 
-**Titres délivrés**
+**Taxe pour la dérogation aux conditions d'admission**
 
-Le titulaire d'un diplôme reconnu est habilité à porter, selon la filière, l'un des titres suivants:
+<sup>1</sup> Une taxe est perçue auprès des candidats âgés de plus de 22 ans qui demandent une dérogation à l'exigence d'un CFC ou d'un titre jugé équivalent en vue d’examiner l’équivalence.
 
-- a) «Educateur de l'enfance, diplômé ES», «Educatrice de l'enfance, diplômée ES»;
+<sup>2</sup> Le montant de la taxe est de 300 francs en sus de la taxe d’inscription.
 
-- b) «Maître socioprofessionnel, diplômé ES», «Maîtresse socioprofessionnelle, diplômée ES».
+<sup>3</sup> Ce montant n'est pas remboursable.
 
-### Section 5: Etudiants
+<sup>4</sup> Le non-paiement de la taxe pour la dérogation aux conditions d’admission entraîne la nullité de l'inscription du candidat.
 
 #### Art. 22
 
-**Protection de la santé**
+**Taxe d'études**
 
-<sup>1</sup> Les mesures de protection de la santé des étudiants répondent aux normes cantonales.
+<sup>1</sup> Le montant de la taxe d'études est fixé à 500 francs par semestre.
 
-<sup>2</sup> Elles font l'objet de dispositions particulières et suivent les recommandations édictées en la matière par les filières.
+<sup>2</sup> La taxe d'études ne fait pas l'objet de remboursement.
+
+<sup>3</sup> Le non-paiement de la taxe d'études dans les délais impartis entraîne l'interruption de la formation.
+
+<sup>4</sup> Tout étudiant exclu pour défaut de paiement est tenu de s'acquitter au préalable de sa dette en cas de nouvelle demande d'admission.
 
 #### Art. 23
 
-**Fréquentation de la formation**
+**Contributions aux frais d'études**
 
-<sup>1</sup> La participation aux activités d'enseignement dites «heures de contact», dont les cours, et à toute autre animation d'ordre pédagogique organisée par les filières est obligatoire.
+<sup>1</sup> Des contributions aux frais d’études destinées à couvrir les prestations suivantes sont perçues semestriellement:
 
-<sup>2</sup> Des congés dûment motivés de courte durée peuvent être accordés dans des cas exceptionnels par le responsable de filière. En cas d'absence de plus de trois jours pour raison de santé, l'étudiant est tenu de présenter un certificat médical.
+- a) finance de cours de 200 francs (documentation scolaire), et
+- b) autres prestations de 75 francs (selon règlement spécifique).
+
+<sup>2</sup> Le montant de la contribution aux frais d’études perçue pour les prestations fournies par les formations doit être acquitté dans les délais impartis.
 
 #### Art. 24
 
-**Prolongation de la durée des études**
+**Assurances**
 
-<sup>1</sup> L'étudiant peut solliciter la prolongation de la durée de ses études, dans les deux cas suivants:
-
-- a) lorsque des travaux, en raison de leur nature et des moyens utilisés, ne peuvent être menés à terme dans les délais impartis;
-
-- b) pour des raisons de force majeure, dûment justifiées.
-
-<sup>2</sup> La durée de la formation ne peut être prolongée que d'un semestre. Elle ne peut en tout état de cause dépasser cinq ans. Passée cette limite, la formation est définitivement interrompue.
-
-<sup>3</sup> La demande de prolongation, présentée sous la forme d'un rapport circonstancié, fait l'objet d'une décision prononcée par la direction, sur proposition du responsable de filière.
+<sup>1</sup> Les étudiants sont responsables de contracter les assurances exigées par la législation.
 
 #### Art. 25
 
-**Suspension de la formation**
+**Association d’étudiants**
 
-<sup>1</sup> L'étudiant peut demander une suspension de la formation pour des raisons fondées et dûment justifiées. Cette interruption passagère ne peut pas dépasser la durée maximale de deux ans. Passée cette limite, la formation est définitivement interrompue.
+<sup>1</sup> Les étudiants peuvent se grouper en association. Celle-ci doit être représentative de l’ensemble des étudiants.
 
-<sup>2</sup> La demande de suspension, présentée sous la forme d'un rapport circonstancié, fait l'objet d'une décision prononcée par la ddirection, sur proposition du responsable de filière.
+<sup>2</sup> Cas échéant, l’association est consultée de manière appropriée au sujet des décisions concernant les études et la vie à l'école.
+
+<sup>3</sup> L’association s’organise et fonctionne de manière autonome. Ses rapports avec l’école font l’objet d’une convention de collaboration.
 
 #### Art. 26
 
-**Taxe et contributions aux frais d'études**
+**Secret professionnel et de fonction - droits de la personnalité**
 
-<sup>1</sup> Le versement de la taxe d'études telle que fixée par le Conseil d'Etat doit intervenir dans un délai de 45 jours à compter du début de l'année académique.
+<sup>1</sup> L’étudiant est tenu au secret professionnel et/ou de fonction.
 
-<sup>2</sup> Le montant des contributions perçues pour les prestations fournies par les filières doit être acquitté dans un délai de 45 jours à compter du début de l'année académique.
-
-<sup>3</sup> Le non-paiement des frais dans les délais impartis sans motif justifié peut entraîner la suspension du droit à la fréquentation des cours.
+<sup>2</sup> L’étudiant est tenu de respecter les droits de la personnalité, y compris le droit à l’image et le droit à l’honneur des personnes côtoyées dans le cadre de la formation.
 
 #### Art. 27
 
-**Assurances**
+**Accessibilité aux documents**
 
-Les étudiants doivent contracter, à leurs frais, les assurances maladie / accident et responsabilité civile.
+<sup>1</sup> Les règlements, les PEC, les programmes de formation, le calendrier d’études, les descriptifs de modules et le matériel pédagogique sont rendus accessibles aux étudiants.
+
+## 6 Eléments disciplinaires
 
 #### Art. 28
 
-**Consultation et droit de s'organiser**
+**Fraude**
 
-<sup>1</sup> Les étudiants peuvent se grouper en une association. Celle-ci doit être représentative de l'ensemble des étudiants.
+<sup>1</sup> Toute fraude y compris le plagiat ou la tentative de fraude notamment dans les travaux d’évaluation, les examens et le travail de qualification finale, entraîne la non-acquisition du module, voire l’invalidation du titre et peut faire l’objet d’une des sanctions prévues à l’article 29.
 
-<sup>2</sup> Les étudiants sont consultés de manière appropriée au sujet des décisions concernant les études et la vie à l'école.
+<sup>2</sup> L’usage de faux titres, de certificats ou de fausses informations par les étudiants entraîne l’annulation des décisions antérieures et l’exclusion de la filière.
 
 #### Art. 29
 
-**Secret professionnel**
+**Sanctions**
 
-L'étudiant est tenu au secret professionnel ainsi qu'au devoir de discrétion.
+<sup>1</sup> L’étudiant qui enfreint les règles et les usages est passible des sanctions disciplinaires suivantes, selon le degré de gravité de la faute:
+
+- a) l’avertissement;
+- b) l’exclusion temporaire;
+- c) l’exclusion de la filière.
+
+<sup>2</sup> Avant le prononcé d'une sanction, l'étudiant doit être entendu.
+
+<sup>3</sup> La direction de l’école prononce la sanction, sur préavis du responsable de filière.
+
+<sup>4</sup> La décision est communiquée à l'étudiant par écrit avec mention des voies de droit.
+
+## 7 Fin d’études et voies de droit
 
 #### Art. 30
 
-**Absence aux évaluations**
+**Abandon**
 
-<sup>1</sup> La participation aux évaluations est obligatoire. Toute absence doit être justifiée au moyen d'un certificat médical ou d'un document officiel.
+<sup>1</sup> Est considéré avoir abandonné ses études l’étudiant qui en manifeste l’intention par écrit auprès de l’école:
 
-<sup>2</sup> En cas d'absence justifiée, l'étudiant est convoqué à de nouvelles évaluations, se déroulant à une date fixée par le responsable de la filière.
+- a) si l’abandon est communiqué au plus tard dans les 2 premières semaines du semestre, le semestre n’est pas comptabilisé dans la durée des études;
+- b) si l’abandon est communiqué au-delà des 2 premières semaines du semestre, le semestre est comptabilisé.
 
-<sup>3</sup> En cas d'absence injustifiée ou si les travaux ne sont pas rendus dans les délais fixés, l'étudiant obtient la qualification F.
+<sup>2</sup> Est réputé avoir abandonné sa formation l’étudiant qui ne participe pas aux cours ou aux évaluations dans les délais fixés malgré une mise en demeure envoyée à la dernière adresse connue.
+
+<sup>3</sup> Tout module abandonné fait l’objet d’une notation.
+
+<sup>4</sup> Un étudiant ayant abandonné sa formation peut la recommencer, sans délais de carence, sous réserve de la décision relative à l’article 31 alinéa 2 et de la réussite du processus d’admission complet. En cas d’admission, l’étudiant peut faire une demande de validation d’acquis selon les modalités décrites dans le règlement spécifique.
 
 #### Art. 31
 
-**Fraude**
+**Fin d’études**
 
-<sup>1</sup> Les moyens auxiliaires autorisés sont indiqués aux étudiants avant chaque examen. L'utilisation de moyens non autorisés est passible de sanction.
+<sup>1</sup> Est réputé avoir terminé les études l’étudiant qui:
 
-<sup>2</sup> Le professeur qui surprend un étudiant à tricher doit intervenir verbalement au moment des faits. Le candidat peut poursuivre ses examens tant que la sanction n'est pas prononcée.
+- a) a obtenu le titre;
+- b) est exclu pour cause d’échec;
+- c) est exclu suite à des sanctions disciplinaires;
+- d) ne s’est pas acquitté des taxes de cours et contributions aux frais d’études après 2 rappels;
+- e) a abandonné sa formation.
 
-<sup>3</sup> Dans tous les cas de fraude, le professeur doit en référer au responsable de filière concerné.
+<sup>2</sup> La décision de fin d’études entraîne une interdiction de reprise des études dans la filière durant une période de 3 ans dans les cas prévus aux lettres b et c de l’alinéa 1 du présent article. Dans le cas d’une sanction disciplinaire relevant d’une faute grave et/ou d’une décision de justice, l’interdiction de reprise des études peut être prolongée par la direction de l’école au-delà de la durée prévue. S’agissant des lettres d et e, la situation est traitée au cas par cas.
 
-<sup>4</sup> Toute fraude, y compris plagiat ou tentative de fraude, dans les travaux d'évaluation, les examens et l'élaboration du travail de diplôme de fin d'études entraîne la non-acquisition des validations correspondantes, voire la non-obtention du diplôme ou son annulation.
+<sup>3</sup> La décision de fin d’études entraîne l’invalidation immédiate de la carte d’étudiant.
+
+<sup>4</sup> A la suite de la décision de fin d’études, l’école fait parvenir à l’étudiant un bulletin des évaluations.
+
+<sup>5</sup> Une nouvelle admission est exclue après un second échec dans la même filière.
+
+<sup>6</sup> En cas de reprise de la formation, l’étudiant est astreint à se conformer à une nouvelle procédure d’admission.
 
 #### Art. 32
 
-**Devoirs et sanctions**
+**Voies de droit**
 
-<sup>1</sup> L'étudiant est tenu de se conformer aux directives et procédures qualité appliquées dans sa filière. Il doit également traiter correctement les objets, appareils et outils qui lui sont confiés pour les travaux pratiques. Il est responsable des dommages causés aux équipements et aux locaux.
+<sup>1</sup> La procédure de recours est fondée sur la loi sur la procédure et juridiction administratives (LPJA).
 
-<sup>2</sup> L'étudiant qui viole les dispositions normatives ou se rend coupable de faute grave est passible des sanctions disciplinaires suivantes, selon le degré de gravité de la cause ou faute:
+<sup>2</sup> Les étudiants peuvent faire une réclamation auprès de la direction de l’école dans les 30 jours à compter de la notification.
 
-- a) le blâme;
+<sup>3</sup> Les décisions de la direction de l’école, suite à une réclamation, peuvent faire l’objet d’un recours au Conseil d’Etat dans les 30 jours à compter de la notification.
 
-- b) l'exclusion temporaire des cours;
-
-- c) le renvoi définitif de la filière.
-
-<sup>3</sup> La direction prononce la sanction, sur préavis du responsable de filière. La décision est communiquée à l'étudiant par écrit.
-
-<sup>4</sup> Avant le prononcé d'une sanction, l'étudiant doit être entendu.
-
-### Section 6: Dispositions finales
+## 8 Dispositions finales
 
 #### Art. 33
 
-**Voies de recours**
-
-<sup>1</sup> Les décisions fondées sur le présent règlement peuvent faire l'objet d'un recours au Conseil d'Etat, dans les 30 jours suivant leur notification.
-
-<sup>2</sup> La procédure de recours est régie par la loi sur la procédure et la juridiction administratives du 6 octobre 1976 (LPJA).
-
-<sup>3</sup> Peuvent notamment faire l'objet d'un recours, les décisions concernant:
-
-- a) l'interruption définitive de la formation;
-
-- b) le renvoi définitif de la filière;
-
-- c) l'interruption de la formation, notifiée conjointement par le responsable de filière et la direction, à la suite d'absences prolongées ou répétitives ainsi qu'au dépassement des échéances de report ou de suspension;
-
-- d) le refus du titre.
-
-#### Art. 34
-
 **Dispositions transitoires**
 
-<sup>1</sup> Les procédures en cours lors de l'entrée en vigueur du présent règlement demeurent régies par le droit antérieur.
+<sup>1</sup> Les étudiants ayant débuté leur formation dans les filières ES social avant le 1<sup>er</sup> août 2022 restent soumis au règlement d’études concernant les filières école supérieure (ES) du social Valais du 18 décembre 2013 et à l’arrêté cantonal concernant les taxes et contributions à charge des étudiants des filières école supérieure (ES) du social Valais du 30 octobre 2013.
 
-<sup>2</sup> En cas d'échec à la formation théorique ou pratique, les modalités concernant la répétition de l'enseignement, notamment les formes d'enseignement à mettre en oeuvre, sont arrêtées par les responsables de filières dans le cadre des directives de promotion et d'obtention du diplôme.
-
-#### Art. 35
-
-**Entrée en vigueur**
-
-<sup>1</sup> Le présent règlement est publié au Bulletin officiel pour entrer en vigueur au début de l'année académique 2013/2014.
-
-<sup>2</sup> Il est applicable aux nouveaux étudiants et aux étudiants en cours de formation des filières concernées.
-
-Ainsi adopté en Conseil d'Etat, à Sion, le 18 décembre 2013.
-
-Le Président du Conseil d'Etat: Maurice Tornay Le chancelier d'Etat: Philipp Spörri
-
-**Entrée en**
-
-### Intitulé et modifications Publication
-
-vigueur Règlement d'études concernant les filières BO No 52/2013
-
-**01.09.13**
-
-### ES (école supérieure) du social Valais du 18
-
-décembre 2013
+RCV RO/AGS 2022-035

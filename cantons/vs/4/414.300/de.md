@@ -1,441 +1,426 @@
 ---
 canton: VS
 number: "414.300"
-title: Studienreglement für die HF-Studiengänge (Höhere Fachschule) für Soziales Wallis
+title: Studienreglement über die Studiengänge Höhere Fachschule (HF) Kindheitspädagogik und Arbeitsagogische Leitung der Fachhochschule Westschweiz Valais-Wallis
 short: Reglement HF Soziales
 language: de
-version: 2013-09-01
-corrected: 2017-09-06
-version_adopted: 2013-12-18
+version: 2022-08-01
+valid_until: 2022-08-31
+version_adopted: 2022-05-11
 adopted: 2022-05-11
 in_force: 2022-08-01
 url: "https://lex.vs.ch/app/de/texts_of_law/414.300"
-pdf: "https://lex.vs.ch/api/de/versions/503/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/3032/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Studienreglement für die HF-Studiengänge (Höhere Fachschule) für Soziales Wallis
+# Studienreglement über die Studiengänge Höhere Fachschule (HF) Kindheitspädagogik und Arbeitsagogische Leitung der Fachhochschule Westschweiz Valais-Wallis
 
-vom 18. Dezember 2013
+(Reglement HF Soziales)
 
-Der Staatsrat des Kantons Wallis,
+vom 11.05.2022 (Stand 01.08.2022)
 
-eingesehen Artikel 29 des Bundesgesetzes über die Berufsbildung vom 13. Dezember 2002 (BBG);
+Der Staatsrat des Kantons Wallis
 
-eingesehen Artikel 28 der Verordnung über die Berufsbildung vom 19. November 2003 (BBV);
+eingesehen das Bundesgesetz über die Berufsbildung vom 13. Dezember 2002 (BBG) und seine Verordnung vom 19. November 2003 (BBV);
 
-eingesehen Artikel 7 und 13 und den Anhang 6 der Verordnung des eidgenössischen Departementes für Wirtschaft, Bildung und Forschung (WBF) über Mindestvorschriften für die Anerkennung von Bildungsgängen und Nachdiplomstudien der höheren Fachschulen vom 11. März 2005;
+eingesehen die Verordnung des Eidgenössischen Departements für Wirtschaft, Bildung und Forschung (WBF) über Mindestvorschriften für die Anerkennung von Bildungsgängen und Nachdiplomstudien der höheren Fachschulen vom 11. September 2017 (MiVo-HF);
 
-auf Vorschlag des Departements für Bildung und Sicherheit,
+eingesehen die Interkantonale Vereinbarung über Beiträge an die Bildungsgänge der höheren Fachschulen vom 22. März 2012 (HFSV);
 
-verordnet:[^t-1]
+eingesehen die Rahmenlehrpläne des Staatssekretariats für Bildung, Forschung und Innovation (SBFI), die für die Bildungsgänge der höheren Fachschulen "Kindheitspädagogik HF" und "Arbeitsagogische Leitung HF" gelten;
 
-[^t-1]: Im vorliegenden Reglement gilt jede Bezeichnung der Person, des Statuts oder der Funktion in gleicher Weise für Mann und Frau.
+eingesehen das Einführungsgesetz zum Bundesgesetz über die Berufsbildung vom 13. Juni 2008 (EGBBG) und seine Verordnung vom 9. Februar 2011 (VOEGBBG);
 
-### 1. Abschnitt: Allgemeine Bestimmungen
+eingesehen das Gesetz über die Fachhochschule Westschweiz Valais-Wallis vom 16. November 2012;
+
+auf Antrag des für die Bildung zuständigen Departements,
+
+verordnet:[^ingress-1]
+
+[^ingress-1]: Im vorliegenden Reglement gilt jede Bezeichnung der Person, des Status oder der Funktion in gleicher Weise für Mann und Frau.
+
+## 1 Allgemeine Bestimmungen
 
 #### Art. 1
 
 **Anwendungsbereich**
 
-<sup>1</sup> Das vorliegende Reglement legt die Bedingungen bezüglich der Zulassung, der Organisation der Studien, der Regeln für die Prüfungen und die Promotion sowie die Stellung der Studierenden der HF-Studiengänge (Höhere Fachschule) Kindererzieher/in und Werkstattleiter/in im sozialpädagogischen Bereich der Fachhochschule Wallis für Gesundheit und Soziale Arbeit (FHW - GS) fest.
+<sup>1</sup> Das vorliegende Reglement legt die Rahmenbestimmungen für die Ausbildungen fest, die zu den von der Fachhochschule Westschweiz Valais-Wallis (nachfolgend: HES-SO Valais-Wallis) verliehenen Titeln "diplomierte Kindheitspädagoge HF" und "diplomierte Leiter Arbeitsagogik HF" führen. Für die Organisation der Ausbildungen ist der Fachbereich Soziale Arbeit (nachfolgend: Schule) verantwortlich.
 
-<sup>2</sup> Gegebenenfalls werden die Anwendungsbestimmungen des vorliegenden Reglements in Richtlinien festgelegt.
+<sup>2</sup> Es gilt für alle Studierenden und Kandidaten der HES-SO Valais-Wallis, die einen Ausbildungstitel der HF-Studiengänge "Kindheitspädagogik HF" oder "Leiter Arbeitsagogik HF" anstreben.
+
+<sup>3</sup> Es regelt insbesondere die Organisation der Ausbildungen, die Promotion und die Rechtsmittelwege.
+
+<sup>4</sup> Die Ausführungsbestimmungen zu diesem Reglement werden gegebenenfalls in spezifischen Reglementen präzisiert.
 
 #### Art. 2
 
-**Form und Dauer des Studiums**
+**Status der Studierenden**
 
-<sup>1</sup> Die Ausbildung wird als Vollzeitstudium absolviert. Sie umfasst die theoretische Ausbildung sowie die Praxisausbildung, welche die Studierenden entweder in Form von Praktika oder durch die Ausübung einer beruflichen Tätigkeit parallel dazu absolvieren. In letzterem Fall ist die vorherige Genehmigung des Arbeitgebers erforderlich.
+<sup>1</sup> Als HF-Studierende gilt, wer in eine der beiden in Artikel 1 Absatz 2 erwähnten Studienrichtungen zugelassen wird, um dort einen Titel zu erwerben.
 
-<sup>2</sup> Die Ausbildung dauert mindestens drei Jahre und höchstens vier Jahre. Ausnahmen können in besonderen Fällen auf Vorbescheid des Studiengangsleiters durch das zu diesem Zweck ernannte Direktionsmitglied der Fachhochschule Wallis (nachfolgend: die Direktion) bewilligt werden.
+<sup>2</sup> Der Status als Studierende gilt ab dem ersten Tag der Ausbildung und berechtigt zur Ausstellung eines Studierendenausweises, der die Gültigkeitsdauer angibt.
 
-<sup>3</sup> In der Höchstdauer des Studiums sind die in Art. 25 Abs. 1 vorgesehenen Unterbrüche in Form von Urlauben nicht inbegriffen.
-
-### 2. Abschnitt: Zulassungsbedingungen
+<sup>3</sup> Die Daten über den Ausbildungsweg jedes Studierenden von der Zulassung bis zum Verlust des Studierendenstatus werden im Informationssystem der Schule verwaltet.
 
 #### Art. 3
 
-**Zugang zum Studium**
+**Ausbildungsmodalitäten und -dauer**
 
-<sup>1</sup> Die Ausbildungen stehen allen Bewerbern offen, welche die im vorliegenden Reglement festgelegten Zulassungsbedingungen erfüllen. Die Bestimmungen der Interkantonalen Fachschulvereinbarung (FSV) bleiben vorbehalten.
+<sup>1</sup> Es werden 2 Ausbildungsmodalitäten angeboten:
 
-<sup>2</sup> Die Zulassungen können je nach Anzahl der verfügbaren theoretischen und Praxisausbildungsplätze beschränkt werden.
+- a) berufsbegleitende Ausbildung (dual): sie umfasst die theoretische und die praktische Ausbildung. Der Studierende absolviert die praktische Ausbildung in einer beruflichen Tätigkeit des entsprechenden Berufs mit einem Pensum von mindestens 50 Prozent;
+- b) Vollzeitausbildung (mit Praktika): sie umfasst die theoretische und die praktische Ausbildung. Die praktische Ausbildung ist in 3 Praktika organisiert, die im entsprechenden Beruf absolviert werden und ein Modul bilden.
 
-<sup>3</sup> Die Bewerber, welche die Vorlesungen der in Artikel 1 Absatz 1 aufgeführten HF-Studiengänge besuchen möchten, müssen sich innerhalb der vorgegebenen Fristen einschreiben.
+<sup>2</sup> Die Ausbildungen dauern:
 
-<sup>4</sup> Dem vom Bewerber unterzeichneten Einschreibeformular müssen die von den Studiengangsleitern festgelegten Dokumente beigelegt werden.
+- a) 4 Semester (3'600 Stunden) für Studierende, die mit einem eidgenössischen Fähigkeitszeugnis in diesem Bereich oder einem als gleichwertig anerkannten Titel zugelassen werden;
+- b) 6 Semester (5'400 Stunden) für Studierende, die mit einem anderen Abschluss der Sekundarstufe II oder einem als gleichwertig anerkannten Titel zugelassen werden;
+- c) zwischen 3 und 4 Semestern (zwischen 2'400 und 3'600 Stunden) für Studierende, die mit einer Anerkennung von Bildungsleistungen zugelassen werden;
+- d) 2 Semester (1'800 Stunden) für Studierende, die mit einem HF-Diplom des Fachbereichs zugelassen werden, einschliesslich des Abschlussqualifikationsprozesses.
+
+<sup>3</sup> Die maximale Studiendauer beträgt 10 Semester für die Ausbildungen von 6 Semestern, 8 Semester für die Ausbildungen von 4 Semestern und 4 Semester für die Ausbildungen von 2 und 3 Semestern. Diese Dauer umfasst nicht die Unterbrechungszeiten, die sich aus den Beurlaubungen nach Artikel 19 ergeben.
+
+<sup>4</sup> Ausnahmen können in begründeten Einzelfällen gewährt werden. Über Anträge auf Verlängerung entscheidet die Schuldirektion auf Vorschlag des Studiengangleiters.
 
 #### Art. 4
 
-**Zulassung**
-
-<sup>1</sup> Zugelassen werden Bewerber, die:
-
-- a) über ein EFZ oder einen gleichwertigen oder höheren Abschluss verfügen;
-
-- b) das Auswahlverfahren im Sinne von Artikel 6 erfolgreich durchlaufen haben;
-
-- c) einen Auszug aus ihrem schweizerischen Strafregister vorlegen.
-
-<sup>2</sup> Bewerber, die eine ausschliesslich theoretische (schulische) Vorbildung haben, werden nur zugelassen, wenn sie zusätzlich eine Berufserfahrung gemäss den Bestimmungen von Artikel 9 des vorliegenden Reglements erwerben.
-
-<sup>3</sup> Die Bewerber, welche die Praxisausbildung im Rahmen der Ausübung einer beruflichen Tätigkeit absolvieren, müssen für ihre Zulassung einen Arbeitsvertrag (mindestens in Teilzeit) im gewählten Beruf mit einem von den Studiengangsleitern anerkannten Arbeitgeber vorlegen.
-
-<sup>4</sup> Nicht französischsprachige Bewerber müssen nachweisen, dass ihre Französischkenntnisse dem Niveau B2 des Europäischen Sprachenportfolios entsprechen.
-
-<sup>5</sup> Bewerber, die über 22 Jahre alt sind, können von der Pflicht des Besitzes eines EFZ oder eines als gleichwertig anerkannten Titels befreit werden. Diese Befreiung erfolgt auf der Grundlage einer Anerkennung und Validierung der Bildungsleistungen, deren Anwendungsbestimmungen in einer Richtlinie festgehalten sind.
-
-#### Art. 5
-
-**Zugang zum Auswahlverfahren**
-
-<sup>1</sup> Das Auswahlverfahren steht den Bewerbern offen, die über ein EFZ oder einen als gleichwertig anerkannten Titel verfügen sowie den in Artikel 4 Absatz 5 des vorliegenden Reglements erwähnten Bewerbern.
-
-<sup>2</sup> Die Absolvierenden des letzten Jahres des EFZ als Fachmann/Fachfrau Betreuung können vor Abschluss ihrer Ausbildung zum Auswahlverfahren zugelassen werden. In diesem Fall gilt das Auswahlverfahren nur als bestanden, wenn das EFZ später auch bestanden wird.
-
-#### Art. 6
-
-**Inhalt des Auswahlverfahrens**
-
-Das Auswahlverfahren umfasst:
-
-- a) einen von den Studiengängen organisierten Eignungstest;
-
-- b) ein Probepraktikum im Studienbereich (Vorpraktikum), das nach dem bestandenen Eignungstest absolviert wird.
-
-#### Art. 7
-
-**Eignungstest**
-
-<sup>1</sup> Der Eignungstest prüft mittels geeigneter Methoden, ob der Bewerber über:
-
-- a) die für die Ausübung einer beruflichen Tätigkeit im gewählten Fachbereich erforderlichen Fähigkeiten verfügt;
-
-- b) die für die Ausübung des Berufs und die Absolvierung der Ausbildung notwendige Motivation verfügt;
-
-- c) die für das Bestehen der Ausbildung und der Prüfungen erforderlichen Kompetenzen verfügt, d.h.:
-
-- Französischkenntnisse in Wort und Schrift;
-
-- persönliche, zwischenmenschliche und fachliche Kompetenzen in den Bereichen Kommunikation, Zusammenarbeit und Reflexion.
-
-<sup>2</sup> Die Leistungen des Bewerbers werden von einer Jury, die mind. einen Vertreter der Berufskreise umfasst, gesamthaft beurteilt. Bei Bedarf kann die Jury zusätzliche Informationen verlangen, insbesondere ein ärztliches oder psychologisches Gutachten.
-
-<sup>3</sup> Der bestandene Eignungstest, der zur Absolvierung des Probepraktikums berechtigt, ist während der folgenden zwei Studienjahre gültig.
-
-<sup>4</sup> Im Fall eines Nichtbestehens kann sich der Bewerber höchstens ein zweites Mal anmelden.
-
-#### Art. 8
-
-**Probepraktikum**
-
-<sup>1</sup> Das Probepraktikum wird in einer bzw. einem von den Studiengängen anerkannten öffentlich-rechtlichen oder privaten Einrichtung oder Dienst absolviert.
-
-<sup>2</sup> Die Dauer des Probepraktikums ist im Rahmenstudienplan des betroffenen Studiengangs festgelegt. Es muss innerhalb von zwei Jahren nach dem Eignungstest absolviert werden.
-
-<sup>3</sup> Bewerber, die über ein eidgenössisches Fähigkeitszeugnis (EFZ) als Fachmann/Fachfrau Betreuung oder eine Fachmatura "Gesundheit" oder "Soziales" verfügen, werden unter gewissen Bedingungen vom Probepraktikum dispensiert. Sie müssen insbesondere ein oder mehrere Praktika im gewählten Studienbereich absolviert und validiert haben, dessen bzw. deren Dauer der im Rahmenstudienplan des Studiengangs vorgeschriebenen Dauer entspricht. Die Bewerber können aufgefordert werden, einen zusätzlichen Praktikumsbericht vorzulegen.
-
-<sup>4</sup> Nach erfolgreicher Absolvierung des Probepraktikums ist das Auswahlverfahren abgeschlossen. Das bestandene Auswahlverfahren ist ab der Validierung des Probepraktikums zwei Jahre lang gültig.
-
-<sup>5</sup> Im Fall eines Nichtbestehens kann der Bewerber ein zweites Praktikum absolvieren.
-
-#### Art. 9
-
-**Berufserfahrung**
-
-<sup>1</sup> Bewerber, die eine ausschliesslich theoretische (schulische) Vorbildung haben, müssen eine einjährige Berufserfahrung nachweisen.
-
-<sup>2</sup> Diese einjährige Berufserfahrung umfasst das Probepraktikum im Sinne von Artikel 8 des vorliegenden Reglements sowie eine zusätzliche Berufserfahrung, die in einem anderen Bereich als dem Sozialbereich erworben werden muss.
-
-### 3. Abschnitt: Organisation des Studiums
-
-#### Art. 10
-
-**Prinzip**
-
-Die HF-Studiengänge für Soziales wenden ein QM-System an, das alle Verfahren und Richtlinien bezüglich ihres Unterrichtsauftrags umfasst, und zwar von der Zulassung der Studierenden bis und mit der Diplomverleihung.
-
-#### Art. 11
-
-**Studienjahr**
-
-<sup>1</sup> Der Beginn des Studienjahres wird durch die Direktion der FHW-GS festgelegt.
-
-<sup>2</sup> Der Studienplan legt die Dauer des Studienjahres fest.
-
-<sup>3</sup> Die Ferienwochen werden von den Leitern der Studiengänge festgelegt.
-
-#### Art. 12
-
-**Organisation der Ausbildung**
-
-<sup>1</sup> Die Ausbildung beruht auf Unterrichtseinheiten, die auf die Kompetenzen ausgerichtet sind, und steht im Einklang mit den in den entsprechenden Rahmenstudienplänen vorgesehenen Arbeitsprozessen Unterrichtsbereichen.
-
-**und**
-
-<sup>2</sup> Die Unterrichtseinheiten beruhen auf einer oder mehreren allgemeinen Kompetenzen.
-
-<sup>3</sup> Die Unterrichtseinheiten können in beiden Studiengängen gemeinsam oder nur in einem der beiden Studiengänge angeboten werden.
-
-<sup>4</sup> Die Studienprogramme werden von den Studiengangsleitern festgelegt und von der Direktion genehmigt. Sie entsprechen den Rahmenstudienplänen.
-
-#### Art. 13
-
-**Ablauf der Ausbildung**
-
-<sup>1</sup> Die Ausbildung erfolgt im Wechsel zwischen Ausbildungsperioden am Standort des Studiengangs (theoretische Ausbildung) und Ausbildungsperioden an der (Praxisausbildungsperioden).
-
-**Praxisausbildungsstätte**
-
-<sup>2</sup> Die Ausbildung umfasst Unterrichtseinheiten, Praxisausbildungsperioden und die Arbeiten in Zusammenhang mit der Diplomprüfung.
-
-#### Art. 14
-
-**Anerkennung und Validierung von Bildungsleistungen**
-
-Theoretische Bildungsleistungen, die vor Beginn der Ausbildung oder gegebenenfalls während der Ausbildung erworben wurden und mit den Bildungsleistungen der Studiengänge Kindererzieher/in oder Werkstattleiter/in im sozialpädagogischen Bereich gleichwertig sind, können unter den folgenden Bedingungen anerkannt und validiert werden:
-
-- a) Theoretische Bildungsleistungen, die Gegenstand einer formalen Prüfung waren, müssen an einer höheren Fachschule, einer Hochschule für Soziale Arbeit, an einer Universität oder einer vergleichbaren Einrichtung erworben und mit einer Prüfung erfolgreich abgeschlossen worden sein;
-
-- b) Andere Bildungsleistungen müssen den in den Beschrieben der Unterrichtseinheiten definierten Kompetenzen und Prozessen entsprechen und entsprechend evaluiert worden sein.
-
-#### Art. 15
-
-**Wechsel der Ausbildungsform oder des Studiengangs**
-
-<sup>1</sup> Vorbehaltlich verfügbarer Plätze kann der Studierende einen Wechsel beantragen:
-
-- a) Wechsel der Ausbildungsform (Studium mit Praktika oder berufsbegleitendes Studium);
-
-- b) Wechsel des Studiengangs.
-
-<sup>2</sup> In beiden Fällen bleiben die erworbenen Bildungsleistungen gültig, sofern sie die neue Ausbildungsform bzw. den neuen Studiengang betreffen.
-
-<sup>3</sup> Die Modalitäten für den Wechsel zwischen Ausbildungsformen oder Studiengängen werden von dem Leiter des Studiengangs und der Direktion gemeinsam festgelegt.
-
-#### Art. 16
-
-**Praxisausbildung**
-
-<sup>1</sup> Die Organisation der Praxisausbildung ist Gegenstand besonderer Richtlinien.
-
-<sup>2</sup> Die Praxisausbildungsperioden werden im Prinzip an Walliser oder Westschweizer Einrichtungen, die von den Studiengängen anerkannt sind, absolviert.
-
-<sup>3</sup> In der Deutschschweiz, im Tessin oder im Ausland absolvierte Praxisausbildungsperioden müssen die diesbezüglichen in den Rahmenstudienplänen der Studiengänge festgelegten Bedingungen erfüllen.
-
-#### Art. 17
-
-**Unterrichtssprachen**
+**Unterrichtssprache**
 
 <sup>1</sup> Die Unterrichtssprache ist Französisch.
 
-<sup>2</sup> Die Prüfungen und wichtige Arbeiten können in der vom Studierenden gewählten Sprache (Deutsch oder Französisch) absolviert werden, gemäss den vom Studiengangsleiter und der Direktion gemeinsam festgelegten Modalitäten.
+#### Art. 5
+
+**Qualität**
+
+<sup>1</sup> Die HF-Studiengänge wenden das Qualitätssystem der HES-SO Valais-Wallis an.
+
+## 2 Zulassung
+
+#### Art. 6
+
+**Verfahren**
+
+<sup>1</sup> Die Schule legt in einem Ausführungsreglement, welches vom für die Bildung zuständigen Departement des Staates Wallis (nachfolgend: Departement) vorgängig geprüft wird, das Zulassungsverfahren fest.
+
+<sup>2</sup> Das Departement legt, auf Vorschlag der Schule, die Anzahl der Ausbildungsplätze in jedem der beiden Ausbildungsgänge fest.
+
+## 3 Organisation der Ausbildungen
+
+#### Art. 7
+
+**Prinzip**
+
+<sup>1</sup> Die Ausbildungsprogramme entsprechen einer Umsetzung der Rahmenlehrpläne (nachfolgend: RLP) auf Stufe der Schule.
+
+<sup>2</sup> Die Ausbildungen sind in Modulen organisiert, die sich an den, im RLP des jeweiligen Studiengangs, definierten Kompetenzen orientieren.
+
+<sup>3</sup> Die Ausbildung ist nach dem Prinzip des integrativen Wechsels organisiert, der es ermöglicht, Theorie und Praxis miteinander zu verbinden.
+
+<sup>4</sup> Die Ausbildungsprogramme werden vom Direktionsrat der Schule beschlossen und den Studierenden vor Beginn ihres Studiums mitgeteilt.
+
+#### Art. 8
+
+**Module**
+
+<sup>1</sup> Die Ausbildungen umfassen Module für den Unterricht, die praktische Ausbildung und ein Modul für die Abschlussqualifikation.
+
+<sup>2</sup> Für jedes Modul wird eine vom Studiengangsleiter validierte Beschreibung erstellt, die den Studierenden spätestens zu Beginn des Moduls mitgeteilt wird.
+
+<sup>3</sup> Eine Modulbeschreibung enthält mindestens:
+
+- a) die angestrebten Kompetenzen und Prozesse,
+- b) die pädagogischen Ziele und Modalitäten,
+- c) die Lehrinhalte,
+- d) das Semester, in dem das Modul stattfindet und die Dauer des Moduls,
+- e) die Anforderung, dass das Modul besucht werden muss,
+- f) die Modalitäten der Bewertung und Validierung,
+- g) die Modalitäten der Nachprüfungen, sofern diese vorgesehen sind,
+- h) die Modalitäten der Wiederholung.
+
+<sup>4</sup> Die Module können für beide Studiengänge gemeinsam sein.
+
+<sup>5</sup> Ausnahmsweise kann die Schuldirektion nach der Veröffentlichung über eine Änderung der Modulbeschreibungen entscheiden. In diesem Fall sorgt sie für die Mitteilung an die Studierenden.
+
+#### Art. 9
+
+**Berufspraxis**
+
+<sup>1</sup> Die Berufspraxis wird durch die geltenden Bestimmungen der Schule (nachfolgend: Bestimmungen) und seine 2 Vertragsstufen geregelt:
+
+- a) die Vereinbarung mit der Partnerinstitution der Berufspraxis, welche die Unterschriften der Direktion der Partnerinstitution, des Praxisausbildners, des Studierenden und der Schuldirektion erfordert;
+- b) die pädagogische Dreiervereinbahrung, die die Unterschriften des Praxisausbildners, des Studierenden und des Studiengangleiters der Schule erfordert.
+
+<sup>2</sup> Die Praxisausbildungsperioden werden grundsätzlich in den Institutionen absolviert, die sich dem System angeschlossen haben.
+
+<sup>3</sup> Während der Dauer der Ausbildung muss der Studierende in seiner beruflichen Praxis von einem qualifizierten Praxisausbildner (PA) betreut werden.
+
+<sup>4</sup> Die Berufspraxis umfasst eine pädagogische Aufsicht von 12 Stunden, welche in Ausnahmefällen auf bis zu 16 Stunden ausgedehnt werden kann.
+
+#### Art. 10
+
+**Studienkalender**
+
+<sup>1</sup> Der Studienkalender legt insbesondere den Beginn und die Dauer des Jahres fest und wird vom Direktionsrat der Schule verabschiedet.
+
+## 4 Bewertung, Promotion und Zertifizierung
+
+#### Art. 11
+
+**Bewertung**
+
+<sup>1</sup> Die Beurteilung der Module wird durch eine Note von A bis F oder durch eine Evaluation erfüllt/nicht erfüllt ausgedrückt.
+
+<sup>2</sup> Bei der Verwendung der Notenskala gilt die folgende Beurteilungsskala:
+
+- A Ausgezeichnet
+- B Sehr gut
+- C Gut
+- D Befriedigend
+- E Genügend
+- F Nicht bestanden
+
+#### Art. 12
+
+**Teilnahme an den Evaluationen**
+
+<sup>1</sup> Die Teilnahme an den Evaluationen ist obligatorisch. Jede Abwesenheit muss mit einem ärztlichen Zeugnis oder einem offiziellen Dokument begründet werden.
+
+<sup>2</sup> Bei gerechtfertigter Abwesenheit wird der Studierende zu neuen Evaluationen eingeladen, die an einem von der Studiengangsleitung festgelegten Datum stattfinden.
+
+<sup>3</sup> Bei unentschuldigter Abwesenheit oder nicht fristgerechter Abgabe der Arbeiten wird ein Nichtbestehen verbucht.
+
+#### Art. 13
+
+**Nachprüfung**
+
+<sup>1</sup> Ein Modul, bei dem die Bewertung der Evaluation F lautet, ist Gegenstand einer Nachprüfung, sofern diese in der Modulbeschreibung explizit vorgesehen ist.
+
+<sup>2</sup> Die Modalitäten der Nachprüfung (Zusatzprüfung oder Zusatzarbeit) werden in der Modulbeschreibung präzisiert.
+
+<sup>3</sup> Ein Studierender, der eine Nachprüfung erfolgreich absolviert, erhält für das Modul die Bewertung E.
+
+<sup>4</sup> Wenn die Ergebnisse der Nachprüfung ungenügend sind, kann der Studierende das Modul unter den in der Modulbeschreibung genannten Bedingungen wiederholen.
+
+<sup>5</sup> Ein wiederholtes Modul kann nicht Gegenstand einer Nachprüfung sein.
+
+#### Art. 14
+
+**Wiederholung**
+
+<sup>1</sup> Der Studierende, der ein Modul nicht bestanden hat, muss es baldmöglichst wiederholen.
+
+<sup>2</sup> Die Modalitäten der Wiederholung werden in der Modulbeschreibung präzisiert.
+
+<sup>3</sup> Jedes Modul kann nur einmal wiederholt werden. Abbrüche werden als Nichtbestehen gewertet.
+
+#### Art. 15
+
+**Ausschluss aus dem Studiengang**
+
+<sup>1</sup> Bei zweimaligem Nichtbestehen eines Moduls, das als obligatorisch für den Erwerb des entsprechenden Ausbildungsprofils definiert ist, wird der Studierende vom Studiengang ausgeschlossen.
+
+<sup>2</sup> Studierende werden ebenfalls vom Studiengang ausgeschlossen, wenn sie die für den Erwerb des Titels erforderlichen Module nicht innerhalb der nach Artikel 3 festgelegten maximalen Ausbildungsdauer bestanden haben.
+
+<sup>3</sup> Der Entscheid über den Ausschluss wird dem Studierenden von der Schulleitung schriftlich mitsamt Rechtsmittelbelehrung eröffnet.
+
+#### Art. 16
+
+**Promotion**
+
+<sup>1</sup> Um von einem Jahr zum anderen promoviert zu werden, muss der Studierende in den Modulen die Bewertung "erfüllt" oder ein Ergebnis zwischen A und E erhalten haben.
+
+#### Art. 17
+
+**Titel**
+
+<sup>1</sup> Der Studierende, der alle Module und die Berufspraxis in der vorgegebenen Zeit bestanden hat, erhält den Titel, der im RLP seines Studiengangs festgelegt ist, d. h:
+
+- a) "dipl. Kindheitspädagogin HF", "dipl. Kindheitspädagoge HF;
+- b) "dipl. Leiterin Arbeitsagogik HF", "dipl. Leiter Arbeitsagogik HF".
+
+## 5 Rechte und Pflichten der Studierenden
 
 #### Art. 18
 
-**Passerelle**
+**Besuch der Ausbildung und Kurzurlaub**
 
-<sup>1</sup> Inhaber eines HF-Diploms im Sozialbereich oder eines verwandten Diploms können eine Passerelle absolvieren, um ein zweites Diplom im Sozialbereich zu erlangen.
+<sup>1</sup> Die Anforderungen bezüglich den Besuch der Ausbildung sind in den Modulbeschreibungen festgehalten.
 
-<sup>2</sup> Die Bedingungen, die von den Bewerbern für diese Ausbildungen erfüllt werden müssen, sind in den jeweiligen Rahmenstudienplänen festgelegt.
+<sup>2</sup> Bei einer Abwesenheit von mehr als 3 aufeinanderfolgenden Tagen aus gesundheitlichen Gründen, muss der Studierende innerhalb von 7 Tagen nach Beginn des Ausfalls ein ärztliches Zeugnis vorlegen.
 
-### 4. Abschnitt: Evaluation des Wissens und der Kompetenzen, Promotion und Diplomverleihung
+<sup>3</sup> Ein ordnungsgemäss begründeter Kurzurlaub kann in Ausnahmefällen durch den Studiengangsleiter bewilligt werden.
 
 #### Art. 19
 
-Validierung der theoretischen Ausbildung und der Praxisausbildung
+**Langfristiger Urlaub**
 
-<sup>1</sup> Der Inhalt der theoretischen Ausbildung beruht auf fünf Hauptstudienbereichen, die in den jeweiligen Rahmenstudienplänen beschrieben sind, und ist auf Unterrichtseinheiten aufgeteilt, die in Form von Vorlesungen, Seminaren, Workshops oder interdisziplinären Sessionen abgehalten werden.
+<sup>1</sup> Studierende, die eine Unterbrechung ihrer Ausbildung mit der Absicht planen, diese zu einem späteren Zeitpunkt wiederaufzunehmen, können einen Urlaub beantragen. Die Schuldirektion entscheidet über den Antrag.
 
-<sup>2</sup> Für jede Unterrichtseinheit wird gemäss den Normen der HF-Studiengänge ein Beschrieb ausgearbeitet. Diese Beschriebe umfassen mindestens die angestrebten Kompetenzen und Prozesse, den Inhalt und die pädagogischen Modalitäten sowie die Evaluations- und die Validierungsmodalitäten. Dieses Dokument wird den Studierenden spätestens zu Beginn der Unterrichtseinheit ausgeteilt.
+<sup>2</sup> Ein Urlaub kann für einen Zeitraum von einem Semester oder einem Jahr gewährt werden.
 
-<sup>3</sup> Die Validierung der Unterrichtseinheiten erfolgt anhand der beiden folgenden Evaluationen: den ordentlichen Evaluationen, beruhend auf der Präsenz und der aktiven Beteiligung der Studierenden, sowie den formalen Evaluationen (Prüfungen).
-
-<sup>4</sup> Die ordentlichen Evaluationen werden als bestanden (genügende Leistungen) oder nicht bestanden (ungenügende Leistungen) beurteilt.
-
-<sup>5</sup> Die formalen Evaluationen werden mittels einer Notenskala beurteilt. Sie werden als bestanden betrachtet, wenn der Studierende eine Note zwischen A (ausgezeichnet) und E (genügend) erhält. Die Note F wird erteilt, wenn der Studierende eine umfangreiche Zusatzarbeit leisten muss; sie entspricht einem Nichtbestehen.
-
-<sup>6</sup> In den Richtlinien über die Promotion und die Erlangung des Diploms, welche durch die Studiengansleitern im Einvernehmen mit der Direktion der FHW - GS erstellt werden sind die Kriterien der Notenskala sowie für jedes Jahr die zu evaluierenden Unterrichtseinheiten und die Grundsätze für die Evaluation der Praxisausbildung festgehalten.
+<sup>3</sup> Die Gewährung eines Urlaubs kann auf begründetes Gesuch hin verlängert werden. Die kumulierte Gesamtdauer der Beurlaubungen darf 2 Jahre nicht überschreiten.
 
 #### Art. 20
 
-**Promotion und Erhalt des Diploms**
+**Einschreibegebühr**
 
-<sup>1</sup> Die Richtlinien über die Promotion und die Erlangung des Diploms legen die Anforderungen für das Bestehen der einzelnen Studienjahre, die Bedingungen für die Wiederholung, die Zusatzarbeit und das Nichtbestehen sowie die Bedingungen für den Erhalt des Diploms fest, vorbehaltlich besonderer Umstände, die ausdrücklich belegt werden müssen.
+<sup>1</sup> Die Einschreibegebühr ist für jede Neueröffnung eines Bewerbungsdossiers für eine HF-Ausbildung gemäss Artikel 1 des vorliegenden Reglements zu entrichten.
 
-<sup>2</sup> Diese Richtlinien definieren ebenfalls die Modalitäten in Zusammenhang mit der Information der Studierenden, die ihr Studium wegen eines definitiven Nichtbestehens abbrechen müssen.
+<sup>2</sup> Die Höhe der Gebühr beträgt 150 Franken pro Zulassungsverfahren.
+
+<sup>3</sup> Dieser Betrag kann nicht zurückerstattet werden.
+
+<sup>4</sup> Die Nichtbezahlung der Einschreibegebühr hat die Ungültigkeit der Einschreibung des Kandidaten zur Folge.
 
 #### Art. 21
 
-**Verliehene Titel**
+**Gebühr für die Abweichung von den Zulassungsvoraussetzungen**
 
-Der/die Inhaber/in eines anerkannten Titels ist je nach Studiengang berechtigt, einen der folgenden Titel zu führen:
+<sup>1</sup> Eine Gebühr wird von Kandidaten über 22 Jahren erhoben, die eine Ausnahme von der Anforderung eines EFZ oder eines als gleichwertig erachteten Titels beantragen, um die Gleichwertigkeit zu prüfen.
 
-- a) "Dipl. Kindererzieher HF","Dipl. Kindererzieherin HF";
+<sup>2</sup> Die Höhe der Gebühr beträgt 300 Franken, zusätzlich zur Einschreibegebühr.
 
-- b) "Dipl. Werkstattleiter im sozialpädagogischen Bereich HF", "Dipl. Werkstattleiterin im sozialpädagogischen Bereich HF".
+<sup>3</sup> Dieser Betrag kann nicht zurückerstattet werden.
 
-### 5. Abschnitt: Studierende
+<sup>4</sup> Die Nichtbezahlung der Gebühr für die Abweichung von den Zulassungsbedingungen hat die Ungültigkeit der Einschreibung des Kandidaten zur Folge.
 
 #### Art. 22
 
-**Gesundheitsschutz**
+**Studiengebühr**
 
-<sup>1</sup> Die Gesundheitsschutzmassnahmen der Studierenden entsprechen den kantonalen Normen.
+<sup>1</sup> Die Studiengebühr wird auf 500 Franken pro Semester festgesetzt.
 
-<sup>2</sup> Sie sind Gegenstand besonderer Bestimmungen und befolgen die diesbezüglichen Empfehlungen der Studiengänge.
+<sup>2</sup> Die Studiengebühr wird nicht zurückerstattet.
+
+<sup>3</sup> Wird die Studiengebühr nicht fristgerecht bezahlt, führt dies zum Abbruch der Ausbildung.
+
+<sup>4</sup> Jeder, wegen Nichtbezahlung ausgeschlossene Studierende, ist verpflichtet, seine Schuld im Falle eines neuen Zulassungsgesuchs vorgängig zu begleichen.
 
 #### Art. 23
 
-**Teilnahme am Unterricht**
+**Beiträge zu den Studienkosten**
 
-<sup>1</sup> Die Teilnahme am sogenannten Kontaktunterricht, zu dem die Vorlesungen gehören, sowie an allen anderen von den Studiengängen organisierten Lehrveranstaltungen ist obligatorisch.
+<sup>1</sup> Studienkostenbeiträge zur Deckung der folgenden Leistungen werden halbjährlich erhoben:
 
-<sup>2</sup> Ein ordnungsgemäss begründeter kurzer Urlaub kann in Ausnahmefällen durch den Leiter des Studiengangs bewilligt werden. Bei krankheitsbedingten Absenzen von mehr als drei Tagen muss der Studierende ein ärztliches Zeugnis vorlegen.
+- a) Kursgebühren von 200 Franken (Studienunterlagen), und
+- b) andere Leistungen von 75 Franken (gemäss spezifischem Reglement).
+
+<sup>2</sup> Der Studienbeitrag, der für die von den Ausbildungen erbrachten Leistungen erhoben wird, ist fristgerecht zu entrichten.
 
 #### Art. 24
 
-**Verlängerung der Studiendauer**
+**Versicherungen**
 
-<sup>1</sup> Der Studierende kann in den beiden folgenden Fällen eine Verlängerung seiner Studiendauer beantragen:
-
-- a) Wenn Arbeiten aufgrund ihrer Art und der verwendeten Mittel nicht innerhalb der vorgegebenen Frist beendet werden können;
-
-- b) Aus nachweislich belegten Gründen höherer Gewalt.
-
-<sup>2</sup> In diesen Fällen kann die Studiendauer nur um ein Semester verlängert werden. Sie darf in keinem Fall fünf Jahre überschreiten. Wird diese Dauer überschritten, gilt die Ausbildung als endgültig abgebrochen.
-
-<sup>3</sup> Über das Verlängerungsgesuch, das in Form eines ausführlichen Berichts eingereicht werden muss, entscheidet die Direktion auf Vorbescheid des Studiengangsleiters.
+<sup>1</sup> Die Studierenden sind dafür verantwortlich, die von der Gesetzgebung verlangten Versicherungen abzuschliessen.
 
 #### Art. 25
 
-**Vorübergehende Unterbrechung der Ausbildung**
+**Studierendenverband**
 
-<sup>1</sup> Der Studierende kann aus fundierten und nachweislich belegten Gründen eine vorübergehende Unterbrechung der Ausbildung beantragen. Diese darf die Höchstdauer von zwei Jahren nicht überschreiten. Wird diese Dauer überschritten, gilt die Ausbildung als endgültig abgebrochen.
+<sup>1</sup> Die Studierenden können sich zu einem Verband zusammenschliessen. Dieser muss für die Gesamtheit der Studierenden repräsentativ sein.
 
-<sup>2</sup> Über das Gesuch um eine vorübergehende Unterbrechung der Ausbildung, das in Form eines ausführlichen Berichts eingereicht werden muss, entscheidet die Direktion, auf Vorbescheid des Studiengangsleiters.
+<sup>2</sup> Der Verband wird gegebenenfalls bei Entscheidungen, die das Studium und das Leben an der Schule betreffen, in geeigneter Weise konsultiert.
+
+<sup>3</sup> Der Verband organisiert sich selbst und arbeitet autonom. Seine Beziehungen zur Schule werden in einer Zusammenarbeitsvereinbarung geregelt.
 
 #### Art. 26
 
-**Gebühren und Beiträge zu den Studienkosten**
+**Berufs- und Amtsgeheimnis - Persönlichkeitsrechte**
 
-<sup>1</sup> Die vom Staatsrat festgelegten Studiengebühren müssen innerhalb von 45 Tagen nach Beginn des Studienjahres oder des Semesters bezahlt werden.
+<sup>1</sup> Die Studierenden sind zur Wahrung des Berufs- und/oder Amtsgeheimnisses verpflichtet.
 
-<sup>2</sup> Die Beiträge für die Leistungen der Studiengänge müssen innerhalb von 45 Tagen nach Beginn des Studienjahres oder des Semesters bezahlt werden.
-
-<sup>3</sup> Falls diese Rechnungen ohne hinreichende Begründung innerhalb der festgesetzten Frist nicht bezahlt werden, kann dem Studierenden der Besuch der Vorlesungen verweigert werden.
+<sup>2</sup> Die Studierenden sind verpflichtet, die Persönlichkeitsrechte, einschliesslich des Rechts am eigenen Bild und des Rechts auf Ehre der Personen, mit denen sie im Rahmen der Ausbildung in Kontakt kommen, zu respektieren.
 
 #### Art. 27
 
-**Versicherungen**
+**Zugänglichkeit von Dokumenten**
 
-Die Studierenden müssen auf ihre Kosten eine Kranken- und Unfallversicherung sowie eine Haftpflichtversicherung abschliessen.
+<sup>1</sup> Die Reglemente, die RLP, die Ausbildungsprogramme, der Studienkalender, die Modulbeschreibungen und das Lehrmaterial werden den Studierenden zugänglich gemacht.
+
+## 6 Disziplinarische Elemente
 
 #### Art. 28
 
-**Mitspracherecht und Organisationsfreiheit**
+**Betrug**
 
-<sup>1</sup> Die Studierenden können sich in einem Verband zusammenschliessen, der alle Studierenden vertreten muss.
+<sup>1</sup> Jeder Betrug einschliesslich Plagiat oder Betrugsversuch insbesondere bei den Evaluationsarbeiten, den Prüfungen und der abschliessenden Qualifikationsarbeit führt zum Nichterwerb des Moduls oder sogar zur Ungültigkeit des Titels und kann mit einer der in Artikel 29 vorgesehenen Sanktionen geahndet werden.
 
-<sup>2</sup> Die Studierenden werden in angemessener Weise zu den Entscheidungen angehört, die das Studium und das Leben an der Schule betreffen.
+<sup>2</sup> Die Verwendung falscher Titel, Zertifikate oder falscher Informationen durch die Studierenden führt zur Annullierung früherer Entscheidungen und zum Ausschluss aus dem Studiengang.
 
 #### Art. 29
 
-**Berufsgeheimnis**
+**Sanktionen**
 
-Der Studierende ist an das Berufsgeheimnis gebunden und ist zur Verschwiegenheit verpflichtet.
+<sup>1</sup> Studierende, die gegen die Regeln und Gepflogenheiten verstossen, werden je nach Schweregrad des Verstosses mit folgenden Disziplinarmassnahmen geahndet:
+
+- a) Verwarnung;
+- b) vorübergehender Ausschluss;
+- c) Ausschluss aus dem Studiengang.
+
+<sup>2</sup> Vor der Verhängung einer Sanktion ist der Studierende anzuhören.
+
+<sup>3</sup> Die Schuldirektion spricht die Sanktion nach Vormeinung des Studiengangleiters aus.
+
+<sup>4</sup> Der Entscheid wird dem Studierenden schriftlich mitsamt Rechtsmittelbelehrung eröffnet.
+
+## 7 Abschluss des Studiums und Rechtsmittelwege
 
 #### Art. 30
 
-**Abwesenheit bei Evaluationen**
+**Abbruch**
 
-<sup>1</sup> Die Teilnahme an den Evaluationen ist obligatorisch. Für jede Abwesenheit muss ein ärztliches Zeugnis oder ein offizielles Dokument vorgelegt werden.
+<sup>1</sup> Als Studiumsabbrecher gilt ein Studierender, der seine Absicht schriftlich gegenüber der Schule bekundet:
 
-<sup>2</sup> Bei entschuldigtem Fernbleiben muss der Studierende an einem vom Leiter des Studiengangs festgelegten Datum Nachprüfungen ablegen.
+- a) wird der Abbruch spätestens innerhalb der ersten 2 Wochen des Semesters mitgeteilt, wird das Semester nicht an die Studiendauer angerechnet;
+- b) wird der Abbruch nach den ersten 2 Wochen des Semesters mitgeteilt, wird das Semester angerechnet.
 
-<sup>3</sup> Bei ungerechtfertigter Abwesenheit oder wenn die Arbeiten nicht innerhalb der vorgegebenen Fristen eingereicht werden, erhält der Studierende die Note F.
+<sup>2</sup> Als Studiumsabbrecher gilt ein Studierender, der trotz einer an die letzte bekannte Adresse gesandten Mahnung, nicht innerhalb der festgelegten Fristen an den Kursen oder an den Evaluationen teilnimmt.
+
+<sup>3</sup> Jedes abgebrochene Modul ist Gegenstand einer Benotung.
+
+<sup>4</sup> Ein Studierender, der seine Ausbildung abgebrochen hat, kann diese ohne Karenzfristen wiederaufnehmen, unter Vorbehalt des Entscheids gemäss Artikel 32 Absatz 2 und des erfolgreichen Abschlusses des gesamten Zulassungsverfahrens. Im Falle einer Zulassung kann der Studierende einen Antrag auf Anerkennung von Studienleistungen gemäss den im spezifischen Reglement beschriebenen Modalitäten stellen.
 
 #### Art. 31
 
-**Betrug**
+**Abschluss des Studiums**
 
-<sup>1</sup> Die Studierenden werden vor jeder Prüfung über die erlaubten Hilfsmittel informiert. Die Benutzung von unerlaubten Hilfsmitteln wird bestraft.
+<sup>1</sup> Als abgeschlossen gilt das Studium für den Studierenden, welcher:
 
-<sup>2</sup> Der Dozent, der einen Studierenden beim Betrug ertappt, muss augenblicklich mündlich intervenieren. Solange die Sanktion nicht ausgesprochen ist, kann der Studierende die Prüfungen fortsetzen.
+- a) den Titel erworben hat;
+- b) wegen Misserfolgs ausgeschlossen wird;
+- c) infolge Disziplinarmassnahmen ausgeschlossen wird;
+- d) die Kursgebühren und Beiträge zu den Studienkosten nach zwei Mahnungen nicht bezahlt hat;
+- e) die Ausbildung abgebrochen hat.
 
-<sup>3</sup> Im Fall eines Betrugs muss der Dozent den Leiter des Studiengangs informieren, der die Sanktion ausspricht.
+<sup>2</sup> Der Entscheid über den Abschluss des Studiums zieht in den unter den Buchstaben b und c von Absatz 1 dieses Artikels genannten Fällen, ein Verbot der Wiederaufnahme des Studiums in dem Studiengang während eines Zeitraums von 3 Jahren nach sich. Im Falle einer Disziplinarstrafe, die ein schweres Vergehen darstellt und/oder eines gerichtlichen Entscheids kann das Verbot der Wiederaufnahme des Studiums von der Schuldirektion über die vorgesehene Dauer hinaus verlängert werden. Was die Buchstaben d und e betrifft, so wird die Situation von Fall zu Fall geprüft.
 
-<sup>4</sup> Jeder Betrug (einschliesslich Plagiats oder Betrugsversuchs) im Rahmen von Evaluationsarbeiten, Prüfungen sowie der Diplomarbeit hat die Nichtvergabe der entsprechenden Noten, den Nichterhalt oder die Ungültigkeitserklärung des Diploms zur Folge.
+<sup>3</sup> Der Entscheid über den Abschluss des Studiums hat die sofortige Ungültigkeit des Studierendenausweises zur Folge.
+
+<sup>4</sup> Nach dem Entscheid über den Studienabschluss stellt die Schule dem Studierenden ein Zeugnis mit den Evaluationen zu.
+
+<sup>5</sup> Nach einem zweiten Misserfolg im gleichen Studiengang ist eine erneute Zulassung ausgeschlossen.
+
+<sup>6</sup> Im Falle einer Wiederaufnahme der Ausbildung ist der Studierende verpflichtet, sich einem neuen Zulassungsverfahren zu unterziehen.
 
 #### Art. 32
 
-**Pflichten und Sanktionen**
+**Rechtsmittelwege**
 
-<sup>1</sup> Der Studierende muss sich an die QM-Richtlinien und -Prozeduren seines Studiengangs halten. Er hat mit den Gegenständen, Geräten und Werkzeugen, die ihm im Rahmen der praktischen Arbeiten zur Verfügung gestellt werden, sorgfältig umzugehen. Er ist für alle an Ausrüstung und Räumen verursachten Schäden verantwortlich.
+<sup>1</sup> Das Beschwerdeverfahren richtet sich nach dem Gesetz über das Verwaltungsverfahren und die Verwaltungsrechtspflege (VVRG).
 
-<sup>2</sup> Der Studierende, der gegen die Vorschriften verstösst oder dem grobes Verschulden nachgewiesen werden kann, wird je nach Grad des Verschuldens oder des Verstosses mit einer der folgenden Disziplinarmassnahmen belegt:
+<sup>2</sup> Die Studierenden können innerhalb von 30 Tagen nach Kenntnisnahme des Entscheids bei der Schuldirektion Einsprache erheben.
 
-- a) Verweis;
+<sup>3</sup> Gegen den Einspracheentscheid der Schuldirektion kann innert 30 Tagen nach Kenntnisnahme beim Staatsrat Beschwerde erhoben werden.
 
-- b) vorübergehender Ausschluss aus den Vorlesungen;
-
-- c) endgültiger Ausschluss aus dem Studiengang.
-
-<sup>3</sup> Sanktionen werden von der Direktion auf Vorbescheid des Studiengangsleiters ausgesprochen.
-
-<sup>4</sup> Bevor eine Sanktion ausgesprochen wird, muss der Studierende angehört werden.
-
-<sup>5</sup> Der Beschluss wird dem Studierenden schriftlich mitgeteilt.
-
-### 6. Abschnitt: Schlussbestimmungen
+## 8 Schlussbestimmungen
 
 #### Art. 33
 
-**Rechtsmittel**
-
-<sup>1</sup> Gegen die gestützt auf das vorliegende Reglement erlassenen Verfügungen kann innert 30 Tagen nach deren Eröffnung beim Staatsrat Beschwerde eingelegt werden.
-
-<sup>2</sup> Das Beschwerdeverfahren richtet sich nach dem Gesetz über das Verwaltungsverfahren und die Verwaltungsrechtspflege vom 6. Oktober 1976 (VVRG).
-
-<sup>3</sup> Folgende Verfügungen können Gegenstand einer Beschwerde sein:
-
-- a) Definitiver Abbruch der Ausbildung;
-
-- b) Endgültiger Ausschluss aus dem Studiengang;
-
-- c) Abbruch der Ausbildung infolge längerer oder wiederholter Absenzen sowie der Überschreitung der Fristen für eine Verschiebung oder einen vorübergehenden Unterbruch. Dieser Entscheid wird von dem Studiengangsleiter und der Direktion gemeinsam mitgeteilt;
-
-- d) Verweigerung des Titels.
-
-#### Art. 34
-
 **Übergangsbestimmungen**
 
-<sup>1</sup> Alle bei Inkrafttreten des vorliegenden Reglements laufenden Verfahren bleiben dem alten Reglement unterstellt.
+<sup>1</sup> Studierende, die ihre Ausbildung in den Studiengängen HF Soziales vor dem 1. August 2022 begonnen haben, bleiben dem Studienreglement für die HF-Studiengänge (Höhere Fachschule) für Soziales Wallis vom 18. Dezember 2013 und dem Beschluss vom 30. Oktober 2013 betreffend die Studiengebühren, die von den Studierenden der HF-Studiengänge (Höhere Fachschule) für Soziales im Wallis erhoben werden, unterstellt.
 
-<sup>2</sup> Im Falle eines Nichtbestehens der theoretischen Ausbildung oder der Praxisausbildung werden die Modalitäten bezüglich der Wiederholung des Unterrichts, insbesondere die Unterrichtsformen, von den Leitern der Studiengänge im Rahmen der Richtlinien über die Promotion und die Erlangung des Diploms festgelegt.
-
-#### Art. 35
-
-**Inkrafttreten**
-
-<sup>1</sup> Das vorliegende Reglement wird im Amtsblatt veröffentlicht und tritt auf Beginn des Studienjahrs 2013/2014 in Kraft.
-
-<sup>2</sup> Das vorliegende Reglement ist auf alle Neustudierenden und auf die Studierenden in Ausbildung der betreffenden Lehrgänge anwendbar.
-
-So beschlossen im Staatsrat zu Sitten, den 18. Dezember 2013.
-
-Der Präsident des Staatsrats: Maurice Tornay Der Staatskanzler: Philipp Spörri
-
-### Titel und Änderungen Veröffentlichung Inkrafftreten
-
-**01.09.13**
-
-Studienreglement für die HF-Studiengänge Abl. Nr. 52/2013
-
-### (Höhere Fachschule) für Soziales Wallis
-
-vom 18. Dezember 2013
+CSW RO/AGS 2022-035
