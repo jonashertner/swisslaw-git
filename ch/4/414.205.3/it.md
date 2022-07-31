@@ -3,20 +3,20 @@ sr: "414.205.3"
 title: "Ordinanza del Consiglio delle scuole universitarie del 28 maggio 2015 per l'accreditamento nel settore universitario svizzero (Ordinanza per l'accreditamento LPSU)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/362"
 language: it
-version: 2022-01-01
+version: 2022-08-01
 adopted: 2015-05-28
 in_force: 2015-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/362/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2015-362-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/362/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/362/20220801/it/xml/fedlex-data-admin-ch-eli-cc-2015-362-20220801-it-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/362/20220801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza del Consiglio delle scuole universitarie per l’accreditamento nel settore universitario
 
-(Ordinanza per l’accreditamento LPSU)**[^t-1]**
+(Ordinanza per l’accreditamento LPSU)[^t-1]
 
-del 28 maggio 2015 (Stato 1° gennaio 2022)
+del 28 maggio 2015 (Stato 1° agosto 2022)
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del Consiglio delle scuole universitarie del 23 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7375](https://fedlex.data.admin.ch/eli/oc/2017/801)).
 
@@ -24,7 +24,7 @@ Il Consiglio delle scuole universitarie,
 
 visto l’articolo 30 capoverso 2 della legge del 30 settembre 2011[^ingress-1] sulla promozione e sul coordinamento del settore universitario svizzero (LPSU); visto l’articolo 2 capoverso 2 lettera b numero 1 della Convenzione del 26 febbraio 2015[^ingress-2] tra la Confederazione e i Cantoni sulla cooperazione nel settore universitario,
 
-ordina:*[^ingress-3]*
+ordina:[^ingress-3]
 
 [^ingress-1]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
 [^ingress-2]: [RS 414.205](https://fedlex.data.admin.ch/eli/cc/2014/693)
@@ -40,11 +40,11 @@ La presente ordinanza[^1-1] specifica le condizioni per l’accreditamento istit
 
 - a. le condizioni di ammissione alla procedura di accreditamento;
 - b. le condizioni per l’accreditamento istituzionale e l’accreditamento di programmi, nonché gli effetti dell’accreditamento istituzionale;
-- c.[^1-2] la procedura dell’accreditamento iniziale;
+- c.[^1-2] la procedura dell’accreditamento iniziale e del primo rinnovo dell’accreditamento;
 - d. gli standard di qualità da applicare nelle procedure.
 
 [^1-1]: Nuova espr. giusta il n. I dell’O del Consiglio delle scuole universitarie del 23 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7375](https://fedlex.data.admin.ch/eli/oc/2017/801)). Di detta mod. é tenuto conto in tutto il presente testo.
-[^1-2]: Nuovo testo giusta il n. I dell’O del Consiglio delle scuole universitarie del 23 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7375](https://fedlex.data.admin.ch/eli/oc/2017/801)).
+[^1-2]: Nuovo testo giusta il n. I dell’O del Consiglio delle scuole universitarie del 19 mag. 2022, in vigore dal 1° ago. 2022 ([RU 2022 342](https://fedlex.data.admin.ch/eli/oc/2022/342)).
 
 #### Art. 2
 
@@ -159,19 +159,19 @@ I programmi di studio di scuole universitarie o di altri istituti accademici acc
 
 <sup>3</sup> Se un’alta scuola pedagogica è integrata in una scuola universitaria professionale, quest’ultima acquisisce il diritto alla denominazione per l’alta scuola pedagogica nell’ambito dell’accreditamento istituzionale della scuola universitaria professionale.
 
-## Sezione 5: Procedura di accreditamento iniziale****
+## Sezione 5: Procedura dell’accreditamento iniziale e del primo rinnovo dell’accreditamento
 
 [^sec5-1]
 
-[^sec5-1]: Nuovo testo giusta il n. I dell’O del Consiglio delle scuole universitarie del 23 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7375](https://fedlex.data.admin.ch/eli/oc/2017/801)).
+[^sec5-1]: Nuovo testo giusta il n. I dell’O del Consiglio delle scuole universitarie del 19 mag. 2022, in vigore dal 1° ago. 2022 ([RU 2022 342](https://fedlex.data.admin.ch/eli/oc/2022/342)).
 
 #### Art. 8a
 
 [^8a-1]
 
-Le disposizioni di questa sezione disciplinano la procedura dell’accreditamento iniziale.
+Le disposizioni di questa sezione disciplinano la procedura dell’accreditamento iniziale e del primo rinnovo dell’accreditamento.
 
-[^8a-1]: Introdotto dal n. I dell’O del Consiglio delle scuole universitarie del 23 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7375](https://fedlex.data.admin.ch/eli/oc/2017/801)).
+[^8a-1]: Introdotto dal n. I dell’O del Consiglio delle scuole universitarie del 23 nov. 2017 ([RU 2017 7375](https://fedlex.data.admin.ch/eli/oc/2017/801)). Nuovo testo giusta il n. I dell’O del Consiglio delle scuole universitarie del 19 mag. 2022, in vigore dal 1° ago. 2022 ([RU 2022 342](https://fedlex.data.admin.ch/eli/oc/2022/342)).
 
 #### Art. 9
 
@@ -373,7 +373,7 @@ Gli standard di qualità per l’accreditamento di programmi di studio comprendo
 
 Le scuole universitarie e gli altri istituti accademici riconosciuti come aventi diritto ai sussidi secondo la LAU[^24-1] o la LSUP[^24-2] possono fare accreditare i programmi di studio, di cui la legge del 23 giugno 2006[^24-3] sulle professioni mediche prevede l’accreditamento secondo la LPSU, o i cicli di studio delle scuole universitarie professionali nel settore sanitario al più tardi entro il 31 dicembre 2022 senza dover soddisfare le condizioni previste nell’articolo 5 capoverso 1 lettera a.
 
-[^24-1]: [[RU 2000 948](https://fedlex.data.admin.ch/eli/oc/2000/146), [2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24)all. n. II 3, [2004 2013](https://fedlex.data.admin.ch/eli/oc/2004/225), [2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)n. II 5, [2008 307](https://fedlex.data.admin.ch/eli/oc/2008/76)[3437](https://fedlex.data.admin.ch/eli/oc/2008/447)n. II 18, [2011 5871](https://fedlex.data.admin.ch/eli/oc/2011/812), [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)n. 10. [RU 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)all. n. I 1]
+[^24-1]: [[RU 2000 948](https://fedlex.data.admin.ch/eli/oc/2000/146); [2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24)all. n. II; **2004** 201; [2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)n. II; [2008 307](https://fedlex.data.admin.ch/eli/oc/2008/76), [3437](https://fedlex.data.admin.ch/eli/oc/2008/447)n. II 1; **2011** 587; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)n. 10. [RU 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)all. n. I 1]
 [^24-2]: [[RU 1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588), [2002 953](https://fedlex.data.admin.ch/eli/oc/2002/171), [2005 4635](https://fedlex.data.admin.ch/eli/oc/2005/607), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 37, [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)n. I 11. [RU 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)all. n. I 2]
 [^24-3]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
 

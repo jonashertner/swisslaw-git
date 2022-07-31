@@ -3,11 +3,11 @@ sr: "414.205.3"
 title: Guidelines of the Higher Education Council of 28 May 2015 for accreditation within the higher education sector (HEdA Accreditation Guidelines)
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/362"
 language: en
-version: 2022-01-01
+version: 2022-08-01
 adopted: 2015-05-28
 in_force: 2015-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/362/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2015-362-20220101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/362/20220101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/362/20220801/en/xml/fedlex-data-admin-ch-eli-cc-2015-362-20220801-en-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/362/20220801/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -16,21 +16,21 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/362/20220101/en"
 
 English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.
 
-(HEdA Accreditation Ordinance)**[^t-1]**
+(HEdA Accreditation Ordinance)[^t-1]
 
-of 28 May 2015 (Status as of 1 January 2022)
+of 28 May 2015 (Status as of 1 August 2022)
 
-[^t-1]: Amended by No I of the Ordinance of 23 Nov. 2017 of the Higher Education Council, in force since 1 Jan. 2018 ([AS 2017 7375](https://fedlex.data.admin.ch/eli/oc/2017/801)).
+[^t-1]: Amended by No I of the O of the Higher Education Council of 23 Nov. 2017, in force since 1 Jan. 2018 ([AS 2017 7375](https://fedlex.data.admin.ch/eli/oc/2017/801)).
 
 The Higher Education Council,
 
 on the basis of Article 30 paragraph 2 of the Higher Education Act of 30 September 2011[^ingress-1] (HEdA) and Article 2 paragraph 2 letter b number 1 of the Federal-Cantonal Agreement of 26 February 2015[^ingress-2] on Cooperation in Higher Education,
 
-ordains:*[^ingress-3]*
+ordains:[^ingress-3]
 
 [^ingress-1]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
 [^ingress-2]: [SR 414.205](https://fedlex.data.admin.ch/eli/cc/2014/693)
-[^ingress-3]: Amended by No I of the Ordinance of 23 Nov. 2017 of the Higher Education Council, in force since 1 Jan. 2018 ([AS 2017 7375](https://fedlex.data.admin.ch/eli/oc/2017/801)).
+[^ingress-3]: Amended by No I of the O of the Higher Education Council of 23 Nov. 2017, in force since 1 Jan. 2018 ([AS 2017 7375](https://fedlex.data.admin.ch/eli/oc/2017/801)).
 
 ## Section 1 General Provisions
 
@@ -42,11 +42,11 @@ This Ordinance[^1-1] specifies the conditions for institutional accreditation un
 
 - a. the admission requirements for accreditation procedures;
 - b. the conditions for institutional accreditation and programme accreditation;
-- c.[^1-2] the procedure for first-time accreditation;
+- c.[^1-2] the procedure for first-time accreditation, and the first renewal of accreditation;
 - d. the quality standards to be applied in the procedures.
 
-[^1-1]: Term in accordance with No I of the Ordinance of 23 Nov. 2017 of the Higher Education Council, in force since 1 Jan. 2018 ([AS 2017 7375](https://fedlex.data.admin.ch/eli/oc/2017/801)). The term is used throughout the entire act.
-[^1-2]: Amended by No I of the Ordinance of 23 Nov. 2017 of the Higher Education Council, in force since 1 Jan. 2018 ([AS 2017 7375](https://fedlex.data.admin.ch/eli/oc/2017/801)).
+[^1-1]: Term in accordance with No I of the O of the Higher Education Council of 23 Nov. 2017, in force since 1 Jan. 2018 ([AS 2017 7375](https://fedlex.data.admin.ch/eli/oc/2017/801)). The term is used throughout the entire act.
+[^1-2]: Amended by No I of the O of the Higher Education Council of 19 May 2022, in force since 1 Aug. 2022 ([AS 2022 342](https://fedlex.data.admin.ch/eli/oc/2022/342)).
 
 #### Art. 2
 
@@ -93,7 +93,6 @@ Higher education institutions or other institutions within the higher education 
 - d. they have a quality assurance system in place (Art. 30 para. 1 let. a HEdA);
 - e. they are compatible with the European Higher Education Area;
 - f. they have infrastructure and staff in Switzerland for teaching, research and services appropriate to their type and profile;
-- [tab]
 - g.[^4-2] ...
 - h. they have the resources to continue their operations over the long-term (Art. 30 para. 1 let. c HEdA) and have taken measures to ensure that their students can complete a study programme;
 - i. they are legal entities in Switzerland.
@@ -161,19 +160,19 @@ The study programme of an accredited higher education institution or other insti
 
 <sup>3</sup> If a university of teacher education is part of a university of applied sciences, the university of applied sciences is entitled to use the reserved designation for the university of teacher education in the context of institutional accreditation of the university of applied sciences.
 
-## Section 5 Procedure for First-time Accreditation****
+## Section 5 Procedure for First-time Accreditation and the First Renewal of Accreditation
 
 [^sec5-1]
 
-[^sec5-1]: Amended by No I of the Ordinance of 23 Nov. 2017 of the Higher Education Council, in force since 1 Jan. 2018 ([AS 2017 7375](https://fedlex.data.admin.ch/eli/oc/2017/801)).
+[^sec5-1]: Amended by No I of the O of the Higher Education Council of 19 May 2022, in force since 1 Aug. 2022 ([AS 2022 342](https://fedlex.data.admin.ch/eli/oc/2022/342)).
 
 #### Art. 8a
 
 [^8a-1]
 
-The provisions of this Section set out the procedure for first-time accreditation.
+The provisions of this Section set out the procedure for first-time accreditation and the first renewal of accreditation.
 
-[^8a-1]: Inserted by No I of the Ordinance of 23 Nov. 2017 of the Higher Education Council, in force since 1 Jan. 2018 ([AS 2017 7375](https://fedlex.data.admin.ch/eli/oc/2017/801)).
+[^8a-1]: Inserted by No I of the O of the Higher Education Council of 23 Nov. 2017 ([AS 2017 7375](https://fedlex.data.admin.ch/eli/oc/2017/801)). Amended by No I of the O of the Higher Education Council of 19 May 2022, in force since 1 Aug. 2022 ([AS 2022 342](https://fedlex.data.admin.ch/eli/oc/2022/342)).
 
 #### Art. 9
 
@@ -278,7 +277,7 @@ The following apply to the composition of the group of experts:
 The Accreditation Council may:
 
 - a. grant accreditation unconditionally;
-- b, grant accreditation subject to conditions;
+- b. grant accreditation subject to conditions;
 - c. refuse accreditation.
 
 <sup>3</sup> It shall, in the context of the accreditation decision, determine the deadline and means of verifying whether the conditions have been met.

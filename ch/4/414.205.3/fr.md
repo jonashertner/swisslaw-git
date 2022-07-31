@@ -3,20 +3,20 @@ sr: "414.205.3"
 title: "Ordonnance du Conseil des hautes écoles du 28 mai 2015 pour l'accréditation dans le domaine des hautes écoles (Ordonnance d'accréditation LEHE)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/362"
 language: fr
-version: 2022-01-01
+version: 2022-08-01
 adopted: 2015-05-28
 in_force: 2015-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/362/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-362-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/362/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/362/20220801/fr/xml/fedlex-data-admin-ch-eli-cc-2015-362-20220801-fr-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/362/20220801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du Conseil des hautes écoles pour l’accréditation dans le domaine des hautes écoles
 
-(Ordonnance d’accréditation LEHE)**[^t-1]**
+(Ordonnance d’accréditation LEHE)[^t-1]
 
-du 28 mai 2015 (Etat le 1<sup>er</sup> janvier 2022)
+du 28 mai 2015 (État le 1<sup>er</sup> août 2022)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du Conseil des hautes écoles du 23 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7375](https://fedlex.data.admin.ch/eli/oc/2017/801)).
 
@@ -24,7 +24,7 @@ Le Conseil des hautes écoles,
 
 vu l’art. 30, al. 2, de la loi du 30 septembre 2011 sur l’encouragement et la coordination des hautes écoles (LEHE)[^ingress-1], vu l’art. 2, al. 2, let. b, ch. 1, de la Convention du 26 février 2015 entre la Confédération et les cantons sur la coopération dans le domaine des hautes écoles[^ingress-2],
 
-arrête:*[^ingress-3]*
+arrête:[^ingress-3]
 
 [^ingress-1]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
 [^ingress-2]: [RS 414.205](https://fedlex.data.admin.ch/eli/cc/2014/693)
@@ -40,11 +40,11 @@ La présente ordonnance[^1-1] précise les conditions de l’accréditation inst
 
 - a. les conditions de l’admission à la procédure d’accréditation;
 - b. les conditions pour l’accréditation institutionnelle et l’accréditation de programmes et les effets de l’accréditation institutionnelle;
-- c.[^1-2] la procédure de l’accréditation initiale;
+- c.[^1-2] la procédure de l’accréditation initiale et du premier renouvellement de l’accréditation;
 - d. les standards de qualité devant être appliqués dans les procédures.
 
 [^1-1]: Nouvelle expression selon le ch. I de l’O du Conseil des hautes écoles du 23 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7375](https://fedlex.data.admin.ch/eli/oc/2017/801)). Il a été tenu compte de cette mod. dans tout le texte.
-[^1-2]: Nouvelle teneur selon le ch. I de l’O du Conseil des hautes écoles du 23 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7375](https://fedlex.data.admin.ch/eli/oc/2017/801)).
+[^1-2]: Nouvelle teneur selon le ch. I de l’O du Conseil des hautes écoles du 19 mai 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 342](https://fedlex.data.admin.ch/eli/oc/2022/342)).
 
 #### Art. 2
 
@@ -158,19 +158,19 @@ Les programmes d’études de hautes écoles ou d’autres institutions du domai
 
 <sup>3</sup> Dans le cas d’une haute école pédagogique intégrée dans une haute école spécialisée, la haute école spécialisée reçoit le droit à l’appellation pour la haute école pédagogique dans le cadre de l’accréditation institutionnelle de la haute école spécialisée.
 
-## Section 5 Procédure de l’accréditation initiale****
+## Section 5 Procédure de l’accréditation initiale et du premier renouvellement de l’accréditation
 
 [^sec5-1]
 
-[^sec5-1]: Nouvelle teneur selon le ch. I de l’O du Conseil des hautes écoles du 23 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7375](https://fedlex.data.admin.ch/eli/oc/2017/801)).
+[^sec5-1]: Nouvelle teneur selon le ch. I de l’O du Conseil des hautes écoles du 19 mai 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 342](https://fedlex.data.admin.ch/eli/oc/2022/342)).
 
 #### Art. 8a
 
 [^8a-1]
 
-Les dispositions de la présente section règlent la procédure de l’accréditation initiale.
+Les dispositions de la présente section règlent la procédure de l’accréditation initiale et du premier renouvellement de l’accréditation.
 
-[^8a-1]: Introduit par le ch. I de l’O du Conseil des hautes écoles du 23 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7375](https://fedlex.data.admin.ch/eli/oc/2017/801)).
+[^8a-1]: Introduit par le ch. I de l’O du Conseil des hautes écoles du 23 nov. 2017 ([RO 2017 7375](https://fedlex.data.admin.ch/eli/oc/2017/801)). Nouvelle teneur selon le ch. I de l’O du Conseil des hautes écoles du 19 mai 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 342](https://fedlex.data.admin.ch/eli/oc/2022/342)).
 
 #### Art. 9
 

@@ -3,20 +3,20 @@ sr: "414.205.3"
 title: Verordnung des Hochschulrates vom 28. Mai 2015 für die Akkreditierung im Hochschulbereich (Akkreditierungsverordnung HFKG)
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/362"
 language: de
-version: 2022-01-01
+version: 2022-08-01
 adopted: 2015-05-28
 in_force: 2015-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/362/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2015-362-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/362/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/362/20220801/de/xml/fedlex-data-admin-ch-eli-cc-2015-362-20220801-de-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/362/20220801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des Hochschulrates über die Akkreditierung im Hochschulbereich
 
-(Akkreditierungsverordnung HFKG)**[^t-1]**
+(Akkreditierungsverordnung HFKG)[^t-1]
 
-vom 28. Mai 2015 (Stand am 1. Januar 2022)
+vom 28. Mai 2015 (Stand am 1. August 2022)
 
 [^t-1]: Fassung gemäss Ziff. I der V des Hochschulrats vom 23. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7375](https://fedlex.data.admin.ch/eli/oc/2017/801)).
 
@@ -24,7 +24,7 @@ Der Hochschulrat,
 
 gestützt auf Artikel 30 Absatz 2 des Hochschulförderungs- und -koordinationsgesetzes vom 30. September 2011[^ingress-1] (HFKG) und auf Artikel 2 Absatz 2 Buchstabe b Ziffer 1 der Vereinbarung vom 26. Februar 2015[^ingress-2] zwischen dem Bund und den Kantonen über die Zusammenarbeit im Hochschulbereich,
 
-verordnet:*[^ingress-3]*
+verordnet:[^ingress-3]
 
 [^ingress-1]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
 [^ingress-2]: [SR 414.205](https://fedlex.data.admin.ch/eli/cc/2014/693)
@@ -40,11 +40,11 @@ Diese Verordnung[^1-1] konkretisiert die Voraussetzungen für die institutionell
 
 - a. die Voraussetzungen für die Zulassung zum Akkreditierungsverfahren;
 - b. die Voraussetzungen für die institutionelle Akkreditierung und die Programmakkreditierung und die Wirkungen der institutionellen Akkreditierung;
-- c.[^1-2] das Verfahren der erstmaligen Akkreditierung;
+- c.[^1-2] das Verfahren der erstmaligen Akkreditierung und der ersten Erneuerung der Akkreditierung;
 - d. die in den Verfahren anzuwendenden Qualitätsstandards.
 
 [^1-1]: Ausdruck gemäss Ziff. I der V des Hochschulrats vom 23. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7375](https://fedlex.data.admin.ch/eli/oc/2017/801)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
-[^1-2]: Fassung gemäss Ziff. I der V des Hochschulrats vom 23. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7375](https://fedlex.data.admin.ch/eli/oc/2017/801)).
+[^1-2]: Fassung gemäss Ziff. I der V des Hochschulrats vom 19. Mai 2022, in Kraft seit 1. Aug. 2022 ([AS 2022 342](https://fedlex.data.admin.ch/eli/oc/2022/342)).
 
 #### Art. 2
 
@@ -158,19 +158,19 @@ Studienprogramme akkreditierter Hochschulen oder anderer Institutionen des Hochs
 
 <sup>3</sup> Ist eine pädagogische Hochschule in eine Fachhochschule integriert, so erhält die Fachhochschule das Bezeichnungsrecht für die pädagogische Hochschule im Rahmen der institutionellen Akkreditierung der Fachhochschule.
 
-## 5. Abschnitt: Verfahren der erstmaligen Akkreditierung****
+## 5. Abschnitt: Verfahren der erstmaligen Akkreditierung und der ersten Erneuerung der Akkreditierung
 
 [^sec5-1]
 
-[^sec5-1]: Fassung gemäss Ziff. I der V des Hochschulrats vom 23. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7375](https://fedlex.data.admin.ch/eli/oc/2017/801)).
+[^sec5-1]: Fassung gemäss Ziff. I der V des Hochschulrats vom 19. Mai 2022, in Kraft seit 1. Aug. 2022 ([AS 2022 342](https://fedlex.data.admin.ch/eli/oc/2022/342)).
 
 #### Art. 8a
 
 [^8a-1]
 
-Die Bestimmungen dieses Abschnitts regeln das Verfahren der erstmaligen Akkreditierung.
+Die Bestimmungen dieses Abschnitts regeln das Verfahren der erstmaligen Akkreditierung und der ersten Erneuerung der Akkreditierung.
 
-[^8a-1]: Eingefügt durch Ziff. I der V des Hochschulrats vom 23. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7375](https://fedlex.data.admin.ch/eli/oc/2017/801)).
+[^8a-1]: Eingefügt durch Ziff. I der V des Hochschulrats vom 23. Nov. 2017 ([AS 2017 7375](https://fedlex.data.admin.ch/eli/oc/2017/801)). Fassung gemäss Ziff. I der V des Hochschulrats vom 19. Mai 2022, in Kraft seit 1. Aug. 2022 ([AS 2022 342](https://fedlex.data.admin.ch/eli/oc/2022/342)).
 
 #### Art. 9
 
