@@ -3,18 +3,18 @@ sr: "412.101.220.02"
 title: Verordnung des SBFI vom 18. Mai 2021 über die berufliche Grundbildung Detailhandelsassistentin/Detailhandelsassistent mit eidgenössischem Berufsattest (EBA)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/313"
 language: de
-version: 2022-01-01
+version: 2022-08-01
 adopted: 2021-05-18
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/313/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2021-313-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/313/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/313/20220801/de/xml/fedlex-data-admin-ch-eli-cc-2021-313-20220801-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/313/20220801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des SBFI über die berufliche Grundbildung Detailhandelsassistentin/Detailhandelsassistent mit eidgenössischem Berufsattest (EBA)
 
-vom 18. Mai 2021 (Stand am 1. Januar 2022)
+vom 18. Mai 2021 (Stand am 1. August 2022)
 
 <table>
 <tr><td>71800</td><td>Detailhandelsassistentin EBA / Detailhandelsassistent EBA Assistante du commerce de détail AFP / Assistant du commerce de détail AFP Assistente del commercio al dettaglio CFP</td></tr>
@@ -169,7 +169,7 @@ Die Bildung in beruflicher Praxis im Betrieb umfasst über die ganze Dauer der b
 <sup>7</sup> Zweisprachiger Unterricht in der Landessprache des Schulortes und in einer weiteren Landessprache oder in Englisch ist empfohlen.
 
 [^8-1]: [SR 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
-[^8-2]: Der Rahmenlehrplan vom 27. April 2006 für den allgemeinbildenden Unterricht ist zu finden auf der Website des SBFI unter www.sbfi.admin.ch &gt; Bildung &gt; Berufliche Grundbildung &gt; Allgemein bildender Unterricht
+[^8-2]: Der Rahmenlehrplan vom 27. April 2006 für den allgemeinbildenden Unterricht ist zu finden auf der Website des SBFI unter: www.sbfi.admin.ch &gt; Bildung &gt; Berufliche Grundbildung &gt; Allgemein bildender Unterricht
 [^8-3]: Anhang 1 zum Bildungsplan (Art. 10 Abs. 3)
 
 #### Art. 9
@@ -212,7 +212,7 @@ Der Bildungsplan hat folgenden Inhalt:
 
 <sup>3</sup> Dem Bildungsplan angefügt ist das Verzeichnis der Instrumente zur Sicherstellung und Umsetzung der beruflichen Grundbildung sowie zur Förderung der Qualität mit Angabe der Bezugsquelle.
 
-[^10-1]: Der Bildungsplan vom 18. Mai 2021 ist zu finden auf der Website des SBFI über das Berufsverzeichnis unter www.bvz.admin.ch &gt; Berufe A–Z.
+[^10-1]: Der Bildungsplan vom 18. Mai 2021 ist zu finden auf der Website des SBFI über das Berufsverzeichnis unter: www.bvz.admin.ch &gt; Berufe A–Z.
 
 ## 6. Abschnitt: Anforderungen an die Berufsbildnerinnen und Berufsbildner und Höchstzahl der Lernenden im Betrieb
 
@@ -325,12 +325,13 @@ Im Qualifikationsverfahren mit Abschlussprüfung werden die Handlungskompetenzen
   - 1\. dieser Qualifikationsbereich wird gegen Ende der beruflichen Grundbildung geprüft,
   - 2\. die lernende Person muss zeigen, dass sie fähig ist, die geforderten Tätigkeiten fachlich korrekt sowie bedarfs- und situationsgerecht auszuführen,
   - 3\. die praktische Arbeit erfolgt in der im Lehrvertrag festgelegten Ausbildungs- und Prüfungsbranche nach dem Anhang,
-  - 4\. der Qualifikationsbereich umfasst die folgenden Handlungskompetenzbereiche mit nachstehender Gewichtung:
+  - 4\.[^20-1] der Qualifikationsbereich umfasst für die Ausbildungs- und Prüfungsbranchen (AP) nach dem Anhang die folgenden Handlungskompetenzbereiche mit den nachstehenden Gewichtungen:
 
 <table>
-<tr><th>Position</th><th>Handlungskompetenzbereiche</th><th>Gewichtung</th></tr>
-<tr><td>1</td><td>Gestalten von Kundenbeziehungen Erwerben, Einbringen und Weiterentwickeln von Produkte- und Dienstleistungskenntnissen</td><td>60 %</td></tr>
-<tr><td>2</td><td>Bewirtschaften und Präsentieren von Produkten und Dienstleistungen</td><td>40 %</td></tr>
+<tr><td>Position</td><td>Handlungskompetenzbereiche</td><td colspan="2">Gewichtung</td></tr>
+<tr><td></td><td></td><td>AP Automobil After-Sales Landi Lebensmittel</td><td>Übrige AP</td></tr>
+<tr><td>1</td><td>Gestalten von Kundenbeziehungen Erwerben, Einbringen und Weiterentwickeln von Produkte- und Dienstleistungskenntnissen</td><td>50 %</td><td>70 %</td></tr>
+<tr><td>2</td><td>Bewirtschaften und Präsentieren von Produkten und Dienstleistungen</td><td>50 %</td><td>30 %</td></tr>
 </table>
 
 - b.
@@ -363,6 +364,8 @@ Im Qualifikationsverfahren mit Abschlussprüfung werden die Handlungskompetenzen
   - 3\. Gegenstand und Verfahren der Bewertung der Teilbereiche werden im Nationalen Lehrplan Allgemeinbildung geregelt.
 
 <sup>2</sup> In jedem Qualifikationsbereich beurteilen mindestens zwei Prüfungsexpertinnen oder -experten die Leistungen.
+
+[^20-1]: Fassung gemäss Ziff. I der V des SBFI vom 17. Juni 2022, in Kraft seit 1. Aug. 2022 ([AS 2022 383](https://fedlex.data.admin.ch/eli/oc/2022/383)).
 
 #### Art. 21
 
