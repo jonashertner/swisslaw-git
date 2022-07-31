@@ -4,11 +4,11 @@ title: Ordinanza del 3 luglio 2001 sul personale federale (OPers)
 short: OPers
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/319"
 language: it
-version: 2022-01-01
+version: 2022-08-01
 adopted: 2001-07-03
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/319/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2001-319-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/319/20220801/it/xml/fedlex-data-admin-ch-eli-cc-2001-319-20220801-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20220801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20220101/it"
 
 (OPers)
 
-del 3 luglio 2001 (Stato 1° gennaio 2022)
+del 3 luglio 2001 (Stato 1° agosto 2022)
 
 Il Consiglio federale svizzero,
 
@@ -60,7 +60,7 @@ Non sottostanno alla presente ordinanza:
 
 <sup>4</sup> Il Ministero pubblico della Confederazione, l’autorità di vigilanza sul Ministero pubblico della Confederazione e l’Assemblea federale per il personale dei Servizi del Parlamento in quanto datori di lavoro non sono vincolati alle norme o alle istruzioni del Consiglio federale. Per il loro personale essi si avvalgono per analogia delle competenze che la presente ordinanza attribuisce ai Dipartimenti e prendono le decisioni del datore di lavoro.[^1-11]
 
-<sup>5</sup> La politica del personale del Consiglio federale e del DFF è determinante per il Ministero pubblico della Confederazione e per l’autorità di vigilanza sul Ministero pubblico della Confederazione, a meno che la particolare funzione o posizione di queste autorità non renda necessario un regime diverso.[^1-12]
+<sup>5</sup> La politica del personale del Consiglio federale e del il Dipartimento federale delle finanze (DFF) è determinante per il Ministero pubblico della Confederazione e per l’autorità di vigilanza sul Ministero pubblico della Confederazione, a meno che la particolare funzione o posizione di queste autorità non renda necessario un regime diverso.[^1-12]
 
 [^1-1]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
 [^1-2]: [RS 173.71](https://fedlex.data.admin.ch/eli/cc/2010/444)
@@ -142,7 +142,7 @@ Il titolo di «direttore» o «direttrice» può essere conferito soltanto a chi
 
 <sup>1</sup> Il datore di lavoro promuove lo sviluppo professionale di tutti i suoi impiegati mediante misure sul posto di lavoro e per mezzo della formazione e della formazione continua.[^4-2]
 
-<sup>1bis</sup> Il Dipartimento federale delle finanze (DFF) mette a punto, in collaborazione con gli altri Dipartimenti, la strategia per lo sviluppo del personale, ne sostiene la realizzazione da parte dei Dipartimenti e promuove una cultura aziendale a livello federale.[^4-3]
+<sup>1bis</sup> Il DFF mette a punto, in collaborazione con gli altri Dipartimenti, la strategia per lo sviluppo del personale, ne sostiene la realizzazione da parte dei Dipartimenti e promuove una cultura aziendale a livello federale.[^4-3]
 
 <sup>2</sup>
 
@@ -476,7 +476,26 @@ Il servizio specializzato nelle questioni di politica del personale è l’Uffic
 [^18-5]: Abrogata dal n. II 3 dell’O del 27 ago. 2014, con effetto dal 1° ott. 2014 ([RU 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
 [^18-6]: Nuovo testo giusta il n. I dell’O del 1° mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 [^18-7]: Nuovo testo giusta il n. I dell’O del 1° mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
-[^18-8]: Introdotto dal n. I dell’O del 1° mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
+[^18-8]: Introdotta dal n. I dell’O del 1° mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
+
+#### Art. 18a
+
+**Progetti pilota**[^18a-1]
+
+<sup>1</sup> Su domanda dell’UFPER, il DFF può consentire ai Dipartimenti di eseguire progetti pilota per creare le basi decisionali necessarie allo sviluppo delle condizioni di lavoro nell’Amministrazione federale.
+
+<sup>2</sup> Esso disciplina in un’ordinanza lo scopo del relativo progetto pilota, la cerchia, i diritti e gli obblighi dei partecipanti, nonché le deroghe alla presente ordinanza. I progetti pilota possono derogare soltanto agli articoli 15, 17, 22, 26, 27, 29, 35–50, 64–67, 89–93*a* e 94*a*–94*c* della presente ordinanza; essi non devono violare i diritti legali degli impiegati.
+
+<sup>3</sup>
+
+Nell’ordinanza concernente un progetto pilota il DFF può dichiarare obbligatoria la partecipazione di una determinata cerchia di impiegati a tale progetto. A tal fine devono essere soddisfatte le seguenti condizioni:
+
+- a. il progetto pilota non è adatto a una partecipazione su base volontaria;
+- b. il progetto pilota non deroga ai diritti contrattuali degli impiegati.
+
+<sup>4</sup> La durata dei progetti pilota è di un anno al massimo. Il DFF può eccezionalmente prolungare la durata a due anni al massimo, se ciò è necessario ai fini di una valutazione esaustiva dei risultati del relativo progetto.
+
+[^18a-1]: Introdotto dal n. I dell’O del 29 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 404](https://fedlex.data.admin.ch/eli/oc/2022/404)).
 
 #### Art. 19
 

@@ -4,11 +4,11 @@ title: Bundespersonalverordnung vom 3. Juli 2001 (BPV)
 short: BPV
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/319"
 language: de
-version: 2022-01-01
+version: 2022-08-01
 adopted: 2001-07-03
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/319/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2001-319-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/319/20220801/de/xml/fedlex-data-admin-ch-eli-cc-2001-319-20220801-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20220801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20220101/de"
 
 (BPV)
 
-vom 3. Juli 2001 (Stand am 1. Januar 2022)
+vom 3. Juli 2001 (Stand am 1. August 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -60,7 +60,7 @@ Dieser Verordnung nicht unterstellt sind:
 
 <sup>4</sup> Die Bundesanwaltschaft, die Aufsichtsbehörde über die Bundesanwaltschaft und die Bundesversammlung für das Personal der Parlamentsdienste sind als Arbeitgeber nicht an Vorgaben und Weisungen des Bundesrats gebunden. Sie nehmen für ihr Personal sinngemäss die Kompetenzen wahr, die diese Verordnung den Departementen gewährt, und treffen die Arbeitgeberentscheide für ihr Personal.[^1-11]
 
-<sup>5</sup> Die Personalpolitik des Bundesrats und des EFD ist für die Bundesanwaltschaft und die Aufsichtsbehörde über die Bundesanwaltschaft massgebend, sofern die besondere Stellung oder Funktion dieser Behörden nicht etwas anderes verlangt.[^1-12]
+<sup>5</sup> Die Personalpolitik des Bundesrats und des Eidgenössischen Finanzdepartements (EFD) ist für die Bundesanwaltschaft und die Aufsichtsbehörde über die Bundesanwaltschaft massgebend, sofern die besondere Stellung oder Funktion dieser Behörden nicht etwas anderes verlangt.[^1-12]
 
 [^1-1]: [SR 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
 [^1-2]: [SR 173.71](https://fedlex.data.admin.ch/eli/cc/2010/444)
@@ -142,7 +142,7 @@ Der Titel «Direktor» oder «Direktorin» darf nur Amtsdirektoren oder Amtsdire
 
 <sup>1</sup> Der Arbeitgeber fördert die Entwicklung aller Angestellten durch Massnahmen am Arbeitsplatz und durch Aus- und Weiterbildung.[^4-2]
 
-<sup>1bis</sup> Das Eidgenössische Finanzdepartement (EFD) entwickelt zusammen mit den anderen Departementen die Strategie für die Personalentwicklung, unterstützt die Departemente bei der Umsetzung und fördert eine bundesweite Unternehmenskultur.[^4-3]
+<sup>1bis</sup> Das EFD entwickelt zusammen mit den anderen Departementen die Strategie für die Personalentwicklung, unterstützt die Departemente bei der Umsetzung und fördert eine bundesweite Unternehmenskultur.[^4-3]
 
 <sup>2</sup>
 
@@ -478,6 +478,25 @@ Fachstelle für personalpolitische Fragen ist das Eidgenössische Personalamt (E
 [^18-7]: Fassung gemäss Ziff. I der V vom 1. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 [^18-8]: Fassung gemäss Ziff. I der V vom 1. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 [^18-9]: Eingefügt durch Ziff. I der V vom 1. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
+
+#### Art. 18a
+
+**Pilotversuche**[^18a-1]
+
+<sup>1</sup> Das EFD kann auf Antrag des EPA den Departementen ermöglichen, Pilotversuche durchzuführen, um Entscheidungsgrundlagen für die Weiterentwicklung der Arbeitsbedingungen in der Bundesverwaltung zu schaffen.
+
+<sup>2</sup> Es regelt in einer Verordnung den Zweck des jeweiligen Pilotversuchs, den Kreis, die Rechte und die Pflichten der Teilnehmerinnen und Teilnehmer sowie die Abweichungen von dieser Verordnung. Die Pilotversuche können nur von den Artikeln 15, 17, 22, 26, 27, 29, 35–50, 64–67, 89–93*a* sowie 94*a*–94*c* abweichen; sie dürfen die gesetzlichen Ansprüche der Angestellten nicht verletzen.
+
+<sup>3</sup>
+
+Das EFD kann in der Verordnung zum jeweiligen Pilotprojekt die Teilnahme eines bestimmten Kreises von Angestellten an einem Pilotprojekt als obligatorisch erklären. Dabei müssen die folgenden Voraussetzungen erfüllt sein:
+
+- a. Ein Versuch auf Basis einer freiwilligen Teilnahme ist nicht geeignet;
+- b. Es wird von den vertraglichen Ansprüchen der Angestellten nicht abgewichen.
+
+<sup>4</sup> Die Dauer der Pilotversuche beträgt höchstens ein Jahr. Das EFD kann die Dauer ausnahmsweise auf höchstens zwei Jahren erhöhen, wenn dies für eine aussagekräftige Evaluation der Ergebnisse des Pilotversuchs erforderlich ist.
+
+[^18a-1]: Eingefügt durch Ziff. I der V vom 29. Juni 2022, in Kraft seit 1. Aug. 2022 ([AS 2022 404](https://fedlex.data.admin.ch/eli/oc/2022/404)).
 
 #### Art. 19
 
@@ -2283,7 +2302,7 @@ Als internationale Organisationen im Sinne dieser Bestimmung gelten:
 [^88-4]: Eingefügt durch Anhang Ziff. 4 der Gaststaatverordnung vom 7. Dez. 2007 ([AS 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)). Fassung gemäss Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
 [^88-5]: Eingefügt durch Ziff. I der V vom 20. Nov. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4397](https://fedlex.data.admin.ch/eli/oc/2013/780)).
 
-## 4*a*. Kapitel: Berufliche Vorsorge
+## 4*a*. Kapitel:**** Berufliche Vorsorge
 
 [^chap4a-1]
 
@@ -2817,7 +2836,7 @@ Ist eine korrekte Aufgabenerfüllung gefährdet, so kann die zuständige Stelle 
 [^103a-3]: Eingefügt durch Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
 [^103a-4]: Eingefügt durch Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5395](https://fedlex.data.admin.ch/eli/oc/2020/936)).
 
-## 7. Kapitel: Massnahmen und Leistungen des Arbeitgebers in besonderen Fällen
+## 7. Kapitel:**** Massnahmen und Leistungen des Arbeitgebers in besonderen Fällen
 
 [^chap7-1]
 
@@ -3026,7 +3045,7 @@ Der Arbeitgeber kann aus triftigen Gründen zusätzlich zur vorzeitigen Teil- od
 
 [^105d-1]: Eingefügt durch Ziff. I der V vom 12. Okt. 2016, in Kraft seit 1. Dez. 2016 ([AS 2016 3637](https://fedlex.data.admin.ch/eli/oc/2016/611)).
 
-### 2. Abschnitt: Leistungen des Arbeitgebers zur sozialen Sicherung des Personals bei einvernehmlicher Auflösung des Arbeitsverhältnisses
+### 2. Abschnitt: Leistungen des Arbeitgebers zur sozialen Sicherung des Personals bei einvernehmlicher Auflösung des Arbeitsverhältnisses****
 
 [^chap7-sec2-1]
 
@@ -3128,7 +3147,7 @@ Die Personalkommissionen begutachten zuhanden der Geschäftsleitungen:
 
 [^109-1]: Fassung gemäss Ziff. I der V vom 1. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 
-## 9. Kapitel: Verjährung
+## 9. Kapitel: Verjährung****
 
 [^chap9-1]
 
@@ -3276,7 +3295,7 @@ Es kann im Einvernehmen mit dem Eidgenössischen Departement des Innern abweiche
 [^116-1]: Eingefügt durch Ziff. I der V vom 12. Juni 2015 ([AS 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)). Fassung gemäss Ziff. I der V vom 2. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)).
 [^116-2]: Eingefügt durch Ziff. I der V vom 1. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 
-## 11. Kapitel: Schlussbestimmungen
+## 11. Kapitel: Schlussbestimmungen****
 
 [^chap11-1]
 

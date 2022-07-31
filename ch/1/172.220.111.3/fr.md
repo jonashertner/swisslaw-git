@@ -4,11 +4,11 @@ title: Ordonnance du 3 juillet 2001 sur le personnel de la Confédération (OPer
 short: OPers
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/319"
 language: fr
-version: 2022-01-01
+version: 2022-08-01
 adopted: 2001-07-03
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/319/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2001-319-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/319/20220801/fr/xml/fedlex-data-admin-ch-eli-cc-2001-319-20220801-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20220801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20220101/fr"
 
 (OPers)
 
-du 3 juillet 2001 (Etat le 1<sup>er</sup> janvier 2022)
+du 3 juillet 2001 (Etat le 1<sup>er</sup> août 2022)
 
 Le Conseil fédéral suisse,
 
@@ -60,7 +60,7 @@ Ne sont pas soumis à la présente ordonnance:
 
 <sup>4</sup> En tant qu’employeurs, le Ministère public de la Confédération, l’autorité de surveillance du Ministère public de la Confédération et l’Assemblée fédérale pour le personnel des Services du Parlement ne sont pas liés aux normes et directives du Conseil fédéral. Ils assument pour leur personnel par analogie les compétences que la présente ordonnance attribue aux départements et prennent les décisions de l’employeur.[^1-11]
 
-<sup>5</sup> La politique du personnel du Conseil fédéral et du DFF est déterminante pour le Ministère public de la Confédération et pour l’autorité de surveillance du Ministère public de la Confédération, pour autant que le statut ou la fonction particulière de ces autorités n’exige pas une autre solution.[^1-12]
+<sup>5</sup> La politique du personnel du Conseil fédéral et du Département fédéral des finances (DFF) est déterminante pour le Ministère public de la Confédération et pour l’autorité de surveillance du Ministère public de la Confédération, pour autant que le statut ou la fonction particulière de ces autorités n’exige pas une autre solution.[^1-12]
 
 [^1-1]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
 [^1-2]: [RS 173.71](https://fedlex.data.admin.ch/eli/cc/2010/444)
@@ -142,7 +142,7 @@ Le titre de «directeur» ne peut être conféré qu’aux directeurs d’office
 
 <sup>1</sup> L’employeur favorise le développement de tous ses employés par des mesures prises sur le lieu de travail et par la formation et la formation continue.[^4-2]
 
-<sup>1bis</sup> Le Département fédéral des finances (DFF) élabore la stratégie de développement du personnel conjointement avec les autres départements, soutient ces derniers dans sa mise en œuvre et favorise le développement d’une culture d’entreprise au niveau de la Confédération.[^4-3]
+<sup>1bis</sup> Le DFF élabore la stratégie de développement du personnel conjointement avec les autres départements, soutient ces derniers dans sa mise en œuvre et favorise le développement d’une culture d’entreprise au niveau de la Confédération.[^4-3]
 
 <sup>2</sup>
 
@@ -478,6 +478,25 @@ Le service chargé des questions du personnel est l’Office fédéral du person
 [^18-8]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 [^18-9]: Introduite par le ch. I de l’O du 1<sup>er</sup> mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 
+#### Art. 18a
+
+**Projets pilotes**[^18a-1]
+
+<sup>1</sup> Le DFF peut, sur proposition de l’OFPER, permettre aux départements de réaliser des projets pilotes qui visent à créer des bases de décision pour le développement des conditions de travail au sein de l’administration fédérale.
+
+<sup>2</sup> Il définit dans une ordonnance le but du projet pilote, les participants, leurs droits et leurs devoirs ainsi que les dérogations à la présente ordonnance. Les projets pilotes peuvent uniquement déroger aux dispositions des art. 15, 17, 22, 26, 27, 29, 35 à 50, 64 à 67, 89 à 93*a* et 94*a* à 94*c* de la présente ordonnance; ils ne peuvent pas déroger aux droits légaux des employés.
+
+<sup>3</sup>
+
+Le DFF peut, dans l’ordonnance relative au projet pilote concerné, déclarer obligatoire la participation à un projet pilote d’un cercle spécifique d’employés. Les conditions suivantes doivent pour cela être remplies:
+
+- a. le projet n’est pas adapté à une participation basée sur le volontariat;
+- b. le projet ne déroge pas aux droits contractuels des employés.
+
+<sup>4</sup> La durée des projets pilotes est d’un an au maximum. Le DFF peut exceptionnellement prolonger jusqu’à deux ans la durée du projet pilote si cela s’avère nécessaire à l’évaluation pertinente des résultats.
+
+[^18a-1]: Introduit par le ch. I de l’O du 29 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 404](https://fedlex.data.admin.ch/eli/oc/2022/404)).
+
 #### Art. 19
 
 **Départements**
@@ -563,13 +582,13 @@ Ces rapports portent notamment sur:
 
 <sup>1</sup> Les postes à pourvoir dans l’administration fédérale sont mis au concours au moins dans le bulletin électronique des postes vacants de la Confédération, sur Internet.[^22-1]
 
-<sup>2</sup> b<sup>bis</sup>.[^22-2] mentionnés à l’art. 2, al. 1, let. d;
+<sup>2</sup>
 
 Ne sont pas tenus de faire l’objet d’une mise au concours publique les postes à pourvoir:
 
 - a. pour une durée n’excédant pas 1 année;
-- b.[^22-3] par recrutement interne au sein d’une unité administrative, à l’exception des postes mentionnés à l’art. 2, al. 1, let. a, b et e;
-
+- b.[^22-2] par recrutement interne au sein d’une unité administrative, à l’exception des postes mentionnés à l’art. 2, al. 1, let. a, b et e;
+- b<sup>bis</sup>.[^22-3] mentionnés à l’art. 2, al. 1, let. d;
 - c. par voie d’échange temporaire de personnel (job rotation);
 - d.[^22-4] dans le cadre de la réintégration professionnelle de collaborateurs malades ou accidentés ou de l’intégration de personnes handicapées;
 - e.[^22-5] qui seront occupés par des employés touchés par une restructuration ou une réorganisation.
@@ -579,8 +598,8 @@ Ne sont pas tenus de faire l’objet d’une mise au concours publique les poste
 <sup>4</sup> Les postes à pourvoir dans les genres de profession enregistrant un taux de chômage supérieur à la moyenne, au sens de l’art. 53*a* de l’ordonnance du 16 janvier 1991 sur le service de l’emploi[^22-7], doivent être annoncés au service public de l’emploi.[^22-8]
 
 [^22-1]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6417](https://fedlex.data.admin.ch/eli/oc/2009/785)).
-[^22-2]: Introduite par le ch. I de l’O du 28 nov. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4567](https://fedlex.data.admin.ch/eli/oc/2014/765)).
-[^22-3]: Nouvelle teneur selon le ch. I de l’O du 28 nov. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4567](https://fedlex.data.admin.ch/eli/oc/2014/765)).
+[^22-2]: Nouvelle teneur selon le ch. I de l’O du 28 nov. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4567](https://fedlex.data.admin.ch/eli/oc/2014/765)).
+[^22-3]: Introduite par le ch. I de l’O du 28 nov. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4567](https://fedlex.data.admin.ch/eli/oc/2014/765)).
 [^22-4]: Introduite par le ch. I de l’O du 1<sup>er</sup> mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 [^22-5]: Introduite par le ch. I de l’O du 12 juin 2015, en vigueur depuis le 1<sup>er</sup> août 2015 ([RO 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
 [^22-6]: Nouvelle teneur selon le ch. I de l’O du 12 juin 2015, en vigueur depuis le 1<sup>er</sup> août 2015 ([RO 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
