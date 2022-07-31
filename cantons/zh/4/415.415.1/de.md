@@ -4,11 +4,10 @@ number: "415.415.1"
 title: Rahmenverordnung über den Bachelor- und den Masterstudiengang an der Rechtswissenschaftlichen Fakultät der Universität Zürich (RVO RWF)
 short: RVO RWF
 language: de
-version: "2021-08-01"
-nachtrag: "114"
-valid_until: 2022-08-01
+version: "2022-08-01"
+nachtrag: "117"
 adopted: 2020-09-21
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_415_1-2020_09_21-2021_08_01-114.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_415_1-2020_09_21-2021_08_01-117.html"
 text: pdf
 ---
 
@@ -16,9 +15,12 @@ text: pdf
 
 # Rahmenverordnung über den Bachelor- und den Masterstudiengang an der Rechtswissenschaftlichen Fakultät der Universität Zürich (RVO RWF)
 
-(vom 21. September 2020)<sup>1,</sup> <sup>2</sup>
+(vom 21. September 2020)[^t-1],[^t-2]
 
 Der Universitätsrat beschliesst:
+
+[^t-1]: OS 75, 483; Begründung siehe ABl 2020-10-02.
+[^t-2]: Inkrafttreten: 1. August 2021.
 
 ### 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -30,11 +32,13 @@ Der Universitätsrat beschliesst:
 
 <sup>1</sup> Diese Rahmenverordnung regelt das Bachelor- und Masterstudium an der Rechtswissenschaftlichen Fakultät (Fakultät) der Universität Zürich (UZH).
 
-<sup>2</sup> Diese Rahmenverordnung gilt sinngemäss für die besonderen Programme (insbesondere Notariatsprogramm) gemäss der Verordnung über die Zulassung zum Studium an der Universität Zürich vom 27. August 2018 (VZS)<sup>4</sup>.
+<sup>2</sup> Diese Rahmenverordnung gilt sinngemäss für die besonderen Programme (insbesondere Notariatsprogramm) gemäss der Verordnung über die Zulassung zum Studium an der Universität Zürich vom 27. August 2018 (VZS)[^1-1].
 
 <sup>3</sup> Fakultätsübergreifende Studiengänge sowie hochschulübergreifende Double- und Joint-Degree-Studiengänge werden in separaten Rahmenverordnungen geregelt.
 
 <sup>4</sup> Über Fragen, die in dieser Rahmenverordnung und in der Studienordnung nicht geregelt sind, entscheidet der Fakultätsvorstand.
+
+[^1-1]: LS 415.31.
 
 #### § 2
 
@@ -60,7 +64,7 @@ Einzelheiten werden in der Studienordnung geregelt.
 
 **1**
 
-1.10. 21 - 114
+- 1\. 7. 22 - 117
 
 <sup>2</sup> Die Fakultät bietet auf Bachelorstufe Minor-Studienprogramme im Umfang von 30 und 60 ECTS Credits für Studierende anderer Fakultäten an.
 
@@ -154,35 +158,19 @@ Für die Zulassung zu den Studiengängen ist die VZS massgebend.
 
 Studentische Arbeiten können zum Zweck der Überprüfung auf Plagiate unter Einsatz entsprechender Software bearbeitet werden. Zu diesem Zweck können geeignete Dienstleister im In- oder Ausland beauftragt werden.
 
-**Studienzeit und Gebühren**
-
-§ 13.<sup>3</sup> <sup>1</sup> In den ersten zwölf Semestern des Bachelor- wie auch des Masterstudiums sind die Studiengebühren gemäss der Verordnung über die Studiengebühren an der Universität Zürich vom 5. März 2012<sup>5</sup> zu entrichten. Die Zählung beginnt mit dem ersten Semester nach der Immatrikulation an der UZH.
-
-**3**
-
-1.10. 21 - 114
-
-<sup>2</sup> Überschreitet die oder der Studierende die Studienzeit gemäss Abs. 1 und liegt keine bewilligte Verlängerung nach § 14 vor, verdoppelt sich die Studiengebühr gemäss der Verordnung über die Studiengebühren an der Universität Zürich.
-
-<sup>3</sup> Die oder der Studierende erhält am Ende des elften Semesters nach Immatrikulation mit dem Leistungsausweis die Aufforderung, unverzüglich mit der Studienberatung Kontakt aufzunehmen, um einen individuellen Studienplan auszuarbeiten.
-
-**Antrag auf Verlängerung**
-
-§ 14.<sup>3</sup> <sup>1</sup> Bei Vorliegen von wichtigen Gründen kann die oder der Studierende beim Studiendekanat eine Verlängerung der Studienzeit, für welche die einfache Studiengebühr zu entrichten ist, um zwei Semester beantragen. Der Antrag ist zu begründen und innerhalb von 30 Tagen nach Erhalt des Leistungsausweises einzureichen.
-
-<sup>2</sup> Die Studiendekanin oder der Studiendekan entscheidet in der Regel innert 30 Tagen über den Antrag. Sie oder er kann weitere Nachweise anfordern oder Berichte einholen.
-
-<sup>3</sup> Wird kein Antrag eingereicht oder lehnt die Studiendekanin oder der Studiendekan den Antrag ab, verdoppelt sich die Studiengebühr gemäss der Verordnung über die Studiengebühren an der Universität Zürich.
-
-<sup>4</sup> Anträge auf Verlängerung können mehrfach gestellt werden.
-
-#### § 15
+§§ 13 und 14.[^12-1]
 
 **Informationspflicht**
 
-<sup>1</sup> Alle studienrelevanten Informationen werden in geeigneter Weise bekannt gegeben und sind verbindlich.
+§ 15. <sup>1</sup> Alle studienrelevanten Informationen werden in geeigneter Weise bekannt gegeben und sind verbindlich.
 
 <sup>2</sup> Die Studierenden sind verpflichtet, sich über sämtliche studienrelevanten Belange, insbesondere über die für sie geltenden Erlasse und Fristen, selbstständig zu informieren.
+
+**3**
+
+- 1\. 7. 22 - 117
+
+[^12-1]: Aufgehoben durch URB vom 28. Februar 2022 (OS 77, 214; ABl 2022-03-18). In Kraft seit 1. August 2022.
 
 ### 2. Abschnitt: Module und ECTS Credits
 
@@ -240,10 +228,6 @@ Es wird unterschieden zwischen folgenden Modultypen:
 
 <sup>4</sup> Die dem Modul zugewiesene Anzahl von ECTS Credits wird immer vollständig vergeben; eine anteilige Vergabe ist nicht zulässig.
 
-**5**
-
-1.10. 21 - 114
-
 ### 3. Abschnitt: Leistungsnachweise, endgültige Abweisung und Sperre
 
 ### A. Leistungsnachweise
@@ -296,6 +280,10 @@ Es wird unterschieden zwischen folgenden Modultypen:
 
 <sup>2</sup> Bei Leistungsnachweisen, die sich über einen längeren Zeitraum erstrecken (insbesondere schriftliche Arbeiten), kann vor Ablauf der Abgabefrist über die digitale Infrastruktur der UZH ein Gesuch um Fristverlängerung gestellt werden.
 
+**5**
+
+- 1\. 7. 22 - 117
+
 <sup>3</sup> Wird das Gesuch nicht bewilligt, gilt der Leistungsnachweis als nicht bestanden.
 
 <sup>4</sup> In Zweifelsfällen kann eine Vertrauensärztin oder ein Vertrauensarzt beigezogen werden.
@@ -344,11 +332,11 @@ Es wird unterschieden zwischen folgenden Modultypen:
 
 <sup>2</sup> Wurde die höchstens zulässige Anzahl Fehlversuche überschritten, erfolgt eine endgültige Abweisung nach § 33 und Sperre nach § 34.
 
-**7**
-
-1.10. 21 - 114 § 30. <sup>1</sup> Unlauteres Verhalten liegt bei der Vornahme von Betrugshandlungen oder Unredlichkeiten vor. Dazu gehören insbesondere das Mitbringen oder die Verwendung unerlaubter Hilfsmittel, die unerlaubte Kommunikation mit Dritten, das Einreichen eines Plagiats oder einer schriftlichen Prüfung oder Arbeit, die nicht selbstständig verfasst wurde.
+#### § 30
 
 **Unlauteres Verhalten**
+
+<sup>1</sup> Unlauteres Verhalten liegt bei der Vornahme von Betrugshandlungen oder Unredlichkeiten vor. Dazu gehören insbesondere das Mitbringen oder die Verwendung unerlaubter Hilfsmittel, die unerlaubte Kommunikation mit Dritten, das Einreichen eines Plagiats oder einer schriftlichen Prüfung oder Arbeit, die nicht selbstständig verfasst wurde.
 
 <sup>2</sup> Liegt unlauteres Verhalten gemäss Abs. 1 vor, erklärt die Studiendekanin oder der Studiendekan den Leistungsnachweis für nicht bestanden und einen ausgestellten Leistungsausweis für ungültig. Bereits verliehene Grade werden durch die Fakultätsversammlung aberkannt. Sämtliche Dokumente, die nach dem unlauteren Verhalten ausgestellt wurden, werden eingezogen.
 
@@ -356,11 +344,13 @@ Es wird unterschieden zwischen folgenden Modultypen:
 
 <sup>4</sup> Zur Verhinderung unlauteren Verhaltens kann der Fakultätsvorstand vorgängig geeignete Massnahmen treffen.
 
+[^30-1]: SR 101.
+
 #### § 31
 
 **Akteneinsicht in Prüfungsunterlagen**
 
-Das Akteneinsichtsrecht richtet sich nach Art. 29 Abs. 2 der Bundesverfassung<sup>6</sup>. Demnach kann die Akteneinsicht im Zusammenhang mit Prüfungen eingeschränkt werden, soweit entgegenstehende schutzwürdige Geheimhaltungsinteressen dies rechtfertigen.
+Das Akteneinsichtsrecht richtet sich nach Art. 29 Abs. 2 der Bundesverfassung[^30-1]. Demnach kann die Akteneinsicht im Zusammenhang mit Prüfungen eingeschränkt werden, soweit entgegenstehende schutzwürdige Geheimhaltungsinteressen dies rechtfertigen.
 
 #### § 32
 
@@ -384,6 +374,10 @@ Ist ein Pflichtmodul nach § 28 definitiv nicht bestanden oder ist die höchsten
 
 Eine endgültige Abweisung von dem Studienprogramm nach § 33 bewirkt eine Sperre auf allen Studienstufen für das betreffende Studienprogramm und alle nach Massgabe der Fakultät ähnlichen Studienprogramme an der UZH.
 
+**7**
+
+- 1\. 7. 22 - 117
+
 ### 4. Abschnitt: Studiengänge
 
 ### A. Bachelorstudiengang
@@ -406,7 +400,9 @@ Der Bachelorstudiengang vermittelt den Studierenden Grundlagenwissen und die Fä
 
 **Vorziehen von Modulen der Aufbaustufe**
 
-§ 37.<sup>7</sup> Studierende, die alle Module der Assessmentstufe bis auf eines erfolgreich absolviert haben, können bereits Module der Aufbaustufe buchen. Bis zum Bestehen des letzten Assessmentmoduls können jedoch nur Module im Umfang von 18 ECTS Credits gebucht werden.
+§ 37.[^36-1] Studierende, die alle Module der Assessmentstufe bis auf eines erfolgreich absolviert haben, können bereits Module der Aufbaustufe buchen. Bis zum Bestehen des letzten Assessmentmoduls können jedoch nur Module im Umfang von 18 ECTS Credits gebucht werden.
+
+[^36-1]: Fassung gemäss URB vom 31. Mai 2021 (OS 76, 240; ABl 2021-06-11). In Kraft seit 1. August 2021.
 
 #### § 38
 
@@ -427,10 +423,6 @@ Der Bachelorstudiengang vermittelt den Studierenden Grundlagenwissen und die Fä
 **Vorziehen von Mastermodulen**
 
 Bachelorstudierende, die mindestens 150 ECTS Credits an der Rechtswissenschaftlichen Fakultät erworben haben, können unbeschränkt Mastermodule vorziehen. Mit der Masterarbeit darf erst im Masterstudiengang begonnen werden.
-
-**9**
-
-1.10. 21 - 114
 
 ### B. Masterstudiengang
 
@@ -482,6 +474,10 @@ Der Masterstudiengang vermittelt den Studierenden vertiefte fachliche Kenntnisse
 
 <sup>1</sup> Die Anerkennung ist der Ausweis erbrachter Studienleistungen im Leistungsausweis.
 
+**9**
+
+- 1\. 7. 22 - 117
+
 <sup>2</sup> Die Anrechnung ist die Zuordnung anerkannter Studienleistungen zu den im Rahmen eines Studienprogramms zu erbringenden Studienleistungen. Sie erfolgt spätestens nach der Anmeldung zum Studienabschluss mit der Aufnahme in den Academic Record (Abschlusszeugnis).
 
 <sup>3</sup> Es obliegt den Studierenden, die für die Anrechnung notwendigen Unterlagen beizubringen.
@@ -525,10 +521,6 @@ Gleiche oder inhaltlich ähnliche Module bzw. Studienleistungen können nicht me
 **Überzählige Module**
 
 <sup>1</sup> Überzählige Module werden nicht an den Bachelor- bzw. Masterabschluss angerechnet. Sie werden jedoch im Academic Record als nicht angerechnete Leistungen ausgewiesen.
-
-**11**
-
-1.10. 21 - 114
 
 <sup>2</sup> Überzählige Module sind Module, die gemäss Studienordnung für die Erreichung der für den Studienabschluss in dem jeweiligen Studienprogramm notwendigen ECTS Credits nicht erforderlich sind.
 
@@ -574,6 +566,10 @@ Die Fakultätsversammlung validiert die Abschlüsse. Sie kann die Validierung de
 
 <sup>1</sup> Der Studienabschluss wird mit einer gewichteten Gesamtnote bewertet, in welche die benoteten Module, mit Ausnahme der Module der Liberal Arts Option, mit dem Gewicht ihrer ECTS Credits einfliessen. Die gewichtete Gesamtnote wird mit ungerundeten Ausgangswerten berechnet.
 
+**11**
+
+- 1\. 7. 22 - 117
+
 <sup>2</sup> Die Berechnung der gewichteten Gesamtnote erfolgt exakt, das Ergebnis wird auf eine Nachkommastelle gerundet.
 
 <sup>3</sup> Die Notenskala reicht von 1 bis 6, wobei 6 die beste und 1 die schlechteste Note bezeichnet. Note 4 oder höher führt zu einem erfolgreichen Studienabschluss.
@@ -618,10 +614,6 @@ Die Absolventinnen und Absolventen erhalten folgende Abschlussdokumente: die Dip
 
 <sup>2</sup> Der Academic Record wird in deutscher Sprache ausgestellt. Es wird eine englische Übersetzung abgegeben.
 
-**13**
-
-1.10. 21 - 114
-
 ### 5. Abschnitt: Rechtsschutz
 
 #### § 58
@@ -650,23 +642,8 @@ Für Studierende, die ihr Studium an der Rechtswissenschaftlichen Fakultät vor 
 
 - d. Für Studierende im Bachelorstudiengang gilt § 37 erst ab Herbstsemester 2024.
 
+**13**
+
+- 1\. 7. 22 - 117
+
 - e. Vor dem Herbstsemester 2021 erlangte Fehlversuche werden nicht mehr berücksichtigt. Endgültige Abweisungen und Sperren bleiben bestehen.
-
-<sup>3</sup> Noch nicht in Kraft.
-
-<sup>4</sup> LS 415.31.
-
-<sup>5</sup> LS 415.321.
-
-<sup>6</sup> SR 101.
-
-<sup>7</sup> Fassung gemäss URB vom 31. Mai 2021 (OS 76, 240; ABl 2021-06-11). In Kraft seit 1. August 2021.
-
-**15**
-
-1.10. 21 - 114
-
-## Weitere Fussnoten
-
-- [1] OS 75, 483; Begründung siehe ABl 2020-10-02.
-- [2] Inkrafttreten: 1. August 2021.
