@@ -4,13 +4,13 @@ number: "546"
 title: Reglement des Departements für Gesundheitswissenschaften und Medizin der Universität Luzern
 short: Departementsreglement
 language: de
-version: 2019-08-01
-valid_until: 2022-07-31
-version_adopted: 2019-03-13
+version: 2022-08-01
+valid_until: 2023-01-31
+version_adopted: 2022-06-30
 adopted: 2024-06-26
 in_force: 2024-08-01
 url: "https://srl.lu.ch/app/de/texts_of_law/546"
-pdf: "https://srl.lu.ch/api/de/versions/3404/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3931/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3404/pdf_file"
 
 (Departementsreglement)
 
-vom 13.03.2019 (Stand 01.08.2019)
+vom 13.03.2019 (Stand 01.08.2022)
 
 Das Departement für Gesundheitswissenschaften und Medizin der Universität Luzern,
 
@@ -70,6 +70,8 @@ beschliesst:
 <sup>1</sup> Dem Departement gehören an:
 
 - a. seine Professorinnen und Professoren,
+- a<sup>bis</sup>. seine Professorinnen und Professoren für medizinische Wissenschaften,
+- a<sup>ter</sup>. seine Titularprofessorinnen und Titularprofessoren,
 - b. seine Privatdozentinnen und Privatdozenten,
 - c. seine wissenschaftlichen Mitarbeiterinnen und Mitarbeiter,
 - d. seine Lehr- und Forschungsbeauftragten,
@@ -84,7 +86,8 @@ beschliesst:
 
 - a. hauptamtliche ordentliche und ausserordentliche Professorinnen und Professoren,
 - b. hauptamtliche Assistenzprofessorinnen und Assistenzprofessoren,
-- c. nebenamtliche Professorinnen und Professoren, ständige Gastprofessorinnen und Gastprofessoren, Privatdozentinnen und Privatdozenten und Lehr- und Forschungsbeauftragte,
+- b<sup>bis</sup>. Professorinnen und Professoren für medizinische Wissenschaften,
+- c. nebenamtliche Professorinnen und Professoren, Titularprofessorinnen und -professoren, ständige und nicht ständige Gastprofessorinnen und Gastprofessoren, Privatdozentinnen und Privatdozenten und Lehr- und Forschungsbeauftragte,
 - d. wissenschaftliche Mitarbeiterinnen und Mitarbeiter,
 - e. Studierende des Departements,
 - f. administrative und technische Mitarbeiterinnen und Mitarbeiter.
@@ -140,7 +143,7 @@ beschliesst:
 - e. Änderung dieses Reglements,
 - f. Erlass und Änderung der Studien- und Prüfungsordnung sowie der Promotionsordnung,
 - g. Regelung der universitären Weiterbildungsangebote des Departements,
-- h. Verleihung und Entzug von Honorar- und Titularprofessuren, ständigen Gastprofessuren und Seniorprofessuren.
+- h. Verleihung und Entzug von Professuren für medizinische Wissenschaften, Honorar- und Titularprofessuren, ständigen und nicht ständigen Gastprofessuren und Seniorprofessuren.
 
 <sup>3</sup> Die Departementsversammlung ist abschliessend, unter Einhaltung allfälliger Mitwirkungsrechte übergeordneter Organe, zuständig für:
 
@@ -181,9 +184,9 @@ beschliesst:
 
 - a. alle hauptamtlichen ordentlichen und ausserordentlichen Professorinnen und Professoren,
 - b. alle hauptamtlichen Assistenzprofessorinnen und Assistenzprofessoren,
-- c. vier Vertreterinnen oder Vertreter der nebenamtlichen Professorinnen und Professoren, ständigen Gastprofessorinnen und Gastprofessoren, Privatdozentinnen und Privatdozenten und Lehr- und Forschungsbeauftragten, davon zwei Vertreterinnen oder Vertreter des Fachbereichs Medizin und jeweils eine Vertreterin oder ein Vertreter der Fachbereiche Gesundheitswissenschaften und Gesundheitspolitik sowie Rehabilitation,
+- c. fünf Vertreterinnen oder Vertreter der nebenamtlichen Professorinnen und Professoren, Professorinnen und Professoren für medizinische Wissenschaften, Titularprofessorinnen und -professoren, ständigen und nicht ständigen Gastprofessorinnen und Gastprofessoren, Privatdozentinnen und Privatdozenten sowie Lehr- und Forschungsbeauftragten, davon drei Vertreterinnen und Vertreter des Fachbereichs Medizin, eine Vertreterin oder ein Vertreter des Fachbereichs Gesundheitswissenschaften und Gesundheitspolitik und eine Vertreterin oder ein Vertreter des Fachbereichs Rehabilitations- und Funktionsfähigkeitswissenschaften,
 - d. eine Vertreterin oder ein Vertreter der wissenschaftlichen Mitarbeiterinnen und Mitarbeiter,
-- e. zwei Vertreterinnen oder Vertreter der Studierenden mit einem Stimmrecht,
+- e. zwei Vertreterinnen oder Vertreter der Studierenden,
 - f. eine Vertreterin oder ein Vertreter der administrativen und technischen Mitarbeiterinnen und Mitarbeiter.
 
 <sup>2</sup> Die Stimmen der in Absatz 1c bis f genannten Gruppierungen sowie weiterer Stimmberechtigter gemäss Absatz 5 dürfen die Stimmen der in Absatz 1a und b genannten Gruppierungen nicht übersteigen.
