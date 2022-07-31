@@ -4,10 +4,10 @@ number: "415.31"
 title: Verordnung über die Zulassung zum Studium an der Universität Zürich (VZS)
 short: VZS
 language: de
-nachtrag: "104"
-valid_until: 2022-08-01
+version: "2022-08-01"
+nachtrag: "117"
 adopted: 2018-08-27
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_31-2018_08_27-2019_02_01-104.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_31-2018_08_27-2019_02_01-117.html"
 text: pdf
 ---
 
@@ -77,7 +77,7 @@ Die Universitätsleitung erlässt Ausführungsbestimmungen zu dieser Verordnung.
 
 **1**
 
-- 1\. 4. 19 - 104
+- 1\. 7. 22 - 117
 
 <sup>2</sup> Sie gibt Namen, Vornamen, Geburtsdaten, Matrikelnummern, Kontaktdaten, erworbene Titel oder Grade, Studiengänge und Studienprogramme der Absolventinnen und Absolventen den Alumni-Vereinen zur Kontaktaufnahme beim Abschluss jeder Studienstufe bekannt.
 
@@ -97,13 +97,15 @@ Die Universitätsleitung erlässt Ausführungsbestimmungen zu dieser Verordnung.
 
 Die UZH stellt eine digitale Infrastruktur zur Verfügung.
 
-#### § 7
+<sup>2</sup> Vorbehalten ist § 40 a.[^6-1]
 
 **Informationen**
 
-<sup>1</sup> Alle relevanten Informationen werden in geeigneter Weise, insbesondere auf den Webseiten der UZH, verbindlich bekannt gegeben.
+§ 7. <sup>1</sup> Alle relevanten Informationen werden in geeigneter Weise, insbesondere auf den Webseiten der UZH, verbindlich bekannt gegeben.
 
 <sup>2</sup> Die Studienanwärterinnen und Studienanwärter sowie die Studierenden sind verpflichtet, sich über sämtliche relevanten Belange, geltenden Erlasse und Fristen selbstständig zu informieren.
+
+[^6-1]: Eingefügt durch URB vom 28. Februar 2022 (OS 77, 211; ABl 2022-03-18). In Kraft seit 1. August 2022.
 
 #### § 8
 
@@ -165,7 +167,7 @@ Die Zulassung zu einem Bachelor- oder Masterstudienprogramm ist in der Regel nic
 
 **3**
 
-- 1\. 4. 19 - 104
+- 1\. 7. 22 - 117
 
 <sup>2</sup> Für Studienanwärterinnen und Studienanwärter, die an der UZH von einem Doktoratsstudium endgültig abgewiesen wurden, ist die Zulassung zu einem Doktoratsstudium, für das gemäss der jeweiligen Promotionsverordnung oder Doktoratsordnung eine Sperre auferlegt wurde, ausgeschlossen.
 
@@ -241,7 +243,7 @@ Die Zulassung kann für Studiengänge und -programme mit Zulassungsbeschränkung
 
 **5**
 
-- 1\. 4. 19 - 104
+- 1\. 7. 22 - 117
 
 <sup>4</sup> Eine endgültige Abweisung von einem Studienprogramm gemäss Abs. 3 bewirkt eine Sperre für das betreffende Studienprogramm sowie für alle nach Massgabe der Fakultät ähnlichen Studienprogramme auf allen Studienstufen.
 
@@ -331,7 +333,7 @@ Zur Zulassung zu allen Fakultäten berechtigen folgende Ausweise:
 
 **7**
 
-- 1\. 4. 19 - 104
+- 1\. 7. 22 - 117
 
 - e. kantonales Sekundar- oder Bezirkslehrerdiplom,
 
@@ -393,7 +395,7 @@ an einer schweizerischen Universität angeboten wird,
 
 **9**
 
-- 1\. 4. 19 - 104
+- 1\. 7. 22 - 117
 
 <sup>3</sup> Ein Bachelordiplom gemäss Abs. 1 lit. b und d muss an einer staatlich anerkannten universitären Hochschule des betreffenden Hochschulbereichs zur Zulassung zu Studienprogrammen berechtigen, die den an der UZH gewählten Masterstudienprogrammen entsprechen (Studienplatznachweis).
 
@@ -471,7 +473,7 @@ Die Zulassung zum Doktoratsstudium kann mit Bedingungen und/oder Auflagen gemäs
 
 **11**
 
-- 1\. 4. 19 - 104 § 37. Studienanwärterinnen und Studienanwärter mit herausragender Qualifikation, aber ohne Abschluss gemäss § 33, können mit Zustimmung der zuständigen Fakultät zum Doktoratsstudium zugelassen werden, sofern folgende Gutachten vorliegen:
+- 1\. 7. 22 - 117 § 37. Studienanwärterinnen und Studienanwärter mit herausragender Qualifikation, aber ohne Abschluss gemäss § 33, können mit Zustimmung der zuständigen Fakultät zum Doktoratsstudium zugelassen werden, sofern folgende Gutachten vorliegen:
 
 **Herausragende Qualifikation**
 
@@ -523,6 +525,16 @@ Die Immatrikulation verpflichtet insbesondere,
 
 - e. die administrativen Vorgänge wie Modulbuchung, Studiengangs- und -programmwechsel und Anmeldung zum Abschluss fristgerecht über die digitale Infrastruktur vorzunehmen.
 
+**Pflicht zur Beibringung von Hilfsmitteln**
+
+§ 40 a.[^40-1] <sup>1</sup> Die Studierenden sind verpflichtet, die notwendigen Hilfsmittel für ihr Studium beizubringen.
+
+<sup>2</sup> Sie haben insbesondere geeignete elektronische Endgeräte beizubringen und diese mit der notwendigen Hard- und Software auszustatten.
+
+<sup>3</sup> Bei online durchgeführten Lehrveranstaltungen und Leistungsnachweisen ohne Präsenzpflicht sorgen die Studierenden für eine stabile und ausreichend leistungsfähige Internetverbindung.
+
+[^40-1]: Eingefügt durch URB vom 28. Februar 2022 (OS 77, 211; ABl 2022-03-18). In Kraft seit 1. August 2022.
+
 #### § 41
 
 **Immatrikulationsobligatorium**
@@ -557,6 +569,10 @@ Die Immatrikulation verpflichtet insbesondere,
 
 <sup>1</sup> Studierende im Bachelor-, Master- oder Lehrdiplomstudium sowie Doktorierende können in der Regel nicht gleichzeitig an mehreren Hochschulen immatrikuliert sein.
 
+**13**
+
+- 1\. 7. 22 - 117
+
 <sup>2</sup> Ausnahmen bedürfen der Bewilligung durch die Abteilung Studierende und die zuständige Fakultät.
 
 #### § 45
@@ -568,10 +584,6 @@ Die Immatrikulation verpflichtet insbesondere,
 - a. Krankheit,
 
 - b. Unfall,
-
-**13**
-
-- 1\. 4. 19 - 104
 
 - c. Mutterschaft,
 
@@ -592,6 +604,19 @@ Die Immatrikulation verpflichtet insbesondere,
 <sup>5</sup> Während des Urlaubs bleiben die Studierenden immatrikuliert, sind jedoch in dieser Zeit nicht berechtigt, Module zu buchen, ECTS Credits zu erwerben und sich für den Abschluss anzumelden.
 
 <sup>6</sup> Es sind keine Studiengebühren zu entrichten.
+
+**Reguläre und erhöhte Studiengebühren**
+
+§ 45 a.[^45-1] <sup>1</sup> Studierende auf Bachelor- und Masterstufe haben in den ersten zwölf Semestern der jeweiligen Studienstufe die reguläre Studiengebühr gemäss Verordnung über die Studiengebühren an der Universität Zürich vom 28. Februar 2022[^45-2] zu entrichten.
+
+<sup>2</sup> Die Zählung beginnt im Semester der erstmaligen Immatrikulation auf der jeweiligen Studienstufe und endet bei Abschluss der Studienstufe. Bei einer Exmatrikulation und einem gewährten Urlaub ruht die Zählung.
+
+<sup>3</sup> Wird die Studiendauer gemäss Abs. 1 überschritten, ist die erhöhte Studiengebühr gemäss Verordnung über die Studiengebühren an der Universität Zürich vom 28. Februar 2022[^45-2] zu entrichten.
+
+<sup>4</sup> Bei Vorliegen wichtiger Gründe kann auf Antrag eine Verlängerung der Studiendauer, für welche die reguläre Studiengebühr zu entrichten ist, gewährt werden. Verlängerungen können mehrfach gewährt werden.
+
+[^45-1]: Eingefügt durch URB vom 28. Februar 2022 (OS 77, 211; ABl 2022-03-18). In Kraft seit 1. August 2022.
+[^45-2]: LS 415.321.
 
 #### § 46
 
@@ -631,9 +656,7 @@ Studierende können die Exmatrikulation auf Ende eines Semesters beantragen.
 
 Die Exmatrikulation durch die UZH wird vorgenommen:
 
-- a. nach Beendigung eines Weiterbildungsstudiengangs gemäss § 59, eines besonderen Programms und nach Ablauf eines Mobilitätsaufenthalts von Studierenden anderer Hochschulen,
-
-- b. als Folge einer endgültigen Abweisung aus einem Studiengang oder Studienprogramm, sofern der oder die betreffende Studierende keinen entsprechenden Wechsel gemäss § 46 beantragt hat,
+- a. nach Beendigung eines Weiterbildungsstudiengangs gemäss § 59, eines besonderen Programms und nach Ablauf eines Mobilitätsaufenthalts von Studierenden anderer Hochschulen, a.<sup>bis9</sup> nach Abschluss eines Bachelor-, Master-, Lehrdiplom- oder Doktoratsstudiengangs, sofern die oder der betreffende Studierende für das Semester, das dem Abschluss folgt, keinen Studiengangs- oder Studienprogrammwechsel gemäss § 46 beantragt hat, b.[^50-1] als Folge einer endgültigen Abweisung aus einem Studiengang oder Studienprogramm, sofern die oder der betreffende Studierende keinen Studiengangs- oder Studienprogrammwechsel gemäss § 46 beantragt hat,
 
 - c. als Folge eines von der zuständigen Fakultät verfügten Exmatrikulationsgrunds bei einem Doktoratsstudium, sofern keine Immatrikulation in einem anderen Studiengang vorliegt,
 
@@ -641,11 +664,16 @@ Die Exmatrikulation durch die UZH wird vorgenommen:
 
 - e. als Folge eines von den Disziplinarorganen verfügten Ausschlusses von der UZH,
 
-- f. als Folge eines Beschlusses der Universitätsleitung gemäss Reglement zum Schutz vor sexueller Belästigung an der Universität Zürich[^50-1],
+**15**
+
+- 1\. 7. 22 - 117
+
+- f. als Folge eines Beschlusses der Universitätsleitung gemäss Reglement zum Schutz vor sexueller Belästigung an der Universität Zürich[^50-2],
 
 - g. als Folge eines Beschlusses der Universitätsleitung wegen Studierunfähigkeit.
 
-[^50-1]: LS 415.116.
+[^50-1]: Fassung gemäss URB vom 28. Februar 2022 (OS 77, 211; ABl 2022-03-18). In Kraft seit 1. August 2022. 1. 7. 22 - 117 19
+[^50-2]: LS 415.116.
 
 ### 4. Teil: Studierende anderer Hochschulen an der UZH
 
@@ -667,15 +695,11 @@ Die Exmatrikulation durch die UZH wird vorgenommen:
 
 <sup>2</sup> Bezahlen sie an der anderen Hochschule die vollen Studiengebühren, sind an der UZH keine Studiengebühren zu entrichten.
 
-**15**
-
-- 1\. 4. 19 - 104 § 53. <sup>1</sup> Studierende, die an einer staatlich anerkannten ausländischen universitären Hochschule immatrikuliert sind, können an der UZH im Rahmen eines selbstorganisierten Aufenthalts als Gaststudierende zugelassen werden, wenn sie
+#### § 53
 
 **Gaststudierende**
 
-- a. an der Heimuniversität auf der Bachelor-, Master- oder Doktoratsstufe studieren und
-
-- b. die zuständige Fakultät zustimmt.
+<sup>1</sup> Studierende, die an einer staatlich anerkannten ausländischen universitären Hochschule immatrikuliert sind, können an der UZH im Rahmen eines selbstorganisierten Aufenthalts als Gaststudierende zugelassen werden, wenn sie a. an der Heimuniversität auf der Bachelor-, Master- oder Doktoratsstufe studieren und b. die zuständige Fakultät zustimmt.
 
 <sup>2</sup> Die Zulassung wird auf die entsprechende Studienstufe erteilt.
 
@@ -731,11 +755,15 @@ Für Kurzprogramme richten sich die Zulassungsvoraussetzungen, das Zulassungsver
 
 <sup>2</sup> Mit der Immatrikulation in den Weiterbildungsstudiengang verpflichten sie sich grundsätzlich zur Bezahlung des gesamten vorgesehenen Betrages.
 
-#### § 59
+**17**
+
+- 1\. 7. 22 - 117 § 59. <sup>1</sup> Die Exmatrikulation erfolgt
 
 **Exmatrikulation**
 
-<sup>1</sup> Die Exmatrikulation erfolgt a. mit dem Abschluss des Weiterbildungsstudiengangs oder b. dem definitiven Ausschluss vom Weiterbildungsstudiengang.
+- a. mit dem Abschluss des Weiterbildungsstudiengangs oder
+
+- b. dem definitiven Ausschluss vom Weiterbildungsstudiengang.
 
 <sup>2</sup> Die Leitung des Weiterbildungsstudiengangs teilt der zuständigen Stelle der UZH den Abschluss oder den definitiven Ausschluss mit.
 
@@ -765,13 +793,13 @@ Für Kurzprogramme richten sich die Zulassungsvoraussetzungen, das Zulassungsver
 
 <sup>2</sup> Von Auditorinnen und Auditoren erbrachte Studienleistungen werden für ein Studium nicht angerechnet.
 
-**17**
+[^62-1]: LS 415.321.
 
-- 1\. 4. 19 - 104 § 63. Die Gebühren für Auditorinnen und Auditoren richten sich nach der Verordnung über die Studiengebühren an der Universität Zürich[^62-1].
+#### § 63
 
 **Gebühren**
 
-[^62-1]: LS 415.321.
+Die Gebühren für Auditorinnen und Auditoren richten sich nach der Verordnung über die Studiengebühren an der Universität Zürich[^62-1].
 
 ### 8. Teil: Rechtsschutz
 
@@ -798,3 +826,7 @@ Für Kurzprogramme richten sich die Zulassungsvoraussetzungen, das Zulassungsver
 <sup>3</sup> Auf am 1. Februar 2019 bereits immatrikulierte Studierende finden unter Vorbehalt von Abs. 2 die Bestimmungen dieser Verordnung Anwendung.
 
 <sup>4</sup> Diese Verordnung geht den jeweiligen am 1. Februar 2019 gültigen Rahmenverordnungen für das Studium in den Bachelor- und Masterstudiengängen vor. Für die in dieser Verordnung nicht geregelten Bereiche gelten weiterhin die jeweiligen am 1. Februar 2019 gültigen Rahmenverordnungen für das Studium in den Bachelor- und Masterstudiengängen.
+
+<sup>5</sup> Die Zählung gemäss § 45 a Abs. 2 beginnt erstmalig für alle Studierenden zu Beginn des Herbstsemesters 2022 am 1. August 2022.[^65-1]
+
+[^65-1]: Eingefügt durch URB vom 28. Februar 2022 (OS 77, 211; ABl 2022-03-18). In Kraft seit 1. August 2022.
