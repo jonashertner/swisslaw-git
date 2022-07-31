@@ -3,20 +3,20 @@ canton: AG
 number: "426.123"
 title: Verordnung über das gestalterische Propädeutikum
 language: de
-version: 2020-05-01
-valid_until: 2022-07-31
-version_adopted: 2020-03-18
+version: 2022-08-01
+valid_until: 2024-06-30
+version_adopted: 2021-10-27
 adopted: 2017-05-03
 in_force: 2017-08-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/426.123"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2841/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3182/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das gestalterische Propädeutikum
 
-Vom 03.05.2017 (Stand 01.05.2020)
+Vom 03.05.2017 (Stand 01.08.2022)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -34,7 +34,7 @@ beschliesst:
 
 **Ausbildungsziel**
 
-<sup>1</sup> Das gestalterische Propädeutikum bezweckt, Schülerinnen und Schülern des Fachmaturitätslehrgangs Gestaltung den Zugang an Hochschulen für Gestaltung und Kunst zu ermöglichen.
+<sup>1</sup> Das gestalterische Propädeutikum bezweckt, Schülerinnen und Schülern des Fachmaturitätslehrgangs Gestaltung und Kunst den Zugang an Hochschulen für Gestaltung und Kunst zu ermöglichen.
 
 #### § 2
 
@@ -56,7 +56,7 @@ beschliesst:
 
 **Aufnahme**
 
-<sup>1</sup> In das gestalterische Propädeutikum wird aufgenommen, wer über einen Fachmittelschulausweis im Berufsfeld Erziehung und Gestaltung verfügt und das zweistufige Aufnahmeverfahren erfolgreich durchlaufen hat.
+<sup>1</sup> In das gestalterische Propädeutikum wird aufgenommen, wer über einen Fachmittelschulausweis im Berufsfeld Gestaltung und Kunst verfügt und das zweistufige Aufnahmeverfahren erfolgreich durchlaufen hat.
 
 #### § 5
 
@@ -157,6 +157,12 @@ beschliesst:
 **Inkrafttreten**
 
 <sup>1</sup> Diese Verordnung tritt am 1. August 2017 in Kraft.
+
+#### § 17
+
+**Übergangsbestimmung**
+
+<sup>1</sup> Schülerinnen und Schüler, die den Fachmittelschulausweis im Berufsfeld Erziehung und Gestaltung im Schuljahr 2021/22 oder zuvor erworben haben, werden in das gestalterische Propädeutikum aufgenommen, wenn sie das zweistufige Aufnahmeverfahren erfolgreich durchlaufen haben.
 
 Aarau, 3. Mai 2017
 
