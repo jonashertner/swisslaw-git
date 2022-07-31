@@ -4,13 +4,13 @@ number: "143.4"
 title: Ergänzende Verordnung über das Arbeitsverhältnis der Mittelschul-Lehrpersonen
 short: EVA-MS
 language: de
-version: 2017-08-01
-corrected: 2021-05-04
-version_adopted: 2016-10-25
+version: 2022-08-01
+valid_until: 2023-07-31
+version_adopted: 2022-06-28
 adopted: 2004-06-15
 in_force: 2004-08-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/143.4"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2210/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3388/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2210/pdf_file"
 
 (EVA-MS)
 
-vom 15.06.2004 (Stand 01.08.2017)
+vom 15.06.2004 (Stand 01.08.2022)
 
 Die Regierung des Kantons St.Gallen
 
@@ -191,8 +191,8 @@ als Verordnung:[^ingress-2]
 <sup>1</sup> Der Unterricht je Jahreswochenlektion wird im Lehrauftrag angerechnet mit:
 
 - a) in wissenschaftlichen Fächern: 4,09 Stellenprozenten;
-- b) in Chorgesang, Gestalten, Werken und berufskundlichen Fächern: 3,76 Stellenprozenten;
-- c) in Sport: 3,48 Stellenprozenten;
+- b) in Chorgesang, Gestalten, Werken, berufskundlichen Fächern und Sport: 3,76 Stellenprozenten;
+- c) …
 - d) in Instrumentalunterricht: 3,36 Stellenprozenten.
 
 #### Art. 14c
@@ -303,10 +303,12 @@ als Verordnung:[^ingress-2]
 - a) dem Gehalt einer Lehrperson;
 - b) der Funktionszulage.
 
-<sup>2</sup> Als jährliche Funktionszulage erhalten:
+<sup>2</sup> Als jährliche Funktionszulage erhalten:[^20-1]
 
 - 1\. die Rektorin oder der Rektor der Kantonsschule am Burggraben St.Gallen: Fr. 33 385.–
 - 2\. die Rektorinnen oder Rektoren der übrigen Kantonsschulen: Fr. 29 380.–
+
+[^20-1]: Ausgeglichener Indexstand vom November 2002 mit 102,3 Punkten (Basis Mai 2000 = 100 Indexpunkte).
 
 #### Art. 21
 
