@@ -3,20 +3,20 @@ canton: LU
 number: "409"
 title: Verordnung über die Sonderschulung
 language: de
-version: 2021-02-01
-valid_until: 2022-07-31
-version_adopted: 2020-12-15
+version: 2022-08-01
+valid_until: 2025-12-31
+version_adopted: 2022-01-04
 adopted: 2007-12-11
 in_force: 2008-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/409"
-pdf: "https://srl.lu.ch/api/de/versions/3699/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3935/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Sonderschulung
 
-vom 11.12.2007 (Stand 01.02.2021)
+vom 11.12.2007 (Stand 01.08.2022)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -36,7 +36,7 @@ beschliesst:
 
 <sup>1</sup> Als Sonderschulung gelten
 
-- a. heilpädagogische Früherziehung,
+- a. heilpädagogische Früherziehung sowie Betreuung und Förderung von Kindern mit Behinderung in familienergänzenden Betreuungsangeboten (KITAplus),
 - b. Unterricht und pädagogisch-therapeutische Massnahmen in Sonderschulen,
 - c. integrative Sonderschulung und pädagogisch-therapeutische Massnahmen in Regelklassen,
 - d. sonderpädagogischer Einzelunterricht und psychotherapeutische Massnahmen.
@@ -152,6 +152,8 @@ beschliesst:
 **Heilpädagogische Früherziehung**
 
 <sup>1</sup> Heilpädagogische Früherziehung dient der Frühförderung von Kindern mit einer bestehenden oder drohenden Behinderung von Geburt bis zum Eintritt in den Kindergarten beziehungsweise in die Basisstufe. Die heilpädagogische Früherziehung sowie die Förderung und Unterstützung von Kindern mit Behinderung in den Bereichen Hören und Sehen werden von der Fachstelle für Früherziehung und Integrative Sonderschulung angeboten.
+
+<sup>1<sup>bis</sup></sup> Die Fachstelle berät Fachpersonen bei der Betreuung und Förderung von Kindern mit Behinderung in familienergänzenden Betreuungsangeboten (KITAplus).
 
 <sup>2</sup> …
 
@@ -286,7 +288,7 @@ beschliesst:
 
 <sup>4<sup>bis</sup></sup> Beim nachobligatorischen Überbrückungsangebot werden 10 Prozent der zur Verfügung stehenden Lektionen abgezogen.
 
-<sup>5</sup> Die Dienststelle Volksschulbildung kann für betreuungsintensive Lernende im Einzelfall zusätzliche Pensen bewilligen.
+<sup>5</sup> Die Dienststelle Volksschulbildung kann für betreuungsintensive Lernende pauschal zusätzliche Pensen bewilligen. Im Bereich Körper, Motorik, Gesundheit sowie im Bereich Sprachentwicklung kann sie im Einzelfall zusätzliche Pensen bewilligen.
 
 ## 6 Rahmenbedingungen bei integrativer Sonderschulung
 
@@ -359,6 +361,12 @@ beschliesst:
 <sup>2</sup> Sind für die Einhaltung der maximalen Klassengrösse besondere Massnahmen notwendig, wird eine zusätzliche Pauschale bis zur Höhe von zwei Lektionen ausgerichtet.
 
 <sup>3</sup> Wird die maximale Klassengrösse überschritten, wird pro Kind eine zusätzliche Lektion abgegolten. Es werden maximal 4 Lektionen entschädigt.
+
+#### § 30b
+
+**Beiträge für die familienergänzenden Betreuungsangebote**
+
+<sup>1</sup> Kanton und Gemeinden bezahlen je hälftig die behinderungsbedingten Mehrkosten für die Betreuung von Kindern in familienergänzenden Betreuungsangeboten (KITAplus) sowie die Kosten der Beratung der Fachpersonen in solchen Betreuungsangeboten. Die Aufteilung des Gemeindebeitrages richtet sich nach § 29.
 
 #### § 31
 
