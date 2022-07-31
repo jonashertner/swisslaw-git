@@ -4,13 +4,13 @@ number: 439.14-1
 title: Regionales Schulabkommen über die gegenseitige Aufnahme von Auszubildenden und Ausrichtung von Beiträgen
 short: RSA 2009
 language: de
-version: 2021-08-01
-valid_until: 2022-07-31
-version_adopted: 2021-04-15
+version: 2022-08-01
+valid_until: 2023-07-31
+version_adopted: 2022-04-12
 adopted: 2007-11-23
 in_force: 2010-06-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/439.14-1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2286/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2606/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2286/pdf_file"
 
 (RSA 2009)
 
-vom 23.11.2007 (Stand 01.08.2021)
+vom 23.11.2007 (Stand 01.08.2022)
 
 Zwischen den Kantonen Aargau, Basel-Landschaft, Basel-Stadt, Bern, Freiburg, Luzern, Solothurn, Wallis und Zürich, nachfolgend Abkommenskantone genannt, wird folgendes Abkommen getroffen:
 
@@ -448,6 +448,24 @@ Kasernenstrasse 27
 Sie ist auch auf Internet verfügbar unter:
 
 [http://www.nwedk.ch/node/261](http://www.nwedk.ch/node/261)
+
+#### Art. A2-8
+
+<sup>1</sup> Die Änderung vom 12. April 2022 des Anhangs II des RSA 2009 wird nur in Form eines Verweises publiziert.
+
+Sie kann bei folgender Stelle bezogen werden:
+
+Bildungs- und Kulturdirektion des Kantons Bern
+
+Mittelschul- und Berufsbildungsamt
+
+Kasernenstrasse 27
+
+3000 Bern 22
+
+Sie ist auch auf Internet verfügbar unter:
+
+[http://www.nwedk.ch/node/262](http://www.nwedk.ch/node/262)
 
 Aarau , 23. November 2007
 
