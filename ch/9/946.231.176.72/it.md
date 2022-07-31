@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordinanza del 4 marzo 2022 che istituisce provvedimenti in relazione alla situazione in Ucraina
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: it
-version: 2022-07-29
+version: 2022-08-01
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20220729/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20220729-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20220729/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20220801/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20220801-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20220801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti in relazione alla situazione in Ucraina
 
-del 4 marzo 2022 (Stato 29 luglio 2022)
+del 4 marzo 2022 (Stato 1° agosto 2022)
 
 Il Consiglio federale svizzero,
 
@@ -862,7 +862,7 @@ Il divieto di cui al capoverso 1 non si applica:
 - d. persone giuridiche, imprese od organizzazioni sotto il controllo di una persona fisica o giuridica, un’impresa o un’organizzazione di cui alle lettere a, b o c;
 - e. persone giuridiche, imprese od organizzazioni che agiscono per conto di una persona fisica o giuridica, un’impresa o un’organizzazione di cui alle lettere a, b, c o d.
 
-<sup>2</sup> ...[^28d-2]
+<sup>2</sup> È vietato agire, o provvedere affinché un’altra persona agisca, in qualità di trustee, azionista fiduciario (nominee shareholder), amministratore, segretario generale (secretary) o in funzione analoga, per un trust o un istituto giuridico affine di cui al capoverso 1.[^28d-2]
 
 <sup>3</sup> I divieti di cui ai capoversi 1 e 2 non si applicano quando il trustor o il beneficiario è un cittadino svizzero o di uno Stato membro dello SEE o una persona fisica titolare di un permesso di soggiorno temporaneo o permanente in Svizzera in uno Stato membro dello SEE.
 
@@ -874,9 +874,17 @@ D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare
 - b. attività della società civile che promuovono direttamente la democrazia, i diritti umani o lo Stato di diritto nella Federazione Russa;
 - c.[^28d-3] la gestione di un trust o di istituti giuridici affini il cui scopo è amministrare fondi della previdenza professionale, contratti di assicurazione o piani di azionariato per i dipendenti oppure organizzazioni di utilità pubblica, club sportivi amatoriali o fondi per minorenni e adulti vulnerabili.
 
+<sup>5</sup>
+
+D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare deroghe al divieto di cui al capoverso 2 per consentire la prosecuzione di questi servizi per i seguenti motivi:
+
+- a. effettuare le transazioni necessarie per porre fine ai contratti stipulati prima del 28 aprile 2022 incompatibili con il presente articolo, purché tali transazioni siano state avviate prima del 30 maggio 2022 e concluse entro il 1° ottobre 2022;
+- b. per motivi diversi da quelli di cui alla lettera a, purché i prestatori di servizi non accettino direttamente o indirettamente averi o risorse economiche da parte delle persone di cui al capoverso 1, non li mettano loro a disposizione o non procurino loro altri vantaggi derivanti dai valori patrimoniali collocati in un trust o in un istituto giuridico affine.[^28d-4]
+
 [^28d-1]: Introdotto dal n. I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00, il cpv. 2 entra in vigore il 29 mag. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 [^28d-2]: Abrogato temporanemente dal n. I dell’O del 29 giu. 2022, con effetto dal 29 giu. 2022 alle ore 18.00 al 31 lug. 2022 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
 [^28d-3]: Introdotta dal n. I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
+[^28d-4]: Introdotto dal n. I dell’O del 29 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
 
 #### Art. 28e
 
@@ -1101,7 +1109,7 @@ Allegato 1*[^t-1]*
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Aggiornato dai n. II cpv. 1 delle O del 25 mar. 2022 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)), del 27 apr. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)), dai n. I cpv. 1 delle O del DEFR del 10 giu. 2022 ([RU 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)) e del 28 lug. 2022, in vigore dal 29 lug. 2022 alle ore 18.00 ([RU 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)).
+[^t-1]: Aggiornato dai n. II cpv. 1 delle O del 25 mar. 2022 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)), del 27 apr. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)) dai n. I cpv. 1 delle O del DEFR del 10 giu. 2022 ([RU 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)) e del 28 lug. 2022, in vigore dal 29 lug. 2022 alle ore 18.00 ([RU 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)).
 [^annex1-lvlu1-1]: Questo allegato non è pubblicato né nella RU né nella RS. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 2*[^t-2]*
@@ -1403,7 +1411,7 @@ Allegato 8*[^t-5]*
 
 [^annex8-lvlu1-1]
 
-[^t-5]: Aggiornato dai n. I delle O del DEFR del 16 mar. ([RU 2022 173](https://fedlex.data.admin.ch/eli/oc/2022/173)), del 13 apr. 2022 ([RU 2022 237](https://fedlex.data.admin.ch/eli/oc/2022/237)), del 3 mag. 2022 ([RU 2022 270](https://fedlex.data.admin.ch/eli/oc/2022/270)), dai n. I cpv. 1 delle O del DEFR del 10 giu. 2022 ([RU 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)) e del 28 lug. 2022, in vigore dal 29 lug. 2022 alle ore 18.00 ([RU 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)).
+[^t-5]: Aggiornato dai n. I delle O del DEFR del 16 mar. ([RU 2022 173](https://fedlex.data.admin.ch/eli/oc/2022/173)), del 13 apr. 2022 ([RU 2022 237](https://fedlex.data.admin.ch/eli/oc/2022/237)), del 3 mag. 2022 ([RU 2022 270](https://fedlex.data.admin.ch/eli/oc/2022/270)) dai n. I cpv. 1 delle O del DEFR del 10 giu. 2022 ([RU 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)) e del 28 lug. 2022, in vigore dal 29 lug. 2022 alle ore 18.00 ([RU 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)).
 [^annex8-lvlu1-1]: Questo allegato non è pubblicato né nella RU né nella RS. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 9

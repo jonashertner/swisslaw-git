@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordonnance du 4 mars 2022 instituant des mesures en lien avec la situation en Ukraine
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: fr
-version: 2022-07-29
+version: 2022-08-01
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20220729/fr/xml/fedlex-data-admin-ch-eli-cc-2022-151-20220729-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20220729/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20220801/fr/xml/fedlex-data-admin-ch-eli-cc-2022-151-20220801-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20220801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures en lien avec la situation en Ukraine
 
-du 4 mars 2022 (Etat le 29 juillet 2022)
+du 4 mars 2022 (Etat le 1<sup>er</sup> août 2022)
 
 Le Conseil fédéral suisse,
 
@@ -589,7 +589,7 @@ L’aide à l’émission, le négoce, ou la prestation de services d’investis
 
 <sup>1</sup> L’octroi direct ou indirect de prêts dont l’échéance est supérieure à 30 jours est interdit lorsque le bénéficiaire est visé à l’art. 18, al. 1 ou 3, après le 12 novembre 2014 et jusqu’au 5 mars 2022.
 
-<sup>2</sup> L’octroi direct ou indirect de prêts est interdit lorsque le bénéficiaire est visé à l’art. 18 al. 1 à 3, après le 5 mars 2022
+<sup>2</sup> L’octroi direct ou indirect de prêts est interdit lorsque le bénéficiaire est visé à l’art. 18 al. 1 à 3, après le 5 mars 2022.
 
 <sup>3</sup>
 
@@ -862,7 +862,7 @@ L’enregistrement d’un trust ou d’une autre institution juridique similaire
 - d. une personne morale, une entreprise ou une entité contrôlée par une personne physique, une personne morale, une entreprise ou une entité visée aux let. a à c;
 - e. une personne morale, une entreprise ou une entité agissant pour le compte ou selon les instructions d’une personne physique, d’une personne morale, d’une entreprise ou d’une entité visée aux let. a à d.
 
-<sup>2</sup> ...[^28d-2]
+<sup>2</sup> Il est interdit d’agir en qualité de trustee, d’actionnaire désigné, d’administrateur, de secrétaire ou dans une fonction similaire, pour un trust ou une institution juridique similaire visée à l’al. 1, ou de faire en sorte qu’une autre personne agisse en qualité de trustee, d’actionnaire désigné, d’administrateur, de secrétaire ou dans une fonction similaire.[^28d-2]
 
 <sup>3</sup> Les interdictions visées aux al. 1 et 2 ne s’appliquent pas lorsque le constituant ou le bénéficiaire est un ressortissant suisse ou un ressortissant d’un État membre de l’EEE ou qu’il est titulaire d’un titre de séjour temporaire ou permanent en Suisse ou dans un État membre de l’EEE.
 
@@ -874,9 +874,17 @@ Le SECO peut, après avoir consulté les services compétents du DFAE et du DFF,
 - b. des activités de la société civile qui promeuvent directement la démocratie, les droits de l’homme ou l’État de droit en Fédération de Russie;
 - c.[^28d-3] le fonctionnement d’un trust ou d’une forme juridique similaire ayant pour objet la gestion de fonds de la prévoyance professionnelle, de contrats d’assurance ou de régimes de participation des salariés, ou le fonctionnement d’organisations d’utilité publique, de clubs sportifs amateurs et de fonds pour mineurs ou adultes vulnérables.
 
-[^28d-1]: Introduit par le ch. I de l’O du 27 avr. 2022, en vigueur depuis le 27 avr. 2022 à 18 heures ([RO 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+<sup>5</sup>
+
+Le SECO peut, après avoir consulté les services compétents du DFAE et du DFF, autoriser des dérogations à l’interdiction prévue à l’al. 2 pour permettre la poursuite de ces services:
+
+- a. aux fins de l’achèvement au plus tard le 1<sup>er</sup> octobre 2022 des opérations nécessaires à la résiliation des contrats non conformes au présent article conclus avant le 28 avril 2022, à condition que ces opérations aient été entamées avant le 30 mai 2022;
+- b. pour d’autres raisons que celle mentionnée à la let. a, à condition que les prestataires de services n’acceptent pas, directement ou indirectement, d’avoirs ni de ressources économiques de personnes visées à l’al. 1, ne mettent pas à la disposition de ces personnes, directement ou indirectement, de tels avoirs ou ressources économiques, ou ne leur procurent pas un quelconque avantage provenant d’actifs placés dans un trust ou une forme juridique similaire.[^28d-4]
+
+[^28d-1]: Introduit par le ch. I de l’O du 27 avr. 2022, en vigueur depuis le 27 avr. 2022 à 18 heures, sous réserve de l’al. 2, en vigueur depuis le 29 mai 2022 ([RO 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 [^28d-2]: Abrogé temporairement par le ch. I de l’O du 29 juin 2022, avec effet du 29 juin 2022 à 18 heures jusqu’au 31 juil. 2022 ([RO 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
 [^28d-3]: Introduite par le ch. I de l’O du 29 juin 2022, en vigueur depuis le 29 juin 2022 à 18 heures ([RO 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
+[^28d-4]: Introduit par le ch. I de l’O du 29 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
 
 #### Art. 28e
 

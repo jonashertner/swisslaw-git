@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Verordnung vom 4. März 2022 über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: de
-version: 2022-07-29
+version: 2022-08-01
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20220729/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20220729-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20220729/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20220801/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20220801-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20220801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 
-vom 4. März 2022 (Stand am 29. Juli 2022)
+vom 4. März 2022 (Stand am 1. August 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -866,7 +866,7 @@ Die Errichtung eines Trusts oder einer ähnlichen Rechtsform und die Bereitstell
 - d. juristische Personen, Unternehmen oder Organisationen, die von einer der natürlichen oder juristischen Personen, Unternehmen oder Organisationen nach den Buchstaben a–c kontrolliert werden;
 - e. juristische Personen, Unternehmen oder Organisationen, die für eine natürliche oder juristische Person, ein Unternehmen oder eine Organisation nach den Buchstaben a–d handeln.
 
-<sup>2</sup> …[^28d-2]
+<sup>2</sup> Es ist verboten, als Treuhänder, nomineller Anteilseigner, Geschäftsführer, Sekretär oder in einer ähnlichen Funktion für einen Trust oder ähnliche Rechtsform nach Absatz 1 zu handeln oder dies einer anderen Person zu ermöglichen.[^28d-2]
 
 <sup>3</sup> Die Verbote nach den Absätzen 1 und 2 gelten nicht, wenn die Begründer oder Begünstigten Schweizer Staatsangehörige oder Staatsangehörige eines EWR-Mitgliedstaates sind oder über einen befristeten oder unbefristeten Aufenthaltstitel in der Schweiz oder einem EWR-Mitgliedstaat verfügen.
 
@@ -876,11 +876,19 @@ Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD
 
 - a. humanitäre Aktivitäten wie die Durchführung oder die Erleichterung von Hilfsleistungen, einschliesslich der Versorgung mit medizinischen Hilfsgütern und Nahrungsmitteln, des Transports humanitärer Helferinnen und Helfer und damit verbundener Hilfe oder Evakuierungen;
 - b. zivilgesellschaftliche Aktivitäten zur direkten Förderung der Demokratie, der Menschenrechte oder der Rechtsstaatlichkeit in der Russischen Föderation; oder
-- c. den Betrieb von Trusts oder ähnlichen Rechtsformen, deren Zweck die Verwaltung von Mitteln der beruflichen Vorsorge, Versicherungsverträgen oder Belegschaftsaktienprogrammen oder von gemeinnützigen Organisationen, Amateursportvereinen oder Fonds für Minderjährige oder vulnerable Erwachsene ist.[^28d-3]
+- c.[^28d-3] den Betrieb von Trusts oder ähnlichen Rechtsformen, deren Zweck die Verwaltung von Mitteln der beruflichen Vorsorge, Versicherungsverträgen oder Belegschaftsaktienprogrammen oder von gemeinnützigen Organisationen, Amateursportvereinen oder Fonds für Minderjährige oder vulnerable Erwachsene ist.
+
+<sup>5</sup>
+
+Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD Ausnahmen vom Verbot nach Absatz 2 bewilligen, um die Fortsetzung dieser Dienstleistungen aus den folgenden Gründen zu ermöglichen:
+
+- a. zum Abschluss von Transaktionen, die erforderlich sind für die Beendigung der mit diesem Artikel nicht vereinbaren und vor dem 28. April 2022 abgeschlossenen Verträge, sofern diese Transaktionen vor dem 30. Mai 2022 eingeleitet wurden und bis zum 1. Oktober 2022 abgeschlossen sind;
+- b. aus anderen Gründen als demjenigen nach Buchstabe a, sofern die Dienstleister von den Personen nach Absatz 1 weder direkt noch indirekt Gelder oder wirtschaftliche Ressourcen entgegennehmen, diesen zur Verfügung stellen oder diesen anderweitig Vorteile aus den in einem Trust oder in einer ähnlichen Rechtsform platzierten Vermögenswerten verschaffen.[^28d-4]
 
 [^28d-1]: Eingefügt durch Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr, Abs. 2 seit 29. Mai 2022 ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 [^28d-2]: Temporär aufgehoben durch Ziff. I der V vom 29. Juni 2022, mit Wirkung vom 29. Juni 2022 um 18.00 Uhr bis zum 31. Juli 2022 ([AS 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
 [^28d-3]: Eingefügt durch Ziff. I der V vom 29. Juni 2022, in Kraft seit 29. Juni 2022 um 18.00 Uhr ([AS 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
+[^28d-4]: Eingefügt durch Ziff. I der V vom 29. Juni 2022, in Kraft seit 1. Aug. 2022 ([AS 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
 
 #### Art. 28e
 
