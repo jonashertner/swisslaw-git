@@ -4,13 +4,13 @@ number: "963.73"
 title: Prüfungs- und Bewilligungsreglement für Rechtsanwälte und Rechtsagenten
 short: PBR
 language: de
-version: 2010-11-18
-valid_until: 2022-07-31
-version_adopted: 2010-11-18
+version: 2022-08-01
+valid_until: 2026-06-30
+version_adopted: 2022-06-13
 adopted: 1994-04-22
 in_force: 1994-07-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/963.73"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/553/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3374/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/553/pdf_file"
 
 (PBR)
 
-vom 22.04.1994 (Stand 18.11.2010)
+vom 22.04.1994 (Stand 01.08.2022)
 
 Das Kantonsgericht des Kantons St.Gallen
 
@@ -171,7 +171,7 @@ als Reglement:[^ingress-2]
 
 <sup>2</sup> Für die Bearbeitung stehen die einschlägigen Gesetze sowie nach Ermessen des Präsidenten der Prüfungskommission Literatur und Judikatur zur Verfügung.
 
-<sup>3</sup> Die schriftlichen Arbeiten werden von wenigstens fünf Mitgliedern der Prüfungskommission beurteilt.
+<sup>3</sup> Die schriftlichen Arbeiten werden von drei Mitgliedern der Prüfungskommission beurteilt.
 
 #### Art. 14
 
