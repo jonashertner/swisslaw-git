@@ -4,13 +4,13 @@ number: "453.163"
 title: Verordnung über den Vorkurs Pädagogik
 short: V Vorkurs Pädagogik
 language: de
-version: 2021-08-01
-valid_until: 2022-07-31
-version_adopted: 2021-05-05
+version: 2022-08-01
+valid_until: 2023-07-31
+version_adopted: 2022-05-04
 adopted: 2003-05-21
 in_force: 2003-08-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/453.163"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2992/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3217/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2992/pdf_file"
 
 (V Vorkurs Pädagogik)
 
-Vom 21.05.2003 (Stand 01.08.2021)
+Vom 21.05.2003 (Stand 01.08.2022)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -95,9 +95,11 @@ beschliesst:
 
 <sup>1</sup> Die Studierenden haben für den gesamten Lehrgang ein Studiengeld von Fr. 1'000.– zu bezahlen.
 
+<sup>1<sup>bis</sup></sup> Bei einem Austritt während des Semesters werden Studiengeld und Schulgeld nicht zurückerstattet.
+
 <sup>2</sup> …
 
-<sup>3</sup> Die Kosten für die Lehrmittel tragen die Studierenden.
+<sup>3</sup> Die Kosten für die Unterrichtsmaterialien tragen die Studierenden.
 
 #### § 6
 
