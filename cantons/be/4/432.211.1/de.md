@@ -4,13 +4,13 @@ number: "432.211.1"
 title: Volksschulverordnung
 short: VSV
 language: de
-version: 2022-01-01
-valid_until: 2022-07-31
-version_adopted: 2021-11-10
+version: 2022-08-01
+valid_until: 2022-08-31
+version_adopted: 2022-06-09
 adopted: 2013-01-10
 in_force: 2013-08-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/432.211.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2444/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2615/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2444/pdf_file"
 
 (VSV)
 
-vom 10.01.2013 (Stand 01.01.2022)
+vom 10.01.2013 (Stand 01.08.2022)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -235,7 +235,7 @@ beschliesst:
 
 **Beitragsansatz**
 
-<sup>1</sup> Für jede Schülerin und jeden Schüler mit direktem Zugang zur Schulsozialarbeit wird ein Beitrag von 16 Franken gewährt.
+<sup>1</sup> Für jede Schülerin und jeden Schüler mit direktem Zugang zur Schulsozialarbeit wird ein Beitrag von 16.05 Franken gewährt.
 
 <sup>2</sup> Übersteigt der nach Absatz 1 errechnete Beitrag zehn Prozent der effektiven Lohnkosten, hat die Gemeinde lediglich Anspruch auf einen Beitrag von zehn Prozent der effektiven Lohnkosten.
 
