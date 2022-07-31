@@ -4,13 +4,12 @@ number: "419.11"
 title: Gesetz über Ausbildungsbeiträge
 short: Stipendiengesetz
 language: de
-version: 2017-08-01
-valid_until: 2022-07-31
-version_adopted: 2017-03-07
+version: 2022-08-01
+version_adopted: 2021-11-10
 adopted: 1985-06-30
 in_force: 1985-08-01
 url: "https://bgs.so.ch/app/de/texts_of_law/419.11"
-pdf: "https://bgs.so.ch/api/de/versions/4609/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5221/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.so.ch/api/de/versions/4609/pdf_file"
 
 (Stipendiengesetz)
 
-Vom 30.06.1985 (Stand 01.08.2017)
+Vom 30.06.1985 (Stand 01.08.2022)
 
 Der Kantonsrat von Solothurn
 
@@ -152,24 +151,26 @@ beschliesst:
 - f) Änderung des Zivilstandes;
 - g) Abschluss oder Abbruch des Studiums.
 
-<sup>2</sup> Weitere Ausbildungsbeiträge können gekürzt oder verweigert werden, wenn der Bewerber diese Meldepflicht missachtet.
+<sup>2</sup> Ändern sich die massgebenden Verhältnisse, werden die Berechtigung und die Höhe der bewilligten Ausbildungsbeiträge überprüft und die Beitragsverfügung angepasst.
 
 [^10-1]: Im ganzen Erlass neue Departementsbezeichnung ab 1. August 2000.
 
 #### § 11
 
-**Pflicht zur Rückerstattung von Ausbildungsbeiträgen**
+**Rückerstattung von Ausbildungsbeiträgen**
 
-<sup>1</sup> Ausbildungsbeiträge sind mit Zins zurückzuerstatten, und auf weitere Beitragsgesuche wird nicht eingetreten, wenn der Empfänger
+<sup>1</sup> Erhaltene Stipendien und empfangene Darlehen müssen zurückerstattet beziehungsweise vorzeitig zurückbezahlt werden,
 
-- a) die Beiträge durch unwahre Angaben oder Verheimlichung von Tatsachen erwirkt hat oder
-- b) die Beiträge nicht für die im Gesuch genannte Ausbildung verwendet.
+- a) wenn die Beiträge durch unwahre Angaben oder durch die Verheimlichung von Tatsachen erwirkt wurden;
+- b) wenn die Beiträge zweckwidrig verwendet wurden;
+- c) bei einem Verstoss gegen die Meldepflicht gemäss § 10 (ganz oder teilweise) oder
+- d) bei einem Abbruch der Ausbildung aus eigenem Verschulden (ganz oder teilweise).
 
-<sup>2</sup> Beitragsempfänger, die ihre Ausbildung aus eigenem Verschulden vor dem Abschluss aufgeben, können verpflichtet werden, empfangene Stipendien ganz oder teilweise zurückzuerstatten.
+<sup>2</sup> Sind in der laufenden Ausbildungsperiode weitere Ausbildungsbeiträge auszubezahlen oder besteht in den nächsten Ausbildungsperioden ein Anspruch auf Ausbildungsbeiträge, werden zurückzuerstattende Ausbildungsbeiträge mit diesen Ansprüchen verrechnet.
 
-<sup>3</sup> Stipendien, die für die Zeit nach Abschluss der Ausbildung ausgerichtet wurden, sind mit Zins zurückzuerstatten.
+<sup>3</sup> Der Rückerstattungsanspruch verjährt fünf Jahre nach Kenntnis des Rückerstattungsgrundes, spätestens aber zehn Jahre nach Auszahlung der Ausbildungsbeiträge. Ergibt sich der Rückerstattungsanspruch aus einer strafbaren Handlung, für welche das Strafrecht eine längere Verjährungsfrist festsetzt, so gilt diese Frist auch für die Rückerstattung.
 
-<sup>4</sup> Die strafrechtlichen Bestimmungen bleiben vorbehalten.
+<sup>4</sup> …
 
 #### § 12
 
