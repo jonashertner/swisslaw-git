@@ -4,13 +4,13 @@ number: "640.71"
 title: "Verordnung über die Spezielle Förderung, die Sonderschulung und die heilpädagogische Früherziehung"
 short: "Verordnung Sonderpädagogik, Vo SoPä"
 language: de
-version: 2021-08-01
-valid_until: 2022-07-31
-version_adopted: 2021-06-22
+version: 2022-08-01
+valid_until: 2023-12-31
+version_adopted: 2022-01-25
 adopted: 2021-06-22
 in_force: 2021-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/640.71"
-pdf: "https://bl.clex.ch/api/de/versions/3038/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3233/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3038/pdf_file"
 
 (Verordnung Sonderpädagogik, Vo SoPä)
 
-Vom 22.06.2021 (Stand 01.08.2021)
+Vom 22.06.2021 (Stand 01.08.2022)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -218,11 +218,11 @@ beschliesst:
 <sup>1</sup> Für Integrative Spezielle Förderung steht der Schulleitung ein Lektionen-Pool ISF nach der Anzahl Schülerinnen und Schüler wie folgt zur Verfügung:
 
 - a. Primarstufe: Für je 10 Schülerinnen und Schüler stehen der Schule entsprechend den Vorgaben im Schulprogramm zur Verfügung:
-  - 1\. 3 Lektionen Spezielle Förderung, wenn zusätzlich Einführungs- und Kleinklassen (EK und KK) am Schulstandort geführt werden oder in der Regel EK- und KK-Zuweisungen an andere Schulstandorte erfolgen (Datenbasis Lektionen Schuljahr 2017/18);
-  - 2\. 4,3 Lektionen Spezielle Förderung, wenn keine Einführungs- und Kleinklassen (EK und KK) am Schulstandort geführt werden und in der Regel keine EK- und KK-Zuweisungen an andere Schulstandorte erfolgen (Datenbasis: Lektionen Schuljahr 2017/18).
+  - 1\. 3,9 Lektionen Spezielle Förderung, wenn zusätzlich Einführungs- und Kleinklassen (EK und KK) am Schulstandort geführt werden oder in der Regel EK- und KK-Zuweisungen an andere Schulstandorte erfolgen (Datenbasis Lektionen Schuljahr 2021/22);
+  - 2\. 5,4 Lektionen Spezielle Förderung, wenn keine Einführungs- und Kleinklassen (EK und KK) am Schulstandort geführt werden und in der Regel keine EK- und KK-Zuweisungen an andere Schulstandorte erfolgen (Datenbasis Lektionen Schuljahr 2021/22);
 - b. Sekundarstufe I: Für je 10 Schülerinnen und Schüler der Leistungszüge A und E stehen dem Sekundarschulstandort entsprechend den Vorgaben im Schulprogramm zur Verfügung:
-  - 1\. 3,5 Lektionen Spezielle Förderung, wenn zusätzlich Kleinklassen (KK) am Schulstandort geführt werden oder in der Regel KK-Zuweisungen an andere Schulstandorte erfolgen (Datenbasis: Lektionen Schuljahr 2017/18);
-  - 2\. 4,7 Lektionen Spezielle Förderung, wenn keine Kleinklassen (KK) am Schulstandort geführt werden und in der Regel keine KK-Zuweisungen an andere Schulstandorte erfolgen (Datenbasis: Lektionen Schuljahr 2017/18).
+  - 1\. 4,3 Lektionen Spezielle Förderung, wenn zusätzlich Kleinklassen (KK) am Schulstandort geführt werden oder in der Regel KK-Zuweisungen an andere Schulstandorte erfolgen (Datenbasis Lektionen Schuljahr 2021/22);
+  - 2\. 6,1 Lektionen Spezielle Förderung, wenn keine Kleinklassen (KK) am Schulstandort geführt werden und in der Regel keine KK-Zuweisungen an andere Schulstandorte erfolgen (Datenbasis Lektionen Schuljahr 2021/22).
 
 <sup>2</sup> Für Einführungs- und Kleinklassen (EK und KK) stehen Plätze entsprechend dem ausgewiesenen Bedarf gemäss Klassenbildung zur Verfügung. Insgesamt stehen als kantonaler Richtwert 4 % aller Schulplätze gemäss der jeweiligen Berechnungsgrundlage für die Lektionen-Pools zur Verfügung.
 
@@ -274,7 +274,7 @@ beschliesst:
 
 <sup>1</sup> Für die Logopädie steht der Schulleitung am Ort des zuständigen Logopädischen Dienstes ein Lektionen-Pool zur Verfügung.
 
-<sup>2</sup> Der Lektionen-Pool richtet sich nach der Anzahl Schülerinnen und Schüler. Für je 570 Schülerinnen und Schüler der Primarstufe und der Sekundarstufe I stehen dem zuständigen logopädischen Dienst 27 Lektionen zur Verfügung (Datenbasis: Lektionen Schuljahr 2017/18).
+<sup>2</sup> Der Lektionen-Pool richtet sich nach der Anzahl Schülerinnen und Schüler. Für je 570 Schülerinnen und Schüler der Primarstufe und der Sekundarstufe I stehen dem zuständigen logopädischen Dienst 27 Lektionen zur Verfügung (Datenbasis Lektionen Schuljahr 2021/22).
 
 <sup>3</sup> Die Schulleitungen melden dem Amt für Volksschulen, Hauptabteilung Sonderpädagogik, die budgetierten Lektionen anhand der Vorgaben gemäss Abs. 2.
 
@@ -498,7 +498,7 @@ beschliesst:
 
 <sup>5</sup> Für Schülerinnen und Schüler, die als Selbstzahlende eine Privatschule besuchen, kann das Amt für Volksschulen, Hauptabteilung Sonderpädagogik, bei entsprechender Indikation für die Integrative Sonderschulung bis maximal die durchschnittlichen Kosten für eine Einzelintegration bewilligen.
 
-<sup>6</sup> Für Leistungen der Sonderschulung (ohne stationäre Sonderschulung) stehen für Schülerinnen und Schüler mit einer Behinderung insgesamt als kantonaler Richtwert 2,1 % aller Schulplätze der Primarstufe und der Sekundarstufe I zur Verfügung. Gestützt auf den behinderungsbedingten Bedarf werden zusätzliche Schulplätze zur Verfügung gestellt.
+<sup>6</sup> Für Leistungen der Sonderschulung (ohne stationäre Sonderschulung) stehen für Schülerinnen und Schüler mit einer Behinderung insgesamt als kantonaler Richtwert 2,6 % aller Schulplätze der Primarstufe und der Sekundarstufe I zur Verfügung. Gestützt auf den behinderungsbedingten Bedarf werden zusätzliche Schulplätze zur Verfügung gestellt (Datenbasis Schulplätze Schuljahr 2021/22).
 
 <sup>7</sup> Das Amt für Volksschulen, Hauptabteilung Sonderpädagogik, überprüft den kantonalen Richtwert alle 5 Jahre. Die Bildungs-, Kultur- und Sportdirektion beantragt dem Regierungsrat bei Bedarf dessen Anpassung.
 
@@ -510,7 +510,7 @@ beschliesst:
 
 <sup>1</sup> Für die Psychomotorik steht dem Amt für Volksschulen, Hauptabteilung Sonderpädagogik, als zuweisende Stelle ein Lektionen-Pool zur Verfügung.
 
-<sup>2</sup> Der Lektionen-Pool richtet sich nach der Anzahl Schülerinnen und Schüler. Für je 2'500 Schülerinnen und Schüler der Primarstufe steht dem Amt für Volksschulen, Hauptabteilung Sonderpädagogik, ein Lektionen-Pool von 27 Lektionen zur Verfügung (Datenbasis: Lektionen Schuljahr 2017/18).
+<sup>2</sup> Der Lektionen-Pool richtet sich nach der Anzahl Schülerinnen und Schüler. Für je 2'500 Schülerinnen und Schüler der Primarstufe steht dem Amt für Volksschulen, Hauptabteilung Sonderpädagogik, ein Lektionen-Pool von 27 Lektionen zur Verfügung (Datenbasis Lektionen Schuljahr 2021/22).
 
 <sup>3</sup> Der Lektionen-Pool kann in begründeten Fällen auf Antrag des Fachzentrums für Psychomotorik überschritten werden. Die Bewilligung für die Überschreitung der verfügbaren Ressourcen erteilt das Amt für Volksschulen, Hauptabteilung Sonderpädagogik.
 
