@@ -3,11 +3,11 @@ canton: ZH
 number: "413.251.4"
 title: Promotionsreglement für die Fachmittelschulen des Kantons Zürich
 language: de
-version: "2020-06-16"
-nachtrag: "116"
-valid_until: 2022-08-01
+version: "2022-08-01"
+nachtrag: "117"
+valid_until: 2023-08-01
 adopted: 2007-06-29
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-413_251_4-2007_06_29-2007_08_20-116.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-413_251_4-2007_06_29-2007_08_20-117.html"
 text: pdf
 ---
 
@@ -27,15 +27,11 @@ beschliesst:
 
 ### A. Geltungsbereich
 
-#### § 1
-
 **Geltungsbereich**
 
-<sup>1</sup> Diese Bestimmungen gelten für die Aufnahme am Ende der Probezeit und für die Promotion am Ende einer Zeugnisperiode.
+§ 1.[^hAGeltungsbereich-1] Diese Bestimmungen gelten für die Promotion am Ende einer Zeugnisperiode.
 
-<sup>2</sup> Die Probezeit dauert bis zum Ende des ersten Semesters.[^1-1]
-
-[^1-1]: Fassung gemäss Beschluss des Bildungsrates vom 12. April 2012 (OS 67, 194; ABl 2012, 857). In Kraft seit 20. August 2012.
+[^hAGeltungsbereich-1]: Fassung gemäss Beschluss des Bildungsrates vom 14. März 2022 (OS 77, 277; ABl 2022-03-25). In Kraft seit 1. August 2022. 1. 7. 22 - 117 3
 
 ### B. Massgebliche Fächer
 
@@ -63,7 +59,7 @@ Die Noten für weitere Fächer gemäss Lehrplan sind für den Entscheid über di
 
 **1**
 
-- 1\. 4. 22 - 116 § 5. Die Leistungen in den einzelnen Fächern werden mit ganzen und halben Noten bewertet. 6 ist die höchste, 1 die tiefste Note. Noten unter 4 stehen für ungenügende Leistungen.
+- 1\. 7. 22 - 117 § 5. Die Leistungen in den einzelnen Fächern werden mit ganzen und halben Noten bewertet. 6 ist die höchste, 1 die tiefste Note. Noten unter 4 stehen für ungenügende Leistungen.
 
 [^hCBeurteilungderL-1]: Fassung gemäss Beschluss des Bildungsrates vom 6. Juli 2020 (OS 75, 389; ABl 2020-08-07). In Kraft seit 16. Juni 2020.
 
@@ -81,31 +77,28 @@ Die Noten für weitere Fächer gemäss Lehrplan sind für den Entscheid über di
 
 **Entscheid**
 
-§ 7.[^hDPromotionsentsche-1] Der Klassenkonvent entscheidet am Ende der Probezeit über die definitive Aufnahme und jeweils am Ende des Semesters, letztmals am Ende des 4. Semesters, über die Promotion.
+§ 7.[^hDPromotionsentsche-1] Der Klassenkonvent entscheidet jeweils am Ende einer Zeugnisperiode, letztmals am Ende des 5. Semesters, über die Promotion.
 
-[^hDPromotionsentsche-1]: Fassung gemäss Beschluss des Bildungsrates vom 6. Juli 2020 (OS 75, 389; ABl 2020-08-07). In Kraft seit 16. Juni 2020.
+[^hDPromotionsentsche-1]: Fassung gemäss Beschluss des Bildungsrates vom 14. März 2022 (OS 77, 277; ABl 2022-03-25). In Kraft seit 1. August 2022. 1. 7. 22 - 117 3
 
 #### § 8
 
 **Bedingungen**
 
-Die Bedingungen für die definitive Aufnahme bzw. Promotion sind erfüllt, wenn in allen Promotionsfächern, die im betreffenden Semester unterrichtet werden,
+Die Bedingungen für die Promotion sind erfüllt, wenn in allen Promotionsfächern, die in der betreffenden Zeugnisperiode unterrichtet werden,[^hDPromotionsentsche-1] a. die doppelte Summe aller Notenabweichungen von 4 nach unten nicht grösser ist als die Summe aller Notenabweichungen von 4 nach oben und b. nicht mehr als drei Noten unter 4 erteilt werden.
 
-- a. die doppelte Summe aller Notenabweichungen von 4 nach unten nicht grösser ist als die Summe aller Notenabweichungen von 4 nach oben und
+**Provisorische Promotion und Nichtpromotion**
 
-- b. nicht mehr als drei Noten unter 4 erteilt werden.
+§ 9.[^8-1] <sup>1</sup> Schülerinnen und Schüler werden am Ende einer Zeugnisperiode provisorisch promoviert oder nicht promoviert, wenn sie die Bedingungen für die Promotion nach § 8 nicht erfüllen.
 
-#### § 9
-
-**Nichtaufnahme, provisorische Promotion, Nichtpromotion**
-
-Schülerinnen und Schüler, welche die Bedingungen für die definitive Aufnahme bzw. Promotion nach § 8 nicht erfüllen, werden am Ende der Probezeit abgewiesen bzw. am Ende einer Zeugnisperiode provisorisch promoviert oder nicht promoviert. Sie werden nicht promoviert, wenn sie bereits einmal provisorisch promoviert wurden.
+<sup>2</sup> Sie werden nicht promoviert, wenn sie bereits einmal provisorisch promoviert wurden.
 
 **Letzte Promotionstermine**
 
-§ 10.[^9-1] Eine provisorische Promotion kann letztmals Ende des 3. Semesters, eine Nichtpromotion am Ende des 4. Semesters ausgesprochen werden.
+§ 10.[^8-2] Eine provisorische Promotion kann letztmals Ende des 3. Semesters, eine Nichtpromotion am Ende des 4. Semesters ausgesprochen werden.
 
-[^9-1]: Fassung gemäss Berichtigung vom 21. Februar 2022 (OS 77, 137). In Kraft seit 16. Juni 2020. 1. 4. 22 - 116 3
+[^8-1]: Fassung gemäss Beschluss des Bildungsrates vom 14. März 2022 (OS 77, 277; ABl 2022-03-25). In Kraft seit 1. August 2022. 1. 7. 22 - 117 3
+[^8-2]: Fassung gemäss Berichtigung vom 21. Februar 2022 (OS 77, 137). In Kraft seit 16. Juni 2020.
 
 #### § 11
 
@@ -143,9 +136,10 @@ Für Schülerinnen und Schüler, die die Ausbildung im Schuljahr 2005/06 und 200
 
 **5**
 
-- 1\. 4. 22 - 116
+- 1\. 7. 22 - 117
 
 ## Weitere Fussnoten
 
 - [2] Eingefügt durch Beschluss des Bildungsrates vom 20. Juni 2011 (OS 66, 500; ABl 2011, 1995). In Kraft seit 22. August 2011.
 - [3] Fassung gemäss Beschluss des Bildungsrates vom 20. Juni 2011 (OS 66, 500; ABl 2011, 1995). In Kraft seit 22. August 2011.
+- [5] Obsolet.
