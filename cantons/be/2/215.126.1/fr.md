@@ -4,13 +4,13 @@ number: "215.126.1"
 title: "Loi portant introduction à la loi fédérale du 16 décembre 1983 sur l'acquisition d'immeubles par des personnes à l'étranger"
 short: Li LFAIE
 language: fr
-version: 2021-12-01
-valid_until: 2022-07-31
-version_adopted: 2021-03-08
+version: 2022-08-01
+valid_until: 2023-07-31
+version_adopted: 2022-07-04
 adopted: 1988-09-25
 in_force: 1988-12-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/215.126.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2404/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2642/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2404/pdf_file"
 
 (Li LFAIE)
 
-du 25.09.1988 (état au 01.12.2021)
+du 25.09.1988 (état au 01.08.2022)
 
 Le Grand Conseil du canton de Berne,
 
@@ -228,76 +228,74 @@ arrête:
 
 #### Art. A1-1
 
-<sup>1</sup> Sont réputées communes à vocation touristique au sens de l'article 7:
+<sup>1</sup> …
 
-- a District de Bienne
-  - 1\. Bienne¹
-- b District de Courtelary
-  - 1\. Renan¹
-  - 2\. Saint-Imier¹
-  - 4\. Sonceboz-Sombeval
-  - 3\. Tramelan¹
-- c District de Frutigen
+<sup>2</sup> Sont réputées communes à vocation touristique au sens de l'article 7:
+
+- a Arrondissement administratif de Berne-Mittelland
+  - 1\. Bowil
+  - 2\. Guggisberg
+  - 3\. Linden
+  - 4\. Rüschegg
+- b Arrondissement administratif du Jura bernois
+  - 1\. Belprahon
+  - 2\. Plateau de Diesse
+  - 3\. Renan
+  - 4\. Saint-Imier
+  - 5\. Sonceboz-Sombeval
+  - 6\. Tramelan
+- c Arrondissement administratif de Biel/Bienne
+  - 1\. Bienne
+- d Arrondissement administratif de l'Emmental
+  - 1\. Huttwil
+  - 2\. Lützelflüh
+- e Arrondissement administratif de Frutigen et du Bas-Simmental
   - 1\. Adelboden
   - 2\. Aeschi bei Spiez
-  - 3\. Frutigen
-  - 4\. Kandergrund¹
-  - 5\. Kandersteg
-  - 6\. Reichenbach
-- d District d'Interlaken
+  - 3\. Diemtigen
+  - 4\. Frutigen
+  - 5\. Kandergrund
+  - 6\. Kandersteg
+  - 7\. Reichenbach im Kandertal
+- f Arrondissement administratif d'Interlaken-Oberhasli
   - 1\. Beatenberg
   - 2\. Bönigen
   - 3\. Brienz
   - 4\. Brienzwiler
   - 5\. Därligen
   - 6\. Grindelwald
-  - 7\. Gründlischwand
-  - 8\. Habkern
-  - 9\. Hofstetten bei Brienz
-  - 10\. Iseltwald
-  - 11\. Lauterbrunnen
-  - 12\. Lütschental
-  - 13 Niederried
-  - 14\. Oberried
-  - 15\. Ringgenberg
-  - 16\. Schwanden
-  - 17\. Saxeten
-  - 18\. Unterseen
-  - 19\. Wilderswil
-- e District de Konolfingen
-  - 1\. Bowil¹
-  - 2\. Linden¹
-- f District de Moutier
-  - 1\. Belprahon¹
-- g District de La Neuveville
-  - 1\. Prêles¹
-- h District du Bas-Simmental
-  - 1\. Diemtigen
-- i District de l'Oberhasli
-  - 1\. Gadmen
-  - 2\. Guttannen¹
-  - 3\. Hasliberg
-  - 4\. Innertkirchen
-  - 5\. Meiringen
-  - 6\. Schattenhalb¹
-- k District du Haut-Simmental
-  - 1\. Boltigen
-  - 2\. La Lenk
-  - 3\. Zweisimmen
-  - 4\. St.Stephan
-- l District de Gessenay
-  - 1\. Gsteig
-  - 2\. Lauenen
-  - 3\. Gessenay
-- m District de Schwarzenbourg
-  - 1\. Guggisberg
-  - 2\. Rüschegg
-- n District de Thoune
-  - 1\. Hilterfingen¹
-  - 2\. Horrenbach-Buchen¹
-- o District de Trachselwald
-  - 1\. Huttwil¹
-  - 2\. Lützelflüh
+  - 7\. Gündlischwand
+  - 8\. Guttannen
+  - 9\. Habkern
+  - 10\. Hasliberg
+  - 11\. Hofstetten bei Brienz
+  - 12\. Innertkirchen
+  - 13\. Isteltwald
+  - 14\. Lauterbrunnen
+  - 15\. Lütschental
+  - 16\. Meiringen
+  - 17\. Niederried bei Interlaken
+  - 18\. Oberried am Brienzersee
+  - 19\. Ringgenberg
+  - 20\. Saxeten
+  - 21\. Schattenhalb
+  - 22\. Schwanden bei Brienz
+  - 23\. Unterseen
+  - 24\. Wilderswil
+- g Arrondissement administratif du Haut-Simmental et de Gessenay
+  - 1 Boltigen
+  - 2\. Gsteig
+  - 3\. Lauenen
+  - 4\. La Lenk
+  - 5\. Gessenay
+  - 6\. St. Stephan
+  - 7\. Zweisimmen
+- h Arrondissement administratif de Thoune
+  - 1\. Eriz
+  - 2\. Hilterfingen
+  - 3\. Horrenbach-Buchen
+
+<sup>3</sup> Les restrictions en vertu de l'article 9 peuvent être consultées sur Internet via le lien [www.be.ch/acquisition-immeuble](http://www.be.ch/acquisition-immeuble).
 
 Berne, le 25 août 1987
 

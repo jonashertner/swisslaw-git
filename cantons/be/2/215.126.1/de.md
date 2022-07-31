@@ -4,13 +4,13 @@ number: "215.126.1"
 title: Einführungsgesetz zum Bundesgesetz vom 16. Dezember 1983 über den Erwerb von Grundstücken durch Personen im Ausland
 short: EG BewG
 language: de
-version: 2021-12-01
-valid_until: 2022-07-31
-version_adopted: 2021-03-08
+version: 2022-08-01
+valid_until: 2023-07-31
+version_adopted: 2022-07-04
 adopted: 1988-09-25
 in_force: 1988-12-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/215.126.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2404/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2642/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2404/pdf_file"
 
 (EG BewG)
 
-vom 25.09.1988 (Stand 01.12.2021)
+vom 25.09.1988 (Stand 01.08.2022)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -228,23 +228,36 @@ beschliesst:
 
 #### Art. A1-1
 
-<sup>1</sup> Als Fremdenverkehrsgemeinden im Sinn von Artikel 7 gelten:
+<sup>1</sup> …
 
-- a Amtsbezirk Biel
-  - 1\. Biel¹
-- b Amtsbezirk Courtelary
-  - 1\. Renan¹
-  - 2\. Saint-Imier¹
-  - 4\. Sonceboz-Sombeval
-  - 3\. Tramelan¹
-- c Amtsbezirk Frutigen
+<sup>2</sup> Als Fremdenverkehrsgemeinden im Sinn von Artikel 7 gelten:
+
+- a Verwaltungskreis Bern-Mittelland
+  - 1\. Bowil
+  - 2\. Guggisberg
+  - 3\. Linden
+  - 4\. Rüschegg
+- b Verwaltungskreis Berner Jura
+  - 1\. Belprahon
+  - 2\. Plateau de Diesse
+  - 3\. Renan
+  - 4\. Saint-Imier
+  - 5\. Sonceboz-Sombeval
+  - 6\. Tramelan
+- c Verwaltungskreis Biel/Bienne
+  - 1\. Biel
+- d Verwaltungskreis Emmental
+  - 1\. Huttwil
+  - 2\. Lützelflüh
+- e Verwaltungskreis Frutigen-Niedersimmental
   - 1\. Adelboden
   - 2\. Aeschi bei Spiez
-  - 3\. Frutigen
-  - 4\. Kandergrund¹
-  - 5\. Kandersteg
-  - 6\. Reichenbach
-- d Amtsbezirk Interlaken
+  - 3\. Diemtigen
+  - 4\. Frutigen
+  - 5\. Kandergrund
+  - 6\. Kandersteg
+  - 7\. Reichenbach im Kandertal
+- f Verwaltungskreis Interlaken-Oberhasli
   - 1\. Beatenberg
   - 2\. Bönigen
   - 3\. Brienz
@@ -252,52 +265,37 @@ beschliesst:
   - 5\. Därligen
   - 6\. Grindelwald
   - 7\. Gündlischwand
-  - 8\. Habkern
-  - 9\. Hofstetten bei Brienz
-  - 10\. Iseltwald
-  - 11\. Lauterbrunnen
-  - 12\. Lütschental
-  - 13 Niederried
-  - 14\. Oberried
-  - 15\. Ringgenberg
-  - 16\. Saxeten
-  - 17\. Schwanden
-  - 18\. Unterseen
-  - 19\. Wilderswil
-- e Amtsbezirk Konolfingen
-  - 1\. Bowil¹
-  - 2\. Linden¹
-- f Amtsbezirk Moutier
-  - 1\. Belprahon¹
-- g Amtsbezirk La Neuveville
-  - 1\. Prêles¹
-- h Amtsbezirk Niedersimmental
-  - 1\. Diemtigen
-- i Amtsbezirk Oberhasli
-  - 1\. Gadmen
-  - 2\. Guttannen¹
-  - 3\. Hasliberg
-  - 4\. Innertkirchen
-  - 5\. Meiringen
-  - 6\. Schattenhalb¹
-- k Amtsbezirk Obersimmental
-  - 1\. Boltigen
-  - 2\. Lenk
-  - 3\. Zweisimmen
-  - 4\. St. Stephan
-- l Amtsbezirk Saanen
-  - 1\. Gsteig
-  - 2\. Lauenen
-  - 3\. Saanen
-- m Amtsbezirk Schwarzenburg
-  - 1\. Guggisberg
-  - 2\. Rüschegg
-- n Amtsbezirk Thun
-  - 1\. Hilterfingen¹
-  - 2\. Horrenbach-Buchen¹
-- o Amtsbezirk Trachselwald
-  - 1\. Huttwil¹
-  - 2\. Lützelflüh
+  - 8\. Guttannen
+  - 9\. Habkern
+  - 10\. Hasliberg
+  - 11\. Hofstetten bei Brienz
+  - 12\. Innertkirchen
+  - 13\. Isteltwald
+  - 14\. Lauterbrunnen
+  - 15\. Lütschental
+  - 16\. Meiringen
+  - 17\. Niederried bei Interlaken
+  - 18\. Oberried am Brienzersee
+  - 19\. Ringgenberg
+  - 20\. Saxeten
+  - 21\. Schattenhalb
+  - 22\. Schwanden bei Brienz
+  - 23\. Unterseen
+  - 24\. Wilderswil
+- g Verwaltungskreis Obersimmental-Saanen
+  - 1 Boltigen
+  - 2\. Gsteig
+  - 3\. Lauenen
+  - 4\. Lenk
+  - 5\. Saanen
+  - 6\. St. Stephan
+  - 7\. Zweisimmen
+- h Verwaltungskreis Thun
+  - 1\. Eriz
+  - 2\. Hilterfingen
+  - 3\. Horrenbach-Buchen
+
+<sup>3</sup> Einschränkungen gemäss Artikel 9 sind auf Internet verfügbar unter: [www.be.ch/grundstueckerwerb](http://www.be.ch/grundstueckerwerb).
 
 Bern, 25. August 1987
 
