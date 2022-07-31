@@ -3,20 +3,20 @@ canton: SG
 number: "231.11"
 title: Berufsbildungsverordnung
 language: de
-version: 2021-11-01
-valid_until: 2022-07-31
+version: 2022-08-01
+valid_until: 2024-04-30
 version_adopted: 2021-09-28
 adopted: 2020-04-28
 in_force: 2020-06-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/231.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3272/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3274/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Berufsbildungsverordnung
 
-vom 28.04.2020 (Stand 01.11.2021)
+vom 28.04.2020 (Stand 01.08.2022)
 
 Die Regierung des Kantons St.Gallen
 
@@ -124,7 +124,7 @@ als Verordnung:[^ingress-2]
 
 **Standorte**
 
-<sup>1</sup> Der Kanton führt drei Berufsfachschulen in St.Gallen (Standorte in St.Gallen und Rheineck) sowie je eine Berufsfachschule in Rorschach (Standorte in Rorschach und Altstätten), Buchs (Standorte in Buchs und Salez), Sargans, Rapperswil-Jona, Wattwil (Standorte in Wattwil und Lichtensteig) und Wil-Uzwil (Standorte in Wil, Uzwil und Flawil).
+<sup>1</sup> Der Kanton führt drei Berufsfachschulen in St.Gallen (Standorte in St.Gallen und Rheineck) sowie je eine Berufsfachschule in Rorschach (Standorte in Rorschach und Altstätten), Buchs-Sargans (Standorte in Buchs, Salez und Sargans), Rapperswil-Jona, Wattwil (Standorte in Wattwil und Lichtensteig) und Wil-Uzwil (Standorte in Wil, Uzwil und Flawil).
 
 #### Art. 10
 
