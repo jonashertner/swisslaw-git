@@ -4,13 +4,13 @@ number: "423.332"
 title: Verordnung über die Fachmittelschule
 short: V FMS
 language: de
-version: 2019-08-01
-valid_until: 2022-07-31
-version_adopted: 2019-05-15
+version: 2022-08-01
+valid_until: 2023-07-31
+version_adopted: 2021-10-27
 adopted: 2010-05-19
 in_force: 2010-08-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/423.332"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2739/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3181/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2739/pdf_file"
 
 (V FMS)
 
-Vom 19.05.2010 (Stand 01.08.2019)
+Vom 19.05.2010 (Stand 01.08.2022)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -73,21 +73,29 @@ beschliesst:
 
 **Promotionsfächer**
 
-<sup>1</sup> Promotionsfächer in allen Klassen sind die Grundlagenfächer gemäss Stundentafel.
+<sup>1</sup> Promotionswirksam in allen Klassen sind die Grundlagenfächer gemäss Stundentafel.
 
-<sup>2</sup> Promotionsfächer in der 2. und 3. Klasse sind neben den Grundlagenfächern die berufsfeldbezogenen Fächer der einzelnen Ausbildungsbereiche gemäss Stundentafel.
+<sup>2</sup> Promotionswirksam in der 2. und 3. Klasse sind neben den Grundlagenfächern gemäss Stundentafel der Berufsfeldunterricht, der sich gemäss § 4a berechnet.
 
-<sup>3</sup> Für die Promotion zählt in der 2. Klasse bei den Grundlagenfächern Biologie und Chemie das Mittel der beiden Noten, gebildet aus der Note Chemie des 1. Semesters und der Note Biologie des 2. Semesters.
+<sup>2<sup>bis</sup></sup> Die Zeugnisnoten in den Grundlagenfächern zählen jeweils einfach. Die Zeugnisnote im Berufsfeldunterricht zählt dreifach.
 
-<sup>3<sup>bis</sup></sup> Wird zum Grundlagenfach Musik zusätzlich das Fach Instrument gewählt, zählt bei der Promotion das Mittel der beiden Noten.
+<sup>3</sup> …
 
-<sup>3<sup>ter</sup></sup> Die berufsfeldbezogene Note im Fach Gestaltung wird aus der Note des berufsfeldbezogenen Fachs Gestalterisches Werken und derjenigen des berufsfeldbezogenen Fachs Bildnerisches Gestalten gebildet (Mittel der beiden Noten).
+<sup>3<sup>bis</sup></sup> Wird das Grundlagenfach Musik mit Instrument gewählt, zählt bei der Promotion das Mittel der beiden Noten.
+
+<sup>3<sup>ter</sup></sup> …
 
 <sup>4</sup> …
 
-<sup>4<sup>bis</sup></sup> Die Note im Grundlagenfach Bildnerisches Gestalten wird in der 2. und 3. Klasse aus der Note des Fachs Bildnerisches Gestalten und derjenigen des berufsfeldbezogenen Fachs Gestalterisches Werken gebildet (Mittel der beiden Noten).
+<sup>4<sup>bis</sup></sup> …
 
-<sup>5</sup> Ergibt das Mittel der Noten gemäss Absatz 3, 3<sup>bis</sup>, 3<sup>ter</sup> und 4<sup>bis</sup> einen Viertelswert, wird auf die nächsthöhere halbe oder ganze Note gerundet.
+<sup>5</sup> Ergibt das Mittel der Noten gemäss Absatz 3<sup>bis</sup> einen Viertelswert, wird auf die nächsthöhere halbe oder ganze Note gerundet.
+
+#### § 4a
+
+**Berufsfeldunterricht**
+
+<sup>1</sup> Die Zeugnisnote im Berufsfeldunterricht wird aus dem Mittel der Zeugnisnoten in den berufsfeldbezogenen Fächern gemäss Stundentafel gebildet und auf eine halbe Note gerundet.
 
 #### § 5
 
@@ -120,7 +128,9 @@ beschliesst:
 
 <sup>1</sup> Zeugnisse werden an den Promotionsterminen und am Ende des 3. Schuljahrs ausgestellt.
 
-<sup>2</sup> Das Zeugnis enthält die Noten sämtlicher Fächer, an den Promotionsterminen den Promotionsentscheid und in den Fällen von § 5 Abs. 2 eine zusätzliche Begründung.
+<sup>2</sup> Das Zeugnis enthält die Noten sämtlicher Grundlagenfächer, die Note des Berufsfeldunterrichts und die Noten sämtlicher berufsfeldbezogener Fächer, an den Promotionsterminen den Promotionsentscheid und in den Fällen von § 5 Abs. 2 eine zusätzliche Begründung.
+
+<sup>3</sup> Die Zeugnisnoten werden in ganzen oder halben Noten ausgewiesen. 6 ist die höchste, 1 die tiefste Note. Noten unter 4 stehen für ungenügende Leistungen.
 
 #### § 9
 
@@ -166,17 +176,27 @@ beschliesst:
 
 <sup>1</sup> Prüfungsfächer sind
 
-- a) die Grundlagenfächer Deutsch, Mathematik, Französisch oder Italienisch oder Englisch,
-- b) zwei Grundlagenfächer aus der Fächergruppe Gesellschaftswissenschaften, Naturwissenschaften, Bildnerisches Gestalten, Musik und Sport. Die Fächer Bildnerisches Gestalten, Musik und Sport schliessen sich gegenseitig aus,
-- c) ein berufsfeldbezogenes Fach aus der Fächergruppe
-  - 1\. Medienkunde und Informatik im Ausbildungsbereich Kommunikation,
-  - 2\. Psychologie/Pädagogik und Naturwissenschaften mit Praktikum im Ausbildungsbereich Gesundheit,
-  - 3\. Psychologie/Pädagogik und Individuum und Gesellschaft im Ausbildungsbereich Soziale Arbeit,
-  - 4\. Psychologie/Pädagogik, Gestalterisches Werken, Bildnerisches Gestalten oder Musik im Ausbildungsbereich Erziehung und Gestaltung.
+- a) die Grundlagenfächer Mathematik, Deutsch und wahlweise Französisch, Italienisch oder Englisch,
+- b) zwei Grundlagenfächer nach Wahl:
+  - 1\. Informatik und Naturwissenschaften,
+  - 2\. Gesellschaftswissenschaften,
+  - 3\. Musik im Grundlagenfach Musik respektive Musik oder Instrument im Grundlagenfach Musik mit Instrument,
+  - 4\. Bildnerisches und Technisches Gestalten,
+  - 5\. Sport.
+- c) ein berufsfeldbezogenes Fach nach Wahl:
+  - 1\. Medienkunde oder Bildnerisches und Technisches Gestalten im Berufsfeld Gestaltung und Kunst,
+  - 2\. Pädagogik/Psychologie oder Informatik und Naturwissenschaften mit Praktikum im Berufsfeld Gesundheit/Naturwissenschaften,
+  - 3\. Pädagogik/Psychologie oder Individuum und Gesellschaft oder Wirtschaft und Recht im Berufsfeld Soziale Arbeit,
+  - 4\. Pädagogik/Psychologie oder Informatik und Naturwissenschaften mit Praktikum, Bildnerisches und Technisches Gestalten oder Musik im Berufsfeld Pädagogik,
+  - 5\. Medienkunde oder Theater/Auftrittskompetenz im Berufsfeld Kommunikation und Information.
 
 <sup>2</sup> …
 
-<sup>2<sup>bis</sup></sup> Das Grundlagenfach Musik und das berufsfeldbezogene Fach Musik sowie das Grundlagenfach Bildnerisches Gestalten und das berufsfeldbezogene Fach Bildnerisches Gestalten schliessen sich als Prüfungsfächer gegenseitig aus.
+<sup>2<sup>bis</sup></sup> Folgende Prüfungsfächer schliessen sich gegenseitig aus:
+
+- a) Die Grundlagenfächer Musik, Musik mit Instrument, Bildnerisches und Technisches Gestalten sowie Sport,
+- b) das Grundlagenfach Informatik und Naturwissenschaften und das berufsfeldbezogene Fach Informatik und Naturwissenschaften mit Praktikum in den Berufsfeldern Pädagogik und Gesundheit/Naturwissenschaften,
+- c) das Grundlagenfach Bildnerisches und Technisches Gestalten und das berufsfeldbezogene Fach Bildnerisches und Technisches Gestalten im Berufsfeld Gestaltung und Kunst.
 
 <sup>3</sup> Die Schülerinnen und Schüler teilen der Schulleitung bis spätestens sechs Monate vor Prüfungsbeginn die Prüfungsfächer ihrer Wahl gemäss Absatz 1 mit.
 
@@ -184,9 +204,9 @@ beschliesst:
 
 **Art und Dauer der Prüfungen**
 
-<sup>1</sup> Die Prüfungsfächer Deutsch, Französisch, Italienisch sowie Englisch werden schriftlich und mündlich, Mathematik schriftlich, Bildnerisches Gestalten, Sport, Informatik sowie Gestalterisches Werken praktisch und Instrument (im Rahmen des Grundlagenfachs Musik) praktisch-mündlich geprüft. Die übrigen Prüfungsfächer werden mündlich geprüft.
+<sup>1</sup> Die Prüfungsfächer Deutsch, Französisch, Italienisch, Englisch und Mathematik werden schriftlich und mündlich, Bildnerisches und Technisches Gestalten, Sport, Theater/Auftrittskompetenz sowie Instrument (im Rahmen des Grundlagenfachs Musik mit Instrument) praktisch geprüft. Die übrigen Prüfungsfächer werden mündlich geprüft.
 
-<sup>2</sup> Die schriftlichen sowie die praktischen Prüfungen in den Fächern Bildnerisches Gestalten, Informatik und Gestalterisches Werken dauern drei Stunden. Im Fach Sport wird die Prüfungsdauer, soweit erforderlich, von der Prüfungskommission Fachmittelschule (Prüfungskommission FMS) festgelegt. Die übrigen Prüfungen dauern 15 Minuten.
+<sup>2</sup> Die schriftlichen Prüfungen sowie die praktische Prüfung im Fach Bildnerisches und Technisches Gestalten dauern drei Stunden. Im Fach Sport ist die Prüfungsdauer von den Aktivitäten abhängig und beträgt höchstens zwei Stunden (Nettoprüfungszeit). Die übrigen Prüfungen dauern 15 Minuten.
 
 #### § 15
 
@@ -234,7 +254,7 @@ beschliesst:
 
 **Selbstständige Arbeit**
 
-<sup>1</sup> Die Schülerinnen und Schüler müssen im letzten Ausbildungsjahr wahlweise in einer Gruppe oder alleine eine grössere eigenständige schriftliche oder schriftlich kommentierte Arbeit erstellen und mündlich präsentieren.
+<sup>1</sup> Die Schülerinnen und Schüler müssen im letzten Ausbildungsjahr wahlweise in einer Gruppe oder alleine eine grössere eigenständige schriftliche oder schriftlich kommentierte Arbeit erstellen und mündlich präsentieren. Diese Arbeit muss in der Regel thematisch im eigenen Berufsfeldbereich angesiedelt sein.
 
 <sup>2</sup> Die selbstständige Arbeit wird mit einer Note entsprechend § 15 bewertet.
 
@@ -242,15 +262,21 @@ beschliesst:
 
 **Abschlussfächer**
 
-<sup>1</sup> Abschlussfächer sind die Grundlagenfächer, die berufsfeldbezogenen Fächer der 3. Klasse und die selbstständige Arbeit.
+<sup>1</sup> Abschlussfächer sind
+
+- a) die Grundlagenfächer Deutsch, Französisch oder Italienisch, Englisch, Mathematik, Informatik und Naturwissenschaften, Gesellschaftswissenschaften, Sport und Musik oder Musik mit Instrument oder Bildnerisches und Technisches Gestalten,
+- b) der Berufsfeldunterricht,
+- c) die selbstständige Arbeit.
 
 #### § 20
 
 **Abschlussnoten**
 
-<sup>1</sup> In den geprüften Fächern wird die Abschlussnote aus dem Mittel von Vorschlags- und Prüfungsnote gebildet. Die Vorschlagsnote ist die Zeugnisnote des letzten Ausbildungsjahrs.
+<sup>1</sup> In den geprüften Fächern wird die Abschlussnote aus dem Mittel von Vorschlags- und Prüfungsnote gebildet und zählt jeweils einfach. Die Vorschlagsnote ist die Zeugnisnote des letzten Ausbildungsjahrs.
 
-<sup>2</sup> In den prüfungsfreien Fächern wird die Abschlussnote aus der Zeugnisnote des letzten Ausbildungsjahrs gebildet.
+<sup>2</sup> In den prüfungsfreien Fächern entspricht die Abschlussnote der Vorschlagsnote und zählt jeweils einfach. Die Vorschlagsnote ist die Zeugnisnote des letzten Ausbildungsjahrs.
+
+<sup>2<sup>bis</sup></sup> Im Berufsfeldunterricht wird die Abschlussnote aus dem Mittel der Vorschlagsnote und der Prüfungsnote im berufsfeldbezogenen Fach gebildet, wobei die Vorschlagsnote und Prüfungsnote je hälftig zählen. Die Abschlussnote zählt dreifach.
 
 <sup>3</sup> Die Bewertung der selbstständigen Arbeit erfolgt aufgrund des Arbeitsprozesses, der schriftlichen oder schriftlich kommentierten Arbeit und ihrer Präsentation.
 
@@ -279,7 +305,7 @@ beschliesst:
 
 **Übertritt ans Gymnasium**
 
-<sup>1</sup> Schülerinnen und Schüler, welche in den Abschlussfächern einen Notendurchschnitt von mindestens 5 erreichen, können in die 3. Klasse des Gymnasiums übertreten.
+<sup>1</sup> Schülerinnen und Schüler, die in den Abschlussfächern einen arithmetisch auf eine Dezimalstelle gerundeten Notendurchschnitt von mindestens 5 erreichen, können in die 3. Klasse des Gymnasiums übertreten.
 
 #### § 25
 
@@ -289,7 +315,7 @@ beschliesst:
 
 <sup>2</sup> Sie können sich vom Unterrichtsbesuch und der Prüfung in denjenigen Fächern dispensieren lassen, in welchen sie beim ersten Versuch mindestens die Note 5 erzielt haben. Diese Noten zählen auch beim zweiten Versuch.
 
-<sup>3</sup> Ist die selbständige Arbeit im ersten Versuch mindestens mit der Note 5 bewertet worden, muss sie nicht wiederholt werden.
+<sup>3</sup> Ist die selbstständige Arbeit im ersten Versuch mindestens mit der Note 5 bewertet worden, muss sie nicht wiederholt werden.
 
 <sup>4</sup> Eine dritte Abschlussprüfung ist nicht gestattet.
 
@@ -333,7 +359,7 @@ beschliesst:
 
 <sup>1</sup> Die Schülerinnen und Schüler müssen während des Lehrgangs alleine oder in einer Gruppe eine grössere eigenständige schriftliche oder schriftlich kommentierte Arbeit erstellen und mündlich präsentieren.
 
-<sup>2</sup> Bezüglich Ziel und Bewertung gelten die jeweils aktuellen Richtlinien über die zusätzlichen Leistungen für die Fachmaturität im Berufsfeld Pädagogik des Vorstands der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (EDK).
+<sup>2</sup> Bezüglich Ziel und Bewertung gelten die jeweils aktuellen Richtlinien über die zusätzlichen Leistungen für die Fachmaturität im Berufsfeld Pädagogik der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (EDK).
 
 #### § 29
 
@@ -351,9 +377,10 @@ beschliesst:
 
 <sup>1</sup> Wer im Fach Französisch oder Englisch ein international anerkanntes Sprachzertifikat auf mindestens Niveau B2 GER[^30-1] erfolgreich abgeschlossen hat, wird auf Gesuch hin von der Schulleitung vom Unterricht und von der Fachmaturitätsprüfung dispensiert.
 
-<sup>2</sup> Anstelle der Prüfungsnoten werden in den Fremdsprachen die Ergebnisse der internationalen Prüfungen gemäss der jeweils aktuellen Evaluationstabelle der Aide-mémoire IV der Eidgenössischen Berufsmaturitätskommission berücksichtigt.
+<sup>2</sup> Anstelle der Prüfungsnoten werden in den Fremdsprachen die Ergebnisse der internationalen Prüfungen gemäss der Empfehlung Nr. 11 der Schweizerischen Berufsbildungsämter-Konferenz betreffend die Anrechnung der Fremdsprachendiplome im Zusammenhang mit der Berufsmaturität und der kaufmännischen Grundbildung EFZ vom 24. Mai 2017[^30-2] berücksichtigt.
 
 [^30-1]: Gemeinsamer Europäischer Referenzrahmen
+[^30-2]: https://edudoc.ch/record/217072/files/empf\_fremdsprachendiplome\_d.pdf
 
 #### § 31
 
@@ -439,7 +466,7 @@ beschliesst:
 
 <sup>4</sup> Eine dritte Fachmaturitätsprüfung ist nicht gestattet.
 
-### 5.2. Gesundheit, Soziale Arbeit, Kommunikation und Gestaltung
+### 5.2. Gesundheit/Naturwissenschaften, Soziale Arbeit, Kommunikation und Information sowie Gestaltung und Kunst
 
 ### 5.2.1. Praktikum
 
@@ -459,7 +486,7 @@ beschliesst:
 
 <sup>1</sup> Die Schülerinnen und Schüler müssen wahlweise alleine oder in einer Gruppe eine grössere eigenständige schriftliche oder schriftlich kommentierte Arbeit erstellen, mündlich präsentieren und anschliessend an die Präsentation ein Fachgespräch führen. Vorbehalten bleibt Absatz 2.
 
-<sup>2</sup> Bei Absolvierung des Fachmaturitätslehrgangs Kommunikation (Schwerpunkt Angewandte Linguistik) muss die Fachmaturitätsarbeit in einer Zweitsprache verfasst und präsentiert werden. Bei Absolvierung des Fachmaturitätslehrgangs Gestaltung muss die Fachmaturitätsarbeit alleine verfasst und präsentiert werden.
+<sup>2</sup> Bei Absolvierung des Fachmaturitätslehrgangs Kommunikation und Information (Schwerpunkt Angewandte Linguistik) muss die Fachmaturitätsarbeit in einer Zweitsprache verfasst und präsentiert werden. Bei Absolvierung des Fachmaturitätslehrgangs Gestaltung und Kunst muss die Fachmaturitätsarbeit alleine verfasst und präsentiert werden.
 
 <sup>3</sup> Die mündliche Präsentation und das Fachgespräch dauern in der Regel 30 Minuten.
 
@@ -498,8 +525,8 @@ beschliesst:
 <sup>1</sup> Die Fachmaturität ist bestanden, wenn
 
 - a) die Note der Fachmaturitätsarbeit mindestens 4 beträgt,
-- b) das Praktikum, sofern es absolviert werden muss, mindestens mit dem Prädikat «genügend» bewertet oder der Bildungsgang an der Höheren Fachschule Gesundheit und Soziales Aarau respektive das gestalterische Propädeutikum an der Schule für Gestaltung Aargau erfolgreich absolviert wurde oder im Fachmaturitätslehrgang Kommunikation (Schwerpunkt Angewandte Linguistik) ein international anerkanntes Sprachzertifikat auf mindestens Niveau C1 vorliegt und
-- c) die berufsspezifischen Zusatzleistungen (Sprachaufenthalt, Einführungs- und Vertiefungsmodul), sofern sie absolviert werden müssen, erbracht wurden.
+- b) das Praktikum, sofern es absolviert werden muss, mindestens mit dem Prädikat «genügend» bewertet oder der Bildungsgang an der Höheren Fachschule Gesundheit und Soziales Aarau respektive das gestalterische Propädeutikum an der Schule für Gestaltung Aargau erfolgreich absolviert wurde und
+- c) die berufsspezifischen Zusatzleistungen (Sprachaufenthalt, Sprachzertifikat, Einführungs- und Vertiefungsmodul), sofern sie absolviert werden müssen, erbracht wurden.
 
 ### 5.3. Gemeinsame Bestimmungen
 
@@ -520,6 +547,7 @@ beschliesst:
 - a) die Überschrift «Kanton Aargau» und die Bezeichnung der Schule,
 - b) den Vermerk «gesamtschweizerisch anerkanntes Fachmaturitätszeugnis»,
 - c) den Namen, Vornamen, Heimatort (für Ausländerinnen und Ausländer: Staatsangehörigkeit und Geburtsort) und das Geburtsdatum der Absolventin oder des Absolventen,
+- c<sup>bis</sup>) die Bezeichnung des Berufsfelds,
 - d) die Angabe der Zeit, während der die Absolventin beziehungsweise der Absolvent das Praktikum, den Sprachaufenthalt oder die Sprachaufenthalte, den Fachmaturitätslehrgang Pädagogik beziehungsweise das gestalterische Propädeutikum absolviert hat,
 - e) die Bewertung des Praktikums, sofern es absolviert wurde,
 - f) das Thema und die Bewertung der Fachmaturitätsarbeit,
@@ -535,15 +563,26 @@ beschliesst:
 
 #### § 45a
 
-**Übergangsbestimmungen**
+**Übergangsbestimmung zur Änderung vom 9. Mai 2018**
 
-<sup>1</sup> Schülerinnen und Schüler, die ihre Ausbildung vor dem oder im Schuljahr 2010/11 begonnen haben, können am Ende des Schuljahrs 2012/13 in die 3. Klasse des Gymnasiums übertreten, wenn sie in den Abschlussfächern einen Notendurchschnitt von mindestens 4,5 erreichen. Repetentinnen beziehungsweise Repetenten müssen am Ende des Schuljahrs 2013/14 in den vorerwähnten Fächern jedoch einen Notendurchschnitt von mindestens 5 erreichen, um in die 3. Klasse des Gymnasiums übertreten zu können.
+<sup>1</sup> …
 
-<sup>2</sup> Schülerinnen und Schüler, welche die Fachmaturität Pädagogik im Schuljahr 2012/13 nicht bestehen, wiederholen den Fachmaturitätslehrgang und die Fachmaturitätsprüfung nach bisherigem Recht.
+<sup>2</sup> …
 
 <sup>3</sup> Für Schülerinnen und Schüler des Bereichs Erziehung und Gestaltung, die ihre Ausbildung im Schuljahr 2017/18 begonnen haben, gelten die Bestimmungen des bisherigen Rechts, sofern sie dies wünschen.
 
 <sup>4</sup> Für Schülerinnen und Schüler, die ihre Ausbildung vor dem Schuljahr 2018/19 begonnen haben, gelten die Bestimmungen des bisherigen Rechts.
+
+#### § 45b
+
+**Übergangsbestimmung zur Änderung vom 27. Oktober 2021**
+
+<sup>1</sup> Für Schülerinnen und Schüler, die den Bildungsgang vor dem Schuljahr 2022/23 begonnen haben, gelten im Zusammenhang mit dem Erwerb des Fachmittelschulausweises die Bestimmungen des bisherigen Rechts.
+
+<sup>2</sup> Im Falle der Repetition gelten für Schülerinnen und Schüler, die den Bildungsgang im Schuljahr 2021/22 begonnen haben, die Bestimmungen des neuen Rechts, wobei die Schülerinnen und Schüler, die den Fachmittelschulabschluss im ersten Versuch nicht bestehen, sich in den folgenden Fächern nicht vom Unterrichtsbesuch und der Prüfung dispensieren lassen können:
+
+- 1\. Den Grundlagenfächern Informatik und Naturwissenschaften sowie Bildnerisches und Technisches Gestalten,
+- 2\. im Berufsfeld Gesundheit/Naturwissenschaften dem Fach Informatik und Naturwissenschaften mit Praktikum.
 
 #### § 46
 
