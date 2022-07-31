@@ -1,33 +1,33 @@
 ---
 canton: BE
 number: "432.271.11"
-title: Direktionsverordnung über die besonderen Massnahmen im Kindergarten und in der Volksschule
-short: BMDV
+title: Direktionsverordnung über die einfachen sonderpädagogischen und unterstützenden Massnahmen im Regelschulangebot
+short: MRDV
 language: de
-version: 2018-08-01
-valid_until: 2022-07-31
-version_adopted: 2018-03-06
+version: 2022-08-01
+valid_until: 2024-07-31
+version_adopted: 2022-06-22
 adopted: 2008-08-30
 in_force: 2009-08-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/432.271.11"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1446/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2617/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Direktionsverordnung über die besonderen Massnahmen im Kindergarten und in der Volksschule
+# Direktionsverordnung über die einfachen sonderpädagogischen und unterstützenden Massnahmen im Regelschulangebot
 
-(BMDV)
+(MRDV)
 
-vom 30.08.2008 (Stand 01.08.2018)
+vom 30.08.2008 (Stand 01.08.2022)
 
-Die Erziehungsdirektion,
+Die Bildungs- und Kulturdirektion des Kantons Bern,
 
-gestützt auf Artikel 5 Absatz 3 und Artikel 17 der Verordnung über die besonderen Massnahmen im Kindergarten und in der Volksschule vom 19. September 2007 (BMV[^ingress-1]),
+gestützt auf Artikel 5 Absatz 3, Artikel 13 Absatz 2 und Artikel 17 der Verordnung vom 19. September 2007 über die einfachen sonderpädagogischen und unterstützenden Massnahmen im Regelschulangebot (VMR)[^ingress-1],
 
 beschliesst:
 
-[^ingress-1]: BSG 432.271.1
+[^ingress-1]: BSG [432.271.1](https://www.belex.sites.be.ch/data/432.271.1/de)
 
 ## 1 Gegenstand
 
@@ -36,7 +36,7 @@ beschliesst:
 <sup>1</sup> Diese Verordnung regelt:
 
 - a die individuellen Lernziele,
-- b die Integration von Schülerinnen und Schülern mit einer Behinderung,
+- b die situative Unterstützung der Regelklasse mit abteilungsweisem Unterricht oder Teamteaching,
 - c die Integration Fremdsprachiger,
 - d die Begabtenförderung,
 - e die Rhythmik,
@@ -48,15 +48,15 @@ beschliesst:
 
 <sup>1</sup> Individuelle Lernziele gemäss der Direktionsverordnung vom 6. März 2018 über Beurteilung und Schullaufbahnentscheide in der Volksschule (DVBS)[^2-1] werden als zusätzliche Individualisierungsmassnahme in den Regelklassen eingesetzt.
 
-<sup>2</sup> In besonderen Fällen kann der Einsatz individueller Lernziele durch eine weitere besondere Massnahme ergänzt werden.
+<sup>2</sup> In besonderen Fällen kann der Einsatz individueller Lernziele durch eine weitere einfache sonderpädagogische oder unterstützende Massnahme ergänzt werden.
 
 [^2-1]: BSG [432.213.11](https://www.belex.sites.be.ch/data/432.213.11/de)
 
-## 3 Integration von Schülerinnen und Schülern mit einer Behinderung
+## 3 Unterstützung der Regelklasse
 
 #### Art. 3
 
-<sup>1</sup> Zur Unterstützung des vollständigen oder teilweisen Besuchs der Regelklasse oder einer besonderen Klasse durch Schülerinnen und Schüler mit einer Behinderung kann das Amt für Kindergarten, Volksschule und Beratung (AKVB) bis höchstens vier Lektionen abteilungsweisen Unterricht oder Teamteaching bewilligen.
+<sup>1</sup> Das Amt für Kindergarten, Volksschule und Beratung kann bis höchstens vier Lektionen abteilungsweisen Unterricht oder Teamteaching zur Unterstützung einer Regelklasse bewilligen, wenn ein besonderer Bedarf situativ gedeckt werden soll.
 
 ## 4 Integration Fremdsprachiger
 
@@ -137,7 +137,7 @@ beschliesst:
 <sup>2</sup> Die Konferenz der Leiterinnen und Leiter der Erziehungsberatungsstellen legt ein einheitliches Abklärungsverfahren fest. Dieses umfasst
 
 - a die Nomination von ausserordentlich begabten Schülerinnen und Schülern durch Eltern und Lehrkräfte,
-- b die Selektion der Nominierten durch die kantonale Erziehungsberatung oder den Kinder- und Jugendpsychiatrischen Dienst und entsprechende Antragstellung.
+- b die Selektion der Nominierten durch die kantonale Erziehungsberatung und entsprechende Antragstellung.
 
 #### Art. 13
 
@@ -151,9 +151,9 @@ beschliesst:
 
 #### Art. 14
 
-**Überprüfung der Zuweisung**
+**Überprüfung der Zulassung**
 
-<sup>1</sup> Die Zuweisung zur Begabtenförderung ist mindestens alle vier Jahre zu überprüfen. Werden die Zulassungsvoraussetzungen weiterhin erfüllt, kann die Schülerin oder der Schüler die Begabtenförderung weiter besuchen.
+<sup>1</sup> Die Zulassung zur Begabtenförderung wird überprüft, wenn das Angebot für die Schülerin oder den Schüler nicht mehr geeignet erscheint.
 
 ### 5.3 Angebote zur Begabtenförderung
 
@@ -191,9 +191,9 @@ beschliesst:
 
 <sup>3</sup> Führen sie dieses Angebot, steht es Schülerinnen und Schülern offen, welche einer zusätzlichen Förderung im musikalisch-rhythmischen Bereich bedürfen.
 
-<sup>4</sup> Rhythmik als Massnahme zur besonderen Förderung ist nicht ein fakultatives Unterrichtsangebot im Sinne von Artikel 10 Absatz 2, Artikel 47 Absatz 1 Buchstabe b und Artikel 47 Absatz 2 des Volksschulgesetzes vom 19. März 1992 (VSG[^18-1]).
+<sup>4</sup> Rhythmik als Massnahme zur besonderen Förderung ist kein fakultatives Unterrichtsangebot im Sinne von Artikel 10 Absatz 4, Artikel 47 Absatz 1 Buchstabe b und Artikel 47 Absatz 2 des Volksschulgesetzes vom 19. März 1992 (VSG)[^18-1].
 
-[^18-1]: BSG 432.210
+[^18-1]: BSG [432.210](https://www.belex.sites.be.ch/data/432.210/de)
 
 ## 7 Verwendung der Lektionenpools
 
@@ -207,7 +207,7 @@ beschliesst:
 
 **Besondere Klassen**
 
-<sup>1</sup> Vom Lektionenpool für die übrigen besonderen Massnahmen ist für die Bildung besonderer Klassen ein Anteil von höchstens 50% anzustreben.
+<sup>1</sup> Vom Lektionenpool für die übrigen einfachen sonderpädagogischen und unterstützenden Massnahmen sowie die Integration Fremdsprachiger ist für die Bildung besonderer Klassen ein Anteil von höchstens 50% anzustreben.
 
 <sup>2</sup> Die Klassenlehrerlektionen für die besonderen Klassen sind im zugewiesenen Anteil des Lektionenpools enthalten.
 
@@ -215,7 +215,7 @@ beschliesst:
 
 **Spezialunterricht und Rhythmik**
 
-<sup>1</sup> Vom Lektionenpool für die übrigen besonderen Massnahmen sind zudem zu verwenden:
+<sup>1</sup> Vom Lektionenpool für die einfachen sonderpädagogischen und unterstützenden Massnahmen sowie die Integration Fremdsprachiger sind zudem zu verwenden:
 
 - a für die integrative Förderung mindestens 13% zuzüglich den nicht ausgeschöpften Anteil für besondere Klassen gemäss Artikel 20 Absatz 1,
 - b für Logopädie, Psychomotorik und Rhythmik mindestens 13%.
