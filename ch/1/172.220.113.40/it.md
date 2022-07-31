@@ -3,11 +3,11 @@ sr: "172.220.113.40"
 title: Ordinanza del Consiglio dei PF del 18 settembre 2003 sul corpo professorale dei politecnici federali (Ordinanza sul corpo professorale dei PF)
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/747"
 language: it
-version: 2020-01-01
+version: 2022-08-01
 adopted: 2003-09-18
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/747/20200101/it/xml/fedlex-data-admin-ch-eli-cc-2003-747-20200101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/747/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/747/20220801/it/xml/fedlex-data-admin-ch-eli-cc-2003-747-20220801-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/747/20220801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,19 +16,20 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/747/20200101/it"
 
 (Ordinanza sul corpo professorale dei PF)
 
-del 18 settembre 2003 (Stato 1° gennaio 2020)
+del 18 settembre 2003 (Stato 1° agosto 2022)
 
 Approvata dal Consiglio federale il 26 novembre 2003
 
 Il Consiglio dei PF,
 
-visto l’articolo 37 capoverso 3 della legge federale del 24 marzo 2000[^ingress-1] sul personale federale (LPers); visto l’articolo 2 dell’ordinanza quadro del 20 dicembre 2000[^ingress-2] relativa alla legge sul personale federale (ordinanza quadro LPers); visto l’articolo 40*a* della legge federale del 4 ottobre 1991[^ingress-3] sui politecnici federali,
+visto l’articolo 37 capoverso 3 della legge del 24 marzo 2000[^ingress-1] sul personale federale (LPers); visto l’articolo 2 dell’ordinanza quadro del 20 dicembre 2000[^ingress-2] relativa alla legge sul personale federale (ordinanza quadro LPers); visto l’articolo 17 capoverso 2 della legge federale del 4 ottobre 1991[^ingress-3] sui politecnici federali,[^ingress-4]
 
 ordina:
 
 [^ingress-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
 [^ingress-2]: [RS 172.220.11](https://fedlex.data.admin.ch/eli/cc/2001/124)
 [^ingress-3]: [RS 414.110](https://fedlex.data.admin.ch/eli/cc/1993/210_210_210)
+[^ingress-4]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 10 mar. 2022, approvata dal CF il 29 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
 
 ## Sezione 1: Disposizioni generali
 
@@ -46,10 +47,13 @@ La presente ordinanza disciplina i rapporti di lavoro dei seguenti membri del co
 
 <sup>2</sup> L’assunzione di professori in base al diritto privato è retta dal Codice delle obbligazioni (CO)[^1-1].
 
-<sup>3</sup> Nel contratto di lavoro di diritto privato vanno menzionate le disposizioni della LPers e della presente ordinanza applicabili per analogia anche ai professori assunti in base al diritto privato. Le disposizioni degli articoli 4–6 (diritti e obblighi) e 16 (stipendio) della presente ordinanza si applicano per analogia ai professori assunti in base al diritto privato*.*[^1-2]
+<sup>2bis</sup> I contratti di lavoro di diritto privato possono essere conclusi in particolare con professori assunti da un PF a tempo parziale o a tempo determinato e che, presso il PF, non sono tenuti a svolgere tutti i compiti secondo l’articolo 5.[^1-2]
+
+<sup>3</sup> Nel contratto di lavoro di diritto privato vanno menzionate le disposizioni della LPers e della presente ordinanza applicabili per analogia anche ai professori assunti in base al diritto privato. Le disposizioni degli articoli 4–6 (diritti e obblighi) e 16 (stipendio) della presente ordinanza si applicano per analogia ai professori assunti in base al diritto privato*.*[^1-3]
 
 [^1-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^1-2]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 18 set. 2014, approvata dal CF il 25 mar. 2015, in vigore dal 1° gen. 2015 ([RU 2015 1041](https://fedlex.data.admin.ch/eli/oc/2015/202)).
+[^1-2]: Introdotto dal n. I dell’O del Consiglio dei PF del 10 mar. 2022, approvata dal CF il 29 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
+[^1-3]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 18 set. 2014, approvata dal CF il 25 mar. 2015, in vigore dal 1° gen. 2015 ([RU 2015 1041](https://fedlex.data.admin.ch/eli/oc/2015/202)).
 
 #### Art. 2
 
@@ -111,17 +115,43 @@ La presente ordinanza disciplina i rapporti di lavoro dei seguenti membri del co
 
 <sup>5</sup> I professori partecipano all’autogestione del politecnico.
 
+#### Art. 5a
+
+**Conflitti d’interesse e ricusazione**[^5a-1]
+
+<sup>1</sup> I professori assolvono i loro compiti indipendentemente dagli interessi personali ed evitano i conflitti fra gli interessi privati e gli interessi dei due PF.
+
+<sup>2</sup> I professori devono ricusarsi quando la loro imparzialità rischia di essere messa in dubbio a causa di un interesse personale in una determinata questione oppure per altri motivi. L’impressione di parzialità è motivo sufficiente di ricusazione. Valgono i motivi di parzialità di cui all’articolo 53*b* capoverso 2 dell’ordinanza del 15 marzo 2001[^5a-2] sul personale del settore dei PF (OPers PF).
+
+<sup>3</sup> I professori del PF uniti in matrimonio, che vivono in un’unione domestica registrata o in concubinato, imparentati o affini devono darne comunicazione al presidente del PF oppure dichiararlo in sede di nomina.
+
+<sup>4</sup> Se si presenta una relazione secondo il capoverso 3, il presidente del PF garantisce che dal punto di vista dell’organizzazione gli interessati non siano direttamente subordinati l’uno all’altro.
+
+<sup>5</sup> In esecuzione dell’articolo 53*a* OPers PF i PF emanano disposizioni sull’impiego del coniuge, del partner registrato e dei parenti dei propri professori; in particolare, possono prevedere che sia escluso un impiego nella stessa unità organizzativa.
+
+[^5a-1]: Introdotto dal n. I dell’O del Consiglio dei PF del 10 mar. 2022, approvata dal CF il 29 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
+[^5a-2]: [RS 172.220.113](https://fedlex.data.admin.ch/eli/cc/2001/279)
+
 #### Art. 6
 
-**Attività esterne al PF**
+**Occupazioni accessorie**[^6-1]
 
-<sup>1</sup> I professori possono svolgere, in nome proprio, per conto proprio e assumendosene la responsabilità, attività professionali non previste dal rapporto di lavoro con il PF, in particolare in qualità di periti, a condizione che questo non comprometta l’adempimento dei loro obblighi derivanti dal rapporto di servizio.
+<sup>1</sup> I professori aggiornano costantemente il presidente del PF in merito alle occupazioni accessorie che svolgono al di fuori del loro contratto, a nome proprio, per conto proprio e sotto la propria responsabilità, nonché in merito a eventuali modifiche di tali occupazioni.
 
-<sup>2</sup> Per poter svolgere attività esterne al PF che richiedono, in totale, un impegno superiore a un giorno lavorativo alla settimana, i professori devono richiedere l’autorizzazione del presidente del PF.
+<sup>2</sup>
 
-<sup>3</sup> Per essere membri del consiglio d’amministrazione o della direzione di imprese, i professori devono richiedere l’autorizzazione del presidente del PF. L’autorizzazione viene rilasciata se non vi si oppongono interessi del PF.
+I professori devono disporre di un’autorizzazione preventiva del presidente del PF se:
 
-<sup>4</sup> Qualora facciano ricorso a mezzi, laboratori e alla segreteria del PF per attività rimunerate svolte per conto di terzi, i professori devono versare un’indennità al politecnico. Entrambi i PF emanano le prescrizioni necessarie.
+- a. lo svolgimento dell’attività accessoria, in caso di occupazione a tempo pieno, richiede più di un giorno lavorativo a settimana;
+- b. la natura dell’attività accessoria può generare un conflitto d’interesse con il PF oppure fa prevedere o insorgere un rischio considerevole per la reputazione del PF;
+- c. l’attività accessoria consiste nell’affiliazione a un organo di supervisione o direzione di organizzazioni pubbliche o private; oppure
+- d. lo svolgimento dell’attività accessoria prevede l’utilizzo di strutture del PF, come laboratori, o del suo personale.
+
+<sup>3</sup> Le attività che i professori svolgono su mandato del PF non sono considerate per determinare il tempo concesso (cpv. 2 lett. a).
+
+<sup>4</sup> I professori che per attività accessorie remunerate o non remunerate si avvalgono di strutture del PF come laboratori oppure del suo personale devono indennizzare il PF. I PF emanano le relative disposizioni.
+
+[^6-1]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 10 mar. 2022, approvata dal CF il 29 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
 
 ## Sezione 3: Inizio, modifica e risoluzione del rapporto di lavoro
 
@@ -164,9 +194,14 @@ Il contratto di lavoro contiene in particolare:
 
 <sup>1</sup> I contratti di lavoro con i professori ordinari e straordinari sono stipulati a tempo indeterminato.
 
-<sup>2</sup> I contratti di lavoro con i professori assistenti sono stipulati al massimo per quattro anni. È ammessa un’unica proroga di quattro anni al massimo. In caso di maternità, l’impiego viene prolungato al massimo di un anno.
+<sup>2</sup> I contratti di lavoro con i professori assistenti sono stipulati per quattro anni. Il contratto di assunzione può essere rinnovato fino a raggiungere la durata massima di otto anni.[^9-1]
+
+<sup>2bis</sup> I periodi di cui al capoverso 2 possono essere prolungati al massimo di un anno, su richiesta, in caso di assenza prolungata dovuta a malattia, infortunio, paternità, adozione o altro motivo rilevante; in caso di maternità il prolungamento massimo è di un anno. I due PF disciplinano i dettagli.[^9-2]
 
 <sup>3</sup> Non vi è un periodo di prova.
+
+[^9-1]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 10 mar. 2022, approvata dal CF il 29 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
+[^9-2]: Introdotto dal n. I dell’O del Consiglio dei PF del 10 mar. 2022, approvata dal CF il 29 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
 
 #### Art. 10
 
@@ -200,17 +235,21 @@ Il contratto di lavoro contiene in particolare:
 
 <sup>1</sup> Su proposta del presidente del PF, il Consiglio dei PF può disdire il rapporto di lavoro di un professore per le ragioni indicate nell’articolo 10 capoverso 3 LPers, rispettando un termine di preavviso di sei mesi.[^13-1]
 
-<sup>2</sup> Prima di presentare la proposta, il presidente del PF istituisce una commissione. Questa valuta l’adeguatezza della disdetta ed esprime una raccomandazione. La commissione è costituita da almeno sei membri, tra cui tre membri non appartenenti al PF. Tre dei sei membri sono proposti dalla Conferenza dei membri del corpo insegnante.
+<sup>1bis</sup> In caso di incapacità al lavoro permanente, totale o parziale dovuta a malattia o infortunio il rapporto di lavoro può essere disdetto al più presto per la fine del periodo di continuazione del pagamento dello stipendio di cui all’articolo 26.[^13-2]
 
-<sup>3</sup> ...[^13-2]
+<sup>2</sup> In caso di disdetta ordinaria, prima di presentare la proposta il presidente del PF istituisce una commissione che valuta l’adeguatezza della disdetta ed esprime una raccomandazione. La commissione è costituita da almeno sei membri, tra cui tre membri non appartenenti al PF. Tre dei sei membri sono proposti dalla Conferenza dei membri del corpo insegnante.[^13-3]
 
-<sup>4</sup> Ai professori che, al momento in cui un licenziamento diventa effettivo, hanno compiuto il 58° anno d’età pur non avendo raggiunto il limite d’età di cui all’articolo 21 della legge del 20 dicembre 1946[^13-3] sull’assicurazione per la vecchiaia e per i superstiti (LAVS) e sono impiegati da dieci anni nel settore dei PF viene versata una rendita di vecchiaia secondo le disposizioni del regolamento di previdenza del 3 dicembre 2007[^13-4] della Cassa di previdenza del Settore dei PF per i professori dei PF (RP-PF 2). Questa rendita di vecchiaia è calcolata come una rendita d’invalidità secondo l’articolo 57 RP-PF 2. I PF rimborsano alla Cassa pensioni della Confederazione la parte della rendita scoperta al momento della risoluzione del rapporto di lavoro. La rendita transitoria non è finanziata dal datore di lavoro.[^13-5]
+<sup>3</sup> ...[^13-4]
+
+<sup>4</sup> Ai professori che, al momento in cui un licenziamento diventa effettivo, hanno compiuto il 58° anno d’età pur non avendo raggiunto il limite d’età di cui all’articolo 21 della legge del 20 dicembre 1946[^13-5] sull’assicurazione per la vecchiaia e per i superstiti (LAVS) e sono impiegati da dieci anni nel settore dei PF viene versata una rendita di vecchiaia secondo le disposizioni del regolamento di previdenza del 3 dicembre 2007[^13-6] della Cassa di previdenza del Settore dei PF per i professori dei PF (RP-PF 2). Questa rendita di vecchiaia è calcolata come una rendita d’invalidità secondo l’articolo 57 RP-PF 2. I PF rimborsano alla Cassa pensioni della Confederazione la parte della rendita scoperta al momento della risoluzione del rapporto di lavoro. La rendita transitoria non è finanziata dal datore di lavoro.[^13-7]
 
 [^13-1]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 18 set. 2014, approvata dal CF il 25 mar. 2015, in vigore dal 1° gen. 2015 ([RU 2015 1041](https://fedlex.data.admin.ch/eli/oc/2015/202)).
-[^13-2]: Abrogato dal n. II dell’O del Consiglio dei PF del 6 mar. 2013, approvata dal CF il 14 giu. 2013, con effetto dal 1° lug. 2013 ([RU 2013 1777](https://fedlex.data.admin.ch/eli/oc/2013/404)).
-[^13-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^13-4]: [RS 172.220.142.2](https://fedlex.data.admin.ch/eli/cc/2012/192)
-[^13-5]: Nuovo testo giusta il n. II dell’O del Consiglio dei PF del 6 mar. 2013, approvata dal CF il 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1777](https://fedlex.data.admin.ch/eli/oc/2013/404)).
+[^13-2]: Introdotto dal n. I dell’O del Consiglio dei PF del 10 mar. 2022, approvata dal CF il 29 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
+[^13-3]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 10 mar. 2022, approvata dal CF il 29 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
+[^13-4]: Abrogato dal n. II dell’O del Consiglio dei PF del 6 mar. 2013, approvata dal CF il 14 giu. 2013, con effetto dal 1° lug. 2013 ([RU 2013 1777](https://fedlex.data.admin.ch/eli/oc/2013/404)).
+[^13-5]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^13-6]: [RS 172.220.142.2](https://fedlex.data.admin.ch/eli/cc/2012/192)
+[^13-7]: Nuovo testo giusta il n. II dell’O del Consiglio dei PF del 6 mar. 2013, approvata dal CF il 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1777](https://fedlex.data.admin.ch/eli/oc/2013/404)).
 
 #### Art. 13a
 
@@ -247,23 +286,68 @@ Il professore è pensionato alla fine del mese in cui:
 
 <sup>2</sup> Il professore può essere pensionato anticipatamente, a condizione che dopo la risoluzione del rapporto di lavoro abbia diritto ad una rendita di vecchiaia secondo il RP-PF 2[^14-2].[^14-3]
 
-<sup>3</sup> Il professore ed il presidente del PF concordano anticipatamente i tempi e i modi del pensionamento.
+<sup>3</sup> Il pensionamento è possibile alla fine del semestre accademico nel corso del quale è raggiunto il limite d’età di cui all’articolo 17 capoverso 7 oppure capoverso 8 della legge sui PF.[^14-4]
 
-<sup>4</sup> In casi eccezionali e debitamente motivati, il Consiglio dei PF, su proposta del presidente del PF, può concordare con un professore un’assunzione anche oltre il limite di età previsto dall’articolo 21 LAVS.
+<sup>4</sup> Il PF concorda anticipatamente con i professori i tempi e modi del pensionamento e presenta eventuali proposte al Consiglio dei PF.[^14-5]
 
 <sup>5</sup> I professori pensionati possono continuare a tenere corsi liberi e a utilizzare le infrastrutture generali del PF. Il presidente del PF può attribuire loro un mandato d’insegnamento e altri mandati nonché, su richiesta, mettere a loro disposizione locali e altre infrastrutture.
 
 [^14-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 [^14-2]: Non pubblicato nella RU ([FF 2008 5254](https://fedlex.data.admin.ch/eli/fga/2008/1055)).
 [^14-3]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 2 ott. 2007, approvata dal CF il 14 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2291](https://fedlex.data.admin.ch/eli/oc/2008/331)).
+[^14-4]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 10 mar. 2022, approvata dal CF il 29 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
+[^14-5]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 10 mar. 2022, approvata dal CF il 29 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
+
+#### Art. 14a
+
+**Assunzione in base al diritto privato dopo il raggiungimento del limite d’età**[^14a-1]
+
+<sup>1</sup>
+
+In casi debitamente motivati può essere concordata un’assunzione in base al diritto privato dopo il raggiungimento del limite d’età di cui all’articolo 14 capoverso 1 lettera a nei casi in cui non è pregiudicato il rinnovamento e il ringiovanimento del corpo professorale ed è soddisfatta almeno una delle seguenti condizioni:
+
+- a. il professore in questione ha prodotto risultati scientifici eccellenti che lasciano presagire l’acquisizione di fondi importanti provenienti da terzi per la continuazione di un gruppo di ricerca;
+- b. l’impiego oltre il limite d’età è importante per lo svolgimento di mansioni strategiche o istituzionali nel settore dei PF.
+
+<sup>2</sup> Su proposta del presidente del PF, il Consiglio dei PF stabilisce quali professori soddisfano i requisiti di cui al capoverso 1.
+
+<sup>3</sup>
+
+Il contratto di lavoro di diritto privato disciplina almeno:
+
+- a. la durata dell’impiego oltre il limite d’età, che termina di norma al più tardi cinque anni dopo il raggiungimento dell’età ordinaria di pensionamento;
+- b. la possibilità di disdetta anticipata ordinaria per entrambe le parti;
+- c. i diritti e gli obblighi, tenendo conto degli articoli 4–6;
+- d. la rinuncia alla continuazione della previdenza professionale.
+
+<sup>4</sup> Lo stipendio annuo è di 114 279.60 franchi (stato: 1° gennaio 2022) con un grado di occupazione del 100 per cento.
+
+<sup>5</sup> Le direzioni dei due PF disciplinano i dettagli.
+
+[^14a-1]: Introdotto dal n. I dell’O del Consiglio dei PF del 10 mar. 2022, approvata dal CF il 29 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
+
+#### Art. 14b
+
+**Continuazione del rapporto di lavoro di diritto pubblico oltre il limite d’età**[^14b-1]
+
+<sup>1</sup> In casi eccezionali debitamente motivati e su proposta del presidente del PF, il Consiglio dei PF può concordare con un professore la continuazione del rapporto di lavoro di diritto pubblico oltre il limite d’età di cui all’articolo 14 capoverso 1 lettera a.
+
+<sup>2</sup> Le direzioni dei due PF disciplinano i dettagli.
+
+[^14b-1]: Introdotto dal n. I dell’O del Consiglio dei PF del 10 mar. 2022, approvata dal CF il 29 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
 
 #### Art. 15
 
-**Mantenimento del titolo di professore**
+**Titolo di professore dopo la conclusione del rapporto di lavoro[^15-1]**
 
 <sup>1</sup> Su proposta del presidente del PF, il Consiglio dei PF decide a seconda del caso se un professore ordinario o straordinario che lascia il PF possa o meno conservare il titolo di professore del PF. La condizione per poter mantenere il titolo è di aver lavorato almeno sei anni per il PF. Se è nell’interesse del PF, il Consiglio dei PF può derogare a questa disposizione.
 
+<sup>1bis</sup> Ai professori ordinari e straordinari che possono continuare a portare il titolo di professore viene conferito il titolo di «Professoressa emerita» o «Professore emerito», oppure «Prof. em.».[^15-2]
+
 <sup>2</sup> Ai professori assistenti non è permesso conservare il titolo.
+
+[^15-1]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 10 mar. 2022, approvata dal CF il 29 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
+[^15-2]: Introdotto dal n. I dell’O del Consiglio dei PF del 10 mar. 2022, approvata dal CF il 29 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
 
 ## Sezione 4: Stipendio e indennità
 
@@ -309,13 +393,13 @@ Il presidente del PF può aumentare in singoli casi lo stipendio:
 
 [^17-1]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 29 giu. 2005, approvata dal CF il 23 set. 2005, in vigore dal 1° gen. 2006 ([RU 2005 4811](https://fedlex.data.admin.ch/eli/oc/2005/647)).
 
-#### Art. 18
+#### [Art. 18](https://www.fedlex.admin.ch/eli/cc/2003/747/de)[](https://www.fedlex.admin.ch/eli/cc/2003/747/de)
 
-**Adeguamento della scala salariale**[^18-1]
+**[Adeguamento della scala salariale e dello stipendio](https://www.fedlex.admin.ch/eli/cc/2003/747/de)**[^18-1]
 
-Per l’adeguamento della scala salariale si applica per analogia l’articolo 28 dell’ordinanza del 15 marzo 2001[^18-2] sul personale del settore dei PF (OPers PF).
+Per l’adeguamento della scala salariale e dello stipendio secondo l’articolo 14*a* al rincaro o a misure salariali generali vale, per analogia, l’articolo 28 OPers PF[^18-2].
 
-[^18-1]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 29 giu. 2005, approvata dal CF il 23 set. 2005, in vigore dal 1° gen. 2006 ([RU 2005 4811](https://fedlex.data.admin.ch/eli/oc/2005/647)).
+[^18-1]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 10 mar. 2022, approvata dal CF il 29 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
 [^18-2]: [RS 172.220.113](https://fedlex.data.admin.ch/eli/cc/2001/279)
 
 #### Art. 19
@@ -352,13 +436,21 @@ Su proposta del presidente del PF, il Consiglio dei PF concorda lo stipendio e u
 
 #### Art. 21
 
-**Rimborso delle spese**
+**Rimborso delle spese e altre prestazioni[^21-1]**
 
-<sup>1</sup> I professori hanno diritto al rimborso delle spese legate all’attività professionale. È applicabile l’ordinanza del Consiglio dei PF dell’11 aprile 2002[^21-1] sul rimborso delle spese nel settore dei PF.
+<sup>1</sup> I professori hanno diritto al rimborso delle spese legate all’attività professionale. È applicabile l’ordinanza del Consiglio dei PF dell’11 aprile 2002[^21-2] sul rimborso delle spese nel settore dei PF.
 
-<sup>2</sup> Il PF può rimborsare ai professori appena nominati i costi per il trasporto della mobilia personale, se per motivi professionali si rendesse necessario un trasferimento del domicilio.
+<sup>2</sup> Il PF può rimborsare ai professori i costi derivanti da un cambio di domicilio a seguito di una nomina presso il PF.[^21-3]
 
-[^21-1]: [RS 172.220.113.43](https://fedlex.data.admin.ch/eli/cc/2002/245)
+<sup>3</sup> In casi eccezionali debitamente motivati, ai fini del reclutamento il PF può rimborsare adeguatamente le prestazioni supplementari ai professori di nuova nomina.[^21-4]
+
+<sup>4</sup> Per le prestazioni di cui al capoverso 3 il PF emana le disposizioni di esecuzione relative all’importo, alla durata e ai requisiti necessari.[^21-5]
+
+[^21-1]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 10 mar. 2022, approvata dal CF il 29 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
+[^21-2]: [RS 172.220.113.43](https://fedlex.data.admin.ch/eli/cc/2002/245)
+[^21-3]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 10 mar. 2022, approvata dal CF il 29 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
+[^21-4]: Introdotto dal n. I dell’O del Consiglio dei PF del 10 mar. 2022, approvata dal CF il 29 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
+[^21-5]: Introdotto dal n. I dell’O del Consiglio dei PF del 10 mar. 2022, approvata dal CF il 29 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
 
 #### Art. 22
 
@@ -373,7 +465,11 @@ Il PF rimborsa le spese di procedura e ripetibili ai professori che, a causa del
 
 <sup>2</sup> Fino alla pronuncia della decisione passata in giudicato, il PF si limita a garantire la copertura dei costi.
 
-## Sezione 5: Congedi e assenze
+## Sezione 5: Vacanze, congedi e assenze****
+
+[^sec5-1]
+
+[^sec5-1]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 10 mar. 2022, approvata dal CF il 29 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
 
 #### Art. 23
 
@@ -384,6 +480,17 @@ Il PF rimborsa le spese di procedura e ripetibili ai professori che, a causa del
 <sup>2</sup> Il professore presenta la domanda di congedo al presidente del PF.
 
 <sup>3</sup> La concessione di un congedo a fini di ricerca dipende dalla prestazioni fornite in precedenza e dalla garanzia di trovare un supplente qualificato.
+
+#### Art. 23a
+
+**Vacanze e congedi**[^23a-1]
+
+<sup>1</sup> Il diritto alle vacanze è retto dall’articolo 51 capoversi 1 e 2 OPers PF[^23a-2], il diritto ai congedi dall’articolo 52 capoversi 1 e 2 della medesima ordinanza.
+
+<sup>2</sup> Le vacanze devono essere prese nell’anno civile in cui sorge il diritto alle stesse. Se ciò non fosse possibile per motivi aziendali imperativi oppure per causa di malattia o infortunio, il professore notifica le ferie non godute al servizio del personale e le ritira l’anno successivo.
+
+[^23a-1]: Introdotto dal n. I dell’O del Consiglio dei PF del 10 mar. 2022, approvata dal CF il 29 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
+[^23a-2]: [RS 172.220.113](https://fedlex.data.admin.ch/eli/cc/2001/279)
 
 #### Art. 24
 
@@ -405,19 +512,35 @@ Se non vi si oppongono interessi del PF, il presidente del PF può concedere a u
 
 **Pagamento dello stipendio in caso di malattia e infortunio**
 
-<sup>1</sup> In caso di incapacità al lavoro dovuta a malattia o infortunio, i professori hanno diritto al versamento dell’intero stipendio al massimo per 730 giorni.
+<sup>1</sup> In caso di incapacità al lavoro dovuta a malattia o infortunio, i professori hanno diritto al versamento dello stipendio al massimo per 730 giorni, incluse le indennità. Durante 12 mesi è versato l’intero stipendio lordo, in seguito è versato il 90 per cento dello stipendio lordo.[^26-1]
+
+<sup>1bis</sup> La persona interessata è soggetta all’obbligo di collaborazione secondo l’articolo 36*a* OPers PF[^26-2]. I certificati medici devono essere inviati al servizio competente del personale.[^26-3]
 
 <sup>2</sup> Lo stipendio può essere ridotto per le ragioni previste dalla legislazione e dalla giurisprudenza in materia di assicurazione malattie e di assicurazione contro gli infortuni.
 
 <sup>3</sup> Per valutare l’incapacità al lavoro può essere ordinata una visita di controllo presso un medico di fiducia.
 
-<sup>4</sup> Le prestazioni delle assicurazioni sociali obbligatorie vengono conteggiate.
+<sup>4</sup> Le prestazioni delle assicurazioni sociali obbligatorie vengono conteggiate. L’interruzione e la nuova decorrenza del termine per il pagamento dello stipendio sono retti dall’articolo 36*c* OPers PF.[^26-4]
+
+[^26-1]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 10 mar. 2022, approvata dal CF il 29 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
+[^26-2]: [RS 172.220.113](https://fedlex.data.admin.ch/eli/cc/2001/279)
+[^26-3]: Introdotto dal n. I dell’O del Consiglio dei PF del 10 mar. 2022, approvata dal CF il 29 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
+[^26-4]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 10 mar. 2022, approvata dal CF il 29 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
 
 #### Art. 27
 
 **Pagamento dello stipendio in caso di maternità**
 
 In caso di maternità, le professoresse hanno diritto ad un congedo di quattro mesi, durante il quale viene versato loro l’intero stipendio.
+
+#### Art. 27a
+
+**Congedo di paternità, congedo per adozione e congedo per l’assistenza a un figlio con gravi problemi di salute**[^27a-1]
+
+Il congedo e la continuazione del versamento dello stipendio in caso di nascita di uno o più figli propri, di nascita di uno o più figli del partner registrato, di adozione o di assistenza a un figlio con gravi problemi di salute sono retti dagli articoli 37*a* e 37*b* OPers PF[^27a-2].
+
+[^27a-1]: Introdotto dal n. I dell’O del Consiglio dei PF del 10 mar. 2022, approvata dal CF il 29 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
+[^27a-2]: [RS 172.220.113](https://fedlex.data.admin.ch/eli/cc/2001/279)
 
 #### Art. 28
 
@@ -439,66 +562,58 @@ In caso di maternità, le professoresse hanno diritto ad un congedo di quattro m
 
 In caso d’invalidità dovuta a infortunio professionale o ad altra malattia professionale equivalente si ha diritto:
 
-- a. al 100 per cento dello stipendio determinante fino al decesso, se l’incapacità al guadagno è totale;
-- b. alla percentuale corrispondente al grado d’invalidità secondo la legge federale del 20 marzo 1981[^29-1] sull’assicurazione contro gli infortuni, se l’incapacità al guadagno è parziale.
+- a. al 100 per cento dello stipendio determinante, se l’incapacità al guadagno è totale, fino al raggiungimento del limite d’età di cui all’articolo 21 LAVS[^29-1];
+- b. alla percentuale corrispondente al grado d’invalidità secondo la legge federale del 20 marzo 1981[^29-2] sull’assicurazione contro gli infortuni, se l’incapacità al guadagno è parziale.[^29-3]
 
 <sup>2</sup> Le prestazioni delle assicurazioni sociali obbligatorie vengono conteggiate.
 
-[^29-1]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^29-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^29-2]: [[RS 832.20](https://www.fedlex.admin.ch/eli/cc/1982/1676_1676_1676/de)](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^29-3]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 10 mar. 2022, approvata dal CF il 29 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
 
 #### Art. 30
 
 **Pagamento dello stipendio in caso di decesso**[^30-1]
 
-<sup>1</sup> In caso di decesso di un professore, i superstiti ricevono un importo pari a un sesto del salario annuo.
+<sup>1</sup> In caso di decesso i superstiti ricevono un importo pari a un sesto dello stipendio annuo più eventuali assegni secondo gli articoli 31–31*b*.
 
-<sup>2</sup> È considerata superstite anche la persona che ha convissuto ininterrottamente con il defunto nei cinque anni prima del decesso.
+<sup>2</sup> Sono considerati superstiti il coniuge, il partner registrato, i figli minorenni, oppure la persona con la quale il defunto ha convissuto nel periodo precedente al decesso. In assenza di superstiti, sono considerate tali le persone nei confronti delle quali il defunto aveva un obbligo di assistenza.
 
-<sup>3</sup> L’assegno per il sostegno a congiunti previsto dall’articolo 31*b* è versato nella stessa misura.
-
-[^30-1]: Nuovo testo giusta il n. III dell’O del Consiglio dei PF dell’11 dic. 2008, approvata dal CF il 18 feb. 2009, in vigore dal 1° gen. 2009 ([RU 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)).
+[^30-1]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 10 mar. 2022, approvata dal CF il 29 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
 
 #### Art. 31
 
-**Diritto all’assegno familiare**[^31-1]
+**Diritto all’assegno familiare e a prestazioni integrative**[^31-1]
 
-<sup>1</sup> L’assegno familiare è versato fino alla fine del mese in cui il figlio compie il 16° anno d’età.
-
-<sup>2</sup> Per i figli in formazione è versato al massimo fino alla fine del mese in cui compiono il 25° anno d’età.
-
-<sup>3</sup> Per i figli che presentano un’incapacità al guadagno (art. 7 della LF del 6 ott. 2000[^31-2] sulla parte generale del diritto delle assicurazioni sociali) è versato al massimo fino alla fine del mese in cui compiono il 20° anno d’età.
-
-<sup>4</sup> L’assegno familiare è adeguato al rincaro.
-
-[^31-1]: Nuovo testo giusta il n. III dell’O del Consiglio dei PF dell’11 dic. 2008, approvata dal CF il 18 feb. 2009, in vigore dal 1° gen. 2009 ([RU 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)).
-[^31-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-
-#### Art. 31a
-
-**Prestazioni che integrano l’assegno familiare**[^31a-1]
-
-<sup>1</sup>
-
-I professori hanno diritto a prestazioni che integrano l’assegno familiare, nella misura in cui questo è inferiore a:
-
-- a. 4519 franchi all’anno per il primo figlio che ha diritto all’assegno;
-- b. 2919 franchi all’anno per ogni ulteriore figlio che ha diritto all’assegno;
-- c. 3298 franchi all’anno per ogni ulteriore figlio che ha diritto all’assegno, ha compiuto il 16° anno d’età e segue una formazione o presenta un’incapacità al guadagno.[^31a-2]
+<sup>1</sup> Il diritto agli assegni familiari è retto dall’articolo 3 della legge del 24 marzo 2006[^31-2] sugli assegni familiari (LAFam).
 
 <sup>2</sup>
 
-L’importo delle prestazioni integrative corrisponde alla differenza tra l’importo di cui al capoverso 1 e gli importi minimi stabiliti nella legge del 24 marzo 2006[^31a-3] sugli assegni familiari (LAFam). Nel calcolo sono aggiunti all’assegno familiare:
+I professori hanno diritto a prestazioni integrative fino a un importo complessivo massimo di:
 
-- a. gli assegni familiari percepiti da altre persone secondo la LAFam per lo stesso figlio;
-- b. gli assegni familiari, gli assegni per i figli, gli assegni di formazione e gli assegni di custodia percepiti ’dal collaboratore o da altre persone presso altri datori di lavoro o un’altra autorità competente per lo stesso figlio.
+- a. 4530 franchi per il primo figlio che ha diritto all’assegno;
+- b. 2922 franchi per ogni ulteriore figlio che ha diritto all’assegno (art. 3 cpv. 1 lett. a LAFam);
+- c. 3300 franchi per ogni ulteriore figlio che ha diritto all’assegno di formazione (art. 3. cpv. 1 lett. b LAFam).
 
-<sup>3</sup> I professori con un grado d’occupazione inferiore al 50 per cento non ricevono le prestazioni integrative.
+<sup>3</sup>
 
-<sup>4</sup> Le prestazioni che integrano l’assegno familiare sono adeguate al rincaro.
+Dalle prestazioni integrative sono detratti i seguenti assegni familiari:
 
-[^31a-1]: Introdotto dal n. III dell’O del Consiglio dei PF dell’11 dic. 2008, approvata dal CF il 18 feb. 2009, in vigore dal 1° gen. 2009 ([RU 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)).
-[^31a-2]: Nuovo testo giusta il n. III dell’O del Consiglio dei PF del 12 dic. 2019, approvata dal CF il 19 ago. 2020, in vigore dal 1° gen. 2020 ([RU 2020 3617](https://fedlex.data.admin.ch/eli/oc/2020/653)).
-[^31a-3]: [RS 836.2](https://fedlex.data.admin.ch/eli/cc/2008/51)
+- a. gli assegni familiari percepiti da altre persone secondo la LAFam e secondo gli ordinamenti cantonali sugli assegni familiari per lo stesso figlio;
+- b. gli assegni familiari, per i figli, di formazione o di custodia obbligatori e sovraobbligatori fatti valere presso altri datori di lavoro o presso un altro ente per lo stesso figlio.
+
+<sup>4</sup> I professori con un grado d’occupazione inferiore al 50 per cento non ricevono le prestazioni integrative.
+
+<sup>5</sup> Le prestazioni che integrano l’assegno familiare di cui al capoverso 2 sono adeguate al rincaro.
+
+[^31-1]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 10 mar. 2022, approvata dal CF il 29 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
+[^31-2]: [RS 836.2](https://fedlex.data.admin.ch/eli/cc/2008/51)
+
+#### Art. 31a
+
+[^31a-1]
+
+[^31a-1]: Introdotto dal n. III dell’O del Consiglio dei PF dell’11 dic. 2008, approvata dal CF il 18 feb. 2009 ([RU 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)). Abrogato dal n. I dell’O del Consiglio dei PF del 10 mar. 2022, approvata dal CF il 29 giu. 2022, con effetto dal 1° ago. 2022 ([RU 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
 
 #### Art. 31b
 
@@ -529,7 +644,7 @@ I professori devono dichiarare:
 
 <sup>4</sup> Per il rimanente si applicano le disposizioni del RP-PF 2[^32-6].[^32-7]
 
-<sup>5</sup> Gli articoli 39*a*, 42*a* e 47*a* OPers PF[^32-8] si applicano per analogia. L’ammontare della partecipazione del datore di lavoro al finanziamento della rendita transitoria secondo l’allegato 5 OPers PF corrisponde all’aliquota percentuale vigente per il piano dei quadri 2.[^32-9]
+<sup>5</sup> Gli articoli 42*a* e 47*a* OPers PF[^32-8] si applicano per analogia. L’ammontare della partecipazione del datore di lavoro al finanziamento della rendita transitoria secondo l’allegato 5 OPers PF corrisponde all’aliquota percentuale vigente per il piano dei quadri 2.[^32-9]
 
 <sup>6</sup> Entrambi i PF possono stipulare un’assicurazione per i rischi morte e invalidità per i professori ai quali si applica l’articolo 60*b* dell’ordinanza del 18 aprile 1984[^32-10] sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità. I PF regolamentano un’eventuale partecipazione dei professori ai costi dell’assicurazione.[^32-11]
 
@@ -541,7 +656,7 @@ I professori devono dichiarare:
 [^32-6]: [RS 172.220.142.2](https://fedlex.data.admin.ch/eli/cc/2012/192)
 [^32-7]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 2 ott. 2007, approvata dal CF il 14 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2291](https://fedlex.data.admin.ch/eli/oc/2008/331)).
 [^32-8]: [RS 172.220.113](https://fedlex.data.admin.ch/eli/cc/2001/279)
-[^32-9]: Introdotto dal n. I dell’O del Consiglio dei PF del 2 ott. 2007, approvata dal CF il 14 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2291](https://fedlex.data.admin.ch/eli/oc/2008/331)).
+[^32-9]: Introdotto dal n. I dell’O del Consiglio dei PF del 2 ott. 2007, approvata dal CF il 14 mag. 2008 ([RU 2008 2291](https://fedlex.data.admin.ch/eli/oc/2008/331)). Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 10 mar. 2022, approvata dal CF il 29 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
 [^32-10]: [RS 831.441.1](https://fedlex.data.admin.ch/eli/cc/1984/543_543_543)
 [^32-11]: Introdotto dal n. III dell’O del Consiglio dei PF dell’11 dic. 2008, approvata dal CF il 18 feb. 2009, in vigore dal 1° gen. 2009 ([RU 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)).
 

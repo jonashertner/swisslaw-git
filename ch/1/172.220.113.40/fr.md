@@ -3,11 +3,11 @@ sr: "172.220.113.40"
 title: Ordonnance du Conseil des EPF du 18 septembre 2003 sur le corps professoral des écoles polytechniques fédérales (Ordonnance sur le corps professoral des EPF)
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/747"
 language: fr
-version: 2020-01-01
+version: 2022-08-01
 adopted: 2003-09-18
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/747/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-2003-747-20200101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/747/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/747/20220801/fr/xml/fedlex-data-admin-ch-eli-cc-2003-747-20220801-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/747/20220801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,19 +16,20 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/747/20200101/fr"
 
 (Ordonnance sur le corps professoral des EPF)
 
-du 18 septembre 2003 (Etat le 1<sup>er</sup> janvier 2020)
+du 18 septembre 2003 (Etat le 1<sup>er</sup> août 2022)
 
 Approuvée par le Conseil fédéral le 26 novembre 2003
 
 Le Conseil des EPF,
 
-vu l’art. 37, al. 3, de la loi du 24 mars 2000 sur le personnel de la Confédération (LPers)[^ingress-1], vu l’art. 2 de l’ordonnance-cadre LPers, du 20 décembre 2000[^ingress-2], vu l’art. 40*a* de la loi du 4 octobre 1991 sur les EPF[^ingress-3],
+vu l’art. 37, al. 3, de la loi fédérale du 24 mars 2000 sur le personnel de la Confédération (LPers)[^ingress-1], vu l’art. 2 de l’ordonnance-cadre LPers, du 20 décembre 2000[^ingress-2] vu l’art. 17, al. 2, de la loi du 4 octobre 1991 sur les EPF[^ingress-3],[^ingress-4]
 
 arrête:
 
 [^ingress-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
 [^ingress-2]: [RS 172.220.11](https://fedlex.data.admin.ch/eli/cc/2001/124)
 [^ingress-3]: [RS 414.110](https://fedlex.data.admin.ch/eli/cc/1993/210_210_210)
+[^ingress-4]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 10 mars 2022, approuvée par le CF le 29 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
 
 ## Section 1 Dispositions générales
 
@@ -45,10 +46,13 @@ La présente ordonnance règle les conditions d’emploi des membres ci-dessous 
 
 <sup>2</sup> L’engagement de professeurs soumis au droit privé est réglé par le code des obligations[^1-1].
 
-<sup>3</sup> Le contrat de travail de droit privé doit comporter les dispositions de la LPers et de la présente ordonnance applicables par analogie aux professeurs engagés selon le droit privé. Les dispositions des art. 4 à 6 (droits et obligations) et de l’art. 16 (salaire) de la présente ordonnance s’appliquent par analogie aux professeurs engagés selon le droit privé.[^1-2]
+<sup>2bis</sup> Des contrats de travail de droit privé peuvent notamment être conclus avec des professeurs qui sont engagés par une EPF à temps partiel ou pour une durée déterminée et qui ne sont pas tenus d’effectuer l’intégralité des tâches prévues à l’art. 5 au sein de cette EPF.[^1-2]
+
+<sup>3</sup> Le contrat de travail de droit privé doit comporter les dispositions de la LPers et de la présente ordonnance applicables par analogie aux professeurs engagés selon le droit privé. Les dispositions des art. 4 à 6 (droits et obligations) et de l’art. 16 (salaire) de la présente ordonnance s’appliquent par analogie aux professeurs engagés selon le droit privé.[^1-3]
 
 [^1-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^1-2]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 18 sept. 2014, approuvée par le CF le 25 mars 2015, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2015 1041](https://fedlex.data.admin.ch/eli/oc/2015/202)).
+[^1-2]: Introduit par le ch. I de l’O du Conseil des EPF du 10 mars 2022, approuvée par le CF le 29 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
+[^1-3]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 18 sept. 2014, approuvée par le CF le 25 mars 2015, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2015 1041](https://fedlex.data.admin.ch/eli/oc/2015/202)).
 
 #### Art. 2
 
@@ -110,17 +114,43 @@ La présente ordonnance règle les conditions d’emploi des membres ci-dessous 
 
 <sup>5</sup> Ils participent à l’autogestion académique.
 
+#### Art. 5a
+
+**Conflits d’intérêts et récusation**[^5a-1]
+
+<sup>1</sup> Les professeurs s’acquittent des tâches qui leur sont confiées indépendamment de leurs intérêts personnels; ils évitent les conflits entre leurs intérêts privés et ceux des deux EPF.
+
+<sup>2</sup> Ils se récusent lorsqu’ils ont un intérêt personnel dans une affaire ou que leur impartialité pourrait être mise en cause pour d’autres motifs. L’apparence de partialité suffit à motiver la récusation. Les motifs de partialité énoncés à l’art. 53*b*, al. 2, de l’ordonnance du 15 mars 2001 sur le personnel du domaine des EPF (OPers-EPF)[^5a-2] s’appliquent.
+
+<sup>3</sup> Deux professeurs de l’EPF mariés, vivant en partenariat enregistré ou en concubinage ou ayant un lien de parenté proche ou de parenté par alliance doivent le signaler au président de l’EPF ou lors du processus de nomination.
+
+<sup>4</sup> En présence d’une des relations citées à l’al. 3, le président de l’EPF doit veiller à ce que les personnes concernées ne soient pas directement subordonnées l’une à l’autre sur le plan organisationnel.
+
+<sup>5</sup> En application de l’art. 53*a* OPers-EPF, les EPF édictent des dispositions concernant l’engagement de conjoints, de partenaires enregistrés, de concubins ou de personnes ayant un lien de parenté proche avec un professeur; elles peuvent notamment faire en sorte que ces personnes ne travaillent pas dans la même unité organisationnelle.
+
+[^5a-1]: Introduit par le ch. I de l’O du Conseil des EPF du 10 mars 2022, approuvée par le CF le 29 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
+[^5a-2]: [RS 172.220.113](https://fedlex.data.admin.ch/eli/cc/2001/279)
+
 #### Art. 6
 
-**Activités extérieures à l’EPF**
+**Activités accessoires**[^6-1]
 
-<sup>1</sup> Les professeurs peuvent avoir en leur propre nom, pour leur propre compte et sous leur propre responsabilité des activités professionnelles en dehors de leurs rapports de travail avec l’EPF, notamment en qualité d’experts, pour autant que cela ne soit pas au détriment des obligations découlent de leurs rapports de travail.
+<sup>1</sup> Les professeurs notifient régulièrement au président de l’EPF toutes les activités accessoires qu’ils exercent en leur propre nom, pour leur propre compte et sous leur propre responsabilité en dehors de leurs rapports de travail ainsi que d’éventuels changements.
 
-<sup>2</sup> Ils doivent obtenir l’autorisation du président de l’EPF pour exercer une activité extérieure à l’EPF exigeant au total plus d’une journée hebdomadaire pour un emploi à plein temps.
+<sup>2</sup>
 
-<sup>3</sup> Ils doivent obtenir l’autorisation du président de l’EPF pour siéger dans un conseil d’administration ou à la direction d’une entreprise. L’autorisation leur est accordée lors qu’aucun intérêt de l’EPF ne s’y oppose.
+Ils doivent obtenir l’autorisation préalable du président de l’EPF:
 
-<sup>4</sup> Si les professeurs recourent à des ressources de l’EPF, telles que du matériel de laboratoire ou le secrétariat, pour une activité rémunérée extérieure à l’EPF, ils doivent dédommager l’EPF. Les deux EPF édictent les dispositions nécessaires.
+- a. si l’exercice des activités accessoires considérées prend plus d’un jour de travail par semaine pour les professeurs employés à plein temps;
+- b. s’il existe, de par la nature de l’activité, un conflit d’intérêts potentiel avec l’EPF ou un risque significatif pour la réputation de l’EPF, que celui-ci soit prévisible ou avéré;
+- c. s’il s’agit d’une activité consistant à siéger au sein d’un organe de surveillance ou de direction d’une organisation publique ou privée, ou
+- d. si l’exercice de l’activité implique de recourir aux moyens de l’EPF tels que des équipements de laboratoire ou aux ressources en personnel de l’EPF.
+
+<sup>3</sup> Les activités exercées par les professeurs sur mandat de l’EPF ne sont pas prises en compte dans le calcul de la durée autorisée (al. 2, let. a).
+
+<sup>4</sup> Lorsque les professeurs se servent des moyens mis à leur disposition par leur EPF, tels que des équipements de laboratoire ou du personnel, pour exercer une activité accessoire rémunérée ou non, ils doivent dédommager l’EPF. Les deux EPF édictent les dispositions requises en la matière.
+
+[^6-1]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 10 mars 2022, approuvée par le CF le 29 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
 
 ## Section 3 Naissance, modification et résiliation des rapports de travail
 
@@ -162,9 +192,14 @@ b. le montant du salaire initial;
 
 <sup>1</sup> Le contrat de travail des professeurs ordinaires et des professeurs associés est conclu pour une durée indéterminée.
 
-<sup>2</sup> Le contrat de travail des professeurs assistants est conclu pour une durée maximale de quatre ans. Il est renouvelable une fois pour quatre ans au plus. En cas de maternité, le contrat peut être prolongé d’un an au plus.
+<sup>2</sup> Le contrat de travail des professeurs assistants est conclu pour une durée de quatre ans. Les rapports de travail peuvent être prolongés jusqu’à une durée d’engagement maximale de huit ans.[^9-1]
+
+<sup>2bis</sup> En cas d’absence prolongée pour cause de maladie, d’accident, de paternité ou d’adoption ou pour toute autre raison importante, il est possible de demander à ce que la durée d’engagement définie à l’al. 2 soit prolongée en tout d’une année au maximum; en cas de maternité, le contrat peut être prolongé d’un an au maximum à chaque fois. Les modalités sont réglées par les deux EPF.[^9-2]
 
 <sup>3</sup> Il n’y a pas de période d’essai.
+
+[^9-1]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 10 mars 2022, approuvée par le CF le 29 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
+[^9-2]: Introduit par le ch. I de l’O du Conseil des EPF du 10 mars 2022, approuvée par le CF le 29 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
 
 #### Art. 10
 
@@ -198,17 +233,21 @@ b. le montant du salaire initial;
 
 <sup>1</sup> Le Conseil des EPF peut résilier les rapports de travail d’un professeur sur demande du président de l’EPF conformément à l’art. 10, al. 3, LPers, moyennant un préavis de six mois.[^13-1]
 
-<sup>2</sup> Avant de présenter sa demande, le président de l’EPF constitue une commission qui se prononce sur l’opportunité de la résiliation et émet une recommandation. La commission se compose d’au moins de six membres: trois d’entre eux ne doivent pas relever de l’EPF concernée. Trois des six membres sont proposés par la Conférence du corps enseignant.
+<sup>1bis</sup> En cas d’incapacité de travail totale ou partielle permanente pour cause de maladie ou d’accident, le contrat de travail peut être résilié au plus tôt pour l’échéance de la durée de maintien du salaire définie à l’art. 26.[^13-2]
 
-<sup>3</sup> …[^13-2]
+<sup>2</sup> Pour les résiliations ordinaires de rapports de travail, le président de l’EPF constitue, avant de présenter sa demande, une commission chargée d’examiner le bien-fondé de la résiliation et d’émettre une recommandation. La commission se compose d’au moins six membres; trois d’entre eux ne doivent pas relever de l’EPF concernée. Trois des six membres sont proposés par la Conférence du corps enseignant.[^13-3]
 
-<sup>4</sup> Pour les professeurs qui sont âgés de 58 ans au moins et employés depuis dix ans dans le domaine des EPF au moment où un licenciement selon l’al. 1 prend effet, mais qui n’ont pas encore atteint la limite d’âge fixée à l’art. 21 de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants (LAVS)[^13-3], une rente de vieillesse est versée conformément au règlement de prévoyance du 9 décembre 2007 de la Caisse de prévoyance du domaine des EPF pour les professeurs des EPF (RP‑EPF2)[^13-4]. Cette rente de vieillesse est calculée selon l’art. 57 RP-EPF2 au même titre qu’une rente d’invalidité. Les EPF versent à la Caisse de pension fédérale la partie de la rente non financée au moment de la résiliation des rapports de travail. La rente transitoire n’est pas financée par l’employeur.[^13-5]
+<sup>3</sup> …[^13-4]
+
+<sup>4</sup> Pour les professeurs qui sont âgés de 58 ans au moins et employés depuis dix ans dans le domaine des EPF au moment où un licenciement selon l’al. 1 prend effet, mais qui n’ont pas encore atteint la limite d’âge fixée à l’art. 21 de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants (LAVS)[^13-5], une rente de vieillesse est versée conformément au règlement de prévoyance du 9 décembre 2007 de la Caisse de prévoyance du domaine des EPF pour les professeurs des EPF (RP‑EPF2)[^13-6]. Cette rente de vieillesse est calculée selon l’art. 57 RP-EPF2 au même titre qu’une rente d’invalidité. Les EPF versent à la Caisse de pension fédérale la partie de la rente non financée au moment de la résiliation des rapports de travail. La rente transitoire n’est pas financée par l’employeur.[^13-7]
 
 [^13-1]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 18 sept. 2014, approuvée par le CF le 25 mars 2015, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2015 1041](https://fedlex.data.admin.ch/eli/oc/2015/202)).
-[^13-2]: Abrogé par le ch. II de l’O du Conseil des EPF du 6 mars 2013, approuvée par le CF le 14 juin 2013, avec effet au 1<sup>er</sup> juil. 2013 ([RO 2013 1777](https://fedlex.data.admin.ch/eli/oc/2013/404)).
-[^13-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^13-4]: [RS 172.220.142.2](https://fedlex.data.admin.ch/eli/cc/2012/192)
-[^13-5]: Nouvelle teneur selon le ch. II de l’O du Conseil des EPF du 6 mars 2013, approuvée par le CF le 14 juin 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1777](https://fedlex.data.admin.ch/eli/oc/2013/404)).
+[^13-2]: Introduit par le ch. I de l’O du Conseil des EPF du 10 mars 2022, approuvée par le CF le 29 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
+[^13-3]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 10 mars 2022, approuvée par le CF le 29 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
+[^13-4]: Abrogé par le ch. II de l’O du Conseil des EPF du 6 mars 2013, approuvée par le CF le 14 juin 2013, avec effet au 1<sup>er</sup> juil. 2013 ([RO 2013 1777](https://fedlex.data.admin.ch/eli/oc/2013/404)).
+[^13-5]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^13-6]: [RS 172.220.142.2](https://fedlex.data.admin.ch/eli/cc/2012/192)
+[^13-7]: Nouvelle teneur selon le ch. II de l’O du Conseil des EPF du 6 mars 2013, approuvée par le CF le 14 juin 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1777](https://fedlex.data.admin.ch/eli/oc/2013/404)).
 
 #### Art. 13a
 
@@ -245,23 +284,68 @@ Les professeurs prennent leur retraite à la fin du mois au cours duquel:
 
 <sup>2</sup> Ils peuvent prendre leur retraite de façon anticipée pour autant qu’ils aient droit, au moment de la résiliation de leurs rapports de travail, à une rente de vieillesse selon le RP-EPF 2[^14-2].[^14-3]
 
-<sup>3</sup> Le professeur et le président de l’EPF conviennent d’avance des modalités et de la date du départ.
+<sup>3</sup> Il est possible de convenir d’un départ à la retraite à la fin du semestre académique au cours duquel la personne concernée atteindra l’âge limite visé à l’art. 17, al. 7 ou 8, de la loi du 4 octobre 1991 sur les EPF.[^14-4]
 
-<sup>4</sup> Dans des cas dûment motivés, le Conseil des EPF peut exceptionnellement, sur proposition du président de l’EPF, convenir avec le professeur concerné du maintien de l’emploi de ce dernier au-delà de l’âge – limite défini à l’art. 21 LAVS.
+<sup>4</sup> L’EPF définit suffisamment tôt en accord avec la personne concernée les modalités ainsi que la date du départ et soumet au Conseil des EPF les éventuelles propositions requises.[^14-5]
 
 <sup>5</sup> Les professeurs retraités peuvent continuer à donner des cours libres et à utiliser les installations générales de l’école. Le président de l’EPF peut leur confier des charges de cours et d’autres mandats, et mettre des locaux et du matériel à leur disposition à leur demande.
 
 [^14-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 [^14-2]: Ce R n’est pas publié au RO (voir [FF 2008 5458](https://fedlex.data.admin.ch/eli/fga/2008/1055)).
 [^14-3]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 2 oct. 2007, approuvée par le CF le 14 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2291](https://fedlex.data.admin.ch/eli/oc/2008/331)).
+[^14-4]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 10 mars 2022, approuvée par le CF le 29 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
+[^14-5]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 10 mars 2022, approuvée par le CF le 29 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
+
+#### Art. 14a
+
+**Engagements de droit privé au-delà de l’âge limite de départ en retraite**[^14a-1]
+
+<sup>1</sup>
+
+Dans des cas dûment motivés, il peut être convenu de maintenir un engagement de droit privé au-delà de l’âge limite fixé à l’art. 14, al. 1, let. a, si le renouvellement et le rajeunissement du corps professoral ne sont pas compromis par une telle mesure et que l’une au moins des conditions suivantes est remplie:
+
+- a. le professeur concerné a fourni des prestations scientifiques remarquables laissant présager de l’acquisition d’un volume important de fonds de tiers qui serviront à assurer la pérennité d’un groupe de recherche;
+- b. le maintien de la personne concernée à son poste revêt une grande importance pour les tâches stratégiques ou institutionnelles au sein du domaine des EPF.
+
+<sup>2</sup> Sur proposition du président de l’EPF, le Conseil des EPF désigne les professeurs qui remplissent les conditions énoncées à l’al. 1.
+
+<sup>3</sup>
+
+Le contrat de travail de droit privé règle au minimum:
+
+- a. la durée du maintien de la personne concernée à son poste, qui prend fin en règle générale au plus tard cinq ans après l’atteinte de l’âge légal de la retraite;
+- b. la possibilité faite aux deux parties de demander la résiliation ordinaire du contrat avant son arrivée à expiration;
+- c. les droits et les obligations des professeurs dans le respect des art. 4 à 6;
+- d. la renonciation à la poursuite de la prévoyance professionnelle.
+
+<sup>4</sup> Le salaire annuel se monte à 114 279,60 francs (état le 1<sup>er</sup> janvier 2022) pour un emploi à plein temps.
+
+<sup>5</sup> Les directions des deux EPF règlent les modalités.
+
+[^14a-1]: Introduit par le ch. I de l’O du Conseil des EPF du 10 mars 2022, approuvée par le CF le 29 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
+
+#### Art. 14b
+
+**Prolongation d’engagements de droit public au-delà de l’âge limite de départ à la retraite**[^14b-1]
+
+<sup>1</sup> Dans certains cas exceptionnels dûment motivés, le Conseil des EPF peut, sur proposition du président de l’EPF, convenir avec un professeur de prolonger les rapports de travail de droit public au-delà de la date fixée à l’art. 14, al. 1, let. a.
+
+<sup>2</sup> Les directions des deux EPF se chargent de fixer les modalités.
+
+[^14b-1]: Introduit par le ch. I de l’O du Conseil des EPF du 10 mars 2022, approuvée par le CF le 29 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
 
 #### Art. 15
 
-**Maintien du titre de professeur**
+**Titre de professeur après la fin des rapports de travail[^15-1]**
 
 <sup>1</sup> Le Conseil des EPF décide, sur proposition du président de l’EPF, si les professeurs ordinaires et les professeurs associés sont autorisés à conserver le titre de professeur de l’EPF une fois qu’ils ont quitté l’école. Pour pouvoir conserver leur titre, ils doivent avoir travaillé pendant six ans au moins à l’EPF. Le Conseil des EPF peut déroger à cette règle si cela est dans l’intérêt de l’EPF.
 
+<sup>1bis</sup> Les professeurs ordinaires et associés autorisés à conserver le titre de professeur utilisent le titre de «professeur honoraire» ou «prof. hon.».[^15-2]
+
 <sup>2</sup> Les professeurs assistants ne sont pas autorisés à conserver leur titre.
+
+[^15-1]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 10 mars 2022, approuvée par le CF le 29 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
+[^15-2]: Introduit par le ch. I de l’O du Conseil des EPF du 10 mars 2022, approuvée par le CF le 29 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
 
 ## Section 4 Rémunération et indemnités
 
@@ -309,11 +393,11 @@ Le président de l’EPF peut, dans des cas individuels, augmenter le salaire à
 
 #### Art. 18
 
-**Adaptation de l’échelle des salaires**[^18-1]
+**Adaptation de l’échelle des salaires et du salaire**[^18-1]
 
-L’art. 28 de l’ordonnance du 15 mars 2001 sur le personnel du domaine des EPF (Opers-EPF)[^18-2] s’applique par analogie à l’adaptation de l’échelle des salaires.
+L’art. 28 OPers-EPF[^18-2] s’applique par analogie à l’adaptation au renchérissement ou aux mesures salariales générales de l’échelle des salaires et du salaire visé à l’art. 14*a*.
 
-[^18-1]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 29 juin 2005, approuvée par le CF le 23 sept. 2005, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 4811](https://fedlex.data.admin.ch/eli/oc/2005/647)).
+[^18-1]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 10 mars 2022, approuvée par le CF le 29 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
 [^18-2]: [RS 172.220.113](https://fedlex.data.admin.ch/eli/cc/2001/279)
 
 #### Art. 19
@@ -350,13 +434,21 @@ Le Conseil des EPF convient, sur proposition du président de l’EPF concernée
 
 #### Art. 21
 
-**Remboursement des frais**
+**Remboursement des frais et autres prestations[^21-1]**
 
-<sup>1</sup> Les professeurs ont droit au remboursement des frais encourus au titre de leur activité professionnelle. Les dispositions de l’ordonnance du 11 avril 2002 concernant le remboursement des frais dans le domaine des EPF[^21-1] s’appliquent.
+<sup>1</sup> Les professeurs ont droit au remboursement des frais encourus au titre de leur activité professionnelle. Les dispositions de l’ordonnance du 11 avril 2002 concernant le remboursement des frais dans le domaine des EPF[^21-2] s’appliquent.
 
-<sup>2</sup> L’EPF peut rembourser aux professeurs nouvellement nommés les frais de transport de leurs effets personnels si le déménagement est motivé par des impératifs professionnels.
+<sup>2</sup> L’EPF peut rembourser aux professeurs les frais d’un déménagement motivé par leur nomination au sein de l’EPF.[^21-3]
 
-[^21-1]: [RS 172.220.113.43](https://fedlex.data.admin.ch/eli/cc/2002/245)
+<sup>3</sup> Dans des cas exceptionnels dûment motivés et à des fins de recrutement, l’EPF peut octroyer des prestations supplémentaires appropriées aux professeurs.[^21-4]
+
+<sup>4</sup> Si l’EPF octroie des prestations conformément à l’al. 3, elle édicte des dispositions d’exécution pour déterminer l’étendue, la durée et les conditions de ces prestations.[^21-5]
+
+[^21-1]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 10 mars 2022, approuvée par le CF le 29 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
+[^21-2]: [RS 172.220.113.43](https://fedlex.data.admin.ch/eli/cc/2002/245)
+[^21-3]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 10 mars 2022, approuvée par le CF le 29 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
+[^21-4]: Introduit par le ch. I de l’O du Conseil des EPF du 10 mars 2022, approuvée par le CF le 29 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
+[^21-5]: Introduit par le ch. I de l’O du Conseil des EPF du 10 mars 2022, approuvée par le CF le 29 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
 
 #### Art. 22
 
@@ -371,7 +463,11 @@ Les EPF remboursent les frais de procédure et les frais judiciaires aux profess
 
 <sup>2</sup> Seule une garantie de prise en charge des frais est accordée jusqu’à ce que la décision soit entrée en force.
 
-## Section 5 Congés et absences
+## Section 5 Vacances, congés et absences****
+
+[^sec5-1]
+
+[^sec5-1]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 10 mars 2022, approuvée par le CF le 29 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
 
 #### Art. 23
 
@@ -382,6 +478,17 @@ Les EPF remboursent les frais de procédure et les frais judiciaires aux profess
 <sup>2</sup> Il doit en faire la demande au président de l’EPF.
 
 <sup>3</sup> La décision d’octroi d’un congé de recherche dépend sur les prestations fournies par le professeur et sur la possibilité de le remplacer adéquatement.
+
+#### Art. 23a
+
+**Vacances et congés**[^23a-1]
+
+<sup>1</sup> Le droit aux vacances est régi par l’art. 51, al. 1 et 2, OPers-EPF[^23a-2] et le droit aux congés, par l’art. 52, al. 1 et 2, de la même ordonnance.
+
+<sup>2</sup> Le droit aux vacances doit être exercé durant l’année civile où il prend naissance. Si cela n’est pas possible pour des raisons impératives d’ordre opérationnel ou pour cause de maladie ou d’accident, le professeur indique son solde de vacances au service du personnel et l’utilise l’année suivante.
+
+[^23a-1]: Introduit par le ch. I de l’O du Conseil des EPF du 10 mars 2022, approuvée par le CF le 29 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
+[^23a-2]: [RS 172.220.113](https://fedlex.data.admin.ch/eli/cc/2001/279)
 
 #### Art. 24
 
@@ -403,19 +510,35 @@ Le président de l’EPF peut accorder un congé non payé à un professeur, pou
 
 **Droit au salaire en cas de maladie ou d’accident**
 
-<sup>1</sup> En cas d’incapacité de travail pour cause de maladie ou d’accident les professeurs ont droit à l’intégralité de leur salaire pour une durée maximale de 730 jours.
+<sup>1</sup> En cas d’incapacité de travail pour cause de maladie ou d’accident, les professeurs ont droit au maintien de leur salaire, allocations comprises, pour une durée maximale de 730 jours. Ils reçoivent l’intégralité de leur salaire brut pendant douze mois, puis 90 % de ce montant.[^26-1]
+
+<sup>1bis</sup> La personne concernée est tenue de collaborer conformément à l’art. 36*a* OPers-EPF[^26-2]. Les certificats médicaux doivent être remis au service compétent des ressources humaines.[^26-3]
 
 <sup>2</sup> Le droit au salaire peut être réduit pour les raisons prévues par la législation et la jurisprudence sur l’assurance-maladie et l’assurance-accidents.
 
 <sup>3</sup> Un examen par le médecin-conseil peut être ordonné afin d’évaluer l’incapacité de travail.
 
-<sup>4</sup> Les indemnités de l’assurance obligatoire sont imputées.
+<sup>4</sup> Les indemnités de l’assurance obligatoire sont imputées. L’interruption et le nouveau délai du maintien du salaire sont régis par l’art. 36*c* OPers-EPF.[^26-4]
+
+[^26-1]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 10 mars 2022, approuvée par le CF le 29 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
+[^26-2]: [RS 172.220.113](https://fedlex.data.admin.ch/eli/cc/2001/279)
+[^26-3]: Introduit par le ch. I de l’O du Conseil des EPF du 10 mars 2022, approuvée par le CF le 29 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
+[^26-4]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 10 mars 2022, approuvée par le CF le 29 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
 
 #### Art. 27
 
 **Droit au salaire en cas de maternité**
 
 En cas de maternité, les professeures ont droit à un arrêt de travail et à l’intégralité de leur salaire pendant quatre mois.
+
+#### Art. 27a
+
+**Congé de paternité, congé d’adoption et congé pour la prise en charge d’un enfant gravement atteint dans sa santé**[^27a-1]
+
+Le congé et la poursuite du versement du salaire à la naissance d’un ou de plusieurs enfants du professeur ou encore d’un ou de plusieurs enfants du partenaire enregistré, ainsi qu’en cas d’adoption ou de prise en charge d’un enfant gravement atteint dans sa santé, sont régis par les art. 37*a* et 37*b* OPers-EPF[^27a-2].
+
+[^27a-1]: Introduit par le ch. I de l’O du Conseil des EPF du 10 mars 2022, approuvée par le CF le 29 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
+[^27a-2]: [RS 172.220.113](https://fedlex.data.admin.ch/eli/cc/2001/279)
 
 #### Art. 28
 
@@ -437,66 +560,58 @@ En cas de maternité, les professeures ont droit à un arrêt de travail et à l
 
 L’invalidité consécutive à un accident professionnel ou à une maladie professionnelle assimilée à un accident professionnel donne droit:
 
-- a. à 100 % du salaire déterminant en cas d’incapacité de gain totale, jusqu’au décès;
-- b. à la part correspondant au degré d’invalidité conformément à la loi fédérale du 20 mars 1981 sur l’assurance-accidents[^29-1] en cas d’incapacité de gain partielle, jusqu’au décès.
+- a. à 100 % du salaire déterminant en cas d’incapacité de gain totale, jusqu’à l’atteinte de l’âge limite prévu à l’art. 21 LAVS[^29-1];
+- b. à la part correspondant au degré d’invalidité conformément à la loi fédérale du 20 mars 1981 sur l’assurance-accidents[^29-2] en cas d’incapacité de gain partielle.[^29-3]
 
 <sup>2</sup> Les prestations de l’assurance obligatoire sont imputées.
 
-[^29-1]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^29-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^29-2]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^29-3]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 10 mars 2022, approuvée par le CF le 29 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
 
 #### Art. 30
 
 **Versement du salaire aux survivants**[^30-1]
 
-<sup>1</sup> En cas de décès d’un professeur, les survivants ont droit à un sixième du salaire annuel.
+<sup>1</sup> En cas de décès, les survivants ont droit à un sixième du salaire annuel en plus des éventuelles allocations visées aux art. 31 à 31*b*.
 
-<sup>2</sup> La personne avec laquelle le professeur défunt a formé une communauté de vie ininterrompue pendant les cinq dernières années de sa vie est assimilée aux survivants.
+<sup>2</sup> Sont considérés comme survivants l’époux ou l’épouse, le ou la partenaire enregistré, les enfants mineurs ou toute personne avec laquelle le défunt a formé une communauté de vie avant son décès. En l’absence de survivants, les personnes envers lesquelles le défunt a rempli une obligation d’entretien sont considérées comme tels.
 
-<sup>3</sup> La même règle s’applique au versement de l’allocation pour assistance aux proches parents visée à l’art. 31*b*.
-
-[^30-1]: Nouvelle teneur selon le ch. III de l’O du Conseil des EPF du 11 déc. 2008, approuvée par le CF le 18 fév. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)).
+[^30-1]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 10 mars 2022, approuvée par le CF le 29 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
 
 #### Art. 31
 
-**Droit à l’allocation familiale**[^31-1]
+**Droit à l’allocation familiale et aux allocations complétant l’allocation familiale**[^31-1]
 
-<sup>1</sup> L’allocation familiale est versée jusqu’à la fin du mois au cours duquel l’enfant atteint l’âge de 16 ans.
-
-<sup>2</sup> Pour les enfants suivant une formation, elle est versée au maximum jusqu’à la fin du mois au cours duquel l’enfant atteint l’âge de 25 ans.
-
-<sup>3</sup> Pour les enfants présentant une incapacité de gain (art. 7 de la LF du 6 oct. 2000 sur la partie générale du droit des assurances sociales[^31-2]), elle est versée au maximum jusqu’à la fin du mois au cours duquel l’enfant atteint l’âge de 20 ans.
-
-<sup>4</sup> L’allocation familiale est adaptée au renchérissement.
-
-[^31-1]: Nouvelle teneur selon le ch. III de l’O du Conseil des EPF du 11 déc. 2008, approuvée par le CF le 18 fév. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)).
-[^31-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-
-#### Art. 31a
-
-**Allocations complétant l’allocation familiale**[^31a-1]
-
-<sup>1</sup>
-
-Le professeur a droit à des allocations complétant l’allocation familiale si celle-ci est inférieure aux montants annuels suivants:
-
-- a. 4519 francs pour le premier enfant donnant droit aux allocations;
-- b. 2919 francs pour tout enfant supplémentaire donnant droit aux allocations;
-- c. 3298 francs pour tout enfant supplémentaire donnant droit aux allocations qui a atteint l’âge de 16 ans et qui suit une formation ou présente une incapacité de gain.[^31a-2]
+<sup>1</sup> Le droit aux allocations familiales se fonde sur les dispositions de l’art. 3 de la loi du 24 mars 2006 sur les allocations familiales (LAFam)[^31-2].
 
 <sup>2</sup>
 
-Le montant des allocations complétant l’allocation familiale correspond à la différence entre le montant déterminant indiqué à l’al. 1 et le montant minimum fixé dans la loi du 24 mars 2006 sur les allocations familiales (LAFam)[^31a-3]. Sont prises en considération en tant qu’allocations familiales:
+Le professeur a droit à des allocations complétant l’allocation familiale, dont le montant s’élève au maximum à:
 
-- a. les allocations familiales perçues pour le même enfant par d’autres personnes en application de la LAFam;
-- b. les allocations familiales, allocations pour enfants, allocations de formation professionnelle ou allocations pour charge d’assistance perçues pour le même enfant par le professeur ou par d’autres personnes auprès d’un autre employeur ou d’un autre service compétent.
+- a. 4530 francs pour le premier enfant donnant droit aux allocations;
+- b. 2922 francs pour tout enfant supplémentaire donnant droit à l’allocation pour enfant (art. 3, al. 1, let. a, LAFam);
+- c. 3300 francs pour tout enfant supplémentaire donnant droit à l’allocation de formation (art. 3, al. 1, let. b, LAFam).
 
-<sup>3</sup> Les professeurs dont le taux d’activité est inférieur à 50 % ne reçoivent pas d’allocations complétant l’allocation familiale.
+<sup>3</sup>
 
-<sup>4</sup> Les allocations complétant l’allocation familiale sont adaptées au renchérissement.
+Les allocations familiales suivantes sont déduites des allocations complétant l’allocation familiale:
 
-[^31a-1]: Introduit par le ch. III de l’O du Conseil des EPF du 11 déc. 2008, approuvée par le CF le 18 fév. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)).
-[^31a-2]: Nouvelle teneur selon le ch. III de l’O du Conseil des EPF du 12 déc. 2019, approuvée par le CF le 19 août 2020, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2020 3617](https://fedlex.data.admin.ch/eli/oc/2020/653)).
-[^31a-3]: [RS 836.2](https://fedlex.data.admin.ch/eli/cc/2008/51)
+- a. les allocations familiales perçues pour le même enfant par d’autres personnes en application de la LAFam et des dispositions cantonales sur les allocations familiales;
+- b. les allocations familiales, allocations pour enfants, allocations de formation ou allocations pour charge d’assistance obligatoires ou surobligatoires perçues pour le même enfant auprès d’un autre employeur ou d’un autre service.
+
+<sup>4</sup> Les professeurs dont le taux d’activité est inférieur à 50 % ne reçoivent pas d’allocations complétant l’allocation familiale.
+
+<sup>5</sup> Les allocations complétant l’allocation familiale visées à l’al. 2 sont adaptées au renchérissement.
+
+[^31-1]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 10 mars 2022, approuvée par le CF le 29 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
+[^31-2]: [RS 836.2](https://fedlex.data.admin.ch/eli/cc/2008/51)
+
+#### Art. 31a
+
+[^31a-1]
+
+[^31a-1]: Introduit par le ch. III de l’O du Conseil des EPF du 11 déc. 2008, approuvée par le CF le 18 fév. 2009 ([RO 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)). Abrogé par le ch. I de l’O du Conseil des EPF du 10 mars 2022, approuvée par le CF le 29 juin 2022, avec effet au 1<sup>er</sup> août 2022 ([RO 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
 
 #### Art. 31b
 
@@ -529,7 +644,7 @@ Ils doivent communiquer:
 
 <sup>4</sup> Pour le reste, les dispositions du RP-EPF 2[^32-6] sont applicables.[^32-7]
 
-<sup>5</sup> Les art. 39*a*, 42*a* et 47*a,* Opers-EPF[^32-8] sont applicables par analogie. La participation de l’employeur au financement de la rente transitoire selon l’annexe 5 Opers-EPF est calculée sur la base du pourcentage applicable au plan pour cadres 2.[^32-9]
+<sup>5</sup> Les art. 42*a* et 47*a* OPers-EPF[^32-8] sont applicables par analogie. La participation de l’employeur au financement de la rente transitoire selon l’annexe 5 OPers-EPF est calculée sur la base du pourcentage applicable au plan pour cadres 2.[^32-9]
 
 <sup>6</sup> Les EPF peuvent contracter une assurance vie et invalidité pour les professeurs concernés par l’art. 60*b* de l’ordonnance du 18 avril 1984 sur la prévoyance professionnelle vieillesse, survivants et invalidité[^32-10]. Elles règlent les modalités d’une éventuelle participation des professeurs au coût de l’assurance.[^32-11]
 
@@ -541,7 +656,7 @@ Ils doivent communiquer:
 [^32-6]: [RS 172.220.142.2](https://fedlex.data.admin.ch/eli/cc/2012/192)
 [^32-7]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 2 oct. 2007, approuvée par le CF le 14 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2291](https://fedlex.data.admin.ch/eli/oc/2008/331)).
 [^32-8]: [RS 172.220.113](https://fedlex.data.admin.ch/eli/cc/2001/279)
-[^32-9]: Introduit par le ch. I de l’O du Conseil des EPF du 2 oct. 2007, approuvée par le CF le 14 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2291](https://fedlex.data.admin.ch/eli/oc/2008/331)).
+[^32-9]: Introduit par le ch. I de l’O du Conseil des EPF du 2 oct. 2007, approuvée par le CF le 14 mai 2008 ([RO 2008 2291](https://fedlex.data.admin.ch/eli/oc/2008/331)). Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 10 mars 2022, approuvée par le CF le 29 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
 [^32-10]: [RS 831.441.1](https://fedlex.data.admin.ch/eli/cc/1984/543_543_543)
 [^32-11]: Introduit par le ch. III de l’O du Conseil des EPF du 11 déc. 2008, approuvée par le CF le 18 fév. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)).
 

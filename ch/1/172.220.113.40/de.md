@@ -3,11 +3,11 @@ sr: "172.220.113.40"
 title: Verordnung des ETH-Rates vom 18. September 2003 über die Professorinnen und Professoren der Eidgenössischen Technischen Hochschulen (Professorenverordnung ETH)
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/747"
 language: de
-version: 2020-01-01
+version: 2022-08-01
 adopted: 2003-09-18
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/747/20200101/de/xml/fedlex-data-admin-ch-eli-cc-2003-747-20200101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/747/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/747/20220801/de/xml/fedlex-data-admin-ch-eli-cc-2003-747-20220801-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/747/20220801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,19 +16,20 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/747/20200101/de"
 
 (Professorenverordnung ETH)
 
-vom 18. September 2003 (Stand am 1. Januar 2020)
+vom 18. September 2003 (Stand am 1. August 2022)
 
 vom Bundesrat genehmigt am 26. November 2003
 
 Der ETH-Rat,
 
-gestützt auf Artikel 37 Absatz 3 des Bundespersonalgesetzes vom 24. März 2000[^ingress-1] (BPG), auf Artikel 2 der Rahmenverordnung vom 20. Dezember 2000[^ingress-2] zum Bundespersonalgesetz (Rahmenverordnung BPG) und auf Artikel 40a des ETH-Gesetzes vom 4. Oktober 1991[^ingress-3],
+gestützt auf Artikel 37 Absatz 3 des Bundespersonalgesetzes vom 24. März 2000[^ingress-1] (BPG), auf Artikel 2 der Rahmenverordnung vom 20. Dezember 2000[^ingress-2] zum Bundespersonalgesetz (Rahmenverordnung BPG) und auf Artikel 17 Absatz 2 des ETH-Gesetzes vom 4. Oktober 1991[^ingress-3],[^ingress-4]
 
 verordnet:
 
 [^ingress-1]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
 [^ingress-2]: [SR 172.220.11](https://fedlex.data.admin.ch/eli/cc/2001/124)
 [^ingress-3]: [SR 414.110](https://fedlex.data.admin.ch/eli/cc/1993/210_210_210)
+[^ingress-4]: Fassung gemäss Ziff. I der V des ETH-Rates vom 10. März 2022, vom BR genehmigt am 29. Juni 2022 und in Kraft seit 1. Aug. 2022 ([AS 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -46,10 +47,13 @@ Diese Verordnung regelt die Arbeitsverhältnisse folgender Mitglieder des Lehrk�
 
 <sup>2</sup> Für die privatrechtliche Anstellung von Professorinnen und Professoren gilt das Obligationenrecht[^1-1].
 
-<sup>3</sup> Im privatrechtlichen Arbeitsvertrag sind diejenigen Bestimmungen des BPG und dieser Verordnung aufzuführen, die sinngemäss auch für privatrechtlich angestellte Professorinnen und Professoren gelten. Die Bestimmungen der Artikel 4–6 (Pflichten und Rechte) und 16 (Lohn) dieser Verordnung gelten für die privatrechtlich angestellten Professorinnen und Professoren sinngemäss.[^1-2]
+<sup>2bis</sup> Privatrechtliche Arbeitsverträge können insbesondere mit Professorinnen und Professoren abgeschlossen werden, die an einer ETH Teilzeit oder befristet angestellt werden und nicht verpflichtet sind, sämtliche Aufgaben nach Artikel 5 an der ETH wahrzunehmen.[^1-2]
+
+<sup>3</sup> Im privatrechtlichen Arbeitsvertrag sind diejenigen Bestimmungen des BPG und dieser Verordnung aufzuführen, die sinngemäss auch für privatrechtlich angestellte Professorinnen und Professoren gelten. Die Bestimmungen der Artikel 4–6 (Pflichten und Rechte) und 16 (Lohn) dieser Verordnung gelten für die privatrechtlich angestellten Professorinnen und Professoren sinngemäss.[^1-3]
 
 [^1-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^1-2]: Fassung gemäss Ziff. I der V des ETH-Rates vom 18. Sept. 2014, vom BR genehmigt am 25. März 2015 und in Kraft seit 1. Jan. 2015 ([AS 2015 1041](https://fedlex.data.admin.ch/eli/oc/2015/202)).
+[^1-2]: Eingefügt durch Ziff. I der V des ETH-Rates vom 10. März 2022, vom BR genehmigt am 29. Juni 2022 und in Kraft seit 1. Aug. 2022 ([AS 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
+[^1-3]: Fassung gemäss Ziff. I der V des ETH-Rates vom 18. Sept. 2014, vom BR genehmigt am 25. März 2015 und in Kraft seit 1. Jan. 2015 ([AS 2015 1041](https://fedlex.data.admin.ch/eli/oc/2015/202)).
 
 #### Art. 2
 
@@ -111,17 +115,43 @@ Diese Verordnung regelt die Arbeitsverhältnisse folgender Mitglieder des Lehrk�
 
 <sup>5</sup> Sie beteiligen sich an der akademischen Selbstverwaltung.
 
+#### Art. 5a
+
+**Interessenkonflikte und Ausstand**[^5a-1]
+
+<sup>1</sup> Die Professorinnen und Professoren erfüllen ihre Aufgaben unabhängig von persönlichen Interessen und vermeiden Konflikte zwischen privaten Interessen und denjenigen der beiden ETH.
+
+<sup>2</sup> Sie treten in den Ausstand, wenn sie aus einem persönlichen Interesse an einer Sache oder aus anderen Gründen befangen sein könnten. Der Anschein der Befangenheit genügt als Ausstandsgrund. Es gelten die Befangenheitsgründe nach Artikel 53*b* Absatz 2 der Personalverordnung ETH-Bereich vom 15. März 2001[^5a-2] (PVO-ETH).
+
+<sup>3</sup> Professorinnen und Professoren der ETH, die miteinander verheiratet sind, zusammen in einer eingetragenen Partnerschaft oder im Konkubinat leben, eng verwandt oder verschwägert sind, müssen dies der Präsidentin oder dem Präsidenten der ETH mitteilen oder im Berufungsprozess offenlegen.
+
+<sup>4</sup> Ist ein Verhältnis nach Absatz 3 gegeben, so sorgt die Präsidentin oder der Präsident der ETH dafür, dass die betreffenden Personen in organisatorischer Hinsicht nicht in einem direkten Unterstellungsverhältnis zueinander stehen.
+
+<sup>5</sup> Die ETH erlassen in Ausführung von Artikel 53*a* PVO-ETH Regeln für die Anstellung von Ehepartnerinnen und -partnern, Lebenspartnerinnen und -partnern und Verwandten von Professorinnen und Professoren; sie können insbesondere vorsehen, dass die Beschäftigung in der gleichen Organisationseinheit ausgeschlossen ist.
+
+[^5a-1]: Eingefügt durch Ziff. I der V des ETH-Rates vom 10. März 2022, vom BR genehmigt am 29. Juni 2022 und in Kraft seit 1. Aug. 2022 ([AS 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
+[^5a-2]: [SR 172.220.113](https://fedlex.data.admin.ch/eli/cc/2001/279)
+
 #### Art. 6
 
-**Aktivitäten ausserhalb der ETH**
+**Nebenbeschäftigungen**[^6-1]
 
-<sup>1</sup> Die Professorinnen und Professoren können sich ausserhalb ihres Arbeitsverhältnisses mit der ETH in eigenem Namen, auf eigene Rechnung und auf eigene Verantwortung beruflich betätigen, namentlich als Sachverständige, sofern dadurch die Erfüllung ihrer Pflichten aus dem Arbeitsverhältnis nicht beeinträchtigt wird.
+<sup>1</sup> Die Professorinnen und Professoren melden der Präsidentin oder dem Präsidenten der ETH laufend sämtliche Nebenbeschäftigungen, die sie ausserhalb ihres Arbeitsverhältnisses in eigenem Namen, auf eigene Rechnung und auf eigene Verantwortung ausüben sowie deren Veränderungen.
 
-<sup>2</sup> Für Aktivitäten ausserhalb der ETH, deren Zeitaufwand bei voller Anstellung insgesamt einen Arbeitstag pro Woche übersteigt, haben die Professorinnen und Professoren die Bewilligung der Präsidentin oder des Präsidenten der ETH einzuholen.
+<sup>2</sup>
 
-<sup>3</sup> Für die Mitgliedschaft in Verwaltungsräten oder Geschäftsleitungen von Unternehmen haben die Professorinnen und Professoren die Bewilligung der Präsidentin oder des Präsidenten der ETH einzuholen. Die Bewilligung wird erteilt, wenn keine Interessen der ETH entgegenstehen.
+Sie benötigen die vorgängige Einwilligung der Präsidentin oder des Präsidenten der ETH, wenn:
 
-<sup>4</sup> Nehmen die Professorinnen und Professoren für entgeltliche Aktivitäten ausserhalb der ETH deren Mittel wie Laboreinrichtungen und Sekretariat in Anspruch, so haben sie die ETH zu entschädigen. Die beiden ETH erlassen die notwendigen Vorschriften.
+- a. die Ausübung der Nebenbeschäftigungen bei vollem Beschäftigungsgrad mehr als einen Arbeitstag pro Woche beansprucht;
+- b. aufgrund der Art der Tätigkeit die Möglichkeit eines Interessenkonflikts mit der ETH besteht oder ein bedeutendes Risiko der Gefährdung der Reputation der ETH vorliegt oder vorhersehbar ist;
+- c. es sich um eine Mitgliedschaft in einem Aufsichts- oder Leitungsgremium von öffentlichen und privaten Organisationen handelt; oder
+- d. bei der Ausübung der Nebenbeschäftigung Mittel der ETH wie Laboreinrichtungen oder Personal der ETH beansprucht werden.
+
+<sup>3</sup> Tätigkeiten, die Professorinnen und Professoren im Auftrag der ETH ausüben, werden bei der Ermittlung des zulässigen Zeitaufwands (Abs. 2 Bst. a) nicht berücksichtigt.
+
+<sup>4</sup> Nehmen die Professorinnen und Professoren für entgeltliche oder unentgeltliche Nebenbeschäftigungen Mittel der ETH wie Laboreinrichtungen oder Personal in Anspruch, so müssen sie die ETH dafür entschädigen. Die beiden ETH erlassen die notwendigen Vorschriften.
+
+[^6-1]: Fassung gemäss Ziff. I der V des ETH-Rates vom 10. März 2022, vom BR genehmigt am 29. Juni 2022 und in Kraft seit 1. Aug. 2022 ([AS 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
 
 ## 3. Abschnitt: Entstehung, Änderung und Aufhebung des Arbeitsverhältnisses
 
@@ -164,9 +194,14 @@ Der Arbeitsvertrag beinhaltet insbesondere:
 
 <sup>1</sup> Die Arbeitsverträge mit den ordentlichen und ausserordentlichen Professorinnen und Professoren werden auf unbestimmte Zeit abgeschlossen.
 
-<sup>2</sup> Die Arbeitsverträge mit den Assistenzprofessorinnen und Assistenzprofessoren werden für maximal vier Jahre abgeschlossen. Eine einmalige Verlängerung um höchstens vier Jahre ist zulässig. Bei Mutterschaft wird die Anstellungsperiode jeweils um höchstens ein Jahr verlängert.
+<sup>2</sup> Die Arbeitsverträge mit den Assistenzprofessorinnen und Assistenzprofessoren werden für vier Jahre abgeschlossen. Das Anstellungsverhältnis kann erneuert werden, bis die Maximaldauer von 8 Jahren erreicht ist.[^9-1]
+
+<sup>2bis</sup> Die Befristungen nach Absatz 2 können bei längerer Abwesenheit wegen Krankheit, Unfall, Vaterschaft, Adoption oder anderen wichtigen Gründen auf Antrag um insgesamt höchstens ein Jahr überschritten werden, bei Mutterschaft um jeweils höchstens ein Jahr. Die beiden ETH regeln je die Einzelheiten.[^9-2]
 
 <sup>3</sup> Es besteht keine Probezeit.
+
+[^9-1]: Fassung gemäss Ziff. I der V des ETH-Rates vom 10. März 2022, vom BR genehmigt am 29. Juni 2022 und in Kraft seit 1. Aug. 2022 ([AS 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
+[^9-2]: Eingefügt durch Ziff. I der V des ETH-Rates vom 10. März 2022, vom BR genehmigt am 29. Juni 2022 und in Kraft seit 1. Aug. 2022 ([AS 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
 
 #### Art. 10
 
@@ -200,17 +235,21 @@ Der Arbeitsvertrag beinhaltet insbesondere:
 
 <sup>1</sup> Der ETH-Rat kann das Arbeitsverhältnis von Professorinnen und Professoren auf Antrag der Präsidentin oder des Präsidenten der ETH im Sinne von Artikel 10 Absatz 3 BPG unter Einhaltung einer Kündigungsfrist von sechs Monaten kündigen.[^13-1]
 
-<sup>2</sup> Die Präsidentin oder der Präsident der ETH setzt vor der Antragstellung eine Kommission ein, welche über die Angemessenheit der Kündigung befindet und eine Empfehlung abgibt. Die Kommission besteht aus mindestens sechs Mitgliedern; davon dürfen drei der entsprechenden ETH nicht angehören. Drei der sechs Mitglieder werden von der Konferenz der Mitglieder des Lehrkörpers vorgeschlagen.
+<sup>1bis</sup> Bei andauernder gänzlicher oder teilweiser Arbeitsunfähigkeit infolge Krankheit oder Unfall kann das Arbeitsverhältnis frühestens auf das Ende der Lohnfortzahlungsfirst nach Artikel 26 gekündigt werden.[^13-2]
 
-<sup>3</sup> ...[^13-2]
+<sup>2</sup> Die Präsidentin oder der Präsident der ETH setzt bei ordentlichen Kündigungen vor der Antragstellung eine Kommission ein, die über die Angemessenheit der Kündigung befindet und eine Empfehlung abgibt. Die Kommission besteht aus mindestens sechs Mitgliedern; davon dürfen drei der entsprechenden ETH nicht angehören. Drei der sechs Mitglieder werden von der Konferenz der Mitglieder des Lehrkörpers vorgeschlagen.[^13-3]
 
-<sup>4</sup> Professorinnen und Professoren, welche im Zeitpunkt der Wirksamkeit der Kündigung nach Absatz 1 das 58. Altersjahr vollendet, jedoch die Altersgrenze nach Artikel 21 des Bundesgesetzes vom 20. Dezember 1946[^13-3] über die Alters- und Hinterlassenenversicherung (AHVG) noch nicht erreicht haben und seit zehn Jahren im ETH-Bereich angestellt waren, wird eine Altersrente nach den Bestimmungen des Vorsorgereglements vom 3. Dezember 2007[^13-4] des Vorsorgewerks ETH-Bereich für die Professorinnen und Professoren der ETH (VR-ETH 2) ausgerichtet. Diese Altersrente wird wie eine Invalidenrente nach Artikel 57 VR-ETH 2 berechnet. Die ETH vergüten der Pensionskasse des Bundes den im Zeitpunkt der Auflösung des Arbeitsverhältnisses nicht finanzierten Teil der Rente. Die Überbrückungsrente wird nicht vom Arbeitgeber finanziert.[^13-5]
+<sup>3</sup> …[^13-4]
+
+<sup>4</sup> Professorinnen und Professoren, welche im Zeitpunkt der Wirksamkeit der Kündigung nach Absatz 1 das 58. Altersjahr vollendet, jedoch die Altersgrenze nach Artikel 21 des Bundesgesetzes vom 20. Dezember 1946[^13-5] über die Alters- und Hinterlassenenversicherung (AHVG) noch nicht erreicht haben und seit zehn Jahren im ETH-Bereich angestellt waren, wird eine Altersrente nach den Bestimmungen des Vorsorgereglements vom 3. Dezember 2007[^13-6] des Vorsorgewerks ETH-Bereich für die Professorinnen und Professoren der ETH (VR-ETH 2) ausgerichtet. Diese Altersrente wird wie eine Invalidenrente nach Artikel 57 VR-ETH 2 berechnet. Die ETH vergüten der Pensionskasse des Bundes den im Zeitpunkt der Auflösung des Arbeitsverhältnisses nicht finanzierten Teil der Rente. Die Überbrückungsrente wird nicht vom Arbeitgeber finanziert.[^13-7]
 
 [^13-1]: Fassung gemäss Ziff. I der V des ETH-Rates vom 18. Sept. 2014, vom BR genehmigt am 25. März 2015 und in Kraft seit 1. Jan. 2015 ([AS 2015 1041](https://fedlex.data.admin.ch/eli/oc/2015/202)).
-[^13-2]: Aufgehoben durch Ziff. II der V des ETH-Rates vom 6. März 2013, vom BR genehmigt am 14. Juni 2013 und mit Wirkung seit 1. Juli 2013 ([AS 2013 1777](https://fedlex.data.admin.ch/eli/oc/2013/404)).
-[^13-3]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^13-4]: [SR 172.220.142.2](https://fedlex.data.admin.ch/eli/cc/2012/192)
-[^13-5]: Fassung gemäss Ziff. II der V des ETH-Rates vom 6. März 2013, vom BR genehmigt am 14. Juni 2013 und in Kraft seit 1. Juli 2013 ([AS 2013 1777](https://fedlex.data.admin.ch/eli/oc/2013/404)).
+[^13-2]: Eingefügt durch Ziff. I der V des ETH-Rates vom 10. März 2022, vom BR genehmigt am 29. Juni 2022 und in Kraft seit 1. Aug. 2022 ([AS 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
+[^13-3]: Fassung gemäss Ziff. I der V des ETH-Rates vom 10. März 2022, vom BR genehmigt am 29. Juni 2022 und in Kraft seit 1. Aug. 2022 ([AS 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
+[^13-4]: Aufgehoben durch Ziff. II der V des ETH-Rates vom 6. März 2013, vom BR genehmigt am 14. Juni 2013 und mit Wirkung seit 1. Juli 2013 ([AS 2013 1777](https://fedlex.data.admin.ch/eli/oc/2013/404)).
+[^13-5]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^13-6]: [SR 172.220.142.2](https://fedlex.data.admin.ch/eli/cc/2012/192)
+[^13-7]: Fassung gemäss Ziff. II der V des ETH-Rates vom 6. März 2013, vom BR genehmigt am 14. Juni 2013 und in Kraft seit 1. Juli 2013 ([AS 2013 1777](https://fedlex.data.admin.ch/eli/oc/2013/404)).
 
 #### Art. 13a
 
@@ -247,23 +286,68 @@ Die Professorin oder der Professor tritt auf Ende des Monats in den Ruhestand, i
 
 <sup>2</sup> Die Professorin oder der Professor kann vorzeitig in den Ruhestand treten, sofern nach Auflösung des Arbeitsverhältnisses ein Anspruch auf eine Altersrente nach dem VR-ETH 2[^14-2] besteht.[^14-3]
 
-<sup>3</sup> Die Professorin oder der Professor und die Präsidentin oder der Präsident der ETH vereinbaren die zeitlichen und sachlichen Modalitäten des Rücktritts im Voraus.
+<sup>3</sup> Rücktritte können auf das Ende des akademischen Semesters erfolgen, in dem die Altersgrenze nach Artikel 17 Absatz 7 oder 8 des ETH-Gesetzes erreicht wird.[^14-4]
 
-<sup>4</sup> In begründeten Ausnahmefällen kann der ETH-Rat auf Antrag der Präsidentin oder des Präsidenten der ETH mit einer Professorin oder einem Professor eine Anstellung über die Altersgrenze nach Artikel 21 AHVG hinaus vereinbaren.
+<sup>4</sup> Die ETH legt im Einvernehmen mit den Professorinnen und Professoren frühzeitig die zeitlichen und sachlichen Modalitäten des Rücktritts fest und stellt dem ETH-Rat allenfalls notwendige Anträge.[^14-5]
 
 <sup>5</sup> Die Professorinnen und Professoren im Ruhestand können freie Vorlesungen halten und die allgemeinen Einrichtungen der ETH benützen. Die Präsidentin oder der Präsident der ETH kann ihnen Lehraufträge erteilen und andere Mandate übertragen sowie auf ihren Antrag hin Räume und weitere Einrichtungen zur Verfügung stellen.
 
 [^14-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 [^14-2]: In der AS nicht veröffentlicht (siehe [BBl 2008 6004](https://fedlex.data.admin.ch/eli/fga/2008/1055)).
 [^14-3]: Fassung gemäss Ziff. I der V des ETH-Rates vom 2. Okt. 2007, vom BR genehmigt am 14. Mai 2008 und in Kraft seit 1. Juli 2008 ([AS 2008 2291](https://fedlex.data.admin.ch/eli/oc/2008/331)).
+[^14-4]: Fassung gemäss Ziff. I der V des ETH-Rates vom 10. März 2022, vom BR genehmigt am 29. Juni 2022 und in Kraft seit 1. Aug. 2022 ([AS 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
+[^14-5]: Fassung gemäss Ziff. I der V des ETH-Rates vom 10. März 2022, vom BR genehmigt am 29. Juni 2022 und in Kraft seit 1. Aug. 2022 ([AS 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
+
+#### Art. 14a
+
+**Privatrechtliche Anstellungen über das Erreichen der Altersgrenze hinaus**[^14a-1]
+
+<sup>1</sup>
+
+Eine privatrechtliche Anstellung über den Zeitpunkt nach Artikel 14 Absatz 1 Buchstabe a hinaus kann in begründeten Fällen vereinbart werden, wenn die Erneuerung und Verjüngung der Professorenschaft dadurch nicht beeinträchtigt wird und mindestens eine der beiden folgenden Voraussetzungen erfüllt ist:
+
+- a. Die betreffende Professorin oder der betreffende Professor hat herausragende wissenschaftliche Leistungen erbracht, welche die Akquisition bedeutender Drittmittel zur Fortführung einer Forschungsgruppe erwarten lassen.
+- b. Die Fortführung der Anstellung ist für die strategischen oder institutionellen Aufgaben im ETH-Bereich von Bedeutung.
+
+<sup>2</sup> Der ETH-Rat bestimmt auf Antrag der Präsidentin oder des Präsidenten der ETH, welche Professorinnen und Professoren die Voraussetzungen nach Absatz 1 erfüllen.
+
+<sup>3</sup>
+
+Der privatrechtliche Arbeitsvertrag regelt mindestens:
+
+- a. die Dauer der Weiterbeschäftigung; diese endet in der Regel spätestens fünf Jahre nach Erreichen des gesetzlichen Rentenalters;
+- b. die Möglichkeit zur vorgängigen beidseitigen ordentlichen Kündigung;
+- c. die Rechte und Pflichten unter Berücksichtigung der Artikel 4–6;
+- d. den Verzicht auf die Fortführung der beruflichen Vorsorge.
+
+<sup>4</sup> Der Jahreslohn beträgt Fr. 114 279.60 (Stand 1.1.2022) bei einem Beschäftigungsgrad von 100 Prozent.
+
+<sup>5</sup> Die Leitungen der beiden ETH regeln je die Einzelheiten.
+
+[^14a-1]: Eingefügt durch Ziff. I der V des ETH-Rates vom 10. März 2022, vom BR genehmigt am 29. Juni 2022 und in Kraft seit 1. Aug. 2022 ([AS 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
+
+#### Art. 14b
+
+**Weiterführung von öffentlich-rechtlichen Anstellungen über das Erreichen der Altersgrenze hinaus**[^14b-1]
+
+<sup>1</sup> In begründeten Ausnahmefällen kann der ETH-Rat auf Antrag der Präsidentin oder des Präsidenten der ETH mit einer Professorin oder einem Professor eine Weiterführung des öffentlich-rechtlichen Anstellungsverhältnisses über den Zeitpunkt nach Artikel 14 Absatz 1 Buchstabe a hinaus vereinbaren.
+
+<sup>2</sup> Die Leitungen der beiden ETH regeln je die Einzelheiten.
+
+[^14b-1]: Eingefügt durch Ziff. I der V des ETH-Rates vom 10. März 2022, vom BR genehmigt am 29. Juni 2022 und in Kraft seit 1. Aug. 2022 ([AS 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
 
 #### Art. 15
 
-**Weiterführung des Professorentitels**
+**Professorentitel nach Beendigung des Arbeitsverhältnisses[^15-1]**
 
 <sup>1</sup> Der ETH-Rat bestimmt auf Antrag der Präsidentin oder des Präsidenten der ETH im Einzelfall, ob aus der ETH ausscheidende ordentliche und ausserordentliche Professorinnen und Professoren den ETH-Professorentitel weiterführen dürfen. Voraussetzung für die Weiterführung des Titels ist eine mindestens sechs Jahre dauernde Tätigkeit an der ETH. Besteht ein Interesse der ETH, so kann der ETH-Rat von dieser Regel abweichen.
 
+<sup>1bis</sup> Ordentliche und ausserordentliche Professorinnen und Professoren, die den Professorentitel weiterführen dürfen, verwenden den Titel «Professorin emerita» oder «Professor emeritus» oder «Prof. em.».[^15-2]
+
 <sup>2</sup> Assistenzprofessorinnen und Assistenzprofessoren ist die Weiterführung des Titels nicht gestattet.
+
+[^15-1]: Fassung gemäss Ziff. I der V des ETH-Rates vom 10. März 2022, vom BR genehmigt am 29. Juni 2022 und in Kraft seit 1. Aug. 2022 ([AS 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
+[^15-2]: Eingefügt durch Ziff. I der V des ETH-Rates vom 10. März 2022, vom BR genehmigt am 29. Juni 2022 und in Kraft seit 1. Aug. 2022 ([AS 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
 
 ## 4. Abschnitt: Lohn und Zulagen
 
@@ -311,11 +395,11 @@ Die Präsidentin oder der Präsident der ETH kann den Lohn im Einzelfall erhöhe
 
 #### Art. 18
 
-**Anpassung der Lohnskala**[^18-1]
+**Anpassung von Lohnskala und Lohn**[^18-1]
 
-Für die Anpassung der Lohnskala gilt Artikel 28 der Personalverordnung ETH-Bereich vom 15. März 2001[^18-2] (PVO-ETH) sinngemäss.
+Für die Anpassung der Lohnskala und des Lohns nach Artikel 14*a* an die Teuerung oder an allgemeine Lohnmassnahmen gilt Artikel 28 PVO-ETH[^18-2] sinngemäss.
 
-[^18-1]: Fassung gemäss Ziff. I der V des ETH-Rates vom 29. Juni 2005, vom BR genehmigt am 23. Sept. 2005 und in Kraft seit 1. Jan. 2006 ([AS 2005 4811](https://fedlex.data.admin.ch/eli/oc/2005/647)).
+[^18-1]: Eingefügt durch Ziff. I der V des ETH-Rates vom 10. März 2022, vom BR genehmigt am 29. Juni 2022 und in Kraft seit 1. Aug. 2022 ([AS 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
 [^18-2]: [SR 172.220.113](https://fedlex.data.admin.ch/eli/cc/2001/279)
 
 #### Art. 19
@@ -352,13 +436,21 @@ Auf Antrag der Präsidentin oder des Präsidenten der ETH vereinbart der ETH-Rat
 
 #### Art. 21
 
-**Auslagenersatz**
+**Auslagenersatz und weitere Leistungen[^21-1]**
 
-<sup>1</sup> Die Professorinnen und Professoren haben Anspruch auf Ersatz von Auslagen, welche ihnen auf Grund der beruflichen Tätigkeit entstanden sind. Die Verordnung des ETH-Rates vom 11. April 2002[^21-1] über den Ersatz von Auslagen im ETH-Bereich ist anwendbar.
+<sup>1</sup> Die Professorinnen und Professoren haben Anspruch auf Ersatz von Auslagen, welche ihnen auf Grund der beruflichen Tätigkeit entstanden sind. Die Verordnung des ETH-Rates vom 11. April 2002[^21-2] über den Ersatz von Auslagen im ETH-Bereich ist anwendbar.
 
-<sup>2</sup> Die ETH kann neu ernannten Professorinnen und Professoren bei einem aus beruflichen Gründen notwendigen Wohnortwechsel die Kosten für den Transport des persönlichen Mobiliars vergüten.
+<sup>2</sup> Die ETH kann Professorinnen und Professoren bei einem aufgrund der Berufung an die ETH notwendigen Wohnortwechsel die Kosten vergüten.[^21-3]
 
-[^21-1]: [SR 172.220.113.43](https://fedlex.data.admin.ch/eli/cc/2002/245)
+<sup>3</sup> In begründeten Ausnahmefällen kann die ETH zu Rekrutierungszwecken angemessene zusätzliche Leistungen an Professorinnen und Professoren ausrichten.[^21-4]
+
+<sup>4</sup> Sofern die ETH Leistungen nach Absatz 3 ausrichten, erlassen sie die Ausführungsbestimmungen über den Umfang, die Dauer und die Voraussetzungen der Leistungen.[^21-5]
+
+[^21-1]: Fassung gemäss Ziff. I der V des ETH-Rates vom 10. März 2022, vom BR genehmigt am 29. Juni 2022 und in Kraft seit 1. Aug. 2022 ([AS 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
+[^21-2]: [SR 172.220.113.43](https://fedlex.data.admin.ch/eli/cc/2002/245)
+[^21-3]: Fassung gemäss Ziff. I der V des ETH-Rates vom 10. März 2022, vom BR genehmigt am 29. Juni 2022 und in Kraft seit 1. Aug. 2022 ([AS 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
+[^21-4]: Eingefügt durch Ziff. I der V des ETH-Rates vom 10. März 2022, vom BR genehmigt am 29. Juni 2022 und in Kraft seit 1. Aug. 2022 ([AS 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
+[^21-5]: Eingefügt durch Ziff. I der V des ETH-Rates vom 10. März 2022, vom BR genehmigt am 29. Juni 2022 und in Kraft seit 1. Aug. 2022 ([AS 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
 
 #### Art. 22
 
@@ -373,7 +465,11 @@ Die ETH vergütet Professorinnen und Professoren, die infolge der Ausübung ihre
 
 <sup>2</sup> Bis ein rechtskräftiger Entscheid vorliegt, leistet sie nur Kostengutsprachen.
 
-## 5. Abschnitt: Urlaub und Absenzen
+## 5. Abschnitt: Ferien, Urlaub und Absenzen****
+
+[^sec5-1]
+
+[^sec5-1]: Fassung gemäss Ziff. I der V des ETH-Rates vom 10. März 2022, vom BR genehmigt am 29. Juni 2022 und in Kraft seit 1. Aug. 2022 ([AS 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
 
 #### Art. 23
 
@@ -384,6 +480,17 @@ Die ETH vergütet Professorinnen und Professoren, die infolge der Ausübung ihre
 <sup>2</sup> Sie oder er muss bei der Präsidentin oder dem Präsidenten der ETH ein Gesuch stellen.
 
 <sup>3</sup> Für den Entscheid über die Gewährung eines Forschungsurlaubes sind die bisherigen Leistungen sowie die Garantie für eine qualifizierte Stellvertretung massgebend.
+
+#### Art. 23a
+
+**Ferien und Urlaub**[^23a-1]
+
+<sup>1</sup> Der Ferienanspruch richtet sich nach Artikel 51 Absätze 1 und 2, der Urlaubsanspruch nach Artikel 52 Absätze 1 und 2 PVO-ETH[^23a-2].
+
+<sup>2</sup> Die Ferien sind in dem Kalenderjahr zu beziehen, in dem der Anspruch entsteht. Ist dies aus zwingenden betrieblichen Gründen oder wegen Krankheit oder Unfall nicht möglich, so meldet die Professorin oder der Professor das Ferienguthaben dem Personaldienst und bezieht es im Folgejahr.
+
+[^23a-1]: Eingefügt durch Ziff. I der V des ETH-Rates vom 10. März 2022, vom BR genehmigt am 29. Juni 2022 und in Kraft seit 1. Aug. 2022 ([AS 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
+[^23a-2]: [SR 172.220.113](https://fedlex.data.admin.ch/eli/cc/2001/279)
 
 #### Art. 24
 
@@ -405,19 +512,35 @@ Die Präsidentin oder der Präsident der ETH kann einer Professorin oder einem P
 
 **Lohnfortzahlung bei Krankheit und Unfall**
 
-<sup>1</sup> Die Professorinnen und Professoren haben bei Arbeitsunfähigkeit infolge von Krankheit oder Unfall während längstens 730 Tagen Anspruch auf Fortzahlung des vollen Lohnes.
+<sup>1</sup> Die Professorinnen und Professoren haben bei Arbeitsunfähigkeit infolge von Krankheit oder Unfall während längstens 730 Tagen Anspruch auf Fortzahlung des Lohnes, einschliesslich Zulagen. Während 12 Monaten wird der volle Bruttolohn, danach werden 90 Prozent des Bruttolohns bezahlt.[^26-1]
+
+<sup>1bis</sup> Die betroffene Person ist zur Mitwirkung nach Artikel 36*a* PVO-ETH[^26-2] verpflichtet. Arztzeugnisse sind der zuständigen Stelle der Personalabteilung einzureichen.[^26-3]
 
 <sup>2</sup> Der Lohnanspruch wird aus Gründen gekürzt, welche das Gesetz und die Rechtsprechung zur Kranken- und Unfallversicherung vorsehen.
 
 <sup>3</sup> Zur Beurteilung der Arbeitsunfähigkeit kann eine vertrauensärztliche Untersuchung angeordnet werden.
 
-<sup>4</sup> Die Leistungen der obligatorischen Versicherungen werden angerechnet.
+<sup>4</sup> Die Leistungen der obligatorischen Versicherungen werden angerechnet. Unterbruch und Neubeginn der Lohnfortzahlung richten sich nach Artikel 36*c* PVO-ETH.[^26-4]
+
+[^26-1]: Fassung gemäss Ziff. I der V des ETH-Rates vom 10. März 2022, vom BR genehmigt am 29. Juni 2022 und in Kraft seit 1. Aug. 2022 ([AS 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
+[^26-2]: [SR 172.220.113](https://fedlex.data.admin.ch/eli/cc/2001/279)
+[^26-3]: Eingefügt durch Ziff. I der V des ETH-Rates vom 10. März 2022, vom BR genehmigt am 29. Juni 2022 und in Kraft seit 1. Aug. 2022 ([AS 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
+[^26-4]: Fassung gemäss Ziff. I der V des ETH-Rates vom 10. März 2022, vom BR genehmigt am 29. Juni 2022 und in Kraft seit 1. Aug. 2022 ([AS 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
 
 #### Art. 27
 
 **Lohnfortzahlung bei Mutterschaft**
 
 Professorinnen haben bei Mutterschaft während vier Monaten Anspruch auf Arbeitsaussetzung bei voller Lohnfortzahlung.
+
+#### Art. 27a
+
+**Vaterschaftsurlaub, Adoptionsurlaub und Urlaub für die Betreuung eines gesundheitlich schwer beeinträchtigten Kindes**[^27a-1]
+
+Der Urlaub und die Lohnfortzahlung bei der Geburt eines oder mehrerer eigener Kinder, bei der Geburt eines oder mehrerer Kinder der eingetragenen Partnerin oder des eingetragenen Partners, bei einer Adoption und für die Betreuung eines gesundheitlich schwer beeinträchtigten Kindes richten sich nach den Artikeln 37*a* und 37*b* PVO-ETH[^27a-2].
+
+[^27a-1]: Eingefügt durch Ziff. I der V des ETH-Rates vom 10. März 2022, vom BR genehmigt am 29. Juni 2022 und in Kraft seit 1. Aug. 2022 ([AS 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
+[^27a-2]: [SR 172.220.113](https://fedlex.data.admin.ch/eli/cc/2001/279)
 
 #### Art. 28
 
@@ -439,66 +562,58 @@ Professorinnen haben bei Mutterschaft während vier Monaten Anspruch auf Arbeits
 
 Bei Invalidität als Folge eines Berufsunfalls oder einer gleichzustellenden Berufskrankheit besteht ein Anspruch:
 
-- a. bei gänzlicher Erwerbsunfähigkeit: auf 100 Prozent des massgebenden Lohnes bis zum Ableben;
-- b. bei teilweiser Erwerbsunfähigkeit: auf den dem Invaliditätsgrad gemäss Bundesgesetz vom 20. März 1981[^29-1] über die Unfallversicherung entsprechenden Anteil des massgebenden Lohnes bis zum Ableben.
+- a. bei gänzlicher Erwerbsunfähigkeit: auf 100 Prozent des massgebenden Lohnes bis zum Erreichen der Altersgrenze nach Artikel 21 AHVG[^29-1];
+- b. bei teilweiser Erwerbsunfähigkeit: auf den dem Invaliditätsgrad nach dem Bundesgesetz vom 20. März 1981[^29-2] über die Unfallversicherung entsprechenden Anteil.[^29-3]
 
 <sup>2</sup> Die Leistungen der obligatorischen Versicherungen werden angerechnet.
 
-[^29-1]: [SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^29-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^29-2]: [[SR 832.20](https://www.fedlex.admin.ch/eli/cc/1982/1676_1676_1676/de)](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^29-3]: Fassung gemäss Ziff. I der V des ETH-Rates vom 10. März 2022, vom BR genehmigt am 29. Juni 2022 und in Kraft seit 1. Aug. 2022 ([AS 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
 
 #### Art. 30
 
 **Lohnfortzahlung im Todesfall**[^30-1]
 
-<sup>1</sup> Im Falle des Todes einer Professorin oder eines Professors erhalten die Hinterbliebenen einen Betrag in der Höhe von einem Sechstel des Jahreslohnes.
+<sup>1</sup> Im Todesfall erhalten die Hinterbliebenen einen Betrag in der Höhe von einem Sechstel des Jahreslohns zuzüglich allfälliger Zulagen nach den Artikeln 31–31*b*.
 
-<sup>2</sup> Den Hinterbliebenen gleichgestellt ist auch eine Person, mit welcher die verstorbene Person in den letzten fünf Jahren vor ihrem Tod ununterbrochen eine Lebensgemeinschaft geführt hat.
+<sup>2</sup> Als Hinterbliebene gelten die Ehegattin, der Ehegatte, die eingetragene Partnerin, der eingetragene Partner, minderjährige Kinder oder die Person, mit der die verstorbene Person vor ihrem Tod eine Lebensgemeinschaft geführt hat. Sind keine der genannten Hinterbliebenen vorhanden, so gelten als Hinterbliebene Personen, denen gegenüber die verstorbene Person eine Unterstützungspflicht erfüllt hat.
 
-<sup>3</sup> In gleichem Masse wird die Zulage für Verwandtschaftsunterstützung nach Artikel 31*b* ausgerichtet.
-
-[^30-1]: Fassung gemäss Ziff. III der V des ETH-Rates vom 11. Dez. 2008, vom BR genehmigt am 18. Febr. 2009 und in Kraft seit 1. Jan. 2009 ([AS 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)).
+[^30-1]: Fassung gemäss Ziff. I der V des ETH-Rates vom 10. März 2022, vom BR genehmigt am 29. Juni 2022 und in Kraft seit 1. Aug. 2022 ([AS 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
 
 #### Art. 31
 
-**Anspruch auf Familienzulage**[^31-1]
+**Anspruch auf Familienzulage und ergänzende Leistungen**[^31-1]
 
-<sup>1</sup> Die Familienzulage wird bis zum Ende des Monats ausgerichtet, in dem das Kind das 16. Altersjahr vollendet hat.
-
-<sup>2</sup> Für in Ausbildung stehende Kinder wird sie längstens bis zum Ende des Monats ausgerichtet, in dem das 25. Altersjahr vollendet ist.
-
-<sup>3</sup> Für erwerbsunfähige Kinder (Art. 7 des BG vom 6. Okt. 2000[^31-2] über den Allgemeinen Teil des Sozialversicherungsrechts) wird sie längstens bis zum Ende des Monats ausgerichtet, in dem das 20. Altersjahr vollendet ist.
-
-<sup>4</sup> Die Familienzulage wird an die Teuerung angepasst.
-
-[^31-1]: Fassung gemäss Ziff. III der V des ETH-Rates vom 11. Dez. 2008, vom BR genehmigt am 18. Febr. 2009 und in Kraft seit 1. Jan. 2009 ([AS 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)).
-[^31-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-
-#### Art. 31a
-
-**Ergänzende Leistungen zur Familienzulage**[^31a-1]
-
-<sup>1</sup>
-
-Die Professorin oder der Professor hat Anspruch auf ergänzende Leistungen zur Familienzulage, sofern diese tiefer ist als jährlich:
-
-- a. 4519 Franken für das erste zulagenberechtigte Kind;
-- b. 2919 Franken für jedes weitere zulagenberechtigte Kind;
-- c. 3298 Franken für jedes weitere zulagenberechtigte Kind, welches das 16. Altersjahr vollendet hat und in Ausbildung steht oder erwerbsunfähig ist.[^31a-2]
+<sup>1</sup> Der Anspruch auf Familienzulagen richtet sich nach Artikel 3 des Familienzulagengesetzes vom 24. März 2006[^31-2] (FamZG).
 
 <sup>2</sup>
 
-Die Höhe der ergänzenden Leistungen entspricht der Differenz zwischen dem massgebenden Betrag nach Absatz 1 und den im Familienzulagengesetz vom 24. März 2006[^31a-3] festgehaltenen Mindestansätzen. Dabei werden zur Familienzulage hinzugerechnet:
+Die Professorin oder der Professor hat Anspruch auf ergänzende Leistungen bis zu einem Gesamtbetrag von höchstens:
 
-- a. von anderen Personen für dasselbe Kind geltend gemachte Familienzulagen nach dem Familienzulagengesetz;
-- b. von der Professorin oder vom Professor oder anderen Personen für dasselbe Kind bei anderen Arbeitgebern oder einer anderen zuständigen Stelle geltend gemachte Familien-, Kinder-, Ausbildungs- oder Betreuungszulagen.
+- a. 4530 Franken für das erste zulagenberechtigte Kind;
+- b. 2922 Franken für jedes weitere Kind mit Anspruch auf Kinderzulage (Art. 3 Abs. 1 Bst. a FamZG);
+- c. 3300 Franken für jedes weitere Kind mit Anspruch auf Ausbildungszulage (Art. 3. Abs. 1 Bst. b FamZG).
 
-<sup>3</sup> Professorinnen und Professoren mit einem Beschäftigungsgrad von weniger als 50 Prozent, erhalten keine ergänzenden Leistungen.
+<sup>3</sup>
 
-<sup>4</sup> Die ergänzenden Leistungen zur Familienzulage werden an die Teuerung angepasst.
+Von den ergänzenden Leistungen werden folgende Familienzulagen abgezogen:
 
-[^31a-1]: Eingefügt durch Ziff. III der V des ETH-Rates vom 11. Dez. 2008, vom BR genehmigt am 18. Febr. 2009 und in Kraft seit 1. Jan. 2009 ([AS 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)).
-[^31a-2]: Fassung gemäss Ziff. III der V des ETH-Rates vom 12. Dez. 2019, vom BR genehmigt am 19. Aug. 2020 und in Kraft seit 1. Jan. 2020 ([AS 2020 3617](https://fedlex.data.admin.ch/eli/oc/2020/653)).
-[^31a-3]: [SR 836.2](https://fedlex.data.admin.ch/eli/cc/2008/51)
+- a. von anderen Personen für dasselbe Kind geltend gemachte Familienzulagen nach dem FamZG und den kantonalen Familienzulagenordnungen;
+- b. für dasselbe Kind bei anderen Arbeitgebern oder einer anderen Stelle geltend gemachte obligatorische und überobligatorische Familien-, Kinder-, Ausbildungs- oder Betreuungszulagen.
+
+<sup>4</sup> Professorinnen und Professoren mit einem Beschäftigungsgrad von weniger als 50 Prozent erhalten keine ergänzenden Leistungen.
+
+<sup>5</sup> Die ergänzenden Leistungen nach Absatz 2 werden an die Teuerung angepasst.
+
+[^31-1]: Fassung gemäss Ziff. I der V des ETH-Rates vom 10. März 2022, vom BR genehmigt am 29. Juni 2022 und in Kraft seit 1. Aug. 2022 ([AS 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
+[^31-2]: [SR 836.2](https://fedlex.data.admin.ch/eli/cc/2008/51)
+
+#### Art. 31a
+
+[^31a-1]
+
+[^31a-1]: Eingefügt durch Ziff. III der V des ETH-Rates vom 11. Dez. 2008, vom BR genehmigt am 18. Febr. 2009 ([AS 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)). Aufgehoben durch Ziff. I der V des ETH-Rates vom 10. März 2022, vom BR genehmigt am 29. Juni 2022 und mit Wirkung seit 1. Aug. 2022 ([AS 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
 
 #### Art. 31b
 
@@ -529,7 +644,7 @@ Sie haben offen zu legen:
 
 <sup>4</sup> Im Übrigen gelten die Bestimmungen des VR-ETH 2[^32-6].[^32-7]
 
-<sup>5</sup> Die Artikel 39*a*, 42*a* und 47*a* PVO-ETH[^32-8] sind sinngemäss anwendbar. Die Höhe der Arbeitgeberbeteiligung an der Überbrückungsrente nach Anhang 5 der PVO-ETH entspricht dem für den Kaderplan 2 geltenden Prozentsatz. [^32-9]
+<sup>5</sup> Die Artikel 42*a* und 47*a* PVO-ETH[^32-8] sind sinngemäss anwendbar. Die Höhe der Arbeitgeberbeteiligung an der Überbrückungsrente nach Anhang 5 PVO-ETH entspricht dem für den Kaderplan 2 geltenden Prozentsatz.[^32-9]
 
 <sup>6</sup> Die beiden ETH können für die Professorinnen und Professoren, für die Artikel 60*b* der Verordnung vom 18. April 1984[^32-10] über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge anwendbar ist, eine Versicherung für die Risiken Tod und Invalidität abschliessen. Sie regeln eine allfällige Beteiligung der Professorinnen und Professoren an den Kosten der Versicherung.[^32-11]
 
@@ -541,7 +656,7 @@ Sie haben offen zu legen:
 [^32-6]: [SR 172.220.142.2](https://fedlex.data.admin.ch/eli/cc/2012/192)
 [^32-7]: Fassung gemäss Ziff. I der V des ETH-Rates vom 2. Okt. 2007, vom BR genehmigt am 14. Mai 2008 und in Kraft seit 1. Juli 2008 ([AS 2008 2291](https://fedlex.data.admin.ch/eli/oc/2008/331)).
 [^32-8]: [SR 172.220.113](https://fedlex.data.admin.ch/eli/cc/2001/279)
-[^32-9]: Fassung gemäss Ziff. I der V des ETH-Rates vom 2. Okt. 2007, vom BR genehmigt am 14. Mai 2008 und in Kraft seit 1. Juli 2008 ([AS 2008 2291](https://fedlex.data.admin.ch/eli/oc/2008/331)).
+[^32-9]: Eingefügt durch Ziff. I der V des ETH-Rates vom 2. Okt. 2007, vom BR genehmigt am 14. Mai 2008 ([AS 2008 2291](https://fedlex.data.admin.ch/eli/oc/2008/331)). Fassung gemäss Ziff. I der V des ETH-Rates vom 10. März 2022, vom BR genehmigt am 29. Juni 2022 und in Kraft seit 1. Aug. 2022 ([AS 2022 398](https://fedlex.data.admin.ch/eli/oc/2022/398)).
 [^32-10]: [SR 831.441.1](https://fedlex.data.admin.ch/eli/cc/1984/543_543_543)
 [^32-11]: Eingefügt durch Ziff. III der V des ETH-Rates vom 11. Dez. 2008, vom BR genehmigt am 18. Febr. 2009 und in Kraft seit 1. Jan. 2009 ([AS 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)).
 
