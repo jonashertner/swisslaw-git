@@ -1,305 +1,338 @@
 ---
 canton: GR
 number: "425.100"
-title: Verordnung über die Organisation der Bündner Kantonsschule
+title: Verordnung über die Organisation der Mittelschulen mit kantonaler Trägerschaft
 short: "Mittelschulorganisationsverordnung, MSOV"
 language: de
-version: 2013-01-01
-corrected: 2019-05-22
-version_adopted: 2012-12-11
+version: 2022-08-01
+valid_until: 2023-07-31
+version_adopted: 2022-02-22
 adopted: 2022-02-22
 in_force: 2022-08-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/425.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2722/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3238/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über die Organisation der Bündner Kantonsschule
+# Verordnung über die Organisation der Mittelschulen mit kantonaler Trägerschaft
 
-Vom 15.03.1971 (Stand 01.01.2013)
+(Mittelschulorganisationsverordnung, MSOV)
 
-Gestützt auf Art. 19 des Mittelschulgesetzes[^ingress-1]
+Vom 22.02.2022 (Stand 01.08.2022)
 
-von der Regierung beschlossen am 15. März 1971
+Gestützt auf Art. 20 Abs. 1 des Mittelschulgesetzes[^ingress-1]
+
+von der Regierung erlassen am 22. Februar 2022
 
 [^ingress-1]: BR [425.000](https://www.gr-lex.gr.ch/data/425.000/de)
 
-## 1. Schulleitung
+## 1. Allgemeine Bestimmungen
 
 #### Art. 1
 
-**…**
+**Gegenstand**
+
+<sup>1</sup> Diese Verordnung regelt für Mittelschulen mit kantonaler Trägerschaft das Ausbildungsangebot, die Vorgaben für das Qualitätskonzept sowie die Anstellungsverhältnisse der Schulleitung und der Lehrpersonen.
 
 #### Art. 2
 
-**…**
+**Konzept zur Sicherung der Ausbildungsqualität**
+
+<sup>1</sup> Das Konzept zur Sicherung der Ausbildungsqualität der Mittelschulen mit kantonaler Trägerschaft orientiert sich an den Grundsätzen von «Qualität durch Evaluation und Entwicklung».
 
 #### Art. 3
 
-**…**
+**Begriffe**
+
+<sup>1</sup> In dieser Verordnung bedeuten:
+
+- a) Bandbreitenvertrag: Anstellungsvertrag, in dem das Arbeitspensum mit einer Bandbreite von maximal 20 Prozent festgelegt wird;
+- b) Pensenanpassungen: Ergänzung des jährlichen Normpensums aufgrund zusätzlicher Auszahlungsanteile oder Korrekturen;
+- c) Normzuschlag: Gutschrift zu Unterrichtslektionen und einzelnen Pensenanpassungen infolge erhöhten Arbeitsaufwands;
+- d) Normpensum: Unterrichtsanteil inklusive Normzuschlag sowie unterrichtsspezifische Arbeiten plus allfällige Pensenanpassungen gemäss Artikel 22 bis Artikel 25;
+- e) Auszahlungsumfang: durch die Rektorin oder den Rektor gemeldeter Umfang der monatlichen Gehaltsauszahlungen für das Schuljahr;
+- f) Pensensaldo: Über- oder Unterschreitung des jährlichen Arbeitspensums durch den gemeldeten Auszahlungsumfang;
+- g) Jahreslektion: Summe von Normpensum und Zusatzaufgaben geteilt durch 26 Unterrichtslektionen während 38 Unterrichtswochen bei einem Arbeitspensum von 100 Prozent.
+
+## 2. Schulleitung
+
+### 2.1. Mitglieder und Auftrag
 
 #### Art. 4
 
-**Rektoratskommission**
+**Mitglieder der Schulleitung, Stellenumfang, Arbeitszeiterfassung**
 
-<sup>1</sup> Die Rektoratskommission (Schulleitung) leitet die Schule. Ihr gehören der Rektor, der Konrektor und die Abteilungsvorsteher (Prorektoren) an.
+<sup>1</sup> Vorsitzende oder Vorsitzender der Schulleitung gemäss Artikel 63 Absatz 1 des Personalgesetzes[^4-1] ist die Rektorin oder der Rektor. Weitere Mitglieder der Schulleitung sind die Stellvertreterin oder der Stellvertreter der Rektorin beziehungsweise des Rektors (Konrektorin oder Konrektor) und in der Regel mindestens eine weitere Person (Prorektorin oder Prorektor).
+
+<sup>2</sup> Der Stellenumfang für die Schulleitung sowie die Zusammensetzung der Schulleitung pro Mittelschule mit kantonaler Trägerschaft sind in Anhang 1 geregelt.
+
+<sup>3</sup> Die Mitglieder der Schulleitung erfassen ihre Arbeitszeit gemäss der kantonalen Personalgesetzgebung. Sämtliche im Zusammenhang mit der Unterrichtstätigkeit stehenden Arbeiten, die Vertretung der Schule in Arbeitsgruppen und Kommissionen (regional und überregional) sowie die Erfüllung von Aufträgen für das Amt für Höhere Bildung (Amt) sind Bestandteil des Arbeitspensums.
+
+[^4-1]: BR [170.400](https://www.gr-lex.gr.ch/data/170.400/de)
 
 #### Art. 5
 
-**Aufgaben**
+**Auftrag der Schulleitung**
 
-<sup>1</sup> Die Rektoratskommission
+<sup>1</sup> Die Schulleitung stellt die Schul-, Personal- und Betriebsführung sicher.
 
-- a) überwacht die Schulführung und den Unterricht;
-- b) führt unter Mitwirkung der Lehrer die Schulordnung[^5-1] durch;
-- c) regelt die Fragen der Disziplin und des allgemeinen Schullebens;
-- d) beschliesst über Vorträge, musikalische und theatralische Darbietungen und weitere Schulveranstaltungen;
-- e) entscheidet über die Durchführung von Ausflügen, Exkursionen sowie Schulreisen und genehmigt die Reisepläne der Klassenlehrer;
-- f) erledigt Disziplinarfälle nach den Bestimmungen der Schulordnung;
-- g) entscheidet über Gesuche um Erlass des Schulgeldes;
-- h) bereitet die Wahl von Lehrern vor.
+<sup>2</sup> Sie erstellt das Qualitätskonzept und erarbeitet gemeinsam mit den Lehrpersonen das Konzept für die Schul- und Unterrichtsentwicklung, setzt diese um und überarbeitet sie periodisch.
 
-<sup>2</sup> Die Rektoratskommission kann ihre Mitglieder mit besonderen, in Artikel 8–10 nicht umschriebenen Aufgaben betrauen.
-
-[^5-1]: BR [425.110](https://www.gr-lex.gr.ch/data/425.110/de)
+<sup>3</sup> Ihr obliegt die Betreuung der Schülerinnen und Schüler, soweit diese Aufgabe nicht von der Klassenlehrperson wahrgenommen wird. Neben der Betreuung der ihnen durch die Rektorin oder den Rektor zugeteilten Ressorts wirken die Schulleitungsmitglieder im Bedarfsfall bei der Erfüllung weiterer Aufgaben mit.
 
 #### Art. 6
 
-**…**
+**Unterrichtsverpflichtung für Mitglieder der Schulleitung**
+
+<sup>1</sup> Die Rektorin oder der Rektor unterrichtet im Durchschnitt von vier Schuljahren zwei Jahreslektionen pro Schuljahr.
+
+<sup>2</sup> Die Konrektorin oder der Konrektor unterrichtet im Durchschnitt von vier Schuljahren vier Jahreslektionen pro Schuljahr.
+
+<sup>3</sup> Die Prorektorin oder der Prorektor unterrichtet im Durchschnitt von vier Schuljahren sechs Jahreslektionen pro Schuljahr.
 
 #### Art. 7
 
-**…**
+**Befristete Reduktion der Unterrichtsverpflichtung für Mitglieder der Schulleitung**
+
+<sup>1</sup> Für gesamtschweizerische oder kantonale Bildungsreformen oder für die Übernahme eines Vorstandsmandats in einem nationalen Gremium des Mittelschulbereichs kann das Departement einzelnen Mitgliedern der Schulleitung eine befristete Reduktion der Unterrichtsverpflichtung gewähren.
+
+### 2.2. Anstellung
 
 #### Art. 8
 
-**Rektor**
+**Findungsausschuss und Antrag**
 
-<sup>1</sup> Der Rektor ist der verantwortliche Leiter der Mittelschulabteilungen. Er leitet die Lehrerkonferenz und erstattet Bericht über die Mittelschulabteilungen.
+<sup>1</sup> Bei der Wahl der Mitglieder der Schulleitung kann die Departementsvorsteherin oder der Departementsvorsteher einen Findungsausschuss als beratendes Organ einsetzen.
 
-<sup>2</sup> Er unterzeichnet die Abschlussausweise.
+<sup>2</sup> Die Rektorin oder der Rektor beantragt dem Departement auf dem Dienstweg die Neubesetzung der Stelle der Konrektorin oder des Konrektors sowie der Prorektorin oder des Prorektors. Das Amt beantragt dem Departement die Neubesetzung der Stelle der Rektorin oder des Rektors.
 
-<sup>3</sup> Dem Rektor untersteht das Personal.
+## 3. Lehrpersonen
 
-<sup>4</sup> Der Rektor ist in der Regel zu fünf Unterrichtsstunden in der Woche verpflichtet.
+### 3.1. Bildungsauftrag
 
 #### Art. 9
 
-**Konrektor**
+**Lehrperson**
 
-<sup>1</sup> Der Konrektor ist der Vertreter des Rektors; er wird aus den Vorstehern der Abteilungen gewählt. Er arbeitet mit einem Fachmann den Stundenplan für die Mittelschulabteilungen aus und verwaltet die Lehrmittelsammlung. Der Konrektor ist in der Regel zu zwölf Unterrichtsstunden in der Woche verpflichtet.
+<sup>1</sup> Der mit einer Anstellung als Lehrperson an einer Mittelschule mit kantonaler Trägerschaft zu erfüllende Bildungsauftrag setzt sich aus dem Normpensum sowie der Erledigung von Zusatzaufgaben zusammen.
+
+<sup>2</sup> Der zeitliche Aufwand für die Zusatzaufgaben, welcher 60 beziehungsweise 120 Sollstunden über- oder unterschreitet, wird in Jahreslektionen ohne Normzuschlag umgerechnet und dem jährlichen Arbeitspensum gutgeschrieben beziehungsweise belastet.
+
+<sup>3</sup> Das Departement erlässt Bestimmungen für den Unterrichtsanteil des Normpensums sowie für obligatorische und fakultative Zusatzaufgaben.
 
 #### Art. 10
 
-**Abteilungsvorsteher**
+**Klassenlehrperson**
 
-<sup>1</sup> Die einzelnen Abteilungen werden nach folgender Gliederung von einem Abteilungsvorsteher (Prorektor) unmittelbar betreut:
+<sup>1</sup> Der Klassenlehrperson steht pro Unterrichtswoche eine in der Stundentafel und im Stundenplan fixierte und mit einem Lehrplan versehene Einzellektion als «Klassenstunde» zur Verfügung.
 
-- a) Untergymnasium;
-- b) Gymnasium;
-- c) Handelsmittelschule;
-- d) Fachmittelschule.
+<sup>2</sup> Die Klassenlehrperson begleitet ihre Klasse in der Regel mit einer weiteren Lehrperson am Klassenanlass.
+
+### 3.2. Anstellung
 
 #### Art. 11
 
-**Aufgaben 1. an der Abteilung**
+**Verfahren zur Anstellung von Lehrpersonen**
 
-<sup>1</sup> Die Abteilungsvorsteher leiten die Teilkonferenzen und überwachen den Unterricht an ihrer Abteilung. Sie sind verantwortlich für die Führung der Notenmatrikel und die Ausfertigung der Zeugnisse.
-
-<sup>2</sup> Sie behandeln im Rahmen der Schulordnung[^11-1] die Disziplinarfälle an ihrer Abteilung und überwachen die Absenzenkontrolle.
-
-<sup>3</sup> Den Abteilungsvorstehern obliegt die Betreuung der Schüler, soweit diese Aufgabe nicht vom Klassenlehrer wahrgenommen werden kann.
-
-<sup>4</sup> Die Abteilungsvorsteher sind in der Regel zu 15 Unterrichtsstunden in der Woche verpflichtet.
-
-[^11-1]: BR [425.110](https://www.gr-lex.gr.ch/data/425.110/de)
+<sup>1</sup> Das Verfahren zur Anstellung von Lehrpersonen beinhaltet in der Regel mindestens eine Probelektion und deren Beurteilung durch mindestens eine Fachexpertin oder einen Fachexperten sowie durch mindestens ein Mitglied der Schulleitung. Über Ausnahmen entscheidet die Rektorin oder der Rektor.
 
 #### Art. 12
 
-**2. allgemeine**
+**Anstellung mit Bandbreitenvertrag**
 
-<sup>1</sup> Neben der Betreuung ihrer Abteilungen wirken die Abteilungsvorsteher bei der Erfüllung allgemeiner Aufgaben der Schulleitung mit, wie
+<sup>1</sup> Nach Massgabe der betrieblichen Bedürfnisse werden Lehrpersonen befristet oder unbefristet mit einem Bandbreitenvertrag angestellt.
 
-- a) Überwachung der Ordnung in den Schulgebäuden;
-- b) Unterhalt und Erneuerung von Gebäuden und Mobiliar;
-- c) Zuteilung der Turnhallen an Vereine und Beaufsichtigung des schulfremden Turnbetriebes;
-- d) Verwaltung des Archivs;
-- e) Verwaltung der Lehrerbibliothek;
-- f) Zusammenstellung der finanziellen Verpflichtungen der Schüler und Abrechnung über Schulreisen;
-- g) Verkehr mit der Unfallversicherungsgesellschaft.
+<sup>2</sup> Bandbreitenverträge für eine «befristete Anstellung» beginnen am 1. August und enden am 31. Juli. Die Kündigungsfrist beträgt im ersten Anstellungsjahr einen Monat, im zweiten und dritten Anstellungsjahr vier Monate.
 
-<sup>2</sup> Die Zuteilung der einzelnen Aufgaben an die Abteilungsvorsteher ist Sache der Rektoratskommission.
+<sup>3</sup> Eine Anstellung mit einem Bandbreitenvertrag ohne Endzeitpunkt wird als «unbefristete Anstellung» bezeichnet. Bandbreitenverträge für eine unbefristete Anstellung beginnen in der Regel am 1. August und können per 31. Januar oder per 31. Juli gekündigt werden. Die Kündigungsfrist beträgt vier Monate.
 
 #### Art. 13
 
-**…**
+**Verlängerung und Umgestaltung der Anstellung**
+
+<sup>1</sup> Ohne gegenteilige schriftliche Mitteilung durch eine der Vertragsparteien bis am 31. März verlängert sich ein Bandbreitenvertrag für eine befristete Anstellung automatisch um ein weiteres Schuljahr.
+
+<sup>2</sup> Nach einer Gesamtanstellungsdauer eines befristeten Arbeitsverhältnisses von drei aufeinander folgenden Jahren ist dieses bei Fortsetzung in eine unbefristete Anstellung zu überführen, falls die für den Unterricht an einer Mittelschule erforderliche fach- und berufswissenschaftliche Ausbildung erfolgreich abgeschlossen ist.
+
+<sup>3</sup> Falls eine Überführung in eine unbefristete Anstellung nach den Bestimmungen von Absatz 2 nicht umgesetzt werden kann, ist das Vertragsverhältnis aufzulösen oder dem Amt ein begründeter Antrag zur Verlängerung der befristeten Anstellung um ein Jahr einzureichen. Das Amt kann höchstens zweimal eine Verlängerung um ein Jahr bewilligen.
+
+### 3.3. Jährliches Arbeitspensum und Weiterbildungsprojekte
 
 #### Art. 14
 
-**…**
+**Jährliches Arbeitspensum**
+
+<sup>1</sup> Das jährliche Arbeitspensum für Lehrpersonen mit einer Anstellung von 100 Prozent beträgt 2016 Arbeitsstunden. Es berechnet sich aus dem Pensensaldo des vorgehenden Schuljahrs, dem Normpensum sowie den Zusatzaufgaben und umfasst 26 Unterrichtslektionen zu 40 Minuten während 38 Unterrichtswochen bei einem Arbeitspensum von 100 Prozent.
+
+<sup>2</sup> Im jährlichen Arbeitspensum von 100 Prozent sind Zusatzaufgaben für schulspezifische Aufträge im Umfang von 60 Sollstunden für Fachlehrpersonen II, für Mittelschullehrpersonen I in der Funktionsklasse 20 und für Mittelschullehrpersonen II in der Funktionsklasse 21 enthalten.
 
 #### Art. 15
 
-**…**
+**Festlegung des jährlichen Arbeitspensums**
 
-## 2. Lehrer
+<sup>1</sup> Die Rektorin oder der Rektor legt innerhalb des Bandbreitenvertrags das jährliche Arbeitspensum fest. Für promotionswirksame Fächer (inklusive Latein I und II) mit weniger als acht Schülerinnen und Schülern kann die Rektorin oder der Rektor auf der Grundlage eines vom Amt erlassenen Reglements in Abweichung zur Stundentafel die Anzahl auszuzahlender Jahreslektionen kürzen, wobei der Unterricht für die Schülerinnen und Schüler gemäss Stundentafel zu erfolgen hat.
+
+<sup>2</sup> Wird das jährliche Arbeitspensum nachträglich durch die Rektorin oder den Rektor geändert, so wird dies mit einer Pensenanpassung nachgetragen. Bei befristeten Anstellungen darf der gemeldete Auszahlungsumfang nicht unterschritten werden.
+
+<sup>3</sup> Die vertraglich festgelegte Bandbreite darf im Einvernehmen mit der Lehrperson bei der Zuteilung des jährlichen Arbeitspensums höchstens zweimal in Folge unter- oder überschritten werden. Danach ist eine Vertragsanpassung erforderlich.
 
 #### Art. 16
 
-**Allgemeine Aufgaben**
+**Genehmigung des jährlichen Arbeitspensums**
 
-<sup>1</sup> Soweit nicht besondere Vorschriften bestehen, regelt sich das Dienstverhältnis nach der kantonalen Personalverordnung[^16-1] und ihren Ausführungsbestimmungen[^16-2]. Die Lehrer sind zu gewissenhafter und pünktlicher Erteilung des im Lehr- und Stundenplan vorgesehenen Unterrichtes verpflichtet. Zu ihren Aufgaben gehört auch die allgemeine Erziehung der ihnen anvertrauten Schüler.
-
-<sup>2</sup> Die Lehrer unterstützen die Schulleitung in der Aufrechterhaltung der Disziplin inner- und ausserhalb der Schule und bringen ihr Übertretungen der Schulordnung[^16-3] zur Kenntnis.
-
-[^16-1]: BR [170.400](https://www.gr-lex.gr.ch/data/170.400/de)
-[^16-2]: BR [170.410](https://www.gr-lex.gr.ch/data/170.410/de)
-[^16-3]: BR [425.110](https://www.gr-lex.gr.ch/data/425.110/de)
+<sup>1</sup> Die synoptische Darstellung des jährlichen Arbeitspensums aller Lehrpersonen wird durch das Departement genehmigt.
 
 #### Art. 17
 
-**Stundenzahl**
+**Normzuschlag und Pensenanpassung**
 
-<sup>1</sup> Die wöchentliche Stundenzahl soll in der Regel nicht mehr als 27 betragen. Für Lehrer, welche das 58. Altersjahr erfüllt haben, tritt eine Entlastung ein. Ebenso ist das Pflichtpensum für Lehrer, welche viel Zeit für Vorbereitungen und Korrekturen aufwenden müssen, angemessen herabzusetzen. Über die genauen Pflichtstundenzahlen und die jährliche Stundenzuteilung entscheidet das Erziehungs-, Kultur- und Umweltschutzdepartement auf Antrag der Schulleiter.
+<sup>1</sup> Die Normzuschläge sind folgendermassen geregelt:
+
+- a) kein Normzuschlag: Turnen und Sport als Grundlagenfach, Handarbeit/Werken und Wirtschaft/Arbeit/Haushalt als Grundlagenfach, Klassenstunde, Freifächer (ohne Latein I und II, aber inklusive Kurse für Talentförderung), Leitung der Musikformationen Chor, Kadettenmusik, Orchester;
+- b) Normzuschlag zwei Jahreslektionen: Deutsch/tudestg/tedesco, Romanisch und Italienisch als Erstsprache, Mathematik und Englisch;
+- c) Normzuschlag eine Jahreslektion: alle weiteren Unterrichtsfächer inklusive Latein I und II.
+
+<sup>2</sup> Pensenanpassungen werden gemäss Artikel 22 bis Artikel 25 gewährt.
 
 #### Art. 18
 
-**Dispens, Stellvertretungen, Kurzurlaub**
+**Urlaub für Weiterbildungsprojekte**
 
-<sup>1</sup> Im Krankheitsfall hat der Lehrer unverzüglich der Schulleitung Mitteilung zu machen.
+<sup>1</sup> Auf Antrag der Rektorin oder des Rektors kann das Amt nach Rücksprache mit dem Personalamt Lehrpersonen, welche vor dem beantragten Weiterbildungsprojekt während mindestens zehn Jahren mit einem Arbeitsumfang von durchschnittlich mindestens 50 Prozent an einer Mittelschule mit kantonaler Trägerschaft unterrichtet haben, einen maximal zwölf Wochen dauernden, bezahlten Urlaub für ein Weiterbildungsprojekt gewähren, wovon eine Woche in der unterrichtsfreien Zeit zu beziehen ist.
 
-<sup>2</sup> Der Rektor sorgt bei längeren Absenzen von Lehrern für Stellvertretungen. Jeder Lehrer ist verpflichtet, bei Vertretungen von kürzerer Dauer ihm provisorisch übertragene Unterrichtsstunden zu übernehmen.
+<sup>2</sup> Das Amt erlässt ein Reglement betreffend Weiterbildungsprojekte.
 
-<sup>3</sup> Der Rektor kann Urlaube bis zu drei Tagen gewähren.
+### 3.4. Einreihung, Entlöhnung und Stellvertretung
 
 #### Art. 19
 
-**Betreuung der Lehrmittel**
+**Einreihung**
 
-<sup>1</sup> Jeder Lehrer ist für die Apparate, Instrumente, Kunstwerke, Bücher und für andere Lehrmittel, die er in seinem Unterricht braucht, verantwortlich.
+<sup>1</sup> Lehrpersonen, welche über ein Lehrdiplom gemäss dem Reglement über die Anerkennung von Lehrdiplomen für den Unterricht auf der Primarstufe, der Sekundarstufe I und an Maturitätsschulen verfügen, sind folgendermassen in Funktionsklassen einzureihen:
 
-<sup>2</sup> Die Turnlehrer haben für die richtige Aufbewahrung und Instandstellung der Turngeräte zu sorgen.
+<table>
+<tr><th></th><th>Funktionsklasse</th></tr>
+<tr><td>Fachlehrperson I (Tastaturschreiben)</td><td>15</td></tr>
+<tr><td>Fachlehrperson II (Lehrperson für Handarbeit/Werken, Information/Kommunikation/Administration und Wirtschaft/Arbeit/Haushalt)</td><td>18</td></tr>
+<tr><td>Mittelschullehrperson I</td><td>20</td></tr>
+<tr><td>Mittelschullehrperson II</td><td>21</td></tr>
+</table>
 
 #### Art. 20
 
-**Notengebung**
+**Wechsel der Gehaltsklasse**
 
-<sup>1</sup> Jedes Halbjahr werden die Zeugnisse über sämtliche Schüler in ein Zeugnisprotokoll eingetragen und einer Teilkonferenz unterbreitet. Die Noten sollen genau erwogen sein und dürfen nachher nicht mehr geändert werden, ausgenommen bei offenbarem Irrtum. In allen andern Fällen kann nur die Teilkonferenz Änderungen vornehmen, wobei nur die den Schüler unterrichtenden Lehrer stimmberechtigt sind. Entsprechendes gilt auch bei den Aufnahmeprüfungen.
+<sup>1</sup> Für die Dauer der Einarbeitung sind die Lehrpersonen eine Gehaltsklasse unter der jeweiligen Funktionsklasse (Anlaufsklasse) einzureihen, wobei der Lohn innerhalb der Funktionsklasse auf Antrag der Rektorin oder des Rektors durch das Amt nach Rücksprache mit dem Personalamt festgesetzt wird.
+
+<sup>2</sup> Lehrpersonen ohne stufenkonformes Lehrdiplom sind eine Klasse unterhalb der Funktionsklasse einzureihen.
+
+<sup>3</sup> Mittelschullehrpersonen I und II, welche in den letzten zwei Gesamtbeurteilungen jeweils das Prädikat «sehr gut» erreicht haben, können in der Regel frühestens nach zehn Jahren Unterrichtstätigkeit auf Mittelschulstufe in die Gehaltsklasse 21 beziehungsweise 22 eingereiht werden. Die Erhöhung der Gehaltsklasse hat zur Folge, dass Zusatzaufgaben im Umfang von 120 Sollstunden bei einem Arbeitsumfang von 100 Prozent zu leisten sind.
 
 #### Art. 21
 
-**Versäumniskontrolle**
+**Stellvertretung**
 
-<sup>1</sup> Jeder Lehrer ist verpflichtet, ein genaues Verzeichnis der Schulversäumnisse in allen Klassen, die er unterrichtet, zu führen und unentschuldigte Versäumnisse gemäss Schulordnung[^21-1] zu ahnden.
+<sup>1</sup> Das Departement regelt die Stellvertretungen und deren Entlöhnung.
 
-[^21-1]: BR [425.110](https://www.gr-lex.gr.ch/data/425.110/de)
+### 3.5. Pensenanpassungen
 
 #### Art. 22
 
-**Wahlerfordernisse**
+**Abschlussprüfungen, schriftliche Arbeiten, Praktika**
 
-<sup>1</sup> Für die Wahl der Kantonsschullehrer gelten in der Regel folgende Erfordernisse:
+<sup>1</sup> Die Rektorin oder den Rektor gewährt folgende Pensenanpassungen:
 
-- a) für die Lehrer der wissenschaftlichen Fächer: Fachstudien, die an einer schweizerischen Hochschule mit dem Diplom für das höhere Lehramt abgeschlossen worden sind, die Promotion zum Doktor wird als zusätzlicher Ausweis gewertet;
-- b) für Lehrer der Kunstfächer (Gesang, Instrumentalmusik, Zeichnen): Diplom für Musiklehrer eines Konservatoriums oder gleichwertiger Ausweis eines privaten Musikinstitutes beziehungsweise Diplom für Zeichnen, Schreiben und Handarbeiten an mittleren und oberen Schulen oder gleichwertige Ausweise;
-- c) für Religionslehrer: abgeschlossenes theologisches Studium und Ausweis über Hochschulstudien in den zusätzlich zu erteilenden Fächern;
-- d) für Turnlehrer: Turnlehrerdiplom II, ergänzt durch einen Ausweis über Studien in einem zweiten Fach;
-- e) …
+<table>
+<tr><th></th><th>Jährliches Arbeitspensum: 26 Jahreslektionen</th></tr>
+<tr><td>Vorbereitung, Durchführung und Korrektur der Abschlussprüfungen pro mündliche beziehungsweise schriftliche Abschlussprüfung</td><td>0,025</td></tr>
+<tr><td>Betreuung gymnasiale Maturitätsarbeit, Fachmaturitätsarbeit, selbstständige Arbeit Fachmittelschule, interdisziplinäre Projektarbeit Handels-/Informatikmittelschule pro Arbeit</td><td>0,250</td></tr>
+<tr><td>Betreuung Langzeitpraktikum Handels-/Informatikmittelschule pro Praktikantin beziehungsweise Praktikant</td><td>0,200</td></tr>
+</table>
 
 #### Art. 23
 
-**Weiterbildung**
+**Dienstaltersurlaub**
 
-<sup>1</sup> Die Weiterbildung der Lehrer ist zu fördern. Für den Besuch von Kursen und andern Veranstaltungen, welche diesem Zweck dienen, werden Beiträge ausgerichtet.
+<sup>1</sup> Der Dienstaltersurlaub wird im ersten Jahr der Gewährung in das Unterrichtspensum eingerechnet. Im Zusammenhang mit dem Bezug eines Weiterbildungsurlaubs kann der Dienstaltersurlaub mit dem Weiterbildungsurlaub kombiniert werden:
+
+<table>
+<tr><th></th><th>Jährliches Arbeitspensum: 26 Jahreslektionen</th></tr>
+<tr><td>10 Tage Dienstaltersurlaub inklusive Normzuschlag</td><td>1,125</td></tr>
+<tr><td>20 Tage Dienstaltersurlaub inklusive Normzuschlag</td><td>2,250</td></tr>
+</table>
 
 #### Art. 24
 
-**Wissenschaftliche Arbeiten**
+**Altersentlastung**
 
-<sup>1</sup> Dem Jahresbericht der Kantonsschule können Publikationen wissenschaftlicher Arbeiten von Kantonsschullehrern beigelegt werden. Über ihre Aufnahme entscheidet das Departement.
+<sup>1</sup> Für Lehrpersonen, welche vor dem 1. August das 58. Altersjahr vollendet haben, sowie für Lehrpersonen, welche vor dem 1. August das 61. Altersjahr vollendet haben, wird folgende Altersentlastung in Form einer Pensenanpassung gewährt:
 
-## 3. Die Lehrerkonferenzenz
+<table>
+<tr><th></th><th>Jährliches Arbeitspensum: 26 Jahreslektionen</th></tr>
+<tr><td>Altersentlastung ab vollendetem 58. Altersjahr</td><td>1,500</td></tr>
+<tr><td>Altersentlastung ab vollendetem 61. Altersjahr</td><td>3,500</td></tr>
+</table>
+
+<sup>2</sup> Die Altersentlastung wird direkt proportional zum jährlichen Arbeitspensum der Lehrperson berechnet.
+
+<sup>3</sup> Der Pensensaldo aus dem letzten Jahr und die Pensenanpassung für den Dienstaltersurlaub werden nicht in die Berechnung der Altersentlastung miteinbezogen.
 
 #### Art. 25
 
-**…**
+**Individuelle Pensenanpassungen**
+
+<sup>1</sup> Die Rektorin oder der Rektor kann aufgrund der Erfordernisse des Schulbetriebs beim Amt weitere Pensenanpassungen beantragen.
+
+## 4. Konferenzen und Gesamtschulanlässe
 
 #### Art. 26
 
-**Zusammensetzung, Einberufung**
+**Allgemeine Konferenz der Lehrpersonen 1. Zusammensetzung und Einberufung**
 
-<sup>1</sup> Die Konferenz besteht aus sämtlichen Lehrpersonen der Bündner Kantonsschule.
+<sup>1</sup> Der allgemeinen Konferenz der Lehrpersonen (AKL) gehören alle Lehrpersonen der Mittelschule mit kantonaler Trägerschaft an. Die Teilnahme an der AKL ist obligatorisch.
 
-<sup>2</sup> Die Konferenz wird vom Rektor in der Regel mindestens zehn Tage vor der Durchführung unter Angabe der Traktanden einberufen. Ein Drittel der Lehrpersonen kann die Einberufung der Konferenz verlangen.
+<sup>2</sup> Die Rektorin oder der Rektor lädt mindestens zehn Tage vor der Durchführung der AKL alle Lehrpersonen unter Angabe der Traktanden ein. Pro Semester ist mindestens eine AKL durchzuführen.
 
-<sup>3</sup> Die Teilnahme ist für alle Lehrpersonen obligatorisch.
+<sup>3</sup> Die Rektorin oder der Rektor muss die AKL einberufen, wenn mindestens ein Drittel der Lehrpersonen dies verlangt.
 
 #### Art. 27
 
-**Aufgaben und Befugnisse**
+**2. Befugnisse**
 
-<sup>1</sup> Die Lehrerkonferenz der Kantonsschule behandelt alle Gegenstände, die für die Schule und für die Lehrer von grundlegender Bedeutung sind.
+<sup>1</sup> Die AKL:
 
-<sup>2</sup> Sie kann den Erziehungsbehörden in allen mit der Schule zusammenhängenden Fragen Wünsche und Anregungen vorlegen. Von der Mehrheit der Lehrer befürwortete Anträge werden vom Rektor an die Behörden weitergeleitet.
-
-<sup>3</sup> Der Lehrerkonferenz der Kantonsschule stehen insbesondere folgende Befugnisse zu:
-
-- 1\. sie berät und beantragt Lehrpläne, Stundentafeln und Reformpläne;
-- 2\. sie berät Reglemente über Aufnahmeprüfungen und Promotionen sowie die Schulordnung;
-- 3\. sie legt die Grundsätze für Schulreisen, Sporttage und andere Schulanlässe fest;
-- 4\. sie berät über die Ferienordnung.
-
-<sup>4</sup> Zur Vorbereitung dieser Geschäfte kann sie Kommissionen einsetzen.
+- a) behandelt und genehmigt pädagogische Reglemente, welche für die Mittelschule mit kantonaler Trägerschaft und für die Lehrpersonen von grundlegender Bedeutung sind;
+- b) kann zu Sachgeschäften, welche die Mittelschule betreffen, der Schulleitung Vorschläge unterbreiten oder Stellung nehmen;
+- c) kann zwei Lehrpersonen in einen allfälligen Findungsausschuss zur Anstellung von Mitgliedern der Schulleitung gemäss Artikel 8 Absatz 1 delegieren.
 
 #### Art. 28
 
 **Teilkonferenzen**
 
-<sup>1</sup> Teilkonferenzen können als Abteilungs-, Fach-/Fachgruppen-, Klassen-, Prüfungs-, Promotions- und Zeugniskonferenzen sowie zum Zweck der Frühjahrsschülerbesprechung einberufen werden.
+<sup>1</sup> Folgende Teilkonferenzen können einberufen werden:
 
-<sup>2</sup> Abteilungskonferenzen bestehen aus allen an einer Abteilung unterrichtenden Lehrern. Sie werden von den Abteilungsvorstehern einberufen. Sie nehmen Stellung zu Fragen, die nur die betreffende Abteilung berühren.
-
-<sup>3</sup> Fach- und Fachgruppenkonferenzen setzen sich aus den Lehrern eines Faches beziehungsweise einer Fachgruppe zusammen. Sie werden von der Schulleitung einberufen und beraten Fragen des Unterrichts im betreffenden Fach beziehungsweise der betreffenden Fachgruppe.
-
-<sup>4</sup> Klassenkonferenzen bestehen aus allen in einer Klasse unterrichtenden Lehrern. Sie können vom Klassenlehrer zur Behandlung von Fragen, die die Klasse oder einzelne ihrer Schüler betreffen, einberufen werden.
-
-<sup>5</sup> Prüfungs-, Promotions- und Zeugniskonferenzen werden von der Schulleitung einberufen. Sie entscheiden im Rahmen der Promotionsordnung[^28-1] über Aufnahme, Promotion und Nichtpromotion von Schülern. Sie setzen die Betragensnoten fest. Sie können Empfehlungen zuhanden der Eltern formulieren. Dies gilt sinngemäss auch für die Schülerbesprechung im Frühjahr.
-
-[^28-1]: BR 425.200 bzw. 425.210 (Kantonsschule)
+- a) durch die Rektorin oder den Rektor: die Konferenz der Fachschaftsvorsitzenden, die Noten-, Promotions- und Abschlussprüfungskonferenzen;
+- b) durch die Mitglieder der Schulleitung: die Konferenz der Lehrpersonen der Fachmittelschule, der Handelsmittelschule, der Informatikmittelschule und des Untergymnasiums;
+- c) durch die Fachschaftsvorsitzenden: die Konferenz der einzelnen Fachschaften;
+- d) durch die Klassenlehrperson nach Rücksprache mit dem zuständigen Schulleitungsmitglied: die Konferenz der Lehrpersonen einer Klasse.
 
 #### Art. 29
 
-**…**
+**Gesamtschulanlässe**
 
-## 4. Schulärztlicher Dienst, Unfallversicherung
+<sup>1</sup> Der Mittelschule stehen höchstens zwei Unterrichtstage für Gesamtschulanlässe innerhalb eines Schuljahrs zur Verfügung. Davon ausgenommen sind maximal zwei Themenwochen, Klassenanlässe und Fachexkursionen.
 
-#### Art. 30
-
-**Schulärztlicher Dienst**
-
-<sup>1</sup> Der schulärztliche Dienst richtet sich nach den Bestimmungen der Verordnung über den schulärztlichen Dienst[^30-1].
-
-[^30-1]: BR [421.800](https://www.gr-lex.gr.ch/data/421.800/de)
-
-#### Art. 31
-
-**Versicherungen**
-
-<sup>1</sup> Die Unfallversicherung für Lehrer und Personal richtet sich nach der Personalverordnung[^31-1].
-
-<sup>2</sup> Die Unfallversicherung der Schülerinnen und Schüler ist Sache des Inhabers der elterlichen Sorge.
-
-[^31-1]: Nunmehr Personalgesetz, BR [170.400](https://www.gr-lex.gr.ch/data/170.400/de), und Anschlussgesetzgebung
+<sup>2</sup> Falls der Einsatz in Projektwochen, Themen- oder Blocktagen das anteilsmässige jährliche Arbeitspensum um 15 Prozent unter- oder überschreitet, bestimmt die Rektorin oder der Rektor mittels eines Reglements die Verrechnung der zusätzlich geleisteten Einzellektionen.
 
 ## 5. Schlussbestimmungen
 
-#### Art. 32
+#### Art. 30
 
-**Inkrafttreten, Aufhebung bisherigen Rechts**
+**Vollzug**
 
-<sup>1</sup> Diese Verordnung ersetzt die gleichnamige Verordnung vom 27. Oktober 1969[^32-1] und tritt auf den 1. September 1971 in Kraft.
+<sup>1</sup> Das Departement erlässt zum Vollzug dieser Verordnung eine Rahmenordnung.
 
-[^32-1]: AGS 1969, 150
+<sup>2</sup> Der Vollzug obliegt dem Amt.
 
--
+2022-011

@@ -1,305 +1,338 @@
 ---
 canton: GR
 number: "425.100"
-title: "Ordinaziun davart l'organisaziun da la scola chantunala grischuna"
+title: "Ordinaziun davart l'organisaziun da las scolas medias purtadas dal chantun"
 short: "Ordinaziun davart l'organisaziun da las scolas medias, OOSM"
 language: rm
-version: 2013-01-01
-corrected: 2019-05-22
-version_adopted: 2012-12-11
+version: 2022-08-01
+valid_until: 2023-07-31
+version_adopted: 2022-02-22
 adopted: 2022-02-22
 in_force: 2022-08-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/425.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2722/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3238/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Ordinaziun davart l'organisaziun da la scola chantunala grischuna
+# Ordinaziun davart l'organisaziun da las scolas medias purtadas dal chantun
 
-dals 15-03-1971 (versiun dals 01-01-2013)
+(Ordinaziun davart l'organisaziun da las scolas medias, OOSM)
 
-sa basond sin l'art. 19 da la lescha davart las scolas medias[^ingress-1]
+dals 22-02-2022 (versiun dals 01-08-2022)
 
-concludida da la regenza ils 15 da mars 1971
+Sa basond sin l'art. 20 al. 1 da la Lescha davart las scolas medias[^ingress-1]
+
+relaschada da la Regenza ils 22 da favrer 2022
 
 [^ingress-1]: DG [425.000](https://www.gr-lex.gr.ch/data/425.000/rm)
 
-## 1. Direcziun da la scola
+## 1. Disposiziuns generalas
 
 #### Art. 1
 
-**…**
+**Object**
+
+<sup>1</sup> Questa ordinaziun regla per las scolas medias purtadas dal chantun la purschida da scolaziun, las prescripziuns per il concept da qualitad sco er las relaziuns d'engaschament da la direcziun da la scola e da las persunas d'instrucziun.
 
 #### Art. 2
 
-**…**
+**Concept per segirar la qualitad da la scolaziun**
+
+<sup>1</sup> Il concept per segirar la qualitad da la scolaziun da las scolas medias purtadas dal chantun s'orientescha als princips da la «qualitad tras evaluaziun e svilup».
 
 #### Art. 3
 
-**…**
+**Noziuns**
+
+<sup>1</sup> En questa ordinaziun signifitgan:
+
+- a) contract cun in pensum variabel: contract d'engaschament, en il qual il pensum da lavur vegn fixà cun ina part variabla da maximalmain 20 pertschient;
+- b) adattaziuns dals pensums: cumplettaziun dal pensum da norma annual sin basa da parts supplementaras da pajament u sin basa da correcturas;
+- c) supplement da norma: bunificaziun tar lecziuns d'instrucziun e tar singulas adattaziuns dals pensums pervia d'ina chargia da lavur pli gronda;
+- d) pensum da norma: part d'instrucziun inclusiv supplement da norma sco er lavurs specificas da l'instrucziun plus eventualas adattaziuns dals pensums tenor l'artitgel 22 fin l'artitgel 25;
+- e) dimensiun dals pajaments: dimensiun dals pajaments dals salaris mensils per l'onn da scola communitgada da la rectura u dal rectur;
+- f) saldo dals pensums: surpassament u sutpassament dal pensum da lavur annual tras la dimensiun dals pajaments communitgada;
+- g) lecziun per emna ed onn: summa dal pensum da norma e da las incumbensas supplementaras dividì tras 26 lecziuns d'instrucziun durant 38 emnas d'instrucziun en cas d'in pensum da lavur da 100 pertschient.
+
+## 2. Direcziun da la scola
+
+### 2.1. Commembras e commembras ed incumbensa
 
 #### Art. 4
 
-**Cumissiun dal rectorat**
+**Commembras e commembers da la direcziun da la scola, grad d'occupaziun, registraziun dal temp da lavur**
 
-<sup>1</sup> La cumissiun dal rectorat (direcziun da la scola) maina la scola. Ad ella appartegnan la rectura u il rectur, la conrectura u il conrectur e las manadras u ils manaders da las partiziuns (prorecturas e prorecturs).
+<sup>1</sup> Parsura da la direcziun da la scola tenor l'artitgel 63 alinea 1 da la Lescha da persunal[^4-1] è la rectura u il rectur. Ulteriuras commembras e commembers da la direcziun da scola èn la substituta u il substitut da la rectura u dal rectur (conrectura u conrectur) e per regla almain in'ulteriura persuna (prorectura u prorectur).
+
+<sup>2</sup> Il grad d'occupaziun per la direcziun da la scola sco er la cumposiziun da la direcziun da la scola da mintga scola media purtada dal chantun èn reglads en l'agiunta 1.
+
+<sup>3</sup> Las commembras ed ils commembers da la direcziun da la scola endateschan lur temp da lavur tenor la legislaziun chantunala dal persunal. Tut las lavurs en connex cun l'instrucziun, la represchentaziun da la scola en gruppas da lavur ed en cumissiuns (regiunalas e surregiunalas) sco er l'adempliment d'incumbensas per l'Uffizi per la furmaziun media-superiura (uffizi) èn parts integralas dal pensum da lavur.
+
+[^4-1]: DG [170.400](https://www.gr-lex.gr.ch/data/170.400/rm)
 
 #### Art. 5
 
-**Incumbensas**
+**Incumbensa da la direcziun da la scola**
 
-<sup>1</sup> La cumissiun dal rectorat:
+<sup>1</sup> La direcziun da la scola garantescha la gestiun da la scola, dal persunal e dal manaschi.
 
-- a) surveglia la direcziun da la scola e l'instrucziun;
-- b) exequescha l'urden da scola[^5-1] en cooperaziun cun las persunas d'instrucziun;
-- c) regla las dumondas da la disciplina e da la vita generala en scola;
-- d) concluda davart referats, davart represchentaziuns musicalas e teatralas e davart ulteriuras occurrenzas da scola;
-- e) decida davart la realisaziun d'excursiuns sco er da viadis da scola ed approvescha ils plans da viadi da las persunas d'instrucziun da classa;
-- f) liquidescha cas disciplinars tenor las disposiziuns da l'urden da scola;
-- g) decida davart dumondas per relaschar ils daners da scola;
-- h) prepara la tscherna da persunas d'instrucziun.
+<sup>2</sup> Ella fa il concept da qualitad ed elavura – ensemen cun las persunas d'instrucziun – il concept per il svilup da la scola e da l'instrucziun, realisescha quests concepts ed als repassa periodicamain.
 
-<sup>2</sup> A sias commembras ed a ses commembers po la cumissiun dal rectorat surdar incumbensas spezialas che n'èn betg circumscrittas en ils artitgels 8 – 10.
-
-[^5-1]: DG [425.110](https://www.gr-lex.gr.ch/data/425.110/rm)
+<sup>3</sup> Ella sto tgirar las scolaras ed ils scolars, uschenavant che questa incumbensa na vegn betg ademplida da la persuna d'instrucziun da classa. Ultra da la tgira dals ressorts che la rectura u il rectur ha attribuì ad ellas ed els, gidan las commembras ed ils commembers da la direcziun da la scola en cas da basegn ad ademplir ulteriuras incumbensas.
 
 #### Art. 6
 
-**…**
+**Obligaziun d'instrucziun per las commembras ed ils commembers da la direcziun da la scola**
+
+<sup>1</sup> La rectura u il rectur instruescha 2 lecziuns per emna ed onn da scola en la media da 4 onns da scola.
+
+<sup>2</sup> La conrectura u il conrectur instruescha 4 lecziuns per emna ed onn da scola en la media da 4 onns da scola.
+
+<sup>3</sup> La prorectura u il prorectur instruescha 6 lecziuns per emna ed onn da scola en la media da 4 onns da scola.
 
 #### Art. 7
 
-**…**
+**Reducziun da l'obligaziun d'instrucziun per commembras e commembers da la direcziun da la scola per ina durada limitada**
+
+<sup>1</sup> Per refurmas da la furmaziun sin plaun naziunal e chantunal ubain per surpigliar in mandat en la suprastanza d'in gremi naziunal dal sectur da las scolas medias po il departament conceder a singulas commembras e commembers da la direcziun da la scola ina reducziun da l'obligaziun d'instrucziun per ina durada limitada.
+
+### 2.2. Engaschament
 
 #### Art. 8
 
-**Rectura u rectur**
+**Comité per chattar candidatas e candidats e proposta**
 
-<sup>1</sup> La rectura u il rectur è la manadra responsabla respectivamain il manader responsabel da las partiziuns da scola media. Ella u el maina la conferenza da las persunas d'instrucziun e rapportescha davart las partiziuns da scola media.
+<sup>1</sup> A chaschun da l'elecziun da las commembras e dals commembers da la direcziun da la scola po la scheffa u il schef dal departament nominar in comité per chattar candidatas e candidats sco organ consultativ.
 
-<sup>2</sup> Ella u el suttascriva ils attestats finals.
+<sup>2</sup> La rectura u il rectur propona al departament sin via uffiziala la nova occupaziun da la plazza da la conrectura u dal conrectur sco er da la prorectura u dal prorectur. L'uffizi propona al departament la nova occupaziun da la plazza da la rectura u dal rectur.
 
-<sup>3</sup> A la rectura u al rectur è suttamess il persunal.
+## 3. Persunas d'instrucziun
 
-<sup>4</sup> La rectura u il rectur è per regla obligà d'instruir 5 lecziuns per emna.
+### 3.1. Incumbensa da furmaziun
 
 #### Art. 9
 
-**Conrectura u conrectur**
+**Persuna d'instrucziun**
 
-<sup>1</sup> La conrectura u il conrectur è la substituta u il substitut da la rectura u dal rectur; ella u el vegn elegì da las scheffas e dals schefs da las partiziuns. Ensemen cun ina spezialista u cun in spezialist elavurescha ella u el l'urari da las partiziuns da scola media ed administrescha la collecziun da meds d'instrucziun. La conrectura u il conrectur è per regla obligà d'instruir 12 lecziuns per emna.
+<sup>1</sup> L'incumbensa da furmaziun che las persunas d'instrucziun d'ina scola media purtada dal chantun ston ademplir, sa cumpona dal pensum da norma sco er da la liquidaziun d'incumbensas supplementaras.
+
+<sup>2</sup> Il temp che vegn impundì per las incumbensas supplementaras e che surpassa u sutpassa 60 respectivamain 120 uras regularas, vegn convertì en lecziuns per emna ed onn senza supplement da norma e bunifitgà respectivamain engrevgià al pensum da lavur annual.
+
+<sup>3</sup> Il departament relascha disposiziuns per la part da l'instrucziun dal pensum da norma sco er per incumbensas supplementaras obligatoricas e facultativas.
 
 #### Art. 10
 
-**Manadras e manaders da las partiziuns**
+**Persuna d'instrucziun da classa**
 
-<sup>1</sup> Las singulas partiziuns vegnan tgiradas directamain d'ina manadra u d'in manader (prorectura u prorectur) tenor la suandanta structuraziun:
+<sup>1</sup> A la persuna d'instrucziun da classa stat a disposiziun ina lecziun singula per emna d'instrucziun sco «ura da classa» che vegn fixada en la tavla da lecziuns ed en l'urari e che vegn munida cun in plan d'instrucziun.
 
-- a) gimnasi inferiur;
-- b) gimnasi;
-- c) scola media commerziala;
-- d) scola media professiunala.
+<sup>2</sup> La persuna d'instrucziun da classa accumpogna sia classa sin l'occurrenza da classa per regla ensemen cun in'ulteriura persuna d'instrucziun.
+
+### 3.2. Engaschament
 
 #### Art. 11
 
-**Incumbensas 1. en la partiziun**
+**Procedura per engaschar persunas d'instrucziun**
 
-<sup>1</sup> Las manadras ed ils manaders da las partiziuns mainan las conferenzas parzialas e surveglian l'instrucziun en lur partiziun. Ellas ed els èn responsabels per il manaschi da las matriclas da notas e per l'emissiun dals attestats.
-
-<sup>2</sup> En il rom da l'urden da scola[^11-1] tractan ellas ed els ils cas disciplinars en lur partiziun e surveglian la controlla da las absenzas.
-
-<sup>3</sup> L'assistenza da las scolaras e dals scolars è chaussa da las manadras e dals manaders da las partiziuns, uschenavant che questa incumbensa na po betg vegnir ademplida da la persuna d'instrucziun da classa.
-
-<sup>4</sup> Las manadras ed ils manaders da las partiziuns èn per regla obligads d'instruir 15 lecziuns per emna.
-
-[^11-1]: DG [425.110](https://www.gr-lex.gr.ch/data/425.110/rm)
+<sup>1</sup> La procedura per engaschar persunas d'instrucziun cuntegna per regla almain ina lecziun d'emprova ed il giudicament da tala tras almain in'experta u in expert dal rom sco er tras almain ina commembra u in commember da la direcziun da la scola. Davart excepziuns decida la rectura u il rectur.
 
 #### Art. 12
 
-**2. en general**
+**Engaschament cun in contract cun in pensum variabel**
 
-<sup>1</sup> Ultra da l'assistenza da lur partiziuns coopereschan las manadras ed ils manaders da las partiziuns tar l'adempliment d'incumbensas generalas da la direcziun da la scola sco:
+<sup>1</sup> A norma dals basegns dal manaschi vegnan persunas d'instrucziun engaschadas per ina durada limitada ubain illimitada cun in contract cun in pensum variabel.
 
-- a) survegliar l'urden en ils edifizis da scola;
-- b) mantegnair e renovar ils edifizis ed il mobigliar;
-- c) attribuir las hallas da gimnastica ad uniuns e survegliar il manaschi da gimnastica che na tutga betg tar l'instrucziun da la scola chantunala;
-- d) administrar l'archiv, administrar la biblioteca da las persunas;
-- e) d'instrucziun, far glistas da las obligaziuns finanzialas da las scolaras;
-- f) e dals scolars e far ils rendaquints dals viadis da scola;
-- g) communitgar cun la societad d'assicuranza cunter accidents.
+<sup>2</sup> Ils contracts cun in pensum variabel per «engaschaments da durada limitada» cumenzan il 1. d'avust e duran fin ils 31 da fanadur. Il termin da disditga importa 1 mais per l'emprim onn d'engaschament, 4 mais per il segund e per il terz onn d'engaschament.
 
-<sup>2</sup> La repartiziun da las singulas incumbensas a las manadras ed als manaders da las partiziuns è chaussa da la cumissiun dal rectorat.
+<sup>3</sup> In engaschament cun in contract cun in pensum variabel senza termin final vegn designà sco «engaschament da durada illimitada». Contracts cun in pensum variabel per in engaschament da durada illimitada cumenzan per regla il 1. d'avust e pon vegnir disditgs per ils 31 da schaner u per ils 31 da fanadur. Il termin da disditga importa 4 mais.
 
 #### Art. 13
 
-**…**
+**Prolungaziun e modificaziun da l'engaschament**
+
+<sup>1</sup> Senza ina communicaziun cuntraria en scrit tras ina da las parts contractantas fin ils 31 da mars sa prolunghescha in contract cun in pensum variabel per in engaschament da durada limitada automaticamain per in ulteriur onn da scola.
+
+<sup>2</sup> Sch'ina relaziun da lavur da durada limitada che ha durà tut en tut 3 onns in suenter l'auter vegn cuntinuada, sto ella vegnir transfurmada en in engaschament da durada illimitada, premess che la scolaziun scientifica necessaria dal rom e per l'instrucziun en ina scola media saja vegnida terminada cun success.
+
+<sup>3</sup> Sche la transfurmaziun en in engaschament da durada illimitada tenor las disposiziuns da l'alinea 2 na po betg vegnir realisada, sto la relaziun da contract vegnir schliada u sto vegnir inoltrada a l'uffizi ina dumonda motivada per prolungar l'engaschament da durada limitada per 1 onn. L'uffizi po permetter maximalmain duas giadas ina prolungaziun per 1 onn.
+
+### 3.3. Pensum da lavur annual e projects da furmaziun supplementara
 
 #### Art. 14
 
-**…**
+**Pensum da lavur annual**
+
+<sup>1</sup> Il pensum da lavur annual per persunas d'instrucziun cun in engaschament da 100 pertschient importa 2016 uras da lavur. El vegn calculà sin basa dal saldo dal pensum da l'onn da scola precedent, dal pensum da norma sco er da las incumbensas supplementaras e cumpiglia 26 lecziuns d'instrucziun a 40 minutas durant 38 emnas d'instrucziun en cas d'in pensum da 100 pertschient.
+
+<sup>2</sup> Il pensum da lavur annual da 100 pertschient cuntegna incumbensas supplementaras per incaricas specificas da la scola da 60 uras regularas per persunas d'instrucziun spezialisadas II, per persunas d'instrucziun da scola media I en la classa da funcziun 20 e per persunas d'instrucziun da scola media II en la classa da funcziun 21.
 
 #### Art. 15
 
-**…**
+**Fixaziun dal pensum da lavur annual**
 
-## 2. Persunas d'instrucziun
+<sup>1</sup> La rectura u il rectur fixescha mintga onn il pensum da lavur annual che vala per il contract cun in pensum variabel. En cas da roms che han in effect sin la promoziun (inclusiv latin I e II) e che vegnan frequentads da main che otg scolaras e scolars po la rectura u il rectur reducir – sin basa d'in reglament relaschà da l'uffizi ed en divergenza da la tavla da lecziuns – il dumber da lecziuns per emna ed onn che ston vegnir pajadas; l'instrucziun per las scolaras ed ils scolars sto dentant avair lieu tenor la tavla da lecziuns.
+
+<sup>2</sup> Sch'il pensum da lavur annual vegn midà posteriuramain da la rectura u dal rectur, vegn quai fixà posteriuramain cun in'adattaziun dal pensum. En cas d'engaschaments da durada limitada na dastga la dimensiun dals pajaments communitgada betg vegnir sutpassada.
+
+<sup>3</sup> En cunvegnientscha cun la persuna d'instrucziun dastga la part variabla fixada en il contract vegnir sutpassada u surpassada maximalmain duas giadas ina suenter l'autra en connex cun l'attribuziun dal pensum da lavur annual. Silsuenter sto il contract vegnir adattà.
 
 #### Art. 16
 
-**Incumbensas generalas**
+**Approvaziun dal pensum da lavur annual**
 
-<sup>1</sup> Uschenavant ch'i n'existan naginas prescripziuns spezialas, vegn la relaziun da servetsch reglada tenor l'ordinaziun chantunala dal persunal[^16-1] e tenor sias disposiziuns executivas[^16-2]. Las persunas d'instrucziun èn obligadas da dar scola tenor las finamiras ch'èn fixadas en il plan d'instrucziun ed en l'urari, e quai en moda fidada e punctuala. Tar lur incumbensas tutga er l'educaziun generala da las scolaras e dals scolars ch'èn confidads ad ellas.
-
-<sup>2</sup> Las persunas d'instrucziun sustegnan la direcziun da la scola per mantegnair la disciplina entaifer ed ordaifer la scola e la rendan enconuschent ils surpassaments da l'urden da scola[^16-3].
-
-[^16-1]: DG [170.400](https://www.gr-lex.gr.ch/data/170.400/rm)
-[^16-2]: DG [170.410](https://www.gr-lex.gr.ch/data/170.410/rm)
-[^16-3]: DG [425.110](https://www.gr-lex.gr.ch/data/425.110/rm)
+<sup>1</sup> La preschentaziun sinoptica dal pensum da lavur annual da tut las persunas d'instrucziun vegn approvada dal departament.
 
 #### Art. 17
 
-**Dumber da las lecziuns**
+**Supplement da norma ed adattaziun dals pensums**
 
-<sup>1</sup> Il dumber da las lecziuns per emna na duai per regla betg surpassar 27. Persunas d'instrucziun che han accumplì il 58avel onn da vegliadetgna survegnan ina distgargia. Medemamain sto il pensum obligatoric da persunas d'instrucziun che ston impunder bler temp per preparar e per curreger vegnir reducì adequatamain. Davart il dumber precis da las lecziuns obligatoricas e davart la repartiziun da las lecziuns annualas decida il departament d'educaziun, cultura e protecziun da l'ambient sin proposta da las directuras e dals directurs da las scolas.
+<sup>1</sup> Ils supplements da norma èn reglads sco suonda:
+
+- a) nagin supplement da norma: gimnastica e sport sco rom fundamental, lavur a maun/zambregiar ed economia/lavur/tegnairchasa sco rom fundamental, ura da classa, roms facultativs (senza latin I e II, ma inclusiv curs per la promoziun da talents), direcziun da las furmaziuns musicalas chor, musica da cadettas e cadets, orchester;
+- b) supplement da norma da 2 lecziuns per emna ed onn: Deutsch/tudestg/tedesco, rumantsch e talian sco emprima lingua, matematica ed englais;
+- c) supplement da norma dad 1 lecziun per emna ed onn: tut ils ulteriurs roms d'instrucziun inclusiv latin I e II.
+
+<sup>2</sup> Adattaziuns dals pensums vegnan concedidas tenor l'artitgel 22 fin l'artitgel 25.
 
 #### Art. 18
 
-**Dispensa, substituziuns, congedis curts**
+**Congedi per projects da furmaziun supplementara**
 
-<sup>1</sup> En cas da malsogna sto la persuna d'instrucziun communitgar quai immediatamain a la direcziun da la scola.
+<sup>1</sup> Sin dumonda da la rectura u dal rectur po l'uffizi – suenter avair consultà l'Uffizi da persunal – conceder a persunas d'instrucziun che han instruì avant il project da furmaziun supplementara dumandà durant almain 10 onns cun in grad d'occupaziun dad en media almain 50 pertschient ad ina scola media purtada dal chantun in congedi pajà da maximalmain 12 emnas per in project da furmaziun supplementara; ina emna da quest congedi sto vegnir prendida ordaifer il temp d'instrucziun.
 
-<sup>2</sup> En cas d'absenzas pli lungas da persunas d'instrucziun procura la rectura u il rectur per ina substituziun. Mintga persuna d'instrucziun è obligada da surpigliar las lecziuns che la èn vegnidas inchargiadas provisoricamain en cas da substituziuns pli curtas.
+<sup>2</sup> L'uffizi relascha in reglament concernent ils projects da furmaziun supplementara.
 
-<sup>3</sup> La rectura u il rectur po conceder congedis fin a 3 dis.
+### 3.4. Classificaziun, salarisaziun e substituziun
 
 #### Art. 19
 
-**Tgira e controlla dals meds d'instrucziun**
+**Classificaziun**
 
-<sup>1</sup> Mintga persuna d'instrucziun è responsabla per ils apparats, per ils instruments, per las ovras d'art, per ils cudeschs e per ils auters meds d'instrucziun ch'ella basegna per sia instrucziun.
+<sup>1</sup> Las persunas d'instrucziun che han in diplom d'instrucziun tenor il reglament per la renconuschientscha da diploms d'instrucziun per l'instrucziun sin il stgalim primar, sin il stgalim secundar I ed a las scolas da maturitad vegnan classifitgads sco suonda en las classas da funcziun:
 
-<sup>2</sup> Las persunas d'instrucziun da gimnastica han da procurar ch'ils urdains da gimnastica vegnan tegnids en salv correctamain e ch'els vegnan reparads.
+<table>
+<tr><th></th><th>Classa da funcziun</th></tr>
+<tr><td>persuna d'instrucziun spezialisada I (scriver sin tastatura)</td><td>15</td></tr>
+<tr><td>persuna d'instrucziun spezialisada II (persuna d'instrucziun per lavur a maun/zambregiar, infurmaziun/communicaziun/administraziun ed economia/lavur/tegnairchasa)</td><td>18</td></tr>
+<tr><td>persuna d'instrucziun da scola media I</td><td>20</td></tr>
+<tr><td>persuna d'instrucziun da scola media II</td><td>21</td></tr>
+</table>
 
 #### Art. 20
 
-**Notas**
+**Midada da la classa da salari**
 
-<sup>1</sup> Mintga semester vegnan ils attestats da tut las scolaras e da tut ils scolars inscrits en in protocol d'attestat e suttamess ad ina conferenza parziala. Las notas duain esser ponderadas bain e na dastgan betg pli vegnir midadas pli tard, cun excepziun da sbagls evidents. En tut ils auters cas po mo la conferenza parziala far midadas. En quest cas han mo las persunas d'instrucziun che instrueschan la scolara u il scolar il dretg da votar. Il medem vala er per ils examens d'admissiun.
+<sup>1</sup> Per la durada da l'introducziun en la lavur vegnan las persunas d'instrucziun classifitgadas ina classa da salari sut la classa da funcziun respectiva (classa iniziala); en quest connex vegn il salari entaifer la classa da funcziun fixà da l'uffizi sin dumonda da la rectura u dal rectur e suenter avair consultà l'Uffizi da persunal.
+
+<sup>2</sup> Las persunas d'instrucziun che n'han betg in diplom confurm al stgalim vegnan classifitgadas ina classa sut la classa da funcziun.
+
+<sup>3</sup> Las persunas d'instrucziun da scola media I e II che han mintgamai cuntanschì il predicat «fitg bun» en ils dus ultims giudicaments generals, pon vegnir classifitgadas il pli baud suenter 10 onns da servetsch en la classa da salari 21 respectivamain 22. L'augment da la classa da salari ha per consequenza ch'i ston vegnir prestadas incumbensas supplementaras en la dimensiun da 120 uras regularas en cas d'in grad d'occupaziun da 100 pertschient.
 
 #### Art. 21
 
-**Controlla da las absenzas**
+**Substituziun**
 
-<sup>1</sup> Mintga persuna d'instrucziun è obligada da manar ina glista precisa da las absenzas da tut las classas ch'ella instruescha e da chastiar absenzas che n'èn betg vegnidas stgisadas tenor l'urden da scola[^21-1].
+<sup>1</sup> Il departament regla las substituziuns e lur salarisaziun.
 
-[^21-1]: DG [425.110](https://www.gr-lex.gr.ch/data/425.110/rm)
+### 3.5. Adattaziuns dals pensums
 
 #### Art. 22
 
-**Premissas per l'elecziun**
+**Examens finals, lavurs en scrit, praticums**
 
-<sup>1</sup> Per eleger las persunas d'instrucziun da la scola chantunala valan per regla las suandantas premissas:
+<sup>1</sup> La rectura u il rectur conceda las suandantas adattaziuns dals pensums:
 
-- a) per persunas d'instrucziun dals roms scientifics: studis ch'èn vegnids terminads ad ina universitad svizra cun il diplom per l'instrucziun superiura; la promoziun sco doctoressa u sco docter vegn qualifitgada sco attestat supplementar;
-- b) per persunas d'instrucziun dals roms d'art (chant, musica instrumentala, dissegn): diplom sco persuna d'instrucziun da musica d'in conservatori u in attestat equivalent d'in institut da musica privat respectivamain in diplom per dissegn, scriver e lavurs a maun per scolas medias e superiuras u attestats equivalents;
-- c) per persunas d'instrucziun da religiun: in studi da teologia terminà ed in attestat davart ils studis universitars dals roms che ston vegnir instruids supplementarmain;
-- d) per persunas d'instrucziun da gimnastica: diplom da persuna d'instrucziun da gimnastica II, cumplettà d'in attestat davart ils studis d'in segund rom;
-- e) …
+<table>
+<tr><th></th><th>Pensum da lavur annual: 26 lecziuns per emna ed onn</th></tr>
+<tr><td>preparaziun, realisaziun e correctura dals examens finals, per examen final a bucca respectivamain en scrit</td><td>0,025</td></tr>
+<tr><td>tgira da la lavur da maturitad gimnasiala, da la lavur da maturitad spezialisada, da la lavur independenta da la scola media spezialisada, da la lavur da project interdisciplinara a la scola media commerziala u a la scola media d'informatica, per lavur</td><td>0,250</td></tr>
+<tr><td>tgira durant il praticum lung da la scola media commerziala u da la scola media d'informatica, per praticanta u praticant</td><td>0,200</td></tr>
+</table>
 
 #### Art. 23
 
-**Furmaziun supplementara**
+**Congedi per onns da lavur**
 
-<sup>1</sup> La furmaziun supplementara da las persunas d'instrucziun sto vegnir promovida. Per frequentar curs ed autras occurrenzas che servan a quest intent vegnan pajadas contribuziuns.
+<sup>1</sup> Il congedi per onns da lavur vegn mess a quint al pensum d'instrucziun durant l'emprim onn ch'el vegn concedì. En connex cun la retratga d'in congedi da furmaziun supplementara po il congedi per onns da lavur vegnir cumbinà cun il congedi da furmaziun supplementara:
+
+<table>
+<tr><th></th><th>Pensum da lavur annual: 26 lecziuns per emna ed onn</th></tr>
+<tr><td>10 dis congedi per onns da lavur inclusiv supplement da norma</td><td>1,125</td></tr>
+<tr><td>20 dis congedi per onns da lavur inclusiv supplement da norma</td><td>2,250</td></tr>
+</table>
 
 #### Art. 24
 
-**Lavurs scientificas**
+**Facilitaziun da vegliadetgna**
 
-<sup>1</sup> Al rapport annual da la scola chantunala pon vegnir agiuntadas publicaziuns da lavurs scientificas da persunas d'instrucziun da la scola chantunala. Davart lur admissiun decida il departament.
+<sup>1</sup> Per las persunas d'instrucziun che han cumplenì il 58. onn da vegliadetgna avant il 1. d'avust sco er per las persunas d'instrucziun che han cumplenì il 61. onn da vegliadetgna avant il 1. d'avust vegn concedida ina facilitaziun da vegliadetgna en furma d'ina adattaziun dal pensum:
 
-## 3. Las conferenzas da las persunas d'instrucziun
+<table>
+<tr><th></th><th>Pensum da lavur annual: 26 lecziuns per emna ed onn</th></tr>
+<tr><td>facilitaziun da vegliadetgna a partir dal 58. onn da vegliadetgna cumplenì</td><td>1,500</td></tr>
+<tr><td>facilitaziun da vegliadetgna a partir dal 61. onn da vegliadetgna cumplenì</td><td>3,500</td></tr>
+</table>
+
+<sup>2</sup> La facilitaziun da vegliadetgna vegn calculada en moda directproporziunala al pensum da lavur annual da la persuna d'instrucziun.
+
+<sup>3</sup> Il saldo dal pensum da l'ultim onn e l'adattaziun dal pensum per il congedi per onns da lavur na vegnan betg resguardads en la calculaziun da la facilitaziun da vegliadetgna.
 
 #### Art. 25
 
-**…**
+**Adattaziuns individualas dals pensums**
+
+<sup>1</sup> Sin basa da las pretensiuns dal manaschi da scola po la rectura u il rectur dumandar l'uffizi da conceder ulteriuras adattaziuns dals pensums.
+
+## 4. Conferenzas ed occurrenzas da tut la scola
 
 #### Art. 26
 
-**Cumposiziun, convocaziun**
+**Conferenza generala da las persunas d'instrucziun 1. cumposiziun e convocaziun**
 
-<sup>1</sup> La conferenza consista da tut las persunas d'instrucziun da la scola chantunala grischuna.
+<sup>1</sup> Da la conferenza generala da las persunas d'instrucziun (CGPI) fan part tut las persunas d'instrucziun da la scola media purtada dal chantun. La participaziun a la CGPI è obligatorica.
 
-<sup>2</sup> La conferenza vegn convocada da la rectura u dal rectur per regla almain 10 dis avant ch'ella ha lieu, e quai cun inditgar las tractandas. In terz da las persunas d'instrucziun po pretender la convocaziun da la conferenza.
+<sup>2</sup> La rectura u il rectur envida tut las persunas d'instrucziun almain 10 dis avant che la CGPI ha lieu, inditgond las tractandas. Per semester sto vegnir realisada almain ina CGPI.
 
-<sup>3</sup> La participaziun è obligatorica per tut las persunas d'instrucziun.
+<sup>3</sup> La rectura u il rectur sto convocar la CGPI, sche quai vegn pretendì d'almain in terz da las persunas d'instrucziun.
 
 #### Art. 27
 
-**Incumbensas e cumpetenzas**
+**2. cumpetenzas**
 
-<sup>1</sup> La conferenza da las persunas d'instrucziun da la scola chantunala tracta tut las fatschentas ch'èn d'ina impurtanza fundamentala per la scola e per las persunas d'instrucziun.
+<sup>1</sup> La CGPI:
 
-<sup>2</sup> En connex cun tut las dumondas che pertutgan la scola po ella suttametter giavischs e propostas a las autoritads d'educaziun. Propostas che vegnan approvadas da la maioritad da las persunas d'instrucziun vegnan transmessas da la rectura u dal rectur a las autoritads.
-
-<sup>3</sup> La conferenza da las persunas d'instrucziun da la scola chantunala ha en spezial las suandantas cumpetenzas:
-
-- 1\. ella tracta e propona ils plans d'instrucziun, ils uraris ed ils plans da refurma;
-- 2\. ella tracta ils reglaments davart ils examens d'admissiun e davart las promoziuns sco er l'urden da scola;
-- 3\. ella fixescha ils princips per viadis da scola, per dis da sport e per autras occurrenzas da scola;
-- 4\. ella tracta l'urden da vacanzas.
-
-<sup>4</sup> Per preparar questas fatschentas po ella numnar cumissiuns.
+- a) tracta ed approvescha reglaments pedagogics ch'èn d'ina impurtanza generala per la scola media purtada dal chantun e per las persunas d'instrucziun;
+- b) po suttametter propostas a la direcziun da la scola u prender posiziun concernent fatschentas che pertutgan la scola media;
+- c) po delegar duas persunas d'instrucziun en in eventual comité per chattar candidatas e candidats per engaschar commembras e commembers da la direcziun da la scola tenor l'artitgel 8 alinea 1.
 
 #### Art. 28
 
 **Conferenzas parzialas**
 
-<sup>1</sup> Conferenzas parzialas pon vegnir convocadas sco conferenzas da partiziun, da rom u da gruppas da rom, da classa, d'examen, da promoziun e d'attestat sco er per discutar davart las scolaras e davart ils scolars la primavaira.
+<sup>1</sup> Las suandantas conferenzas parzialas pon vegnir convocadas:
 
-<sup>2</sup> Las conferenzas da partiziun consistan da tut las persunas d'instrucziun che instrueschan en ina partiziun. Ellas vegnan convocadas da las manadras e dals manaders da las partiziuns. Ellas prendan posiziun davart dumondas che pertutgan sulettamain la partiziun correspundenta.
-
-<sup>3</sup> Las conferenzas da rom u da gruppas da rom sa cumponan da las persunas d'instrucziun d'in rom respectivamain d'ina gruppa da roms. Ellas vegnan convocadas da la direcziun da la scola e tractan dumondas da l'instrucziun en il rom correspundent respectivamain en la gruppa da roms correspundenta.
-
-<sup>4</sup> Las conferenzas da classa consistan da tut las persunas d'instrucziun che instrueschan en ina classa. Ellas pon vegnir convocadas da la persuna d'instrucziun da classa per tractar dumondas che pertutgan la classa u singulas scolaras respectivamain singuls scolars.
-
-<sup>5</sup> Conferenzas d'examen, da promoziun e d'attestat vegnan convocadas da la direcziun da la scola. En il rom da l'urden da promoziun[^28-1] decidan ellas davart l'admissiun, davart la promoziun e davart la nunpromoziun da scolaras e da scolars. Ellas fixeschan las notas da depurtament. Ellas pon formular recumandaziuns per mauns dals geniturs. Quai vala confurm al senn er per las discussiuns davart las scolaras e davart ils scolars la primavaira.
-
-[^28-1]: DG [425.200](https://www.gr-lex.gr.ch/data/425.200/rm) resp. [425.210](https://www.gr-lex.gr.ch/data/425.210/rm) (scola chantunala)
+- a) da la rectura u dal rectur: la conferenza da las parsuras e dals parsuras da las secziuns, las conferenzas da notas, da promoziun e d'examens finals;
+- b) da las commembras e dals commembers da la direcziun da la scola: la conferenza da las persunas d'instrucziun da la scola media spezialisada, da la scola media commerziala, da la scola media d'informatica e dal gimnasi inferiur;
+- c) da las parsuras e dals parsuras da las secziuns: la conferenza da las singulas secziuns;
+- d) da la persuna d'instrucziun da classa en cunvegnientscha cun la commembra cumpetenta u il commember cumpetent da la direcziun da la scola: la conferenza da las persunas d'instrucziun d'ina classa.
 
 #### Art. 29
 
-**…**
+**Occurrenzas da tut la scola**
 
-## 4. Servetsch medicinal da scola, assicuranza cunter accidents
+<sup>1</sup> A la scola media stattan a disposiziun maximalmain 2 dis d'instrucziun per occurrenzas da tut la scola entaifer in onn da scola. Exceptadas da quai èn maximalmain duas emnas tematicas, occurrenzas da classa ed excursiuns specificas.
 
-#### Art. 30
-
-**Servetsch medicinal da scola**
-
-<sup>1</sup> Il servetsch medicinal da scola sa drizza tenor las disposiziuns da l'ordinaziun davart il servetsch medicinal da scola[^30-1].
-
-[^30-1]: DG [421.800](https://www.gr-lex.gr.ch/data/421.800/rm)
-
-#### Art. 31
-
-**Assicuranzas**
-
-<sup>1</sup> L'assicuranza cunter accidents per las persunas d'instrucziun e per il persunal sa drizza tenor l'ordinaziun dal persunal[^31-1].
-
-<sup>2</sup> L'assicuranza cunter accidents per scolaras e per scolars è chaussa da las persunas cun la tgira genituriala.
-
-[^31-1]: ussa lescha dal persunal, DG [170.400](https://www.gr-lex.gr.ch/data/170.400/rm), e legislaziun executiva
+<sup>2</sup> Sche l'engaschament en emnas da project, en dis tematics u en dis da bloc surpassa u sutpassa il pensum da lavur annual proporziunal per 15 pertschient, relascha la rectura u il rectur in reglament che fixescha la cumpensaziun da las lecziuns singulas prestadas supplementarmain.
 
 ## 5. Disposiziuns finalas
 
-#### Art. 32
+#### Art. 30
 
-**Entrada en vigur, aboliziun dal dretg vertent**
+**Execuziun**
 
-<sup>1</sup> Questa ordinaziun remplazza l'ordinaziun cun il medem titel dals 27 d'october 1969[^32-1] ed entra en vigur per il 1. da settember 1971.
+<sup>1</sup> Per l'execuziun da questa ordinaziun relascha il departament in urden da basa.
 
-[^32-1]: CUL 1969, 150
+<sup>2</sup> L'execuziun è chaussa da l'uffizi.
 
--
+2022-011

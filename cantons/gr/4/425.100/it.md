@@ -1,305 +1,338 @@
 ---
 canton: GR
 number: "425.100"
-title: "Ordinanza concernente l'organizzazione della Scuola cantonale"
+title: "Ordinanza concernente l'organizzazione delle scuole medie superiori con ente responsabile cantonale"
 short: "Ordinanza sull'organizzazione delle scuole medie superiori, OOSMS"
 language: it
-version: 2013-01-01
-corrected: 2019-05-22
-version_adopted: 2012-12-11
+version: 2022-08-01
+valid_until: 2023-07-31
+version_adopted: 2022-02-22
 adopted: 2022-02-22
 in_force: 2022-08-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/425.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2722/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3238/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
 
-# Ordinanza concernente l'organizzazione della Scuola cantonale
+# Ordinanza concernente l'organizzazione delle scuole medie superiori con ente responsabile cantonale
 
-del 15.03.1971 (stato 01.01.2013)
+(Ordinanza sull'organizzazione delle scuole medie superiori, OOSMS)
 
-emanata dal Governo il 15 marzo 1971
+del 22.02.2022 (stato 01.08.2022)
 
-ai sensi dell'art. 19 della legge sulle scuole medie[^ingress-1]
+emanata dal Governo il 22 febbraio 2022
+
+visto l'art. 20 cpv. 1 della legge sulle scuole medie superiori[^ingress-1]
 
 [^ingress-1]: CSC [425.000](https://www.gr-lex.gr.ch/data/425.000/it)
 
-## 1. Il corpo direttivo
+## 1. Disposizioni generali
 
 #### Art. 1
 
-**…**
+**Oggetto**
+
+<sup>1</sup> La presente ordinanza disciplina, per le scuole medie superiori con ente responsabile cantonale, l'offerta formativa, le direttive concernenti la strategia di qualità nonché i rapporti d'impiego della direzione scolastica e degli insegnanti.
 
 #### Art. 2
 
-**…**
+**Strategia per garantire la qualità della formazione**
+
+<sup>1</sup> La strategia per garantire la qualità della formazione delle scuole medie superiori con ente responsabile cantonale si conforma ai principi della «qualità attraverso valutazione e sviluppo».
 
 #### Art. 3
 
-**…**
+**Concetti**
+
+<sup>1</sup> Nella presente ordinanza, le seguenti espressioni significano:
+
+- a) contratto variabile: contratto d'impiego nel quale il volume di lavoro viene previsto con una fascia variabile pari al massimo al 20 per cento;
+- b) adeguamenti del volume di lavoro: integrazione del volume di lavoro standard annuo a seguito di pagamenti aggiuntivi o di correzioni;
+- c) supplemento standard: accredito per lezioni e singoli adeguamenti del volume di lavoro a seguito di un maggiore onere di lavoro;
+- d) volume di lavoro standard: quota d'insegnamento incluso il supplemento standard nonché le attività specifiche d'insegnamento più eventuali adeguamenti del volume di lavoro conformemente all'articolo 22 fino all'articolo 25;
+- e) entità dei versamenti: entità notificata dal rettore dei versamenti mensili del salario per l'anno scolastico;
+- f) saldo del volume di lavoro: scostamento in positivo o in negativo del volume di lavoro annuo rispetto all'entità dei versamenti notificata;
+- g) lezione settimanale su base annua: somma di volume di lavoro standard e compiti supplementari divisa per 26 lezioni durante 38 settimane di lezioni in caso di volume di lavoro del 100 per cento.
+
+## 2. Direzione scolastica
+
+### 2.1. Membri e incarico
 
 #### Art. 4
 
-**Commissione di rettorato**
+**Membri della direzione scolastica, volume d'impiego, rilevamento dell'orario di lavoro**
 
-<sup>1</sup> La commissione di rettorato (direzione scolastica) dirige la scuola. Ne fanno parte il rettore, il vicerettore e i soprintendenti delle sezioni di questo complesso scolastico (prorettori).
+<sup>1</sup> Il rettore è presidente della direzione scolastica conformemente all'articolo 63 capoverso 1 della legge sul personale[^4-1]. Gli altri membri della direzione scolastica sono il supplente del rettore (corettore) e di norma almeno un'altra persona (prorettore).
+
+<sup>2</sup> Il volume d'impiego per la direzione scolastica nonché la composizione della direzione scolastica per ciascuna scuola media superiore con ente responsabile cantonale sono disciplinati nell'allegato 1.
+
+<sup>3</sup> I membri della direzione scolastica rilevano il loro orario di lavoro in conformità alla legislazione cantonale sul personale. Tutti i lavori in relazione all'attività di insegnamento, la rappresentanza della scuola in seno a gruppi di lavoro e commissioni (regionali e sovraregionali) nonché l'adempimento di incarichi per l'Ufficio della formazione medio-superiore (Ufficio) sono parte integrante del volume di lavoro.
+
+[^4-1]: CSC [170.400](https://www.gr-lex.gr.ch/data/170.400/it)
 
 #### Art. 5
 
-**Compiti**
+**Incarico della direzione scolastica**
 
-<sup>1</sup> La commissione di rettorato
+<sup>1</sup> La direzione scolastica garantisce la gestione della scuola, del personale e dell'attività.
 
-- a) vigila sulla gestione scolastica e sull'insegnamento,
-- b) applica con l'aiuto degli insegnanti il regolamento interno[^5-1],
-- c) regola le questioni della disciplina e della vita scolastica in genere,
-- d) decide l'organizzazione di conferenze di singoli oratori, di manifestazioni musicali, teatrali e altre concernenti la Scuola,
-- e) decide l'organizzazione di escursioni e di viaggi scolastici e approva i programmi di viaggio presentati dagli insegnanti di classe,
-- f) evade i casi disciplinari secondo le norme del regolamento interno,
-- g) decide richieste di esonero dalla tassa scolastica,
-- h) prepara la nomina degli insegnanti.
+<sup>2</sup> Essa allestisce la strategia di qualità e insieme agli insegnanti elabora la strategia di sviluppo della scuola e della didattica, le attua e le rielabora periodicamente.
 
-<sup>2</sup> La commissione di rettorato può affidare ai suoi membri compiti speciali non menzionati negli articoli 8-10.
-
-[^5-1]: CSC [425.110](https://www.gr-lex.gr.ch/data/425.110/it)
+<sup>3</sup> Le compete l'assistenza agli allievi, nella misura in cui questo compito non venga assunto dal docente di classe. Oltre a occuparsi dei settori loro attribuiti dal rettore, all'occorrenza i membri della direzione scolastica collaborano all'adempimento di ulteriori compiti.
 
 #### Art. 6
 
-**…**
+**Obbligo di insegnare per i membri della direzione scolastica**
+
+<sup>1</sup> Nella media di quattro anni scolastici, il rettore tiene due lezioni settimanali su base annua per anno scolastico.
+
+<sup>2</sup> Nella media di quattro anni scolastici, il corettore tiene quattro lezioni settimanali su base annua per anno scolastico.
+
+<sup>3</sup> Nella media di quattro anni scolastici, il prorettore tiene sei lezioni settimanali su base annua per anno scolastico.
 
 #### Art. 7
 
-**…**
+**Riduzione a tempo determinato dell'obbligo di insegnare per i membri della direzione scolastica**
+
+<sup>1</sup> Per riforme della formazione nazionali o cantonali oppure per l'assunzione di un mandato in seno al comitato di un organo nazionale nel settore delle scuole medie superiori, il Dipartimento può accordare a singoli membri della direzione scolastica una riduzione a tempo determinato dell'obbligo di insegnare.
+
+### 2.2. Assunzione
 
 #### Art. 8
 
-**Il rettore**
+**Commissione cerca e richiesta**
 
-<sup>1</sup> Il rettore è il capo responsabile della Sezione di scuola media. Egli dirige la conferenza degli insegnanti e riferisce su quanto concerne le sezioni di scuola media.
+<sup>1</sup> Nel quadro della nomina dei membri della direzione scolastica il direttore del Dipartimento può istituire una commissione cerca quale organo consultivo.
 
-<sup>2</sup> Il rettore firma i diplomi.
+<sup>2</sup> Per via di servizio il rettore chiede al Dipartimento la nuova occupazione del posto di corettore nonché di prorettore. L'Ufficio chiede al Dipartimento la nuova occupazione del posto di rettore.
 
-<sup>3</sup> Il personale è subordinato al rettore.
+## 3. Insegnanti
 
-<sup>4</sup> Di regola il rettore è tenuto a impartire cinque ore settimanali d'insegnamento.
+### 3.1. Mandato formativo
 
 #### Art. 9
 
-**Il vicerettore**
+**Insegnante**
 
-<sup>1</sup> Il vicerettore è il rappresentante del rettore e viene scelto fra i soprintendenti delle sezioni. Egli elabora insieme con un esperto gli orari delle sezioni di scuola media e amministra la raccolta didattica. Di regola il vicerettore è tenuto a impartire 12 ore settimanali d'insegnamento.
+<sup>1</sup> Il mandato formativo da adempiere con un impiego quale insegnante presso una scuola media superiore con ente responsabile cantonale è costituito dal volume di lavoro standard nonché dall'evasione di compiti supplementari.
+
+<sup>2</sup> L'onere temporale per i compiti supplementari che si scosta in positivo o in negativo dalle 60 rispettivamente 120 ore indicative viene convertito in lezioni settimanali su base annua senza supplemento standard e accreditato oppure addebitato al volume di lavoro annuo.
+
+<sup>3</sup> Il Dipartimento emana disposizioni concernenti la quota d'insegnamento del volume di lavoro standard nonché per compiti supplementari obbligatori e facoltativi.
 
 #### Art. 10
 
-**Soprintendenti delle sezioni**
+**Docente di classe**
 
-<sup>1</sup> Si distinguono le seguenti sezioni, ognuna delle quali è sorvegliata direttamente da un soprintendente (prorettore):
+<sup>1</sup> Per ciascuna settimana di insegnamento, il docente di classe ha a disposizione una lezione singola prevista dalla griglia oraria e dall'orario settimanale delle lezioni nonché dotata di un piano di studio quale «ora di classe».
 
-- a) liceo inferiore,
-- b) liceo,
-- c) scuola media di commercio,
-- d) scuola specializzata.
+<sup>2</sup> Il docente di classe accompagna la propria classe durante l'evento di classe, di norma insieme a un altro insegnante.
+
+### 3.2. Assunzione
 
 #### Art. 11
 
-**Compiti a) Nella sezione**
+**Procedura per l'assunzione di insegnanti**
 
-<sup>1</sup> I soprintendenti delle sezioni dirigono le conferenze parziali e vigilano sull'insegnamento nella sezione. Essi sono responsabili della tenuta dei registri dei voti e della compilazione delle pagelle.
-
-<sup>2</sup> I soprintendenti evadono nell'ambito del regolamento interno[^11-1] i casi disciplinari della loro sezione e sorvegliano il controllo delle assenze.
-
-<sup>3</sup> È loro compito la sorveglianza degli allievi, in quanto essa non spetti all'insegnante della classe.
-
-<sup>4</sup> Di regola i soprintendenti delle sezioni sono tenuti a impartire 15 ore settimanali d'insegnamento.
-
-[^11-1]: CSC [425.110](https://www.gr-lex.gr.ch/data/425.110/it)
+<sup>1</sup> La procedura per l'assunzione di insegnanti comprende di norma almeno una lezione di prova e la sua valutazione da parte di almeno un esperto di materia nonché di almeno un membro della direzione scolastica. Il rettore decide in merito a eccezioni.
 
 #### Art. 12
 
-**b) Compiti generali**
+**Impiego con contratto variabile**
 
-<sup>1</sup> Oltre a sorvegliare le loro sezioni i soprintendenti prestano la propria opera nell'assolvimento di compiti generali della direzione scolastica, quali sarebbero:
+<sup>1</sup> A seconda delle esigenze d'esercizio, gli insegnanti vengono assunti a tempo determinato o indeterminato con un contratto variabile.
 
-- a) la cura dell'ordine negli edifici scolastici,
-- b) a manutenzione e il rinnovo degli edifici e del mobilio,
-- c) l'assegnazione delle palestre ad associazioni ginniche e la sorveglianza su quest'attività estranea alla scuola,
-- d) l'amministrazione dell'archivio
-- e) l'amministrazione della biblioteca degli insegnanti,
-- f) il calcolo degli importi dovuti dagli allievi e il conteggio per i viaggi scolastici,
-- g) la corrispondenza con l'Assicurazione infortuni.
+<sup>2</sup> I contratti variabili per un «impiego a tempo determinato» iniziano il 1° agosto e terminano il 31 luglio. Il termine di disdetta ammonta a un mese nel primo anno d'impiego, a quattro mesi nel secondo e nel terzo anno d'impiego.
 
-<sup>2</sup> La commissione di rettorato decide l'assegnazione dei singoli compiti ai soprintendenti delle sezioni.
+<sup>3</sup> Un impiego con un contratto variabile senza scadenza viene definito «impiego a tempo indeterminato». I contratti variabili per un impiego a tempo indeterminato iniziano di norma il 1° agosto e possono essere disdetti con effetto al 31 gennaio o al 31 luglio. Il termine di disdetta è di quattro mesi.
 
 #### Art. 13
 
-**…**
+**Prolungamento e modifica dell'impiego**
+
+<sup>1</sup> In assenza di comunicazione scritta contraria presentata da una delle parti contraenti entro il 31 marzo, un contratto variabile per un impiego a tempo determinato si prolunga automaticamente di un ulteriore anno scolastico.
+
+<sup>2</sup> Dopo una durata di impiego complessiva di tre anni con un rapporto di lavoro a tempo determinato, in caso di continuazione esso deve essere trasferito in un impiego a tempo indeterminato, qualora la formazione specialistica e professionale necessaria per insegnare presso una scuola media superiore sia stata conclusa con successo.
+
+<sup>3</sup> Qualora non sia possibile un trasferimento in un impiego a tempo indeterminato secondo le disposizioni di cui al capoverso 2, il rapporto contrattuale deve essere sciolto oppure all'Ufficio deve essere presentata una richiesta scritta motivata di proroga di un anno dell'impiego a tempo determinato. L'Ufficio può autorizzare al massimo due proroghe di un anno.
+
+### 3.3. Volume di lavoro annuo e progetti di perfezionamento professionale
 
 #### Art. 14
 
-**…**
+**Volume di lavoro annuo**
+
+<sup>1</sup> Il volume di lavoro annuo per insegnanti impiegati al 100 per cento ammonta a 2016 ore di lavoro. Esso viene calcolato sulla base del saldo del volume di lavoro dell'anno scolastico precedente, del volume di lavoro standard nonché dei compiti supplementari e comprende 26 lezioni da 40 minuti durante 38 settimane di lezioni in caso di volume di lavoro del 100 per cento.
+
+<sup>2</sup> Nel volume di lavoro annuo pari al 100 per cento sono inclusi compiti supplementari per incarichi specifici in relazione alla scuola in misura di 60 ore indicative per insegnanti specialisti II, per insegnanti di scuola media superiore I nella classe di funzione 20 e per insegnanti di scuola media superiore II nella classe di funzione 21.
 
 #### Art. 15
 
-**…**
+**Definizione del volume di lavoro annuo**
 
-## 2. Il corpo insegnante
+<sup>1</sup> Il rettore definisce il volume di lavoro annuo nei limiti del contratto variabile. Per materie rilevanti ai fini della promozione (incluso latino I e II) con meno di otto allievi, sulla base di un regolamento emanato dall'Ufficio e in deroga alla griglia oraria il rettore può ridurre il numero di lezioni settimanali su base annua da pagare, tuttavia l'attività di insegnamento agli allievi deve avvenire conformemente alla griglia oraria.
+
+<sup>2</sup> Se il volume di lavoro annuo viene modificato a posteriori dal rettore, ciò viene registrato mediante un adeguamento del volume di lavoro. In caso di impieghi a tempo determinato l'entità dei versamenti non può essere inferiore rispetto a quella annunciata.
+
+<sup>3</sup> In accordo con l'insegnante, nell'attribuzione del volume di lavoro annuo sono autorizzati scostamenti in positivo o in negativo rispetto alla variabilità definita per contratto al massimo per due volte consecutive. In seguito è necessario un adeguamento del contratto.
 
 #### Art. 16
 
-**Compiti generali**
+**Approvazione del volume di lavoro annuo**
 
-<sup>1</sup> Salvo disposizioni speciali, il rapporto di servizio degli insegnanti della Scuola cantonale è regolato dall'ordinanza cantonale sul personale[^16-1] e dalle relative disposizioni di attuazione.[^16-2] Gli insegnanti sono tenuti a impartire coscienziosamente e puntualmente l'insegnamento previsto nel programma e nell'orario. È loro compito anche l'educazione in generale dei loro allievi.
-
-<sup>2</sup> Gli insegnanti aiutano la direzione a mantenere la disciplina entro e fuori Scuola e le notificano le infrazioni al regolamento interno[^16-3].
-
-[^16-1]: CSC [170.400](https://www.gr-lex.gr.ch/data/170.400/it)
-[^16-2]: CSC [170.410](https://www.gr-lex.gr.ch/data/170.410/it)
-[^16-3]: CSC [425.110](https://www.gr-lex.gr.ch/data/425.110/it)
+<sup>1</sup> La rappresentazione sinottica del volume di lavoro annuo di tutti gli insegnanti viene approvata dal Dipartimento.
 
 #### Art. 17
 
-**Numero delle ore settimanali**
+**Supplemento standard e adeguamento del volume di lavoro**
 
-<sup>1</sup> Di regola le ore settimanali d'insegnamento non devono essere più di 27. Agli insegnanti che hanno compiuto i 58 anni viene assegnato un numero inferiore di lezioni. È pure da ridurre il numero di ore obbligatorie per quegli insegnanti che hanno bisogno di molto tempo per la preparazione delle lezioni e la correzione dei compiti. Riguardo al numero di ore obbligatorie e all'attribuzione annua delle lezioni decide il Dipartimento dell'educazione, cultura e protezione dell'ambiente su proposta dei direttori della Scuola.
+<sup>1</sup> I supplementi standard sono disciplinati nel modo seguente:
+
+- a) nessun supplemento standard: educazione fisica quale materia fondamentale, attività manuali/tessili ed economia/lavoro/economia domestica quale materia fondamentale, ora di classe, materie facoltative (senza latino I e II, ma inclusi i corsi per la promozione dei talenti), direzione delle formazioni musicali coro, banda dei cadetti, orchestra;
+- b) supplemento standard di due lezioni settimanali su base annua: Deutsch/tudestg/tedesco, romancio e italiano quale prima lingua, matematica e inglese;
+- c) supplemento standard di una lezione settimanale su base annua: tutte le altre materie, inclusi latino I e II.
+
+<sup>2</sup> Adeguamenti del volume di lavoro vengono accordati in conformità all'articolo 22 – articolo 25.
 
 #### Art. 18
 
-**Dispensazioni, supplenze**
+**Congedo per progetti di perfezionamento professionale**
 
-<sup>1</sup> In caso di malattia l'insegnante deve avvisarne immediatamente la direzione.
+<sup>1</sup> Su richiesta del rettore e in accordo con l'Ufficio del personale, l'Ufficio può accordare un congedo pagato della durata di al massimo dodici settimane, di cui una deve cadere durante il tempo libero da lezioni, agli insegnanti che prima del progetto di perfezionamento professionale richiesto hanno insegnato per almeno dieci anni presso una scuola media superiore con ente responsabile cantonale con un volume di lavoro medio pari almeno al 50 per cento.
 
-<sup>2</sup> Il rettore provvede a un supplente in caso di lunga assenza. Ogni insegnante è obbligato ad accettare lezioni affidategli provvisoriamente per supplenze di breve durata.
+<sup>2</sup> L'Ufficio emana un regolamento concernente i progetti di perfezionamento professionale.
 
-<sup>3</sup> Il rettore può concedere congedi fino a tre giorni.
+### 3.4. Classificazione, retribuzione e supplenza
 
 #### Art. 19
 
-**Custodia del materiale didattico**
+**Classificazione**
 
-<sup>1</sup> Ogni insegnante è responsabile degli apparecchi, strumenti, opere d'arte, libri e altro materiale didattico da lui usato nella sua attività scolastica.
+<sup>1</sup> Gli insegnanti che dispongono di un diploma d'insegnamento conformemente al regolamento concernente il riconoscimento dei diplomi d'insegnamento per il livello elementare, il livello secondario I e per le scuole di maturità devono essere attribuiti a classi di funzione come segue:
 
-<sup>2</sup> Gli insegnanti di ginnastica devono curare la buona conservazione e manutenzione degli attrezzi ginnici.
+<table>
+<tr><th></th><th>Classe di funzione</th></tr>
+<tr><td>Insegnante specialista I (dattilografia)</td><td>15</td></tr>
+<tr><td>Insegnante specialista II (insegnante di attività manuali/tessili, informazione/comunicazione/amministrazione ed economia/lavoro/economia domestica)</td><td>18</td></tr>
+<tr><td>Insegnante di scuola media superiore I</td><td>20</td></tr>
+<tr><td>Insegnante di scuola media superiore II</td><td>21</td></tr>
+</table>
 
 #### Art. 20
 
-**Assegnazione dei voti**
+**Cambio della classe di stipendio**
 
-<sup>1</sup> Ogni semestre gli insegnanti stendono un protocollo dei voti di tutti gli allievi e li discutono in una conferenza speciale. I voti devono essere ben ponderati e non è permesso mutarli di poi, salvo un'evidente svista. In tutti gli altri casi soltanto la Conferenza speciale può apportare mutamenti di voti: un diritto di pronunciarsi al riguardo spetta all'insegnante unicamente per i suoi allievi. La stessa regola vale anche per gli esami di ammissione.
+<sup>1</sup> Per la durata dell'introduzione gli insegnanti devono essere attribuiti alla classe di stipendio inferiore alla rispettiva classe di funzione (classe d'avvio); lo stipendio all'interno della classe di funzione viene stabilito dall'Ufficio in accordo con l'Ufficio del personale su richiesta del rettore.
+
+<sup>2</sup> Gli insegnanti privi di un diploma di insegnante conforme al livello devono essere attribuiti alla classe immediatamente inferiore alla classe di funzione.
+
+<sup>3</sup> Gli insegnanti di scuola media superiore I e II che nelle ultime due valutazioni globali hanno sempre ottenuto il giudizio «molto buono» di norma possono essere attribuiti alla classe di stipendio 21 rispettivamente 22 al più presto dopo dieci anni di attività di insegnamento a livello di scuola media superiore. L'aumento della classe di stipendio comporta la necessità di prestare compiti supplementari in misura di 120 ore indicative in caso di volume di lavoro del 100 per cento.
 
 #### Art. 21
 
-**Controllo delle assenze**
+**Supplenza**
 
-<sup>1</sup> Ogni insegnante è obbligato a tenere un esatto controllo delle assenze in tutte le classi in cui insegna e a punire le assenze ingiustificate secondo il regolamento interno[^21-1].
+<sup>1</sup> Il Dipartimento disciplina le supplenze e la loro retribuzione.
 
-[^21-1]: CSC [425.110](https://www.gr-lex.gr.ch/data/425.110/it)
+### 3.5. Adeguamenti del volume di lavoro
 
 #### Art. 22
 
-**Titoli di studio**
+**Esami finali, lavori scritti, periodi di pratica**
 
-<sup>1</sup> Per la nomina a insegnante ordinario della Scuola cantonale si richiedono di regola i seguenti requisiti:
+<sup>1</sup> Il rettore concede i seguenti adeguamenti del volume di lavoro:
 
-- a) insegnanti di materie scientifiche: studi specializzati conclusi in una università svizzera con il diploma per l'insegnamento medio; il dottorato è considerato un titolo supplementare di studio;
-- b) insegnanti di materie artistiche (canto, musica strumentale, disegno): rispettivamente il diploma di maestro di musica rilasciato da un conservatorio o il diploma equipollente di un istituto musicale privato; il diploma per l'insegnamento del disegno, della calligrafia e del lavoro manuale nelle scuole medie o un titolo di studio equivalente;
-- c) insegnanti di religione: studi teologici conclusi e certificati degli studi universitari compiuti nelle altre materie da insegnare;
-- d) insegnanti di ginnastica: diploma di maestro di ginnastica II, completato da un certificato sugli studi compiuti per un'altra materia;
-- e) …
+<table>
+<tr><th></th><th>Volume di lavoro annuo: 26 lezioni settimanali su base annua</th></tr>
+<tr><td>Preparazione, svolgimento e correzione degli esami finali per ciascun esame finale orale o scritto</td><td>0,025</td></tr>
+<tr><td>Assistenza in caso di lavoro di maturità liceale, lavoro di maturità specializzata, lavoro autonomo di scuola specializzata, progetto didattico interdisciplinare della scuola media di commercio/di informatica, per lavoro</td><td>0,250</td></tr>
+<tr><td>Assistenza in caso di periodo di pratica di lunga durata presso la scuola media di commercio/di informatica, per praticante</td><td>0,200</td></tr>
+</table>
 
 #### Art. 23
 
-**Perfezionamento**
+**Congedo per anzianità di servizio**
 
-<sup>1</sup> Dev'essere incoraggiato il perfezionamento degli insegnanti. Si versano sussidi per la frequenza di corsi e altre manifestazioni serventi a tale scopo.
+<sup>1</sup> Nel primo anno in cui viene concesso, il congedo per anzianità di servizio viene considerato nel volume d'insegnamento. In relazione alla fruizione di un congedo di perfezionamento, il congedo per anzianità di servizio può essere combinato con il congedo di perfezionamento:
+
+<table>
+<tr><th></th><th>Volume di lavoro annuo: 26 lezioni settimanali su base annua</th></tr>
+<tr><td>10 giorni di congedo per anzianità di servizio incluso supplemento standard</td><td>1,125</td></tr>
+<tr><td>20 giorni di congedo per anzianità di servizio incluso supplemento standard</td><td>2,250</td></tr>
+</table>
 
 #### Art. 24
 
-**Lavori scientifici**
+**Sgravio per anzianità**
 
-<sup>1</sup> La relazione annua della Scuola cantonale può esser completata da lavori scientifici degli insegnanti. Il Dipartimento decide della pubblicazione.
+<sup>1</sup> Agli insegnanti che prima del 1° agosto hanno compiuto 58 anni nonché agli insegnanti che prima del 1° agosto hanno compiuto 61 anni viene concesso lo sgravio per anzianità seguente sotto forma di adeguamento del volume di lavoro:
 
-## 3. Le conferenze degli insegnanti
+<table>
+<tr><th></th><th>Volume di lavoro annuo: 26 lezioni settimanali su base annua</th></tr>
+<tr><td>Sgravio per anzianità a partire dai 58 anni compiuti</td><td>1,500</td></tr>
+<tr><td>Sgravio per anzianità a partire dai 61 anni compiuti</td><td>3,500</td></tr>
+</table>
+
+<sup>2</sup> Lo sgravio per anzianità viene calcolato in proporzione diretta del volume di lavoro annuo dell'insegnante.
+
+<sup>3</sup> Il saldo del volume di lavoro relativo all'anno precedente e l'adeguamento del volume di lavoro per il congedo per anzianità di servizio non vengono considerati nel calcolo dello sgravio per anzianità.
 
 #### Art. 25
 
-**…**
+**Adeguamenti individuali del volume di lavoro**
+
+<sup>1</sup> Per via di esigenze relative all'attività scolastica, il rettore può chiedere all'Ufficio ulteriori adeguamenti del volume di lavoro.
+
+## 4. Conferenze ed eventi dell'intera scuola
 
 #### Art. 26
 
-**Composizione, convocazione**
+**Conferenza plenaria degli insegnanti 1. Composizione e convocazione**
 
-<sup>1</sup> La conferenza si compone di tutti gli insegnanti della Scuola cantonale.
+<sup>1</sup> Fanno parte della conferenza plenaria degli insegnanti (plenum) tutti gli insegnanti della scuola media superiore con ente responsabile cantonale. La partecipazione al plenum è obbligatoria.
 
-<sup>2</sup> La conferenza viene convocata dal rettore di regola almeno dieci giorni prima del suo svolgimento, con l'indicazione delle trattande. Un terzo degli insegnanti può richiedere la convocazione della conferenza.
+<sup>2</sup> Il rettore invita tutti gli insegnanti almeno dieci giorni prima dello svolgimento del plenum, indicando l'ordine del giorno. Deve essere svolto almeno un plenum per semestre.
 
-<sup>3</sup> La partecipazione è obbligatoria per tutti gli insegnanti.
+<sup>3</sup> Il rettore deve convocare il plenum se almeno un terzo degli insegnanti lo richiede.
 
 #### Art. 27
 
-**Compiti e competenze**
+**2. Competenze**
 
-<sup>1</sup> La conferenza degli insegnanti della Scuola cantonale tratta tutti gli oggetti che sono d'importanza basilare per la Scuola e per gli insegnanti.
+<sup>1</sup> Il plenum:
 
-<sup>2</sup> Essa può presentare alle autorità competenti per il ramo educazione desideri e suggerimenti relativi a tutte le questioni scolastiche. Le proposte che ottengono l'appoggio della maggioranza degli insegnanti sono trasmesse dal rettore alle autorità.
-
-<sup>3</sup> La conferenza degli insegnanti della Scuola cantonale ha specialmente le seguenti competenze:
-
-- 1\. discute e fa proposte sui programmi d'insegnamento, gli orari e i progetti di riforme;
-- 2\. discute regolamenti per gli esami d'ammissione e di promozione e il regolamento interno;
-- 3\. stabilisce i criteri per viaggi scolastici, giorni sportivi e altre manifestazioni della scuola;
-- 4\. discute sulle vacanze.
-
-<sup>4</sup> La conferenza può istituire commissioni per la preparazione di queste pratiche.
+- a) tratta e approva regolamenti pedagogici che sono di importanza fondamentale per la scuola media superiore con ente responsabile cantonale e per gli insegnanti;
+- b) può sottoporre proposte alla direzione scolastica in relazione ad affari che concernono la scuola media superiore oppure prendere posizione in merito;
+- c) può delegare due insegnanti in un'eventuale commissione cerca per l'assunzione di membri della direzione scolastica conformemente all'articolo 8 capoverso 1.
 
 #### Art. 28
 
 **Conferenze speciali**
 
-<sup>1</sup> Possono esser convocate conferenze speciali di singole sezioni, materie o gruppi di materie, di classe, d'esame, di promozione e della pagelle nonché in primavera al fine di discutere su allievi.
+<sup>1</sup> Possono essere convocate le seguenti conferenze speciali:
 
-<sup>2</sup> Le conferenze di sezione comprendono tutti gli insegnanti che insegnano in una sezione, vengono convocate dal soprintendente della sezione e si pronunciano su questioni riguardanti solo la sezione.
-
-<sup>3</sup> Le conferenze di materie o gruppi di materie comprendono gli insegnanti di una materia o di un gruppo di materie, vengono convocate dalla direzione scolastica e discutono questioni dell'insegnamento della materia o del gruppo di materie.
-
-<sup>4</sup> Le conferenze di classe comprendono tutti gli insegnanti di una classe. Esse possono essere convocate dal maestro di classe per discutere questioni riguardanti la classe o singoli allievi della stessa.
-
-<sup>5</sup> Le conferenze d'esame, di promozione e della pagelle vengono convocate dalla direzione scolastica. Nell'ambito dell'ordinanza relativa[^28-1] esse decidono sull'ammissione, la promozione o non promozione di allievi. Fissano i voti di condotta e possono formulare consigli per i genitori. Questo vale analogamente anche per la discussione primaverile sugli allievi.
-
-[^28-1]: CSC 425.200 risp. 425.210 (Scuola cantonale)
+- a) da parte del rettore: la conferenza dei presidenti dei gruppi materia, le conferenze voti, di promozione e degli esami finali;
+- b) dai membri della direzione scolastica: la conferenza degli insegnanti della scuola specializzata, della scuola media di commercio, della scuola media di informatica e del liceo inferiore;
+- c) da parte dei presidenti dei gruppi di materia: la conferenza dei singoli gruppi di materia;
+- d) da parte del docente di classe dopo aver conferito con il membro della direzione scolastica competente: la conferenza degli insegnanti di una classe.
 
 #### Art. 29
 
-**…**
+**Eventi dell'intera scuola**
 
-## 4. Il servizio medico scolastico e l'assicurazione infortuni
+<sup>1</sup> Nel corso di un anno scolastico, la scuola media superiore ha a disposizione al massimo due giornate d'insegnamento da destinare a eventi dell'intera scuola. Fanno eccezione al massimo due settimane a tema, escursioni scientifiche sul campo ed eventi di classe.
 
-#### Art. 30
-
-**Servizio medico scolastico**
-
-<sup>1</sup> Il servizio medico scolastico si conforma alle disposizioni dell'ordinanza sul servizio medico scolastico.[^30-1]
-
-[^30-1]: CSC [421.800](https://www.gr-lex.gr.ch/data/421.800/it)
-
-#### Art. 31
-
-**Assicurazione**
-
-<sup>1</sup> Per l'assicurazione infortuni degli insegnanti e del personale di servizio fa stato l'ordinanza sul personale[^31-1].
-
-<sup>2</sup> Il titolare dell'autorità parentale deve provvedere all'assicurazione infortuni delle allieve e degli allievi.
-
-[^31-1]: Ora legge sul personale, CSC [170.400](https://www.gr-lex.gr.ch/data/170.400/it), e legislazione derivata
+<sup>2</sup> Qualora l'intervento in settimane di progetto, giornate a tema o a blocco si scosti in positivo o in negativo del 15 per cento rispetto al volume di lavoro proporzionale annuo, il rettore stabilisce in un regolamento la compensazione delle lezioni singole supplementari prestate.
 
 ## 5. Disposizioni finali
 
-#### Art. 32
+#### Art. 30
 
-**Entrata in vigore, abrogazione**
+**Esecuzione**
 
-<sup>1</sup> La presente ordinanza sostituisce l'ordinanza omonima del 27 ottobre 1969[^32-1] ed entra in vigore il 1° settembre 1971.
+<sup>1</sup> Il Dipartimento emana un regolamento quadro relativo all'esecuzione della presente ordinanza.
 
-[^32-1]: AGS 1969, 150
+<sup>2</sup> L'esecuzione compete all'Ufficio.
 
--
+2022-011
