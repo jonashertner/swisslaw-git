@@ -4,13 +4,13 @@ number: "126.3"
 title: Gesamtarbeitsvertrag
 short: GAV
 language: de
-version: 2022-02-01
-valid_until: 2022-07-31
-version_adopted: 2021-12-21
+version: 2022-08-01
+valid_until: 2022-08-31
+version_adopted: 2022-06-07
 adopted: 2004-10-25
 in_force: 2005-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/126.3"
-pdf: "https://bgs.so.ch/api/de/versions/5162/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5232/pdf_file"
 text: pdf
 ---
 
@@ -18,7 +18,7 @@ text: pdf
 
 # Gesamtarbeitsvertrag (GAV)
 
-vom 25. Oktober 2004 (Stand 1. Februar 2022)
+vom 25. Oktober 2004 (Stand 1. August 2022)
 
 zwischen dem Kanton Solothurn vertreten durch den Regierungsrat
 
@@ -732,12 +732,18 @@ stellte längerfristig oder dauernd an der Aufgabenerfüllung verhindert ist, mi
 
 <sup>1bis</sup> Das Anstellungsverhältnis von Lehrpersonen endet mit dem Ende des Semesters, in dem die Lehrperson das Alter von 65 Jahren vollendet.
 
-<sup>2</sup> Die Anstellungsbehörde kann das Anstellungsverhältnis der Arbeitnehmenden mit ihrem Einverständnis ausnahmsweise bis zu maximal 2 Jahre verlängern, wenn ein betriebliches Bedürfnis ausgewiesen ist.[^49-1]
+<sup>2</sup> Nach Erreichen der Altersgrenze kann die Anstellungsbehörde das Anstellungsverhältnis der Arbeitnehmenden mit ihrem Einverständnis ausnahmsweise bis zu maximal 4 Jahre verlängern, sofern ein betriebliches Bedürfnis ausgewiesen ist. Die Anstellungen erfolgen befristet und sind bis zur Vollendung des 69. Altersjahres möglich.[^49-1]
 
-<sup>3</sup> …[^49-2]
+<sup>2bis</sup> Die Anstellungen nach Absatz 2 enden spätestens mit dem Ende des Monats, in dem der oder die Arbeitnehmende das Alter von 69 Jahren vollendet. Für Lehrpersonen endet die Anstellung spätestens mit dem Ende des Semesters, in dem sie das Alter von 69 Jahren vollenden.[^49-2]
 
-[^49-1]: § 49 Absatz 2 Fassung vom 21. Mai 2019.
-[^49-2]: § 49 Absatz 3 aufgehoben am 21. Mai 2019.
+<sup>2ter</sup> Für Neuanstellungen gelten die Voraussetzungen von Absatz 2 sinngemäss.[^49-3]
+
+<sup>3</sup> …[^49-4]
+
+[^49-1]: § 49 Absatz 2 Fassung vom 7. Juni 2022. Gültig vom 1. August 2022 bis 31. Juli 2027.
+[^49-2]: § 49 Absatz 2bis eingefügt am 7. Juni 2022. Gültig vom 1. August 2022 bis 31. Juli 2027.
+[^49-3]: § 49 Absatz 2ter eingefügt am 7. Juni 2022. Gültig vom 1. August 2022 bis 31. Juli 2027.
+[^49-4]: § 49 Absatz 3 aufgehoben am 21. Mai 2019.
 
 #### § 50
 
@@ -1538,9 +1544,7 @@ Arbeitsfreie Tage, welche in die Ferien fallen, dürfen nachbezogen werden, wenn
 
 <sup>1</sup> Urlaube bewilligt der Amtschef oder die Amtschefin.
 
-<sup>2</sup> Der Amtschef oder die Amtschefin führt eine Urlaubskontrolle.
-
-3.1. Bezahlter Urlaub
+<sup>2</sup> Der Amtschef oder die Amtschefin führt eine Urlaubskontrolle. 3.1. Bezahlter Urlaub
 
 #### § 114
 
@@ -2334,9 +2338,7 @@ Wechseln Arbeitnehmende nach Ablauf der Probezeit im Geltungsbereich des GAV in 
 
 <sup>2</sup> Für die unbefristet angestellten Arbeitnehmenden beginnt der Anspruch auf das Krankentaggeld nach Ablauf der Lohnfortzahlung nach § 174 Absatz 1 Buchstabe b und besteht während maximal 12 Monaten.
 
-<sup>3</sup> Für die befristet angestellten Arbeitnehmenden beginnt der Anspruch auf das Krankentaggeld nach Ablauf der Lohnfortzahlung nach § 176 Absatz 1 Buchstaben a–c.
-
-Falls die Lohnfortzahlung wegen Beendigung des Anstellungsverhältnisses nicht voll beansprucht werden kann, beginnt der Anspruch auf das Krankentaggeld nach Ablauf der Karenzfrist, die der Dauer der maximal für das Anstellungsverhältnis vorgesehenen Lohnfortzahlung entspricht.
+<sup>3</sup> Für die befristet angestellten Arbeitnehmenden beginnt der Anspruch auf das Krankentaggeld nach Ablauf der Lohnfortzahlung nach § 176 Absatz 1 Buchstaben a-c. Für die befristet angestellten Arbeitnehmenden nach dem vollendendeten 65. Altersjahr besteht nach Ablauf der Lohnfortzahlung nach § 176 Absatz 1 Buchstabe d kein Anspruch auf das Krankentaggeld.[^177-2] Falls die Lohnfortzahlung wegen Beendigung des Anstellungsverhältnisses nicht voll beansprucht werden kann, beginnt der Anspruch auf das Krankentaggeld nach Ablauf der Karenzfrist, die der Dauer der maximal für das Anstellungsverhältnis vorgesehenen Lohnfortzahlung entspricht.
 
 Der Anspruch auf das Krankentaggeld besteht a) bei einer Karenzfrist von 3 Monaten maximal während 21 Monaten;
 
@@ -2346,12 +2348,13 @@ Der Anspruch auf das Krankentaggeld besteht a) bei einer Karenzfrist von 3 Monat
 
 <sup>4</sup> Der Anspruch auf Leistungen der Krankentaggeldversicherung ist unabhängig vom Weiterbestehen des Anstellungsverhältnisses und kann direkt bei der Versicherung geltend gemacht werden.
 
-§ 177<sup>bis</sup>.[^177-2] Mitwirkungspflicht bei Krankheit und Unfall (§ 47<sup>quinquies</sup> StPG)
+§ 177<sup>bis</sup>.[^177-3] Mitwirkungspflicht bei Krankheit und Unfall (§ 47<sup>quinquies</sup> StPG)
 
 <sup>1</sup> Die Arbeitnehmenden sind zur Zusammenarbeit mit dem Arbeitgeber beziehungsweise mit dem Unfall- oder Krankentaggeldversicherer verpflichtet. Sie sind insbesondere verpflichtet, sich von einem Vertrauensarzt oder einer Vertrauensärztin untersuchen zu lassen beziehungsweise ihren
 
 [^177-1]: § 177 Absatz 1 Fassung vom 25. Juni 2018.
-[^177-2]: § 177bis eingefügt am 9. Mai 2016.
+[^177-2]: § 177 Absatz 3 Fassung vom 7. Juni 2022.
+[^177-3]: § 177bis eingefügt am 9. Mai 2016.
 
 ### Arzt oder ihre Ärztin im Einzelfall zu ermächtigen, dem Vertrauensarzt
 
@@ -5165,9 +5168,7 @@ Die formelle Anzeige bei sexueller Belästigung oder Mobbing nach § 221 und 234
 
 <sup>1</sup> § 359 bis 366 GAV (Altersentlastung) treten am 1. Februar 2005 in Kraft.
 
-<sup>2</sup> § 372 bis 375 GAV (Zusatzlektionen) treten am 1. Februar 2005 in Kraft. Die Entschädigung für Zusatzstunden, die vor dem 1. Februar 2005 geleistet worden sind, richtet sich nach den bisher geltenden Bestimmungen (LehrerbesoldungsVO, KRB vom 17. Mai 1995; BGS 126.515.851.11).
-
-§ 383<sup>bis</sup>.[^383-1] Übergangsbestimmung zur Änderung vom 20. Juni 2011 Für Lehrpersonen und Lehrbeauftragte in bereits bestehenden Anstellungsverhältnissen gilt:
+<sup>2</sup> § 372 bis 375 GAV (Zusatzlektionen) treten am 1. Februar 2005 in Kraft. Die Entschädigung für Zusatzstunden, die vor dem 1. Februar 2005 geleistet worden sind, richtet sich nach den bisher geltenden Bestimmungen (LehrerbesoldungsVO, KRB vom 17. Mai 1995; BGS 126.515.851.11). § 383<sup>bis</sup>.[^383-1] Übergangsbestimmung zur Änderung vom 20. Juni 2011 Für Lehrpersonen und Lehrbeauftragte in bereits bestehenden Anstellungsverhältnissen gilt:
 
 - a) Für diejenigen, die die fachlichen oder pädagogischen Anforderungen nach neuem Recht nicht erfüllen, gilt die bisherige Einreihung weiter;
 
@@ -5196,19 +5197,21 @@ Kategorie Voraussetzung Lehrpersonen Diplom gemäss Art. 11 des Reglementes übe
 
 **21**
 
+Diplom gemäss Art. 19\* des Reglementes über die 20 Anerkennung von Hochschuldiplomen für Lehrkräfte der Sekundarstufe I vom 26. August 1999[^384-2] (ausgenommen sind Hauswirtschaftslehrerinnen- und Arbeitslehrerinnenpatente) Sekundarstufenpatente oder Sonderpädagogik- 20 bzw. Heilpädagogik-Patente anderer Kantone Hauswirtschaftslehrerinnen- und Arbeitslehrerin- 20 nenpatent mit Präsenzstudium als Fachvertiefung von mindestens 100 Stunden Hauswirtschaftslehrerinnen- und Arbeitslehrerin- 17 nenpatent Lehrbeauf- Hochschuldiplom oder kantonales Primarschulpa- 18 tragte[^384-3] tent Absolvierende der Studienvariante Quereinstieg 18
+
 **2**
 
 **LK**
 
-Diplom gemäss Art. 19\* des Reglementes über die 20 Anerkennung von Hochschuldiplomen für Lehrkräfte der Sekundarstufe I vom 26. August 1999[^384-2] (ausgenommen sind Hauswirtschaftslehrerinnen- und Arbeitslehrerinnenpatente) Sekundarstufenpatente oder Sonderpädagogik- 20 bzw. Heilpädagogik-Patente anderer Kantone Hauswirtschaftslehrerinnen- und Arbeitslehrerin- 20 nenpatent mit Präsenzstudium als Fachvertiefung von mindestens 100 Stunden Hauswirtschaftslehrerinnen- und Arbeitslehrerin- 17 nenpatent Lehrbeauf- Hochschuldiplom oder kantonales Primarschulpa- 18 tragte tent Hochschulstudium ohne Abschluss oder Studie- 15 rende Berufsausbildung oder Maturität Lehrpersonen und Lehrbeauftragte für den sonder- bzw. heilpädagogischen Unterricht werden wie folgt eingereiht:[^384-3] Kategorie Voraussetzung Lehrperso- Diplom gemäss Art. 15 des Reglementes über die 21 nen Anerkennung der Diplome im Bereich der Sonderpädagogik (Vertiefungsrichtung Heilpädagogische Früherziehung und Vertiefungsrichtung Schulische Heilpädagogik) vom 12. Juni 2008[^384-4] Diplom gemäss Art. 22 des Reglementes über die 20 Anerkennung der Diplome im Bereich der Sonderpädagogik (Vertiefungsrichtung Heilpädagogische Früherziehung und Vertiefungsrichtung Schulische Heilpädagogik) vom 12. Juni 2008[^384-5] Sonderpädagogik- bzw. Heilpädagogik-Patente 20 anderer Kantone Alte Diplome Früherziehung Lehrbeauf- Diplom gemäss Art. 11 des Reglementes über die 21 tragte Anerkennung von Hochschuldiplomen für Lehrkräfte der Sekundarstufe I vom 26. August 1999[^384-6] oder kantonales Bezirkslehrerpatent Diplom gemäss Art. 19 des Reglementes über die 20 Anerkennung von Hochschuldiplomen für Lehrkräfte der Sekundarstufe I vom 26. August 1999[^384-7] oder kantonale Sekundarstufenpatente Hochschuldiplom oder Diplom gemäss Art. 10 15, und 18 des Reglements über die Anerkennung 18; von Hochschuldiplomen für Lehrkräfte der Vor- Ge schulstufe und der Primarstufe vom 10. Juni mäs
+**19**
+
+Hochschulstudium ohne Abschluss oder Studie- 15 rende Berufsausbildung oder Maturität Lehrpersonen und Lehrbeauftragte für den sonder- bzw. heilpädagogischen Unterricht werden wie folgt eingereiht:[^384-4] Kategorie Voraussetzung Lehrperso- Diplom gemäss Art. 15 des Reglementes über die 21 nen Anerkennung der Diplome im Bereich der Sonderpädagogik (Vertiefungsrichtung Heilpädagogische Früherziehung und Vertiefungsrichtung Schulische Heilpädagogik) vom 12. Juni 2008[^384-5] Diplom gemäss Art. 22 des Reglementes über die 20 Anerkennung der Diplome im Bereich der Sonderpädagogik (Vertiefungsrichtung Heilpädagogische Früherziehung und Vertiefungsrichtung Schulische Heilpädagogik) vom 12. Juni 2008[^384-6] Sonderpädagogik- bzw. Heilpädagogik-Patente 20 anderer Kantone Alte Diplome Früherziehung Lehrbeauf- Diplom gemäss Art. 11 des Reglementes über die 21 tragte Anerkennung von Hochschuldiplomen für Lehrkräfte der Sekundarstufe I vom 26. August 1999[^384-7] oder kantonales Bezirkslehrerpatent Diplom gemäss Art. 19 des Reglementes über die 20 Anerkennung von Hochschuldiplomen für Lehrkräfte der Sekundarstufe I vom 26. August 1999[^384-8] oder kantonale Sekundarstufenpatente Hochschuldiplom oder Diplom gemäss Art. 10 15, und 18 des Reglements über die Anerkennung 18; von Hochschuldiplomen für Lehrkräfte der Vor- Ge schulstufe und der Primarstufe vom 10. Juni mäs
 
 **12**
 
-**19**
-
 **s**
 
-1999[^384-8] oder kantonales Primarschulpatent
+1999[^384-9] oder kantonales Primarschulpatent
 
 **17 17**
 
@@ -5224,21 +5227,25 @@ Berufsausbildung oder Maturität
 
 **LK**
 
-Kategorie Voraussetzung Lehrpersonen Diplom gemäss den Art. 10 und 18\* des Regle- 18 mentes über die Anerkennung von Hochschuldiplomen für Lehrkräfte der Vorschulstufe und der Primarstufe vom 10. Juni 1999[^384-9] Andere kantonale Primarschulpatente oder Son- 18 derpädagogik- bzw. Heilpädagogik-Patente oder Sekundarstufenpatente Arbeitslehrerinnenpatent mit Präsenzstudium als 18 Fachvertiefung von mindestens 100 Stunden Arbeitslehrerinnenpatent
+Kategorie Voraussetzung Lehrpersonen Diplom gemäss den Art. 10 und 18\* des Regle- 18 mentes über die Anerkennung von Hochschuldiplomen für Lehrkräfte der Vorschulstufe und der Primarstufe vom 10. Juni 1999[^384-10] Andere kantonale Primarschulpatente oder Son- 18 derpädagogik- bzw. Heilpädagogik-Patente oder Sekundarstufenpatente Arbeitslehrerinnenpatent mit Präsenzstudium als 18 Fachvertiefung von mindestens 100 Stunden Arbeitslehrerinnenpatent
 
-Lehrbeauf- Kantonales Kindergärtnerinnendiplom tragte[^384-10] Hochschulstudium
+Lehrbeauf- Kantonales Kindergärtnerinnendiplom tragte[^384-11] Hochschuldiplom
 
-**15 12**
+**15**
+
+Absolvierende der Studienvariante Quereinstieg 15
+
+**15;**
+
+**12**
 
 Hochschulstudium ohne Abschluss
 
 oder Studierende Berufsausbildung oder Maturität
 
-**15;**
-
 **9**
 
-<sup>4</sup> …[^384-11]
+<sup>4</sup> …[^384-12]
 
 <sup>5</sup> Lehrpersonen und Lehrbeauftragte für den Kindergartenunterricht werden wie folgt eingereiht (ab 1. August 2012):
 
@@ -5246,15 +5253,17 @@ oder Studierende Berufsausbildung oder Maturität
 
 Kategorie Voraussetzung Lehrpersonen Diplom gemäss Art. 10 des Reglementes über die 18 Anerkennung von Hochschuldiplomen für Lehrkräfte der Vorschulstufe und der Primarstufe vom
 
-\10. Juni 1999[^384-12] oder Primarschulpatent
+\10. Juni 1999[^384-13] oder Primarschulpatent
 
 Kindergärtnerinnendiplom mit Präsenzstudium 18 als Fachvertiefung von mindestens 100 Stunden
 
-**17 15**
+**17**
 
 Kantonales Kindergärtnerinnendiplom
 
-Lehrbeauf- Hochschuldiplom tragte Hochschulstudium ohne Abschluss oder Studie- 12 rende Berufsausbildung oder Maturität
+Lehrbeauf- Hochschuldiplom oder kantonales Primarschulpa- 15 tragte[^384-14] tent Absolvierende der Studienvariante Quereinstieg 15
+
+Hochschulstudium ohne Abschluss oder Studie- 12 rende Berufsausbildung oder Maturität
 
 **9**
 
@@ -5262,7 +5271,7 @@ Lehrbeauf- Hochschuldiplom tragte Hochschulstudium ohne Abschluss oder Studie- 1
 
 **LK**
 
-Kategorie Voraussetzung Lehrpersonen Diplom gemäss Art. 11 des Reglementes über die 18 Anerkennung der Hochschuldiplome in Logopädie und der Hochschuldiplome in Psychomotoriktherapie vom 3. November 2000[^384-13] Altrechtliche Diplome in Logopädie Lehrbeauf- Hochschuldiplom oder kantonales Kindergärtne- 15 tragte rinnendiplom Hochschulstudium ohne Abschluss oder Studie- 12 rende Berufsausbildung oder Maturität
+Kategorie Voraussetzung Lehrpersonen Diplom gemäss Art. 11 des Reglementes über die 18 Anerkennung der Hochschuldiplome in Logopädie und der Hochschuldiplome in Psychomotoriktherapie vom 3. November 2000[^384-15] Altrechtliche Diplome in Logopädie Lehrbeauf- Hochschuldiplom oder kantonales Kindergärtne- 15 tragte rinnendiplom Hochschulstudium ohne Abschluss oder Studie- 12 rende Berufsausbildung oder Maturität
 
 **19**
 
@@ -5272,22 +5281,24 @@ Kategorie Voraussetzung Lehrpersonen Diplom gemäss Art. 11 des Reglementes übe
 
 [^384-1]: EDK Rechtssammlung 4.2.2.4.
 [^384-2]: EDK Rechtssammlung 4.2.2.4.
-[^384-3]: § 384 Absatz 2 Fassung vom 21. Dezember 2021.
-[^384-4]: EDK Rechtssammlung 4.2.2.2.
+[^384-3]: § 384 Absatz 1 Kategorie «Lehrbeauftragte» Fassung vom 31. Mai 2022.
+[^384-4]: § 384 Absatz 2 Fassung vom 21. Dezember 2021.
 [^384-5]: EDK Rechtssammlung 4.2.2.2.
-[^384-6]: EDK Rechtssammlung 4.2.2.4.
+[^384-6]: EDK Rechtssammlung 4.2.2.2.
 [^384-7]: EDK Rechtssammlung 4.2.2.4.
-[^384-8]: EDK Rechtssammlung 4.2.2.3.
+[^384-8]: EDK Rechtssammlung 4.2.2.4.
 [^384-9]: EDK Rechtssammlung 4.2.2.3.
-[^384-10]: § 384 Absatz 3 Abschnitt «Lehrbeauftragte» Fassung vom 5. Juli 2021.
-[^384-11]: § 384 Absatz 4 aufgehoben am 26. Juni 2012.
-[^384-12]: EDK Rechtssammlung 4.2.2.3.
-[^384-13]: EDK Rechtssammlung 4.2.2.5.
-[^384-14]: § 385 Fassung vom 20. Juni 2011.
+[^384-10]: EDK Rechtssammlung 4.2.2.3.
+[^384-11]: § 384 Absatz 3 Kategorie «Lehrbeauftragte» Fassung vom 31. Mai 2022.
+[^384-12]: § 384 Absatz 4 aufgehoben am 26. Juni 2012.
+[^384-13]: EDK Rechtssammlung 4.2.2.3.
+[^384-14]: § 384 Absatz 5 Kategorie «Lehrbeauftragte» Fassung vom 31. Mai 2022.
+[^384-15]: EDK Rechtssammlung 4.2.2.5.
+[^384-16]: § 385 Fassung vom 20. Juni 2011.
 
 #### § 385
 
-**Einreihung der Stellvertretenden**[^384-14]
+**Einreihung der Stellvertretenden**[^384-16]
 
 <sup>1</sup> Die Entschädigung für Stellvertretungen entspricht dem Grundlohn in der jeweils massgebenden Lohnklasse. Dazu kommt der 13. Monatslohn und die Teuerungszulage.
 
@@ -6067,7 +6078,9 @@ Der Besondere Teil Berufsschule regelt die Abweichungen und Ergänzungen gegenü
 
 <sup>2</sup> Soweit das Pensum oder ein Teil davon voraussichtlich nicht für mehr als zwei Jahre sichergestellt ist, wird im unbefristeten Vertrag der gesicherte Pensenteil (Sockelpensum) und ein darüber hinausgehender Pensenrahmen von höchstens fünf Lektionen (Maximalpensum) für den nicht gesicherten Pensenteil festgelegt.
 
-<sup>3</sup> Angeordnete Pensenerhöhungen im festgelegten Pensenrahmen werden wirksam, wenn die Lehrperson nicht innert 10 Tagen seit Erhalt der schriftlichen Mitteilung schriftlich ihren Verzicht auf die Erhöhung erklärt. § 454<sup>bis</sup>.[^454-1] Befristete Anstellung
+<sup>3</sup> Angeordnete Pensenerhöhungen im festgelegten Pensenrahmen werden wirksam, wenn die Lehrperson nicht innert 10 Tagen seit Erhalt der schriftlichen Mitteilung schriftlich ihren Verzicht auf die Erhöhung erklärt.
+
+§ 454<sup>bis</sup>.[^454-1] Befristete Anstellung
 
 <sup>1</sup> Lehrpersonen werden soweit befristet angestellt, als mit dem Pensenrahmen die Unsicherheit in der Pensenfestlegung nicht abgedeckt werden kann.
 
@@ -6915,7 +6928,11 @@ Inkrafttreten GAV am 1. Januar 2005 (§ 21).[^520-1]
 
 - 5\. Juli 2021 am 1. August 2021;
 
-- 21\. Dezember 2021 am 1. Februar 2022.
+- 21\. Dezember 2021 am 1. Februar 2022;
+
+- 31\. Mai 2022 am 1. August 2022;
+
+- 7\. Juni 2022 am 1. August 2022.
 
 ## Weitere Fussnoten
 
