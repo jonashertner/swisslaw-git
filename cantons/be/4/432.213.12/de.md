@@ -4,13 +4,12 @@ number: "432.213.12"
 title: Direktionsverordnung über Absenzen und Dispensationen in der Volksschule
 short: DVAD
 language: de
-version: 2022-01-10
-valid_until: 2022-07-31
-version_adopted: 2022-01-19
+version: 2022-08-01
+version_adopted: 2022-06-22
 adopted: 2007-03-16
 in_force: 2007-08-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/432.213.12"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2528/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2677/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,16 +18,17 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2528/pdf_file"
 
 (DVAD)
 
-vom 16.03.2007 (Stand 10.01.2022)
+vom 16.03.2007 (Stand 01.08.2022)
 
-Die Erziehungsdirektion des Kantons Bern,
+Die Bildungs- und Kulturdirektion des Kantons Bern,
 
-gestützt auf Artikel 27 des Volksschulgesetzes vom 19. März 1992 (VSG[^ingress-1]) und Artikel 23a Buchstabe d der Volksschulverordnung vom 4. August 1993[^ingress-2],
+gestützt auf Artikel 27 Absatz 6 des Volksschulgesetzes vom 19. März 1992 (VSG)[^ingress-1], Artikel 27 Absatz 1 Buchstabe e der Volksschulverordnung vom 10. Januar 2013 (VSV)[^ingress-2] und Artikel 23 Absatz 1 Buchstabe e der Verordnung vom 10. November 2021 über das besondere Volksschulangebot (BVSV)[^ingress-3],
 
 beschliesst:
 
-[^ingress-1]: BSG 432.210
-[^ingress-2]: Aufgehoben, jetzt Volksschulverordnung vom 10. 1. 2013; BSG 432.211.1
+[^ingress-1]: BSG [432.210](https://www.belex.sites.be.ch/data/432.210/de)
+[^ingress-2]: BSG [432.211.1](https://www.belex.sites.be.ch/data/432.211.1/de)
+[^ingress-3]: BSG [432.282](https://www.belex.sites.be.ch/data/432.282/de)
 
 #### Art. 1
 
@@ -38,7 +38,7 @@ beschliesst:
 
 <sup>2</sup> Dispensationen sind im Voraus zu planende und mittels Gesuch zu beantragende Freistellungen für regelmässige oder für länger dauernde Abwesenheiten vom Unterricht.
 
-<sup>3</sup> Pandemiebedingte Dispensationen mit kurzfristigem Privatunterricht sind Freistellungen für Abwesenheiten vom Unterricht gemäss Artikel 4a.
+<sup>3</sup> …
 
 #### Art. 2
 
@@ -73,8 +73,8 @@ beschliesst:
 
 - a im Rahmen der benötigten Zeit für Schnupperlehren, sofern diese nicht in der unterrichtsfreien Zeit gemacht werden können,
 - b bis einen halben Tag pro Woche für den Besuch von Kursen in heimatlicher Sprache und Kultur,
-- c im Rahmen der benötigten Zeit für die Förderung ausserordentlicher intellektueller, sportlicher oder musischer Begabungen,
-- d auf Antrag der Erziehungsberatung, des kinder- und jugendpsychiatrischen Dienstes oder des schulärztlichen Dienstes für das Fernbleiben von einzelnen Fächern aus besonderen Gründen, insbesondere wegen gesundheitlicher Einschränkungen, Lernbehinderungen oder komplexer Lernstörungen,
+- c im Rahmen der benötigten Zeit für die Förderung ausserordentlicher intellektueller, sportlicher oder musischer Begabungen, insbesondere für Schülerinnen und Schüler mit qualifizierter Bestätigung des Talents gemäss Artikel 31e bis 31g VSV,
+- d auf Antrag der Erziehungsberatung oder des schulärztlichen Dienstes für das Fernbleiben von einzelnen Fächern aus besonderen Gründen, insbesondere wegen gesundheitlicher Einschränkungen, Lernbehinderungen oder komplexer Lernstörungen,
 - e für das Fernbleiben aufgrund religiöser Gebote,
 - f bis höchstens zwei Wochen pro Schuljahr für Familienferien, wenn aus beruflichen Gründen nicht mindestens vier Wochen der Ferien der Eltern mit den Schulferien zusammenfallen oder wenn aus beruflichen oder familiären Gründen der Besuch von Familienangehörigen im Ausland nicht während der Schulferien möglich ist,
 - g bis höchstens drei Wochen pro Schuljahr für die Alpzeit.
@@ -83,19 +83,7 @@ beschliesst:
 
 #### Art. 4a
 
-**Pandemiebedingte Dispensationen mit kurzfristigem Privatunterricht**
-
-<sup>1</sup> Im Zusammenhang mit den Massnahmen im Unterricht zur Bekämpfung der Covid-19-Epidemie können Eltern ihre Kinder kurzfristig selbst unterrichten oder privat unterrichten lassen. Die Kinder gelten während dieser Zeit als vom ordentlichen Schulunterricht dispensiert.
-
-<sup>2</sup> Die Dispensationsmöglichkeit gilt für den Unterricht im Kindergarten und im ersten bis vierten Schuljahr der Primarstufe (3H bis 6H).
-
-<sup>3</sup> Die Eltern geben die pandemiebedingte Dispensation mit kurzfristigem Privatunterricht vorgängig dem regionalen Schulinspektorat auf dem amtlichen, vollständig ausgefüllten Formular bekannt; das Verfahren für Dispensationen gemäss Artikel 8 gilt diesfalls nicht.
-
-<sup>4</sup> Während der Zeit der Dispensation sind die Eltern für den Unterricht verantwortlich. Die Anforderungen an den Privatunterricht gemäss Artikel 71a Absatz 1 Buchstaben a, c, d und e VSG gelten sinngemäss.
-
-<sup>5</sup> Der Leistungsstand und der Lernprozess während der Zeit der Dispensation werden durch die Schule nicht beurteilt.
-
-<sup>6</sup> Die Dispensation ist nur während der Gültigkeit dieser Norm zulässig. Danach besuchen die Kinder wieder ihre bisherige Klasse.
+**…**
 
 #### Art. 5
 
@@ -125,7 +113,7 @@ beschliesst:
 
 **Verfahren für Dispensationen**
 
-<sup>1</sup> Die Eltern reichen Dispensationsgesuche spätestens vier Wochen im Voraus schriftlich und begründet bei der Schulleitung ein. Für die Dispensation für Schnupperlehren kann eine kürzere Frist gewährt werden.
+<sup>1</sup> Die Eltern reichen Dispensationsgesuche spätestens vier Wochen im Voraus schriftlich und begründet bei der Schulleitung ein. Für die Dispensation für Schnupperlehren kann das Gesuch kurzfristiger eingereicht werden.
 
 <sup>2</sup> Die Schulleitung kann Beweise oder Bestätigungen für die Begründung einfordern.
 
@@ -155,11 +143,11 @@ beschliesst:
 
 <sup>1</sup> Alle Absenzen und Dispensationen werden in den Beurteilungsbericht eingetragen, ausser
 
-- a Dispensationen für Schnupperlehren, für Kurse in heimatlicher Sprache und Kultur, für Prüfungen, für Berufs-, Studien- und Laufbahnberatungen, für Berufsinformationsanlässe, für Begabtenförderung oder für andere Anlässe mit unterrichtsnahen Inhalten,
+- a Dispensationen für Schnupperlehren, für Kurse in heimatlicher Sprache und Kultur, für Prüfungen, für Berufs-, Studien- und Laufbahnberatungen, für Berufsinformationsanlässe, für die Förderung ausserordentlicher intellektueller, sportlicher oder musischer Begabungen oder für andere Anlässe mit unterrichtsnahen Inhalten,
 - b Absenzen wegen freier Halbtage gemäss Artikel 27 Absatz 3 VSG,
 - c Absenzen wegen Unterrichtsausschluss gemäss Artikel 28 Absatz 5 VSG.
 
-## 1 Übergangs- und Schlussbestimmungen
+## 1
 
 #### Art. 12
 

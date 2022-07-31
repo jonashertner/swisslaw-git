@@ -4,13 +4,12 @@ number: "432.213.12"
 title: "Ordonnance de Direction sur les absences et les dispenses à l'école obligatoire"
 short: ODAD
 language: fr
-version: 2022-01-10
-valid_until: 2022-07-31
-version_adopted: 2022-01-19
+version: 2022-08-01
+version_adopted: 2022-06-22
 adopted: 2007-03-16
 in_force: 2007-08-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/432.213.12"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2528/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2677/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,16 +18,17 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2528/pdf_file"
 
 (ODAD)
 
-du 16.03.2007 (état au 10.01.2022)
+du 16.03.2007 (état au 01.08.2022)
 
-La Direction de l’instruction publique du canton de Berne,
+La Direction de l'instruction publique et de la culture du canton de Berne,
 
-vu l’article 27 de la loi du 19 mars 1992 sur l’école obligatoire (LEO)[^ingress-1] et l’article 23a, lettre d de l’ordonnance du 4 août 1993 sur l’école obligatoire (OEO)[^ingress-2],
+vu l’article 27, alinéa 6 de la loi du 19 mars 1992 sur l’école obligatoire (LEO)[^ingress-1], l’article 27, alinéa 1, lettre e de l’ordonnance du 10 janvier 2013 sur l’école obligatoire (OEO)[^ingress-2] et l'article 23, alinéa 1, lettre e de l'ordonnance du 10 novembre 2021 sur l'offre spécialisée de l'école obligatoire (OOSEO)[^ingress-3],
 
 arrête:
 
-[^ingress-1]: RSB 432.210
-[^ingress-2]: Abrogée, actuellement O du 10. 1. 2013 sur l'école obligatoire (OEO); RSB 432.211.1
+[^ingress-1]: RSB [432.210](https://www.belex.sites.be.ch/data/432.210/fr)
+[^ingress-2]: RSB [432.211.1](https://www.belex.sites.be.ch/data/432.211.1/fr)
+[^ingress-3]: RSB [432.282](https://www.belex.sites.be.ch/data/432.282/fr)
 
 #### Art. 1
 
@@ -38,7 +38,7 @@ arrête:
 
 <sup>2</sup> Une dispense est une autorisation de manquer l’école demandée à l’avance et délivrée pour une absence régulière ou de longue durée.
 
-<sup>3</sup> Les dispenses liées à la pandémie dont peuvent bénéficier les élèves pour une instruction privée à court terme sont des autorisations de manquer l’école au sens de l’article 4a.
+<sup>3</sup> …
 
 #### Art. 2
 
@@ -73,8 +73,8 @@ arrête:
 
 - a pour la durée nécessaire à la réalisation d’un stage d’information professionnelle, pour autant que celui-ci ne puisse être effectué en dehors des heures de classe,
 - b jusqu’à une demi-journée par semaine pour la fréquentation de cours de langue et de culture d’origine,
-- c pour la durée nécessaire à l’encouragement de talents intellectuels, sportifs ou artistiques hors du commun,
-- d de l’enseignement de certaines disciplines à la demande du service psychologique pour enfants et adolescents, du service de pédopsychiatrie ou du service médical scolaire pour des motifs particuliers, notamment des raisons de santé, des difficultés d’apprentissage ou des troubles d’apprentissage graves,
+- c pour la durée nécessaire à l’encouragement de talents intellectuels, sportifs ou artistiques hors du commun, notamment pour les élèves des écoles avec attestation du talent particulier définie aux articles 31e à 31g (OEO),
+- d de l’enseignement de certaines disciplines à la demande du service psychologique pour enfants et adolescents ou du service médical scolaire pour des motifs particuliers, notamment des raisons de santé, des difficultés d’apprentissage ou des troubles d’apprentissage graves,
 - e pour obligations religieuses,
 - f jusqu’à deux semaines au plus par année scolaire si, pour des raisons professionnelles, ses parents ne peuvent faire concorder au moins quatre semaines de leurs vacances avec les vacances scolaires ou si, pour des raisons professionnelles ou familiales, la visite de proches à l’étranger ne peut être effectuée pendant les vacances scolaires,
 - g jusqu’à trois semaines au plus par année scolaire pour la période d’alpage.
@@ -83,19 +83,7 @@ arrête:
 
 #### Art. 4a
 
-**Dispenses liées à la pandémie pour une instruction privée à court terme**
-
-<sup>1</sup> Dans le cadre des mesures prises pour lutter contre l’épidémie de COVID-19 dans les écoles, les parents peuvent assurer eux-mêmes ou organiser une instruction privée à court terme pour leurs enfants. Pendant la période d’instruction privée, les enfants sont considérés comme étant dispensés de l’enseignement ordinaire.
-
-<sup>2</sup> La possibilité de dispense vaut pour l’école enfantine et les quatre premières années du degré primaire (3H à 6H).
-
-<sup>3</sup> Les parents transmettent au préalable à l’inspection scolaire régionale compétente le formulaire officiel de dispense dûment complété; la procédure en cas de dispense fixée à l’article 8 ne s’applique pas.
-
-<sup>4</sup> Pendant la période couverte par la dispense, les parents sont responsables de l’enseignement. Les exigences qui sont fixées pour l’instruction privée à l’article 71a, alinéa 1, lettres a, c, d et e LEO s’appliquent par analogie.
-
-<sup>5</sup> Les écoles n’évaluent pas les acquis et le processus d’apprentissage pendant la période couverte par la dispense.
-
-<sup>6</sup> Les dispenses sont autorisées tant que la présente réglementation est valable. Passé la date de fin de validité, les enfants retournent dans leur classe habituelle.
+**…**
 
 #### Art. 5
 
@@ -125,7 +113,7 @@ arrête:
 
 **Procédure en cas de dispense**
 
-<sup>1</sup> Les parents présentent par écrit les demandes de dispense dûment motivées à la direction d’école au moins quatre semaines à l’avance. Ce délai peut être raccourci pour les dispenses liées aux stages d’information professionnelle.
+<sup>1</sup> Les parents présentent par écrit les demandes de dispense dûment motivées à la direction d’école au moins quatre semaines à l’avance. Pour les dispenses liées aux stages d’information professionnelle la demande peut être soumise dans un délai à court terme.
 
 <sup>2</sup> La direction d’école peut exiger la présentation de preuves ou d’attestations.
 
@@ -155,13 +143,13 @@ arrête:
 
 <sup>1</sup> Les absences et les dispenses sont consignées dans le rapport d’évaluation, à l’exception
 
-- a des dispenses accordées pour les stages d’information professionnelle, les cours de langue et de culture d’origine, les examens, les manifestations d’information professionnelle et les consultations d’orientation professionnelle, l’encouragement de talents hors du commun ou pour tout autre motif ayant un lien direct avec l’enseignement,
+- a des dispenses accordées pour les stages d’information professionnelle, les cours de langue et de culture d’origine, les examens, les manifestations d’information professionnelle et les consultations d’orientation professionnelle, l’encouragement de talents intellectuels, sportifs ou artistiques hors du commun ou pour tout autre motif ayant un lien direct avec l’enseignement,
 - b des absences consécutives aux demi-journées prises en application de l’article 27, alinéa 3 LEO[^11-1],
 - c des absences consécutives à l’exclusion de l’enseignement prévu à l’article 28, alinéa 5 LEO.
 
 [^11-1]: RSB 432.210
 
-## 1 Dispositions transitoires et dispositions finales
+## 1
 
 #### Art. 12
 
