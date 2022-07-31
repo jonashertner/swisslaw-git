@@ -4,13 +4,13 @@ number: "412.112"
 title: Reglement zum Schulgesetz
 short: Schulreglement; SchulR
 language: de
-version: 2021-08-01
-valid_until: 2022-07-31
-version_adopted: 2021-04-07
+version: 2022-08-01
+valid_until: 2024-07-31
+version_adopted: 2021-12-01
 adopted: 1992-06-10
 in_force: 1992-08-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/412.112"
-pdf: "https://bgs.zg.ch/api/de/versions/2252/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2354/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +19,11 @@ pdf: "https://bgs.zg.ch/api/de/versions/2252/pdf_file"
 
 (Schulreglement; SchulR)
 
-Vom 10. Juni 1992 (Stand 1. August 2021)
+Vom 10. Juni 1992 (Stand 1. August 2022)
 
 Der Bildungsrat des Kantons Zug,
 
-gestützt auf § 65 Abs. 3 Bst. h und Abs. 3a des Schulgesetzes (SchulG) vom 27. September 1990[^ingress-1],
+gestützt auf § 65 Abs. 2 und Abs. 3a Bst. c und d des Schulgesetzes vom 27. September 1990[^ingress-1],
 
 beschliesst:
 
@@ -324,19 +324,22 @@ beschliesst:
 
 <sup>1</sup> Lernzielanpassungen sind Massnahmen der besonderen Förderung.
 
-<sup>2</sup> Vorübergehende Lernzielanpassungen können in der Regel für maximal zwei Jahre angeordnet werden, dies
+<sup>2</sup> Vorübergehende Lernzielanpassungen in einem oder mehreren Fächern können für maximal zwei Jahre angeordnet werden, dies
 
-- a) in einem oder mehreren Fächern:
-  - 1\. als Folge besonderer Ereignisse;
-  - 2\. bei Schülern mit ungenügenden Deutschkenntnissen;
-  - 3\. bei Schülern mit fehlendem Fremdsprachenunterricht vor der Wohnsitznahme im Kanton Zug.
-- b) in mehreren Fächern:
-  - 1\. bei Schülern mit Beeinträchtigungen im Lernen, die Lernzielanpassungen notwendig machen, und gestützt auf die Stellungnahme des Schulpsychologischen Dienstes.
+- a) …
+- b) …
 - c) …
+- d) als Folge besonderer Ereignisse;
+- e) bei Schülern mit ungenügenden Deutschkenntnissen;
+- f) bei Schülern mit fehlendem Fremdsprachenunterricht vor der Wohnsitznahme im Kanton Zug.
 
-<sup>3</sup> Überdauernde Lernzielanpassungen in einem oder mehreren Fächern können angeordnet werden, wenn die Lernziele deutlich nicht erreicht werden und die mutmassliche Leistungsentwicklung zeigt, dass dies auch künftig der Fall sein wird.
+<sup>2a</sup> Bei Primarschülern mit Beeinträchtigungen im Lernen, die Lernzielanpassungen notwendig machen, können gestützt auf eine Stellungnahme des Schulpsychologischen Dienstes vorübergehende Lernzielanpassungen in mehreren Fächern für maximal zwei Jahre angeordnet werden.
 
-<sup>3a</sup> Sofern keine Lernbehinderung vorliegt, dürfen überdauernde Lernzielanpassungen, mit Ausnahme bei Vorliegen einer schweren Lese-Rechtschreib-Störung, in maximal zwei Fächern vorgenommen werden.
+<sup>3</sup> Bei Teilleistungsstörungen (Lese-Rechtschreib-Störung und Dyskalkulie) können überdauernde Lernzielanpassungen in maximal zwei Fächern angeordnet werden, wenn die Lernziele deutlich nicht erreicht werden und die mutmassliche Leistungsentwicklung zeigt, dass dies auch künftig der Fall sein wird.
+
+<sup>3a</sup> …
+
+<sup>3b</sup> Die Anordnung von überdauernden Lernzielanpassungen in drei und mehr Fächern bei einer Lernbehinderung setzt eine Stellungnahme des Schulpsychologischen Dienstes voraus.
 
 <sup>4</sup> In Ausnahmefällen ist im Zusammenhang mit überdauernden Lernzielanpassungen eine Dispensation von einem oder mehreren Fächern möglich.
 
