@@ -3,20 +3,20 @@ canton: AI
 number: "412.011"
 title: Standeskommissionsbeschluss zur Gymnasialverordnung
 language: de
-version: 2022-01-01
-valid_until: 2022-07-31
-version_adopted: 2021-12-21
+version: 2022-08-01
+valid_until: 2022-12-31
+version_adopted: 2022-02-01
 adopted: 2016-04-12
 in_force: 2016-04-12
 url: "https://ai.clex.ch/app/de/texts_of_law/412.011"
-pdf: "https://ai.clex.ch/api/de/versions/1999/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2062/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Standeskommissionsbeschluss zur Gymnasialverordnung
 
-vom 12.04.2016 (Stand 01.01.2022)
+vom 12.04.2016 (Stand 01.08.2022)
 
 Die Standeskommission des Kantons Appenzell I. Rh.,
 
@@ -201,25 +201,53 @@ beschliesst:
 
 <sup>5</sup> Für den Vollzug des Bezugs der Altersentlastung ist die Schulleitung verantwortlich. Das Erziehungsdepartement kann in einer Weisung Detailvorgaben für den Vollzug machen.
 
+#### Art. 17b
+
+**Gehalt**
+
+<sup>1</sup> Der Lehrperson wird das ihrer Gehaltsklasse und ihrer Dienststufe entsprechende Gehalt gemäss Anhang ausgerichtet.
+
+<sup>2</sup> Das Gehalt bezieht sich auf ein ganzes Jahr und ein volles Pensum. Es wird unter Einbezug allfälliger Funktionszulagen in 13 Monatsraten ausbezahlt.
+
+<sup>3</sup> Das Gehalt für Über- und Unterpensen wird im Verhältnis der erteilten Lektionen zum vollen Pensum berechnet.
+
 #### Art. 18
 
-**Gehaltseinstufung**
+**Gehaltsklasse**
 
-<sup>1</sup> Lehrpersonen in akademischen Fächern werden in die Klasse 16 oder 17 gemäss Anhang eingereiht.
+<sup>1</sup> Lehrpersonen in akademischen Fächern werden in die Gehaltsklasse 16 oder 17 gemäss Anhang eingereiht.
 
-<sup>2</sup> Lehrpersonen in gestalterischen und musischen Fächern werden in die Klassen 15 bis 17 gemäss Anhang eingereiht.
+<sup>2</sup> Lehrpersonen in gestalterischen und musischen Fächern werden in die Gehaltsklassen 15 bis 17 gemäss Anhang eingereiht.
 
-<sup>3</sup> Lehrpersonen für Sport werden in die Klasse 15 oder 16 gemäss Anhang eingereiht.
+<sup>3</sup> Lehrpersonen für Sport werden in die Gehaltsklasse 15 oder 16 gemäss Anhang eingereiht.
 
-<sup>4</sup> Die Standeskommission kann in besonderen Fällen eine andere Einstufung vornehmen oder die Ausrichtung von Funktionszulagen beschliessen.
+<sup>4</sup> Die Standeskommission kann Lehrpersonen in besonderen Fällen in eine andere Gehaltsklasse einreihen oder die Ausrichtung von Funktionszulagen beschliessen.
+
+#### Art. 18a
+
+**Dienststufe und Stufenanstieg**
+
+<sup>1</sup> Die Dienststufe entspricht den anrechenbaren Dienstjahren.
+
+<sup>2</sup> Ab dem Schuljahr, das dem ersten anrechenbaren Dienstjahr folgt, wird der Lehrperson ein jährlicher Anstieg in die jeweils nächsthöhere Dienststufe gemäss Anhang gewährt.
+
+<sup>3</sup> Sind die Leistungen einer Lehrperson ungenügend, kann der Rektor nach Rücksprache mit dem Vorsteher des Erziehungsdepartements einen Stufenanstieg verweigern.
+
+#### Art. 18b
+
+**Anrechnung der Dienstjahre**
+
+<sup>1</sup> Das Schuljahr nach Dienstantritt ist anrechenbar.
+
+<sup>2</sup> Erfolgt der Diensteintritt auf das zweite oder im zweiten Schulsemester, erfolgt auf das folgende Schuljahr kein Stufenanstieg.
+
+<sup>3</sup> An Schulen der Sekundarstufen I und II geleistete Lehrtätigkeiten werden der Dauer entsprechend als Dienstjahre angerechnet.
+
+<sup>4</sup> Die Erziehung von Kindern bis zum vollendeten 18. Altersjahr in der Familie und Tätigkeiten in anderen Berufen nach Abschluss der Erstausbildung werden zur Hälfte angerechnet. Die beiden Tätigkeiten sind nicht kumulierbar.
 
 #### Art. 19
 
-**Jahresgehalt**
-
-<sup>1</sup> Das Gehalt gemäss Anhang bezieht sich auf ein ganzes Jahr und ein volles Pensum. Es wird unter Einbezug allfälliger Funktionszulagen in 13 Monatsraten ausbezahlt.
-
-<sup>2</sup> Das Gehalt für Über- und Unterpensen wird im Verhältnis der erteilten Lektionen zum vollen Pensum berechnet.
+**…**
 
 #### Art. 20
 
@@ -270,6 +298,12 @@ beschliesst:
 **Aufhebung bestehenden Rechts**
 
 <sup>1</sup> Der Standeskommissionsbeschluss zur Gymnasialverordnung vom 14. August 2006 wird aufgehoben.
+
+#### Art. 22a
+
+**Nachprüfung der Stufenerhöhung**
+
+<sup>1</sup> Die Dienststufe von Lehrpersonen, denen der Stufenanstieg in der Vergangenheit wegen zu geringer Pflichtpensen an Schulen im Kanton Appenzell I.Rh. nicht gewährt wurde, wird mit Wirkung ab Beginn des Schuljahrs 2022/23 um die entgangenen Stufenanstiege erhöht, höchstens jedoch bis zur höchsten Dienststufe gemäss Anhang.
 
 #### Art. 23
 
