@@ -3,10 +3,10 @@ canton: ZH
 number: "415.321"
 title: Verordnung über die Studiengebühren an der Universität Zürich
 language: de
-nachtrag: "77"
-valid_until: 2022-08-01
+nachtrag: "117"
+valid_until: 2025-01-01
 adopted: 2022-02-28
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_321-2012_03_05-2012_05_01-077.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_321-2022_02_28-2022_08_01-117.html"
 text: pdf
 ---
 
@@ -14,7 +14,7 @@ text: pdf
 
 # Verordnung über die Studiengebühren an der Universität Zürich
 
-(vom 5. März 2012)[^t-1],[^t-2]
+(vom 28. Februar 2022)[^t-1],[^t-2]
 
 Der Universitätsrat,
 
@@ -22,41 +22,53 @@ gestützt auf § 41 des Universitätsgesetzes vom 15. März 1998[^t-3],
 
 beschliesst:
 
-[^t-1]: OS 67, 160; Begründung siehe ABl 2012, 364, 1084.
-[^t-2]: Inkrafttreten: 1. Mai 2012; gilt auf Beginn des Frühjahrssemesters 2013 (1. Februar 2013).
+[^t-1]: OS 77, 221; Begründung siehe ABl 2022-03-25.
+[^t-2]: Inkrafttreten: 1. August 2022.
 [^t-3]: LS 415.11.
 
 #### § 1
 
-**Anmeldegebühr**
+**Bewerbungsgebühren**
 
-<sup>1</sup> Für die Anmeldung zur Immatrikulation ist eine Gebühr von Fr. 100 zu bezahlen.
+<sup>1</sup> Für die Prüfung der Bewerbung ist eine Bearbeitungsgebühr von Fr. 100 zu entrichten.
 
-<sup>2</sup> Sofern eine Anmeldung nach Ablauf der Anmeldefrist möglich ist, wird eine zusätzliche Gebühr von Fr. 300 erhoben.
+<sup>2</sup> Sofern eine Bewerbung nach Ablauf der Bewerbungsfrist möglich ist, wird eine zusätzliche Gebühr von Fr. 300 erhoben.
+
+<sup>3</sup> Beide Gebühren werden weder zurückerstattet noch an andere Gebühren angerechnet.
 
 #### § 2
 
-**Kollegiengeldpauschale**
+**Reguläre Studiengebühren**
 
-<sup>1</sup> Die Kollegiengeldpauschale beträgt pro Semester für a. ordentliche Studierende, Gaststudierende der Bachelor- und Masterstufe sowie im Lehrdiplom, Studierende in besonderen Studiengängen b. Doktorierende
+<sup>1</sup> Die regulären Studiengebühren betragen pro Semester und pro Studiengang:
 
-**Fr. 720 Fr. 150**
+- a. für Studierende und Gaststudierende im Bachelor-, Master- und Lehrdiplomstudium sowie Studierende im Notariats- und im Ergänzungsprogramm
 
-<sup>2</sup> Die Kollegiengeldpauschale enthält eine pauschale Prüfungsgebühr.
+**Fr. 720**
+
+**Fr. 150**
+
+- b. für Doktorierende und Gaststudierende im Doktoratsstudium
+
+<sup>2</sup> In diesen Gebühren ist eine pauschale Prüfungsgebühr enthalten.
+
+[^2-1]: LS 415.31.
 
 #### § 3
 
-**Auditorinnen und Auditoren**
+**Erhöhte Studiengebühren**
 
-Auditorinnen und Auditoren bezahlen pro Semester folgende Gebühren:
+<sup>1</sup> Studierende auf Bachelor- und Masterstufe, welche die Studiendauer der jeweiligen Studienstufe nach § 45 a der Verordnung über die Zulassung zum Studium an der Universität Zürich vom 27. August 2018[^2-1] überschritten haben, entrichten erhöhte Studiengebühren.
 
-- a. für 1 oder 2 Wochenstunden Fr. 110
+<sup>2</sup> Die erhöhten Studiengebühren betragen pro Semester und pro Studiengang Fr. 1440.
 
-- b. für jede weitere Wochenstunde Fr. 55
+<sup>3</sup> In diesen Gebühren ist eine pauschale Prüfungsgebühr enthalten.
 
-- c. für 7 und mehr Wochenstunden Fr. 660 § 4. Die Studierenden der Medizinischen und der Vetsuisse-Fakultät bezahlen zusätzlich die folgenden Prüfungsgebühren pro Studienjahresprüfung:
+#### § 4
 
-**Medizinische und Vetsuisse-Fakultät a. Zusätzliche Prüfungsgebühr**
+**Medizinische Fakultät und Vetsuisse-Fakultät a. zusätzliche Prüfungsgebühr**
+
+Die Studierenden der Medizinischen Fakultät und der Vetsuisse-Fakultät entrichten zusätzlich die folgenden Prüfungsgebühren pro Studienjahresprüfung:
 
 - a. Humanmedizin je Fr. 160 im 1. bis 4. und 6. Studienjahr
 
@@ -66,6 +78,18 @@ Auditorinnen und Auditoren bezahlen pro Semester folgende Gebühren:
 
 **1**
 
-- 1\. 7. 12 - 77
+- 1\. 7. 22 - 117 § 5. Die Gebühr für die Teilnahme am Eignungstest für das Medizinstudium beträgt Fr. 300.
 
-- b. Eignungstest § 5. Die Gebühr für die Teilnahme am Eignungstest für das Medizinstudium beträgt Fr. 200.
+#### § 6
+
+**b. Eignungstest**
+
+**Auditorinnen und Auditoren**
+
+Auditorinnen und Auditoren entrichten pro Semester folgende Gebühren:
+
+**Fr. 110**
+
+- a. bis 2 Semesterwochenstunden
+
+- b. für jede weitere Semesterwochenstunde Fr. 55
