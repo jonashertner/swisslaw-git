@@ -4,11 +4,11 @@ title: Ordonnance du 25 mai 2011 sur le contrôle des stupéfiants (OCStup)
 short: OCStup
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/362"
 language: fr
-version: 2022-01-01
+version: 2022-08-01
 adopted: 2011-05-25
 in_force: 2011-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/362/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2011-362-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/362/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/362/20220801/fr/xml/fedlex-data-admin-ch-eli-cc-2011-362-20220801-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/362/20220801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,15 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/362/20220101/fr"
 
 (OCStup)
 
-du 25 mai 2011 (Etat le 1<sup>er</sup> janvier 2022)
+du 25 mai 2011 (Etat le 1<sup>er</sup> août 2022)
 
 Le Conseil fédéral suisse,
 
-vu les art. 3, al. 1 et 2, 9, al. 3, et 30, al. 1 et 2, de la loi du 3 octobre 1951 sur les stupéfiants (LStup)[^ingress-1],
+vu les art. 3, al. 1 et 2, 18*f*, al. 3 et 4, et 30, al. 1 et 2, de la loi du 3 octobre 1951 sur les stupéfiants (LStup)[^ingress-1],[^ingress-2]
 
 arrête:
 
 [^ingress-1]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^ingress-2]: Nouvelle teneur selon le ch. I de l’O du 22 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
 
 ## Chapitre 1 Dispositions générales
 
@@ -108,16 +109,22 @@ Les dispositions de la présente ordonnance ne s’appliquent pas:
 
 #### Art. 5
 
-**Autorisation d’exploitation**
+**Autorisations d’exploitation[^5-1]**
 
 <sup>1</sup>
 
 L’autorisation d’exploitation permettant d’utiliser des substances soumises à contrôle figurant dans les tableaux a, b, c et f et des médicaments autorisés contenant des substances soumises à contrôle figurant dans le tableau d est délivrée:
 
-- a. aux personnes et aux entreprises, y compris aux courtiers et aux agents, et à la pharmacie de l’armée: par l’Institut suisse des produits thérapeutiques (institut);
+- a. aux personnes et aux entreprises, y compris aux courtiers et aux agents, et à la pharmacie de l’armée: par l’Institut suisse des produits thérapeutiques (Swissmedic[^5-2]);
 - b. aux pharmacies, aux hôpitaux, aux instituts scientifiques ainsi qu’aux autorités cantonales et communales: par le canton.
 
 <sup>2</sup> L’autorisation d’exploitation permettant d’utiliser des substances soumises à contrôle figurant dans le tableau e est délivrée par le DFI.
+
+<sup>3</sup> L’autorisation d’exploitation pour la culture de plantes ou de champignons qui contiennent des substances soumises à contrôle figurant dans les tableaux a, b et f est délivrée par Swissmedic.[^5-3]
+
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du 22 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
+[^5-2]: Nouvelle expression selon le ch. I de l’O du 22 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)). Il a été tenu compte de cette mod. dans tout le texte.
+[^5-3]: Introduit par le ch. I de l’O du 22 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
 
 #### Art. 6
 
@@ -125,11 +132,19 @@ L’autorisation d’exploitation permettant d’utiliser des substances soumise
 
 L’autorisation pour le traitement avec prescription de diacétylmorphine est délivrée par l’Office fédéral de la santé publique (OFSP).
 
+#### Art. 6a
+
+**Autorisation de culture individuelle**[^6a-1]
+
+L’autorisation de culture individuelle est délivrée par Swissmedic.
+
+[^6a-1]: Introduit par le ch. I de l’O du 22 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
+
 #### Art. 7
 
 **Autorisation d’importation ou d’exportation**
 
-Les autorisations d’importation et les autorisations d’exportation sont délivrées par l’institut.
+Les autorisations d’importation et les autorisations d’exportation sont délivrées par Swissmedic.
 
 #### Art. 8
 
@@ -153,23 +168,29 @@ Les autorisations accordées à des organisations nationales ou internationales 
 
 <sup>3</sup> Si des circonstances font présumer l’existence d’un abus, les personnes responsables procèdent aux investigations nécessaires, le cas échéant avec le concours de l’association professionnelle ou faîtière concernée ou de la personne ayant prescrit le produit, et informent immédiatement l’autorité de contrôle compétente. En pareil cas, la substance soumise à contrôle ne peut être transmise que si les investigations font apparaître que le soupçon est infondé.
 
-<sup>4</sup> En cas de soupçon fondé d’un abus important, les autorités cantonales informent immédiatement l’institut. Celui-ci rassemble les informations et les transmet à l’Office central de lutte contre le trafic illicite des stupéfiants, qui fait partie de l’Office fédéral de la police, (art. 29*b* LStup) et à l’OFSP.
+<sup>4</sup> En cas de soupçon fondé d’un abus important, les autorités cantonales informent immédiatement Swissmedic. Celui-ci rassemble les informations et les transmet à l’Office central de lutte contre le trafic illicite des stupéfiants, qui fait partie de l’Office fédéral de la police, (art. 29*b* LStup) et à l’OFSP.
 
-## Chapitre 2 Autorisations d’exploitation ou de culture
+## Chapitre 2 Autorisations d’exploitation****
+
+[^chap2-1]
+
+[^chap2-1]: Nouvelle teneur selon le ch. I de l’O du 22 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
 
 ### Section 1 Dispositions générales
 
 #### Art. 11
 
-**Régime de l’autorisation**
+**Régime de l’autorisation**[^11-1]
 
-<sup>1</sup> Quiconque veut fabriquer, se procurer, négocier, importer, exporter ou remettre des substances soumises à contrôle, à l’exception des adjuvants chimiques, ou en faire le commerce doit obtenir préalablement une autorisation d’exploitation.
+<sup>1</sup> Quiconque veut fabriquer, se procurer, négocier, importer, exporter ou remettre des substances soumises à contrôle, à l’exception des adjuvants chimiques, ou en faire le commerce doit obtenir une autorisation d’exploitation pour l’utilisation de substances soumises à contrôle.
 
-<sup>2</sup> Quiconque veut cultiver des plantes ou des champignons qui contiennent des substances soumises à contrôle doit obtenir une autorisation de culture.
+<sup>2</sup> Quiconque veut cultiver des plantes ou des champignons qui contiennent des substances soumises à contrôle doit obtenir une autorisation d’exploitation pour la culture de plantes ou de champignons qui contiennent des substances soumises à contrôle.
 
-<sup>3</sup> Les personnes exerçant une profession médicale n’ont pas besoin d’une autorisation d’exploitation en plus de leur autorisation d’exercer.
+<sup>3</sup> Les personnes exerçant une profession médicale n’ont pas besoin, en plus de leur autorisation d’exercer, d’une autorisation d’exploitation pour l’utilisation de substances soumises à contrôle.
 
-<sup>4</sup> Les pharmacies n’ont pas besoin d’une autorisation d’exploitation de l’institut pour des actes exceptionnels de distribution de médicaments qui contiennent des substances soumises à contrôle. S’il y a plus de neuf livraisons par année civile, une autorisation d’exploitation est nécessaire.
+<sup>4</sup> Les pharmacies n’ont pas besoin, pour des actes occasionnels de distribution de médicaments qui contiennent des substances soumises à contrôle, d’une autorisation d’exploitation de Swissmedic pour l’utilisation de substances soumises à contrôle. S’il y a plus de neuf livraisons par année civile, une autorisation d’exploitation pour l’utilisation de substances soumises à contrôle est nécessaire.
+
+[^11-1]: Nouvelle teneur selon le ch. I de l’O du 22 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
 
 #### Art. 12
 
@@ -177,11 +198,23 @@ Les autorisations accordées à des organisations nationales ou internationales 
 
 <sup>1</sup>
 
-Une autorisation d’exploitation est délivrée si la personne ou l’entreprise requérante:
+Une autorisation d’exploitation pour l’utilisation de substances soumises à contrôle est délivrée si le requérant:[^12-1]
 
 - a. est inscrite au registre principal du registre du commerce;
 - b. garantit que l’entreposage des substances soumises à contrôle est conforme à l’art. 54, et
 - c. désigne une personne responsable des substances soumises à contrôle, à qui il incombe de veiller au respect des dispositions de la législation sur les stupéfiants.
+
+<sup>1bis</sup>
+
+Une autorisation d’exploitation pour la culture de plantes ou de champignons qui contiennent des substances soumises à contrôle est délivrée si le requérant:
+
+- a. remplit les conditions énoncées à l’al. 1, et
+- b.
+
+  prouve que des mesures ont été prises pour:
+
+  - 1\. garantir une protection suffisante contre le vol, et
+  - 2\. empêcher l’utilisation des plantes ou des champignons à d’autres fins.[^12-2]
 
 <sup>2</sup>
 
@@ -192,9 +225,11 @@ Une inscription au registre du commerce n’est pas demandée pour:
 - c. les hautes écoles;
 - d. les organisations des Nations Unies.
 
-<sup>3</sup> Les autorisations requises pour les traitements basés sur des stupéfiants sont régies par l’ordonnance du 25 mai 2011 relative à l’addiction aux stupéfiants (OAStup)[^12-1].
+<sup>3</sup> Les autorisations requises pour les traitements basés sur des stupéfiants sont régies par l’ordonnance du 25 mai 2011 relative à l’addiction aux stupéfiants (OAStup)[^12-3].
 
-[^12-1]: [RS 812.121.6](https://fedlex.data.admin.ch/eli/cc/2011/364)
+[^12-1]: Nouvelle teneur selon le ch. I de l’O du 22 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
+[^12-2]: Introduit par le ch. I de l’O du 22 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
+[^12-3]: [RS 812.121.6](https://fedlex.data.admin.ch/eli/cc/2011/364)
 
 #### Art. 13
 
@@ -208,26 +243,19 @@ La personne responsable doit:
 - b. définir par contrat écrit avec le requérant la responsabilité et le temps de présence requis, dans la mesure où elle n’est pas elle-même requérante, et
 - c. être en mesure d’exercer son activité professionnelle sous sa propre responsabilité.
 
+<sup>1bis</sup> La personne responsable de la culture de plantes ou de champignons qui contiennent des substances soumises à contrôle peut également être titulaire d’un diplôme délivré par une haute école universitaire ou une haute école spécialisée dans les domaines des sciences agronomiques, des sciences forestières ou des sciences de l’environnement.[^13-1]
+
 <sup>2</sup> L’autorité compétente peut autoriser comme personnes responsables les titulaires d’un diplôme équivalent délivré par une haute école étrangère pour les professions citées et pour lesquels il a été établi qu’ils possèdent les connaissances requises.
 
-<sup>3</sup> Si l’autorisation d’exploitation ne porte que sur des substances soumises à contrôle figurant dans le tableau f (précurseurs), l’institut peut autoriser comme personnes responsables les titulaires d’un diplôme délivré par une haute école spécialisée ou une école supérieure dans le domaine des sciences naturelles et pour lesquels il a été établi qu’ils possèdent les connaissances requises.
+<sup>3</sup> Si l’autorisation d’exploitation ne porte que sur des substances soumises à contrôle figurant dans le tableau f (précurseurs), Swissmedic peut autoriser comme personnes responsables les titulaires d’un diplôme délivré par une haute école spécialisée ou une école supérieure dans le domaine des sciences naturelles et pour lesquels il a été établi qu’ils possèdent les connaissances requises.
+
+[^13-1]: Introduit par le ch. I de l’O du 22 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
 
 #### Art. 14
 
-**Autorisation de culture**
+[^14-1]
 
-<sup>1</sup>
-
-Quiconque veut cultiver des plantes ou des champignons qui contiennent des substances soumises à contrôle obtient une autorisation de culture:
-
-- a. s’il est titulaire d’une autorisation d’exploitation, ou
-- b. s’il agit sur mandat d’un titulaire d’une autorisation d’exploitation.
-
-<sup>2</sup> Le requérant doit par ailleurs prouver qu’il dispose d’un système offrant une protection suffisante contre le vol.
-
-<sup>3</sup> Le contrat visé à l’al. 1, let. b, doit être écrit, contenir des indications précises sur la nature et l’étendue de la culture et faire état de l’engagement du mandant à acheter la totalité de la récolte du mandataire.
-
-<sup>4</sup> Si la culture est pratiquée directement par une personne ou une entreprise titulaire d’une autorisation d’exploitation délivrée par l’institut, cette activité peut être mentionnée dans ladite autorisation.
+[^14-1]: Abrogé par le ch. I de l’O du 22 juin 2022, avec effet au 1<sup>er</sup> août 2022 ([RO 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
 
 ### Section 2 Demande
 
@@ -235,7 +263,7 @@ Quiconque veut cultiver des plantes ou des champignons qui contiennent des subst
 
 <sup>1</sup>
 
-Les indications suivantes doivent figurer dans la demande d’autorisation:
+Les indications suivantes doivent figurer dans la demande d’autorisation d’exploitation pour l’utilisation de substances soumises à contrôle ou pour la culture de plantes ou de champignons qui contiennent de telles substances:[^15-1]
 
 - a. le nom et le prénom ou, pour les personnes morales, la raison sociale selon le registre du commerce ainsi que le nom, le prénom, la date de naissance et la fonction de la personne responsable des substances soumises à contrôle;
 - b. le domicile ou le siège social ainsi que les lieux d’exploitation (adresses);
@@ -251,13 +279,17 @@ Les documents suivants doivent être joints à la demande d’autorisation:
 - b. un extrait du casier judiciaire de la personne responsable, ne datant pas de plus de six mois;
 - c. les diplômes obtenus et les pièces attestant la carrière professionnelle de la personne responsable.
 
+[^15-1]: Nouvelle teneur selon le ch. I de l’O du 22 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
+
 ### Section 3 Effet et durée de validité
 
 #### Art. 16
 
-**Effet de l’autorisation d’exploitation**
+**Effets des autorisations d’exploitation[^16-1]**
 
-L’autorisation d’exploitation habilite son titulaire à remettre et à distribuer des substances soumises à contrôle:
+<sup>1</sup>
+
+L’autorisation d’exploitation pour l’utilisation de substances soumises à contrôle habilite son titulaire à remettre et à distribuer des substances soumises à contrôle:[^16-2]
 
 - a. aux personnes et aux entreprises titulaires d’une autorisation visée à l’art. 4, al. 1, LStup ou d’une autorisation exceptionnelle visée à l’art. 8, al. 5 à 8, LStup;
 - b. au dirigeant responsable d’une pharmacie ou d’une pharmacie d’hôpital;
@@ -267,46 +299,74 @@ L’autorisation d’exploitation habilite son titulaire à remettre et à distr
 - f. à la personne responsable dans une organisation nationale ou internationale titulaire d’une autorisation visée à l’art 14*a,* al. 1, LStup;
 - g. à la personne responsable au sein d’une autorité de la Confédération, d’un canton ou d’une commune titulaire d’une autorisation visée à l’art. 14*a*, al. 1 ou 1<sup>bis</sup>, LStup.
 
+<sup>2</sup>
+
+L’autorisation d’exploitation pour la culture de plantes ou de champignons qui contiennent des substances soumises à contrôle habilite son titulaire:
+
+- a. à se procurer les semences et les plants nécessaires à la culture;
+- b. à remettre les plantes ou les champignons qui contiennent des substances soumises à contrôle au mandant désigné dans le contrat de reprise.[^16-3]
+
+[^16-1]: Nouvelle teneur selon le ch. I de l’O du 22 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
+[^16-2]: Nouvelle teneur selon le ch. I de l’O du 22 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
+[^16-3]: Introduit par le ch. I de l’O du 22 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
+
 #### Art. 17
 
-**Portée**
+**Portée**[^17-1]
 
-<sup>1</sup> L’autorisation d’exploitation ou de culture est établie au nom du requérant ainsi qu’au nom de la personne responsable.
+<sup>1</sup> L’autorisation d’exploitation pour l’utilisation de substances soumises à contrôle ou pour la culture de plantes ou de champignons qui contiennent de telles substances est établie au nom du requérant et de la personne responsable.
 
-<sup>2</sup> L’autorisation d’exploitation vaut pour les substances soumises à contrôle ou les tableaux visés à l’art. 3 qui sont indiqués dans l’autorisation.
+<sup>2</sup> Elle vaut pour les substances soumises à contrôle ou les tableaux visés à l’art. 3 qui sont indiqués dans l’autorisation.
+
+[^17-1]: Nouvelle teneur selon le ch. I de l’O du 22 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
 
 #### Art. 18
 
 **Durée de validité**
 
-<sup>1</sup> La durée de validité d’une autorisation est de cinq ans au maximum.
+<sup>1</sup> La durée de validité d’une autorisation d’exploitation pour l’utilisation de substances soumises à contrôle ou pour la culture de plantes ou de champignons qui contiennent de telles substances est de cinq ans au maximum.[^18-1]
 
 <sup>2</sup> Elle peut, sur demande, être renouvelée pour cinq ans. La demande de renouvellement est à présenter au plus tard six mois avant l’expiration de l’autorisation en cours.
 
-<sup>3</sup> Une inspection peut être effectuée avant l’octroi ou avant le renouvellement d’une autorisation.
+<sup>3</sup> Une inspection peut être effectuée avant l’octroi ou avant le renouvellement d’une autorisation d’exploitation pour l’utilisation de substances soumises à contrôle ou pour la culture de plantes ou de champignons qui contiennent de telles substances.[^18-2]
 
 <sup>4</sup> Les autorités des cantons peuvent prévoir une durée de validité différente dans leur domaine de compétence.
+
+[^18-1]: Nouvelle teneur selon le ch. I de l’O du 22 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
+[^18-2]: Nouvelle teneur selon le ch. I de l’O du 22 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
 
 ### Section 4 Modifications, extinction et retrait
 
 #### Art. 19
 
-**Notification de modifications**
+**Notification de modifications**[^19-1]
 
-Le titulaire d’une autorisation d’exploitation ou de culture doit notifier immédiatement à l’autorité compétente toute modification des conditions ayant justifié l’octroi de l’autorisation.
+<sup>1</sup> Le titulaire d’une autorisation d’exploitation pour l’utilisation de substances soumises à contrôle ou pour la culture de plantes ou de champignons qui contiennent de telles substances doit notifier immédiatement à l’autorité compétente toute modification des conditions ayant justifié l’octroi de l’autorisation.
+
+<sup>2</sup> Si l’établissement cesse son activité ou qu’une telle décision semble imminente, la personne responsable est tenue d’en aviser Swissmedic sans délai.
+
+[^19-1]: Nouvelle teneur selon le ch. I de l’O du 22 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
 
 #### Art. 20
 
-**Retrait**
+**Retrait**[^20-1]
 
 <sup>1</sup>
 
-L’autorité compétente retire l’autorisation temporairement ou définitivement:
+L’autorité compétente retire l’autorisation:
 
-- a. si le titulaire de l’autorisation ou la personne responsable a commis une infraction intentionnelle ou des infractions répétées par négligence à la LStup ou aux ordonnances y relatives;
+- a. si le titulaire de l’autorisation ou la personne responsable a commis une infraction intentionnelle ou des infractions répétées par négligence à la LStup ou à la loi du 15 décembre 2000 sur les produits thérapeutiques (LPTh)[^20-2];
 - b. à la demande du titulaire de l’autorisation.
 
-<sup>2</sup> Elle peut la retirer à tout moment sur la base des art. 6 et 14*a*, al. 2, LStup.
+<sup>2</sup>
+
+Elle peut retirer l’autorisation:
+
+- a. sur la base des art. 6 et 14*a*, al. 2, LStup, ou
+- b. lorsque les activités faisant l’objet de l’autorisation n’ont pas été exercées pendant plus de 24 mois.
+
+[^20-1]: Nouvelle teneur selon le ch. I de l’O du 22 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
+[^20-2]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
 
 #### Art. 21
 
@@ -318,9 +378,89 @@ L’autorité compétente retire l’autorisation temporairement ou définitivem
 
 #### Art. 22
 
+**Suspension**[^22-1]
+
+<sup>1</sup> Lorsqu’un requérant fait l’objet d’une enquête pour infraction à la LStup ou à la LPTh[^22-2], Swissmedic ou l’autorité compétente peut suspendre la procédure d’autorisation ou les autorisations existantes jusqu’au jugement final.
+
+<sup>2</sup> Lorsqu’une procédure pénale est en cours contre une personne responsable pour une infraction à la LStup ou à la LPTh, Swissmedic ou l’autorité compétente peut suspendre la procédure d’autorisation ou les autorisations existantes.
+
+[^22-1]: Nouvelle teneur selon le ch. I de l’O du 22 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
+[^22-2]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+
+## Chapitre 2*a***** Autorisation de culture individuelle
+
+[^chap2a-1]
+
+[^chap2a-1]: Introduit par le ch. I de l’O du 22 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
+
+#### Art. 22a
+
+**Régime de l’autorisation**
+
+Quiconque veut cultiver des plantes ou des champignons qui contiennent des substances soumises à contrôle doit obtenir pour chaque culture une autorisation de culture individuelle.
+
+#### Art. 22b
+
+**Condition d’octroi d’une autorisation**
+
+<sup>1</sup>
+
+L’autorisation de culture individuelle est délivrée si le requérant:
+
+- a. est titulaire d’une autorisation d’exploitation pour la culture de plantes ou de champignons qui contiennent des substances soumises à contrôle;
+- b. prouve qu’il dispose, en cas de culture destinée à des fins médicales, d’un système permettant de garantir la traçabilité des substances remises et la qualité, et
+- c. présente un contrat de reprise écrit qui désigne un preneur titulaire d’une autorisation d’exploitation pour l’utilisation de substances soumises à contrôle.
+
+<sup>2</sup> Le contrat de reprise doit contenir des indications précises sur la nature et l’étendue de la culture et faire état de l’engagement du mandant à acheter la totalité de la récolte du requérant.
+
+#### Art. 22c
+
+**Demande**
+
+<sup>1</sup>
+
+Les indications suivantes doivent figurer dans la demande d’autorisation de culture individuelle:
+
+- a. le nom et le prénom ou la désignation du titulaire de l’autorisation d’exploitation pour la culture de plantes ou de champignons qui contiennent des substances soumises à contrôle;
+- b. la nature de la culture;
+- c. la variété cultivée;
+- d. le site exact et l’étendue de la superficie cultivée;
+- e. le rendement escompté.
+
+<sup>2</sup> Swissmedic met à disposition les formulaires de demande requis pour obtenir une autorisation de culture individuelle.
+
+#### Art. 22d
+
+**Portée**
+
+L’autorisation de culture individuelle est délivrée pour une culture unique et pour une durée maximale d’un an.
+
+#### Art. 22e
+
+**Obligations de notification**
+
+<sup>1</sup>
+
+Le titulaire d’une autorisation de culture individuelle est tenu de notifier à Swissmedic, dans un délai de dix jours ouvrables au plus, chacune des données suivantes:
+
+- a. le début de la culture;
+- b. tout événement ayant une incidence sur le rendement escompté;
+- c. lors de la récolte ou de la récolte partielle, la date de la récolte, la quantité récoltée et la quantité restante escomptée;
+- d. la date de la remise au preneur, son nom et son adresse et la quantité remise.
+
+<sup>2</sup> Si aucune culture n’a lieu, il est tenu de le notifier à Swissmedic, au plus tard dans les dix jours ouvrables qui suivent l’échéance de l’autorisation.
+
+#### Art. 22f
+
+**Transmissibilité**
+
+L’autorisation de culture individuelle n’est pas transmissible.
+
+#### Art. 22g
+
 **Suspension**
 
-Lorsqu’un requérant fait l’objet d’une enquête pour infraction aux dispositions de la présente ordonnance, l’institut ou l’autorité cantonale compétente peut suspendre la procédure d’autorisation jusqu’au jugement final.
+La suspension des autorisations de culture individuelle est régie par l’art. 22.
 
 ## Chapitre 3 Importation, transit, exportation, commerce international
 
@@ -340,7 +480,7 @@ b. pour les substances soumises à contrôle qui doivent être importées ou exp
 
 <sup>3</sup> Pour les adjuvants chimiques figurant dans le tableau g, une autorisation d’exportation est requise uniquement pour les pays cibles.
 
-<sup>4</sup> L’institut met à disposition les formulaires de demande requis pour obtenir une autorisation d’importation ou d’exportation.
+<sup>4</sup> Swissmedic met à disposition les formulaires de demande requis pour obtenir une autorisation d’importation ou d’exportation.
 
 #### Art. 24
 
@@ -348,22 +488,28 @@ b. pour les substances soumises à contrôle qui doivent être importées ou exp
 
 <sup>1</sup>
 
-L’institut ne délivre l’autorisation d’importation ou d’exportation qu’à un requérant titulaire de l’une des autorisations suivantes:
+Swissmedic ne délivre l’autorisation d’importation ou d’exportation qu’à un requérant titulaire de l’une des autorisations suivantes:[^24-1]
 
 - a. autorisation délivrée par le Conseil fédéral selon l’art. 14*a,* al. 1, LStup;
 - b. autorisation délivrée par le DFI selon l’art. 7, al. 1, LStup;
 - c. autorisation exceptionnelle délivrée par l’OFSP selon l’art. 8, al. 5, 6 et 8, LStup;
-- d. autorisation délivrée par l’institut selon l’art. 4 LStup et l’art. 5 de la présente ordonnance;
+- d.[^24-2] autorisation délivrée par Swissmedic selon l’art. 4 LStup et l’art. 5, al. 1, let. a, de la présente ordonnance;
 - e. autorisation délivrée par le canton selon les art. 14 et 14*a*, al. 1<sup>bis</sup>, LStup.
+
+<sup>1bis</sup> L’importation de semences et de plants pour la culture de plantes ou de champignons qui contiennent des substances soumises à contrôle est autorisée si le requérant est titulaire d’une autorisation d’exploitation pour leur culture.[^24-3]
 
 <sup>2</sup>
 
-Dans certains cas, l’institut peut délivrer une autorisation d’importation ou d’exportation aux:
+Dans certains cas, Swissmedic peut délivrer une autorisation d’importation ou d’exportation aux:
 
 - a. pharmaciens;
 - b. médecins;
 - c. médecins-vétérinaires;
 - d. organisations nationales ou internationales dans le cadre de l’aide humanitaire d’urgence.
+
+[^24-1]: Nouvelle teneur selon le ch. I de l’O du 22 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
+[^24-2]: Nouvelle teneur selon le ch. I de l’O du 22 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
+[^24-3]: Introduit par le ch. I de l’O du 22 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
 
 #### Art. 25
 
@@ -373,14 +519,14 @@ Dans certains cas, l’institut peut délivrer une autorisation d’importation 
 
 <sup>2</sup>
 
-L’institut peut délivrer des autorisations générales d’importation ou d’exportation pour les substances soumises à contrôle figurant dans les tableaux b, f et g pour autant:
+Swissmedic peut délivrer des autorisations générales d’importation ou d’exportation pour les substances soumises à contrôle figurant dans les tableaux b, f et g pour autant:
 
 - a. que cette délivrance soit compatible avec les dispositions des accords internationaux ratifiés par la Suisse, et
 - b. que le pays de provenance ou de destination accepte ces autorisations.
 
 <sup>3</sup> L’autorisation générale d’importation ou d’exportation est délivrée pour une quantité maximale déterminée et n’est valable que dans le cadre des transactions entre un fournisseur donné et un destinataire donné.
 
-<sup>4</sup> Les autorisations d’importation ou d’exportation non utilisées doivent être retournées sans délai à l’institut à l’expiration de leur durée de validité.
+<sup>4</sup> Les autorisations d’importation ou d’exportation non utilisées doivent être retournées sans délai à Swissmedic à l’expiration de leur durée de validité.
 
 #### Art. 26
 
@@ -404,23 +550,25 @@ La suspension d’autres autorisations est régie par l’art. 22.
 
 #### Art. 29
 
-**Durée de validité de l’autorisation d’importation**
+**Durée de validité de l’autorisation d’importation**[^29-1]
 
-L’autorisation unique d’importation est valable quatre mois au plus, l’autorisation générale d’importation jusqu’à la fin de l’année civile en cours.
+L’autorisation unique d’importation est valable quatre mois au plus, l’autorisation générale d’importation jusqu’à la fin de l’année civile en cours au plus.
+
+[^29-1]: Nouvelle teneur selon le ch. I de l’O du 22 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
 
 #### Art. 30
 
 **Obligation de notification**
 
-<sup>1</sup> Le titulaire d’une autorisation unique d’importation est tenu de notifier par écrit à l’institut, dans un délai de dix jours ouvrables au plus, la réception de la substance soumise à contrôle. La notification doit inclure la quantité reçue, la date d’importation et le numéro de l’autorisation d’importation délivrée par l’institut.
+<sup>1</sup> Le titulaire d’une autorisation unique d’importation est tenu de notifier par écrit à Swissmedic, dans un délai de dix jours ouvrables au plus, la réception de la substance soumise à contrôle. La notification doit inclure la quantité reçue, la date d’importation et le numéro de l’autorisation d’importation délivrée par Swissmedic.
 
-<sup>2</sup> Le titulaire d’une autorisation générale d’importation est tenu de notifier à l’institut, au plus tard dans les dix jours ouvrables qui suivent la fin de l’année civile, la quantité annuelle de substances soumises à contrôle qu’il a importée.
+<sup>2</sup> Le titulaire d’une autorisation générale d’importation est tenu de notifier à Swissmedic, au plus tard dans les dix jours ouvrables qui suivent la fin de l’année civile, la quantité annuelle de substances soumises à contrôle qu’il a importée.
 
 #### Art. 31
 
 **Établissement des autorisations d’importation**
 
-<sup>1</sup> L’institut délivre au requérant autant d’exemplaires de l’autorisation unique ou générale d’importation que nécessaire pour lui permettre d’attester son droit d’importation auprès du bureau de douane et de l’autorité compétente du pays d’exportation.
+<sup>1</sup> Swissmedic délivre au requérant autant d’exemplaires de l’autorisation unique ou générale d’importation que nécessaire pour lui permettre d’attester son droit d’importation auprès du bureau de douane et de l’autorité compétente du pays d’exportation.
 
 <sup>2</sup> Il informe l’autorité compétente du pays d’exportation en lui adressant un exemplaire de l’autorisation d’importation.
 
@@ -434,7 +582,7 @@ L’autorisation unique d’importation est valable quatre mois au plus, l’aut
 
 <sup>2</sup> Seule la preuve de l’importation autorisée doit être apportée pour l’autorisation d’exportation d’adjuvants chimiques figurant dans le tableau g.
 
-<sup>3</sup> L’institut peut délivrer une autorisation d’exportation pour des urgences humanitaires même en l’absence d’autorisation d’importation.
+<sup>3</sup> Swissmedic peut délivrer une autorisation d’exportation pour des urgences humanitaires même en l’absence d’autorisation d’importation.
 
 <sup>4</sup> Dans le cas d’urgences humanitaires, l’autorisation d’exportation peut exceptionnellement être demandée dans les trois jours ouvrables suivant l’exportation.
 
@@ -450,15 +598,15 @@ L’autorisation unique d’importation est valable quatre mois au plus, l’aut
 
 **Obligation de notification**
 
-<sup>1</sup> Le titulaire d’une autorisation unique d’exportation est tenu de notifier par écrit à l’institut, dans un délai de dix jours ouvrables au plus, l’expédition de la substance soumise à contrôle. La notification doit inclure la quantité exportée, la date d’exportation et le numéro de l’autorisation d’exportation délivrée par l’institut.
+<sup>1</sup> Le titulaire d’une autorisation unique d’exportation est tenu de notifier par écrit à Swissmedic, dans un délai de dix jours ouvrables au plus, l’expédition de la substance soumise à contrôle. La notification doit inclure la quantité exportée, la date d’exportation et le numéro de l’autorisation d’exportation délivrée par Swissmedic.
 
-<sup>2</sup> Le titulaire d’une autorisation générale d’exportation est tenu de notifier à l’institut, au plus tard dans les dix jours ouvrables qui suivent la fin de l’année civile, la quantité annuelle de substances soumises à contrôle qu’il a exportée.
+<sup>2</sup> Le titulaire d’une autorisation générale d’exportation est tenu de notifier à Swissmedic, au plus tard dans les dix jours ouvrables qui suivent la fin de l’année civile, la quantité annuelle de substances soumises à contrôle qu’il a exportée.
 
 #### Art. 35
 
 **Établissement de l’autorisation d’exportation**
 
-<sup>1</sup> L’institut délivre au requérant autant d’exemplaires de l’autorisation d’exportation que nécessaire pour lui permettre d’attester son droit d’exportation auprès du bureau de douane.
+<sup>1</sup> Swissmedic délivre au requérant autant d’exemplaires de l’autorisation d’exportation que nécessaire pour lui permettre d’attester son droit d’exportation auprès du bureau de douane.
 
 <sup>2</sup> Il informe l’autorité compétente du pays de destination en lui adressant un exemplaire de l’autorisation d’exportation.
 
@@ -486,7 +634,7 @@ L’importation, l’exportation et le transit de substances soumises à contrô
 
 **Dédouanement**
 
-<sup>1</sup> Le bureau de douane communique à l’institut toute importation et toute exportation de substances soumises à contrôle.
+<sup>1</sup> Le bureau de douane communique à Swissmedic toute importation et toute exportation de substances soumises à contrôle.
 
 <sup>2</sup> Lors de l’importation sur la base d’une autorisation unique, il confirme l’importation sur l’exemplaire de l’autorisation qui accompagne la marchandise et transmet celui-ci au titulaire de l’autorisation avec la marchandise.
 
@@ -494,13 +642,13 @@ L’importation, l’exportation et le transit de substances soumises à contrô
 
 **Contrôle par le bureau de douane**
 
-<sup>1</sup> Les bureaux de douane retiennent les envois contenant des substances soumises à contrôle qui ne sont pas munis d’une autorisation d’importation ou d’exportation et les notifient à l’institut. Cette règle ne s’applique pas aux envois visés à l’art. 32, al. 3 et 4.
+<sup>1</sup> Les bureaux de douane retiennent les envois contenant des substances soumises à contrôle qui ne sont pas munis d’une autorisation d’importation ou d’exportation et les notifient à Swissmedic. Cette règle ne s’applique pas aux envois visés à l’art. 32, al. 3 et 4.
 
-<sup>2</sup> L’institut établit si une autorisation d’importation ou une autorisation d’exportation a été délivrée ou si les conditions visées à l’art. 32, al. 4, pour une demande postérieure sont remplies.
+<sup>2</sup> Swissmedic établit si une autorisation d’importation ou une autorisation d’exportation a été délivrée ou si les conditions visées à l’art. 32, al. 4, pour une demande postérieure sont remplies.
 
 <sup>3</sup> Si une autorisation valable a été délivrée mais qu’aucun exemplaire n’a été joint à la marchandise, un délai est accordé au transporteur pour la produire. Si l’autorisation est produite, la marchandise peut être libérée.
 
-<sup>2</sup> Si un envoi retenu par le bureau de douane ne peut pas être libéré, l’institut statue sur la saisie, l’utilisation et l’élimination de la marchandise selon l’art. 70 et en informe l’autorité cantonale compétente.
+<sup>2</sup> Si un envoi retenu par le bureau de douane ne peut pas être libéré, Swissmedic statue sur la saisie, l’utilisation et l’élimination de la marchandise selon l’art. 70 et en informe l’autorité cantonale compétente.
 
 #### Art. 40
 
@@ -520,7 +668,11 @@ L’importation, l’exportation et le transit de substances soumises à contrô
 
 <sup>1</sup> Les voyageurs malades peuvent importer en Suisse, sans autorisation d’importation, la quantité de médicaments contenant des substances soumises à contrôle, hormis des substances du tableau d, nécessaire à leur traitement pour une durée maximale de 30 jours.
 
+<sup>1bis</sup> Les voyageurs malades provenant d’États liés par un des accords d’association à Schengen peuvent importer en Suisse, sans autorisation d’importation, la quantité de médicaments contenant des substances soumises à contrôle nécessaire à leur traitement pour une durée maximale de 30 jours, pour autant qu’ils détiennent un certificat conforme à l’annexe 2. Les accords d’association à Schengen sont énumérés à l’annexe 1.[^41-1]
+
 <sup>2</sup> Si leur séjour se prolonge au-delà de 30 jours, ils doivent se rendre chez un médecin autorisé à exercer en Suisse pour se faire prescrire les médicaments nécessaires.
+
+[^41-1]: Introduit par le ch. I de l’O du 22 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
 
 #### Art. 42
 
@@ -536,17 +688,17 @@ L’importation, l’exportation et le transit de substances soumises à contrô
 
 <sup>5</sup> Le certificat est valable 30 jours au maximum. Un certificat doit être établi pour chaque médicament prescrit contenant des substances soumises à contrôle. Les médicaments contenant des substances soumises à contrôle qui figurent dans le tableau c ne nécessitent pas l’établissement d’un certificat.
 
-<sup>6</sup> L’institut met à disposition, sous forme électronique, le formulaire officiel correspondant au modèle présenté à l’annexe 2.
+<sup>6</sup> Swissmedic met à disposition, sous forme électronique, le formulaire officiel correspondant au modèle présenté à l’annexe 2.
 
 #### Art. 43
 
 **Centre d’information**
 
-<sup>1</sup> L’institut remplit la fonction de centre d’information international et répond aux questions portant sur l’importation et l’exportation, par des voyageurs malades, de médicaments contenant des substances soumises à contrôle.
+<sup>1</sup> Swissmedic remplit la fonction de centre d’information international et répond aux questions portant sur l’importation et l’exportation, par des voyageurs malades, de médicaments contenant des substances soumises à contrôle.
 
-<sup>2</sup> Si certains cas particuliers l’exigent, l’institut peut transmettre à l’autorité cantonale compétente, pour examen complémentaire, les demandes des autorités étrangères concernant les certificats visés à l’art. 42. Dans ce cas, l’autorité cantonale compétente fournit directement les informations nécessaires au service étranger qui en a fait la demande.
+<sup>2</sup> Si certains cas particuliers l’exigent, Swissmedic peut transmettre à l’autorité cantonale compétente, pour examen complémentaire, les demandes des autorités étrangères concernant les certificats visés à l’art. 42. Dans ce cas, l’autorité cantonale compétente fournit directement les informations nécessaires au service étranger qui en a fait la demande.
 
-<sup>3</sup> Au début de l’année, le service cantonal compétent communique à l’institut le nombre de certificats établis durant l’année précédente.
+<sup>3</sup> Au début de l’année, le service cantonal compétent communique à Swissmedic le nombre de certificats établis durant l’année précédente.
 
 ## Chapitre 4 Acquisition et utilisation de stupéfiants par les personnes exerçant une profession médicale, par les hôpitaux, par les instituts, par les organisations et par les autorités
 
@@ -556,7 +708,7 @@ L’importation, l’exportation et le transit de substances soumises à contrô
 
 **Acquisition de médicaments contenant des substances soumises à contrôle**
 
-<sup>1</sup> Les médecins, les médecins-dentistes et les médecins-vétérinaires qui exercent leur profession sous leur propre responsabilité peuvent se procurer des médicaments contenant des substances soumises à contrôle auprès d’une pharmacie ou auprès d’une personne ou d’une entreprise titulaire d’une autorisation d’exploitation. L’art. 11, al. 4, s’applique à la distribution au cas par cas de médicaments contenant des substances soumises à contrôle.
+<sup>1</sup> Les médecins, les médecins-dentistes et les médecins-vétérinaires qui exercent leur profession sous leur propre responsabilité peuvent se procurer des médicaments contenant des substances soumises à contrôle auprès d’une pharmacie ou auprès d’une personne ou d’une entreprise titulaire d’une autorisation d’exploitation pour l’utilisation de substances soumises à contrôle. L’art. 11, al. 4, s’applique à la distribution occasionnelle de médicaments contenant des substances soumises à contrôle.[^44-1]
 
 <sup>2</sup> Ils doivent munir leur commande du *Global Location Nu**m**ber* (GLN) et de leur timbre de médecin.
 
@@ -573,6 +725,8 @@ Dans les cabinets de groupe et les services de sauvetage, seules les personnes e
 - c. la date à laquelle la commande a été établie;
 - d. le nom du médicament, son dosage et sa forme galénique;
 - e. la quantité.
+
+[^44-1]: Nouvelle teneur selon le ch. I de l’O du 22 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
 
 #### Art. 45
 
@@ -613,7 +767,7 @@ L’ordonnance de stupéfiants doit contenir:
 
 <sup>4</sup> L’ordonnance de stupéfiants doit être signée par le médecin prescripteur; une copie doit être conservée dans le dossier médical du patient.
 
-<sup>5</sup> L’institut fournit, moyennant paiement, les formules officielles des ordonnances de stupéfiants aux cantons, qui les remettent aux médecins habilités.
+<sup>5</sup> Swissmedic fournit, moyennant paiement, les formules officielles des ordonnances de stupéfiants aux cantons, qui les remettent aux médecins habilités.
 
 #### Art. 48
 
@@ -656,7 +810,7 @@ La notification visée à l’art. 11, al. 1<sup>bis</sup>, LStup doit contenir:
 - d. le nombre d’animaux traités;
 - e. l’indication.
 
-<sup>4</sup> L’institut fournit, moyennant paiement, les ordonnances de stupéfiants aux cantons, qui les remettent aux médecins-vétérinaires habilités.
+<sup>4</sup> Swissmedic fournit, moyennant paiement, les ordonnances de stupéfiants aux cantons, qui les remettent aux médecins-vétérinaires habilités.
 
 ### Section 2 Pharmaciens
 
@@ -664,7 +818,7 @@ La notification visée à l’art. 11, al. 1<sup>bis</sup>, LStup doit contenir:
 
 **Acquisition et remise**
 
-<sup>1</sup> Les pharmaciens responsables d’une pharmacie ou d’une pharmacie d’hôpital ne peuvent se procurer des substances soumises à contrôle qu’auprès d’une personne ou d’une entreprise titulaire d’une autorisation d’exploitation et seulement sur commande écrite.
+<sup>1</sup> Les pharmaciens responsables d’une pharmacie ou d’une pharmacie d’hôpital ne peuvent se procurer des substances soumises à contrôle qu’auprès d’une personne ou d’une entreprise titulaire d’une autorisation d’exploitation pour l’utilisation de substances soumises à contrôle et seulement sur commande écrite.[^51-1]
 
 <sup>2</sup>
 
@@ -676,6 +830,8 @@ Les pharmaciens d’une pharmacie peuvent remettre des médicaments contenant de
 <sup>3</sup> Sauf mention contraire du médecin ou du médecin-vétérinaire prescripteur, l’ordonnance de médicaments contenant des substances soumises à contrôle figurant dans les tableaux a et d n’est pas renouvelable.
 
 <sup>4</sup> L’acquisition partielle de médicaments prescrits contenant des substances soumises à contrôle figurant dans les tableaux b et c est possible pendant la durée de validité de l’ordonnance. La quantité remise et le centre de remise doivent être précisés sur l’ordonnance.
+
+[^51-1]: Nouvelle teneur selon le ch. I de l’O du 22 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
 
 #### Art. 52
 
@@ -721,7 +877,7 @@ Ils désignent une personne responsable des substances soumises à contrôle et 
 
 <sup>3</sup> L’inscription des médicaments contenant des substances soumises à contrôle est régie par les dispositions de la législation sur les produits thérapeutiques. Les indications concernant les précautions à prendre et les mises en garde nécessaires à la sécurité des patients doivent figurer dans les notices d’emballage.
 
-<sup>4</sup> Les emballages de médicaments prêts à l’emploi contenant des substances soumises à contrôle figurant dans le tableau a et de médicaments autorisés contenant des substances soumises à contrôle figurant dans le tableau d qui sont destinés à être mis dans le commerce en Suisse doivent être munis d’une vignette. La vignette est délivrée par l’institut. Elle peut être remplacée par une impression conforme en tous points à ladite vignette.
+<sup>4</sup> Les emballages de médicaments prêts à l’emploi contenant des substances soumises à contrôle figurant dans le tableau a et de médicaments autorisés contenant des substances soumises à contrôle figurant dans le tableau d qui sont destinés à être mis dans le commerce en Suisse doivent être munis d’une vignette. La vignette est délivrée par Swissmedic. Elle peut être remplacée par une impression conforme en tous points à ladite vignette.
 
 #### Art. 56
 
@@ -745,13 +901,22 @@ Ils désignent une personne responsable des substances soumises à contrôle et 
 
 Pour chaque substance soumise à contrôle, la comptabilité tenue en application de l’art. 17 LStup doit contenir les indications suivantes:
 
-- a.
+- a.[^57-1]
 
   culture des substances soumises à contrôle:
 
-  - 1\. nature des produits cultivés,
-  - 2\. étendue de la superficie cultivée,
-  - 3\. nature et quantité des substances soumises à contrôle obtenues;
+  - 1\. nature de la culture,
+  - 2\. variété cultivée,
+  - 3\. nature des produits cultivés,
+  - 4\. site exact et étendue de la superficie cultivée,
+  - 5\. semis,
+  - 6\. entretien,
+  - 7\. date de la récolte,
+  - 8\. rendement,
+  - 9\. pertes,
+  - 10\. élimination,
+  - 11\. nature et quantité des substances soumises à contrôle obtenues,
+  - 12\. preneur;
 
 - b.
 
@@ -797,13 +962,17 @@ Pour chaque substance soumise à contrôle, la comptabilité tenue en applicatio
 
 <sup>3</sup> Si la date à laquelle le bulletin de livraison est établi ne correspond pas à celle de la réception des substances soumises à contrôle, seule la date figurant sur le bulletin de livraison doit être inscrite dans la comptabilité.
 
+[^57-1]: Nouvelle teneur selon le ch. I de l’O du 22 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
+
 #### Art. 58
 
 **Bouclement annuel**
 
-<sup>1</sup> La comptabilité doit être bouclée pour la fin de l’année et être déposée à l’institut dans un délai d’un mois. L’institut fournit les formulaires à cet effet.
+<sup>1</sup> La comptabilité doit être bouclée pour la fin de l’année et être déposée à Swissmedic dans un délai d’un mois au moyen du système de notification mis à disposition par ce dernier.[^58-1]
 
-<sup>2</sup> Si l’institut en fait la demande, des renseignements détaillés sur les indications fournies en application de l’al. 1 doivent lui être communiqués.
+<sup>2</sup> Si Swissmedic en fait la demande, des renseignements détaillés sur les indications fournies en application de l’al. 1 doivent lui être communiqués.
+
+[^58-1]: Nouvelle teneur selon le ch. I de l’O du 22 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
 
 #### Art. 59
 
@@ -819,7 +988,7 @@ Si les cantons en font la demande, les titulaires d’une autorisation d’explo
 
 <sup>1</sup>
 
-Les personnes et entreprises titulaires d’une autorisation fédérale doivent notifier à l’institut toute sortie de stock de substances soumises à contrôle figurant dans les tableaux a, b, d et e à destination de la Suisse dans les cas suivants:
+Les personnes et entreprises titulaires d’une autorisation fédérale doivent notifier à Swissmedic toute sortie de stock de substances soumises à contrôle figurant dans les tableaux a, b, d et e à destination de la Suisse dans les cas suivants:
 
 - a. la livraison de substances soumises à contrôle à des destinataires en Suisse;
 - b. le retour aux fournisseurs de substances soumises à contrôle et de médicaments contenant des substances soumises à contrôle;
@@ -827,13 +996,15 @@ Les personnes et entreprises titulaires d’une autorisation fédérale doivent 
 
 <sup>2</sup> La notification doit intervenir au plus tard le 15 du mois suivant la livraison ou l’envoi.
 
-<sup>3</sup> Les retours de substances soumises à contrôle par des personnes exerçant une profession médicale, des pharmacies, des hôpitaux, des instituts scientifiques et des autorités cantonales et communales à des personnes ou entreprises visées à l’art. 4 LStup doivent être notifiés à l’institut par le destinataire des substances.
+<sup>3</sup> Les retours de substances soumises à contrôle par des personnes exerçant une profession médicale, des pharmacies, des hôpitaux, des instituts scientifiques et des autorités cantonales et communales à des personnes ou entreprises visées à l’art. 4 LStup doivent être notifiés à Swissmedic par le destinataire des substances.[^60-1]
 
 <sup>4</sup> Une notification distincte doit être établie pour chaque substance soumise à contrôle et pour chaque médicament contenant des substances soumises à contrôle (forme galénique, dosage et grandeur de l’emballage).
 
-<sup>5</sup> Après consultation des cantons et des milieux intéressés, l’institut peut exonérer provisoirement ou durablement certaines livraisons de l’obligation de notification si le contrôle peut être assuré d’une autre manière.
+<sup>5</sup> Après consultation des cantons et des milieux intéressés, Swissmedic peut exonérer provisoirement ou durablement certaines livraisons de l’obligation de notification si le contrôle peut être assuré d’une autre manière.
 
 <sup>6</sup> Les titulaires d’une autorisation d’exploitation délivrée par un canton notifient les mouvements de stock à destination de la Suisse audit canton, s’il le demande.
+
+[^60-1]: Nouvelle teneur selon le ch. I de l’O du 22 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
 
 #### Art. 61
 
@@ -851,7 +1022,7 @@ La notification doit contenir les indications suivantes:
 
 <sup>2</sup> La notification de préparations magistrales qui contiennent des substances soumises à contrôle doit mentionner le GTIN de la substance soumise à contrôle ainsi que le coefficient de la quantité correspondant au GTIN contenue dans la préparation.
 
-<sup>3</sup> La notification doit être effectuée au moyen du système de notification mis à disposition par l’institut. Celui-ci habilite l’autorité cantonale compétente à accéder directement à ce système.
+<sup>3</sup> La notification doit être effectuée au moyen du système de notification mis à disposition par Swissmedic. Celui-ci habilite l’autorité cantonale compétente à accéder directement à ce système.
 
 #### Art. 62
 
@@ -893,6 +1064,103 @@ La notification doit contenir les indications suivantes:
 
 <sup>2</sup> La personne responsable dans un institut scientifique, une organisation nationale ou internationale, une autorité de la Confédération, du canton ou de la commune doit être en mesure de produire à tout moment les documents attestant l’acquisition de substances soumises à contrôle et l’utilisation qui en a été faite.
 
+### Section 3**** Système d’information sur les traitements médicaux à base de stupéfiants ayant des effets de type cannabique
+
+[^chap6-sec3-1]
+
+[^chap6-sec3-1]: Introduite par le ch. I de l’O du 22 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
+
+#### Art. 65a
+
+**Pseudonymisation**
+
+<sup>1</sup> Les médecins qui traitent des patients avec des médicaments à base de cannabis sont habilités à utiliser systématiquement le numéro AVS pour pseudonymiser les données des patients.
+
+<sup>2</sup> Le pseudonyme généré pour le numéro AVS au moyen d’un processus de chiffrement à sens unique est toujours le même.
+
+<sup>3</sup> Seul le médecin traitant au sens de l’al. 1 est autorisé à traiter le numéro AVS et le numéro AVS pseudonymisé (code patient) qui lui est associé.
+
+#### Art. 65b
+
+**Collecte de données relatives aux traitements médicaux à base de stupéfiants ayant des effets de type cannabique**
+
+<sup>1</sup> L’OFSP gère un système d’information électronique destiné à collecter les données relatives aux traitements médicaux effectués avec des stupéfiants ayant des effets de type cannabique (médicaments à base de cannabis) conformément à l’art. 8*b* LStup.
+
+<sup>2</sup>
+
+Les médecins qui traitent des patients avec des médicaments à base de cannabis sont tenus de saisir les données suivantes dans le système d’information visé à l’art. 18*f* LStup:
+
+- a.
+
+  données sur la personne traitée:
+
+  - 1\. code patient,
+  - 2\. année de naissance,
+  - 3\. sexe,
+  - 4\. poids,
+  - 5\. canton de résidence;
+
+- b.
+
+  données sur le médecin traitant:
+
+  - 1\. prénom et nom,
+  - 2\. adresse,
+  - 3 titre postgrade fédéral;
+
+- c.
+
+  données sur le traitement:
+
+  - 1\. date de la prescription,
+  - 2\. traitement préalable avec des médicaments à base de cannabis et durée,
+  - 3\. indication: diagnostic et symptômes,
+  - 4\. diagnostics secondaires pertinents concernant le traitement,
+  - 5\. médicament à base de cannabis: désignation de la préparation, forme galénique, teneur totale en THC et en CBD et dosage,
+  - 6\. traitements associés pertinents concernant les symptômes: désignation des préparations et dosage,
+  - 7\. effets,
+  - 8\. effets secondaires du traitement,
+  - 9\. évolution des symptômes liée au traitement,
+  - 10\. fin du traitement: date et motif.
+
+<sup>3</sup>
+
+Ils saisissent les données immédiatement après les événements suivants:
+
+- a. la prescription initiale;
+- b. la première et la deuxième année du traitement;
+- c. la fin du traitement, si elle survient avant que la deuxième année du traitement soit écoulée.
+
+#### Art. 65c
+
+**Responsabilité du système**
+
+L’OFSP est responsable du système d’information.
+
+#### Art. 65d
+
+**Droits d’accès des médecins qui traitent des patients avec des médicaments à base de cannabis**
+
+Les médecins qui possèdent des droits d’accès peuvent consulter, modifier et supprimer les données qu’ils ont saisies.
+
+#### Art. 65e
+
+**Conservation des données**
+
+<sup>1</sup> Les données sont conservées dans le système d’information pendant dix ans au plus après la fin de la collecte.
+
+<sup>2</sup> L’archivage est régi par la législation fédérale en la matière.
+
+#### Art. 65f
+
+**Analyses statistiques**
+
+<sup>1</sup> L’OFSP publie chaque année des analyses et des relevés statistiques, en particulier concernant les indications, les effets et les effets secondaires des traitements médicaux avec des médicaments à base de cannabis.
+
+<sup>2</sup> Les autorités cantonales d’exécution et les médecins impliqués dans les traitements peuvent avoir accès dans le système d’information aux analyses statistiques anonymisées qui sont pertinentes pour leurs tâches spécifiques.
+
+<sup>3</sup> Sur demande, l’OFSP peut mettre à la disposition d’institutions de recherche qualifiées sur le plan scientifique des analyses anonymisées ou des données anonymisées à des fins de recherche.
+
 ## Chapitre 7 Exécution
 
 ### Section 1 Institut
@@ -901,7 +1169,7 @@ La notification doit contenir les indications suivantes:
 
 **Tâches générales**
 
-<sup>1</sup> L’institut exécute la présente ordonnance dans la mesure où aucune autre autorité n’est expressément compétente.
+<sup>1</sup> Swissmedic exécute la présente ordonnance dans la mesure où aucune autre autorité n’est expressément compétente.
 
 <sup>2</sup>
 
@@ -916,11 +1184,16 @@ Il publie des listes des acteurs suivants autorisés à utiliser des substances 
 - g. services transfrontaliers de sauvetage;
 - h. autorités cantonales et communales.
 
+<sup>3</sup> En ce qui concerne le cannabis destiné à des fins médicales, il assume dans le domaine du contrôle des stupéfiants la fonction d’agence de contrôle nationale du cannabis vis-à-vis de l’Organisation des Nations Unies conformément à l’art. 28 de la Convention unique sur les stupéfiants du 30 mars 1961 telle que modifiée par le Protocole du 25 mars 1972 portant amendement de la Convention unique sur les stupéfiants de 1961[^66-1].[^66-2]
+
+[^66-1]: [RS 0.812.121](https://fedlex.data.admin.ch/eli/cc/2005/48)
+[^66-2]: Introduit par le ch. I de l’O du 22 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
+
 #### Art. 67
 
 **Contrôle**
 
-<sup>1</sup> L’institut peut charger les autorités cantonales compétentes d’effectuer des contrôles particuliers s’il soupçonne des irrégularités ou contrôler le titulaire de l’autorisation en lieu et place des autorités cantonales si celles-ci ne sont pas en mesure d’effectuer les contrôles.
+<sup>1</sup> Swissmedic peut charger les autorités cantonales compétentes d’effectuer des contrôles particuliers s’il soupçonne des irrégularités ou contrôler le titulaire de l’autorisation en lieu et place des autorités cantonales si celles-ci ne sont pas en mesure d’effectuer les contrôles.
 
 <sup>2</sup> Il contrôle, en collaboration avec l’OFDF, le respect des dispositions relatives à l’importation, à l’exportation et au transit de substances soumises à contrôle.
 
@@ -932,7 +1205,7 @@ Il publie des listes des acteurs suivants autorisés à utiliser des substances 
 
 **Évaluations**
 
-L’institut établit les évaluations annuelles des besoins en substances soumises à contrôle que la Suisse est tenue de fournir en vertu des accords internationaux ratifiés par elle.
+Swissmedic établit les évaluations annuelles des besoins en substances soumises à contrôle que la Suisse est tenue de fournir en vertu des accords internationaux ratifiés par elle.
 
 ### Section 2 Cantons
 
@@ -964,9 +1237,9 @@ L’institut établit les évaluations annuelles des besoins en substances soumi
 
 <sup>1</sup> Le DFI exécute la présente ordonnance en ce qui concerne les matières premières et les produits ayant un effet supposé similaire à celui des substances et des préparations figurant dans le tableau e.
 
-<sup>2</sup> Si des matières premières ou des produits ayant un effet supposé similaire à celui des substances et des préparations font leur apparition sur le marché ou s’il y a lieu de soupçonner que des matières premières et des produits connus ont un effet similaire à celui des substances et des préparations, le DFI, sur demande de l’institut, procède sans délai à leur inscription sur le tableau e.
+<sup>2</sup> Si des matières premières ou des produits ayant un effet supposé similaire à celui des substances et des préparations font leur apparition sur le marché ou s’il y a lieu de soupçonner que des matières premières et des produits connus ont un effet similaire à celui des substances et des préparations, le DFI, sur demande de Swissmedic, procède sans délai à leur inscription sur le tableau e.
 
-<sup>3</sup> Après vérification de l’institut et sur demande de celui-ci, il attribue à un autre tableau ou biffe du tableau des stupéfiants les matières premières et les produits.
+<sup>3</sup> Après vérification de Swissmedic et sur demande de celui-ci, il attribue à un autre tableau ou biffe du tableau des stupéfiants les matières premières et les produits.
 
 #### Art. 72
 
@@ -974,9 +1247,10 @@ L’institut établit les évaluations annuelles des besoins en substances soumi
 
 <sup>1</sup> L’OFSP exécute la présente ordonnance en ce qui concerne les substances soumises à contrôle figurant dans le tableau d, dans la mesure où celles-ci ne sont pas utilisées comme principes actifs dans un médicament autorisé.
 
-<sup>2</sup> Dans le domaine du contrôle des stupéfiants, il assume vis-à-vis de l’Organisation des Nations Unies la fonction d’agence nationale de contrôle du cannabis selon l’art. 28 de la Convention unique sur les stupéfiants du 30 mars 1961 telle que modifiée par le Protocole du 25 mars 1972 portant amendement de la Convention unique sur les stupéfiants de 1961[^72-1].
+<sup>2</sup> En ce qui concerne le cannabis destiné à des fins non médicales, il assume dans le domaine du contrôle des stupéfiants la fonction d’agence de contrôle nationale du cannabis vis-à-vis de l’Organisation des Nations Unies conformément à l’art. 28 de la Convention unique sur les stupéfiants du 30 mars 1961 telle que modifiée par le Protocole du 25 mars 1972 portant amendement de la Convention unique sur les stupéfiants de 1961[^72-1].[^72-2]
 
 [^72-1]: [RS 0.812.121](https://fedlex.data.admin.ch/eli/cc/2005/48)
+[^72-2]: Nouvelle teneur selon le ch. I de l’O du 22 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
 
 ### Section 4 Collaboration et transmission des données
 
@@ -990,45 +1264,47 @@ Les autorités de la Confédération et des cantons chargées de l’exécution 
 
 **Système de conservation des dossiers**
 
-L’institut exploite un système interne de conservation des dossiers dans lequel il enregistre les données en relation avec les autorisations délivrées et les notifications reçues. Le système peut également contenir des données relatives aux poursuites administratives et pénales.
+Swissmedic exploite un système interne de conservation des dossiers dans lequel il enregistre les données en relation avec les autorisations délivrées et les notifications reçues. Le système peut également contenir des données relatives aux poursuites administratives et pénales.
 
 #### Art. 75
 
 **Traitement des données**
 
-<sup>1</sup> L’autorité cantonale compétente transmet à l’institut les données complètes relatives aux personnes exerçant une profession médicale, aux hôpitaux et aux instituts scientifiques habilités à se procurer, entreposer, prescrire, utiliser ou remettre des substances soumises à contrôle. Les médecins reconnus comme propharmaciens font l’objet d’une mention spéciale.
+<sup>1</sup> L’autorité cantonale compétente transmet à Swissmedic les données complètes relatives aux personnes exerçant une profession médicale, aux hôpitaux et aux instituts scientifiques habilités à se procurer, entreposer, prescrire, utiliser ou remettre des substances soumises à contrôle. Les médecins reconnus comme propharmaciens font l’objet d’une mention spéciale.[^75-1]
 
-<sup>2</sup> L’institut définit la forme et les délais de transmission des données visées à l’al. 1.
+<sup>2</sup> Swissmedic définit la forme et les délais de transmission des données visées à l’al. 1.
+
+[^75-1]: Nouvelle teneur selon le ch. I de l’O du 22 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
 
 #### Art. 76
 
-**Collaboration entre l’Office fédéral de la police et l’institut**
+**Collaboration entre l’Office fédéral de la police et Swissmedic**
 
-<sup>1</sup> L’institut communique à l’Office fédéral de la police les renseignements qui lui sont nécessaires pour remplir les tâches lui incombant dans le cadre de la répression du trafic illicite de substances soumises à contrôle.
+<sup>1</sup> Swissmedic communique à l’Office fédéral de la police les renseignements qui lui sont nécessaires pour remplir les tâches lui incombant dans le cadre de la répression du trafic illicite de substances soumises à contrôle.
 
-<sup>2</sup> L’Office fédéral de la police renseigne l’institut sur les constatations et observations en rapport avec la LStup.
+<sup>2</sup> L’Office fédéral de la police renseigne Swissmedic sur les constatations et observations en rapport avec la LStup.
 
 #### Art. 77
 
-**Collaboration entre le DFI et l’institut**
+**Collaboration entre le DFI et Swissmedic**
 
-<sup>1</sup> Le DFI et l’institut collaborent dans le cadre de leurs tâches de contrôle et se tiennent mutuellement informés en permanence.
+<sup>1</sup> Le DFI et Swissmedic collaborent dans le cadre de leurs tâches de contrôle et se tiennent mutuellement informés en permanence.
 
-<sup>2</sup> Le DFI transmet à l’institut les données complètes relatives à tous les titulaires d’une autorisation qui sont habilités à se procurer, négocier, importer, exporter, fabriquer, remettre ou mettre dans le commerce des substances soumises à contrôle figurant dans le tableau e. Il notifie toute modification à l’institut.
+<sup>2</sup> Le DFI transmet à Swissmedic les données complètes relatives à tous les titulaires d’une autorisation qui sont habilités à se procurer, négocier, importer, exporter, fabriquer, remettre ou mettre dans le commerce des substances soumises à contrôle figurant dans le tableau e. Il notifie toute modification à Swissmedic.
 
 #### Art. 78
 
-**Collaboration entre l’OFSP et l’institut**
+**Collaboration entre l’OFSP et Swissmedic**
 
-<sup>1</sup> L’OFSP et l’institut collaborent dans l’exécution de leurs tâches de contrôle et se tiennent mutuellement informés en permanence.
+<sup>1</sup> L’OFSP et Swissmedic collaborent dans l’exécution de leurs tâches de contrôle et se tiennent mutuellement informés en permanence.
 
-<sup>2</sup> L’OFSP transmet à l’institut les données complètes relatives à tous les titulaires d’une autorisation qui sont habilités à se procurer, négocier, importer, exporter, cultiver, fabriquer, remettre ou mettre dans le commerce des substances soumises à contrôle figurant dans le tableau d. Il notifie toute modification à l’institut.
+<sup>2</sup> L’OFSP transmet à Swissmedic les données complètes relatives à tous les titulaires d’une autorisation qui sont habilités à se procurer, négocier, importer, exporter, cultiver, fabriquer, remettre ou mettre dans le commerce des substances soumises à contrôle figurant dans le tableau d. Il notifie toute modification à Swissmedic.
 
 #### Art. 79
 
 **Échanges internationaux**
 
-<sup>1</sup> L’institut veille à ce que les notifications imposées par les accords internationaux parviennent aux organes compétents dans les délais prescrits.
+<sup>1</sup> Swissmedic veille à ce que les notifications imposées par les accords internationaux parviennent aux organes compétents dans les délais prescrits.
 
 <sup>2</sup> Il publie les notifications et informations prévues par les accords internationaux ratifiés par la Suisse.
 
@@ -1044,18 +1320,68 @@ Il peut, avec l’accord des organes et autorités ci-dessous, traiter des docum
 [^79-1]: [RS 0.812.121](https://fedlex.data.admin.ch/eli/cc/2005/48)
 [^79-2]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
 
+### Section 4*a***** Traitement des données
+
+[^chap7-sec4a-1]
+
+[^chap7-sec4a-1]: Introduite par le ch. I de l’O du 22 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
+
+#### Art. 79a
+
+**Traitement des données**
+
+<sup>1</sup>
+
+Afin d’accorder les autorisations visées aux art. 4, 5 et 8, al. 5 à 8, LStup ou d’en vérifier le respect, l’OFSP et Swissmedic peuvent traiter les données personnelles suivantes des requérants et des titulaires d’autorisations:
+
+- a. données relatives à l’identité;
+- b. données relatives au domicile, au siège social et aux lieux d’exploitation;
+- c. données sur les inscriptions au registre du commerce;
+- d. données sur les poursuites pénales;
+- e. données sur les procédures de droit des poursuites;
+- f. données sur la formation professionnelle et les qualifications.
+
+<sup>2</sup>
+
+Afin d’accorder des autorisations exceptionnelles visées à l’art. 8, al. 5 à 8, LStup, l’OFSP peut en outre traiter les données personnelles suivantes:
+
+- a.
+
+  concernant les patients:
+
+  - 1\. données relatives à l’identité,
+  - 2\. données relatives au dossier médical pertinentes pour l’évaluation de l’application médicale limitée de stupéfiants interdits;
+
+- b.
+
+  concernant les médecins traitants:
+
+  - 1\. données relatives à l’identité,
+  - 2\. données relatives à la formation postgrade.
+
+<sup>3</sup> L’OFSP et Swissmedic veillent à ce que seules les personnes chargées du traitement des autorisations visées aux art. 4, 5 et 8, al. 5 à 8, LStup aient accès aux données mentionnées aux al. 1 et 2.
+
+#### Art. 79b
+
+**Conservation des données visées à l’art. 79*a***
+
+<sup>1</sup> Les données visées à l’art. 79*a* sont conservées dans un système de gestion électronique des affaires pendant dix ans au plus après la fin de la collecte.
+
+<sup>2</sup> L’archivage est régi par la législation fédérale en la matière.
+
 ### Section 5 Émoluments
 
 #### Art. 80
 
-<sup>1</sup> Les émoluments perçus par l’institut sont calculés conformément à l’ordonnance du 22 juin 2006 sur les émoluments des produits thérapeutiques[^80-1].
+<sup>1</sup> Les émoluments perçus par Swissmedic sont calculés conformément à l’ordonnance du 14 septembre 2018 de l’Institut suisse des produits thérapeutiques sur ses émoluments[^80-1].[^80-2]
 
-<sup>2</sup> L’institut peut exonérer des organisations à caractère humanitaire, des organisations internationales et des autorités de l’obligation de verser des émoluments si cela n’a pas été prévu dans l’autorisation du Conseil fédéral.
+<sup>2</sup> Swissmedic peut exonérer des organisations à caractère humanitaire, des organisations internationales et des autorités de l’obligation de verser des émoluments si cela n’a pas été prévu dans l’autorisation du Conseil fédéral.
 
-<sup>3</sup> Les émoluments perçus par le DFI et l’OFSP sont calculés conformément aux art. 38 à 40 de l’OAStup[^80-2].
+<sup>3</sup> Les émoluments perçus par le DFI et l’OFSP sont calculés conformément aux art. 38 à 40 de l’OAStup[^80-3].
 
 [^80-1]: [RS 812.214.5](https://fedlex.data.admin.ch/eli/cc/2018/593)
-[^80-2]: [RS 812.121.6](https://fedlex.data.admin.ch/eli/cc/2011/364)
+[^80-2]: Nouvelle teneur selon le ch. I de l’O du 22 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
+[^80-3]: [RS 812.121.6](https://fedlex.data.admin.ch/eli/cc/2011/364)
 
 ## Chapitre 8 Organisations nationales et internationales
 
@@ -1083,9 +1409,9 @@ Le Conseil fédéral peut octroyer pour une durée de cinq ans à une organisati
 
 **Contrôle**
 
-<sup>1</sup> L’organisation nationale ou internationale titulaire d’une autorisation délivrée par le Conseil fédéral (art. 14*a*, al. 1, LStup) est tenue de mener un contrôle spécifique de ses stocks au sens de l’art. 57 pour chaque médicament autorisé contenant des substances soumises à contrôle de nature et dosage similaires, mais aussi, à la fin de l’année, de remettre à l’institut un inventaire conforme à l’art. 58.
+<sup>1</sup> L’organisation nationale ou internationale titulaire d’une autorisation délivrée par le Conseil fédéral (art. 14*a*, al. 1, LStup) est tenue de mener un contrôle spécifique de ses stocks au sens de l’art. 57 pour chaque médicament autorisé contenant des substances soumises à contrôle de nature et dosage similaires, mais aussi, à la fin de l’année, de remettre à Swissmedic un inventaire conforme à l’art. 58.
 
-<sup>2</sup> L’institut vérifie l’exactitude du contrôle des stocks. Il est habilité à cet effet à pénétrer dans les locaux d’entreposage et à vérifier les stocks de médicaments contenant des substances soumises à contrôle.
+<sup>2</sup> Swissmedic vérifie l’exactitude du contrôle des stocks. Il est habilité à cet effet à pénétrer dans les locaux d’entreposage et à vérifier les stocks de médicaments contenant des substances soumises à contrôle.
 
 ## Chapitre 9 Sanctions
 
@@ -1110,7 +1436,7 @@ En application de l’art. 22, al. 1, let. d, LStup, est puni quiconque, intenti
 
 **Ouverture de la poursuite pénale en cas d’infraction**
 
-<sup>1</sup> Si des substances soumises à contrôle sont retenues à la douane (art. 40, al. 1) et si l’examen effectué par l’institut (art. 40, al. 2) établit que le soupçon de violation des dispositions de la présente ordonnance est fondé, ou s’il n’est pas possible de prouver que l’envoi a été effectué de manière conforme aux prescriptions du pays de destination au moment de l’entrée de la marchandise sur le territoire douanier suisse, l’institut transmet le dossier à l’autorité cantonale chargée de poursuivre les infractions (art. 28 LStup).
+<sup>1</sup> Si des substances soumises à contrôle sont retenues à la douane (art. 40, al. 1) et si l’examen effectué par Swissmedic (art. 40, al. 2) établit que le soupçon de violation des dispositions de la présente ordonnance est fondé, ou s’il n’est pas possible de prouver que l’envoi a été effectué de manière conforme aux prescriptions du pays de destination au moment de l’entrée de la marchandise sur le territoire douanier suisse, Swissmedic transmet le dossier à l’autorité cantonale chargée de poursuivre les infractions (art. 28 LStup).
 
 <sup>2</sup> Les substances soumises à contrôle confisquées lors de la poursuite d’infractions (art. 69 du code pénal[^85-1]) peuvent être utilisées à des fins légales ou être éliminées conformément à l’art. 70.
 
@@ -1160,6 +1486,14 @@ Les ordonnances ci-après sont modifiées comme suit:
 
 <sup>2</sup> Les autorisations délivrées avant l’entrée en vigueur de la présente ordonnance restent valables.
 
+#### Art. 88a
+
+**Dispositions transitoires relatives à la modification du 22 juin 2022**[^88a-1]
+
+Les autorisations exceptionnelles délivrées par l’OFSP pour la culture, l’importation, la fabrication et la mise dans le commerce à des fins médicales de stupéfiants ayant des effets de type cannabique conformément à l’art. 8, al. 5, LStup de l’ancien droit restent valables jusqu’à leur date d’expiration, mais pendant douze mois au plus après l’entrée en vigueur de la modification du 22 juin 2022.
+
+[^88a-1]: Introduit par le ch. I de l’O du 22 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
+
 #### Art. 89
 
 **Entrée en vigueur**
@@ -1168,11 +1502,13 @@ Les ordonnances ci-après sont modifiées comme suit:
 
 <sup>2</sup> L’art. 60 entre en vigueur le 1<sup>er</sup> janvier 2013 pour les substances soumises à contrôle figurant dans le tableau b.
 
-Annexe 1
+Annexe 1*[^t-1]*
 
-(art. 42, al. 2)
+(art. 41, al. 1<sup>bis</sup>, et 42, al. 2)
 
 ## Accords d’association à Schengen
+
+[^t-1]: Mise à jour par le ch. II al. 1 de l’O du 22 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
 
 Les accords d’association à Schengen comprennent les accords suivants:
 
@@ -1188,12 +1524,14 @@ Les accords d’association à Schengen comprennent les accords suivants:
 [^annex1-lvlu1-4]: [RS 0.362.33](https://fedlex.data.admin.ch/eli/cc/2008/114)
 [^annex1-lvlu1-5]: [RS 0.362.311](https://fedlex.data.admin.ch/eli/cc/2011/205)
 
-Annexe 2
+Annexe 2*[^t-2]*
 
-(art. 42, al. 6)
+(art. 41, al. 1<sup>bis</sup>, et 42, al. 6)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/362/20220101/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/362/20220801/fr/xml/image/image1.png)
 
 Verso du certificat
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/362/20220101/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/362/20220801/fr/xml/image/image2.png)
+
+[^t-2]: Mise à jour par le ch. II al. 2 de l’O du 22 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).

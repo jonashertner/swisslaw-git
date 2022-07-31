@@ -4,11 +4,11 @@ title: "Verordnung vom 25. Mai 2011 über die Betäubungsmittelkontrolle (Betäu
 short: BetmKV
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/362"
 language: de
-version: 2022-01-01
+version: 2022-08-01
 adopted: 2011-05-25
 in_force: 2011-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/362/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2011-362-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/362/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/362/20220801/de/xml/fedlex-data-admin-ch-eli-cc-2011-362-20220801-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/362/20220801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,15 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/362/20220101/de"
 
 (Betäubungsmittelkontrollverordnung, BetmKV)
 
-vom 25. Mai 2011 (Stand am 1. Januar 2022)
+vom 25. Mai 2011 (Stand am 1. August 2022)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf die Artikel 3 Absätze 1 und 2, 9 Absatz 3 und 30 Absätze 1 und 2 des Betäubungsmittelgesetzes vom 3. Oktober 1951[^ingress-1] (BetmG),
+gestützt auf die Artikel 3 Absätze 1 und 2, 18*f* Absätze 3 und 4 und 30 Absätze 1 und 2 des Betäubungsmittelgesetzes vom 3. Oktober 1951[^ingress-1] (BetmG),[^ingress-2]
 
 verordnet:
 
 [^ingress-1]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^ingress-2]: Fassung gemäss Ziff. I der V vom 22. Juni 2022, in Kraft seit 1. Aug. 2022 ([AS 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
@@ -108,16 +109,22 @@ Die Bestimmungen dieser Verordnung sind nicht anwendbar auf:
 
 #### Art. 5
 
-**Betriebsbewilligung**
+**Betriebsbewilligungen[^5-1]**
 
 <sup>1</sup>
 
 Die Betriebsbewilligung für den Umgang mit kontrollierten Substanzen der Verzeichnisse a, b, c und f und mit zugelassenen Arzneimitteln, die kontrollierte Substanzen des Verzeichnisses d enthalten, wird erteilt:
 
-- a. Personen und Unternehmen, einschliesslich Mäklerinnen und Mäklern sowie Agentinnen und Agenten, und der Armeeapotheke: vom Schweizerische Heilmittelinstitut (Institut);
+- a. Personen und Unternehmen, einschliesslich Mäklerinnen und Mäklern sowie Agentinnen und Agenten, und der Armeeapotheke: vom Schweizerische Heilmittelinstitut (Swissmedic[^5-2]);
 - b. Apotheken, Spitälern und wissenschaftliche Instituten sowie kantonalen und kommunalen Behörden: vom Kanton.
 
 <sup>2</sup> Die Betriebsbewilligung für den Umgang mit kontrollierten Substanzen des Verzeichnisses e wird vom EDI erteilt.
+
+<sup>3</sup> Die Betriebsbewilligung für den Anbau von Pflanzen oder Pilzen, die kontrollierte Substanzen der Verzeichnisse a, b und f enthalten, wird von der Swissmedic erteilt.[^5-3]
+
+[^5-1]: Fassung gemäss Ziff. I der V vom 22. Juni 2022, in Kraft seit 1. Aug. 2022 ([AS 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
+[^5-2]: Ausdruck gemäss Ziff. I der V vom 22. Juni 2022, in Kraft seit 1. Aug. 2022 ([AS 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^5-3]: Eingefügt durch Ziff. I der V vom 22. Juni 2022, in Kraft seit 1. Aug. 2022 ([AS 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
 
 #### Art. 6
 
@@ -125,11 +132,19 @@ Die Betriebsbewilligung für den Umgang mit kontrollierten Substanzen der Verzei
 
 Die Bewilligung für die diacetylmorphingestützte Behandlung wird vom Bundesamt für Gesundheit (BAG) erteilt.
 
+#### Art. 6a
+
+**Einzelanbaubewilligung**[^6a-1]
+
+Die Einzelanbaubewilligung wird von der Swissmedic erteilt.
+
+[^6a-1]: Eingefügt durch Ziff. I der V vom 22. Juni 2022, in Kraft seit 1. Aug. 2022 ([AS 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
+
 #### Art. 7
 
 **Ein- und Ausfuhrbewilligung**
 
-Die Ein- und Ausfuhrbewilligungen werden vom Institut erteilt.
+Die Ein- und Ausfuhrbewilligungen werden von der Swissmedic erteilt.
 
 #### Art. 8
 
@@ -153,23 +168,29 @@ Die Bewilligungen für die internationalen und nationalen Organisationen sowie B
 
 <sup>3</sup> Erwecken Umstände den Verdacht eines Missbrauchs, so treffen die verantwortlichen Personen, gegebenenfalls zusammen mit dem betroffenen Berufs- oder Branchenverband oder der verschreibenden Medizinalperson, die notwendigen Abklärungen und benachrichtigen umgehend die für sie zuständige Kontrollbehörde. In einem solchen Fall darf die kontrollierte Substanz nur weitergegeben werden, wenn die Untersuchungen durch die Behörde den Verdacht als unbegründet erscheinen lassen.
 
-<sup>4</sup> Bei begründetem Verdacht eines wesentlichen Missbrauchs informieren die kantonalen Behörden unverzüglich das Institut. Dieses trägt die Informationen zusammen und leitet sie der Zentralstelle für die Bekämpfung des unerlaubten Betäubungsmittelverkehrs beim Bundesamt für Polizei (Art. 29*b* BetmG) und dem BAG weiter.
+<sup>4</sup> Bei begründetem Verdacht eines wesentlichen Missbrauchs informieren die kantonalen Behörden unverzüglich die Swissmedic. Dieses trägt die Informationen zusammen und leitet sie der Zentralstelle für die Bekämpfung des unerlaubten Betäubungsmittelverkehrs beim Bundesamt für Polizei (Art. 29*b* BetmG) und dem BAG weiter.
 
-## 2. Kapitel: Betriebs- und Anbaubewilligung
+## 2. Kapitel: Betriebsbewilligungen****
+
+[^chap2-1]
+
+[^chap2-1]: Fassung gemäss Ziff. I der V vom 22. Juni 2022, in Kraft seit 1. Aug. 2022 ([AS 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
 
 ### 1. Abschnitt: Allgemeine Bestimmungen
 
 #### Art. 11
 
-**Bewilligungspflicht**
+**Bewilligungspflicht**[^11-1]
 
-<sup>1</sup> Wer kontrollierte Substanzen, ausgenommen Hilfschemikalien, herstellen, beziehen, vermitteln, ein- und ausführen, abgeben oder mit diesen Handel treiben will, benötigt vorgängig eine Betriebsbewilligung.
+<sup>1</sup> Wer kontrollierte Substanzen, ausgenommen Hilfschemikalien, herstellen, beziehen, vermitteln, ein- und ausführen, abgeben oder mit diesen Handel treiben will, benötigt eine Betriebsbewilligung für den Umgang mit kontrollierten Substanzen.
 
-<sup>2</sup> Wer Pflanzen oder Pilze, die kontrollierte Substanzen enthalten, anbauen will, benötigt eine Anbaubewilligung.
+<sup>2</sup> Wer Pflanzen oder Pilze, die kontrollierte Substanzen enthalten, anbauen will, benötigt eine Betriebsbewilligung für den Anbau von Pflanzen oder Pilzen, die kontrollierte Substanzen enthalten.
 
-<sup>3</sup> Medizinalpersonen benötigen neben ihrer Berufsausübungsbewilligung keine zusätzliche Betriebsbewilligung.
+<sup>3</sup> Medizinalpersonen benötigen neben ihrer Berufsausübungsbewilligung keine zusätzliche Betriebsbewilligung für den Umgang mit kontrollierten Substanzen.
 
-<sup>4</sup> Apotheken benötigen für die einzelfallweise Vermittlung von Arzneimitteln mit kontrollierten Substanzen keine Betriebsbewilligung des Instituts. Bei mehr als neun Vermittlungen pro Kalenderjahr ist eine Betriebsbewilligung erforderlich.
+<sup>4</sup> Apotheken benötigen für die einzelfallweise Vermittlung von Arzneimitteln mit kontrollierten Substanzen keine Betriebsbewilligung der Swissmedic für den Umgang mit kontrollierten Substanzen. Bei mehr als neun Vermittlungen pro Kalenderjahr ist eine Betriebsbewilligung für den Umgang mit kontrollierten Substanzen erforderlich.
+
+[^11-1]: Fassung gemäss Ziff. I der V vom 22. Juni 2022, in Kraft seit 1. Aug. 2022 ([AS 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
 
 #### Art. 12
 
@@ -177,11 +198,23 @@ Die Bewilligungen für die internationalen und nationalen Organisationen sowie B
 
 <sup>1</sup>
 
-Eine Betriebsbewilligung wird erteilt, wenn die gesuchstellende Person oder das gesuchstellende Unternehmen:
+Eine Betriebsbewilligung für den Umgang mit kontrollierten Substanzen wird erteilt, wenn die Gesuchstellerin oder der Gesuchsteller:[^12-1]
 
 - a. im Hauptregister des Handelsregisters eingetragen ist;
 - b. die Lagerung der kontrollierten Substanzen nach Artikel 54 gewährleistet; und
 - c. eine für kontrollierte Substanzen verantwortliche Person bezeichnet, die für die Einhaltung der betäubungsmittelrechtlichen Bestimmungen verantwortlich ist.
+
+<sup>1bis</sup>
+
+Eine Betriebsbewilligung für den Anbau von Pflanzen oder Pilzen, die kontrollierte Substanzen enthalten, wird erteilt, wenn die Gesuchstellerin oder der Gesuchsteller:
+
+- a. die Voraussetzungen nach Absatz 1 erfüllt; und
+- b.
+
+  nachweist, dass Massnahmen getroffen wurden, um:
+
+  - 1\. ausreichenden Schutz vor Diebstahl zu gewähren, und
+  - 2\. die Verwendung der Pflanzen oder Pilze für andere Zwecke zu verhindern.[^12-2]
 
 <sup>2</sup>
 
@@ -192,9 +225,11 @@ Das Erfordernis des Handelsregistereintrags gilt nicht für:
 - c. Hochschulen;
 - d. die Organisationen der Vereinten Nationen.
 
-<sup>3</sup> Die Bewilligungen für betäubungsmittelgestützte Behandlungen richten sich nach der Betäubungsmittelsuchtverordnung vom 25. Mai 2011[^12-1] (BetmSV).
+<sup>3</sup> Die Bewilligungen für betäubungsmittelgestützte Behandlungen richten sich nach der Betäubungsmittelsuchtverordnung vom 25. Mai 2011[^12-3] (BetmSV).
 
-[^12-1]: [SR 812.121.6](https://fedlex.data.admin.ch/eli/cc/2011/364)
+[^12-1]: Fassung gemäss Ziff. I der V vom 22. Juni 2022, in Kraft seit 1. Aug. 2022 ([AS 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
+[^12-2]: Eingefügt durch Ziff. I der V vom 22. Juni 2022, in Kraft seit 1. Aug. 2022 ([AS 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
+[^12-3]: [SR 812.121.6](https://fedlex.data.admin.ch/eli/cc/2011/364)
 
 #### Art. 13
 
@@ -208,26 +243,19 @@ Die verantwortliche Person muss:
 - b. mit der Gesuchstellerin oder dem Gesuchsteller in einem schriftlichen Vertrag die Verantwortlichkeit und Präsenzpflicht regeln, sofern sie nicht selber Gesuchstellerin ist; und
 - c. ihre fachliche Tätigkeit weisungsunabhängig ausüben können.
 
+<sup>1bis</sup> Die für den Anbau von Pflanzen oder Pilzen, die kontrollierte Substanzen enthalten, verantwortliche Person kann auch über ein Diplom einer universitären Hochschule oder Fachhochschule in den Bereichen Agrar-, Umwelt- oder Forstwissenschaft verfügen.[^13-1]
+
 <sup>2</sup> Die zuständige Behörde kann Personen als verantwortliche Personen zulassen, die über gleichwertige, an ausländischen Hochschulen erworbene Diplome der genannten Berufe und nachweislich über die nötigen Fachkenntnisse verfügen.
 
-<sup>3</sup> Ist die Betriebsbewilligung auf kontrollierte Substanzen des Verzeichnisses f (Vorläuferstoffe) begrenzt, so kann das Institut als verantwortliche Person Personen zulassen, die über ein Diplom einer Fachhochschule oder einer höheren Fachschule im Bereich der Naturwissenschaften und nachweislich über die nötigen Fachkenntnisse verfügen.
+<sup>3</sup> Ist die Betriebsbewilligung auf kontrollierte Substanzen des Verzeichnisses f (Vorläuferstoffe) begrenzt, so kann die Swissmedic als verantwortliche Person Personen zulassen, die über ein Diplom einer Fachhochschule oder einer höheren Fachschule im Bereich der Naturwissenschaften und nachweislich über die nötigen Fachkenntnisse verfügen.
+
+[^13-1]: Eingefügt durch Ziff. I der V vom 22. Juni 2022, in Kraft seit 1. Aug. 2022 ([AS 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
 
 #### Art. 14
 
-**Anbaubewilligung**
+[^14-1]
 
-<sup>1</sup>
-
-Wer Pflanzen oder Pilze, die kontrollierte Substanzen enthalten, anbauen will, erhält eine Anbaubewilligung, wenn sie oder er:
-
-- a. über eine Betriebsbewilligung verfügt; oder
-- b. im Auftrag einer Inhaberin oder eines Inhabers einer Betriebsbewilligung handelt.
-
-<sup>2</sup> Die gesuchstellende Person muss zudem nachweisen, dass ein System vorhanden ist, das ausreichenden Schutz gegen Diebstahl bietet.
-
-<sup>3</sup> Der Vertrag nach Absatz 1 Buchstabe b muss schriftlich abgefasst sein und genaue Angaben über Art und Menge des Anbaus sowie die Verpflichtung der Auftraggeberin oder des Auftraggebers enthalten, die ganze Ernte der beauftragten Person zu übernehmen.
-
-<sup>4</sup> Erfolgt der Anbau direkt durch Personen oder Unternehmen, die über eine Betriebsbewilligung des Instituts verfügen, so kann diese Tätigkeit in der Betriebsbewilligung erwähnt werden.
+[^14-1]: Aufgehoben durch Ziff. I der V vom 22. Juni 2022, mit Wirkung seit 1. Aug. 2022 ([AS 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
 
 ### 2. Abschnitt: Gesuch
 
@@ -235,7 +263,7 @@ Wer Pflanzen oder Pilze, die kontrollierte Substanzen enthalten, anbauen will, e
 
 <sup>1</sup>
 
-Im Gesuch für eine Bewilligung sind folgende Angaben zu machen:
+Im Gesuch für eine Betriebsbewilligung für den Umgang mit kontrollierten Substanzen oder für den Anbau von Pflanzen oder Pilzen, die kontrollierte Substanzen enthalten, sind folgende Angaben zu machen:[^15-1]
 
 - a. Name und Vorname beziehungsweise Bezeichnung gemäss Handelsregister, wenn es sich um eine juristische Person handelt, sowie Name, Vorname, Geburtsdatum und Funktion der für die kontrollierten Substanzen verantwortlichen Person;
 - b. Wohn- oder Geschäftssitz und Betriebsstandorte (Adressen);
@@ -251,13 +279,17 @@ Dem Bewilligungsgesuch sind folgende Ausweise beizulegen:
 - b. Strafregisterauszug der verantwortlichen Person, der nicht älter als sechs Monate ist;
 - c. Berufsabschlussdiplome und den beruflichen Werdegang der verantwortlichen Person.
 
+[^15-1]: Fassung gemäss Ziff. I der V vom 22. Juni 2022, in Kraft seit 1. Aug. 2022 ([AS 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
+
 ### 3. Abschnitt: Wirkung und Geltungsdauer
 
 #### Art. 16
 
-**Wirkung der Betriebsbewilligung**
+**Wirkung der Betriebsbewilligungen[^16-1]**
 
-Die Betriebsbewilligung ermächtigt deren Inhaberin oder Inhaber zur Abgabe und zur Vermittlung kontrollierter Substanzen an:
+<sup>1</sup>
+
+Die Betriebsbewilligung für den Umgang mit kontrollierten Substanzen ermächtigt deren Inhaberin oder Inhaber zur Abgabe und zur Vermittlung kontrollierter Substanzen an:[^16-2]
 
 - a. Personen und Unternehmen, die eine Bewilligung nach Artikel 4 Absatz 1 BetmG oder eine Ausnahmebewilligung nach Artikel 8 Absätze 5–8 BetmG besitzen;
 - b. verantwortliche Leiterinnen und Leiter einer Apotheke oder einer Spitalapotheke;
@@ -267,46 +299,74 @@ Die Betriebsbewilligung ermächtigt deren Inhaberin oder Inhaber zur Abgabe und 
 - f. die verantwortliche Person von nationalen oder internationalen Organisationen, die eine Bewilligung nach Artikel 14*a* Absatz 1 BetmG besitzen;
 - g. die verantwortliche Person von Behörden des Bundes, der Kantone und der Gemeinden, die eine Bewilligung gemäss Artikel 14*a* Absatz 1 oder 1<sup>bis</sup> BetmG besitzen.
 
+<sup>2</sup>
+
+Die Betriebsbewilligung für den Anbau von Pflanzen oder Pilzen, die kontrollierte Substanzen enthalten, ermächtigt deren Inhaberin oder Inhaber:
+
+- a. zum Bezug von zum Anbau benötigtem Saat- und Pflanzgut;
+- b. zur Abgabe von Pflanzen oder Pilzen, die kontrollierte Substanzen enthalten, an die im Abnahmevertrag genannte Auftraggeberin oder den im Abnahmevertrag genannten Auftraggeber.[^16-3]
+
+[^16-1]: Fassung gemäss Ziff. I der V vom 22. Juni 2022, in Kraft seit 1. Aug. 2022 ([AS 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
+[^16-2]: Fassung gemäss Ziff. I der V vom 22. Juni 2022, in Kraft seit 1. Aug. 2022 ([AS 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
+[^16-3]: Eingefügt durch Ziff. I der V vom 22. Juni 2022, in Kraft seit 1. Aug. 2022 ([AS 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
+
 #### Art. 17
 
-**Umfang**
+**Umfang**[^17-1]
 
-<sup>1</sup> Die Betriebs- und die Anbaubewilligung lautet auf den Namen der Gesuchstellerin oder des Gesuchstellers und der verantwortlichen Person.
+<sup>1</sup> Die Betriebsbewilligung für den Umgang mit kontrollierten Substanzen oder für den Anbau von Pflanzen oder Pilzen, die kontrollierte Substanzen enthalten, lautet auf den Namen der Gesuchstellerin oder des Gesuchstellers und der verantwortlichen Person.
 
-<sup>2</sup> Die Betriebsbewilligung gilt für die in der Bewilligung aufgeführten einzelnen kontrollierten Substanzen oder Verzeichnisse nach Artikel 3.
+<sup>2</sup> Sie gilt für die in der Bewilligung aufgeführten einzelnen kontrollierten Substanzen oder Verzeichnisse nach Artikel 3.
+
+[^17-1]: Fassung gemäss Ziff. I der V vom 22. Juni 2022, in Kraft seit 1. Aug. 2022 ([AS 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
 
 #### Art. 18
 
 **Geltungsdauer**
 
-<sup>1</sup> Eine Bewilligung gilt höchstens fünf Jahre.
+<sup>1</sup> Eine Betriebsbewilligung für den Umgang mit kontrollierten Substanzen oder für den Anbau von Pflanzen oder Pilzen, die kontrollierte Substanzen enthalten, gilt höchsten fünf Jahre.[^18-1]
 
 <sup>2</sup> Sie kann auf Antrag für jeweils weitere fünf Jahre erneuert werden. Das Erneuerungsgesuch muss spätestens sechs Monate vor Ablauf der Bewilligungsdauer eingereicht werden.
 
-<sup>3</sup> Vor der Erteilung und vor der Erneuerung einer Bewilligung kann eine Inspektion durchgeführt werden.
+<sup>3</sup> Vor der Erteilung und vor der Erneuerung einer Betriebsbewilligung für den Umgang mit kontrollierten Substanzen oder für den Anbau von Pflanzen oder Pilzen, die kontrollierte Substanzen enthalten, kann eine Inspektion durchgeführt werden.[^18-2]
 
 <sup>4</sup> Die Behörden der Kantone können in ihrem Zuständigkeitsbereich eine andere Geltungsdauer vorsehen.
+
+[^18-1]: Fassung gemäss Ziff. I der V vom 22. Juni 2022, in Kraft seit 1. Aug. 2022 ([AS 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
+[^18-2]: Fassung gemäss Ziff. I der V vom 22. Juni 2022, in Kraft seit 1. Aug. 2022 ([AS 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
 
 ### 4. Abschnitt: Änderungen, Erlöschen und Entzug
 
 #### Art. 19
 
-**Meldung von Änderungen**
+**Meldung von Änderungen**[^19-1]
 
-Die Inhaberin oder der Inhaber einer Betriebs- oder Anbaubewilligung hat der zuständigen Behörde jede Änderung der Bewilligungsvoraussetzungen sofort zu melden.
+<sup>1</sup> Die Inhaberin oder der Inhaber einer Betriebsbewilligung für den Umgang mit kontrollierten Substanzen oder für den Anbau von Pflanzen oder Pilzen, die kontrollierte Substanzen enthalten, hat der zuständigen Behörde jede Änderung der Bewilligungsvoraussetzungen sofort zu melden.
+
+<sup>2</sup> Stellt der Betrieb seine Geschäftstätigkeit ein oder ist von deren Einstellung auszugehen, so muss die verantwortliche Person dies der Swissmedic unverzüglich melden.
+
+[^19-1]: Fassung gemäss Ziff. I der V vom 22. Juni 2022, in Kraft seit 1. Aug. 2022 ([AS 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
 
 #### Art. 20
 
-**Entzug**
+**Entzug**[^20-1]
 
 <sup>1</sup>
 
-Die zuständige Behörde entzieht die Bewilligung vorübergehend oder dauernd, wenn:
+Die zuständige Behörde entzieht die Bewilligung, wenn:
 
-- a. die Bewilligungsinhaberin oder der Bewilligungsinhaber oder die verantwortliche Person vorsätzlich oder wiederholt fahrlässig gegen das BetmG oder die dazu gehörenden Verordnungen verstossen hat;
+- a. die Bewilligungsinhaberin oder der Bewilligungsinhaber oder die verantwortliche Person vorsätzlich oder wiederholt fahrlässig gegen das BetmG oder gegen das Heilmittelgesetz vom 15. Dezember 2000[^20-2] (HMG) verstossen hat;
 - b. die Bewilligungsinhaberin oder der Bewilligungsinhaber dies verlangt.
 
-<sup>2</sup> Sie kann die Bewilligung jederzeit gestützt auf die Artikel 6 und 14*a* Absatz 2 BetmG entziehen.
+<sup>2</sup>
+
+Sie kann die Bewilligung entziehen:
+
+- a. gestützt auf die Artikel 6 und 14*a* Absatz 2 BetmG; oder
+- b. wenn die bewilligten Tätigkeiten während mehr als 24 Monaten nicht ausgeübt wurden.
+
+[^20-1]: Fassung gemäss Ziff. I der V vom 22. Juni 2022, in Kraft seit 1. Aug. 2022 ([AS 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
+[^20-2]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
 
 #### Art. 21
 
@@ -318,9 +378,89 @@ Die zuständige Behörde entzieht die Bewilligung vorübergehend oder dauernd, w
 
 #### Art. 22
 
+**Sistierung**[^22-1]
+
+<sup>1</sup> Bei laufenden Untersuchungen gegen eine Gesuchstellerin oder einen Gesuchsteller wegen Widerhandlungen gegen das BetmG oder gegen das HMG[^22-2] kann die Swissmedic oder die zuständige Behörde das Bewilligungsverfahren oder die bestehenden Bewilligungen bis zur abschliessenden Beurteilung sistieren.
+
+<sup>2</sup> Ist gegen eine verantwortliche Person ein Strafverfahren wegen Widerhandlungen gegen das BetmG oder gegen das HMG hängig, so kann die Swissmedic oder die zuständige Behörde das Bewilligungsverfahren oder die bestehenden Bewilligungen sistieren.
+
+[^22-1]: Fassung gemäss Ziff. I der V vom 22. Juni 2022, in Kraft seit 1. Aug. 2022 ([AS 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
+[^22-2]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+
+## 2*a*. Kapitel:**** Einzelanbaubewilligung
+
+[^chap2a-1]
+
+[^chap2a-1]: Eingefügt durch Ziff. I der V vom 22. Juni 2022, in Kraft seit 1. Aug. 2022 ([AS 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
+
+#### Art. 22a
+
+**Bewilligungspflicht**
+
+Wer Pflanzen oder Pilze, die kontrollierte Substanzen enthalten, anbauen will, benötigt für jeden Anbau eine Einzelanbaubewilligung.
+
+#### Art. 22b
+
+**Bewilligungsvoraussetzung**
+
+<sup>1</sup>
+
+Die Einzelanbaubewilligung wird erteilt, wenn die Gesuchstellerin oder der Gesuchsteller:
+
+- a. über eine Betriebsbewilligung für den Anbau von Pflanzen oder Pilzen, die kontrollierte Substanzen enthalten, verfügt;
+- b. nachweist, dass bei einem Anbau zu medizinischen Zwecken ein System vorhanden ist, das die Rückverfolgbarkeit der abgegebenen Substanzen und die Qualitätssicherung ermöglicht; und
+- c. einen schriftlichen Abnahmevertrag mit einer Abnehmerin oder einem Abnehmer vorlegt, die oder der über eine Betriebsbewilligung für den Umgang mit kontrollierten Substanzen verfügt.
+
+<sup>2</sup> Der Abnahmevertrag muss genaue Angaben über Art und Menge des Anbaus sowie die Verpflichtung der Auftraggeberin oder des Auftraggebers enthalten, die ganze Ernte der Gesuchstellerin oder des Gesuchstellers zu übernehmen.
+
+#### Art. 22c
+
+**Gesuch**
+
+<sup>1</sup>
+
+Im Gesuch für eine Einzelanbaubewilligung sind folgende Angaben zu machen:
+
+- a. Name und Vorname oder Bezeichnung der Inhaberin oder des Inhabers der Betriebsbewilligung für den Anbau von Pflanzen oder Pilzen, die kontrollierte Substanzen enthalten;
+- b. Art des Anbaus;
+- c. anzubauende Sorte;
+- d. genauer Standort und Grösse der Anbaufläche;
+- e. erwarteter Ertrag.
+
+<sup>2</sup> Die Swissmedic stellt die Gesuchsformulare für die Einzelanbaubewilligung zur Verfügung.
+
+#### Art. 22d
+
+**Umfang**
+
+Die Einzelanbaubewilligung wird für einen einmaligen Anbau und längstens für ein Jahr erteilt.
+
+#### Art. 22e
+
+**Meldepflichten**
+
+<sup>1</sup>
+
+Die Inhaberin oder der Inhaber einer Einzelanbaubewilligung muss der Swissmedic jeweils innert einer Frist von höchstens zehn Arbeitstagen folgende Daten melden:
+
+- a. den Anbaubeginn;
+- b. Ereignisse, die einen Einfluss auf den erwarteten Ertrag haben;
+- c. bei der Ernte oder Teilernte: das Erntedatum, die Erntemenge und die erwartete Restmenge;
+- d. das Datum der Übergabe an die Abnehmerin oder den Abnehmer, deren oder dessen Namen und Adresse sowie die übergebene Menge.
+
+<sup>2</sup> Wenn kein Anbau erfolgt, muss die Inhaberin oder der Inhaber einer Einzelanbaubewilligung dies der Swissmedic spätestens zehn Arbeitstage nach Ablauf der Gültigkeit der Einzelanbaubewilligung melden.
+
+#### Art. 22f
+
+**Übertragbarkeit**
+
+Die Einzelanbaubewilligung ist nicht übertragbar.
+
+#### Art. 22g
+
 **Sistierung**
 
-Bei laufenden Untersuchungen gegen eine Gesuchstellerin oder einen Gesuchsteller wegen Widerhandlungen gegen Bestimmungen dieser Verordnung kann das Institut oder die zuständige kantonale Behörde die Bewilligungen bis zur abschliessenden Beurteilung sistieren.
+Die Sistierung der Einzelanbaubewilligung richtet sich nach Artikel 22.
 
 ## 3. Kapitel: Ein-, Durch- und Ausfuhr, internationaler Handel
 
@@ -341,7 +481,7 @@ Eine Ein- oder Ausfuhrbewilligung wird nicht benötigt:
 
 <sup>3</sup> Für Hilfschemikalien des Verzeichnisses g wird eine Ausfuhrbewilligung nur für Zielländer benötigt.
 
-<sup>4</sup> Das Institut stellt die Gesuchsformulare für die Ein- und die Ausfuhrbewilligung zur Verfügung.
+<sup>4</sup> Die Swissmedic stellt die Gesuchsformulare für die Ein- und die Ausfuhrbewilligung zur Verfügung.
 
 #### Art. 24
 
@@ -349,22 +489,29 @@ Eine Ein- oder Ausfuhrbewilligung wird nicht benötigt:
 
 <sup>1</sup>
 
-Das Institut erteilt die Ein- oder Ausfuhrbewilligung nur einer Gesuchstellerin oder einem Gesuchsteller, die oder der über eine der folgenden Bewilligungen verfügt:
+Die Swissmedic erteilt die Ein- oder Ausfuhrbewilligung nur einer Gesuchstellerin oder einem Gesuchsteller, die oder der über eine der folgenden Bewilligungen verfügt:[^24-1]
 
 - a. eine Bewilligung des Bundesrates nach Artikel 14*a* Absatz 1 BetmG;
 - b. eine Bewilligung des EDI nach Artikel 7 Absatz 1 BetmG;
 - c. eine Ausnahmebewilligung des BAG nach Artikel 8 Absätze 5, 6 und 8 BetmG;
-- d. eine Bewilligung des Instituts nach Artikel 4 BetmG und Artikel 5 dieser Verordnung;
+- d.[^24-2] eine Bewilligung der Swissmedic nach Artikel 4 BetmG und Artikel 5 Absatz 1 Buchstabe a dieser Verordnung;
 - e. eine Bewilligung des Kantons nach den Artikeln 14 und 14*a* Absatz 1<sup>bis</sup> BetmG.
+
+<sup>1bis</sup> Die Einfuhr von Saat- und Pflanzgut für den Anbau von Pflanzen oder Pilzen, die kontrollierte Substanzen enthalten, wird bewilligt, wenn die Gesuchstellerin oder der Gesuchsteller über eine Betriebsbewilligung für deren Anbau verfügt.[^24-3]
 
 <sup>2</sup>
 
-Es kann in Einzelfällen eine Ein- oder Ausfuhrbewilligung erteilen an:
+Die Swissmedic kann in Einzelfällen eine Ein- oder Ausfuhrbewilligung erteilen an:[^24-4]
 
 - a. Apothekerinnen und Apotheker;
 - b. Ärztinnen und Ärzte;
 - c. Tierärztinnen und Tierärzte;
 - d. nationale oder internationale Organisationen im Rahmen humanitärer Nothilfe.
+
+[^24-1]: Fassung gemäss Ziff. I der V vom 22. Juni 2022, in Kraft seit 1. Aug. 2022 ([AS 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
+[^24-2]: Fassung gemäss Ziff. I der V vom 22. Juni 2022, in Kraft seit 1. Aug. 2022 ([AS 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
+[^24-3]: Eingefügt durch Ziff. I der V vom 22. Juni 2022, in Kraft seit 1. Aug. 2022 ([AS 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
+[^24-4]: Fassung gemäss Ziff. I der V vom 22. Juni 2022, in Kraft seit 1. Aug. 2022 ([AS 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
 
 #### Art. 25
 
@@ -374,14 +521,14 @@ Es kann in Einzelfällen eine Ein- oder Ausfuhrbewilligung erteilen an:
 
 <sup>2</sup>
 
-Für kontrollierte Substanzen der Verzeichnisse b, f und g kann das Institut generelle Bewilligungen für die Ein- oder Ausfuhr erteilen, sofern:
+Für kontrollierte Substanzen der Verzeichnisse b, f und g kann die Swissmedic generelle Bewilligungen für die Ein- oder Ausfuhr erteilen, sofern:
 
 - a. dies mit den Bestimmungen der von der Schweiz ratifizierten internationalen Abkommen vereinbar ist; und
 - b. das Herkunfts- oder Bestimmungsland solche Bewilligungen akzeptiert.
 
 <sup>3</sup> Die generelle Ein- oder Ausfuhrbewilligung wird für eine bestimmte maximale Menge ausgestellt und gilt nur im Rahmen der Geschäftsbeziehungen zwischen Lieferantin oder Lieferanten und Empfängerin oder Empfänger.
 
-<sup>4</sup> Nicht benützte Ein- und Ausfuhrbewilligungen sind nach Ablauf der Geltungs-dauer ohne Verzug dem Institut zurückzusenden.
+<sup>4</sup> Nicht benützte Ein- und Ausfuhrbewilligungen sind nach Ablauf der Geltungs-dauer ohne Verzug der Swissmedic zurückzusenden.
 
 #### Art. 26
 
@@ -405,25 +552,27 @@ Die Sistierung weiterer Bewilligungen richtet sich nach Artikel 22.
 
 #### Art. 29
 
-**Geltungsdauer der Einfuhrbewilligung**
+**Geltungsdauer der Einfuhrbewilligung**[^29-1]
 
-Die einmalige Einfuhrbewilligung gilt längstens vier Monate, die generelle Einfuhrbewilligung bis Ende des laufenden Kalenderjahrs.
+Die einmalige Einfuhrbewilligung gilt längstens vier Monate, die generelle Einfuhrbewilligung längstens bis Ende des laufenden Kalenderjahres.
+
+[^29-1]: Fassung gemäss Ziff. I der V vom 22. Juni 2022, in Kraft seit 1. Aug. 2022 ([AS 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
 
 #### Art. 30
 
 **Meldepflicht**
 
-<sup>1</sup> Die Inhaberin oder der Inhaber einer einmaligen Einfuhrbewilligung muss dem Institut innert einer Frist von höchstens zehn Arbeitstagen den Eingang der kontrollierten Substanz schriftlich melden. Die Meldung muss die erhaltene Menge, das Einfuhrdatum und die entsprechende Einfuhrbewilligungsnummer des Instituts enthalten.
+<sup>1</sup> Die Inhaberin oder der Inhaber einer einmaligen Einfuhrbewilligung muss der Swissmedic innert einer Frist von höchstens zehn Arbeitstagen den Eingang der kontrollierten Substanz schriftlich melden. Die Meldung muss die erhaltene Menge, das Einfuhrdatum und die entsprechende Einfuhrbewilligungsnummer der Swissmedic enthalten.
 
-<sup>2</sup> Die Inhaberin oder der Inhaber einer generellen Einfuhrbewilligung muss dem Institut spätestens zehn Arbeitstage nach Ende des Kalenderjahrs die Jahresmenge der eingeführten kontrollierten Substanzen melden.
+<sup>2</sup> Die Inhaberin oder der Inhaber einer generellen Einfuhrbewilligung muss der Swissmedic spätestens zehn Arbeitstage nach Ende des Kalenderjahrs die Jahresmenge der eingeführten kontrollierten Substanzen melden.
 
 #### Art. 31
 
 **Ausstellen der Einfuhrbewilligungen**
 
-<sup>1</sup> Das Institut übermittelt der Gesuchstellerin oder dem Gesuchsteller so viele Exemplare der einmaligen oder der generellen Einfuhrbewilligung, wie dies zum Belegen des Einfuhrrechts bei der Zollstelle und den zuständigen Behörden des Ausfuhrlandes notwendig ist.
+<sup>1</sup> Die Swissmedic übermittelt der Gesuchstellerin oder dem Gesuchsteller so viele Exemplare der einmaligen oder der generellen Einfuhrbewilligung, wie dies zum Belegen des Einfuhrrechts bei der Zollstelle und den zuständigen Behörden des Ausfuhrlandes notwendig ist.
 
-<sup>2</sup> Es informiert die zuständige Behörde des Ausfuhrlandes mit einem Exemplar der Einfuhrbewilligung.
+<sup>2</sup> Sie informiert die zuständige Behörde des Ausfuhrlandes mit einem Exemplar der Einfuhrbewilligung.
 
 ### 3. Abschnitt: Ausfuhr
 
@@ -435,7 +584,7 @@ Die einmalige Einfuhrbewilligung gilt längstens vier Monate, die generelle Einf
 
 <sup>2</sup> Für die Ausfuhrbewilligung von Hilfschemikalien des Verzeichnisses g muss lediglich ein Nachweis zur berechtigten Einfuhr vorgewiesen werden.
 
-<sup>3</sup> Das Institut kann für humanitäre Nothilfe eine Ausfuhrbewilligung erteilen, auch wenn keine Einfuhrbewilligung vorliegt.
+<sup>3</sup> Die Swissmedic kann für humanitäre Nothilfe eine Ausfuhrbewilligung erteilen, auch wenn keine Einfuhrbewilligung vorliegt.
 
 <sup>4</sup> Im Rahmen humanitärer Nothilfe kann in Notfällen ausnahmsweise die Ausfuhrbewilligung innerhalb von drei Arbeitstagen nach erfolgter Ausfuhr beantragt werden.
 
@@ -451,17 +600,17 @@ Die einmalige Einfuhrbewilligung gilt längstens vier Monate, die generelle Einf
 
 **Meldepflicht**
 
-<sup>1</sup> Die Inhaberin oder der Inhaber einer einmaligen Ausfuhrbewilligung muss dem Institut innert einer Frist von höchstens zehn Arbeitstagen den Ausgang der kontrollierten Substanz schriftlich melden. Die Meldung muss die ausgeführte Menge, das Ausfuhrdatum und die entsprechende Ausfuhrbewilligungsnummer des Instituts enthalten.
+<sup>1</sup> Die Inhaberin oder der Inhaber einer einmaligen Ausfuhrbewilligung muss der Swissmedic innert einer Frist von höchstens zehn Arbeitstagen den Ausgang der kontrollierten Substanz schriftlich melden. Die Meldung muss die ausgeführte Menge, das Ausfuhrdatum und die entsprechende Ausfuhrbewilligungsnummer der Swissmedic enthalten.
 
-<sup>2</sup> Die Inhaberin oder der Inhaber einer generellen Ausfuhrbewilligung muss dem Institut spätestens zehn Arbeitstage nach Ende des Kalenderjahrs die Jahresmenge der ausgeführten kontrollierten Substanzen melden.
+<sup>2</sup> Die Inhaberin oder der Inhaber einer generellen Ausfuhrbewilligung muss der Swissmedic spätestens zehn Arbeitstage nach Ende des Kalenderjahrs die Jahresmenge der ausgeführten kontrollierten Substanzen melden.
 
 #### Art. 35
 
 **Ausstellen der Ausfuhrbewilligung**
 
-<sup>1</sup> Das Institut übermittelt der Gesuchstellerin oder dem Gesuchsteller so viele Exemplare der Ausfuhrbewilligung, wie dies zum Belegen des Ausfuhrrechts bei der Zollstelle notwendig ist.
+<sup>1</sup> Die Swissmedic übermittelt der Gesuchstellerin oder dem Gesuchsteller so viele Exemplare der Ausfuhrbewilligung, wie dies zum Belegen des Ausfuhrrechts bei der Zollstelle notwendig ist.
 
-<sup>2</sup> Es informiert die zuständige Behörde des Bestimmungslandes mit einem Exemplar der Bewilligung.
+<sup>2</sup> Sie informiert die zuständige Behörde des Bestimmungslandes mit einem Exemplar der Bewilligung.
 
 ### 4. Abschnitt: Durchfuhr
 
@@ -487,7 +636,7 @@ Kontrollierte Substanzen müssen über die vom Bundesamt für Zoll und Grenzsich
 
 **Zollveranlagung**
 
-<sup>1</sup> Die Zollstelle teilt dem Institut jede Einfuhr oder jede Ausfuhr von kontrollierten Substanzen mit.
+<sup>1</sup> Die Zollstelle teilt der Swissmedic jede Einfuhr oder jede Ausfuhr von kontrollierten Substanzen mit.
 
 <sup>2</sup> Sie bestätigt bei der Einfuhr aufgrund einer einmaligen Einfuhrbewilligung die Einfuhr auf der Einfuhrbewilligung, die die Sendung begleitet, und leitet diese mit der Sendung an die Bewilligungsinhaberin oder den Bewilligungsinhaber weiter.
 
@@ -495,13 +644,13 @@ Kontrollierte Substanzen müssen über die vom Bundesamt für Zoll und Grenzsich
 
 **Kontrolle durch die Zollstelle**
 
-<sup>1</sup> Die Zollstellen behalten Sendungen mit kontrollierten Substanzen für die keine Ein- oder Ausfuhrbewilligung vorliegt, zurück und melden sie dem Institut. Ausgenommen sind Sendungen nach Artikel 32 Absätze 3 und 4.
+<sup>1</sup> Die Zollstellen behalten Sendungen mit kontrollierten Substanzen für die keine Ein- oder Ausfuhrbewilligung vorliegt, zurück und melden sie der Swissmedic. Ausgenommen sind Sendungen nach Artikel 32 Absätze 3 und 4.
 
-<sup>2</sup> Das Institut klärt ab, ob eine Einfuhr- oder eine Ausfuhrbewilligung erteilt wurde oder ob die Voraussetzung für eine nachträgliche Beantragung nach Artikel 32 Absatz 4 erfüllt ist.
+<sup>2</sup> Die Swissmedic klärt ab, ob eine Einfuhr- oder eine Ausfuhrbewilligung erteilt wurde oder ob die Voraussetzung für eine nachträgliche Beantragung nach Artikel 32 Absatz 4 erfüllt ist.
 
 <sup>3</sup> Liegt eine gültige Bewilligung vor, ohne dass ein Exemplar davon der Ware beiliegt, wird der Warenführerin oder dem Warenführer eine Frist gesetzt, um dieses beizubringen. Wird es beigebracht, so kann die Ware freigegeben werden.
 
-<sup>4</sup> Kann eine von der Zollstelle zurückbehaltene Sendung nicht freigegeben werden, so entscheidet das Institut über die Beschlagnahmung, die Verwendung und Entsorgung nach Artikel 70 und informiert die zuständige kantonale Behörde.
+<sup>4</sup> Kann eine von der Zollstelle zurückbehaltene Sendung nicht freigegeben werden, so entscheidet die Swissmedic über die Beschlagnahmung, die Verwendung und Entsorgung nach Artikel 70 und informiert die zuständige kantonale Behörde.
 
 #### Art. 40
 
@@ -521,7 +670,11 @@ Kontrollierte Substanzen müssen über die vom Bundesamt für Zoll und Grenzsich
 
 <sup>1</sup> Kranke Reisende dürfen Arzneimittel mit kontrollierten Substanzen, die sie für ihre Behandlung während höchstens 30 Tagen benötigen und keine Substanz aus dem Verzeichnis d enthalten, ohne Einfuhrbewilligung in die Schweiz einführen.
 
+<sup>1bis</sup> Kranke Reisende aus Staaten, die durch eines der Schengen-Assoziierungsabkommen gebunden sind, dürfen Arzneimittel mit kontrollierten Substanzen, die sie für ihre Behandlung während höchstens 30 Tagen benötigen, ohne Einfuhrbewilligung in die Schweiz einführen, sofern sie über eine Bescheinigung nach Anhang 2 verfügen. Die Schengen-Assoziierungsabkommen sind in Anhang 1 aufgeführt.[^41-1]
+
 <sup>2</sup> Dauert ihr Aufenthalt länger als 30 Tage, so haben sie sich an eine Ärztin oder einen Arzt, die oder der in der Schweiz zur Berufsausübung zugelassen ist, zu wenden und sich von ihr oder ihm die für die Behandlung notwendigen Arzneimittel verschreiben zu lassen.
+
+[^41-1]: Eingefügt durch Ziff. I der V vom 22. Juni 2022, in Kraft seit 1. Aug. 2022 ([AS 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
 
 #### Art. 42
 
@@ -537,17 +690,17 @@ Kontrollierte Substanzen müssen über die vom Bundesamt für Zoll und Grenzsich
 
 <sup>5</sup> Die Bescheinigung gilt höchstens für 30 Tage. Für jedes verschriebene Arzneimittel mit kontrollierten Substanzen ist eine gesonderte Bescheinigung erforderlich. Keine Bescheinigung ist erforderlich für Arzneimittel mit kontrollierten Substanzen aus dem Verzeichnis c.
 
-<sup>6</sup> Das Institut stellt das offizielle Formular nach dem Muster im Anhang 2 in elektronischer Form zur Verfügung.
+<sup>6</sup> Die Swissmedic stellt das offizielle Formular nach dem Muster im Anhang 2 in elektronischer Form zur Verfügung.
 
 #### Art. 43
 
 **Ansprechstelle**
 
-<sup>1</sup> Das Institut ist die internationale Auskunftsstelle zur Klärung von Fragen im Zusammenhang mit der Ein- und Ausfuhr von Arzneimitteln mit kontrollierten Substanzen im Reiseverkehr.
+<sup>1</sup> Die Swissmedic ist die internationale Auskunftsstelle zur Klärung von Fragen im Zusammenhang mit der Ein- und Ausfuhr von Arzneimitteln mit kontrollierten Substanzen im Reiseverkehr.
 
-<sup>2</sup> Es kann im Einzelfall, soweit erforderlich, Anfragen ausländischer Behörden im Zusammenhang mit Bescheinigungen nach Artikel 42 an die zuständige kantonale Behörde zur weiteren Abklärung weiterleiten. Diese erteilt die erforderlichen Auskünfte diesfalls direkt an die anfragende ausländische Stelle.
+<sup>2</sup> Sie kann im Einzelfall, soweit erforderlich, Anfragen ausländischer Behörden im Zusammenhang mit Bescheinigungen nach Artikel 42 an die zuständige kantonale Behörde zur weiteren Abklärung weiterleiten. Diese erteilt die erforderlichen Auskünfte diesfalls direkt an die anfragende ausländische Stelle.
 
-<sup>3</sup> Die zuständige kantonale Stelle informiert das Institut am Anfang des Jahres über die Anzahl der während dem vergangenen Jahr ausgestellten Bescheinigungen.
+<sup>3</sup> Die zuständige kantonale Stelle informiert die Swissmedic am Anfang des Jahres über die Anzahl der während dem vergangenen Jahr ausgestellten Bescheinigungen.
 
 ## 4. Kapitel: Bezug und Verwendung von Betäubungsmitteln durch Medizinalpersonen, Spitäler, Institute, Organisationen und Behörden
 
@@ -557,7 +710,7 @@ Kontrollierte Substanzen müssen über die vom Bundesamt für Zoll und Grenzsich
 
 **Erwerb von Arzneimitteln mit kontrollierten Substanzen**
 
-<sup>1</sup> Ärztinnen und Ärzte, Zahnärztinnen und Zahnärzte sowie Tierärztinnen und Tierärzte, die ihren Beruf in eigener fachlicher Verantwortung ausüben, können Arzneimittel mit kontrollierten Substanzen von einer Apotheke oder von Personen und Unternehmen mit einer Betriebsbewilligung beziehen. Für die einzelfallweise Vermittlung von Arzneimitteln mit kontrollierten Substanzen gilt Artikel 11 Absatz 4.
+<sup>1</sup> Ärztinnen und Ärzte, Zahnärztinnen und Zahnärzte sowie Tierärztinnen und Tierärzte, die ihren Beruf in eigener fachlicher Verantwortung ausüben, können Arzneimittel mit kontrollierten Substanzen von einer Apotheke oder von Personen und Unternehmen mit einer Betriebsbewilligung für den Umgang mit kontrollierten Substanzen beziehen. Für die einzelfallweise Vermittlung von Arzneimitteln mit kontrollierten Substanzen gilt Artikel 11 Absatz 4.[^44-1]
 
 <sup>2</sup> Sie müssen ihre Bestellung mit der «Global Location Number» (GLN) und ihrem Stempel versehen.
 
@@ -574,6 +727,8 @@ In den Gemeinschaftspraxen und den Rettungsdiensten können nur Medizinalpersone
 - c. Ausstellungsdatum;
 - d. Bezeichnung des Arzneimittels, seine Dosierung und seine Darreichungsform;
 - e. Menge.
+
+[^44-1]: Fassung gemäss Ziff. I der V vom 22. Juni 2022, in Kraft seit 1. Aug. 2022 ([AS 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
 
 #### Art. 45
 
@@ -614,7 +769,7 @@ Das Betäubungsmittelrezept muss enthalten:
 
 <sup>4</sup> Das Betäubungsmittelrezept ist von der verschreibenden Ärztin oder dem verschreibenden Arzt zu unterschreiben, und eine Kopie davon ist in der Krankengeschichte der Patientin oder des Patienten aufzubewahren.
 
-<sup>5</sup> Das Institut stellt den Kantonen die amtlichen Formulare für Betäubungsmittelrezepte gegen Entgelt zur Weitergabe an die verschreibungsbefugten Ärztinnen und Ärzte zu.
+<sup>5</sup> Die Swissmedic stellt den Kantonen die amtlichen Formulare für Betäubungsmittelrezepte gegen Entgelt zur Weitergabe an die verschreibungsbefugten Ärztinnen und Ärzte zu.
 
 #### Art. 48
 
@@ -657,7 +812,7 @@ In der Meldung nach Artikel 11 Absatz 1<sup>bis</sup> BetmG sind anzugeben:
 - d. die Anzahl behandelter Tiere;
 - e. die Indikation.
 
-<sup>4</sup> Das Institut stellt den Kantonen die Betäubungsmittelrezepte gegen Entgelt zur Weitergabe an die verschreibungsbefugten Tierärztinnen und Tierärzten zu.
+<sup>4</sup> Die Swissmedic stellt den Kantonen die Betäubungsmittelrezepte gegen Entgelt zur Weitergabe an die verschreibungsbefugten Tierärztinnen und Tierärzten zu.
 
 ### 2. Abschnitt: Apothekerinnen und Apotheker
 
@@ -665,7 +820,7 @@ In der Meldung nach Artikel 11 Absatz 1<sup>bis</sup> BetmG sind anzugeben:
 
 **Bezug und Abgabe**
 
-<sup>1</sup> Die verantwortlichen Apothekerinnen und Apotheker einer Apotheke oder einer Spitalapotheke dürfen kontrollierte Substanzen nur von Personen und Unternehmen mit einer Betriebsbewilligung und nur mit einer schriftlichen Bestellung beziehen.
+<sup>1</sup> Die verantwortlichen Apothekerinnen und Apotheker einer Apotheke oder einer Spitalapotheke dürfen kontrollierte Substanzen nur von Personen und Unternehmen mit einer Betriebsbewilligung für den Umgang mit kontrollierten Substanzen und nur mit einer schriftlichen Bestellung beziehen.[^51-1]
 
 <sup>2</sup>
 
@@ -677,6 +832,8 @@ Die Apothekerinnen und Apotheker einer Apotheke können Arzneimittel mit kontrol
 <sup>3</sup> Soweit die verschreibende Ärztin oder Tierärztin oder der verschreibende Arzt oder Tierarzt nichts anderes vermerkt, ist die Wiederholung des Bezugs von Arzneimitteln mit kontrollierten Substanzen des Verzeichnisses a und d nicht erlaubt.
 
 <sup>4</sup> Der Teilbezug verschriebener Arzneimittel mit kontrollierten Substanzen der Verzeichnisse b und c ist während der Geltungsdauer des Rezepts möglich. Die abgegebene Menge und die Abgabestelle sind auf dem Rezept anzugeben.
+
+[^51-1]: Fassung gemäss Ziff. I der V vom 22. Juni 2022, in Kraft seit 1. Aug. 2022 ([AS 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
 
 #### Art. 52
 
@@ -722,7 +879,7 @@ Sie benennen eine für die kontrollierten Substanzen verantwortliche Person und 
 
 <sup>3</sup> Die Beschriftung der Arzneimittel mit kontrollierten Substanzen richtet sich nach den heilmittelrechtlichen Bestimmungen. In den Patienteninformationen sind Angaben über die Vorsichtsmassregeln und die Warnvermerke aufzuführen, die für die Sicherheit der Patientinnen und Patienten notwendig sind.
 
-<sup>4</sup> Die für den Handel in der Schweiz bestimmten Packungen verwendungsfertiger Arzneimittel mit kontrollierten Substanzen des Verzeichnisses a und zugelassener Arzneimittel mit kontrollierten Substanzen des Verzeichnisses d sind mit einer Vignette zu versehen. Diese wird vom Institut zur Verfügung gestellt. Anstelle der Vignette kann auch ein Aufdruck angebracht werden, der der Vignette in allen Teilen entspricht.
+<sup>4</sup> Die für den Handel in der Schweiz bestimmten Packungen verwendungsfertiger Arzneimittel mit kontrollierten Substanzen des Verzeichnisses a und zugelassener Arzneimittel mit kontrollierten Substanzen des Verzeichnisses d sind mit einer Vignette zu versehen. Diese wird von der Swissmedic zur Verfügung gestellt. Anstelle der Vignette kann auch ein Aufdruck angebracht werden, der der Vignette in allen Teilen entspricht.
 
 #### Art. 56
 
@@ -746,13 +903,22 @@ Sie benennen eine für die kontrollierten Substanzen verantwortliche Person und 
 
 Die Buchführung nach Artikel 17 BetmG muss für jede kontrollierte Substanz folgende Angaben enthalten:
 
-- a.
+- a.[^57-1]
 
   Anbau von kontrollierten Substanzen:
 
-  - 1\. Art der angebauten Stoffe,
-  - 2\. Umfang der Anbaufläche,
-  - 3\. Art und Menge der gewonnenen kontrollierten Substanz;
+  - 1\. Art des Anbaus,
+  - 2\. angebaute Sorte,
+  - 3\. Art der angebauten Stoffe,
+  - 4\. genauer Standort und Grösse der Anbaufläche,
+  - 5\. Saat,
+  - 6\. Pflege,
+  - 7\. Datum der Ernte,
+  - 8\. Ertrag,
+  - 9\. Verluste,
+  - 10\. Entsorgung,
+  - 11\. Art und Menge der gewonnenen kontrollierten Substanz,
+  - 12\. Abnehmerin oder Abnehmer;
 
 - b.
 
@@ -798,13 +964,17 @@ Die Buchführung nach Artikel 17 BetmG muss für jede kontrollierte Substanz fol
 
 <sup>3</sup> Stimmt das Datum auf dem Lieferschein nicht mit demjenigen des Empfangs der kontrollierten Substanzen überein, so ist in der Buchführung ausschliesslich das auf dem Lieferschein aufgeführte Datum zu übernehmen.
 
+[^57-1]: Fassung gemäss Ziff. I der V vom 22. Juni 2022, in Kraft seit 1. Aug. 2022 ([AS 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
+
 #### Art. 58
 
 **Jahresabschluss**
 
-<sup>1</sup> Die Buchführung muss auf Ende Jahr abgeschlossen und innert Monatsfrist dem Institut eingereicht werden. Das Institut stellt die entsprechenden Formulare zur Verfügung.
+<sup>1</sup> Die Buchführung muss auf Ende Jahr abgeschlossen und der Swissmedic innert Monatsfrist über das von ihr zur Verfügung gestellte Meldesystem eingereicht werden.[^58-1]
 
-<sup>2</sup> Auf Verlangen sind dem Institut detaillierte Auskünfte über die Angaben nach Absatz 1 zu erteilen.
+<sup>2</sup> Auf Verlangen sind der Swissmedic detaillierte Auskünfte über die Angaben nach Absatz 1 zu erteilen.
+
+[^58-1]: Fassung gemäss Ziff. I der V vom 22. Juni 2022, in Kraft seit 1. Aug. 2022 ([AS 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
 
 #### Art. 59
 
@@ -820,7 +990,7 @@ Auf Verlangen der Kantone müssen Inhaberinnen und Inhaber einer Betriebsbewilli
 
 <sup>1</sup>
 
-Im Inlandverkehr müssen die Personen und Unternehmen mit einer Bewilligung einer Bundesbehörde in folgenden Fällen jeden Ausgang von kontrollierten Substanzen der Verzeichnisse a, b, d und e dem Institut melden:
+Im Inlandverkehr müssen die Personen und Unternehmen mit einer Bewilligung einer Bundesbehörde in folgenden Fällen jeden Ausgang von kontrollierten Substanzen der Verzeichnisse a, b, d und e der Swissmedic melden:
 
 - a. die Lieferung von kontrollierten Substanzen an Empfängerinnen oder Empfänger im Inland;
 - b. die Rücksendung von kontrollierten Substanzen und Arzneimitteln mit kontrollierten Substanzen an den Lieferanten;
@@ -828,13 +998,15 @@ Im Inlandverkehr müssen die Personen und Unternehmen mit einer Bewilligung eine
 
 <sup>2</sup> Die Meldung hat bis zum 15. Tag des der Lieferung oder der Sendung folgenden Monats zu erfolgen.
 
-<sup>3</sup> Rücksendungen von kontrollierten Substanzen durch Medizinalpersonen, Apotheken, Spitäler, wissenschaftliche Institute und kantonale und kommunale Behörden an eine Person oder ein Unternehmen nach Artikel 4 BetmG müssen von der Empfängerin oder vom Empfänger der kontrollierten Substanzen dem Institut gemeldet werden.
+<sup>3</sup> Rücksendungen von kontrollierten Substanzen durch Medizinalpersonen, Apotheken, Spitäler, wissenschaftliche Institute und kantonale und kommunale Behörden an eine Person oder ein Unternehmen nach Artikel 4 BetmG müssen der Swissmedic von der Empfängerin oder vom Empfänger der kontrollierten Substanzen gemeldet werden.[^60-1]
 
 <sup>4</sup> Für jede kontrollierte Substanz sowie für jedes Arzneimittel mit kontrollierten Substanzen (Darreichungsform, Dosierung und Packungsgrösse) ist eine gesonderte Meldung zu erstellen.
 
-<sup>5</sup> Das Institut kann nach Anhörung der Kantone und der interessierten Kreise spezifische Lieferungen von der Meldepflicht vorübergehend oder dauerhaft entbinden, wenn die Kontrolle auf eine andere Art und Weise sichergestellt werden kann.
+<sup>5</sup> Die Swissmedic kann nach Anhörung der Kantone und der interessierten Kreise spezifische Lieferungen von der Meldepflicht vorübergehend oder dauerhaft entbinden, wenn die Kontrolle auf eine andere Art und Weise sichergestellt werden kann.
 
 <sup>6</sup> Inhaberinnen und Inhaber einer Betriebsbewilligung des Kantons melden den Inlandverkehr dem Kanton auf Verlangen.
+
+[^60-1]: Fassung gemäss Ziff. I der V vom 22. Juni 2022, in Kraft seit 1. Aug. 2022 ([AS 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
 
 #### Art. 61
 
@@ -852,7 +1024,7 @@ Die Meldung muss folgende Angaben enthalten:
 
 <sup>2</sup> Die Meldung von magistralen Präparaten, die kontrollierte Substanzen enthalten, muss die GTIN der kontrollierten Substanz enthalten und die Angabe, wie oft die Menge, der die GTIN entspricht, im Präparat enthalten sind.
 
-<sup>3</sup> Sie ist über das vom Institut zur Verfügung gestellte Meldesystem zu erstatten. Das Institut gestattet der zuständigen kantonalen Behörde den direkten Zugang zu diesem System.
+<sup>3</sup> Sie ist über das von der Swissmedic zur Verfügung gestellte Meldesystem zu erstatten. Die Swissmedic gestattet der zuständigen kantonalen Behörde den direkten Zugang zu diesem System.
 
 #### Art. 62
 
@@ -894,19 +1066,116 @@ Die Meldung muss folgende Angaben enthalten:
 
 <sup>2</sup> Die verantwortliche Person eines wissenschaftlichen Instituts, einer nationalen oder internationalen Organisation, einer Behörde des Bundes, des Kantons oder der Gemeinde muss den Bezug und die Verwendung von kontrollierten Substanzen jederzeit belegen können.
 
+### 3. Abschnitt:**** Informationssystem über ärztliche Behandlungen mit Betäubungsmitteln des Wirkungstyps Cannabis
+
+[^chap6-sec3-1]
+
+[^chap6-sec3-1]: Eingefügt durch Ziff. I der V vom 22. Juni 2022, in Kraft seit 1. Aug. 2022 ([AS 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
+
+#### Art. 65a
+
+**Pseudonymisierung**
+
+<sup>1</sup> Ärztinnen und Ärzte, die Personen mit Cannabisarzneimitten behandeln, sind berechtigt, für die Pseudonomysierung der Daten der Patientinnen und Patienten die AHV-Nummer systematisch zu verwenden.
+
+<sup>2</sup> Für jede AHV-Nummer wird mittels einer Einwegverschlüsselung stets das gleiche Pseudonym erstellt.
+
+<sup>3</sup> Die AHV-Nummer darf in Verbindung mit der pseudonymisierten AHV-Nummer (Patientencode) nur von der behandelnden Ärztin oder vom behandelnden Arzt nach Absatz 1 bearbeitet werden.
+
+#### Art. 65b
+
+**Erfassung von Daten über die ärztlichen Behandlungen mit Betäubungsmitteln des Wirkungstyps Cannabis**
+
+<sup>1</sup> Das BAG betreibt ein elektronisches Informationssystem zur Erhebung von Daten über die ärztlichen Behandlungen mit Betäubungsmitteln des Wirkungstyps Cannabis (Cannabisarzneimittel) nach Artikel 8*b* BetmG.
+
+<sup>2</sup>
+
+Ärztinnen und Ärzte, die Personen mit Cannabisarzneimitten behandeln, müssen folgende Daten im Informationssystem nach Artikel 18*f* BetmG erfassen:
+
+- a.
+
+  Angaben zur behandelten Person:
+
+  - 1\. Patientencode,
+  - 2\. Jahrgang,
+  - 3\. Geschlecht,
+  - 4\. Gewicht,
+  - 5\. Wohnkanton;
+
+- b.
+
+  Angaben zur behandelnden Ärztin oder zum behandelnden Arzt:
+
+  - 1\. Vor- und Nachname,
+  - 2\. Adresse,
+  - 3\. eidgenössische Weiterbildungstitel;
+
+- c.
+
+  Angaben zur Behandlung:
+
+  - 1\. Zeitpunkt der Verschreibung,
+  - 2\. Vorbehandlung mit Cannabisarzneimitteln und deren Dauer,
+  - 3\. Indikation: Diagnose und Symptome,
+  - 4\. behandlungsrelevante Nebendiagnosen,
+  - 5\. Cannabisarzneimittel: Bezeichnung des Präparats, Darreichungsform, Gesamt-THC- und CBD-Gehalt, Dosierung,
+  - 6\. symptomrelevante Begleitmedikation: Bezeichnung des Präparats, Dosierung,
+  - 7\. Wirkungen,
+  - 8\. Nebenwirkungen der Behandlung,
+  - 9\. Symptomveränderung aufgrund der Behandlung,
+  - 10\. Behandlungsende: Zeitpunkt und Grund.
+
+<sup>3</sup>
+
+Sie müssen die Daten unmittelbar nach folgenden Zeitpunkten erfassen:
+
+- a. der Erstverschreibung;
+- b. dem ersten sowie dem zweiten Jahr der Behandlung;
+- c. dem Behandlungsende, falls dieses vor Ablauf des zweiten Jahres erfolgt.
+
+#### Art. 65c
+
+**Systemverantwortung**
+
+Das BAG trägt die Verantwortung für das Informationssystem.
+
+#### Art. 65d
+
+**Zugriffsrechte der Ärztinnen und Ärzte, die Personen mit Cannabisarzneimitteln behandeln**
+
+Die zugriffsberechtigten Ärztinnen und Ärzte können die von ihnen erfassten Daten einsehen, ändern und löschen.
+
+#### Art. 65e
+
+**Aufbewahrung der Daten**
+
+<sup>1</sup> Die Daten werden nach Abschluss der Datenerhebung höchstens zehn Jahre im Informationssystem aufbewahrt.
+
+<sup>2</sup> Die Archivierung richtet sich nach der Archivierungsgesetzgebung des Bundes.
+
+#### Art. 65f
+
+**Statistische Auswertungen**
+
+<sup>1</sup> Das BAG veröffentlicht jährlich statistische Auswertungen und Zusammenstellungen, insbesondere zur Indikation sowie zu den Wirkungen und Nebenwirkungen der ärztlichen Behandlungen mit Cannabisarzneimitteln.
+
+<sup>2</sup> Die kantonalen Vollzugsbehörden und die an den Behandlungen beteiligten Ärztinnen und Ärzte können im Informationssystem auf anonymisierte statistische Auswertungen Zugriff haben, die für ihren spezifischen Aufgabenbereich relevant sind.
+
+<sup>3</sup> Auf Anfrage kann das BAG wissenschaftlich qualifizierten Forschungseinrichtungen anonymisierte Auswertungen oder anonymisierte Daten zu Forschungszwecken zur Verfügung stellen.
+
 ## 7. Kapitel: Vollzug
 
-### 1. Abschnitt: Institut
+### 1. Abschnitt: Swissmedic
 
 #### Art. 66
 
 **Allgemeine Aufgabe**
 
-<sup>1</sup> Das Institut vollzieht diese Verordnung, soweit nicht ausdrücklich eine andere Behörde zuständig ist.
+<sup>1</sup> Die Swissmedic vollzieht diese Verordnung, soweit nicht ausdrücklich eine andere Behörde zuständig ist.
 
 <sup>2</sup>
 
-Es veröffentlicht Listen folgender zum Umgang mit kontrollierten Substanzen Berechtigten:
+Sie veröffentlicht Listen folgender zum Umgang mit kontrollierten Substanzen Berechtigten:
 
 - a. Unternehmen und Personen im Sinne von Artikel 4 Absatz 1 BetmG sowie Vermittlerinnen und Vermittler;
 - b. Apotheken;
@@ -917,23 +1186,28 @@ Es veröffentlicht Listen folgender zum Umgang mit kontrollierten Substanzen Ber
 - g. grenzüberschreitend tätigen Rettungsdienste;
 - h. kantonalen und kommunalen Behörden.
 
+<sup>3</sup> Sie übernimmt für Cannabis für medizinische Zwecke gegenüber der Organisation der Vereinten Nationen auf dem Gebiet der Betäubungsmittelkontrolle die Funktion der Nationalen Cannabis-Agentur gemäss Artikel 28 des Einheits-Übereinkommens vom 30. März 1961[^66-1] über die Betäubungsmittel in der durch das Protokoll vom 25. März 1972 geänderten Fassung.[^66-2]
+
+[^66-1]: [SR 0.812.121](https://fedlex.data.admin.ch/eli/cc/2005/48)
+[^66-2]: Eingefügt durch Ziff. I der V vom 22. Juni 2022, in Kraft seit 1. Aug. 2022 ([AS 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
+
 #### Art. 67
 
 **Kontrolle**
 
-<sup>1</sup> Das Institut kann bei Verdacht auf Unregelmässigkeiten die zuständigen kantonalen Behörden beauftragen, besondere Kontrollen durchzuführen, oder anstelle der zuständigen kantonalen Behörden die Kontrolle der Bewilligungsinhaberin oder Bewilligungsinhaber selber vornehmen, wenn diese sie nicht wahrnehmen können.
+<sup>1</sup> Die Swissmedic kann bei Verdacht auf Unregelmässigkeiten die zuständigen kantonalen Behörden beauftragen, besondere Kontrollen durchzuführen, oder anstelle der zuständigen kantonalen Behörden die Kontrolle der Bewilligungsinhaberin oder Bewilligungsinhaber selber vornehmen, wenn diese sie nicht wahrnehmen können.
 
-<sup>2</sup> Es kontrolliert in Zusammenarbeit mit dem BAZG die Einhaltung der Bestimmungen über die Ein-, Aus- und Durchfuhr von kontrollierten Substanzen.
+<sup>2</sup> Sie kontrolliert in Zusammenarbeit mit dem BAZG die Einhaltung der Bestimmungen über die Ein-, Aus- und Durchfuhr von kontrollierten Substanzen.
 
-<sup>3</sup> Zu Analysezwecken kann es unentgeltlich Muster von Substanzen entnehmen, die der Kontrolle unterliegen könnten. Es stellt der Eigentümerin oder dem Eigentümer eine Quittung aus.
+<sup>3</sup> Zu Analysezwecken kann sie unentgeltlich Muster von Substanzen entnehmen, die der Kontrolle unterliegen könnten. Sie stellt der Eigentümerin oder dem Eigentümer eine Quittung aus.
 
-<sup>4</sup> Es ist jederzeit befugt, die unter Zollüberwachung stehenden kontrollierten Substanzen, insbesondere solcher, die in offenen Zolllagern, Lagern für Massengüter oder Zollfreilagern aufbewahrt werden, zu kontrollieren und bei Unstimmigkeiten Massnahmen zu verfügen. Es kann damit die zuständigen kantonalen Behörden beauftragen.
+<sup>4</sup> Sie ist jederzeit befugt, die unter Zollüberwachung stehenden kontrollierten Substanzen, insbesondere solcher, die in offenen Zolllagern, Lagern für Massengüter oder Zollfreilagern aufbewahrt werden, zu kontrollieren und bei Unstimmigkeiten Massnahmen zu verfügen. Sie kann damit die zuständigen kantonalen Behörden beauftragen.
 
 #### Art. 68
 
 **Schätzungen**
 
-Das Institut erstellt die jährlichen Schätzungen über den Bedarf an kontrollierten Substanzen, die die Schweiz in Ausführung der von ihr ratifizierten internationalen Abkommen abgeben muss.
+Die Swissmedic erstellt die jährlichen Schätzungen über den Bedarf an kontrollierten Substanzen, die die Schweiz in Ausführung der von ihr ratifizierten internationalen Abkommen abgeben muss.
 
 ### 2. Abschnitt: Kantone
 
@@ -965,9 +1239,9 @@ Das Institut erstellt die jährlichen Schätzungen über den Bedarf an kontrolli
 
 <sup>1</sup> Das EDI vollzieht diese Verordnung in Bezug auf Rohmaterialien und Erzeugnisse mit vermuteter betäubungsmittelähnlicher Wirkung des Verzeichnisses e.
 
-<sup>2</sup> Erscheinen Rohmaterialien und Erzeugnisse mit vermuteter betäubungsmittelähnlicher Wirkung neu auf dem Markt oder besteht der Verdacht, dass bekannte Rohmaterialien und Erzeugnisse betäubungsmittelähnliche Wirkung haben, so nimmt sie das EDI auf Antrag des Instituts ohne Verzug in das Verzeichnis e auf.
+<sup>2</sup> Erscheinen Rohmaterialien und Erzeugnisse mit vermuteter betäubungsmittelähnlicher Wirkung neu auf dem Markt oder besteht der Verdacht, dass bekannte Rohmaterialien und Erzeugnisse betäubungsmittelähnliche Wirkung haben, so nimmt sie das EDI auf Antrag der Swissmedic ohne Verzug in das Verzeichnis e auf.
 
-<sup>3</sup> Es teilt diese Rohmaterialien und Erzeugnisse nach der Prüfung und auf Antrag des Instituts einem anderen Verzeichnis zu oder streicht sie aus dem Betäubungsmittelverzeichnis.
+<sup>3</sup> Es teilt diese Rohmaterialien und Erzeugnisse nach der Prüfung und auf Antrag der Swissmedic einem anderen Verzeichnis zu oder streicht sie aus dem Betäubungsmittelverzeichnis.
 
 #### Art. 72
 
@@ -975,9 +1249,10 @@ Das Institut erstellt die jährlichen Schätzungen über den Bedarf an kontrolli
 
 <sup>1</sup> Das BAG vollzieht diese Verordnung in Bezug auf kontrollierte Substanzen des Verzeichnisses d, soweit diese nicht als Wirkstoff eines zugelassenen Arzneimittels dienen.
 
-<sup>2</sup> Es übernimmt gegenüber der Organisation der Vereinten Nationen auf dem Gebiet der Betäubungsmittelkontrolle die Funktion der Nationalen Cannabis-Agentur gemäss Artikel 28 des Einheits-Übereinkommens vom 30. März 1961[^72-1] über die Betäubungsmittel in der durch das Protokoll vom 25. März 1972 geänderten Fassung.
+<sup>2</sup> Es übernimmt für Cannabis für nicht medizinische Zwecke gegenüber der Organisation der Vereinten Nationen auf dem Gebiet der Betäubungsmittelkontrolle die Funktion der Nationalen Cannabis-Agentur gemäss Artikel 28 des Einheits-Übereinkommens vom 30. März 1961[^72-1] über die Betäubungsmittel in der durch das Protokoll vom 25. März 1972 geänderten Fassung.[^72-2]
 
 [^72-1]: [SR 0.812.121](https://fedlex.data.admin.ch/eli/cc/2005/48)
+[^72-2]: Fassung gemäss Ziff. I der V vom 22. Juni 2022, in Kraft seit 1. Aug. 2022 ([AS 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
 
 ### 4. Abschnitt: Zusammenarbeit und Datenübertragung
 
@@ -991,51 +1266,53 @@ Die für den Vollzug dieser Verordnung zuständigen Behörden des Bundes und der
 
 **Geschäfts- und Aktenaufbewahrungssystem**
 
-Das Institut betreibt ein internes Geschäfts- und Aufbewahrungssystem zur Erfassung der Daten im Zusammenhang mit Bewilligungserteilungen und der Entgegennahme von Meldungen. Das System kann auch Daten über administrative und strafrechtliche Verfolgungen enthalten.
+Die Swissmedic betreibt ein internes Geschäfts- und Aufbewahrungssystem zur Erfassung der Daten im Zusammenhang mit Bewilligungserteilungen und der Entgegennahme von Meldungen. Das System kann auch Daten über administrative und strafrechtliche Verfolgungen enthalten.
 
 #### Art. 75
 
 **Datenbearbeitung**
 
-<sup>1</sup> Die zuständige kantonale Behörde übermittelt dem Institut die vollständigen Angaben aller Medizinalpersonen, Spitäler und wissenschaftlichen Institute, die zum Bezug, zur Lagerung, Verschreibung, Verwendung oder Abgabe von kontrollierten Substanzen berechtigt sind. Zur Selbstdispensation befugte Ärztinnen und Ärzte werden besonders bezeichnet.
+<sup>1</sup> Die zuständige kantonale Behörde übermittelt der Swissmedic die vollständigen Angaben aller Medizinalpersonen, Spitäler und wissenschaftlichen Institute, die zum Bezug, zur Lagerung, Verschreibung, Verwendung oder Abgabe von kontrollierten Substanzen berechtigt sind. Zur Selbstdispensation befugte Ärztinnen und Ärzte werden besonders bezeichnet.[^75-1]
 
-<sup>2</sup> Das Institut bestimmt Form und Frist für die Übermittlung der Daten nach Absatz 1.
+<sup>2</sup> Die Swissmedic bestimmt Form und Frist für die Übermittlung der Daten nach Absatz 1.
+
+[^75-1]: Fassung gemäss Ziff. I der V vom 22. Juni 2022, in Kraft seit 1. Aug. 2022 ([AS 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
 
 #### Art. 76
 
-**Zusammenarbeit zwischen dem Bundesamt für Polizei und dem Institut**
+**Zusammenarbeit zwischen dem Bundesamt für Polizei und der Swissmedic**
 
-<sup>1</sup> Das Institut erteilt dem Bundesamt für Polizei die Auskünfte, die dieses zur Erfüllung seiner Aufgaben im Rahmen der Bekämpfung des illegalen Verkehrs mit kontrollierten Substanzen benötigt.
+<sup>1</sup> Die Swissmedic erteilt dem Bundesamt für Polizei die Auskünfte, die dieses zur Erfüllung seiner Aufgaben im Rahmen der Bekämpfung des illegalen Verkehrs mit kontrollierten Substanzen benötigt.
 
-<sup>2</sup> Das Bundesamt für Polizei informiert das Institut über Feststellungen und Beobachtungen im Zusammenhang mit dem BetmG.
+<sup>2</sup> Das Bundesamt für Polizei informiert die Swissmedic über Feststellungen und Beobachtungen im Zusammenhang mit dem BetmG.
 
 #### Art. 77
 
-**Zusammenarbeit zwischen dem EDI und dem Institut**
+**Zusammenarbeit zwischen dem EDI und der Swissmedic**
 
-<sup>1</sup> Das EDI und das Institut arbeiten im Rahmen ihrer Kontrollaufgaben zusammen und informieren sich gegenseitig kontinuierlich.
+<sup>1</sup> Das EDI und die Swissmedic arbeiten im Rahmen ihrer Kontrollaufgaben zusammen und informieren sich gegenseitig kontinuierlich.
 
-<sup>2</sup> Das EDI übermittelt dem Institut die vollständigen Angaben aller Bewilligungsinhaberinnen und Bewilligungsinhaber, die kontrollierte Substanzen des Verzeichnisses e beziehen, vermitteln, ein- und ausführen, herstellen, abgeben oder mit diesen Handel treiben dürfen. Es meldet dem Institut jede Änderung.
+<sup>2</sup> Das EDI übermittelt der Swissmedic die vollständigen Angaben aller Bewilligungsinhaberinnen und Bewilligungsinhaber, die kontrollierte Substanzen des Verzeichnisses e beziehen, vermitteln, ein- und ausführen, herstellen, abgeben oder mit diesen Handel treiben dürfen. Es meldet der Swissmedic jede Änderung.
 
 #### Art. 78
 
-**Zusammenarbeit zwischen dem BAG und dem Institut**
+**Zusammenarbeit zwischen dem BAG und der Swissmedic**
 
-<sup>1</sup> Das BAG und das Institut arbeiten im Rahmen ihrer Kontrollaufgaben zusammen und informieren sich gegenseitig kontinuierlich.
+<sup>1</sup> Das BAG und die Swissmedic arbeiten im Rahmen ihrer Kontrollaufgaben zusammen und informieren sich gegenseitig kontinuierlich.
 
-<sup>2</sup> Das BAG übermittelt dem Institut die vollständigen Angaben aller Bewilligungsinhaberinnen und Bewilligungsinhaber, die kontrollierte Substanzen des Verzeichnisses d beziehen, vermitteln, ein- und ausführen, anbauen, herstellen, abgeben oder mit diesen Handel treiben dürfen. Es meldet dem Institut jede Änderung.
+<sup>2</sup> Das BAG übermittelt der Swissmedic die vollständigen Angaben aller Bewilligungsinhaberinnen und Bewilligungsinhaber, die kontrollierte Substanzen des Verzeichnisses d beziehen, vermitteln, ein- und ausführen, anbauen, herstellen, abgeben oder mit diesen Handel treiben dürfen. Es meldet der Swissmedic jede Änderung.
 
 #### Art. 79
 
 **Internationaler Austausch**
 
-<sup>1</sup> Das Institut sorgt dafür, dass die in den internationalen Abkommen verlangten Meldungen den zuständigen Organen innert der vorgeschriebenen Frist erstattet werden.
+<sup>1</sup> Die Swissmedic sorgt dafür, dass die in den internationalen Abkommen verlangten Meldungen den zuständigen Organen innert der vorgeschriebenen Frist erstattet werden.
 
-<sup>2</sup> Es veröffentlicht die nach den ratifizierten internationalen Abkommen verlangten Meldungen und Informationen.
+<sup>2</sup> Sie veröffentlicht die nach den ratifizierten internationalen Abkommen verlangten Meldungen und Informationen.
 
 <sup>3</sup>
 
-Es kann mit Zustimmung folgender Organe und Behörden Dokumente elektronisch bearbeiten, soweit Schutz und Sicherheit der Daten gewährleistet sind:
+Sie kann mit Zustimmung folgender Organe und Behörden Dokumente elektronisch bearbeiten, soweit Schutz und Sicherheit der Daten gewährleistet sind:
 
 - a. des Internationalen Betäubungsmittel-Kontrollorgans (INCB) nach Artikel 1 Absatz 1 Buchstabe a des Einheits-Übereinkommens vom 30. März 1961[^79-1] über die Betäubungsmittel in der durch das Protokoll vom 25. März 1972 geänderten Fassung;
 - b. des Büros der Vereinten Nationen für Drogen- und Verbrechensbekämpfung (UNODC) nach Artikel 29 der Charta der Vereinten Nationen vom 10. September 2002[^79-2];
@@ -1045,18 +1322,68 @@ Es kann mit Zustimmung folgender Organe und Behörden Dokumente elektronisch bea
 [^79-1]: [SR 0.812.121](https://fedlex.data.admin.ch/eli/cc/2005/48)
 [^79-2]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
 
+### 4*a*. Abschnitt:**** Datenbearbeitung
+
+[^chap7-sec4a-1]
+
+[^chap7-sec4a-1]: Eingefügt durch Ziff. I der V vom 22. Juni 2022, in Kraft seit 1. Aug. 2022 ([AS 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
+
+#### Art. 79a
+
+**Datenbearbeitung**
+
+<sup>1</sup>
+
+Das BAG und die Swissmedic können zur Erteilung der Bewilligungen nach den Artikeln 4, 5 und 8 Absätze 5–8 BetmG oder zur Überprüfung von deren Einhaltung folgende Personendaten der Gesuchstellerinnen und Gesuchsteller und der Bewilligungsinhaberinnen und -inhaber bearbeiten:
+
+- a. Daten zur Identität;
+- b. Daten zu Wohn-, Geschäfts- und Betriebsstandorten;
+- c. Daten zu Handelsregistereinträgen;
+- d. Daten zu strafrechtlichen Verfolgungen;
+- e. Daten zu betreibungsrechtlichen Verfahren;
+- f. Daten zur beruflichen Ausbildung und Qualifikation.
+
+<sup>2</sup>
+
+Das BAG kann zur Erteilung von Ausnahmebewilligungen gemäss Artikel 8 Absätze 5–8 BetmG zudem folgende Personendaten bearbeiten:
+
+- a.
+
+  Daten der Patientinnen und Patienten:
+
+  - 1\. zur Identität,
+  - 2\. zur Krankengeschichte, die für die Beurteilung der beschränkten medizinischen Anwendung von verbotenen Betäubungsmitteln relevant sind;
+
+- b.
+
+  Daten der behandelnden Ärztinnen und Ärzte:
+
+  - 1\. zur Identität,
+  - 2\. zur Weiterbildung.
+
+<sup>3</sup> Das BAG und die Swissmedic stellen sicher, dass nur die mit der Bearbeitung der Bewilligungen nach den Artikeln 4, 5 und 8 Absätze 5–8 BetmG betrauten Personen Zugriff auf die Daten nach den Absätzen 1 und 2 haben.
+
+#### Art. 79b
+
+**Aufbewahrung der Daten nach Artikel 79*a***
+
+<sup>1</sup> Die Daten nach Artikel 79*a* werden nach Abschluss der Datenerhebung höchstens zehn Jahre in einem elektronischen Geschäftsverwaltungssystem aufbewahrt.
+
+<sup>2</sup> Die Archivierung richtet sich nach der Archivierungsgesetzgebung des Bundes.
+
 ### 5. Abschnitt: Gebühren
 
 #### Art. 80
 
-<sup>1</sup> Die Gebühren des Instituts richten sich nach der Heilmittel-Gebührenverordnung vom 22. Juni 2006[^80-1].
+<sup>1</sup> Die Gebühren der Swissmedic richten sich nach der Verordnung des Schweizerischen Heilmittelinstituts vom 14. September 2018[^80-1] über seine Gebühren.[^80-2]
 
-<sup>2</sup> Das Institut kann Organisationen mit humanitärem Charakter, internationale Organisationen und Behörden von der Gebührenpflicht ausnehmen, sofern diese nicht in der Bundesratsbewilligung geregelt wurde.
+<sup>2</sup> Die Swissmedic kann Organisationen mit humanitärem Charakter, internationale Organisationen und Behörden von der Gebührenpflicht ausnehmen, sofern diese nicht in der Bundesratsbewilligung geregelt wurde.
 
-<sup>3</sup> Die Gebühren des EDI und des BAG richten sich nach den Artikeln 38–40 BetmSV[^80-2].
+<sup>3</sup> Die Gebühren des EDI und des BAG richten sich nach den Artikeln 38–40 BetmSV[^80-3].
 
 [^80-1]: [SR 812.214.5](https://fedlex.data.admin.ch/eli/cc/2018/593)
-[^80-2]: [SR 812.121.6](https://fedlex.data.admin.ch/eli/cc/2011/364)
+[^80-2]: Fassung gemäss Ziff. I der V vom 22. Juni 2022, in Kraft seit 1. Aug. 2022 ([AS 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
+[^80-3]: [SR 812.121.6](https://fedlex.data.admin.ch/eli/cc/2011/364)
 
 ## 8. Kapitel: Nationale und Internationale Organisationen
 
@@ -1084,9 +1411,9 @@ Der Bundesrat kann einer nationalen oder internationalen Organisation eine Bewil
 
 **Kontrolle**
 
-<sup>1</sup> Die nationale oder internationale Organisation, die über eine Bewilligung des Bundesrates verfügt (Art. 14*a* Abs. 1 BetmG), ist verpflichtet, für jedes zugelassene Arzneimittel mit kontrollierten Substanzen gleicher Art und gleicher Dosierung eine besondere Lagerkontrolle im Sinne von Artikel 57 zu führen und dem Institut auf Ende des Jahres ein Inventar nach Artikel 58 abzugeben.
+<sup>1</sup> Die nationale oder internationale Organisation, die über eine Bewilligung des Bundesrates verfügt (Art. 14*a* Abs. 1 BetmG), ist verpflichtet, für jedes zugelassene Arzneimittel mit kontrollierten Substanzen gleicher Art und gleicher Dosierung eine besondere Lagerkontrolle im Sinne von Artikel 57 zu führen und der Swissmedic auf Ende des Jahres ein Inventar nach Artikel 58 abzugeben.
 
-<sup>2</sup> Das Institut überprüft die Richtigkeit dieser Lagerkontrolle. Es ist berechtigt, zu diesem Zweck die Lagerräume zu betreten und die Bestände an Arzneimitteln mit kontrollierten Substanzen zu kontrollieren.
+<sup>2</sup> Die Swissmedic überprüft die Richtigkeit dieser Lagerkontrolle. Sie ist berechtigt, zu diesem Zweck die Lagerräume zu betreten und die Bestände an Arzneimitteln mit kontrollierten Substanzen zu kontrollieren.
 
 ## 9. Kapitel: Sanktionen
 
@@ -1111,7 +1438,7 @@ Nach Artikel 22 Absatz 1 Buchstabe d BetmG wird bestraft, wer vorsätzlich oder 
 
 **Einleitung der Strafverfolgung bei Widerhandlungen**
 
-<sup>1</sup> Werden kontrollierte Substanzen von der Zollstelle zurückbehalten (Art. 40 Abs. 1) und ergeben die Abklärungen des Instituts (Art. 40 Abs. 2), dass der Verdacht einer Verletzung der Bestimmungen dieser Verordnung begründet ist oder kann der Nachweis über den rechtmässigen Versand nach dem neuen Bestimmungsland beim Eintritt der kontrollierten Substanzen in das schweizerische Zollgebiet nicht erbracht werden, so übergibt das Institut das Dossier der für die Strafverfolgung von Widerhandlungen zuständigen kantonalen Behörde (Art. 28 BetmG).
+<sup>1</sup> Werden kontrollierte Substanzen von der Zollstelle zurückbehalten (Art. 40 Abs. 1) und ergeben die Abklärungen der Swissmedic (Art. 40 Abs. 2), dass der Verdacht einer Verletzung der Bestimmungen dieser Verordnung begründet ist oder kann der Nachweis über den rechtmässigen Versand nach dem neuen Bestimmungsland beim Eintritt der kontrollierten Substanzen in das schweizerische Zollgebiet nicht erbracht werden, so übergibt die Swissmedic das Dossier der für die Strafverfolgung von Widerhandlungen zuständigen kantonalen Behörde (Art. 28 BetmG).
 
 <sup>2</sup> Bei der Strafverfolgung von Widerhandlungen eingezogene kontrollierte Substanzen (Art. 69 des Strafgesetzbuches[^85-1]) können einer rechtmässigen Verwendung zugeführt oder nach den Bestimmungen von Artikel 70 entsorgt werden.
 
@@ -1163,6 +1490,14 @@ Die nachstehenden Verordnungen werden wie folgt geändert:
 
 <sup>2</sup> Bestehende Bewilligungen, die vor Inkrafttreten dieser Verordnung ausgestellt wurden, bleiben gültig.
 
+#### Art. 88a
+
+**Übergangsbestimmung zur Änderung vom 22. Juni 2022**[^88a-1]
+
+Die Ausnahmebewilligungen des BAG für den Anbau, die Einfuhr, die Herstellung und das Inverkehrbringen von Betäubungsmitteln des Wirkungstyps Cannabis zu medizinischen Zwecken nach Artikel 8 Absatz 5 BetmG in der bisherigen Fassung bleiben bis zum Ablauf der Geltungsdauer, längstens aber noch während 12 Monaten nach Inkrafttreten der Änderung vom 22. Juni 2022, gültig.
+
+[^88a-1]: Eingefügt durch Ziff. I der V vom 22. Juni 2022, in Kraft seit 1. Aug. 2022 ([AS 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
+
 #### Art. 89
 
 **Inkrafttreten**
@@ -1171,11 +1506,13 @@ Die nachstehenden Verordnungen werden wie folgt geändert:
 
 <sup>2</sup> Artikel 60 tritt für kontrollierte Substanzen des Verzeichnisses b am 1. Januar 2013 in Kraft.
 
-Anhang 1
+Anhang 1*[^t-1]*
 
-(Art. 42 Abs. 2)
+(Art. 41 Abs. 1<sup>bis</sup> und 42 Abs. 2)
 
 ## Schengen-Assoziierungsabkommen
+
+[^t-1]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 22. Juni 2022, in Kraft seit 1. Aug. 2022 ([AS 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
 
 Die Schengen-Assoziierungsabkommen umfassen:
 
@@ -1191,12 +1528,14 @@ Die Schengen-Assoziierungsabkommen umfassen:
 [^annex1-lvlu1-4]: [SR 0.362.33](https://fedlex.data.admin.ch/eli/cc/2008/114)
 [^annex1-lvlu1-5]: [SR 0.362.311](https://fedlex.data.admin.ch/eli/cc/2011/205)
 
-Anhang 2
+Anhang 2*[^t-2]*
 
-(Art. 42 Abs. 6)
+(Art. 41 Abs. 1<sup>bis</sup> und 42 Abs. 6)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/362/20220101/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/362/20220801/de/xml/image/image1.png)
 
 Rückseite der Bescheinigung
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/362/20220101/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/362/20220801/de/xml/image/image2.png)
+
+[^t-2]: Bereinigt gemäss Ziff. II Abs. 2 der V vom 22. Juni 2022, in Kraft seit 1. Aug. 2022 ([AS 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).

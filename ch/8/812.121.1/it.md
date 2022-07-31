@@ -4,11 +4,11 @@ title: Ordinanza del 25 maggio 2011 sul controllo degli stupefacenti (OCStup)
 short: OCStup
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/362"
 language: it
-version: 2022-01-01
+version: 2022-08-01
 adopted: 2011-05-25
 in_force: 2011-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/362/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2011-362-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/362/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/362/20220801/it/xml/fedlex-data-admin-ch-eli-cc-2011-362-20220801-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/362/20220801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,15 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/362/20220101/it"
 
 (OCStup)
 
-del 25 maggio 2011 (Stato 1° gennaio 2022)
+del 25 maggio 2011 (Stato 1° agosto 2022)
 
 Il Consiglio federale svizzero,
 
-visti gli articoli 3 capoversi 1 e 2, 9 capoverso 3 e 30 capoversi 1 e 2 della legge del 3 ottobre 1951[^ingress-1] sugli stupefacenti (LStup),
+visti gli articoli 3 capoversi 1 e 2, 18*f* capoversi 3 e 4 nonché 30 capoversi 1 e 2 della legge del 3 ottobre 1951[^ingress-1] sugli stupefacenti (LStup),[^ingress-2]
 
 ordina:
 
 [^ingress-1]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^ingress-2]: Nuovo testo giusta il n. I dell’O del 22 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
 
 ## Capitolo 1: Disposizioni generali
 
@@ -108,16 +109,22 @@ Le disposizioni della presente ordinanza non si applicano a:
 
 #### Art. 5
 
-**Autorizzazione d’esercizio**
+**Autorizzazioni d’esercizio[^5-1]**
 
 <sup>1</sup>
 
 L’autorizzazione d’esercizio per l’impiego delle sostanze controllate degli elenchi a, b, c, f e dei medicamenti omologati contenenti sostanze controllate dell’elenco d è rilasciata:
 
-- a. a persone e imprese, inclusi mediatori e agenti e alla Farmacia dell’esercito: dall’Istituto svizzero per gli agenti terapeutici (Istituto);
+- a. a persone e imprese, inclusi mediatori e agenti e alla Farmacia dell’esercito: dall’Istituto svizzero per gli agenti terapeutici (Swissmedic[^5-2]);
 - b. a farmacie, ospedali e istituti scientifici, nonché ad autorità cantonali e comunali: dal Cantone.
 
 <sup>2</sup> L’autorizzazione d’esercizio per l’impiego delle sostanze controllate dell’elenco e è rilasciata dal DFI.
+
+<sup>3</sup> L’autorizzazione d’esercizio per la coltivazione di piante o funghi contenenti sostanze controllate degli elenchi a, b ed f è rilasciata da Swissmedic.[^5-3]
+
+[^5-1]: Nuovo testo giusta il n. I dell’O del 22 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
+[^5-2]: Nuova espr. giusta il n. I dell’O del 22 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+[^5-3]: Introdotto dal n. I dell’O del 22 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
 
 #### Art. 6
 
@@ -125,11 +132,19 @@ L’autorizzazione d’esercizio per l’impiego delle sostanze controllate degl
 
 L’autorizzazione per la cura basata sulla prescrizione di diacetilmorfina è rilasciata dall’Ufficio federale della sanità pubblica (UFSP).
 
+#### Art. 6a
+
+**Autorizzazione per una singola coltivazione**[^6a-1]
+
+L’autorizzazione per una singola coltivazione è rilasciata da Swissmedic.
+
+[^6a-1]: Introdotto dal n. I dell’O del 22 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
+
 #### Art. 7
 
 **Autorizzazione d’importazione e d’esportazione**
 
-Le autorizzazioni d’importazione e d’esportazione sono rilasciate dall’Istituto.
+Le autorizzazioni d’importazione e d’esportazione sono rilasciate da Swissmedic.
 
 #### Art. 8
 
@@ -153,23 +168,29 @@ Le autorizzazioni accordate alle organizzazioni nazionali e internazionali, nonc
 
 <sup>3</sup> In presenza di circostanze che fanno sospettare un abuso, le persone responsabili procedono agli accertamenti necessari, se del caso unitamente all’associazione professionale o di categoria interessata o all’operatore sanitario che ha prescritto la sostanza, e ne informano immediatamente l’autorità di controllo competente. In tal caso la sostanza controllata può essere ceduta unicamente se le inchieste dell’autorità rivelano che il sospetto era infondato.
 
-<sup>4</sup> In caso di sospetto fondato di un importante abuso, le autorità cantonali informano immediatamente l’Istituto. Quest’ultimo riunisce le informazioni e le trasmette all’Ufficio centrale per la lotta contro il traffico illecito di stupefacenti presso l’Ufficio federale di polizia (art. 29*b* LStup) e all’UFSP.
+<sup>4</sup> In caso di sospetto fondato di un importante abuso, le autorità cantonali informano immediatamente Swissmedic. Quest’ultimo riunisce le informazioni e le trasmette all’Ufficio centrale per la lotta contro il traffico illecito di stupefacenti presso l’Ufficio federale di polizia (art. 29*b* LStup) e all’UFSP.
 
-## Capitolo 2: Autorizzazioni d’esercizio e di coltivazione
+## Capitolo 2: Autorizzazioni d’esercizio****
+
+[^chap2-1]
+
+[^chap2-1]: Nuovo testo giusta il n. I dell’O del 22 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
 
 ### Sezione 1: Disposizioni generali
 
 #### Art. 11
 
-**Obbligo d’autorizzazione**
+**Obbligo d’autorizzazione**[^11-1]
 
-<sup>1</sup> Chi intende fabbricare, procurarsi, mediare, importare, esportare e dispensare sostanze controllate, eccettuati i coadiuvanti chimici, o farne commercio, necessita preventivamente di un’autorizzazione d’esercizio.
+<sup>1</sup> Chi intende fabbricare, procurarsi, mediare, importare, esportare e dispensare sostanze controllate, eccettuati i coadiuvanti chimici, o farne commercio, necessita di un’autorizzazione d’esercizio per l’impiego di sostanze controllate.
 
-<sup>2</sup> Chi intende coltivare piante o funghi contenenti sostanze controllate necessita di un’autorizzazione di coltivazione.
+<sup>2</sup> Chi intende coltivare piante o funghi contenenti sostanze controllate necessita di un’autorizzazione d’esercizio per la coltivazione di piante o funghi contenenti sostanze controllate.
 
-<sup>3</sup> Oltre all’autorizzazione all’esercizio della professione, gli operatori sanitari non necessitano di un’ulteriore autorizzazione d’esercizio.
+<sup>3</sup> Oltre all’autorizzazione all’esercizio della professione, gli operatori sanitari non necessitano di un’ulteriore autorizzazione d’esercizio per l’impiego di sostanze controllate.
 
-<sup>4</sup> Le farmacie non necessitano di un’autorizzazione d’esercizio dell’Istituto per l’intermediazione occasionale di medicamenti contenenti sostanze controllate. Se vengono effettuate più di nove intermediazioni per anno civile, è necessaria un’autorizzazione d’esercizio.
+<sup>4</sup> Per l’intermediazione occasionale di medicamenti contenenti sostanze controllate le farmacie non necessitano di un’autorizzazione d’esercizio di Swissmedic per l’impiego di sostanze controllate. Se vengono effettuate più di nove intermediazioni per anno civile, è necessaria un’autorizzazione d’esercizio per l’impiego di sostanze controllate.
+
+[^11-1]: Nuovo testo giusta il n. I dell’O del 22 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
 
 #### Art. 12
 
@@ -177,11 +198,23 @@ Le autorizzazioni accordate alle organizzazioni nazionali e internazionali, nonc
 
 <sup>1</sup>
 
-Un’autorizzazione d’esercizio è rilasciata se la persona o l’impresa richiedente:
+Un’autorizzazione d’esercizio per l’impiego di sostanze controllate è rilasciata se il richiedente:[^12-1]
 
 - a. è iscritta nel registro principale di commercio;
 - b. garantisce il deposito delle sostanze controllate conformemente all’articolo 54;
 - c. designa un responsabile per le sostanze controllate tenuto a rispettare le disposizioni della legislazione sugli stupefacenti.
+
+<sup>1bis</sup>
+
+Un’autorizzazione d’esercizio per la coltivazione di piante o funghi contenenti sostanze controllate è rilasciata se il richiedente:
+
+- a. soddisfa le condizioni di cui al capoverso 1; e
+- b.
+
+  dimostra che sono state adottate misure per:
+
+  - 1\. garantire una protezione sufficiente contro il furto, e
+  - 2\. impedire l’uso delle piante o dei funghi per altri scopi.[^12-2]
 
 <sup>2</sup>
 
@@ -192,9 +225,11 @@ L’iscrizione nel registro di commercio non è richiesta per:
 - c. le scuole universitarie;
 - d. le organizzazioni delle Nazioni Unite.
 
-<sup>3</sup> Le autorizzazioni per le cure basate sulla prescrizione di stupefacenti sono rette dall’ordinanza del 25 maggio 2011[^12-1] sulla dipendenza da stupefacenti (ODStup).
+<sup>3</sup> Le autorizzazioni per le cure basate sulla prescrizione di stupefacenti sono rette dall’ordinanza del 25 maggio 2011[^12-3] sulla dipendenza da stupefacenti (ODStup).
 
-[^12-1]: [RS 812.121.6](https://fedlex.data.admin.ch/eli/cc/2011/364)
+[^12-1]: Nuovo testo giusta il n. I dell’O del 22 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
+[^12-2]: Introdotto dal n. I dell’O del 22 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
+[^12-3]: [RS 812.121.6](https://fedlex.data.admin.ch/eli/cc/2011/364)
 
 #### Art. 13
 
@@ -208,26 +243,19 @@ Il responsabile deve:
 - b. stabilire in un contratto scritto con il richiedente la responsabilità e l’obbligo di presenza, se non è egli stesso il richiedente; e
 - c. essere in grado di esercitare la propria attività professionale senza sottostare a istruzioni.
 
+<sup>1bis</sup> Il responsabile della coltivazione di piante o funghi contenenti sostanze controllate può possedere anche un diploma universitario o di scuola universitaria professionale nei settori delle scienze agrarie, ambientali o forestali.[^13-1]
+
 <sup>2</sup> L’autorità competente può autorizzare quali responsabili i titolari di un diploma equivalente rilasciato da scuole universitarie estere per le professioni menzionate e che possono attestare di disporre delle necessarie conoscenze specialistiche.
 
-<sup>3</sup> Se l’autorizzazione d’esercizio è limitata alle sostanze controllate dell’elenco f (precursori), l’Istituto può autorizzare quali responsabili i titolari di un diploma di una scuola universitaria professionale o di una scuola superiore specializzata nel campo delle scienze naturali e che possono attestare di disporre delle necessarie conoscenze specialistiche.
+<sup>3</sup> Se l’autorizzazione d’esercizio è limitata alle sostanze controllate dell’elenco f (precursori), Swissmedic può autorizzare quali responsabili i titolari di un diploma di una scuola universitaria professionale o di una scuola superiore specializzata nel campo delle scienze naturali e che possono attestare di disporre delle necessarie conoscenze specialistiche.
+
+[^13-1]: Introdotto dal n. I dell’O del 22 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
 
 #### Art. 14
 
-**Autorizzazione di coltivazione**
+[^14-1]
 
-<sup>1</sup>
-
-Chi intende coltivare piante o funghi contenenti sostanze controllate ottiene un’autorizzazione se:
-
-- a. dispone di un’autorizzazione d’esercizio; o
-- b. agisce su mandato del titolare di un’autorizzazione d’esercizio.
-
-<sup>2</sup> Il richiedente deve inoltre provare di disporre di un sistema che offra una protezione sufficiente contro il furto.
-
-<sup>3</sup> Il contratto di cui al capoverso 1 lettera b è redatto per scritto, deve contenere indicazioni precise sul genere e sull’estensione della coltivazione e prevedere l’obbligo per il mandante di riprendere l’intero raccolto del mandatario.
-
-<sup>4</sup> Se la coltivazione è effettuata direttamente da persone o imprese titolari di un’autorizzazione d’esercizio dell’Istituto, questa attività può essere menzionata nell’autorizzazione d’esercizio.
+[^14-1]: Abrogato dal n. I dell’O del 22 giu. 2022, con effetto dal 1° ago. 2022 ([RU 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
 
 ### Sezione 2: Domanda
 
@@ -235,7 +263,7 @@ Chi intende coltivare piante o funghi contenenti sostanze controllate ottiene un
 
 <sup>1</sup>
 
-La domanda d’autorizzazione deve contenere le seguenti informazioni:
+La domanda relativa all’autorizzazione d’esercizio per l’impiego di sostanze controllate o per la coltivazione di piante o funghi contenenti sostanze controllate deve contenere le seguenti informazioni:[^15-1]
 
 - a. il cognome e il nome oppure, per le persone giuridiche, la denominazione secondo il registro di commercio, nonché il cognome, il nome, la data di nascita e la funzione del responsabile delle sostanze controllate;
 - b. il domicilio o la sede sociale e le ubicazioni aziendali (indirizzi);
@@ -251,13 +279,17 @@ La domanda di autorizzazione deve essere corredata dei seguenti documenti:
 - b. un estratto del casellario giudiziale del responsabile risalente al massimo a sei mesi fa;
 - c. i diplomi professionali e l’iter professionale del responsabile.
 
+[^15-1]: Nuovo testo giusta il n. I dell’O del 22 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
+
 ### Sezione 3: Effetto e durata di validità
 
 #### Art. 16
 
-**Effetto dell’autorizzazione d’esercizio**
+**Effetto delle autorizzazioni d’esercizio[^16-1]**
 
-L’autorizzazione d’esercizio autorizza il relativo titolare a dispensare e mediare sostanze controllate destinate:
+<sup>1</sup>
+
+L’autorizzazione d’esercizio per l’impiego di sostanze controllate autorizza il relativo titolare a dispensare e mediare sostanze controllate destinate:[^16-2]
 
 - a. a persone e imprese titolari di un’autorizzazione ai sensi dell’articolo 4 capoverso 1 LStup o di un’autorizzazione eccezionale ai sensi dell’articolo 8 capoversi 5–8 LStup;
 - b. a direttori responsabili di una farmacia o di una farmacia d’ospedale;
@@ -267,46 +299,74 @@ L’autorizzazione d’esercizio autorizza il relativo titolare a dispensare e m
 - f. ai rispettivi responsabili di organizzazioni nazionali o internazionali che dispongono di un’autorizzazione ai sensi dell’articolo 14*a* capoverso 1 LStup;
 - g. ai rispettivi responsabili di autorità della Confederazione, dei Cantoni e dei Comuni che dispongono di un’autorizzazione ai sensi dell’articolo 14*a* capoverso 1 o 1<sup>bis</sup> LStup.
 
+<sup>2</sup>
+
+L’autorizzazione d’esercizio per la coltivazione di piante o funghi contenenti sostanze controllate autorizza il relativo titolare:
+
+- a. all’acquisizione di sementi e piante necessari alla coltivazione;
+- b. alla dispensazione di piante o funghi contenenti sostanze controllate al mandante nominato nel contratto di fornitura.[^16-3]
+
+[^16-1]: Nuovo testo giusta il n. I dell’O del 22 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
+[^16-2]: Nuovo testo giusta il n. I dell’O del 22 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
+[^16-3]: Introdotto dal n. I dell’O del 22 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
+
 #### Art. 17
 
-**Portata**
+**Portata**[^17-1]
 
-<sup>1</sup> L’autorizzazione d’esercizio e di coltivazione è intestata al richiedente e al responsabile.
+<sup>1</sup> L’autorizzazione d’esercizio per l’impiego di sostanze controllate o per la coltivazione di piante o funghi contenenti sostanze controllate è intestata al richiedente e al responsabile.
 
-<sup>2</sup> L’autorizzazione d’esercizio è valida per le singole sostanze controllate o per gli elenchi di cui all’articolo 3 menzionati nell’autorizzazione.
+<sup>2</sup> È valida per le singole sostanze controllate o per gli elenchi di cui all’articolo 3 riportati nell’autorizzazione.
+
+[^17-1]: Nuovo testo giusta il n. I dell’O del 22 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
 
 #### Art. 18
 
 **Durata di validità**
 
-<sup>1</sup> Un’autorizzazione è valida al massimo cinque anni.
+<sup>1</sup> Un’autorizzazione d’esercizio per l’impiego di sostanze controllate o per la coltivazione di piante o funghi contenenti sostanze controllate è valida al massimo cinque anni.[^18-1]
 
 <sup>2</sup> Su richiesta, può essere rinnovata ogni volta per altri cinque anni. La domanda di rinnovo deve essere presentata al più tardi sei mesi prima della data di scadenza dell’autorizzazione.
 
-<sup>3</sup> Prima del rilascio o prima del rinnovo di un’autorizzazione può essere effettuata un’ispezione.
+<sup>3</sup> Prima del rilascio o prima del rinnovo di un’autorizzazione d’esercizio per l’impiego di sostanze controllate o per la coltivazione di piante o funghi contenenti sostanze controllate può essere effettuata un’ispezione.[^18-2]
 
 <sup>4</sup> Le autorità dei Cantoni possono prevedere un’altra durata di validità nella loro sfera di competenza.
+
+[^18-1]: Nuovo testo giusta il n. I dell’O del 22 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
+[^18-2]: Nuovo testo giusta il n. I dell’O del 22 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
 
 ### Sezione 4: Modifiche, estinzione e revoca
 
 #### Art. 19
 
-**Comunicazione di modifiche**
+**Comunicazione di modifiche**[^19-1]
 
-Il titolare di un’autorizzazione d’esercizio o di coltivazione comunica immediatamente all’autorità competente qualsiasi modifica delle condizioni d’autorizzazione.
+<sup>1</sup> Il titolare di un’autorizzazione d’esercizio per l’impiego di sostanze controllate o per la coltivazione di piante o funghi contenenti sostanze controllate comunica immediatamente all’autorità competente qualsiasi modifica delle condizioni d’autorizzazione.
+
+<sup>2</sup> Se l’impresa cessa l’attività commerciale o se ne presume la cessazione, il responsabile deve comunicarlo senza indugio a Swissmedic.
+
+[^19-1]: Nuovo testo giusta il n. I dell’O del 22 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
 
 #### Art. 20
 
-**Revoca**
+**Revoca**[^20-1]
 
 <sup>1</sup>
 
-L’autorità competente revoca l’autorizzazione temporaneamente o definitivamente:
+L’autorità competente revoca l’autorizzazione:
 
-- a. se il titolare dell’autorizzazione o il responsabile contravviene intenzionalmente o per ripetuta negligenza a disposizioni della LStup o delle relative ordinanze;
+- a. se il titolare dell’autorizzazione o il responsabile contravviene intenzionalmente o per ripetuta negligenza a disposizioni della LStup o della legge del 15 dicembre 2000[^20-2] sugli agenti terapeutici (LATer);
 - b. su richiesta del titolare dell’autorizzazione.
 
-<sup>2</sup> Può revocare l’autorizzazione in qualsiasi momento conformemente agli articoli 6 e 14*a* capoverso 2 LStup.
+<sup>2</sup>
+
+Può revocare l’autorizzazione:
+
+- a. conformemente agli articoli 6 e 14*a* capoverso 2 LStup; o
+- b. qualora le attività autorizzate non siano state esercitate per più di 24 mesi.
+
+[^20-1]: Nuovo testo giusta il n. I dell’O del 22 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
+[^20-2]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
 
 #### Art. 21
 
@@ -318,9 +378,89 @@ L’autorità competente revoca l’autorizzazione temporaneamente o definitivam
 
 #### Art. 22
 
+**Sospensione**[^22-1]
+
+<sup>1</sup> In caso di inchieste in corso contro un richiedente a causa di infrazioni alla LStup o alla LATer[^22-2], Swissmedic o l’autorità competente può sospendere la procedura d’autorizzazione o le autorizzazioni esistenti fino alla decisione conclusiva.
+
+<sup>2</sup> Se contro un responsabile è in corso un procedimento penale per infrazioni alla LStup o alla LATer, Swissmedic o l’autorità competente può sospendere la procedura d’autorizzazione o le autorizzazioni esistenti.
+
+[^22-1]: Nuovo testo giusta il n. I dell’O del 22 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
+[^22-2]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+
+## Capitolo 2*a*:**** Autorizzazione per una singola coltivazione
+
+[^chap2a-1]
+
+[^chap2a-1]: Introdotto dal n. I dell’O del 22 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
+
+#### Art. 22a
+
+**Obbligo d’autorizzazione**
+
+Chi intende coltivare piante o funghi contenenti sostanze controllate necessita per ogni coltivazione di un’autorizzazione per una singola coltivazione.
+
+#### Art. 22b
+
+**Condizione per il rilascio dell’autorizzazione**
+
+<sup>1</sup>
+
+L’autorizzazione per una singola coltivazione è rilasciata se il richiedente:
+
+- a. dispone di un’autorizzazione d’esercizio per la coltivazione di piante o funghi contenenti sostanze controllate;
+- b. prova che, nel caso di una coltivazione per scopi medici, esiste un sistema che consente la tracciabilità delle sostanze dispensate e la garanzia della qualità; e
+- c. presenta un contratto di fornitura scritto con un acquirente titolare di un’autorizzazione d’esercizio per l’impiego di sostanze controllate.
+
+<sup>2</sup> Il contratto di fornitura scritto deve riportare indicazioni precise sul genere e sul quantitativo della coltivazione nonché prevedere l’obbligo per il mandante di riprendere l’intero raccolto del richiedente.
+
+#### Art. 22c
+
+**Domanda**
+
+<sup>1</sup>
+
+La domanda relativa all’autorizzazione per una singola coltivazione deve contenere le seguenti informazioni:
+
+- a. il nome e il cognome o la denominazione del titolare dell’autorizzazione d’esercizio per la coltivazione di piante o funghi contenenti sostanze controllate;
+- b. il genere della coltivazione;
+- c. la varietà da coltivare;
+- d. l’ubicazione esatta e le dimensioni dell’area coltivata;
+- e. la resa prevista.
+
+<sup>2</sup> Swissmedic mette a disposizione i moduli di domanda d’autorizzazione per una singola coltivazione.
+
+#### Art. 22d
+
+**Portata**
+
+L’autorizzazione per una singola coltivazione è rilasciata per una sola coltivazione e al massimo per un anno.
+
+#### Art. 22e
+
+**Obblighi di notifica**
+
+<sup>1</sup>
+
+Il titolare di un’autorizzazione per una singola coltivazione notifica a Swissmedic, ogni volta entro un termine massimo di dieci giorni lavorativi, i seguenti dati:
+
+- a. l’inizio della coltivazione;
+- b. gli eventi che hanno ripercussioni sulla resa prevista;
+- c. per quanto concerne il raccolto o il raccolto parziale: la data del raccolto, il quantitativo raccolto e il quantitativo rimanente previsto;
+- d. la data della dispensazione all’acquirente, il nome e l’indirizzo di quest’ultimo nonché il quantitativo dispensato.
+
+<sup>2</sup> Qualora non sia stata eseguita alcuna coltivazione, il titolare dell’autorizzazione per una singola coltivazione è tenuto a notificarlo a Swissmedic entro un termine massimo di dieci giorni lavorativi dopo la scadenza della validità dell’autorizzazione per una singola coltivazione.
+
+#### Art. 22f
+
+**Trasferibilità**
+
+L’autorizzazione per una singola coltivazione non è trasferibile.
+
+#### Art. 22g
+
 **Sospensione**
 
-In caso di inchieste in corso contro un richiedente a causa di infrazioni a disposizioni della presente ordinanza, l’Istituto o l’autorità cantonale competente può sospendere le autorizzazioni fino alla decisione conclusiva.
+La sospensione dell’autorizzazione per una singola coltivazione è retta dall’articolo 22.
 
 ## Capitolo 3: Importazione, transito, esportazione, commercio internazionale
 
@@ -341,7 +481,7 @@ Non è richiesta un’autorizzazione d’importazione o d’esportazione per:
 
 <sup>3</sup> Per i coadiuvanti chimici dell’elenco g è richiesta un’autorizzazione d’esportazione unicamente per i Paesi bersaglio.
 
-<sup>4</sup> L’Istituto mette a disposizione i moduli di domanda per le autorizzazioni d’importazione e d’esportazione.
+<sup>4</sup> Swissmedic mette a disposizione i moduli di domanda per le autorizzazioni d’importazione e d’esportazione.
 
 #### Art. 24
 
@@ -349,22 +489,28 @@ Non è richiesta un’autorizzazione d’importazione o d’esportazione per:
 
 <sup>1</sup>
 
-L’Istituto rilascia l’autorizzazione d’importazione o d’esportazione unicamente a un richiedente che dispone di una delle seguenti autorizzazioni:
+Swissmedic rilascia un’autorizzazione d’importazione o d’esportazione unicamente a un richiedente che dispone di una delle seguenti autorizzazioni:[^24-1]
 
 - a. un’autorizzazione rilasciata dal Consiglio federale ai sensi dell’articolo 14*a* capoverso 1 LStup;
 - b. un’autorizzazione rilasciata dal DFI ai sensi dell’articolo 7 capoverso 1 LStup;
 - c. un’autorizzazione eccezionale rilasciata dall’UFSP ai sensi dell’articolo 8 capoversi 5, 6 e 8 LStup;
-- d. un’autorizzazione rilasciata dall’Istituto ai sensi dell’articolo 4 LStup e dell’articolo 5 della presente ordinanza;
+- d.[^24-2] un’autorizzazione rilasciata da Swissmedic ai sensi dell’articolo 4 LStup e dell’articolo 5 capoverso 1 lettera a della presente ordinanza;
 - e. un’autorizzazione rilasciata dal Cantone ai sensi degli articoli 14 e 14*a* capoverso 1<sup>bis</sup> LStup.
+
+<sup>1bis</sup> L’importazione di sementi e piante per la coltivazione di piante o funghi contenenti sostanze controllate è autorizzata, se il richiedente dispone di un’autorizzazione d’esercizio per la loro coltivazione.[^24-3]
 
 <sup>2</sup>
 
-In singoli casi l’Istituto può rilasciare un’autorizzazione d’importazione o d’esportazione a:
+In singoli casi Swissmedic può rilasciare un’autorizzazione d’importazione o d’esportazione a:
 
 - a. farmacisti;
 - b. medici;
 - c. veterinari;
 - d. organizzazioni nazionali o internazionali nell’ambito dell’aiuto umanitario d’urgenza.
+
+[^24-1]: Nuovo testo giusta il n. I dell’O del 22 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
+[^24-2]: Nuovo testo giusta il n. I dell’O del 22 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
+[^24-3]: Introdotto dal n. I dell’O del 22 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
 
 #### Art. 25
 
@@ -374,14 +520,14 @@ In singoli casi l’Istituto può rilasciare un’autorizzazione d’importazion
 
 <sup>2</sup>
 
-L’Istituto può rilasciare autorizzazioni generali per l’importazione e l’esportazione di sostanze controllate degli elenchi b, f, g, per quanto:
+Swissmedic può rilasciare autorizzazioni generali per l’importazione e l’esportazione di sostanze controllate degli elenchi b, f, g, per quanto:
 
 - a. ciò sia compatibile con le disposizioni delle convenzioni internazionali ratificate dalla Svizzera; e
 - b. il Paese di provenienza o di destinazione accetti tali autorizzazioni.
 
 <sup>3</sup> L’autorizzazione generale d’importazione o d’esportazione è rilasciata per un determinato quantitativo massimo ed è valida unicamente per le transazioni tra un fornitore e un destinatario.
 
-<sup>4</sup> Le autorizzazioni d’importazione e d’esportazione inutilizzate devono essere immediatamente rinviate all’Istituto dopo la scadenza della loro durata di validità.
+<sup>4</sup> Le autorizzazioni d’importazione e d’esportazione inutilizzate devono essere immediatamente rinviate a Swissmedic dopo la scadenza della loro durata di validità.
 
 #### Art. 26
 
@@ -405,23 +551,25 @@ La sospensione di altre autorizzazioni è disciplinata dall’articolo 22.
 
 #### Art. 29
 
-**Durata di validità dell’autorizzazione d’importazione**
+**Durata di validità dell’autorizzazione d’importazione**[^29-1]
 
-L’autorizzazione d’importazione unica è valida al massimo quattro mesi, mentre l’autorizzazione generale d’importazione sino alla fine dell’anno civile in corso.
+L’autorizzazione d’importazione unica è valida al massimo quattro mesi, mentre l’autorizzazione generale d’importazione al massimo sino alla fine dell’anno civile in corso.
+
+[^29-1]: Nuovo testo giusta il n. I dell’O del 22 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
 
 #### Art. 30
 
 **Obbligo di notifica**
 
-<sup>1</sup> Il titolare di un’autorizzazione d’importazione unica notifica per scritto all’Istituto, entro un termine massimo di dieci giorni lavorativi, l’entrata della sostanza controllata. La notifica deve indicare il quantitativo ricevuto, la data dell’importazione e il corrispondente numero dell’autorizzazione d’importazione rilasciata dall’Istituto.
+<sup>1</sup> Il titolare di un’autorizzazione d’importazione unica notifica per scritto a Swissmedic, entro un termine massimo di dieci giorni lavorativi, l’entrata della sostanza controllata. La notifica deve indicare il quantitativo ricevuto, la data dell’importazione e il corrispondente numero dell’autorizzazione d’importazione rilasciata da Swissmedic.
 
-<sup>2</sup> Il titolare di un’autorizzazione generale d’importazione notifica all’Istituto, al più tardi entro dieci giorni lavorativi dalla fine dell’anno civile, il quantitativo annuale di sostanze controllate importate.
+<sup>2</sup> Il titolare di un’autorizzazione generale d’importazione notifica a Swissmedic, al più tardi entro dieci giorni lavorativi dalla fine dell’anno civile, il quantitativo annuale di sostanze controllate importate.
 
 #### Art. 31
 
 **Rilascio delle autorizzazioni d’importazione**
 
-<sup>1</sup> L’Istituto trasmette al richiedente il numero di copie dell’autorizzazione d’importazione unica o generale necessarie per attestare il suo diritto d’importazione presso l’ufficio doganale e le competenti autorità del Paese d’esportazione.
+<sup>1</sup> Swissmedic trasmette al richiedente il numero di copie dell’autorizzazione d’importazione unica o generale necessarie per attestare il suo diritto d’importazione presso l’ufficio doganale e le competenti autorità del Paese d’esportazione.
 
 <sup>2</sup> Informa l’autorità competente del Paese d’esportazione mediante una copia dell’autorizzazione d’importazione.
 
@@ -435,7 +583,7 @@ L’autorizzazione d’importazione unica è valida al massimo quattro mesi, men
 
 <sup>2</sup> Per l’autorizzazione d’esportazione di coadiuvanti chimici dell’elenco g dev’essere presentata unicamente una prova attestante che l’importazione è autorizzata.
 
-<sup>3</sup> L’Istituto può rilasciare un’autorizzazione d’esportazione per l’aiuto umanitario d’urgenza anche se manca l’autorizzazione d’importazione.
+<sup>3</sup> Swissmedic può rilasciare un’autorizzazione d’esportazione per l’aiuto umanitario d’urgenza anche se manca l’autorizzazione d’importazione.
 
 <sup>4</sup> Nell’ambito dell’aiuto umanitario d’urgenza, l’autorizzazione d’esportazione può essere richiesta eccezionalmente, in casi d’emergenza, entro tre giorni lavorativi dall’avvenuta esportazione.
 
@@ -451,15 +599,15 @@ L’autorizzazione d’importazione unica è valida al massimo quattro mesi, men
 
 **Obbligo di notifica**
 
-<sup>1</sup> Il titolare di un’autorizzazione d’esportazione unica notifica per scritto all’Istituto, entro un termine massimo di dieci giorni lavorativi, l’uscita della sostanza controllata. La notifica deve indicare il quantitativo esportato, la data dell’esportazione e il corrispondente numero dell’autorizzazione d’esportazione rilasciata dall’Istituto.
+<sup>1</sup> Il titolare di un’autorizzazione d’esportazione unica notifica per scritto a Swissmedic, entro un termine massimo di dieci giorni lavorativi, l’uscita della sostanza controllata. La notifica deve indicare il quantitativo esportato, la data dell’esportazione e il corrispondente numero dell’autorizzazione d’esportazione rilasciata da Swissmedic.
 
-<sup>2</sup> Il titolare di un’autorizzazione generale d’esportazione notifica all’Istituto, al più tardi entro dieci giorni lavorativi dalla fine dell’anno civile, il quantitativo annuale di sostanze controllate esportate.
+<sup>2</sup> Il titolare di un’autorizzazione generale d’esportazione notifica a Swissmedic, al più tardi entro dieci giorni lavorativi dalla fine dell’anno civile, il quantitativo annuale di sostanze controllate esportate.
 
 #### Art. 35
 
 **Rilascio dell’autorizzazione d’esportazione**
 
-<sup>1</sup> L’Istituto trasmette al richiedente il numero di copie dell’autorizzazione d’esportazione necessarie per attestare il suo diritto d’esportazione presso l’ufficio doganale.
+<sup>1</sup> Swissmedic trasmette al richiedente il numero di copie dell’autorizzazione d’esportazione necessarie per attestare il suo diritto d’esportazione presso l’ufficio doganale.
 
 <sup>2</sup> Informa l’autorità competente del Paese di destinazione mediante una copia dell’autorizzazione d’esportazione.
 
@@ -487,7 +635,7 @@ L’importazione, l’esportazione e il transito di sostanze controllate devono 
 
 **Imposizione doganale**
 
-<sup>1</sup> L’ufficio doganale comunica all’Istituto ogni importazione o esportazione di sostanze controllate.
+<sup>1</sup> L’ufficio doganale comunica a Swissmedic ogni importazione o esportazione di sostanze controllate.
 
 <sup>2</sup> Se l’importazione avviene sulla base di un’autorizzazione unica, l’ufficio doganale conferma l’importazione indicata nella relativa autorizzazione che accompagna la spedizione e la trasmette al titolare dell’autorizzazione con la spedizione.
 
@@ -495,13 +643,13 @@ L’importazione, l’esportazione e il transito di sostanze controllate devono 
 
 **Controlli da parte dell’ufficio doganale**
 
-<sup>1</sup> Gli uffici doganali trattengono gli invii contenenti sostanze controllate non muniti di un’autorizzazione d’importazione o d’esportazione e li notificano all’Istituto. Fanno eccezione gli invii di cui all’articolo 32 capoversi 3 e 4.
+<sup>1</sup> Gli uffici doganali trattengono gli invii contenenti sostanze controllate non muniti di un’autorizzazione d’importazione o d’esportazione e li notificano a Swissmedic. Fanno eccezione gli invii di cui all’articolo 32 capoversi 3 e 4.
 
-<sup>2</sup> L’Istituto accerta se è stata rilasciata un’autorizzazione d’importazione o d’esportazione oppure se la condizione per una richiesta successiva di cui all’articolo 32 capoverso 4 è adempiuta.
+<sup>2</sup> Swissmedic o accerta se è stata rilasciata un’autorizzazione d’importazione o d’esportazione oppure se la condizione per una richiesta successiva di cui all’articolo 32 capoverso 4 è adempiuta.
 
 <sup>3</sup> Se un’autorizzazione valida è stata rilasciata, ma la merce non è accompagnata da una copia della stessa, al trasportatore viene accordato un termine per produrla. Se è prodotta l’autorizzazione, la merce può essere liberata.
 
-<sup>4</sup> Se un invio trattenuto dall’ufficio doganale non può essere liberato, l’Istituto decide in merito al sequestro, all’uso e all’eliminazione conformemente all’articolo 70 e ne informa l’autorità cantonale competente.
+<sup>4</sup> Se un invio trattenuto dall’ufficio doganale non può essere liberato, Swissmedic decide in merito al sequestro, all’uso e all’eliminazione conformemente all’articolo 70 e ne informa l’autorità cantonale competente.
 
 #### Art. 40
 
@@ -521,7 +669,11 @@ L’importazione, l’esportazione e il transito di sostanze controllate devono 
 
 <sup>1</sup> I viaggiatori malati possono importare in Svizzera senza autorizzazione d’importazione i medicamenti contenenti sostanze controllate, escluse le sostanze dell’elenco d, necessari al massimo per 30 giorni di cura.
 
+<sup>1bis</sup> I viaggiatori malati provenienti da Stati vincolati da uno degli Accordi di associazione a Schengen possono importare in Svizzera senza autorizzazione d’importazione i medicamenti contenenti sostanze controllate necessari al massimo per 30 giorni di cura, a condizione che dispongano di un’attestazione secondo l’allegato 2. Gli Accordi di associazione a Schengen sono riportati nell’allegato 1.[^41-1]
+
 <sup>2</sup> Se il loro soggiorno dura più di 30 giorni, devono rivolgersi a un medico abilitato all’esercizio della professione in Svizzera per farsi prescrivere i medicamenti necessari per la cura.
+
+[^41-1]: Introdotto dal n. I dell’O del 22 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
 
 #### Art. 42
 
@@ -537,17 +689,17 @@ L’importazione, l’esportazione e il transito di sostanze controllate devono 
 
 <sup>5</sup> L’attestazione è valida al massimo 30 giorni. Per ogni medicamento contenente sostanze controllate prescritto è richiesta un’attestazione separata. Per i medicamenti contenenti sostanze controllate dell’elenco c non è necessaria alcuna attestazione.
 
-<sup>6</sup> L’Istituto mette a disposizione, in formato elettronico, il modulo ufficiale secondo il modello dell’allegato 2.
+<sup>6</sup> Swissmedic mette a disposizione, in formato elettronico, il modulo ufficiale secondo il modello dell’allegato 2.
 
 #### Art. 43
 
 **Centro di contatto**
 
-<sup>1</sup> L’Istituto funge da centro d’informazione internazionale per le questioni riguardanti l’importazione e l’esportazione di medicamenti contenenti sostanze controllate nel traffico viaggiatori.
+<sup>1</sup> Swissmedic funge da centro d’informazione internazionale per le questioni riguardanti l’importazione e l’esportazione di medicamenti contenenti sostanze controllate nel traffico viaggiatori.
 
-<sup>2</sup> Nel singolo caso, se necessario, l’Istituto può trasmettere all’autorità cantonale competente per ulteriori accertamenti le richieste di autorità estere concernenti le attestazioni di cui all’articolo 42. L’autorità cantonale competente fornisce direttamente le informazioni del caso al servizio estero richiedente.
+<sup>2</sup> Nel singolo caso, se necessario, Swissmedic può trasmettere all’autorità cantonale competente per ulteriori accertamenti le richieste di autorità estere concernenti le attestazioni di cui all’articolo 42. L’autorità cantonale competente fornisce direttamente le informazioni del caso al servizio estero richiedente.
 
-<sup>3</sup> All’inizio dell’anno, il servizio cantonale competente informa l’Istituto in merito al numero di attestazioni emesse nel corso dell’anno precedente.
+<sup>3</sup> All’inizio dell’anno, il servizio cantonale competente informa Swissmedic in merito al numero di attestazioni emesse nel corso dell’anno precedente.
 
 ## Capitolo 4: Acquisizione e uso di stupefacenti da parte di operatori sanitari, ospedali, istituti, organizzazioni e autorità
 
@@ -557,7 +709,7 @@ L’importazione, l’esportazione e il transito di sostanze controllate devono 
 
 **Acquisto di medicamenti contenenti sostanze controllate**
 
-<sup>1</sup> I medici, i dentisti e i veterinari che esercitano la professione sotto la propria responsabilità specialistica possono procurarsi medicamenti contenenti sostanze controllate presso una farmacia oppure presso persone e imprese titolari di un’autorizzazione d’esercizio. L’articolo 11 capoverso 4 si applica all’intermediazione occasionale di medicamenti contenenti sostanze controllate.
+<sup>1</sup> I medici, i dentisti e i veterinari che esercitano la professione sotto la propria responsabilità specialistica possono procurarsi medicamenti contenenti sostanze controllate presso una farmacia oppure presso persone e imprese titolari di un’autorizzazione d’esercizio per l’impiego di sostanze controllate. L’articolo 11 capoverso 4 si applica all’intermediazione occasionale di medicamenti contenenti sostanze controllate.[^44-1]
 
 <sup>2</sup> Sulla loro ordinazione devono apporre il «Global Location Number» (GLN) e il loro timbro.
 
@@ -574,6 +726,8 @@ Negli studi di medici associati e nei servizi di salvataggio soltanto gli operat
 - c. la data di compilazione dell’ordinazione;
 - d. il nome del medicamento, il dosaggio e la forma farmaceutica;
 - e. il quantitativo.
+
+[^44-1]: Nuovo testo giusta il n. I dell’O del 22 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
 
 #### Art. 45
 
@@ -614,7 +768,7 @@ La ricetta per stupefacenti deve contenere:
 
 <sup>4</sup> La ricetta per stupefacenti dev’essere firmata dal medico prescrivente; una copia è conservata nella cartella medica del paziente.
 
-<sup>5</sup> L’Istituto fornisce ai Cantoni, dietro rimunerazione, i moduli ufficiali per le ricette per stupefacenti affinché li trasmettano ai medici abilitati a prescriverle.
+<sup>5</sup> Swissmedic fornisce ai Cantoni, dietro rimunerazione, i moduli ufficiali per le ricette per stupefacenti affinché li trasmettano ai medici abilitati a prescriverle.
 
 #### Art. 48
 
@@ -657,7 +811,7 @@ La notifica ai sensi dell’articolo 11 capoverso 1<sup>bis</sup> LStup deve con
 - d. il numero di animali trattati;
 - e. l’indicazione.
 
-<sup>4</sup> L’Istituto fornisce ai Cantoni, dietro rimunerazione, le ricette per stupefacenti affinché le trasmettano ai veterinari abilitati a prescriverle.
+<sup>4</sup> Swissmedic fornisce ai Cantoni, dietro rimunerazione, le ricette per stupefacenti affinché le trasmettano ai veterinari abilitati a prescriverle.
 
 ### Sezione 2: Farmacisti
 
@@ -665,7 +819,7 @@ La notifica ai sensi dell’articolo 11 capoverso 1<sup>bis</sup> LStup deve con
 
 **Acquisizione e dispensazione**
 
-<sup>1</sup> I farmacisti responsabili di una farmacia o di una farmacia di ospedale possono procurarsi sostanze controllate unicamente presso persone o imprese titolari di un’autorizzazione d’esercizio e unicamente mediante un’ordinazione scritta.
+<sup>1</sup> I farmacisti responsabili di una farmacia o di una farmacia di ospedale possono procurarsi sostanze controllate unicamente presso persone o imprese titolari di un’autorizzazione d’esercizio per l’impiego di sostanze controllate e unicamente mediante un’ordinazione scritta.[^51-1]
 
 <sup>2</sup>
 
@@ -677,6 +831,8 @@ I farmacisti di una farmacia possono dispensare medicamenti contenenti sostanze 
 <sup>3</sup> Se il medico o il veterinario prescrivente non dispone altrimenti, l’acquisizione di medicamenti contenenti sostanze controllate degli elenchi a, d non è ripetibile.
 
 <sup>4</sup> L’acquisizione parziale di medicamenti prescritti contenenti sostanze controllate degli elenchi b, c è possibile durante la durata di validità della ricetta. Sulla ricetta dev’essere indicato il quantitativo fornito e il centro di dispensazione.
+
+[^51-1]: Nuovo testo giusta il n. I dell’O del 22 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
 
 #### Art. 52
 
@@ -722,7 +878,7 @@ Essi designano un responsabile per le sostanze controllate e gli affidano i segu
 
 <sup>3</sup> L’etichettatura dei medicamenti contenenti sostanze controllate è disciplinata dalla legislazione sugli agenti terapeutici. Le indicazioni relative alle precauzioni da prendere e le avvertenze necessarie alla sicurezza dei pazienti devono figurare nell’informazione destinata ai pazienti.
 
-<sup>4</sup> Le confezioni di medicamenti pronti per l’uso contenenti sostanze controllate dell’elenco a e i medicamenti omologati contenenti sostanze controllate dell’elenco d, destinate a essere immesse in commercio in Svizzera, devono essere provviste di un contrassegno. Quest’ultimo è messo a disposizione dall’Istituto. Il contrassegno può essere sostituito da una riproduzione perfettamente corrispondente.
+<sup>4</sup> Le confezioni di medicamenti pronti per l’uso contenenti sostanze controllate dell’elenco a e i medicamenti omologati contenenti sostanze controllate dell’elenco d, destinate a essere immesse in commercio in Svizzera, devono essere provviste di un contrassegno. Quest’ultimo è messo a disposizione di Swissmedic. Il contrassegno può essere sostituito da una riproduzione perfettamente corrispondente.
 
 #### Art. 56
 
@@ -746,13 +902,22 @@ Essi designano un responsabile per le sostanze controllate e gli affidano i segu
 
 La contabilità ai sensi dell’articolo 17 LStup deve contenere le seguenti informazioni per ogni sostanza controllata:
 
-- a.
+- a.[^57-1]
 
   coltivazione di sostanze controllate:
 
-  - 1\. specie delle sostanze coltivate,
-  - 2\. superficie dell’area coltivata,
-  - 3\. genere e quantitativo della sostanza controllata ottenuta;
+  - 1\. genere della coltivazione,
+  - 2\. varietà coltivata,
+  - 3\. specie delle sostanze coltivate,
+  - 4\. ubicazione esatta e dimensioni dell’area coltivata,
+  - 5\. semina,
+  - 6\. cura,
+  - 7\. data del raccolto,
+  - 8\. resa,
+  - 9\. perdite,
+  - 10\. eliminazione,
+  - 11\. genere e quantitativo della sostanza controllata ottenuta,
+  - 12\. acquirente;
 
 - b.
 
@@ -798,13 +963,17 @@ La contabilità ai sensi dell’articolo 17 LStup deve contenere le seguenti inf
 
 <sup>3</sup> Se la data sul bollettino di consegna non corrisponde a quella di ricezione delle sostanze controllate, nella contabilità va ripresa esclusivamente la data figurante sul bollettino di consegna.
 
+[^57-1]: Nuovo testo giusta il n. I dell’O del 22 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
+
 #### Art. 58
 
 **Bilancio annuale**
 
-<sup>1</sup> La contabilità dev’essere chiusa a fine anno e inoltrata all’Istituto entro un mese. L’Istituto mette a disposizione i moduli corrispondenti.
+<sup>1</sup> La contabilità dev’essere chiusa a fine anno e presentata a Swissmedic entro un mese mediante il sistema di notifica messo a disposizione da quest’ultimo.[^58-1]
 
-<sup>2</sup> Su richiesta, devono essere fornite all’Istituto informazioni dettagliate sui dati di cui al capoverso 1.
+<sup>2</sup> Su richiesta, devono essere fornite a Swissmedic informazioni dettagliate sui dati di cui al capoverso 1.
+
+[^58-1]: Nuovo testo giusta il n. I dell’O del 22 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
 
 #### Art. 59
 
@@ -820,7 +989,7 @@ Su richiesta dei Cantoni, i titolari di un’autorizzazione d’esercizio rilasc
 
 <sup>1</sup>
 
-Le persone e le imprese titolari di un’autorizzazione rilasciata da un’autorità federale devono notificare all’Istituto ogni fornitura di sostanze controllate degli elenchi a, b, d, e, effettuata in Svizzera nei seguenti casi:
+Le persone e le imprese titolari di un’autorizzazione rilasciata da un’autorità federale devono notificare a Swissmedic ogni fornitura di sostanze controllate degli elenchi a, b, d, e, effettuata in Svizzera nei seguenti casi:
 
 - a. la fornitura di sostanze controllate a destinatari in Svizzera;
 - b. la rispedizione ai fornitori di sostanze controllate e di medicamenti contenenti sostanze controllate;
@@ -828,13 +997,15 @@ Le persone e le imprese titolari di un’autorizzazione rilasciata da un’autor
 
 <sup>2</sup> La notifica deve avvenire entro il quindici del mese che segue la fornitura o l’invio.
 
-<sup>3</sup> Le rispedizioni di sostanze controllate da parte di operatori sanitari, farmacie, ospedali, istituti scientifici e autorità cantonali e comunali a una persona o a un’impresa conformemente all’articolo 4 LStup devono essere notificate all’Istituto dal destinatario delle sostanze controllate.
+<sup>3</sup> Le rispedizioni di sostanze controllate da parte di operatori sanitari, farmacie, ospedali, istituti scientifici e autorità cantonali e comunali a una persona o a un’impresa conformemente all’articolo 4 LStup devono essere notificate a Swissmedic dal destinatario delle sostanze controllate.[^60-1]
 
 <sup>4</sup> Per ogni sostanza controllata e per ogni medicamento contenente sostanze controllate (forma farmaceutica, dosaggio e grandezza della confezione) è allestita una notifica separata.
 
-<sup>5</sup> Dopo consultazione dei Cantoni e delle cerchie interessate, l’Istituto può esonerare temporaneamente o definitivamente specifiche forniture dall’obbligo di notifica se il controllo può essere assicurato in altro modo.
+<sup>5</sup> Dopo consultazione dei Cantoni e delle cerchie interessate, Swissmedic può esonerare temporaneamente o definitivamente specifiche forniture dall’obbligo di notifica se il controllo può essere assicurato in altro modo.
 
 <sup>6</sup> I titolari di un’autorizzazione d’esercizio rilasciata da un Cantone notificano a quest’ultimo, su richiesta, le forniture effettuate in Svizzera.
+
+[^60-1]: Nuovo testo giusta il n. I dell’O del 22 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
 
 #### Art. 61
 
@@ -852,7 +1023,7 @@ La notifica contiene le seguenti indicazioni:
 
 <sup>2</sup> La notifica di preparati magistrali contenenti sostanze controllate deve menzionare il GTIN della sostanza controllata e indicare quante volte il quantitativo che corrisponde al GTIN è contenuto nel preparato.
 
-<sup>3</sup> La notifica è trasmessa mediante il sistema di notifica messo a disposizione dall’Istituto. L’Istituto consente all’autorità cantonale competente di accedere direttamente a questo sistema.
+<sup>3</sup> La notifica è trasmessa mediante il sistema di notifica messo a disposizione di Swissmedic. Swissmedic consente all’autorità cantonale competente di accedere direttamente a questo sistema.
 
 #### Art. 62
 
@@ -894,15 +1065,112 @@ La notifica contiene le seguenti indicazioni:
 
 <sup>2</sup> Il responsabile di un istituto scientifico, di un’organizzazione nazionale o internazionale, di un’autorità della Confederazione, del Cantone o del Comune dev’essere in grado di documentare in ogni momento l’acquisizione e l’uso di sostanze controllate.
 
+### Sezione 3:**** Sistema di informazioni sui trattamenti medici con stupefacenti con effetti del tipo della canapa
+
+[^chap6-sec3-1]
+
+[^chap6-sec3-1]: Introdotta dal n. I dell’O del 22 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
+
+#### Art. 65a
+
+**Pseudonimizzazione**
+
+<sup>1</sup> I medici che trattano persone con medicamenti a base di canapa sono autorizzati a utilizzare sistematicamente il numero AVS per pseudonimizzare i dati dei pazienti.
+
+<sup>2</sup> Per ogni numero AVS è generato sempre lo stesso pseudonimo per mezzo di una procedura di codifica a senso unico.
+
+<sup>3</sup> Il numero AVS può essere trattato in associazione al numero AVS pseudonimizzato (codice del paziente) soltanto dal medico curante secondo il capoverso 1.
+
+#### Art. 65b
+
+**Registrazione dei dati relativi ai trattamenti medici con stupefacenti con effetti del tipo della canapa**
+
+<sup>1</sup> L’UFSP gestisce un sistema di informazioni elettronico per la registrazione dei dati relativi ai trattamenti medici con stupefacenti con effetti del tipo della canapa (medicamenti a base di canapa) secondo l’articolo 8*b* LStup.
+
+<sup>2</sup>
+
+I medici che trattano persone con medicamenti a base di canapa devono registrare i seguenti dati nel sistema di informazioni secondo l’articolo 18*f* LStup:
+
+- a.
+
+  dati relativi alla persona trattata:
+
+  - 1\. codice del paziente,
+  - 2\. anno di nascita,
+  - 3\. sesso,
+  - 4\. peso,
+  - 5\. Cantone di domicilio;
+
+- b.
+
+  dati relativi al medico curante:
+
+  - 1\. nome e cognome,
+  - 2\. indirizzo,
+  - 3\. titolo federale di perfezionamento;
+
+- c.
+
+  dati relativi al trattamento:
+
+  - 1\. data della prescrizione,
+  - 2\. trattamento precedente con medicamenti a base di canapa e relativa durata,
+  - 3\. indicazione: diagnosi e sintomi,
+  - 4\. diagnosi secondarie rilevanti per il trattamento,
+  - 5\. medicamento a base di canapa: denominazione del preparato, della forma farmaceutica, del tenore totale di THC e CBD e del dosaggio,
+  - 6\. terapia concomitante rilevante per i sintomi: denominazione del preparato e del dosaggio,
+  - 7\. effetti,
+  - 8\. effetti collaterali del trattamento,
+  - 9\. variazioni dei sintomi in conseguenza del trattamento,
+  - 10\. fine del trattamento: data e motivo.
+
+<sup>3</sup>
+
+Devono registrare i dati immediatamente dopo:
+
+- a. la prima prescrizione;
+- b. il primo e il secondo anno di trattamento; e
+- c. la fine del trattamento, se avviene prima dello scadere del secondo anno.
+
+#### Art. 65c
+
+**Responsabilità del sistema**
+
+L’UFSP è responsabile del sistema di informazioni.
+
+#### Art. 65d
+
+**Diritti di accesso dei medici che trattano persone con medicamenti a base di canapa**
+
+I medici autorizzati all’accesso possono consultare, modificare e cancellare i dati da loro registrati.
+
+#### Art. 65e
+
+**Conservazione dei dati**
+
+<sup>1</sup> I dati sono conservati nel sistema di informazioni per al massimo dieci anni dalla loro registrazione.
+
+<sup>2</sup> L’archiviazione è retta dalla legislazione federale in materia di archiviazione.
+
+#### Art. 65f
+
+**Analisi statistiche**
+
+<sup>1</sup> Annualmente l’UFSP pubblica analisi e quadri statistici, segnatamente in merito all’indicazione nonché agli effetti e agli effetti collaterali dei trattamenti medici con medicamenti a base di canapa.
+
+<sup>2</sup> Nel sistema di informazioni, le autorità d’esecuzione cantonali e i medici coinvolti nei trattamenti possono avere accesso ad analisi statistiche anonimizzate rilevanti per il loro specifico ambito di compiti.
+
+<sup>3</sup> Su richiesta, l’UFSP può mettere a disposizione di istituti di ricerca scientificamente qualificati analisi o dati anonimizzati per scopi di ricerca.
+
 ## Capitolo 7: Esecuzione
 
-### Sezione 1: Istituto
+### Sezione 1: Swissmedic
 
 #### Art. 66
 
 **Compito generale**
 
-<sup>1</sup> L’Istituto esegue la presente ordinanza, per quanto ciò non spetti espressamente a un’altra autorità.
+<sup>1</sup> Swissmedic esegue la presente ordinanza, per quanto ciò non spetti espressamente a un’altra autorità.
 
 <sup>2</sup>
 
@@ -917,23 +1185,22 @@ Pubblica elenchi dei seguenti aventi diritto all’impiego di sostanze controlla
 - g. servizi transfrontalieri di salvataggio;
 - h. autorità cantonali e comunali.
 
+<sup>3</sup> In materia di controllo degli stupefacenti, per la canapa utilizzata per scopi medici esso assume nei confronti dell’Organizzazione delle Nazioni Unite la funzione di agenzia nazionale di controllo della canapa conformemente all’articolo 28 della Convenzione unica del 30 marzo 1961[^66-1] sugli stupefacenti, nella versione modificata dal Protocollo di emendamenti del 25 marzo 1972.[^66-2]
+
+[^66-1]: [RS 0.812.121](https://fedlex.data.admin.ch/eli/cc/2005/48)
+[^66-2]: Introdotto dal n. I dell’O del 22 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
+
 #### Art. 67
 
 **Controllo**
 
-<sup>1</sup> L’Istituto può incaricare le autorità cantonali competenti di eseguire speciali controlli in caso di sospetto di irregolarità oppure può controllare direttamente il titolare dell’autorizzazione al posto delle competenti autorità cantonali, se queste ultime non possono farlo.
-
-<sup>2</sup> Controlla, in collaborazione con l’UDSC, il rispetto delle disposizioni sull’importazione, sull’esportazione e sul transito di sostanze controllate.
-
-<sup>3</sup> A scopi analitici può prelevare gratuitamente campioni di sostanze che potrebbero essere soggette al controllo. Rilascia una ricevuta al proprietario.
-
-<sup>4</sup> È autorizzato a controllare in qualsiasi momento le sostanze controllate poste sotto vigilanza doganale, in particolare quelle conservate in un deposito doganale aperto, in un deposito di merci di gran consumo o in un deposito franco doganale e a prendere provvedimenti in caso di irregolarità. Può incaricare del controllo le autorità cantonali competenti.
+<sup>1</sup> Swissmedic può incaricare le autorità cantonali competenti di eseguire speciali controlli in caso di sospetto di irregolarità oppure può controllare direttamente il titolare dell’autorizzazione al posto delle competenti autorità cantonali, se queste ultime non possono farlo.
 
 #### Art. 68
 
 **Valutazioni**
 
-L’Istituto allestisce annualmente le valutazioni del fabbisogno di sostanze controllate da fornire in virtù delle convenzioni internazionali ratificate dalla Svizzera.
+Swissmedic allestisce annualmente le valutazioni del fabbisogno di sostanze controllate da fornire in virtù delle convenzioni internazionali ratificate dalla Svizzera.
 
 ### Sezione 2: Cantoni
 
@@ -965,9 +1232,9 @@ L’Istituto allestisce annualmente le valutazioni del fabbisogno di sostanze co
 
 <sup>1</sup> Il DFI esegue la presente ordinanza per quanto riguarda le materie prime e i prodotti con un presunto effetto simile a quello degli stupefacenti dell’elenco e.
 
-<sup>2</sup> Se materie prime e prodotti con un presunto effetto simile a quello degli stupefacenti compaiono sul mercato o se vi è il sospetto che materie prime e prodotti conosciuti abbiano un effetto simile a quello degli stupefacenti, su richiesta dell’Istituto il DFI li inserisce immediatamente nell’elenco e.
+<sup>2</sup> Se materie prime e prodotti con un presunto effetto simile a quello degli stupefacenti compaiono sul mercato o se vi è il sospetto che materie prime e prodotti conosciuti abbiano un effetto simile a quello degli stupefacenti, su richiesta di Swissmedic il DFI li inserisce immediatamente nell’elenco e.
 
-<sup>3</sup> Dopo la verifica dell’Istituto e su richiesta di quest’ultimo, assegna a un altro elenco o stralcia dall’elenco degli stupefacenti le materie prime e i prodotti.
+<sup>3</sup> Dopo la verifica da Swissmedic e su richiesta di quest’ultimo, assegna a un altro elenco o stralcia dall’elenco degli stupefacenti le materie prime e i prodotti.
 
 #### Art. 72
 
@@ -975,9 +1242,10 @@ L’Istituto allestisce annualmente le valutazioni del fabbisogno di sostanze co
 
 <sup>1</sup> L’UFSP esegue la presente ordinanza per quanto riguarda le sostanze controllate dell’elenco d, purché esse non siano utilizzate come principi attivi in un medicamento omologato.
 
-<sup>2</sup> Nel settore del controllo degli stupefacenti, esso assume nei confronti dell’Organizzazione delle Nazioni Unite la funzione di agenzia nazionale di controllo della canapa conformemente all’articolo 28 della Convenzione unica sugli stupefacenti del 30 marzo 1961[^72-1] nella versione modificata dal Protocollo di emendamenti del 25 marzo 1972.
+<sup>2</sup> In materia di controllo degli stupefacenti, per la canapa utilizzata per scopi non medici esso assume nei confronti dell’Organizzazione delle Nazioni Unite la funzione di agenzia nazionale di controllo della canapa conformemente all’articolo 28 della Convenzione unica del 30 marzo 1961[^72-1] sugli stupefacenti, nella versione modificata dal Protocollo di emendamenti del 25 marzo 1972.[^72-2]
 
 [^72-1]: [RS 0.812.121](https://fedlex.data.admin.ch/eli/cc/2005/48)
+[^72-2]: Nuovo testo giusta il n. I dell’O del 22 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
 
 ### Sezione 4: Collaborazione e trasmissione dei dati
 
@@ -991,45 +1259,47 @@ Le autorità della Confederazione e dei Cantoni competenti per l’esecuzione de
 
 **Sistema di gestione degli affari e di conservazione degli atti**
 
-L’Istituto dispone di un sistema interno di gestione degli affari e di conservazione degli atti nel quale registra i dati relativi al rilascio di autorizzazioni e alla ricezione di notifiche. Il sistema può contenere anche dati relativi a perseguimenti amministrativi e penali.
+Swissmedic dispone di un sistema interno di gestione degli affari e di conservazione degli atti nel quale registra i dati relativi al rilascio di autorizzazioni e alla ricezione di notifiche. Il sistema può contenere anche dati relativi a perseguimenti amministrativi e penali.
 
 #### Art. 75
 
 **Trattamento dei dati**
 
-<sup>1</sup> L’autorità cantonale competente trasmette all’Istituto i dati completi di tutti gli operatori sanitari, ospedali e istituti scientifici autorizzati a procurarsi, depositare, prescrivere, usare o dispensare sostanze controllate. I medici autorizzati a dispensare direttamente medicamenti sono designati in modo speciale.
+<sup>1</sup> L’autorità cantonale competente trasmette a Swissmedic i dati completi di tutti gli operatori sanitari, ospedali e istituti scientifici autorizzati a procurarsi, depositare, prescrivere, usare o dispensare sostanze controllate. I medici autorizzati a dispensare direttamente medicamenti sono designati in modo speciale.[^75-1]
 
-<sup>2</sup> L’Istituto stabilisce la forma e i termini per la trasmissione dei dati di cui al capoverso 1.
+<sup>2</sup> Swissmedic stabilisce la forma e i termini per la trasmissione dei dati di cui al capoverso 1.
+
+[^75-1]: Nuovo testo giusta il n. I dell’O del 22 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
 
 #### Art. 76
 
-**Collaborazione tra l’Ufficio federale di polizia e l’Istituto**
+**Collaborazione tra l’Ufficio federale di polizia e Swissmedic**
 
-<sup>1</sup> L’Istituto comunica all’Ufficio federale di polizia le informazioni di cui necessita per adempiere i suoi compiti nell’ambito della repressione del traffico illegale di sostanze controllate.
+<sup>1</sup> Swissmedic comunica all’Ufficio federale di polizia le informazioni di cui necessita per adempiere i suoi compiti nell’ambito della repressione del traffico illegale di sostanze controllate.
 
-<sup>2</sup> L’Ufficio federale di polizia informa l’Istituto in merito a constatazioni e osservazioni in relazione alla LStup.
+<sup>2</sup> L’Ufficio federale di polizia informa Swissmedic in merito a constatazioni e osservazioni in relazione alla LStup.
 
 #### Art. 77
 
-**Collaborazione tra il DFI e l’Istituto**
+**Collaborazione tra il DFI e Swissmedic**
 
-<sup>1</sup> Il DFI e l’Istituto collaborano nell’ambito dei loro compiti di controllo e si informano costantemente a vicenda.
+<sup>1</sup> Il DFI e Swissmedic collaborano nell’ambito dei loro compiti di controllo e si informano costantemente a vicenda.
 
-<sup>2</sup> Il DFI trasmette all’Istituto i dati completi di tutti i titolari di autorizzazioni che possono procurarsi, mediare, importare, esportare, fabbricare e dispensare sostanze controllate dell’elenco e oppure farne commercio. Notifica ogni modifica all’Istituto.
+<sup>2</sup> Il DFI trasmette a Swissmedic i dati completi di tutti i titolari di autorizzazioni che possono procurarsi, mediare, importare, esportare, fabbricare e dispensare sostanze controllate dell’elenco e oppure farne commercio. Notifica ogni modifica a Swissmedic.
 
 #### Art. 78
 
-**Collaborazione tra l’UFSP e l’Istituto**
+**Collaborazione tra l’UFSP e Swissmedic**
 
-<sup>1</sup> L’UFSP e l’Istituto collaborano nell’ambito dei loro compiti di controllo e si informano costantemente a vicenda.
+<sup>1</sup> L’UFSP e Swissmedic collaborano nell’ambito dei loro compiti di controllo e si informano costantemente a vicenda.
 
-<sup>2</sup> L’UFSP trasmette all’Istituto i dati completi di tutti i titolari di autorizzazioni che possono procurarsi, mediare, importare ed esportare, coltivare, fabbricare e dispensare sostanze controllate dell’elenco d oppure farne commercio. Notifica ogni modifica all’Istituto.
+<sup>2</sup> L’UFSP trasmette a Swissmedic i dati completi di tutti i titolari di autorizzazioni che possono procurarsi, mediare, importare ed esportare, coltivare, fabbricare e dispensare sostanze controllate dell’elenco d oppure farne commercio. Notifica ogni modifica a Swissmedic.
 
 #### Art. 79
 
 **Scambi internazionali**
 
-<sup>1</sup> L’Istituto provvede affinché le notifiche previste dalle convenzioni internazionali giungano agli organi competenti entro il termine prescritto.
+<sup>1</sup> Swissmedic provvede affinché le notifiche previste dalle convenzioni internazionali giungano agli organi competenti entro il termine prescritto.
 
 <sup>2</sup> Pubblica le notifiche e le informazioni previste dalle convenzioni internazionali ratificate.
 
@@ -1045,18 +1315,68 @@ D’intesa con gli organi e le autorità seguenti, può trattare documenti elett
 [^79-1]: [RS 0.812.121](https://fedlex.data.admin.ch/eli/cc/2005/48)
 [^79-2]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
 
+### Sezione 4*a*:**** Trattamento dei dati
+
+[^chap7-sec4a-1]
+
+[^chap7-sec4a-1]: Introdotta dal n. I dell’O del 22 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
+
+#### Art. 79a
+
+**Trattamento dei dati**
+
+<sup>1</sup>
+
+Ai fini del rilascio delle autorizzazioni di cui agli articoli 4, 5 e 8 capoversi 5–8 LStup o per verificare che queste siano rispettate, l’UFSP e Swissmedic possono trattare i seguenti dati personali dei richiedenti e dei titolari di autorizzazioni:
+
+- a. dati relativi all’identità;
+- b. dati relativi a domicilio, sede sociale e ubicazione aziendale;
+- c. dati relativi alle iscrizioni nel registro di commercio;
+- d. dati relativi a procedimenti penali;
+- e. dati relativi a procedimenti di esecuzione;
+- f. dati relativi alla formazione professionale e alla qualifica.
+
+<sup>2</sup>
+
+Ai fini del rilascio di autorizzazioni eccezionali di cui all’articolo 8 capoversi 5–8 LStup, l’UFSP può inoltre trattare i seguenti dati personali:
+
+- a.
+
+  dati dei pazienti relativi:
+
+  - 1\. all’identità,
+  - 2\. alla cartella clinica rilevanti ai fini della valutazione dell’applicazione medica limitata di stupefacenti vietati;
+
+- b.
+
+  dati dei medici curanti relativi:
+
+  - 1\. all’identità,
+  - 2\. al perfezionamento.
+
+<sup>3</sup> L’UFSP e Swissmedic assicurano che abbiano accesso ai dati di cui ai capoversi 1 e 2 solo le persone incaricate di trattare le autorizzazioni di cui agli articoli 4, 5 e 8 capoversi 5–8 LStup.
+
+#### Art. 79b
+
+**Conservazione dei dati di cui all’articolo 79*a***
+
+<sup>1</sup> I dati di cui all’articolo 79*a* sono conservati in un sistema di gestione elettronica degli affari per al massimo dieci anni dalla loro registrazione.
+
+<sup>2</sup> L’archiviazione è retta dalla legislazione federale in materia di archiviazione.
+
 ### Sezione 5: Emolumenti
 
 #### Art. 80
 
-<sup>1</sup> Gli emolumenti riscossi dall’Istituto sono disciplinati nell’ordinanza del 22 giugno 2006[^80-1] sugli emolumenti per gli agenti terapeutici.
+<sup>1</sup> Gli emolumenti riscossi da Swissmedic sono disciplinati nell’ordinanza dell’Istituto svizzero per gli agenti terapeutici del 14 settembre 2018[^80-1] sui suoi emolumenti.[^80-2]
 
-<sup>2</sup> L’Istituto può esonerare organizzazioni a carattere umanitario, organizzazioni internazionali e autorità dall’obbligo di pagare emolumenti, per quanto tale obbligo non sia stato disciplinato nell’autorizzazione del Consiglio federale.
+<sup>2</sup> Swissmedic può esonerare organizzazioni a carattere umanitario, organizzazioni internazionali e autorità dall’obbligo di pagare emolumenti, per quanto tale obbligo non sia stato disciplinato nell’autorizzazione del Consiglio federale.
 
-<sup>3</sup> Gli emolumenti riscossi dal DFI e dall’UFSP sono disciplinati dagli articoli 38–40 ODStup[^80-2].
+<sup>3</sup> Gli emolumenti riscossi dal DFI e dall’UFSP sono disciplinati dagli articoli 38–40 ODStup[^80-3].
 
 [^80-1]: [RS 812.214.5](https://fedlex.data.admin.ch/eli/cc/2018/593)
-[^80-2]: [RS 812.121.6](https://fedlex.data.admin.ch/eli/cc/2011/364)
+[^80-2]: Nuovo testo giusta il n. I dell’O del 22 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
+[^80-3]: [RS 812.121.6](https://fedlex.data.admin.ch/eli/cc/2011/364)
 
 ## Capitolo 8: Organizzazioni nazionali e internazionali
 
@@ -1084,9 +1404,9 @@ Il Consiglio federale può rilasciare a un’organizzazione nazionale o internaz
 
 **Controllo**
 
-<sup>1</sup> L’organizzazione nazionale o internazionale che dispone di un’autorizzazione del Consiglio federale (art. 14*a* cpv. 1 LStup) è obbligata, per ogni medicamento omologato contenente sostanze controllate dello stesso genere e dello stesso dosaggio, a tenere un controllo specifico delle scorte ai sensi dell’articolo 57 e a fornire all’Istituto alla fine dell’anno un inventario conformemente all’articolo 58.
+<sup>1</sup> L’organizzazione nazionale o internazionale che dispone di un’autorizzazione del Consiglio federale (art. 14*a* cpv. 1 LStup) è obbligata, per ogni medicamento omologato contenente sostanze controllate dello stesso genere e dello stesso dosaggio, a tenere un controllo specifico delle scorte ai sensi dell’articolo 57 e a fornire a Swissmedic alla fine dell’anno un inventario conformemente all’articolo 58.
 
-<sup>2</sup> L’Istituto verifica l’esattezza del controllo delle scorte. A tale scopo, è autorizzato ad accedere ai magazzini e a controllare gli effettivi di medicamenti contenenti sostanze controllate.
+<sup>2</sup> Swissmedic verifica l’esattezza del controllo delle scorte. A tale scopo, è autorizzato ad accedere ai magazzini e a controllare gli effettivi di medicamenti contenenti sostanze controllate.
 
 ## Capitolo 9: Sanzioni
 
@@ -1111,7 +1431,7 @@ Conformemente all’articolo 22 capoverso 1 lettera d LStup, è punito chi inten
 
 **Avvio del procedimento penale in caso di infrazioni**
 
-<sup>1</sup> Se l’ufficio doganale trattiene sostanze controllate (art. 40 cpv. 1) e se gli accertamenti dell’Istituto (art. 40 cpv. 2) rivelano che il sospetto di violazione di disposizioni della presente ordinanza è fondato oppure se, al momento dell’entrata delle sostanze controllate nel territorio doganale svizzero, non può essere provato che la spedizione è stata effettuata in modo conforme alle prescrizioni del Paese di destinazione, l’Istituto trasmette il fascicolo all’autorità cantonale competente per il perseguimento penale delle infrazioni (art. 28 LStup).
+<sup>1</sup> Se l’ufficio doganale trattiene sostanze controllate (art. 40 cpv. 1) e se gli accertamenti di Swissmedic (art. 40 cpv. 2) rivelano che il sospetto di violazione di disposizioni della presente ordinanza è fondato oppure se, al momento dell’entrata delle sostanze controllate nel territorio doganale svizzero, non può essere provato che la spedizione è stata effettuata in modo conforme alle prescrizioni del Paese di destinazione, Swissmedic trasmette il fascicolo all’autorità cantonale competente per il perseguimento penale delle infrazioni (art. 28 LStup).
 
 <sup>2</sup> Le sostanze controllate confiscate nell’ambito del perseguimento penale di infrazioni (art. 69 del Codice penale[^85-1]) possono essere riutilizzate in modo legale oppure essere eliminate conformemente alle disposizioni dell’articolo 70.
 
@@ -1135,10 +1455,10 @@ Le seguenti ordinanze sono abrogate:
 - 6\. il decreto del Consiglio federale del 5 luglio 1963[^86-6] concernente i prodotti stupefacenti per la Croce Rossa svizzera;
 - 7\. il decreto del Consiglio federale del 30 dicembre 1953[^86-7] concernente i prodotti stupefacenti per il Comitato internazionale della Croce Rossa.
 
-[^86-1]: [[RU 1996 1679](https://fedlex.data.admin.ch/eli/oc/1996/1679_1679_1679), [2001 3133](https://fedlex.data.admin.ch/eli/oc/2001/470), [2004 4037](https://fedlex.data.admin.ch/eli/oc/2004/591)n. I[1](https://fedlex.data.admin.ch/eli/oc/2004/1), [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 38, [2008 5577](https://fedlex.data.admin.ch/eli/oc/2008/772)[5583](https://fedlex.data.admin.ch/eli/oc/2008/773)]
-[^86-2]: [[RU 1997 273](https://fedlex.data.admin.ch/eli/oc/1997/273_273_273), [2001 3146](https://fedlex.data.admin.ch/eli/oc/2001/471), [2005 4961](https://fedlex.data.admin.ch/eli/oc/2005/678), [2010 4099](https://fedlex.data.admin.ch/eli/oc/2010/599)]
-[^86-3]: [[RU 1996 1705](https://fedlex.data.admin.ch/eli/oc/1996/1705_1705_1705), [2001 3152](https://fedlex.data.admin.ch/eli/oc/2001/473), [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 39]
-[^86-4]: [[RU 1997 211](https://fedlex.data.admin.ch/eli/oc/1997/211_211_211), [2001 3159](https://fedlex.data.admin.ch/eli/oc/2001/474)[3160](https://fedlex.data.admin.ch/eli/oc/2001/475), [2005 4839](https://fedlex.data.admin.ch/eli/oc/2005/653), [2010 1293](https://fedlex.data.admin.ch/eli/oc/2010/186)]
+[^86-1]: [[RU 1996 1679](https://fedlex.data.admin.ch/eli/oc/1996/1679_1679_1679); [2001 3133](https://fedlex.data.admin.ch/eli/oc/2001/470); [2004 4037](https://fedlex.data.admin.ch/eli/oc/2004/591)n. I 1; [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 38; [2008 5577](https://fedlex.data.admin.ch/eli/oc/2008/772), [5583](https://fedlex.data.admin.ch/eli/oc/2008/773)]
+[^86-2]: [[RU 1997 273](https://fedlex.data.admin.ch/eli/oc/1997/273_273_273); [2001 3146](https://fedlex.data.admin.ch/eli/oc/2001/471); [2005 4961](https://fedlex.data.admin.ch/eli/oc/2005/678); [2010 4099](https://fedlex.data.admin.ch/eli/oc/2010/599)]
+[^86-3]: [[RU 1996 1705](https://fedlex.data.admin.ch/eli/oc/1996/1705_1705_1705); [2001 3152](https://fedlex.data.admin.ch/eli/oc/2001/473); [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 39]
+[^86-4]: [[RU 1997 211](https://fedlex.data.admin.ch/eli/oc/1997/211_211_211); [2001 3159](https://fedlex.data.admin.ch/eli/oc/2001/474), [3160](https://fedlex.data.admin.ch/eli/oc/2001/475); [2005 4839](https://fedlex.data.admin.ch/eli/oc/2005/653); [2010 1293](https://fedlex.data.admin.ch/eli/oc/2010/186)]
 [^86-5]: [CS **5** 310]
 [^86-6]: [[RU 1963 619](https://fedlex.data.admin.ch/eli/oc/1963/599_603_619)]
 [^86-7]: [[RU 1953 1382](https://fedlex.data.admin.ch/eli/oc/1953/1309_1338_1382)]
@@ -1161,6 +1481,14 @@ Le ordinanze qui appresso sono modificate come segue:
 
 <sup>2</sup> Le autorizzazioni rilasciate prima dell’entrata in vigore della presente ordinanza rimangono valide.
 
+#### Art. 88a
+
+**Disposizione transitoria della modifica del 22 giugno 2022**[^88a-1]
+
+Le autorizzazioni eccezionali dell’UFSP per la coltivazione, l’importazione, la fabbricazione e la messa in commercio di stupefacenti con effetti del tipo della canapa per scopi medici secondo la versione vigente dell’articolo 8 capoverso 5 LStup rimangono valide fino alla loro scadenza, tuttavia al massimo per 12 mesi dall’entrata in vigore della modifica del 22 giugno 2022.
+
+[^88a-1]: Introdotto dal n. I dell’O del 22 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
+
 #### Art. 89
 
 **Entrata in vigore**
@@ -1169,11 +1497,13 @@ Le ordinanze qui appresso sono modificate come segue:
 
 <sup>2</sup> L’articolo 60 entra in vigore il 1° gennaio 2013 per le sostanze controllate dell’elenco b.
 
-Allegato 1
+Allegato 1*[^t-1]*
 
-(art. 42 cpv. 2)
+(art. 41 cpv. 1<sup>bis</sup> e 42 cpv. 2)
 
 ## Accordi di associazione alla normativa di Schengen
+
+[^t-1]: Aggiornato dal n. II cpv. 1 dell’O del 22 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
 
 Gli Accordi di associazione alla normativa di Schengen comprendono:
 
@@ -1189,12 +1519,14 @@ Gli Accordi di associazione alla normativa di Schengen comprendono:
 [^annex1-lvlu1-4]: [RS 0.362.33](https://fedlex.data.admin.ch/eli/cc/2008/114)
 [^annex1-lvlu1-5]: [RS 0.362.311](https://fedlex.data.admin.ch/eli/cc/2011/205)
 
-Allegato 2
+Allegato 2*[^t-2]*
 
-(art. 42 cpv. 6)
+(art. 41 cpv. 1<sup>bis</sup> e 42 cpv. 6)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/362/20220101/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/362/20220801/it/xml/image/image1.png)
 
 Verso dell’attestato
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/362/20220101/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/362/20220801/it/xml/image/image2.png)
+
+[^t-2]: Aggiornato dal n. II cpv. 2 dell’O del 22 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 386](https://fedlex.data.admin.ch/eli/oc/2022/386)).
