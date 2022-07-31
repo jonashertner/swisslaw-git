@@ -4,13 +4,13 @@ number: "730.100"
 title: Bau- und Planungsgesetz
 short: BPG
 language: de
-version: 2021-01-01
-valid_until: 2022-07-31
-version_adopted: 2020-10-14
+version: 2022-08-01
+valid_until: 2025-02-16
+version_adopted: 2021-06-24
 adopted: 1999-11-17
 in_force: 2001-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/730.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5211/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6218/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,17 +21,18 @@ Bau- und Planungsgesetz | Hochbauten
 
 (BPG)
 
-Vom 17. November 1999 (Stand 1. Januar 2021)
+Vom 17. November 1999 (Stand 1. August 2022)
 
 Der Grosse Rat des Kantons Basel-Stadt,
 
-gestützt auf das Bundesgesetz vom 22. Juni 1979 über die Raumplanung[^ingress-1], das Wohnbau- und Eigentumsförderungsgesetz vom 4. Oktober 1974[^ingress-2], das Bundesgesetz über den Umweltschutz vom 7. Oktober 1983[^ingress-3] und ihre Ausführungserlasse, auf Antrag seiner Kommission für Raumplanungsfragen,
+gestützt auf das Bundesgesetz vom 22. Juni 1979 über die Raumplanung[^ingress-1], das Wohnbau- und Eigentumsförderungsgesetz vom 4. Oktober 1974[^ingress-2], das Bundesgesetz über den Umweltschutz vom 7. Oktober 1983[^ingress-3] und ihre Ausführungserlasse, auf Antrag seiner Kommission für Raumplanungsfragen[^ingress-4],
 
 beschliesst:
 
 [^ingress-1]: SR [700](https://db.clex.ch/link/Bund/700/de).
 [^ingress-2]: SR [843](https://db.clex.ch/link/Bund/843/de).
 [^ingress-3]: SR [814.01](https://db.clex.ch/link/Bund/814.01/de).
+[^ingress-4]: Ratschlag und Entwurf zu einem Baugesetz und Bericht des RR zu 5 Anzügen und zur Initiative für betagten- und behindertenfreundliches Bauen vom 7. November 1995/BD Drucksache [Nr. 8637](https://dls.staatsarchiv.bs.ch/records/1388524/2399861/preview?context=%2Frecords%2F1388524), Bericht GRK dazu vom 1. Sept. 1999 [Nr. 8940](https://dls.staatsarchiv.bs.ch/records/1388831). Ratschlag [Nr. 9230](https://grosserrat.bs.ch/dokumente/100125/000000125196.pdf) zur Änderung des Bau- und Planungsetzes, beschlossen am 20.1.2005.
 
 #### § 1
 
@@ -1000,9 +1001,11 @@ In den Zonen 2 und 2a 8 m
 - b) die Zahl der Wohnungen oder der nach der Erfahrung zu erwartenden Arbeitsplätze;
 - c) die Qualität der Verkehrserschliessung, besonders die Erreichbarkeit mit öffentlichen Verkehrsmitteln.
 
-<sup>2</sup> In Gebieten, die vom Motorfahrzeugverkehr zu entlasten sind, können Abstellplätze, die nicht zu einer Wohnung oder zu einem Arbeitsplatz gehören, ausgeschlossen oder auf den für unvermeidbare Fahrten bestehenden Bedarf beschränkt werden.
+<sup>2</sup> Die Nutzung von Abstellplätzen ist grundsätzlich frei. Mehrfachnutzungen sind zulässig, solange dadurch nicht wesentlich mehr Verkehr entsteht, als bei einer bewilligungsgemässen Nutzung im Durchschnitt entstehen würde. Die Einzelheiten regelt die Verordnung.
 
-<sup>3</sup> Der Regierungsrat kann die Baubewilligungsbehörde ermächtigen, eine grössere als die durch Verordnung zugelassene Zahl von Abstellplätzen in Gemeinschaftsanlagen zu bewilligen, wenn er im gleichen Beschluss für jeden zusätzlichen Platz mindestens 0,6 Plätze auf Allmend aufhebt. Die Publikationen des Baubegehrens und der verkehrspolizeilichen Anordnungen müssen auf diesen Zusammenhang hinweisen.
+<sup>3</sup> Der Regierungsrat kann die Baubewilligungsbehörde ermächtigen, Quartierparkings zu bewilligen, wenn die Bedingungen gemäss § 19<sup>bis</sup> USG BS eingehalten sind.
+
+<sup>4</sup> Ein angemessener Anteil — jedoch mindestens 25 % — der Parkplätze müssen mit Ladestationen für Elektroautos ausgerüstet sein. Für sämtliche restliche Parkplätze sind bauliche Vorkehrungen (Einbau von Leerrohren) zu treffen, um diese zu einem späteren Zeitpunkt nachrüsten zu können. Einzelheiten regelt die Verordnung.
 
 ### 3.VI.6.c) Lage
 
@@ -1208,7 +1211,7 @@ In den Zonen 2 und 2a 8 m
 - a) wenn es zum Schutz von Menschen, der Umwelt oder erheblicher Sachwerte nötig ist;
 - b) um zu vermeiden, dass aus einer bösgläubigen Widerhandlung gegen Bauvorschriften Nutzen gezogen werden kann.
 
-<sup>3</sup> Die gestützt auf diese Bestimmungen erlassenen Verfügungen sind sofort vollstreckbar. Das zuständige Vollzugsorgan kann die Vollstrekung aufschieben, wenn es wichtige Interessen von Nutzungsberechtigten rechtfertigen.
+<sup>3</sup> Die gestützt auf diese Bestimmungen erlassenen Verfügungen sind sofort vollstreckbar. Das zuständige Vollzugsorgan kann die Vollstreckung aufschieben, wenn es wichtige Interessen von Nutzungsberechtigten rechtfertigen.
 
 ### 5.Kapitel.V.3. Ersatzvornahme
 
@@ -2324,6 +2327,8 @@ In den Zonen 2 und 2a 8 m
 <sup>5</sup> Abweichende Übergangsbestimmungen bleiben vorbehalten.
 
 <sup>6</sup> § 73 Abs. 4 gilt für Neubauten, für die ab Inkrafttreten von § 73 Abs. 4 ein Baugesuch eingereicht wird.
+
+<sup>7</sup> Die im Zeitpunkt des Inkrafttretens von § 74 Abs. 2 - 4 hängigen Baugesuche werden in Abweichung von Abs. 1 nach bisherigem Recht beurteilt.
 
 ### I.3. Weitergeltung von Zonenvorschriften
 
