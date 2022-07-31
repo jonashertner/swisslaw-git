@@ -3,20 +3,20 @@ sr: "822.115.4"
 title: Ordinanza del DEFR del 21 aprile 2011 sulle deroghe al divieto del lavoro notturno e domenicale durante la formazione professionale di base
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/251"
 language: it
-version: 2019-08-01
+version: 2022-08-01
 adopted: 2011-04-21
 in_force: 2011-05-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/251/20190801/it/xml/fedlex-data-admin-ch-eli-cc-2011-251-20190801-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/251/20190801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/251/20220801/it/xml/fedlex-data-admin-ch-eli-cc-2011-251-20220801-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/251/20220801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza del DEFR sulle deroghe al divieto del lavoro notturno e domenicale durante la formazione professionale di base
 
-del 21 aprile 2011 (Stato 1° agosto 2019) (Stato 1° agosto 2019)
+del 21 aprile 2011 (Stato 1° agosto 2022)
 
-Il Dipartimento federale dell’economia, della formazione e della ricerca (DEFR)*[^ingress-1]*,
+Il Dipartimento federale dell’economia, della formazione e della ricerca (DEFR)[^ingress-1],
 
 visto l’articolo 14 dell’ordinanza del 28 settembre 2007[^ingress-2] sulla protezione dei giovani lavoratori,
 
@@ -283,26 +283,27 @@ Per l’occupazione di persone che seguono la formazione professionale di base d
 
 <sup>1</sup>
 
-Le disposizioni si applicano alle seguenti formazioni professionali di base:
+Per l’occupazione di persone che seguono la formazione professionale di base di agente dei trasporti pubblici AFC si applicano a partire dai 16 anni compiuti le seguenti disposizioni:
 
-- a. agente dei trasporti pubblici AFC;
-- b. impiegata di commercio AFC/impiegato di commercio AFC (formazione di base e formazione estesa) nel ramo di formazione e d’esame trasporti pubblici nell’ambito della consulenza e delle vendite.
+- a. le persone in formazione sono autorizzate a lavorare in aziende con pausa notturna al massimo quattro notti all’anno a partire dalle 03.00 e al massimo quattro notti all’anno fino alle 02.00;
+- b. le persone in formazione sono autorizzate a lavorare in aziende in servizio 24 ore su 24 al massimo quattro notti all’anno;
+- c. le persone in formazione sono autorizzate a lavorare al massimo quattro domeniche o giorni festivi all’anno.
 
 <sup>2</sup>
 
-Le persone in formazione di cui al capoverso 1 lettera a sono autorizzate a lavorare di notte a partire dai 16 anni compiuti entro i seguenti limiti:
+Per l’occupazione notturna di persone che seguono la formazione professionale di base di impiegata del commercio al dettaglio AFC/impiegato del commercio al dettaglio AFC nel ramo di formazione e d’esame trasporti pubblici nell’ambito d’impiego treno si applicano a partire dai 16 anni compiuti le seguenti disposizioni:
 
-- a. al massimo due notti al mese a partire dalle 04.30 e al massimo otto notti all’anno a partire dalle 04.30; e
-- b. al massimo quattro notti al mese e al massimo 32 notti all’anno, di cui al massimo tre notti al mese fino alle 24.00 e al massimo una notte al mese fino alle 02.00.
+- a. le persone in formazione sono autorizzate a lavorare al massimo otto notti all’anno a partire dalle 04.30, di cui al massimo due notti al mese;
+- b. le persone in formazione sono autorizzate a lavorare al massimo 32 notti all’anno fino alle 24.00 o alle 02.00, di cui al massimo tre notti al mese fino alle 24.00 e al massimo una notte al mese fino alle 02.00.
 
 <sup>3</sup>
 
-Le persone in formazione di cui al capoverso 1 sono autorizzate a lavorare di domenica o in giorni festivi equiparati alla domenica entro i seguenti limiti:
+Per l’occupazione domenicale o in giorni festivi equiparati alla domenica di persone che seguono la formazione professionale di base di impiegata del commercio al dettaglio AFC/impiegato del commercio al dettaglio AFC nel ramo di formazione e d’esame trasporti pubblici nell’ambito d’impiego treno o vendita si applicano le seguenti disposizioni:
 
-- a. a partire dai 16 anni compiuti: al massimo quattro domeniche o giorni festivi all’anno;
-- b. a partire dai 17 anni compiuti: al massimo due domeniche o giorni festivi al mese e al massimo 12 domeniche o giorni festivi all’anno, ma al massimo due giorni festivi all’anno che non cadono di domenica.
+- a. le persone in formazione a partire dai 16 anni compiuti sono autorizzate a lavorare al massimo quattro domeniche o giorni festivi all’anno;
+- b. le persone in formazione a partire dai 17 anni compiuti sono autorizzate a lavorare al massimo due domeniche o giorni festivi al mese e al massimo 12 domeniche o giorni festivi all’anno, ma al massimo due giorni festivi all’anno che non cadono di domenica.
 
-[^11b-1]: Introdotto dal n. I dell’O del DEFR del 20 mar. 2015, in vigore dal 1° mag. 2015 ([RU 2015 1087](https://fedlex.data.admin.ch/eli/oc/2015/216)).
+[^11b-1]: Introdotto dal n. I dell’O del DEFR del 20 mar. 2015 ([RU 2015 1087](https://fedlex.data.admin.ch/eli/oc/2015/216)). Nuovo testo giusta il n. I dell’O del DEFR del 2 mag. 2022, in vigore dal 1° ago. 2022 ([RU 2022 308](https://fedlex.data.admin.ch/eli/oc/2022/308)).
 
 #### Art. 11c
 
@@ -344,7 +345,15 @@ Per l’occupazione domenicale o in giorni festivi equiparati alla domenica di p
 
 L’ordinanza del DEFR del 29 maggio 2008[^13-1] sulle deroghe al divieto del lavoro notturno e domenicale durante la formazione professionale di base è abrogata.
 
-[^13-1]: [[RU 2008 2473](https://fedlex.data.admin.ch/eli/oc/2008/353), [2009 1613](https://fedlex.data.admin.ch/eli/oc/2009/234), [2010 533](https://fedlex.data.admin.ch/eli/oc/2010/75)[1507](https://fedlex.data.admin.ch/eli/oc/2010/211)]
+[^13-1]: [[RU 2008 2473](https://fedlex.data.admin.ch/eli/oc/2008/353); [2009 1613](https://fedlex.data.admin.ch/eli/oc/2009/234); [2010 533](https://fedlex.data.admin.ch/eli/oc/2010/75), [1507](https://fedlex.data.admin.ch/eli/oc/2010/211)]
+
+#### Art. 13a
+
+**Disposizione transitoria relativa alla modifica del 2 maggio 2022**[^13a-1]
+
+Per le persone in formazione che hanno iniziato il tirocinio prima del 1° agosto 2022 si applica, riguardo al lavoro notturno e domenicale, il diritto previgente.
+
+[^13a-1]: Introdotto dal n. I dell’O del DEFR del 2 mag. 2022, in vigore dal 1° ago. 2022 ([RU 2022 308](https://fedlex.data.admin.ch/eli/oc/2022/308)).
 
 #### Art. 14
 

@@ -3,20 +3,20 @@ sr: "822.115.4"
 title: "Ordonnance du DEFR du 21 avril 2011 concernant les dérogations à l'interdiction du travail de nuit et du dimanche pendant la formation professionnelle initiale"
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/251"
 language: fr
-version: 2019-08-01
+version: 2022-08-01
 adopted: 2011-04-21
 in_force: 2011-05-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/251/20190801/fr/xml/fedlex-data-admin-ch-eli-cc-2011-251-20190801-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/251/20190801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/251/20220801/fr/xml/fedlex-data-admin-ch-eli-cc-2011-251-20220801-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/251/20220801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du DEFR concernant les dérogations à l’interdiction du travail de nuit et du dimanche pendant la formation professionnelle initiale
 
-du 21 avril 2011 (Etat le 1<sup>er</sup> août 2019)
+du 21 avril 2011 (État le 1<sup>er</sup> août 2022)
 
-Le Département fédéral de l’économie, de la formation et de la recherche (DEFR)*[^ingress-1]*,
+Le Département fédéral de l’économie, de la formation et de la recherche (DEFR)[^ingress-1],
 
 vu l’art. 14 de l’ordonnance du 28 septembre 2007 sur la protection des jeunes travailleurs[^ingress-2],
 
@@ -222,7 +222,7 @@ Les dispositions s’appliquent aux formations professionnelles initiales suivan
 
 - a. assistante en soins et santé communautaire CFC/assistant en soins et santé communautaire CFC;
 - b. assistante socio-éducative CFC/assistant socio-éducatif CFC;
-- c.[^10-1] ...
+- c.[^10-1] …
 - d. assistante médicale CFC/assistant médical CFC;
 - e. assistante en médecine vétérinaire CFC/assistant en médecine vétérinaire CFC;
 - f.[^10-2] aide en soins et accompagnement AFP.
@@ -283,26 +283,27 @@ Les dispositions suivantes s’appliquent aux personnes en formation dans la for
 
 <sup>1</sup>
 
-Les dispositions s’appliquent aux formations professionnelles initiales suivantes:
+Les dispositions suivantes s’appliquent aux personnes en formation dans la formation professionnelle initiale d’agente de transports publics CFC/agent de transports publics CFC dès l’âge de 16 ans révolus:
 
-- a. agente de transports publics CFC/agent de transports publics CFC;
-- b. employée de commerce CFC/employé de commerce CFC (formation initiale de base et formation initiale élargie) dans la branche de formation et d’examen des transports publics, dans les domaines du conseil et de la vente.
+- a. les personnes en formation sont autorisées à travailler au maximum quatre nuits par an à partir de 3 heures et au maximum quatre nuits par an jusqu’à 2 heures dans les entreprises caractérisées par une pause la nuit;
+- b. les personnes en formation sont autorisées à travailler au maximum quatre nuits par an dans les entreprises caractérisées par une exploitation 24 h/24;
+- c. les personnes en formation sont autorisées à travailler au maximum quatre dimanches ou jours fériés par an.
 
 <sup>2</sup>
 
-Les personnes en formation visées à l’al. 1, let. a, peuvent travailler la nuit comme suit, dès l’âge de 16 ans révolus:
+Les dispositions suivantes s’appliquent à l’occupation la nuit de personnes en formation dans la formation professionnelle initiale de gestionnaire du commerce de détail CFC dans la branche de formation et d’examen transports publics, dans le domaine train, dès l’âge de 16 ans révolus:
 
-- a. au maximum deux nuits par mois à partir de 4 h 30 et au maximum huit nuits par an à partir de 4 h 30, et
-- b. au maximum quatre nuits par mois et au maximum 32 nuits par an, dont au maximum trois nuits par mois jusqu’à 24 heures et au maximum une nuit par mois jusqu’à 2 heures.
+- a. les personnes en formation sont autorisées à travailler au maximum huit nuits par an à partir de 4 h 30 au plus tôt, dont au maximum deux nuits par mois;
+- b. les personnes en formation sont autorisées à travailler au maximum 32 nuits par an au plus tard jusqu’à 24 heures ou 2 heures, dont au maximum trois nuits par mois jusqu’à 24 heures et au maximum une nuit par mois jusqu’à 2 heures.
 
 <sup>3</sup>
 
-Les personnes en formation visées à l’al. 1 peuvent travailler comme suit le dimanche et les jours fériés assimilés à un dimanche:
+Les dispositions suivantes s’appliquent à l’occupation le dimanche ou les jours fériés assimilés à un dimanche de personnes en formation dans la formation professionnelle initiale de gestionnaire du commerce de détail CFC dans la branche de formation et d’examen transports publics, dans les domaines train ou vente:
 
-- a. dès 16 ans révolus: au maximum quatre dimanches ou jours fériés par an;
-- b. dès 17 ans révolus: au maximum deux dimanches ou jours fériés par mois et au maximum douze dimanches ou jours fériés par an, dont au maximum deux jours fériés par an autres que des dimanches.
+- a. les personnes en formation dès l’âge de 16 ans révolus sont autorisées à travailler au maximum quatre dimanches ou jours fériés par an;
+- b. les personnes en formation dès l’âge de 17 ans révolus sont autorisées à travailler au maximum deux dimanches ou jours fériés par mois et au maximum douze dimanches ou jours fériés par an, mais au maximum deux jours fériés ne tombant pas sur un dimanche par an.
 
-[^11b-1]: Introduit par le ch. I de l’O du DEFR du 20 mars 2015, en vigueur depuis le 1<sup>er</sup> mai 2015 ([RO 2015 1087](https://fedlex.data.admin.ch/eli/oc/2015/216)).
+[^11b-1]: Introduit par le ch. I de l’O du DEFR du 20 mars 2015 ([RO 2015 1087](https://fedlex.data.admin.ch/eli/oc/2015/216)). Nouvelle teneur selon le ch. I de l’O du DEFR du 2 mai 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 308](https://fedlex.data.admin.ch/eli/oc/2022/308)).
 
 #### Art. 11c
 
@@ -345,6 +346,14 @@ Les dispositions suivantes s’appliquent à l’occupation de personnes en form
 L’ordonnance du DEFR du 29 mai 2008 concernant les dérogations à l’interdiction du travail de nuit et du dimanche pendant la formation professionnelle initiale[^13-1] est abrogée.
 
 [^13-1]: [[RO 2008 2473](https://fedlex.data.admin.ch/eli/oc/2008/353), [2009 1613](https://fedlex.data.admin.ch/eli/oc/2009/234), [2010 533](https://fedlex.data.admin.ch/eli/oc/2010/75)[1507](https://fedlex.data.admin.ch/eli/oc/2010/211)]
+
+#### Art. 13a
+
+**Disposition transitoire relative à la modification du 2 mai 2022**[^13a-1]
+
+Les personnes en formation qui ont commencé leur apprentissage avant le 1<sup>er</sup> août 2022 sont soumises à l’ancien droit en ce qui concerne le travail de nuit et du dimanche.
+
+[^13a-1]: Introduit par le ch. I de l’O du DEFR du 2 mai 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 308](https://fedlex.data.admin.ch/eli/oc/2022/308)).
 
 #### Art. 14
 

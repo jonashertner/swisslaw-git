@@ -3,20 +3,20 @@ sr: "822.115.4"
 title: Verordnung des WBF vom 21. April 2011 über die Ausnahmen vom Verbot von Nacht- und Sonntagsarbeit während der beruflichen Grundbildung
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/251"
 language: de
-version: 2019-08-01
+version: 2022-08-01
 adopted: 2011-04-21
 in_force: 2011-05-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/251/20190801/de/xml/fedlex-data-admin-ch-eli-cc-2011-251-20190801-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/251/20190801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/251/20220801/de/xml/fedlex-data-admin-ch-eli-cc-2011-251-20220801-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/251/20220801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des WBF über die Ausnahmen vom Verbot von Nacht- und Sonntagsarbeit während der beruflichen Grundbildung
 
-vom 21. April 2011 (Stand am 1. August 2019)
+vom 21. April 2011 (Stand am 1. August 2022)
 
-Das Eidgenössische Departement für Wirtschaft, Bildung und Forschung (WBF)*[^ingress-1]*,
+Das Eidgenössische Departement für Wirtschaft, Bildung und Forschung (WBF)[^ingress-1],
 
 gestützt auf Artikel 14 der Jugendarbeitsschutzverordnung vom 28. September 2007[^ingress-2],
 
@@ -222,7 +222,7 @@ Die Bestimmungen gelten für folgende berufliche Grundbildungen:
 
 - a. Fachfrau Gesundheit EFZ/Fachmann Gesundheit EFZ;
 - b. Fachfrau Betreuung EFZ/Fachmann Betreuung EFZ;
-- c.[^10-1] ...
+- c.[^10-1] …
 - d. medizinische Praxisassistentin EFZ/medizinischer Praxisassistent EFZ;
 - e. tiermedizinische Praxisassistentin EFZ/tiermedizinischer Praxisassistent EFZ;
 - f.[^10-2] Assistentin Gesundheit und Soziales EBA/Assistent Gesundheit und Soziales EBA.
@@ -283,26 +283,27 @@ Für den Einsatz von Lernenden in der beruflichen Grundbildung Netzelektrikerin 
 
 <sup>1</sup>
 
-Die Bestimmungen gelten für folgende berufliche Grundbildungen:
+Für den Einsatz von Lernenden in der beruflichen Grundbildung Fachfrau öffentlicher Verkehr EFZ/Fachmann öffentlicher Verkehr EFZ ab dem vollendeten 16. Altersjahr gelten folgende Bestimmungen:
 
-- a. Fachfrau öffentlicher Verkehr EFZ/Fachmann öffentlicher Verkehr EFZ;
-- b. Kauffrau EFZ/Kaufmann EFZ (Basis-Grundbildung und erweiterte Grundbildung) in der Ausbildungs- und Prüfungsbranche öffentlicher Verkehr mit den Einsatzgebieten Beratung und Verkauf.
+- a. Lernende dürfen in Betrieben mit Nachtpause höchstens 4 Nächte pro Jahr ab 3 Uhr und höchstens 4 Nächte pro Jahr bis 2 Uhr arbeiten.
+- b. Lernende dürfen in Betrieben mit 24-Stunden-Betrieb höchstens 4 Nächte pro Jahr arbeiten.
+- c. Lernende dürfen an höchstens 4 Sonn- oder Feiertagen pro Jahr arbeiten.
 
 <sup>2</sup>
 
-Lernende nach Absatz 1 Buchstabe a dürfen ab dem 16. Altersjahr wie folgt in der Nacht arbeiten:
+Für den Einsatz von Lernenden in der beruflichen Grundbildung Detailhandelsfachfrau EFZ/Detailhandelsfachmann EFZ in der Ausbildungs- und Prüfungsbranche öffentlicher Verkehr mit Einsatzgebiet Zug ab dem vollendeten 16. Altersjahr in der Nacht gelten folgende Bestimmungen:
 
-- a. höchstens 2 Nächte ab 4.30 Uhr pro Monat und höchstens 8 Nächte ab 4.30 Uhr pro Jahr; und
-- b. höchstens 4 Nächte pro Monat und höchstens 32 Nächte pro Jahr, wovon höchstens 3 Nächte pro Monat bis 24 Uhr und höchstens 1 Nacht pro Monat bis 2 Uhr.
+- a. Lernende dürfen höchstens 8 Nächte pro Jahr frühestens ab 4.30 Uhr arbeiten, wovon höchstens 2 Nächte pro Monat.
+- b. Lernende dürfen höchstens 32 Nächte pro Jahr höchstens bis 24 Uhr oder 2 Uhr arbeiten, davon höchstens 3 Nächte pro Monat bis 24 Uhr und höchstens 1 Nacht pro Monat bis 2 Uhr.
 
 <sup>3</sup>
 
-Lernende nach Absatz 1 dürfen wie folgt an Sonntagen und den Sonntagen gleichgestellten Feiertagen arbeiten:
+Für den Einsatz von Lernenden in der beruflichen Grundbildung Detailhandelsfachfrau EFZ/Detailhandelsfachmann EFZ in der Ausbildungs- und Prüfungsbranche öffentlicher Verkehr mit Einsatzgebiet Zug oder Einsatzgebiet Verkauf an Sonntagen und den Sonntagen gleichgestellten Feiertagen gelten folgende Bestimmungen:
 
-- a. ab dem vollendeten 16. Altersjahr: höchstens 4 Sonn- oder Feiertage pro Jahr;
-- b. ab dem vollendeten 17. Altersjahr: höchstens 2 Sonn- oder Feiertage pro Monat und höchstens 12 Sonn- oder Feiertage pro Jahr, jedoch höchstens 2 Feiertage pro Jahr, die nicht auf einen Sonntag fallen.
+- a. Lernende ab dem vollendeten 16. Altersjahr dürfen höchstens 4 Sonn- oder Feiertage pro Jahr arbeiten.
+- b. Lernende ab dem vollendeten 17. Altersjahr dürfen höchstens 2 Sonn- oder Feiertage pro Monat und höchstens 12 Sonn- oder Feiertage pro Jahr arbeiten, jedoch höchstens 2 Feiertage pro Jahr, die nicht auf einen Sonntag fallen.
 
-[^11b-1]: Eingefügt durch Ziff. I der V des WBF vom 20. März 2015, in Kraft seit 1. Mai 2015 ([AS 2015 1087](https://fedlex.data.admin.ch/eli/oc/2015/216)).
+[^11b-1]: Eingefügt durch Ziff. I der V des WBF vom 20. März 2015 ([AS 2015 1087](https://fedlex.data.admin.ch/eli/oc/2015/216)). Fassung gemäss Ziff. I der V des WBF vom 2. Mai 2022, in Kraft seit 1. Aug. 2022 ([AS 2022 308](https://fedlex.data.admin.ch/eli/oc/2022/308)).
 
 #### Art. 11c
 
@@ -344,7 +345,15 @@ Für den Einsatz von Lernenden an Sonntagen und den Sonntagen gleichgestellten F
 
 Die Verordnung des WBF vom 29. Mai 2008[^13-1] über die Ausnahmen vom Verbot von Nacht- und Sonntagsarbeit während der beruflichen Grundbildung wird aufgehoben.
 
-[^13-1]: [[AS 2008 2473](https://fedlex.data.admin.ch/eli/oc/2008/353), [2009 1613](https://fedlex.data.admin.ch/eli/oc/2009/234), [2010 533](https://fedlex.data.admin.ch/eli/oc/2010/75)[1507](https://fedlex.data.admin.ch/eli/oc/2010/211)]
+[^13-1]: [[AS 2008 2473](https://fedlex.data.admin.ch/eli/oc/2008/353); [2009 1613](https://fedlex.data.admin.ch/eli/oc/2009/234); [2010 533](https://fedlex.data.admin.ch/eli/oc/2010/75), [1507](https://fedlex.data.admin.ch/eli/oc/2010/211)]
+
+#### Art. 13a
+
+**Übergangsbestimmung zur Änderung vom 2. Mai 2022**[^13a-1]
+
+Für Lernende, die vor dem 1. August 2022 die Lehre angefangen haben, gilt betreffend Nacht- und Sonntagsarbeit das bisherige Recht.
+
+[^13a-1]: Eingefügt durch Ziff. I der V des WBF vom 2. Mai 2022, in Kraft seit 1. Aug. 2022 ([AS 2022 308](https://fedlex.data.admin.ch/eli/oc/2022/308)).
 
 #### Art. 14
 
