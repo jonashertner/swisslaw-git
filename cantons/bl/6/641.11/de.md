@@ -3,20 +3,20 @@ canton: BL
 number: "641.11"
 title: Verordnung für den Kindergarten und die Primarschule
 language: de
-version: 2021-08-01
-valid_until: 2022-07-31
-version_adopted: 2021-06-22
+version: 2022-08-01
+valid_until: 2023-12-31
+version_adopted: 2021-12-07
 adopted: 2003-05-13
 in_force: 2003-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/641.11"
-pdf: "https://bl.clex.ch/api/de/versions/3040/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3744/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung für den Kindergarten und die Primarschule
 
-Vom 13.05.2003 (Stand 01.08.2021)
+Vom 13.05.2003 (Stand 01.08.2022)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -358,7 +358,7 @@ beschliesst:
 
 **Kurs-, Abteilungs- und Klassengrössen**
 
-<sup>1</sup> Im Textilen und Technischen Gestalten sowie im Musikalischen Grundkurs beträgt die Mindestzahl 6 und die Höchstzahl 13 Schülerinnen und Schüler pro Kurs oder Abteilung.
+<sup>1</sup> Im Textilen und Technischen Gestalten, im Musikalischen Grundkurs sowie in Medien und Informatik ab der 5. Klasse beträgt die Mindestzahl 6 und die Höchstzahl 13 Schülerinnen und Schüler pro Kurs oder Abteilung.
 
 <sup>2</sup> Sinkt die Klassengrösse bei einstufigen Klassen auf 13 Schülerinnen und Schüler oder darunter, ist eine Pensenreduktion vorzunehmen.
 
@@ -470,8 +470,9 @@ beschliesst:
 
 - a. 1. und 2. Klasse — 33 Lektionen;
 - b. 3. und 4. Klasse — 36 Lektionen;
-- c. 5. Klasse — 35 Lektionen;
-- d. 6. Klasse — 34 Lektionen.
+- c. 5. Klasse — 36 Lektionen;
+- d. 6. Klasse — 34 Lektionen;
+- d.(2) bei Halbklassen für Medien und Informatik auf Antrag des Schulrats an den Gemeinderat und Kostengutsprache durch diesen — 35 Lektionen.
 
 <sup>2</sup> Für mehrstufige Primar- und Kleinklassen gilt die Lektionenzahl der beteiligten Klassenstufe mit dem höchsten Lektionendeputat.
 
@@ -487,6 +488,16 @@ beschliesst:
 
 - a. mehrstufige Klassen mit 1 Fremdsprache — 1 Lektion;
 - b. mehrstufige Klassen mit 2 Fremdsprachen — 2 Lektionen.
+
+#### § 32b
+
+**Ressourcierung dringlicher Massnahmen bei erschwerter Klassensituation (SOS-Lektionen)**
+
+<sup>1</sup> Zur Sicherung des Bildungserfolgs bei erschwerten Klassensituationen stehen den Schulleitungen für dringliche, zeitlich befristete Massnahmen insgesamt maximal 1/8 Lektionen pro Klasse zur Verfügung («SOS-Lektionen»).
+
+<sup>2</sup> Die Schulleitung entscheidet über die Massnahmen im Rahmen der Vorgaben des Schulprogramms. Sie informiert den Schulrat und den Gemeinderat.
+
+<sup>3</sup> Die Schulleitung berichtet dem Schulrat und dem Amt für Volksschulen per Ende Schuljahr über den Einsatz von SOS-Lektionen.
 
 #### § 33
 
@@ -725,7 +736,7 @@ beschliesst:
 
 <sup>1</sup> Der Lehrerinnen- und Lehrerkonvent hat insbesondere folgende Aufgaben:
 
-- a. Er nimmt zuhanden des Schulrates Stellung zur Organisation der Schulleitung.
+- a. Er nimmt zuhanden des Schulrats Stellung zur Organisation der Schulleitung.
 - b. Er arbeitet unter der Federführung der Schulleitung das Schulprogramm und schulinterne Erlasse aus.
 - c. Er wählt die Lehrerinnen- und Lehrervertretung im Schulrat.
 - d. Er nimmt zu wichtigen Fragen der Schule Stellung.
@@ -783,13 +794,13 @@ beschliesst:
 <sup>1</sup> Das Pflichtenheft der Schulleitung umfasst folgende Aufgaben:
 
 - a. Sie teilt den Lehrerinnen und Lehrern die Klassen, Pensen und Räume zu.
-- b. Sie genehmigt die Stundenpläne,
+- b. Sie genehmigt die Stundenpläne.
 - c. Sie besucht die Lehrerinnen und Lehrer im Unterricht.
 - d. Sie führt die Mitarbeiterinnen- und Mitarbeitergespräche durch und führt die Personalakten.
 - e. Sie sorgt in Konfliktfällen für einen korrekten Verfahrensablauf.
 - f. Sie arbeitet zusammen mit dem Lehrerinnen- und Lehrerkonvent das Schulprogramm und schulinterne Erlasse aus und hat dabei die Federführung.
-- g. Sie führt im Auftrag des Schulrates die interne Evaluation der Schule durch.
-- h. Sie setzt im Auftrag des Schulrates die Ergebnisse der internen und externen Evaluation um.
+- g. Sie führt im Auftrag des Schulrats die interne Evaluation der Schule durch.
+- h. Sie setzt im Auftrag des Schulrats die Ergebnisse der internen und externen Evaluation um.
 - i. Sie zieht bei Bedarf Fachpersonen und ausgebildete Mentorinnen und Mentoren bei.
 - i<sup>bis</sup>. Sie bewilligt Massnahmen der Speziellen Förderung in ihrem Zuständigkeitsbereich.
 - j. Sie bewilligt Reisen, Lager, Schulverlegungen und weiteren Spezialunterricht.
@@ -825,7 +836,7 @@ beschliesst:
 
 - a. Er orientiert die Schulleitungen über geplante und laufende Aktivitäten und unterstützt sie in Zusammenarbeit mit dem Amt für Volksschulen bei der operativen Unsetzung des Bildungsauftrags.
 - b. Er bestimmt ein Präsidium aus maximal 3 seiner Vorstandsmitglieder.
-- c. Er teilt seinen Mitgliedern die ihm zu Verfügung stehende Schulleitungszeit als Entlastungslektionen zu Lasten des Kantons zu.
+- c. Er teilt seinen Mitgliedern die ihm zu Verfügung stehende Schulleitungszeit als Entlastungslektionen zulasten des Kantons zu.
 
 ### 9.2 Schulrat
 
@@ -849,7 +860,7 @@ beschliesst:
 
 **Unterrichtsbesuche**
 
-<sup>1</sup> Die Mitglieder des Schulrates können bei Lehrerinnen und Lehrern ihrer Schule nach vorheriger Absprache Unterrichtsbesuche durchzuführen.
+<sup>1</sup> Die Mitglieder des Schulrats können bei Lehrerinnen und Lehrern ihrer Schule nach vorheriger Absprache Unterrichtsbesuche durchzuführen.
 
 <sup>2</sup> Sie verschaffen sich dabei einen Einblick in die Arbeit der Schule und ihrer Lehrerinnen und Lehrer.
 
@@ -866,10 +877,10 @@ beschliesst:
 - a. die Beratung der Schulräte und Schulleitungen;
 - b. die Genehmigung der Ausnahmen der Klassen- und Kursbildung der Primarstufe;
 - c. die Bewilligung und Beaufsichtigung der Privatschulen und der privaten Schulung auf der Primarstufe;
-- d. die Beurteilung der Schulleitungen im Unterricht zu Handen des Schulrats;
+- d. die Beurteilung der Schulleitungen im Unterricht zuhanden des Schulrats;
 - e. das Führen von jährlichen Betriebsgesprächen mit den Schulleitungen;
 - f. die inhaltliche Verantwortung und Mitwirkung bei der Aus- und Weiterbildung der Schulleitungen und des nicht unterrichtenden Schulpersonals;
-- g. die Antragsstellung zu Lehrmitteln und Lehrplänen zu Handen des Bildungsrates;
+- g. die Antragsstellung zu Lehrmitteln und Lehrplänen zuhanden des Bildungsrats;
 - h. die Koordination der Inhalte der Schulfächer, der fachübergreifenden Themen und der überfachlichen Kompetenzen;
 - i. die Koordination der kantonalen Leistungstests (Checks) und die Durchführung der Übertrittsprüfung;
 - j. die Sicherstellung von Betreuungsangeboten für befristete Schulausschlüsse von Schülerinnen und Schülern, insbesondere TimeOut;
@@ -917,7 +928,7 @@ beschliesst:
 
 #### § 72a
 
-**Massnahmen des Schulrates**
+**Massnahmen des Schulrats**
 
 <sup>1</sup> Der Schulrat kann auf Antrag der Schulleitung für Schülerinnen und Schüler der Primarschule einen befristeten Schulausschluss von bis zu 8 Wochen anordnen. Dabei gilt:
 
