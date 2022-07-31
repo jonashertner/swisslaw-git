@@ -1,118 +1,104 @@
 ---
 canton: GR
 number: "425.500"
-title: Benützungs- und Gebührenverordnung für die Bündner Kantonsschule
-short: BGV Bündner Kantonsschule
+title: Benützungs- und Gebührenverordnung für die Mittelschulen mit kantonaler Trägerschaft
+short: BGV kantonale Mittelschulen
 language: de
-version: 2010-12-01
-corrected: 2014-11-25
-version_adopted: 2010-11-16
+version: 2022-08-01
+version_adopted: 2022-02-01
 adopted: 2022-02-01
 in_force: 2022-08-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/425.500"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/887/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3818/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Benützungs- und Gebührenverordnung für die Bündner Kantonsschule (BGV Bündner Kantonsschule)
+# Benützungs- und Gebührenverordnung für die Mittelschulen mit kantonaler Trägerschaft
 
-Gestützt auf Art. 45 der Kantonsverfassung[^t-1] und Art. 19 des Mittelschulgesetzes vom 7. Oktober 1962[^t-2]
+(BGV kantonale Mittelschulen)
 
-von der Regierung erlassen am 16. November 2010
+Vom 01.02.2022 (Stand 01.08.2022)
 
-[^t-1]: BR 110.100
-[^t-2]: BR 425.000 1.01.2011 1
+Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung[^ingress-1]
+
+von der Regierung erlassen am 1. Februar 2022
+
+[^ingress-1]: BR [110.100](https://www.gr-lex.gr.ch/data/110.100/de)
 
 #### Art. 1
 
-**Überlassung an Dritte**
+**Schulanlagen**
 
-Die Schulleitung kann die Räumlichkeiten sowie die Turn- und Sportanlagen Sand der Bündner Kantonsschule (Schulanlagen) Dritten, insbesondere Schulen, Turn- und Sportvereinigungen sowie Veranstaltern von Kursen und Wettkämpfen, entgeltlich zur Verfügung stellen, soweit die Schulanlagen nicht von der Kantonsschule für den Unterrichtsbetrieb beansprucht werden.
+<sup>1</sup> Zu den Schulanlagen gehören die dem Schulbetrieb dienenden Bauten und Anlagen, Räumlichkeiten, Einrichtungen und Geräte.
 
 #### Art. 2
 
-**Aufsicht, Betriebsreglement**
+**Überlassung an Dritte**
 
-<sup>1</sup> Die Aufsicht für die Benützung der Schulanlagen liegt bei der Schulleitung. Sie kann Mitarbeitende oder Dritte mit der Aufsicht vor Ort betrauen.
-
-<sup>2</sup> Die Schulleitung erlässt ein Betriebsreglement. Darin werden Vorschriften über die Benützung der Schulanlagen erlassen, die Öffnungs- und die Betriebszeiten sowie die Zuständigkeiten für die Erteilung der Benützungsbewilligungen inklusive einer allfälligen Bewilligung für das Führen eines Gastwirtschaftsbetriebes innerhalb der Schulanlagen festgelegt.
+<sup>1</sup> Soweit es der Schulbetrieb zulässt, können die Schulanlagen Dritten, insbesondere Schulen, Turn- und Sportvereinen sowie Veranstaltern von Kursen und Wettkämpfen mittels Verfügung der Rektorin oder des Rektors überlassen werden.
 
 #### Art. 3
 
-**Haftung**
+**Betriebsreglement, Aufsicht**
 
-<sup>1</sup> Vom Kanton wird bei der Benützung der Schulanlagen im Rahmen der Überlassung an Mietende, soweit gesetzlich zulässig, jede Haftung wegbedungen.
+<sup>1</sup> Die Benützungsbestimmungen sind von der Schulleitung als Beilage zur Verfügung der Rektorin oder des Rektors in einem durch das Amt für Mittelschulen und Tertiärbildung (Amt) zu genehmigenden Betriebsreglement festzulegen. Das Betriebsreglement bestimmt insbesondere:
 
-<sup>2</sup> Die Mietenden haften für alle Schäden, welche sie oder Dritte, die sich mit der Einwilligung des Mietenden in der Schulanlage aufhalten, verursachen.
+- a) die Öffnungs- und die Betriebszeiten;
+- b) die Verantwortlichkeiten;
+- c) den gesetzlich zulässigen Haftungsausschluss der vermietenden Partei;
+- d) die Massnahmen bei einer Verletzung der Benützungsbestimmungen;
+- e) die Annullierungsbedingungen;
+- f) die Auflagen für das Führen eines Gastwirtschaftsbetriebs auf dem Schulareal;
+- g) die Haftung der mietenden Partei für Schäden, welche diese oder Dritte, die sich mit der Einwilligung der oder des Mietenden in oder auf den Schulanlagen aufhalten, verursachen.
+
+<sup>2</sup> Die Schulleitung beaufsichtigt die Benützung der Schulanlagen und kann bei Verstössen gegen die Benützungsbestimmungen sowie bei Nichtbeachtung von Anordnungen und Anweisungen die Benützungsbewilligung entziehen.
 
 #### Art. 4
 
-**Entzug der Benützungsbewilligung**
+**Benützungsgebühren**
 
-Bei Verstössen gegen die Benützungsvorschriften sowie bei Nichtbeachtung von Anordnungen und Anweisungen der mit der Aufsicht betrauten Personen kann die Schulleitung die Benützungsbewilligung entziehen.
+<sup>1</sup> Die Gebühren zur Benützung der Schulanlagen sind im Anhang 1 aufgeführt. Diese basieren auf dem Stand des Landesindexes der Konsumentenpreise per Ende Oktober 2019 von 100,9 Punkten (Indexbasis Dezember 2020).
+
+<sup>2</sup> Verändert sich der Landesindex der Konsumentenpreise um zehn Punkte, verändern sich die Gebühren entsprechend.
 
 #### Art. 5
 
-**Benützungsgebühren**
+**Reduktion der Benützungsgebühren**
 
-<sup>1</sup> Für die Gebrauchsüberlassung der Schulanlagen gelten die im Anhang aufgeführten Benützungsgebühren. Diese basieren auf dem Stand des Landesindexes der Konsumentenpreise von 103.2 Punkten, Basisindex Dezember 2005.
+<sup>1</sup> Werden die Schulanlagen anderen Schulen, für Aus- und Weiterbildungskurse für Leitende von Jugend und Sport oder für den Behindertensport zur Verfügung gestellt, werden die Gebühren gemäss Anhang 1 um 25 Prozent gesenkt.
 
-<sup>2</sup> Steigt der Landesindex der Konsumentenpreise um 10 Punkte, erhöhen sich die Benützungsgebühren entsprechend.
+<sup>2</sup> Bei Vereinen und Organisationen mit direktem Bezug zur jeweiligen Mittelschule mit kantonaler Trägerschaft werden keine Gebühren erhoben, sofern deren Mitglieder ausschliesslich Schülerinnen und Schüler der entsprechenden Mittelschule sind.
 
 #### Art. 6
 
-**Reduzierte Benützungsgebühren**
-
-Bei Überlassung an kantonale Schulen, Berufsschulen, schuleigene Vereine, J+S-Fortbildungs- oder Leiterkurse sowie für Behindertensport werden Benützungsgebühren in der Höhe von 75 Prozent der ordentlichen Benützungsgebühren erhoben.
-
-#### Art. 7
-
-**Annullierungsbedingungen**
-
-<sup>1</sup> Annullierungen der Reservation sind der zuständigen Stelle schriftlich mitzuteilen.
-
-<sup>2</sup> Erfolgt eine Annullierung weniger als 24 Stunden vor dem vereinbarten Veranstaltungstermin, ist eine Entschädigung in der Höhe der vollen Benützungsgebühr zu entrichten.
-
-<sup>3</sup> Erfolgt eine Annullierung der Reservation weniger als drei Wochen vor dem vereinbarten Veranstaltungstermin, ist eine Entschädigung in der Höhe der Hälfte der Benützungsgebühr zu entrichen.
-
-<sup>4</sup> In den übrigen Fällen einer Annullierung wird eine Bearbeitungsgebühr von 20 Prozent der Höhe der Benützungsgebühr, mindestens aber 20 Franken, in Rechnung gestellt.
-
-#### Art. 8
-
 **Vollzug**
 
-Das Amt für Höhere Bildung regelt den Vollzug.
+<sup>1</sup> Der Vollzug dieser Verordnung obliegt dem Amt.
 
-#### Art. 9
+## A1 Anhang 1: Mietpreise in Franken (exkl. MWST) zur Benützung der Schulanlagen (Art. 4 Abs. 1 und Art. 5 Abs. 1)
 
-**Inkrafttreten, Aufhebung bisherigen Rechts**
+#### Art. A1-1
 
-<sup>1</sup> Diese Verordnung tritt am 1. Dezember 2010 in Kraft.
+<sup>1</sup> Allgemeine Schulanlagen:
 
-<sup>2</sup> Auf diesen Zeitpunkt wird die Benützungs- und Gebührenverordnung für die kantonalen Turn- und Sportanlagen Sand der Bündner Kantonsschule vom 27. Oktober 1998[^9-1] aufgehoben.
+<table>
+<tr><th>Anlage</th><th>1 Std.</th><th>bis 2.5 Std.</th><th>bis 5 Std.</th><th>bis 8 Std.</th><th>mehr als 8 Std.</th></tr>
+<tr><td>Aula oder grosser Saal</td><td>45</td><td>86</td><td>155</td><td>260</td><td>390</td></tr>
+<tr><td>Kleiner Saal</td><td>23</td><td>44</td><td>80</td><td>130</td><td>200</td></tr>
+<tr><td>Schul-, Musik- und Sitzungszimmer</td><td>23</td><td>44</td><td>80</td><td>130</td><td>200</td></tr>
+<tr><td>Labor, Computerzimmer, Werkraum, Bildnerisches Gestalten</td><td>35</td><td>67</td><td>120</td><td>200</td><td>300</td></tr>
+<tr><td>Musiksaal</td><td>35</td><td>67</td><td>120</td><td>200</td><td>300</td></tr>
+<tr><td>Klavierzelle</td><td>12</td><td>23</td><td>40</td><td>70</td><td>---</td></tr>
+</table>
 
-[^9-1]: AGS 1998, 4193 2 1.01.2011
+<sup>2</sup> Sportanlagen:
 
-### Anhang
+<table>
+<tr><th>Anlage</th><th>1 Std.</th><th>bis 2.5 Std.</th><th>bis 5 Std.</th><th>bis 8 Std.</th><th>mehr als 8 Std.</th><th>pro Schuljahr</th></tr>
+<tr><td>Turnhalle, Aussenanlage</td><td>23</td><td>44</td><td>80</td><td>130</td><td>200</td><td>310</td></tr>
+<tr><td>Kraftraum, Theorieraum</td><td>12</td><td>23</td><td>40</td><td>70</td><td>---</td><td>200</td></tr>
+<tr><td>Schwimmbad</td><td>50</td><td>95</td><td>170</td><td>290</td><td>---</td><td>1060</td></tr>
+</table>
 
-(Art. 5)
-
-Gebühren (100%) in Franken exklusive MWST Bis Pro 5
-
-**1 Tag Pro Schul-Abend jahr**
-
-1 Std 2.5 Std- 1 Tag & Std. Block Aula Halde Saal 1 oder 2 Alte Turnhalle 23 44 80 130 200 (als Aula benützt) Aula Halde Saal 1 und 2 45 86 155 260 390 Aula Plessur Schul-, Musik- und Sitzungs- 23 44 80 130 200 zimmer Labor/ Computer-zim- 35 67 120 200 300 mer/Werk-raum BG Musiksaal 35 67 120 200 300 Plessur OG Klavierzelle 12 23 40 Sportanlage Sand Turnhalle 23 44 80 130 200 Aussenanlage Sportanlage Sand Kraftraum 12 23 40 Theorieraum Schwimmbad 50 95 170 290
-
-**70**
-
-**310**
-
-**70 200**
-
-**1060**
-
-**3**
-
-1.01.2011
+2022-008

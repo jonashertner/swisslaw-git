@@ -1,124 +1,104 @@
 ---
 canton: GR
 number: "425.500"
-title: "Ordinanza sull'utilizzazione e sulle tariffe per la Scuola cantonale grigione"
+title: "Ordinanza sull'utilizzazione e sulle tariffe per le scuole medie superiori con ente responsabile cantonale"
 short: OUT scuole medie superiori cantonali
 language: it
-version: 2010-12-01
-corrected: 2014-11-25
-version_adopted: 2010-11-16
+version: 2022-08-01
+version_adopted: 2022-02-01
 adopted: 2022-02-01
 in_force: 2022-08-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/425.500"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/887/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3818/pdf_file"
 ---
 
-> Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone. Il Cantone pubblica questa versione solo in PDF: il testo ne è estratto, la struttura dedotta dall’impaginazione.
+> Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
 
-# Ordinanza sull'utilizzazione e sulle tariffe per la Scuola cantonale grigione
+# Ordinanza sull'utilizzazione e sulle tariffe per le scuole medie superiori con ente responsabile cantonale
 
-emanata dal Governo il 16 novembre 2010
+(OUT scuole medie superiori cantonali)
 
-visti l'art. 45 della Costituzione cantonale[^t-1] e l'art. 19 della legge sulle scuole medie del 7 ottobre 1962[^t-2]
+del 01.02.2022 (stato 01.08.2022)
 
-[^t-1]: CSC 110.100
-[^t-2]: CSC 425.000 1.1.2011 1
+emanata dal Governo il 1° febbraio 2022
+
+visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
+
+[^ingress-1]: CSC [110.100](https://www.gr-lex.gr.ch/data/110.100/it)
 
 #### Art. 1
 
-**Cessione in uso a terzi**
+**Impianti scolastici**
 
-Dietro compenso, la direzione scolastica può mettere a disposizione di terzi, segnatamente di scuole, associazioni ginniche e sportive, nonché di organizzatori di corsi e gare, i locali e gli impianti per la ginnastica e lo sport Sand della Scuola cantonale grigione, per quanto la Scuola cantonale non necessiti degli impianti scolastici per le attività d'insegnamento.
+<sup>1</sup> Fanno parte degli impianti scolastici gli edifici e gli impianti, i locali, le infrastrutture e gli strumenti che servono allo svolgimento dell'attività scolastica.
 
 #### Art. 2
 
-**Vigilanza, regolamento d'esercizio**
+**Cessione in uso a terzi**
 
-<sup>1</sup> La vigilanza sull'utilizzazione degli impianti scolastici spetta alla direzione scolastica. Essa può incaricare collaboratori o terzi della vigilanza sul posto.
-
-<sup>2</sup> La direzione scolastica emana un regolamento d'esercizio. In esso figurano le prescrizioni sull'utilizzazione degli impianti scolastici e gli orari di apertura e d'esercizio, nonché vengono stabilite le competenze per il rilascio dei permessi di utilizzazione, inclusa un'eventuale autorizzazione per la gestione di una buvette all'interno degli impianti scolastici.
+<sup>1</sup> Per quanto l'attività scolastica lo consenta, mediante decisione del direttore gli impianti scolastici possono essere ceduti a terzi, in particolare a scuole, società di ginnastica e società sportive nonché a organizzatori di corsi e competizioni.
 
 #### Art. 3
 
-**Responsabilità**
+**Regolamento d'esercizio, controllo**
 
-<sup>1</sup> In caso di cessione in uso degli impianti scolastici a conduttori, il Cantone, per quanto ammesso dalla legge, declina ogni responsabilità.
+<sup>1</sup> Le disposizioni di utilizzazione devono essere stabilite dalla direzione scolastica, quale allegato alla decisione del direttore, all'interno di un regolamento d'esercizio che deve essere approvato dall'Ufficio delle scuole medie superiori e della formazione terziaria (Ufficio). Il regolamento d'esercizio definisce in particolare:
 
-<sup>2</sup> I conduttori rispondono per qualsiasi danno cagionato da essi stessi o da terzi che si trovano all'interno dell'impianto scolastico con il loro consenso.
+- a) gli orari d'apertura e d'esercizio;
+- b) le responsabilità;
+- c) l'esclusione della responsabilità del locatore ammessa dalla legge;
+- d) i provvedimenti in caso di violazione delle disposizioni di utilizzazione;
+- e) le condizioni di annullamento;
+- f) le condizioni per la gestione di una buvette sull'area scolastica;
+- g) la responsabilità del conduttore per danni causati da esso stesso o da terzi che si trovano all'interno o sull'area degli impianti scolastici con il suo consenso.
+
+<sup>2</sup> La direzione scolastica controlla l'utilizzazione degli impianti scolastici e in caso di infrazioni alle disposizioni di utilizzazione nonché in caso di inosservanza di prescrizioni e istruzioni può revocare il permesso di utilizzazione.
 
 #### Art. 4
 
-**Revoca del permesso di utilizzazione**
+**Tariffe di utilizzazione**
 
-In caso di infrazione alle prescrizioni di utilizzazione, nonché in caso di inosservanza di disposizioni e direttive delle persone incaricate della vigilanza, la direzione scolastica può revocare il permesso di utilizzazione.
+<sup>1</sup> Le tariffe per l'utilizzazione degli impianti scolastici sono indicate nell'allegato 1. Queste si basano sullo stato dell'indice nazionale dei prezzi al consumo a fine ottobre 2019 pari a 100,9 punti (base dell'indice dicembre 2020).
+
+<sup>2</sup> Se l'indice nazionale dei prezzi al consumo varia di 10 punti, le tariffe variano di conseguenza.
 
 #### Art. 5
 
-**Tariffe di utilizzazione**
+**Riduzione delle tariffe di utilizzazione**
 
-<sup>1</sup> Per l'utilizzazione degli impianti scolastici vengono riscosse le tariffe indicate in appendice. Queste si basano sullo stato dell'indice nazionale dei prezzi al consumo di 103,2 punti, indice base dicembre 2005.
+<sup>1</sup> Se gli impianti scolastici vengono messi a disposizione di altre scuole, per corsi di formazione e di perfezionamento per monitori di Gioventù e Sport oppure per lo sport per disabili le tariffe indicate nell'allegato 1 vengono ridotte del 25 per cento.
 
-<sup>2</sup> Se l'indice nazionale dei prezzi al consumo sale di 10 punti, le tariffe di utilizzazione vengono aumentate di conseguenza.
+<sup>2</sup> In caso di associazioni e organizzazioni che hanno un legame diretto con la rispettiva scuola media superiore con ente responsabile cantonale non vengono riscosse tariffe, se i loro membri sono esclusivamente allievi della corrispondente scuola media superiore.
 
 #### Art. 6
 
-**Tariffe di utilizzazione ridotte**
-
-In caso di cessione in uso a scuole e scuole professionali cantonali, ad associazioni proprie della scuola, per corsi di perfezionamento o per monitori G+S, nonché per lo sport per disabili, vengono riscosse tariffe di utilizzazione pari al 75 percento delle tariffe di utilizzazione ordinarie.
-
-#### Art. 7
-
-**Condizioni di annullamento**
-
-<sup>1</sup> Annullamenti di una prenotazione vanno comunicati per iscritto all'ufficio competente.
-
-<sup>2</sup> In caso di annullamento meno di 24 ore prima del termine convenuto per la manifestazione, va versato un indennizzo pari all'intera tariffa di utilizzazione.
-
-<sup>3</sup> In caso di annullamento della prenotazione meno di tre settimane prima del termine convenuto per la manifestazione, va versato un indennizzo pari alla metà della tariffa di utilizzazione.
-
-<sup>4</sup> Negli altri casi di annullamento è fatturata una tassa amministrativa pari al 20 percento della tariffa di utilizzazione, tuttavia però pari almeno a 20 franchi.
-
-#### Art. 8
-
 **Esecuzione**
 
-L'Ufficio della formazione medio-superiore disciplina l'esecuzione.
+<sup>1</sup> L'esecuzione della presente ordinanza compete all'Ufficio.
 
-#### Art. 9
+## A1 Allegato 1: Affitto in franchi (IVA esclusa) per l'utilizzazione degli impianti scolastici (art. 4 cpv. 1 e art. 5 cpv. 1)
 
-**Entrata in vigore, abrogazione del diritto previgente**
+#### Art. A1-1
 
-<sup>1</sup> La presente ordinanza entra in vigore il 1° dicembre 2010.
+<sup>1</sup> Impianti scolastici generali:
 
-<sup>2</sup> Per questa data è abrogata l'ordinanza sull'utilizzazione e sulle tariffe degli impianti cantonali Sand per la ginnastica e lo sport della Scuola cantonale grigione del 27 ottobre 1998[^9-1].
+<table>
+<tr><th>Impianto</th><th>1 ora</th><th>fino a 2.5 ore</th><th>fino a 5 ore</th><th>fino a 8 ore</th><th>più di 8 ore</th></tr>
+<tr><td>Aula magna o sala grande</td><td>45</td><td>86</td><td>155</td><td>260</td><td>390</td></tr>
+<tr><td>Sala piccola</td><td>23</td><td>44</td><td>80</td><td>130</td><td>200</td></tr>
+<tr><td>Aula scolastica, di musica e sala riunioni</td><td>23</td><td>44</td><td>80</td><td>130</td><td>200</td></tr>
+<tr><td>Laboratorio, sala computer, aula per attività manuali, arti figurative</td><td>35</td><td>67</td><td>120</td><td>200</td><td>300</td></tr>
+<tr><td>Aula di musica</td><td>35</td><td>67</td><td>120</td><td>200</td><td>300</td></tr>
+<tr><td>Locale pianoforte</td><td>12</td><td>23</td><td>40</td><td>70</td><td>---</td></tr>
+</table>
 
-[^9-1]: AGS 1998, 4193 2 1.1.2011
+<sup>2</sup> Impianti sportivi:
 
-### Appendice
+<table>
+<tr><th>Impianto</th><th>1 ora</th><th>fino a 2.5 ore</th><th>fino a 5 ore</th><th>fino a 8 ore</th><th>più di 8 ore</th><th>per anno scolastico</th></tr>
+<tr><td>Palestra, impianto esterno</td><td>23</td><td>44</td><td>80</td><td>130</td><td>200</td><td>310</td></tr>
+<tr><td>Sala pesi, aula di teoria</td><td>12</td><td>23</td><td>40</td><td>70</td><td>---</td><td>200</td></tr>
+<tr><td>Piscina</td><td>50</td><td>95</td><td>170</td><td>290</td><td>---</td><td>1060</td></tr>
+</table>
 
-(art. 5)
-
-Tariffe (100 %) in franchi, IVA esclusa Fino Per 1 ora a 2,5 blocco 1 giorno ore di 5 giorno & ore Aula magna Halde Sala 1 o 2 Vecchia 23 44 80 palestra (utilizzata quale aula magna) Aula magna Halde Sala 1 e 2 45 86 155 260 390 Aula magna Plessur Aula scolastica, di 23 44 80 musica e sala riunioni Laboratorio/ sala computer / 35 67 120 200 300 aula di arti figurative Aula di musica Plessur piano 35 67 120 200 300 superiore Locale 12 23 40 pianoforte Palestra impianto sportivo Sand 23 44 80 Impianto esterno Sala fitness im- 12 23 40
-
-**1 Per anno scolastico sera**
-
-**130 200**
-
-**130 200**
-
-**70**
-
-**130 200 310**
-
-**70 200**
-
-**3**
-
-**50 95 170 290 1060**
-
-**4**
-
-**1.1.2011**
-
-1.1.2011 pianto sportivo Sand Aula di teoria Piscina
+2022-008
