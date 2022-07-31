@@ -4,11 +4,11 @@ number: "413.319"
 title: "Verordnung über die Berufs-, Studien- und Laufbahnberatung (V BSLB)"
 short: V BSLB
 language: de
-version: "2021-01-01"
-nachtrag: "111"
-valid_until: 2025-01-01
+version: "2022-08-01"
+nachtrag: "118"
+valid_until: 2022-08-01
 adopted: 2013-11-27
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-413_319-2013_11_27-2014_03_01-111.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-413_319-2013_11_27-2014_03_01-118.html"
 text: pdf
 ---
 
@@ -64,9 +64,7 @@ Die Leistungen der Berufs-, Studien- und Laufbahnberatung umfassen:
 
 **1**
 
-- 1\. 1. 21 - 111
-
-- f. Unterstützung und Begleitung Erwachsener bei der Zusammenstellung ihrer informell erworbenen Bildungsleistungen sowie Mitwirkung in Validierungsverfahren,
+1.10. 22 - 118 f. Unterstützung und Begleitung Erwachsener bei der Zusammenstellung ihrer informell erworbenen Bildungsleistungen sowie Mitwirkung in Validierungsverfahren,
 
 - g. Zusammenarbeit mit den Aus- und Weiterbildungsinstitutionen aller Stufen sowie mit den Lehrbetrieben und den Organisationen der Arbeitswelt.
 
@@ -154,30 +152,31 @@ Zu den Kosten der kantonalen Stellen der Berufs-, Studien- und Laufbahnberatung 
 
 <sup>3</sup> Veranstaltungsunterlagen werden separat in Rechnung gestellt.
 
-#### § 10
-
 **Befreiung von der Gebührenpflicht**
 
-<sup>1</sup> Von der Gebührenpflicht für Beratungen befreit sind:
+§ 10.[^9-1] <sup>1</sup> Von der Gebührenpflicht für Beratungen befreit sind:
 
 - a. Personen ohne einen vom Bund oder Kanton anerkannten Abschluss auf Sekundarstufe II,
 
-- b. Personen, denen wirtschaftliche Hilfe gemäss Sozialhilfegesetzgebung gewährt wird, c.[^10-1] Personen, die innerhalb der letzten zwei Monate vor der Anmeldung bei der Beratungsstelle in Ausbildung standen und dafür Ausbildungsbeiträge eines Kantons bezogen haben,
+- b. Personen, denen wirtschaftliche Hilfe gemäss Sozialhilfegesetzgebung gewährt wird, c.[^9-2] Personen, die innerhalb der letzten zwei Monate vor der Anmeldung bei der Beratungsstelle in Ausbildung standen und dafür Ausbildungsbeiträge eines Kantons bezogen haben,
 
 **3**
 
-- 1\. 1. 21 - 111 d.[^10-1] Personen, bei denen die Stipendienstelle des Kantons oder eines öffentlichen Organs zur Prüfung ihres Gesuchs um Ausbildungsbeiträge die Abklärung verlangt, e.[^10-2] Personen über 40 Jahre, die eine Beratung gemäss der vom Bundesrat beschlossenen Massnahme «Kostenlose Standortbestimmung, Potenzialabklärung und Laufbahnberatung für Erwachsene über 40 Jahre (STAPAL)» in Anspruch nehmen.
+1.10. 22 - 118 d.[^9-2] Personen, bei denen die Stipendienstelle des Kantons oder eines öffentlichen Organs zur Prüfung ihres Gesuchs um Ausbildungsbeiträge die Abklärung verlangt, e.[^9-3] Personen über 40 Jahre, die eine Beratung gemäss der vom Bundesrat beschlossenen Massnahme «Kostenlose Standortbestimmung, Potenzialabklärung und Laufbahnberatung für Erwachsene über 40 Jahre (STAPAL)» in Anspruch nehmen,
+
+- f. Personen über 20 Jahre, die eine Beratung im Umfang von höchstens drei Stunden in Anspruch nehmen, wenn sie in den Jahren 2022 oder 2023 einen vom Bund oder Kanton anerkannten Abschluss auf Sekundarstufe II erworben haben.
 
 <sup>2</sup> Abweichend von Abs. 1 werden Gebühren erhoben von:
 
-- a. Personen gemäss Abs. 1 lit. a–d, wenn sie durch ein Regionales Arbeitsvermittlungszentrum überwiesen worden sind,
+- a. Personen gemäss Abs. 1 lit. a–d und f, wenn sie durch ein Regionales Arbeitsvermittlungszentrum überwiesen worden sind,
 
 - b. Personen gemäss Abs. 1 lit. c, wenn sie eine Ausbildung auf der Tertiärstufe abgeschlossen haben.
 
-<sup>3</sup> Beruft sich eine Person auf Abs. 1 lit. b–d, weist sie nach, dass die Voraussetzungen für eine Gebührenbefreiung erfüllt sind.
+<sup>3</sup> Beruft sich eine Person auf Abs. 1 lit. b–d oder f, weist sie nach, dass die Voraussetzungen für eine Gebührenbefreiung erfüllt sind.
 
-[^10-1]: Fassung gemäss RRB vom 17. Juni 2020 (OS 75, 440; ABl 2020-07-03). In Kraft seit 1. Januar 2021.
-[^10-2]: Eingefügt durch RRB vom 2. September 2020 (OS 75, 480; ABl 2020-09-11). In Kraft seit 1. Januar 2021. Diese Änderung gilt bis zum 31. Dezember 2024. 1. 1. 21 - 111 5
+[^9-1]: Fassung gemäss RRB vom 4. Mai 2022 (OS 77, 343; ABl 2022-05-13). In Kraft seit 1. August 2022. Diese Änderung gilt bis zum 31. Dezember 2023. 1.10. 22 - 118 5
+[^9-2]: Fassung gemäss RRB vom 17. Juni 2020 (OS 75, 440; ABl 2020-07-03). In Kraft seit 1. Januar 2021.
+[^9-3]: Eingefügt durch RRB vom 2. September 2020 (OS 75, 480; ABl 2020-09-11). In Kraft seit 1. Januar 2021. Diese Änderung gilt bis zum 31. Dezember 2024.
 
 #### § 11
 
