@@ -4,13 +4,12 @@ number: "419.750"
 title: Interkantonale Vereinbarung über die Beiträge an die Ausbildungskosten in der beruflichen Grundbildung
 short: "Berufsfachschulvereinbarung, BFSV"
 language: de
-version: 2021-08-01
-valid_until: 2022-07-31
-version_adopted: 2019-10-25
+version: 2022-08-01
+version_adopted: 2020-10-30
 adopted: 2006-06-22
 in_force: 2007-08-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/419.750"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5298/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5573/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Berufsfachschulvereinbarung | Schulgeld / Schulabkommen / Anerkennungsabkommen[^
 
 (Berufsfachschulvereinbarung, BFSV)
 
-Vom 22. Juni 2006 (Stand 1. August 2021)
+Vom 22. Juni 2006 (Stand 1. August 2022)
 
 [^t-1]: Beitrittsermächtigung vom Grossen Rat des Kantons Basel-Stadt an den Regierungsrat erteilt am 21. 3. 2007.
 
