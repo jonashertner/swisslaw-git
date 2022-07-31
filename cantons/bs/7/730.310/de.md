@@ -4,13 +4,12 @@ number: "730.310"
 title: Verordnung über die Erstellung von Parkplätzen für Personenwagen
 short: "Parkplatzverordnung, PPV"
 language: de
-version: 2013-01-20
-valid_until: 2022-07-31
-version_adopted: 2013-01-15
+version: 2022-08-01
+version_adopted: 2022-07-05
 adopted: 1992-12-22
 in_force: 1993-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/730.310"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/2454/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5586/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,16 +20,17 @@ Parkplatzverordnung | Hochbauten[^t-1]
 
 (Parkplatzverordnung, PPV)
 
-Vom 22. Dezember 1992 (Stand 20. Januar 2013)
+Vom 22. Dezember 1992 (Stand 1. August 2022)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
-gestützt auf § 132a HBG vom 11. Mai 1939[^ingress-1],
+gestützt auf die §§ 74 und 75 des Bau- und Planungsgesetzes (BPG) vom 17. November 1999 [^ingress-1], sowie auf die §§ 13, 16 und 19<sup>bis</sup> des Umweltschutzgesetzes Basel-Stadt (USG BS) vom 13. März 1991[^ingress-2],
 
-erlässt folgende Verordnung:
+beschliesst:
 
 [^t-1]: Infolge Regierungs- und Verwaltungsreform RV09 sind etliche Zuständigkeiten innerhalb der kantonalen Verwaltung geändert worden. Mit der Zuständigkeitsverordnung vom 9. 12. 2008, § 3 Ziff. 75 (wirksam seit 1. 1. 2009, publiziert am 18. 3. 2009, SG [153.110](https://www.gesetzessammlung.bs.ch/data/153.110/de)) ist die vorliegende Verordnung an die damals neuen Zuständigkeitsregelungen angepasst worden (betr. §§ 2 Abs. 3; 4 Abs. 4; 5 Abs. 5; 6 Abs. 3; 8 Abs. 2; 9; 11 Abs. 2 und 3).
-[^ingress-1]: Dieses Gesetz ist aufgehoben. Massgebend ist jetzt das Bau- und Planungsgesetz vom 17. 11. 1999 (SG [730.100](https://www.gesetzessammlung.bs.ch/data/730.100/de)).
+[^ingress-1]: SG [730.100](https://www.gesetzessammlung.bs.ch/data/730.100/de)
+[^ingress-2]: SG [780.100](https://www.gesetzessammlung.bs.ch/data/780.100/de)
 
 ## I. Allgemeines
 
@@ -40,7 +40,7 @@ erlässt folgende Verordnung:
 
 <sup>1</sup> Die Verordnung bezweckt die Beschränkung der Anzahl Parkplätze, die für Personenwagen erstellt werden dürfen, sowie die Bestimmung der Anzahl Fahrten, welche durch verkehrsintensive Einrichtungen verursacht werden dürfen. Sie ist anzuwenden bei Neubauten, eingreifenden baulichen und nutzungsmässigen Veränderungen sowie bei der Anlegung von neuen Parkplätzen, wenn für eine Parzelle mehr als zwei Parkplätze beantragt werden. Die Verordnung ist nicht anzuwenden auf Parkplätze auf Allmend.
 
-<sup>2</sup> Die Anzahl der vorhandenen unterirdischen Parkplätze bleibt gesichert.
+<sup>2</sup> …
 
 <sup>3</sup> Berechnungsgrundlage ist die Bruttogeschossfläche (BGF), die nach den baurechtlichen Vorschriften bestimmt wird.
 
@@ -52,25 +52,25 @@ erlässt folgende Verordnung:
 
 <sup>2</sup> Abstellflächen für Nutzfahrzeuge wie Busse, Liefer- und Lastwagen sowie Taxis werden von dieser Verordnung nicht erfasst.
 
-<sup>3</sup> Für Betriebe, die aufgrund ihrer Tätigkeit auf Dienstfahrzeuge angewiesen sind, kann das Bau- und Verkehrsdepartement Ausnahmen bewilligen.
+<sup>3</sup> …
 
 #### § 3
 
 **Verfahren**
 
-<sup>1</sup> Die Anzahl der Parkplätze sowie die Zahl der Fahrten werden im Bauentscheid festgelegt. Zuständig ist das Bauinspektorat[^3-1].
+<sup>1</sup> Die Anzahl der Parkplätze sowie die Zahl der Fahrten werden im Bauentscheid festgelegt. Zuständig ist das Bau- und Gastgewerbeinspektorat.
 
 <sup>2</sup> Die Berechnung der maximalen Anzahl Parkplätze berücksichtigt die Nutzungen auf der gesamten Parzellenfläche, wobei vorhandene Parkplätze einbezogen werden.
 
-[^3-1]: § 3 Abs. 1: Jetzt: Bau- und Gastgewerbeinspektorat.
+<sup>3</sup> Ab einer Verkehrserzeugung von 250 Fahrten pro Tag ist mittels Verkehrsgutachten darzulegen, dass die betroffene Parzelle für die projektierte Parkierungsanlage hinreichend erschlossen ist. Nachzuweisen sind dabei insbesondere die Auswirkungen auf die Lärm- und Luftimmissionen, auf die Sicherheit sowie auf die Auslastung des Strassennetzes. Die massgebende Verkehrserzeugung ergibt sich aus der beantragten Anzahl Parkplätze und dem spezifischen Verkehrsaufkommen pro Nutzung gemäss § 14.
 
 ## II. Berechnung der Anzahl Parkplätze
 
 ### (II.)1. Dienstleistungs-, Büro-, Gewerbe- und Fabrikationsbetriebe
 
-[^3-2]
+[^3-1]
 
-[^3-2]: Softwarebedingte, redaktionelle Einfügung von Gliederungsbuchstaben oder -ziffern.
+[^3-1]: Softwarebedingte, redaktionelle Einfügung von Gliederungsbuchstaben oder -ziffern.
 
 #### § 4
 
@@ -82,7 +82,7 @@ erlässt folgende Verordnung:
 
 <sup>3</sup> Der Flächenbedarf je Arbeitsplatz beträgt 30 m² für Dienstleistungs- und Bürobetriebe, 60 m² für Gewerbe- und Fabrikationsbetriebe, 120 m² für Lagerbetriebe.
 
-<sup>4</sup> In besonderen Fällen kann, wenn der erforderliche Nachweis vorliegt, das Bau- und Verkehrsdepartement Abweichungen vom Flächenbedarf gemäss Abs. 3 zulassen.
+<sup>4</sup> …
 
 #### § 5
 
@@ -92,40 +92,40 @@ erlässt folgende Verordnung:
 
 <sup>2</sup> Der Faktor für die Erschliessungsqualität mit öffentlichen Verkehrsmitteln beträgt:
 
-– Kerngebiet 0,7
+- a) sehr gute Erschliessung 0,7;
+- b) gute Erschliessung 0,8;
+- c) durchschnittliche bis schlechte Erschliessung 1,0.
 
-– gute bis durchschnittliche Erschliessung 0,8
+<sup>3</sup> Die Erschliessungsqualität mit öffentlichen Verkehrsmitteln ist in einem Geobasisdatensatz festgelegt.
 
-– durchschnittliche bis schlechte Erschliessung 1,0
+<sup>4</sup> …
 
-<sup>3</sup> Die Gebiete ergeben sich aus dem Plan des Hochbau- und Planungsamtes Nr. 11 799 vom 9. Dezember 1992.
+<sup>5</sup> …
 
-<sup>4</sup> Die Aufteilung der Parkplätze auf die Belegschaft und Kundschaft ist freigestellt.
-
-<sup>5</sup> Für Betriebe mit starkem Kundenverkehr kann das Bau- und Verkehrsdepartement in Analogie zu § 6 Abs. 1 ausnahmsweise gesondert Kundenparkplätze zulassen.
-
-### (II.)2. Ladengschäfte
+### (II.)2. Verkaufsgeschäfte
 
 #### § 6
 
-**Ermittlung der Ausgangszahl**
+**Ausgangszahl für Parkplätze**
 
 <sup>1</sup> Die Ausgangszahl für Parkplätze wächst degressiv mit der BGF gemäss folgender Tabelle:
 
 <table>
-<tr><th>Fläche in m2 BGF</th><th>Ausgangspunkt für Parkplätze</th></tr>
-<tr><td>0– 500</td><td>2– 20</td></tr>
-<tr><td>500– 1000</td><td>21– 38</td></tr>
-<tr><td>1000– 2000</td><td>39– 69</td></tr>
-<tr><td>2000– 3000</td><td>70– 93</td></tr>
-<tr><td>3000– 4000</td><td>94–115</td></tr>
-<tr><td>4000– 5000</td><td>116–130</td></tr>
-<tr><td>5000–10000</td><td>131–204</td></tr>
+<tr><th>Fläche in m² BGF</th><th>Ausgangszahl für Parkplätze</th></tr>
+<tr><td>0 - 500</td><td>2 - 21</td></tr>
+<tr><td>500 - 1000</td><td>21 - 39</td></tr>
+<tr><td>1000 - 2000</td><td>39 - 70</td></tr>
+<tr><td>2000 - 3000</td><td>70 - 94</td></tr>
+<tr><td>3000 - 4000</td><td>94 - 116</td></tr>
+<tr><td>4000 - 5000</td><td>116 - 131</td></tr>
+<tr><td>5000 - 10000</td><td>131 - 205</td></tr>
+<tr><td>10'000 - 50'000</td><td>205 - 764</td></tr>
+<tr><td>Über 50'000</td><td>+ 12 pro 1'000m²</td></tr>
 </table>
 
 <sup>2</sup> Die BGF umfasst die Verkaufsfläche und alle für den Betrieb des Ladens erforderlichen Nebenräume. Bei Zwischenwerten der BGF wird die Ausgangszahl interpoliert und aufgerundet.
 
-<sup>3</sup> Das Bau- und Verkehrsdepartement legt für Läden über 10 000 m² BGF die Ausgangszahl in einer Richtlinie mit degressivem Zuwachs fest.
+<sup>3</sup> …
 
 <sup>4</sup> Massgebende BGF zur Berechnung der Anzahl Parkplätze ist die Summe aus den Flächen verschiedener Einzelgeschäfte.
 
@@ -135,57 +135,88 @@ erlässt folgende Verordnung:
 
 <sup>1</sup> Die Zahl der Parkplätze ergibt sich durch Multiplikation der Ausgangszahl (§ 6) mit dem Faktor für die Qualität der Erschliessung mit öffentlichen Verkehrsmitteln gemäss § 5 Abs. 2.
 
-<sup>2</sup> Die Aufteilung der Parkplätze auf die Belegschaft und die Kundschaft ist freigestellt.
+<sup>2</sup> …
 
 ### (II.)3. Wohnungen
 
 #### § 8
 
+**Zahl der Parkplätze**
+
 <sup>1</sup> Für jede Wohnung kann ein Parkplatz erstellt werden.
 
-<sup>2</sup> Für Wohnungen mit mehr als fünf Zimmern oder mehr als 140 m² BGF kann das Bau- und Verkehrsdepartement zusätzliche Parkplätze bewilligen.
+<sup>2</sup> Für Wohnungen mit mehr als vier Zimmern oder mehr als 120 m² BGF kann das Bau- und Verkehrsdepartement zusätzliche Parkplätze bewilligen.
 
-### (II.)4. Ausnahmen
+### (II.)4. Weitere Nutzungen
 
 #### § 9
 
-**Weitere Parkplätze**
+**Spezielle Nutzungen**
 
-<sup>1</sup> In einzelnen Fällen, wenn das öffentliche Interesse eine Abweichung erheischt, kann das Bau- und Verkehrsdepartement eine grössere Anzahl Parkplätze bewilligen.
+<sup>1</sup> Für spezielle Nutzungen wie Schulen, Spitäler, Sport- und Freizeitanlagen, kulturelle Einrichtungen, Hotels und Restaurants und dergleichen ist die Anzahl der Parkplätze unter Berücksichtigung der vorhandenen Erschliessungsqualität und der Normen der Vereinigung der Schweizerischen Strassenfachleute zu ermitteln. Bezüglich Erschliessungsqualität werden grundsätzlich die unteren Gabelwerte der Norm verwendet.
 
 <sup>2</sup> …
 
 #### § 10
 
-**Parkplätze für spezielle Verwendungszwecke und Nutzungen**
+**Zusätzliche Parkplätze**
 
-<sup>1</sup> Auf begründetes Gesuch hin kann das Bauinspektorat[^10-1] in folgenden Fällen zusätzliche Parkplätze bewilligen:
+<sup>1</sup> Auf begründetes Gesuch hin kann das Bau- und Verkehrsdepartement in folgenden Fällen zusätzliche Parkplätze bewilligen:
 
 - a) Für Personal, das regelmässig Nachtarbeit leistet und dessen Arbeitsbeginn oder -ende in eine Zeit fällt, in der kein öffentliches Verkehrsmittel fährt.
-- b) Für Fahrzeuge mit alternativem Antrieb (wie beispielsweise Sonne, Strom, Gas).
+- b) Für Betriebe, die aufgrund ihrer Tätigkeit auf Dienstfahrzeuge angewiesen sind.
+- c) Für die Öffentlichkeit zugängliche Carsharing-Systeme.
 
-<sup>2</sup> Das Bauinspektorat[^10-2] kann zusätzlich Parkplätze für Behinderte verlangen und bewilligen.
+<sup>2</sup> …
 
-<sup>3</sup> Die Parkplätze gemäss Abs. 1 und 2 bleiben der speziellen Benützerkategorie vorbehalten. Wie dies sichergestellt werden soll, ist durch die Gesuchstellerin oder den Gesuchsteller mit Einreichung des Gesuchs darzutun (Kennzeichnung des Parkplatzes und des Fahrzeuges, Absperrung, Zutrittskontrolle).
+<sup>3</sup> …
 
-<sup>4</sup> Für spezielle Nutzungen wie Schulen, Spitäler, Sport- und Freizeitanlagen, kulturelle Einrichtungen, Hotels und Restaurants und dergleichen ist die Anzahl der Parkplätze gemäss den Normen der Vereinigung der Schweizerischen Strassenfachleute zu ermitteln. Bezüglich Erschliessungsqualität werden grundsätzlich die unteren Gabelwerte der Norm verwendet.
+<sup>4</sup> …
 
-[^10-1]: § 10 Abs. 1: Jetzt: Bau- und Gastgewerbeinspektorat.
-[^10-2]: § 10 Abs. 2: Jetzt: Bau- und Gastgewerbeinspektorat.
-
-### (II.)5. Parkplätze auf anderen Grundstücken, Quartierparkgaragen
+### (II.)5. Parkplätze auf anderen Grundstücken, Quartierparkings und Monitoring
 
 #### § 11
+
+**Parkplätze auf anderen Grundstücken**
 
 <sup>1</sup> Statt auf dem Baugrundstück können die Parkplätze bis in höchstens 300 m Entfernung (Luftlinie) auf einem anderen Grundstück erstellt werden, vorausgesetzt, dass das Recht hiezu im Grundbuch eingetragen ist.
 
 <sup>2</sup> Das Bau- und Verkehrsdepartement kann für Anlagen im öffentlichen Interesse eine grössere Entfernung bewilligen.
 
-<sup>3</sup> Das Bau- und Verkehrsdepartement kann ferner unterirdische Quartierparkgaragen bewilligen, sofern eine angemessene Anzahl oberirdischer Parkplätze (ggf. auf Allmend) zu Gunsten eindeutiger stadtgestalterischer Verbesserungen (Grünraumgestaltung, Spiel- und Grünflächen anstatt Parkplätze, neue Fussgängerzonen usw.) aufgehoben wird.
+<sup>3</sup> …
+
+#### § 11a
+
+**Quartierparking**
+
+<sup>1</sup> Das Bau- und Verkehrsdepartement kann Quartierparkings als eigenständige Parkierungsanlagen oder als Teil von bestehenden oder neu geplanten Parkierungsanlagen bewilligen. Kleine Quartierparkings mit weniger als 30 Parkplätzen werden vom Amt für Mobilität bewilligt. Die Zonenkonformität für ober- und unterirdische Quartierparkings richtet sich nach den allgemeinen Regeln des Bau- und Planungsgesetzes.
+
+<sup>2</sup> 95 % der neuen Parkplätze in einem Quartierparking werden durch die Aufhebung von Allmendparkplätzen kompensiert.
+
+<sup>3</sup> Die Gebiete mit einer hohen Parkplatzauslastung sind in einem Geobasisdatensatz festgelegt. Sie bestimmen den Perimeter der Parkplatzaufhebung gemäss Abs. 2.
+
+<sup>4</sup> Maximal 10 % der Kompensationspflicht gemäss Abs. 2 können über die Umwandlung von Parkplätzen der blauen Zone in Güterumschlagsfelder oder in Kurzzeitparkplätze mit max. 90 Minuten Parkdauer erfolgen. Das Parkieren mit einer Anwohnerkarte ist auf diesen Kurzzeitparkplätzen nicht zulässig.
+
+<sup>5</sup> Die Bewilligungsbehörde legt im Bauentscheid fest,
+
+- a) ob die Parkplätze im Quartierparking öffentlich zugänglich und folglich zu bewirtschaften sind oder nicht und
+- b) wie viele Allmendparkplätze in welchem Perimeter aufzuheben sind.
+
+#### § 11b
+
+**Parkplatzmonitoring**
+
+<sup>1</sup> Das Amt für Mobilität prüft, ob die erwünschte Verlagerung von Parkplätzen vom öffentlichen Strassenraum auf Privatgelände erfolgt, indem es mindestens alle zwei Jahre folgende Daten publiziert:
+
+- a) Anzahl Parkplätze auf der Allmend («Parkplatzkataster»);
+- b) Anzahl neu erstellter Parkplätze auf Privatparzellen pro Nutzungsart;
+- c) Anzahl neu erstellter Parkplätze in einem Quartierparking pro Nutzungsart;
+- d) Anzahl und Lage der als Kompensation für ein Quartierparking aufgehobener Parkplätze auf der Allmend;
+- e) Anzahl und Lage der zur Aufhebung geplanten Parkplätze auf der Allmend.
 
 ## III. Fahrtenmodell
 
-### (III.)1. Berechnung der Anzahl Farten
+### (III.)1. Berechnung der Anzahl Fahrten
 
 #### § 12
 
@@ -210,7 +241,7 @@ erlässt folgende Verordnung:
 <tr><td>Kundschaft Büro/Praxis/Hotel</td><td>4 Fahrten/PP/Tag</td></tr>
 <tr><td>Kundschaft Restaurant</td><td>8 Fahrten/PP/Tag</td></tr>
 <tr><td>Kundschaft Messe/Kongress</td><td>2.5 Fahrten/PP/Tag</td></tr>
-<tr><td>Kundschaft Laden</td><td>10 Fahrten/PP/Tag</td></tr>
+<tr><td>Kundschaft Verkauf</td><td>10 Fahrten/PP/Tag</td></tr>
 <tr><td>Kundschaft Kino</td><td>5 Fahrten/PP/Tag</td></tr>
 <tr><td>Kundschaft Theater/Konzert</td><td>2.5 Fahrten/PP/Tag</td></tr>
 </table>
@@ -229,7 +260,7 @@ erlässt folgende Verordnung:
 - b) Büro — 275 Tage
 - c) Hotel — 365 Tage
 - d) Restaurant — 315 Tage
-- e) Laden — 305 Tage
+- e) Verkauf — 305 Tage
 - f) Kino/Theater — 365 Tage
 
 #### § 17
@@ -240,11 +271,9 @@ erlässt folgende Verordnung:
 
 #### § 18
 
-**Strassennetzkapazität und Lärmbelastung**
+**…**
 
-<sup>1</sup> Es ist ein Gutachten über die zu erwartenden Auswirkungen des Verkehrspotenzials auf die Strassennetzkapazität sowie auf die Lärmbelastung einzureichen.
-
-### (III.)2. Ergänzende Festlegung der Anzahl Abstellplätze
+### (III.)2. Ergänzende Festlegung der Anzahl Parkplätze
 
 #### § 19
 
@@ -266,11 +295,55 @@ erlässt folgende Verordnung:
 
 <sup>1</sup> Die Beträge gemäss § 75c des Bau- und Planungsgesetzes basieren auf dem Indexstand Februar 2010, 103.7 (Basis 2005 = 100). Der effektiv zu leistende Betrag wird gemäss Indexstand zum Zeitpunkt der Zahlungsverfügung festgelegt.
 
-## IV.
+## IV. Ausstattung und Verwendung der Parkplätze
 
-[^22-1]
+#### § 23
 
-[^22-1]: Abschn. IV: Abschnitt III mit §§ 12–22 eingefügt durch RRB vom 15. 6. 2010 (wirksam seit 20. 6. 2010); dadurch wurde der bisherige Abschn. III zu Abschn. IV.
+**Behindertengerechte Parkplätze**
+
+<sup>1</sup> Die Anzahl, Lage und Ausgestaltung von Parkplätzen für Menschen mit Behinderungen richten sich nach der Norm für hindernisfreie Bauten.
+
+<sup>2</sup> Werden maximal 7 Parkplätze erstellt, muss ein Parkplatz behindertengerecht ausgestaltet werden. Auf eine feste Reservation für Menschen mit Behinderungen kann in diesen Fällen aber verzichtet werden.
+
+#### § 24
+
+**Ausrüstung mit Ladestationen für Elektrofahrzeuge**
+
+<sup>1</sup> Ein Anteil von mindestens 25 % aller Parkplätze ist mit betriebsbereiten Ladestationen für Elektrofahrzeuge auszurüsten.
+
+<sup>2</sup> Bei Parkplätzen, die für Wohnungen bewilligt wurden, sind mindestens weitere 25 % mit Stromzuleitungen so vorzubereiten, dass ein einfacher Einbau einer Ladestation für Elektrofahrzeuge möglich ist.
+
+<sup>3</sup> Die leere Leitungsinfrastruktur, die Platzreserve im Stromverteiler und der Elektrizitätsanschluss des Gebäudes müssen so dimensioniert sein, dass eine spätere Ausrüstung aller Parkplätze mit Ladepunkten für Elektrofahrzeuge möglich ist.
+
+<sup>4</sup> Installationen mit mehreren Ladestationen am gleichen Anschlusspunkt benötigen ein Lastmanagementsystem nach den Vorgaben des Verteilnetzbetreibers.
+
+#### § 25
+
+**Nutzung der Parkplätze**
+
+<sup>1</sup> Die Aufteilung der bewilligten Parkplätze auf verschiedene Nutzungsarten ist frei und die Mehrfachnutzung eines Parkplatzes ist zulässig, solange die von einem Parkplatz ausgehende durchschnittliche Verkehrserzeugung die folgenden Mengen nicht übersteigt:
+
+- a) für Parkplätze, die gemäss § 5 bewilligt wurden: — 5 Fahrten/PP/Tag
+- b) für Parkplätze, die gemäss § 8 bewilligt wurden: — 2.5 Fahrten/PP/Tag
+- c) für Parkplätze, die gemäss § 9 bewilligt wurden, wird die zulässige Fahrtenzahl im Bauentscheid festgelegt.
+
+<sup>2</sup> Solange die Parkplätze gemäss dem bewilligten Zweck genutzt werden, unterliegen sie keiner Fahrtenbeschränkung.
+
+<sup>3</sup> Parkplätze, die gemäss § 7 bewilligt wurden, unterliegen keiner Nutzungseinschränkung.
+
+<sup>4</sup> Im Bauentscheid kann eine höhere zulässige Fahrtenzahl festgelegt werden, wenn das Bewirtschaftungskonzept der Parkplätze Mehrfachnutzungen explizit vorsieht. Die festgelegte Fahrtenanzahl darf dabei die maximal mögliche Fahrtenanzahl, bei vollständiger Ausnutzung aller zulässigen Parkplätze, nicht übersteigen.
+
+<sup>5</sup> Zusätzliche Parkplätze, die gemäss § 10 bewilligt wurden, bleiben der speziellen Nutzerkategorie vorbehalten. Wie dies sichergestellt werden soll, ist durch die gesuchstellende Person mit Einreichung des Gesuchs darzulegen (Kennzeichnung des Parkplatzes und des Fahrzeuges, Absperrung, Zutrittskontrolle). Bei Wegfall der bewilligten Nutzung sind die betroffenen Parkplätze aufzuheben.
+
+## V. Übergangs- und Schlussbestimmungen
+
+#### § 26
+
+**Übergangsbestimmungen zur Revision vom 5. Juli 2022**
+
+<sup>1</sup> Für Baubegehren, welche ab 1. August 2022 eingereicht werden, gilt das neue Recht.
+
+*Schlussbestimmung*
 
 Diese Verordnung ist zu publizieren; sie wird am 1. Januar 1993 wirksam.
 
