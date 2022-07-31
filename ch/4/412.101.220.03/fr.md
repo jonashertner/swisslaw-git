@@ -3,18 +3,18 @@ sr: "412.101.220.03"
 title: Ordonnance du SEFRI du 18 mai 2021 sur la formation professionnelle initiale de gestionnaire du commerce de détail avec certificat fédéral de capacité (CFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/314"
 language: fr
-version: 2022-01-01
+version: 2022-08-01
 adopted: 2021-05-18
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/314/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-314-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/314/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/314/20220801/fr/xml/fedlex-data-admin-ch-eli-cc-2021-314-20220801-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/314/20220801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du SEFRI sur la formation professionnelle initiale de gestionnaire du commerce de détail avec certificat fédéral de capacité (CFC)
 
-du 18 mai 2021 (Etat le 1<sup>er</sup> janvier 2022)
+du 18 mai 2021 (État le 1<sup>er</sup> août 2022)
 
 <table>
 <tr><td>71900</td><td>Gestionnaire du commerce de détail CFC Detailhandelsfachfrau EFZ / Detailhandelsfachmann EFZ Impiegata del commercio al dettaglio AFC / Impiegato del commercio al dettaglio AFC</td></tr>
@@ -365,13 +365,14 @@ La procédure de qualification avec examen final porte sur les compétences opé
   - 1\. le domaine de qualification est évalué vers la fin de la formation professionnelle initiale,
   - 2\. la personne en formation doit montrer qu’elle est à même d’exécuter les tâches demandées dans les règles de l’art et en fonction des besoins et de la situation,
   - 3\. le travail pratique a lieu dans le cadre de la branche de formation et d’examens inscrite dans le contrat d’apprentissage et figurant dans l’annexe,
-  - 4\. le domaine de qualification porte sur les domaines de compétences opérationnelles de pondération identique ci-après:
+  - 4\.[^20-1] dans les branches de formation et d’examens (BFE) figurant dans l’annexe, le domaine de qualification porte sur les domaines de compétences opérationnelles ci-après assortis des pondérations suivantes:
 
 <table>
-<tr><td>Point d’appréciation</td><td>Domaine de compétences opérationnelles</td></tr>
-<tr><td>1</td><td>Gestion des relations avec les clients Acquisition, intégration et développement des connaissances sur les produits et prestations</td></tr>
-<tr><td>2</td><td>Gestion et présentation des produits et prestations</td></tr>
-<tr><td>3</td><td>Conception et réalisation d’expériences d’achat ou Gestion de magasins en ligne</td></tr>
+<tr><th>Point d’appréciation</th><th>Domaine de compétences opérationnelles</th><th colspan="2">Pondération</th></tr>
+<tr><th></th><th></th><th>BFE After-Sales Automobile Alimentation Landi</th><th>Autres BFE</th></tr>
+<tr><td>1</td><td>Gestion des relations avec les clients Acquisition, intégration et développement des connaissances sur les produits et prestations</td><td>35 %</td><td>50 %</td></tr>
+<tr><td>2</td><td>Gestion et présentation des produits et prestations</td><td>35 %</td><td>20 %</td></tr>
+<tr><td>3</td><td>Conception et réalisation d’expériences d’achat ou Gestion de magasins en ligne</td><td>30 %</td><td>30 %</td></tr>
 </table>
 
 - b.
@@ -405,6 +406,8 @@ La procédure de qualification avec examen final porte sur les compétences opé
   - 3\. l’objet et les modalités de la procédure d’appréciation des domaines partiels sont réglés dans le plan d’études national pour la culture générale.
 
 <sup>2</sup> Dans chaque domaine de qualification, les prestations sont évaluées par au moins deux experts aux examens.
+
+[^20-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 384](https://fedlex.data.admin.ch/eli/oc/2022/384)).
 
 #### Art. 21
 

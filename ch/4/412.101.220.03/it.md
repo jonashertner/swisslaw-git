@@ -3,18 +3,18 @@ sr: "412.101.220.03"
 title: Ordinanza della SEFRI del 18 maggio 2021 sulla formazione professionale di base Impiegata del commercio al dettaglio AFC / Impiegato del commercio al dettaglio con attestato federale di capacità (AFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/314"
 language: it
-version: 2022-01-01
+version: 2022-08-01
 adopted: 2021-05-18
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/314/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2021-314-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/314/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/314/20220801/it/xml/fedlex-data-admin-ch-eli-cc-2021-314-20220801-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/314/20220801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base Impiegata del commercio al dettaglio AFC / Impiegato del commercio al dettaglio con attestato federale di capacità (AFC)
 
-del 18 maggio 2021 (Stato 1° gennaio 2022)
+del 18 maggio 2021 (Stato 1° agosto 2022) (Stato 1° agosto 2022)
 
 <table>
 <tr><td>71900</td><td>Impiegata del commercio al dettaglio AFC / Impiegato del commercio al dettaglio AFC Detailhandelsfachfrau EFZ / Detailhandelsfachmann EFZ Gestionnaire du commerce de détail CFC</td></tr>
@@ -366,13 +366,14 @@ Nella procedura di qualificazione con esame finale sono esaminate, nel modo sott
   - 1\. l’esame per questo campo di qualificazione ha luogo verso la fine della formazione professionale di base,
   - 2\. la persona in formazione deve dimostrare di essere in grado di svolgere le attività richieste in modo professionalmente corretto e adeguato alle necessità e alla situazione,
   - 3\. il lavoro pratico si svolge nel ramo di formazione e d’esame indicato nel contratto di tirocinio e riportato nell’allegato,
-  - 4\. il campo di qualificazione comprende i campi di competenze operative sottoelencati, tutti con la medesima ponderazione:
+  - 4\.[^20-1] per i rami di formazione e d’esame (RFE) riportati nell’allegato il campo di qualificazione comprende i campi di competenze operative sottoelencati con le ponderazioni seguenti:
 
 <table>
-<tr><td>Voce</td><td>Campi di competenze operative</td></tr>
-<tr><td>1</td><td>Creazione e organizzazione delle relazioni con il cliente Acquisizione, introduzione e ulteriore sviluppo di conoscenze su prodotti e servizi</td></tr>
-<tr><td>2</td><td>Gestione e presentazione di prodotti e servizi</td></tr>
-<tr><td>3</td><td>Creazione di esperienze di acquisto oppure Gestione di negozi online</td></tr>
+<tr><th>Voce</th><th>Campi di competenze operative</th><th colspan="2">Ponderazione</th></tr>
+<tr><th></th><th></th><th>RFE After-Sales Automobile Alimentari Landi</th><th>Altri RFE</th></tr>
+<tr><td>1</td><td>Creazione e organizzazione delle relazioni con il cliente Acquisizione, introduzione e ulteriore sviluppo di conoscenze su prodotti e servizi</td><td>35 %</td><td>50 %</td></tr>
+<tr><td>2</td><td>Gestione e presentazione di prodotti e servizi</td><td>35 %</td><td>20 %</td></tr>
+<tr><td>3</td><td>Creazione di esperienze di acquisto oppure Gestione di negozi online</td><td>30 %</td><td>30 %</td></tr>
 </table>
 
 - b.
@@ -383,8 +384,8 @@ Nella procedura di qualificazione con esame finale sono esaminate, nel modo sott
   - 2\. il campo di qualificazione comprende i campi di competenze operative e i tipi di esame sottoelencati, con la durata e le ponderazioni seguenti:
 
 <table>
-<tr><td>Voce</td><td>Campi di competenze operative</td><td colspan="2">Tipo di esame e durata</td><td>Ponderazione</td></tr>
-<tr><td></td><td></td><td>scritto</td><td>orale</td><td></td></tr>
+<tr><th>Voce</th><th>Campi di competenze operative</th><th colspan="2">Tipo di esame e durata</th><th>Ponderazione</th></tr>
+<tr><th></th><th></th><th>scritto</th><th>orale</th><th></th></tr>
 <tr><td>1</td><td>Creazione e organizzazione delle relazioni con il cliente</td><td>20 min.</td><td>40 min.</td><td>50 %</td></tr>
 <tr><td>2</td><td>Gestione e presentazione di prodotti e servizi</td><td>20 min.</td><td>10 min.</td><td>25 %</td></tr>
 <tr><td>3</td><td>Interazione nell’azienda e nel ramo</td><td>20 min.</td><td>10 min.</td><td>25 %</td></tr>
@@ -406,6 +407,8 @@ Nella procedura di qualificazione con esame finale sono esaminate, nel modo sott
   - 3\. l’oggetto e la procedura della valutazione delle voci sono disciplinati nel Programma nazionale per l’insegnamento della cultura generale.
 
 <sup>2</sup> Per ogni campo di qualificazione la valutazione è effettuata da almeno due periti d’esame.
+
+[^20-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 17 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 384](https://fedlex.data.admin.ch/eli/oc/2022/384)).
 
 #### Art. 21
 
