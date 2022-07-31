@@ -4,13 +4,13 @@ number: "453.151"
 title: "Verordnung über die Promotion, die Maturitätsprüfung und die Erlangung der Maturität an der Aargauischen Maturitätsschule für Erwachsene"
 short: VPAME
 language: de
-version: 2020-02-01
-valid_until: 2022-07-31
-version_adopted: 2019-05-15
+version: 2022-08-01
+valid_until: 2023-07-31
+version_adopted: 2022-05-04
 adopted: 1998-01-07
 in_force: 1998-02-16
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/453.151"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2770/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3215/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2770/pdf_file"
 
 (VPAME)
 
-Vom 07.01.1998 (Stand 01.02.2020)
+Vom 07.01.1998 (Stand 01.08.2022)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -29,25 +29,45 @@ beschliesst:
 
 [^ingress-1]: SAR [423.120](https://gesetzessammlungen.ag.ch/data/423.120/de)
 
-## 1. Promotion
+## 1. Allgemeines und Promotion
+
+### 1.1. Allgemeines
 
 #### § 1
 
-**Zeugnisse und Zwischenbeurteilungen**
+**…**
 
-<sup>1</sup> Die Zeugnisse geben Auskunft über die schriftlichen und mündlichen Leistungen der Studierenden. Sie enthalten den Entscheid über die Beförderung.
+#### § 1a
 
-<sup>2</sup> Zeugnisse werden am Ende des Grundkurses sowie am Ende des ersten, zweiten und dritten Jahres des Aufbaukurses ausgestellt.
+**Geltungsbereich**
 
-<sup>3</sup> Bei den Zeugnissen des Aufbaukurses ist das jeweils vorangegangene Ausbildungsjahr für die Beurteilung massgebend.
+<sup>1</sup> Diese Verordnung regelt die Beurteilungen, die Promotionsentscheide, die Maturitätsprüfung und die Erlangung der Maturität an der Aargauischen Maturitätsschule für Erwachsene (AME).
 
-<sup>4</sup> Am Ende jedes ungeraden Semesters des Aufbaukurses erfolgt eine Zwischenbeurteilung, die der Standortbestimmung der Studierenden dient. Die Zwischenbeurteilung ist nicht beschwerdefähig.
+#### § 1b
+
+**Beurteilung**
+
+<sup>1</sup> Die Beurteilung der Studierenden erfolgt lehrplanbezogen und umfasst alle Leistungskomponenten.
+
+<sup>2</sup> Das Ergebnis der Beurteilung wird in jedem Fach mit einer ganzen oder halben Note ausgedrückt. 6 ist die höchste, 1 die tiefste Note. Noten unter 4 stehen für ungenügende Leistungen.
+
+<sup>3</sup> Die Fachlehrpersonen nehmen die Beurteilungen vor.
+
+#### § 1c
+
+**Nachteilsausgleich**
+
+<sup>1</sup> Studierende mit Behinderungen, bei denen die damit verbundenen Funktionsstörungen ärztlich beziehungsweise fachpsychologisch nachgewiesen sind, haben Anspruch auf einen angemessenen Nachteilsausgleich.
+
+<sup>2</sup> Die betreffenden Nachweise sind rechtzeitig vor Inanspruchnahme des Nachteilsausgleichs im Hinblick auf Promotionsentscheide und Prüfungen zu erbringen.
+
+<sup>3</sup> Über Art und Umfang der Massnahmen zum Nachteilsausgleich entscheidet im Rahmen von § 1b die Schulleitung.
 
 #### § 2
 
-**Notenskala**
+**…**
 
-<sup>1</sup> Im Zeugnis werden die Leistungen in den einzelnen Fächern in ganzen und halben Noten ausgedrückt. 6 ist die höchste, 1 die tiefste Note. Noten unter 4 stehen für ungenügende Leistungen.
+### 1.2. Promotion
 
 #### § 3
 
@@ -66,9 +86,11 @@ beschliesst:
 <sup>1</sup> Studierende werden befördert, wenn
 
 - a) die doppelte Summe aller Notenabweichungen von 4 nach unten nicht grösser ist als die Summe aller Notenabweichungen von 4 nach oben und
-- b) im Zeugnis am Ende des Grundkurses nicht mehr als zwei ungenügende Noten, bzw. im Zeugnis am Ende des ersten und zweiten Ausbildungsjahres des Aufbaukurses nicht mehr als drei Noten unter 4 oder bei einem Notendurchschnitt von mindestens 4.3 nicht mehr als vier Noten unter 4 erteilt wurden.
+- b) im Zeugnis am Ende des Grundkurses nicht mehr als drei Noten unter 4, beziehungsweise im Zeugnis am Ende des ersten und zweiten Ausbildungsjahres des Aufbaukurses nicht mehr als vier Noten unter 4 erteilt wurden.
 
-<sup>2</sup> Über die Beförderung entscheidet die Klassenkonferenz auf Grund der von den Fachlehrkräften eingereichten Fachnoten.
+<sup>1<sup>bis</sup></sup> Liegen wichtige Gründe vor, können Studierende, welche die Voraussetzungen von Absatz 1 nicht erfüllen, befördert werden, wenn ihnen für das Erreichen der Lernziele des entsprechenden Ausbildungsjahres eine günstige Prognose gestellt werden kann.
+
+<sup>2</sup> Über die Beförderung entscheidet die Promotionskonferenz auf Grund der von den Fachlehrpersonen eingereichten Fachnoten.
 
 #### § 5
 
@@ -80,13 +102,29 @@ beschliesst:
 
 <sup>3</sup> Aus- und Wiedereintritt in das gleiche oder in ein unteres Semester gilt grundsätzlich als Repetition. Über Ausnahmen beim Vorliegen besonderer Umstände entscheidet die Schulleitung.
 
-<sup>4</sup> Bei Nichtbestehen der Maturität im ersten Versuch kann das dritte Jahr des Aufbaukurses in jedem Fall repetiert werden.
+<sup>4</sup> …
+
+#### § 5a
+
+**Zeugnis**
+
+<sup>1</sup> Zeugnisse werden am Ende des Grundkurses sowie am Ende des ersten, zweiten und dritten Jahres des Aufbaukurses ausgestellt.
+
+<sup>2</sup> Das Zeugnis enthält die Noten sämtlicher Fächer, an den Promotionsterminen den Promotionsentscheid und in den Fällen von § 4 Abs. 1<sup>bis</sup> eine zusätzliche Begründung.
+
+#### § 5b
+
+**Zwischenbeurteilung**
+
+<sup>1</sup> Am Ende jedes ungeraden Semesters des Aufbaukurses erfolgt eine Zwischenbeurteilung, die der Standortbestimmung der Studierenden dient.
+
+<sup>2</sup> Die Promotionskonferenz nimmt die Zwischenbeurteilungen vor.
+
+<sup>3</sup> In den Promotions- beziehungsweise Maturitätsfächern werden den Studierenden die Noten der jeweiligen Beurteilung mitgeteilt.
 
 #### § 6
 
-**Beschwerderecht**
-
-<sup>1</sup> Gegen Promotionsentscheide der Klassenkonferenz kann beim Departement Bildung, Kultur und Sport innert 30 Tagen seit Zustellung schriftlich Beschwerde erhoben werden. Dessen Entscheid ist an das Verwaltungsgericht weiterziehbar.
+**…**
 
 #### § 7
 
@@ -118,7 +156,7 @@ beschliesst:
 
 <sup>3</sup> Die schriftlichen Prüfungen dauern 4 Stunden, die mündlichen 15 Minuten.
 
-<sup>4</sup> Die schriftlichen Prüfungen sind kantonal einheitlich.
+<sup>4</sup> Die schriftlichen Prüfungen sind innerhalb der Schule einheitlich.
 
 #### § 11
 
@@ -126,7 +164,7 @@ beschliesst:
 
 <sup>1</sup> Die Ergebnisse der einzelnen schriftlichen und mündlichen Prüfungen sind in ganzen und halben Zahlen anzugeben. 6 ist die höchste, 1 die tiefste Note. Noten unter 4 stehen für ungenügende Leistungen.
 
-<sup>2</sup> In Fächern, in denen schriftlich und mündlich geprüft wird, entspricht die Prüfungsnote dem Mittel der beiden Noten.
+<sup>2</sup> In Fächern, in denen schriftlich und mündlich geprüft wird, entspricht die Prüfungsnote dem arithmetischen Mittel der beiden Noten.
 
 #### § 12
 
