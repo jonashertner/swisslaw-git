@@ -4,11 +4,11 @@ title: Verordnung vom 19. Oktober 1988 über die Umweltverträglichkeitsprüfung
 short: UVPV
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1931_1931_1931"
 language: de
-version: 2016-10-01
+version: 2022-08-01
 adopted: 1988-10-19
 in_force: 1989-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1931_1931_1931/20161001/de/xml/fedlex-data-admin-ch-eli-cc-1988-1931_1931_1931-20161001-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/20161001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1931_1931_1931/20220801/de/xml/fedlex-data-admin-ch-eli-cc-1988-1931_1931_1931-20220801-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/20220801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/20161001/de"
 
 (UVPV)
 
-vom 19. Oktober 1988 (Stand am 1. Oktober 2016)
+vom 19. Oktober 1988 (Stand am 1. August 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -428,29 +428,19 @@ Anhang*[^t-1]*
 
 ## UVP-Anlagen und massgebliche Verfahren
 
-[^t-1]: Bereinigt gemäss Art. 47 Ziff. 3 der Technischen Verordnung über Abfälle vom 10. Dez. 1990 ([AS 1991 169](https://fedlex.data.admin.ch/eli/oc/1991/169_169_169)), Art. 74 der V vom 23. Nov. 1994 über die Infrastruktur der Luftfahrt ([AS 1994 3050](https://fedlex.data.admin.ch/eli/oc/1994/3050_3050_3050)), Ziff. I der V vom 5. Sept. 1995 ([AS 1995 4261](https://fedlex.data.admin.ch/eli/oc/1995/4261_4261_4261)), Art. 32 der V vom 25. Sept. 1995 über das Bewilligungsverfahren für militärische Bauten und Anlagen ([AS 1995 4784](https://fedlex.data.admin.ch/eli/oc/1995/4784_4784_4784)), Ziff. II 28 der V vom 25. Nov. 1998 ([AS 1999 704](https://fedlex.data.admin.ch/eli/oc/1999/104)), Anhang 5 Ziff. 1 der Freisetzungsverordnung vom 25. Aug. 1999 ([AS 1999 2783](https://fedlex.data.admin.ch/eli/oc/1999/443)), Ziff. II 7 der V vom 2. Febr. 2000 zum Bundesgesetz über die Koordination und Vereinfachung von Entscheidverfahren ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)), Anhang 7 Ziff. 2 der Kernenergieverordnung vom 10. Dez. 2004 ([AS 2005 601](https://fedlex.data.admin.ch/eli/oc/2005/68)), Art. 71 Ziff. 2 der Seilbahnverordnung vom 21. Dez. 2006 ([AS 2007 39](https://fedlex.data.admin.ch/eli/oc/2007/14)), Ziff. II der V vom 19. Sept. 2008 ([AS 2008 4621](https://fedlex.data.admin.ch/eli/oc/2008/646)), Ziff. III 1 der V vom 13. Mai 2009 ([AS 2009 2525](https://fedlex.data.admin.ch/eli/oc/2009/319)), Anhang 5 Ziff. 6 der Einschliessungsverordnung vom 9. Mai 2012 ([AS 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)), Ziff. III 1 der V vom 29. April 2015 ([AS 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)), Ziff. II der V vom 12. Aug. 2015 ([AS 2015 2903](https://fedlex.data.admin.ch/eli/oc/2015/545)), Anhang 6 Ziff. 5 der Abfallverordnung vom 4. Dez. 2015 ([AS 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), Art. 43 Abs. 1 Bst. b der V vom 25. Nov. 2015 über Fernmeldeanlagen ([AS 2016 179](https://fedlex.data.admin.ch/eli/oc/2016/24)) und Anhang Ziffer II 2 der V vom 17. Aug. 2016, in Kraft seit 1. Okt. 2016 ([AS 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
+[^t-1]: Bereinigt gemäss Art. 47 Ziff. 3 der Technischen Verordnung über Abfälle vom 10. Dez. 1990 ([AS 1991 169](https://fedlex.data.admin.ch/eli/oc/1991/169_169_169)), Art. 74 der V vom 23. Nov. 1994 über die Infrastruktur der Luftfahrt ([AS 1994 3050](https://fedlex.data.admin.ch/eli/oc/1994/3050_3050_3050)), Ziff. I der V vom 5. Sept. 1995 ([AS 1995 4261](https://fedlex.data.admin.ch/eli/oc/1995/4261_4261_4261)), Art. 32 der V vom 25. Sept. 1995 über das Bewilligungsverfahren für militärische Bauten und Anlagen ([AS 1995 4784](https://fedlex.data.admin.ch/eli/oc/1995/4784_4784_4784)), Ziff. II 28 der V vom 25. Nov. 1998 ([AS 1999 704](https://fedlex.data.admin.ch/eli/oc/1999/104)), Anhang 5 Ziff. 1 der Freisetzungsverordnung vom 25. Aug. 1999 ([AS 1999 2783](https://fedlex.data.admin.ch/eli/oc/1999/443)), Ziff. II 7 der V vom 2. Febr. 2000 zum Bundesgesetz über die Koordination und Vereinfachung von Entscheidverfahren ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)), Anhang 7 Ziff. 2 der Kernenergieverordnung vom 10. Dez. 2004 ([AS 2005 601](https://fedlex.data.admin.ch/eli/oc/2005/68)), Art. 71 Ziff. 2 der Seilbahnverordnung vom 21. Dez. 2006 ([AS 2007 39](https://fedlex.data.admin.ch/eli/oc/2007/14)), Ziff. II der V vom 19. Sept. 2008 ([AS 2008 4621](https://fedlex.data.admin.ch/eli/oc/2008/646)), Ziff. III 1 der V vom 13. Mai 2009 ([AS 2009 2525](https://fedlex.data.admin.ch/eli/oc/2009/319)), Anhang 5 Ziff. 6 der Einschliessungsverordnung vom 9. Mai 2012 ([AS 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)), Ziff. III 1 der V vom 29. April 2015 ([AS 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)), Ziff. II der V vom 12. Aug. 2015 ([AS 2015 2903](https://fedlex.data.admin.ch/eli/oc/2015/545)), Anhang 6 Ziff. 5 der Abfallverordnung vom 4. Dez. 2015 ([AS 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), Art. 43 Abs. 1 Bst. b der V vom 25. Nov. 2015 über Fernmeldeanlagen ([AS 2016 179](https://fedlex.data.admin.ch/eli/oc/2016/24)), Anhang Ziffer II 2 der V vom 17. Aug. 2016 ([AS 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)) und Ziff. II der V vom 22. Juni 2022, in Kraft seit 1. Aug. 2022 ([AS 2022 395](https://fedlex.data.admin.ch/eli/oc/2022/395)).
 
 ### 1 Verkehr
 
 ### 11 Strassenverkehr
 
 <table>
-<tr><td>Nr. Anlagetyp<sup>a)</sup></td><td>Massgebliches Verfahren</td></tr>
-<tr><td>11.1 Nationalstrassen</td><td>Mehrstufige UVP</td></tr>
-<tr><td></td><td>1. Stufe:</td></tr>
-<tr><td></td><td>Antragstellung durch den Bundesrat an die Bundesversammlung betreffend die Genehmigung der allgemeinen Linienführung und die Art der zu errichtenden Nationalstrassen (Art. 11 BG vom 8. März 1960[^annexu1-lvlu1-lvl1-lvl11-1] über die Nationalstrassen)</td></tr>
-<tr><td></td><td>2. Stufe:</td></tr>
-<tr><td></td><td>Genehmigung des generellen Projektes durch den Bundesrat (Art. 20 BG vom 8. März 1960 über die Nationalstrassen)</td></tr>
-<tr><td></td><td>3. Stufe:</td></tr>
-<tr><td></td><td>Plangenehmigung durch das Departement (Art. 26 Abs. 1 BG vom 8. März 1960 über die Nationalstrassen)</td></tr>
-</table>
-
-<table>
-<tr><td>Nr. Anlagetyp<sup>a)</sup></td><td>Massgebliches Verfahren</td></tr>
-<tr><td>11.2 \*) Hauptstrassen, die mit Bundeshilfe ausgebaut werden (Art. 12 BG vom 22. März 1985[^annexu1-lvlu1-lvl1-lvl11-2] über die Verwendung der zweckgebundenen Mineralölsteuer und der Nationalstrassenabgabe)</td><td>Durch das kantonale Recht zu bestimmen</td></tr>
-<tr><td>11.3 Andere Hochleistungs- und Hauptverkehrsstrassen (HLS und HVS)</td><td>Durch das kantonale Recht zu bestimmen</td></tr>
-<tr><td>11.4 Parkhäuser und -plätze für mehr als 500 Motorwagen</td><td>Durch das kantonale Recht zu bestimmen</td></tr>
-<tr><td colspan="2"><sup>a)</sup> Betrifft das Vorhaben einen mit \*) gekennzeichneten Anlagetyp, so muss im massgeblichen Verfahren auch das BAFU angehört werden (Art. 12 Abs. 3).</td></tr>
+<tr><th>Nr. Anlagetyp<sup>a)</sup></th><th colspan="2">Massgebliches Verfahren</th></tr>
+<tr><td>11.1 Nationalstrassen</td><td colspan="2">Mehrstufige UVP 1. Stufe: Antragstellung durch den Bundesrat an die Bundesversammlung betreffend die Genehmigung der allgemeinen Linienführung und die Art der zu errichtenden Nationalstrassen (Art. 11 BG vom 8. März 1960[^annexu1-lvlu1-lvl1-lvl11-1] über die Nationalstrassen) 2. Stufe: Genehmigung des generellen Projektes durch den Bundesrat (Art. 20 BG vom 8. März 1960 über die Nationalstrassen) 3. Stufe: Plangenehmigung durch das Departement (Art. 26 Abs. 1 BG vom 8. März 1960 über die Nationalstrassen)</td></tr>
+<tr><td colspan="2">11.2 \*) Hauptstrassen, die mit Bundeshilfe ausgebaut werden (Art. 12 BG vom 22. März 1985[^annexu1-lvlu1-lvl1-lvl11-2] über die Verwendung der zweckgebundenen Mineralölsteuer und der Nationalstrassenabgabe)</td><td>Durch das kantonale Recht zu bestimmen</td></tr>
+<tr><td colspan="2">11.3 Andere Hochleistungs- und Hauptverkehrsstrassen (HLS und HVS)</td><td>Durch das kantonale Recht zu bestimmen</td></tr>
+<tr><td colspan="2">11.4 Parkhäuser und -plätze für mehr als 500 Motorwagen</td><td>Durch das kantonale Recht zu bestimmen</td></tr>
+<tr><td colspan="3"><sup>a)</sup> Betrifft das Vorhaben einen mit \*) gekennzeichneten Anlagetyp, so muss im massgeblichen Verfahren auch das BAFU angehört werden (Art. 12 Abs. 3).</td></tr>
 </table>
 
 [^annexu1-lvlu1-lvl1-lvl11-1]: [SR 725.11](https://fedlex.data.admin.ch/eli/cc/1960/525_569_555)
@@ -460,7 +450,7 @@ Anhang*[^t-1]*
 
 <table>
 <tr><th>Nr. Anlagetyp</th><th>Massgebliches Verfahren</th></tr>
-<tr><td>12.1 Neue Eisenbahnlinien (Art. 5 und 6 Eisenbahngesetz vom 20. Dez. 1957[^annexu1-lvlu1-lvl1-lvl12-1])</td><td>*Mehrstufige UVP* 1. Stufe: Beschlussfassung durch den Bundesrat betreffend die Erteilung der Konzession (Art. 6 Eisenbahngesetz vom 20. Dez. 1957) 2. Stufe: Plangenehmigung durch die Genehmigungsbehörde (Art. 18 Abs. 1 Eisenbahngesetz vom 20. Dez. 1957)</td></tr>
+<tr><td>12.1 Neue Eisenbahnlinien (Art. 5 und 6 Eisenbahngesetz vom 20. Dez. 1957[^annexu1-lvlu1-lvl1-lvl12-1])</td><td>Mehrstufige UVP 1. Stufe: Beschlussfassung durch den Bundesrat betreffend die Erteilung der Konzession (Art. 6 Eisenbahngesetz vom 20. Dez. 1957) 2. Stufe: Plangenehmigung durch die Genehmigungsbehörde (Art. 18 Abs. 1 Eisenbahngesetz vom 20. Dez. 1957)</td></tr>
 <tr><td>12.2 Andere Anlagen, die ganz oder überwiegend dem Bahnbetrieb dienen (einschliesslich Ausbau von Eisenbahnlinien)</td><td>Plangenehmigung durch die Genehmigungsbehörde (Art. 18 Abs. 1 des Eisenbahngesetzes vom 20. Dez. 1957)</td></tr>
 <tr><td>– im Kostenvoranschlag (exkl. Sicherungsanlagen) von mehr als 40 Millionen Franken</td><td></td></tr>
 <tr><td>oder – die einem in diesem Anhang beschriebenen Anlagetyp entsprechen</td><td></td></tr>
@@ -475,9 +465,7 @@ Anhang*[^t-1]*
 <tr><td>13.1 Hafenanlagen für Schifffahrtsunternehmungen des öffentlichen Verkehrs</td><td>Plangenehmigung durch das Bundesamt für Verkehr (Art. 8 Abs. 1 BG vom 3. Okt. 1975[^annexu1-lvlu1-lvl1-lvl13-1] über die Binnenschifffahrt)</td></tr>
 <tr><td>13.2 Industriehafen mit ortsfesten Lade- und Entlade-Einrichtungen</td><td>Durch das kantonale Recht zu bestimmen</td></tr>
 <tr><td>13.3 Bootshafen mit mehr als 100 Bootsplätzen in Seen oder mehr als 50 Bootsplätzen in Fliessgewässern</td><td>Durch das kantonale Recht zu bestimmen</td></tr>
-<tr><td>13.4 Schaffung von Wasserstrassen</td><td>Mehrstufige UVP</td></tr>
-<tr><td></td><td>1. Stufe: Generelle Projektierung durch den Bundesrat</td></tr>
-<tr><td></td><td>2. Stufe: Detailprojektierung</td></tr>
+<tr><td>13.4 Schaffung von Wasserstrassen</td><td>Mehrstufige UVP 1. Stufe: Generelle Projektierung durch den Bundesrat 2. Stufe: Detailprojektierung</td></tr>
 </table>
 
 [^annexu1-lvlu1-lvl1-lvl13-1]: [SR 747.201](https://fedlex.data.admin.ch/eli/cc/1976/725_724_724)
@@ -494,14 +482,23 @@ Anhang*[^t-1]*
 
 [^annexu1-lvlu1-lvl1-lvl14-1]: [SR 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
 
+### 15 Unterirdische Gütertransportsysteme
+
+<table>
+<tr><th>Nr.</th><th>Anlagetyp</th><th>Massgebliches Verfahren</th></tr>
+<tr><td>15.1</td><td>Interkantonale Anlagen für den unterirdischen Gütertransport</td><td>Mehrstufige UVP 1. Stufe: Verabschiedung des Sachplans Verkehr Teil unterirdischer Gütertransport durch den Bundesrat (Art. 21 Abs. 1 der Raumplanungsverordnung vom 28. Juni 2000[^annexu1-lvlu1-lvl1-lvl15-1]) 2. Stufe: Plangenehmigung durch die Genehmigungsbehörde (Art. 9 Abs. 1 des Bundesgesetzes vom 17. Dezember 2021[^annexu1-lvlu1-lvl1-lvl15-2] über den unterirdischen Gütertransport)</td></tr>
+</table>
+
+[^annexu1-lvlu1-lvl1-lvl15-1]: [SR 700.1](https://fedlex.data.admin.ch/eli/cc/2000/310)
+[^annexu1-lvlu1-lvl1-lvl15-2]: [SR 749.1](https://fedlex.data.admin.ch/eli/cc/2022/373)
+
 ### 2 Energie
 
 ### 21 Erzeugung von Energie
 
 <table>
 <tr><th>Nr. Anlagetyp<sup>a)</sup></th><th>Massgebliches Verfahren</th></tr>
-<tr><td>21.1 Einrichtungen zur Nutzung von Kernenergie, zur Gewinnung, Herstellung, Verwendung, Bearbeitung und Lagerung von Kernmaterialien</td><td>Mehrstufige UVP 1. Stufe: Rahmenbewilligungsverfahren (Art. 12 ff. Kernenergiegesetz vom 21. März 2003[^annexu1-lvlu1-lvl2-lvl21-1])</td></tr>
-<tr><td></td><td>2. Stufe: Baubewilligungsverfahren (Art. 15 ff.Kernenergiegesetz vom 21. März 2003)</td></tr>
+<tr><td>21.1 Einrichtungen zur Nutzung von Kernenergie, zur Gewinnung, Herstellung, Verwendung, Bearbeitung und Lagerung von Kernmaterialien</td><td>Mehrstufige UVP 1. Stufe: Rahmenbewilligungsverfahren (Art. 12 ff. Kernenergiegesetz vom 21. März 2003[^annexu1-lvlu1-lvl2-lvl21-1]) 2. Stufe: Baubewilligungsverfahren (Art. 15 ff.Kernenergiegesetz vom 21. März 2003)</td></tr>
 <tr><td>21.2 \*) Anlagen zur thermischen Energieerzeugung mit einer Feuerungswärmeleistung oder einer pyrolitischen Leistung von a. mehr als 50 MWth bei fossilen Energieträgern b. mehr als 20 MWth bei erneuerbaren Energieträgern c. mehr als 20 MWth bei kombinierten Energieträgern (fossil und erneuerbar)</td><td>Durch das kantonale Recht zu bestimmen</td></tr>
 <tr><td>21.2*a* Vergärungsanlagen mit einer Behandlungskapazität von mehr als 5000 t Substrat (Frischsubstanz) pro Jahr</td><td>Durch das kantonale Recht zu bestimmen</td></tr>
 <tr><td>21.3 Speicher- und Laufkraftwerke sowie Pumpspeicherwerke mit einer installierten Leistung von mehr als 3 MW</td><td></td></tr>

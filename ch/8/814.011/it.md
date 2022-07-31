@@ -4,11 +4,11 @@ title: "Ordinanza del 19 ottobre 1988 concernente l'esame dell'impatto sull'ambi
 short: OEIA
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1931_1931_1931"
 language: it
-version: 2016-10-01
+version: 2022-08-01
 adopted: 1988-10-19
 in_force: 1989-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1931_1931_1931/20161001/it/xml/fedlex-data-admin-ch-eli-cc-1988-1931_1931_1931-20161001-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/20161001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1931_1931_1931/20220801/it/xml/fedlex-data-admin-ch-eli-cc-1988-1931_1931_1931-20220801-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/20220801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/20161001/it"
 
 (OEIA)
 
-del 19 ottobre 1988 (Stato 1° ottobre 2016)
+del 19 ottobre 1988 (Stato 1° agosto 2022)
 
 Il Consiglio federale svizzero,
 
@@ -234,7 +234,7 @@ Il richiedente deve presentare il rapporto, insieme con i documenti, all’autor
 <sup>3</sup> Per i progetti per i quali, secondo l’allegato, va sentito l’UFAM, quest’ultimo valuta entro due mesi se l’impianto progettato è conforme alle prescrizioni sulla protezione dell’ambiente.
 
 [^12b-1]: Introdotto dal n. I dell’O del 19 set. 2008, in vigore dal 1° dic. 2008 ([RU 2008 4621](https://fedlex.data.admin.ch/eli/oc/2008/646)).
-[^12b-2]: Nuovo testo giusta il n. 6 dell’all. all’O del 9 ott. 2013, in vigore dal 1° dic. 2013 ([RU 2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)).
+[^12b-2]: Nuovo testo giusta l’all. n. 6 all’O del 9 ott. 2013, in vigore dal 1° dic. 2013 ([RU 2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)).
 
 #### Art. 13
 
@@ -380,7 +380,7 @@ Se accerta che la realizzazione del progetto implica una delle seguenti autorizz
 [^21-3]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
 [^21-4]: Nuovo testo giusta il n. I dell’O del 5 set. 1995, in vigore dal 1° ott. 1995 ([RU 1995 4261](https://fedlex.data.admin.ch/eli/oc/1995/4261_4261_4261)).
 [^21-5]: [RS 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
-[^21-6]: Nuovo testo giusta il n. I dell’O del 5 set. 1995, in vigore dal 1° ott. 1995 ([RU 1995 4261](https://fedlex.data.admin.ch/eli/oc/1995/4261_4261_4261)).
+[^21-6]: Nuovo testo giusta il n. I dell’O del 5 set. 1995, in vigore dal 1° ott. 1995 (RU **1****995** 4261).
 [^21-7]: [RS 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
 [^21-8]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
 
@@ -404,11 +404,9 @@ Se accerta che la realizzazione del progetto implica una delle seguenti autorizz
 
 **Modificazione del diritto vigente**
 
-### ..**
+...[^23-1]
 
-[^23-subdiv-1]
-
-[^23-subdiv-1]: Le mod. possono essere consultate alla [RU 1988 1931](https://fedlex.data.admin.ch/eli/oc/1988/1931_1931_1931).
+[^23-1]: Le mod. possono essere consultate alla [RU 1988 1931](https://fedlex.data.admin.ch/eli/oc/1988/1931_1931_1931).
 
 #### Art. 24
 
@@ -416,7 +414,7 @@ Se accerta che la realizzazione del progetto implica una delle seguenti autorizz
 
 Le domande pendenti al momento dell’entrata in vigore della presente modifica sono valutate secondo il nuovo diritto. I ricorsi pendenti sono valutati secondo il diritto che era in vigore al momento dell’emanazione della decisione impugnata.
 
-[^24-1]: Nuovo testo giusta il n. II 2 dell’all. all’O del 17 ago. 2016, in vigore dal 1° ott. 2016 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
+[^24-1]: Nuovo testo giusta l’all. n. II 2 all’O del 17 ago. 2016, in vigore dal 1° ott. 2016 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
 
 #### Art. 25
 
@@ -426,11 +424,11 @@ La presente ordinanza entra in vigore il 1° gennaio 1989.
 
 Allegato*[^t-1]*
 
-(art. 1, 2, 5, 6, 10, 12, 12*a*, 12*b*, 13 e 14)
+(art. 1, 2, 5, 6, 10, 12, 12*a*, 12*b*, 13, 14)
 
 ## Impianti sottoposti all’esame e procedura decisiva
 
-[^t-1]: Aggiornato dall’art. 47 n. 3 dell’O tecnica del 10 dic. 1990 sui rifiuti ([RU 1991 169](https://fedlex.data.admin.ch/eli/oc/1991/169_169_169)), dall’art. 74 dell’O del 23 nov. 1994 sull’infrastruttura aeronautica ([RU 1994 3050](https://fedlex.data.admin.ch/eli/oc/1994/3050_3050_3050)), dal n. I dell’O del 5 set. 1995 ([RU 1995 4261](https://fedlex.data.admin.ch/eli/oc/1995/4261_4261_4261)), dall’art. 32 dell’O del 25 set. 1995 conc. la procedura d’autorizzazione per costruzioni e impianti militari ([RU 1995 4784](https://fedlex.data.admin.ch/eli/oc/1995/4784_4784_4784)), dal n. II 28 dell’O del 25 nov. 1998 ([RU 1999 704](https://fedlex.data.admin.ch/eli/oc/1999/104)), dal n. 1 dell’all. 5 dell’O del 25 ago. 1999 sull’impiego confinato ([RU 1999 2783](https://fedlex.data.admin.ch/eli/oc/1999/443)), dal n. II 7 dell’O del 2 feb. 2000 relativa alla legge federale sul coordinamento e la semplificazione delle procedure d’approvazione dei piani ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)), dal n. 2 dell’all. 7 all’O del 10 dic. 2004 sull’energia nucleare ([RU 2005 601](https://fedlex.data.admin.ch/eli/oc/2005/68)), dall’art. 71 n. 2 dell’O sugli impianti a fune del 21 dic. 2006 ([RU 2007 39](https://fedlex.data.admin.ch/eli/oc/2007/14)), dal n. II dell’O del 19 set. 2008 ([RU 2008 4621](https://fedlex.data.admin.ch/eli/oc/2008/646)), dal n. III 1 dell’O del 13 mag. 2009 ([RU 2009 2525](https://fedlex.data.admin.ch/eli/oc/2009/319)), dal n. 6 all’all. 5 all’O del 9 mag. 2012 sull’impiego confinato ([RU 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)), dal n. III 1 dell’O del 29 apr. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)), dal n. II dell’O del 12 ago. 2015 ([RU 2015 2903](https://fedlex.data.admin.ch/eli/oc/2015/545)), dal n. 5 dell’all. 6 all’O del 4 dic. 2015 sui rifiuti ([RU 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), dall’art. 43 cpv. 1 lett. a dell’O del 25 nov. 2015 sugli impianti di telecomunicazione ([RU 2016 179](https://fedlex.data.admin.ch/eli/oc/2016/24)) e dal n. II 2 dell’all. all’O del 17 ago. 2016, in vigore dal 1° ott. 2016 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
+[^t-1]: Aggiornato dall’art. 47 n. 3 dell’O tecnica del 10 dic. 1990 sui rifiuti ([RU 1991 169](https://fedlex.data.admin.ch/eli/oc/1991/169_169_169)), dall’art. 74 dell’O del 23 nov. 1994 sull’infrastruttura aeronautica ([RU 1994 3050](https://fedlex.data.admin.ch/eli/oc/1994/3050_3050_3050)), dal n. I dell’O del 5 set. 1995 ([RU 1995 4261](https://fedlex.data.admin.ch/eli/oc/1995/4261_4261_4261)), dall’art. 32 dell’O del 25 set. 1995 conc. la procedura d’autorizzazione per costruzioni e impianti militari ([RU 1995 4784](https://fedlex.data.admin.ch/eli/oc/1995/4784_4784_4784)), dal n. II 28 dell’O del 25 nov. 1998 ([RU 1999 704](https://fedlex.data.admin.ch/eli/oc/1999/104)), dal n. 1 dell’all. 5 dell’O del 25 ago. 1999 sull’impiego confinato ([RU 1999 2783](https://fedlex.data.admin.ch/eli/oc/1999/443)), dal n. II 7 dell’O del 2 feb. 2000 relativa alla legge federale sul coordinamento e la semplificazione delle procedure d’approvazione dei piani ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)), dal n. 2 dell’all. 7 all’O del 10 dic. 2004 sull’energia nucleare ([RU 2005 601](https://fedlex.data.admin.ch/eli/oc/2005/68)), dall’art. 71 n. 2 dell’O sugli impianti a fune del 21 dic. 2006 ([RU 2007 39](https://fedlex.data.admin.ch/eli/oc/2007/14)), dal n. II dell’O del 19 set. 2008 ([RU 2008 4621](https://fedlex.data.admin.ch/eli/oc/2008/646)), dal n. III 1 dell’O del 13 mag. 2009 ([RU 2009 2525](https://fedlex.data.admin.ch/eli/oc/2009/319)), dal n. 6 all’all. 5 all’O del 9 mag. 2012 sull’impiego confinato ([RU 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)), dal n. III 1 dell’O del 29 apr. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)), dal n. II dell’O del 12 ago. 2015 ([RU 2015 2903](https://fedlex.data.admin.ch/eli/oc/2015/545)), dal n. 5 dell’all. 6 all’O del 4 dic. 2015 sui rifiuti ([RU 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), dall’art. 43 cpv. 1 lett. a dell’O del 25 nov. 2015 sugli impianti di telecomunicazione ([RU 2016 179](https://fedlex.data.admin.ch/eli/oc/2016/24)), dal n. II 2 dell’all. all’O del 17 ago. 2016 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)) e dal n. II dell’O del 22 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 395](https://fedlex.data.admin.ch/eli/oc/2022/395)).
 
 ### 1 Trasporti
 
@@ -482,6 +480,16 @@ Allegato*[^t-1]*
 </table>
 
 [^annexu1-lvlu1-lvl1-lvl14-1]: [RS 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
+
+### 15 Sistemi di trasporto merci sotterranei
+
+<table>
+<tr><th>N.</th><th>Tipo d’impianto</th><th>Procedura</th></tr>
+<tr><td>15.1</td><td>Impianti intercantonali per il trasporto merci sotterraneo</td><td>*Esame plurifase* 1<sup>a</sup> fase: il Consiglio federale adotta il piano settoriale dei trasporti, parte Trasporto merci sotterraneo (art. 21 cpv. 1 O del 28 giu. 2000[^annexu1-lvlu1-lvl1-lvl15-1] sulla pianificazione del territorio) 2<sup>a</sup> fase: l’autorità competente approva i piani (art. 9 cpv. 1 LF del 17. dic. 2021[^annexu1-lvlu1-lvl1-lvl15-2] sul trasporto di merci sotterraneo)</td></tr>
+</table>
+
+[^annexu1-lvlu1-lvl1-lvl15-1]: [RS 700.1](https://fedlex.data.admin.ch/eli/cc/2000/310)
+[^annexu1-lvlu1-lvl1-lvl15-2]: [RS 749.1](https://fedlex.data.admin.ch/eli/cc/2022/373)
 
 ### 2 Energia
 

@@ -4,11 +4,11 @@ title: "Ordonnance du 19 octobre 1988 relative à l'étude de l'impact sur l'env
 short: OEIE
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1931_1931_1931"
 language: fr
-version: 2016-10-01
+version: 2022-08-01
 adopted: 1988-10-19
 in_force: 1989-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1931_1931_1931/20161001/fr/xml/fedlex-data-admin-ch-eli-cc-1988-1931_1931_1931-20161001-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/20161001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1931_1931_1931/20220801/fr/xml/fedlex-data-admin-ch-eli-cc-1988-1931_1931_1931-20220801-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/20220801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/20161001/fr"
 
 (OEIE)
 
-du 19 octobre 1988 (Etat le 1<sup>er</sup> octobre 2016)
+du 19 octobre 1988 (Etat le 1<sup>er</sup> août 2022)
 
 Le Conseil fédéral suisse,
 
@@ -50,7 +50,7 @@ Les installations mentionnées en annexe sont soumises à une étude de l’impa
 
 La modification d’une installation mentionnée dans l’annexe de la présente ordonnance est soumise à une EIE si:
 
-- a. elle consiste en une transformation ou un agrandissement considérables de l’installation, ou si elle change notablement son mode d’exploitation; et
+- a. elle consiste en une transformation ou un agrandissement considérables de l’installation, ou si elle change notablement son mode d’exploitation, et
 - b. elle doit être autorisée dans le cadre de la procédure qui serait décisive s’il s’agissait de construire l’installation (art. 5).
 
 <sup>2</sup>
@@ -178,7 +178,7 @@ Quiconque demande un permis de construire ou de modifier une installation («req
 L’enquête préliminaire, le cahier des charges et le rapport d’impact sont établis conformément aux directives d’aide à l’exécution édictées par l’OFEV lorsque:[^10-1]
 
 - a. l’EIE est effectuée par une autorité fédérale;
-- b.[^10-2] le rapport d’impact concerne une installation pour laquelle l’annexe prévoit que l’OFEV doit être consulté; ou
+- b.[^10-2] le rapport d’impact concerne une installation pour laquelle l’annexe prévoit que l’OFEV doit être consulté, ou
 - c. le service spécialisé de la protection de l’environnement du canton n’a pas édicté de directives propres.
 
 <sup>2</sup> Dans tous les autres cas, l’enquête préliminaire, le cahier des charges et le rapport d’impact sont établis conformément aux directives d’aide à l’exécution édictées par le service spécialisé de la protection de l’environnement du canton.[^10-3]
@@ -234,11 +234,11 @@ Le requérant remet le rapport d’impact et les autres documents à l’autorit
 <sup>3</sup> S’il s’agit d’un projet pour lequel l’annexe prévoit que l’OFEV doit être consulté, celui-ci dispose de deux mois pour évaluer si l’installation prévue est conforme aux prescriptions sur la protection de l’environnement.
 
 [^12b-1]: Introduit par le ch. I de l’O du 19 sept. 2008, en vigueur depuis le 1<sup>er</sup> déc. 2008 ([RO 2008 4621](https://fedlex.data.admin.ch/eli/oc/2008/646)).
-[^12b-2]: Nouvelle teneur selon le ch. 6 de l'annexe à l’O du 9 oct. 2013, en vigueur depuis le 1<sup>er</sup> déc. 2013 ([RO 2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)).
+[^12b-2]: Nouvelle teneur selon l’annexe ch. 6 de l’O du 9 oct. 2013, en vigueur depuis le 1<sup>er</sup> déc. 2013 ([RO 2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)).
 
 #### Art. 13
 
-**Evaluation du rapport d’impact**
+**Évaluation du rapport d’impact**
 
 <sup>1</sup> Le service spécialisé de la protection de l’environnement examine à la lumière des directives qu’il a édictées si les indications contenues dans le rapport d’impact sont complètes et exactes.
 
@@ -308,7 +308,7 @@ Elle décide notamment:
 
 #### Art. 17
 
-**Eléments nécessaires à l’appréciation du projet**
+**Éléments nécessaires à l’appréciation du projet**
 
 L’autorité compétente apprécie la compatibilité du projet avec l’environnement en se fondant sur les éléments suivants:
 
@@ -324,7 +324,7 @@ L’autorité compétente apprécie la compatibilité du projet avec l’environ
 
 #### Art. 17a
 
-**Elimination des divergences au cours de la procédure fédérale**[^17a-1]
+**Élimination des divergences au cours de la procédure fédérale**[^17a-1]
 
 Si l’autorité fédérale compétente est en désaccord avec l’évaluation de l’OFEV dans le cadre de la procédure décisive, l’art. 62*b* de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration[^17a-2] est applicable à l’élimination des divergences.
 
@@ -417,7 +417,7 @@ Si la réalisation d’un projet est soumise à l’une des autorisations ci-des
 
 Les demandes en cours d’examen lors de l’entrée en vigueur de la présente modification sont régies par le nouveau droit. Les recours en suspens sont régis par le droit en vigueur au moment où a été rendue la décision qui fait l’objet du recours.
 
-[^24-1]: Nouvelle teneur selon le ch. II 2 de l’annexe à l’O du 17 août 2016, en vigueur depuis le 1<sup>er</sup> oct. 2016 ([RO 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
+[^24-1]: Nouvelle teneur selon l’annexe ch. II 2 de l’O du 17 août 2016, en vigueur depuis le 1<sup>er</sup> oct. 2016 ([RO 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
 
 #### Art. 25
 
@@ -431,7 +431,7 @@ Annexe*[^t-1]*
 
 ## Installations soumises à l’EIE et procédures décisives
 
-[^t-1]: Mise à jour selon l’art. 47 ch. 3 de l’O du 10 déc. 1990 sur le traitement des déchets ([RO 1991 169](https://fedlex.data.admin.ch/eli/oc/1991/169_169_169)), l’art. 74 de l’O du 23 nov. 1994 sur l’infrastructure aéronautique ([RO 1994 3050](https://fedlex.data.admin.ch/eli/oc/1994/3050_3050_3050)), le ch. I de l’O du 5 sept. 1995 ([RO 1995 4261](https://fedlex.data.admin.ch/eli/oc/1995/4261_4261_4261)), l’art. 32 de l’O du 25 sept. 1995 concernant les permis de construire militaires ([RO 1995 4784](https://fedlex.data.admin.ch/eli/oc/1995/4784_4784_4784)), le ch. II 28 de l’O du 25 nov. 1998 ([RO 1999 704](https://fedlex.data.admin.ch/eli/oc/1999/104)), le ch. 1 de l’annexe 5 à l’O du 25 août 1999 sur l’utilisation confinée ([RO 1999 2783](https://fedlex.data.admin.ch/eli/oc/1999/443)), le ch. II 7 de l’O du 2 fév. 2000 relative à la loi fédérale sur la coordination et la simplification des procédures de décision ([RO 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)), le ch. 2 de l’annexe 7 à l’O du 10 déc. 2004 sur l’énergie nucléaire ([RO 2005 601](https://fedlex.data.admin.ch/eli/oc/2005/68)), l’art. 71 ch. 2 de l’O du 21 déc. 2006 sur les installations à câbles ([RO 2007 39](https://fedlex.data.admin.ch/eli/oc/2007/14)), le ch. II de l’O du 19 sept. 2008 ([RO 2008 4621](https://fedlex.data.admin.ch/eli/oc/2008/646)), le ch. III 1 de l’O du 13 mai 2009 ([RO 2009 2525](https://fedlex.data.admin.ch/eli/oc/2009/319)), le ch. 6 de l’annexe 5 à l’O du 9 mai 2012 sur l’utilisation confinée ([RO 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)), le ch. III 1 de l’O du 29 avr. 2015 ([RO 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)), le ch. II de l’O du 12 août 2015 ([RO 2015 2903](https://fedlex.data.admin.ch/eli/oc/2015/545)), le ch. 5 de l’annexe 6 de l’O du 4 déc. 2015 sur les déchets ([RO 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), l’art. 43 al. 1 let. b de l’O du 25 nov. 2015 sur les installations de télécommunication ([RO 2016 179](https://fedlex.data.admin.ch/eli/oc/2016/24)) et le ch. II 2 de l’annexe à l’O du 17 août 2016, en vigueur depuis le 1<sup>er</sup> oct. 2016 ([RO 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
+[^t-1]: Mise à jour par l’art. 47 ch. 3 de l’O du 10 déc. 1990 sur le traitement des déchets ([RO 1991 169](https://fedlex.data.admin.ch/eli/oc/1991/169_169_169)), l’art. 74 de l’O du 23 nov. 1994 sur l’infrastructure aéronautique ([RO 1994 3050](https://fedlex.data.admin.ch/eli/oc/1994/3050_3050_3050)), le ch. I de l’O du 5 sept. 1995 ([RO 1995 4261](https://fedlex.data.admin.ch/eli/oc/1995/4261_4261_4261)), l’art. 32 de l’O du 25 sept. 1995 concernant les permis de construire militaires ([RO 1995 4784](https://fedlex.data.admin.ch/eli/oc/1995/4784_4784_4784)), le ch. II 28 de l’O du 25 nov. 1998 ([RO 1999 704](https://fedlex.data.admin.ch/eli/oc/1999/104)), l’annexe 5 ch. 1 de l’O du 25 août 1999 sur l’utilisation confinée ([RO 1999 2783](https://fedlex.data.admin.ch/eli/oc/1999/443)), le ch. II 7 de l’O du 2 fév. 2000 relative à la loi fédérale sur la coordination et la simplification des procédures de décision ([RO 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)), l’annexe 7 ch. 2 de l’O du 10 déc. 2004 sur l’énergie nucléaire ([RO 2005 601](https://fedlex.data.admin.ch/eli/oc/2005/68)), l’art. 71 ch. 2 de l’O du 21 déc. 2006 sur les installations à câbles ([RO 2007 39](https://fedlex.data.admin.ch/eli/oc/2007/14)), le ch. II de l’O du 19 sept. 2008 ([RO 2008 4621](https://fedlex.data.admin.ch/eli/oc/2008/646)), le ch. III 1 de l’O du 13 mai 2009 ([RO 2009 2525](https://fedlex.data.admin.ch/eli/oc/2009/319)), l’annexe 5 ch. 6 de l’O du 9 mai 2012 sur l’utilisation confinée ([RO 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)), le ch. III 1 de l’O du 29 avr. 2015 ([RO 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)), le ch. II de l’O du 12 août 2015 ([RO 2015 2903](https://fedlex.data.admin.ch/eli/oc/2015/545)), l’annexe 6 ch. 5 de l’O du 4 déc. 2015 sur les déchets ([RO 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), l’art. 43 al. 1 let. b de l’O du 25 nov. 2015 sur les installations de télécommunication ([RO 2016 179](https://fedlex.data.admin.ch/eli/oc/2016/24)), l’annexe ch. II 2 de l’O du 17 août 2016 ([RO 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)) et le ch. II de l’O du 22 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 395](https://fedlex.data.admin.ch/eli/oc/2022/395)).
 
 ### 1 Transports
 
@@ -440,9 +440,9 @@ Annexe*[^t-1]*
 <table>
 <tr><th>N<sup>o</sup></th><th>Type d’installation<sup>a</sup></th><th>Procédure décisive</th></tr>
 <tr><td>11.1</td><td>Routes nationales</td><td>EIE par étapes 1<sup>re</sup> étape: le Conseil fédéral demande aux Chambres d’approuver le tracé général et le type de route nationale à construire (art. 11 LF du 8 mars 1960 sur les routes nationales[^annexu1-lvlu1-lvl1-lvl11-1]) 2<sup>e</sup> étape: le Conseil fédéral approuve le projet général (art. 20 LF du 8 mars1960 sur les routes nationales) 3<sup>e</sup> étape: approbation des plans par le département fédéral de l’environnement, des transports, de l’énergie et de la communication (art. 26, al. 1, LF du 8 mars 1960 sur les routes nationales)</td></tr>
-<tr><td>11.2</td><td>\*<sup>)</sup> Routes principales aménagées avec l’aide de la Confédération (art. 12 LF du 22 mars 1985 concernant l’utilisation de l’impôt sur les huiles minérales à affectation obligatoire et de la redevance autoroutière[^annexu1-lvlu1-lvl1-lvl11-2])</td><td>A déterminer par le droit cantonal</td></tr>
-<tr><td>11.3</td><td>Autres routes à grand débit et autres routes principales (RGD et RP)</td><td>A déterminer par le droit cantonal</td></tr>
-<tr><td>11.4</td><td>Parcs de stationnement (terrain ou bâtiment) pour plus de 500 voitures</td><td>A déterminer par le droit cantonal</td></tr>
+<tr><td>11.2</td><td>\*<sup>)</sup> Routes principales aménagées avec l’aide de la Confédération (art. 12 LF du 22 mars 1985 concernant l’utilisation de l’impôt sur les huiles minérales à affectation obligatoire et de la redevance autoroutière[^annexu1-lvlu1-lvl1-lvl11-2])</td><td>À déterminer par le droit cantonal</td></tr>
+<tr><td>11.3</td><td>Autres routes à grand débit et autres routes principales (RGD et RP)</td><td>À déterminer par le droit cantonal</td></tr>
+<tr><td>11.4</td><td>Parcs de stationnement (terrain ou bâtiment) pour plus de 500 voitures</td><td>À déterminer par le droit cantonal</td></tr>
 <tr><td colspan="3"><sup>a</sup> Lorsque le projet concerne un type d’installation marqué d’un astérisque \*, l’OFEV doit être consulté dans le cadre de la procédure décisive (art. 12, al. 3).</td></tr>
 </table>
 
@@ -464,8 +464,8 @@ Annexe*[^t-1]*
 <table>
 <tr><th>N<sup>o</sup></th><th>Type d’installation</th><th>Procédure décisive</th></tr>
 <tr><td>13.1</td><td>Installations portuaires pour les bateaux des entreprises publiques de navigation</td><td>Procédure d’approbation des plans par l’Office fédéral des transports (art. 8, al. 1, LF du 3 oct. 1975 sur la navigation intérieure[^annexu1-lvlu1-lvl1-lvl13-1])</td></tr>
-<tr><td>13.2</td><td>Ports industriels avec installations fixes de chargement et de déchargement</td><td>A déterminer par le droit cantonal</td></tr>
-<tr><td>13.3</td><td>Ports de plaisance avec plus de 100 places d’amarrage dans les lacs ou plus de 50 places d’amarrage dans les cours d’eau</td><td>A déterminer par le droit cantonal</td></tr>
+<tr><td>13.2</td><td>Ports industriels avec installations fixes de chargement et de déchargement</td><td>À déterminer par le droit cantonal</td></tr>
+<tr><td>13.3</td><td>Ports de plaisance avec plus de 100 places d’amarrage dans les lacs ou plus de 50 places d’amarrage dans les cours d’eau</td><td>À déterminer par le droit cantonal</td></tr>
 <tr><td>13.4</td><td>Voies navigables</td><td>EIE par étapes 1<sup>re</sup> étape: approbation du projet général par le Conseil fédéral 2<sup>e</sup> étape: projet de détail</td></tr>
 </table>
 
@@ -484,24 +484,34 @@ Annexe*[^t-1]*
 
 [^annexu1-lvlu1-lvl1-lvl14-1]: [RS 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
 
-### 2 Energie
+### 15 Systèmes de transport souterrain de marchandises
+
+<table>
+<tr><th>N<sup>o</sup></th><th>Type d’installation</th><th>Procédure décisive</th></tr>
+<tr><td>15.1</td><td>Installations transcantonales de transport souterrain de marchandises</td><td>*EIE par étapes* 1<sup>re</sup> étape: Adoption du Plan sectoriel des transports, partie Transport souterrain de marchandises par le Conseil fédéral (art. 21, al. 1, de l’ordonnance du 28 juin 2000 sur l’aménagement du territoire[^annexu1-lvlu1-lvl1-lvl15-1]) 2<sup>e</sup> étape: Approbation des plans par l’autorité d’approbation (art. 9, al. 1, de la loi fédérale du 17 décembre 2021 sur le transport souterrain de marchandises[^annexu1-lvlu1-lvl1-lvl15-2])</td></tr>
+</table>
+
+[^annexu1-lvlu1-lvl1-lvl15-1]: [RS 700.1](https://fedlex.data.admin.ch/eli/cc/2000/310)
+[^annexu1-lvlu1-lvl1-lvl15-2]: [RS 749.1](https://fedlex.data.admin.ch/eli/cc/2022/373)
+
+### 2 Énergie
 
 ### 21 Production d’énergie
 
 <table>
 <tr><th>N<sup>o</sup></th><th>Type d’installation<sup>a</sup></th><th>Procédure décisive</th></tr>
-<tr><td>21.1</td><td>Equipements destinés à l’utilisation d’énergie nucléaire, à la production, à l’emploi, au traitement et au stockage de matières nucléaires</td><td>EIE par étapes 1<sup>re</sup> étape: procédure d’autorisation générale (art. 12 ss loi du 21 mars 2003 sur l’énergie nucléaire[^annexu1-lvlu1-lvl2-lvl21-1]) 2<sup>e</sup> étape: procédure d’autorisation de construire (art. 15 ss loi du 21 mars 2003 sur l’énergie nucléaire)</td></tr>
-<tr><td>21.2</td><td>\*) Installations destinées à la production d’énergie d’une puissance thermique ou pyrolytique a. supérieure à 50 MWth pour les énergies fossiles b. supérieure à 20 MWth pour les énergies renouvelables c. supérieure à 20 MWth pour les énergies combinées (fossiles et renouvelables)</td><td colspan="2">A déterminer par le droit cantonal</td></tr>
-<tr><td>21.2*a*</td><td>Installations de fermentation d’une capacité de traitement supérieure à 5000 t de substrat (substance fraîche) par an</td><td colspan="2">A déterminer par le droit cantonal</td></tr>
+<tr><td>21.1</td><td>Équipements destinés à l’utilisation d’énergie nucléaire, à la production, à l’emploi, au traitement et au stockage de matières nucléaires</td><td>EIE par étapes 1<sup>re</sup> étape: procédure d’autorisation générale (art. 12 ss loi du 21 mars 2003 sur l’énergie nucléaire[^annexu1-lvlu1-lvl2-lvl21-1]) 2<sup>e</sup> étape: procédure d’autorisation de construire (art. 15 ss loi du 21 mars 2003 sur l’énergie nucléaire)</td></tr>
+<tr><td>21.2</td><td>\*) Installations destinées à la production d’énergie d’une puissance thermique ou pyrolytique a. supérieure à 50 MWth pour les énergies fossiles b. supérieure à 20 MWth pour les énergies renouvelables c. supérieure à 20 MWth pour les énergies combinées (fossiles et renouvelables)</td><td colspan="2">À déterminer par le droit cantonal</td></tr>
+<tr><td>21.2*a*</td><td>Installations de fermentation d’une capacité de traitement supérieure à 5000 t de substrat (substance fraîche) par an</td><td colspan="2">À déterminer par le droit cantonal</td></tr>
 <tr><td>21.3</td><td>Centrales à accumulation et centrales au fil de l’eau ainsi que centrales à pompage-turbinage d’une puissance installée supérieure à 3 MW</td><td colspan="2"></td></tr>
 <tr><td></td><td>a. sur des cours d’eau internationaux ou sur des sections de cours d’eau qui traversent plusieurs cantons lorsque les cantons ne peuvent pas s’entendre sur l’octroi des droits d’eau</td><td colspan="2">Procédure d’octroi de la concession et d’approbation des plans (art. 38, al. 2 et 3, et 62, LF du 22 déc. 1916 sur l’utilisation des forces hydrauliques, LFH[^annexu1-lvlu1-lvl2-lvl21-2])</td></tr>
 <tr><td></td><td>b. \*) sur les autres cours d’eau</td><td colspan="2">Procédure d’octroi de la concession (art. 38, al. 1 et 2, LFH) ou autre procédure en vertu du droit cantonal, lorsque le droit d’utilisation est accordé à une communauté sous une autre forme que celle de la concession (art. 3, al. 2, LFH). Dans la mesure où les cantons prévoient une procédure en deux étapes: 2<sup>e</sup> étape: à déterminer par le droit cantonal</td></tr>
-<tr><td>21.4</td><td>Installations géothermiques (y compris celles qui exploitent la chaleur des eaux souterraines) d’une puissance supérieure à 5 MWth</td><td>A déterminer par le droit cantonal</td></tr>
+<tr><td>21.4</td><td>Installations géothermiques (y compris celles qui exploitent la chaleur des eaux souterraines) d’une puissance supérieure à 5 MWth</td><td>À déterminer par le droit cantonal</td></tr>
 <tr><td>21.5</td><td>…</td><td></td></tr>
-<tr><td>21.6</td><td>\*) Raffineries de pétrole et de gaz</td><td>A déterminer par le droit cantonal</td></tr>
-<tr><td>21.7</td><td>Installations destinées à l’extraction du pétrole, du gaz naturel ou du charbon</td><td>A déterminer par le droit cantonal</td></tr>
-<tr><td>21.8</td><td>Installations d’exploitation de l’énergie éolienne d’une puissance installée supérieure à 5 MW</td><td colspan="2">A déterminer par le droit cantonal</td></tr>
-<tr><td>21.9</td><td>Installations photovoltaïques d’une puissance installée supérieure à 5 MW, qui ne sont pas fixées sur des bâtiments</td><td colspan="2">A déterminer par le droit cantonal</td></tr>
+<tr><td>21.6</td><td>\*) Raffineries de pétrole et de gaz</td><td>À déterminer par le droit cantonal</td></tr>
+<tr><td>21.7</td><td>Installations destinées à l’extraction du pétrole, du gaz naturel ou du charbon</td><td>À déterminer par le droit cantonal</td></tr>
+<tr><td>21.8</td><td>Installations d’exploitation de l’énergie éolienne d’une puissance installée supérieure à 5 MW</td><td colspan="2">À déterminer par le droit cantonal</td></tr>
+<tr><td>21.9</td><td>Installations photovoltaïques d’une puissance installée supérieure à 5 MW, qui ne sont pas fixées sur des bâtiments</td><td colspan="2">À déterminer par le droit cantonal</td></tr>
 <tr><td colspan="3"><sup>a</sup> Lorsque le projet concerne un type d’installation marqué d’un astérisque \*, l’OFEV doit être consulté dans le cadre de la procédure décisive (art. 12, al. 3).</td></tr>
 </table>
 
@@ -514,7 +524,7 @@ Annexe*[^t-1]*
 <tr><th>N<sup>o</sup></th><th>Type d’installation</th><th>Procédure décisive</th></tr>
 <tr><td>22.1</td><td>Conduites au sens de l’art. 1 de la LF du 4 oct. 1963 sur les installations de transport par conduites de combustibles ou carburants liquides ou gazeux (LITC)[^annexu1-lvlu1-lvl2-lvl22-1] pour lesquelles une approbation des plans ordinaire est nécessaire</td><td>Approbation des plans par l’autorité de surveillance (art. 2, al. 1, LITC)</td></tr>
 <tr><td>22.2</td><td>Lignes aériennes à haute tension et câbles à haute tension enterrés, dimensionnés pour 220 kV ou plus</td><td>Approbation des plans par l’autorité d’approbation (art. 16, al. 1, loi du 24 juin 1902 sur les installations électriques[^annexu1-lvlu1-lvl2-lvl22-2])</td></tr>
-<tr><td>22.3</td><td>Réservoirs destinés au stockage de gaz, de combustible ou de carburants, d’une capacité supérieure, en conditions normales, à 50 000 m<sup>3</sup> de gaz ou 5000 m<sup>3</sup> de liquide</td><td>A déterminer par le droit cantonal</td></tr>
+<tr><td>22.3</td><td>Réservoirs destinés au stockage de gaz, de combustible ou de carburants, d’une capacité supérieure, en conditions normales, à 50 000 m<sup>3</sup> de gaz ou 5000 m<sup>3</sup> de liquide</td><td>À déterminer par le droit cantonal</td></tr>
 </table>
 
 [^annexu1-lvlu1-lvl2-lvl22-1]: [RS 746.1](https://fedlex.data.admin.ch/eli/cc/1964/99_95_95)
@@ -524,24 +534,24 @@ Annexe*[^t-1]*
 
 <table>
 <tr><th>N<sup>o</sup></th><th>Type d’installation</th><th>Procédure décisive</th></tr>
-<tr><td>30.1</td><td>Ouvrages de régularisation du niveau ou de l’écoulement des eaux de lacs naturels d’une superficie moyenne supérieure à 3 km<sup>2</sup>, et prescriptions relatives au fonctionnement</td><td colspan="2">A déterminer par le droit cantonal</td></tr>
-<tr><td>30.2</td><td>Mesures d’aménagement hydraulique, telles que: endiguements, corrections, construction d’installations de rétention des matériaux charriés ou des crues, lorsque le devis excède 10 millions de francs</td><td colspan="2">A déterminer par le droit cantonal</td></tr>
-<tr><td>30.3</td><td>Déchargements de plus de 10 000 m<sup>3</sup> de matériaux dans des lacs</td><td>A déterminer par le droit cantonal</td></tr>
-<tr><td>30.4</td><td>Extraction de plus de 50 000 m<sup>3</sup> par an de gravier, de sable ou d’autres matériaux de lacs, de cours d’eau ou de nappes d’eau souterraines (sauf extraction ponctuelle pour des raisons de prévention des crues)</td><td>A déterminer par le droit cantonal</td></tr>
+<tr><td>30.1</td><td>Ouvrages de régularisation du niveau ou de l’écoulement des eaux de lacs naturels d’une superficie moyenne supérieure à 3 km<sup>2</sup>, et prescriptions relatives au fonctionnement</td><td colspan="2">À déterminer par le droit cantonal</td></tr>
+<tr><td>30.2</td><td>Mesures d’aménagement hydraulique, telles que: endiguements, corrections, construction d’installations de rétention des matériaux charriés ou des crues, lorsque le devis excède 10 millions de francs</td><td colspan="2">À déterminer par le droit cantonal</td></tr>
+<tr><td>30.3</td><td>Déchargements de plus de 10 000 m<sup>3</sup> de matériaux dans des lacs</td><td>À déterminer par le droit cantonal</td></tr>
+<tr><td>30.4</td><td>Extraction de plus de 50 000 m<sup>3</sup> par an de gravier, de sable ou d’autres matériaux de lacs, de cours d’eau ou de nappes d’eau souterraines (sauf extraction ponctuelle pour des raisons de prévention des crues)</td><td>À déterminer par le droit cantonal</td></tr>
 </table>
 
-### 4 Elimination des déchets
+### 4 Élimination des déchets
 
 <table>
 <tr><th>N<sup>o</sup></th><th>Type d’installation</th><th>Procédure décisive</th></tr>
 <tr><td>40.1 40.2</td><td>Dépôts en couches géologiques profondes pour déchets radioactifs Installations nucléaires pour l’entreposage d’éléments combustibles usés ainsi que pour le conditionnement ou l’entreposage de déchets radioactifs</td><td>EIE par étapes: 1<sup>re</sup> étape: procédure d’autorisation générale (art. 12 ss. loi du 21 mars 2003 sur l’énergie nucléaire) 2<sup>e</sup> étape: procédure d’autorisation de construire (art. 15 ss. loi du 21 mars 2003 sur l’énergie nucléaire)</td></tr>
 <tr><td>40.3</td><td>…</td><td></td></tr>
-<tr><td>40.4</td><td>Décharges des types A et B ayant un volume de décharge de plus de 500 000 m<sup>3</sup></td><td>A déterminer par le droit cantonal</td></tr>
+<tr><td>40.4</td><td>Décharges des types A et B ayant un volume de décharge de plus de 500 000 m<sup>3</sup></td><td>À déterminer par le droit cantonal</td></tr>
 <tr><td>40.5</td><td>Décharges des types C, D et E</td><td>À déterminer par le droit cantonal</td></tr>
 <tr><td>40.6</td><td>…</td><td></td></tr>
-<tr><td>40.7</td><td>Installations de traitement des déchets: a. installations destinées au tri ou au traitement physique de plus de 10 000 t de déchets par an b. installations destinées au traitement biologique de plus de 5000 t de déchets par an c. installations destinées au traitement thermique ou chimique de plus de 1000 t de déchets par an</td><td colspan="2">A déterminer par le droit cantonal</td></tr>
-<tr><td>40.8</td><td>Entrepôts provisoires pour plus de 5000 t de déchets spéciaux</td><td colspan="2">A déterminer par le droit cantonal</td></tr>
-<tr><td>40.9</td><td>Installations d’épuration des eaux usées d’une capacité supérieure à 20 000 équivalents-habitants</td><td>A déterminer par le droit cantonal</td></tr>
+<tr><td>40.7</td><td>Installations de traitement des déchets: a. installations destinées au tri ou au traitement physique de plus de 10 000 t de déchets par an b. installations destinées au traitement biologique de plus de 5000 t de déchets par an c. installations destinées au traitement thermique ou chimique de plus de 1000 t de déchets par an</td><td colspan="2">À déterminer par le droit cantonal</td></tr>
+<tr><td>40.8</td><td>Entrepôts provisoires pour plus de 5000 t de déchets spéciaux</td><td colspan="2">À déterminer par le droit cantonal</td></tr>
+<tr><td>40.9</td><td>Installations d’épuration des eaux usées d’une capacité supérieure à 20 000 équivalents-habitants</td><td>À déterminer par le droit cantonal</td></tr>
 </table>
 
 ### 5 Constructions et installations militaires
@@ -561,13 +571,13 @@ Annexe*[^t-1]*
 <table>
 <tr><th>N<sup>o</sup></th><th>Type d’installation</th><th>Procédure décisive</th></tr>
 <tr><td>60.1</td><td>Installations à câbles soumises à concession fédérale</td><td colspan="2">Approbation des plans (art. 3, al. 1, loi du 23 juin 2006 sur les installations à câbles[^annexu1-lvlu1-lvl6-1])</td></tr>
-<tr><td>60.2</td><td>Téléskis pour mettre en valeur de nouvelles zones ou relier entre eux différents domaines de sports d’hiver</td><td colspan="2">A déterminer par le droit cantonal</td></tr>
-<tr><td>60.3</td><td>Modifications de terrain supérieures à 5000 m<sup>2</sup> pour des installations de sports d’hiver</td><td colspan="2">A déterminer par le droit cantonal</td></tr>
-<tr><td>60.4</td><td>Canons à neige, si la surface destinée à être enneigée est supérieure à 50 000 m<sup>2</sup></td><td colspan="2">A déterminer par le droit cantonal</td></tr>
-<tr><td>60.5</td><td>Stades comprenant des tribunes fixes pour plus de 20 000 spectateurs</td><td>A déterminer par le droit cantonal</td></tr>
-<tr><td>60.6</td><td>Parcs d’attractions d’une superficie supérieure à 75 000 m<sup>2</sup> ou d’une capacité de plus de 4000 visiteurs par jour</td><td>A déterminer par le droit cantonal</td></tr>
-<tr><td>60.7</td><td>Terrains de golf de neuf trous et plus</td><td>A déterminer par le droit cantonal</td></tr>
-<tr><td>60.8</td><td>Pistes pour véhicules motorisés destinées à des manifestations sportives</td><td>A déterminer par le droit cantonal</td></tr>
+<tr><td>60.2</td><td>Téléskis pour mettre en valeur de nouvelles zones ou relier entre eux différents domaines de sports d’hiver</td><td colspan="2">À déterminer par le droit cantonal</td></tr>
+<tr><td>60.3</td><td>Modifications de terrain supérieures à 5000 m<sup>2</sup> pour des installations de sports d’hiver</td><td colspan="2">À déterminer par le droit cantonal</td></tr>
+<tr><td>60.4</td><td>Canons à neige, si la surface destinée à être enneigée est supérieure à 50 000 m<sup>2</sup></td><td colspan="2">À déterminer par le droit cantonal</td></tr>
+<tr><td>60.5</td><td>Stades comprenant des tribunes fixes pour plus de 20 000 spectateurs</td><td>À déterminer par le droit cantonal</td></tr>
+<tr><td>60.6</td><td>Parcs d’attractions d’une superficie supérieure à 75 000 m<sup>2</sup> ou d’une capacité de plus de 4000 visiteurs par jour</td><td>À déterminer par le droit cantonal</td></tr>
+<tr><td>60.7</td><td>Terrains de golf de neuf trous et plus</td><td>À déterminer par le droit cantonal</td></tr>
+<tr><td>60.8</td><td>Pistes pour véhicules motorisés destinées à des manifestations sportives</td><td>À déterminer par le droit cantonal</td></tr>
 </table>
 
 [^annexu1-lvlu1-lvl6-1]: [RS 743.01](https://fedlex.data.admin.ch/eli/cc/2006/853)
@@ -576,32 +586,32 @@ Annexe*[^t-1]*
 
 <table>
 <tr><th>N<sup>o</sup></th><th>Type d’installation<sup>a</sup></th><th>Procédure décisive</th></tr>
-<tr><td>70.1</td><td>\* Usines d’aluminium</td><td>A déterminer par le droit cantonal</td></tr>
-<tr><td>70.2</td><td>Aciéries</td><td>A déterminer par le droit cantonal</td></tr>
-<tr><td>70.3</td><td>Usines de métaux non ferreux</td><td>A déterminer par le droit cantonal</td></tr>
-<tr><td>70.4</td><td>Installations destinées au prétraitement et à la fonte de ferraille et de vieux métaux</td><td>A déterminer par le droit cantonal</td></tr>
-<tr><td>70.5</td><td>Installations d’une surface d’exploitation supérieure à 5000 m<sup>2</sup> ou d’une capacité de production supérieure à 1000 t par an pour la synthèse de produits chimiques</td><td colspan="2">A déterminer par le droit cantonal</td></tr>
-<tr><td>70.5*a*</td><td>Installations d’une capacité de production supérieure à 100 t par an pour la synthèse de substances actives de produits phytosanitaires, de biocides et de médicaments</td><td colspan="2">A déterminer par le droit cantonal</td></tr>
-<tr><td>70.6</td><td>Installations d’une surface d’exploitation supérieure à 5000 m<sup>2</sup> ou d’une capacité de production supérieure à 10 000 t par an pour la transformation de produits chimiques selon les types d’installation n<sup>o</sup> 70.5 et 70.5*a*</td><td colspan="2">A déterminer par le droit cantonal</td></tr>
+<tr><td>70.1</td><td>\* Usines d’aluminium</td><td>À déterminer par le droit cantonal</td></tr>
+<tr><td>70.2</td><td>Aciéries</td><td>À déterminer par le droit cantonal</td></tr>
+<tr><td>70.3</td><td>Usines de métaux non ferreux</td><td>À déterminer par le droit cantonal</td></tr>
+<tr><td>70.4</td><td>Installations destinées au prétraitement et à la fonte de ferraille et de vieux métaux</td><td>À déterminer par le droit cantonal</td></tr>
+<tr><td>70.5</td><td>Installations d’une surface d’exploitation supérieure à 5000 m<sup>2</sup> ou d’une capacité de production supérieure à 1000 t par an pour la synthèse de produits chimiques</td><td colspan="2">À déterminer par le droit cantonal</td></tr>
+<tr><td>70.5*a*</td><td>Installations d’une capacité de production supérieure à 100 t par an pour la synthèse de substances actives de produits phytosanitaires, de biocides et de médicaments</td><td colspan="2">À déterminer par le droit cantonal</td></tr>
+<tr><td>70.6</td><td>Installations d’une surface d’exploitation supérieure à 5000 m<sup>2</sup> ou d’une capacité de production supérieure à 10 000 t par an pour la transformation de produits chimiques selon les types d’installation n<sup>o</sup> 70.5 et 70.5*a*</td><td colspan="2">À déterminer par le droit cantonal</td></tr>
 <tr><td>70.6*a*</td><td>…</td><td colspan="2"></td></tr>
-<tr><td>70.7</td><td>Entrepôts destinés au stockage des produits chimiques, d’une capacité utile supérieure à 1000 t</td><td>A déterminer par le droit cantonal</td></tr>
-<tr><td>70.8</td><td>Fabriques d’explosifs et fabriques de munitions</td><td>A déterminer par le droit cantonal</td></tr>
+<tr><td>70.7</td><td>Entrepôts destinés au stockage des produits chimiques, d’une capacité utile supérieure à 1000 t</td><td>À déterminer par le droit cantonal</td></tr>
+<tr><td>70.8</td><td>Fabriques d’explosifs et fabriques de munitions</td><td>À déterminer par le droit cantonal</td></tr>
 <tr><td>70.9</td><td>…</td><td></td></tr>
-<tr><td>70.10</td><td>Cimenteries</td><td>A déterminer par le droit cantonal</td></tr>
-<tr><td>70.10*a*</td><td>Unités de fabrication de revêtement d’une capacité de production supérieure à 20 000 t par an</td><td colspan="2">A déterminer par le droit cantonal</td></tr>
-<tr><td>70.11</td><td>Installations destinées à la fabrication du verre, y compris celles destinées à la fabrication de fibres de verre, avec une capacité de fusion supérieure à 20 t par jour</td><td>A déterminer par le droit cantonal</td></tr>
-<tr><td>70.12</td><td>Fabriques de cellulose d’une capacité de production supérieure à 50 000 t par an</td><td>A déterminer par le droit cantonal</td></tr>
-<tr><td>70.13</td><td>Installations industrielles destinées à la fabrication de papier et de carton, avec une capacité de production supérieure à 20 t par jour</td><td>A déterminer par le droit cantonal</td></tr>
-<tr><td>70.14</td><td>Usines fabriquant des panneaux d’aggloméré</td><td>A déterminer par le droit cantonal</td></tr>
-<tr><td>70.15</td><td>Installations de traitement de surface de métaux et de matières plastiques utilisant un procédé électrolytique ou chimique, lorsque le volume des cuves affecté au traitement est supérieur à 30 m<sup>3</sup></td><td>A déterminer par le droit cantonal</td></tr>
-<tr><td>70.16</td><td>Installations destinées à la production de chaux dans des fours rotatifs ou dans d’autres fours, avec une capacité de production supérieure à 50 t par jour</td><td>A déterminer par le droit cantonal</td></tr>
-<tr><td>70.17</td><td>Installations destinées à la fusion de matières minérales, y compris celles destinées à la production de fibres minérales, avec une capacité de fusion supérieure à 20 t par jour</td><td>A déterminer par le droit cantonal</td></tr>
-<tr><td>70.18</td><td>Installations destinées à la fabrication de produits céramiques par cuisson, avec une capacité de production supérieure à 75 t par jour ou une capacité de four supérieure à 4 m<sup>3</sup> et une densité d’enfournement supérieure à 300 kg/m<sup>3</sup> par four</td><td>A déterminer par le droit cantonal</td></tr>
-<tr><td>70.19</td><td>Installations destinées au prétraitement ou à la teinture de fibres ou de textiles, avec une capacité de traitement supérieure à 10 t par jour</td><td>A déterminer par le droit cantonal</td></tr>
-<tr><td>70.20</td><td>Installations destinées au traitement de surface de matières, d’objets ou de produits à l’aide de solvants organiques, avec une capacité de consommation de solvants supérieure à 150 kg par heure ou à 200 t par an</td><td>A déterminer par le droit cantonal</td></tr>
-<tr><td>70.21</td><td>Abattoirs, boucheries en gros et autres exploitations destinées à la fabrication de produits alimentaires à partir de matières premières animales (autres que le lait) d’une capacité de production de produits finis supérieure à 30 t par jour</td><td>A déterminer par le droit cantonal</td></tr>
-<tr><td>70.22</td><td>Installations destinées à la fabrication de produits alimentaires à partir de matières premières végétales, avec une capacité de production de produits finis supérieure à 300 t par jour (valeur moyenne sur une base trimestrielle)</td><td>A déterminer par le droit cantonal</td></tr>
-<tr><td>70.23</td><td>Installations de traitement et de transformation du lait, pouvant recevoir plus de 200 t de lait par jour (valeur moyenne sur une base annuelle)</td><td>A déterminer par le droit cantonal</td></tr>
+<tr><td>70.10</td><td>Cimenteries</td><td>À déterminer par le droit cantonal</td></tr>
+<tr><td>70.10*a*</td><td>Unités de fabrication de revêtement d’une capacité de production supérieure à 20 000 t par an</td><td colspan="2">À déterminer par le droit cantonal</td></tr>
+<tr><td>70.11</td><td>Installations destinées à la fabrication du verre, y compris celles destinées à la fabrication de fibres de verre, avec une capacité de fusion supérieure à 20 t par jour</td><td>À déterminer par le droit cantonal</td></tr>
+<tr><td>70.12</td><td>Fabriques de cellulose d’une capacité de production supérieure à 50 000 t par an</td><td>À déterminer par le droit cantonal</td></tr>
+<tr><td>70.13</td><td>Installations industrielles destinées à la fabrication de papier et de carton, avec une capacité de production supérieure à 20 t par jour</td><td>À déterminer par le droit cantonal</td></tr>
+<tr><td>70.14</td><td>Usines fabriquant des panneaux d’aggloméré</td><td>À déterminer par le droit cantonal</td></tr>
+<tr><td>70.15</td><td>Installations de traitement de surface de métaux et de matières plastiques utilisant un procédé électrolytique ou chimique, lorsque le volume des cuves affecté au traitement est supérieur à 30 m<sup>3</sup></td><td>À déterminer par le droit cantonal</td></tr>
+<tr><td>70.16</td><td>Installations destinées à la production de chaux dans des fours rotatifs ou dans d’autres fours, avec une capacité de production supérieure à 50 t par jour</td><td>À déterminer par le droit cantonal</td></tr>
+<tr><td>70.17</td><td>Installations destinées à la fusion de matières minérales, y compris celles destinées à la production de fibres minérales, avec une capacité de fusion supérieure à 20 t par jour</td><td>À déterminer par le droit cantonal</td></tr>
+<tr><td>70.18</td><td>Installations destinées à la fabrication de produits céramiques par cuisson, avec une capacité de production supérieure à 75 t par jour ou une capacité de four supérieure à 4 m<sup>3</sup> et une densité d’enfournement supérieure à 300 kg/m<sup>3</sup> par four</td><td>À déterminer par le droit cantonal</td></tr>
+<tr><td>70.19</td><td>Installations destinées au prétraitement ou à la teinture de fibres ou de textiles, avec une capacité de traitement supérieure à 10 t par jour</td><td>À déterminer par le droit cantonal</td></tr>
+<tr><td>70.20</td><td>Installations destinées au traitement de surface de matières, d’objets ou de produits à l’aide de solvants organiques, avec une capacité de consommation de solvants supérieure à 150 kg par heure ou à 200 t par an</td><td>À déterminer par le droit cantonal</td></tr>
+<tr><td>70.21</td><td>Abattoirs, boucheries en gros et autres exploitations destinées à la fabrication de produits alimentaires à partir de matières premières animales (autres que le lait) d’une capacité de production de produits finis supérieure à 30 t par jour</td><td>À déterminer par le droit cantonal</td></tr>
+<tr><td>70.22</td><td>Installations destinées à la fabrication de produits alimentaires à partir de matières premières végétales, avec une capacité de production de produits finis supérieure à 300 t par jour (valeur moyenne sur une base trimestrielle)</td><td>À déterminer par le droit cantonal</td></tr>
+<tr><td>70.23</td><td>Installations de traitement et de transformation du lait, pouvant recevoir plus de 200 t de lait par jour (valeur moyenne sur une base annuelle)</td><td>À déterminer par le droit cantonal</td></tr>
 <tr><td colspan="3"><sup>a</sup> Lorsque le projet concerne un type d’installation marqué d’un astérisque \*, l’OFEV doit être consulté dans le cadre de la procédure décisive (art. 12, al. 3).</td></tr>
 </table>
 
@@ -609,15 +619,15 @@ Annexe*[^t-1]*
 
 <table>
 <tr><th>N<sup>o</sup></th><th>Type d’installation</th><th>Procédure décisive</th></tr>
-<tr><td>80.1</td><td>Améliorations foncières intégrales: a. améliorations foncières intégrales de plus de 400 ha b. améliorations foncières intégrales avec irrigation ou drainage de terres agricoles d’une superficie supérieure à 20 ha, ou modifications de terrain supérieures à 5 ha c. projets généraux de desserte agricole concernant une zone supérieure à 400 ha</td><td colspan="2">A déterminer par le droit cantonal</td></tr>
-<tr><td>80.2</td><td>Projets de desserte forestière concernant une zone supérieure à 400 ha</td><td colspan="2">A déterminer par le droit cantonal</td></tr>
-<tr><td>80.3</td><td>Gravières, sablières, carrières et autres exploitations d’extraction de matériaux non utilisés à des productions d’énergie, d’un volume global d’exploitation supérieur à 300 000 m<sup>3</sup></td><td>A déterminer par le droit cantonal</td></tr>
-<tr><td>80.4</td><td>Installations destinées à l’élevage d’animaux de rente, lorsque la capacité de l’exploitation (étables d’alpage exceptées) est supérieure à 125 unités de gros bétail (UGB). Selon l’ordonnance sur la terminologie agricole, le coefficient de conversion en UGB des animaux consommant des fourrages grossiers est de 0,5 (O du 7 déc. 1998 sur la terminologie agricole[^annexu1-lvlu1-lvl8-1]).</td><td colspan="2">A déterminer par le droit cantonal</td></tr>
-<tr><td>80.5</td><td>Centres commerciaux et magasins spécialisés d’une surface de vente supérieure à 7500 m<sup>2</sup></td><td colspan="2">A déterminer par le droit cantonal</td></tr>
-<tr><td>80.6</td><td>Places de transbordement des marchandises et centres de distribution disposant d’une surface de stockage des marchandises supérieure à 20 000 m<sup>2</sup> ou d’un volume de stockage supérieurà 120 000 m<sup>3</sup></td><td colspan="2">A déterminer par le droit cantonal</td></tr>
-<tr><td>80.7</td><td>Installations fixes de radiocommunication[^annexu1-lvlu1-lvl8-2] (uniquement les équipements de transmission) d’une puissance de 500 kW ou plus</td><td>A déterminer par le droit cantonal</td></tr>
+<tr><td>80.1</td><td>Améliorations foncières intégrales: a. améliorations foncières intégrales de plus de 400 ha b. améliorations foncières intégrales avec irrigation ou drainage de terres agricoles d’une superficie supérieure à 20 ha, ou modifications de terrain supérieures à 5 ha c. projets généraux de desserte agricole concernant une zone supérieure à 400 ha</td><td colspan="2">À déterminer par le droit cantonal</td></tr>
+<tr><td>80.2</td><td>Projets de desserte forestière concernant une zone supérieure à 400 ha</td><td colspan="2">À déterminer par le droit cantonal</td></tr>
+<tr><td>80.3</td><td>Gravières, sablières, carrières et autres exploitations d’extraction de matériaux non utilisés à des productions d’énergie, d’un volume global d’exploitation supérieur à 300 000 m<sup>3</sup></td><td>À déterminer par le droit cantonal</td></tr>
+<tr><td>80.4</td><td>Installations destinées à l’élevage d’animaux de rente, lorsque la capacité de l’exploitation (étables d’alpage exceptées) est supérieure à 125 unités de gros bétail (UGB). Selon l’ordonnance sur la terminologie agricole, le coefficient de conversion en UGB des animaux consommant des fourrages grossiers est de 0,5 (O du 7 déc. 1998 sur la terminologie agricole[^annexu1-lvlu1-lvl8-1]).</td><td colspan="2">À déterminer par le droit cantonal</td></tr>
+<tr><td>80.5</td><td>Centres commerciaux et magasins spécialisés d’une surface de vente supérieure à 7500 m<sup>2</sup></td><td colspan="2">À déterminer par le droit cantonal</td></tr>
+<tr><td>80.6</td><td>Places de transbordement des marchandises et centres de distribution disposant d’une surface de stockage des marchandises supérieure à 20 000 m<sup>2</sup> ou d’un volume de stockage supérieurà 120 000 m<sup>3</sup></td><td colspan="2">À déterminer par le droit cantonal</td></tr>
+<tr><td>80.7</td><td>Installations fixes de radiocommunication[^annexu1-lvlu1-lvl8-2] (uniquement les équipements de transmission) d’une puissance de 500 kW ou plus</td><td>À déterminer par le droit cantonal</td></tr>
 <tr><td>80.8</td><td>…</td><td></td></tr>
-<tr><td>80.9</td><td>Dispositifs de captage ou installations d’alimentation artificielle des eaux souterraines lorsque le volume annuel de captage ou d’alimentation atteint ou dépasse 10 millions de m<sup>3</sup></td><td>A déterminer par le droit cantonal</td></tr>
+<tr><td>80.9</td><td>Dispositifs de captage ou installations d’alimentation artificielle des eaux souterraines lorsque le volume annuel de captage ou d’alimentation atteint ou dépasse 10 millions de m<sup>3</sup></td><td>À déterminer par le droit cantonal</td></tr>
 </table>
 
 [^annexu1-lvlu1-lvl8-1]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
