@@ -4,13 +4,13 @@ number: 400a
 title: Gesetz über die Volksschulbildung
 short: VBG
 language: de
-version: 2020-08-01
-valid_until: 2022-07-31
-version_adopted: 2019-02-18
+version: 2022-08-01
+valid_until: 2023-12-31
+version_adopted: 2021-05-10
 adopted: 1999-03-22
 in_force: 2000-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/400a"
-pdf: "https://srl.lu.ch/api/de/versions/3816/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3952/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3816/pdf_file"
 
 (VBG)
 
-vom 22.03.1999 (Stand 01.08.2020)
+vom 22.03.1999 (Stand 01.08.2022)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -106,6 +106,8 @@ beschliesst:
 
 <sup>3</sup> Die Sonderschulung gewährleistet die individuelle Bildung, Förderung, Erziehung und Pflege von Kindern und Jugendlichen mit Behinderung.
 
+<sup>3<sup>bis</sup></sup> Sie umfasst auch die heilpädagogische Frühförderung sowie die Betreuung und Förderung von Kindern mit Behinderung in familienergänzenden Betreuungsangeboten.
+
 <sup>4</sup> Der Regierungsrat regelt die Sonderschulung in einer Verordnung.
 
 #### § 8
@@ -132,9 +134,10 @@ beschliesst:
 - a. schul- und kinderpsychologische Dienste,
 - b. schulärztliche und schulzahnärztliche Dienste (mit Prophylaxe),
 - c. pädagogisch-therapeutische Dienste,
-- d. Berufsberatung.
+- d. Berufsberatung,
+- e. Schulsozialarbeit.
 
-<sup>1<sup>bis</sup></sup> Den Lernenden kann bei Bedarf Schulsozialarbeit zur Verfügung gestellt werden.
+<sup>1<sup>bis</sup></sup> …
 
 <sup>2</sup> Für die schulärztlichen und die schulzahnärztlichen Dienste gelten die Bestimmungen des Gesundheitsgesetzes vom 13. September 2005[^9-1]. Der Regierungsrat regelt die anderen schulischen Dienste in einer Verordnung, insbesondere die Möglichkeit ihrer Inanspruchnahme durch Kinder im Vorschulalter und die Möglichkeit der Durchführung von Untersuchungen, Behandlungen und vorbeugenden Massnahmen.
 
@@ -632,6 +635,7 @@ beschliesst:
 - f. sorgt für die Sicherung und Weiterentwicklung der Schul- und Unterrichtsqualität,
 - g. informiert innerhalb der Schule und betreibt Öffentlichkeitsarbeit,
 - h. vertritt die Schule gegen aussen und sucht die Zusammenarbeit mit Institutionen ausserhalb der Schule und mit den Erziehungsberechtigten,
+- h<sup>bis</sup>. unterstützt und organisiert in Zusammenarbeit mit der Pädagogischen Hochschule Luzern die berufspraktische Ausbildung der Studierenden, indem sie an ihrer Schule Ausbildungsplätze mit qualifizierten Praxislehrpersonen zur Verfügung stellt,
 - i. bildet sich aus und weiter,
 - j. nimmt weitere vom Gemeinderat oder von der Bildungskommission übertragene Aufgaben wahr.
 
@@ -731,7 +735,7 @@ beschliesst:
 
 <sup>2</sup> Soweit angezeigt, klären die Gemeinden im Jahr vor dem freiwilligen Kindergartenjahr den Stand der Deutschkenntnisse der Kinder ab.
 
-<sup>3</sup> Die frühe Sprachförderung kann von den Gemeinden im Rahmen des ersten freiwilligen Kindergartenjahres, der bestehenden Strukturen der vorschulischen Angebote (z.B. Spielgruppe) oder in separat dafür errichteten Formen angeboten werden.
+<sup>3</sup> Die frühe Sprachförderung wird von den Gemeinden im Rahmen des ersten freiwilligen Kindergartenjahres, im Rahmen der bestehenden Strukturen der vorschulischen Angebote (z.B. Spielgruppe) oder in separat dafür errichteten Formen angeboten.
 
 <sup>4</sup> Die Gemeinden können von den Erziehungsberechtigten angemessene finanzielle Beiträge verlangen.
 
@@ -912,6 +916,12 @@ beschliesst:
 <sup>1</sup> Die Gemeinden haben die Organe der Gemeinden gemäss § 44 bis zum 1. August 2020 einzusetzen.
 
 <sup>2</sup> Die Gemeinden haben die Sprachstandserhebung gemäss § 55a Absatz 2 spätestens ab 1. August 2018 durchzuführen.
+
+#### § 67c
+
+**Übergangsbestimmung der Änderung vom 10. Mai 2021**
+
+<sup>1</sup> Die Gemeinden haben die Schulsozialarbeit gemäss § 9 Absatz 1e und die frühe Sprachförderung gemäss § 55a Absatz 3 bis zum 1. August 2024 einzuführen.
 
 #### § 68
 
