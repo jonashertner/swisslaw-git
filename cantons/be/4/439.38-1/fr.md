@@ -3,20 +3,19 @@ canton: BE
 number: 439.38-1
 title: Accord intercantonal sur les écoles offrant des formations spécifiques aux élèves surdoués
 language: fr
-version: 2015-08-01
-valid_until: 2022-07-31
-version_adopted: 2015-03-30
+version: 2022-08-01
+version_adopted: 2022-02-21
 adopted: 2003-02-20
 in_force: 2008-08-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/439.38-1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/946/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2591/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
 
 # Accord intercantonal sur les écoles offrant des formations spécifiques aux élèves surdoués
 
-du 20.02.2003 (état au 01.08.2015)
+du 20.02.2003 (état au 01.08.2022)
 
 ## 1 Dispositions générales
 
@@ -221,21 +220,9 @@ du 20.02.2003 (état au 01.08.2015)
 
 #### Art. A1-1
 
-<sup>1</sup> L'annexe à l'accord intercantonal du 20 février 2003 sur les écoles offrant des formations spécifiques aux élèves surdoués, y compris ses modifications antérieures et la modification du 30 mars 2015, est publiée uniquement sous la forme d'un renvoi.
+<sup>1</sup> L'annexe est publiée par la Conférence suisse des directeurs cantonaux de l’instruction publique, Speichergasse 6, 3001 Berne, et peut être commandée à cette adresse.
 
-Elle peut être obtenue à l'adresse suivante:
-
-Direction de l'instruction publique du canton de Berne
-
-Secrétariat général
-
-Sulgeneckstrasse 70
-
-3005 Berne
-
-Elle est également disponible sur internet à l'adresse suivante:
-
-[http://www.edk.ch/dyn/14409.php](http://www.edk.ch/dyn/14409.php)
+Elle est également disponible sur Internet à l'adresse suivante: [http://www.edk.ch](http://www.edk.ch)
 
 Berne, le 20 février 2003
 

@@ -3,20 +3,19 @@ canton: BE
 number: 439.38-1
 title: Interkantonale Vereinbarung für Schulen mit spezifisch-strukturierten Angeboten für Hochbegabte
 language: de
-version: 2015-08-01
-valid_until: 2022-07-31
-version_adopted: 2015-03-30
+version: 2022-08-01
+version_adopted: 2022-02-21
 adopted: 2003-02-20
 in_force: 2008-08-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/439.38-1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/946/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2591/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Interkantonale Vereinbarung für Schulen mit spezifisch-strukturierten Angeboten für Hochbegabte
 
-vom 20.02.2003 (Stand 01.08.2015)
+vom 20.02.2003 (Stand 01.08.2022)
 
 ## 1 Allgemeine Bestimmungen
 
@@ -221,21 +220,9 @@ vom 20.02.2003 (Stand 01.08.2015)
 
 #### Art. A1-1
 
-<sup>1</sup> Der Anhang zur Interkantonalen Vereinbarung vom 20. Februar 2003 für Schulen mit spezifisch-strukturierten Angeboten für Hochbegabte, inkl. der bisherigen Änderungen und der Änderung vom 30. März 2015, wird nur in Form eines Verweises publiziert.
+<sup>1</sup> Der Anhang wird von der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren, Speichergasse 6, 3001 Bern, publiziert und kann dort bezogen werden.
 
-Er kann bei folgender Stelle bezogen werden:
-
-Erziehungsdirektion des Kantons Bern
-
-Generalsekretariat
-
-Sulgeneckstrasse 70
-
-3005 Bern
-
-Er ist auch auf Internet verfügbar unter:
-
-[http://www.edk.ch/dyn/14361.php](http://www.edk.ch/dyn/14361.php)
+Er ist auch auf Internet verfügbar unter: [http://www.edk.ch](http://www.edk.ch)
 
 Bern, 20. Februar 2003
 
