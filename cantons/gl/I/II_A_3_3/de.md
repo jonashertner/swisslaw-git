@@ -4,13 +4,13 @@ number: II A/3/3
 title: Verordnung über die Organisation des Regierungsrates und der Verwaltung
 short: Regierungs- und Verwaltungsorganisationsverordnung; RVOV
 language: de
-version: 2022-04-01
-valid_until: 2022-07-31
-version_adopted: 2022-03-15
+version: 2022-08-01
+valid_until: 2022-12-31
+version_adopted: 2022-03-29
 adopted: 2006-03-21
 in_force: 2006-05-07
 url: "https://gesetze.gl.ch/app/de/texts_of_law/II-A.3.3"
-pdf: "https://gesetze.gl.ch/api/de/versions/2291/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2294/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2291/pdf_file"
 
 (Regierungs- und Verwaltungsorganisationsverordnung; RVOV)
 
-Vom 21.03.2006 (Stand 01.04.2022)
+Vom 21.03.2006 (Stand 01.08.2022)
 
 Der Regierungsrat,
 
@@ -416,7 +416,7 @@ verordnet:
 - g. Information, Kommunikation und amtliche Publikationen,
 - h. juristische Beratung der Departemente ohne eigenes juristisches Personal,
 - i. Gesetzessammlung,
-- k. Sekretariat Gleichstellungskommission und Schlichtungsstelle gemäss Gleichstellungsgesetz,
+- k. …
 - l. Koordinationsstelle Statistik,
 - m. Beglaubigungen und Apostillen,
 - n. …
@@ -463,7 +463,7 @@ verordnet:
 - b. Sonderschulung,
 - c. Lehrmittelverlag,
 - d. Abklärung,
-- e. Beratung für Fremdsprachige,
+- e. Integration,
 - f. schulisches Zusatzangebot,
 - g. Berufsbildung und Berufsberatung,
 - h. Mittelschulen,
@@ -475,6 +475,7 @@ verordnet:
 - o. Ortsbildschutz und Denkmalpflege,
 - p. Archäologie und naturwissenschaftliche Sammlung.
 - q. Familienfragen
+- r. Fragen der Gleichstellung
 
 #### Art. A1-4
 
@@ -579,7 +580,7 @@ verordnet:
   - 0\.7. Gesetzessammlung
   - 0\.8. Weibeldienst
   - 0\.9. Datenschutz (gemäss Art. 25 Abs. 1 RVOG administrativ zugewiesen)
-  - 0\.10. Gleichstellungskommission und Schlichtungsstelle gemäss Gleichstellungsgesetz (gemäss Art. 25 Abs. 2 RVOG administrativ zugewiesen)
+  - 0\.10. …
   - 0\.11. Finanzkontrolle (gemäss Art. 25 Abs. 1 RVOG administrativ zugewiesen)
 
 #### Art. A2-2
@@ -625,9 +626,8 @@ verordnet:
 - b. Hauptabteilung Volksschule und Sport
   - 0\.1. Sport
   - 0\.2. Sonderpädagogik
-  - 0\.3. Integration
-  - 0\.4. …
-  - 0\.5. Familie
+  - 0\.3.–0.4. …
+  - 0\.5. Gesellschaft
   - 1\. Abteilung Volksschule
   - 1\.1. Aufsicht und Qualitätsmanagement
   - 1\.2. Lehrmittelverlag
