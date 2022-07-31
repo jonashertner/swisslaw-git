@@ -4,11 +4,11 @@ title: "Ordonnance du 17 août 2005 sur la procédure de consultation (Ordonnanc
 short: OCo
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/543"
 language: fr
-version: 2016-04-01
+version: 2022-08-01
 adopted: 2005-08-17
 in_force: 2005-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/543/20160401/fr/xml/fedlex-data-admin-ch-eli-cc-2005-543-20160401-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/543/20160401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/543/20220801/fr/xml/fedlex-data-admin-ch-eli-cc-2005-543-20220801-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/543/20220801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/543/20160401/fr"
 
 (Ordonnance sur la consultation, OCo)
 
-du 17 août 2005 (Etat le 1<sup>er</sup> avril 2016)
+du 17 août 2005 (État le 1<sup>er</sup> août 2022)
 
 Le Conseil fédéral suisse,
 
@@ -35,7 +35,7 @@ arrête:
 
 <sup>1</sup> La présente ordonnance s’applique aux procédures de consultation ouvertes par le Conseil fédéral, un département, la Chancellerie fédérale ou une unité de l’administration fédérale (autorités compétentes pour ouvrir une consultation).
 
-<sup>2</sup> A moins qu’une loi ou une ordonnance n’en dispose autrement, les dispositions de la présente ordonnance s’appliquent aussi par analogie aux commissions parlementaires.
+<sup>2</sup> À moins qu’une loi ou une ordonnance n’en dispose autrement, les dispositions de la présente ordonnance s’appliquent aussi par analogie aux commissions parlementaires.
 
 [^1-1]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2016, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 929](https://fedlex.data.admin.ch/eli/oc/2016/162)).
 
@@ -45,7 +45,7 @@ arrête:
 
 [^2-1]: Abrogé par le ch. I de l’O du 11 mars 2016, avec effet au 1<sup>er</sup> avr. 2016 ([RO 2016 929](https://fedlex.data.admin.ch/eli/oc/2016/162)).
 
-## Section 2 Planification et coordination****
+## Section 2 Planification et coordination
 
 [^sec2-1]
 
@@ -67,9 +67,10 @@ Les autorités compétentes pour le déroulement de la procédure de consultatio
 
 <sup>1</sup> Les autorités responsables renseignent la Chancellerie fédérale sur la planification de leurs consultations; elles lui indiquent le titre de chaque projet dans les trois langues officielles et le délai de remise des avis.
 
-<sup>2</sup> La Chancellerie fédérale veille à la coordination du calendrier des consultations.
+<sup>2</sup> ...[^4-2]
 
 [^4-1]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2016, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 929](https://fedlex.data.admin.ch/eli/oc/2016/162)).
+[^4-2]: Abrogé par le ch. I de l’O du 22 juin 2022, avec effet au 1<sup>er</sup> août 2022 ([RO 2022 379](https://fedlex.data.admin.ch/eli/oc/2022/379)).
 
 #### Art. 4a
 
@@ -83,13 +84,11 @@ Les autorités compétentes pour le déroulement de la procédure de consultatio
 
 #### Art. 5
 
-**Information et publication**
+**Publication des consultations prévues**[^5-1]
 
-<sup>1</sup> La Chancellerie fédérale informe tous les six mois le Conseil fédéral, les bureaux des Chambres fédérales, les cantons, les partis politiques et les médias des consultations programmées.
+La Chancellerie fédérale gère sous forme électronique une liste des consultations prévues; cette liste est accessible au public et tenue à jour.
 
-<sup>2</sup> Elle gère sous forme électronique une liste des consultations prévues accessible au public et tenue à jour.[^5-1]
-
-[^5-1]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2016, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 929](https://fedlex.data.admin.ch/eli/oc/2016/162)).
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du 22 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 379](https://fedlex.data.admin.ch/eli/oc/2022/379)).
 
 ## Section 3 Ouverture
 
@@ -113,9 +112,10 @@ La proposition soumise à l’autorité compétente pour ouvrir la consultation 
 Le dossier de consultation comprend:
 
 - a. le projet mis en consultation;
-- b. le rapport explicatif;
-- c. la lettre d’information adressée aux destinataires;
-- d. la liste des destinataires.
+- b. dans le cas d’un acte modificateur, une vue d’ensemble des modifications prévues par rapport au droit en vigueur;
+- c. le rapport explicatif;
+- d. la lettre d’information adressée aux destinataires;
+- e. la liste des destinataires.[^7-2]
 
 <sup>2</sup> Il doit être rédigé dans les trois langues officielles.
 
@@ -127,6 +127,7 @@ Dans les cas suivants, le projet mis en consultation et le rapport explicatif pe
 - b. pour les consultations organisées en vertu de l’art. 3, al. 2, LCo: si le projet ne revêt qu’un intérêt local ou régional.
 
 [^7-1]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2016, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 929](https://fedlex.data.admin.ch/eli/oc/2016/162)).
+[^7-2]: Nouvelle teneur selon le ch. I de l’O du 22 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 379](https://fedlex.data.admin.ch/eli/oc/2022/379)).
 
 #### Art. 8
 
@@ -147,9 +148,18 @@ Le rapport contient des explications et, si le projet le demande, adresse aux de
 
 <sup>4</sup> Dans le cas d’un projet d’acte dont on peut présumer qu’il aura des conséquences importantes pour les organes d’exécution ou pour d’autres destinataires des normes prévues, le rapport contient des explications relatives au contenu envisagé pour les ordonnances à édicter sur la base de cet acte.
 
+<sup>4bis</sup>
+
+Il présente de manière synthétique les principales données quantitatives utilisées et contient:
+
+- a. des informations sur leurs sources;
+- b. des informations sur la manière dont elles ont été calculées ou estimées;
+- c. une appréciation de leur fiabilité.[^8-2]
+
 <sup>5</sup> Au demeurant, les directives régissant le contenu et la structure des messages du Conseil fédéral s’appliquent par analogie.
 
 [^8-1]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2016, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 929](https://fedlex.data.admin.ch/eli/oc/2016/162)).
+[^8-2]: Introduit par le ch. I de l’O du 22 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 379](https://fedlex.data.admin.ch/eli/oc/2022/379)).
 
 #### Art. 9
 
@@ -210,9 +220,10 @@ La lettre d’information adressée aux destinataires de la consultation contien
 
 <sup>1</sup> La Chancellerie fédérale publie l’ouverture de chaque procédure de consultation visée à l’art. 3, al. 1, LCo dans la Feuille fédérale.
 
-<sup>2</sup> Elle gère sous forme électronique une liste des consultations en cours accessible au public et tenue à jour.
+<sup>2</sup> Elle gère sous forme électronique une liste des consultations en cours; cette liste est accessible au public et tenue à jour.[^13-2]
 
 [^13-1]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2016, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 929](https://fedlex.data.admin.ch/eli/oc/2016/162)).
+[^13-2]: Nouvelle teneur selon le ch. I de l’O du 22 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 379](https://fedlex.data.admin.ch/eli/oc/2022/379)).
 
 ## Section 4 Déroulement
 
@@ -222,9 +233,10 @@ La lettre d’information adressée aux destinataires de la consultation contien
 
 ### (art. 9, al. 1, let. a, LCo)
 
-La Chancellerie fédérale rend public, sous forme électronique, le dossier de consultation aussitôt que la décision d’ouvrir la procédure de consultation a été prise.
+La Chancellerie fédérale rend accessible au public, sous forme électronique, le dossier de consultation aussitôt que la décision d’ouvrir la procédure de consultation a été prise.[^14-2]
 
 [^14-1]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2016, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 929](https://fedlex.data.admin.ch/eli/oc/2016/162)).
+[^14-2]: Nouvelle teneur selon le ch. I de l’O du 22 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 379](https://fedlex.data.admin.ch/eli/oc/2022/379)).
 
 #### Art. 15
 
@@ -302,11 +314,12 @@ Doivent être annexés à la proposition:
 
 <sup>2</sup> Les autorités responsables informent les participants à la procédure de consultation et les médias de la publication du rapport de résultats aussitôt que la décision a été prise.
 
-<sup>3</sup> La Chancellerie fédérale gère sous forme électronique une liste des procédures de consultation terminées accessible au public et tenue à jour.
+<sup>3</sup> La Chancellerie fédérale gère sous forme électronique une liste des consultations terminées; cette liste est accessible au public et tenue à jour.[^21-2]
 
 [^21-1]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2016, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 929](https://fedlex.data.admin.ch/eli/oc/2016/162)).
+[^21-2]: Nouvelle teneur selon le ch. I de l’O du 22 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 379](https://fedlex.data.admin.ch/eli/oc/2022/379)).
 
-## Section 5*a***** Exposé des motifs de la renonciation à une consultation
+## Section 5*a* Exposé des motifs de la renonciation à une consultation
 
 [^sec5a-1]
 
@@ -327,7 +340,7 @@ Les motifs d’une éventuelle renonciation, fondée sur l’art. 3*a* LCo, à o
 
 L’ordonnance du 17 juin 1991 sur la procédure de consultation[^22-1] est abrogée.
 
-[^22-1]: [[RO 1991 1632](https://fedlex.data.admin.ch/eli/oc/1991/1632_1632_1632), [1996 1651](https://fedlex.data.admin.ch/eli/oc/1996/1651_1651_1651)art. 22]
+[^22-1]: [[RO 1991 1632](https://fedlex.data.admin.ch/eli/oc/1991/1632_1632_1632); [1996 1651](https://fedlex.data.admin.ch/eli/oc/1996/1651_1651_1651)art. 22]
 
 #### Art. 23
 

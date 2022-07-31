@@ -4,11 +4,11 @@ title: "Verordnung vom 17. August 2005 über das Vernehmlassungsverfahren (Verne
 short: VlV
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/543"
 language: de
-version: 2016-04-01
+version: 2022-08-01
 adopted: 2005-08-17
 in_force: 2005-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/543/20160401/de/xml/fedlex-data-admin-ch-eli-cc-2005-543-20160401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/543/20160401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/543/20220801/de/xml/fedlex-data-admin-ch-eli-cc-2005-543-20220801-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/543/20220801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/543/20160401/de"
 
 (Vernehmlassungsverordnung, VlV)
 
-vom 17. August 2005 (Stand am 1. April 2016)
+vom 17. August 2005 (Stand am 1. August 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -45,7 +45,7 @@ verordnet:
 
 [^2-1]: Aufgehoben durch Ziff. I der V vom 11. März 2016, mit Wirkung seit 1. April 2016 ([AS 2016 929](https://fedlex.data.admin.ch/eli/oc/2016/162)).
 
-## 2. Abschnitt: Planung und Koordination****
+## 2. Abschnitt: Planung und Koordination
 
 [^sec2-1]
 
@@ -67,9 +67,10 @@ Die für die Durchführung von Vernehmlassungen zuständigen Behörden (federfü
 
 <sup>1</sup> Die federführenden Behörden orientieren die Bundeskanzlei über die Planung ihrer Vernehmlassungen; sie nennen ihr zu jedem Vorhaben den Titel in den drei Amtssprachen und die Frist zur Einreichung der Stellungnahmen.
 
-<sup>2</sup> Die Bundeskanzlei sorgt für die zeitliche Koordination der Vernehmlassungen.
+<sup>2</sup> …[^4-2]
 
 [^4-1]: Fassung gemäss Ziff. I der V vom 11. März 2016, in Kraft seit 1. April 2016 ([AS 2016 929](https://fedlex.data.admin.ch/eli/oc/2016/162)).
+[^4-2]: Aufgehoben durch Ziff. I der V vom 22. Juni 2022, mit Wirkung seit 1. Aug. 2022 ([AS 2022 379](https://fedlex.data.admin.ch/eli/oc/2022/379)).
 
 #### Art. 4a
 
@@ -83,13 +84,11 @@ Die für die Durchführung von Vernehmlassungen zuständigen Behörden (federfü
 
 #### Art. 5
 
-**Information und Veröffentlichung**
+**Veröffentlichung der geplanten Vernehmlassungen**[^5-1]
 
-<sup>1</sup> Die Bundeskanzlei informiert den Bundesrat, die Büros der eidgenössischen Räte, die Kantone, die politischen Parteien und die Medien halbjährlich über die geplanten Vernehmlassungen.
+Die Bundeskanzlei führt in elektronischer Form eine öffentlich zugängliche, laufend aktualisierte Liste der geplanten Vernehmlassungen.
 
-<sup>2</sup> Sie führt in elektronischer Form eine öffentlich zugängliche, laufend aktualisierte Liste der geplanten Vernehmlassungen.[^5-1]
-
-[^5-1]: Fassung gemäss Ziff. I der V vom 11. März 2016, in Kraft seit 1. April 2016 ([AS 2016 929](https://fedlex.data.admin.ch/eli/oc/2016/162)).
+[^5-1]: Fassung gemäss Ziff. I der V vom 22. Juni 2022, in Kraft seit 1. Aug. 2022 ([AS 2022 379](https://fedlex.data.admin.ch/eli/oc/2022/379)).
 
 ## 3. Abschnitt: Eröffnung
 
@@ -113,9 +112,10 @@ Im Antrag an die eröffnende Behörde ist insbesondere zu begründen:
 Die Vernehmlassungsunterlagen umfassen:
 
 - a. die Vernehmlassungsvorlage;
-- b. den erläuternden Bericht;
-- c. die Orientierungsschreiben an die Adressaten;
-- d. die Adressatenliste.
+- b. bei einer Erlassänderung: eine übersichtliche Darstellung der geplanten Änderungen im Vergleich zum geltenden Recht;
+- c. den erläuternden Bericht;
+- d. die Orientierungsschreiben an die Adressaten;
+- e. die Adressatenliste.[^7-2]
 
 <sup>2</sup> Sie sind in den drei Amtssprachen zu erstellen.
 
@@ -127,6 +127,7 @@ Vernehmlassungsvorlage und erläuternder Bericht können in den folgenden Fälle
 - b. bei Vernehmlassungen nach Artikel 3 Absatz 2 VlG: wenn das Vorhaben ausschliesslich von lokaler oder regionaler Bedeutung ist.
 
 [^7-1]: Fassung gemäss Ziff. I der V vom 11. März 2016, in Kraft seit 1. April 2016 ([AS 2016 929](https://fedlex.data.admin.ch/eli/oc/2016/162)).
+[^7-2]: Fassung gemäss Ziff. I der V vom 22. Juni 2022, in Kraft seit 1. Aug. 2022 ([AS 2022 379](https://fedlex.data.admin.ch/eli/oc/2022/379)).
 
 #### Art. 8
 
@@ -147,9 +148,18 @@ Er enthält Ausführungen und wo nötig Fragen an die Adressaten, insbesondere:
 
 <sup>4</sup> Er enthält bei Erlassentwürfen, bei denen mit erheblichen Auswirkungen auf die Vollzugsträger und die weiteren Normadressaten zu rechnen ist, Ausführungen zum voraussichtlichen Inhalt der darauf gestützt zu erlassenden Verordnungen.
 
+<sup>4bis</sup>
+
+Er stellt die wichtigsten verwendeten quantitativen Angaben übersichtlich dar und enthält:
+
+- a. Informationen über deren Quellen;
+- b. Informationen über deren Berechnungen oder Schätzungen;
+- c. eine Einschätzung deren Verlässlichkeit.[^8-2]
+
 <sup>5</sup> Im Übrigen gelten die Vorgaben für Inhalt und Gliederung von Botschaften des Bundesrates sinngemäss.
 
 [^8-1]: Fassung gemäss Ziff. I der V vom 11. März 2016, in Kraft seit 1. April 2016 ([AS 2016 929](https://fedlex.data.admin.ch/eli/oc/2016/162)).
+[^8-2]: Eingefügt durch Ziff. I der V vom 22. Juni 2022, in Kraft seit 1. Aug. 2022 ([AS 2022 379](https://fedlex.data.admin.ch/eli/oc/2022/379)).
 
 #### Art. 9
 
@@ -306,7 +316,7 @@ Dem Antrag liegen bei:
 
 [^21-1]: Fassung gemäss Ziff. I der V vom 11. März 2016, in Kraft seit 1. April 2016 ([AS 2016 929](https://fedlex.data.admin.ch/eli/oc/2016/162)).
 
-## 5*a*. Abschnitt:**** Begründung des Verzichts auf eine Vernehmlassung
+## 5*a*. Abschnitt: Begründung des Verzichts auf eine Vernehmlassung
 
 [^sec5a-1]
 
@@ -327,7 +337,7 @@ Wurde gestützt auf Artikel 3*a* VlG auf ein Vernehmlassungsverfahren verzichtet
 
 Die Verordnung vom 17. Juni 1991[^22-1] über das Vernehmlassungsverfahren wird aufgehoben.
 
-[^22-1]: [[AS 1991 1632](https://fedlex.data.admin.ch/eli/oc/1991/1632_1632_1632), [1996 1651](https://fedlex.data.admin.ch/eli/oc/1996/1651_1651_1651)Art. 22]
+[^22-1]: [[AS 1991 1632](https://fedlex.data.admin.ch/eli/oc/1991/1632_1632_1632); [1996 1651](https://fedlex.data.admin.ch/eli/oc/1996/1651_1651_1651)Art. 22]
 
 #### Art. 23
 

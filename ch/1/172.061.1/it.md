@@ -4,11 +4,11 @@ title: "Ordinanza del 17 agosto 2005 sulla procedura di consultazione (Ordinanza
 short: OCo
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/543"
 language: it
-version: 2016-04-01
+version: 2022-08-01
 adopted: 2005-08-17
 in_force: 2005-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/543/20160401/it/xml/fedlex-data-admin-ch-eli-cc-2005-543-20160401-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/543/20160401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/543/20220801/it/xml/fedlex-data-admin-ch-eli-cc-2005-543-20220801-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/543/20220801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/543/20160401/it"
 
 (Ordinanza sulla consultazione, OCo)
 
-del 17 agosto 2005 (Stato 1° aprile 2016)
+del 17 agosto 2005 (Stato 1° agosto 2022)
 
 Il Consiglio federale svizzero,
 
@@ -45,7 +45,7 @@ ordina:
 
 [^2-1]: Abrogato dal n. I dell’O dell’11 mar. 2016, con effetto dal 1° apr. 2016 ([RU 2016 929](https://fedlex.data.admin.ch/eli/oc/2016/162)).
 
-## Sezione 2: Pianificazione e coordinamento****
+## Sezione 2: Pianificazione e coordinamento
 
 [^sec2-1]
 
@@ -67,9 +67,10 @@ Le autorità competenti per lo svolgimento di consultazioni (autorità responsab
 
 <sup>1</sup> Le autorità responsabili informano la Cancelleria federale sulla pianificazione delle loro consultazioni; per ogni progetto le comunicano il titolo nelle tre lingue ufficiali e il termine per l’invio dei pareri.
 
-<sup>2</sup> La Cancelleria federale provvede a coordinare le consultazioni sul piano temporale.
+<sup>2</sup> ...[^4-2]
 
 [^4-1]: Nuovo testo giusta il n. I dell’O dell’11 mar. 2016, in vigore dal 1° apr. 2016 ([RU 2016 929](https://fedlex.data.admin.ch/eli/oc/2016/162)).
+[^4-2]: Abrogato dal n. I dell’O del 22 giu. 2022, con effetto dal 1° ago. 2022 ([RU 2022 379](https://fedlex.data.admin.ch/eli/oc/2022/379)).
 
 #### Art. 4a
 
@@ -83,13 +84,11 @@ Le autorità competenti per lo svolgimento di consultazioni (autorità responsab
 
 #### Art. 5
 
-**Informazione e pubblicazione**
+**Pubblicazione delle consultazioni previste**[^5-1]
 
-<sup>1</sup> La Cancelleria federale informa semestralmente il Consiglio federale, gli Uffici dei due Consigli, i Cantoni, i partiti politici e i mezzi d’informazione sulle consultazioni previste.
+La Cancelleria federale tiene una lista in forma elettronica delle consultazioni previste che è aggiornata costantemente e accessibile al pubblico.
 
-<sup>2</sup> Essa tiene una lista in forma elettronica delle consultazioni previste, che aggiorna costantemente e rende accessibile al pubblico.[^5-1]
-
-[^5-1]: Nuovo testo giusta il n. I dell’O dell’11 mar. 2016, in vigore dal 1° apr. 2016 ([RU 2016 929](https://fedlex.data.admin.ch/eli/oc/2016/162)).
+[^5-1]: Nuovo testo giusta il n. I dell’O del 22 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 379](https://fedlex.data.admin.ch/eli/oc/2022/379)).
 
 ## Sezione 3: Indizione
 
@@ -113,9 +112,10 @@ Nella proposta all’autorità che indice la consultazione occorre indicare in p
 La documentazione comprende:
 
 - a. il progetto da porre in consultazione;
-- b. il rapporto esplicativo;
-- c. le lettere d’informazione ai destinatari;
-- d. l’elenco dei destinatari.
+- b. in caso di modifica di un atto normativo, una presentazione strutturata delle modifiche previste rispetto al diritto vigente;
+- c. il rapporto esplicativo;
+- d. le lettere d’informazione ai destinatari;
+- e. l’elenco dei destinatari.[^7-2]
 
 <sup>2</sup> Essa deve essere allestita nelle tre lingue ufficiali.
 
@@ -127,6 +127,7 @@ Nei casi seguenti il progetto da porre in consultazione e il rapporto esplicativ
 - b. per le consultazioni di cui all’articolo 3 capoverso 2 LCo, se il progetto è esclusivamente di importanza locale o regionale.
 
 [^7-1]: Nuovo testo giusta il n. I dell’O dell’11 mar. 2016, in vigore dal 1° apr. 2016 ([RU 2016 929](https://fedlex.data.admin.ch/eli/oc/2016/162)).
+[^7-2]: Nuovo testo giusta il n. I dell’O del 22 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 379](https://fedlex.data.admin.ch/eli/oc/2022/379)).
 
 #### Art. 8
 
@@ -147,9 +148,18 @@ Contiene spiegazioni e, se necessario, domande rivolte ai destinatari, riguardan
 
 <sup>4</sup> Nel caso di progetti di atti normativi che verosimilmente avranno ripercussioni notevoli per gli organi preposti all’esecuzione e altri destinatari della norma, contiene spiegazioni relative al presumibile contenuto delle pertinenti ordinanze da emanare.
 
+<sup>4bis</sup>
+
+Presenta in modo strutturato i principali dati quantitativi utilizzati con informazioni concernenti:
+
+- a. le loro fonti;
+- b. le relative modalità di calcolo o stima;
+- c. la valutazione della loro affidabilità.[^8-2]
+
 <sup>5</sup> Per il rimanente, si applicano per analogia le direttive sul contenuto e sulla struttura dei messaggi del Consiglio federale.
 
 [^8-1]: Nuovo testo giusta il n. I dell’O dell’11 mar. 2016, in vigore dal 1° apr. 2016 ([RU 2016 929](https://fedlex.data.admin.ch/eli/oc/2016/162)).
+[^8-2]: Introdotto dal n. I dell’O del 22 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 379](https://fedlex.data.admin.ch/eli/oc/2022/379)).
 
 #### Art. 9
 
@@ -210,9 +220,10 @@ La lettera d’informazione ai destinatari della consultazione indica:
 
 <sup>1</sup> La Cancelleria federale annuncia nel Foglio federale l’indizione di ogni consultazione di cui all’articolo 3 capoverso 1 LCo.
 
-<sup>2</sup> Essa tiene una lista in forma elettronica delle consultazioni in corso, che aggiorna costantemente e rende accessibile al pubblico.
+<sup>2</sup> Essa tiene una lista in forma elettronica delle consultazioni in corso che è aggiornata costantemente e accessibile al pubblico.[^13-2]
 
 [^13-1]: Nuovo testo giusta il n. I dell’O dell’11 mar. 2016, in vigore dal 1° apr. 2016 ([RU 2016 929](https://fedlex.data.admin.ch/eli/oc/2016/162)).
+[^13-2]: Nuovo testo giusta il n. I dell’O del 22 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 379](https://fedlex.data.admin.ch/eli/oc/2022/379)).
 
 ## Sezione 4: Svolgimento
 
@@ -302,11 +313,12 @@ In allegato alla proposta figurano:
 
 <sup>2</sup> Immediatamente dopo la decisione, l’autorità responsabile informa i partecipanti alla consultazione e i mezzi di comunicazione sulla pubblicazione del rapporto sui risultati.
 
-<sup>3</sup> La Cancelleria federale tiene una lista in forma elettronica delle consultazioni concluse, che aggiorna costantemente e rende accessibile al pubblico.
+<sup>3</sup> La Cancelleria federale tiene una lista in forma elettronica delle consultazioni concluse che è aggiornata costantemente e accessibile al pubblico.[^21-2]
 
 [^21-1]: Nuovo testo giusta il n. I dell’O dell’11 mar. 2016, in vigore dal 1° apr. 2016 ([RU 2016 929](https://fedlex.data.admin.ch/eli/oc/2016/162)).
+[^21-2]: Nuovo testo giusta il n. I dell’O del 22 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 379](https://fedlex.data.admin.ch/eli/oc/2022/379)).
 
-## Sezione 5*a*:**** Motivazione della rinuncia a una consultazione
+## Sezione 5*a*: Motivazione della rinuncia a una consultazione
 
 [^sec5a-1]
 
