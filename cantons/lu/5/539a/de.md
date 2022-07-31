@@ -3,20 +3,20 @@ canton: LU
 number: 539a
 title: Personalverordnung der Universität Luzern
 language: de
-version: 2020-08-01
-valid_until: 2022-07-31
-version_adopted: 2020-06-16
+version: 2022-08-01
+valid_until: 2023-12-31
+version_adopted: 2022-05-10
 adopted: 2005-10-25
 in_force: 2006-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/539a"
-pdf: "https://srl.lu.ch/api/de/versions/3619/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3937/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Personalverordnung der Universität Luzern
 
-vom 25.10.2005 (Stand 01.08.2020)
+vom 25.10.2005 (Stand 01.08.2022)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -128,11 +128,17 @@ beschliesst:
 
 **Einreihung der Professorinnen und Professoren, der Dozierenden und der Lehrbeauftragten**
 
-<sup>1</sup> Die Professorinnen und Professoren, die Dozierenden und die Lehrbeauftragten werden bei der erstmaligen Einreihung in eine im Anhang in der Funktionsumschreibung angegebene Lohnklasse und in eine Lohnstufe eingereiht.
+<sup>1</sup> Die Professorinnen und Professoren, die Dozierenden und die unbefristet angestellten Lehrbeauftragten werden bei der erstmaligen Einreihung in eine im Anhang 1 in der Funktionsumschreibung angegebene Lohnklasse und in eine Lohnstufe eingereiht.
 
 <sup>2</sup> Sind in der Funktionsumschreibung mehrere Lohnklassen angegeben, erfolgt die Einreihung in eine Lohnklasse aufgrund des Fachgebietes und des internen und externen Quervergleichs.
 
 <sup>3</sup> Bei der Einreihung in eine Lohnstufe werden die berufliche Qualifikation und die berufliche Stellung sowie die wissenschaftliche Reputation und die Wettbewerbssituation berücksichtigt.
+
+#### § 11abis
+
+**Entschädigung der Lehrbeauftragten im Nebenamt**
+
+<sup>1</sup> Befristet im Nebenamt angestellte Lehrbeauftragte werden pauschal pro Semesterwochenstunde nach dem mit der Lehrveranstaltung verbundenen Aufwand entschädigt. Die Pauschalentschädigung wird durch den Universitätsrat in den im Anhang 1 in der Funktionsumschreibung angegebenen Lohnklassen festgesetzt.
 
 #### § 11b
 
