@@ -4,10 +4,11 @@ number: "415.405.1"
 title: Rahmenverordnung über die Bachelor- und Masterstudiengänge an der Theologischen und Religionswissenschaftlichen Fakultät der Universität Zürich (RVO TRF)
 short: RVO TRF
 language: de
-nachtrag: "105"
-valid_until: 2022-08-01
+version: "2022-08-01"
+nachtrag: "117"
+valid_until: 2024-07-25
 adopted: 2018-08-27
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_405_1-2018_08_27-2019_08_01-105.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_405_1-2018_08_27-2019_08_01-117.html"
 text: pdf
 ---
 
@@ -64,7 +65,7 @@ Einzelheiten werden in den Studienordnungen geregelt.
 
 **1**
 
-- 1\. 7. 19 - 105
+- 1\. 7. 22 - 117
 
 <sup>3</sup> Die Fakultät bietet folgende Masterstudiengänge im Umfang von 120 ECTS Credits an:
 
@@ -176,38 +177,19 @@ Für die Zulassung zu den Studiengängen ist die Verordnung über die Zulassung 
 
 **3**
 
-- 1\. 7. 19 - 105 § 12. Studentische Arbeiten können zum Zweck der Überprüfung auf Plagiate unter Einsatz entsprechender Software bearbeitet werden. Zu diesem Zweck können geeignete Dienstleister im In- oder Ausland beauftragt werden.
+- 1\. 7. 22 - 117 § 12. Studentische Arbeiten können zum Zweck der Überprüfung auf Plagiate unter Einsatz entsprechender Software bearbeitet werden. Zu diesem Zweck können geeignete Dienstleister im In- oder Ausland beauftragt werden.
 
 **Plagiatskontrolle**
 
-**Studienzeit und -gebühren**
-
-§ 13.[^11-1] <sup>1</sup> In den ersten 12 Semestern des Bachelor- wie auch des Masterstudiums sind die Studiengebühren gemäss der Verordnung über die Studiengebühren an der Universität Zürich[^11-2] zu entrichten. Die Zählung beginnt mit dem ersten Semester nach der Immatrikulation an der UZH.
-
-<sup>2</sup> Überschreitet die oder der Studierende die Studienzeit gemäss Abs. 1 und liegt keine bewilligte Verlängerung nach § 14 vor, verdoppelt sich die Studiengebühr gemäss den Bestimmungen der Verordnung über die Studiengebühren an der Universität Zürich[^11-2].
-
-<sup>3</sup> Die oder der Studierende erhält am Ende des 11. Semesters nach Immatrikulation mit dem Leistungsausweis die Aufforderung, unverzüglich mit der Studienberatung Kontakt aufzunehmen, um einen individuellen Studienplan auszuarbeiten.
-
-**Antrag auf Verlängerung**
-
-§ 14.[^11-1] <sup>1</sup> Bei Vorliegen von wichtigen Gründen kann die oder der Studierende bei der Studiendekanin oder dem Studiendekan eine Verlängerung der Studienzeit, für welche die einfache Kollegiengeldpauschale zu entrichten ist, um zwei Semester beantragen. Der Antrag ist zu begründen und innerhalb von 30 Tagen nach Erhalt des Leistungsausweises einzureichen.
-
-<sup>2</sup> Die Studiendekanin oder der Studiendekan entscheidet in der Regel innert 30 Tagen über den Antrag. Sie oder er kann weitere Nachweise anfordern oder Berichte einholen.
-
-<sup>3</sup> Wird kein Antrag eingereicht oder lehnt die Studiendekanin oder der Studiendekan den Antrag ab, verdoppelt sich die Studiengebühr.
-
-<sup>4</sup> Anträge auf Verlängerung können mehrfach gestellt werden.
-
-[^11-1]: Noch nicht in Kraft.
-[^11-2]: LS 415.321. 1. 7. 19 - 105 15
-
-#### § 15
+§§ 13 und 14.[^11-1]
 
 **Informationspflicht**
 
-<sup>1</sup> Alle studienrelevanten Informationen werden in geeigneter Weise bekannt gegeben und sind verbindlich.
+§ 15. <sup>1</sup> Alle studienrelevanten Informationen werden in geeigneter Weise bekannt gegeben und sind verbindlich.
 
 <sup>2</sup> Die Studierenden sind verpflichtet, sich über sämtliche studienrelevante Belange, insbesondere über die für sie geltenden Erlasse und Fristen, selbstständig zu informieren.
+
+[^11-1]: Aufgehoben durch URB vom 28. Februar 2022 (OS 77, 213; ABl 2022-03-18). In Kraft seit 1. August 2022.
 
 ### 2. Abschnitt: Module und ECTS Credits
 
@@ -261,10 +243,6 @@ Die Studiendekanin oder der Studiendekan bestimmt für sämtliche Module Modulve
 
 <sup>2</sup> Jedem Modul wird eine Anzahl von ECTS Credits (in ganzen Zahlen) zugewiesen, die dem für das erfolgreiche Absolvieren des Moduls erwarteten mittleren Arbeitsaufwand entspricht.
 
-**5**
-
-- 1\. 7. 19 - 105
-
 <sup>3</sup> Für die Vergabe von ECTS Credits muss die oder der Studierende einen expliziten Leistungsnachweis bestehen. Die Vergabe von ECTS Credits auf Basis blosser Anwesenheit ist ausgeschlossen.
 
 <sup>4</sup> Die dem Modul zugewiesene Anzahl von ECTS Credits wird immer vollständig vergeben, eine anteilige Vergabe ist nicht zulässig.
@@ -302,6 +280,10 @@ Die Studiendekanin oder der Studiendekan bestimmt für sämtliche Module Modulve
 **Organisation und Modalitäten der Leistungsnachweise**
 
 <sup>1</sup> Die Modalitäten der Erbringung eines bestimmten Leistungsnachweises werden für alle Studierenden einheitlich festgelegt. Die Studienordnungen können besondere Regelungen für bestimmte Kategorien von Studierenden vorsehen.
+
+**5**
+
+- 1\. 7. 22 - 117
 
 <sup>2</sup> Bei Leistungsnachweisen in Form einer mündlichen Prüfung ist eine Beisitzerin oder ein Beisitzer anwesend, die oder der über einen Studienabschluss mindestens auf Masterstufe verfügt. Es ist ein Protokoll zu führen.
 
@@ -357,10 +339,6 @@ Die Studiendekanin oder der Studiendekan bestimmt für sämtliche Module Modulve
 
 <sup>1</sup> Ein nicht bestandenes Pflichtmodul kann zweimal wiederholt werden. Eine Substitution ist nicht möglich.
 
-**7**
-
-- 1\. 7. 19 - 105
-
 <sup>2</sup> Wurden alle Wiederholungsmöglichkeiten erfolglos ausgeschöpft, so gilt das Pflichtmodul als definitiv nicht bestanden. Es erfolgt eine endgültige Abweisung nach § 33 und Sperre nach § 34.
 
 #### § 29
@@ -389,11 +367,11 @@ Die Studiendekanin oder der Studiendekan bestimmt für sämtliche Module Modulve
 
 Zur Sicherstellung der Geheimhaltung der Prüfungsfragen können die Herausgabe der Prüfungsunterlagen eingeschränkt oder verweigert, die Herstellung von Kopien oder Abschriften untersagt und die Dauer der Einsichtnahme beschränkt werden.
 
-#### § 32
+**7**
+
+- 1\. 7. 22 - 117 § 32. <sup>1</sup> Nach Abschluss eines Semesters werden die bestandenen und nicht bestandenen Module in einem Leistungsausweis dokumentiert. Studienleistungen, die nicht an der UZH erbracht worden sind, werden gekennzeichnet.
 
 **Leistungsausweis**
-
-<sup>1</sup> Nach Abschluss eines Semesters werden die bestandenen und nicht bestandenen Module in einem Leistungsausweis dokumentiert. Studienleistungen, die nicht an der UZH erbracht worden sind, werden gekennzeichnet.
 
 <sup>2</sup> Der Leistungsausweis wird in deutscher Sprache ausgestellt. Es wird eine englische Übersetzung abgegeben.
 
@@ -449,11 +427,11 @@ Die Bachelorstudiengänge vermitteln den Studierenden Grundlagenwissen und die F
 
 <sup>5</sup> Gruppenarbeiten sind nicht zugelassen.
 
-**9**
-
-- 1\. 7. 19 - 105 § 38. Bachelorstudierende, die mindestens 120 ECTS Credits erworben haben, können Mastermodule im Umfang von insgesamt 60 ECTS Credits vorziehen. Mit der Masterarbeit darf erst im Masterstudiengang begonnen werden.
+#### § 38
 
 **Vorziehen von Mastermodulen**
+
+Bachelorstudierende, die mindestens 120 ECTS Credits erworben haben, können Mastermodule im Umfang von insgesamt 60 ECTS Credits vorziehen. Mit der Masterarbeit darf erst im Masterstudiengang begonnen werden.
 
 ### B. Masterstudiengänge
 
@@ -485,11 +463,11 @@ Die Masterstudiengänge vermitteln den Studierenden vertiefte fachliche Kenntnis
 
 <sup>3</sup> Die Studienordnungen legen das Angebot und die Kombinationsmöglichkeiten sowie die möglichen Schwerpunkte der Studienprogramme fest.
 
-#### § 42
+**9**
+
+- 1\. 7. 22 - 117 § 42. <sup>1</sup> Während des Masterstudiengangs ist im Mono- oder Major-Studienprogramm eine Masterarbeit im Umfang von mindestens 20 bis höchstens 30 ECTS Credits zu verfassen. Die Masterarbeit gilt als Pflichtmodul und wird benotet.
 
 **Masterarbeit**
-
-<sup>1</sup> Während des Masterstudiengangs ist im Mono- oder Major-Studienprogramm eine Masterarbeit im Umfang von mindestens 20 bis höchstens 30 ECTS Credits zu verfassen. Die Masterarbeit gilt als Pflichtmodul und wird benotet.
 
 <sup>2</sup> Die Masterarbeit ist in deutscher oder englischer Sprache zu verfassen. Die Studienordnungen können Ausnahmen vorsehen.
 
@@ -549,10 +527,6 @@ Gleiche oder inhaltlich ähnliche Module bzw. Studienleistungen können nicht me
 
 <sup>1</sup> Überzählige Module werden nicht an den Bachelor- bzw. Masterabschluss angerechnet. Sie werden jedoch im Academic Record als nicht angerechnete Leistungen ausgewiesen.
 
-**11**
-
-- 1\. 7. 19 - 105
-
 <sup>2</sup> Überzählige Module sind Module, die gemäss den jeweiligen Studienordnungen für die Erreichung der für den Studienabschluss im jeweiligen Studienprogramm notwendigen ECTS Credits nicht erforderlich sind.
 
 <sup>3</sup> Für die Anrechnung werden die absolvierten Module in chronologisch aufsteigender Reihenfolge berücksichtigt.
@@ -577,11 +551,11 @@ Gleiche oder inhaltlich ähnliche Module bzw. Studienleistungen können nicht me
 
 <sup>2</sup> Die Verleihung des Grades erfolgt durch die Aushändigung der unterzeichneten Diplomurkunde.
 
-#### § 50
+**11**
+
+- 1\. 7. 22 - 117 § 50. <sup>1</sup> Der Mastergrad wird durch die Fakultät verliehen, wenn nach Massgabe der Rahmenverordnung und der Studienordnungen 120 ECTS Credits erworben worden sind. Davon muss mindestens die Hälfte der für das Major-Studienprogramm bzw. Mono-Studienprogramm erforderlichen Studienleistungen (in ECTS Credits) an der Theologischen Fakultät der UZH erbracht worden sein.
 
 **Verleihung des Mastergrades**
-
-<sup>1</sup> Der Mastergrad wird durch die Fakultät verliehen, wenn nach Massgabe der Rahmenverordnung und der Studienordnungen 120 ECTS Credits erworben worden sind. Davon muss mindestens die Hälfte der für das Major-Studienprogramm bzw. Mono-Studienprogramm erforderlichen Studienleistungen (in ECTS Credits) an der Theologischen Fakultät der UZH erbracht worden sein.
 
 <sup>2</sup> Die Verleihung des Grades erfolgt durch die Aushändigung der unterzeichneten Diplomurkunde.
 
@@ -633,10 +607,6 @@ Das Diploma Supplement ist eine standardisierte Erläuterung des Studienabschlus
 
 <sup>2</sup> Der Academic Record wird in deutscher Sprache ausgestellt. Es wird eine englische Übersetzung abgegeben.
 
-**13**
-
-- 1\. 7. 19 - 105
-
 ### 5. Abschnitt: Rechtsschutz
 
 #### § 57
@@ -658,6 +628,10 @@ Das Diploma Supplement ist eine standardisierte Erläuterung des Studienabschlus
 - a. Die Studierenden werden dieser Rahmenverordnung unterstellt und in Studienprogramme gemäss dieser Rahmenverordnung überführt.
 
 - b. Ist eine Überführung in ein Studienprogramm gemäss dieser Rahmenverordnung zugunsten der Studierenden nicht möglich, so vereinbart das Dekanat mit den Studierenden in allgemeiner Form oder in individuellen Studienvereinbarungen den weiteren Verlauf des Studiums. Dabei gelten die in den Studienordnungen festgelegten Zeiträume und Fristen.
+
+**13**
+
+- 1\. 7. 22 - 117
 
 - c. Alle bereits absolvierten und anrechenbaren Leistungen werden unter Vorbehalt von § 45 angerechnet. Die noch zu erbringenden Leistungen werden für die Studierenden in allgemeiner Form bekannt gegeben oder in besonderen Fällen mit den Studierenden vereinbart.
 
