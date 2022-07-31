@@ -4,13 +4,13 @@ number: "423.123"
 title: Verordnung über die Mittelschule
 short: Mittelschulverordnung
 language: de
-version: 2021-08-01
-valid_until: 2022-07-31
-version_adopted: 2021-05-05
+version: 2022-08-01
+valid_until: 2023-07-31
+version_adopted: 2022-05-04
 adopted: 2015-06-03
 in_force: 2016-07-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/423.123"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2991/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3214/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2991/pdf_file"
 
 (Mittelschulverordnung)
 
-Vom 03.06.2015 (Stand 01.08.2021)
+Vom 03.06.2015 (Stand 01.08.2022)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -50,7 +50,7 @@ beschliesst:
 
 - a) das Gymnasium an sämtlichen Kantonsschulen,
 - b) die Handels- und die Informatikmittelschule an der Alten Kantonsschule Aarau und der Kantonsschule Baden,
-- c) die Fachmittelschule mit den Berufsfeldern Erziehung und Gestaltung, Gesundheit, Soziale Arbeit und Kommunikation sowie mit den Fachmaturitätslehrgängen Pädagogik, Gesundheit, Soziale Arbeit, Kommunikation und Gestaltung an der Neuen Kantonsschule Aarau und an der Kantonsschule Wettingen. An der Fachmittelschule Wohlen werden die vorerwähnten Berufsfelder und Fachmaturitätslehrgänge mit Ausnahme des Berufsfelds und des Fachmaturitätslehrgangs Kommunikation geführt.
+- c) die Fachmittelschule mit den Berufsfeldern Pädagogik, Gesundheit/Naturwissenschaften, Soziale Arbeit, Kommunikation und Information, Gestaltung und Kunst sowie mit den Fachmaturitätslehrgängen Pädagogik, Gesundheit/Naturwissenschaften, Soziale Arbeit, Kommunikation und Information sowie Gestaltung und Kunst an der Neuen Kantonsschule Aarau und an der Kantonsschule Wettingen. An der Fachmittelschule Wohlen werden die vorerwähnten Berufsfelder und Fachmaturitätslehrgänge mit Ausnahme der Berufsfelder und der Fachmaturitätslehrgänge Kommunikation und Information sowie Gestaltung und Kunst geführt.
 
 #### § 2
 
@@ -115,7 +115,7 @@ beschliesst:
 
 **Absenzen und Urlaub**
 
-<sup>1</sup> Das Absenzen- und Urlaubswesen ist in der von der Schulleitung zu erlassenden Schulordnung geregelt.
+<sup>1</sup> Das Absenzen- und Urlaubswesen ist in der von der Schulleitung erlassenen Schulordnung geregelt.
 
 #### § 7
 
@@ -186,17 +186,17 @@ beschliesst:
 
 **Aufnahme in die 1. Klasse des Gymnasiums**
 
-<sup>1</sup> Wer am Ende der Abschlussklasse der Bezirksschule in den Fächern und nach Berechnung gemäss Anhang 23 einen arithmetisch auf eine Dezimalstelle gerundeten Notendurchschnitt von mindestens 4,7 erzielt hat, wird definitiv in die 1. Klasse des Gymnasiums aufgenommen.
+<sup>1</sup> Wer am Ende der 3. Klasse der Bezirksschule in den Fächern und nach Berechnung gemäss Anhang 27 einen arithmetisch auf eine Dezimalstelle gerundeten Notendurchschnitt von mindestens 4,7 erzielt hat, wird definitiv in die 1. Klasse des Gymnasiums aufgenommen.
 
-<sup>2</sup> Wer am Ende des 1. Semesters der Abschlussklasse der Bezirksschule in den Fächern und nach Berechnung gemäss Anhang 24 einen arithmetisch auf eine Dezimalstelle gerundeten Notendurchschnitt von mindestens 4,7 erzielt hat und diesen Notendurchschnitt am Ende der Abschlussklasse der Bezirksschule nicht erreicht, wird provisorisch in die 1. Klasse des Gymnasiums aufgenommen.
+<sup>2</sup> Wer am Ende des 1. Semesters der 3. Klasse der Bezirksschule in den Fächern und nach Berechnung gemäss Anhang 27 einen arithmetisch auf eine Dezimalstelle gerundeten Notendurchschnitt von mindestens 4,7 erzielt hat und diesen Notendurchschnitt am Ende der 3. Klasse der Bezirksschule nicht erreicht, wird provisorisch in die 1. Klasse des Gymnasiums aufgenommen.
 
 #### § 15
 
 **Aufnahme in die 1. Klasse der Handels-, Informatik- oder Fachmittelschule**
 
-<sup>1</sup> Wer am Ende der Abschlussklasse der Bezirks- beziehungsweise Sekundarschule in den Fächern und nach Berechnung gemäss Anhang 23 beziehungsweise 25 einen arithmetisch auf eine Dezimalstelle gerundeten Notendurchschnitt von mindestens 4,4 beziehungsweise 5,3 erzielt hat, wird definitiv in die 1. Klasse der Handels-, Informatik- oder Fachmittelschule aufgenommen.
+<sup>1</sup> Wer am Ende der 3. Klasse der Bezirks- beziehungsweise Sekundarschule in den Fächern und nach Berechnung gemäss Anhang 27 einen arithmetisch auf eine Dezimalstelle gerundeten Notendurchschnitt von mindestens 4,4 beziehungsweise 5,3 erzielt hat, wird definitiv in die 1. Klasse der Handels-, Informatik- oder Fachmittelschule aufgenommen.
 
-<sup>2</sup> Wer am Ende des 1. Semesters der Abschlussklasse der Bezirks- beziehungsweise Sekundarschule in den Fächern und nach Berechnung gemäss Anhang 24 beziehungsweise 26 einen arithmetisch auf eine Dezimalstelle gerundeten Notendurchschnitt von mindestens 4,4 beziehungsweise 5,3 erzielt hat und diesen Notendurchschnitt am Ende der Abschlussklasse der Bezirks- beziehungsweise Sekundarschule nicht erreicht, wird provisorisch in die 1. Klasse der Handels-, Informatik- oder Fachmittelschule aufgenommen.
+<sup>2</sup> Wer am Ende des 1. Semesters der 3. Klasse der Bezirks- beziehungsweise Sekundarschule in den Fächern und nach Berechnung gemäss Anhang 27 einen arithmetisch auf eine Dezimalstelle gerundeten Notendurchschnitt von mindestens 4,4 beziehungsweise 5,3 erzielt hat und diesen Notendurchschnitt am Ende der 3. Klasse der Bezirks- beziehungsweise Sekundarschule nicht erreicht, wird provisorisch in die 1. Klasse der Handels-, Informatik- oder Fachmittelschule aufgenommen.
 
 #### § 16
 
@@ -334,9 +334,9 @@ beschliesst:
 
 #### § 30
 
-**Aufnahme in den Lehrgang für Spitzensportlerinnen und -sportler**
+**Aufnahme in den Lehrgang für Leistungssportlerinnen und -sportler**
 
-<sup>1</sup> Schülerinnen und Schüler, die in die 1. Klasse des Gymnasiums eintreten, können im Rahmen der verfügbaren Plätze den Lehrgang für Spitzensportlerinnen und -sportler absolvieren, sofern sie die Eignungsabklärung erfolgreich durchlaufen.
+<sup>1</sup> Schülerinnen und Schüler, die in die 1. Klasse des Gymnasiums eintreten, können im Rahmen der verfügbaren Plätze den Lehrgang für Leistungssportlerinnen und -sportler absolvieren, sofern sie die Eignungsabklärung erfolgreich durchlaufen.
 
 ### 3.6. Aufnahme ins Hospitium und Übertritt ins Definitivum
 
@@ -370,22 +370,25 @@ beschliesst:
 
 ### 3.8. Aufnahme in Fachmaturitätslehrgänge
 
+#### § 33a
+
+**Allgemeines**
+
+<sup>1</sup> Die Aufnahme in einen Fachmaturitätslehrgang erfolgt in der Regel unmittelbar nach Erwerb des Fachmittelschulausweises. In begründeten Fällen kann die Schulleitung die Aufnahme nach einem Unterbruch von höchstens zwei Jahren seit dem Erwerb des Fachmittelschulausweises gestatten.
+
 #### § 34
 
 **Aufnahme in den Fachmaturitätslehrgang Pädagogik**
 
-<sup>1</sup> Wer den Fachmittelschulausweis im Berufsfeld Erziehung und Gestaltung erworben hat, wird in den Fachmaturitätslehrgang Pädagogik aufgenommen.
+<sup>1</sup> In den Fachmaturitätslehrgang Pädagogik wird aufgenommen, wer den Fachmittelschulausweis im Berufsfeld Pädagogik oder den Fachmittelschulausweis in einem andern Berufsfeld erworben hat und während zwei Jahren Pädagogik/Psychologie als berufsfeldbezogenes Fach oder Freifach belegt sowie die selbstständige Arbeit absolviert hat, die thematisch sowohl im eigenen Berufsfeldbereich als auch im Bereich Pädagogik angesiedelt ist.
 
-<sup>2</sup> Wer den Fachmittelschulausweis in einem anderen Berufsfeld erworben hat, muss während zwei Jahren Psychologie/Pädagogik als berufsfeldbezogenes Fach oder Freifach belegt haben sowie entweder
-
-- a) Musik als Grundlagenfach und mindestens ein Jahr Bildnerisches Gestalten als Freifach oder
-- b) Bildnerisches Gestalten als Grundlagenfach und mindestens ein Jahr Instrumentalunterricht oder Musik als Freifach
+<sup>2</sup> …
 
 #### § 35
 
-**Aufnahme in den Fachmaturitätslehrgang Gesundheit**
+**Aufnahme in den Fachmaturitätslehrgang Gesundheit/Naturwissenschaften**
 
-<sup>1</sup> In den Fachmaturitätslehrgang Gesundheit wird aufgenommen, wer den Fachmittelschulausweis im Berufsfeld Gesundheit oder wer den Fachmittelschulausweis in einem anderen Berufsfeld erworben hat und während zwei Jahren Psychologie/Pädagogik als berufsfeldbezogenes Fach oder Freifach besucht und die selbständige Arbeit im Bereich Naturwissenschaften mit Praktikum absolviert hat.
+<sup>1</sup> In den Fachmaturitätslehrgang Gesundheit/Naturwissenschaften wird aufgenommen, wer den Fachmittelschulausweis im Berufsfeld Gesundheit/Naturwissenschaften oder den Fachmittelschulausweis in einem anderen Berufsfeld erworben hat und während zwei Jahren Pädagogik/Psychologie als berufsfeldbezogenes Fach oder Freifach belegt sowie die selbstständige Arbeit absolviert hat, die thematisch sowohl im eigenen Berufsfeldbereich als auch im Bereich Gesundheit/Naturwissenschaften angesiedelt ist.
 
 <sup>2</sup> Schülerinnen und Schüler, die das Praktikum, das Einführungs- und das Vertiefungsmodul des Fachmaturitätslehrgangs im Rahmen des Bildungsgangs Pflegefachfrau/Pflegefachmann HF oder Fachfrau/Fachmann Operationstechnik HF an der Höheren Fachschule Gesundheit und Soziales Aarau absolvieren, müssen einen Fachmittelschulausweis besitzen und das Zulassungsverfahren zu einem der vorerwähnten Bildungsgänge erfolgreich durchlaufen haben, um in den Fachmaturitätslehrgang aufgenommen zu werden.
 
@@ -393,21 +396,21 @@ beschliesst:
 
 **Aufnahme in den Fachmaturitätslehrgang Soziale Arbeit**
 
-<sup>1</sup> In den Fachmaturitätslehrgang Soziale Arbeit wird aufgenommen, wer den Fachmittelschulausweis im Berufsfeld Soziale Arbeit oder wer den Fachmittelschulausweis in einem anderen Berufsfeld erworben hat und während zwei Jahren Psychologie/Pädagogik als berufsfeldbezogenes Fach oder Freifach besucht und die selbständige Arbeit im Bereich Sozialwissenschaften absolviert hat.
+<sup>1</sup> In den Fachmaturitätslehrgang Soziale Arbeit wird aufgenommen, wer den Fachmittelschulausweis im Berufsfeld Soziale Arbeit oder den Fachmittelschulausweis in einem anderen Berufsfeld erworben hat und während zwei Jahren Pädagogik/Psychologie als berufsfeldbezogenes Fach oder Freifach belegt sowie die selbstständige Arbeit absolviert hat, die thematisch sowohl im eigenen Berufsfeldbereich als auch im Bereich Soziale Arbeit angesiedelt ist.
 
 <sup>2</sup> Schülerinnen und Schüler, die das Praktikum, das Einführungs- und das Vertiefungsmodul des Fachmaturitätslehrgangs im Rahmen des Bildungsgangs Sozialpädagogin/Sozialpädagoge HF an der Höheren Fachschule Gesundheit und Soziales Aarau absolvieren, müssen einen Fachmittelschulausweis besitzen und das Zulassungsverfahren zum vorerwähnten Bildungsgang erfolgreich durchlaufen haben, um in den Fachmaturitätslehrgang aufgenommen zu werden.
 
 #### § 37
 
-**Aufnahme in den Fachmaturitätslehrgang Kommunikation**
+**Aufnahme in den Fachmaturitätslehrgang Kommunikation und Information**
 
-<sup>1</sup> In den Fachmaturitätslehrgang Kommunikation wird aufgenommen, wer den Fachmittelschulausweis im Berufsfeld Kommunikation oder wer den Fachmittelschulausweis in einem anderen Berufsfeld erworben hat und während zwei Jahren (2. und 3. Klasse) Informatik als berufsfeldbezogenes Fach oder Freifach besucht und die selbständige Arbeit im Bereich Medienkunde absolviert hat.
+<sup>1</sup> In den Fachmaturitätslehrgang Kommunikation und Information wird aufgenommen, wer den Fachmittelschulausweis im Berufsfeld Kommunikation und Information oder den Fachmittelschulausweis in einem anderen Berufsfeld erworben hat und während mindestens einem Jahr Medienkunde als berufsfeldbezogenes Fach oder Freifach belegt sowie die selbstständige Arbeit absolviert hat, die thematisch sowohl im eigenen Berufsfeldbereich als auch im Bereich Kommunikation und Information angesiedelt ist.
 
 #### § 38
 
-**Aufnahme in den Fachmaturitätslehrgang Gestaltung**
+**Aufnahme in den Fachmaturitätslehrgang Gestaltung und Kunst**
 
-<sup>1</sup> In den Fachmaturitätslehrgang Gestaltung wird aufgenommen, wer einen Fachmittelschulausweis erworben und das Aufnahmeverfahren in das gestalterische Propädeutikum an der Schule für Gestaltung Aargau erfolgreich durchlaufen hat.
+<sup>1</sup> In den Fachmaturitätslehrgang Gestaltung und Kunst wird aufgenommen, wer einen Fachmittelschulausweis erworben und das Aufnahmeverfahren in das gestalterische Propädeutikum an der Schule für Gestaltung Aargau erfolgreich durchlaufen hat oder einen Fachmittelschulausweis im Berufsfeld Gestaltung und Kunst erworben hat und über eine Praktikumsstelle im Bereich Gestaltung oder Kunst verfügt.
 
 ## 4. Lehrpersonen und weitere Mitarbeitende
 
@@ -553,7 +556,7 @@ beschliesst:
 
 **Organisation**
 
-<sup>1</sup> Die Rektorinnen und Rektoren der aargauischen Mittelschulen sowie die Rektorin beziehungsweise der Rektor der Aargauischen Maturitätsschule für Erwachsene bilden die Rektorenkonferenz.
+<sup>1</sup> Die Rektorinnen und Rektoren der aargauischen Mittelschulen bilden die Rektorenkonferenz.
 
 <sup>2</sup> Die Präsidentin beziehungsweise der Präsident der Rektorenkonferenz ist die direkte Ansprechperson des BKS. Sie beziehungsweise er ist zuständig für den Informationsfluss zwischen der Rektorenkonferenz und der vorgesetzten Behörde.
 
@@ -610,7 +613,7 @@ beschliesst:
 
 <sup>7</sup> …
 
-<sup>8</sup> Für Schülerinnen und Schüler, die den Lehrgang für Spitzensportlerinnen und Spitzensportler vor dem Schuljahr 2016/17 begonnen haben und ihre Maturitätsprüfung nach 2017 ablegen, gilt die Stundentafel gemäss Anhang 3a.
+<sup>8</sup> …
 
 <sup>9</sup> …
 
