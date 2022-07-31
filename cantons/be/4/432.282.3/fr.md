@@ -1,0 +1,62 @@
+---
+canton: BE
+number: "432.282.3"
+title: "Ordonnance de Direction concernant le Plan d'études du canton de Berne sur l'offre spécialisée de l'école obligatoire"
+short: OD PE OSEO
+language: fr
+version: 2022-08-01
+version_adopted: 2022-06-22
+adopted: 2022-06-22
+in_force: 2022-08-01
+url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/432.282.3"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2631/pdf_file"
+---
+
+> Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
+
+# Ordonnance de Direction concernant le Plan d'études du canton de Berne sur l'offre spécialisée de l'école obligatoire
+
+(OD PE OSEO)
+
+du 22.06.2022 (état au 01.08.2022)
+
+La Direction de l'instruction publique et de la culture du canton de Berne,
+
+vu les articles 12a et 74, alinéa 2 de la loi du 19 mars 1992 sur l'école obligatoire (LEO)[^ingress-1] et l'article 27, alinéa 1, lettre b de l'ordonnance du 10 janvier 2013 sur l'école obligatoire (OEO)[^ingress-2],
+
+arrête:
+
+[^ingress-1]: RSB [432.210](https://www.belex.sites.be.ch/data/432.210/fr)
+[^ingress-2]: RSB [432.211.1](https://www.belex.sites.be.ch/data/432.211.1/fr)
+
+#### Art. 1
+
+**Champ d'application**
+
+<sup>1</sup> Le plan d'études du canton de Berne sur l'offre spécialisée de l'école obligatoire, publié à l'annexe 1, règle les conditions générales contraignantes de l'offre spécialisée francophone de l'école obligatoire dans le canton.
+
+#### Art. 2
+
+**Entrée en vigueur**
+
+<sup>1</sup> La présente ordonnance de Direction entre en vigueur le 1<sup>er</sup> août 2022.
+
+## A1 Annexe 1: Plan d'études du canton de Berne sur l'offre spécialisée de l'école obligatoire
+
+#### Art. A1-1
+
+**Première version**
+
+<sup>1</sup> Conformément à l’article 5 de la loi du 18 janvier 1993 sur les publications officielles (LPO)[^A11-1], le présent acte législatif est publié dans le Recueil officiel des lois bernoises sous la forme d’un renvoi uniquement.
+
+Il est disponible sur Internet à l'adresse:
+
+[https://www.bvsa.bkd.be.ch/fr/start/themen/lehrplan-bvsa.html](https://www.bvsa.bkd.be.ch/fr/start/themen/lehrplan-bvsa.html)
+
+[^A11-1]: RSB [103.1](https://www.belex.sites.be.ch/data/103.1/fr)
+
+Berne, le 22 juin 2022
+
+La directrice de l'instruction publique et de la culture: Häsler
+
+22-060
