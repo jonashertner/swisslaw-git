@@ -3,402 +3,530 @@ canton: ZH
 number: "415.423.61"
 title: Rahmenverordnung über den Joint Degree Masterstudiengang «Quantitative Finance» an der Wirtschaftswissenschaftlichen Fakultät der Universität Zürich und am Departement Mathematik der ETH Zürich (RVO MSc QF UZH ETH Zürich)
 language: de
-nachtrag: "66"
-valid_until: 2022-08-01
+version: "2022-08-01"
+nachtrag: "117"
 adopted: 2021-11-08
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_423_61-2009_05_25-2009_08_01-066.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_423_61-2021_11_08-2022_08_01-117.html"
 text: pdf
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Rahmenverordnung über den Joint Degree Master-Studiengang «Quantitative Finance» an der Wirtschaftswissenschaftlichen Fakultät der Universität Zürich und am Departement Mathematik der ETH Zürich
+# Rahmenverordnung über den Joint Degree Masterstudiengang «Quantitative Finance» an der Wirtschaftswissenschaftlichen Fakultät der Universität Zürich und am Departement Mathematik der ETH Zürich (RVO MSc QF UZH ETH Zürich)
 
-(vom 25. Mai 2009)<sup>1</sup>
+(vom 8. November 2021)[^t-1],[^t-2]
 
 Der Universitätsrat beschliesst:
 
-### I. Allgemeine Bestimmungen
+[^t-1]: OS 77, 152; Begründung siehe ABl 2021-11-19.
+[^t-2]: Inkrafttreten: 1. August 2022.
+
+### 1. Abschnitt: Allgemeine Bestimmungen
 
 #### § 1
 
-**Anwendungsbereich**
+**Gegenstand**
 
-Diese Rahmenverordnung regelt den Joint Degree Master-Studiengang Quantitative Finance (Studiengang) an der Wirtschaftswissenschaftlichen Fakultät der Universität Zürich (WWF) und am Departement Mathematik der ETH Zürich (D-MATH).
+Diese Rahmenverordnung regelt den Joint-Degree-Masterstudiengang Quantitative Finance (im Folgenden: Joint QF-Master) der Wirtschaftswissenschaftlichen Fakultät (WWF) der Universität Zürich (UZH) und des Departements Mathematik der Eidgenössischen Technischen Hochschule Zürich (D-MATH ETH Zürich).
 
 #### § 2
 
-**Trägerschaft**
+**Anwendbares Recht**
 
-<sup>1</sup> Die WWF und das D-MATH sind gemeinsam Träger des Studiengangs, wobei der Studiengang administrativ der UZH angegliedert ist. Leading House ist die UZH.
+<sup>1</sup> Auf den Joint QF-Master finden diese Rahmenverordnung sowie die dazugehörige Studienordnung Anwendung.
 
-<sup>2</sup> Details zu Trägerschaft und Gremien sind in einer gemeinsamen Vereinbarung geregelt.
+<sup>2</sup> Sofern diese Rahmenverordnung keine Bestimmungen enthält, gelten subsidiär die Rahmenverordnung über die Bachelor- und Masterstudiengänge an der Wirtschaftswissenschaftlichen Fakultät der Universität Zürich vom 6. September 2021 (RVO WWF)[^2-1] und die entsprechende Studienordnung sowie die anwendbaren Bestimmungen in den allgemeinen Erlassen der UZH.
+
+<sup>3</sup> Für die Modalitäten, die im Zusammenhang mit der Erbringung von Studienleistungen an der ETH Zürich stehen, gelten die Erlasse der ETH Zürich, insbesondere die Leistungskontrollenverordnung ETH Zürich. Zudem gelten die anwendbaren Bestimmungen in den allgemeinen Erlassen ETH Zürich.
+
+<sup>4</sup> Fragen, die nicht in den in Abs. 1–3 genannten Erlassen geregelt sind, werden durch den gemeinsamen Leitenden Ausschuss des Studiengangs entschieden und in geeigneter Form bekannt gegeben.
+
+[^2-1]: LS 415.423.11.
 
 #### § 3
 
-**Ausrichtung des Studiengangs**
+**Trägerschaft und Leading House**
 
-Der Studiengang vermittelt den Studierenden eine fortgeschrittene wissenschaftliche Bildung und die Fähigkeit, selbstständig wissenschaftlich zu arbeiten.
+<sup>1</sup> Die WWF und das D-MATH bilden gemeinsam die Trägerschaft des Joint QF-Masters.
 
-#### § 4
-
-**Titel**
-
-<sup>1</sup> Die WWF und die ETH Zürich verleihen für einen erfolgreich absolvierten Studiengang gemeinsam den akademischen Titel: Master of Science UZH ETH in Quantitative Finance. «Master of Science» wird mit «MSc» abgekürzt.
-
-<sup>2</sup> Der Titel kann mit dem Zusatz «Joint Degree University of Zurich and ETH Zurich» geführt werden.
-
-#### § 5
-
-**Studienordnung**
-
-Die WWF und die ETH Zürich erlassen gemeinsam eine Studienordnung für den Studiengang, in der insbesondere die Zulassungsbedingungen, das Zulassungsverfahren, die Anforderungen für den Masterabschluss, die Modalitäten der Prüfungen und Leistungsnachweise sowie die Vergabe von Kreditpunkten (Punkte) geregelt werden.
+<sup>2</sup> Leading House ist die UZH. Das Leading House ist für die Zulassung, Immatrikulation und Administration zuständig.
 
 **1**
 
-- 1\. 10. 09 - 66 § 6. <sup>1</sup> Zur Behandlung von Anträgen im Zusammenhang mit der Erbringung, Anerkennung und Anrechnung von Studienleistungen bestimmt die WWF in Absprache mit dem D-MATH eine Prüfungsdelegierte oder einen Prüfungsdelegierten.
+- 1\. 7. 22 - 117
 
-**Prüfungsdelegierte oder Prüfungsdelegierter**
+<sup>3</sup> Details zu Trägerschaft und Gremien sind in einer Vereinbarung zwischen den beiden Trägerhochschulen geregelt.
 
-<sup>2</sup> Die WWF überträgt der oder dem Prüfungsdelegierten die notwendigen Entscheidungsbefugnisse.
+#### § 4
 
-### II. Module und Kreditpunkte
+**Akademischer Grad**
+
+Die WWF und die ETH Zürich verleihen gemeinsam den akademischen Grad eines Masters. Der Grad lautet «Master of Science UZH ETH in Quantitative Finance», mit der Abkürzung «MSc UZH ETH».
+
+### 2. Abschnitt: Allgemeines zum Studium
+
+#### § 5
+
+**Studienziele**
+
+Der Joint QF-Master vermittelt den Studierenden vertiefte fachliche Kenntnisse und die Fähigkeit zum selbstständigen wissenschaftlichen und praktischen Arbeiten.
+
+#### § 6
+
+**Zusammensetzung des Studiengangs**
+
+<sup>1</sup> Der Joint QF-Master besteht aus einem Mono-Studienprogramm im Umfang von 90 ECTS Credits. Die beiden Trägerhochschulen erbringen je einen vergleichbaren Lehranteil.
+
+<sup>2</sup> Die Regelstudienzeit beträgt bei einem Vollzeitstudium drei Semester. Das Regelcurriculum sieht den Erwerb von mindestens 30 ECTS Credits pro Semester vor.
+
+<sup>3</sup> Die Studienordnung legt für den Joint QF-Master die Bestehensvoraussetzungen fest. Ein Regelcurriculum wird in geeigneter Weise publiziert.
+
+[^6-1]: LS 415.31.
 
 #### § 7
 
-**Kreditpunktesystem**
+**Zulassung**
 
-<sup>1</sup> Der Umfang der Studienleistungen wird mit dem europäischen Kreditpunktesystem (ECTS) dokumentiert.
+<sup>1</sup> Für die Zulassung zum Studiengang ist die Verordnung über die Zulassung zum Studium an der Universität Zürich (VZS)[^6-1] massgebend.
 
-<sup>2</sup> Das Curriculum wird so gestaltet, dass Vollzeit-Studierende 60 Punkte pro Jahr erwerben können. Ein Punkt entspricht einem Arbeitspensum von ca. 30 Stunden.
+<sup>2</sup> Die Studienordnung regelt die spezifischen Zulassungsvoraussetzungen.
 
 #### § 8
 
-**Module**
+**Studium und Behinderung**
 
-<sup>1</sup> Die Lerninhalte werden in inhaltlich und zeitlich kohärente Einheiten, die sogenannten Module\*, gegliedert. Die Module erstrecken sich in der Regel über ein Semester.
+<sup>1</sup> Bei Vorliegen einer ärztlich bescheinigten Behinderung oder chronischen Krankheit prüft die Fachstelle Studium und Behinderung der UZH, ob sich diese auf studienrelevante Aktivitäten auswirkt, und schlägt diesfalls nachteilsausgleichende Massnahmen vor. In Zweifelsfällen kann die Fachstelle eine Ärztin oder einen Arzt ihres Vertrauens beiziehen.
 
-<sup>2</sup> Für jedes bestandene Modul wird eine Anzahl von Kreditpunkten vergeben, die dem für das Bestehen des Moduls erforderlichen mittleren Aufwand entspricht.
+<sup>2</sup> Die oder der Prüfungsdelegierte kann auf Antrag durch die Studentin oder den Studenten semesterweise nachteilsausgleichende Massnahmen gewähren.
 
-<sup>3</sup> Für das Bestehen eines Moduls muss ein expliziter Leistungsnachweis erbracht werden. Die Vergabe von Punkten auf der Basis blosser Anwesenheit ist ausgeschlossen.
+<sup>3</sup> Handelt es sich um Lerneinheiten an der ETH Zürich, gelten für diese die Bestimmungen der ETH Zürich.
 
-<sup>4</sup> Die Punkte für ein Modul werden entweder vollständig oder gar nicht vergeben.
+<sup>4</sup> Die Gewährung rückwirkender Massnahmen ist ausgeschlossen.
 
 #### § 9
 
-**Modultypen**
+**Sprache**
 
-Es wird unterschieden zwischen:
+<sup>1</sup> Die Sprache der Lehrveranstaltungen ist grundsätzlich Englisch. Einzelne Veranstaltungen können auf Deutsch oder in einer anderen Landessprache erfolgen.
 
-- a. Pflichtmodulen, die für alle Studierenden obligatorisch sind;
+<sup>2</sup> Die Leistungsnachweise werden grundsätzlich in derjenigen Sprache durchgeführt und erbracht, in der die betreffenden Module durchgeführt werden.
 
-- b. Wahlpflichtmodulen, die aus einer vorgegebenen Liste auszuwählen sind.
+<sup>3</sup> Für einzelne Module können bestimmte Sprachkenntnisse vorausgesetzt werden.
 
 #### § 10
 
-**Information**
+**Urheberrecht an studentischen Arbeiten**
 
-Für jedes Modul wird in geeigneter Form bekannt gegeben, welche Qualifikationen es vermittelt, unter welchen Voraussetzungen es absolviert werden kann, wie viele Punkte erworben werden können und welche Leistungen für das Bestehen erforderlich sind.
+<sup>1</sup> Die Urheberrechte an studentischen Arbeiten gehören grundsätzlich den Studierenden.
+
+<sup>2</sup> Die Studierenden räumen der UZH mit Einreichung einer Arbeit die urheberrechtlichen Nutzungsrechte ein, soweit es für Verwaltungshandlungen wie Plagiatserkennung oder Archivierung notwendig ist.
+
+<sup>3</sup> Die Studierenden sind verpflichtet, vor der Veröffentlichung einer Arbeit das betreuende Fakultätsmitglied zu informieren.
+
+<sup>4</sup> Das betreuende Fakultätsmitglied kann die Veröffentlichung mit Auflagen versehen.
 
 #### § 11
 
-**Erwerb der Abschlussqualifikation**
+**Plagiatskontrolle**
 
-Abschlussqualifikationen werden erworben, indem – durch Bestehen von Modulen und unter Einhaltung der in der Studienordnung genannten Bedingungen – die für den betreffenden Abschluss erforderliche Anzahl von Punkten erreicht wird.
+Studentische Arbeiten können zum Zweck der Überprüfung auf Plagiate unter Einsatz entsprechender Software bearbeitet werden. Zu diesem Zweck können geeignete Dienstleister im In- oder Ausland beauftragt werden.
 
-#### § 12
+§§ 12 und 13.[^11-1]
 
-**Leistungsbewertung**
+**Informationspflicht**
 
-<sup>1</sup> Die beim Absolvieren eines Moduls zu erbringenden Leistungen werden bewertet. Es wird zwischen benoteten und unbenoteten Modulen unterschieden.
+§ 14. <sup>1</sup> Alle studienrelevanten Informationen werden in geeigneter Weise bekannt gegeben und sind verbindlich.
 
-<sup>2</sup> Für benotete Module werden Noten von 6 bis 1 vergeben, wobei 6 die beste und 1 die geringste Leistung bezeichnet. Viertelnoten sind zulässig. Noten unter 4 sind ungenügend.
+<sup>2</sup> Die Studierenden sind verpflichtet, sich über sämtliche studienrelevante Belange, insbesondere über die für sie geltenden Erlasse und Fristen, selbstständig zu informieren.
 
-<sup>3</sup> Ein benotetes Modul gilt als bestanden, wenn im zugehörigen Leistungsnachweis eine Note von 4 oder besser erzielt worden ist.
+[^11-1]: Aufgehoben durch URB vom 28. Februar 2022 (OS 77, 219; ABl 2022-03-18). In Kraft seit 1. August 2022.
 
-<sup>4</sup> Bei unbenoteten Modulen wird beim Leistungsnachweis zwischen «bestanden» und «nicht bestanden» unterschieden.
-
-#### § 13
-
-**Wiederholung**
-
-<sup>1</sup> Ein nicht bestandenes Modul kann beliebig oft wiederholt werden, sofern das Modul weiter im Lehrangebot ist und allfällige zeitliche Restriktionen gemäss § 28 sowie die Höchstgrenze für die Gesamtzahl der Fehlversuche gemäss § 31 eingehalten werden. Jeder nicht bestandene Leistungsnachweis zählt als Fehlversuch. Es besteht kein Anrecht auf eine unmittelbare Wiederholung nach einem nicht bestandenen Modul.
-
-<sup>2</sup> Eine nicht genügende Masterarbeit kann einmal wiederholt werden, wobei ein neues Thema gestellt wird.
-
-<sup>3</sup> Wurde ein Modul bestanden, so können für das gleiche oder ein inhaltlich ähnliches Modul keine weiteren Punkte erworben werden. Ausserdem ist es nicht möglich, durch erneutes Absolvieren solcher Module eine bessere Benotung zu erreichen. In Zweifelsfällen entscheidet die oder der Prüfungsdelegierte über die Ähnlichkeit von Modulen, insbesondere im Zusammenhang mit § 15.
-
-#### § 14
-
-**Leistungsausweis**
-
-<sup>1</sup> Nach Abschluss jedes Semesters erhalten die Studierenden einen Leistungsausweis («Transcript of Records») ihrer bisherigen Studienleistungen. Dieser enthält eine Aufstellung über alle bisher absolvierten Module mit den dafür vergebenen Punkten und Noten. Er weist sowohl die bestandenen als auch die nicht bestandenen Module aus.
-
-<sup>2</sup> Allfällige Unstimmigkeiten bezüglich der neu ausgewiesenen Leistungen sind dem Dekanat innerhalb von 30 Tagen schriftlich anzuzeigen. Der Entscheid des Dekanats unterliegt dem Rekurs an die Rekurskommission der Zürcher Hochschulen.
-
-**3**
-
-- 1\. 10. 09 - 66
-
-### III. Anerkennung oder Anrechnung von Leistungen
+### 3. Abschnitt: Module und Leistungsnachweise
 
 #### § 15
 
-**Anerkennung oder Anrechnung von Leistungen**
+**Module**
 
-<sup>1</sup> Auf Antrag kann die oder der Prüfungsdelegierte Studienleistungen, die auf Master-Niveau ausserhalb dieses Studiengangs, an einer anderen Fakultät bzw. einem anderen Departement oder einer anderen anerkannten universitären Hochschule erbracht worden sind, anerkennen.
+<sup>1</sup> Ein Modul ist eine inhaltlich und zeitlich abgeschlossene Lerneinheit, die sich aus einer oder mehreren Lehrveranstaltungen zusammensetzt und sich über höchstens zwei Semester erstrecken kann.
 
-<sup>2</sup> Bei der Anerkennung und Anrechnung ausserhalb der Lehrbereiche des Studiengangs erbrachter Leistungen prüft die oder der Prüfungsdelegierte, ob die zur Anrechnung vorgesehenen Module den Bestimmungen dieser Rahmenordnung und der zugehörigen Studienordnung entsprechen.
+<sup>2</sup> Das Absolvieren eines Moduls kann von Voraussetzungen abhängig gemacht werden.
 
-<sup>3</sup> Leistungen, die vor Aufnahme oder während des Studienganges erbracht wurden, kann die oder der Prüfungsdelegierte an den Masterabschluss anrechnen, sofern es sich um gleichwertige Leistungen handelt.
+<sup>3</sup> Die Zahl der Teilnehmenden eines Moduls kann beschränkt und/ oder auf eine Zielgruppe eingeschränkt werden.
 
-<sup>4</sup> Es können maximal 15 Punkte an den Masterabschluss angerechnet werden. Vorbehalten bleiben:
+**3**
 
-- a. Ausnahmen im Falle eines Übertritts aus dem Joint-Degree-Weiterbildungsstudiengang Master of Advanced Studies UZH ETH in Finance (MAS Finance) gemäss § 39;
-
-- b. die Bestimmungen von § 28 Abs. 2 und § 29 Abs. 2.
-
-<sup>5</sup> Es werden sowohl Erfolge als auch Fehlversuche angerechnet.
-
-<sup>6</sup> Für einen bereits erworbenen Bachelor- oder Masterabschluss angerechnete Punkte können nicht nochmals für diesen Studiengang angerechnet werden.
-
-<sup>7</sup> Es obliegt den Studierenden, die notwendigen Unterlagen beizubringen.
-
-### IV. Leistungsnachweise
-
-#### § 16
-
-**Leistungsnachweise**
-
-<sup>1</sup> Ein Modul gilt dann als bestanden, wenn der dazu gehörige Leistungsnachweis mit einer genügenden Note oder mit «bestanden» bewertet worden ist. Punkte zu einem Modul werden entweder vollständig oder gar nicht vergeben.
-
-<sup>2</sup> Leistungsnachweise bestehen insbesondere aus schriftlichen oder mündlichen Prüfungen, Referaten, schriftlichen Übungen oder schriftlichen Arbeiten.
-
-<sup>3</sup> Handelt es sich um Module bzw. Lehrveranstaltungen der ETH Zürich oder anderer universitärer Hochschulen, so gelten für die Form des Leistungsnachweises die Bestimmungen der betreffenden Universität.
+- 1\. 7. 22 - 117 § 16. Die Module und alle damit zusammenhängenden studienrelevanten Angaben werden in das Vorlesungsverzeichnis aufgenommen.
 
 #### § 17
 
-**An- und Abmeldung**
+**Modulangaben im Vorlesungsverzeichnis**
 
-<sup>1</sup> Für das Absolvieren jedes Moduls ist eine Anmeldung erforderlich. Modalitäten werden in der Studienordnung geregelt und in geeigneter Form bekannt gegeben.
+**Modultypen**
 
-<sup>2</sup> Die Studierenden können sich nur dann für ein Modul anmelden, wenn sie die Voraussetzungen erfüllen, die für das betreffende Modul aufgeführt sind. In begründeten Einzelfällen kann die oder der Prüfungsdelegierte Ausnahmen bewilligen.
+Es wird unterschieden zwischen folgenden Modultypen:
 
-<sup>3</sup> Die Abmeldung von einem Modul ohne Angabe von Gründen ist nur bis zu dem für das betreffende Modul genannten Termin möglich.
+- a. Pflichtmodule: Module, die für alle Studierenden des Joint QF-Masters gemäss Studienordnung obligatorisch zu absolvieren sind,
 
-<sup>4</sup> Nicht fristgerechte An- und Abmeldungen werden nicht entgegengenommen. Über Ausnahmen in Härtefällen entscheidet die oder der Prüfungsdelegierte.
+- b. Wahlpflichtmodule: Module, die aus einem vorgegebenen Bereich im vorgegebenen Umfang gemäss Studienordnung auszuwählen sind,
 
-<sup>5</sup> Handelt es sich um Leistungsnachweise an der ETH Zürich oder an anderen universitären Hochschulen, so gelten für die An- und Abmeldung die Bestimmungen der betreffenden Universität.
+- c. Wahlmodule: Module, die gemäss Studienordnung aus einem umschriebenen Bereich frei wählbar sind.
 
 #### § 18
 
-**Unvorhersehbare Verhinderung, Abbruch und unentschuldigtes Fernbleiben**
+**Modulverantwortliche**
 
-<sup>1</sup> Tritt vor Beginn eines Leistungsnachweises ein zwingender, unvorhersehbarer und unabwendbarer Verhinderungsgrund ein, ist dem Dekanat unverzüglich ein schriftlich begründetes Abmeldegesuch einzureichen. Tritt ein solcher Verhinderungsgrund unmittelbar vor oder während eines Leistungsnachweises ein, so ist dies der Prüferin oder dem Prüfer schriftlich mitzuteilen. Das Abmeldungsgesuch bzw. die schriftliche Mitteilung ist innerhalb von zwei Arbeitstagen zusammen mit den entsprechenden Bestätigungen (z.B. Arztzeugnisse) dem Dekanat einzureichen. Werden medizinische Gründe geltend gemacht, ist ein ärztliches Zeugnis vorzulegen. In Zweifelsfällen kann die oder der Prüfungsdelegierte eine Ärztin oder einen Arzt ihres Vertrauens beiziehen.
+Die Studienprogrammdirektorin oder der Studienprogrammdirektor bestimmt für sämtliche Module Modulverantwortliche, die für den Inhalt und die Organisation der Module einschliesslich Leistungsnachweis verantwortlich sind.
 
-<sup>2</sup> Die verspätete Geltendmachung von Abmeldungsgründen, die sich auf einen bereits abgelegten Leistungsnachweis beziehen, ist ausgeschlossen.
+#### § 19
 
-<sup>3</sup> Über die Genehmigung einer Abmeldung oder eines Abbruchs des Leistungsnachweises entscheidet die oder der Prüfungsdelegierte. Wird das Abmeldegesuch nicht bewilligt, gilt der Leistungsnachweis als nicht bestanden.
+**An- und Abmeldung von Modulen**
 
-<sup>4</sup> Bleibt eine Kandidatin oder ein Kandidat einem Leistungsnachweis unabgemeldet fern, gilt dieser als nicht bestanden.
+<sup>1</sup> Um ein Modul absolvieren zu können, ist eine fristgerechte Buchung erforderlich. Die Buchung des Moduls ist an der UZH gleichzeitig auch die Anmeldung für den Leistungsnachweis.
 
-**5**
+<sup>2</sup> Die Abmeldung von einem Modul der UZH ist nur innerhalb der Abmeldefrist möglich.
 
-- 1\. 10. 09 - 66 § 19. Wer an der Wirtschaftswissenschaftlichen Fakultät der Universität Zürich, am Departement Mathematik der ETH Zürich oder an einer anderen Hochschule in einem gleichartigen Studienfach wegen Nichtbestehens von Prüfungen oder wegen Nichteinhaltens von Prüfungsreglementen endgültig abgewiesen worden ist, wird zu keiner Prüfung mehr zugelassen.
+<sup>3</sup> Handelt es sich um Module und Leistungsnachweise an der ETH Zürich, gelten für die An- und Abmeldung die Bestimmungen der ETH Zürich.
 
 #### § 20
 
-**Prüfungszulassung**
+**ECTS Credits**
 
-**Sprache**
+<sup>1</sup> Der Umfang der Studienleistungen wird mit dem Europäischen Kreditpunktesystem (European Credit Transfer and Accumulation System, ECTS) bemessen. Ein ECTS Credit entspricht einem erwarteten mittleren studentischen Arbeitsaufwand von 30 Stunden.
 
-<sup>1</sup> Die Prüfungsleistungen sind grundsätzlich in derjenigen Sprache zu erbringen, in der das betreffende Modul gelehrt wird. Die Verwendung von Deutsch, Englisch, Französisch oder Italienisch anstelle der vorgesehenen Sprache ist mit Zustimmung der Dozentin oder des Dozenten des betreffenden Moduls erlaubt.
+<sup>2</sup> Jedem Modul wird eine Anzahl von ECTS Credits (in ganzen Zahlen) zugewiesen, die dem für das erfolgreiche Absolvieren des Moduls erwarteten mittleren Arbeitsaufwand entspricht.
 
-<sup>2</sup> Die Masterarbeit ist in englischer Sprache abzufassen.
+<sup>3</sup> Für die Vergabe von ECTS Credits muss die oder der Studierende einen expliziten Leistungsnachweis bestehen. Die Vergabe von ECTS Credits auf Basis blosser Anwesenheit ist ausgeschlossen.
+
+<sup>4</sup> Die dem Modul zugewiesene Anzahl von ECTS Credits wird immer vollständig vergeben, eine anteilige Vergabe ist nicht zulässig.
 
 #### § 21
 
-**Betrugshandlungen**
+**Arten der Leistungsnachweise**
 
-<sup>1</sup> Bei Betrugshandlungen oder Unredlichkeiten, insbesondere wenn jemand unerlaubte Hilfsmittel verwendet, während der Durchführung eines Leistungsnachweises unerlaubterweise mit Dritten kommuniziert, ein Plagiat einreicht, die Masterarbeit nicht selbstständig verfasst hat oder die Zulassung gestützt auf unrichtige oder unvollständige Angaben erwirkt hat, erklärt die WWF den Leistungsnachweis oder die Masterarbeit als nicht bestanden.
+Leistungsnachweise sind insbesondere:
 
-<sup>2</sup> Der Fakultätsausschuss der WWF beschliesst, ob ein Disziplinarverfahren beantragt werden soll.
+- mündliche, schriftliche und/oder praktische Prüfungen, wobei die Leistungsnachweise auch in elektronischer Form durchgeführt werden können,
 
-<sup>3</sup> Wurde aufgrund des ungültig erklärten Leistungsnachweises oder der Masterarbeit ein Titel gemäss § 4 verliehen, so wird dieser durch Beschluss des Fakultätsausschusses für ungültig erklärt. Allfällig bereits ausgestellte Urkunden werden eingezogen.
+- schriftliche Arbeiten,
 
-### V. Zulassung
+- Referate,
+
+- dokumentierte aktive Teilnahme an den Lehrveranstaltungen,
+
+- dokumentierte praktische Arbeit,
+
+- belegte tutorielle Tätigkeit,
+
+- Studienleistungen im Rahmen einer E-Learning-Veranstaltung.
 
 #### § 22
 
-**Zulassung**
+**Masterarbeit**
 
-<sup>1</sup> Die Zulassung zum Studiengang setzt grundsätzlich einen Bachelorabschluss einer universitären Hochschule oder einen gleichwertigen Abschluss voraus.
+<sup>1</sup> Während des Masterstudiengangs ist eine Masterarbeit im Umfang von 30 ECTS Credits im Bereich Finanzwissenschaften und Mathematik zu verfassen. Die Masterarbeit gilt als Pflichtmodul und wird benotet.
 
-<sup>2</sup> Für alle Bewerberinnen und Bewerber sind die Zulassungsbedingungen identisch.
+<sup>2</sup> Die Masterarbeit kann entweder an der WWF UZH oder am D-MATH ETH Zürich erbracht werden.
 
-<sup>3</sup> Die Überprüfung der Abschlüsse für die Zulassung zum Masterstudium erfolgt nach Massgabe von Art. 3 der Bologna-Richtlinien der Schweizerischen Universitätskonferenz.
+<sup>3</sup> Die Masterarbeit ist in deutscher oder englischer Sprache zu verfassen. Die Studienordnung kann Ausnahmen vorsehen.
 
-<sup>4</sup> Die Zulassung erfolgt auf Bewerbung bei der WWF. Es besteht kein Rechtsanspruch auf Zulassung. Das Zulassungsverfahren ist in der Studienordnung geregelt.
+<sup>4</sup> Die Wiederholung einer ungenügenden Masterarbeit richtet sich nach §§ 27 ff.
 
-<sup>5</sup> Die Zulassung kann vom Nachweis ausreichender Sprachkenntnisse abhängig gemacht werden.
+<sup>5</sup> Die Studienordnung regelt die Einzelheiten, insbesondere die Ausarbeitungsmodalitäten, Betreuung und Begutachtung der Masterarbeit.
 
-<sup>6</sup> Für die Durchführung des Zulassungsverfahrens wird eine nach Aufwand des Verfahrens abgestufte Gebühr erhoben.
+<sup>6</sup> Gruppenarbeiten sind nicht zugelassen.
 
 #### § 23
 
-**Vorkenntnisse**
+**Organisation und Modalitäten der Leistungsnachweise**
 
-Abhängig von der Qualifikation und den Vorkenntnissen der Bewerberin oder des Bewerbers kann die oder der Prüfungsdelegierte die Zulassung vom Nachweis zusätzlicher Kenntnisse und Fähigkeiten abhängig machen, die vor Eintritt in den Studiengang nachgewiesen werden müssen (Zulassung mit Bedingungen) oder die während des Studiengangs erworben werden müssen (Zulassung mit Auflagen). Wer die Auflagen oder die Bedingungen nicht innerhalb der in der Studienordnung genannten Bestimmungen erfüllt, wird zum Studiengang nicht zugelassen oder vom Studiengang ausgeschlossen.
+<sup>1</sup> Die Modalitäten der Erbringung eines bestimmten Leistungsnachweises werden für alle Studierenden einheitlich festgelegt. Die Studienordnung kann besondere Regelungen für bestimmte Kategorien von Studierenden vorsehen.
+
+<sup>2</sup> Bei Leistungsnachweisen in Form einer mündlichen Prüfung ist eine Beisitzerin oder ein Beisitzer anwesend, die bzw. der über einen Studienabschluss mindestens auf Masterstufe verfügt. Es ist ein Protokoll zu führen.
+
+<sup>3</sup> Handelt es sich um Module bzw. Lehrveranstaltungen der ETH Zürich, gelten für die Form des Leistungsnachweises die Bestimmungen der ETH Zürich.
 
 #### § 24
 
-**Zulassungshindernisse**
+**Verhinderung, Abbruch, unentschuldigtes Fernbleiben**
 
-Wer an der WWF oder im D-MATH oder in einem gleichen oder gleichartigen Studiengang an einer anderen Hochschule wegen Nichtbestehens von Prüfungen oder der Masterarbeit oder wegen Nichteinhaltens von Reglementen endgültig abgewiesen worden ist, wird nicht zugelassen.
+<sup>1</sup> Tritt vor Beginn der Durchführung eines Leistungsnachweises ein zwingender, unvorhersehbarer und unabwendbarer Verhinderungsgrund ein, oder liegt ein bewilligtes Urlaubs- oder Sistierungsgesuch vor, ist dies der oder dem Prüfungsdelegierten mitzuteilen.
 
-### VI. Studienstruktur
+<sup>2</sup> Tritt ein solcher Verhinderungsgrund unmittelbar vor oder während der Durchführung eines Leistungsnachweises ein, ist dies der Prüfungsaufsicht unverzüglich mitzuteilen, und anschliessend ist eine Ärztin oder ein Arzt aufzusuchen.
+
+**5**
+
+- 1\. 7. 22 - 117
+
+<sup>3</sup> Die nachträgliche Geltendmachung von Verhinderungsgründen, die sich auf einen bereits abgelegten Leistungsnachweis beziehen, ist grundsätzlich ausgeschlossen.
 
 #### § 25
 
-**Umfang des Masterstudiums**
+**Verfahren bei Verhinderung, Abbruch, unentschuldigtem Fernbleiben**
 
-Für den Masterabschluss müssen insgesamt 90 Punkte erworben werden. Bei einem Vollzeitstudium entspricht dies einer Studiendauer von 1½ Jahren.
+<sup>1</sup> In jedem Fall ist ein schriftlich begründetes Abmeldungsgesuch spätestens fünf Arbeitstage nach dem Termin des Leistungsnachweises zusammen mit den entsprechenden Bestätigungen (z.B. Arztzeugnis) bei der oder dem Prüfungsdelegierten einzureichen.
+
+<sup>2</sup> Bei Leistungsnachweisen, die sich über einen längeren Zeitraum erstrecken (insbesondere schriftliche Arbeiten), kann vor Ablauf der Abgabefrist ein Gesuch um Fristverlängerung gestellt werden.
+
+<sup>3</sup> Die oder der Prüfungsdelegierte entscheidet über die Bewilligung des Gesuchs. Wird das Gesuch nicht bewilligt, gilt der Leistungsnachweis als nicht bestanden.
+
+<sup>4</sup> In Zweifelsfällen kann die oder der Prüfungsdelegierte eine Vertrauensärztin oder einen Vertrauensarzt einbeziehen.
+
+<sup>5</sup> Bleibt die oder der Studierende einem Leistungsnachweis ohne Abmeldung fern oder reicht sie oder er ein Gesuch verspätet ein, gilt der Leistungsnachweis als nicht bestanden.
 
 #### § 26
 
-**Gebiete**
+**Leistungsbewertung**
 
-<sup>1</sup> Der Studiengang umfasst mindestens 45 Punkte (ohne die Masterarbeit) aus den Bereichen der Finanzwissenschaften und der Mathematik.
+<sup>1</sup> Leistungsnachweise werden entweder benotet oder mit «bestanden» / «nicht bestanden» bewertet.
 
-<sup>2</sup> Die Studienordnung regelt insbesondere die inhaltlichen Bedingungen für den Erwerb von Punkten in bestimmten Gebieten und die Veranstaltungsformen.
+<sup>2</sup> Die Benotung der Leistungsnachweise erfolgt auf einer Skala von 1 bis 6, wobei 6 die beste und 1 die schlechteste Note bezeichnet. Grundsätzlich erfolgt die Benotung in Halbnotenschritten, Viertelnoten sind zulässig.
+
+<sup>3</sup> Der Leistungsnachweis gilt als bestanden, wenn mindestens die Note 4 erreicht wurde.
 
 #### § 27
 
-**Masterarbeit**
+**Wiederholung von Modulen allgemein**
 
-<sup>1</sup> Als Bestandteil des Studiengangs ist eine Masterarbeit in englischer Sprache im Umfang von 30 Punkten anzufertigen. Sie ist eine durch die Kandidatin oder den Kandidaten selbstständig abzufassende schriftliche Arbeit, welche eine Thematik der Finanzwissenschaften und der Mathematik behandelt.
+<sup>1</sup> Je nach Modul kann entweder das ganze Modul oder nur der Leistungsnachweis wiederholt werden. Die Studienordnung bestimmt die Wiederholungsmodalitäten und legt insbesondere fest, in welchen Fällen das ganze Modul wiederholt werden muss.
 
-**7**
+<sup>2</sup> Für die Teilnahme an einer Wiederholung des Moduls oder des Leistungsnachweises ist eine verbindliche Buchung erforderlich.
 
-- 1\. 10. 09 - 66
+<sup>3</sup> Ein bestandenes oder definitiv nicht bestandenes Modul kann nicht wiederholt oder erneut absolviert werden, auch nicht im Rahmen eines anderen Studienprogramms.
 
-<sup>2</sup> Die Masterarbeit wird durch eine Professorin oder einen Professor des Lehrbereichs Ökonomie der WWF oder des D-MATH betreut, die oder der stimmberechtigtes Mitglied der Fakultät bzw. des D-MATH ist.
+<sup>4</sup> Es besteht kein Anspruch auf unmittelbare Wiederholung.
 
-<sup>3</sup> Die Frist für das Verfassen der Masterarbeit beträgt sechs Monate. Verspätet eingereichte Masterarbeiten gelten als nicht bestanden.
-
-<sup>4</sup> Wird die Kandidatin oder der Kandidat nach Antritt der Masterarbeit ganz oder teilweise arbeitsunfähig, oder verhindern andere, nicht in der Gewalt der Kandidatin oder des Kandidaten stehende Gründe eine fristgerechte Abgabe der Arbeit, so entscheidet die oder der Prüfungsdelegierte über eine Verlängerung der Frist oder über einen Abbruch der Masterarbeit. Mit Bewilligung abgebrochene Masterarbeiten gelten als nicht angetreten.
-
-### VII. Studienabschluss
+<sup>5</sup> Handelt es sich um Module bzw. Lehrveranstaltungen der ETH Zürich, gelten für die Form des Leistungsnachweises die Bestimmungen der ETH Zürich.
 
 #### § 28
 
-**Anmeldung zum Masterabschuss**
+**Wiederholung von Pflichtmodulen**
 
-<sup>1</sup> Wenn die Kandidatin oder der Kandidat die für den Masterabschluss erforderlichen Studienleistungen erbracht hat, meldet sie oder er sich im Dekanat für den Masterabschluss an. Die Modalitäten der Anmeldung werden in geeigneter Form bekannt gegeben.
+<sup>1</sup> Ein nicht bestandenes Pflichtmodul kann einmal wiederholt werden. Eine Substitution ist nicht möglich.
 
-<sup>2</sup> Für den Masterabschluss können nur Punkte angerechnet werden, deren Erwerb nicht mehr als fünf Jahre zurückliegt. Stichtage sind der Tag der Anmeldung zum Masterabschluss einerseits und der letzte Tag des Semesters, in dem ein Punkt erworben wurde, andererseits.
-
-<sup>3</sup> In begründeten Fällen kann die oder der Prüfungsdelegierte die Anrechnung von Punkten, die zu einem früheren Zeitpunkt erworben worden sind, bewilligen.
+<sup>2</sup> Wurden alle Wiederholungsmöglichkeiten erfolglos ausgeschöpft, gilt das Pflichtmodul als definitiv nicht bestanden. Es erfolgt eine endgültige Abweisung nach § 33 und Sperre nach § 34.
 
 #### § 29
 
-**Masterabschluss**
+**Wiederholung von Modulen im Wahlpflicht- und Wahlbereich**
 
-<sup>1</sup> Das Masterstudium ist erfolgreich abgeschlossen, wenn allfällige Auflagen fristgerecht erfüllt sind und unter Einhaltung der in der Studienordnung genannten Bedingungen insgesamt mindestens 90 Punkte erworben worden sind, die gemäss § 28 Abs. 2 anrechenbar sind.
+<sup>1</sup> Nicht bestandene Wahlpflicht- und Wahlmodule können im Rahmen der höchstens zulässigen Anzahl Fehlversuche einmal wiederholt oder substituiert werden. Eine Wiederholung ist nur möglich, sofern das Modul erneut angeboten wird.
 
-<sup>2</sup> Über die erforderliche Mindestpunktzahl hinaus können bis zu 15 weitere Punkte für den Masterabschluss angerechnet werden, sofern die in dieser Rahmenverordnung und der Studienordnung genannten Bedingungen erfüllt sind.
+<sup>2</sup> Die Anzahl der höchstens zulässigen Fehlversuche wird in der Studienordnung festgelegt.
+
+<sup>3</sup> Ist die Höchstzahl Fehlversuche überschritten, erfolgt eine endgültige Abweisung nach § 33 und Sperre nach § 34.
 
 #### § 30
 
-**Benotung und Prädikate**
+**Unlauteres Verhalten**
 
-<sup>1</sup> Der Notendurchschnitt ergibt sich aus dem mit der jeweiligen Anzahl Punkte gewichteten Durchschnitt der Einzelnoten aller für den Masterabschluss angerechneten bestandenen benoteten Module des Masterstudiengangs. Die Berechnung des Notendurchschnitts erfolgt exakt, das Ergebnis wird auf zwei Nachkommastellen gerundet.
+<sup>1</sup> Unlauteres Verhalten liegt bei der Vornahme von Betrugshandlungen oder Unredlichkeiten vor. Dazu gehören insbesondere das Mitbringen oder die Verwendung unerlaubter Hilfsmittel, die unerlaubte Kommunikation mit Dritten, das Einreichen eines Plagiats oder einer schriftlichen Prüfung oder Arbeit, die nicht selbstständig verfasst wurde.
 
-<sup>2</sup> Für besonders gute Abschlüsse werden aufgrund der erzielten Notendurchschnitte folgende Prädikate verliehen:
+<sup>2</sup> Liegt unlauteres Verhalten gemäss Abs. 1 vor, erklärt der Fakultätsausschuss der WWF den Leistungsnachweis für nicht bestanden und einen ausgestellten Leistungsausweis für ungültig. Bereits verliehene Grade werden durch den Fakultätsausschuss aberkannt. Sämtliche Dokumente, die nach dem unlauteren Verhalten ausgestellt wurden, werden eingezogen.
 
-- a. 5,5 bis 6: summa cum laude (mit Auszeichnung)
+<sup>3</sup> Der Fakultätsausschuss beschliesst, ob ein Disziplinarverfahren beantragt wird.
 
-- b. 5 bis unter 5,5: magna cum laude (sehr gut)
+<sup>4</sup> Zur Verhinderung unlauteren Verhaltens kann der Fakultätsausschuss vorgängig geeignete Massnahmen treffen.
 
-**Endgültige Abweisung**
+#### § 31
 
-§ 31. Wird die Masterarbeit auch im Wiederholungsfall als ungenügend bewertet oder sind in anderen Modulen, die für den Masterabschluss anrechenbar sind, insgesamt mehr als sechs Fehlversuche gemäss § 13 unternommen worden, so hat die betreffende Kandidatin oder der betreffende Kandidat die geforderten Studienleistungen endgültig nicht erbracht und wird vom Studiengang ausgeschlossen.
+**Akteneinsicht in Prüfungsunterlagen**
+
+Zur Sicherstellung der Geheimhaltung der Prüfungsfragen können die Herausgabe der Prüfungsunterlagen eingeschränkt oder verweigert, die Herstellung von Kopien oder Abschriften untersagt und die Dauer der Einsichtnahme beschränkt werden.
 
 #### § 32
 
-**Mindestleistungen bei Anrechnung**
+**Leistungsausweis**
 
-Wenn Studienleistungen, die an einer anderen Hochschule oder in einem anderen Studiengang erbracht worden sind, für den Masterabschluss angerechnet werden, so gelten zusätzlich zu den allgemeinen Bestimmungen von § 15 die folgenden Bedingungen:
+<sup>1</sup> Nach Abschluss eines Semesters werden die bestandenen und nicht bestandenen Module in einem Leistungsausweis dokumentiert. Studienleistungen, die nicht an der UZH oder ETH Zürich erbracht worden sind, werden entsprechend gekennzeichnet.
 
-- a. Mindestens 45 Punkte müssen im Rahmen dieses Studiengangs an der WWF oder am D-MATH erworben werden.
+<sup>2</sup> Der Leistungsausweis wird in deutscher Sprache ausgestellt. Es wird eine englische Übersetzung abgegeben.
 
-- b. Die Masterarbeit muss gemäss den Bestimmungen dieser Rahmenverordnung sowie der Studienordnung angefertigt werden. Die Punkte für die Masterarbeit können nicht auf die gemäss lit. a erforderlichen Punkte angerechnet werden.
+**7**
+
+- 1\. 7. 22 - 117
+
+### 4. Abschnitt: Endgültige Abweisung und Sperre
 
 #### § 33
 
-**Leistungen vor Aufnahme des Masterstudiums**
+**Endgültige Abweisung**
 
-<sup>1</sup> Studienleistungen, die vor Aufnahme des Studiengangs erbracht wurden, kann die oder der Prüfungsdelegierte für den Masterabschluss anrechnen, wenn es sich um Leistungen auf dem Niveau des Masterstudiums handelt.
-
-<sup>2</sup> Für einen Bachelorabschluss angerechnete Punkte können nicht nochmals für das Masterstudium angerechnet werden.
-
-### VIII. Zeugnis (Academic Record), Urkunde und Diplomzusatz
+Ist ein Pflichtmodul nach § 28 definitiv nicht bestanden oder ist die höchstens zulässige Anzahl Fehlversuche nach § 29 überschritten, verfügt die oder der Prüfungsdelegierte im Namen der Fakultät eine endgültige Abweisung aus dem Joint QF-Master.
 
 #### § 34
 
-**Dokumente**
+**Sperre**
 
-Die Absolventinnen und Absolventen des Studiengangs erhalten drei Dokumente: das Zeugnis (Academic Record), die Diplomurkunde und den Diplomzusatz (Diploma Supplement).
+Eine endgültige Abweisung von dem Studienprogramm nach § 33 bewirkt eine Sperre für den betreffenden Studiengang und alle nach Massgabe der Fakultät ähnlichen Studienprogramme an der UZH.
 
-**9**
+### 5. Abschnitt: Anerkennung und Anrechnung
 
-- 1\. 10. 09 - 66 § 35. <sup>1</sup> Nach der Promotionssitzung des Fakultätsausschusses der WWF wird der Kandidatin oder dem Kandidaten ein Zeugnis (Academic Record) zugestellt. Dieser enthält die Ergebnisse sämtlicher gemäss § 29 für den Masterabschluss angerechneten Module sowie den dabei erzielten Notendurchschnitt. Ferner werden mit entsprechenden Kennzeichnungen alle an der Universität Zürich und an der ETH Zürich bestandenen, aber nicht für den Masterabschluss angerechneten Module des Masterstudiums ausgewiesen.
+#### § 35
 
-**Zeugnis (Academic Record)**
+**Anerkennung und Anrechnung allgemein**
 
-<sup>2</sup> Das Zeugnis (Academic Record) gilt als Ausweis über den bestandenen Masterabschluss.
+<sup>1</sup> Die Anerkennung ist der Ausweis erbrachter Studienleistungen im Leistungsausweis.
+
+<sup>2</sup> Die Anrechnung ist die Zuordnung anerkannter Studienleistungen zu den im Rahmen eines Studienprogramms zu erbringenden Studienleistungen. Sie erfolgt spätestens nach der Anmeldung zum Studienabschluss mit der Aufnahme in den Academic Record (Abschlusszeugnis).
+
+<sup>3</sup> Es obliegt den Studierenden, die für die Anrechnung notwendigen Unterlagen beizubringen.
 
 #### § 36
 
-**Ernennung**
+**Anerkennung von Studienleistungen**
 
-<sup>1</sup> Die Ernennung zum Master of Science erfolgt durch die Aushändigung der unterzeichneten Urkunde.
+<sup>1</sup> Die Anerkennung von an der UZH und an der ETH Zürich erbrachten und in ECTS Credits dokumentierten Studienleistungen erfolgt automatisch.
 
-<sup>2</sup> Diese trägt das Siegel der Universität und der ETH Zürich sowie die Unterschriften der Rektorinnen oder der Rektoren der Universität Zürich und der ETH Zürich sowie der Dekanin oder des Dekans der WWF und der Vorsteherin oder des Vorstehers des D-MATH.
+<sup>2</sup> Die Anerkennung einer nicht an der UZH oder ETH Zürich erbrachten Studienleistung erfolgt, wenn a. sie äquivalent zu der an der UZH oder ETH Zürich zu erbringenden Studienleistung ist,
 
-<sup>3</sup> Mit der Urkunde wird eine durch die Universität Zürich autorisierte englische Übersetzung der Urkunde abgegeben.
+- b. sie nicht bereits an einen Studienabschluss angerechnet worden ist,
+
+- c. es sich nicht um die Bachelor- bzw. Masterarbeit handelt.
+
+<sup>3</sup> Über die Anerkennung entscheidet die oder der Prüfungsdelegierte.
 
 #### § 37
 
-**Diplomzusatz**
+**Anrechnung an den Studienabschluss**
 
-Der Diplomzusatz («Diploma supplement») ist eine standardisierte Erläuterung des Studienabschlusses.
+<sup>1</sup> Anerkannte Studienleistungen sind anrechenbar, wenn a. sie gemäss Studienordnung an den Joint QF-Master anrechenbar sind,
 
-### IX. Schluss- und Übergangsbestimmungen
+- b. sie äquivalent zu Studienleistungen gemäss lit. a sind.
+
+<sup>2</sup> Nicht anrechenbare Studienleistungen können anerkannt werden.
+
+<sup>3</sup> Vor der Erbringung externer Studienleistungen ist eine Anrechnungsvereinbarung abzuschliessen, sofern nicht Anrechnungsvereinbarungen mit anderen Hochschulen oder allgemeine Anrechnungstabellen bestehen.
+
+<sup>4</sup> Über die Anrechnung entscheidet die oder der Prüfungsdelegierte.
 
 #### § 38
 
-**Sonderfälle**
+**Anrechnung von gleichen oder ähnlichen Modulen**
 
-Fälle, die von dieser Rahmenverordnung nicht oder nicht ausreichend erfasst werden, werden durch Beschluss des Leitenden Ausschusses geregelt.
+Gleiche oder inhaltlich ähnliche Module bzw. Studienleistungen können nicht mehrfach angerechnet werden. Über die Ähnlichkeit entscheidet die oder der Prüfungsdelegierte.
 
 #### § 39
 
-**Übertrittsbestimmungen**
+**Überzählige Module**
 
-<sup>1</sup> Studierende, die ihr Studium noch nach dem Joint-Degree-Weiterbildungsstudiengang Master of Advanced Studies UZH ETH in Finance (MAS Finance) aufgenommen haben, können ihr Studium noch nach dem MAS Finance abschliessen, sofern sie ihr Diplom bis spätestens 30. Juni 2010 erwerben. Stichtag für den Abschluss ist der Promotionstermin.
+<sup>1</sup> Überzählige Module werden nicht an den Masterabschluss angerechnet. Sie werden jedoch im Academic Record als nicht angerechnete Leistungen ausgewiesen.
 
-<sup>2</sup> All diejenigen Studierenden, die nicht bis zum 30. Juni 2010 ihren MAS Finance abgeschlossen haben, werden grundsätzlich zum Master of Science umgeschrieben. Ein früherer Übertritt ist möglich. Bei einem angestrebten Übertritt, bei dem in jedem Fall die Zulassungsbedingungen gemäss §§ 22, 24 erfüllt sein müssen, ist der oder dem Prüfungsdelegierten ein schriftliches Gesuch einzureichen.
+<sup>2</sup> Überzählige Module sind Module, die gemäss der Studienordnung für die Erreichung der für den Studienabschluss im Joint QF-Master notwendigen ECTS Credits nicht erforderlich sind.
 
-<sup>3</sup> Wer vom Joint-Degree-Weiterbildungsstudiengang Master of Advanced Studies UZH ETH in Finance zum vorliegenden Studiengang wechselt, verliert das Recht auf den Weiterbildungsabschluss für den MAS Finance.
+<sup>3</sup> Für die Anrechnung werden die absolvierten Module in chronologisch aufsteigender Reihenfolge berücksichtigt.
+
+<sup>4</sup> Wenn gemäss Abs. 3 nicht alle Module angerechnet werden können, werden bei Modulen, die im gleichen Semester absolviert wurden, die von den Studierenden bezeichneten Module an den Studienabschluss angerechnet.
+
+### 6. Abschnitt: Studienabschluss
 
 #### § 40
 
-**Inkrafttreten**
+**Anmeldung zum Studienabschluss**
 
-Diese Rahmenverordnung tritt am 1. August 2009 in Kraft.
+<sup>1</sup> Die Anmeldung zum Masterabschluss ist von den Studierenden beim Dekanat einzureichen. Das Dekanat prüft, ob alle Voraussetzungen für den Studienabschluss erfüllt sind.
 
-## Weitere Fussnoten
+<sup>2</sup> Die Anmeldung zum Studienabschluss kann frühestens für dasjenige Semester vorgenommen werden, nach dessen Ende alle gemäss Rahmenverordnung und Studienordnung erforderlichen Voraussetzungen erfüllt sind.
 
-- [*] Die ETH Zürich verwendet anstelle des Begriffs «Modul» den Begriff «Lerneinheit».
-- [1] OS 64, 347. 1. 10. 09 - 66 11
+#### § 41
+
+**Verleihung des Mastergrades**
+
+<sup>1</sup> Der Mastergrad wird verliehen, wenn nach Massgabe der Rahmenverordnung und der Studienordnung 90 ECTS Credits erworben worden sind. Davon müssen mindestens 75 ECTS Credits der für den Joint QF-Master erforderlichen Studienleistungen an der WWF UZH oder am D-MATH ETH Zürich erbracht worden sein.
+
+<sup>2</sup> Die Verleihung des Grades erfolgt durch die Aushändigung der unterzeichneten Diplomurkunde.
+
+**9**
+
+- 1\. 7. 22 - 117 § 42. Die WWF UZH validiert die Abschlüsse. Sie kann die Validierung an den Fakultätsausschuss delegieren.
+
+#### § 43
+
+**Validierung**
+
+**Gewichtete Gesamtnote und Prädikat**
+
+<sup>1</sup> Der Studienabschluss wird mit einer gewichteten Gesamtnote bewertet. Die benoteten Module fliessen mit dem Gewicht ihrer ECTS Credits in die gewichtete Gesamtnote ein. Die gewichtete Gesamtnote wird mit ungerundeten Ausgangswerten berechnet.
+
+<sup>2</sup> Die Berechnung der gewichteten Gesamtnote erfolgt exakt, das Ergebnis wird auf eine Nachkommastelle gerundet.
+
+<sup>3</sup> Die Notenskala reicht von 1 bis 6, wobei 6 die beste und 1 die schlechteste Note bezeichnet. Note 4 oder höher ist für einen erfolgreichen Studienabschluss ausreichend.
+
+<sup>4</sup> Für besonders gute Abschlüsse werden aufgrund der gewichteten Gesamtnote folgende Prädikate verliehen:
+
+- a. ab 5.5: summa cum laude,
+
+- b. ab 5.0: magna cum laude.
+
+### 7. Abschnitt: Abschlussdokumente
+
+#### § 44
+
+**Abschlussdokumente**
+
+Die Absolventinnen und Absolventen erhalten folgende Abschlussdokumente: die Diplomurkunde, das Diploma Supplement und den Academic Record (Abschlusszeugnis).
+
+#### § 45
+
+**Diplomurkunde**
+
+<sup>1</sup> Die Diplomurkunde enthält den verliehenen Grad. Sie wird mit dem Logo der UZH und der ETH Zürich sowie mit dem Siegel der UZH und der WWF versehen. Sie wird unterzeichnet vonseiten der a. UZH von der Rektorin oder dem Rektor sowie der Dekanin oder dem Dekan der WWF UZH,
+
+- b. ETH Zürich von der Rektorin oder dem Rektor sowie der Departementsvorsteherin oder dem Departementsvorsteher des D-MATH ETH Zürich.
+
+<sup>2</sup> Die Diplomurkunde weist die gewichtete Gesamtnote sowie das erzielte Prädikat aus.
+
+<sup>3</sup> Die Diplomurkunde wird in deutscher Sprache ausgefertigt. Mit der Diplomurkunde wird eine englische Übersetzung abgegeben.
+
+#### § 46
+
+**Diploma Supplement**
+
+Das Diploma Supplement ist eine standardisierte Erläuterung des Studienabschlusses. Es wird in deutscher und englischer Sprache ausgestellt.
+
+#### § 47
+
+**Academic Record**
+
+<sup>1</sup> Im Academic Record (Abschlusszeugnis) werden alle an den Studienabschluss angerechneten sowie die anerkannten, aber nicht an den Studienabschluss angerechneten Studienleistungen mit der jeweiligen Bewertung ausgewiesen; ferner werden die Note und der Titel der Masterarbeit aufgeführt. Studienleistungen, die nicht an der UZH oder ETH Zürich erbracht worden sind, werden entsprechend gekennzeichnet.
+
+<sup>2</sup> Der Academic Record wird in deutscher Sprache ausgestellt. Es wird eine englische Übersetzung abgegeben.
+
+### 8. Abschnitt: Rechtsschutz
+
+#### § 48
+
+**Rechtsschutz**
+
+<sup>1</sup> Der Rechtsschutz richtet sich nach dem Recht der verfügenden Hochschule.
+
+<sup>2</sup> Der Rechtsschutz für Leistungsbewertungen ist wie folgt geregelt:
+
+- a. für die UZH: Leistungsausweise, die gemäss dieser Rahmenverordnung durch die UZH ausgestellt werden, unterliegen bezüglich der für die im letzten Semester neu ausgewiesenen Leistungen der Einsprache an die Prüfungsdelegierte oder den Prüfungsdelegierten. Die Einsprache ist innerhalb von 30 Tagen nach Empfang des Leistungsausweises bzw. der Verfügung schriftlich und begründet einzureichen. Der Einspracheentscheid unterliegt dem Rekurs.
+
+- b. für die ETH Zürich: Die Studierenden erhalten vom Studierendensekretariat eine Information mittels E-Mail, für welche Leistungskontrollen die Noten und weiteren Leistungsbewertungen in der entsprechenden Applikation der ETH Zürich neu eingesehen werden können. Sie können innerhalb von 30 Tagen nach Empfang der E-Mail eine beschwerdefähige Verfügung verlangen.
+
+<sup>3</sup> Die zuständigen Rekursinstanzen- bzw. Beschwerdeinstanzen sind a. gegen Verfügungen der UZH: die Rekurskommission der Zürcher Hochschulen,
+
+- b. gegen Verfügungen der ETH Zürich: die ETH-Beschwerdekommission.
+
+### 9. Abschnitt: Übergangsbestimmungen
+
+#### § 49
+
+**Übergangsbestimmungen**
+
+<sup>1</sup> Diese Rahmenverordnung gilt für alle Studierenden, die das Masterstudium im Herbstsemester 2022 oder später beginnen.
+
+**11**
+
+- 1\. 7. 22 - 117
+
+<sup>2</sup> Für Studierende, die das Masterstudium im Joint QF-Master an der WWF vor Inkrafttreten dieser Rahmenverordnung begonnen haben und nicht endgültig abgewiesen wurden, gelten folgende Grundsätze:
+
+- a. Die Studierenden werden per Herbstsemester 2022 dieser Rahmenverordnung unterstellt und in den Joint QF-Master gemäss dieser Rahmenverordnung übergeführt.
+
+- b. Alle absolvierten und anrechenbaren Leistungen werden unter Vorbehalt von §§ 35 ff. angerechnet. Es gilt jeweils die Anrechenbarkeit, die im elektronischen Vorlesungsverzeichnis veröffentlicht ist.
+
+- c. Alle bereits unternommenen Fehlversuche bleiben bestehen. Jedes Modul, in dem vor dem Herbstsemester 2022 ein Fehlversuch erfolgt ist, kann noch einmal wiederholt und/oder substituiert werden.
+
+<sup>3</sup> Die detaillierten Übergangsregelungen, insbesondere zu den Substitutionsmöglichkeiten von Modulen, werden für die Studierenden in allgemeiner Form bekannt gegeben.
