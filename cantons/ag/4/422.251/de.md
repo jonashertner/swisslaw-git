@@ -4,13 +4,13 @@ number: "422.251"
 title: Verordnung über die Berufsmaturität an Berufsfachschulen
 short: V Berufsmaturität BFS
 language: de
-version: 2020-10-01
-valid_until: 2022-07-31
-version_adopted: 2020-04-22
+version: 2022-08-01
+valid_until: 2025-07-31
+version_adopted: 2020-05-13
 adopted: 2007-11-07
 in_force: 2008-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/422.251"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2879/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3722/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2879/pdf_file"
 
 (V Berufsmaturität BFS)
 
-Vom 07.11.2007 (Stand 01.10.2020)
+Vom 07.11.2007 (Stand 01.08.2022)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -40,10 +40,10 @@ beschliesst:
 
 <sup>1</sup> In das erste Semester eines Berufsmaturitätsbildungsgangs für Lernende der beruflichen Grundbildung wird definitiv aufgenommen, wer
 
-- a) am Ende der Abschlussklasse der Bezirks- beziehungsweise Sekundarschule in den Fächern und nach Berechnung gemäss Anhang 1 beziehungsweise 3 einen arithmetisch auf eine Dezimalstelle gerundeten Notendurchschnitt von mindestens 4,4 beziehungsweise 5,3 erzielt hat oder über einen gleichwertigen Schulabschluss verfügt,
-- b) am Ende des 1. Semesters der Abschlussklasse der Bezirks- beziehungsweise Sekundarschule in den Fächern und nach Berechnung gemäss Anhang 2 beziehungsweise 4 einen arithmetisch auf eine Dezimalstelle gerundeten Notendurchschnitt von mindestens 4,4 beziehungsweise 5,3 erzielt hat.
+- a) am Ende des ersten oder zweiten Semesters der 3. Klasse der Bezirks- beziehungsweise Sekundarschule in den Fächern und nach Berechnung gemäss Anhang 5 einen arithmetisch auf eine Dezimalstelle gerundeten Notendurchschnitt von mindestens 4,4 beziehungsweise 5,3 erzielt hat.
+- b) …
 
-<sup>1<sup>bis</sup></sup> Die in Absatz 1 aufgeführten Notendurchschnitte berechtigen zur einmaligen Aufnahme auf Beginn eines der beiden Schuljahre, die im Anschluss an die Abschlussklasse der Bezirks- oder Sekundarschule folgen.
+<sup>1<sup>bis</sup></sup> Die in Absatz 1 aufgeführten Notendurchschnitte berechtigen zur einmaligen Aufnahme auf Beginn eines der beiden Schuljahre, die im Anschluss an die 3. Klasse der Bezirks- oder Sekundarschule folgen.
 
 <sup>2</sup> Wer die Voraussetzungen von Absatz 1 nicht erfüllt, hat eine Aufnahmeprüfung gemäss §§ 5 ff. zu bestehen.
 
@@ -110,7 +110,7 @@ beschliesst:
 
 **Aufnahmeprüfung BM I**
 
-<sup>1</sup> Die Aufnahmeprüfung basiert auf dem Lehrplan der Abschlussklasse der Sekundarschule. Sie ist an allen Berufsfachschulen gleich und mit denselben Hilfsmitteln zu lösen. Geprüft werden folgende Fächer:
+<sup>1</sup> Die Aufnahmeprüfung orientiert sich an den erweiterten Grundansprüchen, die im Aargauer Lehrplan Volksschule als Auftrag des dritten Zyklus formuliert sind. Sie ist an allen Berufsfachschulen gleich und mit denselben Hilfsmitteln zu lösen. Geprüft werden folgende Fächer:
 
 - a) Deutsch: schriftlich, 90 Minuten
 - b) Französisch: schriftlich, 45 Minuten
