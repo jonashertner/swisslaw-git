@@ -4,13 +4,13 @@ number: "432.211.2"
 title: Tagesschulverordnung
 short: TSV
 language: de
-version: 2022-01-01
-valid_until: 2022-07-31
-version_adopted: 2022-02-23
+version: 2022-08-01
+valid_until: 2023-07-31
+version_adopted: 2022-01-27
 adopted: 2008-05-28
 in_force: 2008-08-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/432.211.2"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2563/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2564/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2563/pdf_file"
 
 (TSV)
 
-vom 28.05.2008 (Stand 01.01.2022)
+vom 28.05.2008 (Stand 01.08.2022)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -113,8 +113,8 @@ beschliesst:
 
 <sup>1</sup> Die Normlohnkosten für die Betreuung je Kind und Stunde betragen
 
-- a 10.55 Franken für Tagesschulangebote gemäss Artikel 4 Absatz 1,
-- b 5.28 Franken für Tagesschulangebote mit tiefen pädagogischen Ansprüchen.
+- a 10.59 Franken für Tagesschulangebote gemäss Artikel 4 Absatz 1,
+- b 5.30 Franken für Tagesschulangebote mit tiefen pädagogischen Ansprüchen.
 
 <sup>2</sup> Die Normlohnkosten für eine Betreuungsstunde von Kindern mit besonderen Massnahmen oder besonderen Betreuungsanforderungen können bis zum eineinhalbfachen Ansatz von Absatz 1 Buchstabe a betragen.
 
@@ -222,8 +222,8 @@ beschliesst:
 
 <sup>2</sup> Der Maximalansatz beträgt je verrechenbare Betreuungsstunde
 
-- a 12.35 Franken für Tagesschulangebote gemäss Artikel 4 Absatz 1,
-- b 6.17 Franken für Tagesschulangebote mit tiefen pädagogischen Ansprüchen.
+- a 12.40 Franken für Tagesschulangebote gemäss Artikel 4 Absatz 1,
+- b 6.20 Franken für Tagesschulangebote mit tiefen pädagogischen Ansprüchen.
 
 <sup>3</sup> Bis zu einem massgebenden Einkommen von 43'000 Franken wird der Minimalansatz erhoben; ab einem massgebenden Einkommen von 160'000 Franken wird der Maximalansatz erhoben.
 

@@ -4,13 +4,13 @@ number: "432.211.2"
 title: Ordonnance sur les écoles à journée continue
 short: OEC
 language: fr
-version: 2022-01-01
-valid_until: 2022-07-31
-version_adopted: 2022-02-23
+version: 2022-08-01
+valid_until: 2023-07-31
+version_adopted: 2022-01-27
 adopted: 2008-05-28
 in_force: 2008-08-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/432.211.2"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2563/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2564/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2563/pdf_file"
 
 (OEC)
 
-du 28.05.2008 (état au 01.01.2022)
+du 28.05.2008 (état au 01.08.2022)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -113,8 +113,8 @@ arrête:
 
 <sup>1</sup> Les coûts de traitements normatifs par heure et par enfant se montent à
 
-- a 10,55 francs pour les modules d’école à journée continue au sens de l’article 4, alinéa 1,
-- b 5,28 francs pour les modules d’école à journée continue dont le niveau d’exigences pédagogiques est peu élevé.
+- a 10,59 francs pour les modules d’école à journée continue au sens de l’article 4, alinéa 1,
+- b 5,30 francs pour les modules d’école à journée continue dont le niveau d’exigences pédagogiques est peu élevé.
 
 <sup>2</sup> Les coûts de traitements normatifs par heure de prise en charge d’enfants nécessitant des mesures pédagogiques particulières ou un encadrement particulier peuvent atteindre jusqu’à une fois et demi le tarif mentionné à l’alinéa 1, lettre a.
 
@@ -222,8 +222,8 @@ arrête:
 
 <sup>2</sup> Le tarif maximal pouvant être facturé par heure de prise en charge se monte à
 
-- a 12,35 francs pour les modules d’école à journée continue au sens de l’article 4, alinéa 1,
-- b 6,17 francs pour les modules d’école à journée continue dont le niveau d’exigences pédagogiques est peu élevé.
+- a 12,40 francs pour les modules d’école à journée continue au sens de l’article 4, alinéa 1,
+- b 6,20 francs pour les modules d’école à journée continue dont le niveau d’exigences pédagogiques est peu élevé.
 
 <sup>3</sup> Le tarif minimal est facturé jusqu’à un revenu déterminant de 43'000 francs; le tarif maximal est facturé à partir d’un revenu déterminant de 160'000 francs.
 
