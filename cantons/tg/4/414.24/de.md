@@ -3,13 +3,13 @@ canton: TG
 number: "414.24"
 title: Gebührenreglement der Pädagogischen Hochschule Thurgau
 language: de
-version: 2020-01-01
-valid_until: 2022-07-31
-version_adopted: 2019-11-21
+version: 2022-08-01
+valid_until: 2023-09-17
+version_adopted: 2022-02-28
 adopted: 2019-11-21
 in_force: 2020-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/414.24"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2132/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2531/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2132/pdf_file"
 
 Gebührenreglement PHTG
 
-vom 21.11.2019 (Stand 01.01.2020)
+vom 21.11.2019 (Stand 01.08.2022)
 
 Erlassen vom Hochschulrat der Pädagogischen Hochschule Thurgau gestützt auf § 13 Abs. 1 Ziff. 8 des Gesetzes über die tertiäre Bildung (Tertiärbildungsgesetz)[^ingress-1].
 
@@ -72,7 +72,9 @@ Erlassen vom Hochschulrat der Pädagogischen Hochschule Thurgau gestützt auf §
 
 **Schulgeld Allgemeinbildendes Studienjahr**
 
-<sup>1</sup> Studierende mit einem stipendienrechtlichen Wohnsitz ausserhalb des Kantons zahlen für das Allgemeinbildende Studienjahr anstatt Semestergebühren ein Schulgeld.
+<sup>1</sup> Studierende leisten für das Allgemeinbildende Studienjahr anstatt Semestergebühren ein Schulgeld, wenn ihr stipendienrechtlicher Wohnsitzkanton dieses Angebot der Studienvorbereitung nicht finanziert.
+
+<sup>2</sup> Für ausländische Studierende ist Abs. 1 sinngemäss anwendbar.
 
 #### § 7
 
@@ -82,7 +84,7 @@ Erlassen vom Hochschulrat der Pädagogischen Hochschule Thurgau gestützt auf §
 
 <sup>2</sup> Es kann vom Kostendeckungsprinzip nach unten abgewichen werden, wenn
 
-- 1\. die Bedürfnisse der Hochschule dies verlangen;
+- 1\. die Bedürfnisse der Hochschule dies verlangen oder
 - 2\. der Markt dies erfordert.
 
 #### § 8
