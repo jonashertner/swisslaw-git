@@ -3,24 +3,24 @@ canton: BL
 number: "643.31"
 title: Verordnung über die Abschlussprüfungen der Fachmittelschule an den Gymnasien
 language: de
-version: 2021-08-01
-valid_until: 2022-07-31
-version_adopted: 2021-06-29
+version: 2022-08-01
+valid_until: 2024-07-31
+version_adopted: 2022-06-28
 adopted: 2007-12-18
 in_force: 2007-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/643.31"
-pdf: "https://bl.clex.ch/api/de/versions/3055/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3747/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Abschlussprüfungen der Fachmittelschule an den Gymnasien
 
-Vom 18.12.2007 (Stand 01.08.2021)
+Vom 18.12.2007 (Stand 01.08.2022)
 
-Der Regierungsrat,
+Der Regierungsrat des Kantons Basel-Landschaft,
 
-gestützt auf § 74 Abs. 2 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-1] und § 88 Abs. 1 Bst. f des Bildungsgesetzes vom 6. Juni 2002[^ingress-2],
+gestützt auf § 74 Abs. 2 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-1] und das Bildungsgesetz vom 6. Juni 2002[^ingress-2],
 
 beschliesst:
 
@@ -79,11 +79,11 @@ beschliesst:
 
 <sup>1</sup> Die Schulleitungskonferenz setzt für jedes Fach, das an der Abschlussprüfung schriftlich geprüft wird, eine Ressortgruppe ein.
 
-<sup>2</sup> Die Ressortgruppe setzt sich aus einer Ressortleitung und aus je 1 Fachschaftsdelegierten pro basellandschaftlichem Fachmittelschul-Standort zusammen.
+<sup>2</sup> Die Ressortgruppe setzt sich aus einer Ressortleitung und aus je 1 Fachschaftsdelegierten pro basellandschaftlichem Fachmittelschulstandort zusammen.
 
 <sup>3</sup> Die Fachschaftsdelegierten werden auf Vorschlag der Fachschaften von der Schulleitung in der Regel auf 2 Jahre ernannt.
 
-<sup>4</sup> Die Ressortleitung obliegt einer Fachperson des entsprechenden Schulfaches, welche über einen Hochschulabschluss sowie über Unterrichtserfahrung im entsprechenden Fach verfügt und nicht an einem basellandschaftlichen Gymnasium tätig ist. Sie wird von der Schulleitungskonferenz für eine Amtsperiode von 4 Jahren ernannt.
+<sup>4</sup> Die Ressortleitung obliegt einer Fachperson des entsprechenden Schulfachs, welche über einen Hochschulabschluss sowie über Unterrichtserfahrung im entsprechenden Fach verfügt und nicht an einem basellandschaftlichen Gymnasium tätig ist. Sie wird von der Schulleitungskonferenz für eine Amtsperiode von 4 Jahren ernannt.
 
 <sup>5</sup> Die Ressortleitung beruft die Sitzungen der Ressortgruppe ein, leitet sie und organisiert die Arbeit der Ressortgruppe und erstattet nach Abschluss der Prüfungen der Schulleitungskonferenz Bericht.
 
@@ -218,6 +218,8 @@ beschliesst:
 <sup>2</sup> Das Verfassen der Selbständigen Arbeit und die Präsentation erfolgen innerhalb eines klar definierten Zeitraums und werden von einer oder mehreren Lehrpersonen begleitet.
 
 <sup>3</sup> Eine verspätete Abgabe kann zu einer Reduktion der erreichten Note der schriftlichen Arbeit von bis zu 3 Notenpunkten führen. Schülerinnen und Schüler, die ihre Selbständige Arbeit wegen Krankheit, Unfall oder anderen zwingenden Gründen nicht fristgerecht einreichen können, melden dies unverzüglich der Prüfungsleitung. Diese entscheidet über begründete Ausnahmen und legt den Termin einer späteren Abgabe fest.
+
+<sup>3<sup>bis</sup></sup> Die Nichtabgabe der Selbstständigen Arbeit oder das Nichterscheinen an der mündlichen Präsentation führen zur Remotion am Ende des 2. Schuljahres.
 
 <sup>4</sup> Die Schulleitungskonferenz erlässt die Ausführungsbestimmungen zu den Selbständigen Arbeiten.
 
@@ -376,6 +378,8 @@ beschliesst:
 
 <sup>2</sup> In diesem Fall ist das letzte Schuljahr zu wiederholen, unabhängig davon, ob an der Fachmittelschule schon einmal ein Schuljahr wiederholt worden ist.
 
+<sup>3</sup> Wird das 3. Schuljahr nach den Herbstferien freiwillig wiederholt, gilt dies als Nichtbestehen der Abschlussprüfungen. Eine erneute Wiederholung der Prüfungen ist ausgeschlossen.
+
 #### § 23
 
 **Nicht massgebliche Fächer**
@@ -515,7 +519,7 @@ beschliesst:
 
 **Zusätzliche Leistung**
 
-<sup>1</sup> Als zusätzliche Leistung gilt im Berufsfeld Pädagogik ein einsemestriger Unterricht in allgemeinbildenden Fächern.
+<sup>1</sup> Als zusätzliche Leistung gilt im Berufsfeld Pädagogik ein 1-semestriger Unterricht in allgemeinbildenden Fächern.
 
 #### § 34
 
