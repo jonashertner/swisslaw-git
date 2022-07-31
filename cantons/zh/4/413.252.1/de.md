@@ -3,11 +3,11 @@ canton: ZH
 number: "413.252.1"
 title: Reglement für die Maturitätsprüfungen an den Gymnasien des Kantons Zürich
 language: de
-version: "2011-08-22"
-nachtrag: "74"
-valid_until: 2022-08-01
+version: "2022-08-01"
+nachtrag: "117"
+valid_until: 2023-08-01
 adopted: 1998-03-10
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-413_252_1-1998_03_10-1998_08_01-074.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-413_252_1-1998_03_10-1998_08_01-117.html"
 text: pdf
 ---
 
@@ -25,17 +25,17 @@ A. Allgemeine Bestimmungen
 
 **Zeitpunkt der Prüfungen**
 
-§ 2.<sup>6</sup> Die Maturitätsprüfungen beginnen grundsätzlich im Juni des letzten Schuljahres und werden vor den Sommerferien abgeschlossen. Einzelne Prüfungen können vorgezogen und frühestens am Ende des zweitletzten Schuljahres durchgeführt werden.
+§ 2.[^t-3] Die Maturitätsprüfungen beginnen grundsätzlich im Juni des letzten Schuljahres und werden vor den Sommerferien abgeschlossen. Einzelne Prüfungen können vorgezogen und frühestens am Ende des zweitletzten Schuljahres durchgeführt werden.
 
 **Zulassung**
 
-§ 3.[^t-3] Zur Prüfung werden nur Kandidatinnen und Kandidaten zugelassen, die mindestens das volle letzte Schuljahr vor der Maturität am betreffenden Gymnasium absolviert haben.
+§ 3.[^t-4] Zur Prüfung werden nur Kandidatinnen und Kandidaten zugelassen, die mindestens das volle letzte Schuljahr vor der Maturität am betreffenden Gymnasium absolviert haben.
 
 B. Massgebende Fächer
 
 **Maturitätsfächer**
 
-§ 4.[^t-3] <sup>1</sup> Zehn Grundlagenfächer, ein Schwerpunktfach, ein Ergänzungsfach und die Maturitätsarbeit bilden die Maturitätsfächer.
+§ 4.[^t-4] <sup>1</sup> Zehn Grundlagenfächer, ein Schwerpunktfach, ein Ergänzungsfach und die Maturitätsarbeit bilden die Maturitätsfächer.
 
 <sup>2</sup> Grundlagenfächer sind:
 
@@ -63,7 +63,7 @@ B. Massgebende Fächer
 
 **1**
 
-- 1\. 10. 11 - 74 § 5. <sup>1</sup> Maturitätsprüfungen finden in sechs Fächern statt:
+- 1\. 7. 22 - 117 § 5. <sup>1</sup> Maturitätsprüfungen finden in sechs Fächern statt:
 
 **Prüfungsfächer**
 
@@ -75,7 +75,7 @@ B. Massgebende Fächer
 
 - 4\. Schwerpunktfach
 
-<sup>2</sup> Die Fächer 5 und 6 werden von den Schülerinnen und Schülern im Rahmen der an der Schule angebotenen Möglichkeiten gewählt, wobei das Schwerpunktfach oder Teilfächer daraus ausgeschlossen sind. Unter den Fächern 4, 5 und 6 muss eines Biologie oder Chemie oder Physik und eines Geschichte oder Geographie oder Wirtschaft und Recht<sup>5</sup> enthalten.
+<sup>2</sup> Die Fächer 5 und 6 werden von den Schülerinnen und Schülern im Rahmen der an der Schule angebotenen Möglichkeiten gewählt, wobei das Schwerpunktfach oder Teilfächer daraus ausgeschlossen sind. Unter den Fächern 4, 5 und 6 muss eines Biologie oder Chemie oder Physik und eines Geschichte oder Geographie oder Wirtschaft und Recht[^t-5] enthalten.
 
 <sup>3</sup> Die Fächer 1, 2, 3 und 4 werden schriftlich und mündlich geprüft; von den Fächern 5 und 6 muss mindestens eines schriftlich geprüft werden. Eine praktische Prüfung in Bildnerischem Gestalten, Musik oder Sport ersetzt den mündlichen oder schriftlichen Teil einer Prüfung.
 
@@ -83,7 +83,9 @@ B. Massgebende Fächer
 
 [^t-1]: OS 54, 560.
 [^t-2]: Vom Erziehungsrat erlassen.
-[^t-3]: Fassung gemäss Beschluss des Bildungsrates vom 26. Mai 2008 (OS 63, 451). In Kraft seit 18. August 2008.
+[^t-3]: Fassung gemäss Beschluss des Bildungsrates vom 30.August 2010 (OS 66, 315; ABl 2011, 631). In Kraft seit 22. August 2011.
+[^t-4]: Fassung gemäss Beschluss des Bildungsrates vom 26. Mai 2008 (OS 63, 451). In Kraft seit 18. August 2008.
+[^t-5]: Dieses Reglement gilt mit den folgenden Abweichungen auch für die Kantonale Maturitätsschule für Erwachsene (KME): – § 2: an der KME am Ende des letzten Semesters der Ausbildung. – § 5 Abs. 2: an der KME statt Geschichte, Geographie oder Wirtschaft und Recht auch die Ergänzungsfächer Philosophie und Anwendungen der Mathematik. – § 19 lit. e: an der KME ohne Sport. – § 22 Abs. 2: an der KME Reglement für die Maturitätsprüfungen an der Lehramtsabteilung der KME vom 10. August 1982.
 
 #### § 6
 
@@ -153,17 +155,17 @@ Die Leistungen in den für die Maturität massgeblichen Fächern werden mit ganz
 
 § 14.[^13-1] <sup>1</sup> Die Maturitätsnoten setzen sich aus den Erfahrungsnoten und in Fächern, in denen Prüfungen stattfinden, zusätzlich aus den Prüfungsnoten zusammen. Die Noten werden wie folgt ermittelt:
 
-<sup>2</sup> Erfahrungsnote: In allen Fächern wird eine Erfahrungsnote gebildet. Sie ist entweder die Zeugnisnote des letzten Schuljahres oder das ungerundete Mittel der Zeugnisnoten der letzten beiden Semester, in denen das Fach erteilt wurde.<sup>6</sup>
-
 **3**
 
-- 1\. 10. 11 - 74
+- 1\. 7. 22 - 117
+
+<sup>2</sup> Erfahrungsnote: In allen Maturitätsfächern wird eine Erfahrungsnote gebildet. Die Erfahrungsnote ist das ungerundete Mittel der Noten der letzten beiden Semester, in denen das Fach unterrichtet wurde. Wird ein Fach in beiden Semestern des zweitletzten oder in beiden Semestern des letzten Schuljahres vor der Maturität unterrichtet, ist die Erfahrungsnote die Note aus dem entsprechenden Jahreszeugnis.[^13-2]
 
 <sup>3</sup> Die Schulleitung bezeichnet die Semester, deren Zeugnisnoten für die Erfahrungsnote zählen, entsprechend dem Lehrplan der Schule.
 
 <sup>4</sup> Prüfungsnote: Für die schriftlichen und mündlichen Prüfungen werden ganze und halbe Noten erteilt. Als Prüfungsnote wird das ungerundete Mittel aus den beiden Noten bezeichnet; in Fächern mit nur einer Prüfung gilt die erteilte Note als Prüfungsnote.
 
-<sup>5</sup> Maturitätsarbeitsnote: Die Maturitätsnote für die Maturitätsarbeit wird aufgrund der Bewertung des Arbeitsprozesses, der schriftlichen Arbeit und ihrer Präsentation gesetzt. Jede dieser drei Teilleistungen wird nach der von der Schule festgelegten Gewichtung zu mindestens 25% in Noten bewertet. Das gewichtete Mittel wird nach der nächsten ganzen oder halben Zahl gerundet und ergibt die Maturitätsarbeitsnote. Wird eine dieser drei Teilleistungen ohne zwingenden Grund nicht oder nicht rechtzeitig erbracht, so wird dies bei der Bewertung der Teilleistung, bis zur Erteilung der Note 1, angemessen berücksichtigt.<sup>6</sup>
+<sup>5</sup> Maturitätsarbeitsnote: Die Maturitätsnote für die Maturitätsarbeit wird aufgrund der Bewertung des Arbeitsprozesses, der schriftlichen Arbeit und ihrer Präsentation gesetzt. Jede dieser drei Teilleistungen wird nach der von der Schule festgelegten Gewichtung zu mindestens 25% in Noten bewertet. Das gewichtete Mittel wird nach der nächsten ganzen oder halben Zahl gerundet und ergibt die Maturitätsarbeitsnote. Wird eine dieser drei Teilleistungen ohne zwingenden Grund nicht oder nicht rechtzeitig erbracht, so wird dies bei der Bewertung der Teilleistung, bis zur Erteilung der Note 1, angemessen berücksichtigt.[^13-3]
 
 <sup>6</sup> Maturitätsnote: Das Mittel aus Erfahrungs- und Prüfungsnote wird nach der nächsten ganzen oder halben Zahl gerundet. Ist der Bruchteil des Mittels eine Viertelnote, so ist aufzurunden. Die so ermittelte Note ist die Maturitätsnote im betreffenden Fach. In Fächern, in denen keine Prüfung stattfindet, wird die Rundung auf die Maturitätsnote direkt von der Erfahrungsnote aus vorgenommen.
 
@@ -176,6 +178,8 @@ Die Leistungen in den für die Maturität massgeblichen Fächern werden mit ganz
 <sup>3</sup> Die Bestimmungen von § 12 gelten sinngemäss.
 
 [^13-1]: Fassung gemäss Beschluss des Bildungsrates vom 26. Mai 2008 (OS 63, 451). In Kraft seit 18. August 2008.
+[^13-2]: Fassung gemäss Beschluss des Bildungsrates vom 14. März 2022 (OS 77, 282; ABl 2022-03-25). In Kraft seit 1. August 2022. 1. 7. 22 - 117 7
+[^13-3]: Fassung gemäss Beschluss des Bildungsrates vom 30.August 2010 (OS 66, 315; ABl 2011, 631). In Kraft seit 22. August 2011.
 
 ### E. Prüfungsentscheid
 
@@ -219,6 +223,10 @@ Der Entscheid über das Bestehen der Maturität wird auf Antrag der Rektorin ode
 
 - d. die Angabe der Zeit, während der die Inhaberin oder der Inhaber die Schule besucht hat, mit Datum des Eintritts und des Austritts,
 
+**5**
+
+- 1\. 7. 22 - 117
+
 - e. die Noten der 12 Maturitätsfächer gemäss § 4 und des Faches Sport im Grundlagenbereich,
 
 - f. das Thema und die Note der Maturitätsarbeit,
@@ -237,10 +245,6 @@ Der Entscheid über das Bestehen der Maturität wird auf Antrag der Rektorin ode
 
 Der Maturitätsausweis kann ausser den Noten für die massgebenden Fächer und für Sport noch solche weiterer Fächer enthalten. Die Noten werden nach den Bestimmungen von § 14 festgelegt.
 
-**5**
-
-- 1\. 10. 11 - 74
-
 ### G. Rechtsmittel
 
 **Rekurs**
@@ -256,26 +260,12 @@ Der Maturitätsausweis kann ausser den Noten für die massgebenden Fächer und f
 
 **Inkrafttreten**
 
-§ 22.<sup>6</sup> Die Änderung des Reglements tritt auf Beginn des Schuljahrs 2011/2012 (22. August 2011) in Kraft.
+§ 22.[^hHSchlussbestimmung-1] Die Änderung des Reglements tritt auf Beginn des Schuljahrs 2011/2012 (22. August 2011) in Kraft.
 
 **Übergangsbestimmung**
 
-§ 23.<sup>6</sup> <sup>1</sup> Für Schülerinnen und Schüler, die 2011/2012 nach nicht bestandener Maturitätsprüfung das letzte Schuljahr wiederholen, gilt mit Ausnahme von § 2 und § 14 Abs. 2 Satz 2 weiterhin das Reglement für die Maturitätsprüfungen an den Gymnasien des Kantons Zürich in der Fassung vom 10. März 1998. § 2 (Zeitpunkt der Prüfungen) sowie § 14 Abs. 2 Satz 2 (Einbezug des Jahreszeugnisses im letzten Schuljahr in die Bildung der Erfahrungsnote) gelten für alle Schülerinnen und Schüler in der Fassung vom 30. August 2010.
+§ 23.[^hHSchlussbestimmung-1] <sup>1</sup> Für Schülerinnen und Schüler, die 2011/2012 nach nicht bestandener Maturitätsprüfung das letzte Schuljahr wiederholen, gilt mit Ausnahme von § 2 und § 14 Abs. 2 Satz 2 weiterhin das Reglement für die Maturitätsprüfungen an den Gymnasien des Kantons Zürich in der Fassung vom 10. März 1998. § 2 (Zeitpunkt der Prüfungen) sowie § 14 Abs. 2 Satz 2 (Einbezug des Jahreszeugnisses im letzten Schuljahr in die Bildung der Erfahrungsnote) gelten für alle Schülerinnen und Schüler in der Fassung vom 30. August 2010.
 
 <sup>2</sup> Für die K+S Klassen am Mathematisch-Naturwissenschaftlichen Gymnasium Rämibühl Zürich gilt im Schuljahr 2011/2012 weiterhin das Reglement für die Maturitätsprüfungen an den Gymnasien des Kantons Zürich in der Fassung vom 10. März 1998. Im Schuljahr 2012/ 2013 gilt letztere Fassung mit den in Abs. 1 genannten Ausnahmen für Schülerinnen und Schüler, die 2012/2013 nach nicht bestandener Maturitätsprüfung das letzte Schuljahr wiederholen.
 
-<sup>5</sup> Dieses Reglement gilt mit den folgenden Abweichungen auch für die Kantonale Maturitätsschule für Erwachsene (KME):
-
-- § 2: an der KME am Ende des letzten Semesters der Ausbildung.
-
-- § 5 Abs. 2: an der KME statt Geschichte, Geographie oder Wirtschaft und Recht auch die Ergänzungsfächer Philosophie und Anwendungen der Mathematik.
-
-- § 19 lit. e: an der KME ohne Sport.
-
-- § 22 Abs. 2: an der KME Reglement für die Maturitätsprüfungen an der Lehramtsabteilung der KME vom 10. August 1982.
-
-<sup>6</sup> Fassung gemäss Beschluss des Bildungsrates vom 30. August 2010 (OS 66, 315; ABl 2011, 631). In Kraft seit 22. August 2011.
-
-**7**
-
-- 1\. 10. 11 - 74
+[^hHSchlussbestimmung-1]: Fassung gemäss Beschluss des Bildungsrates vom 30.August 2010 (OS 66, 315; ABl 2011, 631). In Kraft seit 22. August 2011.
