@@ -4,13 +4,13 @@ number: "411.0.1"
 title: Loi sur la scolarité obligatoire
 short: "loi scolaire, LS"
 language: fr
-version: 2021-08-01
-valid_until: 2022-07-31
-version_adopted: 2021-05-19
+version: 2022-08-01
+valid_until: 2022-12-31
+version_adopted: 2021-11-02
 adopted: 2014-09-09
 in_force: 2015-08-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/411.0.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7137/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7518/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Scolarité obligatoire - L
 
 (loi scolaire, LS)
 
-du 09.09.2014 (version entrée en vigueur le 01.08.2021)
+du 09.09.2014 (version entrée en vigueur le 01.08.2022)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -258,6 +258,8 @@ Décrète:
 **Congés spéciaux**
 
 <sup>1</sup> Le Conseil d'Etat édicte des dispositions sur l'octroi de congés spéciaux à des établissements, à des classes ou à des élèves.
+
+<sup>2</sup> Sur annonce préalable, les parents sont autorisés à ne pas envoyer leur enfant à l'école durant quatre demi-jours de classe par année scolaire (jours «joker») sans présenter de motif. Les conditions et modalités sont fixées par le Conseil d'Etat.
 
 #### Art. 22
 

@@ -4,13 +4,13 @@ number: "411.0.1"
 title: Gesetz über die obligatorische Schule
 short: "Schulgesetz, SchG"
 language: de
-version: 2021-08-01
-valid_until: 2022-07-31
-version_adopted: 2021-05-19
+version: 2022-08-01
+valid_until: 2022-12-31
+version_adopted: 2021-11-02
 adopted: 2014-09-09
 in_force: 2015-08-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/411.0.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/7137/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7518/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Obligatorische Schule - G
 
 (Schulgesetz, SchG)
 
-vom 09.09.2014 (Fassung in Kraft getreten am 01.08.2021)
+vom 09.09.2014 (Fassung in Kraft getreten am 01.08.2022)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -258,6 +258,8 @@ beschliesst:
 **Sonderurlaub**
 
 <sup>1</sup> Der Staatsrat erlässt Bestimmungen über die Gewährung von Sonderurlauben für Schulen, Klassen oder Schülerinnen und Schüler.
+
+<sup>2</sup> Nach vorgängiger Benachrichtigung können Eltern ihr Kind ohne Angabe von Gründen vier halbe Schultage pro Schuljahr (Jokertage) nicht zur Schule schicken. Die Bedingungen und Modalitäten werden vom Staatsrat festgelegt.
 
 #### Art. 22
 
