@@ -4,11 +4,11 @@ number: "813.162"
 title: Personalreglement des Kantonsspitals Winterthur (PR-KSW)
 short: PR-KSW
 language: de
-version: "2010-09-01"
-nachtrag: "89"
-valid_until: 2022-08-01
+version: "2022-08-01"
+nachtrag: "118"
+valid_until: 2023-08-01
 adopted: 2010-06-14
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-813_162-2010_06_14-2010_09_01-089.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-813_162-2010_06_14-2010_09_01-118.html"
 text: pdf
 ---
 
@@ -28,7 +28,7 @@ beschliesst:
 
 #### § 1
 
-**Geltungsbereich**
+**Gegenstand und Geltungsbereich**
 
 <sup>1</sup> Diesem Reglement untersteht das Personal, das in einem öffentlich-rechtlichen Arbeitsverhältnis zum Kantonsspital Winterthur steht.
 
@@ -36,51 +36,57 @@ beschliesst:
 
 <sup>3</sup> Vorbehalten bleiben abweichende Bestimmungen von Gesamtarbeitsverträgen gemäss § 6 des Personalgesetzes vom 27. September 1998 (PG)<sup>4</sup>.
 
-<sup>4</sup> Am Kantonsspital Winterthur tätiges Personal, das in keinem Anstellungsverhältnis zum Kantonsspital Winterthur steht, ist auf die Dienstvorschriften und die betrieblichen Weisungen zu verpflichten. Dazu schliesst die Spitaldirektion mit diesen Personen persönlich oder mit deren Arbeitgebern entsprechende Vereinbarungen ab.
+<sup>4</sup> Am Kantonsspital Winterthur tätige Personen, die in keinem Anstellungsverhältnis zum Kantonsspital Winterthur stehen, sind auf die Dienstvorschriften und die betrieblichen Weisungen zu verpflichten. Dazu schliesst die Spitaldirektion mit diesen Personen persönlich oder mit deren Arbeitgebern entsprechende Vereinbarungen ab.<sup>12</sup>
 
-#### § 2
+**Personalpolitik**
+
+§ 1 a.<sup>11</sup> Der Spitalrat bestimmt die Personalpolitik im Rahmen der Eigentümerstrategie sowie der gesetzlichen Vorgaben.
 
 **Zuständigkeiten a. Spitalrat**
 
-Der Spitalrat ist zuständig für:
+§ 2.<sup>12</sup> <sup>1</sup> Der Spitalrat ist zuständig für:
 
-- a. die Ernennung des Vorsitzes der Spitaldirektion sowie die Festlegung dessen Kompetenzen und Stellvertretung,
+- a. den Erlass einer Kompetenzordnung betreffend Anstellung, Beförderung, Versetzung und Entlassung sowie Genehmigung des Rücktritts von Angestellten,
 
-- b. die Ernennung, Beförderung und Entlassung sowie die Genehmigung des Rücktritts der Mitglieder der Spitaldirektion,
+- b. die Genehmigung von Richtlinien der Spitaldirektion betreffend die Anstellung von Personal mittels öffentlich-rechtlichen oder privatrechtlichen Vertrags,
 
-- c. die Ernennung, Entlassung sowie die Genehmigung des Rücktritts der weiteren Departementsdirektorinnen und -direktoren sowie der Institutsdirektorinnen und -direktoren,
+- c. die Anstellung von Personal des Spitalrates,
 
-- d. die Ernennung, Entlassung sowie die Genehmigung des Rücktritts weiterer direkt der Spitaldirektorin oder dem Spitaldirektor unterstellten Kaderpersonen,
+- d. die Ernennung der Mitglieder der Spitaldirektion,
 
 **1**
 
-- 1\. 7. 15 - 89
+1.10. 22 - 118 e. die Schaffung von neuen Stellen, für die das Personalrecht des Kantons Zürich keine Richtposition vorsieht, sowie von neuen Stellen ab Lohnklasse 27,
 
-- e. die Genehmigung von Richtlinien der Spitaldirektion betreffend die Anstellung von Personal mittels öffentlich-rechtlicher oder privatrechtlicher Verträge,
+- f. die Anerkennung von Personalverbänden als Verhandlungspartner von Gesamtarbeitsverträgen für Personal des Kantonsspitals Winterthur,
 
-- f. den Abschluss und den Beitritt zu Gesamtarbeitsverträgen gemäss § 6 PG,
-
-- g. die Festlegung von Sozialplänen gemäss § 27 PG,
+- g. den Abschluss und die Änderung von sowie den Beitritt zu Gesamtarbeitsverträgen,
 
 - h. weitere Aufgaben gemäss diesem Reglement.
 
-#### § 3
+<sup>2</sup> Er ist zuständig zur Festlegung:
+
+- b. der Entschädigung von Nacht- und Wochenendarbeit sowie von Pikett- und Präsenzdienst gemäss § 12,
+
+- c. des Prämienanteils des Personals an einer allfälligen Krankentaggeldversicherung gemäss § 14,
+
+- d. der Beiträge an die Verpflegung und die Abonnemente des öffentlichen Verkehrs für Mitarbeitende, die an mehreren Standorten tätig sind,
+
+- f. von Sozialplänen gemäss § 27 PG<sup>4</sup>.
 
 **b. Spitaldirektion**
 
-<sup>1</sup> Die Spitaldirektion ist Anstellungsbehörde des Kantonsspitals Winterthur und für alle Personalangelegenheiten zuständig, die nicht in der Kompetenz des Spitalrates liegen.
+§ 3.<sup>12</sup> <sup>1</sup> Die Spitaldirektion ist Anstellungsbehörde des Kantonsspitals Winterthur und für alle Personalangelegenheiten zuständig, die nicht in der Kompetenz des Spitalrates liegen oder durch die Kompetenzordnung gemäss § 2 Abs. 1 lit. a einem anderen Organ zugewiesen wurden.
 
 <sup>2</sup> Die Besetzung von Schlüsselfunktionen erfolgt nach Rücksprache mit dem Spitalrat.
 
 <sup>3</sup> Wo gemäss Personalrecht für das Staatspersonal das Einvernehmen des Personalamtes vorgesehen ist, entscheidet die Spitaldirektion in alleiniger Kompetenz.
 
-<sup>4</sup> Die Spitaldirektion ist für die Festsetzung und Änderung der Stellenpläne zuständig.
-
 #### § 4
 
 **c. Delegation**
 
-<sup>1</sup> Der Spitalrat kann a. Aufgaben gemäss Personalreglement an Spitalratsmitglieder oder Ausschüsse des Spitalrats delegieren,
+<sup>1</sup> Der Spitalrat kann a.<sup>12</sup> Aufgaben gemäss Personalreglement an Spitalratsmitglieder oder Ausschüsse des Spitalrates delegieren,
 
 - b. einzelne Geschäfte aus seinem Zuständigkeitsbereich an ihm nachgeordnete Stellen oder einzelne Personen delegieren.
 
@@ -94,17 +100,15 @@ Der Spitalrat ist zuständig für:
 
 **Begründung**
 
-<sup>1</sup> Öffentlich-rechtliche Arbeitsverhältnisse mit dem Personal des Kantonsspitals Winterthur werden in der Regel durch eine zustimmungsbedürftige Verfügung begründet.
+<sup>1</sup> Öffentlich-rechtliche Arbeitsverhältnisse mit dem Personal des Kantonsspitals Winterthur werden in der Regel durch Verfügung begründet.<sup>12</sup>
 
 <sup>2</sup> Sie können nach Massgabe der für das Staatspersonal anwendbaren Bestimmungen auch durch öffentlich-rechtlichen Vertrag begründet werden. Der Vertrag kann hinsichtlich des Lohnes, der Arbeitszeit, der Ferien sowie der Beendigung des Arbeitsverhältnisses vom Personalrecht für das Staatspersonal des Kantons Zürich abweichen.
 
 <sup>3</sup> Das Arbeitsverhältnis ist privatrechtlich, wenn es gemäss § 12 Abs. 1 KSWG<sup>6</sup> durch einen privatrechtlichen Vertrag begründet wird.
 
-#### § 6
-
 **Dauer**
 
-<sup>1</sup> Das Arbeitsverhältnis wird in der Regel unbefristet mit der Möglichkeit der Kündigung begründet.
+§ 6.<sup>12</sup> <sup>1</sup> Das Arbeitsverhältnis wird in der Regel unbefristet mit der Möglichkeit der Kündigung begründet.
 
 <sup>2</sup> Befristete Arbeitsverhältnisse sind zulässig a. im Rahmen von § 13 Abs. 2 PG,
 
@@ -116,73 +120,97 @@ Der Spitalrat ist zuständig für:
 
 <sup>3</sup> Befristungen gemäss Abs. 2 lit. b–d sind höchstens auf sieben Jahre zulässig. Eine einmalige Verlängerung auf insgesamt höchstens zehn Jahre ist möglich. Bei Assistenzärztinnen und -ärzten gelten diese Einschränkungen nicht.
 
-<sup>4</sup> Bei befristeten Arbeitsverhältnissen ist eine Probezeit von höchstens drei Monaten anzusetzen.
+<sup>4</sup> Bei befristeten Arbeitsverhältnissen beträgt die Probezeit drei Monate. Sie kann im gegenseitigen Einvernehmen verkürzt werden.
 
-<sup>5</sup> Wird ein befristetes Arbeitsverhältnis weitergeführt, gilt es als unbefristet.
+<sup>5</sup> Befristete Arbeitsverhältnisse können von jeder Partei gemäss den für unbefristete Anstellungsverhältnisse geltenden Bestimmungen gekündigt werden. Im gegenseitigen Einvernehmen kann auf eine Kündigungsmöglichkeit verzichtet werden.
 
-#### § 7
+<sup>6</sup> Wird ein befristetes Arbeitsverhältnis weitergeführt, gilt es als unbefristet.
 
-**Besondere Kündigungsgründe**
-
-Wird eine Vereinbarung über eine Drittmittelfinanzierung aufgelöst und das finanzierte Projekt abgebrochen, können die betroffenen, drittmittelfinanzierten Anstellungsverhältnisse ordentlich gekündigt werden.
-
-#### § 8
-
-**Anstellung nach der ordentlichen Pensionierung**
-
-<sup>1</sup> In besonderen Fällen, wie zur Sicherstellung einer Nachfolgeregelung, kann die Spitaldirektion eine Person nach Vollendung des 65. Altersjahrs befristet weiterbeschäftigen.
-
-<sup>2</sup> Es wird dazu ein neues Arbeitsverhältnis begründet. Die Kündigungsfrist beträgt in der Regel zwei Monate.
-
-<sup>3</sup> Vorbehalten bleiben die zwingenden Bestimmungen über die Versicherungskasse für das Staatspersonal<sup>10</sup>.
-
-### C. Rechte und Pflichten des Personals
-
-#### § 9
-
-**Lohnanspruch im Allgemeinen**
-
-Die lohnmässige Einreihung des Personals des Kantonsspitals Winterthur richtet sich nach den Grundsätzen und nach dem Lohnsystem des Personalrechts für das Staatspersonal.
+<sup>7</sup> Ist eine Mitarbeiterin am Ende eines befristeten Anstellungsverhältnisses schwanger oder im Mutterschaftsurlaub, verlängert sich das Anstellungsverhältnis bis zum Ende des Mutterschaftsurlaubs.
 
 **3**
 
-- 1\. 7. 15 - 89 § 10. <sup>1</sup> Der Lohn von Angehörigen der Spitaldirektion und des ihr direkt unterstellten Kaders sowie ausnahmsweise auch von ausserordentlich qualifizierten Fachkräften kann mit einem variablen Lohnanteil ausgestattet werden.
+1.10. 22 - 118 § 7.<sup>12</sup> <sup>1</sup> Sachlich zureichende Gründe für die Auflösung des Arbeitsverhältnisses gemäss § 18 Abs. 2 PG sind insbesondere:
 
-**Variabler Lohnanteil**
+**Sachlich zureichende Kündigungsgründe a. allgemein**
 
-<sup>2</sup> Der Lohn besteht in diesem Falle aus einem Basislohn und einem variablen Lohnanteil.
+- a. die Auflösung der Vereinbarung über eine Drittmittelfinanzierung und der Abbruch des finanzierten Projekts,
 
-<sup>3</sup> Der Basislohn entspricht mindestens der Erfahrungsstufe 0 der Einreihungsklasse. Stufenanstieg und Beförderungen beziehen sich auf den Basislohn.
+- b. das Auslaufen der Drittmittel, mit denen die Stelle finanziert wird.
 
-<sup>4</sup> Die Höhe des variablen Lohnanteils richtet sich nach dem Grad der individuellen Zielerreichung, der Jahreszielerreichung des Spitalbereiches, in dem die Angestellte oder der Angestellte tätig ist, und der Jahreszielerreichung des Gesamtspitals.
+<sup>2</sup> Die ordentlichen Kündigungsfristen sind einzuhalten.
 
-<sup>5</sup> Basislohn und variabler Lohnanteil zusammen dürfen das Maximum der zweiten Leistungsklasse nicht überschreiten. Ab der Einreihungsklasse 24 beträgt das Maximum 130% der Erfahrungsstufe 8 der Einreihungsklasse.
+**b. ärztliches Kader**
 
-#### § 11
+§ 7 a.<sup>11</sup> <sup>1</sup> Für das ärztliche Kader sind erhebliche Mängel insbesondere in den folgenden Bereichen sachlich zureichende Gründe für die Auflösung des Anstellungsverhältnisses:
 
-**Einmalzulagen**
+- a. in der Führungsarbeit,
 
-<sup>1</sup> Die Spitaldirektion kann für besondere Leistungen Einmalzulagen ausrichten.
+- b. in der Zusammenarbeit im Team oder mit anderen Angestellten des Kantonsspitals Winterthur,
 
-<sup>2</sup> Der Höchstbetrag wird jährlich durch die Spitaldirektion festgelegt.
+- c. in der Qualität, Dokumentation oder Abrechnung der Behandlung von Patientinnen und Patienten.
 
-**Nacht-, Sonntags-, Schicht- und Pikettdienst**
+<sup>2</sup> Bei erheblichen Mängeln wird in der Regel keine Bewährungsfrist gewährt.
 
-§ 12.<sup>9</sup> Die Entschädigung für Nacht-, Sonntags-, Schicht- und Pikettdienst richtet sich nach kantonalem Personalrecht, soweit im Anhang zu diesem Reglement nichts anderes bestimmt ist.
+**Anstellung nach der ordentlichen Pensionierung**
 
-#### § 13
+§ 8.<sup>12</sup> <sup>1</sup> In besonderen Fällen, insbesondere bei Personalgruppen mit Fachkräftemangel, ist eine befristete Verlängerung des Anstellungsverhältnisses oder eine befristete Wiederanstellung nach Vollendung des 65. Altersjahres sowie eine Verlängerung dieser Befristung bis zum 70. Altersjahr über ein Jahr hinaus möglich.
 
-**Individuelle Lohnerhöhungen**
+<sup>2</sup> Die Kündigungsfrist beträgt zwei Monate, soweit nichts anderes vereinbart wird.
 
-Die Spitaldirektion beschliesst jährlich, wie die vom Regierungsrat für individuelle Lohnerhöhungen beschlossene Lohnsumme im Kantonsspital Winterthur für individuelle Lohnerhöhungen zu verwenden ist.
+<sup>3</sup> Vorbehalten bleiben die zwingenden Bestimmungen der BVK Personalvorsorge des Kantons Zürich.
 
-#### § 14
+### C. Rechte und Pflichten des Personals
+
+**Lohn a. Festsetzung**
+
+§ 9.<sup>12</sup> <sup>1</sup> Die Einreihung der Stellen des Kantonsspitals Winterthur richtet sich nach den Grundsätzen und dem Lohnsystem des kantonalen Personalrechts. Die Lohnfestsetzung im Einzelfall erfolgt durch die Anstellungsbehörde.
+
+<sup>2</sup> Die Vergütung des ärztlichen Kaders richtet sich nach den Vorgaben gemäss § 14 KSWG<sup>6</sup>.
+
+**b. Entwicklung**
+
+§ 9 a.<sup>11</sup> <sup>3</sup> Die Lohnentwicklung orientiert sich am Arbeitsmarkt im Gesundheitswesen und berücksichtigt die finanzielle Situation des Kantonsspitals Winterthur.
+
+**c. variabler Vergütungsbestandteil**
+
+§ 10.<sup>12</sup> <sup>1</sup> Die Vergütung der Mitglieder der Spitaldirektion und des mit öffentlich-rechtlichem Vertrag angestellten Personals kann einen variablen Bestandteil enthalten.
+
+<sup>2</sup> Der variable Bestandteil beträgt höchstens 30% der Gesamtvergütung.
+
+<sup>3</sup> Der für Personalfragen zuständige Ausschuss des Spitalrates legt gemeinsam mit den einzelnen Mitgliedern der Spitaldirektion jedes Jahr messbare Jahresziele fest. In gleicher Weise verfahren die zuständigen Mitglieder der Spitaldirektion gegenüber den direkt unterstellten Kadern sowie die Vorgesetzten gegenüber anderen Angestellten mit variablem Vergütungsbestandteil.
+
+<sup>4</sup> Der variable Vergütungsbestandteil wird jährlich in Abhängigkeit der Erreichung der Jahresziele festgelegt.
+
+**d. ärztliches Kader**
+
+§ 11.<sup>12</sup> <sup>1</sup> Die Vergütung des ärztlichen Kaders besteht aus einem Grundlohn und kann ergänzend eine Markt- und Funktionszulage sowie einen variablen Bestandteil enthalten. Sie wird nicht nach dem Lohnsystem des Kantons Zürich festgelegt.
+
+<sup>2</sup> Der variable Bestandteil beträgt höchstens 30% der Gesamtvergütung.
+
+<sup>3</sup> Die Gesamtvergütung eines Mitglieds des ärztlichen Kaders beträgt höchstens 1 Mio. Franken pro Jahr. Sie umfasst insbesondere allfällige Entschädigungen Dritter und Einnahmen, die mit Gutachten, Zeugnissen und Berichten für Patientinnen und Patienten oder Dritte erzielt werden.
+
+<sup>4</sup> Der Grundlohn wird in der Regel bei der BVK Personalvorsorge des Kantons Zürich versichert. Die übrigen Vergütungsbestandteile können bei anderen Vorsorgeeinrichtungen versichert werden. Die Versicherung der Vergütung der Oberärztinnen und Oberärzte richtet sich nach § 14 Abs. 2 KSWG.
+
+<sup>5</sup> Der Spitalrat erlässt ein Vergütungsreglement.
+
+**Nacht- und Wochenendarbeit, Pikett- und Präsenzdienst**
+
+§ 12.<sup>12</sup> <sup>1</sup> Der Spitalrat regelt die Entschädigung für Nacht- und Wochenendarbeit gemäss § 132 der Vollzugsverordnung zum Personalgesetz vom 19. Mai 1999 (VVO)<sup>5</sup> sowie für Pikett- und Präsenzdienst gemäss § 133 VVO.
+
+<sup>2</sup> Die Entschädigung entspricht mindestens dem kantonalen Ansatz.
+
+§ 13.<sup>13</sup>
+
+**5**
+
+1.10. 22 - 118 § 14.<sup>12</sup> <sup>1</sup> Das Kantonsspital Winterthur kann für das Personal eine die gesetzlichen Lohnfortzahlungspflichten ersetzende Krankentaggeldversicherung abschliessen.
 
 **Versicherungen**
 
-<sup>1</sup> Das Kantonsspital Winterthur kann für das Personal eine die gesetzlichen Lohnfortzahlungspflichten ersetzende Krankentaggeldversicherung abschliessen. Die Versicherung muss für das Kantonsspital Winterthur wirtschaftlich und deren Leistungen für das Personal mindestens gleichwertig sein.
+<sup>2</sup> Die Leistungen müssen für das Personal mindestens gleichwertig zur Regelung gemäss kantonalem Personalrecht und für das Kantonsspital Winterthur wirtschaftlich sein.
 
-<sup>2</sup> Das Kantonsspital Winterthur kann für das Personal weitere Versicherungen abschliessen. Die Kosten sind vom Personal zu tragen.
+<sup>3</sup> Die Prämien können dem Personal höchstens hälftig auferlegt werden.
 
 #### § 15
 
@@ -190,67 +218,49 @@ Die Spitaldirektion beschliesst jährlich, wie die vom Regierungsrat für indivi
 
 <sup>1</sup> Die Angestellten tragen zu einer partnerschaftlichen, auf ethischen Grundsätzen beruhenden und leistungsorientierten Arbeitskultur bei. Sie sind zur interdisziplinären Zusammenarbeit und zur fächer- und berufsgruppenübergreifenden Teamarbeit verpflichtet. Sie richten sich an den Zielen und Interessen des Kantonsspitals Winterthur aus.
 
-<sup>2</sup> Alle Formen sexueller oder anderer Belästigungen, Mobbing sowie Diskriminierung wegen Geschlecht, Rasse, Religion, Nationalität oder Beruf und Stellung sind untersagt.
+<sup>2</sup> Alle Formen sexueller oder anderer Belästigungen, Mobbing sowie Diskriminierung wegen Geschlecht, Religion, Ethnie, Nationalität, sexueller Orientierung, Behinderungen, Alter, Beruf und Stellung oder anderer rechtlich geschützter persönlicher Eigenschaften sind untersagt.<sup>12</sup>
 
 <sup>3</sup> Die Spitaldirektion erlässt bei Widerhandlungen Sanktionen, die bis hin zur Kündigung führen können. Die strafrechtliche Verfolgung bleibt vorbehalten.
 
-### D. Nebenbeschäftigungen
+### D. Nebenbeschäftigungen und öffentliche Ämter<sup>12</sup>
 
-#### § 16
+**Begriffe**
 
-**Begriff**
+§ 16.<sup>12</sup> <sup>1</sup> Als Nebenbeschäftigung gilt jede Ausübung einer selbstständigen oder unselbstständigen Tätigkeit neben der Anstellung am Kantonsspital Winterthur, insbesondere Beratungstätigkeiten, Lehrverpflichtungen oder die Wahrnehmung von Organfunktionen bei Dritten.
 
-<sup>1</sup> Als Nebenbeschäftigung im Sinne von § 53 PG gilt jede Ausübung einer anderen Erwerbstätigkeit wie zum Beispiel Beratungstätigkeiten, externe Lehrverpflichtungen oder Verwaltungsratsmandate.
+<sup>2</sup> Als öffentliches Amt gilt die Mitgliedschaft in einem Parlament oder einer Exekutive, die Tätigkeit an einem Gericht oder in einer Kommission der Eidgenossenschaft, eines Kantons, einer Gemeinde, einer Kirchgemeinde oder einer anderen Körperschaft des öffentlichen Rechts.
 
-<sup>2</sup> Bei der Ausübung der Nebenbeschäftigung darf nicht der Eindruck entstehen, dass es sich um eine Leistung des KSW handelt. Das KSW übernimmt dafür keine Haftung.
+**Nebenbeschäftigungen a. Zulässigkeit**
 
-#### § 17
+§ 17.<sup>12</sup> <sup>1</sup> Nebenbeschäftigungen sind nur zulässig, wenn a. die Aufgabenerfüllung der oder des Angestellten nicht beeinträchtigt wird,
 
-**Ärztliche Zusatzhonorare**
+- b. die Tätigkeit mit der Stellung der oder des Angestellten am Kantonsspital Winterthur vereinbar ist,
 
-Die Vorschriften dieses Reglements über Nebenbeschäftigungen gelten nicht für Tätigkeiten zur Erlangung ärztlicher Zusatzhonorare.
+- c. die Interessen des Kantonsspitals Winterthur, insbesondere seine Interessen als Arbeitgeber, nicht beeinträchtigt werden,
 
-#### § 18
+- d. das Kantonsspital Winterthur nicht konkurrenziert wird,
 
-**Zulässigkeit**
+- e. nicht der Eindruck erweckt wird, es handle sich um eine Leistung des Kantonsspitals Winterthur,
 
-<sup>1</sup> Nebenbeschäftigungen sind zulässig, wenn sie a. die Aufgabenerfüllung der oder des Angestellten nicht beeinträchtigen,
-
-- b. mit der Stellung der oder des Angestellten am Kantonsspital Winterthur vereinbar sind,
-
-- c. das Kantonsspital Winterthur nicht konkurrenzieren,
-
-- d. die Aufgabenerfüllung und die Interessen des Kantonsspitals Winterthur und seine Rechte als Arbeitgeber nicht beeinträchtigen,
-
-- e. die Interessen der andern Angestellten des Kantonsspitals Winterthur nicht beeinträchtigen,
-
-- f. im Jahresmittel einen Tag je Kalenderwoche nicht überschreiten,
-
-- g. bei den dem Arbeitsgesetz unterstellten Angestellten nicht zu einer Überschreitung der wöchentlichen Höchstarbeitszeit führen,
-
-- h. ausserhalb der ordentlichen Arbeitszeit oder innerhalb von Kompensationstagen geleistet werden.
-
-**5**
-
-- 1\. 7. 15 - 89
+- f. die Interessen anderer Angestellter des Kantonsspitals Winterthur nicht beeinträchtigt werden.
 
 <sup>2</sup> Die Spitaldirektion kann in begründeten Fällen Ausnahmen bewilligen.
 
-[^18-1]: Fassung gemäss B vom 20. Dezember 2012 (OS 68, 227; ABl 2013-03-08). In Kraft seit 1. September 2010.
+**b. Bewilligung**
 
-#### § 19
+§ 18.<sup>12</sup> Für Nebenbeschäftigungen ist eine Bewilligung der Spitaldirektion erforderlich, wenn Arbeitszeit, Infrastruktur oder Personal des Kantonsspitals Winterthur beansprucht oder eine Organfunktion bei Dritten übernommen wird.
 
-**Information und Bewilligung**
+**c. Information und Entscheid**
 
-<sup>1</sup> Vor der Übernahme einer Nebenbeschäftigung informiert die oder der Angestellte die Spitaldirektion, sofern das mit der Nebenbeschäftigung erzielte Einkommen mehr als Fr. 2000 pro Jahr beträgt. Die Spitaldirektion kann eine Nebenbeschäftigung untersagen.[^18-1]
+§ 19.<sup>12</sup> Vor der Übernahme einer Nebenbeschäftigung informiert die oder der Angestellte die Spitaldirektion. Diese entscheidet in Absprache mit der vorgesetzten Stelle der oder des Angestellten, ob eine Bewilligung eingeholt werden muss. Sie kann auch nachträglich und von sich aus das Einholen einer Bewilligung verlangen.
 
-<sup>2</sup> Beträgt das mit der Nebenbeschäftigung erzielte Einkommen mehr als Fr. 10 000 pro Jahr, ist bei der Spitaldirektion eine Bewilligung einzuholen. Die Spitaldirektion kann auch nachträglich verlangen, dass um Bewilligung ersucht wird. Sind die Voraussetzungen nicht erfüllt, kann die Bewilligung verweigert bzw. entzogen werden.[^19-1]
+**Öffentliche Ämter**
 
-<sup>3</sup> Eine Bewilligung der Spitaldirektion ist in jedem Fall erforderlich, wenn Arbeitszeit, Infrastruktur oder Personal des Kantonsspitals Winterthur beansprucht oder ein Verwaltungsratsmandat übernommen wird.
+§ 19 a.<sup>11</sup> Die Ausübung öffentlicher Ämter richtet sich nach dem Personalgesetz.
 
-<sup>4</sup> Die Spitaldirektion verlangt eine angemessene Abgeltung der Infrastruktur- und Personalkosten.
+**Ausführungsbestimmungen**
 
-[^19-1]: Fassung gemäss B vom 20. Dezember 2012 (OS 68, 227; ABl 2013-03-08). In Kraft seit 1. September 2010.
+§ 19 b.<sup>11</sup> Die Spitaldirektion erlässt Ausführungsbestimmungen über die Nebenbeschäftigungen und die Tätigkeit im Rahmen öffentlicher Ämter. Sie regelt dabei insbesondere das Verfahren, die Auflagen, die Abgeltungen und die Abgaben.
 
 ### E. Erfindungen und urheberrechtlich geschützte Werke
 
@@ -268,15 +278,22 @@ Das Kantonsspital Winterthur unterstützt die Entwicklung und Verwertung von Erf
 
 <sup>2</sup> Die Spitaldirektion kann den Angestellten die Auswertung oder das Verwendungsrecht überlassen. Angestellte, denen die Auswertung einer Erfindung von erheblicher wirtschaftlicher oder technischer Bedeutung nicht überlassen wird, haben Anspruch auf eine angemessene Vergütung. Das Obligationenrecht gilt sinngemäss.
 
-#### § 22
+**7**
+
+1.10. 22 - 118 § 22. <sup>1</sup> Die Verwertungsrechte an einem urheberrechtlich geschützten Werk, das in Ausübung der dienstlichen Tätigkeit geschaffen wurde, stehen dem Kantonsspital Winterthur zu, soweit keine anders lautenden Vereinbarungen getroffen wurden.
 
 **Urheberrechtlich geschützte Werke**
 
-<sup>1</sup> Die Verwertungsrechte an einem urheberrechtlich geschützten Werk, das in Ausübung der dienstlichen Tätigkeit geschaffen wurde, stehen dem Kantonsspital Winterthur zu, soweit keine anders lautenden Vereinbarungen getroffen wurden.
+<sup>2</sup> Die Spitaldirektion kann den Angestellten die Verwertung überlassen. Angestellte, denen die Verwertung eines urheberrechtlich geschützten Werkes von erheblicher wirtschaftlicher oder technischer Bedeutung nicht überlassen wird, haben Anspruch auf eine angemessene Vergütung. Das Obligationenrecht[^21-1] gilt sinngemäss.
 
-<sup>2</sup> Die Spitaldirektion kann den Angestellten die Verwertung überlassen. Angestellte, denen die Verwertung eines urheberrechtlich geschützten Werkes von erheblicher wirtschaftlicher oder technischer Bedeutung nicht überlassen wird, haben Anspruch auf eine angemessene Vergütung. Das Obligationenrecht[^22-1] gilt sinngemäss.
+**Weitere Arbeitsergebnisse**
 
-[^22-1]: SR 220.
+§ 22 a.[^21-2] <sup>1</sup> Vorbehältlich §§ 21 und 22 stehen sämtliche in Ausübung der dienstlichen Tätigkeit geschaffenen Ergebnisse, insbesondere Protokolle, Skizzen, Laborbücher und Produkte, im Eigentum des Kantonsspitals Winterthur.
+
+<sup>2</sup> Vorbehalten sind anderslautende vertragliche Vereinbarungen.
+
+[^21-1]: SR 220.
+[^21-2]: Eingefügt durch B vom 14. März 2022 (OS 77, 350; ABl 2022-04-08). In Kraft seit 1. August 2022 (ABl 2022-07-22).
 
 ### F. Schluss- und Übergangsbestimmungen
 
@@ -295,17 +312,13 @@ Die Spitaldirektion passt Bewilligungen, Auflagen und andere im Zeitpunkt des In
 
 Dieses Personalreglement tritt am ersten Tag des zweiten Monats nach seiner Genehmigung durch den Regierungsrat[^23-1] in Kraft[^23-2].
 
-[^24-1]: Eingefügt durch B vom 20. Dezember 2012 (OS 68, 227; ABl 2013-03-08). In Kraft seit 1. September 2010.
-
-### Anhang
-
-[^24-1]
+### Anhang<sup>8</sup>
 
 ### Ergänzungen und Abweichungen zu kantonalen Bestimmungen
 
 über Nacht-, Sonntags-, Schicht- und Pikettdienst (§ 12)
 
-- 1\. Assistenz-/Oberärztinnen und Assistenz-/Oberärzte
+### 1. Assistenz-/Oberärztinnen und Assistenz-/Oberärzte
 
 **Entschädigung Schichtzulage gemäss § 132 VVO**
 
@@ -361,5 +374,9 @@ Pikett-/Hintergrunddienst Entschädigung
 - [4] LS 177.10.
 - [5] LS 177.111.
 - [6] LS 813.16.
-- [10] Heute: BVK Personalvorsorge des Kantons Zürich. 1. 7. 15 - 89 7
+- [8] Eingefügt durch B vom 20. Dezember 2012 (OS 68, 227; ABl 2013-03-08). In Kraft seit 1. September 2010.
+- [9] Fassung gemäss B vom 20. Dezember 2012 (OS 68, 227; ABl 2013-03-08). In Kraft seit 1. September 2010.
+- [10] Heute: BVK Personalvorsorge des Kantons Zürich.
+- [12] Fassung gemäss B vom 14. März 2022 (OS 77, 350; ABl 2022-04-08). In Kraft seit 1. August 2022 (ABl 2022-07-22).
+- [13] Aufgehoben durch B vom 14. März 2022 (OS 77, 350; ABl 2022-04-08). In Kraft seit 1. August 2022 (ABl 2022-07-22). 1.10. 22 - 118 9
 - [*] Die zusätzliche Anrechnung der Pikettdienstzeit als Arbeitszeit erfolgt auch bei einer vorgegebenen Interventionszeit von mehr als 30 Minuten.
