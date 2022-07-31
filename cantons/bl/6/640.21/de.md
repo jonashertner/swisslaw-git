@@ -4,13 +4,13 @@ number: "640.21"
 title: Verordnung über die schulische Laufbahn
 short: Laufbahnverordnung
 language: de
-version: 2022-01-01
-valid_until: 2022-07-31
-version_adopted: 2021-12-14
+version: 2022-08-01
+valid_until: 2023-07-31
+version_adopted: 2022-06-28
 adopted: 2013-06-11
 in_force: 2014-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/640.21"
-pdf: "https://bl.clex.ch/api/de/versions/3186/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3360/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3186/pdf_file"
 
 (Laufbahnverordnung)
 
-Vom 11.06.2013 (Stand 01.01.2022)
+Vom 11.06.2013 (Stand 01.08.2022)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
