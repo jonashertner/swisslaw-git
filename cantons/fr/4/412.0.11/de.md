@@ -4,13 +4,13 @@ number: "412.0.11"
 title: Reglement über den Mittelschulunterricht
 short: MSR
 language: de
-version: 2022-02-01
-valid_until: 2022-07-31
-version_adopted: 2022-03-04
+version: 2022-08-01
+valid_until: 2025-07-31
+version_adopted: 2022-06-14
 adopted: 2021-05-26
 in_force: 2021-08-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/412.0.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/7289/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7520/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Mittelschulunterricht – R
 
 (MSR)
 
-vom 26.05.2021 (Fassung in Kraft getreten am 01.02.2022)
+vom 26.05.2021 (Fassung in Kraft getreten am 01.08.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -800,7 +800,7 @@ beschliesst:
 
 <sup>1</sup> Um die Qualität und Kohärenz des Freiburger Bildungssystems sowie dessen Steuerung sicherzustellen, können die Daten der Schulzeugnisse der Schülerinnen und Schüler am Ende des ersten Semesters und/oder des ersten Studienjahres den Direktionen der betroffenen Orientierungsschulen bekanntgegeben werden.
 
-<sup>2</sup> Um den Zugang zu den elektronischen Dienstleistungen im Bildungswesen zu erleichtern, dürfen folgende Daten von Schülerinnen und Schülern sowie des Lehr- und Verwaltungspersonals an die von der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (EDK) beauftragte Föderation der Identitätsdienste im Bildungsraum Schweiz bekanntgeben werden:
+<sup>2</sup> Um den Zugang zu den elektronischen Dienstleistungen im Bildungswesen zu erleichtern, dürfen folgende Daten von Schülerinnen und Schülern sowie des Lehr- und Verwaltungspersonals an die von der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (EDK) beauftragte Föderation der Identitätsdienste im Bildungsraum Schweiz zur Bearbeitung bekanntgegeben werden:
 
 - a) Vorname und Name,
 - b) Geburtsdatum,
@@ -808,7 +808,7 @@ beschliesst:
 - d) Rolle oder Funktion,
 - e) Schule, Bildungsgang, Stufe,
 - f) Wohnsitzkanton,
-- g) technischer Identifikator.
+- g) technischer Identifikator (AHVN13).
 
 <sup>3</sup> Um die Organisation der überbetrieblichen Kurse und Prüfungen des betrieblichen Teils der Vollzeit-Handelsmittelschulausbildung zu ermöglichen, können die folgenden Daten an die vom SBFI anerkannten Ausbildungs- und Prüfungsbranchen übermittelt werden:
 

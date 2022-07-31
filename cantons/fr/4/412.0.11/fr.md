@@ -4,13 +4,13 @@ number: "412.0.11"
 title: "Règlement sur l'enseignement secondaire supérieur"
 short: RESS
 language: fr
-version: 2022-02-01
-valid_until: 2022-07-31
-version_adopted: 2022-03-04
+version: 2022-08-01
+valid_until: 2025-07-31
+version_adopted: 2022-06-14
 adopted: 2021-05-26
 in_force: 2021-08-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/412.0.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7289/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7520/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Enseignement secondaire supérieur – R
 
 (RESS)
 
-du 26.05.2021 (version entrée en vigueur le 01.02.2022)
+du 26.05.2021 (version entrée en vigueur le 01.08.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -800,7 +800,7 @@ Arrête:
 
 <sup>1</sup> En vue de garantir la qualité et la cohérence du système éducatif fribourgeois ainsi que pour assurer son pilotage, les notes du bulletin scolaire des élèves peuvent être communiquées à la fin du premier semestre et/ou à la fin de la première année aux directions des écoles du cycle d'orientation dont ils sont issus.
 
-<sup>2</sup> Afin de faciliter l'accès aux services de formation en ligne, les données suivantes concernant les élèves, les enseignants et enseignantes ainsi que le personnel administratif peuvent être transmises à la fédération des services d'identité de l'espace suisse de formation, mandatée par la Conférence suisse des directeurs cantonaux de l'instruction publique (CDIP):
+<sup>2</sup> Afin de faciliter l'accès aux services de formation en ligne, les données suivantes concernant les élèves, les enseignants et enseignantes ainsi que le personnel administratif peuvent être transmises, pour traitement, à la fédération des services d'identité de l'espace suisse de formation, mandatée par la Conférence suisse des directeurs cantonaux de l'instruction publique (CDIP):
 
 - a) le prénom et le nom;
 - b) la date de naissance;
@@ -808,7 +808,7 @@ Arrête:
 - d) le rôle ou la fonction;
 - e) l'établissement scolaire, la voie de formation et le degré;
 - f) le canton de domicile;
-- g) l'identificateur technique.
+- g) l'identificateur technique (NAVS 13).
 
 <sup>3</sup> Afin de permettre l'organisation des cours interentreprises et des examens de la partie entreprise de la formation commerciale en école à plein temps, les données suivantes peuvent être transmises aux branches de formation et d'examens reconnues par le SEFRI:
 
