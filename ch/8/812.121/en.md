@@ -4,11 +4,11 @@ title: "Federal Act of 3 October 1951 on Narcotics and Psychotropic Substances (
 short: NarcA
 eli: "https://fedlex.data.admin.ch/eli/cc/1952/241_241_245"
 language: en
-version: 2022-01-01
+version: 2022-08-01
 adopted: 1951-10-03
 in_force: 1952-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/241_241_245/20220101/en/xml/fedlex-data-admin-ch-eli-cc-1952-241_241_245-20220101-en-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1952/241_241_245/20220101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/241_241_245/20220801/en/xml/fedlex-data-admin-ch-eli-cc-1952-241_241_245-20220801-en-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1952/241_241_245/20220801/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Narcotics Act, NarcA)[^t-1]
 
-of 3 October 1951 (Status as of 1 January 2022)
+of 3 October 1951 (Status as of 1 August 2022)
 
 [^t-1]: Title amended by No I of the FA of 24 March 1995, in force since 1 July 1996 ([AS 1996 1677](https://fedlex.data.admin.ch/eli/oc/1996/1677_1677_1677); [BBl 1994 III 1273](https://fedlex.data.admin.ch/eli/fga/1994/3_1273_1249_1137)).
 
@@ -85,7 +85,7 @@ Narcotics used as therapeutic substances are governed by the provisions of the T
 
 In this Act:
 
-- a. *narcotics* means substances and preparations that cause dependence that have the effects associated with morphine, cocaine or cannabis, and substances and preparations produced on their basis of or that have a similar effect to the same;
+- a. *narcotics* means substances and preparations that cause dependence containing an effective concentration of morphine, cocaine or cannabis, and substances and preparations produced on their basis of or that have a similar effect to the same;
 - b. *psychotropic substances* means substances and preparations that cause dependence that contain amphetamines, barbiturates, benzodiazepines or hallucinogens such as lysergide or mescaline or that have a similar effect to the same;
 - c. *substances* means raw materials such as plants or fungi or parts thereof, and chemically produced compounds;
 - d. *preparations* means ready-to-use narcotics and psychotropic substances;
@@ -205,26 +205,13 @@ Heroin-based treatment requires a federal licence. The Federal Council shall iss
 - b. heroin is only prescribed by specialist physicians in appropriate facilities;
 - c. the conduct of and progress with heroin-based treatment is reviewed periodically.
 
-[^3e-1]: In force since 1 Jan. 2010.
+[^3e-1]: In force since 1 Jan. 2010 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352)).
 
 #### Art. 3f
 
-**Data processing**[^3f-1]
+[^3f-1]
 
-<sup>1</sup> The authorities and institutions responsible for the implementation of this Act are entitled to process personal data, and in particular sensitive personal data and personality profiles in order to review the requirements for and the progress with the treatment of persons dependent on narcotics.
-
-<sup>2</sup> They shall guarantee the protection of data in accordance with paragraph 1 through technical and organisational measures.
-
-<sup>3</sup>
-
-The Federal Council shall regulate the details, in particular:
-
-- a. the authorities and institutions responsible for the data processing;
-- b. the data to be processed;
-- c. the data flows;
-- d. the rights of access.
-
-[^3f-1]: In force since 1 Jan. 2010.
+[^3f-1]: Repealed by No I of the FA of 19 March 2021, with effect from 1 Aug. 2022 ([AS 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [BBl 2020 6069](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
 
 ### Section 3 Harm Reduction and Survival Support
 
@@ -269,7 +256,7 @@ The Confederation may in terms of the Federal Research Act of 7 October 1983[^3j
 - d. the prevention or reduction of disorders associated with addiction;
 - e. the effectiveness of reintegration measures.
 
-[^3j-1]: [[AS 1984 28](https://fedlex.data.admin.ch/eli/oc/1984/28_28_28), [1992 1027](https://fedlex.data.admin.ch/eli/oc/1992/1027_1027_1027)Art. 19, [1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)Annex No 4 [2080](https://fedlex.data.admin.ch/eli/oc/1993/2080_2080_2080)Annex No 9, [1996 99](https://fedlex.data.admin.ch/eli/oc/1996/99_99_99), [2000 1858](https://fedlex.data.admin.ch/eli/oc/2000/286), [2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634), [2004 4261](https://fedlex.data.admin.ch/eli/oc/2004/638), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Annex No 39, [2008 433](https://fedlex.data.admin.ch/eli/oc/2008/109), [2010 651](https://fedlex.data.admin.ch/eli/oc/2010/99), [2011 4497](https://fedlex.data.admin.ch/eli/oc/2011/624)No I 1, [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)No I 13, [2013 2639](https://fedlex.data.admin.ch/eli/oc/2013/532). [AS 2013 4425](https://fedlex.data.admin.ch/eli/oc/2013/786)Art. 57 para. 1]. See now the FA of 14 Dec. 2012 on the Promotion of Research and Innovation ([SR 420.1](https://fedlex.data.admin.ch/eli/cc/2013/786)).
+[^3j-1]: [[AS 1984 28](https://fedlex.data.admin.ch/eli/oc/1984/28_28_28); [1992 1027](https://fedlex.data.admin.ch/eli/oc/1992/1027_1027_1027)Art. 19; [1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)Annex No 4; [2080](https://fedlex.data.admin.ch/eli/oc/1993/2080_2080_2080)Annex No 9; [1996 99](https://fedlex.data.admin.ch/eli/oc/1996/99_99_99); [2000 1858](https://fedlex.data.admin.ch/eli/oc/2000/286); [2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [2004 4261](https://fedlex.data.admin.ch/eli/oc/2004/638); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Annex No 39; [2008 433](https://fedlex.data.admin.ch/eli/oc/2008/109); [2010 651](https://fedlex.data.admin.ch/eli/oc/2010/99); [2011 4497](https://fedlex.data.admin.ch/eli/oc/2011/624)No I 1; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)No I 13; [2013 2639](https://fedlex.data.admin.ch/eli/oc/2013/532). [AS 2013 4425](https://fedlex.data.admin.ch/eli/oc/2013/786)Art. 57 para. 1]. See now the FA of 14 Dec. 2012 on the Promotion of Research and Innovation ([SR 420.1](https://fedlex.data.admin.ch/eli/cc/2013/786)).
 
 #### Art. 3k
 
@@ -291,20 +278,21 @@ In consultation with the cantons, the Confederation shall develop recommendation
 
 **Licence for production and trade[^4-1]**
 
-<sup>1</sup> Businesses and persons that cultivate, produce, process or trade in narcotics require a licence from the Swiss Agency for Therapeutic Products (the Agency). Article 8 is reserved.[^4-2]
+<sup>1</sup> Businesses and persons that cultivate, produce, process or trade in narcotics require a licence from the Swiss Agency for Therapeutic Products (Swissmedic[^4-2]). Article 8 is reserved.[^4-3]
 
 <sup>2</sup> The Federal Council shall regulate the requirements for the grant, expiry or withdrawal of the licence, and its form, content and term of validity.
 
 [^4-1]: Inserted by No I of the FA of 20 March 2008, in force since 1 July 2011 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [BBl 2006 8573](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8645](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
-[^4-2]: Amended by No I of the FA of 20 March 2008, in force since 1 July 2011 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [BBl 2006 8573](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8645](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+[^4-2]: Name in accordance with No I of the FA of 19 March 2021, in force since 1 Aug. 2022 ([AS 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [BBl 2020 6069](https://fedlex.data.admin.ch/eli/fga/2020/1492)). This change has been made throughout the text.
+[^4-3]: Amended by No I of the FA of 20 March 2008, in force since 1 July 2011 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [BBl 2006 8573](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8645](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 
 #### Art. 5
 
 **Import, export and transit[^5-1]**
 
-<sup>1</sup> Any import or export of narcotics subject to control requires a licence from the Agency.[^5-2] This shall be granted in accordance with the international agreement. An export licence may also be granted even if it is not required under this Act and the international agreements but requested by the country of destination.[^5-3]
+<sup>1</sup> Any import or export of narcotics subject to control requires a licence from Swissmedic.[^5-2] This shall be granted in accordance with the international agreement. An export licence may also be granted even if it is not required under this Act and the international agreements but requested by the country of destination.[^5-3]
 
-<sup>1bis</sup> The Federal Council may issue special provisions on the import or export of narcotics by travellers suffering from medical conditions. The Agency may process sensitive personal data connected with the import or export of narcotics by travellers suffering from medical conditions, provided this is required by international agreements.[^5-4]
+<sup>1bis</sup> The Federal Council may issue special provisions on the import or export of narcotics by travellers suffering from medical conditions. Swissmedic may process sensitive personal data connected with the import or export of narcotics by travellers suffering from medical conditions, provided this is required by international agreements.[^5-4]
 
 <sup>2</sup> The supervision of the transit of narcotics shall be carried out by the Federal Office for Customs and Border Security[^5-5] in consultation with the Agency.
 
@@ -331,7 +319,7 @@ In consultation with the cantons, the Confederation shall develop recommendation
 
 <sup>1</sup> Raw materials and products suspected of having similar effects to the substances and preparations in accordance with Article 2 may only be cultivated, produced, imported or exported, stored, used or placed on the market with a licence issued by the Federal Department of Home Affairs and in accordance with its conditions.
 
-<sup>2</sup> The Agency shall establish whether raw materials and products are substances or preparations in accordance with Article 2. If this is the case, a licence under Articles 4 and 5 is required.
+<sup>2</sup> Swissmedic shall establish whether raw materials and products are substances or preparations in accordance with Article 2. If this is the case, a licence under Articles 4 and 5 is required.
 
 <sup>3</sup> The Federal Department of Home Affairs shall maintain a list of these substances and preparations.
 
@@ -348,7 +336,7 @@ The following narcotics may not be cultivated, imported, produced or placed on t
 - a. opium for smoking and the residues created in its production or use;
 - b. diacetylmorphine and its salts;
 - c. hallucinogens such as lysergide (LSD 25);
-- d.[^8-3] narcotics containing an effective concentration of cannabinoids.[^8-4]
+- d.[^8-3] narcotics containing an effective concentration of cannabinoids, unless they are used for medical purposes.[^8-4]
 
 <sup>2</sup> ...[^8-5]
 
@@ -356,24 +344,30 @@ The following narcotics may not be cultivated, imported, produced or placed on t
 
 <sup>4</sup> Any stocks of prohibited narcotics must be transformed under the supervision of the relevant cantonal authority in to a legally-permitted substance or, if this is not possible, destroyed.
 
-<sup>5</sup> The Federal Office of Public Health may issue exceptional licences for cultivating, importing, producing and placing on the market the narcotics mentioned in paragraphs 1 and 3, where this is not prohibited by an international agreement and these narcotics are needed for scientific research, the development of medicinal products or for restricted medical use.[^8-7]
+<sup>5</sup>
 
-<sup>6</sup> For the cultivation of a narcotic mentioned in paragraphs 1 and 3 that is an active ingredient in an authorised medicinal product, an exceptional licence is required from the Federal Office of Public Health.[^8-8]
+Unless it is prohibited under an international agreement, the Federal Office of Public Health (FOPH) may issue exceptional licences for cultivating, importing, producing and placing on the market narcotics:
 
-<sup>7</sup> For the import, production and placing on the market of a narcotic mentioned in paragraphs 1 and 3 that is an active ingredient in an authorised medicinal product, a licence is required from the Agency in accordance with Article 4.[^8-9]
+- a. in accordance with paragraphs 1 and 3, where these narcotics are needed for scientific research, the development of medicinal products or for restricted medical use;
+- b. in accordance with paragraph 1 letter d, provided these narcotics are used in scientific research.[^8-7]
 
-<sup>8</sup> The Federal Office of Public Health may grant exceptional licences, provided the substances mentioned in the paragraphs 1 and 3 are used in control measures.[^8-10]
+<sup>6</sup> For the cultivation of a narcotic mentioned in paragraphs 1 letters a–c and 3 that is an active ingredient in an authorised medicinal product, an exceptional licence is required from the FOPH.[^8-8]
+
+<sup>7</sup> For the import, production and placing on the market of a narcotic mentioned in paragraphs 1 letters a–c and 3 that is an active ingredient in an authorised medicinal product, a licence is required from Swissmedic in accordance with Article 4.[^8-9]
+
+<sup>8</sup> The FOPH[^8-10] may grant exceptional licences, provided the substances mentioned in the paragraphs 1 and 3 are used in control measures.[^8-11]
 
 [^8-1]: Inserted by No I of the FA of 20 March 2008, in force since 1 July 2011 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [BBl 2006 8573](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8645](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 [^8-2]: Amended by No I of the FA of 20 March 2008, in force since 1 July 2011 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [BBl 2006 8573](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8645](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
-[^8-3]: Amended by No I of the FA of 20 March 2008, in force since 1 July 2011 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [BBl 2006 8573](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8645](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+[^8-3]: Amended by No I of the FA of 19 March 2021, in force since 1 Aug. 2022 ([AS 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [BBl 2020 6069](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
 [^8-4]: Amended by No I of the FA of 20 March 1975, in force since 1 Aug. 1975 ([AS 1975 1220](https://fedlex.data.admin.ch/eli/oc/1975/1220_1220_1220); [BBl 1973 I 1348](https://fedlex.data.admin.ch/eli/fga/1973/1_1348_1303_1106)).
 [^8-5]: Repealed by No I of the FA of 20 March 1975, with effect from 1 Aug 1975 ([AS 1975 1220](https://fedlex.data.admin.ch/eli/oc/1975/1220_1220_1220); [BBl 1973 I 1348](https://fedlex.data.admin.ch/eli/fga/1973/1_1348_1303_1106)).
 [^8-6]: Amended by No I of the FA of 20 March 2008, in force since 1 July 2011 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [BBl 2006 8573](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8645](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
-[^8-7]: Amended by No I of the FA of 20 March 2008, in force since 1 July 2011 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [BBl 2006 8573](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8645](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
-[^8-8]: Inserted by No I of the FD on the Medical Prescription of Heroin of 9 Oct. 1998 ([AS 1998 2293](https://fedlex.data.admin.ch/eli/oc/1998/2293_2293_2293); BBl **1998** 1607). Amended by No I of the FA of 20 March 2008, in force since 1 July 2011 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [BBl 2006 8573](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8645](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
-[^8-9]: Inserted by No I of the FD on the Medical Prescription of Heroin of 9 Oct. 1998 ([AS 1998 2293](https://fedlex.data.admin.ch/eli/oc/1998/2293_2293_2293); BBl **1998** 1607). Amended by No I of the FA of 20 March 2008, in force since 1 July 2011 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [BBl 2006 8573](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8645](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
-[^8-10]: Inserted by No I of the FD on the Medical Prescription of Heroin of 9 Oct. 1998 ([AS 1998 2293](https://fedlex.data.admin.ch/eli/oc/1998/2293_2293_2293); BBl **1998** 1607). Amended by No I of the FA of 20 March 2008, in force since 1 July 2011 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [BBl 2006 8573](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8645](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+[^8-7]: Amended by No I of the FA of 19 March 2021, in force since 1 Aug. 2022 ([AS 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [BBl 2020 6069](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
+[^8-8]: Inserted by No I of the FD on the Medical Prescription of Heroin of 9 Oct. 1998 ([AS 1998 2293](https://fedlex.data.admin.ch/eli/oc/1998/2293_2293_2293); [BBl 1998 II 1607](https://fedlex.data.admin.ch/eli/fga/1998/2_1607__)). Amended by No I of the FA of 19 March 2021, in force since 1 Aug. 2022 ([AS 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [BBl 2020 6069](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
+[^8-9]: Inserted by No I of the FD on the Medical Prescription of Heroin of 9 Oct. 1998 ([AS 1998 2293](https://fedlex.data.admin.ch/eli/oc/1998/2293_2293_2293); [BBl 1998 II 1607](https://fedlex.data.admin.ch/eli/fga/1998/2_1607__)). Amended by No I of the FA of 19 March 2021, in force since 1 Aug. 2022 ([AS 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [BBl 2020 6069](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
+[^8-10]: Expression in accordance with No I of the FA of 19 March 2021, in force since 1 Aug. 2022 ([AS 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [BBl 2020 6069](https://fedlex.data.admin.ch/eli/fga/2020/1492)). This change has been made throughout the text.
+[^8-11]: Inserted by No I of the FD on the Medical Prescription of Heroin of 9 Oct. 1998 ([AS 1998 2293](https://fedlex.data.admin.ch/eli/oc/1998/2293_2293_2293); [BBl 1998 II 1607](https://fedlex.data.admin.ch/eli/fga/1998/2_1607__)). Amended by No I of the FA of 20 March 2008, in force since 1 July 2011 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [BBl 2006 8573](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8645](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 
 #### Art. 8a
 
@@ -392,8 +386,36 @@ After consulting the cantons and communes concerned, the Federal Office of Publi
 
 <sup>3</sup> Narcotics containing an effective concentration of cannabinoids that are supplied in the course of the pilot trials are exempt from tobacco tax under Article 4 of the Tobacco Tax Act of 21 March 1969[^8a-2].
 
-[^8a-1]: Inserted by No I of the FD on the Medical Prescription of Heroin of 9 Oct. 1998 ([AS 1998 2293](https://fedlex.data.admin.ch/eli/oc/1998/2293_2293_2293); BBl **1998** 1607). Amended by No I of the FA of 25 Sept. 2020, in force from 15 May 2021 to 14 May 2031 ([AS 2021 216](https://fedlex.data.admin.ch/eli/oc/2021/216); [BBl 2019 2529](https://fedlex.data.admin.ch/eli/fga/2019/721)).
+[^8a-1]: Inserted by No I of the FD on the Medical Prescription of Heroin of 9 Oct. 1998 ([AS 1998 2293](https://fedlex.data.admin.ch/eli/oc/1998/2293_2293_2293); [BBl 1998 II 1607](https://fedlex.data.admin.ch/eli/fga/1998/2_1607__)). Amended by No I of the FA of 25 Sept. 2020, in force from 15 May 2021 to 14 May 2031 ([AS 2021 216](https://fedlex.data.admin.ch/eli/oc/2021/216); [BBl 2019 2529](https://fedlex.data.admin.ch/eli/fga/2019/721)).
 [^8a-2]: [SR 641.31](https://fedlex.data.admin.ch/eli/cc/1969/645_665_663)
+
+#### Art. 8b
+
+**Collecting data on medical treatment using narcotics containing an effective concentration of Cannabis**[^8b-1]
+
+<sup>1</sup>
+
+The FOPH shall collect data on medical treatments using narcotics containing an effective concentration of cannabis (medicinal cannabis products) that:
+
+- a. are not authorised;
+- b. are authorised but are prescribed for an indication other than the authorised indication and used in a form other than the authorised pharmaceutical form.
+
+<sup>2</sup>
+
+The data is collected for:
+
+- a. the scientific evaluation under Article 29*a*; and
+- b. statistical analysis.
+
+<sup>3</sup>
+
+The FOPH shall make the results of the statistical analysis available to:
+
+- a. the cantonal executive authorities;
+- b. the doctors involved in the treatment;
+- c. research institutions that are interested.
+
+[^8b-1]: Inserted by No I of the FA of 19 March 2021, in force from 1. Aug. 2022 until 31 July 2029 ([AS 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [BBl 2020 6069](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
 
 ### Section 2 Medical Professionals
 
@@ -409,7 +431,7 @@ After consulting the cantons and communes concerned, the Federal Office of Publi
 
 <sup>4</sup> The cantons may limit the authorisation granted to dentists to specific narcotics.
 
-<sup>5</sup> The conditions that apply to foreign sanatoriums in Switzerland shall be regulated by the cantons shall in consultation with the Agency.
+<sup>5</sup> The conditions that apply to foreign sanatoriums in Switzerland shall be regulated by the cantons shall in consultation with Swissmedic.
 
 [^9-1]: Medicinal Products Licensing Ordinance of 14 Nov. 2014 ([SR 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)). The reference was adapted in application of Art. 12 para. 2 of the Publications Act of 18 June 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) on 1. Jan. 2019.
 [^9-2]: [SR 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
@@ -507,7 +529,7 @@ In pharmacies, narcotics may only be dispensed to the public on the basis of a p
 
 [^16-1]
 
-For each supply of narcotics, a delivery note must be issued and handed to the recipient with the product. The supply must be reported to the Agency separately. Exempted from the foregoing is dispensing by authorised medical professionals[^16-2] for the treatment of persons and animals and to physicians in the same cantonal territory who do not dispense directly.
+For each supply of narcotics, a delivery note must be issued and handed to the recipient with the product. The supply must be reported to Swissmedic separately. Exempted from the foregoing is dispensing by authorised medical professionals[^16-2] for the treatment of persons and animals and to physicians in the same cantonal territory who do not dispense directly.
 
 [^16-1]: Amended by No I of the FA of 20 March 2008, in force since 1 July 2011 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [BBl 2006 8573](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8645](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 [^16-2]: Term: Medicinal Products Licensing Ordinance of 14 Nov. 2018 ([SR 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)). The reference was adapted in application of Art. 12 para. 2 of the Publications Act of 18 June 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) on 1. Jan. 2019.
@@ -516,16 +538,16 @@ For each supply of narcotics, a delivery note must be issued and handed to the r
 
 <sup>1</sup> Businesses, persons and institutions who hold a licence under Articles 4 and 14 paragraph 2 are obliged to keep constant records of all dealing with narcotics.[^17-1]
 
-<sup>2</sup> The businesses and persons mentioned in Article 4 must report to the Agency[^17-2] at the end of each year on their dealing with narcotics and the stocks that they hold.[^17-3]
+<sup>2</sup> The businesses and persons mentioned in Article 4 must report to Swissmedic[^17-2] at the end of each year on their dealing with narcotics and the stocks that they hold.[^17-3]
 
-<sup>3</sup> Businesses and persons licensed to cultivate, produce and process narcotics must also report to the Agency annually on the extent the area under cultivation and the type and quantity of narcotics obtained, produced and processed.[^17-4]
+<sup>3</sup> Businesses and persons licensed to cultivate, produce and process narcotics must also report to Swissmedic annually on the extent the area under cultivation and the type and quantity of narcotics obtained, produced and processed.[^17-4]
 
 <sup>4</sup> The persons authorised under Article 9 to acquire, use or dispense narcotics or the persons responsible for them under Article 14 paragraph 1 must justify the use of the narcotics.
 
 <sup>5</sup> The Federal Council shall issue provisions on safeguarding, labelling and promoting narcotics, as well as the information given on package inserts.[^17-5]
 
 [^17-1]: Amended by No I of the FA of 18 Dec. 1968, in force since 1 Jan. 1970 ([AS 1970 9](https://fedlex.data.admin.ch/eli/oc/1970/9_9_9)13; [BBl 1968 I 737](https://fedlex.data.admin.ch/eli/fga/1968/1_737_765_489)).
-[^17-2]: Revised by the Federal Assembly Drafting Committee (art. 33 ParlPA; [AS 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
+[^17-2]: Revised by the Federal Assembly Drafting Committee [Art. 33 ParlPA; [AS 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)].
 [^17-3]: Amended by Annex No II 3 of the Therapeutic Products Act of 15 Dec. 2000, in force since 1 Jan. 2002 ([AS 2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422); BBl **1999** 3453).
 [^17-4]: Amended by No I of the FA of 20 March 2008, in force since 1 July 2011 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [BBl 2006 8573](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8645](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 [^17-5]: Inserted by No I of the FA of 18 Dec. 1968, in force since 1 Jan. 1970 ([AS 1970 9](https://fedlex.data.admin.ch/eli/oc/1970/9_9_9)13; [BBl 1968 I 737](https://fedlex.data.admin.ch/eli/fga/1968/1_737_765_489)).
@@ -539,11 +561,18 @@ For each supply of narcotics, a delivery note must be issued and handed to the r
 [^18-1]: Amended by No I of the FA of 18 Dec. 1968, in force since 1 Jan. 1970 ([AS 1970 9](https://fedlex.data.admin.ch/eli/oc/1970/9_9_9)13; [BBl 1968 I 737](https://fedlex.data.admin.ch/eli/fga/1968/1_737_765_489)).
 [^18-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
-## Chapter 3*a* Data Protection under the Schengen Association Agreements
+## Chapter 3*a* Data Protection and Data Processing
 
-[^chap3a-1]
+[^chap3a-1][^chap3a-2]
 
 [^chap3a-1]: Inserted by Art. 3 No 9 of the FD of 17 Dec. 2004 on the Adoption and Implementation of the Bilateral Agreements between Switzerland and the EU on the Association to Schengen and Dublin, in force since 12 Dec. 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 1 let. f; [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
+[^chap3a-2]: Amended by No I of the FA of 19 March 2021, in force since 1 Aug. 2022 ([AS 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [BBl 2020 6069](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
+
+### Section 1 Data Protection under the Schengen Association Agreements
+
+[^chap3a-sec1-1]
+
+[^chap3a-sec1-1]: Inserted by No I of the FA of 19 March 2021, in force since 1 Aug. 2022 ([AS 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [BBl 2020 6069](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
 
 #### Art. 18a
 
@@ -567,11 +596,74 @@ The right to information is governed by the federal or cantonal data protection 
 
 [^18c-1]: Amended by No 7 of the FA of 19 March 2010 on the implementation of Council Framework Decision 2008/977/JI on the protection of personal data processed in the framework of police and judicial cooperation in criminal matters, in force since 1 Dec. 2010 ([AS 2010 3387](https://fedlex.data.admin.ch/eli/oc/2010/464); [BBl 2009 6749](https://fedlex.data.admin.ch/eli/fga/2009/1207)).
 
-#### Art. 18d and 18e
+### Section 2 Data Processing
 
-[^18d18e-1]
+[^chap3a-sec2-1]
 
-[^18d18e-1]: Repealed by No 7 of the FA of 19 March 2010 on the implementation of Council Framework Decision 2008/977/JI on the protection of personal data processed in the framework of police and judicial cooperation in criminal matters, with effect from 1 Dec. 2010 ([AS 2010 3387](https://fedlex.data.admin.ch/eli/oc/2010/464); [BBl 2009 6749](https://fedlex.data.admin.ch/eli/fga/2009/1207)).
+[^chap3a-sec2-1]: Inserted by No I of the FA of 19 March 2021, in force since 1 Aug. 2022 ([AS 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [BBl 2020 6069](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
+
+#### Art. 18d
+
+**In connection with the treatment of persons dependent on narcotics**[^18d-1]
+
+<sup>1</sup> The authorities and institutions responsible for the implementation of this Act are entitled to process personal data, and in particular sensitive personal data and personality profiles in order to review the requirements for and the progress with the treatment of persons dependent on narcotics.
+
+<sup>2</sup> They shall take technical and organisational measures to guarantee the protection of data in accordance with paragraph 1.
+
+<sup>3</sup>
+
+The Federal Council shall regulate the details, in particular:
+
+- a. the authorities and institutions responsible for the data processing;
+- b. the data to be processed;
+- c. the data flows;
+- d. the rights of access.
+
+[^18d-1]: Amended by No I of the FA of 19 March 2021, in force since 1 Aug. 2022 ([AS 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [BBl 2020 6069](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
+
+#### Art. 18e
+
+**In connection with licences under Articles 4, 5 and 8**[^18e-1]
+
+<sup>1</sup>
+
+The FOPH and Swissmedic may process the following personal data, provided it is required in order to grant licences pursuant to Articles 4 and 5 and exceptional licences pursuant to Article 8 paragraphs 5–8 or to verify compliance with such licences:
+
+- a. details of any administrative or criminal prosecutions of applicants under Articles 4, 5 and 8 paragraphs 5–8;
+- b. details required to identify the patients; and
+- c. relevant medical data related to restricted medical use in accordance with Article 8 paragraph 5 letter a.
+
+<sup>2</sup>
+
+The Federal Council shall specify:
+
+- a. the data that may be processed;
+- b. the retention periods.
+
+[^18e-1]: Amended by No I of the FA of 19 March 2021, in force since 1 Aug. 2022 ([AS 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [BBl 2020 6069](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
+
+#### Art. 18f
+
+**In connection with medicinal cannabis products**[^18f-1]
+
+<sup>1</sup> The FOPH shall operate an information system to process data under Article 8*b*.
+
+<sup>2</sup> Doctors who treat persons with medicinal cannabis products must record the data required for data collection under Article 8*b*. Data on patients must be recorded in pseudonymised form.
+
+<sup>3</sup>
+
+The Federal Council shall specify:
+
+- a. the data required for data collection under Article 8*b*, in particular on side effects;
+- b. the frequency and time of data collection;
+- c. the doctors’ rights of access in accordance with paragraph 2;
+- d. the technical and organisational aspects of the data collection system;
+- e. the retention periods for the data;
+- f. the publication of the statistical analyses.
+
+<sup>4</sup> It may stipulate that data need no longer be recorded if new data is no longer required for the scientific evaluation under Article 8*b* paragraph 2.
+
+[^18f-1]: Inserted by No I of the FA of 19 March 2021, in force from 1 Aug. 2022 until 31 July 2029 ([AS 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [BBl 2020 6069](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
 
 ## Chapter 4 Criminal Provisions
 
@@ -671,14 +763,15 @@ Any person who:
 
 - a. makes an application containing false information in order to obtain an import, transit or export licence for him or herself or for another;
 - b. without a licence diverts narcotics or substances in accordance with Article 3 paragraph 1 for which he or she holds a Swiss export licence to a different destination in Switzerland or abroad;
-- c. without a licence cultivates, produces, imports or exports, stores or places on the market substances and preparations in accordance with Article 7;
-- d. as a medical professional[^20-2] uses or dispenses narcotics other than in accordance with Articles 11 or 13;
+- c.[^20-2] without a licence cultivates, produces, imports or exports, stores or places on the market substances in accordance with Article 3 paragraph 1 and substances and preparations in accordance with Article 7;
+- d. as a medical professional[^20-3] uses or dispenses narcotics other than in accordance with Articles 11 or 13;
 - e. as a physician or veterinary surgeon prescribes narcotics other than in accordance with Article 11;
 
 <sup>2</sup> The offender is liable to a custodial sentence of no less than one year if he or she achieves a large turnover or substantial profit through commercial trading. The custodial sentence may be combined with a monetary penalty.
 
 [^20-1]: Amended by No I of the FA of 20 March 2008, in force since 1 July 2011 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [BBl 2006 8573](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8645](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
-[^20-2]: Term: Medicinal Products Licensing Ordinance of 14 Nov. 2018 ([SR 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)). The reference was adapted in application of Art. 12 para. 2 of the Publications Act of 18 June 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) on 1. Jan. 2019.
+[^20-2]: Amended by No I of the FA of 19 March 2021, in force since 1 Aug. 2022 ([AS 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [BBl 2020 6069](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
+[^20-3]: Term: Medicinal Products Licensing Ordinance of 14 Nov. 2018 ([SR 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)). The reference was adapted in application of Art. 12 para. 2 of the Publications Act of 18 June 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) on 1. Jan. 2019.
 
 #### Art. 21
 
@@ -759,7 +852,7 @@ The general provisions of the Criminal Code[^26-1] apply unless this Act itself 
 [^27-3]: [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
 [^27-4]: Amended by Annex No II 4 of the Foodstuffs Act of 20 June 2014, in force since 1 May 2017 ([AS 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [BBl 2011 5571](https://fedlex.data.admin.ch/eli/fga/2011/853)).
 [^27-5]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^27-6]: [[AS 2000 1347](https://fedlex.data.admin.ch/eli/oc/2000/213), [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)No II 4, [2004 5387](https://fedlex.data.admin.ch/eli/oc/2004/820), [2006 2353](https://fedlex.data.admin.ch/eli/oc/2006/360)[4705](https://fedlex.data.admin.ch/eli/oc/2006/725)No II 45, [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Annex 4 No 24 [6657](https://fedlex.data.admin.ch/eli/oc/2007/861)Annex No 9. [AS 2009 6743](https://fedlex.data.admin.ch/eli/oc/2009/828)Art. 163]. See now: the Value Added Tax Ordinance of 27 Nov. 2009 ([SR 641.201](https://fedlex.data.admin.ch/eli/cc/2009/828)).
+[^27-6]: [[AS 2000 1347](https://fedlex.data.admin.ch/eli/oc/2000/213); [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)No II 4; [2004 5387](https://fedlex.data.admin.ch/eli/oc/2004/820); [2006 2353](https://fedlex.data.admin.ch/eli/oc/2006/360),[4705](https://fedlex.data.admin.ch/eli/oc/2006/725)No II 45; [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Annex 4 No 24, [6657](https://fedlex.data.admin.ch/eli/oc/2007/861)Annex No 9. [AS 2009 6743](https://fedlex.data.admin.ch/eli/oc/2009/828)Art. 163]. See now the Value Added Tax Ordinance of 27 Nov. 2009 ([SR 641.201](https://fedlex.data.admin.ch/eli/cc/2009/828)).
 
 ### Section 2 Prosecution
 
@@ -811,19 +904,21 @@ Offences under Articles 20–22 that are established by the relevant federal aut
 
 <sup>3</sup> The Confederation and the cantons work together to fulfil their tasks under this Act and shall coordinate their measures. They may call on the assistance of other organisations concerned.
 
-<sup>4</sup> The Federal Council shall appoint a specialist committee[^29-1] to advise it on the issue of addiction.
+<sup>4</sup> ...[^29-1]
 
-[^29-1]: The name of the committee was amended on 1 Feb. 2019 in application of Art. 20 para. 2 of the Publications Act of 7 Oct. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)).
+[^29-1]: Repealed by No I of the FA of 19 March 2021, with effect from 1 Aug. 2022 ([AS 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [BBl 2020 6069](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
 
 #### Art. 29a
 
-<sup>1</sup> The Federal Office of Public Health shall arrange for the scientific evaluation of the measures under this Act. It may give the data obtained under Article 3*f* in anonymised form to the Federal Statistical Office for evaluation and publication.
+<sup>1</sup> The FOPH shall arrange for the scientific evaluation of the measures under this Act. It may give the data obtained under Articles 18*d*–18*f* in anonymised form to the Federal Statistical Office for evaluation and publication.[^29a-1]
 
 <sup>2</sup> On completion of important evaluations, the Federal Department of Home Affairs shall submit a report to the Federal Council and the relevant committees of the Federal Assembly on the results and shall submit proposals for further action.
 
-<sup>3</sup> The Federal Office of Public Health shall maintain a documentation, information and coordination office.
+<sup>3</sup> The FOPH shall maintain a documentation, information and coordination office.
 
-<sup>4</sup> The Agency shall submit reports in accordance with the international agreements.
+<sup>4</sup> Swissmedic shall submit reports in accordance with the international agreements.
+
+[^29a-1]: Amended by No I of the FA of 19 March 2021, in force since 1 Aug. 2022 ([AS 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [BBl 2020 6069](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
 
 #### Art. 29b
 
@@ -839,7 +934,7 @@ It has the following tasks:
 
   It liaises with:
 
-  - 1\. corresponding services in the Federal Administration (Federal Office of Public Health, Directorate General of Customs);
+  - 1\. corresponding services in the Federal Administration (FOPH, Directorate General of Customs);
   - 2\.[^29b-2] Swiss Post;
   - 3\. the Special Tasks Service (FDJP);
   - 4\. the cantonal police authorities;
@@ -897,7 +992,7 @@ The cantons shall issue the required regulations for implementing the federal la
 
 <sup>1</sup> The Federal Council shall issue the required implementing provisions.
 
-<sup>2</sup> It shall specify the fees that the Agency charges for licences, controls and services. It may delegate his power to the Agency.
+<sup>2</sup> It shall specify the fees that Swissmedic charges for licences, controls and services. It may delegate his power to Swissmedic.
 
 <sup>3</sup> It shall specify in specific cases the powers, the detailed requirements for their exercise and the methods for the required controls when granting licences to organisations, institutions and authorities as defined in Article 14*a*. It may if necessary issue alternative regulations to the Act when regulating the controls.
 
@@ -920,6 +1015,16 @@ The cantons shall issue the required regulations for implementing the federal la
 [^36-1]
 
 [^36-1]: Repealed by No I of the FA of 20 March 2008, with effect from 1 July 2011 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [BBl 2006 8573](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8645](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+
+#### Art. 36a
+
+**Transitional provisions to the Amendment of 19 March 2021**[^36a-1]
+
+<sup>1</sup> The Federal Council shall specify how long the exceptional licences issued under the previous law by the FOPH for the import, production and placing on the market of narcotics containing an effective concentration of cannabis for medical purposes remain valid after the Amendment of 19 March 2021 comes into force.
+
+<sup>2</sup> For as long as the exceptional licence in accordance with paragraph 1 remains valid, no licence is required from Swissmedic under Article 4.
+
+[^36a-1]: Inserted by No I of the FA of 19 March 2021, in force since 1 Aug. 2022 ([AS 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [BBl 2020 6069](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
 
 #### Art. 37
 

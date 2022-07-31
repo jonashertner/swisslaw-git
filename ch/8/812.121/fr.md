@@ -4,11 +4,11 @@ title: "Loi fédérale du 3 octobre 1951 sur les stupéfiants et les substances 
 short: LStup
 eli: "https://fedlex.data.admin.ch/eli/cc/1952/241_241_245"
 language: fr
-version: 2022-01-01
+version: 2022-08-01
 adopted: 1951-10-03
 in_force: 1952-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/241_241_245/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1952-241_241_245-20220101-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1952/241_241_245/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/241_241_245/20220801/fr/xml/fedlex-data-admin-ch-eli-cc-1952-241_241_245-20220801-fr-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1952/241_241_245/20220801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1952/241_241_245/20220101/fr"
 
 (Loi sur les stupéfiants, LStup)[^t-1]
 
-du 3 octobre 1951 (État le 1<sup>er</sup> janvier 2022)
+du 3 octobre 1951 (État le 1<sup>er</sup> août 2022)
 
 [^t-1]: Nouvelle teneur selon le ch. I de la LF du 24 mars 1995, en vigueur depuis le 1<sup>er</sup> juil. 1996([RO 1996 1677](https://fedlex.data.admin.ch/eli/oc/1996/1677_1677_1677); [FF 1994 III 1249](https://fedlex.data.admin.ch/eli/fga/1994/3_1273_1249_1137)).
 
@@ -209,20 +209,9 @@ Les traitements avec prescription d’héroïne doivent faire l’objet d’une 
 
 #### Art. 3f
 
-**Traitement des données**
+[^3f-1]
 
-<sup>1</sup> Les autorités et les institutions chargées de veiller à l’exécution de la présente loi sont autorisées à traiter des données personnelles, des données sensibles et des profils de la personnalité afin de vérifier les conditions relatives au traitement des personnes dépendantes et leur suivi.
-
-<sup>2</sup> Elles prennent les mesures techniques et organisationnelles propres à garantir la protection de toutes les données visées à l’al. 1.
-
-<sup>3</sup>
-
-Le Conseil fédéral fixe les modalités du traitement de ces données, en particulier:
-
-- a. les autorités et les institutions compétentes pour le traitement des données;
-- b. les données à traiter;
-- c. les flux de données;
-- d. les droits d’accès.
+[^3f-1]: Abrogé par le ch. I de la LF du 19 mars 2021, avec effet au 1<sup>er</sup> août 2022 ([RO 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [FF 2020 5875](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
 
 ### Section 3 Réduction des risques et aide à la survie
 
@@ -267,7 +256,7 @@ Dans le cadre de la loi du 7 octobre 1983 sur la recherche[^3j-1], la Confédér
 - d. moyens de prévenir ou de réduire ces troubles;
 - e. efficacité des mesures de réinsertion.
 
-[^3j-1]: [[RO 1984 28](https://fedlex.data.admin.ch/eli/oc/1984/28_28_28), [1992 1027](https://fedlex.data.admin.ch/eli/oc/1992/1027_1027_1027)art. 19, [1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)annexe ch. 4 [2080](https://fedlex.data.admin.ch/eli/oc/1993/2080_2080_2080)annexe ch. 9, [1996 99](https://fedlex.data.admin.ch/eli/oc/1996/99_99_99), [2000 1858](https://fedlex.data.admin.ch/eli/oc/2000/286), [2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634), [2004 4261](https://fedlex.data.admin.ch/eli/oc/2004/638), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 39, [2008 433](https://fedlex.data.admin.ch/eli/oc/2008/109), [2010 651](https://fedlex.data.admin.ch/eli/oc/2010/99), [2011 4497](https://fedlex.data.admin.ch/eli/oc/2011/624)ch. I 1, [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)ch. I 13, [2013 2639](https://fedlex.data.admin.ch/eli/oc/2013/532). [RO 2013 4425](https://fedlex.data.admin.ch/eli/oc/2013/786)art. 57 al. 1]. Voir actuellement la LF du 14 déc. 2012 sur l’encouragement de la recherche et de l’innovation ([RS 420.1](https://fedlex.data.admin.ch/eli/cc/2013/786)).
+[^3j-1]: [[RO 1984 28](https://fedlex.data.admin.ch/eli/oc/1984/28_28_28); [1992 1027](https://fedlex.data.admin.ch/eli/oc/1992/1027_1027_1027)art. 19; [1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)annexe ch. 4, [2080](https://fedlex.data.admin.ch/eli/oc/1993/2080_2080_2080)annexe ch. 9; [1996 99](https://fedlex.data.admin.ch/eli/oc/1996/99_99_99); [2000 1858](https://fedlex.data.admin.ch/eli/oc/2000/286); [2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [2004 4261](https://fedlex.data.admin.ch/eli/oc/2004/638); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 39; [2008 433](https://fedlex.data.admin.ch/eli/oc/2008/109); [2010 651](https://fedlex.data.admin.ch/eli/oc/2010/99); [2011 4497](https://fedlex.data.admin.ch/eli/oc/2011/624)ch. I 1; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)ch. I 13; [2013 2639](https://fedlex.data.admin.ch/eli/oc/2013/532). [RO 2013 4425](https://fedlex.data.admin.ch/eli/oc/2013/786)art. 57 al. 1]. Voir actuellement la LF du 14 déc. 2012 sur l’encouragement de la recherche et de l’innovation ([RS 420.1](https://fedlex.data.admin.ch/eli/cc/2013/786)).
 
 #### Art. 3k
 
@@ -294,22 +283,23 @@ En collaboration avec les cantons, la Confédération élabore des recommandatio
 
 **Autorisation de produire et de commercer[^4-1]**
 
-<sup>1</sup> Les maisons et les personnes qui cultivent, fabriquent ou préparent des stupéfiants ou qui en font le commerce doivent requérir une autorisation de l’Institut suisse des produits thérapeutiques (institut). L’art. 8 est réservé.[^4-2]
+<sup>1</sup> Les maisons et les personnes qui cultivent, fabriquent ou préparent des stupéfiants ou qui en font le commerce doivent requérir une autorisation de l’Institut suisse des produits thérapeutiques (Swissmedic[^4-2]). L’art. 8 est réservé.[^4-3]
 
 <sup>2</sup> Le Conseil fédéral arrête les modalités de ces autorisations, ainsi que les conditions qui régissent leur octroi, leur durée, leur retrait et leur extinction.
 
 [^4-1]: Introduit par le ch. I de la LF du 20 mars 2008, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 8141](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8211](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
-[^4-2]: Nouvelle teneur selon le ch. I de la LF du 20 mars 2008, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 8141](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8211](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+[^4-2]: Nouvelle expression selon le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [FF 2020 5875](https://fedlex.data.admin.ch/eli/fga/2020/1492)). Il a été tenu compte de cette mod. dans tout le texte.
+[^4-3]: Nouvelle teneur selon le ch. I de la LF du 20 mars 2008, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 8141](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8211](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 
 #### Art. 5
 
 **Importation, exportation et transit[^5-1]**
 
-<sup>1</sup> Une autorisation de l’institut est requise pour toute importation et exportation de stupéfiants soumis au contrôle. Cette autorisation est accordée conformément aux conventions internationales. Une autorisation d’exportation qui n’est pas requise par la présente loi ou par les conventions internationales peut être accordée si elle est exigée par le pays destinataire.[^5-2]
+<sup>1</sup> Une autorisation de Swissmedic est requise pour toute importation et exportation de stupéfiants soumis au contrôle. Cette autorisation est accordée conformément aux conventions internationales. Une autorisation d’exportation qui n’est pas requise par la présente loi ou par les conventions internationales peut être accordée si elle est exigée par le pays destinataire.[^5-2]
 
-<sup>1bis</sup> Le Conseil fédéral peut prévoir des dispositions spéciales pour l’importation et l’exportation de stupéfiants par des voyageurs malades. L’Institut peut traiter des données sensibles en relation avec l’importation et l’exportation de stupéfiants par des voyageurs malades lorsque l’exécution d’accords internationaux l’exige.[^5-3]
+<sup>1bis</sup> Le Conseil fédéral peut prévoir des dispositions spéciales pour l’importation et l’exportation de stupéfiants par des voyageurs malades. Swissmedic peut traiter des données sensibles en relation avec l’importation et l’exportation de stupéfiants par des voyageurs malades lorsque l’exécution d’accords internationaux l’exige.[^5-3]
 
-<sup>2</sup> L’Office fédéral de la douane et de la sécurité des frontières[^5-4] exerce avec l’institut le contrôle sur le transit des stupéfiants.
+<sup>2</sup> L’Office fédéral de la douane et de la sécurité des frontières[^5-4] exerce avec Swissmedic le contrôle sur le transit des stupéfiants.
 
 [^5-1]: Introduit par le ch. I de la LF du 20 mars 2008, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 8141](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8211](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 [^5-2]: Nouvelle teneur selon le ch. I de la LF du 20 mars 2008, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 8141](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8211](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
@@ -333,7 +323,7 @@ En collaboration avec les cantons, la Confédération élabore des recommandatio
 
 <sup>1</sup> Les matières premières et les produits dont on peut présumer qu’ils ont un effet semblable à celui des substances et des préparations visées à l’art. 2 ne peuvent être cultivées, fabriquées, importées, exportées, entreposées, utilisées ou mises dans le commerce qu’avec l’assentiment du Département fédéral de l’intérieur et aux conditions qu’il a fixées.
 
-<sup>2</sup> L’institut vérifie si la matière première ou le produit considéré répond aux critères de l’art. 2. Si tel est le cas, les autorisations visées aux art. 4 et 5 sont requises.
+<sup>2</sup> Swissmedic vérifie si la matière première ou le produit considéré répond aux critères de l’art. 2. Si tel est le cas, les autorisations visées aux art. 4 et 5 sont requises.
 
 <sup>3</sup> Le Département fédéral de l’intérieur établit la liste de ces substances et préparations.
 
@@ -350,7 +340,7 @@ Les stupéfiants indiqués ci-après ne peuvent être ni cultivés, ni importés
 - a. l’opium à fumer et les déchets provenant de sa fabrication ou de son utilisation;
 - b. la diacétylmorphine et ses sels;
 - c. les hallucinogènes tels que le lysergide (LSD 25);
-- d.[^8-3] les stupéfiants ayant des effets de type cannabique.[^8-4]
+- d.[^8-3] les stupéfiants ayant des effets de type cannabique, à moins qu’ils ne soient utilisés à des fins médicales.[^8-4]
 
 <sup>2</sup> …[^8-5]
 
@@ -358,24 +348,30 @@ Les stupéfiants indiqués ci-après ne peuvent être ni cultivés, ni importés
 
 <sup>4</sup> Les stocks éventuels de stupéfiants prohibés doivent être transformés, sous surveillance de l’autorité cantonale, en une substance autorisée par la loi; à défaut de cette possibilité, ils doivent être détruits.
 
-<sup>5</sup> Si aucune convention internationale ne s’y oppose, l’Office fédéral de la santé publique peut accorder des autorisations exceptionnelles pour la culture, l’importation, la fabrication et la mise dans le commerce des stupéfiants visés aux al. 1 et 3 qui sont utilisés pour la recherche, le développement de médicaments ou une application médicale limitée.[^8-7]
+<sup>5</sup>
 
-<sup>6</sup> L’Office fédéral de la santé publique peut accorder des autorisations exceptionnelles pour la culture des stupéfiants visés aux al. 1 et 3 qui sont utilisés comme principes actifs dans les médicaments autorisés.[^8-8]
+Si aucune convention internationale ne s’y oppose, l’Office fédéral de la santé publique (OFSP) peut accorder des autorisations exceptionnelles pour la culture, l’importation, la fabrication et la mise dans le commerce des stupéfiants:
 
-<sup>7</sup> L’institut peut, conformément à l’art. 4, autoriser l’importation, la fabrication et la mise dans le commerce des stupéfiants visés aux al. 1 et 3 qui sont utilisés comme principes actifs dans les médicaments autorisés.[^8-9]
+- a. visés aux al. 1, let. a à c, et 3, si les stupéfiants sont utilisés pour la recherche scientifique, le développement de médicaments ou une application médicale limitée;
+- b. visés à l’al. 1, let. d, si les stupéfiants sont utilisés pour la recherche scientifique.[^8-7]
 
-<sup>8</sup> L’Office fédéral de la santé publique peut accorder des autorisations exceptionnelles pour l’utilisation des substances visées aux al. 1 et 3 dans le cadre de mesures de lutte contre les abus.[^8-10]
+<sup>6</sup> Une autorisation exceptionnelle de l’OFSP est nécessaire pour la culture des stupéfiants visés aux al. 1, let. a à c, et 3 qui sont utilisés comme principes actifs dans les médicaments autorisés.[^8-8]
+
+<sup>7</sup> Une autorisation de Swissmedic est nécessaire, conformément à l’art. 4, pour l’importation, la fabrication et la mise dans le commerce des stupéfiants visés aux al. 1, let. a à c, et 3, qui sont utilisés comme principes actifs dans les médicaments autorisés.[^8-9]
+
+<sup>8</sup> L’OFSP[^8-10] peut accorder des autorisations exceptionnelles pour l’utilisation des substances visées aux al. 1 et 3 dans le cadre de mesures de lutte contre les abus.[^8-11]
 
 [^8-1]: Introduit par le ch. I de la LF du 20 mars 2008, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 8141](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8211](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 [^8-2]: Nouvelle teneur selon le ch. I de la LF du 20 mars 2008, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 8141](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8211](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
-[^8-3]: Nouvelle teneur selon le ch. I de la LF du 20 mars 2008, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 8141](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8211](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+[^8-3]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [FF 2020 5875](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
 [^8-4]: Nouvelle teneur selon le ch. I de la LF du 20 mars 1975, en vigueur depuis le 1<sup>er</sup> août 1975 ([RO 1975 1220](https://fedlex.data.admin.ch/eli/oc/1975/1220_1220_1220); [FF 1973 I 1303](https://fedlex.data.admin.ch/eli/fga/1973/1_1348_1303_1106)).
 [^8-5]: Abrogé par le ch. I de la LF du 20 mars 1975, avec effet au 1<sup>er</sup> août 1975 ([RO 1975 1220](https://fedlex.data.admin.ch/eli/oc/1975/1220_1220_1220); [FF 1973 I 1303](https://fedlex.data.admin.ch/eli/fga/1973/1_1348_1303_1106)).
 [^8-6]: Nouvelle teneur selon le ch. I de la LF du 20 mars 2008, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 8141](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8211](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
-[^8-7]: Nouvelle teneur selon le ch. I de la LF du 20 mars 2008, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 8141](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8211](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
-[^8-8]: Introduit par le ch. I de l’AF du 9 oct. 1998 sur la prescription médicale d’héroïne ([RO 1998 2293](https://fedlex.data.admin.ch/eli/oc/1998/2293_2293_2293); [FF 1998 II 1321](https://fedlex.data.admin.ch/eli/fga/1998/2__1321_)). Nouvelle teneur selon le ch. I de la LF du 20 mars 2008, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 8141](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8211](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
-[^8-9]: Introduit par le ch. I de l’AF du 9 oct. 1998 sur la prescription médicale d’héroïne ([RO 1998 2293](https://fedlex.data.admin.ch/eli/oc/1998/2293_2293_2293); [FF 1998 II 1321](https://fedlex.data.admin.ch/eli/fga/1998/2__1321_)). Nouvelle teneur selon le ch. I de la LF du 20 mars 2008, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 8141](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8211](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
-[^8-10]: Introduit par le ch. I de l’AF du 9 oct. 1998 sur la prescription médicale d’héroïne ([RO 1998 2293](https://fedlex.data.admin.ch/eli/oc/1998/2293_2293_2293); [FF 1998 II 1321](https://fedlex.data.admin.ch/eli/fga/1998/2__1321_)). Nouvelle teneur selon le ch. I de la LF du 20 mars 2008, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 8141](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8211](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+[^8-7]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [FF 2020 5875](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
+[^8-8]: Introduit par le ch. I de l’AF du 9 oct. 1998 sur la prescription médicale d’héroïne ([RO 1998 2293](https://fedlex.data.admin.ch/eli/oc/1998/2293_2293_2293); [FF 1998 II 1321](https://fedlex.data.admin.ch/eli/fga/1998/2__1321_)). Nouvelle teneur selon le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [FF 2020 5875](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
+[^8-9]: Introduit par le ch. I de l’AF du 9 oct. 1998 sur la prescription médicale d’héroïne ([RO 1998 2293](https://fedlex.data.admin.ch/eli/oc/1998/2293_2293_2293); [FF 1998 II 1321](https://fedlex.data.admin.ch/eli/fga/1998/2__1321_)). Nouvelle teneur selon le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [FF 2020 5875](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
+[^8-10]: Nouvelle expression selon le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [FF 2020 5875](https://fedlex.data.admin.ch/eli/fga/2020/1492)). Il a été tenu compte de cette mod. dans tout le texte.
+[^8-11]: Introduit par le ch. I de l’AF du 9 oct. 1998 sur la prescription médicale d’héroïne ([RO 1998 2293](https://fedlex.data.admin.ch/eli/oc/1998/2293_2293_2293); [FF 1998 II 1321](https://fedlex.data.admin.ch/eli/fga/1998/2__1321_)). Nouvelle teneur selon le ch. I de la LF du 20 mars 2008, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 8141](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8211](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 
 #### Art. 8a
 
@@ -383,7 +379,7 @@ Les stupéfiants indiqués ci-après ne peuvent être ni cultivés, ni importés
 
 <sup>1</sup>
 
-Après audition des cantons et des communes concernés, l’Office fédéral de la santé publique peut autoriser des essais pilotes scientifiques impliquant des stupéfiants ayant des effets de type cannabique, qui:
+Après audition des cantons et des communes concernés, l’OFSP peut autoriser des essais pilotes scientifiques impliquant des stupéfiants ayant des effets de type cannabique, qui:
 
 - a. sont limités dans l’espace, dans le temps et dans leur objet;
 - b. permettent d’acquérir des connaissances concernant l’effet de nouvelles réglementations sur l’utilisation de ces stupéfiants à des fins non médicales et concernant la façon dont évolue l’état de santé des participants;
@@ -396,6 +392,34 @@ Après audition des cantons et des communes concernés, l’Office fédéral de 
 
 [^8a-1]: Introduit par le ch. I de l’AF du 9 oct. 1998 sur la prescription médicale d’héroïne ([RO 1998 2293](https://fedlex.data.admin.ch/eli/oc/1998/2293_2293_2293); [FF 1998 II 1321](https://fedlex.data.admin.ch/eli/fga/1998/2__1321_)). Nouvelle teneur selon le ch. I de la LF du 25 sept. 2020, en vigueur du 15 mai 2021 au 14 mai 2031 ([RO 2021 216](https://fedlex.data.admin.ch/eli/oc/2021/216); [FF 2019 2497](https://fedlex.data.admin.ch/eli/fga/2019/721)).
 [^8a-2]: [RS 641.31](https://fedlex.data.admin.ch/eli/cc/1969/645_665_663)
+
+#### Art. 8b
+
+**Collecte de données relatives aux traitements médicaux à base de stupéfiants ayant des effets de type cannabique**[^8b-1]
+
+<sup>1</sup>
+
+L’OFSP collecte des données relatives aux traitements médicaux effectués avec des stupéfiants ayant des effets de type cannabique (médicaments à base de cannabis) et qui:
+
+- a. ne sont pas autorisés;
+- b. sont autorisés, mais ne sont pas prescrits selon l’indication prévue et ne sont pas administrés sous la forme admise à cet effet.
+
+<sup>2</sup>
+
+Les données collectées sont utilisées aux fins suivantes:
+
+- a. évaluation scientifique visée à l’art. 29*a*;
+- b. analyses statistiques.
+
+<sup>3</sup>
+
+L’OFSP met les résultats des analyses statistiques à la disposition:
+
+- a. des autorités cantonales d’exécution;
+- b. des médecins impliqués dans les traitements;
+- c. des instituts de recherche intéressés.
+
+[^8b-1]: Introduit par le ch. I de la LF du 19 mars 2021, en vigueur du 1<sup>er</sup> août 2022 au 31 juil. 2029 ([RO 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [FF 2020 5875](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
 
 ### Section 2 Professions médicales
 
@@ -411,7 +435,7 @@ Après audition des cantons et des communes concernés, l’Office fédéral de 
 
 <sup>4</sup> Les cantons peuvent limiter les droits des médecins-dentistes à certains stupéfiants.
 
-<sup>5</sup> D’entente avec l’institut, les cantons fixent les normes applicables aux établissements hospitaliers étrangers situés en Suisse.
+<sup>5</sup> D’entente avec Swissmedic, les cantons fixent les normes applicables aux établissements hospitaliers étrangers situés en Suisse.
 
 [^9-1]: O du 14 nov. 2018 sur les autorisations dans le domaine des médicaments ([RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)). Le renvoi a été adapté en application de l'art. 12 al. 2 de la Loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> janv. 2019.
 [^9-2]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
@@ -511,7 +535,7 @@ Les pharmaciens ne peuvent remettre des stupéfiants au public que sur présenta
 
 [^16-1]
 
-Pour toute livraison de stupéfiants, un bulletin doit être établi et remis au destinataire avec la marchandise. La livraison doit être annoncée à l’institut au moyen d’une notification séparée. Cette disposition n’est pas applicable aux professionnels de la santé[^16-2] qui remettent des stupéfiants destinés au traitement de personnes ou d’animaux ou qui en livrent aux médecins pratiquant dans leur canton qui ne remettent pas eux-mêmes des stupéfiants.
+Pour toute livraison de stupéfiants, un bulletin doit être établi et remis au destinataire avec la marchandise. La livraison doit être annoncée à Swissmedic au moyen d’une notification séparée. Cette disposition n’est pas applicable aux professionnels de la santé[^16-2] qui remettent des stupéfiants destinés au traitement de personnes ou d’animaux ou qui en livrent aux médecins pratiquant dans leur canton qui ne remettent pas eux-mêmes des stupéfiants.
 
 [^16-1]: Nouvelle teneur selon le ch. I de la LF du 20 mars 2008, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 8141](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8211](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 [^16-2]: Définition: O du 14 nov. 2018 sur les autorisations dans le domaine des médicaments ([RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)). Le renvoi a été adapté en application de l’art. 12 al. 2 de la Loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> janv. 2019.
@@ -520,9 +544,9 @@ Pour toute livraison de stupéfiants, un bulletin doit être établi et remis au
 
 <sup>1</sup> Les maisons, personnes et instituts en possession d’une autorisation en vertu des art. 4 et 14, al. 2, doivent tenir à jour une comptabilité de toutes les opérations qu’ils effectuent avec des stupéfiants.[^17-1]
 
-<sup>2</sup> Les maisons et personnes visées à l’art. 4 doivent renseigner l’institut à la fin de chaque année sur leur commerce et leurs stocks de stupéfiants.[^17-2]
+<sup>2</sup> Les maisons et personnes visées à l’art. 4 doivent renseigner Swissmedic à la fin de chaque année sur leur commerce et leurs stocks de stupéfiants.[^17-2]
 
-<sup>3</sup> Les maisons et personnes autorisées à cultiver, à fabriquer et à préparer des stupéfiants doivent en outre, chaque année, informer l’institut de l’étendue de leurs cultures et de la nature et des quantités de stupéfiants qu’elles ont extraites, fabriquées et préparées.[^17-3]
+<sup>3</sup> Les maisons et personnes autorisées à cultiver, à fabriquer et à préparer des stupéfiants doivent en outre, chaque année, informer Swissmedic de l’étendue de leurs cultures et de la nature et des quantités de stupéfiants qu’elles ont extraites, fabriquées et préparées.[^17-3]
 
 <sup>4</sup> Les personnes autorisées aux termes de l’art. 9 à acquérir, à employer et à remettre des stupéfiants ou qui sont responsables, au sens de l’art. 14, al. 1 doivent en justifier l’emploi.
 
@@ -542,11 +566,18 @@ Pour toute livraison de stupéfiants, un bulletin doit être établi et remis au
 [^18-1]: Nouvelle teneur selon le ch. I de la LF du 18 déc. 1968, en vigueur depuis le 1<sup>er</sup> janv. 1970 ([RO 1970 9](https://fedlex.data.admin.ch/eli/oc/1970/9_9_9); [FF 1968 I 784](https://fedlex.data.admin.ch/eli/fga/1968/1_757_784_977)).
 [^18-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
-## Chapitre 3*a* Traitement de données dans le cadre des accords d’association à Schengen
+## Chapitre 3*a* Protection et traitement des données
 
-[^chap3a-1]
+[^chap3a-1][^chap3a-2]
 
 [^chap3a-1]: Introduit par l’art. 3 ch. 9 de l’AF du 17 déc. 2004 portant approbation et mise en oeuvre des accords bilatéraux d’association à l’Espace Schengen et à l’Espace Dublin, en vigueur depuis le 12 déc. 2008 ([RO 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 1 let. f; [FF 2004 5593](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
+[^chap3a-2]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [FF 2020 5875](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
+
+## Section 1 Protection des données dans le cadre des accords d’association à Schengen
+
+[^chap4-1]
+
+[^chap4-1]: Introduit par le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [FF 2020 5875](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
 
 #### Art. 18a
 
@@ -570,19 +601,82 @@ Le droit d’accès est régi par les dispositions fédérales ou cantonales de 
 
 [^18c-1]: Nouvelle teneur selon le ch. 7 de la LF du 19 mars 2010 portant mise en œuvre de la décision-cadre 2008/977/JAI relative à la protection des données à caractère personnel traitées dans le cadre de la coopération policière et judiciaire en matière pénale, en vigueur depuis le 1<sup>er</sup> déc. 2010 ([RO 2010 3387](https://fedlex.data.admin.ch/eli/oc/2010/464); [FF 2009 6091](https://fedlex.data.admin.ch/eli/fga/2009/1207)).
 
-#### Art. 18d et 18e
+### Section 2 Traitement des données
 
-[^18d18e-1]
+[^chap4-sec1-1]
 
-[^18d18e-1]: Abrogés par le ch. 7 de la LF du 19 mars 2010 portant mise en œuvre de la décision-cadre 2008/977/JAI relative à la protection des données à caractère personnel traitées dans le cadre de la coopération policière et judiciaire en matière pénale, avec effet au 1<sup>er</sup> déc. 2010 ([RO 2010 3387](https://fedlex.data.admin.ch/eli/oc/2010/464); [FF 2009 6091](https://fedlex.data.admin.ch/eli/fga/2009/1207)).
+[^chap4-sec1-1]: Introduite par le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [FF 2020 5875](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
+
+#### Art. 18d
+
+**En lien avec le traitement des personnes dépendantes**[^18d-1]
+
+<sup>1</sup> Les autorités et les institutions chargées de veiller à l’exécution de la présente loi sont autorisées à traiter des données personnelles, des données sensibles et des profils de la personnalité afin de vérifier les conditions relatives au traitement des personnes dépendantes et leur suivi.
+
+<sup>2</sup> Elles prennent les mesures techniques et organisationnelles propres à garantir la protection de toutes les données visées à l’al. 1.
+
+<sup>3</sup>
+
+Le Conseil fédéral fixe les modalités du traitement de ces données, en particulier:
+
+- a. les autorités et les institutions compétentes pour le traitement des données;
+- b. les données à traiter;
+- c. les flux de données;
+- d. les droits d’accès.
+
+[^18d-1]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [FF 2020 5875](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
+
+#### Art. 18e
+
+**En lien avec les autorisations visées aux art. 4, 5 et 8**[^18e-1]
+
+<sup>1</sup>
+
+L’OFSP et Swissmedic sont autorisés à traiter les données personnelles ci-après, dans la mesure où cela s’avère nécessaire pour octroyer les autorisations visées aux art. 4 et 5 et les autorisations exceptionnelles prévues à l’art. 8, al. 5 à 8, ou pour en contrôler le respect:
+
+- a. données sur d’éventuelles poursuites administratives ou pénales engagées contre le requérant d’une autorisation visée aux art. 4, 5 et 8, al. 5 à 8;
+- b. données qui sont nécessaires pour identifier le patient;
+- c. données médicales pertinentes dans le cas de l’application médicale limitée visée à l’art. 8, al. 5, let. a.
+
+<sup>2</sup>
+
+Le Conseil fédéral détermine:
+
+- a. les données qui peuvent être traitées;
+- b. les délais de conservation.
+
+[^18e-1]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [FF 2020 5875](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
+
+#### Art. 18f
+
+**En lien avec les médicaments à base de cannabis**[^18f-1]
+
+<sup>1</sup> L’OFSP gère un système d’information pour traiter les données visées à l’art. 8*b*.
+
+<sup>2</sup> Les médecins qui traitent des patients avec des médicaments à base de cannabis sont tenus d’enregistrer les informations nécessaires à la collecte des données visée à l’art. 8*b.* Les données relatives aux patients doivent être pseudonymisées.
+
+<sup>3</sup>
+
+Le Conseil fédéral détermine:
+
+- a. les données nécessaires à la collecte des données visée à l’art. 8*b*, concernant notamment les effets secondaires;
+- b. la fréquence et la date de la collecte de données;
+- c. les droits d’accès des médecins visés à l’al. 2;
+- d. les aspects techniques et organisationnels du système de collecte des données;
+- e. les délais de conservation des données;
+- f. la publication des analyses statistiques.
+
+<sup>4</sup> Il peut décider qu’aucune donnée ne doit plus être collectée si l’évaluation scientifique prévue à l’art. 8*b*, al. 2, ne requiert pas de nouvelles données.
+
+[^18f-1]: Introduit par le ch. I de la LF du 19 mars 2021, en vigueur du 1<sup>er</sup> août 2022 au 31 juil. 2029 ([RO 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [FF 2020 5875](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
 
 ## Chapitre 4 Dispositions pénales
 
 ### Section 1 Actes punissables
 
-[^chap4-sec1-1]
+[^chap5-sec1-1]
 
-[^chap4-sec1-1]: Introduit par le ch. I de la LF du 28 sept. 2012, en vigueur depuis le 1<sup>er</sup> oct. 2013 ([RO 2013 1451](https://fedlex.data.admin.ch/eli/oc/2013/334); [FF 2011 7523](https://fedlex.data.admin.ch/eli/fga/2011/1437)[7549](https://fedlex.data.admin.ch/eli/fga/2011/1439)).
+[^chap5-sec1-1]: Introduit par le ch. I de la LF du 28 sept. 2012, en vigueur depuis le 1<sup>er</sup> oct. 2013 ([RO 2013 1451](https://fedlex.data.admin.ch/eli/oc/2013/334); [FF 2011 7523](https://fedlex.data.admin.ch/eli/fga/2011/1437)[7549](https://fedlex.data.admin.ch/eli/fga/2011/1439)).
 
 #### Art. 19
 
@@ -675,14 +769,15 @@ Est puni d’une peine privative de liberté de trois ans au plus ou d’une pei
 
 - a. celui qui présente une demande contenant de fausses indications pour se procurer ou procurer à autrui une autorisation d’importation, de transit ou d’exportation;
 - b. celui qui, à l’intérieur du pays ou à l’étranger, détourne de leur lieu de destination des stupéfiants ou des substances relevant de l’art. 3, al. 1, pour lesquels il possède une autorisation suisse d’exportation;
-- c. celui qui cultive, fabrique, importe, exporte, entrepose, utilise ou met dans le commerce sans autorisation des substances ou des préparations relevant de l’art. 7;
-- d. les professionnels de la santé[^20-2] qui utilisent ou remettent des stupéfiants en dehors des cas prévus aux art. 11 ou 13;
+- c.[^20-2] celui qui cultive, fabrique, importe, exporte, entrepose, utilise ou met dans le commerce sans autorisation des substances relevant de l’art. 3, al. 1, ainsi que des substances ou des préparations relevant de l’art. 7;
+- d. les professionnels de la santé[^20-3] qui utilisent ou remettent des stupéfiants en dehors des cas prévus aux art. 11 ou 13;
 - e. le médecin ou le médecin-vétérinaire qui prescrit des stupéfiants en dehors des cas prévus à l’art. 11.
 
 <sup>2</sup> L’auteur de l’infraction est puni d’une peine privative de liberté d’un an au moins s’il se livre au trafic par métier et qu’il réalise ainsi un chiffre d’affaires élevé ou un gain important. La peine privative de liberté peut être cumulée avec une peine pécuniaire.
 
 [^20-1]: Nouvelle teneur selon le ch. I de la LF du 20 mars 2008, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 8141](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8211](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
-[^20-2]: Définition: O du 14 nov. 2018 sur les autorisations dans le domaine des médicaments ([RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)). Le renvoi a été adapté en application de l'art. 12 al. 2 de la Loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> janv. 2019.
+[^20-2]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [FF 2020 5875](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
+[^20-3]: Définition: O du 14 nov. 2018 sur les autorisations dans le domaine des médicaments ([RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)). Le renvoi a été adapté en application de l'art. 12 al. 2 de la Loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> janv. 2019.
 
 #### Art. 21
 
@@ -765,9 +860,9 @@ Est puni d’une amende celui qui, intentionnellement ou par négligence:
 
 ### Section 2 Poursuite pénale
 
-[^chap4-sec2-1]
+[^chap5-sec2-1]
 
-[^chap4-sec2-1]: Introduit par le ch. I de la LF du 28 sept. 2012 ([RO 2013 1451](https://fedlex.data.admin.ch/eli/oc/2013/334); [FF 2011 7523](https://fedlex.data.admin.ch/eli/fga/2011/1437)[7549](https://fedlex.data.admin.ch/eli/fga/2011/1439)). Nouvelle teneur selon l’annexe ch. II 3 de la L du 18 mars 2016 sur les amendes d’ordre, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2017 6559](https://fedlex.data.admin.ch/eli/oc/2017/725), [2019 527](https://fedlex.data.admin.ch/eli/oc/2019/92); [FF 2015 909](https://fedlex.data.admin.ch/eli/fga/2015/96)).
+[^chap5-sec2-1]: Introduit par le ch. I de la LF du 28 sept. 2012 ([RO 2013 1451](https://fedlex.data.admin.ch/eli/oc/2013/334); [FF 2011 7523](https://fedlex.data.admin.ch/eli/fga/2011/1437)[7549](https://fedlex.data.admin.ch/eli/fga/2011/1439)). Nouvelle teneur selon l’annexe ch. II 3 de la L du 18 mars 2016 sur les amendes d’ordre, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2017 6559](https://fedlex.data.admin.ch/eli/oc/2017/725), [2019 527](https://fedlex.data.admin.ch/eli/oc/2019/92); [FF 2015 909](https://fedlex.data.admin.ch/eli/fga/2015/96)).
 
 #### Art. 28
 
@@ -799,9 +894,9 @@ Les infractions visées aux art. 20 à 22 qui sont constatées dans le domaine d
 
 ## Chapitre 5 Tâches des cantons et de la Confédération
 
-[^chap5-1]
+[^chap6-1]
 
-[^chap5-1]: Nouvelle teneur selon le ch. I de la LF du 20 mars 2008, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 8141](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8211](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+[^chap6-1]: Nouvelle teneur selon le ch. I de la LF du 20 mars 2008, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 8141](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8211](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 
 ### Section 1 Tâches de la Confédération
 
@@ -813,19 +908,22 @@ Les infractions visées aux art. 20 à 22 qui sont constatées dans le domaine d
 
 <sup>3</sup> La Confédération et les cantons collaborent dans l’exécution des tâches qui leur incombent en vertu de la présente loi et se concertent sur les mesures à prendre. Ils peuvent y associer d’autres organisations concernées.
 
-<sup>4</sup> Le Conseil fédéral désigne une commission d’experts, chargée de le conseiller en matière d’addiction.
+<sup>4</sup> ...[^29-2]
 
 [^29-1]: Nouvelle teneur selon l’annexe ch. II 5 de la loi sur la poste du 17 déc. 2010, en vigueur depuis le 1<sup>er</sup> oct. 2012 ([RO 2012 4993](https://fedlex.data.admin.ch/eli/oc/2012/585); [FF 2009 4649](https://fedlex.data.admin.ch/eli/fga/2009/917)).
+[^29-2]: Abrogé par le ch. I de la LF du 19 mars 2021, avec effet au 1<sup>er</sup> août 2022 ([RO 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [FF 2020 5875](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
 
 #### Art. 29a
 
-<sup>1</sup> L’Office fédéral de la santé publique fait procéder à l’évaluation scientifique des mesures prises en vertu de la présente loi. Il peut transmettre les données visées à l’art. 3*f*, sous forme anonyme, à l’Office fédéral de la statistique, qui les analyse et les publie.
+<sup>1</sup> L’OFSP fait procéder à l’évaluation scientifique des mesures conformément à la présente loi. Il peut transmettre sous forme anonymisée à l’Office fédéral de la statistique, à des fins d’évaluation et de publication, les données collectées conformément aux art. 18*d* à 18*f*.[^29a-1]
 
 <sup>2</sup> Au terme des évaluations importantes, le Département fédéral de l’intérieur établit un rapport à l’intention du Conseil fédéral et des commissions compétentes de l’Assemblée fédérale, il leur soumet des propositions sur la suite à donner à ce rapport.
 
-<sup>3</sup> L’Office fédéral de la santé publique gère un service de documentation, d’information et de coordination.
+<sup>3</sup> L’OFSP gère un service de documentation, d’information et de coordination.
 
-<sup>4</sup> L’institut établit les rapports conformément aux conventions internationales.
+<sup>4</sup> Swissmedic établit les rapports conformément aux conventions internationales.
+
+[^29a-1]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [FF 2020 5875](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
 
 #### Art. 29b
 
@@ -899,7 +997,7 @@ Les cantons édictent les dispositions nécessaires à l’exécution de la lég
 
 <sup>1</sup> Le Conseil fédéral édicte les dispositions nécessaires à l’exécution de la présente loi.
 
-<sup>2</sup> Il fixe le montant des émoluments que l’institut perçoit pour les autorisations, les contrôles et les services. Il peut lui déléguer cette compétence.
+<sup>2</sup> Il fixe le montant des émoluments que Swissmedic perçoit pour les autorisations, les contrôles et les services. Il peut lui déléguer cette compétence.
 
 <sup>3</sup> Lors de l’octroi d’autorisations aux organisations, institutions et autorités visées à l’art. 14*a*, le Conseil fédéral arrête les attributions des titulaires, les conditions de leur exercice et les modalités des contrôles. Il peut au besoin édicter des dispositions dérogeant à la présente loi en ce qui concerne la réglementation des contrôles.
 
@@ -922,6 +1020,16 @@ Les cantons édictent les dispositions nécessaires à l’exécution de la lég
 [^36-1]
 
 [^36-1]: Abrogé par le ch. I de la LF du 20 mars 2008, avec effet au 1<sup>er</sup> juil. 2011 ([RO 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 8141](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8211](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+
+#### Art. 36a
+
+**Dispositions transitoires relatives à la modification du 19 mars 2021**[^36a-1]
+
+<sup>1</sup> Le Conseil fédéral détermine jusqu’à quand les autorisations exceptionnelles de l’OFSP délivrées en vertu de l’ancien droit pour la culture, l’importation, la fabrication et la mise dans le commerce à des fins médicales de stupéfiants ayant des effets de type cannabique restent valables après l’entrée en vigueur de la modification du 19 mars 2021.
+
+<sup>2</sup> Tant que l’autorisation exceptionnelle visée à l’al. 1 reste valable, aucune autorisation de Swissmedic selon l’art. 4 n’est nécessaire.
+
+[^36a-1]: Introduit par le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 385](https://fedlex.data.admin.ch/eli/oc/2022/385); [FF 2020 5875](https://fedlex.data.admin.ch/eli/fga/2020/1492)).
 
 #### Art. 37
 
