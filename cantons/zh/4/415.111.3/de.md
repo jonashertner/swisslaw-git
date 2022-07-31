@@ -4,10 +4,10 @@ number: "415.111.3"
 title: Organisationsreglement der Erweiterten Universitätsleitung (OrgR EUL)
 short: OrgR EUL
 language: de
-nachtrag: "118"
-valid_until: 2022-08-01
+nachtrag: "119"
+valid_until: 2024-08-26
 adopted: 2022-05-17
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_111_3-2022_05_17-2022_08_01-118.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_111_3-2022_05_17-2022_08_01-119.html"
 text: pdf
 ---
 
@@ -118,7 +118,7 @@ beschliesst:
 
 <sup>2</sup> Die Anträge sind dem Generalsekretariat einzureichen. Sie werden in der Regel von der Universitätsleitung vorberaten oder zur Kenntnis genommen und im Anschluss für eine Sitzung der EUL traktandiert.
 
-<sup>3</sup> Die Anträge sind ausreichend frühzeitig einzureichen, damit sie von der Universitätsleitung vorberaten oder zur Kenntnis genommen werden können, sofern dies noch nicht erfolgt und die ordnungsgemässe Traktandierung gewährleistet ist.
+<sup>3</sup> Die Anträge sind ausreichend frühzeitig einzureichen, damit sie von der Universitätsleitung vorberaten oder zur Kenntnis genommen werden können, sofern dies noch nicht erfolgt ist, und die ordnungsgemässe Traktandierung gewährleistet ist.
 
 #### § 9
 
