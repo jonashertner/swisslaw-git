@@ -4,11 +4,11 @@ title: "Ordonnance du 7 mars 2003 sur l'organisation du Département fédéral d
 short: Org-DDPS
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/270"
 language: fr
-version: 2022-01-01
+version: 2022-08-01
 adopted: 2003-03-07
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/270/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2003-270-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/270/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/270/20220801/fr/xml/fedlex-data-admin-ch-eli-cc-2003-270-20220801-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/270/20220801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/270/20220101/fr"
 
 (Org-DDPS)
 
-du 7 mars 2003 (Etat le 1<sup>er</sup> janvier 2022)
+du 7 mars 2003 (État le 1<sup>er</sup> août 2022)
 
 Le Conseil fédéral suisse,
 
@@ -40,10 +40,12 @@ Dans ses principaux domaines d’activité que sont la défense, la protection d
 - b. il contribue à la protection de la population contre les conséquences de catastrophes, de situations d’urgence et de menaces politico-militaires;
 - c. il crée les conditions nécessaires à la promotion du sport dans l’intérêt du développement de la jeunesse et de la santé publique en général;
 - d. il veille, avec les autres départements fédéraux compétents, les cantons, les communes et les services extérieurs à l’administration, à ce que la Confédération mène une politique de sécurité souple et globale;
-- e.[^1-2] il garantit le service de renseignement civil de la Confédération.
+- e.[^1-2] il garantit le service de renseignement civil de la Confédération;
+- f.[^1-3] il veille à ce que les données topographiques et géologiques nationales soient saisies, gérées et mises à disposition, et coordonne les activités des autorités dans le domaine de la géoinformation.
 
 [^1-1]: Nouvelle expression selon le ch. I de l’O du 12 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6405](https://fedlex.data.admin.ch/eli/oc/2008/860)). Il a été tenu compte de cette mod. dans tout le texte.
-[^1-2]: Introduite par le ch. II 10 de l’annexe 4 à l’O du 4 déc. 2009 sur le Service de renseignement de la Confédération, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
+[^1-2]: Introduite par l’annexe 4 ch. II 10 de l’O du 4 déc. 2009 sur le Service de renseignement de la Confédération, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
+[^1-3]: Introduite par le ch. I de l’O du 29 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 392](https://fedlex.data.admin.ch/eli/oc/2022/392)).
 
 #### Art. 2
 
@@ -66,7 +68,7 @@ Le DDPS poursuit ses objectifs et exerce ses activités en respectant les princi
 
 <sup>2</sup> Il édicte des prescriptions en vue de sauvegarder le secret militaire et de garantir l’équipement de l’armée.[^3-2]
 
-[^3-1]: Anciennement art. 4. L'ancien art. 3 est devenu sans objet.
+[^3-1]: Anciennement art. 4. L’ancien art. 3 est devenu sans objet.
 [^3-2]: Introduit par le ch. I de l’O du 10 déc. 2004 ([RO 2004 5257](https://fedlex.data.admin.ch/eli/oc/2004/807)). Nouvelle teneur selon le ch. I de l’O du 3 déc. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5965](https://fedlex.data.admin.ch/eli/oc/2010/856)).
 
 #### Art. 4
@@ -99,7 +101,7 @@ Le Secrétariat général exerce les fonctions prévues à l’art. 42 LOGA et a
 - e. il veille à recueillir les informations et la documentation, à planifier l’information et à assurer la communication;
 - f.[^5-5] il dirige les affaires relevant de la bibliothèque, de la documentation et des archives au sein du DDPS et de l’armée;
 - g. il pourvoit à la législation et à l’application du droit et donne des conseils juridiques.
-- h.[^5-6] ...
+- h.[^5-6] …
 
 [^5-1]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6549](https://fedlex.data.admin.ch/eli/oc/2017/722)).
 [^5-2]: Introduite par le ch. I de l’O du 3 déc. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5965](https://fedlex.data.admin.ch/eli/oc/2010/856)).
@@ -145,7 +147,7 @@ Sont rattachés administrativement au Secrétariat général:
 - g.[^6-5] le Service de médiation de l’armée.
 
 [^6-1]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1785](https://fedlex.data.admin.ch/eli/oc/2016/320)).
-[^6-2]: Nouvelle teneur selon le ch. 3 de l’annexe à l’O du 16 août 2017 sur la surveillance des activités de renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4231](https://fedlex.data.admin.ch/eli/oc/2017/497)).
+[^6-2]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 16 août 2017 sur la surveillance des activités de renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4231](https://fedlex.data.admin.ch/eli/oc/2017/497)).
 [^6-3]: Introduite par le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6549](https://fedlex.data.admin.ch/eli/oc/2017/722)).
 [^6-4]: Introduite par le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6549](https://fedlex.data.admin.ch/eli/oc/2017/722)).
 [^6-5]: Introduite par le ch. II de l’O du 30 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 451](https://fedlex.data.admin.ch/eli/oc/2021/451)).
@@ -156,7 +158,7 @@ Sont rattachés administrativement au Secrétariat général:
 
 [^6a-1]: Introduit par le ch. I de l’O du 12 déc. 2008 ([RO 2008 6405](https://fedlex.data.admin.ch/eli/oc/2008/860)). Abrogé par le ch. I de l’O du 3 déc. 2010, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 5965](https://fedlex.data.admin.ch/eli/oc/2010/856)).
 
-### Section 2 ...
+### Section 2 …
 
 #### Art. 7
 
@@ -200,7 +202,7 @@ Pour atteindre ces objectifs, il exerce les fonctions suivantes:
 
 <sup>5</sup> Il est subordonné en qualité d’office fédéral au chef du département.
 
-[^8-1]: Nouvelle teneur selon le ch. II 10 de l’annexe 4 à l’O du 4 déc. 2009 sur le Service de renseignement de la Confédération, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
+[^8-1]: Nouvelle teneur selon l’annexe 4 ch. II 10 de l’O du 4 déc. 2009 sur le Service de renseignement de la Confédération, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
 [^8-2]: [[RO 2009 6565](https://fedlex.data.admin.ch/eli/oc/2009/809), [2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428)annexe ch. I [5525](https://fedlex.data.admin.ch/eli/oc/2012/637), [2014 3223](https://fedlex.data.admin.ch/eli/oc/2014/553)]. Voir actuellement la LF du 25 septembre 2015 sur le renseignement (LRens) ([RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)).
 [^8-3]: [[RO 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848), [2010 3865](https://fedlex.data.admin.ch/eli/oc/2010/558), [2012 3767](https://fedlex.data.admin.ch/eli/oc/2012/430)[5527](https://fedlex.data.admin.ch/eli/oc/2012/638)art. 15 ch. 2 [6731](https://fedlex.data.admin.ch/eli/oc/2012/815)annexe ch. 1, [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)ch. I 2, [2014 3231](https://fedlex.data.admin.ch/eli/oc/2014/554)art. 46, [2016 2577](https://fedlex.data.admin.ch/eli/oc/2016/405)annexe ch. II 1, [2017 707](https://fedlex.data.admin.ch/eli/oc/2017/133). [RO 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)annexe 4 ch. I 2]. Voir actuellement l’O du 16 août 2017 sur le Service de renseignement ([RS 121.1](https://fedlex.data.admin.ch/eli/cc/2017/495)).
 [^8-4]: [RO 2011 3249](https://fedlex.data.admin.ch/eli/oc/2011/423)
@@ -209,7 +211,7 @@ Pour atteindre ces objectifs, il exerce les fonctions suivantes:
 
 [^8a-1]
 
-[^8a-1]: Abrogé par le ch. II 10 de l’annexe 4 à l’O du 4 déc. 2009 sur le Service de renseignement de la Confédération, avec effet au 1<sup>er</sup> janv. 2010 ([RO 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
+[^8a-1]: Abrogé par l’annexe 4 ch. II 10 de l’O du 4 déc. 2009 sur le Service de renseignement de la Confédération, avec effet au 1<sup>er</sup> janv. 2010 ([RO 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
 
 ### Section 4 Office de l’auditeur en chef
 
@@ -313,7 +315,7 @@ Sont subordonnés au Groupement Défense avec les fonctions suivantes:
   - 3\. il est responsable de la gestion de l’engagement et de la carrière, ainsi que de l’instruction des officiers de carrière et des sous-officiers de carrière de l’armée,
   - 4\. il édicte des directives dans le domaine Personnel de l’armée concernant les militaires astreints au service.
 
-[^11-1]: Nouvelle teneur selon le ch. II 2 de l’annexe 2 de l’O du 29 mars 2017 sur les structures de l’armée, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 2307](https://fedlex.data.admin.ch/eli/oc/2017/218)).
+[^11-1]: Nouvelle teneur selon l’annexe 2 ch. II 2 de l’O du 29 mars 2017 sur les structures de l’armée, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 2307](https://fedlex.data.admin.ch/eli/oc/2017/218)).
 
 #### Art. 11a
 
@@ -338,7 +340,7 @@ Le médecin en chef de l’armée est chargé de surveiller:
 
 <sup>4</sup> Il est responsable de l’appréciation de l’état de santé des officiers généraux ainsi que d’autres personnes, dans la mesure où une telle appréciation est prescrite ou prévue.
 
-[^11b-1]: Introduit par le ch. I de l’annexe 2 à l’O du 14 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6493](https://fedlex.data.admin.ch/eli/oc/2012/777)).
+[^11b-1]: Introduit par l’annexe 2 ch. I de l’O du 14 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6493](https://fedlex.data.admin.ch/eli/oc/2012/777)).
 
 ### Section 6 Office fédéral de l’armement
 
@@ -461,9 +463,11 @@ Dans ce cadre, il assume notamment les tâches suivantes:
 - k. il acquiert le matériel de sport de la Confédération;
 - l. il gère un centre de documentation dans le domaine du sport;
 - m. il fournit des prestations commerciales dans son domaine d’activité;
-- n. il accorde ses mesures avec celles des cantons, des communes et des organisations sportives et collabore avec eux.
+- n. il accorde ses mesures avec celles des cantons, des communes et des organisations sportives et collabore avec eux;
+- o.[^15-2] il collabore dans des organisations et au sein d’enceintes internationales de son domaine de compétences.
 
 [^15-1]: Nouvelle teneur selon l’art. 82 ch. 2 de l’O du 23 mai 2012 sur l’encouragement du sport, en vigueur depuis le 1<sup>er</sup> oct. 2012 ([RO 2012 3967](https://fedlex.data.admin.ch/eli/oc/2012/461)).
+[^15-2]: Introduite par le ch. I de l’O du 29 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 392](https://fedlex.data.admin.ch/eli/oc/2022/392)).
 
 ## Chapitre 3 Dispositions finales
 
@@ -495,6 +499,6 @@ Annexe
 
 ## Modification du droit en vigueur
 
-...[^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: La mod. peut être consultée au [RO 2003 1808](https://fedlex.data.admin.ch/eli/oc/2003/270).

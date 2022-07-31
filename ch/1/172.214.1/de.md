@@ -4,11 +4,11 @@ title: "Organisationsverordnung vom 7. März 2003 für das Eidgenössische Depar
 short: OV-VBS
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/270"
 language: de
-version: 2022-01-01
+version: 2022-08-01
 adopted: 2003-03-07
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/270/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2003-270-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/270/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/270/20220801/de/xml/fedlex-data-admin-ch-eli-cc-2003-270-20220801-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/270/20220801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/270/20220101/de"
 
 (OV-VBS)
 
-vom 7. März 2003 (Stand am 1. Januar 2022)
+vom 7. März 2003 (Stand am 1. August 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -39,11 +39,13 @@ Das Eidgenössische Departement für Verteidigung, Bevölkerungsschutz und Sport
 - a. Es trägt mit der Armee bei zum Schutz von Volk und Staat gegen Gewaltanwendung strategischen Ausmasses sowie zu internationalen Bemühungen um die Erhaltung des Friedens. Zu diesem Zweck verfolgt es eine langfristig angelegte Sicherheits- und Verteidigungspolitik und leistet im militärischen Bereich friedensfördernde Beiträge im internationalen Rahmen.
 - b. Es trägt bei zum Schutz der Bevölkerung vor den Auswirkungen von Katastrophen, Notlagen und machtpolitischen Bedrohungen.
 - c. Es schafft Voraussetzungen zur Förderung des Sports im Interesse der Entwicklung der Jugend und einer allgemeinen Volksgesundheit.
-- d. Es sorgt zusammen mit den anderen zuständigen eidgenössischen Departementen, den Kantonen, Gemeinden und Stellen ausserhalb der Verwaltung für eine umfassende und flexible Sicherheitspolitik des Bundes;
+- d. Es sorgt zusammen mit den anderen zuständigen eidgenössischen Departementen, den Kantonen, Gemeinden und Stellen ausserhalb der Verwaltung für eine umfassende und flexible Sicherheitspolitik des Bundes.
 - e.[^1-2] Es stellt den zivilen Nachrichtendienst des Bundes sicher.
+- f.[^1-3] Es sorgt für die Erhebung, Verwaltung und Bereitstellung der topografischen und geologischen Daten des Landes und koordiniert die Tätigkeiten der Behörden im Bereich der Geoinformationen.
 
 [^1-1]: Ausdruck gemäss Ziff. I der V vom 12. Dez. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 6405](https://fedlex.data.admin.ch/eli/oc/2008/860)). Diese Änderung wurde im ganzen Erlass berücksichtigt.
 [^1-2]: Eingefügt durch Anhang 4 Ziff. II 10 der V vom 4. Dez. 2009 über den Nachrichten-dienst des Bundes, in Kraft seit 1. Jan. 2010 ([AS 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
+[^1-3]: Eingefügt durch Ziff. I der V vom 29. Juni 2022, in Kraft seit 1. Aug. 2022 ([AS 2022 392](https://fedlex.data.admin.ch/eli/oc/2022/392)).
 
 #### Art. 2
 
@@ -99,7 +101,7 @@ Das Generalsekretariat übt die Funktionen nach Artikel 42 RVOG aus und nimmt au
 - e. Es sorgt für die Informations- und Dokumentationsbeschaffung, die Informationsplanung und die Kommunikation.
 - f.[^5-5] Es führt das Bibliotheks-, Dokumentations- und Archivwesen im VBS und in der Armee.
 - g. Es sorgt für die Rechtsetzung, Rechtsanwendung und Rechtsberatung.
-- h.[^5-6] ...
+- h.[^5-6] …
 
 [^5-1]: Fassung gemäss Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6549](https://fedlex.data.admin.ch/eli/oc/2017/722)).
 [^5-2]: Eingefügt durch Ziff. I der V vom 3. Dez. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5965](https://fedlex.data.admin.ch/eli/oc/2010/856)).
@@ -156,7 +158,7 @@ Dem Generalsekretariat sind administrativ zugeordnet:
 
 [^6a-1]: Eingefügt durch Ziff. I der V vom 12. Dez. 2008 ([AS 2008 6405](https://fedlex.data.admin.ch/eli/oc/2008/860)). Aufgehoben durch Ziff. I der V vom 3. Dez. 2010, mit Wirkung seit 1. Jan. 2011 ([AS 2010 5965](https://fedlex.data.admin.ch/eli/oc/2010/856)).
 
-### 2. Abschnitt: ...
+### 2. Abschnitt: …
 
 #### Art. 7
 
@@ -164,7 +166,7 @@ Dem Generalsekretariat sind administrativ zugeordnet:
 
 [^7-1]: Aufgehoben durch Ziff. I der V vom 24. Juni 2009, mit Wirkung seit 1. Juli 2009 ([AS 2009 3131](https://fedlex.data.admin.ch/eli/oc/2009/383)).
 
-### 3. Abschnitt:**** Ziviler Nachrichtendienst
+### 3. Abschnitt: Ziviler Nachrichtendienst
 
 [^chap2-sec3-1]
 
@@ -339,7 +341,7 @@ Der Oberfeldarzt führt die Aufsicht über:
 
 [^11b-1]: Eingefügt durch Anhang 2 Ziff. 1 der V vom 14. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6493](https://fedlex.data.admin.ch/eli/oc/2012/777)).
 
-### 6. Abschnitt:**** Bundesamt für Rüstung
+### 6. Abschnitt: Bundesamt für Rüstung
 
 [^chap2-sec6-1]
 
@@ -379,7 +381,7 @@ Die armasuisse Wissenschaft und Technologie nimmt folgende Aufgaben wahr:
 
 [^12a-1]: [SR 172.010.21](https://fedlex.data.admin.ch/eli/cc/2008/857)
 
-### 6*a*. Abschnitt: Bundesamt für Landestopografie****
+### 6*a*. Abschnitt: Bundesamt für Landestopografie
 
 [^chap2-sec6a-1]
 
@@ -461,8 +463,10 @@ Zur Verfolgung dieser Ziele nimmt das Bundesamt für Sport insbesondere folgende
 - l. Es führt eine Dokumentationsstelle auf dem Gebiet des Sports.
 - m. Es erbringt gewerbliche Leistungen in seinem Tätigkeitsbereich.
 - n. Es stimmt seine Massnahmen auf diejenigen von Kantonen, Gemeinden und Sportorganisationen ab und arbeitet mit diesen zusammen.
+- o.[^15-2] Es arbeitet in internationalen Organisationen und Gremien aus seinem Zuständigkeitsbereich mit.
 
 [^15-1]: Fassung gemäss Art. 82 Ziff. 2 der Sportförderungsverordnung vom 23. Mai 2012, in Kraft seit 1. Okt. 2012 ([AS 2012 3967](https://fedlex.data.admin.ch/eli/oc/2012/461)).
+[^15-2]: Eingefügt durch Ziff. I der V vom 29. Juni 2022, in Kraft seit 1. Aug. 2022 ([AS 2022 392](https://fedlex.data.admin.ch/eli/oc/2022/392)).
 
 ## 3. Kapitel: Schlussbestimmungen
 
@@ -480,7 +484,7 @@ Das VBS erlässt eine Geschäftsordnung im Sinne von Artikel 29 RVOV.
 
 <sup>2</sup> Die Änderung bisherigen Rechts findet sich im Anhang.
 
-[^17-1]: [[AS 2000 330](https://fedlex.data.admin.ch/eli/oc/2000/66), [2001 124](https://fedlex.data.admin.ch/eli/oc/2001/25)Art. 12 Abs. 3, [2002 723](https://fedlex.data.admin.ch/eli/oc/2002/141)Anh. 2 Ziff. 1 1453, **2003** 237]
+[^17-1]: [[AS 2000 330](https://fedlex.data.admin.ch/eli/oc/2000/66); [2001 124](https://fedlex.data.admin.ch/eli/oc/2001/25)Art. 12 Abs. 3; [2002 723](https://fedlex.data.admin.ch/eli/oc/2002/141)Anh. 2 Ziff. 1, 1453; **2003** 237]
 
 #### Art. 18
 
@@ -494,6 +498,6 @@ Anhang
 
 ## Änderung bisherigen Rechts
 
-...[^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Die Änderung kann unter [AS 2003 1808](https://fedlex.data.admin.ch/eli/oc/2003/270)konsultiert werden.

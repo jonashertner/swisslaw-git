@@ -4,11 +4,11 @@ title: "Ordinanza del 7 marzo 2003 sull'organizzazione del Dipartimento federale
 short: OOrg-DDPS
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/270"
 language: it
-version: 2022-01-01
+version: 2022-08-01
 adopted: 2003-03-07
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/270/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2003-270-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/270/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/270/20220801/it/xml/fedlex-data-admin-ch-eli-cc-2003-270-20220801-it-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/270/20220801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/270/20220101/it"
 
 (OOrg-DDPS)
 
-del 7 marzo 2003 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 7 marzo 2003 (Stato 1° agosto 2022)
 
 Il Consiglio federale svizzero,
 
@@ -40,10 +40,12 @@ Il Dipartimento federale della difesa, della protezione della popolazione e dell
 - b. contribuisce a proteggere la popolazione dalle conseguenze di catastrofi, di situazioni d’emergenza e di minacce politico-militari;
 - c. crea le premesse per promuovere lo sport nell’interesse dello sviluppo della gioventù e della salute della popolazione in generale;
 - d. provvede con gli altri Dipartimenti federali competenti, con i Cantoni, con i Comuni e con gli organi esterni all’amministrazione, a una politica di sicurezza globale e flessibile della Confederazione;
-- e.[^1-2] garantisce il servizio informazioni civile della Confederazione.
+- e.[^1-2] garantisce il servizio informazioni civile della Confederazione;
+- f.[^1-3] provvede a rilevare, amministrare e mettere a disposizione i dati topografici e geologici del Paese e coordina le attività delle autorità nell’ambito delle geoinformazioni.
 
 [^1-1]: Nuovo termine giusta il n. I dell’O del 12 dic. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6405](https://fedlex.data.admin.ch/eli/oc/2008/860)). Di detta mod. é tenuto conto in tutto il presente testo.
 [^1-2]: Introdotta dell’all. n. II 10 4 dell’O del 4 dic. 2009 sul Servizio delle attività informative della Confederazione, in vigore dal 1° gen. 2010 ([RU 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
+[^1-3]: Introdotta dal n. I dell’O del 29 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 392](https://fedlex.data.admin.ch/eli/oc/2022/392)).
 
 #### Art. 2
 
@@ -164,7 +166,7 @@ Sono aggregati amministrativamente alla Segreteria generale:
 
 [^7-1]: Abrogato dal n. I dell’O del 24 giu. 2009, con effetto dal 1° lug. 2009 ([RU 2009 3131](https://fedlex.data.admin.ch/eli/oc/2009/383)).
 
-### Sezione 3:**** Servizio informazioni civile
+### Sezione 3: Servizio informazioni civile
 
 [^chap2-sec3-1]
 
@@ -201,8 +203,8 @@ Per perseguire tali obiettivi assume le funzioni seguenti:
 <sup>5</sup> In quanto ufficio federale, è subordinato al capo del Dipartimento.
 
 [^8-1]: Nuovo testo giusta l’all. 4 n. II 10 dell’O del 4 dic. 2009 sul Servizio delle attività informative della Confederazione, in vigore dal 1° gen. 2010 ([RU 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
-[^8-2]: [[RU 2009 6565](https://fedlex.data.admin.ch/eli/oc/2009/809), [2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428)all. n. 1 [5525](https://fedlex.data.admin.ch/eli/oc/2012/637), [2014 3223](https://fedlex.data.admin.ch/eli/oc/2014/553). [RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494)all.]. Vedi ora la LF del 25 set. 2015 sulle attività informative ([RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)).
-[^8-3]: [[RU 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848), [2010 3865](https://fedlex.data.admin.ch/eli/oc/2010/558), [2012 3767](https://fedlex.data.admin.ch/eli/oc/2012/430)[5527](https://fedlex.data.admin.ch/eli/oc/2012/638)art. 15 n. 2 [6731](https://fedlex.data.admin.ch/eli/oc/2012/815)all. n. 1, [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)n. I 2, [2014 3231](https://fedlex.data.admin.ch/eli/oc/2014/554)art. 46, [2016 2577](https://fedlex.data.admin.ch/eli/oc/2016/405)all. n. II 1, [2017 707](https://fedlex.data.admin.ch/eli/oc/2017/133). [RU 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)all. 4 n. I 2]. Vedi ora l’O del 16 ago. 2017 sulle attività informative ([RS 121.1](https://fedlex.data.admin.ch/eli/cc/2017/495)).
+[^8-2]: [[RU 2009 6565](https://fedlex.data.admin.ch/eli/oc/2009/809); [2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428)all. n. 1, [5525](https://fedlex.data.admin.ch/eli/oc/2012/637); [2014 3223](https://fedlex.data.admin.ch/eli/oc/2014/553). [RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494)all.]. Vedi ora la LF del 25 set. 2015 sulle attività informative ([RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)).
+[^8-3]: [[RU 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848); [2010 3865](https://fedlex.data.admin.ch/eli/oc/2010/558); [2012 3767](https://fedlex.data.admin.ch/eli/oc/2012/430), [5527](https://fedlex.data.admin.ch/eli/oc/2012/638)art. 15 n. 2, [6731](https://fedlex.data.admin.ch/eli/oc/2012/815)all. n. 1; [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)n. I 2; [2014 3231](https://fedlex.data.admin.ch/eli/oc/2014/554)art. 46; [2016 2577](https://fedlex.data.admin.ch/eli/oc/2016/405)all. n. II 1; [2017 707](https://fedlex.data.admin.ch/eli/oc/2017/133). [RU 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)all. 4 n. I 2]. Vedi ora l’O del 16 ago. 2017 sulle attività informative ([RS 121.1](https://fedlex.data.admin.ch/eli/cc/2017/495)).
 
 #### Art. 8a
 
@@ -339,7 +341,7 @@ Il medico in capo dell’esercito vigila:
 
 [^11b-1]: Introdotto dall’all. 2 n. 1 dell’O del 14 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6493](https://fedlex.data.admin.ch/eli/oc/2012/777)).
 
-### Sezione 6:**** Ufficio federale dell’armamento
+### Sezione 6: Ufficio federale dell’armamento
 
 [^chap2-sec6-1]
 
@@ -378,7 +380,7 @@ Armasuisse Scienza e tecnologia assume i compiti seguenti:
 
 [^12a-1]: [RS 172.010.21](https://fedlex.data.admin.ch/eli/cc/2008/857)
 
-### Sezione 6*a*: Ufficio federale di topografia****
+### Sezione 6*a*: Ufficio federale di topografia
 
 [^chap2-sec6a-1]
 
@@ -456,9 +458,11 @@ Per perseguire tali obiettivi l’Ufficio federale dello sport assume in partico
 - k. acquista il materiale sportivo per la Confederazione;
 - l. gestisce un centro di documentazione nel campo dello sport;
 - m. fornisce prestazioni commerciali nel suo settore d’attività;
-- n. coordina le proprie misure con quelle di Cantoni, Comuni e organizzazioni sportive e collabora con essi.
+- n. coordina le proprie misure con quelle di Cantoni, Comuni e organizzazioni sportive e collabora con essi;
+- o.[^15-2] partecipa a organizzazioni e organismi internazionali nel suo ambito di competenza.
 
 [^15-1]: Nuovo testo giusta l’art. 82 n. 2 dell’O del 23 mag. 2012 sulla promozione dello sport, in vigore dal 1° ott. 2012 ([RU 2012 3967](https://fedlex.data.admin.ch/eli/oc/2012/461)).
+[^15-2]: Introdotta dal n. I dell’O del 29 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 392](https://fedlex.data.admin.ch/eli/oc/2022/392)).
 
 ## Capitolo 3: Disposizioni finali
 
@@ -476,7 +480,7 @@ Il DDPS emana un regolamento interno ai sensi dell’articolo 29 OLOGA.
 
 <sup>2</sup> La modifica del diritto vigente è disciplinata nell’allegato.
 
-[^17-1]: [[RU 2000 330](https://fedlex.data.admin.ch/eli/oc/2000/66), [2001 124](https://fedlex.data.admin.ch/eli/oc/2001/25)art. 12 cpv. 1, [2002 723](https://fedlex.data.admin.ch/eli/oc/2002/141)all. 2 n. 1 [1453](https://fedlex.data.admin.ch/eli/oc/2002/225), [2003 237](https://fedlex.data.admin.ch/eli/oc/2003/34)]
+[^17-1]: [[RU 2000 330](https://fedlex.data.admin.ch/eli/oc/2000/66); [2001 124](https://fedlex.data.admin.ch/eli/oc/2001/25)art. 12 cpv. 1; [2002 723](https://fedlex.data.admin.ch/eli/oc/2002/141)all. 2 n. 1, [1453](https://fedlex.data.admin.ch/eli/oc/2002/225); [2003 237](https://fedlex.data.admin.ch/eli/oc/2003/34)]
 
 #### Art. 18
 
