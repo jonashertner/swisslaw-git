@@ -3,20 +3,20 @@ canton: BL
 number: "647.12"
 title: Verordnung für die Schulleitung und die Schulsekretariate
 language: de
-version: 2022-01-01
-valid_until: 2022-07-31
-version_adopted: 2021-12-14
+version: 2022-08-01
+valid_until: 2023-07-31
+version_adopted: 2022-01-18
 adopted: 2003-05-13
 in_force: 2003-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/647.12"
-pdf: "https://bl.clex.ch/api/de/versions/3363/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3364/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung für die Schulleitung und die Schulsekretariate
 
-Vom 13.05.2003 (Stand 01.01.2022)
+Vom 13.05.2003 (Stand 01.08.2022)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -208,18 +208,24 @@ beschliesst:
 
 <sup>1</sup> Den Schulen der Sekundarstufe I stehen für Schulleitungsaufgaben folgende Stellenprozente zur Verfügung:
 
-- a. Aesch, Frenkendorf, Oberwil und Waldenburgertal — je 160 %;
-- b. Allschwil, Binningen, Gelternkinden, Laufen-Zwingen, Muttenz, Pratteln, Reinach und Therwil — je 190 %;
-- c. Arlesheim-Münchenstein — 210 %;
-- d. Birsfelden und Reigoldswil — je 130 %;
-- e. Liestal — 270 %;
-- f. Sissach — 240 %.
+- a. Birsfelden und Reigoldswil — je 135 %;
+- b. Aesch, Frenkendorf und Waldenburgertal — je 170 %;
+- c. Gelterkinden, Oberwil, Pratteln, Reinach und Therwil — je 200 %;
+- d. Laufen-Zwingen — 210 %;
+- e. Allschwil, Binningen und Muttenz — je 225 %;
+- f. Arlesheim-Münchenstein — 235 %;
+- g. Sissach — 255 %;
+- h. Liestal — 295 %.
 
 <sup>1<sup>bis</sup></sup> Bei einem Leitungsmodell mit Rektorat ist diese Funktion mit mindestens 60 % und maximal 100 % zu besetzen. Bei Co-Rektoraten können maximal 100 Stellenprozente auf die Funktion des Co-Rektorats aufgeteilt werden. Zusätzliche Anstellungsprozente als Konrektorin oder Konrektor im Rahmen der verfügbaren Stellenprozente für die Schulleitung sind möglich.
 
 <sup>2</sup> Der Beschäftigungsgrad eines Schulleitungsmitglieds (inklusive allfälliger Unterrichtstätigkeit) darf nicht über 100 % liegen. Ein Schulleitungsmitglied kann sich in der Funktion als Lehrperson darüber hinaus Mehrlektionen weder anrechnen noch auszahlen lassen. Allfällig unterjährige Minder- oder Mehrlektionen müssen kompensiert werden. Mehrlektionen können nicht ausbezahlt werden.
 
 <sup>3</sup> Für die Mitglieder des Vorstands der Schulleitungskonferenz Sekundarstufe I stehen insgesamt 50 Stellenprozente zur Verfügung.
+
+<sup>4</sup> Die Leitungszeit wird alle 4 Jahre vom Amt für Volksschulen überprüft und bei Bedarf angepasst.
+
+<sup>5</sup> Die Schulleitungsaufgaben werden spätestens alle 4 Jahre vom Amt für Volksschulen überprüft.
 
 #### § 13b
 
@@ -452,12 +458,12 @@ beschliesst:
 
 <sup>1</sup> Den Schulen der Sekundarstufe I stehen für Schulsekretariatsaufgaben folgende Stellenprozente zur Verfügung:
 
-- a. Aesch, Frenkendorf, Oberwil und Waldenburgertal — je 70 %;
-- b. Allschwil, Binningen, Gelterkinden, Laufen-Zwingen, Muttenz, Pratteln, Reinach und Therwil — je 90 %;
-- c. Arlesheim-Münchenstein — 100 %;
-- d. Birsfelden und Reigoldswil — je 50 %;
-- e. Liestal — 120 %;
-- f. Sissach — 110 %.
+- a. Birsfelden und Reigoldswil — je 50 %;
+- b. Aesch, Frenkendorf und Waldenburgertal — je 70 %;
+- c. Gelterkinden, Laufen-Zwingen, Oberwil, Pratteln, Reinach und Therwil — je 90 %;
+- d. Allschwil, Arlesheim-Münchenstein, Binningen und Muttenz — je 100 %;
+- e. Sissach — 110 %;
+- f. Liestal — 120 %.
 
 <sup>2</sup> …
 
