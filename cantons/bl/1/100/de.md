@@ -3,20 +3,20 @@ canton: BL
 number: "100"
 title: Verfassung des Kantons Basel-Landschaft
 language: de
-version: 2022-02-14
-valid_until: 2022-07-31
-version_adopted: 2022-02-13
+version: 2022-08-01
+valid_until: 2023-11-19
+version_adopted: 2022-05-15
 adopted: 1984-05-17
 in_force: 1987-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/100"
-pdf: "https://bl.clex.ch/api/de/versions/3581/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3582/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verfassung des Kantons Basel-Landschaft
 
-Vom 17.05.1984 (Stand 14.02.2022)
+Vom 17.05.1984 (Stand 01.08.2022)
 
 Das Baselbieter Volk,
 
@@ -141,9 +141,9 @@ gibt sich folgende Verfassung:[^ingress-1]
 
 **Eingaben an Behörden**
 
-<sup>1</sup> Jeder kann ohne Nachteil Petitionen und andere Eingaben an die Behörden richten. Diese antworten innert angemessener Frist.
+<sup>1</sup> Jede Person kann ohne Nachteil Petitionen und andere Eingaben an die Behörden richten. Diese antworten innert angemessener Frist.
 
-<sup>2</sup> Jeder kann an den Ombudsman gelangen.
+<sup>2</sup> Jede Person kann an die Ombudsperson gelangen.
 
 #### § 11
 
@@ -622,7 +622,7 @@ Stimmrecht in Angelegenheiten des Kantons und der Gemeinde.
 
 **Unvereinbarkeit**
 
-<sup>1</sup> Die Mitglieder des Landrates und des Regierungsrates, der Ombudsman, die Richterinnen und Richter sowie Gerichtsschreiberinnen und Gerichtsschreiber des Kantonsgerichts können nur einer dieser Behörden angehören.
+<sup>1</sup> Die Mitglieder des Landrats und des Regierungsrats, die Ombudsperson, die Richterinnen und Richter sowie Gerichtsschreiberinnen und Gerichtsschreiber des Kantonsgerichts können nur einer dieser Behörden angehören.
 
 <sup>2</sup> Richterinnen und Richter sowie Gerichtsschreiberinnen und Gerichtsschreiber der erstinstanzlichen Gerichte, Mitglieder von Behörden selbständiger kantonaler Betriebe sowie höhere Mitarbeiterinnen und Mitarbeiter der Staatsverwaltung können dem Landrat nicht angehören.
 
@@ -778,7 +778,7 @@ Stimmrecht in Angelegenheiten des Kantons und der Gemeinde.
 - b. übt die Mitwirkungsrechte aus, die den Kantonen in der Bundesverfassung eingeräumt werden,
 - c. entscheidet Kompetenzkonflikte, soweit nicht ein Gericht dafür zuständig ist,
 - d. regelt die vom Kanton ausgerichteten Besoldungen, Pensionen und Ruhegehälter,
-- e. wählt den Regierungspräsidenten und den Vizepräsidenten für ein Jahr sowie die Präsidenten, Vizepräsidenten und die übrigen Mitglieder der kantonalen Gerichte, den Landschreiber, den Ombudsman und die eidgenössischen Geschworenen für eine Amtsperiode,
+- e. wählt das Regierungspräsidium und das Vizepräsidium für ein Jahr sowie die Präsidien, Vizepräsidien und übrigen Mitglieder der kantonalen Gerichte, die Landschreiberin oder den Landschreiber sowie die Ombudsperson für eine Amtsperiode,
 - f. verleiht das Kantonsbürgerrecht an Ausländer,
 - g. übt das Recht der Begnadigung und der Amnestieerteilung aus.
 
@@ -1022,29 +1022,29 @@ Stimmrecht in Angelegenheiten des Kantons und der Gemeinde.
 
 <sup>4</sup> Das Gesetz regelt Voraussetzungen und Zuständigkeit für die Wahl von ausserordentlichen Mitgliedern der Gerichte.
 
-### 5.5 Ombudsman
+### 5.5 Ombudsperson
 
 #### § 88
 
-**Stellung und Unabhängigkeit**
+**Stellung, Unabhängigkeit und Unvereinbarkeit**
 
-<sup>1</sup> Der Ombudsman wacht über die Rechtmässigkeit, Korrektheit und Zweckmässigkeit der Verwaltung in Kanton und Gemeinden sowie der Justizverfahren.
+<sup>1</sup> Die Ombudsperson wacht über die Rechtmässigkeit und Zweckmässigkeit der Verwaltungshandlungen in Kanton und Gemeinden sowie der Justizverfahren.
 
-<sup>2</sup> Er ist nicht an Weisungen anderer Behörden gebunden.
+<sup>2</sup> Die Ombudsperson nimmt ihre Aufgaben unabhängig wahr. Sie ist nicht an Weisungen anderer Behörden gebunden.
 
-<sup>3</sup> Sein Amt ist nicht vereinbar mit der Ausübung eines anderen Berufes oder Gewerbes oder einer leitenden Stellung in einer politischen Partei.
+<sup>3</sup> Unvereinbarkeiten regelt das Gesetz.
 
 #### § 89
 
 **Aufgaben**
 
-<sup>1</sup> Der Ombudsman gibt seine Ansicht über die von ihm untersuchten Angelegenheiten in geeigneter Weise bekannt und wirkt in erster Linie auf ein gütliches Einvernehmen hin.
+<sup>1</sup> Die Ombudsperson gibt ihre Ansicht über die untersuchten Angelegenheiten in geeigneter Weise bekannt und wirkt in erster Linie auf ein gütliches Einvernehmen hin.
 
-<sup>2</sup> Er kann Beanstandungen anbringen, auf Mängel des geltenden Rechts hinweisen und Empfehlungen abgeben. Rechtsakte kann er weder ändern noch aufheben.
+<sup>2</sup> Die Ombudsperson kann Beanstandungen anbringen, auf Mängel des geltenden Rechts hinweisen und Empfehlungen abgeben. Rechtsakte kann sie weder ändern noch aufheben.
 
-<sup>3</sup> Er ist befugt, Akten einzusehen und alle erforderlichen Auskünfte zu verlangen. Er unterliegt der gleichen Geheimhaltungspflicht wie die entsprechenden Behörden oder Mitarbeiterinnen und Mitarbeiter.
+<sup>3</sup> Die Ombudsperson ist befugt, Akten einzusehen und alle erforderlichen Auskünfte zu verlangen. Sie unterliegt der gleichen Geheimhaltungspflicht wie die entsprechenden Behörden oder Mitarbeiterinnen und Mitarbeiter.
 
-<sup>4</sup> Er erstattet dem Landrat mindestens jährlich Bericht.
+<sup>4</sup> Die Ombudsperson erstattet dem Landrat mindestens jährlich Bericht.
 
 ## 6 Öffentliche Aufgaben
 
