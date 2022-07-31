@@ -4,10 +4,10 @@ number: "415.433.5"
 title: Rahmenverordnung über die Bachelor- und Masterstudiengänge an der Medizinischen Fakultät der Universität Zürich (RVO MeF)
 short: RVO MeF
 language: de
-nachtrag: "109"
-valid_until: 2022-08-01
+version: "2022-08-01"
+nachtrag: "117"
 adopted: 2019-08-26
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_433_5-2019_08_26-2020_08_01-109.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_433_5-2019_08_26-2020_08_01-117.html"
 text: pdf
 ---
 
@@ -66,7 +66,7 @@ Einzelheiten werden in der Studienordnung geregelt.
 
 **1**
 
-- 1\. 7. 20 - 109
+- 1\. 7. 22 - 117
 
 <sup>3</sup> Die Fakultät bietet folgende Masterstudiengänge im Umfang von 180 ECTS Credits an:
 
@@ -174,38 +174,19 @@ Für die Zulassung zu den Studiengängen ist die Verordnung über die Zulassung 
 
 Studentische Arbeiten können zum Zweck der Überprüfung auf Plagiate unter Einsatz entsprechender Software bearbeitet werden. Zu diesem Zweck können geeignete Dienstleister im In- oder Ausland beauftragt werden.
 
-**Studienzeit und Gebühren**
-
-§ 13.[^12-1] <sup>1</sup> In den ersten 12 Semestern des Bachelor- wie auch des Masterstudiums sind die Studiengebühren gemäss der Verordnung über die Studiengebühren an der Universität Zürich vom 5. März 2012[^12-2] zu entrichten. Die Zählung beginnt mit dem ersten Semester nach der Immatrikulation an der UZH.
-
-**3**
-
-- 1\. 7. 20 - 109
-
-<sup>2</sup> Überschreitet die oder der Studierende die Studienzeit gemäss Abs. 1 und liegt keine bewilligte Verlängerung nach § 14 vor, verdoppelt sich die Studiengebühr gemäss der Verordnung über die Studiengebühren an der Universität Zürich[^12-2].
-
-<sup>3</sup> Die oder der Studierende erhält am Ende des 11. Semesters nach Immatrikulation mit dem Leistungsausweis die Aufforderung, unverzüglich mit der Studienberatung Kontakt aufzunehmen, um einen individuellen Studienplan auszuarbeiten.
-
-**Antrag auf Verlängerung**
-
-§ 14.[^12-1] <sup>1</sup> Bei Vorliegen von wichtigen Gründen kann die oder der Studierende beim Studiendekanat eine Verlängerung der Studienzeit, für welche die einfache Studiengebühr zu entrichten ist, um zwei Semester beantragen. Der Antrag ist zu begründen und innerhalb von 30 Tagen nach Erhalt des Leistungsausweises einzureichen.
-
-<sup>2</sup> Die Studienprogrammdirektorin oder der Studienprogrammdirektor entscheidet in der Regel innert 30 Tagen über den Antrag. Sie oder er kann weitere Nachweise anfordern oder Berichte einholen.
-
-<sup>3</sup> Wird kein Antrag eingereicht oder lehnt die Studienprogrammdirektorin oder der Studienprogrammdirektor den Antrag ab, verdoppelt sich die Studiengebühr gemäss der Verordnung über die Studiengebühren an der Universität Zürich[^12-2].
-
-<sup>4</sup> Anträge auf Verlängerung können mehrfach gestellt werden.
-
-[^12-1]: Noch nicht in Kraft.
-[^12-2]: LS 415.321.
-
-#### § 15
+§§ 13 und 14.[^12-1]
 
 **Informationspflicht**
 
-<sup>1</sup> Alle studienrelevanten Informationen werden in geeigneter Weise bekannt gegeben und sind verbindlich.
+§ 15. <sup>1</sup> Alle studienrelevanten Informationen werden in geeigneter Weise bekannt gegeben und sind verbindlich.
 
 <sup>2</sup> Die Studierenden sind verpflichtet, sich über sämtliche studienrelevante Belange, insbesondere über die für sie geltenden Erlasse und Fristen, selbstständig zu informieren.
+
+**3**
+
+- 1\. 7. 22 - 117
+
+[^12-1]: Aufgehoben durch URB vom 28. Februar 2022 (OS 77, 216; ABl 2022-03-18). In Kraft seit 1. August 2022.
 
 ### 2. Abschnitt: Module und ECTS Credits
 
@@ -267,10 +248,6 @@ Die Studienprogrammdirektorin oder der Studienprogrammdirektor bestimmt für sä
 
 <sup>4</sup> Die dem Modul zugewiesene Anzahl von ECTS Credits wird immer vollständig vergeben, eine anteilige Vergabe ist nicht zulässig.
 
-**5**
-
-- 1\. 7. 20 - 109
-
 ### 3. Abschnitt: Leistungsnachweise, endgültige Abweisung und Sperre
 
 ### A. Leistungsnachweise
@@ -317,11 +294,11 @@ Die Studienprogrammdirektorin oder der Studienprogrammdirektor bestimmt für sä
 
 <sup>2</sup> Bei Leistungsnachweisen in Form einer mündlichen Prüfung ist eine Beisitzerin oder ein Beisitzer anwesend, die oder der über einen Studienabschluss mindestens auf Masterstufe verfügt. Es ist ein Protokoll zu führen.
 
-#### § 24
+**5**
+
+- 1\. 7. 22 - 117 § 24. <sup>1</sup> Tritt vor Beginn der Durchführung eines Leistungsnachweises ein zwingender, unvorhersehbarer und unabwendbarer Verhinderungsgrund ein oder liegt ein bewilligtes Urlaubs- oder Sistierungsgesuch vor, so ist dies der Studienprogrammdirektorin oder dem Studienprogrammdirektor mitzuteilen.
 
 **Verhinderung, Abbruch, unentschuldigtes Fernbleiben**
-
-<sup>1</sup> Tritt vor Beginn der Durchführung eines Leistungsnachweises ein zwingender, unvorhersehbarer und unabwendbarer Verhinderungsgrund ein oder liegt ein bewilligtes Urlaubs- oder Sistierungsgesuch vor, so ist dies der Studienprogrammdirektorin oder dem Studienprogrammdirektor mitzuteilen.
 
 <sup>2</sup> Tritt ein solcher Verhinderungsgrund unmittelbar vor oder während der Durchführung eines Leistungsnachweises ein, so ist dies der Prüfungsverantwortlichen oder dem Prüfungsverantwortlichen mitzuteilen.
 
@@ -363,11 +340,11 @@ Die Studienprogrammdirektorin oder der Studienprogrammdirektor bestimmt für sä
 
 <sup>4</sup> Es besteht kein Anspruch auf unmittelbare Wiederholung.
 
-**7**
-
-- 1\. 7. 20 - 109 § 28. <sup>1</sup> Ein nicht bestandenes Pflichtmodul des 1. und 2. Studienjahres des Bachelorstudiengangs kann einmal wiederholt werden. Ein nicht bestandenes Pflichtmodul des 3. Studienjahres des Bachelorstudiengangs kann zweimal wiederholt werden. Eine Substitution ist nicht möglich.
+#### § 28
 
 **Wiederholung von Pflichtmodulen**
+
+<sup>1</sup> Ein nicht bestandenes Pflichtmodul des 1. und 2. Studienjahres des Bachelorstudiengangs kann einmal wiederholt werden. Ein nicht bestandenes Pflichtmodul des 3. Studienjahres des Bachelorstudiengangs kann zweimal wiederholt werden. Eine Substitution ist nicht möglich.
 
 <sup>2</sup> Ein nicht bestandenes Pflichtmodul im Masterstudiengang kann zweimal wiederholt werden. Eine Substitution ist nicht möglich.
 
@@ -399,11 +376,11 @@ Die Studienprogrammdirektorin oder der Studienprogrammdirektor bestimmt für sä
 
 Zur Sicherstellung der Geheimhaltung der Prüfungsfragen können die Herausgabe der Prüfungsunterlagen eingeschränkt oder verweigert, die Herstellung von Kopien oder Abschriften untersagt und die Dauer der Einsichtnahme beschränkt werden.
 
-#### § 32
+**7**
+
+- 1\. 7. 22 - 117 § 32. <sup>1</sup> Nach Abschluss eines Semesters werden die bestandenen und nicht bestandenen Module sowie die Teilnahme an bestimmten Modulen in einem Leistungsausweis dokumentiert. Studienleistungen, die nicht an der UZH erbracht worden sind, werden gekennzeichnet.
 
 **Leistungsausweis**
-
-<sup>1</sup> Nach Abschluss eines Semesters werden die bestandenen und nicht bestandenen Module sowie die Teilnahme an bestimmten Modulen in einem Leistungsausweis dokumentiert. Studienleistungen, die nicht an der UZH erbracht worden sind, werden gekennzeichnet.
 
 <sup>2</sup> Der Leistungsausweis wird in deutscher Sprache ausgestellt. Es wird eine englische Übersetzung abgegeben.
 
@@ -453,15 +430,15 @@ Die Bachelorstudiengänge vermitteln den Studierenden Grundlagenwissen und die F
 
 Die Masterstudiengänge vermitteln den Studierenden vertiefte fachliche Kenntnisse und die Fähigkeiten und Fertigkeiten zum selbstständigen wissenschaftlichen und praktischen Arbeiten bzw. die Voraussetzungen zur fachärztlichen Weiterbildung.
 
-**9**
+[^37-1]: LS 415.31.
 
-- 1\. 7. 20 - 109 § 38. <sup>1</sup> Die Studienprogramme der Masterstufe sind entweder konsekutiv oder spezialisiert. Es gelten die entsprechenden Bestimmungen der VZS[^37-1].
+#### § 38
 
 **Konsekutive und spezialisierte Masterstudienprogramme**
 
-<sup>2</sup> Die Studienordnung regelt die spezifischen Zulassungsvoraussetzungen der Masterstudienprogramme.
+<sup>1</sup> Die Studienprogramme der Masterstufe sind entweder konsekutiv oder spezialisiert. Es gelten die entsprechenden Bestimmungen der VZS[^37-1].
 
-[^37-1]: LS 415.31.
+<sup>2</sup> Die Studienordnung regelt die spezifischen Zulassungsvoraussetzungen der Masterstudienprogramme.
 
 #### § 39
 
@@ -488,6 +465,10 @@ Die Masterstudiengänge vermitteln den Studierenden vertiefte fachliche Kenntnis
 <sup>3</sup> Die Wiederholung einer ungenügenden Masterarbeit richtet sich nach § 28 Abs. 2 und 3.
 
 <sup>4</sup> Die Studienordnung regelt die Einzelheiten, insbesondere die Ausarbeitungsmodalitäten, Betreuung, Begutachtung und die Überarbeitungsmöglichkeiten der Masterarbeit.
+
+**9**
+
+- 1\. 7. 22 - 117
 
 ### C. Anerkennung und Anrechnung
 
@@ -547,10 +528,6 @@ Gleiche oder inhaltlich ähnliche Module bzw. Studienleistungen können nicht me
 
 <sup>4</sup> Wenn gemäss Abs. 3 nicht alle Module angerechnet werden können, werden bei Modulen, die im gleichen Semester absolviert wurden, die von den Studierenden bezeichneten Module an den Studienabschluss angerechnet.
 
-**11**
-
-- 1\. 7. 20 - 109
-
 ### D. Studienabschluss
 
 #### § 46
@@ -577,11 +554,11 @@ Gleiche oder inhaltlich ähnliche Module bzw. Studienleistungen können nicht me
 
 <sup>2</sup> Die Verleihung des Grades erfolgt durch die Aushändigung der unterzeichneten Diplomurkunde.
 
-#### § 49
+**11**
+
+- 1\. 7. 22 - 117 § 49. <sup>1</sup> Der Studienabschluss wird, mit Ausnahme des Masterstudienprogramms Humanmedizin, mit einer gewichteten Gesamtnote bewertet. Die benoteten Module fliessen mit dem Gewicht ihrer ECTS Credits in die gewichtete Gesamtnote ein. Die gewichtete Gesamtnote wird mit ungerundeten Ausgangswerten berechnet.
 
 **Gewichtete Gesamtnote und Prädikat**
-
-<sup>1</sup> Der Studienabschluss wird, mit Ausnahme des Masterstudienprogramms Humanmedizin, mit einer gewichteten Gesamtnote bewertet. Die benoteten Module fliessen mit dem Gewicht ihrer ECTS Credits in die gewichtete Gesamtnote ein. Die gewichtete Gesamtnote wird mit ungerundeten Ausgangswerten berechnet.
 
 <sup>2</sup> Die Berechnung der gewichteten Gesamtnote erfolgt exakt, das Ergebnis wird auf eine Nachkommastelle gerundet.
 
@@ -637,10 +614,6 @@ Das Diploma Supplement ist eine standardisierte Erläuterung des Studienabschlus
 
 <sup>3</sup> Für den Rekurs zuständig ist die Rekurskommission der Zürcher Hochschulen.
 
-**13**
-
-- 1\. 7. 20 - 109
-
 ### 6. Abschnitt: Übergangsbestimmungen
 
 #### § 55
@@ -656,5 +629,9 @@ Das Diploma Supplement ist eine standardisierte Erläuterung des Studienabschlus
 - b. Alle bereits absolvierten und anrechenbaren Leistungen werden unter Vorbehalt von § 43 angerechnet. Die noch zu erbringenden Leistungen werden für die Studierenden in allgemeiner Form bekannt gegeben oder in besonderen Fällen mit den Studierenden vereinbart.
 
 - c. Module, die bis zum Inkrafttreten dieser Rahmenverordnung endgültig nicht bestanden wurden, gelten auch nach Inkrafttreten dieser Rahmenverordnung als nicht bestanden.
+
+**13**
+
+- 1\. 7. 22 - 117
 
 <sup>3</sup> Die Bestimmungen in §§ 47 und 48 zu den mindestens an der Medizinischen Fakultät der UZH zu erbringenden ECTS Credits gelten für Studierende, die das Bachelor- bzw. Masterstudium nach Inkrafttreten dieser Rahmenverordnung aufgenommen haben.
