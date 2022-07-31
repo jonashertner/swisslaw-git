@@ -3,20 +3,20 @@ canton: LU
 number: 545a
 title: Studien- und Prüfungsordnung der Wirtschaftswissenschaftlichen Fakultät der Universität Luzern
 language: de
-version: 2021-11-01
-valid_until: 2022-07-31
+version: 2022-08-01
+valid_until: 2024-01-31
 version_adopted: 2021-10-20
 adopted: 2018-01-24
 in_force: 2018-08-01
 url: "https://srl.lu.ch/app/de/texts_of_law/545a"
-pdf: "https://srl.lu.ch/api/de/versions/3843/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3951/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Studien- und Prüfungsordnung der Wirtschaftswissenschaftlichen Fakultät der Universität Luzern
 
-vom 24.01.2018 (Stand 01.11.2021)
+vom 24.01.2018 (Stand 01.08.2022)
 
 Der Universitätsrat der Universität Luzern,
 
@@ -366,7 +366,7 @@ beschliesst:
 
 **Studienausschluss**
 
-<sup>1</sup> Die Credits aller nichtbestandenen Studienleistungen (Fehlversuche) werden summiert, ausgenommen ist ein Fehlversuch bei der Bachelor- bzw. Masterarbeit. Erreicht die Gesamtsumme aller nicht bestandenen Studienleistungen das Äquivalent von 60 Credits (Bachelorstufe) bzw. 30 Credits (Masterstufe), wird die Studentin oder der Student vom Studium und der bzw. den betreffenden Studienrichtungen endgültig ausgeschlossen. Der Ausschluss wird von der Fakultät verfügt.
+<sup>1</sup> Die Credits aller nichtbestandenen Studienleistungen (Fehlversuche) werden summiert, ausgenommen ist ein Fehlversuch bei der Bachelor- bzw. Masterarbeit. Erreicht die Gesamtsumme aller nicht bestandenen Studienleistungen das Äquivalent von 60 Credits (Bachelorstufe) bzw. 24 Credits (Masterstufe), wird die Studentin oder der Student vom Studium und der bzw. den betreffenden Studienrichtungen endgültig ausgeschlossen. Der Ausschluss wird von der Fakultät verfügt.
 
 <sup>2</sup> Ebenfalls vom weiteren Studium ausgeschlossen wird, wer die Bachelor- bzw. Masterarbeit auch im zweiten Versuch nicht bestanden hat.
 
