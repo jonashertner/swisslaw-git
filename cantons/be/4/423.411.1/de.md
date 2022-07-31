@@ -4,13 +4,13 @@ number: "423.411.1"
 title: Kantonale Kulturförderungsverordnung
 short: KKFV
 language: de
-version: 2022-03-01
-valid_until: 2022-07-31
-version_adopted: 2022-02-02
+version: 2022-08-01
+valid_until: 2022-12-31
+version_adopted: 2022-06-08
 adopted: 2013-11-13
 in_force: 2014-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/423.411.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2577/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2613/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2577/pdf_file"
 
 (KKFV)
 
-vom 13.11.2013 (Stand 01.03.2022)
+vom 13.11.2013 (Stand 01.08.2022)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -136,13 +136,13 @@ beschliesst:
 
 **Kulturinstitutionen, Standortgemeinde, Teilregionen**
 
-<sup>1</sup> Der Anhang bezeichnet für jede Region
+<sup>1</sup> Der Anhang 1 bezeichnet für jede Region
 
 - a die Kulturinstitutionen, die mit Betriebsbeiträgen des Kantons und der Gemeinden unterstützt werden,
 - b die Standortgemeinden der Kulturinstitutionen,
 - c allfällige Teilregionen und die den einzelnen Teilregionen angehörenden Gemeinden.
 
-<sup>2</sup> Ist die Region in Teilregionen unterteilt, bezeichnet der Anhang die Kulturinstitutionen und deren Standortgemeinden für jede Teilregion.
+<sup>2</sup> Ist die Region in Teilregionen unterteilt, bezeichnet der Anhang 1 die Kulturinstitutionen und deren Standortgemeinden für jede Teilregion.
 
 ### 3.2 Kostenverteilung unter den Gemeinden
 
@@ -613,13 +613,23 @@ beschliesst:
 
 <sup>2</sup> Lastenverschiebungen zwischen Kanton und Gemeinden aufgrund dieser Änderung werden ab dem Zeitpunkt ihres Eintretens dem Lastenausgleich nach Artikel 29b FILAG angerechnet.
 
+## T3 Übergangsbestimmung der Änderung vom 08.06.2022
+
+#### Art. T3-1
+
+<sup>1</sup> Die Betriebsbeiträge an die Kulturinstitutionen nach Artikel A1-1 Absatz 5 Buchstabe b sowie nach Artikel A1-4 Absatz 2 Buchstabe b und n werden bis am 31. Dezember 2023 nach den Bestimmungen des bisherigen Rechts ausgerichtet.
+
+<sup>2</sup> Die Betriebsbeiträge an die Kulturinstitutionen nach Artikel A1-1 Absatz 4 Buchstabe k und Absatz 5 Buchstabe c sowie nach Artikel A1-4 Absatz 2 Buchstabe q bis t werden ab dem 1. Januar 2024 nach den Bestimmungen dieser Änderung ausgerichtet.
+
+<sup>3</sup> Lastenverschiebungen zwischen Kanton und Gemeinden aufgrund dieser Änderung werden ab dem Zeitpunkt ihres Eintretens dem Lastenausgleich nach Artikel 29b FILAG angerechnet.
+
 ## A1 Anhang 1: zu Artikel 10
 
 #### Art. A1-1
 
-**Region Biel/Bienne-Seeland-Jura Bernois**
+**Region Biel/Bienne-Seeland-Jura bernois**
 
-<sup>1</sup> Zur Region Biel/Bienne-Seeland-Jura Bernois gehören die Gemeinden nach Anhang 1 Ziffer 1 der Verordnung vom 24. Oktober 2007 über die Regionalkonferenzen (RKV)[^A11-1]. Sie ist unterteilt in zwei Teilregionen.
+<sup>1</sup> Zur Region Biel/Bienne-Seeland-Jura bernois gehören die Gemeinden nach Artikel A1-1 Absatz 2 der Verordnung vom 24. Oktober 2007 über die Regionalkonferenzen (RKV)[^A11-1]. Sie ist unterteilt in zwei Teilregionen.
 
 <sup>2</sup> Zur Teilregion Biel/Bienne-Seeland gehören folgende Gemeinden:
 
@@ -629,7 +639,7 @@ Aarberg, Aegerten, Arch, Bargen (BE), Bellmund, Biel/Bienne, Brügg, Brüttelen,
 
 Belprahon, Biel/Bienne, Champoz, Corcelles (BE), Corgémont, Cormoret, Cortébert, Court, Courtelary, Crémines, Eschert, Leubringen, Grandval, La Ferrière, La Neuveville, Loveresse, Mont-Tramelan, Moutier, Nods, Orvin, Perrefitte, Péry-La Heutte, Petit-Val, Plateau de Diesse, Rebévelier, Reconvilier, Renan (BE), Roches (BE), Romont (BE), Saicourt, Saint-Imier, Sauge, Saules (BE), Schelten, Seehof, Sonceboz-Sombeval, Sonvilier, Sorvilier, Tavannes, Tramelan, Valbirse, Villeret.
 
-<sup>4</sup> Folgende Kulturinstitutionen werden in der gesamten Region Biel/Bienne-Seeland-Jura Bernois unterstützt:
+<sup>4</sup> Folgende Kulturinstitutionen werden in der gesamten Region Biel/Bienne-Seeland-Jura bernois unterstützt:
 
 - a Theater Orchester Biel Solothurn (Standortgemeinde Biel/Bienne),
 - b Nebia - Bienne spectaculaire (Standortgemeinde Biel/Bienne),
@@ -639,14 +649,16 @@ Belprahon, Biel/Bienne, Champoz, Corcelles (BE), Corgémont, Cormoret, Cortéber
 - f Photoforum Pasquart (Standortgemeinde Biel/Bienne),
 - g La Grenouille - Theaterzentrum junges Publikum Biel / Centre théâtre jeune public Bienne (Standortgemeinde Biel/Bienne),
 - h Bieler Fototage (Standortgemeinde Biel/Bienne),
-- i Festival du Film Français d'Helvétie (Standortgemeinde Biel/Bienne).
+- i Festival du Film Français d'Helvétie (Standortgemeinde Biel/Bienne),
+- k KartellCulturel (Standortgemeinde Biel/Bienne, Nidau).
 
 <sup>5</sup> Folgende Kulturinstitutionen werden in der Teilregion Biel/Bienne-Seeland unterstützt:
 
 - a Kulturfabrik KUFA (Standortgemeinde Lyss),
-- b Kultur Kreuz Nidau (Standortgemeinde Nidau).
+- b …
+- c Centre Albert Anker (Standortgemeinde Ins).
 
-<sup>6</sup> Folgende Kulturinstitutionen werden in der Teilregion Biel/Bienne-Jura Bernois unterstützt:
+<sup>6</sup> Folgende Kulturinstitutionen werden in der Teilregion Biel/Bienne-Jura bernois unterstützt:
 
 - a Centre de culture et de loisirs (Standortgemeinde Saint-Imier),
 - b Centre culturel de la Prévôté (Standortgemeinde Moutier),
@@ -661,13 +673,13 @@ Belprahon, Biel/Bienne, Champoz, Corcelles (BE), Corgémont, Cormoret, Cortéber
 - l Regionalbibliothek Tavannes (Standortgemeinde Tavannes),
 - m Regionalbibliothek La Neuveville (Standortgemeinde La Neuveville).
 
-[^A11-1]: BSG 170.211
+[^A11-1]: BSG [170.211](https://www.belex.sites.be.ch/data/170.211/de)
 
 #### Art. A1-2
 
 **Region Oberaargau**
 
-<sup>1</sup> Zur Region Oberaargau gehören die Gemeinden nach Anhang 1 Ziffer 2 RKV.
+<sup>1</sup> Zur Region Oberaargau gehören die Gemeinden nach Artikel A1-2 Absatz 2 RKV.
 
 <sup>2</sup> Folgende Kulturinstitutionen werden in der Region Oberaargau unterstützt:
 
@@ -681,7 +693,7 @@ Belprahon, Biel/Bienne, Champoz, Corcelles (BE), Corgémont, Cormoret, Cortéber
 
 **Region Emmental**
 
-<sup>1</sup> Zur Region Emmental gehören die Gemeinden nach Anhang 1 Ziffer 3 RKV.
+<sup>1</sup> Zur Region Emmental gehören die Gemeinden nach Artikel A1-3 Absatz 2 RKV.
 
 <sup>2</sup> Folgende Kulturinstitutionen werden in der Region Emmental unterstützt:
 
@@ -697,31 +709,35 @@ Belprahon, Biel/Bienne, Champoz, Corcelles (BE), Corgémont, Cormoret, Cortéber
 
 **Region Bern-Mittelland**
 
-<sup>1</sup> Zur Region Bern-Mittelland gehören die Gemeinden nach Anhang 1 Ziffer 4 RKV.
+<sup>1</sup> Zur Region Bern-Mittelland gehören die Gemeinden nach Artikel A1-4 Absatz 2 RKV.
 
 <sup>2</sup> Folgende Kulturinstitutionen werden in der Region Bern-Mittelland unterstützt:
 
 - a BeJazz (Standortgemeinde Köniz),
-- b Berner Kammerorchester (Standortgemeinde Bern),
+- b …
 - c Bernisches Historisches Museum (Standortgemeinde Bern),
 - d Buskers Bern (Standortgemeinde Bern),
-- e CAMERATA BERN (Standortgemeinde Bern),
-- f DAS Theater an der Effingerstrasse (Standortgemeinde Bern),
-- g Konzert Theater Bern (Standortgemeinde Bern),
+- e Camerata Bern (Standortgemeinde Bern),
+- f Das Theater an der Effingerstrasse (Standortgemeinde Bern),
+- g Bühnen Bern (Standortgemeinde Bern),
 - h Kornhausbibliothek (Standortgemeinde Bern),
 - i Kornhausforum (Standortgemeinde Bern),
 - k Kulturhof Schloss Köniz (Standortgemeinde Köniz),
 - l La Cappella (Standortgemeinde Bern),
 - m Mühle Hunziken (Standortgemeinde Rubigen),
-- n Reberhaus Bolligen (Standortgemeinde Bolligen),
+- n …
 - o Swiss Jazz Orchestra (Standortgemeinde Bern),
-- p Schloss Jegenstorf (Standortgemeinde Jegenstorf).
+- p Museum Schloss Jegenstorf (Standortgemeinde Jegenstorf),
+- q Bären Buchsi (Standortgemeinde Münchenbuchsee),
+- r Heitere Fahne (Standortgemeinde Bern, Köniz),
+- s Berner Puppen Theater (Standortgemeinde Bern),
+- t Kulturfabrikbiglen (Standortgemeinde Biglen, Jaberg, Konolfingen, Landiswil, Muri bei Bern, Oberdiessbach, Oberthal).
 
 #### Art. A1-5
 
 **Region Thun Oberland-West**
 
-<sup>1</sup> Zur Region Thun Oberland-West gehören die Gemeinden nach Anhang 1 Ziffer 5 RKV. Sie ist unterteilt in drei Teilregionen.
+<sup>1</sup> Zur Region Thun Oberland-West gehören die Gemeinden nach Artikel A1-5 Absatz 2 RKV. Sie ist unterteilt in drei Teilregionen.
 
 <sup>2</sup> Zur Teilregion Thun gehören folgende Gemeinden:
 
@@ -761,7 +777,7 @@ Boltigen, Gsteig, Lauenen, Lenk, Saanen, St. Stephan, Zweisimmen.
 
 **Region Oberland-Ost**
 
-<sup>1</sup> Zur Region Oberland-Ost gehören die Gemeinden nach Anhang 1 Ziffer 6 RKV.
+<sup>1</sup> Zur Region Oberland-Ost gehören die Gemeinden nach Artikel A1-6 Absatz 2 RKV.
 
 <sup>2</sup> Folgende Kulturinstitutionen werden in der Region Oberland-Ost unterstützt:
 

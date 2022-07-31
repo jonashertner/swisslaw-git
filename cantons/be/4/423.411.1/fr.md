@@ -4,13 +4,13 @@ number: "423.411.1"
 title: Ordonnance sur l’encouragement des activités culturelles
 short: OEAC
 language: fr
-version: 2022-03-01
-valid_until: 2022-07-31
-version_adopted: 2022-02-02
+version: 2022-08-01
+valid_until: 2022-12-31
+version_adopted: 2022-06-08
 adopted: 2013-11-13
 in_force: 2014-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/423.411.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2577/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2613/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2577/pdf_file"
 
 (OEAC)
 
-du 13.11.2013 (état au 01.03.2022)
+du 13.11.2013 (état au 01.08.2022)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -136,13 +136,13 @@ arrête:
 
 **Institutions culturelles, communes-sièges, sous-régions**
 
-<sup>1</sup> L’annexe définit pour chaque région
+<sup>1</sup> L’annexe 1 définit pour chaque région
 
 - a les institutions culturelles recevant des subventions d’exploitation de la part du canton et des communes;
 - b les communes-sièges des institutions culturelles;
 - c les éventuelles sous-régions ainsi que les communes qui les composent.
 
-<sup>2</sup> Si la région est subdivisée en sous-régions, l’annexe définit pour chacune d’elles les institutions culturelles ainsi que leurs communes-sièges.
+<sup>2</sup> Si la région est subdivisée en sous-régions, l’annexe 1 définit pour chacune d’elles les institutions culturelles ainsi que leurs communes-sièges.
 
 ### 3.2 Répartition des coûts entre les communes
 
@@ -613,13 +613,23 @@ arrête:
 
 <sup>2</sup> Les transferts de charges entre le canton et les communes résultant de la présente modification sont imputés à la compensation des charges conformément à l'article 29b LPFC à partir du moment où ils interviennent.
 
+## T3 Disposition transitoire de la modification du 08.06.2022
+
+#### Art. T3-1
+
+<sup>1</sup> Les subventions d'exploitation allouées aux institutions culturelles visées à l'article A1-1, alinéa 5, lettre b et à l'article A1-4, alinéa 2, lettres b et n sont versées conformément aux dispositions de l'ancien droit jusqu'au 31 décembre 2023.
+
+<sup>2</sup> Les subventions d'exploitation allouées aux institutions culturelles visées à l'article A1-1, alinéa 4, lettre k et alinéa 5, lettre c ainsi qu'à l'article A1-4, alinéa 2, lettre q à t sont versées conformément aux dispositions de la présente modification à partir du 1<sup>er</sup> janvier 2024.
+
+<sup>3</sup> Les transferts de charges entre le canton et les communes résultant de la présente modification sont imputés à la compensation des charges conformément à l'article 29b LPFC à partir du moment où ils interviennent.
+
 ## A1 Annexe 1: à l'article 10
 
 #### Art. A1-1
 
 **Région Biel/Bienne-Seeland-Jura bernois**
 
-<sup>1</sup> Les communes listées à l'annexe 1, chiffre 1 de l'ordonnance du 24 octobre 2007 sur les conférences régionales (OCR)[^A11-1] forment la région Biel/Bienne-Seeland-Jura bernois. Cette région est subdivisée en deux sous-régions.
+<sup>1</sup> Les communes listées à l'article A1-1, alinéa 2 de l'ordonnance du 24 octobre 2007 sur les conférences régionales (OCR)[^A11-1] forment la région Biel/Bienne-Seeland-Jura bernois. Cette région est subdivisée en deux sous-régions.
 
 <sup>2</sup> La sous-région Biel/Bienne-Seeland se compose des communes suivantes:
 
@@ -631,20 +641,22 @@ Belprahon, Biel/Bienne, Champoz, Corcelles (BE), Corgémont, Cormoret, Cortéber
 
 <sup>4</sup> Les institutions culturelles suivantes sont soutenues par l'ensemble des communes de la région Biel/Bienne-Seeland-Jura bernois:
 
-- a Théâtre et Orchestre Bienne Soleure (commune-siège Biel/Bienne),
+- a Théâtre Orchestre Bienne Soleure (commune-siège Biel/Bienne),
 - b Nebia - Bienne spectaculaire (commune-siège Biel/Bienne),
 - c Bibliothèque de la Ville de Bienne (commune-siège Biel/Bienne),
-- d Nouveau Musée de Bienne (commune-siège Biel/Bienne),
+- d Nouveau Musée Bienne (commune-siège Biel/Bienne),
 - e Centre d'art Pasquart (commune-siège Biel/Bienne),
 - f Photoforum Pasquart (commune-siège Biel/Bienne),
 - g La Grenouille - Theaterzentrum junges Publikum Biel / Centre théâtre jeune public Bienne (commune-siège Biel/Bienne),
 - h Journées photographiques de Bienne (commune-siège Biel/Bienne),
-- i Festival du Film Français d'Helvétie (commune-siège Biel/ Bienne).
+- i Festival du Film Français d'Helvétie (commune-siège Biel/Bienne),
+- k KartellCulturel (commune-siège Biel/Bienne, Nidau).
 
 <sup>5</sup> Les institutions culturelles suivantes sont soutenues par les communes de la sous-région Biel/Bienne-Seeland:
 
 - a Kulturfabrik KUFA (commune-siège Lyss),
-- b Kultur Kreuz Nidau (commune-siège Nidau).
+- b …
+- c Centre Albert Anker (commune-siège Anet).
 
 <sup>6</sup> Les institutions culturelles suivantes sont soutenues par les communes de la sous-région Biel/Bienne-Jura bernois:
 
@@ -655,19 +667,19 @@ Belprahon, Biel/Bienne, Champoz, Corcelles (BE), Corgémont, Cormoret, Cortéber
 - e Revue Intervalles (commune-siège Plateau de Diesse),
 - f Musée de St-Imier (commune-siège Saint-Imier),
 - g Musée d'Art et d'Histoire de la Neuveville (commune-siège La Neuveville),
-- h Musée du Tour automatique et d'Histoire de Moutier (commune-siège: Moutier),
-- i Bibliothèque régionale de St-Imier (commune-siège Saint- Imier),
+- h Musée du Tour automatique et d'Histoire de Moutier (commune-siège Moutier),
+- i Bibliothèque régionale de St-Imier (commune-siège Saint-Imier),
 - k Bibliothèque régionale de Moutier (commune-siège Moutier),
 - l Bibliothèque régionale de Tavannes (commune-siège Tavannes),
 - m Bibliothèque régionale de La Neuveville (commune-siège La Neuveville).
 
-[^A11-1]: RSB 170.211
+[^A11-1]: RSB [170.211](https://www.belex.sites.be.ch/data/170.211/fr)
 
 #### Art. A1-2
 
 **Région Haute-Argovie**
 
-<sup>1</sup> Les communes listées à l’annexe 1, chiffre 2 OCR forment la région Haute-Argovie.
+<sup>1</sup> Les communes listées à l’article A1-2, alinéa 2 OCR forment la région Haute-Argovie.
 
 <sup>2</sup> Les institutions culturelles suivantes sont soutenues par les communes de la région Haute-Argovie:
 
@@ -681,7 +693,7 @@ Belprahon, Biel/Bienne, Champoz, Corcelles (BE), Corgémont, Cormoret, Cortéber
 
 **Région Emmental**
 
-<sup>1</sup> Les communes listées à l’annexe 1, chiffre 3 OCR forment la région Emmental.
+<sup>1</sup> Les communes listées à l’article A1-3, alinéa 2 OCR forment la région Emmental.
 
 <sup>2</sup> Les institutions culturelles suivantes sont soutenues par les communes de la région Emmental:
 
@@ -697,31 +709,35 @@ Belprahon, Biel/Bienne, Champoz, Corcelles (BE), Corgémont, Cormoret, Cortéber
 
 **Région Berne-Mittelland**
 
-<sup>1</sup> Les communes listées à l’annexe 1, chiffre 4 OCR forment la région Berne-Mittelland.
+<sup>1</sup> Les communes listées à l’article A1-4, alinéa 2 OCR forment la région Berne-Mittelland.
 
 <sup>2</sup> Les institutions culturelles suivantes sont soutenues par les communes de la région Berne-Mittelland:
 
 - a BeJazz (commune-siège Köniz),
-- b Berner Kammerorchester (commune-siège Berne),
+- b …
 - c Musée historique de Berne (commune-siège Berne),
 - d Buskers Bern (commune-siège Berne),
-- e CAMERATA BERN (commune-siège Berne),
-- f DAS Theater an der Effingerstrasse (commune-siège Berne),
-- g Konzert Theater Bern (commune-siège Berne),
+- e Camerata Bern (commune-siège Berne),
+- f Das Theater an der Effingerstrasse (commune-siège Berne),
+- g Bühnen Bern (commune-siège Berne),
 - h Kornhausbibliothek (commune-siège Berne),
 - i Kornhausforum (commune-siège Berne),
 - k Kulturhof Schloss Köniz (commune-siège Köniz),
 - l La Cappella (commune-siège Berne),
 - m Mühle Hunziken (commune-siège Rubigen),
-- n Reberhaus Bolligen (commune-siège Bolligen),
+- n …
 - o Swiss Jazz Orchestra (commune-siège Berne),
-- p Schloss Jegenstorf (commune-siège Jegenstorf).
+- p Museum Schloss Jegenstorf (commune-siège Jegenstorf),
+- q Bären Buchsi (commune-siège Münchenbuchsee),
+- r Heitere Fahne (commune-siège Berne, Köniz),
+- s Berner Puppen Theater (commune-siège Berne),
+- t Kulturfabrikbiglen (commune-siège Biglen, Jaberg, Konolfingen, Landiswil, Muri bei Bern, Oberdiessbach, Oberthal).
 
 #### Art. A1-5
 
 **Région Thoune-Oberland occidental**
 
-<sup>1</sup> Les communes listées à l’annexe 1, chiffre 5 OCR forment la région Thoune-Oberland occidental. Cette région est subdivisée en trois sous-régions.
+<sup>1</sup> Les communes listées à l’article A1-5, alinéa 2 OCR forment la région Thoune-Oberland occidental. Cette région est subdivisée en trois sous-régions.
 
 <sup>2</sup> La sous-région Thoune se compose des communes suivantes:
 
@@ -761,7 +777,7 @@ Boltigen, Gsteig, Lauenen, Lenk, Saanen, St. Stephan, Zweisimmen.
 
 **Région Oberland oriental**
 
-<sup>1</sup> Les communes listées à l’annexe 1, chiffre 6 OCR forment la région Oberland oriental.
+<sup>1</sup> Les communes listées à l’article A1-6, alinéa 2 OCR forment la région Oberland oriental.
 
 <sup>2</sup> Les institutions culturelles suivantes sont soutenues par les communes de la région Oberland oriental:
 
