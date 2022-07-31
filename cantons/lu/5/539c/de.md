@@ -4,20 +4,20 @@ number: 539c
 title: Statut der Universität Luzern
 short: Universitätsstatut
 language: de
-version: 2021-07-01
-valid_until: 2022-07-31
-version_adopted: 2021-06-23
+version: 2022-08-01
+valid_until: 2024-01-31
+version_adopted: 2022-06-30
 adopted: 2023-12-13
 in_force: 2024-02-01
 url: "https://srl.lu.ch/app/de/texts_of_law/539c"
-pdf: "https://srl.lu.ch/api/de/versions/3765/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3930/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Statut der Universität Luzern
 
-vom 12.12.2001 (Stand 01.07.2021)
+vom 12.12.2001 (Stand 01.08.2022)
 
 Der Universitätsrat der Universität Luzern,
 
@@ -79,15 +79,17 @@ beschliesst:
 
 **Weiterbildung**
 
-<sup>1</sup> Die Weiterbildung ist eine gesamtuniversitäre Aufgabe und wird in der Form von Nachdiplomstudien, Zertifikats- und Weiterbildungskursen sowie in besonderen Lehrveranstaltungen, die für eine breitere Öffentlichkeit bestimmt sind, angeboten.
+<sup>1</sup> Die Weiterbildung ist eine gesamtuniversitäre Aufgabe und wird in der Form von strukturierten Lehrgängen, Weiterbildungskursen sowie in besonderen Lehrveranstaltungen, die für eine breitere Öffentlichkeit bestimmt sind, angeboten.
 
-<sup>2</sup> Sie wird durch die Fakultäten, die Seminare und Institute sowie die weiteren Organisationseinheiten getragen.
+<sup>2</sup> Sie wird durch die Fakultäten, die Departemente, die Seminare und Institute, die Wei- terbildungsakademie sowie die weiteren Organisationseinheiten getragen.
 
 <sup>3</sup> Das Weiterbildungsangebot wird durch Studiengebühren, Beiträge Dritter sowie Mittel der Universität finanziert.
 
-<sup>4</sup> Die Fakultäten legen ihr Weiterbildungsangebot, die Voraussetzungen für die Zulassung zu den Weiterbildungsstudien und die Abschlüsse fest.
+<sup>4</sup> Die Trägerschaften legen ihr Weiterbildungsangebot, die Voraussetzungen für die Zulassung zu den Weiterbildungsstudien und die Abschlüsse fest.
 
-<sup>5</sup> Das Nähere wird in einem Rahmenreglement für die Weiterbildung sowie in Reglementen für die einzelnen Weiterbildungen festgelegt.
+<sup>5</sup> Das Nähere wird in einem Rahmenreglement für die Weiterbildung[^5-1] sowie in Reglementen für die einzelnen Weiterbildungen festgelegt.
+
+[^5-1]: SRL Nr. [539i](https://srl.lu.ch/data/539i/de)
 
 #### § 6
 
@@ -274,7 +276,7 @@ Es bestehen folgende Zuständigkeiten:
 - c. für die Förderung des wissenschaftlichen Nachwuchses,
 - d. für die Verleihung akademischer Titel und Ehrungen,
 - e. für die Koordination von Dienstleistungen in ihren Wissenschaftsbereichen,
-- f. für die Organisation der Weiterbildung und für das Angebot an Nachdiplomstudien in ihren Wissenschaftsbereichen,
+- f. für die inhaltliche Aufsicht und Qualitätssicherung der Weiterbildung in ihren Wissenschaftsbereichen und die Organisation des eigenen Weiterbildungsangebotes,
 - g. für die Pflege der Beziehungen zu anderen Forschungs- und Bildungseinrichtungen.
 
 #### § 16
@@ -426,7 +428,7 @@ Es bestehen folgende Zuständigkeiten:
 
 <sup>1</sup> Die Forschungskommission der Universität Luzern entscheidet über die Zuteilung der Mittel aus dem Forschungsfonds der Universität Luzern. Sie kann sich zu Gesuchen an den Schweizerischen Nationalfonds und an andere Institutionen der Forschungsförderung äussern.
 
-<sup>2</sup> Die Forschungskommission besteht aus mindestens zwölf Mitgliedern, wobei die Fakultäten und Departemente mit je zwei Professorinnen oder Professoren, die wissenschaftlichen Mitarbeiterinnen und Mitarbeiter sowie die Studierenden mit je einer Person vertreten sind. Die Kommission wird von der zuständigen Prorektorin oder dem zuständigen Prorektor geleitet.
+<sup>2</sup> Die Forschungskommission besteht aus mindestens zwölf Mitgliedern, wobei die Universitätsmanagerin oder der Universitätsmanager, die Fakultäten und Departemente mit je zwei Professorinnen oder Professoren, die wissenschaftlichen Mitarbeiterinnen und Mitarbeiter sowie die Studierenden mit je einer Person vertreten sind. Die Kommission wird von der zuständigen Prorektorin oder dem zuständigen Prorektor geleitet.
 
 <sup>3</sup> Der Senat wählt die Mitglieder der Forschungskommission auf Vorschlag der Fakultäten, der Departemente und der Rektorin oder des Rektors beziehungsweise der einzelnen Gruppierungen für eine Amtsdauer von zwei Jahren. Wiederwahl ist möglich. Die gesamte Amtszeit eines Mitgliedes der Forschungskommission darf die Dauer von zwölf Jahren nicht überschreiten.
 
@@ -444,11 +446,23 @@ Es bestehen folgende Zuständigkeiten:
 
 <sup>3</sup> Der Senat wählt die Mitglieder der Lehrkommission auf Vorschlag der Fakultäten und der Departemente beziehungsweise der einzelnen Gruppierungen für eine Amtsdauer von zwei Jahren. Wiederwahl ist möglich.
 
+#### § 24a
+
+**Weiterbildungskommission**
+
+<sup>1</sup> Die Weiterbildungskommission befasst sich mit Fragen der Weiterbildung. Sie erarbeitet Grundsätze und Strategien für die Weiterbildung an der Universität Luzern. Ihre weiteren Aufgaben werden im Rahmen des Rahmenreglements für die Weiterbildung an der Universität Luzern festgehalten.[^24a-1]
+
+<sup>2</sup> Die Weiterbildungskommission besteht aus mindestens sechs Mitgliedern, wobei die Fakultäten und Departemente je eine Vertretung entsenden. Die Kommission wird von der zuständigen Prorektorin oder dem zuständigen Prorektor geleitet. Die Leiterin oder der Leiter der Weiterbildungsakademie der Universität Luzern gehört der Kommission mit beratender Stimme an.
+
+<sup>3</sup> Der Senat wählt die Mitglieder der Weiterbildungskommission auf Vorschlag der Fakultäten und der Departemente für eine Amtsdauer von zwei Jahren. Wiederwahl ist möglich.
+
+[^24a-1]: SRL Nr. [539i](https://srl.lu.ch/data/539i/de)
+
 #### § 25
 
 **Gleichstellungskommission**
 
-<sup>1</sup> Die Gleichstellungskommission begleitet und fördert die nachhaltige Verankerung der Chancengleichheit als Querschnittaufgabe im Sinne der Qualitätsentwicklung in allen Aufgabenbereichen der Universität.
+<sup>1</sup> Die Gleichstellungskommission begleitet und fördert die nachhaltige Verankerung der Chancengleichheit und der Diversität in ihren verschiedenen Dimensionen als Querschnittaufgabe im Sinne der Qualitätsentwicklung in allen Aufgabenbereichen der Universität.
 
 <sup>2</sup> Die Gleichstellungskommission besteht aus mindestens sechs Mitgliedern, wobei die Fakultäten, die Departemente, das wissenschaftliche Personal, die Studierenden und das übrige Universitätspersonal mit je einer Person vertreten sind sowie die oder der Gleichstellungsbeauftragte und die Leiterin oder der Leiter des Personaldienstes Einsitz nehmen. Weitere Personen können auf Antrag der Rektorin oder des Rektors zur Wahl vorgeschlagen werden. Es ist auf eine ausgewogene Vertretung der Geschlechter zu achten. Die Kommission wird von der zuständigen Prorektorin oder dem zuständigen Prorektor geleitet.
 
@@ -505,6 +519,7 @@ Es bestehen folgende Zuständigkeiten:
 - a. ordentliche Professorinnen und Professoren: sie betreuen als Inhaberinnen oder Inhaber einer Professur Forschung, Lehre und Dienstleistungen in ihrem Fachgebiet,
 - b. ausserordentliche Professorinnen und Professoren: sie betreuen als Inhaberinnen oder Inhaber einer Professur Forschung, Lehre und Dienstleistungen in ihrem Fachgebiet, ihre Anstellung kann zeitlich befristet werden,
 - c. Titularprofessorinnen und -professoren: sie haben sich während längerer Zeit in Lehre und Forschung in besonderer Weise verdient gemacht, sie nehmen einen Lehr- und Forschungsauftrag wahr oder sind als Lehr- und Forschungsbeauftragte angestellt,
+- c<sup>bis</sup>. Professorinnen und Professoren für medizinische Wissenschaften: sie sind an einer mit der Universität Luzern verbundenen Partnerinstitution angestellt, haben sich national und international profiliert und haben an keiner anderen Universität eine hauptamtliche Professur inne; sie nehmen einen Lehrauftrag wahr oder sind als Lehr- und Forschungsbeauftragte an der Universität Luzern angestellt,
 - d. Gastprofessorinnen und -professoren: sie haben als amtierende oder ehemalige Professorinnen und Professoren anderer universitärer Hochschulen einen Lehr- oder Forschungsauftrag an der Universität Luzern; ist ihre Verbindung mit der Universität Luzern auf längere Frist angelegt, so werden sie als ständige Gastprofessorinnen oder Gastprofessoren ernannt,
 - e. Seniorprofessorinnen und -professoren; sie haben als ehemalige Professorinnen und Professoren der Universität Luzern einen ständigen Lehr- oder Forschungsauftrag,
 - f. Assistenzprofessorinnen und -professoren: sie haben eine befristete Anstellung als Lehr- oder Forschungsbeauftragte und befinden sich in einer Qualifizierungsphase für eine akademische Lehr- und Forschungstätigkeit; ihre Anstellung kann mit einer Beförderungsmöglichkeit zur ausserordentlichen oder ordentlichen Professorin oder zum ausserordentlichen oder ordentlichen Professor verbunden werden,
@@ -823,7 +838,7 @@ Es bestehen folgende Zuständigkeiten:
 
 **Eigenfinanzierung**
 
-<sup>1</sup> Die Fakultäten und Institute tragen mit den Einnahmen aus Weiterbildungsangeboten zu ihrer Finanzierung bei.
+<sup>1</sup> Die Fakultäten, Institute und Departemente tragen mit den Einnahmen aus Weiterbildungsangeboten zu ihrer Finanzierung bei.
 
 <sup>2</sup> Der Universitätsrat erlässt Richtlinien betreffend den Umgang mit Drittmitteln.
 
