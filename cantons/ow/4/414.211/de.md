@@ -3,20 +3,20 @@ canton: OW
 number: "414.211"
 title: Ausführungsbestimmungen über die Kantonsschule (Organisationsstatut)
 language: de
-version: 2021-08-01
-valid_until: 2022-07-31
-version_adopted: 2020-02-04
+version: 2022-08-01
+valid_until: 2026-07-31
+version_adopted: 2022-03-15
 adopted: 2011-06-20
 in_force: 2011-08-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/414.211"
-pdf: "http://gdb.ow.ch/api/de/versions/1416/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1578/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen über die Kantonsschule (Organisationsstatut)
 
-vom 20.06.2011 (Stand 01.08.2021)
+vom 20.06.2011 (Stand 01.08.2022)
 
 Der Regierungsrat des Kantons Obwalden,
 
@@ -165,6 +165,8 @@ beschliesst:
 <sup>3</sup> Die Stundentafel gemäss Anhang bestimmt die Aufteilung der Unterrichtszeit auf die Fächer und Fächergruppen. Sie legt fest, welches Mindestangebot an fakultativem Unterricht die Schule bereitzustellen hat.
 
 <sup>4</sup> …
+
+<sup>5</sup> Das Angebot an Schwerpunkt- und Ergänzungsfächern gemäss Stundentafel muss gewährleistet sein. Bei weniger als fünf Studierenden für ein Schwerpunkt- oder ein Ergänzungsfach ist die Unterrichtsform anzupassen.
 
 [^15-1]: [https://www.ksobwalden.ch/](https://www.ksobwalden.ch/)
 
@@ -428,6 +430,8 @@ geändert durch
 
 \- Nachtrag vom 8. November 2016, in Kraft seit 1. Januar 2017 (OGS 2016, 65),
 
-\- Nachtrag vom 4. Februar 2020 (neu mit Anhang), in Kraft seit 1. August 2021 (OGS 2020, 5)
+\- Nachtrag vom 4. Februar 2020 (neu mit Anhang), in Kraft seit 1. August 2021 (OGS 2020, 5),
+
+\- Nachtrag vom 15. März 2022, in Kraft seit 1. August 2022 (OGS 2022, 7)
 
 OGS 2011, 35
