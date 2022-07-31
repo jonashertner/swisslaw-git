@@ -4,11 +4,11 @@ number: "414.20"
 title: Gebührenverordnung der Zürcher Fachhochschulen (GVF)
 short: GVF
 language: de
-version: "2020-08-01"
-nachtrag: "109"
-valid_until: 2022-08-01
+version: "2022-08-01"
+nachtrag: "117"
+valid_until: 2024-08-01
 adopted: 2008-07-16
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_20-2008_07_16-2008_08_01-109.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_20-2008_07_16-2008_08_01-117.html"
 text: pdf
 ---
 
@@ -77,13 +77,13 @@ Für das Aufnahmeverfahren in die Bachelor- und Masterstudiengänge werden folge
 
 **1**
 
-- 1\. 7. 20 - 109 § 4 b.[^2-3],[^2-4] <sup>1</sup> Die Hochschulen sind Mitglied des Akademischen Sportverbandes Zürich (ASVZ).
+- 1\. 7. 22 - 117 § 4 b.[^2-3],[^2-4] <sup>1</sup> Die Hochschulen sind Mitglied des Akademischen Sportverbandes Zürich (ASVZ).
 
 **Akademischer Sportverband**
 
 <sup>2</sup> Die Studierenden der Hochschulen sind berechtigt, das Angebot des ASVZ zu nutzen.
 
-<sup>3</sup> Der Beitrag der Studierenden beträgt Fr. 30. Er wird mit der Semestergebühr erhoben.[^2-5] § 5. Studierende mit stipendienrechtlichem Wohnsitz ausserhalb des Kantons zahlen eine zusätzliche Semestergebühr, sofern sich der Wohnsitzkanton nicht gemäss der Interkantonalen Fachhochschulvereinbarung vom 12. Juni 2003[^2-6] an den Kosten der Hochschulen beteiligt. Die zusätzliche Gebühr entspricht dem Beitragssatz gemäss Anhang dieser Vereinbarung[^2-7].
+<sup>3</sup> Der Beitrag der Studierenden beträgt Fr. 35. Er wird mit der Semestergebühr erhoben.[^2-5] § 5. Studierende mit stipendienrechtlichem Wohnsitz ausserhalb des Kantons zahlen eine zusätzliche Semestergebühr, sofern sich der Wohnsitzkanton nicht gemäss der Interkantonalen Fachhochschulvereinbarung vom 12. Juni 2003[^2-6] an den Kosten der Hochschulen beteiligt. Die zusätzliche Gebühr entspricht dem Beitragssatz gemäss Anhang dieser Vereinbarung[^2-7].
 
 **Zusätzliche Semestergebühren a. Ausserkantonale Studierende**
 
@@ -104,8 +104,8 @@ Für das Aufnahmeverfahren in die Bachelor- und Masterstudiengänge werden folge
 [^2-1]: Fassung gemäss RRB vom 6. März 2012 (OS 67, 156; ABl 2012, 354). In Kraft seit 1. Mai 2012.
 [^2-2]: Eingefügt durch RRB vom 4. Dezember 2019 (OS 75, 111; ABl 2019-12-13). In Kraft seit 1. August 2020.
 [^2-3]: Eingefügt durch RRB vom 13. Januar 2010 (OS 65, 89; ABl 2010, 115). In Kraft seit 1. Februar 2010.
-[^2-4]: Nummerierung gemäss RRB vom 4. Dezember 2019 (OS 75, 111; ABl 2019- 12-13). In Kraft seit 1. August 2020. 1. 7. 20 - 109 3
-[^2-5]: Fassung gemäss RRB vom 1. März 2017 (OS 72, 332; ABl 2017-03-10). In Kraft seit 1. Juni 2017.
+[^2-4]: Nummerierung gemäss RRB vom 4. Dezember 2019 (OS 75, 111; ABl 2019- 12-13). In Kraft seit 1. August 2020.
+[^2-5]: Fassung gemäss RRB vom 27. April 2022 (OS 77, 285; ABl 2022-05-06). In Kraft seit 1. August 2022. 1. 7. 22 - 117 3
 [^2-6]: LS 414.12.
 [^2-7]: Einsichtnahme in den Anhang unter www.edk.ch.
 
@@ -141,4 +141,5 @@ Diese Verordnung tritt am 1. August 2008 in Kraft. Sie gilt für alle ab diesem 
 
 ## Weitere Fussnoten
 
+- [7] Fassung gemäss RRB vom 1. März 2017 (OS 72, 332; ABl 2017-03-10). In Kraft seit 1. Juni 2017.
 - [9] Fassung gemäss RRB vom 4. Dezember 2019 (OS 75, 111; ABl 2019-12-13). In Kraft seit 1. August 2020.
