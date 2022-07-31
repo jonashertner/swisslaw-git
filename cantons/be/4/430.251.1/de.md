@@ -4,13 +4,13 @@ number: "430.251.1"
 title: Direktionsverordnung über die Anstellung der Lehrkräfte
 short: LADV
 language: de
-version: 2022-03-01
-valid_until: 2022-07-31
-version_adopted: 2022-05-30
+version: 2022-08-01
+valid_until: 2022-12-31
+version_adopted: 2022-06-22
 adopted: 2007-06-15
 in_force: 2007-08-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/430.251.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2608/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2618/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2608/pdf_file"
 
 (LADV)
 
-vom 15.06.2007 (Stand 01.03.2022)
+vom 15.06.2007 (Stand 01.08.2022)
 
 Die Erziehungsdirektion des Kantons Bern,
 
@@ -279,7 +279,7 @@ beschliesst:
 
 - a der teilweisen oder vollständigen Integration einer Schülerin bzw. eines Schülers mit einer Behinderung in eine Regelklasse oder in eine besondere Klasse,
 - b schwierigen Klassenzusammensetzungen,
-- c der Koordination, Organisation, Durchführung und Auswertung des Unterrichts in den Intensivkursen Deutsch bzw. Französisch als Zweitsprache nach Artikel 7 der Direktionsverordnung vom 30. August 2008 über die besonderen Massnahmen im Kindergarten und in der Volksschule (BMDV)[^16a-1].
+- c der Koordination, Organisation, Durchführung und Auswertung des Unterrichts in den Intensivkursen Deutsch bzw. Französisch als Zweitsprache nach Artikel 7 der Direktionsverordnung vom 30. August 2008 über die einfachen sonderpädagogischen und unterstützenden Massnahmen Regelschulangebot (MRDV)[^16a-1].
 
 <sup>2</sup> In Fällen gemäss Absatz 1 können die Lehrkräfte mit einer Lektion pro Woche entlastet werden.
 
@@ -287,7 +287,7 @@ beschliesst:
 
 <sup>4</sup> Bei Stellenteilungen können die Entlastungslektionen nach Absatz 2 und 3 auf die Lehrkräfte aufgeteilt werden.
 
-<sup>5</sup> Von der Entlastung ausgenommen sind Lehrkräfte, die Spezialunterricht nach Artikel 6 und 7 der Verordnung vom 19. September 2007 über die besonderen Massnahmen in der Volksschule (BMV)[^16a-2] erteilen.
+<sup>5</sup> Von der Entlastung ausgenommen sind Lehrkräfte, die Spezialunterricht nach Artikel 6 und 7 der Verordnung vom 19. September 2007 über die einfachen sonderpädagogischen und unterstützenden Massnahmen im Regelschulangebot (VMR)[^16a-2] erteilen.
 
 [^16a-1]: BSG [432.271.11](https://www.belex.sites.be.ch/data/432.271.11/de)
 [^16a-2]: BSG [432.271.1](https://www.belex.sites.be.ch/data/432.271.1/de)

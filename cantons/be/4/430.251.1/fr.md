@@ -4,13 +4,13 @@ number: "430.251.1"
 title: Ordonnance de Direction sur le statut du corps enseignant
 short: ODSE
 language: fr
-version: 2022-03-01
-valid_until: 2022-07-31
-version_adopted: 2022-05-30
+version: 2022-08-01
+valid_until: 2022-12-31
+version_adopted: 2022-06-22
 adopted: 2007-06-15
 in_force: 2007-08-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/430.251.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2608/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2618/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2608/pdf_file"
 
 (ODSE)
 
-du 15.06.2007 (état au 01.03.2022)
+du 15.06.2007 (état au 01.08.2022)
 
 La Direction de l'instruction publique du canton de Berne,
 
@@ -283,7 +283,7 @@ arrête:
 
 - a d’intégration totale ou partielle d’un ou d’une élève présentant un handicap dans une classe régulière ou une classe spéciale,
 - b de composition difficile des classes,
-- c de coordination, d'organisation, de conduite et d'évaluation des cours intensifs de français ou d'allemand langue seconde mis en place en vertu de l'article 7 de l'ordonnance de Direction du 30 août 2008 régissant les mesures pédagogiques particulières à l'école enfantine et à l'école obligatoire (ODMPP)[^16a-1].
+- c de coordination, d'organisation, de conduite et d'évaluation des cours intensifs de français ou d'allemand langue seconde mis en place en vertu de l'article 7 de l'ordonnance de Direction du 30 août 2008 régissant les mesures de pédagogie spécialisée ordinaires et les mesures de soutien relevant de l'offre ordinaire de l’école obligatoire (ODMO)[^16a-1].
 
 <sup>2</sup> Dans les cas énoncés à l’alinéa 1, les membres du corps enseignant peuvent être déchargés d’une leçon hebdomadaire.
 
@@ -291,7 +291,7 @@ arrête:
 
 <sup>4</sup> Dans le cas du partage de postes, les leçons pouvant être déchargées sont partagées entre les membres du corps enseignant conformément aux alinéas 2 et 3.
 
-<sup>5</sup> Les membres du corps enseignant qui dispensent un enseignement spécialisé au sens des articles 6 et 7 de l’ordonnance du 19 septembre 2007 régissant les mesures pédagogiques particulières à l’école obligatoire (OMPP)[^16a-2] sont exclus de la décharge.
+<sup>5</sup> Les membres du corps enseignant qui dispensent des mesures de soutien spécialisé au sens des articles 6 et 7 de l’ordonnance du 19 septembre 2007 régissant les mesures de pédagogie spécialisée ordinaires et les mesures de soutien relevant de l'offre ordinaire de l’école obligatoire (OMO)[^16a-2] sont exclus de la décharge.
 
 [^16a-1]: RSB [432.271.11](https://www.belex.sites.be.ch/data/432.271.11/fr)
 [^16a-2]: RSB [432.271.1](https://www.belex.sites.be.ch/data/432.271.1/fr)
