@@ -1,27 +1,27 @@
 ---
 canton: TG
 number: "416.11"
-title: Verordnung des Regierungsrates zum Gesetz über Ausbildungsbeiträge
-short: Stipendienverordnung; StipV
+title: Stipendienverordnung
+short: StipV
 language: de
-version: 2019-08-01
-valid_until: 2022-07-31
-version_adopted: 2019-10-29
+version: 2022-08-01
+valid_until: 2025-07-31
+version_adopted: 2022-03-01
 adopted: 1990-12-04
 in_force: 1990-09-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/416.11"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2139/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2887/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung des Regierungsrates zum Gesetz über Ausbildungsbeiträge
+# Stipendienverordnung
 
 StipV
 
-(Stipendienverordnung; StipV)
+(StipV)
 
-vom 04.12.1990 (Stand 01.08.2019)
+vom 04.12.1990 (Stand 01.08.2022)
 
 ## 1. Voraussetzungen für Ausbildungsbeiträge
 
@@ -39,7 +39,7 @@ vom 04.12.1990 (Stand 01.08.2019)
 
 **Zivilrechtlicher Wohnsitz als stipendienrechtlicher Wohnsitz**
 
-<sup>1</sup> § 3 Abs. 2 StipG gilt auch für Bewerberinnen und Bewerber, die infolge Verheiratung finanziell unabhängig waren.
+<sup>1</sup> Der stipendienrechtliche Wohnsitz nach § 3 Abs. 2 StipG gilt auch für Bewerberinnen und Bewerber, die während zwei Jahren Kinder im eigenen Haushalt betreut haben.
 
 <sup>2</sup> Der stipendienrechtliche Wohnsitz nach § 3 Abs. 2 StipG bleibt bei einer Verlegung des zivilrechtlichen Wohnsitzes ausserhalb des Kantons solange massgebend, bis ausserkantonal ein stipendienrechtlicher Wohnsitz begründet ist.
 
@@ -141,9 +141,9 @@ vom 04.12.1990 (Stand 01.08.2019)
 
 <sup>1</sup> Als zumutbare Eigenleistungen pro Jahr gelten:
 
-- 1\. bei Mittelschülerinnen und Mittelschülern in Erstausbildung Fr. 1'500;
-- 2\. bei Absolventinnen und Absolventen der Vollzeitausbildung an Fachschulen, Fachhochschulen, Universitäten und Konservatorien Fr. 5'000, sofern sie kein Vollzeitpraktikum absolvieren;
-- 3\. bei allen übrigen Bewerberinnen und Bewerbern sowie Praktikantinnen und Praktikanten die effektiven Verdienstmöglichkeiten.
+- 1\. bei Mittelschülerinnen und Mittelschülern in Erstausbildung Fr. 1'500
+- 2\. bei Absolventinnen und Absolventen der Vollzeitausbildung an Fachschulen, Fachhochschulen, Universitäten und Konservatorien Fr. 5'000, sofern sie kein Vollzeitpraktikum absolvieren
+- 3\. bei allen übrigen Bewerberinnen und Bewerbern sowie Praktikantinnen und Praktikanten die effektiven Verdienstmöglichkeiten
 
 <sup>2</sup> …
 
@@ -157,9 +157,9 @@ vom 04.12.1990 (Stand 01.08.2019)
 
 <sup>1</sup> Zu den weiteren anrechenbaren Einnahmen gehören namentlich:
 
-- 1\. Renten;
-- 2\. Ergänzungsleistungen, auf die ein gesetzlicher Anspruch besteht;
-- 3\. Vermögenserträge.
+- 1\. Renten
+- 2\. Ergänzungsleistungen, auf die ein gesetzlicher Anspruch besteht
+- 3\. Vermögenserträge
 
 <sup>2</sup> Bei Bewerberinnen und Bewerbern, die zu Hause wohnen, werden die ersten Fr. 6'000 der Rente nicht berücksichtigt.
 
@@ -171,9 +171,9 @@ vom 04.12.1990 (Stand 01.08.2019)
 
 <sup>2</sup> Die Freigrenze beträgt:
 
-- 1\. Fr. 20'000 für nicht verheiratete Bewerberinnen und Bewerber, bei denen ein Elternbeitrag nach § 12 Abs. 1 der Verordnung vorausgesetzt wird;
-- 2\. Fr. 30'000 für verheiratete Bewerberinnen und Bewerber ohne Kinder und für nicht verheiratete Bewerberinnen oder Bewerber, bei denen nur unter der Voraussetzung von § 7 Abs. 2 StipG und § 10 Abs. 4 ein Elternbeitrag vorausgesetzt wird;
-- 3\. Fr. 10'000 zusätzlich für jedes Kind, sofern die Bewerberin oder der Bewerber für dessen Unterhalt aufzukommen hat.
+- 1\. Fr. 20'000 für nicht verheiratete Bewerberinnen und Bewerber, bei denen ein Elternbeitrag nach § 12 Abs. 1 der Verordnung vorausgesetzt wird
+- 2\. Fr. 40'000 für verheiratete Bewerberinnen und Bewerber ohne Kinder und für nicht verheiratete Bewerberinnen oder Bewerber, bei denen nur gemäss § 7 Abs. 2 StipG und § 10 Abs. 4 ein Elternbeitrag vorausgesetzt wird
+- 3\. Fr. 10'000 zusätzlich für jedes Kind, sofern die Bewerberin oder der Bewerber für dessen Unterhalt aufzukommen hat
 
 <sup>3</sup> Bei aussergewöhnlichem Vermögenszuwachs während der Ausbildung wird der Betrag nach Abs. 1 für die restliche Ausbildungszeit unter Berücksichtigung des Zuwachses neu festgelegt.
 
@@ -193,11 +193,11 @@ vom 04.12.1990 (Stand 01.08.2019)
 
 <sup>2a</sup> …
 
-<sup>3</sup> Werden die Eltern steuerlich getrennt erfasst, wird ihr anrechenbares Einkommen zusammengerechnet. Von diesem Einkommen werden Fr. 30'000 in Abzug gebracht, sofern die Eltern örtlich getrennte Haushalte führen. Im Total der Einkünfte enthaltene Alimente dürfen nicht doppelt berücksichtigt werden.
+<sup>3</sup> Werden die Eltern steuerlich getrennt erfasst, wird ihr anrechenbares Einkommen zusammengerechnet. Von diesem Einkommen werden Fr. 40'000 in Abzug gebracht, sofern die Eltern örtlich getrennte Haushalte führen. Im Total der Einkünfte enthaltene Alimente dürfen nicht doppelt berücksichtigt werden.
 
-<sup>3<sup>bis</sup></sup> Für jedes vorschulpflichtige oder in der obligatorischen Schulpflicht stehende Kind wird das anrechenbare Einkommen um Fr. 4'000 reduziert.
+<sup>3<sup>bis</sup></sup> Für jedes vorschulpflichtige oder in der obligatorischen Schulpflicht stehende Kind wird das anrechenbare Einkommen um Fr. 6'000 reduziert.
 
-<sup>3<sup>ter</sup></sup> Bei Bewerberinnen und Bewerbern, welche die Voraussetzungen von § 10 Abs. 4 erfüllen, wird das anrechenbare Einkommen um Fr. 50'000 reduziert.
+<sup>3<sup>ter</sup></sup> Bei Bewerberinnen und Bewerbern, die die Voraussetzungen von § 10 Abs. 4 erfüllen, wird das anrechenbare Einkommen um Fr. 80'000 reduziert.
 
 <sup>4–6</sup> …
 
@@ -209,12 +209,12 @@ vom 04.12.1990 (Stand 01.08.2019)
 
 <sup>2</sup> Als Haushaltskosten werden pauschal berücksichtigt:
 
-- 1\. Ein Grundbedarf von Fr. 30'000;
-- 2\. Wohnungskosten von Fr. 26'800;
-- 3\. die auf dem anrechenbaren Einkommen anfallenden Steuern;
-- 4\. die um allfällige Prämienverbilligungen reduzierten Krankenkassenprämien;
-- 5\. für weitere Gesundheitskosten Fr. 4'000 und
-- 6\. für Versicherungskosten Fr. 2'000.
+- 1\. Ein Grundbedarf von Fr. 30'000
+- 2\. Wohnungskosten von Fr. 26'800
+- 3\. die auf dem anrechenbaren Einkommen anfallenden Steuern
+- 4\. die um allfällige Prämienverbilligungen reduzierten Krankenkassenprämien
+- 5\. für weitere Gesundheitskosten Fr. 4'000
+- 6\. für Versicherungskosten Fr. 2'000
 
 #### § 12b
 
@@ -226,7 +226,7 @@ vom 04.12.1990 (Stand 01.08.2019)
 
 <sup>3</sup> Bei Eltern mit Wohnsitz im Ausland kann das anrechenbare Einkommen ermessensweise festgesetzt werden.
 
-<sup>4</sup> Aus wichtigen Gründen kann von der Anrechnung eines Elternbeitrages abgesehen werden.
+<sup>4</sup> Aus wichtigen Gründen kann von der Anrechnung eines Elternbeitrages ganz oder teilweise abgesehen werden.
 
 #### § 13
 
@@ -248,7 +248,7 @@ vom 04.12.1990 (Stand 01.08.2019)
 
 <sup>1</sup> Bewerberinnen und Bewerber, die in eheähnlichen Verhältnissen leben, werden wie Verheiratete behandelt.
 
-<sup>2</sup> Eheähnliche Verhältnisse liegen vor, wenn jemand mit einem Partner oder einer Partnerin seit mindestens zwei Jahren in einer gemeinsamen Wohnung zusammenlebt.
+<sup>2</sup> Eheähnliche Verhältnisse liegen vor, wenn der Bewerber oder die Bewerberin das 25. Altersjahr vollendet hat und mit einer Partnerin oder einem Partner seit mindestens vier Jahren in einer gemeinsamen Wohnung zusammenlebt.
 
 <sup>3</sup> Führt die Anrechnung des Einkommens der Lebenspartnerin oder des Lebenspartners zu einem unbilligen Ergebnis, wird die Bewerberin oder der Bewerber als alleinstehende Person behandelt.
 
@@ -272,10 +272,13 @@ vom 04.12.1990 (Stand 01.08.2019)
 
 <sup>2</sup> Namentlich mitzuteilen sind:
 
-- 1\. Adressänderungen,
-- 2\. Änderungen in den Einkommens- und Vermögensverhältnissen,
-- 3\. jeweiliger Stand der Ausbildung nach Schluss eines Semesters oder Kurses,
-- 4\. Beendigung oder Abbruch der Ausbildung.
+- 1\. Adressänderungen
+- 2\. Änderungen in den Einkommens- und Vermögensverhältnissen
+- 3\. jeweiliger Stand der Ausbildung nach Schluss eines Semesters oder Kurses
+- 4\. Beendigung oder Abbruch der Ausbildung
+- 5\. Heirat
+- 6\. Elternschaft
+- 7\. Haushaltsgründung mit Lebenspartner oder Lebenspartnerin
 
 #### § 18
 
