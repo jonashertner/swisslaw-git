@@ -4,13 +4,12 @@ number: "419.12"
 title: Vollzugsverordnung zum Gesetz über Ausbildungsbeiträge
 short: Stipendienverordnung
 language: de
-version: 2017-08-01
-valid_until: 2022-07-31
-version_adopted: 2017-05-02
+version: 2022-08-01
+version_adopted: 2022-03-08
 adopted: 1985-07-02
 in_force: 1985-08-01
 url: "https://bgs.so.ch/app/de/texts_of_law/419.12"
-pdf: "https://bgs.so.ch/api/de/versions/4874/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5215/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.so.ch/api/de/versions/4874/pdf_file"
 
 (Stipendienverordnung)
 
-Vom 02.07.1985 (Stand 01.08.2017)
+Vom 02.07.1985 (Stand 01.08.2022)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -283,17 +282,26 @@ d) 10% des 100'000 Franken übersteigenden Reinvermögens.
 
 #### § 22
 
-**Bei Täuschung oder Zweckentfremdung G § 11 Abs .1**
+**Bei Täuschung und zweckwidriger Verwendung G § 11 Abs. 1 Bst. a und b**
 
-<sup>1</sup> Ausbildungsbeiträge, die durch unwahre Angaben oder Verheimlichung von Tatsachen erwirkt oder die nicht für die im Gesuch genannte Ausbildung verwendet wurden, sind sofort zur Rückzahlung fällig.
+<sup>1</sup> Erhaltene Stipendien und Darlehen sind sofort zur Rückerstattung fällig, wenn die Beiträge
+
+- a) durch unwahre Angaben oder durch die Verheimlichung von Tatsachen erwirkt wurden;
+- b) zweckwidrig verwendet wurden.
 
 #### § 23
 
-**Bei Abbruch der Ausbildung G § 11 Abs. 2**
+**Bei einem Verstoss gegen die Meldepflicht und bei einem Abbruch der Ausbildung G § 11 Abs. 1 Bst. c und d**
 
-<sup>1</sup> Ausbildungsbeiträge, die wegen eines selbstverschuldeten vorzeitigen Abbruchs der Ausbildung zurückzuerstatten sind, müssen grundsätzlich bis spätestens drei Jahre nach dem Abbruch der Ausbildung zurückbezahlt werden.
+<sup>1</sup> Erhaltene Stipendien und Darlehen, die wegen eines selbstverschuldeten vorzeitigen Abbruchs der Ausbildung zurückzuerstatten sind, sind innerhalb von drei Jahren nach Abbruch der Ausbildung zurückzubezahlen.
 
-<sup>2</sup> Trifft die dreijährige Rückzahlungspflicht den Beitragsempfänger hart, so setzt die Stipendienabteilung einen davon abweichenden Rückzahlungsmodus fest, der sich nach den wirtschaftlichen Verhältnissen des Betroffenen richtet.
+<sup>2</sup> Erhaltene Stipendien, die wegen eines Verstosses gegen die Meldepflicht zurückzuerstatten sind und die nicht mit Stipendienansprüchen verrechnet werden können, sind sofort nach Beendigung der Ausbildung zur Rückerstattung fällig.
+
+#### § 23bis
+
+**Härtefälle**
+
+<sup>1</sup> Die Stipendienabteilung kann in Härtefällen eine längere Rückerstattungsfrist oder bei sofortiger Fälligkeit einen anderen Rückerstattungszeitpunkt festlegen.
 
 #### § 24
 
@@ -391,7 +399,7 @@ d) 10% des 100'000 Franken übersteigenden Reinvermögens.
 
 #### § 34
 
-**Stipendien Dritter Stip VO § í4**
+**Stipendien Dritter Stip VO § 14**
 
 <sup>1</sup> Stipendien Dritter werden erst ab 1. Januar 1987 zum massgebenden Einkommen des Bewerbers hinzugerechnet.
 
