@@ -4,13 +4,13 @@ number: "165.111"
 title: Personal- und Lohnverordnung
 short: PLV
 language: de
-version: 2021-01-01
-valid_until: 2022-07-31
-version_adopted: 2020-11-11
+version: 2022-08-01
+valid_until: 2023-09-30
+version_adopted: 2022-11-02
 adopted: 2000-09-25
 in_force: 2001-04-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/165.111"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2929/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3249/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2929/pdf_file"
 
 (PLV)
 
-Vom 25.09.2000 (Stand 01.01.2021)
+Vom 25.09.2000 (Stand 01.08.2022)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -329,6 +329,16 @@ beschliesst:
 <sup>3</sup> Ist die Zeitkompensation aus betrieblichen Gründen innerhalb von 12 Monaten nicht möglich, ordnet die Anstellungsbehörde ausnahmsweise die Auszahlung der Überstunden an. Diese berechnet sich auf der Grundlage des individuellen Jahreslohns ohne Zulagen mit einem Zuschlag von 25 %.
 
 <sup>4</sup> An Angestellte sowie Beamtinnen und Beamte ab Lohnstufe 16 gemäss Einreihungsplan werden keine Überstunden ausbezahlt.
+
+#### § 27a
+
+**Überstunden infolge Mehrarbeit im Rahmen der Strom- und Gas-Mangellage oder im Zusammenhang mit Schutzsuchenden aus der Ukraine**
+
+<sup>1</sup> Bei Überstunden, die infolge Mehrarbeit im Rahmen der Strom- und Gas-Mangellage oder im Zusammenhang mit Schutzsuchenden aus der Ukraine entstanden sind und bei denen eine Kompensation durch Gewährung von Freizeit nicht möglich ist, kann eine Auszahlung erfolgen.
+
+<sup>2</sup> Dies gilt entgegen der Regelung von § 27 Abs. 4 unabhängig der Lohnstufe für alle Mitarbeitenden, die der Pflicht zur Arbeitszeiterfassung unterstehen.
+
+<sup>3</sup> Die Auszahlung erfolgt jeweils im Kalenderjahr, in welchem die Arbeitsleistung erbracht worden ist.
 
 #### § 28
 
@@ -725,6 +735,8 @@ beschliesst:
 <sup>1</sup> Diese Verordnung ist in der Gesetzessammlung zu publizieren. Sie tritt am 1. April 2001 in Kraft.
 
 <sup>2</sup> Die Bestimmungen des I., II., III., VII. und IX. Abschnitts sowie § 58 treten gestützt auf Ziffer 1 Abs. 2 von Anhang III des Dekrets über die Löhne des kantonalen Personals vom 30. November 1999[^59-1] am 1. November 2000 in Kraft.
+
+<sup>3</sup> § 27a tritt am 1. August 2022 in Kraft und ist befristet bis 30. April 2024.
 
 [^59-1]: SAR [165.130](https://gesetzessammlungen.ag.ch/data/165.130/de)
 
