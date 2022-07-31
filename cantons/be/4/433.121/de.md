@@ -4,13 +4,13 @@ number: "433.121"
 title: Mittelschulverordnung
 short: MiSV
 language: de
-version: 2020-11-01
-valid_until: 2022-07-31
-version_adopted: 2020-09-16
+version: 2022-08-01
+valid_until: 2024-07-31
+version_adopted: 2022-06-22
 adopted: 2007-11-07
 in_force: 2008-08-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/433.121"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2020/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2627/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2020/pdf_file"
 
 (MiSV)
 
-vom 07.11.2007 (Stand 01.11.2020)
+vom 07.11.2007 (Stand 01.08.2022)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -95,6 +95,8 @@ beschliesst:
 - b zu einer zweisprachigen Maturität Deutsch–Englisch führen, falls dafür keine Klassenteilungen notwendig sind,
 - c besondere Begabungen unterstützen oder
 - d spezifisch auf die Bedürfnisse Erwachsener ausgerichtet sind.
+
+<sup>2a</sup> Bei gymnasialen Bildungsgängen, die zu einer zweisprachigen Maturität führen, besondere Begabungen unterstützen oder spezifisch auf die Bedürfnisse Erwachsener ausgerichtet sind, kann das Angebot an Schwerpunktfächern reduziert sein.
 
 <sup>3</sup> Gymnasiale Bildungsgänge, die besondere Begabungen unterstützen, dauern fünf Jahre. Für besonders Begabte, die einen ordentlichen gymnasialen Bildungsgang besuchen, kann die Schulleitung die Dauer individuell bis auf höchstens acht Jahre verlängern.
 
@@ -333,9 +335,9 @@ beschliesst:
 
 <sup>1</sup> Die KPFMS setzt sich zusammen aus
 
-- a den Hauptexpertinnen und Hauptexperten,
-- b je einem Mitglied der Schulkommission pro Fachmittelschule,
-- c weiteren Mitgliedern, die eine Vernetzung mit den abnehmenden tertiären Institutionen ermöglichen.
+- a den Hauptexpertinnen und Hauptexperten und
+- b …
+- c weiteren Mitgliedern, insbesondere zur Vernetzung mit den abnehmenden tertiären Bildungsinstitutionen.
 
 <sup>2</sup> Die Bildungs- und Kulturdirektion ernennt die Mitglieder und bestimmt die Präsidentin oder den Präsidenten. Im Übrigen konstituiert sich die Kommission selbst.
 
@@ -954,8 +956,9 @@ beschliesst:
 - a zur Abgeltung der Klassenleitung um die je einer Lektion pro Klasse entsprechenden Beschäftigungsgradprozente,
 - b zur Abgeltung von Aufgaben in den Bereichen
   - 1\. Betreuung von Schülerinnen und Schülern in Praktika im Rahmen von Fachmaturitätsbildungsgängen,
-  - 2\. Begabtenförderung sowie
-  - 3\. Integration von Fremdsprachigen und von Menschen mit einer Behinderung.
+  - 2\. Begabtenförderung,
+  - 3\. Integration von Fremdsprachigen und von Menschen mit einer Behinderung sowie
+  - 4\. Wahrnehmung von schulübergreifenden Aufgaben.
 
 <sup>4</sup> …
 
@@ -1250,6 +1253,12 @@ beschliesst:
 
 <sup>2</sup> Schülerinnen und Schüler, die im Schuljahr 2018/19 in den Handelsmittelschulbildungsgang am Gymnasium Thun eingetreten sind und in der Folge ein Ausbildungsjahr wiederholen müssen, beenden ihre Ausbildung an der Wirtschaftsmittelschule Bern.
 
+## T5 Übergangsbestimmung der Änderung vom 22.06.2022
+
+#### Art. T5-1
+
+<sup>1</sup> Die Änderung von Artikel 25 ist ab 1. Januar 2023 anwendbar.
+
 ## A1 Anhang 1 zu den Artikeln 32 Absatz 3 und 44 Absatz 2
 
 #### Art. A1-1
@@ -1265,7 +1274,7 @@ beschliesst:
 <tr><td></td><td>Gymnasium Hofwil</td><td>Gymnasialer Bildungsgang</td><td>Münchenbuchsee</td><td></td></tr>
 <tr><td></td><td>Gymnasium Lerbermatt</td><td>Gymnasialer Bildungsgang, Fachmittelschulbildungsgang</td><td>Köniz</td><td></td></tr>
 <tr><td>Biel-Seeland</td><td>Gymnasium Biel-Seeland</td><td>Gymnasialer Bildungsgang, Fachmittelschulbildungsgang, Handelsmittelschulbildungsgang gemäss Artikel 63 BerV</td><td>Biel</td><td></td></tr>
-<tr><td>Bienne-Jura Bernois</td><td>Gymnase français de Bienne</td><td>Gymnasialer Bildungsgang, Fachmittelschulbildungsgang, Handelsmittelschulbildungsgang gemäss Artikel 63 BerV</td><td>Biel</td><td>Moutier</td></tr>
+<tr><td>Bienne-Jura Bernois</td><td>Gymnase de Bienne et du Jura bernois</td><td>Gymnasialer Bildungsgang, Fachmittelschulbildungsgang, Handelsmittelschulbildungsgang gemäss Artikel 63 BerV</td><td>Biel</td><td></td></tr>
 <tr><td>Emmental-Oberaargau</td><td>Gymnasium Burgdorf</td><td>Gymnasialer Bildungsgang</td><td>Burgdorf</td><td></td></tr>
 <tr><td>Emmental-Oberaargau</td><td>Gymnasium Oberaargau</td><td>Gymnasialer Bildungsgang, Fachmittelschulbildungsgang</td><td>Langenthal</td><td></td></tr>
 <tr><td>Oberland</td><td>Gymnasium Thun</td><td>Gymnasialer Bildungsgang, Fachmittelschulbildungsgang</td><td>Thun</td><td></td></tr>
@@ -1284,7 +1293,7 @@ beschliesst:
 - d eine neun Mitglieder zählende Schulkommission für das Gymnasium Lerbermatt,
 - e eine neun Mitglieder zählende Schulkommission für das Gymnasium Biel-Seeland,
 - f …
-- g eine neun Mitglieder zählende Schulkommission für das Gymnasium français de Bienne,
+- g eine neun Mitglieder zählende Schulkommission für das Gymnase de Bienne et du Jura bernois,
 - h eine sieben Mitglieder zählende Schulkommission für das Gymnasium Burgdorf,
 - i eine fünf Mitglieder zählende Schulkommission für das Gymnasium Oberaargau, die für die Belange des Bildungszentrums Sekundarstufe II, Langenthal, durch weitere Personen ergänzt wird,
 - k eine sieben Mitglieder zählende Schulkommission für das Gymnasium Thun,

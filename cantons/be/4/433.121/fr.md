@@ -4,13 +4,13 @@ number: "433.121"
 title: Ordonnance sur les écoles moyennes
 short: OEM
 language: fr
-version: 2020-11-01
-valid_until: 2022-07-31
-version_adopted: 2020-09-16
+version: 2022-08-01
+valid_until: 2024-07-31
+version_adopted: 2022-06-22
 adopted: 2007-11-07
 in_force: 2008-08-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/433.121"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2020/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2627/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2020/pdf_file"
 
 (OEM)
 
-du 07.11.2007 (état au 01.11.2020)
+du 07.11.2007 (état au 01.08.2022)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -95,6 +95,8 @@ arrête:
 - b conduisent à une maturité bilingue allemand-anglais, pour autant que celles-ci n’entraînent pas la division de classes;
 - c soutiennent des talents particuliers ou
 - d sont spécifiquement axées sur les besoins des adultes.
+
+<sup>2a</sup> L’offre d’options spécifiques peut être réduite pour les formations gymnasiales qui conduisent à une maturité bilingue, soutiennent des talents particuliers ou sont spécifiquement axées sur les besoins des adultes.
 
 <sup>3</sup> La durée des formations gymnasiales qui soutiennent des talents particuliers est de cinq ans. La direction d’école peut prolonger, selon les cas, jusqu’à huit ans la durée des formations gymnasiales ordinaires pour les élèves possédant des talents particuliers.
 
@@ -331,11 +333,11 @@ arrête:
 
 **Composition, organisation**
 
-<sup>1</sup> La CCECG se compose de
+<sup>1</sup> La CCECG se compose
 
-- a des experts principaux et des expertes principales;
-- b d’un membre de la commission scolaire de chaque école de culture générale;
-- c d’autres membres pouvant établir et entretenir les contacts avec les institutions tertiaires qui accueilleront les élèves après la fin de la formation.
+- a des experts principaux et des expertes principales et
+- b …
+- c d’autres membres, en particulier pour établir et entretenir les contacts avec les institutions de formation tertiaires qui accueilleront les élèves à l’issue de leur formation.
 
 <sup>2</sup> La Direction de l’instruction publique et de la culture nomme les membres et désigne le président ou la présidente. Au surplus, la commission se constitue elle-même.
 
@@ -952,10 +954,11 @@ arrête:
 <sup>3</sup> Le pool destiné aux tâches spéciales est augmenté
 
 - a pour rétribuer le maître ou la maîtresse de classe, du pourcentage de degré d’occupation équivalant à une leçon par classe;
-- b pour rétribuer des tâches liées
-  - 1\. à l'encadrement d'élèves en stage dans le cadre de la filière de maturité spécialisée,
-  - 2\. à la promotion des talents particuliers ou
-  - 3\. à l'intégration des élèves allophones et des élèves en situation de handicap.
+- b pour rétribuer
+  - 1\. des tâches liées à l'encadrement d'élèves en stage dans le cadre de la filière de maturité spécialisée,
+  - 2\. des tâches liées à la promotion des talents particuliers,
+  - 3\. des tâches liées à l'intégration des élèves allophones et des élèves en situation de handicap ou
+  - 4\. des tâches qui concernent toute l'école.
 
 <sup>4</sup> …
 
@@ -1250,6 +1253,12 @@ arrête:
 
 <sup>2</sup> Les élèves qui commencent leur formation à l'école de commerce du Gymnasium Thun à la rentrée scolaire 2018 et qui, par la suite, doivent refaire une année terminent leur formation à la Wirtschaftsmittelschule Bern.
 
+## T5 Disposition transitoire de la modification du 22.06.2022
+
+#### Art. T5-1
+
+<sup>1</sup> La modification de l'article 25 s'applique à partir du 1<sup>er</sup> janvier 2023.
+
 ## A1 Annexe 1 aux articles 32, alinéa 3 et 44, alinéa 2
 
 #### Art. A1-1
@@ -1265,7 +1274,7 @@ arrête:
 <tr><td>Berne-Mittelland</td><td>Gymnasium Hofwil</td><td>Formation gymnasiale</td><td>Münchenbuchsee</td><td></td></tr>
 <tr><td>Berne-Mittelland</td><td>Gymnasium Lerbermatt</td><td>Formation gymnasiale, formation en école de culture générale</td><td>Köniz</td><td></td></tr>
 <tr><td>Bienne-Seeland</td><td>Gymnasium Biel-Seeland</td><td>Formation gymnasiale, formation en école de culture générale, formation en école de commerce au sens de l'article 63 OFOP</td><td>Bienne</td><td></td></tr>
-<tr><td>Bienne-Jura bernois</td><td>Gymnase français de Bienne</td><td>Formation gymnasiale, formation en école de culture générale, formation en école de commerce au sens de l'article 63 OFOP</td><td>Bienne</td><td>Moutier</td></tr>
+<tr><td>Bienne-Jura bernois</td><td>Gymnase de Bienne et du Jura bernois</td><td>Formation gymnasiale, formation en école de culture générale, formation en école de commerce au sens de l'article 63 OFOP</td><td>Bienne</td><td></td></tr>
 <tr><td>Emmental-Haute-Argovie</td><td>Gymnasium Burgdorf</td><td>Formation gymnasiale</td><td>Berthoud</td><td></td></tr>
 <tr><td>Emmental-Haute-Argovie</td><td>Gymnasium Oberaargau</td><td>Formation gymnasiale, formation en école de culture générale</td><td>Langenthal</td><td></td></tr>
 <tr><td>Oberland</td><td>Gymnasium Thun</td><td>Formation gymnasiale, formation en école de culture générale</td><td>Thoune</td><td></td></tr>
@@ -1284,7 +1293,7 @@ arrête:
 - d une commission scolaire de neuf membres pour le Gymnasium Lerbermatt;
 - e une commission scolaire de neuf membres pour le Gymnasium Biel-Seeland;
 - f …
-- g une commission scolaire de neuf membres pour le Gymnase français de Bienne;
+- g une commission scolaire de neuf membres pour le Gymnase de Bienne et du Jura bernois;
 - h une commission scolaire de sept membres pour le Gymnasium Burgdorf;
 - i une commission scolaire de cinq membres pour le Gymnasium Oberaargau, complétée par d'autres personnes pour les affaires relatives au centre de formation du degré secondaire II, Langenthal;
 - k une commission scolaire de sept membres pour le Gymnasium Thun;
