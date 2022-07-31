@@ -4,11 +4,11 @@ number: "171.1"
 title: Kantonsratsgesetz (KRG)
 short: KRG
 language: de
-version: "2020-05-01"
-nachtrag: "117"
-valid_until: 2022-08-01
+version: "2022-08-01"
+nachtrag: "118"
+valid_until: 2024-05-01
 adopted: 2019-03-25
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-171_1-2019_03_25-2020_05_01-117.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-171_1-2019_03_25-2020_05_01-118.html"
 text: pdf
 ---
 
@@ -70,9 +70,7 @@ Die Amtsdauer endet a. bei Erneuerungswahlen mit der Konstituierung des neu gew�
 
 **1**
 
-- 1\. 7. 22 - 117
-
-- b. bei vorzeitigem Rücktritt während der Amtsdauer mit dem Amtsantritt der Nachfolgerin oder des Nachfolgers, sofern der Kantonsrat ein Gesuch um vorzeitigen Rücktritt bewilligt hat.
+1.10. 22 - 118 b. bei vorzeitigem Rücktritt während der Amtsdauer mit dem Amtsantritt der Nachfolgerin oder des Nachfolgers, sofern der Kantonsrat ein Gesuch um vorzeitigen Rücktritt bewilligt hat.
 
 #### § 6
 
@@ -141,7 +139,7 @@ Die Mitglieder des Kantonsrates und des Regierungsrates äussern sich an den Sit
 <sup>2</sup> Kantonsratsmitglieder, deren Jahreslohn die Hälfte der maximalen jährlichen AHV-Altersrente nicht übersteigt, die aber aufgrund einer anderen versicherten Tätigkeit der BVK angehören, werden gemäss § 10 a versichert.
 
 [^10-1]: Inkrafttreten: 1. Mai 2020 (LS 171.21).
-[^10-2]: Eingefügt durch G vom 27. Januar 2020 (OS 75, 227; ABl 2019-11-08). In Kraft seit 1. Mai 2020. 1. 7. 22 - 117 35
+[^10-2]: Eingefügt durch G vom 27. Januar 2020 (OS 75, 227; ABl 2019-11-08). In Kraft seit 1. Mai 2020.
 [^10-3]: SR 831.10 ff.
 
 #### § 11
@@ -158,7 +156,7 @@ Die Kantonsratsmitglieder wahren den parlamentarischen Anstand. Sie enthalten si
 
 **3**
 
-- 1\. 7. 22 - 117 § 13. Die Kantonsratsmitglieder sind zur Verschwiegenheit verpflichtet, sofern sie aufgrund ihrer amtlichen Tätigkeit von Tatsachen Kenntnis erhalten, gegen deren Bekanntgabe ein überwiegendes öffentliches oder privates Interesse gemäss § 23 des Gesetzes über die Information und den Datenschutz vom 12. Februar 2007[^12-1] spricht oder eine besondere Vorschrift dies vorsieht.
+1.10. 22 - 118 § 13. Die Kantonsratsmitglieder sind zur Verschwiegenheit verpflichtet, sofern sie aufgrund ihrer amtlichen Tätigkeit von Tatsachen Kenntnis erhalten, gegen deren Bekanntgabe ein überwiegendes öffentliches oder privates Interesse gemäss § 23 des Gesetzes über die Information und den Datenschutz vom 12. Februar 2007[^12-1] spricht oder eine besondere Vorschrift dies vorsieht.
 
 [^12-1]: LS 170.4.
 
@@ -252,7 +250,7 @@ Die Kantonsratsmitglieder wahren den parlamentarischen Anstand. Sie enthalten si
 
 **5**
 
-- 1\. 7. 22 - 117 § 19. <sup>1</sup> Der Kantonsrat wählt jährlich aus seiner Mitte drei Kantonsratssekretärinnen oder Kantonsratssekretäre.
+1.10. 22 - 118 § 19. <sup>1</sup> Der Kantonsrat wählt jährlich aus seiner Mitte drei Kantonsratssekretärinnen oder Kantonsratssekretäre.
 
 **Kantonsratssekretariat**
 
@@ -350,7 +348,7 @@ Die Kantonsratsmitglieder wahren den parlamentarischen Anstand. Sie enthalten si
 
 **7**
 
-- 1\. 7. 22 - 117
+1.10. 22 - 118
 
 <sup>2</sup> Die Aufsichtskommissionen sind:
 
@@ -464,7 +462,7 @@ Die Kantonsratsmitglieder wahren den parlamentarischen Anstand. Sie enthalten si
 
 **9**
 
-- 1\. 7. 22 - 117 § 33. <sup>1</sup> Die Fraktionen bereiten die Beratungsgegenstände des Kantonsrates vor und wirken bei der Meinungsbildung mit.
+1.10. 22 - 118 § 33. <sup>1</sup> Die Fraktionen bereiten die Beratungsgegenstände des Kantonsrates vor und wirken bei der Meinungsbildung mit.
 
 **b. Aufgaben**
 
@@ -552,7 +550,7 @@ Vorstösse und parlamentarische Initiativen werden während der Kantonsratssitzu
 
 **11**
 
-- 1\. 7. 22 - 117 § 42. Finden während mehr als zweier Wochen keine Kantonsratssitzungen statt, stehen Fristen von bis zu sechs Monaten zur Behandlung der Vorstösse und parlamentarischen Initiativen zwischen dem Tag des ersten Sitzungsausfalls und der Wiederaufnahme der Sitzungen still.
+1.10. 22 - 118 § 42. Finden während mehr als zweier Wochen keine Kantonsratssitzungen statt, stehen Fristen von bis zu sechs Monaten zur Behandlung der Vorstösse und parlamentarischen Initiativen zwischen dem Tag des ersten Sitzungsausfalls und der Wiederaufnahme der Sitzungen still.
 
 **Stillstand des Fristenlaufs**
 
@@ -646,7 +644,7 @@ Mit Nichteintreten auf den Antrag der Kommission oder mit der Schlussabstimmung 
 
 **13**
 
-- 1\. 7. 22 - 117 § 52. Mit Nichteintreten auf den Antrag der Kommission oder mit der Schlussabstimmung darüber ist die Finanzmotion erledigt.
+1.10. 22 - 118 § 52. Mit Nichteintreten auf den Antrag der Kommission oder mit der Schlussabstimmung darüber ist die Finanzmotion erledigt.
 
 **Erledigung**
 
@@ -736,7 +734,7 @@ Mit Nichteintreten auf den Antrag der Kommission oder mit der Schlussabstimmung 
 
 **15**
 
-- 1\. 7. 22 - 117 § 60. <sup>1</sup> Eine Anfrage kann von 60 unterzeichnenden Kantonsratsmitgliedern dringlich erklärt werden.
+1.10. 22 - 118 § 60. <sup>1</sup> Eine Anfrage kann von 60 unterzeichnenden Kantonsratsmitgliedern dringlich erklärt werden.
 
 **Dringlicherklärung**
 
@@ -792,9 +790,11 @@ Der Kantonsrat stellt innert sechs Monaten fest, ob die Initiative von mindesten
 
 <sup>1</sup> Vor der Schlussabstimmung unterbreitet die Kommission ihren Entwurf der Redaktionskommission.
 
-<sup>2</sup> Die Kommission erstattet dem Kantonsrat Bericht und stellt Antrag. Der Bericht führt aus, welche Anträge des Regierungsrates sie aufgenommen oder abgelehnt hat.
+<sup>2</sup> Die Kommission erstattet dem Kantonsrat Bericht und stellt Antrag. Der Bericht richtet sich nach den Vorgaben gemäss § 81 Abs. 1.[^66-1]
 
 <sup>3</sup> Lehnt die Kommission ihren Entwurf in der Schlussabstimmung ab, beantragt sie dem Kantonsrat Ablehnung der parlamentarischen Initiative.
+
+[^66-1]: Fassung gemäss G vom 14. März 2022 (OS 77, 315; ABl 2021-07-09). In Kraft seit 1. August 2022. 1.10. 22 - 118 35
 
 #### § 67
 
@@ -838,7 +838,7 @@ Die Kommission erstattet dem Kantonsrat Bericht und stellt Antrag innert 50 Tage
 
 **17**
 
-- 1\. 7. 22 - 117 § 72. Der Kantonsrat berät den Antrag der Kommission und beschliesst spätestens an der zweitletzten Sitzung vor Ablauf der Referendumsfrist über das Kantonsreferendum.
+1.10. 22 - 118 § 72. Der Kantonsrat berät den Antrag der Kommission und beschliesst spätestens an der zweitletzten Sitzung vor Ablauf der Referendumsfrist über das Kantonsreferendum.
 
 #### § 73
 
@@ -944,9 +944,7 @@ Das parlamentarische Verfahren beginnt mit der Einreichung der Beratungsgegenst�
 
 **19**
 
-- 1\. 7. 22 - 117
-
-- e. die Auswirkungen auf Wirtschaft, Gesellschaft, Umwelt und künftige Generationen,
+1.10. 22 - 118 e. die Auswirkungen auf Wirtschaft, Gesellschaft, Umwelt und künftige Generationen,
 
 - f. die im Gesetz vorgesehenen Kompetenzdelegationen,
 
@@ -1000,11 +998,13 @@ Das parlamentarische Verfahren beginnt mit der Einreichung der Beratungsgegenst�
 
 <sup>3</sup> Der Regierungsrat kann vor der Schlussabstimmung zu den Ergebnissen der Kommissionsberatung Stellung nehmen. Will er von diesem Recht Gebrauch machen, zeigt er dies der Kommission an. Die Kommission zieht die Stellungnahme in Beratung.
 
+[^85-1]: Fassung gemäss G vom 14. März 2022 (OS 77, 315; ABl 2021-07-09). In Kraft seit 1. August 2022. 1.10. 22 - 118 35
+
 #### § 86
 
 **d. Bericht und Antrag an den Kantonsrat**
 
-<sup>1</sup> Die Kommission stellt dem Kantonsrat Antrag und erstattet ihm mündlich Bericht. Sie äussert sich im Bericht zu Abweichungen vom beim Kantonsrat eingereichten Antrag.
+<sup>1</sup> Die Kommission stellt dem Kantonsrat Antrag und erstattet ihm mündlich Bericht. Sie äussert sich in ihrem Bericht zu Abweichungen vom beim Kantonsrat eingereichten Antrag, insbesondere auch zu den finanziellen Auswirkungen.[^85-1]
 
 <sup>2</sup> Lehnt die Kommission den Beratungsgegenstand in der Schlussabstimmung ab, beantragt sie dem Kantonsrat Nichteintreten. Sämtliche in der Kommission gestellten Anträge fallen dahin.
 
@@ -1034,7 +1034,7 @@ Das parlamentarische Verfahren beginnt mit der Einreichung der Beratungsgegenst�
 
 **21**
 
-- 1\. 7. 22 - 117 § 89. Eintreten ist obligatorisch bei:
+1.10. 22 - 118 § 89. Eintreten ist obligatorisch bei:
 
 **Obligatorisches Eintreten**
 
@@ -1130,7 +1130,7 @@ Die Sachkommissionen verfolgen in ihrem Sachbereich die Entwicklung der interkan
 
 **23**
 
-- 1\. 7. 22 - 117 § 98. <sup>1</sup> Der Regierungsrat informiert die Sachkommissionen laufend und umfassend über Vorhaben der interkantonalen und internationalen Zusammenarbeit.
+1.10. 22 - 118 § 98. <sup>1</sup> Der Regierungsrat informiert die Sachkommissionen laufend und umfassend über Vorhaben der interkantonalen und internationalen Zusammenarbeit.
 
 **b. Information**
 
@@ -1226,9 +1226,7 @@ Der Kantonsrat kann den Regierungsrat auf Antrag einer Aufsichtskommission beauf
 
 **25**
 
-- 1\. 7. 22 - 117
-
-- g. Erfüllung der Leistungsaufträge bzw. Leistungsvereinbarungen oder der öffentlichen Aufgaben sowie Vorkehrungen, damit sie auch künftig erfüllt werden können,
+1.10. 22 - 118 g. Erfüllung der Leistungsaufträge bzw. Leistungsvereinbarungen oder der öffentlichen Aufgaben sowie Vorkehrungen, damit sie auch künftig erfüllt werden können,
 
 - h. bedeutende Risiken der Beteiligungen mit Eintretenswahrscheinlichkeit und möglicher Schadenhöhe sowie vorgekehrte Massnahmen,
 
@@ -1310,7 +1308,7 @@ Bei ausserordentlichen Vorkommnissen informieren der Regierungsrat, die Direktio
 
 **27**
 
-- 1\. 7. 22 - 117
+1.10. 22 - 118
 
 <sup>2</sup> Einen Antrag auf Einsetzung einer Parlamentarischen Untersuchungskommission können stellen:
 
@@ -1401,7 +1399,7 @@ Die Untersuchungskommission kann a. Augenscheine vornehmen,
 
 **29**
 
-- 1\. 7. 22 - 117 § 123. <sup>1</sup> Die Untersuchungskommission erstattet dem Kantonsrat nach Abschluss ihrer Untersuchung Bericht und stellt Antrag auf Auflösung der Kommission.
+1.10. 22 - 118 § 123. <sup>1</sup> Die Untersuchungskommission erstattet dem Kantonsrat nach Abschluss ihrer Untersuchung Bericht und stellt Antrag auf Auflösung der Kommission.
 
 **Abschluss der Untersuchung**
 
@@ -1507,7 +1505,7 @@ Ist das Verfahren über die besonderen Einzelakte nicht abschliessend geregelt, 
 
 **31**
 
-- 1\. 7. 22 - 117
+1.10. 22 - 118
 
 <sup>2</sup> Der Anzeigeerstatterin oder dem Anzeigeerstatter kann ein Kostenvorschuss gemäss § 139 Abs. 2 auferlegt werden. Bei nicht rechtzeitiger Leistung beschliesst die Geschäftsleitung Nichteintreten.
 
@@ -1599,7 +1597,7 @@ Ist das Verfahren über die besonderen Einzelakte nicht abschliessend geregelt, 
 
 **33**
 
-- 1\. 7. 22 - 117
+1.10. 22 - 118
 
 ### 12. Teil: Jugendparlament
 
