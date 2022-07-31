@@ -4,13 +4,13 @@ number: "111.1"
 title: Verfassung des Kantons Solothurn
 short: KV
 language: de
-version: 2016-07-01
-valid_until: 2022-07-31
-version_adopted: 2015-03-08
+version: 2022-08-01
+valid_until: 2024-12-31
+version_adopted: 2022-05-15
 adopted: 1986-06-08
 in_force: 1988-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/111.1"
-pdf: "https://bgs.so.ch/api/de/versions/4535/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5327/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/4535/pdf_file"
 
 (KV)
 
-Vom 08.06.1986 (Stand 01.07.2016)
+Vom 08.06.1986 (Stand 01.08.2022)
 
 Das Volk des Kantons Solothurn,
 
@@ -285,7 +285,7 @@ gibt sich folgende Verfassung:
 
 <sup>3</sup> Stimmt das Volk dem Abberufungsbegehren zu, so finden innerhalb von vier Monaten Neuwahlen statt.
 
-### 2.5. Volksbegehren (Initiative und Volksmotion)
+### 2.5. Volksbegehren (Initiative und Volksauftrag)
 
 #### Art. 29
 
@@ -1083,9 +1083,11 @@ gibt sich folgende Verfassung:
 
 **Öffentliche Schulen**
 
-<sup>1</sup> Die Einwohnergemeinden errichten und führen die Volksschulen mit Ausnahme der sonderpädagogischen Institutionen; der Kindergarten ist Teil der Volksschule. Der Kanton beteiligt sich an den Kosten.
+<sup>1</sup> Die Einwohnergemeinden errichten und führen die Volksschulen; der Kindergarten ist Teil der Volksschule. Der Kanton beteiligt sich an den Kosten.
 
-<sup>2</sup> Der Kanton errichtet und führt sonderpädagogische Institutionen und die übrigen öffentlichen Schulen.
+<sup>2</sup> Der Kanton errichtet und führt die sonderpädagogischen Institutionen. Er kann weitere kantonale Angebote auf der Volksschulstufe führen. Das Gesetz regelt die Einzelheiten.
+
+<sup>2<sup>bis</sup></sup> Der Kanton errichtet und führt die übrigen öffentlichen Schulen. Das Gesetz regelt deren Aufgaben und Organisation.
 
 <sup>3</sup> Alle öffentlichen Schulen stehen unter der Aufsicht des Kantons.
 
@@ -1476,7 +1478,7 @@ gibt sich folgende Verfassung:
 
 <sup>2</sup> Der Regierungsrat kann einzelne Entscheide unter Vorbehalt des Genehmigungsrechtes an den ausserordentlichen Bankrat der Solothurner Kantonalbank delegieren.
 
-Gewähleistungsbeschluss der Bundesversammlung vom 21. September 1987.
+Gewährleistungsbeschluss der Bundesversammlung vom 21. September 1987.
 
 Gewährleistung der Bundesversammlung der Änderungen vom:
 
@@ -1520,6 +1522,8 @@ Gewährleistung der Bundesversammlung der Änderungen vom:
 
 \18. Mai 2014 am 5. März 2015 (SR), 11. März 2015 (NR);
 
-\8. März 2015 am 29. Februar 2016 (SR), 3. März 2016 (NR).
+\8. März 2015 am 29. Februar 2016 (SR), 3. März 2016 (NR);
+
+\15. Mai 2022 am 27. Februar 2023 (SR), 6. März 2023 (NR).
 
 GS 90, 453
