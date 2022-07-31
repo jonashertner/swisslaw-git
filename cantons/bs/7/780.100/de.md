@@ -4,13 +4,13 @@ number: "780.100"
 title: Umweltschutzgesetz Basel-Stadt
 short: USG BS
 language: de
-version: 2022-06-01
-valid_until: 2022-07-31
-version_adopted: 2021-04-14
+version: 2022-08-01
+valid_until: 2024-06-30
+version_adopted: 2021-06-24
 adopted: 1991-03-13
 in_force: 1992-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/780.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5542/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5587/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Umweltschutzgesetz | Umweltschutz
 
 (USG BS)
 
-Vom 13. März 1991 (Stand 1. Juni 2022)
+Vom 13. März 1991 (Stand 1. August 2022)
 
 Der Grosse Rat des Kantons Basel-Stadt,
 
@@ -267,13 +267,15 @@ beschliesst:
 
 **Parkplätze auf öffentlichem Grund**
 
-<sup>1</sup> Der Kanton und die Landgemeinden fördern die Nutzung energieeffizienter Verkehrsmittel und stellen nach Möglichkeit genügend Parkflächen für motorisierte und nicht-motorisierte Zweiräder zur Verfügung.
+<sup>1</sup> Der Kanton und die Gemeinden Bettingen und Riehen fördern die Nutzung umweltfreundlicher Verkehrsmittel und Fortbewegungsarten und stellen dafür nach Möglichkeit genügend Parkflächen für motorisierte und nicht-motorisierte Zweiräder zur Verfügung.
 
-<sup>1<sup>bis</sup></sup> Der Kanton und die Landgemeinden sorgen dafür, dass an geeigneten Orten, insbesondere bei Verwaltungsgebäuden, Schulen und Haltestellen öffentlicher Verkehrsmittel, eine angemessene Anzahl wenn möglich gedeckter Veloabstellplätze eingerichtet werden.
+<sup>1<sup>bis</sup></sup> Der Kanton und die Gemeinden Bettingen und Riehen sorgen dafür, dass an allen stark frequentierten Orten sowie an weiteren geeigneten Orten, insbesondere Verwaltungsgebäuden, Schulen und Haltestellen öffentlicher Verkehrsmittel, eine angemessene Anzahl wenn möglich gedeckter Veloabstellplätze eingerichtet werden.
 
-<sup>1<sup>ter</sup></sup> Zweiräder parkieren auf Allmend kostenlos.
+<sup>1<sup>ter</sup></sup> Parkplätze auf öffentlichem Grund werden zeitlich und monetär bewirtschaftet. Die Gebührenhöhe orientiert sich dabei an der Kostenwahrheit und am Verursachendenprinzip. Sie wird regelmässig überprüft. Für umweltfreundliche Verkehrsmittel und Fortbewegungsarten kann davon abgewichen werden. Zweiräder parkieren auf öffentlichem Grund kostenlos.
 
-<sup>2</sup> Das zeitlich unbeschränkte Parkieren privater Motorfahrzeuge auf öffentlichem Grund ist bevorzugt Behinderten, Anwohnerinnen, Anwohnern und gleichermassen Betroffenen zu ermöglichen.
+<sup>2</sup> Das zeitlich unbeschränkte Parkieren privater Motorfahrzeuge auf öffentlichem Grund ist bevorzugt Behinderten, Anwohnenden, ansässigen Geschäftsbetrieben und gleichermassen Betroffenen zu ermöglichen. Als gleichermassen Betroffene gelten Anwohnende, welche auf Grund übergeordneter Gesetzgebung nicht verpflichtet sind, ihre Fahrzeuge im Kanton Basel-Stadt zu immatrikulieren (z.B. Wochenaufenthalterinnen und -aufenthalter).
+
+<sup>2<sup>bis</sup></sup> Der Kanton und die Gemeinden Bettingen und Riehen sorgen für eine Verlagerung von Parkplätzen vom öffentlichem Strassenraum auf Privatgelände.
 
 <sup>3</sup> Die Beachtung von Parkverboten ist durch bauliche Massnahmen zu unterstützen, soweit dadurch:
 
@@ -292,16 +294,16 @@ beschliesst:
 
 #### § 17
 
-**Finanzielle Unterstützung von Autoparkgaragen**
+**Finanzielle Unterstützung von Parkierungsanlagen**
 
-<sup>1</sup> Jede finanzielle Unterstützung des Baus und Betriebs von Autoparkgaragen durch den Kanton oder die Gemeinden Bettingen oder Riehen ist verboten.
+<sup>1</sup> Jede finanzielle Unterstützung des Baus und Betriebs von Parkierungsanlagen für motorisierte Privatfahrzeuge durch den Kanton oder die Gemeinden Bettingen oder Riehen ist verboten.
 
 <sup>2</sup> Dieses Verbot gilt nicht für:
 
 - a) Park-and-Ride-Anlagen nach § 19;
-- b) Quartierparkgaragen, welche ausschliesslich Anwohnerinnen, Anwohnern und gleichermassen Betroffenen zur Verfügung stehen, sofern nach deren Erstellung an anderen Orten gleich viele Parkplätze aufgehoben werden.
+- b) Anwohnendenparkplätze in Quartierparkings nach § 19<sup>bis</sup>.
 
-<sup>3</sup> Der Regierungsrat kann Ausnahmen von der Kompensationspflicht gemäss Abs. 2 lit. b in jenen Quartieren bewilligen, in denen der Mangel an Privatparkplätzen ausgewiesen ist.
+<sup>3</sup> …
 
 #### § 18
 
@@ -326,9 +328,11 @@ beschliesst:
 
 #### § 19
 
-**Park-and-Ride-Anlagen**
+**Park-and-Ride- und Bike-and-Ride-Anlagen**
 
-<sup>1</sup> Park-and-Ride-Anlagen im Sinne dieses Gesetzes sind Parkgaragen oder Parkplatzanlagen für motorisierte Privatfahrzeuge oder für Velos, welche aufgrund ihres Standortes in der Nähe von geeigneten Haltestellen öffentlicher Verkehrsmittel vor allem den Fahrgästen dieser Verkehrsmittel dienen.
+<sup>1</sup> Park-and-Ride-Anlagen im Sinne dieses Gesetzes sind Parkierungsanlagen, welche aufgrund ihres Standortes in der Nähe von geeigneten Haltestellen öffentlicher Verkehrsmittel vor allem den Fahrgästen dieser Verkehrsmittel dienen.
+
+<sup>1<sup>bis</sup></sup> Der Kanton fördert aktiv die Erstellung von Bike-and-Ride-Anlagen an allen wichtigen Haltestellen des öffentlichen Verkehrs in der Agglomeration Basel. Er arbeitet hierzu eng mit den benachbarten Kantonen und Gemeinden sowie den elsässischen und badischen Behörden zusammen. Er setzt sich für attraktive und gebührenfreie Anlagen ein, die geeignet sind, den Modalsplit zugunsten des öffentlichen Verkehrs im Kanton zu verbessern, auch beim Pendlerverkehr von und nach ausserhalb des Kantonsgebiets.
 
 <sup>2</sup> Der Kanton fördert aktiv die Erstellung von Park-and-Ride-Anlagen in Verbindung mit dem nationalen oder internationalen Eisenbahnnetz oder mit peripheren Stationen öffentlicher Nahverkehrsmittel. Er fördert ferner die Bereitstellung zusätzlicher Abstellflächen, die während Messen und anderer ausserordentlicher Anlässe als Park-and-Ride-Anlagen benützt werden können.
 
@@ -336,7 +340,43 @@ beschliesst:
 
 <sup>4</sup> Der Kanton setzt sich ein für eine Gestaltung der Parkgebühren, welche die Attraktivität der Park-and-Ride-Anlagen insbesondere für die Pendlerinnen und Pendler mit Arbeitsplatz in Basel sicherstellt. Einzelheiten werden auf dem Verordnungswege geregelt.
 
-<sup>5</sup> Mit 80% der Bruttoeinnahmen der Pendlerparkkarten und der Besucherparkkarten wird ein Fonds gespiesen, aus dessen Mitteln Parkierungsanlagen und Massnahmen zugunsten eines umweltverträglichen Pendlerverkehrs mitfinanziert werden können. Einzelheiten werden auf dem Verordnungswege geregelt. Der Grosse Rat kann zusätzliche Mittel für diesen Fonds bewilligen.
+<sup>5</sup> …
+
+#### § 19bis
+
+**Quartierparkings**
+
+<sup>1</sup> Quartierparkings im Sinne dieses Gesetzes sind in der Regel unterirdische Anlagen, die nicht unmittelbar einer Nutzung zugeordnet sind, sondern die eine im öffentlichen Strassenraum bereits vorhandene Parkplatznachfrage aufnehmen. Teile davon können dem Quartier auch als Mobilitätsplattform im Sinne von § 13 Abs. 5 lit. d und Abs. 8 dienen.
+
+<sup>2</sup> Quartierparkings können separat oder in Kombination mit einer anderweitigen Parkierungsanlage erstellt werden.
+
+<sup>3</sup> Öffentlich zugängliche Quartierparkings sind mit Parkgebühren zu bewirtschaften und rund um die Uhr zugänglich zu halten.
+
+<sup>4</sup> Quartierparkings dürfen nur erstellt werden, sofern im Umfeld der Anlage bis zu einer Distanz von rund 500 Metern 95% der neu erstellen Parkplätze im öffentlichen Strassenraum aufgehoben werden.
+
+<sup>5</sup> In Quartieren mit einer hohen Parkplatzauslastung darf der Bereich für die Kompensation der Parkplätze auf 1’000 Meter ausgeweitet werden. Der Rhein gilt dabei jedoch als Grenze.
+
+<sup>6</sup> Die Umwandlung von Parkplätzen der blauen Zone in gebührenpflichtige Kurzzeitparkplätze oder gelb markierte Spezialparkplätze kann teilweise an die Kompensationspflicht angerechnet werden.
+
+<sup>7</sup> Ist die Parkplatzbilanz der öffentlichen Parkplätze im Umkreis von 500 Metern um das neue Quartierparking in den letzten 2 Jahren vor der Baueingabe negativ, kann dieser Parkplatzsaldo an die Kompensationspflicht angerechnet werden. Die Kompensation muss in der Regel spätestens 1 Jahr nach der Inbetriebnahme des Quartierparkings abgeschlossen sein.
+
+<sup>8</sup> Der Regierungsrat legt in einer Verordnung die Gebiete mit einer hohen Parkplatzauslastung fest. Er orientiert sich dabei an einer Parkplatzauslastung von 90% als Grenze zwischen einer normalen und einer hohen Parkplatzauslastung. Dieser Plan ist mindestens alle 5 Jahre zu prüfen und bei Bedarf anzupassen.
+
+#### § 19ter
+
+**Mobilitätsfonds**
+
+<sup>1</sup> Aus 80% der Bruttoeinnahmen der Parkkarten für Pendlerinnen und Pendler und der Parkkarten für Besucherinnen und Besucher sowie aus 20% der Bruttoeinnahmen der Parkkarten für Anwohnerinnen und Anwohner wird ein Fonds für die im Abs. 2 genannten Verwendungszwecke gespeist. Der Grosse Rat kann zusätzliche Mittel für diesen Fonds bewilligen.
+
+<sup>2</sup> Mit den Mitteln des Fonds können Projekte initiiert und die Planungs-, Investitions- und Betriebskosten von Massnahmen zugunsten einer umweltfreundliche Mobilität und Parkplatznachfragereduktion in Basel-Stadt gemäss § 13 Abs. 1 - 3 und 8 mitfinanziert werden. Subsidiär können die Fondsmittel auch für die Mitfinanzierung von Park-and-Ride- und Bike-and-Ride-Anlagen gemäss § 19 und Anwohnendenparkplätze in Quartierparkings gemäss § 19<sup>bis</sup> verwendet werden.
+
+<sup>3</sup> Der Kanton sichert mittels durchsetzbaren Vereinbarungen die Rückzahlung des Mitfinanzierungsanteils, sollte der Grund für die Mitfinanzierung nachträglich wegfallen.
+
+<sup>4</sup> Die Mittel können auch für Projekte ausserhalb des Kantons Basel-Stadt verwendet werden, sofern diese Projekte zu einer umweltfreundlichen Mobilität gemäss § 13 Abs. 1 - 3 und 8 im Kanton beitragen.
+
+<sup>5</sup> Ausgaben zu Lasten des Mobilitätsfonds über einem Betrag von 1.5 Mio. Franken werden durch den Grossen Rat bewilligt. Für Projekte ausserhalb des Kantons Basel-Stadt übernimmt der Fonds maximal die Hälfte der Gesamtkosten.
+
+<sup>6</sup> Einzelheiten werden auf dem Verordnungsweg geregelt.
 
 ## IV. Nichtionisierende Strahlung
 
