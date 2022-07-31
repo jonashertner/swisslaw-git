@@ -3,20 +3,20 @@ canton: AG
 number: "421.313"
 title: Verordnung über die Volksschule
 language: de
-version: 2022-01-01
-valid_until: 2022-07-31
-version_adopted: 2021-04-07
+version: 2022-08-01
+valid_until: 2022-10-31
+version_adopted: 2022-05-18
 adopted: 2012-06-27
 in_force: 2013-08-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/421.313"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3073/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3223/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Volksschule
 
-Vom 27.06.2012 (Stand 01.01.2022)
+Vom 27.06.2012 (Stand 01.08.2022)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -36,7 +36,7 @@ beschliesst:
 
 <sup>2</sup> Die Eltern sind verpflichtet, ihre schulpflichtigen Kinder am Wohn- beziehungsweise Aufenthaltsort bei der Schulleitung einschreiben zu lassen.
 
-<sup>3</sup> Eintritte in eine Privatschule und Austritte sowie Aufnahme und Beendigung einer privaten Schulung vor Beendigung der Schulpflicht sind der Schulleitung mindestens 14 Tage im Voraus zu melden.
+<sup>3</sup> Eintritte in eine Privatschule und Austritte sowie Aufnahme und Beendigung einer privaten Schulung vor Beendigung der Schulpflicht sind der Schulleitung mindestens 14 Tage im Voraus zu melden. Die Aufnahme einer privaten Schulung ist in der Regel nur auf Semesterbeginn möglich.
 
 <sup>4</sup> Die Schulleitung hat dem Departement Bildung, Kultur und Sport (BKS) im Zeitpunkt der Aufnahme und der Beendigung der privaten Schulung Meldung zu erstatten.
 
