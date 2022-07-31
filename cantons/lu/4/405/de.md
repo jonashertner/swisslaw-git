@@ -4,13 +4,13 @@ number: "405"
 title: Verordnung zum Gesetz über die Volksschulbildung
 short: "Volksschulbildungsverordnung, VBV"
 language: de
-version: 2020-08-01
-valid_until: 2022-07-31
-version_adopted: 2020-04-07
+version: 2022-08-01
+valid_until: 2023-07-31
+version_adopted: 2022-01-04
 adopted: 2008-12-16
 in_force: 2009-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/405"
-pdf: "https://srl.lu.ch/api/de/versions/3609/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3934/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3609/pdf_file"
 
 (Volksschulbildungsverordnung, VBV)
 
-vom 16.12.2008 (Stand 01.08.2020)
+vom 16.12.2008 (Stand 01.08.2022)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -288,11 +288,11 @@ beschliesst:
 
 **Frühe Sprachförderung**
 
-<sup>1</sup> In Gemeinden mit Angeboten der frühen Sprachförderung kann die Schulleitung für Kinder mit unzureichenden Deutschkenntnissen im Hinblick auf den obligatorischen Kindergarteneintritt den Besuch eines Angebots der frühen Sprachförderung verfügen.
+<sup>1</sup> Die Schulleitung kann für Kinder mit unzureichenden Deutschkenntnissen im Hinblick auf den obligatorischen Kindergarteneintritt den Besuch eines Angebots der frühen Sprachförderung verfügen.
 
 <sup>2</sup> Die Dienststelle Volksschulbildung stellt ein Instrument zur Sprachstandserhebung zur Verfügung.
 
-<sup>3</sup> Die Gemeinden können von den Erziehungsberechtigten einen einkommensabhängigen Beitrag verlangen, der höchstens die Hälfte der Kosten deckt.
+<sup>3</sup> Die Gemeinde kann von den Erziehungsberechtigten einen einkommensabhängigen Beitrag verlangen, der höchstens die Hälfte der Kosten deckt.
 
 ## 3 Private Anbieterinnen
 
@@ -423,21 +423,21 @@ beschliesst:
 
 #### § 23a
 
-**Elemente des Qualitätsmanagements**
+**Qualitätskonzept**
 
-<sup>1</sup> Das Qualitätskonzept umfasst die Elemente Qualitätsgruppen, Selbstbeurteilung, Beurteilungs- und Fördergespräch, Leistungsmessungen, interne Evaluation sowie Weiterbildung.
+<sup>1</sup> Die Schule erstellt unter Berücksichtigung der kommunalen Rahmenbedingungen ein Qualitätskonzept auf der Grundlage des Qualitätskreislaufs und des kantonalen Orientierungsrahmens Schulqualität.
 
-<sup>2</sup> Die Dienststelle Volksschulbildung kann für die einzelnen Elemente Mindeststandards festlegen.
+<sup>2</sup> Die Dienststelle Volksschulbildung bestimmt die einzelnen Methoden und Instrumente und kann für diese Mindeststandards festlegen.
 
 #### § 24
 
 **Interne Evaluation**
 
-<sup>1</sup> Die zuständige Schulleitung führt die interne Evaluation im Rahmen der von der Bildungskommission genehmigten mehrjährigen Planung durch.
+<sup>1</sup> Die Schulleitung verantwortet die interne Evaluation im Rahmen des vom Gemeinderat genehmigten Leistungsauftrags.
 
 <sup>2</sup> Sie berücksichtigt dabei die verschiedenen Bereiche der Schule und bezieht sowohl die an der Schule beteiligten als auch aussenstehende Personen mit ein.
 
-<sup>3</sup> Die Ergebnisse der internen Evaluation werden zusammen mit einem daraus abgeleiteten Massnahmenplan in einem Bericht an die Bildungskommission festgehalten.
+<sup>3</sup> Die Ergebnisse der internen Evaluation werden in einem Bericht an die Bildungskommission festgehalten. Die Schulleitung setzt die Massnahmen aus der internen Evaluation um.
 
 #### § 25
 
@@ -578,13 +578,13 @@ beschliesst:
 
 #### § 33
 
-**Übergangsbestimmungen**
+**…**
 
-<sup>1</sup> § 28 findet Anwendung, sobald die Gemeinden die schul- und familienergänzenden Tagesstrukturen gemäss den §§ 36 und 67 Absatz 4 des Volksschulbildungsgesetzes eingeführt haben.
+#### § 33a
 
-<sup>2</sup> Die Vorgaben gemäss den §§ 3c, 3d und 3e gelten ab Sekundarschuljahrgang 2012/2013.
+**Übergangsbestimmung zur Änderung vom 4. Januar 2022**
 
-<sup>3</sup> Der halbjährliche Eintritt nach § 3a Absatz 3 ist möglich, sobald die Gemeinde den zweijährigen Kindergarten eingeführt hat.
+<sup>1</sup> § 14a dieser Verordnung bleibt für eine Gemeinde so lange in der Fassung vom 1. August 2020 anwendbar, als sie die frühe Sprachförderung nicht eingeführt hat, längstens jedoch bis zum 31. Juli 2024.
 
 #### § 34
 
