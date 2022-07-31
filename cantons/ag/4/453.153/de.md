@@ -4,13 +4,13 @@ number: "453.153"
 title: Verordnung über die Passerelle Berufsmaturität/Fachmaturität – universitäre Hochschulen
 short: Passerellenverordnung
 language: de
-version: 2018-08-01
-valid_until: 2022-07-31
-version_adopted: 2018-05-09
+version: 2022-08-01
+valid_until: 2024-06-30
+version_adopted: 2022-05-04
 adopted: 2007-05-02
 in_force: 2007-08-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/453.153"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2625/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3216/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2625/pdf_file"
 
 (Passerellenverordnung)
 
-Vom 02.05.2007 (Stand 01.08.2018)
+Vom 02.05.2007 (Stand 01.08.2022)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -42,7 +42,7 @@ beschliesst:
 
 **Ausbildungszweck**
 
-<sup>1</sup> Die Passerellenausbildung bezweckt, Inhaberinnen oder Inhabern eines eidgenössischen Berufsmaturitätszeugnisses oder eines gesamtschweizerisch anerkannten Fachmaturitätszeugnisses den Zugang an die universitären Hochschulen zu ermöglichen.
+<sup>1</sup> Die Passerellenausbildung bezweckt, Inhaberinnen oder Inhabern eines eidgenössischen Berufsmaturitätszeugnisses oder eines gesamtschweizerisch anerkannten Fachmaturitätszeugnisses den Zugang an die schweizerischen universitären Hochschulen zu ermöglichen.
 
 ## 2. Vorbereitungskurs
 
@@ -68,7 +68,9 @@ beschliesst:
 
 **Aufnahme und Absolvierung**
 
-<sup>1</sup> In den Vorbereitungskurs wird aufgenommen, wer im Besitze eines eidgenössischen Berufsmaturitätszeugnisses oder eines gesamtschweizerisch anerkannten Fachmaturitätszeugnisses ist und das Aufnahmegespräch mit der Schulleitung geführt hat.
+<sup>1</sup> In den Vorbereitungskurs wird aufgenommen, wer im Besitz eines eidgenössischen Berufsmaturitätszeugnisses oder eines gesamtschweizerisch anerkannten Fachmaturitätszeugnisses ist.
+
+<sup>1<sup>bis</sup></sup> Vor dem Eintritt kann ein Aufnahmegespräch durch die Schulleitung stattfinden. Das Aufnahmegespräch hat beratenden Charakter.
 
 <sup>2</sup> Die Schulleitung entscheidet im Rahmen der verfügbaren Plätze in der Reihenfolge der Anmeldungen über die Aufnahme in den Vorbereitungskurs.
 
@@ -80,7 +82,7 @@ beschliesst:
 
 **Zulassung**
 
-<sup>1</sup> Zur Prüfung wird zugelassen, wer den Vorbereitungskurs an der Aargauischen Maturitätsschule absolviert und die Kursgelder bezahlt hat.
+<sup>1</sup> Zur Prüfung wird zugelassen, wer den Vorbereitungskurs an der Aargauischen Maturitätsschule absolviert und die Studiengelder bezahlt hat.
 
 #### § 7
 
@@ -109,11 +111,11 @@ beschliesst:
 
 #### § 10
 
-**Zuständigkeiten betreffend Notengebung**
+**Passerellenkonferenz**
 
-<sup>1</sup> Die Schulleitung legt anlässlich der Notenkonferenz die Prüfungsnoten fest und stellt dem Departement Bildung, Kultur und Sport Antrag auf Bestehen beziehungsweise Nichtbestehen der Prüfung.
+<sup>1</sup> Die Schulleitung legt anlässlich der Passerellenkonferenz die Prüfungsnoten fest und stellt dem Departement Bildung, Kultur und Sport Antrag auf Bestehen beziehungsweise Nichtbestehen der Prüfung.
 
-<sup>2</sup> Die Examinatorinnen und Examinatoren sowie die Expertinnen und Experten nehmen an der Notenkonferenz mit beratender Stimme teil.
+<sup>2</sup> Die Examinatorinnen und Examinatoren sowie die Expertinnen und Experten nehmen nach Bedarf an der Passerellenkonferenz mit beratender Stimme teil.
 
 <sup>3</sup> …
 
@@ -131,7 +133,7 @@ beschliesst:
 
 **Anmeldegebühr**
 
-<sup>1</sup> Die Schülerinnen und Schüler haben bei der Anmeldung eine Gebühr von Fr. 200.– zu bezahlen. Dieser Betrag wird an das Kursgeld des ersten Semesters angerechnet.
+<sup>1</sup> Die Studierenden haben bei der Anmeldung eine Gebühr von Fr. 200.– zu bezahlen. Dieser Betrag wird an das Studiengeld des ersten Semesters angerechnet.
 
 <sup>2</sup> Die Anmeldegebühr wird zurückerstattet, wenn eine Anmeldung mehr als zwei Monate vor Kursbeginn zurückgezogen wird oder wenn nach der Kursanmeldung die Berufsmaturitätsprüfung nicht bestanden wird.
 
@@ -139,21 +141,19 @@ beschliesst:
 
 **Kostentragung**
 
-<sup>1</sup> Die Schülerinnen und Schüler haben pro Semester ein Studiengeld von Fr. 1'000.– zu bezahlen.
+<sup>1</sup> Die Studierenden haben pro Semester ein Studiengeld von Fr. 1'000.– zu bezahlen.
+
+<sup>1<sup>bis</sup></sup> Bei einem Austritt während des Semesters werden Studiengeld und Schulgeld nicht zurückerstattet.
 
 <sup>2</sup> …
 
-<sup>3</sup> Die Kosten für die Unterrichtsmaterialien tragen die Schülerinnen und Schüler.
+<sup>3</sup> Die Kosten für die Unterrichtsmaterialien tragen die Studierenden.
 
-## 5. Rechtsschutz
+## 5.
 
 #### § 15
 
-**Beschwerdeverfahren**
-
-<sup>1</sup> Das Beschwerdeverfahren gegen Entscheide der Schulleitung und des Departements Bildung, Kultur und Sport richtet sich nach den Bestimmungen des Gesetzes über die Verwaltungsrechtspflege (Verwaltungsrechtspflegegesetz, VRPG) vom 4. Dezember 2007[^15-1].
-
-[^15-1]: SAR [271.200](https://gesetzessammlungen.ag.ch/data/271.200/de)
+**…**
 
 ## 6. Schlussbestimmung
 
