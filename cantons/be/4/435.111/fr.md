@@ -4,13 +4,13 @@ number: "435.111"
 title: "Ordonnance sur la formation professionnelle, la formation continue et l'orientation professionnelle"
 short: OFOP
 language: fr
-version: 2022-03-01
-valid_until: 2022-07-31
-version_adopted: 2022-02-02
+version: 2022-08-01
+valid_until: 2022-12-31
+version_adopted: 2022-06-22
 adopted: 2005-11-09
 in_force: 2006-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/435.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2569/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2628/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2569/pdf_file"
 
 (OFOP)
 
-du 09.11.2005 (état au 01.03.2022)
+du 09.11.2005 (état au 01.08.2022)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -557,10 +557,11 @@ arrête:
 
 <sup>2</sup> Son volume correspond aux trois quarts de celui du pool de direction.
 
-<sup>3</sup> Il est augmenté d’un pourcentage de degré d’occupation équivalant à
+<sup>3</sup> Il est augmenté:
 
-- a une demi-leçon par classe pour les formations professionnelles initiales duales menant au certificat fédéral de capacité (CFC) et
-- b une leçon entière par classe pour les formations à plein temps et les formations professionnelles initiales duales menant à l’attestation fédérale de formation professionnelle (AFP).
+- a d’un pourcentage de degré d’occupation équivalant à une demi-leçon par classe pour rétribuer la fonction de maîtrise de classe dans le cadre des formations professionnelles initiales duales,
+- b d’un pourcentage de degré d’occupation équivalant à une leçon entière par classe pour rétribuer la fonction de maîtrise de classe dans le cadre des formations à plein temps, et
+- c pour rétribuer l’accomplissement de tâches qui concernent toute l'école.
 
 #### Art. 47c
 
