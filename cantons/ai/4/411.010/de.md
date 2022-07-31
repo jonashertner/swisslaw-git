@@ -4,13 +4,12 @@ number: "411.010"
 title: Schulverordnung
 short: SchV
 language: de
-version: 2022-01-01
-valid_until: 2022-07-31
-version_adopted: 2021-10-25
+version: 2022-08-01
+version_adopted: 2022-03-28
 adopted: 2004-06-21
 in_force: 2004-08-01
 url: "https://ai.clex.ch/app/de/texts_of_law/411.010"
-pdf: "https://ai.clex.ch/api/de/versions/1992/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2017/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://ai.clex.ch/api/de/versions/1992/pdf_file"
 
 (SchV)
 
-vom 21.06.2004 (Stand 01.01.2022)
+vom 21.06.2004 (Stand 01.08.2022)
 
 Der Grosse Rat des Kantons Appenzell I.Rh.,
 
@@ -190,6 +189,92 @@ beschliesst:
 <sup>2</sup> Falls Schulwege aus Sicherheitsgründen nicht zugemutet werden können, leitet der Schulrat entsprechende Massnahmen ein.
 
 <sup>3</sup> Für Schüler, die den ganzen Tag Unterricht haben und die Anspruch auf einen Transport hätten, kann die Schulgemeinde anstelle des Mittagstransportes eine Mittagsverpflegung anbieten, wenn dies kostengünstiger ist.
+
+### IV<sup>bis</sup> Schulergänzende Betreuungsangebote
+
+#### Art. 13a
+
+**Versuchsweise Einführung**
+
+<sup>1</sup> Die Schulgemeinden sind berechtigt, für ihre Schulkinder versuchsweise schulergänzende Betreuungsangebote einzuführen. Die Versuche dürfen längstens bis zum 31. Juli 2027 dauern.
+
+<sup>2</sup> Die versuchsweise Einführung von Betreuungsangeboten kann unter Vorbehalt allfällig notwendiger Kreditbeschlüsse der Schulgemeinden auf Beschluss des Schulrats vorgenommen werden.
+
+#### Art. 13b
+
+**Angebotspalette**
+
+<sup>1</sup> Die Schulgemeinden können eines oder mehrere der folgenden Module anbieten:
+
+- a) vor dem Unterrichtsbeginn am Morgen, spätestens ab 07.00 Uhr und mindestens bis 08.00 Uhr (Morgenmodul),
+- b) während der unterrichtsfreien Zeit über Mittag, spätestens ab 11.15 Uhr und mindestens bis 13.30 Uhr (Mittagsmodul),
+- c) nach dem Unterrichtsende am Nachmittag, spätestens ab 13.30 Uhr und mindestens bis 17.30 Uhr (Nachmittagsmodul),
+- d) während der Schulferien und anderer unterrichtsfreier Tage (Ferienbetreuung).
+
+<sup>2</sup> Bieten mehrere Schulgemeinden gemeinsame Module an, vereinbaren sie untereinander das Nötige für den Betrieb und die Finanzierung.
+
+#### Art. 13c
+
+**Betreuungspersonal**
+
+<sup>1</sup> Für die Leitung der schulergänzenden Betreuungsangebote ist eine Person einzusetzen, die mindestens über einen Abschluss auf der Sekundarstufe II im pädagogischen oder sozialen Bereich verfügt.
+
+<sup>2</sup> Die Standeskommission regelt die Anforderungen an das weitere für die Betreuung eingesetzte Personal.
+
+#### Art. 13d
+
+**Rechnungsstellung**
+
+<sup>1</sup> Die Schulgemeinde stellt dem Inhaber der elterlichen Sorge die Kosten der beanspruchten Betreuungsangebote in Rechnung, höchstens aber:
+
+- a) für das Morgenmodul — Fr. 12.--
+- b) für das Mittagsmodul — Fr. 16.--
+- c) für das Nachmittagsmodul pro Stunde — Fr. 11.--
+- d) für die Ferienbetreuung pro Stunde — Fr. 11.--
+
+<sup>2</sup> In diesen Preisen sind die Kosten für das Frühstück, das Mittagessen und allfällige Zwischenverpflegungen enthalten.
+
+<sup>3</sup> Bietet die Schulgemeinde das Mittagsmodul an, übernimmt sie für Schüler, die nach Art. 13 Abs. 3 Anspruch auf eine Mittagsverpflegung haben, die Kosten für dieses Modul.
+
+<sup>4</sup> Nehmen mehrere Kinder eines Inhabers der elterlichen Sorge Betreuungsangebote in Anspruch, werden die Preise ab dem zweiten Kind um 10% herabgesetzt.
+
+#### Art. 13e
+
+**Kantonsbeitrag**
+
+<sup>1</sup> Für den Besuch von schulergänzenden Betreuungsangeboten gewährt der Kanton dem Inhaber der elterlichen Sorge auf Gesuch Beiträge bis höchstens drei Viertel der Höchsttarife nach Art. 13d Abs. 1.
+
+<sup>2</sup> Beiträge werden abgestuft je nach den finanziellen Verhältnissen des Inhabers der elterlichen Sorge gewährt. Die Beitragsgewährung setzt voraus, dass der Inhaber der elterlichen Sorge seine finanziellen Verhältnisse und insbesondere die Steuerdaten gegenüber der kantonalen Entscheidbehörde ausweist.
+
+<sup>3</sup> Die Standeskommission bestimmt die Einzelheiten. Sie kann vorsehen, dass Inhabern der elterlichen Sorge mit beschränkten Mitteln Beiträge bevorschusst werden.
+
+#### Art. 13f
+
+**Schulbeitrag**
+
+<sup>1</sup> Die Schulgemeinde vergütet dem Kanton die Hälfte des Beitrags, welche dieser dem Inhaber der elterlichen Sorge ausrichtet.
+
+<sup>2</sup> Erfüllt eine Schulgemeinde die kantonalen Vorgaben nicht, kann die Höhe der Vergütung an den Kanton angehoben werden.
+
+#### Art. 13g
+
+**Standeskommission**
+
+<sup>1</sup> Die Standeskommission regelt das Erforderliche für den Versuch, insbesondere für die öffentlichen Unterstützungsleistungen und die Qualitätsanforderungen der Angebote.
+
+<sup>2</sup> Sie ist verantwortlich für die Aufsicht und kann bestimmte Aufsichtsfunktionen dem Departement übertragen.
+
+<sup>3</sup> Sie sorgt für eine angemessene Auswertung der Versuche und bereitet gestützt darauf gegebenenfalls die erforderlichen Anpassungen an der Schulgesetzgebung für eine Nachfolgeregelung im Anschluss an die Versuchsphase vor.
+
+#### Art. 13h
+
+**Anschubfinanzierung**
+
+<sup>1</sup> Schulgemeinden, die für ihr Angebot an schulergänzender Betreuung keine Anschubfinanzierung des Bundes erhalten können, erhalten während längstens drei Jahren eine kantonale Unterstützung, sofern die Angebote den kantonalen Vorgaben entsprechen.
+
+<sup>2</sup> Die kantonale Anschubfinanzierung entspricht für die ersten zwei Jahre jener des Bundes in seinem zweiten Beitragsjahr und für das dritte Jahr jener des Bundes in seinem dritten Beitragsjahr.
+
+<sup>3</sup> Die kantonale Anschubfinanzierung wird längstens bis am 31. Juli 2027 ausgerichtet.
 
 ## V. Subventionierung der baulichen Aufwendungen
 
