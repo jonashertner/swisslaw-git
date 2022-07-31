@@ -4,24 +4,26 @@ number: "412.113"
 title: Reglement über die Promotion an den öffentlichen Schulen
 short: "Promotionsreglement, PromR"
 language: de
-version: 2019-08-01
-valid_until: 2022-07-31
-version_adopted: 2018-09-05
+version: 2022-08-01
+valid_until: 2026-07-31
+version_adopted: 2021-03-03
 adopted: 2025-09-10
 in_force: 2026-08-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/412.113"
-pdf: "https://bgs.zg.ch/api/de/versions/1995/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2359/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über die Promotion an den öffentlichen Schulen
 
-Vom 5. Juni 1982 (Stand 1. August 2019)
+(Promotionsreglement, PromR)
+
+Vom 5. Juni 1982 (Stand 1. August 2022)
 
 Der Bildungsrat des Kantons Zug,
 
-gestützt auf § 17 Abs. 2 des Schulgesetzes vom 27. September 1990[^ingress-1] und § 5 Abs. 1 des Gesetzes über die kantonalen Schulen vom 27. September 1990[^ingress-2],
+gestützt auf § 17 Abs. 3 und § 65 Abs. 3a Bst. a des Schulgesetzes vom 27. September 1990[^ingress-1] in Verbindung mit § 5 Abs. 1 des Gesetzes über die kantonalen Schulen vom 27. September 1990[^ingress-2],
 
 beschliesst:
 
@@ -36,7 +38,7 @@ beschliesst:
 
 <sup>1</sup> Die Beurteilung stützt sich auf die «Grundsätze Beurteilen und Fördern B&F».
 
-<sup>2</sup> Die Schüler der Primarstufe und Sekundarstufe I werden in den Fachkompetenzen sowie den Lern-, Selbst- und Sozialkompetenzen beurteilt und gefördert.
+<sup>2</sup> Die Schüler der Primarstufe und Sekundarstufe I werden in den fachlichen, methodischen, sozialen und personalen Kompetenzen beurteilt und gefördert.
 
 #### § 1a
 
@@ -44,7 +46,7 @@ beschliesst:
 
 <sup>1</sup> Jede Klassenlehrperson hat für ihre Schüler Ende Schuljahr und ab der 2. Primarklasse zusätzlich Ende Januar ein Zeugnis auszustellen.
 
-<sup>2</sup> Das Zeugnis enthält die Beurteilung der Lern-, Selbst- und Sozialkompetenzen (überfachliche Kompetenzen). Ab der 2. Primarklasse gibt es zudem über den Lernerfolg in den Fachkompetenzen in Noten Auskunft.
+<sup>2</sup> Das Zeugnis enthält ab der 2. Primarklasse die Bewertung der fachlichen Kompetenzen in Noten und ab der 3. Primarklasse zusätzlich die Bewertung der personalen und sozialen Kompetenzen. Die Bewertung der methodischen Kompetenzen wird bei den fachlichen Kompetenzen miteinbezogen.
 
 #### § 2
 
@@ -67,29 +69,35 @@ beschliesst:
 
 #### § 3
 
-**Beurteilung der Lern-, Sozial- und Selbstkompetenzen**
+**Beurteilung der sozialen und personalen Kompetenzen**
 
-<sup>1</sup> Die Lern-, Sozial- und Selbstkompetenzen werden aufgrund von folgenden Lernzielen beurteilt: Der Schüler
+<sup>1</sup> Bei den sozialen Kompetenzen werden folgende Bereiche beurteilt:
 
-- a) organisiert Arbeiten sinnvoll;
-- b) schätzt eigene Fähigkeiten realistisch ein;
-- c) arbeitet mit anderen zielorientiert zusammen;
-- d) verhält sich respektvoll;
-- e) motiviert sich für das Lernen;
-- f) übernimmt Verantwortung.
+- a) Dialog- und Kooperationsfähigkeit
+- b) Konfliktfähigkeit
+- c) Respektvoller Umgang
+- d) …
+- e) …
+- f) …
+
+<sup>1a</sup> Bei den personalen Kompetenzen werden folgende Bereiche beurteilt:
+
+- a) Selbstreflexion
+- b) Selbständigkeit
+- c) Eigenständigkeit
 
 <sup>2</sup> Die Wahrnehmungen in Bezug auf den Erfüllungsgrad der Lernziele werden auf einer vierstufigen Skala aufgezeigt:
 
-- a) • • • • = deutlich erkennbar
-- b) • • • = ausreichend erkennbar
-- c) • • = teilweise erkennbar
-- d) • = noch nicht erkennbar
+- a) • • • • übertrifft die Anforderungen
+- b) • • • erfüllt die Anforderungen
+- c) • • erfüllt die Anforderungen mehrheitlich
+- d) • erfüllt die Anforderungen kaum
 
-<sup>2a</sup> Für die Erfüllung der Lernziele in den Lern-, Sozial- und Selbstkompetenzen ist
+<sup>2a</sup> Für die Erfüllung der Lernziele in den sozialen und personalen Kompetenzen ist
 
-- • • • ausreichend erkennbar
+- • • • erfüllt die Anforderungen
 
-<sup>3</sup> Als Grundlage für die Beurteilung in den Lern-, Sozial- und Selbstkompetenzen im Zeugnis dienen die Beobachtungs- und Beurteilungsunterlagen des Amts für gemeindliche Schulen (nachfolgend Beobachtungs- und Beurteilungsunterlagen genannt).
+<sup>3</sup> Als Grundlage für die Beurteilung der sozialen und personalen Kompetenzen im Zeugnis dienen die Beobachtungs- und Beurteilungsunterlagen des Amts für gemeindliche Schulen.
 
 #### § 4
 
@@ -136,11 +144,17 @@ beschliesst:
 
 <sup>3</sup> Bemerkungen allgemeiner Art (Charaktereigenschaften usw.) sind im Zeugnis zu unterlassen.
 
+#### § 6a
+
+**Gespräch zum Eintritt in die 1. Primarklasse**
+
+<sup>1</sup> Die Kindergarten-Klassenlehrperson orientiert die Erziehungsberechtigten und deren Kind über den Lernstand in den entwicklungsorientierten Zugängen und in den fachlichen Kompetenzen im Übergang zur 1. Klasse.
+
 #### § 7
 
 **Orientierungsgespräche**
 
-<sup>1</sup> Die Klassenlehrperson orientiert die Erziehungsberechtigten und ihr Kind über die Leistungsanforderungen, die Leistungserfüllung, den Lernfortschritt und die Leistungsentwicklung in den Fachkompetenzen sowie den Lern-, Selbst- und Sozialkompetenzen. Als Grundlage dienen die Beobachtungs- und Beurteilungsunterlagen.
+<sup>1</sup> Die Klassenlehrperson orientiert die Erziehungsberechtigten und deren Kind über die Leistungsanforderungen, die Leistungserfüllung, den Lernfortschritt und die Leistungsentwicklung in den fachlichen Kompetenzen, in welche die Beurteilung der methodischen Kompetenzen miteinzubeziehen ist, sowie in den sozialen und personalen Kompetenzen. Als Grundlage dienen Leistungsbelege und die Beobachtungs- und Beurteilungsunterlagen.
 
 <sup>2</sup> Orientierungsgespräche finden in der 1. bis 4. Primarklasse sowie in der 1. und 2. Klasse der Sekundarstufe I statt.
 
@@ -349,10 +363,10 @@ beschliesst:
 
 <sup>3</sup> Folgende Kriterien sind aufgrund einer Gesamtbeurteilung massgebend:
 
-- a) die Leistungen des Schülers in den Fächern bzw. Fachbereichen Mathematik, Deutsch, Französisch, Englisch, «Räume, Zeiten, Gesellschaft», Natur und Technik unter Berücksichtigung der Niveauzugehörigkeit und der Leistungsentwicklung, wobei
+- a) die fachlichen Kompetenzen des Schülers, in welche die Beurteilung der methodischen Kompetenzen miteinzubeziehen ist, in den Fächern bzw. Fachbereichen Mathematik, Deutsch, Französisch, Englisch, «Räume, Zeiten, Gesellschaft» und Natur und Technik unter Berücksichtigung der Niveauzugehörigkeit und der Leistungsentwicklung, wobei
   - 1\. Realschüler überwiegend gute Leistungen erbringen;
   - 2\. Sekundarschüler überwiegend ungenügende Leistungen erbringen;
-- b) die Lern-, Sozial- und Selbstkompetenzen des Schülers;
+- b) die sozialen und personalen Kompetenzen des Schülers;
 - c) die Neigungen und Interessen des Schülers.
 
 <sup>4</sup> Der Wechsel der Schulart erfolgt auf Beginn eines Schuljahres. Das Lehrerteam des betreffenden Schülers und die Erziehungsberechtigten entscheiden gemeinsam. Können sie sich nicht einigen, entscheidet der Rektor.
@@ -444,9 +458,9 @@ beschliesst:
 <sup>2</sup> Für den Zuweisungsentscheid sind folgende Kriterien massgebend:
 
 - a) Besuch des Niveaus A in den Niveaufächern;
-- b) die Leistungen in den Fächern, welche die Erfahrungsnote bilden. Für den Eintritt ins Kurzzeitgymnasium gilt bei der Erfahrungsnote ein Orientierungswert von 5.2, für den Eintritt in die Fach- und die Wirtschaftsmittelschule gilt ein Orientierungswert von 5.0;
+- b) die fachlichen Kompetenzen, in welche die Beurteilung der methodischen Kompetenzen miteinzubeziehen ist, in den Fächern, welche die Erfahrungsnote bilden. Für den Eintritt ins Kurzzeitgymnasium gilt bei der Erfahrungsnote ein Orientierungswert von 5,2, für den Eintritt in die Fach- und die Wirtschaftsmittelschule gilt ein Orientierungswert von 5,0;
 - b1) der Verlauf der Entwicklung des Schülers im ersten Semester des Schuljahres, an dessen Ende ein Übertritt in eine kantonale Mittelschule beabsichtigt ist;
-- c) die Lern-, Sozial- und Selbstkompetenzen des Schülers;
+- c) die sozialen und personalen Kompetenzen des Schülers;
 - d) die Neigungen und Interessen des Schülers.
 
 <sup>3</sup> Die Lehrperson hält entsprechende Feststellungen in den Beobachtungs- und Beurteilungsunterlagen fest.
@@ -488,7 +502,7 @@ beschliesst:
 <sup>1</sup> Sofern die Klassenlehrperson die Zuweisung nicht unterstützt und somit kein Zuweisungsentscheid vorliegt, kann der Schüler auf Anmeldung am Abklärungstest teilnehmen, wenn er folgende Voraussetzungen erfüllt:
 
 - a) Besuch des Niveaus A in den Niveaufächern;
-- b) eine Erfahrungsnote von mindestens 4,50 für die Fachmittelschule und die Wirtschaftsmittelschule sowie von 4,80 für das Kurzzeitgymnasium im ersten Semester des betreffenden Schuljahres.
+- b) eine Erfahrungsnote von mindestens 4,5 für die Fachmittelschule und die Wirtschaftsmittelschule sowie von 4,8 für das Kurzzeitgymnasium im ersten Semester des betreffenden Schuljahres.
 
 <sup>2</sup> Die Anmeldung zum Abklärungstest erfolgt bis spätestens 20. März durch die Erziehungsberechtigten. Der Anmeldung beizulegen sind folgende Vorakten:
 
