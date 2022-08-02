@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordinanza del 4 marzo 2022 che istituisce provvedimenti in relazione alla situazione in Ucraina
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: it
-version: 2022-08-01
+version: 2022-08-03
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20220801/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20220801-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20220801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20220803/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20220803-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20220803/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti in relazione alla situazione in Ucraina
 
-del 4 marzo 2022 (Stato 1° agosto 2022)
+del 4 marzo 2022 (Stato 3 agosto 2022)
 
 Il Consiglio federale svizzero,
 
@@ -458,6 +458,26 @@ Il divieto di cui al capoverso 1 non si applica ai beni:
 [^14c-3]: Nuovo testo giusta il n. I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
 [^14c-4]: In vigore dal 29 lug. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 
+#### Art. 14d
+
+**Oro e prodotti in oro**[^14d-1]
+
+<sup>1</sup> Sono vietati l’acquisto di oro di cui all’allegato 26 originario della Federazione Russa che è stato importato dalla Federazione Russa dopo il 4 agosto 2022 nonché l’importazione, il transito e il trasporto di tale oro in e attraverso la Svizzera.
+
+<sup>2</sup> Sono vietati l’acquisto di oro di cui all’allegato 26 che è stato lavorato in un Paese terzo utilizzando oro di cui al capoverso 1 nonché l’importazione, il transito e il trasporto dell’oro così lavorato in e attraverso la Svizzera.
+
+<sup>3</sup> Sono vietati l’acquisto di prodotti in oro di cui all’allegato 27 originari della Federazione Russa che sono stati importati in Svizzera dalla Federazione Russa dopo il 4 agosto 2022 nonché l’importazione, il transito e il trasporto di tali prodotti in oro in e attraverso la Svizzera.
+
+<sup>4</sup> Sono vietate la fornitura di servizi di ogni genere, compresi i servizi finanziari, l’intermediazione e l’assistenza tecnica, nonché la concessione di mezzi finanziari in relazione con l’acquisto, l’importazione, il transito e il trasporto in e attraverso la Svizzera nonché con la messa a disposizione, la fabbricazione, la riparazione o l’impiego di oro o dei prodotti in oro di cui ai capoversi 1–3.
+
+<sup>5</sup> I divieti di cui ai capoversi 1–3 non si applicano ai beni necessari a garantire l’esercizio delle funzioni delle rappresentanze diplomatiche o consolari della Svizzera o dei suoi partner nella Federazione Russa oppure delle organizzazioni internazionali che godono di immunità conformemente al diritto internazionale.
+
+<sup>6</sup> Il divieto di cui al capoverso 3 non si applica ai beni destinati a uso personale da parte di persone fisiche che si recano in Svizzera o in uno Stato membro del SEE, a condizione che siano appartenenti a tali persone e non siano destinati alla vendita.
+
+<sup>7</sup> La SECO può autorizzare deroghe ai divieti di cui ai capoversi 1–3 per l’importazione o il trasporto dalla Federazione Russa di beni culturali in prestito nel contesto della cooperazione culturale ufficiale con la Federazione Russa.
+
+[^14d-1]: Introdotto dal n. I dell’O del 3 ago. 2022, in vigore dal 3 ago. 2022 alle ore 18.00 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
+
 ## Sezione 3: Restrizioni finanziarie
 
 #### Art. 15
@@ -494,30 +514,44 @@ La SECO può, in via eccezionale, autorizzare prelievi da conti bloccati, trasfe
 - c. soddisfare crediti in applicazione di una decisione giudiziaria, amministrativa o arbitrale;
 - d.[^15-4] svolgere attività ufficiali della missione diplomatica o consolare o dell’organizzazione internazionale che godono di immunità conformemente al diritto internazionale;
 - e. tutelare interessi svizzeri; oppure
-- f. permettere lo svolgimento di attività umanitarie o di aiuto alla popolazione civile in relazione alla situazione in Ucraina.[^15-5]
+- f. permettere lo svolgimento di attività umanitarie o di aiuto alla popolazione civile in relazione alla situazione in Ucraina;
+- g.[^15-5] la prevenzione o la mitigazione di un evento che potrebbe avere conseguenze gravi e rilevanti sulla salute e sulla sicurezza delle persone o sull’ambiente.[^15-6]
 
 <sup>5bis</sup>
 
-La SECO può autorizzare la liberazione di determinati averi o risorse economiche bloccati o la messa a disposizione di determinati averi o risorse economiche a una persona fisica o giuridica, un’impresa o un’organizzazione di cui all’allegato 8 necessari per la vendita e il trasferimento fino al 28 ottobre 2022 di diritti di proprietà a persone giuridiche, imprese od organizzazioni stabilite in Svizzera o in uno Stato membro dello SEE, laddove:
+La SECO può autorizzare la liberazione di determinati averi o risorse economiche bloccati o la messa a disposizione di determinati averi o risorse economiche a una persona fisica o giuridica, un’impresa o un’organizzazione di cui all’allegato 8 per consentire la vendita e il trasferimento di diritti di proprietà a persone giuridiche, imprese od organizzazioni stabilite in Svizzera o in uno Stato membro dello SEE fino al 31 dicembre 2022 o, se posteriore, entro sei mesi dalla data di inserimento della persona, dell’impresa o dell’organizzazione nell’allegato 8, laddove:[^15-7]
 
 - a. tali diritti di proprietà sono direttamente o indirettamente detenuti da una persona fisica o giuridica, da un’impresa o da un’organizzazione elencate nell’allegato 8; e
-- b. il ricavato di tale vendita o trasferimento rimane congelato.[^15-6]
+- b. il ricavato di tale vendita o trasferimento rimane congelato.[^15-8]
 
-<sup>6</sup> La SECO può, in via eccezionale, autorizzare la liberazione di determinati averi o risorse economiche bloccate di proprietà delle organizzazioni menzionate nell’allegato 8 ai numeri SSID 175-48057, SSID 175-48067 e SSID 175-48076, oppure mettere a loro disposizione determinati averi e risorse economiche, dopo aver stabilito che tali averi e risorse economiche sono necessari per porre fine, al più tardi entro il 24 agosto 2022, alle operazioni, contratti o altri accordi, comprese le corrispondenti relazioni bancarie concluse con queste organizzazioni prima del 23 febbraio 2022.[^15-7]
+<sup>6</sup> La SECO può, in via eccezionale, autorizzare la liberazione di determinati averi o risorse economiche bloccate di proprietà delle organizzazioni menzionate nell’allegato 8 ai numeri SSID 175-48057, SSID 175-48067 e SSID 175-48076, oppure mettere a loro disposizione determinati averi e risorse economiche, dopo aver stabilito che tali averi e risorse economiche sono necessari per porre fine, al più tardi entro il 24 agosto 2022, alle operazioni, contratti o altri accordi, comprese le corrispondenti relazioni bancarie concluse con queste organizzazioni prima del 23 febbraio 2022.[^15-9]
 
-<sup>7</sup> La SECO può, in via eccezionale, autorizzare la liberazione di determinati averi o risorse economiche bloccati di proprietà delle organizzazioni menzionate nell’allegato 8 ai numeri SSID 175‑54306, 175‑54319, 175‑54329 e 175-54340, oppure mettere a loro disposizione determinati averi e risorse economiche, dopo aver stabilito che tali averi e risorse economiche sono necessari per porre fine, al più tardi entro il 28 ottobre 2022, alle operazioni, contratti o altri accordi, comprese le corrispondenti relazioni bancarie concluse con queste organizzazioni prima del 27 aprile 2022.[^15-8]
+<sup>7</sup> La SECO può, in via eccezionale, autorizzare la liberazione di determinati averi o risorse economiche bloccati di proprietà delle organizzazioni menzionate nell’allegato 8 ai numeri SSID 175‑54306, 175‑54319, 175‑54329 e 175-54340, oppure mettere a loro disposizione determinati averi e risorse economiche, dopo aver stabilito che tali averi e risorse economiche sono necessari per porre fine, al più tardi entro il 28 ottobre 2022, alle operazioni, contratti o altri accordi, comprese le corrispondenti relazioni bancarie concluse con queste organizzazioni prima del 27 aprile 2022.[^15-10]
 
-<sup>8</sup> D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare deroghe ai divieti di cui ai capoversi 4‒7.[^15-9]
+<sup>8</sup>
+
+La SECO può, in via eccezionale, autorizzare la liberazione di determinati averi o risorse economiche bloccati di proprietà dell’organizzazione menzionata nell’allegato 8 al numero SSID 175-56580, oppure mettere a sua disposizione determinati averi e risorse economiche, dopo aver stabilito che tali averi e risorse economiche sono necessari per:
+
+- a. porre fine, al più tardi entro il 22 agosto 2023, alle operazioni, contratti o altri accordi, comprese le corrispondenti relazioni bancarie concluse con tale organizzazione prima del 4 agosto 2022; oppure
+- b. la vendita o il trasferimento fino al 13 novembre 2022 di diritti di proprietà direttamente o indirettamente detenuti da tale organizzazione a persone giuridiche, imprese od organizzazioni stabilite in Svizzera o in uno Stato membro dello SEE.[^15-11]
+
+<sup>9</sup> La SECO può, in via eccezionale, autorizzare la liberazione di determinati averi o risorse economiche bloccati di proprietà delle organizzazioni menzionate nell’allegato 8 ai numeri SSID 175-48057, 175-48067, 175-48076, 175-54306, 175-54319, 175-54329, 175-54340 e 175-56580, oppure mettere a loro disposizione averi e risorse economiche dopo aver stabilito che tali averi e risorse economiche sono necessari per l’acquisto, l’importazione o il trasporto di prodotti agricoli e alimentari, compresi il frumento e i concimi.[^15-12]
+
+<sup>10</sup> D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare deroghe ai divieti di cui ai capoversi 4‒9.[^15-13]
 
 [^15-1]: Nuovo testo giusta il n. I dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
 [^15-2]: Introdotto dal n. I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
 [^15-3]: Nuovo testo giusta il n. I dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
 [^15-4]: Nuovo testo giusta il n. I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
-[^15-5]: Nuovo testo giusta il n. I dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
-[^15-6]: Introdotto dal n. I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00, cpv. 3 dal 29 lug. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
-[^15-7]: Introdotto dal n. I dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
-[^15-8]: Introdotto dal n. I dell’O del 25 mar. 2022 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)). Nuovo testo giusta il n. I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
-[^15-9]: Introdotto dal n. I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^15-5]: Introdotta dal n. I dell’O del 3 ago. 2022, in vigore dal 3 ago. 2022 alle ore 18.00 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
+[^15-6]: Nuovo testo giusta il n. I dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^15-7]: Nuovo testo giusta il n. I dell’O del 3 ago. 2022, in vigore dal 3 ago. 2022 alle ore 18.00 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
+[^15-8]: Introdotto dal n. I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00, cpv. 3 dal 29 lug. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^15-9]: Introdotto dal n. I dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^15-10]: Introdotto dal n. I dell’O del 25 mar. 2022 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)). Nuovo testo giusta il n. I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^15-11]: Introdotto dal n. I dell’O del 27 apr. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Nuovo testo giusta il n. I dell’O del 3 ago. 2022, in vigore dal 3 ago. 2022 alle ore 18.00 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
+[^15-12]: Introdotto dal n. I dell’O del 3 ago. 2022, in vigore dal 3 ago. 2022 alle ore 18.00 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
+[^15-13]: Introdotto dal n. I dell’O del 3 ago. 2022, in vigore dal 3 ago. 2022 alle ore 18.00 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
 
 #### Art. 16
 
@@ -725,7 +759,7 @@ D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare
 
 Il divieto di cui al capoverso 1 non si applica:
 
-- a.[^24a-3] alle transazioni strettamente necessarie per l’acquisto, l’importazione o il trasporto di gas e petrolio, compresi i prodotti derivanti dalla raffinazione del petrolio, nonché di titanio, alluminio, rame, nichel, palladio e minerali di ferro dalla Federazione Russa, o attraverso la Federazione Russa, in Svizzera, in uno Stato membro dello SEE o in Albania, Bosnia e Erzegovina, Macedonia del Nord, Montenegro, Kosovo e Serbia);
+- a.[^24a-3] alle transazioni necessarie per l’acquisto, l’importazione o il trasporto di gas, titanio, alluminio, rame, nichel, palladio e minerali di ferro dalla Federazione Russa, o attraverso la Federazione Russa, in Svizzera, in uno Stato membro dello SEE o in Albania, Bosnia ed Erzegovina, Macedonia del Nord, Montenegro, Kosovo o Serbia;
 - b. alle transazioni relative a progetti energetici al di fuori della Federazione Russa in cui una banca, un’impresa o un’organizzazione elencata nell’allegato 15 è un azionista di minoranza;
 - c.
 
@@ -734,14 +768,20 @@ Il divieto di cui al capoverso 1 non si applica:
   - 1\. permettere lo svolgimento di attività umanitarie o di aiuto alla popolazione civile in relazione alla situazione in Ucraina da parte di organismi pubblici o di imprese e organizzazioni che ricevono un finanziamento dalla Confederazione per svolgere attività umanitarie o fornire aiuto alla popolazione civile, oppure
   - 2\. permettere lo svolgimento delle attività ufficiali delle rappresentanze diplomatiche o consolari della Svizzera e l’adempimento di missioni ufficiali della Confederazione;
 
-- d.[^24a-4] alle transazioni relative alla fornitura di servizi di telecomunicazione o dei centri di dati oppure alla prestazione di servizi e alla fornitura di apparecchiature necessarie per il funzionamento, la manutenzione e la sicurezza dei servizi di telecomunicazione, compresa la messa a disposizione di firewall e di servizi di call center per una banca, un’impresa o un’organizzazione elencata nell’allegato 15.
+- d.[^24a-4] alle transazioni relative alla fornitura di servizi di telecomunicazione o dei centri di dati oppure alla prestazione di servizi e alla fornitura di apparecchiature necessarie per il funzionamento, la manutenzione e la sicurezza dei servizi di telecomunicazione, compresa la messa a disposizione di firewall e di servizi di call center per una banca, un’impresa o un’organizzazione elencata nell’allegato 15;
+- e.[^24a-5] alle transazioni necessarie per l’acquisto, l’importazione o il trasporto, diretti o indiretti, di petrolio, compresi i prodotti derivanti dalla raffinazione del petrolio, dalla Federazione Russa o attraverso la Federazione Russa, a condizione che l’acquisto, l’importazione o il trasporto non sia vietato secondo gli articoli 12*a* o 12*b*;
+- f.[^24a-6] alle transazioni necessarie per l’acquisto, l’importazione o il trasporto di prodotti farmaceutici, dispositivi medici e prodotti agricoli e alimentari, compresi il frumento e i concimi, a condizione che l’acquisto, l’importazione o il trasporto non sia vietato secondo la presente ordinanza;
+- g.[^24a-7] alle transazioni necessarie per garantire l’accesso a procedimenti giudiziari, amministrativi o arbitrali in Svizzera o in uno Stato membro del SEE o per il riconoscimento o l’esecuzione di una sentenza o di un lodo arbitrale resi in Svizzera o in uno Stato membro del SEE.
 
 <sup>3</sup> D’intesa con i servizi competenti del DFAE e del DFF, la SECO può, in via eccezionale, autorizzare deroghe al divieto di cui al capoverso 1 per permettere lo svolgimento di attività umanitarie o di aiuto alla popolazione civile in relazione alla situazione in Ucraina.
 
 [^24a-1]: Introdotto dal n. I dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
 [^24a-2]: Nuovo testo giusta il n. I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
-[^24a-3]: Nuovo testo giusta il n. I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^24a-3]: Nuovo testo giusta il n. I dell’O del 3 ago. 2022, in vigore dal 3 ago. 2022 alle ore 18.00 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
 [^24a-4]: Introdotta dal n. I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
+[^24a-5]: Introdotta dal n. I dell’O del 3 ago. 2022, in vigore dal 3 ago. 2022 alle ore 18.00 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
+[^24a-6]: Introdotta dal n. I dell’O del 3 ago. 2022, in vigore dal 3 ago. 2022 alle ore 18.00 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
+[^24a-7]: Introdotta dal n. I dell’O del 3 ago. 2022, in vigore dal 3 ago. 2022 alle ore 18.00 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
 
 #### Art. 25
 
@@ -1015,9 +1055,9 @@ Sono esenti dal divieto di cui al capoverso 1:
 
 **Pubblicazione**[^33-1]
 
-I contenuti degli allegati 1, 2, 8‒15, 23 e 25 non sono pubblicati né nella Raccolta ufficiale delle leggi federali né nella Raccolta sistematica del diritto federale; possono essere richiesti alla SECO.
+I contenuti degli allegati 1, 2, 8‒15, 23 e 25 non sono pubblicati né nella Raccolta ufficiale delle leggi federali né nella Raccolta sistematica del diritto federale.
 
-[^33-1]: Nuovo testo giusta il n. I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
+[^33-1]: Nuovo testo giusta il n. I dell’O del 3 ago. 2022, in vigore dal 3 ago. 2022 alle ore 18.00 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
 
 #### Art. 34
 
@@ -1073,11 +1113,11 @@ L’articolo *12a* capoversi 1 e 2 non si applica:
 L’articolo 24*a* capoverso 1 non si applica:
 
 - a. all’accettazione dei pagamenti dovuti dalle banche, imprese o organizzazioni di cui all’articolo 24*a* capoverso 1 nell’ambito di contratti eseguiti prima del 15 maggio 2022;
-- b. alle transazioni, comprese le vendite, necessarie entro il 1° ottobre 2022 per la liquidazione di una joint venture o di un istituto giuridico affine costituiti prima del 26 marzo 2022 e a cui partecipa una banca, un’impresa o un’organizzazione di cui all’articolo 24*a* capoverso 1.[^35-13]
+- b.[^35-13] alle transazioni, compresa la vendita, necessarie per la liquidazione, entro il 31 dicembre 2022, di una joint venture o di un istituto giuridico affine costituiti prima del 26 marzo 2022 e a cui partecipa una banca, un’impresa o un’organizzazione di cui all’articolo 24*a* capoverso 1.[^35-14]
 
-<sup>18</sup> L’articolo 28*d* capoverso 1 non si applica alle transazioni necessarie per porre fine entro il 31 luglio 2022 ai contratti stipulati prima del 28 aprile 2022 incompatibili con il presente articolo.[^35-14]
+<sup>18</sup> L’articolo 28*d* capoverso 1 non si applica alle transazioni necessarie per porre fine entro il 31 luglio 2022 ai contratti stipulati prima del 28 aprile 2022 incompatibili con il presente articolo.[^35-15]
 
-<sup>19</sup> L’articolo 28*e* capoverso 1 non si applica alla fornitura di servizi necessari per porre fine entro il 31 luglio 2022 ai contratti stipulati prima del 30 giugno 2022 incompatibili con il presente articolo.[^35-15]
+<sup>19</sup> L’articolo 28*e* capoverso 1 non si applica alla fornitura di servizi necessari per porre fine entro il 31 luglio 2022 ai contratti stipulati prima del 30 giugno 2022 incompatibili con il presente articolo.[^35-16]
 
 [^35-1]: Introdotto dal n. I dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
 [^35-2]: Introdotto dal n. I dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
@@ -1091,9 +1131,10 @@ L’articolo 24*a* capoverso 1 non si applica:
 [^35-10]: Introdotto dal n. I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 [^35-11]: Introdotto dal n. I dell’O del 27 apr. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Nuovo testo giusta il n. I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
 [^35-12]: Introdotto dal n. I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
-[^35-13]: Introdotto dal n. I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
+[^35-13]: Nuovo testo giusta il n. I dell’O del 3 ago. 2022, in vigore dal 3 ago. 2022 alle ore 18.00 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
 [^35-14]: Introdotto dal n. I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
 [^35-15]: Introdotto dal n. I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
+[^35-16]: Introdotto dal n. I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
 
 #### Art. 36
 
@@ -1411,8 +1452,8 @@ Allegato 8*[^t-5]*
 
 [^annex8-lvlu1-1]
 
-[^t-5]: Aggiornato dai n. I delle O del DEFR del 16 mar. ([RU 2022 173](https://fedlex.data.admin.ch/eli/oc/2022/173)), del 13 apr. 2022 ([RU 2022 237](https://fedlex.data.admin.ch/eli/oc/2022/237)), del 3 mag. 2022 ([RU 2022 270](https://fedlex.data.admin.ch/eli/oc/2022/270)) dai n. I cpv. 1 delle O del DEFR del 10 giu. 2022 ([RU 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)) e del 28 lug. 2022, in vigore dal 29 lug. 2022 alle ore 18.00 ([RU 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)).
-[^annex8-lvlu1-1]: Questo allegato non è pubblicato né nella RU né nella RS. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-5]: Aggiornato dai n. I delle O del DEFR del 16 mar. ([RU 2022 173](https://fedlex.data.admin.ch/eli/oc/2022/173)), del 13 apr. 2022 ([RU 2022 237](https://fedlex.data.admin.ch/eli/oc/2022/237)), del 3 mag. 2022 ([RU 2022 270](https://fedlex.data.admin.ch/eli/oc/2022/270)) dai n. I cpv. 1 delle O del DEFR del 10 giu. 2022 ([RU 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)), del 28 lug. 2022 ([RU 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)) e dal n. II cpv. 1 dell’O del 3 ago. 2022, in vigore dal 3 ago 2022 alle ore 18.00 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
+[^annex8-lvlu1-1]: Questo allegato non è pubblicato né nella RU né nella RS. È disponibile al seguente indirizzo: [https://fedlex.data.admin.ch/eli/oc/2022/436](https://fedlex.data.admin.ch/eli/oc/2022/436) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 9
 
@@ -2176,3 +2217,32 @@ Allegato 25*[^t-18]*
 
 [^t-18]: Introdotto dal n. II dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
 [^annex25-lvlu1-1]: Questo allegato non è pubblicato né nella RU né nella RS. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+
+Allegato 26*[^t-19]*
+
+(art. 14*d* cpv. 1 e 2)
+
+## Oro
+
+[^t-19]: Introdotto dal n. II cpv. 2 dell’O del 3 ago. 2022, in vigore dal 3 ago. 2022 alle ore 18.00 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
+
+<table>
+<tr><td>Voce di tariffa doganale</td><td>Designazione</td></tr>
+<tr><td>7108</td><td>Oro (compreso l’oro platinato), greggio o semilavorato, o in polvere</td></tr>
+<tr><td>7112 91</td><td>Cascami e rottami di oro, anche di placcati o doppiati di oro, escluse le ceneri di oreficeria contenenti altri metalli preziosi</td></tr>
+<tr><td>ex 7118 90</td><td>Monete di oro</td></tr>
+</table>
+
+Allegato 27*[^t-20]*
+
+(art. 14*d* cpv. 3)
+
+## Prodotti in oro
+
+[^t-20]: Introdotto dal n. II cpv. 2 dell’O del 3 ago. 2022, in vigore dal 3 ago. 2022 alle ore 18.00 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
+
+<table>
+<tr><td>Voce di tariffa doganale</td><td>Designazione</td></tr>
+<tr><td>ex 7113</td><td>Minuterie e oggetti di gioielleria e loro parti, di metalli preziosi o di placcati o doppiati di metalli preziosi</td></tr>
+<tr><td>ex 7114</td><td>Oggetti di oreficeria e loro parti, di metalli preziosi o di placcati o doppiati di metalli preziosi</td></tr>
+</table>
