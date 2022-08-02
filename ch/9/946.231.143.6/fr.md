@@ -3,18 +3,18 @@ sr: "946.231.143.6"
 title: "Ordonnance du 11 novembre 2015 instituant des mesures à l'encontre de la République islamique d'Iran"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/15"
 language: fr
-version: 2022-05-25
+version: 2022-08-03
 adopted: 2015-11-11
 in_force: 2016-01-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20220525/fr/xml/fedlex-data-admin-ch-eli-cc-2016-15-20220525-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20220525/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20220803/fr/xml/fedlex-data-admin-ch-eli-cc-2016-15-20220803-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20220803/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre de la République islamique d’Iran
 
-du 11 novembre 2015 (État le 25 mai 2022)
+du 11 novembre 2015 (État le 3 août 2022)
 
 Le Conseil fédéral suisse,
 
@@ -587,16 +587,18 @@ Annexe 5[^t-1]
 
 ## Personnes physiques visées par les sanctions financières et par l’interdiction d’entrée et de transit, et entreprises et entités visées par les sanctions financières
 
+[^annex5-lvlu1-1]
+
 [^t-1]: Nouvelle teneur selon le ch. I 12 de l’O du 4 mars 2016 sur la reprise automatique des listes de sanctions du Conseil de sécurité des Nations Unies, en vigueur depuis le 4 mars 2016 ([RO 2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)).
+[^annex5-lvlu1-1]: Cette annexe n’est publiée ni au RO ni au RS. Le texte de l’annexe peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2022/435](https://fedlex.data.admin.ch/eli/oc/2022/435) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 **Remarque**
 
-\1. La présente annexe correspond aux listes des personnes physiques, entreprises et entités désignées par le Conseil de sécurité des Nations Unies[^annex5-lvlu1-1].
+\1. La présente annexe correspond aux listes des personnes physiques, entreprises et entités désignées par le Conseil de sécurité des Nations Unies[^annex5-lvlu1-2].
 
-\2. En règle générale, les listes sont saisies par le SECO dans la banque de données SESAM (SECO Sanctions Management) le jour ouvré qui suit leur communication par les Nations Unies[^annex5-lvlu1-2].
+\2. En règle générale, les listes sont saisies par le SECO dans la banque de données SESAM (SECO Sanctions Management) le jour ouvré qui suit leur communication par les Nations Unies.
 
-[^annex5-lvlu1-1]: La liste peut être consultée sur Internet, à l’adresse suivante: [www.un.org/securitycouncil/fr](https://www.un.org/securitycouncil/fr) &gt; 2231 (2015) &gt; Liste établie en application de la résolution 2231 (2015).
-[^annex5-lvlu1-2]: La banque de données SESAM est librement accessible sur Internet: [www.seco.admin.ch](https://www.seco.admin.ch) &gt; Economie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Sanctions / Embargos. Une version imprimée de la liste peut être commandée auprès du SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne.
+[^annex5-lvlu1-2]: La liste peut être consultée Internet, à l’adresse suivante: [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; 2231 (2015) &gt; Liste établie en application de la résolution 2231 (2015).
 
 Annexe 6[^t-2]
 
@@ -606,8 +608,8 @@ Annexe 6[^t-2]
 
 [^annex6-lvlu1-1]
 
-[^t-2]: Mise à jour par le ch. I des O du DEFR du 27 janv. 2016 ([RO 2016 383](https://fedlex.data.admin.ch/eli/oc/2016/57)), du 17 mai 2016 ([RO 2016 1477](https://fedlex.data.admin.ch/eli/oc/2016/281)), du 31 oct. 2016 ([RO 2016 3699](https://fedlex.data.admin.ch/eli/oc/2016/623)), du 26 janv. 2017 ([RO 2017 243](https://fedlex.data.admin.ch/eli/oc/2017/59)), du 19 juin 2018 ([RO 2018 2421](https://fedlex.data.admin.ch/eli/oc/2018/349)), du 17 juin 2019 ([RO 2019 1893](https://fedlex.data.admin.ch/eli/oc/2019/346)), du 29 nov. 2019 ([RO 2019 4093](https://fedlex.data.admin.ch/eli/oc/2019/714)), du 6 juil. 2020 ([RO 2020 2831](https://fedlex.data.admin.ch/eli/oc/2020/515)), du 26 nov. 2020 ([RO 2020 4933](https://fedlex.data.admin.ch/eli/oc/2020/878)) et du 17 août 2021, en vigueur depuis le 18 août 2021 ([RO 2021 491](https://fedlex.data.admin.ch/eli/oc/2021/491)).
-[^annex6-lvlu1-1]: Cette annexe n’est pas publiée au RO. Le texte de l’annexe peut être commandé au SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne ou consultée sur [www.seco.admin.ch](https://www.seco.admin.ch) &gt; Economie extérieure et Coopération économique &gt; Relations économiques &gt; Contrôles à l’exportation et sanctions &gt; Sanctions/Embargos &gt; Sanctions de la Suisse.
+[^t-2]: Mise à jour par le ch. I des O du DEFR du 27 janv. 2016 ([RO 2016 383](https://fedlex.data.admin.ch/eli/oc/2016/57)), du 17 mai 2016 ([RO 2016 1477](https://fedlex.data.admin.ch/eli/oc/2016/281)), du 31 oct. 2016 ([RO 2016 3699](https://fedlex.data.admin.ch/eli/oc/2016/623)), du 26 janv. 2017 ([RO 2017 243](https://fedlex.data.admin.ch/eli/oc/2017/59)), du 19 juin 2018 ([RO 2018 2421](https://fedlex.data.admin.ch/eli/oc/2018/349)), du 17 juin 2019 ([RO 2019 1893](https://fedlex.data.admin.ch/eli/oc/2019/346)), du 29 nov. 2019 ([RO 2019 4093](https://fedlex.data.admin.ch/eli/oc/2019/714)), du 6 juil. 2020 ([RO 2020 2831](https://fedlex.data.admin.ch/eli/oc/2020/515)), du 26 nov. 2020 ([RO 2020 4933](https://fedlex.data.admin.ch/eli/oc/2020/878)), du 17 août 2021 ([RO 2021 491](https://fedlex.data.admin.ch/eli/oc/2021/491)) et du 2 août 2022, en vigueur depuis le 3 août 2022 à 18 heures ([RO 2022 435](https://fedlex.data.admin.ch/eli/oc/2022/435)).
+[^annex6-lvlu1-1]: Cette annexe n’est publiée ni au RO ni au RS. Le texte de l’annexe peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2022/435](https://fedlex.data.admin.ch/eli/oc/2022/435) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 7[^t-3]
 
@@ -618,4 +620,4 @@ Annexe 7[^t-3]
 [^annex7-lvlu1-1]
 
 [^t-3]: Mise à jour par le ch. I des O du DEFR du 17 mai 2016 ([RO 2016 1477](https://fedlex.data.admin.ch/eli/oc/2016/281)), du 1<sup>er</sup> mai 2017 ([RO 2017 2697](https://fedlex.data.admin.ch/eli/oc/2017/273)), du 23 avr. 2018 ([RO 2018 1657](https://fedlex.data.admin.ch/eli/oc/2018/245)), du 7 mai 2019 ([RO 2019 1341](https://fedlex.data.admin.ch/eli/oc/2019/261)), du 29 avr. 2020 ([RO 2020 1411](https://fedlex.data.admin.ch/eli/oc/2020/278)), du 27 avr. 2021 ([RO 2021 248](https://fedlex.data.admin.ch/eli/oc/2021/248)) et du 24 mai 2022, en vigueur depuis le 25 mai 2022 à 18 heures ([RO 2022 316](https://fedlex.data.admin.ch/eli/oc/2022/316)).
-[^annex7-lvlu1-1]: Cette annexe n’est pas publiée au RO. Le texte de l’annexe peut être commandé au SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne ou consultée sur [www.seco.admin.ch](https://www.seco.admin.ch) &gt; Economie extérieure et Coopération économique &gt; Relations économiques &gt; Contrôles à l’exportation et sanctions &gt; Sanctions/Embargos &gt; Sanctions de la Suisse.
+[^annex7-lvlu1-1]: Cette annexe n’est publiée ni au RO ni au RS. Le texte de l’annexe peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2022/435](https://fedlex.data.admin.ch/eli/oc/2022/435) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.

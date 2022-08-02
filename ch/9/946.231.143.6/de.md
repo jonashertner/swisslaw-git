@@ -3,18 +3,18 @@ sr: "946.231.143.6"
 title: Verordnung vom 11. November 2015 über Massnahmen gegenüber der Islamischen Republik Iran
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/15"
 language: de
-version: 2022-05-25
+version: 2022-08-03
 adopted: 2015-11-11
 in_force: 2016-01-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20220525/de/xml/fedlex-data-admin-ch-eli-cc-2016-15-20220525-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20220525/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20220803/de/xml/fedlex-data-admin-ch-eli-cc-2016-15-20220803-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20220803/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber der Islamischen Republik Iran
 
-vom 11. November 2015 (Stand am 25. Mai 2022)
+vom 11. November 2015 (Stand am 3. August 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -582,16 +582,18 @@ Anhang 5[^t-1]
 
 ## Natürliche Personen, gegen die sich die Finanzsanktionen und das Ein- und Durchreiseverbot richten, sowie Unternehmen und Organisationen, gegen die sich die Finanzsanktionen richten
 
+[^annex5-lvlu1-1]
+
 [^t-1]: Fassung gemäss Ziff. I 12 der V vom 4. März 2016 über die automatische Übernahme von Sanktionslisten des Sicherheitsrats der Vereinten Nationen, in Kraft seit 4. März 2016 ([AS 2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)).
+[^annex5-lvlu1-1]: Dieser Anhang wird weder in der AS noch in der SR veröffentlicht. Sein Inhalt kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2022/435](https://fedlex.data.admin.ch/eli/oc/2022/435) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 **Anmerkung**
 
-\1. Dieser Anhang entspricht den Listen der vom Sicherheitsrat der Vereinten Nationen bezeichneten natürlichen Personen, Unternehmen und Organisationen.[^annex5-lvlu1-1]
+\1. Dieser Anhang entspricht den Listen der vom Sicherheitsrat der Vereinten Nationen bezeichneten natürlichen Personen, Unternehmen und Organisationen.[^annex5-lvlu1-2]
 
-\2. Die Listen werden vom SECO in der Regel einen Werktag nach der Mitteilung durch die Vereinten Nationen in die Datenbank SESAM (SECO Sanctions Management) aufgenommen.[^annex5-lvlu1-2]
+\2. Die Listen werden vom SECO in der Regel einen Werktag nach der Mitteilung durch die Vereinten Nationen in die Datenbank SESAM (SECO Sanctions Management) aufgenommen.
 
-[^annex5-lvlu1-1]: Die Liste ist im Internet unter folgender Adresse abrufbar: www.un.org/en/sc/ &gt; 2231 (2015) &gt; 2231 list.
-[^annex5-lvlu1-2]: Die Datenbank SESAM ist im Internet frei zugänglich unter: www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos. Ein Ausdruck der Liste kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern bestellt werden.
+[^annex5-lvlu1-2]: Die Liste ist im Internet unter folgender Adresse abrufbar: www.un.org/en/sc/ &gt; 2231 (2015) &gt; 2231 list.
 
 Anhang 6[^t-2]
 
@@ -601,8 +603,8 @@ Anhang 6[^t-2]
 
 [^annex6-lvlu1-1]
 
-[^t-2]: Bereinigt gemäss Ziff. I der V des WBF vom 27. Jan. 2016 ([AS 2016 383](https://fedlex.data.admin.ch/eli/oc/2016/57)), vom 17. Mai 2016 ([AS 2016 1477](https://fedlex.data.admin.ch/eli/oc/2016/281)), vom 31. Okt. 2016 ([AS 2016 3699](https://fedlex.data.admin.ch/eli/oc/2016/623)), vom 26. Jan. 2017 ([AS 2017 243](https://fedlex.data.admin.ch/eli/oc/2017/59)), vom 19. Juni 2018 ([AS 2018 2421](https://fedlex.data.admin.ch/eli/oc/2018/349)), vom 17. Juni 2019 ([AS 2019 1893](https://fedlex.data.admin.ch/eli/oc/2019/346)), vom 29. Nov. 2019 ([AS 2019 4093](https://fedlex.data.admin.ch/eli/oc/2019/714)), vom 6. Juli 2020 ([AS 2020 2831](https://fedlex.data.admin.ch/eli/oc/2020/515)), vom 26. Nov. 2020 ([AS 2020 4933](https://fedlex.data.admin.ch/eli/oc/2020/878)) und vom 17. Aug. 2021, in Kraft seit 18. Aug. 2021 ([AS 2021 491](https://fedlex.data.admin.ch/eli/oc/2021/491)).
-[^annex6-lvlu1-1]: Dieser Anhang wird in der AS nicht veröffentlicht. Er kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern bestellt oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.
+[^t-2]: Bereinigt gemäss Ziff. I der V des WBF vom 27. Jan. 2016 ([AS 2016 383](https://fedlex.data.admin.ch/eli/oc/2016/57)), vom 17. Mai 2016 ([AS 2016 1477](https://fedlex.data.admin.ch/eli/oc/2016/281)), vom 31. Okt. 2016 ([AS 2016 3699](https://fedlex.data.admin.ch/eli/oc/2016/623)), vom 26. Jan. 2017 ([AS 2017 243](https://fedlex.data.admin.ch/eli/oc/2017/59)), vom 19. Juni 2018 ([AS 2018 2421](https://fedlex.data.admin.ch/eli/oc/2018/349)), vom 17. Juni 2019 ([AS 2019 1893](https://fedlex.data.admin.ch/eli/oc/2019/346)), vom 29. Nov. 2019 ([AS 2019 4093](https://fedlex.data.admin.ch/eli/oc/2019/714)), vom 6. Juli 2020 ([AS 2020 2831](https://fedlex.data.admin.ch/eli/oc/2020/515)), vom 26. Nov. 2020 ([AS 2020 4933](https://fedlex.data.admin.ch/eli/oc/2020/878)), vom 17. Aug. 2021 ([AS 2021 491](https://fedlex.data.admin.ch/eli/oc/2021/491)) und vom 2. Aug. 2022, in Kraft seit 3. Aug. 2022 um 18.00 Uhr ([AS 2022 435](https://fedlex.data.admin.ch/eli/oc/2022/435)).
+[^annex6-lvlu1-1]: Dieser Anhang wird weder in der AS noch in der SR veröffentlicht. Sein Inhalt kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2022/435](https://fedlex.data.admin.ch/eli/oc/2022/435) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 7[^t-3]
 
@@ -613,4 +615,4 @@ Anhang 7[^t-3]
 [^annex7-lvlu1-1]
 
 [^t-3]: Bereinigt gemäss Ziff. I der V des WBF vom 17. Mai 2016 ([AS 2016 1477](https://fedlex.data.admin.ch/eli/oc/2016/281)), vom 1. Mai 2017 ([AS 2017 2697](https://fedlex.data.admin.ch/eli/oc/2017/273)), vom 23. April 2018 ([AS 2018 1657](https://fedlex.data.admin.ch/eli/oc/2018/245)), vom 7. Mai 2019 ([AS 2019 1341](https://fedlex.data.admin.ch/eli/oc/2019/261)), vom 29. April 2020 ([AS 2020 1411](https://fedlex.data.admin.ch/eli/oc/2020/278)), vom 27. April 2021 ([AS 2021 248](https://fedlex.data.admin.ch/eli/oc/2021/248)) und vom 24. Mai 2022, in Kraft seit 25. Mai 2022 um 18.00 Uhr ([AS 2022 316](https://fedlex.data.admin.ch/eli/oc/2022/316)).
-[^annex7-lvlu1-1]: Dieser Anhang wird in der AS nicht veröffentlicht. Der Inhalt des Anhangs kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern, bestellt werden oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Wirtschaftsbeziehungen &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.
+[^annex7-lvlu1-1]: Dieser Anhang wird weder in der AS noch in der SR veröffentlicht. Sein Inhalt kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2022/435](https://fedlex.data.admin.ch/eli/oc/2022/435) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
