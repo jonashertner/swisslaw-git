@@ -4,11 +4,11 @@ title: "Verordnung vom 19. Juni 1995 über die Arbeits- und Ruhezeit der berufsm
 short: ARV 1
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031"
 language: de
-version: 2022-02-02
+version: 2022-08-03
 adopted: 1995-06-19
 in_force: 1995-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031/20220202/de/xml/fedlex-data-admin-ch-eli-cc-1995-4031_4031_4031-20220202-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4031_4031_4031/20220202/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031/20220803/de/xml/fedlex-data-admin-ch-eli-cc-1995-4031_4031_4031-20220803-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4031_4031_4031/20220803/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4031_4031_4031/20220202/de"
 
 (Chauffeurverordnung, ARV 1)
 
-vom 19. Juni 1995 (Stand am 2. Februar 2022)
+vom 19. Juni 1995 (Stand am 3. August 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -898,7 +898,7 @@ Mit Busse wird bestraft, wer die Kontrollbestimmungen (Art. 13–18) verletzt, i
 [^24-1]: Ausdruck gemäss Art. 1 Ziff. 21 der V vom 22. Juni 1998, in Kraft seit 1. Jan. 1998 ([AS 1998 1796](https://fedlex.data.admin.ch/eli/oc/1998/1796_1796_1796)).
 [^24-2]: Ausdruck gemäss Art. 1 Ziff. 21 der V vom 22. Juni 1998, in Kraft seit 1. Jan. 1998 ([AS 1998 1796](https://fedlex.data.admin.ch/eli/oc/1998/1796_1796_1796)).
 [^24-3]: Eingefügt durch Ziff. I der V vom 29. März 2006, in Kraft seit 1. Nov. 2006 ([AS 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
-[^24-4]: Eingefügt durch Ziff. I der V vom 29. März 2006, in Kraft seit 1. Nov. 2006 ([AS 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
+[^24-4]: Eingefügt durch Ziff. I der V vom 29. März 2006, in Kraft seit 1. Nov. 2006 ([AS 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)). Die Berichtigung vom 3. Aug. 2022 betrifft nur den französischen Text ([AS 2022 434](https://fedlex.data.admin.ch/eli/oc/2022/434)).
 [^24-5]: Eingefügt durch Ziff. I der V vom 29. Juni 2011, in Kraft seit 1. Okt. 2011 ([AS 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
 
 ## 8. Abschnitt: Übergangsbestimmungen****

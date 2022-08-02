@@ -4,11 +4,11 @@ title: "Ordonnance du 19 juin 1995 sur la durée du travail et du repos des cond
 short: OTR 1
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031"
 language: fr
-version: 2022-02-02
+version: 2022-08-03
 adopted: 1995-06-19
 in_force: 1995-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031/20220202/fr/xml/fedlex-data-admin-ch-eli-cc-1995-4031_4031_4031-20220202-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4031_4031_4031/20220202/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031/20220803/fr/xml/fedlex-data-admin-ch-eli-cc-1995-4031_4031_4031-20220803-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4031_4031_4031/20220803/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4031_4031_4031/20220202/fr"
 
 (Ordonnance sur les chauffeurs, OTR 1)
 
-du 19 juin 1995 (Etat le 2 février 2022)
+du 19 juin 1995 (Etat le 3 août 2022)
 
 Le Conseil fédéral suisse,
 
@@ -892,14 +892,14 @@ Sera puni de l’amende quiconque enfreint les dispositions sur le contrôle (ar
 
 <sup>3</sup> L’Office fédéral des routes détermine la forme et l’aspect des cartes de tachygraphe en accord avec les prescriptions internationales et les diffuse.[^24-3]
 
-<sup>4</sup> L’OFDF est compétent pour délivrer, retirer et déclarer non valables les cartes d’entreprises.[^24-4]
+<sup>4</sup> L’OFDF est compétent pour délivrer, retirer et déclarer non valables les cartes d’atelier.[^24-4]
 
 <sup>5</sup> L’Office fédéral des routes est compétent pour délivrer, retirer et déclarer non valables les cartes de conducteur et les cartes d’entreprises.[^24-5]
 
 [^24-1]: Nouvelle expression selon l’art. 1 ch. 21 de l’O du 22 juin 1998, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1998 1796](https://fedlex.data.admin.ch/eli/oc/1998/1796_1796_1796)).
 [^24-2]: Nouvelle expression selon l’art. 1 ch. 21 de l’O du 22 juin 1998, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1998 1796](https://fedlex.data.admin.ch/eli/oc/1998/1796_1796_1796)).
 [^24-3]: Introduit par le ch. I de l’O du 29 mars 2006, en vigueur depuis le 1<sup>er</sup> nov. 2006 ([RO 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
-[^24-4]: Introduit par le ch. I de l’O du 29 mars 2006, en vigueur depuis le 1<sup>er</sup> nov. 2006 ([RO 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
+[^24-4]: Introduit par le ch. I de l’O du 29 mars 2006, en vigueur depuis le 1<sup>er</sup> nov. 2006 ([RO 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)). Erratum du 3 aôut 2022 ([RO 2022 434](https://fedlex.data.admin.ch/eli/oc/2022/434)).
 [^24-5]: Introduit par le ch. I de l’O du 29 juin 2011, en vigueur depuis le 1<sup>er</sup> oct. 2011 ([RO 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
 
 ## Section 8 Dispositions transitoires****

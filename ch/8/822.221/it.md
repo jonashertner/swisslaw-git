@@ -4,11 +4,11 @@ title: "Ordinanza del 19 giugno 1995 sulla durata del lavoro e del riposo dei co
 short: OLR 1
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031"
 language: it
-version: 2022-02-02
+version: 2022-08-03
 adopted: 1995-06-19
 in_force: 1995-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031/20220202/it/xml/fedlex-data-admin-ch-eli-cc-1995-4031_4031_4031-20220202-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4031_4031_4031/20220202/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031/20220803/it/xml/fedlex-data-admin-ch-eli-cc-1995-4031_4031_4031-20220803-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4031_4031_4031/20220803/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4031_4031_4031/20220202/it"
 
 (Ordinanza per gli autisti, OLR 1)[^t-1]
 
-del 19 giugno 1995 (Stato 2 febbraio 2022)
+del 19 giugno 1995 (Stato 3 agosto 2022) (Stato 3 agosto 2022)
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
 
@@ -900,7 +900,7 @@ Nei casi di cui al capoverso 1 vigono le seguenti disposizioni:
 [^24-1]: Nuova espr. giusta l’art. 1 n. 21 dell’O del 22 giu. 1998, in vigore dal 1° gen. 1998 ([RU 1998 1796](https://fedlex.data.admin.ch/eli/oc/1998/1796_1796_1796)).
 [^24-2]: Nuova espr. giusta l’art. 1 n. 21 dell’O del 22 giu. 1998, in vigore dal 1° gen. 1998 ([RU 1998 1796](https://fedlex.data.admin.ch/eli/oc/1998/1796_1796_1796)).
 [^24-3]: Introdotto dal n. I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
-[^24-4]: Introdotto dal n. I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
+[^24-4]: Introdotto dal n. I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)). La correzione del 3 ago. 2022 concerne soltanto il testo francese ([RU 2022 434](https://fedlex.data.admin.ch/eli/oc/2022/434)).
 [^24-5]: Introdotto dal n. I dell’O del 29 giu. 2011, in vigore dal 1° ott. 2011 ([RU 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
 
 ## Sezione 8: Disposizioni transitorie****
