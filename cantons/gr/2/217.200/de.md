@@ -3,13 +3,13 @@ canton: GR
 number: "217.200"
 title: Verordnung über die Gebühren der Grundbuchämter
 language: de
-version: 2007-01-01
-corrected: 2010-08-03
-version_adopted: 2006-12-12
+version: 2015-01-01
+corrected: 2022-08-10
+version_adopted: 2014-10-20
 adopted: 2000-12-05
 in_force: 2001-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/217.200"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/68/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/2228/pdf_file"
 text: pdf
 ---
 
@@ -34,7 +34,7 @@ I. Allgemeine Bestimmungen
 
 <sup>2</sup> Die Gebühren für die Amtsverrichtungen des Grundbuchverwalters als Notariatsperson richten sich nach der Verordnung über die Notariatsgebühren[^1-1].
 
-[^1-1]: BR 210.370 1.01.2007 1
+[^1-1]: BR 210.370 01.01.2015 1
 
 #### Art. 2
 
@@ -78,7 +78,7 @@ Der Grundbuchverwalter kann zur Sicherstellung seiner Gebühren und Auslagen Vor
 
 <sup>2</sup> Für Eintragungen, die von Amtsstellen angeordnet werden, sind die Gebühren vom Eigentümer zu erheben.
 
-[^6-1]: Fassung gemäss Verordnung über die Anpassung von Regierungsverordnungen an das Verwaltungsrechtspflegegesetz; AGS 2006, KA 2006\_5025 bzw. gemäss Anhang 2 RVOV, AGS 2006, KA 2006\_ 4281; am 1. Januar 2007 in Kraft getreten. 2 1.01.2007
+[^6-1]: Fassung gemäss Verordnung über die Anpassung von Regierungsverordnungen an das Verwaltungsrechtspflegegesetz; AGS 2006, KA 2006\_5025 bzw. gemäss Anhang 2 RVOV, AGS 2006, KA 2006\_ 4281; am 1. Januar 2007 in Kraft getreten. 2 01.01.2015
 
 #### Art. 7
 
@@ -146,11 +146,13 @@ Fehlt in dieser Verordnung ein Gebührenansatz, so werden die Gebühren für die
 
 **3**
 
+**1 ‰**
+
 **Fr. 50.– Fr. 15 000.–**
 
-**4**
+**Fr. 250.– Fr. 100.– Fr. 500.– Fr. 3000.–**
 
-1.01.2007 d) Nicht preislich limitierte Vorkaufsrechte 1 ‰ Minimum Maximum - Einräumung im Sinne von Artikel 712c ZGB
+01.01.2015 d) Nicht preislich limitierte Vorkaufsrechte 1 ‰ Minimum Maximum - Einräumung im Sinne von Artikel 712c ZGB
 
 #### Art. 13
 
@@ -180,21 +182,17 @@ Fehlt in dieser Verordnung ein Gebührenansatz, so werden die Gebühren für die
 
 **Fr. 50.– Fr. 7 500.–**
 
-- d) Erbteilung, Ehevertrag, Realteilung von Grundstükken, die im Miteigentum oder Gesamteigentum mehrer Personen stehen, Umwandlung von Miteigentum in Gesamteigentum und umgekehrt, Änderung des Eigentumsverhältnisses nach dem Grundsatz der Gesamtrechtsnachfolge, wie Fusion von Aktiengesellschaften, Kommanditaktiengesellschaften und Genossenschaften, Umwandlung einer Aktiengesellschaft in eine Gesellschaft mit beschränkter Haftung oder umgekehrt (vom Grundstückswert) Minimum Maximum
+- d)[^13-1]Erbteilung, Ehevertrag, Realteilung von Grundstücken, die im Miteigentum oder Gesamteigentum mehrer Personen stehen, Umwandlung von Miteigentum in Gesamteigentum und umgekehrt (vom Grundstückswert) Minimum Maximum d<sup>bis</sup>)[^13-2]Änderung des Eigentumseintrags aufgrund von Tatbeständen nach dem Fusionsgesetz[^13-3]:
+
+**Fr. 50.– Fr. 100.– Fr. 2000.–**
 
 **1 ‰**
 
 **Fr. 50.– Fr. 15 000.–**
 
-- e) Ein- und Austritt von Mitgliedern einer Gesellschaft oder Gemeinschaft zur gesamten Hand (vom Handänderungswert) Minimum Maximum
-
 **1 ‰**
 
 **Fr. 50.– Fr. 15 000.–**
-
-**1 ‰**
-
-- f) Gütliche Vereinbarung, Expropriationsentscheid und Ersitzung Minimum Maximum
 
 **Fr. 50.– Fr. 5 000.–**
 
@@ -206,9 +204,19 @@ Fehlt in dieser Verordnung ein Gebührenansatz, so werden die Gebühren für die
 
 **Fr. 50.– Fr. 15 000.–**
 
-**Fr. 50.– Fr. 10.–**
+Fusion, Spaltung, Vermögensübertragung pro Grundstück - bis 5 Grundstücke je - jedes weitere Grundstück Minimum Maximum Umwandlung - pro Grundstück Minimum Maximum e) Ein- und Austritt von Mitgliedern einer Gesellschaft oder Gemeinschaft zur gesamten Hand (vom Handänderungswert) Minimum Maximum f) Gütliche Vereinbarung, Expropriationsentscheid und Ersitzung Minimum Maximum g) Parzellierung, Parzellenvereinigung, Grenzänderung, Quartierplan und Landumlegung, wobei Umfang und Bedeutung zu berücksichtigen sind Minimum Maximum h) Begründung von Stockwerkeigentum an Liegen schaften und selbständigen und dauernden Baurechten (vom Gesamtwert: Baukosten und Bodenwert bei Neubauten, amtlicher Verkehrswert plus eventuelle Baukosten bei bestehenden Bauten) Minimum Maximum i) Nachtrag zur Begründung von Stockwerkeigentum, wobei Umfang und Bedeutung des Nachtrages zu berücksichtigen sind Minimum Maximum j) Grundpfandrecht (von der Pfandsumme) 1 ‰ Minimum Maximum k) Umwandlung einer Grundpfandverschreibung in einen Schuldbrief und umgekehrt, Umwandlung einer Maximal- in eine Kapitalgrundpfandverschreibung und umgekehrt, sowie Pfandrechtserneuerung für das erste Blatt für jedes weitere Blatt l) - Pfandentlassung, Nachgangserklärung, leere Pfandstelle, vorbehaltener Vorgang, Änderung Maximalzinsfuss, Rangänderung je Blatt Minimum - Pfandvermehrung, Pfandwechsel je Blatt m) Dienstbarkeiten und Grundlasten
 
-**Fr. 10.– Fr. 20.– Fr. 20.–**
+**5**
+
+**Fr. 25.–**
+
+01.01.2015 - Baurecht, Wohnrecht und Nutzniessung oder Grundlast (vom zwanzigfachen Wert der Jahresnutzung) Minimum Maximum - übrige Dienstbarkeiten Minimum Maximum n) Namensänderung je Blatt Minimum
+
+[^13-1]: Fassung gemäss RB vom 20. Oktober 2014; am 1. Januar 2015 in Kraft getreten.
+[^13-2]: Einfügung gemäss RB vom 20. Oktober 2014; am 1. Januar 2015 in Kraft getreten.
+[^13-3]: SR 221.301 4 01.01.2015
+
+#### Art. 14
 
 **1 ‰**
 
@@ -217,14 +225,6 @@ Fehlt in dieser Verordnung ein Gebührenansatz, so werden die Gebühren für die
 **1 ‰**
 
 **Fr. 50.– Fr. 15 000.– Fr. 10.– Fr. 20.–**
-
-**5**
-
-1.01.2007 g) Parzellierung, Parzellenvereinigung, Grenzänderung, Quartierplan und Landumlegung, wobei Umfang und Bedeutung zu berücksichtigen sind Minimum Maximum h) Begründung von Stockwerkeigentum an Liegen schaften und selbständigen und dauernden Baurechten (vom Gesamtwert: Baukosten und Bodenwert bei Neubauten, amtlicher Verkehrswert plus eventuelle Baukosten bei bestehenden Bauten) Minimum Maximum i) Nachtrag zur Begründung von Stockwerkeigentum, wobei Umfang und Bedeutung des Nachtrages zu berücksichtigen sind Minimum Maximum j) Grundpfandrecht (von der Pfandsumme) 1 ‰ Minimum Maximum k) Umwandlung einer Grundpfandverschreibung in einen Schuldbrief und umgekehrt, Umwandlung einer Maximal- in eine Kapitalgrundpfandverschreibung und umgekehrt, sowie Pfandrechtserneuerung für das erste Blatt für jedes weitere Blatt l) - Pfandentlassung, Nachgangserklärung, leere Pfandstelle, vorbehaltener Vorgang, Änderung Maximalzinsfuss, Rangänderung je Blatt Minimum - Pfandvermehrung, Pfandwechsel je Blatt m) Dienstbarkeiten und Grundlasten - Baurecht, Wohnrecht und Nutzniessung oder Grundlast (vom zwanzigfachen Wert der Jahresnutzung) Minimum Maximum - übrige Dienstbarkeiten Minimum Maximum n) Namensänderung je Blatt Minimum
-
-1.01.2007
-
-#### Art. 14
 
 **Vormerkung und Anmerkung**
 
@@ -258,17 +258,21 @@ Gläubigerwechsel (pro Pfandrecht) je Blatt Minimum
 
 #### Art. 18
 
-**Andere**
+**Andere Bemühungen**
 
-**Fr. 25.–**
+- a)[^18-1]Auszug aus dem elektronischen Auskunftsportal (Grundbuchgebühr exklusive externe Transaktionskosten)
 
-**Bemühungen**
+**Fr. 50.– Fr. 10.–**
 
-**Fr. 50.–**
+**Fr. 10.– Fr. 20.– Fr. 20.–**
 
-- a) Grundbuchauszug je Seite Minimum Auszug aus dem EDV-Grundbuch oder Auszug in Form einer Fotokopie des Hauptbuchblattes erste Seite jede weitere Seite Minimum
+**Fr. 2.– Fr. 5.– Fr. 50.– Fr. 25.– Fr. 50.–**
 
-**Fr. 25.– Fr. 5.– Fr. 50.– Fr. 30.– Fr. 15.–**
+- Basisauszug
+
+- Erweiterter Auszug Elektronisch beglaubigter Auszug Grundbuchauszug in Papierform je Seite Minimum Auszug in Form einer Fotokopie des Hauptbuchblattes aus dem Papier-Grundbuch erste Seite jede weitere Seite Minimum
+
+**Fr. 5.– Fr. 50.– Fr. 30.– Fr. 15.–**
 
 - b) Handänderungsanzeige jede weitere Anzeige
 
@@ -282,20 +286,18 @@ Gläubigerwechsel (pro Pfandrecht) je Blatt Minimum
 
 - e) Porto, Telefonauslagen, Büralkosten, sowie Fahrspe- werden gesen (letztere gemäss kantonalen Entschädigungsan- sondert besätzen)
 
-**rechnet**
+**rechnet gemäss Stun-**
 
-**6**
+- f) Korrespondenz denansatz (Art. 18 lit. d)
 
-1.01.2007 f) Korrespondenz denansatz (Art. 18 lit. d)
-
-**gemäss Stun-**
+[^18-1]: Fassung gemäss RB vom 20. Oktober 2014; am 1. Januar 2015 in Kraft getreten. 6 01.01.2015
 
 ### IV. Schlussbestimmung
 
 #### Art. 19
 
-**Aufhebung bisherigen Rechts**
+**In-Kraft-Treten, Aufhebung bisherigen Rechts**
 
-Diese Verordnung tritt am 1. Januar 2001 in Kraft und ersetzt die Gebüh- In-Kraft-Treten, renverordnung der Regierung vom 28. Mai 1984[^19-1].
+Diese Verordnung tritt am 1. Januar 2001 in Kraft und ersetzt die Gebührenverordnung der Regierung vom 28. Mai 1984[^19-1].
 
-[^19-1]: AGS 1984, 1282 1.01.2007 7
+[^19-1]: AGS 1984, 1282 01.01.2015 7
