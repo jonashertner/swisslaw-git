@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revisione dell’ordinanza sulla protezione delle acque 2022
 document: Progetto posto in consultazione
 language: it

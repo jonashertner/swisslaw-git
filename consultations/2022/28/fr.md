@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Révision de l’ordonnance sur la protection des eaux 2022
 document: Projet mis en consultation
 language: fr
