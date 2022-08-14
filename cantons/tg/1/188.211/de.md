@@ -4,13 +4,13 @@ number: "188.211"
 title: "Verordnung der Katholischen Synode betreffend die Besoldungen, Taggelder und Entschädigungen"
 short: Besoldungsverordnung
 language: de
-version: 2022-01-01
-valid_until: 2022-08-14
-version_adopted: 2021-11-25
+version: 2022-08-15
+valid_until: 2025-12-31
+version_adopted: 2022-06-13
 adopted: 2001-12-13
 in_force: 2002-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/188.211"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2451/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2540/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Besoldungsverordnung
 
 (Besoldungsverordnung)
 
-vom 13.12.2001 (Stand 01.01.2022)
+vom 13.12.2001 (Stand 15.08.2022)
 
 ## 1. Grundlagen
 
