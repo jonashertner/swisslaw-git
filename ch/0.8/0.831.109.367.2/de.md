@@ -3,11 +3,11 @@ sr: "0.831.109.367.2"
 title: Abkommen vom 9. September 2021 zur Koordinierung der sozialen Sicherheit zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/818"
 language: de
-version: 2022-02-21
+version: 2022-08-16
 adopted: 2021-09-09
 in_force: 2021-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/818/20220221/de/xml/fedlex-data-admin-ch-eli-cc-2021-818-20220221-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/818/20220221/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/818/20220816/de/xml/fedlex-data-admin-ch-eli-cc-2021-818-20220816-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/818/20220816/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **2021** 818
 
 Abgeschlossen am 9. September 2021 Provisorisch angewendet durch Notenaustausch ab 1. November 2021
 
-(Stand am 21. Februar 2022)
+(Stand am 16. August 2022)
 
 Die Schweizerische Eidgenossenschaft («Schweiz») und das Vereinigte Königreich von Grossbritannien und Nordirland («Vereinigtes Königreich») (zusammen «die Staaten» und einzeln «der Staat»)
 
@@ -35,8 +35,6 @@ sind wie folgt übereingekommen:
 #### Art. 1
 
 **Begriffsbestimmungen**
-
-<sup>(1)</sup>
 
 Für die Zwecke dieses Abkommens bezeichnet der Ausdruck:
 
@@ -79,7 +77,7 @@ Für die Zwecke dieses Abkommens bezeichnet der Ausdruck:
 - q) «Versicherter» in Bezug auf den Geltungsbereich von Titel III Kapitel 1 und 3, jede Person, die unter Berücksichtigung der Bestimmungen dieses Abkommens die für einen Leistungsanspruch nach den Rechtsvorschriften des gemäss Titel II zuständigen Staates vorgesehenen Voraussetzungen erfüllt;
 - r) «Rechtmässiger Aufenthalt» Wohnort oder Aufenthalt in Übereinstimmung mit den Immigrationsbestimmungen des betreffenden Staates;
 - s) «Rechtsvorschriften» für jeden Staat die Gesetze, Verordnungen und sonstigen Rechtsvorschriften sowie alle anderen Durchführungsvorschriften in Bezug auf den Geltungsbereich dieses Abkommens nach Artikel 6; ausgenommen sind Vertragsbestimmungen, die nicht der Erfüllung einer Versicherungspflicht dienen, die sich aus den unter diesem Buchstaben genannten Rechts- und Verwaltungsvorschriften ergibt, oder die Gegenstand einer Entscheidung der öffentlichen Stellen waren, die sie verbindlich vorschreibt oder deren Anwendungsbereich erweitert, sofern der betreffende Staat eine entsprechende Erklärung abgibt, die dem Gemischten Verwaltungsausschuss mitgeteilt wird;
-- t) «Verbindungsstelle» eine von einer zuständigen Behörde für einen oder mehrere der in Artikel 6 genannte Zweige der sozialen Sicherheit bezeichnete Stelle, die Anfragen und Verwaltungshilfeersuchen für die Zwecke der Durchführung dieses Abkommens beantwortet und die die ihr nach Titel IV des Anhangs 1 zugewiesenen Aufgaben zu erfüllen hat;
+- t)[^1-1] «Verbindungsstelle» eine von einer zuständigen Behörde für einen oder mehrere der in Artikel 6 dieses Abkommens genannte Zweige der sozialen Sicherheit bezeichnete Stelle, die Anfragen und Verwaltungshilfeersuchen für die Zwecke der Durchführung dieses Abkommens beantwortet und die die ihr nach Titel IV des Anhangs 1 zugewiesenen Aufgaben zu erfüllen hat;
 - u) «Sachleistungen bei Pflegebedürftigkeit» eine Sach- oder Geldleistung, die dazu dient, den Pflegebedürfnissen einer Person Rechnung zu tragen, die aufgrund einer Beeinträchtigung erhebliche Unterstützung benötigt, einschliesslich, aber nicht beschränkt auf Unterstützung durch eine oder mehrere andere Personen, um grundlegende Tätigkeiten des täglichen Lebens über einen längeren Zeitraum auszuüben, um ihre persönliche Autonomie zu unterstützen; dies umfasst auch Leistungen, die einer Person, die diese Unterstützung leistet, zum selben Zweck gewährt werden:
 - v)
 
@@ -97,7 +95,7 @@ Für die Zwecke dieses Abkommens bezeichnet der Ausdruck:
 - aa) «Versicherungszeiten» die Beitragszeiten, Beschäftigungszeiten oder Zeiten einer selbstständigen Erwerbstätigkeit, die nach den Rechtsvorschriften, nach denen sie zurückgelegt worden sind oder als zurückgelegt gelten, als Versicherungszeiten bestimmt oder anerkannt sind, sowie alle gleichgestellten Zeiten, soweit sie nach diesen Rechtsvorschriften als den Versicherungszeiten gleichwertig anerkannt sind;
 - bb) «Wohnzeiten» die Zeiten, die nach den Rechtsvorschriften, nach denen sie zurückgelegt worden sind oder als zurückgelegt gelten, als solche bestimmt oder anerkannt sind;
 - cc) «personenbezogene Daten» alle Daten, die eine identifizierte oder identifizierbare natürliche Person betreffen oder sich auf sie beziehen;
-- dd) «Flüchtling» eine Person im Sinne des Artikels 1 des am 28. Juli 1951[^1-1] in Genf unterzeichneten Abkommens über die Rechtsstellung der Flüchtlinge;
+- dd) «Flüchtling» eine Person im Sinne des Artikels 1 des am 28. Juli 1951[^1-2] in Genf unterzeichneten Abkommens über die Rechtsstellung der Flüchtlinge;
 - ee) «eingetragener Sitz oder Niederlassung» den satzungsmässigen Sitz oder die Niederlassung, an dem/der die wesentlichen Entscheidungen des Unternehmens getroffen und die Handlungen zu dessen zentraler Verwaltung vorgenommen werden;
 - ff) «Wohnort» (ausser in Artikel 3) den Ort des gewöhnlichen Aufenthalts einer Person;
 - gg) «besondere beitragsunabhängige Geldleistungen» die beitragsunabhängigen Geldleistungen,
@@ -111,7 +109,7 @@ Für die Zwecke dieses Abkommens bezeichnet der Ausdruck:
   - (ii) deren Finanzierung ausschliesslich durch obligatorische Steuern zur Deckung der allgemeinen öffentlichen Ausgaben erfolgt und deren Gewährung und Berechnung nicht von Beiträgen hinsichtlich der Leistungsempfänger abhängen. Jedoch sind Leistungen, die zusätzlich zu einer beitragsabhängigen Leistung gewährt werden, nicht allein aus diesem Grund als beitragsabhängige Leistungen zu betrachten;
 
 - (hh) «Sondersystem für Beamte» jedes System der sozialen Sicherheit, das sich von dem allgemeinen System der sozialen Sicherheit, das auf die Arbeitnehmer des betreffenden Staates anwendbar ist, unterscheidet und das für alle oder bestimmte Gruppen von Beamten unmittelbar gilt;
-- (ii) «Staatenloser» eine Person im Sinne des Artikels 1 des am 28. September 1954[^1-2] in New York unterzeichneten Abkommens über die Rechtsstellung der Staatenlosen;
+- (ii) «Staatenloser» eine Person im Sinne des Artikels 1 des am 28. September 1954[^1-3] in New York unterzeichneten Abkommens über die Rechtsstellung der Staatenlosen;
 - (jj) «Aufenthalt» den vorübergehenden Aufenthalt;
 - (kk) «Schweizer Staatsangehöriger» ein Schweizer Bürger gemäss der Bundesverfassung der Schweizerischen Eidgenossenschaft;
 - (ll) «Staatsangehöriger des Vereinigten Königreichs»
@@ -119,8 +117,9 @@ Für die Zwecke dieses Abkommens bezeichnet der Ausdruck:
   - (ii) eine Person, die aufgrund von Teil IV des British Nationality Act 1981 britischer Staatsbürger ist und das Aufenthaltsrecht im Vereinigten Königreich hat und daher von der Einwanderungskontrolle des Vereinigten Königreichs befreit ist,
   - (iii) ein Bürger der britischen Überseegebiete, der seine Staatsbürgerschaft durch eine Verbindung mit Gibraltar erwirbt.
 
-[^1-1]: [SR 0.142.301](https://fedlex.data.admin.ch/eli/cc/1968/1189_1233_1148)
-[^1-2]: [SR 0.142.40](https://fedlex.data.admin.ch/eli/cc/1972/2320_2374_2150)
+[^1-1]: Berichtigung vom 16. Aug. 2022 ([AS 2022 450](https://fedlex.data.admin.ch/eli/oc/2022/450)).
+[^1-2]: [SR 0.142.301](https://fedlex.data.admin.ch/eli/cc/1968/1189_1233_1148)
+[^1-3]: [SR 0.142.40](https://fedlex.data.admin.ch/eli/cc/1972/2320_2374_2150)
 
 #### Art. 2
 
@@ -160,7 +159,9 @@ Ungeachtet des Absatzes 3 wendet das Vereinigte Königreich die Bestimmungen die
 
 <sup>(1)</sup> Dieses Abkommen gilt für Personen, die sich rechtmässig in der Schweiz oder im Vereinigten Königreich aufhalten.
 
-<sup>(2)</sup> Absatz 1 berührt nicht die Ansprüche auf Geldleistungen, die sich auf frühere Zeiten rechtmässigen Aufenthalts von Personen beziehen, die unter Artikel 2 fallen.
+<sup>(2)</sup> Absatz 1 dieses Artikels berührt nicht die Ansprüche auf Geldleistungen, die sich auf frühere Zeiten rechtmässigen Aufenthalts von Personen beziehen, die unter Artikel 2 fallen.[^3-1]
+
+[^3-1]: Berichtigung vom 16. Aug. 2022 ([AS 2022 450](https://fedlex.data.admin.ch/eli/oc/2022/450)).
 
 #### Art. 4
 
@@ -237,12 +238,14 @@ Diese Bestimmung gilt nicht in Bezug auf die schweizerischen Rechtsvorschriften 
 
 #### Art. 9
 
-**Angestellte von Seefahrtsunternehmen Gleichbehandlung von Leistungen, Einkünften, Sachverhalten oder Ereignissen**
+**Gleichbehandlung von Leistungen, Einkünften, Sachverhalten oder Ereignissen[^9-1]**
 
 Sofern in diesem Abkommen nichts anderes bestimmt ist, gewährleisten die Staaten die Anwendung des Grundsatzes der Gleichbehandlung von Leistungen, Einkünften, Sachverhalten oder Ereignissen wie folgt:
 
 - a) Hat nach den Rechtsvorschriften des zuständigen Staates der Bezug von Leistungen der sozialen Sicherheit oder sonstiger Einkünfte bestimmte Rechtswirkungen, so sind die entsprechenden Rechtsvorschriften auch bei Bezug von nach den Rechtsvorschriften des anderen Staates gewährten gleichartigen Leistungen oder bei Bezug von im anderen Staat erzielten Einkünften anwendbar.
 - b) Hat nach den Rechtsvorschriften des zuständigen Staates der Eintritt bestimmter Sachverhalte oder Ereignisse Rechtswirkungen, so berücksichtigt dieser Staat die im anderen Staat eingetretenen entsprechenden Sachverhalte oder Ereignisse, als ob sie im eigenen Hoheitsgebiet eingetreten wären.
+
+[^9-1]: Berichtigung vom 16. Aug. 2022 ([AS 2022 450](https://fedlex.data.admin.ch/eli/oc/2022/450)).
 
 #### Art. 10
 
@@ -273,7 +276,7 @@ Sofern nichts anderes bestimmt ist, wird aufgrund dieses Abkommens ein Anspruch 
 
 #### Art. 13
 
-**Familienangehörige**
+**Allgemeine Regelung[^13-1]**
 
 <sup>(1)</sup> Personen, für die dieses Abkommen gilt, unterliegen den Rechtsvorschriften nur eines Staates. Welche Rechtsvorschriften dies sind, bestimmt sich nach diesem Titel.
 
@@ -293,6 +296,8 @@ Vorbehaltlich der Artikel 14 bis 17 gilt:
 
 - (6) a) Familienangehörige, die bei einer Person wohnen oder sich aufhalten, die aufgrund der Anwendung von Absatz 3 Buchstabe (b), Artikel 14 oder Artikel 17 den Rechtsvorschriften eines Staates unterliegt, unterliegen auch den Rechtsvorschriften dieses Staates.
 - b) Buchstabe (a) gilt nicht für einen Familienangehörigen, der eine Beschäftigung oder eine selbständige Erwerbstätigkeit ausübt oder Beamter ist.
+
+[^13-1]: Berichtigung vom 16. Aug. 2022 ([AS 2022 450](https://fedlex.data.admin.ch/eli/oc/2022/450)).
 
 #### Art. 14
 
@@ -630,13 +635,16 @@ Soweit dies in den Rechtsvorschriften des Staates, der die Leistung bei Invalidi
 
 **Allgemeine Bestimmungen**
 
-<sup>(1)</sup> Wird ein Leistungsantrag gestellt, so stellen die zuständigen Träger die Leistungsansprüche nach den Rechtsvorschriften aller Staaten fest, die für die betreffende Person galten, es sei denn, die betreffende Person beantragt ausdrücklich, die Feststellung der nach den Rechtsvorschriften eines oder beider Staaten erworbenen Ansprüche auf Leistungen bei Alter aufzuschieben.
+<sup>(1)</sup> Wird ein Leistungsantrag gestellt, so stellen die zuständigen Träger die Leistungsansprüche nach den Rechtsvorschriften der Staaten fest, die für die betreffende Person galten, es sei denn, die betreffende Person beantragt ausdrücklich, die Feststellung der nach den Rechtsvorschriften eines oder beider Staaten erworbenen Ansprüche auf Leistungen bei Alter aufzuschieben.[^47-1]
 
-<sup>(2)</sup> Erfüllt die betreffende Person zu einem bestimmten Zeitpunkt nicht oder nicht mehr die Voraussetzungen für die Leistungsgewährung nach den Rechtsvorschriften aller Staaten, die für sie galten, so lassen die Träger, nach deren Rechtsvorschriften die Voraussetzungen erfüllt sind, bei der Berechnung nach Artikel 49 Absatz 1 Buchstabe (a) oder (b) die Zeiten, die nach den Rechtsvorschriften zurückgelegt wurden, deren Voraussetzungen nicht oder nicht mehr erfüllt sind, unberücksichtigt, wenn diese Berücksichtigung zu einem niedrigeren Leistungsbetrag führt.
+<sup>(2)</sup> Erfüllt die betreffende Person zu einem bestimmten Zeitpunkt nicht oder nicht mehr die Voraussetzungen für die Leistungsgewährung nach den Rechtsvorschriften der Staaten, die für sie galten, so lassen die Träger, nach deren Rechtsvorschriften die Voraussetzungen erfüllt sind, bei der Berechnung nach Artikel 49 Absatz 1 Buchstabe (a) oder (b) die Zeiten, die nach den Rechtsvorschriften zurückgelegt wurden, deren Voraussetzungen nicht oder nicht mehr erfüllt sind, unberücksichtigt, wenn diese Berücksichtigung zu einem niedrigeren Leistungsbetrag führt.[^47-2]
 
 <sup>(3)</sup> Hat die betreffende Person ausdrücklich beantragt, die Feststellung von Leistungen bei Alter aufzuschieben, so gilt Absatz 2 entsprechend.
 
 <sup>(4)</sup> Sobald die Voraussetzungen nach den anderen Rechtsvorschriften erfüllt sind oder die betreffende Person die Feststellung einer nach Absatz 1 aufgeschobenen Leistung bei Alter beantragt, werden die Leistungen von Amts wegen neu berechnet, es sei denn, die Zeiten, die nach den anderen Rechtsvorschriften zurückgelegt wurden, sind bereits nach Absatz 2 oder 3 berücksichtigt worden.
+
+[^47-1]: Berichtigung vom 16. Aug. 2022 ([AS 2022 450](https://fedlex.data.admin.ch/eli/oc/2022/450)).
+[^47-2]: Berichtigung vom 16. Aug. 2022 ([AS 2022 450](https://fedlex.data.admin.ch/eli/oc/2022/450)).
 
 #### Art. 48
 
@@ -1052,9 +1060,11 @@ Die Bestimmungen des Abkommens von 1968 gelten weiterhin in Bezug auf:
 
 *Zu Urkunde dessen* haben die Bevollmächtigten der beiden Regierungen dieses Abkommen unterzeichnet. Geschehen zu London am 9. September 2021, in zwei Urschriften, eine in englischer, die andere in deutscher Sprache; beide Fassungen sind in gleicher Weise verbindlich. Für die Schweizerische Eidgenossenschaft: Alain Berset Für das Vereinigte Königreich von Grossbritannien und Nordirland: Nigel Adams
 
-Anhang 1
+Anhang 1[^t-1]
 
 ## Durchführungsteil
+
+[^t-1]: Bereinigt gemäss Berichtigung vom 16. Aug. 2022 ([AS 2022 450](https://fedlex.data.admin.ch/eli/oc/2022/450)).
 
 ### Titel I: Allgemeine Bestimmungen
 
@@ -1180,7 +1190,10 @@ Ungeachtet anderer Bestimmungen dieses Abkommens werden in Fällen, in denen die
 Besteht eine Meinungsverschiedenheit zwischen den Trägern der Staaten über die Feststellung des Wohnorts einer Person, für die dieses Abkommen gilt, so ermitteln diese Träger im gegenseitigen Einvernehmen den Mittelpunkt der Interessen dieser Person und stützen sich dabei auf eine Gesamtbewertung aller vorliegenden Angaben zu den einschlägigen Fakten, wozu gegebenenfalls die Folgenden gehören können:
 
 - a) Dauer und Kontinuität des Aufenthalts im Gebiet der Staaten;
-- b) die Situation der Person, einschliesslich
+- b)
+
+  die Situation der Person, einschliesslich:
+
   - (i) der Art und der spezifischen Merkmale jeglicher ausgeübten Tätigkeit, insbesondere des Ortes, an dem eine solche Tätigkeit in der Regel ausgeübt wird, der Dauerhaftigkeit der Tätigkeit und der Dauer jedes Arbeitsvertrags,
   - (ii) die familiären Verhältnisse und familiären Bindungen der Person,
   - (iii) der Ausübung einer nicht bezahlten Tätigkeit,
@@ -1272,7 +1285,7 @@ Der Mindestdauer, in der die Person ihre Tätigkeit bereits ausgeübt haben muss
 
 <sup>(6)</sup> Für die Zwecke des Artikels 15 dieses Abkommens unterliegen Mitglieder von Flug- oder Kabinenbesatzungen, die gewöhnlich Leistungen im Zusammenhang mit Fluggästen oder Luftfracht in beiden Staaten erbringen, den Rechtsvorschriften des Staats, in dem sich ihre Heimatbasis gemäss der Definition in Artikel 1 dieses Abkommens befindet.
 
-<sup>(7)</sup> Für die Bestimmung der anzuwendenden Rechtsvorschriften nach Artikel 15 werden marginale Tätigkeiten nicht berücksichtigt. Artikel 15 dieses Anhangs gilt für alle Fälle nach diesem Artikel.
+<sup>(7)</sup> Für die Bestimmung der anzuwendenden Rechtsvorschriften nach Artikel 15 dieses Abkommens werden marginale Tätigkeiten nicht berücksichtigt. Artikel 15 dieses Anhangs gilt für alle Fälle nach diesem Artikel.
 
 <sup>(8)</sup> Bei der Anwendung von Artikel 15 Absatz 3 bezieht sich «eine Person, die gewöhnlich in beiden Staaten eine selbstständige Erwerbstätigkeit ausübt» auf eine Person, die gleichzeitig oder abwechselnd eine oder mehrere gesonderte selbstständige Tätigkeiten in diesen Staaten ausübt, und zwar unabhängig von der Art dieser Tätigkeiten.
 
@@ -1520,11 +1533,15 @@ Verfahren bei Aufenthalt in einem anderen als dem zuständigen Staat
 
 ### Kapitel 2: Leistungen bei Arbeitsunfällen und Berufskrankheiten
 
+#### Art. 25
+
 **Anspruch auf Sach- und Geldleistungen bei Wohnort oder Aufenthalt im nicht zuständigen Staat**
 
 <sup>(1)</sup> Für die Anwendung von Artikel 36 dieses Abkommens gelten die Verfahren nach Artikel 21 bis Artikel 24 dieses Anhangs entsprechend.
 
 <sup>(2)</sup> Gewährt ein Träger des Aufenthalts- oder Wohnstaats besondere Sachleistungen in Verbindung mit einem Arbeitsunfall oder einer Berufskrankheit nach den innerstaatlichen Rechtsvorschriften des Aufenthalts- oder Wohnstaates, so teilt er dies unverzüglich dem zuständigen Träger mit.
+
+#### Art. 26
 
 **Verfahren bei Arbeitsunfällen oder Berufskrankheiten, die im nicht zuständigen Staat eintreten**
 
@@ -1538,6 +1555,8 @@ Verfahren bei Aufenthalt in einem anderen als dem zuständigen Staat
 
 <sup>(5)</sup> Auf Ersuchen des Trägers des Wohn- oder Aufenthaltsorts unterrichtet der zuständige Träger diesen gegebenenfalls von der Entscheidung, in der der Tag der Heilung oder der Konsolidierung der Schäden festgelegt wird, sowie gegebenenfalls von der Entscheidung über die Gewährung einer Rente.
 
+#### Art. 27
+
 **Streitigkeiten hinsichtlich des beruflichen Charakters eines Unfalls oder einer Krankheit**
 
 <sup>(1)</sup> Bestreitet der zuständige Träger die Anwendung der Rechtsvorschriften über Arbeitsunfälle oder Berufskrankheiten nach Artikel 36 Absatz 2 dieses Abkommens, so teilt er dies unverzüglich dem Träger des Wohn- oder Aufenthaltsorts mit, der die Sachleistungen gewährt hat; diese Sachleistungen gelten sodann als Leistungen der Krankenversicherung.
@@ -1550,6 +1569,8 @@ Wird ein Arbeitsunfall oder eine Berufskrankheit festgestellt, so gelten die der
 
 <sup>(3)</sup> Artikel 6 Absatz 6 dieses Anhangs gilt sinngemäss.
 
+#### Art. 28
+
 **Verfahren bei einer in beiden Staaten ausgeübten Tätigkeit, die eine Berufskrankheit verursachen kann**
 
 <sup>(1)</sup> In dem in Artikel 38 dieses Abkommens genannten Fall wird die Meldung oder Anzeige der Berufskrankheit dem für Berufskrankheiten zuständigen Träger des letzten Staates übermittelt, nach dessen Rechtsvorschriften die betroffene Person eine Tätigkeit ausgeübt hat, die diese Krankheit wahrscheinlich verursachen kann.
@@ -1557,6 +1578,8 @@ Wird ein Arbeitsunfall oder eine Berufskrankheit festgestellt, so gelten die der
 Stellt der Träger, an den die Meldung oder Anzeige übermittelt wurde, fest, dass zuletzt nach den Rechtsvorschriften des anderen Staates eine Tätigkeit ausgeübt worden ist, die die betreffende Berufskrankheit verursachen kann, so übermittelt er die Meldung oder Anzeige und alle beigefügten Unterlagen dem entsprechenden Träger dieses Staates.
 
 <sup>(2)</sup> Stellt der Träger des Staates, nach dessen Rechtsvorschriften die betroffene Person zuletzt eine Tätigkeit ausgeübt hat, die die betreffende Berufskrankheit verursachen kann, fest, dass der Betroffene oder seine Hinterbliebenen die Voraussetzungen dieser Rechtsvorschriften nicht erfüllen, z. B. weil die betroffene Person in diesem Staat nie eine Tätigkeit ausgeübt hat, die die Berufskrankheit verursacht hat, oder weil dieser Staat nicht anerkennt, dass es sich um eine Berufskrankheit handelt, so übermittelt dieser Träger die Meldung oder Anzeige und alle beigefügten Unterlagen, einschliesslich der ärztlichen Feststellungen und Gutachten, die der erste Träger veranlasst hat, unverzüglich dem Träger des Staates, nach dessen Rechtsvorschriften die betroffene Person zuvor eine Tätigkeit ausgeübt hat, die die betreffende Berufskrankheit verursachen kann.
+
+#### Art. 29
 
 **Informationsaustausch zwischen Trägern und Zahlung von Vorschüssen bei Einlegung eines Rechtsbehelfs gegen eine ablehnende Entscheidung**
 
@@ -1566,9 +1589,13 @@ Stellt der Träger, an den die Meldung oder Anzeige übermittelt wurde, fest, da
 
 <sup>(3)</sup> Artikel 6 Absatz 6 dieses Anhangs gilt sinngemäss
 
+#### Art. 30
+
 **Verschlimmerung einer Berufskrankheit**
 
 In den in Artikel 39 dieses Abkommens genannten Fällen hat der Antragsteller dem Träger des Staates, bei dem er Leistungsansprüche geltend macht, Informationen über die früher wegen der betreffenden Berufskrankheit gewährten Leistungen zu erteilen. Dieser Träger kann bei jedem Träger, der früher zuständig gewesen ist, die Informationen einholen, die er für erforderlich hält
+
+#### Art. 31
 
 **Bemessung des Grades der Erwerbsminderung im Fall früherer oder späterer Arbeitsunfälle oder Berufskrankheiten**
 
@@ -1576,6 +1603,8 @@ Wurde eine früher oder später eingetretene Erwerbsminderung durch einen Unfall
 
 - a) auf Verlangen des zuständigen Trägers des anderen Staates Angaben über den Grad der früher oder später eingetretenen Erwerbsminderung zu machen sowie nach Möglichkeit Auskünfte zu erteilen, anhand deren festgestellt werden kann, ob die Erwerbsminderung Folge eines Arbeitsunfalls im Sinne der vom Träger des anderen Staates anzuwendenden Rechtsvorschriften ist;
 - b) für die Begründung des Anspruchs und die Festsetzung des Leistungsbetrags nach den von ihm anzuwendenden Rechtsvorschriften den durch diese früheren oder späteren Fälle verursachten Grad der Erwerbsminderung zu berücksichtigen.
+
+#### Art. 32
 
 **Einreichung und Bearbeitung von Anträgen auf Renten oder Zulagen zu Renten**
 
@@ -1585,6 +1614,8 @@ Der Antrag muss die Informationen enthalten, die gemäss den vom zuständigen Tr
 
 ### Kapitel 3: Sterbegeld
 
+#### Art. 33
+
 **Antrag auf Sterbegeld**
 
 Für die Anwendung der Artikel 42 und Artikel 43 dieses Abkommens ist der Antrag auf Sterbegeld entweder beim zuständigen Träger zu stellen oder beim Träger des Wohnorts des Antragstellers, der ihn an den zuständigen Träger weiterleitet.
@@ -1592,6 +1623,8 @@ Für die Anwendung der Artikel 42 und Artikel 43 dieses Abkommens ist der Antrag
 Der Antrag muss die Informationen enthalten, die gemäss den vom zuständigen Träger anzuwendenden Rechtsvorschriften erforderlich sind.
 
 ### Kapitel 4: Leistungen bei Invalidität, Alters- und Hinterbliebenenrenten
+
+#### Art. 34
 
 **Ergänzende Vorschriften für die Berechnung der Leistungen**
 
@@ -1603,11 +1636,15 @@ Der Antrag muss die Informationen enthalten, die gemäss den vom zuständigen Tr
 
 Ist es dem zuständigen Träger aufgrund der von ihm anzuwendenden Rechtsvorschriften nicht möglich, diesen Betrag direkt zu bestimmen, weil die betreffenden Rechtsvorschriften den Versicherungszeiten unterschiedliche Werte zuordnen, so kann ein fiktiver Betrag festgelegt werden. Der Gemischte Verwaltungsausschuss legt die Modalitäten für die Bestimmung dieses fiktiven Betrags fest.
 
+#### Art. 35
+
 **Einreichung von Anträgen auf Alters- und Hinterbliebenenrente**
 
 <sup>(1)</sup> Der Antragsteller reicht einen entsprechenden Antrag beim Träger seines Wohnorts oder beim Träger des Staates ein, dessen Rechtsvorschriften für ihn galten. Galten für die betreffende Person zu keinem Zeitpunkt die Rechtsvorschriften, die der Träger ihres Wohnorts anwendet, so leitet dieser Träger den Antrag an den Träger des Staates weiter, dessen Rechtsvorschriften für sie galten.
 
 <sup>(2)</sup> Der Zeitpunkt der Antragstellung ist für die beteiligten Träger verbindlich.
+
+#### Art. 36
 
 **Angaben und Unterlagen zu Leistungsanträgen**
 
@@ -1616,6 +1653,8 @@ Ist es dem zuständigen Träger aufgrund der von ihm anzuwendenden Rechtsvorschr
 <sup>(2)</sup> Beantragt der Antragsteller gemäss Artikel 47 Absatz 1 dieses Abkommens, dass die Feststellung von Leistungen bei Alter nach den Rechtsvorschriften eines Staates aufgeschoben wird, so hat er dies in seinem Antrag zu erklären und anzugeben, nach welchen Rechtsvorschriften er den Aufschub beantragt. Um dem Antragsteller die Ausübung dieses Rechts zu ermöglichen, teilen die beteiligten Träger ihm auf Verlangen alle ihnen vorliegenden Informationen mit, damit er die Folgen von gleichzeitigen oder nachfolgenden Feststellungen der ihm zustehenden Leistungen abschätzen kann.
 
 <sup>(3)</sup> Zieht der Antragsteller einen Antrag auf Leistungen zurück, die nach den Rechtsvorschriften eines Staates vorgesehen sind, so gilt diese Rücknahme nicht als gleichzeitige Rücknahme von Anträgen auf Leistungen nach den Rechtsvorschriften des anderen Staates.
+
+#### Art. 37
 
 **Bearbeitung der Anträge durch die beteiligten Träger**
 
@@ -1642,9 +1681,13 @@ Ungeachtet des Artikels 2 Absatz 1 dieses Abkommens teilt der schweizerische Tr�
 - a) eine Person, die aufgrund ihrer Staatsangehörigkeit nicht in den Geltungsbereich dieses Abkommens fällt, wie es die Schweiz nach Artikel 2 Absatz 1 dieses Abkommens anwendet; und
 - b) die Familienangehörigen einer in Buchstabe (a) beschriebenen Person.
 
+#### Art. 38
+
 **die Familienangehörigen einer in Buchstabe (a) beschriebenen Person.**
 
 Jeder Träger teilt dem Antragsteller die von ihm nach den von ihm anzuwendenden Rechtsvorschriften getroffene Entscheidung mit. In jeder Entscheidung werden die zur Verfügung stehenden Rechtsbehelfe und Rechtsbehelfsfristen angegeben.
+
+#### Art. 39
 
 **Vorläufige Zahlungen und Vorschüsse**
 
@@ -1654,11 +1697,15 @@ Jeder Träger teilt dem Antragsteller die von ihm nach den von ihm anzuwendenden
 
 <sup>(3)</sup> Jeder nach Absatz 1 oder 2 zur Zahlung der vorläufigen Leistungen oder eines Vorschusses verpflichtete Träger unterrichtet hiervon unverzüglich den Antragsteller, wobei er diesen ausdrücklich auf den vorläufigen Charakter dieser Massnahme und auf alle verfügbaren Rechtsbehelfe nach seinen Rechtsvorschriften aufmerksam macht.
 
+#### Art. 40
+
 **Neuberechnung der Leistungen**
 
 <sup>(1)</sup> Bei einer Neuberechnung der Leistungen nach Artikel 47 Absatz 4 und Artikel 55 Absatz 1 dieses Abkommens, gilt Artikel 39 dieses Anhangs entsprechend.
 
 <sup>(2)</sup> Bei Neuberechnung, Entzug oder Ruhen der Leistung informiert der Träger, der die entsprechende Entscheidung getroffen hat, unverzüglich die betreffende Person und unterrichtet jeden Träger, dem gegenüber die betreffende Person einen Anspruch hat.
+
+#### Art. 41
 
 **Massnahmen zur beschleunigten Berechnung der Rente**
 
@@ -1671,11 +1718,15 @@ Um die Bearbeitung von Anträgen und die Zahlung von Leistungen zu erleichtern u
 
 <sup>(2)</sup> Für die Anwendung von Absatz 1 bestimmen die Staaten über den Gemischten Verwaltungsausschuss die Informationen, die auszutauschen oder zur Verfügung zu stellen sind, und legt die geeigneten Verfahren fest; dabei berücksichtigt sie die Merkmale, die administrative und technische Organisation und die technischen Mittel, die den einzelstaatlichen Rentensystemen zur Verfügung stehen.
 
+#### Art. 42
+
 **Bemessung des Grades der Invalidität**
 
 Für die Feststellung des Grades der Invalidität kann jeder Träger den Antragsteller entsprechend seinen Rechtsvorschriften von einem Arzt oder einem anderen Experten seiner Wahl untersuchen lassen. Der Träger eines Staates berücksichtigt jedoch die vom anderen Träger erhaltenen ärztlichen Unterlagen und Berichte sowie die verwaltungsmässigen Auskünfte ebenso, als wären sie in seinem eigenen Hoheitsgebiet erstellt worden.
 
 ### Kapitel 5: Leistungen bei Arbeitslosigkeit
+
+#### Art. 43
 
 **Zusammenrechnung der Zeiten und Berechnung der Leistungen**
 
@@ -2000,6 +2051,8 @@ Verjährungsfristen werden wie folgt geregelt:
 
 ### Titel V: Sonstige Vorschriften, Übergangs- und Schlussbestimmungen
 
+#### Art. 67
+
 **Ärztliche Gutachten und verwaltungsmässige Kontrollen**
 
 <sup>(1)</sup> Unbeschadet sonstiger Vorschriften gilt Folgendes: Hält sich ein Antragsteller oder ein Leistungsempfänger oder dessen Familienangehöriger vorübergehend im Hoheitsgebiet eines anderen als des Staates auf, in dem sich der leistungspflichtige Träger befindet, oder wohnt er dort, so wird eine ärztliche Untersuchung auf Ersuchen dieses Trägers durch den Träger des Aufenthalts- oder Wohnorts des Berechtigten entsprechend dem von diesem Träger anzuwendenden gesetzlich vorgeschriebenen Verfahren vorgenommen.
@@ -2016,6 +2069,8 @@ Absatz 2 gilt auch in diesem Fall.
 
 <sup>(4)</sup> In Abweichung vom Grundsatz der kostenfreien gegenseitigen Amtshilfe nach Artikel 58 Absatz 3 dieses Abkommens werden die Kosten, die im Zusammenhang mit den in diesem Artikel aufgeführten Kontrollen tatsächlich entstanden sind, dem Träger, der mit der Durchführung der Kontrolle beauftragt wurde, vom leistungspflichtigen Träger, der diese Kontrollen angefordert hatte, erstattet.
 
+#### Art. 68
+
 **Mitteilungen**
 
 <sup>(1)</sup> Die Staaten teilen dem Gemischten Verwaltungsausschuss die Kontaktadressen der Stellen und Einrichtungen im Sinne von Artikel 1 dieses Abkommens sowie der gemäss diesem Anhang bezeichneten Träger mit.
@@ -2026,9 +2081,13 @@ Absatz 2 gilt auch in diesem Fall.
 
 <sup>(4)</sup> Die Staaten gewährleisten die ständige Aktualisierung der Informationen nach Absatz 1.
 
+#### Art. 69
+
 **Währungsumrechnung**
 
 Für die Zwecke dieses Abkommens und dieses Anhangs ist der Wechselkurs zwischen zwei Währungen der vom Gemischten Verwaltungsausschuss vereinbarte Referenzkurs. Der für die Bestimmung des Wechselkurses zu berücksichtigende Zeitpunkt wird vom Gemeinsamen Verwaltungsausschuss vereinbart und in den Verwaltungsvereinbarungen festgelegt.
+
+#### Art. 70
 
 **Vorläufige Bestimmungen für Formulare und Dokumente**
 
@@ -2127,9 +2186,11 @@ Vereinigtes Königreich
 
 Gestaffelte Leistungen bei Alter, die nach dem National Insurance Act (nationales Versicherungsgesetz) 1965, Sections 36 und 37, und nach dem National Insurance Act (Northern Ireland) (nationales Versicherungsgesetz, Nordirland) 1966, Sections 35 und 36, gezahlt werden.
 
-Anhang 4
+Anhang 4[^t-2]
 
 ## Besondere Bestimmungen für die Anwendung der Rechtsvorschriften der Staaten (Artikel 6 Absatz 2, Artikel 53 Absatz 1 und Artikel 68)
+
+[^t-2]: Bereinigt gemäss Berichtigung vom 16. Aug. 2022 ([AS 2022 450](https://fedlex.data.admin.ch/eli/oc/2022/450)).
 
 Vereinigtes Königreich
 
@@ -2161,7 +2222,7 @@ Vereinigtes Königreich
 
   Für die Zwecke von Artikel 49 Absatz 1 Buchstabe (b) dieses Abkommens gilt Folgendes:
 
-  - (i) hat eine als Arbeitnehmer beschäftigte Person in einem Einkommensteuerjahr, das am oder nach dem 6. April 1975 beginnt, Versicherungs-, Beschäftigungs- oder Wohnzeiten ausschliesslich in der Schweiz zurückgelegt und führt die Anwendung von Ziffer 1 dieses Absatzes dazu, dass dieses Jahr für die Anwendung des Artikels 49 Absatz 1 Buchstabe (b) Ziffer (i) dieses Abkommens als anspruchswirksames Jahr im Sinne der Rechtsvorschriften des Vereinigten Königreichs zählt, so wird davon ausgegangen, dass sie in diesem Jahr 52 Wochen lang in der Schweiz versichert gewesen ist;
+  - (i) hat eine als Arbeitnehmer beschäftigte Person in einem Einkommensteuerjahr, das am oder nach dem 6. April 1975 beginnt, Versicherungs-, Beschäftigungs- oder Wohnzeiten ausschliesslich in der Schweiz zurückgelegt und führt die Anwendung von Ziffer 3(a) dieses Absatzes dazu, dass dieses Jahr für die Anwendung des Artikels 49 Absatz 1 Buchstabe (b) Ziffer (i) dieses Abkommens als anspruchswirksames Jahr im Sinne der Rechtsvorschriften des Vereinigten Königreichs zählt, so wird davon ausgegangen, dass sie in diesem Jahr 52 Wochen lang in der Schweiz versichert gewesen ist;
   - (ii) zählt ein am oder nach dem 6. April 1975 beginnendes Einkommensteuerjahr für die Anwendung des Artikels 49 Absatz 1 Buchstabe (b) Ziffer (i)dieses Abkommens nicht als anspruchwirksames Jahr im Sinne der Rechtsvorschriften des Vereinigten Königreichs, werden in diesem Jahr zurückgelegte Versicherungs-, Beschäftigungs- oder Wohnzeiten ausser Acht gelassen.
 
 - c) Für die Umrechnung eines Entgeltfaktors in Versicherungszeiten wird der Entgeltfaktor, der während des betreffenden Einkommensteuerjahres im Sinne der Rechtsvorschriften des Vereinigten Königreichs erreicht worden ist, durch die für das betreffende Steuerjahr festgesetzte Entgeltuntergrenze geteilt. Das Ergebnis wird als ganze Zahl ausgedrückt; Stellen hinter dem Komma bleiben unberücksichtigt. Die so errechnete Zahl gilt als Anzahl der nach den Rechtsvorschriften des Vereinigten Königreichs während dieses Steuerjahres zurückgelegten Versicherungswochen; diese Zahl darf jedoch nicht höher als die Anzahl der Wochen sein, während welcher die genannten Rechtsvorschriften in diesem Steuerjahr für die Person gegolten haben.
@@ -2171,7 +2232,7 @@ Schweiz
 
 - (1) a) Artikel 2 des Bundesgesetzes über die Alters- und Hinterlassenenversicherung sowie Artikel 1 des Bundesgesetzes über die Invalidenversicherung, welche die freiwillige Versicherung in diesen Versicherungszweigen für schweizerische Staatsangehörige regeln, die nicht in einem Mitgliedstaat der Europäischen Union oder in einem Staat der Europäischen Freihandelsassoziation wohnen, sind anwendbar auf schweizerische Staatsangehörige und Staatsangehörige eines Mitgliedstaats der Europäischen Union, wenn diese spätestens ein Jahr nach dem Tag, ab dem sie nach einer ununterbrochenen Versicherungszeit von mindestens fünf Jahren nicht mehr in der schweizerischen Alters-, Hinterlassenen- und Invalidenversicherung versichert sind, ihren Beitritt zur freiwilligen Versicherung erklären.
 - b) Ist eine Person nach einer ununterbrochenen Versicherungszeit von mindestens fünf Jahren nicht mehr in der Alters-, Hinterlassenen- und Invalidenversicherung versichert, ist sie berechtigt, die Versicherung mit Zustimmung des Arbeitgebers weiterzuführen, wenn sie ausserhalb des Vereinigten Königreichs für einen Arbeitgeber in der Schweiz tätig ist und den Antrag innerhalb von sechs Monaten nach Beendigung des Versicherungsverhältnisses stellt.
-- c) Gelten in Anwendung von Artikel 13 Absatz 6 die schweizerischen Rechtsvorschriften für den Ehegatten und die Kinder, so sind diese in der schweizerischen Alters-, Hinterlassenen- und Invalidenversicherung versichert.
+- c) Gelten in Anwendung von Artikel 13 Absatz 6 dieses Abkommens die schweizerischen Rechtsvorschriften für den Ehegatten und die Kinder, so sind diese in der schweizerischen Alters-, Hinterlassenen- und Invalidenversicherung versichert.
 
 (2) Den schweizerischen Rechtsvorschriften über die Krankenversicherungspflicht unterliegen Personen, die nach Titel II des Abkommens den schweizerischen Rechtsvorschriften unterstellt sind, sowie Personen, für die nach den Artikeln 27 und 28 des Abkommens die Schweiz der zuständige Staat ist, auch wenn sie nicht in der Schweiz wohnen.
 

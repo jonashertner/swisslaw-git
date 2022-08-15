@@ -3,11 +3,11 @@ sr: "0.831.109.367.2"
 title: Convenzione del 9 settembre 2021 sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/818"
 language: it
-version: 2022-02-21
+version: 2022-08-16
 adopted: 2021-09-09
 in_force: 2021-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/818/20220221/it/xml/fedlex-data-admin-ch-eli-cc-2021-818-20220221-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/818/20220221/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/818/20220816/it/xml/fedlex-data-admin-ch-eli-cc-2021-818-20220816-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/818/20220816/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ RU **2021** 818
 
 Conclusa il 9 settembre 2021 Applicata provvisoriamente mediante scambio di note il 1° novembre 2021
 
-(Stato 21 febbraio 2022)
+(Stato 16 agosto 2022)
 
 La Confederazione Svizzera («Svizzera») e il Regno Unito di Gran Bretagna e Irlanda del Nord («Regno Unito») (insieme «gli Stati» e singolarmente «lo Stato»),
 
@@ -164,7 +164,9 @@ In deroga al paragrafo 3, il Regno Unito applica le disposizioni della presente 
 
 <sup>(1)</sup> La presente convenzione si applica alle persone che soggiornano legalmente in Svizzera o nel Regno Unito.
 
-<sup>(2)</sup> Il paragrafo 1 lascia impregiudicati i diritti a prestazioni in denaro relativi a precedenti periodi di soggiorno legale delle persone di cui all’articolo 2.
+<sup>(2)</sup> Il paragrafo 1 del presente articolo lascia impregiudicati i diritti a prestazioni in denaro relativi a precedenti periodi di soggiorno legale delle persone di cui all’articolo 2.[^3-1]
+
+[^3-1]: Correzione del 16 ago. 2022 ([RU 2022 450](https://fedlex.data.admin.ch/eli/oc/2022/450)).
 
 #### Art. 4
 
@@ -298,8 +300,10 @@ Fatti salvi gli articoli 14–17:
 
 <sup>(5)</sup> Un’attività svolta dagli equipaggi di condotta e di cabina addetti a servizi di trasporto aereo passeggeri o merci è considerata un’attività svolta nello Stato in cui è situata la base di servizio.
 
-- (6) (a) I familiari che risiedono o dimorano con una persona soggetta alla legislazione di uno Stato a seguito dell’applicazione dell’articolo 14 paragrafo 3 lettera b o dell’articolo 17 sono anch’essi soggetti alla legislazione di tale Stato.
+- (6) (a)[^13-1] I familiari che risiedono o dimorano con una persona soggetta alla legislazione di uno Stato a seguito dell’applicazione del paragrafo 3 lettera b, dell’articolo 14 o dell’articolo 17 sono anch’essi soggetti alla legislazione di tale Stato.
 - (b) La lettera a non si applica ai familiari che esercitano un’attività subordinata o autonoma oppure sono pubblici dipendenti.
+
+[^13-1]: Correzione del 16 ago. 2022 ([RU 2022 450](https://fedlex.data.admin.ch/eli/oc/2022/450)).
 
 #### Art. 14
 
@@ -2050,9 +2054,11 @@ Regno Unito
 
 Prestazioni proporzionali di vecchiaia versate conformemente agli articoli 36 e 37 della legge nazionale sulla previdenza del 1965 e agli articoli 35 e 36 della legge nazionale sulla previdenza (Irlanda del Nord) del 1966.
 
-Allegato 4
+Allegato 4[^t-1]
 
 ## Disposizioni particolari relative all’applicazione della legislazione degli Stati (art. 6 par. 2, 53 par. 1 e 68)
+
+[^t-1]: Aggiornato dalla correzione del 16 ago. 2022 ([RU 2022 450](https://fedlex.data.admin.ch/eli/oc/2022/450)).
 
 Regno Unito
 
@@ -2084,7 +2090,7 @@ Regno Unito
 
   Ai fini dell’articolo 49 paragrafo 1 lettera b della presente convenzione, qualora:
 
-  - (i) in un anno fiscale a decorrere dal 6 aprile 1975, un lavoratore subordinato abbia maturato periodi di assicurazione, occupazione o residenza esclusivamente in Svizzera e, a norma del punto 1 del presente paragrafo, quell’anno risulti conteggiato ai sensi della legislazione del Regno Unito per l’applicazione dell’articolo 49 paragrafo 1 lettera b punto i della presente convenzione, l’interessato è considerato assicurato per 52 settimane in quell’anno in Svizzera;
+  - (i) in un anno fiscale a decorrere dal 6 aprile 1975, un lavoratore subordinato abbia maturato periodi di assicurazione, occupazione o residenza esclusivamente in Svizzera e, a norma della lettera a del presente paragrafo, quell’anno risulti conteggiato ai sensi della legislazione del Regno Unito per l’applicazione dell’articolo 49 paragrafo 1 lettera b punto i della presente Convenzione, l’interessato è considerato assicurato per 52 settimane in quell’anno in Svizzera;
   - (ii) un anno fiscale a decorrere dal 6 aprile 1975 non sia conteggiato ai sensi della legislazione del Regno Unito per l’applicazione dell’articolo 49 paragrafo 1 lettera b punto i della presente convenzione, non si tiene conto dei periodi di assicurazione, occupazione o residenza maturati in quell’anno.
 
 - (c) Ai fini della conversione di un fattore di reddito in periodi di assicurazione, il fattore di reddito ottenuto durante l’anno fiscale in questione ai sensi della legislazione del Regno Unito è diviso per il limite di reddito inferiore fissato per tale anno fiscale. Il risultato è espresso con un numero intero, tralasciando i decimali. La cifra così ottenuta è considerata rappresentare il numero di settimane di assicurazione maturate ai sensi della legislazione del Regno Unito durante tale anno, restando inteso che tale cifra non può superare il numero di settimane durante le quali, nel corso di tale anno, l’interessato è stato soggetto a detta legislazione.
@@ -2094,7 +2100,7 @@ Svizzera
 
 - (1) (a) L’articolo 2 della legge federale sull’assicurazione per la vecchiaia e per i superstiti come anche l’articolo 1 della legge federale sull’assicurazione per l’invalidità, che disciplinano l’assicurazione facoltativa per questi ambiti assicurativi per i cittadini svizzeri che risiedono in uno Stato membro dell’Unione europea o dell’Associazione europea di libero scambio, si applicano ai cittadini svizzeri e ai cittadini di uno Stato membro dell’Unione europea, allorché tali persone dichiarino la loro adesione all’assicurazione facoltativa entro e non oltre un anno a decorrere dal giorno in cui esse hanno cessato di essere assicurate nell’ambito dell’assicurazione svizzera per la vecchiaia, i superstiti e l’invalidità dopo un periodo assicurativo ininterrotto di almeno cinque anni.
 - (b) Quando una persona cessa di essere assicurata nell’ambito dell’assicurazione svizzera per la vecchiaia, i superstiti e l’invalidità dopo un periodo assicurativo ininterrotto di almeno cinque anni, essa ha diritto a continuare l’assicurazione con l’accordo del datore di lavoro qualora essa lavori nel Regno Unito per conto di un datore di lavoro in Svizzera, e qualora essa ne faccia domanda entro un termine di sei mesi a decorrere dal giorno in cui ha cessato di essere assicurata.
-- (c) Se in virtù dell’articolo 13 paragrafo 6 la legislazione svizzera è applicabile al coniuge e ai figli, questi sono assicurati nell’ambito dell’assicurazione svizzera per la vecchiaia, i superstiti e l’invalidità.
+- (c) Se in virtù dell’articolo 13 paragrafo 6 della presente Convenzione la legislazione svizzera è applicabile al coniuge e ai figli, questi sono assicurati nell’ambito dell’assicurazione svizzera per la vecchiaia, i superstiti e l’invalidità.
 
 (2) Le disposizioni giuridiche svizzere che disciplinano l’assicurazione malattie obbligatoria si applicano alle persone soggette alle disposizioni giuridiche svizzere in virtù del titolo II della presente convenzione e alle persone per le quali la Svizzera è lo Stato competente secondo gli articoli 27 e 28 della presente convenzione, anche se esse non sono residenti in Svizzera.
 

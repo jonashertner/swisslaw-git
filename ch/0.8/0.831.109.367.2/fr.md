@@ -3,11 +3,11 @@ sr: "0.831.109.367.2"
 title: Convention du 9 septembre 2021 sur la coordination de la sécurité sociale entre la Confédération suisse et le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/818"
 language: fr
-version: 2022-02-21
+version: 2022-08-16
 adopted: 2021-09-09
 in_force: 2021-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/818/20220221/fr/xml/fedlex-data-admin-ch-eli-cc-2021-818-20220221-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/818/20220221/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/818/20220816/fr/xml/fedlex-data-admin-ch-eli-cc-2021-818-20220816-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/818/20220816/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Traduction
 
 Conclue le 9 septembre 2021 Appliquée provisoirement par échange de notes dès le 1<sup>er</sup> novembre 2021
 
-(Etat le 21 février 2022)
+(État le 16 août 2022)
 
 La Confédération suisse («Suisse») et le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord («Royaume-Uni») (ensemble «les États» et individuellement «l’État»)
 
@@ -77,7 +77,7 @@ Les définitions suivantes sont applicables aux fins de la présente convention:
 - q) «personne assurée» désigne, par rapport aux matières visées aux chapitres 1 et 3 du titre III, toute personne qui satisfait aux conditions requises par la législation de l’État compétent en vertu du titre II pour avoir droit aux prestations, compte tenu des dispositions de la présente convention;
 - r) «résidence légale» désigne la résidence ou le séjour en conformité avec les lois sur l’immigration de l’État concerné;
 - s) «législation» désigne, pour chaque État, les lois, règlements et autres dispositions légales et toutes autres mesures d’application qui concernent les matières auxquelles la présente convention s’applique en vertu de l’art. 6, à l’exclusion des dispositions conventionnelles autres que celles qui servent à la mise en œuvre d’une obligation d’assurance résultant des lois et règlements visés à la présente lettre ou qui ont fait l’objet d’une décision des pouvoirs publics les rendant obligatoires ou étendant leur champ d’application, pour autant que l’État concerné fasse une déclaration en ce sens, notifiée au Comité administratif mixte;
-- t) «organisme de liaison» désigne toute entité désignée par une autorité compétente, pour une ou plusieurs branches de sécurité sociale visées à l’art. 6, pour répondre aux demandes de renseignements et d’assistance aux fins de l’application de la présente convention et chargée d’accomplir les tâches qui lui incombent en vertu du titre IV de l’annexe 1;
+- t)[^1-1] «organisme de liaison» désigne toute entité désignée par une autorité compétente, pour une ou plusieurs branches de sécurité sociale visées à l’art. 6 de la présente convention, pour répondre aux demandes de renseignements et d’assistance aux fins de l’application de la présente convention et chargée d’accomplir les tâches qui lui incombent en vertu du titre IV de l’annexe 1;
 - u) «prestations pour des soins de longue durée» désigne les prestations en nature ou en espèces ayant pour finalité de répondre aux besoins en soins des personnes qui, en raison d’une déficience, nécessitent une assistance considérable, y compris, mais pas exclusivement, une assistance donnée par une ou plusieurs autres personnes pour accomplir les activités essentielles de la vie quotidienne pendant une période prolongée pour favoriser leur autonomie personnelle; ces termes recouvrent les prestations octroyées aux mêmes fins à une personne qui fournit cette assistance;
 - v)
 
@@ -95,7 +95,7 @@ Les définitions suivantes sont applicables aux fins de la présente convention:
 - aa) «période d’assurance» désigne les périodes de cotisation, d’emploi ou d’activité non salariée telles qu’elles sont définies ou admises comme périodes d’assurance par la législation sous laquelle elles ont été accomplies ou sont considérées comme accomplies, ainsi que toutes les périodes assimilées dans la mesure où elles sont reconnues par cette législation comme équivalant aux périodes d’assurance;
 - bb) «période de résidence» désigne les périodes définies ou admises comme telles par la législation sous laquelle elles ont été accomplies ou sont considérées comme accomplies;
 - cc) «données personnelles» désigne toute donnée concernant ou se rapportant à une personne physique identifiée ou identifiable;
-- dd) «réfugié» désigne une personne au sens de l’art. 1<sup>er</sup> de la convention relative au statut des réfugiés, signée à Genève le 28 juillet 1951[^1-1];
+- dd) «réfugié» désigne une personne au sens de l’art. 1<sup>er</sup> de la convention relative au statut des réfugiés, signée à Genève le 28 juillet 1951[^1-2];
 - ee) «siège social ou siège d’exploitation» désigne le lieu où sont adoptées les décisions essentielles de l’entreprise et où sont exercées les fonctions d’administration centrale de celle-ci;
 - ff) «résidence» (sauf à l’art. 3) désigne le lieu où une personne réside habituellement;
 - gg)
@@ -108,7 +108,7 @@ Les définitions suivantes sont applicables aux fins de la présente convention:
   - ii) qui sont financées exclusivement par des contributions fiscales obligatoires destinées à couvrir des dépenses publiques générales et dont les conditions d’attribution et modalités de calcul ne sont pas fonction d’une quelconque contribution pour ce qui concerne leurs bénéficiaires. Les prestations versées à titre de complément d’une prestation contributive ne sont toutefois pas considérées, pour ce seul motif, comme des prestations contributives;
 
 - hh) «régime spécial destiné aux fonctionnaires» désigne tout régime de sécurité sociale qui diffère du régime général applicable aux personnes salariées dans l’État concerné et auquel sont directement soumis tous les fonctionnaires ou certaines catégories de la fonction publique;
-- ii) «apatride» désigne une personne au sens de l’art. 1<sup>er</sup> de la convention relative au statut des apatrides, signée à New York le 28 septembre 1954[^1-2].
+- ii) «apatride» désigne une personne au sens de l’art. 1<sup>er</sup> de la convention relative au statut des apatrides, signée à New York le 28 septembre 1954[^1-3].
 - jj) «séjour» désigne le séjour temporaire;
 - kk) «ressortissant suisse» désigne un citoyen suisse au sens de la Constitution fédérale de la Confédération suisse;
 - ll)
@@ -119,8 +119,9 @@ Les définitions suivantes sont applicables aux fins de la présente convention:
   - ii) une personne qui est un sujet britannique en vertu de la partie IV de la loi de 1981 sur la nationalité britannique et qui a le droit de séjourner au Royaume-Uni et est donc exemptée du contrôle de l’immigration britannique,
   - iii) un citoyen des territoires britanniques d’outre-mer qui acquiert sa citoyenneté en raison d’un lien avec Gibraltar.
 
-[^1-1]: [RS 0.142.301](https://fedlex.data.admin.ch/eli/cc/1968/1189_1233_1148)
-[^1-2]: [RS 0.142.40](https://fedlex.data.admin.ch/eli/cc/1972/2320_2374_2150)
+[^1-1]: Erratum du 16 août 2022 ([RO 2022 450](https://fedlex.data.admin.ch/eli/oc/2022/450)).
+[^1-2]: [RS 0.142.301](https://fedlex.data.admin.ch/eli/cc/1968/1189_1233_1148)
+[^1-3]: [RS 0.142.40](https://fedlex.data.admin.ch/eli/cc/1972/2320_2374_2150)
 
 #### Art. 2
 
@@ -160,7 +161,9 @@ Nonobstant le par. 3, le Royaume-Uni applique les dispositions de la présente c
 
 <sup>(1)</sup> La présente convention s’applique aux personnes résidant légalement en Suisse ou au Royaume-Uni.
 
-<sup>(2)</sup> Le par. 1 ne porte pas atteinte aux droits aux prestations en espèces qui se rapportent à des périodes de résidence légale antérieures accomplies par des personnes visées à l’art. 2.
+<sup>(2)</sup> Le par. 1 du présent article ne porte pas atteinte aux droits aux prestations en espèces qui se rapportent à des périodes de résidence légale antérieures accomplies par des personnes visées à l’art. 2.[^3-1]
+
+[^3-1]: Erratum du 16 août 2022 ([RO 2022 450](https://fedlex.data.admin.ch/eli/oc/2022/450)).
 
 #### Art. 4
 
@@ -214,9 +217,11 @@ La présente convention ne s’applique pas:
 
 **Relations avec d’autres accords**
 
-<sup>(1)</sup> La présente convention s’applique sans préjudice de l’accord entre la Confédération suisse et le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord relatif aux droits des citoyens à la suite du retrait du Royaume-Uni de l’Union européenne et de la fin de l’applicabilité de l’accord sur la libre circulation des personnes, signé le 25 février 2019 («accord sur les droits acquis des citoyens»).
+<sup>(1)</sup> La présente convention s’applique sans préjudice de l’accord entre la Confédération suisse et le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord relatif aux droits des citoyens à la suite du retrait du Royaume-Uni de l’Union européenne et de la fin de l’applicabilité de l’accord sur la libre circulation des personnes, signé le 25 février 2019.[^7-1]
 
 <sup>(2)</sup> Aucune disposition de la présente convention ne peut être interprétée comme exigeant de l’un ou l’autre État d’agir d’une manière incompatible avec les obligations qui lui incombent en vertu d’accords avec des États tiers.
+
+[^7-1]: Erratum du 16 août 2022 ([RO 2022 450](https://fedlex.data.admin.ch/eli/oc/2022/450)).
 
 #### Art. 8
 
@@ -1064,7 +1069,9 @@ Annexe 1
 
 ### Chapitre 1
 
-****Art. 1** Définitions**
+#### Art. 1
+
+**Définitions**
 
 Aux fins de la présente annexe, les définitions suivantes s’appliquent, en sus de celles contenues dans l’art. 1 de la présente convention:
 
@@ -1075,7 +1082,9 @@ Aux fins de la présente annexe, les définitions suivantes s’appliquent, en s
 
 ### Chapitre 2 Dispositions relatives à la coopération et aux échanges de données
 
-****Art. 2** Portée et modalités des échanges entre les institutions**
+#### Art. 2
+
+**Portée et modalités des échanges entre les institutions**
 
 <sup>(1)</sup> Aux fins de la présente annexe, les échanges entre les autorités des États et les institutions et personnes couvertes par la présente convention reposent sur les principes du service public, de l’efficacité, de l’assistance active, de la fourniture rapide et de l’accessibilité, y compris l’accessibilité en ligne, aux personnes handicapées et aux personnes âgées en particulier.
 
@@ -1085,7 +1094,9 @@ Aux fins de la présente annexe, les définitions suivantes s’appliquent, en s
 
 <sup>(4)</sup> Lorsque le transfert des données a lieu par l’intermédiaire de l’organisme de liaison de l’État de destination, le délai de réponse à une demande commence à courir à la date à laquelle ledit organisme de liaison a reçu la demande, comme si c’était l’institution de cet État qui l’avait reçue.
 
-****Art. 3** Portée et modalités des échanges entre les personnes concernées et les institutions**
+#### Art. 3
+
+**Portée et modalités des échanges entre les personnes concernées et les institutions**
 
 <sup>(1)</sup> Les États veillent à ce que l’on mette à la disposition des personnes concernées les informations nécessaires pour les renseigner sur les dispositions instaurées par la présente convention et la présente annexe, de manière à leur permettre de faire valoir leurs droits. Ils veillent en outre à la convivialité des services fournis.
 
@@ -1095,7 +1106,9 @@ Aux fins de la présente annexe, les définitions suivantes s’appliquent, en s
 
 <sup>(4)</sup> L’institution compétente notifie sa décision au demandeur qui réside ou séjourne dans un autre État, directement ou par l’intermédiaire de l’organisme de liaison de l’État de résidence ou de séjour. Lorsqu’elle refuse de servir les prestations, elle indique également les motifs du refus, les voies de recours et les délais impartis pour former un recours. Une copie de cette décision est transmise aux autres institutions concernées.
 
-****Art. 4** Formulaires, documents et méthodes d’échange de données**
+#### Art. 4
+
+**Formulaires, documents et méthodes d’échange de données**
 
 <sup>(1)</sup> Sous réserve de l’appendice 1, la structure, le contenu et le format des formulaires et documents délivrés au nom des États aux fins de la mise en œuvre de la présente convention sont approuvés par les États par l’intermédiaire du Comité administratif mixte.
 
@@ -1105,7 +1118,9 @@ Aux fins de la présente annexe, les définitions suivantes s’appliquent, en s
 
 <sup>(4)</sup> Dans leurs communications avec les personnes concernées, les institutions concernées ont recours aux modalités convenant le mieux à chaque cas et elles privilégient autant que possible le recours à des moyens électroniques.
 
-****Art. 5** Valeur juridique des documents et pièces justificatives établis dans l’autre État**
+#### Art. 5
+
+**Valeur juridique des documents et pièces justificatives établis dans l’autre État**
 
 <sup>(1)</sup> Les documents établis par l’institution d’un État qui attestent de la situation d’une personne aux fins de l’application de la présente convention et de la présente annexe, ainsi que les pièces justificatives y afférentes, s’imposent aux institutions de l’autre État aussi longtemps qu’ils ne sont pas retirés ou déclarés invalides par l’État qui les a établis.
 
@@ -1115,7 +1130,9 @@ Aux fins de la présente annexe, les définitions suivantes s’appliquent, en s
 
 <sup>(4)</sup> À défaut d’un accord entre les institutions concernées, les autorités compétentes de chaque État peuvent saisir le Comité administratif mixte.
 
-****Art. 6** Application provisoire d’une législation, octroi provisoire de prestations et calcul provisoire de prestations et de cotisations**
+#### Art. 6
+
+**Application provisoire d’une législation, octroi provisoire de prestations et calcul provisoire de prestations et de cotisations**
 
 <sup>(1)</sup>
 
@@ -1139,7 +1156,9 @@ Sauf disposition contraire de la présente annexe, lorsque les institutions ou l
 
 <sup>(8)</sup> Un nouveau calcul de la prestation ou de la cotisation en cause doit être établi une fois que l’ensemble des pièces justificatives et des documents sont fournis à l’institution concernée.
 
-****Art. 7** Périodes d’assurance ou de résidence**
+#### Art. 7
+
+**Périodes d’assurance ou de résidence**
 
 <sup>(1)</sup> Lorsque la seule raison pour laquelle une période d’assurance, d’emploi, d’activité non salariée ou de résidence ne serait pas considérée comme une telle période aux fins de la présente convention est le fait qu’une personne ne relève pas du champ d’application de la présente convention, telle qu’elle est appliquée par la Suisse en vertu de l’art. 2, par. 1, de la présente convention, en raison de sa nationalité, cette période sera considérée comme telle pour l’application de la présente convention par le Royaume-Uni en ce qui concerne les prestations autres que les prestations en nature.
 
@@ -1147,17 +1166,23 @@ Sauf disposition contraire de la présente annexe, lorsque les institutions ou l
 
 ### Chapitre 3 Autres dispositions générales d’application de la convention
 
-****Art. 8** Autres procédures entre autorités et institutions**
+#### Art. 8
+
+**Autres procédures entre autorités et institutions**
 
 <sup>(1)</sup> Les autorités compétentes des États peuvent convenir d’autres procédures que celles qui sont prévues par la présente annexe, pour autant que ces procédures ne portent pas atteinte aux droits ou obligations des personnes concernées.
 
 <sup>(2)</sup> Les accords conclus à cette fin sont approuvés par les États par l’intermédiaire du Comité administratif mixte.
 
-****Art. 9** Non-cumul de prestations**
+#### Art. 9
+
+**Non-cumul de prestations**
 
 Nonobstant d’autres dispositions de la présente convention, lorsque des prestations dues au titre de la législation des États sont réduites, suspendues ou supprimées mutuellement, les montants qui ne seraient pas payés en cas d’application stricte des clauses de réduction, de suspension ou de suppression prévues par la législation de l’État concerné sont divisés par le nombre de prestations sujettes à réduction, suspension ou suppression.
 
-****Art. 10** Éléments pour la détermination de la résidence**
+#### Art. 10
+
+**Éléments pour la détermination de la résidence**
 
 <sup>(1)</sup>
 
@@ -1181,7 +1206,9 @@ En cas de divergence de vues entre les institutions des États au sujet de la d�
 
 <sup>(4)</sup> Le par. 3 s’applique mutatis mutandis aux membres de la famille de l’étudiant.
 
-****Art. 11** Totalisation des périodes**
+#### Art. 11
+
+**Totalisation des périodes**
 
 <sup>(1)</sup> Aux fins de l’application de l’art. 10 de la présente convention, l’institution compétente s’adresse aux institutions de l’autre État à la législation duquel la personne concernée a été aussi soumise pour déterminer toutes les périodes accomplies sous cette législation.
 
@@ -1195,7 +1222,9 @@ En cas de divergence de vues entre les institutions des États au sujet de la d�
 
 <sup>(6)</sup> Dans le cas où l’époque à laquelle certaines périodes d’assurance ou de résidence ont été accomplies sous la législation d’un des deux États ne peut être déterminée de façon précise, il est présumé que ces périodes ne se superposent pas à des périodes d’assurance ou de résidence accomplies sous la législation de l’autre État et il en est tenu compte, si cela est avantageux pour la personne concernée, dans la mesure où elles peuvent être raisonnablement prises en considération.
 
-****Art. 12** Règles de conversion des périodes**
+#### Art. 12
+
+**Règles de conversion des périodes**
 
 <sup>(1)</sup>
 
@@ -1229,7 +1258,9 @@ Si les périodes à convertir correspondent au nombre annuel maximal de période
 
 ### Titre II Détermination de la législation applicable
 
-****Art. 13** Précisions relatives aux art. 14 et 15 de la convention**
+#### Art. 13
+
+**Précisions relatives aux art. 14 et 15 de la convention**
 
 <sup>(1)</sup>
 
@@ -1269,13 +1300,17 @@ Pour déterminer si une partie substantielle des activités est exercée dans un
 
 <sup>(13)</sup> Pour déterminer la législation applicable au titre des par. 10, 11 et 12, les institutions concernées tiennent compte de la situation future prévue pour les douze mois civils à venir.
 
-****Art. 14** Procédures pour l’application de l’art. 13, par. 3, let. b), de l’art. 13, par. 4, et de l’art. 14 de la convention (sur la fourniture d’informations aux institutions concernées)**
+#### Art. 14
+
+**Procédures pour l’application de l’art. 13, par. 3, let. b), de l’art. 13, par. 4, et de l’art. 14 de la convention (sur la fourniture d’informations aux institutions concernées)**
 
 <sup>(1)</sup> Sauf disposition contraire de l’art. 15 de la présente annexe, lorsqu’une personne exerce son activité en dehors de l’État compétent, l’employeur ou, si la personne n’exerce pas une activité salariée, la personne concernée en informe, préalablement lorsque c’est possible, l’institution compétente de l’État dont la législation est applicable. Cette institution délivre l’attestation visée à l’art. 17, par. 2, de la présente annexe à la personne concernée et met sans tarder à la disposition de l’institution désignée par l’autorité compétente de l’État où l’activité est exercée, des informations sur la législation applicable à cette personne, conformément à l’art. 13, par. 3, let. b), ou à l’art. 14 de la présente convention.
 
 <sup>(2)</sup> Un employeur, au sens de l’art. 13, par. 4, de la présente convention, qui occupe un travailleur salarié à bord d’un navire battant pavillon de l’autre État, en informe préalablement, lorsque cela est possible, l’institution compétente de l’État dont la législation est applicable. Cette institution met sans tarder à la disposition de l’institution désignée par l’autorité compétente de l’État sous le pavillon duquel navigue le bateau sur lequel le travailleur salarié exerce l’activité, des informations sur la législation applicable à la personne concernée, conformément à l’art. 13, par. 4, de la présente convention.
 
-****Art. 15** Procédure pour l’application de l’art. 15 de la convention**
+#### Art. 15
+
+**Procédure pour l’application de l’art. 15 de la convention**
 
 <sup>(1)</sup> La personne qui exerce des activités dans les deux États en informe l’institution désignée par l’autorité compétente de l’État de résidence.
 
@@ -1291,23 +1326,31 @@ Si les institutions ou autorités compétentes concernées ont des avis divergen
 
 <sup>(6)</sup> Si la personne concernée omet de fournir les informations mentionnées au par. 1, le présent article est appliqué sur l’initiative de l’institution désignée par l’autorité compétente de l’État de résidence dès qu’elle est instruite de la situation de cette dernière, éventuellement par l’intermédiaire d’une autre institution concernée.
 
-****Art. 16** Procédure pour l’application de l’art. 17 de la convention**
+#### Art. 16
+
+**Procédure pour l’application de l’art. 17 de la convention**
 
 L’employeur ou la personne concernée qui souhaite bénéficier de dérogations aux art. 13 à 15 de la présente convention en fait la demande, préalablement si c’est possible, à l’autorité compétente ou à l’entité désignée par l’autorité de l’État dont l’application de la législation est demandée par le travailleur salarié ou la personne concernée.
 
-****Art. 17** Information des personnes concernées et des employeurs**
+#### Art. 17
+
+**Information des personnes concernées et des employeurs**
 
 <sup>(1)</sup> L’institution compétente de l’État dont la législation devient applicable en vertu du titre II de la présente convention informe la personne concernée ainsi que, le cas échéant, son ou ses employeurs, des obligations énoncées dans cette législation. Elle leur apporte l’aide nécessaire à l’accomplissement des formalités requises par cette législation.
 
 <sup>(2)</sup> À la demande de la personne concernée ou de l’employeur, l’institution compétente de l’État dont la législation est applicable en vertu du titre II de la présente convention atteste que cette législation est applicable et indique, le cas échéant, jusqu’à quelle date et à quelles conditions.
 
-****Art. 18** Coopération entre les institutions**
+#### Art. 18
+
+**Coopération entre les institutions**
 
 <sup>(1)</sup> Les institutions concernées communiquent à l’institution compétente de l’État dont la législation est applicable à une personne en vertu du titre II de la présente convention les informations nécessaires pour déterminer la date à laquelle cette législation devient applicable et établir les cotisations dont cette personne et son ou ses employeurs sont redevables au titre de cette législation.
 
 <sup>(2)</sup> L’institution compétente de l’État dont la législation devient applicable à une personne en vertu du titre II de la présente convention met à la disposition de l’institution désignée par l’autorité compétente de l’État à la législation duquel la personne était soumise en dernier lieu les informations indiquant la date à laquelle l’application de cette législation prend effet.
 
-****Art. 19** Coopération en cas de doute quant à la validité des documents délivrés en ce qui concerne la législation applicable**
+#### Art. 19
+
+**Coopération en cas de doute quant à la validité des documents délivrés en ce qui concerne la législation applicable**
 
 En cas de doute sur la validité du document attestant de la situation de la personne aux fins de la législation applicable ou sur l’exactitude des faits qui sont à la base des mentions y figurant, l’institution de l’État qui reçoit le document demande à l’institution émettrice les éclaircissements nécessaires et, le cas échéant, le retrait ou la rectification dudit document. L’institution requérante justifie sa demande et fournit les pièces justificatives pertinentes qui ont donné lieu à la demande.
 
@@ -1315,7 +1358,9 @@ En cas de doute sur la validité du document attestant de la situation de la per
 
 ### Chapitre 1 Prestations de maladie, de maternité et de paternité assimilées
 
-****Art. 20** Dispositions générales d’application**
+#### Art. 20
+
+**Dispositions générales d’application**
 
 <sup>(1)</sup> Les autorités ou institutions compétentes veillent à ce que soient mises à la disposition des personnes assurées toutes les informations nécessaires concernant les procédures et les conditions d’octroi des prestations en nature lorsque ces prestations sont perçues sur le territoire d’un État autre que celui de l’institution compétente.
 
@@ -1323,7 +1368,9 @@ En cas de doute sur la validité du document attestant de la situation de la per
 
 <sup>(3)</sup> Sans préjudice l’art. 9, let. a), de la présente convention, un État peut devenir responsable du coût des prestations conformément à l’art. 25 de la présente convention uniquement lorsque la personne assurée a introduit une demande de pension conformément à la législation de cet État, d’une part, ou conformément aux art. 26 à 31 de la présente convention uniquement lorsqu’elle perçoit une pension au titre de la législation de cet État, d’autre part.
 
-****Art. 21** Résidence dans un État autre que l’État compétent**
+#### Art. 21
+
+**Résidence dans un État autre que l’État compétent**
 
 Procédure et portée du droit
 
@@ -1335,7 +1382,7 @@ L’institution du lieu de résidence avise l’institution compétente de toute
 
 <sup>(3)</sup> Le présent article s’applique *mutatis mutandis* aux personnes visées aux art. 25, 27 et 28 de la présente convention.
 
-**Remboursement**
+### Remboursement
 
 <sup>(4)</sup> cette personne ou les membres de sa famille peuvent demander à l’institution de l’État de résidence le remboursement (intégral ou partiel, selon le cas) de la redevance pour soins de santé acquittée.
 
@@ -1351,7 +1398,9 @@ Lorsqu’une personne ou les membres de sa famille:
 
 <sup>(7)</sup> Lorsque la redevance pour soins de santé a été acquittée par une autre personne pour le compte d’une personne relevant du présent article, le remboursement peut être effectué au bénéfice de cette autre personne.
 
-****Art. 22** Séjour hors de l’État compétent**
+#### Art. 22
+
+**Séjour hors de l’État compétent**
 
 Procédure et portée du droit
 
@@ -1361,7 +1410,7 @@ Procédure et portée du droit
 
 <sup>(3)</sup> Les prestations en nature visées à l’art. 22, par. 1, de la présente convention visent les prestations en nature servies dans l’État de séjour, selon la législation de ce dernier et qui s’avèrent nécessaires du point de vue médical afin que la personne assurée ne soit pas contrainte de rejoindre, avant la fin de la durée prévue de son séjour, l’État compétent pour y recevoir le traitement nécessaire.
 
-**Procédure et modalités de prise en charge des frais et de remboursement des prestations en nature**
+### Procédure et modalités de prise en charge des frais et de remboursement des prestations en nature
 
 <sup>(4)</sup> Si la personne assurée a effectivement supporté le coût de tout ou partie des prestations en nature servies dans le cadre de l’art. 22 de la présente convention, et si la législation appliquée par l’institution du lieu de séjour permet le remboursement de ces frais à une personne assurée, elle peut adresser une demande de remboursement à l’institution du lieu de séjour. Dans ce cas, celle-ci lui rembourse directement le montant des frais correspondant à ces prestations dans les limites et conditions des tarifs de remboursement prévus par sa législation.
 
@@ -1377,11 +1426,11 @@ L’institution du lieu de séjour fournit à l’institution compétente qui le
 
 <sup>(9)</sup> Lorsqu’il s’agit de dépenses substantielles, l’institution compétente peut verser à la personne assurée une avance appropriée, dès que celle-ci introduit auprès d’elle la demande de remboursement.
 
-**Membres de la famille**
+### Membres de la famille
 
 <sup>(10)</sup> Les par. 1 à 9 s’appliquent mutatis mutandis aux membres de la famille de la personne assurée.
 
-**Remboursement pour les étudiants**
+### Remboursement pour les étudiants
 
 <sup>(11)</sup> cette personne peut demander à l’institution de l’État d’études le remboursement (intégral ou partiel, selon le cas) de la redevance pour soins de santé acquittée.
 
@@ -1406,7 +1455,9 @@ Lorsqu’une personne:
 
 <sup>(18)</sup> Par dérogation à l’art. 8, par. 1 de la présente convention, des frais peuvent être imposés par l’État d’études, conformément à son droit national, concernant des prestations en nature qui ne remplissent pas les critères énoncés à l’art. 22, par. 1, let. a), et qui sont servies à une personne pour laquelle un remboursement a été effectué pendant son séjour pour la période à laquelle ce remboursement se rapporte.
 
-****Art. 23** Soins programmés**
+#### Art. 23
+
+**Soins programmés**
 
 *Procédure d’autorisation*
 
@@ -1430,13 +1481,13 @@ L’institution compétente accepte les constatations et les options thérapeuti
 
 <sup>(5)</sup> Sans préjudice de toute décision concernant l’autorisation, l’institution du lieu de séjour informe l’institution compétente lorsqu’il apparaît médicalement nécessaire de compléter le traitement couvert par l’autorisation existante.
 
-**Prise en charge financière des prestations en nature servies à la personne assurée**
+### Prise en charge financière des prestations en nature servies à la personne assurée
 
 <sup>(6)</sup> Sans préjudice du par. 7, l’art. 22, par. 4 et 5, de la présente annexe s’applique mutatis mutandis.
 
 <sup>(7)</sup> Lorsque la personne assurée a effectivement pris elle-même en charge tout ou partie du coût du traitement médical autorisé et que le montant que l’institution compétente est tenue de rembourser à l’institution du lieu de séjour ou à la personne assurée conformément au par. 6 (coût réel) est inférieur à celui qu’elle aurait dû assumer pour le même traitement dans l’État compétent (coût théorique), l’institution compétente rembourse, sur demande, le coût du traitement qu’elle a supporté à concurrence du montant de la différence entre le coût théorique et le coût réel. Le montant du remboursement ne peut toutefois pas dépasser celui des coûts effectivement supportés par la personne assurée et peut prendre en compte les montants que la personne assurée aurait dû acquitter si le traitement avait été prodigué dans l’État compétent.
 
-**Prise en charge des frais de voyage et de séjour dans le contexte de soins programmés**
+### Prise en charge des frais de voyage et de séjour dans le contexte de soins programmés
 
 <sup>(8)</sup> Dans les cas où la législation nationale de l’institution compétente prévoit le remboursement des frais de voyage et de séjour indissociables du traitement de la personne assurée, ces frais pour la personne concernée et, si nécessaire, pour une personne qui doit l’accompagner, sont pris en charge par cette institution lorsqu’une autorisation est accordée en cas de traitement dans un autre État.
 
@@ -1444,7 +1495,9 @@ L’institution compétente accepte les constatations et les options thérapeuti
 
 <sup>(9)</sup> Les par. 1 à 8 s’appliquent mutatis mutandis aux membres de la famille de la personne assurée.
 
-****Art. 24** Prestations en espèces relatives à une incapacité de travail en cas de séjour ou de résidence dans l’État qui n’est pas l’État compétent**
+#### Art. 24
+
+**Prestations en espèces relatives à une incapacité de travail en cas de séjour ou de résidence dans l’État qui n’est pas l’État compétent**
 
 Procédure à suivre par la personne assurée
 
@@ -1456,11 +1509,11 @@ Procédure à suivre par la personne assurée
 
 <sup>(4)</sup> La transmission du document visé aux par. 1, 2 et 3 ne dispense pas la personne assurée de respecter les obligations prévues par la législation applicable, en particulier à l’égard de son employeur. Le cas échéant, l’employeur ou l’institution compétente peut demander au salarié de participer à des activités conçues pour favoriser et aider son retour à l’emploi.
 
-**Procédure à suivre par l’institution de l’État de résidence**
+### Procédure à suivre par l’institution de l’État de résidence
 
 <sup>(5)</sup> À la demande de l’institution compétente, l’institution du lieu de résidence soumet la personne concernée aux contrôles administratifs ou aux examens médicaux nécessaires, conformément à la législation appliquée par cette dernière institution. Le rapport du médecin contrôleur, qui indique notamment la durée probable de l’incapacité de travail, est transmis sans délai par l’institution du lieu de résidence à l’institution compétente.
 
-**Procédure à suivre par l’institution compétente**
+### Procédure à suivre par l’institution compétente
 
 <sup>(6)</sup> L’institution compétente conserve la faculté de faire examiner la personne assurée par un médecin de son choix.
 
@@ -1470,19 +1523,23 @@ Procédure à suivre par la personne assurée
 
 <sup>(9)</sup> Si l’institution compétente refuse les prestations en espèces, elle notifie sa décision à la personne assurée et en avertit simultanément l’institution du lieu de résidence.
 
-**Procédure en cas de séjour dans un État autre que l’État compétent**
+### Procédure en cas de séjour dans un État autre que l’État compétent
 
 <sup>(10)</sup> Les par. 1 à 9 qui précèdent s’appliquent mutatis mutandis lorsque la personne assurée séjourne dans l’État qui n’est pas l’État compétent.
 
 ### Chapitre 2 Prestations pour accidents du travail et maladies professionnelles
 
-****Art. 25** Droit aux prestations en nature et en espèces en cas de résidence ou de séjour dans l’État qui n’est pas l’État compétent**
+#### Art. 25
+
+**Droit aux prestations en nature et en espèces en cas de résidence ou de séjour dans l’État qui n’est pas l’État compétent**
 
 <sup>(1)</sup> Aux fins de l’application de l’art. 36 de la présente convention, les procédures définies aux art. 21 à 24 de la présente annexe s’appliquent *mutatis mutandis*.
 
 <sup>(2)</sup> Lorsqu’elle sert des prestations particulières en nature en liaison avec un accident du travail ou une maladie professionnelle en vertu de la législation nationale de l’État de séjour ou de résidence, l’institution dudit État en informe sans délai l’institution compétente.
 
-****Art. 26** Procédure en cas d’accident du travail ou de maladie professionnelle survenus dans l’État qui n’est pas l’État compétent**
+#### Art. 26
+
+**Procédure en cas d’accident du travail ou de maladie professionnelle survenus dans l’État qui n’est pas l’État compétent**
 
 <sup>(1)</sup> Lorsqu’un accident du travail survient ou lorsqu’une maladie professionnelle est médicalement constatée pour la première fois sur le territoire de l’État qui n’est pas l’État compétent, et si la déclaration ou la notification est prévue par la législation nationale, la déclaration ou la notification de l’accident du travail ou de la maladie professionnelle est effectuée conformément à la législation de l’État compétent, sans préjudice, le cas échéant, de toute autre disposition légale en vigueur sur le territoire de l’État où est survenu l’accident du travail ou dans lequel a été faite la première constatation médicale de la maladie professionnelle, qui reste applicable dans un tel cas. La déclaration ou notification est adressée à l’institution compétente.
 
@@ -1494,7 +1551,9 @@ Procédure à suivre par la personne assurée
 
 <sup>(5)</sup> À la demande de l’institution du lieu de résidence ou de séjour, selon le cas, l’institution compétente lui notifie la décision fixant la date de guérison ou de consolidation des lésions ainsi que, le cas échéant, la décision relative à l’octroi d’une rente.
 
-****Art. 27** Contestation du caractère professionnel de l’accident ou de la maladie**
+#### Art. 27
+
+**Contestation du caractère professionnel de l’accident ou de la maladie**
 
 <sup>(1)</sup> Lorsque l’institution compétente conteste que, dans le cadre de l’article de l’art. 36, par. 2, de la présente convention, législation relative aux accidents du travail ou aux maladies professionnelles soit applicable, elle en avise sans délai l’institution du lieu de résidence ou de séjour ayant servi les prestations en nature, qui sont alors considérées comme relevant de l’assurance maladie.
 
@@ -1506,7 +1565,9 @@ S’il est établi qu’il s’agit d’un accident du travail ou d’une maladi
 
 <sup>(3)</sup> L’art. 6, par. 6, de la présente annexe s’applique *mutatis mutandis*.
 
-****Art. 28** Procédure en cas d’exposition au risque de maladie professionnelle dans les deux États**
+#### Art. 28
+
+**Procédure en cas d’exposition au risque de maladie professionnelle dans les deux États**
 
 <sup>(1)</sup> Dans le cas visé à l’art. 38 de la présente convention, la déclaration ou notification de la maladie professionnelle est transmise à l’institution compétente en matière de maladies professionnelles du dernier État sous la législation duquel la personne concernée a exercé en dernier lieu une activité susceptible de provoquer la maladie considérée.
 
@@ -1514,7 +1575,9 @@ Lorsque l’institution à laquelle la déclaration ou la notification a été t
 
 <sup>(2)</sup> Lorsque l’institution de l’État sous la législation duquel la personne concernée a exercé en dernier lieu une activité susceptible de provoquer la maladie professionnelle considérée constate que cette personne, ou ses survivants, ne satisfont pas aux conditions de cette législation, notamment parce que la personne concernée n’a jamais exercé dans ledit État une activité ayant causé la maladie professionnelle ou parce que cet État ne reconnaît pas le caractère professionnel de la maladie, ladite institution transmet sans délai à l’institution de l’État sous la législation duquel la personne concernée a exercé précédemment une activité susceptible de provoquer la maladie professionnelle considérée, la déclaration ou la notification et toutes les pièces qui l’accompagnent, y compris les constatations et rapports des expertises médicales auxquelles la première institution a procédé.
 
-****Art. 29** Échange d’informations entre institutions et versement d’avances en cas de recours contre une décision de rejet**
+#### Art. 29
+
+**Échange d’informations entre institutions et versement d’avances en cas de recours contre une décision de rejet**
 
 <sup>(1)</sup> En cas de recours contre une décision de rejet prise par l’institution d’un État sous la législation duquel la personne concernée a exercé une activité susceptible de provoquer la maladie professionnelle considérée, cette institution est tenue d’en informer l’institution à laquelle la déclaration ou notification a été transmise, selon la procédure prévue l’art. 28, par. 2, de la présente annexe, et de l’aviser ultérieurement lorsqu’une décision définitive intervient.
 
@@ -1522,18 +1585,24 @@ Lorsque l’institution à laquelle la déclaration ou la notification a été t
 
 <sup>(3)</sup> L’art. 6, par. 6, de la présente annexe s’applique *mutatis mutandis*.
 
-****Art. 30** Aggravation d’une maladie professionnelle**
+#### Art. 30
+
+**Aggravation d’une maladie professionnelle**
 
 Dans les cas visés à l’art. 39 de la présente convention, le demandeur est tenu de fournir à l’institution de l’État auprès de laquelle elle fait valoir des droits à prestations des renseignements relatifs aux prestations octroyées antérieurement pour la maladie professionnelle considérée. Cette institution peut s’adresser à toute autre institution qui a été compétente antérieurement pour obtenir les renseignements qu’elle estime nécessaires.
 
-****Art. 31** Appréciation du degré d’incapacité en cas d’accident du travail ou de maladie professionnelle survenus antérieurement ou postérieurement**
+#### Art. 31
+
+**Appréciation du degré d’incapacité en cas d’accident du travail ou de maladie professionnelle survenus antérieurement ou postérieurement**
 
 Lorsqu’une incapacité de travail antérieure ou postérieure a été provoquée par un accident survenu alors que la personne concernée était soumise à la législation d’un État qui ne fait pas de distinction selon l’origine de l’incapacité de travail, l’institution compétente ou l’organisme désigné par l’autorité compétente de l’État en cause:
 
 - a) fournit, à la demande de l’institution compétente de l’autre État, des indications sur le degré de l’incapacité de travail antérieure ou postérieure, ainsi que, dans la mesure du possible, des renseignements permettant de déterminer si l’incapacité est la conséquence d’un accident du travail au sens de la législation appliquée par l’institution de l’autre État;
 - b) tient compte, conformément aux dispositions de la législation applicable, pour l’ouverture du droit et la détermination du montant des prestations, du degré d’incapacité provoqué par ces cas antérieurs ou postérieurs.
 
-****Art. 32** Introduction et instruction des demandes de rentes ou d’allocations supplémentaires**
+#### Art. 32
+
+**Introduction et instruction des demandes de rentes ou d’allocations supplémentaires**
 
 Pour bénéficier d’une rente ou d’une allocation supplémentaire au titre de la législation d’un État, la personne concernée ou ses survivants résidant sur le territoire de l’autre État adressent, le cas échéant, une demande soit à l’institution compétente, soit à l’institution du lieu de résidence, qui la transmet à l’institution compétente.
 
@@ -1541,7 +1610,9 @@ La demande contient les informations requises en vertu de la législation qu’a
 
 ### Chapitre 3 Allocations de décès
 
-****Art. 33** Demande d’allocation de décès**
+#### Art. 33
+
+**Demande d’allocation de décès**
 
 Aux fins de l’application des art. 42 et 43 de la présente convention, la demande d’allocation de décès est adressée soit à l’institution compétente, soit à l’institution du lieu de résidence du demandeur, qui la transmet à l’institution compétente.
 
@@ -1549,7 +1620,9 @@ La demande contient les informations requises en vertu de la législation qu’a
 
 ### Chapitre 4 Prestations d’invalidité et pensions de vieillesse et de survivants
 
-****Art. 34** Dispositions complémentaires pour le calcul des prestations**
+#### Art. 34
+
+**Dispositions complémentaires pour le calcul des prestations**
 
 <sup>(1)</sup> Aux fins du calcul du montant théorique et du montant effectif de la prestation conformément à l’art. 49, par. 1, let. b), de la présente convention, les règles prévues à l’art. 11, par. 3, 4, 5 et 6, de la présente annexe s’appliquent.
 
@@ -1559,13 +1632,17 @@ La demande contient les informations requises en vertu de la législation qu’a
 
 Lorsque la législation appliquée par l’institution compétente ne permet pas de déterminer directement ce montant parce que cette législation attribue des valeurs différentes aux périodes d’assurance, un montant notionnel peut être établi. Le Comité administratif mixte fixe les modalités pour l’établissement de ce montant notionnel.
 
-****Art. 35** Introduction des demandes de pensions de vieillesse et de survivants**
+#### Art. 35
+
+**Introduction des demandes de pensions de vieillesse et de survivants**
 
 <sup>(1)</sup> Le demandeur adresse une demande soit à l’institution de son lieu de résidence ou à l’institution de l’État dont la législation était applicable. Si la personne concernée n’a été soumise à aucun moment à la législation appliquée par l’institution du lieu de résidence, cette institution transmet la demande à l’institution de l’État dont la législation était applicable.
 
 <sup>(2)</sup> La date d’introduction de la demande vaut à l’égard des institutions concernées.
 
-****Art. 36** Pièces et indications à joindre à la demande**
+#### Art. 36
+
+**Pièces et indications à joindre à la demande**
 
 <sup>(1)</sup> La demande est introduite par le demandeur selon les dispositions de la législation appliquée par l’institution visée à l’art. 35, par. 1, de la présente annexe et est accompagnée des pièces justificatives requises par cette législation. Le demandeur est tenu en particulier de fournir toutes les informations pertinentes ainsi que les pièces justificatives dont il dispose, concernant les périodes d’assurance (institutions, numéros d’identification), d’activité salariée (employeurs) ou non salariée (nature et lieu d’exercice) et de résidence (adresses) susceptibles d’avoir été accomplies en vertu d’une autre législation, ainsi que la durée de ces périodes.
 
@@ -1573,7 +1650,9 @@ Lorsque la législation appliquée par l’institution compétente ne permet pas
 
 <sup>(3)</sup> Si le demandeur retire une demande de prestations prévue par la législation d’un État, ce retrait n’est pas considéré comme un retrait concomitant des demandes de prestations au titre de la législation de l’autre État.
 
-****Art. 37** Examen des demandes par les institutions concernées**
+#### Art. 37
+
+**Examen des demandes par les institutions concernées**
 
 Institution de contact
 
@@ -1581,7 +1660,7 @@ Institution de contact
 
 Il incombe à cette institution d’instruire la demande de prestations au titre de la législation qu’elle applique; en outre, en sa qualité d’institution de contact, elle favorise les échanges de données et de décisions ainsi que les opérations nécessaires pour l’instruction de la demande par les institutions concernées, donne au demandeur toute information utile sur les aspects de l’instruction qui relèvent de la présente convention et le tient informé de son déroulement.
 
-**Instruction des demandes de pension de vieillesse et de survivant**
+### Instruction des demandes de pension de vieillesse et de survivant
 
 <sup>(2)</sup> L’institution de contact transmet sans délai les demandes de prestations ainsi que tous les documents dont elle dispose et, le cas échéant, les documents pertinents fournis par le demandeur à l’institution de l’autre État afin qu’elle puisse commencer simultanément à instruire la demande. L’institution de contact notifie à l’institution de l’autre État les périodes d’assurance ou de résidence soumises à sa législation qu’elle applique. Elle indique également les documents qui doivent être présentés ultérieurement et complète la demande dans les meilleurs délais.
 
@@ -1598,11 +1677,15 @@ Nonobstant l’art. 2, par. 1, de la présente convention, l’institution suiss
 - a) une personne qui ne relève pas du champ d’application de la présente convention telle qu’appliquée par la Suisse en vertu de l’art. 2, par. 1, de la présente convention, en raison de sa nationalité; et
 - b) les membres de la famille d’une personne décrite à la let. a).
 
-****Art. 38** Notification des décisions au requérant**
+#### Art. 38
+
+**Notification des décisions au requérant**
 
 Chaque institution notifie au demandeur la décision qu’elle a prise conformément aux dispositions de la législation applicable. Chaque décision précise les voies et délais de recours qui s’y attachent.
 
-****Art. 39** Acomptes provisoires et avances sur prestations**
+#### Art. 39
+
+**Acomptes provisoires et avances sur prestations**
 
 <sup>(1)</sup> Nonobstant les par. 7 et 8 de l’art. 6 de la présente annexe, une institution qui constate, au cours de l’instruction d’une demande de prestations que le demandeur a droit à une prestation indépendante au titre de la législation applicable, conformément à l’art. 49, par. 1, let. a), de la présente convention, verse cette prestation sans délai. Ce paiement est considéré comme provisoire si le résultat de la procédure d’instruction de la demande peut avoir une influence sur le montant accordé.
 
@@ -1610,13 +1693,17 @@ Chaque institution notifie au demandeur la décision qu’elle a prise conformé
 
 <sup>(3)</sup> Chaque institution tenue de verser des prestations provisoires ou une avance en vertu des par. 1 ou 2 en informe le demandeur sans délai en attirant expressément son attention sur le caractère provisoire de la mesure et sur les droits de recours éventuels, conformément à sa législation.
 
-****Art. 40** Nouveau calcul des prestations**
+#### Art. 40
+
+**Nouveau calcul des prestations**
 
 <sup>(1)</sup> En cas de nouveau calcul des prestations en application de l’art. 47 par. 4 et de l’art. 55 par. 1 de la présente convention, l’art. 39 de la présente annexe s’applique mutatis mutandis.
 
 <sup>(2)</sup> En cas de nouveau calcul, de suppression ou de suspension de la prestation, l’institution qui a pris la décision notifie celle-ci sans délai à l’intéressé et informe chacune des institutions à l’égard desquelles l’intéressé a un droit.
 
-****Art. 41** Mesures destinées à accélérer le calcul des pensions**
+#### Art. 41
+
+**Mesures destinées à accélérer le calcul des pensions**
 
 <sup>(1)</sup>
 
@@ -1627,13 +1714,17 @@ En vue de faciliter et d’accélérer l’instruction des demandes et le versem
 
 <sup>(2)</sup> Pour l’application du par. 1, les États, par l’intermédiaire du Comité administratif mixte, fixent les éléments d’information à échanger ou à communiquer et établissent les procédures et dispositifs adéquats, en tenant compte des caractéristiques, de l’organisation administrative et technique et des moyens technologiques à disposition des régimes nationaux de pension des deux États.
 
-****Art. 42** Détermination du degré d’invalidité**
+#### Art. 42
+
+**Détermination du degré d’invalidité**
 
 Chaque institution a, conformément à sa législation, la faculté de faire examiner le demandeur par un médecin ou un autre expert de son choix pour déterminer le degré d’invalidité. Cependant, l’institution d’un État prend en considération les documents et rapports médicaux ainsi que les renseignements d’ordre administratif recueillis par l’autre institution comme s’ils avaient été établis sur son propre territoire.
 
 ### Chapitre 5 Prestations de chômage
 
-****Art. 43** Totalisation des périodes et calcul des prestations**
+#### Art. 43
+
+**Totalisation des périodes et calcul des prestations**
 
 <sup>(1)</sup> L’art. 11, par. 1, de la présente annexe s’applique mutatis mutandis à l’art. 56 de la présente convention. Sans préjudice des obligations de base des institutions concernées, la personne concernée peut soumettre à l’institution compétente un document délivré par l’institution de l’État à la législation duquel elle était soumise au cours de sa dernière activité salariée ou non salariée et précisant les périodes accomplies sous cette législation.
 
@@ -1643,9 +1734,11 @@ Chaque institution a, conformément à sa législation, la faculté de faire exa
 
 ### Chapitre 1 Remboursement du coût des prestations en application des art. 35 et 41 de la convention
 
-Section 1 Remboursement sur la base des dépenses réelles
+### Section 1 Remboursement sur la base des dépenses réelles
 
-****Art. 44** Principes**
+#### Art. 44
+
+**Principes**
 
 <sup>(1)</sup> Aux fins de l’application des art. 35 et 41 de la présente convention, le montant effectif des dépenses exposées pour les prestations en nature, tel qu’il ressort de la comptabilité de l’institution qui les a servies, est remboursé à cette dernière institution par l’institution compétente, sauf en cas d’application de l’art. 54 de la présente annexe.
 
@@ -1653,9 +1746,11 @@ Section 1 Remboursement sur la base des dépenses réelles
 
 <sup>(3)</sup> Des tarifs supérieurs à ceux qui sont applicables aux prestations en nature servies aux personnes assurées soumises à la législation appliquée par l’institution ayant servi les prestations visées au par. 1 ne peuvent être pris en compte pour le remboursement.
 
-Section 2 Remboursement sur la base de forfaits
+### Section 2 Remboursement sur la base de forfaits
 
-****Art. 45** Forfait pour les prestations en nature**
+#### Art. 45
+
+**Forfait pour les prestations en nature**
 
 est remboursé par les institutions compétentes aux institutions qui ont servi lesdites prestations, sur la base d’un forfait établi pour chaque année civile. Le montant de ce forfait doit être aussi proche que possible des dépenses réelles.
 
@@ -1664,7 +1759,9 @@ Dans le cas du Royaume-Uni et, le montant des prestations en nature servies:
 - a) sous réserve de l’art. 34 de la présente convention, aux membres de la famille qui ne résident pas dans le même État que la personne assurée, en vertu de l’art. 20 de la présente convention; et
 - b) aux pensionnés et aux membres de leur famille, en vertu des art. 27, par. 1 et 28 de la présente convention,
 
-****Art. 46** Méthode de calcul des forfaits mensuels et du forfait total**
+#### Art. 46
+
+**Méthode de calcul des forfaits mensuels et du forfait total**
 
 <sup>(1)</sup> Pour le Royaume-Uni en tant qu’État créditeur, le forfait mensuel par personne (Fi) pour une année civile est déterminé en divisant par 12 le coût moyen annuel par personne (Yi), ventilé par classe d’âge (i), et en appliquant au résultat un abattement (X), conformément à la formule suivante:
 
@@ -1691,13 +1788,17 @@ Le nombre de mois accomplis par les personnes concernées en Suisse est égal à
 
 <sup>(5)</sup> Le Comité administratif mixte convient des méthodes de détermination des éléments de calcul des forfaits visés aux par. 1 à 4.
 
-****Art. 47** Notification des coûts moyens annuels**
+#### Art. 47
+
+**Notification des coûts moyens annuels**
 
 Le montant du coût moyen annuel par personne dans chaque classe d’âge relatif à une année déterminée est notifié au Comité administratif mixte au plus tard à la fin de la deuxième année qui suit l’année en question. À défaut de notification dans ces délais, le montant du coût moyen annuel par personne que le Comité administratif mixte a déterminé en dernier lieu pour une année précédente sera retenu.
 
-Section 3 Dispositions communes
+### Section 3 Dispositions communes
 
-****Art. 48** Procédure de remboursement entre institutions**
+#### Art. 48
+
+**Procédure de remboursement entre institutions**
 
 <sup>(1)</sup> Les remboursements entre les États s’effectuent dans les meilleurs délais. Chaque institution concernée est tenue de rembourser les créances avant les dates limites fixées dans la présente section, dès qu’elle est en mesure de le faire. La contestation d’une créance particulière ne fait pas obstacle au remboursement des autres créances.
 
@@ -1705,7 +1806,9 @@ Section 3 Dispositions communes
 
 Il peut y avoir un organisme de liaison distinct pour les remboursements visés à l’art. 35 et pour ceux visés à l’art. 41 de la présente convention.
 
-****Art. 49** Délais d’introduction et de paiement des créances**
+#### Art. 49
+
+**Délais d’introduction et de paiement des créances**
 
 <sup>(1)</sup> Les créances établies sur la base des dépenses réelles sont introduites auprès de l’organisme de liaison de l’État débiteur au plus tard douze mois après la fin du semestre civil au cours duquel ces créances ont été inscrites dans les comptes de l’institution créditrice.
 
@@ -1721,7 +1824,9 @@ Il peut y avoir un organisme de liaison distinct pour les remboursements visés 
 
 <sup>(7)</sup> Le Comité administratif mixte facilite la clôture finale des comptes dans les cas où un règlement ne peut pas être obtenu dans le délai prévu au par. 6 et, à la demande motivée d’une des Parties, se prononce sur la contestation dans les six mois suivant le mois au cours duquel elle a été saisie de la question.
 
-****Art. 50** Intérêts de retard et acomptes**
+#### Art. 50
+
+**Intérêts de retard et acomptes**
 
 <sup>(1)</sup> À compter de la fin de la période de 18 mois prévue à l’art. 49, par. 5, de la présente annexe, l’institution créditrice peut percevoir des intérêts de retard sur les créances non payées, sauf si l’institution débitrice a versé, dans un délai de six mois à compter de la fin du mois au cours duquel la créance a été introduite, un acompte d’un montant au moins égal à 90 % du total de la créance introduite en vertu de l’art. 49, par. 1 ou 2, de la présente annexe. Pour les parties de la créance non couvertes par l’acompte, un intérêt ne peut être imputé qu’à compter de la fin de la période de 36 mois prévue à l’art. 49, par. 6, de la présente annexe.
 
@@ -1729,21 +1834,27 @@ Il peut y avoir un organisme de liaison distinct pour les remboursements visés 
 
 <sup>(3)</sup> Aucun organisme de liaison n’est tenu d’accepter un acompte versé conformément au par. 1. Toutefois, si un organisme de liaison décline une telle offre, l’institution créditrice n’est plus habilitée à percevoir un intérêt sur les paiements en retard liés aux créances en question autre qu’au titre de la deuxième phrase du par. 1.
 
-****Art. 51** Relevé des comptes annuels**
+#### Art. 51
+
+**Relevé des comptes annuels**
 
 Les États se notifient mutuellement le montant des créances introduites, réglées ou contestées (position créditrice) d’une part, et le montant des créances reçues, réglées ou contestées (position débitrice) d’autre part.
 
 ### Chapitre 2 Récupération de prestations indûment servies, récupération des versements et cotisations provisoires, compensation et assistance en matière de recouvrement
 
-Section 1 Principes
+### Section 1 Principes
 
-****Art. 52** Dispositions communes**
+#### Art. 52
+
+**Dispositions communes**
 
 Aux fins de l’application de l’art. 66 de la présente convention et dans le cadre qu’il définit, le recouvrement des créances s’effectue, dans la mesure du possible, par la voie de la compensation soit entre les institutions des États, soit vis-à-vis de la personne physique ou morale concernée, conformément aux art. 53 à 55 de la présente annexe. Si tout ou partie de la créance n’a pu être recouvré par la voie de ladite compensation, les sommes qui restent dues sont recouvrées conformément aux art. 56 à 66 de la présente annexe.
 
-Section 2 Compensation
+### Section 2 Compensation
 
-****Art. 53** Prestations indues**
+#### Art. 53
+
+**Prestations indues**
 
 <sup>(1)</sup> Si l’institution d’un des deux États a versé indûment des prestations à une personne, cette institution peut, dans les conditions et limites prévues par la législation qu’elle applique, demander à l’institution de l’autre État débitrice de prestations en faveur de la personne concernée de retenir le montant indûment versé sur les arriérés ou les paiements courants dus à la personne concernée quelle que soit la branche de sécurité sociale dont relèvent les prestations considérées. Cette dernière institution opère la retenue dans les conditions et limites prévues pour une telle procédure de compensation par la législation qu’elle applique, comme s’il s’agissait de sommes versées en trop par elle-même, et transfère le montant retenu à l’institution ayant versé les prestations indues.
 
@@ -1755,7 +1866,9 @@ La présente disposition s’applique mutatis mutandis au membre de la famille d
 
 L’institution d’un État ayant versé une somme indue au titre de l’assistance transmet le décompte du montant qui lui est dû à l’institution de l’autre État. Celle-ci opère la retenue dans les conditions et limites prévues pour une telle procédure de compensation par la législation qu’elle applique et transfère sans délai le montant retenu à l’institution ayant versé la somme indue.
 
-****Art. 54** Prestations en espèces ou cotisations versées à titre provisoire**
+#### Art. 54
+
+**Prestations en espèces ou cotisations versées à titre provisoire**
 
 <sup>(1)</sup> Aux fins de l’application de l’art. 6 de la présente annexe, trois mois au plus tard après avoir déterminé quelle est la législation applicable ou l’institution débitrice des prestations, l’institution ayant versé des prestations en espèces à titre provisoire établit un décompte du montant versé à titre provisoire et l’adresse à l’institution reconnue comme compétente.
 
@@ -1769,13 +1882,17 @@ Si le montant des prestations versées à titre provisoire est supérieur au mon
 
 Si le montant des cotisations versées à titre provisoire est supérieur au montant que la personne physique ou morale doit à l’institution reconnue comme compétente, l’institution ayant perçu les cotisations à titre provisoire rembourse à cette personne le montant payé en trop.
 
-****Art. 55** Frais afférents à la compensation**
+#### Art. 55
+
+**Frais afférents à la compensation**
 
 Il n’est demandé aucun frais lorsque la créance est recouvrée par la procédure de compensation visée aux art. 53 et 54 de la présente annexe.
 
-Section 3 Recouvrement
+### Section 3 Recouvrement
 
-****Art. 56** Définitions et dispositions communes**
+#### Art. 56
+
+**Définitions et dispositions communes**
 
 <sup>(1)</sup>
 
@@ -1789,7 +1906,9 @@ Aux fins de la présente section, on entend par:
 
 <sup>(3)</sup> Les modalités pratiques d’exécution, y compris, entre autres, celles se rapportant à l’art. 4 de la présente annexe et à la fixation des montants minimum pouvant faire l’objet d’une demande de recouvrement, sont arrêtées par le Comité administratif mixte.
 
-****Art. 57** Demande de renseignements**
+#### Art. 57
+
+**Demande de renseignements**
 
 <sup>(1)</sup> Sur demande de l’entité requérante, l’entité requise lui communique les renseignements qui lui sont utiles pour le recouvrement d’une créance.
 
@@ -1805,7 +1924,9 @@ L’entité requise n’est pas tenue de fournir des renseignements:
 
 <sup>(4)</sup> L’entité requise informe l’entité requérante des motifs qui s’opposent à ce que la demande de renseignements soit satisfaite.
 
-****Art. 58** Notifications**
+#### Art. 58
+
+**Notifications**
 
 <sup>(1)</sup> Sur demande de l’entité requérante, l’entité requise procède à la notification au destinataire, selon les règles en vigueur pour la notification des actes et décisions correspondants sur son propre territoire, de tous actes et décisions, y compris judiciaires, relatifs à une créance ou à son recouvrement, émanant de l’État de l’entité requérante.
 
@@ -1813,7 +1934,9 @@ L’entité requise n’est pas tenue de fournir des renseignements:
 
 <sup>(3)</sup> L’entité requise informe sans tarder l’entité requérante de la suite donnée à la demande de notification et en particulier de la date à laquelle la décision ou l’acte a été transmis au destinataire.
 
-****Art. 59** Demande de recouvrement**
+#### Art. 59
+
+**Demande de recouvrement**
 
 <sup>(1)</sup> À la demande de l’entité requérante, l’entité requise recouvre les créances faisant l’objet d’un titre permettant l’exécution émis par l’entité requérante, dans la mesure où les dispositions du droit applicable et les pratiques administratives en vigueur dans l’État de l’entité requise le permettent et conformément à celles-ci.
 
@@ -1842,7 +1965,9 @@ La demande de recouvrement indique:
 
 <sup>(5)</sup> L’entité requérante adresse à l’entité requise, dès qu’elle en a connaissance, tous les renseignements utiles se rapportant à l’affaire qui a motivé la demande de recouvrement.
 
-****Art. 60** Titre permettant l’exécution d’un recouvrement**
+#### Art. 60
+
+**Titre permettant l’exécution d’un recouvrement**
 
 <sup>(1)</sup> Conformément à l’art. 66, par. 2, de la présente convention, le titre permettant l’exécution de la créance est directement reconnu et traité automatiquement comme un titre permettant le recouvrement d’une créance de l’État de l’entité requise.
 
@@ -1852,7 +1977,9 @@ La demande de recouvrement indique:
 
 <sup>(4)</sup> Si l’une quelconque de ces formalités donne lieu à une contestation concernant la créance ou le titre exécutoire permettant le recouvrement émis par l’entité requérante, l’art. 62 de la présente annexe s’applique.
 
-****Art. 61** Modalités et délais de paiement**
+#### Art. 61
+
+**Modalités et délais de paiement**
 
 <sup>(1)</sup> Le recouvrement est effectué dans la monnaie de l’État de l’entité requise. L’entité requise transfère à l’entité requérante la totalité du montant de la créance qu’elle a recouvré.
 
@@ -1860,7 +1987,9 @@ La demande de recouvrement indique:
 
 <sup>(3)</sup> À partir de la date à laquelle le titre permettant l’exécution du recouvrement de la créance a été directement reconnu conformément à l’art. 60, par. 1, de la présente annexe, ou homologué, reconnu, complété ou remplacé conformément à l’art. 60, par. 2, de la présente annexe, des intérêts sont perçus pour tout retard de paiement en vertu des dispositions législatives, réglementaires et administratives en vigueur dans l’État de l’entité requise, et ils sont également à transférer à l’entité requérante.
 
-****Art. 62** Contestation de la créance ou du titre permettant l’exécution du recouvrement et contestation des mesures d’exécution**
+#### Art. 62
+
+**Contestation de la créance ou du titre permettant l’exécution du recouvrement et contestation des mesures d’exécution**
 
 <sup>(1)</sup> Si, au cours de la procédure de recouvrement, la créance ou le titre permettant l’exécution de son recouvrement émis dans l’État de l’entité requérante sont contestés par un intéressé, l’action est portée par celui-ci devant les autorités compétentes de l’État de l’entité requérante, conformément aux règles de droit en vigueur dans cet État. Cette action est notifiée sans retard par l’entité requérante à l’entité requise. L’intéressé peut également en informer l’autorité requise.
 
@@ -1872,7 +2001,9 @@ La demande de recouvrement indique:
 
 <sup>(5)</sup> Lorsque l’autorité compétente devant laquelle l’action a été portée, conformément au par. 1, est un tribunal judiciaire ou administratif, la décision de ce tribunal, pour autant qu’elle soit favorable à l’entité requérante et qu’elle permette le recouvrement de la créance dans l’État où l’entité requérante a son siège, constitue le «titre permettant l’exécution» au sens des art. 59 et 60 de la présente annexe, et le recouvrement de la créance est effectué sur la base de cette décision.
 
-****Art. 63** Limites de l’assistance**
+#### Art. 63
+
+**Limites de l’assistance**
 
 <sup>(1)</sup>
 
@@ -1883,7 +2014,9 @@ L’entité requise n’est pas tenue:
 
 <sup>(2)</sup> L’entité requise informe l’entité requérante des motifs qui s’opposent à ce que la demande d’assistance soit satisfaite.
 
-****Art. 64** Prescription**
+#### Art. 64
+
+**Prescription**
 
 <sup>(1)</sup>
 
@@ -1896,13 +2029,17 @@ Les questions concernant la prescription sont régies:
 
 <sup>(3)</sup> Les actes de recouvrement effectués par l’entité requise conformément à la demande d’assistance et qui, s’ils avaient été effectués par l’entité requérante, auraient eu pour effet de suspendre ou d’interrompre la prescription selon les règles de droit en vigueur dans l’État de l’entité requérante sont considérés, en ce qui concerne cet effet, comme ayant été accomplis dans ce dernier État.
 
-****Art. 65** Mesures conservatoires**
+#### Art. 65
+
+**Mesures conservatoires**
 
 <sup>(1)</sup> Sur demande motivée de l’entité requérante, l’entité requise prend des mesures conservatoires pour garantir le recouvrement d’une créance dans la mesure où les dispositions législatives ou réglementaires en vigueur dans l’État de l’entité requise le permettent.
 
 <sup>(2)</sup> Aux fins de la mise en œuvre des dispositions du par. 1, les mesures et les procédures visées aux art. 59, 60, 62 et 63 de la présente annexe s’appliquent *mutatis mutandis*.
 
-****Art. 66** Frais afférents au recouvrement**
+#### Art. 66
+
+**Frais afférents au recouvrement**
 
 <sup>(1)</sup> L’autorité requise recouvre auprès de la personne physique ou morale concernée tous les frais liés au recouvrement et en conserve le montant, conformément aux dispositions législatives et réglementaires de l’État de l’entité requise qui sont applicables à des créances analogues.
 
@@ -1912,7 +2049,9 @@ Les questions concernant la prescription sont régies:
 
 ### Titre V Dispositions diverses, transitoires et finales
 
-****Art. 67** Contrôle médical et administratif**
+#### Art. 67
+
+**Contrôle médical et administratif**
 
 <sup>(1)</sup> Sans préjudice d’autres dispositions, lorsqu’un bénéficiaire ou un demandeur de prestations, ou un membre de sa famille, séjourne ou réside sur le territoire d’un État autre que celui où se trouve l’institution débitrice, le contrôle médical est effectué, à la demande de cette institution, par l’institution du lieu de séjour ou de résidence du bénéficiaire conformément aux procédures prévues par la législation que cette institution applique.
 
@@ -1928,7 +2067,9 @@ Le par. 2 est également applicable dans ce cas.
 
 <sup>(4)</sup> À titre d’exception au principe de la gratuité de l’entraide administrative prévu à l’art. 58, par. 3, de la présente convention, l’institution débitrice rembourse le coût réel des contrôles visés aux par. 1 à 3 à l’institution à laquelle elle a demandé de procéder à ces contrôles.
 
-****Art. 68** Notifications**
+#### Art. 68
+
+**Notifications**
 
 <sup>(1)</sup> Les États notifient au Comité administratif mixte les coordonnées des organismes et entités visés à l’art. 1 de la présente convention, ainsi que des institutions désignées conformément à la présente annexe.
 
@@ -1938,11 +2079,15 @@ Le par. 2 est également applicable dans ce cas.
 
 <sup>(4)</sup> Les États assurent la mise à jour des informations visées au par. 1.
 
-****Art. 69** Conversion des monnaies**
+#### Art. 69
+
+**Conversion des monnaies**
 
 Aux fins de l’application de la présente convention et de la présente annexe, le taux de change entre deux monnaies est le taux de change de référence convenu par le Comité administratif mixte. La date à prendre en compte pour établir les taux de change est convenue par le Comité administratif mixte et fixée dans les arrangements administratifs.
 
-****Art. 70** Dispositions transitoires concernant les formulaires et documents**
+#### Art. 70
+
+**Dispositions transitoires concernant les formulaires et documents**
 
 Pour une période transitoire dont la date de fin est convenue par le Comité administratif mixte, tous les formulaires et documents délivrés par les institutions compétentes dans le format utilisé immédiatement avant l’entrée en vigueur de la présente convention sont valables pour l’application de la présente convention et, le cas échéant, continuent d’être utilisés pour l’échange d’informations entre institutions compétentes. Tous ces formulaires et documents délivrés avant et pendant cette période transitoire sont valables jusqu’à leur expiration ou leur annulation.
 
@@ -2039,9 +2184,11 @@ Royaume-Uni
 
 Prestations proportionnelles de vieillesse versées conformément aux art. 36 et 37 de la loi de 1965 sur l’assurance nationale (National Insurance Act 1965) et aux art. 35 et 36 de la loi de 1966 sur l’assurance nationale (Irlande du Nord) [National Insurance Act (Northern Ireland) 1966].
 
-Annexe 4
+Annexe 4[^t-1]
 
 ## Dispositions particulières d’application de la législation des États (Art. 6, par. 2, art. 53, par. 1, et art. 68)
+
+[^t-1]: Mise à jour par l’erratum du 16 août 2022 ([RO 2022 450](https://fedlex.data.admin.ch/eli/oc/2022/450)).
 
 Royaume-Uni
 
@@ -2071,7 +2218,7 @@ Royaume-Uni
 \3. a) Pour le calcul du facteur «revenu» (earnings factor) en vue de la détermination du droit aux prestations prévues par la législation du Royaume-Uni, pour chaque semaine d’emploi en qualité de travailleur salarié en vertu de la législation suisse qui a commencé au cours de l’année d’imposition sur le revenu de référence au sens de la législation du Royaume- Uni, l’intéressé est réputé avoir cotisé comme travailleur salarié ou avoir perçu des revenus ayant donné lieu au paiement de cotisations, sur la base de revenus correspondant aux deux tiers de la limite supérieure des revenus pour cette année d’imposition.
 
 - b) Aux fins de l’application de l’art. 49, par. 1, let. b), de la présente convention:
-- i) lorsque, pour toute année d’imposition sur le revenu commençant le 6 avril 1975 ou postérieurement à cette date, un travailleur salarié a accompli des périodes d’assurance, d’emploi ou de résidence exclusivement en Suisse, et lorsqu’il résulte de l’application du point 1 du présent paragraphe que cette année est considérée comme une année à prendre en compte (qualifying year) au sens de la législation du Royaume-Uni, aux fins de l’application de l’art. 49, par. 1, let. b) i), de la présente convention, l’intéressé est réputé avoir été assuré pendant cinquante-deux semaines cette année-là en Suisse;
+- i) lorsque, pour toute année d’imposition sur le revenu commençant le 6 avril 1975 ou postérieurement à cette date, un travailleur salarié a accompli des périodes d’assurance, d’emploi ou de résidence exclusivement en Suisse, et lorsqu’il résulte de l’application du point 3(a) du présent paragraphe que cette année est considérée comme une année à prendre en compte (qualifying year) au sens de la législation du Royaume-Uni, aux fins de l’application de l’art. 49, par. 1, let. b) i), de la présente convention, l’intéressé est réputé avoir été assuré pendant cinquante-deux semaines cette année-là en Suisse;
 - ii) lorsque toute année d’imposition sur le revenu commençant le 6 avril 1975 ou postérieurement à cette date n’est pas considérée comme une année à prendre en compte (qualifying year) au sens de la législation du Royaume-Uni, aux fins de l’application de l’art. 49, par. 1, let. b) i), de la présente convention, toute période d’assurance, d’emploi ou de résidence accomplie cette année-là n’est pas prise en considération.
 - c) Pour la conversion du facteur «revenu» en périodes d’assurance, le facteur «revenu» obtenu pendant l’année d’imposition sur le revenu de référence, au sens de la législation du Royaume-Uni, est divisé par le montant de la limite inférieure de revenu fixé pour cette année d’imposition. Le quotient obtenu est exprimé sous forme de nombre entier, en ignorant les décimales. Le nombre ainsi calculé est considéré comme représentant le nombre de semaines d’assurance accomplies sous la législation du Royaume-Uni pendant cette année d’imposition, étant entendu que ce nombre ne pourra excéder celui des semaines pendant lesquelles, au cours de cette année d’imposition, l’intéressé a été soumis à cette législation.
 - d) Lorsque le bénéfice de l’allocation de parent veuf ou de l’indemnité de soutien en cas de deuil (taux supérieur) est subordonné au droit aux allocations familiales britanniques, une personne qui satisfait à tous les autres critères d’éligibilité et qui aurait droit aux allocations familiales britanniques si elle, ou l’enfant concerné, résidait au Royaume-Uni, ne sera pas empêchée de demander l’allocation de parent veuf ou l’indemnité de soutien en cas de deuil (taux supérieur) conformément à la présente convention, nonobstant le fait que les allocations familiales britanniques sont exclues du champ d’application matériel de la présente convention en vertu de l’art. 6, par. 4, let. g).
@@ -2080,7 +2227,7 @@ Suisse
 
 - 1\. a) L’art. 2 de la loi fédérale sur l’assurance vieillesse et survivants ainsi que l’art. 1 de la loi fédérale sur l’assurance invalidité, qui régissent l’assurance facultative dans ces branches d’assurance pour les ressortissants suisses qui ne résident pas dans un État membre de l’Union européenne ou un État de l’Association européenne de libre-échange, sont applicables aux ressortissants suisses et aux ressortissants d’un État membre de l’Union européenne, lorsque ces personnes déclarent leur adhésion à l’assurance facultative au plus tard une année à compter du jour où elles ont cessé d’être couvertes par l’assurance vieillesse, survivants et invalidité suisse après une période d’assurance ininterrompue d’au moins cinq ans.
 - b) Lorsqu’une personne cesse d’être assurée au titre de l’assurance vieillesse, survivants et invalidité suisse après une période d’assurance ininterrompue d’au moins cinq ans, elle a le droit de continuer l’assurance avec l’accord de l’employeur si elle travaille hors du Royaume-Uni pour un employeur en Suisse et si elle en fait la demande dans un délai de six mois à compter du jour où elle cesse d’être assurée.
-- c) Lorsque, en application de l’art. 13, par. 6, la législation suisse s’applique au conjoint et aux enfants, ceux-ci sont assurés dans l’assurance vieillesse, survivants et invalidité suisse.
+- c) Lorsque, en application de l’art. 13, par. 6, de la présente convention, la législation suisse s’applique au conjoint et aux enfants, ceux-ci sont assurés dans l’assurance vieillesse, survivants et invalidité suisse.
 
 \2. Les dispositions légales suisses régissant l’assurance maladie obligatoire s’appliquent aux personnes soumises aux dispositions légales suisses selon le titre II de la présente convention et aux personnes pour qui la Suisse est l’État compétent selon les art. 27 et 28 de la présente convention même si elles ne résident pas en Suisse.
 
