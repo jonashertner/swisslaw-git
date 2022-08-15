@@ -3,11 +3,11 @@ sr: "0.814.012.136.0"
 title: Durchführungsabkommen vom 18. Oktober 2021 zum Übereinkommen von Paris zwischen der Schweizerischen Eidgenossenschaft und Georgien
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/755"
 language: de
-version: 2021-12-17
+version: 2022-08-16
 adopted: 2021-10-18
 in_force: 2021-12-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/755/20211217/de/xml/fedlex-data-admin-ch-eli-cc-2021-755-20211217-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/755/20211217/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/755/20220816/de/xml/fedlex-data-admin-ch-eli-cc-2021-755-20220816-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/755/20220816/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ Originaltext
 
 Abgeschlossen am 18. Oktober 2021 In Kraft getreten am 17. Dezember 2021
 
-(Stand am 17. Dezember 2021)
+(Stand am 16. August 2022)
 
 Die Schweizerische Eidgenossenschaft und Georgien nachfolgend als «Parteien» bezeichnet,
 
@@ -57,7 +57,7 @@ sind wie folgt übereingekommen:
 
 #### Art. 1
 
-**Allgemeine Begriffsbestimmungen**
+**Allgemeine Begriffsbestimmungen[^1-1]**
 
 Im Sinne dieses Abkommens gelten die folgenden Begriffsbestimmungen:
 
@@ -86,6 +86,8 @@ Im Sinne dieses Abkommens gelten die folgenden Begriffsbestimmungen:
 - 17\. «Verifizierer» bedeutet die unabhängige, nicht zu den Parteien gehörende Stelle, welche die Monitoringberichte überprüft;
 - 18\. «Verifizierungsbericht» bedeutet den vom Verifizierer verfassten Bericht, in dem die inhaltliche Richtigkeit eines Monitoringberichts bestätigt wird;
 - 19\. «Jahrgang» bedeutet das Jahr, in dem ein Minderungsergebnis zustande gekommen ist.
+
+[^1-1]: Die Berichtigung vom 16. Aug. 2022 betrifft nur den französischen Text ([AS 2022 449](https://fedlex.data.admin.ch/eli/oc/2022/449)).
 
 #### Art. 2
 

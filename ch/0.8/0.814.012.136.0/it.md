@@ -3,11 +3,11 @@ sr: "0.814.012.136.0"
 title: Accordo relativo all’attuazione del 18 ottobre 2021 relativo all’attuazione dell’Accordo di Parigi tra la Confederazione Svizzera e la Georgia
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/755"
 language: it
-version: 2021-12-17
+version: 2022-08-16
 adopted: 2021-10-18
 in_force: 2021-12-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/755/20211217/it/xml/fedlex-data-admin-ch-eli-cc-2021-755-20211217-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/755/20211217/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/755/20220816/it/xml/fedlex-data-admin-ch-eli-cc-2021-755-20220816-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/755/20220816/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Concluso il 18 ottobre 2021 Entrato in vigore il 17 dicembre 2021
 
-(Stato 17 dicembre 2021)
+(Stato 16 agosto 2022)
 
 La Confederazione Svizzera e la Georgia, di seguito denominate «Parti»,
 
@@ -57,7 +57,7 @@ hanno convenuto quanto segue:
 
 #### Art. 1
 
-**Definizioni generali**
+**Definizioni generali[^1-1]**
 
 Ai fini del presente Accordo si applicano le seguenti definizioni:
 
@@ -86,6 +86,8 @@ Ai fini del presente Accordo si applicano le seguenti definizioni:
 - 17\. «Organismo di verifica» è l’organismo indipendente di terza parte che verifica i rapporti di monitoraggio.
 - 18\. «Rapporto di verifica» è il rapporto allestito dall’organismo di verifica per confermare l’esattezza di un rapporto di monitoraggio;
 - 19\. «Anno» corrisponde all’anno in cui è stato ottenuto un risultato di mitigazione.
+
+[^1-1]: La correzione del 16 ago. 2022 concerne soltanto il testo francese ([RU 2022 449](https://fedlex.data.admin.ch/eli/oc/2022/449)).
 
 #### Art. 2
 

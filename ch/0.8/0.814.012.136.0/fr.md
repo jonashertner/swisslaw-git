@@ -3,11 +3,11 @@ sr: "0.814.012.136.0"
 title: Accord de mise en œuvre du 18 octobre 2021 de mise en œuvre de l’Accord de Paris entre la Confédération suisse et la Géorgie
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/755"
 language: fr
-version: 2021-12-17
+version: 2022-08-16
 adopted: 2021-10-18
 in_force: 2021-12-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/755/20211217/fr/xml/fedlex-data-admin-ch-eli-cc-2021-755-20211217-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/755/20211217/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/755/20220816/fr/xml/fedlex-data-admin-ch-eli-cc-2021-755-20220816-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/755/20220816/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Traduction
 
 Conclu le 18 octobre 2021 Entré en vigueur le 17 décembre 2021
 
-(Etat le 17 décembre 2021)
+(Etat le 16 août 2022)
 
 La Confédération suisse et la Géorgie, ci-après dénommées «les Parties»,
 
@@ -57,7 +57,7 @@ ont convenu de ce qui suit:
 
 #### Art. 1
 
-**Titre médian**
+**Définitions générales[^1-1]**
 
 Aux fins du présent Accord, les définitions énoncées ci-après sont applicables:
 
@@ -86,6 +86,8 @@ Aux fins du présent Accord, les définitions énoncées ci-après sont applicab
 - 17\. «Vérificateur» désigne l’organisme indépendant chargé de vérifier les rapports de suivi;
 - 18\. «Rapport de vérification» désigne le rapport établi par le vérificateur et confirmant l’exactitude du contenu d’un rapport de suivi;
 - 19\. «Année d’obtention» désigne l’année où un résultat d’atténuation a eu lieu.
+
+[^1-1]: Erratum du 16 août 2022 ([RO 2022 449](https://fedlex.data.admin.ch/eli/oc/2022/449)).
 
 #### Art. 2
 
