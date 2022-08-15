@@ -2,21 +2,22 @@
 canton: GR
 number: "425.500"
 title: Ordinaziun davart il diever e las taxas da las scolas medias cun purtaders chantunals
-short: ODT da las scolas medias chantunalas
+short: ODT da la las scolas medias chantunalas
 language: rm
 version: 2022-08-01
+corrected: 2022-08-16
 version_adopted: 2022-02-01
 adopted: 2022-02-01
 in_force: 2022-08-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/425.500"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3818/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3237/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ordinaziun davart il diever e las taxas da las scolas medias cun purtaders chantunals
 
-(ODT da las scolas medias chantunalas)
+(ODT da la las scolas medias chantunalas)
 
 dals 01-02-2022 (versiun dals 01-08-2022)
 
@@ -42,7 +43,7 @@ relaschà da la Regenza il 1. da favrer 2022
 
 **Reglament da manaschi, surveglianza**
 
-<sup>1</sup> Las disposiziuns d'utilisaziun ston vegnir fixadas da la direcziun da la scola sco agiunta a la disposiziun da la rectura u dal rectur en in reglament da manaschi che sto vegnir approvà da l'Uffizi da scolas medias e furmaziun terziara (uffizi). Il reglament da manaschi dispona en spezial:
+<sup>1</sup> Las disposiziuns d'utilisaziun ston vegnir fixadas da la direcziun da la scola sco agiunta a la disposiziun da la rectura u dal rectur en in reglament da manaschi che sto vegnir approvà da l'Uffizi per la furmaziun media-superiura (uffizi). Il reglament da manaschi dispona en spezial:
 
 - a) las uras d'avertura ed ils temps da manaschi;
 - b) las responsabladads;
@@ -75,30 +76,5 @@ relaschà da la Regenza il 1. da favrer 2022
 **Execuziun**
 
 <sup>1</sup> L'execuziun da questa ordinaziun è chaussa da l'uffizi.
-
-## A1 Agiunta 1: Pretschs da locaziun en francs (excl. taglia sin la plivalur) per l'utilisaziun dals stabiliments da scola (art. 4 al. 1 ed art. 5 al. 1)
-
-#### Art. A1-1
-
-<sup>1</sup> Stabiliments da scola generals:
-
-<table>
-<tr><th>Stabiliment</th><th>1 ura</th><th>fin 2.5 uras</th><th>fin 5 uras</th><th>fin 8 uras</th><th>dapli che 8 uras</th></tr>
-<tr><td>Aula u sala gronda</td><td>45</td><td>86</td><td>155</td><td>260</td><td>390</td></tr>
-<tr><td>Sala pitschna</td><td>23</td><td>44</td><td>80</td><td>130</td><td>200</td></tr>
-<tr><td>Stanza da scola, da musica e da sesidas</td><td>23</td><td>44</td><td>80</td><td>130</td><td>200</td></tr>
-<tr><td>Laboratori, stanza da computers, lavuratori, art figurativ</td><td>35</td><td>67</td><td>120</td><td>200</td><td>300</td></tr>
-<tr><td>Sala da musica</td><td>35</td><td>67</td><td>120</td><td>200</td><td>300</td></tr>
-<tr><td>Cella da clavazin</td><td>12</td><td>23</td><td>40</td><td>70</td><td>---</td></tr>
-</table>
-
-<sup>2</sup> Stabiliments da sport:
-
-<table>
-<tr><th>Stabiliment</th><th>1 ura</th><th>fin 2.5 uras</th><th>fin 5 uras</th><th>fin 8 uras</th><th>dapli che 8 uras</th><th>per onn da scola</th></tr>
-<tr><td>Halla da gimnastica, stabiliment al liber</td><td>23</td><td>44</td><td>80</td><td>130</td><td>200</td><td>310</td></tr>
-<tr><td>Local da trenament da forza, stanza da teoria</td><td>12</td><td>23</td><td>40</td><td>70</td><td>---</td><td>200</td></tr>
-<tr><td>Bogn cuvert</td><td>50</td><td>95</td><td>170</td><td>290</td><td>---</td><td>1060</td></tr>
-</table>
 
 2022-008
