@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Verordnung vom 4. März 2022 über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: de
-version: 2022-08-03
+version: 2022-08-17
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20220803/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20220803-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20220803/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20220817/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20220817-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20220817/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 
-vom 4. März 2022 (Stand am 3. August 2022)
+vom 4. März 2022 (Stand am 17. August 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -1147,22 +1147,22 @@ Artikel 24*a* Absatz 1 ist nicht anwendbar auf:
 
 Diese Verordnung tritt am 4. März 2022 um 18.00 Uhr in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 5 Abs. 1 und 2)
 
-## Güter zur militärischen und technologischen Stärkung oder zur Entwicklung des Verteidigungs- und Sicherheitssektors****
+## Güter zur militärischen und technologischen Stärkung oder zur Entwicklung des Verteidigungs- und Sicherheitssektors
 
 [^annex1-lvlu1-1]
 
 [^t-1]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 25. März 2022 ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)), vom 27. April 2022 ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)), Ziff. I Abs. 1 der V des WBF vom 10. Juni 2022 ([AS 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)) und vom 28. Juli 2022, in Kraft seit 29. Juli 2022 um 18.00 Uhr ([AS 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)).
 [^annex1-lvlu1-1]: Der Anhang wird weder in der AS noch in der SR veröffentlicht. Der Inhalt kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 (Art. 35 Abs. 4)
 
-## Endempfänger nach Art. 35 Abs. 4****
+## Endempfänger nach Art. 35 Abs. 4
 
 [^annex2-lvlu1-1]
 
@@ -1180,7 +1180,7 @@ Anhang 3
 <tr><td>88</td><td>Luftfahrzeuge und Raumfahrzeuge, Teile davon</td></tr>
 </table>
 
-Anhang 4*[^t-3]*
+Anhang 4[^t-3]
 
 (Art. 10 Abs. 1 und 4)
 
@@ -1220,7 +1220,7 @@ Anhang 4*[^t-3]*
 <tr><td>ex</td><td>8479 89</td><td>Solvententasphaltierungsanlagen</td></tr>
 </table>
 
-Anhang 5*[^t-4]*
+Anhang 5[^t-4]
 
 (Art. 11 Abs. 1)
 
@@ -1449,22 +1449,22 @@ Anhang 7
 <tr><td>9033</td><td>Teile und Zubehör (in Kapitel 90 anderweit weder genannt noch inbegriffen) für Maschinen, Apparate, Geräte, Instrumente oder andere Waren des Kapitels 90</td></tr>
 </table>
 
-Anhang 8*[^t-5]*
+Anhang 8[^t-5]
 
 (Art. 15 Abs. 1 und 4 sowie 29 Abs. 1)
 
-## Natürliche Personen, gegen die sich die Finanzsanktionen und das Ein- und Durchreiseverbot richten, sowie Unternehmen und Organisationen, gegen die sich die Finanzsanktionen richten****
+## Natürliche Personen, gegen die sich die Finanzsanktionen und das Ein- und Durchreiseverbot richten, sowie Unternehmen und Organisationen, gegen die sich die Finanzsanktionen richten
 
 [^annex8-lvlu1-1]
 
-[^t-5]: Bereinigt gemäss Ziff. I der V des WBF vom 15. März 2022 ([AS 2022 173](https://fedlex.data.admin.ch/eli/oc/2022/173)), vom 13. April 2022 ([AS 2022 237](https://fedlex.data.admin.ch/eli/oc/2022/237)), vom 3. Mai 2022 ([AS 2022 270](https://fedlex.data.admin.ch/eli/oc/2022/270)), Ziff. I Abs. 1 der V des WBF vom 10. Juni 2022 ([AS 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)), vom 28. Juli 2022 ([AS 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)) und Ziff. II Abs. 1 der V vom 3. Aug. 2022, in Kraft seit 3. Aug. 2022 um 18.00 Uhr ([AS 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
-[^annex8-lvlu1-1]: Der Inhalt dieses Anhangs wird weder in der AS noch in der SR veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2022/436](https://fedlex.data.admin.ch/eli/oc/2022/436)&gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-5]: Bereinigt gemäss Ziff. I der V des WBF vom 15. März 2022 ([AS 2022 173](https://fedlex.data.admin.ch/eli/oc/2022/173)), vom 13. April 2022 ([AS 2022 237](https://fedlex.data.admin.ch/eli/oc/2022/237)), vom 3. Mai 2022 ([AS 2022 270](https://fedlex.data.admin.ch/eli/oc/2022/270)), Ziff. I Abs. 1 der V des WBF vom 10. Juni 2022 ([AS 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)), vom 28. Juli 2022 ([AS 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)), Ziff. II Abs. 1 der V vom 3. Aug. 2022, in Kraft seit 3. Aug. 2022 um 18.00 Uhr ([AS 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)) und Ziff. I der V des WBF vom 16. Aug. 2022, in Kraft seit 17. Aug. 2022 um 18.00 Uhr ([AS 2022 451](https://fedlex.data.admin.ch/eli/oc/2022/451)).
+[^annex8-lvlu1-1]: Der Inhalt dieses Anhangs wird weder in der AS noch in der SR veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2022/451](https://fedlex.data.admin.ch/eli/oc/2022/451) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 9
 
 (Art. 18 Abs. 1 Bst. a und b sowie 19 Abs. 3 Bst. c)
 
-## Banken und andere Unternehmen, die Restriktionen auf dem Geld- und Kapitalmarkt unterliegen****
+## Banken und andere Unternehmen, die Restriktionen auf dem Geld- und Kapitalmarkt unterliegen
 
 [^annex9-lvlu1-1]
 
@@ -1474,17 +1474,17 @@ Anhang 10
 
 (Art. 18 Abs. 2 Bst. a und b)
 
-## Banken und andere Unternehmen, die Restriktionen auf dem Geld- und Kapitalmarkt unterliegen****
+## Banken und andere Unternehmen, die Restriktionen auf dem Geld- und Kapitalmarkt unterliegen
 
 [^annex10-lvlu1-1]
 
 [^annex10-lvlu1-1]: Der Anhang wird weder in der AS noch in der SR veröffentlicht. Der Inhalt kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
-Anhang 11*[^t-6]*
+Anhang 11[^t-6]
 
 (Art. 18 Abs. 2 Bst. a und b)
 
-## Banken und andere Unternehmen, die Restriktionen auf dem Geld- und Kapitalmarkt unterliegen****
+## Banken und andere Unternehmen, die Restriktionen auf dem Geld- und Kapitalmarkt unterliegen
 
 [^annex11-lvlu1-1]
 
@@ -1495,7 +1495,7 @@ Anhang 12
 
 (Art. 18 Abs. 3 Bst. a)
 
-## Banken und andere Unternehmen die Restriktionen auf dem Geld- und Kapitalmarkt unterliegen****
+## Banken und andere Unternehmen die Restriktionen auf dem Geld- und Kapitalmarkt unterliegen
 
 [^annex12-lvlu1-1]
 
@@ -1505,35 +1505,35 @@ Anhang 13
 
 (Art. 18 Abs. 3 Bst. a)
 
-## Banken und andere Unternehmen, die Restriktionen auf dem Geld- und Kapitalmarkt unterliegen****
+## Banken und andere Unternehmen, die Restriktionen auf dem Geld- und Kapitalmarkt unterliegen
 
 [^annex13-lvlu1-1]
 
 [^annex13-lvlu1-1]: Der Anhang wird weder in der AS noch in der SR veröffentlicht. Der Inhalt kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
-Anhang 14*[^t-7]*
+Anhang 14[^t-7]
 
 (Art. 27)
 
-## Banken und andere Unternehmen, die dem Verbot der Bereitstellung spezialisierter Nachrichtenübermittlungsdienste für den Zahlungsverkehr unterliegen****
+## Banken und andere Unternehmen, die dem Verbot der Bereitstellung spezialisierter Nachrichtenübermittlungsdienste für den Zahlungsverkehr unterliegen
 
 [^annex14-lvlu1-1]
 
 [^t-7]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 27. April 2022 ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)) und Ziff. I Abs. 1 der V des WBF vom 10. Juni 2022, in Kraft seit 10. Juni 2022 um 18.00 Uhr ([AS 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)).
 [^annex14-lvlu1-1]: Der Anhang wird weder in der AS noch in der SR veröffentlicht. Der Inhalt kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
-Anhang 15*[^t-8]*
+Anhang 15[^t-8]
 
 (Art. 24*a* Abs. 1 Bst. a)
 
-## Banken und andere Organisationen, die Transaktionsverboten unterliegen****
+## Banken und andere Organisationen, die Transaktionsverboten unterliegen
 
 [^annex15-lvlu1-1]
 
 [^t-8]: Eingefügt durch Ziff. II Abs. 2 der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
 [^annex15-lvlu1-1]: Der Anhang wird weder in der AS noch in der SR veröffentlicht. Der Inhalt kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
-Anhang 16*[^t-9]*
+Anhang 16[^t-9]
 
 (Art. 9*a* Abs. 1)
 
@@ -1560,7 +1560,7 @@ Kategorie VI – Meeres- und Schiffstechnik
 <tr><td>ex 8517</td><td>Telefonapparate, einschliesslich Smartphones und andere Telefone für zellulare Netze und für andere drahtlose Netze; andere Sende-, Übermittlungs- oder Empfangsgeräte für Sprache, Bilder oder andere Daten, einschliesslich Apparate für den Informationsaustausch in einem drahtgebundenen oder drahtlosen Netz (wie ein lokales Netz (LAN) oder ein Weitverkehrsnetz (WAN)), andere als solche der Nrn. 8443, 8525, 8527 oder 8528 (einschliesslich Teile)</td></tr>
 </table>
 
-Anhang 17*[^t-10]*
+Anhang 17[^t-10]
 
 (Art. 14*a* Abs. 1)
 
@@ -1618,7 +1618,7 @@ Anhang 17*[^t-10]*
 <tr><td>7306</td><td>Andere Rohre und Hohlprofile (z. B. geschweisst, genietet, gefalzt oder mit einfach aneinandergefügten Rändern), aus Eisen oder Stahl</td></tr>
 </table>
 
-Anhang 18*[^t-11]*
+Anhang 18[^t-11]
 
 (Art. 14*b* Abs. 1)
 
@@ -2066,7 +2066,7 @@ Sofern in diesem Anhang nichts anderes angegeben ist, gilt das Verbot nach Artik
 <tr><th></th><th>9015 10 00</th><th>Entfernungsmesser</th></tr>
 </table>
 
-Anhang 19*[^t-12]*
+Anhang 19[^t-12]
 
 (Art. 9*b* Abs. 1)
 
@@ -2104,7 +2104,7 @@ Anhang 19*[^t-12]*
 <tr><td></td><td>ex 3811 90</td><td>Thermostabilitätsverbesserer für andere, zu denselben Zwecken wie Mineralöle verwendete Flüssigkeiten</td></tr>
 </table>
 
-Anhang 20*[^t-13]*
+Anhang 20[^t-13]
 
 (Art. 14*c* Abs. 1)
 
@@ -2152,7 +2152,7 @@ Anhang 20*[^t-13]*
 <tr><td></td><td>9403</td><td>Andere Möbel und Teile davon</td></tr>
 </table>
 
-Anhang 21*[^t-14]*
+Anhang 21[^t-14]
 
 (Art. 14*c* Abs. 3)
 
@@ -2166,7 +2166,7 @@ Anhang 21*[^t-14]*
 <tr><td>3105 20, 3105 60, 3105 90</td><td>1636 Tonnen kombiniert</td><td>vom 29. Juli bis zum 28. Juli des darauffolgenden Jahres</td></tr>
 </table>
 
-Anhang 22*[^t-15]*
+Anhang 22[^t-15]
 
 (Art. 12 Abs. 1)
 
@@ -2186,18 +2186,18 @@ Anhang 22*[^t-15]*
 <tr><td>2708</td><td>Pech und Pechkoks aus Steinkohlenteer oder anderen Mineralteeren</td></tr>
 </table>
 
-Anhang 23*[^t-16]*
+Anhang 23[^t-16]
 
 (Art. 11*a* Abs. 1)
 
-## Güter für die Stärkung der Industrie****
+## Güter für die Stärkung der Industrie
 
 [^annex23-lvlu1-1]
 
 [^t-16]: Eingefügt durch Ziff. II Abs. 3 der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 [^annex23-lvlu1-1]: Der Anhang wird weder in der AS noch in der SR veröffentlicht. Der Inhalt kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
-Anhang 24*[^t-17]*
+Anhang 24[^t-17]
 
 (Art. 12*a* und 12*b*)
 
@@ -2211,18 +2211,18 @@ Anhang 24*[^t-17]*
 <tr><td>2710</td><td>Erdöle oder Öle aus bituminösen Mineralien, andere als rohe Öle; anderweit weder genannte noch inbegriffene Zubereitungen mit einem Gewichtsanteil an Erdölen oder Ölen aus bituminösen Mineralien von 70 % oder mehr, in denen diese Öle den wesentlichen Bestandteil bilden; Ölabfälle.</td></tr>
 </table>
 
-Anhang 25*[^t-18]*
+Anhang 25[^t-18]
 
 (Art. 29*b*)
 
-## Russische Medien****
+## Russische Medien
 
 [^annex25-lvlu1-1]
 
 [^t-18]: Eingefügt durch Ziff. II der V vom 29. Juni 2022, in Kraft seit 29. Juni 2022 um 18.00 Uhr ([AS 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
 [^annex25-lvlu1-1]: Der Anhang wird weder in der AS noch in der SR veröffentlicht. Der Inhalt kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
-Anhang 26*[^t-19]*
+Anhang 26[^t-19]
 
 (Art. 14*d* Abs. 1 und 2)
 
@@ -2237,7 +2237,7 @@ Anhang 26*[^t-19]*
 <tr><td>ex 7118 90</td><td>Goldmünzen</td></tr>
 </table>
 
-Anhang 27*[^t-20]*
+Anhang 27[^t-20]
 
 (Art. 14*d* Abs. 3)
 

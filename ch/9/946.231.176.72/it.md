@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordinanza del 4 marzo 2022 che istituisce provvedimenti in relazione alla situazione in Ucraina
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: it
-version: 2022-08-03
+version: 2022-08-17
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20220803/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20220803-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20220803/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20220817/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20220817-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20220817/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti in relazione alla situazione in Ucraina
 
-del 4 marzo 2022 (Stato 3 agosto 2022)
+del 4 marzo 2022 (Stato 17 agosto 2022) (Stato 17 agosto 2022)
 
 Il Consiglio federale svizzero,
 
@@ -1142,22 +1142,22 @@ L’articolo 24*a* capoverso 1 non si applica:
 
 La presente ordinanza entra in vigore il 4 marzo 2022 alle ore 18.00.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 5 cpv. 1 e 2)
 
-## Beni per il rafforzamento militare e tecnologico o per lo sviluppo del settore della difesa e della sicurezza****
+## Beni per il rafforzamento militare e tecnologico o per lo sviluppo del settore della difesa e della sicurezza
 
 [^annex1-lvlu1-1]
 
 [^t-1]: Aggiornato dai n. II cpv. 1 delle O del 25 mar. 2022 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)), del 27 apr. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)) dai n. I cpv. 1 delle O del DEFR del 10 giu. 2022 ([RU 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)) e del 28 lug. 2022, in vigore dal 29 lug. 2022 alle ore 18.00 ([RU 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)).
 [^annex1-lvlu1-1]: Questo allegato non è pubblicato né nella RU né nella RS. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 (art. 35 cpv. 4)
 
-## Destinatari finali secondo l’articolo 35 capoverso 4****
+## Destinatari finali secondo l’articolo 35 capoverso 4
 
 [^annex2-lvlu1-1]
 
@@ -1175,7 +1175,7 @@ Allegato 3
 <tr><td>88</td><td>Navigazione aerea o spaziale, o parti di esse</td></tr>
 </table>
 
-Allegato 4*[^t-3]*
+Allegato 4[^t-3]
 
 (art. 10 cpv. 1 e 4)
 
@@ -1215,7 +1215,7 @@ Allegato 4*[^t-3]*
 <tr><td>ex</td><td>8479 89</td><td>Unità di deasfaltazione con solvente</td></tr>
 </table>
 
-Allegato 5*[^t-4]*
+Allegato 5[^t-4]
 
 (art. 11 cpv. 1)
 
@@ -1444,22 +1444,22 @@ Allegato 7
 <tr><td>9033</td><td>Parti e accessori, non nominati né compresi altrove in questo capitolo, di macchine, apparecchi, strumenti o oggetti del capitolo 90</td></tr>
 </table>
 
-Allegato 8*[^t-5]*
+Allegato 8[^t-5]
 
 (art. 15 cpv. 1 e 4, 29 cpv. 1)
 
-## Persone fisiche soggette alle misure finanziarie e al divieto di entrata e di transito, nonché imprese e organizzazioni soggette alle misure finanziarie****
+## Persone fisiche soggette alle misure finanziarie e al divieto di entrata e di transito, nonché imprese e organizzazioni soggette alle misure finanziarie
 
 [^annex8-lvlu1-1]
 
-[^t-5]: Aggiornato dai n. I delle O del DEFR del 16 mar. ([RU 2022 173](https://fedlex.data.admin.ch/eli/oc/2022/173)), del 13 apr. 2022 ([RU 2022 237](https://fedlex.data.admin.ch/eli/oc/2022/237)), del 3 mag. 2022 ([RU 2022 270](https://fedlex.data.admin.ch/eli/oc/2022/270)) dai n. I cpv. 1 delle O del DEFR del 10 giu. 2022 ([RU 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)), del 28 lug. 2022 ([RU 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)) e dal n. II cpv. 1 dell’O del 3 ago. 2022, in vigore dal 3 ago 2022 alle ore 18.00 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
-[^annex8-lvlu1-1]: Questo allegato non è pubblicato né nella RU né nella RS. È disponibile al seguente indirizzo: [https://fedlex.data.admin.ch/eli/oc/2022/436](https://fedlex.data.admin.ch/eli/oc/2022/436) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-5]: Aggiornato dai n. I delle O del DEFR del 16 mar. ([RU 2022 173](https://fedlex.data.admin.ch/eli/oc/2022/173)), del 13 apr. 2022 ([RU 2022 237](https://fedlex.data.admin.ch/eli/oc/2022/237)), del 3 mag. 2022 ([RU 2022 270](https://fedlex.data.admin.ch/eli/oc/2022/270)) dai n. I cpv. 1 delle O del DEFR del 10 giu. 2022 ([RU 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)), del 28 lug. 2022 ([RU 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)), dal n. II cpv. 1 dell’O del 3 ago. 2022 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)) e dal n. I dell’O del DEFR del 16 ago. 2022, in vigore dal 17 ago. 2022 alle ore 18.00 ([RU 2022 451](https://fedlex.data.admin.ch/eli/oc/2022/451)).
+[^annex8-lvlu1-1]: Questo all. non è pubblicato né nella RU né nella RS. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2022/451](https://fedlex.data.admin.ch/eli/oc/2022/451) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 9
 
 (art. 18 cpv. 1 lett. a e b, 19 cpv. 3 lett. c)
 
-## Banche e altre imprese soggette a restrizioni sui mercati monetari e finanziari****
+## Banche e altre imprese soggette a restrizioni sui mercati monetari e finanziari
 
 [^annex9-lvlu1-1]
 
@@ -1469,17 +1469,17 @@ Allegato 10
 
 (art. 18 cpv. 2 lett. a e b)
 
-## Banche e altre imprese soggette a restrizioni sui mercati monetari e finanziari****
+## Banche e altre imprese soggette a restrizioni sui mercati monetari e finanziari
 
 [^annex10-lvlu1-1]
 
 [^annex10-lvlu1-1]: Questo allegato non è pubblicato né nella RU né nella RS. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
-Allegato 11*[^t-6]*
+Allegato 11[^t-6]
 
 (art. 18 cpv. 2 lett. a e b)
 
-## Banche e altre imprese soggette a restrizioni sui mercati monetari e finanziari****
+## Banche e altre imprese soggette a restrizioni sui mercati monetari e finanziari
 
 [^annex11-lvlu1-1]
 
@@ -1490,7 +1490,7 @@ Allegato 12
 
 (art. 18 cpv. 3 lett. a)
 
-## Banche e altre imprese soggette a restrizioni sui mercati monetari e finanziari****
+## Banche e altre imprese soggette a restrizioni sui mercati monetari e finanziari
 
 [^annex12-lvlu1-1]
 
@@ -1500,7 +1500,7 @@ Allegato 13
 
 (art. 18 cpv. 3 lett. a)
 
-## Banche e altre imprese soggette a restrizioni sui mercati monetari e finanziari****
+## Banche e altre imprese soggette a restrizioni sui mercati monetari e finanziari
 
 [^annex13-lvlu1-1]
 
@@ -1510,25 +1510,25 @@ Allegato 14[^t-7]
 
 (art. 27)
 
-## Banche e altre organizzazioni soggette al divieto di fornire servizi specializzati di messaggistica finanziaria****
+## Banche e altre organizzazioni soggette al divieto di fornire servizi specializzati di messaggistica finanziaria
 
 [^annex14-lvlu1-1]
 
 [^t-7]: Aggiornato dal n. I cpv. 1 dell’O del DEFR del 10 giu. 2022, in vigore dal 10 giu. 2022 alle 18.00 ([RU 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)).
 [^annex14-lvlu1-1]: Questo allegato non è pubblicato né nella RU né nella RS. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
-Allegato 15*[^t-8]*
+Allegato 15[^t-8]
 
 (art. 24*a* cpv. 1 lett. a)
 
-## Banche e altre organizzazioni soggette al divieto di transazioni****
+## Banche e altre organizzazioni soggette al divieto di transazioni
 
 [^annex15-lvlu1-1]
 
 [^t-8]: Introdotto dal n. II cpv. 2 dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
 [^annex15-lvlu1-1]: Questo allegato non è pubblicato né nella RU né nella RS. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
-Allegato 16*[^t-9]*
+Allegato 16[^t-9]
 
 (art. 9*a* cpv. 1)
 
@@ -1555,7 +1555,7 @@ Categoria VI –Materiale navale
 <tr><td>ex 8517</td><td>Apparecchi telefonici, compresi i telefoni intelligenti (smartphones) e gli altri telefoni per reti cellulari e per altre reti senza filo; altri apparecchi per l’emissione, per la trasmissione o la ricezione della voce, di immagini o di altri dati, compresi gli apparecchi per la comunicazione in una rete su filo o senza filo (come una rete locale o estesa), diversi da quelli delle voci 8443, 8525, 8527 o 8528 (parti comprese)</td></tr>
 </table>
 
-Allegato 17*[^t-10]*
+Allegato 17[^t-10]
 
 (art. 14*a* cpv. 1)
 
@@ -1614,7 +1614,7 @@ Allegato 17*[^t-10]*
 <tr><td>7306</td><td>Altri tubi e profilati cavi (per esempio, saldati, ribaditi, aggraffati o a lembi semplicemente avvicinati), di ferro o di acciaio</td></tr>
 </table>
 
-Allegato 18*[^t-11]*
+Allegato 18[^t-11]
 
 (art. 14*b* cpv. 1)
 
@@ -2062,7 +2062,7 @@ Il divieto di cui all’articolo 14*b* si applica ai beni di lusso di valore sup
 <tr><th></th><th>9015 10 00</th><th>Telemetri</th></tr>
 </table>
 
-Allegato 19*[^t-12]*
+Allegato 19[^t-12]
 
 (art. 9*b* cpv. 1)
 
@@ -2100,7 +2100,7 @@ Allegato 19*[^t-12]*
 <tr><td>ex</td><td>3811 90</td><td>Miglioratori della stabilità termica per altri liquidi adoperati per gli stessi scopi degli oli minerali</td></tr>
 </table>
 
-Allegato 20*[^t-13]*
+Allegato 20[^t-13]
 
 (art. 14*c* cpv. 1)
 
@@ -2148,7 +2148,7 @@ Allegato 20*[^t-13]*
 <tr><td></td><td>9403</td><td>Altri mobili e loro parti</td></tr>
 </table>
 
-Allegato 21*[^t-14]*
+Allegato 21[^t-14]
 
 (art. 14*c* cpv. 3)
 
@@ -2162,7 +2162,7 @@ Allegato 21*[^t-14]*
 <tr><td>3105 20, 3105 60, 3105 90</td><td>1636 tonnellate</td><td>Dal 29 luglio al 28 luglio dell’anno successivo</td></tr>
 </table>
 
-Allegato 22*[^t-15]*
+Allegato 22[^t-15]
 
 (art. 12 cpv. 1)
 
@@ -2182,18 +2182,18 @@ Allegato 22*[^t-15]*
 <tr><td>2708</td><td>Pece e coke di pece di catrame di carbon fossile o di altri catrami minerali</td></tr>
 </table>
 
-Allegato 23*[^t-16]*
+Allegato 23[^t-16]
 
 (art. 11*a* cpv. 1)
 
-## Beni per il rafforzamento dell’industria****
+## Beni per il rafforzamento dell’industria
 
 [^annex23-lvlu1-1]
 
 [^t-16]: Introdotto dal n. II cpv. 3 dell’O del 27 apr. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Aggiornato dal n. I cpv. 1 dell’O del DEFR del 28 lug. 2022, in vigore dal 29 lug. 2022 alle ore 18.00 ([RU 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)).
 [^annex23-lvlu1-1]: Questo allegato non è pubblicato né nella RU né nella RS. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
-Allegato 24*[^t-17]*
+Allegato 24[^t-17]
 
 (art. 12*a* e 12*b*)
 
@@ -2207,18 +2207,18 @@ Allegato 24*[^t-17]*
 <tr><td>2710</td><td>Oli di petrolio o di minerali bituminosi, diversi dagli oli greggi; preparazioni non nominate né comprese altrove contenenti, in peso, il 70 % o più di oli di petrolio o di minerali bituminosi e delle quali tali oli costituiscono il componente base; oli usati</td></tr>
 </table>
 
-Allegato 25*[^t-18]*
+Allegato 25[^t-18]
 
 (art. 29*b*)
 
-## Media russi****
+## Media russi
 
 [^annex25-lvlu1-1]
 
 [^t-18]: Introdotto dal n. II dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
 [^annex25-lvlu1-1]: Questo allegato non è pubblicato né nella RU né nella RS. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
-Allegato 26*[^t-19]*
+Allegato 26[^t-19]
 
 (art. 14*d* cpv. 1 e 2)
 
@@ -2233,7 +2233,7 @@ Allegato 26*[^t-19]*
 <tr><td>ex 7118 90</td><td>Monete di oro</td></tr>
 </table>
 
-Allegato 27*[^t-20]*
+Allegato 27[^t-20]
 
 (art. 14*d* cpv. 3)
 

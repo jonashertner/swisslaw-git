@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordonnance du 4 mars 2022 instituant des mesures en lien avec la situation en Ukraine
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: fr
-version: 2022-08-03
+version: 2022-08-17
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20220803/fr/xml/fedlex-data-admin-ch-eli-cc-2022-151-20220803-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20220803/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20220817/fr/xml/fedlex-data-admin-ch-eli-cc-2022-151-20220817-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20220817/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures en lien avec la situation en Ukraine
 
-du 4 mars 2022 (Etat le 3 août 2022)
+du 4 mars 2022 (Etat le 17 août 2022)
 
 Le Conseil fédéral suisse,
 
@@ -1142,22 +1142,22 @@ L’art. 24*a*, al. 1, ne s’applique pas:
 
 La présente ordonnance entre en vigueur le 4 mars 2022 à 18 heures.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 5, al. 1 et 2)
 
-## Biens destinés à un renforcement militaire et technologique ou au développement du secteur de la défense et de la sécurité****
+## Biens destinés à un renforcement militaire et technologique ou au développement du secteur de la défense et de la sécurité
 
 [^annex1-lvlu1-1]
 
 [^t-1]: Mise à jour par le ch. II al. 1 des O du 25 mars 2022 ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)), du 27 avr. 2022 ([RO 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)), le ch. I al. 1 des O du DEFR du 10 juin 2022 ([RO 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)) et du 28 juil. 2022, en vigueur depuis le 29 juil. 2022 à 18 heures ([RO 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)).
 [^annex1-lvlu1-1]: L’annexe n’est publiée ni au RO ni au RS. Le texte de l’annexe peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 (art. 35, al. 4)
 
-## Destinataire final selon l’art. 35, al. 4****
+## Destinataire final selon l’art. 35, al. 4
 
 [^annex2-lvlu1-1]
 
@@ -1175,7 +1175,7 @@ Annexe 3
 <tr><td>88</td><td>Navigation aérienne ou spatiale</td></tr>
 </table>
 
-Annexe 4*[^t-3]*
+Annexe 4[^t-3]
 
 (art. 10, al. 1 et 4)
 
@@ -1215,7 +1215,7 @@ Annexe 4*[^t-3]*
 <tr><td>ex</td><td>8479 89</td><td>Unités de désasphaltage au solvant</td></tr>
 </table>
 
-Annexe 5*[^t-4]*
+Annexe 5[^t-4]
 
 (art. 11, al. 1)
 
@@ -1444,22 +1444,22 @@ Annexe 7
 <tr><td>9033</td><td>Parties et accessoires non dénommés ni compris ailleurs dans le présent chapitre, pour machines, appareils, instruments ou articles du chapitre 90</td></tr>
 </table>
 
-Annexe 8*[^t-5]*
+Annexe 8[^t-5]
 
 (art. 15, al. 1 et 4, et 29, al. 1)
 
-## Personnes physiques visées par les restrictions financières et l’interdiction d’entrée et de transit, et entreprises et entités visées par les sanctions financières****
+## Personnes physiques visées par les restrictions financières et l’interdiction d’entrée et de transit, et entreprises et entités visées par les sanctions financières
 
 [^annex8-lvlu1-1]
 
-[^t-5]: Mise à jour par le ch. I des O du DEFR du 15 mars 2022 ([RO 2022 173](https://fedlex.data.admin.ch/eli/oc/2022/173)), du 13 avr. 2022 ([RO 2022 237](https://fedlex.data.admin.ch/eli/oc/2022/237)), du 3 mai 2022 ([RO 2022 270](https://fedlex.data.admin.ch/eli/oc/2022/270)), le ch. I al. 1 des O du DEFR du 10 juin 2022 ([RO 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)), du 28 juil. 2022 ([RO 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)) et le ch. II al. 1 de l’O du 3 août 2022, en vigueur depuis le 3 août 2022 à 18 heures ([RO 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
-[^annex8-lvlu1-1]: Le contenu de la présente annexe n’est publié ni au RO ni au RS. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2022/436](https://fedlex.data.admin.ch/eli/oc/2022/436) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-5]: Mise à jour par le ch. I des O du DEFR du 15 mars 2022 ([RO 2022 173](https://fedlex.data.admin.ch/eli/oc/2022/173)), du 13 avr. 2022 ([RO 2022 237](https://fedlex.data.admin.ch/eli/oc/2022/237)), du 3 mai 2022 ([RO 2022 270](https://fedlex.data.admin.ch/eli/oc/2022/270)), le ch. I al. 1 des O du DEFR du 10 juin 2022 ([RO 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)), du 28 juil. 2022 ([RO 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)), le ch. II al. 1 de l’O du 3 août 2022 ([RO 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)) et le ch. I de l’O du DEFR du 16 août 2022, en vigueur depuis le 17 août 2022 à 18 heures ([RO 2022 451](https://fedlex.data.admin.ch/eli/oc/2022/451)).
+[^annex8-lvlu1-1]: Le contenu de la présente annexe n’est publié ni au RO ni au RS. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2022/451](https://fedlex.data.admin.ch/eli/oc/2022/451) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 9
 
 (art. 18, al. 1, let. a et b, et 19, al. 3, let. c)
 
-## Banques et autres entreprises soumises à des restrictions sur les marchés monétaire et financier****
+## Banques et autres entreprises soumises à des restrictions sur les marchés monétaire et financier
 
 [^annex9-lvlu1-1]
 
@@ -1469,17 +1469,17 @@ Annexe 10
 
 (art. 18, al. 2, let. a et b)
 
-## Banques et autres entreprises soumises à des restrictions sur les marchés monétaire et financier****
+## Banques et autres entreprises soumises à des restrictions sur les marchés monétaire et financier
 
 [^annex10-lvlu1-1]
 
 [^annex10-lvlu1-1]: L’annexe n’est publiée ni au RO ni au RS. Le texte de l’annexe peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
-Annexe 11*[^t-6]*
+Annexe 11[^t-6]
 
 (art. 18, al. 2, let. a et b)
 
-## Banques et autres entreprises soumises à des restrictions sur les marchés monétaire et financier****
+## Banques et autres entreprises soumises à des restrictions sur les marchés monétaire et financier
 
 [^annex11-lvlu1-1]
 
@@ -1490,7 +1490,7 @@ Annexe 12
 
 (art. 18, al. 3, let. a)
 
-## Banques et autres entreprises soumises à des restrictions sur les marchés monétaire et financier****
+## Banques et autres entreprises soumises à des restrictions sur les marchés monétaire et financier
 
 [^annex12-lvlu1-1]
 
@@ -1500,35 +1500,35 @@ Annexe 13
 
 (art. 18, al. 3, let. a)
 
-## Banques et autres entreprises soumises à des restrictions sur les marchés monétaire et financier****
+## Banques et autres entreprises soumises à des restrictions sur les marchés monétaire et financier
 
 [^annex13-lvlu1-1]
 
 [^annex13-lvlu1-1]: L’annexe n’est publiée ni au RO ni au RS. Le texte de l’annexe peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
-Annexe 14*[^t-7]*
+Annexe 14[^t-7]
 
 (art. 27)
 
-## Banques et autres entités soumises à l’interdiction de fourniture de services spécialisés de messagerie financière****
+## Banques et autres entités soumises à l’interdiction de fourniture de services spécialisés de messagerie financière
 
 [^annex14-lvlu1-1]
 
 [^t-7]: Mise à jour par le ch. I al. 1 de l’O du DEFR du 10 juin 2022, en vigueur depuis le 10 juin 2022 à 18 heures ([RO 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)).
 [^annex14-lvlu1-1]: L’annexe n’est publiée ni au RO ni au RS. Le texte de l’annexe peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
-Annexe 15*[^t-8]*
+Annexe 15[^t-8]
 
 (art. 24*a*, al. 1, let. a)
 
-## Banques et autres entités soumises à des interdictions de transactions****
+## Banques et autres entités soumises à des interdictions de transactions
 
 [^annex15-lvlu1-1]
 
 [^t-8]: Introduite par le ch. II al. 2 de l’O du 25 mars 2022, en vigueur depuis le 25 mars 2022 à 23 heures ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
 [^annex15-lvlu1-1]: L’annexe n’est publiée ni au RO ni au RS. Le texte de l’annexe peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
-Annexe 16*[^t-9]*
+Annexe 16[^t-9]
 
 (art. 9*a*, al. 1)
 
@@ -1555,7 +1555,7 @@ Catégorie VI – Marine
 <tr><td>ex 8517</td><td>Postes téléphoniques d’usagers, y compris les téléphones intelligents et autres téléphones pour réseaux cellulaires et pour autres réseaux sans fil; autres appareils pour l’émission, la transmission ou la réception de la voix, d’images ou d’autres données, y compris les appareils pour la communication dans un réseau filaire ou sans fil (tel qu’un réseau local ou étendu), autres que ceux des n<sup>os</sup> 8443, 8525, 8527 ou 8528: (y compris parties)</td></tr>
 </table>
 
-Annexe 17*[^t-10]*
+Annexe 17[^t-10]
 
 (art. 14*a*, al. 1)
 
@@ -1614,7 +1614,7 @@ Annexe 17*[^t-10]*
 <tr><td>7306</td><td>Autres tubes, tuyaux et profilés creux (soudés, rivés, agrafés ou à bords simplement rapprochés, par exemple), en fer ou en acier</td></tr>
 </table>
 
-Annexe 18*[^t-11]*
+Annexe 18[^t-11]
 
 (art. 14*b*, al. 1)
 
@@ -2062,7 +2062,7 @@ Sauf indication contraire dans la présente annexe, l’interdiction prévue à 
 <tr><th></th><th>9015 10 00</th><th>Télémètres</th></tr>
 </table>
 
-Annexe 19*[^t-12]*
+Annexe 19[^t-12]
 
 (art. 9*b*, al. 1)
 
@@ -2107,7 +2107,7 @@ Annexe 19*[^t-12]*
 <tr><td>ex</td><td>3811 90</td><td>Améliorants de stabilité thermique pour d’autres liquides utilisés aux mêmes fins que les huiles minérales</td></tr>
 </table>
 
-Annexe 20*[^t-13]*
+Annexe 20[^t-13]
 
 (art. 14*c*, al. 1)
 
@@ -2155,7 +2155,7 @@ Annexe 20*[^t-13]*
 <tr><td></td><td>9403</td><td>Autres meubles et leurs parties</td></tr>
 </table>
 
-Annexe 21*[^t-14]*
+Annexe 21[^t-14]
 
 (art. 14*c*, al. 3)
 
@@ -2169,7 +2169,7 @@ Annexe 21*[^t-14]*
 <tr><td>3105 20, 3105 60 et 3105 90</td><td>1636 tonnes métriques combinées</td><td>du 29 juillet d’une année donnée au 28 juillet de l’année suivante</td></tr>
 </table>
 
-Annexe 22*[^t-15]*
+Annexe 22[^t-15]
 
 (art. 12, al. 1)
 
@@ -2189,18 +2189,18 @@ Annexe 22*[^t-15]*
 <tr><td>2708</td><td>Brai et coke de brai de goudron de houille ou d’autres goudrons minéraux</td></tr>
 </table>
 
-Annexe 23*[^t-16]*
+Annexe 23[^t-16]
 
 (art. 11*a*, al. 1)
 
-## Biens destinés au renforcement de l’industrie****
+## Biens destinés au renforcement de l’industrie
 
 [^annex23-lvlu1-1]
 
 [^t-16]: Introduite par le ch. II al. 3 de l’O du 27 avr. 2022 ([RO 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Mise à jour par le ch. I al. 1 de l’O du DEFR du 28 juil. 2022, en vigueur depuis le 29 juil. 2022 à 18 heures ([RO 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)).
 [^annex23-lvlu1-1]: L’annexe n’est publiée ni au RO ni au RS. Le texte de l’annexe peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
-Annexe 24*[^t-17]*
+Annexe 24[^t-17]
 
 (art. 12*a* et 12*b*)
 
@@ -2214,18 +2214,18 @@ Annexe 24*[^t-17]*
 <tr><td>2710</td><td>Huiles de pétrole ou de minéraux bitumineux, autres que les huiles brutes; préparations non dénommées ni comprises ailleurs, contenant en poids 70 % ou plus d’huiles de pétrole ou de minéraux bitumineux et dont ces huiles constituent l’élément de base; déchets d’huiles</td></tr>
 </table>
 
-Annexe 25*[^t-18]*
+Annexe 25[^t-18]
 
 (art. 29*b*)
 
-## Médias russes****
+## Médias russes
 
 [^annex25-lvlu1-1]
 
 [^t-18]: Introduite par le ch. II de l’O du 29 juin 2022, en vigueur depuis le 29 juin 2022 à 18 heures ([RO 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
 [^annex25-lvlu1-1]: L’annexe n’est publiée ni au RO ni au RS. Le texte de l’annexe peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
-Annexe 26*[^t-19]*
+Annexe 26[^t-19]
 
 (art. 14*d*, al. 1 et 2)
 
@@ -2240,7 +2240,7 @@ Annexe 26*[^t-19]*
 <tr><td>ex 7118 90</td><td>Pièces d’or</td></tr>
 </table>
 
-Annexe 27*[^t-20]*
+Annexe 27[^t-20]
 
 (art. 14*d*, al. 3)
 
