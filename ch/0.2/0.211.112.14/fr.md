@@ -3,11 +3,11 @@ sr: "0.211.112.14"
 title: "Convention du 10 septembre 1964 relative aux décisions de rectification d'actes de l'état civil (avec annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1966/538_557_554"
 language: fr
-version: 2013-04-05
+version: 2022-08-17
 adopted: 1964-09-10
 in_force: 1966-04-06
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/538_557_554/20130405/fr/xml/fedlex-data-admin-ch-eli-cc-1966-538_557_554-20130405-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1966/538_557_554/20130405/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/538_557_554/20220817/fr/xml/fedlex-data-admin-ch-eli-cc-1966-538_557_554-20220817-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1966/538_557_554/20220817/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,7 +18,7 @@ RO **1966** 557
 
 Conclue à Paris le 10 septembre 1964 Instrument de ratification déposé par la Suisse le 7 mars 1966 Entrée en vigueur pour la Suisse le 6 avril 1966
 
-(Etat le 5 avril 2013)
+(État le 17 août 2022)
 
 La République Fédérale d’Allemagne, la République d’Autriche, le Royaume de Belgique, la République Française, le Royaume de Grèce, la République Italienne, le Grand‑Duché de Luxembourg, le Royaume des Pays‑Bas, la Confédération Suisse et la République Turque, membres de la Commission Internationale de l’Etat Civil,
 
@@ -135,22 +135,20 @@ Annexe II
 <tr><td>Turquie:</td><td>Le tribunal</td></tr>
 </table>
 
-### Champ d’application de la convention le 5 avril 2013****
-
-[^annexII-lvlu1-lvlu1-1]
-
 [^annexII-lvlu1-1]: [RO 1977 1412](https://fedlex.data.admin.ch/eli/oc/1977/1412_1412_1410)
-[^annexII-lvlu1-lvlu1-1]: [RO 2013 1075](https://fedlex.data.admin.ch/eli/oc/2013/237). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+
+Champ d’application le 17 août 2022[^t-1]
 
 <table>
-<tr><th>Etats parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Allemagne</td><td>25 juin</td><td>1969</td><td>25 juillet</td><td>1969</td></tr>
 <tr><td>Espagne</td><td>22 novembre</td><td>1976 A</td><td>22 décembre</td><td>1976</td></tr>
 <tr><td>France</td><td>19 juillet</td><td>1983</td><td>18 août</td><td>1983</td></tr>
 <tr><td>Luxembourg</td><td>20 octobre</td><td>1965</td><td>6 avril</td><td>1966</td></tr>
-<tr><td>Pays-Bas</td><td>21 avril</td><td>1972</td><td>21 mai</td><td>1972</td></tr>
-<tr><td>Aruba</td><td>21 avril</td><td>1972</td><td>21 mai</td><td>1972</td></tr>
+<tr><td>Pays-Bas <sup>a</sup></td><td>21 avril</td><td>1972</td><td>21 mai</td><td>1972</td></tr>
 <tr><td>Suisse</td><td>7 mars</td><td>1966</td><td>6 avril</td><td>1966</td></tr>
-<tr><td>Surinam</td><td>21 avril</td><td>1972</td><td>21 mai</td><td>1972</td></tr>
 <tr><td>Turquie</td><td>25 juillet</td><td>1967</td><td>24 août</td><td>1967</td></tr>
+<tr><td colspan="5"><sup>a</sup> Pour le Royaume en Europe. [tab]</td></tr>
 </table>
+
+[^t-1]: [RO 2022 455](https://fedlex.data.admin.ch/eli/oc/2022/455). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: www.fedlex.admin.ch/fr/treaty.

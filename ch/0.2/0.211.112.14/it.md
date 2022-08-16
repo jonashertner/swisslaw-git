@@ -3,24 +3,24 @@ sr: "0.211.112.14"
 title: Convenzione del 10 settembre 1964 concernente le decisioni di rettificazione degli atti dello stato civile (con All.)
 eli: "https://fedlex.data.admin.ch/eli/cc/1966/538_557_554"
 language: it
-version: 2013-04-05
+version: 2022-08-17
 adopted: 1964-09-10
 in_force: 1966-04-06
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/538_557_554/20130405/it/xml/fedlex-data-admin-ch-eli-cc-1966-538_557_554-20130405-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1966/538_557_554/20130405/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/538_557_554/20220817/it/xml/fedlex-data-admin-ch-eli-cc-1966-538_557_554-20220817-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1966/538_557_554/20220817/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Convenzione concernente le decisioni di rettificazione degli atti dello stato civile
 
-Traduzione*[^t-1]*
+RU **1966** 554
+
+Traduzione
 
 Conchiusa a Parigi il 10 settembre 1964 Istrumento di ratificazione depositato dalla Svizzera il 7 marzo 1966 Entrata in vigore per la Svizzera il 6 aprile 1966
 
-(Stato 5 aprile 2013)
-
-[^t-1]: RU **1966** 554 Il testo originale è pubblicato sotto lo stesso numero nell’ediz. franc. della presente Raccolta.
+(Stato 17 agosto 2022)
 
 La Repubblica d’Austria, il Regno di Belgio, la Repubblica Francese, la Repubblica Federale di Germania, il Regno di Grecia, la Repubblica Italiana, il Granducato di Lussemburgo, il Regno dei Paesi Bassi, la Confederazione Svizzera e la Repubblica Turca, membri della Commissione Internazionale dello Stato Civile,
 
@@ -155,19 +155,18 @@ Turchia: il tribunale
 
 [^annexII-lvlu1-1]: [RU 1977 1410](https://fedlex.data.admin.ch/eli/oc/1977/1412_1412_1410)
 
-Campo d’applicazione il 5 aprile 2013**[^t-2]**
+Campo d’applicazione il 17 agosto 2022[^t-1]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td>Francia</td><td>19 luglio</td><td>1983</td><td>18 agosto</td><td>1983</td></tr>
 <tr><td>Germania</td><td>25 giugno</td><td>1969</td><td>25 luglio</td><td>1969</td></tr>
 <tr><td>Lussemburgo</td><td>20 ottobre</td><td>1965</td><td>6 aprile</td><td>1966</td></tr>
-<tr><td>Paesi Bassi</td><td>21 aprile</td><td>1972</td><td>21 maggio</td><td>1972</td></tr>
-<tr><td>Aruba</td><td>21 aprile</td><td>1972</td><td>21 maggio</td><td>1972</td></tr>
+<tr><td>Paesi Bassi <sup>a</sup></td><td>21 aprile</td><td>1972</td><td>21 maggio</td><td>1972</td></tr>
 <tr><td>Spagna</td><td>22 novembre</td><td>1976 A</td><td>22 dicembre</td><td>1976</td></tr>
-<tr><td>Suriname</td><td>21 aprile</td><td>1972</td><td>21 maggio</td><td>1972</td></tr>
 <tr><td>Svizzera</td><td>7 marzo</td><td>1966</td><td>6 aprile</td><td>1966</td></tr>
 <tr><td>Turchia</td><td>25 luglio</td><td>1967</td><td>24 agosto</td><td>1967</td></tr>
+<tr><td colspan="5"><sup>a</sup> Per il Regno in Europa. [tab]</td></tr>
 </table>
 
-[^t-2]: [RU 2013 1075](https://fedlex.data.admin.ch/eli/oc/2013/237). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-1]: [RU 2022 455](https://fedlex.data.admin.ch/eli/oc/2022/455). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty.

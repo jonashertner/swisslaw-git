@@ -3,38 +3,40 @@ sr: "0.211.112.14"
 title: Übereinkommen vom 10. September 1964 betreffend die Entscheidungen über die Berichtigung von Einträgen in Personenstandsbüchern (Zivilstandsregistern) (mit Anhängen)
 eli: "https://fedlex.data.admin.ch/eli/cc/1966/538_557_554"
 language: de
-version: 2013-04-05
+version: 2022-08-17
 adopted: 1964-09-10
 in_force: 1966-04-06
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/538_557_554/20130405/de/xml/fedlex-data-admin-ch-eli-cc-1966-538_557_554-20130405-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1966/538_557_554/20130405/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/538_557_554/20220817/de/xml/fedlex-data-admin-ch-eli-cc-1966-538_557_554-20220817-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1966/538_557_554/20220817/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Übereinkommen betreffend die Entscheidungen über die Berichtigung von Einträgen in Personenstandsbüchern (Zivilstandsregistern)\*
 
-AS **1966** 538
+AS **1966** 538[^t-1]
 
-[^t-1]1 [^t-2]2 [^t-3]3 Übersetzung
+Übersetzung
 
 Abgeschlossen in Paris am 10. September 1964 Schweizerische Ratifikationsurkunde hinterlegt am 7. März 1966 In Kraft getreten für die Schweiz am 6. April 1966
 
-(Stand am 5. April 2013)
+(Stand am 17. August 2022)
 
-[^t-1]: \*\*\* Schweizerische Fassung: Zivilstandsregistern (Personenstandsbüchern)
-[^t-2]: \*\*\* Schweizerische Fassung: Zivilstandsregistern
-[^t-3]: \*\*\* Schweizerische Fassung: Zivilstandsregister
+[^t-1]: <sup>\*</sup> Schweizerische Fassung: Zivilstandsregistern (Personenstandsbüchern)
 
 Die Bundesrepublik Deutschland, die Republik Österreich, das Königreich Belgien, die Französische Republik, das Königreich Griechenland, die Italienische Republik, das Grossherzogtum Luxemburg, das Königreich der Niederlande, die Schweizerische Eidgenossenschaft und die Türkische Republik, Mitglieder der Internationalen Kommission für das Zivilstandswesen,
 
-in dem Wunsche, die Wirksamkeit und die Vollziehung der Entscheidungen über die Berichtigung von Einträgen in Personenstandsbüchern\*\* auf ihren Hoheitsgebieten sicherzustellen,
+in dem Wunsche, die Wirksamkeit und die Vollziehung der Entscheidungen über die Berichtigung von Einträgen in Personenstandsbüchern**[^ingress-1]\***\* auf ihren Hoheitsgebieten sicherzustellen,
 
 haben folgendes vereinbart:
 
+[^ingress-1]: <sup>\*\*</sup> Schweizerische Fassung: Zivilstandsregistern
+
 #### Art. 1
 
-Im Sinne dieses Übereinkommens bedeutet der Begriff «Entscheidung über die Berichtigung» jede Entscheidung einer zuständigen Behörde, welche die Berichtigung eines Eintrags in einem Personenstandsbuch\*\*\* anordnet; ausgenommen sind Entscheidungen, die den Personenstand oder das Recht zur Führung einer Adelsbezeichnung oder eines Ehrentitels betreffen.
+Im Sinne dieses Übereinkommens bedeutet der Begriff «Entscheidung über die Berichtigung» jede Entscheidung einer zuständigen Behörde, welche die Berichtigung eines Eintrags in einem Personenstandsbuch**[^1-1]\***\*\* anordnet; ausgenommen sind Entscheidungen, die den Personenstand oder das Recht zur Führung einer Adelsbezeichnung oder eines Ehrentitels betreffen.
+
+[^1-1]: <sup>\*\*\*</sup> Schweizerische Fassung: Zivilstandsregistern
 
 #### Art. 2
 
@@ -46,9 +48,9 @@ Zu diesem Zwecke hat die zuständige Behörde des Staates, in dem die Entscheidu
 
 #### Art. 3
 
-ist eine Entscheidung über die Berichtigung eines Eintrags in einem Personenstandsbuch[^3-1]\* von der zuständigen Behörde eines Vertragsstaates erlassen worden, so werden, falls der Eintrag in das Personenstandsbuch\* eines anderen Vertragsstaates übertragen oder darin vermerkt worden ist, auch diese Übertragungen oder diese Vermerke berichtigt; es genügt hierzu die Vorlegung einer Ausfertigung der Entscheidung über die Berichtigung und einer Abschrift des berichtigten Eintrags.
+ist eine Entscheidung über die Berichtigung eines Eintrags in einem Personenstandsbuch**[^3-1]\*** von der zuständigen Behörde eines Vertragsstaates erlassen worden, so werden, falls der Eintrag in das Personenstandsbuch\* eines anderen Vertragsstaates übertragen oder darin vermerkt worden ist, auch diese Übertragungen oder diese Vermerke berichtigt; es genügt hierzu die Vorlegung einer Ausfertigung der Entscheidung über die Berichtigung und einer Abschrift des berichtigten Eintrags.
 
-[^3-1]: \* Schweizerische Fassung: Zivilstandsregister
+[^3-1]: <sup>\*</sup> Schweizerische Fassung: Zivilstandsregistern
 
 #### Art. 4
 
@@ -145,19 +147,18 @@ Anhang II
 
 [^annexII-lvlu1-1]: [AS 1977 1412](https://fedlex.data.admin.ch/eli/oc/1977/1412_1412_1410)
 
-Geltungsbereich am 5. April 2013**[^t-4]**
+Geltungsbereich am 17. August 2022[^t-2]
 
 <table>
-<tr><td>Vertragsstaaten</td><td colspan="2">Ratifikation Beitritt (B)</td><td></td><td colspan="2">Inkrafttreten</td><td></td></tr>
-<tr><td>Deutschland</td><td>25. Juni</td><td colspan="2">1969</td><td>25. Juli</td><td colspan="2">1969</td></tr>
-<tr><td>Frankreich</td><td>19. Juli</td><td colspan="2">1983</td><td>18. August</td><td colspan="2">1983</td></tr>
-<tr><td>Luxemburg</td><td>20. Oktober</td><td colspan="2">1965</td><td>6. April</td><td colspan="2">1966</td></tr>
-<tr><td>Niederlande</td><td>21. April</td><td colspan="2">1972</td><td>21. Mai</td><td colspan="2">1972</td></tr>
-<tr><td>Aruba</td><td>21. April</td><td colspan="2">1972</td><td>21. Mai</td><td colspan="2">1972</td></tr>
-<tr><td>Schweiz</td><td>7. März</td><td colspan="2">1966</td><td>6. April</td><td colspan="2">1966</td></tr>
-<tr><td>Spanien</td><td>22. November</td><td colspan="2">1976 B</td><td>22. Dezember</td><td colspan="2">1976</td></tr>
-<tr><td>Surinam</td><td>21. April</td><td colspan="2">1972</td><td>21. Mai</td><td colspan="2">1972</td></tr>
-<tr><td>Türkei</td><td>25. Juli</td><td colspan="2">1967</td><td>24. August</td><td colspan="2">1967</td></tr>
+<tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
+<tr><td>Deutschland</td><td>25. Juni</td><td>1969</td><td>25. Juli</td><td>1969</td></tr>
+<tr><td>Frankreich</td><td>19. Juli</td><td>1983</td><td>18. August</td><td>1983</td></tr>
+<tr><td>Luxemburg</td><td>20. Oktober</td><td>1965</td><td>6. April</td><td>1966</td></tr>
+<tr><td>Niederlande <sup>a</sup></td><td>21. April</td><td>1972</td><td>21. Mai</td><td>1972</td></tr>
+<tr><td>Schweiz</td><td>7. März</td><td>1966</td><td>6. April</td><td>1966</td></tr>
+<tr><td>Spanien</td><td>22. November</td><td>1976 B</td><td>22. Dezember</td><td>1976</td></tr>
+<tr><td>Türkei</td><td>25. Juli</td><td>1967</td><td>24. August</td><td>1967</td></tr>
+<tr><td colspan="5"><sup>a</sup> Für das Königreich in Europa. [tab]</td></tr>
 </table>
 
-[^t-4]: [AS 2013 1075](https://fedlex.data.admin.ch/eli/oc/2013/237). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 2022 455](https://fedlex.data.admin.ch/eli/oc/2022/455). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: www.fedlex.admin.ch/de/treaty.
