@@ -1,2459 +1,2506 @@
 ---
 canton: GL
 number: VII A/1/3
-title: Kantonaler Richtplan Glarus 2004 - Text
+title: Kantonaler Richtplan Glarus 2018 - Text
 language: de
-version: 2016-06-01
-valid_until: 2022-08-16
-version_adopted: 2015-03-03
+version: 2022-08-17
+version_adopted: 2018-10-30
 adopted: 2018-10-30
 in_force: 2022-08-17
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VII-A.1.3"
-pdf: "https://gesetze.gl.ch/api/de/versions/1895/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2503/pdf_file"
 text: pdf
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Kantonaler Richtplan Glarus 2004
+# Kantonaler Richtplan 2018
 
-Regierungsrat
+Regierungsrat Rathaus 8750 Glarus
 
-### Stand der Richtplanung
+### Stand: 17.08.2022
 
-Erlass durch den Genehmigung durch Genehmigung durch Bemerkungen: Regierungsrat: den Landrat: den Bundesrat:
-
-17.8.2004, 26.4.2005, 27.4.2005, 26.4.2006 16.4.2008 20.12.2005
-
-**Sachbereich Verkehr**
-
-18.12.2007 23.4.2008 9.1.2009
-
-**Kapitel E2**
-
-16.11.2010, 24.8.2011, 31.10.2013 4.9.2012 24.10.2012
-
-**Kapitel L1-3, L5-1,**
-
-3.3.2015 26.8.2015 26.5.2016 E4-1
-
-### Führungsgremium Richtplan Glarus 2004
-
-(tätig vom März 1998 bis Dezember 2000)
-
-Pankraz Freitag, Regierungsrat, Vorsitz des Führungsgremiums Kurt Gilgen, Professor für Raumplanung, HSR Rapperswil, Beratung Fritz Marti, Präsident der Gemeindepräsidentenkonferenz Dr. Peter Bachmann, Leiter Amt für Landwirtschaft Peter Bossi, Leiter Hochbauamt Adolf Hauser, Vorsteher Fachstelle Raumplanung Lilly Jenny, Sekretariat Baudirektion, Protokoll Heinz Martinelli, Leiter kant. Wirtschaftsförderung
+Erlass Regie- Genehmigung Genehmigung Bemerkungen rungsrat Landrat Bund 2018-10-30 2019-04-24 wiesene Kapitel: S1, V1.2, V3, N3.1, N6, T2, T4 2019-08-13 2019-11-06 2020-06-23 2020-11-04 2021-06-29 2021-12-03 2022-08-17
 
 ### Inhaltsverzeichnis
 
-**0)**
+**Seite Stand**
 
-**0 - 1**
+**Aufbau / Inhalte**
 
-### Allgemeine Erläuterungen
+### A
 
-**0 - 1 0 - 3**
+**Einführung A/2 3.12.2021 Aufgabe und Zweck A/2 3.12.2021 Aufbau des Richtplans A/3 3.12.2021 Verfahren der Richtplanung A/5 3.12.2021 Monitoring / Controlling A/6 3.12.2021**
 
-01 Verfahren der Richtplanüberarbeitung 02 Aufbau des Richtplans
+A1 A2 A3 A4 A5
 
-**A)**
+**Raumentwicklungsstrategie / Raumkonzept**
 
-**A - 1**
+### R
 
-### Kennzahlen zum Kanton Glarus
+**Ausgangslage R/1 3.12.2021 Richtungsweisende Festlegungen / Beschluss R/3 3.12.2021 Handlungsanweisungen R/4 3.12.2021 Karte Raumkonzept R/5 3.12.2021**
 
-**A - 1 A - 2 A - 3 A - 5**
+A B C D
 
-A1 Geographie A2 Wohnbevölkerung A3 Beschäftigung und Wirtschaftsentwicklung A4 Struktur der Bodennutzung
+**Siedlung**
 
-**G)**
+### S
 
-**G - 1**
+**Struktur der Besiedlung und Zentren S/2 3.12.2021 Siedlungsentwicklung nach innen und Abstimmung Verkehr S/6 3.12.2021 Siedlungsgebiet S/9 3.12.2021 Bauzonendimensionierung S/12 3.12.2021**
 
-### Grundzüge der räumlichen Entwicklung
+S1 S2 S3 S4 S4.1 Wohn-, Misch- und Kernzonen (WMK) S4.2 Arbeitszonen und Entwicklungsschwerpunkte Arbeiten (ESP) S/17 S4.3 Zonen öffentliche Nutzungen (ZöBA) und Zonen für
 
-**G - 1 G - 1 G - 5**
+**S/13 3.12.2021**
 
-G1 Räumliche Gliederung G2 Übergeordnete Hauptziele G3 Wirtschaftspolitische räumliche Schwerpunktstrategie
+**3.12.2021**
 
-**S)**
+**Nutzungen mit öffentlichem Charakter S/22 3.12.2021 Versorgung S/24 3.12.2021**
 
-**S - 1**
+S5 S5.1 Öffentliche Einrichtungen und Ausstattung S5.2 Publikumsintensive Einrichtungen (PE) S6 S7
 
-### Siedlung
+**Vom LR zur Überarbeitung zurückge-**
 
-**S - 1 S - 1 S - 3 S - 6 S - 7**
+**Kapitel S1, N3.1 und N6 Kapitel V1.2, V3, T2 und T4 Kapitel S3 und S4 Ohne Kapitel V und T Genehmigung Kapitel V und T**
 
-S1 Siedlungsentwicklung S1-1 Siedlungsstruktur S1-2 Siedlungsgebiet / Bauzonen S1-3 Siedlungstrenngürtel S1-4 Landschaftsprägende Bauten und Anlagen ausserhalb der Bauzonen
+**S/24 3.12.2021 S/26 3.12.2021**
 
-**S - 9 S - 9 S - 11**
+**Ortsbilder und Kulturdenkmäler S/29 3.12.2021 Stand- / Durchgangsplätze für Fahrende S/34 3.12.2021**
 
-S2 Wirtschaftsentwicklung S2-1 Industrie, Gewerbe und Dienstleistungen S2-2 Publikumsintensive Einrichtungen, Versorgungseinrichtungen
+**Verkehr (Genehmigung Bund ausstehend)**
 
-**S - 13 S - 13 S - 14 S - 15 S - 16 S - 18 S - 19**
+### V
 
-S3 Siedlungsqualität S3-1 Lärmschutz S3-2 Lärm von Schiessanlagen S3-3 Luftreinhaltung S3-4 Ortsbildschutz S3-5 Denkmalpflege S3-6 Archäologie
+**Gesamtverkehr V/2 17.08.2022**
 
-**V)**
+**V/2 17.08.2022 V/5 17.08.2022**
 
-**V - 1**
+V1 V1.1 Konzept Gesamtverkehr V1.2 Intermodale Schnittstellen V2 Öffentlicher Verkehr V2.1 Bahnverbindung Ziegelbrücke – Linthal, Rückgrat der ÖV-Erschliessung V2.2 Bus-System V2.3 Erschliessung Braunwald V3 Strassenverkehr V4 Fuss- und Veloverkehr V5 Zivilluftfahrt V5.1 Flugplatz Mollis V5.2 Gebirgslandeplätze V6 Schifffahrt, Bootsliegeplätze
 
-### Verkehr
+**V/7 17.08.2022**
 
-**V - 1**
+**V/7 17.08.2022 V/10 17.08.2022 V/12 17.08.2022 V/14 17.08.2022 V/19 17.08.2022 V/21 17.08.2022 V/21 17.08.2022 V/22 17.08.2022 V/24 17.08.2022**
 
-V0 Vorbemerkungen
+### N Natur und Landschaft
 
-**V - 3 V - 3**
+**N/2 3.12.2021 N/5 3.12.2021 N/12 3.12.2021**
 
-V1 Massnahmen im öffentlichen Verkehr V1-1 Das öffentliche Verkehrsangebot V1-2 Die Bahnlinie von Ziegelbrücke bis Linthal bleibt das Rückgrat des öffentlichen Verkehrs V1-3 Kontinuierliche Optimierung des Bus-Systems V1-4 Massvoller Ausbau des öffentlichen Verkehrs in den Randstunden und an den Wochenenden
+N1 Landschaftsqualität N2 Vorranggebiete Natur und Landschaft N3 Landwirtschaft N3.1 Vorranggebiete für die Landwirtschaft / Fruchtfolgeflächen N/12 N3.2 Intensivlandwirtschaftszonen N4 Wildruhezonen, Wildtierkorridore und Jagdbanngebiete N5 Gewässer N6 Wald N7 Naturgefahren
 
-**V - 4 V - 7**
+**3.12.2021**
 
-**V - 8**
+**N/15 3.12.2021 N/17 3.12.2021 N/21 3.12.2021 N/24 3.12.2021 N/26 3.12.2021**
 
-**V - 9 V - 9 V - 11 V - 13 V - 15 V - 17**
+### T Tourismus und Freizeit
 
-V2 Strasseninfrastruktur V2-1 Umfahrungsstrassen von Näfels, Netstal und Glarus V2-2 Entlastung des Dorfzentrums Näfels V2-3 Entlastung des Dorfzentrums Netstal V2-4 Entlastung Zentrum Glarus V2-5 Mehrjahresprogramm Kantonsstrassen
+**T/2 17.08.2022 T/5 17.08.2022 T/8 17.08.2022 T/11 17.08.2022**
 
-**V - 19 V - 19 V - 21 V - 22**
+T1 Konzept Tourismus T2 Touristische Intensiverholungsgebiete (anlagenorientiert) T3 Naturnaher Tourismus (nicht anlagenorientiert) T4 Golfsport
 
-V3 Langsamverkehr V3-1 Erhalt und Ausbau des kantonalen Radwegnetzes V3-2 Fuss- und Wanderwege unterhalten V3-3 Nahtstellen zwischen den Verkehrsträgern verbessern
+### E Übrige Raumnutzungen
 
-**V - 23 V - 23 V - 24**
+**E/2 3.12.2021 E/3 3.12.2021 E/3 3.12.2021 E/5 3.12.2021 E/6 3.12.2021 E/8 3.12.2021 E/10 3.12.2021 E/12 3.12.2021**
 
-V4 Organisatorische Massnahmen V4-1 Mobilitätsmarketing V4-2 Anreize und Lenkungsmassnahmen
+E1 Wasserversorgung und Abwasserreinigung E2 Energie E2.1 Energieplanung E2.2 Versorgung mit elektrischem Strom E2.3 Versorgung mit Erdgas E2.4 Erneuerbare und standortgebundene Energien E2.5 Wasserkraft
 
-**V - 25 V - 25**
+E2.6 Windenergie E3 E4 E5 E6 E6.1 Militärische Schiessanlagen E6.2 Zivile Schiessanlagen E7
 
-V5 Luftverkehr V5-1 Flugplatz und Gebirgslandeplätze
+**Mobilfunkanlagen E/15 3.12.2021 Abfallwesen und Deponien E/16 3.12.2021 Abbau mineralischer Rohstoffe E/18 3.12.2021 Schiessanlagen E/20 3.12.2021**
 
-**V - 27 V - 27**
+**E/20 3.12.2021 E/21 3.12.2021**
 
-V6 Schifffahrt V6-1 Schifffahrt, Bootsliegeplätze
+**Technische Gefahren E/22 3.12.2021**
 
-**L)**
+**17.08.2022**
 
-**L - 1**
+### Richtplankarte
 
-### Natur und Landschaft
+### A Aufbau / Inhalt
 
-**L - 1 L - 1 L - 3 L - 5 L - 8**
+### A1 Einführung
 
-L1 Landwirtschaftsgebiet L1-1 Landwirtschaft L1-2 Landwirtschaftliche Vorranggebiete L1-3 Fruchtfolgeflächen L1-4 Gebiete für Bauten und Anlagen, die über eine innere Aufstockung hinausgehen (Speziallandwirtschaftszonen)
+### A2 Aufgabe und Zweck
 
-**L - 10 L - 11**
+### A3 Aufbau des Richtplans
 
-L2 Tourismus und Erholung L2-1 Touristische Intensiv-, Extensiv- und Ausschlussgebiete
+### A4 Verfahren der Richtplanung
 
-**L - 15 L - 15 L - 16**
+### A5 Monitoring / Controlling
 
-L3 Sport L3-1 Sportanlagen von regionaler und nationaler Bedeutung L3-2 Besondere Freizeitanlagen
+### A1 Einführung
 
-**L – 18 L - 18 L - 21 L - 22 L - 23**
+**Revision RPG**
 
-L4 Natur- und Landschaftsschutz L4-1 Naturschutzgebiete L4-2 Landschaften von regionaler und nationaler Bedeutung L4-3 Natur- und Landschaftsschutz
+Seit Mai 2014 sind das revidierte eidgenössische Raumplanungsgesetz (RPG) und die dazugehörige Raumplanungsverordnung (RPV) in Kraft. Die Kantone sind angehalten, ihre Richtpläne innert fünf Jahren an die neuen gesetzlichen Bestimmungen anzupassen. Mit der Gemeindestrukturreform haben sich auch die institutionellen Strukturen des Kantons Glarus grundlegend geändert. Die drei fusionierten Gemeinden haben in den vergangenen Jahren ihre räumlichen Entwicklungsziele definiert und ihre Ortsplanungen überarbeitet. In den Gemeinden Glarus Süd und Glarus Nord konnte die Nutzungsplanung noch nicht abgeschlossen werden.
 
-L4-4 Ruhegebiete für Wildtiere L4-5 Wildtierkorridore und Wildwechselgebiete L4-6 Jagdbanngebiete L4-7 Besonders wertvolle Gebiete des Hochgebirges Weltnaturerbe „Glarner Hauptüberschiebung“
+**Gemeindestrukturreform Glarus**
 
-**L - 25 L - 27 L - 28**
+Der vorliegende Richtplan setzt die Vorgaben des revidierten Bundesrechts um und berücksichtigt gleichzeitig die neu erarbeiteten Raumplanungsinstrumente der Gemeinden.
 
-**L - 29 L - 29**
+### A2 Aufgabe und Zweck
 
-L5 Gewässer L5-1 Schutz der Gewässer
+1 Behördenverbindlicher Orientierungsrahmen
 
-**L - 31 L - 31**
+Der kantonale Richtplan ist das Hauptinstrument der kantonalen Raumplanung.
 
-L6 Wald L6-1 Erhaltung der Schutz-, Wohlfahrts- und Nutzfunktion
+Nach Art. 8 RPG soll im Richtplan mindestens aufgezeigt werden,
 
-**L - 33 L - 33 L - 36**
+**Art. 8 RPG**
 
-L7 Naturgefahren L7-1 Gefahrengebiete L7-2 Hochwasserschutz
+- wie der Kanton sich räumlich entwickeln soll;
 
-**E)**
+- wie die raumwirksamen Tätigkeiten im Hinblick auf die anzustrebende Entwicklung aufeinander abgestimmt werden;
 
-**E - 1**
+- in welcher zeitlichen Folge und mit welchen Mitteln vorgesehen ist, die Aufgaben zu erfüllen.
 
-### Versorgung und Entsorgung, weitere Raumnutzungen
+Im Richtplan wird der Rahmen für die zukünftige Ausrichtung der Raumordnungspolitik abgesteckt. Mit dem Erlass des Richtplans durch den Regierungsrat und der Genehmigung durch den Landrat wird eine breite politische Akzeptanz und Abstützung der richtplanerischen Festlegungen gewährleistet. Damit die politische Stossrichtung umgesetzt werden kann, ist der Kanton bei der Ausführung raumwirksamer Tätigkeiten auf eine Zusammenarbeit mit verschiedenen Partnern angewiesen. Gemeinsam mit Gemeinden, Wirtschaft und Interessenverbänden sollen Lösungen gesucht werden, die allen einen optimalen Nutzen bringen.
 
-**E - 1 E - 1 E - 3**
+Der Regierung, den Gemeinden und den kantonalen Amtsstellen dient der Richtplan als verbindlicher Orientierungsrahmen (Behördenverbindlichkeit). Fach- oder Sektoralplanungen bleiben in der Kompetenz der zuständigen Ämter, sind aber auf die strategischen Eckpfeiler des Richtplans auszurichten.
 
-E1 Siedlungswasserwirtschaft E1-1 Wasserversorgung / Grundwasserschutz E1-2 Abwasserreinigung
+2 Führungs- und Koordinationsinstrument
 
-**E - 4 E - 4 E - 7 E - 8 E - 10 E - 16**
+Der Richtplan besteht aus richtungsweisenden Festlegungen und Handlungsanweisungen. Die Richtplaninhalte haben zwei unterschiedliche Funktionen:
 
-E2 Energieversorgung E2-1 Energieplanung E2-2 Versorgung mit elektrischem Strom E2-3 Ausbau der Erdgasversorgung E2-4 Erneuerbare und standortgebundene Energie E2-5 Wasserkraft
+- Einerseits setzen sie Leitplanken und einen definierten Handlungsrahmen für die räumliche Entwicklung insgesamt sowie für die zielgerichtete räumliche Abstimmung bedeutender Einzelvorhaben im Speziellen. Solche Inhalte werden als richtungsweisende Festlegungen/Beschlüsse dargestellt.
 
-**E - 20 E - 20 E - 21 E - 22**
+- Andererseits bedarf es der Anweisungen zum konkreten weiteren Vorgehen der Planung und Abstimmung. Dabei werden die Planungsaufgaben, der Stand der Planung, die wichtigsten Grundlagen, die weiteren Schritte sowie die für die weitere Koordination verfahrensführende Stelle bezeichnet.
 
-E3 Abfallbewirtschaftung E3-1 Abfallplanung E3-2 Deponien E3-3 Altlasten
+In Ergänzung zum politischen Entwicklungsplan sowie zur Legislatur- und Finanzplanung steckt der Richtplan die Leitlinien und den Handlungsspielraum der Regierung im raumwirksamen Bereich ab. Obwohl mit dem Richtplan Prioritäten gesetzt werden, ist er kein Realisierungsprogramm, sondern ein Koordinations- und Führungsinstrument. Der Richtplan kann einerseits die Interessenabwägung unterstützen und andererseits diese auch vornehmen, indem er räumliche Konflikte bereinigt. Mit der Offenlegung der kantonalen Interessen wird die Voraussetzung für ein sorgfältiges und umfassendes Abwägen der verschiedenen Interessen geschaffen.
 
-**E - 23 E - 23**
+Damit der Richtplan seiner Funktion als Führungsinstrument gerecht werden kann, wird ein Controlling eingerichtet, mit dem die Zielerreichung von Abstimmungsanweisungen und Massnahmen periodisch überprüft werden kann.
 
-E4 Abbau von Steinen und Erden E4-1 Versorgung mit Steinen und Erden
+### A3 Aufbau des Richtplans
 
-**E - 25 E - 25 E - 26 E - 28**
+1 Dokumente
 
-E5 Weitere Raumnutzungen E5-1 Militärische Bauten und Anlagen E5-2 300-Meter-Schiessanlagen von regionaler Bedeutung E5-3 Mobilfunk-Basisstationen
+**Art. 9 RPV**
 
-**E - 29**
+Der kantonale Richtplan besteht aus Text und Karte (Art. 6 RPV). Genehmigungsinhalt und behördenverbindlicher Teil des Richtplantextes sind die richtungsweisenden Festlegungen/Beschlüsse und die Handlungsanweisungen (grau unterlegte Texte).
 
-E6 Störfallvorsorge
+In der Richtplankarte wird einerseits die Ausgangslage (z.B. bestehende Inventare, bestehende Infrastrukturen, u.ä.) dargestellt. Andererseits werden kartografisch darstellbare Richtplaninhalte (mit einem Verweis auf das entsprechende Richtplankapitel) festgehalten.
 
-### Anhang: Grundlagenverzeichnis
+Neben den Richtplandokumenten besteht eine Vielzahl von Grundlagen.
 
-Richtplankarte
+**Art. 6 RPG**
 
-### 0) Allgemeine Erläuterungen
+Nach Art. 6 RPG haben die Kantone Grundlagen zu erarbeiten, in denen sie feststellen, welche Gebiete - sich für die Landwirtschaft eignen;
 
-### 01 Verfahren der Richtplanüberarbeitung
+- besonders schön, wertvoll, für die Erholung oder als natürliche Lebensgrundlage bedeutsam sind;
 
-Der Regierungsrat des Kantons Glarus hat 1996 beschlossen, den rechtsgültigen Richtplan von 1988 einer Gesamtrevision zu unterziehen und auf die aktuellen Grundlagen, Bedürfnisse und Zielrichtungen des Kantons, der Regionen und Gemeinden auszurichten. Die Überarbeitung des Richtplans des Kantons Glarus richtet sich nach Art. 6 Raumplanungs- und Baugesetz.
+- durch Naturgefahren oder schädliche Einwirkungen erheblich bedroht sind (Art. 6 RPG).
 
-Vorgabe Raumplanungs- Verfahren Richtplanüberarbeitung und Baugesetz
+Im Anhang findet sich ein Erläuterungsbericht zum Richtplan. Dieser dient der Kommentierung und ist nicht behördenverbindlicher Teil des Richtplans.
 
-#### Art. 6
+2 Gliederung
 
-**1 Entwurf der Baudirektion**
+Nach dem einleitenden Kapitel „A Aufbau/Inhalte“ folgt der strategische Überbau mit dem Kapitel R „Raumordnungspolitik/Raumkonzept Glarus“.
 
-Das Departement Bau und Erster Schritt: Juli 1998 bis August 2000 Umwelt erarbeitet die Entwürfe für den Richtplan sowie für Unter Leitung des Baudirektors hat ein Führungsgremium, unterstützt allfällige Anpassungen und durch das beauftragte Planungsbüro, den ersten RP-Entwurf erarbei-Überarbeitungen in Zusam- tet.
+Im Kapitel „S Siedlung“ werden im Wesentlichen Aspekte der Siedlungsstruktur und Siedlungsqualität, die Festlegung des Siedlungsgebietes sowie die Bauzonendimensionierung behandelt.
 
-menarbeit mit den Regionalplanungsgruppen und den Zweiter Schritt: September 2000 bis August 2001 Gemeinden. Interne Vernehmlassung bei den Direktionen und Fachstellen der kantonalen Verwaltung und bei den beiden Regionalplanungsgruppen. Der Richtplan wurde anschliessend überarbeitet.
+Das Kapitel „N Natur und Landschaft“ geht auf diverse Fragestellungen ausserhalb des Siedlungsgebietes, wie z.B. Landwirtschaft, Natur- und Landschaftsschutz ein.
 
-Dritter Schritt: September 2001 bis Dezember 2001
+Im Kapitel „V Verkehr“ steht insbesondere der Gesamtverkehr, einem koordinierten Verkehrssystem bestehend aus Individualverkehr mit motorisiertem Individualverkehr (MIV) und Fuss- und Veloverkehr sowie öffentlichem Verkehr (ÖV) im Zentrum.
 
-Die Baudirektion legte im Rahmen einer Vernehmlassung den Entwurf den Gemeinden, Regionalplanungsgruppen, den Nachbarkantonen und dem Bundesamt für Raumentwicklung vor.
+Aufgrund der zunehmenden Bedeutung des Tourismus für den Kanton Glarus wird diesem Sachbereich ein eigenes Kapitel „T Tourismus“ gewidmet.
 
-Vierter Schritt: Überarbeitung Januar 2002 bis Juli 2003
+Die übrigen Raumnutzungen, wie Ver- und Entsorgung, Energieproduktion oder militärische Bauten und Anlagen, werden im Kapitel „E Übrige Raumnutzungen“ behandelt. Die einzelnen Kapitel werden nach folgenden Bereichen gegliedert:
 
-Die Vernehmlassung wurde umfassend ausgewertet und der Richtplan entsprechend angepasst. Zum Themenbereich Tourismusentwicklung wurde eine Arbeitsgruppe einberufen und mit den betroffenen Gemeinden wurden Gespräche geführt.
+- Ausgangslage (A):
 
-0 - 1
+Schilderung der wichtigsten Zusammenhänge und Aufzeigen des Handlungsbedarfs mit Blick auf die zukünftige Entwicklung - Richtungsweisende Festlegungen/Beschluss (B):
 
-#### Art. 6
+Sachbezogene Zielsetzungen und allgemeine Grundsätze zur angestrebten räumlichen Entwicklung im jeweiligen Bereich.
 
-**Öffentliche Mitwirkung**
+Diese Ausführungen sind verbindlich und daher grau hinterlegt.
 
-**2**
+- Handlungsanweisungen (C):
 
-**Der Regierungsrat hat an seiner Sitzung vom 10. Juli 2003 den Richtplanentwurf als Grundlage für die öffentliche Mitwirkung genehmigt. Die Mitwirkungsfrist wurde bis Ende November 2003 festgelegt.**
+Formulierung der Aufgaben und Zuständigkeiten.
 
-Der Regierungsrat genehmigt diese Entwürfe und eröffnet das Mitwirkungsverfahren, in das die Öffentlichkeit und weitere Träger raumwirksamer Aufgaben einbezogen sind.
+Diese Ausführungen sind verbindlich und daher grau hinterlegt.
 
-#### Art. 6
+- Objekte (D):
 
-**Überarbeitung, Erlass und Genehmigung**
+Konkrete räumliche Vorhaben und Projekte, die zur Umsetzung der Leitüberlegungen bzw. Handlungsanweisungen beitragen.
 
-**3**
+Die Objektbezeichnung ist verbindlich und daher grau hinterlegt.
 
-**Der Richtplan wurde vom Regierungsrat am 17. August 2004 (Richtplantext) bzw. am 21. September 2004 (Richtplankarte) erlassen. Die Genehmigung durch den Landrat erfolgte am 27. April**
+- Erläuterungen (E):
 
-Nach Abschluss des Mitwirkungsverfahrens überarbeitet das Departement Bau und Umwelt den Entwurf zuhanden 2005 und 26. April 2006. des Regierungsrates. Der Regierungsrat erlässt den Richtplan, welcher dem Landrat und anschliessend dem Bundesrat zur Genehmigung vorzulegen ist.
+Ergänzende Erläuterungen zum Thema und Erwähnung spezifischer Grundlagen.
 
-#### Art. 6
+3 Stand der Koordination
 
-**4**
+Das Raumplanungsrecht sieht mit der Festsetzung, dem Zwischenergebnis und der Vororientierung drei Kategorien vor, welche die Reife des Vorhabens bzw. den Stand der Koordination wiedergeben.
 
-Der Landrat kann den Entwurf des Regierungsrates ganz oder teilweise annehmen, ablehnen oder an den Regierungsrat zurückweisen.
+- Festsetzungen (FS):
 
-### 02 Aufbau des Richtplans
+Zeigen auf, wie raumwirksame Tätigkeiten (Planungen oder Vorhaben) aufeinander abgestimmt sind. Damit ist noch nicht entschieden, ob, von wem und wie das Vorhaben verwirklicht werden kann. Diese Entscheide sind einem entsprechenden Planerlass, einem Konzessions- und Bewilligungsverfahren oder einer Finanzierungsvorlage vorbehalten.
 
-Gesetzliche Anforderungen
+- Zwischenergebnisse (ZE):
 
-Der Richtplanaufbau richtet sich einerseits nach den aktuellen Richtlinien des Bundes und anderseits nach den Vorgaben des Raumplanungs- und Baugesetzes des Kantons Glarus. Die gesetzlich vorgeschriebene Form des kantonalen Richtplanes, Art. 3.2 Raumplanungs- und Baugesetz, verlangt einen Grundlagenbericht, den Richtplanbericht, Objektblätter sowie kartenmässige Darstellungen.
+Zeigen auf, welche raumwirksamen Tätigkeiten noch nicht aufeinander abgestimmt sind und was vorzukehren ist, um eine zeitgerechte Abstimmung zu erreichen. Die zuständige Behörde erhält einen Auftrag zur weiteren Problemlösung.
 
-In der Umsetzung wurde darauf Wert gelegt, dass der Richtplan kurz gefasst, einfach gegliedert und übersichtlich ist. Die gesetzlich geforderten Elemente wurden daher wie folgt zugeordnet:
+- Vororientierungen (VO):
 
-Zum gesetzlich geforderten Grundlagenbericht zählen die folgenden Kapitel im Richtplanbericht: Kapitel "Allgemeine Erläuterungen" Inhaltskapitel "Richtplanaufgabe / Problemstellung / Ausgangslage" Kapitel "Grundlagenverzeichnis“ Als Richtplanbericht wird der ganze vorliegende Richtplantext bezeichnet.
+Zeigen auf, welche raumwirksamen Tätigkeiten sich noch nicht in dem für die Abstimmung erforderlichen Mass umschreiben lassen, aber erhebliche Auswirkungen auf die Nutzung des Bodens haben können. Sie weisen auf Vorhaben oder Planungen hin, die noch räumlich unbestimmt oder erst langfristig zur Realisierung vorgesehen sind.
 
-Als Objektblätter gelten die Abstimmungsanweisungen.
+### A4 Verfahren der Richtplanung
 
-Die kartenmässige Darstellung erfolgt in einem Plan, der Richtplankarte.
+Nach Art. 9 RPG ist der Richtplan anzupassen, wenn
 
-Richtplanbericht und die Richtplankarte bilden zusammen den "Kantonalen Richtplan Glarus 2004". Die Grundzüge der räumlichen Entwicklung sind in den richtungsweisenden Festlegungen (Richtplaninhalt) und im entwicklungspolitischen Leitbild des Kantons Glarus, 1999 (Richtplangrundlage) umschrieben.
+**Art. 9 RPG**
 
-Richtplanaufbau
+- sich die Verhältnisse geändert haben;
 
-Der vorliegende Richtplan besteht aus der Richtplankarte und dem Richtplantext. Die Richtplankarte ist auf einer Plangrundlage 1:25'000 im Massstab 1:50'000 dargestellt. Sie ist nicht parzellenscharf. In der Legende finden sich die Verweise zu den Kapiteln im Richtplantext.
+- sich neue Aufgaben stellen;
 
-Der Richtplantext gliedert sich in zwei Einleitungskapitel und vier Kapitel zu Sachbereichen, die ihrerseits in einzelne Themenkreise unterteilt sind. In den Einleitungskapiteln werden Kennzahlen zum Kanton Glarus und die Grundzüge der räumlichen Entwicklung dargestellt. Die Kapitel zu den Sachbereichen behandeln folgende Themen:
+- eine gesamthaft bessere Lösung möglich ist.
 
-- Siedlung
+Richtpläne sind in der Regel alle zehn Jahre gesamthaft zu überprüfen und nötigenfalls zu überarbeiten (Art. 9 Abs. 2 RPG).
 
-- Verkehr
+Der Richtplan ist als dynamisches und entwicklungsfähiges Führungsinstrument konzipiert. Die strategische Ebene (z.B. das Raumkonzept) legt aber die langfristigen Leitplanken für die räumliche Entwicklung fest. Auf der operativen Ebene, d.h. den Handlungsanweisungen, unterliegt der Richtplan hingegen einer laufenden Anpassung und permanenten Bewirtschaftung.
 
-- Natur und Landschaft
+Dabei werden zwei Arten von laufenden Änderungen unterschieden:
 
-- Versorgung und Entsorgung, weitere Raumnutzungen.
+- Anpassungen:
 
-Mit diesem Aufbau ist keine Wertung der einzelnen Sachbereiche verbunden.
+Dazu gehört die Änderung oder Neuaufnahme von richtungsweisenden Festlegungen oder Handlungsanweisungen. Anpassungen durchlaufen das vorgeschriebene Erlass- und Genehmigungsverfahren.
 
-**0 - 2**
+- Fortschreibungen:
 
-Die Inhalte basieren auf diversen Grundlagen, wie Inventaren, Verzeichnissen, Szenarien, Daten und Berichten zu verschiedenen Sachbereichen (siehe Grundlagenverzeichnis). Die Grundlagen berück-
+Dabei handelt es sich um die Aktualisierung von Richtplaninhalten, die durch den Richtplan bereits vorgezeichnet sind und sich aus der Anwendung des Richtplans ergeben. Es wird der jeweilige Stand des Vollzugs der Handlungsanweisungen nachgeführt. Das Erlass- und Genehmigungsverfahren wird nicht durchgeführt, Fortschreibungen erfolgen formlos.
 
-0 - 3 sichtigen den (Genehmigungs-)Stand bis 2003, sofern nichts anderes vermerkt ist. Die einzelnen Kapitel sind aufgeteilt in:
+### A5 Monitoring / Controlling
 
-- Richtplanaufgabe
+A Ausgangslage
 
-- Problemstellung / Ausgangslage
+**Art. 9 Abs. 1 RPV**
 
-- Richtungsweisende Festlegungen
+Die Kantone müssen dem Bund alle vier Jahre Bericht zum Stand der Richtplanung, über deren Umsetzung sowie über wesentliche Änderungen der Grundlagen erstatten (Art. 9 Abs. 1 RPV).
 
-- Abstimmungsanweisungen.
+Die Richtplanung als steuernde und koordinierende Tätigkeit soll Veränderungen und Entwicklungen vorausschauend wahrnehmen. Dazu ist die tatsächliche räumliche Entwicklung mit einem systematischen Monitoring laufend zu beobachten.
 
-Die Richtplanaufgabe umschreibt die politische und gesetzliche Aufgabenstellung, welche der Kanton mit dem Richtplan in dem betreffenden Sachbereich verfolgt.
+Das Controlling dient als Steuerungsinstrument für die Richtplanung, mit dem der Grad der Zielerreichung bei den richtungsweisenden Festlegungen und den Handlungsanweisungen überprüft wird. Das Richtplancontrolling besteht aus einem Zielerreichungscontrolling auf der strategischen Ebene gemäss den Schlüsselindikatoren des Monitorings und einem Vollzugscontrolling der Handlungsanweisungen auf der operativen Ebene.
 
-Das Kapitel Problemstellung / Ausgangslage umschreibt die heutige Situation und erläutert die richtplanrelevanten Probleme.
+B Richtungsweisende Festlegung / Beschluss
 
-Richtungsweisende Festlegungen sind Zielsetzungen des Kantons. In der Regel sind damit keine weiteren Abstimmungshinweise erforderlich. Sie gelten als Festsetzung (Ziel). Mit der Genehmigung durch den Landrat werden die richtungsweisenden Festlegungen zur behördenverbindlichen Aufgabe.
+A5-B/1 Monitoring der räumlichen Entwicklung
 
-Drei Stufen der Richtplaneintragung
+- Um unerwünschte Entwicklungen feststellen zu können sowie räumliche Konflikte frühzeitig zu erkennen, führt der Kanton eine systematische Raumbeobachtung durch.
 
-Abstimmungsanweisungen umschreiben den Gegenstand der Planung bzw. die Abstimmungsaufgaben sowie den Abstimmungsstand. Sie legen das weitere Vorgehen unter Berücksichtigung der Verfahrenskoordination fest, bezeichnen die am Verfahren beteiligten Behörden und Gemeinden und weisen die Termine aus. Bezüglich Abstimmungsstand können drei Stufen unterschieden werden:
+C Handlungsanweisungen
 
-- 1\. Stufe: Vororientierung
+A5-C/1 Monitoring der räumlichen Entwicklung
 
-Der Planungsgegenstand ist bekannt, Art und Umfang der Abstimmungsanweisung kann noch nicht bestimmt werden; Optionen welche nicht abschliessend beurteilt werden können und im Sinne des Vorsorgeprinzips dargestellt werden; Planungsgegenstände welche im Konflikt mit weiteren Richtplaninhalten stehen und die Aufnahme oder Ablehnung im weiteren Vorgehen geklärt werden muss. Vororientierung: Noch nicht abstimmungsreife oder generelle Vorstellungen zu Vorhaben, die erhebliche Auswirkungen auf die räumliche Entwicklung haben könnten.
+Der Kanton dokumentiert periodisch die räumliche Entwicklung und führt im Vierjahresrhythmus ein Monitoring durch.
 
-- 2\. Stufe: Zwischenergebnis
+Das Monitoring umfasst mindestens folgende Kennwerte:
 
-Die räumliche Abstimmung ist teilweise erfolgt, wesentliche Lösungselemente sind jedoch nicht abschliessend festgelegt; das Vorgehen ist mit dem Richtplan festgelegt (evtl. Standardvorgaben gemäss gesetzlichen Grundlagen); die zuständigen Stellen sind bezeichnet.
+- Bevölkerungs- und Beschäftigtenentwicklung
 
-Zwischenergebnis: Vorhaben, die noch nicht abgestimmt sind, bezüglich derer aber klare Aussagen zu den weiteren Arbeitsschritten gemacht werden können.
+- Bauzonenstatistik
 
-- 3\. Stufe: Festsetzung
+- Kantonale Auslastung (gemäss Technische Richtlinien Bauzonen des Bundes)
 
-Der Planungsgegenstand ist auf der Stufe Richtplan räumlich abgestimmt, die richtplanerische Aufgabe ist somit erledigt; laufende Planungen, Projekte und Umsetzungen; geklärte Zuständigkeiten; politische Entscheide dem Vorgehensstand entsprechend vorliegend. Zudem werden Richtplaninhalte,
+- Entwicklung der Einwohnerdichten Federführung: Dep. Bau und Umwelt, Abt. Raumentwicklung und Geoinformation
 
-0 - 4 welche aus dem Richtplan 88 übernommen wurden und den vorgängigen Kriterien entsprechen, als Festsetzung eingestuft.
+A5-C/2 Controlling des Richtplans
 
-Festsetzung: Vorhaben, die mit Blick auf die wesentlichen räumlichen Auswirkungen bereits abgestimmt sind.
+Der Kanton erstellt alle vier Jahre einen Controllingbericht über den Stand der Richtplanung. Dieser umfasst mindestens folgende Inhalte:
 
-Die grau unterlegten Texte (richtungsweisende Festlegungen und Abstimmungsanweisungen) bezeichnen die behördenverbindlichen Beschlüsse.
+- Soll-Ist-Vergleich der tatsächlichen räumlichen Entwicklung mit den Zielen des Richtplans (Controlling der Leistungsziele)
 
-Änderung des Richtplans: Überarbeitung, Anpassung und Fortschreibung
+- Dokumentation des Umsetzungsstandes der Handlungsanweisungen (Vollzugscontrolling)
 
-Der Richtplan muss über eine gewisse Beständigkeit verfügen und gleichzeitig flexibel auf die Bedürfnisse der Gesellschaft und deren räumliche Konsequenzen reagieren können. Er muss daher in regelmässigen Abständen und nach Bedarf überprüft und fortgeschrieben werden. Für die Änderung des Richtplans sind drei Formen der Richtplanbearbeitung möglich, nämlich die Überarbeitung, die Anpassung und die Fortschreibung des Richtplans.
+- Handlungsbedarf: Massnahmen zur Zielerreichung bzw. Empfehlungen für Anpassungen der Richtplaninhalte bei wesentlichen Abweichungen in der Zielerreichung und im Vollzug.
 
-Richtplan-Überarbeitung
+Federführung: Dep. Bau und Umwelt, Abt. Raumentwicklung und Geoinformation
 
-Bei der Überarbeitung handelt es sich um eine Totalrevision des Richtplans. Sie wird höchstens alle 10 Jahre nach einer gesamten Überprüfung durchgeführt.
+### R Raumentwicklungsstrategie
 
-Bei der Richtplan-Überarbeitung wird das vollständige gesetzlich vorgeschriebene Verfahren durchgeführt.
+### R Raumentwicklungsstrategie
 
-Richtplan-Anpassungen
+A Ausgangslage
 
-Anpassungen betreffen nur Teile des Richtplans. Der Richtplan muss angepasst werden, wenn richtungsweisende Festlegungen zu ändern sind, sich neue Abstimmungsaufgaben stellen oder bessere Lösungen möglich sind. Zudem kann von den Nachbarkantonen und von den Bundesstellen eine Anpassung des kantonalen Richtplans verlangt werden.
+**Art. 8 RPG**
 
-Bei der Richtplan-Anpassung wird das vollständige gesetzlich vorgeschriebene Verfahren durchgeführt. Sowohl die Richtplan-Überarbeitung als auch die Richtplan-Anpassungen sind einem Mitwirkungs-, Beschluss- und Genehmigungsverfahren unterworfen.
+Der Kanton legt die Grundzüge der angestrebten Entwicklung im Sinne von Art. 8 Abs. 1 RPG in der Raumentwicklungsstrategie fest. Darin berücksichtigt er auch die räumlich-funktionalen Zusammenhänge, welche über die Kantonsgrenze hinausgehen sowie die Entwicklungsstrategien der Nachbarkantone.
 
-Richtplan-Fortschreibung
+Die Raumentwicklungsstrategie des Kantons ist die Antwort auf die eigenen strukturellen Gegebenheiten und die damit einhergehenden Herausforderungen.
 
-Um eine Fortschreibung des Richtplans handelt es sich, wenn der Vollzug der Richtplananweisungen festgehalten und mitgeteilt resp. zur Kenntnis genommen wird. Darunter fällt insbesondere die Aktualisierung des Abstimmungsstandes zwischen den Stufen Vororientierung, Zwischenergebnis und Festsetzung. Fortschreibungen liegen – sofern dies in den Abstimmungsanweisungen nicht ausdrücklich anders geregelt ist – in der Kompetenz des Regierungsrates und erfordern kein Mitwirkungs-, Beschluss- und Genehmigungsverfahren.
+Strukturen und Herausforderungen Topographie gibt räumliche Struktur des Kantons vor Der Kanton Glarus öffnet sich nach Norden hin zu Linthebene und Walensee und ist ansonsten von den Nachbarkantonen durch teilweise hohe Bergketten räumlich getrennt. Die beiden Alpenpässe Klausen und Pragel, über welche der Kanton in der warmen Jahreszeit zu erreichen ist, sind für den Waren- und Personenverkehr unbedeutend. Sie haben eine rein touristische Bedeutung. Die Verkehrsbeziehungen sind daher fast ausschliesslich nach Norden gerichtet.
 
-0 - 5 Inkrafttreten des Richtplans
+Siedlungsentwicklung findet hauptsächlich im Talboden statt Die Kantonsfläche besteht zu 30% aus Wald, zu 35% aus Geröll, Fels, Gletscher und Gewässern und zu 20% aus Alpweiden. Der Talboden, die Linthebene und die grossen besiedelten Geländeterrassen machen nur gerade 15% der Kantonsfläche aus. In diesem «besiedelbaren» Raum befinden sich neben den Siedlungs- und Verkehrsinfrastrukturen auch die fruchtbaren Böden für die Landwirtschaft. Diese unterschiedlichen Nutzungsansprüche an diesen Raum ist eine besondere Herausforderung.
 
-Der vorliegende Richtplan tritt in Kraft mit der Genehmigung des Landrates. Für den Bund und die Nachbarkantone wird der Richtplan gemäss Art. 11 des Bundesgesetzes über die Raumplanung (RPG) erst mit der Genehmigung des Bundesrates verbindlich.
+Schwerpunktgebiet Wohnen und Arbeiten zwischen Bilten und Schwanden Rund 83% der Kantonsbevölkerung bzw. gut 34‘000 Personen leben im Talboden zwischen Bilten und Schwanden. Die Einwohner- und Beschäftigtenzahl in diesem Schwerpunktgebiet Wohnen und Wirtschaft nimmt zu. Die Ansiedlung neuer Einwohner und Arbeitsplätze ist ausserhalb dieses Schwerpunktegebiets herausfordernd.
 
-Abstimmung mit den Nachbarkantonen
+Industrie bleibt wichtiger Wirtschafts- und Erwerbszweig für Glarus 2016 waren 42% der Beschäftigten (in Vollzeitäquivalenten VZÄ) im produzierenden Sektor tätig. Die meisten Arbeitsplätze sind allerdings im Dienstleistungssektor zu finden (54% aller VZÄ). Innerhalb des Dienstleistungssektors schaffen der Detailhandel sowie das Gesundheits- und Sozialwesen (Heime; Erziehung und Schulwesen) das grösste Arbeitsplatzangebot. Auf Land- und Forstwirtschaft entfallen noch 6% der Beschäftigten. Die vergleichsweise geringe Verfügbarkeit von Fachkräften und hochqualifizierten Arbeitnehmern stellen ein Nachteil für die wirtschaftliche Entwicklung des Kantons dar.
 
-Die Abstimmung mit den Nachbarkantonen erfolgt im Rahmen der Mitwirkung und durch ein Vernehmlassungsverfahren zum Entwurf des Richtplans.
+Gegenwärtig ist Glarus daher auf Zuzüger oder Zupendler angewiesen.
 
-Finanzielle Auswirkungen des vorliegenden Richtplans
+Hohe Dichte an Industriebrachen erschwert deren Reaktivierung Nirgends in der Schweiz ist die Dichte an Arealen mit historischen Industrien grösser als im Kanton Glarus. Eine Grosszahl dieser Areale ist heute nicht mehr oder nur teilweise noch industriell genutzt. Für eine erneute industrielle Produktion sind viele Areale aufgrund ihrer relativ peripheren Lage uninteressant. Die Zukunftsaussichten für diese Areale sind unsicher. Sie verfügen aufgrund ihrer geschichtlichen Vergangenheit über besondere Charakteristiken, welche Chancen für verschiedene Nachfolgenutzungen eröffnen. Investitionsbedarf in Bausubstanz ist gross Die Wohnbausubstanz im Kanton Glarus ist geprägt durch einen überdurchschnittlich hohen Anteil an Einfamilienhäusern. Die Bausubstanz ist vergleichsweise alt und wird dominiert von Gebäuden, die vor 1919 erbaut wurden. Rund ein Drittel der Wohneinheiten stammt aus dieser Bauperiode. In Glarus Süd ist es sogar beinahe die Hälfte. Namentlich in den Ortskernen besteht ein beträchtlicher Investitionsbedarf in die Bausubstanz.
 
-Der vorliegende Richtplanentwurf ist grundsätzlich budgetneutral und verursacht keine aussergewöhnlichen Folgekosten, welche über den Rahmen der jährlichen Budgets und des Finanzplanes hinausgehen. Die Verkehrsplanung - das ‚Mobilitätskonzept Glarnerland’, welches erhebliche finanzielle Folgen mit sich bringen könnte, ist nicht Bestandteil des Richtplans.
+Tourismus ist auf neue Impulse und eine erneuerte Infrastruktur angewiesen Der Tourismus im Kanton Glarus befindet sich in einer schwierigen Situation. Die Logiernächte in der Hotellerie sind seit der Jahrtausendwende markant zurückgegangen und der Bestand an warmen Betten ist kleiner geworden. Augenfällig ist auch die vergleichsweise tiefe Auslastung der Beherbergungsbetriebe. Bei der touristischen Infrastruktur besteht insgesamt ein erheblicher Erneuerungsbedarf. Um dem Tourismus im Kanton Auftrieb zu verleihen, sind Impulse notwendig.
 
-0 - 6
+Glarus ist gegenüber den Folgen des Klimawandels verletzlich Als Gebirgskanton ist Glarus in besonderem Masse von den Folgen des Klimawandels betroffen. Extreme Wetterereignissen treten häufiger auf, dadurch nimmt die Gefahr von Murgängen, Lawinen, Hangrutschungen oder auch Flur- und Waldbränden zu. Trockenheit und Hitze stellen namentlich die Landwirtschaft vor Probleme. Auch der im Kanton bedeutsame Energiesektor kann betroffen sein.
 
-### A) Kennzahlen zum Kanton Glarus
+Aus touristischer Sicht zwingt der Anstieg der Schneegrenze die eher tiefgelegenen Skigebiete von Elm und Braunwald zu Investitionen in die Schneesicherheit. Die heissen Sommer schaffen gleichzeitig auch Chancen für die Stärkung des Sommertourismus in den alpinen Regionen.
 
-### A1 Geographie
+Gemeinden entwickeln sich ungleich Zwischen 2007 bis 2017 ist die Bevölkerungszahl in der Gemeinde Glarus Nord jährlich um 1.2% gewachsen. In Glarus hat sie leicht zugenommen (jährlich +0.3%), während sie in Glarus Süd abgenommen hat (jährlich -0.4%). Eine ähnliche Entwicklung zeigt sich auch bei der Beschäftigung, welche in Glarus Nord und Glarus Mitte leicht zugenommen hat, während sie in Glarus Süd etwas abgenommen hat. Auf die beiden nördlichen Gemeinden entfallen beinahe 80% der Beschäftigten im Kanton.
 
-Der Kanton besteht aus 29 Ortschaften und 27 Gemeinden\* . Kantonshauptort ist Glarus. Die gesamte Ausdehnung des Kantons Glarus beträgt 68’070 ha ohne die Fläche Walensee. Der Kanton umfasst im Wesentlichen das Einzugsgebiet der Linth mit Grosstal und Kleintal, bzw. Sernftal und dem Haupttal von Schwanden bis zur Mündung im Walensee.
+Die unterschiedliche Dynamik in den Gemeinden hängt wesentlich mit ihren räumlichen Voraussetzungen und ihrer Erreichbarkeit zusammen.
 
-### Kanton / Region / Ort Höhe m.ü.M. Fläche ha
+ Glarus Nord: Grenzt an den Metropolitanraum Zürich und profitiert von dessen Entwicklungsdynamik. Die Gemeinde ist in jüngerer Vergangenheit stark gewachsen, es haben sich vermehrt Personen aus anderen Kantonen niedergelassen.
 
-### KANTON GLARUS <sup>(ohne</sup> <sup>Walensee)</sup> 68070
+ Glarus: Hat als Kantonszentrum mit vielen sicheren Arbeitsplätzen in den Bereichen Bildung, Verwaltung, Gesundheit und Soziales einen Standortvorteil.
 
-### TOTAL Unterland 14696 Glarner Unterland 10161
+ Glarus Süd: Liegt bereits zu peripher, um von der grösseren Dynamik und Nachfrage nach Erstwohn- und Arbeitsraum profitieren zu können. Die Gemeinde hat in jüngerer Vergangenheit insbesondere Wohnbevölkerung an die beiden anderen Gemeinden des Kantons verloren. In Glarus Süd bestehen jedoch die grössten Potenziale im Bereich Tourismus und Freizeit.
 
-Bilten 446 m.ü.M. 1588 Niederurnen 437 m.ü.M. 1414 Oberurnen 437 m.ü.M. 1277 Näfels 437 m.ü.M. 3694 Mollis 445 m.ü.M. 2188
+B Richtungsweisende Festlegungen / Beschluss
 
-### Kerenzerberg 4535
+R-B0 Eigenständigkeit des Kantons Glarus wahren
 
-Filzbach 690 m.ü.M. 1389 Obstalden 685 m.ü.M. 2379 Mühlehorn 428 m.ü.M. 767
+Glarus versteht sich als eigenständiger, selbstbewusster Gebirgskanton, der sich auf seine Stärken besinnt und die eigenen Potenziale ausschöpft. Basis dafür bildet eine starke und solidarische Gemeinschaft. Die drei Gemeinden verfügen über unterschiedliche Entwicklungsvoraussetzungen und Stärken. Diese werden gezielt gefördert.
 
-### TOTAL Mittelland 10370
+R-B1 Zentren stärken Der Kantonshauptort Glarus hat aufgrund seiner Historie einen besonderen kulturellen und gesellschaftlichen Stellenwert im Kanton. In Glarus befinden sich u.a. Kantonsspital, Kantonsschule, kantonale Verwaltung, Gerichte, Parlament, Landesbibliothek und Kunsthaus. Glarus ist zudem Durchführungsort der Landsgemeinde. Der Kantonshauptort Glarus wird in seinen zentralörtlichen Funktionen weiter gestärkt.
 
-Netstal 458 m.ü.M. 1070 Riedern 515 m.ü.M. 155 Glarus 471 m.ü.M. 6921 Ennenda 478 m.ü.M. 2224
+Die Orte Schwanden und Näfels/Niederurnen sollen in ihrer Funktion als Zentrum für ihre Gemeinden gestärkt und als überörtliche Versorgungsknoten etabliert werden.
 
-### TOTAL Hinterland 43004 Grosstal 25736
+R-B2 Aussenbeziehungen stärken; Nähe zur Metropolitanregion Zürich für die Entwicklung als Wohn-. Arbeits- und Tourismusstandort nutzen und die Partnerschaften mit dem Alpenrheintal pflegen Die Nähe zur Metropolitanregion Zürich birgt ein grosses Potenzial. Der Kanton erbringt gezielt komplementäre Leistungen für Einwohner und Wirtschaft des Grossraums Zürich. Die gezielte Ausrichtung auf die Bedürfnisse dieses Raums vermag die in vielen Bereichen des Kantons Glarus erforderlichen Entwicklungsimpulse auszulösen. Ein wichtiger Bezugsraum innerhalb der Metropolitanregion ist die Linthebene sowie die Agglomeration Obersee (Arbeitskräfte; Zuzüger; Einzugsgebiet für Glarner Unternehmungen).
 
-Mitlödi 520 m.ü.M. 623 Sool 606 m.ü.M. 1328 Schwändi 718 m.ü.M. 349 Schwanden 530 m.ü.M. 3054 Nidfurn 570 m.ü.M. 260 Haslen 588 m.ü.M. 1159 Leuggelbach 570 m.ü.M. 173 Luchsingen 575 m.ü.M. 2026 Hätzingen 586 m.ü.M. 318 Diesbach 593 m.ü.M. 727 Betschwanden 597 m.ü.M. 950 Rüti 614 m.ü.M. 625 Braunwald 1250 m.ü.M. 1026 Linthal 650 m.ü.M. 13118
+Der Kanton Glarus pflegt im Bereich Gesundheit und Bildung Partnerschaften mit Institutionen des Alpenrheintals. Diese Beziehungen sind zu pflegen und nach Möglichkeit weiter auszubauen.
 
-### Kleintal / Sernftal 17268
+R-B3 Gewerbe- und Industriestandort Glarus wettbewerbsfähig halten Der Kanton Glarus ist wirtschaftsfreundlich und will als Wirtschaftsstandort langfristig attraktiv sein. Er bietet den ansässigen Unternehmen gute Rahmenbedingungen. Zur Ansiedlung neuer Unternehmungen aus ertragsstarken Branchen bereitet er Entwicklungsschwerpunkte mit unterschiedlichen Standortanforderungen vor. Für die ansässigen Unternehmen schafft der Kanton die raumplanerischen Voraussetzungen für deren Weiterentwicklung.
 
-Engi 782 m.ü.M. 4090 Matt 853 m.ü.M. 4097 Elm 982 m.ü.M. 9081
+R-B4 Siedlungsentwicklung nach innen lenken, Boden haushälterisch nutzen Die Siedlungen im Kanton Glarus entwickeln sich grundsätzlich nach innen. Die landwirtschaftlichen und ökologisch wertvollen Flächen werden geschont, der Boden haushälterisch genutzt. Die Entwicklung von Gebieten mit guter ÖV-Erschliessung ist prioritär. Eine weitere Ausdehnung des Siedlungsgebiets wird vermieden.
 
-A - 1 Die Siedlungsentwicklung ist historisch durch die landwirtschaftliche und industrielle Nutzung geprägt, welche beide die spezielle Topgraphie des Gebirgstals als Ausgangspunkt haben. Der geographische Raum des Kantons wird in drei Teilräume gegliedert: Unterland (Bilten bis Mollis und Kerenzerberggemeinden), Mittelland (Netstal bis Glarus, Ennenda) und Hinterland (Grosstal von Mitlödi bis Linthal, Kleintal / Sernftal mit Engi, Matt und Elm). Der Kanton Glarus von heute steht in verstärkter Beziehung zum Wirtschaftsraum Zürich und die Mobilität hat auch hier stark an Stellenwert gewonnen.
+R-B5 Öffentlicher Verkehr innerhalb des Kantons und nach aussen stärken
 
-### A2 Wohnbevölkerung und Bevölkerungsentwicklung
+Die SBB-Bahnlinie Ziegelbrücke – Linthal ist das Rückgrat des öffentlichen Verkehrs im Kanton. Der öffentliche Verkehr auf dieser Achse wird beschleunigt und systematisiert (starre Taktfolge). Das Busnetz wird optimal auf das Bahnangebot abgestimmt. Am Taktknoten Ziegelbrücke werden die Anschlüsse an den Regionalverkehr in alle Richtungen - jedoch insbesondere nach Zürich HB - optimiert.
 
-Der Kanton Glarus hat 38’183 Einwohner (VZ 2000). 40 Prozent der Bevölkerung sind im Unterland angesiedelt. Im Mittelland sind es 31 Prozent der Bevölkerung und im Hinterland 29 Prozent. Die Bevölkerung ist im Jahr 2000 unter das Total der Volkszählung 1990 (-0,8 Prozent, 38'508 Einwohner) gesunken. Der Bevölkerungsrückgang zwischen 1990 und 2000 ist hauptsächlich auf die Wegzüge zurückzuführen und nicht auf demographische Entwicklungen.
+R-B6 Strassenseitige Erreichbarkeit verbessern Die übergeordneten Verkehrsverbindungen für den motorisierten Individualverkehr zwischen Niederurnen und Schwanden werden mit dem Bau von Umfahrungsstrassen verbessert. Die Massnahmen in die Verkehrsinfrastruktur sollen auch dazu beitragen, dass die negativen Auswirkungen auf Siedlungen und Umwelt möglichst klein bleiben.
 
-### Kanton/ Region/ Ort Wohnbev. Wohnbev. Bev.-entw. VZ 1990 VZ 2000 1990 - 2000 KANTON GLARUS 38508 38183 -0.8
+R-B7 Wohnraum in Glarus Süd vitalisieren
 
-### TOTAL Unterland 15311 15772 +3.0 Glarner Unterland 13977 14355 +2.7
+Glarus Süd bietet Wohnraum inmitten einer alpinen ländlichen Landschaft mit viel Authentizität und Ruhe. Wohnen ist preiswert und die industrielle Baukultur ermöglicht verschiedenartige Wohnformen. Mit der Vitalisierung des Wohnraums in Glarus Süd sind naturverbundene Menschen ebenso angesprochen wie Personen, die an mehreren Standorten wohnhaft sein wollen oder besondere Wohnformen suchen.
 
-Bilten 1916 1882 -1.8 Niederurnen 3411 3741 +9.7 Oberurnen 1790 1811 +1.2 Näfels 3882 3947 +1.7 Mollis 2978 2974 -0.1
+R-B8 Landschaftsqualität erhalten und verbessern Die Qualität der Landschaft wird erhalten und wo möglich gesteigert, die Biodiversität und ökologische Vernetzungen werden gefördert. Der Wert der Landschaft für die ortsansässige Bevölkerung wie auch für Gäste in Bezug auf Wohlbefinden, räumliche Identifikation, Standortattraktivität und weiterer Leistungen nimmt zu.
 
-### Kerenzerberg 1334 1417 +6.2
+R-B9 Touristisches Potenzial ausschöpfen
 
-Filzbach 471 542 +15.1 Obstalden 388 434 +11.9 Mühlehorn 475 441 -7.2
+Der Tourismus wird als wirtschaftliches Standbein des Kantons gestärkt, indem vermehrt auf die Eigenheiten und Besonderheiten sowie auf qualitativ ansprechende Angebote für Tourismus und Freizeit gesetzt wird. Naturorientierte Freizeitangebote für Individualgäste sind das Aushängeschild des Glarner Tourismus. Das Beherbergungsangebot wird modernisiert und erweitert, damit mehr Wertschöpfung im Kanton generiert werden kann. Der Sommertourismus wird gefördert und gestärkt. Die touristischen Angebote tragen dazu bei, dass Glarus als Wohnort für jüngere Altersgruppen attraktiver wird.
 
-### TOTAL Mittelland 12139 11799 -2.8
+C Handlungsanweisungen
 
-Netstal 2898 2813 -2.9 Riedern 644 622 -3.4 Glarus 5728 5556 -3.0 Ennenda 2869 2808 -2.1
+Siehe Sachkapitel
 
-### TOTAL Hinterland 11058 10612 -4.0 Grosstal 9166 8814 -3.8
+D Objekte
 
-Mitlödi 1019 1030 +1.1 Sool 258 303 +17.4 Schwändi 369 395 +7.0 Schwanden 2645 2601 -1.7 Nidfurn 279 258 -7.5 Haslen 597 649 +8.7 Leuggelbach 171 184 +7.6 Luchsingen 647 592 -8.5 Hätzingen 393 341 -13.2 Diesbach 284 237 -16.5 Betschwanden 149 172 +15.4 Rüti 507 444 -12.4 Braunwald 478 408 -14.6 Linthal 1370 1200 -12.4
+keine
 
-### Kleintal / Sernftal 1892 1798 -5.0
+### S Siedlung
 
-Engi 695 656 -5.6 Matt 406 381 -6.2 Elm 791 761 -3.8
+### S1 Struktur der Besiedlung und Zentren
 
-A - 2 Der Bevölkerungsrückgang entfällt im Vergleich zur Volkszählung 1990 zu einem grossen Teil auf das Mittelland (- 2,8 Prozent) und das Hinterland (- 4,0 Prozent). Vom Bevölkerungsrückgang am stärksten betroffen ist das Kleintal (-5,0 Prozent). Einen Bevölkerungszuwachs verzeichnen konnten das Unterland (+3,0 Prozent) und am stärksten der Kerenzerberg (+ 6,2 Prozent). Eine Abschätzung der künftigen Bevölkerungsentwicklung ist schwierig, da das Wanderungsverhalten (Zu- und Wegzüge) starken Schwankungen ausgesetzt ist. Das im Richtplan 1988 formulierte Bevölkerungsziel von 39'000 Personen für das Jahr 2000 wurde bis anhin nicht erreicht.
+### S2 Siedlungsentwicklung nach innen und Abstimmung Verkehr
 
-### A3 Beschäftigung und Wirtschaftsentwicklung
+### S3 Siedlungsgebiet
 
-Der Kanton Glarus ist gemäss der eidgenössischen Betriebszählung von 2001 nach wie vor der am stärksten industrialisierte Raum der Schweiz. Von 19’038 Voll- und Teilzeit-Beschäftigten umfasst der zweite Sektor (Industrie und Gewerbe) immer noch deren 7’956 oder 42 Prozent (CH: 27 Prozent); der erste Sektor (Land- und Forstwirtschaft) deren 1’555 oder 8 Prozent (CH: 5 Prozent) und der dritte Sektor (Dienstleistungen) deren 9’527 oder 50 Prozent (CH: 68 Prozent).
+### S4 Bauzonendimensionierung
 
-Zwischen der Betriebszählung von 1990 und 2001 ist eine Abnahme der Beschäftigtenzahlen von 11 Prozent im Kanton Glarus ablesbar. Gleichzeitig hat der wirtschaftliche Strukturwandel vom Industriesektor zum Dienstleistungssektor im letzten Jahrzehnt analog den gesamtschweizerischen Entwicklungen in verstärktem Mass zugenommen. Auf gesamtkantonaler Ebene ist im Industrie- und Gewerbesektor eine sehr starke Beschäftigungsabnahme zu verzeichnen (- 6,5 Prozent). Während der Dienstleistungssektor fast in gleichem Mass wächst (+ 5,8 Prozent). Die Hälfte der Beschäftigten im Kanton Glarus ist zurzeit im Dienstleistungssektor tätig. Die Anzahl der Beschäftigten in der Land- und Forstwirtschaft ist leicht rückläufig und liegt im Jahr 2001 bei 8,2 Prozent.
+S4.1 Wohn-, Misch- und Kernzonen (WMK)
 
-Entwicklung der Beschäftigtenzahlen (1990 – 2001) im Kanton Glarus:
+S4.2 Arbeitszonen und Entwicklungsschwerpunkte Arbeiten (ESP)
 
-### Betriebs- Anteil Betriebs- Anteil Zu-/ Abnahme Anteil Wirtschaftssektor zählung 1991 in % zählung 2001 in % 1990-2001 in %
+S4.3 Zonen öffentliche Nutzungen (ZöBA) und Zonen für Nutzungen mit öffentlichem Charakter
 
-**8.2% -49 +0.7%**
+### S5 Versorgung
 
-- 1\. Sektor Land- und Forstwirtschaft 1'604 7.5% 1'555
+S5.1 Öffentliche Einrichtungen und Ausstattung S5.2 Publikumsintensive Einrichtungen (PE)
 
-**41.8% -2'384 -6.5%**
+### S6 Ortsbilder und Kulturdenkmäler
 
-- 2\. Sektor Industrie und Gewerbe 10'340 48.3% 7'956
+### S7 Stand- / Durchgangsplätze für Fahrende
 
-**50.0% +66 +5.8%**
+### S Siedlung
 
-- 3\. Sektor Dienstleistung 9'461 44.2% 9'527
+### S1 Struktur der Besiedlung und Zentren
 
-**100% -2'367 -11.0%**
+A Ausgangslage
 
-### TOTAL Beschäftigte 1. bis 3. Sektor 21'405 100% 19'038
+Der Kanton Glarus verfügt durch seine Geografie, Erschliessung und Siedlungsgeschichte über eine klare Siedlungsstruktur: Ausgehend von der Linthebene mit der Anbindung an die Achse Graubünden - Zürich und dem Verkehrsknoten Ziegelbrücke erstreckt sich das Haupttal der Linth bis Schwanden, wo es sich in das Grosstal und das Sernftal aufzweigt. Aufgrund der Anbindung und Nähe zum Wirtschaftsraum Zürich und zum gemeinsamen funktionalen Raum Linth / Obersee fand das Wachstum und die damit verbundene Siedlungstätigkeit hauptsächlich in der Ebene des Haupttals statt, mit von Norden nach Süden abnehmender Intensität.
 
-Die Verteilung der Beschäftigtenzahlen über die einzelnen Wirtschaftssektoren ist in den drei Regionen sehr unterschiedlich. Der höchste Beschäftigungsgrad im Industrie- und Gewerbesektor ist im Glarner Unterland zu verzeichnen mit 49 Prozent. Der Kerenzerberg hat vergleichsweise einen sehr viel geringeren Anteil an Beschäftigten im zweiten (32 Prozent), jedoch einen relativ hohen Anteil an Beschäftigten im ersten Sektor, also in der Land- und Forstwirtschaft (20 Prozent). Im Mittelland liegt der grösste Beschäftigungsanteil im Dienstleistungssektor mit 65 Prozent. Industrie und Gewerbe machen einen Beschäftigungsanteil von 32 Prozent und die Land- und Forstwirtschaft nur 3 Prozent aus. Im Hinterland ist der Beschäftigungsgrad in der Land- und Forstwirtschaft mit 15 Prozent hoch.
+Zwei Typen von Siedlungsräumen Aufgrund dieser strukturellen Gegebenheiten und Entwicklungen sowie den Zielrichtungen der Ortsplanungen der Gemeinden wird der Siedlungskörper in zwei Typen unterschieden: einen Siedlungsraum-Typ «Haupttal» und einen Siedlungsraum-Typ «Landschaft». Das künftige Wachstum des Kantons wird auf diese strukturellen Voraussetzungen und Potenziale abgestimmt. Die beiden Siedlungsraum-Typen zeichnen sich aus durch:
 
-45 Prozent der Beschäftigten sind im zweiten Sektor tätig und 40 Prozent im dritten Sektor. Im Kleintal ist der Beschäftigungsanteil im ersten Sektor am höchsten. Ein Drittel der Beschäftigten sind dort in der Land- und Forstwirtschaft tätig (33 Prozent).
+**Vgl. Kapitel R**
 
-A - 3 Beschäftigtenzahlen je Gemeinde und Sektor (2000, 2001):
+Siedlungsraum-Typ «Haupttal» Siedlungsraum-Typ «Landschaft»  gut erschlossene Tallagen im Einzugs-  in den beiden Tälern im Hinterland und gebiet des Haupterschliessungskorri- auf dem Kerenzerberg oder nicht an eidors nem Hauptknoten der Haupterschliessung liegend.
 
-### Kanton / Region / Beschäftigte Anteil Beschäftigte Anteil Beschäftigte Anteil
+ aktuelle Nutzungsdichte über 60 Ein-  aktuelle Nutzungsdichte unter 60 Einwohner + Beschäftigte / ha wohner + Beschäftigte / ha  grössere zusammenhängende Sied-  dörfliche Strukturen und Ortschaften mit lungsgebiete mit Zentrumsstrukturen in der Regel weniger als 1’500 Einwoh- und Ortschaften mit mehr als 1’500 nern, ländliche Ortskerne Einwohnern
 
-**3. Sektor in % 9527 50.0% 3181 42.0% 2888 41.5% 247 32.3% 1137 53.1% 135 37.2% 944 37.3% 425 36.3% 293 48.1% 197 80.4% 54 41.9% 42 17.9% 4519 65.4% 710 42.2% 67 55.4% 3236 84.1% 506 39.9% 1827 40.0% 1464 39.5% 144 25.2% 13 24.1% 21 36.8% 527 33.2% 16 44.4% 45 28.0% 20 54.1% 72 59.0% 35 60.3% 31 50.0% 18 60.0% 40 35.1% 315 84.0% 167 37.9% 363 41.9% 79 32.8% 44 25.1% 240 53.2%**
+Zentrenstruktur Zentren übernehmen eine wichtige Versorgungs- und Arbeitsplatzfunktion für die umliegenden Ortschaften. Dazu gehören die Versorgung mit zentralörtlichen Leistungen, Gütern und Einrichtungen sowie die Bereitstellung eines diversifizierten Wohn- und Arbeitsplatzangebots. Die Bedeutung eines Zentrums wird wesentlich durch die Art und Breite der dort angesiedelten Versorgungseinrichtungen definiert. Zentren zeichnen sich insbesondere auch durch eine gute Erschliessung mit dem öffentlichen Verkehr, durch höhere Nutzungsdichten sowie Entwicklungsmöglichkeiten zur Förderung von Wohnen, Arbeiten und der Versorgung aus.
 
-### Ort 1. Sektor in % 2. Sektor in % KANTON GLARUS 1568 8.2% 7965 41.8%
+Neben dem Bahnhof Ziegelbrücke sind die Bahnhöfe Näfels-Mollis, Glarus und Schwanden wichtige Umsteigepunkte. Mit den künftig steigenden Frequenzen im öffentlichen Verkehr sowie der Umsteigebeziehungen zwischen Bus und Bahn bestehen in den Umgebungsgebieten dieser ÖV-Hauptknoten gute Voraussetzungen zur Entwicklung konkurrenzfähiger und attraktiver Zentren. Diese Zentrumsgebiete sollen denn auch auf ihre Rolle als Wohn-, Arbeitsplatz- und Versorgungsstandorte fokussiert werden.
 
-### TOTAL Unterland 685 9.0% 3709 49.0% Unterland 564 8.1% 3514 50.4%
+Das kantonale Raumkonzept sieht folgende Zentrenstruktur vor:
 
-Bilten 70 9.2% 448 58.6% Niederurnen 88 4.1% 915 42.8% Oberurnen 73 20.1% 155 42.7% Näfels 115 4.5% 1469 58.1% Mollis 218 18.6% 527 45.0%
+ Glarus als Hauptort und gesellschaftliches Zentrum  Näfels / Niederurnen und Schwanden als kommunale Zentren mit einer vollständigen Versorgungskette.
 
-### Kerenzerberg 121 19.9% 195 32.0%
+B Richtungsweisende Festlegungen / Beschluss
 
-Filzbach 35 14.3% 13 5.3% Obstalden 63 48.8% 12 9.3% Mühlehorn 23 9.8% 170 72.3%
+S1-B/1 Siedlungsraum-Typen - Siedlungsraum-Typ Haupttal Das Haupttal ist der Hauptraum des zukünftigen Wachstums der Bevölkerung und Beschäftigten. Die Strukturen und Kapazitäten werden so ausgerichtet, dass mindestens 80% des prognostizierten Wachstums aufgenommen werden können.
 
-### TOTAL Mittelland 214 3.1% 2182 31.6%
+Das Haupttal ist Standort der Zentren und der Entwicklungsgebiete fürs Arbeiten im Kanton. Davon ausgenommen sind die touristischen Zentren.
 
-Netstal 54 3.2% 917 54.6% Riedern 11 9.1% 43 35.5% Glarus 63 1.6% 547 14.2% Ennenda 86 6.8% 675 53.3%
+Im Haupttal sind, auf den Ort bezogen differenziert, erhöhte bauliche Dichten anzustreben und die Abstimmung von Siedlung und Verkehr ist in einem hohen Grad sicherzustellen.
 
-### TOTAL Hinterland 669 14.6% 2074 45.4% Grosstal 379 10.2% 1860 50.2%
+- Siedlungsraum-Typ Landschaft Im Siedlungsraum Landschaft werden die Versorgungsstrukturen in den Ortschaften auf die Bedürfnisse der ansässigen Bevölkerung und der lokalen Betriebe ausgerichtet. Die Strukturen und Kapazitäten sind auf ein geringeres Wachstum auszurichten.
 
-Mitlödi 37 6.5% 390 68.3% Sool 20 37.0% 21 38.9% Schwändi 20 35.1% 16 28.1% Schwanden 61 3.8% 997 62.9% Nidfurn 9 25.0% 11 30.6% Haslen 17 10.6% 99 61.5% Leuggelbach 4 10.8% 13 35.1% Luchsingen 31 25.4% 19 15.6% Hätzingen 17 29.3% 6 10.3% Diesbach 11 17.7% 20 32.3% Betschwanden 7 23.3% 5 16.7% Rüti 21 18.4% 53 46.5% Braunwald 42 11.2% 18 4.8% Linthal 82 18.6% 192 43.5%
+Mit einer Revitalisierung der Ortskerne und der unternutzten Bausubstanz sowie dem Nutzen der historischen Industriebauten auch für Wohnen werden Wohnalternativen zu den städtischen Räumen und zum Siedlungsraum-Typ Haupttal geschaffen (Wohnstrategie).
 
-### Kleintal / Sernftal 290 33.4% 214 24.7%
+Der Siedlungsraum Landschaft ist, neben Glarus als Standort mit einem Kulturangebot, der Hauptraum für die touristische Entwicklung.
 
-Engi 78 32.4% 84 34.9% Matt 54 30.9% 77 44.0% Elm 158 35.0% 53 11.8% Sektor 1 Erhebung VZ 2000, Sektoren 2 und 3, Betriebszählung 2001. Quellen: Bundesamt für Statistik, Eidg. Betriebszählung
+S1-B/2 Zentrenstruktur - Hauptzentrum Glarus Glarus wird als Hauptzentrum für die Versorgung des Kantons und für die Weiterentwicklung der Wirtschaft gestärkt. Mit vielfältigen Nutzungen und hoher städtebaulicher Qualität wird Glarus ein erkennbares, attraktives, urbanes Zentrum.
 
-### Entwicklung der Beschäftigtenzahlen in der Landwirtschaft
+- Kommunale Zentren Näfels / Niederurnen und Schwanden Mit raumplanerischen und infrastrukturellen Massnahmen werden die kommunalen Zentren als Schwerpunkte für das Wohnen und Arbeiten sowie für die Versorgung weiterentwickelt (Grundversorgung für den täglichen Bedarf). Die kommunalen Zentren sind Schwerpunkte der Siedlung mit eigenständiger Identität.
 
-Die neben- und hauptberuflich geführten Landwirtschaftsbetriebe sind im Zeitraum zwischen der Erhebung von 1996 und 2001 um 12 Prozent zurückgegangen und haben somit in den letzten Jahren stark abgenommen. Dramatisch ist vor allem der Rückgang der hauptberuflich geführten Betriebe um 19 Prozent! Ein Teil dieser Betriebe findet sich wieder in der Zunahme der nebenberuflich geführten Landwirtschaftsbetriebe mit 9 Prozent.
+Die Gemeinden können in den Ortsplanungen weitere Teilzentren festlegen und fördern. Dies soweit das kommunale Zentrum in seiner Funktion nicht konkurrenziert wird.
 
-Landwirtschaftliche Betriebszählung 1996 / 2001 im Vergleich:
+C Handlungsanweisungen
 
-### Landwirtschaftsbetriebe Betriebszählung 1996 Betriebszählung 2001 Zunahme / Abnahme Anzahl Betriebe Anzahl Betriebe
+S1-C/1
 
-**Betriebe 1996 - 2001 - 18.6 % + 8.7 % - 11.9 %**
+Die Gemeinden sorgen dafür, dass die Nutzungsplanung in den Ortschaften den Anforderungen und Ansprüchen gemäss dem Siedlungsraum-Typ entspricht. Federführung: Gemeinde
 
-Hauptberuflich geführt 419 341 Nebenberuflich geführt 137 149 TOTAL LW-Betriebe 556 490
+S1-C/2
 
-A - 4 Die durchschnittliche Nutzfläche der Landwirtschaftsbetriebe ist gewachsen. Und zwar von 14,1 ha (1996) auf 15,1 ha (2001). Über den Durchschnitt gerechnet ergibt dies eine Vergrösserung der Nutzfläche von 7,1 % (2001).
+Der Kanton stärkt die festgelegte Zentrenstruktur durch raumplanerische und infrastrukturelle Massnahmen sowie durch seine Standortpolitik. Er setzt sich insbesondere für eine hochwertige Versorgung in den Bereichen der Gesundheit und der Bildung im Zentrum Glarus ein.
 
-### A4 Struktur der Bodennutzung
+Der Kanton unterstützt Massnahmen zur Stabilisierung und Stärkung des Arbeitsplatzangebots und zur Sicherung der Versorgung und des Service-Public in den kommunalen Zentren.
 
-Durch die Gebirgslandschaft bedingt ist mit 37 Prozent ein hoher Anteil der Gesamtfläche des Kantons Glarus unproduktive Fläche. Für die Landwirtschaft und bestockte Flächen mit Wald und Gebüschwald werden je 30 Prozent der Fläche des Kantons genutzt. Das heisst, dass für Siedlungs- und Verkehrsflächen über den gesamten Kanton nur 3 Prozent Fläche beansprucht werden.
+Federführung: Zuständiges Departement
 
-Die theoretisch berechnete Siedlungsdichte über die Gesamtfläche des Kantons (68’070 ha ohne Walensee) ist mit 56 Einwohnern je Quadratkilometer (Jahr 2000) im Vergleich zum schweizerischen Mittel (173 Einwohner je Quadratkilometer, Jahr 2000) sehr gering.
+S1-C/3
 
-Die berechnete Siedlungsdichte bezogen nur auf den Talboden, d.h. Siedlungsfläche und landwirtschaftliche Nutzfläche, ist mit 208 Einwohner je Quadratkilometer (Jahr 2000) etwas höher als das schweizerische Mittel (173 Einwohner je Quadratkilometer, Jahr 2000).
+Die Gemeinden sichern im Rahmen ihrer Ortsplanung die Zentrenstruktur und konkretisieren diese räumlich und in der Funktion aufgrund ihrer Entwicklungsvorstellungen. Federführung: Gemeinde
 
-Entwicklung der Bodennutzung:
+D Objekte
 
-**Anteil an**
+D-1 Siedlungsraum-Typen
 
-### Bodennutzung Arealstatistik Arealstatistik Zunahme/ Zunahme/
+**Siedlungsraum-Typ Ortschaften KS**
 
-**Abnahme Gesamtfläche in % in % +12.4% 2.6% -2.2% 21.5%**
+Objekt-Nr. Gemeinde S1.01 Glarus Nord Haupttal
 
-nach Hauptarten 1979/85 1992/97 Abnahme
+**Bilten / Mollis / Näfels / Niederurnen / FS Oberurnen Filzbach / Mühlehorn / Niederurnen- FS Mollis (Gebiet Biäsche) / Obstalden**
 
-in ha in ha in ha
+S1.02 Glarus Nord Landschaft
 
-Siedlungsflächen 1'610 1'810 200 Alpwirtschaftsflächen 15'049 14'717 -332
+**Haupttal Glarus / Ennenda / Netstal FS Landschaft Riedern FS Haupttal Schwanden / Mitlödi FS Landschaft Betschwanden / Braunwald (touristi- FS**
 
-### Landwirtschaftl. Nutzflächen (im
+S1.03 Glarus S1.04 Glarus S1.05 Glarus Süd S1.06 Glarus Süd
 
-**-2.5% 9.0%**
+**scher Ort) / Diesbach / Elm (touristischer Ort) / Engi / Haslen / Leuggelbach / Nidfurn / Hätzingen / Linthal / Luchsingen / Matt / Schwändi / Sool / Rüti**
 
-6'322 6'162 -160
+D-2 Zentren
 
-### Dauersiedlungsgebiet)
+**Standort / Gebiet Zentrentyp KS**
 
-**+2.0% 30.2% -0.4% 36.7% - 100.0%**
+**FS**
 
-Bestockte Flächen 20'275 20'672 397 Unkultivierte Flächen 25'259 25'154 -105 Gesamtfläche 68'515 68'515 -
+**Zentrum Glarus Hauptzentrum FS Schwanden Gemeindezentrum FS**
 
-Markant ist die prozentuale Zunahme der Siedlungsflächen im Zeitraum zwischen der Erhebung der ersten und zweiten Arealstatistik in der Schweiz (Erhebungsjahre 1979 und 1992). Und zwar hat die flächenmässige Ausdehnung der Siedlungsflächen um 12,4 Prozent zugenommen. Dies macht eine Zunahme von 200 ha aus. Über den gesamten Kanton Glarus betrachtet gibt es 8 mal mehr Alpwirtschaftsfläche respektive 3,5 mal mehr landwirtschaftliche Nutzflächen als Siedlungsfläche. Die Siedlungsflächen betragen 1’810 ha, die landwirtschaftlichen Nutzflächen 6’162 ha und die Alpwirtschaftsflächen 14’717 ha. Die Verteilung der Siedlungs- und Landwirtschaftsflächen ist in den drei Regionen jedoch sehr unterschiedlich. Im Glarner Unterland wird anteilmässig (5,4 Prozent) und flächenmässig am meisten Siedlungsflächen belegt (795 ha). Der grösste Anteil der Siedlungsflächen entfällt auf die Unterlandgemeinden Bilten, Niederurnen, Oberurnen, Näfels und Mollis mit gesamthaft 673 ha (6,6 Prozent). Im Grosstal und im Kleintal wird im Vergleich zu den anderen Regionen am wenigsten Siedlungsfläche ausgewiesen (1,4 Prozent) oder 620 ha.
+Objekt-Nr. Gemeinde S1.07 Glarus Nord Näfels / Niederurnen bipolares Gemeindezentrum S1.08 Glarus S1.09 Glarus Süd E Erläuterungen / Grundlagen
 
-In Bezug auf die prozentuale Verteilung der Landwirtschaftsflächen sind die Flächenverhältnisse vertauscht. Das Glarner Hinterland mit dem regional kleinsten Anteil Siedlungsfläche weist am meisten
+Siehe Erläuterungsbericht
 
-A - 5 Landwirtschaftsfläche aus. Doch auch im stärker besiedelten Unterland bestehen grosse Anteile an Landwirtschaftsflächen. Hier liegen auch die Böden, welche sich für Fruchtfolgeflächen gut eignen.
+Übersicht Siedlungsraum-Typen
 
-Regionale Struktur der Bodennutzung:
+Siedlungsraum-Typ Haupttal Siedlungsraum-Typ Landschaft
 
-### Kanton / Region / Fläche Siedlungs- Anteil Landwirt. Anteil Bestockte Anteil Unprodukt. Anteil
+### S2 Siedlungsentwicklung nach innen und Abstimmung Verkehr
 
-### Ort (ha) Flächen (ha) in % Flächen (ha) in % Flächen (ha) in % Flächen (ha) in %
+A Ausgangslage
 
-inkl. Sömmerungsfl.
+Siedlungsentwicklung nach innen
 
-**20671 30.4% 24715 36.3% 5921 40.3% 2410 16.4% 4330 42.6% 1229 12.1% 795 50.1% 61 3.8% 647 45.8% 90 6.4% 520 40.7% 131 10.3% 1388 37.6% 818 22.1% 980 44.8% 129 \* 5.9% 1591 35.1% 1181 26.0% 569 41.0% 266 \* 19.2% 617 25.9% 838 \* 35.2% 405 52.8% 77 \* 10.0% 3439 33.2% 3782 36.5% 349 32.6% 286 26.7% 81 52.3% 14 9.0% 2171 31.4% 2972 42.9% 838 37.7% 510 22.9% 11311 26.3% 18523 43.1% 6836 26.6% 12168 47.3% 351 56.3% 28 4.5% 556 41.9% 440 33.1% 96 27.5% 123 35.2% 1174 38.4% 804 26.3% 122 46.9% 38 14.6% 505 43.6% 90 7.8% 89 51.4% 9 5.2% 367 18.1% 1058 52.2% 217 68.2% 11 3.5% 392 53.9% 144 19.8% 290 30.5% 321 33.8% 354 56.6% 86 13.8% 289 28.2% 249 24.3% 2034 15.5% 8767 66.8% 4475 25.9% 6355 36.8% 1469 35.9% 1001 24.5% 1337 32.6% 1121 27.4% 1669 18.4% 4233 46.6%**
+Die Siedlungen im Kanton Glarus werden sich künftig zum Grossteil innerhalb des bestehenden Siedlungsgebiets weiterentwickeln. Siedlungsentwicklung nach innen bedeutet auch, höhere Dichten zu realisieren, ohne dass dies zu Lasten der Siedlungsqualität geht. Einher mit den höheren Dichten geht auch eine intensivere Nutzung der Verkehrsträger. Neben der besseren Nutzung der Ressource Boden stehen ebenso die Bedürfnisse der Bevölkerung an ihren Lebensraum im Vordergrund. Innenentwicklung ist demzufolge auch immer der Anlass, Massnahmen zur allgemeinen Verbesserung der Siedlungsqualität umzusetzen.
 
-### KANTON GLARUS 68070 1809 2.7% 20877 30.7%
+Die Siedlungen im Kanton Glarus sind durch verschiedene Entwicklungsperioden geprägt worden: Der einst traditionelle Siedlungskörper bestehend aus ländlichen, teils kompakten, teils losen Dorfstrukturen mit Dorfkernen wurde im Zuge der frühen Industrialisierung durch die Industriebauten und die Arbeitersiedlungen erstmals markant verändert. In Glarus prägten die Stadtquartiere das Bild. Die jüngere Entwicklung ist gezeichnet durch in die Fläche ausgreifende Wohnquartiere und erhöhte Flächenansprüche infolge von neuen Arbeitsnutzungen und von Infrastrukturen. Diese jüngere Siedlungsentwicklung in die Fläche, bei vergleichsweise tiefer Dichte, führt dazu, dass die Nutzungsdichte im Kanton in der überbauten Wohn-, Misch- und Kernzonen (WMK) bei rund 60 Einwohnern und Beschäftigten (Vollzeitäquivalente) pro Hektar liegt. Die Durchschnittswerte in den drei Gemeinden variieren aufgrund der baustrukturellen Gegebenheiten stark und betragen:  Glarus Nord: 65 E+B/ha  Glarus: 87 E+B/ha  Glarus Süd: 38 E+B/ha
 
-### TOTAL Unterland 14696 795 5.4% 5572 37.9% Unterland 10161 673 6.6% 3924 38.6%
+Mit der 1. Etappe der Revision des eidgenössischen Raumplanungsgesetzes sowie der Revision des kantonalen Raumentwicklungs- und Baugesetzes wurden auf gesetzlicher Stufe die Voraussetzungen geschaffen, um eine Siedlungsentwicklung nach innen umzusetzen. Mit den neuen kommunalen Richtplänen haben die Gemeinden auf ihrer Stufe ebenfalls gute Voraussetzungen geschaffen, um künftig eine Planung zu verfolgen, welche auf eine Siedlungsentwicklung nach innen zielt.
 
-Bilten 1588 130 8.2% 600 37.8% Niederurnen 1414 149 10.5% 524 37.1% Oberurnen 1277 52 4.1% 579 45.3% Näfels 3694 162 4.4% 1327 35.9% Mollis 2188 180 8.2% 894 40.9%
+**VVggll.. KKaappiitteell RR**
 
-### Kerenzerberg 4535 122 2.7% 1648 36.3%
+Im kantonalen Richtplan wird die Siedlungsentwicklung nach innen durch verschiedene Strategien des Raumkonzepts verfolgt. So z.B. durch die Förderung der Zentren, die Bildung von Entwicklungsschwerpunkten oder die Revitalisierung der Ortskerne in Glarus Süd.
 
-Filzbach 1389 63 4.5% 493 35.5% Obstalden 2379 29 1.2% 893 37.5% Mühlehorn 767 30 3.9% 262 34.2%
+Abstimmung Siedlung und Verkehr Bei der Umsetzung der Siedlungsentwicklung nach innen ist die Abstimmung von Siedlung und Verkehr eine zentrale Herausforderung. Mit höheren Nutzungsdichten geht auch eine intensivere Nutzung der Verkehrsträger einher. Deren Emissionen und Raumbedarf sind insbesondere im intensiv genutzten Siedlungsgebiet zu minimieren.
 
-### TOTAL Mittelland 10370 394 3.8% 2745 26.5%
+Massnahmen zur Abstimmung von Siedlung und Verkehr sind nach den Siedlungsraum-Typen differenziert und auf die konkrete Situation hin festzulegen. Die drei Verkehrsarten öffentlicher Verkehr (ÖV), motorisierter Individualverkehr (MIV) und Langsamverkehr (LV) haben deshalb je nach Situation unterschiedliche Prioritäten.
 
-Netstal 1070 101 9.4% 327 30.6% Riedern 155 20 12.9% 36 23.2% Glarus 6921 188 2.7% 1592 23.0% Ennenda 2224 85 3.8% 790 35.5%
+B Richtungsweisende Festlegungen / Beschluss
 
-### TOTAL Hinterland 43004 620 1.4% 12560 29.2% Grosstal 25736 471 1.8% 6278 24.4%
+**Vgl. Kapitel R**
 
-Mitlödi 623 46 7.4% 200 32.1% Sool 1328 16 1.2% 313 23.6% Schwändi 349 14 4.0% 115 33.0% Schwanden 3054 97 3.2% 988 32.4% Nidfurn 260 12 4.6% 86 33.1% Haslen 1159 32 2.8% 524 45.2% Leuggelbach 173 8 4.6% 69 39.9% Luchsingen 2026 32 1.6% 572 28.2% Hätzingen 318 16 5.0% 78 24.5% Diesbach 727 13 1.8% 177 24.3% Betschwanden 950 11 1.2% 351 36.9% Rüti 625 30 4.8% 148 23.7% Braunwald 1026 32 3.1% 443 43.2% Linthal 13118 112 0.9% 2214 16.9%
+S2-B/1 Ortsspezifische Siedlungsentwicklung nach innen
 
-### Kleintal / Sernftal 17268 149 0.9% 6282 36.4%
+- In den Ortschaften im Siedlungsraum-Typ Haupttal werden, insbesondere an zentralen und gut erschlossenen Lagen, grundsätzlich höhere oder hohe bauliche Dichten in Verbindung mit einer hohen Siedlungsqualität angestrebt. Die Aufwertung der Ortskerne hat dabei einen hohen Stellenwert.
 
-Engi 4090 48 1.2% 1552 37.9% Matt 4097 32 0.8% 1634 39.9% Elm 9081 69 0.8% 3096 34.1%
+Unter Realisierung angemessen hoher baulicher Dichten wird prioritär eine Entwicklung innerhalb des bestehenden Siedlungsgebiets angestrebt.
 
-A - 6
+- In den Ortschaften im Siedlungsraum-Typ Landschaft wird die Siedlung und die umgebende Kulturlandschaft als Einheit weiterentwickelt. Die Revitalisierung der Ortskerne ist dabei von sehr grosser Bedeutung. Dies umfasst insbesondere die Aspekte öffentliche Einrichtungen, Einkauf, Modernisierung des Baubestandes und die Baugestaltung.
 
-### G) Grundzüge der räumlichen Entwicklung
+Die kulturlandschaftlichen Elemente innerhalb oder am Rand der Siedlungen begründen eine besondere Qualität und sind unter Abwägung der Interessen entsprechend zu gewichten.
 
-### G1 Räumliche Gliederung
+- Die für einen Ort verträgliche bauliche Dichte sowie die geeigneten Bauformen ergeben sich aus der Analyse dieses Ortes, einer den Ort ortsbaulich positiv beeinflussenden Weiterentwicklung und den Anforderungen an einen haushälterischen Umgang mit dem Boden.
 
-Geografisch und raumplanerisch lässt sich der Kanton Glarus in 5 Raumtypen beschreiben:
+S2-B/2 Nutzungspotenziale an mit dem ÖV gut erschlossenen Siedlungslagen
 
-- Tor zum Glarnerland: die Talsohle öffnet sich zum Linthgebiet und Walensee und bietet den Ortschaften mit höherem Anteil an Arbeitsplätzen und stärkeren Pendlerströmen ausreichende Entwicklungsmöglichkeiten und optimale Verkehrsanbindungen.
+**Vgl. Kapitel S5.1**
 
-- Zentrales Haupttal: In der Talsohle des Glarner Mittellandes um den Hauptort Glarus sind die Dienstleistungen stark vertreten. Die Stadt Glarus bildet zusammen mit seinen Nachbarorten das geografische, gesellschaftliche und politische Zentrum des Kantons.
+- Im Siedlungsraum-Typ Haupttal sind die mit dem ÖV gut erschlossenen Lagen prioritär und mit hoher baulicher Dichte zu entwickeln. Als gut erschlossen gelten in Wohn-, Misch- und Zentrumsgebieten sowie in Gebieten mit öffentlichem Nutzungscharakter Bereiche mit einer ÖV-Güteklasse A bis C.
 
-- Grosstal, Kleintal, Kerenzerberg und Seitentäler: Im Glarnerland reihen sich die Ortschaften entlang von Linth und Sernf perlkettenartig auf. Die Siedlungen sind mit Wohn- und Arbeitsbauten durchmischt. Fabrikareale, Landwirtschaftsgüter, traditionelle und neue Wohnbauten sowie vielfältig genutzte Grünflächen bilden zusammen eine attraktive Kulturlandschaft.
+- Im Siedlungsraum-Typ Landschaft sind die Nutzungspotenziale an den mit dem öffentlichen Verkehr gut erschlossenen Lagen soweit möglich auszuschöpfen.
 
-- Steile Bergflanken: Auf der gesamten Länge des Bergtals umrahmen steile Bergflanken die Talsohlen und erreichen rasch das Niveau der höher gelegenen Alpen und Berge. Ausgedehnte Wälder nehmen hier die Schutzfunktion wahr.
+S2-B/3 Stark verkehrserzeugende Nutzungen
 
-- Berg- und Gebirgslandschaften: Über die gesamte Fläche des Kantons erstrecken sich Berg- und Hochgebirgslandschaften mit Sömmerungsweiden, extensiven Erholungsgebieten und unberührten Ruhe- und Schongebieten.
+**Vgl. Kapitel S5.2 Vgl. Kapitel V3**
 
-Charakteristisch für Glarus ist zudem die spezielle Lage und Erschliessung. Mit Bahnlinie und Nationalstrasse ist Glarus in der Linthebene grossräumig an das übergeordnete Verkehrsnetz angeschlossen. Über diesen Anschluss ergeben sich auch die zwei wichtigen Orientierungen des Kantons in den Wirtschaftsraum Zürich einerseits und den Raum Walensee/Sarganserland andererseits. Eine gute Talerschliessung mit Bahn, Bus, Individualverkehr und Langsamverkehr schafft ideale Voraussetzungen für den lokalen und regionalen Verkehr.
+- Die Entwicklungsschwerpunkte Arbeiten (ESP) sowie die Standorte von publikumsintensiven Einrichtungen (PE) werden eng auf das Verkehrssystem abgestimmt. Zufahrten durch Wohngebiete werden vermieden und die Kapazität der Zufahrtsstrassen muss für den Mehrverkehr ausreichend sein. Eine gute Erschliessung mit dem ÖV ist sicherzustellen.
 
-### G2 Übergeordnete Hauptziele
+C Handlungsanweisungen
 
-- Der Kanton Glarus will die Attraktivität als offener Wirtschafts-, Wohn- und Erholungsraum erhalten und sich qualitativ weiterentwickeln.
+S2-C/1
 
-- Zentrale Grundlage für eine ökonomisch, ökologisch und gesellschaftlich nachhaltige Entwicklung bildet eine ausreichende Wirtschaftskraft.
+Gestützt auf die kommunalen Richtplanungen legen die Gemeinden in der Nutzungsplanung Umsetzungsmassnahmen zur Förderung einer hochwertigen baulichen Siedlungsentwicklung nach innen und Siedlungserneuerung fest. Sie prüfen und erlassen Massnahmen:
 
-- Die kulturellen Werte, die landschaftlichen und ökologischen Ressourcen des Kantons bilden für die Entwicklung einen zentralen Erfolgsfaktor und werden im Gesamtinteresse sorgfältig mit ande-
+- bei Nutzungspotenzialen und -möglichkeiten an den mit dem ÖV gut erschlossenen Lagen (Festlegung Massnahmen für eine optimierte Nutzung);
 
-ren Nutzungsansprüchen abgestimmt.
+- bei Erneuerungs-, Verdichtungs- und Umstrukturierungsgebieten innerhalb der Bauzone, unter Wahrung und Verbesserung der ortsbaulichen und siedlungsökologischen Qualitäten (Auf- und Umzonungen);
 
-**G - 2**
+- hinsichtlich einer auf den Ort bezogenen angemessenen Mindestdichte und stellen sicher, dass diese realisiert werden kann und die Siedlungsökologie angemessen berücksichtigt wird;
 
-G - 1 • Die gute Verkehrsanbindung und Erschliessung soll erhalten werden und Erweiterungen sollen auf die Bedürfnisse der Siedlungs- und Landschaftsqualität optimal abgestimmt werden.
+- hinsichtlich qualitätssichernder Planungsverfahren bei grösseren Vorhaben wie Überbauungsplanungen, Gesamtüberbauungen oder Verdichtungsgebieten. Federführung: Gemeinde
 
-Wirtschafts- und Standortqualitäten
+S2-C/2 Der Kanton koordiniert die Abstimmung der Siedlungs- und Verkehrsplanung gemäss Raumentwicklungsstrategie. Für die Festlegung konkreter Massnahmen in den Gemeinden Glarus und Glarus Nord wird die Ausarbeitung eines Agglomerationsprogramms geprüft.
 
-Der Wirtschaftraum Glarus ist traditionell auf qualifizierte industrielle und gewerbliche Produktion ausgerichtet. Mit dem Strukturwandel gewinnt die Dienstleistungsbranche an Terrain.
+Federführung: Departement Bau und Umwelt
 
-**Gefahren / Schwächen**
+D Objekte
 
-### Chancen / Stärken
+Keine
 
-**• Politik und Verwaltung: Kleinteilige Verwaltungsstrukturen und belastetes Milizsystem • Kleinteilige Entwicklungen und kontraproduktive Zersiedelung**
+E Erläuterungen / Grundlagen
 
-- „Werkplatz“ und „Freizeitplatz“
+Siehe Erläuterungsbericht
 
-- Energie / Wasserkraft
+### S3 Siedlungsgebiet
 
-- Arbeitsmarkt
+A Ausgangslage
 
-- Verfügbarkeit von Immobilien
+**Art. 8a RPG**
 
-- Steuerumfeld
+Gemäss eidgenössischem Raumplanungsgesetz ist im kantonalen Richtplan die Grösse und die Verteilung des Siedlungsgebietes für den längerfristigen Bedarf festzulegen. Das Siedlungsgebiet bildet den langfristigen konzeptionellen und räumlichen Rahmen für die Festlegung der Bauzonen. Das Siedlungsgebiet umfasst Bauzonen und weitere Flächen. Einzonungen innerhalb des Siedlungsgebiets sind nicht automatisch möglich, sondern müssen die Vorgaben gemäss Art. 15 des eidgenössischen Raumplanungsgesetztes erfüllen.
 
-- industrielle, gewerbliche Tradition
+Definition Siedlungsgebiet Das Siedlungsgebiet im kantonalen Richtplan entspricht gegen aussen der Bauzone gemäss den rechtskräftigen Nutzungsplanungen der Gemeinden und wird im Richtplan festgelegt und in der Richtplankarte ausgewiesen. Das Siedlungsgebiet umfasst:  den gewachsenen Siedlungskörper mit den überbauten und den nicht überbauten Bauzonen,  die innerhalb des Siedlungskörpers von Bauzonen umschlossenen Grün- und Freiflächen und die Flächen für Verkehrsanlagen, sowie  die Flächen für Bauzonenerweiterungen.
 
-- Ausbau von wirtschaftsräumlichen
+Nicht zum Siedlungsgebiet gehören temporäre oder zeitlich befristete Bauzonen sowie Deponie-/Abbauzonen.
 
-### Allianzen
+Dimensionierung des Siedlungsgebietes Das Siedlungsgebiet wird auf den Bedarf bis 2045 (Richtplanhorizont) und gemäss der Bevölkerungsprognose des Bundes (BFS-Szenario hoch), welches für den Kanton Glarus bis 2045 eine Zunahme um knapp 6’110 Einwohner von rund 40’990 Einwohnern Ende 2020 auf rund 47’100 Einwohner (Prognosewerte) vorsieht, ausgerichtet. Unter Annahme einer gleich hohen Wachstumsrate bei den Beschäftigten (Vollzeitäquivalente) wird von einer Zunahme von rund 3’000 Beschäftigten ausgegangen.
 
-Ziele / Strategie:
+**Vgl. Kapitel R**
 
-- Wettbewerbsfähigkeit von Industrie, Gewerbe und Dienstleistungen stärken
+Das Siedlungsgebiet umfasst insgesamt 1’575 ha, davon entfallen 910 ha auf Wohn-, Misch- und Kernzonen (WMK), 298 ha auf Arbeitszonen, 148 ha auf Zonen für öffentliche Bauten und Anlagen (ZöBA) und 219 ha auf weitere Flächen (Grünzonen, Sportzonen, Verkehrsflächen, übriges Gemeindegebiet und Landwirtschaftszonen).
 
-- Überdurchschnittliche Bedeutung des Tourismus erhalten und Chancen für Angebotsentwicklungen, welche aus dem Gesamtinteresse positiv beurteilt werden, unterstützen
+B Richtungsweisende Festlegungen / Beschluss
 
-Siedlungsentwicklung
+S3-B/1 Siedlungsgebiet
 
-Der Gesamtsiedlungsraum zeichnet sich durch die historische landwirtschaftliche und industrielle Prägung des Kantons aus.
+- Für die Bemessung des Siedlungsgebiets gemäss Richtplan (Planungshorizont 2045) und der Bauzonen (Planungshorizont 2035) stützen sich der Kanton und die Gemeinden auf das Bevölkerungsszenario «hoch» gemäss Bundesamt für Statistik (BFS).
 
-**Gefahren / Schwächen**
+- Das Siedlungsgebiet umfasst 1’575 ha (Festsetzung) und wird in der Richtplankarte (Zwischenergebnis) ausgewiesen, mit dem Ziel, den Gesamtumfang des Siedlungsgebiets mindestens um 30 ha zu reduzieren.
 
-### Chancen / Stärken
+- Die Siedlungsentwicklung findet innerhalb des Siedlungsgebietes statt.
 
-**• Schleichende Zersiedlung • Unkoordinierte Baulandreserven**
+- Bei den Gemeinden mit einem Siedlungsgebiet mit Koordinationsstand «Zwischenergebnis» kann das Siedlungsgebiet räumlich abweichend von der Richtplankarte festgelegt werden. Dies, wenn die neue Lage mindestens eine gleichwertige Siedlungsentwicklung gewährt (Standorteignung, Schonung von Kulturland [insbesondere Fruchtfolgeflächen], Schutz von Natur und Landschaft, Erschliessungsgüte, Erreichbarkeit von Versorgungseinrichtungen und Ortsbild). Das Siedlungsgebiet kann dabei insgesamt nicht vergrössert werden.
 
-- Hauptstadt und Ortschaften als kleinräumiges attraktives
+Die Festsetzung des Siedlungsgebiets in der Richtplankarte bedarf einer Anpassung und Genehmigung durch den Bund.
 
-### Siedlungsgefüge
+S3-B/3 Langfristige Siedlungsgrenzen
 
-- Zusammenspiel von Siedlung und
+- Langfristige Siedlungsgrenzen gemäss Richtplan werden dort festgelegt, wo längerfristig die Freihaltung der offenen Landschaft, einer Ortsansicht, eines Naherholungsgebietes oder wichtige ökologische Verbindungen zu gewährleisten sind.
 
-### Landschaft
+C Handlungsanweisungen
 
-- Wertvolle Ortsbild- und
+S3-C/1
 
-### Denkmalschutzobjekte
+Der Kanton legt das Siedlungsgebiet im Richtplan (Karte und Text) fest. Er führt im Rahmen des Monitorings eine Statistik zum Siedlungsgebiet (Stand Zeitpunkt Erlass kantonaler Richtplan, nachfolgende Erweiterungen und Reduktionen).
 
-- Breites Bauland- und Liegenschaftenangebot
+Federführung: Dep. Bau und Umwelt, Abt. Raumentwicklung und Geoinformation
 
-Ziele / Strategie:
+S3-C/2
 
-- Differenzierte Siedlungsstruktur erhalten, Siedlungstrenngürtel definieren
+Der Kanton bezeichnet in der Richtplankarte die langfristigen Siedlungsgrenzen.
 
-- Qualitative Entwicklung der Ortsbilder fördern und eine gute Baukultur unterstützen
+Federführung: Dep. Bau und Umwelt; Abt. Raumentwicklung und Geoinformation
 
-- Haushälterischer Umgang mit dem Boden und Konzentration der Bauzonen Landwirtschaft, Wald und Naturgefahren
+D Objekte
 
-Die Landwirtschaft befindet sich in einem starken Strukturwandel. Sie erfüllt primär drei Funktionen: Unterhalt und Bewirtschaftung von Erholungs- und Tourismusräumen, Produktion von landwirtschaftlichen Gütern und ökologische Ausgleichsmassnahmen.
+**KS**
 
-Der Wald erfüllt neben der nachhaltigen Rohstoff- und Energieproduktion eine wichtige Schutzfunktion.
+Objekt-Nr. Gemeinde Umfang Siedlungsgebiet Hinweis / Bemerkung
 
-### Chancen / Stärken Gefahren / Schwächen
+**ZE**
 
-- Heute noch markante Prägung des • Weiterhin starker Strukturwandel
+**FS**
 
-### Kantons durch die Landwirtschaft • Siedlungsausdehnung und
+**ZE**
 
-- Überlagernde Interessen von Naherholungsfunktionen in Konflikt mit
+S3.01 Glarus Nord 700 ha --- Genehmigung Nutzungspla-S3.02 Glarus 347 ha nung 8.1.2018 S3.03 Glarus Süd 528 ha --- E Erläuterungen / Grundlagen
 
-### Tourismus, Landschaftsschutz und Landwirtschaft Landwirtschaft • Abstimmungsbedarf zwischen
+Siehe Erläuterungsbericht
 
-- Nähe von Alpflächen und Talböden Siedlungsentwicklung und
+Grundlagen:
 
-- Ausgedehnte Waldgebiete Naturgefahren
+- Kantonale Bevölkerungsszenarien 2020–2050, BFS, 2020
 
-Ziele / Strategie:
+### S4 Bauzonendimensionierung
 
-- Die Landwirtschaft in ihren drei Funktionen (Produktion, Landschaftspflege, Ökologie) unterstützen und fördern.
+Entwicklung Bevölkerung und Beschäftigung
 
-- Der Wald wird in seiner Ausdehnung und Qualität erhalten und nach aktuellen Kriterien bewirtschaftet.
+Gemäss den kantonalen Bevölkerungsszenarien des Bundesamts für Statistik BFS wird die Bevölkerungszahl im Kanton Glarus zunehmen. Der Kanton richtet seine Planungen auf das Szenario hoch des Bundes aus. Gemäss Szenario hoch wird die Bevölkerung um ca. 4’840 Einwohner bis 2035 bzw. 6’130 Einwohner bis 2045 zunehmen (siehe Tab. 1-1). Die Bevölkerungs- und Beschäftigtenprognosen bilden die Grundlage zur Bemessung des voraussichtlichen Bauzonenbedarfs für Wohnen und Arbeiten. Mit dem Wachstum verbunden ist auch die Frage der richtigen Dimensionierung der Bauzone für öffentliche Nutzungen.
 
-Tourismus
+Wenngleich die jüngeren Statistiken eine etwas geringere Bevölkerungszunahme aufzeigen, orientiert sich die kantonale Richtplanung am Szenario hoch des BFS. Damit sichert sich der Kanton auch einen etwas grösseren Handlungsspielraum hinsichtlich der Frage der Dimensionierung der Bauzone in der Nutzungsplanung der Gemeinden. Dieser im Richtplan geschaffene Handlungsspielraum unterläuft den Grundsatz zum haushälterischen Umgang mit dem Boden nicht, da die Dimensionierung der Bauzone nach Art. 15 des eidgenössischen Raumplanungsgesetzes zu erfolgen hat.
 
-Das heutige Tourismusangebot zeichnet sich durch verschiedene lokale Schwerpunkte und Teilangebote aus. Wichtigste Ressourcen des Glarner Tourismus bilden die Kultur- und Gebirgslandschaft und die einzigartige Nähe zum Wirtschaftsraum Zürich.
+Das erwartete Bevölkerungswachstum nach Gemeinde (grau hinterlegt) gilt als verbindlicher Anhaltspunkt zur Bemessung des Bauzonenbedarfes.
 
-### Chancen / Stärken Gefahren / Schwächen
+Einwohner 2020 2035 (Nutzungsplanperiode) Kanton Glarus; BFS-Szenario hoch 40’990 45’830
 
-- intakte Natur • räumliche Verstreutheit
+**2045 2020 – 2045**
 
-- Sommer und Winter ausgewogen • überalterte touristische Infrastruktur
+**(gerundet)**
 
-- dörflicher Charakter • geringe Bettenauslastung
+**47’100 + 6’110**
 
-- gute, rasche Erreichbarkeit • geringe Beherbergungsqualität
+**+ 6’110 + 3’480 +2’320 0 + 570**
 
-- ursprüngliche Kultur • einzelbetriebliche Struktur
+Kanton Glarus (2020; effektiv) 40’916 45’930 +11.6% 47’100 Glarus Nord 18’806 21’600 +14.9% 22’100 Glarus 12’480 1(+41’240.90 +13.8% 14’800 %) Glarus Süd 9’630 10’130 +5.2% 10’200 Tab. 1-1: Prognose Bevölkerungsentwicklung 2020–2045 und Verteilung auf Gemeinden.
 
-- vielfältige Gastronomieszene • fehlende Attraktionspunkte
+Die Beschäftigung im Kanton Glarus hat in den letzten zehn Jahren zugenommen. Im Jahr 2018 belief sich die Zahl der Beschäftigten auf rund 17’300 Vollzeitäquivalente (VZÄ; Tab. 1-2). Prognosen zur Beschäftigungsentwicklung auf dieser Ebene sind schwierig, da diese von verschiedenen nicht beeinflussbaren Faktoren abhängig sind. Aus diesem Grund wird auf eine vergleichbare Modellierung der Beschäftigung verzichtet und von der vereinfachten Annahme ausgegangen, dass sich die Anzahl der VZÄ analog zur Bevölkerung entwickeln wird.
 
-Ziele / Strategie:
+Abgestützt auf die Raumentwicklungsstrategie wird die gesamtkantonale Zunahme auf die Gemeinden wie folgt verteilt. Diese Zunahme nach Gemeinde ist nicht verbindlich, sondern eine Grundlage zur Einschätzung des Bauzonenbedarfs fürs Arbeiten.
 
-- Das Tourismusangebot soll stärker als Gesamtangebot des Glarnerlandes funktionieren. Entsprechend wird die Vernetzung und Koordination der Angebote gefördert.
+Beschäftigte (in Vollzeitäquivalenten) 2018 2033 (Nutzungsplanperiode) Kanton Glarus 17’324 19’470 Glarus Nord 7’094 8'150 +14.9% Glarus 6’485 7’380 +13.8% Glarus Süd 3’745 3’940 +5.2% Tab. 1-2: Prognose Beschäftigtenentwicklung 2018–2043.
 
-- Die Tourismusangebote werden auf die Bedürfnisse der Landschaft und Ökologie abgestimmt.
+### S4.1 Wohn-, Misch- und Kernzonen (WMK)
 
-**G - 4**
+A Ausgangslage
 
-G - 3 Mobilitätsentwicklung
+Die Wohn-, Misch- und Kernzonen (WMK) umfassen gesamtkantonal eine Fläche von 910 ha. Davon sind 767 ha überbaut und 143 ha nicht überbaut (Stand 31. Dezember 2019).
 
-Die Mobilitätsentwicklung gliedert sich in die beiden Hauptaufgaben Anschlussqualität Linthebene und Regionalverkehr Glarnerland.
+Da sie den Grossteil der Bauzonenfläche für die Einwohner und die Beschäftigten abdecken, sind sie für die Steuerung der Siedlungsentwicklung von grosser Bedeutung. Über das gesamte Kantonsgebiet betrachtet sind die WMK gemäss Berechnung des Bundes heute überdimensioniert. Die Auslastung beträgt 99%. Dies hat zur Folge, dass der Kanton den Umfang an WMK von gesamthaft 910 ha nicht vergrössern darf (Art. 15 Abs. 1 und 2 RPG in Verbindung mit Art. 30a RPV). Solange die kantonale Auslastung unter 100% liegt, sind Einzonungen in WMK flächengleich zu kompensieren.
 
-**Gefahren / Schwächen**
+Die Dimensionierung der WMK in den Gemeinden richtet sich nach dem voraussichtlichen Bedarf gemäss vorstehender Bevölkerungs- und Beschäftigtenprognose.
 
-### Chancen / Stärken
+Gemeinden mit überdimensionierter WMK sind angehalten, ihre WMK-Reserven zu reduzieren. Gemeinden mit knapp dimensionierter WMZ können ihrerseits Einzonungen im benötigten Umfang vornehmen, sofern die Kriterien und Voraussetzungen gemäss Richtplan und RPG erfüllt sind.
 
-**• Problematik der stark belasteten Ortsdurchfahrten**
+Grundlagen für die Dimensionierung WMK Nebst der Bevölkerungs- und Beschäftigtenprognose ist die Bauzonenkapazität innerhalb der bestehenden WMK in den Gemeinden die zweite massgebende Grundlage zur Ermittlung der richtigen Bauzonendimensionierung. Die Ermittlung der Bauzonenkapazität in den Gemeinden erfolgt basierend auf dem aktuellen Überbauungsstand. Zweckmässigerweise erfolgt die Ermittlung der kommunalen Bauzonenkapazität gesamtkantonal nach derselben Methode.
 
-- Gute Anschlusssituation Bahn im
+B Richtungsweisende Festlegungen / Beschluss
 
-### Unterland
+S4.1-B/1 Dimensionierung der Bauzone (WMK)
 
-- Parallele regionale Erschliessung mit • Teilweise mangelnde Abstimmung der
+- Der Bauzonenbedarf der WMK wird für den Zeithorizont von 15 Jahren (Nutzungsplanperiode) ausgerichtet. Als Grundlage gilt folgende Bevölkerungs- und Beschäftigtenentwicklung (ab Stand Ende 2020):
 
-**Siedlungsentwicklung auf den öffentlichen Verkehr • Kanton liegt peripher zu Hauptverkehrsachsen**
+- Glarus Nord: + 14.9%
 
-### Strasse und öffentlichem Verkehr
+- Glarus: + 13.8%
 
-- Gutes Busnetz
+- Glarus Süd: + 5.2%
 
-- Gute Voraussetzungen für den
+Diese Bevölkerungs- und Beschäftigtenentwicklung wird der bestehenden Kapazität in der rechtskräftigen Bauzone (WMK) gegenübergestellt. Daraus ergibt sich die Bauzonenauslastung der Gemeinde.
 
-### Langsamverkehr im Talboden
+**2043 2018 – 2043**
 
-- Anschlüsse an das
+**(gerundet)**
 
-### Nationalstrassennetz nicht befriedigend
+**20’140 +2’820 8’440 + 1’360 7’720 + 1’240 3’970 + 220**
 
-Ziele / Strategie:
+- Die Ermittlung der Bauzonenauslastung in den Gemeinden erfolgt auf der Grundlage des Überbauungsstandes der rechtskräftigen Bauzone (WMK) und nach einer einheitlichen Methodik des Kantons.
 
-- Anschlussqualität in der Linthebene erhalten und nach Möglichkeit verbessern, insbesondere Verbindungen nach Zürich
+S4.1-B/2 Auszonungen von WMK
 
-- Verbesserung der Verkehrssituation in den belasteten Ortskernen durch betriebliche und gestalterische Massnahmen sowie Entlastungsprojekte
+- Auszonungen sind soweit vorzunehmen, dass die kantonale Auslastung mindestens 100% beträgt (Zielwert) und die Anforderungen von Art. 15 RPG bei jeder einzelnen Gemeinde erfüllt ist.
 
-- Konsequente Förderung des öffentlichen Verkehrs und Langsamverkehrs
+- Die notwendigen Auszonungen sind bis zu einer Auslastung von mindestens 95% im Rahmen der laufenden Nutzungsplangesamtrevisionen innert dreier Jahren nach der Genehmigung des kantonalen Richtplans vorzunehmen.
 
-Quellen:
+- Die Gemeinde, in welcher die Auszonung erfolgt, ist verpflichtet, Massnahmen zu ergreifen, die eine Überbauung der potenziellen Auszonungsflächen verhindern, die zur Erreichung einer gesamtkantonalen Auslastung von 100% nötig sind.
 
-- Entwicklungspolitisches Leitbild des Kantons Glarus, Oktober 1999
+- Auszonungen sind an ungeeigneten Lagen vorzunehmen. Als solche gelten Lagen:
 
-- Arbeitspapier zu Grundzüge der räumlichen Entwicklung, Hauser und Spörri, August 1999
+- die schwer erschliessbar und / oder überbaubar sind,
 
-### G3 Wirtschaftspolitische räumliche Schwerpunktstrategie
+- die im Konflikt mit dem Ortsbild oder dem Natur- und Landschaftsschutz stehen,
 
-G - 5
+- die aufgrund von Immissionsbelastungen ungeeignet sind,
 
-### S) Siedlung
+- Randlagen mit Parzellen, die nicht verfügbar sind oder sich nicht mobilisieren lassen
 
-### S1 Siedlungsentwicklung
+- die verkehrlich ungenügend erschlossen sind,
 
-### S1-1 Siedlungsstruktur
+- die von Naturgefahren bedroht sind.
 
-Richtplanaufgabe
+S4.1-B/3 Bedingungen an Ein- und Umzonungen von bzw. in WMK
 
-Alle Gemeinden sollen entsprechend ihren Standortvorteilen und ihrem wirtschaftlichen Potenzial in ihrer optimalen Entwicklung unterstützt werden. Es wird generell eine gute Durchmischung von Wohnen, Arbeiten und Erholung angestrebt.
+- Einzonungen sind innerhalb des Siedlungsgebietes gemäss kantonalem Richtplan vorzunehmen.
 
-Problemstellung / Ausgangslage
+- Solange die kantonale Auslastung unter 100% liegt, sind Einzonungen kommunal oder überkommunal flächengleich zu kompensieren.
 
-Während die Gemeinden im Grosstal und im Mittelland in den letzten Jahren einen stetigen Bevölkerungsrückgang zu verzeichnen hatten, konnten sich die Unterlandgemeinden in Bezug auf die Bevölkerungszahlen und die Siedlungsflächen positiv entwickeln. In den Unterlandgemeinden stellt sich daher vor allem die Aufgabe der Erhaltung der Siedlungsqualität sowie der zweckmässigen Siedlungsgliederung und Siedlungsbegrenzung. In den strukturschwachen Mittel- und Hinterlandgemeinden zeigen sich Probleme in wirtschaftlicher Hinsicht. Es fehlt gesamthaft an attraktiven Erwerbs- und Versorgungsmöglichkeiten. Da im Grosstal der Talboden relativ eng ist, zeigt sich aber auch hier die Gefahr der unkoordinierten Ausdehnung des Siedlungsgebietes.
+- Der Bedarf ist gemäss Art. 15 Abs. 1 RPG festzulegen und die Kriterien nach Art. 15 Abs. 4 RPG sind nachzuweisen (insbesondere der Nachweis der weitgehenden Mobilisierung innerer Nutzungsreserven).
 
-Zur Reduktion der Finanzbelastung der Gemeinden stellt sich zudem vermehrt das Thema der Gemeindefusionierung, insbesondere bei den kleineren Gemeinden. Eine Zusammenlegung der Gemeinden hat bei Luchsingen, Hätzingen und Diesbach während der Richtplanerarbeitung im Jahr 2003 stattgefunden. Sie wurden zur politischen Körperschaft Luchsingen mit den Ortsteilen Luchsingen, Luchsingen/ Hätzingen und Luchsingen/ Diesbach.\*
+- Ein- und Umzonungen erfolgen unter Berücksichtigung der Kapazitäten der Verkehrsinfrastrukturen. Im Siedlungsraum-Typ Haupttal muss dabei im vorgesehenen Gebiet mindestens eine ÖV-Güteklasse C sichergestellt werden. Im Siedlungsraum-Typ Landschaft muss das Gebiet mit dem ÖV erschlossen sein (Basiserschliessung, nach Möglichkeit ÖV-Güteklasse D).
 
-Der Kanton Glarus hat aufgrund seiner speziellen historischen Entwicklung und geografischen Rahmenbedingungen eine starke Identität und Eigenständigkeit. Innerhalb des Kantons hat sich eine funktionierende Zentrenstruktur entwickelt und bis heute gehalten. Die wachsende Mobilität hat die Beziehungen in den Wirtschaftsraum Zürich und den Raum Sarganserland-Walensee intensiviert. Wohnen und Arbeiten sind räumlich zunehmend getrennt. Es stellt sich die Aufgabe sowohl als Wohnort als auch als Wirtschaftsstandort eine hohe Attraktivität zu erhalten und weiter zu entwickeln.
+- Werden Fruchtfolgeflächen eingezont, sind die Anforderungen von Art. 30 Abs. 1<sup>bis</sup> RPV zu erfüllen.
 
-### Richtungsweisende Festlegungen
+- Bei Ein- und Umzonungen in WMK sind auf den Ort bezogen geeignete Mindestdichten festzulegen und deren Realisierung ist sicherzustellen. Im Siedlungsraum-Typ Haupttal ist bei einer ÖV-Güteklasse A bis C eine, auf den Ort bezogen, erhöhte Dichte festzulegen.
 
-- 1\. Der Hauptort Glarus stellt mit seinen zentralen Einrichtungen wie den zahlreichen Einkaufsmöglichkeiten, dem übergeordneten Dienstleistungsangebot, den kulturellen und gesellschaftlichen Aktivitäten sowie der kantonalen Verwaltung das traditionelle Zentrum des Kantons dar.
+- Bei Umzonungen ist nachzuweisen, dass dadurch andere Entwicklungsziele nicht gefährdet werden (z.B. Wirtschaftsentwicklung, Standorte für öffentliche Bauten und Anlagen). Nicht zulässig sind Umzonungen, die absehbar dazu führen, dass dadurch an anderer Stelle wieder Einzonungen erforderlich sind. C
 
-S - 1 2. Als Zentren mit regionaler Ausstrahlung gelten, insbesondere auf Grund ihrer Versorgungseinrichtungen, die Orte Niederurnen, Näfels, Netstal und Schwanden.
+**Handlungsanweisungen**
 
-- 3\. Linthal / Braunwald und Elm bilden im Hinterland und Sernftal gestützt auf ihre touristische Bedeutung wichtige Talversorgungs-Zentren.
+S4.1-C/1
 
-- 4\. Um kommunale Stärken und Schwächen in der Siedlungs- und Infrastrukturentwicklung auszugleichen und in der Lösung der vielfältigen kommunalen Aufgaben ein wirksames Potenzial zu erreichen, fördert der Kanton vermehrt die Zusammenarbeit zwischen den Gemeinden.
+Der Kanton erarbeitet eine Grundlage zur Ermittlung der Bauzonenkapazität und der Bauzonenauslastung in den Gemeinden und stellt diese den Gemeinden zur Verfügung. Die Ermittlung der Kapazitäten und Auslastungen erfolgt auf der Basis des aktuellen Überbauungsstandes der Gemeinde. Er führt ein Monitoring über den Stand der WMK und deren Auslastung und erstattet darüber alle 4 Jahre Bericht gemäss Art. 9 Abs. 1 RPV. Federführung: Dep. Bau und Umwelt, Abt. Raumentwicklung und Geoinformation
 
-S - 2
+S4.1-C/2
 
-### S1-2 Siedlungsgebiet / Bauzonen
+Die Gemeinden erfassen alle 4 Jahre den Überbauungsstand auf der Basis der rechtskräftigen Nutzungsplanung. Dieser dient bei Nutzungsplanrevisionen als Grundlage für die Ermittlung der Bauzonenkapazität und der Bauzonenauslastung durch den Kanton. Federführung: Gemeinde
 
-Richtplanaufgabe
+S4.1-C/3
 
-Der Boden ist haushälterisch zu nutzen. Die Siedlungen sind nach den Bedürfnissen der Bevölkerung zu gestalten und in ihrer Ausdehnung zu begrenzen. Der Richtplan bezeichnet aufgrund der Ausgangslage Siedlungsgebiete für die mittelfristige bauliche Entwicklung.
+Die Gemeinden Glarus Nord und Glarus Süd überprüfen ihre Nutzungsplanung hinsichtlich der Dimensionierung der Bauzone (WMK) innerhalb von zwei Jahren nach Inkrafttreten des Richtplans.
 
-Problemstellung / Ausgangslage
+Liegt die Auslastung unter 95%, reduzieren sie ihre WMK im erforderlichen Ausmass oder begründen, weshalb der Zielwert nicht erreicht werden kann. Federführung: Gemeinde
 
-Grösse der Bauzonen:
+S4.1-C/4
 
-**Zone öffentliche Bauten**
+Die Gemeinden sichern mit entsprechenden baulichen Mindestdichten (oder vergleichbar wirkenden Bestimmungen) die Nutzungsdichte im Sinne eines Zielwertes (EW + AP / ha) in der entsprechenden Zone. Tiefere Dichten können in Ausnahmen dann vorgesehen werden, wenn dies aus gestalterischen, ortsbaulichen oder planungsrechtlichen Gründen gerechtfertigt erscheint. Die Gemeinden sichern baurechtlich, dass die festgelegte bauliche Dichte zu mindestens 80% ausgeschöpft wird. Federführung: Gemeinde S4.1-C/5
 
-### Bauzonen Wohn- und Arbeitsplatzzonen Mischzonen Kanton / Region / Total Res. Res. Total Res. Res. Total Res. Res. Total Res. Res. Gemeinde (ha) (ha) % (ha) (ha) % (ha) (ha) % (ha) (ha) %
+Zur Mobilisierung der bestehenden Bauzonen- und Nutzungsreserven treffen die Gemeinden zweckmässige Massnahmen in ihrer Nutzungsplanung. Dazu stehen u.a. folgende Instrumente zur Verfügung:
 
-### Kanton Glarus 1321.4 375.9 28% 857.0 243.4 28% 273.5 97.9 36% 184.1 34.8 19%
+- Sicherstellung der Verfügbarkeit bzw. der Überbauung durch Verträge (nach Art. 33 RBG) oder Kaufrecht der Gemeinde (Art. 33a RBG)
 
-### Total Unterland 575.1 202.9 35% 357.2 120.5 34% 145.2 60.7 42% 69.8 21.8 31%
+- Festlegung von Mindestdichten
 
-Mühlehorn 24.1 8.0 33% 18.4 6.6 36% 5.2 1.4 27% 0.6 0.0 0% Obstalden 13.9 3.6 26% 13.2 3.5 27% 0.0 0.0 0% 0.7 0.1 14% Filzbach 24.6 11.2 46% 24.6 11.2 46% 0.0 0.0 0% 0.0 0.0 0% Bilten 95.4 52.9 55% 52.7 25.1 48% 26.6 20.0 75% 13.2 7.8 59% Niederurnen 121.9 35.8 29% 74.3 25.0 34% 30.7 8.4 27% 16.8 2.4 14% Oberurnen 40.1 9.2 23% 29.8 5.5 18% 5.4 2.0 37% 4.9 1.7 35% Näfels 133.4 36.7 28% 66.2 15.8 24% 42.9 13.9 32% 24.2 7.1 29% Mollis 121.7 45.5 37% 78.0 27.8 36% 34.4 15.0 44% 9.4 2.7 29%
+- Entwicklungsplanungen für unternutzte oder brachliegende Flächen. Federführung: Gemeinde
 
-### Total Mittelland 313.6 65.1 21% 183.2 41.0 22% 64.9 18.0 28% 65.5 6.0 9%
+**Objekte**
 
-Netstal 104.9 39.2 37% 54.9 22 40% 37.4 16.1 43% 12.6 1.1 9% Riedern 13.8 4.0 29% 11.8 3.5 30% 1.1 0.2 18% 0.9 0.2 22% Glarus 145.2 16.7 12% 89.0 13.4 15% 13.2 0.5 4% 43.0 2.8 7% Ennenda 49.7 5.2 10% 27.5 2.1 8% 13.2 1.2 9% 9.0 1.9 21%
+D
 
-### Total Hinterland 432.7 107.9 25% 316.6 81.9 26% 63.4 19.2 30% 48.8 7.0 14%
+Keine
 
-Mitlödi 29.8 9.3 31% 20.1 6.2 31% 8.1 3.1 38% 1.6 0.0 0% Sool 10.6 3.8 36% 9.6 2.9 30% 0.8 0.8 100% 0.3 0.2 67% Schwändi 18.7 5.3 28% 15.6 4.8 31% 1.3 0.4 31% 1.0 0.2 20% Schwanden 75.2 5.2 7% 51.9 4.3 8% 11.5 0.6 5% 11.8 0.3 3% Nidfurn 9.1 1.6 18% 3.5 0.9 26% 2.1 0.5 24% 0.2 0.1 50% Haslen 24.6 6.8 28% 19.1 5.4 28% 3.9 1.2 31% 1.6 0.2 13% Leuggelbach 7.4 2.3 31% 5.0 1.5 30% 1.8 0.8 44% 0.6 0.0 0% Luchsingen 22.2 5.1 23% 18.4 4.0 22% 2.5 0.9 36% 1.4 0.2 14% Hätzingen 16.0 2.9 18% 10.3 1.8 17% 3.6 0.6 17% 2.1 0.5 24% Diesbach 10.2 1.9 19% 8.1 1.4 17% 1.5 0.5 33% 0.7 0.0 0% Betschwanden 11.5 5.5 48% 7.1 3.0 42% 2.3 1.6 70% 2.0 0.9 45% Rüti 18.7 5.0 27% 11.7 3.4 29% 4.9 1.6 33% 2.0 0.0 0% Braunwald 41.9 9.3 22% 38.5 8.8 23% 1.1 0.2 18% 2.2 0.4 18% Linthal 43.1 17.1 40% 34.2 13.4 39% 5.9 2.7 46% 3.0 1.0 33% Engi 28.8 5.7 20% 20.9 3.6 17% 6.4 2.1 33% 1.5 0.0 0% Matt 29.4 13.0 44% 23.1 11.0 48% 2.7 1.1 41% 3.7 0.9 24% Elm 35.5 8.1 23% 19.5 5.5 28% 3.0 0.5 17% 13.1 2.1 16% Bauzonen: inkl. Zonen mit noch nicht bestimmten Nutzungen. Quelle: Kantonales Hochbauamt, Fachstelle Raumplanung, Stand 2003
+**Erläuterungen / Grundlagen**
 
-S - 3 Die Baulandreserven betragen gesamthaft über den Kanton 28 Prozent. In den Wohn- und Mischzonen sind 28 Prozent unbebaute Reserven vorhanden, in den Arbeitsplatzzonen (Industriezonen) 36 Prozent. Die Gemeinden haben im Rahmen ihrer Nutzungsplanungen ihren Bedarf an Bauzonen für die nächsten 15 Jahre weitgehend ausgeschieden. Aus gesamtkantonaler Sicht, gestützt auf eine Erhebung des Kantons (Stand 2003), sind genügend Baulandreserven vorhanden.
+E
 
-### Erschliessungsprogramm
+Siehe Erläuterungsbericht
 
-Die Eidgenössische Verordnung über die Raumplanung verlangt seit dem 1. April 1996 für die Bauzonen ein Erschliessungsprogramm (Art. 31 RPV vom 28. Juni 2000). Dieses soll aufzeigen, zu welchem Zeitpunkt und mit welchen Mitteln das Gemeinwesen seine Bauzonen innerhalb von 15 Jahren zu erschliessen beabsichtigt. Im Kanton Glarus sind diesbezüglich noch keine Anstrengungen unternommen worden. Mit dem kantonalen Richtplan soll nun ein entsprechender Auftrag formuliert werden.
+### S4.2 Arbeitszonen und Entwicklungsschwerpunkte Arbeiten (ESP)
 
-### Stand der Nutzungsplanung
+A Ausgangslage
 
-Alle Gemeinden haben einen rechtsgültigen Nutzungsplan. Zahlreiche Gemeinden haben in den letzten Jahren ihre Nutzungsplanungen revidiert.
+Entwicklungsschwerpunkte Die Bereitstellung attraktiver Gebiete für die Wirtschaft ist eine Voraussetzung für die Entwicklung bestehender sowie die Ansiedlung neuer Unternehmen und ein wichtiges Element jeder kantonalen Wirtschaftsentwicklung. Die Aufgabe der Richtplanung besteht darin, die bestgeeigneten Gebiete fürs Arbeiten zu bezeichnen und die generellen Anforderungen zur planerischen Aufbereitung und Entwicklung dieser Standorte festzulegen. Nebst den Aspekten der Erschliessung, der effizienten Bodennutzung und der Gestaltung geht es auch um deren Nutzungsausrichtung. Im Richtplan werden daher auch Aussagen zu den Standortprofilen verschiedener Gebiete gemacht.
 
-### Siedlungsgebiet im Richtplan
+Als Entwicklungsschwerpunkte Arbeiten (ESP) bezeichnet der Richtplan die Standorte mit den besten Voraussetzungen für die Wirtschaft und mit den besten Entwicklungspotenzialen. Dabei handelt es sich um Standorte, die bereits einer Bauzone zugewiesen sind, aber auch um solche, wo die Bauzone langfristig je nach Nachfrage noch zu erweitern ist. Die Standorte verfügen in Bezug auf die angestrebte Nutzungsausrichtung über hohe Erschliessungs- oder Lagequalitäten. Die Konzentration auf diese Standorte erfolgt mit Blick auf eine bestmögliche Nutzung bereits vorhandener Infrastrukturen und der optimalen Abstimmung von Siedlung und Verkehr.
 
-Der Richtplan bezeichnet das Siedlungsgebiet. Der im Plan bezeichnete Umfang des Siedlungsgebietes setzt sich grundsätzlich aus den rechtskräftigen Bauzonen der Gemeinden zusammen.
+Im Richtplan als ESP bezeichnet werden diejenigen Standorte, in welchen eine planerische Aufbereitung erforderlich ist. Die Standorte, die aus Sicht des Kantons von besonderer Bedeutung sind, werden als strategische Entwicklungsschwerpunkte bezeichnet. Weitere wichtige Arbeitsgebiete (z.B. Standort Eternit) sind daher im Richtplan nicht speziell bezeichnet und sind nicht Inhalt des kantonalen Richtplans. Für alle weiteren Arbeitsstandorte gelten die kommunalen Richtpläne.
 
-### Richtungsweisende Festlegungen
+Verbundaufgabe Gemeinde und Kanton Eine erfolgreiche Standortentwicklung beruht auf einem optimalen Zusammenspiel verschiedener Akteure. Je nach Stand der Gebietsentwicklung sind unterschiedliche Akteure gefragt und die Rollen der Projektbeteiligten seitens der Behörden wie auch seitens der Privaten können unterschiedlich sein und sind zu Beginn eines Entwicklungsprozesses zu klären. Die im Richtplan bezeichneten ESP sind daher stets als Verbundaufgabe von Kanton und Gemeinden zu entwickeln.
 
-- 1\. Die bauliche Entwicklung soll gesamthaft im Rahmen der heute ausgeschiedenen Baugebiete stattfinden. Verlagerungen und Ergänzungen von Baugebieten aus Gründen der Nachfrage und Siedlungsqualität sind möglich.
+Arbeitszonenmanagement Gemäss Art. 30a Abs. 2 RPV setzt die Ausscheidung neuer Arbeitszonen voraus, dass der Kanton eine Arbeitszonenbewirtschaftung bzw. ein Arbeitszonenmanagement einführt, welches die haushälterische Nutzung der Arbeitszonen insgesamt gewährleistet. Das Arbeitszonenmanagement umfasst nebst der Übersicht über die Reserven auch Informationen zum Entwicklungs- und Erschliessungsstand, zur Verfügbarkeit und zum Stand der Umsetzung der Planungsziele. Mit diesen Informationen kann auf die Abstimmung von Nachfrage und Angebot eingewirkt werden.
 
-- 2\. Die Gemeinden koordinieren ihre langfristige Entwicklung in Zusammenarbeit mit den Nachbargemeinden.
+B Richtungsweisende Festlegungen / Beschluss
 
-Das Raumplanungsgesetz des Bundes, die kantonale Gesetzgebung und der kantonale Richtplan legen die Kriterien fest für die Entwicklung des Siedlungsgebietes. Für die Anpassung der Bauzonen im Rahmen der Nutzungsplanrevision beschreibt der Richtplan Kriterien und Spielräume, welche mit und ohne Richtplananpassung bestehen. So sind in den Gemeinden bei entsprechendem Bedarfsnachweis Neueinzonungen in einem beschränkten Umfang auch ohne Anpassung des Richtplans zulässig. Im Rahmen einer periodischen Fortschreibung des Richtplans sind diese Änderungen nachzuführen.
+S4.2-B/1 Nutzungsausrichtung der ESP
 
-S - 4
+- Die angestrebte Nutzungsausrichtung (Standortprofil) erfolgt nach den Kriterien der Lage (Erreichbarkeit, Einzugsgebiet), der verkehrlichen Anbindung (ÖV, MIV), der Emissionen, der benachbarten Nutzungen (Synergien, Betriebsumfeld). Nutzungen, welche die Gebietsattraktivität im Sinne der angestrebten Nutzungsausrichtung vermindern oder andere unerwünschte Entwicklungen auslösen, sind zu vermeiden.
 
-### Abstimmungsanweisung (vom Bundesrat am 16.4.2008 zur Überarbeitung zurückgewiesen) Nr. S1-2/1
+S4.2-B/2 Zonierung der ESP
 
-Vom Landrat am 27.04.2005 zur Überarbeitung zurückgewiesen
+- Die ESP sind gemäss ihrem Standortprofil zu entwickeln. Sowohl bei Erneuerungsvorhaben wie auch bei Erweiterungen ist eine flächensparende Bodennutzung zu sichern. Zur Optimierung der Standorte können flächengleiche Verlagerungen auch über Gemeindegrenzen hinweg vorgesehen werden (Einzonung in A bei gleichzeitiger Auszonung in B).
 
-**Nr. S1-2/2**
+- Einzonungen von Arbeitsgebieten erfolgen prioritär an den ESP gemäss kantonalem Richtplan und können bei ausgewiesenem Bedarf und bei Erfüllung der erforderlichen Erschliessungsvoraussetzungen vorgenommen werden. Als erforderlich gilt:
 
-### Abstimmungsanweisung
+- bei Nutzungen mit hoher Arbeitsplatzdichte mindestens ÖV-Güteklasse C, bei anderen Nutzungen mindestens ÖV-Güteklasse D;
 
-Der Kanton beauftragt die Gemeinden zur Erstellung eines Erschliessungsprogrammes. Er erstellt dafür eine Arbeitshilfe. Das Erschliessungsprogramm legt fest, welche Gebiete zu welchem Zeitpunkt erschlossen und welche bestehenden Erschliessungsanlagen geändert oder erneuert werden sollen.
+- bei strassenorientierten Nutzungen ein möglichst direkter Anschluss an eine Kantonsstrasse oder die Nähe eines Autobahnanschlusses. Die Auswirkungen auf das Strassennetz sind darzulegen.
 
-**Termine / Verfahren**
+- Einzonungen können vorgenommen werden, wenn 80% der bestehenden Arbeitszone innerhalb des ESP konsumiert sind, oder wenn dies aufgrund der Grösse eines Vorhabens erforderlich ist.
 
-### Abstimmungsstand Zuständigkeit
+- Umzonungen von ESP oder Teilen davon sind nur möglich, wenn sich das betreffende Gebiet oder ein Teilgebiet für die angestrebte Nutzungsausrichtung nicht mehr eignet, der Bedarf andernorts im Kanton längerfristig abgedeckt ist und dies mit dem kommunalen Richtplan vereinbar ist.
 
-**Arbeitshilfe: 2 Jahre nach Inkrafttreten des Richtplans Erschliessungsprogramm: 5 Jahre**
+S4.2-B/3 Strategische ESP - Die strategischen ESP sind Kernelemente der kantonalen Standortförderung. Sie haben erste Entwicklungspriorität und sind in enger Zusammenarbeit zwischen Standortgemeinde und Kanton zu entwickeln.
 
-Festsetzung Departement Bau und Umwelt, Fachstelle Raumentwicklung Alle Gemeinden nach Inkrafttreten des Richtplans
+S4.2-B/4 Weitere kommunale Arbeitsgebiete
 
-### Verweis auf massgebliche Grundlagen
+- Weitere kommunale Arbeitsgebiete sind für die wirtschaftliche Entwicklung in den Gemeinden wichtig. Einzonungen für Betriebserweiterungen sind im Grundsatz möglich, wenn der Bedarf ausgewiesen, 80% der bestehenden Arbeitszone an diesem Standort konsumiert sind und keine für den Betrieb gleichwertige Lösung innerhalb der bestehenden Bauzone möglich ist. C
 
-Bundesgesetz über die Raumplanung (RPG) vom 22. Juni 1979, SR 700 (Art. 19) (inkl. Änderung vom 20. März 1998)
+**Handlungsanweisungen**
 
-**Nr. S1-2/3**
+S4.2-C/1
 
-### Abstimmungsanweisung
+Der Kanton legt im Rahmen seiner Richtplanung die spezifische Nutzungsausrichtung (Standortprofil) der ESP fest. Der Kanton überprüft diese zusammen mit den Gemeinden periodisch und passt sie bei Bedarf an.
 
-Als spezielle Voraussetzungen für Ergänzungen des Baugebietes gelten:
+Bei einem Überbauungsstand von über 80% in den ESP sorgt der Kanton zusammen mit der Gemeinde dafür, dass die Innenentwicklungspotentiale geprüft und allfällige Erweiterungsfragen frühzeitig abgeklärt werden. Federführung: Dep. Bau und Umwelt; Abt. Raumentwicklung und Geoinformation
 
-(cid:1) Nachweis, dass die entsprechenden Nutzungsreserven in den bestehenden Bauzonen erschöpft oder ungeeignet sind.
+S4.2-C/2
 
-(cid:1) Nachweis der Nachfrage, der qualitativen Eignung und der Aufnahme in das Erschliessungsprogramm. (cid:1) Prüfung von möglichen Baugebietsverlagerungen.
+Der Kanton führt in Zusammenarbeit mit den Gemeinden ein Arbeitszonenmanagement. Dieses umfasst die ESP gemäss kantonalem Richtplan sowie die weiteren Arbeitszonen der Gemeinden. Das Arbeitszonenmanagement ist so auszugestalten, dass daraus konkrete Handlungen ableitbar sind. Hinsichtlich der Bewirtschaftung ist es mit dem Monitoring zur Siedlungsentwicklung zu koordinieren. Federführung: Dep. Bau und Umwelt; Abt. Raumentwicklung und Geoinformation
 
-Der Kanton prüft im Rahmen des Genehmigungsverfahrens, ob die Voraussetzungen für Baugebietserweiterungen gegeben sind. Baugebietsverlagerungen können als Bedingung für die Baugebietserweiterung verlangt werden.
+S4.2-C/3
 
-**Termine / Verfahren**
+Die Gemeinden setzen die Festlegungen zur Nutzungsausrichtung in ihrer Nutzungsplanung um. Bei Bedarf können sie die Nutzungsausrichtung präzisieren oder teilräumlich differenzieren. Die Standortgemeinde sorgt für eine planerische Aufbereitung der ESP gemäss Standortprofil. Diese umfasst soweit erforderlich die Gestaltung, die Erneuerung und Umstrukturierung, die Parzellierung, das Erschliessungs- und Bebauungskonzept, die Etappierung und die Verfügbarkeitsregelung.
 
-### Abstimmungsstand Zuständigkeit
+Die Gemeinden sichern in der Nutzungsplanung eine flächensparende Nutzung an diesen Standorten. Im Grundsatz sind mehrgeschossige Bauten mit flächensparenden (idealerweise unterirdischen) Parkierungsanlagen vorzusehen. Davon abgewichen werden kann, wenn dies aus betrieblichen oder anderen zwingenden Gründen nicht zumutbar ist. Federführung: Gemeinde
 
-**Nutzungsplanverfahren**
+S4.2-C/4
 
-Festsetzung Alle Gemeinden Departement Bau und Umwelt, Fachstelle Raumentwicklung
+**Gebiet**
 
-S - 5
+Bei den strategischen ESP unterstützt der Kanton die Gemeinde und die Eigentümer bei der erforderlichen planerischen Aufbereitung und der Vermarktung des Standortes aktiv. Die öffentliche Hand prüft dabei die Sicherung von Kaufs-, Vorkaufs- oder Rückkaufsrechten an Liegenschaften. Federführung: Gemeinde D
 
-### S1-3 Siedlungstrenngürtel
+**Objekte**
 
-Richtplanaufgabe
+D-1 Strategische Entwicklungsschwerpunkte (ESP)
 
-Siedlungen und die sie umgebenden Landschaften sind so aufeinander abzustimmen, dass die für den Kanton Glarus charakteristische Siedlungsstruktur erhalten bleibt.
+**Nutzungsausrichtung (Standortprofil)**
 
-Problemstellung / Ausgangslage
+**Standort / Weitere Festlegungen**
 
-In den letzten Jahrzehnten hat die überbaute Fläche im Talboden und an Hanglagen stark zugenommen. Mit der Ausdehnung gehen charakteristische Strukturen und typische Siedlungsbilder von Dörfern verloren. Die Bildung von agglomerationsartigen Siedlungsbändern soll mit Hilfe von Siedlungstrenngürteln vermieden werden. Die Siedlungstrenngürtel sind ausserdem ein hilfreiches Mittel zur Erhaltung von Freiräumen und der Umweltqualität in Siedlungsnähe sowie von Vernetzungskorridoren für Tiere und Pflanzen. Handlungsbedarf besteht insbesondere im Unterland, im Raum Glarus und im Raum Schwanden. Die im Plan dargestellten Siedlungstrenngürtel sind nur schematisch; sie können daher auf dem Plan das Siedlungsgebiet tangieren.
+**Gemeinde KS**
 
-Im Hinterland besteht ein geringer Siedlungsdruck. Die Gemeinden haben ausreichende Bauzonen ausgeschieden. Im Vordergrund steht hier die Zusammenarbeit unter den Gemeinden in der Infrastrukturplanung, den öffentlichen Bauten und Anlagen und bei der Abstimmung der Siedlungsentwicklung und den Erschliessungen. Hier ist daher vor allem die Zusammenarbeit der Gemeinden bei der Erarbeitung von gemeindeübergreifenden Entwicklungsperspektiven gefragt.
+**Gebiet**
 
-### Richtungsweisende Festlegungen
+Objekt-Nr.
 
-- 1\. Der Richtplan bezeichnet zur grossräumigen Gliederung der Siedlungsgebiete und zur dauernden Abgrenzung von Siedlung und Landschaft die Siedlungstrenngürtel von kantonaler Bedeutung.
+**Massgebliche Defizite Erschliessung**
 
-- 2\. Die Gemeinden legen im Nutzungsplan zur grossräumigen Gliederung der Siedlungsgebiete und zur dauernden Abgrenzung von Siedlung und Landschaft die Siedlungstrenngürtel von kommunaler Bedeutung fest.
+**Glarus Nord Ziegelbrücke / - arbeitsplatzintensive Nutzungen (Dienstleis- FS**
 
-### Abstimmungsanweisung (vom Bundesrat am 16.4.08 zur Überarbeitung zurückgewiesen) Nr. S1-3/1
+**Niederurnen tungen)**
 
-Vom Landrat am 27.04.2005 zur Überarbeitung zurückgewiesen
+S4.2.01
 
-**Nr. S1-3/2**
+**- keine emissionslastigen Betriebe - Wohnen in Abstimmung mit den Arbeitsnutzungen möglich - kein Detailhandel - Strassenanbindung ans Hochleistungsnetz verbessern**
 
-### Abstimmungsanweisung
+**Glarus Nord Bahnhofsge- - arbeitsplatzintensive Nutzungen (Dienstleis- FS**
 
-Vom Landrat am 27.04.2005 abgelehnt
+**biet Näfels / tungen) Mollis - keine emissionslastigen Betriebe**
 
-S - 6
+S4.2.02
 
-### S1-4 Landschaftsprägende Bauten und Anlagen ausserhalb Bauzonen
+**- Wohnen in Abstimmung mit den Arbeitsnutzungen möglich - Keine**
 
-(vom Bundesrat am 16.4.2008 nicht genehmigt)
+**Glarus Nord Flugplatz - Arbeitsnutzungen mit Bezug zur Aviatik ZE**
 
-Richtplanaufgabe
+**Mollis (Aviatik-Cluster)**
 
-Gemäss Bundesrecht können die Kantone die Änderung der Nutzung (und die damit verbundenen baulichen Massnahmen) bestehender Bauten als landschaftsprägende geschützte Bauten nur dann als standortgebunden bewilligen, wenn der kantonale Richtplan die Kriterien enthält, nach denen die Schutzwürdigkeit der Landschaften und Bauten zu beurteilen sind. Zudem müssen die Arten der Kulturlandschaften bezeichnet sein, die grundsätzlich als Einheit der Baute mit der Landschaft schützenswert sind.
+S4.2.03
 
-Problemstellung / Ausgangslage
+**- Strassenanbindung an das übergeordnete Netz ungenügend (Dimensionierung bestehende Strasse und Ergänzung über ESP Grosszaun) - ungenügende ÖV-Erschliessung**
 
-Kulturlandschaften haben sich aufgrund natürlicher Voraussetzungen und spezifischer Bewirtschaftungsformen entwickelt. Für diese Bewirtschaftungsformen wurden Bauten erstellt, die als prägende Elemente dieser Kulturlandschaft wirken können. Mit dem Strukturwandel in der Landwirtschaft sind diese traditionellen Bauten nicht mehr funktionstüchtig und gefährdet. Um die Bauten erhalten zu können, sind unter bestimmten Voraussetzungen bauliche Veränderungen und vollständige Zweckänderungen möglich (z.B. Umnutzung bei funktionslos gewordenen leer stehenden Bauten).
+**Glarus Bahnhofsge- - arbeitsplatzintensive Nutzungen (Dienstleis- FS**
 
-Es besteht das Bestreben, solche Kulturlandschaften samt den Bauten zu erhalten, welche den besonderen Wert der Landschaft ausmachen. Der Kanton Glarus verfügt zur Zeit noch über kein Verzeichnis der landschaftsprägenden, geschützten Bauten. Hingegen besteht ein Verzeichnis der Landschaften von regionaler Bedeutung (Direktion für Landwirtschaft, Wald und Umwelt, 1996). Die Schutzziele für die Landschaften müssen durch die Behörden von Kanton und Gemeinden bei Entscheiden mit landschaftlichen Auswirkungen angemessen berücksichtigt werden. In der Regel geht es beim Verzeichnis der Landschaften von regionaler Bedeutung einerseits um die Erhaltung von landschaftsprägenden Elementen der Kulturlandschaft (Hecken, Trockenmauern, traditionelle Bauten der Kulturlandschaften) und andererseits um die Verhinderung von unangepassten Bauten und zusätzlichen Erschliessungen.
+**biet Glarus tungen)**
 
-Traditionellerweise hat die Alpwirtschaft eine hohe Bedeutung. Die Arten der Kulturlandschaften umfassen deshalb Landschaft und Siedlung vorab in diesem Raum. Die Kulturlandschaften werden aufgrund der Siedlungsformen definiert ohne eine regionale Unterscheidung. Sie beziehen sich damit also auf die Bewirtschaftungsform und die daraus entstandene Siedlungsform.
+S4.2.04
 
-Folgende Arten von Kulturlandschaften werden definiert:
+**- keine emissionslastigen Betriebe - Wohnen in Abstimmung mit den Arbeitsnutzungen möglich - keine**
 
-- Alpsiedlungen (Streusiedlungen und vormals je nach Jahreszeit genutzte oder bewohnte Siedlungen)
+D-2 Entwicklungsschwerpunkte (ESP)
 
-- temporär genutzte Bauten in der Alpwirtschaft (z.B. für die Wildheuet)
+**Nutzungsausrichtung (Standortprofil) /**
 
-- Landschaften mit markanten Einzelhöfen oder Gebäudegruppen.
+**Standort / Weitere Festlegungen**
 
-S - 7
+**Gemeinde KS**
 
-**Nr. S1-4/1**
+Objekt-Nr.
 
-### Abstimmungsanweisung (vom Bundesrat am 16.4.2008 nicht genehmigt)
+**Defizite Erschliessung**
 
-Die Gemeinden stellen im Rahmen der Nutzungsplanung Landschaften und Bauten als Einheit unter Schutz sofern die Bauten in folgenden Landschaften stehen und für deren Ausstattung typisch und wichtig sind:
+**Glarus Nord Biäsche - flächenintensive Nutzungen (Gewerbe, In- ZE**
 
-- Alpsiedlungen (Streusiedlungen und vormals je nach Jahreszeit genutzte oder bewohnte Siedlungen)
+**dustrie, Logistik) - emissionslastige Betriebe - kein Detailhandel - keine Zunahme der bisherigen Emissionsbelastung, keine Ausdehnung der Bauzone - ungenügende ÖV-Erschliessung; Zufahrt miV je nach Nutzung ungenügend**
 
-- temporär genutzte Bauten in der Alpwirtschaft (z.B. für die Wildheuet)
+S4.2.05 Nutzungsausrichtung (Standortprofil) /
 
-- Landschaften mit markanten Einzelhöfen oder Gebäudegruppen
+Standort / Weitere Festlegungen
 
-Der besondere Charakter der Landschaft ist vom Bestand der Bauten abhängig. Somit sind Landschaft und Bauten aufgrund ihres funktionalen Zusammenhangs schützenswert. Die Bauten müssen zudem folgende Kriterien erfüllen:
+**KS**
 
-(cid:1) Die ursprüngliche, landschaftstypische Bausubstanz ist im Wesentlichen noch vorhanden.
+Objekt-Nr. Gemeinde Gebiet Defizite Erschliessung S4.2.06 Glarus Nord Bilten - flächenintensive Nutzungen (Gewerbe, Industrie, Logistik) - emissionslastige Betriebe - kein Detailhandel - keine
 
-(cid:1) Die Bauten entsprechen dem gebiets- und nutzungsspezifischen Bautyp.
+**FS**
 
-(cid:1) Die erhaltenen Bausubstanzen sowie die Umgebung lassen eine Umnutzung zu, ohne dass die bautypischen Merkmale, die den Wert der Gebäude bestimmen, beeinträchtigt werden.
+**ZE**
 
-Mit Abschluss des Nutzungsplanverfahrens sollen die unter Schutz gestellten Bauten und Landschaften in einem Verzeichnis erfasst werden.
+S4.2.07 Glarus Grosszaun - flächenintensive Nutzungen (Gewerbe, In-Netstal dustrie) - emissionslastige Betriebe - kein Detailhandel - Verbesserung Strassenanbindung an das übergeordnete Netz - Verbesserung öV-Erschliessung
 
-**Termine / Verfahren**
+**FS**
 
-### Abstimmungsstand Zuständigkeit
+S4.2.08 Glarus Süd Tschachen - flächenintensive Nutzungen (Gewerbe, In-Schwanden / dustrie) Mitlödi - emissionslastige Arbeitsnutzungen - Dienstleistungen soweit Gewerbe / Industrie nicht beeinträchtigt wird - kein Detailhandel - keine
 
-**Nutzungsplanverfahren**
+E Erläuterungen / Grundlagen
 
-Festsetzung Alle Gemeinden laufend
+Siehe Erläuterungsbericht
 
-### Verweis auf massgebliche Grundlagen
+Übersicht Standorte ESP Karten Einzelstandorte siehe Erläuterungsbericht
 
-RPG Art. 24d; RPV Art. 39 Abs. 2
+Strategischer Entwicklungsschwerpunkt Entwicklungsschwerpunkt
 
-**Nr. S1-4/2**
+### S4.3 Zonen öffentliche Nutzungen (ZöBA) und Zonen für Nutzungen mit öffentlichem Charakter
 
-### Abstimmungsanweisung (vom Bundesrat am 16.4.2008 nicht genehmigt)
+A Ausgangslage
 
-Bis zum Vorliegen der Verzeichnisse prüft der Kanton im Rahmen des Baubewilligungsverfahrens die Erfüllung der Grundsätze zur Unterschutzstellung der Bauten.
+Zonen öffentliche Nutzungen Für den Bedarf an öffentlichen Bauten und Anlagen sind frühzeitig Flächen zu sichern. Öffentliche oder im öffentlichen Interesse liegende Bauten und Anlagen sind zentral für die Versorgung und die Versorgungsqualität eines Ortes. Angesprochen sind Gesundheits- und Pflegeeinrichtungen, Schul- und Sporteinrichtungen, Sozialeinrichtungen wie Tagesstrukturen, aber auch Sakralbauten, Friedhöfe oder militärische Einrichtungen. Die Zonen für öffentliche Nutzungen umfassen 181 ha (Stand 31. Dezember 2017). Von den 181 ha sind 139 ha überbaut und 42 ha nicht überbaut. Die heutige Grösse der Zonen für öffentliche Nutzungen ist noch ein Abbild der alten Gemeinden vor der Fusion und entspricht nicht mehr in jeder Hinsicht den Versorgungsplanungen in den drei neuen Gemeinden. Auch haben sich die Versorgungsstrukturen und -aufgaben teils stark geändert. Mit der Neuorganisation von Schulen und weiterer öffentlicher Dienste (z.B. Verwaltung, Werkbetriebe) ist in den Gemeinden ein Überangebot an Zonen für öffentliche Nutzungen entstanden.
 
-**Termine / Verfahren**
+Der Umgang mit zu grossen Zonen für öffentliche Nutzungen ist situationsbedingt zu klären. Ist der Bedarf nicht gegeben, ist eine anderweitige Nutzung bzw. Umzonung oder eine Auszonung zu prüfen.
 
-### Abstimmungsstand Zuständigkeit
+Weitere Zonen für Nutzungen mit öffentlichem Charakter Nebst dem Bedarf an eigentlichen Zonen für öffentliche Nutzungen gibt es noch weitere Nutzungen, die einem öffentlichen Charakter gleichzustellen sind. Dazu gehören im Sinne des Richtplans zum Beispiel weitere Sportnutzungen oder Nutzungen der Erholung und des Tourismus soweit sie feste Bauten und Anlagen bedingen. Zu Nutzungen mit öffentlichem Charakter gehören aber auch Nutzungen im Zusammenhang mit dem Aufenthalt im Freien, die zweckmässigerweise z.B. einer Grünzone oder Freihaltezone zugewiesen werden.
 
-Festsetzung Departement Bildung und Kultur, Fachstelle Genehmigungsverfahren Denkmalpflege, Departement Bau und Umwelt, Fachstelle Raumentwicklung
+Der Bedarf an Zonen für solche Nutzungen ergibt sich aus Festlegungen im kantonalen Richtplan oder in den kommunalen Richtplänen.
 
-**laufend**
+B Richtungsweisende Festlegungen / Beschluss
 
-### Verweis auf massgebliche Grundlagen
+S.4.3-B/1 Dimensionierung der Zonen für öffentliche Bauten und Anlagen (ZöBA)
 
-RPG Art. 24d; RPV Art. 39 Abs. 2 und 3
+- Gestützt auf die Bedarfsüberlegungen von Kanton und Gemeinden wird die ZöBA entsprechend dimensioniert und ist im Sinne ihrer Bestimmung zu nutzen.
 
-S - 8
+- Ausgehend von den Bedarfsüberlegungen und den Konzepten nach Kap. S5 des Richtplans wird die Lage und die Grösse der ZöBA überprüft. Ist die ZöBA falsch gelegen oder überdimensioniert, sind Verlagerungen innerhalb der Gemeinde, Umzonungen oder Auszonungen zu prüfen.
 
-### S2 Wirtschaftsentwicklung
+- Umzonungen sind möglich, wenn der Bedarf am ZöBA weiterhin gedeckt ist und die Umzonung mit den Entwicklungsabsichten des kommunalen Richtplans übereinstimmt.
 
-### S2-1 Industrie, Gewerbe und Dienstleistungen
+- Eine Auszonung wird dann erforderlich, wenn weder eine Verlagerung noch eine Umzonung zu einer bedarfsgerechten Dimensionierung führt. S.4.3-B/2 Anbindung der ZöBA
 
-Richtplanaufgabe
+- Für bestehende Einrichtungen wie auch für künftige Vorhaben ist ausgerichtet auf die konkrete Nutzung eine optimale Abstimmung mit dem Verkehr sicherzustellen. Dies betrifft insbesondere die Erschliessung mit dem öffentlichen Verkehr und dem Langsamverkehr.
 
-Es sind geeignete räumliche Voraussetzungen für die Wirtschaft zu schaffen und zu erhalten. Wohn- und Arbeitsgebiete sind einander zweckmässig zuzuordnen und durch das öffentliche Verkehrsnetz hinreichend zu erschliessen.
+S.4.3-B/3 Sport- und Intensiverholungszonen
 
-Die Anforderungen an die Wirtschaftsentwicklungsgebiete von kantonaler Bedeutung werden aus dem aktuellen entwicklungspolitischen Leitbild des Kantons abgeleitet:
+- Die Ausscheidung von neuen Zonen für Sport- und Erholungseinrichtungen erfolgt auf der Basis eines vorgängig zu erstellenden Konzepts. Darin sind das Vorhaben aufzuzeigen und Aussagen zum Bedarf zu machen. Abhängig von der Nutzung sind stufengerechte Aussagen zur Erschliessung und Bebauung und der Berücksichtigung der massgebenden Umweltanliegen zu machen.
 
-- Erschlossenes Land an geeigneten Standorten
+C Handlungsanweisungen
 
-- Vermittlung von rasch überbaubaren Flächen
+S.4.3-C/1
 
-- Vermittlung von Gebäuden für Industrie, Gewerbe und Dienstleistungen
+Die Gemeinden prüfen die Lage und Grösse der ZöBA aufgrund der Bedarfsüberlegungen der Gemeinde und des Kantons und aufgrund der Konzepte gemäss Kap. S5 des Richtplans.
 
-- Information und Marketing
+Bei falsch gelegenen ZöBA oder überdimensionierter ZöBA treffen sie Massnahmen zu Verlagerung, Umzonung oder Auszonung. Federführung: Gemeinde
 
-Für bestehende, brachliegende oder nur marginal genutzte Industrieareale sind sinnvolle Umnutzungen zu überprüfen.
+D Objekte
 
-Problemstellung / Ausgangslage
+Keine
 
-Die aktuelle Produktionsstruktur im Kanton Glarus ist geprägt durch eine relativ überdurchschnittliche Vertretung wertschöpfungsschwacher Branchen. Es handelt sich dabei um Betriebe aus den Bereichen Baugewerbe und baunahe Branchen oder Textilindustrie. Wertschöpfungsintensive Wirtschaftszweige wie z.B. finanzplatzorientierte Unternehmen oder die chemische Industrie sind trotz positiver Ansätze relativ schwach vertreten. Dennoch verfügt der Kanton Glarus über einige sehr dynamische und wertschöpfungsstarke Betriebe (v.a. in der Maschinen- und Kunststoffindustrie).
+E Erläuterungen / Grundlagen
 
-Zwischen 1991 und 1998 hat die Zahl der Voll- und Teilzeitbeschäftigten im Kanton Glarus um 14% abgenommen. Vom Strukturwandel in Richtung wertschöpfungsintensiver, hochwertiger und dienstleistungsintensiver Arbeitsplätze mit hoher Produktivität ist der Kanton Glarus mit einem überdurchschnittlichen Anteil an wertschöpfungsschwachen Branchen besonders betroffen. Zwischen 1985 und 1995 hat der Anteil der Voll- und Teilzeitbeschäftigten im 1. Sektor um 20%, im 2. Sektor um 10% abgenommen, der Anteil der Beschäftigten im 3. Sektor hat hingegen um 17% zugenommen.
+Keine
 
-Aufgrund eines unterdurchschnittlich entwickelten wertschöpfungsstarken Dienstleistungssektors und der starken Präsenz „traditioneller Industrien“ ist auch in Zukunft mit einer vergleichsweise schwachen Arbeitsplatz-Dynamik zu rechnen. Mittelfristig ist kein Dienstleistungsbereich erkennbar, welcher im grösseren Stil neue Arbeitsplätze schaffen könnte. Zusätzliche innovative Betriebe, die qualifizierte Arbeitsplätze bieten, sind gefragt.
+### S5 Versorgung S5.1 Öffentliche Einrichtungen und Ausstattung
 
-Das entwicklungspolitische Leitbild sieht eine Verbesserung der Rahmenbedingungen für unternehmerische Aktivitäten vor, wobei die ausreichende Verfügbarkeit von geeigneten Wirtschaftsflächen und Immobilien einen besonderen Platz einnimmt.
+A Ausgangslage
 
-S - 9
+Öffentliche Einrichtungen in den Bereichen Bildung, Gesundheits- und Sozialversorgung, Kultur sowie Verwaltung und Sicherheit haben einen erheblichen Einfluss auf die Siedlungs- und Verkehrsstruktur und deren Weiterentwicklung. Die einstige Struktur mit vielen kleineren Dörfern hat zu einer ursprünglich dezentralen und sehr kleinräumigen Versorgungsstruktur mit öffentlichen Einrichtungen geführt. Aufgrund der neuen Gebietseinteilung wie auch aufgrund gestiegener Anforderungen an die öffentlichen Dienste, ist die bisherige Versorgungsstruktur im Wandel. Dabei geht es nicht zwingend um die Frage der Konzentration dieser Einrichtungen, sondern um deren Abstimmung auf die angestrebte Versorgungsstruktur innerhalb des gesamten Kantons.
 
-**Nr. S2-1/1**
+Die öffentlichen Dienste werden vor allem von Gemeinden und Kanton bereitgestellt, dies in unterschiedlichen Rollen und Kompetenzen. Der Grossteil der öffentlichen Dienste wird durch die öffentliche Hand selbst bereitgestellt, ebenso tragen auch Private zur Versorgungsqualität bei (z.B. Ärzte, private Schulen, Kultureinrichtungen).
 
-### Abstimmungsanweisung
+Die Versorgungsqualität von Räumen rückt vor allem dann ins Bewusstsein, wenn diese nicht mehr gegeben ist oder droht schlechter zu werden. Mit der Planung und Realisierung derartiger Einrichtungen werden Impulse zur Entwicklung der Siedlungsstruktur gesetzt. Diese Vorhaben sind folglich mit der erwünschten räumlichen Entwicklung abzustimmen.
 
-Der Kanton erarbeitet eine Übersicht über die Wirtschaftsentwicklungsgebiete im ganzen Kanton (umfassend Neubaugebiete, Umstrukturierungsareale, Bahnhofsgebiete). Diese Übersicht gibt Auskunft über Verfügbarkeit, Baureife und Nutzungsprioritäten.
+B Richtungsweisende Festlegungen / Beschluss
 
-Diese Übersicht dient dem Kanton und den Gemeinden zur Standort- und Angebotskoordination.
+S5.1-B/1 Planung mit der Siedlungsstruktur abstimmen
 
-**Termine / Verfahren**
+- Die Planung und Realisierung von Vorhaben öffentlicher Einrichtungen orientiert sich an der erwünschten Siedlungsstruktur und zielt auf:
 
-### Abstimmungsstand Zuständigkeit
+- a) die Stärkung der Zentren gemäss der Richtplanung von Kanton und Gemeinden
 
-**3 Jahre nach Inkrafttreten des Richtplanes**
+- b) die bestmögliche Aufrechterhaltung der Versorgungsstrukturen im Gesamtkanton.
 
-Festsetzung Departement Volkswirtschaft und Inneres, Kant. Wirtschaftsförderung
+S5.1-B/2 Koordination der Sachbereiche
 
-### Verweis auf massgebliche Grundlagen
+- Die Standortkonzepte in den Bereichen Gesundheit, Bildung, Verwaltung, öffentliche Sport-, Freizeit- und Kultureinrichtungen werden auf die erwünschte räumliche Entwicklung abgestimmt und soweit erforderlich mit kantonal bedeutenden Infrastrukturen des Verkehrs und der Ver- und Entsorgung koordiniert.
 
-Entwicklungspolitisches Leitbild Kanton Glarus (2000)
+- Kanton und Gemeinden nutzen die Möglichkeiten, um über ihre eigenen Vorhaben auch positive ortsbauliche Impulse zu geben.
 
-S - 10
+S5.1-B/3 Erschliessungsanforderungen
 
-### S2-2 Publikumsintensive Einrichtungen, Versorgungseinrichtungen
+- Kantonale Versorgungseinrichtungen sind gezielt an Standorten einzurichten, welche mit dem öffentlichen Verkehr gut oder sehr gut erreichbar sind (ÖV-Güteklasse A - C). C
 
-Richtplanaufgabe
+**Handlungsanweisungen**
 
-Standorte für publikumsintensive Einrichtungen für Einkauf, Sport, Freizeit und Tourismus sind mit der Siedlungsentwicklung und der Verkehrserschliessung zu koordinieren.
+S5.1-C/1
 
-Für die Versorgung der Bevölkerung mit Gütern und Dienstleistungen sind günstige Voraussetzungen zu schaffen.
+Der Kanton überprüft die Standortkonzepte seiner Einrichtungen in Bezug auf die angestrebte Siedlungsstruktur und die Sicherstellung der Aufrechterhaltung der Versorgung im gesamten Kanton. Er prüft dabei auch Möglichkeiten dezentraler Konzepte. Er sichert bei Bedarf erforderliche Standorte oder Erweiterungsoptionen bei bestehenden Standorten. Bei neuen Vorhaben und umfassenden Erneuerungen nutzt er die Gelegenheit, über qualitätssichernde Verfahren auch ortsbaulich einen positiven Impuls zu setzen.
 
-Problemstellung / Ausgangslage
+Er koordiniert seine Sachplanungen mit derjenigen der Standortgemeinde. Federführung: Zuständiges Departement
 
-Die Grundversorgung mit Gütern und Dienstleistungen ist zufrieden stellend. Praktisch alle Gemeinden sind mit Läden für den täglichen Bedarf ausgestattet, teilweise werden auch mobile Versorgungseinrichtungen eingesetzt. Für den übergeordneten Bedarf gibt es das Einkaufszentrum Wiggispark in Netstal mit heute ca 10'000 m2 Nutzungsfläche (dieses wird u.a. konkurrenziert durch das Seedammcenter in Pfäffikon (SZ), den Pizol Park (SG) und die Einkaufszentren in der Stadt Glarus). Ausser für den übergeordneten Bedarf an Gütern bestehen zur Zeit keine publikumsintensiven Einrichtungen im Kanton Glarus.
+S5.1-C/2
 
-### Richtungsweisende Festlegungen
+Die Gemeinden legen in ihren Richtplänen die Standortkonzepte ihrer kommunalen öffentlichen Einrichtungen fest und koordinieren diese mit den kantonalen Einrichtungen. Sie sichern bei Bedarf erforderliche Standorte oder Erweiterungsoptionen bei bestehenden Standorten. Bei neuen Vorhaben und umfassenden Erneuerungen nutzen sie die Gelegenheit, über qualitätssichernde Verfahren auch ortsbaulich einen positiven Impuls zu setzen. Federführung: Gemeinde
 
-- 1\. Die Grundversorgung mit Gütern für den täglichen und Wochenbedarf soll innerhalb des Siedlungsgebiets gewährleistet sein.
+**Objekte**
 
-- 2\. In den Ortszentren und Nahbereichen der Bahnhöfe in den regionalen Entwicklungszentren und Umsteigeknoten soll ein breites Güter- und Dienstleistungsangebot erhalten und gefördert werden. Es wird eine gute Durchmischung angestrebt.
+D
 
-**Nr. S2-2/1**
+**Gemeinde Ausstattung (kantonale Einrichtungen) Hinweis / Bemerkung KS**
 
-### Abstimmungsanweisung (vom Bundesrat am 16.4.08 mit Ergänzung genehmigt)
+Objekt-Nr.
 
-Neue publikumsintensive Einrichtungen für Einkauf, Sport, Freizeit und Tourismus ausserhalb der Ortszentren und abseits der Einzugsbereiche der Bahnhöfe sind nur gestützt auf einen Richtplaneintrag (Bergbahnen, Regionale Sportanlagen, Einkaufszentren, spezielle Tourismusanlagen) zulässig. Dazu ist der Nachweis erforderlich, dass:
+**Weiterführende Bildung (Ziegelbrücke)**
 
-(cid:1) durch geeignete Massnahmen eine ausreichende Erschliessung für den öffentlichen Verkehr sowie für den Velo- und Fussgängerverkehr geschaffen wird, (cid:1) die Einrichtung befriedigend mit der Siedlungsstruktur, der Verkehrsinfrastruktur und dem Landschaftsbild abgestimmt ist.
+**Glarus Nord Kultur (Näfels) --- FS**
 
-(cid:1) Bauten mit intensivem Publikums- und Güterverkehr müssen mit den öffentlichen Verkehrsmitteln ausreichend erschlossen werden. (Ergänzung Bundesrat: „Die Erschliessung mit dem öffentlichen Verkehr ist ausreichend, wenn diese mindestens der Güteklasse C gemäss VSS-Norm SN 640 290 entspricht.“) Dieselben Erfordernisse gelten für die Erweiterungen bestehender publikumsintensiver Einrichtungen für Einkauf, Sport, Freizeit und Tourismus.
+S5.11
 
-**Termine / Verfahren**
+**Sport (Näfels) Verwaltung Justiz Gesundheit (Spital)**
 
-### Abstimmungsstand Zuständigkeit
+**Glarus --- FS**
 
-**Richtplananpassung Baubewilligungsverfahren**
+**Weiterführende Bildung Kultur Sport Verwaltung (Strassenverkehrsamt)**
 
-Festsetzung Departement Bau und Umwelt, Fachstelle Raumentwicklung
+S5.12
 
-S - 11
+**Glarus Süd --- FS**
 
-### Verweis auf massgebliche Grundlagen
+**Sozialeinrichtung (glarnersteg)**
 
-Bauverordnung Kanton Glarus vom 6. Juni 1989/1994/2000, VII B/1/2 (Art. 2, Art. 12 – 15) USG, Art. 9 Pflicht zur Umweltverträglichkeitsprüfung (UVP) (1983); Verordnung über die Umweltverträglichkeitsprüfung (UVPV) (2000) Luftreinhalte-Verordnung (LRV) vom 16. Dezember 1985 (Stand am 3. Juni 2003)
+S5.13
 
-S - 12
+**Erläuterungen / Grundlagen**
 
-### S3 Siedlungsqualität
+E
 
-### S3-1 Lärmschutz
+keine
 
-Richtplanaufgabe
+### S5.2 Publikumsintensive Einrichtungen (PE)
 
-Mensch und Umwelt sollen vor schädlichen oder lästigen Lärmeinwirkungen geschützt werden. Das Vorsorge- und Verursacherprinzip sind wichtige Pfeiler des Vollzuges.
+A Ausgangslage
 
-Für die Umsetzung der Lärmschutzverordnung des Bundes sind gemäss Verordnung zum kantonalen Umweltschutzgesetz, Art. 7 in erster Linie die Gemeinden zuständig. Der Kanton ist zuständig für die Lärmsanierung an National- und Kantonsstrassen. Der Bund ist zuständig für den Vollzug der Lärmschutzverordnung an Eisenbahnanlagen, zivilen Flugplätzen und Anlagen zur Landesverteidigung.
+Als publikumsintensive Einrichtungen (PE) werden im Richtplan grosse Versorgungseinrichtungen im kommerziellen Bereich wie Einkaufszentren oder Fachmärkte, Freizeiteinrichtungen sowie Freizeitanlagen (z. B. Sportzentren) bezeichnet. Diese Einrichtungen erzeugen viel Verkehr und haben Auswirkungen über die Gemeindegrenze hinaus. Bei Einkaufseinrichtungen kommt hinzu, dass diese auch die Versorgungsstruktur im kommerziellen Kern eines Ortes in unerwünschter Weise beeinflussen können.
 
-Alle Gemeinden haben im Laufe der letzten Jahre den einzelnen Nutzungszonen Empfindlichkeitsstufen gemäss Lärmschutzverordnung (LSV) zugeordnet.
+Die Planung von publikumsintensiven Einrichtungen hat daher auf einer übergeordneten Ebene zu erfolgen.
 
-Problemstellung / Ausgangslage
+Grundsätzlich zeigen Analysen, dass die heutige Versorgung durch den Detailhandel im Kanton Glarus in etwa der Nachfrage entspricht. Es haben jedoch bereits Verlagerungen aus den Zentren an die Siedlungsränder stattgefunden, was zu einer Schwächung der Zentren sowie zu Verkehrszunahmen und zu Zwangsmobilität führt.
 
-Der Kanton hat in den letzten Jahren einen Kataster über die Lärmbelastungen an National- und Kantonsstrassen erarbeitet. Daraus können die tatsächlichen, örtlich festgestellten Lärmbelastungen abgelesen werden und entsprechend die Prioritäten für die Umsetzung der Sanierungsmassnahmen gesetzt werden. Die Massnahmen der ersten Lärmschutzetappe erfolgen in der Gemeinde Netstal (mit einem Budget von 2.8 Millionen Franken Bruttokosten).
+Um die Koordination der Standorte für publikumsintensive Einrichtungen über die Kantonsgrenze hinaus zu gewährleisten, hat der Kanton Glarus in Zusammenarbeit mit den Kantonen St. Gallen und Schwyz ein Standortkonzept für PE-Versorgungseinrichtungen im Linthgebiet erarbeitet. Demnach verzichten die drei Kantone an den potenziellen Standorten in Schänis und Mollis (Biäsche) auf neue solche Einrichtungen (Regierungsratsbeschluss vom 14. August 2012).
 
-### Richtungsweisende Festlegungen
+Standorte für publikumsintensive Einrichtungen sind mit der Siedlungsentwicklung und der Verkehrserschliessung, insbesondere auch durch den öffentlichen Verkehr und den Langsamverkehr, abzustimmen. Eine weitere Verlagerung von Einkaufsnutzungen an die Peripherie und eine damit einhergehende Schwächung der Zentren ist nicht erwünscht und zu vermeiden.
 
-- 1\. Der Regierungsrat legt die Prioritäten für die Lärmsanierungen an den National- und Kantonsstrassen fest. Es sind jährlich Mittel zur Verfügung zu stellen, welche eine möglichst kontinuierliche, rasche und effiziente Lärmsanierung erlauben.
+B Richtungsweisende Festlegungen / Beschluss
 
-- 2\. Der Regierungsrat setzt sich beim Bund für eine rasche und effiziente Lärmsanierung von Anlagen ein, für welche der Vollzug bei Bundesbehörden liegt.
+S5.2-B/1 Publikumsintensive Einrichtungen (PE) - Unter PE fallen Einkaufszentren, Fachmärkte und vergleichbare Versorgungseinrichtungen sowie dauernd intensiv genutzte Freizeitanlagen (z.B. Sportstadien). Einrichtungen mit nur temporär anfallendem grossem Verkehrsaufkommen wie Talstationen von Bergbahnen oder unregelmässige Grossveranstaltungen fallen nicht darunter.
 
-- 3\. Lärmschutzanlagen sind möglichst ortsbildgerecht und landschaftsgerecht vorzusehen.
+- Basierend auf Schwellenwerten werden folgende Typen unterschieden (bei Einrichtungen mit mehreren Geschäften gilt die gesamte Verkaufsfläche):
 
-### Verweis auf massgebliche Grundlagen
+**Parkplätze &gt; 300 PP 60 – 300 PP &lt; 60 PP**
 
-Lärmschutzverordnung (LSV) vom 15. Dezember 1986, Änderungen vom 12. April 2000 Bundesgesetz vom 24. März 2000 über die Lärmsanierung der Eisenbahnen (24. März 2000)
+Typ Verkaufsfläche A: Grosse PE: &gt; 3’000 m<sup>2</sup> B: Mittelgrosse PE: 800 – 3’000 m<sup>2</sup> C: Kleine PE: &lt; 800 m<sup>2</sup>
 
-S - 13
+S5.2-B/2 Standortkriterien für neue und die Erweiterung bestehender PE - Standorte für PE (alle Typen) sind so zu wählen, dass sie die Versorgungsstruktur in einem Ort positiv beeinflussen und zur Stärkung des kommerziellen und funktionalen Kerns eines Ortes beitragen. Standorte ohne Bezug zum kommerziellen Kern sind zu
 
-### S3-2 Lärm von Schiessanlagen
+vermeiden.
 
-Richtplanaufgabe
+- Neue grosse PE (Typ A) sind ausschliesslich innerhalb des Siedlungsraum-Typs Haupttal und mit Bezug zum kommerziellen Kern anzusiedeln. Angrenzende Wohngebiete sind vor übermässiger Belastung zu schonen. Der Standort muss den Schutz des Orts- und Landschaftsbildes und die Minimierung der Umweltbelastung gewährleisten.
 
-Schiessanlagen haben Auswirkungen auf die Umwelt (Bodenqualität und Lärm). Für den Erhalt der Siedlungsqualität sind diese - insbesondere der Lärm - auf ein erträgliches Mass zu beschränken. Der Bund fordert deshalb die Umsetzung der Lärmschutzverordnung (LSV) und die Sanierung aller Schiessanlagen bis 1. April 2002.
+- Bestehende PE (alle Typen), welche peripher und ohne Bezug zum kommerziellen Kern des Ortes liegen, können nur dann erweitert werden, wenn dies in der Ortsplanung ausdrücklich und mit Hinweis zur Grösse vorgesehen ist. Die Abstimmung mit der Zentrumsentwicklung der Gemeinde und die gute Erschliessung mit dem öffentlichen Verkehr sind nachzuweisen.
 
-Problemstellung / Ausgangslage
+S5.2-B/3 Erschliessungsanforderungen - Strasse: Die ausreichenden Strassen- und Knotenkapazitäten sind nachzuweisen. Allfällige notwendige Massnahmen sind planungsrechtlich zu sichern.
 
-Um die Umsetzung der LSV zu ermöglichen, hat der Regierungsrat das „Konzept Schiessanlagen 2002“ verabschiedet. Darin wurden die bestehenden Schiessanlagen auf Auswirkungen und Auslastung untersucht und die für die Zukunft vorgesehenen Anlagen bezeichnet. Anlagen, welche nicht den Erfordernissen der LSV genügten, mussten mit entsprechenden baulichen und betrieblichen Massnahmen saniert werden. Soweit eine Sanierung nicht möglich war, mussten sich die betroffenen Gemeinden mit anderen Gemeinden zusammenschliessen. Die Sanierungen und Zusammenschlüsse sind heute weitgehend erfolgt oder zumindest in die Wege geleitet. Das Konzept hält zudem die Anlagen von regionaler Bedeutung fest. Diese Festlegungen werden im Kap. E5-2 des vorliegenden Richtplans dargelegt.
+- Parkraumbewirtschaftung: Sofern das Verkehrsaufkommen zu negativen Auswirkungen auf das Verkehrsnetz (Stausituationen) oder auf das Siedlungsgebiet (Belastung der Wohnquartiere) führt, ist eine wirksame kostenpflichtige Parkraumbewirtschaftung oder eine vergleichbar wirkende Massnahme zur Beschränkung des Verkehrsaufkommens zu treffen.
 
-Eine Gesamtbeurteilung der Situation hat ergeben, dass die 25-Meter- und 50-Meter-Schiessanlagen kaum Lärmprobleme verursachen, jedoch die 300-Meter-Schiessanlagen aufgrund ihrer Auswirkungen einer Koordination bedürfen.
+- Öffentlicher Verkehr: Eine angemessene Erschliessung durch den ÖV ist sicherzustellen (mindestens ÖV-Güteklasse C gemäss VSS-Norm SN 640 290).
 
-### Richtungsweisende Festlegungen
+- Langsamverkehr: Sichere und möglichst direkte Wege für den Fuss- und Radverkehr sowie gedeckte Zweiradabstellplätze sind vorzusehen.
 
-Für die Planung von Schiessanlagen sind die Ergebnisse des „Konzept Schiessanlagen 2002“ zu berücksichtigen.
+S5.2-B/4 Verfahrensanforderungen - Grosse PE (Typ A) bedingen eine Festlegung im Richtplan. Für das Richtplanverfahren ist der Nachweis der Raum- und Umweltverträglichkeit zu erbringen.
 
-### Verweis auf massgebliche Grundlagen
+- Mittelgrosse PE (Typ B) bedingen eine Festlegung im kommunalen Richtplan. Liegen sie ausserhalb der Zentrums- und Kerngebiete, ist die Abstimmung mit der Zentrumsentwicklung der Gemeinde aufzuzeigen.
 
-Lärmschutzverordnung (LSV) vom 15. Dezember 1986, SR 814.41 Direktion für Landwirtschaft, Wald und Umwelt (1999): Konzept 300-Meter-Schiessanlagen 2002 Schiesswesen. Konzept und Sachplan 300 m Schiessanlagen 2002, Vorgehen bei der Lärmsanierung, Regierungsratsbeschluss § 608, 31. August 1999
+- Kleine PE (Typ C) bedingen kein Richtplanverfahren. Liegen sie ausserhalb der Zentrums- und Kerngebiete, ist die Abstimmung mit der Zentrumsentwicklung im Nutzungsplanverfahren der Gemeinde aufzuzeigen.
 
-S - 14
+C Handlungsanweisungen
 
-### S3-3 Luftreinhaltung
+S5.2-C/1 Der Kanton legt die Standorte für grosse publikumsintensive Einrichtungen im Richtplan fest. Federführung: Dep. Bau und Umwelt, Abt. Raumentwicklung und Geoinformation
 
-Richtplanaufgabe
+S5.2-C/2 Die Gemeinden legen in ihren Richtplänen das Konzept für publikumsintensive Einrichtungen fest und stimmen dieses mit der beabsichtigten Entwicklung der kommerziellen Kerne in den Ortschaften ab.
 
-Ziel der kantonalen Luftreinhaltepolitik ist eine nachhaltige Verbesserung der Luftqualität, um Menschen, Tiere und Pflanzen vor schädlichen Einwirkungen zu bewahren.
+Bei Standorten für grosse PE (Typ A) erlassen sie eine Überbauungsplanpflicht und planen frühzeitig die erforderliche Erschliessung.
 
-Der Vollzug von Luftreinhaltebestimmungen ist, von Ausnahmen abgesehen, Aufgabe der Gemeinden.
+Federführung: Gemeinde D Objekte
 
-Problemstellung / Ausgangslage
+**Standort / Gebiet Hinweis / Bemerkung KS**
 
-Im November 1990 hat der Landrat einen Massnahmenplan zur Verbesserung der Luftqualität verabschiedet. Nach Erfolgskontrollen 1994/ 2001 wurde festgestellt, dass die Qualitätsziele der Luftreinhalteverordnung (LRV) – trotz Emissionsverminderungen in verschiedenen Teilbereichen – noch nicht erreicht wurden. Insbesondere die Grenzwerte für Stickstoffdioxid (NO2), Feinstaub (PM10) und Ozon wurden noch stark überschritten. Zum Teil, vor allem in Bezug auf die Stickoxide, konnte dies mit der noch mangelnden Realisierung der geplanten Massnahmen begründet werden. Bezüglich Ozon wurde aber festgestellt, dass es sich hierbei nicht um ein lokales Problem handelt, das mit lokalen Massnahmen in den Griff zu bekommen wäre, sondern um ein kantonsübergreifendes, das zusätzlich mit gesamtschweizerischen Massnahmen zu bekämpfen ist.
+Objekt-Nr. Gemeinde
 
-Die im Massnahmenplan Luftreinhaltung 2001 formulierten Massnahmen zielen in erster Linie auf eine Reduktion der Vorläufersubstanzen des Ozons (NOx und VOC). Die beschlossenen Massnahmen sollen mit Nachdruck durchgesetzt und der Handlungsspielraum der LRV ausgenutzt werden.
+**bestehend FS**
 
-Eine Verbesserung der Luftqualität wurde durch die neue Rauchgasreinigung der KVA Niederurnen erzielt. Mit der neuen Technik sind die Luftemissionen deutlich reduziert worden.
+S5.21 Glarus Nord Näfels / Fachmarktcenter Krumm
 
-### Richtungsweisende Festlegungen
+**Näfels / Sportzentrum Lintharena**
 
-Kanton und Gemeinden setzen weiterhin die im Massnahmenplan Luftreinhaltung formulierten Massnahmen um, die wie folgt aufgeteilt werden können:
+**bestehend FS**
 
-(cid:1) Vollzug der vorsorglichen Emissionsvorschriften der Luftreinhalteverordnung (cid:1) Weiterführung bzw. Abschluss der 2001 vom Landrat beschlossenen Massnahmen, insbesondere bei den Anträgen an den Bund (cid:1) Weiterführung der Informationsanstrengungen gestützt auf Art. 6 USG (cid:1) Vorbildfunktion der öffentlichen Hand bei Aufträgen, Vergaben und Projekten
+**SGU Netstal / Wiggispark bestehend FS**
 
-### Verweis auf massgebliche Grundlagen
+S5.22 Glarus Nord
 
-Massnahmenplan Luftreinhaltung 2001, Amt für Umweltschutz Glarus, verabschiedet vom Landrat am 26. September 2001.
+S5.23 Glarus
 
-S - 15
+E Erläuterungen / Grundlagen
 
-### S3-4 Ortsbildschutz
+Siehe Erläuterungsbericht
 
-Richtplanaufgabe
+Grundlagen:
 
-Bedeutende Ortsbilder werden unter Berücksichtigung zonenkonformer Nutzungsinteressen mit geeigneten organisatorischen und raumplanerischen Massnahmen geschützt.
+- Publikumsintensive Einrichtungen im Linthgebiet, Schlussbericht 2011
 
-Problemstellung / Ausgangslage
+### S6 Ortsbilder und Kulturdenkmäler
 
-Im ISOS (Inventar der schützenswerten Ortsbilder der Schweiz) sind die Ortsbilder gesamtheitlich inventarisiert, umschrieben und es sind die Schutzziele festgelegt. Die Ortsbilder von nationaler Bedeutung sind in der Verordnung vom 9. September 1981 über das Bundesinventar der schützenswerten Ortsbilder der Schweiz (VISOS) festgehalten. Die nachfolgend aufgeführten Ortsbilder von regionaler und lokaler Bedeutung stammen aus einer Liste aller ISOS-Objekte des Büros für das ISOS, Zürich (Stand November 1999).
+A Ausgangslage
 
-Die Berücksichtigung der Ortsbilder von kommunaler Bedeutung liegt im Ermessen der Gemeinden. Gemäss ISOS sind folgende Ortsbilder von nationaler Bedeutung:
+Ziel des Erhalts von besonderen Ortsbildern ist, einzigartige Orte und besonders wertvolle Beispiele regionaltypischer Siedlungen oder Siedlungsteile zu bewahren und als Kulturerbe weiterzugeben. Diese Orte sind Zeugen von sozialen, wirtschaftlichen, politischen oder baukünstlerischen Epochen und charakteristische Elemente der historischen Kulturlandschaften. Die Charakteristik eines Ortes ergibt sich aus der Bebauung sowie aus dem Bezug der Bauten untereinander und zur Umgebung.
 
-- Adlenbach (Luchsingen) als Weiler • Mollis als Dorf
+Somit sind nicht nur die Baukörper, sondern auch Aussenräume wie Vorbereiche, Gärten, Strassen und Platzräume Teil dieser Orte.
 
-- Elm als Dorf • Näfels als verstädtertes Dorf
+Der Bundesrat hat das Inventar der schützenswerten Ortsbilder der Schweiz (ISOS) erlassen. Dieses gilt auch für den Kanton Glarus.
 
-- Ennenda als verstädtertes Dorf • Rüti als Dorf
+In geschützten Ortsbildern stellt die Umsetzung des Ziels der Siedlungsentwicklung nach innen besonders hohe Anforderungen. Die Nutzung der Potenziale ist in qualitativer als auch in quantitativer Hinsicht auf die Schutzziele abzustimmen. Dabei stellen die heute geänderten Nutzeransprüche oder die heutige Gebäudebautechnik grosse Herausforderungen dar.
 
-- Diesbach als Dorf • Steinibach (Elm) als Weiler
+Das Inventar der historischen Verkehrswege der Schweiz (IVS) ist als Bundesinventar die massgebende Grundlage betreffend den Umgang mit schützenswerten historischen Verkehrswegen und wegbegleitenden Elementen (Distanzsteine, Kapellen, Wegkreuze, Gasthäuser etc.). Das IVS wird im Teil Siedlung behandelt, weil die Umsetzung des IVS auf ähnliche Weise erfolgen kann wie beim ISOS.
 
-- Glarus als Stadt • Ziegelbrücke (Niederurnen) als Spezialfall
+Nebst den Ortsbildern und Verkehrswegen gibt es Kulturdenkmäler, archäologische und historische Stätten als weitere Zeugen kultureller Entwicklungen und ausserordentlicher baulicher Leistungen (z.B. Kirchen, Kapellen, Rats-, Bauern- und Arbeiterhäuser oder Verkehrs- und Infrastrukturanlagen). Sie sind wichtig für das kulturelle Selbstverständnis wie auch für den Tourismus. Die Erhaltung und Pflege solcher Bauten und Anlagen ist aus historischer, ästhetischer und touristischer Sicht wichtig und trägt wesentlich zur Kulturwertschaffung und zur Identitätsstiftung bei.
 
-Von regionaler Bedeutung sind:
+Inventare und Verzeichnisse Gemäss kantonaler Natur- und Heimatschutzgesetzgebung hat der Kanton Verzeichnisse und Inventare u. a. zu den Ortsbildern, den historischen Stätten und zu Kultur- und Baudenkmälern zu erarbeiten (Art. 9 kNHG). Er erstellt Verzeichnisse der schützenswerten Objekte von regionaler, d.h. kantonaler Bedeutung, die Gemeinden erstellen Verzeichnisse der schützenswerten Objekte von lokaler Bedeutung. Die Gemeinden sichern den Schutz der Objekte von regionaler Bedeutung und soweit in ihrem Ermessen diejenigen von lokaler Bedeutung in der Nutzungsplanung.
 
-- Bilten als Dorf • Mitlödi als Dorf
+Bei der Umsetzung der kantonalen Natur- und Heimatschutzgesetzgebung bestehen teilweise Defizite. Mit Blick auf die Förderung der Siedlungsentwicklung nach innen und insbesondere auch in Bezug auf die angestrebte Revitalisierung der Ortskerne ist eine rasche Bereinigung und Umsetzung der Schutzinventare notwendig. B Richtungsweisende Festlegungen / Beschluss
 
-- Ennetbühls (Ennenda) als Dorf • Netstal als verstädtertes Dorf
+S6-B/1 Schützenswerte Ortsbilder
 
-- Filzbach als Dorf • Nidfurn als Dorf
+- Im Richtplan werden die schützenswerten Ortsbilder von nationaler und regionaler Bedeutung festgelegt.
 
-- Haslen als Dorf • Obstalden als Dorf
+- Schützenswerte Ortsbilder sind wie andere Siedlungsteile weiter zu entwickeln. Diese Weiterentwicklung erfolgt unter Bezugnahme auf die besonderen Qualitäten des Ortes und unter Rücksichtnahme auf den historischen Bestand.
 
-- Hätzingen als Dorf • Schwanden als verstädtertes Dorf
+- Die Bezeichnung der Schutzwürdigkeit eines Ortsbildes bezieht sich auf den massgebenden gesamten Siedlungsteil. Der erforderliche Schutz als Ganzes, d.h. der typischen Bebauungs- und Aussenraumstruktur erfolgt in erster Linie durch Massnahmen in der Nutzungsplanung.
 
-- Linthal als verstädtertes Dorf • Schwändi als Dorf
+- Abgestützt auf das Inventar und das Verzeichnis sind die das schützenswerte Ortsbild besonders prägenden Einzelbauten und Gebäudegruppen sowie auch die entsprechenden Aussenräume und Umgebungen durch Massnahmen in der Nutzungsplanung zu sichern.
 
-- Matt als Dorf • Sool als Dorf
+S6-B/2 Historische Verkehrswege
 
-Von kommunaler Bedeutung sind:
+- Das Inventar der historischen Verkehrswege (IVS) ist eine zu berücksichtigende Grundlage im Umgang mit schützenswerten historischen Verkehrswegen und den wegbegleitenden Elementen. Diese Zeugnisse der Verkehrsgeschichte der Schweiz werden angemessen erhalten.
 
-- Betschwanden als Dorf • Mühlehorn als Dorf
+S6-B/3 Kulturdenkmäler
 
-- Engi als Dorf • Niederurnen als verstädtertes Dorf
+- Das Kulturdenkmal und seine Umgebung sind als Ganzes zu betrachten. Nebst dem integralen Schutz des Denkmals ist auch dessen massgebende Umgebung zu sichern.
 
-- Luchsingen als Dorf • Oberurnen als Dorf
+C Handlungsanweisungen
 
-Im Schweizerischen Inventar der Kulturgüter von nationaler und regionaler Bedeutung sind in folgenden Gemeinden Kulturgüter von nationaler Bedeutung inventarisiert:
+S6-C/1 Schützenswerte Ortsbilder und Einzelobjekte
 
-Diesbach, Elm, Ennenda, Filzbach, Glarus, Linthal, Luchsingen, Mitlödi, Mollis, Näfels, Rüti. In allen Gemeinden, mit Ausnahme von Filzbach, sind Kulturgüter von regionaler Bedeutung inventarisiert.
+Die Gemeinden berücksichtigen die schützenswerten Ortsbilder und Einzelobjekte von nationaler, regionaler und kommunaler Bedeutung durch geeignete Festlegungen und Vorschriften in ihren Nutzungsplanungen. Federführung: Gemeinde
 
-S - 16
+S6-C/2 Historische Verkehrswege
 
-### Richtungsweisende Festlegungen
+**FS FS FS FS FS FS FS FS**
 
-- 1\. Die erhaltenswerten Ortsbilder von nationaler und regionaler Bedeutung sind in Erscheinung, Substanz und Struktur zu erhalten, zu pflegen und zu gestalten.
+**Inventarobjekte nach Art. 9 Abs. 1 FS kantonales Natur- und Heimatschutzgesetz FS**
 
-- 2\. In den genannten und geschützten Siedlungsteilen ist bei Eingriffen und Veränderungen eine strenge ortsgestalterische Beurteilung anzuwenden. Ergänzende Neubauten haben sich in die bestehende Struktur einzufügen.
+**FS FS FS FS FS FS FS FS FS**
 
-**Nr. S3-4/1**
+Die Gemeinden berücksichtigen das Inventar der historischen Verkehrswege von nationaler Bedeutung in ihren Nutzungsplanungen und sichern dieses Kulturerbe durch geeignete Festlegungen in ihren Nutzungsplanungen. Federführung: Gemeinde S6-C/3 Fundstelleninventar der Archäologie
 
-### Abstimmungsanweisung
+Die Gemeinden integrieren die räumlichen Abgrenzungen des kantonalen Fundstelleninventars in ihren Zonenplänen und sorgen dafür, dass die erforderliche Koordination bei Bauvorhaben frühzeitig erfolgt.
 
-Die Gemeinden mit einem Ortsbild von nationaler Bedeutung sorgen – soweit dies noch nicht erfolgt ist – mit planerischen Instrumenten für die Umsetzung der Ziele des ISOS.
+Federführung: Gemeinde
 
-**Termine / Verfahren**
+D Objekte
 
-### Abstimmungsstand Zuständigkeit
+D-1 Ortsbilder von nationaler Bedeutung
 
-Festsetzung Departement Bildung und Kultur, Fachstelle Im Rahmen der nächsten Denkmalpflege Gemeinden Elm, Ennenda, Diesbach[^hAbstimmungsstandZus_7-1] , Glarus, Luchsingen, Mollis, Näfels, Niederurnen (Ziegelbrücke), Rüti
+**Bemerkung / Hinweis KS**
 
-**Nutzungsplanrevision**
+Objekt-Nr. Gemeinde Standort / Gebiet
 
-[^hAbstimmungsstandZus_7-1]: Mit der Gemeindefusion von Hätzingen, Diesbach und Luchsingen zur Gemeinde Luchsingen gilt bei deren Aufzählungen die Abstimmungsanweisung immer für die politische Gemeinde Luchsingen.
+**FS FS FS FS**
 
-### Verweis auf massgebliche Grundlagen
+S6.01 Glarus Nord Mollis S6.02 Glarus Nord Näfels S6.03 Glarus Nord Ziegelbrücke S6.04 Glarus Ennenda S6.05 Glarus Glarus S6.06 Glarus Süd Adlenbach S6.07 Glarus Süd Diesbach S6.08 Glarus Süd Rüti S6.09 Glarus Süd Elm S6.10 Glarus Süd Steinibach
 
-Inventar der schützenswerten Ortsbilder der Schweiz (ISOS), Liste aller ISOS-Objekte für den Kanton Glarus, Büro für das ISOS, Zürich Natur- und Heimatschutzgesetz, 1992 (IV G/1) (Art. 5)
+**Art. 5 Natur und Heimatschutzgesetz FS des Bundes und Art. 9 Abs. 1 kantonales Natur- und Heimatschutzgesetz FS**
 
-**Nr. S3-4/2**
+**FS FS FS FS**
 
-### Abstimmungsanweisung
+D-2 Ortsbilder von regionaler Bedeutung
 
-Die Gemeinden sorgen für den angemessenen Schutz der im ISOS als von regionaler Bedeutung eingestuften Ortsbilder.
+**Bemerkung / Hinweis KS**
 
-**Termine / Verfahren**
+Objekt-Nr. Gemeinde Standort / Gebiet
 
-### Abstimmungsstand Zuständigkeit
+**FS**
 
-Festsetzung Departement Bildung und Kultur, Fachstelle Im Rahmen der nächsten Denkmalpflege Gemeinden Bilten, Ennenda, Filzbach, Hätzingen\* , Haslen, Linthal, Matt, Mitlödi, Netstal, Nidfurn, Obstalden, Schwanden, Schwändi, Sool
+S6.11 Glarus Nord Bilten S6.12 Glarus Nord Filzbach S6.13 Glarus Nord Obstalden S6.14 Glarus Nord Mühlehorn S6.15 Glarus Nord Niederurnen S6.16 Glarus Nord Oberurnen S6.17 Glarus Netstal S6.18 Glarus Ennetbühls S6.19 Glarus Süd Mitlödi S6.20 Glarus Süd Schwanden S6.21 Glarus Süd Schwändi S6.22 Glarus Süd Sool S6.23 Glarus Süd Nidfurn S6.24 Glarus Süd Haslen S6.25 Glarus Süd Luchsingen S6.26 Glarus Süd Hätzingen S6.27 Glarus Süd Bertschwanden S6.28 Glarus Süd Linthal S6.29 Glarus Süd Engi Objekt-Nr. Gemeinde Standort / Gebiet Bemerkung / Hinweis
 
-**Nutzungsplanrevision**
+**KS**
 
-### Verweis auf massgebliche Grundlagen
+**FS**
 
-Inventar der schützenswerten Ortsbilder der Schweiz (ISOS), Liste aller ISOS-Objekte für den Kanton Glarus, Büro für das ISOS, Zürich Natur- und Heimatschutzgesetz, 1992 (IV G/1)
+S6.30 Glarus Süd Matt
 
-S - 17
+D-3 Einzelobjekte von nationaler Bedeutung
 
-### S3-5 Denkmalpflege
+**KS**
 
-Richtplanaufgabe
+Objekt-Nr. Gemeinde Standort / Gebiet Bemerkung / Hinweis
 
-Objekte, an deren Erhalt ein erhebliches öffentliches Interesse besteht, sind zu erhalten und schützen. Dafür erstellt der Kanton gemäss kantonalem Natur- und Heimatschutzgesetz Inventare.
+Objekte gemäss Glarus Nord Schweizerischem Inventar der Kulturgüter von nationaler und regionaler Bedeutung
 
-Problemstellung / Ausgangslage
+**FS**
 
-Denkmäler sind Siedlungsteile, Gebäudegruppen, Einzelbauten, archäologische Stätten und Funde, welche einen besonderen kulturellen oder heimatkundlichen Wert besitzen. Objekte, an deren Erhalt ein erhebliches öffentliches Interesse besteht, sollen unter kantonalen Schutz gestellt werden und in das vom Kanton zu erstellende Inventar eingetragen werden.
+**- Art. 5 Natur und Heimatschutzgesetz des Bundes - Geschützte Objekte nach Art. FS 15 der kantonalen Natur- und Heimatschutzverordnung**
 
-Aus dem Bereich der Industriearchäologie bestehen folgende Inventare:
+Glarus Objekte gemäss Verzeichnis der Denkmäler, Ensembles und archäologischen Glarus Süd Stätten von nationaler Bedeutung
 
-- Inventar der Glarner Industriewege
+**FS**
 
-- Inventar Wasserkraftwerke
+D-4 Einzelobjekte von regionaler Bedeutung
 
-**Nr. S3-5/1**
+**KS**
 
-### Abstimmungsanweisung
+Objekt-Nr. Gemeinde Standort / Gebiet Bemerkung / Hinweis
 
-Der Kanton erstellt gemäss Gesetz über den Natur- und Heimatschutz Inventare zu:
+Objekte gemäss Schweizerischem Glarus Nord Inventar der Kulturgüter von nationaler und regiona- - ler Bedeutung
 
-(cid:1) Bau- und Kulturdenkmäler (cid:1) Historische Verkehrswege (cid:1) Ortsbilder
+**Inventarobjekte nach Art. 9 Abs. 1 kantonales Natur- und Heimatschutzgesetz**
 
-Bei Vorliegen der vollständigen Inventare beschliesst der Regierungsrat, ob eine Richtplan-Fortschreibung oder Richtplan-Anpassung durchgeführt werden soll.
+**FS**
 
-**Termine / Verfahren**
+**- Geschützte Objekte nach Art. 15 der kantonalen Natur- und Heimatschutzverordnung**
 
-### Abstimmungsstand Zuständigkeit
+Glarus Objekte gemäss Verzeichnis der Denkmäler, Ensembles und ar-Glarus Süd chäologischen Stätten von regionaler Bedeutung
 
-Festsetzung Departement Bildung und Kultur, Fachstelle laufend Denkmalpflege Diverse Fachstellen
+**FS**
 
-### Verweis auf massgebliche Grundlagen
+E Erläuterungen / Grundlagen
 
-Regierungsrat des Kantons Glarus (1999): Entwicklungspolitisches Leitbild (Massnahme 6.4.4.5) Gesetz über den Natur- und Heimatschutz, 2. Mai 1971 (IV G/1) Natur- und Heimatschutzverordnung, 2. Oktober 1991 (IV G/2)
+Siehe Erläuterungsbericht Kap. 4.2.8 sowie 4.4 Systematik der Verzeichnisse und Inventare
 
-S - 18
+Grundlagen:
 
-### S3-6 Archäologie
+- Bundesinventar der schützenswerten Ortsbilder der Schweiz, ISOS
 
-Richtplanaufgabe
+- Bundesinventar der historischen Verkehrswege der Schweiz, IVS
 
-Archäologische Fundstellen, an deren Erhalt ein erhebliches öffentliches Interesse besteht, sind zu erhalten und schützen. Dafür erstellt der Kanton gemäss kantonalem Natur- und Heimatschutzgesetz ein Inventar.
+- Schweizerisches Inventar der Kulturgüter von nationaler und regionaler Bedeutung
 
-Problemstellung / Ausgangslage
+- Verzeichnis der Denkmäler, Ensembles und archäologischer Stätten von nationaler Bedeutung (Bundesamt für Kultur)
 
-Eine archäologische Fundstelle ist ein Ort, an dem Überreste menschlicher Siedlungstätigkeit durch Bautätigkeit oder natürliche Erosion zu Tage treten. Grundsätzlich gehören auch an Baudenkmälern in Erscheinung tretende Spuren anderer Zeitepochen zur Archäologie. Archäologische Fundstätten sind meist unter Boden resp. nicht an der Oberfläche zutage tretende Stätten kultureller Zeugnisse. Gemäss kantonalem Natur- und Heimatschutzgesetz sind die historischen Stätten zu inventarisieren.
+- Verzeichnis der Denkmäler, Ensembles und archäologischer Stätten von regionaler Bedeutung (Bundesamt für Kultur)
 
-Als Grundlage für das kantonale Inventar wurden ein Verzeichnis für archäologische Fundstätten erstellt.
+### S7 Stand- / Durchgangsplätze für Fahrende
 
-**Nr. S3-6/1**
+A Ausgangslage
 
-### Abstimmungsanweisung
+Das Raumplanungsgesetz (Art. 3 Abs. 3 RPG) hält fest, dass die Siedlungen nach den Bedürfnissen der Bevölkerung zu gestalten sind; darin eingeschlossen sind die spezifischen Bedürfnisse der Schweizer Fahrenden. Die rund 2500 aktiv reisenden Schweizer Fahrenden sind aufgrund ihrer Lebens- und Wirtschaftsweise auf Stand- und Durchgangsplätze angewiesen.
 
-Der Kanton erstellt gemäss kantonalem Gesetz über den Natur- und Heimatschutz ein Inventar zu:
+Im Bericht des Bundesrats über die Situation der Fahrenden in der Schweiz vom Oktober 2006 ist festgehalten, dass bei der Genehmigung von kantonalen Richtplanungen die Kantone vom Bund ersucht werden, die Raumbedürfnisse der Fahrenden zu berücksichtigen. Im 2015 aktualisierten Standbericht «Fahrende und Raumplanung» sind die räumlichen Bedürfnisse der Fahrenden schweizweit dargestellt. Im Kanton Glarus sind heute keine Stand- oder Durchgangsplätze vorhanden. Für ein ausreichendes Netz von Plätzen wird gemäss Standbericht in der Region Glarus Nord ein fest eingerichteter Durchgangsplatz im Umkreis der Hauptroute der Fahrenden benötigt.
 
-(cid:1) Geschichtlichen Stätten Er arbeitet dabei eng mit den Gemeinden zusammen und hört die Eigentümer der erhaltenswerten Objekte, die kant. Natur- und Heimatschutzkommission sowie die Vereinigung zum Schutz von Natur und Heimat an. Der Kanton überwacht den Schutz, die Erhaltung und Nutzung der geschichtlichen Stätten.
+Durchgangsplätze dienen dem kurzfristigen Aufenthalt von bis zu einem Monat, vor allem während der sommerlichen Reisetätigkeit. Sie sollten mit einer Infrastruktur für die täglichen Bedürfnisse ausgestattet sein. Standplätze dienen dem stationären Aufenthalt, insbesondere im Winter und als ganzjährige Basis.
 
-**Termine / Verfahren**
+B Richtungsweisende Festlegung / Beschluss
 
-### Abstimmungsstand Zuständigkeit
+S7-B/1 Durchgangsplatz im Einzugsbereich der Hauptroute A3
 
-**laufend**
+- Für die Schweizer Fahrenden steht entlang der Hauptroute A3 ein Durchgangsplatz mit angemessener Infrastruktur zur Verfügung.
 
-Festsetzung Departement Bildung und Kultur Diverse Fachstellen
+- Der Kanton Glarus unterstützt die Standortgemeinde bei der Errichtung und dem Betrieb des Durchgangsplatzes.
 
-### Verweis auf massgebliche Grundlagen
+C Handlungsanweisungen
 
-Regierungsrat des Kantons Glarus (1999): Entwicklungspolitisches Leitbild (Massnahme 6.4.4.5) Gesetz über den Natur- und Heimatschutz, 2. Mai 1971 (IV G/1) Natur- und Heimatschutzverordnung, 2. Oktober 1991 (IV G/2)
+S7-C/1
 
-S - 19
+Der Kanton evaluiert in Zusammenarbeit mit der Standortgemeinde sowie den benachbarten Gemeinden und Kantonen bis 2020 mögliche Standorte für Durchgangsplätze im Einzugsbereich der A3.
 
-### V) Verkehr
+Federführung: Dep. Bau und Umwelt, Abt. Raumentwicklung und Geoinformation
 
-### V0 Vorbemerkungen
+S7-C/2
 
-Der Richtplanentwurf „Sachbereich Verkehr“ richtet sich einerseits nach den aktuellen Richtlinien des Bundes und andrerseits nach den Vorgaben des Raumplanungs- und Baugesetzes des Kantons Glarus. Die gesetzlich vorgeschriebene Form des kantonalen Richtplanes, Art. 3.2 Raumplanungs- und Baugesetz, verlangt einen Grundlagenbericht, den Richtplanbericht, Objektblätter sowie kartenmässige Darstellungen.
+Die Gemeinde sichert den/die Standorte in der Nutzungsplanung und stellt die erforderliche Infrastruktur bereit.
 
-Der kantonale Richtplan ist in den Jahren 2003 bis 2005 überarbeitet worden. Er wurde am 27. April 2005 und am 26. April 2006 unter Ausklammerung des Sachbereiches Verkehr vom Landrat verabschiedet.
+Federführung: Gemeinde D Objekte
 
-Vorgehen
+**Standort / Gebiet Bemerkung / Hinweis KS**
 
-Mit Beschluss vom 25. September 2002 hat der Landrat den Regierungsrat beauftragt, ein Mobilitätskonzept auszuarbeiten um damit Wege aufzuzeigen, wie sich das Verkehrssystem auf dem Kantonsgebiet als Ganzes weiterentwickeln soll. Die Gesamtentwicklung soll nachhaltig sein und somit folgenden Kriterien genügen:
+Objekt-Nr. Gemeinde
 
-- Die Massnahmen müssen finanzierbar und wirtschaftlich tragbar sein (wirtschaftliche Effizienz)
+**- Durchgangsplatz entlang der -- Durchgangsroute A3 - Standortevaluation in Koordination mit Nachbargemeinden/-kantonen**
 
-- Die Massnahmen müssen mehrheitsfähig sein (gesellschaftliche Akzeptanz).
+S7.01 Glarus Nord ---
 
-- Die Massnahmen müssen Rücksicht nehmen auf die natürlichen Ressourcen und auf die Umwelt (Umweltverträglichkeit).
+E Erläuterungen / Grundlagen
 
-Das „Mobilitätskonzept Glarnerland“ wurde am 11. April 2006 vom Regierungsrat genehmigt. Es ist entstanden in einer breit abgestützten Zusammenarbeit zwischen Vertretern von Behörden, Regionen, Verbänden und interessierten Bürgerinnen und Bürgern. Die von den Infrastrukturprojekten am stärksten betroffenen Gemeinden wurden in den Prozess direkt miteinbezogen.
+Siehe Erläuterungsbericht
 
-Das „Mobilitätskonzept Glarnerland“ ist die Grundlage für den Richtplan „Sachbereich Verkehr“. Die einzelnen Kapitel und Objektblätter übernehmen die im Mobilitätskonzept umschriebenen Massnahmen. Die Darstellungsform ist den Erfordernissen des bereits bestehenden Richtplans „Siedlung, Natur und Landschaft, Versorgung und Entsorgung“ angepasst worden.
+Grundlagen:
 
-Der Richtplanentwurf „Sachbereich Verkehr“ ist am 20. Juni 2006 vom Regierungsrat genehmigt worden. In der Zeit vom 24.08.06 bis zum 25.09.06 wurde das öffentliche Mitwirkungsverfahren durchgeführt. Den Gemeinden und Regionalplanungsgruppen wurde die Möglichkeit gegeben, sich innert einer 2 1/2 monatigen Frist vernehmen zu lassen. Den Nachbarkantonen stand eine Frist von 1 1/2 Monaten zur Verfügung. Gleichzeitig führte der Bund eine interne Vorprüfung durch. Insgesamt sind neben dem Vorprüfungsbericht des Bundesamtes für Raumentwicklung 77 Stellungnahmen eingegangen. Die Resultate wurden im vorliegenden Dokument eingearbeitet. Der Regierungsrat hat den Richtplan „Sachbereich Verkehr“ am 18. Dezember 2007 erlassen; der Landrat genehmigte diesen an seiner Sitzung vom 23. April 2008.
+- Fahrende und Raumplanung, Standbericht 2015, ERR Raumplaner AG, St. Gallen, Dezember 2016
 
-Rahmenbedingungen
+- Rahmenübereinkommen des Europarates zum Schutz nationaler Minderheiten (SR 0.441.1)
 
-Die Gesamtmobilität ist in den vergangen Jahren trotz wirtschaftlicher und bevölkerungsmässiger Stagnation weiter angestiegen. Negative Folgen sind wachsende Verkehrsimmissionen in den Ge-
+### V Verkehr
 
-V - 1 meinden des Mittellandes und teilweise des Unterlandes. Besonders prekär sind die Verhältnisse in den Gemeinden Glarus, Netstal und Näfels.
+### V1 Gesamtverkehr
 
-Die Engpässe im Strassenverkehr wirken sich besonders negativ auf die wirtschaftliche Entwicklung des Mittel- und insbesondere des Hinterlandes aus, eine Region, die sich in einem tiefgreifenden Strukturwandlungsprozess befindet. Die kantonale Raumentwicklungspolitik hat unter anderem zum Ziel, die Attraktivität des Hinterlandes als Wohn- und Tourismusgebiet, sowie als Industriestandort zu stärken. Insbesondere das Zentrum Schwanden mit seinem bedeutenden Angebot an Arbeitsplätzen soll sich im Wettbewerb der Standorte behaupten können. Von der Verbesserung der Erreichbarkeit wird erwartet, dass sie einen Beitrag zur Umkehr der gesamtwirtschaftlich negativen Entwicklung leisten wird.
+V1.1 Konzept Gesamtverkehr V1.2 Intermodale Schnittstellen
 
-Die mittelfristigen Verkehrsprognosen rechnen mit einem weiteren Anstieg der Mobilität im Gleichschritt mit dem gesamtschweizerischen Durchschnitt. Der Kanton Glarus hat in den letzten 5 Jahren versucht, der Mobilitätszunahme mit dem Ausbau des öffentlichen Verkehrs zu begegnen. Diesem Unterfangen sind allerdings durch die schwierigen Verhältnisse im Strassenverkehr Grenzen gesetzt. Während im Verkehr mit der Agglomeration Zürich neue direkte Bahnverbindungen angeboten werden konnten, leidet der Busverkehr unter den Engpässen im Strassenverkehr.
+### V2 Öffentlicher Verkehr
 
-Zuständigkeiten
+V2.1 Bahnverbindung Ziegelbrücke – Linthal, Rückgrat der
 
-Aus der Sicht der heutigen Aufgabenverteilung sind grundsätzlich 2 Gruppen von Massnahmen zu unterscheiden:
+**ÖV-Erschliessung**
 
-- a) Massnahmen, die durch den Kanton Glarus und durch die Gemeinden selbständig realisiert und finanziert werden können.
+V2.2 Bus-System V2.3
 
-- b) Massnahmen, die im Wesentlichen in den Kompetenzbereich des Bundes fallen. Dazu gehören insbesondere die Umfahrungsstrassen der Gemeinden des Mittellandes und ein Teil der Ausbauten der Bahninfrastruktur.
+**Erschliessung Braunwald**
 
-Inhalt
+### V3 Strassenverkehr
 
-Der Richtplan „Sachbereich Verkehr“ behandelt das Verkehrssystem als Ganzes. So geht es nicht nur um Infrastrukturprojekte und deren Auswirkungen, sondern ebenso um den Betrieb und um den Erhalt der Funktionstüchtigkeit bestehender Anlagen und Systeme. Öffentlicher Verkehr, motorisierter Individualverkehr und Langsamverkehr werden als gleichwertige Glieder der Mobilitätsvorsorge berücksichtigt. Sie können auch sachlich nicht auseinander dividiert werden, da insbesondere der öffentliche Strassenraum von allen Verkehrsträgern genutzt wird.
+### V4 Fuss- und Veloverkehr
 
-### Richtungsweisende Festlegungen
+### V5 Zivilluftfahrt
 
-Grundzüge der Verkehrsordnung 1. Die Massnahmen der Mobilitätsvorsorge haben sowohl als Gesamtpaket als auch als Einzelprojekte den Kriterien der Nachhaltigkeit zu entsprechen. Sie sollen die Ziele der kantonalen Siedlungs- und Raumentwicklungspolitik unterstützen, die Umweltbelastung senken und die Mobilitätsbedürfnisse aller Bevölkerungskreise effizient und mit finanziell tragbarem Aufwand befriedigen.
+V5.1 Flugplatz Mollis V5.2 Gebirgslandeplätze
 
-- 2\. Siedlungsentwicklung und Verkehrsinfrastruktur sind aufeinander abzustimmen. Dies gilt insbesondere auch für den öffentlichen Verkehr.
+### V6 Schifffahrt und Bootsliegeplätze
 
-V - 2
+### V1 Gesamtverkehr
 
-### V1 Massnahmen im öffentlichen Verkehr
+### V1.1 Konzept Gesamtverkehr
 
-### V1-1 Das öffentliche Verkehrsangebot
+A Ausgangslage
 
-Richtplanaufgabe
+Verkehrliche Entwicklungen Das Verkehrsvolumen ist trotz teilweise rückläufiger Bevölkerung im gesamten Kanton angestiegen. Mittelfristige Prognosen rechnen mit einem weiteren Anstieg der Gesamtmobilität. Weitere Frequenzzunahmen sind im nördlichen Hauptsiedlungsraum zu erwarten. Gleichzeitig dürfte auch die Nachfrage von Binnenpendlern zwischen Glarus Süd und dem Hauptsiedlungsraum sowie für Wege mit touristischem Zweck zunehmen.
 
-Die Bahnlinie von Ziegelbrücke bis Linthal ist heute das Rückrat des öffentlichen Verkehrs im Glarnerland. Dieses effiziente, attraktive System mit Eigentrasse soll auch in Zukunft erhalten bleiben und ausgebaut werden. Es funktioniert auch während den Spitzenverkehrszeiten, da es von Stausituationen im Strassenverkehr unabhängig ist. Es hat Potential für Modernisierung und Effizienzsteigerung. An den wichtigen Bahnhöfen Ziegelbrücke, Näfels/Mollis, Glarus und Schwanden wird die Verknüpfung mit dem Busnetz sichergestellt. Das Busnetz ergänzt das Bahnangebot und stellt die Feinverteilung sicher.
+Auf dem Strassennetz sind verschiedentlich die Kapazitäts- und Belastungsgrenzen erreicht, insbesondere im Raum Glarus - Näfels. Die Folgen sind überlastete Strassen, steigende Verkehrsimmissionen und zunehmende Störungen, die zu sinkender Siedlungsqualität und Beeinträchtigungen des motorisierten wie des strassengebundenen öffentlichen Verkehrs führen.
 
-Der öffentliche Verkehr ist wie an andern Orten nicht kostendeckend. Er ist auf Finanzierungsbeiträge der öffentliche Hand angewiesen.
+Betrachtung Gesamtmobilität Das Verkehrssystem wird als Gesamtsystem über alle Verkehrsträger hinweg betrachtet und mit der Siedlungsentwicklung abgestimmt. Motorisierter Individualverkehr (MIV), öffentlicher Verkehr (ÖV) sowie der Fuss- und Veloverkehr werden im Sinne der Verbesserung der Gesamtmobilität weiterentwickelt.
 
-### Richtungsweisende Festlegungen
+Die Verkehrsnachfrage innerhalb und zwischen den Siedlungsräumen wird koordiniert abgewickelt. Der öffentliche Verkehr, der Veloverkehr und die kombinierte Mobilität werden gefördert. Der öffentliche Verkehr kann insbesondere an Lagen mit genügender Nachfrage in einem dichteren Takt und mit schlanken Anschlüssen ausgebaut werden. Neue öffentliche Anlagen sind an bereits gut erschlossenen Lagen zu erstellen oder mit entsprechender Erschliessung auszustatten.
 
-- 1\. Der öffentliche Verkehr wird weiterhin gefördert. Ziel ist es, längerfristig einen grösseren Anteil am Gesamtverkehr mit den Mitteln des öffentlichen Verkehrs abzuwickeln. Im Rahmen der vorgesehen Richtplanmassnahmen wird mit einer Verdoppelung der Fahrgastzahlen im Zeitraum von 10 Jahren gerechnet.
+Lenkung auf die Hauptachsen Der Hauptverkehr aller Verkehrsmodi wird auf den Hauptachsen abgewickelt und dorthin gelenkt. Die Durchgangsstrassen und die Hochleistungsstrassen (Autobahn inkl. Zubringer) definieren die Hauptachse für den MIV. Beim ÖV ist die Hauptachse durch das Bahntrassee Ziegelbrücke - Linthal gegeben. Die Hauptanschlusspunkte an das übergeordnete Verkehrsnetz bilden der Bahnhof Ziegelbrücke (ÖV) sowie die Autobahnanschlüsse Niederurnen, Bilten und Weesen (MIV). Im Bereich Veloverkehr dienen die kantonalen Radrouten Bilten - Linthal und Niederurnen - Mühlehorn als Hauptachsen.
 
-- 2\. Kanton und Gemeinden achten bei der Planung und Realisierung von neuen öffentlichen Bauten und Anlagen auf eine gute Erschliessung mit dem öffentlichen Verkehr.
+Agglomeration Glarus Die Agglomeration Glarus, bestehend aus den beiden Gemeinden Glarus und Glarus Nord, ist seit längerem mit Verkehrsproblemen konfrontiert. Mit den in jüngster Vergangenheit erarbeiteten kommunalen Richtplänen und verschiedenen Inhalten des kantonalen Richtplans 2018 werden Ziele und Massnahmen zu einer abgestimmten Siedlungs- und Verkehrsentwicklung festgehalten. Zur Erarbeitung und Eingabe eines Agglomerationsprogramms fehlen jedoch noch verschiedene Grundlagen, so u.a. Vorprojekte mit Zweckmässigkeits- und Machbarkeitsbeurteilungen sowie Kosten-Nutzenschätzungen zu einzelnen Vorhaben. B
 
-V - 3
+**Richtungsweisende Festlegungen / Beschluss**
 
-### V1-2 Die Bahnlinie von Ziegelbrücke bis Linthal bleibt das Rückgrat des öffentlichen Verkehrs
+V1.1-B/1 Nachhaltigkeit im Verkehr
 
-Richtplanaufgabe
+- Siedlungsentwicklung und Verkehrsinfrastruktur sind aufeinander abzustimmen. Die Massnahmen der Mobilitätsvorsorge unterstützen die Ziele der kantonalen Siedlungs- und Raumentwicklungspolitik, senken die Umweltbelastung und befriedigen die Mobilitätsbedürfnisse aller Bevölkerungskreise effizient und mit finanziell tragbarem Aufwand. Dadurch werden die Anforderungen bezüglich Nachhaltigkeit erfüllt.
 
-Die Verbindung nach Zürich als wichtiger Arbeitsort und als Wirtschaftszentrum soll weiter verbessert werden. Dadurch steigt die Attraktivität des Kantonsgebietes als Wohnort und nahes Erholungsgebiet der städtischen Agglomeration Zürich. Der Kanton Glarus braucht eine möglichst schnelle und umsteigefreie Zugverbindung nach Zürich Hauptbahnhof.
+V1.1-B/2 Funktionsfähigkeit der Hauptachsen
 
-Problemstellung / Ausgangslage
+- Der Hauptverkehr aller Verkehrsmodi wird auf den entsprechenden Hauptachsen abgewickelt und dorthin gelenkt.
 
-Der neue „GlarnerSprinter“ mit einem 2-Stundentakt ist ein erster Schritt zu einer zukunftsgerichteten Bahn. Die Züge verkehren ab Zürich Hauptbahnhof bis nach Schwanden; am Wochenende je 2 Mal am Morgen und am Abend bis Linthal. Die Reisezeit beträgt im Moment 68 Minuten für Schwanden – Zürich und 57 Minuten für Glarus – Zürich.
+- Kanton und Gemeinden sichern einen guten Verkehrsablauf auf den Hauptachsen des MIV. Ausweichverkehr durch Wohnquartiere ist zu vermeiden.
 
-In den Zwischenzeiten stellt ein Regionalzug die Verbindung zum Knoten Ziegelbrücke her. Dadurch entsteht ein unvollständiger (hinkender) Halbstundentakt.
+- Die Bahnlinie Ziegelbrücke-Linthal dient als Rückgrat der ÖV-Erschliessung. Der öffentliche Verkehr ist zu beschleunigen.
 
-V - 4
+- Die kantonalen Radrouten von Bilten bis Linthal sowie von Niederurnen nach Mühlehorn bilden die Hauptachsen des Veloverkehrs.
 
-V - 5 Die Option für eine stündliche Führung des „GlarnerSprinter“ wird weiter verfolgt, hängt aber in erster Linie von der Verfügbarkeit der entsprechenden Kapazität im Bahnhof Zürich und auf der linksufrigen Zürichseelinie ab.
+**Handlungsanweisungen**
 
-Die heutigen Zugskompositionen werden durch neues modernes Rollmaterial ersetzt.
+C
 
-Die Verbesserung der Verbindungen in die umliegenden Wirtschaftszentren wie Lachen, Rapperswil-Jona, St. Gallen und Chur wird mit der Optimierung der Fahrplankoordination in Ziegelbrücke weiter verfolgt.
+V1.1-C/1
 
-Die Bahnanlagen werden im Rahmen des laufenden Unterhaltes durch die Eigentümerin der Anlagen erneuert. Für die geplante Angebotsverdichtung sind möglicherweise Ausbauten der Bahninfrastruktur notwendig.
+Der Kanton und die Gemeinden verfolgen Massnahmen, welche die gesetzten Ziele mit möglichst geringem Ressourceneinsatz erreichen. Die Zielerreichung und Wirkungen sowie Kosten von geplanten Vorhaben werden mit einem Bewertungsverfahren evaluiert und im Sinne der Nachhaltigkeit optimiert. Federführung: Massnahmen in kantonaler Zuständigkeit: Dep. Bau und Umwelt; Massnahmen in Gemeindezuständigkeit: Gemeinde
 
-### Richtungsweisende Festlegungen
+**Vgl. Kapitel R**
 
-- 1\. Das Bahnangebot wird gezielt verbessert.
+V1.1-C/2
 
-- 2\. Das Konzept „GlarnerSprinter“ wird erweitert und sobald wie möglich auf einen Stundentakt ausgebaut.
+Der Kanton und die Gemeinden sichern eine ausreichende Erschliessung des Siedlungsraumes. Insbesondere verkehrserzeugende Bauten und Anlagen sind nur noch an Orten zugelassen, die mit allen Verkehrsträgern gut erschlossen sind, oder die Erschliessung ist als Bestandteil des Projektes zu gewährleisten. Federführung: Massnahmen in kantonaler Zuständigkeit: Dep. Bau und Umwelt; Massnahmen in Gemeindezuständigkeit: Gemeinde
 
-- 3\. Das Zugsangebot des „GlarnerSprinter“ wird ergänzt durch Regionalzüge. Ziel ist ein integraler Halbstundentakt (incl. „GlarnerSprinter“) mit schlanken Anschlüssen in Ziegelbrücke.
+V1.1-C/3
 
-**Nr. V1-2/1**
+Der Kanton sowie die Gemeinden Glarus und Glarus Nord schaffen die Grundlagen zur Erarbeitung eines Agglomerationsprogramms und prüfen eine Einreichung beim Bund. Federführung: Massnahmen in kantonaler Zuständigkeit: Dep. Bau und Umwelt; Massnahmen in Gemeindezuständigkeit: Gemeinde D Objekte
 
-### Abstimmungsanweisung
+**Standort / Gebiet Bemerkung / Hinweis KS**
 
-Im Sinne einer direkten Verbindung zum Wirtschaftsraum Zürich wird die umsteigefreie Bahnverbindung nach Zürich Hauptbahnhof gefördert. In Ziegelbrücke, Näfels/Mollis, Glarus und Schwanden wird der Busfahrplan mit demjenigen der Bahn koordiniert.
+Objekt-Nr. Gemeinde
 
-**Termine / Verfahren**
+**Bahnhof Ziegelbrü- Bestehender Hauptanschlusspunkt an FS cke das übergeordnete ÖV-Netz.**
 
-### Abstimmungsstand Zuständigkeit
+V1.1.01 Schänis
 
-**Kontinuierliche Aufgabe**
+**Bestehender Hauptanschlusspunkt an FS**
 
-Zwischenergebnis Departement Bau und Umwelt, Fachstelle öffentlicher Verkehr
+V1.1.02 Glarus Nord Autobahnan-
 
-**Nr. V1-2/2**
+**schluss Niederur- das nationale Hochleistungsnetz (Aunen tobahn)**
 
-### Abstimmungsanweisung
+**Bestehender Hauptanschlusspunkt an FS**
 
-Das Angebot auf der Schiene wird durch Regionalzüge ergänzt. Ziel ist ein integraler Halbstundentakt auf der Linie Ziegelbrücke – Schwanden mit „schlanken“ Anschlüssen an den Regional- und Fernverkehr in Ziegelbrücke.
+V1.1.03 Glarus Nord Autobahnan-
 
-**Termine / Verfahren**
+**schluss Bilten das nationale Hochleistungsnetz (Au-**
 
-### Abstimmungsstand Zuständigkeit
+**tobahn) Bestehender Hauptanschlusspunkt an FS**
 
-**Kontinuierliche Aufgabe**
+**schluss Weesen das nationale Hochleistungsnetz (Au-**
 
-Zwischenergebnis Departement Bau und Umwelt, Fachstelle öffentlicher Verkehr
+V1.1.04 Glarus Nord Autobahnan-
 
-**Nr. V1-2/3**
+**tobahn)**
 
-### Abstimmungsanweisung
+E Erläuterungen / Grundlagen
 
-Der Kanton Graubünden und insbesondere die Region Zürichsee-Linth bemühen sich um eine Verbesserung der direkten Bahnverbindung von Ziegelbrücke nach Kloten-Flughafen. Der Kanton Glarus unterstützt die entsprechenden Bestrebungen.
+Siehe Erläuterungsbericht
 
-**Termine / Verfahren**
+Grundlagen:
 
-### Abstimmungsstand Zuständigkeit
+- Strassenbauprogramm 2010 – 2019, Kanton Glarus
 
-**Kontinuierliche Aufgabe**
+- Konzept öffentlicher Verkehr 2014; Kanton Glarus; Departement Bau und Umwelt
 
-Zwischenergebnis Departement Bau und Umwelt, Fachstelle öffentlicher Verkehr
+- Mobilitätskonzept Glarnerland, Kanton Glarus; Baudirektion (2006)
 
-V - 6
+### V1.2 Intermodale Schnittstellen
 
-### V1-3 Kontinuierliche Optimierung des Bus-Systems
+A Ausgangslage
 
-Richtplanaufgabe
+Intermodale Schnittstellen sind Umsteigeknoten, Haltestellen von Bus und Bahn sowie Parkierungsanlagen für Autos und Fahrräder. Die Anforderungen an die öffentlichen Räume sind aufgrund der hohen Verkehrsaufkommen in allen Verkehrsmodi hoch. Im Vordergrund steht nicht unbedingt die Vergrösserung der Verkehrsflächen, sondern vielmehr eine ansprechende Gestaltung des öffentlichen Raums und eine gleichberechtigte Erfüllung der Bedürfnisse aller Verkehrsteilnehmer.
 
-Die Optimierung des Bussystems, d.h. die Anpassung von Angebot und Nachfrage ist eine Daueraufgabe. Im Vordergrund steht die Anbindung der Bussysteme an möglichst alle Züge. Die Verknüpfungen von Bahn und Bus an den Umsteigeknoten Ziegelbrücke, Näfels/Mollis, Glarus und Schwanden haben Priorität.
+Park + Ride / Bike + Ride Aufgrund der Lage der Bahnlinie und den relativ kurzen Distanzen zwischen Siedlungsgebieten und Bahnhaltestellen haben Bike+Ride (B+R) - Anlagen ein grosses Potenzial. Nahezu alle Bahnhöfe eignen sich für kleinere Anlagen, mit welchen die Siedlungsgebiete im Umkreis von bis zu 5 km mit dem Velo erschlossen werden können. Periphere Orte können mit strategisch gut gelegenen Park+Ride (P+R) - Anlagen an das Bahnnetz angebunden werden. P+R- sowie B+R - Anlagen werden jedoch nur benutzt, wenn die Umsteigewege kurz und attraktiv sind. Bei Abstellanlagen für Fahrräder sind zudem ein Witterungsschutz und die Diebstahlsicherheit wichtig. Mit einem P+R Konzept sollen die Potenziale abgeschätzt und strategisch sinnvolle Anlagen unterstützt werden.
 
-Problemstellung / Ausgangslage
+Multimodale Umsteigepunkte Die Bahnhöfe Näfels-Mollis, Glarus, Schwanden und der ausserkantonale Bahnhof Ziegelbrücke sind als multimodale Umsteigepunkte weiter auszubauen. Die Bahnhöfe mit Anschluss an das Busnetz, P+R - Anlagen sowie Velostationen und guter fussläufiger Anbindung an umliegende Siedlungsgebiete haben hohe Potenziale für verdichtetes Bauen und die Umlagerung von Verkehrswegen auf den öffentlichen Verkehr sowie den Fuss- und Veloverkehr.
 
-Der Ausbau des Busangebotes der letzen Jahre hat in der Bevölkerung eine positive Aufnahme gefunden. So haben z.B. die Fahrgastzahlen auf den Unterland Buslinien in den vergangen 3 Jahren um mehr als 30% zugenommen.
+Zur Attraktivitätssteigerung und Förderung des öffentlichen und des Veloverkehrs ist an diesen Hauptknotenpunkten ein ansprechendes Dienstleistungsangebot anzustreben (z.B. Tourismus-Information, Reisezentrum, Ladengeschäfte, Gastronomie und weitere Dienstleistungen). Ziel ist es, attraktive Siedlungsräume zu schaffen, die als Verkehrsdrehscheiben funktionieren und ein Nebeneinander aller Verkehrsteilnehmer erlauben. Durch die Umsteigebeziehungen im öffentlichen Verkehr, P+R, Velostationen und verdichtetes Bauen werden die Frequenzen erhöht und Potenziale für entsprechende zentrumsorientierte oder öffentliche Nutzungen geschaffen. In der näheren Umgebung der ÖV-Hauptknoten sind gezielt Dienstleistungs- oder Versorgungsangebote anzusiedeln, um den Siedlungsraum um die Bahnhöfe weiter zu stärken und zu beleben.
 
-Die Optimierung der Transportkette führt zu kürzeren Reisezeiten und damit zur Erhöhung der Attraktivität des öffentlichen Verkehrs im Vergleich zum motorisierten Individualverkehr. Der Anteil des öffentlichen Verkehrs am Gesamtverkehr nimmt zu.
+B Richtungsweisende Festlegungen / Beschluss
 
-### Richtungsweisende Festlegungen
+V1.2-B/1 Multimodale Umsteigepunkte - Die Bahnhöfe Ziegelbrücke, Näfels-Mollis, Glarus und Schwanden werden als multimodale Umsteigepunkte weiterentwickelt. Weitere Verbesserungen der Angebotsqualität im ÖV sowie im Fuss- und Veloverkehr werden angestrebt. Die Umsteigeverhältnisse werden wo nötig verbessert.
 
-- 1\. Das Busangebot wird gezielt ausgebaut.
+V1.2-B/2 Park + Ride - An strategisch gut gelegenen Orten werden Park + Ride- und Bike + Ride-Angebote
 
-- 2\. Ziel ist ein Angebot mit Anschlüssen an alle Züge, sofern die Nachfrage besteht.
+erstellt. C
 
-**Nr. V1-3/1**
+**Handlungsanweisungen**
 
-### Abstimmungsanweisung
+V1.2-C/1
 
-Der Kanton und die Gemeinden verfolgen die Optimierung der Erschliessung des Siedlungsraumes mit dem Busverkehr.
+Die Standortgemeinden schaffen im Rahmen ihrer Ortsplanung den planerischen Rahmen, um die Bahnhöfe Näfels-Mollis, Glarus und Schwanden als zentrale Ankunftsorte zu multimodalen Umsteigepunkten, die mit allen Verkehrsträgern gut erschlossen sind, ausbauen zu können. Federführung: Gemeinde
 
-**Termine / Verfahren**
+V1.2-C/2
 
-### Abstimmungsstand Zuständigkeit
+Die Gemeinden erarbeiten Park+Ride - Konzepte zur Erstellung bzw. zum Ausbau von strategisch gut gelegenen Park+Ride - Angeboten. Im Konzept zu behandeln sind namentlich auch Abstellanlagen für Fahrräder bei den Bahnhöfen. Federführung: Gemeinde
 
-**Laufende Aufgabe**
+**Objekte**
 
-Zwischenergebnis Departement Bau und Umwelt, Fachstelle öffentlicher Verkehr; Gemeinden
+D
 
-V - 7
+**Gemeinde Standort / Gebiet Bemerkung / Hinweis KS**
 
-### V1-4 Massvoller Ausbau des öffentlichen Verkehrs in den Randstunden und an den Wochenenden
+Objekt-Nr.
 
-Richtplanaufgabe
+**Schänis SG Bahnhof Ziegel- Multimodaler Umsteigepunkt, Ver- FS**
 
-Auch während den Zeiten mit kleiner Verkehrsnachfrage soll ein Fahren ohne eigenes Auto möglich sein. Damit wird erreicht, dass alle Bevölkerungsteile Zugang zu einer besseren Mobilität erhalten und der Zwang zum Betrieb eines privaten Autos entfällt.
+**brücke knüpfung von Bus- und Bahnnetz (be-**
 
-Das ÖV-Angebot an Wochenenden und in den Randstunden wird entsprechend den punktuellen Bedürfnissen ausgebaut (z.B. Nachtbus an Wochenenden). Für Rand- und Nachtstunden stehen grundsätzlich auch private Angebote zur Verfügung.
+V1.2.01
 
-Für weitere Angebote wie Sammeltaxi oder alternative Konzepte werden die gesetzlichen Rahmenbedingungen geschaffen, soweit dies notwendig ist. Die Zusammenarbeit mit privaten Anbietern wird in einem Konzept umschrieben. Darin ist die Koordination der Angebote und allenfalls eine finanzielle Abgeltung durch die öffentliche Hand zu regeln.
+**stehend)**
 
-Problemstellung / Ausgangslage
+**Glarus Nord Bahnhof Näfels- Multimodaler Umsteigepunkt, Verknüp- FS**
 
-Der Erschliessung des ländlichen Siedlungsraumes durch den öffentlichen Verkehr sind wegen der beschränkten Nachfrage an Wochenenden und in den Abendstunden Grenzen gesetzt. Aus Kosten- und Effizienzgründen kann kein dichtes Fahrplanangebot geschaffen werden.
+**Mollis fung von Bus- und Bahnnetz, Erstel-**
 
-An sich besteht schon heute eine Möglichkeit, die durch die privaten Taxihalter angeboten wird. Auf dieser privaten Dienstleistung kann aufgebaut werden.
+V1.2.02
 
-### Richtungsweisende Festlegungen
+**lung Park+Ride sowie Bike+Ride**
 
-- 1\. Das ÖV-Angebot an Wochenenden und in den Randstunden wird entsprechend den Bedürfnissen punktuell ausgebaut.
+**Glarus Bahnhof Glarus Multimodaler Umsteigepunkt, Verknüp- FS**
 
-- 2\. Für Rand- und Nachtstunden stehen auch private Taxi - Anbieter zur Verfügung.
+**fung von Bus- und Bahnnetz, Erstellung Park+Ride sowie Bike+Ride**
 
-**Nr. V1-4/1**
+V1.2.03
 
-### Abstimmungsanweisung
+**Glarus Süd Bahnhof Schwan- Multimodaler Umsteigepunkt, Ver- FS**
 
-Für die Randstunden und den Wochenendverkehr werden angepasste Lösungen gesucht.
+**den knüpfung von Bus- und Bahnnetz, Er-**
 
-**Termine / Verfahren**
+V1.2.04
 
-### Abstimmungsstand Zuständigkeit
+**stellung Park+Ride sowie Bike+Ride**
 
-**Konzeptentwurf 2008 Realisierung möglich bis 2009**
+**Glarus Süd Bahnhof Mitlödi Park+Ride - Angebot ZE Glarus Süd Bahnhof Nidfurn- ZE**
 
-Zwischenergebnis Departement Bau und Umwelt, Fachstelle öffentlicher Verkehr; Gemeinden
+V1.2.05 V1.2.06
 
-V - 8
+**Park+Ride - Angebot**
 
-### V2 Strasseninfrastruktur
+**Haslen**
 
-### V2-1 Umfahrungsstrassen von Näfels, Netstal und Glarus
+**Glarus Süd Bahnhof Luchsin- ZE**
 
-Richtplanaufgabe
+**Park+Ride - Angebot**
 
-Die Umfahrungsstrassen von Näfels, Netstal und Glarus entlasten die Siedlungsgebiete der drei Gemeinden vom Durchgangsverkehr und verbinden das Hinterland mit der Nationalstrasse A3. Der Entscheid der Landsgemeinde vom 7. Mai 2007 resp. vom 25. November 2007, dem Kanton mit der Schaffung von 3 Einheitsgemeinden eine neue Struktur zu geben, ist ein Ausdruck des Willens, die schwierigen demografischen und wirtschaftlichen Gegebenheiten zu durchbrechen. Die kantonale Raumentwicklungspolitik hat unter anderem zum Ziel, die Attraktivität des Hinterlandes als Wohn- und Tourismusgebiet sowie als Industriestandort zu stärken. Insbesondere das Zentrum Schwanden mit seinem bedeutenden Angebot an Arbeitsplätzen soll sich im Wettbewerb der Standorte behaupten können. Neben dem aus Sicht der Erreichbarkeit bevorzugten Unterland sollen mit dem Hinter- und Mittelland auch inskünftig zwei weitere gleichwertige Einheiten bestehen bleiben.
+**gen-Hätzingen**
 
-Problemstellung / Ausgangslage
+V1.2.07
 
-Die Verkehrsbelastungen in den Siedlungsgebieten von Näfels, Netstal und Glarus haben Werte erreicht, die zu grossen Immissionen in den Ortszentren und zu Behinderungen des Verkehrsablaufes führen. Die Planung von Umfahrungsstrassen hat eine lange Geschichte. Die nun vorgeschlagene Linienführung versucht ein Optimum zwischen Entlastung, direkten Verbindungen und minimalen Eingriffen in die Siedlung und Umwelt herzustellen.
+**Glarus Süd Bahnhof Linthal- ZE**
 
-Gemäss Entwurf des Sachplanes Verkehr des Bundes wird die Verbindung von der A3 bis zum Kantonshauptort Glarus zur Nationalstrasse. Der entsprechende Netzbeschluss des eidgenössischen Parlamentes wird im Jahre 2009 erwartet.
+**Park+Ride - Angebot**
 
-Im Laufe der Voruntersuchungen zum Richtplan sind eine Reihe von möglichen Trassierungsvarianten untersucht worden. Auf die Einzelheiten dazu wird in den folgenden Kapiteln eingegangen. Die Voruntersuchungen in Zusammenarbeit mit den betroffenen Gemeinden führen zu einer Lösung mittels einer Linienführung im Westen der Siedlungsgebiete.
+**Braunwaldbahn**
 
-### Richtungsweisende Festlegungen
+V1.2.08
 
-- 1\. Die Siedlungsgebiete von Näfels, Netstal und Glarus werden neu im Westen umfahren.
+**Glarus Süd Bahnhof Linthal Park+Ride - Angebot ZE**
 
-- 2\. Planung, Bau und Unterhalt der Ortsumfahrungen ist gemäss neuer Aufgabenverteilung zwischen Bund und Kantonen Bundessache, sofern sie ins Nationalstrassennetz aufgenommen werden. Die Abgrenzung der zukünftigen Nationalstrasse gegenüber der Kantonsstrasse wird im Rahmen des noch ausstehenden Netzbeschlusses des eidgenössischen Parlamentes festgelegt.
+V1.2.09
 
-V - 9
+**Erläuterungen / Grundlagen**
 
-### Näfels
+E
 
-### Netstal
+Grundlagen:
 
-### Glarus
+- Mobilitätskonzept Glarnerland, Kanton Glarus; Baudirektion (2006)
 
-### Beilage 2:
+### V2 Öffentlicher Verkehr V2.1 Bahnverbindung Ziegelbrücke - Linthal, Rückgrat der ÖV-Erschliessung
 
-Umfahrungsstrassen Näfels, Netstal, Glarus
+A Ausgangslage
 
-V - 10
+Die Bahnstrecke Ziegelbrücke - Linthal ist das Rückgrat der ÖV-Erschliessung. Das Busangebot sowie die Standseilbahn Braunwald ergänzen das Bahnangebot und verbinden die Siedlungen mit dem Bahnnetz.
 
-### V2-2 Entlastung des Dorfzentrums Näfels
+Die Anforderungen an den öffentlichen Verkehr im Kanton sind von unterschiedlichen Nutzergruppen geprägt. In den Gemeinden Glarus und Glarus Nord wird aufgrund der Siedlungsstruktur, der Dichte und von wirtschaftlichen Faktoren ein dichtes Angebot mit guten Anschlüssen auf das übergeordnete Netz nachgefragt. Für Glarus Süd sind nebst der Anbindung an den Hauptanschlusspunkt Ziegelbrücke auch die gute Erreichbarkeit aus touristischer Sicht und die Erreichbarkeit der Ortschaften bedeutend. Der öffentliche Verkehr ist ein wichtiger Faktor für die innere Vernetzung zwischen den einzelnen Ortschaften des Kantons.
 
-Richtplanaufgabe
+Mit der Kombination einer schnellen Verbindung nach Zürich, der Beschleunigung der Bahn innerhalb des Kantons und der Gewährleistung aller Anschlüsse am Taktknoten Ziegelbrücke wird eine Verlagerung von Verkehrsaufkommen auf die Bahn unterstützt.
 
-Das Siedlungsgebiet von Näfels wird in einem 2-spurigen Tunnel umfahren.
+Ausrichtung auf den Taktknoten Ziegelbrücke Im Rahmen des Konzepts öffentlicher Verkehr 2014 wird das bestehende ÖV-Angebot gesamtheitlich evaluiert und ein Konzept zur gesamtheitlichen Verbesserung des ÖV-Systems vorangebracht. Ziel sind nachfragegerechte Verbesserungen im ÖV-System innerhalb des Kantons sowie gute überregionale Anschlüsse am Bahnknoten Ziegelbrücke.
 
-Das Umfahrungsstrassen-Projekt wird begleitet von der Umgestaltung, resp. vom Rückbau der Kantonsstrasse in Näfels. Besondere Chancen ergeben sich durch eine neue Platzgestaltung im historisch wertvollen Ortszentrum beim Freulerpalast.
+Der Bahnhof Ziegelbrücke ist der Anschlusspunkt des Kantons an die interregionalen und nationalen Verbindungen. Der ÖV-Fahrplan orientiert sich an diesem Knotenpunkt und stellt in Ziegelbrücke Anschlüsse in alle Richtungen sicher. Die Optimierung dieser Anschlüsse in Ziegelbrücke ist ein wichtiger Inhalt des Raumkonzepts.
 
-Integrierender Bestandteil des Projektes „Umfahrung“ ist die Verbindungsstrasse zwischen A3-Zubringer und Kerenzerbergstrasse. Die Strasse kann oberirdisch erstellt werden und ersetzt zum Teil bestehende untergeordnete Erschliessungsstrassen.
+Verknüpfung Bus- und Bahnnetz An den Bahnhöfen Ziegelbrücke, Näfels-Mollis, Glarus, Schwanden und Linthal wird die Verknüpfung mit dem Busnetz sichergestellt. Die multimodalen Umsteigeknoten dienen dabei als Hauptknoten des öffentlichen Verkehrs. Das Busnetz ergänzt das Bahnangebot und stellt die Feinverteilung sicher. Das Ziel sind integrale Taktfahrpläne auf allen Achsen mit schlanken Anschlüssen bei den multimodalen Umsteigepunkten und im Bahnhof Ziegelbrücke.
 
-Problemstellung / Ausgangslage
+Beschleunigung Bahnverkehr Wegen einer fehlenden Kreuzungsstelle zwischen Schwanden und Linthal müssen gegenwärtig in Schwanden die Gegenzüge abgewartet werden, was unattraktive Wartezeiten zur Folge hat. Die Behebung dieses infrastrukturellen Engpasses ist eine Voraussetzung, um die Verbindung nach Süden bis Linthal gesamthaft attraktiver zu machen und Glarus Süd besser an den Knoten Ziegelbrücke anzubinden. Weitere Verbesserungen sind ebenfalls zu prüfen.
 
-Das Dorfzentrum von Näfels zählt zu den am stärksten von Verkehrsimmissionen belasteten Siedlungsgebieten des Kantons. Der historisch wertvolle Kern (Ortsbild von nationaler Bedeutung) ist heute stark beeinträchtigt.
+B Richtungsweisende Festlegungen / Beschluss
 
-Die angestrebte Entlastung des Dorfzentrums und des Bahnhofgebietes erfordert 2 Massnahmen: Die Anbindung der Kerenzerbergstrasse direkt an den A3-Zubringer und die Umfahrung des Siedlungsgebietes in Nord-Südrichtung.
+V2.1-B/1 Rückgrat öffentlicher Verkehr
 
-Im Rahmen der Vorabklärungen wurden 3 Linienführungsvarianten im Detail untersucht:
+- Die Bahnstrecke Ziegelbrücke - Linthal bildet das Rückgrat der ÖV-Erschliessung im Kanton Glarus. Der Kanton verfolgt die Beschleunigung und die Systematisierung (starre Taktfolge) der Verbindungen zwischen Ziegelbrücke und Linthal sowie attraktive Verbindungen an überregionale Zentren.
 
-- Variante Ost, entlang dem linken Linthufer
+V2.1-B/2 Knoten Ziegelbrücke
 
-- Variante Ost, im Tunnel östlich von Mollis
+- Im Bahnhof Ziegelbrücke werden die Anschlüsse aus dem Kanton Glarus an die überregionalen Verbindungen im öffentlichen Verkehr sichergestellt. Das öffentliche Verkehrssystem ist auf den Taktknoten Ziegelbrücke ausgerichtet. Es werden schnelle Verbindungen von den Bahnhöfen Schwanden, Glarus und Näfels-Mollis nach Ziegelbrücke mit schlanken Anschlüssen auf den Fernverkehr in alle Richtungen angestrebt.
 
-- Variante West mit Niederbergtunnel
+V2.1-B/3 Abstimmung Bahn – Bus
 
-Gegen die Variante Ost entlang der Linth sprechen vor allem bautechnische, hydrogeologische und Gewässerschutzgründe. Das Bauwerk liegt zum grössten Teil im Grundwasser führenden Lockergestein. Der Bau eines Tunnels im Linthdamm erfordert umfangreiche Hochwasserschutzmassnahmen und entsprechende bauliche Eingriffe in das Linthufer. Ein Projekt entlang der Linth ist aus heutiger Sicht nicht bewilligungsfähig.
+- An den Bahnhöfen Ziegelbrücke, Näfels-Mollis, Glarus und Schwanden wird der Busfahrplan mit demjenigen der Bahn koordiniert. Das Ziel sind effiziente Reiseketten mit schlanken Anschlüssen.
 
-Die Linienführung im Tunnel östlich von Mollis bedingt lange Tunnelbauten und verlängerte Verkehrswege. Die Lage der Anschlusspunkte auf dem Gebiete der Gemeinde Mollis ist sowohl aus raumplanerischer als auch aus verkehrstechnischer Sicht ungünstig. Ein Anschlussbauwerk im Siedlungsgebiet von Mollis steht nicht zur Diskussion. Ein Anschlussbauwerk am Ende der Pistenanlagen führt zu Konflikten mit den Nutzungsplänen für den Flugplatz.
+V2.1-B/4 Öffentliche Bauten und Anlagen
 
-Die Variante „West“ wird beim Knoten Lintharena/SGU an den bestehenden A3-Zubringer angeschlossen. Von hier wird auf kürzestem Wege der Niederberg erreicht. Das Trasse sinkt aus Lärmschutzgründen ab, ohne aber den Grundwasserstrom abzuschneiden. Der grösste Teil des Tunnelbauwerkes liegt im karstigen Kalkgestein des Niederberges. Obwohl der Tankgraben schon heute eine Zäsur im Talboden darstellt und durch die Strasse keine neuen Siedlungsräume durchschnitten werden, stellt die gestalterische Eingliederung ins Landschaftsbild hohe Anforderungen.
+- Kanton und Gemeinden richten ihre Standortkonzepte für öffentliche Einrichtungen und ihre Planung von neuen öffentlichen Bauten und Anlagen auf eine gute Erschliessung mit dem öffentlichen Verkehr aus.
 
-V - 11
+C Handlungsanweisungen
 
-### Richtungsweisende Festlegungen
+V2.1-C/1
 
-- 1\. Das Siedlungsgebiet von Näfels wird in einem 2-spurigen Tunnelbauwerk umfahren.
+Der Kanton verfolgt die Beschleunigung der Bahnverbindungen zwischen Ziegelbrücke und Linthal und setzt sich für die Erstellung einer Kreuzungsstelle im Grosstal ein. Federführung: Dep. Bau und Umwelt, Fachstelle öffentlicher Verkehr
 
-- 2\. Die heutige Kantonsstrasse wird umgebaut und für den Langsamverkehr attraktiv gestaltet.
+V2.1-C/2
 
-- 3\. Die Verbindung nach Mollis und zum Industriegebiet von Näfels wird über eine oberirdische Strasse zwischen A3-Zubringer und Kerenzerbergstrasse hergestellt.
+Der Kanton setzt sich dafür ein, dass der Doppelspurausbau zwischen Mühlehorn und Tiefenwinkel als Ausbauvorhaben in den Sachplan Verkehr, Teil Infrastruktur Schiene, aufgenommen wird.
 
-**Nr. V2-2/1**
+Federführung: Dep. Bau und Umwelt
 
-### Abstimmungsanweisung
+V2.1-C/3 Öffentliche Bauten und Anlagen
 
-Der Kanton initiiert die Zweckmässigkeitsprüfung der Umfahrungsstrasse in Zusammenarbeit mit den zuständigen Organen des Bundes. Gestützt auf die Ergebnisse beantragt der Kanton die Bearbeitung des Generellen Strassenprojektes.
+Der Kanton und die Gemeinden sichern bei der Planung von neuen öffentlichen Bauten und Anlagen die entsprechende Erschliessung mit dem öffentlichen Verkehr. Federführung: Dep. Bau und Umwelt bzw. Gemeinde D Objekte
 
-**Termine / Verfahren**
+**Gemeinde Standort / Gebiet Bemerkung / Hinweis KS**
 
-### Abstimmungsstand Zuständigkeit
+Objekt-Nr.
 
-Zwischenergebnis Departement Bau und Umwelt, Hauptabteilung 2007/08 Zweckmässigkeitsprüfung Tiefbau;
+**Glarus Nord; Gla- Bahnstrecke Zie- FS**
 
-Bundesamt für Strassen
+**Rückgrat der öV-Erschliessung**
 
-**2009 Netzbeschluss**
+**rus; gelbrücke - Linthal**
 
-Vororientierung Eidgenössisches Parlament
+V2.1.01
 
-**2010/11 Nutzungsplanrevision**
+**im Kanton Glarus**
 
-Vororientierung Gemeinde Näfels
+**Glarus Süd Glarus Süd Grosstal Erstellen einer Kreuzungsstelle ZE**
 
-Vororientierung Departement Bau und Umwelt, Hauptabteilung 2010/11 Generelles Projekt Tiefbau;
+**Bahnverkehr**
 
-Bundesamt für Strassen;
+V2.1.02
 
-Bundesrat
+**Glarus Nord Mühlehorn - Tie- VO**
 
-**Nr. V2-2/2**
+**Doppelspurausbau**
 
-### Abstimmungsanweisung
+**fenwinkel**
 
-Der Kanton erarbeitet zusammen mit der Gemeinde ein Projekt zur Verkehrsberuhigung der Kantonsstrasse in Näfels.
+V2.1.03
 
-**Termine / Verfahren**
+E Erläuterungen / Grundlagen
 
-### Abstimmungsstand Zuständigkeit
+Grundlagen:
 
-Vororientierung Departement Bau und Umwelt, Hauptabteilung Vorprojekt, terminlich koordiniert Tiefbau;
+- Sachplan Verkehr, Teil Infrastruktur Schiene; Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation
 
-**mit Projekt Umfahrungsstrasse**
+- Konzept öffentlicher Verkehr 2014; Kanton Glarus; Dep. Bau und Umwelt
 
-Gemeinde Näfels
+### V2.2 Bus-System
 
-**Nr. V2-2/3**
+A Ausgangslage
 
-### Abstimmungsanweisung
+Die Erschliessung im öffentlichen Verkehr durch die Bahn wird mit dem Bussystem ergänzt. Im Vordergrund steht die nachfragegerechte und effiziente Erschliessung aller Ortschaften. Die Optimierung der Transportkette und damit kürzere Reisezeiten erhöhen die Attraktivität des öffentlichen Verkehrs gegenüber dem motorisierten Individualverkehr. Der Anteil des öffentlichen Verkehrs nimmt dadurch zu.
 
-Der Kanton erarbeitet ein Projekt zur Verbindungsstrasse A3-Kerenzerbergstrasse zu Handen der Landsgemeinde. Die Gemeinde legt den Planungsperimeter im Nutzungsplan fest.
+Optimierung Busangebot Im Rahmen des Konzepts öffentlicher Verkehr aus dem Jahr 2014 wird das Bussystem evaluiert. Heute wird das Bussystem an den Bahnhöfen Näfels-Mollis, Glarus und Schwanden sowie am Bahnhof Ziegelbrücke mit dem Bahnverkehr verknüpft.
 
-**Termine / Verfahren**
+Die Attraktivität des öffentlichen Verkehrs wird nach Möglichkeit durch integrale Taktfahrpläne, schlanke Anschlüsse und schnelle Verbindungen erhöht. Die Ausrichtung am Taktknoten Ziegelbrücke und an den multimodalen Umsteigepunkten sowie die Forderung nach einem nachfrageorientierten Ausbau erfordert möglicherweise Anpassungen im Fahrplan, die im Rahmen der Überprüfung des Konzepts öffentlicher Verkehr erfolgen.
 
-### Abstimmungsstand Zuständigkeit
+Touristische Linien Nebst dem Pendlerverkehr ist die Erschliessung mit dem ÖV auch im Freizeitverkehr von Bedeutung. Die vorwiegend touristisch genutzten Buslinien (Klausenpass, Obererbs, Kies, Klöntal) sind saisonal möglichst gut und direkt an die übergeordneten Verbindungen anzuschliessen und sollen an den Umsteigepunkten für Besucher gut auffindbar sein. Mit guter Touristeninformation und klarer Wegweisung sowie einfacher Handhabe von beispielsweise Rufbussen kann die Qualität des ÖV für Gäste verbessert werden.
 
-Vororientierung Departement Bau und Umwelt, Hauptabteilung 2008/09 Nutzungsplanrevision, Tiefbau;
+B Richtungsweisende Festlegungen / Beschluss
 
-**Vorprojekt Strasse**
+V2.2-B/1 Busangebot
 
-Regierungsrat;
+- Das Busangebot wird gebietsspezifisch und nachfrageorientiert angepasst. Ziel ist ein Angebot mit integralem Takt und schlanken Anschlüssen, sofern eine entsprechende Nachfrage besteht. Die Verknüpfung von Bus- und Bahnverkehr erfolgt in den Bahnhöfen Näfels-Mollis, Glarus, Schwanden und Ziegelbrücke.
 
-Gemeinden Näfels und Mollis;
+C Handlungsanweisungen
 
-Landrat; Landsgemeinde
+V2.2-C/1
 
-V - 12
+Der Kanton und die Gemeinden verfolgen die Optimierung der Erschliessung des Siedlungsraumes mit dem Busverkehr. Angeboten werden Verbindungen zur Bahn mit schlanken Anschlüssen.
 
-### V2-3 Entlastung des Dorfzentrums Netstal
+Federführung: Dep. Bau und Umwelt, Fachstelle öffentlicher Verkehr bzw. Gemeinde V2.2-C/2
 
-Richtplanaufgabe
+Der Kanton und die Gemeinden sorgen für schlanke Anschlüsse und eine gute Auffindbarkeit der vorwiegend touristisch genutzten Linien (Klausenpass, Kies, Klöntal, Obererbs). Federführung: Dep. Bau und Umwelt, Fachstelle öffentlicher Verkehr bzw. Gemeinde
 
-Das Siedlungsgebiet von Netstal wird in einem 2-spurigen Tunnel umfahren. Die Linienführung ist so gewählt, dass eine möglichst direkte Weiterführung nach Süden möglich ist (siehe Kap. V2-4: Umfahrung Glarus).
+**Objekte**
 
-Integrierender Bestandteil der Massnahme „Entlastung des Dorfzentrums Netstal“ ist die Umgestaltung, resp. der Rückbau der Kantonsstrasse in Netstal. In den Jahren 2000 und 2001 sind Ideenskizzen über eine mögliche Neugestaltung des Strassenraumes erstellt worden. Sie haben ihre Gültigkeit nicht verloren. Wichtig ist, dass die Ortsdurchfahrt in beiden Richtungen für den Busverkehr offen gehalten wird.
+D
 
-Der Massnahmenplan für Netstal schliesst als weiteren Projektteil die neue Querverbindungsstrasse nach Mollis mit ein.
+Keine
 
-Durch eine Umfahrungsstrasse wird die heutige Ortsdurchfahrt um mehr als 60% entlastet. Lärm- und Abgasemissionen nehmen auf ein tragbares Mass ab. Die Zerschneidungswirkung der Landstrasse im Siedlungsgebiet wird reduziert. Der Ortskern rund um die beiden Kirchen, das alte Schulhaus, die Gemeindeverwaltung wird wieder als Ortszentrum wahrgenommen. Der Verkehr wird flüssiger abgewickelt. Die öffentlichen Busse verkehren hindernisfrei. Der Fahrplan wird stabilisiert und zuverlässig. Fussgänger und Velofahrer erhalten neue Freiräume; der Strassenraum für den motorisierten Individualverkehr wird eingeschränkt, die Fahrgeschwindigkeiten werden reduziert.
+**Erläuterungen / Grundlagen**
 
-Problemstellung / Ausgangslage
+E
 
-Die Ortsdurchfahrt von Netstal ist einer der am stärksten befahrenen Strassenabschnitte des Kantons. Die Verkehrsimmissionen belasten das Dorf und verhindern eine harmonische Siedlungsentwicklung. Die Verkehrsmengen haben eine Grössenordung erreicht, die zu Behinderungen des Verkehrsflusses führen.
+Grundlagen:
 
-Im Rahmen der bisherigen Vorabklärungen wurden 5 Linienführungsvarianten untersucht, nämlich:
+- Konzept öffentlicher Verkehr 2014; Kanton Glarus; Departement Bau und Umwelt
 
-- Lange Tunnelumfahrung Ost der Gemeinden Netstal, Glarus und Ennenda
+### V2.3 Erschliessung Braunwald
 
-- Umfahrung Ost im Tunnel entlang der Linth (linksufrig)
+A Ausgangslage
 
-- Umfahrung West
+Die heutige Erschliessung von Braunwald erfolgt über die Standseilbahn Linthal - Braunwald. Dies gilt sowohl für den Personen- als auch den Warentransport. Die heutige Trasseeführung besteht seit der Erstellung vor über hundert Jahren. Seit einigen Jahren befasst sich die Braunwald-Standseilbahn AG mit dem Projekt «Neue Erschliessung Braunwald». Aufgrund der bestehenden Naturgefahrenproblematik (Hangrutschung), der betrieblichen Situation sowie offener Fragen bezüglich touristischer Erschliessung wurden verschiedene Varianten und auch Bahntypen in Erwägung gezogen und geprüft.
 
-- Kurzuntertunnelung Zentrum
+Aus heutiger Sicht erscheint als Ersatz wieder eine Standseilbahn am zweckmässigsten. Dabei gibt es drei mögliche Varianten:
 
-- Einbahnstrassenlösung
+- 1\. Ersatz auf dem bisherigen Trassee
 
-Die favorisierte Linienführung West verläuft in einem Tunnelbauwerk, das teilweise im Tagbau erstellt werden kann. Die definitive Linienführung der Westumfahrung kann beim heutigen Planungsstand noch nicht bis ins Detail festgelegt werden. Dies wird erst im Rahmen der weiteren Projektierungsarbeiten möglich sein. Die grösste bautechnische Herausforderung ist die Unterquerung des Löntsch.
+- 2\. Ersatz auf dem bisherigen Trassee mit direkter Verlängerung des Trassees und Ankunft bis Gebiet Schwändiberg
 
-### Richtungsweisende Festlegungen
+- 3\. Ersatz auf dem bisherigen Trassee mit neuer Linienführung im oberen Teil und Ankunft Hüttenberg
 
-- 1\. Das Siedlungsgebiet von Netstal wird neu in einem 2-spurigen Tunnelbauwerk umfahren.
+Ein abschliessender Variantenentscheid ist noch offen. Neben der Berücksichtigung von bahnbetrieblichen Kriterien ist der Variantenentscheid in Abstimmung mit dem Konzept zur künftigen Siedlungsentwicklung in Braunwald sowie der Weiterentwicklung der touristischen Infrastrukturen zu treffen.
 
-- 2\. Die heutige Kantonsstrasse wird umgebaut und für den Langsamverkehr attraktiv gestaltet.
+B Richtungsweisende Festlegungen / Beschluss
 
-- 3\. Die Verbindung nach Mollis wird über eine neue Spange Nord hergestellt.
+V2.3-B/1
 
-V - 13
+- Der Kanton stellt die Erschliessung von Braunwald durch eine Bahnerschliessung sicher. Diese richtet sich auf die Siedlungs- und Tourismusentwicklung von Braunwald aus, berücksichtigt die Bedürfnisse der ortsansässigen Bevölkerung sowie der Gäste und schont das Landschafts- und Ortsbild.
 
-**Nr. V2-3/1**
+C Handlungsanweisungen
 
-### Abstimmungsanweisung
+V2.3-C/1
 
-Der Kanton initiiert die Zweckmässigkeitsprüfung der Umfahrungsstrasse in Zusammenarbeit mit den zuständigen Organen des Bundes. Gestützt auf die Ergebnisse beantragt der Kanton die Bearbeitung des Generellen Strassenprojektes.
+Die weitere Planung einer allfälligen Neuerschliessung und der Variantenentscheid erfolgen in einem partizipativen Planungsprozess zwischen Bahnbetreiberin, Gemeinde, Kanton und Bund und den touristischen Leistungsträgern.
 
-**Termine / Verfahren**
+Federführung: Braunwald-Standseilbahn AG V2.3-C/2
 
-### Abstimmungsstand Zuständigkeit
+Der Variantenentscheid ist auf das künftige Siedlungs- und Erschliessungskonzept der Gemeinde und die künftigen touristischen Erschliessungen in Braunwald abzustimmen. Federführung: Kanton (als Eigentümerin der Braunwald-Standseilbahn AG)
 
-Zwischenergebnis Departement Bau und Umwelt, Hauptabteilung 2007/08 Zweckmässigkeitsprüfung Tiefbau;
+**Objekte**
 
-Bundesamt für Strassen
+D
 
-**2009 Netzbeschluss**
+**Gemeinde Standort / Gebiet Bemerkung / Hinweis KS**
 
-Vororientierung Eidgenössisches Parlament
+Objekt-Nr.
 
-**2010/11 Nutzungsplanrevision**
+**Braunwaldbahn Variantenentscheid allfällige Neuer-**
 
-Vororientierung Gemeinde Netstal
+**Glarus Süd ZE**
 
-Vororientierung Departement Bau und Umwelt, Hauptabteilung 2010/11 Generelles Projekt Tiefbau;
+**Linthal - Braunwald schliessung noch offen.**
 
-Bundesamt für Strassen;
+V2.3.01
 
-Bundesrat
+**Erläuterungen / Grundlagen**
 
-**Nr. V2-3/2**
+E
 
-### Abstimmungsanweisung
+Grundlagen:
 
-Der Kanton erarbeitet zusammen mit der Gemeinde ein Projekt zur Verkehrsberuhigung der Kantonsstrasse in Netstal.
+- Braunwald autofrei; Umsetzungskonzept, Februar 2016
 
-**Termine / Verfahren**
+- Realisierung neue öV-Erschliessung Braunwald; Bericht Vorstudien, Edy Toscano AG, 8. Februar 2017
 
-### Abstimmungsstand Zuständigkeit
+### V3 Strassenverkehr
 
-Vororientierung Departement Bau und Umwelt, Hauptabteilung Vorprojekt, terminlich koordiniert Tiefbau;
+A Ausgangslage
 
-**mit Projekt Umfahrungsstrasse**
+Die Verkehrsbelastungen in den Siedlungsgebieten von Näfels, Netstal und Glarus haben Werte erreicht, die zu grossen Immissionen in den Ortszentren und zu Behinderungen des Verkehrsablaufes führen. Die Überlastungserscheinungen auf der Kantonsstrasse beeinträchtigen auch die Erreichbarkeit der Gemeinde Glarus Süd sowie den strassengebundenen öffentlichen Verkehr. Diese Probleme dürften sich aufgrund des prognostizierten Wachstums in den nächsten Jahren noch verschärfen.
 
-Gemeinde Netstal
+Umfahrungsstrassen Die Planung von Umfahrungsstrassen im Kanton Glarus hat eine lange Geschichte. Über die letzten Jahre wurden die Linienführungen der Umfahrungsstrassen in diversen Studien und Projekten konkretisiert. Mit der geplanten Linienführung wird das Optimum zwischen Entlastung, direkten Verbindungen und minimalen Eingriffen in die Siedlung und Umwelt erreicht. Die Umfahrungsstrassen von Näfels, Netstal und Glarus entlasten das Siedlungsgebiet vom Durchgangsverkehr und sichern eine bessere Verbindung vom Hinterland auf die Nationalstrasse A3.
 
-**Nr. V2-3/3**
+Gemäss Netzbeschluss und Sachplan Verkehr des Bundes ist die Verbindung von der A3 bis zum Kantonshauptort Glarus eine Nationalstrasse (N17). Die Vorhaben für die Umfahrungen Näfels und Netstal liegen im Zuständigkeitsbereich des Bundes. Die Umfahrung Glarus ist grundsätzlich Sache des Kantons beziehungsweise bei einer Kombination mit der Umfahrung Netstal ein gemeinsames Projekt mit dem Bund.
 
-### Abstimmungsanweisung
+Neue Netzelemente Nebst den Umfahrungsstrassen sind zur Entlastung der Siedlungsgebiete und zur Verbesserung der Verkehrsabläufe weitere Netzelemente geplant:
 
-Der Kanton erarbeitet ein Projekt zur Verbindungsstrasse Nord nach Mollis zu Handen der Landsgemeinde. Die Gemeinde legt den Planungsperimeter im Nutzungsplan fest.
+- Anbindung Molliserstrasse direkt an den A3-Zubringer (‘Stichstrasse Näfels – Mollis’)
 
-**Termine / Verfahren**
+- Erstellung einer leistungsfähigen Verbindung in Netstal zwischen den Kantonsstrassen Netstal - Näfels und Netstal - Mollis («Spange Netstal»)
 
-### Abstimmungsstand Zuständigkeit
+- Verbindung im Bereich Leimen - Ennenda zwischen der Kantonsstrasse und der Linthbrücke (Holensteinstrasse).
 
-Vororientierung Departement Bau und Umwelt, Hauptabteilung 2009-2010 Nutzungsplanrevision, Tiefbau;
+Entlastung Siedlungsgebiete Um die Entlastungswirkung der Umfahrungsstrassen sicherzustellen, werden die Strassenbauprojekte durch flankierende Massnahmen bei den heutigen Kantonsstrassen begleitet. Die flankierenden Massnahmen sollen die Schadstoffemissionen senken, die bestehenden Verkehrsachsen für den öffentlichen Verkehr sowie den Fuss- und Veloverkehr freispielen, attraktive Siedlungsräume schaffen und eine hohe Aufenthaltsqualität in den Zentren sichern. Insbesondere sollen auch unerwünschte Verlagerungseffekte, die durch den Bau von neuen Netzelementen auftreten, mit flankierenden Massnahmen unterbunden werden. Die Strassen müssen jedoch weiterhin als Ausweichrouten funktionieren, falls die Umfahrungen gesperrt werden müssen.
 
-**Vorprojekt Strasse**
+Direkte Anbindung an das Hochleistungsnetz Der motorisierte Verkehr soll auf der Hauptachse kanalisiert werden und wird über diese ans Hochleistungsnetz (Autobahn) angeschlossen. Siedlungsgebiete sowie Entwicklungsschwerpunkte werden daher möglichst direkt an die Hauptachsen angeschlossen.
 
-Regierungsrat;
+Gemäss dem Verkehrsmodell Glarus Nord ist mit der Erstellung der Stichstrasse zwischen A3-Zubringer und Molliserstrasse insbesondere auf der Achse Kanalstrasse - Oberrütelistrasse - Baumgartenstrasse - Netstalerstrasse in Mollis mit zusätzlichem Verkehr zu rechnen. Mit der geplanten Entwicklung im Bereich des Flugplatzes Mollis wird dieser Druck weiter verstärkt. Eine zusätzliche Belastung im Bereich des Siedlungsgebietes als Folge der neuen Netzelemente ist mit entsprechenden flankierenden Massnahmen zu verhindern.
 
-Gemeinde Netstal;
+B Richtungsweisende Festlegungen / Beschluss
 
-Landrat; Landsgemeinde
+V3-B/1 Umfahrungen
 
-V - 14
+- Der Kanton setzt sich dafür ein, in Zusammenarbeit mit dem Bund die Siedlungsgebiete von Näfels, Netstal und Glarus in 2-spurigen Tunnels im Westen zu umfahren.
 
-### V2-4 Entlastung Zentrum Glarus
+V3-B/2 Stichstrassse Näfels - Mollis
 
-Richtplanaufgabe
+- Die Verbindung zwischen A3-Zubringer nach Mollis und zum Industriegebiet von Näfels wird über die oberirdische Stichstrasse zwischen A3-Zubringer und Molliserstrasse hergestellt.
 
-Das Siedlungszentrum von Glarus wird im Westen durch einen 2-spurigen Tunnel umfahren. Der Umfahrungsstrassenabschnitt zweigt von der Umfahrung Netstal im Gebiete westlich des Löntschwerkes ab. Im Vordergrund steht dabei die Anbindung mittels eines Halbanschlusses.
+V3-B/3 Spange Netstal
 
-Mit dem Ziel der Verbesserung der Verkehrsabläufe und der Umwelt-, resp. der Siedlungsqualität sind im Ortszentrum von Glarus Sofortmassnahmen vorgesehen. Als kurzfristige Verbesserung der Verkehrsverhältnisse wird die Umgestaltung der Bahnhofstrasse und der Hauptstrasse auf dem Abschnitt Gemeindehaus – Spielhof vorgeschlagen.
+- In Netstal wird zwischen den Kantonsstrassen Netstal - Näfels und Netstal - Mollis eine Verbindung erstellt.
 
-Integrierender Bestandteil des Projektes „Umfahrungsstrasse“ ist die Querverbindung Leimen - Ennenda.
+V3-B/4 Leimen Ennenda
 
-Problemstellung / Ausgangslage
+- Im Bereich Leimen - Ennenda wird zwischen der Kantonsstrasse und der Linthbrücke (Holensteinstrasse) eine Verbindung hergestellt.
 
-Wie die Gemeinden Näfels und Netstal leidet das Zentrum Glarus unter den Verkehrsimmissionen. Für die Region Hinterland ist die Verkehrssituation in Glarus ein Hindernis. Im Einklang mit den Zielen der Raumentwicklung des Kantons Glarus kommt der Verbesserung der Erreichbarkeit des Hinterlandes grosse Bedeutung zu.
+V3-B/5 Flankierende Massnahmen
 
-Die Linienführung der Umfahrungsstrasse ist noch nicht definitiv. Sie wird von der zukünftigen Verkehrsorganisation (Lage der Anschlussknoten) und den geologischen und topographischen Verhältnissen wesentlich mitbestimmt. Diese offenen Punkte werden im Rahmen der Zweckmässigkeitsbeurteilung respektive im generellen Projekt vertieft studiert. Der Richtplan sieht vor, die Umfahrung Glarus im Gebiet westlich des Löntschwerkes an die Umfahrung Netstal anzuschliessen.
+- Die Entlastungswirkung auf der heutigen Kantonsstrasse in Näfels, Netstal und Glarus wird durch flankierende Massnahmen langfristig gesichert. Die heutige Kantonsstrasse wird umgebaut und für den Fuss- und Veloverkehr attraktiv gestaltet.
 
-Die Umgestaltung der Hauptstrasse in einen multifunktionalen Raum kann unabhängig von der Inbetriebnahme der Umfahrungsstrasse realisiert werden. Ziel ist die Verflüssigung des Verkehrs und gleichzeitig die Aufwertung des Strassenraumes für den Langsamverkehr (Fussgänger und Velofahrer), resp. die Verbesserung der gesamten Gestaltung des öffentlichen Raumes.
+- Die Verkehrsströme im Verkehrsnetz sind mit geeigneten Massnahmen so zu lenken, dass die Entlastungswirkungen in den Zentren langfristig gesichert und die Verkehrsströme möglichst direkt auf die Hauptachse gelenkt werden.
 
-### Richtungsweisende Festlegungen
+C Handlungsanweisungen
 
-- 1\. Die Verkehrsorganisation im Ortszentrum wird angepasst. Der Strassenraum wird neu gestaltet (multifunktionaler Raum).
+V3-C/1
 
-- 2\. Glarus wird mit einem 2-spurigen Strassentunnel umfahren.
+Die Gemeinden sichern die Trassees der Umfahrungen Näfels, Netstal und Glarus in ihren Nutzungsplanungen.
 
-- 3\. Die Verbindung nach Ennenda wird mit einer Verbindungsstrasse im Bereich Leimen hergestellt.
+Federführung: Gemeinden
 
-**Nr. V2-4/1**
+V3-C/2
 
-### Abstimmungsanweisung
+Planung, Bau und Unterhalt der Ortsumfahrung Glarus ist grundsätzlich Sache des Kantons. Er klärt den Kostenteiler für eine allfällige Kombination mit der Umfahrung Netstal und unterbreitet der Landsgemeinde eine Kreditvorlage bis 2026.
 
-Der Kanton projektiert zusammen mit der Gemeinde Glarus die Umgestaltung der Bahnhof- und der Hauptstrasse.
+Federführung: Dep. Bau und Umwelt, Hauptabt. Tiefbau
 
-**Termine / Verfahren**
+V3-C/3
 
-### Abstimmungsstand Zuständigkeit
+Der Kanton realisiert eine oberirdische Strasse zwischen A3-Zubringer und der Molliserstrasse.
 
-Festsetzung Departement Bau und Umwelt, Hauptabteilung 2008/09 Projekt Tiefbau;
+Federführung: Dep. Bau und Umwelt, Hauptabt. Tiefbau
 
-Regierungsrat; Gemeinde Glarus
+V3-C/4
 
-V - 15
+Der Kanton und die Gemeinde erarbeiten Projekte zur Verbindung zwischen den Kantonsstrassen Netstal - Näfels und Netstal – Mollis (Querspange) sowie zur strassenmässigen Erschliessung des Flugplatzes Mollis. Die Gemeinden sichern das Trassee für die Verbindungsstrasse in ihren Nutzungsplanungen.
 
-**Nr. V2-4/2**
+Federführung Projekterarbeitung Kantonsstrasse: Dep. Bau und Umwelt, Hauptabt. Tiefbau;
 
-### Abstimmungsanweisung
+Federführung Projekterarbeitung Erschliessungsstrasse: Gemeinde;
 
-Der Kanton erstellt die Zweckmässigkeitsprüfung der Umfahrungsstrasse in Zusammenarbeit mit den zuständigen Organen des Bundes. Gestützt auf die Ergebnisse beantragt der Kanton die Bearbeitung des Generellen Strassenprojektes.
+Federführung Nutzungsplanung: Gemeinde
 
-**Termine / Verfahren**
+V3-C/5 Der Kanton und die Gemeinde Glarus erarbeiten ein Projekt zur Verbindung zwischen der Kantonsstrasse und der Linthbrücke (Holensteinstrasse). Die Gemeinde sichert das Trassee für die Verbindungsstrasse in ihrer Nutzungsplanung.
 
-### Abstimmungsstand Zuständigkeit
+Federführung Projekterarbeitung Kantonsstrasse: Dep. Bau und Umwelt, Hauptabt. Tiefbau;
 
-Zwischenergebnis Departement Bau und Umwelt, Hauptabteilung 2007/08 Zweckmässigkeitsprüfung Tiefbau;
+Federführung Nutzungsplanung: Gemeinde
 
-Bundesamt für Strassen
+V3-C/6
 
-**2009 Netzbeschluss**
+Der Kanton erarbeitet im Rahmen der Realisierung der Umfahrung Näfels zusammen mit der Gemeinde ein Projekt zur Verkehrsberuhigung der Kantonsstrasse in Näfels.
 
-Vororientierung Eidgenössisches Parlament
+Federführung: Dep. Bau und Umwelt, Hauptabt. Tiefbau
 
-**2012/13 Nutzungsplanrevision**
+V3-C/7
 
-Vororientierung Gemeinde Glarus
+**FS**
 
-Vororientierung Departement Bau und Umwelt, Hauptabteilung 2012/13 Generelles Projekt Tiefbau;
+Der Kanton erarbeitet im Rahmen der Realisierung der Umfahrung Netstal zusammen mit der Gemeinde ein Projekt zur Verkehrsberuhigung der Kantonsstrasse in Netstal. Federführung: Dep. Bau und Umwelt, Hauptabt. Tiefbau
 
-Bundesamt für Strassen;
+V3-C/8
 
-Bundesrat
+Der Kanton projektiert zusammen mit der Gemeinde die Umgestaltung der Hauptstrasse im Ortszentrum Glarus.
 
-**Nr. V2-4/3**
+Federführung: Dep. Bau und Umwelt, Hauptabt. Tiefbau
 
-### Abstimmungsanweisung
+V3-C/9
 
-Der Kanton erarbeitet ein Projekt für eine Verbindungsstrasse Leimen - Ennenda. Die Gemeinde legt den Planungsperimeter im Nutzungsplan fest.
+Der Kanton und die Gemeinden stellen mit geeigneten flankierenden Massnahmen die Kanalisierung des Hauptverkehrs auf der Hauptachse und die Entlastungswirkung im Siedlungsgebiet von neuen Netzelementen sicher. Federführung: Dep. Bau und Umwelt, Hauptabt. Tiefbau
 
-**Termine / Verfahren**
+D Objekte
 
-### Abstimmungsstand Zuständigkeit
+**Bemerkung / Hinweis KS**
 
-Vororientierung Departement Bau und Umwelt, Hauptabteilung 2011-2012 Tiefbau;
+Objekt-Nr. Gemeinde Standort / Gebiet
 
-**Nutzungsplanrevision, Vorprojekt Strasse**
+**umfahrung Näfels ist Bundessache.**
 
-Regierungsrat;
+V3.01 Glarus Nord Umfahrungsstrasse - Planung, Bau und Unterhalt der Orts- FS Näfels - Die räumliche Abstimmung mit Landschafts-, Naturschutz sowie landwirtschaftlichen Vorranggebieten und FFF ist erfolgt. Ein rechtskräftig genehmigtes Projekt liegt vor.
 
-Gemeinden Glarus und Ennenda;
+**A**
 
-Landrat; Landsgemeinde
+V3.02 Glarus Nord Verbindungsstrasse - Die räumliche Abstimmung mit Landzwischen A3-Zubringer und der Molliserstrasse (Stichstrasse Näfels - Mollis) - Der Baubeginn ist erfolgt.
 
-V - 16
+**schafts-, Naturschutz sowie landwirtschaftlichen Vorranggebieten und FFF ist erfolgt. Ein rechtskräftig genehmigtes Projekt liegt vor.**
 
-### V2-5 Mehrjahresprogramm Kantonsstrassen
+V3.03 Glarus Umfahrungsstrasse - Planung, Bau und Unterhalt der Orts- ZE Netstal - Die räumliche Abstimmung mit Landschafts-, Naturschutz sowie landwirtschaftlichen Vorranggebieten und FFF ist erfolgt.
 
-Richtplanaufgabe
+**umfahrung Netstal ist Bundessache.**
 
-Das Netz der Kantonsstrassen mit seiner Länge von ca. 130 km muss in seiner Substanz erhalten werden. Eine Vielzahl von punktuellen Ergänzungen, Sanierungen und Umbauten sind notwendig, um die Funktionstüchtigkeit und die Sicherheit des Strassenverkehrsystems zu gewährleisten.
+V3.04 Glarus Umfahrungsstrasse - Planung, Bau und Unterhalt der Orts- ZE Glarus Sache des Kantons (in Abstimmung mit dem Bund).
 
-Problemstellung / Ausgangslage
+**umfahrung Glarus ist grundsätzlich**
 
-Der Kanton erstellt wie bisher ein Mehrjahresprogramm, in welchem die Unterhalts-, Sanierungs- und Ausbauprojekte festgehalten werden.
+- Die räumliche Abstimmung mit Landschafts-, Naturschutz sowie landwirtschaftlichen Vorranggebieten und FFF ist auf Stufe Vorprojekt erfolgt.
 
-### Richtungsweisende Festlegungen
+V3.05 Glarus Verbindungsstrasse - Das Auflageprojekt liegt vor. zwischen den Kantonsstrassen Netstal - Näfels und Netstal - - Die räumliche Abstimmung mit Flug-Mollis (Querspange platznutzung, Landschafts-, Natur-Netstal) schutz sowie landwirtschaftlichen Vorranggebieten und FFF ist erfolgt.
 
-- 1\. Die Substanz der Strasseninfrastruktur muss erhalten werden.
+**VO**
 
-- 2\. Neuralgische Punkte, vor allem aus Sicht der Verkehrssicherheit, werden schrittweise saniert.
+V3.06 Glarus Verbindungsstrasse - Verbindungsstrasse zur Erschliesim Bereich Leimen - sung der Arbeitsplatzgebiete in Ennenda zwischen Ennenda und zur Entlastung des Kantonsstrasse und Dorfkerns von Ennenda.
 
-**Nr. V2-5/1**
+Linthbrücke (Holensteinstrasse)
 
-### Abstimmungsanweisung
+E Erläuterungen / Grundlagen
 
-Der Kanton erstellt ein Mehrjahresprogramm, in welchem die Unterhalts-, Sanierungs- und Ausbauprojekte festgehalten werden.
+Aus der Sicht der heutigen Aufgabenverteilung im Bereich Strassenwesen sind grundsätzlich zwei Gruppen von Massnahmen zu unterscheiden:
 
-**Termine / Verfahren**
+- Massnahmen, die durch den Kanton Glarus und durch die Gemeinden selbstständig realisiert und finanziert werden können.
 
-### Abstimmungsstand Zuständigkeit
+- Massnahmen, die in den Kompetenzbereich des Bundes fallen. Dazu gehören die Umfahrungsstrassen von Näfels und Netstal.
 
-Festsetzung Departement Bau und Umwelt, Hauptabteilung Mehrjahresprogramm Tiefbau;
+Grundlagen:
 
-Regierungsrat; Landrat
+- Bundesbeschluss über das Nationalstrassennetz (Netzbeschluss), in Kraft per 1.1.2020
 
-V - 17
+- Auflageprojekt Umfahrung Näfels; Kanton Glarus; Departement Bau und Umwelt
 
-V - 18
+- Auflageprojekt Umfahrung Netstal; Kanton Glarus; Departement Bau und Umwelt
 
-### V3 Langsamverkehr
+- Vorprojekt Umfahrung Glarus; Kanton Glarus; Departement Bau und Umwelt
 
-### V3-1 Erhalt und Ausbau des kantonalen Radwegnetzes
+- Auflageprojekt Stichstrasse Näfels - Mollis; Kanton Glarus; Departement Bau und Umwelt
 
-Richtplanaufgabe
+- Auflageprojekt Querspange Netstal; Kanton Glarus; Departement Bau und Umwelt
 
-Für den Fahrradverkehr wird ein sicheres und attraktives Wegnetz bereitgestellt. Anzustreben ist ein zusammenhängendes, auf die täglichen Bedürfnisse der Einwohner, der Erholung und des Tourismus abgestimmtes Gesamtnetz.
+- Projekt Kantonsstrasse Glarus: Betriebs- und Gestaltungskonzept
 
-Das Umsteigen vom motorisierten Individualverkehr wird gefördert. Gleichzeitig wird die Sicherheit, insbesondere für den Schülerverkehr, erhöht. Die Attraktivität für den sog. „sanften Tourismus“ wird gesteigert.
+- Projekt Flankierende Massnahmen Näfels/Netstal
 
-Problemstellung / Ausgangslage
+### V4 Fuss- und Veloverkehr
 
-Das Velofahren hat für Tourismus und Freizeitaktivitäten an Attraktivität gewonnen. Die Radroute Linthal-Ziegelbrücke ist Bestandteil der Alpen-Panoramaroute Nr. 4 von „SwissMobil“, die von Aigle über Fribourg, Thun, Sarnen, Vitznau, Brunnen, Flüelen, Glarus, Appenzell bis nach St. Margrethen führt. Am Walensee vorbei führt die Seen-Route Nr. 9, die in Rorschach beginnt und über Zug, Luzern, Sarnen, Gstaad bis nach Montreux verläuft. An der Landsgemeinde vom 3. Mai 1999 wurde die Route „Rollengut“ als Alternative zu der Route zwischen Glarus (Alpenbrückli) und Netstal (Linthbrücke) gutgeheissen. Für das „Erholungsgebiet Walensee“ ist das „Walenseenetz“ von Bedeutung. Das Radroutennetz wird entsprechend dem Radroutengesetz schrittweise zu einem sicheren und attraktiven Gesamtnetz ausgebaut. Die Bedürfnisse des täglichen Verkehrs (Beruf, Schule, etc.) werden gleichermassen berücksichtigt wie diejenigen des Tourismus und des Freizeitverkehrs. Wichtig ist die optimale Verknüpfung des Fahrradnetzes mit dem öffentlichen Verkehr. An den Umsteigeknoten sollen zentrale und gesicherte Veloparkplätze vorgesehen werden.
+A Ausgangslage
 
-Die wünschbare Verbesserung der Feinerschliessung ist in erster Linie Aufgabe der Gemeinden. Der Kanton kann aber entsprechende Initiativen unterstützen.
+Der Ausbau und der Unterhalt des Fussweg- und Wanderwegnetzes sind im Wesentlichen Aufgaben der Gemeinden. Der Kanton setzt sich im Rahmen des Unterhalts und des Ausbaus der Kantonsstrassen sowie im Rahmen seiner Oberaufsicht und Bewilligungspraxis für die Attraktivierung der Fusswege ein. Die Grundsätze für die Koordination der Fuss- und Wanderwege sind durch das Bundesgesetz über Fuss- und Wanderwege aus dem Jahr 1985 vorgegeben.
 
-### Richtungsweisende Festlegungen
+Fusswegnetz Das Fusswegnetz innerhalb der Siedlungsgebiete ist im Allgemeinen vorhanden und relativ dicht. Wichtig sind die Verknüpfungen der Fusswege mit dem öffentlichen Verkehr. Die Fusswege sind ein wichtiges Glied in der Transportkette. Die Verbesserung der Wege und des Wetterschutzes an Haltestellen sind Teil der Attraktivitätssteigerung des öffentlichen Verkehrs.
 
-- 1\. Umsetzung des Radroutengesetzes. Es soll ein zusammenhängendes, sicheres Radwegnetz entstehen.
+Wanderwege Wanderwege sind wichtige Voraussetzungen für die Naherholung und den Sommertourismus im Glarnerland. Das Departement Bau und Umwelt hat die Oberaufsicht über das Wanderwegnetz bzw. über die Landesfusswege. Der Kanton berücksichtigt bei seiner Aufsichtstätigkeit die Interessen von Naherholung und Tourismus.
 
-- 2\. Die Radwege sind an den öffentlichen Verkehr, insbesondere an die Bahnumsteigepunkte anzuschliessen.
+Velorouten Das Veloroutennetz wird entsprechend dem Radroutengesetz schrittweise zu einem sicheren und attraktiven Gesamtnetz ausgebaut. Anzustreben ist ein zusammenhängendes, auf die täglichen Bedürfnisse der Einwohner, der Erholung und des Tourismus abgestimmtes Gesamtnetz. Die kantonale Radroute verfügt im Bereich des Pendlerverkehrs grosses Potenzial. Als Hauptachse im Veloverkehr wird eine schnelle und möglichst direkte Verbindung zwischen den Siedlungsgebieten angestrebt. Wichtig ist die optimale Verknüpfung des Velowegnetzes mit dem öffentlichen Verkehr. Beim Ausbau des Velonetzes soll auch die Sicherheit, insbesondere für den Schülerverkehr, erhöht werden. Die erforderliche Verbesserung der Feinerschliessung ist in erster Linie Aufgabe der Gemeinden.
 
-- 3\. An Bahnhöfen und publikumsintensiven Einrichtungen sind genügend diebstahlsichere Abstellplätze zur Verfügung zu stellen.
+Freizeitnutzung Fuss- und Veloverkehr Nebst den Bedürfnissen im Berufsverkehr haben die Fuss- und Velowege eine zunehmende Bedeutung bei Freizeitnutzungen (Walken, Joggen, Skaten, Mountainbiken, Radfahren und Reiten). Insbesondere das Velofahren hat für Tourismus und Freizeitaktivitäten an Attraktivität gewonnen. Die Veloroute Linthal−Ziegelbrücke ist Bestandteil der Alpen-Panoramaroute Nr. 4 von Schweizmobil. Am Walensee vorbei führt die Seen-Route Nr. 9. Für das Erholungsgebiet Walensee ist das Walenseenetz von Bedeutung.
 
-- 4\. Der Kanton berücksichtigt bei eigenen Planungs- und Bauvorhaben sowie im Rahmen seiner Genehmigungstätigkeit bei Nutzungsplanungen die Anliegen für ein attraktives und sicheres Radwegenetz im Siedlungsraum.
+B Richtungsweisende Festlegungen / Beschluss
 
-V - 19
+V4-B/1 - Das Veloroutennetz ist periodisch den neuen Anforderungen von Pendlerverkehr sowie Freizeit- und Tourismusnutzungen anzupassen. Das Velowegnetz ist zusammenhängend, direkt, schnell und sicher zu gestalten. Schwachstellen sind zu beheben. V4-B/2 - Fuss- und Velowege sind an den öffentlichen Verkehr und an bedeutende Zielorte anzuschliessen.
 
-**Nr. V3-1/1**
+V4-B/3 - An Bahnhöfen und bei publikumsintensiven Einrichtungen sind genügend öffentlich zugängliche, diebstahlsichere und überdachte Fahrradabstellplätze zur Verfügung zu stellen.
 
-### Abstimmungsanweisung
+V4-B/4 - Der Kanton berücksichtigt bei eigenen Planungs- und Bauvorhaben sowie im Rahmen seiner Genehmigungstätigkeit bei Nutzungsplanungen die Anliegen für ein attraktives und sicheres Fuss- und Velowegenetz im Siedlungsraum.
 
-Der Kanton erstellt für das Radwegnetz ein Mehrjahresprogramm, in welchem die Unterhalts-, Sanierungs- und Ausbauprojekte festgehalten werden.
+C Handlungsanweisungen
 
-**Termine / Verfahren**
+V4-C/1 Die Gemeinden stellen sicher, dass an den Bahnhöfen und publikumsintensiven Einrichtungen genügend öffentlich zugängliche, sichere und überdachte Fahrradabstellplätze erstellt werden.
 
-### Abstimmungsstand Zuständigkeit
+Federführung: Gemeinde
 
-Zwischenergebnis Departement Bau und Umwelt, Hauptabteilung Mehrjahresprogramm Tiefbau;
+V4-C/2 Die Gemeinden überprüfen die Qualität ihres Fuss- und Velowegnetzes im Siedlungsraum sowie ihres Wanderwegnetzes. Sie ergreifen die notwendigen Massnahmen zur Förderung von Attraktivität und Sicherheit.
 
-Regierungsrat;
+Federführung: Gemeinde
 
-Landrat; Gemeinden
+D Objekte
 
-V - 20
+**KS**
 
-### V3-2 Fuss- und Wanderwege unterhalten
+Objekt-Nr. Gemeinde Standort / Gebiet Bemerkung / Hinweis
 
-Richtplanaufgabe
+**A**
 
-Der Kanton fördert ein attraktives und sicheres Fuss- und Wanderwegnetz. Er setzt sich für die Anliegen des Langsamverkehrs ein.
+V4.01 Glarus Nord, Route von Linthal bis Kantonale Radroute Glarus, Gla- Bilten und Niederurnen rus Süd bis Mühlehorn
 
-Problemstellung / Ausgangslage
+E Erläuterungen / Grundlagen
 
-Das Fusswegnetz innerhalb der Siedlungsgebiete ist im Allgemeinen gut ausgebaut. Konfliktstellen bestehen heute vor allem bei Strassenüberquerungen und Bahnübergängen. Wichtig sind die Verknüpfungen der Fusswege mit dem öffentlichen Verkehr. Die Fusswege sind ein Glied in der Transportkette. Die Verbesserung der Wege und des Wetterschutzes an Haltestellen sind Teil der Attraktivitätssteigerung des öffentlichen Verkehrs.
+Siehe Erläuterungsbericht
 
-Der Ausbau und der Unterhalt des Fusswegnetzes im Siedlungsgebiet sind im Wesentlichen Aufgaben der Gemeinden. Der Kanton setzt sich im Rahmen des Unterhalts und des Ausbaus der Kantonsstrassen sowie im Rahmen seiner Oberaufsicht und Bewilligungspraxis für die Attraktivierung der Fusswege ein.
+Grundlagen:
 
-Wanderwege (markierte Fusswege ausserhalb des Siedlungsgebietes) sind wichtige Voraussetzungen für die Naherholung und den Sommertourismus im Glarnerland. Die Grundsätze für die Koordination sind durch das Bundesgesetz über Fuss- und Wanderwege aus dem Jahr 1985 vorgegeben. Zugunsten der Landesfusswege bestehen im Grundbuch als Anmerkung eingetragene öffentliche Fusswegrechte. Passwege und alte Landstrassen resp. historische Verkehrswege sind rechtlich den Landesfusswegen gleichgestellt.
+- Kantonale Radrouten; Kanton Glarus
 
-### Richtungsweisende Festlegungen
+- Wanderwegnetz; Kanton Glarus
 
-- 1\. Der Kanton berücksichtigt bei eigenen Planungs- und Bauvorhaben sowie im Rahmen seiner Genehmigungstätigkeit bei Nutzungsplanungen die Anliegen für ein attraktives und sicheres Fusswegnetz im Siedlungsraum.
+### V5 Zivilluftfahrt V5.1 Flugplatz Mollis
 
-- 2\. Das Departement Bau und Umwelt hat die Oberaufsicht über das Wanderwegnetz, bzw. über die Landesfusswege. Es stellt sicher, dass das Wegnetz den Bedürfnissen der Naherholung und des Sommertourismus angepasst wird.
+A Ausgangslage
 
-- 3\. Die Verknüpfung der Fusswege mit dem öffentlichen Verkehr ist zu verbessern.
+Nach dem Rückzug der Luftwaffe im Jahr 2007 hat der Kanton Glarus die Umnutzung des Militärflugplatzes in ein privates ziviles Flugfeld initiiert. Nach der Übernahme des Flugplatzes Mollis durch die Gemeinde Glarus Nord lag die Federführung des Umnutzungsverfahrens in den vergangenen Jahren bei der Gemeinde.
 
-- 4\. Die historischen Verkehrswege sind rechtlich den Landesfusswegen gleichgesetzt. Das Departement Bau und Umwelt stellt deren Erhalt und Pflege sicher.
+Mitte 2017 hat der Bundesrat das Objektblatt Flugplatz Mollis des Sachplans Infrastruktur der Luftfahrt (SIL) erlassen. Im Objektblatt werden die Zweckbestimmung, die betrieblichen Rahmenbedingungen, der Flugplatzperimeter sowie verschiedene umweltrechtliche Rahmenbedingungen verankert. Momentan wird das Umnutzungsverfahren (Erteilung Umnutzungsbewilligung durch das BAZL) durchgeführt. Die grundeigentümerverbindlichen raumplanerischen Festlegungen werden letztlich im Zonenplan der Gemeinde Glarus Nord vorgenommen.
 
-**Nr. V3-2/1**
+B Richtungsweisende Festlegungen / Beschluss
 
-### Abstimmungsanweisung
+V5.1-B/1 - Die zivile Nutzung des Flugplatzes Mollis ist für den Kanton von grosser wirtschaftlicher Bedeutung und stellt einen wichtigen Standortfaktor dar. Der Kanton unterstützt die Umnutzung des Flugplatzes in eine zivile Nutzung.
 
-Die Gemeinden überprüfen die Qualität ihres Fusswegnetzes im Siedlungsraum resp. des Wanderwegnetzes und ergreifen die notwendigen Massnahmen zur Förderung von Attraktivität und Sicherheit.
+C Handlungsanweisungen
 
-**Termine / Verfahren**
+V5.1-C/1 Die Gemeinde Glarus Nord schafft die planungsrechtlichen Voraussetzungen für die nichtmilitärische Nutzung des Flugplatzes Mollis.
 
-### Abstimmungsstand Zuständigkeit
+Federführung: Gemeinde
 
-**Nutzungsplanrevisionen**
+D Objekte
 
-Festsetzung Gemeinden;
+**KS**
 
-Departement Bau und Umwelt
+Objekt-Nr. Gemeinde Standort / Gebiet Bemerkung / Hinweis
 
-V - 21
+**FS**
 
-### V3-3 Nahtstellen zwischen den Verkehrsträgern verbessern
+V5.1.01 Glarus Nord Flugplatz Mollis Umnutzung des ehemaligen Militärflugplatzes zu zivilaviatischer Nutzung
 
-Richtplanaufgabe
+E Erläuterungen / Grundlagen
 
-Mit der Aufwertung der Umsteigepunkte wird die Effizienz des ganzen Verkehrssystems gesteigert. Die Verbesserung der Umsteigeverhältnisse fördert die Benützung des öffentlichen Verkehrs. Mit relativ bescheidenen Mitteln wird eine grosse Komfortsteigerung erreicht.
+Grundlagen:
 
-Problemstellung / Ausgangslage
+- Sachplan Infrastruktur der Luftfahrt (SIL)/Teil IIIC/12. Serie - Objektblatt GL-1, 28. Juni 2017
 
-Die Nahtstellen zwischen den Verkehrsträgern sind Umsteigeknoten, Haltestellen von Bus und Bahn, Parkierungsanlagen für Autos, Abstellplätze und Garagen für Velos etc. An den Nahtstellen zwischen den Verkehrsträgern werden fast alle Verkehrsteilnehmer zu Fussgängern. Hier stellen sich auch die grössten Probleme für Invalide und Gebrechliche, für Mütter mit Kleinkindern, etc.
+- Flugplatz Mollis: Weiterbetrieb ehemaliger Militärflugplatz als Zivilflugplatz (Umnutzungsverfahren); Genehmigungsdossier, November 2017
 
-Verbesserung der Nahtstellen bedeutet nicht unbedingt eine Vergrösserung der Verkehrsflächen. Es geht in erster Linie um die Beseitigung von Hindernissen, um Gestaltung, um Beleuchtung.
+### V5.2 Gebirgslandeplätze
 
-Ein wichtiger Punkt ist die Anordnung und Lage von Autoabstellplätzen und Parkgaragen. Ein funktionierendes System für Park and Ride erfordert im ländlichen Gebiet zentrale Parkierungsanlagen möglichst in unmittelbarer Bahnhofsnähe. Das Gleiche gilt für Veloabstellplätze. Sie werden nur benützt, wenn ihre Lage zentral und sicher ist.
+A Ausgangslage
 
-Zur Attraktivitätssteigerung und zur Förderung des öffentlichen Verkehrs ist ein ansprechendes Dienstleistungsangebot an den Verkehrsknotenpunkten wünschenswert (z.B. Tourismus-Information, Reisezentrum, Ladengeschäfte, Restaurants).
+Gebirgslandeplätze sind Landestellen auf über 1100 m ü. M., die Ausbildungs-, Übungs- und sportlichen Zwecken oder der Personenbeförderung zu touristischen Zwecken dienen. Sie verfügen über keine Infrastruktur. Im Sachplan Infrastruktur der Luftfahrt (SIL) Teil III B6a - Gebirgslandeplätze sind auf Kantonsgebiet die folgenden Gebirgslandeplätze erwähnt:
 
-### Richtungsweisende Festlegung
+- Gebirgslandeplatz «Glärnischfirn»
 
-- 1\. Der Kanton unterstützt die Anstrengungen der Gemeinden zur Verbesserung der Umsteigeverhältnisse an den Knotenpunkten des öffentlichen Verkehrs.
+- Gebirgslandeplatz «Limmerenfirn»
 
-**Nr. V3-3/1**
+- Gebirgslandeplatz «Vorabgletscher»
 
-### Abstimmungsanweisung
+- Gebirgslandeplatz «Clariden-Hüfifirn»
 
-Die Gemeinden überprüfen die Qualität der Umsteigeknoten und Haltestellen des öffentlichen Verkehrs. Sie fördern die Verbesserung der Transportkette.
+Die Gebirgslandeplätze sind für den Kanton von unterschiedlicher touristischer Bedeutung. Eine Analyse der Landebewegungen oder touristische Nutzungskonzepte liegen nicht vor. Für Heli-Skiing kann gemäss SIL nur der Landeplatz Vorabgletscher angeflogen werden.
 
-**Termine / Verfahren**
+Zunehmend zeigen sich bei einzelnen Gebirgslandeplätzen Nutzungskonflikte. An Orten mit Zielkonflikten zwischen erhöhter Landefrequenz, anderen touristischen Nutzungen und Naturschutz ist eine Abwägung der Interessen zu erstellen. Während die Landeplätze Vorabgletscher und Clariden-Hüfifirn touristische Potenziale aufweisen, ist für die Landeplätze Glärnischfirn und Limmerenfirn mittelfristig eine Stilllegung in Betracht zu ziehen.
 
-### Abstimmungsstand Zuständigkeit
+B Richtungsweisende Festlegungen / Beschluss
 
-**Sofort, keine besonderen gesetzlichen Vorschriften, Budgetplanung**
+V5.2-B/1 - Die negativen Auswirkungen der Gebirgslandeplätze sind im Hinblick auf die Interessen des Natur- und Landschaftsschutzes zu minimieren.
 
-Festsetzung Gemeinden;
+C Handlungsanweisungen
 
-Departement Bau und Umwelt
+V5.2-C/1
 
-V - 22
+Der Kanton überprüft die Landebewegungen der Gebirgslandeplätze und erarbeitet ein Konzept zu deren touristischen Nutzung.
 
-### V4 Organisatorische Massnahmen
+Federführung: Dep. Bau und Umwelt D Objekte
 
-### V4-1 Mobilitätsmarketing
+**Standort / Gebiet Bemerkung / Hinweis KS**
 
-Richtplanaufgabe
+Objekt-Nr. Gemeinde
 
-Gezielte Informationen führen zu einer effizienten Nutzung des Verkehrsangebotes. Pilotversuche werden in kurzer Zeit umgesetzt. Ein nachhaltiges Mobilitätsverhalten soll gefördert werden.
+**Gebirgslandeplatz SIL Teil III B6a – Gebirgslandeplätze FS Glärnischfirn Gebirgslandeplatz SIL Teil III B6a – Gebirgslandeplätze FS Limmerenfirn Gebirgslandeplatz SIL Teil III B6a – Gebirgslandeplätze FS Vorabgletscher Gebirgslandeplatz SIL Teil III B6a – Gebirgslandeplätze FS Clariden-Hüfifirn**
 
-Problemstellung / Ausgangslage
+V5.2.01 Glarus
 
-Ziel ist es, die Bevölkerung für Mobilitätsfragen zu sensibilisieren. Insbesondere soll über neue Angebote im öffentlichen Verkehr, über Optimierungen im Individualverkehr, über Mobility-Angebote etc. aktiv informiert werden. Als Beispiel kann die erfolgreiche Kampagne zur Einführung des „Glarner-Sprinter“ gelten.
+V5.2.02 Glarus Süd
 
-Es zeigt sich, dass ein grosser Bedarf an Information zum Verkehrsgeschehen besteht. Neue Angebote müssen, wenn sie Erfolg haben sollen, wirkungsvoll in der Öffentlichkeit bekannt gemacht werden. Die Information hat kontinuierlich und nachhaltig zu erfolgen.
+V5.2.03 Glarus Süd
 
-### Richtungsweisende Festlegung
+V5.2.04 Glarus Süd
 
-- 1\. Der Kanton informiert aktiv über Mobilitätsangebote.
+E Erläuterungen / Grundlagen
 
-**Nr. V4-1/1**
+Siehe Erläuterungsbericht
 
-### Abstimmungsanweisung
+Grundlagen:
 
-Der Kanton schafft die notwendigen Voraussetzungen für ein kontinuierliches Mobilitätsmarketing.
+- SIL Teil III B6a - Gebirgslandeplätze; Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation, 24. Oktober 2015
 
-**Termine / Verfahren**
+### V6 Schifffahrt, Bootsliegeplätze
 
-### Abstimmungsstand Zuständigkeit
+A Ausgangslage
 
-**Sofort, keine besonderen gesetz-**
+Am Walen- und am Klöntalersee bestehen folgende Bootshäfen für Segelyachten und Motorboote:
 
-Festsetzung Departement Bau und Umwelt ;
+- Mühlehorn: ca. 200 Liegeplätze (plus 8-10 Trockenplätze)
 
-Unternehmungen des öffentlichen Verkehrs; lichen Erfordernisse, Budgetpla-Taxihalter;
+- Gäsi (Filzbach): ca. 124 Liegeplätze
 
-**nung**
+- Seerüti-Martiberg (Glarus): 40 Plätze, 40 Seilplätze (Bojen)
 
-Gemeinden
+- Kanal Vorauen (Glarus): 40 Anlegeplätze
 
-V - 23
+Total sind im Kanton Glarus 577 Schiffe registriert (Klöntaler- und Walensee, Stand Januar 2017). Diese verteilen sich auf Trockenplätze, Liegeplätze, Bojen und Domizilboote.
 
-### V4-2 Anreize und Lenkungsmassnahmen
+Beim Neubau, Ausbau oder dem Betrieb von Hafenanlagen und Bootsplätzen ist eine umfassende Interessenabwägung mit den Anliegen des Gewässerschutzes, des Immissionsschutzes, des Biotopschutzes, des Landschaftsschutzes, der Fischerei, des Wasserbaus, des Tourismus und der Schifffahrt nötig. Um negative Auswirkungen möglichst zu reduzieren, sind Bootsplätze in zentralen Anlagen zu konzentrieren. Dabei muss auch auf die dafür notwendige Infrastruktur wie die Erschliessung und Parkierung, die Ver- und Entsorgung, WC-Anlagen, usw. geachtet werden. Grössere Anlagen sind planungspflichtig. Standorte sind im Rahmen der kommunalen Nutzungsplanung festzulegen.
 
-Richtplanaufgabe
+B Richtungsweisende Festlegungen / Beschluss
 
-Im Sinne einer zukunftsgerichteten Mobilitätspolitik sollen innovative und erfolgversprechende Ideen gefördert werden können. Neben dem Imageeffekt, der sich vor allem aus wirtschaftlicher und touristischer Sicht positiv auswirkt, wird damit ein nachhaltiges Mobilitätsverhalten gefördert.
+V6-B/2 - Neue Wasserplätze für Boote sind in zentrale Anlagen, welche mit entsprechender Infrastruktur ausgerüstet sind, zu integrieren.
 
-Ein wesentliches Element für die Attraktivitätssteigerung des öffentlichen Verkehrs ist die Tarifpolitik. Das Tarifsystem soll weiter optimiert werden.
+C Handlungsanweisungen
 
-Problemstellung / Ausgangslage
+V6-C/1 Allfällige Veränderungen bezüglich Bootsliegeplätze sind mit der Seeuferplanung Walensee des Kantons St.Gallen abzustimmen.
 
-Ein Beispiel für Anreize, resp. Förderungsmassnahmen ist die Beschaffung von erdgasbetriebenen Bussen im Mittelland.
+Federführung: Dep. Bau und Umwelt, Hauptabt. Tiefbau
 
-Im Sinne von ersten Ideen sind hier einige weitere mögliche Projekte aufgeführt:
+D Objekte
 
-- Fiskalische Anreize für emissionsarme Fahrzeuge
+**KS**
 
-- Vergünstigungen für Park and Ride - Benutzer an den Bahnhöfen
+Objekt-Nr. Gemeinde Standort / Gebiet Bemerkung / Hinweis
 
-- Aktionstage für Schüler und Lehrlinge
+**FS FS FS**
 
-- Verbilligung von Mehrfachbilleten
+**FS**
 
-- Förderung von Biogasantrieben
+V6.01 Glarus Nord Mühlehorn Bootshafen V6.02 Glarus Nord Gäsi (Filzbach) Bootshafen V6.03 Glarus Seerüti-Martiberg Bootshafen / Amphibienlaichgebiet von nationaler Bedeutung V6.04 Glarus Kanal Vorauen Bootshafen E Erläuterungen / Grundlagen
 
-### Richtungsweisende Festlegung
+Siehe Erläuterungsbericht
 
-- 1\. Der Kanton fördert innovative Projekte der Mobilitätsvorsorge.
+Grundlagen:
 
-- 2\. Der Kanton fördert ein nachhaltiges Mobilitätsverhalten.
+- Gesetz über die öffentlich-rechtlichen Verhältnisse am Walensee (Stand vom 5. Mai 1985) (Walenseegesetz)
 
-**Nr. V4-2/1**
+- Seeuferplanung Walensee (1999) des Kantons St.Gallen
 
-### Abstimmungsanweisung
+- Sachplan Verkehr, Teil Infrastruktur Schifffahrt; Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation
 
-Der Kanton schafft die notwendigen Voraussetzungen für die Förderung von innovativen Mobilitätsprojekten.
+### N Natur und Landschaft
 
-**Termine / Verfahren**
+### N1 Landschaftsqualität
 
-### Abstimmungsstand Zuständigkeit
+### N2 Vorranggebiete Natur und Landschaft
 
-**Sofort, Budget**
+### N3 Landwirtschaft
 
-Festsetzung Departement Bau und Umwelt
+N3.1 Vorranggebiete für die Landwirtschaft und Fruchtfolgeflächen N3.2 Intensivlandwirtschaftszonen
 
-**Nr. V4-2/2**
+### N4 Wildruhezonen, Wildtierkorridore und Jagdbanngebiete
 
-### Abstimmungsanweisung
+### N5 Gewässer
 
-Der Kanton schafft die notwendigen Voraussetzungen für die Einführung eines übersichtlichen und kundenfreundlichen Tarifsystems.
+### N6 Wald
 
-**Termine / Verfahren**
+### N7 Naturgefahren
 
-### Abstimmungsstand Zuständigkeit
+### N1 Landschaftsqualität
 
-**Laufende Aufgabe**
+A Ausgangslage
 
-Festsetzung Departement Bau und Umwelt , Fachstelle öffentlicher Verkehr
+Die Landschaft umfasst den gesamten Raum wie ihn Menschen im Alltag wahrnehmen und erleben. Die durch den Menschen geprägten Siedlungs- und Kulturräume sind ebenso Teil der Landschaft wie von der Natur geformte, wenig berührte Gebirgsräume. Strategien zur Landschaftsentwicklung haben sich daher auf die Landschaft in ihrer Gesamtheit zu beziehen.
 
-V - 24
+Die Landschaft erfüllt vielfältige Funktionen. Sie erbringt Leistungen für den Menschen, etwa zur Erholung, zur Stärkung der Identität und als kulturelles Erbe, als Wirtschafts- und Standortfaktor (Grundlage für den Tourismus) sowie als räumliche Basis für die Biodiversität und die Regenerationsfähigkeit der natürlichen Ressourcen. Landschaften haben daher auch Einfluss auf die Lebensqualität.
 
-### V5 Luftverkehr
+Im Kanton Glarus bildet die wenig berührte Hochgebirgs- und Gebirgslandschaft eine eindrückliche Kulisse für die vom Menschen gestalteten Kulturlandschaften im Talboden und an vielen Hanglagen. Die naturnahen Gebirgslandschaften und die Kulturlandschaften lassen auf den Werdegang des Kantons schliessen und tragen dazu bei, Wissen zu vermitteln. Die Landschaft wird so auch zu einem räumlichen Gedächtnis:
 
-### V5-1 Flugplatz und Gebirgslandeplätze
+Die spektakuläre Geologie gibt Aufschluss über die Entstehung der Alpen und über die der Gebirgsbildung zu Grunde liegenden Prozesse (erdgeschichtliche Zeugen). Die Gletscher und Gletschervorfelder lassen die glazialen Prozesse und die Klimaveränderung erkennen.
 
-Richtplanaufgabe
+Die vielen gut erhaltenen historischen Industriekomplexe mit dazugehörigen Bauten und Anlagen prägen noch heute die Tallandschaft und die Siedlungsstruktur. Sie zeugen davon, dass der Kanton Glarus schweiz- und europaweit zu den Pionieren der Industrie gehörte.
 
-Der Kanton unterstützt im Rahmen seiner Möglichkeiten einen sicheren und umweltfreundlichen Betrieb der Zivilluftfahrt im Bereich seines Hoheitsgebietes.
+Trotz der zunehmenden Mechanisierung und Intensivierung der Landwirtschaft sind noch Flächen mit vielen Kleinstrukturen (Hecken, Trockensteinmauern) und weiträumige Sömmerungsgebiete erhalten. Der Landwirtschaft kommt im Kanton nach wie vor ein wichtiger Stellenwert zu.
 
-Problemstellung / Ausgangslage
+Aufgrund der Nähe des Kantons Glarus zum Grossraum Zürich birgt die abwechslungs- und erlebnisreiche Landschaft ein beträchtliches wirtschaftliches Potenzial. Sie bietet Rückzugs- und Erholungsorte für Städter und schafft für Ortsansässige attraktive Möglichkeiten für Aktivitäten im Freien.
 
-Der Bund regelt den Bau und den Betrieb von zivilen Luftverkehrsanlagen im Rahmen seines Sachplans Infrastruktur der Luftfahrt (SIL) und mittels Konzessionen und Bewilligungen. Die Kantone wirken bei der Erarbeitung des Sachplans mit. Der Kanton und die Bevölkerung können zu den Konzessionen und Bewilligungen Stellung nehmen. Kantonale Bewilligungen sind hingegen nicht erforderlich.
+Während bei den besonders erhaltenswerten naturnahen Landschaften der Schutz vor menschlichen Einflüssen in der Regel oberste Priorität hat, stehen bei den Kulturlandschaften insbesondere die Verbesserung der Landschaftsqualität sowie die Vernetzung der Lebensräume und eine hohe Biodiversität im Vordergrund (Landschaftspflege und Landschaftsplanung).
 
-Mit Beschluss vom 18. Oktober 2000 hat der Bundesrat den SIL, konzeptionelle Ziele und Vorgaben, Grundlagen und Teilnetz beschlossen. Die Koordinationsblätter zu den einzelnen Anlagen und die Gebirgslandeplätze wurden hingegen mit einem generellen Überprüfungsauftrag zurückgestellt. Im Rahmen einer Arbeitsgruppe des Bundes, der Kantone und der interessierten Organisationen wird der Bereich Gebirgslandeplätze bereinigt. Im SIL sind folgende Flug- und Gebirgslandeplätze behandelt: (cid:1) Flugplatz Mollis als zivil mitbenützter Militärflugplatz (cid:1) Gebirgslandeplatz ‚Glärnischfirn‘ (cid:1) Gebirgslandeplatz ‚Limmerenfirn‘ (cid:1) Gebirgslandeplatz ‚Vorabgletscher‘ (cid:1) Gebirgslandeplatz ‚Clariden-Hüfifirn‘
+B Richtungsweisende Festlegungen / Beschluss
 
-Der Lärmbelastungskataster für den Flugplatz Mollis wurde erstellt. Dieser legt die Lärmbelastung und damit auch den möglichen Betrieb auf dem Flugplatz fest.
+N1-B/1 Landschaftsqualität
 
-Der Flugverkehr steht teilweise im Widerspruch zu den Bedürfnissen der Siedlungsqualität, des Landschaftsschutzes, der Tourismusausschlussgebiete, der Wildschongebiete und verursacht generell Umweltbelastungen im Bereich Lärm und Luft.
+Die Qualität der Landschaft im Kanton Glarus wird erhalten und wo möglich gesteigert. Der Wert der Landschaft für die ortsansässige Bevölkerung wie auch für Gäste in Bezug auf Wohlbefinden, räumliche Identifikation, Standortattraktivität und weiterer Leistungen nimmt zu. Elemente zur Zielerreichung sind:
 
-### Richtungsweisende Festlegungen
+- Die Bewirtschaftung der landwirtschaftlichen Nutzflächen erfolgt standortgerecht unter Berücksichtigung der ökologischen Tragfähigkeit sowie des öffentlichen Interesses an hochwertigen Nahrungsmitteln und an einer identitätsstiftenden Kulturlandschaft. Landwirtschaftliche Vorranggebiete werden für die nachhaltige Nutzung in ihrer Ausdehnung und Qualität gesichert.
 
-- 3\. Der Flugplatz Mollis ist für den Kanton von grosser wirtschaftlicher Bedeutung und stellt einen wichtigen Standortfaktor dar.
+- Kleinstrukturen wie Hecken, Bäume, Trockensteinmauern, Lesesteinhaufen o.a. prägen die Landschaft wesentlich und stellen Lebensräume für Tiere und Pflanzen dar. Sie werden erhalten, aufgewertet (Sanierung von Trockensteinmauern o.a.) oder neu geschaffen (Pflanzung von Hecken, Hochstammobstbäumen o.a.).
 
-- 4\. Die negativen Auswirkungen der Gebirgslandeplätze sind im Hinblick auf die Interessen des Natur- und Landschaftsschutzes zu minimieren.
+- Die Gewässer werden als Lebensadern der Landschaft aufgewertet und erhalten Raum und die Möglichkeit, einen naturnahen Zustand zu erreichen.
 
-**Nr. V5-1/1**
+- Die Sömmerungsgebiete sollen als Grundlage für eine funktionierende Alpwirtschaft mit hochwertigen regionalen Produkten sowie als naturnahe und ökologisch wertvolle Erholungsräume erhalten bleiben.
 
-### Abstimmungsanweisung
+- Die Gestaltung der Siedlungen nimmt auf das Bedürfnis nach Erholung, Bewegung und Begegnung Rücksicht und lässt Freiräume. Die Landschaftsqualität in der Wohnumgebung wird beibehalten und wenn möglich verbessert.
 
-Die Gemeinde Mollis schafft die planungsrechtlichen Voraussetzungen für die nichtmilitärische Nutzung des Flugplatzes Mollis, indem der Flugplatz in den Nutzungsplan aufgenommen und als „Flugplatzzone“ deklariert wird.
+- Neue Bauten und Anlagen ausserhalb der Bauzone sind zu vermeiden. Ist eine Vermeidung nicht möglich, werden sie landschaftsschonend realisiert. Nicht mehr benötigte Bauten werden, wenn immer, möglich zurückgebaut.
 
-**Termine / Verfahren**
+- Die Wälder werden nachhaltig gepflegt. Besonders naturnahe und artenreiche Wälder werden gefördert.
 
-### Abstimmungsstand Zuständigkeit
+- Die Hochgebirgslandschaften bleiben weitgehend unberührt.
 
-**2 Jahre nach Genehmigung des Richtplans**
+- Die Erlebbarkeit der Landschaft mit ihrer natur- und kulturräumlichen Geschichte wird verbessert und in Wert gesetzt.
 
-Zwischenergebnis Departement Bau und Umwelt, Fachstelle Raumentwicklung Gemeinde Mollis
+- Besonders erhaltenswerte Gebiete für Natur und Landschaft werden unter Schutz gestellt und objektspezifische Schutz- und Aufwertungsziele definiert.
 
-### Verweis auf massgebliche Grundlagen
+N1-B/2 Vorranggebiete
 
-Flugplatz Mollis, Lärmbelastungskataster nach LSV Anhang 8, Militärischer und Ziviler Flugverkehr, 30.6.00
+- Im kantonalen Richtplan werden besonders wertvolle Gebiete für die Landschaft (Vorranggebiete Natur und Landschaft) sowie besonders geeignete Gebiete für die Landwirtschaft (Vorranggebiete Landwirtschaft) bezeichnet.
 
-### Abstimmungsanweisung (vom Bundesrat am 16.4.2008 zur Überarbeitung zurückgewiesen) Nr. V5-1/2
+N1-B/3 Schonende Landschaftsentwicklung
 
-Vom Landrat am 27.04.2005 zur Überarbeitung zurückgewiesen
+- Der Kanton und die Gemeinden setzen sich im Rahmen ihrer raumwirksamen Tätigkeiten und bei der Beurteilung von Nutzungs- und Bauvorhaben für eine schonende Entwicklung von Natur und Landschaft ein.
 
-**V - 25**
+Planungen zielen auf das Sichern, Wiederherstellen und Schaffen von Landschafts-
 
-V - 26
+qualitäten.
 
-### V6 Schifffahrt
+C Handlungsanweisungen
 
-### V6-1 Schifffahrt, Bootsliegeplätze
+N1-C/1
 
-Richtplanaufgabe
+Als strategische Grundlage für die gesamtkantonale Landschaftsentwicklung wird bis 2022 eine Landschaftskonzeption erarbeitet.
 
-Der Kanton koordiniert die Belange Schifffahrt auf dem Walensee in Zusammenarbeit mit den Kantonen Schwyz, Zürich und St. Gallen (Interkantonale Vereinbarung über die Schifffahrt auf dem Zürichsee und dem Walensee, 1979).
+Federführung: Dep. Bau und Umwelt, Abt. Umweltschutz und Energie
 
-Problemstellung / Ausgangslage
+N1-C/2
 
-Die Linienschifffahrt auf dem Walensee, betrieben vom Schiffsbetrieb Walensee AG in Murg SG, bedient auf Glarner Gebiet nur die Haltestelle Mühlehorn. Im Bereich der Linienschifffahrt besteht kein Koordinationsbedarf.
+Die Landwirtschaft als wichtigste Gestalterin der Kulturlandschaft orientiert sich am öffentlichen Interesse an einer identitätsstiftenden, schönen Kulturlandschaft und fördert Landschaftsqualitäten gezielt. Anreize der Agrarpolitik zur Schaffung von Landschaftsqualitäten (Landschaftsqualitätsbeiträge) und zur Erhaltung sowie Vernetzung von Biotopen werden ausgeschöpft. Das im Kanton bereits eingeleitete Landschaftsqualitätsprojekt wird weitergeführt.
 
-Bootshäfen für Segelyachten und Motorboote gibt es am Walensee sowie am Klöntalersee:
+Federführung: Dep. Volkswirtschaft und Inneres, Abt. Landwirtschaft
 
-(cid:1) Mühlehorn: ca. 200 Liegeplätze (plus 8-10 Trockenplätze) (cid:1) Im Gäsi (Filzbach): ca. 124 Liegeplätze (plus 4-5 Trockenplätze) (cid:1) Seerüti-Martiberg (Glarus): 40 Plätze, 40 Seilplätze (Bojen) (cid:1) Kanal Vorauen (Glarus): 40 Anlegeplätze Total sind im Kanton Glarus 585 Schiffe registriert (Klöntaler- und Walensee). Diese verteilen sich auf Trockenplätze, Liegeplätze, Bojen, Domizilboote.
+N1-C/3
 
-### Richtungsweisende Festlegungen
+Der Kanton fördert die Erhaltung und Pflege von erhaltenswerten Kulturlandschaften und Biotopen. Er unterstützt die Gemeinden und Grundeigentümer bei der qualitativen Aufwertung von Landschaften und Biotopen durch Beratung und im Rahmen der gesetzlichen Bestimmungen und Möglichkeiten durch finanzielle Beiträge.
 
-- 1\. Eine Erhöhung der heute bestehenden Bootsliegeplätze ist im Rahmen einer massvollen Erweiterung der bestehenden Anlagen möglich.
+Federführung: Zuständiges Departement
 
-- 2\. Wasserplätze für Boote sind möglichst in zentrale Anlagen, welche mit entsprechender Infrastruktur ausgerüstet sind, zu integrieren.
+N1-C/4
 
-**Nr. V6-1/1**
+Die Gemeinden sichern die Vorranggebiete Natur und Landschaft sowie besonders geeignete Gebiete für die Landwirtschaft (Vorranggebiete Landwirtschaft) in ihren Nutzungsplänen.
 
-### Abstimmungsanweisung
+Die Gemeinden prüfen die Erarbeitung von Konzepten zur Verbesserung der Landschaftsqualität (Landschaftsentwicklungskonzepte und Landschaftsqualitätsprojekte) in Naherholungsgebieten und in der Wohnumgebung. Sie formulieren unter Einbezug der Bevölkerung Massnahmen zur qualitativen Aufwertung von Landschaften im Bereich der Siedlungen und Naherholungsräume (Förderung von Kleinstrukturen mit Hecken, Bachläufen, Baumgruppen und anderer Strukturelemente). Sie prüfen die Schaffung von angepassten ökologischen Ausgleichsflächen und Vernetzungsprojekten.
 
-Allfällige Veränderungen bezüglich Bootsliegeplätze sind mit der Seeuferplanung Walensee des Kantons St. Gallen abzustimmen.
+Federführung: Gemeinde
 
-**Termine / Verfahren**
+D Objekte
 
-### Abstimmungsstand Zuständigkeit
+Keine
 
-**Nutzungsplanverfahren Baubewilligungsverfahren**
+E Erläuterungen / Grundlagen
 
-Zwischenergebnis Departement Bau und Umwelt, Fachstelle Raumentwicklung
+Siehe Erläuterungsbericht
 
-### Verweis auf massgebliche Grundlagen
+### N2 Vorranggebiete Natur und Landschaft
 
-Gesetz über die öffentlich-rechtlichen Verhältnisse am Walensee (Stand vom 5. Mai 1985) (Walenseegesetz) Abstimmung mit Seeuferplanung Walensee (1999) des Kt. St.Gallen
+A Ausgangslage
 
-V - 27
+Als Vorranggebiete Natur und Landschaft werden die in Bezug auf Natur und Landschaft besonders erhaltenswerten Landschaften, Naturdenkmäler, Lebensräume (Biotope) und Geotope bezeichnet. Diese Objekte sind in Verzeichnissen der schützenswerten Objekte von regionaler und von lokaler Bedeutung gemäss Art. 12 der kantonalen Natur- und Heimatschutzverordnung zu erfassen. Besonders erhaltenswerte Objekte werden in kantonale Inventare nach Art. 9 des kantonalen Gesetzes über den Natur- und Heimatschutz aufgenommen. Bestandteil der kantonalen Inventare sind auch die Objekte der Bundesinventare von nationaler Bedeutung.
 
-### L) Natur und Landschaft
+Im kantonalen Richtplan werden die Vorranggebiete in Naturschutzgebiete (Biotope) und Landschaftsschutzgebiete unterschieden. Im kantonalen Richtplan werden Objekte von nationaler und kantonaler Bedeutung festgelegt. Die grundeigentümerverbindliche Sicherung dieser Objekte erfolgt in der kommunalen Nutzungsplanung durch die Gemeinden. Die in der Regel relativ kleinflächigen Naturschutzgebiete dienen dazu, die Lebensräume der standorttypischen Tiere und Pflanzen langfristig zu sichern und wo möglich zu verbessern. Um dies zu erreichen, sind diese schutzwürdigen Flächen wie Auen, Moore und Trockenwiesen zu erhalten, ökologisch aufzuwerten und die Biotope miteinander zu vernetzen. Dadurch kann die natürliche Dynamik vermehrt gefördert werden. Ökologische Pflege-, Aufwertungs- und Vernetzungsmassnahmen führen häufig auch zu visuellästhetischen Mehrwerten, z.B. durch die Schaffung von Kleinstrukturen oder eine artenreiche Magerwiesenflora infolge einer extensiven Bewirtschaftung.
 
-### L1 Landwirtschaftsgebiet
+Landschaftsschutzgebiete sind oft grossflächig und umfassen Landschaften, die aus verschiedenen Gründen als besonders wertvoll und daher als schützenswert erachtet werden, zum Beispiel aufgrund ihrer Ursprünglichkeit, der Vielfalt der Schönheit oder ihrer natur- und kulturgeschichtlichen Bedeutung. Die Gründe für die Ausscheidung einer Landschaft als Landschaftsschutzgebiet sowie die deren spezifischen Schutz- und Entwicklungsziele sind den Verzeichnissen und Inventaren zu entnehmen.
 
-Im ersten Kapitel des Landwirtschaftsteils werden die übergeordneten Ziele der Glarner Landwirtschaftspolitik formuliert. Das zweite bis vierte Kapitel behandeln die für die Landwirtschaft wichtigen Flächen.
+Gebiete des Bundesinventars der Landschaften und Naturdenkmäler von nationaler Bedeutung (BLN-Gebiete), Moorlandschaften sowie das UNESCO-Weltnaturerbe Tektonikarena Sardona (Geotop-Landschaft von internationaler Bedeutung) entsprechen speziellen Formen von Landschaftsschutzgebieten, welche durch Verordnungen auf Bundesebene bzw. durch eine internationale Konvention geschützt sind. Sie bedürfen jedoch zusätzlicher kantonaler bzw. kommunaler Schutzbestimmungen. Für das UNESCO-Weltnaturerbe Tektonikarena Sardona besteht unter den beteiligten Gemeinden eine Vereinbarung, welche die Entwicklungsplanung für das Gebiet sowie erwünschte, zulässige und unerwünschte Nutzungen regelt.
 
-### L1-1 Landwirtschaft
+B Richtungsweisende Festlegungen / Beschluss
 
-### Richtplanaufgabe
+N2-B/1 Erhaltenswerte Biotope
 
-Der Land- und Alpwirtschaft sollen genügend Flächen an geeignetem Kulturland erhalten bleiben. Die hochwertigen Böden sind zu sichern und die Nutzung ist mit der ökologischen Tragfähigkeit abzustimmen. Ein Drittel der Fläche des Kantons ist landwirtschaftlich genutzt. Die landwirtschaftliche Produktion hat somit nach wie vor eine hohe Bedeutung. Für eine nachhaltige Entwicklung ist dem qualitativen Bodenschutz genügend Beachtung zu schenken.
+- Besonders erhaltenswerte Biotope werden erhalten, räumlich gesichert und wo möglich ökologisch aufgewertet. Die Biotope werden untereinander vernetzt und die natürliche Dynamik gefördert. Mit diesen Massnahmen wird zur Erhaltung der Vielfalt an Arten und Lebensräumen beigetragen.
 
-### Problemstellung / Ausgangslage
+- Besonderen Schutz verdienen Lebensräume von seltenen und bedrohten Arten und Lebensgemeinschaften. Die Schutz- und Entwicklungsziele (Schutz- und Pflegemassnahmen am Objekt, allfälliger Umgebungsschutz und Pufferbereich) richten sich nach den Verzeichnissen und Inventaren.
 
-Die Bedeutung der Landwirtschaft hat sich seit dem letzten kantonalen Richtplan für den Kanton Glarus nicht wesentlich verändert. In der Bevölkerung hat sich die Gewichtung der Funktionen der Landwirtschaft verlagert. Die Sorge um eine sichere Versorgung in Zeiten gestörter Zufuhr ist, vor allem bei der jüngeren Generation, kaum mehr zu erkennen. Mit den zunehmend liberalisierten Agrarimporten sind die Preise für landwirtschaftliche Erzeugnisse überwiegend stabil geblieben oder teilweise gesunken. Konsumentinnen und Konsumenten erwarten heute nicht mehr primär billige Nahrungsmittel, sondern zahlbare, qualitativ hochwertige Produkte, die unter tiergerechten und ressourcenschonenden Bedingungen entstanden sind. Die Anforderungen an die Pflege der Kulturlandschaft und die Erhaltung der natürlichen Lebensgrundlagen sind gestiegen, nicht zuletzt weil die grosse Bedeutung einer intakten Kulturlandschaft für den Tourismus und für die Bekämpfung von Naturgefahren ins Bewusstsein gerückt ist.
+N2-B/2 Erhaltenswerte Landschaftsräume und Naturdenkmäler
 
-Von der Gesamtfläche des Kantons Glarus von 68'510 ha wurden gemäss statistischem Jahrbuch der Schweiz 2002 ca. 20'900 ha von der Land- und Alpwirtschaft genutzt. Auf Wies- und Ackerland, Heimweiden und Spezialkulturen entfielen ca. 6'100 ha, auf Alpweiden und Alpheuflächen ca. 14'700 ha und auf Obst, Reb- und Gartenbau ca. 100 ha. Gegenüber 1983/85 hat die landwirtschaftliche Nutzfläche um 2,3% zugunsten der bestockten Fläche und der Siedlungsfläche abgenommen.
+- Besonders erhaltenswerte Landschaftsräume und Naturdenkmäler werden erhalten, räumlich gesichert und bei bestehenden Beeinträchtigungen wo möglich aufgewertet. Der besondere Charakter dieser Landschaftsräume und Naturdenkmäler bleibt erhalten. Die Schutz- und Entwicklungsziele (Schutz- und Pflegemassnahmen am Objekt, allfälliger Umgebungsschutz und Pufferbereich) richten sich nach den Verzeichnissen und Inventaren.
 
-Der Kanton Glarus misst der Alpwirtschaft traditionsgemäss einen hohen Stellenwert bei. Dies äussert sich namentlich in der bereits früh erfolgten gesetzlichen Regelung und Kontrolle der standortgerechten Bewirtschaftung der Alpen. Den Funktionen der Alpwirtschaft kommt im Kanton Glarus insofern eine besondere Bedeutung zu, dass der Anteil der alpwirtschaftlichen Nutzflächen an der gesamten land- und alpwirtschaftlich genutzten Fläche ausgesprochen hoch ist (GL: 70 %; CH: 35 %). Entsprechend bedeutungsvoll ist die Alpwirtschaft für die Glarner Landwirtschaftsbetriebe (Aufstockung der Futterbasis um rund einen Sechstel, Zuerwerb u.a.) wie für die Allgemeinheit (Erhaltung grossräumiger naturnaher Erholungsräume und noch weitgehend intakter Lebensräume für Tiere und Pflanzen u.a.). Die alpwirtschaftliche Nutzung steht in engster Abhängigkeit von den landwirtschaftlichen Struk-
+- Bestehende Bauten und Anlagen in Landschaftsschutzgebieten können unterhalten, massvoll erneuert und wenn notwendig ausgebaut werden. Erforderliche Ausbauten sind landschaftsverträglich und umweltschonend durchzuführen.
 
-L - 1 turen im Heimgebiet. Mit fortschreitendem Kulturlandverlust und einer entsprechenden Reduktion der Viehbestände und der Landwirtschaftsbetriebe ist eine Verminderung der bewirtschafteten Alpfläche verbunden.
+- Landschaftsschutzgebiete sind von neuen Bauten und Anlagen freizuhalten.
 
-### Richtungsweisende Festlegungen
+Ausgenommen sind standortgebundene Bauten und Anlagen sowie Infrastrukturen (Trinkwasserversorgung), die zum Schutz der Bevölkerung (Gefahrenabwehr) oder für die Bewirtschaftung und Pflege des Gebietes erforderlich sind. Diese Bauten und Anlagen nehmen in Bezug auf Lage und Gestaltung Rücksicht auf den Charakter der Landschaft.
 
-- 1\. Der Kanton fördert nach den Vorgaben des Kantonalen Landwirtschaftsgesetzes die Landwirtschaft, eingeschlossen die Alpwirtschaft. Er schafft günstige Rahmenbedingungen für deren Entwicklung und für eine leistungsfähige, markt- und umweltgerechte Bewirtschaftung insbesondere durch eigenständige Familienbetriebe.
+- Der Unterhalt und der landschaftsschonende Ausbau von Wanderwegen, die zum Erleben dieser Landschaften beitragen, sind möglich, wenn sie den Schutzabsichten nicht entgegenstehen.
 
-Prioritär behandelt er dabei die Verbesserung der Voraussetzungen für:
+N2-B/3 UNESCO-Weltnaturerbe Tektonikarena Sardona
 
-- Eine naturnahe und möglichst kostengünstige Produktion in eigenständigen Familienbetrieben,
+- Innerhalb des Perimeters des UNESCO-Weltnaturerbes «Tektonikarena Sardona» richten sich die Schutz- und Nutzungsziele vorbehältlich weitergehendem übergeordnetem Recht nach dem Beschluss des UNESCO-Welterbekomitees und der Vereinbarung zwischen den beteiligten Gemeinden über den gemeinsamen Schutz des UNESCO-Weltnaturerbes.
 
-- Eine flächendeckende Bewirtschaftung der Kulturlandschaften auf einem angepassten Intensitätsniveau unter Beachtung der Abhängigkeiten zwischen den Landwirtschaftsflächen der Tal- und Berggüter und den Alpwirtschaftsflächen,
+C Handlungsanweisungen
 
-- Die Erhaltung einer minimalen Besiedlung der Randgebiete im Hinblick auf deren Funktionsfähigkeit,
+N2-C/1
 
-- Die ökologische Aufwertung der Landwirtschaftsflächen und die Schaffung und Erhaltung ökologischer Ausgleichsflächen als Vernetzungselemente zwischen naturnahen Landschaften.
+Der Kanton sorgt für den Schutz und den Unterhalt der Biotope von nationaler und kantonaler Bedeutung sowie den Unterhalt der landwirtschaftlich genutzten Biotopflächen von kommunaler Bedeutung. Er führt das kantonale Biotopverzeichnis, aktualisiert dieses periodisch, überprüft dabei die objektspezifischen Schutz- und Entwicklungsziele und passt diese gegebenenfalls an. Neue Objekte werden in Rücksprache mit den Gemeinden dem Regierungsrat zur Aufnahme in die Inventare vorgeschlagen.
 
-- Er unterstützt Massnahmen zum qualitativen Bodenschutz
+Der Kanton berücksichtigt die in den Verzeichnissen und Inventaren festgelegten Schutz- und Entwicklungsziele bei seinen raumwirksamen Tätigkeiten. Er trifft weitere Massnahmen, welche zu Schutz, Aufwertung und Vernetzung der Biotope beitragen (z.B. Planung und Festlegung der ökologischen Infrastruktur; Umsetzung von Vernetzungskonzepten). Federführung: Dep. Bau und Umwelt, Abt. Umweltschutz und Energie N2-C/2
 
-- 2\. Der Kanton überwacht die Qualität der Böden periodisch und fördert den sachgerechten Umgang mit den natürlich gewachsenen und belebten Böden.
+Die Gemeinden sorgen für den Schutz und Unterhalt der Biotope von kommunaler Bedeutung. Die Gemeinden führen ein kommunales Biotopverzeichnis. Dessen Inhalt richtet sich nach den Vorgaben des NHG und NHV. Sie aktualisieren dieses periodisch, überprüfen die objektspezifischen Schutz- und Entwicklungsziele regelmässig und passen diese gegebenenfalls an.
 
-**Nr. L1-1/1**
+Die Gemeinden scheiden die Biotope von nationaler und kantonaler Bedeutung in ihrer Nutzungsplanung aus. Biotope von kommunaler Bedeutung werden in Abwägung der weiteren Interessen im Rahmen der kommunalen Richtplanung der Gemeinde ebenfalls ausgeschieden und in der Nutzungsplanung gesichert.
 
-### Abstimmungsanweisung
+Sie berücksichtigen die in den Verzeichnissen und Inventaren festgelegten Schutz- und Entwicklungsziele bei ihren raumwirksamen Tätigkeiten. Sie können weitere Massnahmen treffen, welche zu Schutz, Aufwertung und Vernetzung der Biotope beitragen (z.B. Umsetzung von Vernetzungskonzepten).
 
-Die Gemeinden formulieren Massnahmen zur qualitativen Aufwertung von Landschaften, in denen Hecken, Bachläufe, kleine Wäldchen und andere Strukturelemente fehlen. In der Landschaft prüfen sie die Schaffung von dem Landschaftstypus angepassten, ökologischen Ausgleichsflächen und Vernetzungsprojekten. Der Kanton unterstützt die Gemeinden und die Grundeigentümer durch Beratung und im Rahmen der gesetzlichen Bestimmungen und Möglichkeiten durch finanzielle Beiträge.
+Federführung: Gemeinde
 
-**Termine / Verfahren**
+N2-C/3
 
-### Abstimmungsstand Zuständigkeit
+Der Kanton sorgt für den Schutz und den Unterhalt der Landschaften von nationaler und kantonaler Bedeutung. Er führt das kantonale Landschaftsverzeichnis, aktualisiert das Verzeichnis periodisch und überprüft die Ziele bezüglich Erhaltung und Aufwertung regelmässig. Neue Inventarobjekte werden in Rücksprache mit den Gemeinden dem Regierungsrat zur Aufnahme in die Inventare vorgeschlagen.
 
-**Im Rahmen der nächsten Nutzungsplanrevision**
+Er berücksichtigt die in den Verzeichnissen und Inventaren festgelegten Schutz- und Entwicklungsziele bei seinen raumwirksamen Tätigkeiten. Er trifft weitere Massnahmen, um den speziellen Charakter dieser Landschaften zu wahren und wo möglich zu verbessern. Dazu gehören besondere Bewirtschaftungs- und Gestaltungsmassnahmen.
 
-Zwischenergebnis Departement Volkswirtschaft und Inneres, Abteilung Landwirtschaft Departement Bau und Umwelt, Abteilung Umweltschutz und Energie Alle Gemeinden
+Der Kanton berücksichtigt die Bestimmungen gemäss dem Beschluss des UNESCO-Welterbekomitees und der Vereinbarung über den Schutz des UNESCO-Weltnaturerbes bei seinen raumwirksamen Tätigkeiten.
 
-### Verweis auf massgebliche Grundlagen
+Federführung: Dep. Bau und Umwelt, Abt. Umweltschutz und Energie
 
-- Verordnung vom 7. Dezember 1998 über die Direktzahlungen an die Landwirtschaft (Direktzahlungsverordnung, DZV)
+N2-C/4
 
-- Verordnung vom 4. April 2001 über die regionale Förderung der Qualität und der Vernetzung von ökologischen Ausgleichsflächen in der Landwirtschaft (Öko-Qualitätsverordnung, ÖQV)
+Die Gemeinden scheiden die Landschaftsschutzgebiete sowie die sinngemässen Schutzgebiete für Landschaften von nationaler und kantonaler Bedeutung in ihrer Nutzungsplanung aus. Landschaften von kommunaler Bedeutung werden in Abwägung der weiteren Interessen im Rahmen der kommunalen Richtplanung der Gemeinde ebenfalls ausgeschieden und in der Nutzungsplanung gesichert. Sie berücksichtigen die in den Verzeichnissen und Inventaren festgelegten Schutz- und Entwicklungsziele bei ihren raumwirksamen Tätigkeiten.
 
-- Einführungsgesetz zum Umweltschutzgesetz, Art. 25
+Die Gemeinden berücksichtigen die Bestimmungen gemäss dem Beschluss des UNESCO-Welterbekomitees und der Vereinbarung über den gemeinsamen Schutz des UNESCO-Weltnaturerbes bei ihren raumwirksamen Tätigkeiten und sichern diese in der Nutzungsplanung.
 
-L - 2
+Federführung: Gemeinde D Objekte
 
-### L1-2 Landwirtschaftliche Vorranggebiete
+D-1 Objekte nach NHG
 
-### Richtplanaufgabe
+D-1.1 Biotope von nationaler Bedeutung gemäss Art. 18a NHG
 
-Die Bezeichnung von vorrangigen Landwirtschaftsflächen ist nicht nur für die Existenzsicherung der Landwirtschaftsbetriebe sondern auch für die Sicherstellung der Bewirtschaftung von Grenzertragsstandorten, auf denen traditionelle Landwirtschaft nicht rentabel betrieben werden kann, von grosser Bedeutung. Trotz den Strukturanpassungen in der Landwirtschaft sind die Grenzertragsstandorte so weit wie möglich zu erhalten.
+Bundesinventar der Amphibienlaichgebiete von nationaler Bedeutung
 
-### Problemstellung / Ausgangslage
+**Bemerkung / Hinweis**
 
-Lediglich mit einem grossen Anteil rationell bewirtschaftbarer Nutzflächen wird es der Glarner Landwirtschaft möglich sein, die im Gesamtinteresse zu nutzenden Grenzertragsstandorte, also Standorte, die mit traditioneller Landwirtschaft nicht rentabel betrieben werden können, zu bewirtschaften. Aus diesem Grunde ist die Erhaltung der vorrangigen Landwirtschaftsflächen sehr wichtig.
+**KS**
 
-Die landwirtschaftlichen Vorranggebiete wurden 1981 bezeichnet und im Jahre 1998 überprüft. Die Überprüfung hatte zum Ziel, die Änderungen in Folge Überbauungen, Erstellung neuer Verkehrsanlagen oder anderer Nutzungsänderungen nachzuführen und Konflikte mit der aktuellen Nutzungsplanung aufzuzeigen.
+**(Bundesbezeichnung) GL2 Niederriet FS GL17 Walenberg FS GL18 Talalpsee FS GL47 Feldbach FS**
 
-Die Resultate wiesen im Jahre 1998 4350 ha als Vorranggebiete aus, was einer Reduktion von 8% (372 ha) gegenüber 1981 entspricht. 2776 ha (64%) gelten als Vorranggebiete erster Priorität, 1574 ha (36%) zweiter Priorität. Die Konfliktgebiete machen insgesamt 172 ha aus: davon sind 141 ha Vorranggebiete erster Priorität und 31 ha Vorranggebiete zweiter Priorität resp. 138 ha Bauzonen und 34 ha Zonen mit noch nicht bestimmter Nutzung betroffen (Stand 1998).
+Objekt-Nr. Gemeinde Standort / Gebiet
 
-### Richtungsweisende Festlegungen
+N2.1 Glarus Nord Niederriet N2.52 Glarus Nord Walenberg N2.94 Glarus Nord Talalpsee N2.110 Glarus Nord Feldbach N2.167 Glarus N2.176 Glarus N2.181 Glarus N2.244 Glarus Süd Oberblegisee
 
-- 1\. Zur Erfüllung ihres Leistungsauftrages ist die Landwirtschaft im Kanton Glarus auf ausreichend Flächen angewiesen, welche sich für die landwirtschaftliche Nutzung gut eignen und rationell bewirtschaftet werden können. Diese im Richtplan als Vorranggebiete bezeichneten Flächen sind nach Möglichkeit langfristig zu erhalten.
+**Schletter GL20 Klöntalersee Nordostufer FS Klöntalersee Nordostufer GL20 Klöntalersee Nordostufer FS Klöntalersee Vorauen GL96 Klöntalersee Vorauen FS**
 
-- 2\. Die Vorranggebiete bilden zudem eine wirtschaftliche und betriebliche Voraussetzung für die Bewirtschaftung der Grenzertragsstandorte, welche neben der landwirtschaftlichen Bedeutung auch wichtig sind für eine attraktive Kulturlandschaft und für den Tourismus.
+**GL37 Oberblegisee FS**
 
-L - 3
+Bundesinventar der Auengebiete von nationaler Bedeutung
 
-**Nr. L1-2/1**
+**Bemerkung / Hinweis**
 
-### Abstimmungsanweisung
+**KS**
 
-Die Landwirtschaftlichen Vorranggebiete sind langfristig zu erhalten. Im Falle von Baugebietserweiterungen, Strassenprojekten und Einzonungen und Umzonungen von "Zonen mit noch nicht bestimmter Nutzung" haben der Kanton und die Gemeinden die durch die Direktion für Landwirtschaft, Wald und Umwelt, Amt für Landwirtschaft kartierten Vorranggebiete in die Interessenabwägung einzubeziehen.
+**(Bundesbezeichnung) 348 - Linth Delta FS**
 
-**Termine / Verfahren**
+Objekt-Nr. Gemeinde Standort / Gebiet
 
-### Abstimmungsstand Zuständigkeit
+N2.2 Glarus Nord Gäsi / Linth Delta N2.185 Glarus
 
-**Nutzungsplanverfahren Verkehrsplanungen**
+**Hinter Klöntal 109 - Hinter Klöntal; Delta FS**
 
-Festsetzung Alle Gemeinden Departement Volkswirtschaft und Inneres, Abteilung Landwirtschaft Departement Bau und Umwelt, Fachstelle Raumentwicklung
+**216 - Chrauchbach, Haris;**
 
-### Verweis auf massgebliche Grundlagen
+**FS**
 
-- Arbeitsgemeinschaft Beratender Agronomen AGBA AG (1998): Überprüfung der Landwirtschaftlichen Prioritätsgebiete im Kanton Glarus
+**Fliessgewässer 1302 - Oberstafelbach; Alpine**
 
-L - 4
+N2.261 Glarus Süd Bruch
 
-### L1-3 Fruchtfolgeflächen
+**FS**
 
-### Richtplanaufgabe
+**Schwemmebene**
 
-Der Kanton sichert den Mindestumfang an bestgeeignetem ackerfähigem Kulturland als Fruchtfolgeflächen (FFF) gemäss den verbindlichen Vorgaben des Sachplans Fruchtfolgeflächen des Bundes.
+N2.388 Glarus Süd Oberstafelbach
 
-### Ausgangslage
+Bundesinventar der Flachmoore von nationaler Bedeutung
 
-Fruchtfolgeflächen (FFF) umfassen das qualitativ bestgeeignete ackerfähige Kulturland. Ein Mindestumfang an FFF wird benötigt, damit einerseits in Zeiten gestörter Zufuhr die ausreichende Versorgungsbasis des Landes gewährleistet werden kann und andererseits indirekt weitere Ziele wie z.B. die Erhaltung von ertragsreichen Futterbauflächen oder von Grün- und Erholungsflächen erreicht werden. Gemäss dem Sachplan Fruchtfolgeflächen des Bundes beträgt der Mindestumfang an FFF für den Kanton Glarus 200 ha.
+**Bemerkung / Hinweis**
 
-### Im Rahmen der im Jahr 2010 abgeschlossenen Bodenkartierung wurden insgesamt 308 Hektaren
+**KS**
 
-fruchtfolgeflächenfähige Böden evaluiert, die den Bundeskriterien für Fruchtfolgeflächen entsprechen.
+**(Bundesbezeichnung) 1834 Niderriet FS 1550 Lachen (auch Kanton SZ) FS 3697 Blossen FS 1838 Scheidegg (auch Kanton SZ) FS 1840 Gross Moos im Schwändital FS 1845 Boggenberg FS 1846 Türliboden FS 627 Meur bei Britteren FS 1918 Mürtschen FS 1919 Ober Mürtschen FS 1932 Gnappetriet FS 1868 Längriet FS 1868 Längriet FS 1869 Rossweid FS**
 
-Ein Blick auf die kartierten Böden zeigt, dass sich die geeigneten Gebiete an keine äusseren Strukturen halten, sondern irgendwelche Formen der Natur respektive alte Linthläufe abbilden. Für eine sinnvolle Zuteilung von Böden in FFF ist aber auch die Parzellenstruktur und -form zu berücksichtigen, da sich eine mögliche ackerbauliche Nutzung ebenfalls daran orientieren wird. Aus agronomischen und strukturellen Gründen wurden deshalb Flächen zu sogenannten FFF-Clustern zusammengefasst. Jedes dieser Cluster besteht aus Flächen, welche die FFF-Kriterien erfüllen, mit Rekultivierungsaufwand zu FFF gemacht werden können, nicht ackerfähig oder unproduktiv (Verkehrs-, Wasserflächen, Hofumschwung) sind.
+Objekt-Nr. Gemeinde Standort / Gebiet
 
-Im Verlauf der Kartierungsarbeiten wurde festgestellt, dass im Kanton Glarus neben den bodenkundlichen Kriterien die besonderen lokalklimatischen Verhältnisse für die Bodeneignung von Bedeutung sind. Agronomisch betrachtet ist der Abendschatten für die Ausreifung der Ackerfrucht von Wichtigkeit. Diejenigen Flächen, die Mitte September nach 16.30 Uhr nicht mehr besonnt werden als „FFF mit Einschränkung Schattenwurf“ dargestellt.
+**55 FS 357 (auch Kanton Uri) FS**
 
-Der Kanton Glarus verfügt über ein Verwertungskonzept, welches zur Bereitstellung von weiteren Fruchtfolgeflächen beitragen kann. Wo möglich, prüft der Kanton die Aufwertung der Böden zu zusätzlichen Fruchtfolgeflächen (Verlagerung von Oberböden).
+N2.01 Glarus Nord Niderriet N2.11 Glarus Nord Lachen N2.20 Glarus Nord Blossen N2.57 Glarus Nord Scheidegg N2.65F Glarus Nord Gross Moos N2.83F Glarus Nord Boggenberg N2.102 Glarus Nord Türliboden N2.64 Glarus Nord Meur bei Britteren N2.125F Glarus Nord Grossi Friiz N2.141 Glarus Nord Ober Mürtschen N2.219 Glarus Süd Gnappetriet N2.246 Glarus Süd Stäfeli N2.248F Glarus Süd Längriet N2.250 Glarus Süd Ochsenbüel Bemerkung / Hinweis Objekt-Nr. Gemeinde Standort / Gebiet (Bundesbezeichnung) N2.274F Glarus Süd Garichti N2.289F Glarus Süd Matt N2.310 Glarus Süd Werbenrüsli N2.301F Glarus Süd Etzelhüsli N2.382 Glarus Süd Unter Jetz
 
-L - 5
+**KS**
 
-### Richtplananweisung
+**1876 Garichti FS 1877 Matt FS 1882 Werbenrüsli FS 1858 Etzelhüsli FS 1894 Unter Jetz FS**
 
-### Richtungsweisende Festlegung
+Bundesinventar der Hoch- und Übergangsmoore von nationaler Bedeutung
 
-Der Richtplan bezeichnet zu erhaltende Fruchtfolgeflächen und legt diese räumlich in der Richtplankarte und quantitativ fest:
+**KS**
 
-### Fruchtfolgeflächen ohne Schattenwurf
+Bemerkung / Hinweis Objekt-Nr. Gemeinde Standort / Gebiet (Bundesbezeichnung) N2.65H Glarus Nord Gross Moos N2.83H Glarus Nord Boggenberg N2.125H Glarus Nord Grossi Friiz N2.290 Glarus Süd Wyssriet N2.301H Glarus Süd Etzelhüsli N2.289H Glarus Süd Matt N2.274H Glarus Süd Garichti N2.248H Glarus Süd Längriet
 
-FFF-fähig (ohne Total Fläche FFF-Paket Nr. Flurname Aufwertung, ha) Cluster (ha)
+**245 Gross Moos im Schwändital FS 246 Boggenberg FS 441 Mürtschen FS 248 Grotzenbüel FS 247 Ethelhüsli FS 427 Matt oberhalb Stausee Garichti FS 422 Garichti FS 492 Längriet FS**
 
-### Glarus Nord
+Bundesinventar der Trockenwiesen und -weiden von nationaler Bedeutung
 
-**19.3 26.6 8.3 11.0 2.1 2.7 8.5 12.5 4.7 7.0 39.5 53.8 2.5 3.7 2.7 4.2 4.7 7.1 4.2 9.7 6.5 10.8 3.9 9.1 6.8 17.0 29.0 39.7 5.0 7.8 2.6 4.3 0.6 0.9 2.2 3.5 1.7 1.7 1.0 1.6 11.8 17.0 3.5 3.8 171.0 255.5**
+ Diese Objekte werden nur in der Richtplankarte dargestellt.
 
-1 Hänggelgiessen 2 Tschachen 3 Blumengut 4 Anstaltwies 5 Au (Südwest) 7 Wisenstrasse 8 Langwies 9 Linthkolonie 14 Bluemenriet 15 Innerflechsen 16 Schwerzriet 17 Grossguet 18 Rietbuckwies 19 Schärhufen 20 Oberer Tschachen 21 Im Sand 22 Riet / Tankgraben 23 Büelen 24 Tschachenstrasse 25 Erlen 27 Allmeind Inseli 32 Mullerholz
+D-1.2 Moorlandschaften gemäss Art. 23b NHG Bundesinventar der Moorlandschaften von bes. Schönheit u. nationaler Bedeutung
 
-### Total Glarus Nord Glarus Süd
+**KS**
 
-**3.7 6.2 8.1 10.5 11.9 16.7**
+Bemerkung / Hinweis Objekt-Nr. Gemeinde Standort / Gebiet (Bundesbezeichnung) N2.M01 Glarus Nord Schwändital N2.M02 Glarus Süd Urnerboden
 
-33 Hof 34 Matt
+D-1.3 Bundesinventar der Landschaften und Naturdenkmäler von nationaler Bedeutung im Sinne von Art. 5 NHG (BLN)
 
-### Total Glarus Süd
+**Bemerkung / Hinweis KS**
 
-**182.8 272.2**
+**FS**
 
-### Total Fruchtfolgeflächen ohne Einschränkungen
+**1601 (auch Kanton SZ) FS**
 
-### Fruchtfolgeflächen mit Schattenwurf
+**FS**
 
-FFF-fähig (ohne Total Fläche FFF-Paket Nr. Flurname Aufwertung, ha) Cluster (ha)
+**Linthlandschaft Mitlödi Mitlödi FS Schönau Diesbach, Hätzingen, Haslen FS Diestal Diesbach FS Diesbachfälle Diesbach, Betschwanden FS Linthlandschaft Linthal Linthal FS Spicher Engi FS Mühlibachtal Engi FS Weissenberge Matt, Engi FS Tödi Linthal FS Limmeren Linthal FS Kärpf Linthal, Rüti, Betschwanden, Dies- FS**
 
-### Glarus Nord
+**bach, Hätzingen, Haslen, Schwanden, Engi, Matt, Elm**
 
-**2.2 4.0 3.4 5.7 24.5 36.5 8.8 20.0 38.9 66.1**
+**Hausstock Elm FS Segnes Elm FS Chrauchtal Matt, Engi, Elm FS**
 
-10 Unter Fennen 11 Ober Fennen 26 Grüt / Kleiner Tschachen 29 Allmeind Erlen
+Objekt-Nr. Gemeinde Standort / Gebiet (Bundesbezeichnung) N2.B01 Glarus Nord Murgtal-Mürtschental 1602 (auch Kanton SG) /Glarus Süd N2.B02 Glarus Silberen N2.B03 Glarus Süd Lochseite bei Schwanden 1611 D-2 Objekte UNESCO UNESCO Weltnaturerbe Tektonikarena Sardona
 
-### Total Glarus Nord Glarus
+**Standort / Gebiet Bemerkung / Hinweis KS**
 
-**5.1 8.5 5.1 8.5 44.0 74.6**
+Objekt-Nr. Gemeinde Glarus Nord UNESCO-Weltnatur-N2.U01 / Glarus / Glarus Süd
 
-26 Grüt / Kleiner Tschachen
+**Auch Kantone Graubünden und**
 
-### Total Glarus
+**erbe Tektonikarena FS**
 
-### Total Fruchtfolgeflächen mit Einschränkungen
+**St. Gallen**
 
-### Fruchtfolgeflächen total
+**Sardona**
 
-FFF-fähig (ohne Total Fläche FFF-Aufwertung, ha) Cluster (ha) FFF ohne Einschränkung durch Schattenwurf FFF mit Einschränkung durch Schattenwurf
+D-3 Kantonale Verzeichnisse Objekte kantonales Landschaftsverzeichnis
 
-**182.8 272.2 44.0 74.6 226.8 346.8**
+**Standort / Gebiet Bemerkung / Hinweis KS**
 
-### Total Kanton Glarus
+Objekt-Nr. Gemeinde N2.L01 Glarus Nord Seeflechsen N2.L02 Glarus Nord Burg N2.L03 Glarus Nord Nüen-Britteren N2.L13.1 Glarus Nord Nieder- und Oberurnertal Nieder-/Oberurnen Glarus Nord N2.L13.2 / Glarus Glarus Nord N2.L13.11 / Glarus N2.L04 Glarus
 
-**Nr. L1-3**
+**Mollis, Filzbach FS Oberurnen FS Mollis FS**
 
-### Abstimmungsanweisung
+**FS**
 
-- a) Die im Richtplan bezeichneten Fruchtfolgeflächen sind in ihrer quantitativen und qualitativen Dimension zu erhalten.
+**Oberurnen, Näfels, Netstal, Rie-**
 
-- b) Die Gemeinden weisen die im Richtplan ausgeschiedenen Fruchtfolgeflächencluster im Rahmen der Nutzungsplanung der Landwirtschaftszone zu. Die Abgrenzung zum Siedlungsgebiet ist langfristig zu gewährleisten (z.B. durch die Festsetzung von Siedlungsgrenzen).
+**Wiggis FS**
 
-- c) Bei Änderungen der Bauzonenabgrenzung sind die Fruchtfolgeflächen zwingend an anderer Stelle zu kompensieren. Die Kompensation kann durch Bodenaufwertungen an anderer Stelle oder Auszonung von Bauzonen an fruchtfolgeflächenfähigen Standorten erfolgen.
+**dern, Glarus Mühlehorn, Obstalden, Filzbach,**
 
-- d) Bei einer Beanspruchung von FFF muss eine nachvollziehbare Interessenabwägung vorgenommen werden. Dabei sind folgende Kriterien anzuwenden:
+**Mürtschenstock FS**
+
+**Ennenda**
+
+**Ennetrösligen Ennenda FS**
+
+**Glarus, Mitlödi, Schwändi,**
+
+**Glärnisch Schwanden, Nidfurn, Leuggel- FS**
+
+Glarus / N2.L13.3 Glarus Süd
+
+**bach, Luchsingen**
+
+**Schilt Ennenda, Mitlödi, Sool FS**
+
+Glarus / N2.L13.10 Glarus Süd N2.L05 Glarus Süd N2.L06 Glarus Süd N2.L07 Glarus Süd N2.L08 Glarus Süd N2.L09 Glarus Süd N2.L10 Glarus Süd N2.L11 Glarus Süd N2.L12 Glarus Süd N2.L13.4 Glarus Süd N2.L13.5 Glarus Süd N2.L13.6 Glarus Süd
+
+N2.L13.7. Glarus Süd N2.L13.8 Glarus Süd N2.L13.9 Glarus Süd E Erläuterungen / Grundlagen
+
+Die Abgrenzung der national bedeutsamen Objekte (Objekte der Objektlisten D-1) basiert auf der kantonalen Detailkartierung im kantonalen Biotopverzeichnis.
+
+Grundlagen:
+
+- Bundesinventar der Amphibienlaichgebiete von nationaler Bedeutung
+
+- Bundesinventar der Auengebiete von nationaler Bedeutung
+
+- Bundesinventar der Flachmoore von nationaler Bedeutung
+
+- Bundesinventar der Hoch- und Übergangsmoore von nationaler Bedeutung
+
+- Bundesinventar der Trockenwiesen und -weiden von nationaler Bedeutung Bundesinventar der Amphibienlaichgebiete von nationaler Bedeutung
+
+- Bundesinventar der Moorlandschaften von besonderer Schönheit und nationaler Bedeutung
+
+- Bundesinventar der Landschaften und Naturdenkmäler von nationaler Bedeutung
+
+- Verzeichnis der Landschaften von regionaler Bedeutung im Kanton Glarus (Kantonales Landschaftsverzeichnis); Direktion für Landwirtschaft, Wald und Umwelt, 16. Januar 1996
+
+- Managementplan für das UNESCO-Welterbe Tektonikarena Sardona; IG UNESCO-Welterbe, Sargans, 30. September 2010
+
+- Vereinbarung über den gemeinsamen Schutz des UNESCO-Weltnaturerbes «Glarner Hauptüberschiebung», 31. Oktober 2001
+
+### N3 Landwirtschaft
+
+### N3.1 Vorranggebiete für die Landwirtschaft und Fruchtfolgeflächen
+
+A Ausgangslage
+
+Die Landwirtschaft hat einen multifunktionalen Auftrag. Neben der Produktion von Lebensmitteln nimmt sie bei der Pflege und Gestaltung der Kulturlandschaft eine zentrale Rolle ein. Sie leistet einen wichtigen Beitrag zur Schönheit der Landschaft und hat grossen Einfluss auf die Entwicklung der Ökologie. Dabei entsteht die Kulturlandschaft nicht nur aus der Koppelproduktion, sondern wird durch gezielte Massnahmen zur Schaffung von Landschaftsqualitäten bewusst gepflegt und aufgewertet. Sowohl die landwirtschaftlichen Produkte als auch die Kulturlandschaft leisten einen Beitrag zur Identifikation mit dem Glarnerland.
+
+Die Alpwirtschaft im Kanton Glarus geniesst traditionell einen hohen Stellenwert. Der Anteil der alpwirtschaftlichen Fläche an der gesamten Bewirtschaftungsfläche beträgt rund zwei Drittel. Während die Herausforderung auf alpwirtschaftlicher Stufe darin besteht, eine Bestossung und Nutzung zu erhalten, gehören der anhaltende Kulturlandverlust infolge der Siedlungs- und Verkehrsentwicklung und der fortschreitenden Zersiedelung zu den grössten Schwierigkeiten im Talgrund. Um die ertragsreichen Flächen und damit eine ausreichende Bewirtschaftungsgrundlage für die Landwirtschaft zu sichern, wurden im kantonalen Richtplan schon im Jahr 1988 Vorranggebiete für die Landwirtschaft festgelegt. Bei der Festlegung der aktuellen Vorranggebiete von rund 4782 Hektaren bei einem Total von 7000 Hektaren landwirtschaftlicher Nutzfläche wird die Hangneigung, die Höhenlage und die Exposition berücksichtigt. Für die Erfüllung ihres Leistungsauftrags ist die Landwirtschaft im Kanton Glarus auf die Bewirtschaftung dieser Flächen angewiesen.
+
+Ergänzend zu den Vorranggebieten für die Landwirtschaft sind auch die Fruchtfolgeflächen (FFF) im gemäss Bundessachplan erforderlichen Umfang (200 ha) festzulegen. Die FFF umfassen das qualitativ bestgeeignete ackerfähige Kulturland. Im Rahmen der im Jahr 2010 abgeschlossenen Bodenkartierung wurden fruchtfolgeflächenfähige Böden evaluiert, die den Bundeskriterien für FFF entsprechen. Der Kanton Glarus verfügt gemäss der Bodenkartierung und der FFF-Ausscheidung über 169 ha FFF in der Kategorie der bestgeeigneten Ackerböden. Hinzu kommen 81 ha bedingt geeignete FFF z.B. in Baugebiet, in Schattenlage oder aufgrund anderweitig ungünstiger Einflussgrössen. Weitere 19 ha sind in der Bodenkartierung als aufwertbare Flächen ausgewiesen.
+
+B Richtungsweisende Festlegungen / Beschluss
+
+N3.1-B/1 Landwirtschaftliche Vorranggebiete
+
+- Zur langfristigen Sicherung der Funktionsfähigkeit der Landwirtschaft und zwecks Beitrag zur Ernährungssicherheit werden genügend Flächen an geeignetem Kulturland erhalten. Die hochwertigen Böden werden gesichert und die Nutzung erfolgt standortgerecht unter Berücksichtigung der ökologischen Tragfähigkeiten.
+
+- Die landwirtschaftlichen Vorranggebiete berücksichtigen die Multifunktionalität der Landwirtschaft und sind langfristig zu erhalten. Sie bilden zusammen mit den Fruchtfolgeflächen die wirtschaftliche Basis für eine funktionierende und nachhaltig produzierende Landwirtschaft. Die langfristige Bewirtschaftung der Vorranggebiete trägt zum Erhalt einer attraktiven Kulturlandschaft bei.
+
+N3.1-B/2 Fruchtfolgeflächen (FFF)
+
+- Der Mindestumfang an bestgeeignetem ackerfähigem Kulturland wird als FFF gemäss den Vorgaben des Bundessachplans im Richtplan gesichert. Die im Richtplan festgelegten FFF werden in ihrer quantitativen und qualitativen Dimension erhalten.
+
+- Bei Änderungen der Bauzonenabgrenzung sind die betroffenen FFF zwingend an anderer Stelle zu kompensieren. Dies kann durch Bodenaufwertungen oder Auszonung von Bauzonen an fruchtfolgeflächenfähigen Standorten geschehen. Der Kanton verfügt über ein Verwertungskonzept, welches zur Bereitstellung von weiteren FFF beitragen kann. Bei einer Beanspruchung von FFF erfolgt eine Interessenabwägung unter Anwendung folgender Kriterien sowie unter Berücksichtigung der Anforderungen gemäss Art. 30 RPV:
 
 - Nutzungseignungsklasse und Lage der betroffenen Böden
 
@@ -2461,2233 +2508,1404 @@ FFF-fähig (ohne Total Fläche FFF-Aufwertung, ha) Cluster (ha) FFF ohne Einschr
 
 - Grösse und Qualität von Ersatzflächen und Aufwertungsmassnahmen
 
-### Abstimmungsstand Zuständigkeit Termine / Verfahren
+- Flächen mit ökologischem Aufwertungspotenzial.
 
-Festsetzung Departement Bau und Umwelt, 2015 Fachstelle Raumentwicklung Gemeinden 2016 / Ortsplanungen
+N3.1-B/3 Ökologische Bewirtschaftung
 
-### Verweis auf massgebliche Grundlagen
+- Mit einer umwelt- und standortgerechten Bewirtschaftung leistet die Landwirtschaft einen wichtigen Beitrag zur Schönheit der Landschaft und zur Vielfalt und Funktionsfähigkeit der Natur. Sie schafft Mehrwerte für den Tourismus.
 
-- Sachplan Fruchtfolgeflächen - Festsetzung des Mindestumfangs der FFF und deren Aufteilung auf die Kantone, EJBD (BRP), EVD (BLW), Februar 1992
+- Die ökologische Aufwertung der Landwirtschaftsflächen sowie die Schaffung und Erhaltung ökologischer Ausgleichsflächen als Vernetzungselemente zwischen naturnahen Landschaften werden gefördert.
 
-- Sachplan Fruchtfolgeflächen FFF, Vollzugshilfe (Ausgabe 2006)
+C Handlungsanweisungen
 
-- Bodenkartierung Kanton Glarus 2006-2010, Schlussbericht ARCOPLAN Dezember 2010
+N3.1-C/1
 
-- Konzept zur Verwertung von Bodenaushub, Kanton Glarus, creato April 2011
+Der Kanton fördert die Land- und Alpwirtschaft nach den Vorgaben des kantonalen Landwirtschaftsgesetzes. Er schafft günstige Rahmenbedingungen für deren nachhaltige Entwicklung und für eine leistungsfähige, markt- und umweltgerechte Bewirtschaftung. Federführung: Dep. Volkswirtschaft und Inneres, Abt. Landwirtschaft
 
-**L - 6**
+N3.1-C/2
 
-L - 7
+Der Kanton berücksichtigt die Vorranggebiete für die Landwirtschaft im Rahmen seiner raumwirksamen Tätigkeiten und bei der Beurteilung von Nutzungs- und Bauvorhaben.
 
-### L1-4 Gebiete für Bauten und Anlagen, die über eine innere Aufstockung hinausgehen (Speziallandwirtschaftszonen)
+Werden landwirtschaftliche Vorranggebiete durch Vorhaben im Bereich Siedlung und Verkehr sowie Umwelt tangiert, erfolgt eine umfassende Interessenabwägung unter Berücksichtigung der Bedürfnisse und Funktionen der Landwirtschaft.
 
-### Richtplanaufgabe
+Federführung: Zuständiges Departement N3.1-C/3
 
-Das revidierte Raumplanungsgesetz des Bundes erlaubt in bestimmten Gebieten der Landwirtschaftszone die bodenunabhängige Produktion, die über die so genannte „innere Aufstockung“ hinausgeht mit den dafür erforderlichen Bauten und Anlagen (Tiermastbetriebe, Hors-Sol-Produktion usw.). Der Kanton definiert hierzu, ergänzend zum Raumplanungsgesetz und zur Raumplanungsverordnung, die Anforderungen betreffend Schutz von Siedlungsgebiet und Landschaft, Erschliessung und Begrenzung der Umweltauswirkungen.
+Die Gemeinden berücksichtigen die Vorranggebiete für die Landwirtschaft im Rahmen ihrer raumwirksamen Tätigkeiten und bei der Beurteilung von Nutzungs- und Bauvorhaben.
 
-### Problemstellung / Ausgangslage
+Die Gemeinden weisen die Vorranggebiete für die Landwirtschaft im Rahmen der Nutzungsplanung soweit möglich der Landwirtschaftszone zu. Sie prüfen ergänzende Massnahmen zur langfristigen Sicherung des bestgeeigneten Ackerlands (z.B. durch Festsetzung von langfristig geltenden Siedlungsgrenzen o.a.).
 
-Aufgrund der neuen gesetzlichen Ausgangslage stellen sich zwei Aufgaben: Seitens Kanton gilt es die Kriterien für die Zulassung von Bauten, welche über die innere Aufstockung hinausgehen, zu erstellen. Zudem legt der Kanton im Richtplan die Ausschlusskriterien von Speziallandwirtschaftszonen fest.
+Werden Vorranggebiete durch Vorhaben im Bereich Siedlung und Verkehr sowie Umwelt tangiert, erfolgt eine umfassende Interessenabwägung unter Berücksichtigung der Bedürfnisse und Funktionen der Landwirtschaft.
 
-Zweitens müssen die Gemeinden – vorzugsweise bei Vorliegen konkreter Gesuche – die Festlegung entsprechender Spezialzonen prüfen. Die Gemeinden entscheiden somit im Rahmen des Nutzungsplanverfahrens, ob sie die Speziallandwirtschaftszonen zulassen oder verhindern wollen.
+Die Gemeinden weisen die festgelegten Fruchtfolgeflächen im Rahmen der Nutzungsplanung der Landwirtschaftszone zu.
 
-### Richtungsweisende Festlegungen
+Die Gemeinden fördern und unterhalten auf ihren eigenen Alpbetrieben eine zeitgemässe Infrastruktur.
 
-Als Grundlage für die Zulassung von Bauten im Landwirtschaftsgebiet, die über eine innere Aufstockung hinausgehen (Speziallandwirtschaftszonen), können die Gemeinden auf grösseren zusammenhängenden Flächen Landwirtschaftszonen für bodenunabhängige Landwirtschaft oder für den produzierenden Gartenbau ausscheiden. Sie zeigen auf, wie diese Zonen mit folgenden Interessen abgestimmt sind:
+Federführung: Gemeinde
 
-- bestehende Erschliessung (Verkehr, Wasser, Abwasser)
+D Objekte
 
-- Immissionen (Luft und Lärm) auf Wohngebiete
+Keine
 
-- Schutz des Landschafts- und Ortsbildes (BLN, Naturschutzgebiete, Landschaften von nationaler und regionaler Bedeutung, See- und Flussuferbereiche, Waldrandlagen)
+E Erläuterungen / Grundlagen
 
-- Schutz von Kulturgütern und Denkmälern
+Siehe Erläuterungsbericht
 
-L - 8
+Grundlagen:
 
-**Nr. L1-4/1**
+- Arcoplan (2010): Bodenkartierung Kanton Glarus 2006 – 2010. Erfassung der potenziellen Fruchtfolgeflächen FFF. Schlussbericht
 
-### Abstimmungsanweisung
+- Arcoplan (2010): Fruchtfolgeflächen Glarus (FFF GL). Unterteilung der Fruchtfolgeflächen in Pakete: Erläuterungen
 
-Für Bauten, die über eine innere Aufstockung hinausgehen, können die Gemeinden Spezialzonen (Speziallandwirtschaftszonen) gemäss Art. 16a Abs. 3 RPG innerhalb der Landwirtschaftszone ausscheiden.
+- Perspektiven zur Entwicklung der landwirtschaftlichen Nutzflächen im Kanton Glarus, Projektunterlagen, Abt. Landwirtschaft, Januar 2017
 
-Die Ausscheidung einer Speziallandwirtschaftszone setzt voraus, dass die auszuscheidenden Flächen für die vorgesehenen Nutzungen auch tatsächlich zur Verfügung stehen, bestehende Infrastrukturanlagen genutzt werden können bzw. zweckmässige Infrastrukturanschlüsse möglich sind.
+### N3.2 Intensivlandwirtschaftszonen
 
-Für die Ausscheidung sind die Anliegen des Natur-, Landschafts- und Ortsbildschutzes, des Tourismus, der Bodenqualität sowie die Nähe zu den Bauzonen unter Einbezug der zu erwartenden Lärm- und Luftemissionen zu beachten.
+A Ausgangslage
 
-Speziallandwirtschaftszonen dürfen nicht ausgeschieden werden in:
+Der landwirtschaftliche Strukturwandel ist seit längerem im Gang und wird weiter anhalten. Mit der Teilrevision des Raumplanungsrechts ermöglicht der Bund der Landwirtschaft die neuen Herausforderungen besser bewältigen zu können. Der seit 1. September 2000 in Kraft gesetzte Art. 16a RPG sieht vor, dass Bauten und Anlagen, die über eine sogenannte innere Aufstockung hinausgehen, als zonenkonform bewilligt werden können, wenn der Kanton dieses Gebiet hierfür frei gegeben hat. Der Kanton Glarus legt abgestützt auf Art. 38 RPV die Grundsätze für die Ausscheidung der Intensivlandwirtschaftszonen im Richtplan fest. Intensivlandwirtschaftszonen werden im Rahmen der kommunalen Nutzungsplanung ausgeschieden und sind Teile der Landwirtschaftszone.
 
-- Schutzgebieten nach Bundesrecht sowie in Gebieten mit Schutzfestlegungen nach kantonalem Recht, in denen nicht dem Schutzzweck dienende landwirtschaftliche Bauten ausdrücklich ausgeschlossen sind
+Bei der Ausscheidung der Intensivlandwirtschaftszonen sind die Ziele und Grundsätze nach Art. 1 und 3 RPG massgebend. Bei den Kriterien zur Ausscheidung einer Intensivlandwirtschaftszone werden unterschieden:
 
-- auf Fruchtfolgeflächen, mit Ausnahme wenn ein übergeordnetes Interesse vorliegt und keine anderen geeigneten Flächen zur Verfügung stehen
+- Voraussetzungen für die Ausscheidung von Intensivlandwirtschaftszonen
 
-- in Siedlungstrenngürteln
+- Anforderungen an den Standort
 
-- in Landschaften mit schützenswerter Bausubstanz, wenn sie mit den Schutzzielen nicht vereinbar sind
+- Ausschlusskriterien.
 
-- in Wildtierkorridoren und Amphibienzugstellen, wenn sie deren Funktion beeinträchtigen
+Ein Standort wird nicht alle Kriterien gleichermassen erfüllen. Massgebend ist die gesamthafte Beurteilung. Diese ist im Rahmen der Standortabklärung nachvollziehbar aufzuzeigen. Nicht möglich ist die Ausscheidung in einem Gebiet gemäss den Ausschlusskriterien.
 
-- in Gefahrengebieten
+B Richtungsweisende Festlegungen / Beschluss
 
-- bei Gefährdung des Grundwassers
+N3.2-B/1 Voraussetzung zur Ausscheidung von Intensivlandwirtschaftszonen
 
-- wenn überwiegende Interessen entgegenstehen.
+- Für Bauten und Anlagen die über die innere Aufstockung nach Art. 16a RPG hinausgehen, kann die Gemeinde unter folgenden Voraussetzungen Intensivlandwirtschaftszonen ausscheiden:
 
-**Termine / Verfahren**
+- wenn die Fläche für die vorgesehene Nutzung verfügbar ist.
 
-### Abstimmungsstand Zuständigkeit
+- wenn bestehende Infrastrukturen genutzt werden können oder Infrastrukturanschlüsse ohne erheblichen Aufwand möglich sind.
 
-**Nutzungsplanverfahren**
+N3.2-B/2 Standortanforderungen an eine Intensivlandwirtschaftszone
 
-Festsetzung Alle Gemeinden Departement Bau und Umwelt, Fachstelle Raumentwicklung Departement Volkswirtschaft und Inneres, Abteilung Landwirtschaft
+- Für die Ausscheidung von Intensivlandwirtschaftszonen sind Standorte geeignet:
 
-### Verweis auf massgebliche Grundlagen
+- an denen Bauten und Anlagen zusammengefasst werden können (Konzentrationsprinzip),
 
-- RPG Art. 1 und 3; 16a Abs. 3; RPV Art. 38
+- an denen die Bauten und Anlagen sich gut ins Orts- und Landschaftsbild einordnen lassen, und wo die offene Landschaft möglichst wenig beeinträchtigt wird,
 
-- Neues Raumplanungsrecht, Erläuterungen zur Raumplanungsverordnung und Empfehlung für den Vollzug, Bundesamt für Raumentwicklung (ARE), September 2000
+- wo die Immissionen (Luft und Lärm) auf Wohngebiete möglichst gering ist,
 
-L - 9
+- an denen qualitativ weniger hochwertiger Boden vorhanden ist.
 
-### L2 Tourismus und Erholung
+N3.2-B/3 Ausschlusskriterien zur Ausscheidung von Intensivlandwirtschaftszonen
 
-### Richtplanaufgabe
+- Intensivlandwirtschaftszonen können nicht ausgeschieden werden:
 
-Im Richtplan werden die raumwirksamen Aspekte des Tourismus auf die übrigen Interessen abgestimmt.
+- in Schutzgebieten nach Bundesrecht und Schutzgebieten gemäss kantonalem Richtplan,
 
-### Problemstellung / Ausgangslage
+- an Standorten wo ein Ortsbild gemäss Richtplan erheblich beeinträchtigt wird,
 
-1992 verabschiedete der Landrat das Tourismuskonzept für den Kanton Glarus. Damit sollten grosszügige Rahmenbedingungen, gleich bleibende oder höhere Anzahl Logiernächte und weniger Tagestourismus erreicht, aber auch negative Auswirkungen reduziert werden. In den letzten Jahren wies der Trend allerdings in die entgegengesetzte Richtung. In der Hotellerie ist – gemäss gesamtschweizerischem Trend – ein Rückgang der Logiernächte zu verzeichnen und der Durchschnitt der Bettenbelegung ist mit kleiner als 30% auffallend tief.
+- in siedlungsgliedernden Freiräumen / Siedlungstrenngürteln,
 
-Der Kanton Glarus verfügt im Bereich Tourismus und Erholung über Chancen und Potenziale, die es zu nutzen gilt. Dazu gehören etwa die gute und rasche Erreichbarkeit aus dem Raum Zürich, die ursprüngliche Kultur, das saisonal ausgewogene Freizeitangebot oder die vielfältige Gastronomieszene und das gut ausgebaute Wanderwegnetz. Als Schwächen können die dezentrale Verteilung der Anlagen, die überalterte Infrastruktur, die geringe Beherbergungsqualität oder fehlende Attraktionspunkte genannt werden (Entwicklungspolitisches Leitbild 2000).
+- auf Fruchtfolgeflächen, sofern kein Ersatz geschaffen wird,
 
-### Richtungsweisende Festlegungen
+- in Wildtierkorridoren und Amphibienzugstellen, wenn sie deren Funktion beeinträchtigen,
 
-- 1\. Der Kanton fördert die nachhaltige Entwicklung von Tourismus- und Erholungsgebieten und setzt sich für die Vernetzung der Angebote und für die Schaffung optimaler Dienstleistungen ein.
+- in Gefahrengebieten,
 
-- 2\. Verkehrs- und flächenintensive Tourismus- und Erholungsanlagen nehmen Rücksicht auf die naturnahen Lebensräume von Tieren und Pflanzen und fügen sich in das Orts- und Landschaftsbild ein. Die raumrelevanten Aspekte des Tourismus werden im Richtplan auf die übrigen Interessen abgestimmt.
+- bei Gefährdung des Grundwassers.
 
-- 3\. Wichtige Tourismus- und Erholungsgebiete sind an den öffentlichen Verkehr anzubinden.
+C Handlungsanweisungen
 
-L - 10
+N3.2-C/1
 
-### L2-1 Touristische Intensiv-, Extensiv- und Ausschlussgebiete
+Bezeichnet die Gemeinde in der Nutzungsplanung Intensivlandwirtschaftszonen, ist im Rahmen der Standortabklärungen nachvollziehbar aufzuzeigen, wieweit der Standort die Voraussetzungen und die Anforderungen erfüllt. Es ist aufzuzeigen, dass der Ausscheidung keine Ausschlusskriterien entgegenstehen.
 
-### Richtplanaufgabe
+Scheidet die Gemeinde an mehreren Standorten Intensivlandwirtschaftszonen aus, ist aufzuzeigen, wie dem Konzentrationsprinzip Rechnung getragen wird. Die Ausscheidung von Intensivlandwirtschaftszonen für einen Betrieb ist räumlich zu konzentrieren. Federführung: Gemeinde
 
-Der Richtplan bezeichnet die für den intensiven und extensiven Tourismus vorgesehenen Landschaftsräume sowie die touristischen Ausschlussgebiete, welche aus Gründen des Landschafts- und Naturschutzes für den Tourismus nur beschränkt zur Verfügung stehen.
+D Objekte
 
-### Problemstellung / Ausgangslage
+Keine
 
-Die Gliederung der Tourismusgebiete basiert grundsätzlich auf dem Kantonalen Richtplan 1988. Als weitere Grundlage dient das von der Direktion für Landwirtschaft, Wald und Umwelt 1996 beschlossene "Verzeichnis der Landschaften von regionaler Bedeutung im Kanton Glarus", in welchem die Abgrenzungen der verschiedenen besonders wertvollen Landschaften definiert wurden.
+E Erläuterungen / Grundlagen
 
-Gestützt auf den bisherigen Richtplan und das Landschaftsverzeichnis wird die folgende Gebietseinteilung angewendet:
+Keine
 
-- Touristische Intensivgebiete Sommer / Winter Gebiete in denen eine intensive Erholungsnutzung mit den notwendigen touristischen Anlagen angestrebt wird.
+Grundlagen:
 
-### Innerhalb dieser Gebiete scheiden die Gemeinden in Abwägung der lokal vorhandenen Rauman-
+- Erläuterungen zur Raumplanungsverordnung und Empfehlungen für den Vollzug, Bundesamt für Raumentwicklung (ARE), September 2000
 
-sprüche Zonen aus, in denen touristische Bauten und Anlagen erstellt werden können.
+### N4 Wildruhezonen, Wildtierkorridore und Jagdbanngebiete
 
-- Touristische Extensivgebiete Landschaftlich reizvolle Erholungsgebiete, die sich insbesonders für die extensive Erholungsnutzung eignen.
+A Ausgangslage
 
-### Innerhalb dieser Gebiete können nach Abstimmung mit den lokal vorhandenen Raumansprüchen
+Wildruhezonen dienen dem Schutz wichtiger Wintereinstandsgebiete des Wildes vor einer Störung durch den Menschen. Die Bezeichnung von Wildruhezonen bezweckt den ausreichenden Schutz von wichtigen Lebensräumen von Tieren, wie Wintereinstandsgebieten und den für die Fortpflanzung wichtigen Gebieten (Brunftplätze und Setzgebiete des Schalenwildes, Aufzuchtgebiete und Brutgebiete von Vögeln) vor Störung durch Freizeitaktivitäten. Während der definierten Ruhe- und Schutzzeiten werden die Wildruhezonen mittels Zutrittsverbot abseits der erlaubten Wege (Typ A) oder mittels Betretens- und Fahrerlaubnis nur auf Pisten, Loipen und eingezeichneten Wegen oder Routen (Typ B) vor Störungen geschützt. Mit der Bezeichnung von Wildruhezonen und der Information der Bevölkerung und der Gäste kann eine Sensibilisierung für das Thema Wildschutz sowie eine effiziente Besucherlenkung erfolgen.
 
-die für die extensive touristische Nutzung notwendigen, kleinen touristischen Bauten und Anlagen (ohne mechanische Transportanlagen) errichtet werden. Heute schon bestehende mechanische Transportanlagen können weiterbetrieben, erneuert oder durch Anlagen mit ähnlicher Kapazität ersetzt werden.
+Wildtiere müssen für ihr nachhaltiges Gedeihen im Laufe des Tages und der Jahreszeiten zwischen den für Nahrung, Ruhe, Sozialkontakt und Fortpflanzung geeigneten Lebensräumen je nach Tierart wenige Meter bis viele Kilometer weit zirkulieren können. Zahlreiche dieser Korridore sind durch Strassen, Bahnlinien und Siedlungen beeinträchtigt oder gar unterbrochen. Insgesamt wurden für den Kanton Glarus 17 Korridore von unterschiedlicher Bedeutung festgestellt.
 
-- Touristische Ausschlussgebiete Gebiete, die in ihrem heutigen Zustand ungeschmälert erhalten werden sollen.
+Die drei eidgenössischen Jagdbanngebiete dienen der Sicherstellung einer nachhaltigen Population der Wildtiere. In den Gebieten mit integralem Schutz können Regulationsmassnahmen nur mit Zustimmung des Bundes vorgenommen werden. In den partiell geschützten Gebieten kann der Kanton über Regulationsmassnahmen selber entscheiden.
 
-Touristische Infrastrukturen sind, nach Abwägung der lokal vorhandenen Raumansprüche, einzig im Gastwirtschaftsbereich möglich.
+B Richtungsweisende Festlegungen / Beschluss
 
-Die Abgrenzungen der Touristischen Ausschlussgebiete orientieren sich in der Regel an den im Richtplan dargestellten "Landschaften von regionaler und nationaler Bedeutung". Die Direktion Landwirtschaft, Wald und Umwelt hat im Rahmen des Verzeichnisses der Landschaften von regionaler und nationaler Bedeutung die folgenden wertvollen Landschaften inventarisiert:
+N4-B/1 Wildruhezonen
 
-- Landschaften von regionaler Bedeutung
+- In den Wildruhezonen werden wildlebende Tierarten während der massgebenden Ruhezeiten vor menschlichen Störungen weitgehend geschützt.
 
-- Schon- und Ruhegebiete gemäss Richtplan von 1988 mit überarbeiteten Perimetern
+N4-B/2 Wildtierkorridore
 
-- Moorlandschaften und BLN-Gebiete von nationaler Bedeutung.
+- Im Bereich der intakten Wildtierkorridore werden die ökologischen Qualitäten und die Verbindungswege der Tiere erhalten.
 
-L - 11
+**FS FS FS FS FS FS FS FS**
 
-**L2-1/1**
+- Die beeinträchtigten oder weitgehend unterbrochenen Wildtierkorridore werden mit geeigneten Massnahmen aufgewertet (Trittsteine, Leitstrukturen) oder wiederhergestellt. Die Korridore von überregionaler Bedeutung sind dabei prioritär zu behandeln. C Handlungsanweisungen
 
-### Abstimmungsanweisung
+N4-C/1
 
-Der Richtplan bezeichnet die touristischen Intensiv-, Extensiv- und Ausschlussgebiete. Die entsprechenden Nutzungsbestimmungen werden bei Nutzungsplanverfahren, Bauvorhaben und Umnutzungen durch den Kanton und die Gemeinden umgesetzt.
+Der Kanton sorgt in Zusammenarbeit mit den Standortgemeinden für die Durchlässigkeit der innerkantonalen Wildtierkorridore. Er gibt Anweisungen zum Unterhalt intakter und zur Wiederherstellung beeinträchtigter oder weitgehend unterbrochener Wildtierkorridore.
 
-### Für die touristischen Intensiv-, Extensiv- und Ausschlussgebiete gelten die folgenden Nutzungsvorgaben (vorbehältlich der Umschreibungen auf Seite 70):
+Der Kanton sorgt in Zusammenarbeit mit den betroffenen Nachbarkantonen für die Durchlässigkeit der interkantonalen Wildtierkorridore. Gemeinsam werden Anweisungen zum Unterhalt intakter und zur Wiederherstellung beeinträchtigter oder weitgehend unterbrochener Wildtierkorridore erlassen. Aktuell sind es folgende Massnahmen:
 
-Erläuterung zu den Nutzungsbegriffen:
+- Der Kanton prüft in Zusammenarbeit mit Bund (ASTRA) und dem Kanton St. Gallen den Bau des wildtierspezifischen Bauwerkes über die A3 (Korridor GL 06).
 
-Erwünscht: Diese Nutzung entspricht der verfolgten Zielsetzung.
+- Der Kanton schafft im Bereich der Korridore eine ökologische Aufwertung der Linthebene durch Strukturen wie Hecken und Feldgehölze.
 
-Zulässig: Diese Nutzung ist in einem massvollen Rahmen zulässig.
+- Der Kanton sorgt in Zusammenarbeit mit dem Kanton St. Gallen für die Umsetzung der Massnahmen im Wildtierkorridor GL 06.
 
-Unerwünscht: Diese Nutzung ist zwar nicht untersagt, aber nicht erwünscht.
+Federführung: Dep. Bau und Umwelt, Abt. Jagd und Fischerei
 
-Unzulässig: Diese Nutzung ist untersagt.
+N4-C/2
 
-### Nutzung Intensivgebiet Extensivgebiet Ausschlussgebiet
+Die Gemeinden weisen die festgelegten Wildtierkorridore im Rahmen der Nutzungsplanung einer zweckmässigen Schutzzone zu.
 
-### Sommertourismus
+Federführung: Gemeinde
 
-**Erwünscht**
+D Objekte
 
-Wandern, Klettern, Bergsteigen Erwünscht Erwünscht Touristische Transportanlagen und Erwünscht Unzulässig Betriebsgebäude Biken gemäss Mountainbike-Karte Erwünscht Erwünscht Vita-Parcours Erwünscht Zulässig Freizeitanlagen (z.B. Klettersteige) Erwünscht Zulässig Feuerstellen, Rastplätze Erwünscht Zulässig Hängegleiten Zulässig Zulässig Baden Erwünscht Zulässig Nichtmotorisierter Wassersport Erwünscht Unerwünscht Motorisierter Wassersport Zulässig Unerwünscht Gastbetriebe Erwünscht Zulässig Randbereichen zulässig Gebirgsunterkünfte / SAC Hütten Erwünscht Zulässig Camping Zulässig Zulässig Erschliessung für den Individualverkehr und Zulässig Unerwünscht Parkplätze zulässig Erschliessung mit Kleinbussen und Taxis Erwünscht Punktuell zulässig Punktuell zulässig
+D-1 Wildruhezonen
 
-**Unzulässig**
+**KS**
 
-**Zulässig**
+Objekt-Nr. Gemeinde Standort / Gebiet Bemerkung / Hinweis (Nr. Klammer gemäss Nr.
 
-**Unerwünscht**
+Karte Verordnung) Typ Zutrittseinschränkung
 
-**Unzulässig**
+**FS**
 
-**Unerwünscht**
+N4.Z01 Glarus Nord Äschwald - Hämmerliberg-Typ B 21. Dez. - 31. März Schwändiwald (1) N4.Z02 Glarus Nord Büelserwald (18) Typ B 21. Dez. - 30 Juni N4.Z03 Glarus Nord Muesalp (2) Typ B 21. Dez. - 31 März N4.Z04 Glarus Nord Hinteres Schwändital (3) Typ B 21. Dez. - 31. März N4.Z05 Glarus Nord Mittlerer Nüen (19) Typ B 21. Dez. - 30. Juni N4.Z06 Glarus Nord Firzwald (20) Typ B 21. Dez - 30. Juni N4.Z07 Glarus Nord Fliessenwald (21) Typ B 21. Dez. - 30. Juni N4.Z08 Glarus Nord Meerenalp (4) Typ B 21. Dez. - 31. März N4.Z09 Glarus Nord Mürtschen (10) Typ B 21. Dez. - 30 April Glarus N4.Z10 Glarus Sturmigerrus (5) Typ A 21. Dez. - 31. März N4.Z11 Glarus Äugstenwald (30) Typ A 1. Sept. - 31. Okt.
 
-**Unerwünscht**
+**FS FS FS**
 
-**Zulässig**
+**FS**
 
-**Unerwünscht**
+**FS**
 
-**Unzulässig**
+**unterbrochen»; Bauwerk in Planung bei ASTRA**
 
-**Punktuell und in**
+N4.Z12 Glarus Gruebenwald - Driangel (6) Typ A 21. Dez. - 31. März Glarus Süd Objekt-Nr. Gemeinde Standort / Gebiet Bemerkung / Hinweis (Nr. Klammer gemäss Nr.
 
-**Zulässig**
+**KS**
 
-**Unzulässig**
+Karte Verordnung) Typ Zutrittseinschränkung
 
-**Nur in Randbereichen**
+**FS FS FS FS FS FS FS FS**
 
-### Zusätzlich für Wintertourismus
+N4.Z13 Glarus Süd Hohwald (22) Typ B 21. Dez. - 30. Juni N4.Z14 Glarus Süd Bünt-Steinschlag (7) Typ B 21. Dez. - 31. März N4.Z15 Glarus Süd Niderental - Wartstalden (9) Typ A 21. Dez. - 31. März N4.Z16 Glarus Süd Pulsterenwald (11) Typ B 21. Dez. - 30. April N4.Z17 Glarus Süd Gulderstock Saumen (12) Typ B 21. Dez. - 30. April N4.Z18 Glarus Süd Büelstock (8) Typ A 21. Dez. - 31. März N4.Z19 Glarus Süd Sedel (29) Typ A 1. April - 30. Juni N4.Z20 Glarus Süd Zindelchopf - Typ B 21. Dez. - 30. Juni Hübeliplanggen (23) N4.Z21 Glarus Süd Rossweid - Waldibach (24) Typ B 21. Dez. - 30. Juni N4.Z22 Glarus Süd Sülzli - Bruchrunenwald (13) Typ B 21. Dez. - 30. April N4.Z23 Glarus Süd Mittagshorn - Gschämm- Typ A 1. April - 30. Juni wald (28) N4.Z24 Glarus Süd Chnügrat (15) Typ B 21. Dez. - 30. April N4.Z25 Glarus Süd Geisstal (31) Typ A 1. Sept. - 31. Okt.
 
-**Unzulässig**
+**FS FS FS**
 
-Pistenskifahren und –snowboarden Erwünscht Zulässig Skitouren gemäss Tourenkarte des SC Glarus Erwünscht Erwünscht Touristische Winter-Transportanlagen und Erwünscht Unzulässig Betriebsgebäude
+**FS FS FS FS FS FS FS FS FS**
 
-**Zulässig**
+N4.Z26 Glarus Süd Bräch (16) Typ B 21. Dez. - 30. April N4.Z27 Glarus Süd Färispitz - Underem Fal (14) Typ B 21. Dez. - 30. April N4.Z28 Glarus Süd Plattenwald (25) Typ A 21. Dez. - 30. Juni N4.Z29 Glarus Süd Dachsenstein (26) Typ A 21. Dez. - 30. Juni N4.Z30 Glarus Süd Erbswald (27) Typ B 21. Dez. - 30. Juni N4.Z31 Glarus Süd Durnagel (32) Typ A 1. Sept. - 31. Okt.
 
-**Unzulässig**
+N4.Z32 Glarus Süd Bärenboden (17) Typ B 21. Dez. - 30. April
 
-L - 12 Schneeschuhtouren auf bezeichneten Erwünscht Erwünscht Routen, Winterwanderwege Skilanglauf auf Loipen Erwünscht Erwünscht Schlitteln Erwünscht Erwünscht Variantenskifahren und –snowboarden Zulässig Unerwünscht Heliskiing Unzulässig Unzulässig
+D-2 Wildtierkorridore
 
-**Unerwünscht**
+**KS**
 
-**Zulässig**
+Objekt-Nr. Gemeinde Standort / Gebiet Bemerkung / Hinweis (Nr. Klammer gemäss Nr. Bund) Bedeutung Einstufung
 
-**Unerwünscht**
+N4.K01 Glarus Süd, Klausen, Spiringen überregional «intakt» Spiringen (GL 01) N4.K02 Glarus, Pragelpass, Muotathal überregional «intakt» Innerthal, (GL 02 / SZ 02) Muotathal N4.K03 Glarus Süd, Au-Soolsteg-Warth, überregional «beeinträchtigt» FS Schwanden (GL 03) N4.K04 Glarus Nord, Netstal (GL 04) überregional «beeinträchtigt» FS Glarus N4.K05 Glarus, Horgenberg (GL 05) überregional «beeinträchtigt» FS Glarus Süd N4.K06 Glarus Nord, Biberlikopf, Mollis überregional «weitgehend FS Schänis, (GL 06) Weesen (SG) N4.K07 Glarus Nord, Linthebene - Benknerbü- überregional Wildtierspezifische FS Reichenburg, chel Benken, Objekt-Nr. Gemeinde Standort / Gebiet (Nr. Klammer gemäss Nr. Bund) Gommiswald , (GL 07 / SG 02 / SZ 07)
 
-**Unerwünscht**
+**Bemerkung / Hinweis KS Bedeutung Einstufung**
 
-**Unzulässig**
+**wurde realisiert**
 
-### Bewirtschaftung
+Kaltbrunn
 
-Land- und Alpwirtschaft Die Bewirtschaftung ist erwünscht. Auf die Anlagen und Bedürfnisse des Tourismus ist Rücksicht zu nehmen.
+Schänis
 
-Waldpflege- und Waldnutzung Die Bewirtschaftung ist erwünscht. Auf die Anlagen und Bedürfnisse des Tourismus ist Rücksicht zu nehmen.
+**regional Gemäss Bericht FS**
 
-**Termine / Verfahren**
+**2010 «weitgehend unterbrochen»**
 
-### Abstimmungsstand Zuständigkeit
+N4.K08 Glarus Nord, Linthebene - St. Sebasti-Schänis (SG) an (GL 07.1)
 
-**Nutzungsplanverfahren Baubewilligungsverfahren**
+**regional «intakt» FS regional «intakt» FS**
 
-Festsetzung Alle Gemeinden Departement Bau und Umwelt, Fachstelle Raumentwicklung
+N4.K09 Glarus Süd Durnagel (GL 08) N4.K10 Glarus Süd Rüti - Betschwanden (GL 09) N4.K11 Glarus Süd Diesbach - Hätzingen (GL regional 10) N4.K12 Glarus Süd Haslen – Nidfurn - Leuggelbach (GL 11) N4.K13 Glarus Süd Hörliegg Engi (GL 12) N4.K14 Glarus Süd Mattsiten Engi (GL 13) N4.K15 Glarus Süd Brummbach - Strit (GL 14) N4.K16 Glarus Süd Linthal Süd (GL 15) N4.K17 Glarus Süd Obmoos - Wichlen (GL 16) N4.K18 Glarus Süd Chalchofen (GL 17)
 
-### Verweis auf massgebliche Grundlagen
+**«beeinträchtigt» FS**
 
-- Kantonale Natur- und Heimatschutzverordnung (2.Okt. 1991)
+**regional «beeinträchtigt» FS**
 
-- Kantonales Verzeichnis der Landschaften von regionaler und nationaler Bedeutung (1996).
+**regional «intakt» FS überregional «intakt» FS regional «intakt» FS regional «intakt» FS regional «intakt» FS**
 
-L - 13
+**regional «beeinträchtigt» FS**
 
-**L2-1/2**
+D-3 Eidgenössische Jagdbanngebiete
 
-### Abstimmungsanweisung
+**Bemerkung / Hinweis KS**
 
-Der Richtplan bezeichnet touristische Intensiv- und Extensivgebiete auf der Stufe Vororientierung und Festsetzung.
+Objekt-Nr. Gemeinde Standort / Gebiet (Nr. Klammer gemäss Nr. Bund) N4.J01 Glarus Nord Rauti - Tros (14)
 
-Räumlich abgestimmte oder bestehende festgesetzte Tourismusgebiete (gemäss Richtplan 1988) sind als Festsetzung im Richtplan eingetragen. Dies betrifft touristische Intensivgebiete und Extensivgebiete folgender Gemeinden und Ortschaften • Oberurnen • Näfels • Mollis • Filzbach • Netstal • Glarus • Mitlödi • Schwanden – Linthal (linke Talseite; inkl. Nidfurn, Leuggelbach, Luchsingen, Betschwanden, Rüti) • Braunwald • Matt (Wissenberg) • Elm (Kärpfgebiet) Auf der Stufe Vororientierung im Richtplan eingetragen sind die Erweiterungsgebiete der touristischen Intensivgebiete folgender Gemeinden:
+**Gebiet mit integralen (I) Schutzbe- FS stimmungen**
 
-- Elm (Blistöcke)
+**Schilt (13) Gebiet mit integralen (I) und parti- FS**
 
-- Braunwald (Chnügrat/ Oreplatte) Bei Änderung des Abstimmungsstandes und /oder Anpassung der Tourismusperimeter ist eine Richtplananpassung erforderlich.
+N4.J02 Glarus,
 
-**Termine / Verfahren**
+**ellen (II) Schutzbestimmungen sowie Wildschadenperimeter (III) Gebiet mit integralen (I) und parti- FS ellen (II) Schutzbestimmungen sowie Wildschadenperimeter (III)**
 
-### Abstimmungsstand Zuständigkeit
+Glarus Süd
 
-**Kommunale Nutzungsplanung Baubewilligungsverfahren**
+N4.J03 Glarus Süd Kärpf (12)
 
-Festsetzung Departement Volkswirtschaft und Inneres, Abteilung Landwirtschaft Departement Bau und Umwelt, Fachstelle Raumentwicklung Die Gemeinden Oberurnen, Näfels, Mollis, Filzbach, Netstal, Glarus, Mitlödi, Schwanden - Linthal (linke Talseite), Braunwald, Matt, Elm
+E Erläuterungen / Grundlagen
 
-**Termine / Verfahren**
+Siehe Erläuterungsbericht
 
-### Abstimmungsstand Zuständigkeit
+Grundlagen:
 
-**Richtplan-Anpassung als Voraussetzung für Bau- und Nutzungsbewilligungen**
+- Wildruhezonenverordnung, Regierungsratsbeschluss vom 25. Oktober 2016
 
-Vororientierung Regierungsrat, Landrat Departement Bau und Umwelt, Fachstelle Raumentwicklung Departement Volkswirtschaft und Inneres, Abteilung Landwirtschaft Die Gemeinden Schwanden, Elm und Braunwald
+- Korridore für Wildtiere in der Schweiz, Schriftenreihe Umwelt Nr. 326 Wildtierkorridore; BAFU 2001
 
-L - 14
+- Wildtierkorridore von überregionaler Bedeutung: Objektbeschreibungen; BAFU 1. Dezember 2012
 
-### L3 Sport
+- Konzept Wildtierkorridore 2010; Jagd- und Fischereiverwaltung Kt. Glarus, Mai 2004
 
-### L3-1 Sportanlagen von regionaler und nationaler Bedeutung
+**Unterführung**
 
-### Richtplanaufgabe
+- Eidgenössische Jagdbanngebiete
 
-### Der Kanton unterstützt in Zusammenarbeit mit dem Bund die Sportanlagen von regionaler und
+### N5 Gewässer
 
-nationaler Bedeutung.
+A Ausgangslage
 
-### Problemstellung / Ausgangslage
+Gewässer sind Bestandteil und prägende Elemente der Landschaft. Sie bilden vielfältige Lebensräume für Pflanzen und Tiere sowie wichtige Erholungsräume für den Menschen. Dadurch tragen Gewässer wesentlich zur Erhaltung der natürlichen Lebensgrundlagen bei. Um diese Aufgabe zu erfüllen, brauchen sie Raum und die Möglichkeit, einen naturnahen Zustand zu erreichen. Die Sicherung dieses Raumes erfolgt über die Festlegung des Gewässerraums.
 
-### Als Sportanlagen von nationaler Bedeutung gelten (gemäss Nationalem Sportanlagenkonzept
+Die Wasserqualität in den Oberflächengewässern des Kantons kann generell als gut bezeichnet werden. Die Ausnahme bilden wenige Fliessgewässer im Glarner Unterland mit Regenwasserentlastungen. Ein grosses Defizit bezüglich der Renaturierung besteht in verschiedenen Fliessgewässern im Talgrund des Haupttals. Die meisten Gerinne hier sind naturfern angelegt und weisen deshalb einen erheblichen Renaturierungsbedarf auf.
 
-NASAK, 1996):
+Die Forderungen nach genügend Raum für die Fliessgewässer, nach effizientem Hochwasserschutz, nach der Erhaltung der Gewässerqualität und nach der Nutzung von Wasserkraft (siehe Kap. E2-5) verlangen ein koordiniertes Vorgehen. Der Kanton verfügt in diesem Zusammenhang über umfangreiche Grundlagen (Gefahrenkarten, Hochwasserschutzprojekte, Ökomorphologiekartierung) und spezifische Planungen (Gewässerrevitalisierungsplanung).
 
-- Filzbach, Zürcher Kurs- und Sportzentrum Kerenzerberg
+B Richtungsweisende Festlegungen / Beschluss
 
-- Näfels, linth-arena sgu
+N5-B/1 Renaturierung
 
-Als Sportanlagen von regionaler Bedeutung gelten:
+- Die Gewässer sind als Lebensräume für Pflanzen und Tiere sowie als Erholungsräume für Menschen aufzuwerten. Die grundlegenden Funktionen der Gewässer, wie die natürliche Gewässerdynamik, die Lebensräume für Pflanzen und Tiere und die Vernetzung von naturnahen Flächen sind zu gewährleisten.
 
-- Glarus, Sport- und Freizeitanlagen Buchholz
+- Eingedolte oder sonst in ihrer Natürlichkeit wesentlich eingeschränkte Gewässer sind unter Berücksichtigung der Gesamtinteressen aufzuwerten und möglichst naturnah auszugestalten.
 
-- Glarus, Schwimmbad Ygruben
+N5-B/2 Gewässerraum
 
-- Netstal, Schwimmbad
+- Der Raumbedarf zur Gewährleistung der natürlichen Funktionen des Gewässers, des Hochwasserschutzes und der Gewässernutzung wird gesichert.
 
-- Schwanden, Sportanlagen Wyden inkl. Doppelturnhalle mit dazugehörigen Aussenanlagen auf dem Schulareal, Schwimmbad Zurzeit sind keine Anlagen von nationaler und regionaler Bedeutung geplant.
+C Handlungsanweisungen
 
-### L3-2 Besondere Freizeitanlagen
+N5-C/1
 
-### Richtplanaufgabe
+Der Kanton sorgt für die Revitalisierung der Gewässer gemäss seiner Revitalisierungsplanung. Er bezeichnet die potenziellen Gewässerstrecken für die Projekte der Priorität 1 gemäss Gewässerrevitalisierungsplanung im Richtplan und sorgt für die Umsetzung der Projekte mit Priorität 1.
 
-Grosse Anlagen für Erholung, Freizeit, Sport und Tourismus mit intensivem Publikumsverkehr oder grossen Flächenansprüchen wie z.B. Golfplätze bedürfen einer räumlichen Abstimmung und sind daher im Richtplan einzutragen.
+Federführung: Dep. Bau und Umwelt, Abt. Umweltschutz und Energie
 
-### Problemstellung / Ausgangslage
+N5-C/2
 
-Freizeitanlagen und künstliche Themenparks erfreuen sich allgemein immer grösser Beliebtheit. Häufig sind die Anlagen flächenintensiv und können auch grösseren Publikumsverkehr generieren. Mit dem Strukturwandel der Landwirtschaft ist es möglich, dass gerade in diesen Gebieten solche Anlagen geplant werden. Die Festsetzung dieser Anlagen bedarf daher einer räumlichen Überprüfung gegenüber den Schutzinteressen für Landwirtschaft, Natur und Landschaft. Zudem sind dies Anlagen auf Siedlung, Verkehr sowie Ver- und Entsorgung abzustimmen.
+Die Gemeinden prüfen und realisieren Massnahmen zur Revitalisierung weiterer, nicht in der Revitalisierungsplanung erfasster, eingedolter oder in ihrer Natürlichkeit stark eingeschränkter Gewässer.
 
-Zurzeit werden im Gebiet des Glarner Hinterlands Vorabklärungen für ein Golfplatzprojekt getroffen. Davon betroffen sind die Ortschaften Nidfurn, Haslen, Leuggelbach, Schwanden und Luchsingen.
+Federführung: Gemeinde
 
-**Nr. L3-2/1**
+D Objekte Gewässerrevitalisierung
 
-### Abstimmungsanweisung
+**KS FS FS FS FS FS FS FS FS FS FS**
 
-Grosse Anlagen für Erholung, Freizeit, Sport und Tourismus mit intensivem Publikumsverkehr oder grossen Flächenansprüchen wie z.B. Golfplätze bedürfen einer räumlichen Abstimmung und sind daher vor dem Nutzungsplanverfahren im Richtplan einzutragen.
+**FS**
 
-Geeignet sind Standorte für solche Anlagen, wenn sie folgende Anforderungen erfüllen:
+**FS FS FS**
 
-- günstige Lage zum Einzugsgebiet
+**FS**
 
-- ausreichende Erschliessung durch den öffentlichen und privaten Verkehr
+**FS FS FS FS FS FS FS FS**
 
-- keine nicht rückführbare Beanspruchung ackerfähigen Landes (Fruchtfolgeflächen)
+Objekt-Nr. Gemeinde Standort / Gebiet Prio. Bemerkung / Hinweis N5.01 Glarus Nord Näfels 1 Villägenbach 1 N5.02 Glarus Nord Näfels 1 Kleinlinthli 2 N5.03 Glarus Nord Näfels 1 Kleinlinthli 4 N5.04 Glarus Nord Mollis 1 Bodenwaldbach 1 N5.05 Glarus Nord Mollis 1 Bodenwaldbach 2 N5.06 Glarus Nord Mollis 1 Rütelibach 3 N5.07 Glarus Nord Mollis / Filzbach 1 Seegraben 1 N5.08 Glarus Nord Niederurnen 1 Schwarzgraben 1 N5.09 Glarus Nord Mollis 1 Innerer Flechsengraben 1 N5.10 Glarus Nord Netstal / Näfels 1 Mühlebach 1 / Glarus N5.11 Glarus Nord Netstal / Näfels 1 Erlenkanal 1 / Glarus N5.12 Glarus Netstal - Schlatt 1 Linth Abschnitt 5 N5.13 Glarus Netstal - Rollengut 1 Linth Abschnitt 11/12 N5.14 Glarus Ennenda - Allmeind / 1 Linth Abschnitt 23/24 Holenstein N5.15 Glarus Ennenda - Bleiche / 1 Linth Abschnitt 26/27 Fischligen N5.16 Glarus Süd Mitlödi - Hüsliguet 1 Linth Abschnitt 33 N5.17 Glarus Süd Mitlödi - Mühli 1 Linth Abschnitt 34/35 N5.18 Glarus Süd Leuggelbach 1 Linth Abschnitt 57-61 N5.19 Glarus Süd Diesbach - Allmeind 1 Linth Abschnitt 66 N5.20 Glarus Süd Rüti - Cotlan 1 Linth Abschnitt 79/80 N5.21 Glarus Süd Schwanden - Herren 1 Sernf Abschnitt 2 N5.22 Glarus Süd Nidfurn 1 Nidfurnerbach 1 N5.23 Glarus Süd Elm 1 Untertalbach 1 N5.24 Glarus Süd
 
-- keine Beeinträchtigung von Natur- und Landschaftsschutzgebieten
+**Rüti 1 Marglenbach 1 FS**
 
-- keine umfangreiche Veränderung des Geländes
+E Erläuterungen / Grundlagen
 
-- keine Gefährdung des Grundwassers Bei Erfüllung der geeigneten Standortvoraussetzung und notwendigen Abklärungen für die räumlichen Abstimmungen wird zur Festsetzung der besonderen Freizeitanlagen im Richtplan eine Richtplananpassung durchgeführt.
+Siehe Erläuterungsbericht
 
-**Termine / Verfahren**
+Grundlagen:
 
-### Abstimmungsstand Zuständigkeit
+- Revitalisierung Fliessgewässer, Strategische Planung, Schlussbericht, Abt. Umweltschutz und Energie, 19. Dezember 2014
 
-**Richtplananpassung, nach Bedarf**
+- Strategische Planung «Renaturierung der Gewässer», Regierungsratsbeschluss vom 15. September 2015
 
-Festsetzung Departement Bau und Umwelt, Fachstelle Raumentwicklung Die betroffenen Gemeinden
+- Richtlinie Festlegung Gewässerraum in der Ortsplanung, Bau und Umwelt, 30. September 2014
 
-**L - 15**
+### N6 Wald
 
-L - 16
+A Ausgangslage
 
-**Nr. L3-2/2**
+Der Wald bildet einen wichtigen Bestandteil der Landschaft. Er ist Lebensraum für Pflanzen und Tiere, bietet Siedlungen und Infrastrukturanlagen Schutz vor Naturgefahren, ermöglicht Erholung in natürlicher Umgebung, reguliert den Wasserhaushalt und ist Holzlieferant. Dadurch trägt er wesentlich zur Erhaltung der natürlichen Lebensgrundlagen bei.
 
-### Abstimmungsanweisung
+Die Waldfläche nimmt im Kanton Glarus oberhalb von rund 600 Meter über Meer jährlich um rund 43 ha zu. Die Zunahme erfolgt mehrheitlich in Form von Gebüschwald auf unproduktiven Vegetationsflächen in höheren Lagen. Diese Entwicklung ist natürlich und vorwiegend klimatisch bedingt. Daneben ist das Einwachsen von alpwirtschaftlich nicht mehr genutzten Flächen eine wichtige Quelle der Waldflächenzunahme. Diese Entwicklung zeugt von Veränderungsprozessen der Alpwirtschaft und führt zu einer Veränderung der Berglandschaft. Allerdings bewirkt der Waldeinwuchs auch einen Verlust an land- oder alpwirtschaftlicher Produktionsfläche. Um dies zu verhindern, gibt es verschiedene Instrumente, insbesondere Beiträge der Land- und Forstwirtschaft zur Offenhaltung der alpwirtschaftlich genutzten Flächen sowie zur Pflege der Waldränder.
 
-Die betroffenen Gemeinden haben besondere Freizeitanlagen mit der entsprechenden Zone in den Nutzungsplänen resp. Kulturlandplänen auszuweisen.
+Der kantonale Waldplan ist im Jahr 2014 in Kraft getreten. Er ist die Grundlage für die Waldentwicklung und die Bewirtschaftung der Wälder im Kanton und ist die verbindliche Grundlage für die forstlichen Betriebs- und Jahresplanungen. Die Umsetzung der kantonalen Waldplanung erfolgt durch die Forstdienste der Gemeinden. Der kantonale Waldplan regelt die Bereiche Bewirtschaftung, Holznutzung, biologische Vielfalt, Erholung, Grund- und Trinkwasserschutz, Wald/Wild, Wald entlang von Strassen und Anlagen, Walderschliessung, Waldschutz, Schutzwald und Waldreservate.
 
-**Termine / Verfahren**
+Für die Richtplanung als flächendeckendes und umfassendes Abstimmungsinstrument ist der kantonale Waldplan massgebend. Mit einer Abstimmung zwischen Richtplan und kantonalem Waldplan wird zum einen ein zweckmässiges Vorgehen in den gegenseitigen Einflussbereichen sichergestellt und zum anderen kann mit Massnahmen der Raumplanung die Erhaltung und Förderung der verschiedenen Waldfunktionen unterstützt werden.
 
-### Abstimmungsstand Zuständigkeit
+B Richtungsweisende Festlegungen / Beschluss
 
-**Nach Bedarf im Nutzungsplanverfahren**
+N6-B/1 Waldnutzung
 
-Festsetzung Departement Bau und Umwelt, Fachstelle Raumentwicklung Betroffene Gemeinden
+- Der Kanton fördert die Waldbewirtschaftung mit dem Ziel, dass der Wald als naturnahe Lebensgemeinschaft erhalten wird und dass er seine Funktionen, namentlich die Schutz-, Wohlfahrts- und Nutzfunktion nachhaltig erfüllen kann.
 
-L - 17
+N6-B/2 Waldfunktionen
 
-### L4 Natur- und Landschaftsschutz
+- Die räumliche Verteilung der Waldfläche wird erhalten. Der Wald ist insbesondere im Bereich der Talsohle flächenmässig derart zu erhalten, dass seine bisher ausgeübten Funktionen verbessert oder zumindest erhalten werden können.
 
-### L4-1 Naturschutzgebiete
+- Die Waldzunahme auf Kosten der land- und alpwirtschaftlichen Nutzflächen soll verhindert werden. N6-B/3 Waldbewirtschaftung
 
-### Richtplanaufgabe
+- Die Bewirtschaftung des Waldes erfolgt funktionengerecht und zielgerichtet. Die Waldbewirtschaftungskonzepte orientieren sich an den Vorgaben des kantonalen Waldplans.
 
-Die Lebensräume der einheimischen Tiere und Pflanzen sind langfristig zu sichern. Um dies zu erreichen, werden schutzwürdige Flächen erhalten und Landschaften ökologisch aufgewertet, indem die Lebensräume besser vernetzt und die natürliche Dynamik vermehrt gefördert wird.
+C Handlungsanweisungen
 
-Speziellen Schutz verdienen seltene und bedrohte Arten und Lebensgemeinschaften sowie deren Lebensräume.
+N6-C/1
 
-### Problemstellung / Ausgangslage
+Der kantonale Waldplan wird periodisch überprüft und bei Bedarf überarbeitet oder angepasst.
 
-Gemäss Art. 11 der kantonalen Natur- und Heimatschutzverordnung erarbeiten die zuständigen Direktionen Verzeichnisse der schützenswerten Objekte von regionaler Bedeutung. Gemäss Art. 9 des Gesetzes über den Natur- und Heimatschutz (NHG, 1971) gelten Objekte, die in einem vom Bund erlassenen Inventar aufgeführt sind, ohne weiteres auch als Bestandteil des kantonalen Inventars. Die Gemeinden erarbeiten Verzeichnisse der schützenswerten Objekte von lokaler Bedeutung. Aufgrund dieser Verzeichnisse werden die Objekte vom Regierungsrat inventarisiert. Die Inventare enthalten die zum Schutze der Objekte notwendigen Massnahmen (Umgebungsschutz, Pufferzonen, Schutzmassnahmen am Objekt). Vor der Antragstellung an den Regierungsrat sind die Eigentümer, die Organisationen zum Schutze von Natur und Heimat sowie die KNHK anzuhören. Die Unterschutzstellung erfolgt durch Regierungsratsbeschluss (Art. 11 NHG, 1971). Der Schutz der Inventar- und Verzeichnisobjekte wird gemäss Art. 10 durch Verweigerung von Bewilligungen, Genehmigungen, Konzessionen und Subventionen oder mittels Bedingungen und Auflagen der Behörden umgesetzt. Gemäss Art. 19 ist es die Pflicht des Eigentümers, das unter Schutz gestellte Objekt in seiner Substanz und Eigenart zu bewahren und, soweit zumutbar, zu unterhalten.
+Federführung: Dep. Bau und Umwelt, Abt. Wald und Naturgefahren
 
-Der Kanton hat ein Biotopverzeichnis erstellt, in dem die Flach- und Hochmoore, die Auenwälder, die Magerwiesen, Alp- und Wildheugebiete und die Lebensräume von Tagfaltern aufgenommen sind. Ebenso sind die vom Bund inventarisierten Auen, Hoch- und Flachmoore, Moorlandschaften und Amphibienlaichgebiete von nationaler Bedeutung enthalten. Das Verzeichnis wird bei Bedarf ergänzt. Die Wälder mit besonderer Schutzfunktion werden zurzeit ausgeschieden.
+N6-C/2
 
-Die Gemeinden, die in den letzten Jahren ihre Nutzungsplanung revidiert haben, haben die bisher bekannten kantonalen Biotope zum grössten Teil in ihre Zonenpläne aufgenommen. In der nächsten Nutzungsplanrevision sind noch die Biotope und Geotope von kommunaler Bedeutung zu ergänzen.
+Die Gemeinden stimmen ihre Planungen mit dem kantonalen Waldplan, den Biotopverzeichnissen und dem Waldbiodiversitätskonzept ab. Federführung: Gemeinde
 
-**L - 19**
+D Objekte
 
-L - 18 Naturschutzgebiete von nationaler Bedeutung sind:
+Keine
 
-Auengebiete von nationaler Bedeutung:
+E Erläuterungen / Grundlagen
 
-- Hinter Klöntal (Glarus)
+Siehe Erläuterungsbericht
 
-- Haris (Matt)
+Grundlagen:
 
-- Oberstafelbach (Linthal)
+- Kantonaler Waldplan 2014
 
-Flachmoore von nationaler Bedeutung:
+- Waldflächen im Kanton Glarus 2016
 
-- Meur bei Britteren (Mollis) • Lachen (Bilten)
+### N7 Naturgefahren
 
-- Niederriet (Bilten) • Scheidegg (Oberurnen)
+A Ausgangslage
 
-- Gross Moos im Schwändital (Oberurnen) • Boggenberg (Näfels, Oberurnen)
+Im Gebirgskanton Glarus bestehen seit jeher Bedrohungen durch Lawinen, Murgänge, Hochwasser, Überschwemmungen sowie Rutsch- und Sturzbewegungen von Erd- und Felsmassen. Ein grosser Teil der Siedlungen und Infrastrukturen im Kanton sind durch solche Naturgefahren bedroht. Naturgefahren führen vor allem im engen, besiedelten und durch den Menschen genutzten Talboden zu hohen Personen- und Sachrisiken. Insgesamt sind im Kanton knapp die Hälfte der Gebäude, Strassen und Bahnanlagen von Naturgefahren bedroht. Eine Abwehr aller Naturgefahren ist vielerorts nicht möglich, auch bei raumplanerischen und organisatorischen Massnahmen verbleibt ein Restrisiko.
 
-- Türliboden (Näfels) • Etzelhüsli (Haslen)
+Mit der Massnahmenplanung 2016 hat der Kanton seine Naturgefahrenziele festgelegt (Naturgefahren im Kanton Glarus, Massnahmenplanung Fachstelle Naturgefahren, Inkrafttreten 1. Juni 2016). Ein wesentlicher Pfeiler darin sind die Gefahrengrundlagen, welche vom Kanton grösstenteils erarbeitet sind. Die Umsetzung in der Nutzungsplanung ist noch nicht flächendeckend erfolgt.
 
-- Längriet (Engi, Matt) • Rossweid (Engi, Matt)
+B Richtungsweisende Festlegungen / Beschluss
 
-- Garichti (Schwanden) • Matt (Schwanden)
+N7-B/1 Naturgefahrenvorsorge
 
-- Werbenrüsli (Haslen) • Unter Jetz (Elm)
+- Der Kanton fördert Massnahmen zur Sicherung jener Gebiete, die durch Naturgefahren bedroht sind. Menschen und Sachwerte werden vor bestehenden oder sich neu abzeichnenden Naturgefahren angemessen und in Berücksichtigung der Risiken geschützt.
 
-- Mürtschen (Obstalden) • Ober Mürtschen (Obstalden)
+- Das Schadenpotenzial wird im Sinne der Gefahrenprävention und -vorsorge minimiert.
 
-- Gnappetriet (Matt) • Blossen (Niederurnen)
+C Handlungsanweisungen
 
-Hoch- und Übergangsmoore von nationaler Bedeutung:
+N7-C/1
 
-- Gross Moos im Schwändital (Oberurnen) • Boggenberg (Näfels, Oberurnen)
+Der Kanton handelt entsprechend den Schutzzielen zum Schutz vor Naturgefahren. Er sorgt für die Erfüllung folgender Aufgaben:
 
-- Etzelhüsli (Haslen) • Grotzenbüel (Braunwald)
+- Sicherung der Gefahrengebiete
 
-- Garichti (Schwanden) • Matt oberhalb Stausee Garichti (Schwanden)
+- Koordination der Frühwarndienste
 
-- Mürtschen (Obstalden) • Längriet (Matt, Engi)
+- Erarbeitung der Gefahrengrundlagen (Gefahrenkarte, Gefahrenhinweiskarte, Risikokarte, Schutzdefizitkarte, Interventionskarte, Ereigniskataster, Schutzbautenkataster)
 
-Moorlandschaften von besonderer Schönheit von nationaler Bedeutung:
+- Sicherstellung der Berücksichtigung der Gefahrengrundlagen bei allen raumwirksamen Tätigkeiten
 
-- Schwändital (Näfels, Oberurnen) • Urnerboden (Linthal)
+- Prüfung von Bauvorhaben in Gefahrengebieten.
 
-Amphibienlaichgebiete von nationaler Bedeutung sind:
+Federführung: Dep. Bau und Umwelt, Abt. Wald und Naturgefahren N7-C/2
 
-- Niederriet (Bilten)
+Die Gemeinden legen basierend auf den Gefahrenkarten des Kantons Gefahrenzonen in der Nutzungsplanung fest und führen diese bei Neubeurteilungen der Gefahrenkarte nach. Die Gemeinden erlassen Vorschriften für Bauten und Anlagen in Gefahrenzonen in ihren Baureglementen.
 
-- Talalpsee (Filzbach)
+Federführung: Gemeinde
 
-- Chli Gäsitschachen – Walenberg – Kundertried (Mollis, Filzbach)
+D Objekte
 
-- Feldbach (Mollis)
+Keine
 
-- Klöntalersee Nordostufer, Klöntalersee Vorauen (Glarus)
+E Erläuterungen / Grundlagen
 
-- Oberblegisee (Luchsingen)
+Grundlagen:
 
-### Richtungsweisende Festlegungen
+- Wegleitung zur Berücksichtigung der Naturgefahren in der Nutzungsplanung und im Baubewilligungsverfahren, DBU Juni 2009
 
-- 1\. Zusammenhängende, naturnahe Räume sind zu schonen und zu erhalten. Wo möglich, sind naturnahe Räume mit Hilfe von besonderen Bewirtschaftungs- und Gestaltungsmassnahmen aktiv zu fördern. Ein wichtiges Element ist dabei die Vernetzung.
+- Naturgefahren im Kanton Glarus, Massnahmenplanung Fachstelle Naturgefahren, Mai 2016
 
-- 2\. In die Überlegungen des Naturschutzes ist die gesamte Landschaft miteinzubeziehen. Sowohl die offene Landschaft als auch der Wald sind in ökologischer Hinsicht bzw. als Erholungsräume aufzuwerten.
+- Gefahrenkarten
 
-- 3\. Als Schwerpunktgebiete im Naturschutz gelten unter anderem Auengebiete, Amphibienlaichgebiete, Hoch- und Flachmoore, Moorlandschaften und Wildtierkorridore.
+- Bericht Waldfläche im Kanton Glarus
 
-**Nr. L4-1/1**
+### T Tourismus und Freizeit
 
-### Abstimmungsanweisung
+### T1 Konzept Tourismus
 
-Die Abteilung Umweltschutz und Energie ergänzt das kantonale Biotopverzeichnis mit den erforderlichen Biotopen und Geotopen von regionaler resp. nationaler Bedeutung und ergänzt die erforderlichen Schutz- und Pflegemassnahmen. Sie legt nach Absprache mit den Gemeinden dem Regierungsrat die Objekte vor, die in die Inventare aufgenommen werden sollen.
+### T2 Touristische Intensiverholungsgebiete (anlagenorientiert)
 
-**Termine / Verfahren**
+### T3 Naturnaher Tourismus (nicht anlagenorientiert)
 
-### Abstimmungsstand Zuständigkeit
+### T4 Golfsport
 
-**Erstellung der Verzeichnisse spätestens 5 Jahre nach**
+### T1 Konzept Tourismus
 
-Festsetzung Departement Bau und Umwelt, Abteilung Umweltschutz und Energie Inkrafttreten des Richtplanes
+A Ausgangslage
 
-**Nr. L4-1/2**
+Der Tourismus im Glarnerland weist heute einen im Vergleich zu anderen Alpenregionen eher geringen Stellenwert auf. Dies obschon beachtliche Potenziale und Chancen für einen Tourismus im Kanton Glarus vorhanden sind. Hierzu zählen zum einen die vielseitig erlebbare Kultur- und Naturlandschaft, inklusive einem UNESCO Weltnaturarbe als Ressource für den Tourismus sowie die gute Erreichbarkeit aus dem Grossraum Zürich als spezifischer Standortvorteil. Zum anderen schaffen die besondere Kultur (Industriegeschichte, Landsgemeinde, Brauchtum), verschiedene schweizweit bekannte Geschichten und Ereignisse rund um das Glarnerland (z.B. Bergsturz von Elm, Prozess um Anna Göldi, Feldzug des General Suworow), Infrastrukturprojekte wie die Kraftwerke Linth– Limmern sowie die typischen Glarner Produkte interessante Bezugspunkte für einen auch kulturbezogenen Tourismus. Der Kanton Glarus verfügt somit grundsätzlich über weitreichende Potenziale für verschiedene touristische Angebote, die in der Summe einen nicht unwesentlichen Beitrag zur wirtschaftlichen Wertschöpfung des Kantons leisten können. Folglich besteht ein Leitgedanke der kantonalen Raumentwicklungsstrategie darin, die touristischen Potenziale des Kantons Glarus verstärkt auszuschöpfen (vgl. Kap. R).
 
-### Abstimmungsanweisung
+In verschiedener Hinsicht besteht im Bereich des Tourismus aus heutiger Sicht ein Nachhol- und Optimierungsbedarf. Zu den Schwächen zählen die dezentrale Verteilung der Anlagen und Angebote bzw. die teils ungenügende räumliche und organisatorische Vernetzung derselben, die teilweise überalterte Infrastruktur bei der Beherbergung und den touristischen Transportanlagen sowie das wenig diversifizierte und eher geringe Beherbergungsangebot.
 
-Die Gemeinden übernehmen in ihre Verzeichnisse die Biotope von regionaler und nationaler Bedeutung und ergänzen sie, soweit dies noch nicht geschehen ist, mit den Biotopen und Geotopen von lokaler Bedeutung (z.B. Trockenmauern, Hecken etc.). Sie ergänzen in den Verzeichnissen die erforderlichen Schutz- und Pflegemassnahmen. Die Abteilung Umweltschutz und Energie legt dem Regierungsrat die Objekte vor, die in die kantonalen Inventare gem. Art. 9 des Gesetzes über den Natur- und Heimatschutz aufgenommen werden sollen.
+Einige Gebiete im Kanton Glarus sind für den Tourismus von besonderer Bedeutung. Diese sind sehr unterschiedlich ausgeprägt:
 
-**Termine / Verfahren**
+- Braunwald und Elm: Die beiden Gebiete gehören zu den «klassischen» alpinen Tourismusorten mit Bergbahnen, verschiedenartigen Beherbergungs- und Gastronomiebetrieben sowie einem Freizeitangebot während der Sommer- und Wintersaison. Die beiden Destinationen sind die touristischen Aushängeschilder des Kantons und zur Auslastung des Angebots auf eine grössere Gästezahl angewiesen. Hier sind die Potenziale für einen wertschöpfungsintensiven Übernachtungstourismus am grössten. In diesen Gebieten ist der Betriebs- und Investitionsaufwand beträchtlich.
 
-### Abstimmungsstand Zuständigkeit
+- Kerenzerberg: Der Kerenzerberg ist ein Erholungsgebiet mit einem touristischen Angebot und einer grösseren Sport- und Seminarinfrastruktur mit spezifischen seminartouristischen Dienstleistungen. Das Sportzentrum leistet einen gewichtigen Beitrag zur touristischen Wertschöpfung. Die Sesselbahn Habergschwänd ist Ausgangspunkt für Wanderungen und sportliche Aktivitäten.
 
-**Erstellung der Verzeichnisse**
+- Klöntal / Klöntalersee: Das Gebiet erfreut sich bei guter Witterung und in der warmen Jahreszeit bei Tagestouristen und der ortsansässigen Bevölkerung grosser Beliebtheit. Die Erlebbarkeit der Landschaft steht hier im Vordergrund.
 
-Zwischenergebnis Alle Gemeinden spätestens im Rahmen der nächsten Nutzungsplanrevision
+- Glarus: Der Hauptort bietet ein städtisches Flair mit Einkaufsmöglichkeiten und einem kleinen aber feinen Kulturangebot.
 
-L - 20
+Neben diesen fünf touristischen Orten existieren im Kanton eine Vielzahl weiterer touristisch relevanter Einzeleinrichtungen wie der Landesplattenberg oder Einzelbahnen wie die Luftseilbahn Niederurner Täli, die Aeugstenbahn oder die verschiedenen Bahnen in Glarus Süd, die für die touristische Angebotsbildung und die touristische Erschliessung ebenfalls von Bedeutung sind. Die vielen Berggasthäuser und Berghütten wie auch die agrotouristischen Angebote und die Campingplätze runden das touristische Angebot ab.
 
-### L4-2 Landschaften von regionaler und nationaler Bedeutung
+Die touristischen Angebote und Infrastrukturen sind nicht nur für Gäste von ausserhalb des Kantons, sondern auch für die ortsansässige Bevölkerung von Bedeutung. Die Tourismus- und Freizeitinfrastrukturen sind als Teil der Naherholung zu betrachten und tragen zur Wohnattraktivität bei.
 
-### Richtplanaufgabe
+Eine Angebotslücke im Bereich der Tourismus- und Freizeitinfrastrukturen besteht heute u.a. beim Golfsport. Die Rahmenbedingungen für den Betrieb eines Golfplatzes sind aufgrund der schönen landschaftlichen Umgebung sowie der guten Erreichbarkeit grundsätzlich gegeben. Mit einem Golfangebot kann ein neues Gäste- und Besuchersegment angesprochen werden, zudem bestehen Synergien mit der Entwicklung anderer Sport- und Freizeiteinrichtungen.
 
-Intakte und abwechslungsreiche Landschaften sowie der Charakter der verschiedenen Landschaftsräume sollen erhalten bleiben. Bauten und Anlagen haben sich in die landschaftliche Umgebung einzugliedern.
+Aufgaben des Richtplans im Bereich Tourismus Touristische Bauten und Anlagen haben Auswirkungen auf die Nutzung und Gestaltung des Raums. Namentlich bei grösseren touristischen Vorhaben, welche zu einer flächigen Inanspruchnahme des Raums führen, ist eine Koordination mit den Interessen des Natur- und Landschaftsschutzes, der Siedlungs- und Verkehrsentwicklung, der Alp- und Landwirtschaft und der Forstwirtschaft unabdingbar. Der Richtplan dient der Koordination solcher Vorhaben, indem er raumbezogene Entwicklungsstrategien definiert und behördenverbindlich sichert, und indem er nicht gelöste Interessenkonflikte offenlegt. Er schafft damit längerfristig räumlich abgestimmte Rahmenbedingungen für Investitionen.
 
-### Problemstellung / Ausgangslage
+Touristisch relevante Inhalte sind auch in anderen Kapiteln des Richtplans behandelt. So sind intakte Ortsbilder, gut erhaltene historische Industriebauten oder Freizeit- und Sporteinrichtungen auch aus touristischer Sicht wichtig. Diese Themen sind Inhalt des Kapitels Siedlung. Touristisch relevant sind ebenfalls Aspekte der Natur- und Kulturlandschaften (Inhalte Kapitel N) oder der Erschliessung (Inhalte Kapitel V).
 
-Der Nutzungsdruck auf die Landschaft hat zu einer Veränderung des Landschaftsbildes geführt, dies insbesondere durch die Bedürfnisse einer marktwirtschaftlich orientierten Landwirtschaft, durch Freizeitanlagen und durch die Ausdehnung der Bauzonen.
+Mit Blick auf die Imagewirkung nach aussen als Wohnstandort und Tourismusdestination ist der zukünftige Marketingauftritt des Kantons von zentraler Bedeutung. Der Kanton steht auch in der Verantwortung die Träger von Tourismus und Freizeit so zusammen zu bringen, dass ein attraktives Gesamtangebot entsteht und eine übergeordnete Vermarktung aufgebaut werden kann.
 
-Der Kanton hat 1996 gestützt auf Art. 11 der Kantonalen Natur- und Heimatschutzverordnung vom 2. Oktober 1991 ein kantonales Landschaftsverzeichnis erstellt, in dem die schönsten und schützenswertesten Landschaften des Kantons erfasst sind. Es umfasst:
+B Richtungsweisende Festlegungen / Beschluss
 
-- 12 Objekte, die im Rahmen der Erarbeitung des Verzeichnisses aufgenommen wurden
+T1-B/1 Konzept Tourismus
 
-- Schon- und Ruhegebiete gemäss kantonalem Richtplan vom 14.12.1988 (11 Teilobjekte)
+Der Kanton setzt sich für gute Rahmenbedingungen für den Tourismus ein. Der Tourismus als wirtschaftliches Standbein des Kantons wird gestärkt, indem vermehrt auf die Eigenheiten und Besonderheiten sowie auf innovative und qualitativ ansprechende Angebote gesetzt wird. Zentrale Handlungsfelder zur Schärfung des touristischen Profils sind:
 
-- 2 Objekte der Moorlandschaften von besonderer Schönheit und nationaler Bedeutung
+- Der Sommertourismus wird gefördert und gestärkt.
 
-- 3 Objekte des Bundesinventars der Landschaften und Naturdenkmäler von nationaler Bedeutung
+- Die drei touristischen Gebiete Elm, Braunwald und Kerenzerberg werden gemäss ihren spezifischen Stärken und Potenzialen als alpine Destinationen weiterentwickelt und die subregionale Differenzierung wird vorangetrieben (Positionierung).
 
-Von den 12 Objekten, die im Rahmen der Erarbeitung des Landschaftsverzeichnisses aufgenommen wurden, ist das Gebiet Seeflechsen durch Regierungsratsbeschluss vom 8. April 1980 geschützt.
+- Das Klöntal wird als touristischer Attraktionspunkt mit Ausstrahlung in Richtung Glarus und in den Kanton Schwyz (Pragel / Muothatal) positioniert.
 
-Mit der Aufnahme der touristischen Ausschlussgebiete in die kantonale Richtplanung vom 14.12.1988 sind weitläufige Gebirgslandschaften weitgehend geschützt worden. Diese entsprechen mit kleinen räumlichen Differenzen den Schon- und Ruhegebieten. Der Kanton und die Gemeinden müssen seither die entsprechenden Auflagen bei ihren raumwirksamen Vorhaben berücksichtigen.
+- Bestehende Angebote mit touristischem Potenzial entlang der Dienstleistungskette werden überprüft und verbessert.
 
-Die Objekte der Moorlandschaften von nationaler Bedeutung und die Objekte des Bundesinventars der Landschaften und Naturdenkmäler von nationaler Bedeutung sind durch Verordnungen auf Bundesebene geschützt (Verordnung vom 1. Mai 1996 über den Schutz der Moorlandschaften von besonderer Schönheit und von nationaler Bedeutung (Moorlandschaftsverordnung), Verordnung vom 10. August 1977 über das Bundesinventar der Landschaften und Naturdenkmäler (VBLN)).
+- Neue und innovative Angebote (lokal und kantonal) werden kreiert und untereinander sowie mit bestehenden Angeboten gebündelt und vernetzt. Die vielen Geschichten rund um das Glarnerland werden in Wert gesetzt (Industriekultur, Themenwege, Ausstellungen, Land Art u.a.).
 
-Das Kantonale Landschaftsverzeichnis formuliert zu jeder Landschaft die Ziele bezüglich Erhaltung und Aufwertung.
+- Das Tourismusbewusstsein in der Glarner Bevölkerung und die Gastfreundschaft und das Qualitätsbewusstsein bei den touristischen Leistungsträgern werden verbessert.
 
-### Richtungsweisende Festlegungen
+- Die Innenstadt von Glarus wird auch aus einer touristischen Sicht heraus gestärkt und attraktiver gestaltet (Förderung der Kultur und Ausgeh-Angebote)
 
-In Landschaften von nationaler und regionaler Bedeutung ist der Gesamtcharakter der Landschaft zu wahren. Kanton und Gemeinden berücksichtigen die im kantonalen Landschaftsverzeichnis formulierten Ziele im Rahmen ihrer raumwirksamen Tätigkeiten und Beurteilung von Nutzungs- und Bauvorhaben.
+- Schlechtwetterprogramme werden gefördert. Die Umnutzung alter Industriebauten für neue Freizeitangebote wird ermöglicht und gefördert.
 
-L - 21
+- Der Aufbau eines Golfangebots zur Ergänzung bestehender Sport- und Freizeitangebote wird angestrebt.
 
-### L4-3 Natur- und Landschaftsschutz
+- Das Tourismusangebot wird auch auf die Bedürfnisse der Wohnbevölkerung ausgerichtet. Bei der Planung von Sport- und Freizeitinfrastrukturen werden auch die Anforderungen und Bedürfnisse des Tourismus berücksichtigt.
 
-### Richtplanaufgabe
+C Handlungsanweisungen
 
-Der Kanton ist dafür besorgt, dass erhaltenswerte Landschaften, Naturdenkmäler, naturnahe Lebensräume und Erholungsgebiete gesichert und erhalten bleiben. Er ergreift dazu die notwendigen raumplanerischen Massnahmen und stellt die Gebiete in Inventaren fest.
+T1-C/1
 
-### Problemstellung / Ausgangslage
+Der Kanton entwickelt zusammen mit den touristischen Leistungsträgern und den Gemeinden eine kantonale Strategie für den Tourismus und überprüft diese regelmässig. Die Strategie setzt grundsätzlich auf eine verbesserte Vermarktungs- und Innovationskraft, die Schaffung neuer und die Weiterentwicklung bestehender Angebote für Tourismus, Sport und Freizeit, eine verbesserte Kooperationsbereitschaft unter den Leistungsträgern und eine Schärfung des touristischen Profils des Glarnerlands nach innen und aussen.
 
-Der Kanton Glarus besitzt eine Vielzahl von erhaltenswerten Natur- und Landschaftsräumen. Zur Sicherung der Natur- und Landschaftsräume werden diese in kantonalen Inventaren erfasst. Die Landschaftsräume von regionaler Bedeutung sind schon in einem kantonalen Verzeichnis erfasst worden (siehe Kap. L4-2). Der Kanton ist dafür besorgt, dass die entsprechenden Räume erfasst und inventarisiert sind und laufend aktualisiert werden.
+Der Kanton setzt seine kantonale Tourismusstrategie schrittweise um. Der Kanton fördert die nachhaltige Entwicklung von Tourismus- und Erholungsgebieten und setzt sich für die Vernetzung der Angebote und für die Schaffung optimaler Dienstleistungen ein.
 
-**Nr. L4-3/1**
+Innovative Tourismusprojekte, welche der Tourismusstrategie entsprechen und in der Wertschöpfung nachhaltig sind, werden gefördert und unterstützt. Im Richtplan werden die notwendigen Festlegungen und Koordinationsmassnahmen getroffen.
 
-### Abstimmungsanweisung
+Federführung: Dep. Volkswirtschaft und Inneres, Kontaktstelle für Wirtschaft
 
-Der Kanton erstellt gemäss Gesetz über den Natur- und Heimatschutz Inventare zu:
+D Objekte
 
-- Erhaltenswerten Landschaften
+Keine
 
-- Naturdenkmälern
+E Erläuterungen / Grundlagen
 
-- Naturnahen Lebensräumen
+Siehe Erläuterungsbericht
 
-- Erholungsgebieten.
+### T2 Touristische Intensiverholungsgebiete (anlagenorientiert)
 
-Bei Vorliegen der vollständigen Inventare beschliesst der Regierungsrat, ob eine Richtplan-Fortschreibung oder Richtplan-Anpassung durchgeführt werden soll.
+A Ausgangslage
 
-**Termine / Verfahren**
+Touristische Intensiverholungsgebiete sind Gebiete, die mit touristischen Transportanlagen erschlossen und/oder mit grösseren Freizeitanlagen ausgestattet sind. Sie werden während der Winter- und Sommersaison zur Ausübung von Freizeitaktivitäten (z.B. Schneesport, Wandern, Mountainbike, Veranstaltungen) genutzt, verfügen über hohe Besucherfrequenzen und werden grossflächig beansprucht. Im Kanton Glarus gibt es mit Elm und Braunwald zwei Gebiete, die im Sinne des kantonalen Richtplans als touristische Intensiverholungsgebiete bezeichnet werden.
 
-### Abstimmungsstand Zuständigkeit
+In der Richtplankarte teils nicht dem Intensiverholungsgebiet zugewiesen ist die Basiserschliessung der Intensiverholungsgebiete. Sie wird als touristische Transportanlage ausgewiesen. Im Fall des Intensiverholungsgebietes Elm ist diese Basiserschliessung gegeben und neue Erschliessungen ins Intensiverholungsgebiet in Elm sind nicht in Planung. Eine Überlegung besteht indes hinsichtlich einer neuen Direktverbindung von Elm ins Gebiet Vorab der Destination Flims Laax Falera (Weisse Arena). Dieses Vorhaben besteht als Projektidee. Nebst den technischen und umweltrechtlichen Abklärungen ist hier namentlich auch noch die konzeptionelle Abstimmung mit den bestehenden touristischen Erschliessungen und Ausrichtungen von Elm vorzunehmen.
 
-**Alle Inventare sollen innert 5**
+In Braunwald steht im Zusammenhang mit der touristischen Nutzung im Gebiet Orenplatte eine weitere Basiserschliessung ab dem Talboden zur Diskussion. Ein konkreteres Vorhaben besteht noch nicht. Über den Richtplan soll gesichert werden, dass eine allfällige neue Erschliessung dieses Gebietes mit dem Konzept der touristischen Transportanlagen in Braunwald sowie der Erschliessung mit der Standseilbahn abgestimmt erfolgt.
 
-Festsetzung Departement Bau und Umwelt Jahren nach Inkrafttreten des kantonalen Richtplans vorliegen.
+Die Intensiverholungsgebiete sind bezüglich des Angebots, Betriebs und Komforts an die sich verändernden Gästebedürfnisse auszurichten und laufend zu optimieren (Bereitstellung zeitgemässer Anlagen, beschneite Pisten, optimierte Einstiegsmöglichkeiten, Infrastrukturen für Sommerangebote). Wird aus strategischen Überlegungen eine künftige Erweiterung der Intensiverholungsgebiete in Betracht gezogen, sind die dafür geeigneten Gebiete im Richtplan zu sichern. Eine Erschliessung neuer Geländekammern hat möglichst raum- und umweltverträglich zu erfolgen und soll einen möglichst grossen regionalwirtschaftlichen Nutzen erbringen.
 
-### Verweis auf massgebliche Grundlagen
+B Richtungsweisende Festlegungen / Beschluss
 
-- Regierungsrat des Kantons Glarus (1999): Entwicklungspolitisches Leitbild (Massnahme 6.4.4.5)
+T2-B/1 Touristische Intensiverholungsgebiete
 
-- Gesetz über den Natur- und Heimatschutz, 2. Mai 1971 (IV G/1)
+- Die touristischen Intensiverholungsgebiete bilden die Grundlage für einen wertschöpfungsintensiven, auf eine grössere Gästezahl ausgerichteten Tourismus. Die Weiterentwicklung der Gebiete zielt auf eine höhere Angebotsqualität, eine verbesserte Auslastung der Infrastrukturen und eine Erhöhung der regionalen Wertschöpfungswirkung. Das Beherbergungsangebot in diesen Gebieten wird ausgebaut, diversifiziert und gezielt auf die wichtigen touristischen Angebote (Bergbahnen) ausgerichtet.
 
-- Natur- und Heimatschutzverordnung, 2. Oktober 1991 (IV G/2)
+- Durch eine laufende Weiterentwicklung und Optimierung des Angebots sowie eine klare Positionierung bleiben diese Gebiete langfristig attraktiv und national konkurrenzfähig.
 
-L - 22
+T2-B/2 Touristische Bauten und Anlagen
 
-### L4-4 Ruhegebiete für Wildtiere
+- Touristische Infrastrukturanlagen mit erheblichen Auswirkungen auf die Umwelt konzentrieren sich auf die touristischen Intensiverholungsgebiete und den Siedlungsraum im Talboden.
 
-### Richtplanaufgabe
+- Touristische Bauten und Anlagen werden unter Berücksichtigung des für den Tourismus wichtigen Orts- und Landschaftsbildes und allfälliger Schutzgebiete in die Landschaft eingeordnet (Standortwahl, Gestaltung der Bauten und Anlagen). Die Festlegung gilt für neue Bauten und Anlagen wie auch für Ersatzbauten bzw. -anlagen.
 
-Der Kanton scheidet im Zusammenhang mit der Wildschadenverhütung Schutzgebiete aus, in denen wildlebende Tierarten vor menschlichen Störungen weitgehend geschützt werden sollen.
+T2-B/3 Erschliessung Tourismusgebiete
 
-### Problemstellung / Ausgangslage
+- Die Gebiete für einen anlagengebundenen Tourismus werden gut an den öffentlichen Verkehr angebunden (Hauptzubringer). Es werden Anreize für eine vermehrte Anreise mit dem öffentlichen Verkehr geschaffen.
 
-Die Arbeitsgruppe Wildschadenverhütungskonzept hat auf der Basis einer 1997 kantonal durchgeführten Lebensraumbewertung Gebiete eruiert, welche zukünftig als Wildlebensräume besser vor menschlichen Aktivitäten geschützt werden sollen. Diese Ruhegebiete sind von besonderer Bedeutung, da die prekäre Lebensraumsituation der Wildtiere in engem Zusammenhang zu den schutzwaldbedrohenden Waldschäden steht.
+C Handlungsanweisungen
 
-Im Rahmen des RP Entwurfes wurden die Perimeter der Ruhegebiete und der Jagdbanngebiete in Details aufeinander abgestimmt.
+T2-C/1
 
-**Nr. L4-4/1**
+Die Gemeinden sorgen im Rahmen der Nutzungsplanung mit entsprechenden Zonenzuweisungen und allfälligen ergänzenden Bestimmungen dafür, dass in den touristischen Intensiverholungsgebieten eine Weiterentwicklung im Sinne der Festlegungen erfolgen kann.
 
-### Abstimmungsanweisung
+Die Gemeinden sorgen im Rahmen ihrer Planungen insbesondere auch dafür, dass die für die Angebotsbildung wichtigen, aber nicht standortgebundenen Bauten und Anlagen, welche eine Bauzone bedingen, nach einem Konzept geplant werden.
 
-Der Richtplan bezeichnet die folgenden Ruhegebiete für Wildtiere. Die entsprechenden Nutzungsbestimmungen werden bei Nutzungsplanverfahren, Bauvorhaben und Umnutzungen durch den Kanton und die Gemeinden umgesetzt:
+Federführung: Gemeinde
 
-(cid:1) Ruhegebiet Büelserwald / Planggenstogg / Flüewald / Hinteres Schwändital (Gemeindegebiet Bilten, Niederurnen, Oberurnen, Näfels) (cid:1) Ruhegebiet Banngebiet Rauti-Tros / Bärenstichwald (Gemeindegebiet Näfels) (cid:1) Ruhegebiet Salengrat / Ennetseben / Diestal (Gemeindegebiet Schwanden, Haslen, Hätzingen\*, Diesbach\*) (cid:1) Ruhegebiet Banngebiet Schilt / Sooler Achseli (Gemeindegebiet Sool, Ennenda, Mitlödi) (cid:1) Ruhegebiet Spanegg / Mürtschenstock / Firzstock / Mürtschental (Gemeindegebiet Mühlehorn, Obstalden, Filzbach, Mollis, Ennenda).
+T2-C/2
 
-In den Ruhegebieten gelten die Nutzungsbeschränkungen für die touristischen Ausschlussgebiete sowie die folgenden Ergänzungen:
+Bei der Konzipierung von Neu- und von Ersatzanlagen sind die Möglichkeiten einer Ganzjahresnutzung konsequent zu berücksichtigen. Neu- und Ersatzanlagen sind auf der Grundlage eines Konzepts zu planen.
 
-Erwünschte Nutzung: • Pflegende Eingriffe zur Aufwertung des Lebensraumes Zulässige Nutzungen: • Wandern auf Wanderwegen gemäss kantonalem Wanderwegnetzplan • Skitouren gemäss Skitourenkarte des SC Glarus • Schneeschuhtouren auf spez. bezeichneten Wegen • Biken gemäss Mountainbike-Karte von Glarnerland Tourismus • Wildregulierung • Land- und Alpwirtschaft (ausgenommen nicht ständig behirtetes Kleinvieh)
+Federführung: Interessenz
 
-- Waldpflege, Waldnutzung
+D Objekte
 
-- Gebirgsunterkünfte wie SAC-Hütten
+Intensiverholungsgebiete
 
-- Während allfälligen speziellen Schonzeiten können die oben genannten Nutzungen speziell eingeschränkt werden
+**KS**
 
-L - 23 Nicht erwünschte Nutzungen: • Grundsätzlich alle übrigen Nutzungen, insbesondere:
+Objekt-Nr. Gemeinde Standort / Gebiet Bemerkung / Hinweis
 
-- Nicht ständig behirtete Kleinviehbeweidung
+T2.01.1 Glarus Süd Braunwald - Koordination mit Vorhaben Ersatz FS Standseilbahn (V.2.3.01)
 
-- Sportanlässe
+T2.01.2 Glarus Süd Braunwald - - Koordination mit Vorhaben Ersatz ZE Erweiterung Standseilbahn (V.2.301) - Auch Standort für Vorhaben mit gewichtigen Auswirkungen im Sinne von Art. 8 Abs. 2 RPG Objekt-Nr.
 
-- Hängegleiten (Gleitschirmfliegen, Deltasegeln)
+**Gemeinde Standort / Gebiet Bemerkung / Hinweis KS**
 
-- Variantenskifahren
+**Glarus Süd Elm - Jagdbanngebiet Kärpf FS**
 
-- Jede zusätzliche touristische Erschliessung
+T2.02
 
-- Sämtliche Bauten und Anlagen, welche nicht zwingend auf einen Standort in diesem Gebiet angewiesen sind
+**- TWW-Objekte Bischofbach**
 
-**Termine / Verfahren**
+Erschliessung
 
-### Abstimmungsstand Zuständigkeit
+**Gemeinde Standort / Gebiet Bemerkung / Hinweis KS**
 
-Festsetzung Departement Bau und Umwelt, Jagdverwaltung Nutzungsplanverfahren Departement Bau und Umwelt, Fachstelle Raumentwicklung Gemeinden Bilten, Diesbach<sup>∗</sup>, Ennenda, Filzbach, Hätzingen∗, Haslen, Mitlödi, Mollis, Mühlehorn, Näfels, Niederurnen, Oberurnen, Obstalden, Schwanden, Sool
+Objekt-Nr.
 
-**Baubewilligungsverfahren**
+**Glarus Süd Diesbach / Bet- - touristische Erschliessung Gebiet ZE**
 
-### Verweis auf massgebliche Grundlagen
+**schwanden Orenplatte**
 
-- Arbeitsgruppe Wildschadenverhütungskonzept: Antrag Ruhegebiete für die Richtplanrevision vom 7. April 1999
+T2.03
 
-**Nr. L4-4/2**
+**- Koordination mit Vorhaben Ersatz Standseilbahn (V.2.3.01) - Abstimmung mit dem Konzept der touristischen Transportanlagen im Intensiverholungsgebiet.**
 
-### Abstimmungsanweisung
+**Glarus Süd Elm - Verbindungsbahn Elm - Gebiet VO**
 
-Im Ruhegebiet Hellhorn-Gandstock-Charenstock-Geisstal auf Gemeindegebiet Engi, Schwanden, Matt und Elm besteht ein Konflikt mit dem Projekt eines neuen Höhenweges. Bis zur Abstimmung dieses Nutzungskonfliktes wird das Gebiet als Zwischenergebnis eingetragen.
+**Weisse Arena (Gebiet Vorab) - Bedürfnisabklärungen und Konzept zur Abstimmung mit dem Betrieb der bestehenden Bahnen sind noch auszuarbeiten - Generelle Machbarkeit mit Voruntersuchung UVB sind noch auszuarbeiten (mögliche Konflikte mit UNESCO-Welterbe Tektonikarena Sardona).**
 
-Nach dem Abstimmungsverfahren wird der Richtplan durch den Regierungsrat fortgeschrieben.
+T2.04
 
-**Termine / Verfahren**
+**Erläuterungen / Grundlagen**
 
-### Abstimmungsstand Zuständigkeit
+E
 
-Zwischenergebnis Departement Bau und Umwelt, Jagdverwaltung, Abstimmungsverfahren unter Abteilung Wald und Fachstelle Wanderwege Leitung der Polizeidirektion Departement Volkswirtschaft und Inneres, Fachstelle Wirtschaftsförderung Gemeinden Engi, Schwanden, Matt und Elm
+Siehe Erläuterungsbericht
 
-**Zum Zeitpunkt eines Projektes für den Höhenweg**
+### T3 Naturnaher Tourismus (nicht anlagenorientiert)
 
-### Verweis auf massgebliche Grundlagen
+Kapitel muss gemäss Auflage im Rahmen der Genehmigung des kantonalen Richtplans überarbeitet werden.
 
-- Arbeitsgruppe Wildschadenverhütungskonzept: Antrag Ruhegebiete für die Richtplanrevision vom 7. April 1999
+A Ausgangslage
 
-∗ Mit der Gemeindefusion von Hätzingen, Diesbach und Luchsingen zur Gemeinde Luchsingen gilt bei deren Aufzählungen die Abstimmungsanweisung immer für die politische Gemeinde Luchsingen.
+Allgemein Der naturnahe Tourismus mit seinen vielfältigen Facetten und Formen bildet einen wichtigen Bestandteil der kantonalen Tourismusstrategie. Ein naturnaher oder «sanfter» Tourismus stützt sich auf die lokalen Ressourcen (Landschaft, Kultur, Kulinarik u.a.) und ist nicht oder nur in untergeordnetem Mass auf touristische Transportanlagen und grössere Einrichtungen angewiesen. Im Mittelpunkt stehen naturorientierte Freizeitaktivitäten wie Wandern, Mountainbike oder Klettern. Dadurch bildet der naturnahe Tourismus einen Gegenentwurf bzw. eine Ergänzung zum anlagenbasierten Intensivtourismus, er steht jedoch nicht in Konkurrenz zu diesem. In strukturschwächeren alpinen Regionen mit noch intakter Natur- und Kulturlandschaft vermag der naturnahe Tourismus spürbare regionalwirtschaftliche Impulse zu setzen.
 
-L - 24
+Folgende Gebiete gelten im Sinne des Richtplans als nicht-anlagenorientiert: Kerenzerberg, Klöntal, Weissenberge, Niederurner Täli, Garichti-Stausee, Skigebiet Schilt.
 
-### L4-5 Wildtierkorridore und Wildwechselbereiche
+Für eine bessere Erschliessung des Tourismusraumes Kerenzerberg sieht die Gemeinde Glarus Nord im kommunalen Richtplan zwecks Verknüpfung touristischer Angebote am Berg und am See die Erstellung einer Verbindungsbahn vom Gäsi nach Filzbach vor.
 
-### Richtplanaufgabe
+Agrotourismus Der Agrotourismus ist eine besondere Form eines naturnahen Tourismus. Er umfasst touristische Angebote auf landwirtschaftlichen Betrieben und Alpen, die auf das authentische Erleben der Landwirtschaft ausgerichtet sind (Übernachtungsmöglichkeiten, Gästebewirtung, Organisation von Veranstaltungen und Erlebnisangeboten). Im Kanton Glarus werden bereits vereinzelte agrotouristische Leistungen angeboten.
 
-Die bedeutendsten Verbindungen zwischen Populationsräumen von wildlebenden Tieren sowie die hochwertigen Wildeinstandsgebiete sind zweckmässig zu erhalten oder wiederherzustellen.
+Aus richtplanerischer Sicht ergeben sich einerseits Fragen im Zusammenhang mit der Integration agrotouristischer Angebote (Gastronomie- und Übernachtungsangebote) in einen Alp- oder Landwirtschaftsbetrieb. Andererseits bedarf der Umgang mit ehemaligen, nicht mehr landwirtschaftlich genutzten Alpbetrieben einer richtplanerischen Koordination, insbesondere wenn diese einer touristischen Nutzung zugeführt werden sollen und zu diesem Zweck wesentliche Um- und Ausbauvorhaben vorgesehen sind.
 
-### Problemstellung / Ausgangslage
+Bezüglich Umnutzung von Alpbauten oder anderen landwirtschaftlichen Bauten zu touristischen Zwecken stehen Fragen nach der Art der Umnutzung und den dafür geeigneten Standorten und Gebieten im Zentrum. Im Richtplan werden keine Standorte bestimmt. Es werden jedoch Festlegungen und Handlungsanweisungen erlassen, welche bei konkreten Vorhaben zu berücksichtigen sind.
 
-In einem Projekt des Bundesamtes für Umwelt, Wald und Landschaft erarbeitete die Schweizerische Vogelwarte Sempach im Auftrag der Schweizerischen Gesellschaft für Wildtierbiologie (SGW) in Zusammenarbeit mit der kantonalen Jagdverwaltung ein Verzeichnis der wichtigsten Wildtierkorridore (BUWAL-Bericht SRU-326, 2001). Wildtiere müssen für ihr nachhaltiges Gedeihen im Lauf des Tages und der Jahreszeiten zwischen den für Nahrung, Ruhe, Sozialkontakt und Fortpflanzung geeigneten Lebensräumen je nach Tierart wenige Meter bis viele Kilometer weit zirkulieren können. Zahlreiche dieser Korridore sind durch Strassen und Siedlungen beeinträchtigt oder gar unterbrochen. Insgesamt wurden für den Kanton Glarus 17 Korridore von unterschiedlicher Bedeutung festgestellt.
+UNESCO Weltnaturerbe Tektonikarena Sardona Die faszinierende Gebirgslandschaft um den Piz Sardona im Grenzgebiet der Kantone St. Gallen, Glarus und Graubünden lässt tektonische Prozesse auf anschauliche, weltweit einzigartige Weise im Gelände beobachten. Das 300 km<sup>2</sup> grosse Gebiet besitzt daher grossen pädagogischen und wissenschaftlichen Wert und ein entsprechendes Potenzial für den Aufbau eines naturnahen Tourismusangebots, insbesondere für natur- und bildungsaffine Zielgruppen. Dabei kann der Kanton Glarus bei der Vermarktung und Inwertsetzung der Tektonikarena von der weltweiten Ausstrahlung des UNESCO-Labels profitieren. Bezüglich Schutz und räumlicher Sicherung der Tektonikarena Sardona wird auf das Kapitel N2 verwiesen.
 
-### Richtungsweisende Festlegungen
+B Richtungsweisende Festlegungen / Beschluss
 
-- 1\. Im Bereich der intakten Wildtierkorridore sind die ökologischen Qualitäten und die Verbindungswege der Tiere zu erhalten. ((cid:2) Siedlungstrenngürtel Kap. S1-3)
+T3-B/1 Naturnaher Tourismus
 
-- 2\. Die beeinträchtigten oder unterbrochenen Wildtierkorridore sind mit geeigneten Massnahmen aufzuwerten oder wiederherzustellen. Die Korridore von überregionaler Bedeutung sind prioritär zu behandeln.
+- Die vorhandenen Potenziale im Bereich des naturnahen Tourismus im Kanton Glarus werden verstärkt genutzt. Durch gute Rahmenbedingungen vermag diese Form des Tourismus vermehrt zur Wertschöpfung beizutragen.
 
-**Nr. L4-5/1**
+T3-B/2 Agrotourismus
 
-### Abstimmungsanweisung
+- Die teilweise Umnutzung von Alpbauten sowie weiterer Landwirtschaftsbauten zu touristischen Zwecken (Agrotourismus) erfolgt hinsichtlich Intensität und Umfang in Abstimmung mit der räumlichen Umgebung (anlagenorientierte bzw. nicht anlagenorientierte Gebiete).
 
-Der Kanton prüft in Zusammenarbeit mit den benachbarten Kantonen den Bau von zwei wildtierspezifischen Bauwerken über die A3 zwischen der Kantonsgrenze bei Bilten und dem Walensee (Korridor GL 6 + 7 gemäss BUWAL, 2001).
+- Vorhaben im Zusammenhang mit der touristischen Nutzung von aufgegebenen Alp- bzw. Landwirtschaftsbetrieben erfüllen folgende Anforderungen:
 
-Zusätzlich ist im Bereich der Korridore eine ökologische Aufwertung der Linthebene durch Strukturen wie Hecken und Feldgehölze zu schaffen.
+- keine Neuerschliessung oder kein wesentlicher Ausbau der Erschliessung
 
-**Termine / Verfahren**
+- keine Erstellung von Parkierungsanlagen
 
-### Abstimmungsstand Zuständigkeit
+- gute Lage in Bezug auf das Wanderweg- und Mountainbikenetz
 
-Zwischenergebnis Departement Bau und Umwelt, Jagdverwaltung 2 Jahre nach Inkrafttreten des kantonalen Richtplans
+- Bewahrung der architektonischen Qualität bezüglich Gestalt und Materialisierung sowie Sicherung der Bausubstanz.
 
-**Nr. L4-5/2**
+T3-B/3 Tourismus in der Tektonikarena Sardona
 
-### Abstimmungsanweisung
+- Das Gebiet der Tektonikarena Sardona und seine Naturschönheiten werden soweit dies mit der Erhaltung der Geotope, der Biotope und der Landschaft vereinbar ist, Besuchern zugänglich gemacht. Es wird eine nachhaltige, angepasste Nutzung des Gebiets angestrebt.
 
-In Zusammenarbeit mit dem benachbarten Kanton St. Gallen (Gemeinde Schänis) prüft er den Bau eines wildtierspezifischen Bauwerks über die A3 zwischen Schänis und Niederurnen. Es besteht ein Koordinationsbedarf in Bezug auf Lage und Bedeutung des Korridors.
+Die Errichtung von touristischen Transportanlagen innerhalb des Perimeters ist nicht zulässig.
 
-**Termine / Verfahren**
+- Kanton und Gemeinden fördern Angebote und Produkte, welche zur touristischen und wirtschaftlichen Inwertsetzung der UNESCO Tektonikarena Sardona beitragen (touristische Angebote, Bildungsangebote für Schulklassen und Gruppen, Forschung).
 
-### Abstimmungsstand Zuständigkeit
+T3-B/4 Tourismus in Schutzgebieten
 
-Vororientierung Departement Bau und Umwelt, Jagdverwaltung 5 Jahre nach Inkrafttreten des Gemeinde Schänis, Kanton St. Gallen
+- Touristische Angebote dürfen die Schutzziele von tangierten Schutzobjekten und - gebieten nicht gefährden.
 
-**kantonalen Richtplans**
+C Handlungsanweisungen
 
-L - 25
+T3-C/1
 
-**Nr. L4-5/3**
+Der Kanton fördert und unterstützt den Aufbau und die Weiterentwicklung naturnaher Tourismusangebote im Rahmen seiner Möglichkeiten. Er unterstützt namentlich den Aufbau und Austausch von Wissen und Kompetenzen im Bereich des naturnahen und nachhaltigen Tourismus und schafft Rahmenbedingungen für die Umsetzung attraktiver Angebote.
 
-### Abstimmungsanweisung
+Federführung: Dep. Volkswirtschaft und Inneres, Kontaktstelle für Wirtschaft
 
-Der Kanton prüft gemäss dem Bericht der Schweizerischen Vogelwarte Sempach die Massnahmen zur Aufwertung und Wiederherstellung der Wildtierkorridore von regionaler und lokaler Bedeutung, soweit Kantonsstrassen und Bahnlinie betroffen sind.
+T3-C/2
 
-**Termine / Verfahren**
+Die Umnutzung von Alpgebäuden bzw. Landwirtschaftsbetrieben zu agrotouristischen Zwecken sind auf der Grundlage eines Konzepts zu planen. In diesem sind der Zusammenhang mit dem weiterhin agrarwirtschaftlich genutzten Teil und die massgebenden betrieblichen Aspekte des agrotouristischen Teils aufzuzeigen.
 
-### Abstimmungsstand Zuständigkeit
+Federführung: Interessenz
 
-Zwischenergebnis Departement Bau und Umwelt, Jagdverwaltung Prüfung innert 2 Jahren nach Inkrafttreten des kantonalen Richtplans
+D Objekte
 
-### Verweis auf massgebliche Grundlagen
+**KS**
 
-- Schweizerische Vogelwarte Sempach, Januar 2000: Wildtierkorridore im Kanton Glarus
+Objekt-Nr. Gemeinde Standort / Gebiet Bemerkung / Hinweis
 
-- Regierungsratsbericht §502 vom 8. Juli 2004
+T3.01 Glarus Nord Filzbach - Verbindungsbahn Gäsi - Filzbach ZE (Verknüpfung der Angebote am Berg und am See - Bedürfnisabklärungen und Konzeptionen sind noch auszuarbeiten - Mögliche Konflikte mit Auengebiet von nationaler Bedeutung «Linth Delta» (Objekt Nr. 348 gemäss Bundesinventar der Auengebiete von nationaler Bedeutung) sowie Waldreservat «Gäsi-Kundertriet-Landgüetli».
 
-L - 26
+E Erläuterungen / Grundlagen
 
-### L4-6 Jagdbanngebiete
+Siehe Erläuterungsbericht
 
-### Richtplanaufgabe
+### T4 Golfsport
 
-Jagdbanngebiete dienen dem Schutz und der Erhaltung von seltenen und bedrohten wildlebenden Säugetieren und Vögeln und ihrer Lebensräume sowie der Erhaltung von gesunden, den örtlichen Verhältnissen angepassten Beständen jagdbarer Arten.
+A Ausgangslage
 
-### Problemstellung / Ausgangslage
+Die Beliebtheit des Golfsports ist in jüngerer Vergangenheit stark gestiegen. Die Anzahl Golfer in der Schweiz nimmt weiterhin zu. Golf wird gemäss Studie des Bundesamts für Sport aus dem Jahr 2014 häufig von Personen mit einem überdurchschnittlichen Haushaltseinkommen betrieben.
 
-Es gibt im Kanton Glarus vier grosse Jagdbanngebiete:
+Mit Ausnahme der Driving Range in Nidfurn und der Pitch&Putt-Anlage (Golf-Kurzplatz) in Engi bestehen im Kanton Glarus keine Angebote für den Golfsport. Eine Nachfrage nach einer frei zugänglichen Golfanlage scheint vorhanden. Die Rahmenbedingungen für den Betrieb eines Golfplatzes sind aufgrund der schönen landschaftlichen Umgebung sowie der guten Erreichbarkeit aus dem Grossraum Zürich grundsätzlich gegeben.
 
-Eidgenössische Jagdbanngebiete:
+Mit einem Golfangebot kann ein neues einkommenskräftiges Gäste- und Besuchersegment angesprochen werden. Zudem bestehen Synergiemöglichkeiten mit anderen Sport- und Freizeiteinrichtungen. Ebenso besteht im Zusammenhang mit dem Golfangebot die Chance, mehr Logiernächte in der Hotellerie des Glarnerlands zu generieren. Zudem kann mit einer Golfanlage auch ein für die Region weiteres Arbeitsangebot geschaffen werden.
 
-- Kärpf (Gemeinden Betschwanden, Diesbach, Elm, Engi, Hätzingen, Haslen, Linthal, Matt, Rüti,
+B Richtungsweisende Festlegungen / Beschluss
 
-### Schwanden)
+T4-B/1 Golfanlage
 
-- Rauti-Tros (Gemeinde Näfels)
+- Die Bestrebungen zur Schaffung einer attraktiven Golfanlage im Kanton Glarus werden unterstützt. Es werden Synergien mit anderen Freizeit- und Tourismusangeboten angestrebt. Der Golfplatz bettet sich landschaftlich und ökologisch in die Umgebung ein und trägt zur Stärkung des Sommertourismus bei.
 
-- Schilt (Gemeinden Ennenda, Mitlödi)
+C Handlungsanweisungen
 
-Kantonales Jagdbanngebiet:
+T4-C/1
 
-- Bergli-Bitziberg (Gemeinde Glarus) In diesen vier Jagdbanngebieten ist die Jagd vollständig untersagt. Die Wildhut nimmt die notwendigen Hegeabschüsse vor.
+Für die Festsetzung eines Golfplatzstandortes im Richtplan ist der Bedarf, die Raumverträglichkeit (Landschaft, Verkehr, Umwelt), die betriebsseitige Machbarkeit sowie die Verfügbarkeit der Grundstücke nachzuweisen.
 
-Mit Beschluss des Regierungsrates vom 25. Juni 1980, gestützt auf Art. 7 Abs. 4 des Kantonalen Jagdgesetzes vom 6. Mai 1979 gibt es ausserdem Schongebiete für Murmeltiere, Feldhasen und Wasservögel (Änderungen vorbehalten). Diese Gebiete sind nicht auf der Richtplankarte eingezeichnet.
+Federführung: Interessenz
 
-### Richtungsweisende Festlegungen
+D Objekte
 
-Die eidgenössischen und kantonalen Jagdbanngebiete bleiben erhalten. In diesen Gebieten gelten die Schutzbestimmungen gemäss Art. 5 der Verordnung über die eidgenössischen Jagdbanngebiete (VEJ).
+**KS**
 
-Hinweis zur Kartendarstellung:
+Objekt-Nr. Gemeinde Standort / Gebiet Bemerkung / Hinweis
 
-In der Richtplankarte sind die Grenzen der eidgenössischen Jagdbanngebiete eingetragen. Die Grenzen der kantonalen Jagdbanngebiete sind aus den jeweiligen jährlichen Jagdvorschriften ersichtlich. Sie verlaufen für das Jagdbanngebiet „Kärpf“ vom Bischofbach in Elm entlang dem Sernf (linkes Ufer) bis Schwanden und der Linth (rechtes Ufer) entlang bis zum Durnagel in Linthal. Die übrigen (südlichen) Grenzen von Elm bis Linthal sind identisch und entsprechen den im Plan eingetragenen. Beim Jagdbanngebiet „Schilt“ verlaufen die Grenzen entlang der Plattenrunse bis zum Weinberg in Ennetbühls und von da in gerader Linie bis zur Linthbrücke Glarus-Ennetbühls. Von da der Linth (rechtes Ufer) entlang bis zum Eschenritt und in gerader Linie bis zum Achseli (Punkt 1410). Vom Achseli bis zum Weinberg sind die Grenzen mit den eingetragenen identisch. Die Grenzen des Jagdbanngebietes „Bergli-Bitziberg“ sind im Landratsbeschluss (VI E/22/6) vom 25.06.1980 geregelt.
+**ZE**
 
-L - 27
+**FS**
 
-### L4-7 Besonders wertvolle Gebiete des Hochgebirges-Weltnaturerbe „Glarner Hauptüberschiebung“
+T4.01 Glarus Süd Braunwald - Gebiet - siehe Handlungsanweisungen Orenplatte - Koordination mit T2.01.2 (Erweiterung Intensiverholungsgebiet) und T2.03 (touristische Erschliessung Orenplatte) T4.0302 Glarus Süd Engi Golf-Kurzplatz E Erläuterungen / Grundlagen
 
-### Richtplanaufgabe
+Siehe Erläuterungsbericht
 
-Der Kanton sorgt für die Erhaltung und Entwicklung des Gebietes des (nominierten) UNESCO-Weltnaturerbes „Glarner Hauptüberschiebung“.
+### E Übrige Raumnutzungen
 
-### Problemstellung / Ausgangslage
+### E1 Wasserversorgung und Abwasserreinigung
 
-Der Schutz und die Nutzung innerhalb des Perimeters des (nominierten) UNESCO- Weltnaturerbes richtet sich im Sinne einer nachhaltigen Entwicklung nach dem verabschiedeten Entwicklungsplan im
+### E2 Energie
 
-### Anhang der Vereinbarung über den gemeinsamen Schutz des UNESCO-Weltnaturerbes „Glarner
+E2.1 Energieplanung E2.2 Versorgung mit elektrischem Strom E2.3 Versorgung mit Erdgas E2.4 Erneuerbare und standortgebundene Energien E2.5 Wasserkraft E2.6 Windenergie
 
-Hauptüberschiebung“.
+### E3 Mobilfunkanlagen
 
-Das im Plan bezeichnete Gebiet des UNESCO-Weltnaturerbes „Glarner Hauptüberschiebung“ hat im touristischen Ausschlussgebiet zu liegen. Auf kantonaler Ebene soll das Landschaftsobjekt ins kantonale Landschaftsverzeichnis aufgenommen werden.
+### E4 Abfallwesen und Deponien
 
-Die Gemeinden Elm, Matt, Engi, Sool, Ennenda, Mollis, Filzbach und Mühlehorn sowie die weiteren beteiligten Gemeinden Quarten, Flums, Mels, Vilters-Wangs, Bad Ragaz, Pfäfers, Tamins, Trin, Flims und Laax haben einer Vereinbarung zugestimmt, die den gemeinsamen Schutz und die nachhaltige Entwicklung des UNESCO-Weltnaturerbes „Glarner Hauptüberschiebung“ regelt. Diese Vereinbarung tritt mit Aufnahme des Objektes in die World Heritage List der UNESCO in Kraft. Die Kantonsregierungen der Kantone Glarus, St. Gallen und Graubünden sowie der Bundesrat haben der UNESCO Antrag zur Aufnahme dieses Gebietes in die Weltnaturerbeliste gestellt.
+### E5 Abbau mineralischer Rohstoffe
 
-### Richtungsweisende Festlegungen
+### E6 Schiessanlagen
 
-Der Kanton integriert die Festlegungen, welche die Perimetergemeinden des UNESCO-Weltnaturerbes in einer Vereinbarung festgelegt haben, in seinen Tätigkeiten.
+E6.1 Militärische Schiessanlagen E6.2 Zivile Schiessanlagen
 
-**Nr. L4-7/1**
+### E7 Technische Gefahren (Störfallvorsorge)
 
-### Abstimmungsanweisung
+### E1 Wasserversorgung und Abwasserreinigung
 
-Das Landschaftsobjekt „Glarner Hauptüberschiebung“ soll im Richtplan vollständig im touristischen Ausschlussgebiet liegen und ins kantonale Landschaftsverzeichnis aufgenommen werden.
+A Ausgangslage
 
-**Termine / Verfahren**
+Als Folge der Gemeindefusion 2011 haben die Gemeinden Generelle Wasserversorgungsprojekte (GWP) erarbeitet, welche zu vermehrten Vernetzungen der Wasserversorgungen der alten Gemeinden führen sollen. Damit können die Versorgungssicherheit erhöht, die Nutzung ungenügender Quellen vermieden, die Bewirtschaftung der vorhandenen Ressourcen und die Qualität verbessert werden.
 
-### Abstimmungsstand Zuständigkeit
+Der grösste Teil des Abwassers des Kantons Glarus (zuzüglich dasjenige der Gemeinden Amden, Weesen und Schänis) wird in Anlagen des Abwasserverbandes Glarnerland gereinigt. Der Anschluss des Abwasserverbandes Sernftal erfolgte im Herbst 2016, ein Anschluss des Abwasserverbandes Mühlehorn, Obstalden, Murg, Filzbach (AMOMF) wird zurzeit geprüft. Die Anlagen der Kläranlage Glarnerland werden zwischen 2017 und 2022 erneuert und erweitert.
 
-**Nach Aufnahme des Objektes in die Liste der UNESCO**
+B Richtungsweisende Festlegungen / Beschluss
 
-Zwischenergebnis Departement Bau und Umwelt, Abteilung Umweltschutz und Energie Weltnaturerbe
+E1-B/1 Wasserversorgung - Die Bevölkerung sowie Industrie und Gewerbe werden ausreichend mit qualitativ einwandfreiem Trink- und Brauchwasser versorgt. Die Grund-, Quell- und Seewasservorkommen werden geschützt und die natürliche Grundwasseranreicherung wird sichergestellt. Die Werterhaltung der Wasserversorgungsinfrastruktur wird dauerhaft gesichert. Die Trinkwasserversorgung wird auch in Notzeiten sichergestellt.
 
-L - 28
+E1-B/2 Abwasseranlagen - Die Abwasseranlagen werden im Sinne der Werterhaltung unterhalten und erneuert.
 
-### L5 Gewässer
+C Handlungsanweisungen
 
-### L5-1 Schutz der Gewässer
+E1-C/1 Die von der Regierung erlassenen, im kantonalen Richtplan sowie in den regionalen Wasserversorgungsplänen enthaltenen Grundwasserschutzareale werden durch die Gemeinden in der Nutzungsplanung umgesetzt. Für alle im öffentlichen Interesse liegenden Grund- und Quellwasserfassungen werden Schutzzonen ausgeschieden. Federführung: Gemeinde
 
-### Richtplanaufgabe
+D Objekte
 
-Die Gewässer bilden wichtige Erholungsräume für den Menschen und vielfältige Lebensräume für Pflanzen und Tiere. Der Kanton unterstützt Massnahmen, die der Wiederherstellung der natürlichen Gewässerdynamik dienen und die Vernetzung der Lebensräume ermöglichen. Der für die Gewährleistung der natürlichen Funktionen des Gewässers, des Hochwasserschutzes und der Gewässernutzung notwendige Raumbedarf ist festzulegen.
+Rechtskräftige Grundwasserschutzzonen und -areale siehe Richtplankarte.
 
-### Problemstellung / Ausgangslage
+E Erläuterungen / Grundlagen
 
-Die grundlegenden Funktionen der Gewässer, wie die Selbstreinigung, der Wasserrückhalt und die Vernetzung von naturnahen Flächen, sollen gewährleistet bleiben und bei eingedolten Gewässern wiederhergestellt werden.
+Grundlagen:
 
-Der Vollzug des Bundesgesetzes über den Schutz der Gewässer (GSchG) und seiner Ausführungserlasse, insbesondere die Aufgabenverteilung zwischen dem Kanton und den Gemeinden ist im Einführungsgesetz zum Gewässerschutzgesetz geregelt. Die Wasserqualität in den Oberflächengewässern des Kantons kann generell als gut bezeichnet werden, mit Ausnahme von wenigen Fliessgewässern im Glarner Unterland mit Regenwasserentlastungen. Ein grosses Defizit bezüglich der Renaturierung besteht in verschiedenen Fliessgewässern im Talgrund des Haupttals. Die meisten Gerinne sind naturfern angelegt und haben deshalb besonderen Renaturierungsbedarf.
+- Gewässerschutzkarte (Gewässerschutzbereiche, Grund-/Quellwasserschutzzonen, Grundwasserschutzareale)
 
-Die Forderungen nach genügend Raum für die Fliessgewässer, nach effizientem Schutz vor Wassergefahren und nach der Erhaltung der Gewässerqualität verlangen ein koordiniertes Vorgehen. Es liegen umfangreiche Grundlagen wie Gefahrenkarten, Hochwasserschutzprojekte, Ökomorphologiekartierung sowie Revitalisierungsplanungen vor. In den Nutzungsplanungen der alten Gemeinden sind die Gewässerräume grösstenteils noch nicht ausgeschieden worden.
+### E2 Energie E2.1 Energieplanung
 
-### Richtungsweisende Festlegungen
+A Ausgangslage
 
-- 1\. Der Kanton sorgt für die Revitalisierung von Gewässern. Er plant die Revitalisierungen gestützt auf die Vorgaben der Bundesgesetzgebung und legt den Zeitplan für die Umsetzung der Planung fest.
+Der Energieverbrauch des Kantons betrug im Jahr 2016 knapp 1300 GWh. Davon entfielen etwa 60% auf fossile Treib- und Brennstoffe, etwa 30% auf Elektrizität und knapp 10% auf erneuerbare Energien (ohne Wasserkraft) wie Holz, Umgebungswärme oder KVA-Abwärme. Der Energieverbrauch im Kanton Glarus liegt etwas höher als im schweizerischen Durchschnitt, was wohl auf den hohen Industrieanteil zurückzuführen ist.
 
-- 2\. Die grundlegenden Funktionen von Gewässern sollen bei Uferverbauungen im Rahmen der finanziellen Möglichkeiten durch Renaturierungen wiederhergestellt werden.
+Aufgrund seiner naturräumlichen Gegebenheiten und dem noch nutzbaren Potenzial steht im Kanton Glarus insbesondere die stärkere Nutzung von Holz, KVA-Abwärme, Industrie-Abwärme, Umgebungswärme und Wasserkraft im Vordergrund.
 
-- 3\. Die Gemeinden sind für die Ausscheidung des Gewässerraumes zuständig. Die Genehmigung der Gewässerräume erfolgt durch den Kanton im Rahmen der Zonenplangenehmigung.
+Der Anteil an alten Gebäuden (Baujahr vor 1919) ist im Kanton Glarus fast doppelt so hoch wie im Schweizer Durchschnitt. Aus diesem Grund bestehen im Gebäudebereich ein grosser Nachholbedarf und ein grosses Effizienzpotenzial.
 
-- 4\. Erweiterungen von Bootsplätzen sind auf ihre Auswirkungen auf die Umwelt zu prüfen.
+Die Fortschreibung des Energiekonzeptes von 2012 (Ziele bis 2020 festgelegt) sieht vor, dass bis im Jahre 2035 verglichen mit 2010 die CO2-Emissionen pro Einwohner aus Brennstoffen und Elektrizität um 40% vermindert, der Elektrizitätsverbrauch pro Kopf um 7.5% vermindert und die Menge an erneuerbaren Energie (ohne Wasserkraft) auf 6000 kWh/Einwohner vergrössert wird.
 
-L - 29
+B Richtungsweisende Festlegungen / Beschluss
 
-**Nr. L5-1/1**
+E2.1-B/1 Energieversorgung und Energienutzung
 
-### Abstimmungsanweisung
+- Der Kanton gewährleistet die wirtschaftliche Versorgung mit Energie, fördert die sparsame und rationelle Energieverwendung sowie die umweltverträgliche Ausschöpfung der erneuerbaren Energiepotenziale. Zu diesem Zweck:
 
-Der Kanton ermittelt bei Hochwasserschutzmassnahmen die Möglichkeit zur Renaturierung der Gewässer und formuliert die entsprechenden Massnahmen.
-
-**Termine / Verfahren**
-
-### Abstimmungsstand Zuständigkeit
-
-**Zum Zeitpunkt des jeweiligen Projektes**
-
-Festsetzung Departement Bau und Umwelt, Abteilung Umweltschutz und Energie
-
-### Verweis auf massgebliche Grundlagen
-
-- Bundesgesetz über den Schutz der Gewässer (Gewässerschutzgesetz, GSchG) vom 24. Januar 1991 (Stand am 22. Dezember 2003)
-
-- Gewässerschutzverordnung vom 28. Oktober 1998 (GSchV)
-
-- Einführungsgesetz zum Bundesgesetz über den Schutz der Gewässer, erlassen von der Landsgemeinde am 7. Mai 1995
-
-**Nr. L5-1/2**
-
-### Abstimmungsanweisung
-
-Der Kanton erarbeitet ein Konzept zur Gewässerrevitalisierung.
-
-**Termine / Verfahren**
-
-### Abstimmungsstand Zuständigkeit
-
-Festsetzung Departement Bau und Umwelt, Abt. Umwelt- 2015 schutz und Energie
-
-### Verweis auf massgebliche Grundlagen
-
-- Bundesgesetz über den Schutz der Gewässer (Gewässerschutzgesetz, GSchG) vom 24. Januar 1991
-
-- Gewässerschutzverordnung vom 28. Oktober 1998 (GSchV)
-
-- Einführungsgesetz zum Bundesgesetz über den Schutz der Gewässer, erlassen von der Landsgemeinde am 7. Mai 1995
-
-- Leitbild Fliessgewässer Schweiz, Bundesamt für Umwelt BAFU, 2003
-
-**Nr. L5-1/3**
-
-### Abstimmungsanweisung
-
-- 1\. Die Gemeinden überprüfen im Rahmen der nächsten Zonenplanrevision die Lage und Ausmasse der Gewässerräume und legen diese fest.
-
-- 2\. Der Kanton erarbeitet eine Richtlinie zur Ausscheidung des Gewässerraums.
-
-**Termine / Verfahren**
-
-### Abstimmungsstand Zuständigkeit
-
-**2018 / Nutzungsplanung**
-
-- 1\. Festsetzung Gemeinden
-
-**2014**
-
-- 2\. Festsetzung Regierungsrat
-
-### Verweis auf massgebliche Grundlagen
-
-- Bundesgesetz über den Schutz der Gewässer (Gewässerschutzgesetz, GSchG) vom 24. Januar 1991
-
-- Gewässerschutzverordnung vom 28. Oktober 1998
-
-- Leitbild Fliessgewässer Schweiz, Bundesamt für Umwelt BAFU, 2003
-
-- Merkblätter „Gewässerraum im Siedlungsgebiet“ (ARE, BAFU, 2013) und „Gewässerraum und Landwirtschaft“ (BAFU, BLW, ARE 2014)
-
-L - 30
-
-### L6 Wald
-
-### L6-1 Erhaltung der Schutz-, Wohlfahrts- und Nutzfunktion
-
-### Richtplanaufgabe
-
-Der Kanton fördert die Waldwirtschaft mit dem Ziel, dass der Wald als naturnahe Lebensgemeinschaft erhalten wird und dass er seine Funktionen, namentlich die Schutz-, Wohlfahrts- und Nutzfunktion nachhaltig erfüllen kann. Daneben soll er in seiner Fläche und räumlichen Verteilung erhalten werden.
-
-### Problemstellung / Ausgangslage
-
-Der Wald bildet einen wichtigen Bestandteil der Landschaft. Er ist der Lebensraum für Pflanzen und Tiere, bietet Siedlungen und Infrastrukturanlagen Schutz vor Naturgefahren, ermöglicht Erholung in natürlicher Umgebung, reguliert den Wasserhaushalt und ist Holzlieferant. Dadurch trägt er wesentlich zur Erhaltung der natürlichen Lebensgrundlagen bei.
-
-Gemäss Art. 18 des Kantonalen Waldgesetzes erarbeitet das Kantonsforstamt den Kantonalen Waldplan. Der kantonale Waldplan ist Grundlage für die künftige Bewirtschaftung der Wälder im Kanton. Diese Bewirtschaftung erfolgt aufgrund der periodisch alle 20 Jahre zu erstellenden Betriebsplanung und die alljährlichen Programme ("Jahresplanungen"). Somit wird der Waldplan künftig verbindliche Grundlage für die Betriebs- und Jahresplanungen sein. Der kantonale Waldplan ist im Jahr 2004 in Kraft getreten. Die Überprüfung und Anpassung des kantonalen Waldplans erfolgt jeweils vor der Überprüfung des kantonalen Richtplans.
-
-Im Weiteren werden die generellen Waldstrassennetze an den Waldplan angepasst werden müssen, da die Notwendigkeit einer Walderschliessung wesentlich von der Waldfunktion abhängt.
-
-Gemäss Art. 13 des Bundesgesetzes über den Wald sind entlang der Bauzonen im Sinne des Raumplanungsgesetzes gestützt auf rechtskräftige Waldfeststellungen die Waldgrenzen einzutragen. Nach
-
-#### Art. 7
-
-**des kantonalen Waldgesetzes ist die Waldfeststellung von Amtes wegen vorzunehmen, wenn**
-
-ein öffentliches Interesse besteht. Nach Art. 9 dieses Gesetzes muss bei der Revision von Nutzungsplänen ein Waldfeststellungsverfahren überall dort durchgeführt werden, wo Bauzonen an den Wald grenzen. Das Kantonsforstamt führte dieses Verfahren seit Mitte 1995 in den folgenden Gemeinden durch (Stand Ende 2002): Braunwald, Leuggelbach, Näfels (nur Berggebiet), Glarus, Ennenda, Mitlödi, Hätzingen, Schwändi, Rüti, Mollis, Riedern, Sool, Elm.
-
-In früheren Jahren war die Vermehrung des Waldareals eines der wichtigsten Postulate der Gebirgstäler. Mit der neuen Waldgesetzgebung, aber auch aufgrund der tatsächlichen Situation, hat sich hier eine ganz andere Situation ergeben. Eine weitere Vermehrung des Waldareals wird im Kanton Glarus nicht mehr angestrebt. Trotzdem nimmt die Waldfläche im Durchschnitt jährlich um ca. 40 ha zu. Diese Zunahme dürfte insbesondere daher kommen, dass die höher gelegenen land- und alpwirtschaftlich genutzten Flächen weniger intensiv genutzt werden als dies früher der Fall war. Dies führt längerfristig zu einer Verarmung der Berglandschaft, was zu bedauern ist, aber mit forstwirtschaftlichen Massnahmen kaum aufgehalten werden kann. Auf der anderen Seite darf dies auch nicht dazu verleiten, dass im Talbereich mit Rodungsbewilligungen grosszügiger umgegangen wird.
-
-L - 31
-
-### Richtungsweisende Festlegungen
-
-- 1\. Der Wald ist im Bereich der Talsohle flächenmässig derart zu erhalten, dass seine bisher ausgeübten Funktionen verbessert oder zumindest erhalten werden können.
-
-- 2\. Die Bewirtschaftung des Waldes erfolgt funktionengerecht und zielgerichtet.
-
-**Nr. L6-1/1**
-
-### Abstimmungsanweisung
-
-Bei unverzichtbaren Rodungen im Bereiche der Talsohle (z.B. für Verkehrswege und Infrastrukturanlagen) muss Rodungsersatz angelegt werden.
-
-Die forstlichen Betriebsplanungen orientieren sich künftig nach den Vorgaben des kantonalen Waldplanes.
-
-**Termine / Verfahren**
-
-### Abstimmungsstand Zuständigkeit
-
-Festsetzung Departement Bau und Umwelt, Abteilung Wald Laufend
-
-### Verweis auf massgebliche Grundlagen
-
-- Vorschriften für die forstliche Planung, Vom 18. Mai 1999, Art. 4 und Art. 5
-
-- Kantonaler Waldplan des Kanton Glarus (Genehmigung im Jahr 2004)
-
-L - 32
-
-### L7 Naturgefahren
-
-### Richtplanaufgabe
-
-Wo es der Schutz von Menschen und erheblichen Sachwerten erfordert, unterstützt der Kanton Massnahmen zur Sicherung jener Gebiete, die durch Naturgefahren bedroht sind.
-
-### L7-1 Gefahrengebiete
-
-### Problemstellung / Ausgangslage
-
-Im Gebirgskanton Glarus besteht seit jeher eine Bedrohung durch Gefahren, die sich vor allem aus der Bewegung von Wasser-, Schnee-, Eis-, Erd- und Felsmassen an der Erdoberfläche ergeben. Die massgebenden Prozesse sind Lawinen, Murgänge, Hochwasser, Überschwemmungen sowie Rutsch- und Sturzbewegungen von Erd- und Felsmassen. Als Gefährdungen wirken sie sich vor allem auf die Möglichkeiten der Bodennutzung aus.
-
-Im Richtplantext 1988 wurde die Erstellung von Gefahrenkatastern, -plänen und -zonenplänen auf Stufe Nutzungsplan durch die Gemeinden verlangt. Diesem Auftrag wurde aufgrund einer unklaren Gesetzgebung, fehlenden Grundlagen und Arbeitskapazitäten nur zu einem kleinen Teil nachgekommen.
-
-Mit dem Inkrafttreten der neuen Bundesgesetze über den Wald und den Wasserbau sowie dem Einführungsgesetz zum Bundesgesetz über den Wald (Kantonales Waldgesetz, WaG) haben sich die Voraussetzungen entscheidend geändert. Gemäss Art. 16 WaG führt das Kantonsforstamt einen Gefahrenkataster und eine Gefahrenkarte. Die Gemeinden sind verpflichtet, die Gefahrenkarten bei der Nutzungsplanung sowie bei allen raumwirksamen Tätigkeiten zu berücksichtigen.
-
-### Richtungsweisende Festlegungen
-
-Der Kanton überwacht das Erstellen der Gefahrenkarte der Gemeinden sowie die Umsetzung der Massnahmen.
-
-L - 33
-
-**Nr. L7-1/1**
-
-### Abstimmungsanweisung
-
-Verfahren / Zuständigkeit:
-
-Gemeinden, welche noch nicht über eine entsprechende Grundlage verfügen, erarbeiten die Gefahrenkarten für die Bauzonen zuhanden des Kantonsforstamtes. Das Vorgehen und der Umfang der Gefahrenkarten richten sich dabei nach den Vorgaben aus dem Pilotprojekt Ennenda und den Richtlinien des Regierungsrates zum Schutz vor Naturgefahren.
-
-Auf der Basis der von den Gemeinden erarbeiteten Gefahrenabklärungen führt das Kantonsforstamt eine kantonale Übersicht. Diese enthält:
-
-(cid:1) Stand der aktuellen Gefahrenabklärungen und der erarbeiteten Produkte (cid:1) Übersicht über die vorhandenen Risiken (cid:1) Geplante und vorhandene Schutzmassnahmen (Schutzbautenkataster) Das Kantonsforstamt führt einen Ereigniskataster. Dieser beschreibt einerseits in einer rückblickenden Erhebung die historischen Ereignisse von Naturgefahren und stellt andererseits die laufende Erhebung aktueller Ereignisse nach einem einheitlichen Vorgehen sicher.
-
-Die integrale Planung gemäss Art. 15 WaG umfasst die jeweils notwendige Gefahrenabklärung.
-
-### Bei Nutzungsplanverfahren, Bauvorhaben und Umnutzungen besteht die integrale Planung aus:
-
-(cid:1) Ereigniskataster (cid:1) Karte der Phänomene („Spuren“ von Naturereignissen) (cid:1) Gefahrenkarte (Intensität, Wahrscheinlichkeit) (cid:1) Risiko- und Schutzdefizite (cid:1) Ausscheiden von Gefahrenzonen
-
-### Für den Fall Massnahmenplanung besteht die integrale Planung aus:
-
-(cid:1) Gefahren- und Schutzdefizitkarte (sachliche Rechtfertigung) (cid:1) Risikoanalyse (Verhältnismässigkeit) (cid:1) Festlegung von Massnahmen Mit einer Einteilung in Objektkategorien wird festgelegt, in welchen Fällen welche Abklärungstiefe genügt: Objektkategorie 1: Keine Gefahrenabklärung, ausser solche Gebiete liegen in zu untersuchenden Gefahrengebieten 2: Ereigniskataster und Karte der Phänomene 3: Ereigniskataster, Karte der Phänomene, Gefahrenkarte und Schutzdefizitkarte Den einzelnen Objektarten werden kantonale Schutzziele zugeordnet. Diese dienen der Sicherstellung einer Gleichbehandlung im ganzen Anwendungsgebiet. Anhand der festgelegten Schutzziele kann gestützt auf Gefahrenkarten beurteilt werden, ob das festgelegte Schutzziel eingehalten, gerade erreicht oder nicht erreicht ist. Bei Nichterreichung des Schutzzieles (Schutzdefizit) muss in der Regel von einem Handlungsbedarf ausgegangen werden.
-
-**Termine / Verfahren**
-
-### Abstimmungsstand Zuständigkeit
-
-Festsetzung Departement Bau und Umwelt, Abteilung Wald Laufend Gemeinden fahrens und des Baubewilligungsverfahrens
-
-**Im Rahmen des Nutzungsplanver-**
-
-L - 34
-
-**Nr. L7-1/2**
-
-### Abstimmungsanweisung
-
-Umsetzung in die Raumplanung:
-
-Die Gefahrenkarten sollen direkt in der raumwirksamen Tätigkeit, insbesondere in der Nutzungsplanung, umgesetzt werden. Dabei werden je nach Gefahrenart Auflagen sowohl für Verbotszonen wie auch für Gebotszonen formuliert. Als mögliche Hilfsmittel sind zu verwenden:
-
-- Darstellung ausgewiesener Gefährdungen durch eine Überlagerung im Nutzungsplan.
-
-- Definition von Gefahrenzonen, die gestützt auf die Gefahrenbeurteilung von den generellen Baulinien gemäss bestehendem Gesetz abweichen können.
-
-- Allgemeine Bestimmungen im Baureglement, die insbesondere den Umgang mit Auflagen regeln.
-
-**Termine / Verfahren**
-
-### Abstimmungsstand Zuständigkeit
-
-**Raumwirksame Tätigkeiten**
-
-Zwischenergebnis Alle Gemeinden Departement Bau und Umwelt, Abteilung Wald Nutzungsplanung Departement Bau und Umwelt, Hauptabteilung Tiefbau (bauliche Massnahmen) Departement Bau und Umwelt, Fachstelle Raumentwicklung (planerische Massnahmen)
-
-L - 35
-
-### L7-2 Hochwasserschutz
-
-### Richtplanaufgabe
-
-Siedlung und Landschaft müssen vor Hochwassergefahr geschützt sein. Dem Raumbedarf der Fliessgewässer ist Rechnung zu tragen. Der Kanton ist dafür besorgt, dass die Gefahrengebiete und der Raumbedarf der Gewässer erfasst ist und sorgt für eine periodische Überprüfung der Gefahrensituation.
-
-### Problemstellung / Ausgangslage
-
-Eine der grössten Schadensgefahren im Kanton Glarus betrifft die Linth. Der Flusslauf der Linth besteht aus den Abschnitten Linth (Linthal bis Näfels), Escherkanal (Näfels bis Walensee) und Linthkanal (Walensee bis Zürichsee).
-
-Da die Linth eine Gefahrenquelle von kantonaler Bedeutung darstellt, wäre die Erstellung einer Gefahrenkarte jeweils durch jede einzelne Gemeinde auf Stufe kommunalem Nutzungsplan nicht effizient. Deshalb wurde folgendes Vorgehen beschlossen:
-
-Abschnitt Linth (Linthal bis Näfels): Der Kanton erstellt eine Gefahren- und Massnahmenkarte. Den Gemeinden kann mit diesem Vorgehen eine Gefahrenkarte für die Hochwassergefährdung der gesamten Gefahrenquelle Linth zur Verfügung gestellt werden.
-
-Ein entsprechender Auftrag wurde ausgeführt. Die Ergebnisse zu den Gefahren Hochwasser der Linth liegen nun mit der Gefahrenbeurteilung Linth und dem Massnahmenkonzept mit Freihaltegebieten vor. Im Richtplan berücksichtigt werden die raumplanerischen Massnahmen für die Ausscheidung von Freihaltegebieten und Auszonungen im Siedlungsgebiet.
-
-Escherkanal und Linthkanal: Für den Escher- und den Linthkanal ist die Linthverwaltung zuständig. Diese erarbeitete 2001 das Hochwasserschutzkonzept Linth 2000 zur Gefahren- und Risikoanalyse und zur Massnahmenplanung. Dabei werden die gleichen Produkte wie beim Projekt „Gefahrenkarte Linth“ erstellt.
-
-Eine in einem „Organigramm Projektkoordination“ definierte Koordinationsstelle sorgt für die Übereinstimmung der beiden Projekte. Die gemeinsamen Ziele sind:
-
-- Ausscheidung von möglichen Freihaltegebieten als Überflutungsräume
-
-- Sicherung des Raumes für allfällige Massnahmen
-
-- Liefern von Grundlagen für die eigentümerverbindliche Umsetzung auf Stufe Nutzungsplan
-
-### Richtungsweisende Festlegungen
-
-- 1\. Der Kanton ist für die Koordination des Hochwasserschutzes zwischen dem Abschnitt Linth und dem nachfolgenden Escherkanal besorgt.
-
-- 2\. Der Kanton regelt in der Massnahmenkarte Linth den Hochwasserschutz.
-
-L - 36
-
-**Nr. L7-2/1**
-
-### Abstimmungsanweisung
-
-Der Kanton ist besorgt für den Hochwasserschutz im Abschnitt der Linth. Er kontrolliert und überwacht die Umsetzung der Massnahmen für den Hochwasserschutz. Die Massnahmenkarte Linth ist massgebliche Grundlage für die Umsetzung der Massnahmen.
-
-Zum Schutz des Siedlungsgebietes ist das Massnahmenkonzept der Gefahrenbeurteilung Linth in den Nutzungsplanungen der Gemeinden umzusetzen.
-
-- im Falle von Umzonungen sind die im RP gekennzeichneten Gebiete auszuzonen.
-
-- Im Falle von Zonenplanrevisionen sind Freihaltegebiete auszuscheiden und Auszonungen vorzunehmen.
-
-**Termine / Verfahren**
-
-### Abstimmungsstand Zuständigkeit
-
-Zwischenergebnis Alle betroffenen Gemeinden ausser Engi, Matt, Raumwirksame Tätigkeiten Elm, Obstalden, Mühlehorn, Braunwald Departement Bau und Umwelt, Abteilung Wald Departement Bau und Umwelt, Hauptabteilung Tiefbau (bauliche Massnahmen) Departement Bau und Umwelt, Fachstelle Raumentwicklung
-
-**Nutzungsplanung**
-
-### Verweis auf massgebliche Grundlagen
-
-- Art. 21 Verordnung über den Wasserbau (WBV), Stand 8. Februar 2000
-
-- Gefahrenbeurteilung Linth, Massnahmenkonzept mit Freihaltegebieten, März 2001
-
-- Gefahrenbeurteilung Linth, Gefahrenkarte Übersicht, Jan. 2001
-
-L - 37
-
-### E) Versorgung und Entsorgung, weitere Raumnutzungen
-
-### E1 Siedlungswasserwirtschaft
-
-### E1-1 Wasserversorgung / Grundwasserschutz
-
-### Richtplanaufgabe
-
-Die Wohnbevölkerung, Dienstleistungsbetriebe sowie Industrie und Gewerbe müssen langfristig ausreichend mit qualitativ einwandfreiem Trink- und Brauchwasser versorgt werden. Die Grund-, Quell- und Seewasservorkommen sind zu schützen und die natürliche Grundwasseranreicherung ist sicherzustellen.
-
-Die Trinkwasserqualität im Kanton Glarus kann als gut bezeichnet werden. Vereinzelt treten mikrobiologische Belastungen auf in Folge von Extremwitterungsverhältnissen oder im Zusammenhang mit landwirtschaftlicher Nutzung. In diesen Fällen wird das Trinkwasser mit Ultraviolettstrahlung aufbereitet. Der Nitratgehalt ist generell sehr tief. Teilweise besteht eine Belastung des Trinkwassers durch Altlasten.
-
-### Wasserversorgung
-
-### Problemstellung / Ausgangslage
-
-Gemäss Verordnung von 1991 über die Sicherstellung der Wasserversorgung in Notzeiten haben die
-
-### Kantone
-
-- ein vertrauliches Inventar der Wasserversorgungsanlagen, genannt Wasserversorgungsatlas zu erstellen.
-
-- die Gemeinden zu bezeichnen, welche in Notlagen zusammenarbeiten müssen.
-
-Der Wasserversorgungsatlas, in dem unter anderem die Trinkwasserversorgung in Notlagen für den Kanton Glarus geregelt ist, wurde vom Amt für Umweltschutz erstellt und vom Regierungsrat im Jahr 2002 genehmigt.
-
-### Grundwasserschutz
-
-### Problemstellung / Ausgangslage
-
-Da zu erwarten ist, dass der Trinkwasserverbrauch in nächster Zukunft nicht mehr weiter ansteigen wird und da in letzter Zeit verschiedene leistungsfähige Grundwasserpumpwerke erbaut wurden, die auch eine überkommunale Trinkwasserversorgung sicherstellen können, wurde 1998 mit den Gemeinden eine Überprüfung der neun 1981 vom Regierungsrat bezeichneten Grundwasserschutzareale vorgenommen.
-
-### Areale: Die Grundwasserschutzareale und die Gewässerschutzbereiche wurden am 25. November
-
-2003 vom Regierungsrat wieder definitiv festgelegt und in einer Neuauflage der Gewässerschutzkarte verankert. Ein Areal wurde provisorisch bis Ende 2005 bezeichnet.
-
-E - 1
-
-### Schutzzonen:
-
-### Kommunale Fassungen: Für die rund 80 kommunalen Fassungsbereiche müssen 3 Schutzzonen
-
-noch ausgeschieden werden, 8 Reglemente werden zurzeit überarbeitet und 12 Reglemente befinden sich im Genehmigungsverfahren. Bis Ende 2005 sollten diese Arbeiten abgeschlossen sein.
-
-Übrige Fassungen von öffentlicher Bedeutung: Es gibt rund 30 Fassungen von öffentlicher Bedeutung, die nicht den Gemeinden gehören. Für alle diese Fassungen wurden provisorische Schutzzonen ausgeschieden. Bis überall definitive Schutzzonen und Reglemente vorliegen, dürfe es bis etwa Ende 2008 dauern.
-
-Zuströmbereiche: Zuströmbereiche müssen in keinem Fall ausgeschieden werden, weil die Voraussetzungen dazu nicht gegeben sind.
-
-Sanierungen: Sanierungen in Schutzzonen bzw. Konfliktbereinigungen werden im Laufe der nächsten 3-5 Jahren durchgeführt. Es handelt sich vor allem um Altlasten-Voruntersuchungen mit allfälligen Massnahmen bzw. Überwachungen.
-
-### Richtungsweisende Festlegungen
-
-- 1\. Private Quellen und Grundwasserfassungen, welche im öffentlichen Interesse liegen, müssen vor Beeinträchtigungen geschützt werden. Dies soll durch die Ausscheidung von Schutzzonen erreicht werden und durch die Festlegung der notwendigen Eigentumsbeschränkungen.
-
-- 2\. Der Kanton beseitigt in Zusammenarbeit mit den Gemeinden die Belastungen durch Altlasten. Konkrete Massnahmen sind Sanierungen und Überwachungen.
-
-- 3\. Im Bereich der Trinkwasserversorgungen ist eine bessere Zusammenarbeit unter den Gemeinden anzustreben. Zu diesem Zweck sollen regionale generelle Wasserversorgungsplanungen erarbeitet werden.
-
-**Nr. E1-1/1**
-
-### Abstimmungsanweisung
-
-Die Gemeinden haben die GW Fassungen und Quellfassungen festzuhalten und in regionalen Wasserversorgungsplänen zu koordinieren.
-
-- Die im Richtplan erfassten und fortgeschriebenen Grundwasserschutzareale sind in den Nutzungsplanrevisionen der Gemeinden zu erfassen und als Schutzzonen auszuweisen.
-
-- Zum Schutz der Trinkwasserversorgung sind durch die Gemeinden GW Schutzzonen in den Nutzungsplanrevisionen und in den regionalen Wasserversorgungsplänen auszuweisen.
-
-- Die Gemeinden müssen die Objekte der regionalen Wasserversorgungspläne in den Nutzungsplänen festsetzen.
-
-**Termine / Verfahren**
-
-### Abstimmungsstand Zuständigkeit
-
-Zwischenergebnis Departement Bau und Umwelt, Abteilung Um- Raumwirksame Tätigkeiten weltschutz und Energie Alle Gemeinden
-
-**Nutzungsplanungen, regionaler Wasserversorgungsplan**
-
-### Verweis auf massgebliche Grundlagen
-
-- Gewässerschutzgesetz (GSchG) vom 24. Januar 1991
-
-- Gewässerschutzverordnung (GSchV), vom 28. Oktober 1998
-
-- Gewässerschutzkarte des Kanton Glarus, Amt für Umweltschutz, 2003
-
-- Wasserversorgungsatlas des Kanton Glarus, Amt für Umweltschutz, 2002
-
-E - 2
-
-### E1-2 Abwasserreinigung
-
-### Problemstellung / Ausgangslage
-
-Das Siedlungsgebiet des Kantons ist weitgehend an eine Abwasserreinigungsanlage angeschlossen. In verschiedenen Gemeinden müssen in nächster Zeit erhebliche Investitionen für die Erneuerung der Abwasserleitungen getätigt werden.
-
-In den Oberflächengewässern wird generell eine gute Wasserqualität festgestellt. Lediglich in einigen Fliessgewässern im Glarner Unterland mit Regenwasserentlastungen bzw. Drainagewirkung ist die Wasserqualität zeitweise ungenügend. Der Abwasserverband Glarnerland arbeitet zurzeit an einer Optimierung der Bewirtschaftung der Regenbecken.
-
-### Zudem müssen die Ausschwemmungen von Landwirtschaftsland vermindert werden. Im Rahmen der
-
-Ökologisierung der Landwirtschaft ist dazu das Bundesrecht geeignet.
-
-### Richtungsweisende Festlegungen
-
-Die Gemeinden und die Abwasserverbände müssen im Sinne der Werterhaltung ihre Abwasseranlagen unterhalten und rechtzeitig erneuern, so dass langfristig eine kostengünstige Abwasserreinigung gewährleistet wird.
-
-E - 3
-
-### E2 Energieversorgung
-
-### Richtplanaufgabe
-
-Der Kanton gewährleistet die wirtschaftliche und umweltverträgliche Versorgung mit Energie und fördert die sparsame und rationelle Energieverwendung sowie die Nutzung von erneuerbaren und einheimischen Energien. Für Information und Beratung in Energiefragen ist die Energiefachstelle des Kantons zuständig.
-
-### E2-1 Energieplanung
-
-### Problemstellung / Ausgangslage
-
-Die heutige Wärmeversorgung erfolgt im Kanton Glarus zu einem grossen Teil mit fossilen Energieträgern. Der Kanton ist bestrebt, zur Reduktion der Umweltbelastung den Anteil an standortgebundener und erneuerbarer Energie sowie an Erdgas zu erhöhen. Im kantonalen Richtplan Energie erfolgt die räumliche Koordination insbesondere für leitungsgebundene oder standortgebundene Energien. Zudem behandelt er Anlagentechnologien, für welche aufgrund von ökonomischen Kriterien eine minimale Anlagengrösse sinnvoll ist (z.B. Fernwärme) oder die bestimmte physikalische Voraussetzungen benötigen (z.B. Geothermie). Aufgrund seiner naturräumlichen Begebenheiten und dem noch nutzbaren Potential steht im Kanton Glarus insbesondere die stärkere Nutzung von Holz und Wasserkraft im Vordergrund, was eine Planung der zukünftigen Nutzung erfordert.
-
-Mit einem Anteil von 12% an der beheizten Wohnfläche sind elektrisch beheizte Gebäude im Kanton Glarus leicht stärker vertreten als in schweizerischen Durchschnitt (11%). Der Anteil an alten, nicht sanierten Gebäuden (Baujahr vor 1918) ist im Kanton Glarus fast doppelt so hoch wie im Schweizer Durchschnitt. Aus diesem Grund bestehen im Gebäudebereich ein grosser Nachholbedarf und ein grosses Effizienzpotential
-
-Die Vision der 2000-Watt-Gesellschaft sieht eine kontinuierliche Absenkung des Energiebedarfs auf 2000 Watt vor. Um das ambitiöse Ziel zu erreichen, ist die Ausschöpfung der Effizienzpotenziale sowie der Einsatz von nicht fossilen Energien und von Abwärme unerlässlich. Zusätzlich ist unser täglicher Umgang mit Energie kritisch zu hinterfragen.
-
-Mit dem Energierichtplan will der Kanton Glarus den Weg zur 2000-Watt-Gesellschaft beschreiten. Er dient als Leitlinie für die Festlegung der Ziele und Massnahmen im Bereich Energie bis zum Jahr 2020.
-
-### Richtungsweisende Festlegungen
-
-- 1\. Der Kanton Glarus schafft die raumplanerischen Voraussetzungen, damit das Potenzial für den nachhaltigen Einsatz erneuerbarer Energien und die Nutzung von Abwärme vermehrt ausgeschöpft werden kann. Dabei sind die Energiepolitik und die Raumordnungspolitik aufeinander abzustimmen.
-
-- 2\. Der Kanton Glarus kommuniziert aktiv seine Energie- und Verkehrspolitik gegenüber den Einwohnerinnen und Einwohnern und unterstützt sie bei der Umsetzung energiepolitischer Ziele.
-
-E - 4
-
-**Nr. E2-1/1**
-
-### Abstimmungsanweisung
-
-Der Kanton überprüft seine Energieplanung regelmässig auf ihre Zielsetzung und Wirksamkeit und passt sie bei Bedarf vorausschauend (Vorsorgeprinzip) an. Die Anpassungen erfolgen in Zusammenarbeit mit den Gemeinden zur räumlichen Koordination der Energieversorgung.
-
-Der Kanton Glarus legt die notwendigen Massnahmen zur Erreichung der Zielsetzungen fest und setzt sich für eine zielorientierte und termingerechte Umsetzung des energiepolitischen Massnahmenprogramms ein.
-
-**Termine / Verfahren**
-
-### Abstimmungsstand Zuständigkeit
-
-Festsetzung Departement Bau und Umwelt, Energiefach- Laufende Aufgabe;
-
-**Berichterstattung über Stand alle vier Jahre**
-
-stelle Alle Gemeinden
-
-### Verweis auf massgebliche Grundlagen
-
-- Bundesamt für Energiewirtschaft (1996): Energieplan Leitfaden (im Rahmen von Energie 2000)
-
-- Kantonsplanerkonferenz (1994): Energie und Ortsplanung, Arbeitshilfe
-
-- Energiegesetz des Kantons Glarus, Mai 2009
-
-- Grundlagenbericht zur Energierichtplanung des Kantons Glarus, August 2009
-
-**Nr. E2-1/2**
-
-### Abstimmungsanweisung
-
-Die Gemeinden erarbeiten eigene Energieplanungen, welche den Inhalt der kantonalen Energieplanung berücksichtigen und vom Regierungsrat genehmigt werden müssen. Darin sind insbesondere auch folgende Punkte zu berücksichtigen:
-
-- Ziele der kantonalen Energiepolitik
-
-- Prioritäten der Energieversorgung
-
-- Koordination der Nutzungsplanung insbesondere von im kantonalen Energierichtplan bezeichneten Abwärmequellen und der Gasversorgung durch Vornehmen von Gebietsausscheidungen.
-
-**Termine / Verfahren**
-
-### Abstimmungsstand Zuständigkeit
-
-**10 Jahre nach Inkrafttreten des**
-
-Festsetzung Alle Gemeinden Departement Bau und Umwelt, Energiefachstel- kantonalen Energiegesetzes le Genehmigung durch Regierungsrat
-
-**Erarbeitung durch Gemeinden,**
-
-### Verweis auf massgebliche Grundlagen
-
-- Energiegesetz des Bundes (EnG, SR 730.0) vom 26. Juni 1998
-
-- Energiegesetz des Kantons Glarus, Mai 2009
-
-**Nr. E2-1/3**
-
-### Abstimmungsanweisung
-
-Der Kanton Glarus nimmt für die öffentlichen Bauten und Anlagen und für seine Liegenschaften eine Vorbildfunktion wahr. Neue kantonale Bauten sind nach dem Minergie-Standard auszuführen. Bei Umbauten ist der Minergie-Standard anzustreben, sofern dies technisch und betrieblich möglich und der Aufwand verhältnismässig ist. Gemeindebauten sind möglichst nach denselben Kriterien auszuführen.
-
-**Termine / Verfahren**
-
-### Abstimmungsstand Zuständigkeit
-
-**tonalen Richtplans**
-
-E - 5 Zwischenergebnis Departement Bau und Umwelt, Energiefach- Berichterstattung über Stand alle stelle Bauvorhaben der öffentlichen Hand
-
-**vier Jahre**
-
-**Nr. E2-1/4**
-
-### Abstimmungsanweisung
-
-Die Möglichkeiten vorhandener Instrumente zur Förderung einer effizienten Energienutzung und der Nutzung erneuerbarer Energien sind auszuschöpfen. Dazu koordiniert der Kanton Glarus die verfügbaren Fördermittel so, dass eine optimale Wirkung erreicht wird.
-
-Insbesondere sind Massnahmen zur Steigerung der Energieeffizienz durch umfassende Gebäudesanierungen und den effizienten Elektrizitätseinsatz zu fördern.
-
-**Termine / Verfahren**
-
-### Abstimmungsstand Zuständigkeit
-
-Zwischenergebnis Departement Bau und Umwelt, Energiefach- Laufende Aufgabe; Kantonale stelle
-
-**Förderprogramme**
-
-**Nr. E2-1/5**
-
-### Abstimmungsanweisung
-
-Der Kanton Glarus nutzt vorhandene Energiepotentiale. Zu diesem Zweck:
-
-- unterstützt er die Nutzung von Holzenergie und bestimmt das im Kanton noch verfügbare Potential für eine nachhaltige Nutzung
+- unterstützt er die Nutzung von Holzenergie und bestimmt das im Kanton noch verfügbare Potenzial für eine nachhaltige Nutzung,
 
 - fördert er die Nutzung von Solarenergie und von Energie aus Biomasse,
 
-- fördert er die Abwärmenutzung aus Industriebetrieben und insbesondere aus der Kehrichtverbrennungsanlage
+- fördert er die Abwärmenutzung aus Industriebetrieben und aus der Kehrichtverbrennungsanlage,
 
-- erstellt er eine Potentialstudie mit dem Ziel den Wärmenutzungsgrad der Kehrichtverbrennungsanlage schrittweise zu erhöhen
+- prüft er grundeigentümerverbindliche Vorschriften zur Umsetzung der energieplanerischen Ziele,
 
-- prüft er grundeigentümerverbindliche Vorschriften zur Umsetzung der energieplanerischen Ziele.
+- unterstützt er Gebäudesanierungen im Hinblick auf eine bessere Energie-Effizienz.
 
-Der Kanton koordiniert die Massnahmen mit den betroffenen Gemeinden.
+E2.1-B/2 Energieeffizienz und erneuerbare Energie
 
-**Termine / Verfahren**
+- Massnahmen zur Steigerung der Energieeffizienz durch umfassende Gebäude-sanierungen und den effizienten Elektrizitätseinsatz werden gefördert. Die Möglichkeiten vorhandener Instrumente zur Förderung einer effizienten Energienutzung und der Nutzung erneuerbarer Energien sind auszuschöpfen. Der Kanton nimmt bezüglich des Energieverbrauchs von Bauten und Anlagen eine Vorbildfunktion ein.
 
-### Abstimmungsstand Zuständigkeit
+E2.1-B/3 Gebäudeenergie
 
-Zwischenergebnis Departement Bau und Umwelt, Energiefach- Sofort nach Inkrafttreten des kanstelle Auflagen im Baubewilligungsverfahren Kantonale Förderprogramme
+- Der Kanton führt neue Bauten nach dem Minergie-Standard P oder A oder einem vergleichbaren Standard aus. Bei Umbauten von kantonalen Liegenschaften wird der Minergie-Standard P oder A oder ein vergleichbarer Standard angestrebt, sofern dies technisch und betrieblich möglich und der Aufwand verhältnismässig ist. Gemeindebauten sind nach denselben Kriterien auszuführen.
 
-E - 6
+E2.1-B/4 Erneuerbare Energie und Abwärme
 
-### E2-2 Versorgung mit elektrischem Strom
+- Der Kanton schafft die raumplanerischen Voraussetzungen für einen raum- und umweltverträglichen Einsatz erneuerbarer Energien und der Abwärme. Er stimmt die Energiepolitik und die Raumordnungspolitik aufeinander ab.
 
-### Problemstellung / Ausgangslage
+C Handlungsanweisungen
 
-Die Elektrizitätsversorgung im Kanton Glarus ist gut ausgebaut. Mit den drei grossen Wasserkraftwerkanlagen in Linthal, Schwanden und Netstal sowie mit mehreren mittleren und kleineren Anlagen an der Linth und an Fassungen von Zuflüssen zur Linth verfügt er nicht nur über sichere Produktionsanlagen, sondern auch über ein stabiles Verteilnetz innerhalb der Betreibergesellschaften. Zudem produziert die Kehrichtverbrennungsanlage Niederurnen als viertgrösste Produktionsanlage im Kanton elektrischen Strom. Die grossen Anlagen sind auf einem hohen technischen Stand. Mit der Erneuerung der technischen Einrichtungen werden Produktionssteigerungen von jeweils rund 10% erreicht. Die Verteilnetze im Niederspannungsbereich sind weitgehend gut ausgebaut und unterhalten. Sie verfügen grösstenteils über ausreichende Reservekapazitäten. Es drängen sich in diesem Bereich keine kantonalen Massnahmen auf.
+E2.1-C/1
 
-Der Verbrauch von elektrischer Energie im Kanton Glarus exkl. Eigenversorger beträgt gemäss der
+Der Kanton überprüft seine Energieplanung regelmässig auf ihre Zielsetzung und Wirksamkeit und passt sie bedarfsweise und in Zusammenarbeit mit den Gemeinden an. Er legt die Massnahmen zur Erreichung der Zielsetzungen fest und setzt sich für eine zielorientierte und termingerechte Umsetzung des energiepolitischen Massnahmenprogramms ein.
 
-### Erhebung für das hydrologische Jahr 2007/2008 333 GWh, das Jahr 2008/2009 325 GWh und das
+Federführung: Dep. Bau und Umwelt, Energiefachstelle
 
-Jahr 2010 342 GWh.
+E2.1-C/2
 
-Die elektrischen Übertragungsleitungen im Hochspannungsbereich (380 kV und 220 kV) sowie die Übertragungsleitungen der Bahnen sind im Sachplan Übertragungsleitungen (SÜL) geregelt. In der Richtplankarte werden bestehende oder geplante Kraftwerke &gt;10 MW, sowie Hochspannungsleitungen (50 bis 220 kV) und Höchstspannungsleitungen (220 kV und mehr) bezeichnet.
+Die Möglichkeiten vorhandener Instrumente zur Förderung einer effizienten Energienutzung und der Nutzung erneuerbarer Energien sind auszuschöpfen. Insbesondere sind Massnahmen zur Steigerung der Energieeffizienz durch umfassende Gebäudesanierungen und den effizienten Elektrizitätseinsatz zu fördern. Dazu koordiniert der Kanton Glarus die verfügbaren Fördermittel so, dass eine optimale Wirkung erreicht wird.
 
-Mit der Gemeindestrukturreform „GL 2011" wurden die 18 Elektrizitätswerke zu drei Betrieben (Glarus Nord, Glarus und Glarus Süd) zusammengefasst.
+Federführung: Dep. Bau und Umwelt, Energiefachstelle
 
-### Richtungsweisende Festlegungen
+E2.1-C/3
 
-- 1\. Eine sichere Versorgung mit Elektrizität ist zu gewährleisten.
+In Abstimmung mit der kantonalen Energieplanung erarbeiten die Gemeinden eigene Energieplanungen. Zu berücksichtigen sind dabei die Ziele der kantonalen Energiepolitik, die Prioritäten der Energieversorgung sowie die Koordination der Nutzungsplanung mit der kantonalen Energieplanung.
 
-- 2\. Beim Bau oder Ausbau von entsprechenden Anlagen sind die verschiedenen Nutz- und Schutzinteressen aufeinander abzustimmen.
+Federführung: Gemeinde
 
-- 3\. Die Auswirkungen von Übertragungsleitungen und Verteilleitungen auf Bevölkerung, Siedlung und Landschaft sind möglichst gering zu halten.
+D Objekte
 
-**Nr. E2-2/1**
+Keine
 
-### Abstimmungsanweisung
+E Erläuterungen / Grundlagen
 
-Neubau 380 kV-Netzanschluss zwischen dem Kraftwerk Linth-Limmern (Kraftwerksprojekt "Linthal 2015) und der
+Siehe Erläuterungsbericht
 
-E - 7
+### E2.2 Versorgung mit elektrischem Strom
 
-### E2-3 Ausbau der Erdgasversorgung
+A Ausgangslage
 
-### Problemstellung / Ausgangslage
+Die Elektrizitätsversorgung im Kanton Glarus ist gut ausgebaut. Mit den drei grossen Wasserkraftwerkanlagen in Linthal, Schwanden und Netstal, dem Pumpspeicherwerk Limmern sowie mit mehreren mittleren und kleineren Anlagen an der Linth und ihren Zuflüssen verfügt der Kanton über eine grössere Anzahl an Produktionsanlagen. Der Kanton verfügt weiter über ein zuverlässiges und stabiles Verteilnetz, welches von drei Netzbetreibern (Technische Betriebe) betrieben wird. Zudem produziert die Kehrichtverbrennungsanlage Niederurnen elektrischen Strom.
 
-Die Erdgasversorgung ist im Glarner Mittel- und Unterland recht gut ausgebaut. In den angeschlossenen Gemeinden trägt der Einsatz von Erdgas zu einer Verringerung der Stickoxid- und CO2- Emissionen gegenüber Erdöl und Kohle bei. Angeschlossen sind folgende Ortschaften (oder Teile davon): Bilten, Niederurnen, Oberurnen, Näfels, Mollis, Netstal, Glarus, Riedern, Ennenda, Mitlödi. In der Richtplankarte werden die wichtigen Erdgastransportleitungen bezeichnet.
+Die Produktionsanlagen sind generell auf einem hohen technischen Stand. Die Netze auf den Netzebenen 5 und 7 sind weitgehend gut ausgebaut, ausreichend verknüpft und gut unterhalten. In den Jahren 2014 bis 2016 wurden zwischen Schwanden und Linthal und im Raum Luchsingen/Hätzingen dringend nötige Netzverbindungen geschaffen. Es sind in diesem Bereich keine kantonalen Massnahmen vorgesehen.
 
-### Richtungsweisende Festlegungen
+Die elektrischen Übertragungsleitungen im Höchstspannungsbereich (Netzebene 1) sowie die Übertragungsleitungen der Bahnen sind im Sachplan Übertragungsleitungen (SÜL) geregelt. In der Richtplankarte werden bestehende oder geplante Kraftwerke &gt;10 MW, sowie Hochspannungsleitungen (Netzebene 3) und Höchstspannungsleitungen (Netzebene 1) bezeichnet.
 
-- 1\. Der Kanton Glarus legt die Grundsätze fest nach denen die gasversorgten Gebiete verdichtet oder die Erdgasversorgung weiter ausgebaut werden soll.
+Der Verbrauch an Elektrizität beläuft sich auf etwa 352 GWh (2017). Die Netto-Produktion (ohne Einfluss von Pumpturbinen) beträgt in einem Durchschnittsjahr etwa 940 GWh, wovon mehr als 90% auf Wasserkraft entfällt.
 
-- 2\. Der Anteil von Erdgas an der Wärmeversorgung soll in erster Linie in bereits gasversorgten Gebieten durch eine Erhöhung der Anschlussdichte weiter vergrössert werden.
+B Richtungsweisende Festlegungen / Beschluss
 
-- 3\. Der Anschluss weiterer Gemeinden oder Gebiete an die Erdgasversorgung muss mit standortgebundenen und erneuerbaren Energien koordiniert werden.
+E2.2-B/1 Elektrizitätsversorgung
 
-**Nr. E2-3/1**
+- Eine sichere Versorgung mit Elektrizität wird gewährleistet.
 
-### Abstimmungsanweisung
+E2.2-B/2 Immissionen Elektrizität
 
-Die Verdichtung in bereits gasversorgten Gebieten und die Erweiterung bzw. der Ausbau der Erdgasversorgung soll nach den folgenden Grundsätzen geschehen:
+- Die Auswirkungen von Übertragungs- und Verteilleitungen auf Bevölkerung, Siedlung, Landschaft und Umwelt sind möglichst gering zu halten. Bestehende Mittel- und Niederspannungsleitungen sind bei sich bietender Gelegenheit als Kabelleitungen auszuführen, sofern dies technisch und betrieblich machbar ist und keine unverhältnismässigen Kosten entstehen.
 
-- In den bereits mit Erdgas versorgten Orten Bilten, Niederurnen, Oberurnen, Näfels, Mollis, Netstal, Glarus, Riedern, Ennenda, Mitlödi kann in der kommunalen Energieplanung eine Verdichtung der Gasversorgung durch den Anschluss von Siedlungsgebieten mit hoher baulicher Dichte oder industriellen Nutzungen angestrebt werden. Als potentielle Einsatzgebiete für Erdgas sind insbesondere Feuerungen für Prozesswärme in der Industrie einzubeziehen.
+C Handlungsanweisungen
 
-- In der kommunalen Energieplanung sind durch die Gemeinden die nötigen planerischen Festlegungen für die Gebiete zu treffen, in denen die Versorgung mit Gas die zukünftige Nutzung des Abwärmepotentials der im Energierichtplan bezeichneten Abwärmequellen (Kehrichtverbrennungsanlage Niederurnen, Abwasserreinigungsanlage Bilten sowie anderer wichtige Abwärmequellen) konkurrenziert. Dabei sind die Prioritäten der Energieversorgung in gasversorgten Gebieten (vgl. E2-4/2) zu berücksichtigen. Bei den Gebietsausscheidungen ist die bestehende Infrastruktur der Gasversorgung angemessen zu berücksichtigen. Diese Festlegung betrifft insbesondere die Orte Bilten, Niederurnen, Oberurnen, Näfels, Mollis, Netstal und Mitlödi.
+Keine
 
-- Vor dem Anschluss weiterer Gebiete an die Erdgasversorgung sind durch die betroffenen Gemeinden zeitgerecht Gebietsausscheidungen vorzunehmen, welche die Prioritäten der Energieversorgung für nicht gasversorgte Gebiete angemessen berücksichtigen (vgl. E2-4/2).
+D Objekte Keine
 
-- Bei den planerischen Festlegungen für eine Erweiterung der Erdgasversorgung sind die Ergebnisse des Risikokatasters für die Störfallvorsorge zu berücksichtigen.
+E Erläuterungen
 
-**Termine / Verfahren**
+Keine
 
-### Abstimmungsstand Zuständigkeit
+### E2.3 Versorgung mit Erdgas
 
-**Kommunale Energieplanungen**
+A Ausgangslage
 
-Zwischenergebnis Alle Gemeinden Departement Bau und Umwelt, Energiefachstel- Bauvorhaben der öffentlichen Hand le
+Die Erdgasversorgung im Haupttal bis Schwanden ist recht gut ausgebaut. Angeschlossen sind die Ortschaften Bilten, Niederurnen, Oberurnen, Näfels, Mollis, Netstal, Glarus, Riedern, Ennenda sowie Mitlödi und Schwanden (2017).
 
-E - 8
+Der Absatz an Erdgas hat sich zwischen 2001 und 2017 auf 238 GWh mehr als vervierfacht, vor allem durch die Nutzung von Erdgas in energieintensiven Industriebetrieben. In diesen Betrieben wurde vor allem Heizöl und Schweröl durch Erdgas ersetzt. Dadurch wurden insgesamt die Emissionen an NOx, SO2 und CO2 deutlich vermindert. Die Versorgung mit Erdgas stellt einen wichtigen Standortfaktor für Industriebetriebe dar.
 
-### Verweis auf massgebliche Grundlagen
+B Richtungsweisende Festlegungen / Beschluss
 
-- Bundesgesetz über Rohrleitungsanlagen zur Beförderung flüssiger oder gasförmiger Brenn- oder Treibstoffe (Rohrleitungsgesetz, RLG1, SR 746.1) vom 4. Oktober 1963
+E2.3-B/1 Erdgasversorgung
 
-- Eidgenössische Rohrleitungsverordnung (RLV, SR 746.11) vom 2. Februar 2000
+- Der Anteil von Erdgas an der Wärmeversorgung wird in erster Linie in bereits gasversorgten Gebieten durch eine Erhöhung der Anschlussdichte weiter vergrössert. Der Anschluss weiterer Gebiete an die Erdgasversorgung erfolgt in Koordination mit leitungsgebundenen und/oder erneuerbaren Energien und gemäss Prioritäten.
 
-- Verordnung über Rohrleitungsanlagen vom 11. August 1998
+E2.3-B/2 Wärmeversorgung
 
-- Kantonales Amt für Umweltschutz, Risikokataster Kanton Glarus, 2001
+- Für die Wärmeversorgung von Gebieten und von grösseren Einzelobjekten in bereits gasversorgten Gebieten gelten folgende Prioritäten der Energieversorgung:
 
-E - 9
+1.) Ortsgebundene hochwertige Abwärme (Abwärme aus Kehrichtverbrennungsanlagen und Industrieabwärme, die ohne Hilfsenergie direkt verteilt und genutzt werden kann). 2.) Ortsgebundene niederwertige Abwärme und Umweltwärme (Abwärme aus Abwasserreinigungsanlagen und Industrie sowie Umweltwärme aus Flüssen, Seen und Grundwasser, die vor der Nutzung mittels Wärmepumpen auf ein höheres Temperaturniveau gebracht werden).
 
-### E2-4 Erneuerbare und standortgebundene Energie
+3.) Erneuerbare Energieträger (Einsatz von einheimischem Energieholz, Biogas oder Biomasse in Einzelanlagen, Anlagen für Grossverbraucher oder Quartierheizzentrale). 4.) Leitungsgebundene fossile Energieträger (Gasversorgung für Siedlungsgebiete mit hoher baulicher Dichte oder industrieller Nutzung; für grössere Bezüger ist der Einsatz von gasbetriebenen Wärme-Kraft-Kopplungsanlagen (WKK) anzustreben. Falls Auswahl besteht, ist den Energienetzen, die mit Fernwärme aus erneuerbaren Quellen arbeiten, der Vorzug zu geben vor dem mit Erdgas versorgten Netz.)
 
-### Problemstellung / Ausgangslage
+5.) Örtlich ungebundene Umweltwärme (Umweltwärme aus der Umgebungsluft, der Sonnenenergienutzung und der Geothermie).
 
-Der Energiebedarf für Wärmezwecke und Verkehr wird im Kanton Glarus vorwiegend mit fossilen Energieträgern gedeckt. Der Gesamtverbrauch liegt derzeit (2009/2010) bei knapp 1'300 GWh. Davon werden knapp 40% in Form von Öl und Gas für Gebäudeheizungen und für die Industrie verwendet. Etwa 30% werden in Form von Strom verbraucht und weitere knapp 30% als Treibstoffe für den Verkehr. Der Rest (ca. 7%) wird vor allem in Form von Holz aber auch als Fernwärme (KVA) oder Umgebungswärme genutzt. Gut 20% des Gesamtenergiebedarfs wird aus erneuerbaren Quellen gedeckt. Der Anteil erneuerbarer Energie ohne Wasserkraft betrug 2006/2007 etwa 101 GWh oder 8% des Gesamtenergiebedarfs. Aktuell (2009/2010) beträgt dieser Anteil 126 GWh oder knapp 8% des Gesamtenergiebedarfs. Dazu zählen Biomasse insbesondere Holz, Biogas, Sonnenenergie, Umweltwärme, Windenergie sowie die Energie aus Abfall, Abwasserreinigungsanlagen und gebäudeexterner Abwärmenutzung. Der Anteil der Energieproduktion aus Kleinwasserkraftwerken (bis 10 MW Leistung) betrug im Jahr 2006/2007 etwa 132 GWh oder 10% des Gesamtenergiebedarfs. Für das Jahr 2012 beträgt die Produktionserwartung der Kleinwasserkraftwerke etwa 165 GWh.
+6.) Frei verfügbare fossile Energieträger (konventionelle Wärmeerzeugung mit Heizöl).
 
-Neben der Reduktion des Energiebedarfs ist der vermehrte Einsatz von erneuerbaren Energien und vorhandener Abwärme ein Ziel der kantonalen Energiepolitik. Mit dem revidierten kantonalen Energiegesetz erhält der Kanton die Ermächtigung zur Förderung von „Vorhaben zur sparsamen und rationellen Energienutzung, zur Nutzung erneuerbarer Energien sowie der Abwärme“. Die Wärmeversorgung kann mit unterschiedlichen Energieformen erfolgen. Die Einsatzmöglichkeiten dieser unterschiedlichen Formen hängen wesentlich von der baulichen und räumlichen Struktur der zu versorgenden Gebiete ab (bauliche Dichte, Qualität der Wärmeisolation, Temperaturniveau der Heizung, Grösse der Objekte). Für Einzelfeuerungen und Wärmeverbundsysteme empfehlen sich folgende erneuerbare Energieformen:
+- Für die Wärmeversorgung von Gebieten und von grösseren Einzelobjekten in nicht gasversorgten Gebieten hat die Nutzung von örtlich ungebundener Umweltwärme oder Sonnenenergie eine höhere Priorität als Erdgas.
 
-- Abwärme mit hohem oder tiefem Temperaturniveau (letztere unter Einsatz von Wärmepumpen)
+E2.3-B/3 Erweiterung Gasversorgung
 
-- Energieholz
+Bei der Weiterentwicklung der Gasversorgung gelten folgende Grundsätze:
 
-- Umweltwärme aus der Luft, aus Oberflächengewässern, Grundwasser, oberflächennahen Bodenschichten und Sonne
+- In den bereits mit Erdgas versorgten Orten wird ein Ausbau der Gasversorgung durch den Anschluss von Siedlungsgebieten mit hoher baulicher Dichte oder industriellen Nutzungen (Feuerungen für Prozesswärme o.a.) angestrebt. Die Massnahmen werden über die kommunale Energieplanung koordiniert.
 
-Es bestehen seitens des Kantons verschiedene Anstrengungen zum Einsatz von erneuerbaren Energien.
+- Die Gemeinden treffen in ihren kommunalen Energieplanungen die planerischen Festlegungen für die Gebiete, in denen die Versorgung mit Gas die zukünftige Nutzung des Abwärmepotenzials der im Richtplan bezeichneten Abwärmequellen konkurrenziert. Dabei sind die Prioritäten der Energieversorgung in gasversorgten Gebieten zu berücksichtigen. Bei den Gebietsausscheidungen ist die bestehende Infrastruktur der Gasversorgung angemessen zu berücksichtigen.
 
-Im Rahmen von „energie schweiz“ hat der Kanton thermische Solaranlagen, Photovoltaikanlagen und Anlagen zur Wärmerückgewinnung an und in kantonalen Gebäuden realisiert. Mit dem Förderprogramm von Bund und Kanton wird seit dem Jahr 2000 im Kanton die Nutzung von erneuerbarer Energien mit Holzfeuerungen oder Anlagen zur Erzeugung von solarer Wärme durch Private zielgerichtet und erfolgreich gefördert.
+- Vor dem Anschluss weiterer Gebiete an die Erdgasversorgung sind durch die betroffenen Gemeinden zeitgerecht Gebietsausscheidungen vorzunehmen, welche die Prioritäten der Energieversorgung für nicht gasversorgte Gebiete angemessen berücksichtigen.
 
-### Für eine energetische Nutzung sind die nachwachsenden Mengen an Brennholz und anderen
+- Bei der Erweiterung der Erdgasversorgung ist der Risikokataster der Störfallvorsorge zu berücksichtigen.
 
-Holzqualitäten des Waldes, Feldgehölze sowie das Restholz aus holzverarbeitenden Betrieben zu berücksichtigen. Dieser einheimische und nachwachsende Energieträger ist sowohl aufgrund der waldgesetzlichen Zielsetzungen als auch im Sinne der Prioritäten für die Energieversorgung von Siedlungen vermehrt zu nutzen. Bei der Erarbeitung des Grundlagenberichts zur Energieplanung zeigte sich, dass eine genauere Bestimmung des im Kanton noch verfügbaren Potentials an Energieholz in
+C Handlungsanweisungen
 
-E - 10 Koordination mit der forstlichen Planung notwendig ist. Dabei steht die nachhaltige Gewährleistung der Vorrangfunktion der Wälder im Vordergrund (Kantonaler Waldplan, genehmigt durch den Regierungsrat im Jahr 2004).
+E2.3-C/1
 
-Mit der Erweiterung der Kehrichtverbrennung in Niederurnen wurde für die Abwärmenutzung eine Fernwärmeversorgung für ein Gewerbe- und Wohnquartier erstellt. Diese Anlage ist für Prozesswärme und für Heizzwecke ausbaubar. Die Kehrichtverbrennung hat noch ein grosses standortgebundenes Abwärmepotential. Das noch nicht genutzte Potential für Wärmeproduktion in der Heizperiode beträgt etwa 85 GWh pro Jahr.
+Kanton, Gemeinden sowie die Werke mit öffentlichen Aufgaben wenden die Prioritäten bei der Wärmeversorgung an. Dies insbesondere bei:
 
-Weitere wesentliche standortgebundene Abwärmepotentiale befinden sich bei der Abwasserreinigungsanlage in Bilten sowie bei diversen Industrie- und Kraftwerksbetrieben.
+- der Ausarbeitung ihrer Energieplanungen,
 
-Verschiedene Betreiber von Photovoltaikanlagen, die kantonale Energiefachstelle, die Energieberatungsstelle und die Elektrizitätswerke haben 1999 gemeinsam eine Solarstrombörse lanciert. Die jährliche Solarstromproduktion beträgt derzeit gut 300 MWh (Stand Ende 2011). Damit hat sich die Produktion von Solarstrom in den letzten vier Jahren mehr als verdreifacht. Alleine im Jahr 2011 wurde die installierte Leistung insbesondere durch die Inbetriebnahme von 2 grossen Solarstromanlagen knapp verdoppelt. Im Mittel der letzten 10 Jahren betrug der jährliche Leistungszuwachs etwa 30%. Das verfügbare Potential an für Solarstrom geeigneten Dachflächen ist noch gross und wird derzeit in einem Solarkataster erfasst. In erster Priorität sollen für den Ausbau der Solarstromproduktion die Dach- und Fassadenflächen von Gebäuden verwendet werden.
+- der Wahl der Energieversorgung in ihren eigenen Bauten und Anlagen,
 
-Neben dem Ausbau der Solarstromproduktion und der Wasserkraft (vgl. Abschnitt E2-5) stellt die Nutzung der Windenergie eine weitere Option zur Erhöhung der erneuerbaren Stromproduktion im Kanton dar. In einem Leitfaden zur Förderung der Windenergie des Bundesamtes für Energie sind für den Kanton Glarus gut bewindete Standorte in den Gemeinden Braunwald, Netstal, Elm, Niederurnen, Bilten und Mollis bezeichnet worden, die sich für die Errichtung eines Windparks eignen würden. Im Rahmen eines Projektes mit dem Bundesamt für Energie wurde in den Jahren 2001- 2002 eine detaillierte Abklärung von möglichen Standorten für Windkraftanlagen im Kanton vorgenommen. Anhand der detaillierten Abklärungen und der durchgeführten Jahreswindmessungen zeigte die Auswertung, dass ein Windkraftprojekt ausser in der Linthebene kaum eine sinnvolle Nutzung erlaubt. Die Einrichtung von Windparks mit mehreren Maschinen ist im Hinblick auf die Besiedlung auch dort schwierig. Einer allfälligen Nutzung dieser sauberen Energie stehen insbesondere landschaftsschützerische Interessen entgegen. Aus diesem Grund wurden im Richtplan Gebiete eingetragen in denen eine Nutzung von Windkraft ermöglicht und erwünscht wird.
+- der Festlegung von Gebieten mit kollektiver Wärmeversorgung,
 
-### Richtungsweisende Festlegungen
+- der Erschliessung der Bauzonen,
 
-- 1\. In seiner Energiepolitik setzt sich der Kanton Glarus zum Ziel, die Kriterien der Nachhaltigkeit, insbesondere die vermehrte Nutzung erneuerbarer Energieträger und der sparsame Einsatz nicht erneuerbarer Ressourcen, umzusetzen. Dabei setzt sich der Kanton Glarus das Ziel, bis zum Jahr 2020 durch Ausbau und Effizienzsteigerung den Anteil erneuerbarer Energie ohne Wasserkraft am Endenergieverbrauch von 8% (2006/2007) deutlich zu erhöhen.
+- sowie der Bezeichnung von Gebieten mit Sondernutzungsplanpflicht. Federführung: Dep. Bau und Umwelt, Energiefachstelle; Gemeinde
 
-- 2\. Der Kanton Glarus setzt sich das Ziel, bis zum Jahr 2020 durch Ausbau und Effizienzsteigerung die auf ein Normaljahr bereinigte Energieproduktion aus Kleinwasserkraftwerken auf 240 GWh/a zu erhöhen.
+D Objekte
 
-E - 11 3. Der Energieplan zeigt, an welchen Standorten Abwärmequellen mit wesentlichem Potential vorhanden sind und in welchen Gebieten standortgebundene Umweltwärme genutzt werden kann. Vorhandene Abwärme sowie örtlich gebundene und ungebundene Umweltwärme sollen zweckmässig genutzt werden und damit der Anteil an Abwärme und erneuerbarer Energie an der Wärmeversorgung erhöht werden.
+Keine
 
-- 4\. Der Einsatz von Energieholz soll sich in erster Linie auf nicht mit Gas erschlossene Siedlungsgebiete mit geringerer baulicher Dichte konzentrieren oder es sind Verbundanlagen zu erstellen.
+E Erläuterungen / Grundlagen
 
-**Nr. E2-4/1**
+Keine
 
-### Abstimmungsanweisung
+### E2.4 Erneuerbare und standortgebundene Energien
 
-Gestützt auf den Grundsatz nach Art. 13 Energiegesetz, wonach neue Bauten und Anlagen so zu erstellen sind, dass der Energiebedarf entsprechend dem Stand der Technik möglichst gering zu halten sei, prüfen Kanton und Gemeinden bei der Planung und Bewilligung von neuen Bauten und Anlagen Möglichkeiten zur effizienteren Energieverwendung und zum Einsatz von erneuerbaren Energien. Dabei wird für Neubauten und Erweiterungen von bestehenden Bauten geprüft, ob höchstens 80% des zulässigen Wärmebedarfs für Heizung und Warmwasser mit nichterneuerbaren Energien gedeckt wird.
+A Ausgangslage
 
-**Termine / Verfahren**
+Pro Einwohner liegt der Verbrauch an erneuerbarer Energie (ohne Wasserkraft) bei etwa 3000 kWh pro Jahr. Der Anteil der Energieproduktion aus Kleinwasserkraftwerken (bis 10 MW Leistung) betrug im Mittel der Jahre 2000-2016 etwa 144 GWh. Für das Jahr 2020 beträgt die Produktionserwartung der Kleinwasserkraftwerke etwa 180 GWh. In den Jahren 2011 bis 2017 wurden vom Kanton folgende Fördermittel für eine vermehrte Nutzung erneuerbarer Energien eingesetzt (in 1000 Fr.):
 
-### Abstimmungsstand Zuständigkeit
+2011 2012 2013 2014 2015 2016 2017 255 252 35 270 613 631
 
-Festsetzung Departement Bau und Umwelt, Energiefachstel- Bauvorhaben der öffentlichen le Alle Gemeinden verfahren
+**462**
 
-**Hand Auflagen im Baubewilligungs-**
+Biomasse Für eine energetische Nutzung sind die nachwachsenden Mengen an Brennholz und anderen Holzqualitäten des Waldes, Feldgehölze sowie das Restholz aus holzverarbeitenden Betrieben zu berücksichtigen. Dieser einheimische und nachwachsende Energieträger ist sowohl aufgrund der waldgesetzlichen Zielsetzungen als auch im Sinne der Prioritäten für die Energieversorgung von Siedlungen vermehrt zu nutzen.
 
-### Verweis auf massgebliche Grundlagen
+Die Kehrichtverbrennungsanlage KVA Linth hat immer noch ein grosses standortgebundenes Abwärmepotenzial. Im Jahre 2017 wurde eine zusätzliche Fernleitung in Richtung Niederurnen (Eternit) gebaut. Weitere Verlängerungen in Richtung Näfels werden vorbereitet. Das noch nicht genutzte Potential für Wärmeproduktion in der Heizperiode beträgt etwa 85 GWh pro Jahr.
 
-- Bundesamt für Energiewirtschaft (1996): Energieplan Leitfaden (im Rahmen von Energie 2000)
+Weitere wesentliche standortgebundene Abwärmepotenziale befinden sich bei diversen Industrie- und Kraftwerksbetrieben.
 
-- Energiegesetz des Kt. Glarus, Mai 2009
+Solarenergie Die Nutzung der Sonnenenergie für Photovoltaik beziehungsweise für die thermische Nutzung hat seit dem Jahre 2000 stark zugenommen. Insgesamt sind Ende 2017 294 Photovoltaikanlagen mit einer gesamten Leistung von 4300 kW und etwa 550 Anlagen zur Nutzung von Sonnenwärme zur Warmwasserproduktion in Betrieb. Die Zahl der Photovoltaikanlagen hat sich vor allem seit Inkrafttreten der Kostendeckenden Einspeisevergütung im Jahre 2006 stark vergrössert. Im Jahre 2014 wurde ein flächendeckender Solarkataster veröffentlicht, welcher für jedes Dach im Kanton das Potenzial zur Nutzung der Sonnenergie aufzeigt. Das verfügbare Potenzial an für Solarstrom geeigneten Dachflächen ist noch gross und wird im erwähnten Solarkataster dargestellt. In erster Priorität sollen für den Ausbau der Solarstromproduktion die Dach- und Fassadenflächen von Gebäuden verwendet werden.
 
-**Nr. E2-4/2**
+Umgebungswärme Die Nutzung von Umgebungswärme z.B. Grundwasser, Oberflächenwasser, Erdsonden mit Hilfe von Wärmepumpen zum Heizen oder Kühlen ist sinnvoll und ermöglicht die Nutzung einer erneuerbaren Energiequelle. Die Nutzung wird durch Vorgaben der Gewässerschutzgesetzgebung in einzelnen Bereichen eingeschränkt oder nicht zugelassen. Mittelfristig müssen das noch verfügbare Potenzial an nutzbarem Grundwasser in dicht besiedelten Gebieten ermittelt und allenfalls Nutzungseinschränkungen festgelegt werden. B Richtungsweisende Festlegungen / Beschluss
 
-### Abstimmungsanweisung
+E2.4-B/1 Förderung erneuerbarer Energien
 
-Prioritäten der Energieversorgung in gasversorgten Gebieten Für Gebietsausscheidungen für die Wärmeversorgung von Gebieten und von grösseren Einzelobjekten in bereits gasversorgten Gebieten gelten die folgenden Prioritäten:
+- Der Anteil erneuerbarer Energien wird erhöht.
 
-- 1\. Ortsgebundene hochwertige Abwärme Abwärme aus Kehrichtverbrennungsanlagen und langfristig zur Verfügung stehende Industrieabwärme, die ohne Hilfsenergie direkt verteilt und genutzt werden kann.
+- Der Kanton Glarus hat zum Ziel, die Kriterien der Nachhaltigkeit, insbesondere die vermehrte Nutzung erneuerbarer Energieträger und der sparsame Einsatz nicht erneuerbarer Ressourcen, umzusetzen. Dabei setzt sich der Kanton Glarus das Ziel, bis zum Jahr 2035 durch Ausbau und Effizienzsteigerung den Anteil erneuerbarer Energie ohne Wasserkraft am Endenergieverbrauch auf 6000 kWh pro Einwohner zu erhöhen.
 
-- 2\. Ortsgebundene niederwertige Abwärme und Umweltwärme Abwärme aus Abwasserreinigungsanlagen und Industrie sowie Umweltwärme aus Flüssen, Seen und Grundwasser, die vor der Nutzung mittels Wärmepumpen auf ein höheres Temperaturniveau gebracht werden.
+- Der Einsatz von Energieholz soll sich in erster Linie auf nicht mit Gas erschlossene Siedlungsgebiete mit geringerer baulicher Dichte konzentrieren oder es sind Verbundanlagen zu erstellen.
 
-- 3\. Regional gebundene erneuerbare Energieträger Einsatz von einheimischem Energieholz, Biogas oder Biomasse in Einzelanlagen, Anlagen für Grossverbraucher oder Quartierheizzentralen.
+C Handlungsanweisungen
 
-- 4\. Leitungsgebundene fossile Energieträger Gasversorgung für Siedlungsgebiete mit hoher baulicher Dichte oder industrieller Nutzung; welche auch in Zukunft eine hohe Energiedichte aufweisen; für grössere Bezüger ist der Einsatz von gasbetriebenen Wärme-Kraft-Kopplungsanlagen (WKK) anzustreben. Falls Auswahl besteht, ist den Energienetzen, die mit Fernwärme aus erneuerbaren Quellen arbeiten, der Vorzug zu geben vor dem mit Erdgas versorgten Netz.
-
-- 5\. Örtlich ungebundene Umweltwärme Umweltwärme aus der Umgebungsluft, der Sonnenenergienutzung und der Geothermie.
-
-- 6\. Frei verfügbare fossile Energieträger Konventionelle Wärmeerzeugung mit Heizöl.
-
-E - 12 Prioritäten der Energieversorgung in nicht gasversorgten Gebieten In nicht mit Gas versorgten Gebieten hat die Nutzung von örtlich ungebundener Umweltwärme oder Sonnenenergie eine höhere Priorität als Erdgas.
-
-Anwendung der Prioritäten:
-
-Der Kanton, die Gemeinden sowie die Werke mit Erfüllung öffentlicher Aufgaben wenden diese Prioritätenliste an, insbesondere bei:
-
-- der Ausarbeitung ihrer Energieplanungen
-
-- der Wahl der Energieversorgung in ihren eigenen Bauten und Anlagen
-
-- der Festlegung von Gebieten mit kollektiver Wärmeversorgung
-
-- der Erschliessung der Bauzonen
-
-- der Bezeichnung von Gebieten mit Sondernutzungsplanpflicht
-
-**Termine / Verfahren**
-
-### Abstimmungsstand Zuständigkeit
-
-Festsetzung Departement Bau und Umwelt, Energiefachstel- Bauvorhaben der öffentlichen le Alle Gemeinden
-
-**Hand; kommunale Energieplanungen**
-
-**Nr. E2-4/3**
-
-### Abstimmungsanweisung
-
-Nutzung von Windenergie:
-
-Der Kanton Glarus erstellt eine Positivplanung und prüft Gebiete in denen eine Nutzung von Windkraft ermöglicht und erwünscht wird. Diese werden im Richtplan eingetragen und als Interessengebiet Windenergienutzung bezeichnet. Als geeignet sind Gebiete bezeichnet worden, welche folgende Anforderungen erfüllen:
-
-- über ein ausreichendes Windaufkommen verfügen,
-
-- nicht in Siedlungsgebieten liegen,
-
-- einen ausreichenden Abstand, im Minimum 300m, zu Wohn- und Mischzonen sowie Zonen der Empfindlichkeitsstufe I und II gemäss LSV aufweisen,
-
-- nicht in nationalen oder regionalen Natur- und Landschaftsschutzgebieten liegen und einen ausreichenden Abstand dazu aufweisen, im Minimum 200m,
-
-- nicht in Waldgebieten liegen und einen ausreichenden Abstand dazu aufweisen, im Minimum 50m,
-
-- nicht in touristischen Intensiv-, Extensiv- und Ausschlussgebieten liegen,
-
-- nicht in Ausschlussgebieten gemäss der Empfehlung zur Planung von Windenergieanlagen (BFE, BAFU, ARE) liegen Die beiden in der Richtplankarte bezeichneten Gebiete nordwestlich und südöstlich von Bilten werden bis zur Abstimmung des Nutzungskonfliktes mit dem Raumplanungskonzept Glarus Nord, dem Wildtierkorridor "Benkener Büchel" bzw. "St. Sebastian" und den Fruchtfolgeflächen als Zwischenergebnis eingetragen. Die Abstimmung und Bereinigung der Nutzungskonflikte erfolgt unter Beizug der betroffenen Gemeinden und des Kantons St. Gallen (Amt für Natur, Jagd und Fischerei). Nach dem Abstimmungsverfahren wird der Richtplan durch den Regierungsrat fortgeschrieben.
-
-E - 13
-
-**Termine / Verfahren**
-
-### Abstimmungsstand Zuständigkeit
-
-Zwischenergebnis Departement Bau und Umwelt, Energiefachstel- Abstimmungsverfahren bis Able; alle Gemeinden Glarus Nord Sondernutzungsplan, Bau- und Nutzungsbewilligungen
-
-**schluss Raumplanungskonzept**
-
-### Verweis auf massgebliche Grundlagen
-
-- Empfehlung zur Planung von Windenergieanlagen; Bundesamt für Energie BFE, Bundesamt für Umwelt BAFU, Bundesamt für Raumentwicklung ARE vom 1. März 2010
-
-- Konzept Windenergie Schweiz, Grundlagen für die Standortwahl von Windenergieanlagen; Bundesamt für Energie, Bundesamt für Umwelt und Bundesamt für Raumentwicklung (2004)
-
-- Windmessung in der Linthebene, Schlussbericht Windgutachten, Interwind AG, im Auftrag der Baudirektion des Kantons Glarus (2003)
-
-**Nr. E2-4/4**
-
-### Abstimmungsanweisung
-
-Nutzung von Grundwasser und Geothermie:
-
-Der Kanton Glarus bezeichnet Gebiete, in denen die Nutzung von Grundwasserwärmepumpen und Erdwärmesonden ermöglicht wird. Diese Gebiete werden als Positivgebiete bezeichnet.
-
-Der Kanton legt Grundsätze für das Bewilligungsverfahren zur Nutzung von Grundwasser oder Erdwärme als Energiequelle fest und koordiniert deren Nutzung. Dazu führt er ein Register der bewilligten Bohrungen und in Betrieb stehenden Anlagen.
+E2.4-C/1 Nutzung von Grundwasser und Geothermie Der Kanton bezeichnet Gebiete, in denen die Nutzung von Grundwasserwärmepumpen und Erdwärmesonden ermöglicht wird. Diese Gebiete werden als Positivgebiete bezeichnet. Er legt Grundsätze für das Bewilligungsverfahren zur Nutzung von Grundwasser oder Erdwärme als Energiequelle fest und koordiniert deren Nutzung. Dazu führt er ein Register der bewilligten Bohrungen und in Betrieb stehenden Anlagen.
 
 Positivgebiet Wärmenutzung aus Grundwasser Das im Richtplan bezeichnete Gebiet beinhaltet alle Gebiete mit vermutetem oder erhärtetem Grundwasservorkommen, welche sich nicht innerhalb von Grundwasserschutzzonen befinden.
 
-Positivgebiet Wärmenutzung mit Erdsonde Das Gebiet beinhaltet alle durch die Gemeinden oder den Kanton festgelegen Bauzonen (Wohn- und Mischzonen sowie Gewerbe- und Industriezonen), welche sich nicht innerhalb der Ausschlussgebiete gemäss Erdsondenausschlusskarte, der Grundwasserschutzzonen oder in rutschgefährdeten Gebieten gemäss den Gefahrenkarten befinden.
+Positivgebiet Wärmenutzung mit Erdsonde Das Gebiet umfasst alle durch die Gemeinden festgelegen Bauzonen (Wohn- und Mischzonen sowie Gewerbe- und Industriezonen), welche sich nicht innerhalb der Ausschlussgebiete gemäss Erdsondenausschlusskarte, der Grundwasserschutzzonen oder in rutschgefährdeten Gebieten gemäss den Gefahrenkarten befinden.
 
 Ausschlussgebiete Da in Grundwasserschutzzonen keine Wärmenutzung aus dem Untergrund zulässig ist, sind realisierte, provisorische und geplante Grund- und Quellwasserschutzzonen in der Richtplankarte bezeichnet.
 
-**Termine / Verfahren**
+Federführung: Dep. Bau und Umwelt, Energiefachstelle
 
-### Abstimmungsstand Zuständigkeit
+D Objekte
 
-Festsetzung Departement Bau und Umwelt, Energiefachstel- Kommunale Energieplanungen le; alle Gemeinden bzw. Konzessionsverfahren
+Keine
 
-**Auflagen im Baubewilligungs-**
+E Erläuterungen / Grundlagen
 
-### Verweis auf massgebliche Grundlagen
+Siehe Erläuterungsbericht
 
-- Gewässerschutzgesetz (GSchG) vom 24. Januar 1991
+### E2.5 Wasserkraft
 
-- Gewässerschutzverordnung (GSchV), vom 28. Oktober 1998
+A Ausgangslage
 
-- Gewässerschutzkarte des Kanton Glarus, Amt für Umweltschutz, 2003
+Die Wasserkraftnutzung im Kanton Glarus hat seit Beginn der Industrialisierung eine grosse Bedeutung. Heute wird diese Energie intensiv genutzt. Die Gesamtproduktion von elektrischer Energie aus Wasserkraft im Kanton Glarus beträgt in einem Durchschnittsjahr (Mittelwert 2000–2017) rund 864 GWh. In den Kleinwasserkraftwerken (Anlagen &lt; 10 MW) wurde im Durchschnitt (2010–2017) eine Stromproduktion von 152 GWh erzielt.
 
-- Merkblatt Bewilligungsverfahren für die Wärmenutzung von Grundwasser oder Erdwärme (Juni 2006)
+Leistungsklasse (MW) Anzahl Netto-Jahresproduktion (GWh) Über 100 1 390 10 – 100 4 316 Total 864 1 – 10 8 92 Unter 1 45 66
 
-E - 14
+Angesichts der schwierigen wirtschaftlichen Situation im Wasserkraftbereich ist in nächster Zeit eine gewisse Zurückhaltung bei der Erneuerung bestehender Kraftwerke und dem Bau neuer Kraftwerke zu erwarten, ausser wenn sie über externe Finanzierungen wie KEV oder Grosswasserkraft-Subventionierung finanziert werden.
 
-**Nr. E2-4/5**
+Im Energiegesetz des Bundes ist festgehalten, dass die Elektrizitätsproduktion aus Wasserkraft bis im Jahr 2035 auf 37 400 GWh (+5,6% verglichen mit 2012) ansteigen muss. Übertragen auf den Kanton Glarus würde das bedeuten, dass bis 2035 ungefähr 50 GWh Produktionskapazität in Wasserkraft zusätzlich bereitgestellt werden muss. Mit den Vorgaben aus dem Energiekonzept von 2012 wird diese Zielsetzung schon 2020 erfüllt.
 
-### Abstimmungsanweisung
+Der Neu- und Ausbau von Wasserkraftwerken kann zu einer Beeinträchtigung der Landschaft oder der Gewässerlebensräume führen. Konflikte sind bei neuen Vorhaben in zunehmendem Masse zu erwarten. Aus diesem Grund sollen keine neuen Wasserentnahmen aus Schutzgebieten mehr möglich sein (Hochmoore, Flachmoore, Auenwälder und Amphibienlaichgebiete, Moorlandschaften von nationaler Bedeutung, Weltnaturerbe Tektonikarena Sardona). In anderen Gebieten (kantonale Landschaftsschutzobjekte) soll eine Nutzung nur möglich sein, wenn das Projekt den Schutzzielen nicht widerspricht.
 
-Nutzung von Solarenergie:
+Die Linth und der Sernf sind bezüglich des Lebensraumes Wasser und seiner Bedeutung für Wasserlebewesen und im speziellen für die Fische von grosser Bedeutung. Beide Gewässer werden heute schon intensiv genutzt. Bei neuen Kraftwerken und Ausbauten bestehender Kraftwerke an diesen Gewässern sollen erheblich höhere Restwassermengen verlangt werden als die Mindestrestwassermenge nach dem Gewässerschutzgesetz.
 
-Der Kanton Glarus erstellt einen Solarkataster, der diejenigen Gebiete aufzeigt, welche für die Nutzung von Solarenergie (Solarwärme und Solarstrom) geeignet sind.
+B Richtungsweisende Festlegungen / Beschluss
 
-Für die Nutzung von Solarenergie sind in erster Priorität Dach- und Fassadenflächen von Gebäuden in Bau- und Landwirtschaftszonen zu nutzen.
+E2-5-B/1 Wasserkraftnutzung
 
-Freiflächenanlagen sind erst in zweiter Priorität und unter folgenden Voraussetzungen zu realisieren:
+- Die Wasserkraft wird nachhaltig genutzt und gefördert. Beim Bau oder Ausbau von Anlagen zur Energiegewinnung durch Wasserkraft sind die Interessen der Energiewirtschaft, der Versorgungssicherheit und der Netzoptimierung mit den Interessen des Natur-, Landschafts- und Ortsbildschutzes sowie weiterer Schutz- und Nutzungsinteressen abzustimmen.
 
-- a) Für Freiflächenanlagen hat die Nutzung bestehender Infrastrukturen und Standorte mit geringem Konfliktpotential Vorrang. Dies beinhaltet folgende Flächen:
+- In national bedeutsamen Biotopen und Moorlandschaften ist der Bau neuer Wasserkraftwerke nicht zulässig (Ausschlussgebiete).
 
-- Lärmschutzwände, Lawinenverbauungen und andere Infrastrukturanlagen,
+- Bei bestehenden Wasserfassungen in den übrigen Vorranggebieten Natur und Landschaft soll im Falle von Umbauten oder Konzessionserneuerungen die Restwassermenge nicht reduziert werden.
 
-- Parkplätze und andere versiegelte Flächen,
+- Dasselbe gilt für die Gewässerstrecken, die durch eine rechtskräftige Schutz- und Nutzungsplanung mit einem Nutzungsverzicht belegt sind.
 
-- Konversionsflächen bzw. Brachflächen, die nicht genutzt werden (Siedlungen, Gewerbe, Industrie, Deponie, Militär, Infrastruktur), mit hohem Versiegelungsgrad ohne besondere ökologische oder ästhetische Funktionen
+- In allen Gebieten zulässig sind Wasserkraftanlagen zur Selbstversorgung von Hütten ohne Netzanschluss (Leistung von maximal 10 kW).
 
-- b) Freiflächenanlagen auf natürlichen Böden sind nur zulässig, wenn eine gute Bewertung in einer Nachhaltigkeitsbeurteilung vorliegt, diese als Lebensräume für gefährdete Tier- und Pflanzenarten gestaltet werden, der Eingriff als klein bezeichnet werden kann und das Schutzziel der entsprechenden Zone nicht wesentlich beeinträchtigt wird. Insbesondere gilt dies für folgende Teilgebiete:
+C Handlungsanweisungen
 
-- Landschaftsschutzgebiete von regionaler Bedeutung
+E2-5-C/1
 
-- Landwirtschaftliche Vorranggebiete
+Bei der Erteilung von Konzessionen für Wasserkraftanlagen, insbesondere für die Nutzung neuer Wasserstrecken an Linth und Sernf, werden in der Abwägung nach Art. 33 GSchG die Anforderungen an die Fischgängigkeit hoch gewichtet. Der Kanton bestimmt die Anforderungen.
 
-- c) Grundsätzlich nicht zulässig sind Freiflächenanlagen in folgenden Teilgebieten:
+Federführung: Dep. Bau und Umwelt, Abt. Umweltschutz und Energie
 
-- Moorlandschaften von nationaler Bedeutung
+D Objekte
 
-- Hochmoore und Flachmoore von nationaler Bedeutung
+**KS**
 
-- Auengebiete von nationaler Bedeutung
+Objekt-Nr. Gemeinde Standort / Gebiet Bemerkung / Hinweis E2.5.01 Glarus Süd Elm / Aeschen - Projektabklärungen zur Wasser- VO kraftnutzung Sernf - Präzisierung des Vorhabens und Abklärungen Umweltauswirkungen
 
-- Amphibienlaichgebiete von nationaler Bedeutung
+E Erläuterungen / Grundlagen
 
-- Perimeter UNESCO Weltnaturerbe "Tektonikarena Sardona"
+-
 
-- Landschaftsschutzgebiete von nationaler Bedeutung
+### E 2.6 Windenergie
 
-**Termine / Verfahren**
+A Ausgangslage
 
-### Abstimmungsstand Zuständigkeit
+Windenergieprojekte (Grosswindanlagen) sind Vorhaben mit gewichtigen räumlichen Auswirkungen und bedürfen einer Festlegung im kantonalen Richtplan. Eine «Festsetzung» des Vorhabens resp. des Standorts ist erforderlich, um das Projekt auf den nachgeordneten Planungsebenen (Nutzungsplanung; Baubewilligung) umsetzen zu können.
 
-Festsetzung Departement Bau und Umwelt, Energiefachstel- Erstellen Solarkataster: 2012 le; alle Gemeinden Auflagen im Baubewilligungs-, bzw. Konzessionsverfahren
+Bei der Planung von Windenergieprojekten sind verschiedene Bundesinteressen, z.B. im Zusammenhang mit der Flugsicherheit, der Landesverteidigung oder dem staatlichen Wetterdienst sowie auch Interessen des Kantons zu berücksichtigen. Für die Beurteilung eines Vorhabens auf Stufe Richtplan ist daher mindestens ein Vorprojekt mit Voruntersuchung der Umweltauswirkungen und Pflichtenheft gemäss Art. 8 UVPV (bei UVP-Pflicht gemäss Anhang UVPV) vorzulegen. Ebenso ist ein Nachweis der Wirtschaftlichkeit aufzuzeigen. Für eine Festsetzung im Richtplan bedarf es bei Windenergieprojekten insofern bereits relativ umfangreicher Vorarbeiten.
 
-**Kommunale Energieplanungen**
+B Richtungsweisende Festlegungen / Beschluss
 
-E - 15
+E2.6-B/1 Standortvoraussetzungen
 
-### E2-5 Wasserkraft
+- Windenergieanlagen sind räumlich auf wenige Standorte im Kanton zu konzentrieren.
 
-### Ausgangslage
+- Windenergieanlagen in und zwischen Siedlungsgebieten sind zu vermeiden.
 
-Die Nutzung der Wasserkraft hat im Kanton Glarus eine grosse Bedeutung. Sie ist seit dem Beginn der Industrialisierung im Kanton konsequent und rationell genutzt worden. Mit dem Beschluss der Landsgemeinde von 1896 und 1906 wurde die erste übergeordnete Erlaubnis für den Bau und den Betrieb eines Kraftwerkes am Niederenbach in Schwanden und am Löntsch in Glarus und Netstal erteilt. Seit dem Jahr 1918 besitzt der Landrat die Kompetenz, Konzessionen für die Ausnützung der Wasserkräfte zu erteilen. Die erste Konzession wurde im Jahr 1928 erteilt. Nach dem Ablauf der 80- jährigen Konzessionsdauer stehen die ersten damals erteilten Konzessionen zur Erneuerung an.
+- Neuerschliessungen von Standorten für Windenergieanlagen mit einem ungünstigen Verhältnis zwischen erwarteter Energieproduktion und negativen Auswirkungen des zu tätigenden Eingriffs auf die Landschaft und die Ökosysteme sind zu vermeiden.
 
-Es gibt heute im Kanton Glarus drei Wasserkraftwerke mit einer Jahres-Energieproduktion von je über 100 GWh:
+- Die Netzanbindung für die Stromabnahme muss mit verhältnismässigem Aufwand bewerkstelligt werden können.
 
-- Kraftwerke Linth-Limmern
+E2.6-B/2 Voraussetzungen für eine Festsetzung
 
-- Kraftwerk Löntsch
+- Für eine Festsetzung eines Standortes sind folgende Nachweise zu erbringen:
 
-- Kraftwerk Sernf-Niederenbach
+- Wirtschaftlichkeit (gestützt auf empirische Ergebnisse der Windmessung)
 
-Beim Kraftwerk Sernf handelt es sich um ein Laufwasserkraftwerk mit der Möglichkeit, in wasserarmen Perioden Energie umzulagern. Beim KW Niederenbach handelt es sich um ein Speicherkraftwerk für die klassische Erzeugung konsumangepasster Energie.
+- Abstimmung mit Bundesinteressen ist erfolgt (schriftlicher Nachweis) und es bestehen keine Ausschlussgründe (Koordination via «Guichet Unique»)
 
-Weiter werden zehn Wasserkraftwerke mit einer Energieproduktion von je zwischen 5 bis 80 GWh und rund sechzig kleine Wasserkraftwerke mit insgesamt rund achtzig Wasserfassungen betrieben. Die Gesamtproduktion von elektrischer Energie aus Wasserkraft im Kanton Glarus beträgt in einem Durchschnittsjahr (Mittelwert 2000-2010) rund 830 GWh. Ohne das Kraftwerk Linth-Limmern liegt die durchschnittliche Produktion bei ca. 450 GWh elektrischer Energie pro Jahr.
+- Erschliessung für Schwertransporte und Installation ist geregelt und die Einspeisemöglichkeit ins Netz gegeben
 
-In den Kleinwasserkraftwerken (Anlagen &lt; 10 MW) wurde im hydrologischen Jahr 2006/2007 eine Stromproduktion von 132 GWh erzielt. Dies entspricht einem Anteil von 10% des gesamten Endenergieverbrauchs im Kanton. Die Kleinkraftwerke an der Linth produzieren zur Hauptsache in Abhängigkeit des Oberliegerkraftwerkes KLL. Die übrigen sind den natürlichen Gegebenheiten (Schnee und Niederschläge) ausgesetzt und produzieren den Hauptanteil im Sommerhalbjahr.
+- Umweltverträglichkeit gemäss Voruntersuchung der Umweltauswirkungen und Pflichtenheft (Nachweis der Umweltverträglichkeit auf Stufe Voruntersuchung)
 
-Das Speicherkraftwerk Linth-Limmern (KLL) nimmt aufgrund seiner grossen Leistung und seiner überregionalen Bedeutung eine Sonderstellung innerhalb der Wasserkraftwerke im Kanton Glarus ein. Zumal zwei Wasserfassungen des Kraftwerks auf Urner Boden liegen (UR-15, UR-16) und den Limmernsee speisen. Mit dem im Bau befindlichen Projekt "Linthal 2015" der Kraftwerke Linth-Limmern AG wird bei diesem Kraftwerk bis 2015 auch das bedeutendste Ausbauprojekt im Kanton entstehen. Das neue Pumpspeicherwerk soll eine Pumpleistung und eine Turbinenleistung von etwa 1000 Megawatt aufweisen. Damit würde sich die Leistung der KLL von heute 450 Megawatt auf 1450 Megawatt erhöhen. Zur Berücksichtigung der Umweltaspekte ist eine Schutz- und Nutzungsplanung (SNP) durchgeführt und vom Bundesrat im Dezember 2006 genehmigt worden. Die Konzession für dieses Projekt wurde am 24. Oktober 2007 durch den Kanton Glarus erteilt. Die Hauptarbeiten zum Bau des neuen Kraftwerkes starteten im Frühjahr 2010.
+- Ermittlung Kollisionsgefahr (Vögel und Fledermäuse) sowie Beeinträchtigung weiterer störungssensibler Arten. Sofern ein Konfliktpotenzial vorhanden ist, sind Massnahmen zur Konfliktentschärfung aufzuzeigen.
 
-E - 16
+- Einhaltung der Planungswerte für Industrie- und Gewerbelärm nach Anhang 6 LSV unter Berücksichtigung eines Impulsgehalts von 2 dB(A).
 
-### Mit den Bestimmungen im Energiegesetz des Bundes, worin die Anschlussbedingungen und Ent-
+**Glarus Süd Vorab - Vereinbarkeit mit Zielen UNESCO- ZE**
 
-schädigungen für unabhängige Produzenten der Wasserkraftwerke von unter 1 MW Leistung geregelt sind, wurde ab 1990 der Anreiz für eine Modernisierung dieser vorwiegend alten Werke geschaffen. Gleiches gilt für die Einführung der kostendeckenden Einspeisevergütung (KEV) ab 2009 für Kleinwasserkraftwerke bis 10 MW Leistung. Über die von den drei grossen Werken erstellten und betriebenen Transportleitungen im Hoch- und Mittelspannungsbereich, welche ausserhalb des Kantons führen, besteht eine gute Anbindung an das schweizerische Verteilnetz. Für den Netzanschluss des Kraftwerksprojektes "Linthal 2015" der KLL soll eine neue 380 kV Leitung zwischen dem Unterwerk Tierfehd und Schwanden/Sool erstellt werden (vgl. Abschnitt E2-2).
+**Weltnaturerbe klären - Koordination mit Richtplanung Graubünden vornehmen**
 
-### Problemstellung
+- Schattenwurf. C
 
-Im Kanton Glarus werden die Wasserkräfte heute schon intensiv genutzt. Das führt in Einzelfällen zu einer Beeinträchtigung der Landschaft oder des Lebensraumes Wasser. Solche Konflikte sind bei neuen Vorhaben in zunehmendem Masse zu erwarten. Aus diesem Grund sollen aus Landschaftsschutzgründen grundsätzlich in einzelnen Regionen (Hochmoore, Flachmoore, Auenwälder und Amphibienlaichgebiete von nationaler Bedeutung) keine neuen Wasserentnahmen stattfinden. In anderen Gebieten (Perimeter UNESCO Weltnaturerbe, kantonale Landschaftsschutzobjekte, Moorlandschaften von nationaler Bedeutung) soll eine Nutzung nur möglich sein, wenn das Projekt in einer Nachhaltigkeitsbeurteilung gute Werte erzielt. Die Linth und der Sernf sind bezüglich des Lebensraumes Wasser und seiner Bedeutung für Wasserlebewesen und im speziellen der Fische in unserem Kanton von grosser Bedeutung. Beide Gewässer sind heute schon intensiv genutzt. Bei neuen Kraftwerken und Ausbauten bestehender Kraftwerke an diesen Gewässern sollen erheblich höhere Restwassermengen verlangt werden als die Mindestrestwassermenge nach dem Gewässerschutzgesetz.
+**Handlungsanweisungen**
 
-### Richtungsweisende Festlegungen
+E2.6-C/1
 
-- 1\. Der Kanton fördert die Nutzung der Wasserkraft mit dem Ziel der nachhaltigen, regionalen Energiegewinnung.
+Der Kanton prüft ein Vorhaben hinsichtlich der Konformität mit den Anforderungen des kantonalen Richtplans. Sind die Anforderungen erfüllt, legt der Kanton den Standort für Windenergieanlagen mit einer Interessenabwägung als Festsetzung fest. Federführung: Dep. Bau und Umwelt, Abt. Raumentwicklung und Geoinformation
 
-- 2\. Beim Bau oder Ausbau von Anlagen zur Energiegewinnung durch Wasserkraft sind die Interessen der Energiewirtschaft, der Versorgungssicherheit und der Netzoptimierung mit den Interessen des Natur-, Landschafts- und Ortsbildschutzes sowie weiterer Schutz- und Nutzungsinteressen abzustimmen.
+E2.6-C/2
 
-### Verweis auf massgebliche Grundlagen
+Im Rahmen der kommunalen Nutzungsplanung regelt die Gemeinde nachfolgende Aspekte und legt diese in der Berichterstattung im Sinne von Art. 47 RPV dar:
 
-- Bundesgesetz über den Schutz der Gewässer (GSchG) vom 24. Januar 1991, SR 814.20
+- Lage und Dimensionen der Windenergieanlage sowie der dazugehörigen Nebenanlagen (Zufahrtswege; Leitungen; Erschliessungspisten; Installationsplätze; Bauten zu Informationszwecken);
 
-- Bundesgesetz über die Fischerei (BGF) vom 21. Juni 1991, SR 923.0
+- Nutzungsart (weitere Zone nach Art. 18 RPG; überlagerte «Zone für Windenergieanlagen» oder ähnlich);
 
-- Bundesgesetz über die Nutzbarmachung der Wasserkräfte (WRG) vom 22. Dezember 1916
+- Gestaltung der Bauten und Anlagen (Farbgebung; Glanz; Befeuerung; Massnahmen zur Reduktion der Sichtbarkeit);
 
-- Kantonales Amt für Umweltschutz Kt. Glarus (1996): Verzeichnis der Wasserentnahmen im Kanton
+- Empfindlichkeitsstufe nach Lärmschutzverordnung;
 
-E - 17
+- Strassenerschliessung für Bau und Betrieb.
 
-**Nr. E2-5/1**
+Im Rahmen der Baubewilligung regelt die Gemeinde:
 
-### Abstimmungsanweisung
+- ökologische Ausgleichs- und Ersatzmassnahmen nach NHG.
 
-Der Kanton Glarus bezeichnet Gebiete, in denen aus Gründen des Landschafts- und Naturschutzes a) keine neuen Wasserkraftwerke möglich sind (Ausschlussgebiete) und b) nur dann neue Wasserfassungen für Wasserkraftwerke erstellt werden können, wenn eine gute Bewertung in einer Nachhaltigkeitsbeurteilung vorliegt, der Eingriff als klein bezeichnet werden kann und das Schutzziel der entsprechenden Zone nicht wesentlich beeinträchtigt wird. Diese Gebiete werden im Richtplan eingetragen und als Vorranggebiete Natur- und Landschaftsschutz bezeichnet.
+- flankierende Massnahmen (z.B. allfällige Betriebseinschränkungen; Umweltbaubegleitung; Besucherlenkung).
 
-Das Ausschlussgebiet beinhaltet grundsätzlich folgende Teilgebiete:
+- Schutzmassnahmen nach GSchG, JSG, NHG, USG, WaG.
 
-- Hochmoore und Flachmoore von nationaler Bedeutung
+- den Rückbau Windenergieanlagen und Nebenanlagen inkl. Finanzierung;
 
-- Moorlandschaften von nationaler Bedeutung
+- Wiederaufforstung und Regelung Rekultivierung nach Rückbau.
 
-- Auengebiete von nationaler Bedeutung
+E2.6-C/3
 
-- Amphibienlaichgebiete von nationaler Bedeutung.
+Das Leitverfahren für die Umweltverträglichkeitsprüfung sowie für allfällige Rodungsverfahren ist das Nutzungsplanverfahren. Im Rahmen der Hauptuntersuchung der Umweltverträglichkeitsprüfung sind grundsätzlich sämtliche umweltrelevanten Auswirkungen des Vorhabens abschliessend aufzuzeigen. Federführung: Gemeinde D
 
-Im Weiteren gilt dies auch für Gewässerstrecken, die durch eine rechtskräftige Schutz- und Nutzungsplanung (SNP) mit einem Nutzungsverzicht belegt sind.
+**Objekte**
 
-Das Vorranggebiet Natur- und Landschaftsschutz beinhaltet grundsätzlich folgende Teilgebiete:
+Standort für Windenergieanlagen
 
-- Perimeter UNESCO Weltnaturerbe "Tektonikarena Sardona"
+**Gemeinde Standort / Gebiet Bemerkung / Hinweis KS**
 
-- Landschaftsschutzgebiete von nationaler Bedeutung
+Objekt-Nr.
 
-- Landschaftsschutzgebiete von regionaler Bedeutung.
+E2.4.01 E Erläuterungen / Grundlagen
 
-Im Ausschlussgebiet für neue Wasserkraftanlagen gilt zusätzlich die folgende Festlegung:
+Siehe Erläuterungsbericht
 
-- Bei Wasserfassungen für Wasserkraftanlagen mit bestehenden Konzessionen darf bei Umbauten oder bei Konzessionserneuerungen die Ausbauwassermenge nicht erhöht und die Restwassermenge nicht reduziert werden.
+Grundlagen:
 
-Im Vorranggebiet Natur- und Landschaftsschutz gilt zusätzlich die folgende Festlegung:
+- Konzept Windenergie, ARE, 28. Juni 2017
 
-- Bei Wasserfassungen für Wasserkraftanlagen mit bestehenden Konzessionen darf bei Umbauten oder bei Konzessionserneuerungen die Ausbauwassermenge nicht erhöht und die Restwassermenge nicht reduziert werden, falls nicht eine gute Bewertung in einer Nachhaltigkeitsbeurteilung vorliegt, der Eingriff als klein bezeichnet werden kann und das Schutzziel der entsprechenden Zone nicht wesentlich beeinträchtigt wird. Der Kanton Glarus legt die Anforderungen und das einzuhaltende Verfahren für die Bewertung fest.
+### E3 Mobilfunkanlagen
 
-Anlagen zur Selbstversorgung von Hütten (Alphütten, Skihütten, etc.) ohne Netzanschluss von maximal 10 kW Leistung sind in allen Gebieten weiterhin zulässig.
+A Ausgangslage
 
-**Termine / Verfahren**
+Mobilfunkanlagen gehören zur Siedlungsinfrastruktur und sind grundsätzlich im Baugebiet unterzubringen. Die Gemeinden haben bei der Ausscheidung von Bauzonen die Verordnung über den Schutz vor nichtionisierender Strahlung (NISV) zu beachten.
 
-### Abstimmungsstand Zuständigkeit
+B Richtungsweisende Festlegungen / Beschluss
 
-Festsetzung Departement Bau und Umwelt, Abteilung Um- Raumwirksame Tätigkeiten weltschutz und Energie
+E3-B/1 Mobilfunkversorgung
 
-**Konzessionsverfahren**
+- Der Kanton koordiniert die räumliche Verteilung von Sende-, Empfangs- und Übertragungsanlagen. Er ersucht die Konzessionäre um eine Koordination untereinander zwecks Minimierung der Auswirkungen auf das Orts- und Landschaftsbild (Mitbenutzung bestehender Anlagen durch mehrere Betreiber).
 
-### Verweis auf massgebliche Grundlagen
+E3-B/2 Ausbau Mobilfunkanlagen
 
-- BAFU, BFE, ARE: Empfehlung zur Erarbeitung kantonaler Schutz- und Nutzungsstrategien im Bereich Kleinwasserkraftwerke; Bern, 2011
+- Bei der Planung von Mobilfunkanlagen sind folgende Grundsätze zu berücksichtigen:
 
-E - 18
+- Sicherung Rückbau durch die Betreiber bei allfälliger Nutzungsaufgabe
 
-**Nr. E2-5/2**
+- Optimierung des Standorts hinsichtlich der Auswirkungen auf das Orts-und Landschaftsbild (Alternativen aufzeigen, bedarfsweise mit Visualisierungen)
 
-### Abstimmungsanweisung
+- Bevorzugung von mehreren kleinen Anlagen im Siedlungsgebiet gegenüber wenigen grossen Antennen im Siedlungsgebiet.
 
-Der Kanton Glarus bestimmt die einzuhaltenden Anforderungen an Wasserfassungen an der Linth und am Sernf, um die Schutzziele bezüglich Landschaft, Lebensraum und Biodiversität, speziell der Fischfauna, sicherzustellen.
+C Handlungsanweisungen
 
-Folgende Festlegungen sind für die Erteilung von Konzessionen für Wasserkraftanlagen und insbesondere für die Nutzung neuer Wasserstrecken an der Linth und am Sernf anzuwenden:
+E3-C/1
 
-- Bei neuen Kraftwerken und Ausbauten bestehender Kraftwerke an der Linth und am Sernf werden erheblich höhere Restwassermengen verlangt als die Mindestrestwassermenge nach dem Gewässerschutzgesetz
+Die Gemeinden berücksichtigen bei der Erteilung von Baubewilligungen für Mobilfunkanlagen die Grundsätze gemäss kantonalem Richtplan.
 
-- Der Kanton Glarus legt die Anforderungen und das einzuhaltende Verfahren fest.
+Federführung: Gemeinde
 
-Der Kanton Glarus erstellt für die anstehenden Projekte im Rahmen des Bewilligungsverfahrens und für die übrigen Wasserstrecken innert 3 Jahren nach Inkrafttreten des Richtplans eine Übersicht über die Anforderungen an die Wasserkraftnutzung an Linth und Sernf. Diese Übersicht gibt Auskunft über die Anforderungen an die Restwassermengen bei Neukonzessionen oder Konzessionserneuerungen. Für die Festlegung der einzuhaltenden Restwassermengen erfolgt die Beurteilung und Bewertung des Zustandes des Fliessgewässers anhand des Modul-Stufenkonzeptes des BAFU. Dabei kann unterschieden werden zwischen:
+D Objekte
 
-- Ohne weitere Auflagen zulässige Restwassermengen
+Keine
 
-- Zulässige Restwassermenge für den Fall dass die umweltrechtlichen Auflagen mittels geeigneter Massnahmen ausgeglichen werden
+E Erläuterungen / Grundlagen
 
-- Zwingende Minimalanforderung an die Restwassermenge.
+Keine
 
-Diese Übersicht dient dem Kanton als Richtlinie für die Festlegung der Anforderungen im Konzessionsverfahren.
+### E4 Abfallwesen und Deponien
 
-**Termine / Verfahren**
+A Ausgangslage
 
-### Abstimmungsstand Zuständigkeit
+Der Kanton ist gemäss Art. 4 der eidgenössischen Abfallverordnung (VVEA) verpflichtet, eine Abfallplanung zu erstellen. Darin sind der künftige Bedarf an Anlagen zur Entsorgung von Siedlungsabfällen und anderen Abfällen sowie der Bedarf an Deponievolumen aufzuzeigen. Ebenso sind die Standorte von Deponien zu planen. Die vorgesehenen Standorte von Deponien sind gemäss Art. 5 VVEA in der Richtplanung auszuweisen. In der Abfallverordnung wird in Abhängigkeit der Abfallart zwischen verschiedenen Typen von Deponien unterschieden:
 
-Festsetzung Departement Bau und Umwelt, Abteilung Um- Erstellen der Übersicht der Anforweltschutz und Energie ten des Richtplans Raumwirksame Tätigkeiten Konzessionsverfahren
+- Deponien Typ A: Unverschmutztes Aushub- und Ausbruchmaterial
 
-**derungen: 3 Jahre nach Inkrafttre-**
+- Deponien Typ B: Inertstoffe (Glas, Beton, Ziegel u.a.)
 
-E - 19
+- Deponien Typ C: Schlacke aus der Kehrichtverbrennung, Material aus Altlastensanierung u.a.
 
-### E3 Abfallbewirtschaftung
+Der Kanton Glarus verfügt über keine Deponie des Typs C. Die in der Kehrichtverbrennungsanlage anfallende Schlacke wird derzeit im Rahmen eines langjährigen Vertrages in der Deponie Attinghausen (Kanton Uri) entsorgt. Der Kehrichtzweckverband ist an der Projektierung einer Schlackendeponie im Kanton Schwyz (Tuggen) beteiligt.
 
-### E3-1 Abfallplanung
+Auf Richtplanebene besteht somit kein Handlungsbedarf.
 
-### Richtplanaufgabe
+Im Bereich der Typ-B Materialien besteht für die nächsten 25 Jahre kein Handlungsbedarf. In der im Richtplan festgelegten Deponie Ardega unterhalb von Filzbach wird ein Kompartiment von 200 000 m<sup>3</sup> für den Kanton Glarus reserviert.
 
-Der Kanton ist verpflichtet, die vorgesehenen Standorte der wichtigsten Abfallanlagen insbesondere der Deponien in der Richtplanung auszuweisen und die erforderlichen Nutzungszonen auszuweisen. Zudem ist die Abfallwirtschaft des Kantons weiter zu optimieren.
+Handlungsbedarf besteht beim Typ A. Die Menge an abzulagerndem Aushub ist abhängig von einzelnen Bauvorhaben und von der Sicherstellung eines haushälterischen Umgangs mit mineralischen Abfällen und Aushub. Im Sinne einer lokalen Entsorgung dieses Materials muss jede Gemeinde mindestens einen Standort des Typs A aufweisen.
 
-### Problemstellung / Ausgangslage
+B Richtungsweisende Festlegungen
 
-Der Kanton ist gemäss Art. 31 USG verpflichtet, eine Abfallplanung zur erstellen und damit den künftigen Bedarf und die dafür notwendigen Entsorgungsanlagen festzulegen. Das erste Abfallkonzept des Kantons stammt aus dem Jahr 1989. Darin formulierte der Landrat 24 Massnahmen. 1996 publizierte das Amt für Umweltschutz eine Abfallplanung, in der u.a. eine Erfolgskontrolle der Massnahmen von 1989 vorgenommen wurde. Die Bilanz war äusserst positiv: nur eine der 24 Massnahmen war nicht erfüllt worden. 1992 erfolgte eine weitere Deponieplanung und 1995 wurde die Klärschlammplanung formuliert.
+E4-B/1 Abfall- und Deponieplanung
 
-Mit der Abfallplanung 1996 wurde die Abfallplanung von 1989 mit den Teilbereichen Deponie und Klärschlamm ergänzt und an die Technische Verordnung über Abfälle (TVA) angepasst.
+- Der Kanton legt die vorgesehenen Standorte von Deponien in der Richtplanung fest. Er koordiniert seine Abfallplanung mit den Nachbarkantonen.
 
-Im Jahre 2002 wurde die Abfallplanung vom Landrat erneut verabschiedet, wobei 8 Massnahmen als erledigt abgeschrieben werden konnten und 5 neue beschlossen worden sind.
+- Für die Ablagerung von Materialien des Typs A wird mindestens ein Standort pro Gemeinde festgelegt. Für die Ablagerung von Materialien des Typs B genügt ein Standort im Kanton.
 
-Im Kanton Glarus befindet sich eine Abfallanlage, die Kehrrichtverbrennungsanlage Niederurnen. Es ist zurzeit keine neue Anlage geplant.
+- Die Abfallbewirtschaftung des Kantons wird laufend optimiert.
 
-### Richtungsweisende Festlegungen
+C Handlungsanweisungen
 
-- 1\. Der Kanton erstellt eine Abfallplanung, vermeidet Überkapazitäten und legt darin den künftigen Bedarf und die dafür notwendigen Entsorgungsanlagen fest.
+E4-C/1
 
-- 2\. Gemäss Art. 16 der TVA ist der Kanton verpflichtet, die Abfallplanung periodisch nachzuführen. Die Abfallbewirtschaftung des Kantons ist darin weiter zu optimieren.
+Der Kanton erstellt eine Abfallplanung gemäss Art. 4 der Abfallverordnung.
 
-### Verweis auf massgebliche Grundlagen
+Bei der Planung von Deponiestandorten berücksichtigt er die regionale Entsorgung (Vermeidung langer Transportwege), die Interessen von Natur- und Landschaftsschutz sowie von Wald und Landwirtschaft.
 
-- Bundesgesetz über den Umweltschutz (USG) vom 7. Oktober 1983, Art. 31
+Federführung: Dep. Bau und Umwelt, Abt. Umweltschutz und Energie
 
-- Technische Verordnung über Abfälle (TVA) vom 10. Dezember 1990
+D Objekte
 
-E - 20
+**KS\***
 
-### E3-2 Deponien
+Objekt-Nr. Gemeinde Standort / Gebiet Bemerkung / Hinweis
 
-### Richtplanaufgabe
+**FS FS FS FS**
 
-Der Kanton ist für die Deponieplanung zuständig. Die Standorte der Deponien sind im Richtplan auszuweisen.
+E4.01 Glarus Nord Ardega Typ A / Typ B E4.02 Glarus Nord Krähberg Typ A E4.03 Glarus Allmeind Typ A E4.04 Glarus Mettlen Typ A Typ A; nutzungsplanerisch nicht fest-E4.05 Glarus Süd Däniberg gelegt Typ A; nutzungsplanerisch nicht fest-E4.06 Glarus Süd Erbs gelegt
 
-### Problemstellung / Ausgangslage
+**ZE**
 
-Gemäss Art. 53a der Technischen Verordnung über Abfälle (TVA) darf die Ablagerung von brennbaren Siedlungsabfällen ab dem 1.1.2000 nicht mehr bewilligt werden. Da zudem die Schlacke der KVA Niederurnen in die Deponien Zingel SZ und Plaun Grond GR geführt wird, ist ein Standort für eine Reaktordeponie auf glarnerischem Gebiet nicht geplant.
+**ZE**
 
-Zur Ablagerung von Inertstoffen dient die Deponie Gäsi, die 1999 erweitert wurde. Seit dem 1. März 1996 sind neben der Deponie Gäsi keine weiteren Inertstoffdeponien mehr in Betrieb.
+\*als Festsetzung bezeichnet werden in diesem Fall Objekte, die in der Nutzungsplanung bereits umgesetzt sind.
 
-Im Raum Glarus und im Hinterland besteht ein Bedarf für die Ablagerung von Runsenmaterial. Soweit dieses Material nicht verwertet werden kann, wird es auf der Inertstoffdeponie abgelagert. Ein weiterer Bedarf für Inertstoffdeponien besteht vorläufig nicht. Das Runsenmaterial wird falls immer möglich verwertet und nicht in der Inertstoffdeponie entsorgt.
+E Erläuterungen / Grundlagen
 
-Eine Reaktordeponie ist vor allem für die KVA Niederurnen notwendig. Zurzeit wird die Schlacke der KVA in Deponien in den Kantonen Schwyz, Uri und Graubünden abgelagert. Die Ablagerung im Kanton Graubünden wird beendet sein, sobald der Vertrag in frühestens zwölf Jahren abläuft. Ein neuer Standort für eine Schlackendeponie ist in Ausserschwyz (Raum Tuggen) mit Betriebsbeginn in ca. 15 Jahren geplant.
+Siehe Erläuterungsbericht
 
-Mit den Kantonen Uri, Schwyz, St.Gallen und Graubünden besteht ein Koordinationsbedarf betreffend Standorte von Reaktordeponien.
+Grundlagen:
 
-### Richtungsweisende Festlegungen
+- Abfall- und Deponieplanung Kanton Glarus, Regierungsrat, 16. Januar 2018
 
-- 1\. Für den Deponie- bzw. Ablagerungsbedarf sind geeignete Gebiete zu bezeichnen. Dabei gilt es, die regionale Entsorgung, die Interessen von Natur- und Landschafts-, Grundwasser- und Umweltschutz sowie von Wald und Landwirtschaft zu berücksichtigen.
+### E5 Abbau mineralischer Rohstoffe
 
-- 2\. Der Kanton Glarus koordiniert mit den Nachbarkantonen die Standortplanung für eine neue Reaktordeponie.
+A Ausgangslage
 
-E - 21
+Im Kanton Glarus werden verschiedene mineralische Rohstoffe abgebaut. In Netstal liegt die einzige Kalkfabrik der Schweiz, welche den überwiegenden Anteil des schweizerischen Bedarfes nach Kalkprodukten deckt. Daneben werden verschiedenste Körnungen wie Blocksteine, Schotter, Betonkies, Belagskies, Sand und anderes hergestellt und im Kanton Glarus und den angrenzenden Gebieten verkauft. Der Abbau mineralischer Rohstoffe ist meistens mit erheblichen Auswirkungen auf die Umwelt, Landschaft und den Raum verbunden.
 
-### E3-3 Altlasten
+Die gut nutzbaren Rohstoffvorkommen sind begrenzt und standortgebunden. Im Sinne einer nachhaltigen Rohstoffnutzung ist mit dem Abbau haushälterisch umzugehen und mineralische Abfälle müssen soweit sinnvoll rezykliert werden. Abbaustellen sind, wenn immer möglich zur Ablagerung von unverschmutztem Aushub (Typ A Material) zu nutzen.
 
-### Richtplanaufgabe
+Im Kanton Glarus bestehen mit den Standorten Haltengut (Mollis) und Kalkfabrik (Netstal) zwei grössere Abbaugebiete. Beide Standorte verfügen über bewilligte Reserven von mehreren Jahren Abbauzeit. Daneben wird auch Material aus Gewässern wie im Tierfehd (Linthal), im Wyden (Schwanden) und bei der Mündung des Escherkanals in den Walensee entnommen. Im Zuge der Sanierung des Geschiebehaushaltes müssen diese Flussentnahmen überprüft werden.
 
-Altlasten sind mit Schadstoffen belastete Standorte, welche zu Schädigungen der Umwelt führen können. Altlasten sind sanierungspflichtig.
+B Richtungsweisende Festlegungen / Beschluss
 
-### Problemstellung / Ausgangslage
+E5-B/1 Materialabbau
 
-Der Kanton (Abteilung Umweltschutz und Energie) erfasst sämtliche Altlasten systematisch im Kataster der belasteten Standorte und führt diesen laufend nach. Für Vorhaben auf belasteten Standorten sind von den Gemeinden vorgängige Untersuchungen anzuordnen. Im Rahmen des Bewilligungsverfahrens sind allfällige Sanierungsmassnahmen anzuordnen.
+- Der Kanton strebt einen haushälterischen Umgang mit mineralischen Rohstoffen an. Er legt die bestehenden sowie künftig vorgesehenen Standorte für den Materialabbau in der Richtplanung fest und bemüht sich um das Recycling mineralischer Abfälle.
 
-Bei Bauvorhaben, die sich auf belastete Standorte auswirken, verlangt die Altlastenverordnung (AltlV) den Nachweis, dass die belasteten Standorte nicht sanierungsbedürftig sind oder die Vorhaben eine spätere Sanierung nicht wesentlich erschweren oder dass die Standorte gleichzeitig saniert werden.
+E5-B/2 Interessenabwägung Materialabbau
 
-**Nr. E3-3/1**
+- Die Planung neuer Abbaustandorte sowie die Erweiterung bestehender Abbaustandorte erfolgt unter sorgfältiger Abwägung von Schutz- und Nutzungsinteressen. Bestandteil der Planung ist eine Endgestaltung (Rekultivierung, Etappierung) der Abbaustandorte.
 
-### Abstimmungsanweisung
+C Handlungsanweisungen
 
-Die Gemeinden haben bei Bauvorhaben im Rahmen des Bewilligungsverfahrens den Kataster der belasteten Standorte bei der Abteilung Umweltschutz und Energie einzusehen und die notwendigen Untersuchungs- und Sanierungsmassnahmen zum Schutz der Umwelt anzuordnen.
+E5-C/1
 
-**Termine / Verfahren**
+Der Kanton erarbeitet ein Abbaukonzept und passt es regelmässig an.
 
-### Abstimmungsstand Zuständigkeit
+Federführung: Dep. Bau und Umwelt, Abt. Umweltschutz und Energie E5-C/2
 
-Festsetzung Departement Bau und Umwelt, Abteilung Um- Baubewilligungsverfahren weltschutz und Energie alle Gemeinden
+Die Gemeinden legen die Abbaugebiete in ihrer Nutzungsplanung fest. Bei Erweiterungen sowie Änderungen bestehender Abbaugebiete erfolgt die Interessenabwägung und räumliche Abstimmung im Rahmen der Nutzungsplanung.
 
-### Verweis auf massgebliche Grundlagen
+Federführung: Gemeinde
 
-- Altlasten-Verordnung (AltlV) Art. 2 und Art. 3 vom 26. August 1998
+D Objekte
 
-- Umweltschutzgesetz (USG) Art. 32 c Abs. 2 vom 7. Oktober 1983
+**KS**
 
-E - 22
+Objekt-Nr. Gemeinde Standort / Gebiet Bemerkung / Hinweis
 
-### E4 Abbau von Steinen und Erden
+**ZE**
 
-### E4-1 Versorgung mit Steinen und Erden
+E5.01 Glarus Nord Haltengut, Mollis Erweiterung geplant Kiesentnahme E5.02 Glarus Nord --- Gäsi Erweiterungen Elggis Süd und Grün-E5.03 Glarus Kalkfabrik Netstal den im Rahmen der Gesamtrevision FS der Nutzungsplanung Glarus E5.04 Glarus Süd Matt / Bitzi ---
 
-### Richtplanaufgabe
+**FS**
 
-Die Selbstversorgung mit Rohstoffen ist so weit wie möglich und unter Berücksichtigung von Nutz- und Schutzinteressen für die nächsten 40-50 Jahre sicherzustellen.
+**FS**
 
-### Problemstellung / Ausgangslage
+E Erläuterungen / Grundlagen
 
-Der Kanton Glarus ist reich an Gesteinsvorkommen. Diese kommen vorwiegend in Form von Fels, Gehängeschutt, Bach- und Runsenschutt oder Flusskies vor. Grosse Mengen an Flusskies verfrachtet der Flusslauf der Linth in das Mündungsdelta zum Walensee. Dort befindet sich das Werk der Kiesentnahme Linth.
+Siehe Erläuterungsbericht
 
-Die Bedarfsdeckung bei den Baustoffen im Kanton Glarus geschieht heute zu etwa 85% aus einheimischen und zu 15% aus zugeführten Rohstoffen. Gleichzeitig werden Baustoffe exportiert. Für die Bereitstellung aller notwendigen Produkte in der erforderlichen Menge ist ein überkantonaler Austausch notwendig. So sind etwa Vorkommen an hochwertigem Kies für die Betonherstellung nur spärlich vorhanden. Die Kapazitäten der verschiedenen Veredelungsbetriebe decken den Eigenbedarf mühelos. Dabei hat die Wiederverwertung von Sekundärrohstoffen mittels Recycling eine beachtliche Bedeutung erlangt.
+Grundlagen:
 
-Der zukünftige Bedarf wird wie bis anhin durch den Abbau in den grösseren und kleineren Steinbrüchen, durch den Abbau in Bächen, Flüssen, Seen und Runsen, durch den ausserordentlichen Abbau von Fels und Lockermaterial (Bergsturzmaterial) sowie durch Recycling gedeckt. Gemäss Abbaukonzept wird sich der heutige Bruttoselbstversorgungsgrad von 125% auch in Zukunft halten können, sollte aber aus Gründen der nachhaltigen Reservenbewirtschaftung und der Landschaftseingriffe nicht weiter erhöht werden. Die Zufuhr gewisser Baustoffqualitäten, wie hochwertigen Kieses, wird weiterhin notwendig sein.
+- Abbaukonzept Kanton Glarus, in Überarbeitung (Regierungsrat, Nov. 2018)
 
-Im Kanton Glarus bestehen folgende grösseren Abbaugebiete:
+### E6 Schiessanlagen E6.1 Militärische Schiessanlagen
 
-- Haltengut Mollis
+A Ausgangslage
 
-- Kalkfabrik Netstal
+Im Sachplan Militär vom 8. Dezember 2017 sieht der Bund die Nutzung der zwei Schiessplätze Walenberg (Mollis) und Wichlen (Elm) vor. Bei diesen Anlagen wird die militärische Nutzung im bisherigen Rahmen weitergeführt. In den militärisch genutzten Gebieten ist eine beschränkte Nutzung für Forst-, Alp- und Landwirtschaft sowie der Wander- und Landesfusswege möglich.
 
-- Kiesentnahme Linth
+B Richtungsweisende Festlegungen / Beschluss
 
-- Bitzi, Matt.
+E6.1-B/1 Militärische Anlagen
 
-Es sind keine weiteren grösseren Standorte geplant.
+- Der Kanton stimmt seine Planungsinstrumente mit dem Sachplan Waffen- und Schiessplätze sowie dem Sachplan Militär ab.
 
-Die Kalkfabrik Netstal AG beabsichtigt zur langfristigen Sicherung der Rohstoffreserven eine Erweiterung des bestehenden Abbaugebiets Elggis und eine Neuerschliessung des Gebiets Gründen. Die
+C Handlungsanweisungen
 
-### Dimensionierung und räumliche Ausdehnung wird im Rahmen der weiteren Planungsschritte be-
+Keine
 
-stimmt.
+D Objekte
 
-Die heutige Kiesentnahme im Linthdelta soll aus dem unmittelbaren Deltabereich flussaufwärts verschoben werden. Der neue Standort wird im Rahmen der Nutzungsplanung der Gemeinde Glarus Nord festgelegt.
+**KS**
 
-E - 23
+Objekt-Nr. Gemeinde Standort / Gebiet Bemerkung / Hinweis
 
-### Richtungsweisende Festlegungen
+**FS FS**
 
-- 1\. Die Materialressourcen sind unter den verschiedenen Aspekten von Raumplanung, Umweltschutz, Regionalwirtschaft und Ver- und Entsorgung zu koordinieren.
+E6.1.01 Glarus Nord Walenberg Mollis --- E6.1.02 Glarus Süd Wichlen Elm ---
 
-- 2\. Bei der Planung von neuen Abbaustandorten resp. von Erweiterungen bestehender Abbaustandorte sind die Nutz- und Schutzinteressen aufeinander abzustimmen. Lange Transportdistanzen und die damit verbundenen Emissionen sind zu vermeiden. Geeignete Rekultivierungsmassnahmen sind bereits in der Planungsphase zu formulieren.
+E Erläuterungen / Grundlagen
 
-- 3\. Die Erhaltung von nicht mehr genutzten Abbaustellen als Biotope oder Geotope ist zu fördern.
+Grundlagen - Sachplan Militär 2017, Programmteil, VBS, 8. Dezember 2017
 
-- 4\. Die Planung von neuen Abbaugebieten oder Erweiterungen bestehender Vorhaben müssen im Richtplan ausgewiesen werden.
+### E6.2 Zivile Schiessanlagen
 
-**Nr. E4-1/1**
+A Ausgangslage
 
-### Abstimmungsanweisung
+Das Schiesswesen in der Schweiz hat eine lange Tradition, die historisch in der engen Verbindung mit dem Milizsystem der Armee gründet. Aufgrund von Bundesvorgaben (vgl. Art. 3 Schiessanlagen-Verordnung) hat jede Gemeinde eine 300 Meter-Anlage zur Verfügung zu stellen oder den Zugang zu einer auswärtigen Anlage vertraglich sicherzustellen. Als Folge der Gemeindefusion ist die Zahl der notwendigen Anlagen gesunken. Die neuen Gemeinden haben bereits verschiedene Anlagen (Näfels, Netstal, Sool, Schwändi) stillgelegt.
 
-Die Gemeinden bezeichnen, wo dies noch nicht der Fall ist, in ihren Zonenplänen die bewilligten Abbaustandorte als Abbauzonen.
+Eine weitere Konzentration der Schiessanlagen ist aufgrund ihrer Umwelteinwirkungen (Lärm- und Bodenbelastung), ihres Flächenbedarfs aber auch aus betriebswirtschaftlichen Gründen anzustreben.
 
-**Termine / Verfahren**
+B Richtungsweisende Festlegungen / Beschluss
 
-### Abstimmungsstand Zuständigkeit
+E6.2-B/1 Zivile Schiessanlagen
 
-**Im Rahmen der nächsten Nut-**
+- Die zivilen Schiessaktivitäten werden auf wenige geeignete Standorte im Kanton reduziert. Langfristig ist pro Gemeinde ein Standort zu betreiben.
 
-Festsetzung Alle Gemeinden Departement Bau und Umwelt, Abteilung Um- zungsplanrevision weltschutz und Energie, Fachstelle Raumentwicklung
+C Handlungsanweisungen
 
-### Verweis auf massgebliche Grundlagen
+E6.2-C/1
 
-- Kant. Hoch- und Tiefbauamt / Amt für Umweltschutz Kt. Glarus (1992): Abbaukonzept für den Kanton Glarus
+Die Gemeinden legen den langfristig zu betreibenden Standort in ihrer Planung fest und sichern die räumlichen Voraussetzungen in der Ortsplanung.
 
-**Nr. E4-1/2**
+Federführung: Gemeinde
 
-### Abstimmungsanweisung
+D Objekte
 
-Erweiterungen bzw. Änderungen bestehender Abbaugebiete sind planungspflichtig. Die weitergehende Interessenabwägung und räumliche Abstimmung erfolgt im Rahmen der kommunalen Nutzungsplanungen.
+**KS**
 
-### Abstimmungsstand Zuständigkeit Termine / Verfahren
+Objekt-Nr. Gemeinde Standort / Gebiet Bemerkung / Hinweis
 
-Zwischenergebnis Gemeinden Kommunale Nutzungsplanung Departement Bau und Umwelt, Abteilung Genehmigung Nutzungsplanung / Fort-
+**ZE ZE ZE ZE ZE ZE ZE**
 
-Raumentwicklung und Geoinformation schreibung Richtplan
+E6.2.01 Glarus Nord Niederurnen --- E6.2.02 Glarus Nord Mollis (Feldbach) --- E6.2.03 Glarus Glarus (Allmeind) --- E6.2.04 Glarus Riedern (Schlettli) --- E6.2.05 Glarus Süd Schwanden (Matt) --- E6.2.06 Glarus Süd Linthal --- E6.2.07 Glarus Süd Elm (Wichlen) ---
 
-Departement Bau und Umwelt, Abteilung Abbauplanung
+E Erläuterungen / Grundlagen
 
-Umweltschutz und Energie
+Keine
 
-### Verweis auf massgebliche Grundlagen
+### E7 Technische Gefahren (Störfallvorsorge)
 
-E - 24
+A Ausgangslage
 
-### E5 Weitere Raumnutzungen
+Der Umgang mit chemischen Stoffen wie der Transport, die Lagerung oder die Verarbeitung ist für die Wirtschaft und die Gesellschaft notwendig, aber mit Risiken verbunden. Die Risiken können mit technischen Vorgaben reduziert werden, sind aber nicht vollständig eliminierbar. Unfälle mit erheblichen Auswirkungen auf die Bevölkerung und die Umwelt werden als Störfälle bezeichnet.
 
-### E5-1 Militärische Bauten und Anlagen
+Verkehrswege wie Eisenbahnlinien und Autobahnen sowie stationäre Betriebe wie Industrieanlagen unterstehen der Störfallverordnung. Die relevanten stationären Betriebe sind in einem Verzeichnis der Abteilung Umweltschutz und Energie aufgeführt.
 
-### Richtplanaufgabe
+Die massgebenden Gesetzesvorgaben verpflichten die Inhaber von stationären Anlagen und von Verkehrswegen, das Risiko ihrer Betriebe auf ein tragbares Mass zu reduzieren. Nutzungsänderungen im Bereich solcher Anlagen / Verkehrswege können bisher tragbare Risiken erhöhen, so dass sie nicht mehr tragbar sind.
 
-Der Kanton stimmt seine Planungsinstrumente mit denjenigen des Bundes, namentlich mit dem Sachplan Waffen- und Schiessplätze und dem Sachplan Militär, ab. Der Kanton erarbeitet zudem die Grundlagen für die Beurteilung von Umnutzungsgesuchen für ehemalige militärische Bauten und Anlagen.
+Im Rahmen der Raumplanung können Konflikte zwischen Störfallpotenzialen und umliegenden Nutzungen vorausschauend erkannt werden. Areale um bestehende Störfallpotenziale werden Konsultationsbereiche genannt (Art. 11a Störfallverordnung). Der Kanton bezeichnet für die massgeblichen Anlagen / Verkehrswege die Konsultationsbereiche.
 
-### Problemstellung / Ausgangslage
+B Richtungsweisende Festlegungen / Beschluss
 
-Im Sachplan Waffen- und Schiessplätze vom 19.8.1998 bestätigt der Bund die Nutzung von drei Schiessplätzen:
+E7-B/1 Störfallvorsorge
 
-- Schiessplatz Oberlängenegg: Gemeinden Näfels, Glarus
+- Innerhalb der Konsultationsbereiche berücksichtigen Gemeinden in ihren Planungen die Gefahrenpotenziale von Störfällen
 
-- Schiessplatz Walenberg: Mollis
+C Handlungsanweisungen
 
-- Schiessplatz Wichlen: Elm und die Nutzung des Militärflugplatzes Mollis. Bei diesen Anlagen wird die militärische Nutzung im bisherigen Rahmen weitergeführt. Allfällige Änderungen werden Gegenstand der Anpassung des Sachplans Militär im Rahmen der räumlichen Umsetzung von Armee XXI sein.
+E7-C/1
 
-Aufgrund der Armeereformen 95 und XXI werden viele militärische Anlagen nicht mehr gebraucht werden. Im Kanton Glarus besteht noch keine Übersicht, wie viele Anlagen von der Umstrukturierung der Armee betroffen sind und wo sie sich befinden.
+Der Kanton bezeichnet die Konsultationsbereiche entlang von Verkehrswegen und stationären Anlagen und überprüft diese regelmässig.
 
-In den militärisch genutzten Gebieten ist eine beschränkte Nutzung für Forst-, Alp- und Landwirtschaft sowie der Wander- und Landesfusswege möglich.
+Federführung: Dep. Bau und Umwelt, Abt. Umweltschutz und Energie
 
-**Nr. E5-1/1**
+D Objekte
 
-### Abstimmungsanweisung
+Keine
 
-Der Kanton erarbeitet in Zusammenarbeit mit der zuständigen Stelle des Eidg. Departements für Verteidigung, Bevölkerungsschutz und Sport (VBS) ein Inventar der militärischen Bauten und Anlagen, welche von der Armee nicht mehr genutzt werden und formuliert Massnahmen zu deren Handhabung und allfälligen weiteren Nutzung. Bis zum Vorliegen dieses Inventars sind Umnutzungen unter der Voraussetzung einer militärischen und raumplanerischen Begründung und in Abstimmung mit dem kantonalen Richtplan und den kommunalen Nutzungsplänen im Rahmen der massgeblichen rechtlichen Anforderungen an die Umnutzung bestehender Bauten im Einzelfall möglich.
+E Erläuterungen / Grundlagen
 
-Nach Vorliegen des Inventars und des Massnahmenplans beschliesst der Regierungsrat im Rahmen der Fortschreibung des Richtplans die Festsetzung. Nach der Festsetzung des Inventars und Massnahmenplans durch den Regierungsrat dienen diese Grundlagen zur Beurteilung im Rahmen von Baubewilligungsverfahren.
-
-**Termine / Verfahren**
-
-### Abstimmungsstand Zuständigkeit
-
-**Erstellung Inventar und Massnahmenplan: 5 Jahre nach Inkraft-**
-
-Zwischenergebnis Departement Bau und Umwelt, Fachstelle Raumentwicklung treten des kantonalen Richtplans
-
-### Verweis auf massgebliche Grundlagen
-
-- Sachplan Waffen- und Schiessplätze (SWS) vom 19. August 1998 mit Anpassungen (1999, 2000)
-
-- Sachplan Militär (SPM) - Grundsätze, Militärflugplätze, Übersetzstellen, Anpassung 2001 des Sachplans Waffen- und Schiessplätze, 28.2.2001
-
-E - 25
-
-### E5-2 300-Meter-Schiessanlagen von regionaler Bedeutung
-
-### Richtplanaufgabe
-
-Der Bedarf und die Kapazitäten im Bereich des ausserdienstlichen Schiesswesens auf 300-Meter-Schiessanlagen sollen aufeinander abgestimmt werden.
-
-### Problemstellung / Ausgangslage
-
-Im Rahmen der LSV (Lärmschutzverordnung) müssen viele Anlagen, die übermässige Lärmbelastungen verursachen, saniert werden. Da sich dies wegen der geringen Ausnützung in vielen Fällen nicht lohnt, drängt sich ein Zusammenschluss von mehreren Anlagen zu so genannten Gemeinschaftsschiessanlagen auf.
-
-Zu Lärmschutz und Lärm von Schiessanlagen siehe auch Kap. S3-1 und S3-2.
-
-**Nr. E5-2/1**
-
-### Abstimmungsanweisung
-
-Folgende 300-Meter-Schiessanlagen werden als Anlagen von regionaler Bedeutung in den Richtplan aufgenommen:
-
-- Gemeinde Mollis: 300-Meter-Anlage Feldbach
-
-- Gemeinde Glarus: 300-Meter-Anlage Allmeind
-
-- Gemeinde Schwanden: 300-Meter-Anlage Matt
-
-- Gemeinde Linthal: 300-Meter-Anlage Rubschen
-
-**Termine / Verfahren**
-
-### Abstimmungsstand Zuständigkeit
-
-Festsetzung Departement Bau und Umwelt, Fachstelle Raumentwicklung
-
-### Verweis auf massgebliche Grundlagen
-
-- Direktion für Landwirtschaft, Wald und Umwelt (1999): Konzept 300-Meter-Schiessanlagen 2002
-
-- Regierungsratsbeschluss vom 31. August 1999 (§608) betreffend Sachplan und Konzept 300-Meter-Schiessanlagen 2002
-
-- Regierungsratsbeschluss vom 23. März 1999 (§214) betreffend Richtlinie über Beiträge an 300-Meter-Schiessanlagen
-
-- Rechtskräftige Entscheide der Direktion Landwirtschaft, Wald und Umwelt betreffend die Lärmsanierung der 300-Meter-Anlagen in Elm, Matt, Engi, Rüti, Diesbach, Hätzingen, Luchsingen, Haslen, Schwanden, Mollis, Näfels, Niederurnen, Bilten
-
-**Nr. E5-2/2**
-
-### Abstimmungsanweisung
-
-Den Gemeinden Rüti, Betschwanden, Luchsingen, Leuggelbach und Haslen ist es freigestellt, ob sie sich an die Anlagen Linthal oder Schwanden anschliessen wollen oder ob sie eine alternative Lösung suchen. Die Koordination und Umsetzung ist Sache der Gemeinden.
-
-**Termine / Verfahren**
-
-### Abstimmungsstand Zuständigkeit
-
-**Sofort nach Inkrafttreten des kantonalen Richtplans**
-
-Vororientierung Gemeinden Betschwanden, Rüti, Haslen, Leuggelbach, Luchsingen
-
-E - 26
-
-**Nr. E5-2/3**
-
-### Abstimmungsanweisung
-
-Die Gemeinden im Sernftal (Engi, Matt und Elm) suchen eine gemeinsame Lösung für eine regionale 300- Meter-Schiessanlage.
-
-**Termine / Verfahren**
-
-### Abstimmungsstand Zuständigkeit
-
-**Sofort nach Inkrafttreten des kan-**
-
-Vororientierung Gemeinden Elm, Engi, Matt tonalen Richtplans
-
-E - 27
-
-### E5-3 Mobilfunk-Basisstationen
-
-### Richtplanaufgabe
-
-Der Kanton koordiniert die räumliche Verteilung von Sende-, Empfangs- und Übertragungsanlagen und stimmt sie auf die Bedürfnisse des Natur-, Landschafts- und Ortsbildschutzes ab.
-
-### Problemstellung / Ausgangslage
-
-Mit der Liberalisierung der Telekommunikation stellt sich das Problem, dass mehrere Konzessionäre parallel Antennen-Netze für Mobilfunk-Basisstationen aufbauen. Mobilfunkantennen gehören zur Siedlungsinfrastruktur und sind daher grundsätzlich im Baugebiet unterzubringen. Die Gemeinden haben bei der Ausscheidung von Bauzonen die Verordnung über den Schutz vor nichtionisierender Strahlung (NISV) zu beachten. Antennen im Nichtsiedlungsgebiet sind auch aus der Sicht des Natur- und Landschaftsschutzes sowie des Heimatschutzes problematisch.
-
-**Nr. E5-3/1**
-
-### Abstimmungsanweisung
-
-Der Kanton koordiniert die Standorte der Mobilfunk-Basisstationen. Zu diesem Zweck:
-
-- erstellt er einen Leitfaden zur Errichtung von Mobilfunk-Basisstationen
-
-- erstellt er eine Liste mit den bereits erstellten sowie den geplanten Mobilfunk-Basisstationen
-
-- ersucht er die gesuchstellenden Konzessionäre um eine Koordination untereinander zwecks Ausschöpfung der Mitbenutzung von bereits bestehenden Mobilfunk-Basisstationen.
-
-**Termine / Verfahren**
-
-### Abstimmungsstand Zuständigkeit
-
-Zwischenergebnis Departement Bau und Umwelt, Abteilung Um- Sofort nach Inkrafttreten des weltschutz und Energie (Liste), Fachstelle Raumentwicklung (Leitfaden, Koordination)
-
-**Richtplanes**
-
-**Nr. E5-3/2**
-
-### Abstimmungsanweisung
-
-Bis der Leitfaden zur Errichtung von Mobilfunk-Basisstationen erstellt ist, beachten die Gemeinden bei der Erteilung von Baubewilligungen folgende Punkte:
-
-- Verpflichtung der Betreiber von Mobilfunk-Basisstationen zum allfälligen Antennenrückbau im Falle einer Nichtmehrbenutzung.
-
-- Vermeidung von freistehenden Antennen im Sinne des Natur- und Landschaftsschutzes.
-
-- Im Siedlungsgebiet ist mehreren kleinen Antennen der Vorzug gegenüber wenigen grossen Antennen zu geben.
-
-**Termine / Verfahren**
-
-### Abstimmungsstand Zuständigkeit
-
-**Baubewilligungsverfahren**
-
-Zwischenergebnis Alle Gemeinden Departement Bau und Umwelt, Fachstelle Raumentwicklung
-
-### Verweis auf massgebliche Grundlagen
-
-- Verordnung über den Schutz vor nichtionisierender Strahlung (NISV) vom 23. Dezember 1999, SR 814.710
-
-E - 28
-
-### E6 Störfallvorsorge
-
-### Richtplanaufgabe
-
-Der Kanton erfasst die Störfallrisiken und schlägt Massnahmen zur Eindämmung übermässiger Risiken vor.
-
-### Problemstellung / Ausgangslage
-
-Der Katastrophenschutz ist in der Schweiz im Umweltschutzgesetz und in der Störfallverordnung verankert. Die Störfallverordnung regelt den Umgang mit Risiken, die sich bei gefährlichen Betrieben und den Verkehrswegen ergeben.
-
-Der Kanton erfasste die Störfallrisiken im Risikokataster vom November 2001. Der Plan gibt Auskunft auf den Wirkungsgrad und die Art des massgeblichen Risikos von Betrieben und Verkehrswegen. Der Kanton aktualisiert diesen periodisch.
-
-**Nr. E6/1**
-
-### Abstimmungsanweisung
-
-Der Kanton ist zuständig für die Störfallvorsorge und erstellt hierzu einen Risikokataster, aufgrund dessen geprüft wird, ob raumwirksame oder anderweitige Massnahmen ergriffen werden müssen.
-
-Die Aufgaben des Kantons bestehen im folgenden aus:
-
-- Periodische Überarbeitung des Risikokatasters
-
-- Überprüfung des Gefahrenpotentials durch Verkehrswege und Betriebe
-
-- Überprüfung raumwirksamer oder anderweitiger Massnahmen zur Eindämmung übermässiger Risiken.
-
-**Termine / Verfahren**
-
-### Abstimmungsstand Zuständigkeit
-
-**Baubewilligungsverfahren**
-
-Zwischenergebnis Kanton Departement Bau und Umwelt, Abteilung Umweltschutz und Energie (Liste)
-
-### Verweis auf massgebliche Grundlagen:
-
-- USG Art. 10 und Störfallverordnung (StFV)
-
-- Kantonales Amt für Umweltschutz, Risikokataster Kanton Glarus, 2001
-
-E - 29
-
-### Anhang: Grundlagenverzeichnis
-
-- a) Diverse Grundlagen
-
-Alpenkonvention, Protokoll Verkehr, Version vom 22.10.1999, Art. 11 (Strassenverkehr) Amt für Landwirtschaft des Kantons Glarus (1998): Überarbeitung des Entwicklungspolitischen Leitbildes für den Kanton Glarus; Ziele für die Glarner Land- und Alpwirtschaft Amt für Umweltschutz des Kantons Glarus (1996): Abfallplanung Kanton Glarus Amt für Umweltschutz des Kantons Glarus (2001): Massnahmenplan Luftreinhaltung Amt für Umweltschutz des Kantons Glarus (1992): Gewässerschutzkarten 1:25'000 Antrag betreffend neue Linienführung für die durchgehende Radroute Linthal – Bilten zwischen Glarus (Alpenbrückli) und Netstal (Linthbrücke), 1999 Arbeitsgemeinschaft Beratender Agronomen AGBA AG (1998): Überprüfung der Landwirtschaftlichen Prioritätsgebiete im Kanton Glarus Arbeitsgruppe Wildschadenverhütungskonzept (1999): Antrag Ruhegebiete Baudirektion Kt. Glarus, Fachstelle Raumplanung (1999): Stellungnahme zum Sachplan Infrastruktur der Luftfahrt SIL (Anhörung der Behörden und der Bevölkerung) Bieger T., Schäfli M. (1999): Business Plan für die Tourismusdestination Glarnerland Blumer, Ernst (1991): Landesfusswege; Historische Verkehrswege im Glarnerland. 2. Auflage Bundesamt für Energiewirtschaft (1999): Planung von Windenergieanlagen. Leitfaden für die Schweiz – Bausteine einer Windenergie-Strategie Bundesamt für Energiewirtschaft (1996): Energieplan Leitfaden (im Rahmen von Energie 2000) Bundesamt für Energiewirtschaft (1996): Windkraft und Landschaftsschutz. Programm „Wind“, Schlussbericht Bundesamt für Raumplanung (1989): Bauzonenerhebung Bundesamt für Raumplanung (1996): Übersicht über die raumwirksamen Tätigkeiten des Bundes Bundesamt für Raumplanung / Bundesamt für Landwirtschaft (1992): Sachplan Fruchtfolgeflächen Bundesamt für Raumplanung / Eidg. Justiz- und Polizeidepartement (1998): Vademecum Bundesamt für Statistik (1980): Eidgenössische Volkszählung Bundesamt für Umwelt, Wald und Landschaft / Bundesamt für Raumplanung (1999): Landschaftskonzept Schweiz
-
-Bundesamt für Umwelt, Wald und Landschaft (2001): Korridore für Wildtiere in der Schweiz (S
-
-Direktion für Landwirtschaft, Wald und Umwelt (1999): Konzept 300 m-Schiessanlagen 2002 ECF, Energie-Consult-Fischli (1996): Energie – 2000: Holzfeuerungsanlagen Kanton Glarus Forschungsgesellschaft für Strassen- und Verkehrswesen (1991): Empfehlungen für Anlagen des
-
-ruhenden Verkehrs (EAR 91), Köln Hochbauamt Kanton Glarus, Fachstelle Raumplanung (2000): Bauzonenerhebung Hochschule Rapperswil HSR (1999): Abschätzung der künftigen Bevölkerungsentwicklung der Gemeinden, Grundlage für die Richtplanung Glarus Institut für Verkehrsplanung, Transporttechnik, Strassen- und Eisenbahnbau IVT (1989): ÖV-Konzept Glarnerland.
-
-Kant. Hoch- und Tiefbauamt / Amt für Umweltschutz Kt. Glarus (1992): Abbaukonzept für den Kanton Glarus Kanton Glarus (1988): Richtplanung Kantonale Verkehrskommission (1991): Schlussbericht zum ÖV-Konzept Glarnerland Kantonale Verkehrskommission (1992): Buskonzept Glarner Unterland Kantonsforstamt Glarus (1998): Mitbericht zum Antrag der Baudirektion: Überarbeitung des kantonalen Richtplanes vom 29. März 1988, Zwischenbericht und Bestimmung des Planungsbüros Kantonsforstamt Glarus (1998): Sachplan Naturgefahren – Vorgehenskonzept Direktion des Innern (1998): Überarbeitung des Entwicklungspolitischen Leitbildes für den Kanton Glarus Kantonsforstamt Glarus (1995): Wildschadenverhütungskonzept Kantonsforstamt Glarus (1996): Waldreservatskonzept Kantonsforstamt Glarus (1996): Ausscheidung Waldfunktionen Kantonsplanerkonferenz (1994): Energie und Ortsplanung, Arbeitshilfe Kienast, Felix (1999): Raum für Gewächshäuser und Masthallen: Landschaftsszenarien zum revidierten Raumplanungsgesetz. In: Neue Zürcher Zeitung vom 4. November 1999.
-
-Kümmerly & Frey: Glarnerland Walensee Kümmerly & Frey: Glarnerland Walensee (Churfirsten – St. Galler Oberland) Landesfusswege, Gebirgspässe und Landstrassen gemäss Regierungsratsbeschluss vom 16. März 1999 Linthebene-Melioration (1994): Landschaftsentwicklungskonzept Linthebene (LEK) Lüscher, Claude (1999): Belastete Standorte und belastete Böden in der Raumplanung. EJPD/BRP (Hrsg.).
-
-ÖV-Kommission Kt. Glarus (1999): Öffentlicher Verkehr im Glarnerland: Konzepte und Massnahmen für die Fahrplanperiode 2001/2003 Regierungskanzlei des Kt. Glarus (1999): Kanton Glarus, Entwicklung der mittleren Wohnbevölkerung seit 1990 Regierungsrat des Kt. Glarus (1999): Entwicklungspolitisches Leitbild Kanton Glarus Regierungsrat des Kt. Glarus (1999): Bericht an den Landrat zum Kantonalen Landwirtschafsgesetz Schweiz. Konferenz der Velobeauftragten SVK (Hrsg.)(1993): Wie Wo Velo – Wegleitung für die
-
-**Anhang - 1**
-
-Planung von Veloabstellplätzen
-
-**Anhang - 3**
-
-Anhang - 2 Schweizerische Bundesbahnen: Angebotskonzept Bahn 2000 für die Strecke Zürich – Chur Schweizerische Vogelwarte Sempach (Januar 2000): Wildtierkorridore im Kanton Glarus Schiesswesen. Konzept und Sachplan 300 m Schiessanlagen 2002, Vorgehen bei der Lärmsanierung, Regierungsrats Beschluss § 608, 31. August 1999 Vereinigung zur Förderung der Windenergie, suisse éole (2000): 15 gute Gründe für die Windenergie-Nutzung in der Schweiz
-
-- b) Gesetzliche Grundlagen, Inventare, Verzeichnisse
-
-Bund
-
-### Bundesgesetze (geordnet nach den Nummern der Systematischen Sammlung des Bundesrechts)
-
-Bundesgesetz über den Natur- und Heimatschutz vom 1. Juli 1966, SR 451 Verordnung über den Natur- und Heimatschutz vom 16. Januar 1991, SR 451.1 Verordnung über das Bundesinventar der Landschaften und Naturdenkmäler (VBLN) vom 10.8.1977, SR 451.11 Verordnung vom 28. Oktober 1992 über den Schutz der Auengebiete von nationaler Bedeutung (Auenverordnung), SR 451.31 Verordnung über den Schutz der Hoch- und Übergangsmoore von nationaler Bedeutung (Hochmoorverordnung) vom 21.1.1991, SR 451.32 Verordnung über den Schutz der Flachmoore von nationaler Bedeutung (Flachmoorverordnung) vom 7.9.1994, SR 451.33 Verordnung über den Schutz der Amphibienlaichgebiete von nationaler Bedeutung vom 15. Juni 2001, SR 451.34 Verordnung über den Schutz der Moorlandschaften von besonderer Schönheit und von nationaler Bedeutung (Moorlandschaftsverordnung) vom 1.5.1996, SR 451.35 Bundesgesetz über den Schutz der Kulturgüter bei bewaffneten Konflikten vom 6. Oktober 1966, SR 520.3 Verordnung über den Schutz der Kulturgüter bei bewaffneten Konflikten vom 17. Oktober 1984, SR 520.31 Bundesgesetz über die Raumplanung (RPG) vom 22. Juni 1979, SR 700 (inkl. Änderung vom 20. März 1998) Bundesgesetz über die Landwirtschaft (LwG) vom 29. April 1998 Verordnung über die Raumplanung (RPV) vom 28. Juni 2000, SR 700.1 Bundesgesetz über die Fuss- und Wanderwege vom 4. Oktober 1985 (FWG), SR 704 Verordnung über die Fuss- und Wanderwege vom 26. November 1986 (FWV), SR 704.1 Bundesgesetz über den Wasserbau 21. Juni 1991, SR 721.100 Bundesgesetz über den Strassentransitverkehr im Alpengebiet (STVG) vom 17. Juni 1994, SR 725.14 Bundesgesetz über den Umweltschutz (USG) vom 7. Oktober 1983, SR 814.01 Bundesgesetz über den Schutz der Gewässer (GSchG) vom 24. Januar 2001, SR 814.20 Gewässerschutzverordnung (GSchV) vom 28. Oktober 1998, SR 814.201 Luftreinhalteverordnung (LRV) vom 16. Dezember 1985, SR 814.318.142.1 Lärmschutzverordnung (LSV) vom 15. Dezember 1986, SR 814.41 Technische Verordnung über Abfälle (TVA) vom 10. Dezember 1990, SR 814.600 Verordnung über die Sanierung von belasteten Standorten (AltlV) vom 26. August 1998, SR 814.680 Verordnung über den Schutz vor nichtionisierender Strahlung (NISV) vom 23. Dezember 1999, SR 814.710 Bundesgesetz über den Wald (Waldgesetz, WaG) vom 4. Oktober 1991, SR 921.0 Bundesgesetz über die Jagd und den Schutz wildlebender Säugetiere und Vögel (JSG) vom 20. Juni 1986, SR 922 Verordnung über die eidgenössischen Jagdbanngebiete (VEJ) vom 30. September 1991, SR 922.31 Bundesgesetz über die Fischerei (BGF) vom 21. Juni 1991, SR 923
-
-### Bundesinventare
-
-vgl. Verordnungen zu den Bundesinventaren der Landschaften und Naturdenkmäler, der Moorlandschaften, der Amphibienlaichgebiete, der Flachmoore, der Hoch- und Übergangsmoore und der Auengebiete von nationaler Bedeutung Inventar der schützenswerten Ortsbilder der Schweiz (ISOS) Schweizerisches Inventar der Kulturgüter von nationaler und regionaler Bedeutung vom 23. März 1988 (vom Bundesrat genehmigt am 15. Februar 1995)
-
-### Sachpläne Bund
-
-Bundesamt für Sport: Nationales Sportanlagenkonzept NASAK, 23. Oktober 1996 Bundesamt für Zivilluftfahrt / Bundesamt für Raumplanung: Sachplan Infrastruktur der Luftfahrt SIL, Teilbeschluss vom 18. Oktober 2000 Eidg. Departement für Verteidigung, Bevölkerungsschutz und Sport: Sachplan Waffen- und Schiessplätze, 19.8.1998 Bundesamt für Landwirtschaft: Sachplan Fruchtfolgeflächen vom 8. April 1992 Bundesamt für Verkehr: Sachplan Alptransit, 30. April 1996
-
-### Kanton
-
-### Kantonale Gesetze
-
-Gesetz über den Natur- und Heimatschutz 1971 (IV G/1) Natur- und Heimatschutzverordnung 1991 (IV G/2)
-
-Anhang - 4 Raumplanungs- und Baugesetz 1988/1995 (VII B/1/1) Bauverordnung 1989/1994 (VII B/1/2) Verordnung über Bauten ausserhalb der Bauzone 1989 (VII B/1/4) Verordnung über Landumlegungen vom 26. April 1988 Strassengesetz 1971/1991 (VII C/11/1) Radroutengesetz 1983 (VII C/11/8) Verordnung über die Fuss- und Wanderwege vom 25. April 1989 (VII C/11/9) Gesetz über den öffentlichen Verkehr (öV-Gesetz), 1996 (VII D/6/1) Neues Eisenbahngesetz, 1996 Einführungsgesetz zum Bundesgesetz über den Wald (Kantonales Waldgesetz, WaG), 1995 (IX E/1/1) Einführungsgesetz zum Bundesgesetz über die Landwirtschaft (Kantonales Landwirtschaftsgesetz) vom 7. Mai 2000 Verordnung über die Produktion und den Absatz landwirtschaftlicher Erzeugnisse, die Viehversicherung sowie die Bewirtschaftung der Alpen und von Brachland (Land- und Alpwirtschaftsverordnung) vom 12. September 2000 Kantonales Jagdgesetz vom 6. Mai 1979 Energiegesetz, 2000
-
-### Kantonale Verzeichnisse
-
-Direktion für Landwirtschaft, Wald und Umwelt des Kanton Glarus (Stand 1. Juni 1999): Verzeichnis der Landschaften von regionaler Bedeutung im Kanton Glarus (Kantonales Landschaftsverzeichnis) Kantonales Amt für Umweltschutz Kt. Glarus (1996): Verzeichnis der Wasserentnahmen im Kanton Glarus Kantonales Amt für Umweltschutz Kt. Glarus (2003): Kantonales Biotopverzeichnis
-
-Nutzungsplanungen der Gemeinden, genehmigter Stand berücksichtigt bis Ende Nov. 2003
-
-Anhang - 5
-
-## Weitere Fussnoten
-
-- [*] Die Gemeinden Hätzingen, Diesbach und Luchsingen haben sich im Lauf der Richtplanerarbeitung im Jahr 2003 zur politischen Gemeinde Luchsingen zusammengeschlossen.
-- [*] ohne Walensee Quelle: Bundesamt für Statistik, Arealstatistik 92/97
-- [*] Mit der Gemeindefusion von Hätzingen, Diesbach und Luchsingen zur Gemeinde Luchsingen gilt bei deren Aufzählungen die Abstimmungsanweisung immer für die politische Gemeinde Luchsingen.
-- [380] kV Vorab-Leitung im Raum Sool. - Für diesen Netzanschluss wurde der Korridor Ost (Tierfehd-Sool) festgesetzt und zu treffende Ausgleichsmassnahmen wurden festgelegt. - Das SÜL-Verfahren für dieses Leitungsbauvorhaben ist abgeschlossen. Abstimmungsstand Zuständigkeit Termine / Verfahren Festsetzung Departement Bau und Umwelt, Abteilung Um- Plangenehmigungsverfahren weltschutz und Energie Verweis auf massgebliche Grundlagen • Bundesamt für Energie (BFE) und Bundesamt für Raumentwicklung (ARE), Sachplan Übertragungsleitungen (SÜL), 2001, Anpassung 2008
+Keine
