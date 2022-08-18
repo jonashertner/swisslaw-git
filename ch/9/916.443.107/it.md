@@ -3,18 +3,18 @@ sr: "916.443.107"
 title: "Ordinanza dell’USAV del 6 agosto 2021 che istituisce provvedimenti contro la propagazione della peste suina africana nel traffico con Stati membri dell’Unione europea, Islanda e Norvegia"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/474"
 language: it
-version: 2022-08-10
+version: 2022-08-19
 adopted: 2021-08-06
 in_force: 2021-08-10
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/474/20220810/it/xml/fedlex-data-admin-ch-eli-cc-2021-474-20220810-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/474/20220810/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/474/20220819/it/xml/fedlex-data-admin-ch-eli-cc-2021-474-20220819-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/474/20220819/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza dell’USAV che istituisce provvedimenti contro la propagazione della peste suina africana nel traffico con Stati membri dell’Unione europea, Islanda e Norvegia
 
-del 6 agosto 2021 (Stato 10 agosto 2022)
+del 6 agosto 2021 (Stato 19 agosto 2022)
 
 L’Ufficio federale della sicurezza alimentare e di veterinaria (USAV),
 
@@ -64,8 +64,8 @@ L’importazione di animali vivi e prodotti di origine animale di cui all’arti
 
 <sup>2</sup> L’importazione di cinghiali vivi provenienti dall’intero territorio degli Stati membri dell’UE, dell’Islanda e della Norvegia è vietata.
 
-[^2-1]: Nuovo testo giusta il n. I dell’O dell’USAV dell’8 ago. 2022, in vigore dal 10 ago. 2022 ([RU 2022 439](https://fedlex.data.admin.ch/eli/oc/2022/439)).
-[^2-2]: Regolamento di esecuzione (UE) 2021/605 della Commissione del 7 aprile 2021 che stabilisce misure speciali di controllo della peste suina africana, GU L 129 del 15.4.2021, pag. 1; modificato da ultimo dal regolamento di esecuzione (UE) 2022/1325, GU L 200 del 29.7.2022, pag. 109.
+[^2-1]: Nuovo testo giusta il n. I dell’O dell’USAV del 17 ago. 2022, in vigore dal 19 ago. 2022 ([RU 2022 453](https://fedlex.data.admin.ch/eli/oc/2022/453)).
+[^2-2]: Regolamento di esecuzione (UE) 2021/605 della Commissione del 7 aprile 2021 che stabilisce misure speciali di controllo della peste suina africana, GU L 129 del 15.4.2021, pag. 1; modificato da ultimo dal regolamento di esecuzione (UE) 2022/1366, GU L 205 del 5.8.2022, pag. 234.
 [^2-3]: Regolamento delegato (UE) 2020/687 della Commissione, del 17 dicembre 2019, che integra il regolamento (UE) 2016/429 del Parlamento europeo e del Consiglio per quanto riguarda le norme relative alla prevenzione e al controllo di determinate malattie elencate; modificato dal regolamento delegato (UE) 2021/1140, GU L 247 del 13.7.2021, pag. 50
 
 #### Art. 3
@@ -128,13 +128,13 @@ L’ordinanza dell’USAV del 18 dicembre 2017[^8-1] che istituisce provvediment
 
 La presente ordinanza entra in vigore il 10 agosto 2021.
 
-Allegato*[^t-1]*
+Allegato[^t-1]
 
 (art. 3)
 
 ## Stati membri e zone interessati
 
-[^t-1]: Nuovo testo giusta il n. II dell’O dell’USAV dell’8 ago. 2022, in vigore dal 10 ago. 2022 ([RU 2022 439](https://fedlex.data.admin.ch/eli/oc/2022/439)).
+[^t-1]: Nuovo testo giusta il n. II dell’O dell’USAV dell’8 ago. 2022 ([RU 2022 439](https://fedlex.data.admin.ch/eli/oc/2022/439)). Aggiornato dal n. II dell’O dell’USAV del 17 ago. 2022, in vigore dal 19 ago. 2022 ([RU 2022 453](https://fedlex.data.admin.ch/eli/oc/2022/453)).
 
 ### 1 Zone soggette a restrizioni disciplinate secondo il regolamento di esecuzione (UE) 2021/605
 
@@ -142,7 +142,7 @@ Gli Stati membri dell’UE e le relative zone soggette a restrizioni secondo l�
 
 <table>
 <tr><th>Atto normativo di base UE</th><th>Titolo e data di pubblicazione dell’atto normativo di base nonché atti modificatori con date di pubblicazione</th></tr>
-<tr><td>Regolamento di esecuzione (UE) 2021/605</td><td>Regolamento di esecuzione (UE) 2021/605 della Commissione, del 7 aprile 2021, che stabilisce misure speciali di controllo della peste suina africana, GU L 129 del 15.4.2021, pag. 1; modificato da ultimo dal regolamento di esecuzione (UE) 2022/1325, GU L 200 del 29.7.2022, pag. 109</td></tr>
+<tr><td>Regolamento di esecuzione (UE) 2021/605</td><td>Regolamento di esecuzione (UE) 2021/605 della Commissione, del 7 aprile 2021, che stabilisce misure speciali di controllo della peste suina africana, GU L 129 del 15.4.2021, pag. 1; modificato da ultimo dal regolamento di esecuzione (UE) 2022/1366, GU L 205 del 5.8.2022, pag. 234</td></tr>
 </table>
 
 Nell’allegato I del regolamento di esecuzione sopra citato, determinate zone negli Stati membri interessati sono suddivise in base al rischio di introduzione della peste suina africana nelle tre parti seguenti:
