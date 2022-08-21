@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordonnance du 4 juin 2021 sur les certificats attestant la vaccination contre le COVID-19, la guérison du COVID-19 ou la réalisation d’un test de dépistage du COVID-19 (Ordonnance COVID-19 certificats)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: fr
-version: 2022-07-01
+version: 2022-08-22
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220701-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220822/fr/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220822-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220822/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220701/fr"
 
 (Ordonnance COVID-19 certificats)
 
-du 4 juin 2021 (Etat le 1<sup>er</sup> juillet 2022)
+du 4 juin 2021 (Etat le 22 août 2022)
 
 Le Conseil fédéral suisse,
 
@@ -776,7 +776,7 @@ Les certificats suivants conservent leur ancienne durée de validité:
 
 La présente ordonnance entre en vigueur le 7 juin 2021 à 0 h 00 et a effet jusqu’au 31 décembre 2022.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 12, 28*a*, al. 3, let. a, 29, al. 2, let. c, ch. 2, et 33)
 
@@ -804,13 +804,13 @@ Les preuves scientifiques relatives à la vaccination, aux tests et à la guéri
 
 Avant de voyager, veuillez vérifier les mesures de santé publique et les restrictions connexes en vigueur sur le lieu de destination».
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 (art. 13, al. 3, 14, 15 et 33)
 
 ## Dispositions particulières applicables aux certificats de vaccination COVID-19
 
-[^t-2]: Nouvelle teneur selon le ch. I al. 1 de l’O du DFI du 1<sup>er</sup> fév. 2022 (Caractère complet d’une primovaccination et d’une vaccination de rappel, prise en compte de vaccins supplémentaires) ([RO 2022 56](https://fedlex.data.admin.ch/eli/oc/2022/56)). Mise à jour par le ch. II al. 1 de l’O du 16 fév. 2022 (Expiration des certificats dont la validité est limitée à la Suisse) ([RO 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)) et le ch. III de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 206](https://fedlex.data.admin.ch/eli/oc/2022/206)).
+[^t-2]: Nouvelle teneur selon le ch. I al. 1 de l’O du DFI du 1<sup>er</sup> fév. 2022 (Caractère complet d’une primovaccination et d’une vaccination de rappel, prise en compte de vaccins supplémentaires) ([RO 2022 56](https://fedlex.data.admin.ch/eli/oc/2022/56)). Mise à jour par le ch. II al. 1 de l’O du 16 fév. 2022 (Expiration des certificats dont la validité est limitée à la Suisse) ([RO 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)), le ch. III de l’O du 30 mars 2022 ([RO 2022 206](https://fedlex.data.admin.ch/eli/oc/2022/206)) et le ch. I de l’O du DFI du 12 août 2022, en vigueur depuis le 22 août 2022 ([RO 2022 446](https://fedlex.data.admin.ch/eli/oc/2022/446)).
 
 ### 1 Début de la validité et durée de validité maximale
 
@@ -858,13 +858,14 @@ Annexe 2*[^t-2]*
 
 - 3\.1.3 Les doses de vaccin comptent aussi comme rappel lorsqu’elles sont administrées à des personnes immunosupprimées en dehors des programmes de vaccination visés dans cette ordonnance dans le but d’obtenir une primovaccination efficace.
 
-3.2 Vaccin à une dose
+3.2 Vaccins à une dose
 
-- 3\.2.1 Le ch. 3.2. s’applique au vaccin suivant autorisé par Swissmedic:
+- 3\.2.1 Le ch. 3.2 s’applique aux vaccins suivants:
 
 <table>
 <tr><th>Nom(s) du/des produit(s)</th><th>Fabricant</th></tr>
 <tr><td>COVID-19 Vaccine Janssen</td><td>Johnson&Johnson</td></tr>
+<tr><td>Convidecia (Ad5.CoV2-S)</td><td>CanSino</td></tr>
 </table>
 
 - 3\.2.2
@@ -891,6 +892,7 @@ Annexe 2*[^t-2]*
 <tr><td>BIBP P-CoV</td><td>Sinopharm Wuhan/Sinopharm Beijing</td></tr>
 <tr><td>CoronaVac</td><td>Sinovac</td></tr>
 <tr><td>Bharat Biotech Covaxin</td><td>Indian Council for Medical Research</td></tr>
+<tr><td>Valneva (VLA 2001)</td><td>Valneva</td></tr>
 </table>
 
 - 3\.3.2
@@ -949,7 +951,7 @@ La preuve au sens de l’art. 13, al. 1, let. d, est réputée apportée pour le
 [^annex2-lvlu1-lvl3-1]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
 [^annex2-lvlu1-lvl3-2]: Règlement (CE) n<sup>o</sup> 726/2004 du Parlement européen et du Conseil du 31 mars 2004 établissant des procédures communautaires pour l’autorisation et la surveillance en ce qui concerne les médicaments à usage humain et à usage vétérinaire, et instituant une Agence européenne des médicaments, JO L 136 du 30.4.2004, p. 1; modifié en dernier lieu par le règlement (UE) 2019/5, JO L 4 du 7.1.2019, p. 24
 
-Annexe 3*[^t-3]*
+Annexe 3[^t-3]
 
 (art. 17, 18, al. 1 et 5, et 33)
 
@@ -969,7 +971,7 @@ Annexe 3*[^t-3]*
 - 2\.3 Début de la validité
 - 2\.4 Fin de la validité
 
-Annexe 4*[^t-4]*
+Annexe 4[^t-4]
 
 (art. 20, 21, al. 2, 28*a*, al. 4, et 33)
 
@@ -997,17 +999,17 @@ La durée de validité, calculée à partir du prélèvement de l’échantillon
 - f. Résultat du test («négatif»)
 - g. Centre de test ou institution où le test a été effectué
 
-Annexe 4a*[^t-5]*
+Annexe 4a[^t-5]
 
 [^t-5]: Introduite par le ch. II al. 2 de l’O du 3 nov. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)). Abrogée par le ch. II al. 3 de l’O du 16 fév. 2022 (Expiration des certificats dont la validité est limitée à la Suisse), avec effet au 17 fév. 2022 ([RO 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)).
 
-Annexe 5*[^t-6]*
+Annexe 5[^t-6]
 
 (art. 22 et 23, al. 1 et 2)
 
 ## Liste des certificats étrangers reconnus
 
-[^t-6]: Nouvelle teneur selon le ch. I de l’O du 7 juil. 2021 ([RO 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Mise à jour par le ch. II des O du 17 sept. 2021 ([RO 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), du 19 janv. 2022 (Certificat de guérison COVID-19 pour les tests rapides antigéniques) ([RO 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)), du 27 avr. 2022 (Certificats de guérison COVID-19 compatibles avec l’UE fondés sur des tests rapides antigéniques) ([RO 2022 258](https://fedlex.data.admin.ch/eli/oc/2022/258)) et du 10 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 374](https://fedlex.data.admin.ch/eli/oc/2022/374), [382](https://fedlex.data.admin.ch/eli/oc/2022/382)).
+[^t-6]: Nouvelle teneur selon le ch. I de l’O du 7 juil. 2021 ([RO 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Mise à jour par le ch. II des O du 17 sept. 2021 ([RO 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), du 19 janv. 2022 (Certificat de guérison COVID-19 pour les tests rapides antigéniques) ([RO 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)), du 27 avr. 2022 (Certificats de guérison COVID-19 compatibles avec l’UE fondés sur des tests rapides antigéniques) ([RO 2022 258](https://fedlex.data.admin.ch/eli/oc/2022/258)), du 10 juin 2022 ([RO 2022 374](https://fedlex.data.admin.ch/eli/oc/2022/374), [382](https://fedlex.data.admin.ch/eli/oc/2022/382)) et le ch. I de l’O du DFI du 12 août 2022, en vigueur depuis le 22 août 2022 ([RO 2022 446](https://fedlex.data.admin.ch/eli/oc/2022/446)).
 
 ### 1 Certificats reconnus établis par un État membre de l’UE ou de l’AELE
 
@@ -1026,17 +1028,19 @@ Annexe 5*[^t-6]*
 
 - 2\.1
 
-  Sont reconnus les certificats de vaccination, de guérison ou de test qui sont interopérables conformément au règlement (UE) 2021/953 et qui ont été établis par les États et les régions suivants:
+  Sont reconnus les certificats de vaccination, de guérison et de test qui sont interopérables conformément au règlement (UE) 2021/953 et qui ont été établis par les États et les régions suivants:
 
   - – Albanie
   - – Andorre
   - – Arménie
+  - – Bahreïn
   - – Bénin
   - – Cabo Verde
   - – El Salvador
   - – Géorgie
   - – Îles Féroé
   - – Israël
+  - – Kosovo
   - – Macédoine du Nord
   - – Maroc
   - – Moldova
@@ -1070,14 +1074,20 @@ Annexe 5*[^t-6]*
   Sont reconnus les certificats de vaccination qui sont interopérables conformément au règlement (UE) 2021/953 et qui ont été établis par les États et les régions suivants:
 
   - – Colombie
+  - – Équateur
   - – Indonésie
   - – Jordanie
   - – Liban
+  - – Madagascar
+  - – Oman
+  - – Pérou
+  - – Philippines
+  - – République de Corée
   - – Tunisie
 
 - 2\.4 Les certificats de vaccination ne sont reconnus que s’ils ont été établis pour un vaccin conforme aux exigences du ch. 1.2.
 
-Annexe 6*[^t-7]*
+Annexe 6[^t-7]
 
 (art. 28, al. 3, et 29, al. 1 et 2, let. c, ch. 3)
 

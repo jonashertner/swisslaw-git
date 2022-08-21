@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordinanza del 4 giugno 2021 concernente i certificati attestanti l’avvenuta vaccinazione anti-COVID-19, la guarigione dalla COVID-19 o il risultato di un test COVID-19 (Ordinanza sui certificati COVID-19)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: it
-version: 2022-07-01
+version: 2022-08-22
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220701/it/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220701-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220822/it/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220822-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220822/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220701/it"
 
 (Ordinanza sui certificati COVID-19)
 
-del 4 giugno 2021 (Stato 1° luglio 2022)
+del 4 giugno 2021 (Stato 22 agosto 2022)
 
 Il Consiglio federale svizzero,
 
@@ -778,7 +778,7 @@ I seguenti certificati mantengono la loro precedente durata di validità:
 
 La presente ordinanza entra in vigore il 7 giugno 2021 alle ore 00.00 e ha effetto sino al 31 dicembre 2022.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 12, 28*a* cpv. 3 lett. a, 29 cpv. 2 lett. c n. 2 e 33)
 
@@ -806,13 +806,13 @@ I dati scientifici relativi alla vaccinazione, ai test e alla guarigione dalla C
 
 Prima di mettersi in viaggio, verificare le misure sanitarie pubbliche applicabili e le relative restrizioni applicabili nel luogo di destinazione.»
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 (art. 13 cpv. 3, 14, 15 e 33)
 
 ## Disposizioni particolari sui certificati di vaccinazione COVID-19
 
-[^t-2]: Nuovo testo giusta il n. I cpv. 1 dell’O del DFI del 1° feb. 2022 (Completamento delle immunizzazioni di base e vaccinazioni di richiamo, considerazione di ulteriori vaccini) ([RU 2022 56](https://fedlex.data.admin.ch/eli/oc/2022/56)). Aggiornato dal n. II cpv. 1 dell’O del 16 feb. 2022 (Scadenza dei certificati COVID-19 validi solo in Svizzera) ([RU 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)) e dal n. III dell’O del 30 mar. 2022, in vigore dal 1° apr. 2022 ([RU 2022 206](https://fedlex.data.admin.ch/eli/oc/2022/206)).
+[^t-2]: Nuovo testo giusta il n. I cpv. 1 dell’O del DFI del 1° feb. 2022 (Completamento delle immunizzazioni di base e vaccinazioni di richiamo, considerazione di ulteriori vaccini) ([RU 2022 56](https://fedlex.data.admin.ch/eli/oc/2022/56)). Aggiornato dal n. II cpv. 1 dell’O del 16 feb. 2022 (Scadenza dei certificati COVID-19 validi solo in Svizzera) ([RU 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)), dal n. III dell’O del 30 mar. 2022 ([RU 2022 206](https://fedlex.data.admin.ch/eli/oc/2022/206)) e dal n. I dall’O del DFI del 12 ago. 2022, in vigore dal 22 ago. 2022 ([RU 2022 446](https://fedlex.data.admin.ch/eli/oc/2022/446)).
 
 ### 1 Inizio e durata massima della validità
 
@@ -860,11 +860,12 @@ Allegato 2*[^t-2]*
 
 - 3\.1.3 Le dosi di vaccino sono parimenti equiparate a una vaccinazione di richiamo se sono state somministrate a persone immunosoppresse al di fuori degli schemi di vaccinazione secondo la presente ordinanza al fine di ottenere un’immunizzazione di base efficace.
 - 3\.2 Vaccini che prevedono un’unica dose
-- 3\.2.1 Il numero 3.2 si applica al seguente vaccino autorizzato da Swissmedic:
+- 3\.2.1 Il numero 3.2 si applica ai seguenti vaccini:
 
 <table>
 <tr><th>Nome(i) del prodotto</th><th>Fabbricante</th></tr>
 <tr><td>COVID-19 Vaccine Janssen</td><td>Johnson&Johnson</td></tr>
+<tr><td>Convidecia (Ad5.CoV2‑S)</td><td>CanSino</td></tr>
 </table>
 
 - 3\.2.2
@@ -893,6 +894,7 @@ Allegato 2*[^t-2]*
 <tr><td>BIBP P-CoV</td><td>Sinopharm Wuhan/Sinopharm Beijing</td></tr>
 <tr><td>CoronaVac</td><td>Sinovac</td></tr>
 <tr><td>Bharat Biotech Covaxin</td><td>Indian Council for Medical Research</td></tr>
+<tr><td>Valneva (VLA 2001)</td><td>Valneva</td></tr>
 </table>
 
 - 3\.3.2
@@ -947,7 +949,7 @@ La prova ai sensi dell’articolo 13 capoverso 1 lettera d è considerata fornit
 [^annex2-lvlu1-lvl3-1]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
 [^annex2-lvlu1-lvl3-2]: Regolamento (CE) n. 726/2004 del Parlamento europeo e del Consiglio del 31 marzo 2004 che istituisce procedure comunitarie per l’autorizzazione e la sorveglianza dei medicinali per uso umano e veterinario, e che istituisce l’agenzia europea per i medicinali, GU L 136 del 30.4.2004, pag. 1; modificato da ultimo dal Regolamento (UE) n. 2019/5, GU L 4 del 7.1.2019, pag. 24.
 
-Allegato 3*[^t-3]*
+Allegato 3[^t-3]
 
 (art. 17, 18 cpv. 1 e 5 e 33)
 
@@ -967,7 +969,7 @@ Allegato 3*[^t-3]*
 - 2\.3 Inizio della validità del certificato.
 - 2\.4 Fine della validità del certificato.
 
-Allegato 4*[^t-4]*
+Allegato 4[^t-4]
 
 (art. 20, 21 cpv. 2, 28*a* cpv. 4 e 33)
 
@@ -997,17 +999,17 @@ Allegato 4*[^t-4]*
 - f. Risultato del test («negativo»)
 - g. Centro di test o istituzione presso cui è stato eseguito il test
 
-Allegato 4a*[^t-5]*
+Allegato 4a[^t-5]
 
 [^t-5]: Introdotto dal n. II dell’O del 3 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)). Abrogato dal n. II cpv. 3 dell’O del 16 feb. 2022 (Scadenza dei certificati COVID-19 validi solo in Svizzera), con effetto dal 17 feb. 2022 ([RU 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)).
 
-Allegato 5*[^t-6]*
+Allegato 5[^t-6]
 
 (art. 22 e 23 cpv. 1 e 2)
 
 ## Elenco dei certificati esteri riconosciuti
 
-[^t-6]: Nuovo testo giusta il n. I dell’O del 7 lug. 2021 ([RU 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Aggiornato dai n. II delle O del 17 set. 2021 ([RU 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), del 19 gen. 2022 (Certificati di guarigione dalla COVID-19 per i test antigenici rapidi) ([RU 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)), del 27 apr. 2022 (Certificati di guarigione dalla COVID-19 compatibili con l’UE basati su test antigenici rapidi), in vigore dal 2 mag. 2022 ([RU 2022 258](https://fedlex.data.admin.ch/eli/oc/2022/258)) e del 10 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 374](https://fedlex.data.admin.ch/eli/oc/2022/374), [382](https://fedlex.data.admin.ch/eli/oc/2022/382)).
+[^t-6]: Nuovo testo giusta il n. I dell’O del 7 lug. 2021 ([RU 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Aggiornato dai n. II delle O del 17 set. 2021 ([RU 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), del 19 gen. 2022 (Certificati di guarigione dalla COVID-19 per i test antigenici rapidi) ([RU 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)), del 27 apr. 2022 (Certificati di guarigione dalla COVID-19 compatibili con l’UE basati su test antigenici rapidi) ([RU 2022 258](https://fedlex.data.admin.ch/eli/oc/2022/258)), del 10 giu. 2022 ([RU 2022 374](https://fedlex.data.admin.ch/eli/oc/2022/374), [382](https://fedlex.data.admin.ch/eli/oc/2022/382)) e dal n. I dall’O del DFI del 12 ago. 2022, in vigore dal 22 ago. 2022 ([RU 2022 446](https://fedlex.data.admin.ch/eli/oc/2022/446)).
 
 ### 1 Certificati riconosciuti emessi da uno Stato membro dell’UE o dell’AELS
 
@@ -1031,12 +1033,14 @@ Allegato 5*[^t-6]*
   - – Albania
   - – Andorra
   - – Armenia
+  - – Bahrein
   - – Benin
   - – Capo Verde
   - – El Salvador
   - – Georgia
   - – Isole Färöer
   - – Israele
+  - – Kosovo
   - – Macedonia del Nord
   - – Marocco
   - – Moldova
@@ -1046,8 +1050,8 @@ Allegato 5*[^t-6]*
   - – Regno Unito
   - – San Marino
   - – Santa Sede (Città del Vaticano)
-  - – Seicelle
   - – Serbia
+  - – Seychelles
   - – Thailandia
   - – Turchia
   - – Ucraina
@@ -1070,14 +1074,20 @@ Allegato 5*[^t-6]*
   Sono riconosciuti i certificati di vaccinazione che sono interoperabili conformemente al regolamento (UE) 2021/953 e che sono stati emessi dagli Stati e dalle regioni seguenti:
 
   - – Colombia
+  - – Ecuador
+  - – Filippine
   - – Giordania
   - – Indonesia
   - – Libano
+  - – Madagascar
+  - – Oman
+  - – Perù
+  - – Repubblica di Corea
   - – Tunisia
 
 - 2\.4 I certificati di vaccinazione sono riconosciuti soltanto se sono stati emessi per le vaccinazioni con un vaccino che soddisfa i requisiti di cui al numero 1.2.
 
-Allegato 6*[^t-7]*
+Allegato 6[^t-7]
 
 (art. 28 cpv. 3 e 29 cpv. 1 e 2 lett. c n. 3)
 

@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Verordnung vom 4. Juni 2021 über Zertifikate zum Nachweis einer Covid-19-Impfung, einer Covid-19-Genesung oder eines Covid-19-Testergebnisses (Covid-19-Verordnung Zertifikate)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: de
-version: 2022-07-01
+version: 2022-08-22
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220701/de/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220701-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220822/de/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220822-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220822/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220701/de"
 
 (Covid-19-Verordnung Zertifikate)
 
-vom 4. Juni 2021 (Stand am 1. Juli 2022)
+vom 4. Juni 2021 (Stand am 22. August 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -44,7 +44,7 @@ Diese Verordnung regelt:
 - b. die Vorgaben zur Überprüfung dieser Zertifikate;
 - c. die Anerkennung entsprechender ausländischer Zertifikate;
 - d. die vom Bund betriebenen Informationssysteme im Zusammenhang mit diesen Zertifikaten;
-- e. die vom Bund angebotenen Apps für die Zertifikatsinhaberinnen und -inhaber und für die Prüfenden;
+- e. die vom Bund angebotenen Apps für die Zertifikatsinhaberinnen und ‑inhaber und für die Prüfenden;
 - f. die Aufgaben der Kantone im Zusammenhang mit der Ausstellung und dem Widerruf der Zertifikate;
 - g.[^1-2] die Auferlegung von Kosten an antragsstellende Personen.
 
@@ -776,7 +776,7 @@ Folgende Zertifikate behalten ihre bisherige Gültigkeitsdauer:
 
 Diese Verordnung tritt am 7. Juni 2021 um 00.00 Uhr in Kraft und gilt bis zum 31. Dezember 2022.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 12, 28*a* Abs. 3 Bst. a, 29 Abs. 2 Bst. c Ziff. 2 und 33)
 
@@ -804,13 +804,13 @@ Die wissenschaftlichen Erkenntnisse über Covid-19-Impfungen und -Tests sowie ü
 
 Bitte informieren Sie sich vor der Reise über die am Zielort geltenden Gesundheitsmassnahmen und die damit verbundenen Beschränkungen.»
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 (Art. 13 Abs. 3, 14, 15 und 33)
 
 ## Besondere Bestimmungen über Covid-19-Impfzertifikate
 
-[^t-2]: Fassung gemäss Ziff. I Abs. 1 der V des EDI vom 1. Febr. 2022 (Vollständigkeit von Grundimmunisierungen und Auffrischimpfungen, Berücksichtigung von weiteren Impfstoffen) ([AS 2022 56](https://fedlex.data.admin.ch/eli/oc/2022/56)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 16. Febr. 2022 (Auslaufen der nur in der Schweiz gültigen Covid-19-Zertifikate) ([AS 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)) und Ziff. III der V vom 30. März 2022, in Kraft seit 1. April 2022 ([AS 2022 206](https://fedlex.data.admin.ch/eli/oc/2022/206)).
+[^t-2]: Fassung gemäss Ziff. I Abs. 1 der V des EDI vom 1. Febr. 2022 (Vollständigkeit von Grundimmunisierungen und Auffrischimpfungen, Berücksichtigung von weiteren Impfstoffen) ([AS 2022 56](https://fedlex.data.admin.ch/eli/oc/2022/56)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 16. Febr. 2022 (Auslaufen der nur in der Schweiz gültigen Covid-19-Zertifikate) ([AS 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)), Ziff. III der V vom 30. März 2022 ([AS 2022 206](https://fedlex.data.admin.ch/eli/oc/2022/206)) und Ziff. I der V des EDI vom 12. Aug. 2022, in Kraft seit 22. Aug. 2022 ([AS 2022 446](https://fedlex.data.admin.ch/eli/oc/2022/446)).
 
 ### 1 Beginn und Höchstdauer der Gültigkeit
 
@@ -857,12 +857,13 @@ Anhang 2*[^t-2]*
   - b. Zwischen der Probeentnahme und der Impfung müssen in den Fällen von Buchstabe a Ziffern 1 und 2 mindestens 28 Tage vergangen sein.
 
 - 3\.1.3 Impfdosen zählen auch als Auffrischimpfung, wenn sie immunsupprimierten Personen über die Impfprogramme nach dieser Verordnung hinaus zur Erzielung einer wirksamen Grundimmunisierung verabreicht wurden.
-- 3\.2 Ein-Dosen-Impfstoff
-- 3\.2.1 Ziffer 3.2 gilt für den folgenden durch Swissmedic zugelassenen Impfstoff:
+- 3\.2 Ein-Dosen-Impfstoffe
+- 3\.2.1 Ziffer 3.2 gilt für die folgenden Impfstoffe:
 
 <table>
 <tr><th>Produktename(n)</th><th>Hersteller</th></tr>
 <tr><td>COVID-19 Vaccine Janssen</td><td>Johnson&Johnson</td></tr>
+<tr><td>Convidecia (Ad5.CoV2‑S)</td><td>CanSino</td></tr>
 </table>
 
 - 3\.2.2
@@ -891,6 +892,7 @@ Anhang 2*[^t-2]*
 <tr><td>BIBP P-CoV</td><td>Sinopharm Wuhan/Sinopharm Beijing</td></tr>
 <tr><td>CoronaVac</td><td>Sinovac</td></tr>
 <tr><td>Bharat Biotech Covaxin</td><td>Indian Council for Medical Research</td></tr>
+<tr><td>Valneva (VLA 2001)</td><td>Valneva</td></tr>
 </table>
 
 - 3\.3.2
@@ -945,7 +947,7 @@ Für folgende Lizenzprodukte von Impfstoffen gilt der Nachweis nach Artikel 13 A
 [^annex2-lvlu1-lvl3-1]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
 [^annex2-lvlu1-lvl3-2]: Verordnung (EG) Nr. 726/2004 des Europäischen Parlaments und des Rates vom 31. März 2004 zur Festlegung von Gemeinschaftsverfahren für die Genehmigung und Überwachung von Human- und Tierarzneimitteln und zur Errichtung einer Europäischen Arzneimittel-Agentur, ABl. L 136 vom 30.04.2004, S. 1; zuletzt geändert durch Verordnung (EU) Nr. 2019/5, ABl. L 4 vom 7.1.2019, S. 24.
 
-Anhang 3*[^t-3]*
+Anhang 3[^t-3]
 
 (Art. 17, 18 Abs. 1 und 5 sowie 33)
 
@@ -965,7 +967,7 @@ Anhang 3*[^t-3]*
 - 2\.3 Beginn der Gültigkeit.
 - 2\.4 Ende der Gültigkeit.
 
-Anhang 4*[^t-4]*
+Anhang 4[^t-4]
 
 (Art. 20, 21 Abs. 2, 28*a* Abs. 4 und 33)
 
@@ -995,17 +997,17 @@ Anhang 4*[^t-4]*
 - f. Testergebnis («negativ»)
 - g. Testzentrum oder Institution, wo der Test durchgeführt wurde
 
-Anhang 4a*[^t-5]*
+Anhang 4a[^t-5]
 
 [^t-5]: Eingefügt durch Ziff. II Abs. 2 der V vom 3. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)). Aufgehoben durch Ziff. II Abs. 3 der V vom 16. Febr. 2022 (Auslaufen der nur in der Schweiz gültigen Covid-19-Zertifikate), mit Wirkung seit 17. Febr. 2022 ([AS 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)).
 
-Anhang 5*[^t-6]*
+Anhang 5[^t-6]
 
 (Art. 22, 23 Abs. 1 und 2)
 
 ## Liste der anerkannten ausländischen Zertifikate
 
-[^t-6]: Fassung gemäss Ziff. I der V vom 7. Juli 2021 ([AS 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Bereinigt gemäss Ziff. II der V vom 17. Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), vom 19. Jan. 2022 (Covid-Genesungsertifikate für Antigen-Schnelltests) ([AS 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)), vom 27. April 2022 (EU-kompatible Covid-19-Genesungszertifikate für Antigen-Schnelltests) ([AS 2022 258](https://fedlex.data.admin.ch/eli/oc/2022/258)) und vom 10. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 374](https://fedlex.data.admin.ch/eli/oc/2022/374), [382](https://fedlex.data.admin.ch/eli/oc/2022/382)).
+[^t-6]: Fassung gemäss Ziff. I der V vom 7. Juli 2021 ([AS 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Bereinigt gemäss Ziff. II der V vom 17. Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), vom 19. Jan. 2022 (Covid-Genesungsertifikate für Antigen-Schnelltests) ([AS 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)), vom 27. April 2022 (EU-kompatible Covid-19-Genesungszertifikate für Antigen-Schnelltests) ([AS 2022 258](https://fedlex.data.admin.ch/eli/oc/2022/258)), vom 10. Juni 2022 ([AS 2022 374](https://fedlex.data.admin.ch/eli/oc/2022/374), [382](https://fedlex.data.admin.ch/eli/oc/2022/382)) und Ziff. I der V des EDI vom 12. Aug. 2022, in Kraft seit 22. Aug. 2022 ([AS 2022 446](https://fedlex.data.admin.ch/eli/oc/2022/446)).
 
 ### 1 Anerkannte Zertifikate, die von einem Mitgliedstaat der EU oder der EFTA ausgestellt wurden
 
@@ -1024,11 +1026,12 @@ Anhang 5*[^t-6]*
 
 - 2\.1
 
-  Anerkannt sind die Impf-, Genesungs-, und Testzertifikate, die in Übereinstimmung mit der Verordnung (EU) 2021/953 interoperabel sind und die von den folgenden Staaten und Regionen ausgestellt wurden:
+  Anerkannt sind die Impf-, Genesungs-, und Testzertifikate, die in Überein-stimmung mit der Verordnung (EU) 2021/953 interoperabel sind und die von den folgenden Staaten und Regionen ausgestellt wurden:
 
   - – Albanien
   - – Andorra
   - – Armenien
+  - – Bahrain
   - – Benin
   - – Cabo Verde
   - – El Salvador
@@ -1036,6 +1039,7 @@ Anhang 5*[^t-6]*
   - – Georgien
   - – Heiliger Stuhl (Vatikanstadt)
   - – Israel
+  - – Kosovo
   - – Marokko
   - – Moldova
   - – Monaco
@@ -1067,15 +1071,22 @@ Anhang 5*[^t-6]*
 
   Anerkannt sind die Impfzertifikate, die in Übereinstimmung mit der Verordnung (EU) 2021/953 interoperabel sind und die von den folgenden Staaten und Regionen ausgestellt wurden:
 
+  - – Ecuador
   - – Indonesien
   - – Jordanien
   - – Kolumbien
+  - – Republik Korea
   - – Libanon
+  - – Madagaskar
+  - – Oman
+  - – Peru
+  - – Philippinen
   - – Tunesien
 
 - 2\.4 Impfzertifikate sind nur anerkannt, wenn sie für Impfungen mit einem Impfstoff ausgestellt wurden, der die Anforderungen nach Ziffer 1.2 erfüllt.
+- [tab]
 
-Anhang 6*[^t-7]*
+Anhang 6[^t-7]
 
 (Art. 28 Abs. 3 und 29 Abs. 1 und 2 Bst. c Ziff. 3)
 

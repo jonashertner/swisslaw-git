@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordinance of 4 June 2021 on Certificates to Prove COVID-19 Vaccination, COVID-19 Recovery or a COVID-19 Test Result (COVID-19 Certificates Ordinance)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: en
-version: 2022-07-01
+version: 2022-08-22
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220701/en/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220701-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220701/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220822/en/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220822-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220822/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Certificates Ordinance)
 
-of 4 June 2021 (Status as of 1 July 2022)
+of 4 June 2021 (Status as of 22 August 2022)
 
 The Swiss Federal Council,
 
@@ -778,7 +778,7 @@ The following certificates retain their current validity:
 
 This Ordinance comes into force on 7 June 2021 at 00.00 and applies until 31 December 2022.
 
-Annex 1*[^t-1]*
+Annex 1[^t-1]
 
 (Arts 12, 28*a* para. 3 let. a, 29 para. 2 let. c No 2 and 33)
 
@@ -806,13 +806,13 @@ The scientific evidence on COVID-19 vaccination, testing and recovery continues 
 
 Before travelling, please check the applicable public health measures and related restrictions applied at the point of destination.”
 
-Annex 2*[^t-2]*
+Annex 2[^t-2]
 
 (Arts. 14, 15 and 33)
 
 ## Special provisions concerning COVID-19 vaccination certificates
 
-[^t-2]: Amended by No I para. 1 of the FDHA O of 1 Feb. 2022 (Level of Basic Immunisation and Booster Vaccination, Recognition of other Vaccines) ([AS 2022 56](https://fedlex.data.admin.ch/eli/oc/2022/56)). Revised by No II para. 1 of the O of 16 Feb. 2022 (Expiry of COVID-19 Certificates only valid in Switzerland) ([AS 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)) and No III of the O of 30 March 2022, in force since 1 April 2022 ([AS 2022 206](https://fedlex.data.admin.ch/eli/oc/2022/206)).
+[^t-2]: Amended by No I para. 1 of the FDHA O of 1 Feb. 2022 (Level of Basic Immunisation and Booster Vaccination, Recognition of other Vaccines) ([AS 2022 56](https://fedlex.data.admin.ch/eli/oc/2022/56)). Revised by No II para. 1 of the O of 16 Feb. 2022 (Expiry of COVID-19 Certificates only valid in Switzerland) ([AS 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)), No III of the O of 30 March 2022 ([AS 2022 206](https://fedlex.data.admin.ch/eli/oc/2022/206)) and No I of the FDHA O of 12 Aug. 2022, in force since 22 Aug. 2022 ([AS 2022 446](https://fedlex.data.admin.ch/eli/oc/2022/446)).
 
 ### 1 Start of validity and maximum duration
 
@@ -860,11 +860,12 @@ Annex 2*[^t-2]*
 
 - 3\.1.3 Vaccine doses also count as booster vaccinations if they are administered to immunosuppressed persons outside the vaccination programmes in accordance with this Ordinance in order to achieve effective basic immunisation.
 - 3\.2 Single-dose vaccines
-- 3\.2.1 Number 3.2 applies to the following vaccine authorised by Swissmedic:
+- 3\.2.1 Number 3.2 applies to the following vaccines:
 
 <table>
 <tr><th>Product name(s)</th><th>Manufacturer</th></tr>
 <tr><td>Janssen COVID-19 vaccine</td><td>Johnson&Johnson</td></tr>
+<tr><td>Convidecia (Ad5.CoV2‑S)</td><td>CanSino</td></tr>
 </table>
 
 - 3\.2.2
@@ -893,6 +894,7 @@ Annex 2*[^t-2]*
 <tr><td>BIBP P-CoV</td><td>Sinopharm Wuhan /Sinopharm Beijing</td></tr>
 <tr><td>CoronaVac</td><td>Sinovac</td></tr>
 <tr><td>Bharat Biotech Covaxin</td><td>Indian Council for Medical Research</td></tr>
+<tr><td>Valneva (VLA 2001)</td><td>Valneva</td></tr>
 </table>
 
 - 3\.3.2
@@ -914,8 +916,8 @@ Annex 2*[^t-2]*
 
 <table>
 <tr><th>Product name(s)</th><th>Manufacturer</th><th>Supplement with a vaccine authorised in Switzerland</th></tr>
-<tr><td>Sputnik light</td><td>Gamaleya National Centre of Epidemiology and Microbiology</td><td>Single dose of Comirnaty (BNT162b2) or Spikevax (mRNA-1273), if at least one dose has already been administered</td></tr>
-<tr><td>Sputnik V (Gam-COVID-Vac, rAd26-S, rAd5-S)</td><td>Gamaleya National Centre of Epidemiology and Microbiology</td><td>Single dose of Comirnaty (BNT162b2) or Spikevax (mRNA-1273), if at least one dose has already been administered</td></tr>
+<tr><th>Sputnik light</th><th>Gamaleya National Centre of Epidemiology and Microbiology</th><th>Single dose of Comirnaty (BNT162b2) or Spikevax (mRNA-1273), if at least one dose has already been administered</th></tr>
+<tr><th>Sputnik V (Gam-COVID-Vac, rAd26-S, rAd5-S)</th><th>Gamaleya National Centre of Epidemiology and Microbiology</th><th>Single dose of Comirnaty (BNT162b2) or Spikevax (mRNA-1273), if at least one dose has already been administered</th></tr>
 <tr><td>KoviVac</td><td>Chumakov Center</td><td>Single dose of Comirnaty (BNT162b2) or Spikevax (mRNA-1273), if at least two doses have already been administered</td></tr>
 <tr><td>QazVac (QazCOVID-in)</td><td>Kazakhstan RIBSP</td><td>Single dose of Comirnaty (BNT162b2) or Spikevax (mRNA-1273), if at least two doses have already been administered</td></tr>
 <tr><td>Medigen (MVC-COV1901)</td><td>Medigen Vaccine Biologics</td><td>Single dose of Comirnaty (BNT162b2) or Spikevax (mRNA-1273), if at least two doses have already been administered</td></tr>
@@ -947,7 +949,7 @@ Proof in accordance with Article 13 paragraph 1 letter d is considered to be pro
 [^annex2-lvlu1-lvl3-1]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
 [^annex2-lvlu1-lvl3-2]: Regulation (EC) No 726/2004 of the European Parliament and of the Council of 31 March laying down Community procedures for the authorisation and supervision of medicinal products for human and veterinary use and establishing a European Medicines Agency, OJ L 136, 30.4.2004, p. 1; last amended by Regulation (EU) No 2019/5, OJ L 4, 7.1.2019, p. 24.
 
-Annex 3*[^t-3]*
+Annex 3[^t-3]
 
 (Arts. 17, 18 paras. 1 and 5 and 33)
 
@@ -967,7 +969,7 @@ Annex 3*[^t-3]*
 - 2\.3 Start of validity.
 - 2\.4 End of validity.
 
-Annex 4*[^t-4]*
+Annex 4[^t-4]
 
 (Arts. 20, 21 para. 2, 28*a* para. 4 and 33)
 
@@ -997,17 +999,17 @@ Annex 4*[^t-4]*
 - f. Test result (negative)
 - g. Test centre or institution where the test was carried out
 
-Annex 4a*[^t-5]*
+Annex 4a[^t-5]
 
 [^t-5]: Inserted by No II para. 2 of the O of 3 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)). Repealed by No II para. 3 of the O of 16 Feb. 2022 (Expiry of COVID-19 Certificates only valid in Switzerland), with effect from 17 Feb. 2022 ([AS 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)).
 
-Annex 5*[^t-6]*
+Annex 5[^t-6]
 
 (Arts. 22, 23 paras. 1 and 2)
 
 ## List of recognised foreign certificates
 
-[^t-6]: Amended by No I of the O of 7 July 2021 ([AS 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Revised by No II of the O of 17 Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), of 19 Jan. 2022 (COVID Recovery Certificates for Rapid Antigen Tests) ([AS 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)), of 27 April 2022 (EU Compatible COVID-19 Recovery Certificates for Rapid Antigen Tests) ([AS 2022 258](https://fedlex.data.admin.ch/eli/oc/2022/258)) and of 10 June 2022, in force since 1 July 2022 ([AS 2022 374](https://fedlex.data.admin.ch/eli/oc/2022/374), [382](https://fedlex.data.admin.ch/eli/oc/2022/382)).
+[^t-6]: Amended by No I of the O of 7 July 2021 ([AS 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Revised by No II of the O of 17 Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), of 19 Jan. 2022 (COVID Recovery Certificates for Rapid Antigen Tests) ([AS 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)), of 27 April 2022 (EU Compatible COVID-19 Recovery Certificates for Rapid Antigen Tests) ([AS 2022 258](https://fedlex.data.admin.ch/eli/oc/2022/258)), of 10 June 2022 ([AS 2022 374](https://fedlex.data.admin.ch/eli/oc/2022/374), [382](https://fedlex.data.admin.ch/eli/oc/2022/382)) and No I of the FDHA O of 12 Aug. 2022, in force since 22 Aug. 2022 ([AS 2022 446](https://fedlex.data.admin.ch/eli/oc/2022/446)).
 
 ### 1 Recognised certificates issued by an EU member state or an EFTA state
 
@@ -1029,6 +1031,7 @@ Annex 5*[^t-6]*
 - – Albania
 - – Andorra
 - – Armenia
+- – Bahrain
 - – Benin
 - – Cape Verde
 - – El Salvador
@@ -1036,6 +1039,7 @@ Annex 5*[^t-6]*
 - – Georgia
 - – Holy See (Vatican)
 - – Israel
+- – Kosovo
 - – Morocco
 - – Moldova
 - – Monaco
@@ -1068,14 +1072,20 @@ Annex 5*[^t-6]*
   Vaccination certificates that are interoperable in accordance with Regulation (EU) 2021/953 and have been issued by the following states and regions are recognised:
 
   - – Colombia
+  - – Ecuador
   - – Indonesia
   - – Jordan
+  - – Republic of Korea
   - – Lebanon
+  - – Madagascar
+  - – Oman
+  - – Peru
+  - – Philippines
   - – Tunisia
 
 - 2\.4 Vaccination certificates are only recognised if they have been issued for vaccinations with a vaccine that meets the requirements of number 1.2.
 
-Annex 6*[^t-7]*
+Annex 6[^t-7]
 
 (Art. 28 para. 3 and 29 para. 1 and 2 let. c No 3)
 
