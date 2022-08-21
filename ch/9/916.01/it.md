@@ -4,11 +4,11 @@ title: "Ordinanza del 26 ottobre 2011 concernente l'importazione di prodotti agr
 short: OIAgr
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/770"
 language: it
-version: 2022-08-01
+version: 2022-08-22
 adopted: 2011-10-26
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/770/20220801/it/xml/fedlex-data-admin-ch-eli-cc-2011-770-20220801-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20220801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/770/20220822/it/xml/fedlex-data-admin-ch-eli-cc-2011-770-20220822-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20220822/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20220801/it"
 
 (Ordinanza sulle importazioni agricole, OIAgr)
 
-del 26 ottobre 2011 (Stato 1° agosto 2022)
+del 26 ottobre 2011 (Stato 22 agosto 2022)
 
 Il Consiglio federale svizzero,
 
@@ -520,7 +520,7 @@ In caso di insufficiente approvvigionamento del mercato indigeno, l’UFAG può 
 
 [^36-1]: Nuovo testo giusta il n. I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)).
 
-### Sezione 4:**** Importazione di patate e prodotti a base di patate
+### Sezione 4: Importazione di patate e prodotti a base di patate
 
 [^chap4-sec4-1]
 
@@ -767,7 +767,7 @@ Per importazioni uniche in quantità esigue e in condizioni particolari, segnata
 [^55-1]: Questo art. ha un nuovo testo ([RU 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)).
 [^55-2]: Nuovo testo giusta il n. I dell’O del 26 ott. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4083](https://fedlex.data.admin.ch/eli/oc/2016/677)).
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 1 cpv. 1, 4, 5 cpv. 1, 7, 10, 13 cpv. 2, 27 cpv. 1, 32 cpv. 1, 34 e 37 cpv. 3)
 
@@ -1871,7 +1871,7 @@ La fascia di fluttuazione per i prezzi soglia e i valori indicativi d’importaz
 <tr><td>0708.9010</td><td>Gruppo 1</td><td>40.00</td><td>[14-6]</td></tr>
 <tr><td>0709.9991</td><td>Gruppo 3</td><td>37.00</td><td>[14-6]</td></tr>
 <tr><td>0712.9070</td><td>Gruppo 3</td><td>37.00</td><td>[14-6]</td></tr>
-<tr><td>**0713.1011**</td><td>**39.00**</td><td>**39.00**</td><td>**[14-1.1] [14-6]**</td></tr>
+<tr><td>0713.1011</td><td>39.00</td><td>39.00</td><td>[14-1.1] [14-6]</td></tr>
 <tr><td>0713.1012</td><td>Gruppo 1</td><td></td><td>PGI non necessario</td></tr>
 <tr><td>0713.1091</td><td>Gruppo 1</td><td>39.00</td><td>[14-6]</td></tr>
 <tr><td>0713.2011</td><td>Gruppo 1</td><td>39.00</td><td>[14-6]</td></tr>
@@ -1940,11 +1940,11 @@ La fascia di fluttuazione per i prezzi soglia e i valori indicativi d’importaz
 <tr><td>1002.9031</td><td>Gruppo 3</td><td></td><td>[14-5] [14-6]</td></tr>
 <tr><td>1002.9039</td><td>Gruppo 3</td><td>37.00</td><td>[14-6]</td></tr>
 <tr><td>1002.9040</td><td>Gruppo 3</td><td></td><td>PGI non necessario</td></tr>
-<tr><td>**1003.1000**</td><td>**78.00**</td><td>**78.00**</td><td>**[14 1.2] Da semina, PGI non necessario**</td></tr>
+<tr><td>1003.1000</td><td>78.00</td><td>78.00</td><td>[14 1.2] Da semina, PGI non necessario</td></tr>
 <tr><td>1003.9020</td><td>Gruppo 3</td><td></td><td>[14-6]</td></tr>
 <tr><td>1003.9030</td><td>Gruppo 3</td><td></td><td>PGI non necessario</td></tr>
 <tr><td>1003.9051</td><td>Gruppo 3</td><td></td><td>[14-5] [14-6]</td></tr>
-<tr><td>**1003.9059**</td><td>**36.00**</td><td>**36.00**</td><td>**[14-1.3] [14-6]**</td></tr>
+<tr><td>1003.9059</td><td>36.00</td><td>36.00</td><td>[14-1.3] [14-6]</td></tr>
 <tr><td>1003.9060</td><td>Gruppo 3</td><td></td><td>PGI non necessario</td></tr>
 <tr><td>1004.1000</td><td>Gruppo 2</td><td>86.00</td><td>Da semina, PGI non necessario</td></tr>
 <tr><td>1004.9031</td><td>Gruppo 3</td><td></td><td>[14-5] [14-6]</td></tr>
@@ -2034,7 +2034,7 @@ La fascia di fluttuazione per i prezzi soglia e i valori indicativi d’importaz
 <tr><td>1108.1912</td><td>Gruppo 11</td><td>41.00</td><td>[14-6]</td></tr>
 <tr><td>1108.1992</td><td>Gruppo 11</td><td>41.00</td><td>[14-6]</td></tr>
 <tr><td>1108.2020</td><td>Gruppo 11</td><td>36.00</td><td>[14-6]</td></tr>
-<tr><td>**1201.9010**</td><td>**50.00**</td><td>**50.00**</td><td>**[14-1.4]** **[14-6]**</td></tr>
+<tr><td>1201.9010</td><td>50.00</td><td>50.00</td><td>[14-1.4] [14-6]</td></tr>
 <tr><td>1201.9021</td><td>Gruppo 4</td><td></td><td>[14-6]</td></tr>
 <tr><td>1201.9023</td><td>Gruppo 4</td><td></td><td>[14-6]</td></tr>
 <tr><td>1201.9024</td><td>Gruppo 4</td><td></td><td>[14-6]</td></tr>
@@ -2177,11 +2177,11 @@ La fascia di fluttuazione per i prezzi soglia e i valori indicativi d’importaz
 <tr><td>1212.9920</td><td>Gruppo 5</td><td>40.00</td><td>[14-6]</td></tr>
 <tr><td>1213.0091</td><td>Gruppo 5</td><td>10.00</td><td>PGI non necessario</td></tr>
 <tr><td>1213.0099</td><td>Gruppo 5</td><td>14.00</td><td>[14-6]</td></tr>
-<tr><td>**1214.1010**</td><td>**32.00**</td><td>**32.00**</td><td>**[14-1.5]** **[14-6]**</td></tr>
+<tr><td>1214.1010</td><td>32.00</td><td>32.00</td><td>[14-1.5] [14-6]</td></tr>
 <tr><td>1214.9011</td><td>Gruppo 5</td><td>25.00</td><td>PGI non necessario</td></tr>
 <tr><td>1214.9019</td><td>Gruppo 5</td><td>33.00</td><td>[14-6]</td></tr>
 <tr><td>1404.9010</td><td>Gruppo 5</td><td>35.00</td><td>[14-6]</td></tr>
-<tr><td>**1501.1011**</td><td>**60.00**</td><td>**60.00**</td><td>**[14-1.6]** **[14-6]**</td></tr>
+<tr><td>1501.1011</td><td>60.00</td><td>60.00</td><td>[14-1.6] [14-6]</td></tr>
 <tr><td>1501.1019</td><td>Gruppo 6</td><td>60.00</td><td>[14-6]</td></tr>
 <tr><td>1501.2011</td><td>Gruppo 6</td><td>60.00</td><td>[14-6]</td></tr>
 <tr><td>1501.2019</td><td>Gruppo 6</td><td>60.00</td><td>[14-6]</td></tr>
@@ -2251,7 +2251,7 @@ La fascia di fluttuazione per i prezzi soglia e i valori indicativi d’importaz
 <tr><td>1518.0011</td><td>Gruppo 6</td><td>62.00</td><td>[14-6]</td></tr>
 <tr><td>1518.0081</td><td>Gruppo 6</td><td>56.00</td><td>[14-6]</td></tr>
 <tr><td>1518.0093</td><td>Gruppo 6</td><td>61.00</td><td>[14-6]</td></tr>
-<tr><td>**1702.3021**</td><td>**40.00**</td><td>**40.00**</td><td>**[14-1.7] [14-6]**</td></tr>
+<tr><td>1702.3021</td><td>40.00</td><td>40.00</td><td>[14-1.7] [14-6]</td></tr>
 <tr><td>1702.3033</td><td>Gruppo 7</td><td>40.00</td><td>[14-6]</td></tr>
 <tr><td>1702.4011</td><td>Gruppo 7</td><td>40.00</td><td>[14-6]</td></tr>
 <tr><td>1702.6022</td><td>Gruppo 7</td><td>34.00</td><td>[14-6]</td></tr>
@@ -2260,7 +2260,7 @@ La fascia di fluttuazione per i prezzi soglia e i valori indicativi d’importaz
 <tr><td>1802.0010</td><td>Gruppo 5</td><td>22.00</td><td>[14-6]</td></tr>
 <tr><td>1905.9021</td><td>Gruppo 11</td><td>47.00</td><td>[14-6]</td></tr>
 <tr><td>2102.1091</td><td>Gruppo 8</td><td>49.00</td><td>[14-6]</td></tr>
-<tr><td>**2102.2011**</td><td>**49.00**</td><td>**49.00**</td><td>**[14-1.8] [14-6]**</td></tr>
+<tr><td>2102.2011</td><td>49.00</td><td>49.00</td><td>[14-1.8] [14-6]</td></tr>
 <tr><td>2102.2021</td><td>Gruppo 8</td><td>52.00</td><td>[14-6]</td></tr>
 <tr><td>2103.3011</td><td>Gruppo 4</td><td>28.00</td><td>[14-6]</td></tr>
 <tr><td>2301.1011</td><td>Gruppo 9</td><td>61.00</td><td>[14-6]</td></tr>
@@ -2271,12 +2271,12 @@ La fascia di fluttuazione per i prezzi soglia e i valori indicativi d’importaz
 <tr><td>2302.4030</td><td>Gruppo 11</td><td>35.00</td><td>[14-6]</td></tr>
 <tr><td>2302.4091</td><td>Gruppo 11</td><td>35.00</td><td>[14-6]</td></tr>
 <tr><td>2302.5010</td><td>Gruppo 11</td><td>30.00</td><td>[14-6]</td></tr>
-<tr><td>**2303.1011**</td><td>**59.00**</td><td>**59.00**</td><td>**[14-1.9] [14-6]**</td></tr>
+<tr><td>2303.1011</td><td>59.00</td><td>59.00</td><td>[14-1.9] [14-6]</td></tr>
 <tr><td>2303.1012</td><td>Gruppo 9</td><td>28.00</td><td>[14-6]</td></tr>
 <tr><td>2303.1018</td><td>Gruppo 9</td><td>51.00</td><td>[14-6]</td></tr>
 <tr><td>2303.2010</td><td>Gruppo 9</td><td>34.00</td><td>[14-6]</td></tr>
 <tr><td>2303.3010</td><td>Gruppo 9</td><td>34.00</td><td>[14-6]</td></tr>
-<tr><td>**2304.0010**</td><td>**45.00**</td><td>**45.00**</td><td>**[14-1.10]** **[14-6]**</td></tr>
+<tr><td>2304.0010</td><td>45.00</td><td>45.00</td><td>[14-1.10] [14-6]</td></tr>
 <tr><td>2305.0010</td><td>Gruppo 10</td><td>47.00</td><td>[14-6]</td></tr>
 <tr><td>2306.1010</td><td>Gruppo 10</td><td>34.00</td><td>[14-6]</td></tr>
 <tr><td>2306.2010</td><td>Gruppo 10</td><td>31.00</td><td>[14-6]</td></tr>
@@ -2297,7 +2297,7 @@ La fascia di fluttuazione per i prezzi soglia e i valori indicativi d’importaz
 <tr><td>2309.9081</td><td>[14-4]</td><td></td><td>[14-6]</td></tr>
 <tr><td>2309.9082</td><td>[14-4]</td><td></td><td>[14-6]</td></tr>
 <tr><td>2309.9089</td><td>[14-4]</td><td></td><td>[14-6]</td></tr>
-<tr><td>**3505.1010**</td><td>**41.00**</td><td>**41.00**</td><td>**[14-1.11] [14-6]**</td></tr>
+<tr><td>3505.1010</td><td>41.00</td><td>41.00</td><td>[14-1.11] [14-6]</td></tr>
 <tr><td>3505.2010</td><td>Gruppo 11</td><td>51.00</td><td>[14-6]</td></tr>
 <tr><td>3809.1010</td><td>Gruppo 11</td><td>41.00</td><td>[14-6]</td></tr>
 <tr><td>3823.1110</td><td>Gruppo 6</td><td>64.00</td><td>[14-6]</td></tr>
@@ -2391,7 +2391,7 @@ Le importazioni nel traffico turistico sono disciplinate dall’articolo 47.
 
 Prescrizioni specifiche: la ripartizione dei contingenti doganali è disciplinata agli articoli 28 a 33 e il calcolo delle aliquote di dazio delle voci di tariffa in questione è disciplinato all’articolo 4 o 6. Per le voci di tariffa del capitolo 12 della tariffa doganale non vi sono prescrizioni specifiche.
 
-**[1] Sono elencate le aliquote di dazio che divergono dalla tariffa generale. Nella tariffa d’uso www.tares.ch possono essere consultate ulteriori aliquote di dazio applicabili.**
+**[1]** **Sono elencate le aliquote di dazio che divergono dalla tariffa generale. Nella tariffa d’uso www.tares.ch possono essere consultate ulteriori aliquote di dazio applicabili.**
 
 [15-1] L’aliquota di dazio è stabilita secondo l’articolo 6.
 
@@ -2748,7 +2748,7 @@ Per l’importazione dei prodotti di seguito elencati è necessario un PGI. Le d
 <tr><th>0105.9400</th><th></th><th>20</th><th>Per galli di peso superiore a 2000 g non è necessario un PGI</th></tr>
 </table>
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 (art. 4 e 28)
 
@@ -2875,13 +2875,13 @@ Allegato 2*[^t-2]*
 <tr><td colspan="12">**[1]** Le aliquote di dazio possono divergere dalla tariffa generale. Le nuove aliquote di dazio sono contrassegnate con «\*».</td></tr>
 </table>
 
-Allegato 3*[^t-3]*
+Allegato 3[^t-3]
 
 (art. 10 e 27 cpv. 2<sup>bis</sup> lett. a)
 
 ## Contingenti doganali interi e parziali
 
-[^t-3]: Aggiornato dal n. II dell’O del 18 ott. 2017 ([RU 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)), dal n. I dell’O del 18 ott. 2017 ([RU 2017 6113](https://fedlex.data.admin.ch/eli/oc/2017/674)), dal n. II dell’O del 31 ott. 2018 ([RU 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)), dall’all. 2 n. 2 dell’O del 26 ago. 2020 ([RU 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)), dal n. II cpv. 1 dell’O dell’11 nov. 2020 ([RU 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)), dall’all. 3 n. 14 dell’O del 30 giu. 2021 concernente la modifica della tariffa doganale ([RU 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)), dal n. I dell’O del 17 set. 2021 ([RU 2021 571](https://fedlex.data.admin.ch/eli/oc/2021/571)), dalla correzione del 18 ott. 2021 ([RU 2021 617](https://fedlex.data.admin.ch/eli/oc/2021/617)), dal n. III dell’O dell’UFAG del 30 ago. 2021 ([RU 2021 537](https://fedlex.data.admin.ch/eli/oc/2021/537)), dai n. I delle O dell’UFAG del 17 nov. 2021 ([RU 2021 797](https://fedlex.data.admin.ch/eli/oc/2021/797)), del 3 feb. 2022 ([RU 2022 70](https://fedlex.data.admin.ch/eli/oc/2022/70)), del 1° feb. 2022 ([RU 2022 116](https://fedlex.data.admin.ch/eli/oc/2022/116)), del 15 mar. 2022, ([RU 2022 185](https://fedlex.data.admin.ch/eli/oc/2022/185)), dal n. I cpv. 1 dell’O del 30 mar. 2022 ([RU 2022 215](https://fedlex.data.admin.ch/eli/oc/2022/215)), dai n. I delle O dell’UFAG del 20 apr. 2022 ([RU 2022 280](https://fedlex.data.admin.ch/eli/oc/2022/280)), del 14 giu. 2022 ([RU 2022 365](https://fedlex.data.admin.ch/eli/oc/2022/365)) e dal n. I cpv. 1 dell’O del 10 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 372](https://fedlex.data.admin.ch/eli/oc/2022/372)).
+[^t-3]: Aggiornato dal n. II dell’O del 18 ott. 2017 ([RU 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)), dal n. I dell’O del 18 ott. 2017 ([RU 2017 6113](https://fedlex.data.admin.ch/eli/oc/2017/674)), dal n. II dell’O del 31 ott. 2018 ([RU 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)), dall’all. 2 n. 2 dell’O del 26 ago. 2020 ([RU 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)), dal n. II cpv. 1 dell’O dell’11 nov. 2020 ([RU 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)), dall’all. 3 n. 14 dell’O del 30 giu. 2021 concernente la modifica della tariffa doganale ([RU 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)), dal n. I dell’O del 17 set. 2021 ([RU 2021 571](https://fedlex.data.admin.ch/eli/oc/2021/571)), dalla correzione del 18 ott. 2021 ([RU 2021 617](https://fedlex.data.admin.ch/eli/oc/2021/617)), dal n. III dell’O dell’UFAG del 30 ago. 2021 ([RU 2021 537](https://fedlex.data.admin.ch/eli/oc/2021/537)), dai n. I delle O dell’UFAG del 17 nov. 2021 ([RU 2021 797](https://fedlex.data.admin.ch/eli/oc/2021/797)), del 3 feb. 2022 ([RU 2022 70](https://fedlex.data.admin.ch/eli/oc/2022/70)), del 1° feb. 2022 ([RU 2022 116](https://fedlex.data.admin.ch/eli/oc/2022/116)), del 15 mar. 2022, ([RU 2022 185](https://fedlex.data.admin.ch/eli/oc/2022/185)), dal n. I cpv. 1 dell’O del 30 mar. 2022 ([RU 2022 215](https://fedlex.data.admin.ch/eli/oc/2022/215)), dai n. I delle O dell’UFAG del 20 apr. 2022 ([RU 2022 280](https://fedlex.data.admin.ch/eli/oc/2022/280)), del 14 giu. 2022 ([RU 2022 365](https://fedlex.data.admin.ch/eli/oc/2022/365)), dal n. I cpv. 1 dell’O del 10 giu. 2022 ([RU 2022 372](https://fedlex.data.admin.ch/eli/oc/2022/372)) e dal n. I dell’O dell’UGAG del 9 ago. 2022, in vigore dal 22 ago. 2022 ([RU 2022 447](https://fedlex.data.admin.ch/eli/oc/2022/447)).
 
 ### 1. Disciplinamento del mercato: animali della specie equina
 
@@ -2965,6 +2965,7 @@ Allegato 3*[^t-3]*
 <tr><td>07.4.1</td><td>Aumento temporaneo del contingente doganale parziale per il 2022: dal 15 febbraio fino al 31 dicembre 2022</td><td>1000</td></tr>
 <tr><td>07.4.2</td><td>Aumento temporaneo del contingente doganale parziale per il 2022: dal 1° aprile fino al 31 dicembre 2022</td><td>2000</td></tr>
 <tr><td>07.4.3</td><td>Aumento temporaneo del contingente doganale parziale per il 2022: dal 1° luglio fino al 31 dicembre 2022</td><td>1000</td></tr>
+<tr><td>07.4.4</td><td>Aumento temporaneo del contingente doganale parziale per il 2022: dal 22 agosto fino al 31 dicembre 2022</td><td>1000</td></tr>
 <tr><td>07.5</td><td>«Contingente Fontal»</td><td>**2624**</td></tr>
 <tr><td>07.6</td><td>Altri latticini</td><td>**[5]**</td></tr>
 <tr><td>08</td><td>Caseina</td><td>697 **[5]**</td></tr>
@@ -3005,18 +3006,18 @@ Allegato 3*[^t-3]*
 <table>
 <tr><th>Contingente doganale n.</th><th>Prodotto</th><th>Volume del contingente doganale (tonnellate)</th></tr>
 <tr><th>**[1]**</th><th>**[1]**</th><th>**[1]**</th></tr>
-<tr><td>**14**</td><td>**Patate e prodotti a base di patate, in equivalenti di patate, di cui:**</td><td>**23 750**</td></tr>
-<tr><td>**14.1**</td><td>**Patate da semina**</td><td>**4000**</td></tr>
-<tr><td>**14.1.1**</td><td>**Aumento temporaneo del contingente doganale parziale per il 2022: dal 1° gennaio al 31 dicembre 2022**</td><td>**3000**</td></tr>
-<tr><td>**14.2**</td><td>**Patate destinate alla valorizzazione**</td><td>**9250**</td></tr>
-<tr><td>**14.2.1**</td><td>**Aumento temporaneo del contingente doganale parziale per il 2022: dal 1° gennaio al 30 giugno 2022**</td><td>**25 000**</td></tr>
-<tr><td>**14.2.2**</td><td>**Aumento temporaneo del contingente doganale parziale per il 2022: dal 1° marzo al 30 giugno 2022**</td><td>**20 000**</td></tr>
-<tr><td>**14.3**</td><td>**Patate da tavola**</td><td>**6500**</td></tr>
-<tr><td>**14.3.1**</td><td>**Aumento temporaneo del contingente doganale parziale per il 2022: dal 1° marzo al 15 luglio 2022**</td><td>**20 000**</td></tr>
-<tr><td>**14.3.2**</td><td>**Aumento temporaneo del contingente doganale parziale per il 2022: dal 15 maggio al 31 luglio 2022**</td><td>**5000**</td></tr>
-<tr><td>**14.4**</td><td>**Prodotti a base di patate, di cui:**</td><td>**4000**</td></tr>
-<tr><td>**14.4.1**</td><td>**Categoria di merce prodotti semilavorati**</td><td>**1500**</td></tr>
-<tr><td>**14.4.2**</td><td>**Categoria di merce prodotti finiti**</td><td>**2500**</td></tr>
+<tr><td>14</td><td>Patate e prodotti a base di patate, in equivalenti di patate, di cui:</td><td>**23 750**</td></tr>
+<tr><td>14.1</td><td>Patate da semina</td><td>**4000**</td></tr>
+<tr><td>14.1.1</td><td>Aumento temporaneo del contingente doganale parziale per il 2022: dal 1° gennaio al 31 dicembre 2022</td><td>3000</td></tr>
+<tr><td>14.2</td><td>Patate destinate alla valorizzazione</td><td>**9250**</td></tr>
+<tr><td>14.2.1</td><td>Aumento temporaneo del contingente doganale parziale per il 2022: dal 1° gennaio al 30 giugno 2022</td><td>**25 000**</td></tr>
+<tr><td>14.2.2</td><td>Aumento temporaneo del contingente doganale parziale per il 2022: dal 1° marzo al 30 giugno 2022</td><td>**20 000**</td></tr>
+<tr><td>14.3</td><td>Patate da tavola</td><td>**6500**</td></tr>
+<tr><td>14.3.1</td><td>Aumento temporaneo del contingente doganale parziale per il 2022: dal 1° marzo al 15 luglio 2022</td><td>**20 000**</td></tr>
+<tr><td>14.3.2</td><td>Aumento temporaneo del contingente doganale parziale per il 2022: dal 15 maggio al 31 luglio 2022</td><td>5000</td></tr>
+<tr><td>14.4</td><td>Prodotti a base di patate, di cui:</td><td>**4000**</td></tr>
+<tr><td>14.4.1</td><td>Categoria di merce prodotti semilavorati</td><td>**1500**</td></tr>
+<tr><td>14.4.2</td><td>Categoria di merce prodotti finiti</td><td>**2500**</td></tr>
 <tr><td colspan="3">**[1]** **In grassetto le indicazioni che divergono dalla tariffa generale. Le importazioni dalle zone franche secondo il regolamento del 22 dic. 1933 concernente le importazioni in Svizzera dei prodotti delle zone franche (RS** *0.631.256.934.953***) non sono computate sul contingente da ripartire.**</td></tr>
 </table>
 
@@ -3089,7 +3090,7 @@ Allegato 3*[^t-3]*
 <tr><td colspan="4">**[2]** **È possibile superare la quantità prevista dal contingente doganale.**</td></tr>
 </table>
 
-Allegato 4*[^t-4]*
+Allegato 4[^t-4]
 
 (art. 31 cpv. 2)
 
@@ -3108,11 +3109,11 @@ Allegato 4*[^t-4]*
 <tr><td>10 000 t lorde</td><td>3 novembre – 31 dicembre</td></tr>
 </table>
 
-Allegato 5*[^t-5]*
+Allegato 5[^t-5]
 
 [^t-5]: Abrogato dall’all. dell’O del 2 apr. 2014, con effetto dal 1° lug. 2014 ([RU 2014 979](https://fedlex.data.admin.ch/eli/oc/2014/218)).
 
-Allegato 6*[^t-6]*
+Allegato 6[^t-6]
 
 [^t-6]: Abrogato dal n. II cpv. 2 dell’O del 3 nov. 2021, con effetto dal 1° gen. 2022 ([RU 2021 696](https://fedlex.data.admin.ch/eli/oc/2021/696)).
 

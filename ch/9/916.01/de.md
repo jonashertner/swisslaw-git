@@ -4,11 +4,11 @@ title: "Verordnung vom 26. Oktober 2011 über die Einfuhr von landwirtschaftlich
 short: AEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/770"
 language: de
-version: 2022-08-01
+version: 2022-08-22
 adopted: 2011-10-26
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/770/20220801/de/xml/fedlex-data-admin-ch-eli-cc-2011-770-20220801-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20220801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/770/20220822/de/xml/fedlex-data-admin-ch-eli-cc-2011-770-20220822-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20220822/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20220801/de"
 
 (Agrareinfuhrverordnung, AEV)
 
-vom 26. Oktober 2011 (Stand am 1. August 2022)
+vom 26. Oktober 2011 (Stand am 22. August 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -763,7 +763,7 @@ Das BLW kann auf Gesuch hin einmalige Einfuhren in geringen Mengen und aufgrund 
 [^55-1]: Dieser Art. hat eine neue Fassung ([AS 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)).
 [^55-2]: Fassung gemäss Ziff. I der V vom 26. Okt. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4083](https://fedlex.data.admin.ch/eli/oc/2016/677)).
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 1 Abs. 1, 4, 5 Abs. 1, 7, 10, 13 Abs. 2, 27 Abs. 1, 32 Abs. 1, 34 und 37 Abs. 3)
 
@@ -1372,7 +1372,7 @@ Für die Einfuhr der aufgeführten Erzeugnisse ist keine GEB erforderlich.
 
 Einfuhren im Reiseverkehr sind in Artikel 47 geregelt.
 
-- **[1]** Aufgeführt sind vom Generaltarif abweichende Zollansätze. **Im Gebrauchstarif www.tares.ch sind weitere anwendbare Zollansätze einsehbar.**
+- **[1]** **Aufgeführt sind vom Generaltarif abweichende Zollansätze.** **Im Gebrauchstarif www.tares.ch sind weitere anwendbare Zollansätze einsehbar.**
 - [8-1] Auf eine Regelung zur Verteilung des Zollkontingents Nr. 13 wird verzichtet, jede Einfuhr wird zum KZA zugelassen (Art. 26 AEV; Art. 12 VEAGOG [SR *916.121.10*]).
 
 <table>
@@ -1401,7 +1401,7 @@ Einfuhren im Reiseverkehr sind in Artikel 47 geregelt.
 
 Marktordnungsspezifische Vorschriften wie die Aufteilung des Kontingents und die Verteilung der Teilzollkontingente sind in den Artikeln 36*a*–42 geregelt. In der Spalte «Warenkategorie und Ergänzungen» ist die Unterteilung des Teilzollkontingents Nr. 14.4 nach Artikel 37 Absatz 2 angegeben.
 
-- **[1]** Aufgeführt sind vom Generaltarif abweichende Zollansätze. **Im Gebrauchstarif www.tares.ch sind weitere anwendbare Zollansätze einsehbar.**
+- **[1]** **Aufgeführt sind vom Generaltarif abweichende Zollansätze.** **Im Gebrauchstarif www.tares.ch sind weitere anwendbare Zollansätze einsehbar.**
 - [9-1] Der Zollansatz ist in der Verordnung des EFD vom 27. Januar 2005 über die anwendbaren beweglichen Teilbeträge bei der Einfuhr von Erzeugnissen aus Landwirtschaftsprodukten (SR *632.111.722.1*) festgelegt.
 - [9-2] Nicht betroffen von den marktordnungsspezifischen Vorschriften.
 
@@ -1811,7 +1811,7 @@ Einfuhren im Reiseverkehr sind in Artikel 47 geregelt.
 
 Marktordnungsspezifische Vorschriften sind in der VEAGOG (SR *916.121.10*) geregelt. Die Tarifnummer 0808.4011 ist von den Regelungen der VEAGOG nicht betroffen [13-1].
 
-**[1] Aufgeführt sind vom Generaltarif abweichende Zollansätze. Im Gebrauchstarif www.tares.ch sind weitere anwendbare Zollansätze einsehbar.**
+**[1]** **Aufgeführt sind vom Generaltarif abweichende Zollansätze.** **Im Gebrauchstarif www.tares.ch sind weitere anwendbare Zollansätze einsehbar.**
 
 <table>
 <tr><th>Tarifnummer</th><th>Zollansatz je 100 kg brutto **[1]** (CHF)</th><th></th><th>Anzahl kg brutto ohne GEB-Pflicht</th><th>Zollkontingent (Nr.)</th><th>Ergänzungen</th></tr>
@@ -1884,7 +1884,7 @@ Die Bandbreite beträgt für die in diesem Anhang aufgeführten Schwellenpreise 
 <tr><td>0708.9010</td><td colspan="2">Gruppe 1</td><td>40.00</td><td>[14-6]</td></tr>
 <tr><td>0709.9991</td><td colspan="2">Gruppe 3</td><td>37.00</td><td>[14-6]</td></tr>
 <tr><td>0712.9070</td><td colspan="2">Gruppe 3</td><td>37.00</td><td>[14-6]</td></tr>
-<tr><td>**0713.1011**</td><td colspan="2">**39.00**</td><td>**39.00**</td><td>**[14-1.1] [14-6]**</td></tr>
+<tr><td>0713.1011</td><td colspan="2">39.00</td><td>39.00</td><td>[14-1.1] [14-6]</td></tr>
 <tr><td>0713.1012</td><td colspan="2">Gruppe 1</td><td></td><td>keine GEB-Pflicht</td></tr>
 <tr><td>0713.1091</td><td colspan="2">Gruppe 1</td><td>39.00</td><td>[14-6]</td></tr>
 <tr><td>0713.2011</td><td colspan="2">Gruppe 1</td><td>39.00</td><td>[14-6]</td></tr>
@@ -1953,11 +1953,11 @@ Die Bandbreite beträgt für die in diesem Anhang aufgeführten Schwellenpreise 
 <tr><td>1002.9031</td><td colspan="2">Gruppe 3</td><td></td><td>[14-5] [14-6]</td></tr>
 <tr><td>1002.9039</td><td colspan="2">Gruppe 3</td><td>37.00</td><td>[14-6]</td></tr>
 <tr><td>1002.9040</td><td colspan="2">Gruppe 3</td><td></td><td>keine GEB-Pflicht</td></tr>
-<tr><td>**1003.1000**</td><td colspan="2">**78.00**</td><td>**78.00**</td><td>**[14 1.2] zur Aussaat, keine GEB-Pflicht**</td></tr>
+<tr><td>1003.1000</td><td colspan="2">78.00</td><td>78.00</td><td>[14 1.2] zur Aussaat, keine GEB-Pflicht</td></tr>
 <tr><td>1003.9020</td><td colspan="2">Gruppe 3</td><td></td><td>[14-6]</td></tr>
 <tr><td>1003.9030</td><td colspan="2">Gruppe 3</td><td></td><td>keine GEB-Pflicht</td></tr>
 <tr><td>1003.9051</td><td colspan="2">Gruppe 3</td><td></td><td>[14-5] [14-6]</td></tr>
-<tr><td>**1003.9059**</td><td colspan="2">**36.00**</td><td>**36.00**</td><td>**[14-1.3] [14-6]**</td></tr>
+<tr><td>1003.9059</td><td colspan="2">36.00</td><td>36.00</td><td>[14-1.3] [14-6]</td></tr>
 <tr><td>1003.9060</td><td colspan="2">Gruppe 3</td><td></td><td>keine GEB-Pflicht</td></tr>
 <tr><td>1004.1000</td><td colspan="2">Gruppe 2</td><td>86.00</td><td>zur Aussaat, keine GEB-Pflicht</td></tr>
 <tr><td>1004.9031</td><td colspan="2">Gruppe 3</td><td></td><td>[14-5] [14-6]</td></tr>
@@ -2047,7 +2047,7 @@ Die Bandbreite beträgt für die in diesem Anhang aufgeführten Schwellenpreise 
 <tr><td>1108.1912</td><td colspan="2">Gruppe 11</td><td>41.00</td><td>[14-6]</td></tr>
 <tr><td>1108.1992</td><td colspan="2">Gruppe 11</td><td>41.00</td><td>[14-6]</td></tr>
 <tr><td>1108.2020</td><td colspan="2">Gruppe 11</td><td>36.00</td><td>[14-6]</td></tr>
-<tr><td>**1201.9010**</td><td colspan="2">**50.00**</td><td>**50.00**</td><td>**[14-1.4]** **[14-6]**</td></tr>
+<tr><td>1201.9010</td><td colspan="2">50.00</td><td>50.00</td><td>[14-1.4] [14-6]</td></tr>
 <tr><td>1201.9021</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
 <tr><td>1201.9023</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
 <tr><td>1201.9024</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
@@ -2190,11 +2190,11 @@ Die Bandbreite beträgt für die in diesem Anhang aufgeführten Schwellenpreise 
 <tr><td>1212.9920</td><td colspan="2">Gruppe 5</td><td>40.00</td><td>[14-6]</td></tr>
 <tr><td>1213.0091</td><td colspan="2">Gruppe 5</td><td>10.00</td><td>keine GEB-Pflicht</td></tr>
 <tr><td>1213.0099</td><td colspan="2">Gruppe 5</td><td>14.00</td><td>[14-6]</td></tr>
-<tr><td>**1214.1010**</td><td colspan="2">**32.00**</td><td>**32.00**</td><td>**[14-1.5]** **[14-6]**</td></tr>
+<tr><td>1214.1010</td><td colspan="2">32.00</td><td>32.00</td><td>[14-1.5] [14-6]</td></tr>
 <tr><td>1214.9011</td><td colspan="2">Gruppe 5</td><td>25.00</td><td>keine GEB-Pflicht</td></tr>
 <tr><td>1214.9019</td><td colspan="2">Gruppe 5</td><td>33.00</td><td>[14-6]</td></tr>
 <tr><td>1404.9010</td><td colspan="2">Gruppe 5</td><td>35.00</td><td>[14-6]</td></tr>
-<tr><td>**1501.1011**</td><td colspan="2">**60.00**</td><td>**60.00**</td><td>**[14-1.6]** **[14-6]**</td></tr>
+<tr><td>1501.1011</td><td colspan="2">60.00</td><td>60.00</td><td>[14-1.6] [14-6]</td></tr>
 <tr><td>1501.1019</td><td colspan="2">Gruppe 6</td><td>60.00</td><td>[14-6]</td></tr>
 <tr><td>1501.2011</td><td colspan="2">Gruppe 6</td><td>60.00</td><td>[14-6]</td></tr>
 <tr><td>1501.2019</td><td colspan="2">Gruppe 6</td><td>60.00</td><td>[14-6]</td></tr>
@@ -2264,7 +2264,7 @@ Die Bandbreite beträgt für die in diesem Anhang aufgeführten Schwellenpreise 
 <tr><td>1518.0011</td><td colspan="2">Gruppe 6</td><td>62.00</td><td>[14-6]</td></tr>
 <tr><td>1518.0081</td><td colspan="2">Gruppe 6</td><td>56.00</td><td>[14-6]</td></tr>
 <tr><td>1518.0093</td><td colspan="2">Gruppe 6</td><td>61.00</td><td>[14-6]</td></tr>
-<tr><td>**1702.3021**</td><td colspan="2">**40.00**</td><td>**40.00**</td><td>**[14-1.7] [14-6]**</td></tr>
+<tr><td>1702.3021</td><td colspan="2">40.00</td><td>40.00</td><td>[14-1.7] [14-6]</td></tr>
 <tr><td>1702.3033</td><td colspan="2">Gruppe 7</td><td>40.00</td><td>[14-6]</td></tr>
 <tr><td>1702.4011</td><td colspan="2">Gruppe 7</td><td>40.00</td><td>[14-6]</td></tr>
 <tr><td>1702.6022</td><td colspan="2">Gruppe 7</td><td>34.00</td><td>[14-6]</td></tr>
@@ -2273,7 +2273,7 @@ Die Bandbreite beträgt für die in diesem Anhang aufgeführten Schwellenpreise 
 <tr><td>1802.0010</td><td colspan="2">Gruppe 5</td><td>22.00</td><td>[14-6]</td></tr>
 <tr><td>1905.9021</td><td colspan="2">Gruppe 11</td><td>47.00</td><td>[14-6]</td></tr>
 <tr><td>2102.1091</td><td colspan="2">Gruppe 8</td><td>49.00</td><td>[14-6]</td></tr>
-<tr><td>**2102.2011**</td><td colspan="2">**49.00**</td><td>**49.00**</td><td>**[14-1.8] [14-6]**</td></tr>
+<tr><td>2102.2011</td><td colspan="2">49.00</td><td>49.00</td><td>[14-1.8] [14-6]</td></tr>
 <tr><td>2102.2021</td><td colspan="2">Gruppe 8</td><td>52.00</td><td>[14-6]</td></tr>
 <tr><td>2103.3011</td><td colspan="2">Gruppe 4</td><td>28.00</td><td>[14-6]</td></tr>
 <tr><td>2301.1011</td><td colspan="2">Gruppe 9</td><td>61.00</td><td>[14-6]</td></tr>
@@ -2284,12 +2284,12 @@ Die Bandbreite beträgt für die in diesem Anhang aufgeführten Schwellenpreise 
 <tr><td>2302.4030</td><td colspan="2">Gruppe 11</td><td>35.00</td><td>[14-6]</td></tr>
 <tr><td>2302.4091</td><td colspan="2">Gruppe 11</td><td>35.00</td><td>[14-6]</td></tr>
 <tr><td>2302.5010</td><td colspan="2">Gruppe 11</td><td>30.00</td><td>[14-6]</td></tr>
-<tr><td>**2303.1011**</td><td colspan="2">**59.00**</td><td>**59.00**</td><td>**[14-1.9] [14-6]**</td></tr>
+<tr><td>2303.1011</td><td colspan="2">59.00</td><td>59.00</td><td>[14-1.9] [14-6]</td></tr>
 <tr><td>2303.1012</td><td colspan="2">Gruppe 9</td><td>28.00</td><td>[14-6]</td></tr>
 <tr><td>2303.1018</td><td colspan="2">Gruppe 9</td><td>51.00</td><td>[14-6]</td></tr>
 <tr><td>2303.2010</td><td colspan="2">Gruppe 9</td><td>34.00</td><td>[14-6]</td></tr>
 <tr><td>2303.3010</td><td colspan="2">Gruppe 9</td><td>34.00</td><td>[14-6]</td></tr>
-<tr><td>**2304.0010**</td><td colspan="2">**45.00**</td><td>**45.00**</td><td>**[14-1.10]** **[14-6]**</td></tr>
+<tr><td>2304.0010</td><td colspan="2">45.00</td><td>45.00</td><td>[14-1.10] [14-6]</td></tr>
 <tr><td>2305.0010</td><td colspan="2">Gruppe 10</td><td>47.00</td><td>[14-6]</td></tr>
 <tr><td>2306.1010</td><td colspan="2">Gruppe 10</td><td>34.00</td><td>[14-6]</td></tr>
 <tr><td>2306.2010</td><td colspan="2">Gruppe 10</td><td>31.00</td><td>[14-6]</td></tr>
@@ -2310,7 +2310,7 @@ Die Bandbreite beträgt für die in diesem Anhang aufgeführten Schwellenpreise 
 <tr><td>2309.9081</td><td colspan="2">[14-4]</td><td></td><td>[14-6]</td></tr>
 <tr><td>2309.9082</td><td colspan="2">[14-4]</td><td></td><td>[14-6]</td></tr>
 <tr><td>2309.9089</td><td colspan="2">[14-4]</td><td></td><td>[14-6]</td></tr>
-<tr><td>**3505.1010**</td><td colspan="2">**41.00**</td><td>**41.00**</td><td>**[14-1.11] [14-6]**</td></tr>
+<tr><td>3505.1010</td><td colspan="2">41.00</td><td>41.00</td><td>[14-1.11] [14-6]</td></tr>
 <tr><td>3505.2010</td><td colspan="2">Gruppe 11</td><td>51.00</td><td>[14-6]</td></tr>
 <tr><td>3809.1010</td><td colspan="2">Gruppe 11</td><td>41.00</td><td>[14-6]</td></tr>
 <tr><td>3823.1110</td><td colspan="2">Gruppe 6</td><td>64.00</td><td>[14-6]</td></tr>
@@ -2404,7 +2404,7 @@ Einfuhren im Reiseverkehr sind in Artikel 47 geregelt.
 
 Spezifische Vorschriften: Die Verteilung der Zollkontingente ist in den Artikeln 28–33 und die Festlegung der Zollansätze der betroffenen Tarifnummern in Artikel 4 beziehungsweise in Artikel 6 geregelt. Für die Tarifnummern aus dem 12. Kapitel des Zolltarifs bestehen keine spezifischen Vorschriften.
 
-**[1] Aufgeführt sind vom Generaltarif abweichende Zollansätze. Im Gebrauchstarif www.tares.ch sind weitere anwendbare Zollansätze einsehbar.**
+**[1]** **Aufgeführt sind vom Generaltarif abweichende Zollansätze.** **Im Gebrauchstarif www.tares.ch sind weitere anwendbare Zollansätze einsehbar.**
 
 [15-1] Der Zollansatz wird nach Artikel 6 festgelegt.
 
@@ -2514,7 +2514,7 @@ Spezifische Vorschriften: Die Verteilung der Zollkontingente ist in den Artikeln
 
 Für die Einfuhr der aufgeführten Erzeugnisse ist eine GEB nach den Bestimmungen des LVG (SR *531*) erforderlich, wenn sie zu Speisezwecken dienen. Ausnahmen sind in der 3. Spalte vermerkt.
 
-[1] **Aufgeführt sind vom Generaltarif abweichende Zollansätze. Im Gebrauchstarif www.tares.ch sind weitere anwendbare Zollansätze einsehbar.**
+[1] **Aufgeführt sind vom Generaltarif abweichende Zollansätze.** **Im Gebrauchstarif www.tares.ch sind weitere anwendbare Zollansätze einsehbar.**
 
 <table>
 <tr><th>Tarifnummer</th><th>Zollansatz je 100 kg brutto **[1]** (CHF)</th><th></th><th>Ergänzungen</th></tr>
@@ -2762,7 +2762,7 @@ Für die Einfuhr der aufgeführten Erzeugnisse ist eine GEB erforderlich. Ausnah
 <tr><th>[tab] 0105.9400</th><th>[tab]</th><th>[tab] 20</th><th>[tab] für Hühner (Geflügel der Gattung Gallus domesticus) mit einem Gewicht von über 2000 g keine GEB erforderlich</th></tr>
 </table>
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 (Art. 4 und 28)
 
@@ -2889,13 +2889,13 @@ Anhang 2*[^t-2]*
 <tr><td colspan="12">[1] Die Zollansätze können vom Generaltarif abweichen. Neu festgelegte Zollansätze sind mit einem «\*» gekennzeichnet.</td></tr>
 </table>
 
-Anhang 3*[^t-3]*
+Anhang 3[^t-3]
 
 (Art. 10 und 27 Abs. 2<sup>bis</sup> Bst. a)
 
 ## Zoll- und Teilzollkontingente
 
-[^t-3]: Bereinigt gemäss Ziff. II der V vom 18. Okt. 2017 ([AS 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)), Ziff. I der V vom 18. Okt. 2017 ([AS 2017 6113](https://fedlex.data.admin.ch/eli/oc/2017/674)), Ziff. II der V vom 31. Okt. 2018 ([AS 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)), Anhang 2 Ziff. 2 der V vom 26. Aug. 2020 ([AS 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)), Ziff. II Abs. 1 der V vom 11. Nov. 2020 ([AS 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)), Anhang 3 Ziff. 14 der V vom 30. Juni 2021 über die Änderung des Zolltarifs ([AS 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)), Ziff. III der V des BLW vom 30. Aug. 2021 ([AS 2021 537](https://fedlex.data.admin.ch/eli/oc/2021/537)), Ziff. I der V vom 17. Sept. 2021 ([AS 2021 571](https://fedlex.data.admin.ch/eli/oc/2021/571)), der Berichtigung vom 18. Okt. 2021 ([AS 2021 617](https://fedlex.data.admin.ch/eli/oc/2021/617)), Ziff. I der V des BLW vom 17. Nov. 2021 ([AS 2021 797](https://fedlex.data.admin.ch/eli/oc/2021/797)), vom 3. Febr. 2022 ([AS 2022 70](https://fedlex.data.admin.ch/eli/oc/2022/70)), vom 1. Febr. 2022 ([AS 2022 116](https://fedlex.data.admin.ch/eli/oc/2022/116)), vom 15. März 2022 ([AS 2022 185](https://fedlex.data.admin.ch/eli/oc/2022/185)), Ziff. I Abs. 1 der V vom 30. März 2022 ([AS 2022 215](https://fedlex.data.admin.ch/eli/oc/2022/215)), Ziff. I der V des BLW vom 20. April 2022 ([AS 2022 280](https://fedlex.data.admin.ch/eli/oc/2022/280)), vom 14. Juni 2022 ([AS 2022 365](https://fedlex.data.admin.ch/eli/oc/2022/365)) und Ziff. I Abs. 1 der V vom 10. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 372](https://fedlex.data.admin.ch/eli/oc/2022/372)).
+[^t-3]: Bereinigt gemäss Ziff. II der V vom 18. Okt. 2017 ([AS 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)), Ziff. I der V vom 18. Okt. 2017 ([AS 2017 6113](https://fedlex.data.admin.ch/eli/oc/2017/674)), Ziff. II der V vom 31. Okt. 2018 ([AS 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)), Anhang 2 Ziff. 2 der V vom 26. Aug. 2020 ([AS 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)), Ziff. II Abs. 1 der V vom 11. Nov. 2020 ([AS 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)), Anhang 3 Ziff. 14 der V vom 30. Juni 2021 über die Änderung des Zolltarifs ([AS 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)), Ziff. III der V des BLW vom 30. Aug. 2021 ([AS 2021 537](https://fedlex.data.admin.ch/eli/oc/2021/537)), Ziff. I der V vom 17. Sept. 2021 ([AS 2021 571](https://fedlex.data.admin.ch/eli/oc/2021/571)), der Berichtigung vom 18. Okt. 2021 ([AS 2021 617](https://fedlex.data.admin.ch/eli/oc/2021/617)), Ziff. I der V des BLW vom 17. Nov. 2021 ([AS 2021 797](https://fedlex.data.admin.ch/eli/oc/2021/797)), vom 3. Febr. 2022 ([AS 2022 70](https://fedlex.data.admin.ch/eli/oc/2022/70)), vom 1. Febr. 2022 ([AS 2022 116](https://fedlex.data.admin.ch/eli/oc/2022/116)), vom 15. März 2022 ([AS 2022 185](https://fedlex.data.admin.ch/eli/oc/2022/185)), Ziff. I Abs. 1 der V vom 30. März 2022 ([AS 2022 215](https://fedlex.data.admin.ch/eli/oc/2022/215)), Ziff. I der V des BLW vom 20. April 2022 ([AS 2022 280](https://fedlex.data.admin.ch/eli/oc/2022/280)), vom 14. Juni 2022 ([AS 2022 365](https://fedlex.data.admin.ch/eli/oc/2022/365)), Ziff. I Abs. 1 der V vom 10. Juni 2022 ([AS 2022 372](https://fedlex.data.admin.ch/eli/oc/2022/372)) und Ziff. I der V des BLW vom 9. Aug. 2022, in Kraft seit 22. Aug. 2022 ([AS 2022 447](https://fedlex.data.admin.ch/eli/oc/2022/447)).
 
 ### 1. Marktordnung Tiere der Pferdegattung
 
@@ -2954,9 +2954,9 @@ Anhang 3*[^t-3]*
 <tr><td>06.3</td><td>Wurstwaren, einschliesslich Coppa, Blasen- und Lachsschinken</td><td>**3148**</td></tr>
 <tr><td></td><td>Inbegriffen im präferenziellen Zollkontingent 301 von 3715 t netto gemäss Freihandelsverordnung 1 vom 18. Juni 2008</td><td></td></tr>
 <tr><td>06.4</td><td>Übriges Fleisch vorwiegend auf der Basis von Kraftfutter produziert:</td><td>**48 681**</td></tr>
-<tr><td></td><td>von Geflügel, inklusive Geflügelkonserven und Schlachtnebenprodukte von Geflügel</td><td>**42 200 [2]**</td></tr>
-<tr><td></td><td>vom Schwein, inklusive Pâté und Fleischgranulat zur Suppenherstellung sowie Schlachtschweine aus den Freizonen</td><td>**6481 [2]**</td></tr>
-<tr><td colspan="4">**[1]** Vom Generaltarif abweichende Angaben sind fett gedruckt. Einfuhren aus Freizonen nach dem Reglement vom 22. Dezember 1933 über die Einfuhr der **Erzeugnisse der Freizonen in die Schweiz (SR** ***0.631.256.934.953*****) werden nicht** **an die zu verteilende Kontingentsmenge angerechnet.**</td></tr>
+<tr><td></td><td>von Geflügel, inklusive Geflügelkonserven und Schlachtnebenprodukte von Geflügel</td><td>**42 200** **[2]**</td></tr>
+<tr><td></td><td>vom Schwein, inklusive Pâté und Fleischgranulat zur Suppenherstellung sowie Schlachtschweine aus den Freizonen</td><td>**6481** **[2]**</td></tr>
+<tr><td colspan="4">**[1]** **Vom Generaltarif abweichende Angaben sind fett gedruckt. Einfuhren aus** **Freizonen nach dem Reglement vom 22. Dezember 1933 über die Einfuhr der** **Erzeugnisse der Freizonen in die Schweiz (SR** ***0.631.256.934.953*****) werden nicht** **an die zu verteilende Kontingentsmenge angerechnet.**</td></tr>
 <tr><td colspan="4">**[2]** **Richtmenge**</td></tr>
 </table>
 
@@ -2977,6 +2977,7 @@ Anhang 3*[^t-3]*
 <tr><td>07.4.1</td><td>Vorübergehende Erhöhung des Teilzollkontingents für 2022: ab 15. Februar bis 31. Dezember 2022</td><td>1000</td></tr>
 <tr><td>07.4.2</td><td>Vorübergehende Erhöhung des Teilzollkontingents für 2022: ab 1. April bis 31. Dezember 2022</td><td>2000</td></tr>
 <tr><td>07.4.3</td><td>Vorübergehende Erhöhung des Teilzollkontingents für 2022: ab 1. Juli bis 31. Dezember 2022</td><td>**1000**</td></tr>
+<tr><td>07.4.4</td><td>Vorübergehende Erhöhung des Teilzollkontingents für 2022: ab 22. August bis 31. Dezember 2022</td><td>1000</td></tr>
 <tr><td>07.5</td><td>«Fontalkontingent»</td><td>**2624**</td></tr>
 <tr><td></td><td></td><td>[4]</td></tr>
 <tr><td>07.6</td><td>Übrige Milchprodukte</td><td>**[5]**</td></tr>
@@ -2996,7 +2997,7 @@ Anhang 3*[^t-3]*
 <tr><td></td><td></td><td colspan="2">[2]</td></tr>
 <tr><td>11</td><td>Eiprodukte andere</td><td colspan="2">6866</td></tr>
 <tr><td></td><td></td><td colspan="2">[2]</td></tr>
-<tr><td colspan="4">**[1]** Vom Generaltarif abweichende Angaben sind fett gedruckt. Einfuhren aus Freizonen nach dem Reglement vom 22. Dezember 1933 über die Einfuhr der **Erzeugnisse der Freizonen in die Schweiz (SR** ***0.631.256.934.953*****) werden nicht** **an die zu verteilende Kontingentsmenge angerechnet.** **[2]** **Die Überschreitung der Zollkontingentsmenge ist möglich**</td></tr>
+<tr><td colspan="4">**[1]** **Vom Generaltarif abweichende Angaben sind fett gedruckt. Einfuhren aus** **Freizonen nach dem Reglement vom 22. Dezember 1933 über die Einfuhr der** **Erzeugnisse der Freizonen in die Schweiz (SR** ***0.631.256.934.953*****) werden nicht** **an die zu verteilende Kontingentsmenge angerechnet.** **[2]** **Die Überschreitung der Zollkontingentsmenge ist möglich**</td></tr>
 </table>
 
 ### 6. Marktordnung Schnittblumen
@@ -3013,18 +3014,18 @@ Anhang 3*[^t-3]*
 <table>
 <tr><th>Nummer des Zollkontingents</th><th>Erzeugnis</th><th>Umfang des Zollkontingents (Tonnen)</th></tr>
 <tr><th>**[1]**</th><th>**[1]**</th><th>**[1]**</th></tr>
-<tr><td>**14**</td><td>**Kartoffeln und Kartoffelprodukte, in Kartoffeläquivalenten, davon:**</td><td>**23 750**</td></tr>
-<tr><td>**14.1**</td><td>**Saatkartoffeln**</td><td>**4000**</td></tr>
-<tr><td>**14.1.1**</td><td>**Vorübergehende Erhöhung des Teilzollkontingents für 2022: 1. Januar bis 31. Dezember 2022**</td><td>**3000**</td></tr>
-<tr><td>**14.2**</td><td>**Veredelungskartoffeln**</td><td>**9250**</td></tr>
-<tr><td>**14.2.1**</td><td>**Vorübergehende Erhöhung des Teilzollkontingents für 2022: 1. Januar bis 30. Juni 2022**</td><td>**25 000**</td></tr>
-<tr><td>**14.2.2**</td><td>**Vorübergehende Erhöhung des Teilzollkontingents für 2022: 1. März bis 30. Juni 2022**</td><td>**20 000**</td></tr>
-<tr><td>**14.3**</td><td>**Speisekartoffeln**</td><td>**6500**</td></tr>
-<tr><td>**14.3.1**</td><td>**Vorübergehende Erhöhung des Teilzollkontingents für 2022: 1. März bis 15. Juli 2022**</td><td>**20 000**</td></tr>
-<tr><td>**14.3.2**</td><td>**Vorübergehende Erhöhung des Teilzollkontingents für 2022: 15. Mai bis 31. Juli 2022**</td><td>**5000**</td></tr>
-<tr><td>**14.4**</td><td>**Kartoffelprodukte, davon:**</td><td>**4000**</td></tr>
-<tr><td>**14.4.1**</td><td>**Warenkategorie Halbfabrikate**</td><td>**1500**</td></tr>
-<tr><td>**14.4.2**</td><td>**Warenkategorie Fertigprodukte**</td><td>**2500**</td></tr>
+<tr><td>14</td><td>Kartoffeln und Kartoffelprodukte, in Kartoffeläquivalenten, davon:</td><td>**23 750**</td></tr>
+<tr><td>14.1</td><td>Saatkartoffeln</td><td>**4000**</td></tr>
+<tr><td>14.1.1</td><td>Vorübergehende Erhöhung des Teilzollkontingents für 2022: 1. Januar bis 31. Dezember 2022</td><td>3000</td></tr>
+<tr><td>14.2</td><td>Veredelungskartoffeln</td><td>**9250**</td></tr>
+<tr><td>14.2.1</td><td>Vorübergehende Erhöhung des Teilzollkontingents für 2022: 1. Januar bis 30. Juni 2022</td><td>25 000</td></tr>
+<tr><td>14.2.2</td><td>Vorübergehende Erhöhung des Teilzollkontingents für 2022: 1. März bis 30. Juni 2022</td><td>**20 000**</td></tr>
+<tr><td>14.3</td><td>Speisekartoffeln</td><td>**6500**</td></tr>
+<tr><td>14.3.1</td><td>Vorübergehende Erhöhung des Teilzollkontingents für 2022: 1. März bis 15. Juli 2022</td><td>**20 000**</td></tr>
+<tr><td>14.3.2</td><td>Vorübergehende Erhöhung des Teilzollkontingents für 2022: 15. Mai bis 31. Juli 2022</td><td>**5000**</td></tr>
+<tr><td>14.4</td><td>Kartoffelprodukte, davon:</td><td>**4000**</td></tr>
+<tr><td>14.4.1</td><td>Warenkategorie Halbfabrikate</td><td>**1500**</td></tr>
+<tr><td>14.4.2</td><td>Warenkategorie Fertigprodukte</td><td>**2500**</td></tr>
 <tr><td colspan="3">**[1]** **Vom Generaltarif abweichende Angaben sind fett gedruckt. Einfuhren aus Freizonen nach dem Reglement vom 22. Dezember 1933 über die Einfuhr der Erzeugnisse der Freizonen in die Schweiz (SR** *0.631.256.934.953***) werden nicht an die zu verteilende Kontingentsmenge angerechnet.**</td></tr>
 </table>
 
@@ -3035,7 +3036,7 @@ Anhang 3*[^t-3]*
 <tr><th></th><th></th><th>**[1]**</th></tr>
 <tr><td>15</td><td>Gemüse</td><td>166 076</td></tr>
 <tr><td></td><td></td><td>**[2]**</td></tr>
-<tr><td colspan="4">[tab] **[1] Vom Generaltarif abweichende Angaben sind fett gedruckt. Einfuhren aus Freizonen nach dem Reglement vom 22. Dezember 1933 über die Einfuhr der Erzeugnisse der Freizonen in die Schweiz (SR** *0.631.256.934.953***) werden nicht an die zu verteilende Kontingentsmenge angerechnet.** [tab] **[2] Die Überschreitung der Zollkontingentsmenge ist möglich.**</td></tr>
+<tr><td colspan="4">[tab] **[1] Vom Generaltarif abweichende Angaben sind fett gedruckt. Einfuhren aus** **Freizonen nach dem Reglement vom 22. Dezember 1933 über die Einfuhr der** **Erzeugnisse der Freizonen in die Schweiz (SR** *0.631.256.934.953***) werden nicht** **an die zu verteilende Kontingentsmenge angerechnet.** [tab] **[2] Die Überschreitung der Zollkontingentsmenge ist möglich.**</td></tr>
 </table>
 
 ### 9. Marktordnung Tiefkühlgemüse
@@ -3056,7 +3057,7 @@ Anhang 3*[^t-3]*
 <tr><td></td><td></td><td colspan="3">**[2]**</td></tr>
 <tr><td>19</td><td>Andere Früchte, frisch</td><td colspan="3">13 360</td></tr>
 <tr><td></td><td></td><td>**[2]** [3]</td></tr>
-<tr><td colspan="4">[tab] **[1] Vom Generaltarif abweichende Angaben sind fett gedruckt. Einfuhren aus Freizonen nach dem Reglement vom 22. Dezember 1933 über die Einfuhr der Erzeugnisse der Freizonen in die Schweiz (SR** *0.631.256.934.953***) werden nicht an die zu verteilende Kontingentsmenge angerechnet.** [tab] **[2] Die Überschreitung der Zollkontingentsmenge ist möglich** [tab] **[3] Ohne Produkte zur industriellen Weiterverarbeitung**</td></tr>
+<tr><td colspan="4">[tab] **[1] Vom Generaltarif abweichende Angaben sind fett gedruckt. Einfuhren aus** **Freizonen nach dem Reglement vom 22. Dezember 1933 über die Einfuhr der** **Erzeugnisse der Freizonen in die Schweiz (SR** *0.631.256.934.953***) werden nicht** **an die zu verteilende Kontingentsmenge angerechnet.** [tab] **[2] Die Überschreitung der Zollkontingentsmenge ist möglich** [tab] **[3] Ohne Produkte zur industriellen Weiterverarbeitung**</td></tr>
 </table>
 
 ### 11. Marktordnung Mostobst und Obstprodukte
@@ -3080,7 +3081,7 @@ Anhang 3*[^t-3]*
 <tr><td>27.2</td><td colspan="2">Vorübergehende Erhöhung des Zollkontingents für 2022</td><td colspan="2">20 000</td></tr>
 <tr><td>28</td><td>Grobgetreide zur menschlichen Ernährung</td><td colspan="2">70 000</td></tr>
 <tr><td></td><td></td><td colspan="2">**[2]**</td></tr>
-<tr><td colspan="5">[tab] **[1] Vom Generaltarif abweichende Angaben sind fett gedruckt. Einfuhren aus Freizonen nach dem Reglement vom 22. Dezember 1933 über die Einfuhr der Erzeugnisse der Freizonen in die Schweiz (SR** *0.631.256.934.953***) werden nicht an die zu verteilende Kontingentsmenge angerechnet.** [tab] **[2] Die Überschreitung der Zollkontingentsmenge ist möglich**</td></tr>
+<tr><td colspan="5">[tab] **[1] Vom Generaltarif abweichende Angaben sind fett gedruckt. Einfuhren aus Freizonen** **nach dem Reglement vom 22. Dezember 1933 über die Einfuhr der Erzeugnisse der Freizonen in die Schweiz (SR** *0.631.256.934.953***) werden nicht an die zu verteilende Kontingentsmenge angerechnet.** [tab] **[2] Die Überschreitung der Zollkontingentsmenge ist möglich**</td></tr>
 </table>
 
 ### 13. Marktordnung Wein, Traubensaft und ‑most
@@ -3094,7 +3095,7 @@ Anhang 3*[^t-3]*
 <tr><td colspan="4">[tab] **[1] Vom Generaltarif abweichende Angaben sind fett gedruckt. Einfuhren aus Freizonen nach dem Reglement vom 22. Dezember 1933 über die Einfuhr der Erzeugnisse der Freizonen in die Schweiz (SR** *0.631.256.934.953***) werden nicht an die zu verteilende Kontingentsmenge angerechnet.** [tab] **[2] Die Überschreitung der Zollkontingentsmenge ist möglich**</td></tr>
 </table>
 
-Anhang 4*[^t-4]*
+Anhang 4[^t-4]
 
 (Art. 31 Abs. 2)
 
@@ -3113,11 +3114,11 @@ Anhang 4*[^t-4]*
 <tr><td>10 000 t brutto</td><td>3. November – 31. Dezember</td></tr>
 </table>
 
-Anhang 5*[^t-5]*
+Anhang 5[^t-5]
 
 [^t-5]: Aufgehoben durch Anhang der V vom 2. April 2014, mit Wirkung seit 1. Juli 2014 ([AS 2014 979](https://fedlex.data.admin.ch/eli/oc/2014/218)).
 
-Anhang 6*[^t-6]*
+Anhang 6[^t-6]
 
 [^t-6]: Aufgehoben durch Ziff. II Abs. 2 der V vom 3. Nov. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 696](https://fedlex.data.admin.ch/eli/oc/2021/696)).
 

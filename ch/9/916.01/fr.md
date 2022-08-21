@@ -4,11 +4,11 @@ title: "Ordonnance du 26 octobre 2011 sur l'importation de produits agricoles (O
 short: OIAgr
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/770"
 language: fr
-version: 2022-08-01
+version: 2022-08-22
 adopted: 2011-10-26
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/770/20220801/fr/xml/fedlex-data-admin-ch-eli-cc-2011-770-20220801-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20220801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/770/20220822/fr/xml/fedlex-data-admin-ch-eli-cc-2011-770-20220822-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20220822/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20220801/fr"
 
 (Ordonnance sur les importations agricoles, OIAgr)
 
-du 26 octobre 2011 (Etat le 1<sup>er</sup> août 2022)
+du 26 octobre 2011 (Etat le 22 août 2022)
 
 Le Conseil fédéral suisse,
 
@@ -284,7 +284,7 @@ Lorsque la quantité mise aux enchères n’a pas été entièrement attribuée,
 
 L’OFAG publie l’attribution des parts des contingents sur son site Internet.
 
-### Section 3 Prestation en faveur de la production suisse****
+### Section 3 Prestation en faveur de la production suisse
 
 [^chap3-sec3-1]
 
@@ -522,7 +522,7 @@ En cas de pénurie sur le marché intérieur, l’OFAG peut augmenter temporaire
 
 [^36-1]: Nouvelle teneur selon le ch. I de l’O du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)).
 
-### Section 4**** Importation de pommes de terre et produits à base de pommes de terre
+### Section 4 Importation de pommes de terre et produits à base de pommes de terre
 
 [^chap4-sec4-1]
 
@@ -771,7 +771,7 @@ Les produits agricoles importés une seule fois en faibles quantités et dans de
 [^55-1]: Cet art. a une nouvelle teneur ([RO 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)).
 [^55-2]: Nouvelle teneur selon le ch. I de l’O du 26 oct. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4083](https://fedlex.data.admin.ch/eli/oc/2016/677)).
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 1, al. 1, 4, 5, al. 1, 7, 10, 13, al. 2, 27, al. 1, 32, al. 1, 34 et 37, al. 3)
 
@@ -1871,7 +1871,7 @@ Les prix-seuils et les valeurs indicatives d’importation fixés dans la prése
 <tr><td>0708.9010</td><td>Groupe 1</td><td>408.00</td><td>[14-6]</td></tr>
 <tr><td>0709.9991</td><td>Groupe 3</td><td>37.00</td><td>[14-6]</td></tr>
 <tr><td>0712.9070</td><td>Groupe 3</td><td>37.00</td><td>[14-6]</td></tr>
-<tr><td>**0713.1011**</td><td>**39.00**</td><td>**39.00**</td><td>**[14-1.1] [14-6]**</td></tr>
+<tr><td>0713.1011</td><td>39.00</td><td>39.00</td><td>[14-1.1] [14-6]</td></tr>
 <tr><td>0713.1012</td><td>Groupe 1</td><td></td><td>non soumis au régime du PGI</td></tr>
 <tr><td>0713.1091</td><td>Groupe 1</td><td>39.00</td><td>[14-6]</td></tr>
 <tr><td>0713.2011</td><td>Groupe 1</td><td>39.00</td><td>[14-6]</td></tr>
@@ -1940,11 +1940,11 @@ Les prix-seuils et les valeurs indicatives d’importation fixés dans la prése
 <tr><td>1002.9031</td><td>Groupe 3</td><td></td><td>[14-5] [14-6]</td></tr>
 <tr><td>1002.9039</td><td>Groupe 3</td><td>37.00</td><td>[14-6]</td></tr>
 <tr><td>1002.9040</td><td>Groupe 3</td><td></td><td>non soumis au régime du PGI</td></tr>
-<tr><td>**1003.1000**</td><td>**78.00**</td><td>**78.00**</td><td>**[14 1.2] pour le semis, non soumis au régime du PGI**</td></tr>
+<tr><td>1003.1000</td><td>78.00</td><td>78.00</td><td>[14 1.2] pour le semis, non soumis au régime du PGI</td></tr>
 <tr><td>1003.9020</td><td>Groupe 3</td><td></td><td>[14-6]</td></tr>
 <tr><td>1003.9030</td><td>Groupe 3</td><td></td><td>non soumis au régime du PGI</td></tr>
 <tr><td>1003.9051</td><td>Groupe 3</td><td></td><td>[14-5] [14-6]</td></tr>
-<tr><td>**1003.9059**</td><td>**36.00**</td><td>**36.00**</td><td>**[14-1.3] [14-6]**</td></tr>
+<tr><td>1003.9059</td><td>36.00</td><td>36.00</td><td>[14-1.3] [14-6]</td></tr>
 <tr><td>1003.9060</td><td>Groupe 3</td><td></td><td>non soumis au régime du PGI</td></tr>
 <tr><td>1004.1000</td><td>Groupe 2</td><td>86.00</td><td>pour le semis, non soumis au régime du PGI</td></tr>
 <tr><td>1004.9031</td><td>Groupe 3</td><td></td><td>[14-5] [14-6]</td></tr>
@@ -2034,7 +2034,7 @@ Les prix-seuils et les valeurs indicatives d’importation fixés dans la prése
 <tr><td>1108.1912</td><td>Groupe 11</td><td>41.00</td><td>[14-6]</td></tr>
 <tr><td>1108.1992</td><td>Groupe 11</td><td>41.00</td><td>[14-6]</td></tr>
 <tr><td>1108.2020</td><td>Groupe 11</td><td>36.00</td><td>[14-6]</td></tr>
-<tr><td>**1201.9010**</td><td>**50.00**</td><td>**50.00**</td><td>**[14-1.4]** **[14-6]**</td></tr>
+<tr><td>1201.9010</td><td>50.00</td><td>50.00</td><td>[14-1.4] [14-6]</td></tr>
 <tr><td>1201.9021</td><td>Groupe 4</td><td></td><td>[14-6]</td></tr>
 <tr><td>1201.9023</td><td>Groupe 4</td><td></td><td>[14-6]</td></tr>
 <tr><td>1201.9024</td><td>Groupe 4</td><td></td><td>[14-6]</td></tr>
@@ -2177,11 +2177,11 @@ Les prix-seuils et les valeurs indicatives d’importation fixés dans la prése
 <tr><td>1212.9920</td><td>Groupe 5</td><td>40.00</td><td>[14-6]</td></tr>
 <tr><td>1213.0091</td><td>Groupe 5</td><td>10.00</td><td>non soumis au régime du PGI</td></tr>
 <tr><td>1213.0099</td><td>Groupe 5</td><td>14.00</td><td>[14-6]</td></tr>
-<tr><td>**1214.1010**</td><td>**32.00**</td><td>**32.00**</td><td>**[14-1.5]** **[14-6]**</td></tr>
+<tr><td>1214.1010</td><td>32.00</td><td>32.00</td><td>[14-1.5] [14-6]</td></tr>
 <tr><td>1214.9011</td><td>Groupe 5</td><td>25.00</td><td>non soumis au régime du PGI</td></tr>
 <tr><td>1214.9019</td><td>Groupe 5</td><td>33.00</td><td>[14-6]</td></tr>
 <tr><td>1404.9010</td><td>Groupe 5</td><td>35.00</td><td>[14-6]</td></tr>
-<tr><td>**1501.1011**</td><td>**60.00**</td><td>**60.00**</td><td>**[14-1.6]** **[14-6]**</td></tr>
+<tr><td>1501.1011</td><td>60.00</td><td>60.00</td><td>[14-1.6] [14-6]</td></tr>
 <tr><td>1501.1019</td><td>Groupe 6</td><td>60.00</td><td>[14-6]</td></tr>
 <tr><td>1501.2011</td><td>Groupe 6</td><td>60.00</td><td>[14-6]</td></tr>
 <tr><td>1501.2019</td><td>Groupe 6</td><td>60.00</td><td>[14-6]</td></tr>
@@ -2251,7 +2251,7 @@ Les prix-seuils et les valeurs indicatives d’importation fixés dans la prése
 <tr><td>1518.0011</td><td>Groupe 6</td><td>62.00</td><td>[14-6]</td></tr>
 <tr><td>1518.0081</td><td>Groupe 6</td><td>56.00</td><td>[14-6]</td></tr>
 <tr><td>1518.0093</td><td>Groupe 6</td><td>61.00</td><td>[14-6]</td></tr>
-<tr><td>**1702.3021**</td><td>**40.00**</td><td>**40.00**</td><td>**[14-1.7] [14-6]**</td></tr>
+<tr><td>1702.3021</td><td>40.00</td><td>40.00</td><td>[14-1.7] [14-6]</td></tr>
 <tr><td>1702.3033</td><td>Groupe 7</td><td>40.00</td><td>[14-6]</td></tr>
 <tr><td>1702.4011</td><td>Groupe 7</td><td>40.00</td><td>[14-6]</td></tr>
 <tr><td>1702.6022</td><td>Groupe 7</td><td>34.00</td><td>[14-6]</td></tr>
@@ -2260,7 +2260,7 @@ Les prix-seuils et les valeurs indicatives d’importation fixés dans la prése
 <tr><td>1802.0010</td><td>Groupe 5</td><td>22.00</td><td>[14-6]</td></tr>
 <tr><td>1905.9021</td><td>Groupe 11</td><td>47.00</td><td>[14-6]</td></tr>
 <tr><td>2102.1091</td><td>Groupe 8</td><td>49.00</td><td>[14-6]</td></tr>
-<tr><td>**2102.2011**</td><td>**49.00**</td><td>**49.00**</td><td>**[14-1.8] [14-6]**</td></tr>
+<tr><td>2102.2011</td><td>49.00</td><td>49.00</td><td>[14-1.8] [14-6]</td></tr>
 <tr><td>2102.2021</td><td>Groupe 8</td><td>52.00</td><td>[14-6]</td></tr>
 <tr><td>2103.3011</td><td>Groupe 4</td><td>28.00</td><td>[14-6]</td></tr>
 <tr><td>2301.1011</td><td>Groupe 9</td><td>61.00</td><td>[14-6]</td></tr>
@@ -2271,12 +2271,12 @@ Les prix-seuils et les valeurs indicatives d’importation fixés dans la prése
 <tr><td>2302.4030</td><td>Groupe 11</td><td>35.00</td><td>[14-6]</td></tr>
 <tr><td>2302.4091</td><td>Groupe 11</td><td>35.00</td><td>[14-6]</td></tr>
 <tr><td>2302.5010</td><td>Groupe 11</td><td>30.00</td><td>[14-6]</td></tr>
-<tr><td>**2303.1011**</td><td>**59.00**</td><td>**59.00**</td><td>**[14-1.9] [14-6]**</td></tr>
+<tr><td>2303.1011</td><td>59.00</td><td>59.00</td><td>[14-1.9] [14-6]</td></tr>
 <tr><td>2303.1012</td><td>Groupe 9</td><td>28.00</td><td>[14-6]</td></tr>
 <tr><td>2303.1018</td><td>Groupe 9</td><td>51.00</td><td>[14-6]</td></tr>
 <tr><td>2303.2010</td><td>Groupe 9</td><td>34.00</td><td>[14-6]</td></tr>
 <tr><td>2303.3010</td><td>Groupe 9</td><td>34.00</td><td>[14-6]</td></tr>
-<tr><td>**2304.0010**</td><td>**45.00**</td><td>**45.00**</td><td>**[14-1.10]** **[14-6]**</td></tr>
+<tr><td>2304.0010</td><td>45.00</td><td>45.00</td><td>[14-1.10] [14-6]</td></tr>
 <tr><td>2305.0010</td><td>Groupe 10</td><td>47.00</td><td>[14-6]</td></tr>
 <tr><td>2306.1010</td><td>Groupe 10</td><td>34.00</td><td>[14-6]</td></tr>
 <tr><td>2306.2010</td><td>Groupe 10</td><td>31.00</td><td>[14-6]</td></tr>
@@ -2297,7 +2297,7 @@ Les prix-seuils et les valeurs indicatives d’importation fixés dans la prése
 <tr><td>2309.9081</td><td>[14-4]</td><td></td><td>[14-6]</td></tr>
 <tr><td>2309.9082</td><td>[14-4]</td><td></td><td>[14-6]</td></tr>
 <tr><td>2309.9089</td><td>[14-4]</td><td></td><td>[14-6]</td></tr>
-<tr><td>**3505.1010**</td><td>**41.00**</td><td>**41.00**</td><td>**[14-1.11] [14-6]**</td></tr>
+<tr><td>3505.1010</td><td>41.00</td><td>41.00</td><td>[14-1.11] [14-6]</td></tr>
 <tr><td>3505.2010</td><td>Groupe 11</td><td>51.00</td><td>[14-6]</td></tr>
 <tr><td>3809.1010</td><td>Groupe 11</td><td>41.00</td><td>[14-6]</td></tr>
 <tr><td>3823.1110</td><td>Groupe 6</td><td>64.00</td><td>[14-6]</td></tr>
@@ -2391,7 +2391,7 @@ Les importations des voyageurs sont réglées à l’art. 47.
 
 Dispositions spécifiques: la répartition des contingents tarifaires est réglée aux art. 28 à 33 et la détermination des droits de douane pour les numéros tarifaires concernés aux art. 4 et 6. Les numéros tarifaires du chap. 12 du tarif douanier ne sont soumis à aucune disposition spécifique.
 
-**[1] Seuls les droits de douanes qui dérogent au tarif général sont indiqués. Le tarif d’usage publié sur www.tares.ch contient d’autres droits de douane applicables.**
+**[1]** **Seuls les droits de douanes qui dérogent au tarif général sont indiqués.** **Le tarif d’usage publié sur www.tares.ch contient d’autres droits de douane applicables.**
 
 [15-1] Le droit de douane est fixé selon l’art. 6.
 
@@ -2748,7 +2748,7 @@ L’importation des produits mentionnés ci-après requiert un PGI. Les dérogat
 <tr><th>0105.9400</th><th></th><th>20</th><th>Les poules dont le poids dépasse 2000 g ne sont pas soumises au régime du PGI</th></tr>
 </table>
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 (art. 4 et 28)
 
@@ -2875,13 +2875,13 @@ Annexe 2*[^t-2]*
 <tr><td colspan="12">**[1]** Les droits de douane peuvent s’écarter du tarif général. Les droits de douane modifiés sont signalés par un astérisque («\*»).</td></tr>
 </table>
 
-Annexe 3*[^t-3]*
+Annexe 3[^t-3]
 
 (art. 10 et 27, al. 2<sup>bis</sup>, let. a)
 
 ## Contingents tarifaires et contingents tarifaires partiels
 
-[^t-3]: Mise à jour par le ch II de l’O du 18 oct. 2017 ([RO 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)), le ch. I de l’O du 18 oct. 2017 ([RO 2017 6113](https://fedlex.data.admin.ch/eli/oc/2017/674)), le ch. II de l’O du 31 oct. 2018 ([RO 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)), l’annexe 2 ch. 2 de l’O du 26 août 2020 ([RO 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)), le ch. II al. 1 de l’O du 11 nov. 2020 ([RO 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)), l’annexe 3 ch. 14 de l’O du 30 juin 2021 modifiant le tarif des douanes ([RO 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)), le ch. III de l’O de l’OFAG du 30 août 2021 ([RO 2021 537](https://fedlex.data.admin.ch/eli/oc/2021/537)), le ch. I de l’O du 17 sept. 2021 ([RO 2021 571](https://fedlex.data.admin.ch/eli/oc/2021/571)), erratum du 18 oct. 2021 ([RO 2021 617](https://fedlex.data.admin.ch/eli/oc/2021/617)), le ch. I des O de l’OFAG du 17 nov. 2021 ([RO 2021 797](https://fedlex.data.admin.ch/eli/oc/2021/797)), du 3 fév. 2022 ([RO 2022 70](https://fedlex.data.admin.ch/eli/oc/2022/70)), du 1<sup>er</sup> fév. 2022 ([RO 2022 116](https://fedlex.data.admin.ch/eli/oc/2022/116)), du 15 mars 2022 ([RO 2022 185](https://fedlex.data.admin.ch/eli/oc/2022/185)), le ch. I al. 1 de l’O du 30 mars 2022 ([RO 2022 215](https://fedlex.data.admin.ch/eli/oc/2022/215)), le ch. I des O de l’OFAG du 20 avr. 2022 ([RO 2022 280](https://fedlex.data.admin.ch/eli/oc/2022/280)) et du 14 juin 2022 ([RO 2022 365](https://fedlex.data.admin.ch/eli/oc/2022/365)) et le ch. I al. 1 de l’O du 10 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 372](https://fedlex.data.admin.ch/eli/oc/2022/372)).
+[^t-3]: Mise à jour par le ch II de l’O du 18 oct. 2017 ([RO 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)), le ch. I de l’O du 18 oct. 2017 ([RO 2017 6113](https://fedlex.data.admin.ch/eli/oc/2017/674)), le ch. II de l’O du 31 oct. 2018 ([RO 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)), l’annexe 2 ch. 2 de l’O du 26 août 2020 ([RO 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)), le ch. II al. 1 de l’O du 11 nov. 2020 ([RO 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)), l’annexe 3 ch. 14 de l’O du 30 juin 2021 modifiant le tarif des douanes ([RO 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)), le ch. III de l’O de l’OFAG du 30 août 2021 ([RO 2021 537](https://fedlex.data.admin.ch/eli/oc/2021/537)), le ch. I de l’O du 17 sept. 2021 ([RO 2021 571](https://fedlex.data.admin.ch/eli/oc/2021/571)), erratum du 18 oct. 2021 ([RO 2021 617](https://fedlex.data.admin.ch/eli/oc/2021/617)), le ch. I des O de l’OFAG du 17 nov. 2021 ([RO 2021 797](https://fedlex.data.admin.ch/eli/oc/2021/797)), du 3 fév. 2022 ([RO 2022 70](https://fedlex.data.admin.ch/eli/oc/2022/70)), du 1<sup>er</sup> fév. 2022 ([RO 2022 116](https://fedlex.data.admin.ch/eli/oc/2022/116)), du 15 mars 2022 ([RO 2022 185](https://fedlex.data.admin.ch/eli/oc/2022/185)), le ch. I al. 1 de l’O du 30 mars 2022 ([RO 2022 215](https://fedlex.data.admin.ch/eli/oc/2022/215)), le ch. I des O de l’OFAG du 20 avr. 2022 ([RO 2022 280](https://fedlex.data.admin.ch/eli/oc/2022/280)) et du 14 juin 2022 ([RO 2022 365](https://fedlex.data.admin.ch/eli/oc/2022/365)), le ch. I al. 1 de l’O du 10 juin 2022 ([RO 2022 372](https://fedlex.data.admin.ch/eli/oc/2022/372)) et le ch. I de l’O de l’OFAG du 9 août 2022, en vigueur depuis le 22 août 2022 ([RO 2022 447](https://fedlex.data.admin.ch/eli/oc/2022/447)).
 
 ### 1. Marché des équidés
 
@@ -2938,8 +2938,8 @@ Annexe 3*[^t-3]*
 <tr><td>06.3</td><td>Produits de charcuterie, y compris coppa, jambon en vessie et jambon saumoné</td><td colspan="2">**3148**</td></tr>
 <tr><td></td><td>Compris dans le contingent préférentiel 301 de 3715 t net selon l’ordonnance du 18 juin 2008 sur le libre échange 1</td><td colspan="2"></td></tr>
 <tr><td>06.4</td><td>Autre viande d’animaux, nourris principalement à base d’aliments concentrés:</td><td>**48 681**</td></tr>
-<tr><td></td><td>de volaille, y compris volaille en conserves et abats de volaille</td><td>**42 200 [2]**</td></tr>
-<tr><td></td><td>de porc, y compris pâté, granulés pour la fabrication de soupes et porcs de boucherie provenant des zones franches</td><td>**6481 [2]**</td></tr>
+<tr><td></td><td>de volaille, y compris volaille en conserves et abats de volaille</td><td>**42 200** **[2]**</td></tr>
+<tr><td></td><td>de porc, y compris pâté, granulés pour la fabrication de soupes et porcs de boucherie provenant des zones franches</td><td>**6481** **[2]**</td></tr>
 <tr><td colspan="4">**[1]** **Les indications qui dérogent au tarif général sont imprimées en caractères gras. L’importation à partir de zones franches conformément au règlement du 22 décembre 1933 concernant les importations en Suisse des produits des zones franches (RS** *0.631.256.934.953***) n’est pas imputée au contingent tarifaire à attribuer.**</td></tr>
 <tr><td colspan="4">**[2]** **Quantité indicative**</td></tr>
 </table>
@@ -2958,6 +2958,7 @@ Annexe 3*[^t-3]*
 <tr><td>07.4.1</td><td>Augmentation temporaire du contingent tarifaire partiel pour 2022: à partir du 15 février et jusqu’au 31 décembre</td><td>1000</td></tr>
 <tr><td>07.4.2</td><td>Augmentation temporaire du contingent tarifaire partiel pour 2022: à partir du 1<sup>er</sup> avril et jusqu’au 31 décembre</td><td>2000</td></tr>
 <tr><td>07.4.3</td><td>Augmentation temporaire du contingent tarifaire partiel pour 2022: à partir du 1<sup>er</sup> juillet et jusqu’au 31 décembre</td><td>**1000**</td></tr>
+<tr><td>07.4.4</td><td>Augmentation temporaire du contingent tarifaire partiel pour 2022: à partir du 22 août et jusqu’au 31 décembre</td><td>**1000**</td></tr>
 <tr><td>07.5</td><td>«Contingent de fontal»</td><td>**2624** [4]</td></tr>
 <tr><td>07.6</td><td>Autres produits laitiers</td><td>**[5]**</td></tr>
 <tr><td>08</td><td>Caséine</td><td>697 **[5]**</td></tr>
@@ -2995,19 +2996,19 @@ Annexe 3*[^t-3]*
 <table>
 <tr><th>Numéro du contingent tarifaire</th><th>Désignation de la marchandise</th><th>Contingent tarifaire (en tonnes)</th></tr>
 <tr><th>**[1]**</th><th>**[1]**</th><th>**[1]**</th></tr>
-<tr><td>**14**</td><td>**Pommes de terre et produits à base de pommes de terre, en équivalents de pommes de terre, dont:**</td><td>**23 750**</td></tr>
-<tr><td>**14.1**</td><td>**Pommes de terre de semence**</td><td>**4000**</td></tr>
-<tr><td>**14.1.1**</td><td>**Augmentation temporaire du contingent tarifaire partiel pour 2022: du 1****<sup>er</sup>** **janvier au 31 décembre 2022**</td><td>**3000**</td></tr>
-<tr><td>**14.2**</td><td>**Pommes de terre destinées à la transformation**</td><td>**9250**</td></tr>
-<tr><td>**14.2.1**</td><td>**Augmentation temporaire du contingent tarifaire partiel pour 2022: du 1****<sup>er</sup>** **janvier au 30 juin 2022**</td><td>**25 000**</td></tr>
-<tr><td>**14.2.2**</td><td>**Augmentation temporaire du contingent tarifaire partiel pour 2022: du 1****<sup>er</sup>** **mars au 30 juin 2022**</td><td>**20 000**</td></tr>
-<tr><td>**14.3**</td><td>**Pommes de terre de table**</td><td>**6500**</td></tr>
-<tr><td>**14.3.1**</td><td>**Augmentation temporaire du contingent tarifaire partiel pour 2022: du 1****<sup>er</sup>** **mars au 15 juillet 2022**</td><td>**20 000**</td></tr>
-<tr><td>**14.3.2**</td><td>**Augmentation temporaire du contingent tarifaire partiel pour 2022: du 15 mai au 31 juillet 2022**</td><td>**5000**</td></tr>
-<tr><td>**14.4**</td><td>**Produits de pommes de terre, dont**</td><td>**4000**</td></tr>
-<tr><td>**14.4.1**</td><td>**C****atégorie de marchandises produits semi-finis**</td><td>**1500**</td></tr>
-<tr><td>**14.4.2**</td><td>**C****atégorie de marchandises produits finis**</td><td>**2500**</td></tr>
-<tr><td colspan="3">**[1]** Les indications qui dérogent au tarif général sont imprimées en caractères gras. **L’importation à partir de zones franches conformément au règlement** **22 décembre** **1933 concernant les importations en Suisse des produits des zones franches (RS** *0.631.256.934.953***) n’est pas imputée au contingent tarifaire à attribuer.**</td></tr>
+<tr><td>14</td><td>Pommes de terre et produits à base de pommes de terre, en équivalents de pommes de terre, dont:</td><td>**23 750**</td></tr>
+<tr><td>14.1</td><td>Pommes de terre de semence</td><td>**4000**</td></tr>
+<tr><td>14.1.1</td><td>Augmentation temporaire du contingent tarifaire partiel pour 2022: du 1<sup>er</sup> janvier au 31 décembre 2022</td><td>3000</td></tr>
+<tr><td>14.2</td><td>Pommes de terre destinées à la transformation</td><td>**9250**</td></tr>
+<tr><td>14.2.1</td><td>Augmentation temporaire du contingent tarifaire partiel pour 2022: du 1<sup>er</sup> janvier au 30 juin 2022</td><td>25 000</td></tr>
+<tr><td>14.2.2</td><td>Augmentation temporaire du contingent tarifaire partiel pour 2022: du 1<sup>er</sup> mars au 30 juin 2022</td><td>**20 000**</td></tr>
+<tr><td>14.3</td><td>Pommes de terre de table</td><td>**6500**</td></tr>
+<tr><td>14.3.1</td><td>Augmentation temporaire du contingent tarifaire partiel pour 2022: du 1<sup>er</sup> mars au 15 juillet 2022</td><td>**20 000**</td></tr>
+<tr><td>14.3.2</td><td>Augmentation temporaire du contingent tarifaire partiel pour 2022: du 15 mai au 31 juillet 2022</td><td>**5000**</td></tr>
+<tr><td>14.4</td><td>Produits de pommes de terre, dont</td><td>**4000**</td></tr>
+<tr><td>14.4.1</td><td>Catégorie de marchandises produits semi-finis</td><td>**1500**</td></tr>
+<tr><td>14.4.2</td><td>Catégorie de marchandises produits finis</td><td>**2500**</td></tr>
+<tr><td colspan="3">**[1]** **Les indications qui dérogent au tarif général sont imprimées en caractères gras.** **L’importation à partir de zones franches conformément au règlement** **22 décembre** **1933 concernant les importations en Suisse des produits des zones franches (RS** *0.631.256.934.953***) n’est pas imputée au contingent tarifaire à attribuer.**</td></tr>
 </table>
 
 ### 8. Marché des légumes frais
@@ -3069,7 +3070,7 @@ Annexe 3*[^t-3]*
 <tr><td colspan="4">**[2]** **Le contingent tarifaire peut être dépassé.**</td></tr>
 </table>
 
-Annexe 4*[^t-4]*
+Annexe 4[^t-4]
 
 (art. 31, al. 2)
 
@@ -3088,11 +3089,11 @@ Annexe 4*[^t-4]*
 <tr><td>10 000 t brut</td><td>3 novembre – 31 décembre</td></tr>
 </table>
 
-Annexe 5*[^t-5]*
+Annexe 5[^t-5]
 
 [^t-5]: Abrogée par l’annexe de l’O du 2 avr. 2014, avec effet au 1<sup>er</sup> juil. 2014 ([RO 2014 979](https://fedlex.data.admin.ch/eli/oc/2014/218)).
 
-Annexe 6*[^t-6]*
+Annexe 6[^t-6]
 
 [^t-6]: Abrogée par le ch. II al. 2 de l’O du 3 nov. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 696](https://fedlex.data.admin.ch/eli/oc/2021/696)).
 
