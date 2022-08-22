@@ -4,11 +4,11 @@ title: Vertrag vom 19. Juni 1970 über die internationale Zusammenarbeit auf dem
 short: PCT
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/900_900_900"
 language: de
-version: 2019-06-28
+version: 2022-08-23
 adopted: 1970-06-19
 in_force: 1978-01-24
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/900_900_900/20190628/de/xml/fedlex-data-admin-ch-eli-cc-1978-900_900_900-20190628-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/900_900_900/20190628/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/900_900_900/20220823/de/xml/fedlex-data-admin-ch-eli-cc-1978-900_900_900-20220823-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/900_900_900/20220823/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,13 +17,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/1978/900_900_900/20190628/de"
 
 AS **1978** 900; BBl **1976** II 1
 
-Amtlicher deutscher Text*[^t-1]*
+Amtlicher deutscher Text[^t-1]
 
 (PCT)
 
 Abgeschlossen in Washington am 19. Juni 1970 Von der Bundesversammlung genehmigt am 29. November 1976[^t-2] Schweizerische Ratifikationsurkunde hinterlegt am 14. September 1977 In Kraft getreten für die Schweiz am 24. Januar 1978
 
-(Stand am 28. Juni 2019)
+(Stand am 23. August 2022)
 
 [^t-1]: Amtliche deutsche Übersetzung nach Art. 67 Abs. 1 Bst. b des Vertrages. Der nachstehende Wortlaut des Vertrages weicht in verschiedenen Punkten geringfügig ab von der mit der Botschaft veröffentlichten Fassung (BBl **1976** I 137–275), die noch nicht amtlich bereinigt war. Wie die parlamentarische Redaktionskommission festgestellt hat, sind die Unterschiede rein redaktioneller Natur.
 [^t-2]: Art. 1 Ziff. 2 des BB vom 29. Nov. 1976 ([AS 1977 1709](https://fedlex.data.admin.ch/eli/oc/1977/1709_1709_1709))
@@ -1148,7 +1148,7 @@ Der Generaldirektor notifiziert den Regierungen aller Mitgliedstaaten der Parise
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten diesen Vertrag unterschrieben. Geschehen in Washington am neunzehnten Juni tausendneunhundertsiebzig. (Es folgen die Unterschriften)
 
-Geltungsbereich am 28. Juni 2019**[^t-3]**
+Geltungsbereich am 23. August 2022[^t-3]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -1202,16 +1202,19 @@ Geltungsbereich am 28. Juni 2019**[^t-3]**
 <tr><td>Honduras</td><td>20. März</td><td>2006 B</td><td>20. Juni</td><td>2006</td></tr>
 <tr><td>Indien\*</td><td>7. September</td><td>1998 B</td><td>7. Dezember</td><td>1998</td></tr>
 <tr><td>Indonesien\*</td><td>5. Juni</td><td>1997 B</td><td>5. September</td><td>1997</td></tr>
+<tr><td>Irak</td><td>31. Januar</td><td>2022 B</td><td>30. April</td><td>2022</td></tr>
 <tr><td>Iran\*</td><td>4. Juli</td><td>2013</td><td>4. Oktober</td><td>2013</td></tr>
 <tr><td>Irland</td><td>1. Mai</td><td>1992</td><td>1. August</td><td>1992</td></tr>
 <tr><td>Island</td><td>23. Dezember</td><td>1994 B</td><td>23. März</td><td>1995</td></tr>
 <tr><td>Israel</td><td>1. März</td><td>1996</td><td>1. Juni</td><td>1996</td></tr>
 <tr><td>Italien</td><td>28. Dezember</td><td>1984</td><td>28. März</td><td>1985</td></tr>
+<tr><td>Jamaika</td><td>10. November</td><td>2021 B</td><td>10. Februar</td><td>2022</td></tr>
 <tr><td>Japan</td><td>1. Juli</td><td>1978</td><td>1. Oktober</td><td>1978</td></tr>
 <tr><td>Jordanien</td><td>9. März</td><td>2017 B</td><td>9. Juni</td><td>2017</td></tr>
 <tr><td>Kambodscha\*</td><td>8. September</td><td>2016 B</td><td>8. Dezember</td><td>2016</td></tr>
 <tr><td>Kamerun</td><td>15. März</td><td>1973 B</td><td>24. Januar</td><td>1978</td></tr>
 <tr><td>Kanada</td><td>2. Oktober</td><td>1989</td><td>2. Januar</td><td>1990</td></tr>
+<tr><td>Kap Verde</td><td>6. April</td><td>2022 B</td><td>6. Juli</td><td>2022</td></tr>
 <tr><td>Kasachstan\*</td><td>16. Februar</td><td>1993 N</td><td>25. Dezember</td><td>1991</td></tr>
 <tr><td>Katar\*</td><td>3. Mai</td><td>2011 B</td><td>3. August</td><td>2011</td></tr>
 <tr><td>Kenia</td><td>8. März</td><td>1994 B</td><td>8. Juni</td><td>1994</td></tr>
@@ -1269,6 +1272,7 @@ Geltungsbereich am 28. Juni 2019**[^t-3]**
 <tr><td>Rumänien\*</td><td>23. April</td><td>1979</td><td>23. Juli</td><td>1979</td></tr>
 <tr><td>Russland\*</td><td>29. Dezember</td><td>1977</td><td>29. März</td><td>1978</td></tr>
 <tr><td>Sambia</td><td>15. August</td><td>2001 B</td><td>15. November</td><td>2001</td></tr>
+<tr><td>Samoa\*</td><td>2. Oktober</td><td>2019 B</td><td>2. Januar</td><td>2020</td></tr>
 <tr><td>San Marino</td><td>14. September</td><td>2004 B</td><td>14. Dezember</td><td>2004</td></tr>
 <tr><td>São Tomé und Príncipe</td><td>3. April</td><td>2008 B</td><td>3. Juli</td><td>2008</td></tr>
 <tr><td>Saudi-Arabien</td><td>3. Mai</td><td>2013 B</td><td>3. August</td><td>2013</td></tr>
@@ -1307,6 +1311,8 @@ Geltungsbereich am 28. Juni 2019**[^t-3]**
 <tr><td>Vereinigte Arabische Emirate</td><td>10. Dezember</td><td>1998 B</td><td>10. März</td><td>1999</td></tr>
 <tr><td>Vereinigte Staaten\*</td><td>26. November</td><td>1975</td><td>24. Januar</td><td>1978</td></tr>
 <tr><td>Vereinigtes Königreich\*</td><td>24. Oktober</td><td>1977</td><td>24. Februar</td><td>1978</td></tr>
+<tr><td>Gibraltar</td><td>1. Oktober</td><td>2020</td><td>1. Januar</td><td>2021</td></tr>
+<tr><td>Guernsey</td><td>23. Dezember</td><td>2020</td><td>23. März</td><td>2021</td></tr>
 <tr><td>Insel Man</td><td>27. Juli</td><td>1983</td><td>29. Oktober</td><td>1983</td></tr>
 <tr><td>Vietnam</td><td>10. Dezember</td><td>1992 B</td><td>10. März</td><td>1993</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>15. September</td><td>1971 B</td><td>24. Januar</td><td>1978</td></tr>
@@ -1314,4 +1320,4 @@ Geltungsbereich am 28. Juni 2019**[^t-3]**
 <tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Weltorganisation für geistiges Eigentum: www.wipo.int/ &gt; Français &gt; Savoirs &gt; Traités administrés par l’OMPI eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden. <sup>a</sup> Dieser Vertrag gilt nicht für Macau.</td></tr>
 </table>
 
-[^t-3]: [AS 1978 900](https://fedlex.data.admin.ch/eli/oc/1978/900_900_900), **1979** 160 1124, **1981** 79 1755, [1982 1291](https://fedlex.data.admin.ch/eli/oc/1982/1291_1291_1291), [1984 566](https://fedlex.data.admin.ch/eli/oc/1984/566_566_566), [1985 1469](https://fedlex.data.admin.ch/eli/oc/1985/1469_1469_1469), [1987 706](https://fedlex.data.admin.ch/eli/oc/1987/706_706_706), [1988 1832](https://fedlex.data.admin.ch/eli/oc/1988/1832_1832_1832), [1989 633](https://fedlex.data.admin.ch/eli/oc/1989/633_633_633), [1990 851](https://fedlex.data.admin.ch/eli/oc/1990/851_851_851), [1991 966](https://fedlex.data.admin.ch/eli/oc/1991/966_966_966), [1995 4044](https://fedlex.data.admin.ch/eli/oc/1995/4044_4044_4044), [2004 2587](https://fedlex.data.admin.ch/eli/oc/2004/311), [2005 1507](https://fedlex.data.admin.ch/eli/oc/2005/228), [2006 2113](https://fedlex.data.admin.ch/eli/oc/2006/339), [2007 1335](https://fedlex.data.admin.ch/eli/oc/2007/219), [2009 2537](https://fedlex.data.admin.ch/eli/oc/2009/322), [2011 3545](https://fedlex.data.admin.ch/eli/oc/2011/481), [2014 967](https://fedlex.data.admin.ch/eli/oc/2014/216), [2019 2189](https://fedlex.data.admin.ch/eli/oc/2019/406). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-3]: [AS 1978 900](https://fedlex.data.admin.ch/eli/oc/1978/900_900_900); **1979** 160, 1124; **1981** 79, 1755; [1982 1291](https://fedlex.data.admin.ch/eli/oc/1982/1291_1291_1291); [1984 566](https://fedlex.data.admin.ch/eli/oc/1984/566_566_566); [1985 1469](https://fedlex.data.admin.ch/eli/oc/1985/1469_1469_1469); [1987 706](https://fedlex.data.admin.ch/eli/oc/1987/706_706_706); [1988 1832](https://fedlex.data.admin.ch/eli/oc/1988/1832_1832_1832); [1989 633](https://fedlex.data.admin.ch/eli/oc/1989/633_633_633); [1990 851](https://fedlex.data.admin.ch/eli/oc/1990/851_851_851); [1991 966](https://fedlex.data.admin.ch/eli/oc/1991/966_966_966); [1995 4044](https://fedlex.data.admin.ch/eli/oc/1995/4044_4044_4044); [2004 2587](https://fedlex.data.admin.ch/eli/oc/2004/311); [2005 1507](https://fedlex.data.admin.ch/eli/oc/2005/228); [2006 2113](https://fedlex.data.admin.ch/eli/oc/2006/339); [2007 1335](https://fedlex.data.admin.ch/eli/oc/2007/219); [2009 2537](https://fedlex.data.admin.ch/eli/oc/2009/322); [2011 3545](https://fedlex.data.admin.ch/eli/oc/2011/481); [2014 967](https://fedlex.data.admin.ch/eli/oc/2014/216); [2019 2189](https://fedlex.data.admin.ch/eli/oc/2019/406); [2022 464](https://fedlex.data.admin.ch/eli/oc/2022/464). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht www.fedlex.admin.ch/de/treaty.

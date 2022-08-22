@@ -4,11 +4,11 @@ title: Trattato di cooperazione del 19 giugno 1970 in materia di brevetti (PCT)
 short: PCT
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/900_900_900"
 language: it
-version: 2019-06-28
+version: 2022-08-23
 adopted: 1970-06-19
 in_force: 1978-01-24
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/900_900_900/20190628/it/xml/fedlex-data-admin-ch-eli-cc-1978-900_900_900-20190628-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/900_900_900/20190628/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/900_900_900/20220823/it/xml/fedlex-data-admin-ch-eli-cc-1978-900_900_900-20220823-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/900_900_900/20220823/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,16 +17,15 @@ url: "https://www.fedlex.admin.ch/eli/cc/1978/900_900_900/20190628/it"
 
 RU **1978** 900; FF **1976** II 1
 
-Testo ufficiale italiano*[^t-1]*
+Testo ufficiale italiano
 
 (PCT)
 
-Conchiuso a Washington il 19 giugno 1970 Approvato dall’Assemblea federale il 29 novembre 1976[^t-2] Istrumento di ratificazione depositato dalla Svizzera il 14 settembre 1977 Entrato in vigore per la Svizzera il 24 gennaio 1978
+Conchiuso a Washington il 19 giugno 1970 Approvato dall’Assemblea federale il 29 novembre 1976[^t-1] Istrumento di ratificazione depositato dalla Svizzera il 14 settembre 1977 Entrato in vigore per la Svizzera il 24 gennaio 1978
 
-(Stato 28 giugno 2019)
+(Stato 23 agosto 2022)
 
-[^t-1]: Vedi art. 67.1 b)
-[^t-2]: Art. 1 n. 2 del DF del 29 nov. 1976 ([RU 1977 1709](https://fedlex.data.admin.ch/eli/oc/1977/1709_1709_1709)).
+[^t-1]: Art. 1 n. 2 del DF del 29 nov. 1976 ([RU 1977 1709](https://fedlex.data.admin.ch/eli/oc/1977/1709_1709_1709)).
 
 Gli Stati contraenti,
 
@@ -1162,7 +1161,7 @@ Il Direttore generale notifica ai governi di tutti gli Stati facenti parte della
 
 *In fede di che,* i sottoscritti, debitamente autorizzati, hanno firmato il presente trattato. Fatto a Washington il diciannove giugno millenovecentosettanta. (Seguono le firme)
 
-Campo d’applicazione il 28 giugno 2019**[^t-3]**
+Campo d’applicazione il 23 agosto 2022[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -1187,9 +1186,10 @@ Campo d’applicazione il 28 giugno 2019**[^t-3]**
 <tr><td>Brunei</td><td>24 aprile</td><td>2012 A</td><td>24 luglio</td><td>2012</td></tr>
 <tr><td>Bulgaria</td><td>21 febbraio</td><td>1984 A</td><td>21 maggio</td><td>1984</td></tr>
 <tr><td>Burkina Faso</td><td>21 dicembre</td><td>1988 A</td><td>21 marzo</td><td>1989</td></tr>
-<tr><td>Cambogia</td><td>8 settembre</td><td>2016 A</td><td>8 dicembre</td><td>2016</td></tr>
+<tr><td>Cambogia<sup>\*</sup></td><td>8 settembre</td><td>2016 A</td><td>8 dicembre</td><td>2016</td></tr>
 <tr><td>Camerun</td><td>15 marzo</td><td>1973 A</td><td>24 gennaio</td><td>1978</td></tr>
 <tr><td>Canada</td><td>2 ottobre</td><td>1989</td><td>2 gennaio</td><td>1990</td></tr>
+<tr><td>Capo Verde</td><td>6 aprile</td><td>2022 A</td><td>6 luglio</td><td>2022</td></tr>
 <tr><td>Ceca, Repubblica</td><td>18 dicembre</td><td>1992 S</td><td>1° gennaio</td><td>1993</td></tr>
 <tr><td>Ciad</td><td>12 febbraio</td><td>1974 A</td><td>24 gennaio</td><td>1978</td></tr>
 <tr><td>Cile<sup>\*</sup></td><td>2 marzo</td><td>2009 A</td><td>2 giugno</td><td>2009</td></tr>
@@ -1223,6 +1223,7 @@ Campo d’applicazione il 28 giugno 2019**[^t-3]**
 <tr><td>Georgia<sup>\*</sup></td><td>18 gennaio</td><td>1994 S</td><td>25 dicembre</td><td>1991</td></tr>
 <tr><td>Germania</td><td>19 luglio</td><td>1976</td><td>24 gennaio</td><td>1978</td></tr>
 <tr><td>Ghana</td><td>26 novembre</td><td>1996 A</td><td>26 febbraio</td><td>1997</td></tr>
+<tr><td>Giamaica</td><td>10 novembre</td><td>2021 A</td><td>10 febbraio</td><td>2022</td></tr>
 <tr><td>Giappone</td><td>1° luglio</td><td>1978</td><td>1° ottobre</td><td>1978</td></tr>
 <tr><td>Gibuti</td><td>23 giugno</td><td>2016 A</td><td>23 settembre</td><td>2016</td></tr>
 <tr><td>Giordania</td><td>9 marzo</td><td>2017 A</td><td>9 giugno</td><td>2017</td></tr>
@@ -1236,6 +1237,7 @@ Campo d’applicazione il 28 giugno 2019**[^t-3]**
 <tr><td>India<sup>\*</sup></td><td>7 settembre</td><td>1998 A</td><td>7 dicembre</td><td>1998</td></tr>
 <tr><td>Indonesia<sup>\*</sup></td><td>5 giugno</td><td>1997 A</td><td>5 settembre</td><td>1997</td></tr>
 <tr><td>Iran<sup>\*</sup></td><td>4 luglio</td><td>2013</td><td>4 ottobre</td><td>2013</td></tr>
+<tr><td>Iraq</td><td>31 gennaio</td><td>2022 A</td><td>30 aprile</td><td>2022</td></tr>
 <tr><td>Irlanda</td><td>1° maggio</td><td>1992</td><td>1° agosto</td><td>1992</td></tr>
 <tr><td>Islanda</td><td>23 dicembre</td><td>1994 A</td><td>23 marzo</td><td>1995</td></tr>
 <tr><td>Israele</td><td>1° marzo</td><td>1996</td><td>1° giugno</td><td>1996</td></tr>
@@ -1276,7 +1278,7 @@ Campo d’applicazione il 28 giugno 2019**[^t-3]**
 <tr><td>Paesi Bassi</td><td>10 aprile</td><td>1979</td><td>10 luglio</td><td>1979</td></tr>
 <tr><td>Aruba</td><td>10 aprile</td><td>1979</td><td>10 luglio</td><td>1979</td></tr>
 <tr><td>[tab] Curaçao</td><td>10 aprile</td><td>1979</td><td>10 luglio</td><td>1979</td></tr>
-<tr><td>Parte caraibica (Bonaire, Sant’Eustachio e Saba)</td><td>10 aprile</td><td>1979</td><td>10 luglio</td><td>1979</td></tr>
+<tr><td>[tab] Parte caraibica (Bonaire, Sant’Eustachio e Saba)</td><td>10 aprile</td><td>1979</td><td>10 luglio</td><td>1979</td></tr>
 <tr><td>[tab] Sint Maarten</td><td>10 aprile</td><td>1979</td><td>10 luglio</td><td>1979</td></tr>
 <tr><td>Panama</td><td>7 giugno</td><td>2012 A</td><td>7 settembre</td><td>2012</td></tr>
 <tr><td>Papua Nuova Guinea</td><td>14 marzo</td><td>2003 A</td><td>14 giugno</td><td>2003</td></tr>
@@ -1285,6 +1287,8 @@ Campo d’applicazione il 28 giugno 2019**[^t-3]**
 <tr><td>Portogallo</td><td>24 agosto</td><td>1992 A</td><td>24 novembre</td><td>1992</td></tr>
 <tr><td>Qatar<sup>\*</sup></td><td>3 maggio</td><td>2011 A</td><td>3 agosto</td><td>2011</td></tr>
 <tr><td>Regno Unito<sup>\*</sup></td><td>24 ottobre</td><td>1977</td><td>24 gennaio</td><td>1978</td></tr>
+<tr><td>Gibilterra</td><td>1° ottobre</td><td>2020</td><td>1° gennaio</td><td>2021</td></tr>
+<tr><td>Guernesey</td><td>23 dicembre</td><td>2020</td><td>23 marzo</td><td>2021</td></tr>
 <tr><td>Isola di Man</td><td>27 luglio</td><td>1983</td><td>29 ottobre</td><td>1983</td></tr>
 <tr><td>Rep. Centrafricana</td><td>15 settembre</td><td>1971 A</td><td>24 gennaio</td><td>1978</td></tr>
 <tr><td>Romania<sup>\*</sup></td><td>23 aprile</td><td>1979</td><td>23 luglio</td><td>1979</td></tr>
@@ -1293,6 +1297,7 @@ Campo d’applicazione il 28 giugno 2019**[^t-3]**
 <tr><td>Saint Kitts e Nevis</td><td>27 luglio</td><td>2005 A</td><td>27 ottobre</td><td>2005</td></tr>
 <tr><td>Saint Lucia<sup>\*</sup></td><td>30 maggio</td><td>1996 A</td><td>30 agosto</td><td>1996</td></tr>
 <tr><td>Saint Vincent e Grenadine</td><td>6 maggio</td><td>2002 A</td><td>6 agosto</td><td>2002</td></tr>
+<tr><td>Samoa\*</td><td>2 ottobre</td><td>2019 A</td><td>2 gennaio</td><td>2020</td></tr>
 <tr><td>San Marino</td><td>14 settembre</td><td>2004 A</td><td>14 dicembre</td><td>2004</td></tr>
 <tr><td>São Tomé e Príncipe</td><td>3 aprile</td><td>2008 A</td><td>3 luglio</td><td>2008</td></tr>
 <tr><td>Seicelle</td><td>7 agosto</td><td>2002 A</td><td>7 novembre</td><td>2002</td></tr>
@@ -1326,7 +1331,7 @@ Campo d’applicazione il 28 giugno 2019**[^t-3]**
 <tr><td>Vietnam</td><td>10 dicembre</td><td>1992 A</td><td>10 marzo</td><td>1993</td></tr>
 <tr><td>Zambia</td><td>15 agosto</td><td>2001 A</td><td>15 novembre</td><td>2001</td></tr>
 <tr><td>Zimbabwe</td><td>11 marzo</td><td>1997 A</td><td>11 giugno</td><td>1997</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. I testi, francese ed inglese, possono essere consultati sul sito Internet dell’Organizzazione mondiale della proprietà intellettuale: www.wipo.int/ &gt; Français &gt; Savoirs &gt; Traités administrés par l’OMPI, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione trattati internazionali, 3003 Berna. <sup>a</sup> Il trattato non s’applica al Macao.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione mondiale della proprietà intellettuale (OMPI): [www.wipo.int/treaties/fr/registration/pct/](https://www.wipo.int/treaties/fr/registration/pct/) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione dei trattati internazionali, 3003 Berna. <sup>a</sup> Il trattato non s’applica al Macao.</td></tr>
 </table>
 
-[^t-3]: [RU 1978 900](https://fedlex.data.admin.ch/eli/oc/1978/900_900_900), [1979 159](https://fedlex.data.admin.ch/eli/oc/1979/159_158_159)1124, **1981** 79 1755, [1982 1291](https://fedlex.data.admin.ch/eli/oc/1982/1291_1291_1291),[1984 566](https://fedlex.data.admin.ch/eli/oc/1984/566_566_566), [1985 1469](https://fedlex.data.admin.ch/eli/oc/1985/1469_1469_1469), [1987 706](https://fedlex.data.admin.ch/eli/oc/1987/706_706_706), [1988 1832](https://fedlex.data.admin.ch/eli/oc/1988/1832_1832_1832), [1989 633](https://fedlex.data.admin.ch/eli/oc/1989/633_633_633), [1990 851](https://fedlex.data.admin.ch/eli/oc/1990/851_851_851), [1991 966](https://fedlex.data.admin.ch/eli/oc/1991/966_966_966), [1995 4044](https://fedlex.data.admin.ch/eli/oc/1995/4044_4044_4044),[2004 2587](https://fedlex.data.admin.ch/eli/oc/2004/311), [2005 1507](https://fedlex.data.admin.ch/eli/oc/2005/228), [2006 2113](https://fedlex.data.admin.ch/eli/oc/2006/339), [2007 1335](https://fedlex.data.admin.ch/eli/oc/2007/219), [2009 2537](https://fedlex.data.admin.ch/eli/oc/2009/322), [2011 3545](https://fedlex.data.admin.ch/eli/oc/2011/481), [2014 967](https://fedlex.data.admin.ch/eli/oc/2014/216)e [2019 2189](https://fedlex.data.admin.ch/eli/oc/2019/406). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1978 900](https://fedlex.data.admin.ch/eli/oc/1978/900_900_900); [1979 159](https://fedlex.data.admin.ch/eli/oc/1979/159_158_159); 1124; **1981** 78, 1755; [1982 1291](https://fedlex.data.admin.ch/eli/oc/1982/1291_1291_1291); [1984 566](https://fedlex.data.admin.ch/eli/oc/1984/566_566_566); [1985 1469](https://fedlex.data.admin.ch/eli/oc/1985/1469_1469_1469); [1987 706](https://fedlex.data.admin.ch/eli/oc/1987/706_706_706); [1988 1832](https://fedlex.data.admin.ch/eli/oc/1988/1832_1832_1832); [1989 633](https://fedlex.data.admin.ch/eli/oc/1989/633_633_633); [1990 851](https://fedlex.data.admin.ch/eli/oc/1990/851_851_851); [1991 966](https://fedlex.data.admin.ch/eli/oc/1991/966_966_966); [1995 4044](https://fedlex.data.admin.ch/eli/oc/1995/4044_4044_4044); [2004 2587](https://fedlex.data.admin.ch/eli/oc/2004/311); [2005 1507](https://fedlex.data.admin.ch/eli/oc/2005/228); [2006 2113](https://fedlex.data.admin.ch/eli/oc/2006/339); [2007 1335](https://fedlex.data.admin.ch/eli/oc/2007/219); [2009 2537](https://fedlex.data.admin.ch/eli/oc/2009/322); [2011 3545](https://fedlex.data.admin.ch/eli/oc/2011/481); [2014 967](https://fedlex.data.admin.ch/eli/oc/2014/216); [2019 2189](https://fedlex.data.admin.ch/eli/oc/2019/406); [2022 464](https://fedlex.data.admin.ch/eli/oc/2022/464). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty.
