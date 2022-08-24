@@ -3,11 +3,11 @@ sr: "0.631.242.04"
 title: Convenzione del 20 maggio 1987 relativa ad un regime comune di transito (con appendici e Protocollo addizionale)
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/308_308_308"
 language: it
-version: 2021-08-10
+version: 2022-08-25
 adopted: 1987-05-20
 in_force: 1988-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210810/it/xml/fedlex-data-admin-ch-eli-cc-1988-308_308_308-20210810-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/308_308_308/20210810/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20220825/it/xml/fedlex-data-admin-ch-eli-cc-1988-308_308_308-20220825-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/308_308_308/20220825/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Testo originale
 
 Conclusa il 20 maggio 1987 Approvata dall’Assemblea federale l’8 ottobre 1987[^t-2] Strumento di ratificazione depositato dalla Svizzera il 28 ottobre 1987 Entrata in vigore il 1° gennaio 1988
 
-(Stato 10 agosto 2021)
+(Stato 25 agosto 2022)
 
 [^t-1]: La Conv. concerneva originariamente le seguenti Parti contraenti: Comunità economica europea, Repubblica d’Austria, Repubblica di Finlandia, Repubblica d’Islanda, Regno di Norvegia, Regno di Svezia e Confederazione Svizzera. Il 1° gen. 1995, la Repubblica d’Austria, la Repubblica di Finlandia e il Regno di Svezia hanno aderito alle Comunità europee e da tale data non sono più Parti contraenti autonome della Conv. Il 1° lug. 1996, la Repubblica di Polonia, la Repubblica slovacca, la Repubblica ceca e la Repubblica di Ungheria hanno aderito alla Conv. ([RU 1996 2508](https://fedlex.data.admin.ch/eli/oc/1996/2508_2508_2508)). Con l’adesione all’Unione Europea, dal 1° mag. 2004 questi paesi non sono più Parti contraenti autonome della Conv. La Repubblica di Croazia ha aderito alla Conv. il 1° lug. 2012 ([RU 2013 81](https://fedlex.data.admin.ch/eli/oc/2013/15)), la Repubblica della Turchia il 1° dic. 2012 ([RU 2013 827](https://fedlex.data.admin.ch/eli/oc/2013/173)), l’ex Repubblica Jugoslava di Macedonia il 1° lug. 2015 ([RU 2015 5967](https://fedlex.data.admin.ch/eli/oc/2015/924)) e la Repubblica di Serbia il 1° feb. 2016 ([RU 2016 535](https://fedlex.data.admin.ch/eli/oc/2016/101)).
 [^t-2]: Art. 1 n. 1 lett. b del DF dell’8 ott. 1987 ([RU 1988 300](https://fedlex.data.admin.ch/eli/oc/1988/300_300_300)).
@@ -451,7 +451,7 @@ Appendice I[^t-3]
 
 ## Procedure di transito comune
 
-[^t-3]: Nuovo testo giusta l’art. 1 n. 2 della Dec. n. 1/2016 del Comitato congiunto UE-AELS del 28 apr. 2016 ([RU 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)). Aggiornata dall’art. 1 n. 1 e 2 della Dec. n. 1/2017 del Comitato congiunto EU-EFTA del 5 dic. 2017 ([RU 2018 303](https://fedlex.data.admin.ch/eli/oc/2018/53)), dall’art. 1 n. 1 della Dec. n. 1/2019 del Comitato congiunto UE-PTC del 4 dic. 2019 ([RU 2020 3687](https://fedlex.data.admin.ch/eli/oc/2020/670)) e dall’art. 1 n. 1 della Dec. n. 1/2021 del Comitato congiunto UE-PTC del 1° giu. 2021, in vigore per la Svizzera dal 1° giu. 2021 ([RU 2022 590](https://fedlex.data.admin.ch/eli/oc/2022/590)). Correzione del 10 ago. 2021 ([RU 2021 478](https://fedlex.data.admin.ch/eli/oc/2021/478)).
+[^t-3]: Nuovo testo giusta l’art. 1 n. 2 della Dec. n. 1/2016 del Comitato congiunto UE-AELS del 28 apr. 2016 ([RU 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)). Aggiornata dall’art. 1 n. 1 e 2 della Dec. n. 1/2017 del Comitato congiunto EU-EFTA del 5 dic. 2017 ([RU 2018 303](https://fedlex.data.admin.ch/eli/oc/2018/53)), dall’art. 1 n. 1 della Dec. n. 1/2019 del Comitato congiunto UE-PTC del 4 dic. 2019 ([RU 2020 3687](https://fedlex.data.admin.ch/eli/oc/2020/670)) dalla correzione del 10 ago. 2021 ([RU 2021 478](https://fedlex.data.admin.ch/eli/oc/2021/478)) e dall’art. 1 n. 1 della Dec. n. 1 /2022 del Commitato congiunto UE–PTC del 25 ago. 2022, in vigore per la Svizzera dal 25 ago. 2022 ([RU 2023 60](https://fedlex.data.admin.ch/eli/oc/2023/60)).
 
 ### Titolo I: Disposizioni Generali
 
@@ -811,7 +811,7 @@ Ai fini del presente articolo sono considerati un mezzo di trasporto unico i mez
 
 Le indicazioni e la struttura dei dati della dichiarazione di transito sono definiti nell’appendice III, allegati A1, A2 e B6.
 
-A decorrere dalla data di introduzione dell’aggiornamento del nuovo sistema di transito elettronico («NCTS») di cui all’allegato della decisione di esecuzione (UE) 2016/578 della Commissione, dell’11 aprile 2016, che stabilisce il programma di lavoro relativo allo sviluppo e all’utilizzazione dei sistemi elettronici previsti dal codice doganale dell’Unione (GU L 99 del 15.4.2016, pag. 6), le indicazioni e la struttura dei dati della dichiarazione di transito definiti negli allegati A1 *bis* e B6 *bis* dell’appendice III si applicano.
+A decorrere dalla data di introduzione dell’aggiornamento del nuovo sistema di transito elettronico («NCTS») di cui all’allegato della decisione di esecuzione (UE) 2016/578 della Commissione, dell’11 aprile 2016, che stabilisce il programma di lavoro relativo allo sviluppo e all’utilizzazione dei sistemi elettronici previsti dal codice doganale dell’Unione (GU L 99 del 15.4.2016, pag. 6), le indicazioni e la struttura dei dati della dichiarazione di transito definiti nell’allegato A1 *bis* dell’appendice III *bis* si applicano.
 
 #### Art. 26
 
@@ -842,7 +842,7 @@ L’autorità doganale accetta una dichiarazione di transito su supporto cartace
 
 Nei casi di cui all’articolo 26, paragrafo 1, lettera a), il viaggiatore compila la dichiarazione di transito su supporto cartaceo conformemente agli articoli 5 e 6 e all’appendice III, allegato B6.
 
-A decorrere dalla data di aggiornamento del NCTS, di cui all’allegato della decisione di esecuzione (UE) 2016/578 della Commissione, dell’11 aprile 2016, che stabilisce il programma di lavoro relativo allo sviluppo e all’utilizzazione dei sistemi elettronici previsti dal codice doganale dell’Unione (GU L 99 del 15.4.2016, pag. 6), nei casi di cui all’articolo 26, paragrafo 1, lettera a) il viaggiatore redige la dichiarazione di transito su supporto cartaceo conformemente agli articoli 5 e 6 e all’allegato B6 *bis* dell’appendice III.
+A decorrere dalla data di aggiornamento del NCTS, di cui all’allegato della decisione di esecuzione (UE) 2016/578 della Commissione, dell’11 aprile 2016, che stabilisce il programma di lavoro relativo allo sviluppo e all’utilizzazione dei sistemi elettronici previsti dal codice doganale dell’Unione (GU L 99 del 15.4.2016, pag. 6), nei casi di cui all’articolo 26, paragrafo 1, lettera a) il viaggiatore redige la dichiarazione di transito su supporto cartaceo conformemente agli articoli 5 e 6 e all’allegato A1 *bis* dell’appendice III *bis*.
 
 #### Art. 28
 
@@ -1055,7 +1055,7 @@ Al momento dello svincolo delle merci, l’ufficio doganale di partenza trasmett
 
 <sup>3.</sup> A decorrere dalla data di introduzione dell’aggiornamento del NCTS, di cui all’allegato della decisione di esecuzione (UE) 2016/578 della Commissione, l’ufficio doganale di partenza fornisce al dichiarante un documento di accompagnamento transito integrato da un elenco degli articoli. Tale elenco fa parte integrante del documento di accompagnamento transito.
 
-Il documento di accompagnamento transito è redatto utilizzando il formulario di cui all’allegato A3 *bis* dell’appendice III e comprende i dati di cui all’allegato A4 *bis* dell’appendice III. L’elenco degli articoli è redatto utilizzando il formulario di cui all’allegato A5 *bis* dell’appendice III e comprende i dati di cui all’allegato A6 *bis* dell’appendice III.
+Il documento di accompagnamento transito è redatto utilizzando il formulario di cui all’allegato A3 *bis* dell’appendice III *bis* e comprende i dati di cui all’allegato A4 *bis* dell’appendice III *bis*. L’elenco degli articoli è redatto utilizzando il formulario di cui all’allegato A5 *bis* dell’appendice III *bis* e comprende i dati di cui all’allegato A6 *bis* dell’ appendice III *bis.*
 
 Il documento di accompagnamento transito e l’elenco degli articoli sono forniti in forma stampata.
 
@@ -1238,10 +1238,6 @@ Se è sorta un’obbligazione, l’autorità doganale del Paese di partenza adot
 <sup>1.</sup> Se l’autorità doganale del Paese di partenza, nel corso della procedura di ricerca e prima della scadenza del termine di cui all’articolo 114, paragrafo 2, ottiene prove che dimostrano che il luogo in cui si sono verificati i fatti che hanno determinato l’insorgenza dell’obbligazione si trova in un altro Paese, tale autorità doganale provvede immediatamente, e in ogni caso entro tale termine, a inviare tutte le informazioni disponibili all’autorità doganale competente in tale luogo.
 
 <sup>2.</sup> L’autorità doganale competente in tale luogo accusa ricevuta delle informazioni e comunica all’autorità doganale del Paese di partenza se è competente per il recupero. Se l’autorità doganale del Paese di partenza non ha ricevuto l’informazione entro 28 giorni, essa riprende immediatamente la procedura di ricerca o dà avvio alla procedura di recupero.
-
-<sup>3.</sup> Se l’autorità doganale di un paese che partecipa a un’operazione di transito comune ottiene, prima della scadenza del termine di cui all’articolo 114, paragrafo 2, lettera a), prove che dimostrano che i fatti che hanno determinato l’insorgenza dell’obbligazione doganale si sono verificati nel proprio territorio, tale autorità provvede immediatamente, e in ogni caso entro tale termine, a inviare una richiesta debitamente giustificata all’autorità doganale del paese di partenza affinché trasferisca la responsabilità di avviare il recupero all’autorità doganale richiedente.
-
-<sup>4.</sup> L’autorità doganale del paese di partenza conferma il ricevimento della richiesta effettuata a norma del paragrafo 3 e comunica all’autorità doganale richiedente, entro 28 giorni dalla data di invio della richiesta, se accetta di soddisfare la richiesta e di trasferire all’autorità richiedente la responsabilità di avviare il recupero.
 
 #### Art. 51
 
@@ -1712,15 +1708,7 @@ L’utilizzo della garanzia globale e della garanzia globale di importo ridotto,
 
 <sup>1.</sup> Sulla base dell’autorizzazione, l’ufficio doganale di garanzia rilascia al titolare del regime uno o più certificati di garanzia globale redatti utilizzando il formulario di cui all’appendice III, allegato C5, o uno o più certificati di esonero dalla garanzia redatti utilizzando il formulario di cui all’appendice III, allegato C6, al fine di consentire al titolare del regime di fornire la prova di una garanzia globale o di un esonero dalla garanzia nell’ambito dell’articolo 26, paragrafo 1, lettera b).
 
-<sup>2.</sup> La validità di un certificato di garanzia globale o di un certificato di esonero dalla garanzia è limitata a cinque anni. Tuttavia tale durata può essere prorogata dall’ufficio doganale di garanzia una sola volta per un periodo non superiore a cinque anni.[^annexI-lvlu1-titIII-chapII-79-1]
-
-<sup>3.</sup> Se durante il periodo di validità del certificato l’ufficio doganale di garanzia è informato che il certificato, a seguito di numerose modifiche, non è sufficientemente leggibile e può essere respinto dall’ufficio doganale di partenza, l’ufficio doganale di garanzia invalida il certificato e ne rilascia uno nuovo, se del caso.[^annexI-lvlu1-titIII-chapII-79-2]
-
-<sup>4.</sup> I certificati con una validità di due anni restano validi. La loro durata può essere prorogata dall’ufficio doganale di garanzia per un ulteriore periodo non superiore a cinque anni.[^annexI-lvlu1-titIII-chapII-79-3]
-
-[^annexI-lvlu1-titIII-chapII-79-1]: Applicabile dal 30 giu. 2020 ([RU 2022 590](https://fedlex.data.admin.ch/eli/oc/2022/590)).
-[^annexI-lvlu1-titIII-chapII-79-2]: Applicabile dal 30 giu. 2020 ([RU 2022 590](https://fedlex.data.admin.ch/eli/oc/2022/590)).
-[^annexI-lvlu1-titIII-chapII-79-3]: Applicabile dal 30 giu. 2020 ([RU 2022 590](https://fedlex.data.admin.ch/eli/oc/2022/590)).
+<sup>2.</sup> La validità di un certificato è limitata a due anni. Tuttavia tale durata può essere prorogata dall’ufficio doganale di garanzia una sola volta per un periodo non superiore a due anni.
 
 #### Art. 80
 
@@ -2372,7 +2360,7 @@ Allegato II dell’appendice I
   - – un DAU stampato su carta normale dal sistema informatico dell’operatore economico, come previsto nell’appendice III, allegato B6, o
   - a decorrere dalla data di introduzione dell’aggiornamento del NCTS di cui all’allegato della decisione di esecuzione (UE) 2016/578, un DAU stampato su carta normale dal sistema informatico dell’operatore economico, come previsto nell’appendice III, allegato B6 *bis*; o
   - – un documento di accompagnamento transito (DAT), integrato, se necessario, dall’elenco degli articoli (EdA),
-  - a decorrere dalla data di introduzione dell’aggiornamento del NCTS di cui all’allegato della decisione di esecuzione (UE) 2016/578, un documento di accompagnamento transito (DAT) integrato dall’elenco degli articoli (EdA);
+  - a decorrere dalla data di introduzione dell’aggiornamento del NCTS di cui all’allegato della decisione di esecuzione (UE) 2016/578, un documento di accompagnamento transito (DAT) integrato dall’elenco degli articoli (EdA).
 
 - 2\.2. La dichiarazione di transito può essere completata con uno o più formulari complementari, utilizzando il formulario di cui all’allegato I, appendice 3, della Convenzione relativa alla semplificazione delle formalità negli scambi di merci, firmata a Interlaken il 20 maggio 1987 («Convenzione DAU»). I formulari costituiscono parte integrante della dichiarazione. Distinte di carico conformi all’appendice III, allegato B5, e fornite utilizzando il modello di cui all’appendice III, allegato B4, possono essere utilizzate come parte descrittiva di una dichiarazione di transito scritta, di cui formano parte integrante, al posto dei formulari complementari.
 - A decorrere dalla data di introduzione dell’aggiornamento del NCTS di cui all’allegato della decisione di esecuzione (UE) 2016/578, distinte di carico conformi all’appendice III, allegato B5 *bis*, e redatte utilizzando il modello che figura nell’appendice III, allegato B4 *bis*, possono essere utilizzate come parte descrittiva di una dichiarazione di transito scritta, di cui formano parte integrante, al posto dei formulari complementari.
@@ -2482,9 +2470,7 @@ Allegato II dell’appendice I
   - – certificato di garanzia isolata, conforme al formulario di cui all’appendice III, allegato C3.
 
 - 19\.2 La dichiarazione di transito deve fare riferimento ai certificati.
-- 19\.3.[^annexII-lvlu1-chapIII-1] La validità di un certificato di garanzia globale o di un certificato di esonero dalla garanzia è limitata a cinque anni. Tuttavia tale durata può essere prorogata dall’ufficio doganale di garanzia una sola volta per un periodo non superiore a cinque anni.
-- Se durante il periodo di validità del certificato l’ufficio doganale di garanzia è informato che il certificato, a seguito di numerose modifiche, non è sufficientemente leggibile e può essere respinto dall’ufficio doganale di partenza, l’ufficio doganale di garanzia invalida il certificato e ne rilascia uno nuovo, se del caso.
-- I certificati con una validità di due anni restano validi. La loro durata può essere prorogata dall’ufficio doganale di garanzia per un ulteriore periodo non superiore a cinque anni.
+- 19\.3 La validità di un certificato di garanzia globale o di un certificato di esonero dalla garanzia è limitata a due anni. Tuttavia tale durata può essere prorogata dall’ufficio doganale di garanzia una sola volta per un periodo non superiore a due anni.
 - 19\.4 A decorrere dalla data in cui prendono effetto la revoca di un’autorizzazione a utilizzare una garanzia globale o la revoca e l’annullamento di un impegno assunto relativamente a una garanzia globale, i certificati emessi non possono più essere utilizzati per il vincolo di merci al regime di transito comune e sono restituiti senza indugio dal titolare del regime all’ufficio doganale di garanzia.
 - 19\.5 Ciascun paese trasmette alla Commissione informazioni sugli elementi identificativi dei certificati in corso di validità che non sono stati restituiti o che sono stati dichiarati rubati, perduti o falsificati. La Commissione ne dà di conseguenza notizia agli altri paesi.
 - 20\. Distinte di carico speciali
@@ -2537,8 +2523,6 @@ Allegato II dell’appendice I
 - 26\. Destinatario autorizzato – Obblighi
 - 26\.1. Quando le merci arrivano in un luogo precisato nell’autorizzazione, il destinatario autorizzato informa senza indugio l’ufficio doganale di destinazione in merito a tale arrivo. Egli segnala la data di arrivo, lo stato dei sigilli eventualmente apposti nonché qualsiasi irregolarità negli esemplari n. 4 e n. 5 del DAU o nell’esemplare del DAT che hanno accompagnato le merci e li consegna all’ufficio doganale di destinazione conformemente alle norme previste nell’autorizzazione.
 - 26\.2. L’ufficio doganale di destinazione appone sugli esemplari n. 4 e n. 5 del DAU o sull’esemplare del DAT le annotazioni previste al punto 13 del presente allegato.
-
-[^annexII-lvlu1-chapIII-1]: Applicabile dal 30 giu. 2020 ([RU 2022 590](https://fedlex.data.admin.ch/eli/oc/2022/590)).
 
 Appendice II[^t-4]
 
@@ -2856,7 +2840,7 @@ Le autorità competenti dei Paesi si prestano assistenza reciproca per il contro
 
 ### Titolo I*bis*: Dispositions concernant la non-modification du statut douanier de marchandises de l’union pour les marchandises transportées via un corridor T2
 
-#### Art. 21bis
+#### Art. 21<sup>bis</sup>
 
 **Presunzione della posizione doganale di merci unionali**
 
@@ -2885,7 +2869,7 @@ Appendice III[^t-5]
 
 ## Dichiarazione di transito e formulari in caso di utilizzo di procedimenti informatici
 
-[^t-5]: Nuovo testo giusta l’art. 1 n. 6 e 7 della Dec. n. 1/2008 del Comitato congiunto CE-AELS del 16 giu. 2008 ([RU 2009 1325](https://fedlex.data.admin.ch/eli/oc/2009/212)). Aggiornata dagli art. 1 delle Dec. n. 3/2012 del Comitato congiunto del 26 giu. 2012 ([RU 2013 81](https://fedlex.data.admin.ch/eli/oc/2013/15)), n. 4/2012 del Comitato congiunto UE-AELS del 26 giu.2012 ([RU 2013 827](https://fedlex.data.admin.ch/eli/oc/2013/173)), n. 1/2013 del Comitato congiunto UE-AELS del 1° lug. 2013 ([RU 2014 293](https://fedlex.data.admin.ch/eli/oc/2014/48)), n. 2/2013 del Comitato misto UE-AELS del 7 nov. 2013 ([RU 2014 3495](https://fedlex.data.admin.ch/eli/oc/2014/609)), n. 2/2015 del Comitato congiunto UE-AELS del 17 giu. 2015 ([RU 2015 5967](https://fedlex.data.admin.ch/eli/oc/2015/924)), n. 4/2015 del Comitato congiunto UE-AELS del 26 nov. 2015 ([RU 2016 535](https://fedlex.data.admin.ch/eli/oc/2016/101)), dall’art. 1 n. 4 a 6 della Dec. n. 1/2016 del Comitato congiunto UE-AELS del 28 apr. 2016 ([RU 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)), dall’art. 1 n. 4 e 5 della Dec. n. 1/2017 del Comitato congiunto EU-EFTA del 5 dic. 2017 ([RU 2018 303](https://fedlex.data.admin.ch/eli/oc/2018/53)), dall’art. 1 n. 3 della Dec. n. 1/2019 Comitato congiunto UE-PTC del 4 dic. 2019 ([RU 2020 3687](https://fedlex.data.admin.ch/eli/oc/2020/670)), dall’art. 1 della Dec. n. 2/2018 del Comitato congiunto EU-EFTA del 4 dic. 2018 ([RU 2021 118](https://fedlex.data.admin.ch/eli/oc/2021/118)) e dall’art. 1 n. 2 della Dec. n. 1/2021 del Comitato congiunto UE-PTC del 1° giu. 2021, in vigore per la Svizzera dal 1° giu. 2021 ([RU 2022 590](https://fedlex.data.admin.ch/eli/oc/2022/590)
+[^t-5]: Nuovo testo giusta l’art. 1 n. 6 e 7 della Dec. n. 1/2008 del Comitato congiunto CE-AELS del 16 giu. 2008 ([RU 2009 1325](https://fedlex.data.admin.ch/eli/oc/2009/212)). Aggiornata dagli art. 1 delle Dec. n. 3/2012 del Comitato congiunto del 26 giu. 2012 ([RU 2013 81](https://fedlex.data.admin.ch/eli/oc/2013/15)), n. 4/2012 del Comitato congiunto UE-AELS del 26 giu.2012 ([RU 2013 827](https://fedlex.data.admin.ch/eli/oc/2013/173)), n. 1/2013 del Comitato congiunto UE-AELS del 1° lug. 2013 ([RU 2014 293](https://fedlex.data.admin.ch/eli/oc/2014/48)), n. 2/2013 del Comitato misto UE-AELS del 7 nov. 2013 ([RU 2014 3495](https://fedlex.data.admin.ch/eli/oc/2014/609)), n. 2/2015 del Comitato congiunto UE-AELS del 17 giu. 2015 ([RU 2015 5967](https://fedlex.data.admin.ch/eli/oc/2015/924)), n. 4/2015 del Comitato congiunto UE-AELS del 26 nov. 2015 ([RU 2016 535](https://fedlex.data.admin.ch/eli/oc/2016/101)), dall’art. 1 n. 4 a 6 della Dec. n. 1/2016 del Comitato congiunto UE-AELS del 28 apr. 2016 ([RU 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)), dall’art. 1 n. 4 e 5 della Dec. n. 1/2017 del Comitato congiunto EU-EFTA del 5 dic. 2017 ([RU 2018 303](https://fedlex.data.admin.ch/eli/oc/2018/53)), dall’art. 1 n. 3 della Dec. n. 1/2019 Comitato congiunto UE-PTC del 4 dic. 2019 ([RU 2020 3687](https://fedlex.data.admin.ch/eli/oc/2020/670)) e dall’art. 1 della dec. n. 2/2018 del Comitato congiunto EU-EFTA del 4 dic. 2018, in vigore dal 1° gen. 2021 ([RU 2021 118](https://fedlex.data.admin.ch/eli/oc/2021/118)). Giusta l’art. 2 di detta dec. i formulari relativi alla garanzia di cui agli allegati da C1 a C6, nella versione applicabile il giorno prima dell’entrata in vigore della presente decisione, possono continuare a essere utilizzati, con i necessari adattamenti geografici, per un anno a decorrere dall’entrata in vigore della presente decisione.
 
 #### Art. 1
 
@@ -4065,8 +4049,8 @@ Il numero di riferimento (GRN), assegnato dall’ufficio doganale di garanzia pe
 
 <table>
 <tr><th>Campo</th><th>Contenuto</th><th>Tipo di campo</th><th>Esempio</th></tr>
-<tr><td>1</td><td>Ultime due cifre dell’anno di accettazione della garanzia (AA)</td><td>Numerico 2</td><td>97</td></tr>
-<tr><td>2</td><td>Identificatore del Paese in cui la garanzia è presentata (codice paese di cui all’allegato A2)</td><td>Alfabetico 2</td><td>IT</td></tr>
+<tr><td>1</td><td>Ultime due cifre dell’anno diaccettazione della garanzia (AA)</td><td>Numerico 2</td><td>97</td></tr>
+<tr><td>2</td><td>Identificatore del Paese in cui la garanzia è presentata (codice Paese ISO alfa 2)</td><td>Alfabetico 2</td><td>IT</td></tr>
 <tr><td>3</td><td>Identificatore unico, per anno e per Paese, dell’accettazione attribuito dall’ufficio doganale di garanzia</td><td>Alfanumerico 12</td><td>1234AB788966</td></tr>
 <tr><td>4</td><td>Numero di controllo</td><td>Alfanumerico 1</td><td>8</td></tr>
 <tr><td>5</td><td>Identificatore del certificato di garanzia isolata (1 lettera + 6 cifre) o NUL per gli altri tipi di garanzia</td><td>Alfanumerico 7</td><td>A001017</td></tr>
@@ -4130,10 +4114,6 @@ Il presente allegato sarà soppresso a decorrere dalla data di introduzione dell
 </table>
 
 Si applica il «codice Paese ISO alfa-2» quale specificato nella norma ISO 3166-1 del 1997 e successivi aggiornamenti.
-
-XI è utilizzato per l’Irlanda del Nord. Il codice XI è facoltativo per le parti contraenti per i dati Paese (casella 8 e casella ex 8) e Paese di destinazione (casella 17 bis e casella ex 17 bis)[^annexu1-lvlu1-lvl1-1]
-
-[^annexu1-lvlu1-lvl1-1]: Applicabile dal giorno in cui il Regno Unito aderisce alla Conv. come Parte contraente separata ([RU 2022 590](https://fedlex.data.admin.ch/eli/oc/2022/590)).
 
 ### 2. Codice lingua
 
@@ -4706,7 +4686,7 @@ Allegato A3 dell’appendice III
 
 ## Modello di documento d’accompagnamento transito
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210810/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20220825/it/xml/image/image1.png)
 
 Allegato A4 dell’appendice III
 
@@ -4723,7 +4703,7 @@ L’informazione è presentata sotto forma alfanumerica a 18 caratteri secondo i
 <table>
 <tr><td>Campo</td><td>Contenuto</td><td>Tipo di campo</td><td>Esempio</td></tr>
 <tr><td>1</td><td>Ultime due cifre dell’anno di accettazione formale del movimento di transito (AA)</td><td>Numerico 2</td><td>97</td></tr>
-<tr><td>2</td><td>Identificatore del Paese di partenza del movimento (codice paese di cui all’allegato A2)</td><td>Alfabetico 2</td><td>IT</td></tr>
+<tr><td>2</td><td>Identificatore del Paese di partenza del movimento (codice Paese ISO alfa 2)</td><td>Alfabetico 2</td><td>IT</td></tr>
 <tr><td>3</td><td>Identificatore unico del movimento di transito per anno e per Paese</td><td>Alfanumerico 13</td><td>9876AB8890123</td></tr>
 <tr><td>4</td><td>Carattere di controllo</td><td>Alfanumerico 1</td><td>5</td></tr>
 </table>
@@ -4902,7 +4882,7 @@ FI Finlandia
 
 FR Francia
 
-GB Regno Unito (esclusa l’Irlanda del Nord)[^annexu1-lvlu1-lvlA-1]
+GB Regno Unito
 
 GR Grecia
 
@@ -4946,14 +4926,9 @@ SK Slovacchia
 
 TR Turchia
 
-XI Irlanda del Nord[^annexu1-lvlu1-lvlA-2]
-
 Casella 53: Ufficio di destinazione (e Paese)
 
 Si utilizzano i codici previsti per la casella 51.
-
-[^annexu1-lvlu1-lvlA-1]: Applicabile dal giorno in cui il Regno Unito aderisce alla Conv. come Parte contraente separata ([RU 2022 590](https://fedlex.data.admin.ch/eli/oc/2022/590)).
-[^annexu1-lvlu1-lvlA-2]: Applicabile dal giorno in cui il Regno Unito aderisce alla Conv. come Parte contraente separata ([RU 2022 590](https://fedlex.data.admin.ch/eli/oc/2022/590)).
 
 ### B – Codici delle versioni linguistiche delle diciture
 
@@ -5813,7 +5788,7 @@ Allegato B9 dell’appendice III
 
 ## Modello di timbro speciale utilizzato da uno speditore autorizzato
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210810/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20220825/it/xml/image/image2.png)
 
 - 1\. Stemma o altri simboli o lettere che caratterizzano il Paese
 - 2\. Numero di riferimento dell’ufficio doganale di partenza
@@ -5827,7 +5802,7 @@ Allegato B10 dell’appendice III
 ## TC 11 – RICEVUTA
 
 <table>
-<tr><td>TC 11 – RICEVUTA L’ufficio doganale di destinazione di ……………… (luogo, nome e numero di riferimento) certifica che la dichiarazione di transito T1, T2, T2F<sup>(1)</sup> registrata il …………………… (gg/mm/aa) con il n. ………………… (MRN<sup>(2)</sup>) dall’ufficio doganale di partenza di ………………………… (luogo, nome e numero di riferimento) gli è stata consegnata. ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210810/it/xml/image/image3.png) Fatto a ……………, il …………… (gg/mm/aa) …………………………………………………… (firma) <sup>(1)</sup> Cancellare le diciture che non interessano. <sup>(2)</sup> In caso di malfunzionamento temporaneo del sistema di transito elettronico introdurre un numero utilizzato nel BCP.</td></tr>
+<tr><td>TC 11 – RICEVUTA L’ufficio doganale di destinazione di ……………… (luogo, nome e numero di riferimento) certifica che la dichiarazione di transito T1, T2, T2F<sup>(1)</sup> registrata il …………………… (gg/mm/aa) con il n. ………………… (MRN<sup>(2)</sup>) dall’ufficio doganale di partenza di ………………………… (luogo, nome e numero di riferimento) gli è stata consegnata. ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20220825/it/xml/image/image3.png) Fatto a ……………, il …………… (gg/mm/aa) …………………………………………………… (firma) <sup>(1)</sup> Cancellare le diciture che non interessano. <sup>(2)</sup> In caso di malfunzionamento temporaneo del sistema di transito elettronico introdurre un numero utilizzato nel BCP.</td></tr>
 </table>
 
 Allegato B11 dell’appendice III
@@ -5836,7 +5811,7 @@ Allegato B11 dell’appendice III
 
 (transito per ferrovia)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210810/it/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20220825/it/xml/image/image4.png)
 
 Allegato C1 dell’appendice III
 
@@ -5852,7 +5827,7 @@ si costituisce fideiussore in solido, presso l’ufficio di garanzia di
 
 a concorrenza di un importo massimo di
 
-nei confronti dell’Unione europea (costituita dal Regno del Belgio, dalla Repubblica di Bulgaria, dalla Repubblica ceca, dal Regno di Danimarca, dalla Repubblica federale di Germania, dalla Repubblica di Estonia, dalla Repubblica ellenica, dalla Repubblica di Croazia, dal Regno di Spagna, dalla Repubblica francese, dall’Irlanda, dalla Repubblica italiana, dalla Repubblica di Cipro, dalla Repubblica di Lettonia, dalla Repubblica di Lituania, dal Granducato di Lussemburgo, dall’Ungheria, dalla Repubblica di Malta, dal Regno dei Paesi Bassi, dalla Repubblica d’Austria, dalla Repubblica di Polonia, dalla Repubblica portoghese, dalla Romania, dalla Repubblica di Slovenia, dalla Repubblica slovacca, dalla Repubblica di Finlandia, dal Regno di Svezia) nonché nei confronti della Repubblica d’Islanda, della Repubblica di Macedonia del Nord, del Regno di Norvegia, della Repubblica di Serbia, della Confederazione Svizzera, della Repubblica di Turchia, del Regno Unito di Gran Bretagna e Irlanda del Nord (3), del Principato di Andorra e della Repubblica di San Marino (4), per tutte le somme di cui il soggetto che costituisce la presente garanzia (5)
+nei confronti dell’Unione europea (costituita dal Regno del Belgio, dalla Repubblica di Bulgaria, dalla Repubblica ceca, dal Regno di Danimarca, dalla Repubblica federale di Germania, dalla Repubblica di Estonia, dalla Repubblica ellenica, dalla Repubblica di Croazia, dal Regno di Spagna, dalla Repubblica francese, dall’Irlanda, dalla Repubblica italiana, dalla Repubblica di Cipro, dalla Repubblica di Lettonia, dalla Repubblica di Lituania, dal Granducato di Lussemburgo, dall’Ungheria, dalla Repubblica di Malta, dal Regno dei Paesi Bassi, dalla Repubblica d’Austria, dalla Repubblica di Polonia, dalla Repubblica portoghese, dalla Romania, dalla Repubblica di Slovenia, dalla Repubblica slovacca, dalla Repubblica di Finlandia, dal Regno di Svezia) nonché nei confronti della Repubblica d’Islanda, dell’ex Repubblica iugoslava di Macedonia, del Regno di Norvegia, della Repubblica di Serbia, della Confederazione Svizzera, della Repubblica di Turchia, del Regno Unito di Gran Bretagna e Irlanda del Nord (3), del Principato di Andorra e della Repubblica di San Marino (4), per tutte le somme di cui il soggetto che costituisce la presente garanzia (5)
 
 è o diventi debitore nei confronti di detti paesi a titolo di dazi e altri diritti e tributi dovuti (6), con riguardo alle merci descritte di seguito oggetto della seguente operazione doganale (7):
 
@@ -5890,7 +5865,6 @@ Impegno del fideiussore accettato il a copertura dell’operazione doganale che 
 
 - (1) Cognome e nome o ragione sociale.
 - (2) Indirizzo completo.
-- (2*a*) Ai sensi del Protocollo su Irlanda/Irlanda del Nord dell’accordo sul recesso del Regno Unito di Gran Bretagna e Irlanda del Nord dall’Unione europea e dalla Comunità europea dell’energia atomica, l’Irlanda del Nord deve essere considerata parte dell’Unione europea ai fini della presente garanzia. Pertanto, un garante stabilito nel territorio doganale dell’Unione europea elegge un domicilio o designa un mandatario in Irlanda del Nord se la garanzia può essere ivi utilizzata. Tuttavia, qualora una garanzia nell’ambito del transito comune sia valida nell’Unione europea e nel Regno Unito, un singolo domicilio o un mandatario nominato nel Regno Unito può coprire tutte le parti del Regno Unito, inclusa l’Irlanda del Nord.
 - (3) Cancellare il nome dello Stato (i nomi degli Stati) sul cui territorio la garanzia non può essere utilizzata.
 - (4) I riferimenti al Principato di Andorra e alla Repubblica di San Marino riguardano soltanto le operazioni di transito unionale.
 - (5) Cognome e nome, o ragione sociale, e indirizzo completo della persona che presta la garanzia.
@@ -5928,7 +5902,7 @@ residente a (2)
 
 si costituisce fideiussore in solido, presso l’ufficio di garanzia di
 
-nei confronti dell’Unione europea (costituita dal Regno del Belgio, dalla Repubblica di Bulgaria, dalla Repubblica ceca, dal Regno di Danimarca, dalla Repubblica federale di Germania, dalla Repubblica di Estonia, dalla Repubblica ellenica, dalla Repubblica di Croazia, dal Regno di Spagna, dalla Repubblica francese, dall’Irlanda, dalla Repubblica italiana, dalla Repubblica di Cipro, dalla Repubblica di Lettonia, dalla Repubblica di Lituania, dal Granducato di Lussemburgo, dall’Ungheria, dalla Repubblica di Malta, dal Regno dei Paesi Bassi, dalla Repubblica d’Austria, dalla Repubblica di Polonia, dalla Repubblica portoghese, dalla Romania, dalla Repubblica di Slovenia, dalla Repubblica slovacca, dalla Repubblica di Finlandia, dal Regno di Svezia), nonché nei confronti della Repubblica d’Islanda, della Repubblica di Macedonia del Nord, del Regno di Norvegia, della Repubblica di Serbia, della Confederazione Svizzera, della Repubblica di Turchia, del Regno Unito di Gran Bretagna e Irlanda del Nord, del Principato di Andorra e della Repubblica di San Marino (3) per tutte le somme di cui un titolare del regime è o diventi debitore nei confronti di detti paesi a titolo di dazi e altri diritti e tributi dovuti in relazione all’importazione o all’esportazione delle merci vincolate al regime di transito comune/unionale, per i quali il(la) sottoscritto(a) ha accettato di impegnare la propria responsabilità mediante il rilascio di certificati di garanzia isolata a concorrenza di un importo massimo di 10 000 EUR per certificato.
+nei confronti dell’Unione europea (costituita dal Regno del Belgio, dalla Repubblica di Bulgaria, dalla Repubblica ceca, dal Regno di Danimarca, dalla Repubblica federale di Germania, dalla Repubblica di Estonia, dalla Repubblica ellenica, dalla Repubblica di Croazia, dal Regno di Spagna, dalla Repubblica francese, dall’Irlanda, dalla Repubblica italiana, dalla Repubblica di Cipro, dalla Repubblica di Lettonia, dalla Repubblica di Lituania, dal Granducato di Lussemburgo, dall’Ungheria, dalla Repubblica di Malta, dal Regno dei Paesi Bassi, dalla Repubblica d’Austria, dalla Repubblica di Polonia, dalla Repubblica portoghese, dalla Romania, dalla Repubblica di Slovenia, dalla Repubblica slovacca, dalla Repubblica di Finlandia, dal Regno di Svezia), nonché nei confronti della Repubblica d’Islanda, dell’ex Repubblica iugoslava di Macedonia, del Regno di Norvegia, della Repubblica di Serbia, della Confederazione Svizzera, della Repubblica di Turchia, del Regno Unito di Gran Bretagna e Irlanda del Nord, del Principato di Andorra e della Repubblica di San Marino (3) per tutte le somme di cui un titolare del regime è o diventi debitore nei confronti di detti paesi a titolo di dazi e altri diritti e tributi dovuti in relazione all’importazione o all’esportazione delle merci vincolate al regime di transito comune/unionale, per i quali il(la) sottoscritto(a) ha accettato di impegnare la propria responsabilità mediante il rilascio di certificati di garanzia isolata a concorrenza di un importo massimo di 10 000 EUR per certificato.
 
 \2. Il(la) sottoscritto(a) si impegna ad effettuare, alla prima richiesta scritta delle autorità competenti dei paesi di cui al punto 1, il pagamento delle somme richieste, fino a concorrenza di 10 000 EUR per certificato di garanzia isolata e senza poterlo differire oltre il termine di trenta giorni dalla data della richiesta, a meno che il(la) sottoscritto(a) o ogni altra persona interessata non provi, prima della scadenza di tale termine, con soddisfazione delle autorità competenti, che l’operazione è stata appurata.
 
@@ -5962,7 +5936,6 @@ Impegno del fideiussore accettato il
 
 - (1) Cognome e nome o ragione sociale.
 - (2) Indirizzo completo.
-- (2*a*) Ai sensi del Protocollo su Irlanda/Irlanda del Nord dell’accordo sul recesso del Regno Unito di Gran Bretagna e Irlanda del Nord dall’Unione europea e dalla Comunità europea dell’energia atomica, l’Irlanda del Nord deve essere considerata parte dell’Unione europea ai fini della presente garanzia. Pertanto, un garante stabilito nel territorio doganale dell’Unione europea elegge un domicilio o designa un mandatario in Irlanda del Nord se la garanzia può essere ivi utilizzata. Tuttavia, qualora una garanzia nell’ambito del transito comune sia valida nell’Unione europea e nel Regno Unito, un singolo domicilio o un mandatario nominato nel Regno Unito può coprire tutte le parti del Regno Unito, inclusa l’Irlanda del Nord.
 - (3) I riferimenti al Principato di Andorra e alla Repubblica di San Marino riguardano soltanto le operazioni di transito unionale.
 - (4) Ove la possibilità di eleggere domicilio non sia prevista dalla legislazione di uno di tali paesi, il fideiussore designa, in questo paese, un mandatario autorizzato a ricevere ogni comunicazione a lui(lei) destinata e gli impegni previsti al punto 4, secondo e quarto paragrafo, devono essere stipulati mutatis mutandis. I giudici del luogo di domicilio del fideiussore e dei mandatari sono competenti a conoscere delle vertenze inerenti alla presente garanzia.
 - (5) Il firmatario deve far precedere la propria firma dalla seguente menzione manoscritta: «Buono a titolo di garanzia».
@@ -5973,11 +5946,11 @@ Allegato C3 dell’appendice III
 
 *(recto)*
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210810/it/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20220825/it/xml/image/image5.png)
 
 *(verso)*
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210810/it/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20220825/it/xml/image/image6.png)
 
 Requisiti tecnici applicabili ai certificati
 
@@ -6001,7 +5974,7 @@ si costituisce fideiussore in solido, presso l’ufficio di garanzia di
 
 a concorrenza di un importo massimo di
 
-nei confronti dell’Unione europea (costituita dal Regno del Belgio, dalla Repubblica di Bulgaria, dalla Repubblica ceca, dal Regno di Danimarca, dalla Repubblica federale di Germania, dalla Repubblica di Estonia, dall’Irlanda, dalla Repubblica ellenica, dalla Repubblica di Croazia, dal Regno di Spagna, dalla Repubblica francese, dalla Repubblica italiana, dalla Repubblica di Cipro, dalla Repubblica di Lettonia, dalla Repubblica di Lituania, dal Granducato di Lussemburgo, dall’Ungheria, dalla Repubblica di Malta, dal Regno dei Paesi Bassi, dalla Repubblica d’Austria, dalla Repubblica di Polonia, dalla Repubblica portoghese, dalla Romania, dalla Repubblica di Slovenia, dalla Repubblica slovacca, dalla Repubblica di Finlandia, dal Regno di Svezia), nonché nei confronti della Repubblica d’Islanda, della Repubblica di Macedonia del Nord, del Regno di Norvegia, della Repubblica di Serbia, della Confederazione Svizzera, della Repubblica di Turchia, del Regno Unito di Gran Bretagna e Irlanda del Nord (3), del Principato di Andorra e della Repubblica di San Marino (4), per tutte le somme di cui il soggetto che costituisce la presente garanzia (5)
+nei confronti dell’Unione europea (costituita dal Regno del Belgio, dalla Repubblica di Bulgaria, dalla Repubblica ceca, dal Regno di Danimarca, dalla Repubblica federale di Germania, dalla Repubblica di Estonia, dall’Irlanda, dalla Repubblica ellenica, dalla Repubblica di Croazia, dal Regno di Spagna, dalla Repubblica francese, dalla Repubblica italiana, dalla Repubblica di Cipro, dalla Repubblica di Lettonia, dalla Repubblica di Lituania, dal Granducato di Lussemburgo, dall’Ungheria, dalla Repubblica di Malta, dal Regno dei Paesi Bassi, dalla Repubblica d’Austria, dalla Repubblica di Polonia, dalla Repubblica portoghese, dalla Romania, dalla Repubblica di Slovenia, dalla Repubblica slovacca, dalla Repubblica di Finlandia, dal Regno di Svezia), nonché nei confronti della Repubblica d’Islanda, dell’ex Repubblica iugoslava di Macedonia, del Regno di Norvegia, della Repubblica di Serbia, della Confederazione Svizzera, della Repubblica di Turchia, del Regno Unito di Gran Bretagna e Irlanda del Nord (3), del Principato di Andorra e della Repubblica di San Marino (4), per tutte le somme di cui il soggetto che costituisce la presente garanzia (5)
 
 è o diventi debitore nei confronti di detti paesi a titolo di dazi e altri diritti e tributi dovuti (6) che potrebbero sorgere o sono sorti con riguardo alle merci oggetto delle operazioni doganali descritte al punto 1bis e/o al punto 1ter.
 
@@ -6065,7 +6038,6 @@ Impegno del fideiussore accettato il
 
 - (1) Cognome e nome o ragione sociale.
 - (2) Indirizzo completo.
-- (2*a*) Ai sensi del Protocollo su Irlanda/Irlanda del Nord dell’accordo sul recesso del Regno Unito di Gran Bretagna e Irlanda del Nord dall’Unione europea e dalla Comunità europea dell’energia atomica, l’Irlanda del Nord deve essere considerata parte dell’Unione europea ai fini della presente garanzia. Pertanto, un garante stabilito nel territorio doganale dell’Unione europea elegge un domicilio o designa un mandatario in Irlanda del Nord se la garanzia può essere ivi utilizzata. Tuttavia, qualora una garanzia nell’ambito del transito comune sia valida nell’Unione europea e nel Regno Unito, un singolo domicilio o un mandatario nominato nel Regno Unito può coprire tutte le parti del Regno Unito, inclusa l’Irlanda del Nord.
 - (3) Cancellare il nome del paese (i nomi dei paesi) sul cui territorio la garanzia non può essere utilizzata.
 - (4) I riferimenti al Principato di Andorra e alla Repubblica di San Marino riguardano soltanto le operazioni di transito unionale.
 - (5) Cognome e nome, o ragione sociale, e indirizzo completo della persona che fornisce la garanzia.
@@ -6088,13 +6060,12 @@ Allegato C5 dell’appendice III
 <tr><td>4. Garante (cognome e nome o ragione sociale, indirizzo completo e Paese)</td><td colspan="5"></td></tr>
 <tr><td>5. Ufficio doganale di garanzia (numero di riferimento)</td><td colspan="5"></td></tr>
 <tr><td>6. Importo di riferimento Codice valuta</td><td colspan="3">In cifre:</td><td colspan="2">In lettere:</td></tr>
-<tr><td colspan="6">7. L’ufficio doganale di garanzia certifica che il titolare del regime sopra designato ha costituito una garanzia globale valida per le operazioni di transito unionale/comune che comportano l’attraversamento dei territori doganali in appresso elencati il cui nome non è barrato: UNIONE EUROPEA, ISLANDA – MACEDONIA DEL NORD – NORVEGIA – SERBIA – SVIZZERA – TURCHIA – REGNO UNITO<sup>(</sup>\*\*<sup>)</sup> – ANDORRA<sup>(</sup>\*<sup>)</sup> – SAN MARINO<sup>(</sup>\*<sup>)</sup></td></tr>
+<tr><td colspan="6">7. L’ufficio doganale di garanzia certifica che il titolare del regime sopra designato ha costituito una garanzia globale valida per le operazioni di transito unionale/comune che comportano l’attraversamento dei territori doganali in appresso elencati il cui nome non è barrato: UNIONE EUROPEA, ISLANDA – MACEDONIA DEL NORD – NORVEGIA – SERBIA – SVIZZERA – TURCHIA – REGNO UNITO – ANDORRA<sup>(</sup>\*<sup>)</sup> – SAN MARINO<sup>(</sup>\*<sup>)</sup></td></tr>
 <tr><td colspan="6">8. Menzioni particolari</td></tr>
 <tr><td colspan="2">9. Termine di validità prorogato fino al gg/mm/aa compreso Fatto a , il (luogo) (data) (firma del funzionario e timbro dell’ufficio doganale di garanzia)</td><td colspan="4">Fatto a , il (luogo) (data) (firma del funzionario e timbro dell’ufficio doganale di garanzia)</td></tr>
 </table>
 
-- <sup>(</sup>\*<sup>)</sup> Solo per le operazioni di transito unionale.
-- <sup>(</sup>\*\*<sup>)</sup> Ai sensi del Protocollo su Irlanda/Irlanda del Nord dell’accordo sul recesso del Regno Unito di Gran Bretagna e Irlanda del Nord dall’Unione europea e dalla Comunità europea dell’energia atomica, l’Irlanda del Nord deve essere considerata parte dell’Unione europea ai fini della presente garanzia.
+- <sup>(</sup>\*<sup>)</sup> Solo per le operazioni di transito unionale
 
 *Verso*
 
@@ -6117,13 +6088,12 @@ Allegato C6 dell’appendice III
 <tr><td>3. Titolare del regime (cognome e nome o ragione sociale, indirizzo completo e Paese)</td><td colspan="5"></td></tr>
 <tr><td>4. Ufficio doganale di garanzia (numero di riferimento)</td><td colspan="5"></td></tr>
 <tr><td>5. Importo di riferimento Codice valuta</td><td colspan="3">In cifre:</td><td colspan="2">In lettere:</td></tr>
-<tr><td colspan="6">6. L’ufficio doganale di garanzia certifica che al titolare del regime sopra designato è stato concesso un esonero dalla garanzia valido per le operazioni di transito unionale/comune che comportano l’attraversamento dei territori doganali in appresso elencati il cui nome non è barrato: UNIONE EUROPEA, ISLANDA –MACEDONIA DEL NORD – NORVEGIA – SERBIA – SVIZZERA – TURCHIA – REGNO UNITO (\*\*) – ANDORRA<sup>(</sup>\*<sup>)</sup> – SAN MARINO<sup>(</sup>\*<sup>)</sup></td></tr>
+<tr><td colspan="6">6. L’ufficio doganale di garanzia certifica che al titolare del regime sopra designato è stato concesso un esonero dalla garanzia valido per le operazioni di transito unionale/comune che comportano l’attraversamento dei territori doganali in appresso elencati il cui nome non è barrato: UNIONE EUROPEA, ISLANDA –MACEDONIA DEL NORD – NORVEGIA – SERBIA – SVIZZERA – TURCHIA – REGNO UNITO – ANDORRA<sup>(</sup>\*<sup>)</sup> – SAN MARINO<sup>(</sup>\*<sup>)</sup></td></tr>
 <tr><td colspan="6">7. Menzioni particolari</td></tr>
 <tr><td colspan="2">8. Termine di validità prorogato fino al gg/mm/aa compreso Fatto a , il (luogo) (data) (firma del funzionario e timbro dell’ufficio doganale di garanzia)</td><td colspan="4">Fatto a , il (luogo) (data) (firma del funzionario e timbro dell’ufficio doganale di garanzia)</td></tr>
 </table>
 
-- <sup>(</sup>\*<sup>)</sup> Solo per le operazioni di transito unionale.
-- <sup>(</sup>\*\*<sup>)</sup> Ai sensi del Protocollo su Irlanda/Irlanda del Nord dell’accordo sul recesso del Regno Unito di Gran Bretagna e Irlanda del Nord dall’Unione europea e dalla Comunità europea dell’energia atomica, l’Irlanda del Nord deve essere considerata parte dell’Unione europea ai fini della presente garanzia.
+- <sup>(</sup>\*<sup>)</sup> Solo per le operazioni di transito unionale
 
 *Verso*9. Persone abilitate a firmare le dichiarazioni di transito unionale/comune per il titolare del regime
 
@@ -6161,7 +6131,7 @@ Appendice III bis[^t-6]
 
 ## Dichiarazioni di transito, documenti di accompagnamento transito e altri documenti
 
-[^t-6]: Introdotta dall’art. 1 n. 4, 6 e 7 della Dec. n. 1/2017 del Comitato congiunto EU-EFTA del 5 dic. 2017 ([RU 2018 303](https://fedlex.data.admin.ch/eli/oc/2018/53)). Aggiornata dall’art. 1 n. 4 della Dec. n. 1/2019 Comitato congiunto UE-PTC del 4 dic. 2019, in vigore dal 4 dic. 2019 ([RU 2020 3687](https://fedlex.data.admin.ch/eli/oc/2020/670)).
+[^t-6]: Introdotta dall’art. 1 n. 4, 6 e 7 della Dec. n. 1/2017 del Comitato congiunto EU-EFTA del 5 dic. 2017 ([RU 2018 303](https://fedlex.data.admin.ch/eli/oc/2018/53)). Aggiornata dall’art. 1 n. 4 della Dec. n. 1/2019 Comitato congiunto UE-PTC del 4 dic. 2019 ([RU 2020 3687](https://fedlex.data.admin.ch/eli/oc/2020/670)) e dall’art. 1 n. 2 della Dec. n. 1 /2022 del Commitato congiunto UE–PTC del 25 ago. 2022, in vigore per la Svizzera dal 25 ago. 2022 ([RU 2023 60](https://fedlex.data.admin.ch/eli/oc/2023/60)).
 
 La presente appendice si applica a decorrere dalla data di introduzione dell’aggiornamento del NCTS di cui all’allegato della decisione di esecuzione (UE) 2016/578 della Commissione, dell’11 aprile 2016, che stabilisce il programma di lavoro relativo allo sviluppo e all’utilizzazione dei sistemi elettronici previsti dal codice doganale dell’Unione (GU L 99 del 15.4.2016, pag. 6).
 
@@ -6175,7 +6145,7 @@ La presente appendice riprende le disposizioni, i formulari e i modelli necessar
 
 **Dichiarazione di transito**
 
-La dichiarazione di transito di cui all’articolo 25 dell’appendice I contiene i dati specificati nell’allegato B6 *bis* ed è redatta in conformità ai formati e utilizzando i codici di cui all’allegato A1 *bis*.
+La dichiarazione di transito di cui all’articolo 25 dell’appendice I contiene i dati specificati nell’allegato A1 *bis* ed è redatta in conformità ai formati e utilizzando i codici di cui a tale allegato.
 
 #### Art. 3
 
@@ -6223,7 +6193,7 @@ I formulari sono compilati ed utilizzati:
 
 **Distinte di carico**
 
-<sup>1.</sup> I formulari su cui è redatta la distinta di carico sono redatti utilizzando il formulario di cui all’allegato B4. Essi sono compilati in conformità alla nota esplicativa di cui all’allegato B5.
+<sup>1.</sup> I formulari su cui è redatta la distinta di carico sono redatti utilizzando il formulario di cui all’allegato B4 dell’appendice III. Essi sono compilati in conformità alla nota esplicativa di cui all’allegato B5 dell’appendice III bis.
 
 <sup>2.</sup> I formulari sono stampati su carta collata per scritture del peso di almeno 40 gr/m<sup>2</sup> e di resistenza tale da non presentare, ad un uso normale, alcuna lacerazione o sgualcitura. La scelta del colore della carta è lasciata agli interessati.
 
@@ -6233,19 +6203,19 @@ I formulari sono compilati ed utilizzati:
 
 **Avviso di passaggio**
 
-I formulari su cui è redatto l’avviso di passaggio nell’ambito dell’applicazione dell’articolo 21 dell’appendice I sono redatti utilizzando il formulario di cui all’allegato B8 della presente appendice.
+I formulari su cui è redatto l’avviso di passaggio nell’ambito dell’applicazione dell’articolo 21 dell’appendice I sono redatti utilizzando il formulario di cui all’allegato B8 dell’appendice III.
 
 #### Art. 9
 
 **Ricevute**
 
-Le ricevute sono redatte utilizzando il formulario di cui all’allegato B10.
+Le ricevute sono redatte utilizzando il formulario di cui all’allegato B10 dell’appendice III.
 
 #### Art. 10
 
 **Garanzia isolata**
 
-<sup>1.</sup> I formulari su cui è redatto il certificato di garanzia isolata sono conformi al modello figurante nell’allegato C3.
+<sup>1.</sup> I formulari su cui è redatto il certificato di garanzia isolata sono conformi al modello figurante nell’allegato C3 dell’appendice III.
 
 <sup>2.</sup> I formulari sono stampati su carta non contenente pasta meccanica, collata per scritture, del peso di almeno 55 g/m<sup>2</sup>. Essi hanno un fondo arabescato di colore rosso che faccia apparire qualsiasi falsificazione operata con mezzi meccanici o chimici. La carta è di colore bianco.
 
@@ -6259,7 +6229,7 @@ Le ricevute sono redatte utilizzando il formulario di cui all’allegato B10.
 
 **Certificato di garanzia globale o di esonero dalla garanzia**
 
-<sup>1.</sup> I formulari su cui è redatto il certificato di garanzia globale o di esonero dalla garanzia, di seguito denominati «certificati», sono conformi ai modelli figuranti negli allegati C5 e C6. Essi sono compilati in conformità alla nota esplicativa di cui all’allegato C7.
+<sup>1.</sup> I formulari su cui è redatto il certificato di garanzia globale o di esonero dalla garanzia, di seguito denominati «certificati», sono conformi ai modelli figuranti negli allegati C5 e C6 dell’appendice III. Essi sono compilati in conformità alla nota esplicativa di cui all’allegato C7 di tale appendice.
 
 <sup>2.</sup>
 
@@ -6290,175 +6260,561 @@ I certificati sono stampati su carta di colore bianco, non contenente pasta mecc
 
 Allegato A1 bis dell’appendice III bis
 
-## Formati e codici dei requisiti comuni in materia di dati per le dichiarazioni di transito
+## Requisiti comuni in materia di dati per una dichiarazione di transito
 
-Il presente allegato si applica a decorrere dalla data di introduzione dell’aggiornamento del sistema NCTS di cui all’allegato della decisione di esecuzione (UE) 2016/578 della Commissione, dell’11 aprile 2016, che stabilisce il programma di lavoro relativo allo sviluppo e all’utilizzazione dei sistemi elettronici previsti dal codice doganale dell’Unione (GU L 99 del 15.4.2016, pag. 6), ad eccezione dei dati connessi a un documento di trasporto elettronico come dichiarazione di transito di cui all’articolo 55, paragrafo 1, lettera h), dell’appendice I, che si applicheranno al più tardi a decorrere dal 1° maggio 2018.
+Il presente allegato si applica a decorrere dalla data di introduzione dell’aggiornamento del sistema NCTS, di cui all’allegato della decisione di esecuzione (UE) 2016/578, ad eccezione delle disposizioni relative ai dati connessi a un documento di trasporto elettronico come dichiarazione di transito di cui all’articolo 55, paragrafo 1, lettera h), dell’appendice I, che si applicano al più tardi a decorrere dal 1° maggio 2018.
 
-### Titolo I: Generalità
+### Titolo I: Requisiti in materia di dati
 
-\1. I formati, i codici e, se del caso, la struttura dei dati contenuti nel presente allegato si applicano in relazione ai requisiti in materia di dati per le dichiarazioni di transito, di cui all’allegato B6 *bis*.
+### Capo I: Note introduttive alle tabelle dei requisiti in materia di dati
 
-\2. I formati, i codici e, se del caso, la struttura dei dati definiti nel presente allegato si applicano sia alle dichiarazioni di transito presentate utilizzando procedimenti informatici che alle dichiarazioni su supporto cartaceo.
+(1) I dati, i formati, i codici e, se del caso, la struttura dei dati definiti nel presente allegato si applicano sia alle dichiarazioni di transito presentate utilizzando procedimenti informatici che alle dichiarazioni su supporto cartaceo.
 
-\3. Il titolo II comprende i formati relativi ai dati.
+(2) I dati che possono essere forniti per ciascun regime di transito e i formati dei dati sono stabiliti nella tabella dei requisiti in materia di dati del titolo II. L’applicazione delle disposizioni specifiche relative a ciascun dato, come da descrizione di cui al titolo III, lascia impregiudicato lo stato dei dati quale definito nelle tabelle dei requisiti in materia di dati.
 
-\4. Quando le informazioni contenute in una dichiarazione di transito di cui all’allegato B6 *bis* della presente appendice assumono la forma di codici, si applica l’elenco dei codici di cui al titolo II.
+I dati sono elencati nell’ordine del numero del dato.
 
-\5. Il termine «tipo/lunghezza» nella spiegazione relativa ad un attributo precisa le prescrizioni in materia di tipo e di lunghezza del dato. I codici relativi al tipo di dato sono i seguenti:
+(3) I simboli «A», «B» o «C» nella tabella del titolo II non incidono sul fatto che taluni dati sono raccolti soltanto quando le circostanze lo richiedono. Ad esempio il dato 18 09 057 000 codice della nomenclatura combinata (status «A») sarà raccolto se richiesto dalla legislazione delle parti contraenti.
 
-- a alfabetico
-- n numerico
-- an alfanumerico.
+Possono essere integrati da condizioni o chiarimenti elencati nelle note numerate relative ai requisiti in materia di dati di cui al capo II, titolo II, e nelle note del titolo III.
 
-Il numero che segue il codice indica la lunghezza del dato autorizzata. Si applicano le seguenti convenzioni.
+(4) Lasciando del tutto impregiudicato l’obbligo di fornire dati a norma del presente allegato, e fatto salvo l’articolo 29 dell’appendice I, il contenuto dei dati forniti alle dogane per adempiere a un dato requisito sarà basato sulle informazioni in possesso dell’operatore economico che fornisce i dati nel momento in cui li fornisce alla dogana.
+
+(5) Quando le informazioni contenute in una dichiarazione di transito di cui al presente allegato assumono la forma di codici, si applica l’elenco dei codici di cui al titolo III o i codici nazionali, ove previsti.
+
+(6) I codici nazionali possono essere utilizzati dai paesi per i dati 12 01 000 000 Documento precedente (sottodato 12 01 005 000 Unità di misura e qualificatore), 12 02 000 000 Menzioni speciali (sottodato 12 02 008 000 Codice), 12 03 000 000 Documento giustificativo (sottodato 12 03 002 000 Tipo), 12 04 000 000 Riferimento complementare (sottodato 12 04 002 000 Tipo), certificati e autorizzazioni.
+
+Gli Stati membri dell’Unione europea comunicano alla Commissione l’elenco dei codici nazionali utilizzati per questi dati. La Commissione pubblica l’elenco di tali codici.
+
+(7) Cardinalità massime per ciascun regime di transito:
+
+D 1x
+
+MC 1x (per intestazione della dichiarazione)
+
+HC 999x (per MC per il transito)
+
+HI 9,999x (per HC)
+
+(8) Si utilizzano i seguenti riferimenti agli elenchi di codici definiti nelle norme internazionali o negli atti giuridici delle parti contraenti:
+
+<table>
+<tr><th></th><th>Nome abbreviato</th><th>Fonte</th><th>Definizione</th></tr>
+<tr><td>1.</td><td>Codice del tipo di imballaggio</td><td>Raccomandazione 21 dell’UN/ECE</td><td>Codice del tipo di imballaggio quale definito nell’ultima versione dell’allegato IV della raccomandazione 21 UN/ECE</td></tr>
+<tr><td>2.</td><td>Codice valuta</td><td>ISO 4217</td><td>Codice alfabetico di tre lettere definito dalla norma internazionale ISO 4217</td></tr>
+<tr><td>3.</td><td>Codice paese</td><td>Codice ISO 3166-1 alpha-2 del paese</td><td>Nel contesto delle operazioni di transito si deve utilizzare il codice paese ISO 3166-alpha-2 e per l’Irlanda del Nord il codice «XI».</td></tr>
+<tr><td>4.</td><td>UN/LOCODE</td><td>Raccomandazione 16 dell’UNECE</td><td>UN/LOCODE quale definito nella raccomandazione 16 dell’UNECE</td></tr>
+<tr><td>6.</td><td>Codice delle tipologie dei mezzi di trasporto</td><td>Raccomandazione 28 dell’UNECE</td><td>Codice delle tipologie dei mezzi di trasporto quale definito nella raccomandazione 28 dell’UNECE</td></tr>
+<tr><td>9.</td><td>Codici CUS</td><td>ECICS (inventario doganale europeo delle sostanze chimiche)</td><td>Numero CUS (Customs Union and Statistics) assegnato nell’ambito dell’inventario doganale europeo delle sostanze chimiche (ECICS) alle principali sostanze e preparati chimici.</td></tr>
+</table>
+
+(9) I codici specificati nel titolo III che si possono trovare nella banca dati TARIC sono definiti di comune accordo con le parti contraenti.
+
+### Capo II: Legenda della tabella
+
+### Sezione 1: Titoli delle colonne
+
+<table>
+<tr><th>Colonne</th><th>Dichiarazioni/notifiche/ prova della posizione doganale di merci unionali</th><th>Base giuridica</th></tr>
+<tr><td>Numero del dato No.</td><td>Numero d’ordine assegnato al dato in questione</td><td></td></tr>
+<tr><td>Vecchio numero della casella</td><td>Numero della casella nell’ALLEGATO B6 dell’appendice III quale stabilito dalla decisione n. 1/2008 del Comitato congiunto UE-EFTA sul transito comune del 16 giugno 2008.</td><td></td></tr>
+<tr><td>Denominazione del dato/ della categoria</td><td>Denominazione del dato/ della categoria in questione</td><td></td></tr>
+<tr><td>Denominazione del sottodato/ della sottocategoria</td><td>Denominazione del sottodato/ della sottocategoria in questione</td><td></td></tr>
+<tr><td>Denominazione del sottodato</td><td>Denominazione del sottodato in questione</td><td></td></tr>
+<tr><td>D1</td><td>Dichiarazione di transito</td><td>Articoli 25 e 26 dell’appendice I</td></tr>
+<tr><td>D2</td><td>Dichiarazione di transito con serie di dati ridotta (trasporto per ferrovia, trasporto aereo e marittimo)</td><td>Articolo 55, paragrafo 1, lettera i), dell’appendice I</td></tr>
+<tr><td>D3</td><td>Transito – Uso di un documento di trasporto elettronico come dichiarazione doganale (trasporto aereo)</td><td>Articolo 55, paragrafo 1, lettera h), dell’appendice I</td></tr>
+<tr><td>D4</td><td>Notifica di presentazione in relazione alla dichiarazione di transito presentata prima della presentazione delle merci</td><td>Articolo 29 *bis* dell’appendice I</td></tr>
+<tr><td>D</td><td>La cardinalità indica quante volte il dato può essere utilizzato a livello di intestazione della dichiarazione in una dichiarazione di transito</td><td></td></tr>
+<tr><td>MC</td><td>La cardinalità indica quante volte il dato può essere utilizzato a livello di spedizione master</td><td></td></tr>
+<tr><td>HC</td><td>La cardinalità indica quante volte il dato può essere utilizzato a livello di spedizione house</td><td></td></tr>
+<tr><td>HI</td><td>La cardinalità indica quante volte il dato può essere utilizzato a livello di articolo della spedizione house</td><td></td></tr>
+<tr><td>Formato</td><td>Tipo e lunghezza del dato</td><td></td></tr>
+<tr><td>Codici nel titolo III</td><td>Indica se nel titolo III sono presenti note complementari sul formato e sui codici.</td><td></td></tr>
+</table>
+
+### Sezione 2: Titoli delle colonne
+
+<table>
+<tr><th>Gruppo</th><th>Titolo del gruppo</th></tr>
+<tr><td>Gruppo 11</td><td>Informazioni del messaggio (inclusi i codici dei regimi)</td></tr>
+<tr><td>Gruppo 12</td><td>Riferimenti a messaggi, documenti, certificati e autorizzazioni</td></tr>
+<tr><td>Gruppo 13</td><td>Parti</td></tr>
+<tr><td>Gruppo 16</td><td>Luoghi/Paesi/Regioni</td></tr>
+<tr><td>Gruppo 17</td><td>Uffici doganali</td></tr>
+<tr><td>Gruppo 18</td><td>Identificazione delle merci</td></tr>
+<tr><td>Gruppo 19</td><td>Informazioni sui trasporti (modi, mezzi e apparecchiature)</td></tr>
+<tr><td>Gruppo 99</td><td>Altri dati (dati statistici, garanzie, dati relativi alle tariffe)</td></tr>
+</table>
+
+### Sezione 3: Simboli nelle colonne Dichiarazione
+
+<table>
+<tr><th>Simbolo</th><th>Descrizione del simbolo</th></tr>
+<tr><td>A</td><td>Obbligatori: dati richiesti da tutti i paesi, fatta salva la nota introduttiva 3.</td></tr>
+<tr><td>B</td><td>A discrezione del paese: dati che i singoli paesi possono decidere se richiedere o no.</td></tr>
+<tr><td>C</td><td>A discrezione degli operatori economici: dati che gli operatori economici possono fornire ma che i paesi non possono esigere. Se un operatore economico decide di fornire le informazioni, devono essere dichiarati tutti i sottodati richiesti. Se il simbolo «C» è utilizzato per un dato/una categoria di dati, tutti i sottodati/tutte le sottocategorie di dati appartenenti a tale dato/categoria di dati sono obbligatori qualora il dichiarante decida di fornire le informazioni, salvo diversa indicazione del titolo II, capo I.</td></tr>
+<tr><td>D</td><td>Dato richiesto a livello di intestazione della dichiarazione di transito. I dati del livello della dichiarazione contengono informazioni che si applicano all’intera dichiarazione.</td></tr>
+<tr><td>MC</td><td>Dato richiesto al livello di spedizione master. I dati del livello della spedizione master contengono informazioni che si applicano a un contratto di trasporto emesso da un vettore e da un contraente diretto. Queste informazioni a livello di intestazione sono applicabili per tutti gli articoli delle spedizioni master nel caso delle dichiarazioni e notifiche di cui al capo I, titolo II.</td></tr>
+<tr><td>HC</td><td>Dato richiesto al livello di spedizione house. I dati del livello di spedizione house contengono informazioni applicabili al contratto di trasporto di livello più basso rilasciato da uno spedizioniere, da un vettore comune che non utilizza navi o aeromobili o da un suo agente o da un operatore postale. Queste informazioni a livello di intestazione sono applicabili per tutti gli articoli delle spedizioni house nel caso delle dichiarazioni e notifiche di cui al titolo II, capo I.</td></tr>
+<tr><td>HI</td><td>Dato richiesto a livello di articolo della spedizione house. Il livello di articolo della spedizione house è un sottolivello rispetto al livello della spedizione house. I dati del livello di articolo della spedizione house contengono informazioni provenienti da diverse voci del documento di trasporto indicato nella spedizione house. Queste informazioni a livello di articolo sono applicabili nel caso delle dichiarazioni e notifiche di cui al c titolo II, capo I.</td></tr>
+</table>
+
+### Sezione 4: Simboli nella colonna Formato
+
+Il termine «tipo/lunghezza» nella spiegazione relativa a un attributo precisa le prescrizioni in materia di tipo e di lunghezza del dato. I codici relativi al tipo di dato sono i seguenti:
+
+a alfabetico
+
+n numerico
+
+an alfanumerico
+
+Il numero che segue il codice indica la lunghezza del dato autorizzata. Si applicano le seguenti convenzioni:
 
 I due puntini facoltativi prima dell’indicazione della lunghezza indicano che il dato non ha una lunghezza fissa: in tal caso l’indicazione concerne il numero massimo di caratteri utilizzabile. Una virgola nella lunghezza del dato indica che l’attributo può contenere decimali, nel qual caso la cifra prima della virgola indica la lunghezza totale dell’attributo e la cifra che segue la virgola indica il numero massimo di decimali.
 
 Esempi di lunghezze e formati del campo:
 
-- a1 1 carattere alfabetico, lunghezza fissa
-- n2 2 caratteri numerici, lunghezza fissa
-- an3 3 caratteri alfanumerici, lunghezza fissa
-- a..4 fino a 4 caratteri alfabetici
-- n..5 fino a 5 caratteri numerici
-- an..6 fino a 6 caratteri alfanumerici
-- n..7,2 fino a 7 caratteri numerici compresi al massimo 2 decimali, è ammessa la fluttuazione di un separatore.
+a1 1 carattere alfabetico, lunghezza fissa
 
-\6. La cardinalità a livello di intestazione nella tabella di cui al titolo II del presente allegato indica il numero di volte in cui il dato può essere utilizzato a livello di intestazione in una dichiarazione di transito.
+n2 2 caratteri numerici, lunghezza fissa
 
-\7. La cardinalità a livello di articolo nella tabella di cui al titolo II del presente allegato indica il numero di volte in cui il dato può essere ripetuto in relazione all’articolo in questione nella dichiarazione.
+an3 3 caratteri alfanumerici, lunghezza fissa
 
-\8. I paesi possono utilizzare codici nazionali per i dati 1/11 Regime complementare, 2/2 Menzioni speciali e 2/3 Documenti presentati, certificati e autorizzazioni, riferimenti complementari. I paesi comunicano alla Commissione l’elenco dei codici nazionali utilizzati per questi dati. La Commissione pubblica l’elenco di tali codici.
+a..4 fino a 4 caratteri alfabetici
 
-### Titolo II: Formati e cardinalità dei requisiti comuni in materia di dati per le dichiarazioni di transito
+n..5 fino a 5 caratteri numerici
 
-<table>
-<tr><th>Numero d’ordine del dato</th><th>Nome/denominazione del dato</th><th>Formato del dato (tipo/lunghezza)</th><th>Elenco dei codici nel titolo III (S/N)</th><th>Cardinalità a livello di intestazione</th><th>Cardinalità a livello di articolo</th><th>Note</th></tr>
-<tr><td>1/2</td><td>Tipo di dichiarazione supplementare</td><td>a1</td><td>S</td><td>1x</td><td></td><td></td></tr>
-<tr><td>1/3</td><td>Dichiarazione di transito</td><td>an..5</td><td>S</td><td>1x</td><td>1x</td><td></td></tr>
-<tr><td>1/4</td><td>Formulari</td><td>n..4</td><td>N</td><td>1x</td><td></td><td></td></tr>
-<tr><td>1/5</td><td>Distinte di carico</td><td>n..5</td><td>N</td><td>1x</td><td></td><td></td></tr>
-<tr><td>1/6</td><td>Numero di articolo</td><td>n...5</td><td>N</td><td></td><td>1x</td><td></td></tr>
-<tr><td>1/8</td><td>Firma/autenticazione</td><td>an..35</td><td>N</td><td>1x</td><td></td><td></td></tr>
-<tr><td>1/9</td><td>Numero totale di articoli</td><td>n..5</td><td>N</td><td>1x</td><td></td><td></td></tr>
-<tr><td>2/1</td><td>Dichiarazione semplificata/ Documenti precedenti</td><td>*Tipo di documento precedente:* an..3 + *Riferimento del documento precedente:* an..35 + *Identificatore degli articoli:* n..5</td><td>S</td><td>9999x</td><td>99x</td><td></td></tr>
-<tr><td>2/2</td><td>Menzioni speciali</td><td>Versione codificata (codici unionali): n1 + an4 OR *(codici nazionali):* a1 + an4 OR *Descrizione con testo libero:* an..512</td><td>S</td><td></td><td>99x</td><td>I codici sono ulteriormente specificati nel titolo III.</td></tr>
-<tr><td>2/3</td><td>Documenti presentati, certificati e autorizzazioni, riferimenti complementari</td><td>*Tipo di documento (codici unionali):* a1 + an3 OR *(codici nazionali):* n1+an3+ *Identificativo del documento:* an..35</td><td>S</td><td>1x</td><td>99x</td><td></td></tr>
-<tr><td>3/1</td><td>Esportatore</td><td>*Nome:* an..70 + *Via e numero:* an..70 + *Paese:* a2 + *Codice postale:* an..9 + *Città:* an..35</td><td>N</td><td>1x</td><td>1x</td><td>Codice paese: i codici alfabetici per i paesi e i territori sono basati sugli attuali codici ISO alpha 2 (a2) In caso di collettame, se si utilizzano dichiarazioni su carta, il codice «00200» può essere utilizzato insieme a un elenco degli esportatori conformemente alle note relative al dato 3/1 Esportatore nel titolo III dell’allegato B6 *bis* dell’appendice III *bis*.</td></tr>
-<tr><td>3/2</td><td>Numero di identificazione dell’esportatore</td><td>an..17</td><td>N</td><td>2x</td><td>2x</td><td>Per gli Stati membri dell’Unione europea, il numero EORI nell’Unione o il numero di identificazione unico di un paese terzo riconosciuto dall’Unione. Per i paesi di transito comune, il numero EORI nell’Unione (se rilasciato e in corso di validità al momento della presentazione della dichiarazione) e il numero di identificazione dell’operatore in un paese di transito comune.</td></tr>
-<tr><td>3/9</td><td>Destinatario</td><td>*Nome:* an..70 + *Via e numero:* an..70 + *Paese:* a2 + *Codice postale:* an..9 + *Città:* an..35</td><td>N</td><td>1x</td><td>1x</td><td>Si deve utilizzare il codice paese definito per il dato 3/1 Esportatore. In caso di collettame, se si utilizzano dichiarazioni su carta, il codice «00200» può essere utilizzato insieme a un elenco dei destinatari conformemente alle note relative al dato 3/9 Destinatario nel titolo III dell’allegato B6 *bis* dell’appendice III.</td></tr>
-<tr><td>3/10</td><td>Numero di identificazione del destinatario</td><td>an..17</td><td>N</td><td>2x</td><td>2x</td><td>Si deve utilizzare il numero di identificazione definito per il dato 3/2 Numero di identificazione dell’esportatore.</td></tr>
-<tr><td>3/19</td><td>Rappresentante</td><td>*Nome:* an..70 + *Via e numero:* an..70 + *Paese:* a2 + *Codice postale:* an..9 + *Città:* an..35</td><td>N</td><td>1x</td><td></td><td>Si deve utilizzare il codice paese definito per il dato 3/1 Esportatore.</td></tr>
-<tr><td>3/20</td><td>Numero di identificazione del rappresentante</td><td>an..17</td><td>N</td><td>2x</td><td></td><td>Si deve utilizzare il numero di identificazione definito per il dato 3/2 Numero di identificazione dell’esportatore.</td></tr>
-<tr><td>3/21</td><td>Codice di qualifica del rappresentante</td><td>n1</td><td>S</td><td>1x</td><td></td><td></td></tr>
-<tr><td>3/22</td><td>Titolare del regime di transito</td><td>*Nome:* an..70 + *Via e numero:* an..70 + *Paese:* a2 + *Codice postale:* an..9 + *Città:* an..35</td><td>N</td><td>1x</td><td></td><td>Si deve utilizzare il codice paese definito per il dato 3/1 Esportatore.</td></tr>
-<tr><td>3/23</td><td>Numero di identificazione del titolare del regime di transito</td><td>an..17</td><td>N</td><td>2x</td><td></td><td>Si deve utilizzare il numero di identificazione definito per il dato 3/2 Numero di identificazione dell’esportatore.</td></tr>
-<tr><td>3/37</td><td>Numero di identificazione degli altri attori della catena di approvvigionamento</td><td>*Codice ruolo:* a..3 + *Identificativo:* an..17</td><td>S</td><td>99x</td><td>99x</td><td>I codici ruolo degli altri attori della catena di approvvigionamento sono definiti nel titolo II. Si deve utilizzare il numero di identificazione definito per il dato 3/2 Numero di identificazione dell’esportatore.</td></tr>
-<tr><td>5/4</td><td>Data della dichiarazione</td><td>n8 (aaaammgg)</td><td>N</td><td>1x</td><td></td><td></td></tr>
-<tr><td>5/5</td><td>Luogo della dichiarazione</td><td>an..35</td><td>N</td><td>1x</td><td></td><td></td></tr>
-<tr><td>5/6</td><td>Ufficio di destinazione (e paese)</td><td>an8</td><td>N</td><td>1x</td><td></td><td>La struttura dell’identificativo dell’ufficio doganale è definita nel titolo III.</td></tr>
-<tr><td>5/7</td><td>Uffici di passaggio previsti (e paese)</td><td>an8</td><td>N</td><td>9x</td><td></td><td>L’identificativo dell’ufficio doganale deve seguire la struttura definita per il dato 5/6 Ufficio di destinazione (e paese).</td></tr>
-<tr><td>5/8</td><td>Codice del paese di destinazione</td><td>a2</td><td>N</td><td>1x</td><td></td><td>Si deve utilizzare il codice paese definito per il dato 3/1 Esportatore.</td></tr>
-<tr><td>5/21</td><td>Luogo di carico</td><td>*In forma codificata:* an..17 OR *Descrizione con testo libero:* a2 *(codice paese)* + an..35 (luogo)</td><td>N</td><td>1x</td><td></td><td>Se il luogo di carico è codificato secondo il codice UN/LOCODE, le informazioni devono corrispondere al codice UN/LOCODE definito nel titolo III per il dato 5/6 Ufficio di destinazione (e paese). Se il luogo di carico non è codificato secondo il codice UN/LOCODE, il paese in cui è situato il luogo di carico è identificato con il codice definito per il dato 3/1 Esportatore.</td></tr>
-<tr><td>5/23</td><td>Ubicazione delle merci</td><td>*Paese:* a2 + *Tipo di ubicazione:* a1 + *Qualificatore dell’identificazione:* a1 + In forma codificata: *Identificazione dell’ubicazione:* an..35 + *Identificativo supplementare:* n..3 OR Descrizione con testo libero *Via e numero:* an..70 + *Codice postale:* an..9 + *Città:* an..35</td><td>Y</td><td>1x</td><td></td><td>La struttura del codice è definita nel titolo III.</td></tr>
-<tr><td>6/1</td><td>Massa netta (kg)</td><td>n..16,6</td><td>N</td><td></td><td>1x</td><td></td></tr>
-<tr><td>6/5</td><td>Massa lorda (kg)</td><td>n..16,6</td><td>N</td><td>1x</td><td>1x</td><td></td></tr>
-<tr><td>6/8</td><td>Descrizione delle merci</td><td>an..512</td><td>N</td><td></td><td>1x</td><td></td></tr>
-<tr><td>6/9</td><td>Tipo di colli</td><td></td><td>N</td><td></td><td>99x</td><td>L’elenco dei codici corrisponde alla versione più recente delle raccomandazioni UNECE 21.</td></tr>
-<tr><td>6/10</td><td>Numero di colli</td><td>n..8</td><td>N</td><td></td><td>99x</td><td></td></tr>
-<tr><td>6/11</td><td>Marchi di spedizione</td><td>an..512</td><td>N</td><td></td><td>99x</td><td></td></tr>
-<tr><td>6/13</td><td>Codice CUS</td><td>an8</td><td>N</td><td></td><td>1x</td><td>Codice assegnato nell’ambito dell’inventario doganale europeo delle sostanze chimiche (ECICS).</td></tr>
-<tr><td>6/14</td><td>Codice delle merci – Codice della nomenclatura combinata</td><td>an..8</td><td>N</td><td></td><td>1x</td><td></td></tr>
-<tr><td>6/18</td><td>Totale dei colli</td><td>n..8</td><td>N</td><td>1x</td><td></td><td></td></tr>
-<tr><td>7/1</td><td>Trasbordo</td><td>*Luogo del trasbordo:* Paese: a2 + *Tipo di ubicazione:* a1 + *Qualificatore dell’identificazione:* a1 + In forma codificata: *Identificazione dell’ubicazione:* an..35 + *Identificativo supplementare:* n..3 OR Descrizione con testo libero *Via e numero:* an..70 + *Codice postale:* an..9 + *Città:* an..35 + Identità del nuovo mezzo di trasporto *Tipo di identificazione:* n2 + *Numero di identificazione:* an..35 + *Nazionalità del nuovo mezzo di trasporto:* a2 + *Indicatore che specifica se la spedizione è containerizzata o no:* n1</td><td>N</td><td>1x</td><td></td><td>Si deve utilizzare il codice paese definito per il dato 3/1 Esportatore. Il luogo del trasbordo deve seguire la struttura del dato 5/23 Ubicazione delle merci. L’identità del mezzo di trasporto deve seguire la struttura del dato 7/7 Identità del mezzo di trasporto alla partenza. La nazionalità del mezzo di trasporto deve seguire la struttura del dato 7/8 Nazionalità del mezzo di trasporto alla partenza. Per l’indicatore che specifica se le merci sono containerizzate si devono utilizzare i codici previsti per il dato 7/2 Container nel titolo III.</td></tr>
-<tr><td>7/2</td><td>Contenitori</td><td>n1</td><td>S</td><td>1x</td><td></td><td></td></tr>
-<tr><td>7/4</td><td>Modo di trasporto fino alla frontiera</td><td>n1</td><td>S</td><td></td><td></td><td></td></tr>
-<tr><td>7/5</td><td>Modo di trasporto interno</td><td>n1</td><td>N</td><td>1x</td><td>1x</td><td>Devono essere utilizzati i codici previsti nel titolo III per il dato 7/4 Modo di trasporto fino alla frontiera</td></tr>
-<tr><td>7/7</td><td>Identità del mezzo di trasporto alla partenza</td><td>*Tipo di identifica-zione:* n2 + *Numero di identificazione:* an..35</td><td>S</td><td>1x</td><td>1x</td><td></td></tr>
-<tr><td>7/8</td><td>Nazionalità del mezzo di trasporto alla partenza</td><td>a2</td><td>N</td><td>1x</td><td>1x</td><td>Si deve utilizzare il codice paese definito per il dato 3/1 Esportatore.</td></tr>
-<tr><td>7/10</td><td>Numero di identificazione del container</td><td>an..17</td><td>N</td><td>9999x</td><td>9999x</td><td></td></tr>
-<tr><td>7/14</td><td>Identità del mezzo di trasporto attivo che attraversa la frontiera</td><td>*Tipo di identificazione:* n2 + *Numero di identificazione:* an..35</td><td>N</td><td>1x</td><td>1x</td><td>Per questo tipo di identificazione devono essere utilizzati i codici definiti per il dato 7/7 Identità del mezzo di trasporto alla partenza.</td></tr>
-<tr><td>7/15</td><td>Nazionalità del mezzo di trasporto attivo che attraversa la frontiera</td><td>a3</td><td>N</td><td>1x</td><td>1x</td><td>Si deve utilizzare il codice paese definito per il dato 3/1 Esportatore.</td></tr>
-<tr><td>7/18</td><td>Numero del sigillo</td><td>*Numero di sigilli:* n..4 + *Identificativo del sigillo:* an..20</td><td>N</td><td>1x 9999x</td><td>1x 9999x</td><td></td></tr>
-<tr><td>7/19</td><td>Altri incidenti durante il trasporto</td><td>an..512</td><td>N</td><td>1x</td><td></td><td></td></tr>
-<tr><td>8/2</td><td>Tipo di garanzia</td><td>an1</td><td>S</td><td>9x</td><td></td><td></td></tr>
-<tr><td>8/3</td><td>Riferimento della garanzia</td><td>*GRN:* an..24 + *Codice di accesso:* an..4 + *Codice valuta:* a3 + *Importo del debito:* n..16,2 + *Ufficio doganale di garanzia:* an8</td><td>N</td><td>99x</td><td></td><td>I codici valuta ISO alpha-3 (ISO 4217) devono essere utilizzati per la valuta. L’identificativo dell’ufficio doganale deve seguire la struttura definita per il dato 5/6 Ufficio di destinazione (e paese).</td></tr>
-<tr><td>8/4</td><td>Garanzia non valida in</td><td>a2</td><td>N</td><td>99x</td><td></td><td>Si deve utilizzare il codice paese definito per il dato 3/1 Esportatore.</td></tr>
-</table>
+an..6 fino a 6 caratteri alfanumerici
 
-### Titolo III: Codici relativi ai requisiti comuni in materia di dati per una dichiarazione di transito
+n..7,2 fino a 7 caratteri numerici compresi al massimo 2 decimali, è ammessa la fluttuazione di un separatore.
 
-Il presente titolo contiene i codici da utilizzare nelle dichiarazioni di transito standard in formato elettronico e su supporto cartaceo.
+## Titolo II: Tabella dei requisiti comuni in materia di dati per le dichiarazioni di transito
 
-1/2. Tipo di dichiarazione supplementare
-
-- D per la presentazione di una dichiarazione di transito a norma dell’articolo 29 *bis* dell’appendice I della convenzione.
-
-1/3. Dichiarazione di transito
-
-Codici da utilizzare nel contesto del transito:
-
-- T Spedizioni miste comprendenti merci che hanno la posizione doganale di merci unionali e che non hanno la posizione doganale di merci unionali vincolate al regime di transito comune.
-- T1 Merci non aventi la posizione doganale di merci unionali che sono vincolate al regime di transito comune.
-- T2 Merci aventi la posizione doganale di merci unionali che sono vincolate al regime di transito comune.
-- T2F Merci aventi la posizione doganale di merci unionali che sono trasferite da una parte del territorio doganale dell’Unione in cui si applicano le disposizioni della direttiva 2006/112/CE del Consiglio[^annexu1-lvlu1-titIII-1] o della direttiva 2008/118/CE del Consiglio[^annexu1-lvlu1-titIII-2] a un paese di transito comune.
-- C Merci unionali non vincolate a un regime di transito comune nell’ambito dell’applicazione dell’articolo 55, paragrafo 1, lettera h), dell’appendice I.
-- TD Merci già vincolate a un regime di transito nell’ambito dell’applicazione dell’articolo 55, paragrafo 1, lettera h), dell’appendice I.
-- X Merci unionali destinate all’esportazione, non vincolate a un regime di transito nell’ambito dell’applicazione dell’articolo 55, paragrafo 1, lettera h), dell’appendice I.
-
-2/1. Dichiarazione semplificata/Documenti precedenti
-
-Questo dato è costituito da codici alfanumerici.
-
-Ciascun codice si compone di tre elementi. Il primo elemento (an..3), rappresentato da una combinazione di cifre e/o lettere, indica la natura del documento. Il secondo elemento (an..35) rappresenta i dati del documento indispensabili per identificarlo, ovvero il suo numero di identificazione o altro riferimento riconoscibile. Il terzo elemento (an.. 5) è utilizzato per individuare a quale elemento del documento precedente è fatto riferimento.
-
-Se è presentata una dichiarazione doganale su supporto cartaceo, i tre elementi sono separati da un trattino (–).
-
-\1. Il primo elemento (an..3):
-
-Scegliere l’abbreviazione del documento dall’elenco delle abbreviazioni dei documenti riportato di seguito.
-
-Elenco delle abbreviazioni dei documenti
-
-(Codici numerici estratti dai repertori UN per l’interscambio elettronico di dati per l’amministrazione, il commercio ed il trasporto, 2014b: elenco di codici per il dato 1001, nome del documento/messaggio in codice).
+### Capo I: Tabella
 
 <table>
-<tr><td>Elenco dei contenitori</td><td>235</td></tr>
-<tr><td>Bolla di consegna</td><td>270</td></tr>
-<tr><td>Distinta dei colli</td><td>271</td></tr>
-<tr><td>Fattura proforma</td><td>325</td></tr>
-<tr><td>Dichiarazione di custodia temporanea</td><td>337</td></tr>
-<tr><td>Dichiarazione sommaria di entrata</td><td>355</td></tr>
-<tr><td>Fattura commerciale</td><td>380</td></tr>
-<tr><td>Lettera di vettura emessa da uno spedizioniere</td><td>703</td></tr>
-<tr><td>Polizza di carico principale</td><td>704</td></tr>
-<tr><td>Polizza di carico</td><td>705</td></tr>
-<tr><td>Polizza di carico emessa da uno spedizioniere</td><td>714</td></tr>
-<tr><td>Lettera di vettura ferroviaria</td><td>720</td></tr>
-<tr><td>Lettera di vettura stradale</td><td>730</td></tr>
-<tr><td>Lettera di vettura aerea</td><td>740</td></tr>
-<tr><td>Lettera di vettura aerea principale</td><td>741</td></tr>
-<tr><td>Bollettino di spedizione (pacchi postali)</td><td>750</td></tr>
-<tr><td>Documenti di trasporto multimodale/combinato</td><td>760</td></tr>
-<tr><td>Manifesto di carico</td><td>785</td></tr>
-<tr><td>Bordereau</td><td>787</td></tr>
-<tr><td>Dichiarazione di transito – Spedizioni miste (T)</td><td>820</td></tr>
-<tr><td>Dichiarazione di transito (T1)</td><td>821</td></tr>
-<tr><td>Dichiarazione di transito (T2)</td><td>822</td></tr>
-<tr><td>Dichiarazione di transito (T2F)</td><td>T2F</td></tr>
-<tr><td>Prova della posizione doganale di merci unionali T2L</td><td>825</td></tr>
-<tr><td>Prova della posizione doganale di merci unionali T2LF</td><td>T2G</td></tr>
-<tr><td>Carnet TIR</td><td>952</td></tr>
-<tr><td>Carnet ATA</td><td>955</td></tr>
-<tr><td>Riferimento/Data di iscrizione delle merci nelle scritture del dichiarante</td><td>CLE</td></tr>
-<tr><td>Bollettino d’informazione INF3</td><td>IF3</td></tr>
-<tr><td>Dichiarazione semplificata</td><td>SDE</td></tr>
-<tr><td>Dichiarazione MRN</td><td>MRN</td></tr>
-<tr><td>Manifesto di carico – procedura semplificata</td><td>MNS</td></tr>
-<tr><td>Altro</td><td>ZZZ</td></tr>
+<tr><th>Numero del dato</th><th>Vecchio numero della casella Box No</th><th>Denominazione del dato/ della categoria</th><th>Denominazione del sottodato/ della sottocategoria</th><th>Denominazione del sottodato</th><th colspan="3">Dichiarazione</th><th colspan="2"></th><th></th><th></th><th colspan="3">Cardinalità</th><th></th><th colspan="2"></th><th></th><th>Formato</th><th>Codici nel titolo III</th></tr>
+<tr><th></th><th></th><th></th><th></th><th></th><th>D1</th><th>D2</th><th colspan="2">D3</th><th colspan="3">D4</th><th>D</th><th>MC</th><th colspan="3">HC</th><th colspan="2">HI</th><th></th><th></th></tr>
+<tr><td colspan="21">Gruppo 11 – Informazioni del messaggio (inclusi i codici dei regimi)</td></tr>
+<tr><td>11 01 000 000</td><td>1</td><td>Tipo di dichiarazione</td><td></td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td>1x</td><td></td><td colspan="3"></td><td colspan="2">1x</td><td>an..5</td><td>S</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D HI</td><td>D HI</td><td colspan="2">D HI</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>11 02 000 000</td><td>Nuovo</td><td>Tipo di dichiarazione supplementare</td><td></td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td>1x</td><td></td><td colspan="3"></td><td colspan="2"></td><td>a1</td><td>S</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2">D</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>11 03 000 000</td><td>32</td><td>Numero di articolo</td><td></td><td></td><td>A</td><td>A</td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2">1x</td><td>n..5</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>HI</td><td>HI</td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>11 07 000 000</td><td>Nuovo</td><td>Garanzia</td><td></td><td></td><td>A</td><td>A</td><td colspan="2"></td><td colspan="3"></td><td>1x</td><td></td><td colspan="3"></td><td colspan="2"></td><td>n1</td><td>S</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>11 08 000 000</td><td>Nuovo</td><td>Indicatore di serie di dati ridotta</td><td></td><td></td><td>A</td><td>A</td><td colspan="2"></td><td colspan="3"></td><td>1x</td><td></td><td colspan="3"></td><td colspan="2"></td><td>n1</td><td>S</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td colspan="21">Gruppo 12 – Riferimenti a messaggi, documenti, certificati e autorizzazioni</td></tr>
+<tr><td>12 01 000 000</td><td>40</td><td>Documento precedente</td><td></td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td></td><td>9 999x</td><td colspan="3">99x</td><td colspan="2">99x</td><td></td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC HI</td><td>MC HC HI</td><td colspan="2">MC HC HI</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>12 01 001 000</td><td></td><td></td><td>Numero di riferimento</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td></td><td>1x</td><td colspan="3">1x</td><td colspan="2">1x</td><td>an..70</td><td>S</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC HI</td><td>MC HC HI</td><td colspan="2">MC HC HI</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>12 01 002 000</td><td></td><td></td><td>Tipo</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td></td><td>1x</td><td colspan="3">1x</td><td colspan="2">1x</td><td>an4</td><td>S</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC HI</td><td>MC HC HI</td><td colspan="2">MC HC HI</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>12 01 003 000</td><td></td><td></td><td>Tipo di colli</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2">1x</td><td>an..2</td><td>S</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>HI</td><td>HI</td><td colspan="2">HI</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>12 01 004 000</td><td></td><td></td><td>Numero di colli</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2">1x</td><td>n..8</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>HI</td><td>HI</td><td colspan="2">HI</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>12 01 005 000</td><td></td><td></td><td>Unità di misura e qualificatore</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2">1x</td><td>an..4</td><td>S</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>HI</td><td>HI</td><td colspan="2">HI</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>12 01 006 000</td><td></td><td></td><td>Quantità</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2">1x</td><td>n..16,6</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>HI</td><td>HI</td><td colspan="2">HI</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>12 01 007 000</td><td></td><td></td><td>Identificatore dell’articolo</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2">1x</td><td>n..5</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>HI</td><td>HI</td><td colspan="2">HI</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>12 01 079 000</td><td></td><td></td><td>Menzioni speciali</td><td></td><td>C</td><td>C</td><td colspan="2"></td><td colspan="3"></td><td></td><td>1x</td><td colspan="3">1x</td><td colspan="2">1x</td><td>an..35</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC HI</td><td>MC HC HI</td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>12 02 000 000</td><td>44</td><td>Informazioni supplementari</td><td></td><td></td><td>C</td><td>C</td><td colspan="2">C</td><td colspan="3"></td><td></td><td>99x</td><td colspan="3"></td><td colspan="2">99x</td><td></td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HI</td><td>MC HI</td><td colspan="2">MC HI</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>12 02 008 000</td><td></td><td></td><td>Codice</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td></td><td>1x</td><td colspan="3"></td><td colspan="2">1x</td><td>an5</td><td>S</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HI</td><td>MC HI</td><td colspan="2">MC HI</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>12 02 009 000</td><td></td><td></td><td>Testo</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td></td><td>1x</td><td colspan="3"></td><td colspan="2">1x</td><td>an..512</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HI</td><td>MC HI</td><td colspan="2">MC HI</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>12 03 000 000</td><td>44</td><td>Documento giustificativo</td><td></td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td></td><td>99x</td><td colspan="3"></td><td colspan="2">99x</td><td></td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HI</td><td>MC HI</td><td colspan="2">MC HI</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>12 03 001 000</td><td></td><td></td><td>Numero di riferimento</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td></td><td>1x</td><td colspan="3"></td><td colspan="2">1x</td><td>an..70</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HI</td><td>MC HI</td><td colspan="2">MC HI</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>12 03 002 000</td><td></td><td></td><td>Tipo</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td></td><td>1x</td><td colspan="3"></td><td colspan="2">1x</td><td>an4</td><td>S</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HI</td><td>MC HI</td><td colspan="2">MC HI</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>12 03 013 000</td><td></td><td></td><td>Numero di riga dell’articolo nel documento</td><td></td><td>C</td><td>C</td><td colspan="2">C</td><td colspan="3"></td><td></td><td>1x</td><td colspan="3"></td><td colspan="2">1x</td><td>n..5</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HI</td><td>MC HI</td><td colspan="2">MC HI</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>12 03 079 000</td><td></td><td></td><td>Menzioni speciali</td><td></td><td>C</td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td>1x</td><td colspan="3"></td><td colspan="2">1x</td><td>an..35</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HI</td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>12 04 000 000</td><td>44 Nuovo</td><td>Riferimento aggiuntivo</td><td></td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td></td><td>99x</td><td colspan="3">99x</td><td colspan="2">99x</td><td></td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC HI</td><td>MC HC HI</td><td colspan="2">MC HC HI</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>12 04 001 000</td><td></td><td></td><td>Numero di riferimento</td><td></td><td>C</td><td>C</td><td colspan="2">C</td><td colspan="3"></td><td></td><td>1x</td><td colspan="3">1x</td><td colspan="2">1x</td><td>an..70</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC HI</td><td>MC HC HI</td><td colspan="2">MC HC HI</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>12 04 002 000</td><td></td><td></td><td>Tipo</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td></td><td>1x</td><td colspan="3">1x</td><td colspan="2">1x</td><td>an4</td><td>S</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC HI</td><td>MC HC HI</td><td colspan="2">MC HC HI</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>12 05 000 000</td><td>44 Nuovo</td><td>Documenti di trasporto</td><td></td><td></td><td>A [8]</td><td>A [8]</td><td colspan="2">A [8]</td><td colspan="3"></td><td></td><td>99x</td><td colspan="3">99x</td><td colspan="2"></td><td></td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC</td><td>MC HC</td><td colspan="2">MC HC</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>12 05 001 000</td><td></td><td></td><td>Numero di riferimento</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td></td><td>1x</td><td colspan="3">1x</td><td colspan="2"></td><td>an..70</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC</td><td>MC HC</td><td colspan="2">MC HC</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>12 05 002 000</td><td></td><td></td><td>Tipo</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td></td><td>1x</td><td colspan="3">1x</td><td colspan="2"></td><td>an4</td><td>S</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC</td><td>MC HC</td><td colspan="2">MC HC</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>12 08 000 000</td><td></td><td>Numero di riferimento/UCR</td><td></td><td></td><td>C</td><td>C</td><td colspan="2">C</td><td colspan="3"></td><td></td><td>1x</td><td colspan="3">1x</td><td colspan="2">1x</td><td>an..35</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC HI</td><td>MC HC HI</td><td colspan="2">MC HC HI</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>12 09 000 000</td><td>Nuovo</td><td>LRN (Numero di riferimento locale)</td><td></td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td>1x</td><td></td><td colspan="3"></td><td colspan="2"></td><td>an..22</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2">D</td><td colspan="3">D</td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>12 12 000 000</td><td>44 Nuovo</td><td>Autorizzazione</td><td></td><td></td><td>A [60]</td><td>A [60]</td><td colspan="2">A [60]</td><td colspan="3"></td><td>9x</td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2">D</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>12 12 001 000</td><td></td><td></td><td>Numero di riferimento</td><td></td><td>A [60]</td><td>A [60]</td><td colspan="2">A [60]</td><td colspan="3"></td><td>1x</td><td></td><td colspan="3"></td><td colspan="2"></td><td>an..35</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2">D</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>12 12 002 000</td><td></td><td></td><td>Tipo</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td>1x</td><td></td><td colspan="3"></td><td colspan="2"></td><td>an..4</td><td>S</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2">D</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td colspan="21">Gruppo 13 – Parti</td></tr>
+<tr><td>13 02 000 000</td><td>2</td><td>Speditore</td><td></td><td></td><td>C</td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td>1x</td><td colspan="3">1x</td><td colspan="2"></td><td></td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC</td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>13 02 016 000</td><td></td><td></td><td>Nome</td><td></td><td>A [6]</td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td>1x</td><td colspan="3">1x</td><td colspan="2"></td><td>an..70</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC</td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>13 02 017 000</td><td>2 (n.)</td><td></td><td>Numero di identificazione</td><td></td><td>A</td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td>1x</td><td colspan="3">1x</td><td colspan="2"></td><td>an..17</td><td>S</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC</td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>13 02 018 000</td><td></td><td></td><td>Indirizzo</td><td></td><td>A [6]</td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td>1x</td><td colspan="3">1x</td><td colspan="2"></td><td></td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC</td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>13 02 018 019</td><td></td><td></td><td></td><td>Via e numero civico</td><td>A</td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td>1x</td><td colspan="3">1x</td><td colspan="2"></td><td>an..70</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC</td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>13 02 018 020</td><td></td><td></td><td></td><td>Paese</td><td>A</td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td>1x</td><td colspan="3">1x</td><td colspan="2"></td><td>a2</td><td>S</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC</td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>13 02 018 021</td><td></td><td></td><td></td><td>Codice postale</td><td>A</td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td>1x</td><td colspan="3">1x</td><td colspan="2"></td><td>an..17</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC</td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>13 02 018 022</td><td></td><td></td><td></td><td>Città</td><td>A</td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td>1x</td><td colspan="3">1x</td><td colspan="2"></td><td>an..35</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC</td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>13 02 074 000</td><td></td><td></td><td>Persona di contatto</td><td></td><td>C</td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td>9x</td><td colspan="3">9x</td><td colspan="2"></td><td></td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC</td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>13 02 074 016</td><td></td><td></td><td></td><td>Nome</td><td>A</td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td>1x</td><td colspan="3">1x</td><td colspan="2"></td><td>an..70</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC</td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>13 02 074 075</td><td></td><td></td><td></td><td>Numero di telefono</td><td>A</td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td>1x</td><td colspan="3">1x</td><td colspan="2"></td><td>an..35</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC</td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>13 02 074 076</td><td></td><td></td><td></td><td>Indirizzo di posta elettronica</td><td>A</td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td>1x</td><td colspan="3">1x</td><td colspan="2"></td><td>an..256</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC</td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>13 03 000 000</td><td>8</td><td>Destinatario</td><td></td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td></td><td>1x</td><td colspan="3">1x</td><td colspan="2">1x</td><td></td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC HI</td><td>MC HC HI</td><td colspan="2">MC HC HI</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>13 03 016 000</td><td></td><td></td><td>Nome</td><td></td><td>A [6]</td><td>A [6]</td><td colspan="2">A [6]</td><td colspan="3"></td><td></td><td>1x</td><td colspan="3">1x</td><td colspan="2">1x</td><td>an..70</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC HI</td><td>MC HC HI</td><td colspan="2">MC HC HI</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>13 03 017 000</td><td>8 (n.)</td><td></td><td>Numero di identificazione</td><td></td><td>A [8]</td><td>A [8]</td><td colspan="2">A [8]</td><td colspan="3"></td><td></td><td>1x</td><td colspan="3">1x</td><td colspan="2">1x</td><td>an..17</td><td>S</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC HI</td><td>MC HC HI</td><td colspan="2">MC HC HI</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>13 03 018 000</td><td></td><td></td><td>Indirizzo</td><td></td><td>A [6]</td><td>A [6]</td><td colspan="2">A [6]</td><td colspan="3"></td><td></td><td>1x</td><td colspan="3">1x</td><td colspan="2">1x</td><td></td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC HI</td><td>MC HC HI</td><td colspan="2">MC HC HI</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>13 03 018 019</td><td></td><td></td><td></td><td>Via e numero civico</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td></td><td>1x</td><td colspan="3">1x</td><td colspan="2">1x</td><td>an..70</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC HI</td><td>MC HC HI</td><td colspan="2">MC HC HI</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>13 03 018 020</td><td></td><td></td><td></td><td>Paese</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td></td><td>1x</td><td colspan="3">1x</td><td colspan="2">1x</td><td>a2</td><td>S</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC HI</td><td>MC HC HI</td><td colspan="2">MC HC HI</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>13 03 018 021</td><td></td><td></td><td></td><td>Codice postale</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td></td><td>1x</td><td colspan="3">1x</td><td colspan="2">1x</td><td>an..17</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC HI</td><td>MC HC HI</td><td colspan="2">MC HC HI</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>13 03 018 022</td><td></td><td></td><td></td><td>Città</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td></td><td>1x</td><td colspan="3">1x</td><td colspan="2">1x</td><td>an..35</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC HI</td><td>MC HC HI</td><td colspan="2">MC HC HI</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>13 06 000 000</td><td>14</td><td>Rappresentante</td><td></td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td>1x</td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2">D</td><td colspan="3">D</td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>13 06 017 000</td><td>4 (n.)</td><td></td><td>Numero di identificazione</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td>1x</td><td></td><td colspan="3"></td><td colspan="2"></td><td>an..17</td><td>S</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2">D</td><td colspan="3">D</td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>13 06 030 000</td><td>14</td><td></td><td>Status</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td>1x</td><td></td><td colspan="3"></td><td colspan="2"></td><td>n1</td><td>S</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2">D</td><td colspan="3">D</td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>13 06 074 000</td><td></td><td></td><td>Persona di contatto</td><td></td><td>C</td><td>C</td><td colspan="2">C</td><td colspan="3">C</td><td>9x</td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2">D</td><td colspan="3">D</td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>13 06 074 016</td><td></td><td></td><td></td><td>Nome</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td>1x</td><td></td><td colspan="3"></td><td colspan="2"></td><td>an..70</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2">D</td><td colspan="3">D</td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>13 06 074 075</td><td></td><td></td><td></td><td>Numero di telefono</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td>1x</td><td></td><td colspan="3"></td><td colspan="2"></td><td>an..35</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2">D</td><td colspan="3">D</td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>13 06 074 076</td><td></td><td></td><td></td><td>Indirizzo di posta elettronica</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td>1x</td><td></td><td colspan="3"></td><td colspan="2"></td><td>an..256</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2">D</td><td colspan="3">D</td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>13 07 000 000</td><td>50</td><td>Titolare del regime di transito</td><td></td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td>1x</td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2">D</td><td colspan="3">D</td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>13 07 016 000</td><td></td><td></td><td>Nome</td><td></td><td>A [6]</td><td>A [6]</td><td colspan="2">A [6]</td><td colspan="3"></td><td>1x</td><td></td><td colspan="3"></td><td colspan="2"></td><td>an..70</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2">D</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>13 07 017 000</td><td>50 (n.)</td><td></td><td>Numero di identificazione</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td>1x</td><td></td><td colspan="3"></td><td colspan="2"></td><td>an..17</td><td>S</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2">D</td><td colspan="3">D</td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>13 07 018 000</td><td></td><td></td><td>Indirizzo</td><td></td><td>A [6]</td><td>A [6]</td><td colspan="2">A [6]</td><td colspan="3"></td><td>1x</td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2">D</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>13 07 018 019</td><td></td><td></td><td></td><td>Via e numero civico</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td>1x</td><td></td><td colspan="3"></td><td colspan="2"></td><td>an..70</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2">D</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>13 07 018 020</td><td></td><td></td><td></td><td>Paese</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td>1x</td><td></td><td colspan="3"></td><td colspan="2"></td><td>a2</td><td>S</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2">D</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>13 07 018 021</td><td></td><td></td><td></td><td>Codice postale</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td>1x</td><td></td><td colspan="3"></td><td colspan="2"></td><td>an..17</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2">D</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>13 07 018 022</td><td></td><td></td><td></td><td>Città</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td>1x</td><td></td><td colspan="3"></td><td colspan="2"></td><td>an..35</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2">D</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>13 07 074 000</td><td></td><td></td><td>Persona di contatto</td><td></td><td>C</td><td>C</td><td colspan="2">C</td><td colspan="3"></td><td>1x</td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2">D</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>13 07 074 016</td><td></td><td></td><td></td><td>Nome</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td>1x</td><td></td><td colspan="3"></td><td colspan="2"></td><td>an..70</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2">D</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>13 07 074 075</td><td></td><td></td><td></td><td>Numero di telefono</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td>1x</td><td></td><td colspan="3"></td><td colspan="2"></td><td>an..35</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2">D</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>13 07 074 076</td><td></td><td></td><td></td><td>Indirizzo di posta elettronica</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td>1x</td><td></td><td colspan="3"></td><td colspan="2"></td><td>an..256</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2">D</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>13 14 000 000</td><td>44</td><td>Attore supplementare della catena di approvvigionamento</td><td></td><td></td><td>C</td><td>C</td><td colspan="2">C</td><td colspan="3"></td><td></td><td>99x</td><td colspan="3">99x</td><td colspan="2">99x</td><td></td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC HI</td><td>MC HC HI</td><td colspan="2">MC HC HI</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>13 14 017 000</td><td></td><td></td><td>Numero di identificazione</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td></td><td>1x</td><td colspan="3">1x</td><td colspan="2">1x</td><td>an..17</td><td>S</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC HI</td><td>MC HC HI</td><td colspan="2">MC HC HI</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>13 14 031 000</td><td></td><td></td><td>Ruolo</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td></td><td>1x</td><td colspan="3">1x</td><td colspan="2">1x</td><td>a..3</td><td>S</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC HI</td><td>MC HC HI</td><td colspan="2">MC HC HI</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td colspan="21">Gruppo 16 – Luoghi/Paesi/Regioni</td></tr>
+<tr><td>16 03 000 000</td><td>17 a</td><td>Paese di destinazione</td><td></td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td></td><td>1x</td><td colspan="3">1x</td><td colspan="2">1x</td><td>a2</td><td>S</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC HI</td><td>MC HC HI</td><td colspan="2">MC HC HI</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>16 06 000 000</td><td>15</td><td>Paese di spedizione</td><td></td><td></td><td>A</td><td>C</td><td colspan="2"></td><td colspan="3"></td><td></td><td>1x</td><td colspan="3">1x</td><td colspan="2">1x</td><td>a2</td><td>S</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC HI</td><td>MC HC HI</td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>16 12 000 000</td><td>Nuovo</td><td>Paese di transito della spedizione</td><td></td><td></td><td>A</td><td>A</td><td colspan="2"></td><td colspan="3"></td><td></td><td>99x</td><td colspan="3"></td><td colspan="2"></td><td></td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>16 12 020 000</td><td></td><td></td><td>Paese</td><td></td><td>A</td><td>A</td><td colspan="2"></td><td colspan="3"></td><td></td><td>1x</td><td colspan="3"></td><td colspan="2"></td><td>a2</td><td>S</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>16 13 000 000</td><td>27</td><td>Luogo di carico</td><td></td><td></td><td>B [61]</td><td>B</td><td colspan="2">B</td><td colspan="3">B</td><td></td><td>1x</td><td colspan="3"></td><td colspan="2"></td><td></td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2">MC</td><td colspan="3">MC</td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>16 13 020 000</td><td></td><td></td><td>Paese</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td></td><td>1x</td><td colspan="3"></td><td colspan="2"></td><td>a2</td><td>S</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2">MC</td><td colspan="3">MC</td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>16 13 036 000</td><td></td><td></td><td>UN/LOCODE</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td></td><td>1x</td><td colspan="3"></td><td colspan="2"></td><td>an..17</td><td>S</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2">MC</td><td colspan="3">MC</td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>16 13 037 000</td><td></td><td></td><td>Luogo</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td></td><td>1x</td><td colspan="3"></td><td colspan="2"></td><td>an..35</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2">MC</td><td colspan="3">MC</td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>16 15 000 000</td><td>30</td><td>Ubicazione delle merci</td><td></td><td></td><td>A [75]</td><td>A [75]</td><td colspan="2">A [75]</td><td colspan="3">A [75]</td><td></td><td>1x</td><td colspan="3"></td><td colspan="2"></td><td></td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2">MC</td><td colspan="3">MC</td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>16 15 036 000</td><td></td><td></td><td>UN/LOCODE</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td></td><td>1x</td><td colspan="3"></td><td colspan="2"></td><td>an..17</td><td>S</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2">MC</td><td colspan="3">MC</td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>16 15 045 000</td><td></td><td></td><td>Tipo di ubicazione</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td></td><td>1x</td><td colspan="3"></td><td colspan="2"></td><td>a1</td><td>S</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2">MC</td><td colspan="3">MC</td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>16 15 046 000</td><td></td><td></td><td>Qualificatore dell’identificazione</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td></td><td>1x</td><td colspan="3"></td><td colspan="2"></td><td>a1</td><td>S</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2">MC</td><td colspan="3">MC</td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>16 15 047 000</td><td></td><td></td><td>Ufficio doganale</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td></td><td>1x</td><td colspan="3"></td><td colspan="2"></td><td></td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2">MC</td><td colspan="3">MC</td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>16 15 047 001</td><td></td><td></td><td></td><td>Numero di riferimento</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td></td><td>1x</td><td colspan="3"></td><td colspan="2"></td><td>an8</td><td>S</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2">MC</td><td colspan="3">MC</td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>16 15 048 000</td><td></td><td></td><td>GNSS</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td></td><td>1x</td><td colspan="3"></td><td colspan="2"></td><td></td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2">MC</td><td colspan="3">MC</td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>16 15 048 049</td><td></td><td></td><td></td><td>Latitudine</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td></td><td>1x</td><td colspan="3"></td><td colspan="2"></td><td>an..17</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2">MC</td><td colspan="3">MC</td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>16 15 048 050</td><td></td><td></td><td></td><td>Longitudine</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td></td><td>1x</td><td colspan="3"></td><td colspan="2"></td><td>an..17</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2">MC</td><td colspan="3">MC</td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>16 15 051 000</td><td></td><td></td><td>Operatore economico</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td></td><td>1x</td><td colspan="3"></td><td colspan="2"></td><td></td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2">MC</td><td colspan="3">MC</td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>16 15 051 017</td><td></td><td></td><td></td><td>Numero di identificazione</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td></td><td>1x</td><td colspan="3"></td><td colspan="2"></td><td>an..17</td><td>S</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2">MC</td><td colspan="3">MC</td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>16 15 052 000</td><td></td><td></td><td>Numero di autorizzazione</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td></td><td>1x</td><td colspan="3"></td><td colspan="2"></td><td>an..35</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2">MC</td><td colspan="3">MC</td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>16 15 053 000</td><td></td><td></td><td>Identificativo supplementare</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td></td><td>1x</td><td colspan="3"></td><td colspan="2"></td><td>an..4</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2">MC</td><td colspan="3">MC</td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>16 15 018 000</td><td></td><td></td><td>Indirizzo</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td></td><td>1x</td><td colspan="3"></td><td colspan="2"></td><td></td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2">MC</td><td colspan="3">MC</td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>16 15 018 019</td><td></td><td></td><td></td><td>Via e numero civico</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td></td><td>1x</td><td colspan="3"></td><td colspan="2"></td><td>an..70</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2">MC</td><td colspan="3">MC</td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>16 15 018 020</td><td></td><td></td><td></td><td>Paese</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td></td><td>1x</td><td colspan="3"></td><td colspan="2"></td><td>a2</td><td>S</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2">MC</td><td colspan="3">MC</td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>16 15 018 021</td><td></td><td></td><td></td><td>Codice postale</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td></td><td>1x</td><td colspan="3"></td><td colspan="2"></td><td>an..17</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2">MC</td><td colspan="3">MC</td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>16 15 018 022</td><td></td><td></td><td></td><td>Città</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td></td><td>1x</td><td colspan="3"></td><td colspan="2"></td><td>an..35</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2">MC</td><td colspan="3">MC</td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>16 15 081 000</td><td></td><td></td><td>Indirizzo codice postale</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td></td><td>1x</td><td colspan="3"></td><td colspan="2"></td><td></td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2">MC</td><td colspan="3">MC</td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>16 15 081 020</td><td></td><td></td><td></td><td>Paese</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td></td><td>1x</td><td colspan="3"></td><td colspan="2"></td><td>a2</td><td>S</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2">MC</td><td colspan="3">MC</td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>16 15 081 021</td><td></td><td></td><td></td><td>Codice postale</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td></td><td>1x</td><td colspan="3"></td><td colspan="2"></td><td>an..17</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2">MC</td><td colspan="3">MC</td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>16 15 081 025</td><td></td><td></td><td></td><td>Numero civico</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td></td><td>1x</td><td colspan="3"></td><td colspan="2"></td><td>an..35</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2">MC</td><td colspan="3">MC</td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>16 15 074 000</td><td></td><td></td><td>Persona di contatto</td><td></td><td>C</td><td>C</td><td colspan="2">C</td><td colspan="3">C</td><td></td><td>9x</td><td colspan="3"></td><td colspan="2"></td><td></td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2">MC</td><td colspan="3">MC</td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>16 15 074 016</td><td></td><td></td><td></td><td>Nome</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td></td><td>1x</td><td colspan="3"></td><td colspan="2"></td><td>an..70</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2">MC</td><td colspan="3">MC</td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>16 15 074 075</td><td></td><td></td><td></td><td>Numero di telefono</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td></td><td>1x</td><td colspan="3"></td><td colspan="2"></td><td>an..35</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2">MC</td><td colspan="3">MC</td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>16 15 074 076</td><td></td><td></td><td></td><td>Indirizzo di posta elettronica</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td></td><td>1x</td><td colspan="3"></td><td colspan="2"></td><td>an..256</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2">MC</td><td colspan="3">MC</td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>16 17 000 000</td><td>Nuovo</td><td>Itinerario vincolante</td><td></td><td></td><td>A</td><td>A</td><td colspan="2"></td><td colspan="3"></td><td>1x</td><td></td><td colspan="3"></td><td colspan="2"></td><td>n1</td><td>S</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td colspan="21">Gruppo 17 – Uffici doganali</td></tr>
+<tr><td>17 03 000 000</td><td>NUOVO</td><td>Ufficio doganale di partenza</td><td></td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td>1x</td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2">D</td><td colspan="3">D</td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>17 03 001 000</td><td></td><td></td><td>Numero di riferimento</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td>1x</td><td></td><td colspan="3"></td><td colspan="2"></td><td>an8</td><td>S</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2">D</td><td colspan="3">D</td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>17 04 000 000</td><td>51</td><td>Ufficio doganale di transito</td><td></td><td></td><td>A</td><td>A</td><td colspan="2"></td><td colspan="3"></td><td>9x</td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>17 04 001 000</td><td></td><td></td><td>Numero di riferimento</td><td></td><td>A</td><td>A</td><td colspan="2"></td><td colspan="3"></td><td>1x</td><td></td><td colspan="3"></td><td colspan="2"></td><td>an8</td><td>S</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>17 05 000 000</td><td>53</td><td>Ufficio doganale di destinazione</td><td></td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td>1x</td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2">D</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>17 05 001 000</td><td></td><td></td><td>Numero di riferimento</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td>1x</td><td></td><td colspan="3"></td><td colspan="2"></td><td>an8</td><td>S</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2">D</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>17 06 000 000</td><td>Nuovo</td><td>Ufficio doganale di uscita per il transito</td><td></td><td></td><td>A</td><td>A</td><td colspan="2"></td><td colspan="3"></td><td>9x</td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>17 06 001 000</td><td></td><td></td><td>Numero di riferimento</td><td></td><td>A</td><td>A</td><td colspan="2"></td><td colspan="3"></td><td>1x</td><td></td><td colspan="3"></td><td colspan="2"></td><td>an8</td><td>S</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td colspan="21">Gruppo 18 – Identificazione delle merci</td></tr>
+<tr><td>18 01 000 000</td><td>38</td><td>Massa netta</td><td></td><td></td><td>A</td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2">1x</td><td>n..16,6</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>HI</td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>18 04 000 000</td><td>35</td><td>Massa lorda</td><td></td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td></td><td></td><td colspan="3">1x</td><td colspan="2">1x</td><td>n..16,6</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>HC HI</td><td>HC HI</td><td colspan="2">HC HI</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>18 05 000 000</td><td>31</td><td>Descrizione delle merci</td><td></td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2">1x</td><td>an..512</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>HI</td><td>HI</td><td colspan="2">HI</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>18 06 000 000</td><td>Nuovo</td><td>Imballaggio</td><td></td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2">99x</td><td></td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>HI</td><td>HI</td><td colspan="2">HI</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>18 06 003 000</td><td>31</td><td></td><td>Tipo di colli</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2">1x</td><td>an2</td><td>S</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>HI</td><td>HI</td><td colspan="2">HI</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>18 06 004 000</td><td>31</td><td></td><td>Numero di colli</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2">1x</td><td>n..8</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>HI</td><td>HI</td><td colspan="2">HI</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>18 06 054 000</td><td>31</td><td></td><td>Marchi di spedizione</td><td></td><td>A [8]</td><td>A [8]</td><td colspan="2">A [8]</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2">1x</td><td>an..512</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>HI</td><td>HI</td><td colspan="2">HI</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>18 08 000 000</td><td>31</td><td>Codice CUS</td><td></td><td></td><td>C</td><td>C</td><td colspan="2">C</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2">1x</td><td>an9</td><td>S</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>HI</td><td>HI</td><td colspan="2">HI</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>18 09 000 000</td><td></td><td>Codice delle merci</td><td></td><td></td><td>A</td><td>A</td><td colspan="2">C</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2">1x</td><td></td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>HI</td><td>HI</td><td colspan="2">HI</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>18 09 056 000</td><td>Nuovo</td><td></td><td>Codice della sottovoce del sistema armonizzato</td><td></td><td>A</td><td>A</td><td colspan="2">C</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2">1x</td><td>an6</td><td>S</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>HI</td><td>HI</td><td colspan="2">HI</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>18 09 057 000</td><td>33</td><td></td><td>Codice della nomenclatura combinata</td><td></td><td>B</td><td>B</td><td colspan="2">C</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2">1x</td><td>an2</td><td>S</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>HI</td><td>HI</td><td colspan="2">HI</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td colspan="21">Gruppo 19 – Informazioni sui trasporti (modi, mezzi e apparecchiature)</td></tr>
+<tr><td>19 01 000 000</td><td>19</td><td>Indicatore del container</td><td></td><td></td><td>A [61]</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td></td><td>1x</td><td colspan="3"></td><td colspan="2"></td><td>n1</td><td>S</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2">MC</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>19 03 000 000</td><td>25</td><td>Modo di trasporto fino alla frontiera</td><td></td><td></td><td>A [30] [61]</td><td>A [30]</td><td colspan="2"></td><td colspan="3">A</td><td></td><td>1x</td><td colspan="3"></td><td colspan="2"></td><td>n1</td><td>S</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>19 04 000 000</td><td>26</td><td>Modo di trasporto interno</td><td></td><td></td><td>B</td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td>1x</td><td colspan="3"></td><td colspan="2"></td><td>n1</td><td>S</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>19 05 000 000</td><td>18(1)</td><td>Mezzo di trasporto alla partenza</td><td></td><td></td><td>A [34] [35] [36]</td><td>A [34] [35] [36]</td><td colspan="2">A [34] [35] [36]</td><td colspan="3"></td><td></td><td>999x</td><td colspan="3">999x</td><td colspan="2"></td><td></td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC</td><td>MC HC</td><td colspan="2">MC HC</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>19 05 017 000</td><td></td><td></td><td>Numero di identificazione</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td></td><td>1x</td><td colspan="3">1x</td><td colspan="2"></td><td>an..35</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC</td><td>MC HC</td><td colspan="2">MC HC</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>19 05 061 000</td><td></td><td></td><td>Tipo di identificazione</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td></td><td>1x</td><td colspan="3">1x</td><td colspan="2"></td><td>n2</td><td>S</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC</td><td>MC HC</td><td colspan="2">MC HC</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>19 05 062 000</td><td>18(2)</td><td></td><td>Nazionalità</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td></td><td>1x</td><td colspan="3">1x</td><td colspan="2"></td><td>a2</td><td>S</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC</td><td>MC HC</td><td colspan="2">MC HC</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>19 07 000 000</td><td>Nuovo</td><td>Materiale di trasporto</td><td></td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td></td><td>9 999x</td><td colspan="3"></td><td colspan="2"></td><td></td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2">MC</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>19 07 044 000</td><td></td><td></td><td>Riferimento delle merci</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td></td><td>9 999x</td><td colspan="3"></td><td colspan="2"></td><td>n..5</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2">MC</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>19 07 063 000</td><td>31</td><td></td><td>Numero di identificazione del container</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td></td><td>1x</td><td colspan="3"></td><td colspan="2"></td><td>an..17</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2">MC</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>19 08 000 000</td><td>Nuovo</td><td>Mezzo di trasporto attivo alla frontiera</td><td></td><td></td><td>A [34] [35] [36] [61] [70] [71]</td><td>A [34] [35] [36] [61] [70] [71]</td><td colspan="2"></td><td colspan="3">A [34] [35] [36] [70] [71]</td><td></td><td>9x</td><td colspan="3"></td><td colspan="2"></td><td></td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2"></td><td colspan="3">MC</td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>19 08 000 047</td><td></td><td></td><td>Numero di riferimento dell’ufficio doganale alla frontiera</td><td></td><td>A</td><td>A</td><td colspan="2"></td><td colspan="3">A</td><td></td><td>1x</td><td colspan="3"></td><td colspan="2"></td><td>an8</td><td>S</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2"></td><td colspan="3">MC</td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>19 08 017 000</td><td>21(1)</td><td></td><td>Numero di identificazione</td><td></td><td>A</td><td>A</td><td colspan="2"></td><td colspan="3">A</td><td></td><td>1x</td><td colspan="3"></td><td colspan="2"></td><td>an..35</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2"></td><td colspan="3">MC</td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>19 08 061 000</td><td></td><td></td><td>Tipo di identificazione</td><td></td><td>A</td><td>A</td><td colspan="2"></td><td colspan="3">A</td><td></td><td>1x</td><td colspan="3"></td><td colspan="2"></td><td>n2</td><td>S</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2"></td><td colspan="3">MC</td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>19 08 062 000</td><td>21(2)</td><td></td><td>Nazionalità</td><td></td><td>A</td><td>A</td><td colspan="2"></td><td colspan="3">A</td><td></td><td>1x</td><td colspan="3"></td><td colspan="2"></td><td>a2</td><td>S</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2"></td><td colspan="3">MC</td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>19 02 000 000</td><td></td><td></td><td>Numero di riferimento del trasporto</td><td></td><td>B</td><td>B</td><td colspan="2"></td><td colspan="3">B</td><td></td><td>1x</td><td colspan="3"></td><td colspan="2"></td><td>an..17</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2"></td><td colspan="3">MC</td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>19 10 000 000</td><td>D</td><td>Sigilli</td><td></td><td></td><td>A</td><td>A</td><td colspan="2">A [65]</td><td colspan="3"></td><td></td><td>99x</td><td colspan="3"></td><td colspan="2"></td><td></td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2">MC</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>19 10 068 000</td><td></td><td></td><td>Numero di sigilli</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td></td><td>1x \*)</td><td colspan="3"></td><td colspan="2"></td><td>n..4</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2">MC</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>19 10 015 000</td><td></td><td></td><td>Identificativo</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td></td><td>1x</td><td colspan="3"></td><td colspan="2"></td><td>an..20</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2">MC</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td colspan="21">Gruppo 99 – Altri dati (dati statistici, garanzie, dati relativi alle tariffe)</td></tr>
+<tr><td>99 02 000 000</td><td>52</td><td>Tipo di garanzia</td><td></td><td></td><td>A</td><td>A</td><td colspan="2"></td><td colspan="3"></td><td>9x</td><td></td><td colspan="3"></td><td colspan="2"></td><td>an1</td><td>S</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>99 03 000 000</td><td>52</td><td>Riferimento della garanzia</td><td></td><td></td><td>A</td><td>A</td><td colspan="2"></td><td colspan="3"></td><td>99x</td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>99 03 069 000</td><td></td><td></td><td>NRG (Numero di riferimento della garanzia)</td><td></td><td>A</td><td>A</td><td colspan="2"></td><td colspan="3"></td><td>1x</td><td></td><td colspan="3"></td><td colspan="2"></td><td>an..24</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>99 03 070 000</td><td></td><td></td><td>Codice di accesso</td><td></td><td>A</td><td>A</td><td colspan="2"></td><td colspan="3"></td><td>1x</td><td></td><td colspan="3"></td><td colspan="2"></td><td>an..4</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>99 03 012 000</td><td></td><td></td><td>Valuta</td><td></td><td>A</td><td>A</td><td colspan="2"></td><td colspan="3"></td><td>1x</td><td></td><td colspan="3"></td><td colspan="2"></td><td>a3</td><td>S</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>99 03 071 000</td><td></td><td></td><td>Importo da coprire</td><td></td><td>A</td><td>A</td><td colspan="2"></td><td colspan="3"></td><td>1x</td><td></td><td colspan="3"></td><td colspan="2"></td><td>n..16,2</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>99 03 073 000</td><td></td><td>Altro riferimento della garanzia</td><td></td><td></td><td>A</td><td>A</td><td colspan="2"></td><td colspan="3"></td><td>9x</td><td></td><td colspan="3"></td><td colspan="2"></td><td>an..35</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td></tr>
 </table>
 
-\2. Il secondo elemento (an..35):
+\*) La cardinalità per il numero di sigilli deve essere intesa in relazione al materiale di trasporto, vale a dire 1x per container.
+
+### Capo II: Note
+
+<table>
+<tr><th>Numero della nota</th><th>Descrizione della nota</th></tr>
+<tr><td>[6]</td><td>Nei casi in cui è fornito il numero EORI o il numero di identificazione unico di un paese di transito comune o di un paese terzo riconosciuto dall’ufficio doganale di partenza non è necessario fornire nome e indirizzo.</td></tr>
+<tr><td>[8]</td><td>Questa informazione è comunicata solo se disponibile.</td></tr>
+<tr><td>[30]</td><td>I paesi possono derogare a tale requisito per i modi di trasporto diversi dalla ferrovia nel caso in cui il movimento di transito non attraversi la frontiera esterna delle parti contraenti.</td></tr>
+<tr><td>[34]</td><td>Non utilizzare in caso di spedizione mediante installazioni fisse.</td></tr>
+<tr><td>[35]</td><td>Se le merci sono trasportate con unità di trasporto multimodale, quali container, casse mobili e semirimorchi, le autorità doganali possono autorizzare il titolare del regime di transito a non fornire questa informazione se la situazione logistica relativa al punto di partenza non permette di fornire l’identità e la nazionalità del mezzo di trasporto al momento in cui le merci sono svincolate per il transito, a condizione che le unità di trasporto multimodale rechino numeri unici e che tali numeri siano indicati nel dato 19 07 063 000 Numero di identificazione del container</td></tr>
+<tr><td>[36]</td><td>Nei seguenti casi i paesi esonerano dall’obbligo di inserire tale informazione nella dichiarazione di transito presentata all’ufficio doganale di partenza in relazione ai mezzi di trasporto sui quali le merci sono caricate direttamente: quando la situazione logistica non consente di fornire tale dato e il titolare del regime di transito ha lo status di AEOC nell’Unione o uno status analogo in un paese di transito comune, e quando le pertinenti informazioni possono essere rintracciate se necessario dalle autorità doganali mediante le scritture del titolare del regime di transito.</td></tr>
+<tr><td>[60]</td><td>Questo dato deve essere fornito quando esiste un’autorizzazione a norma dell’articolo 55 dell’appendice I.</td></tr>
+<tr><td>[61]</td><td>Questo dato è facoltativo se la dichiarazione è presentata prima della presentazione delle merci.</td></tr>
+<tr><td>[65]</td><td>Tali informazioni sono fornite soltanto se l’autorità doganale ha deciso di sigillare le merci.</td></tr>
+<tr><td>[70]</td><td>Da non utilizzare nel caso in cui non sia dichiarato nessun ufficio doganale di transito (dato 17 04 000 000).</td></tr>
+<tr><td>[71]</td><td>Tali informazioni non sono fornite se sono uguali a quelle indicate per il mezzo di trasporto alla partenza (dato 19 05 000 000).</td></tr>
+<tr><td>[75]</td><td>Deve essere compilato solamente se lo prevede la legislazione delle parti contraenti.</td></tr>
+</table>
+
+### Titolo III: Note e codici relativi ai requisiti comuni in materia di dati per una dichiarazione di transito
+
+Il termine «tipo/lunghezza» nella spiegazione relativa a un attributo precisa le prescrizioni in materia di tipo e di lunghezza del dato. I codici relativi al tipo di dato sono i seguenti:
+
+Gruppo 11 – Informazioni del messaggio (inclusi i codici dei regimi)
+
+11 01 000 000 Tipo di dichiarazione
+
+Inserire il codice pertinente
+
+I codici da utilizzare sono:
+
+<table>
+<tr><th>Codice</th><th>Descrizione</th><th>Serie di dati nella tabella relativa ai requisiti in materia di dati nel titolo II del presente allegato</th></tr>
+<tr><td>C</td><td>Merci unionali non vincolate a un regime di transito nell’ambito dell’applicazione dell’articolo 55, paragrafo 1, lettera h), dell’appendice I.</td><td>D3</td></tr>
+<tr><td>T</td><td>Spedizioni miste comprendenti merci che devono essere vincolate al regime T1 e merci che devono essere vincolate al regime T2, disciplinate dall’articolo 28 dell’appendice I.</td><td>D1, D2</td></tr>
+<tr><td>T1</td><td>Merci non aventi la posizione doganale di merci unionali che sono vincolate al regime di transito.</td><td>D1, D2, D3</td></tr>
+<tr><td>T2</td><td>Merci aventi la posizione doganale di merci unionali che sono vincolate al regime di transito.</td><td>D1, D2, D3</td></tr>
+<tr><td>T2F</td><td>Merci aventi la posizione doganale di merci unionali che sono trasferite da una parte del territorio doganale dell’Unione in cui non si applicano le disposizioni della direttiva 2006/112/CE o della direttiva 2008/118/CE a un paese di transito comune.</td><td>D1, D2, D3</td></tr>
+<tr><td>TD</td><td>Merci già vincolate a un regime di transito nell’ambito dell’applicazione dell’articolo 55, paragrafo 1, lettera h), dell’appendice I.</td><td>D3</td></tr>
+<tr><td>X</td><td>Merci unionali la cui esportazione è stata conclusa e l’uscita confermata e che non sono vincolate a un regime di transito nell’ambito dell’applicazione dell’articolo 55, paragrafo 1, lettera h), dell’appendice I.</td><td>D3</td></tr>
+</table>
+
+11 02 000 000 Tipo di dichiarazione supplementare
+
+Inserire il codice pertinente
+
+I codici da utilizzare sono:
+
+<table>
+<tr><th>A</th><th>per una dichiarazione doganale normale (ai sensi degli articoli 25 e 26 dell’appendice I)</th></tr>
+<tr><td>D</td><td>per la presentazione di una dichiarazione doganale normale (del tipo classificabile come A) conformemente all’articolo 29 *bis* dell’appendice I</td></tr>
+</table>
+
+11 03 000 000 Numero di articolo
+
+Numero dell’articolo contenuto nella dichiarazione, qualora vi sia più di un articolo.
+
+11 07 000 000 Garanzia
+
+Utilizzando i codici pertinenti indicare se la dichiarazione è combinata con una dichiarazione sommaria di uscita (EXS) o una dichiarazione sommaria di entrata (ENS) in conformità della normativa sulle misure di sicurezza delle rispettive parti contraenti.
+
+I codici da utilizzare sono:
+
+<table>
+<tr><th>Codice</th><th>Descrizione</th><th>Spiegazione</th></tr>
+<tr><td>0</td><td>No</td><td>La dichiarazione non è combinata con una dichiarazione sommaria di uscita o una dichiarazione sommaria di entrata.</td></tr>
+<tr><td>1</td><td>ENS</td><td>La dichiarazione è combinata con una dichiarazione sommaria di entrata</td></tr>
+<tr><td>2</td><td>EXS</td><td>La dichiarazione è combinata con una dichiarazione sommaria di uscita.</td></tr>
+<tr><td>3</td><td>ENS e EXS</td><td>La dichiarazione è combinata con una dichiarazione sommaria di uscita e una dichiarazione sommaria di entrata.</td></tr>
+</table>
+
+11 08 000 000 Indicatore di serie di dati ridotta
+
+Utilizzando i codici pertinenti indicare se la dichiarazione contiene la serie di dati ridotta.
+
+I codici da utilizzare sono:
+
+<table>
+<tr><td>0</td><td>No (le merci non sono dichiarate utilizzando una serie di dati ridotta)</td></tr>
+<tr><td>1</td><td>Sì (le merci sono dichiarate utilizzando una serie di dati ridotta)</td></tr>
+</table>
+
+Gruppo 12 – Riferimenti a messaggi, documenti, certificati e autorizzazioni
+
+12 01 000 000 Documento precedente
+
+Indicare le informazioni relative al documento precedente.
+
+Per gli Stati membri dell’Unione europea – Inserire informazioni sulla cancellazione delle merci riportate nella dichiarazione interessata in relazione alla conclusione della custodia temporanea. Tra le informazioni devono figurare i quantitativi cancellati e la rispettiva unità di misura.
+
+12 01 001 000 Numero di riferimento
+
+Indicare il riferimento della custodia temporanea o del precedente regime doganale o dei corrispondenti documenti doganali.
+
+Per gli Stati membri dell’Unione europea – Se l’esportazione è seguita dal transito, indicare l’MRN della dichiarazione di esportazione.
+
+I codici da utilizzare sono:
 
 Inserire il numero di identificazione del documento o altro riferimento riconoscibile.
 
@@ -6466,18 +6822,18 @@ Se l’MRN è indicato come documento precedente, il numero di riferimento deve 
 
 <table>
 <tr><th>Campo</th><th>Contenuto</th><th>Formato</th><th>Esempi</th></tr>
-<tr><td>1</td><td>Ultime due cifre dell’anno di accettazione formale della dichiarazione (AA)</td><td>n2</td><td>15</td></tr>
-<tr><td>2</td><td>Identificativo del paese in cui è presentata la dichiarazione di transito (codice paese alpha 2)</td><td>a2</td><td>RO</td></tr>
-<tr><td>3</td><td>Identificativo unico del messaggio per anno e per paese</td><td>an12</td><td>9876AB889012</td></tr>
+<tr><td>1</td><td>Ultime due cifre dell’anno di accettazione formale della dichiarazione (AA)</td><td>n2</td><td>21</td></tr>
+<tr><td>2</td><td>Identificativo del paese nel quale è stata presentata la dichiarazione/notifica (codice paese di cui alla nota introduttiva 8 numero 3)</td><td>a2</td><td>RO</td></tr>
+<tr><td>3</td><td>Identificativo unico del messaggio per anno e per paese</td><td>an 12</td><td>9876AB889012</td></tr>
 <tr><td>4</td><td>Identificativo del regime</td><td>a1</td><td>B</td></tr>
-<tr><td>5</td><td>Cifra di controllo</td><td>an1</td><td>5</td></tr>
+<tr><td>5</td><td>Cifra di controllo</td><td>an1</td><td>1</td></tr>
 </table>
 
 Campi 1 e 2 come illustrato sopra.
 
-Nel campo 3 deve figurare un identificativo del messaggio di cui trattasi. Le modalità di compilazione di tale campo sono stabilite dai singoli paesi; tuttavia ad ogni messaggio trattato nell’anno nel paese interessato deve essere attribuito un numero unico in relazione al regime in questione.
+Nel campo 3 deve figurare un identificativo del messaggio di cui trattasi. Le modalità di compilazione di tale campo sono stabilite dalle singole amministrazioni nazionali; tuttavia ad ogni messaggio trattato nell’anno nel paese interessato deve essere attribuito un numero unico in relazione al regime in questione.
 
-I paesi che desiderino includere nell’MRN il numero di riferimento dell’ufficio doganale competente possono utilizzare sino ai primi 6 caratteri per rappresentarlo.
+Le amministrazioni nazionali che desiderino includere nell’MRN il numero di riferimento dell’ufficio doganale competente possono utilizzare sino ai primi 6 caratteri per rappresentarlo.
 
 Il campo 4 deve essere compilato con l’identificativo del regime stabilito nella tabella seguente.
 
@@ -6495,217 +6851,1395 @@ Codici da utilizzare nel campo 4 Identificativo del regime:
 <tr><td>J</td><td>Solo dichiarazione di transito</td></tr>
 <tr><td>K</td><td>Dichiarazione di transito e dichiarazione sommaria di uscita</td></tr>
 <tr><td>L</td><td>Dichiarazione di transito e dichiarazione sommaria di entrata</td></tr>
-<tr><td>M</td><td>Prova della posizione doganale di merci unionali</td></tr>
+<tr><td>M</td><td>Dichiarazione di transito e dichiarazione sommaria di uscita e dichiarazione sommaria di entrata</td></tr>
+<tr><td>P</td><td>Prova della posizione doganale di merci unionali/Manifesto doganale delle merci</td></tr>
 <tr><td>R</td><td>Solo dichiarazione di importazione</td></tr>
 <tr><td>S</td><td>Dichiarazione di importazione e dichiarazione sommaria di entrata</td></tr>
 <tr><td>T</td><td>Solo dichiarazione sommaria di entrata</td></tr>
 <tr><td>U</td><td>Dichiarazione di custodia temporanea</td></tr>
+<tr><td>V</td><td>Introduzione di merci in relazione a territori fiscali speciali</td></tr>
 <tr><td>W</td><td>Dichiarazione di custodia temporanea e dichiarazione sommaria di entrata</td></tr>
+<tr><td>Z</td><td>Notifica di arrivo</td></tr>
 </table>
 
-\3. Il terzo elemento (an..5):
+12 01 002 000 Tipo
 
-Il numero di articolo delle merci interessate quale fornito nel dato 1/6. Numero di articolo nel precedente documento.
+Indicare il tipo di documento utilizzando il codice pertinente.
 
-Esempio:
+I codici da utilizzare sono:
 
-l’articolo interessato della dichiarazione era al 5° posto nel documento di transito T1 (documento precedente) al quale l’ufficio di destinazione ha assegnato il numero «238544». Il codice corrispondente è pertanto «821-238544-5». («821» per la procedura di transito, «238544» per il numero di registrazione del documento (o l’MRN per le operazioni NCTS) e «5» per il numero dell’articolo).
+I codici sono reperibili nella banca dati TARIC.
 
-Se, in caso di dichiarazioni di transito su supporto cartaceo, occorre inserire più di un riferimento e i paesi prevedono l’utilizzo di informazioni codificate, si deve utilizzare il codice 00200 definito nel dato 2/2 Menzioni speciali.
+12 01 003 000 Tipo di colli
 
-2/2. Menzioni speciali
+Indicare il codice che specifica il tipo di colli pertinente per la cancellazione del numero di colli.
 
-Le menzioni speciali che riguardano l’ambito doganale sono codificate con un codice numerico a cinque cifre. Il codice viene inserito dopo la menzione considerata, a meno che la legislazione delle parti contraenti non preveda che il codice sostituisca il testo.
+I codici da utilizzare sono:
 
-I codici «00200» e «00300» sono utilizzati solo per le dichiarazioni di transito su supporto cartaceo, se del caso.
+Codice del tipo di collo di cui alla nota introduttiva 8 numero 1.
 
-I codici «20100», «20200» e «20300» sono utilizzati per le dichiarazioni di transito su supporto cartaceo e in formato elettronico, se del caso.
+12 01 004 000 Numero di colli
+
+Inserire il pertinente numero di cancellazione dei colli.
+
+12 01 005 000 Unità di misura e qualificatore
+
+Indicare il qualificatore e l’unità di misura di cancellazione pertinenti.
+
+I codici e i relativi formati da utilizzare sono:
+
+Devono essere utilizzati le unità di misura e i qualificatori definiti nella TARIC. In tal caso il formato delle unità di misura e dei qualificatori è an..4, ma non sarà mai un formato n. 4, riservato alle unità di misura e ai qualificatori nazionali.
+
+Se nella TARIC non esistono tali unità di misura e qualificatori, possono essere utilizzati unità di misura e qualificatori nazionali. Il loro formato è n. 4.
+
+12 01 006 000 Quantità
+
+Indicare i quantitativi cancellati pertinenti.
+
+12 01 007 000 Identificatore dell’articolo
+
+Inserire il numero dell’articolo di merci come dichiarato nel documento precedente.
+
+12 01 079 000 Menzioni speciali
+
+Inserire informazioni complementari concernenti il documento precedente.
+
+Questo dato consente all’operatore economico di fornire eventuali informazioni complementari relative al documento precedente.
+
+12 02 000 000 Informazioni supplementari:
+
+Utilizzare questo dato per informazioni per le quali la legislazione delle parti contraenti non specifica il campo di inserimento.
+
+12 02 008 000 Codice
+
+Indicare il codice pertinente e, se del caso, il codice fornito dal paese interessato.
+
+I codici e i relativi formati da utilizzare sono:
+
+Le informazioni supplementari che riguardano l’ambito doganale sono codificate con un codice numerico a cinque cifre:
+
+Codice 0xxxx – categoria generale
+
+Codice 2xxxx – transito
+
+I codici «00200», «20100», «20200» e «20300» sono utilizzati per le dichiarazioni di transito su supporto cartaceo e in formato elettronico, se del caso.
 
 <table>
-<tr><th>Base giuridica</th><th>Oggetto</th><th>Menzioni speciali</th><th>Codice</th></tr>
-<tr><td>Allegato B6 *bis*, titolo III</td><td>Numerosi documenti e parti</td><td>«Vari»</td><td>00200</td></tr>
-<tr><td>Allegato B6 *bis*, titolo III</td><td>Identità tra dichiarante e speditore</td><td>«Speditore»</td><td>00300</td></tr>
-<tr><td>Articolo 18 della convenzione</td><td>Esportazione da una parte contraente o dall’Unione soggetta a restrizioni</td><td></td><td>20100</td></tr>
-<tr><td>Articolo 18 della convenzione</td><td>Esportazione da una parte contraente o dall’Unione soggetta a dazi</td><td></td><td>20200</td></tr>
-<tr><td>Articolo 18 della convenzione</td><td>Esportazione</td><td>«Esportazione»</td><td>20300</td></tr>
+<tr><th>Codice</th><th>Base giuridica</th><th>Oggetto</th><th>Informazioni supplementari</th></tr>
+<tr><td>00200</td><td>Allegato A1 *bis*, titolo III</td><td>Numerosi documenti e parti</td><td>«Vari»</td></tr>
+<tr><td>20100</td><td>Articolo 18 della convenzione</td><td>Esportazione da una parte contraente o dall’Unione soggetta a restrizioni.</td><td></td></tr>
+<tr><td>20200</td><td>Articolo 18 della convenzione</td><td>Esportazione da una parte contraente o dall’Unione soggetta a dazi.</td><td></td></tr>
+<tr><td>20300</td><td>Articolo 18 della convenzione</td><td>Esportazione</td><td>«Esportazione»</td></tr>
 </table>
 
-2/3. Documenti presentati, certificati e autorizzazioni, riferimenti complementari
+I paesi possono definire codici nazionali.
 
-- a) I documenti, i certificati e le autorizzazioni internazionali da una parte contraente o da un paese terzo che sono presentati a sostegno della dichiarazione di transito e i riferimenti complementari sono indicati utilizzando un codice definito nel titolo II seguito da un numero di identificazione o da un altro riferimento riconoscibile. L’elenco di documenti, certificati, autorizzazioni, dei riferimenti complementari e dei rispettivi codici figura nella base dati TARIC.
-- b) I documenti, i certificati e le autorizzazioni nazionali presentati a sostegno della dichiarazione di transito e i riferimenti complementari sono indicati utilizzando un codice definito nel titolo II, eventualmente seguito da un numero di identificazione o da un altro riferimento riconoscibile. I quattro caratteri che formano il codice corrispondono alla nomenclatura propria di tale paese.
+I codici nazionali devono avere il formato a1an4.
 
-3/1. Esportatore
+12 02 009 000 Testo
 
-In caso di collettame, se si utilizzano dichiarazioni di transito su carta e i paesi prevedono l’uso di informazioni codificate, si deve utilizzare il codice 00200 definito nel dato 2/2 Menzioni speciali.
+Se necessario, può essere fornito un testo esplicativo relativo al codice dichiarato.
 
-3/2. Numero di identificazione dell’esportatore
+12 03 000 000 Documento giustificativo
 
-Per gli Stati membri dell’Unione europea, indicare il numero EORI nell’Unione o il numero di identificazione unico di un paese terzo riconosciuto dall’Unione.
+12 03 001 000 Numero di riferimento
 
-Per i paesi di transito comune, indicare: il numero EORI nell’Unione e il numero di identificazione dell’operatore in un paese di transito comune. Se il numero EORI non è stato attribuito, indicare solo il numero di identificazione dell’operatore in un paese di transito comune.
+Identificazione o numero di riferimento di documenti o certificati unionali o internazionali delle parti contraenti prodotti a supporto della dichiarazione.
 
-3/9. Destinatario
+Utilizzando i codici pertinenti, inserire le informazioni previste dalle norme specifiche applicabili unitamente ai dati di riferimento dei documenti presentati a supporto della dichiarazione.
 
-In caso di collettame, se si utilizzano dichiarazioni di transito su carta e i paesi prevedono l’uso di informazioni codificate, si deve utilizzare il codice 00200 definito nel dato 2/2 Menzioni speciali.
+Identificazione o numero di riferimento di documenti o certificati nazionali prodotti a supporto della dichiarazione.
 
-3/10. Numero di identificazione del destinatario
+12 03 002 000 Tipo
 
-Per gli Stati membri dell’Unione europea, indicare il numero EORI nell’Unione o il numero di identificazione unico di un paese terzo riconosciuto dall’Unione.
+Utilizzando i codici pertinenti indicare il tipo di documento.
 
-Per i paesi di transito comune, indicare: il numero EORI nell’Unione e il numero di identificazione dell’operatore in un paese di transito comune. Se il numero EORI non è stato attribuito, indicare solo il numero di identificazione dell’operatore in un paese di transito comune.
+Inserire informazioni sulla cancellazione delle merci riportate nella dichiarazione interessata in relazione ai titoli e certificati di importazione ed esportazione.
 
-3/20. Numero di identificazione del rappresentante
+I codici e i relativi formati da utilizzare sono:
 
-Per gli Stati membri dell’Unione europea, indicare il numero EORI nell’Unione o il numero di identificazione unico di un paese terzo riconosciuto dall’Unione.
+Documenti, certificati e autorizzazioni internazionali delle parti contraenti prodotti a supporto della dichiarazione di transito devono essere inseriti nel formato a1an3. L’elenco di documenti, certificati, autorizzazioni e i rispettivi codici figurano nella banca dati TARIC.
 
-Per i paesi di transito comune, indicare: il numero EORI nell’Unione e il numero di identificazione dell’operatore in un paese di transito comune. Se il numero EORI non è stato attribuito, indicare solo il numero di identificazione dell’operatore in un paese di transito comune.
+Documenti, certificati e autorizzazioni nazionali prodotti a supporto della dichiarazione di transito devono essere inseriti nel formato n1an3 (es. 2123, 34d5). I quattro caratteri che formano il codice corrispondono alla nomenclatura propria di tale paese.
 
-3/21. Codice di qualifica del rappresentante
+12 03 013 000 Numero di riga dell’articolo nel documento:
 
-Per designare la qualifica di rappresentante è necessario inserire uno dei seguenti codici (n1) prima del nome e dell’indirizzo completi:
+Indicare il numero progressivo dell’articolo nel documento giustificativo (ad esempio certificato, titolo, permesso, documento di entrata, ecc.) corrispondente all’articolo in questione.
 
-- 2 Rappresentante – rappresentanza diretta (il rappresentante doganale agisce in nome e per conto di un’altra persona)
-- 3 Rappresentante – rappresentanza indiretta (il rappresentante doganale agisce in nome proprio ma per conto di un’altra persona)
+12 03 079 000 Menzioni speciali
 
-Se è stampato su supporto cartaceo, il codice viene inserito tra parentesi quadre (es.: [2] o [3]).
+Inserire informazioni complementari concernenti il documento giustificativo.
 
-3/22. Titolare del regime di transito
+Questo dato consente all’operatore economico di fornire eventuali informazioni complementari relative al documento giustificativo.
 
-Per gli Stati membri dell’Unione europea, indicare il numero EORI nell’Unione o il numero di identificazione unico di un paese terzo riconosciuto dall’Unione.
+12 04 000 000 Riferimento aggiuntivo
 
-Per i paesi di transito comune, indicare: il numero EORI nell’Unione e il numero di identificazione dell’operatore in un paese di transito comune. Se il numero EORI non è stato attribuito, indicare solo il numero di identificazione dell’operatore in un paese di transito comune.
+12 04 001 000 Numero di riferimento
 
-3/37. Numero di identificazione degli altri attori della catena di approvvigionamento
+Numero di riferimento per eventuali dichiarazioni supplementari effettuate non coperte dal documento giustificativo, dal documento di trasporto o da informazioni aggiuntive.
 
-Questo dato è costituito da due elementi:
+12 04 002 000 Tipo
 
-\1. Codice ruolo
+Utilizzando i codici pertinenti, inserire i dati richiesti da eventuali norme specifiche applicabili.
+
+I codici e i relativi formati da utilizzare sono:
+
+I codici delle parti contraenti per i riferimenti aggiuntivi devono essere inseriti nel formato a1an3. L’elenco dei riferimenti aggiuntivi e i rispettivi codici figurano nella banca dati TARIC.
+
+I paesi possono definire codici nazionali. I codici nazionali dei riferimenti aggiuntivi devono essere inseriti nel formato n1an3, eventualmente seguito da un numero di identificazione o da un altro riferimento riconoscibile. I quattro caratteri che formano il codice corrispondono alla nomenclatura propria di tale paese.
+
+12 05 000 000 Documenti di trasporto
+
+Questo dato comprende il tipo e il riferimento del documento di trasporto.
+
+12 05 001 000 Numero di riferimento
+
+Per la colonna D3:
+
+Questo dato comprende il riferimento del documento di trasporto utilizzato come dichiarazione di transito.
+
+12 05 002 000 Tipo
+
+Utilizzando i codici pertinenti indicare il tipo di documento.
+
+I codici da utilizzare sono:
+
+I codici sono reperibili nella banca dati TARIC.
+
+12 08 000 000 Numero di riferimento/UCR
+
+Questa indicazione concerne il numero di riferimento unico della spedizione attribuito dalla persona interessata alla spedizione in causa.
+
+Può essere in forma di codici OMD (ISO 15459) o equivalenti. Esso fornisce accesso ai dati commerciali soggiacenti di interesse per le dogane.
+
+12 09 000 000 LRN (Numero di riferimento locale)
+
+Deve essere utilizzato il numero di riferimento locale (LRN). Esso è definito a livello nazionale ed assegnato dal dichiarante in accordo con le autorità competenti per identificare ogni singola dichiarazione.
+
+12 12 000 000 Autorizzazione
+
+12 12 001 000 Numero di riferimento
+
+Inserire il numero di riferimento di tutte le autorizzazioni necessarie per la dichiarazione e la notifica.
+
+12 12 002 000 Tipo
+
+Utilizzando i codici pertinenti indicare il tipo di documento.
+
+I codici da utilizzare sono:
+
+I codici sono reperibili nella banca dati TARIC.
+
+Gruppo 13 – Parti
+
+13 02 000 000 Speditore
+
+La parte che spedisce le merci come stipulato nel contratto di trasporto dalla persona che ha ordinato il trasporto.
+
+Questo dato deve essere fornito quando si tratta di una persona diversa dal dichiarante.
+
+13 02 016 000 Nome
+
+Indicare il nome completo e, se applicabile, la forma giuridica della parte.
+
+13 02 017 000 Numero di identificazione
+
+Inserire il numero EORI dello speditore o il numero di identificazione dell’operatore in un paese di transito comune.
+
+Se le agevolazioni sono concesse nell’ambito di un programma, riconosciuto dalla parte contraente interessata, di partenariato commerciale di un paese terzo, si indica il numero di identificazione unico del paese terzo che quest’ultimo ha comunicato alla parte contraente interessata. Tale numero può essere utilizzato ogniqualvolta il dichiarante ne è in possesso.
+
+I codici da utilizzare sono:
+
+La struttura del numero di identificazione unico del paese terzo comunicato alla parte contraente interessata è la seguente:
+
+<table>
+<tr><th>Campo</th><th>Contenuto</th><th>Formato</th></tr>
+<tr><td>1</td><td>Codice paese</td><td>a2</td></tr>
+<tr><td>2</td><td>Numero di identificazione unico rilasciato in un paese terzo</td><td>an..15</td></tr>
+</table>
+
+Codice paese: il codice paese di cui alla nota introduttiva 8 numero 3.
+
+13 02 018 000 Indirizzo:
+
+13 02 018 019 Via e numero civico
+
+Indicare il nome della via dell’indirizzo della parte e il numero dell’edificio o della struttura.
+
+13 02 018 020 Paese
+
+Inserire il codice del paese.
+
+I codici da utilizzare sono:
+
+Il codice paese di cui alla nota introduttiva 8 numero 3.
+
+Per i paesi di transito comune il codice XI è facoltativo.
+
+13 02 018 021 Codice postale:
+
+Indicare il codice postale pertinente per il relativo indirizzo.
+
+13 02 018 022 Città
+
+Indicare il nome della città dell’indirizzo della parte.
+
+13 02 074 000 Persona di contatto
+
+13 02 074 016 Nome
+
+Indicare il nome della persona di contatto.
+
+13 02 074 075 Numero di telefono
+
+Indicare il numero di telefono della persona di contatto.
+
+13 02 074 076 Indirizzo di posta elettronica
+
+Indicare l’indirizzo di posta elettronica della persona di contatto.
+
+13 03 000 000 Destinatario
+
+La parte a cui le merci sono effettivamente destinate.
+
+Questo dato e i relativi sottodati possono essere dichiarati a livello di HI fino all’aggiornamento dell’NCTS di cui all’allegato della decisione di esecuzione (UE) 2016/578 da tutte le parti contraenti.
+
+13 03 016 000 Nome
+
+Indicare il nome completo e, se applicabile, la forma giuridica della parte.
+
+13 03 017 000 Numero di identificazione
+
+Inserire il numero EORI o il numero di identificazione dell’operatore in un paese di transito comune.
+
+Se le agevolazioni sono concesse nell’ambito di un programma, riconosciuto dalla parte contraente interessata, di partenariato commerciale di un paese terzo, si indica il numero di identificazione unico del paese terzo che quest’ultimo ha comunicato alla parte contraente interessata. Tale numero può essere utilizzato ogniqualvolta il dichiarante ne è in possesso.
+
+I codici da utilizzare sono:
+
+Deve essere utilizzato il numero di identificazione quale definito nel dato 13 02 017 000 Speditore/Numero di identificazione.
+
+13 03 018 000 Indirizzo:
+
+13 03 018 019 Via e numero civico
+
+Indicare il nome della via dell’indirizzo della parte e il numero dell’edificio o della struttura.
+
+13 03 018 020 Paese
+
+Inserire il codice del paese.
+
+I codici da utilizzare sono:
+
+Il codice paese di cui alla nota introduttiva 8 numero 3.
+
+Per i paesi di transito comune il codice XI è facoltativo.
+
+13 03 018 021 Codice postale
+
+Indicare il codice postale pertinente per il relativo indirizzo.
+
+13 03 018 022 Città:
+
+Indicare il nome della città dell’indirizzo della parte.
+
+13 06 000 000 Rappresentante
+
+Questa informazione è richiesta se diversa dal dato 13 05 000 000 Dichiarante o, se del caso, dal dato 13 07 000 000 Titolare del regime di transito.
+
+13 06 017 000 Numero di identificazione
+
+Inserire il numero EORI della persona interessata o il numero di identificazione dell’operatore in un paese di transito comune.
+
+I codici da utilizzare sono:
+
+Deve essere utilizzato il numero di identificazione quale definito nel dato 13 02 017 000 Speditore/Numero di identificazione.
+
+13 06 030 000 Status
+
+Indicare il codice pertinente relativo alla qualifica del rappresentante.
+
+I codici da utilizzare sono:
+
+Per designare lo status del rappresentante è necessario inserire uno dei seguenti codici prima del nome completo:
+
+<table>
+<tr><td>2</td><td>Rappresentanza diretta (il rappresentante doganale agisce in nome e per conto di un’altra persona)</td></tr>
+<tr><td>3</td><td>Rappresentanza indiretta (il rappresentante doganale agisce in nome proprio ma per conto di un’altra persona)</td></tr>
+</table>
+
+Il codice 3 non è pertinente per i regimi doganali di transito.
+
+13 06 074 000 Persona di contatto
+
+13 06 074 016 Nome
+
+Indicare il nome della persona di contatto.
+
+13 06 074 075 Numero di telefono
+
+Indicare il numero di telefono della persona di contatto.
+
+13 06 074 076 Indirizzo di posta elettronica
+
+Indicare l’indirizzo di posta elettronica della persona di contatto.
+
+13 07 000 000 Titolare del regime di transito
+
+13 07 016 000 Nome
+
+Indicare il nome completo (persona o società) e l’indirizzo del titolare del regime di transito. Se del caso, indicare il nome completo (persona o società) del rappresentante autorizzato che presenta la dichiarazione di transito per conto del titolare del regime.
+
+13 07 017 000 Numero di identificazione
+
+Inserire il numero EORI del titolare del regime di transito o il numero di identificazione dell’operatore in un paese di transito comune.
+
+I codici da utilizzare sono:
+
+Deve essere utilizzato il numero di identificazione quale definito nel dato 13 02 017 000 Speditore/Numero di identificazione.
+
+13 07 018 000 Indirizzo:
+
+13 07 018 019 Via e numero civico
+
+Indicare il nome della via dell’indirizzo della parte e il numero dell’edificio o della struttura.
+
+13 07 018 020 Paese
+
+Inserire il codice del paese.
+
+I codici da utilizzare sono:
+
+Il codice paese di cui alla nota introduttiva 8 numero 3.
+
+13 07 018 021 Codice postale
+
+Indicare il codice postale pertinente per il relativo indirizzo.
+
+13 07 018 022 Città
+
+Indicare il nome della città dell’indirizzo della parte.
+
+13 07 074 000 Persona di contatto
+
+13 07 074 016 Nome
+
+Indicare il nome della persona di contatto.
+
+13 07 074 075 Numero di telefono
+
+Indicare il numero di telefono della persona di contatto.
+
+13 07 074 076 Indirizzo di posta elettronica
+
+Indicare l’indirizzo di posta elettronica della persona di contatto.
+
+13 14 000 000 Attore supplementare della catena di approvvigionamento
+
+È possibile indicare qui altri attori della catena di approvvigionamento al fine di dimostrare che l’intera catena di approvvigionamento è stata coperta da operatori economici titolari dello status di AEO.
+
+Se è utilizzata questa categoria di dati, occorre indicare il ruolo e il numero di identificazione, altrimenti questo dato è facoltativo.
+
+13 14 017 000 Numero di identificazione
+
+Il numero EORI o il numero di identificazione unico del paese terzo deve essere dichiarato quando tale numero è stato assegnato alla parte.
+
+I codici da utilizzare sono:
+
+Deve essere utilizzato il numero di identificazione quale definito nel dato 13 02 017 000 Speditore/Numero di identificazione.
+
+13 14 031 000 Ruolo
+
+Indicare il pertinente codice ruolo che specifica il ruolo degli attori supplementari della catena di approvvigionamento.
+
+I codici da utilizzare sono:
 
 Possono essere dichiarate le seguenti parti:
 
 <table>
 <tr><th>Codice ruolo</th><th>Parte</th><th>Descrizione</th></tr>
 <tr><td>CS</td><td>Consolidatore</td><td>Spedizioniere che combina singole piccole spedizioni in un’unica spedizione più grande (in un processo di consolidamento) che è inviata a una controparte la quale ripete in modo speculare l’attività del consolidatore dividendo la spedizione consolidata nelle sue componenti originali</td></tr>
-<tr><td>MF</td><td>Fabbricante</td><td>Parte che fabbrica le merci</td></tr>
 <tr><td>FW</td><td>Spedizioniere</td><td>Parte che organizza la spedizione di merci</td></tr>
+<tr><td>MF</td><td>Fabbricante</td><td>Parte che fabbrica le merci</td></tr>
 <tr><td>WH</td><td>Depositario</td><td>Parte che si assume la responsabilità delle merci entrate in un deposito</td></tr>
 </table>
 
-\2. N. di identificazione della parte
+Gruppo 16 – Luoghi/Paesi/Regioni
 
-La struttura del numero corrisponde alla struttura specificata per il dato 3/2 N. di identificazione dell’esportatore.
+16 03 000 000 Paese di destinazione
 
-5/6. Ufficio di destinazione (e paese)
+Indicare, mediante il codice pertinente, l’ultimo paese di destinazione delle merci.
 
-I codici da utilizzare (an8) hanno la seguente struttura:
+Il paese di ultima destinazione conosciuta è definito come l’ultimo paese nel quale devono essere consegnate le merci quale è noto al momento dello svincolo nell’ambito del regime doganale.
 
-- – i primi due caratteri (a2) individuano il paese con il codice paese specificato per il numero di identificazione dell’esportatore;
-- – i sei caratteri seguenti (an6) individuano l’ufficio del paese considerato. Si propone di adottare la struttura seguente:
+I codici da utilizzare sono:
 
-i primi tre caratteri (an3) rappresentano il codice UN/LOCODE[^annexu1-lvlu1-titIII-3] del nome del luogo, seguiti da una suddivisione alfanumerica nazionale (an3). Se non si utilizza questa suddivisione, è opportuno inserire «000».
+Il codice paese di cui alla nota introduttiva 8 numero 3.
 
-Esempio: BEBRU000 si scompone come segue: BE = ISO 3166 per Belgio; BRU = codice UN/LOCODE del nome del luogo per Bruxelles; 000 se la suddivisione non viene utilizzata.
+Per i paesi di transito comune il codice XI è facoltativo.
 
-5/23. Ubicazione delle merci
+16 06 000 000 Paese di spedizione
 
-Utilizzare i codici paesi ISO alpha 2 di cui al campo 1 del dato 3/1 Esportatore.
+Utilizzando il codice pertinente, indicare il paese dal quale le merci sono spedite/esportate.
 
-Per il tipo di luogo, utilizzare i codici indicati di seguito:
+I codici da utilizzare sono:
 
-- A Luogo designato
-- B Luogo autorizzato
-- C Luogo approvato
-- D Altro
+il codice paese di cui alla nota introduttiva 8 numero 3.
+
+16 12 000 000 Paese di transito della spedizione
+
+Questo dato è richiesto quando un itinerario vincolante è definito dall’ufficio doganale di partenza (si veda 16 17 000 000 Itinerario vincolante).
+
+Identificazione in ordine cronologico dei paesi attraverso i quali le merci transitano dal paese di partenza a quello di destinazione. Sono compresi anche il paese di partenza e quello di destinazione delle merci.
+
+16 12 020 000 Paese
+
+Inserire il o i codici paese pertinenti nella corretta sequenza del transito della spedizione.
+
+I codici da utilizzare sono:
+
+Il codice paese di cui alla nota introduttiva 8 numero 3.
+
+16 13 000 000 Luogo di carico
+
+Nome del porto marittimo, aeroporto, terminale merci, stazione ferroviaria o altro luogo in cui le merci sono caricate sul mezzo utilizzato per il loro trasporto, compreso il paese in cui è situato. Se disponibili, devono essere fornite informazioni codificate che permettano l’identificazione del luogo.
+
+Qualora non sia disponibile un codice UN/LOCODE per il luogo di cui trattasi, il codice paese è seguito dal nome del luogo con il massimo livello di precisione disponibile.
+
+16 13 020 000 Paese
+
+Se il codice UN/LOCODE non è disponibile, indicare il codice paese del luogo in cui le merci sono caricate sul mezzo di trasporto utilizzato per attraversare la frontiera della parte contraente.
+
+I codici da utilizzare sono:
+
+Se il luogo di carico non è codificato secondo il codice UN/LOCODE, il paese in cui è situato il luogo di carico è identificato con il codice paese di cui alla nota introduttiva 8 numero 3.
+
+16 13 036 000 UN/LOCODE
+
+Indicare il codice UN/LOCODE del luogo in cui le merci sono caricate sul mezzo di trasporto utilizzato per il loro trasporto per attraversare la frontiera della parte contraente.
+
+I codici da utilizzare sono:
+
+Codice UN/LOCODE di cui alla nota introduttiva 8 numero 4.
+
+16 13 037 000 Luogo
+
+Se il codice UN/LOCODE non è disponibile, indicare il nome del luogo in cui le merci sono caricate sul mezzo di trasporto utilizzato per il loro trasporto per attraversare la frontiera della parte contraente.
+
+16 15 000 000 Ubicazione delle merci
+
+Utilizzando i codici pertinenti, indicare il luogo in cui possono essere esaminate le merci. Il luogo deve essere indicato con precisione sufficiente da consentire alla dogana di effettuare il controllo fisico delle merci.
+
+In un dato momento deve essere utilizzato un solo tipo di ubicazione.
+
+16 15 036 000 UN/LOCODE
+
+Utilizzare i codici definiti nell’elenco di codici paese UN/LOCODE.
+
+I codici da utilizzare sono:
+
+Codice UN/LOCODE di cui alla nota introduttiva 8 numero 4.
+
+16 15 045 000 Tipo di ubicazione
+
+Indicare il codice pertinente specifico per il tipo di ubicazione.
+
+I codici da utilizzare sono:
+
+Per il tipo di ubicazione, utilizzare i codici indicati di seguito:
+
+<table>
+<tr><td>A</td><td>Luogo designato</td></tr>
+<tr><td>B</td><td>Luogo autorizzato</td></tr>
+<tr><td>C</td><td>Luogo approvato</td></tr>
+<tr><td>D</td><td>Altro</td></tr>
+</table>
+
+16 15 046 000 Qualificatore dell’identificazione
+
+Indicare il codice pertinente relativo all’identificazione dell’ubicazione. Sulla base dell’apposito qualificatore, deve essere fornito solo l’identificativo pertinente.
+
+I codici da utilizzare sono:
 
 Per l’identificazione del luogo utilizzare uno degli identificativi indicati di seguito:
 
 <table>
 <tr><th>Qualificatore</th><th>Identificativo</th><th>Descrizione</th></tr>
-<tr><td>U</td><td>UN/LOCODE</td><td>Utilizzare i codici definiti nell’elenco di codici paese UN/LOCODE</td></tr>
-<tr><td>V</td><td>Identificativo dell’ufficio doganale</td><td>Utilizzare i codici specificati nel dato 5/6 Ufficio di destinazione e paese</td></tr>
-<tr><td>W</td><td>Coordinate GPS</td><td>Gradi decimali con numeri negativi per sud e ovest. Esempi: 44.424896°/8.774792° o 50.838068°/ 4.381508°</td></tr>
-<tr><td>X</td><td>Il numero EORI nell’Unione o un numero di identificazione unico di un paese terzo riconosciuto dall’Unione o il numero di identificazione dell’operatore in un paese di transito comune</td><td>Utilizzare il codice di identificazione specificato nella descrizione del dato 3/2 Numero di identificazione dell’esportatore. Se l’operatore economico dispone di più locali, il numero è completato con un identificativo unico per il sito in questione</td></tr>
-<tr><td>Y</td><td>Numero di autorizzazione</td><td>Indicare il numero di autorizzazione del luogo in questione, vale a dire l’autorizzazione per la qualifica di speditore autorizzato. Se l’autorizzazione riguarda più locali, il numero di autorizzazione è completato con un identificativo unico per il sito in questione</td></tr>
+<tr><td>T</td><td>Indirizzo – codice postale</td><td>Utilizzare il codice postale, con o senza numero civico, del luogo in questione.</td></tr>
+<tr><td>U</td><td>UN/LOCODE</td><td>Codice UN/LOCODE di cui alla nota introduttiva 8 numero 4.</td></tr>
+<tr><td>V</td><td>Identificativo dell’ufficio doganale</td><td>Utilizzare i codici specificati nel dato 17 05 001 000 Ufficio doganale di destinazione/Numero di riferimento.</td></tr>
+<tr><td>W</td><td>Coordinate GNSS</td><td>Gradi decimali con numeri negativi per sud e ovest. Esempi: 44,424896°/8,774792° o 50,838068°/4,381508°</td></tr>
+<tr><td>X</td><td>Numero EORI</td><td>Deve essere utilizzato il numero di identificazione quale definito nel dato 13 02 017 000 Speditore/Numero di identificazione. Se l’operatore economico dispone di più locali, il numero è completato con un identificativo unico per il sito in questione.</td></tr>
+<tr><td>Y</td><td>Numero di autorizzazione</td><td>Indicare il numero di autorizzazione del luogo in questione, vale a dire l’autorizzazione per la qualifica di speditore autorizzato. Se l’autorizzazione riguarda più locali, il numero di autorizzazione è completato con un identificativo unico per il sito in questione.</td></tr>
+<tr><td>Z</td><td>Indirizzo</td><td>Indicare l’indirizzo del luogo interessato.</td></tr>
 </table>
 
-Se il codice «X» o «Y» è utilizzato per l’identificazione del sito e vi sono numerosi siti associati al codice EORI o al numero di autorizzazione, si può utilizzare un identificativo supplementare per consentire l’identificazione univoca del sito.
+Se il codice «X» (codice EORI) o «Y» (numero di autorizzazione) è utilizzato per l’identificazione del luogo e vi sono numerosi siti associati al codice EORI o al numero di autorizzazione, si può utilizzare un identificativo supplementare per consentire l’identificazione univoca del luogo.
 
-7/2. Container
+16 15 047 000 Ufficio doganale
 
-- 0 Merci non trasportate in container
-- 1 Merci trasportate in container
+Indicare il codice dell’ufficio doganale pertinente in cui le merci sono disponibili per un ulteriore controllo doganale.
 
-7/4. Modo di trasporto fino alla frontiera
+16 15 047 001 Numero di riferimento
+
+Utilizzando il codice pertinente, indicare il numero di riferimento dell’ufficio doganale in cui le merci sono disponibili per un ulteriore controllo doganale.
+
+I codici da utilizzare sono:
+
+L’identificativo dell’ufficio doganale deve seguire la struttura definita per il dato 17 05 001 000 Ufficio doganale di destinazione/Numero di riferimento.
+
+16 15 048 000 GNSS
+
+Inserire le coordinate pertinenti del sistema globale di navigazione satellitare (GNSS) del luogo in cui le merci sono disponibili.
+
+16 15 048 049 Latitudine
+
+Indicare la latitudine del luogo in cui le merci sono disponibili.
+
+16 15 048 050 Longitudine
+
+Indicare la longitudine del luogo in cui le merci sono disponibili.
+
+16 15 051 000 Operatore economico
+
+Utilizzare il numero di identificazione dell’operatore economico nella cui sede le merci possono essere controllate.
+
+16 15 051 017 Numero di identificazione
+
+Inserire il numero EORI o il numero di identificazione dell’operatore in un paese di transito comune del titolare dell’autorizzazione.
+
+I codici da utilizzare sono:
+
+Deve essere utilizzato il numero di identificazione quale definito nel dato 13 02 017 000 Speditore/Numero di identificazione.
+
+16 15 052 000 Numero di autorizzazione
+
+Indicare il numero di autorizzazione della persona interessata.
+
+16 15 053 000 Identificativo supplementare
+
+Nel caso di diverse sedi, al fine di indicare più precisamente l’ubicazione in relazione a un EORI, all’identificazione di un operatore in un paese di transito comune o a un’autorizzazione, inserire il codice pertinente, se disponibile.
+
+16 15 018 000 Indirizzo:
+
+16 15 018 019 Via e numero civico
+
+Indicare la via e il numero pertinenti.
+
+16 15 018 020 Paese
+
+Inserire il codice del paese.
+
+I codici da utilizzare sono:
+
+Il codice paese di cui alla nota introduttiva 8 numero 3.
+
+16 15 018 021 Codice postale
+
+Indicare il codice postale pertinente per il relativo indirizzo.
+
+16 15 018 022 Città
+
+Indicare il nome della città dell’indirizzo della parte.
+
+16 15 081 000 Indirizzo codice postale
+
+Questa sottocategoria può essere utilizzata quando è possibile determinare l’ubicazione delle merci con il codice postale integrato dal numero civico, se necessario.
+
+16 15 081 020 Paese
+
+Inserire il codice del paese.
+
+I codici da utilizzare sono:
+
+Il codice paese di cui alla nota introduttiva 8 numero 3.
+
+16 15 081 021 Codice postale
+
+Indicare il codice postale pertinente per l’ubicazione delle merci.
+
+16 15 081 025 Numero civico
+
+Inserire il numero civico relativo all’ubicazione delle merci.
+
+16 15 074 000 Persona di contatto
+
+16 15 074 016 Nome
+
+Indicare il nome della persona di contatto.
+
+16 15 074 075 Numero di telefono
+
+Indicare il numero di telefono della persona di contatto.
+
+16 15 074 076 Indirizzo di posta elettronica
+
+Indicare l’indirizzo di posta elettronica della persona di contatto.
+
+16 17 000 000 Itinerario vincolante
+
+Utilizzando i codici pertinenti, indicare se l’itinerario vincolante è applicato.
+
+L’itinerario vincolante definisce il tragitto lungo il quale le merci devono essere trasportate dall’ufficio doganale di partenza all’ufficio doganale di destinazione secondo un itinerario economicamente giustificato.
+
+I codici da utilizzare sono:
+
+I codici applicabili sono:
+
+<table>
+<tr><td>0</td><td>Le merci non devono essere trasportate dall’ufficio doganale di partenza all’ufficio doganale di destinazione secondo un itinerario vincolante</td></tr>
+<tr><td>1</td><td>Le merci sono trasportate dall’ufficio doganale di partenza all’ufficio doganale di destinazione secondo un itinerario vincolante</td></tr>
+</table>
+
+Gruppo 17 – Uffici doganali
+
+17 03 000 000 Ufficio doganale di partenza
+
+17 03 001 000 Numero di riferimento
+
+Indicare, mediante il codice pertinente, il numero di riferimento dell’ufficio in cui ha inizio l’operazione di transito.
+
+I codici da utilizzare sono:
+
+L’identificativo dell’ufficio doganale deve seguire la struttura definita per il dato 17 05 001 000 Ufficio doganale di destinazione/Numero di riferimento.
+
+17 04 000 000 Ufficio doganale di transito
+
+17 04 001 000 Numero di riferimento
+
+Indicare il codice dell’ufficio doganale competente per il punto di entrata nel territorio di una parte contraente quando le merci circolano vincolate al regime di transito o l’ufficio doganale competente per il punto di uscita dal territorio di una parte contraente quando le merci lasciano tale territorio nel corso di un’operazione di transito effettuata attraversando una frontiera fra tale parte contraente e un paese terzo.
+
+Utilizzando il codice pertinente, indicare il numero di riferimento dell’ufficio doganale interessato.
+
+I codici da utilizzare sono:
+
+L’identificativo dell’ufficio doganale deve seguire la struttura definita per il dato 17 05 001 000 Ufficio doganale di destinazione/Numero di riferimento.
+
+17 05 000 000 Ufficio doganale di destinazione
+
+17 05 001 000 Numero di riferimento
+
+Indicare, mediante il codice pertinente, il numero di riferimento dell’ufficio in cui ha termine l’operazione di transito.
+
+I codici e i relativi formati da utilizzare sono:
+
+I codici da utilizzare (an8) hanno la seguente struttura:
+
+I primi due caratteri (a2) servono a identificare il paese mediante il codice paese di cui alla nota introduttiva 8 numero 3;
+
+I sei caratteri seguenti (an6) individuano l’ufficio del paese considerato. Si propone di adottare la struttura seguente:
+
+i primi tre caratteri (an3) rappresentano il codice UN/LOCODE del nome del luogo, seguiti da una suddivisione alfanumerica nazionale (an3). Se non si utilizza questa suddivisione, è opportuno inserire «000».
+
+Esempio: BEBRU000: BE = ISO 3166 per Belgio; BRU = codice UN/LOCODE del nome del luogo per Bruxelles; 000 se la suddivisione non viene utilizzata.
+
+17 06 000 000 Ufficio doganale di uscita per il transito
+
+17 06 001 000 Numero di riferimento
+
+Utilizzando il codice pertinente, indicare il numero di riferimento dell’ufficio interessato.
+
+Questo dato è richiesto quando la dichiarazione di transito è combinata con la dichiarazione sommaria di uscita. Indicare il codice dell’ufficio doganale previsto in cui il movimento di transito lascia la zona di sicurezza.
+
+Per gli Stati membri dell’Unione europea: questo dato non è richiesto quando il movimento di transito segue il regime di esportazione.
+
+I codici da utilizzare sono:
+
+L’identificativo dell’ufficio doganale deve seguire la struttura definita per il dato 17 05 001 000 Ufficio doganale di destinazione/Numero di riferimento.
+
+Gruppo 18 – Identificazione delle merci
+
+18 01 000 000 Massa netta
+
+Indicare la massa netta, in chilogrammi, delle merci interessate dall’articolo pertinente della dichiarazione. Per massa netta si intende la massa delle merci senza alcun imballaggio.
+
+Quando una massa netta superiore a 1 kg comporta una frazione di unità (kg), si procede al seguente arrotondamento:
+
+da 0,001 a 0,499: arrotondamento all’unità inferiore (kg);
+
+da 0,5 a 0,999: arrotondamento all’unità superiore (kg).
+
+Una massa netta inferiore a 1 kg deve essere indicata come «0,» seguito da un numero di decimali fino a 6, eliminando tutti gli «0» alla fine della quantità (ad esempio, 0,123 per un imballaggio di 123 grammi, 0,00304 per un imballaggio di 3 grammi e 40 milligrammi o 0,000654 per un imballaggio di 654 milligrammi).
+
+18 04 000 000 Massa lorda
+
+La massa lorda è il peso delle merci compreso l’imballaggio ma escluso il materiale di trasporto.
+
+Se la massa lorda è superiore a 1 kg e comporta una frazione di unità (kg), si procede al seguente arrotondamento:
+
+da 0,001 a 0,499: arrotondamento all’unità inferiore (kg);
+
+da 0,5 a 0,999: arrotondamento all’unità superiore (kg).
+
+Una massa lorda inferiore a 1 kg deve essere indicata come «0,» seguito da un numero di decimali fino a 6, eliminando tutti gli «0» alla fine della quantità (ad esempio, 0,123 per un imballaggio di 123 grammi, 0,00304 per un imballaggio di 3 grammi e 40 milligrammi o 0,000654 per un imballaggio di 654 milligrammi).
+
+Indicare la massa lorda, in chilogrammi, delle merci interessate dall’articolo pertinente.
+
+Se la dichiarazione comprende diversi articoli che riguardano merci imballate insieme in modo tale da rendere impossibile la determinazione della massa lorda delle merci facenti capo a un qualsiasi articolo, è sufficiente indicare la massa lorda totale a livello di intestazione.
+
+18 05 000 000 Descrizione delle merci
+
+Quando il dichiarante fornisce il codice CUS per le sostanze e i preparati chimici, i paesi possono esonerarlo dall’obbligo di fornire una descrizione precisa delle merci.
+
+Si tratta della descrizione commerciale abituale. Se deve essere fornito il codice delle merci, la descrizione deve essere sufficientemente precisa per consentire la classificazione delle merci.
+
+18 06 000 000 Imballaggio
+
+Questo dato si riferisce alle caratteristiche dell’imballaggio delle merci oggetto della dichiarazione o della notifica.
+
+18 06 003 000 Tipo di colli
+
+Codice che specifica il tipo di colli.
+
+I codici da utilizzare sono:
+
+Codice del tipo di collo di cui alla nota introduttiva 8 numero 1.
+
+18 06 004 000 Numero di colli
+
+Numero totale di colli sulla base dell’unità di imballaggio esterna più piccola. Il numero di articoli singoli imballati in modo da non poter essere divisi senza prima aprire l’imballaggio, o il numero di pezzi se le merci sono prive di imballaggio.
+
+Questo dato non deve essere fornito nel caso di merci alla rinfusa.
+
+18 06 054 000 Marchi di spedizione
+
+Descrizione libera dei marchi e dei numeri sulle unità di trasporto o sui colli.
+
+18 08 000 000 Codice CUS
+
+Il numero CUS (Customs Union and Statistics) è l’identificativo assegnato nell’ambito dell’inventario doganale europeo delle sostanze chimiche (ECICS) alle sostanze e ai preparati chimici.
+
+Il dichiarante può fornire volontariamente tale codice se per le merci di cui trattasi non esiste una misura stabilita nella legislazione delle parti contraenti, ovvero se il fatto di dichiarare questo codice comporta oneri minori rispetto a una descrizione testuale completa del prodotto.
+
+I codici da utilizzare sono:
+
+Codice CUS di cui alla nota introduttiva 8 numero 9.
+
+18 09 000 000 Codice delle merci
+
+Deve essere utilizzato almeno il codice della sottovoce del sistema armonizzato.
+
+18 09 056 000 Codice della sottovoce del sistema armonizzato
+
+Indicare il codice della sottovoce del sistema armonizzato (codice SA a sei cifre).
+
+I codici da utilizzare sono:
+
+I codici sono reperibili nella banca dati TARIC.
+
+18 09 057 000 Codice della nomenclatura combinata
+
+Inserire le due cifre supplementari del codice della nomenclatura combinata ove richiesto dalla legislazione delle parti contraenti.
+
+I codici da utilizzare sono:
+
+I codici sono reperibili nella banca dati TARIC.
+
+Gruppo 19 – Informazioni sui trasporti (modi, mezzi e apparecchiature)
+
+19 01 000 000 Indicatore del container
+
+Indicare, mediante il codice pertinente, la situazione presunta al passaggio della frontiera esterna della parte contraente sulla base delle informazioni disponibili al momento dell’espletamento delle formalità di transito.
+
+I codici da utilizzare sono:
+
+I codici applicabili sono i seguenti:
+
+<table>
+<tr><td>0</td><td>Merci non trasportate in container</td></tr>
+<tr><td>1</td><td>Merci trasportate in container</td></tr>
+</table>
+
+19 03 000 000 Modo di trasporto fino alla frontiera
+
+Indicare, mediante il codice pertinente, il modo di trasporto corrispondente al mezzo di trasporto attivo col quale si presume che le merci usciranno dal territorio doganale della parte contraente.
+
+I codici da utilizzare sono:
 
 I codici applicabili sono i seguenti:
 
 <table>
 <tr><th>Codice</th><th>Descrizione</th></tr>
-<tr><td>2</td><td>Trasporto ferroviario</td></tr>
+<tr><td>1</td><td>Trasporto marittimo</td></tr>
+<tr><td>2</td><td>Trasporto per ferrovia</td></tr>
 <tr><td>3</td><td>Trasporto su strada</td></tr>
 <tr><td>4</td><td>Trasporto aereo</td></tr>
 <tr><td>5</td><td>Spedizioni postali (modo di trasporto attivo sconosciuto)</td></tr>
 <tr><td>7</td><td>Installazioni di trasporto fisse</td></tr>
-<tr><td>8</td><td>Vie navigabili interne</td></tr>
-<tr><td>9</td><td>Modo sconosciuto (propulsione propria)</td></tr>
+<tr><td>8</td><td>Trasporto per vie navigabili interne</td></tr>
+<tr><td>9</td><td>Altro modo di trasporto (propulsione propria)</td></tr>
 </table>
 
-7/7. Identità del mezzo di trasporto alla partenza
+19 04 000 000 Modo di trasporto interno
 
-Identità del mezzo di trasporto alla partenza
+Indicare, mediante il codice pertinente, il modo di trasporto alla partenza.
+
+I codici da utilizzare sono:
+
+Devono essere utilizzati i codici indicati nel presente titolo per il dato 19 03 000 000 Modo di trasporto fino alla frontiera.
+
+19 05 000 000 Mezzo di trasporto alla partenza
+
+19 05 017 000 Numero di identificazione
+
+Questa informazione è trasmessa in forma di numero IMO di identificazione della nave o numero unico europeo di identificazione delle navi (ENI) per il trasporto via mare o per vie navigabili interne.
+
+Per gli altri modi di trasporto il metodo di identificazione è il seguente:
 
 <table>
-<tr><th>Codice</th><th>Descrizione</th></tr>
-<tr><td>20</td><td>Numero del vagone</td></tr>
-<tr><td>30</td><td>Numero di immatricolazione del veicolo stradale</td></tr>
-<tr><td>40</td><td>Numero del volo IATA</td></tr>
-<tr><td>41</td><td>Numero di registrazione dell’aeromobile</td></tr>
-<tr><td>81</td><td>Nome dell’imbarcazione utilizzata per la navigazione interna</td></tr>
+<tr><th>Mezzo di trasporto</th><th>Metodo di identificazione</th></tr>
+<tr><td>Trasporto per vie navigabili interne</td><td>Nome della nave</td></tr>
+<tr><td>Trasporto aereo</td><td>Numero e data del volo (in caso di mancanza del numero del volo, indicare il numero di immatricolazione dell’aeromobile)</td></tr>
+<tr><td>Trasporto su strada</td><td>Numero di immatricolazione del veicolo e/o rimorchio</td></tr>
+<tr><td>Trasporto per ferrovia</td><td>Numero del vagone</td></tr>
 </table>
 
-8/2. Tipo di garanzia
+Se le merci sono trasportate utilizzando una motrice e un rimorchio, indicare i rispettivi numeri di immatricolazione. Se non si conosce il numero di immatricolazione della motrice, indicare il numero di immatricolazione del rimorchio.
 
-Codici relativi ai tipi di garanzia
+19 05 061 000 Tipo di identificazione
+
+Utilizzando il codice pertinente, indicare il tipo di numero di identificazione.
+
+I codici da utilizzare sono:
 
 I codici applicabili sono i seguenti:
 
 <table>
-<tr><th>Descrizione</th><th>Codice</th></tr>
-<tr><td>Esonero dalla garanzia (art. 75, par. 2, lett. c), dell’appendice I)</td><td>0</td></tr>
-<tr><td>Garanzia globale (art. 75, par. 1, e par. 2, lett. a) e b), dell’appendice I)</td><td>1</td></tr>
-<tr><td>Garanzia isolata in forma di impegno da parte di un fideiussore (art. 20 dell’appendice I)</td><td>2</td></tr>
-<tr><td>Garanzia isolata in contanti (art. 19 dell’appendice I)</td><td>3</td></tr>
-<tr><td>Garanzia isolata a mezzo di certificati (art. 21 dell’appendice I)</td><td>4</td></tr>
-<tr><td>Esonero dalla garanzia per il percorso compreso fra l’ufficio doganale di partenza e l’ufficio doganale di transito (art. 10, par. 2, lett. b), della convenzione)</td><td>7</td></tr>
-<tr><td>Garanzia isolata del tipo di cui all’allegato I, punto 3, dell’appendice I</td><td>9</td></tr>
-<tr><td>Garanzia non richiesta per le merci trasportate mediante installazioni di trasporto fisse (art. 13, par. 1, lett. c), dell’appendice I)</td><td>C</td></tr>
-<tr><td>Esonero dalla garanzia sulla base di una convenzione (art. 10, par. 2, lett. a), della convenzione)</td><td>A</td></tr>
-<tr><td>Garanzia non richiesta per le merci vincolate al regime di transito comune a norma dell’articolo 13, paragrafo 1, lettera a), dell’appendice I</td><td>H</td></tr>
+<tr><th>Codice</th><th>Descrizione</th></tr>
+<tr><th>10</th><th>Numero IMO di identificazione della nave</th></tr>
+<tr><th>11</th><th>Nome della nave</th></tr>
+<tr><th>20</th><th>Numero del vagone</th></tr>
+<tr><th>21</th><th>Numero del treno</th></tr>
+<tr><th>30</th><th>Numero di immatricolazione del veicolo stradale</th></tr>
+<tr><th>31</th><th>Numero di immatricolazione del rimorchio stradale</th></tr>
+<tr><th>40</th><th>Numero del volo IATA</th></tr>
+<tr><th>41</th><th>Numero di immatricolazione dell’aeromobile</th></tr>
+<tr><th>80</th><th>Numero europeo di identificazione delle navi (codice ENI)</th></tr>
+<tr><th>81</th><th>Nome dell’imbarcazione utilizzata per la navigazione interna</th></tr>
 </table>
 
-[^annexu1-lvlu1-titIII-1]: Direttiva 2006/112/CE del Consiglio, del 28 novembre 2006, relativa al sistema comune d’imposta sul valore aggiunto (GU L 347 dell’11.12.2006, pag. 1).
-[^annexu1-lvlu1-titIII-2]: Direttiva 2008/118/CE del Consiglio, del 16 dicembre 2008, relativa al regime generale delle accise e che abroga la direttiva 92/12/CEE (GU L 9 del 14.1.2009, pag. 12).
-[^annexu1-lvlu1-titIII-3]: Raccomandazione 16 su UN/LOCODE – Code for ports and other locations.
+19 05 062 000 Nazionalità
 
-### Titolo IV Versioni linguistiche e relativi codici
+Indicare, mediante il codice pertinente, la nazionalità del mezzo di trasporto (o quella del mezzo che muove il tutto quando trattasi di vari mezzi di trasporto) su cui le merci sono direttamente caricate al momento delle formalità di transito.
+
+Se le merci sono trasportate utilizzando una motrice e un rimorchio, indicare le rispettive nazionalità. Se non si conosce la nazionalità della motrice, indicare la nazionalità del rimorchio.
+
+I codici da utilizzare sono:
+
+I codice paese di cui alla nota introduttiva 8 numero 3.
+
+19 07 000 000 Materiale di trasporto
+
+19 07 044 000 Riferimento delle merci
+
+Per ogni container indicare il numero o i numeri di articolo per le merci trasportate nel container.
+
+19 07 063 000 Numero di identificazione del container
+
+Marchi (lettere e/o numeri) che identificano il contenitore.
+
+Per modi di trasporto diversi da quello aereo, il container è una cassa speciale per il trasporto di merci, rafforzata e sovrapponibile, che consente la movimentazione orizzontale o verticale.
+
+Nel trasporto aereo il container è una cassa speciale per il trasporto di merci, rafforzata, che consente la movimentazione orizzontale o verticale.
+
+Ai fini del presente dato le casse mobili e i semirimorchi utilizzati per il trasporto stradale e ferroviario sono considerati container.
+
+Se del caso, per i container contemplati dalla norma ISO 6346, l’identificativo (prefisso) assegnato dall’Ufficio internazionale dei contenitori e del trasporto intermodale (Bureau international des containers – BIC) è fornito in aggiunta al numero di identificazione del container.
+
+Per le casse mobili e i semirimorchi si utilizza il codice ILU (Intermodal Loading Units) quale introdotto dalla norma europea EN 13044.
+
+19 08 000 000 Mezzo di trasporto attivo alla frontiera
+
+19 08 000 047 Numero di riferimento dell’ufficio doganale alla frontiera
+
+Indicare, mediante il codice pertinente, il numero di riferimento dell’ufficio presso il quale il mezzo di trasporto attivo attraversa la frontiera della parte contraente.
+
+I codici da utilizzare sono:
+
+L’identificativo dell’ufficio doganale deve seguire la struttura definita per il dato 17 05 001 000 Ufficio doganale di destinazione/Numero di riferimento.
+
+19 08 017 000 Numero di identificazione
+
+Indicare l’identità del mezzo di trasporto attivo che attraversa la frontiera della parte contraente.
+
+In caso di trasporto combinato o quando ci si avvale di vari mezzi di trasporto, il mezzo di trasporto attivo è quello che muove il tutto. Ad esempio, se si tratta di camion su nave, il mezzo di trasporto attivo è la nave. Se si tratta di motrice e rimorchio, il mezzo di trasporto attivo è la motrice. A seconda del mezzo di trasporto interessato, per quanto concerne l’identità possono essere utilizzate le diciture seguenti:
 
 <table>
-<tr><th>Versione linguistica</th><th>Codici</th></tr>
-<tr><td>BG Ограничена валидност CS Omezená platnost DA Begrænset gyldighed DE Beschränkte Geltung EE Piiratud kehtivus EL Περιορισμένη ισχύς ES Validez limitada FR Validité limitée HR Valjanost ograničena IT Validità limitata LV Ierobežots derīgums LT Galiojimas apribotas HU Korlátozott érvényű MK Ограничено важење MT Validità limitata NL Beperkte geldigheid PL Ograniczona ważność PT Validade limitada RO Validitate limitată RS Ограничена важност SL Omejena veljavnost SK Obmedzená platnosť FI Voimassa rajoitetusti SV Begränsad giltighet EN Limited validity IS Takmarkað gildissvið NO Begrenset gyldighet TR Sınırlı Geçerli</td><td>Validità limitata – 99200</td></tr>
-<tr><td>BG Освободено CS Osvobození DA Fritaget DE Befreiung EE Loobutud EL Απαλλαγή ES Dispensa FR Dispense HR Oslobođeno IT Dispensa LV Derīgs bez zīmoga LT Leista neplombuoti HU Mentesség MK Изземање MT Tneħħija NL Vrijstelling PL Zwolnienie PT Dispensa RO Dispensă RS Ослобођење SL Opustitev SK Upustenie FI Vapautettu SV Befrielse EN Waiver IS Undanþegið NO Fritak TR Vazgeçme</td><td>Dispensa – 99201</td></tr>
-<tr><td>BG Алтернативно доказателство CS Alternativní důkaz DA Alternativt bevis DE Alternativnachweis EE Alternatiivsed tõendid EL Εναλλακτική απόδειξη ES Prueba alternativa FR Preuve alternative HR Alternativni dokaz IT Prova alternativa LV Alternatīvs pierādījums LT Alternatyvusis įrodymas HU Alternatív igazolás MK Алтернативен доказ MT Prova alternattiva NL Alternatief bewijs PL Alternatywny dowód PT Prova alternativa RO Probă alternativă RS Алтернативни доказ SL Alternativno dokazilo SK Alternatívny dôkaz FI Vaihtoehtoinen todiste SV Alternativt bevis EN Alternative proof IS Önnur sönnun NO Alternativt bevis TR Alternatif Kanıt</td><td>Prova alternativa – 99202</td></tr>
-<tr><td>BG Различия: митническо учреждение, където стоките са представени (наименование и страна CS Nesrovnalosti: úřad, kterému bylo zboží předloženo … (název a země) DA Forskelle: det sted, hvor varerne blev frembudt … (navn og land) DE Unstimmigkeiten: Stelle, bei der die Gestellung erfolgte … (Name und Land) EE Erinevused: asutus, kuhu kaup esitati … (nimi ja riik) EL Διαφορές: εμπορεύματα προσκομισθέντα στο τελωνείο … (Όνομα και χώρα) ES Diferencias: mercancías presentadas en la oficina … (nombre y país) FR Différences: marchandises présentées au bureau … (nom et pays) HR Razlike:Carinarnica kojoj je roba podnesena … (naziv i zemlja) IT Differenze: ufficio al quale sono state presentate le merci … (nome e paese) LV Atšķirības: muitas iestāde, kurā preces tika uzrādītas (nosaukums un valsts) LT Skirtumai: įstaiga, kuriai pateiktos prekės (pavadinimas ir valstybė) HU Eltérések: hivatal, ahol az áruk bemutatása megtörtént … (név és ország) MK Разлики: Испостава каде стоките се ставени на увид … (назив и земја) MT Differenzi: uffiċċju fejn l-oġġetti kienu ppreżentati (isem u pajjiż) NL Verschillen: kantoor waar de goederen zijn aangebracht … (naam en land) PL Niezgodności: urząd, w którym przedstawiono towar … (nazwa i kraj) PT Diferenças: mercadorias apresentadas na estância … (nome e país) RO Diferenţe: mărfuri prezentate la biroul vamal … (nume şi ţara) RS Разлике: царински орган којем је предата роба … (назив и земља) SL Razlike: urad, pri katerem je bilo blago predloženo … (naziv in država) SK Rozdiely: úrad, ktorému bol tovar predložený … (názov a krajina) FI Muutos: toimipaikka, jossa tavarat esitetty … (nimi ja maa) SV Avvikelse: tullkontor där varorna anmäldes … (namn och land) EN Differenze: ufficio al quale sono state presentate le merci …. (nome e paese) IS Breying: tollstjóraskrifstofa þar sem vörum var framvísað … (nafn og land) NO Forskjell: det tollsted hvor varene ble fremlagt … (navn og land) TR Değişiklikler: Eşyanın sunulduğu idare … (adı ve ülkesi).</td><td>Differenze: ufficio al quale sono state presentate le merci …… (nome e paese) – 99203</td></tr>
-<tr><td>BG Излизането от … подлежи на ограничения или такси съгласно Регламент/Директива/Решение № …, CS Výstup ze … podléhá omezením nebo dávkám podle nařízení/směrnice/rozhodnutí č. … DA Udpassage fra … undergivet restriktioner eller afgifter i henhold til forordning/direktiv/afgørelse nr. … DE Ausgang aus … – gemäss Verordnung/Richtlinie/Beschluss Nr. … Beschränkungen oder Abgaben unterworfen. EE Väljumine … on aluseks piirangutele ja/või maksudele vastavalt määrusele/direktiivile/otsusele nr … EL Η έξοδος από … υποβάλλεται σε περιορισμούς ή σε επιβαρύνσεις από τον κανονισμό/την οδηγία/την απόφαση αριθ. … ES Salida de … sometida a restricciones o imposiciones en virtud del (de la) Reglamento/Directiva/Decisión no … FR Sortie de … soumise à des restrictions ou à des impositions par le règlement ou la directive/décision n<sup>o</sup> … HR Izlaz iz … podliježe ograničenjima ili pristojbama temeljem Uredbe/Direktive/Odluke br … IT Uscita dal … soggetta a restrizioni o ad imposizioni a norma del(la) regolamento/direttiva/decisione n. … LV Izvešana no …, piemērojot ierobežojumus vai maksājumus saskaņā ar Regulu/ Direktīvu/Lēmumu Nr. …, LT Išvežimui iš … taikomi apribojimai arba mokesčiai, nustatyti Reglamentu/Direktyva/Sprendimu Nr. …, HU A kilépés … területéről a … rendelet/irányelv/ határozat szerinti korlátozás vagy teher megfizetésének kötelezettsége alá esik MK Излез од … предмет на ограничувања или давачки согласно Уредба/ Директива/Решение № … MT Ħruġ mill-… suġġett għall restrizzjonijiet jew ħlasijiet taħt Regola/Direttiva/Deċiżjoni Nru … NL Bij uitgang uit de … zijn de beperkingen of heffingen van Verordening/Richtlijn/Besluit nr. … van toepassing. PL Wyprowadzenie z … podlega ograniczeniom lub opłatom zgodnie z rozporządzeniem/ dyrektywą/decyzją nr … PT Saída da … sujeita a restrições ou a imposições pelo(a) Regulamento/Directiva/Decisão n. … RO Ieşire din … supusă restricţiilor sau impunerilor în temeiul Regulamentului/Directivei/ Deciziei nr … RS Излаз из … подлеже ограничењима или дажбинама на основу Уредбе/ Директиве/Одлуке бр … SL Iznos iz … zavezan omejitvam ali obveznim dajatvam na podlagi Uredbe/Direktive/ Odločbe št. … SK Výstup z … podlieha obmedzeniam alebo platbám podľa nariadenia/smernice/ rozhodnutia č. … FI … vientiin sovelletaan asetuksen/direktiivin/ päätöksen N:o … mukaisia rajoituksia tai maksuja SV Utförsel från … underkastad restriktioner eller avgifter i enlighet med förordning/ direktiv/beslut nr … EN Uscita da … soggetta a restrizioni o ad imposizioni a norma del(la) regolamento/direttiva/ decisione n. … IS Útflutningur frá … háð takmörkunum eða gjöldum samkvæmt reglugerð/fyrirmælum/ ákvörðun nr. ……. NO Utførsel fra … underlagt restriksjoner eller avgifter i henhold til forordning/direktiv/ vedtak nr. … TR Eşyanın … ’dan çıkışı … No.lu Tüzük/Direktif / Karar kapsamında kısıtlamalara veya mali yükümlülüklere tabidir</td><td>Uscita da … soggetta a restrizioni o ad imposizioni a norma del(la) regolamento/ direttiva/decisione n. … – 99204</td></tr>
-<tr><td>BG Одобрен изпращач CS Schválený odesílatel DA Godkendt afsender DE Zugelassener Versender EE Volitatud kaubasaatja EL Εγκεκριμένος αποστολέας ES Expedidor autorizado FR Expéditeur agréé HR Ovlašteni pošiljatelj IT Speditore autorizzato LV Atzītais nosūtītājs LT Įgaliotas siuntėjas HU Engedélyezett feladó MK Овластен испраќач MT Awtorizzat li jibgħat NL Toegelaten afzender PL Upoważniony nadawca PT Expedidor autorizado RO Expeditor agreat RS Овлашћени пошиљалац SL Pooblaščeni pošiljatelj SK Schválený odosielateľ FI Valtuutettu lähettäjä SV Godkänd avsändare EN Authorised consignor IS Viðurkenndur sendandi NO Autorisert avsender TR İzinli Gönderici.</td><td>Speditore autorizzato – 99206</td></tr>
-<tr><td>BG Освободен от подпис CS Podpis se nevyžaduje DA Fritaget for underskrift DE Freistellung von der Unterschriftsleistung EE Allkirjanõudest loobutud EL Δεν απαιτείται υπογραφή ES Dispensa de firma FR Dispense de signature HR Oslobođeno potpisa IT Dispensa dalla firma LV Derīgs bez paraksta LT Leista nepasirašyti HU Aláírás alól mentesítve MK Изземање од потпис MT Firma mhux meħtieġa NL Van ondertekening vrijgesteld PL Zwolniony ze składania podpisu PT Dispensada a assinatura RO Dispensă de semnătură RS Ослобођено од потписа SL Opustitev podpisa SK Upustenie od podpisu FI Vapautettu allekirjoituksesta SV Befrielse från underskrift EN Signature waived IS Undanþegið undirskrift NO Fritatt for underskrift TR İmzadan Vazgeçme</td><td>Dispensa dalla firma – 99207</td></tr>
-<tr><td>BG ЗАБРАНЕНО ОБЩО ОБЕЗПЕЧЕНИЕ CS ZÁKAZ SOUBORNÉ JISTOTY DA FORBUD MOD SAMLET KAUTION DE GESAMTBÜRGSCHAFT UNTERSAGT EE ÜLDTAGATISE KASUTAMINE KEELATUD EL ΑΠΑΓΟΡΕΥΕΤΑΙ Η ΣΥΝΟΛΙΚΗ ΕΓΓΥΗΣΗ ES GARANTÍA GLOBAL PROHIBIDA FR GARANTIE GLOBALE INTERDITE HR ZABRANJENO ZAJEDNIČKO JAMSTVO IT GARANZIA GLOBALE VIETATA LV VISPĀRĒJS GALVOJUMS AIZLIEGTS LT NAUDOTI BENDRĄJĄ GARANTIJĄ UŽDRAUSTA HU ÖSSZKEZESSÉG TILALMA MK ЗАБРАНА ЗА УПОТРЕБА НА ОПШТА ГАРАНЦИЈА MT MHUX PERMESSA GARANZIJA KOMPRENSIVA NL DOORLOPENDE ZEKERHEID VERBODEN PL ZAKAZ KORZYSTANIA Z GWARANCJI GENERALNEJ PT GARANTIA GLOBAL PROIBIDA RO GARANŢIA GLOBALĂ INTERZISĂ RS ЗАБРАЊЕНО ЗАЈЕДНИЧКО ОБЕЗБЕЂЕЊЕ SL PREPOVEDANO SPLOŠNO ZAVAROVANJE SK ZÁKAZ CELKOVEJ ZÁRUKY FI YLEISVAKUUDEN KÄYTTÖ KIELLETTY SV SAMLAD SÄKERHET FÖRBJUDEN EN COMPREHENSIVE GUARANTEE PROHIBITED IS ALLSHERJARTRYGGING BÖNNUÐ NO FORBUD MOT BRUK AV UNIVERSALGARANTI TR KAPSAMLI TEMİNAT YASAKLANMIŞTIR.</td><td>GARANZIA GLOBALE VIETATA – 99208</td></tr>
-<tr><td>BG ИЗПОЛЗВАНЕ БЕЗ ОГРАНИЧЕНИЯ CS NEOMEZENÉ POUŽITÍ DA UBEGRÆNSET ANVENDELSE DE UNBESCHRÄNKTE VERWENDUNG EE PIIRAMATU KASUTAMINE ΕL ΑΠΕΡΙΟΡΙΣΤΗ ΧΡΗΣΗ ES UTILIZACIÓN NO LIMITADA FR UTILISATION NON LIMITÉE HR NEOGRANIČENA UPORABA IT UTILIZZAZIONE NON LIMITATA LV NEIEROBEŽOTS IZMANTOJUMS LT NEAPRIBOTAS NAUDOJIMAS HU KORLÁTOZÁS ALÁ NEM ESŐ HASZNÁLAT MK УПОТРЕБА БЕЗ ОГРАНИЧУВАЊЕ MT UŻU MHUX RISTRETT NL GEBRUIK ONBEPERKT PL NIEOGRANICZONE KORZYSTANIE PT UTILIZAÇÃO ILIMITADA RO UTILIZARE NELIMITATĂ RS НЕОГРАНИЧЕНА УПОТРЕБА SL NEOMEJENA UPORABA SK NEOBMEDZENÉ POUŽITIE FI KÄYTTÖÄ EI RAJOITETTU SV OBEGRÄNSAD ANVÄNDNING EN UNRESTRICTED USE IS ÓTAKMÖRKUÐ NOTKUN NO UBEGRENSET BRUK TR KISITLANMAMIŞ KULLANIM</td><td>USO NON LIMITATO – 99209</td></tr>
-<tr><td>BG Издаден впоследствие CS Vystaveno dodatečně DA Udstedt efterfølgende DE Nachträglich ausgestellt EE Välja antud tagasiulatuvalt EL Εκδοθέν εκ των υστέρων ES Expedido a posteriori FR Délivré a posteriori HR Izdano naknadno IT Rilasciato a posteriori LV Izsniegts retrospektīvi LT Retrospektyvusis išdavimas HU Kiadva visszamenőleges hatállyal MK Дополнително издадено MT Maħruġ b’mod retrospettiv NL Achteraf afgegeven PL Wystawione retrospektywnie PT Emitido a posteriori RO Eliberat ulterior RS Накнадно издато SL Izdano naknadno SK Vyhotovené dodatočne FI Annettu jälkikäteen SV Utfärdat i efterhand EN Issued retroactively IS Útgefið eftir á NO Utstedt i etterhånd TR Sonradan Düzenlenmiştir</td><td>Rilasciato a posteriori – 99210</td></tr>
-<tr><td>BG Разни CS Různí DA Diverse DE Verschiedene EE Erinevad EL Διάφορα ES Varios FR Divers HR Razni IT Vari LV Dažādi LT Įvairūs HU Többféle MK Различни MT Diversi NL Diversen PL Różne PT Diversos RO Diverse RS Разно SL Razno SK Rôzne FI Useita SV Flera EN Various IS Ýmis NO Diverse TR Çeşitli</td><td>Vari – 99211</td></tr>
-<tr><td>BG Насипно CS Volnĕ loženo DA Alla rinfusa DE Unverpackte Waren EE Mahtkaup EL Χύμα ES A granel FR Vrac HR Rasuto IT Alla rinfusa LV Berams LT Nesupakuota HU Ömlesztett MK Рефус MT Bil-kwantitá NL Los gestort PL Luzem PT A granel RO Vrac RS Расуто SL Razsuto SK Voľne ložené FI Irtotavaraa SV Bulk EN Alla rinfusa IS Vara í lausu NO Alla rinfusa TR Dökme</td><td>Alla rinfusa – 99212</td></tr>
-<tr><td>BG Изпращач CS Odesílatel DA Afsender DE Versender EE Saatja EL Αποστολέας ES Expedidor FR Expéditeur HR Pošiljatelj IT Speditore LV Nosūtītājs LT Siuntėjas HU Feladó MK Испраќач MT Min jikkonsenja NL Afzender PL Nadawca PT Expedidor RO Expeditor RS Пошиљалац SL Pošiljatelj SK Odosielateľ FI Lähettäjä SV Avsändare EN Consignor IS Sendandi NO Avsender TR Gönderici</td><td>Speditore – 99213</td></tr>
-<tr><td colspan="2">[tab]</td></tr>
+<tr><th>Mezzo di trasporto</th><th>Metodo di identificazione</th></tr>
+<tr><td>Trasporto via mare e per vie navigabili interne</td><td>Nome della nave</td></tr>
+<tr><td>Trasporto aereo</td><td>Numero e data del volo (in caso di mancanza del numero del volo, indicare il numero di immatricolazione dell’aeromobile)</td></tr>
+<tr><td>Trasporto su strada</td><td>Numero di immatricolazione del veicolo e/o rimorchio</td></tr>
+<tr><td>Trasporto per ferrovia</td><td>Numero del vagone</td></tr>
+</table>
+
+19 08 061 000 Tipo di identificazione
+
+Utilizzando il codice pertinente, indicare il tipo di numero di identificazione.
+
+I codici da utilizzare sono:
+
+Per il tipo di identificazione devono essere utilizzati i codici indicati nel presente titolo per il dato 19 05 061 000 Mezzo di trasporto alla partenza/Tipo di identificazione.
+
+19 08 062 000 Nazionalità
+
+Indicare, mediante il codice pertinente, la nazionalità del mezzo di trasporto attivo che attraversa la frontiera della parte contraente.
+
+In caso di trasporto combinato o quando ci si avvale di vari mezzi di trasporto, il mezzo di trasporto attivo è quello che muove il tutto. Ad esempio, se si tratta di camion su nave, il mezzo di trasporto attivo è la nave. Se si tratta di motrice e rimorchio, il mezzo di trasporto attivo è la motrice.
+
+I codici da utilizzare sono:
+
+Il codice paese di cui alla nota introduttiva 8 numero 3.
+
+19 02 000 000 Numero di riferimento del trasporto
+
+Identificazione dell’itinerario compiuto dal mezzo di trasporto, ad esempio numero del viaggio, numero del volo IATA o numero dell’uscita, se pertinenti.
+
+Per il trasporto aereo, nei casi in cui l’operatore dell’aeromobile trasporta merci nell’ambito di un accordo di code-sharing o di un analogo accordo contrattuale con altri partner, si utilizzano i numeri di volo dei partner.
+
+19 10 000 000 Sigilli
+
+19 10 068 000 Numero di sigilli
+
+Indicare il numero di sigilli apposti sul materiale di trasporto, ove applicabile.
+
+19 10 015 000 Identificativo
+
+Questa informazione è fornita qualora uno speditore autorizzato presenti una dichiarazione per la cui autorizzazione sia previsto l’uso di sigilli di tipo speciale o al titolare del regime di transito sia stato concesso di utilizzare sigilli di tipo speciale.
+
+Gruppo 99 – Altri dati (dati statistici, garanzie, dati relativi alle tariffe)
+
+99 02 000 000 Tipo di garanzia
+
+Indicare, mediante il codice pertinente, il tipo di garanzia utilizzato per l’operazione di transito.
+
+I codici da utilizzare sono:
+
+I codici applicabili sono i seguenti:
+
+<table>
+<tr><th>Codice</th><th>Descrizione</th></tr>
+<tr><td>0</td><td>Esonero dalla garanzia (articolo 75, paragrafo 2, lettera c), dell’appendice I)</td></tr>
+<tr><td>1</td><td>Garanzia globale (articolo 75, paragrafo 1, e paragrafo 2, lettere a) e b), dell’appendice I)</td></tr>
+<tr><td>2</td><td>Garanzia isolata in forma di impegno da parte di un fideiussore (articolo 20 dell’appendice I)</td></tr>
+<tr><td>3</td><td>Garanzia isolata in contanti o qualsiasi altro mezzo di pagamento riconosciuto dalle autorità doganali come equivalente a un deposito in contanti, in euro o nella moneta del paese in cui viene richiesta la garanzia (articolo 19 dell’appendice I)</td></tr>
+<tr><td>4</td><td>Garanzia isolata a mezzo di certificati (articolo 21 dell’appendice I)</td></tr>
+<tr><td>8</td><td>Garanzia non richiesta per alcuni organismi pubblici\*</td></tr>
+<tr><td>9</td><td>Garanzia isolata del tipo di cui all’allegato I, punto 3, dell’appendice I</td></tr>
+<tr><td>A</td><td>Esonero dalla garanzia sulla base di una Convenzione (articolo 10, paragrafo 2, lettera a), della convenzione)</td></tr>
+<tr><td>R</td><td>Garanzia non richiesta per le merci trasportate sul Reno, sulle vie navigabili del Reno, sul Danubio o sulle vie navigabili del Danubio (articolo 13, paragrafo 1, lettera b), dell’appendice I)</td></tr>
+<tr><td>C</td><td>Garanzia non richiesta per le merci trasportate mediante installazioni di trasporto fisse (articolo 13, paragrafo 1, lettera c), dell’appendice I)</td></tr>
+<tr><td>H</td><td>Garanzia non richiesta per le merci vincolate al regime di transito comune a norma dell’articolo 13, paragrafo 1, lettera a), dell’appendice I</td></tr>
+<tr><td>J</td><td>Esonero dalla garanzia per il percorso compreso fra l’ufficio doganale di partenza e l’ufficio doganale di transito (articolo 10, paragrafo 2, lettera b), della convenzione)</td></tr>
+</table>
+
+\* Per gli Stati membri dell’Unione europea.
+
+99 03 000 000 Riferimento della garanzia
+
+99 03 069 000 NRG (Numero di riferimento della garanzia)
+
+Inserire il numero di riferimento della garanzia.
+
+99 03 070 000 Codice di accesso
+
+Inserire il codice di accesso.
+
+99 03 012 000 Valuta
+
+Utilizzando il codice pertinente, indicare la valuta in cui è espresso l’importo da coprire.
+
+I codici da utilizzare sono:
+
+Codice della valuta di cui alla nota introduttiva 8 numero 2.
+
+99 03 071 000 Importo da coprire
+
+Indicare l’importo dell’obbligazione doganale che può sorgere o è sorta in relazione a una determinata dichiarazione e che dovrà essere coperta dalla garanzia.
+
+99 03 073 000 Altro riferimento della garanzia
+
+Indicare il numero di riferimento dell’altra garanzia utilizzata per l’operazione.
+
+### Titolo IV: Versioni linguistiche e relativi codici
+
+<table>
+<tr><th colspan="2">Versione linguistica</th><th>Descrizione</th></tr>
+<tr><td>BG</td><td>Ограничена валидност</td><td>Validità limitata — 99200</td></tr>
+<tr><td>CS</td><td>Omezená platnost</td><td></td></tr>
+<tr><td>DA</td><td>Begrænset gyldighed</td><td></td></tr>
+<tr><td>DE</td><td>Beschränkte Geltung</td><td></td></tr>
+<tr><td>EE</td><td>Piiratud kehtivus</td><td></td></tr>
+<tr><td>EL</td><td>Περιορισμένη ισχύς</td><td></td></tr>
+<tr><td>EN</td><td>Limited validity</td><td></td></tr>
+<tr><td>ES</td><td>Validez limitada</td><td></td></tr>
+<tr><td>FI</td><td>Voimassa rajoitetusti</td><td></td></tr>
+<tr><td>FR</td><td>Validité limitée</td><td></td></tr>
+<tr><td>GA</td><td>Bailíocht theoranta</td><td></td></tr>
+<tr><td>HR</td><td>Ograničena valjanost</td><td></td></tr>
+<tr><td>HU</td><td>Korlátozott érvényű</td><td></td></tr>
+<tr><td>IS</td><td>Takmarkað gildissvið</td><td></td></tr>
+<tr><td>IT</td><td>Validità limitata</td><td></td></tr>
+<tr><td>LT</td><td>Galiojimas apribotas</td><td></td></tr>
+<tr><td>LV</td><td>Ierobežots derīgums</td><td></td></tr>
+<tr><td>MK</td><td>Ограничено важење</td><td></td></tr>
+<tr><td>MT</td><td>Validità limitata</td><td></td></tr>
+<tr><td>NL</td><td>Beperkte geldigheid</td><td></td></tr>
+<tr><td>NO</td><td>Begrenset gyldighet</td><td></td></tr>
+<tr><td>PL</td><td>Ograniczona ważność</td><td></td></tr>
+<tr><td>PT</td><td>Validade limitada</td><td></td></tr>
+<tr><td>RO</td><td>Validitate limitată</td><td></td></tr>
+<tr><td>RS</td><td>Ограничена важност</td><td></td></tr>
+<tr><td>SK</td><td>Obmedzená platnosť</td><td></td></tr>
+<tr><td>SL</td><td>Omejena veljavnost</td><td></td></tr>
+<tr><td>SV</td><td>Begränsad giltighet</td><td></td></tr>
+<tr><td>TR</td><td>Sınırlı Geçerli</td><td></td></tr>
+<tr><td>BG</td><td>Освободено</td><td>Dispensa — 99201</td></tr>
+<tr><td>CS</td><td>Osvobození</td><td></td></tr>
+<tr><td>DA</td><td>Fritaget</td><td></td></tr>
+<tr><td>DE</td><td>Befreiung</td><td></td></tr>
+<tr><td>EE</td><td>Loobutud</td><td></td></tr>
+<tr><td>EL</td><td>Απαλλαγή</td><td></td></tr>
+<tr><td>EN</td><td>Waiver</td><td></td></tr>
+<tr><td>ES</td><td>Dispensa</td><td></td></tr>
+<tr><td>FI</td><td>Vapautettu</td><td></td></tr>
+<tr><td>FR</td><td>Dispense</td><td></td></tr>
+<tr><td>GA</td><td>Tarscaoileadh</td><td></td></tr>
+<tr><td>HR</td><td>Oslobođeno</td><td></td></tr>
+<tr><td>HU</td><td>Mentesség</td><td></td></tr>
+<tr><td>IS</td><td>Undanþegið</td><td></td></tr>
+<tr><td>IT</td><td>Dispensa</td><td></td></tr>
+<tr><td>LT</td><td>Leista neplombuoti</td><td></td></tr>
+<tr><td>LV</td><td>Derīgs bez zīmoga</td><td></td></tr>
+<tr><td>MK</td><td>Изземање</td><td></td></tr>
+<tr><td>MT</td><td>Tneħħija</td><td></td></tr>
+<tr><td>NL</td><td>Vrijstelling</td><td></td></tr>
+<tr><td>NO</td><td>Fritak</td><td></td></tr>
+<tr><td>PL</td><td>Zwolnienie</td><td></td></tr>
+<tr><td>PT</td><td>Dispensa</td><td></td></tr>
+<tr><td>RO</td><td>Derogarea</td><td></td></tr>
+<tr><td>RS</td><td>Ослобођење</td><td></td></tr>
+<tr><td>SK</td><td>Upustenie</td><td></td></tr>
+<tr><td>SL</td><td>Opustitev</td><td></td></tr>
+<tr><td>SV</td><td>Befrielse</td><td></td></tr>
+<tr><td>TR</td><td>Vazgeçme</td><td></td></tr>
+<tr><td>BG</td><td>Алтернативно доказателство</td><td>Prova alternativa – 99202</td></tr>
+<tr><td>CS</td><td>Alternativní důkaz</td><td></td></tr>
+<tr><td>DA</td><td>Alternativt bevis</td><td></td></tr>
+<tr><td>DE</td><td>Alternativnachweis</td><td></td></tr>
+<tr><td>EE</td><td>Alternatiivsed tõendid</td><td></td></tr>
+<tr><td>EL</td><td>Εναλλακτική απόδειξη</td><td></td></tr>
+<tr><td>EN</td><td>Alternative proof</td><td></td></tr>
+<tr><td>ES</td><td>Prueba alternativa</td><td></td></tr>
+<tr><td>FI</td><td>Vaihtoehtoinen todiste</td><td></td></tr>
+<tr><td>FR</td><td>Preuve alternative</td><td></td></tr>
+<tr><td>GA</td><td>Cruthúnas malartach</td><td></td></tr>
+<tr><td>HR</td><td>Alternativni dokaz</td><td></td></tr>
+<tr><td>HU</td><td>Alternatív igazolás</td><td></td></tr>
+<tr><td>IS</td><td>Önnur sönnun</td><td></td></tr>
+<tr><td>IT</td><td>Prova alternativa</td><td></td></tr>
+<tr><td>LT</td><td>Alternatyvusis įrodymas</td><td></td></tr>
+<tr><td>LV</td><td>Alternatīvs pierādījums</td><td></td></tr>
+<tr><td>MK</td><td>Алтернативен доказ</td><td></td></tr>
+<tr><td>MT</td><td>Prova alternattiva</td><td></td></tr>
+<tr><td>NL</td><td>Alternatief bewijs</td><td></td></tr>
+<tr><td>NO</td><td>Alternativt bevis</td><td></td></tr>
+<tr><td>PL</td><td>Alternatywny dowód</td><td></td></tr>
+<tr><td>PT</td><td>Prova alternativa</td><td></td></tr>
+<tr><td>RO</td><td>Probă alternativă</td><td></td></tr>
+<tr><td>RS</td><td>Алтернативни доказ</td><td></td></tr>
+<tr><td>SK</td><td>Alternatívny dôkaz</td><td></td></tr>
+<tr><td>SL</td><td>Alternativno dokazilo</td><td></td></tr>
+<tr><td>SV</td><td>Alternativt bevis</td><td></td></tr>
+<tr><td>TR</td><td>Alternatif Kanıt</td><td></td></tr>
+<tr><td>BG</td><td>Различия: митническо учреждение, където стоките са представени .................. (наименование и страна)</td><td>Differenze: ufficio al quale sono state presentate le merci .......... (nome e paese) – 99203</td></tr>
+<tr><td>CS</td><td>Nesrovnalosti: úřad, kterému bylo zboží předloženo .................. (název a země)</td><td></td></tr>
+<tr><td>DA</td><td>Forskelle: det sted, hvor varerne blev frembudt .......................... (navn og land)</td><td></td></tr>
+<tr><td>DE</td><td>Unstimmigkeiten: Stelle, bei der die Gestellung erfolgte ....... (Name und Land)</td><td></td></tr>
+<tr><td>EE</td><td>Erinevused: asutus, kuhu kaup esitati ............................................. (nimi ja riik)</td><td></td></tr>
+<tr><td>EL</td><td>Διαφορές: εμπορεύματα προσκομισθέντα στο τελωνείο ........ (Όνομα και χώρα)</td><td></td></tr>
+<tr><td>EN</td><td>Differences: office where goods were presented ................. (name and country)</td><td></td></tr>
+<tr><td>ES</td><td>Diferencias: mercancías presentadas en la oficina ..................... (nombre y país)</td><td></td></tr>
+<tr><td>FI</td><td>Muutos: toimipaikka, jossa tavarat esitetty ................................... (nimi ja maa)</td><td></td></tr>
+<tr><td>FR</td><td>Différences: marchandises présentées au bureau ........................... (nom et pays)</td><td></td></tr>
+<tr><td>GA</td><td>Difríochtaí: oifig inár cuireadh na hearraí i láthair ... (ainm agus tír)</td><td></td></tr>
+<tr><td>HR</td><td>Razlike: Carinarnica kojoj je roba podnesena ............................. (naziv i zemlja)</td><td></td></tr>
+<tr><td>HU</td><td>Eltérések: hivatal, ahol az áruk bemutatása megtörtént .............. (név és ország)</td><td></td></tr>
+<tr><td>IS</td><td>Breyting: tollstjóraskrifstofa þar sem vörum var framvísað ......... (nafn og land)</td><td></td></tr>
+<tr><td>IT</td><td>Differenze: ufficio al quale sono state presentate le merci ........ (nome e paese)</td><td></td></tr>
+<tr><td>LT</td><td>Skirtumai: įstaiga, kuriai pateiktos prekės .................. (pavadinimas ir valstybė)</td><td></td></tr>
+<tr><td>LV</td><td>Atšķirības: muitas iestāde, kurā preces tika uzrādītas .................. (nosaukums un valsts)</td><td></td></tr>
+<tr><td>MK</td><td>Разлики: Испостава каде стоките се ставени на увид .......... (назив и земја)</td><td></td></tr>
+<tr><td>MT</td><td>Differenzi: uffiċċju fejn l-oġġetti kienu ppreżentati (isem u pajjiż)</td><td></td></tr>
+<tr><td>NL</td><td>Verschillen: kantoor waar de goederen zijn aangebracht ........... (naam en land)</td><td></td></tr>
+<tr><td>NO</td><td>Forskjell: det tollsted hvor varene ble fremlagt ........................... (navn og land)</td><td></td></tr>
+<tr><td>PL</td><td>Niezgodności: urząd, w którym przedstawiono towar .................. (nazwa i kraj)</td><td></td></tr>
+<tr><td>PT</td><td>Diferenças: mercadorias apresentadas na estância ........................ (nome e país)</td><td></td></tr>
+<tr><td>RO</td><td>Diferențe: mărfuri prezentate la biroul vamal .............................. (nume și țara)</td><td></td></tr>
+<tr><td>RS</td><td>Разлике: царински орган којем је предата роба .................. (назив и земља)</td><td></td></tr>
+<tr><td>SK</td><td>Rozdiely: úrad, ktorému bol tovar predložený ........................ (názov a krajina)</td><td></td></tr>
+<tr><td>SL</td><td>Razlike: urad, pri katerem je bilo blago predloženo ............... (naziv in država)</td><td></td></tr>
+<tr><td>SV</td><td>Avvikelse: tullkontor där varorna anmäldes .............................. (namn och land)</td><td></td></tr>
+<tr><td>TR</td><td>Değişiklikler: Eşyanın sunulduğu idare ...................................... (adı ve ülkesi).</td><td></td></tr>
+<tr><td>BG</td><td>Излизането от ........................ подлежи на ограничения или такси съгласно Регламент/Директива/Решение № …,</td><td>Uscita dal ..................... soggetta a restrizioni o ad imposizioni a norma del(la) regolamento/ direttiva/decisione n. … – 99204</td></tr>
+<tr><td>CS</td><td>Výstup ze ............................................. podléhá omezením nebo dávkám podle nařízení/směrnice/ rozhodnutí č. …</td><td></td></tr>
+<tr><td>DA</td><td>Udpassage fra ........................ undergivet restriktioner eller afgifter i henhold til forordning/direktiv/ afgørelse nr. …</td><td></td></tr>
+<tr><td>DE</td><td>Ausgang aus ........................ — gemäss Verordnung/Richtlinie/Beschluss Nr. … Beschränkungen oder Abgaben unterworfen.</td><td></td></tr>
+<tr><td>EE</td><td>....................... territooriumilt väljumise suhtes kohaldatakse piiranguid ja makse vastavalt määrusele/direktiivile/otsusele nr …</td><td></td></tr>
+<tr><td>EL</td><td>Η έξοδος από ......................... υποβάλλεται σε περιορισμούς ή σε επιβαρύνσεις από τον κανονισμό/την οδηγία/την απόφαση αριθ. …</td><td></td></tr>
+<tr><td>EN</td><td>Exit from ............................................... subject to restrictions or charges under Regulation/Directive/Decision No …</td><td></td></tr>
+<tr><td>ES</td><td>Salida de ............ sometida a restricciones o imposiciones en virtud del (de la) Reglamento/ Directiva/Decisión no …</td><td></td></tr>
+<tr><td>FI</td><td>......... ........ vientiin sovelletaan asetuksen/ direktiivin/päätöksen N:o … mukaisia rajoituksia tai maksuja</td><td></td></tr>
+<tr><td>FR</td><td>Sortie de ...... soumise à des restrictions ou à des impositions par le règlement ou la directive/décision n. …</td><td></td></tr>
+<tr><td>GA</td><td>Scoir faoi réir srianta nó muirir faoin Uimhir Rialachán/ Treoir/Cinneadh …</td><td></td></tr>
+<tr><td>HR</td><td>Izlaz iz ................................... podliježe ograničenjima ili pristojbama temeljem Uredbe/Direktive/ Odluke br …</td><td></td></tr>
+<tr><td>HU</td><td>A kilépés ................ területéről a ................. rendelet/irányelv/határozat szerinti korlátozás vagy teher megfizetésének kötelezettsége alá esik</td><td></td></tr>
+<tr><td>IS</td><td>Útflutningur frá ............................... háð takmörkunum eða gjöldum samkvæmt reglugerð/ fyrirmælum/ákvörðun nr. ….</td><td></td></tr>
+<tr><td>IT</td><td>Uscita dal ..................... soggetta a restrizioni o ad imposizioni a norma del(la) regolamento/direttiva/ decisione n. …</td><td></td></tr>
+<tr><td>LT</td><td>Išvežimui iš ................................. taikomi apribojimai arba mokesčiai, nustatyti Reglamentu/Direktyva/Sprendimu Nr. …</td><td></td></tr>
+<tr><td>LV</td><td>Izvešana no ................... , piemērojot ierobežojumus vai maksājumus saskaņā ar Regulu/ Direktīvu/Lēmumu Nr. …</td><td></td></tr>
+<tr><td>MK</td><td>Излез од ............................. предмет на ограничувања или давачки согласно Уредба/Директива/Решение № ….</td><td></td></tr>
+<tr><td>MT</td><td>Ħruġ mill-...................................... suġġett għal restrizzjonijiet jew ħlasijiet taħt Regola/ Direttiva/Deċiżjoni Nru …</td><td></td></tr>
+<tr><td>NL</td><td>Bij uitgang uit de ................................... zijn de beperkingen of heffingen van Verordening/ Richtlijn/Besluit nr. … van toepassing.</td><td></td></tr>
+<tr><td>NO</td><td>Utførsel fra ............................ underlagt restriksjoner eller avgifter i henhold til forordning/direktiv/ vedtak nr. ….</td><td></td></tr>
+<tr><td>PL</td><td>Wyprowadzenie z ...................... podlega ograniczeniom lub opłatom zgodnie z rozporządzeniem/ dyrektywą/decyzją nr …</td><td></td></tr>
+<tr><td>PT</td><td>Saída da .......................................... sujeita a restrições ou a imposições pelo(a) Regulamento/ Directiva/Decisão n.° …</td><td></td></tr>
+<tr><td>RO</td><td>Ieșire din ..................................... supusă restricțiilor sau impunerilor în temeiul Regulamentului/ Directivei/Deciziei nr …</td><td></td></tr>
+<tr><td>RS</td><td>Излаз из ......................... подлеже ограничењима или дажбинама на основу Уредбе/Директиве/Одлуке бр …</td><td></td></tr>
+<tr><td>SK</td><td>Výstup z ....................................... podlieha obmedzeniam alebo platbám podľa nariadenia/ smernice/rozhodnutia č. ….</td><td></td></tr>
+<tr><td>SL</td><td>Iznos iz .......................... zavezan omejitvam ali obveznim dajatvam na podlagi Uredbe/Direktive/ Odločbe št. …</td><td></td></tr>
+<tr><td>SV</td><td>Utförsel från ................... underkastad restriktioner eller avgifter i enlighet med förordning/direktiv/ beslut nr …</td><td></td></tr>
+<tr><td>TR</td><td>Eşyanın .............. ’dan çıkışı............... . No.lu Tüzük/Direktif/Karar kapsamında kısıtlamalara veya mali yükümlülüklere tabidir</td><td></td></tr>
+<tr><td>BG</td><td>Одобрен изпращач</td><td>Speditore autorizzato – 99206</td></tr>
+<tr><td>CS</td><td>Schválený odesílatel</td><td></td></tr>
+<tr><td>DA</td><td>Godkendt afsender</td><td></td></tr>
+<tr><td>DE</td><td>Zugelassener Versender</td><td></td></tr>
+<tr><td>EE</td><td>Volitatud kaubasaatja</td><td></td></tr>
+<tr><td>EL</td><td>Εγκεκριμένος αποστολέας</td><td></td></tr>
+<tr><td>EN</td><td>Authorised consignor</td><td></td></tr>
+<tr><td>ES</td><td>Expedidor autorizado</td><td></td></tr>
+<tr><td>FI</td><td>Valtuutettu lähettäjä</td><td></td></tr>
+<tr><td>FR</td><td>Expéditeur agréé</td><td></td></tr>
+<tr><td>GA</td><td>Coinsíneoir údaraithe</td><td></td></tr>
+<tr><td>HR</td><td>Ovlašteni pošiljatelj</td><td></td></tr>
+<tr><td>HU</td><td>Engedélyezett feladó</td><td></td></tr>
+<tr><td>IS</td><td>Viðurkenndur sendandi</td><td></td></tr>
+<tr><td>IT</td><td>Speditore autorizzato</td><td></td></tr>
+<tr><td>LT</td><td>Įgaliotas siuntėjas</td><td></td></tr>
+<tr><td>LV</td><td>Atzītais nosūtītājs</td><td></td></tr>
+<tr><td>MK</td><td>Овластен испраќач</td><td></td></tr>
+<tr><td>MT</td><td>Awtorizzat li jibgħat</td><td></td></tr>
+<tr><td>NL</td><td>Toegelaten afzender</td><td></td></tr>
+<tr><td>NO</td><td>Autorisert avsender</td><td></td></tr>
+<tr><td>PL</td><td>Upoważniony nadawca</td><td></td></tr>
+<tr><td>PT</td><td>Expedidor autorizado</td><td></td></tr>
+<tr><td>RO</td><td>Expeditor agreat</td><td></td></tr>
+<tr><td>RS</td><td>Овлашћени пошиљалац</td><td></td></tr>
+<tr><td>SK</td><td>Schválený odosielateľ</td><td></td></tr>
+<tr><td>SL</td><td>Pooblaščeni pošiljatelj</td><td></td></tr>
+<tr><td>SV</td><td>Godkänd avsändare</td><td></td></tr>
+<tr><td>TR</td><td>İzinli Gönderici</td><td></td></tr>
+<tr><td>BG</td><td>Освободен от подпис</td><td>Dispensa dalla firma – 99207</td></tr>
+<tr><td>CS</td><td>Podpis se nevyžaduje</td><td></td></tr>
+<tr><td>DA</td><td>Fritaget for underskrift</td><td></td></tr>
+<tr><td>DE</td><td>Freistellung von der Unterschriftsleistung</td><td></td></tr>
+<tr><td>EE</td><td>Allkirjanõudest loobutud</td><td></td></tr>
+<tr><td>EL</td><td>Δεν απαιτείται υπογραφή</td><td></td></tr>
+<tr><td>EN</td><td>Signature waived</td><td></td></tr>
+<tr><td>ES</td><td>Dispensa de firma</td><td></td></tr>
+<tr><td>FI</td><td>Vapautettu allekirjoituksesta</td><td></td></tr>
+<tr><td>FR</td><td>Dispense de signature</td><td></td></tr>
+<tr><td>GA</td><td>Tharscaoileadh an síniú</td><td></td></tr>
+<tr><td>HR</td><td>Oslobođeno potpisa</td><td></td></tr>
+<tr><td>HU</td><td>Aláírás alól mentesítve</td><td></td></tr>
+<tr><td>IS</td><td>Undanþegið undirskrift</td><td></td></tr>
+<tr><td>IT</td><td>Dispensa dalla firma</td><td></td></tr>
+<tr><td>LT</td><td>Leista nepasirašyti</td><td></td></tr>
+<tr><td>LV</td><td>Derīgs bez paraksta</td><td></td></tr>
+<tr><td>MK</td><td>Изземање од потпис</td><td></td></tr>
+<tr><td>MT</td><td>Firma mhux meħtieġa</td><td></td></tr>
+<tr><td>NL</td><td>Van ondertekening vrijgesteld</td><td></td></tr>
+<tr><td>NO</td><td>Fritatt for underskrift</td><td></td></tr>
+<tr><td>PL</td><td>Zwolniony ze składania podpisu</td><td></td></tr>
+<tr><td>PT</td><td>Dispensada a assinatura</td><td></td></tr>
+<tr><td>RO</td><td>Dispensă de semnătură</td><td></td></tr>
+<tr><td>RS</td><td>Ослобођено од потписа</td><td></td></tr>
+<tr><td>SK</td><td>Upustenie od podpisu</td><td></td></tr>
+<tr><td>SL</td><td>Opustitev podpisa</td><td></td></tr>
+<tr><td>SV</td><td>Befrielse från underskrift</td><td></td></tr>
+<tr><td>TR</td><td>İmzadan Vazgeçme</td><td></td></tr>
+<tr><td>BG</td><td>ЗАБРАНЕНО ОБЩО ОБЕЗПЕЧЕНИЕ</td><td>Garanzia globale vietata – 99208</td></tr>
+<tr><td>CS</td><td>ZÁKAZ SOUBORNÉ JISTOTY</td><td></td></tr>
+<tr><td>DA</td><td>FORBUD MOD SAMLET SIKKERHEDSSTILLELSE</td><td></td></tr>
+<tr><td>DE</td><td>GESAMTBÜRGSCHAFT UNTERSAGT</td><td></td></tr>
+<tr><td>EE</td><td>ÜLDTAGATISE KASUTAMINE KEELATUD</td><td></td></tr>
+<tr><td>EL</td><td>ΑΠΑΓΟΡΕΥΕΤΑΙ Η ΣΥΝΟΛΙΚΗ ΕΓΓΥΗΣΗ</td><td></td></tr>
+<tr><td>EN</td><td>COMPREHENSIVE GUARANTEE PROHIBITED</td><td></td></tr>
+<tr><td>ES</td><td>GARANTÍA GLOBAL PROHIBIDA</td><td></td></tr>
+<tr><td>FI</td><td>YLEISVAKUUDEN KÄYTTÖ KIELLETTY</td><td></td></tr>
+<tr><td>FR</td><td>GARANTIE GLOBALE INTERDITE</td><td></td></tr>
+<tr><td>GA</td><td>RATHAÍOCHT CHUIMSITHEACH COISCTHE</td><td></td></tr>
+<tr><td>HR</td><td>ZABRANJENO ZAJEDNIČKO JAMSTVO</td><td></td></tr>
+<tr><td>HU</td><td>ÖSSZKEZESSÉG TILOS</td><td></td></tr>
+<tr><td>IS</td><td>ALLSHERJARTRYGGING BÖNNUÐ</td><td></td></tr>
+<tr><td>IT</td><td>GARANZIA GLOBALE VIETATA</td><td></td></tr>
+<tr><td>LT</td><td>NAUDOTI BENDRĄJĄ GARANTIJĄ UŽDRAUSTA</td><td></td></tr>
+<tr><td>LV</td><td>VISPĀRĒJS GALVOJUMS AIZLIEGTS</td><td></td></tr>
+<tr><td>MK</td><td>ЗАБРАНА ЗА УПОТРЕБА НА ОПШТА ГАРАНЦИЈА</td><td></td></tr>
+<tr><td>MT</td><td>MHUX PERMESSA GARANZIJA KOMPRENSIVA</td><td></td></tr>
+<tr><td>NL</td><td>DOORLOPENDE ZEKERHEID VERBODEN</td><td></td></tr>
+<tr><td>NO</td><td>FORBUD MOT BRUK AV UNIVERSALGARANTI</td><td></td></tr>
+<tr><td>PL</td><td>ZAKAZ KORZYSTANIA Z GWARANCJI GENERALNEJ</td><td></td></tr>
+<tr><td>PT</td><td>GARANTIA GLOBAL PROIBIDA</td><td></td></tr>
+<tr><td>RO</td><td>GARANŢIA GLOBALĂ INTERZISĂ</td><td></td></tr>
+<tr><td>RS</td><td>ЗАБРАЊЕНО ЗАЈЕДНИЧКО ОБЕЗБЕЂЕЊЕ</td><td></td></tr>
+<tr><td>SK</td><td>ZÁKAZ CELKOVEJ ZÁRUKY</td><td></td></tr>
+<tr><td>SL</td><td>PREPOVEDANO SPLOŠNO ZAVAROVANJE</td><td></td></tr>
+<tr><td>SV</td><td>SAMLAD SÄKERHET FÖRBJUDEN</td><td></td></tr>
+<tr><td>TR</td><td>KAPSAMLI TEMİNAT YASAKLANMIȘTIR.</td><td></td></tr>
+<tr><td>BG</td><td>ИЗПОЛЗВАНЕ БЕЗ ОГРАНИЧЕНИЯ</td><td>Utilizzazione non limitata – 99209</td></tr>
+<tr><td>CS</td><td>NEOMEZENÉ POUŽITÍ</td><td></td></tr>
+<tr><td>DA</td><td>UBEGRÆNSET ANVENDELSE</td><td></td></tr>
+<tr><td>DE</td><td>UNBESCHRÄNKTE VERWENDUNG</td><td></td></tr>
+<tr><td>EE</td><td>PIIRAMATU KASUTAMINE</td><td></td></tr>
+<tr><td>EL</td><td>ΑΠΕΡΙΟΡΙΣΤΗ ΧΡΗΣΗ</td><td></td></tr>
+<tr><td>EN</td><td>UNRESTRICTED USE</td><td></td></tr>
+<tr><td>ES</td><td>UTILIZACIÓN NO LIMITADA</td><td></td></tr>
+<tr><td>FI</td><td>KÄYTTÖÄ EI RAJOITETTU</td><td></td></tr>
+<tr><td>FR</td><td>UTILISATION NON LIMITÉE</td><td></td></tr>
+<tr><td>GA</td><td>ÚSÁID NEAMHSHRIANTA</td><td></td></tr>
+<tr><td>HR</td><td>NEOGRANIČENA UPORABA</td><td></td></tr>
+<tr><td>HU</td><td>KORLÁTOZÁS ALÁ NEM ESŐ HASZNÁLAT</td><td></td></tr>
+<tr><td>IS</td><td>ÓTAKMÖRKUÐ NOTKUN</td><td></td></tr>
+<tr><td>IT</td><td>UTILIZZAZIONE NON LIMITATA</td><td></td></tr>
+<tr><td>LT</td><td>NEAPRIBOTAS NAUDOJIMAS</td><td></td></tr>
+<tr><td>LV</td><td>NEIEROBEŽOTS IZMANTOJUMS</td><td></td></tr>
+<tr><td>MK</td><td>УПОТРЕБА БЕЗ ОГРАНИЧУВАЊЕ</td><td></td></tr>
+<tr><td>MT</td><td>UŻU MHUX RISTRETT</td><td></td></tr>
+<tr><td>NL</td><td>GEBRUIK ONBEPERKT</td><td></td></tr>
+<tr><td>NO</td><td>UBEGRENSET BRUK</td><td></td></tr>
+<tr><td>PL</td><td>NIEOGRANICZONE KORZYSTANIE</td><td></td></tr>
+<tr><td>PT</td><td>UTILIZAÇÃO ILIMITADA</td><td></td></tr>
+<tr><td>RO</td><td>UTILIZARE NELIMITATĂ</td><td></td></tr>
+<tr><td>RS</td><td>НЕОГРАНИЧЕНА УПОТРЕБА</td><td></td></tr>
+<tr><td>SK</td><td>NEOBMEDZENÉ POUŽITIE</td><td></td></tr>
+<tr><td>SL</td><td>NEOMEJENA UPORABA</td><td></td></tr>
+<tr><td>SV</td><td>OBEGRÄNSAD ANVÄNDNING</td><td></td></tr>
+<tr><td>TR</td><td>KISITLANMAMIȘ KULLANIM</td><td></td></tr>
+<tr><td>BG</td><td>Издаден впоследствие</td><td>Rilasciato a posteriori – 99210</td></tr>
+<tr><td>CS</td><td>Vystaveno dodatečně</td><td></td></tr>
+<tr><td>DA</td><td>Udstedt efterfølgende</td><td></td></tr>
+<tr><td>DE</td><td>Nachträglich ausgestellt</td><td></td></tr>
+<tr><td>EE</td><td>Välja antud tagasiulatuvalt</td><td></td></tr>
+<tr><td>EL</td><td>Εκδοθέν εκ των υστέρων</td><td></td></tr>
+<tr><td>EN</td><td>Issued retrospectively</td><td></td></tr>
+<tr><td>ES</td><td>Expedido a posteriori</td><td></td></tr>
+<tr><td>FI</td><td>Annettu jälkikäteen</td><td></td></tr>
+<tr><td>FR</td><td>Délivré a posteriori</td><td></td></tr>
+<tr><td>GA</td><td>Eisithe go haisghníomhach</td><td></td></tr>
+<tr><td>HR</td><td>Izdano naknadno</td><td></td></tr>
+<tr><td>HU</td><td>Kiadva visszamenőleges hatállyal</td><td></td></tr>
+<tr><td>IS</td><td>Útgefið eftir á</td><td></td></tr>
+<tr><td>IT</td><td>Rilasciato a posteriori</td><td></td></tr>
+<tr><td>LT</td><td>Retrospektyvusis išdavimas</td><td></td></tr>
+<tr><td>LV</td><td>Izsniegts retrospektīvi</td><td></td></tr>
+<tr><td>MK</td><td>Дополнително издадено</td><td></td></tr>
+<tr><td>MT</td><td>Maħruġ b’mod retrospettiv</td><td></td></tr>
+<tr><td>NL</td><td>Achteraf afgegeven</td><td></td></tr>
+<tr><td>NO</td><td>Utstedt i etterhånd</td><td></td></tr>
+<tr><td>PL</td><td>Wystawione retrospektywnie</td><td></td></tr>
+<tr><td>PT</td><td>Emitido a posteriori</td><td></td></tr>
+<tr><td>RO</td><td>Eliberat ulterior</td><td></td></tr>
+<tr><td>RS</td><td>Накнадно издато</td><td></td></tr>
+<tr><td>SK</td><td>Vyhotovené dodatočne</td><td></td></tr>
+<tr><td>SL</td><td>Izdano naknadno</td><td></td></tr>
+<tr><td>SV</td><td>Utfärdat i efterhand</td><td></td></tr>
+<tr><td>TR</td><td>Sonradan Düzenlenmiştir</td><td></td></tr>
+<tr><td>BG</td><td>Разни</td><td>Vari – 99211</td></tr>
+<tr><td>CS</td><td>Různí</td><td></td></tr>
+<tr><td>DA</td><td>Diverse</td><td></td></tr>
+<tr><td>DE</td><td>Verschiedene</td><td></td></tr>
+<tr><td>EE</td><td>Erinevad</td><td></td></tr>
+<tr><td>EL</td><td>Διάφορα</td><td></td></tr>
+<tr><td>EN</td><td>Various</td><td></td></tr>
+<tr><td>ES</td><td>Varios</td><td></td></tr>
+<tr><td>FI</td><td>Useita</td><td></td></tr>
+<tr><td>FR</td><td>Divers</td><td></td></tr>
+<tr><td>GA</td><td>Éagsúil</td><td></td></tr>
+<tr><td>HR</td><td>Razni</td><td></td></tr>
+<tr><td>HU</td><td>Többféle</td><td></td></tr>
+<tr><td>IS</td><td>Ýmis</td><td></td></tr>
+<tr><td>IT</td><td>Vari</td><td></td></tr>
+<tr><td>LT</td><td>Įvairūs</td><td></td></tr>
+<tr><td>LV</td><td>Dažādi</td><td></td></tr>
+<tr><td>MK</td><td>Различни</td><td></td></tr>
+<tr><td>MT</td><td>Diversi</td><td></td></tr>
+<tr><td>NL</td><td>Diversen</td><td></td></tr>
+<tr><td>NO</td><td>Diverse</td><td></td></tr>
+<tr><td>PL</td><td>Różne</td><td></td></tr>
+<tr><td>PT</td><td>Diversos</td><td></td></tr>
+<tr><td>RO</td><td>Diverse</td><td></td></tr>
+<tr><td>RS</td><td>Разно</td><td></td></tr>
+<tr><td>SK</td><td>Rôzne</td><td></td></tr>
+<tr><td>SL</td><td>Razno</td><td></td></tr>
+<tr><td>SV</td><td>Flera</td><td></td></tr>
+<tr><td>TR</td><td>Çeșitli</td><td></td></tr>
+<tr><td>BG</td><td>Насипно</td><td>Alla rinfusa – 99212</td></tr>
+<tr><td>CS</td><td>Volně loženo</td><td></td></tr>
+<tr><td>DA</td><td>Bulk</td><td></td></tr>
+<tr><td>DE</td><td>Lose</td><td></td></tr>
+<tr><td>EE</td><td>Pakendamata</td><td></td></tr>
+<tr><td>EL</td><td>Χύμα</td><td></td></tr>
+<tr><td>EN</td><td>Bulk</td><td></td></tr>
+<tr><td>ES</td><td>A granel</td><td></td></tr>
+<tr><td>FI</td><td>Irtotavaraa</td><td></td></tr>
+<tr><td>FR</td><td>Vrac</td><td></td></tr>
+<tr><td>GA</td><td>Bulc</td><td></td></tr>
+<tr><td>HR</td><td>Rasuto</td><td></td></tr>
+<tr><td>HU</td><td>Ömlesztett</td><td></td></tr>
+<tr><td>IS</td><td>Vara í lausu</td><td></td></tr>
+<tr><td>IT</td><td>Alla rinfusa</td><td></td></tr>
+<tr><td>LT</td><td>Nesupakuota</td><td></td></tr>
+<tr><td>LV</td><td>Berams</td><td></td></tr>
+<tr><td>MK</td><td>Рефус</td><td></td></tr>
+<tr><td>MT</td><td>Bil-kwantitá</td><td></td></tr>
+<tr><td>NL</td><td>Los gestort</td><td></td></tr>
+<tr><td>NO</td><td>Bulk</td><td></td></tr>
+<tr><td>PL</td><td>Luzem</td><td></td></tr>
+<tr><td>PT</td><td>A granel</td><td></td></tr>
+<tr><td>RO</td><td>Vrac</td><td></td></tr>
+<tr><td>RS</td><td>Расуто</td><td></td></tr>
+<tr><td>SK</td><td>Voľne ložené</td><td></td></tr>
+<tr><td>SL</td><td>Razsuto</td><td></td></tr>
+<tr><td>SV</td><td>Bulk</td><td></td></tr>
+<tr><td>TR</td><td>Dökme</td><td></td></tr>
+<tr><td>BG</td><td>Изпращач</td><td>Speditore – 99213</td></tr>
+<tr><td>CS</td><td>Odesílatel</td><td></td></tr>
+<tr><td>DA</td><td>Afsender</td><td></td></tr>
+<tr><td>DE</td><td>Versender</td><td></td></tr>
+<tr><td>EE</td><td>Saatja</td><td></td></tr>
+<tr><td>EL</td><td>Αποστολέας</td><td></td></tr>
+<tr><td>EN</td><td>Consignor</td><td></td></tr>
+<tr><td>ES</td><td>Expedidor</td><td></td></tr>
+<tr><td>FI</td><td>Lähettäjä</td><td></td></tr>
+<tr><td>FR</td><td>Expéditeur</td><td></td></tr>
+<tr><td>GA</td><td>Coinsíneoir</td><td></td></tr>
+<tr><td>HR</td><td>Pošiljatelj</td><td></td></tr>
+<tr><td>HU</td><td>Feladó</td><td></td></tr>
+<tr><td>IS</td><td>Sendandi</td><td></td></tr>
+<tr><td>IT</td><td>Speditore</td><td></td></tr>
+<tr><td>LT</td><td>Siuntėjas</td><td></td></tr>
+<tr><td>LV</td><td>Nosūtītājs</td><td></td></tr>
+<tr><td>MK</td><td>Испраќач</td><td></td></tr>
+<tr><td>MT</td><td>Min jikkonsenja</td><td></td></tr>
+<tr><td>NL</td><td>Afzender</td><td></td></tr>
+<tr><td>NO</td><td>Avsender</td><td></td></tr>
+<tr><td>PL</td><td>Nadawca</td><td></td></tr>
+<tr><td>PT</td><td>Expedidor</td><td></td></tr>
+<tr><td>RO</td><td>Expeditor</td><td></td></tr>
+<tr><td>RS</td><td>Пошиљалац</td><td></td></tr>
+<tr><td>SK</td><td>Odosielateľ</td><td></td></tr>
+<tr><td>SL</td><td>Pošiljatelj</td><td></td></tr>
+<tr><td>SV</td><td>Avsändare</td><td></td></tr>
+<tr><td>TR</td><td>Gönderici</td><td></td></tr>
 </table>
 
 Allegato A3 bis dell’appendice III bis
@@ -6716,7 +8250,7 @@ Il presente allegato si applica a decorrere dalla data di introduzione dell’ag
 
 Modello di documento di accompagnamento transito
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210810/it/xml/image/image7.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20220825/it/xml/image/image7.png)
 
 Allegato A4 bis dell’appendice III bis
 
@@ -6799,7 +8333,7 @@ Il presente allegato si applica a decorrere dalla data di introduzione dell’ag
 
 Modello di elenco degli articoli
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210810/it/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20220825/it/xml/image/image8.png)
 
 Allegato A6 bis dell’appendice III bis
 
@@ -7347,552 +8881,13 @@ La firma di un funzionario dell’ufficio doganale di partenza è facoltativa.
 
 \6. Le disposizioni di cui ai paragrafi da 1 a 5 si applicano mutatis mutandis qualora la distinta di carico sia allegata a un documento T2L.
 
-Allegato B6 bis dell’appendice III bis
-
-## Requisiti comuni in materia di dati per una dichiarazione di transito
-
-Il presente allegato si applica a decorrere dalla data di introduzione dell’aggiornamento del sistema NCTS di cui all’allegato della decisione di esecuzione (UE) 2016/578 della Commissione, dell’11 aprile 2016, che stabilisce il programma di lavoro relativo allo sviluppo e all’utilizzazione dei sistemi elettronici previsti dal codice doganale dell’Unione (GU L 99 del 15.4.2016, pag. 6), ad eccezione delle disposizioni relative ai dati connessi a un documento di trasporto elettronico come dichiarazione di transito di cui all’articolo 55, paragrafo 1, lettera h), dell’appendice I, che si applicano al più tardi a decorrere dal 1° maggio 2018.
-
-### Titolo I: Generalità
-
-\1. I dati che possono essere forniti per ciascun regime di transito sono indicati nella tabella sui requisiti in materia di dati. L’applicazione delle disposizioni specifiche relative a ciascun dato, come da descrizione di cui al titolo III, lascia impregiudicato lo stato dei dati quale definito nelle tabelle dei requisiti in materia di dati.
-
-\2. I dati si applicano sia alle dichiarazioni di transito presentate utilizzando procedimenti informatici che alle dichiarazioni su supporto cartaceo.
-
-\3. Esistono tre tipi di dichiarazione di transito: dichiarazioni di transito standard, dichiarazioni di transito con requisiti ridotti in materia di dati e documenti di trasporto elettronico come dichiarazioni di transito. Le disposizioni che si applicano a tutte le situazioni in cui è richiesto il dato in questione sono riportate nella rubrica «Tutti i tipi di dichiarazioni di transito». Se i requisiti in materia di dati si riferiscono soltanto a uno o più tipi di dichiarazione di transito, l’intestazione appropriata è «dichiarazione di transito standard», «dichiarazione di transito standard e dichiarazione di transito con requisiti ridotti in materia di dati» o «documento di trasporto elettronico come dichiarazione di transito».
-
-\4. I simboli «A», «B» o «C» nella tabella che segue non incidono sul fatto che taluni dati sono raccolti soltanto quando le circostanze lo richiedono. Essi possono essere integrati soltanto dalle condizioni o dai chiarimenti elencati nelle note allegate ai requisiti in materia di dati.
-
-\5. I formati, i codici e, se del caso, la struttura dei requisiti in materia di dati descritti nel presente allegato sono specificati nell’allegato A1 *bis*.
-
-### Titolo II: Simboli
-
-Simboli nelle caselle
-
-- Simbolo Descrizione del simbolo
-- A Obbligatorio: dati richiesti da tutti i paesi
-- B A discrezione del paese: dati che i singoli paesi possono decidere se richiedere o no.
-- C A discrezione dei dichiaranti: dati che i dichiaranti possono fornire ma che i paesi non possono esigere.
-- X Dato richiesto a livello di articoli della dichiarazione di transito. Le informazioni inserite a livello di articoli delle merci sono valide solo per gli articoli delle merci interessate.
-- Y Dato richiesto a livello di intestazione della dichiarazione di transito. Le informazioni inserite a livello di intestazione sono valide per tutti gli articoli delle merci dichiarati.
-
-Ogni combinazione dei simboli «X» e «Y» indica che il dato di cui trattasi può essere fornito dal dichiarante a ognuno dei livelli interessati.
-
-### Titolo III
-
-### Sezione I: Tabella dei requisiti in materia di dati
-
-(le note alla presente tabella sono inserite fra parentesi)
-
-Gruppo 1 – Informazioni del messaggio (inclusi i codici dei regimi)
-
-<table>
-<tr><th>Dato N.</th><th>Denominazione del dato</th><th>Casella n.</th><th>Dichiarazione di transito standard</th><th>Dichiarazione di transito con requisiti ridotti in materia di dati</th><th>Documento di trasporto elettronico come dichiarazione di transito</th></tr>
-<tr><td>1/2</td><td>Tipo di dichiarazione supplementare</td><td>1/2</td><td>A Y</td><td>A Y</td><td></td></tr>
-<tr><td>1/3</td><td>Tipo di dichiarazione di transito</td><td>1/3</td><td>A XY</td><td>A XY</td><td>A XY</td></tr>
-<tr><td>1/4</td><td>Moduli</td><td>3</td><td>B (1) (2) Y</td><td>B (1) (2) Y</td><td></td></tr>
-<tr><td>1/5</td><td>Distinte di carico</td><td>4</td><td>B (1) Y</td><td>B (1) Y</td><td></td></tr>
-<tr><td>1/6</td><td>Numero di articolo</td><td>32</td><td>A (2) X</td><td>A (2) X</td><td></td></tr>
-<tr><td>1/8</td><td>Firma/Autenticazione</td><td>54</td><td>A Y</td><td>A Y</td><td>A Y</td></tr>
-<tr><td>1/9</td><td>Numero totale di articoli</td><td>5</td><td>B (1) Y</td><td>B (1) Y</td><td></td></tr>
-</table>
-
-Gruppo 2 – Riferimenti a messaggi, documenti, certificati e autorizzazioni
-
-<table>
-<tr><th>Dato N.</th><th>Denominazione del dato</th><th>Casella n.</th><th>Dichiarazione di transito standard</th><th>Dichiarazione di transito con requisiti ridotti in materia di dati</th><th>Documento di trasporto elettronico come dichiarazione di transito</th></tr>
-<tr><td>2/1</td><td>Dichiarazione semplificata/ Documenti precedenti</td><td>40</td><td>A XY</td><td>A XY</td><td>A XY</td></tr>
-<tr><td>2/2</td><td>Menzioni speciali</td><td>44</td><td>A XY</td><td>A XY</td><td>A X</td></tr>
-<tr><td>2/3</td><td>Documenti presentati, certificati e autorizzazioni. Riferimenti complementari</td><td>44</td><td>A (7) XY</td><td>A (7) XY</td><td>A X</td></tr>
-</table>
-
-Gruppo 3 – parti
-
-<table>
-<tr><th>Dato N.</th><th>Denominazione del dato</th><th>Casella n.</th><th>Dichiarazione di transito standard</th><th>Dichiarazione di transito con requisiti ridotti in materia di dati</th><th>Documento di trasporto elettronico come dichiarazione di transito</th></tr>
-<tr><td>3/1</td><td>Esportatore</td><td>2</td><td>B XY</td><td></td><td></td></tr>
-<tr><td>3/2</td><td>N. di identificazione dell’esportatore</td><td>2 (n.)</td><td>B XY</td><td></td><td></td></tr>
-<tr><td>3/9</td><td>Destinatario</td><td>8</td><td>A (12) (51) XY</td><td>A (12) (51) XY</td><td>A (12) (51) XY</td></tr>
-<tr><td>3/10</td><td>N. di identificazione del destinatario</td><td>8 (n.)</td><td>B XY</td><td>B XY</td><td>B XY</td></tr>
-<tr><td>3/19</td><td>Rappresentante</td><td>14</td><td>A (13) (51) Y</td><td>A (13) Y</td><td>A (13) Y</td></tr>
-<tr><td>3/20</td><td>N. di identificazione del rappresentante</td><td>14 (n.)</td><td>A (52) Y</td><td>A (52) Y</td><td>A (52) Y</td></tr>
-<tr><td>3/21</td><td>Codice di qualifica del rappresentante</td><td>14</td><td>A Y</td><td>A Y</td><td>A Y</td></tr>
-<tr><td>3/22</td><td>Titolare del regime di transito</td><td>50</td><td>A (13) (51) Y</td><td>A (13) Y</td><td>A (13) Y</td></tr>
-<tr><td>3/23</td><td>N. di identificazione del titolare del regime di transito</td><td>50 (n.)</td><td>A (52) Y</td><td>A (52) Y</td><td>A (52) Y</td></tr>
-<tr><td>3/37</td><td>N. di identificazione degli altri attori della catena di approvvigionamento</td><td>44</td><td>C XY</td><td>C XY</td><td>C XY</td></tr>
-</table>
-
-Gruppo 5 – Date/Ore/Periodi/Luoghi/Paesi/Regioni
-
-<table>
-<tr><th>Dato N.</th><th>Denominazione del dato</th><th>Casella n.</th><th>Dichiarazione di transito standard</th><th>Dichiarazione di transito con requisiti ridotti in materia di dati</th><th>Documento di trasporto elettronico come dichiarazione di transito</th></tr>
-<tr><td>5/4</td><td>Data della dichiarazione</td><td>50.54</td><td>B (1) Y</td><td>B (1) Y</td><td></td></tr>
-<tr><td>5/5</td><td>Luogo della dichiarazione</td><td>50.54</td><td>B (1) Y</td><td>B (1) Y</td><td></td></tr>
-<tr><td>5/6</td><td>Ufficio di destinazione (e paese)</td><td>53</td><td>A Y</td><td>A Y</td><td>A Y</td></tr>
-<tr><td>5/7</td><td>Uffici di passaggio previsti (e paese)</td><td>51</td><td>A Y</td><td>A Y</td><td></td></tr>
-<tr><td>5/8</td><td>Codice del paese di destinazione</td><td>17a</td><td>A XY</td><td>A XY</td><td>A XY</td></tr>
-<tr><td>5/21</td><td>Luogo di carico</td><td>27</td><td>B Y</td><td>B Y</td><td>B Y</td></tr>
-<tr><td>5/23</td><td>Ubicazione delle merci</td><td>30</td><td>A Y (23)</td><td>A Y (23)</td><td></td></tr>
-</table>
-
-Gruppo 6 – Identificazione delle merci
-
-<table>
-<tr><th>Dato N.</th><th>Denominazione del dato</th><th>Casella n.</th><th>Dichiarazione di transito standard</th><th>Dichiarazione di transito con requisiti ridotti in materia di dati</th><th>Documento di trasporto elettronico come dichiarazione di transito</th></tr>
-<tr><td>6/1</td><td>Massa netta (kg)</td><td>38</td><td>A (23) X</td><td></td><td></td></tr>
-<tr><td>6/5</td><td>Massa lorda (kg)</td><td>35</td><td>A XY</td><td>A XY</td><td>A XY</td></tr>
-<tr><td>6/8</td><td>Descrizione delle merci</td><td>31</td><td>A X</td><td>A X</td><td>A X</td></tr>
-<tr><td>6/9</td><td>Tipo di colli</td><td>31</td><td>A X</td><td>A X</td><td>A X</td></tr>
-<tr><td>6/10</td><td>Numero di colli</td><td>31</td><td>A X</td><td>A X</td><td>A X</td></tr>
-<tr><td>6/11</td><td>Marchi di spedizione</td><td>31</td><td>A X</td><td>A X</td><td>A X</td></tr>
-<tr><td>6/13</td><td>Codice CUS</td><td>31</td><td>C X</td><td>C X</td><td>C X</td></tr>
-<tr><td>6/14</td><td>Codice delle merci – Codice della nomenclatura combinata</td><td>33</td><td>A (37) X</td><td>A (37) X</td><td>A (37) X</td></tr>
-<tr><td>6/18</td><td>Totale dei colli</td><td>6</td><td>A Y</td><td>A Y</td><td>A Y</td></tr>
-</table>
-
-Gruppo 7 – Informazioni sui trasporti (modi, mezzi e apparecchiature)
-
-<table>
-<tr><th>Dato N.</th><th>Denominazione del dato</th><th>Casella n.</th><th>Dichiarazione di transito standard</th><th>Dichiarazione di transito con requisiti ridotti in materia di dati</th><th>Documento di trasporto elettronico come dichiarazione di transito</th></tr>
-<tr><td>7/1</td><td>Trasbordo</td><td>55</td><td>A (38) Y</td><td>A (38) Y</td><td></td></tr>
-<tr><td>7/2</td><td>Contenitori</td><td>19</td><td>A Y</td><td>A Y</td><td></td></tr>
-<tr><td>7/4</td><td>Modo di trasporto fino alla frontiera</td><td>25</td><td>A (39) Y</td><td>A (39) Y</td><td></td></tr>
-<tr><td>7/5</td><td>Modo di trasporto interno</td><td>26</td><td>B (40) Y</td><td></td><td></td></tr>
-<tr><td>7/7</td><td>Identità del mezzo di trasporto alla partenza</td><td>18(1)</td><td>A (43) (44) (45) XY</td><td>A (43) (44) (45) XY</td><td>A XY</td></tr>
-<tr><td>7/8</td><td>Nazionalità del mezzo di trasporto alla partenza</td><td>18(2)</td><td>A (46) (44) (45) XY</td><td></td><td></td></tr>
-<tr><td>7/10</td><td>Numero di identificazione del container</td><td>31</td><td>A XY</td><td>A XY</td><td>A XY</td></tr>
-<tr><td>7/14</td><td>Identità del mezzo di trasporto attivo che attraversa la frontiera</td><td>21(1)</td><td>B (46) XY</td><td></td><td></td></tr>
-<tr><td>7/15</td><td>Nazionalità del mezzo di trasporto attivo che attraversa la frontiera</td><td>21(2)</td><td>A (46) XY</td><td></td><td></td></tr>
-<tr><td>7/18</td><td>Numero del sigillo</td><td>D</td><td>A Y</td><td>A Y</td><td>A Y</td></tr>
-<tr><td>7/19</td><td>Altri incidenti durante il trasporto</td><td>56</td><td>A (38) Y</td><td>A (38) Y</td><td></td></tr>
-</table>
-
-Gruppo 8 – Altri dati (dati statistici, garanzie, dati relativi alle tariffe)
-
-<table>
-<tr><th>Dato N.</th><th>Denominazione del dato</th><th>Casella n.</th><th>Dichiarazione di transito standard</th><th>Dichiarazione di transito con requisiti ridotti in materia di dati</th><th>Documento di trasporto elettronico come dichiarazione di transito</th></tr>
-<tr><td>8/2</td><td>Tipo di garanzia</td><td>52</td><td>A Y</td><td>A Y</td><td></td></tr>
-<tr><td>8/3</td><td>Riferimento della garanzia</td><td>52</td><td>A Y</td><td>A Y</td><td></td></tr>
-<tr><td>8/4</td><td>Garanzia non valida in</td><td>52</td><td>A Y</td><td>A Y</td><td></td></tr>
-</table>
-
-### Sezione II: Note
-
-<table>
-<tr><th>Numero della nota</th><th>Descrizione della nota</th></tr>
-<tr><td>1.</td><td>I paesi membri possono richiedere questo dato soltanto nel contesto di regimi basati su supporto cartaceo.</td></tr>
-<tr><td>2.</td><td>Quando la dichiarazione su supporto cartaceo si riferisce a un solo articolo, i paesi possono prevedere che non venga indicato nulla in questa casella e venga apposta la cifra «1» nella casella n. 5.</td></tr>
-<tr><td>7.</td><td>I paesi possono dispensare il dichiarante da tale obbligo se i sistemi di cui dispongono consentono di ricavare automaticamente e senza ambiguità tale informazione dalle altre informazioni della dichiarazione.</td></tr>
-<tr><td>12.</td><td>Per gli Stati membri dell’Unione europea questa informazione è obbligatoria solo nei casi in cui per la persona interessata non è fornito il numero EORI nell’Unione o il numero di identificazione unico di un paese terzo riconosciuto dall’Unione. Nei casi in cui è fornito il numero EORI o il numero di identificazione unico di un paese terzo riconosciuto dall’Unione non è necessario fornire nome e indirizzo.</td></tr>
-<tr><td>13.</td><td>Per gli Stati membri dell’Unione europea questa informazione è obbligatoria solo nei casi in cui non è fornito il numero EORI nell’Unione o il numero di identificazione unico di un paese terzo riconosciuto dall’Unione. Nei casi in cui è fornito il numero EORI nell’Unione o il numero di identificazione unico di un paese terzo non è necessario fornire nome e indirizzo, a meno che non sia utilizzata una dichiarazione in formato cartaceo.</td></tr>
-<tr><td>23.</td><td>Deve essere compilato solamente se lo prevede la legislazione delle parti contraenti.</td></tr>
-<tr><td>37.</td><td>Questa suddivisione è compilata: – se la dichiarazione di transito è compilata dalla stessa persona contemporaneamente a, o a seguito di, una dichiarazione in dogana in cui figuri il codice delle merci, o – se lo prevede la legislazione delle parti contraenti.</td></tr>
-<tr><td>38.</td><td>Questa informazione è fornita solo per dichiarazioni su supporto cartaceo.</td></tr>
-<tr><td>39.</td><td>I paesi possono derogare a tale requisito per i modi di trasporto diversi dalla ferrovia.</td></tr>
-<tr><td>40.</td><td>Questa informazione non deve essere fornita se le formalità di esportazione sono espletate al punto di uscita dal territorio doganale delle parti contraenti.</td></tr>
-<tr><td>43.</td><td>Non utilizzare in caso di spedizione mediante installazioni fisse.</td></tr>
-<tr><td>44.</td><td>Se le merci sono trasportate con unità di trasporto multimodale, quali container, casse mobili e semirimorchi, le autorità doganali possono autorizzare il titolare del regime di transito a non fornire questa informazione se la situazione logistica relativa al punto di partenza non permette di fornire l’identità e la nazionalità del mezzo di trasporto al momento in cui le merci sono svincolate per il transito, a condizione che le unità di trasporto multimodale rechino numeri unici e che tali numeri siano indicati nel dato 7/10 Numero di identificazione del container.</td></tr>
-<tr><td>45.</td><td>Nei seguenti casi i paesi esonerano dall’obbligo di inserire tale informazione nella dichiarazione di transito presentata all’ufficio doganale di partenza in relazione ai mezzi di trasporto sui quali le merci sono caricate direttamente: – quando la situazione logistica non consente di fornire tale dato e il titolare del regime di transito ha lo status di AEOC nell’Unione o uno status analogo in un paese di transito comune, e – quando le pertinenti informazioni possono essere rintracciate se necessario dalle autorità doganali mediante le scritture del titolare del regime di transito.</td></tr>
-<tr><td>46.</td><td>Non utilizzare in caso di spedizione mediante installazioni fisse o per ferrovia.</td></tr>
-<tr><td>51.</td><td>Per i paesi di transito comune questa informazione è obbligatoria.</td></tr>
-<tr><td>52.</td><td>Per i paesi di transito comune questa informazione è obbligatoria. Devono essere forniti il numero EORI nell’Unione e il numero di identificazione dell’operatore in un paese di transito comune. Se il numero EORI non è stato attribuito deve esser fornito solo il numero di identificazione dell’operatore in un paese di transito comune. Se un destinatario è situato in un paese terzo tale dato non è necessario.</td></tr>
-</table>
-
-### Titolo IV: Note in relazione ai requisiti in materia di dati
-
-### Sezione I: Introduzione
-
-Le descrizioni e le note di cui al presente titolo si applicano ai dati indicati nella tabella dei requisiti in materia di dati di cui al titolo III, sezione I, del presente allegato.
-
-### Sezione II: Requisiti in materia di dati
-
-1/2. Tipo di dichiarazione supplementare
-
-Dichiarazione di transito e dichiarazione di transito con requisiti ridotti in materia di dati
-
-Inserire il codice pertinente
-
-1/3. Dichiarazione di transito
-
-Tutti i tipi di dichiarazioni di transito
-
-Inserire il codice pertinente
-
-1/4. Formulari
-
-Tutti i tipi di dichiarazioni di transito
-
-In caso di uso di dichiarazioni su supporto cartaceo indicare il numero del fascicolo in relazione al numero complessivo di fascicoli utilizzati (formulari e formulari complementari). Se ad esempio si presentano un formulario e due formulari complementari, numerare il formulario con le cifre 1/3, il primo formulario complementare con 2/3 e il secondo formulario complementare con 3/3.
-
-1/5. Distinte di carico
-
-Dichiarazione di transito e dichiarazione di transito con requisiti ridotti in materia di dati
-
-In caso di uso di dichiarazioni su supporto cartaceo indicare, in cifre, il numero di distinte di carico eventualmente allegate o il numero di elenchi descrittivi di carattere commerciale autorizzati dall’autorità competente.
-
-1/6. Numero di articolo
-
-Dichiarazione di transito e dichiarazione di transito con requisiti ridotti in materia di dati
-
-Numero dell’articolo in relazione al numero totale di articoli contenuti nella dichiarazione di transito, qualora vi sia più di un articolo.
-
-1/8. Firma/Autenticazione
-
-Tutti i tipi di dichiarazioni di transito
-
-Firma o autenticazione della dichiarazione di transito.
-
-In caso di dichiarazioni su supporto cartaceo, la firma originale autografa della persona interessata è apposta sulla copia della dichiarazione che deve essere conservata dall’ufficio doganale di partenza, seguita da nome e cognome di tale persona. Se la persona interessata non è una persona fisica, il firmatario deve far seguire alla sua firma e al nome e cognome, la qualifica.
-
-1/9. Numero totale di articoli
-
-Dichiarazione di transito e dichiarazione di transito con requisiti ridotti in materia di dati
-
-Numero totale di articoli riportati nella dichiarazione di transito in questione. Gli articoli sono definiti come le merci menzionate in una dichiarazione che ha in comune tutti i dati contrassegnati da «X» nella tabella dei requisiti in materia di dati del titolo III, sezione I, del presente allegato.
-
-2/1. Dichiarazione semplificata/Documenti precedenti
-
-Tutti i tipi di dichiarazioni di transito
-
-Indicare il riferimento della custodia temporanea o del precedente regime doganale o del corrispondente documento doganale.
-
-Se, in caso di dichiarazioni di transito su supporto cartaceo, è necessario indicare più di un riferimento, i paesi possono disporre che in questa casella sia riportato il pertinente codice e che venga accluso alla dichiarazione di transito l’elenco dei riferimenti in questione.
-
-2/2. Menzioni speciali
-
-Tutti i tipi di dichiarazioni di transito
-
-Inserire il codice pertinente
-
-2/3. Documenti presentati, certificati e autorizzazioni, riferimenti complementari
-
-Tutti i tipi di dichiarazioni di transito
-
-Identificazione o numero di riferimento di documenti, certificati e autorizzazioni internazionali o di parti contraenti prodotti a supporto della dichiarazione e riferimenti aggiuntivi.
-
-Utilizzando i pertinenti codici, inserire le informazioni previste delle norme specifiche applicabili e i dati di riferimento dei documenti presentati a supporto della dichiarazione, nonché riferimenti aggiuntivi.
-
-Documento di trasporto elettronico come dichiarazione di transito
-
-Questo dato comprende il tipo e il riferimento del documento di trasporto utilizzato come dichiarazione di transito.
-
-Inoltre esso contiene il riferimento al rispettivo numero di autorizzazione del titolare del regime di transito. Questa informazione deve essere fornita nei casi in cui non sia possibile ricavarla in modo univoco da altri dati, quali il numero EORI del titolare dell’autorizzazione.
-
-3/1. Esportatore
-
-Dichiarazione di transito
-
-Indicare il cognome e nome o la ragione sociale e l’indirizzo completo dello speditore.
-
-In caso di collettame, se ci si avvale di dichiarazioni di transito su supporto cartaceo, i paesi possono disporre che venga utilizzato il pertinente codice e che sia accluso alla dichiarazione l’elenco degli speditori.
-
-3/2. Numero di identificazione dell’esportatore
-
-Dichiarazione di transito
-
-Inserire il numero EORI dello speditore o il numero di identificazione dell’operatore in un paese di transito comune.
-
-3/9. Destinatario
-
-Tutti i tipi di dichiarazioni di transito
-
-Indicare il cognome e nome o la ragione sociale e l’indirizzo completo del destinatario.
-
-Dichiarazione di transito e dichiarazione di transito con requisiti ridotti in materia di dati
-
-In caso di collettame, se sono utilizzate dichiarazioni di transito su supporto cartaceo, i paesi possono disporre che il pertinente codice sia inserito in questa casella e che sia accluso alla dichiarazione l’elenco dei destinatari.
-
-3/10. Numero di identificazione del destinatario
-
-Tutti i tipi di dichiarazioni di transito
-
-Inserire il numero EORI o il numero di identificazione dell’operatore in un paese di transito comune.
-
-3/19. Rappresentante
-
-Tutti i tipi di dichiarazioni di transito
-
-Questa informazione è richiesta soltanto se è diversa dal dato 3/17 Dichiarante o, se del caso, dal dato 3/22 Titolare del regime di transito.
-
-3/20. Numero di identificazione del rappresentante
-
-Tutti i tipi di dichiarazioni di transito
-
-Questa informazione è richiesta soltanto se è diversa dal dato 3/18 Numero di identificazione del dichiarante o, se del caso, dal dato 3/23 Numero di identificazione del titolare del regime di transito.
-
-Inserire il numero EORI della persona interessata o il numero di identificazione dell’operatore in un paese di transito comune.
-
-3/21. Codice di qualifica del rappresentante
-
-Tutti i tipi di dichiarazioni di transito
-
-Inserire il codice pertinente relativo alla qualifica del rappresentante.
-
-3/22. Titolare del regime di transito
-
-Tutti i tipi di dichiarazioni di transito
-
-Indicare il nome completo (persona e società) e l’indirizzo del titolare del regime di transito. Se del caso, indicare il nome completo (persona o società) del rappresentante autorizzato che presenta la dichiarazione di transito per conto del titolare del regime.
-
-Qualora siano utilizzate dichiarazioni di transito su supporto cartaceo, la firma originale autografa della persona interessata deve essere apposta sulla copia della dichiarazione su supporto cartaceo che deve essere conservata dall’ufficio doganale di partenza.
-
-3/23. Numero di identificazione del titolare del regime di transito
-
-Tutti i tipi di dichiarazioni di transito
-
-Inserire il numero EORI del titolare del regime di transito o il numero di identificazione dell’operatore in un paese di transito comune.
-
-3/37. N. di identificazione degli altri attori della catena di approvvigionamento
-
-Tutti i tipi di dichiarazioni di transito
-
-Numero di identificazione unico assegnato a un operatore economico di un paese terzo nell’ambito di un programma di partenariato commerciale elaborato sulla base del *Framework of Standards to Secure and Facilitate Global Trade* (Quadro di norme per rendere sicuro e facilitare il commercio mondiale) dell’Organizzazione mondiale delle dogane, riconosciuto dall’Unione e da altre parti contraenti.
-
-L’identificativo della parte interessata è preceduto da un codice che ne specifica il ruolo nella catena di approvvigionamento.
-
-5/4. Data della dichiarazione
-
-Tutti i tipi di dichiarazioni di transito
-
-Data in cui la dichiarazione è stata rilasciata e, se del caso, firmata o comunque autenticata.
-
-5/5. Luogo della dichiarazione
-
-Tutti i tipi di dichiarazioni di transito
-
-Luogo in cui è stata rilasciata la dichiarazione su supporto cartaceo.
-
-5/6. Ufficio di destinazione (e paese)
-
-Tutti i tipi di dichiarazioni di transito
-
-Indicare, mediante il codice pertinente, il numero di riferimento dell’ufficio doganale in cui ha termine l’operazione di transito.
-
-5/7. Uffici di passaggio previsti (e paese)
-
-Tutti i tipi di dichiarazioni di transito
-
-Indicare il codice dell’ufficio doganale competente per il punto di entrata nel territorio di una parte contraente quando le merci circolano vincolate al regime di transito o l’ufficio doganale competente per il punto di uscita dal territorio di una parte contraente quando le merci lasciano tale territorio nel corso di un’operazione di transito effettuata attraversando una frontiera fra tale parte contraente e un paese terzo.
-
-Indicare, mediante il codice pertinente, il numero di riferimento degli uffici doganali interessati.
-
-5/8. Codice del paese di destinazione
-
-Tutti i tipi di dichiarazioni di transito
-
-Indicare, mediante il codice pertinente, l’ultimo paese di destinazione delle merci.
-
-Il paese di ultima destinazione conosciuta è definito come l’ultimo paese nel quale devono essere consegnate le merci quale è noto al momento dello svincolo nell’ambito del regime doganale.
-
-5/21. Luogo di carico
-
-Tutti i tipi di dichiarazioni di transito
-
-Indicare mediante il codice pertinente, se richiesto, il luogo in cui le merci devono essere caricate sul mezzo di trasporto attivo sul quale attraverseranno la frontiera della parte contraente.
-
-5/23. Ubicazione delle merci
-
-Dichiarazione di transito e dichiarazione di transito con requisiti ridotti in materia di dati
-
-Indicare, mediante il codice pertinente, il luogo in cui possono essere esaminate le merci. Il luogo deve essere indicato con precisione sufficiente da consentire all’ufficio doganale di effettuare il controllo fisico delle merci.
-
-6/1. Massa netta (kg)
-
-Dichiarazione di transito
-
-Indicare la massa netta, in chilogrammi, delle merci interessate dall’articolo pertinente della dichiarazione. Per massa netta si intende la massa delle merci senza alcun imballaggio.
-
-Quando una massa netta superiore a 1 kg comporta una frazione di unità (kg), si procede al seguente arrotondamento:
-
-- – da 0,001 a 0,499: arrotondamento all’unità inferiore (kg),
-- – da 0,5 a 0,999: arrotondamento all’unità superiore (kg).
-
-Una massa netta inferiore a un kg deve essere indicata come «0,» seguito da un numero di decimali fino a 6, eliminando tutti gli «0» alla fine della quantità (ad esempio, 0,123 per un imballaggio di 123 grammi, 0,00304 per un imballaggio di 3 grammi e 40 milligrammi o 0,000654 per un imballaggio di 654 milligrammi).
-
-6/5. Massa lorda (kg)
-
-Tutti i tipi di dichiarazioni di transito
-
-La massa lorda è il peso delle merci compreso l’imballaggio ma escluso il materiale di trasporto.
-
-Se la massa lorda è superiore a 1 kg e comporta una frazione di unità (kg), si procede al seguente arrotondamento:
-
-- – da 0,001 a 0,499: arrotondamento all’unità inferiore (kg),
-- – da 0,5 a 0,999: arrotondamento all’unità superiore (kg).
-
-Una massa lorda inferiore a un kg deve essere indicata come «0,» seguito da un numero di decimali fino a 6, eliminando tutti gli «0» alla fine della quantità (ad esempio, 0,123 per un imballaggio di 123 grammi, 0,00304 per un imballaggio di 3 grammi e 40 milligrammi o 0,000654 per un imballaggio di 654 milligrammi).
-
-Indicare la massa lorda, in chilogrammi, delle merci interessate dall’articolo pertinente.
-
-Se la dichiarazione comprende diversi articoli che riguardano merci imballate insieme in modo tale da rendere impossibile la determinazione della massa lorda delle merci facenti capo a un qualsiasi articolo, è sufficiente indicare la massa lorda totale a livello di intestazione.
-
-Quando una dichiarazione di transito su supporto cartaceo riguarda vari articoli di merci, è sufficiente indicare la massa lorda totale nella prima casella n. 35; le altre caselle n. 35 non vanno compilate.
-
-6/8. Descrizione delle merci
-
-Tutti i tipi di dichiarazioni di transito
-
-È la descrizione commerciale usuale delle merci in linguaggio chiaro, sufficientemente preciso da consentire alle autorità doganali di identificare le merci. Se deve essere fornito il codice SA, la descrizione deve essere sufficientemente precisa per consentire la classificazione delle merci.
-
-6/13. Codice CUS
-
-Tutti i tipi di dichiarazioni di transito
-
-Il numero CUS (*Customs Union and Statistics*) è l’identificativo assegnato nell’ambito dell’inventario doganale europeo delle sostanze chimiche (ECICS) alle sostanze e ai preparati chimici.
-
-Il dichiarante può fornire volontariamente tale codice se non esiste una misura TARIC per le merci di cui trattasi, ovvero se il fatto di dichiarare questo codice comporta oneri minori rispetto a una descrizione testuale completa del prodotto.
-
-6/14. Codice delle merci – Codice della nomenclatura combinata
-
-Tutti i tipi di dichiarazioni di transito
-
-In questa suddivisione è inserito il codice composto da almeno sei cifre del sistema armonizzato di designazione e di codificazione delle merci. Il codice delle merci può essere ampliato a otto cifre ad uso nazionale.
-
-6/18. Totale dei colli
-
-Tutti i tipi di dichiarazioni di transito
-
-Indicare in cifre il numero totale di colli di cui si compone la spedizione in causa.
-
-6/20. Colli
-
-Tutti i tipi di dichiarazioni di transito
-
-Informazioni relative al tipo e al numero totale di colli sulla base dell’unità di imballaggio più piccola. Il numero totale di colli si riferisce al numero di articoli singoli imballati in modo da non poter essere divisi senza prima aprire l’imballaggio, o numero di pezzi se le merci sono prive di imballaggio.
-
-Nel caso di merci alla rinfusa non devono essere fornite informazioni sul numero totale di colli.
-
-Tali informazioni comprendono inoltre una descrizione libera dei marchi e dei numeri sulle unità di trasporto o sui colli.
-
-7/1. Trasbordo
-
-Dichiarazione di transito e dichiarazione di transito con requisiti ridotti in materia di dati
-
-Le prime tre righe di questa casella devono essere compilate dal trasportatore quando, durante l’operazione di transito, le merci in questione sono trasbordate da un mezzo di trasporto a un altro o da un contenitore a un altro.
-
-7/2. Container
-
-Dichiarazione di transito e dichiarazione di transito con requisiti ridotti in materia di dati
-
-Indicare, mediante il codice pertinente, la situazione presunta al passaggio della frontiera della parte contraente sulla base delle informazioni disponibili al momento dell’espletamento delle formalità di transito.
-
-7/4. Modo di trasporto fino alla frontiera
-
-Dichiarazione di transito e dichiarazione di transito con requisiti ridotti in materia di dati
-
-Indicare, mediante il codice pertinente, il modo di trasporto corrispondente al mezzo di trasporto attivo col quale si presume che le merci usciranno dal territorio doganale della parte contraente.
-
-7/5. Modo di trasporto interno
-
-Dichiarazione di transito
-
-Indicare, mediante il codice pertinente, il modo di trasporto all’arrivo.
-
-7/7. Identità del mezzo di trasporto alla partenza
-
-Tutti i tipi di dichiarazioni di transito
-
-Indicare l’identità del mezzo di trasporto su cui le merci sono direttamente caricate al momento delle formalità di transito (o quella del mezzo che muove il tutto quando trattasi di vari mezzi di trasporto). Se ci si avvale di una motrice e di un rimorchio con numeri di immatricolazione differenti, indicare il numero d’immatricolazione sia della motrice che del rimorchio e la nazionalità della motrice.
-
-A seconda del mezzo di trasporto, per quanto concerne l’identità possono essere utilizzate le diciture seguenti:
-
-<table>
-<tr><th>Mezzo di trasporto</th><th>Metodo di identificazione</th></tr>
-<tr><td>Trasporto per vie navigabili interne</td><td>Nome della nave</td></tr>
-<tr><td>Trasporto aereo</td><td>Numero e data del volo. In mancanza del numero del volo, indicare il numero di immatricolazione dell’aeromobile.</td></tr>
-<tr><td>Trasporto su strada</td><td>Numero di immatricolazione del veicolo</td></tr>
-<tr><td>Trasporto ferroviario</td><td>Numero del vagone</td></tr>
-</table>
-
-7/8. Nazionalità del mezzo di trasporto alla partenza
-
-Dichiarazione di transito
-
-Indicare, mediante il codice pertinente, la nazionalità del mezzo di trasporto (o quella del mezzo che muove il tutto quando trattasi di vari mezzi di trasporto) su cui le merci sono direttamente caricate al momento delle formalità di transito. Se sono utilizzati una motrice e un rimorchio di nazionalità differenti, indicare la nazionalità della motrice.
-
-Se le merci sono trasportate utilizzando una motrice e un rimorchio, indicare le rispettive nazionalità. Se non si conosce la nazionalità della motrice, indicare la nazionalità del rimorchio.
-
-7/10. Numero di identificazione del container
-
-Tutti i tipi di dichiarazioni di transito
-
-Marchi (lettere e/o numeri) che identificano il container utilizzato per il trasporto.
-
-Per modi di trasporto diversi da quello aereo, il container è una cassa speciale per il trasporto di merci, rafforzata e sovrapponibile, che consente la movimentazione orizzontale o verticale.
-
-Nel trasporto aereo, il container è una cassa speciale per il trasporto di merci, rafforzata, che consente la movimentazione orizzontale o verticale.
-
-Ai fini del presente dato le casse mobili e i semirimorchi utilizzati per il trasporto stradale e ferroviario sono considerati container.
-
-Se del caso, per i container contemplati dalla norma ISO 6346, l’identificativo (prefisso) assegnato dall’Ufficio internazionale dei contenitori e del trasporto intermodale (*Bureau international des containers* – BIC), è fornito in aggiunta al numero di identificazione del container.
-
-Per le casse mobili e i semirimorchi si utilizza il codice ILU (*Intermodal Loading Units*) quale introdotto dalla norma europea EN 13044.
-
-7/14. Identità del mezzo di trasporto attivo che attraversa la frontiera
-
-Dichiarazione di transito
-
-Indicare l’identità del mezzo di trasporto attivo che attraversa la frontiera della parte contraente.
-
-In caso di trasporto combinato o quando ci si avvale di vari mezzi di trasporto, il mezzo di trasporto attivo è quello che muove il tutto. Ad esempio, se si tratta di camion su nave, il mezzo di trasporto attivo è la nave. Se si tratta di motrice e rimorchio, il mezzo di trasporto attivo è la motrice.
-
-A seconda del mezzo di trasporto interessato, per quanto concerne l’identità possono essere utilizzate le diciture seguenti:
-
-<table>
-<tr><th>Mezzo di trasporto</th><th>Metodo di identificazione</th></tr>
-<tr><td>Vie navigabili interne</td><td>Nome della nave</td></tr>
-<tr><td>Trasporto aereo</td><td>Numero e data del volo. In mancanza del numero del volo, indicare il numero di immatricolazione dell’aeromobile.</td></tr>
-<tr><td>Trasporto su strada</td><td>Numero di immatricolazione del veicolo</td></tr>
-<tr><td>Trasporto ferroviario</td><td>Numero del vagone</td></tr>
-</table>
-
-7/15. Nazionalità del mezzo di trasporto attivo che attraversa la frontiera
-
-Indicare, mediante il codice pertinente, la nazionalità del mezzo di trasporto attivo che attraversa la frontiera della parte contraente.
-
-In caso di trasporto combinato o quando ci si avvale di vari mezzi di trasporto, il mezzo di trasporto attivo è quello che muove il tutto.
-
-Ad esempio, se si tratta di camion su nave, il mezzo di trasporto attivo è la nave. Se si tratta di motrice e rimorchio, il mezzo di trasporto attivo è la motrice.
-
-7/18. Numero del sigillo
-
-Tutti i tipi di dichiarazioni di transito
-
-Questa informazione è fornita qualora uno speditore autorizzato presenti una dichiarazione per la cui autorizzazione sia previsto l’uso di sigilli di tipo speciale o il titolare del regime di transito sia autorizzato a utilizzare sigilli di tipo speciale.
-
-7/19. Altri incidenti durante il trasporto
-
-Dichiarazione di transito e dichiarazione di transito con requisiti ridotti in materia di dati
-
-Casella da compilare conformemente agli obblighi esistenti nell’ambito del regime di transito comune.
-
-Inoltre, se le merci sono state caricate su un semirimorchio e durante il trasporto viene cambiata solo la motrice (senza che vi siano manipolazioni o trasbordi di merci), indicare in questa casella il numero di immatricolazione della nuova motrice. In tal caso, il visto dell’autorità competente non è necessario.
-
-8/2. Tipo di garanzia
-
-Dichiarazione di transito e dichiarazione di transito con requisiti ridotti in materia di dati
-
-Indicare, mediante il codice pertinente, il tipo di garanzia utilizzato per l’operazione di transito.
-
-8/3. Riferimento della garanzia
-
-Dichiarazione di transito e dichiarazione di transito con requisiti ridotti in materia di dati
-
-Indicare il numero di riferimento della garanzia e, se del caso, il codice di accesso e l’ufficio doganale di garanzia.
-
-8/4. Garanzia non valida in
-
-Dichiarazione di transito e dichiarazione di transito con requisiti ridotti in materia di dati
-
-Se una garanzia non è valida per una o più parti contraenti, aggiungere dopo la menzione «Non valida» «per i codici relativi alla o alle parti contraenti interessate.
-
 Appendice IV[^t-7]
 
-## Assistenza mutuale per la riscossione dei crediti
+## Assistenza reciproca per il recupero dei crediti
 
-[^t-7]: Introdotta dall’Acc. del 22 nov. 1996, approvato dall’AF il 7 dic. 1995 ([RU 1997 1055](https://fedlex.data.admin.ch/eli/oc/1997/1055_1055_1055)[1054](https://fedlex.data.admin.ch/eli/oc/1997/1054_1054_1054); [FF 1995 III 317](https://fedlex.data.admin.ch/eli/fga/1995/3_337_325_317)). Aggiornata giusta l’art. 6 della Dec. n. 1 /2000 della Commissione mista CEE-AELS del 20 dic. 2000 ([RU 2001 542](https://fedlex.data.admin.ch/eli/oc/2001/106)) e dall’art. 1 n. 7 della Dec. n. 1/2016 del Comitato congiunto UE-AELS del 28 apr. 2016, in vigore per la Svizzera dal 1° mag. 2016 ([RU 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)).
+[^t-7]: Introdotta dall’Acc. del 22 nov. 1996, approvato dall’AF il 7 dic. 1995 ([RU 1997 1055](https://fedlex.data.admin.ch/eli/oc/1997/1055_1055_1055)[1054](https://fedlex.data.admin.ch/eli/oc/1997/1054_1054_1054); [FF 1995 III 317](https://fedlex.data.admin.ch/eli/fga/1995/3_337_325_317)). Nuovo testo giusta l’art. 1 n. 3 della Dec. n. 1 /2022 del Commitato congiunto UE–PTC del 25 ago. 2022, in vigore per la Svizzera dal 25 ago. 2022 ([RU 2023 60](https://fedlex.data.admin.ch/eli/oc/2023/60)).
 
-### Scopo
+### Oggetto
 
 #### Art. 1
 
@@ -7900,99 +8895,118 @@ La presente appendice stabilisce le norme per garantire il recupero in ciascun p
 
 ### Definizioni
 
-#### Art. 2
+### **Arti. 2**
 
 Ai sensi della presente appendice s’intende per:
 
-- – «autorità richiedente», l’autorità competente di un paese che presenta una domanda di assistenza per uno dei crediti di cui all’articolo 3;
-- – «autorità adita», l’autorità competente di un paese alla quale è diretta una domanda di assistenza.
+- – «autorità richiedente», l’autorità competente di un paese che presenta una richiesta di assistenza per uno dei crediti di cui all’articolo 3;
+- – «autorità adita», l’autorità competente di un paese cui è diretta una richiesta di assistenza.
 
-### Campo di applicazione
+### Ambito di applicazione
 
 #### Art. 3
 
 La presente appendice si applica a:
 
-- a) a tutti i crediti relativi a un debito di cui all’articolo 3, lettera l) dell’appendice I che sono esigibili in relazione a un’operazione di transito comune iniziata dopo l’entrata in vigore della presente appendice;
+- a) tutti i crediti relativi a un debito di cui all’articolo 3, lettera l), dell’appendice I che sono esigibili in relazione a un’operazione di transito comune iniziata dopo l’entrata in vigore della presente appendice;
 - b) interessi e spese relativi al recupero dei crediti di cui sopra.
 
-### Comunicazioni e uso delle informazioni
+### Richiesta di informazioni
 
 #### Art. 4
 
-<sup>(1)</sup> L’autorità adita fornisce all’autorità richiedente, su sua richiesta, tutte le informazioni utili per il recupero di un credito.
+<sup>1.</sup> L’autorità adita fornisce all’autorità richiedente, su richiesta di quest’ultima, tutte le informazioni utili per il recupero di crediti.
 
-Al fine di ottenere queste informazioni, l’autorità adita esercita i poteri previsti dalle disposizioni legislative, regolamentari o amministrative applicabili per il recupero di crediti analoghi sorti nel paese in cui essa ha sede.
+Al fine di ottenere tali informazioni, l’autorità adita esercita i poteri previsti dalle disposizioni legislative, regolamentari o amministrative applicabili per il recupero di crediti analoghi sorti nel paese in cui essa ha sede.
 
-<sup>2.</sup> Nella domanda di informazioni sono indicati il nome e l’indirizzo della persona sul conto della quale debbono essere fornite le informazioni, nonché la natura e l’importo del credito al quale la domanda si riferisce.
+<sup>2.</sup>
+
+La richiesta di informazioni contiene almeno le seguenti informazioni:
+
+- a) nome, indirizzo e altri dati utili all’identificazione della persona cui si riferiscono le informazioni da fornire;
+- b) informazioni relative al credito o ai crediti, come la natura e l’importo del credito;
+- c) altre informazioni, se necessarie.
 
 <sup>3.</sup>
 
 L’autorità adita non è tenuta a trasmettere informazioni:
 
 - a) che non sarebbe in grado di ottenere per il recupero di crediti analoghi sorti nel paese in cui essa ha sede;
-- b) che rivelerebbero un segreto commerciale, industriale o professionale;
-- c) la cui comunicazione sarebbe tale da pregiudicare la sicurezza o l’ordine pubblico di detto paese.
+- b) che rivelerebbero un segreto commerciale, industriale o professionale; ovvero
+- c) la cui comunicazione sarebbe tale da pregiudicare la sicurezza o l’ordine pubblico del paese in cui essa ha sede.
 
-<sup>4.</sup> L’autorità adita informa l’autorità richiedente dei motivi che si oppongono al soddisfacimento della domanda di informazioni.
+<sup>4.</sup> L’autorità adita informa l’autorità richiedente dei motivi che si oppongono al soddisfacimento della richiesta di informazioni.
 
-<sup>5.</sup> Le informazioni ottenute in conformità del presente articolo sono impiegate unicamente per gli scopi della presente Convenzione e ad esse viene riconosciuta dal paese ricevente la stessa protezione di cui beneficiano le informazioni dello stesso genere a norma delle leggi di detto paese. Tali informazioni possono essere impiegate per altri scopi soltanto con il consenso scritto dell’autorità competente che le fornisce e sono sottoposte alle restrizioni stabilite da detta autorità.
+<sup>5.</sup> Le informazioni ottenute in forza del presente articolo sono utilizzate unicamente per le finalità della presente Convenzione e ad esse è riconosciuta dal paese ricevente la stessa protezione di cui beneficiano le informazioni dello stesso genere a norma delle leggi di detto paese. Tali informazioni possono essere impiegate per altre finalità soltanto con il consenso scritto dell’autorità competente che le fornisce e sono sottoposte alle restrizioni stabilite da detta autorità.
 
-<sup>6.</sup> La domanda di informazioni è redatta utilizzando il formulario di cui all’allegato II della presente appendice.
+<sup>6.</sup> La richiesta di informazioni è redatta utilizzando il formulario di cui all’allegato II della presente appendice.
 
-### Notifica
+### Richiesta di notifica
 
 #### Art. 5
 
-<sup>1.</sup> Su domanda dell’autorità richiedente, l’autorità adita provvede, secondo le norme di legge per la notifica dei corrispondenti atti o decisioni nello Stato membro in cui ha sede, alla notifica al destinatario di tutti gli atti e le decisioni ivi compresi quelli giudiziari concernenti un credito o un suo recupero, emanati nello Stato membro in cui ha sede l’autorità richiedente.
+<sup>1.</sup> Su richiesta dell’autorità richiedente, l’autorità adita procede, secondo le norme legislative in vigore per la notifica di atti o decisioni analoghi nel paese in cui ha sede, alla notifica al destinatario di tutti gli atti e le decisioni, ivi compresi quelli giudiziari, relativi ad un credito e/o un suo recupero, emanati nel paese in cui ha sede l’autorità richiedente.
 
-<sup>2.</sup> Nella domanda di notifica sono indicati il nome e l’indirizzo del destinatario, la natura e l’oggetto dell’atto o della decisione da notificare e, se del caso, il nome e l’indirizzo del debitore, il credito cui si riferisce l’atto o la decisione ed ogni altra informazione utile.
+<sup>2.</sup> 2 *bis*. L’autorità richiedente presenta una richiesta di notifica solo qualora non sia in grado di provvedere alla notifica nel paese in cui ha sede conformemente alle norme che disciplinano la notifica dei documenti in questione o qualora tale notifica dia luogo a difficoltà eccessive.
 
-<sup>3.</sup> L’autorità adita informa immediatamente l’autorità richiedente circa il seguito dato alla domanda di notifica e, più in particolare, circa la data in cui l’atto o la decisione sono stati trasmessi al destinatario.
+La richiesta di notifica contiene almeno le seguenti informazioni:
 
-<sup>4.</sup> La domanda di notifica è redatta utilizzando il formulario di cui all’allegato III della presente appendice.
+- a) nome, indirizzo e altri dati utili ai fini dell’identificazione del destinatario;
+- b) natura e oggetto dell’atto o della decisione da notificare;
+- c) informazioni relative al credito o ai crediti, come la natura e l’importo del credito;
+- d) altre informazioni, se necessarie.
 
-### Esecuzione delle domande
+<sup>3.</sup> L’autorità adita informa immediatamente l’autorità richiedente circa il seguito dato alla richiesta di notifica e, più in particolare, circa la data in cui l’atto o la decisione sono stati trasmessi al destinatario.
+
+<sup>4.</sup> La richiesta di notifica è redatta utilizzando il formulario di cui all’allegato III della presente appendice.
+
+### Richiesta di recupero
 
 #### Art. 6
 
-<sup>1.</sup> Su domanda dell’autorità richiedente, l’autorità adita procede, secondo le disposizioni legislative, regolamentari o amministrative applicabili per il recupero dei crediti analoghi sorti nel paese in cui essa ha sede, al recupero dei crediti oggetto di un titolo che ne permetta l’esecuzione.
+<sup>1.</sup> Su richiesta dell’autorità richiedente, l’autorità adita procede, secondo le disposizioni legislative, regolamentari o amministrative applicabili per il recupero dei crediti analoghi sorti nel paese in cui essa ha sede, al recupero dei crediti oggetto di un titolo esecutivo.
 
-<sup>2.</sup> A tal fine, ogni credito che sia oggetto di una domanda di recupero è considerato credito del paese in cui ha sede l’autorità adita, fatta salva l’applicazione dell’articolo 12.
+<sup>2.</sup> A tal fine ogni credito che sia oggetto di una richiesta di recupero è considerato credito del paese in cui ha sede l’autorità adita, fatta salva l’applicazione dell’articolo 12.
 
 #### Art. 7
 
-<sup>1.</sup> La domanda di recupero di un credito che l’autorità richiedente inoltra all’autorità adita deve essere accompagnata da un esemplare ufficiale o da una copia certificata conforme del titolo che ne permette l’esecuzione, emesso nel paese in cui ha sede l’autorità richiedente e, se del caso, dall’originale o da una copia certificata conforme di altri documenti necessari al recupero.
+<sup>1.</sup> La richiesta di recupero di un credito che l’autorità richiedente inoltra all’autorità adita deve essere accompagnata da un esemplare ufficiale o da una copia certificata conforme del titolo esecutivo emesso nel paese in cui ha sede l’autorità richiedente e, se del caso, dall’originale o da una copia certificata conforme di altri documenti necessari al recupero.
 
 <sup>2.</sup>
 
-L’autorità richiedente può formulare una domanda di recupero soltanto:
+L’autorità richiedente può formulare una richiesta di recupero soltanto:
 
-- a) se il credito o il titolo che ne permette l’esecuzione non sono contestati nel paese in cui essa ha sede;
-- b) quando essa ha avviato nel paese in cui ha sede, la procedura di recupero che può essere eseguita in base al titolo di cui al paragrafo 1, e quando le misure adottate non hanno portato al pagamento integrale del credito;
-- c) se l’importo del credito è superiore a 1500 euro. Il controvalore in valuta nazionale degli importi in euro di cui alla presente appendice è calcolato conformemente alle disposizioni dell’articolo 22 dell’appendice II.
+- a) se il credito e/o il titolo esecutivo non sono contestati nel paese in cui essa ha sede;
+- b) quando essa ha avviato, nel paese in cui ha sede, la procedura di recupero che può essere eseguita in base al titolo di cui al paragrafo 1, e quando le misure adottate non hanno condotto al pagamento integrale del credito;
+- c) se l’importo del credito è superiore a 1500 EUR. Il controvalore in valuta nazionale degli importi in EUR di cui alla presente appendice è calcolato conformemente alle disposizioni dell’articolo 22 dell’appendice II.
 
-<sup>3.</sup> Nella domanda di recupero sono indicati il nome e l’indirizzo della persona interessata, la natura del credito, la somma dovuta in capitale, in interessi e per spese, ed ogni altra informazione utile.
+<sup>3.</sup>
 
-<sup>4.</sup> La domanda di recupero contiene inoltre una dichiarazione dell’autorità richiedente, che precisa la data a decorrere dalla quale è possibile procedere all’esecuzione secondo le norme di legge in vigore nel paese in cui essa ha sede, e conferma che sono soddisfatte le condizioni di cui al paragrafo 2.
+La richiesta di recupero contiene almeno le seguenti informazioni:
 
-<sup>5.</sup> L’autorità richiedente invia all’autorità adita, non appena ne sia a conoscenza, ogni informazione utile relativa al caso che ha motivato la domanda di recupero.
+- a) nome, indirizzo e altri dati utili ai fini dell’identificazione della persona interessata;
+- b) natura esatta del credito o dei crediti;
+- c) importo del credito o dei crediti;
+- d) altre informazioni, se necessarie;
+- e) una dichiarazione dell’autorità richiedente che precisa la data a decorrere dalla quale è possibile procedere all’esecuzione secondo le norme giuridiche in vigore nel paese in cui essa ha sede e conferma che sono soddisfatte le condizioni di cui al paragrafo 2.
+
+<sup>4.</sup> L’autorità richiedente invia all’autorità adita, non appena ne sia a conoscenza, ogni informazione utile relativa al caso che ha motivato la richiesta di recupero.
 
 #### Art. 8
 
 Il titolo esecutivo per il recupero del credito è, all’occorrenza e secondo le disposizioni in vigore nel paese in cui ha sede l’autorità adita, omologato, riconosciuto, completato o sostituito con un titolo che ne permetta l’esecuzione nel suo territorio.
 
-All’omologazione, al riconoscimento, al completamento o alla sostituzione del titolo si deve provvedere quanto prima a decorrere dalla data di ricevimento della domanda di recupero. Essi non possono essere rifiutati quando il titolo che permette l’esecuzione nel paese in cui ha sede l’autorità richiedente sia formalmente regolare.
+All’omologazione, al riconoscimento al completamento o alla sostituzione del titolo si deve provvedere quanto prima a decorrere dalla data di ricevimento della richiesta di recupero. Essi non possono essere rifiutati quando il titolo esecutivo nel paese in cui ha sede l’autorità richiedente sia formalmente regolare.
 
-Nel caso in cui il compimento di una di queste formalità dia luogo ad un esame o ad una contestazione relativa al credito o al titolo che permette l’esecuzione, emesso dall’autorità richiedente, si applica l’articolo 12.
+Nel caso in cui il compimento di una di queste formalità dia luogo ad un esame o ad una contestazione relativa al credito e/o al titolo esecutivo emesso dall’autorità richiedente si applica l’articolo 12.
 
 #### Art. 9
 
 <sup>1.</sup> Il recupero è effettuato nella moneta del paese in cui ha sede l’autorità adita.
 
-<sup>2.</sup> L’autorità adita può, se lo consentono le disposizioni legislative, regolamentari o amministrative vigenti nel paese in cui ha sede e previa consultazione dell’autorità richiedente, concedere al debitore una dilazione di pagamento o autorizzare un pagamento rateale. Gli interessi riscossi dall’autorità adita per tale dilazione di pagamento devono essere trasferiti all’autorità richiedente.
+<sup>2.</sup> L’autorità adita può, se lo consentono le disposizioni legislative, regolamentari o amministrative vigenti nel paese in cui ha sede, concedere al debitore una dilazione di pagamento o autorizzare un pagamento rateale. Gli interessi riscossi dall’autorità adita per tale dilazione di pagamento devono essere trasferiti all’autorità richiedente.
 
-Va altresì trasferito all’autorità richiedente ogni altro interesse riscosso per ritardato pagamento a norma delle disposizioni legislative, regolamentari o amministrative vigenti nel paese in cui ha sede l’autorità adita.
+È altresì trasferito all’autorità richiedente ogni altro interesse riscosso per ritardato pagamento a norma delle disposizioni legislative, regolamentari o amministrative vigenti nel paese in cui ha sede l’autorità adita.
 
 #### Art. 10
 
@@ -8000,47 +9014,54 @@ I crediti da recuperare non beneficiano di nessun privilegio nel paese in cui ha
 
 #### Art. 11
 
-L’autorità adita informa immediatamente l’autorità richiedente del seguito dato alla domanda di recupero.
+L’autorità adita informa senza indugio l’autorità richiedente del seguito dato alla richiesta di recupero.
 
-### Domande contestate
+### Richieste contestate
 
 #### Art. 12
 
-<sup>1.</sup> Se nel corso della procedura di recupero un interessato contesta il credito o il titolo che ne permette l’esecuzione, emesso nel paese in cui ha sede l’autorità richiedente, egli deve adire l’organo competente del paese in cui ha sede l’autorità richiedente, in conformità delle norme vigenti in quest’ultimo. Quest’azione deve essere notificata dall’autorità richiedente all’autorità adita. Essa può inoltre essere notificata dall’interessato all’autorità adita.
+<sup>1.</sup> Se, nel corso della procedura di recupero, un interessato contesta il credito e/o il titolo esecutivo emesso nel paese in cui ha sede l’autorità richiedente, questi deve adire l’organo competente del paese in cui ha sede l’autorità richiedente, secondo le norme vigenti in quest’ultimo. Quest’azione deve essere notificata dall’autorità richiedente all’autorità adita. Essa può, inoltre essere notificata dall’interessato all’autorità adita.
 
-<sup>2.</sup> Non appena l’autorità adita abbia ricevuto la notifica di cui al paragrafo 1 da parte dell’autorità richiedente o da parte dell’interessato, essa sospende la procedura di esecuzione in attesa della decisione dell’organo competente in materia. Se lo ritiene necessario, e fatto salvo l’articolo 13, essa può ricorrere a provvedimenti cautelari per garantire il recupero, se le disposizioni legislative o regolamentari in vigore nel paese in cui essa ha sede lo consentono per crediti analoghi.
+<sup>2.</sup> Non appena l’autorità adita ha ricevuto la notifica di cui al paragrafo 1 dall’autorità richiedente o dall’interessato, essa sospende la procedura di esecuzione in attesa della decisione dell’organo competente in materia.
 
-<sup>3.</sup> Quando la contestazione riguarda i provvedimenti esecutivi adottati nel paese in cui ha sede l’autorità adita, l’azione viene intrapresa davanti all’organo competente di questo paese, in conformità delle disposizioni legislative e regolamentari ivi vigenti.
+2 *bis.* Se lo ritiene necessario, e fatto salvo l’articolo 13, l’autorità adita può far ricorso a provvedimenti cautelari per garantire il recupero, se le disposizioni legislative o regolamentari in vigore nel paese in cui essa ha sede lo consentono per crediti analoghi.
 
-<sup>4.</sup> Quando l’organo competente dinanzi al quale è stata intrapresa l’azione, conformemente al paragrafo 1, è un tribunale giudiziario o amministrativo, la decisione di tale tribunale, sempreché sia favorevole all’autorità richiedente e permetta il recupero del credito nel paese in cui l’autorità richiedente ha sede, costituisce il «titolo che permette l’esecuzione», ai sensi degli articoli 6, 7 e 8; il recupero del credito viene effettuato sulla base di tale decisione.
+<sup>3.</sup> Quando la contestazione riguarda i provvedimenti esecutivi adottati nel paese in cui ha sede l’autorità adita, l’azione è avviata davanti all’organo competente di questo paese, in conformità delle disposizioni legislative e regolamentari ivi vigenti.
 
-### Provvedimenti cautelari
+<sup>4.</sup> Qualora l’organo competente adito ai sensi del paragrafo 1 sia un tribunale ordinario o amministrativo, la decisione di tale tribunale, sempreché sia favorevole all’autorità richiedente e consenta il recupero del credito nel paese in cui l’autorità richiedente ha sede, costituisce il «titolo esecutivo» ai sensi degli articoli 6, 7 e 8 e il recupero del credito è effettuato sulla base di tale decisione.
+
+### Richiesta di adozione di provvedimenti cautelari
 
 #### Art. 13
 
-<sup>1.</sup> Su domanda motivata dell’autorità richiedente, l’autorità adita procede all’adozione dei provvedimenti cautelari per garantire il recupero di un credito se le disposizioni legislative o regolamentari in vigore nel paese in cui essa ha sede lo consentono.
+<sup>1.</sup> Su domanda dell’autorità richiedente, l’autorità adita procede all’adozione di provvedimenti cautelari, se consentito dalla legislazione nazionale e conformemente alle proprie prassi amministrative, per garantire il recupero qualora un credito o il titolo che consente l’esecuzione nel paese in cui ha sede l’autorità richiedente sia contestato al momento della presentazione della richiesta o qualora il credito non sia ancora oggetto di un titolo che consente l’esecuzione nel paese in cui ha sede l’autorità richiedente, purché l’adozione di provvedimenti cautelari sia possibile, in una situazione analoga, in base alla legislazione e alle prassi amministrative del paese.
 
-<sup>2.</sup> Per l’attuazione del primo comma si applicano mutatis mutandis l’articolo 6, l’articolo 7, paragrafi 1, 3 e 5 e gli articoli 8, 11, 12 e 14.
+1 *bis.* La richiesta di provvedimenti cautelari può essere corredata di altri documenti relativi ai crediti emessi nel paese in cui ha sede l’autorità richiedente.
 
-<sup>3.</sup> La domanda di adozione di provvedimenti cautelari è redatta utilizzando il formulario di cui all’allegato IV della presente appendice.
+<sup>2.</sup> Per l’attuazione del paragrafo 1 si applicano mutatis mutandis l’articolo 6, l’articolo 7, paragrafi 3 e 4, e gli articoli 8, 11, 12 e 14.
+
+<sup>3.</sup> La richiesta di provvedimenti cautelari è redatta utilizzando il formulario di cui all’allegato IV della presente appendice.
 
 ### Deroghe
 
 #### Art. 14
 
-L’autorità adita informa l’autorità richiedente dei motivi che ostano all’accoglimento della domanda di assistenza.
+L’autorità adita informa l’autorità richiedente dei motivi che ostano all’accoglimento della richiesta di assistenza.
 
 L’autorità adita non è tenuta:
 
-- a) ad accordare l’assistenza prevista dagli articoli da 6 a 13 se il recupero del credito è di natura tale da provocare, a causa della situazione del debitore, gravi difficoltà d’ordine economico o sociale nel paese in cui essa ha sede;
+- a) ad accordare l’assistenza prevista dagli articoli da 6 a 13 se il recupero del credito è di natura tale da provocare, a causa della situazione del debitore, gravi difficoltà d’ordine economico o sociale nel paese, in cui essa ha sede, nella misura in cui le disposizioni legislative, regolamentari o amministrative in vigore nel paese consentano tale deroga per crediti nazionali;
 - b) ad accettare il recupero di un credito se ritiene che ciò può contravvenire all’ordine pubblico o ad altro interesse essenziale del paese nel quale ha sede l’autorità;
-- c) a procedere al recupero del credito quando l’autorità richiedente non ha esaurito, sul territorio del paese in cui essa ha sede, le azioni esecutive del credito stesso.
+- c) a procedere al recupero del credito quando l’autorità richiedente non ha esaurito, sul territorio del paese in cui essa ha sede, le azioni esecutive del credito stesso;
+- d) ad accordare assistenza se l’importo totale dei crediti per i quali è chiesta l’assistenza è inferiore a 1500 EUR.
 
 #### Art. 15
 
-<sup>1.</sup> I problemi concernenti la prescrizione sono disciplinati esclusivamente dalle norme di legge in vigore nel paese in cui ha sede l’autorità richiedente.
+<sup>1.</sup> I problemi riguardanti la prescrizione sono disciplinati esclusivamente dalle norme di legge in vigore nel paese in cui ha sede l’autorità richiedente.
 
-<sup>2.</sup> Gli atti di recupero effettuati dall’autorità adita in conformità della domanda di assistenza che, se fossero stati effettuati dall’autorità richiedente, avrebbero avuto l’effetto di sospendere o di interrompere la prescrizione secondo le norme di legge vigenti nel paese in cui ha sede l’autorità richiedente, si considerano, a questo effetto, compiuti in quest’ultimo paese.
+<sup>2.</sup> Gli atti di recupero compiuti dall’autorità adita in conformità della richiesta di assistenza che, se fossero stati effettuati dall’autorità richiedente, avrebbero avuto l’effetto di sospendere, di interrompere o di prorogare la prescrizione secondo le norme di legge vigenti nel paese in cui ha sede l’autorità richiedente, si considerano, a questo effetto, compiuti in quest’ultimo paese.
+
+<sup>3.</sup> L’autorità richiedente e l’autorità interpellata si informano a vicenda di qualsiasi provvedimento che interrompe, sospende o proroga i termini di prescrizione del credito per il quale sono chiesti le misure di recupero o i provvedimenti cautelari o che può produrre tale effetto.
 
 ### Riservatezza
 
@@ -8048,7 +9069,7 @@ L’autorità adita non è tenuta:
 
 I documenti e le informazioni inviati all’autorità adita per l’applicazione della presente appendice possono essere comunicati soltanto:
 
-- a) alla persona cui si fa riferimento nella domanda di assistenza;
+- a) alla persona cui si fa riferimento nella richiesta di assistenza;
 - b) alle persone e alle autorità incaricate del recupero dei crediti, e solo ai fini del recupero stesso;
 - c) alle autorità giudiziarie competenti per le azioni di recupero dei crediti.
 
@@ -8056,41 +9077,47 @@ I documenti e le informazioni inviati all’autorità adita per l’applicazione
 
 #### Art. 17
 
-Le domande di assistenza e i relativi documenti sono corredati da una traduzione nella lingua ufficiale o in una delle lingue ufficiali del paese in cui ha sede l’autorità adita o in una lingua che possa essere accettata da detta autorità.
+<sup>1.</sup> Le richieste di assistenza e i relativi documenti sono corredati di una traduzione nella lingua ufficiale o in una delle lingue ufficiali del paese in cui ha sede l’autorità adita o in una lingua che possa essere accettata da detta autorità.
+
+<sup>2.</sup> Le informazioni e gli altri dati comunicati dall’autorità adita all’autorità richiedente sono redatti nella lingua ufficiale o in una delle lingue ufficiali del paese in cui ha sede dell’autorità adita o in un’altra lingua concordata tra l’autorità richiedente e l’autorità adita.
 
 ### Spese di assistenza
 
 #### Art. 18
 
-I paesi interessati rinunciano da una parte e dall’altra a qualsiasi rimborso delle spese risultanti dall’assistenza reciproca che essi si prestano in applicazione della presente appendice.
+<sup>1.</sup> I paesi interessati rinunciano da una parte e dall’altra a qualsiasi rimborso delle spese risultanti dall’assistenza reciproca che essi si prestano in applicazione della presente appendice.
 
-Tuttavia, il paese in cui ha sede l’autorità richiedente resta responsabile, nei confronti del paese in cui ha sede l’autorità adita, delle conseguenze pecuniarie di azioni riconosciute non fondate quanto alla realtà del credito o alla validità del titolo emesso dall’autorità richiedente.
+Tuttavia, qualora il recupero presenti una difficoltà particolare, riguardi spese molto elevate o si ricolleghi alla lotta contro le organizzazioni criminali, l’autorità richiedente e l’autorità adita possono convenire modalità specifiche di rimborso caso per caso.
+
+<sup>2.</sup> Fatto salvo il paragrafo 1, il paese in cui ha sede l’autorità richiedente resta responsabile, nei confronti del paese in cui ha sede l’autorità adita, delle conseguenze pecuniarie di azioni riconosciute non fondate quanto all’esistenza del credito o alla validità del titolo emesso dall’autorità richiedente.
 
 ### Autorità abilitate
 
 #### Art. 19
 
-I paesi si comunicano l’elenco delle autorità abilitate a formulare o a ricevere domande di assistenza, nonché ogni successiva modifica dello stesso.
+I paesi comunicano alla Commissione l’elenco delle autorità abilitate a formulare o a ricevere richieste di assistenza, nonché ogni successiva modifica dello stesso.
 
-#### Art. 20 a 22
+La Commissione mette le informazioni ricevute a disposizione degli altri paesi.
 
-(La presente appendice non contiene gli articoli 20 a 22).
+#### Art. 20–22
 
-### Complementarità
+(La presente appendice non contiene gli articoli da 20 a 22)
+
+### Disposizioni finali
 
 #### Art. 23
 
 Le disposizioni della presente appendice non ostano all’applicazione di una più ampia assistenza reciproca che alcuni paesi si accordano o potrebbero accordarsi in virtù di accordi o convenzioni, anche nel settore della notifica di atti giudiziari o extragiudiziari.
 
-#### Art. 24 a 26
+#### Art. 24–26
 
-(La presente appendice non contiene gli articoli 24 a 26).
+(La presente appendice non contiene gli articoli da 24 a 26).
 
 Allegato I dell’appendice IV
 
-## Disposizioni d’applicazione
+## Disposizioni applicative
 
-### Titolo I: Campo di applicazione
+### Titolo I: Ambito di applicazione
 
 #### Art. 1
 
@@ -8098,133 +9125,153 @@ Allegato I dell’appendice IV
 
 <sup>2.</sup> Il presente allegato stabilisce inoltre le modalità pratiche per la conversione e il trasferimento delle somme recuperate.
 
-### Titolo II: Richieste di informazioni
+### Titolo II : Disposizioni generali
+
+#### Art. 1 <sup>bis</sup>
+
+<sup>1.</sup> L’autorità richiedente può formulare una richiesta di assistenza per un solo credito o per diversi crediti qualora questi siano recuperabili nei confronti di una stessa persona.
+
+<sup>2.</sup> Qualora l’autorità richiedente abbia conoscenza che i beni appartenenti all’una o all’altra delle persone designate al comma precedente sono detenuti da una terza persona, la richiesta può riguardare anche quest’ultima.
+
+Una richiesta di informazioni, recupero o provvedimenti cautelari può riguardare una delle seguenti persone:
+
+- a) il debitore o i debitori;
+- b) oppure un’altra persona tenuta al pagamento del credito ai sensi delle norme vigenti nel paese in cui ha sede l’autorità richiedente.
+
+<sup>3.</sup> Qualora l’autorità adita rifiuti di trattare una richiesta di assistenza, notifica all’autorità richiedente i motivi del rifiuto, indicando le disposizioni di cui all’articolo 4, paragrafo 3, dell’appendice IV sui cui tale rifiuto si fonda. Tale notifica deve essere effettuata dall’autorità adita non appena ha preso la decisione e, in ogni caso, entro un mese dalla data in cui è stata accusata ricezione della richiesta.
+
+<sup>4.</sup> Ogni richiesta di informazioni, di notifica, di recupero o di adozione di provvedimenti cautelari deve indicare se una richiesta analoga sia stata indirizzata a un’altra autorità.
+
+### Titolo III: Richiesta di informazioni
 
 #### Art. 2
 
-<sup>1.</sup> La richiesta di informazioni di cui all’articolo 4 dell’appendice IV è redatta per iscritto utilizzando il formulario figurante all’allegato II. Essa reca il timbro ufficiale dell’autorità richiedente ed è firmata da un suo funzionario debitamente autorizzato a formulare tale domanda.
-
-<sup>2.</sup> L’autorità richiedente segnala nella domanda, ove necessario, ogni altra autorità eventualmente adita cui è stata inviata un’analoga domanda di informazioni.
+La richiesta di informazioni di cui all’articolo 4 dell’appendice IV è redatta per iscritto secondo il modello di cui all’allegato II. Essa reca il timbro ufficiale dell’autorità richiedente ed è firmata da un agente dell’autorità stessa debitamente autorizzato a formulare tale richiesta.
 
 #### Art. 3
 
-Qualora l’autorità richiedente abbia conoscenza che i beni appartenenti all’una o all’altra delle persone designate al comma precedente sono detenuti da una terza persona, la domanda può riguardare anche quest’ultima.
-
-La domanda di informazioni può riguardare:
-
-- a) il debitore;
-- b) oppure un’altra persona tenuta al pagamento del credito, ai sensi delle norme vigenti nel paese in cui ha sede l’autorità richiedente.
+(Il presente allegato non contiene l’articolo 3).
 
 #### Art. 4
 
-L’autorità adita accusa per iscritto (ed es.: mediante posta elettronica o telefax) ricevuta della domanda di informazioni entro il più breve termine e, in ogni caso, nei sette giorni successivi alla data di ricezione della domanda medesima.
+L’autorità adita assicura per iscritto (ad esempio, mediante posta elettronica o telefax) la ricezione della richiesta di informazioni senza indugio e, comunque, entro sette giorni dalla data di ricezione della richiesta medesima.
+
+Una volta ricevuta la richiesta, l’autorità adita invita, se del caso, l’autorità richiedente a fornire le informazioni supplementari necessarie. L’autorità richiedente fornisce tutte le informazioni supplementari necessarie cui, di regola, ha accesso.
 
 #### Art. 5
 
 <sup>1.</sup> L’autorità adita trasmette all’autorità richiedente le informazioni richieste man mano che le riceve.
 
-<sup>2.</sup> Se non è stato possibile ottenere la totalità o parte delle informazioni richieste entro termini ragionevoli, tenuto conto del caso specifico, l’autorità adita ne informa l’autorità richiedente, specificandone le ragioni.
+<sup>2.</sup> Se non è stato possibile ottenere tutte o parte delle informazioni richieste entro termini ragionevoli, tenuto conto del caso specifico, l’autorità adita ne informa l’autorità richiedente, specificandone le ragioni.
 
-In ogni caso, allo scadere del termine di sei mesi dalla data in cui è stata accusata la ricezione della domanda, l’autorità adita informa l’autorità richiedente sull’esito delle ricerche effettuate allo scopo di ottenere le informazioni richieste.
+<sup>3.</sup> In ogni caso, allo scadere del termine di sei mesi dalla data in cui è stata accusata ricezione della richiesta, l’autorità adita informa l’autorità richiedente sull’esito delle ricerche effettuate allo scopo di ottenere le informazioni richieste.
 
-Tenuto conto delle informazioni ad essa comunicate dall’autorità adita, l’autorità richiedente può domandare a quest’ultima di proseguire le sue ricerche. Detta domanda deve essere fatta per iscritto (ad es.: mediante posta elettronica o telefax) nel termine di due mesi dalla ricezione della comunicazione del risultato delle ricerche effettuate dall’autorità adita. L’autorità adita dà seguito a tale domanda secondo le disposizioni previste per la domanda iniziale.
+<sup>4.</sup> Tenuto conto delle informazioni ad essa comunicate dall’autorità adita, l’autorità richiedente può chiedere a quest’ultima di proseguire le sue ricerche. Tale richiesta deve essere formulata per iscritto (ad esempio, mediante posta elettronica o telefax) nel termine di due mesi dalla ricezione della comunicazione del risultato delle ricerche effettuate dall’autorità adita. L’autorità adita dà seguito a tale richiesta secondo le disposizioni previste per la richiesta iniziale.
 
 #### Art. 6
 
-Quando decide di non dare seguito favorevole alla richiesta di informazioni presentatale, l’autorità adita comunica per iscritto all’autorità richiedente i motivi che si oppongono al soddisfacimento della domanda, facendo espresso riferimento alle disposizioni specifiche dell’articolo 4 dell’appendice IV invocata. Tale comunicazione deve essere fatta dall’autorità adita non appena essa ha preso la decisione e, in ogni caso, prima dello scadere del termine di sei mesi a decorrere dalla data in cui è stata accusata ricezione della domanda.
+(Il presente allegato non contiene l’articolo 6).
 
 #### Art. 7
 
-L’autorità richiedente può in qualsiasi momento ritirare la domanda di informazioni che essa ha trasmesso all’autorità adita. La decisione di ritiro è comunicata per iscritto (ad es.: mediante posta elettronica o telefax) all’autorità adita.
+L’autorità richiedente può in qualsiasi momento ritirare la richiesta di informazioni che essa ha trasmesso all’autorità adita. La decisione di ritiro è comunicata per iscritto (ad esempio, mediante posta elettronica o telefax) all’autorità adita.
 
-### Titolo III: Domanda di notifica
+### Titolo IV: Richiesta di notifica
 
 #### Art. 8
 
-La domanda di notifica di cui all’articolo 5 dell’appendice IV è redatta per iscritto in duplice esemplare utilizzando il formulario figurante all’allegato III. Essa reca il timbro ufficiale dell’autorità richiedente ed è firmata da un agente dell’autorità stessa debitamente autorizzato a formulare tale domanda.
+La richiesta di notifica di cui all’articolo 5 dell’appendice IV è redatta per iscritto utilizzando il modello di cui all’allegato II. Essa reca il timbro ufficiale dell’autorità richiedente ed è firmata da un agente dell’autorità stessa debitamente autorizzato a formulare tale richiesta.
 
-Deve essere allegato alla domanda prevista dal comma precedente, in duplice esemplare, l’atto (o la decisione) di cui è chiesta la notifica.
+L’atto (o la decisione) di cui è richiesta la notifica deve essere allegato alla richiesta prevista dal comma precedente, in duplice copia.
 
 #### Art. 9
 
-La domanda di notifica può riguardare ogni persona fisica o giuridica che, in conformità delle disposizioni vigenti nel paese in cui ha sede l’autorità richiedente, deve avere conoscenza di un atto o di una decisione che la riguarda.
+La richiesta di notifica può riguardare ogni persona fisica o giuridica che, ai sensi delle disposizioni vigenti nel paese in cui ha sede l’autorità richiedente, deve avere conoscenza di un atto o di una decisione che la riguarda.
 
 #### Art. 10
 
-<sup>1.</sup> Non appena ricevuta la domanda di notifica, l’autorità adita adotta le misure necessarie per procedere alla notifica stessa, in conformità delle norme vigenti nello Stato membro in cui essa ha sede.
+<sup>1.</sup> Non appena ricevuta la richiesta di notifica, l’autorità adita adotta le misure necessarie per procedere alla notifica stessa, a norma delle disposizioni vigenti nello Stato membro in cui essa ha sede.
 
-<sup>2.</sup> L’autorità adita informa l’autorità richiedente in merito alla data della notifica non appena quest’ultima è stata effettuata. Tale informazione si effettua inviando all’autorità richiedente uno degli esemplari della sua domanda debitamente completata dell’attestato che figura a tergo.
+Se necessario, fatto salvo il rispetto del termine ultimo per la notifica indicato nella richiesta, l’autorità adita invita l’autorità richiedente a fornire informazioni supplementari.
 
-### Titolo IV: Domanda di recupero e/o di adozione di provvedimenti cautelari
+L’autorità richiedente fornisce tutte le informazioni supplementari cui ha accesso.
+
+<sup>2.</sup> L’autorità adita informa l’autorità richiedente in merito alla data della notifica non appena quest’ultima è stata effettuata. Tale informazione si effettua rinviando all’autorità richiedente uno degli esemplari della sua richiesta debitamente completata dell’attestato che figura a tergo.
+
+### Titolo V: Richiesta di recupero e/o di adozione di provvedimenti cautelari
 
 #### Art. 11
 
-<sup>1.</sup> La domanda di recupero di un credito e/o di adozione di provvedimenti cautelari prevista dagli articoli 6 e 13 dell’appendice IV è redatta per iscritto utilizzando il formulario di cui all’allegato IV. Essa contiene la dichiarazione comprovante che ricorrono le condizioni previste dall’appendice IV per l’avvio della procedura di mutua assistenza in materia, reca il timbro ufficiale dell’autorità richiedente ed è firmata da un suo funzionario debitamente autorizzato a formulare la domanda medesima.
+<sup>1.</sup> La richiesta di recupero e/o di adozione di provvedimenti cautelari di cui agli articoli 6 e 13 dell’appendice IV è redatta per iscritto utilizzando il formulario di cui all’allegato IV. La richiesta contiene la dichiarazione comprovante che ricorrono le condizioni previste dall’appendice IV per l’avvio della procedura di mutua assistenza in materia, reca il timbro ufficiale dell’autorità richiedente ed è firmata da un suo agente debitamente autorizzato a formulare tale richiesta.
 
-<sup>2.</sup> Il titolo esecutivo da allegare alla domanda di recupero e/o di adozione di provvedimenti cautelari può essere rilasciato globalmente per più crediti allorché riguardi una sola persona.
+<sup>2.</sup> Il titolo che consente l’esecuzione nel paese in cui ha sede l’autorità adita e che accompagna la richiesta è completato dall’autorità richiedente, o sotto la sua responsabilità, sulla base del titolo iniziale che consente l’esecuzione nel paese in cui ha sede detta autorità.
 
-Per l’applicazione degli articoli da 12 a 19, i diversi crediti rientranti nello stesso titolo esecutivo sono considerati come costituenti un credito unico.
+2 *bis*. Il titolo che consente l’esecuzione può essere rilasciato globalmente per più crediti allorché riguardi una sola persona.
+
+Ai fini dell’applicazione degli articoli da 12 a 19, i diversi crediti rientranti nello stesso titolo esecutivo sono considerati come costituenti un credito unico.
 
 #### Art. 12
 
-<sup>1.</sup>
-
-La domanda di recupero e/o di adozione di provvedimenti cautelari può riguardare:
-
-- a) il debitore, ovvero
-- b) qualsiasi persona tenuta al pagamento del credito in applicazione delle disposizioni in vigore nel paese in cui l’autorità richiedente ha sede.
-
-<sup>2.</sup> Se necessario, l’autorità richiedente indica all’autorità adita i beni appartenenti alle persone di cui al paragrafo 1 che, per quanto risulta all’autorità richiedente, sono detenuti da una terza persona.
+(Il presente allegato non contiene l’articolo 12).
 
 #### Art. 13
 
 <sup>1.</sup> L’autorità richiedente indica gli importi del credito da recuperare tanto nella moneta del paese in cui essa ha sede quanto nella moneta del paese in cui ha sede l’autorità adita.
 
-<sup>2.</sup> Il tasso di cambio da utilizzare ai fini dell’applicazione del paragrafo 1 è l’ultimo corso di vendita registrato sul o sui mercati di cambio più rappresentativi del paese in cui l’autorità richiedente ha sede il giorno in cui la domanda è stata firmata.
+<sup>2.</sup> Il tasso di cambio da utilizzare ai fini dell’applicazione del paragrafo 1 è l’ultimo corso di vendita registrato sul o sui mercati di cambio più rappresentativi del paese in cui l’autorità richiedente ha sede il giorno in cui la richiesta è stata firmata.
 
 #### Art. 14
 
-L’autorità adita accusa al più presto per iscritto (ad es.: mediante posta elettronica o telefax) ricevuta della domanda di recupero e/o di adozione di provvedimenti cautelari e, in ogni caso, nei sette giorni dalla domanda medesima.
+<sup>1.</sup> L’autorità adita accusa senza indugio ricezione per iscritto (ad esempio, mediante posta elettronica o telefax) della richiesta di recupero e/o di adozione di provvedimenti cautelari e, comunque, entro sette giorni dalla richiesta stessa.
+
+<sup>2.</sup> L’autorità adita può, se necessario, chiedere all’autorità richiedente di fornire informazioni supplementari o di completare il titolo che consente l’esecuzione nel paese adito. L’autorità richiedente fornisce tutte le informazioni supplementari necessarie cui, di regola, ha accesso.
 
 #### Art. 15
 
-Qualora la totalità o parte del credito non possa essere recuperata entro termini ragionevoli, tenuto conto del caso specifico, l’autorità adita ne informa l’autorità richiedente, indicando le ragioni del ritardo.
+<sup>1.</sup> Qualora il recupero della totalità o di parte del credito o l’adozione di provvedimenti cautelari non possa intervenire entro termini ragionevoli in relazione al caso specifico, l’autorità adita ne informa l’autorità richiedente, indicandone i motivi.
 
-In ogni caso, allo scadere del termine di un anno dalla data in cui è stata accusata ricevuta della domanda, l’autorità adita informa l’autorità richiedente dell’esito della procedura da essa avviata per il recupero e/o l’adozione di provvedimenti cautelari.
+L’autorità richiedente, tenuto conto delle informazioni fornitele dall’autorità adita, può chiedere a quest’ultima di proseguire la procedura di recupero e/o di adozione di provvedimenti cautelari da essa avviata. Tale richiesta deve essere redatta per iscritto (ad esempio, mediante posta elettronica o telefax) nel termine di due mesi dalla ricezione della comunicazione del risultato della procedura di recupero e/o di adozione di provvedimenti cautelari ad opera dell’autorità adita. L’autorità adita dà seguito a tale richiesta secondo le disposizioni previste per la richiesta iniziale.
 
-L’autorità richiedente, tenuto conto delle informazioni fornitele dall’autorità adita, può richiedere a quest’ultima di proseguire la procedura di recupero e/o di adozione di provvedimenti cautelari da essa avviata. Tale richiesta deve essere redatta per iscritto (ad es.: mediante posta elettronica o telefax) nel termine di due mesi dal termine della ricezione della comunicazione del risultato della procedura di recupero e/o di adozione di provvedimenti cautelari ad opera dell’autorità adita. L’autorità adita dà seguito a tale domanda secondo le disposizioni previste dalla domanda iniziale.
+<sup>2.</sup> Entro sei mesi dalla data in cui è stata accusata ricezione della richiesta, l’autorità adita informa l’autorità richiedente dello stato del procedimento da essa avviato per il recupero o per l’adozione di provvedimenti cautelari o dell’esito del medesimo.
+
+<sup>3.</sup> L’autorità adita notifica all’autorità richiedente quanto prima, e in ogni caso entro un mese dalla ricezione della notifica di cui all’articolo 14, paragrafo 1, se le disposizioni legislative, regolamentari e le prassi amministrative vigenti nel paese in cui ha sede l’autorità adita non consentono l’adozione dei provvedimenti cautelari o il recupero di cui all’articolo 12, paragrafo 2 *bis*, dell’appendice IV.
 
 #### Art. 16
 
-Le contestazioni del credito o del titolo che ne permette l’esecuzione del recupero introdotte nel paese in cui ha sede l’autorità richiedente sono notificate per iscritto (ad es.: mediante posta elettronica o telefax) dall’autorità richiedente all’autorità adita non appena l’autorità richiedente ne è stata informata.
+Le contestazioni del credito o del titolo esecutivo avviate nel paese in cui ha sede l’autorità richiedente sono notificate per iscritto (ad esempio, mediante posta elettronica o telefax) dall’autorità richiedente all’autorità adita non appena l’autorità richiedente ne è stata informata.
 
 #### Art. 17
 
-<sup>1.</sup> Se la domanda di recupero e/o di adozione di provvedimenti cautelari diviene senza oggetto in seguito al pagamento del credito, all’annullamento di quest’ultimo o per qualsiasi altro motivo, l’autorità richiedente ne informa immediatamente per iscritto (ad es.: mediante posta elettronica o telefax) l’autorità adita affinché quest’ultima possa interrompere l’azione intrapresa.
+<sup>1.</sup> Se la richiesta di recupero e/o di adozione di provvedimenti cautelari diviene inutile a seguito del pagamento del credito, dell’annullamento di quest’ultimo o per qualsiasi altro motivo, l’autorità richiedente ne informa immediatamente per iscritto (ad esempio, mediante posta elettronica o telefax) l’autorità adita affinché quest’ultima possa interrompere l’azione intrapresa.
 
-<sup>2.</sup> Se l’importo del credito oggetto della domanda di recupero e/o di adozione di provvedimenti cautelari risulta modificato per una qualunque ragione, l’autorità richiedente ne informa immediatamente per iscritto (ad es.: mediante posta elettronica o telefax) l’autorità adita.
+<sup>2.</sup> Se l’importo del credito oggetto della richiesta di recupero e/o di adozione di provvedimenti cautelari risulta modificato per una qualunque ragione, l’autorità richiedente ne informa immediatamente per iscritto (ad esempio, mediante posta elettronica o telefax) l’autorità adita.
 
-Se la modifica consiste in una riduzione dell’importo del credito, l’autorità adita prosegue l’azione intrapresa al fine del recupero o dell’adozione di provvedimenti cautelari, ma tale azione resta limitata alla somma che rimane da riscuotere. Se, nel momento in cui l’autorità adita è informata della diminuzione dell’importo del credito, il recupero dell’importo iniziale è già stato effettuato da essa senza che la procedura di trasferimento di cui all’articolo 18 sia stata iniziata, l’autorità adita rimborsa a colui che ne ha diritto l’importo riscosso in eccesso.
+Se la modifica consiste in una riduzione dell’importo del credito, l’autorità adita prosegue l’azione intrapresa per il recupero e/o l’adozione di provvedimenti cautelari, ma tale azione resta limitata alla somma che rimane da riscuotere. Se, nel momento in cui l’autorità adita è informata della diminuzione dell’importo del credito, il recupero dell’importo iniziale è già stato effettuato da essa senza che la procedura di trasferimento di cui all’articolo 18 sia stata iniziata, l’autorità adita rimborsa a colui che ne ha diritto l’importo riscosso in eccesso.
 
-Se la modifica consiste in un aumento dell’importo del credito, l’autorità richiedente trasmette al più presto all’autorità adita una domanda complementare di recupero e/o di adozione di provvedimenti cautelari. Tale domanda complementare è, nella misura del possibile, trattata dall’autorità adita insieme alla domanda iniziale dell’autorità richiedente. Quando, tenuto conto dello stato di avanzamento della procedura in corso, non è possibile allegare la domanda complementare alla domanda iniziale, l’autorità adita è tenuta a dar seguito alla domanda complementare soltanto se riguarda un importo uguale o superiore a quello previsto dall’articolo 7 dell’appendice IV.
+Se la modifica consiste in un aumento dell’importo del credito, l’autorità richiedente trasmette al più presto all’autorità adita una richiesta complementare di recupero e/o di adozione di provvedimenti cautelari. Tale richiesta complementare è, nella misura del possibile, trattata dall’autorità adita congiuntamente alla richiesta iniziale dell’autorità richiedente. Qualora, tenuto conto dello stato di avanzamento della procedura in corso, non è possibile allegare la richiesta complementare alla richiesta iniziale, l’autorità adita è tenuta a dar seguito alla richiesta complementare soltanto se riguarda un importo uguale o superiore a quello previsto dall’articolo 7 dell’appendice IV.
 
-<sup>3.</sup> Per la conversione dell’importo modificato del credito nella moneta del paese in cui ha sede l’autorità adita, l’autorità richiedente ricorre al tasso ufficiale di cambio applicato nella propria domanda iniziale.
+<sup>3.</sup> Per la conversione dell’importo modificato del credito nella moneta del paese in cui ha sede l’autorità adita, l’autorità richiedente ricorre al tasso ufficiale di cambio applicato nella propria richiesta iniziale.
 
 #### Art. 18
 
 Le somme recuperate dall’autorità adita, ivi compresi, eventualmente, gli interessi di cui all’articolo 9, paragrafo 2 dell’appendice IV, sono trasferite all’autorità richiedente nella moneta del paese in cui ha sede l’autorità adita. Il trasferimento deve avvenire nel mese che segue il giorno in cui è stato effettuato il recupero.
 
+Tuttavia, se le misure di recupero applicate dall’autorità adita sono contestate per motivi che non rientrano nella responsabilità del paese in cui ha sede l’autorità richiedente, l’autorità adita può sospendere il trasferimento degli importi recuperati in relazione ai crediti fino a quando la controversia non sia stata risolta e se sono rispettate contemporaneamente le seguenti condizioni:
+
+- a) l’autorità adita ritiene probabile che l’esito della contestazione sarà favorevole alla parte interessata; e
+- b) l’autorità richiedente non ha dichiarato che rimborserà le somme già trasferite se l’esito della contestazione è favorevole alla parte interessata.
+
 #### Art. 19
 
-A prescindere dalle somme eventualmente riscosse dall’autorità adita per gli interessi di cui all’articolo 9, paragrafo 2 dell’appendice IV, il credito è considerato recuperato in proporzione al recupero dell’importo espresso nella moneta nazionale del paese in cui ha sede l’autorità adita, in base al tasso di cambio di cui all’articolo 13, paragrafo 2.
+A prescindere dalle somme eventualmente riscosse dall’autorità adita per gli interessi di cui all’articolo 9, paragrafo 2, dell’appendice IV, il credito è considerato recuperato in proporzione al recupero dell’importo espresso nella moneta nazionale del paese in cui ha sede l’autorità adita, in base al tasso di cambio di cui all’articolo 13, paragrafo 2.
 
-### Titolo V: Disposizioni generali e finali
+### Titolo VI: Disposizioni generali e finali
 
 #### Art. 20
 
-<sup>1.</sup> L’autorità richiedente può formulare una domanda di assistenza per un solo o diversi crediti allorché questi siano a carico di una stessa persona.
+<sup>1.</sup> L’autorità richiedente può formulare una richiesta di assistenza per uno solo o diversi crediti allorché questi siano a carico di una stessa persona.
 
-<sup>2.</sup> Le informazioni previste negli allegati II, III e IV possono essere fornite su documenti stabiliti su carta bianca con dei mezzi informatici che rispettino le condizioni di forma dei formulari ripresi negli allegati.
+<sup>2.</sup> Le informazioni previste negli allegati II, III e IV possono essere fornite su documenti redatti su carta bianca con dei mezzi informatici che rispettino le condizioni di forma dei formulari che figurano negli allegati.
 
 #### Art. 21
 
@@ -8234,79 +9281,78 @@ Allegato II dell’appendice IV
 
 (art. 4 dell’appendice IV)
 
-Convenzione del 20 maggio 1987 relativa a un regime comune di transito
+Convenzione del 20 maggio 1987 relativa ad un regime comune di transito
 
 <table>
-<tr><td>(Designazione dell’autorità richiedente, indirizzo, numero di telefono, mediante posta elettronica, conti bancari, ecc.)</td><td></td><td></td></tr>
-<tr><td></td><td></td><td>(Luogo o data d’invio della domanda)</td></tr>
+<tr><td>(Designazione dell’autorità richiedente, indirizzo, numero di telefono, posta elettronica, conti bancari, ecc.)</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>(Luogo o data d’invio della richiesta)</td></tr>
 <tr><td></td><td></td><td>(N. della pratica dell’autorità richiedente)</td></tr>
-<tr><td>A</td><td></td><td>(Riservato all’autorità cui è indirizzata la domanda)</td></tr>
-<tr><td>(Designazione dell’autorità cui è indirizzata la domanda, n. postale, luogo, ecc.)</td><td></td><td></td></tr>
+<tr><td>A</td><td></td><td>(Riservato all’autorità cui è indirizzata la richiesta)</td></tr>
+<tr><td>(Designazione dell’autorità cui è indirizzata la richiesta, codice postale, luogo, ecc.)</td><td></td><td></td></tr>
 </table>
 
-**Domanda di informazioni**
+Richiesta di informazioni
 
 <table>
-<tr><td>Il sottoscritto</td><td></td><td>, in qualità di agente debitamente autorizzato dall’autorità</td></tr>
+<tr><td>Il(la) sottoscritto(a)</td><td></td><td>, in qualità di agente debitamente autorizzato dall’autorità</td></tr>
 <tr><td></td><td>(Nome e qualifica)</td><td></td></tr>
 </table>
 
-richiedente designata qui sopra, domanda con la presente informazione in conformità dell’articolo 4 dell’appendice IV della Convenzione
+richiedente designata qui sopra, richiede con la presente informazioni a norma dell’articolo 4 dell’appendice IV della convenzione.
 
 <table>
-<tr><td colspan="4">Informazioni relative alla persona interessata<sup>1</sup></td><td>Informazioni relative al credito o ai crediti</td><td colspan="3">Informazioni richieste</td></tr>
-<tr><td>a)</td><td>Nome e indirizzo</td><td>{</td><td>noto<sup>2</sup> presunto<sup>2</sup></td><td>– Importo (compresi eventuali interessi e spese)</td><td colspan="3"></td></tr>
-<tr><td>b)</td><td colspan="3">Informazioni utili concernenti la persona designata qui sopra – debitore principale – co-debitore – terzo detentore</td><td>– Natura esatta del credito o dei crediti [tab] – Altre indicazioni</td><td colspan="3"></td></tr>
+<tr><th colspan="4">Informazioni relative alla persona interessata<sup>1</sup></th><th>Informazioni relative al credito o ai crediti</th><th colspan="3">Informazioni richieste</th></tr>
+<tr><td>a)</td><td>Nome e indirizzo</td><td>{</td><td>noto<sup>\*</sup> presunto<sup>\*</sup></td><td>– Importo del credito o dei crediti (compresi eventuali interessi e spese</td><td colspan="3"></td></tr>
+<tr><td>b)</td><td colspan="3">Altre informazioni utili riguardanti la persona di cui sopra – debitore principale – co-debitore – terzo detentore</td><td>– Natura esatta del credito o dei crediti [tab] – Altre indicazioni</td><td colspan="3"></td></tr>
 <tr><td></td><td></td><td></td><td></td><td>Altre autorità adite</td><td colspan="3"></td></tr>
 <tr><td></td><td></td><td></td><td></td><td></td><td colspan="3">(Firma)</td></tr>
 <tr><td></td><td></td><td></td><td></td><td></td><td colspan="3">(Timbro ufficiale)</td></tr>
+<tr><td colspan="5"><sup>\*</sup> Cancellare la menzione inutile.</td><td colspan="3"></td></tr>
 <tr><td colspan="5"><sup>1</sup> Persona fisica o giuridica.</td><td colspan="3"></td></tr>
-<tr><td colspan="5"><sup>2</sup> Cancellare la menzione inutile.</td><td colspan="3"></td></tr>
 </table>
 
 Allegato III dell’appendice IV
 
 (art. 5 dell’appendice IV)
 
-Convenzione del 20 maggio 1987 relativa a un regime comune di transito
+Convenzione del 20 maggio 1987 relativa ad un regime comune di transito
 
 <table>
-<tr><td></td><td></td><td>(recto)</td></tr>
-<tr><td>(Designazione dell’autorità richiedente, indirizzo, numero di telefono, tel mediante posta elettronica, conti bancari, ecc.)</td><td></td><td></td></tr>
+<tr><td>(Designazione dell’autorità richiedente, indirizzo, numero di telefono, posta elettronica, conti bancari, ecc.)</td><td></td><td></td></tr>
 <tr><td></td><td></td><td>(Luogo o data d’invio della domanda)</td></tr>
 <tr><td></td><td></td><td>(N. della pratica dell’autorità richiedente)</td></tr>
-<tr><td>A</td><td></td><td>(Riservato all’autorità cui è indirizzata la domanda)</td></tr>
-<tr><td>(Designazione dell’autorità cui è indirizzata la domanda, n. postale, luogo, ecc.)</td><td></td><td></td></tr>
+<tr><td>A</td><td></td><td>(Riservato all’autorità cui è indirizzata la richiesta)</td></tr>
+<tr><td>(Designazione dell’autorità cui è indirizzata la richie-sta, codice postale, luogo, ecc.)</td><td></td><td></td></tr>
 </table>
 
-**Domanda di notifica**
+Richiesta di notifica
 
 <table>
-<tr><td>Il sottoscritto</td><td></td><td>, in qualità di agente debitamente autorizzato dall’autorità</td></tr>
+<tr><td>Il(la) sottoscritto(a)</td><td></td><td>, in qualità di agente debitamente autorizzato dall’autorità</td></tr>
 <tr><td></td><td>(Nome e qualifica)</td><td></td></tr>
 </table>
 
-richiedente designata qui sopra, domanda con la presente notifica, in conformità dell’articolo 5 dell’appendice IV della Convenzione, dell’atto/della decisione<sup>1</sup> seguente:
+richiedente designata qui sopra, richiede con la presente notifica, a norma dell’articolo 5 dell’appendice IV della convenzione, dell’atto/della decisione (\*) seguente:
 
 <table>
-<tr><td colspan="4">Informazioni relative alla persona interessata<sup>1</sup></td><td>Natura e oggetto dell’atto (o della decisione) da notificare</td><td>Informazioni relative al credito o ai crediti</td><td colspan="3">Altre informazioni</td></tr>
-<tr><td>a)</td><td>Nome e indirizzo</td><td>{</td><td>noto<sup>1</sup> presunto<sup>1</sup></td><td>[tab]</td><td>– Importo del credito o dei crediti (ivi compresi eventuali interessi e spese)</td><td colspan="3">[tab]</td></tr>
+<tr><th colspan="4">Informazioni relative alla persona interessata<sup>1</sup></th><th>Natura e oggetto dell’atto o della decisione da notificare</th><th>Informazioni relative al credito o ai crediti</th><th colspan="3">Altre informazioni</th></tr>
+<tr><td>a)</td><td>Nome e indirizzo</td><td>{</td><td>noto<sup>\*</sup> presunto<sup>\*</sup></td><td>[tab]</td><td>– Importo del credito o dei crediti (compresi eventuali interessi e spese)</td><td colspan="3">[tab]</td></tr>
 <tr><td>b)</td><td colspan="3">Nome e indirizzo del debitore principale se diverso da quello del destinatario</td><td>[tab]</td><td>– Natura esatta del credito o dei crediti</td><td colspan="3"></td></tr>
 <tr><td>c)</td><td colspan="3">Altre informazioni</td><td></td><td>– Altre indicazioni</td><td colspan="3"></td></tr>
 <tr><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="3">(Firma)</td></tr>
 <tr><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="3">(Timbro ufficiale)</td></tr>
-<tr><td colspan="6"><sup>1</sup> Cancellare la menzione inutile.</td><td colspan="3">[tab]</td></tr>
-<tr><td colspan="6"><sup>2</sup> Persona fisica o giuridica.</td><td colspan="3"></td></tr>
+<tr><td colspan="6"><sup>\*</sup> Cancellare la menzione inutile.</td><td colspan="3">[tab]</td></tr>
+<tr><td colspan="6"><sup>1</sup> Persona fisica o giuridica.</td><td colspan="3"></td></tr>
 </table>
 
 (verso)
 
-Attestato di notifica
+Certificato
 
-Il sottoscritto funzionario attesta che l’atto/la decisione[^t-8] allegato(a) alla domanda che figura a tergo
+Il sottoscritto funzionario attesta
 
-- – è stato(a) notificato(a) al destinatario previsto nella domanda in data . La notifica è stata effettuata secondo le seguenti modalità[^t-9]:
-- – non è stato(a) notificato(a) al destinatario di cui alla detta domanda per i seguenti motivi[^t-10]:
+- – che l’atto/la decisione (\*) allegato(a) alla richiesta che figura al recto è stato(a) notificato(a) al destinatario di cui a detta richiesta in data … La notifica è stata effettuata secondo le seguenti modalità (¹) (\*):
+- – che l’atto/la decisione (\*) allegato(a) alla richiesta che figura al recto non doveva essere notificato(a) al destinatario di cui a detta richiesta per i seguenti motivi (\*)…
 
 <table>
 <tr><td>(Data)</td></tr>
@@ -8314,51 +9360,52 @@ Il sottoscritto funzionario attesta che l’atto/la decisione[^t-8] allegato(a) 
 <tr><td>(Timbro ufficiale)</td></tr>
 </table>
 
-[^t-8]: Cancellare la menzione inutile.
-[^t-9]: Indicare con precisione se la notifica è stata fatta personalmente al destinatario o secondo un’altra procedura.
-[^t-10]: Cancellare la menzione inutile.
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+- [tab] \* Cancellare la dicitura inutile.
+- [tab] (¹) Indicare con precisione se la notifica è stata effettuata personalmente al destinatario o secondo un’altra procedura.
 
 Allegato IV dell’appendice IV
 
 (art. 6–13 dell’appendice IV)
 
-Convenzione del 20 maggio 1987 relativa a un regime comune di transito
+Convenzione del 20 maggio 1987 relativa ad un regime comune di transito
 
 <table>
-<tr><td>(Designazione dell’autorità richiedente, indirizzo, numero di telefono, mediante posta elettronica, conti bancari, ecc.)</td><td></td><td></td></tr>
-<tr><td></td><td></td><td>(Luogo o data d’invio della domanda)</td></tr>
+<tr><td>(Designazione dell’autorità richiedente, indirizzo, numero di telefono, posta elettronica, conti bancari, ecc.)</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>(Luogo o data d’invio della richiesta)</td></tr>
 <tr><td></td><td></td><td>(N. della pratica dell’autorità richiedente)</td></tr>
-<tr><td>A</td><td></td><td>(Riservato all’autorità cui è indirizzata la domanda)</td></tr>
-<tr><td>(Designazione dell’autorità cui è indirizzata la domanda, n. postale, luogo, ecc.)</td><td></td><td></td></tr>
+<tr><td>A</td><td></td><td>(Riservato all’autorità cui è indirizzata la richiesta)</td></tr>
+<tr><td>(Designazione dell’autorità cui è indirizzata la richiesta, codice postale, luogo, ecc.)</td><td></td><td></td></tr>
 </table>
 
-Domanda di ricupero/adozione di prevvedimenti cautelari<sup>1</sup>
+Richiesta di recupero/adozione di provvedimenti cautelari (\*)
 
 <table>
-<tr><td>Il sottoscritto</td><td></td><td>, in qualità di agente debitamente autorizzato dall’autorità</td></tr>
+<tr><td>Il(la) sottoscritto(a)</td><td></td><td>, in qualità di agente debitamente autorizzato dall’autorità</td></tr>
 <tr><td></td><td>(Nome e qualifica)</td><td></td></tr>
 </table>
 
-richiedente designata qui sopra, domanda con la presente
+richiedente designata qui sopra, richiede con la presente:
 
-- – il ricupero del o dei crediti oggetto del titolo esecutivo qui allegato conformemente all’articolo 7 dell’appendice IV della Convenzione; le condizioni dell’articolo 7, paragrafo 2, lettere a) e b), sono soddisfatte<sup>1</sup>:
-- – l’adozione di provvedimenti cautelari, conformemente all’articolo 13 dell’appendice IV della Convenzione nei confronti della persona qui sotto indicata intestataria del credito o dei crediti oggetto dei titolo esecutivo qui allegato; allego alla presente una domanda motivata<sup>1</sup>:
+- – il recupero del credito o dei crediti oggetto del titolo esecutivo qui allegato a norma dell’articolo 7 dell’appendice IV della convenzione; le condizioni dell’articolo 7, paragrafo 2, lettere a) e b), sono soddisfatte (\*);
+- – l’adozione di provvedimenti cautelari, a norma dell’articolo 13 dell’appendice IV della Convenzione nei confronti della persona qui sotto indicata intestataria del credito o dei crediti oggetto del titolo esecutivo qui allegato; allego alla presente una domanda motivata (\*)
 
 <table>
-<tr><td colspan="5">Informazioni relative alla persona interessata<sup><sup>1</sup></sup></td><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="11">Informazioni relative al credito</td></tr>
-<tr><td colspan="5"></td><td></td><td colspan="2"></td><td colspan="2"></td><td>Natura esatta del credito</td><td colspan="3">Importo espresso nella moneta del paese in cui ha sede l’autorità richiedente</td><td colspan="3">Importo espresso nella moneta del paese in cui ha sede l’autorità adita</td><td>Tasso di cambio utilizzato</td><td colspan="3">Altre informazioni</td></tr>
-<tr><td>a)</td><td>Nome e indirizzo</td><td colspan="2">{</td><td colspan="6">noto<sup><sup>1</sup></sup> presunto<sup><sup>1</sup></sup></td><td></td><td colspan="6">Importo somma capitale dovuto<sup><sup>1</sup></sup></td><td></td><td colspan="3">Data a decorrere dalla quale è possibile l’esecuzione</td></tr>
-<tr><td>b)</td><td colspan="6">Altre informazioni utili</td><td colspan="2"></td><td></td><td></td><td colspan="6">Importo degli interessi maturati fino al giorno della firma della presente<sup><sup>3</sup></sup></td><td></td><td colspan="3">Termine di prescrizione</td></tr>
-<tr><td></td><td colspan="9">– debitore principale – co-debitore – terzo detentore</td><td></td><td colspan="6">Importo delle spese sostenute fino al giorno della firma della presente<sup><sup>3</sup></sup></td><td></td><td colspan="3">Beni del debitore detenuti da una terza persona</td></tr>
+<tr><th colspan="5">Informazioni relative alla persona interessata<sup><sup>1</sup></sup></th><th></th><th colspan="2"></th><th colspan="2"></th><th colspan="11">Informazioni relative al credito</th></tr>
+<tr><th colspan="5"></th><th></th><th colspan="2"></th><th colspan="2"></th><th>Natura esatta del credito</th><th colspan="3">Importo espresso nella moneta del paese in cui ha sede l’autorità richiedente</th><th colspan="3">Importo espresso nella moneta del paese in cui ha sede l’autorità adita</th><th>Tasso di cambio utilizzato</th><th colspan="3">Altre informazioni</th></tr>
+<tr><td>a)</td><td>Nome e indirizzo</td><td colspan="2">{</td><td colspan="6">noto<sup><sup>\*</sup></sup> presunto<sup><sup>\*</sup></sup></td><td></td><td colspan="6">Importo somma capitale dovuto<sup><sup>1</sup></sup></td><td></td><td colspan="3">Data a decorrere dalla quale è possibile l’esecuzione</td></tr>
+<tr><td>b)</td><td colspan="6">Altre informazioni utili</td><td colspan="2"></td><td></td><td></td><td colspan="6">Importo degli interessi maturati fino al giorno della firma della presente<sup><sup>2</sup></sup></td><td></td><td colspan="3">Termine di prescrizione</td></tr>
+<tr><td></td><td colspan="9">– debitore principale – co-debitore – terzo detentore</td><td></td><td colspan="6">Importo delle spese sostenute fino al giorno della firma della presente<sup><sup>2</sup></sup></td><td></td><td colspan="3">Beni del debitore detenuti da una terza persona</td></tr>
 <tr><td></td><td colspan="2"></td><td></td><td colspan="6"></td><td></td><td colspan="2">Totale</td><td colspan="2"></td><td></td><td></td><td></td><td colspan="3">(Firma)</td></tr>
 <tr><td colspan="10">Dettaglio dei documenti annessi</td><td colspan="3"></td><td colspan="2"></td><td></td><td></td><td></td><td colspan="3">(Timbro ufficiale)</td></tr>
 <tr><td>[tab]</td><td></td><td colspan="2"></td><td colspan="6"></td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td colspan="3"></td></tr>
-<tr><td colspan="21"><sup>1</sup> Cancellare la menzione inutile.</td></tr>
-<tr><td colspan="21"><sup>2</sup> Persona fisica o giuridica.</td></tr>
-<tr><td colspan="21"><sup>3</sup> In caso di titolo esecutivo globale, indicare l’importo dei crediti di natura differente.</td></tr>
+<tr><td colspan="21"><sup>\*</sup> Cancellare la menzione inutile.</td></tr>
+<tr><td colspan="21"><sup>1</sup> Persona fisica o giuridica.</td></tr>
+<tr><td colspan="21"><sup>2</sup> In caso di titolo esecutivo globale, indicare l’importo dei crediti di natura differente.</td></tr>
 </table>
 
-Campo d’applicazione il 25 febbraio 2021[^t-11]
+Campo d’applicazione il 25 febbraio 2021[^t-8]
 
 <table>
 <tr><th>Statipartecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -8370,8 +9417,7 @@ Campo d’applicazione il 25 febbraio 2021[^t-11]
 <tr><td>Svizzera <sup>a</sup></td><td>28 ottobre</td><td>1987</td><td>1° gennaio</td><td>1988</td></tr>
 <tr><td>Turchia</td><td>1° dicembre</td><td>2012 A</td><td>1° dicembre</td><td>2012</td></tr>
 <tr><td>Unione europea <sup>b</sup></td><td>15 giugno</td><td>1987</td><td>1° gennaio</td><td>1988</td></tr>
-<tr><td colspan="5"><sup>a</sup> Stato partecipante dell’AELS.</td></tr>
-<tr><td colspan="5"><sup>b</sup> Membri dell’Unione europea: Austria, Belgio, Bulgaria, Cipro, Croazia, Danimarca, Estonia, Finlandia, Francia, Germania, Grecia, Irlanda, Italia, Lettonia, Lituania, Lussemburgo, Malta, Paesi Bassi, Polonia, Portogallo, Repubblica ceca, Romania, Slovacchia, Slovenia, Spagna, Svezia, Ungheria.</td></tr>
+<tr><td colspan="5"><sup>a</sup> Stato partecipante dell’AELS. <sup>b</sup> Membri dell’Unione europea: Austria, Belgio, Bulgaria, Cipro, Croazia, Danimarca, Estonia, Finlandia, Francia, Germania, Grecia, Irlanda, Italia, Lettonia, Lituania, Lussemburgo, Malta, Paesi Bassi, Polonia, Portogallo, Repubblica ceca, Romania, Slovacchia, Slovenia, Spagna, Svezia, Ungheria.</td></tr>
 </table>
 
-[^t-11]: [RU 2016 549](https://fedlex.data.admin.ch/eli/oc/2016/102); [2021 129](https://fedlex.data.admin.ch/eli/oc/2021/129). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [https://fedlex.admin.ch/it/Treaty](https://fedlex.admin.ch/it/Treaty).
+[^t-8]: [RU 2016 549](https://fedlex.data.admin.ch/eli/oc/2016/102); [2021 129](https://fedlex.data.admin.ch/eli/oc/2021/129). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [https://www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
