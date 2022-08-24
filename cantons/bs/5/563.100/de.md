@@ -4,13 +4,12 @@ number: "563.100"
 title: Gesetz über das Gastgewerbe
 short: Gastgewerbegesetz
 language: de
-version: 2020-01-01
-valid_until: 2022-08-24
-version_adopted: 2019-09-18
+version: 2022-08-25
+version_adopted: 2022-06-23
 adopted: 2004-09-15
 in_force: 2005-06-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/563.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4746/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5613/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Gastgewerbegesetz | Dienstleistungsgewerbe
 
 (Gastgewerbegesetz)
 
-Vom 15. September 2004 (Stand 1. Januar 2020)
+Vom 15. September 2004 (Stand 25. August 2022)
 
 Der Grosse Rat des Kantons Basel-Stadt,
 
@@ -352,7 +351,7 @@ beschliesst:
 
 **Gästekontrolle**
 
-<sup>1</sup> Die Beherbergungsbetriebe sind verpflichtet, für ihre Gäste einen Meldeschein vollständig und wahrheitsgetreu auszufüllen oder von diesen ausfüllen zu lassen. Die Meldescheine sind täglich der Polizei zur Verfügung zu halten.
+<sup>1</sup> Die Beherbergungsbetriebe sind verpflichtet, die Meldedaten ihrer Gäste vollständig und wahrheitsgetreu täglich im dafür vorgesehenen Meldesystem zu erfassen.
 
 #### § 36
 
