@@ -3,13 +3,13 @@ canton: BS
 number: "153.400"
 title: Verordnung betreffend die Abteilung Gleichstellung von Frauen und Männern und die Gleichstellungskommission Basel-Stadt
 language: de
-version: 2017-01-15
-valid_until: 2022-08-24
-version_adopted: 2017-01-10
+version: 2022-08-25
+valid_until: 2025-06-14
+version_adopted: 2022-08-16
 adopted: 2012-09-25
 in_force: 2012-10-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/153.400"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4001/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5605/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4001/pdf_file"
 
 Abt. Gleichstellung und -kommission: Verordnung | Regierung und Verwaltung
 
-Vom 25. September 2012 (Stand 15. Januar 2017)
+Vom 25. September 2012 (Stand 25. August 2022)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -53,6 +53,12 @@ beschliesst:
 - e) Sie leistet die ihr sachdienlich erscheinende Öffentlichkeitsarbeit.
 - f) Stellt sie im öffentlichen oder privaten Bereich die Gleichstellung hindernde Praktiken fest, so vermittelt sie und versucht auf geeignetem Wege Abhilfe zu schaffen.
 - g) Im Gerichts- und Verwaltungsverfahren steht sie zur Erstellung von Expertisen zur Verfügung.
+
+#### § 2a
+
+<sup>1</sup> Die Abteilung Gleichstellung von Frauen und Männern ist zuständig für die Kontrolle der Einhaltung der Lohngleichheit von Frauen und Männern bei Beschaffungen der Departemente und bei Staatsbeiträgen gemäss dem Staatsbeitragsgesetz (StBG) vom 11. Dezember 2013. Sie kann Dritte mit der Durchführung von Kontrollen beauftragen.
+
+<sup>2</sup> Sie kann Anforderungen für den Nachweis zur Einhaltung der Lohngleichheit von Frauen und Männern bei der Vergabe von Staatsbeiträgen definieren, insbesondere das zu verwendende Instrument. Die Anforderungen sind vom Regierungsrat zu genehmigen.
 
 ## III. Arbeitsmittel und Finanzen
 
