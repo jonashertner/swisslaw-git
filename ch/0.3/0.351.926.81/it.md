@@ -3,11 +3,11 @@ sr: "0.351.926.81"
 title: "Accordo del 26 ottobre 2004 di cooperazione fra la Confederazione Svizzera, da un lato, e la Comunità europea e i suoi Stati membri dall'altro, per lottare contro la frode e ogni altra attività illecita che leda i loro interessi finanziari (con Atto finale)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/211"
 language: it
-version: 2018-07-10
+version: 2022-08-25
 adopted: 2004-10-26
 in_force: 2009-04-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/211/20180710/it/xml/fedlex-data-admin-ch-eli-cc-2009-211-20180710-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/211/20180710/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/211/20220825/it/xml/fedlex-data-admin-ch-eli-cc-2009-211-20220825-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/211/20220825/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,13 +18,9 @@ RU **2009** 1299; FF **2004** 5273
 
 Testo originale
 
-Concluso il 26 ottobre 2004
+Concluso il 26 ottobre 2004 Approvato dall’Assemblea federale il 17 dicembre 2004[^t-1] Applicato provvisoriamente dall’8 aprile 2009[^t-2]
 
-Approvato dall’Assemblea federale il 17 dicembre 2004[^t-1]
-
-Applicato provvisoriamente dall’8 aprile 2009[^t-2]
-
-(Stato 10 luglio 2018)
+(Stato 25 agosto 2022)
 
 [^t-1]: [RU 2009 1297](https://fedlex.data.admin.ch/eli/oc/2009/210)
 [^t-2]: Stato delle ratifiche e dell’applicazione provvisoria dell’Acc. fra la Svizzera e la Comunità europea e i suoi Stati membri (art. 44 par. 3) in all.
@@ -758,11 +754,11 @@ All’articolo 43
 
 La Commissione europea comunicherà, entro il momento della firma dell’accordo, un elenco indicativo dei territori in cui il presente accordo trova applicazione.
 
-## Stato delle ratifiche e dell’applicazione provvisoria dell’Accordo fra la Svizzera e la Comunità europea e i suoi Stati membri (art. 44 par. 3), il 10 luglio 2018****
+## Stato delle ratifiche e dell’applicazione provvisoria dell’Accordo fra la Svizzera e la Comunità europea e i suoi Stati membri (art. 44 par. 3), il 10 luglio 2018
 
 [^annexu1-lvlu5-1]
 
-[^annexu1-lvlu5-1]: [RU 2018 2815](https://fedlex.data.admin.ch/eli/oc/2018/428)
+[^annexu1-lvlu5-1]: [RU 2018 2815](https://fedlex.data.admin.ch/eli/oc/2018/428). Correzione del 25 ago. 2022 ([RU 2022 465](https://fedlex.data.admin.ch/eli/oc/2022/465)).
 
 <table>
 <tr><th>Stati membri</th><th>Ratifica</th><th>Applicazione provvisoria dal:</th></tr>
@@ -778,7 +774,7 @@ La Commissione europea comunicherà, entro il momento della firma dell’accordo
 <tr><td>Finlandia</td><td>15.01.2009</td><td>15.04.2009</td></tr>
 <tr><td>Francia</td><td>12.04.2007</td><td>08.04.2009</td></tr>
 <tr><td>Germania</td><td>29.09.2008</td><td>09.04.2009</td></tr>
-<tr><td>Grecia</td><td></td><td></td></tr>
+<tr><td>Grecia</td><td>23.06.2011</td><td></td></tr>
 <tr><td>Irlanda</td><td></td><td></td></tr>
 <tr><td>Italia</td><td>20.04.2010</td><td></td></tr>
 <tr><td>Lettonia</td><td>09.06.2005</td><td></td></tr>

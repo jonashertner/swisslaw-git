@@ -3,16 +3,16 @@ sr: "0.351.926.81"
 title: "Accord de coopération du 26 octobre 2004 entre la Confédération suisse, d'une part, et la Communauté européenne et ses États membres, d'autre part, pour lutter contre la fraude et toute autre activité illégale portant atteinte à leurs intérêts financiers (avec acte final)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/211"
 language: fr
-version: 2018-07-10
+version: 2022-08-25
 adopted: 2004-10-26
 in_force: 2009-04-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/211/20180710/fr/xml/fedlex-data-admin-ch-eli-cc-2009-211-20180710-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/211/20180710/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/211/20220825/fr/xml/fedlex-data-admin-ch-eli-cc-2009-211-20220825-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/211/20220825/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Accord de coopération entre la Confédération suisse, d’une part, et la Communauté européenne et ses Etats membres, d’autre part, pour lutter contre la fraude et toute autre activité illégale portant atteinte à leurs intérêts financiers
+# Accord de coopération entre la Confédération suisse, d’une part, et la Communauté européenne et ses États membres, d’autre part, pour lutter contre la fraude et toute autre activité illégale portant atteinte à leurs intérêts financiers
 
 RO **2009** 1299; FF **2004** 5593
 
@@ -24,7 +24,7 @@ Approuvé par l’Assemblée fédérale le 17 décembre 2004[^t-1]
 
 Appliqué provisoirement dès le 8 avril 2009[^t-2]
 
-(Etat le 10 juillet 2018)
+(État le 25 août 2022)
 
 [^t-1]: [RO 2009 1297](https://fedlex.data.admin.ch/eli/oc/2009/210)
 [^t-2]: Etat des ratifications et de l’application provisoire de l’Accord entre la Suisse et la Communauté européenne et ses Etats membres (art. 44, al. 3) en annexe.
@@ -89,7 +89,7 @@ d’autre part,
 
 ci-après dénommés les parties contractantes,
 
-considérant les relations étroites entre la Communauté européenne et ses Etats membres, d’une part, et la Confédération suisse, d’autre part,
+considérant les relations étroites entre la Communauté européenne et ses États membres, d’une part, et la Confédération suisse, d’autre part,
 
 désireuses de lutter de manière efficace contre la fraude et toute autre activité illégale portant atteinte aux intérêts financiers des parties contractantes,
 
@@ -107,7 +107,7 @@ sont convenus de conclure l’accord suivant:
 
 **Objet**
 
-L’objet du présent accord est d’étendre l’assistance administrative et l’entraide judiciaire en matière pénale entre la Communauté européenne et ses Etats membres, d’une part, et la Confédération suisse, d’autre part, en vue de combattre les activités illégales visées à l’art. 2.
+L’objet du présent accord est d’étendre l’assistance administrative et l’entraide judiciaire en matière pénale entre la Communauté européenne et ses États membres, d’une part, et la Confédération suisse, d’autre part, en vue de combattre les activités illégales visées à l’art. 2.
 
 #### Art. 2
 
@@ -154,7 +154,7 @@ La coopération pourra être refusée si la partie contractante requise estime q
 
 <sup>1.</sup> Les informations et les éléments de preuve communiqués ou obtenus en vertu du présent accord, sous quelque forme que ce soit, sont couverts par le secret officiel et bénéficient de la protection accordée aux informations analogues par la loi nationale de la partie contractante qui les a reçus et par les dispositions correspondantes applicables aux institutions communautaires.
 
-Ces informations et ces éléments de preuve ne peuvent notamment être communiqués à des personnes autres que celles qui, au sein des institutions communautaires, des Etats membres ou de la Confédération suisse, sont, par leurs fonctions, appelées à en connaître, ni être utilisés par celles‑ci à des fins autres que celles tombant sous le champ d’application du présent accord.
+Ces informations et ces éléments de preuve ne peuvent notamment être communiqués à des personnes autres que celles qui, au sein des institutions communautaires, des États membres ou de la Confédération suisse, sont, par leurs fonctions, appelées à en connaître, ni être utilisés par celles‑ci à des fins autres que celles tombant sous le champ d’application du présent accord.
 
 <sup>2.</sup> Les informations et les éléments de preuve obtenus par la partie contractante requérante en application du présent accord peuvent être transmis à toute partie contractante si cette partie contractante mène une enquête pour laquelle la coopération ne serait pas exclue ou s’il existe des indices concrets que cette partie contractante pourrait utilement mener une telle enquête. Cette communication ne pourra avoir lieu à des fins autres que celles prévues par le présent accord.
 
@@ -162,7 +162,7 @@ Ces informations et ces éléments de preuve ne peuvent notamment être communiq
 
 <sup>4.</sup> Toute partie contractante bénéficiaire de la communication d’informations ou d’éléments de preuve en conformité avec le par. 2 respecte les limitations d’utilisation de ceux-ci opposées par la partie contractante requise à la partie contractante requérante de la première transmission.
 
-<sup>5.</sup> La transmission d’informations et d’éléments de preuve obtenus en application du présent accord par une partie contractante à un Etat tiers est soumise à l’autorisation de la partie contractante qui est à l’origine de ces informations et de ces éléments de preuve.
+<sup>5.</sup> La transmission d’informations et d’éléments de preuve obtenus en application du présent accord par une partie contractante à un État tiers est soumise à l’autorisation de la partie contractante qui est à l’origine de ces informations et de ces éléments de preuve.
 
 #### Art. 6
 
@@ -231,7 +231,7 @@ Ces services font appel à toute autorité administrative compétente pour l’e
 
 **Demandes de renseignements**
 
-<sup>1.</sup> A la demande de l’autorité de la partie contractante requérante, l’autorité de la partie contractante requise communique à celle-ci, dans les limites du champ d’application du présent accord, tous les renseignements à sa disposition ou à la disposition d’autres autorités de la même partie contractante de nature à lui permettre de prévenir, rechercher et réprimer les activités illégales visées par celui-ci ou nécessaires pour le recouvrement d’une créance. L’autorité de la partie contractante requise procède à toute recherche administrative nécessaire pour obtenir ces renseignements.
+<sup>1.</sup> À la demande de l’autorité de la partie contractante requérante, l’autorité de la partie contractante requise communique à celle-ci, dans les limites du champ d’application du présent accord, tous les renseignements à sa disposition ou à la disposition d’autres autorités de la même partie contractante de nature à lui permettre de prévenir, rechercher et réprimer les activités illégales visées par celui-ci ou nécessaires pour le recouvrement d’une créance. L’autorité de la partie contractante requise procède à toute recherche administrative nécessaire pour obtenir ces renseignements.
 
 <sup>2.</sup> Il y a lieu de joindre aux renseignements communiqués les rapports et autres documents, ou des copies ou extraits certifiés conformes de ces rapports et documents, sur lesquels s’appuient les renseignements communiqués, dont les autorités de la partie contractante requise disposent ou qui ont été élaborés ou obtenus en vue de répondre à la demande de renseignements.
 
@@ -241,13 +241,13 @@ Ces services font appel à toute autorité administrative compétente pour l’e
 
 **Demandes de surveillance**
 
-A la demande de l’autorité de la partie contractante requérante, l’autorité de la partie contractante requise exerce dans toute la mesure du possible une surveillance concernant les échanges de marchandises en violation de la réglementation visée à l’art. 2. Cette surveillance pourra porter sur les personnes soupçonnées de manière fondée d’avoir participé ou de participer à la commission de ces activités illégales ou d’accomplir des actes préparatoires en vue de les commettre, ainsi que sur les lieux, les moyens de transport et les marchandises en rapport avec ces activités.
+À la demande de l’autorité de la partie contractante requérante, l’autorité de la partie contractante requise exerce dans toute la mesure du possible une surveillance concernant les échanges de marchandises en violation de la réglementation visée à l’art. 2. Cette surveillance pourra porter sur les personnes soupçonnées de manière fondée d’avoir participé ou de participer à la commission de ces activités illégales ou d’accomplir des actes préparatoires en vue de les commettre, ainsi que sur les lieux, les moyens de transport et les marchandises en rapport avec ces activités.
 
 #### Art. 14
 
 **Notification et remise par voie postale**
 
-<sup>1.</sup> A la demande de l’autorité de la partie contractante requérante, l’autorité de la partie contractante requise notifie au destinataire ou lui fait notifier, conformément aux dispositions internes de la partie contractante requise, tous instruments ou décisions émanant des autorités compétentes de la partie contractante requérante qui entrent dans le champ d’application du présent accord.
+<sup>1.</sup> À la demande de l’autorité de la partie contractante requérante, l’autorité de la partie contractante requise notifie au destinataire ou lui fait notifier, conformément aux dispositions internes de la partie contractante requise, tous instruments ou décisions émanant des autorités compétentes de la partie contractante requérante qui entrent dans le champ d’application du présent accord.
 
 <sup>2.</sup> Les demandes de notification, qui doivent mentionner l’objet de l’acte ou de la décision à notifier, sont accompagnées d’une traduction dans une langue officielle de la partie contractante requise ou dans une langue acceptable pour cette partie contractante.
 
@@ -265,7 +265,7 @@ Ces personnes pourront donner suite à ces communications et fournir les documen
 
 Cette disposition est sans préjudice du devoir de collaboration des opérateurs économiques en vertu de l’art. 17.
 
-L’autorité de la partie contractante requise communique les résultats de ces enquêtes à l’autorité de la partie contractante requérante. L’art. 12, par. 2, s’applique *mut**a**tis mutandis*.
+L’autorité de la partie contractante requise communique les résultats de ces enquêtes à l’autorité de la partie contractante requérante. L’art. 12, par. 2, s’applique *mutatis mutandis*.
 
 <sup>3.</sup> L’autorité de la partie contractante requise étend l’assistance à toutes les circonstances, les objets et les personnes présentant un lien apparent avec l’objet de la demande d’assistance, sans qu’une demande complémentaire soit nécessaire. En cas de doute, l’autorité de la partie contractante requise prend d’abord contact avec l’autorité de la partie contractante requérante.
 
@@ -346,7 +346,7 @@ Les demandes sont accompagnées des renseignements suivants:
 
 #### Art. 22
 
-**Equipes communes d’enquête spéciale**
+**Équipes communes d’enquête spéciale**
 
 <sup>1.</sup> Les autorités de plusieurs parties contractantes peuvent, d’un commun accord, créer une équipe commune d’enquête spéciale implantée dans une partie contractante.
 
@@ -380,7 +380,7 @@ Les agents de liaison ont une mission d’avis et d’assistance. Ils n’ont pa
 
 **Recouvrement**
 
-<sup>1.</sup> A la demande de la partie contractante requérante, la partie contractante requise procède au recouvrement des créances tombant dans le champ d’application du présent accord comme s’il s’agissait de ses propres créances.
+<sup>1.</sup> À la demande de la partie contractante requérante, la partie contractante requise procède au recouvrement des créances tombant dans le champ d’application du présent accord comme s’il s’agissait de ses propres créances.
 
 <sup>2.</sup> La demande de recouvrement d’une créance doit être accompagnée d’un exemplaire officiel ou d’une copie certifiée conforme du titre qui en permet l’exécution, émis par la partie contractante requérante et, le cas échéant, de l’original ou d’une copie certifiée conforme d’autres documents nécessaires pour le recouvrement.
 
@@ -517,7 +517,7 @@ L’autorité de la partie contractante dont émane la demande:
 
 **Remise en vue de confiscation ou restitution**
 
-<sup>1.</sup> A la demande de la partie contractante requérante, les objets, documents, fonds ou autres valeurs qui ont été saisis à titre conservatoire peuvent faire l’objet d’une remise en vue de leur confiscation ou de leur restitution à l’ayant droit.
+<sup>1.</sup> À la demande de la partie contractante requérante, les objets, documents, fonds ou autres valeurs qui ont été saisis à titre conservatoire peuvent faire l’objet d’une remise en vue de leur confiscation ou de leur restitution à l’ayant droit.
 
 <sup>2.</sup> La partie contractante requise ne pourra pas refuser la remise du fait que les fonds correspondent à une dette de caractère fiscal ou douanier.
 
@@ -565,7 +565,7 @@ La demande d’entraide ne porte pas préjudice aux droits qui pour la partie co
 
 **Comité mixte**
 
-<sup>1.</sup> Il est établi un comité mixte, composé de représentants des parties contractantes, qui est responsable de la bonne application du présent accord. A cet effet, il formule des recommandations et prend des décisions dans les cas prévus par l’accord. Il se prononce d’un commun accord.
+<sup>1.</sup> Il est établi un comité mixte, composé de représentants des parties contractantes, qui est responsable de la bonne application du présent accord. À cet effet, il formule des recommandations et prend des décisions dans les cas prévus par l’accord. Il se prononce d’un commun accord.
 
 <sup>2.</sup> Le comité mixte établit son règlement intérieur qui contient, entre autres dispositions, les modalités de convocation des réunions, de désignation de son président et de définition du mandat attribué à ce dernier.
 
@@ -579,7 +579,7 @@ La demande d’entraide ne porte pas préjudice aux droits qui pour la partie co
 
 <sup>1.</sup> Chaque partie contractante peut soumettre au comité mixte un différend relatif à l’interprétation ou à l’application du présent accord, notamment lorsqu’elle considère qu’une autre partie contractante ne donne pas suite d’une manière répétée aux demandes de coopération qui lui sont adressées.
 
-<sup>2.</sup> Le comité mixte s’efforce de régler le différend dans les meilleurs délais. Tous les éléments d’information utiles pour permettre un examen approfondi de la situation en vue de trouver une solution acceptable sont fournis au comité mixte. A cet effet, le comité mixte examine toutes les possibilités permettant de maintenir le bon fonctionnement du présent accord.
+<sup>2.</sup> Le comité mixte s’efforce de régler le différend dans les meilleurs délais. Tous les éléments d’information utiles pour permettre un examen approfondi de la situation en vue de trouver une solution acceptable sont fournis au comité mixte. À cet effet, le comité mixte examine toutes les possibilités permettant de maintenir le bon fonctionnement du présent accord.
 
 #### Art. 41
 
@@ -625,15 +625,15 @@ Les dispositions du présent accord sont applicables aux demandes concernant les
 
 #### Art. 47
 
-**Extension de l’accord aux nouveaux Etats membres de l’Union européenne**
+**Extension de l’accord aux nouveaux États membres de l’Union européenne**
 
-<sup>1.</sup> Tout Etat qui devient un Etat membre de l’Union européenne peut, moyennant notification écrite aux parties contractantes, devenir partie contractante au présent accord.
+<sup>1.</sup> Tout État qui devient un État membre de l’Union européenne peut, moyennant notification écrite aux parties contractantes, devenir partie contractante au présent accord.
 
-<sup>2.</sup> Le texte de l’accord dans la langue du nouvel Etat membre adhérant, établi par le Conseil de l’Union européenne, sera authentifié sur la base d’un échange de lettres entre la Communauté européenne et la Confédération suisse. Il vaudra comme texte authentique au sens de l’art. 48.
+<sup>2.</sup> Le texte de l’accord dans la langue du nouvel État membre adhérant, établi par le Conseil de l’Union européenne, sera authentifié sur la base d’un échange de lettres entre la Communauté européenne et la Confédération suisse. Il vaudra comme texte authentique au sens de l’art. 48.
 
-<sup>3.</sup> Le présent accord entre en vigueur à l’égard de tout nouvel Etat membre de l’Union européenne qui y adhère quatre-vingt-dix jours après la réception de la notification de son instrument d’adhésion, ou à la date d’entrée en vigueur de l’accord si celui-ci n’est pas encore entré en vigueur à l’expiration de ladite période de quatre-vingt-dix jours.
+<sup>3.</sup> Le présent accord entre en vigueur à l’égard de tout nouvel État membre de l’Union européenne qui y adhère quatre-vingt-dix jours après la réception de la notification de son instrument d’adhésion, ou à la date d’entrée en vigueur de l’accord si celui-ci n’est pas encore entré en vigueur à l’expiration de ladite période de quatre-vingt-dix jours.
 
-<sup>4.</sup> Lorsque le présent accord n’est pas encore entré en vigueur lors de la notification de leur instrument d’adhésion, l’art. 44, par. 3, s’applique aux nouveaux Etats membres adhérants.
+<sup>4.</sup> Lorsque le présent accord n’est pas encore entré en vigueur lors de la notification de leur instrument d’adhésion, l’art. 44, par. 3, s’applique aux nouveaux États membres adhérants.
 
 #### Art. 48
 
@@ -707,12 +707,12 @@ de la Communauté européenne,
 
 d’autre part,
 
-réunis à Luxembourg, le 26 octobre 2004 pour la signature de l’accord de coopération entre la Communauté européenne et ses Etats membres, d’une part, et la Confédération suisse, d’autre part, pour lutter contre la fraude et toute autre activité illégale portant atteinte à leurs intérêts financiers, ont adopté les déclarations communes mentionnées ci-après et jointes au présent acte final:
+réunis à Luxembourg, le 26 octobre 2004 pour la signature de l’accord de coopération entre la Communauté européenne et ses États membres, d’une part, et la Confédération suisse, d’autre part, pour lutter contre la fraude et toute autre activité illégale portant atteinte à leurs intérêts financiers, ont adopté les déclarations communes mentionnées ci-après et jointes au présent acte final:
 
 - 1\. Déclaration commune relative au blanchiment;
 - 2\. Déclaration commune concernant la coopération de la Confédération suisse à Eurojust et, si possible, au Réseau judiciaire européen.
 
-En outre, les plénipotentiaires des Etats membres de l’Union européenne et ceux de la Communauté ainsi que les plénipotentiaires de la Confédération suisse ont adopté le procès-verbal agréé des négociations qui est annexé au présent acte final. Le procès-verbal agréé a force contraignante.
+En outre, les plénipotentiaires des États membres de l’Union européenne et ceux de la Communauté ainsi que les plénipotentiaires de la Confédération suisse ont adopté le procès-verbal agréé des négociations qui est annexé au présent acte final. Le procès-verbal agréé a force contraignante.
 
 Fait à Luxembourg, le 26 octobre 2004.
 
@@ -726,7 +726,7 @@ Les parties contractantes conviennent que l’art. 2, par. 3, de l’accord rela
 
 Les parties contractantes prennent note du souhait de la Confédération suisse de pouvoir sonder la possibilité d’une coopération de la Confédération suisse aux travaux d’Eurojust et, si possible, du Réseau judiciaire européen.
 
-## Procès-verbal agréé des négociations sur l’Accord de coopération entre la Confédération suisse, d’une part et la Communauté européenne et ses Etats membres, d’autre part, pour lutter contre la fraude et toute autre activité illégale portant atteinte à leurs intérêts financiers
+## Procès-verbal agréé des négociations sur l’Accord de coopération entre la Confédération suisse, d’une part et la Communauté européenne et ses États membres, d’autre part, pour lutter contre la fraude et toute autre activité illégale portant atteinte à leurs intérêts financiers
 
 Les parties contractantes sont convenues de ce qui suit:
 
@@ -758,14 +758,14 @@ Ad art. 43
 
 La Commission européenne communiquera, au plus tard au moment de la signature de l’accord, une liste indicative des territoires auxquels le présent accord trouve application.
 
-## Etat des ratifications et de l’application provisoire de l’Accord entre la Suisse et la Communauté européenne et ses Etats membres (art. 44, al. 3), le 10 juillet 2018****
+## État des ratifications et de l’application provisoire de l’Accord entre la Suisse et la Communauté européenne et ses États membres (art. 44, al. 3), le 10 juillet 2018
 
 [^annexu1-lvlu5-1]
 
-[^annexu1-lvlu5-1]: [RO 2018 2815](https://fedlex.data.admin.ch/eli/oc/2018/428)
+[^annexu1-lvlu5-1]: [RO 2018 2815](https://fedlex.data.admin.ch/eli/oc/2018/428). Erratum du 25 août 2022 ([RO 2022 465](https://fedlex.data.admin.ch/eli/oc/2022/465)).
 
 <table>
-<tr><th>Etats membres</th><th>Ratification</th><th colspan="2">Appliqué provisoirement dès le:</th></tr>
+<tr><th>États membres</th><th>Ratification</th><th colspan="2">Appliqué provisoirement dès le:</th></tr>
 <tr><td>Allemagne</td><td>29.09.2008</td><td>09.04.2009</td></tr>
 <tr><td>Autriche</td><td>23.06.2006</td><td>21.12.2017</td></tr>
 <tr><td>Belgique</td><td>02.06.2008</td><td>28.09.2011</td></tr>
@@ -778,7 +778,7 @@ La Commission européenne communiquera, au plus tard au moment de la signature d
 <tr><td>Estonie</td><td>03.03.2005</td><td>06.01.2011</td></tr>
 <tr><td>Finlande</td><td>15.01.2009</td><td>15.04.2009</td></tr>
 <tr><td>France</td><td>12.04.2007</td><td>08.04.2009</td></tr>
-<tr><td>Grèce</td><td></td><td></td></tr>
+<tr><td>Grèce</td><td>23.06.2011</td><td></td></tr>
 <tr><td>Hongrie</td><td>31.03.2006</td><td></td></tr>
 <tr><td>Irlande</td><td></td><td></td></tr>
 <tr><td>Italie</td><td>20.04.2010</td><td></td></tr>

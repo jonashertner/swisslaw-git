@@ -3,11 +3,11 @@ sr: "0.351.926.81"
 title: "Abkommen vom 26. Oktober 2004 über die Zusammenarbeit zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft und ihren Mitgliedstaaten andererseits zur Bekämpfung von Betrug und sonstigen rechtswidrigen Handlungen, die ihre finanziellen Interessen beeinträchtigen (mit Schlussakte)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/211"
 language: de
-version: 2018-07-10
+version: 2022-08-25
 adopted: 2004-10-26
 in_force: 2009-04-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/211/20180710/de/xml/fedlex-data-admin-ch-eli-cc-2009-211-20180710-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/211/20180710/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/211/20220825/de/xml/fedlex-data-admin-ch-eli-cc-2009-211-20220825-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/211/20220825/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ Originaltext
 
 Abgeschlossen am 26. Oktober 2004 Von der Bundesversammlung genehmigt am 17. Dezember 2004[^t-1] Provisorisch angewendet ab 8. April 2009[^t-2]
 
-(Stand am 10. Juli 2018)
+(Stand am 25. August 2022)
 
 [^t-1]: [AS 2009 1297](https://fedlex.data.admin.ch/eli/oc/2009/210)
 [^t-2]: Stand des Ratifikationsprozesses und Stand der vorläufigen Anwendung des Abk. zwischen der Schweiz und der Europäischen Gemeinschaft und ihren Mitgliedstaaten (Art. 44 Abs. 3) im Anhang.
@@ -677,7 +677,7 @@ Geschehen zu Luxemburg, am 26. Oktober 2004.
 
 (Es folgen die Unterschriften)
 
-## Gemeinsame Erklärung über die Geldwäsche****
+## Gemeinsame Erklärung über die Geldwäsche
 
 [^annexu1-lvlu2-1]
 
@@ -724,11 +724,11 @@ Die Europäische Kommission wird spätestens zum Zeitpunkt der Unterzeichnung de
 
 [^annexu1-lvlu4-1]: Schweizerischer Sprachgebrauch: «Einvernahme».
 
-## Stand des Ratifikationsprozesses und Stand der vorläufigen Anwendung des Abkommens zwischen der Schweiz und der Europäischen Gemeinschaft und ihren Mitgliedstaaten (Art. 44 Abs. 3), am 10. Juli 2018****
+## Stand des Ratifikationsprozesses und Stand der vorläufigen Anwendung des Abkommens zwischen der Schweiz und der Europäischen Gemeinschaft und ihren Mitgliedstaaten (Art. 44 Abs. 3), am 10. Juli 2018
 
 [^annexu1-lvlu5-1]
 
-[^annexu1-lvlu5-1]: [AS 2018 2815](https://fedlex.data.admin.ch/eli/oc/2018/428)
+[^annexu1-lvlu5-1]: [AS 2018 2815](https://fedlex.data.admin.ch/eli/oc/2018/428). Berichtigung vom 25. Aug. 2022 ([AS 2022 465](https://fedlex.data.admin.ch/eli/oc/2022/465)).
 
 <table>
 <tr><th>Mitgliedstaat</th><th>Ratifikation</th><th colspan="2">Vorläufig angewendet ab:</th></tr>
@@ -740,7 +740,7 @@ Die Europäische Kommission wird spätestens zum Zeitpunkt der Unterzeichnung de
 <tr><td>Estland</td><td>03.03.2005</td><td>06.01.2011</td></tr>
 <tr><td>Finnland</td><td>15.01.2009</td><td>15.04.2009</td></tr>
 <tr><td>Frankreich</td><td>12.04.2007</td><td>08.04.2009</td></tr>
-<tr><td>Griechenland</td><td></td><td></td></tr>
+<tr><td>Griechenland</td><td>23.06.2011</td><td></td></tr>
 <tr><td>Irland</td><td></td><td></td></tr>
 <tr><td>Italien</td><td>20.04.2010</td><td></td></tr>
 <tr><td>Kroatien</td><td>08.08.2017</td><td>06.11.2017</td></tr>
