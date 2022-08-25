@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Teilrevision der Verordnung über die Versorgung der Bevölkerung mit Jodtabletten (Jodtabletten-Verordnung)
 document: Vernehmlassungsvorlage
 language: de

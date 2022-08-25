@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revisione parziale dell’ordinanza sulla fornitura di compresse di iodio alla popolazione (Ordinanza sulle compresse di iodio)
 document: Progetto posto in consultazione
 language: it

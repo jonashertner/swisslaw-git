@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Révision partielle de l’ordonnance sur la distribution de comprimés d’iode à la population (ordonnance sur les comprimés d’iode)
 document: Projet mis en consultation
 language: fr
