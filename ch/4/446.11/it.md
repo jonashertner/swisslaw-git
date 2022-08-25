@@ -4,11 +4,11 @@ title: "Ordinanza del 3 dicembre 2021 sulla promozione delle attività extrascol
 short: OPAG
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/864"
 language: it
-version: 2022-01-01
+version: 2022-08-26
 adopted: 2021-12-03
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/864/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2021-864-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/864/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/864/20220826/it/xml/fedlex-data-admin-ch-eli-cc-2021-864-20220826-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/864/20220826/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/864/20220101/it"
 
 (Ordinanza sulla promozione delle attività giovanili extrascolastiche, OPAG)
 
-del 3 dicembre 2021 (Stato 1° gennaio 2022)
+del 3 dicembre 2021 (Stato 26 agosto 2022)
 
 Il Consiglio federale svizzero
 
@@ -741,11 +741,13 @@ Gli aiuti finanziari accordati in base a decisioni emanate o contratti conclusi 
 
 <sup>2</sup> L’articolo 4 capoverso 4 entra in vigore il 1° gennaio 2026.
 
-Allegato 1
+Allegato 1[^t-1]
 
 (art. 21 cpv. 3 e 4)
 
 ## Aiuti finanziari a singole organizzazioni per la gestione delle strutture e per attività regolari (art. 7 cpv. 2 LPAG)
+
+[^t-1]: Aggiornato dalla correzione del 26 ago. 2022 ([RU 2022 469](https://fedlex.data.admin.ch/eli/oc/2022/469)).
 
 ### 1. Criteri qualitativi per tutti i tipi di organizzazioni
 
@@ -781,7 +783,7 @@ Descrizione delle misure e degli strumenti di comunicazione: numero, genere e ti
 
 Punti: 0–3
 
-Fattore di ponderazione: 7
+Fattore di ponderazione: 5
 
 Descrizione delle possibilità di partecipazione di fanciulli e giovani in seno all’istituzione (partecipazione alle decisioni degli organi associativi, coinvolgimento nello sviluppo di prestazioni ecc.). Presentazione dei programmi, delle strategie e delle attività in materia.
 

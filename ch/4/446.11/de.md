@@ -4,11 +4,11 @@ title: "Verordnung vom 3. Dezember 2021 über die Förderung der ausserschulisch
 short: KJFV
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/864"
 language: de
-version: 2022-01-01
+version: 2022-08-26
 adopted: 2021-12-03
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/864/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2021-864-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/864/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/864/20220826/de/xml/fedlex-data-admin-ch-eli-cc-2021-864-20220826-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/864/20220826/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/864/20220101/de"
 
 (Kinder- und Jugendförderungsverordnung, KJFV)
 
-vom 3. Dezember 2021 (Stand am 1. Januar 2022)
+vom 3. Dezember 2021 (Stand am 26. August 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -735,11 +735,13 @@ Finanzhilfen, die auf der Grundlage von Entscheiden oder Verträgen gewährt wer
 
 <sup>2</sup> Artikel 4 Absatz 4 tritt am 1. Januar 2026 in Kraft.
 
-Anhang 1
+Anhang 1[^t-1]
 
 (Art. 21 Abs. 3 und 4)
 
 ## Finanzhilfen für die Betriebsstruktur und für regelmässige Aktivitäten von Einzelorganisationen (Art. 7 Abs. 2 KJFG)
+
+[^t-1]: Bereinigt gemäss Berichtigung vom 26. Aug. 2022 ([AS 2022 469](https://fedlex.data.admin.ch/eli/oc/2022/469)).
 
 ### 1. Qualitative Kriterien für alle Organisationstypen
 
@@ -879,7 +881,7 @@ Gewichtung: 1
 
 <table>
 <tr><td>0 –</td><td>19</td><td>Betreuer/innen</td><td>0 Punkte</td></tr>
-<tr><td>10 –</td><td>49</td><td>Betreuer/innen</td><td>1 Punkt</td></tr>
+<tr><td>20 –</td><td>49</td><td>Betreuer/innen</td><td>1 Punkt</td></tr>
 <tr><td>50 –</td><td>149</td><td>Betreuer/innen</td><td>2 Punkte</td></tr>
 <tr><td>mehr als</td><td>149</td><td>Betreuer/innen</td><td>3 Punkte</td></tr>
 </table>

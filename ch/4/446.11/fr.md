@@ -4,11 +4,11 @@ title: "Ordonnance du 3 décembre 2021 sur l’encouragement des activités extr
 short: OEEJ
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/864"
 language: fr
-version: 2022-01-01
+version: 2022-08-26
 adopted: 2021-12-03
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/864/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-864-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/864/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/864/20220826/fr/xml/fedlex-data-admin-ch-eli-cc-2021-864-20220826-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/864/20220826/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/864/20220101/fr"
 
 (Ordonnance sur l’encouragement de l’enfance et de la jeunesse, OEEJ)
 
-du 3 décembre 2021 (Etat le 1<sup>er</sup> janvier 2022)
+du 3 décembre 2021 (État le 26 août 2022)
 
 Le Conseil fédéral suisse,
 
@@ -735,11 +735,13 @@ Les aides financières accordées sur la base de décisions rendues ou de contra
 
 <sup>2</sup> L’art. 4, al. 4, entre en vigueur le 1<sup>er</sup> janvier 2026.
 
-Annexe 1
+Annexe 1[^t-1]
 
 (art. 21, al. 3 et 4)
 
 ## Aides financières à des organisations particulières pour des tâches de gestion et des activités régulières
+
+[^t-1]: Mise à jour par l’erratum du 26 août 2022 ([RO 2022 469](https://fedlex.data.admin.ch/eli/oc/2022/469)).
 
 ### (art. 7, al. 2, LEEJ)
 
@@ -777,7 +779,7 @@ Description des mesures et instruments de communication: nombre, nature et types
 
 Points: 0 – 3
 
-Pondération: 7
+Pondération: 5
 
 Description des possibilités de participation ouvertes aux enfants et aux jeunes au sein de l’organisme (participation aux décisions des organes de l’association, à l’élaboration d’offres, etc.). Présentation des programmes, stratégies et activités en la matière.
 
@@ -881,7 +883,7 @@ Définition: Nombre total de moniteurs présents lors d’activités et dans des
 
 <table>
 <tr><td>0 à</td><td>19</td><td>moniteurs</td><td>0 point</td></tr>
-<tr><td>20 à</td><td>69</td><td>moniteurs</td><td>1 point</td></tr>
+<tr><td>20 à</td><td>49</td><td>moniteurs</td><td>1 point</td></tr>
 <tr><td>50 à</td><td>149</td><td>moniteurs</td><td>2 points</td></tr>
 <tr><td>plus de</td><td>149</td><td>moniteurs</td><td>3 points</td></tr>
 </table>
@@ -1027,7 +1029,7 @@ Pondération: 1
 
 Définition: Activité de l’organisme dans les régions linguistiques
 
-*Une organisation active uniquement au Tessin ou dans les Grisons n’obtient aucun point.*
+*Une organisation active uniquement au Tessin ou dans les Grisons* *n’obtient aucun point.*
 
 <table>
 <tr><td>À l’échelle d’une région linguistique (art. 1, let. a, OEEJ)</td><td>0 point</td></tr>
