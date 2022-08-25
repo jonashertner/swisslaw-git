@@ -4,11 +4,11 @@ title: Ordonnance du 6 novembre 2019 sur les établissements financiers (OEFin)
 short: OEFin
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/763"
 language: fr
-version: 2021-08-01
+version: 2022-08-26
 adopted: 2019-11-06
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/763/20210801/fr/xml/fedlex-data-admin-ch-eli-cc-2019-763-20210801-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/763/20210801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/763/20220826/fr/xml/fedlex-data-admin-ch-eli-cc-2019-763-20220826-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/763/20220826/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/763/20210801/fr"
 
 (OEFin)
 
-du 6 novembre 2019 (Etat le 1<sup>er</sup> août 2021)
+du 6 novembre 2019 (Etat le 26 août 2022)
 
 Le Conseil fédéral suisse,
 
@@ -1460,7 +1460,9 @@ Est considéré comme un établissement financier étranger toute entreprise org
 - b. fait figurer dans la raison sociale, dans la description de son but social ou dans des documents professionnels les termes mentionnés à l’art. 13, al. 2, LEFin ou un terme ayant la même signification, ou qui
 - c. exerce en qualité d’établissement financier au sens de l’art. 2, al. 1, LEFin.
 
-<sup>2</sup> Si la direction effective de l’établissement financier étranger se situe en Suisse ou si ce dernier exerce son activité exclusivement ou de manière prépondérante en Suisse ou depuis la Suisse, l'établissement financier doit être organisé selon le droit suisse et il est soumis aux dispositions légales applicables aux établissements financiers étrangers.
+<sup>2</sup> Si la direction effective de l’établissement financier étranger se situe en Suisse ou si ce dernier exerce son activité exclusivement ou de manière prépondérante en Suisse ou depuis la Suisse, l’établissement financier doit être organisé selon le droit suisse et il est soumis aux dispositions légales applicables aux établissements financiers suisses.[^76-1]
+
+[^76-1]: Erratum du 26 août 2022 ([RO 2022 470](https://fedlex.data.admin.ch/eli/oc/2022/470)).
 
 #### Art. 77
 
@@ -1574,7 +1576,7 @@ La société d’audit remet son rapport:
 
 L’établissement financier étranger qui souhaite dissoudre une succursale en demande préalablement l’autorisation à la FINMA.
 
-### Section 6**** Représentations
+### Section 6 Représentations
 
 [^chap2-sec6-1]
 

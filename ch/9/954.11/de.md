@@ -4,11 +4,11 @@ title: "Verordnung vom 6. November 2019 über die Finanzinstitute (Finanzinstitu
 short: FINIV
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/763"
 language: de
-version: 2021-08-01
+version: 2022-08-26
 adopted: 2019-11-06
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/763/20210801/de/xml/fedlex-data-admin-ch-eli-cc-2019-763-20210801-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/763/20210801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/763/20220826/de/xml/fedlex-data-admin-ch-eli-cc-2019-763-20220826-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/763/20220826/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/763/20210801/de"
 
 (Finanzinstitutsverordnung, FINIV)
 
-vom 6. November 2019 (Stand am 1. August 2021)
+vom 6. November 2019 (Stand am 26. August 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -1459,7 +1459,9 @@ Als ausländisches Finanzinstitut gilt jedes nach ausländischem Recht organisie
 - b. in der Firma, in der Bezeichnung des Geschäftszwecks oder in Geschäftsunterlagen Ausdrücke nach Artikel 13 Absatz 2 FINIG oder einen Ausdruck mit ähnlicher Bedeutung verwendet; oder
 - c. als Finanzinstitut im Sinne von Artikel 2 Absatz 1 FINIG tätig ist.
 
-<sup>2</sup> Wird das ausländische Finanzinstitut tatsächlich in der Schweiz geleitet oder wickelt es seine Geschäfte ausschliesslich oder überwiegend in oder von der Schweiz aus ab, so muss es sich nach schweizerischem Recht organisieren und untersteht den Bestimmungen über die inländischen Finanzinstitute.
+<sup>2</sup> Wird das ausländische Finanzinstitut tatsächlich in der Schweiz geleitet oder wickelt es seine Geschäfte ausschliesslich oder überwiegend in oder von der Schweiz aus ab, so muss es sich nach schweizerischem Recht organisieren und untersteht den Bestimmungen über die inländischen Finanzinstitute.[^76-1]
+
+[^76-1]: Die Berichtigung vom 26. Aug. 2022 betrifft nur den französischen Text ([AS 2022 470](https://fedlex.data.admin.ch/eli/oc/2022/470)).
 
 #### Art. 77
 
@@ -1573,7 +1575,7 @@ Die Prüfgesellschaft übermittelt ihren Bericht:
 
 Das ausländische Finanzinstitut holt vor der Aufhebung einer Zweigniederlassung die Genehmigung der FINMA ein.
 
-### 6. Abschnitt:**** Vertretungen
+### 6. Abschnitt: Vertretungen
 
 [^chap2-sec6-1]
 
@@ -1788,7 +1790,7 @@ II
 
 Die folgenden Erlasse werden wie folgt geändert:
 
-...[^annex1-lvlu1-2]
+…[^annex1-lvlu1-2]
 
 [^annex1-lvlu1-1]: [[AS 1997 85](https://fedlex.data.admin.ch/eli/oc/1997/85_85_85)[2044](https://fedlex.data.admin.ch/eli/oc/1997/2044_2044_2044)Art. 2, [2004 2781](https://fedlex.data.admin.ch/eli/oc/2004/343), [2005 4849](https://fedlex.data.admin.ch/eli/oc/2005/656)Ziff. III, [2006 4307](https://fedlex.data.admin.ch/eli/oc/2006/662)Anhang 7 Ziff. 2, [2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)Anhang Ziff. 9, [2012 5441](https://fedlex.data.admin.ch/eli/oc/2012/629)Anhang 6 Ziff. 3, [2013 1111](https://fedlex.data.admin.ch/eli/oc/2013/251), [2014 1269](https://fedlex.data.admin.ch/eli/oc/2014/273)Anhang 2 Ziff. 6 [2321](https://fedlex.data.admin.ch/eli/oc/2014/394)Anhang 4 Ziff. 2 [4295](https://fedlex.data.admin.ch/eli/oc/2014/708)Anhang Ziff. 4, [2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)Anhang 1 Ziff. 12, [2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)Ziff. III]
 [^annex1-lvlu1-2]: Die Änderungen können unter [AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)konsultiert werden.

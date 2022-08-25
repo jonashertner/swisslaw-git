@@ -4,11 +4,11 @@ title: "Ordinance of 6 November 2019 on Financial Institutions (Financial Instit
 short: FinIO
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/763"
 language: en
-version: 2021-08-01
+version: 2022-08-26
 adopted: 2019-11-06
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/763/20210801/en/xml/fedlex-data-admin-ch-eli-cc-2019-763-20210801-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/763/20210801/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/763/20220826/en/xml/fedlex-data-admin-ch-eli-cc-2019-763-20220826-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/763/20220826/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Financial Institutions Ordinance, FinIO)
 
-of 6 November 2019 (Status as of 1 August 2021)
+of 6 November 2019 (Status as of 26 August 2022)
 
 The Swiss Federal Council,
 
@@ -1461,7 +1461,9 @@ A foreign financial institution is any company organised in accordance with fore
 - b. in the company name, in the description of its business purpose or in commercial documents uses terms in accordance with Article 13 paragraph 2 FinIA or a term of similar meaning; or
 - c. operates a financial institution within the meaning of Article 2 paragraph 1 FinIA.
 
-<sup>2</sup> If the foreign financial institution is effectively managed from Switzerland or if it executes its transactions exclusively or predominantly in or from Switzerland, it must be organised in accordance with Swiss legislation and be subject to the provisions governing domestic financial institutions.
+<sup>2</sup> If the foreign financial institution is effectively managed from Switzerland or if it executes its transactions exclusively or predominantly in or from Switzerland, it must be organised in accordance with Swiss legislation and be subject to the provisions governing domestic financial institutions.[^76-1]
+
+[^76-1]: The correction of 26 Aug. 2022 concerns the French text only ([AS 2022 470](https://fedlex.data.admin.ch/eli/oc/2022/470)).
 
 #### Art. 77
 
@@ -1575,7 +1577,7 @@ The audit firm shall send its audit report:
 
 The foreign financial institution shall obtain the approval of FINMA before closing a branch.
 
-### Section 6**** Representations
+### Section 6 Representations
 
 [^chap2-sec6-1]
 
@@ -1793,5 +1795,5 @@ The legislative instruments below are amended as follows:
 
 …[^annex1-lvlu1-2]
 
-[^annex1-lvlu1-1]: [[AS 1997 85](https://fedlex.data.admin.ch/eli/oc/1997/85_85_85)[2044](https://fedlex.data.admin.ch/eli/oc/1997/2044_2044_2044)Art. 2, [2004 2781](https://fedlex.data.admin.ch/eli/oc/2004/343), [2005 4849](https://fedlex.data.admin.ch/eli/oc/2005/656)No III, [2006 4307](https://fedlex.data.admin.ch/eli/oc/2006/662)Annex 7 No 2, [2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)Annex No 9, [2012 5441](https://fedlex.data.admin.ch/eli/oc/2012/629)Annex 6 No 3, [2013 1111](https://fedlex.data.admin.ch/eli/oc/2013/251), [2014 1269](https://fedlex.data.admin.ch/eli/oc/2014/273)Annex 2 No 6 [2321](https://fedlex.data.admin.ch/eli/oc/2014/394)Annex 4 No 2 [4295](https://fedlex.data.admin.ch/eli/oc/2014/708)Annex No 4, [2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)Annex 1 No 12, [2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)No III]
+[^annex1-lvlu1-1]: [[AS 1997 85](https://fedlex.data.admin.ch/eli/oc/1997/85_85_85), [2044](https://fedlex.data.admin.ch/eli/oc/1997/2044_2044_2044)Art. 2; [2004 2781](https://fedlex.data.admin.ch/eli/oc/2004/343); [2005 4849](https://fedlex.data.admin.ch/eli/oc/2005/656)No III; [2006 4307](https://fedlex.data.admin.ch/eli/oc/2006/662)Annex 7 No 2; [2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)Annex No 9; [2012 5441](https://fedlex.data.admin.ch/eli/oc/2012/629)Annex 6 No 3; [2013 1111](https://fedlex.data.admin.ch/eli/oc/2013/251); [2014 1269](https://fedlex.data.admin.ch/eli/oc/2014/273)Annex 2 No 6, [2321](https://fedlex.data.admin.ch/eli/oc/2014/394)Annex 4 No 2, [4295](https://fedlex.data.admin.ch/eli/oc/2014/708)Annex No 4; [2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)Annex 1 No 12; [2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)No III]
 [^annex1-lvlu1-2]: The amendments may be consulted under [AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763).

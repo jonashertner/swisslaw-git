@@ -4,11 +4,11 @@ title: Ordinanza del 6 novembre 2019 sugli istituti finanziari (OIsFi)
 short: OIsFi
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/763"
 language: it
-version: 2021-08-01
+version: 2022-08-26
 adopted: 2019-11-06
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/763/20210801/it/xml/fedlex-data-admin-ch-eli-cc-2019-763-20210801-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/763/20210801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/763/20220826/it/xml/fedlex-data-admin-ch-eli-cc-2019-763-20220826-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/763/20220826/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/763/20210801/it"
 
 (OIsFi)
 
-del 6 novembre 2019 (Stato 1° agosto 2021) (Stato 1° agosto 2021)
+del 6 novembre 2019 (Stato 26 agosto 2022) (Stato 26 agosto 2022)
 
 Il Consiglio federale svizzero,
 
@@ -1457,7 +1457,9 @@ Sono considerate istituti finanziari esteri tutte le imprese organizzate secondo
 - b. nella ragione sociale, nella descrizione dello scopo sociale o in documenti aziendali utilizzano espressioni di cui all’articolo 13 capoverso 2 LIsFi o un’espressione di significato analogo; o
 - c. operano quali istituti finanziari ai sensi dell’articolo 2 capoverso 1 LIsFi.
 
-<sup>2</sup> Se la sua direzione effettiva si trova in Svizzera o se i suoi affari si svolgono essenzialmente o prevalentemente in Svizzera o a partire dalla Svizzera, l’istituto finanziario deve essere organizzato secondo il diritto svizzero e sottostà alle disposizioni relative agli istituti finanziari svizzeri.
+<sup>2</sup> Se la sua direzione effettiva si trova in Svizzera o se i suoi affari si svolgono essenzialmente o prevalentemente in Svizzera o a partire dalla Svizzera, l’istituto finanziario deve essere organizzato secondo il diritto svizzero e sottostà alle disposizioni relative agli istituti finanziari svizzeri.[^76-1]
+
+[^76-1]: La correzione del 26 ago. 2022 concerne soltanto il testo francese ([RU 2022 470](https://fedlex.data.admin.ch/eli/oc/2022/470)).
 
 #### Art. 77
 
@@ -1571,7 +1573,7 @@ La società di audit trasmette il suo rapporto:
 
 Prima di procedere alla scioglimento di una succursale, l’istituto finanziario estero richiede l’approvazione della FINMA.
 
-## Sezione 6:**** Rappresentanze
+## Sezione 6: Rappresentanze
 
 [^chap3-1]
 
