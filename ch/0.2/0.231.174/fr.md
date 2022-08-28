@@ -3,11 +3,11 @@ sr: "0.231.174"
 title: Traité de Beijing du 24 juin 2012 sur les interprétations et exécutions audiovisuelles (avec Décl.)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/263"
 language: fr
-version: 2021-06-28
+version: 2022-08-29
 adopted: 2012-06-24
 in_force: 2020-05-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/263/20210628/fr/xml/fedlex-data-admin-ch-eli-cc-2020-263-20210628-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/263/20210628/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/263/20220829/fr/xml/fedlex-data-admin-ch-eli-cc-2020-263-20220829-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/263/20220829/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 11 février 2020
 
 Entré en vigueur pour la Suisse le 11 mai 2020
 
-(Etat le 28 juin 2021)
+(État le 29 août 2022)
 
 [^t-1]: [RO 2020 1359](https://fedlex.data.admin.ch/eli/oc/2020/262)
 
@@ -359,13 +359,10 @@ Déclaration commune concernant l’art. 16
 
 La déclaration commune concernant l’art. 12 (sur les obligations relatives à l’information sur le régime des droits) du WCT est applicable mutatis mutandis à l’art. 16 (sur les obligations relatives à l’information sur le régime des droits) du traité.
 
-## Champ d’application le 28 juin 2021****
-
-[^annexu1-lvlu1-1]
-
 [^t-2]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Annexe 1C
 [^t-3]: [RS 0.231.151](https://fedlex.data.admin.ch/eli/cc/2008/358)
-[^annexu1-lvlu1-1]: [RO 2020 1361](https://fedlex.data.admin.ch/eli/oc/2020/263); [2021 421](https://fedlex.data.admin.ch/eli/oc/2021/421). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: (https://fedlex.admin.ch/fr/Treaty).
+
+Champ d’application le 29 août 2022[^t-4]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -389,11 +386,16 @@ La déclaration commune concernant l’art. 12 (sur les obligations relatives à
 <tr><td>Îles Marshall</td><td>8 février</td><td>2019 A</td><td>28 avril</td><td>2020</td></tr>
 <tr><td>Indonésie</td><td>28 janvier</td><td>2020</td><td>28 avril</td><td>2020</td></tr>
 <tr><td>Japon<sup>\*</sup></td><td>10 juin</td><td>2014 A</td><td>28 avril</td><td>2020</td></tr>
-<tr><td>Kenya</td><td>12 septembre</td><td>2019</td><td>28 avril</td><td>2020</td></tr>
+<tr><td>Kenya</td><td>15 novembre</td><td>2019</td><td>28 avril</td><td>2020</td></tr>
 <tr><td>Kiribati</td><td>22 mars</td><td>2021 A</td><td>22 juin</td><td>2021</td></tr>
+<tr><td>Liechtenstein</td><td>22 septembre</td><td>2021 A</td><td>22 décembre</td><td>2021</td></tr>
 <tr><td>Mali</td><td>23 octobre</td><td>2018</td><td>28 avril</td><td>2020</td></tr>
+<tr><td>Maroc</td><td>22 avril</td><td>2022</td><td>22 juillet</td><td>2022</td></tr>
+<tr><td>Mexique\*</td><td>7 juillet</td><td>2022</td><td>7 octobre</td><td>2022</td></tr>
 <tr><td>Moldova</td><td>4 septembre</td><td>2015</td><td>28 avril</td><td>2020</td></tr>
 <tr><td>Nigéria</td><td>4 octobre</td><td>2017 A</td><td>28 avril</td><td>2020</td></tr>
+<tr><td>Ouganda</td><td>28 janvier</td><td>2022</td><td>28 avril</td><td>2022</td></tr>
+<tr><td>Panama</td><td>23 mars</td><td>2022 A</td><td>23 juin</td><td>2022</td></tr>
 <tr><td>Pérou<sup>\*</sup></td><td>27 septembre</td><td>2018</td><td>28 avril</td><td>2020</td></tr>
 <tr><td>Philippines</td><td>28 avril</td><td>2021 A</td><td>28 juillet</td><td>2021</td></tr>
 <tr><td>Qatar</td><td>3 juillet</td><td>2015</td><td>28 avril</td><td>2020</td></tr>
@@ -411,13 +413,15 @@ La déclaration commune concernant l’art. 12 (sur les obligations relatives à
 <tr><td>Tunisie</td><td>21 juillet</td><td>2016</td><td>28 avril</td><td>2020</td></tr>
 <tr><td>Vanuatu</td><td>6 mai</td><td>2020 A</td><td>6 août</td><td>2020</td></tr>
 <tr><td>Zimbabwe</td><td>12 septembre</td><td>2019</td><td>28 avril</td><td>2020</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation mondiale de la propriété intellectuelle: www.wipo.int/ &gt; Français &gt; Savoirs &gt; Traités administrés par l’OMPI, ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td colspan="5"><sup>\*</sup> Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation mondiale de la propriété intellectuelle (OMPI): www.wipo.int/ &gt; Français &gt; Savoirs &gt; Traités administrés par l’OMPI, ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-## Déclaration
+[^t-4]: [RO 2020 1361](https://fedlex.data.admin.ch/eli/oc/2020/263); [2021 421](https://fedlex.data.admin.ch/eli/oc/2021/421); [2022 476](https://fedlex.data.admin.ch/eli/oc/2022/476). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: www.fedlex.admin.ch/fr/treaty.
 
-### Suisse
+Déclaration
 
-Conformément à l’art. 11.2) et 3), la Suisse accorde, en lieu et place du droit exclusif d'autorisation visé à l'art. 11, al. 1, et conformément à l'art. 35 de la loi suisse du 9 octobre 1992 sur le droit d'auteur[^annexu1-lvlu2-lvlu1-1], un droit à rémunération soumis à la gestion collective et au principe de réciprocité pour la diffusion, la retransmission ou la réception publique d'une fixation audio-visuelle lorsque celle-ci est faite à partir d'une fixation audiovisuelle disponible sur le marché.
+## Suisse
 
-[^annexu1-lvlu2-lvlu1-1]: [RS 231.1](https://fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798)
+Conformément à l’art. 11.2) et 3), la Suisse accorde, en lieu et place du droit exclusif d'autorisation visé à l'art. 11, al. 1, et conformément à l'art. 35 de la loi suisse du 9 octobre 1992 sur le droit d'auteur[^declu2-lvlu1-1], un droit à rémunération soumis à la gestion collective et au principe de réciprocité pour la diffusion, la retransmission ou la réception publique d'une fixation audio-visuelle lorsque celle-ci est faite à partir d'une fixation audiovisuelle disponible sur le marché.
+
+[^declu2-lvlu1-1]: [RS 231.1](https://fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798)

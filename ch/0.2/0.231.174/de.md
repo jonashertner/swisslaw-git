@@ -3,11 +3,11 @@ sr: "0.231.174"
 title: Vertrag von Peking vom 24. Juni 2012 über den Schutz von audiovisuellen Darbietungen (mit Erkl.)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/263"
 language: de
-version: 2021-06-28
+version: 2022-08-29
 adopted: 2012-06-24
 in_force: 2020-05-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/263/20210628/de/xml/fedlex-data-admin-ch-eli-cc-2020-263-20210628-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/263/20210628/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/263/20220829/de/xml/fedlex-data-admin-ch-eli-cc-2020-263-20220829-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/263/20220829/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 11. Februar 2020
 
 In Kraft getreten für die Schweiz am 11. Mai 2020
 
-(Stand am 28. Juni 2021)
+(Stand am 29. August 2022)
 
 [^t-1]: [AS 2020 1359](https://fedlex.data.admin.ch/eli/oc/2020/262)
 
@@ -357,12 +357,12 @@ Der Ausdruck «technische Vorkehrungen von denen ausübende Künstler Gebrauch m
 
 Zu Art. 16
 
-Die vereinbarte Erklärung zu Artikel 12 (Pflichten in Bezug auf Informationen für die Wahrnehmung der Rechte) des WIPO-Urheberrechtsvertrags (WCT) gilt *mut**a**tis mutandis* auch für Artikel 16 (Pflichten in Bezug auf Informationen für die Wahrnehmung der Rechte) dieses Vertrags.
+Die vereinbarte Erklärung zu Artikel 12 (Pflichten in Bezug auf Informationen für die Wahrnehmung der Rechte) des WIPO-Urheberrechtsvertrags (WCT) gilt *mutatis mutandis* auch für Artikel 16 (Pflichten in Bezug auf Informationen für die Wahrnehmung der Rechte) dieses Vertrags.
 
 [^t-2]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)Anhang 1C
 [^t-3]: [SR 0.231.151](https://fedlex.data.admin.ch/eli/cc/2008/358)
 
-Geltungsbereich am 28. Juni 2021**[^t-4]**
+Geltungsbereich am 29. August 2022[^t-4]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -383,15 +383,19 @@ Geltungsbereich am 28. Juni 2021**[^t-4]**
 <tr><td>Japan\*</td><td>10. Juni</td><td>2014 B</td><td>28. April</td><td>2020</td></tr>
 <tr><td>Kambodscha</td><td>27. März</td><td>2019 B</td><td>28. April</td><td>2020</td></tr>
 <tr><td>Katar</td><td>3. Juli</td><td>2015</td><td>28. April</td><td>2020</td></tr>
-<tr><td>Kenia</td><td>12. September</td><td>2019</td><td>28. April</td><td>2020</td></tr>
+<tr><td>Kenia</td><td>15. November</td><td>2019</td><td>28. April</td><td>2020</td></tr>
 <tr><td>Kiribati</td><td>22. März</td><td>2021 B</td><td>22. Juni</td><td>2021</td></tr>
 <tr><td>Komoren</td><td>25. Januar</td><td>2021 B</td><td>25. April</td><td>2021</td></tr>
 <tr><td>Korea (Nord-)</td><td>22. April</td><td>2020 B</td><td>22. Juli</td><td>2020</td></tr>
 <tr><td>Korea (Süd-)</td><td>19. Februar</td><td>2016</td><td>28. April</td><td>2020</td></tr>
+<tr><td>Liechtenstein</td><td>22. September</td><td>2021 B</td><td>22. Dezember</td><td>2021</td></tr>
 <tr><td>Mali</td><td>23. Oktober</td><td>2018</td><td>28. April</td><td>2020</td></tr>
+<tr><td>Marokko</td><td>22. April</td><td>2022</td><td>22. Juli</td><td>2022</td></tr>
 <tr><td>Marshallinseln</td><td>8. Februar</td><td>2019 B</td><td>28. April</td><td>2020</td></tr>
+<tr><td>Mexiko\*</td><td>7. Juli</td><td>2022</td><td>7. Oktober</td><td>2022</td></tr>
 <tr><td>Moldau</td><td>4. September</td><td>2015</td><td>28. April</td><td>2020</td></tr>
 <tr><td>Nigeria</td><td>4. Oktober</td><td>2017 B</td><td>28. April</td><td>2020</td></tr>
+<tr><td>Panama</td><td>23. März</td><td>2022 B</td><td>23. Juni</td><td>2022</td></tr>
 <tr><td>Peru\*</td><td>27. September</td><td>2018</td><td>28. April</td><td>2020</td></tr>
 <tr><td>Philippinen</td><td>28. April</td><td>2021 B</td><td>28. Juli</td><td>2021</td></tr>
 <tr><td>Russland</td><td>19. Oktober</td><td>2015 B</td><td>28. April</td><td>2020</td></tr>
@@ -405,15 +409,16 @@ Geltungsbereich am 28. Juni 2021**[^t-4]**
 <tr><td>Togo</td><td>20. Januar</td><td>2021</td><td>20. April</td><td>2021</td></tr>
 <tr><td>Trinidad und Tobago</td><td>4. Oktober</td><td>2019 B</td><td>28. April</td><td>2020</td></tr>
 <tr><td>Tunesien</td><td>21. Juli</td><td>2016</td><td>28. April</td><td>2020</td></tr>
+<tr><td>Uganda</td><td>28. Januar</td><td>2022</td><td>28. April</td><td>2022</td></tr>
 <tr><td>Vanuatu</td><td>6. Mai</td><td>2020 B</td><td>6. August</td><td>2020</td></tr>
 <tr><td>Vereinigte Arabische Emirate</td><td>15. Oktober</td><td>2014 B</td><td>28. April</td><td>2020</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>19. August</td><td>2020</td><td>19. November</td><td>2020</td></tr>
 </table>
 
 - \* Vorbehalte und Erklärungen.
-- Die Vorbehalte und Erklärungen, mit Ausnahme diejenigen der Schweiz, werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Weltorganisation für geistiges Eigentum: www.wipo.int/ &gt; Français &gt; Savoirs &gt; Traités administrés par l’OMPI eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden.
+- Die Vorbehalte und Erklärungen, mit Ausnahme jener der Schweiz, werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Weltorganisation für geistiges Eigentum: www.wipo.int/ &gt; Français &gt; Savoirs &gt; Traités administrés par l’OMPI eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.
 
-[^t-4]: [AS 2020 1361](https://fedlex.data.admin.ch/eli/oc/2020/263); [2021 421](https://fedlex.data.admin.ch/eli/oc/2021/421). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht (https://fedlex.admin.ch/de/treaty).
+[^t-4]: [AS 2020 1361](https://fedlex.data.admin.ch/eli/oc/2020/263); [2021 421](https://fedlex.data.admin.ch/eli/oc/2021/421); [2022 476](https://fedlex.data.admin.ch/eli/oc/2022/476). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht www.fedlex.admin.ch/de/treaty.
 
 Erklärung
 

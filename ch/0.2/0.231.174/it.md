@@ -3,11 +3,11 @@ sr: "0.231.174"
 title: Trattato di Pechino del 24 giugno 2012 sulle interpretazioni ed esecuzioni audiovisive (con Dichiarazione)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/263"
 language: it
-version: 2021-06-28
+version: 2022-08-29
 adopted: 2012-06-24
 in_force: 2020-05-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/263/20210628/it/xml/fedlex-data-admin-ch-eli-cc-2020-263-20210628-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/263/20210628/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/263/20220829/it/xml/fedlex-data-admin-ch-eli-cc-2020-263-20220829-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/263/20220829/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
