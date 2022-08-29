@@ -3,11 +3,11 @@ sr: "0.232.145.1"
 title: Budapester Vertrag vom 28. April 1977 über die internationale Anerkennung der Hinterlegung von Mikroorganismen für die Zwecke von Patentverfahren
 eli: "https://fedlex.data.admin.ch/eli/cc/1981/1262_1262_1262"
 language: de
-version: 2021-10-06
+version: 2022-08-30
 adopted: 1977-04-28
 in_force: 1981-08-19
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1981/1262_1262_1262/20211006/de/xml/fedlex-data-admin-ch-eli-cc-1981-1262_1262_1262-20211006-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1981/1262_1262_1262/20211006/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1981/1262_1262_1262/20220830/de/xml/fedlex-data-admin-ch-eli-cc-1981-1262_1262_1262-20220830-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1981/1262_1262_1262/20220830/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,11 +16,11 @@ url: "https://www.fedlex.admin.ch/eli/cc/1981/1262_1262_1262/20211006/de"
 
 AS **1981** 1262; BBl **1980** III 321
 
-Amtlicher deutscher Text*[^t-1]*
+Amtlicher deutscher Text[^t-1]
 
 Abgeschlossen in Budapest am 28. April 1977 Von der Bundesversammlung genehmigt am 10. März 1981[^t-2] Schweizerische Ratifikationsurkunde hinterlegt am 19. Mai 1981 In Kraft getreten für die Schweiz am 19. August 1981
 
-(Stand am 6. Oktober 2021)
+(Stand am 30. August 2022)
 
 [^t-1]: Amtliche deutsche Übersetzung nach Art. 18 Abs. 1 Bst. c
 [^t-2]: [AS 1981 1262](https://fedlex.data.admin.ch/eli/oc/1981/1262_1262_1262)
@@ -331,7 +331,7 @@ Der Generaldirektor notifiziert den Vertragsstaaten, den zwischenstaatlichen Org
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten diesen Vertrag unterschrieben. Geschehen zu Budapest am achtundzwanzigsten April neunzehnhundertsiebenundsiebzig. (Es folgen die Unterschriften)
 
-Geltungsbereich am 6. Oktober 2021**[^t-3]**
+Geltungsbereich am 30. August 2022[^t-3]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -361,9 +361,10 @@ Geltungsbereich am 6. Oktober 2021**[^t-3]**
 <tr><td>Frankreich</td><td>21. Februar</td><td>1980</td><td>19. August</td><td>1980</td></tr>
 <tr><td>Georgien</td><td>30. Mai</td><td>2005 B</td><td>30. September</td><td>2005</td></tr>
 <tr><td>Griechenland</td><td>30. Juli</td><td>1993 B</td><td>30. Oktober</td><td>1993</td></tr>
-<tr><td>Guatemala</td><td>14. Juni</td><td>2006 B</td><td>14. Oktober</td><td>2006</td></tr>
+<tr><td>Guatemala</td><td>14. Juli</td><td>2006 B</td><td>14. Oktober</td><td>2006</td></tr>
 <tr><td>Honduras</td><td>20. März</td><td>2006 B</td><td>20. Juni</td><td>2006</td></tr>
 <tr><td>Indien</td><td>17. September</td><td>2001 B</td><td>17. Dezember</td><td>2001</td></tr>
+<tr><td>Indonesien</td><td>13. Juli</td><td>2022 B</td><td>13. Oktober</td><td>2022</td></tr>
 <tr><td>Irland</td><td>15. September</td><td>1999 B</td><td>15. Dezember</td><td>1999</td></tr>
 <tr><td>Island</td><td>23. Dezember</td><td>1994 B</td><td>23. März</td><td>1995</td></tr>
 <tr><td>Israel</td><td>26. Januar</td><td>1996 B</td><td>26. April</td><td>1996</td></tr>
@@ -383,6 +384,7 @@ Geltungsbereich am 6. Oktober 2021**[^t-3]**
 <tr><td>Liechtenstein</td><td>19. Mai</td><td>1981 B</td><td>19. August</td><td>1981</td></tr>
 <tr><td>Litauen</td><td>9. Februar</td><td>1998 B</td><td>9. Mai</td><td>1998</td></tr>
 <tr><td>Luxemburg</td><td>29. April</td><td>2010</td><td>29. Juli</td><td>2010</td></tr>
+<tr><td>Malaysia</td><td>31. März</td><td>2022 B</td><td>30. Juni</td><td>2022</td></tr>
 <tr><td>Marokko</td><td>20. April</td><td>2011 B</td><td>20. Juli</td><td>2011</td></tr>
 <tr><td>Mexiko</td><td>21. Dezember</td><td>2000 B</td><td>21. März</td><td>2001</td></tr>
 <tr><td>Moldau</td><td>14. Februar</td><td>1994 N</td><td>25. Dezember</td><td>1991</td></tr>
@@ -397,7 +399,7 @@ Geltungsbereich am 6. Oktober 2021**[^t-3]**
 <tr><td>Sint Maarten</td><td>2. April</td><td>1987</td><td>2. Juli</td><td>1987</td></tr>
 <tr><td>Nordmazedonien</td><td>30. Mai</td><td>2002 B</td><td>30. August</td><td>2002</td></tr>
 <tr><td>Norwegen</td><td>1. Oktober</td><td>1985</td><td>1. Januar</td><td>1986</td></tr>
-<tr><td>Oman</td><td>16. Juni</td><td>2007 B</td><td>16. Oktober</td><td>2007</td></tr>
+<tr><td>Oman</td><td>16. Juli</td><td>2007 B</td><td>16. Oktober</td><td>2007</td></tr>
 <tr><td>Österreich</td><td>26. Januar</td><td>1984</td><td>26. April</td><td>1984</td></tr>
 <tr><td>Panama</td><td>7. Juni</td><td>2012 B</td><td>7. September</td><td>2012</td></tr>
 <tr><td>Peru</td><td>20. Oktober</td><td>2008 B</td><td>20. Januar</td><td>2009</td></tr>
@@ -426,11 +428,11 @@ Geltungsbereich am 6. Oktober 2021**[^t-3]**
 <tr><td>Vereinigte Arabische Emirate</td><td>17. Februar</td><td>2021 B</td><td>17. Mai</td><td>2021</td></tr>
 <tr><td>Vereinigte Staaten</td><td>24. September</td><td>1979</td><td>19. August</td><td>1980</td></tr>
 <tr><td>Vereinigtes Königreich</td><td>29. September</td><td>1980</td><td>29. Dezember</td><td>1980</td></tr>
-<tr><td>Gibraltar</td><td>1. Oktober</td><td>2020</td><td>1. Januar</td><td>2021</td></tr>
-<tr><td>Guernsey</td><td>1. Oktober</td><td>2020</td><td>1. Januar</td><td>2021</td></tr>
-<tr><td>Insel Man</td><td>1. Oktober</td><td>2020</td><td>1. Januar</td><td>2021</td></tr>
+<tr><td>Gibraltar</td><td>1. Januar</td><td>2021</td><td>1. Januar</td><td>2021</td></tr>
+<tr><td>Guernsey</td><td>1. Januar</td><td>2021</td><td>1. Januar</td><td>2021</td></tr>
+<tr><td>Insel Man</td><td>1. Januar</td><td>2021</td><td>1. Januar</td><td>2021</td></tr>
 <tr><td>Vietnam</td><td>1. März</td><td>2021 B</td><td>1. Juni</td><td>2021</td></tr>
 <tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Weltorganisation für geistiges Eigentum: www.wipo.int/ &gt; Français &gt; Savoirs &gt; Traités administrés par l’OMPI eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden.</td></tr>
 </table>
 
-[^t-3]: [AS 1981 1262](https://fedlex.data.admin.ch/eli/oc/1981/1262_1262_1262); [1984 221](https://fedlex.data.admin.ch/eli/oc/1984/221_221_221), [609](https://fedlex.data.admin.ch/eli/oc/1984/609_609_609); [1985 1470](https://fedlex.data.admin.ch/eli/oc/1985/1470_1470_1470); [1987 818](https://fedlex.data.admin.ch/eli/oc/1987/818_818_818), [1990 912](https://fedlex.data.admin.ch/eli/oc/1990/912_912_912), [1604](https://fedlex.data.admin.ch/eli/oc/1990/1604_1604_1604); [2003 3785](https://fedlex.data.admin.ch/eli/oc/2003/544); [2005 4951](https://fedlex.data.admin.ch/eli/oc/2005/674); [2007 1337](https://fedlex.data.admin.ch/eli/oc/2007/220); [2009 601](https://fedlex.data.admin.ch/eli/oc/2009/105); [2011 3547](https://fedlex.data.admin.ch/eli/oc/2011/482); [2014 939](https://fedlex.data.admin.ch/eli/oc/2014/206); [2019 2191](https://fedlex.data.admin.ch/eli/oc/2019/407); [2021 610](https://fedlex.data.admin.ch/eli/oc/2021/610). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht (www.fedlex.admin.ch/de/reaty).
+[^t-3]: [AS 1981 1262](https://fedlex.data.admin.ch/eli/oc/1981/1262_1262_1262); [1984 221](https://fedlex.data.admin.ch/eli/oc/1984/221_221_221), [609](https://fedlex.data.admin.ch/eli/oc/1984/609_609_609); [1985 1470](https://fedlex.data.admin.ch/eli/oc/1985/1470_1470_1470); [1987 818](https://fedlex.data.admin.ch/eli/oc/1987/818_818_818); [1990 912](https://fedlex.data.admin.ch/eli/oc/1990/912_912_912), [1604](https://fedlex.data.admin.ch/eli/oc/1990/1604_1604_1604); [2003 3785](https://fedlex.data.admin.ch/eli/oc/2003/544); [2005 4951](https://fedlex.data.admin.ch/eli/oc/2005/674); [2007 1337](https://fedlex.data.admin.ch/eli/oc/2007/220); [2009 601](https://fedlex.data.admin.ch/eli/oc/2009/105); [2011 3547](https://fedlex.data.admin.ch/eli/oc/2011/482); [2014 939](https://fedlex.data.admin.ch/eli/oc/2014/206); [2019 2191](https://fedlex.data.admin.ch/eli/oc/2019/407); [2021 610](https://fedlex.data.admin.ch/eli/oc/2021/610); [2022 482](https://fedlex.data.admin.ch/eli/oc/2022/482). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht www.fedlex.admin.ch/de/treaty.
