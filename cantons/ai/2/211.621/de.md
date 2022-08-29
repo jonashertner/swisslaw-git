@@ -4,13 +4,13 @@ number: "211.621"
 title: Standeskommissionsbeschluss über den Zugriff auf Grundbuchdaten
 short: StKB Grundbuchdaten
 language: de
-version: 2022-01-01
-valid_until: 2022-08-29
-version_adopted: 2021-12-21
+version: 2022-08-30
+valid_until: 2024-05-31
+version_adopted: 2022-08-30
 adopted: 2021-12-21
 in_force: 2022-01-01
 url: "https://ai.clex.ch/app/de/texts_of_law/211.621"
-pdf: "https://ai.clex.ch/api/de/versions/1980/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2091/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://ai.clex.ch/api/de/versions/1980/pdf_file"
 
 (StKB Grundbuchdaten)
 
-vom 21.12.2021 (Stand 01.01.2022)
+vom 21.12.2021 (Stand 30.08.2022)
 
 Die Standeskommission des Kantons Appenzell I.Rh.,
 
@@ -70,6 +70,7 @@ beschliesst:
 
 - a) Amt für Umwelt
 - b) Amt für Wirtschaft
+- c) Landesbauamt
 
 #### Art. 5
 
