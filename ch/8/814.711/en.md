@@ -4,11 +4,11 @@ title: Ordinance of 27 February 2019 to the Federal Act on Protection against th
 short: O-NIRSA
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/183"
 language: en
-version: 2022-01-01
+version: 2022-08-31
 adopted: 2019-02-27
 in_force: 2019-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/183/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2019-183-20220101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/183/20220101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/183/20220831/en/xml/fedlex-data-admin-ch-eli-cc-2019-183-20220831-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/183/20220831/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (O-NIRSA)
 
-of 27 February 2019 (Status as of 1 January 2022)
+of 27 February 2019 (Status as of 31 August 2022)
 
 The Swiss Federal Council,
 
@@ -80,7 +80,7 @@ For the operation of solariums of UV types 1, 2 and 4, solarium operators must d
 - a. SN EN 16489–1:2014, «Professional indoor UV exposure services – Part 1: Requirements for the provision of training»;
 - b. SN EN 16489–2:2015, «Professional indoor UV exposure services – Part 2: Required qualification and competence of the indoor UV exposure consultant».
 
-[^4-1]: This standard can be consulted free of charge and purchased from the Swiss Association for Standardization, Sulzerallee 70, 8404 Winterthur, [www.snv.ch](http://www.snv.ch).
+[^4-1]: This standard can be consulted free of charge and purchased from the Swiss Association for Standardization, Sulzerallee 70, 8404 Winterthur, www.snv.ch
 
 ## Section 2 Use of Products for Cosmetic Purposes
 
@@ -156,7 +156,7 @@ For the purposes of this Section:
 
 Laser devices are assigned to Classes 1, 1M, 2, 2M, 3R, 3B and 4 in accordance with SN EN 60825–1:2014[^11-1], «Safety of laser products – Part 1: Equipment classification and requirements».
 
-[^11-1]: This standard can be consulted free of charge and purchased from the Swiss Association for Standardization, Sulzerallee 70, 8404 Winterthur, [www.snv.ch](http://www.snv.ch).
+[^11-1]: This standard can be consulted free of charge and purchased from the Swiss Association for Standardization, Sulzerallee 70, 8404 Winterthur, www.snv.ch
 
 #### Art. 12
 
@@ -314,7 +314,7 @@ The import, transit, offering and supply and the possession of the following are
 
 <sup>3</sup> Class 1 laser pointers may only be used indoors and only for pointing purposes.
 
-[^23-1]: This standard can be consulted free of charge and purchased from the Swiss Association for Standardization, Sulzerallee 70, 8404 Winterthur, [www.snv.ch](http://www.snv.ch).
+[^23-1]: This standard can be consulted free of charge and purchased from the Swiss Association for Standardization, Sulzerallee 70, 8404 Winterthur, www.snv.ch
 
 ## Section 6 Enforcement and Fees Charged by the Federal Authorities
 
@@ -369,7 +369,7 @@ The Federal Office for Customs and Border Security (FOCBS)[^25-1] shall enforce 
 
 <sup>1</sup> The Sound Levels and Laser Ordinance of 28 February 2007[^28-1] is repealed.
 
-<sup>2</sup> ...*[^28-2]*
+<sup>2</sup> ...[^28-2]
 
 [^28-1]: [[AS 2007 1307](https://fedlex.data.admin.ch/eli/oc/2007/210), [2010 4489](https://fedlex.data.admin.ch/eli/oc/2010/635), [2012 793](https://fedlex.data.admin.ch/eli/oc/2012/120)]
 [^28-2]: The amendment may be consulted under [AS 2019 999](https://fedlex.data.admin.ch/eli/oc/2019/183).
@@ -413,7 +413,7 @@ Annex 1
 
 <table>
 <tr><td>Solarium UV type</td><td colspan="2">Effective irradiance W/m<sup>2</sup></td></tr>
-<tr><td></td><td>UVB radiation component 250 nm &lt; λ ≤ 320 nm</td><td>UVA radiation component 320 nm &lt; λ ≤ 400 nm</td></tr>
+<tr><td></td><td>UVB radiation component250 nm &lt; λ ≤ 320 nm</td><td>UVA radiation component320 nm &lt; λ ≤ 400 nm</td></tr>
 <tr><td>1</td><td>&lt; 0.0005</td><td>≥ 0.15</td></tr>
 <tr><td>2</td><td>0.0005 to 0.15</td><td>≥ 0.15</td></tr>
 <tr><td>3</td><td>&lt; 0.15</td><td>&lt; 0.15</td></tr>
@@ -639,7 +639,7 @@ Annex 3
 - 1\.2.6 The laser radiation must not endanger third parties.
 - 1\.2.7 Compliance with Numbers 1.2.1–1.2.6 and the emergency procedures must be successfully tested before the event.
 
-[^annex3-lvlu1-lvl1-lvl12-1]: This standard can be consulted free of charge and purchased from the Swiss Association for Standardization, Sulzerallee 70, 8404 Winterthur, [www.snv.ch](http://www.snv.ch).
+[^annex3-lvlu1-lvl1-lvl12-1]: This standard can be consulted free of charge and purchased from the Swiss Association for Standardization, Sulzerallee 70, 8404 Winterthur, www.snv.ch
 
 ### 2 Notifications
 
@@ -715,9 +715,11 @@ Training and examinations shall comprise the following modules:
   - a. Laser show programming,
   - b. Calculating MPE.
 
-Annex 4
+Annex 4[^annex3-lvlu1-lvl3-1]
 
 (Art. 20 and 21 para. 1)
+
+[^annex3-lvlu1-lvl3-1]: The correction of 31 Aug. 2022 concerns the French text only ([AS 2022 478](https://fedlex.data.admin.ch/eli/oc/2022/478)).
 
 ## Events involving sound
 
@@ -740,13 +742,13 @@ Any person who organises an event involving electroacoustically amplified sound 
 
 2.2 notices are prominently displayed at the entrance to the event, informing the audience of the risk of hearing impairment associated with high sound levels;
 
-2.3 hearing protectors complying with SN EN 352–2:2002[^annex4-lvlu1-lvl2-1], «Hearing protectors – General requirements – Part 2: Ear-plugs» are available free of charge;
+2.3 hearing protectors complying with SN EN 352–2:2002[^annex3-lvlu2-lvl2-1], «Hearing protectors – General requirements – Part 2: Ear-plugs» are available free of charge;
 
 2.4 the average sound level is monitored during the event with a sound level meter, as specified in Number 5.2;
 
 2.5 the measuring equipment is operated with the settings specified under Number 5.4.
 
-[^annex4-lvlu1-lvl2-1]: This standard can be consulted free of charge and purchased from the Swiss Association for Standardization, Sulzerallee 70, 8404 Winterthur, [www.snv.ch](http://www.snv.ch).
+[^annex3-lvlu2-lvl2-1]: This standard can be consulted free of charge and purchased from the Swiss Association for Standardization, Sulzerallee 70, 8404 Winterthur, www.snv.ch
 
 ### 3 Events with an average sound level greater than 96 dB(A) and less than or equal to 100 dB(A)
 
@@ -771,9 +773,9 @@ Any person who organises an event involving electroacoustically amplified sound 
 
   - a. in which the average sound level must not exceed 85 dB(A),
   - b. which make up at least 10 per cent of the total area provided for the audience at the event,
-  - c. which must be clearly marked and readily accessible to members of the audience throughout the event and, pursuant to the Ordinance of 28 October 2009[^annex4-lvlu1-lvl4-lvl32-1] on Protection against Passive Smoking, include a smoke-free zone of adequate size.
+  - c. which must be clearly marked and readily accessible to members of the audience throughout the event and, pursuant to the Ordinance of 28 October 2009[^annex3-lvlu2-lvl31-lvl32-1] on Protection against Passive Smoking, include a smoke-free zone of adequate size.
 
-[^annex4-lvlu1-lvl4-lvl32-1]: [SR 818.311](https://fedlex.data.admin.ch/eli/cc/2009/767)
+[^annex3-lvlu2-lvl31-lvl32-1]: [SR 818.311](https://fedlex.data.admin.ch/eli/cc/2009/767)
 
 ### 4 Events not involving electroacoustically amplified sound
 
@@ -793,16 +795,16 @@ Any person who organises an event involving sound that is not electroacousticall
 
 5.1.3 If the measurement point is not the same as the determination point, the exposures must be corrected accordingly, taking the following into account:
 
-- a. the difference in sound level between the measurement point and the determination point is calculated by means of a defined wide band signal (pink noise/programme simulation noise in accordance with IEC 60268–1:1985[^annex4-lvlu1-lvl51-1], «Sound system equipment – Part 1: General») or by an equivalent method;
+- a. the difference in sound level between the measurement point and the determination point is calculated by means of a defined wide band signal (pink noise/programme simulation noise in accordance with IEC 60268–1:1985[^annex3-lvlu2-lvl51-1], «Sound system equipment – Part 1: General») or by an equivalent method;
 - b. the determination point and sound level difference, and the method used, is recorded in writing;
 
-[^annex4-lvlu1-lvl51-1]: This standard, available in English and French, can be purchased from Electrosuisse, Luppmenstrasse 1, CH-8320 Fehraltorf, www.electrosuisse.ch, or consulted free of charge at the Federal Office of Public Health, Schwarzenburgstrasse 157, CH-3097 Liebefeld.
+[^annex3-lvlu2-lvl51-1]: This standard, available in English and French, can be purchased from Electrosuisse, Luppmenstrasse 1, CH-8320 Fehraltorf, www.electrosuisse.ch, or consulted free of charge at the Federal Office of Public Health, Schwarzenburgstrasse 157, CH-3097 Liebefeld.
 
 ### c. in the case of measurements not performed at the determination point, the limit applicable for the event is deemed to be complied with if the reading at the measurement point plus the sound level difference is less than or equal to the limit.
 
 ### 5.2 Measuring instruments
 
-- 5\.2.1 For the cantonal enforcement bodies, the requirements for measuring instruments and for the accuracy classes of sound level meters are based on the FDJP Ordinance of 24 September 2010[^annex4-lvlu1-lvlc-lvl52-1] on Instruments for Sound Measurement.
+- 5\.2.1 For the cantonal enforcement bodies, the requirements for measuring instruments and for the accuracy classes of sound level meters are based on the FDJP Ordinance of 24 September 2010[^annex3-lvlu2-lvlc-lvl52-1] on Instruments for Sound Measurement.
 - 5\.2.2
 
   The measuring instruments of the organisers must be capable of:
@@ -811,7 +813,7 @@ Any person who organises an event involving sound that is not electroacousticall
   - b. the direct or indirect determination of the equivalent continuous sound level L<sub>Aeq</sub> and the settings in accordance with Number 5.4;
   - c. for events in accordance with Number 3.2, recording a sound level in accordance with Number 5.3.
 
-[^annex4-lvlu1-lvlc-lvl52-1]: [SR 941.210.1](https://fedlex.data.admin.ch/eli/cc/2010/639)
+[^annex3-lvlu2-lvlc-lvl52-1]: [SR 941.210.1](https://fedlex.data.admin.ch/eli/cc/2010/639)
 
 ### 5.3 Sound level recording
 

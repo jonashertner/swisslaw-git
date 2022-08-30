@@ -4,11 +4,11 @@ title: Ordinanza del 27 febbraio 2019 concernente la legge federale sulla protez
 short: O-LRNIS
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/183"
 language: it
-version: 2022-01-01
+version: 2022-08-31
 adopted: 2019-02-27
 in_force: 2019-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/183/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2019-183-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/183/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/183/20220831/it/xml/fedlex-data-admin-ch-eli-cc-2019-183-20220831-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/183/20220831/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/183/20220101/it"
 
 (O-LRNIS)
 
-del 27 febbraio 2019 (Stato 1° gennaio 2022)
+del 27 febbraio 2019 (Stato 31 agosto 2022)
 
 Il Consiglio federale svizzero,
 
@@ -715,11 +715,13 @@ Le formazioni e gli esami devono includere i seguenti contenuti:
   - a. programmazione di spettacoli laser;
   - b. calcolo dell’EMP.
 
-Allegato 4
+Allegato 4[^t-1]
 
 (art. 20 e 21 cpv. 1)
 
 ## Manifestazioni con stimoli sonori
+
+[^t-1]: La correzione del 31 ago. 2022 concerne soltanto il testo francese ([RU 2022 478](https://fedlex.data.admin.ch/eli/oc/2022/478)).
 
 ### 1 Notifiche
 

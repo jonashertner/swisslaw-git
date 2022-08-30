@@ -4,11 +4,11 @@ title: Verordnung vom 27. Februar 2019 zum Bundesgesetz über den Schutz vor Gef
 short: V-NISSG
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/183"
 language: de
-version: 2022-01-01
+version: 2022-08-31
 adopted: 2019-02-27
 in_force: 2019-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/183/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2019-183-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/183/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/183/20220831/de/xml/fedlex-data-admin-ch-eli-cc-2019-183-20220831-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/183/20220831/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/183/20220101/de"
 
 (V-NISSG)
 
-vom 27. Februar 2019 (Stand am 1. Januar 2022)
+vom 27. Februar 2019 (Stand am 31. August 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -715,11 +715,13 @@ Die Ausbildungen und Prüfungen müssen die folgenden Inhalte umfassen:
   - a. Lasershow programmieren,
   - b. MZB berechnen.
 
-Anhang 4
+Anhang 4[^t-1]
 
 (Art. 20 und 21 Abs. 1)
 
 ## Veranstaltungen mit Schall
+
+[^t-1]: Die Berichtigung vom 31. Aug. 2022 betrifft nur den französischen Text ([AS 2022 478](https://fedlex.data.admin.ch/eli/oc/2022/478)).
 
 ### 1 Meldungen
 

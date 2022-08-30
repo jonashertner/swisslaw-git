@@ -4,11 +4,11 @@ title: Ordonnance du 27 février 2019 relative à la loi fédérale sur la prote
 short: O-LRNIS
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/183"
 language: fr
-version: 2022-01-01
+version: 2022-08-31
 adopted: 2019-02-27
 in_force: 2019-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/183/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2019-183-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/183/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/183/20220831/fr/xml/fedlex-data-admin-ch-eli-cc-2019-183-20220831-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/183/20220831/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/183/20220101/fr"
 
 (O-LRNIS)
 
-du 27 février 2019 (Etat le 1<sup>er</sup> janvier 2022)
+du 27 février 2019 (Etat le 31 août 2022)
 
 Le Conseil fédéral suisse,
 
@@ -715,11 +715,13 @@ Les formations et les examens doivent comporter les contenus suivants:
   - a. programmation de spectacles laser,
   - b. calcul de l’IMRA.
 
-Annexe 4
+Annexe 4[^t-1]
 
 (art. 20 et 21, al. 1)
 
 ## Manifestations avec émissions sonores
+
+[^t-1]: Erratum du 31 août 2022 ([RO 2022 478](https://fedlex.data.admin.ch/eli/oc/2022/478)).
 
 ### 1 Annonces
 
@@ -791,7 +793,7 @@ Quiconque organise des manifestations avec des sons qui ne sont pas amplifiés p
 
   - a. que la différence de niveau sonore entre le lieu de mesure et le lieu de détermination est calculée à l’aide d’un signal défini à bande large (bruit rose/simulation de bruit à l’aide d’un programme selon la norme IEC‑60268-1:1985[^annex4-lvlu1-lvl5-lvl51-1], «Équipements pour systèmes électroacoustiques – Partie 1: Généralités») ou d’une autre méthode de calcul équivalente;
   - b. que le lieu de détermination et la différence de niveau sonore, de même que la méthode, doivent être fixés par écrit;
-  - c. que la valeur limite applicable à la manifestation est réputée respectée lors des mesures au lieu de détermination si la valeur de mesure au lieu de mesure majorée de la différence de niveau sonore est inférieure ou égale à la valeur limite.
+  - c. que la valeur limite applicable à la manifestation est réputée respectée si la valeur de mesure au lieu de mesure majorée de la différence de niveau sonore est inférieure ou égale à la valeur limite.
 
 [^annex4-lvlu1-lvl5-lvl51-1]: Cette norme n’est disponible qu’en français et en anglais et peut être obtenue contre paiement auprès d’electrosuisse, Luppmenstrasse 1, 8320 Fehraltorf, www.electrosuisse.ch, ou consultée gratuitement à l’Office fédéral de la santé publique, Schwarzenburgstrasse 157, 3097 Liebefeld.
 
