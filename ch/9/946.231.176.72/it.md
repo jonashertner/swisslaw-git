@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordinanza del 4 marzo 2022 che istituisce provvedimenti in relazione alla situazione in Ucraina
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: it
-version: 2022-08-17
+version: 2022-08-31
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20220817/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20220817-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20220817/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20220831/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20220831-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20220831/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti in relazione alla situazione in Ucraina
 
-del 4 marzo 2022 (Stato 17 agosto 2022) (Stato 17 agosto 2022)
+del 4 marzo 2022 (Stato 31 agosto 2022)
 
 Il Consiglio federale svizzero,
 
@@ -170,8 +170,8 @@ I divieti e gli obblighi di autorizzazione secondo gli articoli 4 e 5 non si app
 - b. a scopi medici o farmaceutici;
 - c. all’esportazione temporanea di oggetti per un uso da parte dei media;
 - d. ad aggiornamenti di software;
-- e. a essere usati come dispositivi di comunicazione di uso quotidiano;
-- f. a garantire la sicurezza informatica e la sicurezza delle informazioni per le persone fisiche e giuridiche, le organizzazioni e gli organismi della Federazione Russa, ad eccezione del suo governo e delle società da esso direttamente o indirettamente controllate; o
+- e.[^6-2] a essere usati come dispositivi di comunicazione di uso quotidiano; o
+- f.[^6-3] ...
 - g.
 
   a uso personale da parte di persone fisiche che si recano nella Federazione Russa o dei loro familiari che li accompagnano, a condizione che siano appartenenti a tali persone e non siano destinati alla vendita, e limitatamente agli oggetti seguenti:
@@ -182,15 +182,16 @@ I divieti e gli obblighi di autorizzazione secondo gli articoli 4 e 5 non si app
 
 <sup>2</sup>
 
-La SECO può autorizzare deroghe ai divieti di cui agli articoli 4 capoversi 1 e 2 lettera a e 5 capoversi 1 e 2 lettera a per beni e servizi destinati ai seguenti fini civili o destinatari finali civili:[^6-2]
+La SECO può autorizzare deroghe ai divieti di cui agli articoli 4 capoversi 1 e 2 lettera a e 5 capoversi 1 e 2 lettera a per beni e servizi destinati ai seguenti fini civili o destinatari finali civili:[^6-4]
 
 - a. alla cooperazione tra la Svizzera e la Federazione Russa in ambiti puramente civili;
 - b. alla cooperazione intergovernativa nei programmi spaziali;
 - c. alla gestione, alla manutenzione, al ritrattamento del combustibile e alla sicurezza delle capacità nucleari a uso civile, nonché alla cooperazione nucleare per fini civili, in particolare nel campo della ricerca e dello sviluppo;
 - d. alla sicurezza marittima;
-- e.[^6-3] alle reti di comunicazione elettronica civile e servizi internet non accessibili al pubblico che non sono di proprietà di un’organizzazione sotto controllo pubblico o di proprietà pubblica per oltre il 50 per cento;
-- f. all’uso da parte di organizzazioni che siano di proprietà o sotto il controllo, esclusivo o congiunto, di una persona giuridica, un’organizzazione o un organismo costituiti o registrati secondo il diritto svizzero o il diritto di un Paese partner; oppure
-- g. alle rappresentanze diplomatiche della Svizzera o dei suoi Paesi partner.
+- e.[^6-5] alle reti di comunicazione elettronica civile e servizi internet non accessibili al pubblico che non sono di proprietà di un’organizzazione sotto controllo pubblico o di proprietà pubblica per oltre il 50 per cento;
+- f.[^6-6] all’uso da parte di organizzazioni che siano di proprietà o sotto il controllo, esclusivo o congiunto, di una persona giuridica, un’organizzazione o un organismo costituiti o registrati secondo il diritto svizzero o il diritto di un Paese partner;
+- g.[^6-7] alle rappresentanze diplomatiche della Svizzera o dei suoi Paesi partner; oppure
+- h.[^6-8] alla garanzia della cibersicurezza e della sicurezza dell’informazione delle persone fisiche e giuridiche, delle organizzazioni e degli organismi nella Federazione Russa, fatta eccezione per il suo governo e le imprese direttamente o indirettamente controllate da tale governo.
 
 <sup>3</sup>
 
@@ -198,16 +199,21 @@ La SECO nega l’autorizzazione di deroghe secondo il capoverso 2 se vi è motiv
 
 - a. a un utilizzatore finale militare, una persona fisica, un’impresa o un’organizzazione di cui all’allegato 2;
 - b. all’aviazione o all’industria spaziale;
-- c. a un’attività destinata al settore energetico, salvo se è consentita conformemente all’articolo 11 capoversi 3–5.[^6-4]
+- c. a un’attività destinata al settore energetico, salvo se è consentita conformemente all’articolo 11 capoversi 3–5.[^6-9]
 
-<sup>4</sup> L’obbligo di autorizzazione per i beni utilizzabili a fini civili e militari di cui all’articolo 3 OBDI[^6-5] si applica anche in caso di deroghe secondo i capoversi 1 e 2.[^6-6]
+<sup>4</sup> L’obbligo di autorizzazione per i beni utilizzabili a fini civili e militari di cui all’articolo 3 OBDI[^6-10] si applica anche in caso di deroghe secondo i capoversi 1 e 2.[^6-11]
 
 [^6-1]: In vigore fino al 28 feb. 2026 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
-[^6-2]: Nuovo testo giusta il n. I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
-[^6-3]: Nuovo testo giusta il n. I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^6-2]: Nuovo testo giusta il n. I dell’O del 31 ago. 2022, in vigore dal 31 ago. 2022 alle ore 18.00 ([RU 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
+[^6-3]: Abrogata dal n. I dell’O del 31 ago. 2022, con effetto dal 31 ago. 2022 alle ore 18.00 ([RU 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
 [^6-4]: Nuovo testo giusta il n. I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
-[^6-5]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
-[^6-6]: Introdotto dal n. I dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^6-5]: Nuovo testo giusta il n. I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^6-6]: Nuovo testo giusta il n. I dell’O del 31 ago. 2022, in vigore dal 31 ago. 2022 alle ore 18.00 ([RU 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
+[^6-7]: Nuovo testo giusta il n. I dell’O del 31 ago. 2022, in vigore dal 31 ago. 2022 alle ore 18.00 ([RU 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
+[^6-8]: Introdotta dal n. I dell’O del 31 ago. 2022, in vigore dal 31 ago. 2022 alle ore 18.00 ([RU 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
+[^6-9]: Nuovo testo giusta il n. I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^6-10]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
+[^6-11]: Introdotto dal n. I dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
 
 #### Art. 7
 
@@ -244,7 +250,10 @@ La SECO può autorizzare deroghe ai divieti di cui ai capoversi 1, 4 e 5 per l�
 - a. è necessario per garantire il pagamento dei canoni del leasing a una persona giuridica, un’impresa o un’organizzazione registrate o costituite a norma del diritto svizzero o di uno Stato membro dello Spazio economico europeo (SEE) cui non si applica nessuna delle misure restrittive di cui al presente regolamento; e
 - b. nessuna risorsa economica verrà messa a disposizione della controparte russa, a eccezione del trasferimento di proprietà dell’aeromobile dopo il rimborso integrale del leasing finanziario.[^9-1]
 
+<sup>7</sup> Il divieto di cui al capoverso 4 non si applica allo scambio di informazioni volto alla definizione di norme tecniche in sede di Organizzazione dell’aviazione civile internazionale.[^9-2]
+
 [^9-1]: Introdotto dal n. I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^9-2]: Introdotto dal n. I dell’O del 31 ago. 2022, in vigore dal 31 ago. 2022 alle ore 18.00 ([RU 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
 
 #### Art. 9a
 
@@ -352,9 +361,16 @@ D’intesa con i servizi competenti del DFAE e, nel caso di servizi finanziari o
 
 <sup>3</sup> I divieti di cui ai capoversi 1 e 2 non si applicano ai beni e ai servizi necessari a garantire l’esercizio delle funzioni delle rappresentanze diplomatiche o consolari della Svizzera o dei suoi partner nella Federazione Russa oppure di organizzazioni internazionali.
 
-<sup>4</sup> D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare deroghe per scopi umanitari ai divieti di cui ai capoversi 1 e 2.
+<sup>4</sup>
+
+D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare deroghe ai divieti di cui ai capoversi 1 e 2 se ciò è necessario:
+
+- a. per usi medici o farmaceutici e per un uso finale non militare;
+- b. per scopi umanitari o per evacuazioni; oppure
+- c. per l’uso esclusivo della Svizzera in adempimento dei propri obblighi di manutenzione in aree che sono oggetto di un contratto di locazione a lungo termine tra la Svizzera e la Federazione Russa.[^11a-2]
 
 [^11a-1]: Introdotto dal n. I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^11a-2]: Nuovo testo giusta il n. I dell’O del 31 ago. 2022, in vigore dal 31 ago. 2022 alle ore 18.00 ([RU 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
 
 #### Art. 12
 
@@ -435,13 +451,15 @@ I divieti di cui ai capoversi 1 e 2 non si applicano:
 
 Il divieto di cui al capoverso 1 non si applica ai beni:
 
-- a. necessari per l’esercizio delle funzioni di rappresentanze diplomatiche o consolari della Svizzera o dei suoi partner nella Federazione Russa o di organizzazioni internazionali che godono di immunità conformemente al diritto internazionale; o
-- b. destinati a uso personale da parte di collaboratori delle rappresentanze e organizzazioni di cui alla lettera a.
+- a. necessari per l’esercizio delle funzioni di rappresentanze diplomatiche o consolari della Svizzera o dei suoi partner nella Federazione Russa o di organizzazioni internazionali che godono di immunità conformemente al diritto internazionale;
+- b. destinati a uso personale da parte di collaboratori delle rappresentanze e organizzazioni di cui alla lettera a; o
+- c. rientranti nelle voci di tariffa doganale 7113 o 7114 che figurano nell’allegato 18 numero 10 e sono destinati a uso personale da parte di persone fisiche che viaggiano partendo dalla Svizzera o dei loro familiari più stretti che le accompagnano, appartenenti a tali persone e non destinate alla vendita.[^14b-2]
 
-<sup>3</sup> La SECO può autorizzare deroghe al divieto di cui al capoverso 1 per il trasferimento o l’esportazione nella Federazione Russa di beni culturali in prestito nel contesto della cooperazione culturale ufficiale con la Federazione Russa.[^14b-2]
+<sup>3</sup> La SECO può autorizzare deroghe al divieto di cui al capoverso 1 per il trasferimento o l’esportazione nella Federazione Russa di beni culturali in prestito nel contesto della cooperazione culturale ufficiale con la Federazione Russa.[^14b-3]
 
 [^14b-1]: Introdotto dal n. I dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
-[^14b-2]: Introdotto dal n. I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^14b-2]: Nuovo testo giusta il n. I dell’O del 31 ago. 2022, in vigore dal 31 ago. 2022 alle ore 18.00 ([RU 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
+[^14b-3]: Introdotto dal n. I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 
 #### Art. 14c
 
@@ -462,7 +480,7 @@ Il divieto di cui al capoverso 1 non si applica ai beni:
 
 **Oro e prodotti in oro**[^14d-1]
 
-<sup>1</sup> Sono vietati l’acquisto di oro di cui all’allegato 26 originario della Federazione Russa che è stato importato dalla Federazione Russa dopo il 4 agosto 2022 nonché l’importazione, il transito e il trasporto di tale oro in e attraverso la Svizzera.
+<sup>1</sup> Sono vietati l’acquisto di oro di cui all’allegato 26 originario della Federazione Russa che è stato esportato dalla Federazione Russa dopo il 4 agosto 2022 nonché l’importazione, il transito e il trasporto di tale oro in e attraverso la Svizzera*.*[^14d-2]
 
 <sup>2</sup> Sono vietati l’acquisto di oro di cui all’allegato 26 che è stato lavorato in un Paese terzo utilizzando oro di cui al capoverso 1 nonché l’importazione, il transito e il trasporto dell’oro così lavorato in e attraverso la Svizzera.
 
@@ -477,6 +495,7 @@ Il divieto di cui al capoverso 1 non si applica ai beni:
 <sup>7</sup> La SECO può autorizzare deroghe ai divieti di cui ai capoversi 1–3 per l’importazione o il trasporto dalla Federazione Russa di beni culturali in prestito nel contesto della cooperazione culturale ufficiale con la Federazione Russa.
 
 [^14d-1]: Introdotto dal n. I dell’O del 3 ago. 2022, in vigore dal 3 ago. 2022 alle ore 18.00 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
+[^14d-2]: Nuovo testo giusta il n. I dell’O del 31 ago. 2022, in vigore dal 31 ago. 2022 alle ore 18.00 ([RU 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
 
 ## Sezione 3: Restrizioni finanziarie
 
@@ -484,7 +503,13 @@ Il divieto di cui al capoverso 1 non si applica ai beni:
 
 **Blocco degli averi e delle risorse economiche**
 
-<sup>1</sup> Sono bloccati gli averi e le risorse economiche di proprietà o sotto il controllo delle persone fisiche, imprese e organizzazioni di cui all’allegato 8.
+<sup>1</sup>
+
+Sono bloccati gli averi e le risorse economiche di proprietà o sotto il controllo diretto o indiretto:
+
+- a. delle persone fisiche, imprese e organizzazioni di cui all’allegato 8;
+- b. delle persone fisiche, imprese e organizzazioni che agiscono in nome o per conto delle persone fisiche, imprese od organizzazioni di cui alla lettera a;
+- c. delle imprese e organizzazioni di proprietà o sotto il controllo delle persone fisiche, imprese od organizzazioni di cui alle lettere a o b.[^15-1]
 
 <sup>2</sup> È vietato fornire averi alle persone fisiche, alle imprese e alle organizzazioni di cui al capoverso 1 oppure mettere altrimenti a loro disposizione, direttamente o indirettamente, averi e risorse economiche.
 
@@ -493,7 +518,7 @@ Il divieto di cui al capoverso 1 non si applica ai beni:
 Il divieto di cui al capoverso 2 non si applica quando la fornitura di averi o la messa a disposizione di averi o risorse economiche è necessaria:
 
 - a. per lo svolgimento di attività umanitarie o di aiuto alla popolazione civile in relazione alla situazione in Ucraina da parte di organismi pubblici o di imprese e organizzazioni che ricevono un finanziamento dalla Confederazione per svolgere attività umanitarie o fornire aiuto alla popolazione civile; oppure
-- b. per lo svolgimento delle attività ufficiali delle rappresentanze diplomatiche o consolari della Svizzera e l’adempimento di missioni ufficiali della Confederazione.[^15-1]
+- b. per lo svolgimento delle attività ufficiali delle rappresentanze diplomatiche o consolari della Svizzera e l’adempimento di missioni ufficiali della Confederazione.[^15-2]
 
 <sup>3bis</sup>
 
@@ -501,9 +526,9 @@ I divieti di cui ai capoversi 1 e 2 non si applicano inoltre se la liberazione d
 
 - a. di servizi di telecomunicazione nella Federazione Russa, in Ucraina, in Svizzera o in uno Stato membro dello SEE o tra la Federazione Russa e la Svizzera o uno Stato membro dello SEE o tra l’Ucraina e la Svizzera o uno Stato membro dello SEE da parte di un operatore con sede in Svizzera o in uno Stato membro dello SEE;
 - b. di risorse correlate e di servizi correlati necessari per il funzionamento, la manutenzione e la sicurezza dei servizi di telecomunicazione di cui alla lettera a;
-- c. di servizi dei centri di dati in Svizzera e negli Stati membri dello SEE.[^15-2]
+- c. di servizi dei centri di dati in Svizzera e negli Stati membri dello SEE.[^15-3]
 
-<sup>4</sup> La SECO può, in via eccezionale, autorizzare deroghe ai divieti di cui al capoverso 2 per permettere lo svolgimento di attività umanitarie o di aiuto alla popolazione civile in relazione alla situazione in Ucraina.[^15-3]
+<sup>4</sup> La SECO può, in via eccezionale, autorizzare deroghe ai divieti di cui al capoverso 2 per permettere lo svolgimento di attività umanitarie o di aiuto alla popolazione civile in relazione alla situazione in Ucraina.[^15-4]
 
 <sup>5</sup>
 
@@ -512,46 +537,48 @@ La SECO può, in via eccezionale, autorizzare prelievi da conti bloccati, trasfe
 - a. prevenire casi di rigore;
 - b. rispettare contratti esistenti;
 - c. soddisfare crediti in applicazione di una decisione giudiziaria, amministrativa o arbitrale;
-- d.[^15-4] svolgere attività ufficiali della missione diplomatica o consolare o dell’organizzazione internazionale che godono di immunità conformemente al diritto internazionale;
+- d.[^15-5] svolgere attività ufficiali di rappresentanze diplomatiche o consolari o di organizzazioni internazionali che godono di immunità conformemente al diritto internazionale;
 - e. tutelare interessi svizzeri; oppure
 - f. permettere lo svolgimento di attività umanitarie o di aiuto alla popolazione civile in relazione alla situazione in Ucraina;
-- g.[^15-5] la prevenzione o la mitigazione di un evento che potrebbe avere conseguenze gravi e rilevanti sulla salute e sulla sicurezza delle persone o sull’ambiente.[^15-6]
+- g.[^15-6] la prevenzione o la mitigazione di un evento che potrebbe avere conseguenze gravi e rilevanti sulla salute e sulla sicurezza delle persone o sull’ambiente.[^15-7]
 
 <sup>5bis</sup>
 
-La SECO può autorizzare la liberazione di determinati averi o risorse economiche bloccati o la messa a disposizione di determinati averi o risorse economiche a una persona fisica o giuridica, un’impresa o un’organizzazione di cui all’allegato 8 per consentire la vendita e il trasferimento di diritti di proprietà a persone giuridiche, imprese od organizzazioni stabilite in Svizzera o in uno Stato membro dello SEE fino al 31 dicembre 2022 o, se posteriore, entro sei mesi dalla data di inserimento della persona, dell’impresa o dell’organizzazione nell’allegato 8, laddove:[^15-7]
+La SECO può autorizzare la liberazione di determinati averi o risorse economiche bloccati o la messa a disposizione di determinati averi o risorse economiche a una persona fisica o giuridica, un’impresa o un’organizzazione di cui all’allegato 8 per consentire la vendita e il trasferimento di diritti di proprietà a persone giuridiche, imprese od organizzazioni stabilite in Svizzera o in uno Stato membro dello SEE fino al 31 dicembre 2022 o, se posteriore, entro sei mesi dalla data di inserimento della persona, dell’impresa o dell’organizzazione nell’allegato 8, laddove:[^15-8]
 
 - a. tali diritti di proprietà sono direttamente o indirettamente detenuti da una persona fisica o giuridica, da un’impresa o da un’organizzazione elencate nell’allegato 8; e
-- b. il ricavato di tale vendita o trasferimento rimane congelato.[^15-8]
+- b. il ricavato di tale vendita o trasferimento rimane congelato.[^15-9]
 
-<sup>6</sup> La SECO può, in via eccezionale, autorizzare la liberazione di determinati averi o risorse economiche bloccate di proprietà delle organizzazioni menzionate nell’allegato 8 ai numeri SSID 175-48057, SSID 175-48067 e SSID 175-48076, oppure mettere a loro disposizione determinati averi e risorse economiche, dopo aver stabilito che tali averi e risorse economiche sono necessari per porre fine, al più tardi entro il 24 agosto 2022, alle operazioni, contratti o altri accordi, comprese le corrispondenti relazioni bancarie concluse con queste organizzazioni prima del 23 febbraio 2022.[^15-9]
+<sup>6</sup> La SECO può, in via eccezionale, autorizzare la liberazione di determinati averi o risorse economiche bloccate di proprietà delle organizzazioni menzionate nell’allegato 8 ai numeri SSID 175-48057, SSID 175-48067 e SSID 175-48076, oppure mettere a loro disposizione determinati averi e risorse economiche, dopo aver stabilito che tali averi e risorse economiche sono necessari per porre fine, al più tardi entro il 24 agosto 2022, alle operazioni, contratti o altri accordi, comprese le corrispondenti relazioni bancarie concluse con queste organizzazioni prima del 23 febbraio 2022.[^15-10]
 
-<sup>7</sup> La SECO può, in via eccezionale, autorizzare la liberazione di determinati averi o risorse economiche bloccati di proprietà delle organizzazioni menzionate nell’allegato 8 ai numeri SSID 175‑54306, 175‑54319, 175‑54329 e 175-54340, oppure mettere a loro disposizione determinati averi e risorse economiche, dopo aver stabilito che tali averi e risorse economiche sono necessari per porre fine, al più tardi entro il 28 ottobre 2022, alle operazioni, contratti o altri accordi, comprese le corrispondenti relazioni bancarie concluse con queste organizzazioni prima del 27 aprile 2022.[^15-10]
+<sup>7</sup> La SECO può, in via eccezionale, autorizzare la liberazione di determinati averi o risorse economiche bloccati di proprietà delle organizzazioni menzionate nell’allegato 8 ai numeri SSID 175‑54306, 175‑54319, 175‑54329 e 175-54340, oppure mettere a loro disposizione determinati averi e risorse economiche, dopo aver stabilito che tali averi e risorse economiche sono necessari per porre fine, al più tardi entro il 28 ottobre 2022, alle operazioni, contratti o altri accordi, comprese le corrispondenti relazioni bancarie concluse con queste organizzazioni prima del 27 aprile 2022.[^15-11]
 
 <sup>8</sup>
 
 La SECO può, in via eccezionale, autorizzare la liberazione di determinati averi o risorse economiche bloccati di proprietà dell’organizzazione menzionata nell’allegato 8 al numero SSID 175-56580, oppure mettere a sua disposizione determinati averi e risorse economiche, dopo aver stabilito che tali averi e risorse economiche sono necessari per:
 
 - a. porre fine, al più tardi entro il 22 agosto 2023, alle operazioni, contratti o altri accordi, comprese le corrispondenti relazioni bancarie concluse con tale organizzazione prima del 4 agosto 2022; oppure
-- b. la vendita o il trasferimento fino al 13 novembre 2022 di diritti di proprietà direttamente o indirettamente detenuti da tale organizzazione a persone giuridiche, imprese od organizzazioni stabilite in Svizzera o in uno Stato membro dello SEE.[^15-11]
+- b.[^15-12] permettere la vendita o il trasferimento fino al 13 novembre 2022 di diritti di proprietà direttamente o indirettamente detenuti da tale organizzazione a persone giuridiche, imprese od organizzazioni stabilite in Svizzera o in uno Stato membro dello SEE.[^15-13]
 
-<sup>9</sup> La SECO può, in via eccezionale, autorizzare la liberazione di determinati averi o risorse economiche bloccati di proprietà delle organizzazioni menzionate nell’allegato 8 ai numeri SSID 175-48057, 175-48067, 175-48076, 175-54306, 175-54319, 175-54329, 175-54340 e 175-56580, oppure mettere a loro disposizione averi e risorse economiche dopo aver stabilito che tali averi e risorse economiche sono necessari per l’acquisto, l’importazione o il trasporto di prodotti agricoli e alimentari, compresi il frumento e i concimi.[^15-12]
+<sup>9</sup> La SECO può, in via eccezionale, autorizzare la liberazione di determinati averi o risorse economiche bloccati di proprietà delle organizzazioni menzionate nell’allegato 8 ai numeri SSID 175-48057, 175-48067, 175-48076, 175-54306, 175-54319, 175-54329, 175-54340 e 175-56580, oppure mettere a loro disposizione averi e risorse economiche dopo aver stabilito che tali averi e risorse economiche sono necessari per l’acquisto, l’importazione o il trasporto di prodotti agricoli e alimentari, compresi il frumento e i concimi.[^15-14]
 
-<sup>10</sup> D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare deroghe ai divieti di cui ai capoversi 4‒9.[^15-13]
+<sup>10</sup> D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare deroghe ai divieti di cui ai capoversi 4‒9.[^15-15]
 
-[^15-1]: Nuovo testo giusta il n. I dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
-[^15-2]: Introdotto dal n. I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
-[^15-3]: Nuovo testo giusta il n. I dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
-[^15-4]: Nuovo testo giusta il n. I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
-[^15-5]: Introdotta dal n. I dell’O del 3 ago. 2022, in vigore dal 3 ago. 2022 alle ore 18.00 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
-[^15-6]: Nuovo testo giusta il n. I dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
-[^15-7]: Nuovo testo giusta il n. I dell’O del 3 ago. 2022, in vigore dal 3 ago. 2022 alle ore 18.00 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
-[^15-8]: Introdotto dal n. I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00, cpv. 3 dal 29 lug. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
-[^15-9]: Introdotto dal n. I dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
-[^15-10]: Introdotto dal n. I dell’O del 25 mar. 2022 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)). Nuovo testo giusta il n. I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
-[^15-11]: Introdotto dal n. I dell’O del 27 apr. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Nuovo testo giusta il n. I dell’O del 3 ago. 2022, in vigore dal 3 ago. 2022 alle ore 18.00 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
-[^15-12]: Introdotto dal n. I dell’O del 3 ago. 2022, in vigore dal 3 ago. 2022 alle ore 18.00 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
-[^15-13]: Introdotto dal n. I dell’O del 3 ago. 2022, in vigore dal 3 ago. 2022 alle ore 18.00 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
+[^15-1]: Nuovo testo giusta il n. I dell’O del 31 ago. 2022, in vigore dal 31 ago. 2022 alle ore 18.00 ([RU 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
+[^15-2]: Nuovo testo giusta il n. I dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^15-3]: Introdotto dal n. I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
+[^15-4]: Nuovo testo giusta il n. I dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^15-5]: Nuovo testo giusta il n. I dell’O del 31 ago. 2022, in vigore dal 31 ago. 2022 alle ore 18.00 ([RU 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
+[^15-6]: Introdotta dal n. I dell’O del 3 ago. 2022, in vigore dal 3 ago. 2022 alle ore 18.00 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
+[^15-7]: Nuovo testo giusta il n. I dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^15-8]: Nuovo testo giusta il n. I dell’O del 3 ago. 2022, in vigore dal 3 ago. 2022 alle ore 18.00 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
+[^15-9]: Introdotto dal n. I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00, cpv. 3 dal 29 lug. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^15-10]: Introdotto dal n. I dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^15-11]: Introdotto dal n. I dell’O del 25 mar. 2022 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)). Nuovo testo giusta il n. I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^15-12]: Nuovo testo giusta il n. I dell’O del 31 ago. 2022, in vigore dal 31 ago. 2022 alle ore 18.00 ([RU 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
+[^15-13]: Introdotto dal n. I dell’O del 27 apr. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Nuovo testo giusta il n. I dell’O del 3 ago. 2022, in vigore dal 3 ago. 2022 alle ore 18.00 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
+[^15-14]: Introdotto dal n. I dell’O del 3 ago. 2022, in vigore dal 3 ago. 2022 alle ore 18.00 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
+[^15-15]: Introdotto dal n. I dell’O del 3 ago. 2022, in vigore dal 3 ago. 2022 alle ore 18.00 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
 
 #### Art. 16
 
@@ -673,16 +700,24 @@ I divieti di cui ai capoversi 1 e 2 non si applicano all’utilizzo di fondi o a
 
 **Divieto di accettare depositi e valori patrimoniali basati su criptovalute**[^20-1]
 
-<sup>1</sup> A persone e organismi che accettano depositi e concedono crediti a titolo professionale è vietato accettare depositi di cittadini russi, di persone fisiche residenti nella Federazione Russa o di banche, imprese e organizzazioni stabilite nella Federazione Russa se il valore totale dei depositi della persona fisica, della banca, dell’impresa o dell’organizzazione è superiore a 100 000 franchi per ogni persona o organismo.
+<sup>1</sup>
 
-<sup>2</sup> A persone e organismi che prestano a titolo professionale servizi di portafoglio, conti o custodia di valori patrimoniali basati su criptovalute è vietato fornire tali servizi a cittadini russi, a persone fisiche residenti in Russia, o a persone giuridiche, imprese od organizzazioni stabilite in Russia, se il valore totale dei valori patrimoniali basati su criptovalute della persona fisica o giuridica, dell’impresa o dell’organizzazione per portafoglio, conto o fornitore di servizi di custodia è superiore a 10 000 franchi.
+A persone e organismi che accettano depositi e concedono crediti a titolo professionale, se il valore totale dei depositi della persona fisica, della banca, dell’impresa o dell’organizzazione è superiore a 100 000 franchi per ogni persona o organismo, è vietato accettare depositi:
 
-<sup>3</sup>
+- a. di cittadini russi;
+- b. di persone fisiche residenti nella Federazione Russa;
+- c. di banche, imprese od organizzazioni stabilite nella Federazione Svizzera; o
+- d. di banche, imprese od organizzazioni stabilite al di fuori della Svizzera e dello SEE e i cui diritti di proprietà sono direttamente o indirettamente detenuti per oltre il 50 per cento da cittadini russi o da persone fisiche residenti nella Federazione Russa.[^20-2]
 
-I divieti di cui ai capoversi 1 e 2 non si applicano:
+<sup>2</sup>
 
-- a. ai cittadini svizzeri, ai cittadini di uno Stato membro dello SEE o alle persone fisiche titolari di un permesso di soggiorno temporaneo o permanente in Svizzera o in uno Stato membro dello SEE;
-- b. ai depositi necessari per gli scambi transfrontalieri non vietati di beni e servizi tra la Svizzera e la Federazione Russa, tra la Svizzera e lo SEE o tra lo SEE e la Federazione Russa.
+A persone e organismi che prestano a titolo professionale servizi di portafoglio, conti o custodia di valori patrimoniali basati su criptovalute, se il valore totale dei valori patrimoniali basati su criptovalute della persona fisica o giuridica, dell’impresa o dell’organizzazione per portafoglio, conto o fornitore di servizi di custodia è superiore a 10 000 franchi, è vietato fornire tali servizi:
+
+- a. a cittadini russi;
+- b. a persone fisiche residenti nella Federazione Russa; o
+- c. a persone giuridiche, imprese od organizzazioni stabilite nella Federazione Russa.[^20-3]
+
+<sup>3</sup> I divieti di cui ai capoversi 1 e 2 non si applicano ai cittadini svizzeri, ai cittadini di uno stato membro dello SEE, né alle persone fisiche titolari di un permesso di soggiorno temporaneo o permanente in Svizzera o in uno Stato membro dello SEE.[^20-4]
 
 <sup>4</sup>
 
@@ -691,12 +726,17 @@ D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare
 - a. prevenire casi di rigore;
 - b. scopi umanitari o scopi di evacuazione;
 - c. attività della società civile che promuovono direttamente la democrazia, i diritti umani o lo Stato di diritto nella Federazione Russa;
-- [tab] c<sup>bis</sup>.[^20-2]il pagamento di diritti o di spese connessi alla normale gestione o alla custodia dei fondi o delle risorse economiche congelati;
+- [tab] c<sup>bis</sup>.[^20-5]il pagamento di diritti o di spese connessi alla normale gestione o alla custodia dei fondi o delle risorse economiche congelati;
 - d. svolgere attività ufficiali di rappresentanze diplomatiche o consolari o di un’organizzazione internazionale;
-- e. tutelare gli interessi svizzeri.
+- e. tutelare gli interessi svizzeri;
+- f.[^20-6] gli scambi transfrontalieri non vietati di beni e servizi tra la Svizzera e la Federazione Russa, tra la Svizzera e lo SEE o tra lo SEE e la Federazione Russa.
 
 [^20-1]: Nuovo testo giusta il n. I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
-[^20-2]: Introdotta dal n. I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
+[^20-2]: Nuovo testo giusta il n. I dell’O del 31 ago. 2022, in vigore dal 31 ago. 2022 alle ore 18.00 ([RU 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
+[^20-3]: Nuovo testo giusta il n. I dell’O del 31 ago. 2022, in vigore dal 31 ago. 2022 alle ore 18.00 ([RU 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
+[^20-4]: Nuovo testo giusta il n. I dell’O del 31 ago. 2022, in vigore dal 31 ago. 2022 alle ore 18.00 ([RU 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
+[^20-5]: Introdotta dal n. I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
+[^20-6]: Introdotta dal n. I dell’O del 31 ago. 2022, in vigore dal 31 ago. 2022 alle ore 18.00 ([RU 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
 
 #### Art. 21
 
@@ -769,8 +809,8 @@ Il divieto di cui al capoverso 1 non si applica:
   - 2\. permettere lo svolgimento delle attività ufficiali delle rappresentanze diplomatiche o consolari della Svizzera e l’adempimento di missioni ufficiali della Confederazione;
 
 - d.[^24a-4] alle transazioni relative alla fornitura di servizi di telecomunicazione o dei centri di dati oppure alla prestazione di servizi e alla fornitura di apparecchiature necessarie per il funzionamento, la manutenzione e la sicurezza dei servizi di telecomunicazione, compresa la messa a disposizione di firewall e di servizi di call center per una banca, un’impresa o un’organizzazione elencata nell’allegato 15;
-- e.[^24a-5] alle transazioni necessarie per l’acquisto, l’importazione o il trasporto, diretti o indiretti, di petrolio, compresi i prodotti derivanti dalla raffinazione del petrolio, dalla Federazione Russa o attraverso la Federazione Russa, a condizione che l’acquisto, l’importazione o il trasporto non sia vietato secondo gli articoli 12*a* o 12*b*;
-- f.[^24a-6] alle transazioni necessarie per l’acquisto, l’importazione o il trasporto di prodotti farmaceutici, dispositivi medici e prodotti agricoli e alimentari, compresi il frumento e i concimi, a condizione che l’acquisto, l’importazione o il trasporto non sia vietato secondo la presente ordinanza;
+- e.[^24a-5] alle transazioni necessarie per l’acquisto, l’importazione o il trasporto, diretti o indiretti, di petrolio, compresi i prodotti derivanti dalla raffinazione del petrolio, dalla Federazione Russa o attraverso la Federazione Russa;
+- f.[^24a-6] alle transazioni necessarie per l’acquisto, l’importazione o il trasporto di prodotti farmaceutici, dispositivi medici e prodotti agricoli e alimentari, compresi il frumento e i concimi;
 - g.[^24a-7] alle transazioni necessarie per garantire l’accesso a procedimenti giudiziari, amministrativi o arbitrali in Svizzera o in uno Stato membro del SEE o per il riconoscimento o l’esecuzione di una sentenza o di un lodo arbitrale resi in Svizzera o in uno Stato membro del SEE.
 
 <sup>3</sup> D’intesa con i servizi competenti del DFAE e del DFF, la SECO può, in via eccezionale, autorizzare deroghe al divieto di cui al capoverso 1 per permettere lo svolgimento di attività umanitarie o di aiuto alla popolazione civile in relazione alla situazione in Ucraina.
@@ -779,8 +819,8 @@ Il divieto di cui al capoverso 1 non si applica:
 [^24a-2]: Nuovo testo giusta il n. I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
 [^24a-3]: Nuovo testo giusta il n. I dell’O del 3 ago. 2022, in vigore dal 3 ago. 2022 alle ore 18.00 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
 [^24a-4]: Introdotta dal n. I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
-[^24a-5]: Introdotta dal n. I dell’O del 3 ago. 2022, in vigore dal 3 ago. 2022 alle ore 18.00 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
-[^24a-6]: Introdotta dal n. I dell’O del 3 ago. 2022, in vigore dal 3 ago. 2022 alle ore 18.00 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
+[^24a-5]: Introdotta dal n. I dell’O del 3 ago. 2022 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)). Nuovo testo giusta il n. I dell’O del 31 ago. 2022, in vigore dal 31 ago. 2022 alle ore 18.00 ([RU 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
+[^24a-6]: Introdotta dal n. I dell’O del 3 ago. 2022 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)). Nuovo testo giusta il n. I dell’O del 31 ago. 2022, in vigore dal 31 ago. 2022 alle ore 18.00 ([RU 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
 [^24a-7]: Introdotta dal n. I dell’O del 3 ago. 2022, in vigore dal 3 ago. 2022 alle ore 18.00 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
 
 #### Art. 25
@@ -832,11 +872,12 @@ Il divieto di cui al capoverso 1 non si applica alla vendita, alla fornitura, al
 
 **Divieto di servizi di rating del credito**[^28a-1]
 
-<sup>1</sup> È vietato prestare servizi di rating del credito o fornire accesso a servizi in abbonamento in relazione ad attività di rating del credito a qualsiasi cittadino russo o persona fisica residente nella Federazione Russa o a qualsiasi banca, impresa o organizzazione stabilita nella Federazione Russa.
+<sup>1</sup> È vietato prestare servizi di rating del credito o fornire accesso a servizi in abbonamento in relazione ad attività di rating del credito a o in merito a qualsiasi cittadino russo o persona fisica residente nella Federazione Russa o a qualsiasi banca, impresa o organizzazione stabilita nella Federazione Russa.[^28a-2]
 
 <sup>2</sup> I divieti di cui al capoverso 1 non si applicano ai cittadini svizzeri, ai cittadini di uno Stato membro dello SEE o alle persone fisiche titolari di un permesso di soggiorno temporaneo o permanente in Svizzera o in uno Stato membro dello SEE
 
 [^28a-1]: Introdotto dal n. I dell’O del 25 mar. 2022, in vigore dal 15 apr. 2022 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^28a-2]: Nuovo testo giusta il n. I dell’O del 31 ago. 2022, in vigore dal 31 ago. 2022 alle ore 18.00 ([RU 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
 
 #### Art. 28b
 
@@ -975,7 +1016,7 @@ La Segreteria di Stato della migrazione (SEM), o il DFAE nel quadro della sua co
 È vietato decollare o atterrare sul territorio della Svizzera o sorvolare il territorio svizzero:
 
 - a. per i veicoli aerei di vettori aerei di compagnie aeree della Federazione Russa con una licenza di esercizio o una licenza equivalente rilasciata dalle autorità della Federazione Russa, anche per i veicoli aerei utilizzati da queste imprese nell’ambito di accordi di ripartizione di codici (*code sharing*) o di accordi di prenotazione di capacità (*blocked space*);
-- b. per i veicoli aerei registrati nella Federazione Russa o che sono di proprietà, noleggiati o altrimenti controllati da persone fisiche o giuridiche, organizzazioni o organismi nella Federazione Russa;
+- b.[^29a-2] per i veicoli aerei registrati nella Federazione Russa o che sono di proprietà, noleggiati o altrimenti controllati da persone fisiche o giuridiche, organizzazioni o organismi russi.
 
 <sup>2</sup>
 
@@ -985,12 +1026,13 @@ Sono esenti dal divieto di cui al capoverso 1:
 - b. voli di ricerca e salvataggio;
 - c. voli di rimpatrio una tantum di veicoli aerei in leasing con la relativa autorizzazione dell’Ufficio federale dell’aviazione civile (UFAC);
 - d. sorvoli e atterraggi in situazioni di emergenza;
-- e. voli di aerei militari e altri veicoli aerei di Stato stranieri con autorizzazione (diplomatic clearance) conformemente all’articolo 4 dell’ordinanza del 23 marzo 2005[^29a-2] concernente la salvaguardia della sovranità sullo spazio aereo.
+- e. voli di aerei militari e altri veicoli aerei di Stato stranieri con autorizzazione (diplomatic clearance) conformemente all’articolo 4 dell’ordinanza del 23 marzo 2005[^29a-3] concernente la salvaguardia della sovranità sullo spazio aereo.
 
 <sup>3</sup> Previa consultazione degli organi competenti della SECO e del DFAE, l’UFAC può concedere ulteriori deroghe al divieto di cui al capoverso 1 per salvaguardare gli interessi della Svizzera o per altri scopi conformi agli obiettivi della presente ordinanza.
 
 [^29a-1]: Introdotto dal n. I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
-[^29a-2]: [RS 748.111.1](https://fedlex.data.admin.ch/eli/cc/2005/284)
+[^29a-2]: Nuovo testo giusta il n. I dell’O del 31 ago. 2022, in vigore dal 31 ago. 2022 alle ore 18.00 ([RU 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
+[^29a-3]: [RS 748.111.1](https://fedlex.data.admin.ch/eli/cc/2005/284)
 
 #### Art. 29b
 
@@ -999,6 +1041,53 @@ Sono esenti dal divieto di cui al capoverso 1:
 È vietato commissionare pubblicità o fungere da intermediario per la pubblicità di prodotti o servizi che viene trasmessa o diffusa in programmi radiofonici o televisivi o in altri contenuti elettronici creati o trasmessi da una persona giuridica, un’impresa o un’organizzazione di cui all’allegato 25. Questo vale a prescindere dal mezzo di trasmissione o di diffusione dei contenuti.
 
 [^29b-1]: Introdotto dal n. I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
+
+#### Art 29c
+
+**Divieti relativi agli appalti pubblici**[^29c-1]
+
+<sup>1</sup>
+
+I committenti di appalti pubblici che rientrano nell’ambito di applicazione dei trattati internazionali in virtù dell’articolo 4 capoversi 1 e 2 della legge federale del 21 giugno 2019[^29c-2] sugli appalti pubblici (LAPub), dell’articolo 8 capoverso 1 del Concordato intercantonale del 25 novembre 1994/15 marzo 2001[^29c-3] sugli appalti pubblici (CIAP 2001) e dell’articolo 4 capoversi 1 e 2 del Concordato intercantonale del 15 novembre 2019[^29c-4] sugli appalti pubblici (CIAP 2019) hanno il divieto, a partire dai valori soglia indicati nei trattati internazionali, di aggiudicare appalti pubblici secondo l’articolo 8 LAPub, l’articolo 6 CIAP 2001 e l’articolo 8 CIAP 2019 a:
+
+- a. un cittadino russo o una persona fisica residente nella Federazione Russa;
+- b. una persona giuridica, un’impresa o un’organizzazione stabilita nella Federazione Russa;
+- c. una persona giuridica, un’impresa o un’organizzazione direttamente o indirettamente detenuta per oltre il 50 per cento da una persona fisica o giuridica, un’impresa o un’organizzazione di cui alle lettere a o b;
+- d. una persona giuridica, un’impresa o un’organizzazione che agisce per conto o sotto la direzione di una persona fisica o giuridica, un’impresa o un’organizzazione di cui alle lettere a, b o c.
+
+<sup>2</sup> Ai committenti di appalti pubblici di cui al capoverso 1 è vietato concludere contratti di appalti pubblici che rientrano nell’ambito di applicazione del capoverso 1 con le persone fisiche o giuridiche, le imprese o le organizzazioni di cui al capoverso 1 lettere a–d.
+
+<sup>3</sup> I contratti di appalti pubblici di cui al capoverso 2 in corso d’esecuzione devono terminare entro il 28 febbraio 2023.
+
+<sup>4</sup> I capoversi 1–3 si applicano anche alle aggiudicazioni e ai contratti di appalti pubblici ai quali partecipano, per oltre il 10 per cento del valore dell’appalto, subappaltatori e fornitori qualificati di persone, imprese od organizzazioni ai sensi del capoverso 1 lettere a–d.
+
+<sup>5</sup>
+
+I divieti di cui ai capoversi 1–3 non si applicano:
+
+- a. ai cittadini russi residenti in Svizzera;
+- b. alle persone giuridiche, imprese od organizzazioni direttamente o indirettamente detenute prima del 31 agosto 2022 per oltre il 50 per cento da una persona fisica o giuridica, un’impresa o un’organizzazione di cui al capoverso 1 stabilite in Svizzera prima del 31 agosto 2022.
+
+<sup>6</sup>
+
+D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare deroghe ai divieti di cui ai capoversi 1–4, in particolare:
+
+- a. per la gestione, la manutenzione e la disattivazione di impianti nucleari civili, l’eliminazione di rifiuti radioattivi, l’approvvigionamento e il ritrattamento di combustibile e la sicurezza di tali impianti, nonché per la fornitura di materiale precursore per la produzione di radioisotopi medici e di applicazioni mediche analoghe, di tecnologie critiche per il controllo delle radiazioni ambientali, e per la cooperazione nucleare per fini civili, in particolare nel campo della ricerca e dello sviluppo;
+- b. per la cooperazione intergovernativa nei programmi spaziali;
+- c. per l’acquisizione di beni o servizi strettamente necessari che possono essere forniti in quantità sufficiente solo dalle persone, imprese o organizzazioni di cui al capoverso 1 lettere a–d;
+- d. per lo svolgimento delle attività ufficiali delle rappresentanze diplomatiche o consolari della Svizzera e dei suoi partner o di organizzazioni internazionali nella Federazione Russa che godono di immunità conformemente al diritto internazionale;
+- e. per l’acquisto, l’importazione o il trasporto di gas naturale e di petrolio, compresi i prodotti petroliferi raffinati, nonché di titanio, alluminio, rame, nichel, palladio e minerale di ferro da o attraverso la Federazione Russa in Svizzera o negli Stati membri dello SEE.
+
+<sup>7</sup> I committenti soggetti al diritto federale in materia di appalti pubblici sorvegliano l’osservanza dei divieti di cui ai capoversi 1–3; a tal fine possono richiedere in particolare una dichiarazione degli offerenti.
+
+<sup>8</sup> I Cantoni provvedono all’osservanza dei divieti di cui ai capoversi 1–3 da parte delle organizzazioni soggette al diritto cantonale in materia di appalti pubblici; a tal fine possono richiedere in particolare una dichiarazione degli offerenti.
+
+<sup>9</sup> I committenti di cui al capoverso 7 e i Cantoni di cui al capoverso 8 segnalano alla SECO i casi di applicazione del capoverso 3.
+
+[^29c-1]: Introdotto dal n. I dell’O del 31 ago. 2022, in vigore dal 31 ago. 2022 alle ore 18.00 ([RU 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
+[^29c-2]: [RS 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)
+[^29c-3]: Questo Concordato intercantonale può essere consultato all’indirizzo www.lexfind.ch/fe/de/tol/33879/versions/219579/de
+[^29c-4]: Questo Concordato intercantonale può essere consultato all’indirizzo www.lexfind.ch/fe/de/tol/33884/versions/219203/de
 
 #### Art. 30
 
@@ -1022,7 +1111,7 @@ Sono esenti dal divieto di cui al capoverso 1:
 
 **Esecuzione e controllo**
 
-<sup>1</sup> La SECO sorveglia l’esecuzione degli articoli 2–6, 9–28*d* e 30.[^31-1]
+<sup>1</sup> La SECO sorveglia l’esecuzione degli articoli 2–6, 9–28*e*, 29*c* e 30.[^31-1]
 
 <sup>1bis</sup> L’Ufficio federale dell’agricoltura sorveglia l’esecuzione dell’articolo 14*c* capoverso 3.[^31-2]
 
@@ -1034,7 +1123,7 @@ Sono esenti dal divieto di cui al capoverso 1:
 
 <sup>3</sup> Il controllo al confine è di competenza dell’Ufficio federale della dogana e della sicurezza dei confini.
 
-[^31-1]: Nuovo testo giusta il n. I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^31-1]: Nuovo testo giusta il n. I dell’O del 31 ago. 2022, in vigore dal 31 ago. 2022 alle ore 18.00 ([RU 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
 [^31-2]: Introdotto dal n. I dell’O del 27 apr. 2022, in vigore dal 29 lug. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 [^31-3]: Introdotto dal n. I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 [^31-4]: Introdotto dal n. I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
@@ -1616,18 +1705,18 @@ Allegato 17[^t-10]
 
 Allegato 18[^t-11]
 
-(art. 14*b* cpv. 1)
+(art. 14b cpv. 1 e 2 lett. c)
 
 ## Beni di lusso
 
-[^t-11]: Introdotto dal n. II cpv. 2 dell’O del 25 mar. 2022 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)). Nuovo testo giusta il n. II cpv. 2 dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^t-11]: Introdotto dal n. II cpv. 2 dell’O del 25 mar. 2022 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)). Nuovo testo giusta il n. II dell’O del 31 ago. 2022, in vigore dal 31 ago. 2022 alle ore 18.00 ([RU 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
 
 Il divieto di cui all’articolo 14*b* si applica ai beni di lusso di valore superiore a 300 franchi per articolo, salvo diversamente specificato in questo allegato.
 
 ### 1. Cavalli
 
 <table>
-<tr><td></td><td>Voce di tariffa doganale</td><td>Designazione</td></tr>
+<tr><th></th><th>Voce di tariffa doganale</th><th>Designazione</th></tr>
 <tr><td></td><td>0101 21</td><td>Riproduttori di razza pura</td></tr>
 <tr><td></td><td>0101 29</td><td>Altri</td></tr>
 </table>
@@ -1635,7 +1724,7 @@ Il divieto di cui all’articolo 14*b* si applica ai beni di lusso di valore sup
 ### 2. Caviale e suoi succedanei
 
 <table>
-<tr><td></td><td>Voce di tariffa doganale</td><td>Designazione</td></tr>
+<tr><th></th><th>Voce di tariffa doganale</th><th>Designazione</th></tr>
 <tr><td></td><td>1604 31</td><td>Caviale</td></tr>
 <tr><td></td><td>1604 32</td><td>Succedanei di caviale</td></tr>
 </table>
@@ -1658,7 +1747,7 @@ Il divieto di cui all’articolo 14*b* si applica ai beni di lusso di valore sup
 ### 4. Vini (compresi i vini spumanti), birre, acquaviti e altre bevande contenenti alcole di distillazione
 
 <table>
-<tr><td></td><td>Voce di tariffa doganale</td><td>Designazione</td></tr>
+<tr><th></th><th>Voce di tariffa doganale</th><th>Designazione</th></tr>
 <tr><td></td><td>2203 00</td><td>Birra di malto</td></tr>
 <tr><td></td><td>2204 10</td><td>Vini spumanti</td></tr>
 <tr><td></td><td>2204 21</td><td>Altri vini; in recipienti di capacità non eccedente 2 litri</td></tr>
@@ -1672,7 +1761,7 @@ Il divieto di cui all’articolo 14*b* si applica ai beni di lusso di valore sup
 ### 5. Sigari e cigarillos
 
 <table>
-<tr><td></td><td>Voce di tariffa doganale</td><td>Designazione</td></tr>
+<tr><th></th><th>Voce di tariffa doganale</th><th>Designazione</th></tr>
 <tr><td></td><td>2402 10</td><td>Sigari (compresi i sigari spuntati), cigarillos, di tabacco</td></tr>
 <tr><td>ex</td><td>2402 90</td><td>Altri</td></tr>
 </table>
@@ -1706,14 +1795,14 @@ Il divieto di cui all’articolo 14*b* si applica ai beni di lusso di valore sup
 <tr><td></td><td>4303</td><td>Indumenti, accessori di abbigliamento e altri oggetti di pelli da pellicceria</td></tr>
 <tr><td></td><td>6101</td><td>Cappotti, giacconi, mantelli, giacche a vento (anorak), giubbotti e simili, a maglia, per uomo o ragazzo, esclusi i manufatti della voce 6103</td></tr>
 <tr><td></td><td>6102</td><td>Cappotti, giacconi, mantelli, giacche a vento (anorak), giubbotti e simili, a maglia, per donna o ragazza, esclusi i manufatti della voce 6104</td></tr>
-<tr><td></td><td>6103</td><td>Abiti o completi, insiemi (ensembles), giacche, pantaloni, tute con bretelle (salopettes), pantaloni a mezza gamba (al ginocchio) e «shorts» (diversi da quelli da bagno), a maglia, per uomo o ragazzo</td></tr>
+<tr><td></td><td>6103</td><td>Abiti o completi, insiemi (ensembles), giacche, pantaloni, tute con bretelle (salopettes), pantaloni a mezza gamba (a ginocchio) e «shorts» (diversi da quelli da bagno), a maglia, per uomo o ragazzo</td></tr>
 <tr><td></td><td>6104</td><td>Abiti a giacca (tailleurs), insiemi (ensembles), giacche, abiti interi, gonne, gonne-pantalone, pantaloni, tute con bretelle (salopettes), pantaloni a mezza gamba (al ginocchio) e «shorts» (diversi da quelli da bagno), a maglia, per donna o ragazza</td></tr>
 <tr><td></td><td>6105</td><td>Camicie, a maglia, per uomo o ragazzo</td></tr>
 <tr><td></td><td>6106</td><td>Camicette, bluse e bluse-camicette, a maglia, per donna o ragazza</td></tr>
-<tr><td></td><td>6107</td><td>Slip, mutande, camicie da notte, pigiami, accappatoi da bagno, vesti da camera e manufatti simili, a maglia, per uomo oragazzo</td></tr>
+<tr><td></td><td>6107</td><td>Slip, mutande, camicie da notte, pigiami, accappatoi da bagno, vesti da camera e manufatti simili, a maglia, per uomo o ragazzo</td></tr>
 <tr><td></td><td>6108</td><td>Sottovesti o sottabiti, sottogonne, slip, camicie da notte, pigiami, vestaglie, accappatoi da bagno, vesti da camera e manufatti simili, a maglia, per donna o ragazza</td></tr>
 <tr><td></td><td>6109</td><td>T-shirt e canottiere (magliette), a maglia</td></tr>
-<tr><td></td><td>6110</td><td>Maglioni (golf), pullover, cardigan, gilé e manufatti simili, comprese le magliette a collo alto, a maglia</td></tr>
+<tr><td></td><td>6110</td><td>Maglioni (golf), pullover, cardigan, gilè e manufatti simili, comprese le magliette a collo alto, a maglia</td></tr>
 <tr><td></td><td>6111</td><td>Indumenti e accessori di abbigliamento, a maglia, per bambini piccoli</td></tr>
 <tr><td></td><td>6112</td><td>Tute sportive («training»), tute e completi (insiemi) da sci, costumi, mutandine e slip da bagno, a maglia</td></tr>
 <tr><td></td><td>6113</td><td>Indumenti confezionati con stoffe a maglia delle voci 5903, 5906 o 5907</td></tr>
@@ -1807,7 +1896,7 @@ Il divieto di cui all’articolo 14*b* si applica ai beni di lusso di valore sup
 ### 11. Monete e banconote non aventi corso legale
 
 <table>
-<tr><td></td><td>Voce di tariffa doganale</td><td>Designazione</td></tr>
+<tr><th></th><th>Voce di tariffa doganale</th><th>Designazione</th></tr>
 <tr><td>ex</td><td>4907</td><td>Biglietti di banca</td></tr>
 <tr><td></td><td>7118 10</td><td>Monete non aventi corso legale, diverse dalle monete di oro</td></tr>
 <tr><td></td><td>7118 90</td><td>Altri</td></tr>
@@ -1816,7 +1905,7 @@ Il divieto di cui all’articolo 14*b* si applica ai beni di lusso di valore sup
 ### 12. Articoli di coltelleria di metalli preziosi o placcati/ricoperti di metalli preziosi
 
 <table>
-<tr><td></td><td>Voce di tariffa doganale</td><td>Designazione</td></tr>
+<tr><th></th><th>Voce di tariffa doganale</th><th>Designazione</th></tr>
 <tr><td>ex</td><td>8214</td><td>Altri oggetti di coltelleria (per esempio, tosatrici, fenditoi, coltellacci, mezzelune da macellaio o da cucina e tagliacarte); utensili e assortimenti di utensili per manicure o pedicure (comprese le lime da unghie)</td></tr>
 <tr><td>ex</td><td>8215</td><td>Cucchiai, forchette, mestoli, schiumarole, palette da torta, coltelli speciali da pesce o da burro, pinze da zucchero e oggetti simili</td></tr>
 <tr><td>ex</td><td>9307</td><td>Sciabole, spade, baionette, lance e altre armi bianche, loro parti e foderi</td></tr>
@@ -1834,7 +1923,7 @@ Il divieto di cui all’articolo 14*b* si applica ai beni di lusso di valore sup
 ### 14. Articoli di cristallo al piombo
 
 <table>
-<tr><td></td><td>Voce di tariffa doganale</td><td>Designazione</td></tr>
+<tr><th></th><th>Voce di tariffa doganale</th><th>Designazione</th></tr>
 <tr><td>ex</td><td>7009 91</td><td>Specchi di vetro, non incorniciati</td></tr>
 <tr><td>ex</td><td>7009 92</td><td>Specchi di vetro, incorniciati</td></tr>
 <tr><td>ex</td><td>7010</td><td>Damigiane, bottiglie, boccette, barattoli, vasi, imballaggi tubolari, ampolle e altri recipienti per il trasporto o l’imballaggio, di vetro; barattoli per conserve, di vetro; tappi, coperchi e altri dispositivi di chiusura, di vetro</td></tr>
@@ -1938,7 +2027,7 @@ Il divieto di cui all’articolo 14*b* si applica ai beni di lusso di valore sup
 <tr><td>ex</td><td>8411</td><td>Turboreattori, turbopropulsori e altre turbine a gas</td></tr>
 <tr><td>ex</td><td>8428 60</td><td>Teleferiche (comprese le seggiovie e sciovie); meccanismi di trazione per funicolari</td></tr>
 <tr><td>ex</td><td>8431 39</td><td>Parti e accessori di teleferiche (comprese le seggiovie e sciovie); meccanismi di trazione per funicolari</td></tr>
-<tr><td>ex</td><td>8483</td><td>Motori a pistone, con accensione per compressione (motori diesel o semi-diesel)</td></tr>
+<tr><td>ex</td><td>8483</td><td>Alberi di trasmissione (compresi gli alberi a camme e gli alberi a gomito) e manovelle; supporti e cuscinetti a strisciamento; ingranaggi e ruote di frizione; aste filettate a circolazione di sfere o a rulli; riduttori, moltiplicatori e variatori di velocità, compresi i convertitori di coppia; volani e pulegge, comprese le carrucole a staffa; innesti ed organi di accoppiamento, compresi i giunti di articolazione</td></tr>
 <tr><td>ex</td><td>8511</td><td>Apparecchi e dispositivi elettrici di accensione o di avviamento per motori con accensione a scintilla o per compressione (per esempio, magneti, dinamo-magneti, bobine di accensione, candele di accensione o di riscaldamento, avviatori); generatori (per esempio, dinamo, alternatori) e congiuntori-disgiuntori per detti motori</td></tr>
 <tr><td>ex</td><td>8512 20</td><td>altri apparecchi di illuminazione o di segnalazione visiva</td></tr>
 <tr><td>ex</td><td>8512 30</td><td>Apparecchi elettrici di avvertimento per la protezione contro il furto del tipo utilizzato per autoveicoli</td></tr>
@@ -1967,7 +2056,7 @@ Il divieto di cui all’articolo 14*b* si applica ai beni di lusso di valore sup
 ### 18. Orologi e loro parti
 
 <table>
-<tr><td></td><td>Voce di tariffa doganale</td><td></td></tr>
+<tr><th></th><th>Voce di tariffa doganale</th><th></th></tr>
 <tr><td>ex</td><td>9101</td><td>Orologi da polso, da tasca e simili (compresi i contatori di tempo degli stessi tipi), con cassa di metalli preziosi o di metalli placcati o ricoperti di metalli preziosi</td></tr>
 <tr><td>ex</td><td>9102</td><td>Orologi da polso, da tasca e simili (compresi i contatori di tempo degli stessi tipi), diversi da quelli della voce 9101</td></tr>
 <tr><td>ex</td><td>9103</td><td>Sveglie e pendolette, con movimento di piccola orologeria</td></tr>
@@ -1996,7 +2085,7 @@ Il divieto di cui all’articolo 14*b* si applica ai beni di lusso di valore sup
 ### 20. Oggetti d’arte, da collezione o di antichità
 
 <table>
-<tr><td></td><td>Voce di tariffa doganale</td><td>Designazione</td></tr>
+<tr><th></th><th>Voce di tariffa doganale</th><th>Designazione</th></tr>
 <tr><td>ex</td><td>97</td><td>Oggetti d’arte, da collezione o di antichità</td></tr>
 </table>
 
