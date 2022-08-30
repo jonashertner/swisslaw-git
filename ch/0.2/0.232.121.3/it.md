@@ -3,11 +3,11 @@ sr: "0.232.121.3"
 title: "Accordo di Locarno dell'8 ottobre 1968 istitutivo di una classificazione internazionale per i disegni e modelli industriali"
 eli: "https://fedlex.data.admin.ch/eli/cc/1971/378_378_378"
 language: it
-version: 2020-07-14
+version: 2022-08-31
 adopted: 1968-10-08
 in_force: 1971-04-27
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/378_378_378/20200714/it/xml/fedlex-data-admin-ch-eli-cc-1971-378_378_378-20200714-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1971/378_378_378/20200714/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/378_378_378/20220831/it/xml/fedlex-data-admin-ch-eli-cc-1971-378_378_378-20220831-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1971/378_378_378/20220831/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -26,7 +26,7 @@ Istrumento di ratificazione depositato il 27 gennaio 1971
 
 Entrato in vigore per la Svizzera il 27 aprile 1971
 
-(Stato 14 luglio 2020)
+(Stato 31 agosto 2022)
 
 [^t-1]: [RU 1971 377](https://fedlex.data.admin.ch/eli/oc/1971/377_377_377)
 
@@ -262,7 +262,7 @@ Fino all’entrata in funzione del primo Direttore generale, i riferimenti testu
 
 *In fede di che,* i sottoscritti, all’uopo debitamente autorizzati, hanno firmato il presente Accordo. Fatto in Locarno, l’8 ottobre 1968. (Seguono le firme)
 
-Allegato*[^t-2]*
+Allegato[^t-2]
 
 ## Lista delle classi e delle sottoclassi della classificazione internazionale
 
@@ -282,11 +282,12 @@ Adottata dalla Conferenza di Locarno il 7 ottobre 1968
 
 \5) Le spese di viaggio e di soggiorno dei membri del Comitato provvisorio sono a carico dei paesi che essi rappresentano.
 
-Campo d’applicazione il 14 luglio 2020**[^t-3]**
+Campo d’applicazione il 31 agosto 2022[^t-3]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td>Albania</td><td>16 ottobre</td><td>2018 A</td><td>16 gennaio</td><td>2019</td></tr>
+<tr><td>Arabia Saudita</td><td>3 settembre</td><td>2020 A</td><td>3 dicembre</td><td>2020</td></tr>
 <tr><td>Argentina</td><td>9 febbraio</td><td>2009 A</td><td>9 maggio</td><td>2009</td></tr>
 <tr><td>Armenia</td><td>13 aprile</td><td>0207 A</td><td>13 luglio</td><td>2007</td></tr>
 <tr><td>Austria</td><td>22 giugno</td><td>1990</td><td>26 settembre</td><td>1990</td></tr>
@@ -301,10 +302,11 @@ Campo d’applicazione il 14 luglio 2020**[^t-3]**
 <tr><td>Corea del Sud</td><td>17 gennaio</td><td>2011 A</td><td>17 aprile</td><td>2011</td></tr>
 <tr><td>Croazia</td><td>28 luglio</td><td>1992 S</td><td>8 ottobre</td><td>1991</td></tr>
 <tr><td>Cuba</td><td>9 luglio</td><td>1998 A</td><td>9 ottobre</td><td>1998</td></tr>
+<tr><td>Danimarca <sup>a</sup></td><td>27 gennaio</td><td>1971</td><td>27 aprile</td><td>1971</td></tr>
 <tr><td>Danimarca<sup>\*</sup></td><td>27 gennaio</td><td>1971</td><td>27 aprile</td><td>1971</td></tr>
 <tr><td>Estonia</td><td>31 luglio</td><td>1996 A</td><td>31 ottobre</td><td>1996</td></tr>
 <tr><td>Finlandia</td><td>15 febbraio</td><td>1972</td><td>16 maggio</td><td>1972</td></tr>
-<tr><td>Francia</td><td>11 agosto</td><td>1975</td><td>13 settembre</td><td>1975</td></tr>
+<tr><td>Francia</td><td>11 giugno</td><td>1975</td><td>13 settembre</td><td>1975</td></tr>
 <tr><td>Guadalupa</td><td>11 giugno</td><td>1975</td><td>13 settembre</td><td>1975</td></tr>
 <tr><td>Guayana francese</td><td>11 giugno</td><td>1975</td><td>13 settembre</td><td>1975</td></tr>
 <tr><td>Isole Wallis e Futuna</td><td>11 giugno</td><td>1975</td><td>13 settembre</td><td>1975</td></tr>
@@ -318,6 +320,7 @@ Campo d’applicazione il 14 luglio 2020**[^t-3]**
 <tr><td>Giappone</td><td>24 giugno</td><td>2014 A</td><td>24 settembre</td><td>2014</td></tr>
 <tr><td>Grecia</td><td>4 giugno</td><td>1999 A</td><td>4 settembre</td><td>1999</td></tr>
 <tr><td>Guinea</td><td>5 agosto</td><td>1996 A</td><td>5 novembre</td><td>1996</td></tr>
+<tr><td>India</td><td>7 giugno</td><td>2019 A</td><td>7 settembre</td><td>2019</td></tr>
 <tr><td>Iran</td><td>12 aprile</td><td>2018</td><td>12 luglio</td><td>2018</td></tr>
 <tr><td>Irlanda</td><td>9 luglio</td><td>1970 A</td><td>27 aprile</td><td>1971</td></tr>
 <tr><td>Islanda</td><td>23 dicembre</td><td>1994 A</td><td>9 aprile</td><td>1995</td></tr>
@@ -327,6 +330,7 @@ Campo d’applicazione il 14 luglio 2020**[^t-3]**
 <tr><td>Lettonia</td><td>14 gennaio</td><td>2005 A</td><td>14 aprile</td><td>2005</td></tr>
 <tr><td>Macedonia del Nord</td><td>23 luglio</td><td>1993 S</td><td>8 settembre</td><td>1991</td></tr>
 <tr><td>Malawi</td><td>24 luglio</td><td>1995 A</td><td>24 ottobre</td><td>1995</td></tr>
+<tr><td>Marocco</td><td>22 aprile</td><td>2022</td><td>22 luglio</td><td>2022</td></tr>
 <tr><td>Messico</td><td>26 ottobre</td><td>2000 A</td><td>26 gennaio</td><td>2001</td></tr>
 <tr><td>Moldova</td><td>1° settembre</td><td>1997 A</td><td>1° dicembre</td><td>1997</td></tr>
 <tr><td>Mongolia</td><td>16 marzo</td><td>2001 A</td><td>16 giugno</td><td>2001</td></tr>
@@ -334,11 +338,15 @@ Campo d’applicazione il 14 luglio 2020**[^t-3]**
 <tr><td>Norvegia</td><td>27 gennaio</td><td>1971</td><td>27 aprile</td><td>1971</td></tr>
 <tr><td>Paesi Bassi</td><td>23 dicembre</td><td>1976</td><td>30 marzo</td><td>1977</td></tr>
 <tr><td>Aruba</td><td>8 novembre</td><td>1986</td><td>8 novembre</td><td>1986</td></tr>
+<tr><td>Paraguay</td><td>31 maggio</td><td>2021 A</td><td>31 agosto</td><td>2021</td></tr>
+<tr><td>Perù\*</td><td>18 luglio</td><td>2022 A</td><td>18 ottobre</td><td>2022</td></tr>
 <tr><td>Polonia</td><td>22 ottobre</td><td>2013 A</td><td>22 gennaio</td><td>2014</td></tr>
 <tr><td>Regno Unito</td><td>21 luglio</td><td>2003 A</td><td>21 ottobre</td><td>2003</td></tr>
+<tr><td>Isola di Man</td><td>23 dicembre</td><td>2020</td><td>23 marzo</td><td>2021</td></tr>
 <tr><td>Romania</td><td>31 marzo</td><td>1998 A</td><td>30 giugno</td><td>1998</td></tr>
 <tr><td>Russia<sup>\*</sup></td><td>8 settembre</td><td>1972</td><td>15 dicembre</td><td>1972</td></tr>
 <tr><td>Serbia</td><td>14 giugno</td><td>2001 S</td><td>27 aprile</td><td>1992</td></tr>
+<tr><td>Singapore</td><td>19 dicembre</td><td>2019 A</td><td>19 marzo</td><td>2020</td></tr>
 <tr><td>Slovacchia</td><td>30 dicembre</td><td>1992 S</td><td>1° gennaio</td><td>1993</td></tr>
 <tr><td>Slovenia</td><td>12 giugno</td><td>1992 S</td><td>25 giugno</td><td>1991</td></tr>
 <tr><td>Spagna</td><td>10 agosto</td><td>1973</td><td>17 novembre</td><td>1973</td></tr>
@@ -352,7 +360,7 @@ Campo d’applicazione il 14 luglio 2020**[^t-3]**
 <tr><td>Ungheria</td><td>28 settembre</td><td>1973</td><td>1° gennaio</td><td>1974</td></tr>
 <tr><td>Uruguay</td><td>19 ottobre</td><td>1999 A</td><td>19 gennaio</td><td>2000</td></tr>
 <tr><td>Uzbekistan</td><td>19 aprile</td><td>2006 A</td><td>19 luglio</td><td>2006</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. I testi, francese ed inglese, possono essere consultati sul sito Internet dell’Organizzazione mondiale della proprietà intellettuale: www.wipo.int/ &gt; Français &gt; Savoirs &gt; Traités administrés par l’OMPI, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, ad eccezione di quelle della Svizzera. I testi in francese ed in inglese si possono consultare sul sito internet dell’Organizzazione mondiale della proprietà intellettuale (OMPI): www.wipo.int/ &gt; Français &gt; Sources d’information &gt; Traités administrés par l’OMPI &gt; Classification, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione trattati internazionali, 3003 Berna. <sup>a</sup> L’Acc. non si applica alle Isole Faroe.</td></tr>
 </table>
 
-[^t-3]: [RU 1973 1720](https://fedlex.data.admin.ch/eli/oc/1973/1720_1720_1720), [1977 227](https://fedlex.data.admin.ch/eli/oc/1977/227_227_227), [1982 1939](https://fedlex.data.admin.ch/eli/oc/1982/1939_1939_1939), [1990 1621](https://fedlex.data.admin.ch/eli/oc/1990/1621_1621_1621), [2003 3425](https://fedlex.data.admin.ch/eli/oc/2003/483), [2006 4435](https://fedlex.data.admin.ch/eli/oc/2006/676), [2009 3191](https://fedlex.data.admin.ch/eli/oc/2009/409), [2014 963](https://fedlex.data.admin.ch/eli/oc/2014/214), [2017 4053](https://fedlex.data.admin.ch/eli/oc/2017/481)e [2020 3519](https://fedlex.data.admin.ch/eli/oc/2020/619). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-3]: [RU 1971 378](https://fedlex.data.admin.ch/eli/oc/1971/378_378_378); [1973 1720](https://fedlex.data.admin.ch/eli/oc/1973/1720_1720_1720); [1977 227](https://fedlex.data.admin.ch/eli/oc/1977/227_227_227); [1982 1939](https://fedlex.data.admin.ch/eli/oc/1982/1939_1939_1939); [1990 1621](https://fedlex.data.admin.ch/eli/oc/1990/1621_1621_1621); [2003 3425](https://fedlex.data.admin.ch/eli/oc/2003/483); [2006 4435](https://fedlex.data.admin.ch/eli/oc/2006/676); [2009 3191](https://fedlex.data.admin.ch/eli/oc/2009/409); [2014 963](https://fedlex.data.admin.ch/eli/oc/2014/214); [2017 4053](https://fedlex.data.admin.ch/eli/oc/2017/481); [2020 3519](https://fedlex.data.admin.ch/eli/oc/2020/619); [2022 493](https://fedlex.data.admin.ch/eli/oc/2022/493). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: https://www.fedlex.admin.ch/it/treaty

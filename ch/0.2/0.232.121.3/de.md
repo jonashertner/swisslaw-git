@@ -3,11 +3,11 @@ sr: "0.232.121.3"
 title: Abkommen von Locarno vom 8. Oktober 1968 zur Errichtung einer Internationalen Klassifikation für gewerbliche Muster und Modelle
 eli: "https://fedlex.data.admin.ch/eli/cc/1971/378_378_378"
 language: de
-version: 2020-07-14
+version: 2022-08-31
 adopted: 1968-10-08
 in_force: 1971-04-27
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/378_378_378/20200714/de/xml/fedlex-data-admin-ch-eli-cc-1971-378_378_378-20200714-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1971/378_378_378/20200714/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/378_378_378/20220831/de/xml/fedlex-data-admin-ch-eli-cc-1971-378_378_378-20220831-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1971/378_378_378/20220831/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ Amtlicher deutscher Text gemäss Artikel 14 Absatz 2
 
 Abgeschlossen in Locarno am 8. Oktober 1968 Von der Bundesversammlung genehmigt am 15. Dezember 1970[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 27. Januar 1971 In Kraft getreten für die Schweiz am 27. April 1971
 
-(Stand am 14. Juli 2020)
+(Stand am 31. August 2022)
 
 [^t-1]: [AS 1971 377](https://fedlex.data.admin.ch/eli/oc/1971/377_377_377)
 
@@ -253,7 +253,7 @@ Bis zur Amtsübernahme durch den ersten Generaldirektor gelten Bezugnahmen in di
 
 *Zu Urkund dessen* haben die Bevollmächtigten dieses Abkommen unterzeichnet. Geschehen in Locarno am 8. Oktober 1968. (Es folgen die Unterschriften)
 
-Anhang*[^t-2]*
+Anhang[^t-2]
 
 ## Einteilung der Klassen und Unterklassen der Internationalen Klassifikation
 
@@ -273,7 +273,7 @@ Angenommen von der Konferenz von Locarno am 7. Oktober 1968
 
 \5) Die Reise- und Aufenthaltskosten der Mitglieder des vorläufigen Ausschusses gehen zu Lasten der von ihnen vertretenen Länder.
 
-Geltungsbereich am 14. Juli 2020**[^t-3]**
+Geltungsbereich am 31. August 2022[^t-3]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -286,11 +286,11 @@ Geltungsbereich am 14. Juli 2020**[^t-3]**
 <tr><td>Bosnien und Herzegowina</td><td>2. Juni</td><td>1993 N</td><td>1. März</td><td>1992</td></tr>
 <tr><td>Bulgarien</td><td>27. November</td><td>2000 B</td><td>27. Februar</td><td>2001</td></tr>
 <tr><td>China</td><td>17. Juni</td><td>1996 B</td><td>19. September</td><td>1996</td></tr>
-<tr><td>Dänemark\*</td><td>27. Januar</td><td>1971</td><td>27. April</td><td>1971</td></tr>
+<tr><td>Dänemark <sup>a</sup></td><td>27. Januar</td><td>1971</td><td>27. April</td><td>1971</td></tr>
 <tr><td>Deutschland</td><td>25. Juli</td><td>1990</td><td>25. Oktober</td><td>1990</td></tr>
 <tr><td>Estland</td><td>31. Juli</td><td>1996 B</td><td>31. Oktober</td><td>1996</td></tr>
 <tr><td>Finnland</td><td>15. Februar</td><td>1972</td><td>16. Mai</td><td>1972</td></tr>
-<tr><td>Frankreich</td><td>11. August</td><td>1975</td><td>13. September</td><td>1975</td></tr>
+<tr><td>Frankreich</td><td>11. Juni</td><td>1975</td><td>13. September</td><td>1975</td></tr>
 <tr><td>Französisch Guyana</td><td>11. Juni</td><td>1975</td><td>13. September</td><td>1975</td></tr>
 <tr><td>Französisch Polynesien</td><td>11. Juni</td><td>1975</td><td>13. September</td><td>1975</td></tr>
 <tr><td>Französische Süd- und Antarktisgebiete</td><td>11. Juni</td><td>1975</td><td>13. September</td><td>1975</td></tr>
@@ -302,6 +302,7 @@ Geltungsbereich am 14. Juli 2020**[^t-3]**
 <tr><td>Wallis und Futuna</td><td>11. Juni</td><td>1975</td><td>13. September</td><td>1975</td></tr>
 <tr><td>Griechenland</td><td>4. Juni</td><td>1999 B</td><td>4. September</td><td>1999</td></tr>
 <tr><td>Guinea</td><td>5. August</td><td>1996 B</td><td>5. November</td><td>1996</td></tr>
+<tr><td>Indien</td><td>7. Juni</td><td>2019 B</td><td>7. September</td><td>2019</td></tr>
 <tr><td>Iran</td><td>12. April</td><td>2018</td><td>12. Juli</td><td>2018</td></tr>
 <tr><td>Irland</td><td>9. Juli</td><td>1970 B</td><td>27. April</td><td>1971</td></tr>
 <tr><td>Island</td><td>23. Dezember</td><td>1994 B</td><td>9. April</td><td>1995</td></tr>
@@ -315,6 +316,7 @@ Geltungsbereich am 14. Juli 2020**[^t-3]**
 <tr><td>Kuba</td><td>9. Juli</td><td>1998 B</td><td>9. Oktober</td><td>1998</td></tr>
 <tr><td>Lettland</td><td>14. Januar</td><td>2005 B</td><td>14. April</td><td>2005</td></tr>
 <tr><td>Malawi</td><td>24. Juli</td><td>1995 B</td><td>24. Oktober</td><td>1995</td></tr>
+<tr><td>Marokko</td><td>22. April</td><td>2022</td><td>22. Juli</td><td>2022</td></tr>
 <tr><td>Mexiko</td><td>26. Oktober</td><td>2000 B</td><td>26. Januar</td><td>2001</td></tr>
 <tr><td>Moldau</td><td>1. September</td><td>1997 B</td><td>1. Dezember</td><td>1997</td></tr>
 <tr><td>Mongolei</td><td>16. März</td><td>2001 B</td><td>16. Juni</td><td>2001</td></tr>
@@ -324,12 +326,16 @@ Geltungsbereich am 14. Juli 2020**[^t-3]**
 <tr><td>Nordmazedonien</td><td>23. Juli</td><td>1993 N</td><td>8. September</td><td>1991</td></tr>
 <tr><td>Norwegen</td><td>27. Januar</td><td>1971</td><td>27. April</td><td>1971</td></tr>
 <tr><td>Österreich</td><td>22. Juni</td><td>1990</td><td>26. September</td><td>1990</td></tr>
+<tr><td>Paraguay</td><td>31. Mai</td><td>2021 B</td><td>31. August</td><td>2021</td></tr>
+<tr><td>Peru\*</td><td>18. Juli</td><td>2022 B</td><td>18. Oktober</td><td>2022</td></tr>
 <tr><td>Polen</td><td>22. Oktober</td><td>2013 B</td><td>22. Januar</td><td>2014</td></tr>
 <tr><td>Rumänien</td><td>31. März</td><td>1998 B</td><td>30. Juni</td><td>1998</td></tr>
 <tr><td>Russland\*</td><td>8. September</td><td>1972</td><td>15. Dezember</td><td>1972</td></tr>
+<tr><td>Saudi-Arabien</td><td>3. September</td><td>2020 B</td><td>3. Dezember</td><td>2020</td></tr>
 <tr><td>Schweden</td><td>7. Juli</td><td>1970</td><td>27. April</td><td>1971</td></tr>
 <tr><td>Schweiz</td><td>27. Januar</td><td>1971</td><td>27. April</td><td>1971</td></tr>
 <tr><td>Serbien</td><td>14. Juni</td><td>2001 N</td><td>27. April</td><td>1992</td></tr>
+<tr><td>Singapur</td><td>19. Dezember</td><td>2019 B</td><td>19. März</td><td>2020</td></tr>
 <tr><td>Slowakei</td><td>30. Dezember</td><td>1992 N</td><td>1. Januar</td><td>1993</td></tr>
 <tr><td>Slowenien</td><td>12. Juni</td><td>1992 N</td><td>25. Juni</td><td>1991</td></tr>
 <tr><td>Spanien</td><td>10. August</td><td>1973</td><td>17. November</td><td>1973</td></tr>
@@ -343,7 +349,8 @@ Geltungsbereich am 14. Juli 2020**[^t-3]**
 <tr><td>Uruguay</td><td>19. Oktober</td><td>1999 B</td><td>19. Januar</td><td>2000</td></tr>
 <tr><td>Usbekistan</td><td>19. April</td><td>2006 B</td><td>19. Juli</td><td>2006</td></tr>
 <tr><td>Vereinigtes Königreich</td><td>21. Juli</td><td>2003 B</td><td>21. Oktober</td><td>2003</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Weltorganisation für geistiges Eigentum: www.wipo.int/ &gt; Français &gt; Savoirs &gt; Traités administrés par l’OMPI eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td>Insel Man</td><td>23. Dezember</td><td>2020</td><td>23. März</td><td>2021</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Weltorganisation für geistiges Eigentum: www.wipo.int/ &gt; Français &gt; Sources d’information &gt; Traités administrés par l’OMPI &gt; Classification eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Abkommen gilt nicht für die Färöer.</td></tr>
 </table>
 
-[^t-3]: [AS 1973 1720](https://fedlex.data.admin.ch/eli/oc/1973/1720_1720_1720), [1977 227](https://fedlex.data.admin.ch/eli/oc/1977/227_227_227), [1982 1939](https://fedlex.data.admin.ch/eli/oc/1982/1939_1939_1939),[1990 1621](https://fedlex.data.admin.ch/eli/oc/1990/1621_1621_1621), [2003 3425](https://fedlex.data.admin.ch/eli/oc/2003/483), [2006 4435](https://fedlex.data.admin.ch/eli/oc/2006/676), [2009 3191](https://fedlex.data.admin.ch/eli/oc/2009/409)[2014 963](https://fedlex.data.admin.ch/eli/oc/2014/214), [2017 4053](https://fedlex.data.admin.ch/eli/oc/2017/481), [2020 3519](https://fedlex.data.admin.ch/eli/oc/2020/619). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-3]: [AS 1971 378](https://fedlex.data.admin.ch/eli/oc/1971/378_378_378); [1973 1720](https://fedlex.data.admin.ch/eli/oc/1973/1720_1720_1720); [1977 227](https://fedlex.data.admin.ch/eli/oc/1977/227_227_227); [1982 1939](https://fedlex.data.admin.ch/eli/oc/1982/1939_1939_1939); [1990 1621](https://fedlex.data.admin.ch/eli/oc/1990/1621_1621_1621); [2003 3425](https://fedlex.data.admin.ch/eli/oc/2003/483); [2006 4435](https://fedlex.data.admin.ch/eli/oc/2006/676); [2009 3191](https://fedlex.data.admin.ch/eli/oc/2009/409); [2014 963](https://fedlex.data.admin.ch/eli/oc/2014/214); [2017 4053](https://fedlex.data.admin.ch/eli/oc/2017/481); [2020 3519](https://fedlex.data.admin.ch/eli/oc/2020/619); [2022 493](https://fedlex.data.admin.ch/eli/oc/2022/493). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht https://www.fedlex.admin.ch/de/treaty.
