@@ -3,18 +3,18 @@ sr: "362"
 title: "Arrêté fédéral du 17 décembre 2004 portant approbation et mise en uvre des accords bilatéraux d'association à l'Espace Schengen et à l'Espace Dublin"
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/112"
 language: fr
-version: 2008-12-12
+version: 2022-09-01
 adopted: 2004-12-17
 in_force: 2008-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/112/20081212/fr/xml/fedlex-data-admin-ch-eli-cc-2008-112-20081212-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/112/20081212/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/112/20220901/fr/xml/fedlex-data-admin-ch-eli-cc-2008-112-20220901-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/112/20220901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Arrêté fédéral portant approbation et mise en œuvre des accords bilatéraux d’association à l’Espace Schengen et à l’Espace Dublin
 
-du 17 décembre 2004 (Etat le 12 décembre 2008)
+du 17 décembre 2004 (État le 1<sup>er</sup> septembre 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -40,6 +40,8 @@ Sont approuvés:
 
 <sup>3</sup> Le Corps des gardes-frontière accomplit des tâches de sécurité en collaboration avec les polices cantonales et la police fédérale, la souveraineté policière des cantons étant préservée. Le Corps des gardes-frontière dispose d’un effectif au moins égal à celui du 31 décembre 2003.
 
+<sup>3bis</sup> La mise à la disposition de l’Agence européenne de garde-frontières et de garde-côtes, par la Suisse, de ressources en personnel ne doit pas se faire au détriment de la protection nationale aux frontières.[^1-6]
+
 <sup>4</sup> Le Conseil fédéral est autorisé à ratifier les accords énumérés à l’al. 1.
 
 [^1-1]: [RS 0.362.31](https://fedlex.data.admin.ch/eli/cc/2008/113)
@@ -47,6 +49,7 @@ Sont approuvés:
 [^1-3]: [RS 0.362.32](https://fedlex.data.admin.ch/eli/cc/2008/116)
 [^1-4]: [RS 0.362.1](https://fedlex.data.admin.ch/eli/cc/2008/117)
 [^1-5]: [RS 138.1](https://fedlex.data.admin.ch/eli/cc/2000/229)
+[^1-6]: Introduit par l’annexe ch. 2 de l’AF du 1<sup>er</sup> oct. 2021 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et l’Union européenne concernant la reprise du règlement (UE) 2019/1896 relatif au corps européen de garde-frontières et de garde-côtes, en vigueur depuis le 1<sup>er</sup> sept. 2022 ([RO 2022 462](https://fedlex.data.admin.ch/eli/oc/2022/462); [FF 2020 6893](https://fedlex.data.admin.ch/eli/fga/2020/1902)).
 
 #### Art. 2
 

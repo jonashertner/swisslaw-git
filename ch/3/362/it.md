@@ -3,18 +3,18 @@ sr: "362"
 title: "Decreto federale del 17 dicembre 2004 che approva e traspone nel diritto svizzero gli accordi bilaterali con l'UE per l'associazione della Svizzera alla normativa di Schengen e Dublino"
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/112"
 language: it
-version: 2008-12-12
+version: 2022-09-01
 adopted: 2004-12-17
 in_force: 2008-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/112/20081212/it/xml/fedlex-data-admin-ch-eli-cc-2008-112-20081212-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/112/20081212/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/112/20220901/it/xml/fedlex-data-admin-ch-eli-cc-2008-112-20220901-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/112/20220901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Decreto federale che approva e traspone nel diritto svizzero gli accordi bilaterali con l’UE per l’associazione della Svizzera alla normativa di Schengen e Dublino
 
-del 17 dicembre 2004 (Stato 12 dicembre 2008)
+del 17 dicembre 2004 (Stato 1° settembre 2022)
 
 *L’Assemblea federale della Confederazione Svizzera,*
 
@@ -40,6 +40,8 @@ Sono approvati:
 
 <sup>3</sup> Il Corpo delle guardie di confine adempie compiti di sicurezza in collaborazione con la polizia cantonale e federale. La sovranità cantonale in materia di polizia permane intatta. Il Corpo delle guardie di confine conserva almeno gli effettivi di cui disponeva il 31 dicembre 2003.
 
+<sup>3bis</sup> Le risorse di personale messe a disposizione dalla Svizzera all’Agenzia europea della guardia di frontiera e costiera non possono andare a scapito della protezione delle frontiere nazionali.[^1-6]
+
 <sup>4</sup> Il Consiglio federale è autorizzato a ratificare gli accordi di cui al capoverso 1.
 
 [^1-1]: [RS 0.362.31](https://fedlex.data.admin.ch/eli/cc/2008/113)
@@ -47,6 +49,7 @@ Sono approvati:
 [^1-3]: [RS 0.362.32](https://fedlex.data.admin.ch/eli/cc/2008/116)
 [^1-4]: [RS 0.362.1](https://fedlex.data.admin.ch/eli/cc/2008/117)
 [^1-5]: [RS 138.1](https://fedlex.data.admin.ch/eli/cc/2000/229)
+[^1-6]: Introdotto dall’all. n. 2 del DF del 1° ott. 2021 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e l’UE concernente il recepimento del regolamento (UE) 2019/1896 relativo alla guardia di frontiera e costiera europea, in vigore dal 1° set. 2022 ([RU 2022 462](https://fedlex.data.admin.ch/eli/oc/2022/462); [FF 2020 6219](https://fedlex.data.admin.ch/eli/fga/2020/1902)).
 
 #### Art. 2
 
@@ -57,9 +60,9 @@ Il Consiglio federale è autorizzato a concludere i seguenti accordi in aggiunta
 
 #### Art. 3
 
-…[^3-1]
+...[^3-1]
 
-[^3-1]: Le modifiche possono essere consultate alla [RU 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112).
+[^3-1]: Le mod. possono essere consultate alla [RU 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112).
 
 #### Art. 4
 
@@ -69,6 +72,6 @@ Il Consiglio federale è autorizzato a concludere i seguenti accordi in aggiunta
 
 Data dell’entrata in vigore: Art. 3 n. 7 e 8: 1° marzo 2008[^4-1] Art. 3 n. 4 (art. 355*c* a 355*e)*: 1° giugno 2008[^4-2] Le rimanenti disposizioni: 12 dicembre 2008[^4-3]
 
-[^4-1]: DCF del 13 feb. 2008 (RU **2008** 479)
+[^4-1]: DCF del 13 feb. 2008 (RU **2008** 479).
 [^4-2]: O del 7 mag. 2008 ([RU 2008 2227](https://fedlex.data.admin.ch/eli/oc/2008/324)).
 [^4-3]: O del 26 nov. 2008 ([RU 2008 5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 1).
