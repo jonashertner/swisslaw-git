@@ -3,43 +3,45 @@ canton: VS
 number: "930.1"
 title: Gesetz über die Gewerbepolizei
 language: de
-version: 2010-01-01
-corrected: 2017-10-16
-version_adopted: 2009-11-12
+version: 2022-09-01
+version_adopted: 2018-06-14
 adopted: 2007-02-08
 in_force: 2008-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/930.1"
-pdf: "https://lex.vs.ch/api/de/versions/112/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/3028/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über die Gewerbepolizei
 
-vom 8. Februar 2007
+vom 08.02.2007 (Stand 01.09.2022)
 
 Der Grosse Rat des Kantons Wallis
 
+eingesehen die Artikel 10, 31 und 42 der Kantonsverfassung;
+
 eingesehen das Bundesgesetz über das Gewerbe der Reisenden vom 23. März 2001;
 
-eingesehen das Bundesgesetz über den Binnenmarkt vom 6. Oktober 1995; eingesehen das Bundesgesetz über Glücksspiele und Spielbanken vom 18. Dezember 1998;
+eingesehen das Bundesgesetz über den Binnenmarkt vom 6. Oktober 1995 (BGBM);
 
-eingesehen das Bundesgesetz über Filmproduktion und Filmkultur vom 14. Dezember 2001;
+eingesehen das Bundesgesetz über Filmproduktion und Filmkultur vom 14. Dezember 2001 (FiG);
 
-eingesehen das Einführungsgesetz zum Schweizerischen Zivilgesetzbuch vom 24. März 1998;
+eingesehen das Bundesgesetz gegen den unlauteren Wettbewerb vom 19. Dezember 1986 (UWG);
 
-eingesehen das Ausführungsgesetz zum Bundesgesetz über Glücksspiele und Spielbanken vom 6. Februar 2001;
+eingesehen die Bundesverordnung über die Bekanntgabe von Preisen vom 11. Dezember 1978 (PBV);
 
-eingesehen die Artikel 10, 31 und 42 der Kantonsverfassung;
+eingesehen das Einführungsgesetz zum Schweizerischen Zivilgesetzbuch vom 24. März 1998 (EGZGB);
+
+eingesehen das Ausführungsgesetz zum Bundesgesetz über Geldspiele vom 11. November 2020 (AGBGS);
+
+eingesehen das kantonale Gesetz über die Beherbergung, die Bewirtung und den Kleinhandel mit alkoholischen Getränken vom 8. April 2004 (GBB);
 
 auf Antrag des Staatsrates,
 
-verordnet:[^t-1]
+verordnet:
 
-[^t-1]: GS/VS 2007, 119
-
-### 1. Abschnitt: Allgemeine Bestimmungen
+## 1 Allgemeine Bestimmungen
 
 #### Art. 1
 
@@ -48,11 +50,8 @@ verordnet:[^t-1]
 <sup>1</sup> Das vorliegende Gesetz regelt:
 
 - a) die melde- oder bewilligungspflichtigen Gewerbetätigkeiten;
-
 - b) den Betrieb von Apparaten und Warenautomaten;
-
 - c) die Organisation von diversen Spielen und Wettbewerben;
-
 - d) den Betrieb von Spielsalons und ähnlichen Einrichtungen.
 
 <sup>2</sup> Vorbehalten bleiben die eidgenössischen und kantonalen Bestimmungen, insbesondere das Bundesgesetz über die Arbeit in Industrie, Gewerbe und Handel, die Bundesverordnung über die Bekanntgabe von Preisen und das Gesetz betreffend die Ladenöffnung.
@@ -61,13 +60,13 @@ verordnet:[^t-1]
 
 **Gleichstellung**
 
-Im vorliegenden Gesetz gilt jede Bezeichnung der Person, des Statuts oder der Funktion in gleicher Weise für Mann oder Frau.
+<sup>1</sup> Im vorliegenden Gesetz gilt jede Bezeichnung der Person, des Statuts oder der Funktion in gleicher Weise für Mann oder Frau.
 
 #### Art. 3
 
 **Gesteigerter Gemeingebrauch**
 
-Der gesteigerte Gemeingebrauch von öffentlichem Grund und Boden zur Ausübung einer Tätigkeit im Rahmen des vorliegenden Gesetzes oder des Bundesgesetzes über das Gewerbe der Reisenden unterliegt einer Bewilligung der zuständigen Behörde.
+<sup>1</sup> Der gesteigerte Gemeingebrauch von öffentlichem Grund und Boden zur Ausübung einer Tätigkeit im Rahmen des vorliegenden Gesetzes oder des Bundesgesetzes über das Gewerbe der Reisenden unterliegt einer Bewilligung der zuständigen Behörde.
 
 #### Art. 4
 
@@ -81,9 +80,9 @@ Der gesteigerte Gemeingebrauch von öffentlichem Grund und Boden zur Ausübung e
 
 <sup>4</sup> Die Gegenstände mit sexuellem oder pornografischem Charakter dürfen weder in Schaufenstern angeboten werden noch von einem Durchgangsort aus ersichtlich sein.
 
-<sup>5</sup> Der Verkauf und die Abgabe von Tabakwaren an Jugendliche unter 16 Jahren sind verboten.
+<sup>5</sup> Der Verkauf und die Abgabe von Tabakwaren, nikotinhaltigen Produkten, elektronischen Zigaretten und legalem Cannabis an Jugendliche unter 18 Jahren sind verboten.
 
-### 2. Abschnitt: Melde- oder bewilligungspflichtige Gewerbetätigkeiten
+## 2 Melde- oder bewilligungspflichtige Gewerbetätigkeiten
 
 #### Art. 5
 
@@ -101,25 +100,104 @@ Der gesteigerte Gemeingebrauch von öffentlichem Grund und Boden zur Ausübung e
 
 <sup>2</sup> Die Organisation von Märkten, Messen, Ausstellungen und ähnlichen Veranstaltungen unterliegt der Bewilligung der Gemeindebehörde.
 
-### 3. Abschnitt: Apparate, Warenautomaten, diverse Spiele
+#### Art. 6a
 
-und Wettbewerbe
+**Ausübung des Pfandleihgewerbes**
+
+<sup>1</sup> Die Ausübung des Pfandleihgewerbes unterliegt der Bewilligung durch den Staatsrat, der seine Zuständigkeit einem Departement übertragen kann.
+
+<sup>2</sup> Die Bewilligung wird einer natürlichen Person ab dem vollendeten 18. Lebensjahr erteilt, die als Verantwortliche bezeichnet wurde und die:
+
+- a) durch Vorlage eines Strafregisterauszugs nachweist, dass in den letzten fünf Jahren vor Gesuchseinreichung gegen sie keine Verurteilung wegen eines Verbrechens, eines Vergehens oder einer Übertretung vorlag, die eine Gefahr für die Ausübung des Pfandleihgewerbes darstellen könnte;
+- b) eine Bestätigung des Betreibungsamts ihres Wohnsitzes oder ihrer Wohnsitze der letzten fünf Jahre vorlegt, aus der hervorgeht, dass gegen sie keine Verlustscheine bestehen, sowie eine Bestätigung des Konkursamts ihres Wohnsitzes oder ihrer Wohnsitze der letzten fünf Jahre, aus der hervorgeht, dass gegen sie kein Konkursverfahren eröffnet wurde;
+- c) wenn sie nicht Schweizerin ist, eine Niederlassungsbewilligung oder, falls nicht vorhanden, eine Bewilligung zur Ausübung der betreffenden Tätigkeit vorlegt;
+- d) durch Vorlage eines Handelsregisterauszugs und einer Bestätigung nachweist, dass die Gesellschaft ihr die Geschäftsführung oder -leitung der betreffenden Tätigkeit überträgt, falls die Gesuchstellerin für eine Gesellschaft arbeitet und deren Geschäftsführerin, Direktorin oder Verwalterin ist.
+
+<sup>3</sup> Die Bewilligung wird für die Dauer von fünf Jahren ausgestellt. Sie wird gestützt auf eine Neubeurteilung des Dossiers für die gleiche Dauer erneuert. Für die Erneuerung gelten die gleichen Grundsätze wie für die Erteilung.
+
+#### Art. 6b
+
+**Sicherheiten**
+
+<sup>1</sup> Der Gesuchsteller muss durch Sicherheiten die Schadenersatzansprüche von Kunden garantieren.
+
+<sup>2</sup> Der Betrag der verlangten Sicherheiten wird in der Bewilligung festgesetzt und beträgt zwischen 10'000 und 100'000 Franken.
+
+<sup>3</sup> Die Sicherheiten können geleistet werden in Form:
+
+- a) einer Bürgschaft oder Garantieerklärung einer Bank oder einer Versicherungsanstalt;
+- b) einer Garantieversicherung, sofern die Versicherungsleistungen unabhängig von der Prämienzahlung erbracht werden;
+- c) von Kassenobligationen;
+- d) einer Bareinlage.
+
+<sup>4</sup> Die Erträge aus Kassenobligationen und Bareinlagen stehen dem Depositar zu.
+
+#### Art. 6c
+
+**Bedingungen**
+
+<sup>1</sup> Die Geschäfte sind nur gültig, wenn die Verpflichtungen in schriftlicher Form festgehalten sind und der gewährte Zinssatz nicht mehr als 12 Prozent pro Jahr beträgt.
+
+<sup>2</sup> Kosten für Bearbeitung, Gutachten, Versicherung, Vermittlung oder Depot können zum höchsten Zinssatz hinzugerechnet werden. Diese Kosten müssen mit Präzisierung der verschiedenen Beträge detailliert im Pfandleihvertrag aufgeführt werden.
+
+<sup>3</sup> Unter Androhung des Verfalls der bewilligten Kredite ist es dem Pfandleiher untersagt, den Vertragsgegenstand, der vertraglich noch der anderen Partei zufallen könnte, auf irgendeine Art und Weise zu veräussern oder ihn zu beschädigen, zu verändern, für den Eigenbedarf zu nutzen oder einem Dritten zum Gebrauch zu überlassen.
+
+#### Art. 6d
+
+**Kontrollpflicht**
+
+<sup>1</sup> Wer auf Kantonsgebiet das Pfandleihgewerbe ausüben will, muss sich über das Verfügungsrecht seiner Anbieter vergewissern. Besondere Vorsicht ist geboten bei Waren, Wertsachen und Gegenständen, die normalerweise unter Eigentumsvorbehalt verkauft werden.
+
+<sup>2</sup> Der Kauf jedes Gegenstands, dessen kriminelle Herkunft zu vermuten ist, muss aufgeschoben werden.
+
+#### Art. 6e
+
+**Auskunftspflicht**
+
+<sup>1</sup> Wer auf Kantonsgebiet das Pfandleihgewerbe ausüben will, muss jederzeit die Herkunft seiner Waren mit Buchungsbelegen und die vollständige Identität seiner Anbieter nachweisen können.
+
+<sup>2</sup> Das Recht zur Kontrolle dieser Belege ist vorbehalten.
+
+#### Art. 6f
+
+**Aktivität als Vermieter**
+
+<sup>1</sup> Jede natürliche oder juristische Person, die zu touristischen Zwecken eine Beherbergung gegen Entgelt, jedoch ohne hotelmässige Leistungen vermietet oder untervermietet, muss sich bei der Gemeindebehörde des Ortes, an dem sich die Unterkunft befindet, anmelden und ihr die für die Führung des Vermieterregisters erforderlichen Daten zur Verfügung stellen.
+
+<sup>2</sup> Die entgeltliche Bereitstellung der gesamten Wohnung oder eines Teils davon ab mindestens einer Übernachtung stellt eine Vermietung oder Untervermietung von Wohnraum zu touristischen Zwecken im Sinne des vorliegenden Gesetzes dar.
+
+<sup>3</sup> Artikel 15 GBB betreffend die Gästekontrolle gilt sinngemäss für Unterkünfte, die zur entgeltlichen touristischen Beherbergung, jedoch ohne hotelmässige Leistungen genutzt werden.
+
+#### Art. 6g
+
+**Vermieterregister**
+
+<sup>1</sup> Die Gemeindebehörden führen ein Register der natürlichen und juristischen Personen, die auf ihrem Gebiet Unterkünfte zu touristischen Zwecken vermieten oder untervermieten.
+
+<sup>2</sup> Das Register enthält für jeden Vermieter folgende Angaben:
+
+- a) wenn der Vermieter eine natürliche Person ist: Name, Vorname, Geburtsdatum und Adresse des Hauptwohnsitzes;
+- b) wenn der Vermieter eine juristische Person ist: Geschäftsbezeichnung und Geschäftssitz;
+- c) die genaue Adresse und Lage der Unterkünfte;
+- d) die Aufnahmekapazität der vermieteten oder untervermieteten Unterkunft.
+
+<sup>3</sup> Die erfassten Daten sind den kommunalen und kantonalen Behörden für polizeiliche oder steuerliche Kontrollzwecke sowie zu statistischen Zwecken zugänglich.
+
+<sup>4</sup> Die geltenden Datenschutzbestimmungen bleiben vorbehalten.
+
+## 3 Apparate, Warenautomaten, diverse Spiele und Wettbewerbe
 
 #### Art. 7
 
 **Definitionen**
 
-Im Sinne des vorliegenden Gesetzes versteht man unter:
+<sup>1</sup> Im Sinne des vorliegenden Gesetzes versteht man unter:
 
-- a) Unterhaltungsspielapparaten die automatischen oder nicht automatischen Apparate mit einem kostenpflichtigen Spielangebot ohne Geldgewinn, wie Flipper, Video- und/oder Computerspiele mit Spielkonsole;
-
-- b) Geschicklichkeitsspielapparaten die automatischen Apparate, die als solche von der zuständigen Bundesbehörde genehmigt sind und die Erzielung eines Geldgewinns zulassen;
-
-- c) anderen Apparaten die automatischen oder nicht automatischen Apparate mit einem kostenpflichtigen Angebot, wie, Staubsauger, Fotoapparate, Fotokopierer, Fernrohre;
-
-- d) Warenautomaten die automatischen Apparate mit einem kostenpflichtigen Angebot, wie Treibstoff, Zigaretten, alkoholfreie Getränke, Speisen, Videokassetten und/oder DVD oder andere Multimediaträger;
-
-- e) diversen Spielen und Wettbewerben die Spiele und Wettbewerbe gegen Einschreibegebühr, wie Glücksräder, Rätselspiele, Wettfischen, Wettjassen.
+- a) Unterhaltungsspielapparaten: die automatischen oder nicht automatischen Apparate mit einem kostenpflichtigen Spielangebot ohne Geldgewinn, wie Flipper, Video- und/oder Computerspiele mit Spielkonsole;
+- b) Geschicklichkeitsspielapparaten: die automatischen Apparate, die als solche von der zuständigen Bundesbehörde genehmigt sind und die Erzielung eines Geldgewinns zulassen;
+- c) anderen Apparaten: die automatischen oder nicht automatischen Apparate mit einem kostenpflichtigen Angebot, wie, Staubsauger, Fotoapparate, Fotokopierer, Fernrohre;
+- d) Warenautomaten: die automatischen Apparate mit einem kostenpflichtigen Angebot, wie Treibstoff, Zigaretten, alkoholfreie Getränke, Speisen, Videokassetten und/oder DVD oder andere Multimediaträger;
+- e) diversen Spielen und Wettbewerben: die Spiele und Wettbewerbe gegen Einschreibegebühr, wie Glücksräder, Rätselspiele, Wettfischen, Wettjassen.
 
 #### Art. 8
 
@@ -137,13 +215,13 @@ Im Sinne des vorliegenden Gesetzes versteht man unter:
 
 **Nicht bewilligungspflichtige Apparate**
 
-Keiner Bewilligung unterliegen:
+<sup>1</sup> Keiner Bewilligung unterliegen:
 
 - a) die Apparate zur Ausübung sportlicher Tätigkeiten, wie Billardspiele, Tischfussball, Dart-Wurfspiele, Kegelspiele und Bowlings;
-
 - b) die Apparate, die ausschliesslich Kondome anbieten;
-
-- c) die öffentlichen Apparate, wie Telefone, Verteiler von Briefmarken, Postkarten, Zeitungen, Fahrkarten öffentlicher Transportmittel und Parkuhren.
+- c) die öffentlichen Apparate, wie Telefone, Verteiler von Briefmarken, Postkarten, Zeitungen, Fahrkarten öffentlicher Transportmittel und Parkuhren;
+- d) die Apparate, die ausschliesslich vom Betreiber produzierte oder verarbeitete Landwirtschaftsprodukte von einem oder mehreren Landwirtschaftsbetrieben oder von Einheiten, die von diesen für den Verkauf ihrer eigenen Produktion eingerichtet wurden, abgeben, sofern der Betreiber des Apparats auch dessen Eigentümer ist;
+- e) die zur Abgabe von gegorenen Getränken betriebenen Systeme innerhalb von Räumlichkeiten und Plätzen mit einer Betriebsbewilligung im Sinne des Gesetzes über die Beherbergung, Bewirtung und den Kleinhandel mit alkoholischen Getränken. Bei Selbstbedienung müssen diese Systeme die Einhaltung der Altersgrenze für den Konsum von gegorenen Getränken sicherstellen können.
 
 #### Art. 10
 
@@ -152,16 +230,16 @@ Keiner Bewilligung unterliegen:
 <sup>1</sup> Verboten ist der Betrieb von:
 
 - a) Geschicklichkeitsspielapparaten;
-
 - b) Warenautomaten, die alkoholische Getränke anbieten;
-
 - c) Warenautomaten, die insbesondere Multimediaträger (DVD, Videokassetten, usw.), Zeitschriften, Bücher, Spiele oder andere Gegenstände anbieten und die Sicherstellung der Einhaltung der Altersgrenzen im Sinne von Artikel 4 Absatz 1 nicht erlauben.
 
 <sup>2</sup> Es ist verboten mittels Warenautomaten, die nicht unter ständiger Beaufsichtigung sind, Tabakwaren zu verkaufen.
 
 #### Art. 11
 
-Räumlichkeiten und Plätze der Beherbergung und/oder der Bewirtung In den Räumlichkeiten und Plätzen der Beherbergung und/oder der Bewirtung können höchstens vier bewilligungspflichtige Unterhaltungsspielapparate betrieben werden.
+**Räumlichkeiten und Plätze der Beherbergung und/oder der Bewirtung**
+
+<sup>1</sup> In den Räumlichkeiten und Plätzen der Beherbergung und/oder der Bewirtung können höchstens vier bewilligungspflichtige Unterhaltungsspielapparate betrieben werden.
 
 #### Art. 12
 
@@ -171,7 +249,7 @@ Räumlichkeiten und Plätze der Beherbergung und/oder der Bewirtung In den Räum
 
 <sup>2</sup> Vorbehalten bleiben die eidgenössischen und kantonalen Bestimmungen betreffend die Lotterien und gewerbsmässigen Wetten.
 
-### 4. Abschnitt: Spielsalons und ähnliche Einrichtungen
+## 4 Spielsalons und ähnliche Einrichtungen
 
 #### Art. 13
 
@@ -187,7 +265,7 @@ Räumlichkeiten und Plätze der Beherbergung und/oder der Bewirtung In den Räum
 
 **Persönliche und betriebliche Voraussetzungen**
 
-<sup>1</sup> Wer eine Bewilligung beantragt, muss einen guten Leumund nachweisen. Es darf insbesondere innerhalb der letzten zwei Jahre vor der Gesuchseinreichung keine strafrechtliche Verurteilung wegen eines Verbrechens, eines Vergehens oder einer Übertretung vorliegen, welche eine Gefahr für den Betrieb eines Spielsalons oder einer ähnlichen Einrichtung darstellen kann.
+<sup>1</sup> Gegen den Gesuchsteller darf keine strafrechtliche Verurteilung wegen eines Verbrechens, eines Vergehens oder einer Übertretung vorliegen, die beim Betrieb eines Spielsalons oder einer ähnlichen Einrichtung eine Gefahr darstellen kann.
 
 <sup>2</sup> Die in der Bewilligung festgelegten Räumlichkeiten haben insbesondere den Bestimmungen über die Raumplanung, das Bauwesen und den Umweltschutz zu entsprechen.
 
@@ -217,7 +295,7 @@ Räumlichkeiten und Plätze der Beherbergung und/oder der Bewirtung In den Räum
 
 <sup>3</sup> Vorbehalten bleiben die Gesetzesbestimmungen über den Schutz der Minderjährigen.
 
-### 5. Abschnitt: Gebühren
+## 5 Gebühren
 
 #### Art. 18
 
@@ -226,6 +304,8 @@ Räumlichkeiten und Plätze der Beherbergung und/oder der Bewirtung In den Räum
 <sup>1</sup> Die Gebühren betreffend das Gewerbe der Reisenden werden durch die Bundesgesetzgebung über das Gewerbe der Reisenden geregelt.
 
 <sup>2</sup> Die Organisation von Märkten, Messen, Ausstellungen und ähnlichen Veranstaltungen unterliegt einer Gebühr, die gemäss dem Gesetz betreffend den Tarif der Kosten und Entschädigungen vor Gerichts- oder Verwaltungsbehörden festgelegt wird.
+
+<sup>3</sup> Für die Erteilung und die Erneuerung einer Bewilligung zur Ausübung des Pfandleihgewerbes wird je nach Umfang und Komplexität der geleisteten Arbeit eine Gebühr von 50 bis 1'000 Franken erhoben.
 
 #### Art. 19
 
@@ -239,7 +319,7 @@ Räumlichkeiten und Plätze der Beherbergung und/oder der Bewirtung In den Räum
 
 **Spielsalons und ähnliche Einrichtungen**
 
-Die Erteilung der Bewilligung betreffend die Inbetriebnahme, die Übernahme oder die Änderung eines Spielsalons oder einer ähnlichen Einrichtung unterliegt einer Gebühr zwischen 300 und 600 Franken.
+<sup>1</sup> Die Erteilung der Bewilligung betreffend die Inbetriebnahme, die Übernahme oder die Änderung eines Spielsalons oder einer ähnlichen Einrichtung unterliegt einer Gebühr zwischen 300 und 600 Franken.
 
 #### Art. 21
 
@@ -249,13 +329,15 @@ Die Erteilung der Bewilligung betreffend die Inbetriebnahme, die Übernahme oder
 
 <sup>2</sup> Fünfzig Prozent der von der kantonalen Behörde einkassierten Gebühren für die Apparate, Warenautomaten, Spielsalons und ähnlichen Einrichtungen werden an die Standortgemeinde rückvergütet.
 
-### 6. Abschnitt: Vollzug und Verfahren
+## 6 Vollzug und Verfahren
 
 #### Art. 22
 
 **Zuständige Behörden**
 
-<sup>1</sup> Die zuständige kantonale Behörde ist die mit der Gewerbepolizei beauftragte Dienststelle.
+<sup>1</sup> Die zuständige kantonale Behörde ist die mit der Gewerbepolizei beauftragte Dienststelle. Vorbehalten bleibt die Kompetenz des Staatsrates in Sachen Pfandleihgewerbe, die er an ein Departement übertragen kann.
+
+<sup>1<sup>bis</sup></sup> Die mit der Gewerbepolizei beauftragte Dienststelle führt die Kontrolle der Preisbekanntgabe durch.
 
 <sup>2</sup> Die zuständige Gemeindebehörde ist der Gemeinderat. Dieser ist zudem für den Vollzug der Bestimmung über den Jugendschutz zuständig.
 
@@ -263,17 +345,17 @@ Die Erteilung der Bewilligung betreffend die Inbetriebnahme, die Übernahme oder
 
 **Meldungen**
 
-Die Meldung der Ausübung einer Gewerbetätigkeit oder der Organisation einer musikalischen, sportlichen, kulturellen und ähnlichen Veranstaltung hat mindestens 30 Tage vor Aufnahme der Tätigkeit oder Beginn der Veranstaltung bei der Gemeindebehörde zu erfolgen.
+<sup>1</sup> Die Meldung der Ausübung einer Gewerbetätigkeit oder der Organisation einer musikalischen, sportlichen, kulturellen und ähnlichen Veranstaltung hat mindestens 30 Tage vor Aufnahme der Tätigkeit oder Beginn der Veranstaltung bei der Gemeindebehörde zu erfolgen.
 
 #### Art. 24
 
 **Bewilligungen**
 
-<sup>1</sup> Jedes Gesuch um Erteilung einer Bewilligung, ausgenommen jenes betreffend einen Spielsalon oder eine ähnliche Einrichtung, ist bei der zuständigen Behörde mindestens 30 Tage vor Beginn der Veranstaltung, der Inbetriebnahme des Apparates oder der Durchführung von diversen Spielen und Wettbewerben einzureichen.
+<sup>1</sup> Jedes Gesuch um Erteilung einer Bewilligung, ausgenommen in Bezug auf einen Spielsalon oder eine ähnliche Einrichtung, ist bei der zuständigen Behörde mindestens 30 Tage vor Beginn der Tätigkeit oder der Veranstaltung, der Inbetriebnahme des Apparates oder der Durchführung diverser Spiele und Wettbewerbe einzureichen.
 
 <sup>2</sup> Jedes Gesuch betreffend einen Spielsalon oder eine ähnliche Einrichtung ist mindestens 60 Tage vor der Inbetriebnahme, der Übernahme oder der Änderung bei der kantonalen Behörde einzureichen und im Amtsblatt sowie in der betreffenden Gemeinde zu veröffentlichen.
 
-### 7. Abschnitt: Verwaltungsmassnahmen
+## 7 Verwaltungsmassnahmen
 
 #### Art. 25
 
@@ -282,7 +364,6 @@ Die Meldung der Ausübung einer Gewerbetätigkeit oder der Organisation einer mu
 <sup>1</sup> Eine Bewilligung kann durch die Erteilungsbehörde entzogen werden, wenn:
 
 - a) der Bewilligungsinhaber zu deren Erlangung falsche Angaben gemacht hat;
-
 - b) die Voraussetzungen für die Erteilung der Bewilligung nicht mehr erfüllt sind.
 
 <sup>2</sup> Der Entzug der Bewilligung zum Betrieb eines Spielsalons oder einer ähnlichen Einrichtung hat die sofortige Schliessung zur Folge.
@@ -305,21 +386,19 @@ Die Meldung der Ausübung einer Gewerbetätigkeit oder der Organisation einer mu
 
 <sup>3</sup> Die kommunalen Polizeiorgane überprüfen die Bewilligungen betreffend das Gewerbe der Reisenden und beim Schausteller- und Zirkusgewerbe das Vorliegen und die Gültigkeit des Nachweises der Sicherheit und einer ausreichenden Haftpflichtversicherung. Sie zeigen der kantonalen Behörde die Vergehen an.
 
-### 8. Abschnitt: Rechtspflege und Strafbestimmungen
+## 8 Rechtspflege und Strafbestimmungen
 
 #### Art. 28
 
 **Rechtspflege**
 
-<sup>1</sup> Die Einsprachen gegen ein Gesuch betreffend einen Spielsalon oder eine ähnliche Einrichtung können bei der zuständigen Behörde innerhalb von 30 Tagen ab Veröffentlichung im Amtsblatt eingereicht werden.[^28-1]
+<sup>1</sup> Die Einsprachen gegen ein Gesuch betreffend einen Spielsalon oder eine ähnliche Einrichtung können bei der zuständigen Behörde innerhalb von 30 Tagen ab Veröffentlichung im Amtsblatt eingereicht werden.
 
-<sup>2</sup> Die Entscheide der Gemeindebehörde und diejenigen der kantonalen Behörde betreffend die Inbetriebnahme, die Übernahme oder die Änderung eines Spielsalons oder einer ähnlichen Einrichtung unterliegen der Beschwerde an den Staatsrat.
+<sup>2</sup> Die Entscheide der Gemeindebehörde und jene der kantonalen Behörde betreffend das Pfandleihgewerbe und die Inbetriebnahme, die Übernahme oder die Änderung eines Spielsalons oder einer ähnlichen Einrichtung unterliegen der Beschwerde an den Staatsrat.
 
 <sup>3</sup> Die übrigen Entscheide der kantonalen Behörde unterliegen der Einsprache. Einzig der Einspracheentscheid unterliegt der Beschwerde an den Staatsrat.
 
 <sup>4</sup> Die Bestimmungen des Gesetzes über das Verwaltungsverfahren und die Verwaltungsrechtspflege sind anwendbar.
-
-[^28-1]: Fassung gemäss Ziff. I der Änderung vom 12. Nov. 2009, in Kraft seit dem 1. Jan. 2010 (Abl. Nr. 1/2010)
 
 #### Art. 29
 
@@ -339,13 +418,13 @@ Die Meldung der Ausübung einer Gewerbetätigkeit oder der Organisation einer mu
 
 <sup>2</sup> Die kommunale Strafbehörde ist der Gemeinderat.
 
-### 9. Abschnitt: Übergangs- und Schlussbestimmungen
+## 9 Übergangs- und Schlussbestimmungen
 
 #### Art. 31
 
 **Nach altem Recht erteilte Bewilligungen**
 
-Unter Vorbehalt der Bestimmungen des Bundesgesetzes über das Gewerbe der Reisenden bleiben die erteilten kantonalen Bewilligungen bis zu ihrem Verfall gültig.
+<sup>1</sup> Unter Vorbehalt der Bestimmungen des Bundesgesetzes über das Gewerbe der Reisenden bleiben die erteilten kantonalen Bewilligungen bis zu ihrem Verfall gültig.
 
 #### Art. 32
 
@@ -367,10 +446,9 @@ Unter Vorbehalt der Bestimmungen des Bundesgesetzes über das Gewerbe der Reisen
 
 **Aufhebung**
 
-Alle dem vorliegenden Gesetz widersprechenden Bestimmungen sind aufgehoben, insbesondere:
+<sup>1</sup> Alle dem vorliegenden Gesetz widersprechenden Bestimmungen sind aufgehoben, insbesondere:
 
 - a) das Gesetz über die Handelspolizei vom 20. Januar 1969 mit den Abänderungen vom 30. Januar 1985;
-
 - b) das Einführungsgesetz zum Bundesgesetz über das Filmwesen vom 17. Mai 1963.
 
 #### Art. 35
@@ -379,10 +457,12 @@ Alle dem vorliegenden Gesetz widersprechenden Bestimmungen sind aufgehoben, insb
 
 <sup>1</sup> Das vorliegende Gesetz untersteht dem fakultativen Referendum.
 
-<sup>2</sup> Der Staatsrat bestimmt den Zeitpunkt des Inkrafttretens.[^35-1]
+<sup>2</sup> Der Staatsrat bestimmt den Zeitpunkt des Inkrafttretens.
 
-So angenommen in zweiter Lesung im Grossen Rat in Sitten, den 8. Februar 2007.
+## T1 Übergangsbestimmung der Änderung vom 14.06.2018
 
-Der Präsident des Grossen Rates: Albert Bétrisey Der Chef des Parlamentsdienstes: Claude Bumann
+#### Art. T1-1
 
-[^35-1]: Inkrafttreten am 1. Jan. 2008 gemäss Beschluss vom 16. Aug. 2007 (GS/VS 2007, 506)
+<sup>1</sup> Die unter Artikel 9 Buchstabe d fallenden Warenautomaten sind ab dem Kalenderjahr, in dem die vorliegende Änderung in Kraft tritt, weder bewilligungs- noch gebührenpflichtig. Dasselbe gilt, wenn die Änderung während des Jahres in Kraft tritt. Für das betreffende Jahr bereits erhobene Gebühren werden rückerstattet.
+
+CSW RO/AGS 2007 f 118, 494 | d 119, 506
