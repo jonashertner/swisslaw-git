@@ -4,13 +4,13 @@ number: "414.300"
 title: Studienreglement über die Studiengänge Höhere Fachschule (HF) Kindheitspädagogik und Arbeitsagogische Leitung der Fachhochschule Westschweiz Valais-Wallis
 short: Reglement HF Soziales
 language: de
-version: 2022-08-01
-valid_until: 2022-08-31
-version_adopted: 2022-05-11
+version: 2022-09-01
+valid_until: 2025-07-31
+version_adopted: 2023-03-08
 adopted: 2022-05-11
 in_force: 2022-08-01
 url: "https://lex.vs.ch/app/de/texts_of_law/414.300"
-pdf: "https://lex.vs.ch/api/de/versions/3032/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3196/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/de/versions/3032/pdf_file"
 
 (Reglement HF Soziales)
 
-vom 11.05.2022 (Stand 01.08.2022)
+vom 11.05.2022 (Stand 01.09.2022)
 
 Der Staatsrat des Kantons Wallis
 
@@ -298,6 +298,12 @@ verordnet:[^ingress-1]
 <sup>3</sup> Wird die Studiengebühr nicht fristgerecht bezahlt, führt dies zum Abbruch der Ausbildung.
 
 <sup>4</sup> Jeder, wegen Nichtbezahlung ausgeschlossene Studierende, ist verpflichtet, seine Schuld im Falle eines neuen Zulassungsgesuchs vorgängig zu begleichen.
+
+#### Art. 22a
+
+<sup>1</sup> Die Studierenden, die nicht den Kriterien des Wohnortes in einem zahlungspflichtigen Kanton gemäss der interkantonalen Vereinbarung über Beiträge an die Bildungsgänge der höheren Fachschulen (HFSV) vom 22. März 2012 entsprechen, entrichten neben der ordentlichen Studiengebühr im Sinne von Artikel 22 des vorliegenden Reglements zwecks Kostendeckung eine zusätzliche Gebühr pro Semester, welche sich auf einen Drittel des sich in Kraft befindenden HFSV-Beitrages pro Semester beläuft.
+
+<sup>2</sup> Diese zusätzliche Studiengebühr wird zu Beginn jedes Semesters in Rechnung gestellt. Die Leitung der Schule kann eine Staffelung der Zahlungsfristen gewähren.
 
 #### Art. 23
 

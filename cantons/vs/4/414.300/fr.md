@@ -4,13 +4,13 @@ number: "414.300"
 title: "Règlement d'études concernant les filières école supérieure (ES) éducation de l’enfance et maîtrise socioprofessionnelle de la Haute Ecole Spécialisée de Suisse occidentale Valais-Wallis"
 short: Règlement ES Social
 language: fr
-version: 2022-08-01
-valid_until: 2022-08-31
-version_adopted: 2022-05-11
+version: 2022-09-01
+valid_until: 2025-07-31
+version_adopted: 2023-03-08
 adopted: 2022-05-11
 in_force: 2022-08-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/414.300"
-pdf: "https://lex.vs.ch/api/fr/versions/3032/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3196/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/3032/pdf_file"
 
 (Règlement ES Social)
 
-du 11.05.2022 (état 01.08.2022)
+du 11.05.2022 (état 01.09.2022)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -69,7 +69,7 @@ ordonne:[^ingress-1]
 
 **Modalités et durée de la formation**
 
-<sup>1</sup> 2 modalités de formation sont proposées:
+<sup>1</sup> Deux modalités de formation sont proposées:
 
 - a) formation en cours d’emploi (dual): elle inclut la formation théorique et la formation pratique. L’étudiant effectue la formation pratique dans une activité professionnelle de la profession correspondante à un taux de 50 pour cent minimum;
 - b) formation à plein temps (avec stages): elle inclut la formation théorique et la formation pratique. La formation pratique est organisée en 3 stages effectués dans la profession correspondante et formant un module.
@@ -298,6 +298,14 @@ ordonne:[^ingress-1]
 <sup>3</sup> Le non-paiement de la taxe d'études dans les délais impartis entraîne l'interruption de la formation.
 
 <sup>4</sup> Tout étudiant exclu pour défaut de paiement est tenu de s'acquitter au préalable de sa dette en cas de nouvelle demande d'admission.
+
+#### Art. 22a
+
+**Taxe d’études supplémentaire**
+
+<sup>1</sup> Les étudiants ne répondant pas aux critères du domicile dans un canton débiteur au sens de l’AES s’acquittent, en sus de la taxe ordinaire au sens de l’article 22 du présent règlement, d’une taxe supplémentaire par semestre destinée à couvrir les coûts qui s’élève au tiers (1/3) de la contribution AES en vigueur.
+
+<sup>2</sup> Cette taxe d’études supplémentaire est facturée au début de chaque semestre. Des aménagements peuvent être accordés par la direction de l'école en matière de délais de paiement.
 
 #### Art. 23
 
