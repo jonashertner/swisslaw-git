@@ -3,11 +3,11 @@ sr: "414.110.37"
 title: Verordnung des ETH-Rates vom 13. November 2003 über die Eidgenössischen Technischen Hochschulen Zürich und Lausanne (ETHZ-ETHL-Verordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/17"
 language: de
-version: 2009-05-01
+version: 2022-09-01
 adopted: 2003-11-13
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/17/20090501/de/xml/fedlex-data-admin-ch-eli-cc-2004-17-20090501-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/17/20090501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/17/20220901/de/xml/fedlex-data-admin-ch-eli-cc-2004-17-20220901-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/17/20220901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/17/20090501/de"
 
 (ETHZ-ETHL-Verordnung)
 
-vom 13. November 2003 (Stand am 1. Mai 2009)
+vom 13. November 2003 (Stand am 1. September 2022)
 
 Der ETH-Rat,
 
@@ -107,6 +107,10 @@ Administrative und technische Mitarbeiter und Mitarbeiterinnen führen unterstü
 
 <sup>2</sup> Die Direktoren oder Direktorinnen der Forschungsanstalten können den ETH Nominierungen von Personen vorschlagen, die an ihren Anstalten tätig sind und zugleich an einer ETH eine in Absatz 1 erwähnte Funktion innehaben.
 
+<sup>3</sup> Titularprofessorinnen und Titularprofessoren, die bis zum Altersrücktritt oder bis zum Rücktritt infolge Invalidität an einer ETH tätig waren, führen den Titel mit dem Zusatz «im Ruhestand» oder dem abgekürzten Zusatz «em.» weiter.[^9-1]
+
+[^9-1]: Eingefügt durch Ziff. I der V des ETH-Rats vom 19. Mai 2022, in Kraft seit 1. Sept. 2022 ([AS 2022 419](https://fedlex.data.admin.ch/eli/oc/2022/419)).
+
 #### Art. 10
 
 **Privatdozenten und Privatdozentinnen**
@@ -121,6 +125,20 @@ Administrative und technische Mitarbeiter und Mitarbeiterinnen führen unterstü
 
 [^10-1]: Fassung gemäss Ziff. I der V des ETH-Rats vom 11. März 2009, in Kraft seit 1. Mai 2009 ([AS 2009 1145](https://fedlex.data.admin.ch/eli/oc/2009/186)).
 
+#### Art. 10a
+
+**Professors of Practice**[^10a-1]
+
+<sup>1</sup> Die ETH können dem ETH-Rat beantragen, externen Personen, die über eine breite berufliche Erfahrung verfügen und sich in ihrem Fachgebiet besonders ausgezeichnet haben, den Titel «Professor of Practice» zu verleihen. Die ETH erteilen ihnen Lehraufträge nach Artikel 17*a* des ETH-Gesetzes.
+
+<sup>2</sup> Der ETH-Rat verleiht den Titel «Professor of Practice» für die Dauer der Tätigkeit an der ETH.
+
+<sup>3</sup> Die Professors of Practice sind in der Lehre tätig. Sofern es die Umstände, insbesondere die Rechtslage und das Lehrgebiet, zulassen, können sie an Forschungsvorhaben mitwirken.
+
+<sup>4</sup> Sie können nicht die Leitung von Doktorarbeiten übernehmen. Weitere Aufgaben, die sie in diesem Bereich wahrnehmen, bedürfen der Genehmigung des zuständigen Departements oder der zuständigen Fakultät der ETH.
+
+[^10a-1]: Eingefügt durch Ziff. I der V des ETH-Rats vom 19. Mai 2022, in Kraft seit 1. Sept. 2022 ([AS 2022 419](https://fedlex.data.admin.ch/eli/oc/2022/419)).
+
 #### Art. 11
 
 **Lehrbeauftragte**
@@ -129,7 +147,7 @@ Administrative und technische Mitarbeiter und Mitarbeiterinnen führen unterstü
 
 <sup>2</sup> Sie erteilen die Lehraufträge für jedes Semester.
 
-<sup>3</sup> ...[^11-1]
+<sup>3</sup> …[^11-1]
 
 [^11-1]: Aufgehoben durch Ziff. I der V des ETH-Rats vom 11. März 2009, mit Wirkung seit 1. Mai 2009 ([AS 2009 1145](https://fedlex.data.admin.ch/eli/oc/2009/186)).
 
@@ -194,6 +212,7 @@ Zur Wahrnehmung ihrer Mitwirkungsrechte an den ETH bilden die folgenden Hochschu
   - 5\. die leitenden wissenschaftlichen Mitarbeiter und Mitarbeiterinnen,
   - 6\. die Titularprofessoren und Titularprofessorinnen,
   - 7\. die Privatdozenten und Privatdozentinnen,
+  - 7<sup>bis</sup>.[^17-1] die Professors of Practice,
   - 8\. die Lehrbeauftragten,
   - 9\. die Gastprofessoren und Gastprofessorinnen,
   - 10\. die Gastdozenten und Gastdozentinnen;
@@ -213,6 +232,8 @@ Zur Wahrnehmung ihrer Mitwirkungsrechte an den ETH bilden die folgenden Hochschu
 <sup>2</sup> Die Hochschulangehörigen können nur in einer Gruppe mitwirken.
 
 <sup>3</sup> Wird eine Gruppe durch keine oder durch mehrere Organisationen vertreten, so bestimmt die Schulleitung die Mitwirkung in Zusammenarbeit mit der Hochschulversammlung. Sie sorgt ausserdem dafür, dass alle Angehörigen einer Gruppe ihre Mitwirkungsrechte ausüben können, auch wenn sie keiner entsprechenden Organisation angehören.
+
+[^17-1]: Eingefügt durch Ziff. I der V des ETH-Rats vom 19. Mai 2022, in Kraft seit 1. Sept. 2022 ([AS 2022 419](https://fedlex.data.admin.ch/eli/oc/2022/419)).
 
 #### Art. 18
 
@@ -318,11 +339,13 @@ Die ETH können folgende akademische Titel verleihen:
 
 Diese Verordnung tritt am 1. Januar 2004 in Kraft.
 
-Anhang
+Anhang[^t-1]
 
 (Art. 4)
 
 ## Bezeichnung der akademischen Mitarbeiter und Mitarbeiterinnen in Lehre und Forschung
+
+[^t-1]: Bereinigt gemäss Ziff. I der V des ETH-Rats vom 19. Mai 2022, in Kraft seit 1. Sept. 2022 ([AS 2022 419](https://fedlex.data.admin.ch/eli/oc/2022/419)).
 
 <table>
 <tr><td>Deutsch</td><td>Französisch</td><td>Italienisch</td><td>Englisch</td></tr>
@@ -335,7 +358,8 @@ Anhang
 <tr><td>wissenschaftlicher Mitarbeiter/ wissenschaftliche Mitarbeiterin</td><td>collaborateur scientifique</td><td>collaboratore scientifico/collaboratrice scientifica</td><td>scientist</td></tr>
 <tr><td>Assistent/Assistentin</td><td>assistant</td><td>Assistente</td><td>assistant</td></tr>
 <tr><td>Titularprofessor/ Titularprofessorin</td><td>professeur titulaire</td><td>professore titolare/ professoressa titolare</td><td>adjunct professor</td></tr>
-<tr><td>Privatdozent/Privatdozentin</td><td>privatdocent</td><td>libero docente/libera docente</td><td>privat docent</td></tr>
+<tr><td>Privatdozent/Privatdozentin</td><td>privat-docent</td><td>libero docente/libera docente</td><td>privat docent</td></tr>
+<tr><td>Professor of Practice</td><td>*professor* *of practice*</td><td>professor of practice</td><td>professor of practice</td></tr>
 <tr><td>Lehrbeauftragter/Lehrbeauftragte</td><td>chargé de cours</td><td>incaricato di corsi/ incaricata di corsi</td><td>lecturer</td></tr>
 <tr><td>Gastprofessor/Gastprofessorin</td><td>professeur invité</td><td>professore invitato/ professoressa invitata</td><td>visiting professor</td></tr>
 <tr><td>Gastdozent/Gastdozentin</td><td>hôte académique</td><td>docente ospite</td><td>guest lecturer</td></tr>

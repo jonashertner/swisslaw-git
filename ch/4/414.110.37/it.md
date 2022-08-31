@@ -3,11 +3,11 @@ sr: "414.110.37"
 title: Ordinanza del Consiglio dei PF del 13 novembre 2003 sui Politecnici federali di Zurigo e Losanna (Ordinanza PFZ-PFL)
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/17"
 language: it
-version: 2009-05-01
+version: 2022-09-01
 adopted: 2003-11-13
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/17/20090501/it/xml/fedlex-data-admin-ch-eli-cc-2004-17-20090501-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/17/20090501/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/17/20220901/it/xml/fedlex-data-admin-ch-eli-cc-2004-17-20220901-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/17/20220901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/17/20090501/it"
 
 (Ordinanza PFZ-PFL)
 
-del 13 novembre 2003 (Stato 1° maggio 2009)
+del 13 novembre 2003 (Stato 1° settembre 2022)
 
 Il Consiglio dei PF,
 
@@ -73,7 +73,7 @@ Le denominazioni dei collaboratori accademici attivi nell’insegnamento e nella
 
 **Collaboratori scientifici con funzioni direttive, collaboratori scientifici superiori**
 
-Le direzioni possono nominare collaboratori scientifici con funzioni direttive (*ma**î**tre d’enseignement et de recherche*) e collaboratori scientifici superiori persone che si distinguono per il loro percorso accademico ad alto livello e che forniscono prestazioni particolarmente qualificate nell’insegnamento e nella ricerca.
+Le direzioni possono nominare collaboratori scientifici con funzioni direttive (*maître d’enseignement et de recherche*) e collaboratori scientifici superiori persone che si distinguono per il loro percorso accademico ad alto livello e che forniscono prestazioni particolarmente qualificate nell’insegnamento e nella ricerca.
 
 #### Art. 6
 
@@ -107,6 +107,10 @@ I collaboratori amministrativi e tecnici svolgono compiti di supporto nel campo 
 
 <sup>2</sup> I direttori degli istituti di ricerca possono proporre ai PF la nomina a professore titolare di persone attive nei loro istituti e che al tempo stesso rivestono una delle funzioni elencate al capoverso 1 in un PF.
 
+<sup>3</sup> I professori titolari che hanno svolto la loro attività in un PF fino al pensionamento o fino al ritiro per invalidità mantengono il proprio titolo con l’aggiunta di «emerito» o dell’abbreviazione «em.».[^9-1]
+
+[^9-1]: Introdotto dal n. I dell’O del Consiglio dei PF del 19 mag. 2022, in vigore dal 1° set. 2022 ([RU 2022 419](https://fedlex.data.admin.ch/eli/oc/2022/419)).
+
 #### Art. 10
 
 **Liberi docenti**
@@ -120,6 +124,20 @@ I collaboratori amministrativi e tecnici svolgono compiti di supporto nel campo 
 <sup>4</sup> I PF possono versare ai liberi docenti un onorario per i corsi tenuti; i mandati d’insegnamento sono retti dalle disposizioni dell’articolo 17*a* della legge sui PF.[^10-1]
 
 [^10-1]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF dell’11 marz. 2009, in vigore dal 1° mag. 2009 ([RU 2009 1145](https://fedlex.data.admin.ch/eli/oc/2009/186)).
+
+#### Art. 10a
+
+**Professors of practice**[^10a-1]
+
+<sup>1</sup> I PF possono proporre al Consiglio dei PF di conferire il titolo di «professor of practice» a persone esterne che hanno un’ampia esperienza professionale e si sono distinte nel loro campo specifico. I PF assegnano loro incarichi d’insegnamento secondo l’articolo 17*a* della legge sui PF.
+
+<sup>2</sup> Il Consiglio dei PF conferisce il titolo di «professor of practice» per la durata dell’attività presso il PF.
+
+<sup>3</sup> I professors of practice svolgono un’attività d’insegnamento. Se le circostanze, in particolare la situazione giuridica e il campo d’insegnamento, lo consentono, possono partecipare a progetti di ricerca.
+
+<sup>4</sup> Non possono assumere la direzione di tesi di dottorato. Gli altri compiti che svolgono in quest’ambito richiedono l’approvazione del dipartimento o della facoltà competente del PF.
+
+[^10a-1]: Introdotto dal n. I dell’O del Consiglio dei PF del 19 mag. 2022, in vigore dal 1° set. 2022 ([RU 2022 419](https://fedlex.data.admin.ch/eli/oc/2022/419)).
 
 #### Art. 11
 
@@ -194,6 +212,7 @@ Per esercitare i loro diritti di partecipazione i membri dei PF formano i gruppi
   - 5\. collaboratori scientifici con funzioni direttive,
   - 6\. professori titolari,
   - 7\. liberi docenti,
+  - 7<sup>bis</sup>.[^17-1] professors of practice,
   - 8\. incaricati dei corsi,
   - 9\. professori invitati,
   - 10\. docenti ospiti;
@@ -213,6 +232,8 @@ Per esercitare i loro diritti di partecipazione i membri dei PF formano i gruppi
 <sup>2</sup> Ogni membro di un PF può far parte di un solo gruppo.
 
 <sup>3</sup> Se un gruppo non è rappresentato o lo è da più organizzazioni, la direzione ne definisce le modalità di partecipazione in collaborazione con l’assemblea universitaria. La direzione provvede inoltre affinché tutti i membri di un gruppo possano esercitare i loro diritti di partecipazione anche se non fanno parte di nessuna organizzazione.
+
+[^17-1]: Introdotto dal n. I dell’O del Consiglio dei PF del 19 mag. 2022, in vigore dal 1° set. 2022 ([RU 2022 419](https://fedlex.data.admin.ch/eli/oc/2022/419)).
 
 #### Art. 18
 
@@ -318,11 +339,13 @@ I PF possono conferire i titoli accademici seguenti:
 
 La presente ordinanza entra in vigore il 1° gennaio 2004.
 
-Allegato
+Allegato[^t-1]
 
 (art. 4)
 
 ## Denominazioni dei collaboratori accademici attivi nell’insegnamento e nella ricerca
+
+[^t-1]: Aggiornato dal n. I dell’O del Consiglio dei PF del 19 mag. 2022, in vigore dal 1° set. 2022 ([RU 2022 419](https://fedlex.data.admin.ch/eli/oc/2022/419)).
 
 <table>
 <tr><td>Italiano</td><td>Tedesco</td><td>Francese</td><td>Inglese</td></tr>
@@ -335,7 +358,8 @@ Allegato
 <tr><td>collaboratore scientifico</td><td>wissenschaftlicher Mitarbeiter/ wissenschaftliche Mitarbeiterin</td><td>collaborateur scientifique</td><td>scientist</td></tr>
 <tr><td>assistente</td><td>Assistent/Assistentin</td><td>assistant</td><td>assistant</td></tr>
 <tr><td>professore titolare</td><td>Titularprofessor/ Titularprofessorin</td><td>professeur titulaire</td><td>adjunct professor</td></tr>
-<tr><td>libero docente</td><td>Privatdozent/Privatdozentin</td><td>privatdocent</td><td>privat docent</td></tr>
+<tr><td>libero docente</td><td>Privatdozent/Privatdozentin</td><td>privat-docent</td><td>privat docent</td></tr>
+<tr><td>professor of practice</td><td>Professor of Practice</td><td>*professor of* *practice*</td><td>professor of practice</td></tr>
 <tr><td>incaricato di corsi</td><td>Lehrbeauftragter/ Lehrbeauftragte</td><td>chargé de cours</td><td>lecturer</td></tr>
 <tr><td>professore invitato</td><td>Gastprofessor/Gastprofessorin</td><td>professeur invité</td><td>visiting professor</td></tr>
 <tr><td>docente ospite</td><td>Gastdozent/Gastdozentin</td><td>hôte académique</td><td>guest lecturer</td></tr>

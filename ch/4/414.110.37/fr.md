@@ -3,11 +3,11 @@ sr: "414.110.37"
 title: "Ordonnance du Conseil des EPF du 13 novembre 2003 sur les écoles polytechniques fédérales de Zurich et de Lausanne (Ordonnance sur l'EPFZ et l'EPFL)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/17"
 language: fr
-version: 2009-05-01
+version: 2022-09-01
 adopted: 2003-11-13
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/17/20090501/fr/xml/fedlex-data-admin-ch-eli-cc-2004-17-20090501-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/17/20090501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/17/20220901/fr/xml/fedlex-data-admin-ch-eli-cc-2004-17-20220901-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/17/20220901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/17/20090501/fr"
 
 (Ordonnance sur l’EPFZ et l’EPFL)
 
-du 13 novembre 2003 (Etat le 1<sup>er</sup> mai 2009)
+du 13 novembre 2003 (État le 1<sup>er</sup> septembre 2022)
 
 Le Conseil des EPF,
 
@@ -107,6 +107,10 @@ Les collaborateurs administratifs et techniques effectuent des tâches de soutie
 
 <sup>2</sup> Les directeurs des établissements de recherche peuvent proposer aux écoles la candidature de personnes employées dans leur établissement et qui exercent en même temps l’une des fonctions mentionnées à l’al. 1 dans une école.
 
+<sup>3</sup> Les professeurs titulaires qui étaient employés dans une EPF jusqu’à leur départ à la retraite ou jusqu’à leur départ pour cause d’invalidité conservent leur titre avec l’ajout «honoraire» ou l’abréviation «hon.».[^9-1]
+
+[^9-1]: Introduit par le ch. I de l’O du Conseil des EPF du 19 mai 2022, en vigueur depuis le 1<sup>er</sup> sept. 2022 ([RO 2022 419](https://fedlex.data.admin.ch/eli/oc/2022/419)).
+
 #### Art. 10
 
 **Privat-docents**
@@ -120,6 +124,20 @@ Les collaborateurs administratifs et techniques effectuent des tâches de soutie
 <sup>4</sup> Des honoraires peuvent être versés aux privat-docents pour l’enseignement dispensé; les mandats d’enseignement sont régis par les dispositions de l’art. 17*a* de la loi sur les EPF.[^10-1]
 
 [^10-1]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 11 mars 2009, en vigueur depuis le 1<sup>er</sup> mai 2009 ([RO 2009 1145](https://fedlex.data.admin.ch/eli/oc/2009/186)).
+
+#### Art. 10a
+
+***Professors of practice**[^10a-1]*
+
+<sup>1</sup> Les EPF peuvent proposer au Conseil des EPF d’octroyer le titre de *professor of practice* à des personnes externes qui disposent d’une vaste expérience professionnelle et se sont particulièrement distinguées dans leur domaine de spécialité. Les EPF leur délivrent des mandats d’enseignement en vertu de l’art. 17*a* de la loi sur les EPF.
+
+<sup>2</sup> Le Conseil des EPF attribue le titre de *professor of practice* pour la durée de l’activité au sein de l’EPF.
+
+<sup>3</sup> Les *professors of practice* assument une tâche d’enseignement. Si les circonstances, notamment la situation juridique et le domaine d’enseignement, le permettent, ils peuvent participer à des projets de recherche.
+
+<sup>4</sup> Ils ne peuvent pas assumer la direction de thèses de doctorat. Toute autre tâche dans ce domaine requiert l’autorisation du département compétent ou de la faculté compétente de l’EPF concernée.
+
+[^10a-1]: Introduit par le ch. I de l’O du Conseil des EPF du 19 mai 2022, en vigueur depuis le 1<sup>er</sup> sept. 2022 ([RO 2022 419](https://fedlex.data.admin.ch/eli/oc/2022/419)).
 
 #### Art. 11
 
@@ -161,7 +179,7 @@ Les candidats au doctorat doivent être inscrits dans une école, afin d’acqu�
 
 #### Art. 15
 
-**Etudiants et auditeurs**
+**Étudiants et auditeurs**
 
 <sup>1</sup> Les étudiants sont inscrits dans une école en vue d’obtenir un diplôme EPF, un diplôme fédéral, un titre de bachelor ou de master ou un certificat dans le cadre d’une filière d’études, d’un échange ou d’une postformation.
 
@@ -194,6 +212,7 @@ Afin d’exercer leurs droits de participation, les personnes suivantes relevant
   - 5\. les maîtres d’enseignement et de recherche,
   - 6\. les professeurs titulaires,
   - 7\. les privat-docents,
+  - 7<sup>bis</sup>.[^17-1] les *professors of practice,*
   - 8\. les chargés de cours,
   - 9\. les professeurs invités,
   - 10\. ainsi que les hôtes académiques;
@@ -214,6 +233,8 @@ Afin d’exercer leurs droits de participation, les personnes suivantes relevant
 
 <sup>3</sup> Lorsqu’un groupe n’est représenté par aucune organisation ou est représenté par plusieurs organisations, la direction de l’école, en collaboration avec l’assemblée d’école, détermine la participation. Elle veille en outre à ce que les membres de chaque groupe puissent exercer leurs droits de participation, même s’ils n’appartiennent à aucune organisation.
 
+[^17-1]: Introduit par le ch. I de l’O du Conseil des EPF du 19 mai 2022, en vigueur depuis le 1<sup>er</sup> sept. 2022 ([RO 2022 419](https://fedlex.data.admin.ch/eli/oc/2022/419)).
+
 #### Art. 18
 
 **Assemblée d’école**
@@ -226,7 +247,7 @@ Afin d’exercer leurs droits de participation, les personnes suivantes relevant
 
 #### Art. 19
 
-**Etendue de la participation**
+**Étendue de la participation**
 
 <sup>1</sup> Le Conseil des EPF et la direction de l’école consultent les groupes de personnes relevant de l’école et l’assemblée d’école, ainsi que les unités d’enseignement et de recherche concernées, avant de prendre des décisions d’intérêt général concernant l’école.
 
@@ -318,11 +339,13 @@ Les écoles peuvent décerner les titres académiques suivants:
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2004.
 
-Annexe
+Annexe[^t-1]
 
 (art. 4)
 
 ## Désignation des collaborateurs académiques actifs dans l’enseignement et la recherche
+
+[^t-1]: Mise à jour par le ch. I de l’O du Conseil des EPF du 19 mai 2022, en vigueur depuis le 1<sup>er</sup> sept. 2022 ([RO 2022 419](https://fedlex.data.admin.ch/eli/oc/2022/419)).
 
 <table>
 <tr><th>Allemand</th><th>Français</th><th>Italien</th><th>Anglais</th></tr>
@@ -336,6 +359,7 @@ Annexe
 <tr><td>Assistent/ Assistentin</td><td>assistant</td><td>Assistente</td><td>assistant</td></tr>
 <tr><td>Titularprofessor/ Titularprofessorin</td><td>professeur titulaire</td><td>professore titolare/ professoressa titolare</td><td>adjunct professor</td></tr>
 <tr><td>Privatdozent/ Privatdozentin</td><td>privat-docent</td><td>libero docente/ libera docente</td><td>privat docent</td></tr>
+<tr><td>Professor of Practice</td><td>*professor of practice*</td><td>professor of practice</td><td>professor of practice</td></tr>
 <tr><td>Lehrbeauftragter/ Lehrbeauftragte</td><td>chargé de cours</td><td>incaricato di corsi/ incaricata di corsi</td><td>lecturer</td></tr>
 <tr><td>Gastprofessor/ Gastprofessorin</td><td>professeur invité</td><td>professore invitato/ professoressa invitata</td><td>visiting professor</td></tr>
 <tr><td>Gastdozent/ Gastdozentin</td><td>hôte académique</td><td>docente ospite</td><td>guest lecturer</td></tr>
