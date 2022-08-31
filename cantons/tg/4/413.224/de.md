@@ -1,24 +1,24 @@
 ---
 canton: TG
 number: "413.224"
-title: Verordnung des Regierungsrates über die Ausbildung an der Pädagogischen Maturitätsschule Kreuzlingen
+title: Verordnung über die Ausbildung an der Pädagogischen Maturitätsschule Kreuzlingen
 language: de
-version: 2020-08-01
-valid_until: 2022-08-31
-version_adopted: 2019-06-25
+version: 2022-09-01
+valid_until: 2028-07-31
+version_adopted: 2022-08-30
 adopted: 1996-10-22
 in_force: 1997-08-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/413.224"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2125/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2580/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung des Regierungsrates über die Ausbildung an der Pädagogischen Maturitätsschule Kreuzlingen
+# Verordnung über die Ausbildung an der Pädagogischen Maturitätsschule Kreuzlingen
 
 RRV Ausbildung an der Pädagogischen Maturitätsschule Kreuzlingen
 
-vom 22.10.1996 (Stand 01.08.2020)
+vom 22.10.1996 (Stand 01.09.2022)
 
 ## 1. Ausbildung
 
@@ -57,17 +57,17 @@ vom 22.10.1996 (Stand 01.08.2020)
 - 15\. Wirtschaft und Recht
 - 16\. Sport
 - 17\. Allgemeine Didaktik
-- 18\. Praktikum 3. Klasse inklusive Tagespraxis
-- 19\. Praktikum 4. Klasse
+- 18\. Praktikum dritte Klasse inklusive Tagespraxis
+- 19\. Praktikum vierte Klasse
 - 20\. Informatik
 - 21\. Schwerpunktfach
 - 22\. Ergänzungsfach
 
 <sup>2</sup> …
 
-<sup>3</sup> Den Schülerinnen und Schülern der 1. und 2. Klasse wird am Ende jedes Semesters ein Zeugnis abgegeben, den Schülerinnen und Schülern der 3. und 4. Klasse nur auf Ende des Schuljahres.
+<sup>3</sup> Den Schülerinnen und Schülern der ersten und zweiten Klasse wird am Ende jedes Semesters ein Zeugnis abgegeben, den Schülerinnen und Schülern der dritten und vierten Klasse nur auf Ende des Schuljahrs.
 
-<sup>4</sup> Der Konvent entscheidet im 1. und 2. Schuljahr am Ende eines Semesters aufgrund der Zeugnisnoten in den Promotionsfächern, ob eine Schülerin oder ein Schüler in das nächste Semester befördert werden kann. Im 3. und 4. Schuljahr erfolgt eine Jahrespromotion. Für provisorisch beförderte Schülerinnen und Schüler wird in der 3. und 4. Klasse am Ende des ersten Semesters ein Zwischenzeugnis erstellt.
+<sup>4</sup> Der Konvent entscheidet im ersten und zweiten Schuljahr am Ende eines Semesters aufgrund der Zeugnisnoten in den Promotionsfächern, ob eine Schülerin oder ein Schüler in das nächste Semester befördert werden kann. Im dritten und vierten Schuljahr erfolgt eine Jahrespromotion. Für provisorisch beförderte Schülerinnen und Schüler wird in der dritten und vierten Klasse am Ende des ersten Semesters ein Zwischenzeugnis erstellt.
 
 #### § 3
 
@@ -105,7 +105,7 @@ vom 22.10.1996 (Stand 01.08.2020)
 
 <sup>1</sup> Wer die Voraussetzungen für eine Promotion nicht erfüllt, kann die zuletzt besuchte Klasse wiederholen. An der Pädagogischen Maturitätsschule kann nur einmal repetiert werden.
 
-<sup>2</sup> Eine Schülerin oder ein Schüler der 1. Klasse wird am Ende des ersten Semesters von der Schule gewiesen, wenn in den für die Promotion massgebenden Fächern mehr als vier Noten unter 4 vorliegen.
+<sup>2</sup> Eine Schülerin oder ein Schüler der ersten Klasse wird am Ende des ersten Semesters von der Schule gewiesen, wenn in den für die Promotion massgebenden Fächern mehr als vier Noten unter 4 vorliegen. Eine Repetition ist nicht möglich.
 
 #### § 7
 
@@ -125,7 +125,7 @@ vom 22.10.1996 (Stand 01.08.2020)
 
 **Organisation**
 
-<sup>1</sup> Die Maturitätsprüfung wird am Ende der 4. Klasse durchgeführt.
+<sup>1</sup> Die Maturitätsprüfung wird am Ende der vierten Klasse durchgeführt.
 
 <sup>2</sup> Die Prüfung steht unter der Leitung des Rektorats und wird in der Regel von Lehrpersonen abgenommen, welche die Schülerinnen und Schüler in den Prüfungsfächern unterrichtet haben.
 
@@ -182,11 +182,11 @@ vom 22.10.1996 (Stand 01.08.2020)
 - 2\. Französisch oder Italienisch — schriftlich und mündlich
 - 3\. Mathematik — schriftlich und mündlich
 - 4\. Biologie oder Physik — schriftlich und mündlich
-- 5\. Schwerpunktfach — schriftlich oder praktisch.
+- 5\. Schwerpunktfach — schriftlich oder praktisch
 
 <sup>2</sup> Die Schülerinnen und Schüler können wählen, ob sie im Schwerpunktfach in Zeichnen oder Werken oder Musik/Instrument beziehungsweise in Pädagogik/Psychologie oder Philosophie geprüft werden.
 
-<sup>3</sup> Der Rektor oder die Rektorin entscheidet nach Absprache mit den Fachgruppen, ob die Schülerinnen oder Schüler in Biologie oder Physik geprüft werden.
+<sup>3</sup> Die Rektorin oder der Rektor entscheidet nach Absprache mit den Fachgruppen, ob die Schülerinnen und Schüler in Biologie oder Physik geprüft werden.
 
 #### § 13
 
@@ -212,7 +212,7 @@ vom 22.10.1996 (Stand 01.08.2020)
 
 **Erfahrungsnote**
 
-<sup>1</sup> Die Erfahrungsnote ist die Zeugnisnote des letzten Ausbildungsjahres im betreffenden Fach beziehungsweise in der betreffenden Fächergruppe gemäss § 11.
+<sup>1</sup> Die Erfahrungsnote ist die Zeugnisnote des letzten Ausbildungsjahrs im betreffenden Fach beziehungsweise in der betreffenden Fächergruppe gemäss § 11.
 
 <sup>2</sup> Die Erfahrungsnote im Schwerpunktfach errechnet sich aus dem Durchschnitt der letzten Zeugnisnoten der Fächer Zeichnen, Werken, Musik und Instrument beziehungsweise Pädagogik/Psychologie und Philosophie.
 
@@ -224,7 +224,7 @@ vom 22.10.1996 (Stand 01.08.2020)
 
 <sup>1</sup> In den Prüfungsfächern ist die Maturitätsnote der auf halbe Noten gerundete Durchschnitt von Erfahrungsnote und Prüfungsnote. In den übrigen Fächern und Fächergruppen ist die auf halbe Noten gerundete Erfahrungsnote auch Maturitätsnote.
 
-<sup>2</sup> Die Maturitätsnote im Grundlagenfach Bildnerisches Gestalten und Musik errechnet sich aus dem Durchschnitt der Zeugnisnoten dieser Fächergruppe in der 2. Klasse.
+<sup>2</sup> Die Maturitätsnote im Grundlagenfach Bildnerisches Gestalten und Musik errechnet sich aus dem Durchschnitt der Zeugnisnoten dieser Fächergruppe in der zweiten Klasse.
 
 <sup>3</sup> Zwischenrundungen bei Erfahrungs- und Prüfungsnoten sind ausgeschlossen.
 
@@ -279,15 +279,15 @@ vom 22.10.1996 (Stand 01.08.2020)
 
 **Berufliche Grundausbildung**
 
-<sup>1</sup> Die Inhalte der beruflichen Grundausbildung entsprechen jenen des ersten Studienjahres an der Pädagogischen Hochschule Thurgau (Basisstudium).
+<sup>1</sup> Die berufliche Grundausbildung entspricht jener der Pädagogischen Hochschule Thurgau (PHTG) im ersten Studienjahr (Basisstudium).
 
 <sup>2</sup> Die berufliche Grundausbildung umfasst insbesondere folgende Elemente:
 
-- 1\. Berufspraktische Ausbildung;
-- 2\. Abklärung der Berufseignung;
-- 3\. Sonderwochen mit beruflicher Ausrichtung;
-- 4\. Anteile Maturitätsfächer mit beruflicher Ausrichtung;
-- 5\. Anteile kantonaler Fächer mit beruflicher Ausrichtung.
+- 1\. Berufspraktische Ausbildung
+- 2\. Abklärung der Berufseignung
+- 3\. Sonderwochen mit beruflicher Ausrichtung
+- 4\. Anteile Maturitätsfächer mit beruflicher Ausrichtung
+- 5\. Anteile kantonaler Fächer mit beruflicher Ausrichtung
 
 #### § 21b
 
@@ -295,25 +295,32 @@ vom 22.10.1996 (Stand 01.08.2020)
 
 <sup>1</sup> In der dritten und vierten Klasse wird die Berufseignung der Schülerinnen und Schüler abgeklärt, insbesondere in den folgenden überfachlichen Bereichen:
 
-- 1\. Kommunikation;
-- 2\. Reflexion;
-- 3\. Lern- und Arbeitsverhalten;
-- 4\. Belastbarkeit;
-- 5\. Sprachkompetenz Deutsch.
+- 1\. Kommunikation
+- 2\. Reflexion
+- 3\. Lern- und Arbeitsverhalten
+- 4\. Belastbarkeit
+- 5\. Sprachkompetenz Deutsch
 
-<sup>2</sup> Während der Zeit der Abklärung wird die Schülerin oder der Schüler in der Berufspraxis durch einen Mentor oder eine Mentorin begleitet.
+<sup>2</sup> Während der Zeit der Abklärung wird die Schülerin oder der Schüler in der Berufspraxis durch eine Mentorin oder einen Mentor begleitet.
 
-<sup>3</sup> Die Schulleitung erlässt ein Pflichtenheft für Mentorinnen und Mentoren.
+<sup>3</sup> Die Schulleitung erlässt ein Pflichtenheft für alle in der Berufsbildung involvierten Personen.
+
+<sup>4</sup> Sie erlässt ergänzende Richtlinien.
 
 #### § 21c
 
 **Abklärung**
 
-<sup>1</sup> Die Beurteilung der Eignungsvoraussetzungen erfolgt im Rahmen der berufspraktischen Ausbildung und anhand von zwei Standortbestimmungen.
+<sup>1</sup> Die Beurteilung der Eignungsvoraussetzungen erfolgt im Rahmen der berufspraktischen Ausbildung und anhand von zwei Standortbestimmungen, die sich aus folgenden Elementen zusammensetzen:
 
-<sup>2</sup> Die Schülerin oder der Schüler nimmt für jede Standortbestimmung eine Selbsteinschätzung vor.
+- 1\. Selbsteinschätzung der Schülerin oder des Schülers
+- 2\. Beurteilung durch die Praxislehrperson
+- 3\. Einschätzung durch eine Mentorin oder einen Mentor
+- 4\. Einschätzung durch die Fachlehrpersonen, die die Schülerin oder den Schüler unterrichten
 
-<sup>3</sup> Ergeben sich während der Abklärung Zweifel an der Berufseignung oder steht die Nichteignung zumindest in Teilen fest, kann die Schulleitung Massnahmen anordnen, so namentlich die Wiederholung eines Praktikums, das Absolvieren praktischer Übungen oder Massnahmen bezüglich der Sprachkompetenz Deutsch.
+<sup>2</sup> Das Prorektorat Berufsbildung koordiniert die Standortbestimmung und wertet sie aus.
+
+<sup>3</sup> Ergeben sich während der Abklärung Zweifel an der Berufseignung oder steht die Nichteignung zumindest in Teilen fest, kann die Schulleitung Massnahmen anordnen. Namentlich kann sie das Absolvieren praktischer Übungen oder Massnahmen bezüglich der Sprachkompetenz Deutsch sowie die Wiederholung eines Praktikums im Zeitraum zwischen Abschluss der Matura und Studienbeginn an der PHTG verlangen.
 
 <sup>4</sup> Es können vertiefte Abklärungen getroffen und weitere Beurteilungspersonen beigezogen werden. Die Schülerin oder der Schüler ist zur Mitarbeit verpflichtet.
 
@@ -321,12 +328,12 @@ vom 22.10.1996 (Stand 01.08.2020)
 
 **Entscheid**
 
-<sup>1</sup> Am Ende des vierten Schuljahres entscheidet die Schulleitung darüber, ob die berufliche Grundausbildung erfolgreich absolviert wurde.
+<sup>1</sup> Die Schulleitung entscheidet darüber, ob die berufliche Grundausbildung erfolgreich absolviert wurde. Sie stellt eine Bescheinigung aus.
 
 <sup>2</sup> Als erfolgreich absolviert gilt sie, wenn
 
 - 1\. die Maturitätsausbildung bestanden ist und
-- 2\. von den Jahresnoten der dritten und vierten Klasse in den Fächern Allgemeine Didaktik, im Praktikum der 3. Klasse inklusive Tagespraxis und im Praktikum der 4. Klasse höchstens eine ungenügend ist und
+- 2\. von den Jahresnoten der dritten und vierten Klasse in den Fächern Allgemeine Didaktik, im Praktikum der dritten Klasse inklusive Tagespraxis und im Praktikum der vierten Klasse höchstens eine ungenügend ist und
 - 3\. die Berufseignung als gegeben festgestellt wurde.
 
 <sup>3</sup> Lassen fehlende Ausbildungsteile eine vollständige Beurteilung der Berufseignung nicht zu, kann der Entscheid bis zum Nachweis des erfolgreichen Absolvierens der Teile ausgesetzt werden.
