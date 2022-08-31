@@ -4,11 +4,11 @@ title: "Ordonnance du 29 avril 2015 sur la lutte contre les maladies transmissib
 short: OEp
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/298"
 language: fr
-version: 2022-07-01
+version: 2022-09-01
 adopted: 2015-04-29
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-2015-298-20220701-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20220701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20220901/fr/xml/fedlex-data-admin-ch-eli-cc-2015-298-20220901-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20220901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20220701/fr"
 
 (Ordonnance sur les épidémies, OEp)
 
-du 29 avril 2015 (Etat le 1<sup>er</sup> juillet 2022)
+du 29 avril 2015 (État le 1<sup>er</sup> septembre 2022)
 
 Le Conseil fédéral suisse,
 
@@ -1028,6 +1028,105 @@ La rémunération de la valeur comptable unique du médicament visée à l’al.
 [^64f-1]: Introduit par le ch. I de l’O du 16 fév. 2022 (Prise en charge des coûts des médicaments utilisés pour le traitement du COVID-19), en vigueur depuis le 17 fév. 2022 ([RO 2022 95](https://fedlex.data.admin.ch/eli/oc/2022/95)).
 [^64f-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 
+#### Art. 64g
+
+**Prise en charge des coûts des vaccinations contre la variole du singe**[^64g-1]
+
+<sup>1</sup>
+
+La Confédération prend en charge les coûts des vaccinations contre la variole du singe qui sont effectuées conformément aux recommandations du 1<sup>er</sup> septembre 2022 de l’OFSP et de la Commission fédérale pour les vaccinations[^64g-2] pour les personnes suivantes:
+
+- a. les personnes qui sont assurées conformément à l’art. 3 LAMal[^64g-3];
+- b. les personnes qui sont assurées contre les maladies conformément à la LAM[^64g-4];
+- c.
+
+  les personnes qui ne sont assurées contre les maladies ni conformément à l’art. 3 LAMal, ni conformément à la LAM, mais qui font partie de l’une des catégories de personnes suivantes:
+
+  - 1\. les personnes qui ont leur domicile ou leur résidence habituelle en Suisse,
+  - 2\. les personnes qui exercent une activité lucrative en tant que frontaliers en Suisse.
+
+<sup>2</sup>
+
+Elle prend en charge les coûts uniquement si les fournisseurs de prestations:
+
+- a. sont mandatés par le canton pour effectuer les vaccinations contre la variole du singe, et
+- b. remplissent les exigences du canton concernant l’utilisation du logiciel indiqué pour la prise de rendez-vous, la saisie des données, la documentation et l’élaboration du rapport en vue du monitorage de la vaccination.
+
+<sup>3</sup> Elle prend en charge un forfait de 40 francs par vaccination effectuée au titre de l’al. 1.
+
+<sup>4</sup> Le montant visé à l’al. 3 couvre l’ensemble des prestations liées à la vaccination.
+
+<sup>5</sup> Les fournisseurs de prestations ne peuvent facturer aux personnes vaccinées d’autres frais en lien avec la vaccination.
+
+[^64g-1]: Introduit par le ch. I de l’O du 24 août 2022, en vigueur du 1<sup>er</sup> sept. 2022 au 31 déc. 2023 ([RO 2022 467](https://fedlex.data.admin.ch/eli/oc/2022/467)).
+[^64g-2]: Les recommandations sont disponibles à l’adresse: [www.ofsp.admin.ch](http://www.ofsp.admin.ch) &gt; Maladies &gt; Maladies infectieuses: flambées, épidémies, pandémies &gt; Flambées et épidémies actuelles &gt; Variole du singe.
+[^64g-3]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^64g-4]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+
+#### Art. 64h
+
+**Procédure pour la prise en charge des coûts des vaccinations contre la variole du singe**[^64h-1]
+
+<sup>1</sup>
+
+Pour la fin des mois de mars, juin, septembre et décembre, les fournisseurs de prestations transmettent à l’autorité cantonale compétente une facture groupée pour l’ensemble des vaccinations effectuées au cours des trois mois précédents au titre de l’art. 64*g*, al. 1. La facture doit indiquer:
+
+- a. le nombre de vaccinations effectuées durant la période de facturation;
+- b. le coût forfaitaire par vaccination;
+- c. le coût total de toutes les vaccinations effectuées.
+
+<sup>2</sup> La facture ne doit contenir que les prestations liées aux vaccinations. Elle est transmise par voie électronique.
+
+<sup>3</sup> L’autorité cantonale compétente contrôle la plausibilité des factures en fonction des doses de vaccin distribuées dans le canton, vérifie qu’elles sont complètes et, après rémunération des fournisseurs de prestations, les envoie par voie électronique à l’OFSP dans les 10 premiers jours ouvrables du mois suivant la période de décompte.
+
+<sup>4</sup> Dans un délai de 20 jours ouvrables à compter de la réception de la facture, la Confédération verse aux cantons le montant forfaitaire prévu à l’art. 64*g*, al. 3, en fonction du nombre de vaccinations effectuées.
+
+[^64h-1]: Introduit par le ch. I de l’O du 24 août 2022, en vigueur du 1<sup>er</sup> sept. 2022 au 31 déc. 2023 ([RO 2022 467](https://fedlex.data.admin.ch/eli/oc/2022/467)).
+
+#### Art. 64i
+
+**Prise en charge des coûts des médicaments pour le traitement ambulatoire ou stationnaire de la variole du singe**[^64i-1]
+
+<sup>1</sup>
+
+La Confédération prend en charge les coûts des médicaments figurant à l’annexe 2, ch. 1, si:
+
+- a. les conditions visées à l’annexe 2, ch. 2, sont remplies, et
+- b. les fournisseurs de prestations sont mandatés par le canton pour la réalisation du traitement et la remise des médicaments contre la variole du singe.
+
+<sup>2</sup>
+
+Le DFI peut ajouter d’autres médicaments à l’annexe 2, ch. 1, dès lors qu’ils remplissent les conditions suivantes:
+
+- a. ils sont utilisés pour le traitement ambulatoire ou stationnaire de la variole du singe;
+- b. ils ne figurent pas sur la liste des spécialités au sens de la LAMal[^64i-2];
+- c. la Confédération a conclu un contrat avec les titulaires de l’autorisation pour garantir un approvisionnement suffisant de la population pour ces médicaments.
+
+<sup>3</sup> Lorsque le médicament est remis par un pharmacien admis comme fournisseur de prestations au sens de la LAMal, la Confédération prend en charge 24 francs pour les frais liés à la remise du médicament.
+
+[^64i-1]: Introduit par le ch. I de l’O du 24 août 2022, en vigueur du 1<sup>er</sup> sept. 2022 au 31 déc. 2023 ([RO 2022 467](https://fedlex.data.admin.ch/eli/oc/2022/467)).
+[^64i-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+
+#### Art. 64j
+
+**Procédure pour la prise en charge des coûts de remise des médicaments contre la variole du singe par les pharmaciens**[^64j-1]
+
+<sup>1</sup>
+
+Pour la fin des mois de mars, juin, septembre et décembre, les pharmaciens transmettent à l’autorité cantonale compétente une facture groupée pour l’ensemble des remises effectuées au cours des trois mois précédents au titre de l’art. 64*i*, al. 3. La facture doit indiquer:
+
+- a. le nombre de remises effectuées durant la période de facturation;
+- b. le coût forfaitaire par remise;
+- c. le coût total de toutes les remises effectuées.
+
+<sup>2</sup> La facture ne doit contenir que les prestations liées aux remises. Elle est transmise par voie électronique.
+
+<sup>3</sup> L’autorité cantonale compétente contrôle la plausibilité des factures en fonction des remises effectuées dans le canton, vérifie qu’elles sont complètes et, après rémunération des pharmaciens, les envoie par voie électronique à l’OFSP dans les 10 premiers jours ouvrables du mois suivant la période de décompte.
+
+<sup>4</sup> Dans un délai de 20 jours ouvrables à compter de la réception des factures visées à l’al. 3, la Confédération verse aux cantons le montant dû.
+
+[^64j-1]: Introduit par le ch. I de l’O du 24 août 2022, en vigueur du 1<sup>er</sup> sept. 2022 au 31 déc. 2023 ([RO 2022 467](https://fedlex.data.admin.ch/eli/oc/2022/467)).
+
 ### Section 3 Transport de marchandises
 
 #### Art. 65
@@ -1582,19 +1681,27 @@ Les ordonnances suivantes sont abrogées:
 
 <sup>2</sup> Les autorisations de vaccination contre la fièvre jaune restent valables jusqu’à leur échéance, mais elles expirent au plus tard deux ans après l’entrée en vigueur de la présente ordonnance.
 
+#### Art. 108a
+
+**Disposition transitoire relative à la modification du 24 août 2022**[^108a-1]
+
+Les factures groupées visées aux art. 64*h*, al. 1, et 64*j*, al. 1, doivent être transmises à l’autorité cantonale compétente pour la première fois à la fin décembre 2022.
+
+[^108a-1]: Introduit par le ch. I de l’O du 24 août 2022, en vigueur du 1<sup>er</sup> sept. 2022 au 31 déc. 2023 ([RO 2022 467](https://fedlex.data.admin.ch/eli/oc/2022/467)).
+
 #### Art. 109
 
 **Entrée en vigueur**
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2016.
 
-Annexe*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 64*e*, al. 1 et 2)
 
 ## Médicaments pour le traitement ambulatoire du COVID-19
 
-[^t-1]: Introduite par le ch. II de l’O du 16 fév. 2022 (Prise en charge des coûts des médicaments utilisés pour le traitement du COVID-19), en vigueur depuis le 17 fév. 2022 ([RO 2022 95](https://fedlex.data.admin.ch/eli/oc/2022/95)).
+[^t-1]: Anciennement annexe. Introduite par le ch. II de l’O du 16 fév. 2022 (Prise en charge des coûts des médicaments utilisés pour le traitement du COVID-19), en vigueur depuis le 17 fév. 2022 ([RO 2022 95](https://fedlex.data.admin.ch/eli/oc/2022/95)).
 
 - 1\. La Confédération prend en charge les coûts visés à l’art. 64*e*, al. 3 et 4, pour les médicaments suivants utilisés pour le traitement ambulatoire du COVID-19:
 
@@ -1622,7 +1729,7 @@ Annexe*[^t-1]*
 
   - a.
 
-    si les médicaments sont ordonnés par les fournisseurs de prestations au sens de la LAMal[^annexu1-lvlu1-1] suivants:
+    si les médicaments sont ordonnés par les fournisseurs de prestations au sens de la LAMal[^annex1-lvlu1-1] suivants:
 
     - 1\. médecins,
     - 2\. hôpitaux;
@@ -1635,4 +1742,32 @@ Annexe*[^t-1]*
     - 2\. pharmaciens,
     - 3\. hôpitaux.
 
-[^annexu1-lvlu1-1]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^annex1-lvlu1-1]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+
+Annexe 2[^t-2]
+
+(art. 64*i*, al. 1 et 2)
+
+## Médicaments pour le traitement ambulatoire ou stationnaire de la variole du singe
+
+[^t-2]: Introduite par le ch. II de l’O du 24 août 2022, en vigueur du 1<sup>er</sup> sept. 2022 au 31 déc. 2023 ([RO 2022 467](https://fedlex.data.admin.ch/eli/oc/2022/467)).
+
+- 1\. La Confédération prend en charge les coûts pour les médicaments suivants utilisés pour le traitement ambulatoire ou stationnaire de la variole du singe:
+
+<table>
+<tr><th>Médicaments</th></tr>
+<tr><td>Tecovirimat</td></tr>
+</table>
+
+- 2\.
+
+  Elle prend en charge les coûts uniquement:
+
+  - a. pour les personnes qui sont symptomatiques, et
+  - b.
+
+    qui sont traitées:
+
+    - 1\. dans le cadre de l’indication autorisée, ou
+    - 2\. avant l’autorisation, mais selon les recommandations des sociétés médicales responsables et compte tenu des données épidémiologiques.
+    - [tab]

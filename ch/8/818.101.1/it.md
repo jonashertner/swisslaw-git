@@ -4,11 +4,11 @@ title: "Ordinanza del 29 aprile 2015 concernente la lotta contro le malattie tra
 short: OEp
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/298"
 language: it
-version: 2022-07-01
+version: 2022-09-01
 adopted: 2015-04-29
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20220701/it/xml/fedlex-data-admin-ch-eli-cc-2015-298-20220701-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20220701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20220901/it/xml/fedlex-data-admin-ch-eli-cc-2015-298-20220901-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20220901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20220701/it"
 
 (Ordinanza sulle epidemie, OEp)
 
-del 29 aprile 2015 (Stato 1° luglio 2022) (Stato 1° luglio 2022)
+del 29 aprile 2015 (Stato 1° settembre 2022)
 
 Il Consiglio federale svizzero,
 
@@ -1020,6 +1020,104 @@ La rimunerazione del valore contabile uniforme del medicamento di cui al capover
 [^64f-1]: Introdotto dal n. I dell’O del 16 feb. 2022 (Assunzione dei costi dei medicamenti COVID-19), in vigore dal 17 feb. 2022 ([RU 2022 95](https://fedlex.data.admin.ch/eli/oc/2022/95)).
 [^64f-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 
+#### Art. 64g
+
+**Assunzione dei costi delle vaccinazioni contro il vaiolo delle scimmie**[^64g-1]
+
+<sup>1</sup>
+
+La Confederazione assume i costi delle vaccinazioni contro il vaiolo delle scimmie effettuate sulle seguenti persone conformemente alle raccomandazioni dell’UFSP e della Commissione federale per le vaccinazioni del 1° settembre 2022[^64g-2]:
+
+- a. persone assicurate secondo l’articolo 3 LAMal[^64g-3];
+- b. persone assicurate contro le malattie secondo la LAM[^64g-4];
+- c.
+
+  persone non assicurate secondo l’articolo 3 LAMal né assicurate contro le malattie secondo la LAM, che però appartengono a una delle seguenti categorie:
+
+  - 1\. persone che hanno domicilio o dimora abituale in Svizzera,
+  - 2\. persone che esercitano un’attività lucrativa in Svizzera come frontalieri.
+
+<sup>2</sup>
+
+Assume i costi soltanto se i fornitori di prestazioni:
+
+- a. sono stati incaricati dal Cantone di effettuare vaccinazioni contro il vaiolo delle scimmie; e
+- b. adempiono le prescrizioni del Cantone sull’impiego del software prescritto per la fissazione degli appuntamenti, la registrazione dei dati, la documentazione e la stesura dei rapporti per il monitoraggio della vaccinazione.
+
+<sup>3</sup> Per ogni vaccinazione effettuata secondo il capoverso 1, la Confederazione assume un importo forfettario di 40 franchi.
+
+<sup>4</sup> Con l’importo di cui al capoverso 3 sono indennizzate tutte le prestazioni fornite in relazione alla vaccinazione.
+
+<sup>5</sup> I fornitori di prestazioni non possono addebitare alle persone vaccinate ulteriori costi nell’ambito della vaccinazione.
+
+[^64g-1]: Introdotto dal n. I dell’O del 24 ago. 2022, in vigore dal 1° set. 2022 al 31 dic. 2023 ([RU 2022 467](https://fedlex.data.admin.ch/eli/oc/2022/467)).
+[^64g-2]: Le raccomandazioni sono disponibili alla pagina web seguente: www.ufsp.admin.ch &gt; Malattie &gt; Malattie infettive: focolai, epidemie e pandemie &gt; Insorgenze e epidemie attuali &gt; Vaiolo delle scimmie.
+[^64g-3]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^64g-4]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+
+#### Art. 64h
+
+**Procedura per l’assunzione dei costi delle vaccinazioni contro il vaiolo delle scimmie**[^64h-1]
+
+<sup>1</sup>
+
+Alla fine dei mesi di marzo, giugno, settembre e dicembre, i fornitori di prestazioni inviano all’autorità cantonale competente una fattura collettiva per le vaccinazioni che hanno effettuato nei tre mesi precedenti secondo l’articolo 64*g* capoverso 1. Sulla fattura devono essere indicati:
+
+- a. il numero di vaccinazioni effettuate nel periodo di fatturazione;
+- b. l’importo forfettario per ogni vaccinazione effettuata;
+- c. l’importo complessivo di tutte le vaccinazioni effettuate.
+
+<sup>2</sup> La fattura può comprendere soltanto le prestazioni fornite in relazione alle vaccinazioni. Deve essere trasmessa per via elettronica.
+
+<sup>3</sup> L’autorità cantonale competente controlla la plausibilità delle fatture in base alle dosi di vaccino distribuite nel Cantone, ne verifica la completezza e, dopo averle saldate, le trasmette per via elettronica all’UFSP entro il decimo giorno lavorativo del mese successivo al periodo di fatturazione.
+
+<sup>4</sup> La Confederazione versa ai Cantoni, entro 20 giorni lavorativi dal ricevimento della fattura, l’importo forfettario di cui all’articolo 64*g* capoverso 3 per ogni vaccinazione effettuata.
+
+[^64h-1]: Introdotto dal n. I dell’O del 24 ago. 2022, in vigore dal 1° set. 2022 al 31 dic. 2023 ([RU 2022 467](https://fedlex.data.admin.ch/eli/oc/2022/467)).
+
+#### Art. 64i
+
+**Assunzione dei costi dei medicamenti impiegati per il trattamento ambulatoriale o ospedaliero di pazienti affetti da vaiolo delle scimmie**[^64i-1]
+
+<sup>1</sup> La Confederazione assume i costi dei medicamenti di cui all’allegato 2 numero 1 soltanto se:
+
+sono adempiute le condizioni di cui all’allegato 2 numero 1; e
+
+i fornitori di prestazioni sono stati incaricati dal Cantone di effettuare il trattamento e di consegnare il medicamento.
+
+<sup>2</sup>
+
+Il DFI può inserire ulteriori medicamenti nell’allegato 2 numero 1, purché siano adempiute le seguenti condizioni:
+
+- a. sono impiegati per il trattamento ambulatoriale o ospedaliero di pazienti affetti da vaiolo delle scimmie;
+- b. non figurano nell’elenco delle specialità secondo la LAMal[^64i-2];
+- c. al fine di garantire l’approvvigionamento della popolazione con questi medicamenti, la Confederazione ha stipulato un contratto con il titolare dell’omologazione.
+
+<sup>3</sup> In caso di consegna di un medicamento da parte di un farmacista autorizzato quale fornitore di prestazioni secondo la LAMal, la Confederazione assume 24 franchi per gli oneri associati alla consegna.
+
+[^64i-1]: Introdotto dal n. I dell’O del 24 ago. 2022, in vigore dal 1° set. 2022 al 31 dic. 2023 ([RU 2022 467](https://fedlex.data.admin.ch/eli/oc/2022/467)).
+[^64i-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+
+#### Art. 64j
+
+**Procedura per l’assunzione dei costi per la consegna di un medicamento contro il vaiolo delle scimmie da parte dei farmacisti**[^64j-1]
+
+<sup>1</sup>
+
+Alla fine dei mesi di marzo, giugno, settembre e dicembre, i farmacisti inviano all’autorità cantonale competente una fattura collettiva per le consegne che hanno effettuato nei tre mesi precedenti secondo l’articolo 64*i* capoverso 3. Sulla fattura devono essere indicati:
+
+- a. il numero di consegne effettuate nel periodo di fatturazione;
+- b. l’importo forfettario per ogni consegna effettuata;
+- c. l’importo complessivo di tutte le consegne effettuate.
+
+<sup>2</sup> La fattura può comprendere soltanto le prestazioni fornite in relazione alle consegne. Deve essere trasmessa per via elettronica.
+
+<sup>3</sup> L’autorità cantonale competente controlla la plausibilità delle fatture in base alle consegne effettuate nel Cantone, ne verifica la completezza e, dopo averle saldate, le trasmette per via elettronica all’UFSP entro il decimo giorno lavorativo del mese successivo al periodo di fatturazione.
+
+<sup>4</sup> La Confederazione versa ai Cantoni l’importo dovuto entro 20 giorni lavorativi dal ricevimento delle fatture di cui al capoverso 3.
+
+[^64j-1]: Introdotto dal n. I dell’O del 24 ago. 2022, in vigore dal 1° set. 2022 al 31 dic. 2023 ([RU 2022 467](https://fedlex.data.admin.ch/eli/oc/2022/467)).
+
 ### Sezione 3: Trasporto di merci
 
 #### Art. 65
@@ -1574,19 +1672,27 @@ Sono abrogate le seguenti ordinanze:
 
 <sup>2</sup> Le precedenti autorizzazioni a eseguire vaccinazioni contro la febbre gialla rimangono valide fino alla scadenza, tuttavia al massimo due anni dall’entrata in vigore della presente ordinanza.
 
+#### Art. 108a
+
+**Disposizioni transitorie relative alla modifica del 24 agosto 2022**[^108a-1]
+
+Le fatture collettive di cui all’articolo 64*h* capoverso 1 e 64*j* capoverso 1 devono essere trasmesse per la prima volta alle autorità cantonali competenti entro la fine di dicembre 2022.
+
+[^108a-1]: Introdotto dal n. I dell’O del 24 ago. 2022, in vigore dal 1° set. 2022 al 31 dic. 2023 ([RU 2022 467](https://fedlex.data.admin.ch/eli/oc/2022/467)).
+
 #### Art. 109
 
 **Entrata in vigore**
 
 La presente ordinanza entra in vigore il 1° gennaio 2016.
 
-Allegato*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 64*e* cpv. 1 e 2)
 
 ## Medicamenti impiegati per il trattamento ambulatoriale di pazienti affetti da COVID-19
 
-[^t-1]: Introdotto dal n. II dell’O del 16 feb. 2022 (Assunzione dei costi dei medicamenti COVID-19), in vigore dal 17 feb. 2022 ([RU 2022 95](https://fedlex.data.admin.ch/eli/oc/2022/95)).
+[^t-1]: Originario allegato. Introdotto dal n. II dell’O del 16 feb. 2022 (Assunzione dei costi dei medicamenti COVID-19), in vigore dal 17 feb. 2022 ([RU 2022 95](https://fedlex.data.admin.ch/eli/oc/2022/95)).
 
 - 1\. La Confederazione assume i costi secondo l’articolo 64*e* capoversi 3 e 4 per i seguenti medicamenti impiegati per il trattamento ambulatoriale di pazienti affetti da COVID-19:
 
@@ -1614,7 +1720,7 @@ Allegato*[^t-1]*
 
   - a.
 
-    prescritti dai seguenti fornitori di prestazioni secondo la LAMal[^annexu1-lvlu1-1]:
+    prescritti dai seguenti fornitori di prestazioni secondo la LAMal[^annex1-lvlu1-1]:
 
     - 1\. medici,
     - 2\. ospedali;
@@ -1627,4 +1733,31 @@ Allegato*[^t-1]*
     - 2\. farmacisti,
     - 3\. ospedali.
 
-[^annexu1-lvlu1-1]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^annex1-lvlu1-1]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+
+Allegato 2[^t-2]
+
+(art. 64*i* cpv. 1 e 2)
+
+## Medicamenti impiegati per il trattamento ambulatoriale o ospedaliero di pazienti affetti da vaiolo delle scimmie
+
+[^t-2]: Introdotto dal n. II dell’O del 24 ago. 2022, in vigore dal 1° set. 2022 al 31 dic. 2023 ([RU 2022 467](https://fedlex.data.admin.ch/eli/oc/2022/467)).
+
+- 1\. La Confederazione assume i costi per i seguenti medicamenti impiegati per il trattamento ambulatoriale o ospedaliero di pazienti affetti da vaiolo delle scimmie:
+
+<table>
+<tr><th>Medicamento</th></tr>
+<tr><td>Tecovirimat</td></tr>
+</table>
+
+- 2\.
+
+  Assume i costi dei medicamenti soltanto per le persone che:
+
+  - a. sono sintomatiche; e
+  - b.
+
+    sono trattate come segue:
+
+    - 1\. nel quadro dell’indicazione omologata, o
+    - 2\. prima dell’omologazione del medicamento, ma applicando le raccomandazioni delle società specializzate responsabili e tenendo conto dei dati epidemiologici.
