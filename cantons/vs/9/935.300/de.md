@@ -1,24 +1,25 @@
 ---
 canton: VS
 number: "935.300"
-title: "Verordnung betreffend das Gesetz über die Beherbergung, die Bewirtung und den Kleinhandel mit alkoholischen Getränken"
+title: "Verordnung betreffend das Gesetz über die Beherbergung, die Bewirtung und den Kleinhandel mit alkoholischen Getränken *"
 short: VBB
 language: de
-version: 2005-01-01
-corrected: 2017-10-16
-version_adopted: 2004-11-03
+version: 2022-09-01
+valid_until: 2024-12-31
+version_adopted: 2022-06-22
 adopted: 2004-11-03
 in_force: 2005-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/935.300"
-pdf: "https://lex.vs.ch/api/de/versions/99/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/3042/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung betreffend das Gesetz über die Beherbergung, die Bewirtung und den Kleinhandel mit alkoholischen Getränken
 
-vom 3. November 2004
+(VBB)
+
+vom 03.11.2004 (Stand 01.09.2022)
 
 Der Staatsrat des Kantons Wallis
 
@@ -28,50 +29,50 @@ auf Antrag des Departements für Volkswirtschaft, Institutionen und Sicherheit,
 
 verordnet:
 
-### 1. Kapitel: Allgemeine Bestimmungen
+## 1 Allgemeine Bestimmungen
 
 #### Art. 1
 
 **Zuständige Behörde**
 
-Zuständig ist das mit der Beherbergung, der Bewirtung und dem Kleinhandel mit alkoholischen Getränken beauftragte Departement, vertreten durch die Dienststelle für Industrie, Handel und Arbeit (nachfolgend Dienststelle genannt).
+<sup>1</sup> Zuständig ist das mit der Beherbergung, der Bewirtung und dem Kleinhandel mit alkoholischen Getränken beauftragte Departement, vertreten durch die Dienststelle für Industrie, Handel und Arbeit (nachfolgend: Dienststelle).
 
 #### Art. 2
 
 **Begriffe**
 
-Im Bereich der Beherbergung und der Bewirtung versteht man unter:
+<sup>1</sup> Im Bereich der Beherbergung und der Bewirtung versteht man unter:
 
-- gewerbsmässigem Angebot, jedes dauernde oder gelegentliche Angebot von Dienstleistungen, welches unabhängig von der gewählten rechtlichen Betriebsform eine Einnahme zur Folge hat. Die ausschliesslich unentgeltliche Degustation gilt nicht als gewerbsmässiges Angebot.
-
-- gelegentlichem Angebot von Speisen und Getränken, jedes zeitlich befristete Angebot, insbesondere anlässlich einer sportlichen, kulturellen oder sozialen Veranstaltung ohne Wiederholungscharakter. Das regelmässige, wöchentliche, monatliche oder saisonale Angebot gilt nicht als gelegentlich.
-
-- Beherbergung, jede Aufnahme von Gästen gegen Bezahlung und Erbringung von hotelmässigen Leistungen mittels Beherbergungsvertrag, unabhängig von Art und Ort der Beherbergung.
-
-- hotelmässiger Leistung, mindestens das Angebot eines regelmässigen Zimmerdienstes oder das Servieren des Frühstücks.
-
-- Beherbergung von geringer Bedeutung, eine Beherbergungskapazität von maximal sechs Gästen.
-
-- Plätzen für Camping, jedes Angebot von Plätzen, insbesondere für Zelte, Wohnwagen und mobile. Die Dauerplätze für Camping gelten nicht als solche.
+- a) gewerbsmässigem Angebot: jedes dauernde oder gelegentliche Angebot von Dienstleistungen, welches unabhängig von der gewählten rechtlichen Betriebsform eine Einnahme zur Folge hat. Die ausschliesslich unentgeltliche Degustation gilt nicht als gewerbsmässiges Angebot;
+- b) gelegentlichem Angebot von Speisen und Getränken: jedes zeitlich befristete Angebot, insbesondere anlässlich einer sportlichen, kulturellen oder sozialen Veranstaltung ohne Wiederholungscharakter. Das regelmässige, wöchentliche, monatliche oder saisonale Angebot gilt nicht als gelegentlich;
+- c) Beherbergung: jede Aufnahme von Gästen gegen Bezahlung und Erbringung von hotelmässigen Leistungen mittels Beherbergungsvertrag, unabhängig von Art und Ort der Beherbergung;
+- d) hotelmässiger Leistung: direktes Angebot oder Angebot über Dritte mindestens eines regelmässigen Zimmerdienstes oder des Servierens von Frühstück;
+- e) Beherbergung von geringer Bedeutung: eine Beherbergungskapazität von maximal sechs Gästen;
+- f) Plätzen für Camping: jedes Angebot von Plätzen, insbesondere für Zelte, Wohnwagen und Mobilhomes. Die von der Gemeinde zur Verfügung gestellten Standplätze sowie die Dauerplätze für Camping gelten nicht als solche;
+- g) einer für die Betriebsführung verantwortlichen, natürlichen Person: jede natürliche Person, die handlungsfähig ist, der die zuständige Behörde eine Betriebsbewilligung ausstellen kann und die eine der folgenden Bedingungen erfüllt:
+  - 1\. der Betreiber übt seine Tätigkeit als Selbstständigerwerbender im Sinne des Sozialversicherungsrechts aus,
+  - 2\. der Betreiber übt seine Tätigkeit als juristische Person aus und verfügt innerhalb dieser juristischen Person, insbesondere aufgrund seiner Eintragung im Handelsregister als Verwaltungsrat oder Gesellschafter, über die entscheidende Befugnis,
+  - 3\. der Betreiber übt eine unselbstständige Erwerbstätigkeit als Geschäftsführer einer juristischen Person aus und muss im Betrieb selber anwesend sein.
 
 #### Art. 3
 
-Anstalten mit medizinischem, sozialem, erzieherischem oder religiösem Charakter Das Angebot der Beherbergung, von Speisen, von alkoholischen oder alkoholfreien Getränken in Anstalten mit medizinischem, sozialem, erzieherischem oder religiösem Charakter untersteht nicht dem Gesetz, sofern der Zugang ausschliesslich ihren Patienten und Bewohnern vorbehalten ist.
+**Anstalten mit gesundheitlichem, sozialem, erzieherischem oder religiösem Charakter**
+
+<sup>1</sup> Das Angebot der Beherbergung, von Speisen, von alkoholischen oder alkoholfreien Getränken in Anstalten mit gesundheitlichem, sozialem, erzieherischem oder religiösem Charakter untersteht nicht dem Gesetz, sofern der Zugang ausschliesslich ihren Patienten und Bewohnern sowie deren Familien vorbehalten ist.
 
 #### Art. 4
 
 **Personal-, Betriebs- und Baustellenkantinen**
 
-Das Angebot von Speisen und/oder von alkoholischen oder alkoholfreien Getränken in Personal-, Betriebs- und Baustellenkantinen untersteht nicht dem Gesetz, sofern der Zugang ausschliesslich dem Personal und den Angestellten vorbehalten ist.
+<sup>1</sup> Das Angebot von Speisen und/oder von alkoholischen oder alkoholfreien Getränken in Personal-, Betriebs- und Baustellenkantinen untersteht nicht dem Gesetz, sofern der Zugang ausschliesslich dem Personal und den Angestellten vorbehalten ist.
 
 #### Art. 5
 
-Räumlichkeiten, die von nicht mehrwertsteuerpflichtigen Sport-, Kultur-, oder Sozialvereinen geführt werden
+**Räumlichkeiten, die von nicht mehrwertsteuerpflichtigen Sport-, Kultur-, oder Sozialvereinen geführt werden**
 
-<sup>1</sup> Das Angebot von Speisen und/oder von alkoholischen oder alkoholfreien Getränken für Dritte in Räumlichkeiten, die von Sport-, Kultur-, oder Sozialvereinen geführt werden, untersteht nicht dem Gesetz, sofern:
+<sup>1</sup> Das Angebot von Speisen und/oder von alkoholischen oder alkoholfreien Getränken in Räumlichkeiten, die von Sport-, Kultur-, oder Sozialvereinen geführt werden, untersteht nicht dem Gesetz, sofern:
 
-- a) das Angebot ausschliesslich im Zusammenhang mit einer durch den Verein organisierten Veranstaltung oder Tätigkeit auf eigene Rechnung und in Übereinstimmung mit dem Vereinszweck erfolgt und
-
+- a) das Angebot ausschliesslich im Zusammenhang mit einer durch den Verein organisierten Veranstaltung oder Tätigkeit auf eigene Rechnung und in Übereinstimmung mit dem Vereinszweck erfolgt; und
 - b) der Verein nicht der MwSt. unterliegt.
 
 <sup>2</sup> Die Unterstellungspflicht unter die MwSt. richtet sich nach den Vorschriften des Bundesgesetzes über die Mehrwertsteuer.
@@ -82,17 +83,21 @@ Räumlichkeiten, die von nicht mehrwertsteuerpflichtigen Sport-, Kultur-, oder S
 
 **Werbung**
 
-Den Anstalten, Kantinen und Räumlichkeiten gemäss Artikel 3, 4 und 5 ist es untersagt, Werbung für die angebotene Beherbergung, die angebotenen Speisen und Getränke zu machen.
+<sup>1</sup> Den Anstalten, Kantinen und Räumlichkeiten gemäss Artikel 3, 4 und 5 ist es untersagt, Werbung für die angebotene Beherbergung, die angebotenen Speisen und Getränke zu machen.
 
 #### Art. 7
 
-**Amtsblatt**
+**Übermittlung von Daten für statistische Zwecke**
 
-Die Inhaber einer Betriebsbewilligung, welche dauernd Speisen und/oder alkoholische oder alkoholfreie Getränke zum Genuss vor Ort anbieten, sind verpflichtet das Amtsblatt zu abonnieren und dieses der Kundschaft zur Verfügung zu stellen.
+<sup>1</sup> Die Daten, die für statistische Zwecke im Sinne des Gesetzes übermittelt werden können, sind insbesondere folgende:
 
-### 2. Kapitel: Bestimmungen betreffend die Beherbergung und die Bewirtung
+- a) Kategorie des gewerbsmässigen Angebots;
+- b) erzielter Umsatz;
+- c) Daten in Zusammenhang mit der Gästekontrolle.
 
-### 1. Abschnitt: Erteilung der Betriebsbewilligung
+## 2 Bestimmungen betreffend die Beherbergung und die Bewirtung
+
+### 2.1 Erteilung der Betriebsbewilligung
 
 #### Art. 8
 
@@ -103,12 +108,11 @@ Die Inhaber einer Betriebsbewilligung, welche dauernd Speisen und/oder alkoholis
 <sup>2</sup> Das Betriebsbewilligungsgesuch beinhaltet:
 
 - a) das vom Gesuchsteller vollständig ausgefüllte und unterzeichnete offizielle Formular;
-
-- b) ein Strafregisterauszug, ausgestellt innerhalb des der Gesuchseinreichung vorangehenden Monats;
-
-- c) ein Handelsregisterauszug, ausgestellt innerhalb der letzten drei der Gesuchseinreichung vorangehenden Monate, sofern der Gesuchsteller im Handelregister eingetragen oder für eine ins Handelsregister eintragungspflichtige Gesellschaft tätig ist;
-
-- d) die durch das zuständige Departement erteilte Prüfungsbestätigung oder Bestätigung einer anerkannten Berufsausbildung oder Berufserfahrung.
+- b) einen Strafregisterauszug, ausgestellt innerhalb des der Gesuchseinreichung vorangehenden Monats;
+- c) einen Handelsregisterauszug, ausgestellt innerhalb der letzten 3 der Gesuchseinreichung vorangehenden Monate, sofern der Gesuchsteller im Handelsregister eingetragen oder für eine im Handelsregister eintragungspflichtige Gesellschaft tätig ist;
+- d) die Prüfungsbescheinigung oder die Bescheinigung der Anerkennung der Ausbildung oder der Berufserfahrung, die vom zuständigen Departement ausgestellt wurde;
+- e) einen innerhalb der letzten 3 Monate vor der Gesuchseinreichung ausgestellten Betreibungsregisterauszug des Betreibungs- und Konkursamtes des Wohnsitzes des Gesuchstellers, der belegt, dass der Gesuchsteller für die letzten 5 Jahre keine unbezahlten Verlustscheine aufzuweisen hat. Falls der Wohnsitz des Gesuchstellers ausserhalb des Kantons liegt oder in den letzten 5 Jahren ausserhalb des Kantons lag, so ist dem Gesuch ein Betreibungsregisterauszug des jeweils zuständigen Betreibungs- und Konkursamtes beizulegen;
+- f) ein innerhalb der letzten 3 Monate vor der Gesuchseinreichung ausgestelltes Handlungsfähigkeitszeugnis.
 
 #### Art. 9
 
@@ -117,24 +121,17 @@ Die Inhaber einer Betriebsbewilligung, welche dauernd Speisen und/oder alkoholis
 <sup>1</sup> Die formelle Betriebsbewilligung beinhaltet:
 
 - a) die Bezeichnung ihres Inhabers;
-
 - b) die Bezeichnung des allfälligen Arbeitgebers, für den der Inhaber die Betriebsführung sicherstellt;
-
 - c) die Bezeichnung und Umschreibung der Räumlichkeiten, der Plätze, des Schildes und der Dienstleistungen, welche der Kundschaft angeboten werden;
-
 - d) die Festlegung der Öffnungs- und Schliessungszeiten;
-
 - e) die Festlegung der Auflagen und Bedingungen;
-
 - f) ihre Dauer, sofern es sich um ein gelegentliches Angebot handelt;
-
 - g) die Höhe der Gebühr und ihr Schuldner;
-
 - h) die Angabe des Beschwerderechts und der -frist.
 
 <sup>2</sup> Eine Kopie des Entscheides ist jeweils zusammen mit dem Gesuchsformular der Dienststelle zuzustellen.
 
-### 2. Abschnitt: Obligatorische Prüfung und Vorbereitungskurse
+### 2.2 Obligatorische Prüfung und Vorbereitungskurse
 
 #### Art. 10
 
@@ -142,7 +139,7 @@ Die Inhaber einer Betriebsbewilligung, welche dauernd Speisen und/oder alkoholis
 
 <sup>1</sup> Eine schriftliche obligatorische Prüfung wird regelmässig in beiden Amtssprachen durchgeführt.
 
-<sup>2</sup> Der Staatsrat ernennt nach Anhörung der Kommission für die Aus- und Weiterbildung (nachfolgend Kommission genannt) die Experten für die obligatorische Prüfung.
+<sup>2</sup> Der Staatsrat ernennt nach Anhörung der Kommission für die Aus- und Weiterbildung (nachfolgend: Kommission) die Experten für die obligatorische Prüfung.
 
 <sup>3</sup> Die Ziele, der Inhalt und die Dauer der obligatorischen Prüfung werden durch die Kommission bestimmt und dem Staatsrat zur Genehmigung unterbreitet.
 
@@ -165,8 +162,7 @@ Die Inhaber einer Betriebsbewilligung, welche dauernd Speisen und/oder alkoholis
 <sup>1</sup> Von der obligatorischen Prüfung befreit sind:
 
 - a) Personen, welche gelegentlich Speisen und Getränke anbieten;
-
-- b) Personen, welche eine Beherbergung von geringer Bedeutung anbieten;
+- b) Personen, welche eine Beherbergung von geringer Bedeutung anbieten.
 
 <sup>2</sup> Ebenfalls befreit sind Personen mit einer Anerkennungsbestätigung ihrer Berufsausbildung oder -erfahrung. Vorbehalten bleiben die Bestimmungen betreffend die Anerkennung von Berufsausbildungen und -erfahrungen.
 
@@ -204,9 +200,9 @@ Die Inhaber einer Betriebsbewilligung, welche dauernd Speisen und/oder alkoholis
 
 **Kosten**
 
-Der Staatsrat legt nach Anhören der Kommission mittels Beschluss die Einschreibegebühren und die Schulkosten fest.
+<sup>1</sup> Der Staatsrat legt nach Anhören der Kommission mittels Beschluss die Einschreibegebühren und die Schulkosten fest.
 
-### 3. Abschnitt: Weiterbildung
+### 2.3 Weiterbildung
 
 #### Art. 17
 
@@ -214,7 +210,7 @@ Der Staatsrat legt nach Anhören der Kommission mittels Beschluss die Einschreib
 
 <sup>1</sup> Es werden regelmässig punktuelle Weiterbildungskurse organisiert.
 
-<sup>2</sup> Alle Inhaber einer Betriebsbewilligung, welche der jährlichen Abgabe unterstellt sind, sowie deren Angestellte haben Anspruch auf unentgeltlichen Besuch der angebotenen Kurse, sofern die Mittel des kantonalen Fonds für die Aus- und Weiterbildung (nachfolgend kantonaler Fonds genannt) ausreichen. Vorbehalten bleibt die Bezahlung einer Einschreibegebühr.
+<sup>2</sup> Alle Inhaber einer Betriebsbewilligung, welche der jährlichen Abgabe unterstellt sind, sowie deren Angestellte haben Anspruch auf unentgeltlichen Besuch der angebotenen Kurse, sofern die Mittel des kantonalen Fonds für die Aus- und Weiterbildung (nachfolgend: kantonaler Fonds) ausreichen. Vorbehalten bleibt die Bezahlung einer Einschreibegebühr.
 
 <sup>3</sup> Der Besuch eines punktuellen Weiterbildungskurses wird mindestens mit der Aushändigung einer Teilnahmebestätigung abgeschlossen.
 
@@ -236,13 +232,13 @@ Der Staatsrat legt nach Anhören der Kommission mittels Beschluss die Einschreib
 
 <sup>2</sup> Die Anforderungen, das Controlling sowie die Qualitätssicherung sind im Leistungsauftrag geregelt.
 
-### 3. Kapitel: Kommission und kantonaler Fonds für die Aus- und Weiterbildung
+## 3 Kommission und kantonaler Fonds für die Aus- und Weiterbildung
 
 #### Art. 20
 
 **Kommission**
 
-Die Kommission setzt sich aus sieben Mitgliedern zusammen, nämlich zwei Vertretern von GastroWallis, zwei Vertretern der Hotellerie Schweiz/Wallis, einem Vertreter des Walliser Campingverbands und zwei Vertretern der kantonalen Verwaltung.
+<sup>1</sup> Die Kommission setzt sich aus sieben Mitgliedern zusammen, nämlich zwei Vertretern von GastroWallis, zwei Vertretern der Hotellerie Schweiz/Wallis, einem Vertreter des Walliser Campingverbands und zwei Vertretern der kantonalen Verwaltung.
 
 #### Art. 21
 
@@ -253,9 +249,7 @@ Die Kommission setzt sich aus sieben Mitgliedern zusammen, nämlich zwei Vertret
 <sup>2</sup> Das Budget unterscheidet zumindest die Ausgaben betreffend:
 
 - a) die Funktion und Tätigkeiten der Kommission;
-
 - b) die Aus- und Weiterbildungskurse;
-
 - c) die geplanten besonderen Massnahmen und spezifischen Aktionen, insbesondere für die Nachwuchsförderung.
 
 <sup>3</sup> Das Budget wird dem Staatsrat zur Genehmigung unterbreitet.
@@ -270,7 +264,7 @@ Die Kommission setzt sich aus sieben Mitgliedern zusammen, nämlich zwei Vertret
 
 <sup>3</sup> Sie gibt der Kommission regelmässig oder auf Anfrage Bericht über die Buchführung und übermittelt dem zuständigen Departementsvorsteher jährlich die Abrechnungen und den Buchführungsbericht.
 
-### 4. Kapitel: Kleinhandel mit alkoholischen Getränken
+## 4 Kleinhandel mit alkoholischen Getränken
 
 #### Art. 23
 
@@ -284,13 +278,13 @@ Die Kommission setzt sich aus sieben Mitgliedern zusammen, nämlich zwei Vertret
 
 **Gesuchseinreichung**
 
-Das Gesuch um Erteilung einer Kleinhandelsbewilligung ist mittels offiziellen Formulars bei der Dienststelle einzureichen.
+<sup>1</sup> Das Gesuch um Erteilung einer Kleinhandelsbewilligung ist mittels offiziellen Formulars bei der Dienststelle einzureichen.
 
 #### Art. 25
 
 **Ausnahme von der Bewilligungspflicht**
 
-Ausgenommen von der Bewilligungspflicht des Kleinhandels sind die Produzenten von gegorenen Getränken, die ausschliesslich das Produkt aus ihrer eigenen Ernte verkaufen. Der Verkauf ist ausschliesslich in den Räumlichkeiten ihres Betriebes zulässig.
+<sup>1</sup> Ausgenommen von der Bewilligungspflicht des Kleinhandels sind die Produzenten von gegorenen Getränken, die ausschliesslich das Produkt aus ihrer eigenen Ernte verkaufen. Der Verkauf ist ausschliesslich in den Räumlichkeiten ihres Betriebes zulässig.
 
 #### Art. 26
 
@@ -299,16 +293,13 @@ Ausgenommen von der Bewilligungspflicht des Kleinhandels sind die Produzenten vo
 <sup>1</sup> Es ist verboten:
 
 - a) alkoholische Getränke am Verkaufsort zu geniessen;
-
 - b) alkoholische Getränke ausserhalb der Öffnungszeiten zu verkaufen;
-
 - c) alkoholische Getränke anders als in verschlossenen Behältern zu verkaufen;
-
 - d) Tische und Stühle im Innern des Geschäftes oder in seiner Umgebung zu installieren.
 
 <sup>2</sup> Vorbehalten bleiben die Bestimmungen des eidgenössischen Alkoholgesetzes, des Bundesgesetzes über das Gewerbe der Reisenden, der eidgenössischen Lebensmittelverordnung und des kantonalen Gesetzes betreffend die Ladenöffnung.
 
-### 5. Kapitel: Erteilungsgebühr und jährliche Abgabe
+## 5 Erteilungsgebühr und jährliche Abgabe
 
 #### Art. 27
 
@@ -320,7 +311,7 @@ Ausgenommen von der Bewilligungspflicht des Kleinhandels sind die Produzenten vo
 
 #### Art. 28
 
-Festsetzung, Zustellung, Verfall und Inkasso der jährlichen Abgabe
+**Festsetzung, Zustellung, Verfall und Inkasso der jährlichen Abgabe**
 
 <sup>1</sup> Die jährliche Abgabe wird durch die Dienststelle festgelegt und einkassiert.
 
@@ -360,7 +351,7 @@ Festsetzung, Zustellung, Verfall und Inkasso der jährlichen Abgabe
 
 <sup>4</sup> Die Einschätzung von Amtes wegen kommt einem Urteil im Sinne von Artikel 80 des Bundesgesetzes über Schuldbetreibung und Konkurs gleich.
 
-### 6. Kapitel: Verfahrens-, Übergangs- und Schlussbestimmungen
+## 6 Verfahrens-, Übergangs- und Schlussbestimmungen
 
 #### Art. 32
 
@@ -369,63 +360,41 @@ Festsetzung, Zustellung, Verfall und Inkasso der jährlichen Abgabe
 <sup>1</sup> Die in Artikel 30 des Gesetzes vorgesehene Veröffentlichung enthält mindestens:
 
 - a) die Bezeichnung des Gesuchstellers;
-
 - b) die Bezeichnung des allfälligen Arbeitgebers, für den der Gesuchsteller die Betriebsführung sicherstellt;
-
 - c) die Bezeichnung und die Umschreibung der Räumlichkeiten und Plätze;
-
 - d) die Bezeichnung des Schildes;
-
 - e) die Umschreibung der Leistungen, welche der Kundschaft angeboten werden;
-
 - f) die nachgesuchten Öffnungs- und Schliessungszeiten.
 
 <sup>2</sup> Die Veröffentlichung für den Kleinhandel mit alkoholischen Getränken enthält ausschliesslich die Angaben der Buchstaben a, c, d und e.
 
 #### Art. 33
 
-**Nach altem Recht erteilte Patente und Bewilligungen**
-
-<sup>1</sup> Die nach altem Recht erteilten Patente und Bewilligungen bleiben solange gültig, bis die zuständige Behörde eine Bewilligung im Sinne des neuen Rechts erteilt hat.
-
-<sup>2</sup> Die zuständige Behörde verfügt ab In-Kraft-Treten des Gesetzes über eine Frist von sechs Monaten, um diese Anpassung vorzunehmen.
-
-<sup>3</sup> Die Inhaber einer nach altem Recht erteilten Bewilligung verfügen ab In-Kraft-Treten des Gesetzes über eine Frist von einem Jahr, um die in Artikel 6 Absatz 2 des Gesetzes vorgesehenen persönlichen Voraussetzungen zu erfüllen.
-
-<sup>4</sup> Die bei In-Kraft-Treten des neuen Rechts hängigen Verfahren betreffend Erneuerung, Veranlagung und Rechnungstellung werden nach altem Recht behandelt.
+**…**
 
 #### Art. 34
 
-**Neu Unterstellte**
-
-Personen, welche bereits Beherbergung, Speisen oder alkoholische oder alkoholfreie Getränke angeboten haben und unter den Geltungsbereich des neuen Rechts fallen, verfügen ab In-Kraft-Treten des neuen Gesetzes über eine Frist von sechs Monaten, um sich diesen Bestimmungen anzupassen.
+**…**
 
 #### Art. 35
 
-**Kantonaler Gastgewerbefonds**
-
-Das Vermögen des kantonalen Gastgewerbefonds per 31. Dezember 2004 wird in den kantonalen Fonds für die Aus- und Weiterbildung übertragen.
+**…**
 
 #### Art. 36
 
 **Aufhebung**
 
-Durch die vorliegende Verordnung aufgehoben werden:
+<sup>1</sup> Durch die vorliegende Verordnung aufgehoben werden:
 
-- a) die Verordnung vom 18. Dezember 1996 über das Gastgewerbe und den Handel mit alkoholischen Getränken;
-
-- b) die Verordnung vom 9. Mai 2001 über die kantonalen Fachausweise als Gastwirt, Hotelier und Betreiber eines Campings;
-
-- c) der Beschluss vom 9. Mai 2001 betreffend die Einschreibegebühr zur Erlangung von kantonalen Fachausweisen als Gastwirt, Hotelier und Betreiber eines Campings;
-
-- d) die Verordnung vom 10. Dezember 1997 über den kantonalen Gastgewerbefonds.
+- a) die Verordnung über das Gastgewerbe und den Handel mit alkoholischen Getränken vom 18. Dezember 1996;
+- b) die Verordnung über die kantonalen Fachausweise als Gastwirt, Hotelier und Betreiber eines Campings vom 9. Mai 2001;
+- c) der Beschluss betreffend die Einschreibegebühr zur Erlangung von kantonalen Fachausweisen als Gastwirt, Hotelier und Betreiber eines Campings vom 9. Mai 2001;
+- d) die Verordnung über den kantonalen Gastgewerbefonds vom 10. Dezember 1997.
 
 #### Art. 37
 
-**Veröffentlichung und In-Kraft-Treten**
+**Veröffentlichung und Inkrafttreten**
 
-Die vorliegende Verordnung wird im Amtsblatt veröffentlicht, um gleichzeitig wie das Gesetz in Kraft zu treten.
+<sup>1</sup> Die vorliegende Verordnung wird im Amtsblatt veröffentlicht, um gleichzeitig wie das Gesetz in Kraft zu treten.
 
-So angenommen im Staatsrat, zu Sitten, den 3. November 2004.
-
-Der Präsident des Staatsrates: Jean-René Fournier Der Staatskanzler: Henri v. Roten
+CSW RO/AGS 2004 f 265, 383 | d 276, 291

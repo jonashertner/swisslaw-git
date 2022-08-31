@@ -4,72 +4,75 @@ number: "935.300"
 title: "Ordonnance concernant la loi sur l'hébergement, la restauration et le commerce de détail de boissons alcoolisées"
 short: OHR
 language: fr
-version: 2005-01-01
-corrected: 2017-10-16
-version_adopted: 2004-11-03
+version: 2022-09-01
+valid_until: 2024-12-31
+version_adopted: 2022-06-22
 adopted: 2004-11-03
 in_force: 2005-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/935.300"
-pdf: "https://lex.vs.ch/api/fr/versions/99/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/fr/versions/3042/pdf_file"
 ---
 
-> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Ordonnance concernant la loi sur l'hébergement, la restauration et le commerce de détail de boissons alcoolisées
 
-du 3 novembre 2004
+(OHR)
+
+du 03.11.2004 (état 01.09.2022)
 
 Le Conseil d'Etat du Canton du Valais
 
 vu les articles 6 alinéa 3, 8 alinéa 2, 17, 20 alinéa 2, 23 alinéa 3, 25 alinéa 4, 28, 29 alinéa 3 et 34 alinéa 3 de la loi sur l'hébergement, la restauration et le commerce de détail de boissons alcoolisées du 8 avril 2004;
 
-sur la proposition du département de l'économie, des institutions et de la sécurité,
+sur la proposition du Département de l'économie, des institutions et de la sécurité,
 
 ordonne:
 
-### Chapitre 1: Dispositions générales
+## 1 Dispositions générales
 
-#### Article premier
+#### Art. 1
 
 **Département compétent**
 
-Le département compétent est celui dont relève l'hébergement, la restauration et le commerce de détail de boissons alcoolisées, par son Service de l'industrie, du commerce et du travail (ci-après: Service).
+<sup>1</sup> Le département compétent est celui dont relève l'hébergement, la restauration et le commerce de détail de boissons alcoolisées, par son Service de l'industrie, du commerce et du travail (ci-après: Service).
 
 #### Art. 2
 
 **Définitions**
 
-En matière d'hébergement et de restauration, on entend par:
+<sup>1</sup> En matière d'hébergement et de restauration, on entend par:
 
-- offre à titre commercial, toute offre permanente ou occasionnelle de prestations de service ayant pour conséquence l'obtention d'un revenu, sans égard à la forme juridique d'exploitation choisie. La dégustation exclusivement gratuite n'est pas une offre à titre commercial.
-
-- offre occasionnelle de mets et de boissons, toute offre limitée dans le temps, notamment à l'occasion d'une manifestation sportive, culturelle ou sociale sans caractère répétitif. L'offre régulière, hebdomadaire, mensuelle ou saisonnière n'est pas considérée comme occasionnelle.
-
-- hébergement, tout logement d'hôtes liés par un contrat d'hébergement contre rémunération et fourniture de prestations hôtelières, indépendamment du genre et du lieu d'hébergement.
-
-- prestation hôtelière, l'offre, au minimum, d'un service régulier de la chambre ou le service du petitdéjeuner.
-
-- hébergement de faible importance, une capacité d'hébergement pour six hôtes au maximum.
-
-- emplacements de camping, toute offre d'emplacements à destination notamment de tentes, caravanes et mobilhomes. Les emplacements de camping résidentiels ne sont pas considérés comme tels.
+- a) offre à titre commercial: toute offre permanente ou occasionnelle de prestations de service ayant pour conséquence l'obtention d'un revenu, sans égard à la forme juridique d'exploitation choisie. La dégustation exclusivement gratuite n'est pas une offre à titre commercial;
+- b) offre occasionnelle de mets et de boissons: toute offre limitée dans le temps, notamment à l'occasion d'une manifestation sportive, culturelle ou sociale sans caractère répétitif. L'offre régulière, hebdomadaire, mensuelle ou saisonnière n'est pas considérée comme occasionnelle;
+- c) hébergement: tout logement d'hôtes liés par un contrat d'hébergement contre rémunération et fourniture de prestations hôtelières, indépendamment du genre et du lieu d'hébergement;
+- d) prestation hôtelière: l'offre directe ou par le biais d’un tiers, au minimum, d'un service régulier de la chambre ou le service du petit-déjeuner;
+- e) hébergement de faible importance: une capacité d'hébergement pour six hôtes au maximum;
+- f) emplacements de camping: toute offre d'emplacements à destination notamment de tentes, caravanes et mobilhomes. Les places de stationnement mises à disposition par les communes ainsi que les emplacements de camping résidentiels ne sont pas considérés comme tels;
+- g) personne physique responsable de l’exploitation: toute personne physique à qui l’autorité compétente est susceptible de délivrer une autorisation d’exploiter et qui remplit l’une des conditions suivantes:
+  - 1\. l’exploitant exerce son activité sous le couvert du statut d’indépendant au sens du droit des assurances sociales,
+  - 2\. l’exploitant exerce son activité sous le couvert d’une personne morale et dispose d’un pouvoir décisionnel déterminant au sein de celle-ci, notamment de par son inscription au registre du commerce en qualité d’administrateur ou d’associé gérant,
+  - 3\. l’exploitant exerce une activité salariée, en tant que gérant, pour le compte d’une personne morale, et est au front dans l'exploitation.
 
 #### Art. 3
 
-Etablissements à caractère médical, social, éducatif ou religieux L'offre d'hébergement, de mets, de boissons avec ou sans alcool dans des établissements à caractère médical, social, éducatif ou religieux n'est pas soumise à la loi, pour autant que l'accès soit exclusivement réservé à leurs patients et résidents.
+**Etablissements à caractère sanitaire, social, éducatif ou religieux**
+
+<sup>1</sup> L'offre d'hébergement, de mets, de boissons avec ou sans alcool dans des établissements à caractère sanitaire, social, éducatif ou religieux n'est pas soumise à la loi, pour autant que l'accès soit exclusivement réservé à leurs patients et résidents ainsi qu’à leurs visites.
 
 #### Art. 4
 
-Réfectoires du personnel, des cantines d'entreprises et de chantiers L'offre de mets et/ou de boissons avec ou sans alcool dans des réfectoires du personnel, des cantines d'entreprises ou de chantiers n'est pas soumise à la loi, pour autant que l'accès soit exclusivement réservé au personnel et aux employés.
+**Réfectoires du personnel, des cantines d'entreprises et de chantiers**
+
+<sup>1</sup> L'offre de mets et/ou de boissons avec ou sans alcool dans des réfectoires du personnel, des cantines d'entreprises ou de chantiers n'est pas soumise à la loi, pour autant que l'accès soit exclusivement réservé au personnel et aux employés.
 
 #### Art. 5
 
-Emplacements gérés par des associations sportives, culturelles ou sociales non assujetties à la TVA
+**Emplacements gérés par des associations sportives, culturelles ou sociales non assujetties à la TVA**
 
-<sup>1</sup> L'offre de mets et/ou de boissons avec ou sans alcool servis à des tiers dans des emplacements gérés par des associations sportives, culturelles ou sociales n'est pas soumise à la loi, pour autant que:
+<sup>1</sup> L'offre de mets et/ou de boissons avec ou sans alcool servis dans des emplacements gérés par des associations sportives, culturelles ou sociales n'est pas soumise à la loi, pour autant que:
 
-- a) l'offre se fasse exclusivement en lien avec une manifestation ou une activité organisée par l'association, pour son propre compte et en accord avec le but de l'association et
-
+- a) l'offre se fasse exclusivement en lien avec une manifestation ou une activité organisée par l'association, pour son propre compte et en accord avec le but de l'association, et
 - b) l'association ne soit pas assujettie à la TVA.
 
 <sup>2</sup> L'obligation d'assujettissement à la TVA se détermine conformément aux prescriptions de la loi fédérale régissant la taxe sur la valeur ajoutée.
@@ -80,19 +83,21 @@ Emplacements gérés par des associations sportives, culturelles ou sociales non
 
 **Publicité**
 
-Il est interdit aux établissements, réfectoires, cantines et emplacements des articles 3, 4 et 5 de faire de la publicité pour l'hébergement, les mets et les boissons proposés.
+<sup>1</sup> Il est interdit aux établissements, réfectoires, cantines et emplacements des articles 3, 4 et 5 de faire de la publicité pour l'hébergement, les mets et les boissons proposés.
 
 #### Art. 7
 
-**Bulletin officiel**
+**Transmission des données à des fins de statistique**
 
-Sont tenues de s'abonner au Bulletin officiel et de le mettre à disposition de la clientèle les titulaires d'une autorisation d'exploiter offrant de façon permanente des mets et/ou des boissons avec ou sans alcool à consommer sur place.
+<sup>1</sup> Les données susceptibles de faire l’objet d’une transmission à des fins de statistique au sens de la loi sont notamment les suivantes:
 
-### Chapitre 2: Dispositions concernant l'hébergement et la
+- a) la catégorie d’offre exercée à titre commercial;
+- b) le chiffre d’affaires réalisé;
+- c) les données relatives au contrôle des hôtes.
 
-restauration
+## 2 Dispositions concernant l'hébergement et la restauration
 
-### Section 1: Délivrance de l'autorisation d'exploiter
+### 2.1 Délivrance de l'autorisation d'exploiter
 
 #### Art. 8
 
@@ -103,12 +108,11 @@ restauration
 <sup>2</sup> La demande d'autorisation d'exploiter comprend:
 
 - a) la formule officielle dûment remplie et signée par le requérant;
-
 - b) un extrait du casier judiciaire délivré dans le mois précédent le dépôt de la demande;
-
-- c) un extrait du registre du commerce délivré dans les trois mois précédant le dépôt de la demande, si le requérant est inscrit au registre du commerce ou s'il travaille pour une société ayant l'obligation d'être inscrite au registre du commerce;
-
-- d) l'attestation d'examen ou celle de reconnaissance de la formation ou de l'expérience professionnelle délivrée par le département compétent.
+- c) un extrait du registre du commerce délivré dans les 3 mois précédant le dépôt de la demande, si le requérant est inscrit au registre du commerce ou s'il travaille pour une société ayant l'obligation d'être inscrite au registre du commerce;
+- d) l'attestation d'examen ou celle de reconnaissance de la formation ou de l'expérience professionnelle délivrée par le département compétent;
+- e) un extrait du registre des poursuites de l’office des poursuites et faillites du domicile du requérant, délivré dans les 3 mois précédant la demande, attestant que le requérant ne fait pas l’objet d’un acte de défaut de biens impayé pour les 5 années précédentes. Si le domicile du requérant se situe hors canton ou a été situé hors canton au cours des 5 années précédentes, la demande doit être accompagnée d’un extrait du registre des poursuites de chaque office des poursuites et faillites compétent;
+- f) un certificat de capacité pour l’exercice des droits civils, délivré dans les 3 mois précédant le dépôt de la demande.
 
 #### Art. 9
 
@@ -117,24 +121,17 @@ restauration
 <sup>1</sup> L'autorisation formelle d'exploiter contient:
 
 - a) la dénomination de son titulaire;
-
 - b) la dénomination de l'éventuel employeur pour lequel le titulaire assure l'exploitation;
-
 - c) la détermination et la description des locaux, emplacements, enseigne et prestations proposées à la clientèle;
-
 - d) la fixation des heures d'ouverture et de fermeture;
-
 - e) la fixation de charges ou conditions;
-
 - f) sa durée, si l'offre est occasionnelle;
-
 - g) le montant de l'émolument et son débiteur;
-
 - h) l'indication des voies et délais de recours.
 
 <sup>2</sup> Une copie de chaque décision accompagnée de la formule de demande est adressée au Service.
 
-### Section 2: Examen obligatoire et cours préparatoires
+### 2.2 Examen obligatoire et cours préparatoires
 
 #### Art. 10
 
@@ -165,7 +162,6 @@ restauration
 <sup>1</sup> Sont dispensées de l'examen obligatoire:
 
 - a) les personnes offrant occasionnellement des mets et des boissons;
-
 - b) les personnes offrant de l'hébergement de faible importance.
 
 <sup>2</sup> En sont également dispensées les personnes au bénéfice d'une attestation de reconnaissance de la formation ou de l'expérience professionnelle. Demeurent réservées les dispositions concernant la reconnaissance des formations et expériences professionnelles.
@@ -204,9 +200,9 @@ restauration
 
 **Finances**
 
-Le Conseil d'Etat fixe par arrêté les taxes d'inscription et les frais d'écolage, la commission entendue.
+<sup>1</sup> Le Conseil d'Etat fixe par arrêté les taxes d'inscription et les frais d'écolage, la commission entendue.
 
-### Section 3: Formation continue
+### 2.3 Formation continue
 
 #### Art. 17
 
@@ -236,15 +232,13 @@ Le Conseil d'Etat fixe par arrêté les taxes d'inscription et les frais d'écol
 
 <sup>2</sup> Les exigences, le controlling ainsi que l'assurance qualité sont réglés dans le mandat de prestations.
 
-### Chapitre 3: Commission et fonds cantonal pour la formation et
-
-la formation continue
+## 3 Commission et fonds cantonal pour la formation et la formation continue
 
 #### Art. 20
 
 **Commission**
 
-La commission se compose de sept membres, soit deux représentants de Gastro Valais, deux représentants d'Hôtellerie Suisse/Valais, un représentant de l'Association valaisanne des campings, deux représentants de l'administration cantonale.
+<sup>1</sup> La commission se compose de sept membres, soit deux représentants de Gastro Valais, deux représentants d'Hôtellerie Suisse/Valais, un représentant de l'Association valaisanne des campings, deux représentants de l'administration cantonale.
 
 #### Art. 21
 
@@ -255,9 +249,7 @@ La commission se compose de sept membres, soit deux représentants de Gastro Val
 <sup>2</sup> Le budget distingue, au minimum, des dépenses relatives:
 
 - a) au fonctionnement et aux activités de la commission;
-
 - b) aux cours de formation et formation continue;
-
 - c) aux mesures particulières et actions spécifiques projetées, notamment pour la relève professionnelle.
 
 <sup>3</sup> Le budget est soumis au Conseil d'Etat pour approbation.
@@ -272,7 +264,7 @@ La commission se compose de sept membres, soit deux représentants de Gastro Val
 
 <sup>3</sup> Il fait rapport périodiquement ou sur demande de la gestion comptable à la commission et transmet les comptes et le rapport de gestion annuellement au chef du département compétent.
 
-### Chapitre 4: Commerce de détail de boissons alcoolisées
+## 4 Commerce de détail de boissons alcoolisées
 
 #### Art. 23
 
@@ -286,13 +278,13 @@ La commission se compose de sept membres, soit deux représentants de Gastro Val
 
 **Dépôt de la demande**
 
-La demande en vue de l'obtention d'une autorisation pour le commerce de détail est déposée auprès du Service sur formule officielle.
+<sup>1</sup> La demande en vue de l'obtention d'une autorisation pour le commerce de détail est déposée auprès du Service sur formule officielle.
 
 #### Art. 25
 
 **Exception à l'obligation d'autorisation**
 
-Font exception à l'obligation d'autorisation pour le commerce de détail les producteurs de boissons fermentées qui vendent exclusivement le produit de leur récolte. La vente est exclusivement autorisée dans les locaux de leur exploitation.
+<sup>1</sup> Font exception à l'obligation d'autorisation pour le commerce de détail les producteurs de boissons fermentées qui vendent exclusivement le produit de leur récolte. La vente est exclusivement autorisée dans les locaux de leur exploitation.
 
 #### Art. 26
 
@@ -301,16 +293,13 @@ Font exception à l'obligation d'autorisation pour le commerce de détail les pr
 <sup>1</sup> Il est interdit:
 
 - a) de consommer les boissons alcoolisées sur la place de vente;
-
 - b) de vendre des boissons alcoolisées en dehors des heures d'ouverture;
-
 - c) de vendre des boissons alcoolisées autrement qu'en récipients fermés;
-
 - d) d'installer des tables ou des chaises à l'intérieur du commerce et aux alentours de celui-ci.
 
 <sup>2</sup> Demeurent réservées les dispositions de la loi fédérale sur l'alcool, de la loi fédérale sur le commerce itinérant, de l'ordonnance fédérale sur les denrées alimentaires et de la loi cantonale concernant l'ouverture des magasins.
 
-### Chapitre 5: Emolument de délivrance et redevance annuelle
+## 5 Emolument de délivrance et redevance annuelle
 
 #### Art. 27
 
@@ -322,7 +311,7 @@ Font exception à l'obligation d'autorisation pour le commerce de détail les pr
 
 #### Art. 28
 
-Fixation, notification, échéance et encaissement de la redevance annuelle
+**Fixation, notification, échéance et encaissement de la redevance annuelle**
 
 <sup>1</sup> La redevance annuelle est fixée et encaissée par le Service.
 
@@ -358,11 +347,11 @@ Fixation, notification, échéance et encaissement de la redevance annuelle
 
 <sup>2</sup> Si les renseignements ne sont pas fournis dans le délai imparti, un ultime délai est accordé au titulaire de l'autorisation pour remettre les renseignements.
 
-<sup>3</sup> En cas de non-respect de ce délai, il est procédé à une taxation d'office. La taxation se fait en tenant compte du chiffre d'affaires réalisé l'année précédente majoré de 5% et des frais pour le travail administratif de l'autorité.
+<sup>3</sup> En cas de non-respect de ce délai, il est procédé à une taxation d'office. La taxation se fait en tenant compte du chiffre d'affaires réalisé l'année précédente majoré de 5 pour cent et des frais pour le travail administratif de l'autorité.
 
 <sup>4</sup> La taxation d'office équivaut à un jugement au sens de l'article 80 de la loi fédérale sur la poursuite pour dettes et la faillite.
 
-### Chapitre 6: Dispositions de procédure, transitoires et finales
+## 6 Dispositions de procédure, transitoires et finales
 
 #### Art. 32
 
@@ -371,63 +360,41 @@ Fixation, notification, échéance et encaissement de la redevance annuelle
 <sup>1</sup> La publication prévue à l'article 30 de la loi comporte au moins:
 
 - a) la dénomination du requérant;
-
 - b) la dénomination de l'éventuel employeur pour lequel le requérant assure l'exploitation;
-
 - c) la détermination et la description des locaux et emplacements;
-
 - d) la détermination de l'enseigne;
-
 - e) la description des prestations proposées à la clientèle;
-
 - f) les heures d'ouverture et de fermeture sollicitées.
 
 <sup>2</sup> La publication pour le commerce de détail de boissons alcoolisées ne comporte que les indications des lettres a, c, d et e.
 
 #### Art. 33
 
-**Patentes et autorisations délivrées sous l'ancien droit**
-
-<sup>1</sup> Les patentes et autorisations délivrées sous l'ancien droit restent valables jusqu'à ce que l'autorité compétente ait délivré une autorisation au sens du nouveau droit.
-
-<sup>2</sup> L'autorité compétente dispose d'un délai de six mois, dès l'entrée en vigueur de la loi, pour procéder à cette adaptation.
-
-<sup>3</sup> Les titulaires d'une autorisation délivrée sous l'ancien droit disposent d'un délai d'une année, dès l'entrée en vigueur de la loi, pour remplir les conditions liées à la personne prévues à l'article 6 alinéa 2 de la loi.
-
-<sup>4</sup> Les procédures de renouvellement, de taxation et de facturation pendantes lors de l'entrée en vigueur du nouveau droit sont traitées selon l'ancien droit.
+**…**
 
 #### Art. 34
 
-**Nouveaux assujettis**
-
-Les personnes qui offraient déjà de l'hébergement, des mets ou des boissons avec ou sans alcool et qui entrent dans le champ d'application du nouveau droit disposent d'un délai de six mois, dès l'entrée en vigueur du nouveau droit, pour se conformer aux prescriptions de celui-ci.
+**…**
 
 #### Art. 35
 
-**Fonds cantonal de l'hôtellerie et de la restauration**
-
-La fortune du fonds cantonal de l'hôtellerie et de la restauration au 31 décembre 2004 est transférée dans le fonds cantonal pour la formation et la formation continue au sens de la nouvelle loi.
+**…**
 
 #### Art. 36
 
 **Abrogation**
 
-La présente ordonnance abroge:
+<sup>1</sup> La présente ordonnance abroge:
 
 - a) l'ordonnance sur l'hôtellerie, la restauration et le commerce de boissons alcooliques du 18 décembre 1996;
-
 - b) l'ordonnance concernant les brevets cantonaux de cafetier-restaurateur, d'hôtelier et de gérant de camping du 9 mai 2001;
-
 - c) l'arrêté fixant les finances des cours et examens pour l'obtention des brevets cantonaux de cafetier-restaurateur, d'hôtelier et de gérant de camping du 9 mai 2001;
-
 - d) l'ordonnance sur le Fonds cantonal de l'hôtellerie et de la restauration du 10 décembre 1997.
 
 #### Art. 37
 
 **Publication et entrée en vigueur**
 
-La présente ordonnance sera publiée au Bulletin officiel pour entrer en vigueur en même temps que la loi.
+<sup>1</sup> La présente ordonnance sera publiée au Bulletin officiel pour entrer en vigueur en même temps que la loi.
 
-Ainsi adopté en Conseil d'Etat à Sion, le 3 novembre 2004.
-
-Le président du Conseil d'Etat: Jean-René Fournier Le chancelier d'Etat: Henri v. Roten
+RCV RO/AGS 2004 f 265, 383 | d 276, 291
