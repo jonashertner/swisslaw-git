@@ -4,13 +4,12 @@ number: "411.5.1"
 title: Loi sur la pédagogie spécialisée
 short: LPS
 language: fr
-version: 2019-08-01
-valid_until: 2022-08-31
-version_adopted: 2019-03-27
+version: 2022-09-01
+version_adopted: 2022-06-24
 adopted: 2017-10-11
 in_force: 2018-08-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/411.5.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7199/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8487/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Pédagogie spécialisée – L
 
 (LPS)
 
-du 11.10.2017 (version entrée en vigueur le 01.08.2019)
+du 11.10.2017 (version entrée en vigueur le 01.09.2022)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -65,10 +64,12 @@ Décrète:
 
 <sup>1</sup> Les principes de base de la présente loi sont les suivants:
 
-- a) la pédagogie spécialisée fait partie du mandat public de formation au sens de l'accord intercantonal sur la collaboration dans le domaine de la pédagogie spécialisée (ci-après: l'accord intercantonal), de la législation sur la scolarité obligatoire et de la législation sur l'enseignement secondaire supérieur; l'école ordinaire et les institutions de pédagogie spécialisée concourent à la réalisation de ce mandat;
+- a) la pédagogie spécialisée fait partie du mandat public de formation au sens de l'accord intercantonal sur la collaboration dans le domaine de la pédagogie spécialisée (ci-après: l'accord intercantonal)[^3-1], de la législation sur la scolarité obligatoire et de la législation sur l'enseignement secondaire supérieur; l'école ordinaire publique et les institutions de pédagogie spécialisée concourent à la réalisation de ce mandat;
 - b) les solutions de scolarisation intégrative ainsi que la proximité des prestations avec le lieu de scolarisation sont privilégiées, cela dans le respect de l'intérêt, du bien-être et des possibilités de développement de l'élève concerné‑e et compte tenu de l'environnement et de l'organisation scolaires ainsi que de la coordination avec l'ensemble des autres mesures; le principe de proportionnalité prévaut;
 - c) le principe de gratuité prévaut dans le domaine de la pédagogie spécialisée; cependant, une participation financière peut être exigée des parents ou de l'élève majeur‑e conformément à l'article 42;
 - d) les parents, ainsi que l'élève en fonction de son âge et de sa maturité, sont associés à la procédure relative à l'attribution de prestations de pédagogie spécialisée ainsi qu'à leur suivi; l'accord des parents est nécessaire pour une prise en charge à caractère résidentiel.
+
+[^3-1]: RSF [416.5](https://bdlf.fr.ch/data/416.5/fr)
 
 #### Art. 4
 
@@ -104,9 +105,9 @@ Décrète:
 
 **Période scolaire**
 
-<sup>1</sup> Les élèves avec des besoins éducatifs particuliers sont en principe scolarisés à l'école ordinaire. Lorsque existe une entrave aux possibilités de développement de l'élève concerné‑e ou que l'environnement et l'organisation scolaires ne permettent pas une scolarisation à l'école ordinaire sans l'engagement de ressources disproportionnées pour répondre aux besoins de l'élève, celui-ci ou celle-ci est scolarisé‑e dans une institution de pédagogie spécialisée la mieux adaptée à ses besoins.
+<sup>1</sup> Les élèves avec des besoins éducatifs particuliers sont en principe scolarisés à l'école ordinaire publique. Lorsqu'il existe une entrave aux possibilités de développement de l'élève concerné‑e ou que l'environnement et l'organisation scolaires ne permettent pas une scolarisation à l'école ordinaire sans l'engagement de ressources disproportionnées pour répondre aux besoins de l'élève, celui-ci ou celle-ci est scolarisé‑e dans une institution de pédagogie spécialisée la mieux adaptée à ses besoins.
 
-<sup>2</sup> Dans le cadre de l'école ordinaire, l'offre couvre les prestations suivantes:
+<sup>2</sup> Dans le cadre de l'école ordinaire publique, l'offre couvre les prestations suivantes:
 
 - a) l'offre de base, qui inclut les mesures d'aide ordinaires de pédagogie spécialisée (MAO) et les mesures d'aide renforcées de pédagogie spécialisée (MAR);
 - b) les mesures de logopédie, de psychologie et de psychomotricité, appelées mesures pédago-thérapeutiques;
@@ -117,7 +118,7 @@ Décrète:
 
 - a) les mesures d'aide renforcées de pédagogie spécialisée (MAR);
 - b) les mesures de logopédie, de psychologie et de psychomotricité, appelées mesures pédago-thérapeutiques;
-- c) la prise en charge à caractère résidentiel ou en structure de jour.
+- c) la prise en charge à caractère résidentiel ou en structure de jour (MAR).
 
 <sup>4</sup> Les mesures de logopédie, de psychologie et de psychomotricité dispensées sous forme de mesures pédago-thérapeutiques ne relèvent pas de mesures d'aide ordinaires de pédagogie spécialisée (MAO) ni de mesures d'aide renforcées de pédagogie spécialisée (MAR).
 
@@ -165,10 +166,11 @@ Décrète:
 
 <sup>3</sup> Pour exécuter leurs tâches, les Directions disposent de services.
 
-<sup>4</sup> La Direction assume la fonction de bureau cantonal de liaison pour toutes les questions relatives au domaine de la pédagogie spécialisée au sens de l'article 10 de l'accord intercantonal.
+<sup>4</sup> La Direction assume la fonction de bureau cantonal de liaison pour toutes les questions relatives au domaine de la pédagogie spécialisée au sens de l'article 10 de l'accord intercantonal[^10-3].
 
 [^10-1]: Actuellement: Direction de la formation et des affaires culturelles.
 [^10-2]: Actuellement: Direction de l'économie, de l'emploi et de la formation professionnelle.
+[^10-3]: RSF [416.5](https://bdlf.fr.ch/data/416.5/fr)
 
 #### Art. 11
 
@@ -176,7 +178,7 @@ Décrète:
 
 <sup>1</sup> Le canton est divisé en arrondissements fixés par le Conseil d'Etat pour l'inspection des institutions de pédagogie spécialisée.
 
-<sup>2</sup> L'inspecteur ou l'inspectrice spécialisé‑e est responsable, dans son arrondissement et dans le cadre des orientations décidées par les autorités cantonales, de la qualité du fonctionnement des institutions de pédagogie spécialisée et de la formation qui y est dispensée ainsi que du conseil à l'école ordinaire dans ses aspects pédagogiques, didactiques et éducatifs spécialisés.
+<sup>2</sup> L'inspecteur ou l'inspectrice spécialisé‑e est responsable, dans son arrondissement et dans le cadre des orientations décidées par les autorités cantonales, de la qualité du fonctionnement des institutions de pédagogie spécialisée et de la formation qui y est dispensée ainsi que du conseil à l'école ordinaire publique dans ses aspects pédagogiques, didactiques et éducatifs spécialisés.
 
 <sup>3</sup> L'inspecteur ou l'inspectrice spécialisé‑e est soumis‑e à la législation sur le personnel de l'Etat dans la mesure où la présente loi ou des dispositions d'exécution ne fixent pas de prescriptions particulières ou complémentaires.
 
@@ -202,15 +204,19 @@ Décrète:
 
 **Engagement**
 
-<sup>1</sup> Le corps enseignant spécialisé et les collaborateurs et collaboratrices pédagogiques spécialisés ainsi que les auxiliaires de vie intervenant à l'école ordinaire sont soumis à la législation sur le personnel de l'Etat dans la mesure où la présente loi ou des dispositions d'exécution ne fixent pas de prescriptions particulières ou complémentaires.
+<sup>1</sup> Le corps enseignant spécialisé et les collaborateurs et collaboratrices pédagogiques spécialisés ainsi que les auxiliaires de vie intervenant à l'école ordinaire publique sont soumis à la législation sur le personnel de l'Etat dans la mesure où la présente loi ou des dispositions d'exécution ne fixent pas de prescriptions particulières ou complémentaires.
 
-<sup>2</sup> Ils accomplissent leur mission conformément aux principes énoncés dans la présente loi et dans la loi scolaire ainsi qu'aux descriptifs de fonctions approuvés par le Conseil d'Etat.
+<sup>2</sup> Ils accomplissent leur mission conformément aux principes énoncés dans la présente loi et dans la loi scolaire[^14-1] ainsi qu'aux descriptifs de fonctions approuvés par le Conseil d'Etat.
 
-<sup>3</sup> La répartition des frais liés à l'engagement du corps enseignant spécialisé et des auxiliaires de vie est régie par les articles 66 et suivants de la loi scolaire.
+<sup>3</sup> La répartition des frais liés à l'engagement du corps enseignant spécialisé et des auxiliaires de vie est régie par les articles 66 et suivants de la loi scolaire[^14-2].
 
 <sup>4</sup> Le corps enseignant spécialisé et le personnel de la pédagogie spécialisée engagés par les institutions de pédagogie spécialisée sont soumis à une convention collective de travail existante ou, à défaut, à la législation sur le personnel de l'Etat dans la mesure où la présente loi ou des dispositions d'exécution ne fixent pas de prescriptions particulières ou complémentaires. Ils accomplissent leur mission conformément aux principes énoncés dans la présente loi.
 
-<sup>5</sup> Le corps enseignant spécialisé, le personnel de la pédagogie spécialisée ainsi que les thérapeutes engagés par les institutions de pédagogie spécialisée doivent produire, lors de leur engagement, un extrait spécial de leur casier judiciaire, au sens de l'article 371a du code pénal suisse, ou, pour les ressortissants et ressortissantes étrangers, un document équivalent. Durant une période transitoire expirant le 31 décembre 2041, le candidat ou la candidate retenu-e doit produire en sus un extrait ordinaire de son casier judiciaire.
+<sup>5</sup> Le corps enseignant spécialisé, le personnel de la pédagogie spécialisée ainsi que les thérapeutes engagés par les institutions de pédagogie spécialisée doivent produire, lors de leur engagement, un extrait spécial de leur casier judiciaire, au sens de l'article 371a du code pénal suisse[^14-3], ou, pour les ressortissants et ressortissantes étrangers, un document équivalent. Durant une période transitoire expirant le 31 décembre 2041, le candidat ou la candidate retenu-e doit produire en sus un extrait ordinaire de son casier judiciaire.
+
+[^14-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
+[^14-2]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
+[^14-3]: RS [311.0](https://db.clex.ch/link/Bund/311.0/fr)
 
 #### Art. 15
 
@@ -230,7 +236,9 @@ Décrète:
 
 <sup>3</sup> Le retrait de l'autorisation d'enseigner est communiqué à la CDIP, en vue d'une inscription sur la liste intercantonale des enseignants et enseignantes auxquels a été retiré le droit d'enseigner.
 
-<sup>4</sup> La procédure d'inscription et de radiation, les voies de droit et l'accès à la liste sont réglés par l'accord intercantonal sur la reconnaissance des diplômes de fin d'études.
+<sup>4</sup> La procédure d'inscription et de radiation, les voies de droit et l'accès à la liste sont réglés par l'accord intercantonal sur la reconnaissance des diplômes de fin d'études[^16-1].
+
+[^16-1]: RSF [410.4](https://bdlf.fr.ch/data/410.4/fr)
 
 ### 1.5 Protection des données et du domaine privé
 
@@ -290,11 +298,27 @@ Décrète:
 
 <sup>1</sup> Les prestations de pédagogie spécialisée sont dispensées par l'Etat, par les communes et par des institutions de pédagogie spécialisée reconnues par la Direction.
 
-<sup>2</sup> En périodes préscolaire et postscolaire seulement, sauf exception accordée par la cellule d'évaluation conformément à l'article 5 al. 5, les mesures de logopédie et de psychomotricité sont dispensées par des prestataires indépendants agréés par la Direction.
+<sup>2</sup> En périodes préscolaire et postscolaire seulement, sauf exception accordée par l'inspecteur ou l'inspectrice spécialisé-e conformément à l'article 5 al. 5, et sur la base de l'évaluation du ou de la spécialiste du service chargé de la pédagogie spécialisée, les mesures de logopédie et de psychomotricité sont dispensées par des prestataires indépendants agréés par la Direction.
 
 <sup>3</sup> En période préscolaire, des mandats, notamment de prévention primaire et secondaire, peuvent être attribués à des prestataires logopédistes indépendants agréés.
 
-<sup>4</sup> Dans le cadre de leur demande d'agrément, les prestataires indépendants doivent produire un extrait spécial de leur casier judiciaire, au sens de l'article 371a du code pénal suisse, ou, pour les ressortissants et ressortissantes étrangers, un document équivalent. Durant une période transitoire expirant le 31 décembre 2026, le candidat ou la candidate retenu‑e doit produire en sus un extrait ordinaire de son casier judiciaire.
+<sup>4</sup> Dans le cadre de leur demande d'agrément, les prestataires indépendants doivent produire un extrait spécial de leur casier judiciaire, au sens de l'article 371a du code pénal suisse[^23-1], ou, pour les ressortissants et ressortissantes étrangers, un document équivalent. Durant une période transitoire expirant le 31 décembre 2026, le candidat ou la candidate retenu‑e doit produire en sus un extrait ordinaire de son casier judiciaire.
+
+[^23-1]: RS [311.0](https://db.clex.ch/link/Bund/311.0/fr)
+
+#### Art. 23a
+
+**Octroi d'agrément à un ou une prestataire indépendant-e**
+
+<sup>1</sup> Sur la base du préavis du service chargé de la pédagogie spécialisée, la Direction décide de l'octroi de l'agrément à un ou une prestataire indépendant-e.
+
+<sup>2</sup> Sont pris en considération les besoins et la représentation de logopédistes respectivement de psychomotriciens ou psychomotriciennes dans la région concernée, ainsi que les disponibilités budgétaires de l'Etat.
+
+<sup>3</sup> L'agrément est nominatif et indique en principe le nombre d'unités annuelles garanties. Ce nombre peut être modifié, avant le 31 octobre, pour l'année civile suivante. Lorsque la situation l'exige, une modification du nombre d'unités peut être accordée en cours d'année.
+
+<sup>4</sup> En cas de non-respect des prescriptions du service chargé de la pédagogie spécialisée, et en principe suite à un avertissement, un agrément peut être retiré.
+
+<sup>5</sup> La Direction émet des directives relatives à l'octroi d'agrément par des prestataires indépendants.
 
 ### 2.2 Institutions de pédagogie spécialisée et contrats de prestations
 
@@ -305,7 +329,7 @@ Décrète:
 <sup>1</sup> Dans le cadre du concept cantonal, la Direction reconnaît les institutions de pédagogie spécialisée qui répondent notamment aux exigences suivantes:
 
 - a) offrir des prestations de pédagogie spécialisée au sens des articles 5, 6 et 7 de la présente loi;
-- b) être au bénéfice d'une autorisation d'exploiter délivrée par l'autorité cantonale compétente;
+- b) être au bénéfice d'une autorisation d'exploiter délivrée par la Direction;
 - c) disposer d'une infrastructure adaptée aux mesures offertes et répondant aux besoins des enfants et des élèves;
 - d) respecter les standards de qualité pour les prestataires dans le domaine de la pédagogie spécialisée adoptés par la CDIP;
 - e) respecter les dispositions d'une convention collective de travail existante ou, à défaut, la législation sur le personnel de l'Etat.
@@ -342,11 +366,11 @@ Décrète:
 
 **Période préscolaire**
 
-<sup>1</sup> L'accès aux mesures d'aide ordinaires de pédagogie spécialisée en éducation précoce spécialisée (MAO) et en psychomotricité est demandé par les parents auprès de la direction du service prestataire qui en décide.
+<sup>1</sup> L'accès aux mesures d'aide ordinaires de pédagogie spécialisée en éducation précoce spécialisée (MAO) est demandé par les parents auprès de la direction du service prestataire qui en décide.
 
 <sup>2</sup> L'accès aux mesures d'aide renforcées de pédagogie spécialisée en éducation précoce spécialisée (MAR) est demandé par les parents conformément aux articles 30 à 32.
 
-<sup>3</sup> L'accès aux prestations en logopédie est demandé conjointement par les parents et le ou la prestataire consulté‑e, au sens de l'article 23 al. 2, auprès du ou de la spécialiste du service chargé de la pédagogie spécialisée[^27-1]. Sur la base de l'évaluation du ou de la spécialiste, l'inspecteur ou l'inspectrice spécialisé‑e décide de l'octroi d'une mesure.
+<sup>3</sup> L'accès aux prestations en logopédie et en psychomotricité est demandé conjointement par les parents et le ou la prestataire consulté‑e, au sens de l'article 23 al. 2, auprès du ou de la spécialiste du service chargé de la pédagogie spécialisée[^27-1]. Sur la base de l'évaluation du ou de la spécialiste, l'inspecteur ou l'inspectrice spécialisé‑e décide de l'octroi d'une mesure.
 
 [^27-1]: Actuellement: Service de l'enseignement spécialisé et des mesures d'aide.
 
@@ -354,7 +378,7 @@ Décrète:
 
 **Période scolaire – Mesures d'aide ordinaires de pédagogie spécialisée (MAO) et mesures pédago-thérapeutiques**
 
-<sup>1</sup> L'élève au bénéfice de mesures d'aide ordinaires de pédagogie spécialisée (MAO) est scolarisé‑e dans un établissement de l'école ordinaire.
+<sup>1</sup> L'élève au bénéfice de mesures d'aide ordinaires de pédagogie spécialisée (MAO) est scolarisé‑e dans un établissement de l'école ordinaire publique.
 
 <sup>2</sup> L'accès aux mesures d'aide ordinaires de pédagogie spécialisée (MAO), ainsi qu'aux mesures pédago-thérapeutiques, est défini dans la législation scolaire.
 
@@ -362,7 +386,7 @@ Décrète:
 
 **Période scolaire – Mesures d'aide renforcées de pédagogie spécialisée (MAR)**
 
-<sup>1</sup> L'élève au bénéfice de mesures d'aide renforcées de pédagogie spécialisée (MAR) est scolarisé‑e soit dans un établissement de l'école ordinaire, soit dans une institution de pédagogie spécialisée.
+<sup>1</sup> L'élève au bénéfice de mesures d'aide renforcées de pédagogie spécialisée (MAR) est scolarisé‑e soit dans un établissement de l'école ordinaire publique, soit dans une institution de pédagogie spécialisée.
 
 <sup>2</sup> A titre exceptionnel, des mesures d'aide renforcées de pédagogie spécialisée (MAR) peuvent être octroyées à domicile ou en milieu hospitalier pour un temps limité.
 
@@ -388,9 +412,11 @@ Décrète:
 
 <sup>2</sup> La cellule peut faire appel à des experts et expertes compétents dans le domaine concerné par la demande.
 
-<sup>3</sup> Sur la base du dossier préparé par le réseau, la cellule évalue le besoin en matière de mesures d'aide renforcées de pédagogie spécialisée (MAR) et donne un préavis sur leur étendue, leur nature et le lieu de leur mise en œuvre. Ce préavis, établi à l'intention de l'inspecteur ou de l'inspectrice spécialisé‑e et porté à la connaissance des parents, s'inscrit dans le cadre de la procédure d'évaluation telle qu'elle est prévue à l'article 7 de l'accord intercantonal.
+<sup>3</sup> Sur la base du dossier préparé par le réseau, la cellule évalue le besoin en matière de mesures d'aide renforcées de pédagogie spécialisée (MAR) et donne un préavis sur leur étendue, leur nature et le lieu de leur mise en œuvre. Ce préavis, établi à l'intention de l'inspecteur ou de l'inspectrice spécialisé‑e et porté à la connaissance des parents, s'inscrit dans le cadre de la procédure d'évaluation telle qu'elle est prévue à l'article 7 de l'accord intercantonal[^31-1].
 
 <sup>4</sup> La cellule d'évaluation peut, le cas échéant, consulter les professionnel‑le‑s intervenant auprès de l'élève, y compris ceux du domaine médical.
+
+[^31-1]: RSF [416.5](https://bdlf.fr.ch/data/416.5/fr)
 
 #### Art. 32
 
@@ -506,7 +532,7 @@ Décrète:
 
 **Décision du corps enseignant ou de l'institution de pédagogie spécialisée, réclamation**
 
-<sup>1</sup> Toute décision du corps enseignant d'une institution de pédagogie spécialisée ou de son organe directeur qui affecte ou peut affecter le statut d'un ou d'une élève peut, dans les dix jours dès sa notification, faire l'objet d'une réclamation écrite des parents.
+<sup>1</sup> Toute décision du corps enseignant d'une institution de pédagogie spécialisée ou de son organe directeur qui affecte ou peut affecter le statut d'un ou d'une enfant ou élève peut, dans les dix jours dès sa notification, faire l'objet d'une réclamation écrite des parents.
 
 <sup>2</sup> La réclamation est adressée à l'inspecteur ou à l'inspectrice spécialisé‑e, qui statue à bref délai.
 
@@ -516,7 +542,7 @@ Décrète:
 
 **Décision de l'inspecteur ou de l'inspectrice spécialisé–e, recours**
 
-<sup>1</sup> Toute décision d'un inspecteur ou d'une inspectrice spécialisé‑e qui affecte ou peut affecter le statut d'un ou d'une élève peut, dans les dix jours dès sa notification, faire l'objet d'un recours des parents à la Direction.
+<sup>1</sup> Toute décision d'un inspecteur ou d'une inspectrice spécialisé‑e qui affecte ou peut affecter le statut d'un ou d'une enfant ou élève peut, dans les dix jours dès sa notification, faire l'objet d'un recours des parents à la Direction.
 
 <sup>2</sup> Sauf décision contraire de la Direction, le recours n'a pas d'effet suspensif.
 
@@ -538,7 +564,7 @@ Décrète:
 
 **Plainte des parents**
 
-<sup>1</sup> Lorsque la voie de la réclamation ou du recours n'est pas ouverte, les parents peuvent porter plainte contre les actes ou les omissions d'un enseignant ou d'une enseignante spécialisé‑e, de l'organe directeur d'une institution de pédagogie spécialisée ou de l'inspecteur ou de l'inspectrice spécialisé‑e, qui les atteignent personnellement et gravement, eux-mêmes ou leurs enfants, et qui violent des dispositions de la présente loi et des règlements.
+<sup>1</sup> Lorsque la voie de la réclamation ou du recours n'est pas ouverte, les parents peuvent porter plainte contre les actes ou les omissions d'un enseignant ou d'une enseignante spécialisé‑e ou de l'organe directeur d'une institution de pédagogie spécialisée, de l'inspecteur ou de l'inspectrice spécialisé‑e, ou d'un ou d'une prestataire indépendant-e agréé-e qui les atteignent personnellement et gravement, eux-mêmes ou leurs enfants, et qui violent des dispositions de la présente loi et des règlements.
 
 <sup>2</sup> Toutefois, la plainte n'est ouverte qu'après épuisement des éventuelles voies de droit internes des institutions de pédagogie spécialisée.
 

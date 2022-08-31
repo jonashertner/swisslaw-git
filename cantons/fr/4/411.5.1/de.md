@@ -4,13 +4,12 @@ number: "411.5.1"
 title: Gesetz über die Sonderpädagogik
 short: SPG
 language: de
-version: 2019-08-01
-valid_until: 2022-08-31
-version_adopted: 2019-03-27
+version: 2022-09-01
+version_adopted: 2022-06-24
 adopted: 2017-10-11
 in_force: 2018-08-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/411.5.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/7199/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8487/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Sonderpädagogik – G
 
 (SPG)
 
-vom 11.10.2017 (Fassung in Kraft getreten am 01.08.2019)
+vom 11.10.2017 (Fassung in Kraft getreten am 01.09.2022)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -65,10 +64,12 @@ beschliesst:
 
 <sup>1</sup> Dieses Gesetz beruht auf folgenden Grundsätzen:
 
-- a) Die Sonderpädagogik ist Bestandteil des öffentlichen Bildungsauftrags im Sinne der Interkantonalen Vereinbarung über die Zusammenarbeit im Bereich der Sonderpädagogik (das Sonderpädagogik-Konkordat), der Gesetzgebung über die obligatorische Schule und der Mittelschulgesetzgebung. Die Regelschule und die sonderpädagogischen Einrichtungen erfüllen diesen Auftrag gemeinsam.
+- a) Die Sonderpädagogik ist Bestandteil des öffentlichen Bildungsauftrags im Sinne der Interkantonalen Vereinbarung über die Zusammenarbeit im Bereich der Sonderpädagogik (das Sonderpädagogik-Konkordat)[^3-1], der Gesetzgebung über die obligatorische Schule und der Mittelschulgesetzgebung. Die öffentliche Regelschule und die sonderpädagogischen Einrichtungen erfüllen diesen Auftrag gemeinsam.
 - b) Integrative Lösungen sowie die Nähe des Angebots zum Schulort haben Vorrang, wobei das Kindeswohl, das Wohlbefinden und die Entwicklungsmöglichkeiten der betroffenen Schülerin oder des betroffenen Schülers, das schulische Umfeld sowie die Koordination mit sämtlichen anderen Massnahmen berücksichtigt werden. Es gilt der Grundsatz der Verhältnismässigkeit.
 - c) In der Sonderpädagogik gilt der Grundsatz der Unentgeltlichkeit; jedoch kann von den Eltern oder den volljährigen Schülerinnen und Schülern gemäss Artikel 42 eine finanzielle Beteiligung verlangt werden.
 - d) Die Eltern werden in das Abklärungsverfahren zur Gewährung und Überprüfung sonderpädagogischer Massnahmen einbezogen, ebenso die betroffenen Schülerinnen und Schüler unter Berücksichtigung ihres Alters und ihrer Reife. Für eine stationäre Unterbringung in einer sonderpädagogischen Einrichtung ist das Einverständnis der Eltern erforderlich.
+
+[^3-1]: SGF [416.5](https://bdlf.fr.ch/data/416.5/de)
 
 #### Art. 4
 
@@ -104,20 +105,20 @@ beschliesst:
 
 **Obligatorische Schulzeit**
 
-<sup>1</sup> Schülerinnen und Schüler mit besonderem Bildungsbedarf besuchen grundsätzlich die Regelschule. Ausnahmsweise werden sie in einer besser an ihre Bedürfnisse angepassten sonderpädagogischen Einrichtung unterrichtet, wenn in der Regelschule die Entwicklungsmöglichkeiten der betreffenden Schülerin oder des betreffenden Schülers gefährdet sind oder das schulische Umfeld und die Schulorganisation nur mit unverhältnismässigem Aufwand an deren oder dessen Bedürfnisse angepasst werden können.
+<sup>1</sup> Schülerinnen und Schüler mit besonderem Bildungsbedarf besuchen grundsätzlich die öffentliche Regelschule. Ausnahmsweise werden sie in einer besser an ihre Bedürfnisse angepassten sonderpädagogischen Einrichtung unterrichtet, wenn in der Regelschule die Entwicklungsmöglichkeiten der betreffenden Schülerin oder des betreffenden Schülers gefährdet sind oder das schulische Umfeld und die Schulorganisation nur mit unverhältnismässigem Aufwand an deren oder dessen Bedürfnisse angepasst werden können.
 
-<sup>2</sup> Im Rahmen der Regelschule werden folgende Massnahmen angeboten:
+<sup>2</sup> Im Rahmen der öffentlichen Regelschule werden folgende Massnahmen angeboten:
 
 - a) das Grundangebot, das die niederschwelligen sonderpädagogischen Massnahmen (NM) und die verstärkten sonderpädagogischen Massnahmen (VM) umfasst;
 - b) die Massnahmen in den Bereichen der Logopädie, der Psychologie und der Psychomotorik, die sogenannten pädagogisch-therapeutischen Massnahmen;
 - c) spezialisierte Unterstützungsmassnahmen, die von Fördereinrichtungen namentlich für Schülerinnen und Schüler mit einer Seh- oder Hörbehinderung erbracht werden (VM);
 - d) die Begleitung einer Schülerin oder eines Schülers durch eine Assistenzperson bei nichtpädagogischen Hilfestellungen (VM).
 
-<sup>3</sup> An den Sonderpädagogischen Einrichtungen werden folgende Massnahmen angeboten:
+<sup>3</sup> In den sonderpädagogischen Einrichtungen werden folgende Massnahmen angeboten:
 
 - a) verstärkte sonderpädagogische Massnahmen (VM);
 - b) Massnahmen in den Bereichen der Logopädie, der Psychologie und der Psychomotorik, die sogenannten pädagogisch-therapeutischen Massnahmen;
-- c) Betreuung in einer Tagesstruktur oder interne Unterbringung.
+- c) Betreuung in einer Tagesstruktur oder interne Unterbringung (VM).
 
 <sup>4</sup> Die in Form von pädagogisch-therapeutischen Massnahmen erbrachten logopädischen, psychologischen und psychomotorischen Massnahmen gelten nicht als niederschwellige sonderpädagogische (NM) oder verstärkte sonderpädagogische Massahmen (VM).
 
@@ -165,10 +166,11 @@ beschliesst:
 
 <sup>3</sup> Zur Erfüllung ihrer Aufgaben verfügt die Direktion über Ämter.
 
-<sup>4</sup> Die Direktion amtet als kantonale Kontaktstelle im Sinne von Artikel 10 des Sonderpädagogik-Konkordats für sämtliche Fragen der Sonderpädagogik.
+<sup>4</sup> Die Direktion amtet als kantonale Kontaktstelle im Sinne von Artikel 10 des Sonderpädagogik-Konkordats[^10-3] für sämtliche Fragen der Sonderpädagogik.
 
 [^10-1]: Heute: Direktion für Bildung und kulturelle Angelegenheiten.
 [^10-2]: Heute: Volkswirtschafts- und Berufsbildungsdirektion.
+[^10-3]: SGF [416.5](https://bdlf.fr.ch/data/416.5/de)
 
 #### Art. 11
 
@@ -176,7 +178,7 @@ beschliesst:
 
 <sup>1</sup> Der Kanton ist für die Inspektion der sonderpädagogischen Einrichtungen in Inspektoratskreise eingeteilt, die der Staatsrat festlegt.
 
-<sup>2</sup> Die Sonderschulinspektorin oder der Sonderschulinspektor ist in ihrem oder seinem Kreis und im Rahmen der von den kantonalen Behörden beschlossenen Vorgaben verantwortlich für die Qualität des Betriebs der sonderpädagogischen Einrichtungen und des dort erteilten Unterrichts sowie für die sonderpädagogische Beratung der Regelschule in pädagogischen, didaktischen und erzieherischen Belangen.
+<sup>2</sup> Die Sonderschulinspektorin oder der Sonderschulinspektor ist in ihrem oder seinem Kreis und im Rahmen der von den kantonalen Behörden beschlossenen Vorgaben verantwortlich für die Qualität des Betriebs der sonderpädagogischen Einrichtungen und des dort erteilten Unterrichts sowie für die Beratung der öffentlichen Regelschule in pädagogischen, didaktischen und erzieherischen Belangen.
 
 <sup>3</sup> Die Sonderschulinspektorin oder der Sonderschulinspektor untersteht der Gesetzgebung über das Staatspersonal, soweit in diesem Gesetz oder in den Ausführungsbestimmungen keine besonderen oder ergänzenden Vorschriften festgelegt werden.
 
@@ -202,15 +204,19 @@ beschliesst:
 
 **Anstellung**
 
-<sup>1</sup> Die schulischen Heilpädagoginnen und Heilpädagogen und die sonderpädagogischen Mitarbeiterinnen und Mitarbeiter sowie die Assistenzpersonen unterstehen der Gesetzgebung über das Staatspersonal, soweit in diesem Gesetz oder in den Ausführungsbestimmungen keine besonderen oder ergänzenden Vorschriften festgelegt werden.
+<sup>1</sup> Das heil- und sonderpädagogische Fachpersonal, die sonderpädagogischen Mitarbeiterinnen und Mitarbeiter sowie die an der öffentlichen Regelschule tätigen Assistenzpersonen unterstehen der Gesetzgebung über das Staatspersonal, soweit in diesem Gesetz oder in den Ausführungsbestimmungen keine besonderen oder ergänzenden Vorschriften festgelegt werden.
 
-<sup>2</sup> Sie erfüllen ihre Aufgaben gemäss den in diesem Gesetz und im Schulgesetz festgelegten Grundsätzen und den vom Staatsrat genehmigten Funktionsbeschrieben.
+<sup>2</sup> Sie erfüllen ihre Aufgaben gemäss den in diesem Gesetz und im Schulgesetz[^14-1] festgelegten Grundsätzen und den vom Staatsrat genehmigten Funktionsbeschrieben.
 
-<sup>3</sup> Die Verteilung der Kosten für die Anstellung des heilpädagogischen Lehrpersonals und für die Anstellung der schulischen Assistenzpersonen wird in den Artikeln 66 ff. des Schulgesetzes geregelt.
+<sup>3</sup> Die Verteilung der Kosten für die Anstellung des heilpädagogischen Lehrpersonals und für die Anstellung der schulischen Assistenzpersonen wird in den Artikeln 66 ff. des Schulgesetzes[^14-2] geregelt.
 
 <sup>4</sup> Die von den sonderpädagogischen Einrichtungen angestellten schulischen Heilpädagoginnen und Heilpädagogen sowie sonderpädagogischen Fachpersonen unterstehen einem bestehenden Gesamtarbeitsvertrag oder, wenn kein solcher besteht, der Gesetzgebung über das Staatspersonal, soweit in diesem Gesetz oder in den Ausführungsbestimmungen keine besonderen oder ergänzenden Vorschriften festgelegt werden. Sie erfüllen ihre Aufgaben gemäss den in diesem Gesetz festgelegten Grundsätzen.
 
-<sup>5</sup> Die schulischen Heilpädagoginnen und Heilpädagogen, das sonderpädagogische Fachpersonal sowie die von den sonderpädagogischen Einrichtungen angestellten Therapeutinnen und Therapeuten müssen bei ihrer Anstellung einen Sonderprivatauszug aus dem Strafregister gemäss Artikel 371a des Schweizerischen Strafgesetzbuchs oder bei ausländischer Staatsangehörigkeit ein gleichwertiges Dokument vorlegen. Während einer Übergangsperiode bis 31. Dezember 2041 müssen die erfolgreichen Bewerberinnen und Bewerber zusätzlich einen ordentlichen Strafregisterauszug vorlegen.
+<sup>5</sup> Die schulischen Heilpädagoginnen und Heilpädagogen, das sonderpädagogische Fachpersonal sowie die von den sonderpädagogischen Einrichtungen angestellten Therapeutinnen und Therapeuten müssen bei ihrer Anstellung einen Sonderprivatauszug aus dem Strafregister gemäss Artikel 371a des Schweizerischen Strafgesetzbuchs[^14-3] oder bei ausländischer Staatsangehörigkeit ein gleichwertiges Dokument vorlegen. Während einer Übergangsperiode bis 31. Dezember 2041 müssen die erfolgreichen Bewerberinnen und Bewerber zusätzlich einen ordentlichen Strafregisterauszug vorlegen.
+
+[^14-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
+[^14-2]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
+[^14-3]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de)
 
 #### Art. 15
 
@@ -230,7 +236,9 @@ beschliesst:
 
 <sup>3</sup> Der Entzug der Unterrichtsberechtigung wird der EDK zur Aufnahme in die interkantonale Liste von Lehrpersonen, denen die Unterrichtsberechtigung entzogen wurde, gemeldet.
 
-<sup>4</sup> Das Eintragen und Löschen, die Rechtsmittel und der Zugang zur Liste werden in der interkantonalen Vereinbarung über die Anerkennung von Ausbildungsabschlüssen geregelt.
+<sup>4</sup> Das Eintragen und Löschen, die Rechtsmittel und der Zugang zur Liste werden in der interkantonalen Vereinbarung über die Anerkennung von Ausbildungsabschlüssen[^16-1] geregelt.
+
+[^16-1]: SGF [410.4](https://bdlf.fr.ch/data/410.4/de)
 
 ### 1.5 Datenschutz und Schutz der Privatsphäre
 
@@ -290,11 +298,27 @@ beschliesst:
 
 <sup>1</sup> Die sonderpädagogischen Leistungen werden vom Staat, von den Gemeinden und den von der Direktion anerkannten sonderpädagogischen Einrichtungen erbracht.
 
-<sup>2</sup> Nur im Vorschul- und im Nachschulbereich werden die logopädischen und psychomotorischen Massnahmen von freischaffenden Leistungsanbietern, die von der Direktion anerkannt werden, erbracht. Die Abklärungsstelle kann hiervon eine Ausnahme gemäss Artikel 5 Abs. 5 genehmigen.
+<sup>2</sup> Nur im Vorschul- und Nachschulbereich werden die logopädischen und psychomotorischen Massnahmen von freischaffenden Leistungsanbietern, die von der Direktion anerkannt sind, erbracht. Die Sonderschulinspektorin oder der Sonderschulinspektor kann hiervon eine Ausnahme gemäss Artikel 5 Abs. 5 genehmigen.
 
 <sup>3</sup> Im Vorschulbereich können Mandate, insbesondere zur Primär- und Sekundärprävention, an anerkannte freischaffende logopädische Leistungsanbieter vergeben werden.
 
-<sup>4</sup> Die freischaffenden Leistungsanbieter müssen im Rahmen ihres Anerkennungsgesuchs einen Sonderprivatauszug aus dem Strafregister gemäss Artikel 371a des Schweizerischen Strafgesetzbuchs oder bei ausländischer Staatsangehörigkeit ein gleichwertiges Dokument vorlegen. Während einer Übergangsperiode bis 31. Dezember 2026 müssen die erfolgreichen Bewerberinnen und Bewerber zusätzlich einen ordentlichen Strafregisterauszug vorlegen.
+<sup>4</sup> Die freischaffenden Leistungsanbieter müssen im Rahmen ihres Anerkennungsgesuchs einen Sonderprivatauszug aus dem Strafregister gemäss Artikel 371a des Schweizerischen Strafgesetzbuchs[^23-1] oder bei ausländischer Staatsangehörigkeit ein gleichwertiges Dokument vorlegen. Während einer Übergangsperiode bis 31. Dezember 2026 müssen die erfolgreichen Bewerberinnen und Bewerber zusätzlich einen ordentlichen Strafregisterauszug vorlegen.
+
+[^23-1]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de)
+
+#### Art. 23a
+
+**Anerkennung eines freischaffenden Leistungsanbieters**
+
+<sup>1</sup> Auf Grundlage der Stellungnahme des für die Sonderpädagogik zuständigen Amtes entscheidet die Direktion über die Anerkennung von freischaffenden Leistungsanbietern.
+
+<sup>2</sup> Bei diesem Entscheid werden der Bedarf und die Verteilung von Logopädinnen bzw. Logopäden und Psychomotoriktherapeutinnen bzw. Psychomotoriktherapeuten in der jeweiligen Region und die Budgetmittel des Staates berücksichtigt.
+
+<sup>3</sup> Die Anerkennung ist nicht übertragbar und gibt in der Regel die Anzahl der garantierten Jahreseinheiten an. Diese Anzahl kann, jeweils bis zum 31. Oktober, für das folgende Kalenderjahr geändert werden. Wenn es aufgrund der Situation nötig ist, kann die Anzahl der Einheiten im Verlauf des Jahres geändert werden.
+
+<sup>4</sup> Bei Nichteinhaltung der Vorgaben des für die Sonderpädagogik zuständigen Amtes kann die Anerkennung, in der Regel nach einer Verwarnung, entzogen werden.
+
+<sup>5</sup> Die Direktion erlässt Richtlinien für die Gewährung der Anerkennung von freischaffenden Leistungsanbietern.
 
 ### 2.2 Sonderpädagogische Einrichtungen und Leistungsverträge
 
@@ -305,7 +329,7 @@ beschliesst:
 <sup>1</sup> Die Direktion anerkennt im Rahmen des kantonalen Konzepts sonderpädagogische Einrichtungen, die namentlich folgende Voraussetzungen erfüllen:
 
 - a) Sie bieten sonderpädagogische Leistungen im Sinne der Artikel 5, 6 und 7 dieses Gesetzes an.
-- b) Sie sind im Besitz einer Betriebsbewilligung der zuständigen Kantonsbehörde.
+- b) Sie sind im Besitz einer Betriebsbewilligung der Direktion.
 - c) Sie verfügen über eine Infrastruktur, die den angebotenen Massnahmen angepasst ist und den Bedürfnissen der Kinder sowie der Schülerinnen und Schüler gerecht wird.
 - d) Sie halten die Qualitätsstandards der EDK für Leistungsanbieter im sonderpädagogischen Bereich ein.
 - e) Sie erfüllen die Bestimmungen eines bestehenden allgemeinverbindlichen Gesamtarbeitsvertrags oder der Gesetzgebung über das Staatspersonal.
@@ -342,11 +366,11 @@ beschliesst:
 
 **Vorschulbereich**
 
-<sup>1</sup> Niederschwellige sonderpädagogische Massnahmen (NM) in der heilpädagogischen Früherziehung und der Psychomotorik werden von den Eltern bei der Leitung des betreffenden Leistungsanbieters beantragt, die darüber entscheidet.
+<sup>1</sup> Niederschwellige sonderpädagogische Massnahmen (NM) in der Heilpädagogischen Früherziehung werden von den Eltern bei der Direktion des betreffenden Leistungsanbieters beantragt, die darüber entscheidet.
 
 <sup>2</sup> Verstärkte sonderpädagogische Massnahmen (VM) in der heilpädagogischen Früherziehung werden von den Eltern gemäss den Artikeln 30–32 beantragt.
 
-<sup>3</sup> Logopädische Massnahmen werden von den Eltern und dem von ihnen beigezogenen Leistungsanbieter im Sinne von Artikel 23 Abs. 2 bei der zuständigen Fachperson des für die Sonderpädagogik verantwortlichen Amtes[^27-1] gemeinsam beantragt. Gestützt auf die Beurteilung der Fachperson entscheidet die Sonderschulinspektorin oder der Sonderschulinspektor über die Gewährung der Massnahme.
+<sup>3</sup> Logopädische und psychomotorische Massnahmen werden von den Eltern und dem von ihnen beigezogenen Leistungsanbieter im Sinne von Artikel 23 Abs. 2 bei der zuständigen Fachperson des für die Sonderpädagogik verantwortlichen Amtes[^27-1] gemeinsam beantragt. Gestützt auf die Beurteilung der Fachperson entscheidet die Sonderschulinspektorin oder der Sonderschulinspektor über die Gewährung einer Massnahme.
 
 [^27-1]: Heute: Amt für Sonderpädagogik.
 
@@ -354,7 +378,7 @@ beschliesst:
 
 **Obligatorische Schulzeit – Niederschwellige sonderpädagogische Massnahmen (NM) und pädagogisch-therapeutische Massnahmen**
 
-<sup>1</sup> Schülerinnen und Schüler, die niederschwellige sonderpädagogische Massnahmen (NM) erhalten, werden in der Regelschule unterrichtet.
+<sup>1</sup> Schülerinnen und Schüler, die niederschwellige sonderpädagogische Massnahmen (NM) erhalten, werden in einer öffentlichen Regelschule unterrichtet.
 
 <sup>2</sup> Der Zugang zu niederschwelligen (NM) und zu pädagogisch-therapeutischen Massnahmen wird in der Schulgesetzgebung geregelt.
 
@@ -362,7 +386,7 @@ beschliesst:
 
 **Obligatorische Schulzeit – Verstärkte sonderpädagogische Massnahmen (VM)**
 
-<sup>1</sup> Schülerinnen und Schüler, die verstärkte sonderpädagogische Massnahmen (VM) erhalten, werden entweder in der Regelschule oder in einer sonderpädagogischen Einrichtung unterrichtet.
+<sup>1</sup> Schülerinnen und Schüler, die verstärkte sonderpädagogische Massnahmen (VM) erhalten, werden entweder in einer öffentlichen Regelschule oder in einer sonderpädagogischen Einrichtung unterrichtet.
 
 <sup>2</sup> Verstärkte sonderpädagogische Massnahmen (VM) können ausnahmsweise und für befristete Zeit zuhause oder in einer Spitaleinrichtung erbracht werden.
 
@@ -388,9 +412,11 @@ beschliesst:
 
 <sup>2</sup> Die Abklärungsstelle kann für den vom Antrag betroffenen Fachbereich kompetente Sachverständige beiziehen.
 
-<sup>3</sup> Gestützt auf das vom interdisziplinären Netzwerk vorbereitete Dossier ermittelt die Abklärungsstelle den Bedarf an verstärkten sonderpädagogischen Massnahmen (VM) und gibt eine Stellungnahme zum Umfang, zur Art und zum Durchführungsort der Massnahmen ab. Diese Stellungnahme zuhanden der Sonderschulinspektorin oder des Sonderschulinspektors ist Teil des standardisierten Abklärungsverfahrens gemäss Artikel 7 des Sonderpädagogik-Konkordats und wird den Eltern zur Kenntnisnahme mitgeteilt.
+<sup>3</sup> Gestützt auf das vom interdisziplinären Netzwerk vorbereitete Dossier ermittelt die Abklärungsstelle den Bedarf an verstärkten sonderpädagogischen Massnahmen (VM) und gibt eine Stellungnahme zum Umfang, zur Art und zum Durchführungsort der Massnahmen ab. Diese Stellungnahme zuhanden der Sonderschulinspektorin oder des Sonderschulinspektors ist Teil des standardisierten Abklärungsverfahrens gemäss Artikel 7 des Sonderpädagogik-Konkordats[^31-1] und wird den Eltern zur Kenntnisnahme mitgeteilt.
 
 <sup>4</sup> Die Abklärungsstelle kann gegebenenfalls die Fachpersonen, welche die Schülerin bzw. den Schüler betreuen, konsultieren, auch diejenigen aus dem medizinischen Bereich.
+
+[^31-1]: SGF [416.5](https://bdlf.fr.ch/data/416.5/de)
 
 #### Art. 32
 
@@ -506,7 +532,7 @@ beschliesst:
 
 **Einsprache gegen einen Entscheid der Lehrpersonen oder der sonderpädagogischen Einrichtung**
 
-<sup>1</sup> Jeder Entscheid einer Lehrperson einer sonderpädagogischen Einrichtung oder ihres leitenden Organs, der die Stellung einer Schülerin oder eines Schülers beeinträchtigt oder zu beeinträchtigen vermag, kann von den Eltern innert zehn Tagen nach der Mitteilung mit Einsprache schriftlich angefochten werden.
+<sup>1</sup> Jeder Entscheid einer Lehrperson einer sonderpädagogischen Einrichtung oder ihres leitenden Organs, der die Stellung eines Kindes, einer Schülerin oder eines Schülers beeinträchtigt oder zu beeinträchtigen vermag, kann von den Eltern innert zehn Tagen nach der Mitteilung mit Einsprache schriftlich angefochten werden.
 
 <sup>2</sup> Die Einsprache ist an die Sonderschulinspektorin oder den Sonderschulinspektor zu richten, die oder der in kurzer Frist entscheidet.
 
@@ -516,7 +542,7 @@ beschliesst:
 
 **Beschwerde gegen einen Entscheid der Sonderschulinspektorin oder des Sonderschulinspektors**
 
-<sup>1</sup> Jeder Entscheid einer Sonderschulinspektorin oder eines Sonderschulinspektors, der die Stellung einer Schülerin oder eines Schülers beeinträchtigt oder zu beeinträchtigen vermag, kann von den Eltern innert zehn Tagen nach der Mitteilung mit Beschwerde an die Direktion angefochten werden.
+<sup>1</sup> Jeder Entscheid einer Sonderschulinspektorin oder eines Sonderschulinspektors, der die Stellung eines Kindes, einer Schülerin oder eines Schülers beeinträchtigt oder zu beeinträchtigen vermag, kann von den Eltern innert zehn Tagen nach der Mitteilung mit Beschwerde an die Direktion angefochten werden.
 
 <sup>2</sup> Ohne gegenteiligen Entscheid der Direktion hat die Beschwerde keine aufschiebende Wirkung.
 
@@ -538,7 +564,7 @@ beschliesst:
 
 **Aufsichtsbeschwerde der Eltern**
 
-<sup>1</sup> Sind die Rechtsmittel der Einsprache oder der Beschwerde nicht gegeben, so können die Eltern Aufsichtsbeschwerde gegen Handlungen oder Unterlassungen einer Lehrperson, des leitenden Organs einer sonderpädagogischen Einrichtung oder der Sonderschulinspektorin bzw. des Sonderschulinspektors, die sie oder ihre Kinder persönlich und schwerwiegend treffen und die gegen Bestimmungen dieses Gesetzes und der Reglemente verstossen, einreichen.
+<sup>1</sup> Sind die Rechtsmittel der Einsprache oder der Beschwerde nicht gegeben, so können die Eltern Aufsichtsbeschwerde gegen Handlungen oder Unterlassungen einer schulischen Heilpädagogin oder eines schulischen Heilpädagogen oder des leitenden Organs einer sonderpädagogischen Einrichtung, der Sonderschulinspektorin oder des Sonderschulinspektors oder eines anerkannten freischaffenden Leistungsanbieters, die sie oder ihre Kinder persönlich und schwerwiegend treffen und die gegen Bestimmungen dieses Gesetzes und der Reglemente verstossen, einreichen.
 
 <sup>2</sup> Die Aufsichtsbeschwerde kann nur nach Ausschöpfung allfälliger interner Rechtsmittel der sonderpädagogischen Einrichtungen eingereicht werden.
 
