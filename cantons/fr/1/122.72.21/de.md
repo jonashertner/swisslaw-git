@@ -3,13 +3,13 @@ canton: FR
 number: "122.72.21"
 title: Beschluss über die Einreihung der Funktionen des Staatspersonals
 language: de
-version: 2022-01-01
-valid_until: 2022-08-31
-version_adopted: 2021-12-14
+version: 2022-09-01
+valid_until: 2022-12-31
+version_adopted: 2022-10-04
 adopted: 2022-11-29
 in_force: 2023-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.72.21"
-pdf: "https://bdlf.fr.ch/api/de/versions/7056/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7572/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/7056/pdf_file"
 
 Staatspersonal, Einreihung der Funktionen – B
 
-vom 19.11.1990 (Fassung in Kraft getreten am 01.01.2022)
+vom 19.11.1990 (Fassung in Kraft getreten am 01.09.2022)
 
 Der Staatsrat des Kantons Freiburg
 
