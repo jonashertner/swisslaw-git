@@ -4,13 +4,12 @@ number: "213.500"
 title: Ordinaziun davart il stadi civil dal chantun Grischun
 short: OSCC
 language: rm
-version: 2022-01-01
-valid_until: 2022-08-31
-version_adopted: 2021-11-16
+version: 2022-09-01
+version_adopted: 2022-08-09
 adopted: 2007-03-20
 in_force: 2007-04-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/213.500"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3201/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3268/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3201/pdf_file"
 
 (OSCC)
 
-dals 20-03-2007 (versiun dals 01-01-2022)
+dals 20-03-2007 (versiun dals 01-09-2022)
 
 sa basond sin l'art. 45 da la constituziun chantunala[^ingress-1] e sin l'art. 20 da la lescha introductiva tar il cudesch civil svizzer[^ingress-2]
 
@@ -94,17 +93,17 @@ relaschada da la regenza ils 20 da mars 2007
 
 **Locals d'uffizi ed uras d'avertura**
 
-<sup>1</sup> Ils purtaders mettan a disposiziun a l'uffizi da stadi civil almain in local ch'è degn da vegnir duvrà per maridaglias e per la documentaziun da partenadis registrads sco er localitads utilas per las ulteriuras activitads da l'uffizi da stadi civil.
+<sup>1</sup> Ils purtaders mettan a disposiziun a l'uffizi da stadi civil almain in local ch'è degn da vegnir duvrà per maridaglias e per conversiuns ceremonialas da partenadis registrads en lètgs sco er localitads utilas per las ulteriuras activitads da l'uffizi da stadi civil.
 
-<sup>2</sup> Els fixeschan las uras d'avertura da l'uffizi da stadi civil e las uras, durant las qualas ils spus vegnan maridads ed ils partenadis registrads vegnan documentads.
+<sup>2</sup> Els fixeschan las uras d'avertura da l'uffizi da stadi civil e las uras, durant las qualas ils spus vegnan maridads ed ils partenadis registrads vegnan convertids ceremonialmain en lètgs.
 
-<sup>3</sup> Els fixeschan ina sonda per mais, nua ch'i pon vegnir celebradas maridaglias e documentads partenadis registrads. En quest connex ston las localitads designadas vegnir resguardadas confurm als basegns. En cas da dispitas decida l'Uffizi da migraziun e da dretg civil.
+<sup>3</sup> Els fixeschan ina sonda per mais per celebraziuns da maridaglias e per conversiuns ceremonialas da partenadis registrads en lètgs. En quest connex ston las localitads designadas vegnir resguardadas confurm als basegns. En cas da dispitas decida l'Uffizi da migraziun e da dretg civil.
 
 #### Art. 6a
 
 **Exemziun da taxas**
 
-<sup>1</sup> Ils purtaders pon prevair da relaschar dal tuttafatg u per part la taxa per la maridaglia u per la documentaziun d'in partenadi registrà e per il viadi da servetsch ch'è vegnì fatg en quest connex.
+<sup>1</sup> Ils purtaders pon prevair da relaschar dal tuttafatg u per part la taxa per la maridaglia u per la conversiun d'in partenadi registrà en ina lètg sco er per il viadi da servetsch ch'è vegnì fatg en quest connex.
 
 <sup>2</sup> …
 
@@ -152,8 +151,8 @@ relaschada da la regenza ils 20 da mars 2007
   - 3\. decisiuns administrativas da la confederaziun,
   - 4\. …
   - 5\. natiralisaziuns (en il lieu d'origin nov),
-  - 6\. relaschadas or dal dretg da burgais (al lieu d'origin d'enfin ussa),
-  - 7\. curatellas cumplessivas e l'aboliziun da quellas;
+  - 6\. relaschadas or dal dretg da burgais (al lieu d'origin d'enfin ussa);
+  - 7\. …
 - b) l'uffizi da stadi civil ch'è cumpetent al lieu da la decisiun per:
   - 1\. sentenzias giudizialas svizras (a la sedia uffiziala da la dretgira d'emprima instanza).
   - 2\. …

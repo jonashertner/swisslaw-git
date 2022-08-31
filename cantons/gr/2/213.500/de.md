@@ -4,13 +4,12 @@ number: "213.500"
 title: Zivilstandsverordnung des Kantons Graubünden
 short: KZStV
 language: de
-version: 2022-01-01
-valid_until: 2022-08-31
-version_adopted: 2021-11-16
+version: 2022-09-01
+version_adopted: 2022-08-09
 adopted: 2007-03-20
 in_force: 2007-04-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/213.500"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3201/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3268/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3201/pdf_file"
 
 (KZStV)
 
-Vom 20.03.2007 (Stand 01.01.2022)
+Vom 20.03.2007 (Stand 01.09.2022)
 
 Gestützt auf Art. 45 der Kantonsverfassung[^ingress-1] und Art. 20 des Einführungsgesetzes zum Schweizerischen Zivilgesetzbuch[^ingress-2]
 
@@ -94,17 +93,17 @@ von der Regierung erlassen am 20. März 2007
 
 **Amtsräume und Öffnungszeiten**
 
-<sup>1</sup> Die Trägerschaft stellt dem Zivilstandsamt mindestens ein würdiges Lokal zur Vornahme der Trauungen und zur Beurkundung von eingetragenen Partnerschaften sowie zweckdienliche Räumlichkeiten für die übrigen zivilstandsamtlichen Tätigkeiten zur Verfügung.
+<sup>1</sup> Die Trägerschaft stellt dem Zivilstandsamt mindestens ein würdiges Lokal zur Vornahme der Trauungen und zur zeremoniellen Umwandlung von eingetragenen Partnerschaften in Ehen sowie zweckdienliche Räumlichkeiten für die übrigen zivilstandsamtlichen Tätigkeiten zur Verfügung.
 
-<sup>2</sup> Sie legt die Öffnungszeiten des Zivilstandsamtes und die Zeiten fest, während denen Brautleute getraut und eingetragene Partnerschaften beurkundet werden.
+<sup>2</sup> Sie legt die Öffnungszeiten des Zivilstandsamtes und die Zeiten fest, während denen Brautleute getraut und eingetragene Partnerschaften zeremoniell in Ehen umgewandelt werden.
 
-<sup>3</sup> Sie bestimmt einen Samstag pro Monat, an dem Trauungen und Beurkundungen von eingetragenen Partnerschaften durchgeführt werden können. Dabei sind die bezeichneten Lokale bedarfsgerecht zu berücksichtigen. Bei Streitigkeiten entscheidet das Amt für Migration und Zivilrecht.
+<sup>3</sup> Sie bestimmt einen Samstag pro Monat, an dem Trauungen und zeremonielle Umwandlungen von eingetragenen Partnerschaften in Ehen durchgeführt werden können. Dabei sind die bezeichneten Lokale bedarfsgerecht zu berücksichtigen. Bei Streitigkeiten entscheidet das Amt für Migration und Zivilrecht.
 
 #### Art. 6a
 
 **Gebührenfreiheit**
 
-<sup>1</sup> Die Trägerschaft kann festlegen, dass die Gebühr für die Trauung oder die Beurkundung einer eingetragenen Partnerschaft und für die in diesem Zusammenhang erfolgte Dienstreise ganz oder teilweise erlassen wird.
+<sup>1</sup> Die Trägerschaft kann festlegen, dass die Gebühr für die Trauung oder die Umwandlung einer eingetragenen Partnerschaft in eine Ehe und für die in diesem Zusammenhang erfolgte Dienstreise ganz oder teilweise erlassen wird.
 
 <sup>2</sup> …
 
@@ -152,8 +151,8 @@ von der Regierung erlassen am 20. März 2007
   - 3\. Verwaltungsentscheide des Bundes,
   - 4\. …
   - 5\. Einbürgerungen (am neuen Heimatort),
-  - 6\. Bürgerrechtsentlassungen (am bisherigen Heimatort),
-  - 7\. umfassende Beistandschaften und deren Aufhebungen;
+  - 6\. Bürgerrechtsentlassungen (am bisherigen Heimatort);
+  - 7\. …
 - b) das am Ort der Entscheidung zuständige Zivilstandsamt für:
   - 1\. inländische Gerichtsurteile (am Amtssitz des erstinstanzlichen Gerichtes).
   - 2\. …

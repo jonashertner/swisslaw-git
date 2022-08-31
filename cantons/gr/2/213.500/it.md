@@ -4,13 +4,12 @@ number: "213.500"
 title: Ordinanza sullo stato civile del Cantone dei Grigioni
 short: OSCC
 language: it
-version: 2022-01-01
-valid_until: 2022-08-31
-version_adopted: 2021-11-16
+version: 2022-09-01
+version_adopted: 2022-08-09
 adopted: 2007-03-20
 in_force: 2007-04-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/213.500"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3201/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3268/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3201/pdf_file"
 
 (OSCC)
 
-del 20.03.2007 (stato 01.01.2022)
+del 20.03.2007 (stato 01.09.2022)
 
 emanata dal Governo il 20 marzo 2007
 
@@ -94,17 +93,17 @@ visti l'art. 45 della Costituzione cantonale[^ingress-1] e l'art. 20 della legge
 
 **Locali e orari d'apertura**
 
-<sup>1</sup> L'ente responsabile mette a disposizione dell'ufficio dello stato civile perlomeno un locale dignitoso per lo svolgimento di matrimoni e per la documentazione di unioni domestiche registrate, nonché locali adeguati per le altre attività dello stato civile.
+<sup>1</sup> L'ente responsabile mette a disposizione dell'ufficio dello stato civile perlomeno un locale dignitoso per lo svolgimento di matrimoni e per convertire unioni domestiche registrate in matrimoni nel quadro di una cerimonia, nonché locali adeguati per le altre attività dello stato civile.
 
-<sup>2</sup> Esso stabilisce gli orari d'apertura dell'ufficio dello stato civile e gli orari nei quali è possibile unire in matrimonio gli sposi e documentare unioni domestiche registrate.
+<sup>2</sup> Esso stabilisce gli orari d'apertura dell'ufficio dello stato civile e gli orari nei quali è possibile unire in matrimonio gli sposi e convertire unioni domestiche registrate in matrimoni nel quadro di una cerimonia.
 
-<sup>3</sup> Esso fissa un sabato al mese nel quale è possibile celebrare matrimoni e documentare unioni domestiche registrate. I locali designati vanno considerati a seconda del bisogno. In caso di controversie decide l'Ufficio della migrazione e del diritto civile.
+<sup>3</sup> Esso fissa un sabato al mese nel quale è possibile celebrare matrimoni e convertire unioni domestiche registrate in matrimoni nel quadro di una cerimonia. I locali designati vanno considerati a seconda del bisogno. In caso di controversie decide l'Ufficio della migrazione e del diritto civile.
 
 #### Art. 6a
 
 **Esenzione da tasse**
 
-<sup>1</sup> L'ente responsabile può stabilire che la tassa per matrimoni e per la documentazione di unioni domestiche registrate, come pure per la trasferta di servizio effettuata a questo proposito venga interamente o parzialmente condonata.
+<sup>1</sup> L'ente responsabile può stabilire che la tassa per matrimoni e per la conversione di unioni domestiche registrate in matrimoni, come pure per la trasferta di servizio effettuata a questo proposito venga interamente o parzialmente condonata.
 
 <sup>2</sup> …
 
@@ -152,8 +151,8 @@ visti l'art. 45 della Costituzione cantonale[^ingress-1] e l'art. 20 della legge
   - 3\. decisioni amministrative della Confederazione,
   - 4\. …
   - 5\. naturalizzazioni (nel nuovo luogo di attinenza),
-  - 6\. svincoli dall'attinenza (nel precedente luogo di attinenza),
-  - 7\. curatele generali e loro annullamento;
+  - 6\. svincoli dall'attinenza (nel precedente luogo di attinenza);
+  - 7\. …
 - b) l'ufficio dello stato civile competente nel luogo della decisione per:
   - 1\. sentenze giudiziarie emanate in Svizzera (nella sede del tribunale di prima istanza).
   - 2\. …
