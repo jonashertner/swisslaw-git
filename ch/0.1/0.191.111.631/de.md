@@ -3,11 +3,11 @@ sr: "0.191.111.631"
 title: Abkommen vom 3. Dezember 2015 zwischen dem Schweizerischen Bundesrat und der Regierung der Republik Österreich über die Zusammenarbeit in konsularischen Angelegenheiten (mit Anhängen)
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/199"
 language: de
-version: 2021-08-01
+version: 2022-09-01
 adopted: 2015-12-03
 in_force: 2016-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/199/20210801/de/xml/fedlex-data-admin-ch-eli-cc-2016-199-20210801-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/199/20210801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/199/20220901/de/xml/fedlex-data-admin-ch-eli-cc-2016-199-20220901-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/199/20220901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -22,7 +22,7 @@ Abgeschlossen am 3. Dezember 2015
 
 In Kraft getreten durch Notenaustausch am 1. April 2016
 
-(Stand am 1. August 2021)
+(Stand am 1. September 2022)
 
 Der Schweizerische Bundesrat, vertreten durch den Vorsteher des Eidgenössischen Departements für auswärtige Angelegenheiten, und die Regierung der Republik Österreich, vertreten durch den Bundesminister für Europa, Integration und Äusseres,
 
@@ -269,23 +269,23 @@ Anhang II[^t-1]
 
 ## Liste der Empfangsstaaten, in denen die Übertragung konsularischer Aufgaben wahrgenommen wird
 
-[^t-1]: Fassung gemäss Notenaustausch vom 15. und 21. Juni 2021, in Kraft seit 1. Aug. 2021 ([AS 2021 453](https://fedlex.data.admin.ch/eli/oc/2021/453)).
+[^t-1]: Fassung gemäss Notenaustausch vom 7. Juli 2022, in Kraft seit 1. Sept. 2022 ([AS 2022 417](https://fedlex.data.admin.ch/eli/oc/2022/417)).
 
 ### A) Übernahme durch Österreich
 
 <table>
 <tr><td></td><td>Vertretung durch Botschaft</td><td>Vertretung durch HK</td><td>Ad-hoc/Notfall Vertretung</td></tr>
-<tr><td>Europa</td><td></td><td>Kreta (Griechenland) Madeira (Portugal) Parikia (Griechenland)</td><td>Kischinau (Moldau)</td></tr>
-<tr><td>Afrika</td><td></td><td>Banjul (Gambia)</td><td>São Tomé (São Tomé und Príncipe)</td></tr>
-<tr><td>Amerika</td><td></td><td>Scarborough (Tobago) Basseterre (St. Kitts & Nevis)</td><td></td></tr>
+<tr><td>Europa</td><td></td><td>Kreta (Griechenland) Parikia (Griechenland) Volos (Griechenland)</td><td>Kischinau (Moldau)</td></tr>
+<tr><td>Afrika</td><td></td><td>Banjul (Gambia) São Tomé (São Tomé und Príncipe)</td><td></td></tr>
+<tr><td>Amerika</td><td></td><td>Scarborough (Tobago)</td><td></td></tr>
 </table>
 
 ### B) Übernahme durch die Schweiz
 
 <table>
 <tr><th></th><th>Vertretung durch Botschaft</th><th>Vertretung durch HK</th><th>Ad-hoc/Notfall Vertretung</th></tr>
-<tr><td>Afrika</td><td>Dar-es-Salaam (Tansania)</td><td>Bissau (Guinea-Bissau) Freetown (Sierra Leone) Monrovia (Liberia)</td><td>Praia (Kapverden)</td></tr>
+<tr><td>Afrika</td><td></td><td>Bissau (Guinea-Bissau) Freetown (Sierra Leone) Monrovia (Liberia) Douala (Kamerun)</td><td>Praia (Kapverden)</td></tr>
 <tr><td>Amerika</td><td></td><td></td><td>San José (Costa Rica) Port of Spain (Trinidad) Maracaibo (Venezuela) Caracas (Venezuela)</td></tr>
 <tr><td>Asien</td><td></td><td></td><td>Bali (Indonesien)</td></tr>
-<tr><td>Ozeanien</td><td></td><td>Apia (Samoa) Papeete (Thaiti) Suva (Fidschi)</td><td>Wellington (Neuseeland)</td></tr>
+<tr><td>Ozeanien</td><td></td><td>Apia (Samoa) Papeete (Tahiti) Suva (Fidschi)</td><td>Wellington (Neuseeland)</td></tr>
 </table>
