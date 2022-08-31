@@ -4,13 +4,13 @@ number: "152.221.131"
 title: Verordnung über die Organisation und die Aufgaben der Direktion für Inneres und Justiz
 short: "Organisationsverordnung DIJ, OrV DIJ"
 language: de
-version: 2022-05-01
-valid_until: 2022-08-31
-version_adopted: 2022-04-06
+version: 2022-09-01
+valid_until: 2024-04-30
+version_adopted: 2022-06-29
 adopted: 1995-10-18
 in_force: 1996-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.221.131"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2584/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2651/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2584/pdf_file"
 
 (Organisationsverordnung DIJ, OrV DIJ)
 
-vom 18.10.1995 (Stand 01.05.2022)
+vom 18.10.1995 (Stand 01.09.2022)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -124,7 +124,8 @@ beschliesst:
 - e–g …
 - h die Familienzulagenkommission,
 - i die Kommission für Geoinformation,
-- k die Nomenklaturkommission.
+- k die Nomenklaturkommission,
+- l die Einrichtungskommissionen der kantonalen stationären und pädagogischen Einrichtungen.
 
 <sup>2</sup> …
 

@@ -4,13 +4,13 @@ number: "152.221.131"
 title: "Ordonnance sur l'organisation et les tâches de la Direction de l'intérieur et de la justice *"
 short: "Ordonnance d'organisation DIJ, OO DIJ"
 language: fr
-version: 2022-05-01
-valid_until: 2022-08-31
-version_adopted: 2022-04-06
+version: 2022-09-01
+valid_until: 2024-04-30
+version_adopted: 2022-06-29
 adopted: 1995-10-18
 in_force: 1996-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.221.131"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2584/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2651/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2584/pdf_file"
 
 (Ordonnance d'organisation DIJ, OO DIJ)
 
-du 18.10.1995 (état au 01.05.2022)
+du 18.10.1995 (état au 01.09.2022)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -124,7 +124,8 @@ arrête:
 - e–g …
 - h Commission des allocations familiales,
 - i Commission de géoinformation,
-- k Commission de nomenclature.
+- k Commission de nomenclature,
+- l Commissions des institutions résidentielles pédagogiques cantonales.
 
 <sup>2</sup> …
 
