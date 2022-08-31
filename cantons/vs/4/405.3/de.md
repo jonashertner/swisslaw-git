@@ -4,13 +4,13 @@ number: "405.3"
 title: Gesetz über die Besoldung des Personals der obligatorischen Schulzeit und der allgemeinen Mittelschule und Berufsfachschule
 short: GBOS
 language: de
-version: 2020-01-01
-valid_until: 2022-08-31
-version_adopted: 2018-12-14
+version: 2022-09-01
+valid_until: 2024-08-31
+version_adopted: 2022-05-12
 adopted: 2011-09-14
 in_force: 2012-09-01
 url: "https://lex.vs.ch/app/de/texts_of_law/405.3"
-pdf: "https://lex.vs.ch/api/de/versions/2585/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3071/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/de/versions/2585/pdf_file"
 
 (GBOS)
 
-vom 14.09.2011 (Stand 01.01.2020)
+vom 14.09.2011 (Stand 01.09.2022)
 
 Der Grosse Rat des Kantons Wallis
 
@@ -68,13 +68,7 @@ verordnet:
 
 #### Art. 3a
 
-**Besoldung in den ersten zwölf Monaten der Unterrichtstätigkeit**
-
-<sup>1</sup> Bei der ersten Anstellung einer Lehrperson in einer öffentlichen Schule des Kantons wird die Anfangsbesoldung in den ersten zwölf Monaten um fünf Prozent reduziert.
-
-<sup>2</sup> Die Erfahrungsanteile werden in diesem ersten Unterrichtsjahr erworben.
-
-<sup>3</sup> Stellvertretungen sind von dieser Massnahme nicht betroffen.
+**…**
 
 #### Art. 4
 
@@ -577,6 +571,12 @@ verordnet:
 <sup>3</sup> Das Inkrafttreten der Artikel 32 und 34 wird spätestens auf Anfang des Schuljahres 2015-2016 festgelegt.
 
 <sup>4</sup> Die Besoldungstabelle für das Lehrpersonal der Sekundarstufe I muss spätestens Ende des Schuljahres 2013-2014 überprüft werden.
+
+## T1 Übergangsbestimmung von der Änderung vom 12. Mai 2022
+
+#### Art. T1-1
+
+<sup>1</sup> Sieht eine Anstellungsverfügung oder ein Entscheid über einen Funktionswechsel, der eine Lohnerhöhung des Lehrpersonals für das Schuljahr 2022/2023 zur Folge hat, eine Kürzung des Anfangslohns im Sinne von Artikel 3a des vorliegenden Gesetzes vor, so wird diese Kürzung mit dem Inkrafttreten der Änderung vom 12. Mai 2022 hinfällig.
 
 ## A1 Anhang 1 zu Artikel 2
 

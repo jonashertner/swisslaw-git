@@ -4,13 +4,13 @@ number: "405.3"
 title: "Loi sur le traitement du personnel de la scolarité obligatoire et de l'enseignement secondaire du deuxième degré général et professionnel"
 short: LTSO
 language: fr
-version: 2020-01-01
-valid_until: 2022-08-31
-version_adopted: 2018-12-14
+version: 2022-09-01
+valid_until: 2024-08-31
+version_adopted: 2022-05-12
 adopted: 2011-09-14
 in_force: 2012-09-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/405.3"
-pdf: "https://lex.vs.ch/api/fr/versions/2585/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3071/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/2585/pdf_file"
 
 (LTSO)
 
-du 14.09.2011 (état 01.01.2020)
+du 14.09.2011 (état 01.09.2022)
 
 Le Grand Conseil du canton du Valais
 
@@ -68,13 +68,7 @@ ordonne:
 
 #### Art. 3a
 
-**Traitement lors des douze premiers mois d’enseignement**
-
-<sup>1</sup> Lors du premier engagement d'un enseignant dans une école publique du canton, le salaire initial est réduit de cinq pour cent pendant une durée de douze mois.
-
-<sup>2</sup> Des parts d'expérience sont acquises lors de cette première année d'enseignement.
-
-<sup>3</sup> Les remplaçants ne sont pas concernés par cette mesure.
+**…**
 
 #### Art. 4
 
@@ -577,6 +571,12 @@ ordonne:
 <sup>3</sup> L’entrée en vigueur des articles 32 et 34 est fixée au plus tard pour le début de l’année scolaire 2015-2016.
 
 <sup>4</sup> L’échelle de traitement du personnel du secondaire I doit être analysée au plus tard à la fin de l’année scolaire 2013-2014.
+
+## T1 Disposition transitoire de la modification du 12 mai 2022
+
+#### Art. T1-1
+
+<sup>1</sup> Lorsqu'une décision d'engagement ou de changement de fonction entraînant une augmentation salariale du personnel enseignant pour l'année scolaire 2022/2023 prévoit une réduction de salaire initial au sens de l'article 3a de la présente loi, cette réduction devient caduque au moment de l'entrée en vigueur de la modification du 12 mai 2022.
 
 ## A1 Annexe 1 à l'article 2
 
