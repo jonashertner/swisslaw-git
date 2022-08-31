@@ -4,13 +4,13 @@ number: "432.211.1"
 title: Volksschulverordnung
 short: VSV
 language: de
-version: 2022-08-01
-valid_until: 2022-08-31
-version_adopted: 2022-06-09
+version: 2022-09-01
+valid_until: 2023-07-31
+version_adopted: 2022-06-29
 adopted: 2013-01-10
 in_force: 2013-08-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/432.211.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2615/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2653/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2615/pdf_file"
 
 (VSV)
 
-vom 10.01.2013 (Stand 01.08.2022)
+vom 10.01.2013 (Stand 01.09.2022)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -372,6 +372,16 @@ beschliesst:
 <sup>2</sup> Die Schulkommission konstituiert sich selbst. Sie bestimmt das Präsidium und das Vizepräsidium.
 
 <sup>3</sup> Die Schulleitung nimmt mit beratender Stimme und mit Antragsrecht an den Sitzungen der Schulkommission teil.
+
+#### Art. 24a
+
+**Entschädigung der Schulkommission**
+
+<sup>1</sup> Der Präsidentin oder dem Präsidenten der Schulkommission sowie den Mitgliedern werden die Taggelder und Spesen nach der Verordnung vom 2. Juli 1980 über die Taggelder und Reiseentschädigungen der Mitglieder staatlicher Kommissionen[^24a-1] ausgerichtet.
+
+<sup>2</sup> Der Präsidentin oder dem Präsidenten wird zusätzlich eine Entschädigung von 900 Franken pro Jahr ausgerichtet.
+
+[^24a-1]: BSG [152.256](https://www.belex.sites.be.ch/data/152.256/de)
 
 ## 10 Steuerung, Zuständigkeiten und Information
 

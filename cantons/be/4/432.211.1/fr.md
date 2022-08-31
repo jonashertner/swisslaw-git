@@ -4,13 +4,13 @@ number: "432.211.1"
 title: "Ordonnance sur l'école obligatoire"
 short: OEO
 language: fr
-version: 2022-08-01
-valid_until: 2022-08-31
-version_adopted: 2022-06-09
+version: 2022-09-01
+valid_until: 2023-07-31
+version_adopted: 2022-06-29
 adopted: 2013-01-10
 in_force: 2013-08-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/432.211.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2615/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2653/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2615/pdf_file"
 
 (OEO)
 
-du 10.01.2013 (état au 01.08.2022)
+du 10.01.2013 (état au 01.09.2022)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -372,6 +372,16 @@ arrête:
 <sup>2</sup> La commission scolaire se constitue elle-même. Elle désigne le président ou la présidente ainsi que le vice-président ou la viceprésidente.
 
 <sup>3</sup> La direction d’école participe aux séances de la commission scolaire. Elle dispose d’une voix consultative et d’un droit de proposition.
+
+#### Art. 24a
+
+**Indemnisation des membres de la commission scolaire**
+
+<sup>1</sup> La présidente ou le président et les membres de la commission scolaire perçoivent des indemnités journalières et un dédommagement de leurs frais conformément à l’ordonnance du 2 juillet 1980 concernant les indemnités journalières et de déplacement des membres des commissions cantonales[^24a-1].
+
+<sup>2</sup> La présidente ou le président se voit en outre verser une indemnité supplémentaire de 900 francs par an.
+
+[^24a-1]: [RSB 152.256](https://www.belex.sites.be.ch/data/RSB%20152.256/fr)
 
 ## 10 Pilotage, compétences et information
 
