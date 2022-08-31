@@ -4,11 +4,11 @@ title: Zollgesetz vom 18. März 2005 (ZG)
 short: ZG
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/249"
 language: de
-version: 2022-01-01
+version: 2022-09-01
 adopted: 2005-03-18
 in_force: 2007-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/249/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2007-249-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/249/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/249/20220901/de/xml/fedlex-data-admin-ch-eli-cc-2007-249-20220901-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/249/20220901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/249/20220101/de"
 
 (ZG)
 
-vom 18. März 2005 (Stand am 1. Januar 2022)
+vom 18. März 2005 (Stand am 1. September 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -391,7 +391,7 @@ Anmeldepflichtig sind:
 
 - a. die zuführungspflichtigen Personen;
 - b. die mit der Zollanmeldung beauftragten Personen;
-- c.[^26-1] ...
+- c.[^26-1] …
 - d. Personen, die den Verwendungszweck einer Ware ändern.
 
 [^26-1]: Aufgehoben durch Ziff. I des BG vom 18. März 2016, mit Wirkung seit 1. Aug. 2016 ([AS 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [BBl 2015 2883](https://fedlex.data.admin.ch/eli/fga/2015/604)).
@@ -1021,7 +1021,7 @@ Zollschuldnerin oder Zollschuldner ist:
 - a. die Person, die Waren über die Zollgrenze bringt oder bringen lässt;
 - b. die Person, die zur Zollanmeldung verpflichtet oder damit beauftragt ist;
 - c. die Person, auf deren Rechnung die Waren ein- oder ausgeführt werden;
-- d.[^70-1] ...
+- d.[^70-1] …
 
 <sup>3</sup> Die Zollschuldnerinnen und Zollschuldner haften für die Zollschuld solidarisch. Der Rückgriff unter ihnen richtet sich nach dem Obligationenrecht[^70-2].
 
@@ -1344,7 +1344,7 @@ Das BAZG kann Gebühren erheben für:
 
 <sup>2</sup> Die Bestimmung über den Erlass von Zollabgaben (Art. 86) ist auf Abgaben nach einem nichtzollrechtlichen Bundesgesetz nur anwendbar, wenn dieses es vorsieht.
 
-## 5. Titel: Bundesamt für Zoll und Grenzsicherheit****
+## 5. Titel: Bundesamt für Zoll und Grenzsicherheit
 
 [^tit5-1]
 
@@ -1408,6 +1408,16 @@ Der Bundesrat wird ermächtigt:
 [^92-3]: Eingefügt durch Art. 3 des BB vom 3. Okt. 2008 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der Europäischen Gemeinschaft betreffend die Übernahme der Verordnung zur Errichtung von FRONTEX und der RABIT-Verordnung ([AS 2009 4583](https://fedlex.data.admin.ch/eli/oc/2009/543); [BBl 2008 1455](https://fedlex.data.admin.ch/eli/fga/2008/360)). Fassung gemäss Anhang Ziff. 3 des BB vom 15. Dez. 2017 (Übernahme der Verordnung [EU] 2016/1624 über die Europäische Grenz- und Küstenwache), in Kraft seit 15. Sept. 2018 ([AS 2018 3161](https://fedlex.data.admin.ch/eli/oc/2018/507); [BBl 2017 4155](https://fedlex.data.admin.ch/eli/fga/2017/1056)).
 [^92-4]: Eingefügt durch Anhang Ziff. 3 des BB vom 15. Dez. 2017 (Übernahme der Verordnung [EU] 2016/1624 über die Europäische Grenz- und Küstenwache), in Kraft seit 15. Sept. 2018 ([AS 2018 3161](https://fedlex.data.admin.ch/eli/oc/2018/507); [BBl 2017 4155](https://fedlex.data.admin.ch/eli/fga/2017/1056)).
 [^92-5]: Eingefügt durch Anhang Ziff. 3 des BB vom 15. Dez. 2017 (Übernahme der Verordnung [EU] 2016/1624 über die Europäische Grenz- und Küstenwache), in Kraft seit 15. Sept. 2018 ([AS 2018 3161](https://fedlex.data.admin.ch/eli/oc/2018/507); [BBl 2017 4155](https://fedlex.data.admin.ch/eli/fga/2017/1056)).
+
+#### Art. 92a
+
+**Zuständigkeiten für Einsätze in der Schweiz**[^92a-1]
+
+<sup>1</sup> Der Bundesrat ist zuständig für die Genehmigung der mit der Agentur der Europäischen Grenz- und Küstenwache jährlich verhandelten, unbewaffneten Einsätze von ausländischen Grenzschutzexpertinnen und -experten von bis zu sechs Monaten an den Schengen-Aussengrenzen der Schweiz.
+
+<sup>2</sup> Die Bundesversammlung ist zuständig für die Genehmigung von Einsätzen, die länger als sechs Monate oder bewaffnet erfolgen. In dringenden Fällen kann der Bundesrat die Genehmigung der Bundesversammlung nachträglich einholen. Er konsultiert vorgängig die Aussenpolitischen und die Sicherheitspolitischen Kommissionen beider Räte und die betroffenen Kantone.
+
+[^92a-1]: Eingefügt durch Anhang Ziff. 3 des BB vom 1. Okt. 2021 betreffend die Übernahme der Verordnung (EU) 2019/1896 über die Europäische Grenz- und Küstenwache, in Kraft seit 1. Sept. 2022 ([AS 2022 462](https://fedlex.data.admin.ch/eli/oc/2022/462); [BBl 2020 7105](https://fedlex.data.admin.ch/eli/fga/2020/1902)).
 
 #### Art. 93
 
@@ -1495,7 +1505,7 @@ Das BAZG ist zur Erfüllung der ihm übertragenen Aufgaben, insbesondere um den 
 
 <sup>1bis</sup> Soweit das vorliegende Gesetz keine besonderen Bestimmungen enthält, ist das Zwangsanwendungsgesetz vom 20. März 2008[^100-1] anwendbar.[^100-2]
 
-<sup>2</sup> ...[^100-3]
+<sup>2</sup> …[^100-3]
 
 [^100-1]: [SR 364](https://fedlex.data.admin.ch/eli/cc/2008/759)
 [^100-2]: Eingefügt durch Anhang Ziff. 5 des Zwangsanwendungsgesetzes vom 20. März 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 5463](https://fedlex.data.admin.ch/eli/oc/2008/759); [BBl 2006 2489](https://fedlex.data.admin.ch/eli/fga/2006/250)).
@@ -1893,7 +1903,7 @@ Es dürfen namentlich folgende Daten und Datenverbindungen, einschliesslich beso
 
 Das BAZG darf Behörden anderer Staaten sowie supranationaler und internationaler Organisationen (ausländische Behörden) Daten, einschliesslich besonders schützenswerter Personendaten und Persönlichkeitsprofile, im Einzelfall oder im Abrufverfahren nur bekannt geben, sofern ein völkerrechtlicher Vertrag dies vorsieht.
 
-### 2. Kapitel: Amtshilfe unter inländischen Behörden****
+### 2. Kapitel: Amtshilfe unter inländischen Behörden
 
 [^tit6-chap2-1]
 
@@ -1901,7 +1911,7 @@ Das BAZG darf Behörden anderer Staaten sowie supranationaler und internationale
 
 #### Art. 114
 
-**...[^114-1]**
+**…[^114-1]**
 
 <sup>1</sup> Das BAZG und andere inländische Behörden leisten einander bei der Erfüllung ihrer Aufgaben Amtshilfe und unterstützen sich gegenseitig.
 
@@ -1909,7 +1919,7 @@ Das BAZG darf Behörden anderer Staaten sowie supranationaler und internationale
 
 [^114-1]: Aufgehoben durch Anhang Ziff. 2 des Steueramtshilfegesetzes vom 28. Sept. 2012, mit Wirkung seit 1. Febr. 2013 ([AS 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [BBl 2011 6193](https://fedlex.data.admin.ch/eli/fga/2011/914)).
 
-### 3. Kapitel: Internationale Amtshilfe****
+### 3. Kapitel: Internationale Amtshilfe
 
 [^tit6-chap3-1]
 
@@ -2228,7 +2238,7 @@ Der Bundesrat vollzieht dieses Gesetz.
 
 <sup>2</sup> Die Änderung bisherigen Rechts wird im Anhang geregelt.
 
-[^131-1]: [BS **6** 465; [AS 1956 587](https://fedlex.data.admin.ch/eli/oc/1956/587_635_639), [1959 1343](https://fedlex.data.admin.ch/eli/oc/1959/1343_1397_1397)Art. 11 Ziff. III, [1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644), [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)Anhang Ziff. 7, [1980 1793](https://fedlex.data.admin.ch/eli/oc/1980/1793_1793_1793)Ziff. I 1, [1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670)Ziff. III, [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)Ziff. I 3, [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816), [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)Anhang 2 Ziff. 2, [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Anhang Ziff. 13, [2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)Art. 92 [1891](https://fedlex.data.admin.ch/eli/oc/2000/293)Ziff. VI 6, [2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53)Ziff. I 1 Art. 41, [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)Anhang Ziff. II 1, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 50]
+[^131-1]: [BS **6** 465; [AS 1956 587](https://fedlex.data.admin.ch/eli/oc/1956/587_635_639); [1959 1343](https://fedlex.data.admin.ch/eli/oc/1959/1343_1397_1397)Art. 11 Ziff. III; [1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644); [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)Anhang Ziff. 7; [1980 1793](https://fedlex.data.admin.ch/eli/oc/1980/1793_1793_1793)Ziff. I 1; [1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670)Ziff. III; [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)Ziff. I 3; [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816); [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)Anhang 2 Ziff. 2; [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Anhang Ziff. 13; [2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)Art. 92, [1891](https://fedlex.data.admin.ch/eli/oc/2000/293)Ziff. VI 6; [2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53)Ziff. I 1 Art. 41; [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)Anhang Ziff. II 1; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 50]
 
 #### Art. 132
 
@@ -2246,9 +2256,9 @@ Der Bundesrat vollzieht dieses Gesetz.
 
 <sup>6</sup> Beschwerden gegen Beschwerdeentscheide der Zollkreisdirektionen, die bei Inkrafttreten dieses Gesetzes bei der Oberzolldirektion hängig sind, werden von dieser entschieden.
 
-<sup>7</sup> ...[^132-2]
+<sup>7</sup> …[^132-2]
 
-[^132-1]: [BS **6** 465; [AS 1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644), [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816), [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)Anhang 2 Ziff. 2]
+[^132-1]: [BS **6** 465; [AS 1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644); [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816); [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)Anhang 2 Ziff. 2]
 [^132-2]: Aufgehoben durch Ziff. I des BG vom 18. März 2016, mit Wirkung seit 1. Aug. 2016 ([AS 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [BBl 2015 2883](https://fedlex.data.admin.ch/eli/fga/2015/604)).
 
 #### Art. 132a
@@ -2279,6 +2289,6 @@ Anhang
 
 Die nachstehenden Bundesgesetze werden wie folgt geändert:
 
-...[^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Die Änderungen können unter [AS 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)konsultiert werden.

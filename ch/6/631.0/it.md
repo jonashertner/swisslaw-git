@@ -4,11 +4,11 @@ title: Legge del 18 marzo 2005 sulle dogane (LD)
 short: LD
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/249"
 language: it
-version: 2022-01-01
+version: 2022-09-01
 adopted: 2005-03-18
 in_force: 2007-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/249/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2007-249-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/249/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/249/20220901/it/xml/fedlex-data-admin-ch-eli-cc-2007-249-20220901-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/249/20220901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/249/20220101/it"
 
 (LD)
 
-del 18 marzo 2005 (Stato 1° gennaio 2022)
+del 18 marzo 2005 (Stato 1° settembre 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -1351,7 +1351,7 @@ L’UDSC può riscuotere tasse per:
 
 <sup>2</sup> La disposizione sul condono di tributi doganali (art. 86) è applicabile ai tributi ai sensi di una legge federale di natura non doganale solo se tale legge lo prevede.
 
-## Titolo quinto: Ufficio federale della dogana e della sicurezza dei confini****
+## Titolo quinto: Ufficio federale della dogana e della sicurezza dei confini
 
 [^tit5-1]
 
@@ -1415,6 +1415,16 @@ Il Consiglio federale è autorizzato a:
 [^92-3]: Introdotto dall’art. 3 del DF del 3 ott. 2008 che approva e traspone gli scambi di note tra la Svizzera e la Comunità europea relativi al recepimento del regolamento FRONTEX e del regolamento RABIT ([RU 2009 4583](https://fedlex.data.admin.ch/eli/oc/2009/543); [FF 2008 1225](https://fedlex.data.admin.ch/eli/fga/2008/360)). Nuovo testo giusta il n. 3 dell’all. al DF del 15 dic. 2017 (recepimento del regolamento [UE] 2016/1624 relativo alla guardia di frontiera e costiera europea), in vigore dal 15 set. 2018 ([RU 2018 3161](https://fedlex.data.admin.ch/eli/oc/2018/507); [FF 2017 3561](https://fedlex.data.admin.ch/eli/fga/2017/1056)).
 [^92-4]: Introdotto dal n. 3 dell’all. al DF del 15 dic. 2017 (recepimento del regolamento [UE] 2016/1624 relativo alla guardia di frontiera e costiera europea), in vigore dal 15 set. 2018 ([RU 2018 3161](https://fedlex.data.admin.ch/eli/oc/2018/507); [FF 2017 3561](https://fedlex.data.admin.ch/eli/fga/2017/1056)).
 [^92-5]: Introdotto dal n. 3 dell’all. al DF del 15 dic. 2017 (recepimento del regolamento [UE] 2016/1624 relativo alla guardia di frontiera e costiera europea), in vigore dal 15 set. 2018 ([RU 2018 3161](https://fedlex.data.admin.ch/eli/oc/2018/507); [FF 2017 3561](https://fedlex.data.admin.ch/eli/fga/2017/1056)).
+
+#### Art. 92a
+
+**Competenza per gli impieghi in Svizzera**[^92a-1]
+
+<sup>1</sup> Il Consiglio federale è competente per l’approvazione degli impieghi non armati alle frontiere esterne dello spazio Schengen in Svizzera di esperti esteri in materia di protezione delle frontiere, della durata massima di sei mesi, convenuti annualmente con l’Agenzia europea della guardia di frontiera e costiera.
+
+<sup>2</sup> L’Assemblea federale è competente per l’approvazione degli impieghi di durata superiore a sei mesi o armati. In casi urgenti il Consiglio federale può chiedere a posteriori l’approvazione dell’Assemblea federale. Consulta previamente le Commissioni della politica estera e quelle della politica di sicurezza delle due Camere e i Cantoni interessati.
+
+[^92a-1]: Introdotto dall’all. n. 3 del DF del 1° ott. 2021 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e l’UE concernente il recepimento del regolamento (UE) 2019/1896 relativo alla guardia di frontiera e costiera europea, in vigore dal 1° set. 2022 ([RU 2022 462](https://fedlex.data.admin.ch/eli/oc/2022/462); [FF 2020 6219](https://fedlex.data.admin.ch/eli/fga/2020/1902)).
 
 #### Art. 93
 
@@ -1909,7 +1919,7 @@ L’UDSC può rendere accessibili alle autorità menzionate qui appresso i segue
 
 L’UDSC può comunicare dati, inclusi i dati personali degni di particolare protezione e i profili della personalità, ad autorità di altri Stati nonché ad organizzazioni sopranazionali o internazionali (autorità estere) in singoli casi o mediante procedura di richiamo, sempre che un trattato internazionale lo preveda.
 
-### Capitolo 2: Assistenza amministrativa tra autorità svizzere****
+### Capitolo 2: Assistenza amministrativa tra autorità svizzere
 
 [^tit6-chap2-1]
 
@@ -1925,7 +1935,7 @@ L’UDSC può comunicare dati, inclusi i dati personali degni di particolare pro
 
 [^114-1]: Abrogata dal n. 2 dell’all. alla L del 28 set. 2012 sull’assistenza amministrativa fiscale, con effetto dal 1° feb. 2013 ([RU 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [FF 2011 5587](https://fedlex.data.admin.ch/eli/fga/2011/914)).
 
-### Capitolo 3: Assistenza amministrativa internazionale****
+### Capitolo 3: Assistenza amministrativa internazionale
 
 [^tit6-chap3-1]
 

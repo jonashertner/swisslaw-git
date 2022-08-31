@@ -4,20 +4,20 @@ title: Loi du 18 mars 2005 sur les douanes (LD)
 short: LD
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/249"
 language: fr
-version: 2022-01-01
+version: 2022-09-01
 adopted: 2005-03-18
 in_force: 2007-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/249/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-249-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/249/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/249/20220901/fr/xml/fedlex-data-admin-ch-eli-cc-2007-249-20220901-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/249/20220901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Loi sur les douanes**<sup>∗</sup>**
+# Loi sur les douanes<sup>∗</sup>
 
 (LD)[^t-1]
 
-du 18 mars 2005 (Etat le 1<sup>er</sup> janvier 2022)
+du 18 mars 2005 (État le 1<sup>er</sup> septembre 2022)
 
 [^t-1]: <sup>∗</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -106,7 +106,7 @@ Au sens de la présente loi, on entend par:
 
 - b. *marchandises:* les marchandises figurant en annexe de la loi fédérale du 9 octobre 1986 sur le tarif des douanes (LTaD)[^6-1];
 - c. *marchandises en libre pratique (marchandises dédouanées):* les marchandises indigènes;
-- d. *marchandises qui ne sont pas en libre pratique (marchandises non dédou**a**nées):* les marchandises étrangères ou dédouanées à l’exportation;
+- d. *marchandises qui ne sont pas en libre pratique (marchandises non dédouanées):* les marchandises étrangères ou dédouanées à l’exportation;
 - e. *redevances:* les droits de douane ainsi que les redevances dues selon les lois fédérales autres que douanières;
 - f. *droits de douane:* les droits à l’importation et les droits à l’exportation;
 - g. *importation:* la mise en libre pratique des marchandises;
@@ -1347,7 +1347,7 @@ L’OFDF peut percevoir des émoluments pour:
 
 <sup>2</sup> La disposition concernant la remise des droits de douane (art. 86) ne s’applique aux autres redevances dues en vertu d’une loi fédérale autre que douanière que si cet acte le prévoit.
 
-## Titre 5 Office fédéral de la douane et de la sécurité des frontières****
+## Titre 5 Office fédéral de la douane et de la sécurité des frontières
 
 [^tit5-1]
 
@@ -1406,11 +1406,21 @@ Le Conseil fédéral est autorisé à:
 - b. convenir avec les autorités étrangères compétentes de l’engagement d’agents de liaison de l’OFDF;
 - c. régler l’étendue des tâches prévues à l’al. 4.[^92-5]
 
-[^92-1]: Nouvelle teneur selon le ch. 3 de l’annexe à l’AF du 15 déc. 2017 (Reprise du règlement [UE] 2016/1624 relatif au corps européen de garde-frontières et de garde-côtes), en vigueur depuis le 15 sept. 2018 ([RO 2018 3161](https://fedlex.data.admin.ch/eli/oc/2018/507); [FF 2017 3891](https://fedlex.data.admin.ch/eli/fga/2017/1056)).
-[^92-2]: Introduit par l’art. 3 de l’AF du 3 oct. 2008 (Règlements FRONTEX et RABIT) ([RO 2009 4583](https://fedlex.data.admin.ch/eli/oc/2009/543); [FF 2008 1305](https://fedlex.data.admin.ch/eli/fga/2008/360)). Nouvelle teneur selon le ch. 3 de l’annexe à l’AF du 15 déc. 2017 (Reprise du règlement [UE] 2016/1624 relatif au corps européen de garde-frontières et de garde-côtes), en vigueur depuis le 15 sept. 2018 ([RO 2018 3161](https://fedlex.data.admin.ch/eli/oc/2018/507); [FF 2017 3891](https://fedlex.data.admin.ch/eli/fga/2017/1056)).
-[^92-3]: Introduit par l’art. 3 de l’AF du 3 oct. 2008 (Règlements FRONTEX et RABIT) ([RO 2009 4583](https://fedlex.data.admin.ch/eli/oc/2009/543); [FF 2008 1305](https://fedlex.data.admin.ch/eli/fga/2008/360)). Nouvelle teneur selon le ch. 3 de l’annexe à l’AF du 15 déc. 2017 (Reprise du règlement [UE] 2016/1624 relatif au corps européen de garde-frontières et de garde-côtes), en vigueur depuis le 15 sept. 2018 ([RO 2018 3161](https://fedlex.data.admin.ch/eli/oc/2018/507); [FF 2017 3891](https://fedlex.data.admin.ch/eli/fga/2017/1056)).
-[^92-4]: Introduit par le ch. 3 de l’annexe à l’AF du 15 déc. 2017 (Reprise du règlement [UE] 2016/1624 relatif au corps européen de garde-frontières et de garde-côtes), en vigueur depuis le 15 sept. 2018 ([RO 2018 3161](https://fedlex.data.admin.ch/eli/oc/2018/507); [FF 2017 3891](https://fedlex.data.admin.ch/eli/fga/2017/1056)).
-[^92-5]: Introduit par le ch. 3 de l’annexe à l’AF du 15 déc. 2017 (Reprise du règlement [UE] 2016/1624 relatif au corps européen de garde-frontières et de garde-côtes), en vigueur depuis le 15 sept. 2018 ([RO 2018 3161](https://fedlex.data.admin.ch/eli/oc/2018/507); [FF 2017 3891](https://fedlex.data.admin.ch/eli/fga/2017/1056)).
+[^92-1]: Nouvelle teneur selon l’annexe ch. 3 de l’AF du 15 déc. 2017 (Reprise du règlement [UE] 2016/1624 relatif au corps européen de garde-frontières et de garde-côtes), en vigueur depuis le 15 sept. 2018 ([RO 2018 3161](https://fedlex.data.admin.ch/eli/oc/2018/507); [FF 2017 3891](https://fedlex.data.admin.ch/eli/fga/2017/1056)).
+[^92-2]: Introduit par l’art. 3 de l’AF du 3 oct. 2008 (Règlements FRONTEX et RABIT) ([RO 2009 4583](https://fedlex.data.admin.ch/eli/oc/2009/543); [FF 2008 1305](https://fedlex.data.admin.ch/eli/fga/2008/360)). Nouvelle teneur selon l’annexe ch. 3 de l’AF du 15 déc. 2017 (Reprise du règlement [UE] 2016/1624 relatif au corps européen de garde-frontières et de garde-côtes), en vigueur depuis le 15 sept. 2018 ([RO 2018 3161](https://fedlex.data.admin.ch/eli/oc/2018/507); [FF 2017 3891](https://fedlex.data.admin.ch/eli/fga/2017/1056)).
+[^92-3]: Introduit par l’art. 3 de l’AF du 3 oct. 2008 (Règlements FRONTEX et RABIT) ([RO 2009 4583](https://fedlex.data.admin.ch/eli/oc/2009/543); [FF 2008 1305](https://fedlex.data.admin.ch/eli/fga/2008/360)). Nouvelle teneur selon l’annexe ch. 3 de l’AF du 15 déc. 2017 (Reprise du règlement [UE] 2016/1624 relatif au corps européen de garde-frontières et de garde-côtes), en vigueur depuis le 15 sept. 2018 ([RO 2018 3161](https://fedlex.data.admin.ch/eli/oc/2018/507); [FF 2017 3891](https://fedlex.data.admin.ch/eli/fga/2017/1056)).
+[^92-4]: Introduit par l’annexe ch. 3 de l’AF du 15 déc. 2017 (Reprise du règlement [UE] 2016/1624 relatif au corps européen de garde-frontières et de garde-côtes), en vigueur depuis le 15 sept. 2018 ([RO 2018 3161](https://fedlex.data.admin.ch/eli/oc/2018/507); [FF 2017 3891](https://fedlex.data.admin.ch/eli/fga/2017/1056)).
+[^92-5]: Introduit par l’annexe ch. 3 de l’AF du 15 déc. 2017 (Reprise du règlement [UE] 2016/1624 relatif au corps européen de garde-frontières et de garde-côtes), en vigueur depuis le 15 sept. 2018 ([RO 2018 3161](https://fedlex.data.admin.ch/eli/oc/2018/507); [FF 2017 3891](https://fedlex.data.admin.ch/eli/fga/2017/1056)).
+
+#### Art. 92a
+
+**Compétences pour les interventions en Suisse**[^92a-1]
+
+<sup>1</sup> Le Conseil fédéral est compétent pour l’approbation des interventions non armées, d’une durée de six mois au plus, de spécialistes étrangers de la protection des frontières, négociées chaque année avec l’Agence européenne de garde-frontières et de garde-côtes, aux frontières extérieures de l’Espace Schengen de la Suisse.
+
+<sup>2</sup> L’Assemblée fédérale est compétente pour l’approbation des interventions de plus de six mois ou des interventions armées. En cas d’urgence, le Conseil fédéral peut demander l’approbation de l’Assemblée fédérale a posteriori. Il consulte au préalable les Commissions de politique extérieure et les Commissions de la politique de sécurité des deux conseils ainsi que les cantons concernés.
+
+[^92a-1]: Introduit par l’annexe ch. 3 de l’AF du 1<sup>er</sup> oct. 2021 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et l’Union européenne concernant la reprise du règlement (UE) 2019/1896 relatif au corps européen de garde-frontières et de garde-côtes, en vigueur depuis le 1<sup>er</sup> sept. 2022 ([RO 2022 462](https://fedlex.data.admin.ch/eli/oc/2022/462); [FF 2020 6893](https://fedlex.data.admin.ch/eli/fga/2020/1902)).
 
 #### Art. 93
 
@@ -1501,7 +1511,7 @@ Pour exécuter les tâches qui lui sont confiées, en particulier pour garantir 
 <sup>2</sup> ...[^100-3]
 
 [^100-1]: [RS 364](https://fedlex.data.admin.ch/eli/cc/2008/759)
-[^100-2]: Introduit par le ch. 5 de l’annexe à la L du 20 mars 2008 sur l’usage de la contrainte, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5463](https://fedlex.data.admin.ch/eli/oc/2008/759); [FF 2006 2429](https://fedlex.data.admin.ch/eli/fga/2006/250)).
+[^100-2]: Introduit par l’annexe ch. 5 de la L du 20 mars 2008 sur l’usage de la contrainte, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5463](https://fedlex.data.admin.ch/eli/oc/2008/759); [FF 2006 2429](https://fedlex.data.admin.ch/eli/fga/2006/250)).
 [^100-3]: Abrogé par le ch. I de la LF du 18 mars 2016, avec effet au 1<sup>er</sup> août 2016 ([RO 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2657](https://fedlex.data.admin.ch/eli/fga/2015/604)).
 
 #### Art. 101
@@ -1901,11 +1911,11 @@ L’OFDF peut rendre accessibles par procédure d’appel les données suivantes
 
 L’OFDF ne peut communiquer des données, y compris des données sensibles et des profils de la personnalité, à des autorités d’autres États ainsi qu’à des organisations supranationales ou internationales (autorités étrangères), dans des cas d’espèce ou en procédure d’appel, que si un traité international le prévoit.
 
-### Chapitre 2 Assistance administrative entre autorités suisses****
+### Chapitre 2 Assistance administrative entre autorités suisses
 
 [^tit6-chap2-1]
 
-[^tit6-chap2-1]: Nouvelle teneur selon le ch. 2 de l’annexe à la L du 28 sept. 2012 sur l’assistance administrative fiscale, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [FF 2011 5771](https://fedlex.data.admin.ch/eli/fga/2011/914)).
+[^tit6-chap2-1]: Nouvelle teneur selon l’annexe ch. 2 de la L du 28 sept. 2012 sur l’assistance administrative fiscale, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [FF 2011 5771](https://fedlex.data.admin.ch/eli/fga/2011/914)).
 
 #### Art. 114
 
@@ -1915,13 +1925,13 @@ L’OFDF ne peut communiquer des données, y compris des données sensibles et d
 
 <sup>2</sup> Les autorités suisses fournissent à l’OFDF les données, y compris des données sensibles et des profils de la personnalité, qui sont nécessaires à l’exécution des actes législatifs qu’il doit appliquer.
 
-[^114-1]: Abrogé par le ch. 2 de l’annexe à la L du 28 sept. 2012 sur l’assistance administrative fiscale, avec effet au 1<sup>er</sup> fév. 2013 ([RO 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [FF 2011 5771](https://fedlex.data.admin.ch/eli/fga/2011/914)).
+[^114-1]: Abrogé par l’annexe ch. 2 de la L du 28 sept. 2012 sur l’assistance administrative fiscale, avec effet au 1<sup>er</sup> fév. 2013 ([RO 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [FF 2011 5771](https://fedlex.data.admin.ch/eli/fga/2011/914)).
 
-### Chapitre 3 Assistance administrative internationale****
+### Chapitre 3 Assistance administrative internationale
 
 [^tit6-chap3-1]
 
-[^tit6-chap3-1]: Introduit par le ch. 2 de l’annexe à la L du 28 sept. 2012 sur l’assistance administrative fiscale, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [FF 2011 5771](https://fedlex.data.admin.ch/eli/fga/2011/914)).
+[^tit6-chap3-1]: Introduit par l’annexe ch. 2 de la L du 28 sept. 2012 sur l’assistance administrative fiscale, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [FF 2011 5771](https://fedlex.data.admin.ch/eli/fga/2011/914)).
 
 #### Art. 115
 
@@ -1931,7 +1941,7 @@ L’OFDF ne peut communiquer des données, y compris des données sensibles et d
 
 <sup>2</sup> Si un traité international le prévoit, il peut également accorder l’assistance administrative d’office.
 
-[^115-1]: Nouvelle teneur selon le ch. 2 de l’annexe à la L du 28 sept. 2012 sur l’assistance administrative fiscale, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [FF 2011 5771](https://fedlex.data.admin.ch/eli/fga/2011/914)).
+[^115-1]: Nouvelle teneur selon l’annexe ch. 2 de la L du 28 sept. 2012 sur l’assistance administrative fiscale, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [FF 2011 5771](https://fedlex.data.admin.ch/eli/fga/2011/914)).
 
 #### Art. 115a
 
@@ -1943,7 +1953,7 @@ L’OFDF ne peut communiquer des données, y compris des données sensibles et d
 
 <sup>3</sup> Lorsque l’autorité compétente à raison de la matière n’est pas en mesure de mettre en œuvre les mesures demandées, l’OFDF exécute l’assistance administrative avec le soutien de l’autorité compétente.
 
-[^115a-1]: Introduit par le ch. 2 de l’annexe à la L du 28 sept. 2012 sur l’assistance administrative fiscale, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [FF 2011 5771](https://fedlex.data.admin.ch/eli/fga/2011/914)).
+[^115a-1]: Introduit par l’annexe ch. 2 de la L du 28 sept. 2012 sur l’assistance administrative fiscale, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [FF 2011 5771](https://fedlex.data.admin.ch/eli/fga/2011/914)).
 
 #### Art. 115b
 
@@ -1953,7 +1963,7 @@ L’OFDF ne peut communiquer des données, y compris des données sensibles et d
 
 <sup>2</sup> Lorsque ces conditions ne sont pas remplies, l’autorité compétente en informe l’autorité requérante par écrit et lui donne la possibilité de compléter sa demande par écrit.
 
-[^115b-1]: Introduit par le ch. 2 de l’annexe à la L du 28 sept. 2012 sur l’assistance administrative fiscale, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [FF 2011 5771](https://fedlex.data.admin.ch/eli/fga/2011/914)).
+[^115b-1]: Introduit par l’annexe ch. 2 de la L du 28 sept. 2012 sur l’assistance administrative fiscale, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [FF 2011 5771](https://fedlex.data.admin.ch/eli/fga/2011/914)).
 
 #### Art. 115c
 
@@ -1961,7 +1971,7 @@ L’OFDF ne peut communiquer des données, y compris des données sensibles et d
 
 Pour obtenir des renseignement, des documents, des objets ou des valeurs patrimoniales, seules sont autorisées les mesures prévues par le droit suisse qui pourraient être prises en vertu du droit douanier ou d’un acte législatif fédéral autre que douanier.
 
-[^115c-1]: Introduit par le ch. 2 de l’annexe à la L du 28 sept. 2012 sur l’assistance administrative fiscale, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [FF 2011 5771](https://fedlex.data.admin.ch/eli/fga/2011/914)).
+[^115c-1]: Introduit par l’annexe ch. 2 de la L du 28 sept. 2012 sur l’assistance administrative fiscale, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [FF 2011 5771](https://fedlex.data.admin.ch/eli/fga/2011/914)).
 
 #### Art. 115d
 
@@ -1973,7 +1983,7 @@ Pour obtenir des renseignement, des documents, des objets ou des valeurs patrimo
 
 <sup>3</sup> Si la personne visée par la demande refuse de coopérer ou de témoigner, l’OFDF rend une décision sur l’obligation de coopérer et fournir des renseignements, des données ou des documents.
 
-[^115d-1]: Introduit par le ch. 2 de l’annexe à la L du 28 sept. 2012 sur l’assistance administrative fiscale, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [FF 2011 5771](https://fedlex.data.admin.ch/eli/fga/2011/914)).
+[^115d-1]: Introduit par l’annexe ch. 2 de la L du 28 sept. 2012 sur l’assistance administrative fiscale, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [FF 2011 5771](https://fedlex.data.admin.ch/eli/fga/2011/914)).
 
 #### Art. 115e
 
@@ -1983,7 +1993,7 @@ Pour obtenir des renseignement, des documents, des objets ou des valeurs patrimo
 
 <sup>2</sup> Les art. 45 à 60 DPA[^115e-2] sont applicables.
 
-[^115e-1]: Introduit par le ch. 2 de l’annexe à la L du 28 sept. 2012 sur l’assistance administrative fiscale, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [FF 2011 5771](https://fedlex.data.admin.ch/eli/fga/2011/914)).
+[^115e-1]: Introduit par l’annexe ch. 2 de la L du 28 sept. 2012 sur l’assistance administrative fiscale, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [FF 2011 5771](https://fedlex.data.admin.ch/eli/fga/2011/914)).
 [^115e-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 
 #### Art. 115f
@@ -1992,7 +2002,7 @@ Pour obtenir des renseignement, des documents, des objets ou des valeurs patrimo
 
 La personne visée par la demande d’assistance administrative peut prendre part à la procédure et consulter les pièces dans la mesure où elle a été obligée de coopérer en application de l’art. 115*d* ou que des mesures de contrainte ont été ordonnées en application de l’art. 115*e*.
 
-[^115f-1]: Introduit par le ch. 2 de l’annexe à la L du 28 sept. 2012 sur l’assistance administrative fiscale, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [FF 2011 5771](https://fedlex.data.admin.ch/eli/fga/2011/914)).
+[^115f-1]: Introduit par l’annexe ch. 2 de la L du 28 sept. 2012 sur l’assistance administrative fiscale, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [FF 2011 5771](https://fedlex.data.admin.ch/eli/fga/2011/914)).
 
 #### Art. 115g
 
@@ -2004,7 +2014,7 @@ La personne visée par la demande d’assistance administrative peut prendre par
 
 <sup>3</sup> Lorsque le consentement ne porte que sur une partie des renseignements, écrits, objets ou valeurs patrimoniales, la procédure ordinaire s’applique aux autres éléments.
 
-[^115g-1]: Introduit par le ch. 2 de l’annexe à la L du 28 sept. 2012 sur l’assistance administrative fiscale, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [FF 2011 5771](https://fedlex.data.admin.ch/eli/fga/2011/914)).
+[^115g-1]: Introduit par l’annexe ch. 2 de la L du 28 sept. 2012 sur l’assistance administrative fiscale, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [FF 2011 5771](https://fedlex.data.admin.ch/eli/fga/2011/914)).
 
 #### Art. 115h
 
@@ -2014,7 +2024,7 @@ La personne visée par la demande d’assistance administrative peut prendre par
 
 <sup>2</sup> L’autorité compétente ne transmet pas les renseignements, écrits, objets ou valeurs patrimoniales qui ne sont vraisemblablement pas pertinents. Elle les extrait ou les rend anonymes.
 
-[^115h-1]: Introduit par le ch. 2 de l’annexe à la L du 28 sept. 2012 sur l’assistance administrative fiscale, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [FF 2011 5771](https://fedlex.data.admin.ch/eli/fga/2011/914)).
+[^115h-1]: Introduit par l’annexe ch. 2 de la L du 28 sept. 2012 sur l’assistance administrative fiscale, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [FF 2011 5771](https://fedlex.data.admin.ch/eli/fga/2011/914)).
 
 #### Art. 115i
 
@@ -2026,7 +2036,7 @@ La personne visée par la demande d’assistance administrative peut prendre par
 
 <sup>3</sup> Un recours contre une décision incidente au sens de l’al. 2 ou contre la décision finale peut être formé auprès du Tribunal administratif fédéral, qui décide en dernière instance. La qualité pour recourir est régie par l’art. 48 de la loi fédérale du 20 décembre 1968 sur la procédure administrative[^115i-2].
 
-[^115i-1]: Introduit par le ch. 2 de l’annexe à la L du 28 sept. 2012 sur l’assistance administrative fiscale, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [FF 2011 5771](https://fedlex.data.admin.ch/eli/fga/2011/914)).
+[^115i-1]: Introduit par l’annexe ch. 2 de la L du 28 sept. 2012 sur l’assistance administrative fiscale, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [FF 2011 5771](https://fedlex.data.admin.ch/eli/fga/2011/914)).
 [^115i-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 
 ## Titre 7 Voies de droit
