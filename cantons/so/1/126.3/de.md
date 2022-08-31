@@ -4,13 +4,13 @@ number: "126.3"
 title: Gesamtarbeitsvertrag
 short: GAV
 language: de
-version: 2022-08-01
-valid_until: 2022-08-31
-version_adopted: 2022-06-07
+version: 2022-09-01
+valid_until: 2022-10-31
+version_adopted: 2022-08-30
 adopted: 2004-10-25
 in_force: 2005-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/126.3"
-pdf: "https://bgs.so.ch/api/de/versions/5232/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5258/pdf_file"
 text: pdf
 ---
 
@@ -18,7 +18,7 @@ text: pdf
 
 # Gesamtarbeitsvertrag (GAV)
 
-vom 25. Oktober 2004 (Stand 1. August 2022)
+vom 25. Oktober 2004 (Stand 1. September 2022)
 
 zwischen dem Kanton Solothurn vertreten durch den Regierungsrat
 
@@ -2029,7 +2029,9 @@ Arbeitnehmende, welche vorübergehend auf einen von ihrem Arbeitsort oder Wohnsi
 
 <sup>1</sup> Auslagen für Dienstreisen sind auf besonderen Formularen monatlich nach Weisung des Amtes für Finanzen in Rechnung zu stellen. Der Zweck der Reise und die Reisezeiten müssen angegeben und besondere Auslagen, soweit sie im GAV nicht ausdrücklich geregelt sind, schriftlich begründet werden. Die Belege sind beizulegen.
 
-<sup>2</sup> Die Finanzkontrolle prüft die Rechnungen und weist diese zurück, wenn sie den vorgängigen Bestimmungen nicht entsprechen.
+<sup>2</sup> Die Dienststellen prüfen die Rechnungen und weisen diese zurück, wenn sie den vorgängigen Bestimmungen nicht entsprechen.[^158-1]
+
+[^158-1]: § 158 Absatz 2 Fassung vom 30. August 2022.
 
 #### § 159
 
@@ -2112,9 +2114,11 @@ Die Entschädigung beträgt für die Benützung von a) Motorrädern 35 Rappen pr
 
 - e) Zeit der Abreise und der Rückkehr.
 
-<sup>2</sup> Die Finanzkontrolle prüft die Rechnungen und weist sie zurück, wenn sie den vorgängigen Bestimmungen widersprechen.
+<sup>2</sup> Die Dienststellen prüfen die Rechnungen und weisen sie zurück, wenn sie den vorgängigen Bestimmungen widersprechen.[^165-1]
 
 2.3. Entschädigung für Telefonkosten
+
+[^165-1]: § 165 Absatz 2 Fassung vom 30. August 2022.
 
 #### § 166
 
@@ -2137,6 +2141,16 @@ Die Entschädigung für die Gesprächstaxen wird mit besonderem Formular geltend
 <sup>1</sup> Staatliche Fahrzeuge stehen in der Regel einem grösseren Benutzerkreis für dienstliche Fahrten zur Verfügung (Poolfahrzeuge).
 
 <sup>2</sup> Wenn es für die Erfüllung der dienstlichen Aufgabe unerlässlich ist, können Fahrzeuge in begründeten Ausnahmefällen einer bestimmten Person zur regelmässigen Benützung zugewiesen werden. Die Zuweisung bedarf der Zustimmung des zuständigen Departementes.
+
+<sup>3</sup> Mitarbeitende mit persönlich zugewiesenen Fahrzeugen können je nach Ausrüstung von der Dienststelle verpflichtet werden, das Fahrzeug auf dem selbst bewohnten Grundstück in einer Garage oder einem Unterstand unterzubringen. Mitarbeitende mit Wohnung in einer Überbauung können zur Unterbringung in der zur Überbauung gehörenden, nicht öffentlich zugänglichen und nur der definierten Mieter- oder Eigentümerschaft zur Verfügung stehenden Garage verpflichtet werden. Im begründeten Einzelfall kann der Amtschef der Unterbringung in einer anderen nicht öffentlich zugänglichen Garage zustimmen, sofern sie sich in der Nachbarschaft des Mitarbeitenden befindet.[^167-2]
+
+<sup>4</sup> Als monatliche Entschädigung für die Unterbringung werden ausgerichtet:
+
+- a) Für Garagenplätze im privaten Eigentum: 120 Franken;
+
+- b) Für Unterstände im privatem Eigentum: 80 Franken;
+
+- c) Bei Zumietung eines Garagenplatzes: die effektive Miete. Der Mietvertrag muss vor Abschluss durch die Dienststelle genehmigt werden.[^167-3]
 
 167<sup>quater</sup>. Private Fahrten
 
@@ -2161,6 +2175,8 @@ Die Entschädigung für die Gesprächstaxen wird mit besonderem Formular geltend
 3.1. Bezahlter Urlaub
 
 [^167-1]: Kapitel 2.4. §§ 167bis-167sexies eingefügt am 12. März 2007.
+[^167-2]: § 167ter Absatz 3 eingefügt am 30. August 2022.
+[^167-3]: § 167ter Absatz 4 eingefügt am 30. August 2022.
 
 #### § 168
 
@@ -3815,7 +3831,9 @@ Der Besondere Teil Polizei regelt die Abweichungen und Ergänzungen gegenüber d
 
 **Polizeischule: Kündigung und Austritt**
 
-Das Kommando kann das Anstellungsverhältnis eines Polizeianwärters bei Pflichtverletzung und bei ungenügenden Leistungen auf Ende eines Monats kündigen. Die Kündigungsfrist beträgt einen Monat.
+Während der Grundausbildung und im Praxisjahr kann das Kommando das Anstellungsverhältnis eines Polizeianwärters oder einer Polizeianwärterin bei Pflichtverletzung und bei ungenügenden Leistungen auf Ende eines Monats kündigen. Die Kündigungsfrist beträgt einen Monat.[^265-1]
+
+[^265-1]: § 265 Fassung vom 30. August 2022.
 
 ### C. Inhalt des Arbeitsverhältnisses
 
@@ -3871,15 +3889,21 @@ fonanschluss zu unterhalten (fix oder mobile).
 
 **Beitrag an die Ausbildungskosten (§ 12 KapoG)**
 
-<sup>1</sup> Der Regierungsrat kann die Bezahlung eines Teils der Ausbildungskosten fordern, wenn a) ein Polizeianwärter aus der Polizeischule austritt oder entlassen wird;
+<sup>1</sup> Das zuständige Departement kann die Rückzahlung eines Teils der Ausbildungskosten fordern, wenn[^271-1] a) der Polizeianwärter oder die Polizeianwärterin die Polizeiausbildung abbricht oder entlassen wird;
 
-- b) ein Korpsangehöriger den Dienst bei der Kantonspolizei innerhalb von 5 Jahren nach Abschluss der Polizeischule beendet.
+- b) der Polizist oder die Polizistin den Dienst bei der Kantonspolizei inne halb von vier Jahren nach Bestehen der eidgenössischen Berufsprüfung beendet;
+
+- c) der Polizeiliche Sicherheitsassistent oder die Polizeiliche Sicherheitsassistentin den Dienst bei der Kantonspolizei innerhalb von vier Jahren nach Erhalt des Zertifikats beendet.
 
 <sup>2</sup> In den Anstellungsbedingungen legt der Regierungsrat den Höchstbetrag des rückzahlbaren Teils der Ausbildungskosten fest.
 
-<sup>3</sup> Bei Austritt oder Entlassung aus der Polizeischule richtet sich die Rückzahlung nach der Dauer des Besuchs der Polizeischule.
+<sup>3</sup> Bei Abbruch der Polizeiausbildung oder bei Entlassung richtet sich die Rückzahlung nach der Dauer der absolvierten Ausbildung.[^271-2]
 
-<sup>4</sup> Bei Beendigung des Dienstes vor Ablauf von 5 Jahren ist für jeden fehlenden Monat 1/60 zurückzuzahlen.
+<sup>4</sup> Bei Beendigung des Dienstes vor Ablauf von vier Jahren ist für jeden fehlenden Monat 1/48 zurückzuzahlen.[^271-3]
+
+[^271-1]: § 271 Absatz 1 Fassung vom 30. August 2022.
+[^271-2]: § 271 Absatz 3 Fassung vom 30. August 2022.
+[^271-3]: § 271 Absatz 4 Fassung vom 30. August 2022.
 
 #### § 272
 
@@ -3893,7 +3917,9 @@ Das Kommando fördert die Weiterbildung der Korpsangehörigen auf allen Stufen. 
 
 - 1\. Arbeitsgeräte
 
-1.1. Allgemein
+1.1. …[^272-1]
+
+[^272-1]: Titel aufgehoben am 30. August 2022.
 
 #### § 273
 
@@ -3915,15 +3941,17 @@ Die von den Korpsangehörigen gefassten persönlichen Ausrüstungsgegenstände b
 
 <sup>5</sup> Der Kanton sorgt für den Ersatz oder die Reparatur der persönlichen Uniformstücke, welche im Dienst beschädigt werden (§ 289 GAV).
 
-<sup>6</sup> Die persönlichen Uniformstücke sind beim Austritt, ausgenommen bei der Pensionierung, in gutem Zustand zurückzugeben.
+<sup>6</sup> Die persönlichen Uniformstücke sind beim Austritt, ausgenommen bei der Pensionierung, in gutem Zustand zurückzugeben. Uniformstücke die mit "Polizei" gekennzeichnet sind, müssen in jedem Fall zurückgegeben werden.[^274-1]
 
-1.2. Benützung eines Dienstfahrzeuges für private Zwecke
+1.2. …[^274-2]
 
-[^274-1]: § 275 aufgehoben am 12. März 2007.
+[^274-1]: § 274 Absatz 6 Fassung vom 30. August 2022.
+[^274-2]: Titel aufgehoben am 30. August 2022.
+[^274-3]: § 275 aufgehoben am 12. März 2007.
 
 #### § 275
 
-**...[^274-1]**
+**...[^274-3]**
 
 [^275-1]: § 276 Fassung vom 12. März 2007.
 
@@ -3975,9 +4003,7 @@ Die «Regelung über die Schliessung der Büros zwischen Weihnachten und Neujahr
 
 b<sup>bis</sup>. Frei-Tage[^281-1]
 
-§ 281<sup>bis</sup>.[^281-2] Frei-Tage
-
-<sup>1</sup> Die Angehörigen des Polizeikorps haben Anspruch auf jährlich 104 Frei-Tage.
+§ 281<sup>bis</sup>.[^281-2] Frei-Tage c) <sup>1</sup> Die Angehörigen des Polizeikorps haben Anspruch auf jährlich 104 Frei-Tage.
 
 <sup>2</sup> Ausser den Ferien und ordentlichen Frei-Tagen haben die Korpsangehörigen zudem Anspruch auf 10 ausserordentliche Frei-Tage pro Kalenderjahr, als Ersatz für die gesetzlichen Feiertage.
 
@@ -4010,11 +4036,19 @@ Der nach Anhang 1 zum Allgemeinen Teil (§ 239 GAV) festgesetzte Lohn wird für 
 
 #### § 283
 
-**Einstiegslohn für Polizistinnen und Polizisten nach absolvierter**
+**Einstiegslohn während und nach Abschluss der zweijährigen**
 
-### Polizeianwärterschule
+[^283-1]: § 283 Fassung vom 30. August 2022.
 
-Die Anfangsentlöhnung für Polizistinnen und Polizisten nach abgeschlossener Polizeianwärter-Ausbildung wird in der Besoldungsklasse 12 mindestens auf der Stufe E 4 festgesetzt. Erfahrungen aus früheren Tätigkeiten werden bei der Einstufung innerhalb der Besoldungsklasse 12 angemessen angerechnet.
+### Ausbildung
+
+[^283-1]
+
+<sup>1</sup> Während der schulischen Grundausbildung wird der Einstiegslohn in der Lohnklasse 11 auf der Erfahrungsstufe 00 festgesetzt.
+
+<sup>2</sup> Während des Praxisjahres wird der Einstiegslohn in der Lohnklasse 12 mindestens auf der Erfahrungsstufe 2 festgesetzt. Erfahrungen aus früheren Tätigkeiten werden bei der Einstufung innerhalb der Lohnkasse 12 angemessen angerechnet.
+
+<sup>3</sup> Der Einstiegslohn für Polizistinnen und Polizisten nach abgeschlossener zweijähriger Ausbildung wird in der Lohnklasse 12 mindestens auf der Erfahrungsstufe 4 festgesetzt. Erfahrungen aus früheren Tätigkeiten und das Praxisjahr werden bei der Einstufung innerhalb der Lohnklasse 12 angemessen angerechnet.
 
 - 2\. Inkonveniente Dienste
 
@@ -4078,17 +4112,19 @@ Müssen Korpsangehörige regelmässig private Automobile für Dienstfahrten zur 
 
 **Anschaffung und Haltung von Diensthunden**
 
-<sup>1</sup> Die Halter von einsatzfähigen Diensthunden erhalten jährlich eine Entschädigung von 2500 Franken. Das Kommando setzt die Bezugsberechtigung fest.
+<sup>1</sup> Die Halter von einsatzfähigen Diensthunden erhalten jährlich eine Entschädigung von 3'000 Franken. Das Kommando setzt die Bezugsberechtigung fest. Während der Ausbildungszeit des Junghundes und bis zur Erlangung seiner Einsatzfähigkeit als Diensthund erhalten die Halter jährlich eine Entschädigung von 1'800 Franken.[^292-1]
 
-<sup>2</sup> Nach Absolvierung und Bestehen der geforderten Hundeprüfung meldet der technische Leiter dem Kommando auf dem Dienstweg die Einsatzbereitschaft neu ausgebildeter Tiere. Nach erfolgter Meldung werden dem Hundeführer, auf Antrag und unter Berücksichtigung der marktüblichen Preise,[^292-1]/<sup>3</sup> der Anschaffungskosten des Hundes (max. 1000 Franken) rückvergütet.
+<sup>2</sup> Nach Absolvierung und Bestehen der geforderten Hundeprüfung meldet der technische Leiter dem Kommando auf dem Dienstweg die Einsatzbereitschaft neu ausgebildeter Tiere. Nach erfolgter Meldung werden dem Hundeführer, auf Antrag und unter Berücksichtigung der marktüblichen Preise,[^292-2]/[^292-3] der Anschaffungskosten des Hundes (max. 1000 Franken) rückvergütet.
 
-- d. Beförderungsbestimmungen[^292-2]
+<sup>3</sup> Das Kommando kommt für die Kosten der tiermedizinischen Behandlung auf, die aufgrund einer im Einsatz oder in einem angeordneten Training erlittenen Verletzung nötig ist. Das Kommando kommt zu zwei Drittel für die Kosten der tiermedizinischen Behandlung auf, die als Folge eines ausserdienstlichen Ereignisses (Verletzung oder Krankheit) zur Wiederherstellung der Einsatzfähigkeit des Diensthundes nötig ist.[^292-2]
+
+- d. Beförderungsbestimmungen[^292-3]
 
 § 292<sup>bis</sup>. Mannschaft
 
 <sup>1</sup> Für die Beförderungen sind folgende Voraussetzungen zu erfüllen:
 
-- Polizist Bestehen der Polizeischule.
+- Polizist[^292-4] Bestehen der eidgenössischen Berufsprüfung "Polizist 1" eidgenössischer Fachausweis
 
 - Gefreiter
 
@@ -4098,7 +4134,7 @@ Müssen Korpsangehörige regelmässig private Automobile für Dienstfahrten zur 
 
 - c) Bestehen eines Weiterbildungskurses I;
 
-- d) 3 bestandene Fitnesstests.[^292-1]
+- d) 3 bestandene Fitnesstests.[^292-5]
 
 - Korporal
 
@@ -4116,7 +4152,7 @@ Müssen Korpsangehörige regelmässig private Automobile für Dienstfahrten zur 
 
 - b) gute Qualifikationen;
 
-- c) Bestehen eines Weiterbildungskurses III;
+- c) …[^292-6]
 
 - d) 2 Dienstjahre in einer anderen Abteilung, einem anderen Bezirk oder einem anderen Polizeikorps. Diese Voraussetzung wird bei einem Sprachaufenthalt in einem fremdsprachigen Kanton bereits nach 1 Jahr erfüllt;
 
@@ -4128,8 +4164,12 @@ Müssen Korpsangehörige regelmässig private Automobile für Dienstfahrten zur 
 
 - Diensteinsatz in einer anderen Abteilung, einem anderen Bezirk oder einem anderen Korps durch 3 zusätzliche Dienstjahre.
 
-[^292-1]: § 292bis Buchstabe d Fassung vom 12. August 2014.
-[^292-2]: Abschnitt d mit §§ 292bis-292quater eingefügt am 26. September 2006.
+[^292-1]: § 292 Absatz 1 Fassung vom 30. August 2022.
+[^292-2]: § 292 Absatz 3 eingefügt am 30. August 2022.
+[^292-3]: Abschnitt d mit §§ 292bis-292quater eingefügt am 26. September 2006.
+[^292-4]: § 292bis Absatz 1 erstes Lemma Fassung vom 30. August 2022.
+[^292-5]: § 292bis Buchstabe d Fassung vom 12. August 2014.
+[^292-6]: § 292bis Absatz 1 viertes Lemma Buchstabe c aufgehoben am 30. August 2022.
 
 #### § 292ter
 
@@ -5168,7 +5208,9 @@ Die formelle Anzeige bei sexueller Belästigung oder Mobbing nach § 221 und 234
 
 <sup>1</sup> § 359 bis 366 GAV (Altersentlastung) treten am 1. Februar 2005 in Kraft.
 
-<sup>2</sup> § 372 bis 375 GAV (Zusatzlektionen) treten am 1. Februar 2005 in Kraft. Die Entschädigung für Zusatzstunden, die vor dem 1. Februar 2005 geleistet worden sind, richtet sich nach den bisher geltenden Bestimmungen (LehrerbesoldungsVO, KRB vom 17. Mai 1995; BGS 126.515.851.11). § 383<sup>bis</sup>.[^383-1] Übergangsbestimmung zur Änderung vom 20. Juni 2011 Für Lehrpersonen und Lehrbeauftragte in bereits bestehenden Anstellungsverhältnissen gilt:
+<sup>2</sup> § 372 bis 375 GAV (Zusatzlektionen) treten am 1. Februar 2005 in Kraft. Die Entschädigung für Zusatzstunden, die vor dem 1. Februar 2005 geleistet worden sind, richtet sich nach den bisher geltenden Bestimmungen (LehrerbesoldungsVO, KRB vom 17. Mai 1995; BGS 126.515.851.11).
+
+§ 383<sup>bis</sup>.[^383-1] Übergangsbestimmung zur Änderung vom 20. Juni 2011 Für Lehrpersonen und Lehrbeauftragte in bereits bestehenden Anstellungsverhältnissen gilt:
 
 - a) Für diejenigen, die die fachlichen oder pädagogischen Anforderungen nach neuem Recht nicht erfüllen, gilt die bisherige Einreihung weiter;
 
@@ -6078,9 +6120,7 @@ Der Besondere Teil Berufsschule regelt die Abweichungen und Ergänzungen gegenü
 
 <sup>2</sup> Soweit das Pensum oder ein Teil davon voraussichtlich nicht für mehr als zwei Jahre sichergestellt ist, wird im unbefristeten Vertrag der gesicherte Pensenteil (Sockelpensum) und ein darüber hinausgehender Pensenrahmen von höchstens fünf Lektionen (Maximalpensum) für den nicht gesicherten Pensenteil festgelegt.
 
-<sup>3</sup> Angeordnete Pensenerhöhungen im festgelegten Pensenrahmen werden wirksam, wenn die Lehrperson nicht innert 10 Tagen seit Erhalt der schriftlichen Mitteilung schriftlich ihren Verzicht auf die Erhöhung erklärt.
-
-§ 454<sup>bis</sup>.[^454-1] Befristete Anstellung
+<sup>3</sup> Angeordnete Pensenerhöhungen im festgelegten Pensenrahmen werden wirksam, wenn die Lehrperson nicht innert 10 Tagen seit Erhalt der schriftlichen Mitteilung schriftlich ihren Verzicht auf die Erhöhung erklärt. § 454<sup>bis</sup>.[^454-1] Befristete Anstellung
 
 <sup>1</sup> Lehrpersonen werden soweit befristet angestellt, als mit dem Pensenrahmen die Unsicherheit in der Pensenfestlegung nicht abgedeckt werden kann.
 
@@ -6932,7 +6972,9 @@ Inkrafttreten GAV am 1. Januar 2005 (§ 21).[^520-1]
 
 - 31\. Mai 2022 am 1. August 2022;
 
-- 7\. Juni 2022 am 1. August 2022.
+- 7\. Juni 2022 am 1. August 2022;
+
+- 30\. August 2022 am 1. September 2022.
 
 ## Weitere Fussnoten
 
