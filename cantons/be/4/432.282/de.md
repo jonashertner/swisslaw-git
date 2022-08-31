@@ -4,13 +4,12 @@ number: "432.282"
 title: Verordnung über das besondere Volksschulangebot
 short: BVSV
 language: de
-version: 2022-05-01
-valid_until: 2022-08-31
-version_adopted: 2022-04-06
+version: 2022-09-01
+version_adopted: 2022-06-29
 adopted: 2021-11-10
 in_force: 2022-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/432.282"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2588/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2654/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2588/pdf_file"
 
 (BVSV)
 
-vom 10.11.2021 (Stand 01.05.2022)
+vom 10.11.2021 (Stand 01.09.2022)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -143,9 +142,7 @@ beschliesst:
 
 #### Art. 12
 
-<sup>1</sup> Verfügt das regionale Schulinspektorat eine Zuweisung mit Unterbringung und reichen die Eltern beim Rechtsdienst der Bildungs- und Kulturdirektion eine Beschwerde wegen der Unterbringung ein, leitet dieser die Beschwerde an die zuständige Kindes- und Erwachsenenschutzbehörde weiter.
-
-<sup>2</sup> Die Beschwerde hat keine aufschiebende Wirkung, es sei denn, sie werde vom regionalen Schulinspektorat ausdrücklich angeordnet.
+**…**
 
 ### 2.3 Schuleintritt und Pensum
 
@@ -770,16 +767,27 @@ beschliesst:
 
 **Schulkommission**
 
-<sup>1</sup> Das Amt für Kindergarten, Volksschule und Beratung setzt eine Schulkommission ein zur Unterstützung und Weiterentwicklung des HSM.
+<sup>1</sup> Die Bildungs- und Kulturdirektion setzt eine Schulkommission zur Unterstützung und Weiterentwicklung des HSM ein und ernennt die Mitglieder.
 
 <sup>2</sup> Die Amtsdauer der Mitglieder beträgt vier Jahre.
 
 <sup>3</sup> Die Schulkommission
 
 - a unterstützt die regionale Verankerung des HSM,
+- a1 erlässt das Reglement gemäss Artikel 21l Absatz 1 Buchstabe e VSG und stellt es der Bildungs- und Kulturdirektion zur Genehmigung zu,
 - b verfügt temporäre Schulausschlüsse gemäss der Volksschulgesetzgebung,
-- c berät die die zuständige Stelle des Amts für Kindergarten, Volksschule und Beratung in strategischen Fragen und
+- c berät die zuständige Stelle des Amts für Kindergarten, Volksschule und Beratung in strategischen Fragen und
 - d erfüllt die weiteren Aufgaben, die ihr im Organisationsreglement zugewiesen sind.
+
+#### Art. 69c
+
+**Entschädigung der Schulkommission**
+
+<sup>1</sup> Der Präsidentin oder dem Präsidenten der Schulkommission sowie den Mitgliedern werden die Taggelder und Spesen nach der Verordnung vom 2. Juli 1980 über die Taggelder und Reiseentschädigungen der Mitglieder staatlicher Kommissionen[^69c-1] ausgerichtet.
+
+<sup>2</sup> Der Präsidentin oder dem Präsidenten wird zusätzlich eine Entschädigung von 900 Franken pro Jahr ausgerichtet.
+
+[^69c-1]: BSG [152.256](https://www.belex.sites.be.ch/data/152.256/de)
 
 ## 4 Übergangs- und Schlussbestimmungen
 
@@ -840,7 +848,7 @@ beschliesst:
 
 **Schulkommission**
 
-<sup>1</sup> Das Amt für Kindergarten, Volksschule und Beratung setzt die Schulkommission des HSM auf den 1. Januar 2023 ein.
+<sup>1</sup> Die Bildungs- und Kulturdirektion setzt die Schulkommission des HSM auf den 1. Januar 2023 ein.
 
 #### Art. T1-2
 

@@ -4,13 +4,12 @@ number: "432.282"
 title: "Ordonnance sur l'offre spécialisée de l'école obligatoire"
 short: OOSEO
 language: fr
-version: 2022-05-01
-valid_until: 2022-08-31
-version_adopted: 2022-04-06
+version: 2022-09-01
+version_adopted: 2022-06-29
 adopted: 2021-11-10
 in_force: 2022-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/432.282"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2588/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2654/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2588/pdf_file"
 
 (OOSEO)
 
-du 10.11.2021 (état au 01.05.2022)
+du 10.11.2021 (état au 01.09.2022)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -143,9 +142,7 @@ arrête:
 
 #### Art. 12
 
-<sup>1</sup> Si l’inspection scolaire régionale statue sur une admission avec hébergement et que les parents adressent, en raison de l’hébergement, un recours au Service juridique de la Direction de l’instruction publique et de la culture, ce dernier transmet le recours à l’autorité de protection de l’enfant et de l’adulte compétente.
-
-<sup>2</sup> Le recours n’a pas d’effet suspensif, sauf si l’inspection scolaire régionale l’ordonne expressément.
+**…**
 
 ### 2.3 Entrée à l’école et programme
 
@@ -770,16 +767,27 @@ arrête:
 
 **Commission scolaire**
 
-<sup>1</sup> L'Office de l'école obligatoire et du conseil institue une commission scolaire visant à soutenir et développer le CPLEAM.
+<sup>1</sup> La Direction de l'instruction publique et de la culture institue une commission scolaire visant à soutenir et développer le CPLEAM et nomme ses membres.
 
 <sup>2</sup> La durée du mandat des membres est de quatre ans.
 
 <sup>3</sup> La commission scolaire
 
 - a soutient l'ancrage régional du CPLEAM;
+- a1 édicte le règlement conformément à l’article 21l, alinéa 1, lettre e LEO et le soumet à l’approbation de la Direction de l’instruction publique et de la culture;
 - b arrête les exclusions temporaires du centre selon la législation sur l'école obligatoire;
 - c conseille le service compétent de l'Office de l'école obligatoire et du conseil pour les questions stratégiques et
 - d accomplit les autres tâches qui lui sont assignées par le règlement d'organisation.
+
+#### Art. 69c
+
+**Indemnisation des membres de la commission scolaire**
+
+<sup>1</sup> La présidente ou le président et les membres de la commission scolaire perçoivent des indemnités journalières et un dédommagement de leurs frais conformément à l’ordonnance du 2 juillet 1980 concernant les indemnités journalières et de déplacement des membres des commissions cantonales[^69c-1].
+
+<sup>2</sup> La présidente ou le président se voit en outre verser une indemnité supplémentaire de 900 francs par an.
+
+[^69c-1]: [RSB 152.256](https://www.belex.sites.be.ch/data/RSB%20152.256/fr)
 
 ## 4 Dispositions transitoires et disposition finale
 
@@ -840,7 +848,7 @@ arrête:
 
 **Commission scolaire**
 
-<sup>1</sup> L'Office de l'école obligatoire et du conseil institue la commission scolaire du CPLEAM au 1<sup>er</sup> janvier 2023.
+<sup>1</sup> La Direction de l’instruction publique et de la culture institue la commission scolaire du CPLEAM au 1<sup>er</sup> janvier 2023.
 
 #### Art. T1-2
 
