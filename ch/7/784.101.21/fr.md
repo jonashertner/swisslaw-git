@@ -4,11 +4,11 @@ title: "Ordonnance de l'OFCOM du 26 mai 2016 sur les installations de télécomm
 short: OOIT
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/307"
 language: fr
-version: 2022-05-01
+version: 2022-09-01
 adopted: 2016-05-26
 in_force: 2016-06-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20220501/fr/xml/fedlex-data-admin-ch-eli-cc-2016-307-20220501-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/307/20220501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20220901/fr/xml/fedlex-data-admin-ch-eli-cc-2016-307-20220901-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/307/20220901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/307/20220501/fr"
 
 (OOIT)
 
-du 26 mai 2016 (Etat le 1<sup>er</sup> mai 2022)
+du 26 mai 2016 (Etat le 1<sup>er</sup> septembre 2022)
 
 L’Office fédéral de la communication (OFCOM),
 
@@ -145,7 +145,7 @@ En cas de modification d’une norme technique désignée, l’OFCOM publie dans
 
 L’ordonnance de l’Office fédéral de la communication du 14 juin 2002 sur les installations de télécommunication[^10-1] est abrogée.
 
-[^10-1]: [[RO 2002 2111](https://fedlex.data.admin.ch/eli/oc/2002/311), [2005 2219](https://fedlex.data.admin.ch/eli/oc/2005/370)[5139](https://fedlex.data.admin.ch/eli/oc/2005/711), [2007 1001](https://fedlex.data.admin.ch/eli/oc/2007/171)[7081](https://fedlex.data.admin.ch/eli/oc/2007/925), [2008 1907](https://fedlex.data.admin.ch/eli/oc/2008/280)[6471](https://fedlex.data.admin.ch/eli/oc/2008/878), [2009 4229](https://fedlex.data.admin.ch/eli/oc/2009/514)[5839](https://fedlex.data.admin.ch/eli/oc/2009/708)[6543](https://fedlex.data.admin.ch/eli/oc/2009/801), [2010 959](https://fedlex.data.admin.ch/eli/oc/2010/154)[3549](https://fedlex.data.admin.ch/eli/oc/2010/510)[5067](https://fedlex.data.admin.ch/eli/oc/2010/729), [2011 1391](https://fedlex.data.admin.ch/eli/oc/2011/214)[4339](https://fedlex.data.admin.ch/eli/oc/2011/592)[5265](https://fedlex.data.admin.ch/eli/oc/2011/758), [2012 1921](https://fedlex.data.admin.ch/eli/oc/2012/265)[4337](https://fedlex.data.admin.ch/eli/oc/2012/509)[6565](https://fedlex.data.admin.ch/eli/oc/2012/789), [2013 2649](https://fedlex.data.admin.ch/eli/oc/2013/536)[4129](https://fedlex.data.admin.ch/eli/oc/2013/759), [2014 919](https://fedlex.data.admin.ch/eli/oc/2014/200)[4357](https://fedlex.data.admin.ch/eli/oc/2014/718), [2015 2771](https://fedlex.data.admin.ch/eli/oc/2015/523)[4977](https://fedlex.data.admin.ch/eli/oc/2015/812)]
+[^10-1]: [[RO 2002 2111](https://fedlex.data.admin.ch/eli/oc/2002/311); [2005 2219](https://fedlex.data.admin.ch/eli/oc/2005/370), [5139](https://fedlex.data.admin.ch/eli/oc/2005/711); [2007 1001](https://fedlex.data.admin.ch/eli/oc/2007/171), [7081](https://fedlex.data.admin.ch/eli/oc/2007/925); [2008 1907](https://fedlex.data.admin.ch/eli/oc/2008/280), [6471](https://fedlex.data.admin.ch/eli/oc/2008/878); [2009 4229](https://fedlex.data.admin.ch/eli/oc/2009/514), [5839](https://fedlex.data.admin.ch/eli/oc/2009/708), [6543](https://fedlex.data.admin.ch/eli/oc/2009/801); [2010 959](https://fedlex.data.admin.ch/eli/oc/2010/154), [3549](https://fedlex.data.admin.ch/eli/oc/2010/510), [5067](https://fedlex.data.admin.ch/eli/oc/2010/729); [2011 1391](https://fedlex.data.admin.ch/eli/oc/2011/214), [4339](https://fedlex.data.admin.ch/eli/oc/2011/592), [5265](https://fedlex.data.admin.ch/eli/oc/2011/758); [2012 1921](https://fedlex.data.admin.ch/eli/oc/2012/265), [4337](https://fedlex.data.admin.ch/eli/oc/2012/509), [6565](https://fedlex.data.admin.ch/eli/oc/2012/789); [2013 2649](https://fedlex.data.admin.ch/eli/oc/2013/536), [4129](https://fedlex.data.admin.ch/eli/oc/2013/759); [2014 919](https://fedlex.data.admin.ch/eli/oc/2014/200), [4357](https://fedlex.data.admin.ch/eli/oc/2014/718); [2015 2771](https://fedlex.data.admin.ch/eli/oc/2015/523), [4977](https://fedlex.data.admin.ch/eli/oc/2015/812)]
 
 #### Art. 10a
 
@@ -155,41 +155,77 @@ Les téléphones portables possédant des capacités informatiques avancées et 
 
 [^10a-1]: Introduit par le ch. I de l’O de l’OFCOM du 12 nov. 2019 ([RO 2019 4241](https://fedlex.data.admin.ch/eli/oc/2019/729)). Nouvelle teneur selon le ch. I de l’O de l’OFCOM du 27 juil. 2020, en vigueur depuis le 1<sup>er</sup> sept. 2020 ([RO 2020 3563](https://fedlex.data.admin.ch/eli/oc/2020/632)).
 
+#### Art. 10b
+
+**Disposition transitoire relative à la modification du 21 juillet 2022**[^10b-1]
+
+Les installations de radiocommunication qui sont soumises aux exigences essentielles additionnelles de l’art. 7, al. 3, let. d à f, OIT en relation avec l’annexe 1, ch. 7 à 9, et qui ne respectent pas ces exigences peuvent être mises sur le marché jusqu’au 31 juillet 2024.
+
+[^10b-1]: Introduit par le ch. I de l’O de l’OFCOM du 21 juil. 2022, en vigueur depuis le 1<sup>er</sup> sept. 2022 ([RO 2022 437](https://fedlex.data.admin.ch/eli/oc/2022/437)).
+
 #### Art. 11
 
 **Entrée en vigueur**
 
 La présente ordonnance entre en vigueur le 13 juin 2016.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 1)
 
 ## Exigences essentielles additionnelles applicables visées à l’art. 7, al. 3, OIT et installations de radiocommunication concernées
 
-[^t-1]: Nouvelle teneur selon le ch. II al. 1 de l’O de l’OFCOM du 12 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4241](https://fedlex.data.admin.ch/eli/oc/2019/729)).
+[^t-1]: Nouvelle teneur selon le ch. II al. 1 de l’O de l’OFCOM du 21 juil. 2022, en vigueur depuis le 1<sup>er</sup> sept. 2022 ([RO 2022 437](https://fedlex.data.admin.ch/eli/oc/2022/437)).
 
 <table>
-<tr><th>Ch.</th><th>Installations de radiocommunication concernées</th><th>Exigence(s) essentielle(s) additionnelle(s) applicable(s)</th><th>Référence/source</th></tr>
-<tr><td>1</td><td>Installations de radiocommunication soumises à l’arrangement régional relatif au service radiotéléphonique sur les voies de navigation intérieure</td><td>art. 7, al. 3, let. g, OIT</td><td>Décision 2000/637/CE de la Commission du 22 septembre 2000 relative à l’application de l’art. 3, par. 3, pt e), de la directive 1999/5/CE aux équipements hertziens soumis à l’accord régional relatif aux services radiotéléphoniques dans la navigation intérieure Version du JO L 269 du 21.10.2000, p. 50</td></tr>
-<tr><td>2</td><td>Installations de radiocommunications marines destinées à être utilisées à bord des navires non soumis à la Convention internationale du 1<sup>er</sup> novembre 1974 pour la sauvegarde de la vie humaine en mer (convention SOLAS)[^annex1-lvlu1-1], en vue de participer au système mondial de détresse et de sécurité en mer (SMDSM)</td><td>art. 7, al. 3, let. g, OIT</td><td>Décision 2013/638/UE de la Commission du 12 août 2013 concernant les exigences essentielles relatives aux équipements hertziens marins destinés à être utilisés à bord des navires non soumis à la convention SOLAS en vue de participer au système mondial de détresse et de sécurité en mer (SMDSM) Version du JO L 296 du 7.11.2013, p. 22</td></tr>
-<tr><td>3</td><td>Balises d’avalanche avec une fréquence de travail de 457 kHz</td><td>art. 7, al. 3, let. g, OIT</td><td>Décision 2001/148/CE de la Commission du 21 février 2001 concernant l’application de l’art. 3, par. 3, pt e), de la directive 1999/5/CE sur les balises d’avalanche Version du JO L 55 du 24.2.2001, p. 65</td></tr>
-<tr><td>4</td><td>Équipements hertziens destinés à équiper des navires non-SOLAS et à participer au système d’identification automatique (AIS)</td><td>art. 7, al. 3, let. g, OIT</td><td>Décision 2005/53/CE de la Commission du 25 janvier 2005 relative à l’application de l’art. 3, par. 3, pt e), de la directive 1999/5/CE du Parlement européen et du Conseil aux équipements hertziens destinés à participer au système d’identification automatique (*Automatic Identification System:* AIS) Version du JO L22 du 26.1.2005, p. 14</td></tr>
-<tr><td>5</td><td>Balises de localisation Cospas-Sarsat (406 MHz)</td><td>art. 7, al. 3, let. g, OIT</td><td>Décision 2005/631/CE de la Commission du 29 août 2005 concernant les exigences essentielles visées par la directive 1999/5/CE du Parlement européen et du Conseil assurant l’accès des services d’urgence aux balises de localisation Cospas-Sarsat Version du JO L 225 du 31.8.2005, p. 28</td></tr>
-<tr><td>6</td><td>Téléphones portables possédant des capacités informatiques avancées</td><td>art. 7, al. 3, let. g, OIT</td><td>Règlement délégué (UE) 2019/320 de la Commission du 12 décembre 2018 complétant la directive 2014/53/UE du Parlement européen et du Conseil en ce qui concerne l’application des exigences essentielles visées à l’art. 3, par. 3, pt g), de ladite directive afin d’assurer la localisation de l’appelant dans les communications d’urgence provenant d’appareils mobiles Version du JO L 55 du 25.2.2019, p. 1</td></tr>
+<tr><th>Ch.</th><th>Installations de radiocommunication</th><th>Exigence(s) essentielle(s) additionnelle(s) applicable(s)</th><th>Référence/source</th></tr>
+<tr><td>1</td><td>Installations de radiocommunication soumises à l’Accord régional du 18 avril 2012 relatif aux services radiotéléphoniques dans la navigation intérieure[^annex1-lvlu1-1]</td><td>art. 7, al. 3, let. g, OIT</td><td>Décision 2000/637/CE[^annex1-lvlu1-2]</td></tr>
+<tr><td>2</td><td>Installations de radiocommunication marines destinées à être utilisées à bord des navires non soumis à la Convention internationale du 1<sup>er</sup> novembre 1974 pour la sauvegarde de la vie humaine en mer (convention SOLAS)[^annex1-lvlu1-3], en vue de participer au système mondial de détresse et de sécurité en mer (SMDSM)</td><td>art. 7, al. 3, let. g, OIT</td><td>Décision 2013/638/UE[^annex1-lvlu1-4]</td></tr>
+<tr><td>3</td><td>Balises d’avalanche avec une fréquence de travail de 457 kHz</td><td>art. 7, al. 3, let. g, OIT</td><td>Décision 2001/148/CE[^annex1-lvlu1-5]</td></tr>
+<tr><td>4</td><td>Equipements hertziens destinés à équiper des navires non-SOLAS et à participer au système d’identification automatique (AIS)</td><td>art. 7, al. 3, let. g, OIT</td><td>Décision 2005/53/CE[^annex1-lvlu1-6]</td></tr>
+<tr><td>5</td><td>Balises de localisation Cospas-Sarsat (406 MHz)</td><td>art. 7, al. 3, let. g, OIT</td><td>Décision 2005/631/CE[^annex1-lvlu1-7]</td></tr>
+<tr><td>6</td><td>Téléphones portables possédant des capacités informatiques avancées</td><td>art. 7, al. 3, let. g, OIT</td><td>Règlement délégué (UE) 2019/320[^annex1-lvlu1-8]</td></tr>
+<tr><td>7</td><td>Installations de radiocommunication connectées directement ou indirectement à l’internet Font exception: – les dispositifs médicaux selon l’art. 2, point 1), du règlement (UE) 2017/745[^annex1-lvlu1-9] intégrant une installation de radiocommunication; – les dispositifs médicaux de diagnostic in vitro selon l’art. 2, point 2), du règlement (UE) 2017/746[^annex1-lvlu1-10] intégrant une installation de radiocommunication.</td><td>art. 7, al. 3, let. d, OIT</td><td>Règlement délégué (UE) 2022/30[^annex1-lvlu1-11]</td></tr>
+<tr><td>8</td><td>Installations de radiocommunication suivantes si elles sont capables de procéder au traitement de données à caractère personnel:</td><td>art. 7, al. 3, let. e, OIT</td><td>Règlement délégué (UE) 2022/30[^annex1-lvlu1-12]</td></tr>
+<tr><td></td><td>– installations de radiocommunication connectées à l’internet; – installations de radiocommunication conçues pour la garde d’enfants ou destinées exclusivement à celle-ci; – jouets selon l’ordonnance du DFI du 15 août 2012 sur la sécurité des jouets[^annex1-lvlu1-13] intégrant des installations de radiocommunication; – installations de radiocommunication conçues pour ou destinées à, exclusivement ou non, être portées, attachées ou suspendues sur: – toute partie du corps, y compris la tête, le cou, le torse, les bras, les mains, les jambes et les pieds, – tout vêtement porté par des êtres humains, y compris les vêtements couvrant la tête, les mains et les pieds. Font exception: – les dispositifs médicaux selon l’art. 2, point 1), du règlement (UE) 2017/745[^annex1-lvlu1-14] intégrant une installation de radiocommunication; – les dispositifs médicaux de diagnostic in vitro selon l’art. 2, point 2), du règlement (UE) 2017/746[^annex1-lvlu1-15] intégrant une installation de radiocommunication; – les installations de radiocommunication pour la sécurité aérienne selon le règlement (UE) 2018/1139[^annex1-lvlu1-16]; – les installations de radiocommunication dans des véhicules selon l’ordonnance du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers[^annex1-lvlu1-17]; – les systèmes de télépéage routier selon l’art. 2, point 10), de la directive (UE) 2019/520[^annex1-lvlu1-18] intégrant une installation de radiocommunication.</td><td></td><td></td></tr>
+<tr><td>9</td><td>Installations de radiocommunication connectées à l’internet permettant de transférer de l’argent, de la valeur monétaire, voire une monnaie virtuelle telle que définie à l’art. 2, point d), de la directive (UE) 2019/713[^annex1-lvlu1-19] Font exception: – les dispositifs médicaux selon l’art. 2, point 1), du règlement (UE) 2017/745[^annex1-lvlu1-20] intégrant une installation de radiocommunication; – les dispositifs médicaux de diagnostic in vitro selon l’art. 2, point 2), du règlement (UE) 2017/746[^annex1-lvlu1-21] intégrant une installation de radiocommunication; – les installations de radiocommunication pour la sécurité aérienne selon le règlement (UE) 2018/1139[^annex1-lvlu1-22]; – les installations de radiocommunication dans des véhicules selon l’ordonnance du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers[^annex1-lvlu1-23]; – les systèmes de télépéage routier intégrant une installation de radiocommunication selon l’art. 2, point 10), de la directive (UE) 2019/520[^annex1-lvlu1-24].</td><td>art. 7, al. 3, let. f, OIT</td><td>Règlement délégué (UE) 2022/30[^annex1-lvlu1-25]</td></tr>
 </table>
 
-[^annex1-lvlu1-1]: [RS 0.747.363.33](https://fedlex.data.admin.ch/eli/cc/1982/128_128_128)
+[^annex1-lvlu1-1]: Le texte de l’accord peut être obtenu contre paiement auprès de l’Office fédéral de la communication, rue de l’Avenir 44, case postale, 2501 Bienne, ou consulté gratuitement à l’adresse Internet suivante: www.rainwat.bipt.be
+[^annex1-lvlu1-2]: 2000/637/CE: Décision de la Commission du 22 septembre 2000 relative à l’application de l’art. 3, par. 3, point e), de la directive 1999/5/CE aux équipements hertziens soumis à l’Accord régional relatif aux services radiotéléphoniques dans la navigation intérieure, version du JO L 269 du 21.10.2000, p. 50.
+[^annex1-lvlu1-3]: [RS 0.747.363.33](https://fedlex.data.admin.ch/eli/cc/1982/128_128_128)
+[^annex1-lvlu1-4]: 2013/638/UE: Décision de la Commission du 12 août 2013 concernant les exigences essentielles relatives aux équipements hertziens marins destinés à être utilisés à bord des navires non soumis à la convention SOLAS en vue de participer au système mondial de détresse et de sécurité en mer (SMDSM), version du JO L 296 du 7.11.2013, p. 22.
+[^annex1-lvlu1-5]: 2001/148/CE: Décision de la Commission du 21 février 2001 concernant l’application de l’art. 3, par. 3, point e), de la directive 1999/5/CE sur les balises d’avalanche, version du JO L 55 du 24.2.2001, p. 65.
+[^annex1-lvlu1-6]: 2005/53/CE: Décision de la Commission du 25 janvier 2005 relative à l’application de l’art. 3, par. 3, point e), de la directive 1999/5/CE du Parlement européen et du Conseil aux équipements hertziens destinés à participer au système d’identification automatique (Automatic Identification System: AIS), version du JO L 22 du 26.1.2005, p. 14.
+[^annex1-lvlu1-7]: 2005/631/CE: Décision de la Commission du 29 août 2005 concernant les exigences essentielles visées par la directive 1999/5/CE du Parlement européen et du Conseil assurant l’accès des services d’urgence aux balises de localisation Cospas-Sarsat, version du JO L 225 du 31.8.2005, p. 28.
+[^annex1-lvlu1-8]: Règlement délégué (UE) 2019/320 de la Commission du 12 décembre 2018 complétant la directive 2014/53/UE du Parlement européen et du Conseil en ce qui concerne l’application des exigences essentielles visées à l’art. 3, par. 3, point g), de ladite directive afin d’assurer la localisation de l’appelant dans les communications d’urgence provenant d’appareils mobiles, version du JO L 55 du 25.2.2019, p. 1.
+[^annex1-lvlu1-9]: Règlement (UE) 2017/745 du Parlement européen et du Conseil du 5 avril 2017 relatif aux dispositifs médicaux, modifiant la directive 2001/83/CE, le règlement (CE) n<sup>o</sup> 178/2002 et le règlement (CE) n<sup>o</sup> 1223/2009 et abrogeant les directives du Conseil 90/385/CEE et 93/42/CEE, JO L 117 du 5.5.2017, p. 1; modifié en dernier lieu par le règlement (UE) 2020/561, JO L 130 du 24.4.2020, p. 18.
+[^annex1-lvlu1-10]: Règlement (UE) 2017/746 du Parlement européen et du Conseil du 5 avril 2017 relatif aux dispositifs médicaux de diagnostic in vitro et abrogeant la directive 98/79/CE et la décision 2010/227/UE de la Commission, JO L 117 du 5.5.2017, p. 176; modifié en dernier lieu par le règlement (UE) 2022/112, JO L 19 du 28.1.2022, p. 3.
+[^annex1-lvlu1-11]: Règlement délégué (UE) 2022/30 de la Commission du 29 octobre 2021 complétant la directive 2014/53/UE du Parlement européen et du Conseil en ce qui concerne l’application des exigences essentielles visées à l’art. 3, par. 3, points d), e) et f), de cette directive, version du JO L 7 du 12.1.2022, p. 6.
+[^annex1-lvlu1-12]: Voir note de bas de page relative au ch. 7
+[^annex1-lvlu1-13]: [RS 817.023.11](https://fedlex.data.admin.ch/eli/cc/2012/573)
+[^annex1-lvlu1-14]: Voir note de bas de page relative au ch. 7
+[^annex1-lvlu1-15]: Voir note de bas de page relative au ch. 7
+[^annex1-lvlu1-16]: Règlement (UE) 2018/1139 du Parlement européen et du Conseil du 4 juillet 2018 concernant des règles communes dans le domaine de l’aviation civile et instituant une Agence de l’Union européenne pour la sécurité aérienne, et modifiant les règlements (CE) n<sup>o</sup> 2111/2005, (CE) n<sup>o</sup> 1008/2008, (UE) n<sup>o</sup> 996/2010, (UE) n<sup>o</sup> 376/2014 et les directives 2014/30/UE et 2014/53/UE du Parlement européen et du Conseil, et abrogeant les règlements (CE) n<sup>o</sup> 552/2004 et (CE) n<sup>o</sup> 216/2008 du Parlement européen et du Conseil ainsi que le règlement (CEE) n<sup>o</sup> 3922/91 du Conseil, dans la version qui lie la Suisse en vertu du ch. 3 de l’annexe de l’Accord du 21 juin 1999 entre la Confédération suisse et la Communauté européenne sur le transport aérien ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
+[^annex1-lvlu1-17]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^annex1-lvlu1-18]: Directive (UE) 2019/520 du Parlement européen et du Conseil du 19 mars 2019 concernant l’interopérabilité des systèmes de télépéage routier et facilitant l’échange transfrontière d’informations relatives au défaut de paiement des redevances routières dans l’Union, JO L 91 du 29.3.2019, p. 45; modifiée en dernier lieu par la directive (UE) 2022/362, JO L 69 du 4.3.2022, p. 1.
+[^annex1-lvlu1-19]: Directive (UE) 2019/713 du Parlement européen et du Conseil du 17 avril 2019 concernant la lutte contre la fraude et la contrefaçon des moyens de paiement autres que les espèces et remplaçant la décision-cadre 2001/413/JAI du Conseil, version du JO L 123 du 10.5.2019, p. 18.
+[^annex1-lvlu1-20]: Voir note de bas de page relative au ch. 7
+[^annex1-lvlu1-21]: Voir note de bas de page relative au ch. 7
+[^annex1-lvlu1-22]: Voir note de bas de page relative au ch. 8
+[^annex1-lvlu1-23]: Voir note de bas de page relative au ch. 8
+[^annex1-lvlu1-24]: Voir note de bas de page relative au ch. 8
+[^annex1-lvlu1-25]: Voir note de bas de page relative au ch. 7
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 (art. 2, al. 1)
 
-## Prescriptions techniques applicables aux interfaces, conformément à l’art. 3, al. 1, OIT****
+## Prescriptions techniques applicables aux interfaces, conformément à l’art. 3, al. 1, OIT
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Nouvelle teneur selon le ch. II de l’O de l’OFCOM du 18 nov. 2020 ([RO 2020 5277](https://fedlex.data.admin.ch/eli/oc/2020/913)). Mise à jour selon le ch. I de l’O de l’OFCOM du 23 mars 2021 ([RO 2021 196](https://fedlex.data.admin.ch/eli/oc/2021/196)), le ch. II de l’O de l’OFCOM du 5 juil. 2021 ([RO 2021 475](https://fedlex.data.admin.ch/eli/oc/2021/475)), le ch. I des O de l’OFCOM du 11 nov. 2021 ([RO 2021 738](https://fedlex.data.admin.ch/eli/oc/2021/738)) et du 21 mars 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 203](https://fedlex.data.admin.ch/eli/oc/2022/203)).
+[^t-2]: Nouvelle teneur selon le ch. II de l’O de l’OFCOM du 18 nov. 2020 ([RO 2020 5277](https://fedlex.data.admin.ch/eli/oc/2020/913)). Mise à jour selon le ch. I de l’O de l’OFCOM du 23 mars 2021 ([RO 2021 196](https://fedlex.data.admin.ch/eli/oc/2021/196)), le ch. II de l’O de l’OFCOM du 5 juil. 2021 ([RO 2021 475](https://fedlex.data.admin.ch/eli/oc/2021/475)), le ch. I des O de l’OFCOM du 11 nov. 2021 ([RO 2021 738](https://fedlex.data.admin.ch/eli/oc/2021/738)), du 21 mars 2022 ([RO 2022 203](https://fedlex.data.admin.ch/eli/oc/2022/203)) et le ch. II al. 2 de l’O de l’OFCOM du 21 juil. 2022, en vigueur depuis le 1<sup>er</sup> sept. 2022 ([RO 2022 437](https://fedlex.data.admin.ch/eli/oc/2022/437)).
 [^annex2-lvlu1-1]: Les prescriptions applicables aux interfaces peuvent être obtenues gratuitement auprès de l’Office fédéral de la communication, rue de l’Avenir 44, case postale, 2501 Bienne, ou consultées gratuitement sur son site à l’adresse suivante: www.ofcom.ch &gt; L’OFCOM &gt; Bases légales &gt; Pratique en matière d’exécution &gt; Appareils et installations &gt; Prescriptions techniques d’interface (RIR).
 
 <table>
@@ -203,7 +239,7 @@ Annexe 2*[^t-2]*
 <tr><td>RIR0201</td><td>Émetteurs de radiodiffusion terrestre</td><td>16</td></tr>
 <tr><td>RIR0203</td><td>Services pour réalisation de programmes et d’événements spéciaux (PMSE)</td><td>21</td></tr>
 <tr><td>RIR0301</td><td>Faisceaux hertziens point à multipoint</td><td>11</td></tr>
-<tr><td>RIR0302</td><td>Faisceaux hertziens point à point</td><td>28</td></tr>
+<tr><td>RIR0302</td><td>Faisceaux hertziens point à point</td><td>29</td></tr>
 <tr><td>RIR0501</td><td>Téléphonie digitale cellulaire</td><td>18</td></tr>
 <tr><td>RIR0503</td><td>Téléphones sans fil</td><td>9</td></tr>
 <tr><td>RIR0504</td><td>Équipements radio pour services d’urgence</td><td>11</td></tr>
@@ -230,7 +266,7 @@ Annexe 2*[^t-2]*
 <tr><td>RIR1009</td><td>Microphones sans fil</td><td>25</td></tr>
 <tr><td>RIR1010</td><td>Systèmes de transmission de données à large bande</td><td>18</td></tr>
 <tr><td>RIR1011</td><td>Identification par fréquence radio (RFID)</td><td>12</td></tr>
-<tr><td>RIR1012</td><td>Télématique des transports et du trafic (TTT)</td><td>15</td></tr>
+<tr><td>RIR1012</td><td>Télématique des transports et du trafic (TTT)</td><td>16</td></tr>
 <tr><td>RIR1013</td><td>Applications audio sans fil</td><td>16</td></tr>
 <tr><td>RIR1021</td><td>Télécommande, transmission de données et télémétrie à puissance élevée</td><td>12</td></tr>
 <tr><td>RIR1023</td><td>Applications à bande ultra large (UWB)</td><td>11</td></tr>
@@ -252,7 +288,7 @@ Annexe 3
 
 [^annex3-lvlu1-1]: Voir annexe 2.
 
-Annexe 4*[^t-3]*
+Annexe 4[^t-3]
 
 (art. 4, al. 1)
 
@@ -301,11 +337,11 @@ Annexe 4*[^t-3]*
   - a) yy: les deux derniers chiffres de l’année où le certificat d’homologation a été délivré;
   - b) iiii: numéro individuel à quatre chiffres.
 
-Annexe 5*[^t-4]*
+Annexe 5[^t-4]
 
 (art. 4, al. 2, et 6)
 
-## Prescriptions techniques et administratives diverses****
+## Prescriptions techniques et administratives diverses
 
 [^annex5-lvlu1-1]
 
@@ -320,7 +356,7 @@ Annexe 5*[^t-4]*
 <tr><td>PTA 5.4 (art. 4, al. 2)</td><td>Prescriptions techniques et administratives applicables aux installations de radiocommunication destinées à être exploitées pour assurer la sécurité publique par des autorités: installations de localisation, de surveillance et de communication</td><td>3</td></tr>
 </table>
 
-Annexe 6*[^t-5]*
+Annexe 6[^t-5]
 
 (art. 2*a*)
 
@@ -332,7 +368,7 @@ Annexe 6*[^t-5]*
 
 <sup>2</sup> Il contient le symbole suivant:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20220501/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20220901/fr/xml/image/image1.png)
 
 <sup>3</sup> Pour une installation de radiocommunication portant la marque suisse de con-formité selon l’annexe 1, ch. 1, OIT, il mentionne, en dessous ou à côté du symbole figurant à l’al. 2, l’abréviation de la Suisse (CH).
 
@@ -350,13 +386,13 @@ Annexe 6*[^t-5]*
 <sup>7</sup> Exemple, à caractère informatif:
 
 <table>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20220501/fr/xml/image/image1.png)</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20220901/fr/xml/image/image1.png)</td></tr>
 <tr><td>CH</td><td>FR</td><td>ES</td></tr>
 <tr><td>IT</td><td>DK</td><td>DE</td></tr>
 </table>
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20220501/fr/xml/image/image1.png)</td><td>CH</td><td>IT</td><td>DE</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20220901/fr/xml/image/image1.png)</td><td>CH</td><td>IT</td><td>DE</td></tr>
 </table>
 
 [^annex6-lvlu1-1]: Règlement d’exécution (UE) 2017/1354 de la Commission du 20 juillet 2017 précisant comment présenter les informations prévues à l’art. 10, par. 10, de la directive 2014/53/UE du Parlement européen et du Conseil, version du JO L 190 du 21.7.2017, p. 7.

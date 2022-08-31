@@ -4,11 +4,11 @@ title: "Ordinanza dell'UFCOM sugli impianti di telecomunicazione (OOIT)"
 short: OOIT
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/307"
 language: it
-version: 2022-05-01
+version: 2022-09-01
 adopted: 2016-05-26
 in_force: 2016-06-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20220501/it/xml/fedlex-data-admin-ch-eli-cc-2016-307-20220501-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/307/20220501/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20220901/it/xml/fedlex-data-admin-ch-eli-cc-2016-307-20220901-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/307/20220901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/307/20220501/it"
 
 (OOIT)
 
-del 26 maggio 2016 (Stato 1° maggio 2022) (Stato 1° maggio 2022)
+del 26 maggio 2016 (Stato 1° settembre 2022)
 
 L’Ufficio federale delle comunicazioni (UFCOM),
 
@@ -154,41 +154,79 @@ I telefoni cellulari con funzionalità informatiche avanzate che non soddisfano 
 
 [^10a-1]: Introdotto dal n. I dell’O dell’UFCOM del 12 nov. 2019 ([RU 2019 4241](https://fedlex.data.admin.ch/eli/oc/2019/729)). Nuovo testo giusta il n. I dell’O dell’UFCOM del 27 lug. 2020, in vigore dal 1° set. 2020 ([RU 2020 3563](https://fedlex.data.admin.ch/eli/oc/2020/632)).
 
+#### Art. 10b
+
+**Disposizione transitoria relativa alla modifica del 21 luglio 2022**[^10b-1]
+
+Gli impianti di radiocomunicazione che sono sottoposti ai requisiti essenziali supplementari di cui all’articolo 7 capoverso 3 lettere d–f OIT in combinato disposto con l’allegato 1 n. 7–9 e che non rispettano tali requisiti possono essere immessi in commercio fino al 31 luglio 2024.
+
+[^10b-1]: Introdotto dal n. I dell’O dell’UFCOM del 21 lug. 2022, in vigore dal 1° set. 2022 ([RU 2022 437](https://fedlex.data.admin.ch/eli/oc/2022/437)).
+
 #### Art. 11
 
 **Entrata in vigore**
 
 La presente ordinanza entra in vigore il 13 giugno 2016.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 1)
 
 ## Requisiti essenziali supplementari applicabili di cui all’articolo 7 capoverso 3 OIT e impianti di radiocomunicazione ai quali essi si riferiscono
 
-[^t-1]: Nuovo testo giusta il n. II cpv. 1 dell’O dell’UFCOM del 12 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4241](https://fedlex.data.admin.ch/eli/oc/2019/729)).
+[^t-1]: Nuovo testo giusta il n. II cpv. 1 dell’O dell’UFCOM del 21 lug. 2022, in vigore dal 1° set. 2022 ([RU 2022 437](https://fedlex.data.admin.ch/eli/oc/2022/437)).
 
 <table>
-<tr><th>N.</th><th>Impianti di radiocomunicazione ai quali essi si riferiscono</th><th>Requisiti essenziali supplementari applicabili</th><th>Riferimento/fonte</th></tr>
-<tr><td>1</td><td>Impianti di radiocomunicazione sottoposti all’accordo regionale concernente il servizio di radiotelefono nelle vie di navigazione interna</td><td>art. 7 cpv. 3 lett. g OIT</td><td>Decisione 2000/637/CE della Commissione del 22 settembre 2000 relativa all’applicazione dell’articolo 3 paragrafo 3 lettera e) della Direttiva 1999/5/CE alle apparecchiature radio contemplate dall’accordo regionale concernente il servizio di radiotelefono nelle vie di navigazione interna Versione GU L 269 del 21.10.2000, pag. 50</td></tr>
-<tr><td>2</td><td>Impianti di radiocomunicazione marittimi che devono essere installati su navi marittime non sottoposte alla Convenzione internazionale del 1° novembre 1974[^annex1-lvlu1-1] per la salvaguardia della vita umana in mare (convenzione SOLAS) per partecipare al sistema mondiale di soccorso e sicurezza in mare (SMSSM)</td><td>art. 7 cpv. 3 lett. g OIT</td><td>Decisione 2013/638/UE della Commissione del 12 agosto 2013 sui requisiti essenziali dell’attrezzatura di radiocomunicazione marittima che deve essere installata su navi marittime non SOLAS e partecipare al Sistema mondiale di soccorso e sicurezza in mare (SMSSM) Versione GU L 296 del 7.11.2013, pag. 22</td></tr>
-<tr><td>3</td><td>Impianti di ricerca in valanga che operano sulla frequenza 457 kHz</td><td>art. 7 cpv. 3 lett. g OIT</td><td>Decisione 2001/148/CE della Commissione del 21 febbraio 2001 relativa all’applicazione dell’articolo 3 paragrafo 3 lettera e) della Direttiva 1999/5/CE agli apparecchi di ricerca in valanga Versione GU L 55 del 24.2.2001, pag. 65</td></tr>
-<tr><td>4</td><td>Impianti di radiocomunicazione del sistema d’identificazione automatico (AIS) installati su imbarcazioni che non sottostanno alla convenzione SOLAS</td><td>art. 7 cpv. 3 lett. g OIT</td><td>Decisione 2005/53/CE della Commissione, del 25 gennaio 2005, riguardante l’applicazione dell’articolo 3, paragrafo 3, lettera e), della direttiva 1999/5/CE del Parlamento europeo e del Consiglio alle apparecchiature radio destinate a far parte del sistema d’identificazione automatica (AIS) Versione GU L22 del 26.1.2005, pag. 14</td></tr>
-<tr><td>5</td><td>Luci di localizzazione Cospas-Sarsat (406 MHz)</td><td>art. 7 cpv. 3 lett. g OIT</td><td>Decisione 2005/631/CE della Commissione del 29 agosto 2005 riguardante i requisiti essenziali di cui alla Direttiva 1999/5/CE del Parlamento europeo e del Consiglio per assicurare ai servizi d’emergenza l’accesso alle luci di localizzazione Cospas-Sarsat Versione GU L 225 del 31.8.2005, pag. 28</td></tr>
-<tr><td>6</td><td>I telefoni cellulari con funzionalità informatiche avanzate *(«smartphone»)*</td><td>art. 7 cpv. 3 lett. g OIT</td><td>Regolamento delegato (UE) 2019/320 della Commissione, del 12 dicembre 2018, che integra la direttiva 2014/53/UE del Parlamento europeo e del Consiglio per quanto riguarda l’applicazione dei requisiti essenziali di cui all’articolo 3, paragrafo 3, lettera g), di tale direttiva, al fine di garantire la localizzazione del chiamante nelle comunicazioni di emergenza da dispositivi mobili Versione GU L 55 del 25.2.2019, pag. 1</td></tr>
+<tr><th></th><th>Impianti di radiocomunicazione</th><th>Requisiti essenziali supplementari applicabili</th><th>Riferimento/fonte</th></tr>
+<tr><td>1</td><td>Impianti di radiocomunicazione sottoposti all’Accordo regionale del 18 aprile 2012 concernente il servizio di radiotelefono nelle vie di navigazione interna[^annex1-lvlu1-1]</td><td>art. 7 cpv. 3 lett. g OIT</td><td>Decisione 2000/637/CE[^annex1-lvlu1-2]</td></tr>
+<tr><td>2</td><td>Impianti di radiocomunicazione marittimi che devono essere installati su navi marittime non sottoposte alla Convenzione internazionale del 1° novembre 1974[^annex1-lvlu1-3] per la salvaguardia della vita umana in mare (convenzione SOLAS) per partecipare al sistema mondiale di soccorso e sicurezza in mare (SMSSM)</td><td>art. 7 cpv. 3 lett. g OIT</td><td>Decisione 2013/638/UE[^annex1-lvlu1-4]</td></tr>
+<tr><td>3</td><td>Impianti di ricerca in valanga che operano sulla frequenza 457 kHz</td><td>art. 7 cpv. 3 lett. g OIT</td><td>Decisione 2001/148/CE[^annex1-lvlu1-5]</td></tr>
+<tr><td>4</td><td>Impianti di radiocomunicazione del sistema d’identificazione automatico (AIS) installati su imbarcazioni che non sottostanno alla convenzione SOLAS</td><td>art. 7 cpv. 3 lett. g OIT</td><td>Decisione 2005/53/CE[^annex1-lvlu1-6]</td></tr>
+<tr><td>5</td><td>Luci di localizzazione Cospas-Sarsat (406 MHz)</td><td>art. 7 cpv. 3 lett. g OIT</td><td>Decisione 2005/631/CE[^annex1-lvlu1-7]</td></tr>
+<tr><td>6</td><td>Telefoni cellulari con funzionalità informatiche avanzate</td><td>art. 7 cpv. 3 lett. g OIT</td><td>Regolamento delegato (UE) 2019/320[^annex1-lvlu1-8]</td></tr>
+<tr><td>7</td><td>Impianti di radiocomunicazione collegati direttamente o indirettamente a Internet. Fanno eccezione: – i dispositivi medici ai sensi dell’articolo 2 comma 1) del regolamento (UE) 2017/745[^annex1-lvlu1-9] comprendenti un impianto di radiocomunicazione; – i dispositivi medico-diagnostici in vitro ai sensi dell’articolo 2 comma 2) del regolamento (UE) 2017/746[^annex1-lvlu1-10] comprendenti un impianto di radiocomunicazione.</td><td>art. 7 cpv. 3 lett. d OIT</td><td>Regolamento delegato (UE) 2022/30[^annex1-lvlu1-11]</td></tr>
+<tr><td>8</td><td>Gli impianti di radiocomunicazione seguenti se in grado di procedere al trattamento di dati personali:</td><td>art. 7 cpv. 3 lett. e OIT</td><td>Regolamento delegato (UE) 2022/30[^annex1-lvlu1-12]</td></tr>
+<tr><td></td><td>– impianti di radiocomunicazione collegati a Internet; – impianti di radiocomunicazione ideati per il monitoraggio dei bambini o destinati esclusivamente a tale scopo; – giocattoli secondo l’ordinanza del DFI del 15 agosto 2012[^annex1-lvlu1-13] concernente la sicurezza dei giocattoli comprendenti un impianto di radiocomunicazione; – impianti di radiocomunicazione ideati per o destinati, esclusivamente o meno, a essere indossati, allacciati o sospesi su: – qualsiasi parte del corpo, compresi la testa, il collo, il torso, le braccia, le mani, le gambe e i piedi, – qualsiasi abito indossato da esseri umani, compresi capi che coprono la testa, le mani e i piedi. Fanno eccezione: – i dispositivi medici secondo l’articolo 2 comma 1) del regolamento (UE) 2017/745[^annex1-lvlu1-14] comprendenti un impianto di radiocomunicazione; – i dispositivi medico-diagnostici in vitro secondo l’articolo 2 comma 2) del regolamento (UE) 2017/746[^annex1-lvlu1-15] comprendenti un impianto di radiocomunicazione; – gli impianti di radiocomunicazione per la sicurezza aerea secondo il regolamento (UE) 2018/1139[^annex1-lvlu1-16]; – gli impianti di radiocomunicazione nei veicoli secondo l’ordinanza del 19 giugno 1995[^annex1-lvlu1-17] concernente le esigenze tecniche per i veicoli stradali; – i sistemi di telepedaggio stradale secondo l’articolo 2 comma 10) della direttiva (UE) 2019/520[^annex1-lvlu1-18] comprendenti un impianto di radiocomunicazione.</td><td></td><td></td></tr>
+<tr><td>9</td><td>Impianti di radiocomunicazione collegati a Internet che consentono di trasferire denaro, valore monetario o una valuta virtuale come definita all’articolo 2 lettera d) della direttiva (UE) 2019/713[^annex1-lvlu1-19]</td><td>art. 7 cpv. 3 lett. f OIT</td><td>Regolamento delegato (UE) 2022/30[^annex1-lvlu1-20]</td></tr>
+<tr><td></td><td>Fanno eccezione: – i dispositivi medici secondo l’articolo 2 comma 1) del regolamento (UE) 2017/745[^annex1-lvlu1-21] comprendenti un impianto di radiocomunicazione; – i dispositivi medico-diagnostici in vitro secondo l’articolo 2 comma 2) del regolamento (UE) 2017/746[^annex1-lvlu1-22] comprendenti un impianto di radiocomunicazione; – gli impianti di radiocomunicazione per la sicurezza aerea secondo il regolamento (UE) 2018/1139[^annex1-lvlu1-23];</td><td></td><td></td></tr>
+<tr><td></td><td>– gli impianti di radiocomunicazione nei veicoli secondo l’ordinanza del 19 giugno 1995[^annex1-lvlu1-24] concernente le esigenze tecniche per i veicoli stradali; – sistemi di telepedaggio stradale secondo l’articolo 2 comma 10) della direttiva (UE) 2019/520[^annex1-lvlu1-25] comprendenti un impianto di radiocomunicazione.</td><td></td><td></td></tr>
 </table>
 
-[^annex1-lvlu1-1]: [RS 0.747.363.33](https://fedlex.data.admin.ch/eli/cc/1982/128_128_128)
+[^annex1-lvlu1-1]: Il testo dell’accordo può essere ottenuto dietro pagamento presso l’Ufficio federale delle comunicazioni, rue de l’Avenir 44, casella postale, 2501 Bienne, o gratuitamente all’indirizzo Internet seguente: www.rainwat.bipt.be.
+[^annex1-lvlu1-2]: 2000/637/CE: Decisione della Commissione, del 22 settembre 2000, relativa all’applicazione dell’articolo 3, paragrafo 3, lettera e), della direttiva 1999/5/CE alle apparecchiature radio contemplate dall’accordo regionale concernente il servizio di radiotelefono nelle vie di navigazione interna, versione della GU L 269 del 21.10.2000, pag. 50.
+[^annex1-lvlu1-3]: [RS 0.747.363.33](https://fedlex.data.admin.ch/eli/cc/1982/128_128_128)
+[^annex1-lvlu1-4]: 2013/638/UE: Decisione della Commissione del 12 agosto 2013 sui requisiti essenziali dell’attrezzatura di radiocomunicazione marittima che deve essere installata su navi marittime non SOLAS e partecipare al Sistema mondiale di soccorso e sicurezza in mare (SMSSM), versione della GU L 296 del 7.11.2013, pag. 22.
+[^annex1-lvlu1-5]: 2001/148/CE: Decisione della Commissione, del 21 febbraio 2001, relativa all’applicazione dell’articolo 3, paragrafo 3, lettera e), della direttiva 1999/5/CE agli apparecchi di ricerca in valanga, versione della GU L 55 del 24.2.2001, pag. 65.
+[^annex1-lvlu1-6]: 2005/53/CE: Decisione della Commissione, del 25 gennaio 2005, riguardante l’applicazione dell’articolo 3, paragrafo 3, lettera e), della direttiva 1999/5/CE del Parlamento europeo e del Consiglio alle apparecchiature radio destinate a far parte del sistema d’identificazione automatica (AIS), versione della GU L 22 del 26.1.2005, pag. 14.
+[^annex1-lvlu1-7]: 2005/631/CE: Decisione della Commissione, del 29 agosto 2005, riguardante i requisiti essenziali di cui alla direttiva 1999/5/CE del Parlamento europeo e del Consiglio per assicurare ai servizi d’emergenza l’accesso alle luci di localizzazione Cospas-Sarsat, versione della GU L 225 del 31.8.2005, pag. 28.
+[^annex1-lvlu1-8]: Regolamento delegato (UE) 2019/320 della Commissione, del 12 dicembre 2018, che integra la direttiva 2014/53/UE del Parlamento europeo e del Consiglio per quanto riguarda l’applicazione dei requisiti essenziali di cui all’articolo 3, paragrafo 3, lettera g), di tale direttiva, al fine di garantire la localizzazione del chiamante nelle comunicazioni di emergenza da dispositivi mobili, versione della GU L 55 del 25.2.2019, pag. 1.
+[^annex1-lvlu1-9]: Regolamento (UE) 2017/745 del Parlamento europeo e del Consiglio, del 5 aprile 2017, relativo ai dispositivi medici che modifica la direttiva 2001/83/CE, il regolamento (CE) n<sup>o</sup> 178/2002 e il regolamento (CE) n<sup>o</sup> 1223/2009 e che abroga le direttive 90/385/CEE e 93/42/CEE, GU L 117 del 5.5.2017, pag. 1; modificato da ultimo dal regolamento (UE) 2020/561, GU L 130 del 24.4.2020, pag. 18.
+[^annex1-lvlu1-10]: Regolamento (UE) 2017/746 del Parlamento europeo e del Consiglio, del 5 aprile 2017, relativo ai dispositivi medico-diagnostici in vitro e che abroga la direttiva 98/79/CE e la decisione 2010/227/UE della Commissione; versione della GU L 117 del 5.5.2017, pag. 176; modificato da ultimo dal regolamento (UE) 2022/112, GU L 19 del 28.1.2022, pag. 3.
+[^annex1-lvlu1-11]: Regolamento delegato (UE) 2022/30 della Commissione del 29 ottobre 2021 che integra la direttiva 2014/53/UE del Parlamento europeo e del Consiglio per quanto riguarda l’applicazione dei requisiti essenziali di cui all’articolo 3, paragrafo 3, lettere d), e) e f), di tale direttiva, versione della GU L 7 del 12.1.2022, pag. 6.
+[^annex1-lvlu1-12]: Cfr. nota a piè pagina relativa al n. 7.
+[^annex1-lvlu1-13]: [RS 817.023.11](https://fedlex.data.admin.ch/eli/cc/2012/573)
+[^annex1-lvlu1-14]: Cfr. nota a piè pagina relativa al n. 7
+[^annex1-lvlu1-15]: Cfr. nota a piè pagina relativa al n. 7
+[^annex1-lvlu1-16]: Regolamento (UE) 2018/1139 del Parlamento europeo e del Consiglio, del 4 luglio 2018, recante norme comuni nel settore dell’aviazione civile, che istituisce un’Agenzia dell’Unione europea per la sicurezza aerea e che modifica i regolamenti (CE) n. 2111/2005, (CE) n. 1008/2008, (UE) n. 996/2010, (UE) n. 376/2014 e le direttive 2014/30/UE e 2014/53/UE del Parlamento europeo e del Consiglio, e abroga i regolamenti (CE) n. 552/2004 e (CE) n. 216/2008 del Parlamento europeo e del Consiglio e il regolamento (CEE) n. 3922/91 del Consiglio, nella versione che vincola la Svizzera in virtù del numero 3 dell’allegato dell’Accordo del 21 giugno 1999 tra la Confederazione svizzera e la Comunità europea sul trasporto aereo ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
+[^annex1-lvlu1-17]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^annex1-lvlu1-18]: Direttiva (UE) 2019/520 del Parlamento europeo e del Consiglio, del 19 marzo 2019, concernente l’interoperabilità dei sistemi di telepedaggio stradale e intesa ad agevolare lo scambio transfrontaliero di informazioni sul mancato pagamento dei pedaggi stradali nell’Unione, GU L 91 del 29.3.2019, pag. 45; modificata da ultimo dalla direttiva (UE) 2022/362, GU L 69 del 4.3.2022, pag. 1.
+[^annex1-lvlu1-19]: Direttiva (UE) 2019/713 del Parlamento europeo e del Consiglio, del 17 aprile 2019, relativa alla lotta contro le frodi e le falsificazioni di mezzi di pagamento diversi dai contanti e che sostituisce la decisione quadro 2001/413/GAI del Consiglio, versione della GU L 123 del 10.5.2019, pag. 18.
+[^annex1-lvlu1-20]: Cfr. nota a piè pagina relativa al n. 7
+[^annex1-lvlu1-21]: Cfr. nota a piè pagina relativa al n. 7
+[^annex1-lvlu1-22]: Cfr. nota a piè pagina relativa al n. 7
+[^annex1-lvlu1-23]: Cfr. nota a piè pagina relativa al n. 8
+[^annex1-lvlu1-24]: Cfr. nota a piè pagina relativa al n. 8
+[^annex1-lvlu1-25]: Cfr. nota a piè pagina relativa al n. 8
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 (art. 2 cpv. 1)
 
-## Prescrizioni tecniche applicabili alle interfacce di cui all’articolo 3 capoverso 1 OIT****
+## Prescrizioni tecniche applicabili alle interfacce di cui all’articolo 3 capoverso 1 OIT
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Nuovo testo giusta il n. II dell’O dell’UFCOM del 18 nov. 2020 ([RU 2020 5277](https://fedlex.data.admin.ch/eli/oc/2020/913)). Aggiornato dal n. I dell’O dell’UFCOM del 23 mar. 2021 ([RU 2021 196](https://fedlex.data.admin.ch/eli/oc/2021/196)), dal n. II dell’O dell’UFCOM del 5 lug. 2021 ([RU 2021 475](https://fedlex.data.admin.ch/eli/oc/2021/475)), dai n. I delle O dell’UFCOM dell’11 nov. 2022 ([RU 2021 738](https://fedlex.data.admin.ch/eli/oc/2021/738)) e del 21 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 203](https://fedlex.data.admin.ch/eli/oc/2022/203)).
+[^t-2]: Nuovo testo giusta il n. II dell’O dell’UFCOM del 18 nov. 2020 ([RU 2020 5277](https://fedlex.data.admin.ch/eli/oc/2020/913)). Aggiornato dal n. I dell’O dell’UFCOM del 23 mar. 2021 ([RU 2021 196](https://fedlex.data.admin.ch/eli/oc/2021/196)), dal n. II dell’O dell’UFCOM del 5 lug. 2021 ([RU 2021 475](https://fedlex.data.admin.ch/eli/oc/2021/475)), dai n. I delle O dell’UFCOM dell’11 nov. 2022 ([RU 2021 738](https://fedlex.data.admin.ch/eli/oc/2021/738)), del 21 mar. 2022 ([RU 2022 203](https://fedlex.data.admin.ch/eli/oc/2022/203)) e dal n. II cpv. 2 dell’O dell’UFCOM del 21 lug. 2022, in vigore dal 1° set. 2022 ([RU 2022 437](https://fedlex.data.admin.ch/eli/oc/2022/437)).
 [^annex2-lvlu1-1]: Le prescrizioni applicabili alle interfacce sono ottenibili gratuitamente presso l’Ufficio federale delle comunicazioni, rue de l’Avenir 44, casella postale, 2501 Bienne oppure consultabili in rete al seguente indirizzo: www.ufcom.ch &gt; L’UFCOM &gt; Basi legali &gt; Prassi d’esecuzione &gt; Apparecchi e impianti &gt; Prescrizioni tecniche delle interfacce (RIR).
 
 <table>
@@ -202,7 +240,7 @@ Allegato 2*[^t-2]*
 <tr><td>RIR0201</td><td>Emittenti di radiodiffusione terrestre</td><td>16</td></tr>
 <tr><td>RIR0203</td><td>Servizi per realizzazione di programmi e di eventi speciali (PMSE)</td><td>21</td></tr>
 <tr><td>RIR0301</td><td>Ponti radio punto a multipunto</td><td>11</td></tr>
-<tr><td>RIR0302</td><td>Ponti radio punto a punto</td><td>28</td></tr>
+<tr><td>RIR0302</td><td>Ponti radio punto a punto</td><td>29</td></tr>
 <tr><td>RIR0501</td><td>Telefonia digitale cellulare</td><td>18</td></tr>
 <tr><td>RIR0503</td><td>Telefoni senza filo</td><td>9</td></tr>
 <tr><td>RIR0504</td><td>Impianti di radiocomunicazione del servizio di emergenza</td><td>11</td></tr>
@@ -229,7 +267,7 @@ Allegato 2*[^t-2]*
 <tr><td>RIR1009</td><td>Microfoni senza filo</td><td>25</td></tr>
 <tr><td>RIR1010</td><td>Sistemi di trasmissione dati a banda larga</td><td>18</td></tr>
 <tr><td>RIR1011</td><td>Identificazione tramite radiofrequenza (RFID)</td><td>12</td></tr>
-<tr><td>RIR1012</td><td>Telematica dei trasporti e del traffico (TTT)</td><td>15</td></tr>
+<tr><td>RIR1012</td><td>Telematica dei trasporti e del traffico (TTT)</td><td>16</td></tr>
 <tr><td>RIR1013</td><td>Applicazioni audio senza filo</td><td>16</td></tr>
 <tr><td>RIR1021</td><td>Telecomando, trasmissione di dati e telemetria a potenza elevata</td><td>12</td></tr>
 <tr><td>RIR1023</td><td>Applicazioni a banda ultra larga (UWB)</td><td>11</td></tr>
@@ -251,7 +289,7 @@ Allegato 3
 
 [^annex3-lvlu1-1]: Cfr. all. 2.
 
-Allegato 4*[^t-3]*
+Allegato 4[^t-3]
 
 (art. 4 cpv. 1)
 
@@ -300,7 +338,7 @@ Allegato 4*[^t-3]*
   - a) yy: le due ultime cifre dell’anno in cui è stato rilasciato il certificato d’omologazione;
   - b) iiii: numero individuale a quattro cifre.
 
-Allegato 5*[^t-4]*
+Allegato 5[^t-4]
 
 (art. 4 cpv. 2 e art. 6)
 
@@ -319,7 +357,7 @@ Allegato 5*[^t-4]*
 <tr><td>PTA 5.4 (art. 4 cpv. 2)</td><td>Prescrizioni tecniche e amministrative applicabili agli impianti di radiocomunicazione previsti per garantire la sicurezza pubblica da parte delle autorità: impianti di localizzazione, di sorveglianza e di comunicazione</td><td>3</td></tr>
 </table>
 
-Allegato 6*[^t-5]*
+Allegato 6[^t-5]
 
 (art. 2*a*)
 
@@ -331,7 +369,7 @@ Allegato 6*[^t-5]*
 
 <sup>2</sup> Include il seguente simbolo:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20220501/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20220901/it/xml/image/image1.png)
 
 <sup>3</sup> Per un impianto di radiocomunicazione recante il marchio di conformità svizzero secondo l’allegato 1 numero 1 OIT riporta, sotto o accanto al simbolo di cui al capoverso 2, l’abbreviazione della Svizzera (CH).
 
@@ -349,13 +387,13 @@ Allegato 6*[^t-5]*
 <sup>7</sup> Esempio a carattere informativo:
 
 <table>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20220501/it/xml/image/image1.png)</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20220901/it/xml/image/image1.png)</td></tr>
 <tr><td>CH</td><td>FR</td><td>ES</td></tr>
 <tr><td>IT</td><td>DK</td><td>DE</td></tr>
 </table>
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20220501/it/xml/image/image1.png)</td><td>CH</td><td>IT</td><td>DE</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20220901/it/xml/image/image1.png)</td><td>CH</td><td>IT</td><td>DE</td></tr>
 </table>
 
 [^annex6-lvlu1-1]: Regolamento di esecuzione (UE) 2017/1354 della Commissione, del 20 luglio 2017, che specifica le modalità di presentazione delle informazioni di cui all’articolo 10, paragrafo 10, della direttiva 2014/53/UE del Parlamento europeo e del Consiglio, versione GU L 190 del 21.7.2017, pag. 7.

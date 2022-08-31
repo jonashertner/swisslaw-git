@@ -4,11 +4,11 @@ title: Verordnung des BAKOM vom 26. Mai 2016 über Fernmeldeanlagen (VFAV)
 short: VFAV
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/307"
 language: de
-version: 2022-05-01
+version: 2022-09-01
 adopted: 2016-05-26
 in_force: 2016-06-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20220501/de/xml/fedlex-data-admin-ch-eli-cc-2016-307-20220501-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/307/20220501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20220901/de/xml/fedlex-data-admin-ch-eli-cc-2016-307-20220901-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/307/20220901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/307/20220501/de"
 
 (VFAV)
 
-vom 26. Mai 2016 (Stand am 1. Mai 2022)
+vom 26. Mai 2016 (Stand am 1. September 2022)
 
 Das Bundesamt für Kommunikation (BAKOM),
 
@@ -155,41 +155,77 @@ Handmobiltelefone mit fortgeschrittenen Rechenfähigkeiten, die der zusätzliche
 
 [^10a-1]: Eingefügt durch Ziff. I der V des BAKOM vom 12. Nov. 2019 ([AS 2019 4241](https://fedlex.data.admin.ch/eli/oc/2019/729)). Fassung gemäss Ziff. I der V des BAKOM vom 27. Juli 2020, in Kraft seit 1. Sept. 2020 ([AS 2020 3563](https://fedlex.data.admin.ch/eli/oc/2020/632)).
 
+#### Art. 10b
+
+**Übergangsbestimmung zur Änderung vom 21. Juli 2022**[^10b-1]
+
+Funkanlagen, die den zusätzlichen grundlegenden Anforderungen nach Artikel 7 Absatz 3 Buchstaben d–f FAV in Verbindung mit Anhang 1 Ziffern 7–9 unterliegen, diese aber nicht erfüllen, dürfen bis zum 31. Juli 2024 in Verkehr gebracht werden.
+
+[^10b-1]: Eingefügt durch Ziff. I der V des BAKOM vom 21. Juli 2022, in Kraft seit 1. Sept. 2022 ([AS 2022 437](https://fedlex.data.admin.ch/eli/oc/2022/437)).
+
 #### Art. 11
 
 **Inkrafttreten**
 
 Diese Verordnung tritt am 13. Juni 2016 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 1)
 
 ## Anwendbare zusätzliche grundlegende Anforderungen nach Artikel 7 Absatz 3 FAV und die betreffenden Funkanlagen
 
-[^t-1]: Fassung gemäss Ziff. II Abs. 1 der V des BAKOM vom 12. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4241](https://fedlex.data.admin.ch/eli/oc/2019/729)).
+[^t-1]: Fassung gemäss Ziff. II Abs. 1 der V des BAKOM vom 21. Juli 2022, in Kraft seit 1. Sept. 2022 ([AS 2022 437](https://fedlex.data.admin.ch/eli/oc/2022/437)).
 
 <table>
-<tr><th>Ch.</th><th>Betreffende Funkanlagen</th><th>Anwendbare zusätzliche grundlegende Anforderungen</th><th>Referenz/Quelle</th></tr>
-<tr><td>1</td><td>Funkanlagen, die der Regionalen Vereinbarung über den Binnenschifffahrtsfunk unterliegen</td><td>Art. 7 Abs. 3 Bst. g FAV</td><td>Entscheidung 2000/637/EG der Kommission vom 22. September 2000 über die Anwendung von Artikel 3 Absatz 3 Buchstabe e) der Richtlinie 1999/5/EG auf Funkanlagen, die der Regionalen Vereinbarung über den Binnenschifffahrtsfunk unterliegen Fassung gemäss ABl. L 269 vom 21.10.2000, S. 50</td></tr>
-<tr><td>2</td><td>Seefunkanlagen, die auf nicht dem Internationalen Übereinkommen vom 1. November 1974[^annex1-lvlu1-1] zum Schutz des menschlichen Lebens auf See (SOLAS-Übereinkommen) unterliegenden Schiffen zwecks Teilnahme am weltweiten Seenot‑ und Sicherheitsfunksystem (GMDSS) bestimmt sind</td><td>Art. 7 Abs. 3 Bst. g FAV</td><td>Beschluss 2013/638/EU der Kommission vom 12. August 2013 über grundlegende Anforderungen an Seefunkanlagen, die auf nicht dem SOLAS-Übereinkommen unterliegenden Schiffen eingesetzt werden und am weltweiten Seenot- und Sicherheitsfunksystem (GMDSS) teilnehmen sollen Fassung gemäss ABl. L 296 vom 7.11.2013, S. 22</td></tr>
-<tr><td>3</td><td>Lawinenverschüttetensuchgeräte mit einer Betriebsfrequenz von 457 kHz</td><td>Art. 7 Abs. 3 Bst. g FAV</td><td>Entscheidung 2001/148/EG der Kommission vom 21. Februar 2001 über die Anwendung von Artikel 3 Absatz 3 Buchstabe e) der Richtlinie 1999/5/EG auf Lawinenverschüttetensuchgeräte Fassung gemäss ABl. L 55 vom 24.02.2001, S. 65</td></tr>
-<tr><td>4</td><td>Funkanlagen des automatischen Schiffsidentifizierungssystems (AIS), die auf nicht dem SOLAS‑Übereinkommen unterliegenden Schiffen installiert sind</td><td>Art. 7 Abs. 3 Bst. g FAV</td><td>Entscheidung 2005/53/EG der Kommission vom 25. Januar 2005 über die Anwendung von Artikel 3 Absatz 3 Buchstabe e) der Richtlinie 1999/5/EG des Europäischen Parlaments und des Rates auf Funkanlagen des automatischen Schiffsidentifizierungssystems (AIS) Fassung gemäss ABl. L 22 vom 26.01.2005, S. 14</td></tr>
-<tr><td>5</td><td>Cospas-Sarsat-Ortungsbaken (406 MHz)</td><td>Art. 7 Abs. 3 Bst. g FAV</td><td>Entscheidung 2005/631/EG der Kommission vom 29. August 2005 über grundlegende Anforderungen in Sinne der Richtlinie 1999/5/EG des Europäischen Parlaments und des Rates zur Sicherstellung des Zugangs von Cospas-Sarsat-Ortungsbaken zu Notfalldiensten Fassung gemäss ABl. L 225 vom 31.8.2005, S. 28</td></tr>
-<tr><td>6</td><td>Handmobiltelefone mit fortgeschrittenen Rechenfähigkeiten</td><td>Art. 7, Abs. 3, Bst. g FAV</td><td>Delegierte Verordnung (EU) 2019/320 der Kommission vom 12. Dezember 2018 zur Ergänzung der Richtlinie 2014/53/EU des Europäischen Parlaments und des Rates hinsichtlich der Anwendung der in Artikel 3 Absatz 3 Buchstabe g der Richtlinie genannten grundlegenden Anforderungen zur Gewährleistung der Anruferstandortbestimmung bei Notrufen über Mobilgeräte Fassung gemäss ABl. L 55 vom 25.2.2019, S. 1</td></tr>
+<tr><th>Ziff.</th><th>Funkanlagen</th><th>Anwendbare zusätzliche grundlegende Anforderungen</th><th>Referenz/Quelle</th></tr>
+<tr><td>1</td><td>Funkanlagen, die der regionalen Vereinbarung vom 18. April 2012[^annex1-lvlu1-1] über den Binnenschifffahrtsfunk unterliegen</td><td>Art. 7 Abs. 3 Bst. g FAV</td><td>Entscheidung 2000/637/EG[^annex1-lvlu1-2]</td></tr>
+<tr><td>2</td><td>Seefunkanlagen, die auf nicht dem internationalen Übereinkommen vom 1. November 1974[^annex1-lvlu1-3] zum Schutz des menschlichen Lebens auf See (SOLAS-Übereinkommen) unterliegenden Schiffen zwecks Teilnahme am weltweiten Seenot‑ und Sicherheitsfunksystem (GMDSS) bestimmt sind</td><td>Art. 7 Abs. 3 Bst. g FAV</td><td>Beschluss 2013/638/EU[^annex1-lvlu1-4]</td></tr>
+<tr><td>3</td><td>Lawinenverschüttetensuchgeräte mit einer Betriebsfrequenz von 457 kHz</td><td>Art. 7 Abs. 3 Bst. g FAV</td><td>Entscheidung 2001/148/EG[^annex1-lvlu1-5]</td></tr>
+<tr><td>4</td><td>Funkanlagen des automatischen Schiffs-identifizierungssystems (AIS), die auf nicht dem SOLAS‑Übereinkommen unterliegenden Schiffen installiert sind</td><td>Art. 7 Abs. 3 Bst. g FAV</td><td>Entscheidung 2005/53/EG[^annex1-lvlu1-6]</td></tr>
+<tr><td>5</td><td>Cospas-Sarsat-Ortungsbaken (406 MHz)</td><td>Art. 7 Abs. 3 Bst. g FAV</td><td>Entscheidung 2005/631/EG[^annex1-lvlu1-7]</td></tr>
+<tr><td>6</td><td>Handmobiltelefone mit fortgeschrittenen Rechenfähigkeiten</td><td>Art. 7 Abs. 3 Bst. g FAV</td><td>Delegierte Verordnung (EU) 2019/320[^annex1-lvlu1-8]</td></tr>
+<tr><td>7</td><td>Funkanlagen, die direkt oder indirekt mit dem Internet verbunden sind. Ausgenommen sind: – Medizinprodukte nach Art. 2 Abs. 1 der Verordnung (EU) 2017/745[^annex1-lvlu1-9], die eine Funkanlage enthalten; – In-vitro-Diagnostika nach Art. 2 Abs. 2 der Verordnung (EU) 2017/746[^annex1-lvlu1-10], die eine Funkanlage enthalten.</td><td>Art. 7 Abs. 3 Bst. d FAV</td><td>Delegierte Verordnung (EU) 2022/30[^annex1-lvlu1-11]</td></tr>
+<tr><td>8</td><td>Folgende Funkanlagen, sofern diese personenbezogene Daten verarbeiten können:</td><td>Art. 7 Abs. 3 Bst. e FAV</td><td>Delegierte Verordnung (EU) 2022/30[^annex1-lvlu1-12]</td></tr>
+<tr><td></td><td>– mit dem Internet verbundene Funkanlagen; – Funkanlagen, die ausschliesslich für die Kinderbetreuung konzipiert oder bestimmt sind; – Spielzeug nach der Verordnung des EDI vom 15. August 2012[^annex1-lvlu1-13] über die Sicherheit von Spielzeug, die eine Funkanlage enthalten; – Funkanlagen, die ausschliesslich oder nicht ausschliesslich dazu konzipiert oder bestimmt sind, an Folgendem getragen, festgeschnallt oder befestigt zu werden: – einem Teil des menschlichen Körpers, einschliesslich Kopf, Hals, Rumpf, Arme, Hände, Beine und Füsse, – an von Menschen getragenen Kleidungsstücken, einschliesslich Kopfbedeckungen, Handschuhen und Schuhen. Ausgenommen sind: – Medizinprodukte nach Art. 2 Abs. 1 der Verordnung (EU) 2017/745[^annex1-lvlu1-14], die eine Funkanlage enthalten; – In-vitro-Diagnostika nach Art. 2 Abs. 2 der Verordnung (EU) 2017/746[^annex1-lvlu1-15], die eine Funkanlage enthalten; – Funkanlagen betreffend die Flugsicherheit nach der Verordnung (EU) 2018/1139[^annex1-lvlu1-16]; – Funkanlagen in Fahrzeugen nach der Verordnung vom 19. Juni 1995[^annex1-lvlu1-17] über die technischen Anforderungen an Strassenfahrzeuge; – Mautsysteme mit Funkanlagen nach Art. 2 Abs. 10 der Richtlinie (EU) 2019/520[^annex1-lvlu1-18], die eine Funkanlage enthalten.</td><td></td><td></td></tr>
+<tr><td>9</td><td>Mit dem Internet verbundene Funkanlagen, welche die Übertragung von Geld, monetären Werten oder sogar virtuellen Währungen gemäss der Definition nach Artikel 2 Buchstabe d der Richtlinie (EU) 2019/713[^annex1-lvlu1-19] ermöglichen. Ausgenommen sind: – Medizinprodukte nach Art. 2 Abs. 1 der Verordnung (EU) 2017/745[^annex1-lvlu1-20], die eine Funkanlage enthalten; – In-vitro-Diagnostika nach Art. 2 Abs. 2 der Verordnung (EU) 2017/746[^annex1-lvlu1-21], die eine Funkanlage enthalten; – Funkanlagen betreffend die Flugsicherheit nach der Verordnung (EU) 2018/1139[^annex1-lvlu1-22]; – Funkanlagen in Fahrzeugen nach der Verordnung vom 19. Juni 1995[^annex1-lvlu1-23] über die technischen Anforderungen an Strassenfahrzeuge; – Mautsysteme mit Funkanlagen nach Art. 2 Abs. 10 der Richtlinie (EU) 2019/520[^annex1-lvlu1-24], die eine Funkanlage enthalten.</td><td>Art. 7 Abs. 3 Bst. f FAV</td><td>Delegierte Verordnung (EU) 2022/30[^annex1-lvlu1-25]</td></tr>
 </table>
 
-[^annex1-lvlu1-1]: [SR 0.747.363.33](https://fedlex.data.admin.ch/eli/cc/1982/128_128_128)
+[^annex1-lvlu1-1]: Der Text der Vereinbarung kann beim Bundesamt für Kommunikation, Zukunftstrasse 44, Postfach, 2501 Biel, gegen Bezahlung bezogen oder kostenlos unter www.rainwat.bipt.be &gt; Arrangement abgerufen werden.
+[^annex1-lvlu1-2]: 2000/637/EG: Entscheidung der Kommission vom 22. September 2000 über die Anwendung von Artikel 3 Absatz 3 Buchstabe e der Richtlinie 1999/5/EG auf Funkanlagen, die der Regionalen Vereinbarung über den Binnenschifffahrtsfunk unterliegen, Fassung gemäss ABl. L 269 vom 21.10.2000, S. 50.
+[^annex1-lvlu1-3]: [SR 0.747.363.33](https://fedlex.data.admin.ch/eli/cc/1982/128_128_128)
+[^annex1-lvlu1-4]: 2013/638/EU: Beschluss der Kommission vom 12. August 2013 über grundlegende Anforderungen an Seefunkanlagen, die auf nicht dem SOLAS-Übereinkommen unterliegenden Schiffen eingesetzt werden und am weltweiten Seenot- und Sicherheitsfunksystem (GMDSS) teilnehmen sollen, Fassung gemäss ABl. L 296 vom 7.11.2013, S. 22.
+[^annex1-lvlu1-5]: 2001/148/EG: Entscheidung der Kommission vom 21. Februar 2001 über die Anwendung von Artikel 3 Absatz 3 Buchstabe e der Richtlinie 1999/5/EG auf Lawinenverschüttetensuchgeräte, Fassung gemäss ABl. L 55 vom 24.02.2001, S. 65.
+[^annex1-lvlu1-6]: 2005/53/EG: Entscheidung der Kommission vom 25. Januar 2005 über die Anwendung von Artikel 3 Absatz 3 Buchstabe e der Richtlinie 1999/5/EG des Europäischen Parlaments und des Rates auf Funkanlagen des automatischen Schiffsidentifizierungssystems (AIS), Fassung gemäss ABl. L 22 vom 26.01.2005, S. 14.
+[^annex1-lvlu1-7]: 2005/631/EG: Entscheidung der Kommission vom 29. August 2005 über grundlegende Anforderungen in Sinne der Richtlinie 1999/5/EG des Europäischen Parlaments und des Rates zur Sicherstellung des Zugangs von Cospas-Sarsat-Ortungsbaken zu Notfalldiensten, Fassung gemäss ABl. L 225 vom 31.8.2005, S. 28.
+[^annex1-lvlu1-8]: Delegierte Verordnung (EU) 2019/320 der Kommission vom 12. Dezember 2018 zur Ergänzung der Richtlinie 2014/53/EU des Europäischen Parlaments und des Rates hinsichtlich der Anwendung der in Artikel 3 Absatz 3 Buchstabe g der Richtlinie genannten grundlegenden Anforderungen zur Gewährleistung der Anruferstandortbestimmung bei Notrufen über Mobilgeräte, Fassung gemäss ABl. L 55 vom 25.2.2019, S. 1.
+[^annex1-lvlu1-9]: Verordnung (EU) 2017/745 des Europäischen Parlaments und des Rates vom 5. April 2017 über Medizinprodukte, zur Änderung der Richtlinie 2001/83/EG, der Verordnung (EG) Nr. 178/2002 und der Verordnung (EG) Nr. 1223/2009 und zur Aufhebung der Richtlinien 90/385/EWG und 93/42/EWG des Rates, ABl. L 117 vom 5.5.2017, S. 1; zuletzt geändert durch die Verordnung (EU) 2020/561, ABl. L 130 vom 24.4.2020, S. 18.
+[^annex1-lvlu1-10]: Verordnung (EU) 2017/746 des Europäischen Parlaments und des Rates vom 5. April 2017 über In-vitro-Diagnostika und zur Aufhebung der Richtlinie 98/79/EG und des Beschlusses 2010/227/EU der Kommission, ABl. L 117 vom 5.5.2017, S. 176; zuletzt geändert durch die Verordnung (EU) 2022/112, ABl. L 19 vom 28.1.2022, S. 3.
+[^annex1-lvlu1-11]: Delegierte Verordnung (EU) 2022/30 der Kommission vom 29. Oktober 2021 zur Ergänzung der Richtlinie 2014/53/EU des Europäischen Parlaments und des Rates im Hinblick auf die Anwendung der grundlegenden Anforderungen, auf die in Artikel 3 Absatz 3 Buchstaben d, e und f der Richtlinie Bezug genommen wird, Fassung gemäss ABl. L 7 vom 12.1.2022, S. 6.
+[^annex1-lvlu1-12]: Siehe Fussnote zu Ziff. 7
+[^annex1-lvlu1-13]: [SR 817.023.11](https://fedlex.data.admin.ch/eli/cc/2012/573)
+[^annex1-lvlu1-14]: Siehe Fussnote zu Ziff. 7
+[^annex1-lvlu1-15]: Siehe Fussnote zu Ziff. 7
+[^annex1-lvlu1-16]: Verordnung (EU) 2018/1139 des Europäischen Parlaments und des Rates vom 4. Juli 2018 zur Festlegung gemeinsamer Vorschriften für die Zivilluftfahrt und zur Errichtung einer Agentur der Europäischen Union für Flugsicherheit sowie zur Änderung der Verordnungen (EG) Nr. 2111/2005, (EG) Nr. 1008/2008, (EU) Nr. 996/2010, (EU) Nr. 376/2014 und der Richtlinien 2014/30/EU und 2014/53/EU des Europäischen Parlaments und des Rates, und zur Aufhebung der Verordnungen (EG) Nr. 552/2004 und (EG) Nr. 216/2008 des Europäischen Parlaments und des Rates und der Verordnung (EWG) Nr. 3922/91 des Rates, in der für die Schweiz verbindlichen Fassung gemäss Ziffer 3 des Anhangs zum Abkommen vom 21. Juni 1999 zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Luftverkehr ([SR 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
+[^annex1-lvlu1-17]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^annex1-lvlu1-18]: Richtlinie (EU) 2019/520 des Europäischen Parlaments und des Rates vom 19. März 2019 über die Interoperabilität elektronischer Mautsysteme und die Erleichterung des grenzüberschreitenden Informationsaustauschs über die Nichtzahlung von Strassenbenutzungsgebühren in der Union; zuletzt geändert durch die Richtlinie (EU) 2022/362, ABl. L 69 vom 4.3.2022, S. 1.
+[^annex1-lvlu1-19]: Richtlinie (EU) 2019/713 des Europäischen Parlaments und des Rates vom 17. April 2019 zur Bekämpfung von Betrug und Fälschung im Zusammenhang mit unbaren Zahlungsmitteln und zur Ersetzung des Rahmenbeschlusses 2001/413/JI des Rates, Fassung gemäss ABl. L 123 vom 10.5.2019, S. 18.
+[^annex1-lvlu1-20]: Siehe Fussnote zu Ziff. 7
+[^annex1-lvlu1-21]: Siehe Fussnote zu Ziff. 7
+[^annex1-lvlu1-22]: Siehe Fussnote zu Ziff. 8
+[^annex1-lvlu1-23]: Siehe Fussnote zu Ziff. 8
+[^annex1-lvlu1-24]: Siehe Fussnote zu Ziff. 8
+[^annex1-lvlu1-25]: Siehe Fussnote zu Ziff. 7
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 (Art. 2 Abs. 1)
 
-## Anwendbare technische Vorschriften nach Artikel 3 Absatz 1 FAV für Schnittstellen****
+## Anwendbare technische Vorschriften nach Artikel 3 Absatz 1 FAV für Schnittstellen
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Fassung gemäss Ziff. II der V des BAKOM vom 18. Nov. 2020 ([AS 2020 5277](https://fedlex.data.admin.ch/eli/oc/2020/913)). Bereinigt gemäss Ziff. I der V des BAKOM vom 23. März 2021 ([AS 2021 196](https://fedlex.data.admin.ch/eli/oc/2021/196)), Ziff. II der V des BAKOM vom 5. Juli 2021 ([AS 2021 475](https://fedlex.data.admin.ch/eli/oc/2021/475)), Ziff. I der V des BAKOM vom 11. Nov. 2021 ([AS 2021 738](https://fedlex.data.admin.ch/eli/oc/2021/738)) und vom 21. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 203](https://fedlex.data.admin.ch/eli/oc/2022/203)).
+[^t-2]: Fassung gemäss Ziff. II der V des BAKOM vom 18. Nov. 2020 ([AS 2020 5277](https://fedlex.data.admin.ch/eli/oc/2020/913)). Bereinigt gemäss Ziff. I der V des BAKOM vom 23. März 2021 ([AS 2021 196](https://fedlex.data.admin.ch/eli/oc/2021/196)), Ziff. II der V des BAKOM vom 5. Juli 2021 ([AS 2021 475](https://fedlex.data.admin.ch/eli/oc/2021/475)), Ziff. I der V des BAKOM vom 11. Nov. 2021 ([AS 2021 738](https://fedlex.data.admin.ch/eli/oc/2021/738)), vom 21. März 2022 ([AS 2022 203](https://fedlex.data.admin.ch/eli/oc/2022/203)) und Ziff. II Abs. 2 der V des BAKOM vom 21. Juli 2022, in Kraft seit 1. Sept. 2022 ([AS 2022 437](https://fedlex.data.admin.ch/eli/oc/2022/437)).
 [^annex2-lvlu1-1]: Die anwendbaren Vorschriften für Schnittstellen können beim Bundesamt für Kommunikation, Zukunftstrasse 44, Postfach, 2501 Biel, bezogen werden und sind im Internet unter folgender Adresse abrufbar: www.bakom.ch &gt; Das BAKOM &gt; Rechtliche Grundlagen &gt; Vollzugspraxis &gt; Geräte und Anlagen &gt; Technische Schnittstellenanforderungen (RIR).
 
 <table>
@@ -203,7 +239,7 @@ Anhang 2*[^t-2]*
 <tr><td>RIR0201</td><td>Terrestrische Rundfunksender</td><td>16</td></tr>
 <tr><td>RIR0203</td><td>Funkanwendungen für Programmerstellung und bei Veranstaltungen (PMSE)</td><td>21</td></tr>
 <tr><td>RIR0301</td><td>Punkt-zu-Multipunkt-Richtfunkanlagen</td><td>11</td></tr>
-<tr><td>RIR0302</td><td>Punkt-zu-Punkt-Richtfunkanlagen</td><td>28</td></tr>
+<tr><td>RIR0302</td><td>Punkt-zu-Punkt-Richtfunkanlagen</td><td>29</td></tr>
 <tr><td>RIR0501</td><td>Digitale zellulare Telefonie</td><td>18</td></tr>
 <tr><td>RIR0503</td><td>Drahtlose Telefone</td><td>9</td></tr>
 <tr><td>RIR0504</td><td>Funkanlagen für Notfalldienste</td><td>11</td></tr>
@@ -230,7 +266,7 @@ Anhang 2*[^t-2]*
 <tr><td>RIR1009</td><td>Drahtlose Mikrofonanlagen</td><td>25</td></tr>
 <tr><td>RIR1010</td><td>Breitband-Datenübertragungssysteme</td><td>18</td></tr>
 <tr><td>RIR1011</td><td>Hochfrequenz-Identifikationsanlagen (RFID)</td><td>12</td></tr>
-<tr><td>RIR1012</td><td>Transport- und Verkehrstelematik (TTT)</td><td>15</td></tr>
+<tr><td>RIR1012</td><td>Transport- und Verkehrstelematik (TTT)</td><td>16</td></tr>
 <tr><td>RIR1013</td><td>Drahtlose Audioanlagen</td><td>16</td></tr>
 <tr><td>RIR1021</td><td>Fernsteuern, Fernmessen und Datenübertragung mit höheren Leistungen</td><td>12</td></tr>
 <tr><td>RIR1023</td><td>Ultra-Breitband-Anwendungen (UWB)</td><td>11</td></tr>
@@ -252,7 +288,7 @@ Anhang 3
 
 [^annex3-lvlu1-1]: Siehe Anhang 2.
 
-Anhang 4*[^t-3]*
+Anhang 4[^t-3]
 
 (Art. 4 Abs. 1)
 
@@ -301,11 +337,11 @@ Anhang 4*[^t-3]*
   - a. yy: die beiden letzten Ziffern des Ausstellungsjahrs der Zulassung;
   - b. iiii: individuelle vierstellige Zahl.
 
-Anhang 5*[^t-4]*
+Anhang 5[^t-4]
 
 (Art. 4 Abs. 2 und Art. 6)
 
-## Verschiedene technische und administrative Vorschriften****
+## Verschiedene technische und administrative Vorschriften
 
 [^annex5-lvlu1-1]
 
@@ -320,7 +356,7 @@ Anhang 5*[^t-4]*
 <tr><td>TAV 5.4 (Art. 4 Abs. 2)</td><td>Technische und administrative Vorschriften betreffend die Funkanlagen, die dazu bestimmt sind, zur Wahrung der öffentlichen Sicherheit von Behörden betrieben zu werden: Ortungs- und Überwachungssysteme sowie Daten- und Sprechfunkanlagen</td><td>3</td></tr>
 </table>
 
-Anhang 6*[^t-5]*
+Anhang 6[^t-5]
 
 (Art. 2*a*)
 
@@ -332,7 +368,7 @@ Anhang 6*[^t-5]*
 
 <sup>2</sup> Es enthält das folgende Symbol:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20220501/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20220901/de/xml/image/image1.png)
 
 <sup>3</sup> Für eine Funkanlage, die das schweizerische Konformitätskennzeichen gemäss Anhang 1 Ziffer 1 FAV trägt, enthält es neben oder unter dem Symbol gemäss Absatz 2 die Abkürzung der Schweiz (CH).
 
@@ -350,13 +386,13 @@ Anhang 6*[^t-5]*
 <sup>7</sup> Beispiel mit informativem Charakter:
 
 <table>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20220501/de/xml/image/image1.png)</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20220901/de/xml/image/image1.png)</td></tr>
 <tr><td>CH</td><td>FR</td><td>ES</td></tr>
 <tr><td>IT</td><td>DK</td><td>DE</td></tr>
 </table>
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20220501/de/xml/image/image1.png)</td><td>CH</td><td>IT</td><td>DE</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20220901/de/xml/image/image1.png)</td><td>CH</td><td>IT</td><td>DE</td></tr>
 </table>
 
 [^annex6-lvlu1-1]: Durchführungsverordnung (EU) 2017/1354 der Kommission vom 20. Juli 2017 zur Festlegung der Aufmachung von Informationen gemäss Artikel 10 Absatz 10 der Richtlinie 2014/53/EU des Europäischen Parlaments und des Rates, Fassung gemäss ABl. L 190 vom 21.7.2017, S. 7.
