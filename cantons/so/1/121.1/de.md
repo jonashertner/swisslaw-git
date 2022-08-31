@@ -3,20 +3,20 @@ canton: SO
 number: "121.1"
 title: Kantonsratsgesetz
 language: de
-version: 2022-01-01
-valid_until: 2022-08-31
-version_adopted: 2021-12-15
+version: 2022-09-01
+valid_until: 2025-07-31
+version_adopted: 2022-06-28
 adopted: 1989-09-24
 in_force: 1990-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/121.1"
-pdf: "https://bgs.so.ch/api/de/versions/5194/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5263/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Kantonsratsgesetz
 
-Vom 24.09.1989 (Stand 01.01.2022)
+Vom 24.09.1989 (Stand 01.09.2022)
 
 Der Kantonsrat von Solothurn
 
@@ -58,7 +58,47 @@ beschliesst:
 
 **Beratungs- und Beschlussfähigkeit**
 
-<sup>1</sup> Zur gültigen Beratung und Beschlussfassung muss die absolute Mehrheit der Mitglieder anwesend sein.
+<sup>1</sup> Zur gültigen Beratung und Beschlussfassung muss die absolute Mehrheit der Mitglieder anwesend sein. Als anwesend gilt, wer sich entweder vor Ort befindet oder via Fernteilnahme gemäss § 5<sup>bis</sup> teilnimmt.
+
+#### § 5bis
+
+**Teilnahme an Debatten und Abstimmungen im Pandemiefall und in Krisensituationen**
+
+<sup>1</sup> Die Ratsleitung kann für einzelne Kantonsratssitzungen zulassen, dass Ratsmitglieder via Fernteilnahme an Debatten und Abstimmungen teilnehmen können, sofern
+
+- a) eine Pandemie laut Bundesrecht oder eine vergleichbare Krisensituation im Sinne einer Katastrophe oder Notlage gemäss Bevölkerungs- und Zivilschutzgesetz[^5bis-1] vorliegt und
+- b) den betroffenen Ratsmitgliedern nachgewiesenermassen eine Anwesenheit vor Ort an der Sitzung infolge höherer Gewalt oder aus anderen unverschuldeten Gründen nicht möglich ist.
+
+<sup>2</sup> Als unverschuldeter Grund im Sinne von Absatz 1 gilt
+
+- a) eine behördlich verfügte Quarantäne oder Isolation;
+- b) ein ärztliches Attest, wonach eine Anwesenheit vor Ort ein Risiko für die betroffene Person oder andere darstellt;
+- c) das Fehlen eines aufgrund eines Schutzkonzepts allenfalls vorgeschriebenen Impf- oder Testnachweises;
+- d) eine Verhinderung an der Teilnahme aus logistischen oder organisatorischen Gründen, die auf das interessierende Ereignis zurückzuführen sind.
+
+<sup>3</sup> Über die Möglichkeit zur Fernteilnahme beschliesst die Ratsleitung spätestens 5 Tage vor Beginn der jeweiligen Session. Ein solcher Beschluss umfasst alle Sitzungen der betreffenden Session.
+
+<sup>4</sup> Ratsmitglieder, die via Fernteilnahme an der Sitzung teilnehmen wollen, haben bis spätestens um 12.00 Uhr am Vortag der Sitzung ein begründetes Gesuch bei den Parlamentsdiensten einzureichen. Über das Gesuch und das Vorliegen der Voraussetzungen nach Absatz 2 entscheidet das Kantonsratspräsidium. Über erteilte Bewilligungen wird bei Sitzungsbeginn informiert.
+
+<sup>5</sup> Der Ratssekretär oder die Ratssekretärin sowie ein Stimmenzähler oder eine Stimmenzählerin prüfen und protokollieren vor Sitzungsbeginn und vor jeder Abstimmung mittels Video-Authentifizierung die Identität der via Fernteilnahme abstimmenden Ratsmitglieder.
+
+<sup>6</sup> Debatten und Abstimmungen werden nicht wiederholt, wenn aus technischen Gründen Wortmeldungen, Stimmabgaben oder eine Video-Authentifizierung via Fernteilnahme nicht möglich sind.
+
+[^5bis-1]: SR [520.1](https://db.clex.ch/link/Bund/520.1/de).
+
+#### § 5ter
+
+**Sitzungen von kantonsrätlichen Kommissionen per Videokonferenz und Zirkularbeschlüsse**
+
+<sup>1</sup> Sitzungen der Kommissionen des Kantonsrats erfolgen grundsätzlich mit physischer Präsenz der Ratsmitglieder, d.h. mit Anwesenheit am Sitzungsort.
+
+<sup>2</sup> Ausnahmsweise können Sitzungen per Videokonferenz durchgeführt oder die Beschlüsse auf dem Zirkularweg gefasst werden, sofern
+
+- a) die Ratsleitung aufgrund einer Pandemie laut Bundesrecht oder einer vergleichbaren Krisensituation Beschlüsse per Videokonferenz oder auf dem Zirkularweg für einen bestimmten Zeitraum erlaubt;
+- b) 2/3 der Kommissionsmitglieder die Durchführung per Videokonferenz oder Zirkularbeschluss verlangen und nur höchstens drei Geschäfte zu behandeln sind, die sich zudem für eine solche Beschlussfassung eignen;
+- c) die Beschlussfassung dringlich ist.
+
+<sup>3</sup> Die Ratsleitung kann die Anforderungen an die zu nutzenden Informatikplattformen definieren.
 
 #### § 6
 
