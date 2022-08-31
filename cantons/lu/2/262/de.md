@@ -4,13 +4,13 @@ number: "262"
 title: "Verordnung zum Gesetz über die Organisation der Gerichte und Behörden in Zivil-, Straf- und verwaltungsgerichtlichen Verfahren"
 short: "Justizverordnung, JusV"
 language: de
-version: 2021-09-01
-valid_until: 2022-08-31
-version_adopted: 2021-05-03
+version: 2022-09-01
+valid_until: 2025-12-31
+version_adopted: 2022-05-10
 adopted: 2013-03-26
 in_force: 2013-06-01
 url: "https://srl.lu.ch/app/de/texts_of_law/262"
-pdf: "https://srl.lu.ch/api/de/versions/3815/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3954/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3815/pdf_file"
 
 (Justizverordnung, JusV)
 
-vom 26.03.2013 (Stand 01.09.2021)
+vom 26.03.2013 (Stand 01.09.2022)
 
 Das Kantonsgericht des Kantons Luzern,
 
@@ -746,7 +746,7 @@ beschliesst:
 
 **Verhältnis Richterinnen und Richter–Gerichtsschreiberinnen und Gerichtsschreiber**
 
-<sup>1</sup> Das Verhältnis der Stellenprozente zwischen Richterstellen (ohne Einrechnung der Abteilungspräsidentinnen und -präsidenten) und Gerichtsschreiberstellen soll an den Bezirksgerichten grundsätzlich 1:1 betragen.
+<sup>1</sup> An den Bezirksgerichten wird ein Verhältnis der Stellenprozente zwischen Richterstellen und Gerichtsschreiberstellen von 1:1 angestrebt.
 
 <sup>2</sup> Die Gruppe erstinstanzliche Gerichte kann Abweichungen von bis zu 50 Stellenprozenten pro Gericht selbständig vornehmen. Sie hat dabei die Budgetlimiten zu beachten.
 
