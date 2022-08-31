@@ -3,20 +3,20 @@ canton: SG
 number: "320.31"
 title: Taxordnung des Kantonsspitals St.Gallen
 language: de
-version: 2021-09-01
-valid_until: 2022-08-31
-version_adopted: 2021-07-01
+version: 2022-09-01
+valid_until: 2023-12-31
+version_adopted: 2022-07-06
 adopted: 2016-12-15
 in_force: 2017-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/320.31"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3208/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3390/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Taxordnung des Kantonsspitals St.Gallen
 
-vom 15.12.2016 (Stand 01.09.2021)
+vom 15.12.2016 (Stand 01.09.2022)
 
 Der Verwaltungsrat der Spitalverbunde
 
@@ -50,6 +50,12 @@ als Taxordnung:[^ingress-2]
 #### Art. 3
 
 **…**
+
+#### Art. 3bis
+
+**Pauschalpreisreglement für Selbstzahlerinnen und Selbstzahler**
+
+<sup>1</sup> Die Geschäftsleitung des Kantonsspitals St.Gallen erlässt gestützt auf diesen Erlass und den Taxtarif ein Pauschalpreisreglement für Selbstzahlerinnen und Selbstzahler.
 
 #### Art. 4
 
