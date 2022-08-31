@@ -4,11 +4,11 @@ title: "Ordonnance 1 du 11 août 1999 sur l'asile relative à la procédure (Ord
 short: OA 1
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/359"
 language: fr
-version: 2022-01-01
+version: 2022-09-01
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/359/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1999-359-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/359/20220901/fr/xml/fedlex-data-admin-ch-eli-cc-1999-359-20220901-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20220901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20220101/fr"
 
 (Ordonnance 1 sur l’asile, OA 1)
 
-du 11 août 1999 (Etat le 1<sup>er</sup> janvier 2022)
+du 11 août 1999 (État le 1<sup>er</sup> septembre 2022)
 
 Le Conseil fédéral suisse,
 
@@ -28,7 +28,7 @@ arrête:
 [^ingress-1]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
 [^ingress-2]: Nouvelle expression selon le ch. I de l’O du 24 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5577](https://fedlex.data.admin.ch/eli/oc/2007/767)). Il a été tenu compte de cette mod. dans tout le texte.
 
-## Chapitre 1**** Champ d’application et définitions
+## Chapitre 1 Champ d’application et définitions
 
 [^chap1-1]
 
@@ -350,7 +350,7 @@ Le SEM peut également autoriser l’entrée en Suisse:
 [^12-1]: Nouvelle teneur selon le ch. I de l’O du 24 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5577](https://fedlex.data.admin.ch/eli/oc/2007/767)).
 [^12-2]: Nouvelle teneur selon le ch. I de l’O du 8 juin 2018, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)).
 
-### Section 2*a* Centres de la Confédération****
+### Section 2*a* Centres de la Confédération
 
 [^chap2-sec2a-1]
 
@@ -735,23 +735,26 @@ Le SEM peut prononcer une décision de non-entrée en matière en vertu de l’a
 
 [^32-1]
 
-<sup>1</sup> Le renvoi de Suisse ne peut être prononcé lorsque le requérant d’asile
+<sup>1</sup>
+
+Le renvoi ne peut être prononcé lorsque le requérant d’asile:[^32-2]
 
 - a. est titulaire d’une autorisation de séjour ou d’établissement valable;
-- b. fait l’objet d’une décision d’extradition, ou
-- c.[^32-2] fait l’objet d’une décision d’expulsion conformément à l’art. 121, al. 2, de la Constitution[^32-3] ou 68 LEI[^32-4], ou
-- d.[^32-5] fait l’objet d’une décision exécutoire d’expulsion pénale au sens de l’art. 66*a* ou 66*a*<sup>bis</sup> du code pénal[^32-6] ou 49*a* ou 49*a*<sup>bis</sup> du code pénal militaire du 13 juin 1927[^32-7].
+- b. fait l’objet d’une décision d’extradition,
+- c.[^32-3] fait l’objet d’une décision d’expulsion conformément à l’art. 121, al. 2, de la Constitution[^32-4] ou 68 LEI[^32-5], ou
+- d.[^32-6] fait l’objet d’une décision exécutoire d’expulsion pénale au sens de l’art. 66*a* ou 66*a*<sup>bis</sup> du code pénal[^32-7] ou 49*a* ou 49*a*<sup>bis</sup> du code pénal militaire du 13 juin 1927[^32-8].
 
-<sup>2</sup> Pour les cas visés à l’al. 1, let. c et d, l’autorité cantonale peut demander l’avis du SEM sur les éventuels empêchements à l’exécution du renvoi.[^32-8]
+<sup>2</sup> Pour les cas visés à l’al. 1, let. c et d, l’autorité cantonale peut demander l’avis du SEM sur les éventuels empêchements à l’exécution du renvoi.[^32-9]
 
 [^32-1]: Nouvelle teneur selon le ch. I 4 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
-[^32-2]: Nouvelle teneur selon le ch. I 4 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
-[^32-3]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^32-4]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^32-5]: Introduite par le ch. I 4 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
-[^32-6]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^32-7]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^32-8]: Introduit par le ch. I 4 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^32-2]: Nouvelle teneur selon le ch. I de l’O du 29 juin 2022, en vigueur depuis le 1<sup>er</sup> sept. 2022 ([RO 2022 460](https://fedlex.data.admin.ch/eli/oc/2022/460)).
+[^32-3]: Nouvelle teneur selon le ch. I 4 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^32-4]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^32-5]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^32-6]: Introduite par le ch. I 4 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^32-7]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^32-8]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^32-9]: Introduit par le ch. I 4 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
 
 #### Art. 33
 
@@ -979,13 +982,13 @@ L’étranger qui, conformément à l’art. 29 LAsi, a déjà été entendu ava
 
 [^52-1]: Nouvelle teneur selon le ch. I de l’O du 8 juin 2018, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)).
 
-## Chapitre 5 Voies de droit et procédure de recours****
+## Chapitre 5 Voies de droit et procédure de recours
 
 [^chap5-1]
 
 [^chap5-1]: Anciennement avant l’art. 53. Nouvelle teneur selon le ch. I de l’O du 8 juin 2018, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)).
 
-### Section 1**** Principes des voies de droit
+### Section 1 Principes des voies de droit
 
 [^chap5-sec1-1]
 
@@ -1003,11 +1006,27 @@ L’étranger qui, conformément à l’art. 29 LAsi, a déjà été entendu ava
 
 <sup>3</sup> Lorsque plusieurs prestataires ont été mandatés et que plusieurs bureaux de conseil juridique ont été habilités, la qualité du conseil et de la représentation juridique doit être assurée moyennant notamment une coordination adéquate.
 
-### Section 2**** Voies de droit à l’aéroport et dans les centres de la Confédération
+### Section 2 Voies de droit à l’aéroport et dans les centres de la Confédération
 
 [^chap5-sec2-1]
 
 [^chap5-sec2-1]: Introduite par le ch. I de l’O du 8 juin 2018, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)).
+
+#### Art. 52a<sup>bis</sup>
+
+**Information sur le mécanisme de traitement des plaintes de l’agence de l’Union européenne compétente en matière de surveillance des frontières extérieures Schengen**[^52abis-1]
+
+### (art. 102*g*, al. 3, LAsi)
+
+<sup>1</sup> <sup>1</sup> Durant son séjour dans un centre de la Confédération ou à l’aéroport, le requérant d’asile est informé dans le cadre du conseil au sens de l’art. 102*g* LAsi de la possibilité de déposer, auprès de l’Agence européenne de garde-frontières et de garde-côtes (Agence), une plainte concernant des violations des droits fondamentaux en relation avec des interventions de cette agence.
+
+<sup>2</sup> Le requérant est notamment informé du mécanisme de traitement des plaintes de l’Agence visé à l’art. 111 du règlement (UE) 2019/1896[^52abis-2] et des possibles violations des droits fondamentaux inscrits dans la Charte des droits fondamentaux de l’Union européenne[^52abis-3].
+
+<sup>3</sup> Les prestataires mandatés veillent à ce que les informations soient adaptées aux besoins des requérants d’asile et leur soit fournie dès que possible après le dépôt de leur demande.
+
+[^52abis-1]: Introduit par le ch. I de l’O du 29 juin 2022, en vigueur depuis le 1<sup>er</sup> sept. 2022 ([RO 2022 460](https://fedlex.data.admin.ch/eli/oc/2022/460)).
+[^52abis-2]: Règlement (UE) 2019/1896 du Parlement européen et du Conseil du 13 novembre 2019 relatif au corps européen de garde-frontières et de garde-côtes et abrogeant les règlements (UE) n<sup>o</sup> 1052/2013 et (UE) 2016/1624, version selon JO L 295 du 14.11. 2019, p. 1
+[^52abis-3]: Charte des droits fondamentaux de l’Union européenne, JO C 326 du 26.10.2012, p. 391
 
 #### Art. 52b
 
@@ -1027,11 +1046,26 @@ L’étranger qui, conformément à l’art. 29 LAsi, a déjà été entendu ava
 
 <sup>6</sup>
 
-Outre les tâches visées à l’art. 102*k*, al. 1, let. a à f, LAsi, le représentant juridique à l’aéroport accomplit notamment les tâches suivantes:
+Outre les tâches visées à l’art. 102*k*, al. 1, let. a à g, LAsi, le représentant juridique à l’aéroport accomplit notamment les tâches suivantes:[^52b-1]
 
 - a. participation à l’audition sommaire conformément à l’art. 22, al. 1, LAsi;
 - b. représentation juridique lors de l’octroi du droit d’être entendu conformément à l’art. 22, al. 4, LAsi;
 - c. avis sur le projet de décision d’asile négative conformément à l’art. 52*d*.
+
+[^52b-1]: Nouvelle teneur selon le ch. I de l’O du 29 juin 2022, en vigueur depuis le 1<sup>er</sup> sept. 2022 ([RO 2022 460](https://fedlex.data.admin.ch/eli/oc/2022/460)).
+
+#### Art. 52b<sup>bis</sup>
+
+**Conseil et aide lors du dépôt d’une plainte auprès de l’Agence**[^52bbis-1]
+
+### (art. 102*k*, al. 1, let. g, LAsi)
+
+<sup>1</sup> Si un requérant d’asile fait valoir que des actions ou l’inaction du personnel participant à une intervention de l’Agence ont porté atteinte à ses droits fondamentaux, le représentant juridique désigné l’aide et le conseille, dans les centres de la Confédération et à l’aéroport, en vue du dépôt d’une plainte écrite selon l’art. 111 du règlement (UE) 2019/1896[^52bbis-2].
+
+<sup>2</sup> Le conseil et l’aide visés à l’al. 1 sont assurés jusqu’à la date de la transmission définitive de la plainte à l’Agence.
+
+[^52bbis-1]: Introduit par le ch. I de l’O du 29 juin 2022, en vigueur depuis le 1<sup>er</sup> sept. 2022 ([RO 2022 460](https://fedlex.data.admin.ch/eli/oc/2022/460)).
+[^52bbis-2]: Cf. note de bas de page relative à l’art. 52*a*<sup>bis</sup>, al. 2.
 
 #### Art. 52c
 
@@ -1061,7 +1095,7 @@ Outre les tâches visées à l’art. 102*k*, al. 1, let. a à f, LAsi, le repr�
 
 Lorsque le représentant juridique désigné dans le centre de la Confédération ou à l’aéroport n’est pas disposé à déposer un recours parce que celui-ci serait voué à l’échec, il informe le requérant d’asile des autres possibilités de conseil et de représentation juridique.
 
-### Section 3**** Voies de droit dans la procédure étendue après l’attribution à un canton
+### Section 3 Voies de droit dans la procédure étendue après l’attribution à un canton
 
 [^chap5-sec3-1]
 
@@ -1071,11 +1105,15 @@ Lorsque le représentant juridique désigné dans le centre de la Confédératio
 
 **Conseil et représentation juridique dans la procédure étendue**
 
-### (art. 102*l*, al. 1 et 3, LAsi)
+### (art. 102*l*, al. 1, 1<sup>bis</sup> et 3 LAsi)
+
+[^52f-1]
 
 <sup>1</sup> Lors de l’entretien de départ précédant l’attribution au canton en vue de mener la procédure étendue, le représentant juridique désigné informe le requérant d’asile de la suite de la procédure d’asile et des possibilités de conseil et de représentation juridique dans le cadre de la procédure étendue.
 
 <sup>2</sup> Une fois attribué au canton en vue de mener la procédure étendue, le requérant d’asile peut s’adresser au bureau de conseil juridique compétent du canton d’attribution pour être conseillé ou représenté lors des étapes de la procédure de première instance déterminantes pour la décision d’asile.
+
+<sup>2bis</sup> Il peut s’adresser au bureau de conseil juridique compétent de son canton d’attribution pour être conseillé et aidé au sens de l’art. 52*b*<sup>bis</sup>.[^52f-2]
 
 <sup>3</sup>
 
@@ -1087,6 +1125,9 @@ Le représentant juridique désigné dans le centre de la Confédération ou à 
 <sup>4</sup> Le prestataire fait savoir au SEM, au plus tard lorsque le requérant d’asile sort du centre de la Confédération ou de l’aéroport, si le représentant juridique désigné dans le centre reste à la disposition du requérant d’asile dans le cadre de la procédure étendue.
 
 <sup>5</sup> Si le requérant d’asile renonce au représentant juridique désigné, il peut s’adresser au bureau de conseil juridique compétent du canton d’attribution pour être conseillé ou représenté lors des étapes de la procédure de première instance déterminantes pour la décision d’asile.
+
+[^52f-1]: Nouvelle teneur selon le ch. I de l’O du 29 juin 2022, en vigueur depuis le 1<sup>er</sup> sept. 2022 ([RO 2022 460](https://fedlex.data.admin.ch/eli/oc/2022/460)).
+[^52f-2]: Introduit par le ch. I de l’O du 29 juin 2022, en vigueur depuis le 1<sup>er</sup> sept. 2022 ([RO 2022 460](https://fedlex.data.admin.ch/eli/oc/2022/460)).
 
 #### Art. 52g
 
@@ -1139,7 +1180,7 @@ Lors de l’évaluation des conditions visées à l’al. 2, le SEM tient compte
 
 Les bureaux de conseil juridique et le SEM procèdent à un échange d’informations régulier, en vue notamment de coordonner les tâches et d’assurer la qualité.
 
-### Section 4 Procédure de recours au niveau fédéral****
+### Section 4 Procédure de recours au niveau fédéral
 
 [^chap5-sec4-1]
 
@@ -1174,7 +1215,7 @@ Lorsqu’un requérant d’asile mineur non accompagné ne dispose ni d’un tut
 
 L’ordonnance 1 du 22 mai 1991 sur l’asile est abrogée[^54-1].
 
-[^54-1]: [[RO 1991 1138](https://fedlex.data.admin.ch/eli/oc/1991/1138_1138_1138), [1992 1618](https://fedlex.data.admin.ch/eli/oc/1992/1618_1618_1618), [1995 5043](https://fedlex.data.admin.ch/eli/oc/1995/5043_5043_5043), [1997 2775](https://fedlex.data.admin.ch/eli/oc/1997/2775_2775_2775)]
+[^54-1]: [[RO 1991 1138](https://fedlex.data.admin.ch/eli/oc/1991/1138_1138_1138); [1992 1618](https://fedlex.data.admin.ch/eli/oc/1992/1618_1618_1618); [1995 5043](https://fedlex.data.admin.ch/eli/oc/1995/5043_5043_5043); [1997 2775](https://fedlex.data.admin.ch/eli/oc/1997/2775_2775_2775)]
 
 #### Art. 55
 
@@ -1216,7 +1257,7 @@ En dérogation à l’art. 30, al. 1, la validité des titres N établis avant l
 [^56-3]: Introduit par le ch. I de l’O du 5 juin 2015, en vigueur depuis le 29 sept. 2015 ([RO 2015 2049](https://fedlex.data.admin.ch/eli/oc/2015/380)).
 [^56-4]: Introduit par le ch. I de l’O du 5 juin 2015, en vigueur depuis le 29 sept. 2015 ([RO 2015 2049](https://fedlex.data.admin.ch/eli/oc/2015/380)).
 
-## Dispositions finales de la modification du 13 décembre 1999****
+## Dispositions finales de la modification du 13 décembre 1999
 
 [^u1-1]
 
@@ -1226,7 +1267,7 @@ En l’an 2000, le canton de Genève se verra attribuer 5,4 % et le canton de Va
 
 [^u1-2]: Nouvelle teneur selon le ch. I de l’O du 8 juin 2018, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)).
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 1, al. 2)
 
@@ -1246,7 +1287,7 @@ Les accords d’association à Dublin comprennent les accords suivants:
 [^annex1-lvlu1-3]: [RS 0.142.393.141](https://fedlex.data.admin.ch/eli/cc/2008/777)
 [^annex1-lvlu1-4]: [RS 0.142.395.141](https://fedlex.data.admin.ch/eli/cc/2011/195)
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 (art. 2)
 
@@ -1284,7 +1325,7 @@ Annexe 2*[^t-2]*
 <tr><td>Luxembourg</td><td></td></tr>
 </table>
 
-Annexe 3*[^t-3]*
+Annexe 3[^t-3]
 
 (art. 21, al. 3)
 

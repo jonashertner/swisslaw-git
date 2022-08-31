@@ -4,11 +4,11 @@ title: "Ordinanza 1 dell' 11 agosto 1999 sull'asilo relativa a questioni procedu
 short: OAsi 1
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/359"
 language: it
-version: 2022-01-01
+version: 2022-09-01
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/359/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1999-359-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/359/20220901/it/xml/fedlex-data-admin-ch-eli-cc-1999-359-20220901-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20220901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20220101/it"
 
 (Ordinanza 1 sull’asilo, OAsi 1)
 
-dell’11 agosto 1999 (Stato 1° gennaio 2022)
+dell’11 agosto 1999 (Stato 1° settembre 2022) (Stato 1° settembre 2022)
 
 Il Consiglio federale svizzero,
 
@@ -28,7 +28,7 @@ ordina:
 [^ingress-1]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
 [^ingress-2]: Nuova espr. giusta il n. I 4 dell’O del 22 ott. 2008 (Schengen/Dublino), in vigore dal 12 dic. 2008 ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)). Di detta mod. é tenuto conto in tutto il presente testo.
 
-## Capitolo 1:**** Campo d’applicazione e definizioni
+## Capitolo 1: Campo d’applicazione e definizioni
 
 [^chap1-1]
 
@@ -357,7 +357,7 @@ La SEM può parimenti autorizzare l’entrata se:
 [^12-1]: Nuovo testo giusta il n. I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5577](https://fedlex.data.admin.ch/eli/oc/2007/767)).
 [^12-2]: Nuovo testo giusta il n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)).
 
-### Sezione 2*a*: Centri della Confederazione****
+### Sezione 2*a*: Centri della Confederazione
 
 [^chap2-sec2a-1]
 
@@ -744,23 +744,24 @@ La SEM può emanare una decisione di non entrata nel merito conformemente all’
 
 <sup>1</sup>
 
-L’allontanamento dalla Svizzera non è deciso se il richiedente l’asilo:
+L’allontanamento non è deciso se il richiedente l’asilo:[^32-2]
 
 - a. possiede un permesso di soggiorno o di dimora valido;
-- b. è colpito da una decisione di estradizione; o
-- c.[^32-2] è colpito da una decisione di espulsione secondo l’articolo 121 capoverso 2 della Costituzione federale[^32-3] o l’articolo 68 LStrI[^32-4]; o
-- d.[^32-5] è colpito da una decisione di espulsione ai sensi dell’articolo 66*a* o 66*a*<sup>bis</sup> del Codice penale[^32-6] oppure dell’articolo 49*a* o 49*a*<sup>bis</sup> del Codice penale militare del 13 giugno 1927[^32-7] (espulsione giudiziaria) passata in giudicato.
+- b. è colpito da una decisione di estradizione;
+- c.[^32-3] è colpito da una decisione di espulsione secondo l’articolo 121 capoverso 2 della Costituzione federale[^32-4] o l’articolo 68 LStrI[^32-5]; o
+- d.[^32-6] è colpito da una decisione di espulsione ai sensi dell’articolo 66*a* o 66*a*<sup>bis</sup> del Codice penale[^32-7] oppure dell’articolo 49*a* o 49*a*<sup>bis</sup> del Codice penale militare del 13 giugno 1927[^32-8] (espulsione giudiziaria) passata in giudicato.
 
-<sup>2</sup> Nei casi di cui al capoverso 1 lettere c e d, l’autorità cantonale può sentire il parere della SEM circa eventuali impedimenti all’esecuzione.[^32-8]
+<sup>2</sup> Nei casi di cui al capoverso 1 lettere c e d, l’autorità cantonale può sentire il parere della SEM circa eventuali impedimenti all’esecuzione.[^32-9]
 
 [^32-1]: Nuovo testo giusta il n. I 4 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
-[^32-2]: Nuovo testo giusta il n. I 4 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
-[^32-3]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^32-4]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^32-5]: Introdotta dal n. I 4 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
-[^32-6]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^32-7]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^32-8]: Introdotto dal n. I 4 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^32-2]: Nuovo testo giusta il n. I dell’O del 29 giu. 2022, in vigore dal 1° set. 2022 ([RU 2022 460](https://fedlex.data.admin.ch/eli/oc/2022/460)).
+[^32-3]: Nuovo testo giusta il n. I 4 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^32-4]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^32-5]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^32-6]: Introdotta dal n. I 4 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^32-7]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^32-8]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^32-9]: Introdotto dal n. I 4 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
 
 #### Art. 33
 
@@ -991,13 +992,13 @@ Se lo straniero è già stato sentito prima della concessione della protezione p
 
 [^52-1]: Nuovo testo giusta il n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)).
 
-## Capitolo 5: Tutela giurisdizionale e procedura di ricorso****
+## Capitolo 5: Tutela giurisdizionale e procedura di ricorso
 
 [^chap5-1]
 
 [^chap5-1]: Originario avanti art. 53. Nuovo testo giusta il n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)).
 
-### Sezione 1:**** Principi della tutela giurisdizionale
+### Sezione 1: Principi della tutela giurisdizionale
 
 [^chap5-sec1-1]
 
@@ -1015,11 +1016,27 @@ Se lo straniero è già stato sentito prima della concessione della protezione p
 
 <sup>3</sup> Se sono stati incaricati più fornitori di prestazioni e autorizzati più consultori giuridici, la qualità della consulenza e della rappresentanza legale deve essere garantita in particolare mediante un coordinamento adeguato.
 
-### Sezione 2:**** Tutela giurisdizionale all’aeroporto e nei centri della Confederazione
+### Sezione 2: Tutela giurisdizionale all’aeroporto e nei centri della Confederazione
 
 [^chap5-sec2-1]
 
 [^chap5-sec2-1]: Introdotta dal n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)).
+
+#### Art. 52a<sup>bis</sup>
+
+**Informazione sul meccanismo di denuncia all’Agenzia dell’Unione europea responsabile della sorveglianza delle frontiere esterne Schengen**[^52abis-1]
+
+### (art. 102*g* cpv. 3 LAsi)
+
+<sup>1</sup> Durante il soggiorno nei centri della Confederazione o all’aeroporto, i richiedenti l’asilo vengono informati, nel quadro della consulenza secondo l’articolo 102*g* LAsi, in merito alle possibilità di presentare una denuncia all’Agenzia europea della guardia di frontiera e costiera (Agenzia) rispetto a violazioni dei diritti fondamentali nel quadro degli interventi di quest’ultima.
+
+<sup>2</sup> L’informazione comprende in particolare il meccanismo di denuncia all’Agenzia secondo l’articolo 111 del regolamento (UE) 2019/1896[^52abis-2] e l’accertamento di possibili violazioni dei diritti fondamentali secondo la Carta dei diritti fondamentali dell’Unione europea[^52abis-3].
+
+<sup>3</sup> I fornitori di prestazioni incaricati provvedono affinché l’informazione sia adeguata alle esigenze delle persone interessate e avvenga il prima possibile dopo la presentazione della domanda d’asilo.
+
+[^52abis-1]: Introdotto dal n. I dell’O del 29 giu. 2022, in vigore dal 1° set. 2022 ([RU 2022 460](https://fedlex.data.admin.ch/eli/oc/2022/460)).
+[^52abis-2]: Regolamento (UE) 2019/1896 del Parlamento europeo e del Consiglio, del 13 novembre 2019, relativo alla guardia di frontiera e costiera europea e che abroga i regolamenti (UE) n. 1052/2013 e (UE) 2016/1624, versione della GU L 295 del 14.11.2019, pag. 1.
+[^52abis-3]: Carta dei diritti fondamentali dell’Unione europea, GU C 326 del 26.10.2012, pag. 391.
 
 #### Art. 52b
 
@@ -1039,11 +1056,26 @@ Se lo straniero è già stato sentito prima della concessione della protezione p
 
 <sup>6</sup>
 
-Oltre ai compiti di cui all’articolo 102*k* capoverso 1 lettere a–f LAsi, la rappresentanza legale all’aeroporto svolge segnatamente i compiti seguenti:
+Oltre ai compiti di cui all’articolo 102*k* capoverso 1 lettere a–g LAsi, la rappresentanza legale all’aeroporto svolge segnatamente i compiti seguenti:[^52b-1]
 
 - a. partecipare all’interrogatorio sommario conformemente all’articolo 22 capoverso 1 LAsi;
 - b. assicurare la rappresentanza legale nel quadro della concessione del diritto di essere sentito conformemente all’articolo 22 capoverso 4 LAsi;
 - c. presentare un parere in merito alla bozza di decisione negativa sull’asilo conformemente all’articolo 52*d*.
+
+[^52b-1]: Nuovo testo giusta il n. I dell’O del 29 giu. 2022, in vigore dal 1° set. 2022 ([RU 2022 460](https://fedlex.data.admin.ch/eli/oc/2022/460)).
+
+#### Art. 52b<sup>bis</sup>
+
+**Consulenza e sostegno nel quadro della presentazione di una denuncia all’Agenzia**[^52bbis-1]
+
+### (art. 102*k* cpv. 1 lett. g LAsi)
+
+<sup>1</sup> Il richiedente l’asilo che fa valere una violazione dei propri diritti fondamentali dovuta ad azioni od omissioni del personale che partecipa a un intervento dell’Agenzia riceve consulenza e sostegno da parte della rappresentanza legale assegnata presso i centri della Confederazione e l’aeroporto per la presentazione di una denuncia scritta secondo l’articolo 111 del regolamento (UE) 2019/1896[^52bbis-2].
+
+<sup>2</sup> La consulenza e il sostegno di cui al capoverso 1 durano fino al momento della definitiva trasmissione della denuncia all’Agenzia.
+
+[^52bbis-1]: Introdotto dal n. I dell’O del 29 giu. 2022, in vigore dal 1° set. 2022 ([RU 2022 460](https://fedlex.data.admin.ch/eli/oc/2022/460)).
+[^52bbis-2]: Cfr. nota a piè di pagina relativa all’art. 52*a*<sup>bis</sup> cpv. 2.
 
 #### Art. 52c
 
@@ -1073,7 +1105,7 @@ Oltre ai compiti di cui all’articolo 102*k* capoverso 1 lettere a–f LAsi, la
 
 Se non intende interporre ricorso in quanto privo di possibilità di successo, il rappresentante legale assegnato nei centri della Confederazione e all’aeroporto informa il richiedente l’asilo in merito alle ulteriori possibilità di consulenza e rappresentanza legale.
 
-### Sezione 3:**** Tutela giurisdizionale nella procedura ampliata dopo l’attribuzione ai Cantoni
+### Sezione 3: Tutela giurisdizionale nella procedura ampliata dopo l’attribuzione ai Cantoni
 
 [^chap5-sec3-1]
 
@@ -1083,11 +1115,15 @@ Se non intende interporre ricorso in quanto privo di possibilità di successo, i
 
 **Consulenza e rappresentanza legale nella procedura ampliata**
 
-### (art. 102*l* cpv. 1 e 3 LAsi)
+### (art. 102*l* cpv 1, 1<sup>bis</sup> e 3 LAsi)
+
+[^52f-1]
 
 <sup>1</sup> Prima dell’attribuzione al Cantone per lo svolgimento della procedura ampliata, nel quadro del colloquio sulla partenza il rappresentante legale assegnato informa il richiedente l’asilo sul proseguimento della procedura d’asilo e sulle possibilità di consulenza e rappresentanza legale nella procedura ampliata.
 
 <sup>2</sup> Dopo l’attribuzione al Cantone per lo svolgimento della procedura ampliata, il richiedente l’asilo può rivolgersi al consultorio giuridico autorizzato del Cantone d’attribuzione per la consulenza e la rappresentanza legale nelle fasi della procedura di prima istanza rilevanti per la decisione.
+
+<sup>2bis</sup> Dopo l’attribuzione al Cantone, il richiedente l’asilo può rivolgersi al consultorio giuridico autorizzato del Cantone d’attribuzione per la consulenza e il sostegno di cui all’articolo 52*b*<sup>bis</sup>.[^52f-2]
 
 <sup>3</sup>
 
@@ -1099,6 +1135,9 @@ La rappresentanza legale assegnata nel centro della Confederazione o all’aerop
 <sup>4</sup> Il fornitore di prestazioni comunica alla SEM, al più tardi al momento dell’uscita dai centri della Confederazione o dall’aeroporto, se la rappresentanza legale assegnata nel centro sarà disponibile anche nella procedura ampliata.
 
 <sup>5</sup> Se rinuncia alla rappresentanza legale assegnatagli, il richiedente l’asilo può rivolgersi al consultorio giuridico autorizzato del Cantone d’attribuzione per la consulenza e la rappresentanza legale nelle fasi della procedura di prima istanza rilevanti per la decisione.
+
+[^52f-1]: Nuovo testo giusta il n. I dell’O del 29 giu. 2022, in vigore dal 1° set. 2022 ([RU 2022 460](https://fedlex.data.admin.ch/eli/oc/2022/460)).
+[^52f-2]: Introdotto dal n. I dell’O del 29 giu. 2022, in vigore dal 1° set. 2022 ([RU 2022 460](https://fedlex.data.admin.ch/eli/oc/2022/460)).
 
 #### Art. 52g
 
@@ -1151,7 +1190,7 @@ Nel quadro della valutazione delle condizioni di cui al capoverso 2, la SEM cons
 
 I consultori giuridici e la SEM si scambiano regolarmente informazioni, in particolare per coordinare i compiti e garantire la qualità.
 
-### Sezione 4: Procedura di ricorso a livello federale****
+### Sezione 4: Procedura di ricorso a livello federale
 
 [^chap5-sec4-1]
 
@@ -1233,7 +1272,7 @@ In deroga all’articolo 30 capoverso 1, le carte di soggiorno N rilasciate entr
 [^56-4]: Introdotto dal n. I dell’O del 5 giu. 2015, in vigore dal 29 set. 2015 ([RU 2015 2049](https://fedlex.data.admin.ch/eli/oc/2015/380)).
 [^56-5]: Introdotto dal n. I dell’O del 5 giu. 2015, in vigore dal 29 set. 2015 ([RU 2015 2049](https://fedlex.data.admin.ch/eli/oc/2015/380)).
 
-## Disposizione finale della modifica del 13 dicembre 1999****
+## Disposizione finale della modifica del 13 dicembre 1999
 
 [^u1-1]
 
@@ -1243,7 +1282,7 @@ Nel 2000 il 5,4 per cento e l’8,6 per cento dei richiedenti l’asilo registra
 
 [^u1-2]: Nuova espr. giusta il n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)).
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 1 cpv. 2)
 
@@ -1263,7 +1302,7 @@ Gli Accordi di associazione alla normativa di Dublino comprendono gli accordi se
 [^annex1-lvlu1-3]: [RS 0.142.393.141](https://fedlex.data.admin.ch/eli/cc/2008/777)
 [^annex1-lvlu1-4]: [RS 0.142.395.141](https://fedlex.data.admin.ch/eli/cc/2011/195)
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 (art. 2)
 
@@ -1300,7 +1339,7 @@ Allegato 2*[^t-2]*
 <tr><td>Macedonia del Nord</td><td></td></tr>
 </table>
 
-Allegato 3*[^t-3]*
+Allegato 3[^t-3]
 
 (art. 21 cpv. 3)
 

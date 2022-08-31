@@ -4,11 +4,11 @@ title: "Asylverordnung 1 vom 11. August 1999 über Verfahrensfragen (Asylverordn
 short: AsylV 1
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/359"
 language: de
-version: 2022-01-01
+version: 2022-09-01
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/359/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1999-359-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/359/20220901/de/xml/fedlex-data-admin-ch-eli-cc-1999-359-20220901-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20220901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20220101/de"
 
 (Asylverordnung 1, AsylV 1)
 
-vom 11. August 1999 (Stand am 1. Januar 2022)
+vom 11. August 1999 (Stand am 1. September 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -28,7 +28,7 @@ verordnet:
 [^ingress-1]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
 [^ingress-2]: Ausdruck gemäss Ziff. I 4 der V vom 22. Okt. 2008 (Schengen und Dublin), in Kraft seit 12. Dez. 2008 ([AS 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)). Die Anpassung wurde im ganzen Text vorgenommen.
 
-## 1. Kapitel:**** Geltungsbereich und Begriffe
+## 1. Kapitel: Geltungsbereich und Begriffe
 
 [^chap1-1]
 
@@ -354,7 +354,7 @@ Das SEM kann die Einreise auch bewilligen, wenn:
 [^12-2]: Fassung gemäss Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ([AS 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)).
 [^12-3]: Fassung gemäss Ziff. I 3 der V vom 12. Juni 2015 über die Anpassung von Verordnungen aufgrund von Neuerungen bezüglich des Dublin/Eurodac-Besitzstands, in Kraft seit 1. Juli 2015 ([AS 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
 
-### 2*a*. Abschnitt: Zentren des Bundes****
+### 2*a*. Abschnitt: Zentren des Bundes
 
 [^chap2-sec2a-1]
 
@@ -739,23 +739,24 @@ Das SEM kann einen Nichteintretensentscheid nach Artikel 31*a* Absatz 1 Buchstab
 
 <sup>1</sup>
 
-Die Wegweisung aus der Schweiz wird nicht verfügt, wenn die asylsuchende Person:
+Die Wegweisung wird nicht verfügt, wenn die asylsuchende Person:[^32-2]
 
 - a. im Besitze einer gültigen Aufenthalts- oder Niederlassungsbewilligung ist;
-- b. von einer Auslieferungsverfügung betroffen ist; oder
-- c.[^32-2] von einer Ausweisungsverfügung nach Artikel 121 Absatz 2 der Bundesverfassung[^32-3] oder nach Artikel 68 AIG[^32-4] betroffen ist; oder
-- d.[^32-5] von einer rechtskräftigen Landesverweisung nach Artikel 66*a* oder 66*a*<sup>bis</sup> des Strafgesetzbuchs[^32-6] oder Artikel 49*a* oder 49*a*<sup>bis</sup> des Militärstrafgesetzes vom 13. Juni 1927[^32-7] betroffen ist.
+- b. von einer Auslieferungsverfügung betroffen ist;
+- c.[^32-3] von einer Ausweisungsverfügung nach Artikel 121 Absatz 2 der Bundesverfassung[^32-4] oder nach Artikel 68 AIG[^32-5] betroffen ist; oder
+- d.[^32-6] von einer rechtskräftigen Landesverweisung nach Artikel 66*a* oder 66*a*<sup>bis</sup> des Strafgesetzbuchs[^32-7] oder Artikel 49*a* oder 49*a*<sup>bis</sup> des Militärstrafgesetzes vom 13. Juni 1927[^32-8] betroffen ist.
 
-<sup>2</sup> In den Fällen nach Absatz 1 Buchstaben c und d kann die kantonale Behörde beim SEM eine Stellungnahme zu allfälligen Vollzugshindernissen einholen.[^32-8]
+<sup>2</sup> In den Fällen nach Absatz 1 Buchstaben c und d kann die kantonale Behörde beim SEM eine Stellungnahme zu allfälligen Vollzugshindernissen einholen.[^32-9]
 
 [^32-1]: Fassung gemäss Ziff. I 4 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung, in Kraft seit 1. März 2017 ([AS 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
-[^32-2]: Fassung gemäss Ziff. I 4 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung, in Kraft seit 1. März 2017 ([AS 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
-[^32-3]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^32-4]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^32-5]: Eingefügt durch Ziff. I 4 der V vom 1. Febr. 2017 über die Einführung der Lan-desverweisung, in Kraft seit 1. März 2017 ([AS 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
-[^32-6]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^32-7]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^32-8]: Eingefügt durch Ziff. I 4 der V vom 1. Febr. 2017 über die Einführung der Lan-desverweisung, in Kraft seit 1. März 2017 ([AS 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^32-2]: Fassung gemäss Ziff. I der V vom 29. Juni 2022, in Kraft seit 1. Sept. 2022 ([AS 2022 460](https://fedlex.data.admin.ch/eli/oc/2022/460)).
+[^32-3]: Fassung gemäss Ziff. I 4 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung, in Kraft seit 1. März 2017 ([AS 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^32-4]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^32-5]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^32-6]: Eingefügt durch Ziff. I 4 der V vom 1. Febr. 2017 über die Einführung der Lan-desverweisung, in Kraft seit 1. März 2017 ([AS 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^32-7]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^32-8]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^32-9]: Eingefügt durch Ziff. I 4 der V vom 1. Febr. 2017 über die Einführung der Lan-desverweisung, in Kraft seit 1. März 2017 ([AS 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
 
 #### Art. 33
 
@@ -980,13 +981,13 @@ Wurde die ausländische Person bereits vor der Gewährung des vorübergehenden S
 
 [^52-1]: Ursprüngllich vor Art. 53. Fassung gemäss Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ([AS 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)).
 
-## 5. Kapitel: Rechtsschutz und Beschwerdeverfahren****
+## 5. Kapitel: Rechtsschutz und Beschwerdeverfahren
 
 [^chap5-1]
 
 [^chap5-1]: Fassung gemäss Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ([AS 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)).
 
-### 1. Abschnitt:**** Grundsätze des Rechtsschutzes
+### 1. Abschnitt: Grundsätze des Rechtsschutzes
 
 [^chap5-sec1-1]
 
@@ -1004,11 +1005,27 @@ Wurde die ausländische Person bereits vor der Gewährung des vorübergehenden S
 
 <sup>3</sup> Wurden mehrere Leistungserbringer beauftragt und mehrere Rechtsberatungsstellen zugelassen, ist die Qualität der Beratung und Rechtsvertretung insbesondere durch eine angemessene Koordination sicherzustellen.
 
-### 2. Abschnitt:**** Rechtsschutz am Flughafen und in den Zentren des Bundes
+### 2. Abschnitt: Rechtsschutz am Flughafen und in den Zentren des Bundes
 
 [^chap5-sec2-1]
 
 [^chap5-sec2-1]: Eingefügt durch Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ([AS 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)).
+
+#### Art. 52a<sup>bis</sup>
+
+**Information zum Beschwerdeverfahren bei der für die Überwachung der Schengen-Aussengrenzen zuständigen Agentur der Europäischen Union**[^52abis-1]
+
+### (Art. 102*g* Abs. 3 AsylG)
+
+<sup>1</sup> Während des Aufenthaltes in den Zentren des Bundes oder am Flughafen werden die Asylsuchenden im Rahmen der Beratung nach Artikel 102*g* AsylG zu den Beschwerdemöglichkeiten bei der Europäischen Agentur für die Grenz- und Küstenwache (Agentur) in Bezug auf Grundrechtsverletzungen im Zusammenhang mit Einsätzen der Agentur informiert.
+
+<sup>2</sup> Die Information umfasst namentlich den Beschwerdemechanismus bei der Agentur gemäss Artikel 111 der Verordnung (EU) 2019/1896[^52abis-2] sowie die Aufklärung hinsichtlich möglicher Verletzungen der Grundrechte gemäss der Charta der Grundrechte der Europäischen Union[^52abis-3].
+
+<sup>3</sup> Die beauftragten Leistungserbringer stellen sicher, dass die Information den Bedürfnissen der Betroffenen angemessen ist und so früh wie möglich nach der Einreichung des Asylgesuchs erfolgt.
+
+[^52abis-1]: Eingefügt durch Ziff. I der V vom 29. Juni 2022, in Kraft seit 1. Sept. 2022 ([AS 2022 460](https://fedlex.data.admin.ch/eli/oc/2022/460)).
+[^52abis-2]: Verordnung (EU) 2019/1896 des Europäischen Parlaments und des Rates vom 13. November 2019 über die Europäische Grenz- und Küstenwache und zur Aufhebung der Verordnung (EU) 1052/2013 des Europäischen Parlaments und des Rates und der Verordnung (EU) 2016/1624 des Europäischen Parlaments und des Rates, Fassung gemäss ABl. L 295 vom 14.11.2019, S. 1.
+[^52abis-3]: Charta der Grundrechte der Europäischen Union, ABl. C 326 vom 26.10.2012, S. 391.
 
 #### Art. 52b
 
@@ -1028,11 +1045,26 @@ Wurde die ausländische Person bereits vor der Gewährung des vorübergehenden S
 
 <sup>6</sup>
 
-Zusätzlich zu den Aufgaben gemäss Artikel 102*k* Absatz 1 Buchstaben a bis f AsylG erfüllt die Rechtsvertretung am Flughafen namentlich folgende Aufgaben:
+Zusätzlich zu den Aufgaben gemäss Artikel 102*k* Absatz 1 Buchstaben a–g AsylG erfüllt die Rechtsvertretung am Flughafen namentlich folgende Aufgaben:[^52b-1]
 
 - a. Teilnahme an der summarischen Befragung gemäss Artikel 22 Absatz 1 AsylG;
 - b. Wahrnehmung der Rechtsvertretung bei der Gewährung des rechtlichen Gehörs gemäss Artikel 22 Absatz 4 AsylG;
 - c. Stellungnahme zum Entwurf eines ablehnenden Asylentscheids gemäss Artikel 52*d*.
+
+[^52b-1]: Fassung gemäss Ziff. I der V vom 29. Juni 2022, in Kraft seit 1. Sept. 2022 ([AS 2022 460](https://fedlex.data.admin.ch/eli/oc/2022/460)).
+
+#### Art. 52b<sup>bis</sup>
+
+**Beratung und Unterstützung bei der Einreichung einer Beschwerde bei der Agentur**[^52bbis-1]
+
+### (Art. 102*k* Abs. 1 Bst. g AsylG)
+
+<sup>1</sup> Macht eine asylsuchende Person geltend, aufgrund von Tätigkeiten oder Unterlassungen des an einem Einsatz der Agentur beteiligten Personals in ihren Grundrechten verletzt worden zu sein, wird diese in den Zentren des Bundes und am Flughafen durch die zugewiesene Rechtsvertretung bei der Einreichung einer schriftlichen Beschwerde gemäss Artikel 111 der Verordnung (EU) 2019/1896[^52bbis-2] beraten und unterstützt.
+
+<sup>2</sup> Die Beratung und Unterstützung nach Absatz 1 dauert bis zum Zeitpunkt der abschliessenden Übermittlung der Beschwerde an die Agentur.
+
+[^52bbis-1]: Eingefügt durch Ziff. I der V vom 29. Juni 2022, in Kraft seit 1. Sept. 2022 ([AS 2022 460](https://fedlex.data.admin.ch/eli/oc/2022/460)).
+[^52bbis-2]: Siehe Fussnote zu Art. 52*a*<sup>bis</sup> Abs. 2.
 
 #### Art. 52c
 
@@ -1062,7 +1094,7 @@ Zusätzlich zu den Aufgaben gemäss Artikel 102*k* Absatz 1 Buchstaben a bis f A
 
 Ist die zugewiesene Rechtvertretung in den Zentren des Bundes und am Flughafen wegen Aussichtslosigkeit nicht gewillt, eine Beschwerde einzureichen, so informiert sie die asylsuchende Person über weitere Möglichkeiten der Beratung und Rechtsvertretung.
 
-### 3. Abschnitt:**** Rechtsschutz im erweiterten Verfahren nach Zuweisung auf die Kantone
+### 3. Abschnitt: Rechtsschutz im erweiterten Verfahren nach Zuweisung auf die Kantone
 
 [^chap5-sec3-1]
 
@@ -1072,11 +1104,15 @@ Ist die zugewiesene Rechtvertretung in den Zentren des Bundes und am Flughafen w
 
 **Beratung und Rechtsvertretung im erweiterten Verfahren**
 
-### (Art. 102*l* Abs. 1 und 3 AsylG)
+### (Art. 102*l* Abs. 1, 1<sup>bis</sup> und 3 AsylG)
+
+[^52f-1]
 
 <sup>1</sup> Vor der Zuweisung auf den Kanton zur Durchführung des erweiterten Verfahrens informiert die zugewiesene Rechtsvertretung die asylsuchende Person im Rahmen des Austrittsgesprächs über den weiteren Verlauf des Asylverfahrens und über die Möglichkeiten der Beratung und Rechtsvertretung im erweiterten Verfahren.
 
 <sup>2</sup> Nach der Zuweisung auf den Kanton zur Durchführung des erweiterten Verfahrens kann sich die asylsuchende Person für die Beratung und Rechtsvertretung bei entscheidrelevanten Schritten im erstinstanzlichen Verfahren an die im Zuweisungskanton zugelassene Rechtsberatungsstelle wenden.
+
+<sup>2bis</sup> Nach der Zuweisung auf den Kanton kann sich die asylsuchende Person für die Beratung und Unterstützung nach Artikel 52*b*<sup>bis</sup> an die im Zuweisungskanton zugelassene Rechtsberatungsstelle wenden.[^52f-2]
 
 <sup>3</sup>
 
@@ -1088,6 +1124,9 @@ Die im Zentrum des Bundes oder am Flughafen zugewiesene Rechtsvertretung kann au
 <sup>4</sup> Der Leistungserbringer teilt dem SEM bis spätestens zum Zeitpunkt des Austritts aus den Zentren des Bundes oder dem Flughafen mit, ob die im Zentrum zugewiesene Rechtsvertretung auch im erweiterten Verfahren zur Verfügung steht.
 
 <sup>5</sup> Verzichtet die asylsuchende Person auf die zugewiesene Rechtsvertretung, so kann sie sich für die Beratung und Vertretung bei entscheidrelevanten Schritten im erstinstanzlichen Verfahren an die im Zuweisungskanton zugelassene Rechtsberatungsstelle wenden.
+
+[^52f-1]: Fassung gemäss Ziff. I der V vom 29. Juni 2022, in Kraft seit 1. Sept. 2022 ([AS 2022 460](https://fedlex.data.admin.ch/eli/oc/2022/460)).
+[^52f-2]: Eingefügt durch Ziff. I der V vom 29. Juni 2022, in Kraft seit 1. Sept. 2022 ([AS 2022 460](https://fedlex.data.admin.ch/eli/oc/2022/460)).
 
 #### Art. 52g
 
@@ -1140,7 +1179,7 @@ Bei der Beurteilung der Voraussetzungen gemäss Absatz 2 berücksichtigt das SEM
 
 Zwischen den Rechtsberatungsstellen und dem SEM findet ein regelmässiger Informationsaustausch statt, namentlich zur Koordination der Aufgaben und zur Qualitätssicherung.
 
-### 4. Abschnitt: Beschwerdeverfahren auf Bundesebene****
+### 4. Abschnitt: Beschwerdeverfahren auf Bundesebene
 
 [^chap5-sec4-1]
 
@@ -1217,7 +1256,7 @@ Ausweise N, die bis zum 30. Juni 2021 ausgestellt werden, haben abweichend von A
 [^56-3]: Eingefügt durch Ziff. I der V vom 5. Juni 2015, in Kraft seit 29. Sept. 2015 ([AS 2015 2049](https://fedlex.data.admin.ch/eli/oc/2015/380)).
 [^56-4]: Eingefügt durch Ziff. I der V vom 5. Juni 2015, in Kraft seit 29. Sept. 2015 ([AS 2015 2049](https://fedlex.data.admin.ch/eli/oc/2015/380)).
 
-## Schlussbestimmung zur Änderung vom 13. Dezember 1999****
+## Schlussbestimmung zur Änderung vom 13. Dezember 1999
 
 [^u1-1]
 
@@ -1227,7 +1266,7 @@ Im Jahr 2000 werden dem Kanton Genf 5,4 Prozent und dem Kanton Waadt 8,6 Prozent
 
 [^u1-2]: Ausdruck gemäss Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ([AS 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)).
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 1 Abs. 2)
 
@@ -1247,7 +1286,7 @@ Die Dublin-Assoziierungsabkommen umfassen:
 [^annex1-lvlu1-3]: [SR 0.142.393.141](https://fedlex.data.admin.ch/eli/cc/2008/777)
 [^annex1-lvlu1-4]: [SR 0.142.395.141](https://fedlex.data.admin.ch/eli/cc/2011/195)
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 (Art. 2)
 
@@ -1285,7 +1324,7 @@ Anhang 2*[^t-2]*
 <tr><td>Montenegro</td><td></td></tr>
 </table>
 
-Anhang 3*[^t-3]*
+Anhang 3[^t-3]
 
 (Art. 21 Abs. 3)
 
