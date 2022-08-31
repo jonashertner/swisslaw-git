@@ -4,11 +4,11 @@ title: "Lescha d'asil dals 26 da zercladur 1998 (LAsil)"
 short: LAsil
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/358"
 language: rm
-version: 2022-06-01
+version: 2022-09-01
 adopted: 1998-06-26
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/358/20220601/rm/xml/fedlex-data-admin-ch-eli-cc-1999-358-20220601-rm-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20220601/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/358/20220901/rm/xml/fedlex-data-admin-ch-eli-cc-1999-358-20220901-rm-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20220901/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (LAsil)
 
-dals 26 da zercladur 1998 (versiun dal 1. da zercladur 2022)
+dals 26 da zercladur 1998 (versiun dal 1. da settember 2022)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -434,7 +434,7 @@ El permetta d’entrar en Svizra, sche la Svizra è cumpetenta per realisar la p
 [^23-2]: Versiun tenor la cifra I da la LF dals 14 da dec. 2012, en vigur dapi il 1. da favr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 [^23-3]: Versiun tenor la cifra I da la LF dals 25 da sett. 2015, en vigur dapi il 1. da mars 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 
-### 2*a*. secziun Centers da la Confederaziun****
+### 2*a*. secziun Centers da la Confederaziun
 
 [^chap2-sec2a-1]
 
@@ -597,7 +597,7 @@ La procedura en vista ad ina decisiun tenor l’artitgel 31*a* alinea 1 litera b
 
 **Procedura accelerada**[^26c-1]
 
-Cur che la fasa preparatorica è terminada, suonda immediatamain la procedura accelerada cun l’audiziun davart ils motivs d’asil u cun la concessiun da l’attenziun giuridica tenor l’artitgel 36. Il Cussegl federal fixescha ils singuls pass da la procedura.
+Cura che la fasa preparatorica è terminada, suonda immediatamain la procedura accelerada cun l’audiziun davart ils motivs d’asil u cun la concessiun da l’attenziun giuridica tenor l’artitgel 36. Il Cussegl federal fixescha ils singuls pass da la procedura.
 
 [^26c-1]: Integrà tras la cifra I da la LF dals 25 da sett. 2015, en vigur dapi il 1. da mars 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 
@@ -858,7 +858,7 @@ Tgi che ha fatg ina dumonda d’asil en Svizra, dastga sa trategnair en Svizra f
 [^43-6]: Integrà tras la cifra I da la LF dals 16 da dec. 2005, en vigur dapi il 1. da schan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 [^43-7]: Versiun tenor la cifra I da la LF dals 25 da sett. 2015, en vigur dapi il 1. da mars 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 
-### 5. secziun Execuziun da la spedida e mesiras substitutivas****
+### 5. secziun Execuziun da la spedida e mesiras substitutivas
 
 [^chap2-sec5-1]
 
@@ -887,28 +887,30 @@ Sch’il SEM refusa la dumonda d’asil u n’entra betg sin la dumonda, dispona
 
 La disposiziun da spedida cuntegna:
 
-- a. l’obligaziun dal requirent d’asil da bandunar la Svizra;
-- b. il termin, fin il qual el sto avair bandunà la Svizra; sch’i vegn ordinada in’admissiun provisorica, vegn il termin da partenza fixà pir cur che questa mesira vegn abolida;
-- c.[^45-2] la smanatscha da meds da sforz;
+- a.[^45-2] cun resalva da contracts internaziunals, en spezial da las cunvegnas d’associaziun a la reglamentaziun da Dublin[^45-3], l’obligaziun dal requirent d’asil da bandunar la Svizra ed il territori da Schengen sco er l’obligaziun da cuntinuar cun ses viadi fin en il stadi da derivanza u en in ulteriur stadi che sa chatta ordaifer il territori da Schengen e che recepescha la persuna;
+- b.[^45-4] cun resalva da contracts internaziunals, en spezial da las cunvegnas d’associaziun a la reglamentaziun da Dublin, il termin, fin il qual la persuna sto avair bandunà la Svizra ed il territori da Schengen; sch’i vegn ordinada in’admissiun provisorica, vegn il termin da partenza fixà pir, cura che questa mesira vegn abolida;
+- c.[^45-5] la smanatscha da meds da sforz;
 - d. eventualmain la designaziun dals stadis, nua ch’il requirent d’asil na dastga betg vegnir tramess enavos;
 - e. eventualmain l’ordinaziun d’ina mesira substitutiva empè da l’execuziun;
 - f. la designaziun dal chantun ch’è cumpetent per exequir la spedida u la mesira substitutiva.
 
-<sup>2</sup> Cun la disposiziun da spedida sto vegnir fixà in termin da partenza adequat tranter 7 e 30 dis. En cas da decisiuns prendidas en la procedura accelerada importa il termin da partenza 7 dis. En la procedura extendida importa il termin tranter 7 e 30 dis.[^45-3]
+<sup>2</sup> Cun la disposiziun da spedida sto vegnir fixà in termin da partenza adequat tranter 7 e 30 dis. En cas da decisiuns prendidas en la procedura accelerada importa il termin da partenza 7 dis. En la procedura extendida importa il termin tranter 7 e 30 dis.[^45-6]
 
-<sup>2bis</sup> Sche circumstanzas spezialas, sco la situaziun famigliara, problems da la sanadad u ina lunga durada da la dimora, pretendan quai, vegn fixà in termin da partenza pli lung u vegn prolungà il termin da partenza.[^45-4]
+<sup>2bis</sup> Sche circumstanzas spezialas, sco la situaziun famigliara, problems da la sanadad u ina lunga durada da la dimora, pretendan quai, vegn fixà in termin da partenza pli lung u vegn prolungà il termin da partenza.[^45-7]
 
-<sup>3</sup> La spedida po vegnir exequida immediatamain u i po vegnir fixà in termin da partenza da main che 7 dis, sche la persuna pertutgada vegn spedida or da la Svizra sin basa da las cunvegnas d’associaziun a la reglamentaziun da Dublin[^45-5].[^45-6]
+<sup>3</sup> La spedida po vegnir exequida immediatamain u i po vegnir fixà in termin da partenza da main che 7 dis, sche la persuna pertutgada vegn spedida sin basa da las cunvegnas d’associaziun a la reglamentaziun da Dublin.[^45-8]
 
-<sup>4</sup> Al requirent d’asil sto vegnir surdà in fegl d’infurmaziun cun explicaziuns davart la disposiziun da spedida.[^45-7]
+<sup>4</sup> Al requirent d’asil sto vegnir surdà in fegl d’infurmaziun cun explicaziuns davart la disposiziun da spedida.[^45-9]
 
 [^45-1]: Versiun tenor l’art. 2 cifra 2 dal COF dals 18 da zer. 2010 concernent la surpigliada da la Directiva da repatriament da la CE (Directiva 2008/115/CE), en vigur dapi il 1. da schan. 2011 ([AS 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [BBl 2009 8881](https://fedlex.data.admin.ch/eli/fga/2009/1528)).
-[^45-2]: Versiun tenor la cifra I da la LF dals 25 da sett. 2015, en vigur dapi il 1. da mars 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
-[^45-3]: Versiun tenor la cifra I da la LF dals 25 da sett. 2015, en vigur dapi il 1. da mars 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
-[^45-4]: Integrà tras la cifra I da la LF dals 25 da sett. 2015, en vigur dapi il 1. da mars 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
-[^45-5]: Questas cunvegnas èn inditgadas en l’agiunta 1.
-[^45-6]: Integrà tras l’art. 2 cifra 2 dal COF dals 18 da zer. 2010 concernent la surpigliada da la Directiva da repatriament da la CE (Directiva 2008/115/CE), en vigur dapi il 1. da schan. 2011 ([AS 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [BBl 2009 8881](https://fedlex.data.admin.ch/eli/fga/2009/1528)).
-[^45-7]: Integrà tras l’art. 2 cifra 2 dal COF dals 18 da zer. 2010 concernent la surpigliada da la Directiva da repatriament da la CE (Directiva 2008/115/CE), en vigur dapi il 1. da schan. 2011 ([AS 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [BBl 2009 8881](https://fedlex.data.admin.ch/eli/fga/2009/1528)).
+[^45-2]: Versiun tenor la cifra I da la LF dal 1. d’oct. 2021, en vigur dapi il 1. da sett. 2022 ([AS 2022 459](https://fedlex.data.admin.ch/eli/oc/2022/459); [BBl 2020 7105](https://fedlex.data.admin.ch/eli/fga/2020/1902)).
+[^45-3]: Questas cunvegnas èn inditgadas en l’agiunta 1.
+[^45-4]: Versiun tenor la cifra I da la LF dal 1. d’oct. 2021, en vigur dapi il 1. da sett. 2022 ([AS 2022 459](https://fedlex.data.admin.ch/eli/oc/2022/459); [BBl 2020 7105](https://fedlex.data.admin.ch/eli/fga/2020/1902)).
+[^45-5]: Versiun tenor la cifra I da la LF dals 25 da sett. 2015, en vigur dapi il 1. da mars 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^45-6]: Versiun tenor la cifra I da la LF dals 25 da sett. 2015, en vigur dapi il 1. da mars 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^45-7]: Integrà tras la cifra I da la LF dals 25 da sett. 2015, en vigur dapi il 1. da mars 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^45-8]: Integrà tras l’art. 2 cifra 2 dal COF dals 18 da zer. 2010 concernent la surpigliada da la Directiva da repatriament da la CE (Directiva 2008/115/CE) ([AS 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [BBl 2009 8881](https://fedlex.data.admin.ch/eli/fga/2009/1528)). Versiun tenor la cifra I da la LF dal 1. d’oct. 2021, en vigur dapi il 1. da sett. 2022 ([AS 2022 459](https://fedlex.data.admin.ch/eli/oc/2022/459); [BBl 2020 7105](https://fedlex.data.admin.ch/eli/fga/2020/1902)).
+[^45-9]: Integrà tras l’art. 2 cifra 2 dal COF dals 18 da zer. 2010 concernent la surpigliada da la Directiva da repatriament da la CE (Directiva 2008/115/CE), en vigur dapi il 1. da schan. 2011 ([AS 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [BBl 2009 8881](https://fedlex.data.admin.ch/eli/fga/2009/1528)).
 
 #### Art. 46
 
@@ -1300,7 +1302,7 @@ Nagina protecziun provisorica na vegn concedida, sche la persuna cun basegn da p
 
 <sup>3</sup> Sche l’attenziun giuridica porta indizis per ina persecuziun, ha lieu in’audiziun tenor l’artitgel 29.[^76-1]
 
-<sup>4</sup> Sche las persunas pertutgadas na prendan nagina posiziun cur ch’ellas survegnan l’attenziun giuridica, dispona il SEM la spedida. Per exequir la spedida valan ils artitgels 10 alinea 4 e 46–48 da questa lescha sco er l’artitgel 71 LEI[^76-2] tenor il senn.[^76-3]
+<sup>4</sup> Sche las persunas pertutgadas na prendan nagina posiziun cura ch’ellas survegnan l’attenziun giuridica, dispona il SEM la spedida. Per exequir la spedida valan ils artitgels 10 alinea 4 e 46–48 da questa lescha sco er l’artitgel 71 LEI[^76-2] tenor il senn.[^76-3]
 
 <sup>5</sup> Per ils alineas 2–4 èn applitgablas tenor il senn las disposiziuns da la 1*a*. secziun dal 8. chapitel.[^76-4]
 
@@ -1363,13 +1365,13 @@ Las disposiziuns dal 3. e 4. chapitel davart ils conjugals valan tenor il senn p
 
 [^79a-1]: Integrà tras la cifra I 2 da la LF dals 15 da zer. 2012 davart mesiras cunter maridaglias sfurzadas, en vigur dapi il 1. da fan. 2013 ([AS 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [BBl 2011 2185](https://fedlex.data.admin.ch/eli/fga/2011/292)).
 
-## 5. chapitel Agid social ed agid d’urgenza****
+## 5. chapitel Agid social ed agid d’urgenza
 
 [^chap5-1]
 
 [^chap5-1]: Versiun tenor la cifra I da la LF dals 16 da dec. 2005, en vigur dapi il 1. da schan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 
-### 1. secziun Pajament d’agid social, d’agid d’urgenza e da supplement per uffants sco er instrucziun da scola fundamentala****
+### 1. secziun Pajament d’agid social, d’agid d’urgenza e da supplement per uffants sco er instrucziun da scola fundamentala
 
 [^chap5-sec1-1]
 
@@ -1447,7 +1449,7 @@ Persunas che sa trategnan en Svizra sin basa da questa lescha e che na pon betg 
 
 <sup>6</sup> Ils chantuns e las assicuranzas pon fixar in’aboliziun da la participaziun als custs tenor l’artitgel 64 alinea 2 LAMal.
 
-<sup>7</sup> Uschè ditg che requirents d’asil e persunas cun basegn da protecziun senza permissiun da dimora retiran cumplainamain u parzialmain agid social, è sistì lur dretg da survegnir ina reducziun da las premias tenor l’artitgel 65 LAMal. Els survegnan puspè quest dretg cur ch’els vegnan renconuschids sco fugitivs, han – sco persunas cun basegn da protecziun – in dretg da survegnir ina permissiun da dimora u na retiran pli nagin agid social.
+<sup>7</sup> Uschè ditg che requirents d’asil e persunas cun basegn da protecziun senza permissiun da dimora retiran cumplainamain u parzialmain agid social, è sistì lur dretg da survegnir ina reducziun da las premias tenor l’artitgel 65 LAMal. Els survegnan puspè quest dretg cura ch’els vegnan renconuschids sco fugitivs, han – sco persunas cun basegn da protecziun – in dretg da survegnir ina permissiun da dimora u na retiran pli nagin agid social.
 
 [^82a-1]: Integrà tras la cifra II da la LF dals 16 da dec. 2005, en vigur dapi il 1. da schan. 2008 ([AS 2006 4823](https://fedlex.data.admin.ch/eli/oc/2006/743), [2007 5575](https://fedlex.data.admin.ch/eli/oc/2007/766); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 [^82a-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
@@ -1502,7 +1504,7 @@ Supplements per uffants per uffants che vivan a l’exteriur da requirents d’a
 [^84-1]: Versiun tenor la cifra IV 1 da la LF dals 16 da dec. 2005, en vigur dapi il 1. da schan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 [^84-2]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 
-### 2. secziun**** Obligaziun da restituziun e taxa speziala sin valurs da facultad
+### 2. secziun Obligaziun da restituziun e taxa speziala sin valurs da facultad
 
 [^chap5-sec2-1]
 
@@ -1744,7 +1746,7 @@ La Confederaziun presta agid da return. Ella po prevesair las suandantas mesiras
 
 [^95-1]: Versiun tenor la cifra I da la LF dals 16 da dec. 2005, en vigur dapi il 1. da schan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 
-## 6*a*. chapitel**** Approvaziun dals plans tar edifizis e stabiliments da la Confederaziun
+## 6*a*. chapitel Approvaziun dals plans tar edifizis e stabiliments da la Confederaziun
 
 [^chap6a-1]
 
@@ -1870,7 +1872,7 @@ La procedura d’approvaziun dals plans simplifitgada vegn applitgada tar:
 
 <sup>4</sup> Dal rest valan las disposiziuns davart la procedura ordinaria. En cas da dubi vegn exequida quella.
 
-### 3. secziun Procedura da reconciliaziun e da stimaziun; enviament anticipà en il possess****
+### 3. secziun Procedura da reconciliaziun e da stimaziun; enviament anticipà en il possess
 
 [^chap6a-sec3-1]
 
@@ -1878,7 +1880,7 @@ La procedura d’approvaziun dals plans simplifitgada vegn applitgada tar:
 
 #### Art. 95k
 
-<sup>1</sup> Cur che la procedura d’approvaziun dals plans è terminada, vegn fatga, sche necessari, la procedura da reconciliaziun e da stimaziun davant la Cumissiun federala da stimaziun (Cumissiun da stimaziun) tenor las disposiziuns da la LExpr[^95k-1].[^95k-2]
+<sup>1</sup> Cura che la procedura d’approvaziun dals plans è terminada, vegn fatga, sche necessari, la procedura da reconciliaziun e da stimaziun davant la Cumissiun federala da stimaziun (Cumissiun da stimaziun) tenor las disposiziuns da la LExpr[^95k-1].[^95k-2]
 
 <sup>2</sup> ...[^95k-3]
 
@@ -1898,7 +1900,7 @@ La procedura d’approvaziun dals plans simplifitgada vegn applitgada tar:
 
 ## 7. chapitel Elavuraziun da datas persunalas
 
-### 1. secziun Princips****
+### 1. secziun Princips
 
 [^chap7-sec1-1]
 
@@ -2024,7 +2026,7 @@ Las datas vegnan stizzadas:
 [^99-5]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 [^99-6]: Versiun tenor la cifra I da la LF dals 16 da dec. 2005, en vigur dapi il 1. da schan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 
-### 1*a*. secziun**** Sistem d’infurmaziun per ils centers da la Confederaziun e per ils alloschis sin las plazzas aviaticas****
+### 1*a*. secziun Sistem d’infurmaziun per ils centers da la Confederaziun e per ils alloschis sin las plazzas aviaticas
 
 [^chap7-sec1a-1][^chap7-sec1a-2]
 
@@ -2100,9 +2102,9 @@ Il Cussegl federal regla:
 - c. ils dretgs d’access;
 - d. las mesiras da protecziun tecnicas ed organisatoricas cunter in’elavuraziun nunautorisada;
 - e. quant ditg che las datas vegnan tegnidas en salv;
-- f. l’archivaziun e la destrucziun da las datas, cur ch’il termin da las tegnair en salv è scadì.
+- f. l’archivaziun e la destrucziun da las datas, cura ch’il termin da las tegnair en salv è scadì.
 
-### 1*b*. secziun Auters sistems d’infurmaziun****
+### 1*b*. secziun Auters sistems d’infurmaziun
 
 [^chap7-sec1b-1]
 
@@ -2151,7 +2153,7 @@ Per controllar l’indemnisaziun finanziala als chantuns transferescha l’Uffiz
 
 [^102a-1]: Integrà tras la cifra I da la LF dals 16 da dec. 2005, en vigur dapi il 1. da schan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 
-### 2. secziun**** Elavuraziun da datas en il rom da las cunvegnas d’associaziun a la reglamentaziun da Dublin
+### 2. secziun Elavuraziun da datas en il rom da las cunvegnas d’associaziun a la reglamentaziun da Dublin
 
 [^chap7-sec2-1]
 
@@ -2170,9 +2172,9 @@ Entaifer 72 uras suenter l’inoltraziun da la dumonda transmetta el las suandan
 - a. il lieu e la data da l’inoltraziun da la dumonda en Svizra;
 - b. la schlattaina dal requirent;
 - c. las improntas dals dets prendidas tenor l’artitgel 99 alinea 1;
-- d. la data, cur che las improntas dals dets èn vegnidas prendidas;
+- d. la data, cura che las improntas dals dets èn vegnidas prendidas;
 - e. il numer distinctiv svizzer da las improntas dals dets;
-- f. la data, cur che las datas èn vegnidas transmessas a l’unitad centrala;
+- f. la data, cura che las datas èn vegnidas transmessas a l’unitad centrala;
 - g. il pled-clav da l’utilisadra u da l’utilisader.[^102abis-2]
 
 <sup>2bis</sup> Sch’ils dets da la persuna pertutgada na permettan betg da prender las improntas, ston las improntas vegnir transmessas a l’unitad centrala entaifer 48 uras, suenter ch’igl è puspè pussaivel da prender improntas irreproschablas. Sch’i n’è betg pussaivel da prender las improntas dals dets pervia dal stadi da sanadad da la persuna pertutgada u pervia da mesiras da la sanadad publica, ston questas improntas vegnir transmessas a l’unitad centrala entaifer 48 uras suenter ch’il motiv d’impediment è crudà davent.[^102abis-3]
@@ -2259,7 +2261,7 @@ Il dretg da dar infurmaziuns sa drizza tenor las disposiziuns davart la proteczi
 
 [^102e-1]: Versiun tenor la cifra 2 da la LF dals 19 da mars 2010 davart la realisaziun dal conclus da basa 2008/977/JI davart la protecziun da datas persunalas en il rom da la collavuraziun poliziala e giudiziala en chaussas penalas, en vigur dapi il 1. da dec. 2010 ([AS 2010 3387](https://fedlex.data.admin.ch/eli/oc/2010/464)3418; [BBl 2009 6749](https://fedlex.data.admin.ch/eli/fga/2009/1207)).
 
-### 3. secziun**** Videosurveglianza
+### 3. secziun Videosurveglianza
 
 [^chap7-sec3-1]
 
@@ -2277,13 +2279,13 @@ Il dretg da dar infurmaziuns sa drizza tenor las disposiziuns davart la proteczi
 
 <sup>5</sup> Il Cussegl federal regla las modalitads da la videosurveglianza. En spezial fixescha el, tge edifizis e parts d’edifizis che dastgan vegnir suttamess ad ina videosurveglianza, ed el regla co che las registraziuns vegnan conservadas, protegidas cunter abus e surdadas a las autoritads da persecuziun penala.
 
-## 8. chapitel Protecziun giuridica, procedura da recurs, reponderaziun e dumondas multiplas****
+## 8. chapitel Protecziun giuridica, procedura da recurs, reponderaziun e dumondas multiplas
 
 [^chap8-1]
 
 [^chap8-1]: Oriundamain: avant l’art. 103. Versiun tenor la cifra I da la LF dals 25 da sett. 2015, en vigur dapi il 1. da mars 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 
-### 1. secziun**** Protecziun giuridica en ils centers da la Confederaziun
+### 1. secziun Protecziun giuridica en ils centers da la Confederaziun
 
 [^chap8-sec1-1]
 
@@ -2304,6 +2306,11 @@ Il dretg da dar infurmaziuns sa drizza tenor las disposiziuns davart la proteczi
 <sup>1</sup> Durant la dimora en in center da la Confederaziun han ils requirents d’asil access a la cussegliaziun davart la procedura d’asil.
 
 <sup>2</sup> La cussegliaziun cuntegna particularmain l’infurmaziun dals requirents d’asil davart ils dretgs e davart las obligaziuns en la procedura d’asil.
+
+<sup>3</sup> La cussegliaziun cuntegna er l’infurmaziun davart la procedura da recurs tenor l’artitgel 111 da l’Ordinaziun (UE) 2019/1896[^102g-1].[^102g-2]
+
+[^102g-1]: Ordinaziun (UE) 2019/1896 dal Parlament europeic e dal Cussegl dals 13 da nov. 2019 davart la Guardia europeica da cunfin e da costa e davart l’aboliziun da las Ordinaziuns (UE) nr. 1052/2013 ed (UE) 2016/1624, versiun tenor ABl. L 295 dals 14 da nov. 2019, p. 1.
+[^102g-2]: Integrà tras la cifra I da la LF dal 1. d’oct. 2021, en vigur dapi il 1. da sett. 2022 ([AS 2022 459](https://fedlex.data.admin.ch/eli/oc/2022/459); [BBl 2020 7105](https://fedlex.data.admin.ch/eli/fga/2020/1902)).
 
 #### Art. 102h
 
@@ -2356,11 +2363,15 @@ La Confederaziun paja al furnitur da prestaziuns a norma d’ina cunvegna e sin 
 - c. posiziun tar il sboz d’ina decisiun d’asil negativa en la procedura accelerada;
 - d. realisaziun da la represchentanza legala en la procedura da recurs, en spezial la redacziun d’ina acta da recurs;
 - e. defensiun dals interess da requirents d’asil minorens betg accumpagnads sco persuna da confidenza en ils centers da la Confederaziun e sin la plazza aviatica;
-- f. en cas d’ina midada a la procedura extendida: infurmaziun dal post da cussegliaziun per dumondas da dretg tras la represchentanza legala attribuida davart il stadi actual da la procedura u la cuntinuaziun da la represchentanza legala attribuida tar pass da la procedura ch’èn relevants per la decisiun tenor l’artitgel 102*l*.
+- f. en cas d’ina midada a la procedura extendida: infurmaziun dal post da cussegliaziun per dumondas da dretg tras la represchentanza legala attribuida davart il stadi actual da la procedura u la cuntinuaziun da la represchentanza legala attribuida tar pass da la procedura ch’èn relevants per la decisiun tenor l’artitgel 102*l*;
+- g.[^102k-1] cussegliaziun e sustegn per inoltrar in recurs tenor l’artitgel 111 da l’Ordinaziun (UE) 2019/1896[^102k-2].
 
 <sup>2</sup> Cuntegnids en l’indemnisaziun èn ina contribuziun als custs d’administraziun e da persunal dal furnitur da prestaziuns, en spezial per l’organisaziun da la cussegliaziun e da la represchentanza legala sco er ina contribuziun ad ina translaziun independenta. L’indemnisaziun vegn fixada en moda pauschala. Excepziunalmain pon las contribuziuns vegnir fixadas tenor las expensas, en spezial per indemnisar custs unics.
 
-### 1*a*.**** secziun Cussegliaziun e represchentanza legala en la procedura extendida suenter l’attribuziun als chantuns
+[^102k-1]: Integrà tras la cifra I da la LF dal 1. d’oct. 2021, en vigur dapi il 1. da sett. 2022 ([AS 2022 459](https://fedlex.data.admin.ch/eli/oc/2022/459); [BBl 2020 7105](https://fedlex.data.admin.ch/eli/fga/2020/1902)).
+[^102k-2]: Guardar annotaziun tar l’art. 102*g* al. 3.
+
+### 1*a*. secziun Cussegliaziun e represchentanza legala en la procedura extendida suenter l’attribuziun als chantuns
 
 [^chap8-sec1a-1]
 
@@ -2368,13 +2379,18 @@ La Confederaziun paja al furnitur da prestaziuns a norma d’ina cunvegna e sin 
 
 #### Art. 102l
 
-<sup>1</sup> Suenter ch’els èn vegnids attribuids al chantun, pon requirents d’asil – en cas da pass ch’èn relevants per la decisiun en la procedura d’emprima instanza, en spezial sch’igl ha lieu in’audiziun supplementara davart ils motivs d’asil – sa drizzar gratuitamain ad in post da cussegliaziun per dumondas da dretg u a la represchentanza legala attribuida.
+<sup>1</sup> Suenter ch’els èn vegnids attribuids al chantun, pon ils requirents d’asil – en cas da pass ch’èn relevants per la decisiun en la procedura d’emprima instanza, en spezial sch’igl ha lieu in’audiziun supplementara davart ils motivs d’asil – sa drizzar gratuitamain ad in post da cussegliaziun per dumondas da dretg u a la represchentanza legala attribuida.
 
-<sup>2</sup> La Confederaziun paja al post da cussegliaziun per dumondas da dretg a norma d’ina cunvegna e sin basa da soluziuns favuraivlas ina indemnisaziun per ademplir l’incumbensa tenor l’alinea 1. L’indemnisaziun vegn fixada en moda pauschala. Excepziunalmain pon las contribuziuns vegnir fixadas tenor las expensas, en spezial per indemnisar custs unics.
+<sup>1bis</sup> Suenter ch’els èn vegnids attribuids al chantun, pon ils requirents d’asil sa drizzar gratuitamain ad in post da cussegliaziun per dumondas da dretg u a la represchentanza legala attribuida per la cussegliaziun e per il sustegn tenor l’artitgel 102*k* alinea 1 litera g, nun ch’els hajan gia survegnì questa cussegliaziun e quest sustegn en in center da la Confederaziun.[^102l-1]
+
+<sup>2</sup> A norma d’ina cunvegna e sin basa da soluziuns favuraivlas paja la Confederaziun al post da cussegliaziun per dumondas da dretg ina indemnisaziun per ademplir l’incumbensa tenor ils alineas 1 ed 1<sup>bis</sup>.[^102l-2] L’indemnisaziun vegn fixada en moda pauschala. Excepziunalmain pon las contribuziuns vegnir fixadas tenor las expensas, en spezial per indemnisar custs unics.
 
 <sup>3</sup> Il Cussegl federal fixescha las premissas ch’èn necessarias per vegnir admess sco post da cussegliaziun per dumondas da dretg e determinescha ils pass da la procedura ch’èn relevants per la decisiun tenor l’alinea 1.
 
-### 1*b*.**** secziun Giurisdicziun gratuita
+[^102l-1]: Integrà tras la cifra I da la LF dal 1. d’oct. 2021, en vigur dapi il 1. da sett. 2022 ([AS 2022 459](https://fedlex.data.admin.ch/eli/oc/2022/459); [BBl 2020 7105](https://fedlex.data.admin.ch/eli/fga/2020/1902)).
+[^102l-2]: Versiun tenor la cifra I da la LF dal 1. d’oct. 2021, en vigur dapi il 1. da sett. 2022 ([AS 2022 459](https://fedlex.data.admin.ch/eli/oc/2022/459); [BBl 2020 7105](https://fedlex.data.admin.ch/eli/fga/2020/1902)).
+
+### 1*b*. secziun Giurisdicziun gratuita
 
 [^chap8-sec1b-1]
 
@@ -2400,7 +2416,7 @@ Sin dumonda dal requirent d’asil, ch’è vegnì dispensà da pajar ils custs 
 [^102m-1]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 [^102m-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 
-### 1*c*. secziun Procedura da recurs sin plaun chantunal****
+### 1*c*. secziun Procedura da recurs sin plaun chantunal
 
 [^chap8-sec1c-1]
 
@@ -2619,7 +2635,7 @@ En la procedura da recurs cunter decisiuns d’asil tenor l’artitgel 31*a*, ch
 
 [^111ater-1]: Integrà tras la cifra I da la LF dals 25 da sett. 2015, en vigur dapi il 1. da mars 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 
-### 3. secziun Reponderaziun e dumondas multiplas****
+### 3. secziun Reponderaziun e dumondas multiplas
 
 [^chap8-sec3-1]
 
@@ -2676,7 +2692,7 @@ Il SEM po pretender dal requirent in pajament anticipà da la taxa en l’autezz
 
 [^112-1]: Abolì tras la cifra I da la LF dals 14 da dec. 2012, cun effect dapi il 1. da favr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 
-### 4. secziun Impediment e suspensiun da la surannaziun****
+### 4. secziun Impediment e suspensiun da la surannaziun
 
 [^chap8-sec4-1]
 
@@ -2690,7 +2706,7 @@ Per la durada d’ina procedura da meds legals na cumenza la surannaziun da pret
 
 [^112a-1]: Versiun tenor la cifra I da la LF dals 14 da dec. 2012, en vigur dapi il 1. da favr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 
-## 8*a*. chapitel Proceduras d’asil en il rom da fasas da test****
+## 8*a*. chapitel Proceduras d’asil en il rom da fasas da test
 
 [^chap8a-1]
 
@@ -2714,7 +2730,7 @@ Per la durada d’ina procedura da meds legals na cumenza la surannaziun da pret
 [^112b-2]: Abolì tras la cifra I da la LF dals 14 da dec. 2012, cun effect dapi il 1. da favr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 [^112b-3]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 
-## 9. chapitel Collavuraziun internaziunala****
+## 9. chapitel Collavuraziun internaziunala
 
 [^chap9-1]
 
@@ -2736,13 +2752,13 @@ Per realisar in credit general per la migraziun, ch’è vegnì approvà sin bas
 
 [^114-1]: Versiun tenor la cifra I da la LF dals 20 da dec. 2019, en vigur dapi il 1. da nov. 2020 ([AS 2020 3989](https://fedlex.data.admin.ch/eli/oc/2020/742); [BBl 2018 6565](https://fedlex.data.admin.ch/eli/fga/2018/2305)).
 
-## 10. chapitel Disposiziuns penalas****
+## 10. chapitel Disposiziuns penalas
 
 [^chap10-1]
 
 [^chap10-1]: Versiun tenor l’art. 3 cifra 2 dal COF dals 17 da dec. 2004 davart l’approvaziun e la realisaziun da las cunvegnas bilateralas tranter la Svizra e la UE per l’associaziun a la reglamentaziun da Schengen e da Dublin, en vigur dapi ils 12 da dec. 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 1 lit. a; [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 
-### 1. secziun Disposiziuns penalas dal 5. chapitel 2. secziun****
+### 1. secziun Disposiziuns penalas dal 5. chapitel 2. secziun
 
 [^chap10-sec1-1]
 
@@ -2791,7 +2807,7 @@ Cun multa vegn chastià, premess ch’i na saja betg avant maun in causal tenor 
 
 [^117-1]: Abolì tras la cifra 1 da l’agiunta da la LF dals 16 da dec. 2016 (integraziun), cun effect dapi il 1. da schan. 2018 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718); [BBl 2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524), [2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416)).
 
-### 2. secziun**** Disposiziuns penalas dal 7. chapitel 2. secziun
+### 2. secziun Disposiziuns penalas dal 7. chapitel 2. secziun
 
 [^chap10-sec2-1]
 
@@ -2803,7 +2819,7 @@ Cun multa vegn chastià, premess ch’i na saja betg avant maun in causal tenor 
 
 Tgi ch’elavura datas persunalas ch’èn arcunadas en Eurodac per in auter intent che quel da constatar, tge stadi ch’è cumpetent per l’examinaziun da la dumonda d’asil inoltrada d’in burgais d’in terz stadi en in stadi dal champ d’applicaziun da las cunvegnas d’associaziun a la reglamentaziun da Dublin, vegn chastià cun multa.
 
-### 3. secziun Persecuziun penala****
+### 3. secziun Persecuziun penala
 
 [^chap10-sec3-1]
 
@@ -2881,7 +2897,7 @@ Data da l’entrada en vigur: 1. d’october 1999[^123-1]
 
 [^123-1]: COCF dals 11 d’avust 1999.
 
-## Disposiziuns finalas da la midada dals 19 da december 2003****
+## Disposiziuns finalas da la midada dals 19 da december 2003
 
 [^u1-1]
 
@@ -2897,7 +2913,7 @@ Data da l’entrada en vigur: 1. d’october 1999[^123-1]
 
 [^u1-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 
-## Disposiziuns transitoricas da la midada dals 16 da december 2005****
+## Disposiziuns transitoricas da la midada dals 16 da december 2005
 
 [^u2-1]
 
@@ -2913,7 +2929,7 @@ Data da l’entrada en vigur: 1. d’october 1999[^123-1]
 
 [^u2-2]: [AS 1999 2262](https://fedlex.data.admin.ch/eli/oc/1999/358)
 
-## Disposiziun transitorica da la midada dals 28 da settember 2012****
+## Disposiziun transitorica da la midada dals 28 da settember 2012
 
 [^u3-1]
 
@@ -2921,7 +2937,7 @@ Data da l’entrada en vigur: 1. d’october 1999[^123-1]
 
 Per dumondas d’asil ch’èn vegnidas inoltradas a l’exteriur avant che la midada dals 28 da settember 2012 da questa lescha è entrada en vigur, valan ils artitgels 12, 19, 20, 41 alinea 2, 52 e 68 en la versiun vertenta.
 
-## Disposiziuns transitoricas da la midada dals 14 da december 2012****
+## Disposiziuns transitoricas da la midada dals 14 da december 2012
 
 [^u4-1]
 
@@ -2939,7 +2955,7 @@ Per dumondas d’asil ch’èn vegnidas inoltradas a l’exteriur avant che la m
 
 [^u4-2]: Oz: art. 26*a*
 
-## Disposiziuns transitoricas da la midada dals 26 da settember 2014****
+## Disposiziuns transitoricas da la midada dals 26 da settember 2014
 
 [^u5-1]
 
@@ -2954,7 +2970,7 @@ Per dumondas d’asil ch’èn vegnidas inoltradas a l’exteriur avant che la m
 - a. pon vegnir considerads sco adattads sin fundament d’ina evaluaziun; e
 - b. vegnan integrads en in project da lescha tenor l’artitgel 112*b* alinea 1.
 
-## Disposiziuns transitoricas da la midada dals 25 da settember 2015****
+## Disposiziuns transitoricas da la midada dals 25 da settember 2015
 
 [^u6-1]
 
@@ -2972,7 +2988,7 @@ Per dumondas d’asil ch’èn vegnidas inoltradas a l’exteriur avant che la m
 
 [^u6-2]: [AS 2012 5359](https://fedlex.data.admin.ch/eli/oc/2012/612); [2015 2047](https://fedlex.data.admin.ch/eli/oc/2015/379)
 
-## Disposiziun transitorica da la midada dals 16 da december 2016****
+## Disposiziun transitorica da la midada dals 16 da december 2016
 
 [^u7-1]
 
@@ -2982,7 +2998,7 @@ Per las proceduras pendentas e per las pretensiuns avertas il mument da l’entr
 
 [^u7-2]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 
-Agiunta 1*[^t-1]*
+Agiunta 1[^t-1]
 
 (art. 21 al. 3)
 
@@ -3002,7 +3018,7 @@ Las cunvegnas d’associaziun a la reglamentaziun da Dublin cumpiglian:
 [^annex1-lvlu1-3]: [SR 0.142.393.141](https://fedlex.data.admin.ch/eli/cc/2008/777)
 [^annex1-lvlu1-4]: [SR 0.142.395.141](https://fedlex.data.admin.ch/eli/cc/2011/195)
 
-Agiunta 2*[^t-2]*
+Agiunta 2[^t-2]
 
 ## Midada dal dretg vertent
 

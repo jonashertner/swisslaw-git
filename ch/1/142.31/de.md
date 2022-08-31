@@ -4,11 +4,11 @@ title: Asylgesetz vom 26. Juni 1998 (AsylG)
 short: AsylG
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/358"
 language: de
-version: 2022-06-01
+version: 2022-09-01
 adopted: 1998-06-26
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/358/20220601/de/xml/fedlex-data-admin-ch-eli-cc-1999-358-20220601-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20220601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/358/20220901/de/xml/fedlex-data-admin-ch-eli-cc-1999-358-20220901-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20220901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20220601/de"
 
 (AsylG)
 
-vom 26. Juni 1998 (Stand am 1. Juni 2022)
+vom 26. Juni 1998 (Stand am 1. September 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -432,7 +432,7 @@ Es bewilligt die Einreise, wenn die Schweiz für die Durchführung des Asylverfa
 [^23-2]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 [^23-3]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 
-### 2*a*. Abschnitt: Zentren des Bundes****
+### 2*a*. Abschnitt: Zentren des Bundes
 
 [^chap2-sec2a-1]
 
@@ -856,7 +856,7 @@ Wer ein Asylgesuch in der Schweiz gestellt hat, darf sich bis zum Abschluss des 
 [^43-6]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2005, in Kraft seit 1. Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 [^43-7]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 
-### 5. Abschnitt: Vollzug der Wegweisung und Ersatzmassnahmen****
+### 5. Abschnitt: Vollzug der Wegweisung und Ersatzmassnahmen
 
 [^chap2-sec5-1]
 
@@ -885,28 +885,30 @@ Lehnt das SEM das Asylgesuch ab oder tritt es darauf nicht ein, so verfügt es i
 
 Die Wegweisungsverfügung enthält:
 
-- a. die Verpflichtung der asylsuchenden Person, die Schweiz zu verlassen;
-- b. den Zeitpunkt, bis zu dem sie die Schweiz verlassen haben muss; bei Anordnung einer vorläufigen Aufnahme wird die Frist für die Ausreise erst mit dem Aufhebungsentscheid festgesetzt;
-- c.[^45-2] die Androhung von Zwangsmitteln;
+- a.[^45-2] unter Vorbehalt völkerrechtlicher Verträge, insbesondere der Dublin-Assoziierungsabkommen[^45-3], die Verpflichtung der asylsuchenden Person, die Schweiz sowie den Schengen-Raum zu verlassen sowie die Verpflichtung zur Weiterreise in den Herkunftsstaat oder in einen weiteren Staat ausserhalb des Schengen-Raumes, welcher die Person aufnimmt;
+- b.[^45-4] unter Vorbehalt völkerrechtlicher Verträge, insbesondere der Dublin-Assoziierungsabkommen, den Zeitpunkt, bis zu dem sie die Schweiz sowie den Schengen-Raum zu verlassen hat; bei Anordnung einer vorläufigen Aufnahme wird die Frist für die Ausreise erst mit dem Aufhebungsentscheid festgesetzt;
+- c.[^45-5] die Androhung von Zwangsmitteln;
 - d. gegebenenfalls die Bezeichnung der Staaten, in welche die Asylsuchende Person nicht zurückgeführt werden darf;
 - e. gegebenenfalls die Anordnung einer Ersatzmassnahme anstelle des Vollzugs;
 - f. die Bezeichnung des für den Vollzug der Wegweisung oder der Ersatzmassnahme zuständigen Kantons.
 
-<sup>2</sup> Mit der Wegweisungsverfügung ist eine angemessene Ausreisefrist zwischen sieben und dreissig Tagen anzusetzen. Die Ausreisefrist bei Entscheiden, welche im beschleunigten Verfahren getroffen wurden, beträgt sieben Tage. Im erweiterten Verfahren beträgt sie zwischen sieben und dreissig Tagen*.*[^45-3]
+<sup>2</sup> Mit der Wegweisungsverfügung ist eine angemessene Ausreisefrist zwischen sieben und dreissig Tagen anzusetzen. Die Ausreisefrist bei Entscheiden, welche im beschleunigten Verfahren getroffen wurden, beträgt sieben Tage. Im erweiterten Verfahren beträgt sie zwischen sieben und dreissig Tagen*.*[^45-6]
 
-<sup>2bis</sup> Eine längere Ausreisefrist ist anzusetzen oder die Ausreisefrist wird verlängert, wenn besondere Umstände wie die familiäre Situation, gesundheitliche Probleme oder eine lange Aufenthaltsdauer dies erfordern.[^45-4]
+<sup>2bis</sup> Eine längere Ausreisefrist ist anzusetzen oder die Ausreisefrist wird verlängert, wenn besondere Umstände wie die familiäre Situation, gesundheitliche Probleme oder eine lange Aufenthaltsdauer dies erfordern.[^45-7]
 
-<sup>3</sup> Die Wegweisung ist sofort vollstreckbar oder es kann eine Ausreisefrist von weniger als sieben Tagen angesetzt werden, wenn die betroffene Person aufgrund der Dublin-Assoziierungsabkommen[^45-5] weggewiesen wird.[^45-6]
+<sup>3</sup> Die Wegweisung ist sofort vollstreckbar oder es kann eine Ausreisefrist von weniger als sieben Tagen angesetzt werden, wenn die betroffene Person aufgrund der Dublin-Assoziierungsabkommen weggewiesen wird.[^45-8]
 
-<sup>4</sup> Der asylsuchenden Person ist ein Informationsblatt mit Erläuterungen zur Wegweisungsverfügung abzugeben.[^45-7]
+<sup>4</sup> Der asylsuchenden Person ist ein Informationsblatt mit Erläuterungen zur Wegweisungsverfügung abzugeben.[^45-9]
 
 [^45-1]: Fassung gemäss Art. 2 Ziff. 2 des BB vom 18. Juni 2010 betreffend die Übernahme der EG-Rückführungsrichtlinie (Richtlinie 2008/115/EG), in Kraft seit 1. Jan. 2011 ([AS 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [BBl 2009 8881](https://fedlex.data.admin.ch/eli/fga/2009/1528)).
-[^45-2]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
-[^45-3]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
-[^45-4]: Eingefügt durch Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
-[^45-5]: Diese Abk. sind in Anhang 1 aufgeführt.
-[^45-6]: Eingefügt durch Art. 2 Ziff. 2 des BB vom 18. Juni 2010 betreffend die Übernahme der EG-Rückführungsrichtlinie (Richtlinie 2008/115/EG), in Kraft seit 1. Jan. 2011 ([AS 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [BBl 2009 8881](https://fedlex.data.admin.ch/eli/fga/2009/1528)).
-[^45-7]: Eingefügt durch Art. 2 Ziff. 2 des BB vom 18. Juni 2010 betreffend die Übernahme der EG-Rückführungsrichtlinie (Richtlinie 2008/115/EG), in Kraft seit 1. Jan. 2011 ([AS 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [BBl 2009 8881](https://fedlex.data.admin.ch/eli/fga/2009/1528)).
+[^45-2]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Sept. 2022 ([AS 2022 459](https://fedlex.data.admin.ch/eli/oc/2022/459); [BBl 2022 7105](https://fedlex.data.admin.ch/eli/fga/2022/7105)).
+[^45-3]: Diese Abkommen sind in Anhang 1 aufgeführt.
+[^45-4]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Sept. 2022 ([AS 2022 459](https://fedlex.data.admin.ch/eli/oc/2022/459); [BBl 2022 7105](https://fedlex.data.admin.ch/eli/fga/2022/7105)).
+[^45-5]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^45-6]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^45-7]: Eingefügt durch Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^45-8]: Eingefügt durch Art. 2 Ziff. 2 des BB vom 18. Juni 2010 betreffend die Übernahme der EG-Rückführungsrichtlinie (Richtlinie 2008/115/EG) ([AS 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [BBl 2009 8881](https://fedlex.data.admin.ch/eli/fga/2009/1528)). Fassung gemäss Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Sept. 2022 ([AS 2022 459](https://fedlex.data.admin.ch/eli/oc/2022/459); [BBl 2022 7105](https://fedlex.data.admin.ch/eli/fga/2022/7105)).
+[^45-9]: Eingefügt durch Art. 2 Ziff. 2 des BB vom 18. Juni 2010 betreffend die Übernahme der EG-Rückführungsrichtlinie (Richtlinie 2008/115/EG), in Kraft seit 1. Jan. 2011 ([AS 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [BBl 2009 8881](https://fedlex.data.admin.ch/eli/fga/2009/1528)).
 
 #### Art. 46
 
@@ -1361,13 +1363,13 @@ Die Bestimmungen des 3. und 4. Kapitels über Ehegatten gelten für die eingetra
 
 [^79a-1]: Eingefügt durch Ziff. I 2 des BG vom 15. Juni 2012 über Massnahmen gegen Zwangs- heiraten, in Kraft seit 1. Juli 2013 ([AS 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [BBl 2011 2185](https://fedlex.data.admin.ch/eli/fga/2011/292)).
 
-## 5. Kapitel: Sozialhilfe und Nothilfe****
+## 5. Kapitel: Sozialhilfe und Nothilfe
 
 [^chap5-1]
 
 [^chap5-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2005, in Kraft seit 1. Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 
-### 1. Abschnitt: Ausrichtung von Sozialhilfe, Nothilfe und Kinderzulagen sowie Grundschulunterricht****
+### 1. Abschnitt: Ausrichtung von Sozialhilfe, Nothilfe und Kinderzulagen sowie Grundschulunterricht
 
 [^chap5-sec1-1]
 
@@ -1500,7 +1502,7 @@ Kinderzulagen für im Ausland lebende Kinder von Asylsuchenden werden während d
 [^84-1]: Fassung gemäss Ziff. IV 1 des BG vom 16. Dez. 2005, in Kraft seit 1. Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 [^84-2]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 
-### 2. Abschnitt:**** Rückerstattungspflicht und Sonderabgabe auf Vermögenswerten
+### 2. Abschnitt: Rückerstattungspflicht und Sonderabgabe auf Vermögenswerten
 
 [^chap5-sec2-1]
 
@@ -1742,7 +1744,7 @@ Der Bund leistet Rückkehrhilfe. Er kann dazu folgende Massnahmen vorsehen:
 
 [^95-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2005, in Kraft seit 1. Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 
-## 6*a**.* Kapitel:**** Plangenehmigung bei Bauten und Anlagen des Bundes
+## 6*a**.* Kapitel: Plangenehmigung bei Bauten und Anlagen des Bundes
 
 [^chap6a-1]
 
@@ -1868,7 +1870,7 @@ Das vereinfachte Plangenehmigungsverfahren wird angewendet bei:
 
 <sup>4</sup> Im Übrigen gelten die Bestimmungen für das ordentliche Verfahren. Im Zweifelsfall wird dieses durchgeführt.
 
-### 3. Abschnitt: Einigungs- und Schätzungsverfahren; vorzeitige Besitzeinweisung****
+### 3. Abschnitt: Einigungs- und Schätzungsverfahren; vorzeitige Besitzeinweisung
 
 [^chap6a-sec3-1]
 
@@ -1896,7 +1898,7 @@ Das vereinfachte Plangenehmigungsverfahren wird angewendet bei:
 
 ## 7. Kapitel: Bearbeitung von Personendaten
 
-### 1. Abschnitt: Grundsätze****
+### 1. Abschnitt: Grundsätze
 
 [^chap7-sec1-1]
 
@@ -2022,7 +2024,7 @@ Die Daten werden gelöscht:
 [^99-5]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 [^99-6]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2005, in Kraft seit 1. Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 
-### 1*a*. Abschnitt:**** Informationssystem der Zentren des Bundes und der Unterkünfte an den Flughäfen****
+### 1*a*. Abschnitt: Informationssystem der Zentren des Bundes und der Unterkünfte an den Flughäfen
 
 [^chap7-sec1a-1][^chap7-sec1a-2]
 
@@ -2100,7 +2102,7 @@ Der Bundesrat regelt:
 - e. die Dauer der Datenaufbewahrung;
 - f. die Archivierung und die Vernichtung der Daten nach Ablauf der Aufbewahrungsfrist.
 
-### 1*b*. Abschnitt: Andere Informationssysteme****
+### 1*b*. Abschnitt: Andere Informationssysteme
 
 [^chap7-sec1b-1]
 
@@ -2149,7 +2151,7 @@ Für die Steuerung der finanziellen Abgeltung an die Kantone übermittelt das Bu
 
 [^102a-1]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2005, in Kraft seit 1. Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 
-### 2. Abschnitt:**** Datenbearbeitung im Rahmen der Dublin-Assoziierungsabkommen
+### 2. Abschnitt: Datenbearbeitung im Rahmen der Dublin-Assoziierungsabkommen
 
 [^chap7-sec2-1]
 
@@ -2257,7 +2259,7 @@ Das Auskunftsrecht richtet sich nach den Datenschutzbestimmungen des Bundes oder
 
 [^102e-1]: Fassung gemäss Ziff. 2 des BG vom 19. März über die Umsetzung des Rahmenbeschlusses 2008/977/JI über den Schutz von Personendaten im Rahmen der polizeilichen und justiziellen Zusammenarbeit in Strafsachen, in Kraft seit 1. Dez. 2010 ([AS 2010 3387](https://fedlex.data.admin.ch/eli/oc/2010/464)3418; [BBl 2009 6749](https://fedlex.data.admin.ch/eli/fga/2009/1207)).
 
-### 3. Abschnitt:**** Videoüberwachung
+### 3. Abschnitt: Videoüberwachung
 
 [^chap7-sec3-1]
 
@@ -2275,13 +2277,13 @@ Das Auskunftsrecht richtet sich nach den Datenschutzbestimmungen des Bundes oder
 
 <sup>5</sup> Der Bundesrat regelt die Modalitäten der Videoüberwachung. Er legt namentlich fest, welche Gebäude und Gebäudeteile videoüberwacht werden dürfen, und regelt die Aufbewahrung der Aufzeichnungen, ihren Schutz vor Missbrauch sowie ihre Übergabe an die Strafverfolgungsbehörden.
 
-## 8. Kapitel: Rechtsschutz, Beschwerdeverfahren, Wiedererwägung und Mehrfachgesuche****
+## 8. Kapitel: Rechtsschutz, Beschwerdeverfahren, Wiedererwägung und Mehrfachgesuche
 
 [^chap8-1]
 
 [^chap8-1]: Ursprünglich: Vor Art. 103. Fassung gemäss Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 
-### 1. Abschnitt:**** Rechtsschutz in den Zentren des Bundes
+### 1. Abschnitt: Rechtsschutz in den Zentren des Bundes
 
 [^chap8-sec1-1]
 
@@ -2302,6 +2304,11 @@ Das Auskunftsrecht richtet sich nach den Datenschutzbestimmungen des Bundes oder
 <sup>1</sup> Während des Aufenthalts im Zentrum des Bundes haben Asylsuchende Zugang zur Beratung über das Asylverfahren.
 
 <sup>2</sup> Die Beratung beinhaltet namentlich die Information der Asylsuchenden über Rechte und Pflichten im Asylverfahren.
+
+<sup>3</sup> Die Beratung beinhaltet auch die Information zum Beschwerdeverfahren nach Artikel 111 der Verordnung (EU) 2019/1896[^102g-1].[^102g-2]
+
+[^102g-1]: Verordnung (EU) 2019/1896 des Europäischen Parlaments und des Rates vom 13. November 2019 über die Europäische Grenz- und Küstenwache und zur Aufhebung der Verordnungen (EU) Nr. 1052/2013 und (EU) 2016/1624, Fassung gemäss ABl. L 295 vom 14.11.2019, S. 1.
+[^102g-2]: Eingefügt durch Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Sept. 2022 ([AS 2022 459](https://fedlex.data.admin.ch/eli/oc/2022/459); [BBl 2022 7105](https://fedlex.data.admin.ch/eli/fga/2022/7105)).
 
 #### Art. 102h
 
@@ -2354,11 +2361,15 @@ Der Bund richtet dem Leistungserbringer durch Vereinbarung und auf Grundlage von
 - c. Stellungnahme zum Entwurf eines ablehnenden Asylentscheides im beschleunigten Verfahren;
 - d. Wahrnehmung der Rechtsvertretung im Beschwerdeverfahren, insbesondere das Verfassen einer Beschwerdeschrift;
 - e. die Wahrnehmung der Interessen von unbegleiteten minderjährigen Asylsuchenden als Vertrauensperson in den Zentren des Bundes und am Flughafen;
-- f. bei einem Wechsel in das erweiterte Verfahren die Information der Rechtsberatungsstelle durch die zugewiesene Rechtsvertretung über den bisherigen Verfahrensstand oder die Weiterführung der zugewiesenen Rechtsvertretung bei entscheidrelevanten Verfahrensschritten nach Artikel 102*l*.
+- f. bei einem Wechsel in das erweiterte Verfahren die Information der Rechtsberatungsstelle durch die zugewiesene Rechtsvertretung über den bisherigen Verfahrensstand oder die Weiterführung der zugewiesenen Rechtsvertretung bei entscheidrelevanten Verfahrensschritten nach Artikel 102*l*;
+- g.[^102k-1] Beratung und Unterstützung bei der Einreichung einer Beschwerde nach Artikel 111 der Verordnung (EU) 2019/1896[^102k-2].
 
 <sup>2</sup> In der Entschädigung enthalten sind ein Beitrag an die Verwaltungs- und Personalkosten des Leistungserbringers, insbesondere für die Organisation der Beratung und der Rechtsvertretung sowie ein Beitrag an eine unabhängige Übersetzung. Die Abgeltung wird pauschal festgesetzt. Ausnahmsweise können die Beiträge nach Aufwand festgesetzt werden, insbesondere zur Abgeltung einmalig anfallender Kosten.
 
-### 1*a*.**** Abschnitt: Beratung und Rechtsvertretung im erweiterten Verfahren nach Zuweisung auf die Kantone
+[^102k-1]: Eingefügt durch Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Sept. 2022 ([AS 2022 459](https://fedlex.data.admin.ch/eli/oc/2022/459); [BBl 2022 7105](https://fedlex.data.admin.ch/eli/fga/2022/7105)).
+[^102k-2]: Siehe Fussnote zu Art. 102*g* Abs. 3
+
+### 1*a*. Abschnitt: Beratung und Rechtsvertretung im erweiterten Verfahren nach Zuweisung auf die Kantone
 
 [^chap8-sec1a-1]
 
@@ -2368,11 +2379,16 @@ Der Bund richtet dem Leistungserbringer durch Vereinbarung und auf Grundlage von
 
 <sup>1</sup> Nach Zuweisung auf den Kanton können sich Asylsuchende bei entscheidrelevanten Schritten im erstinstanzlichen Verfahren, insbesondere wenn eine zusätzliche Anhörung zu den Asylgründen durchgeführt wird, kostenlos an eine Rechtsberatungsstelle oder an die zugewiesene Rechtsvertretung wenden.
 
-<sup>2</sup> Der Bund richtet der Rechtsberatungsstelle durch Vereinbarung und auf Grundlage von kostengünstigen Lösungen eine Entschädigung für die Tätigkeit nach Absatz 1 aus. Die Abgeltung wird pauschal festgesetzt. Ausnahmsweise können die Beiträge nach Aufwand festgesetzt werden, insbesondere zur Abgeltung einmalig anfallender Kosten.
+<sup>1bis</sup> Nach Zuweisung auf den Kanton können sich Asylsuchende für die Beratung und Unterstützung nach Artikel 102k Absatz 1 Buchstabe g kostenlos an eine Rechtsberatungsstelle oder an die zugewiesene Rechtsvertretung wenden, wenn diese Beratung und Unterstützung nicht bereits in einem Zentrum des Bundes erfolgt sind.[^102l-1]
+
+<sup>2</sup> Der Bund richtet der Rechtsberatungsstelle durch Vereinbarung und auf Grundlage von kostengünstigen Lösungen eine Entschädigung für die Tätigkeit nach den Absätzen 1 und 1<sup>bis</sup> aus.[^102l-2] Die Abgeltung wird pauschal festgesetzt. Ausnahmsweise können die Beiträge nach Aufwand festgesetzt werden, insbesondere zur Abgeltung einmalig anfallender Kosten.
 
 <sup>3</sup> Der Bundesrat legt die für die Zulassung als Rechtsberatungsstelle notwendigen Voraussetzungen fest und bestimmt die entscheidrelevanten Verfahrensschritte nach Absatz 1.
 
-### 1*b*.**** Abschnitt: Unentgeltliche Rechtspflege
+[^102l-1]: Eingefügt durch Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Sept. 2022 ([AS 2022 459](https://fedlex.data.admin.ch/eli/oc/2022/459); [BBl 2022 7105](https://fedlex.data.admin.ch/eli/fga/2022/7105)).
+[^102l-2]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Sept. 2022 ([AS 2022 459](https://fedlex.data.admin.ch/eli/oc/2022/459); [BBl 2022 7105](https://fedlex.data.admin.ch/eli/fga/2022/7105)).
+
+### 1*b*. Abschnitt: Unentgeltliche Rechtspflege
 
 [^chap8-sec1b-1]
 
@@ -2398,7 +2414,7 @@ Das Bundesverwaltungsgericht bestellt auf Antrag der asylsuchenden Person, die v
 [^102m-1]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 [^102m-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 
-### 1*c*. Abschnitt: Beschwerdeverfahren auf Kantonsebene****
+### 1*c*. Abschnitt: Beschwerdeverfahren auf Kantonsebene
 
 [^chap8-sec1c-1]
 
@@ -2617,7 +2633,7 @@ Im Beschwerdeverfahren gegen Asylentscheide nach Artikel 31*a*, die im beschleun
 
 [^111ater-1]: Eingefügt durch Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 
-### 3. Abschnitt: Wiedererwägung und Mehrfachgesuche****
+### 3. Abschnitt: Wiedererwägung und Mehrfachgesuche
 
 [^chap8-sec3-1]
 
@@ -2674,7 +2690,7 @@ Das SEM kann von der gesuchstellenden Person einen Gebührenvorschuss in der Hö
 
 [^112-1]: Aufgehoben durch Ziff. I des BG vom 14. Dez. 2012, mit Wirkung seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 
-### 4. Abschnitt: Hinderung und Stillstand der Verjährung****
+### 4. Abschnitt: Hinderung und Stillstand der Verjährung
 
 [^chap8-sec4-1]
 
@@ -2688,7 +2704,7 @@ Während der Dauer eines Rechtsmittelverfahrens beginnt die Verjährung von fina
 
 [^112a-1]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 
-## 8*a*. Kapitel: Asylverfahren im Rahmen von Testphasen****
+## 8*a*. Kapitel: Asylverfahren im Rahmen von Testphasen
 
 [^chap8a-1]
 
@@ -2712,7 +2728,7 @@ Während der Dauer eines Rechtsmittelverfahrens beginnt die Verjährung von fina
 [^112b-2]: Aufgehoben durch Ziff. I des BG vom 14. Dez. 2012, mit Wirkung seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 [^112b-3]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 
-## 9. Kapitel: Internationale Zusammenarbeit****
+## 9. Kapitel: Internationale Zusammenarbeit
 
 [^chap9-1]
 
@@ -2734,13 +2750,13 @@ Der Bundesrat kann zur Umsetzung eines Rahmenkredits Migration, der auf der Grun
 
 [^114-1]: Fassung gemäss Ziff. I des BG vom 20. Dez. 2019, in Kraft seit 1. Nov. 2020 ([AS 2020 3989](https://fedlex.data.admin.ch/eli/oc/2020/742); [BBl 2018 6565](https://fedlex.data.admin.ch/eli/fga/2018/2305)).
 
-## 10. Kapitel: Strafbestimmungen****
+## 10. Kapitel: Strafbestimmungen
 
 [^chap10-1]
 
 [^chap10-1]: Fassung gemäss Art. 3 Ziff. 2 des BB vom 17. Dez. 2004 über die Genehmigung und die Umsetzung der bilateralen Abkommen zwischen der Schweiz und der EU über die Assoziierung an Schengen und an Dublin, in Kraft seit 12. Dez. 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 1 Bst. a; [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 
-### 1. Abschnitt: Strafbestimmungen zum 5. Kapitel 2. Abschnitt****
+### 1. Abschnitt: Strafbestimmungen zum 5. Kapitel 2. Abschnitt
 
 [^chap10-sec1-1]
 
@@ -2789,7 +2805,7 @@ Mit Busse wird bestraft, sofern nicht ein Tatbestand nach Artikel 115 vorliegt, 
 
 [^117-1]: Aufgehoben durch Anhang Ziff. 1 des BG vom 16. Dez. 2016 (Integration), mit Wirkung seit 1. Jan. 2018 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718); [BBl 2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524), [2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416)).
 
-### 2. Abschnitt:**** Strafbestimmungen zum 7. Kapitel 2. Abschnitt
+### 2. Abschnitt: Strafbestimmungen zum 7. Kapitel 2. Abschnitt
 
 [^chap10-sec2-1]
 
@@ -2801,7 +2817,7 @@ Mit Busse wird bestraft, sofern nicht ein Tatbestand nach Artikel 115 vorliegt, 
 
 Wer in Eurodac gespeicherte Personendaten für einen anderen Zweck bearbeitet als zur Feststellung, welcher Staat für die Prüfung des von einem Drittstaatsangehörigen in einem Staat des Geltungsbereichs der Dublin-Assoziierungsabkommen gestellten Asylgesuchs zuständig ist, wird mit Busse bestraft.
 
-### 3. Abschnitt: Strafverfolgung****
+### 3. Abschnitt: Strafverfolgung
 
 [^chap10-sec3-1]
 
@@ -2879,7 +2895,7 @@ Datum des Inkrafttretens: 1. Oktober 1999[^123-1]
 
 [^123-1]: BRB vom 11. Aug. 1999
 
-## Schlussbestimmungen zur Änderung vom 19. Dezember 2003****
+## Schlussbestimmungen zur Änderung vom 19. Dezember 2003
 
 [^u1-1]
 
@@ -2895,7 +2911,7 @@ Datum des Inkrafttretens: 1. Oktober 1999[^123-1]
 
 [^u1-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 
-## Übergangsbestimmungen zur Änderung vom 16. Dezember 2005****
+## Übergangsbestimmungen zur Änderung vom 16. Dezember 2005
 
 [^u2-1]
 
@@ -2911,7 +2927,7 @@ Datum des Inkrafttretens: 1. Oktober 1999[^123-1]
 
 [^u2-2]: [AS 1999 2262](https://fedlex.data.admin.ch/eli/oc/1999/358)
 
-## Übergangsbestimmung zur Änderung vom 28. September 2012****
+## Übergangsbestimmung zur Änderung vom 28. September 2012
 
 [^u3-1]
 
@@ -2919,7 +2935,7 @@ Datum des Inkrafttretens: 1. Oktober 1999[^123-1]
 
 Für Asylgesuche, die im Ausland vor dem Inkrafttreten der Änderung vom 28. September 2012 dieses Gesetzes gestellt worden sind, gelten die Artikel 12, 19, 20, 41 Absatz 2, 52 und 68 in der bisherigen Fassung.
 
-## Übergangsbestimmungen zur Änderung vom 14. Dezember 2012****
+## Übergangsbestimmungen zur Änderung vom 14. Dezember 2012
 
 [^u4-1]
 
@@ -2937,7 +2953,7 @@ Für Asylgesuche, die im Ausland vor dem Inkrafttreten der Änderung vom 28. Sep
 
 [^u4-2]: Heute: Art. 26*a*
 
-## Übergangsbestimmungen der Änderung vom 26. September 2014****
+## Übergangsbestimmungen der Änderung vom 26. September 2014
 
 [^u5-1]
 
@@ -2952,7 +2968,7 @@ Für Asylgesuche, die im Ausland vor dem Inkrafttreten der Änderung vom 28. Sep
 - a. gestützt auf eine Evaluation als tauglich betrachtet werden können; und
 - b. in eine Gesetzesvorlage nach Artikel 112*b* Absatz 1 aufgenommen werden.
 
-## Übergangsbestimmungen zur Änderung vom 25. September 2015****
+## Übergangsbestimmungen zur Änderung vom 25. September 2015
 
 [^u6-1]
 
@@ -2970,7 +2986,7 @@ Für Asylgesuche, die im Ausland vor dem Inkrafttreten der Änderung vom 28. Sep
 
 [^u6-2]: [AS 2012 5359](https://fedlex.data.admin.ch/eli/oc/2012/612); [2015 2047](https://fedlex.data.admin.ch/eli/oc/2015/379)
 
-## Übergangsbestimmung zur Änderung vom 16. Dezember 2016****
+## Übergangsbestimmung zur Änderung vom 16. Dezember 2016
 
 [^u7-1]
 
@@ -2980,7 +2996,7 @@ Für die im Zeitpunkt des Inkrafttretens der Änderung vom 16. Dezember 2016 hä
 
 [^u7-2]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 21 Abs. 3)
 
@@ -3000,7 +3016,7 @@ Die Dublin-Assoziierungsabkommen umfassen:
 [^annex1-lvlu1-3]: [SR 0.142.393.141](https://fedlex.data.admin.ch/eli/cc/2008/777)
 [^annex1-lvlu1-4]: [SR 0.142.395.141](https://fedlex.data.admin.ch/eli/cc/2011/195)
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 ## Änderung bisherigen Rechts
 

@@ -4,11 +4,11 @@ title: "Loi du 26 juin 1998 sur l'asile (LAsi)"
 short: LAsi
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/358"
 language: fr
-version: 2022-06-01
+version: 2022-09-01
 adopted: 1998-06-26
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/358/20220601/fr/xml/fedlex-data-admin-ch-eli-cc-1999-358-20220601-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20220601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/358/20220901/fr/xml/fedlex-data-admin-ch-eli-cc-1999-358-20220901-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20220901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20220601/fr"
 
 (LAsi)
 
-du 26 juin 1998 (Etat le 1<sup>er</sup> juin 2022)
+du 26 juin 1998 (État le 1<sup>er</sup> septembre 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -432,7 +432,7 @@ Le SEM autorise l’entrée lorsque la Suisse est compétente en vertu du règle
 [^23-2]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> fév. 2014 ([RO 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 4035](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 6735](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 [^23-3]: Nouvelle teneur selon le ch. I de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 7771](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 
-### Section 2*a* Centres de la Confédération****
+### Section 2*a* Centres de la Confédération
 
 [^chap2-sec2a-1]
 
@@ -856,7 +856,7 @@ Quiconque dépose une demande d’asile en Suisse peut y séjourner jusqu’à l
 [^43-6]: Introduit par le ch. I de la LF du 16 déc. 2005, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [FF 2002 6359](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 [^43-7]: Nouvelle teneur selon le ch. I de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 7771](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 
-### Section 5 Exécution du renvoi et mesures de substitution****
+### Section 5 Exécution du renvoi et mesures de substitution
 
 [^chap2-sec5-1]
 
@@ -885,28 +885,31 @@ Lorsqu’il rejette la demande d’asile ou qu’il refuse d’entrer en matièr
 
 La décision de renvoi indique:
 
-- a. l’obligation pour le requérant de quitter la Suisse;
-- b. le jour auquel il devra avoir quitté la Suisse; si l’admission provisoire a été ordonnée, le délai de départ sera fixé au moment où cette mesure sera levée;
-- c.[^45-2] les moyens de contrainte applicables;
+- a.[^45-2] sous réserve de traités internationaux, notamment des accords d’association à Dublin[^45-3], l’obligation pour le requérant de quitter la Suisse et l’espace Schengen ainsi que l’obligation de poursuivre son voyage à destination de l’État de provenance ou d’un autre État en dehors de l’espace Schengen, qui le prend en charge;
+- b.[^45-4] sous réserve de traités internationaux, notamment des accords d’association à Dublin, le jour auquel le requérant doit avoir quitté la Suisse et l’espace Schengen; si une admission provisoire a été ordonnée, le délai de départ est fixé au moment où cette mesure est levée;
+- c.[^45-5] les moyens de contrainte applicables;
 - d. le cas échéant, les États dans lesquels le requérant ne doit pas être renvoyé;
 - e. le cas échéant, la mesure remplaçant l’exécution du renvoi;
 - f. le canton compétent pour exécuter le renvoi ou la mesure qui le remplace.
 
-<sup>2</sup> La décision de renvoi est assortie d’un délai de départ raisonnable allant de sept à 30 jours. Pour les décisions rendues lors d’une procédure accélérée, le délai de départ est de sept jours. Pour les décisions prises lors d’une procédure étendue, il est de sept à 30 jours.[^45-3]
+<sup>2</sup> La décision de renvoi est assortie d’un délai de départ raisonnable allant de sept à 30 jours. Pour les décisions rendues lors d’une procédure accélérée, le délai de départ est de sept jours. Pour les décisions prises lors d’une procédure étendue, il est de sept à 30 jours.[^45-6]
 
-<sup>2bis</sup> Un délai de départ plus long est imparti ou le délai de départ est prolongé lorsque des circonstances particulières telles que la situation familiale, des problèmes de santé ou la durée du séjour le justifient.[^45-4]
+<sup>2bis</sup> Un délai de départ plus long est imparti ou le délai de départ est prolongé lorsque des circonstances particulières telles que la situation familiale, des problèmes de santé ou la durée du séjour le justifient.[^45-7]
 
-<sup>3</sup> Le renvoi peut être immédiatement exécutoire ou un délai de départ de moins de sept jours peut être fixé si le requérant est renvoyé sur la base de l’accord d’association à Dublin[^45-5].[^45-6]
+<sup>3</sup> Le renvoi peut être immédiatement exécutoire ou un délai de départ de moins de sept jours peut être fixé si le requérant est renvoyé sur la base des accords d’association à Dublin[^45-8].[^45-9]
 
-<sup>4</sup> Le requérant d’asile reçoit une feuille d’information contenant des explications relatives à la décision de renvoi.[^45-7]
+<sup>4</sup> Le requérant d’asile reçoit une feuille d’information contenant des explications relatives à la décision de renvoi.[^45-10]
 
 [^45-1]: Nouvelle teneur selon l’art. 2 ch. 2 de l’AF du 18 juin 2010 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et la CE concernant la reprise de la directive CE sur le retour (directive 2008/115/CE), en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [FF 2009 8043](https://fedlex.data.admin.ch/eli/fga/2009/1528)).
-[^45-2]: Nouvelle teneur selon le ch. I de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 7771](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
-[^45-3]: Nouvelle teneur selon le ch. I de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 7771](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
-[^45-4]: Introduit par le ch. I de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 7771](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
-[^45-5]: Ces accords sont mentionnés à l’annexe 1.
-[^45-6]: Introduit par l’art. 2 ch. 2 de l’AF du 18 juin 2010 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et la CE concernant la reprise de la directive CE sur le retour (directive 2008/115/CE), en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [FF 2009 8043](https://fedlex.data.admin.ch/eli/fga/2009/1528)).
-[^45-7]: Introduit par l’art. 2 ch. 2 de l’AF du 18 juin 2010 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et la CE concernant la reprise de la directive CE sur le retour (directive 2008/115/CE), en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [FF 2009 8043](https://fedlex.data.admin.ch/eli/fga/2009/1528)).
+[^45-2]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> sept. 2022 ([RO 2022 459](https://fedlex.data.admin.ch/eli/oc/2022/459); [FF 2020 6893](https://fedlex.data.admin.ch/eli/fga/2020/1902)).
+[^45-3]: Ces accords sont mentionnés à l’annexe 1.
+[^45-4]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> sept. 2022 ([RO 2022 459](https://fedlex.data.admin.ch/eli/oc/2022/459); [FF 2020 6893](https://fedlex.data.admin.ch/eli/fga/2020/1902)).
+[^45-5]: Nouvelle teneur selon le ch. I de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 7771](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^45-6]: Nouvelle teneur selon le ch. I de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 7771](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^45-7]: Introduit par le ch. I de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 7771](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^45-8]: Ces accords sont mentionnés à l’annexe 1.
+[^45-9]: Introduit par l’art. 2 ch. 2 de l’AF du 18 juin 2010 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et la CE concernant la reprise de la directive CE sur le retour (directive 2008/115/CE) ([RO 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [FF 2009 8043](https://fedlex.data.admin.ch/eli/fga/2009/1528)). Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> sept. 2022 ([RO 2022 459](https://fedlex.data.admin.ch/eli/oc/2022/459); [FF 2020 6893](https://fedlex.data.admin.ch/eli/fga/2020/1902)).
+[^45-10]: Introduit par l’art. 2 ch. 2 de l’AF du 18 juin 2010 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et la CE concernant la reprise de la directive CE sur le retour (directive 2008/115/CE), en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [FF 2009 8043](https://fedlex.data.admin.ch/eli/fga/2009/1528)).
 
 #### Art. 46
 
@@ -1364,13 +1367,13 @@ Les dispositions des chap. 3 et 4 concernant les conjoints s’appliquent par an
 
 [^79a-1]: Introduit par le ch. I 2 de la LF du 15 juin 2012 concernant les mesures de lutte contre les mariages forcés, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [FF 2011 2045](https://fedlex.data.admin.ch/eli/fga/2011/292)).
 
-## Chapitre 5 Aide sociale et aide d’urgence****
+## Chapitre 5 Aide sociale et aide d’urgence
 
 [^chap5-1]
 
 [^chap5-1]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 2005, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [FF 2002 6359](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 
-### Section 1 Octroi de prestations d’aide sociale, de l’aide d’urgence et d’allocations pour enfants et enseignement de base ****
+### Section 1 Octroi de prestations d’aide sociale, de l’aide d’urgence et d’allocations pour enfants et enseignement de base
 
 [^chap5-sec1-1]
 
@@ -1503,7 +1506,7 @@ Pour les requérants dont les enfants vivent à l’étranger, les allocations s
 [^84-1]: Nouvelle teneur selon l’annexe ch. IV 1 de la LF du 16 déc. 2005 sur les étrangers, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758), [2008 5405](https://fedlex.data.admin.ch/eli/oc/2008/755); [FF 2002 3469](https://fedlex.data.admin.ch/eli/fga/2002/541)).
 [^84-2]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 
-### Section 2**** Obligation de rembourser et taxe spéciale sur les valeurs patrimoniales
+### Section 2 Obligation de rembourser et taxe spéciale sur les valeurs patrimoniales
 
 [^chap5-sec2-1]
 
@@ -1745,7 +1748,7 @@ La Confédération fournit une aide au retour. À cette fin, elle peut prévoir 
 
 [^95-1]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 2005, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [FF 2002 6359](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 
-## Chapitre 6*a***** Approbation des plans concernant les constructions et installations de la Confédération
+## Chapitre 6*a* Approbation des plans concernant les constructions et installations de la Confédération
 
 [^chap6a-1]
 
@@ -1871,7 +1874,7 @@ La procédure simplifiée d’approbation des plans s’applique:
 
 <sup>4</sup> Au surplus, la procédure ordinaire est applicable. En cas de doute, cette dernière est appliquée.
 
-### Section 3 Procédures de conciliation et d’estimation; envoi en possession anticipé****
+### Section 3 Procédures de conciliation et d’estimation; envoi en possession anticipé
 
 [^chap6a-sec3-1]
 
@@ -1899,7 +1902,7 @@ La procédure simplifiée d’approbation des plans s’applique:
 
 ## Chapitre 7 Traitement de données personnelles
 
-### Section 1 Principes****
+### Section 1 Principes
 
 [^chap7-sec1-1]
 
@@ -2025,7 +2028,7 @@ Les données sont détruites:
 [^99-5]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 [^99-6]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 2005, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [FF 2002 6359](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 
-### Section 1*a***** Système d’information des centres de la Confédération et des logements dans les aéroports****
+### Section 1*a* Système d’information des centres de la Confédération et des logements dans les aéroports
 
 [^chap7-sec1a-1][^chap7-sec1a-2]
 
@@ -2103,7 +2106,7 @@ Le Conseil fédéral règle:
 - e. la durée de conservation des données;
 - f. l’archivage et la destruction des données à l’échéance de la durée de conservation.
 
-### Section 1*b* Autres systèmes d’information****
+### Section 1*b* Autres systèmes d’information
 
 [^chap7-sec1b-1]
 
@@ -2152,7 +2155,7 @@ Afin que le SEM puisse gérer les indemnités versées aux cantons, l’Office f
 
 [^102a-1]: Introduit par le ch. I de la LF du 16 déc. 2005, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [FF 2002 6359](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 
-### Section 2**** Traitement de données dans le cadre des accords d’association à Dublin
+### Section 2 Traitement de données dans le cadre des accords d’association à Dublin
 
 [^chap7-sec2-1]
 
@@ -2260,7 +2263,7 @@ Le droit d’accès est régi par les dispositions fédérales ou cantonales de 
 
 [^102e-1]: Nouvelle teneur selon le ch. 2 de la LF du 19 mars 2010 portant mise en œuvre de la décision-cadre 2008/977/JAI relative à la protection des données à caractère personnel traitées dans le cadre de la coopération policière et judiciaire en matière pénale, en vigueur depuis le 1<sup>er</sup> déc. 2010 ([RO 2010 3387](https://fedlex.data.admin.ch/eli/oc/2010/464)3418; [FF 2009 6091](https://fedlex.data.admin.ch/eli/fga/2009/1207)).
 
-### Section 3**** Vidéosurveillance
+### Section 3 Vidéosurveillance
 
 [^chap7-sec3-1]
 
@@ -2278,13 +2281,13 @@ Le droit d’accès est régi par les dispositions fédérales ou cantonales de 
 
 <sup>5</sup> Le Conseil fédéral règle les modalités de la vidéosurveillance. Il détermine notamment quels sont les bâtiments et les parties de ces bâtiments qui peuvent être soumis à la vidéosurveillance, la manière dont les enregistrements doivent être conservés et protégés des abus, ainsi que le mode de leur remise aux autorités de poursuite pénale.
 
-## Chapitre 8 Voies de droit, procédure de recours, réexamen et demandes multiples****
+## Chapitre 8 Voies de droit, procédure de recours, réexamen et demandes multiples
 
 [^chap8-1]
 
 [^chap8-1]: Anciennement avant l’art. 103. Nouvelle teneur selon le ch. I de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 7771](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 
-### Section 1**** Voies de droit dans les centres de la Confédération
+### Section 1 Voies de droit dans les centres de la Confédération
 
 [^chap8-sec1-1]
 
@@ -2305,6 +2308,11 @@ Le droit d’accès est régi par les dispositions fédérales ou cantonales de 
 <sup>1</sup> Durant son séjour dans un centre de la Confédération, le requérant bénéficie d’un conseil concernant la procédure d’asile.
 
 <sup>2</sup> Ce conseil comprend notamment les informations fournies au requérant sur ses droits et ses obligations durant la procédure d’asile.
+
+<sup>3</sup> Il comprend également les informations sur le mécanisme de traitement des plaintes au sens de l’art. 111 du règlement (UE) 2019/1896[^102g-1].[^102g-2]
+
+[^102g-1]: Règlement (UE) 2019/1896 du Parlement européen et du Conseil du 13 novembre 2019 relatif au corps européen de garde-frontières et de garde-côtes et abrogeant les règlements (UE) n<sup>o</sup> 1052/2013 et (UE) 2016/1624, JO L 295 du 14.11.2019, p. 1.
+[^102g-2]: Introduit par le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> sept. 2022 ([RO 2022 459](https://fedlex.data.admin.ch/eli/oc/2022/459); [FF 2020 6893](https://fedlex.data.admin.ch/eli/fga/2020/1902)).
 
 #### Art. 102h
 
@@ -2358,10 +2366,14 @@ La Confédération verse au prestataire, sur la base d’une convention et pour 
 - d. représentation juridique lors de la procédure de recours, en particulier par la rédaction d’un mémoire de recours;
 - e. défense des intérêts de requérants d’asile mineurs non accompagnés en qualité de personne de confiance dans les centres de la Confédération et à l’aéroport;
 - f. en cas de passage à la procédure étendue, information par le représentant juridique désigné au bureau de conseil juridique sur l’état actuel de la procédure, ou maintien du mandat de représentation en présence d’étapes de procédure déterminantes pour la décision visées à l’art 102*l*.
+- g.[^102k-1] conseil et aide lors du dépôt d’une plainte au sens de l’art. 111 du règlement (UE) 2019/1896[^102k-2].
 
 <sup>2</sup> L’indemnité inclut une contribution aux frais administratifs ainsi qu’aux charges du personnel du prestataire, en particulier pour l’organisation du conseil et de la représentation juridique, ainsi qu’une contribution pour le recours à des interprètes indépendants. L’indemnité est fixée forfaitairement. À titre exceptionnel, les contributions peuvent être fixées selon la dépense, en particulier pour l’indemnisation de coûts uniques.
 
-### Section 1*a***** Conseil et représentation juridique dans la procédure étendue après l’attribution à un canton
+[^102k-1]: Introduite par le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> sept. 2022 ([RO 2022 459](https://fedlex.data.admin.ch/eli/oc/2022/459); [FF 2020 6893](https://fedlex.data.admin.ch/eli/fga/2020/1902)).
+[^102k-2]: Cf. note de bas de page relative à l’art. 102*g*, al. 3
+
+### Section 1*a* Conseil et représentation juridique dans la procédure étendue après l’attribution à un canton
 
 [^chap8-sec1a-1]
 
@@ -2369,13 +2381,19 @@ La Confédération verse au prestataire, sur la base d’une convention et pour 
 
 #### Art. 102l
 
-<sup>1</sup> Après l’attribution à un canton, le requérant d’asile peut s’adresser gratuitement au représentant juridique désigné ou à un bureau de conseil juridique pour les étapes de la procédure de première instance déterminantes pour la décision, en particulier si une audition supplémentaire sur les motifs d’asile doit avoir lieu.
+<sup>1</sup> Après l’attribution à un canton, le requérant d’asile peut s’adresser gratuitement à un bureau de conseil juridique ou au représentant juridique désigné pour les étapes de la procédure de première instance déterminantes pour la décision, en particulier si une audition supplémentaire sur les motifs d’asile doit avoir lieu.[^102l-1]
 
-<sup>2</sup> La Confédération verse aux bureaux de conseil juridique, sur la base d’une convention et pour des solutions financièrement avantageuses, une indemnité pour les activités visées à l’al. 1. Cette indemnité est fixée forfaitairement. À titre exceptionnel, les contributions peuvent être fixées selon la dépense, en particulier pour l’indemnisation de coûts uniques.
+<sup>1bis</sup> Après l’attribution à un canton, le requérant d’asile peut s’adresser gratuitement à un bureau de conseil juridique ou au représentant juridique désigné en vue du conseil et de l’aide au sens de l’art. 102*k*, al. 1, let. g, s’il n’en a pas déjà bénéficié dans un centre de la Confédération.[^102l-2]
+
+<sup>2</sup> La Confédération verse aux bureaux de conseil juridique, sur la base d’une convention et pour des solutions financièrement avantageuses, une indemnité pour les activités visées aux al. 1 et 1<sup>bis</sup> [^102l-3]. Cette indemnité est fixée forfaitairement. À titre exceptionnel, les contributions peuvent être fixées selon la dépense, en particulier pour l’indemnisation de coûts uniques.
 
 <sup>3</sup> Le Conseil fédéral fixe les conditions applicables à l’agrément des bureaux de conseil juridique et définit les étapes de la procédure déterminantes pour la décision au sens de l’al. 1.
 
-### Section 1*b***** Assistance judiciaire gratuite
+[^102l-1]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> sept. 2022 ([RO 2022 459](https://fedlex.data.admin.ch/eli/oc/2022/459); [FF 2020 6893](https://fedlex.data.admin.ch/eli/fga/2020/1902)).
+[^102l-2]: Introduit par le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> sept. 2022 ([RO 2022 459](https://fedlex.data.admin.ch/eli/oc/2022/459); [FF 2020 6893](https://fedlex.data.admin.ch/eli/fga/2020/1902)).
+[^102l-3]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> sept. 2022 ([RO 2022 459](https://fedlex.data.admin.ch/eli/oc/2022/459); [FF 2020 6893](https://fedlex.data.admin.ch/eli/fga/2020/1902)).
+
+### Section 1*b* Assistance judiciaire gratuite
 
 [^chap8-sec1b-1]
 
@@ -2401,7 +2419,7 @@ Sur demande du requérant qui a été dispensé de payer les frais de procédure
 [^102m-1]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 [^102m-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 
-### Section 1*c* Procédure de recours au niveau cantonal****
+### Section 1*c* Procédure de recours au niveau cantonal
 
 [^chap8-sec1c-1]
 
@@ -2620,7 +2638,7 @@ Aucune indemnité n’est allouée aux parties dans les procédures de recours c
 
 [^111ater-1]: Introduit par le ch. I de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 7771](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 
-### Section 3 Réexamen et demandes multiples****
+### Section 3 Réexamen et demandes multiples
 
 [^chap8-sec3-1]
 
@@ -2677,7 +2695,7 @@ Le SEM peut percevoir du requérant une avance de frais équivalant aux frais de
 
 [^112-1]: Abrogé par le ch. I de la LF du 14 déc. 2012, avec effet au 1<sup>er</sup> fév. 2014 ([RO 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 4035](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 6735](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 
-### Section 4 Empêchement et suspension de la prescription****
+### Section 4 Empêchement et suspension de la prescription
 
 [^chap8-sec4-1]
 
@@ -2691,7 +2709,7 @@ Pendant la durée de la procédure de recours, la prescription des prétentions 
 
 [^112a-1]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> fév. 2014 ([RO 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 4035](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 6735](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 
-## Chapitre 8*a* Procédure d’asile dans le cadre de phases de test****
+## Chapitre 8*a* Procédure d’asile dans le cadre de phases de test
 
 [^chap8a-1]
 
@@ -2715,7 +2733,7 @@ Pendant la durée de la procédure de recours, la prescription des prétentions 
 [^112b-2]: Abrogé par le ch. I de la LF du 14 déc. 2012, avec effet au 1<sup>er</sup> fév. 2014 ([RO 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 4035](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 6735](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 [^112b-3]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 
-## Chapitre 9 Collaboration internationale****
+## Chapitre 9 Collaboration internationale
 
 [^chap9-1]
 
@@ -2739,7 +2757,7 @@ Pour mettre en œuvre un crédit-cadre pour la migration accordé sur la base de
 
 ## Chapitre 10 Dispositions pénales
 
-### Section 1 Dispositions pénales concernant le chap. 5, section 2****
+### Section 1 Dispositions pénales concernant le chap. 5, section 2
 
 [^chap10-sec1-1]
 
@@ -2787,7 +2805,7 @@ Sera puni de l’amende, à moins que l’état de fait ne relève de l’art. 1
 
 [^117-1]: Abrogé par l’annexe ch. 1 de la LF du 16 déc. 2016 (Intégration), avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718); [FF 2016 2665](https://fedlex.data.admin.ch/eli/fga/2016/524), [2013 2131](https://fedlex.data.admin.ch/eli/fga/2013/416)).
 
-### Section 2**** Dispositions pénales concernant le chap. 7, section 2
+### Section 2 Dispositions pénales concernant le chap. 7, section 2
 
 [^chap10-sec2-1]
 
@@ -2799,7 +2817,7 @@ Sera puni de l’amende, à moins que l’état de fait ne relève de l’art. 1
 
 Sera puni de l’amende celui qui aura traité des données personnelles enregistrées dans Eurodac dans un but autre que celui de déterminer l’État responsable de l’examen de la demande d’asile déposée par le ressortissant d’un État tiers dans un État auquel s’appliquent les accords d’association à Dublin.
 
-### Section 3 Poursuite pénale****
+### Section 3 Poursuite pénale
 
 [^chap10-sec3-1]
 
@@ -2878,7 +2896,7 @@ Date de l’entrée en vigueur: 1<sup>er</sup> octobre 1999[^123-1]
 
 [^123-1]: ACF du 11 août 1999
 
-## Dispositions transitoires relatives à la modification du 19 décembre 2003****
+## Dispositions transitoires relatives à la modification du 19 décembre 2003
 
 [^u1-1]
 
@@ -2894,7 +2912,7 @@ Date de l’entrée en vigueur: 1<sup>er</sup> octobre 1999[^123-1]
 
 [^u1-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 
-## Dispositions transitoires relatives à la modification du 16 décembre 2005****
+## Dispositions transitoires relatives à la modification du 16 décembre 2005
 
 [^u2-1]
 
@@ -2910,7 +2928,7 @@ Date de l’entrée en vigueur: 1<sup>er</sup> octobre 1999[^123-1]
 
 [^u2-2]: [RO 1999 2262](https://fedlex.data.admin.ch/eli/oc/1999/358)
 
-## Disposition transitoire de la modification du 28 septembre 2012****
+## Disposition transitoire de la modification du 28 septembre 2012
 
 [^u3-1]
 
@@ -2918,7 +2936,7 @@ Date de l’entrée en vigueur: 1<sup>er</sup> octobre 1999[^123-1]
 
 Les demandes d’asile qui ont été déposées à l’étranger avant l’entrée en vigueur de la modification du 28 septembre 2012 de la présente loi sont soumises aux art. 12, 19, 20, 41, al. 2, 52 et 68 dans leur ancienne teneur.
 
-## Dispositions transitoires de la modification du 14 décembre 2012****
+## Dispositions transitoires de la modification du 14 décembre 2012
 
 [^u4-1]
 
@@ -2936,7 +2954,7 @@ Les demandes d’asile qui ont été déposées à l’étranger avant l’entr�
 
 [^u4-2]: Actuellement art. 26*a*.
 
-## Dispositions transitoires relatives à la modification du 26 septembre 2014****
+## Dispositions transitoires relatives à la modification du 26 septembre 2014
 
 [^u5-1]
 
@@ -2951,7 +2969,7 @@ Les demandes d’asile qui ont été déposées à l’étranger avant l’entr�
 - a. elles peuvent être considérées comme appropriées sur la base d’une évaluation;
 - b. elles sont intégrées dans un projet de loi au sens de l’art. 112*b*, al. 1.
 
-## Dispositions transitoires de la modification du 25 septembre 2015****
+## Dispositions transitoires de la modification du 25 septembre 2015
 
 [^u6-1]
 
@@ -2969,7 +2987,7 @@ Les demandes d’asile qui ont été déposées à l’étranger avant l’entr�
 
 [^u6-2]: [RO 2012 5359](https://fedlex.data.admin.ch/eli/oc/2012/612), [2015 2047](https://fedlex.data.admin.ch/eli/oc/2015/379)
 
-## Disposition transitoire relative à la modification du 16 décembre 2016****
+## Disposition transitoire relative à la modification du 16 décembre 2016
 
 [^u7-1]
 
@@ -2979,7 +2997,7 @@ Les procédures pendantes et les créances en cours visées aux art. 86 et 87 de
 
 [^u7-2]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 21, al. 3)
 
@@ -2999,7 +3017,7 @@ Les accords d’association à Dublin comprennent les accords suivants:
 [^annex1-lvlu1-3]: [RS 0.142.393.141](https://fedlex.data.admin.ch/eli/cc/2008/777)
 [^annex1-lvlu1-4]: [RS 0.142.395.141](https://fedlex.data.admin.ch/eli/cc/2011/195)
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 ## Modification du droit en vigueur
 

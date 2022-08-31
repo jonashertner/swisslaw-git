@@ -4,11 +4,11 @@ title: Asylum Act of 26 June 1998 (AsylA)
 short: AsylA
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/358"
 language: en
-version: 2022-06-01
+version: 2022-09-01
 adopted: 1998-06-26
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/358/20220601/en/xml/fedlex-data-admin-ch-eli-cc-1999-358-20220601-en-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20220601/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/358/20220901/en/xml/fedlex-data-admin-ch-eli-cc-1999-358-20220901-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20220901/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (AsylA)
 
-of 26 June 1998 (Status as of 1 June 2022)
+of 26 June 1998 (Status as of 1 September 2022)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -436,7 +436,7 @@ It shall authorise entry if Switzerland is competent to carry out the asylum pro
 [^23-2]: Amended by No I of the FA of 14 Dec. 2012, in force since 1 Feb. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 [^23-3]: Amended by No I of the FA of 25 Sept. 2015, in force since 1 March 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 
-### Section 2*a* Federal Centres****
+### Section 2*a* Federal Centres
 
 [^chap2-sec2a-1]
 
@@ -860,7 +860,7 @@ Any person who applies for asylum in Switzerland may stay in Switzerland until t
 [^43-6]: Inserted by No I of the FA of 16 Dec. 2005, in force since 1 Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 [^43-7]: Amended by No I of the FA of 25 Sept. 2015, in force since 1 March 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 
-### Section 5 Enforcement of Removal Orders and Alternative Measures****
+### Section 5 Enforcement of Removal Orders and Alternative Measures
 
 [^chap2-sec5-1]
 
@@ -889,28 +889,30 @@ Any person who applies for asylum in Switzerland may stay in Switzerland until t
 
 The removal order shall indicate:
 
-- a. the obligation of the asylum seeker to leave Switzerland;
-- b. the time by which the asylum seeker must have left Switzerland; where temporary admission has been granted, the departure date is determined when the decision is made to revoke temporary admission;
-- c.[^45-2] the coercive measures that may be applied;
+- a.[^45-2] subject to international agreements, in particular the Dublin Association Agreements[^45-3], the obligation of the asylum seeker to leave Switzerland and the Schengen area and the obligation to travel to the country of origin or to another state outside the Schengen area that will accept the person concerned;
+- b.[^45-4] subject to international agreements, in particular the Dublin Association Agreements, the time by which the asylum seeker must have left Switzerland and the Schengen area; where temporary admission has been granted, the departure date is determined when the decision is made to revoke temporary admission;
+- c.[^45-5] the coercive measures that may be applied;
 - d. if applicable, the designation of the states to which the asylum seeker may not be returned;
 - e. if applicable, the ordering of an alternative measure instead of enforcing the removal order;
 - f. the designation of the canton responsible for the enforcement of the removal order or the alternative measure.
 
-<sup>2</sup> On issuing the removal order, an appropriate departure period of between seven and thirty days must be set*.* The period is seven days in the case of decisions taken under the accelerated procedure. Under the extended procedure, the period is between seven and thirty days*.*[^45-3]
+<sup>2</sup> On issuing the removal order, an appropriate departure period of between seven and thirty days must be set*.* The period is seven days in the case of decisions taken under the accelerated procedure. Under the extended procedure, the period is between seven and thirty days*.*[^45-6]
 
-<sup>2bis</sup> A longer period must be set or the departure period extended if special circumstances such as the family situation, health problems or a long period of stay so require*.*[^45-4]
+<sup>2bis</sup> A longer period must be set or the departure period extended if special circumstances such as the family situation, health problems or a long period of stay so require*.*[^45-7]
 
-<sup>3</sup> The removal order must be enforced immediately or a departure period of less than seven days may be set where the person concerned is being removed under the Dublin Association Agreements[^45-5].[^45-6]
+<sup>3</sup> The removal order must be enforced immediately or a departure period of less than seven days may be set where the person concerned is being removed under the Dublin Association Agreements.[^45-8]
 
-<sup>4</sup> The asylum seeker must be provided with an information sheet with an explanation of the removal order.[^45-7]
+<sup>4</sup> The asylum seeker must be provided with an information sheet with an explanation of the removal order.[^45-9]
 
 [^45-1]: Amended by Art. 2 No 2 of the FD of 18 June 2010 on the Adoption of the EC Directive on the Return of Illegal Immigrants (Directive 2008/115/EC), in force since 1 Jan. 2011 ([AS 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [BBl 2009 8881](https://fedlex.data.admin.ch/eli/fga/2009/1528)).
-[^45-2]: Amended by No I of the FA of 25 Sept. 2015, in force since 1 March 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
-[^45-3]: Amended by No I of the FA of 25 Sept. 2015, in force since 1 March 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
-[^45-4]: Amended by Art. 2 No 2 of the FD of 18 June 2010 on the Adoption of the EC Directive on the Return of Illegal Immigrants (Directive 2008/115/EC), in force since 1 Jan. 2011 ([AS 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [BBl 2009 8881](https://fedlex.data.admin.ch/eli/fga/2009/1528)).
-[^45-5]: These Agreements are listed in Annex 1.
-[^45-6]: Inserted by Art. 2 No 2 of the FD of 18 June 2010 on the Adoption of the EC Directive on the Return of Illegal Immigrants (Directive 2008/115/EC), in force since 1 Jan. 2011 ([AS 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [BBl 2009 8881](https://fedlex.data.admin.ch/eli/fga/2009/1528)).
-[^45-7]: Inserted by Art. 2 No 2 of the FD of 18 June 2010 on the Adoption of the EC Directive on the Return of Illegal Immigrants (Directive 2008/115/EC), in force since 1 Jan. 2011 ([AS 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [BBl 2009 8881](https://fedlex.data.admin.ch/eli/fga/2009/1528)).
+[^45-2]: Amended by No I of the FA of 1 Oct. 2021, in force since 1 Sept. 2022 ([AS 2022 459](https://fedlex.data.admin.ch/eli/oc/2022/459); [BBl 2022 7105](https://fedlex.data.admin.ch/eli/fga/2022/7105)).
+[^45-3]: These agreements are listed in Annex 1.
+[^45-4]: Amended by No I of the FA of 1 Oct. 2021, in force since 1 Sept. 2022 ([AS 2022 459](https://fedlex.data.admin.ch/eli/oc/2022/459); [BBl 2022 7105](https://fedlex.data.admin.ch/eli/fga/2022/7105)).
+[^45-5]: Amended by No I of the FA of 25 Sept. 2015, in force since 1 March 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^45-6]: Amended by No I of the FA of 25 Sept. 2015, in force since 1 March 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^45-7]: Amended by Art. 2 No 2 of the FD of 18 June 2010 on the Adoption of the EC Directive on the Return of Illegal Immigrants (Directive 2008/115/EC), in force since 1 Jan. 2011 ([AS 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [BBl 2009 8881](https://fedlex.data.admin.ch/eli/fga/2009/1528)).
+[^45-8]: Inserted by Art. 2 No 2 of the FD of 18 June 2010 on the Adoption of the EC Directive on the Return of Illegal Immigrants (Directive 2008/115/EC) ([AS 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [BBl 2009 8881](https://fedlex.data.admin.ch/eli/fga/2009/1528)). Amended by No I of the FA of 1 Oct. 2021, in force since 1 Sept. 2022 ([AS 2022 459](https://fedlex.data.admin.ch/eli/oc/2022/459); [BBl 2022 7105](https://fedlex.data.admin.ch/eli/fga/2022/7105)).
+[^45-9]: Inserted by Art. 2 No 2 of the FD of 18 June 2010 on the Adoption of the EC Directive on the Return of Illegal Immigrants (Directive 2008/115/EC), in force since 1 Jan. 2011 ([AS 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [BBl 2009 8881](https://fedlex.data.admin.ch/eli/fga/2009/1528)).
 
 #### Art. 46
 
@@ -1365,13 +1367,13 @@ The provisions of Chapters 3 and 4 on spouses apply mutatis mutandis to register
 
 [^79a-1]: Inserted by No I 2 of the FA of 15 June 2012 on Measures against Forced Marriages, in force since 1 July 2013 ([AS 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [BBl 2011 2185](https://fedlex.data.admin.ch/eli/fga/2011/292)).
 
-## Chapter 5 Social Assistance and Emergency Aid****
+## Chapter 5 Social Assistance and Emergency Aid
 
 [^chap5-1]
 
 [^chap5-1]: Amended by No I of the FA of 16 Dec. 2005, in force since 1 Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 
-### Section 1 Provision of Social Assistance, Emergency Aid, Child Allowances and Primary Education****
+### Section 1 Provision of Social Assistance, Emergency Aid, Child Allowances and Primary Education
 
 [^chap5-sec1-1]
 
@@ -1504,7 +1506,7 @@ Child allowances for asylum seekers' children living abroad shall be withheld du
 [^84-1]: Amended by No IV 1 of the FA of 16 Dec. 2005, in force since 1 Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 [^84-2]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 
-### Section 2**** Duty to Reimburse and Special Charge on Assets
+### Section 2 Duty to Reimburse and Special Charge on Assets
 
 [^chap5-sec2-1]
 
@@ -1745,7 +1747,7 @@ The Confederation shall provide return assistance. For this purpose, it may prov
 
 [^95-1]: Amended by No I of the FA of 16 Dec. 2005, in force since 1 Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 
-## Chapter 6*a***** Planning Approval for Federal Buildings and Installations
+## Chapter 6*a* Planning Approval for Federal Buildings and Installations
 
 [^chap6a-1]
 
@@ -1871,7 +1873,7 @@ A simplified planning approval procedure is applied in the case of:
 
 <sup>4</sup> The simplified procedure is otherwise governed by the provisions for the ordinary procedure. In the event of any doubt, the ordinary procedure shall be carried out.
 
-### Section 3 Conciliation and Valuation Procedure; Early Possession****
+### Section 3 Conciliation and Valuation Procedure; Early Possession
 
 [^chap6a-sec3-1]
 
@@ -1899,7 +1901,7 @@ A simplified planning approval procedure is applied in the case of:
 
 ## Chapter 7 Processing of Personal Data
 
-### Section 1 Principles****
+### Section 1 Principles
 
 [^chap7-sec1-1]
 
@@ -2025,7 +2027,7 @@ The data shall be erased:
 [^99-5]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 [^99-6]: Amended by No I of the FA of 16 Dec. 2005, in force since 1 Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 
-### Section 1*a***** Information System for Federal Centres and Airport Accommodation****
+### Section 1*a* Information System for Federal Centres and Airport Accommodation
 
 [^chap7-sec1a-1][^chap7-sec1a-2]
 
@@ -2103,7 +2105,7 @@ The Federal Council shall regulate:
 - e. the length of time that data may be stored;
 - f. the archiving and destruction of data on expiry of the storage period.
 
-### Section 1*b* Other Information Systems****
+### Section 1*b* Other Information Systems
 
 [^chap7-sec1b-1]
 
@@ -2152,7 +2154,7 @@ For the taxation of the financial compensatory payments to the cantons, the Fede
 
 [^102a-1]: Inserted by No I of the FA of 16 Dec. 2005, in force since 1 Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 
-### Section 2**** Data Processing under the Dublin Association Agreements
+### Section 2 Data Processing under the Dublin Association Agreements
 
 [^chap7-sec2-1]
 
@@ -2260,7 +2262,7 @@ The right to information is governed by the federal and cantonal data protection
 
 [^102e-1]: Amended by No 2 of the FA of 19 March 2010 on the Implementation of Framework Decision 2008/977/JHA on the protection of personal data processed in the framework of police and judicial cooperation in criminal matters, in force since 1 Dec. 2010 ([AS 2010 3387](https://fedlex.data.admin.ch/eli/oc/2010/464)3418; [BBl 2009 6749](https://fedlex.data.admin.ch/eli/fga/2009/1207)).
 
-### Section 3**** Video Surveillance
+### Section 3 Video Surveillance
 
 [^chap7-sec3-1]
 
@@ -2278,13 +2280,13 @@ The right to information is governed by the federal and cantonal data protection
 
 <sup>5</sup> The Federal Council shall regulate the modalities of video surveillance. It shall in particular specify which buildings or parts of buildings may be placed under video surveillance, and regulate the storage of recordings, their protection against misuse and their handover to the prosecution authorities.
 
-## Chapter 8 Legal Protection, Appeal Proceedings, Re-examination and Multiple Applications****
+## Chapter 8 Legal Protection, Appeal Proceedings, Re-examination and Multiple Applications
 
 [^chap8-1]
 
 [^chap8-1]: Amended by No I of the FA of 14 Dec. 2012, in force since 1 Feb. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 
-### Section 1**** Legal Protection in Federal Centres
+### Section 1 Legal Protection in Federal Centres
 
 [^chap8-sec1-1]
 
@@ -2305,6 +2307,11 @@ The right to information is governed by the federal and cantonal data protection
 <sup>1</sup> During their stay in a federal centre, asylum seekers shall have access to counselling on the asylum procedure.
 
 <sup>2</sup> The counselling shall include in particular informing the asylum seekers about their rights and obligations in the asylum procedure.
+
+<sup>3</sup> The counselling shall also include information on the complaints mechanism in accordance with Article 111 of Regulation (EU) 2019/1896[^102g-1].[^102g-2]
+
+[^102g-1]: Regulation (EU) 2019/1896 of the European Parliament and of the Council of 13 November 2019 on the European Border and Coast Guard and repealing Regulations (EU) No 1052/2013 and (EU) 2016/1624, amended by OJ L 295 of 14.11.2019, p. 1.
+[^102g-2]: Inserted by No I of the FA of 1 Oct. 2021, in force since 1 Sept. 2022 ([AS 2022 459](https://fedlex.data.admin.ch/eli/oc/2022/459); [BBl 2022 7105](https://fedlex.data.admin.ch/eli/fga/2022/7105)).
 
 #### Art. 102h
 
@@ -2357,11 +2364,15 @@ The Confederation shall, by agreement and on the principle that value for money 
 - c. providing an opinion on the draft asylum decision under the accelerated procedure;
 - d. providing legal representation in appeal proceedings, in particular preparing the appeal documentation;
 - e. representing the interests of unaccompanied minor asylum seekers as a trusted person at federal centres and at airports;
-- f. in the case of allocation to the extended procedure, provision of information by the assigned legal representative to the legal advice agency on the current state of proceedings, or continuation of legal representation assigned in procedural stages relevant to a decision under Article 102*l*.
+- f. in the case of allocation to the extended procedure, provision of information by the assigned legal representative to the legal advice agency on the current state of proceedings, or continuation of legal representation assigned in procedural stages relevant to a decision under Article 102*l*;
+- g.[^102k-1] advice and assistance in relation to submitting a complaint under Article 111 of Regulation (EU) 2019/1896[^102k-2].
 
 <sup>2</sup> The payment shall contain a contribution to the administrative and staff costs incurred by the provider, in particular for the organisation of counselling and legal representation, as well as a contribution to independent translation. Payment shall be made as a lump sum. In exceptional cases, the payment may be based on the actual expenditure, especially in the case of non-recurring costs.
 
-### Section 1*a***** Counselling and Legal Representation in the Extended Procedure following Allocation to the Cantons
+[^102k-1]: Inserted by No I of the FA of 1 Oct. 2021, in force since 1 Sept. 2022 ([AS 2022 459](https://fedlex.data.admin.ch/eli/oc/2022/459); [BBl 2022 7105](https://fedlex.data.admin.ch/eli/fga/2022/7105)).
+[^102k-2]: See footnote to Art. 102*g* para. 3.
+
+### Section 1*a* Counselling and Legal Representation in the Extended Procedure following Allocation to the Cantons
 
 [^chap8-sec1a-1]
 
@@ -2371,11 +2382,16 @@ The Confederation shall, by agreement and on the principle that value for money 
 
 <sup>1</sup> Following allocation to a canton, asylum seekers may contact a legal advice agency or the legal representative allocated free of charge at steps of the procedure at first instance relevant to the decision, in particular if an additional interview is held on the grounds for asylum.
 
-<sup>2</sup> The Confederation shall pay the legal advice agency for the work it carries out under paragraph 1 by agreement and on the principle that value for money will be ensured. The payment shall be made as a lump sum. In exceptional cases, the payment may be based on the actual expenditure, especially in the case of non-recurring costs.
+<sup>1bis</sup> Following allocation to a canton, asylum seekers may contact a legal advice agency or the legal representative allocated free of charge for the advice and assistance under Article 102k paragraph 1 letter g unless this advice and assistance has already been provided in a federal centre.[^102l-1]
+
+<sup>2</sup> The Confederation shall pay the legal advice agency for the work it carries out under paragraph 1 and 1<sup>bis</sup> by agreement and on the principle that value for money will be ensured.[^102l-2] The payment shall be made as a lump sum. In exceptional cases, the payment may be based on the actual expenditure, especially in the case of non-recurring costs.
 
 <sup>3</sup> The Federal Council shall lay down the requirements for authorisation as a legal advice agency and shall determine the procedural steps relevant to the decision under paragraph 1.
 
-### Section 1*b***** Legal Aid
+[^102l-1]: Inserted by No I of the FA of 1 Oct. 2021, in force since 1 Sept. 2022 ([AS 2022 459](https://fedlex.data.admin.ch/eli/oc/2022/459); [BBl 2022 7105](https://fedlex.data.admin.ch/eli/fga/2022/7105)).
+[^102l-2]: Amended by No I of the FA of 1 Oct. 2021, in force since 1 Sept. 2022 ([AS 2022 459](https://fedlex.data.admin.ch/eli/oc/2022/459); [BBl 2022 7105](https://fedlex.data.admin.ch/eli/fga/2022/7105)).
+
+### Section 1*b* Legal Aid
 
 [^chap8-sec1b-1]
 
@@ -2401,7 +2417,7 @@ The Federal Administrative Court shall at the request of the asylum seeker, who 
 [^102m-1]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 [^102m-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 
-### Section 1*c* Appeal Proceedings at Cantonal Level****
+### Section 1*c* Appeal Proceedings at Cantonal Level
 
 [^chap8-sec1c-1]
 
@@ -2622,7 +2638,7 @@ In the appeal procedure against decisions on asylum under Article 31*a* which ha
 
 [^111ater-1]: Inserted by No I of the FA of 25 Sept. 2015, in force since 1 March 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 
-### Section 3 Re-examination and Multiple Applications****
+### Section 3 Re-examination and Multiple Applications
 
 [^chap8-sec3-1]
 
@@ -2679,7 +2695,7 @@ SEM may request the applicant to make an advance payment of fees equivalent to t
 
 [^112-1]: Repealed by No I of the FA of 14 Dec. 2012, with effect from 1 Feb. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 
-### Section 4 Stop and Suspension of Limitation Periods****
+### Section 4 Stop and Suspension of Limitation Periods
 
 [^chap8-sec4-1]
 
@@ -2693,7 +2709,7 @@ For the duration of appeal proceedings, the limitation period for financial clai
 
 [^112a-1]: Amended by No I of the FA of 14 Dec. 2012, in force since 1 Feb. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 
-## Chapter 8*a* Asylum Proceedings in Test Phases****
+## Chapter 8*a* Asylum Proceedings in Test Phases
 
 [^chap8a-1]
 
@@ -2717,7 +2733,7 @@ For the duration of appeal proceedings, the limitation period for financial clai
 [^112b-2]: Repealed by No I of the FA of 14 Dec. 2012, with effect from 1 Feb. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 [^112b-3]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 
-## Chapter 9 International Cooperation****
+## Chapter 9 International Cooperation
 
 [^chap9-1]
 
@@ -2739,13 +2755,13 @@ The Federal Council, in implementation of a migration framework credit approved 
 
 [^114-1]: Amended by No I of the FA of 20 Dec. 2019, in force since 1 Nov. 2020 ([AS 2020 3989](https://fedlex.data.admin.ch/eli/oc/2020/742); [BBl 2018 6565](https://fedlex.data.admin.ch/eli/fga/2018/2305)).
 
-## Chapter 10 Criminal Provisions****
+## Chapter 10 Criminal Provisions
 
 [^chap10-1]
 
 [^chap10-1]: Amended by Art. 3 No 2 of the FD of 17 Dec. 2004 on the Approval and the Implementation of the Bilateral Agreements between Switzerland and the EU on Association with Schengen and Dublin, in force since 12 Dec. 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 1 let. a; [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 
-### Section 1 Criminal Provisions relative to Chapter 5 Section 2****
+### Section 1 Criminal Provisions relative to Chapter 5 Section 2
 
 [^chap10-sec1-1]
 
@@ -2794,7 +2810,7 @@ Any person who commits any of the following acts is liable to a fine, unless the
 
 [^117-1]: Repealed by Annex No 1 of the FA of 16 Dec. 2016 (Integration), with effect from 1 Jan. 2018 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718); [BBl 2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524), [2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416)).
 
-### Section 2**** Criminal Provisions relative to Chapter 7 Section 2
+### Section 2 Criminal Provisions relative to Chapter 7 Section 2
 
 [^chap10-sec2-1]
 
@@ -2806,7 +2822,7 @@ Any person who commits any of the following acts is liable to a fine, unless the
 
 Any person who processes personal data stored in Eurodac for a purpose other than to establish which state is responsible for examining an application for asylum made by a citizen of a third country in a state subject to the Dublin Association Agreements is liable to a fine.
 
-### Section 3 Prosecution****
+### Section 3 Prosecution
 
 [^chap10-sec3-1]
 
@@ -2884,7 +2900,7 @@ Commencement date: 1 October 1999[^123-1]
 
 [^123-1]: Federal Council Decree of 11 Aug. 1999.
 
-## Final Provisions to the Amendment of 19 December 2003****
+## Final Provisions to the Amendment of 19 December 2003
 
 [^u1-1]
 
@@ -2900,7 +2916,7 @@ Commencement date: 1 October 1999[^123-1]
 
 [^u1-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 
-## Transitional Provisions to the Amendment of 16 December 2005****
+## Transitional Provisions to the Amendment of 16 December 2005
 
 [^u2-1]
 
@@ -2916,7 +2932,7 @@ Commencement date: 1 October 1999[^123-1]
 
 [^u2-2]: [AS 1999 2262](https://fedlex.data.admin.ch/eli/oc/1999/358)
 
-## Transitional Provision to the Amendment of 28 September 2012****
+## Transitional Provision to the Amendment of 28 September 2012
 
 [^u3-1]
 
@@ -2924,7 +2940,7 @@ Commencement date: 1 October 1999[^123-1]
 
 Articles 12, 19, 20, 41 paragraph 2, 52 and 68 apply in their previous versions to asylum applications that are filed abroad before the amendment to this Act of 28 September 2012 comes into force.
 
-## Transitional Provisions to the Amendment of 14 December 2012****
+## Transitional Provisions to the Amendment of 14 December 2012
 
 [^u4-1]
 
@@ -2942,7 +2958,7 @@ Articles 12, 19, 20, 41 paragraph 2, 52 and 68 apply in their previous versions 
 
 [^u4-2]: Now: Art. 26*a*
 
-## Transitional Provisions to the Amendment of 26 September 2014****
+## Transitional Provisions to the Amendment of 26 September 2014
 
 [^u5-1]
 
@@ -2957,7 +2973,7 @@ Articles 12, 19, 20, 41 paragraph 2, 52 and 68 apply in their previous versions 
 - a. may be regarded as suitable on the basis of an evaluation; and
 - b. are incorporated in a legislative bill in accordance with Article 112*b* paragraph 1.
 
-## Transitional Provisions to the Amendment of 25 September 2015****
+## Transitional Provisions to the Amendment of 25 September 2015
 
 [^u6-1]
 
@@ -2975,7 +2991,7 @@ Articles 12, 19, 20, 41 paragraph 2, 52 and 68 apply in their previous versions 
 
 [^u6-2]: [AS 2012 5359](https://fedlex.data.admin.ch/eli/oc/2012/612), [2015 2047](https://fedlex.data.admin.ch/eli/oc/2015/379)
 
-## Transitional Provision to the Amendment of 16 December 2016****
+## Transitional Provision to the Amendment of 16 December 2016
 
 [^u7-1]
 
@@ -2985,7 +3001,7 @@ Proceedings that are pending and claims that are outstanding under Articles 86 a
 
 [^u7-2]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 
-Annex 1*[^t-1]*
+Annex 1[^t-1]
 
 (Art. 21 para. 3)
 
@@ -3005,7 +3021,7 @@ The Dublin Association Agreements comprise:
 [^annex1-lvlu1-3]: [SR 0.142.393.141](https://fedlex.data.admin.ch/eli/cc/2008/777)
 [^annex1-lvlu1-4]: [SR 0.142.395.141](https://fedlex.data.admin.ch/eli/cc/2011/195)
 
-Annex 2*[^t-2]*
+Annex 2[^t-2]
 
 ## Amendment of Current Legislation
 
