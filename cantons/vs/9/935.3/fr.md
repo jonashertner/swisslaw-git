@@ -4,13 +4,13 @@ number: "935.3"
 title: "Loi sur l'hébergement, la restauration et le commerce de détail de boissons alcoolisées"
 short: LHR
 language: fr
-version: 2018-01-01
-corrected: 2020-01-23
+version: 2022-09-01
+valid_until: 2024-12-31
 version_adopted: 2016-11-11
 adopted: 2004-04-08
 in_force: 2005-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/935.3"
-pdf: "https://lex.vs.ch/api/fr/versions/2355/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3030/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,13 +19,13 @@ pdf: "https://lex.vs.ch/api/fr/versions/2355/pdf_file"
 
 (LHR)
 
-du 08.04.2004 (état 01.01.2018)
+du 08.04.2004 (état 01.09.2022)
 
 Le Grand Conseil du canton du Valais
 
 vu les articles 27 et 105 de la Constitution fédérale;
 
-vu les articles 41 et suivants de la loi fédérale sur l'alcool du 21 juin 1932;
+vu les articles 41 et suivants de la loi fédérale sur l'alcool du 21 juin 1932 (LAlc);
 
 vu les articles 15, 31 et 42 alinéa 1 de la Constitution cantonale;
 
@@ -69,11 +69,11 @@ ordonne:
 
 <sup>2</sup> Ne sont pas soumis aux dispositions de la présente loi:
 
-- a) toute forme d'hébergement sans aucune prestation hôtelière;
-- b) l'offre d'hébergement, de mets, de boissons avec ou sans alcool aux patients et résidents des établissements à caractère médical, social, éducatif ou religieux;
+- a) les formes d'hébergement sans aucune prestation hôtelière, lesquelles sont soumises aux dispositions de la loi sur la police du commerce;
+- b) l'offre d'hébergement, de mets, de boissons avec ou sans alcool aux patients et résidents des établissements à caractère sanitaire, social, éducatif ou religieux, ainsi qu'à leurs visites;
 - c) l'offre de mets et/ou de boissons avec ou sans alcool exclusivement réservée aux employés dans des réfectoires du personnel, des cantines d'entreprises et de chantiers;
 - d) tout commerce de boissons alcoolisées pour lequel une autorisation fédérale est nécessaire ou qui n'est pas soumis à autorisation, conformément au droit fédéral;
-- e) l'offre de mets et/ou de boissons avec ou sans alcool servis à des tiers dans des emplacements gérés par des associations sportives, culturelles ou sociales non assujetties à la TVA.
+- e) l'offre de mets et/ou de boissons avec ou sans alcool servis dans des emplacements gérés par des associations sportives, culturelles ou sociales non assujetties à la TVA.
 
 ## 2 Dispositions concernant l'hébergement et la restauration
 
@@ -87,7 +87,7 @@ ordonne:
 
 <sup>2</sup> L'autorisation d'exploiter est délivrée à la personne physique responsable de l'exploitation lorsque les conditions liées aux locaux et emplacements et les conditions liées à la personne sont remplies. Cette autorisation d'exploiter est personnelle et incessible.
 
-<sup>3</sup> L'autorisation d'exploiter est requise lors de chaque mise en exploitation et remise en exploitation des locaux ou emplacements et lors de chaque modification de l'autorisation entrée en force. En cas de remise en exploitation de locaux ou emplacements ou de modification d'une autorisation entrée en force, une opposition ne peut être formée qu'en lien avec le motif pour lequel une nouvelle procédure de délivrance de l'autorisation est engagée.
+<sup>3</sup> L'autorisation d'exploiter est requise lors de chaque mise en exploitation et remise en exploitation des locaux ou emplacements et lors de chaque modification de l'autorisation entrée en force.
 
 #### Art. 5
 
@@ -99,9 +99,13 @@ ordonne:
 
 **Conditions liées à la personne**
 
-<sup>1</sup> Le requérant de l'autorisation d'exploiter doit attester de bonnes moeurs. Il ne doit notamment pas avoir fait l'objet, dans les deux ans précédant le dépôt de sa demande, d'une condamnation pénale en raison d'un crime, d'un délit ou d'une contravention susceptible de présenter un danger dans l'exercice de l'hébergement et de la restauration.
+<sup>1</sup> L'autorisation d'exploiter est délivrée au requérant qui:
 
-<sup>2</sup> Le requérant doit:
+- a) ne fait pas l'objet d'une condamnation pénale en raison d'un crime, d'un délit ou d'une contravention susceptible de présenter un danger dans l'exercice de l'hébergement et de la restauration;
+- b) ne fait pas l'objet d'un acte de défaut de biens;
+- c) a l'exercice des droits civils.
+
+<sup>2</sup> Le requérant doit en outre:
 
 - a) soit avoir réussi l'examen obligatoire des connaissances élémentaires;
 - b) soit être au bénéfice d'une formation ou expérience professionnelle reconnue.
@@ -109,6 +113,14 @@ ordonne:
 <sup>3</sup> Le Conseil d'Etat fixe dans l'ordonnance les exceptions relatives à ces conditions.
 
 <sup>4</sup> Les conditions liées à la personne ne sont pas applicables à l'offre occasionnelle de mets et de boissons ainsi qu'à l'offre d'hébergement de faible importance.
+
+#### Art. 6a
+
+**Décès du titulaire de l'autorisation d'exploiter**
+
+<sup>1</sup> En cas de décès du titulaire de l'autorisation d'exploiter, le conseil municipal peut autoriser un héritier à continuer l'exploitation jusqu'à ce qu'un nouveau titulaire ait été trouvé, au maximum pendant 2 ans.
+
+<sup>2</sup> La demande d'autorisation de continuer l'exploitation doit être adressée au conseil municipal par écrit dans les 3 mois dès le décès du titulaire.
 
 #### Art. 7
 
@@ -120,7 +132,9 @@ ordonne:
 
 <sup>3</sup> Tous locaux et emplacements, dont l'offre est soumise à la présente loi et qui ne jouissent pas d'une autorisation d'exploiter en force, doivent être fermés d'office par le conseil municipal.
 
-<sup>4</sup> Demeurent réservées les dispositions de la loi sur la procédure et la juridiction administratives.
+<sup>4</sup> Demeure réservé l’article 6a de la présente loi.
+
+<sup>5</sup> Demeurent réservées les dispositions de la loi sur la procédure et la juridiction administratives.
 
 ### 2.2 Examen obligatoire, formation, formation continue et reconnaissance
 
@@ -194,28 +208,23 @@ ordonne:
 
 **Contrôle des hôtes**
 
-<sup>1</sup> Le titulaire d'une autorisation d'exploiter, qui héberge des hôtes, doit leur faire remplir un bulletin d'arrivée fourni ou agréé par la police cantonale. Pour le surplus, il doit tenir un registre de contrôle de ses hôtes.
+<sup>1</sup> Le titulaire d'une autorisation d'exploiter, qui héberge des hôtes, doit leur faire remplir un bulletin d'arrivée agréé par la police cantonale. Pour le surplus, il doit tenir un registre de contrôle de ses hôtes.
 
-<sup>2</sup> Chaque hôte est tenu de signer le bulletin d'arrivée dûment rempli et de décliner son identité par une pièce officielle. En cas d'hébergement de groupes (congrès, assemblées, etc.), il suffit que le responsable du groupe s'enregistre et remette une liste avec les noms et prénoms des autres membres du groupe.
+<sup>2</sup> Chaque hôte est tenu de décliner son identité par une pièce officielle. En cas d'hébergement de groupes (congrès, assemblées, etc.), il suffit que le responsable du groupe s'enregistre et remette une liste avec les noms et prénoms des autres membres du groupe.
 
-<sup>3</sup> La police cantonale, qui dispose d'un droit de regard dans le registre de contrôle des hôtes, est chargée de recueillir régulièrement ces bulletins d'arrivée et d'en conserver les originaux.
+<sup>3</sup> La police cantonale dispose d'un droit de regard dans le registre de contrôle des hôtes et est autorisée à effectuer des vérifications dans les systèmes de police.
 
-<sup>4</sup> Dans la mesure où le titulaire d'une autorisation d'exploiter saisit les données électroniquement, la police cantonale est autorisée à:
+<sup>3<sup>bis</sup></sup> Le titulaire d'une autorisation d'exploiter doit transmettre, sur demande, à la police cantonale les informations nécessaires à l'identification de personnes, aux fins d'écarter un danger, de mener des poursuites ou d'assurer l'exécution de condamnations.
 
-- a) consulter en ligne les informations nécessaires à l'identification de personnes, aux fins d'écarter un danger, de mener des poursuites ou d'assurer l'exécution de condamnations;
-- b) effectuer des vérifications automatiques et systématiques dans les systèmes de police.
+<sup>4</sup> …
 
 #### Art. 16
 
-**Espaces non-fumeurs**
-
-<sup>1</sup> Les locaux et emplacements désignés par l'autorisation d'exploiter doivent disposer dans une mesure correspondant aux besoins et aux possibilités d'espaces non-fumeurs.
+**…**
 
 #### Art. 17
 
-**Bulletin Officiel**
-
-<sup>1</sup> Le Conseil d'Etat fixe, dans l'ordonnance, les titulaires d'une autorisation d'exploiter tenus de s'abonner au Bulletin Officiel et de le mettre à disposition.
+**…**
 
 ### 2.4 Emolument et redevance
 
@@ -334,7 +343,9 @@ ordonne:
 <sup>2</sup> La demande tendant à obtenir une autorisation d'exploiter au sens du chapitre 2 de la présente loi doit être accompagnée des documents suivants:
 
 - a) un extrait du casier judiciaire, délivré dans le mois précédant le dépôt de la demande;
-- b) un extrait du registre du commerce, délivré dans les trois mois précédant le dépôt de la demande, si le requérant est inscrit au registre du commerce ou s'il travaille pour une société ayant l'obligation d'être inscrite au registre du commerce.
+- b) un extrait du registre du commerce, délivré dans les 3 mois précédant le dépôt de la demande, si le requérant est inscrit au registre du commerce ou s'il travaille pour une société ayant l'obligation d'être inscrite au registre du commerce;
+- c) un extrait du registre des poursuites de l’office des poursuites et faillites du domicile du requérant, délivré dans les 3 mois précédant la demande, attestant que le requérant ne fait pas l’objet d’un acte de défaut de biens pour les 5 années précédentes. Si le domicile du requérant se situe hors canton ou a été situé hors canton au cours des 5 années précédentes, la demande doit être accompagnée d’un extrait du registre des poursuites de chaque office des poursuites et faillites compétent;
+- d) un certificat de capacité pour l’exercice des droits civils, délivré dans les 3 mois précédant le dépôt de la demande.
 
 <sup>3</sup> Toute demande tendant à obtenir une autorisation au sens de la présente loi, à l'exception de celle concernant l'offre occasionnelle de mets et de boissons, doit être publiée par l'autorité compétente dans le Bulletin Officiel cantonal ainsi que dans la commune concernée.
 
@@ -370,7 +381,19 @@ ordonne:
 
 <sup>2</sup> Dans les domaines de compétence du département, le service cantonal compétent est l'autorité de répression.
 
-## 6 Dispositions transitoires et finales
+## 6 Dispositions diverses
+
+#### Art. 33a
+
+**Transmission des données à des fins de statistique**
+
+<sup>1</sup> Les administrations publiques, les collectivités publiques, les personnes physiques et morales sont tenues de communiquer aux autorités compétentes, sur requête, tout renseignement utile à l'analyse à des fins de statistique des branches de l'hébergement, de la restauration et du commerce de détail de boissons alcoolisées.
+
+<sup>2</sup> Le Conseil d’Etat règle le détail dans l’ordonnance.
+
+<sup>3</sup> Les règles applicables en matière de protection des données sont réservées.
+
+## 7 Dispositions transitoires et finales
 
 #### Art. 34
 
@@ -401,5 +424,11 @@ ordonne:
 #### Art. T1-1
 
 <sup>1</sup> Les procédures de délivrance d'autorisations pendantes auprès des autorités communales lors de l'entrée en vigueur du présent acte législatif sont traitées selon le nouveau droit.
+
+## T2 Disposition transitoire de la modification du 19 novembre 2021
+
+#### Art. T2-1
+
+<sup>1</sup> Les autorisations délivrées sous l'ancien droit restent soumises aux conditions de ce droit pendant un délai d'un an dès l'entrée en vigueur du présent acte législatif. Passé ce délai, les conditions du nouveau droit leur sont applicables.
 
 RCV BO/Abl. 19/2004

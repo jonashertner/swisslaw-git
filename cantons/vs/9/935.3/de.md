@@ -4,26 +4,28 @@ number: "935.3"
 title: "Gesetz über die Beherbergung, die Bewirtung und den Kleinhandel mit alkoholischen Getränken"
 short: GBB
 language: de
-version: 2018-01-01
-corrected: 2020-01-23
+version: 2022-09-01
+valid_until: 2024-12-31
 version_adopted: 2016-11-11
 adopted: 2004-04-08
 in_force: 2005-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/935.3"
-pdf: "https://lex.vs.ch/api/de/versions/2355/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3030/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über die Beherbergung, die Bewirtung und den Kleinhandel mit alkoholischen Getränken
 
-vom 08.04.2004 (Stand 01.01.2018)
+(GBB)
+
+vom 08.04.2004 (Stand 01.09.2022)
 
 Der Grosse Rat des Kantons Wallis
 
 eingesehen die Artikel 27 und 105 der Bundesverfassung;
 
-eingesehen die Artikel 41ff. des Bundesgesetzes über die gebrannten Wasser vom 21. Juni 1932 (Alkoholgesetz);
+eingesehen die Artikel 41 folgende des Bundesgesetzes über die gebrannten Wasser vom 21. Juni 1932 (Alkoholgesetz, AlkG);
 
 eingesehen die Artikel 15, 31 und 42 Absatz 1 der Kantonsverfassung;
 
@@ -67,11 +69,11 @@ verordnet:
 
 <sup>2</sup> Nicht den Bestimmungen des vorliegenden Gesetzes unterstehen:
 
-- a) jede Form der Beherbergung ohne jegliche hotelmässige Leistung;
-- b) das Angebot der Beherbergung, von Speisen, von alkoholischen oder alkoholfreien Getränken an Patienten und Bewohner von Anstalten mit medizinischem, sozialem, erzieherischem oder religiösem Charakter;
+- a) die Formen der Beherbergung ohne jegliche hotelmässige Leistung, die den Bestimmungen des Gesetzes über die Gewerbepolizei unterworfen sind;
+- b) das Angebot der Beherbergung, von Speisen, von alkoholischen oder alkoholfreien Getränken an Patienten und Bewohner von Gesundheits-, Sozial-, Erziehungs- und Religionseinrichtungen sowie deren Besucher;
 - c) das ausschliesslich für Angestellte bestimmte Angebot von Speisen und/oder alkoholischen oder alkoholfreien Getränken in Personal-, Betriebs- und Baustellenkantinen;
 - d) der Handel mit alkoholischen Getränken, der einer eidgenössischen Bewilligungspflicht unterliegt oder welcher durch Bundesrecht von der Bewilligungspflicht befreit ist;
-- e) das Angebot von Speisen und/oder alkoholischen oder alkoholfreien Getränken für Dritte in Räumlichkeiten, die von nicht mehrwertsteuerpflichtigen Sport-, Kultur- oder Sozialvereinen geführt werden.
+- e) das Angebot von Speisen und/oder alkoholischen oder alkoholfreien Getränken in Räumlichkeiten, die von nicht mehrwertsteuerpflichtigen Sport-, Kultur- oder Sozialvereinen geführt werden.
 
 ## 2 Bestimmungen über die Beherbergung und Bewirtung
 
@@ -85,7 +87,7 @@ verordnet:
 
 <sup>2</sup> Die Betriebsbewilligung wird der für die Betriebsführung verantwortlichen natürlichen Person erteilt, sofern die Voraussetzungen betreffend Räumlichkeiten und Plätze und die persönlichen Voraussetzungen erfüllt sind. Diese Betriebsbewilligung ist persönlich und nicht übertragbar.
 
-<sup>3</sup> Die Betriebsbewilligung ist bei jeder Inbetrieb- und Wiederinbetriebnahme der Räumlichkeiten und Plätze sowie jeder Änderung der rechtskräftigen Betriebsbewilligung einzuholen. Bei Wiederinbetriebnahme von Räumlichkeiten und Plätzen oder bei Änderung einer rechtskräftigen Betriebsbewilligung kann nur in Bezug auf den Grund, der zu einem neuen Bewilligungsverfahren geführt hat, Einsprache erhoben werden.
+<sup>3</sup> Die Betriebsbewilligung ist bei jeder Inbetrieb- und Wiederinbetriebnahme der Räumlichkeiten und Örtlichkeiten sowie jeder Änderung der rechtskräftigen Betriebsbewilligung einzuholen.
 
 #### Art. 5
 
@@ -97,9 +99,13 @@ verordnet:
 
 **Persönliche Voraussetzungen**
 
-<sup>1</sup> Der Gesuchsteller der Betriebsbewilligung muss einen guten Leumund nachweisen. Es darf insbesondere innerhalb der letzten zwei Jahre vor der Gesuchseinreichung keine strafrechtliche Verurteilung wegen eines Verbrechens, eines Vergehens oder einer Übertretung vorliegen, welche eine Gefahr in der Ausübung der Beherbergung und Bewirtung darstellen kann.
+<sup>1</sup> Die Betriebsbewilligung wird dem Gesuchsteller erteilt, der:
 
-<sup>2</sup> Der Gesuchsteller muss:
+- a) keine strafrechtliche Verurteilung wegen eines Verbrechens, eines Vergehens oder einer Übertretung gegen ihn vorliegen hat, die eine Gefahr für die Ausübung der Beherbergung und Bewirtung darstellen kann;
+- b) keine Verlustscheine aufzuweisen hat;
+- c) handlungsfähig ist.
+
+<sup>2</sup> Der Gesuchsteller muss ausserdem:
 
 - a) die obligatorische Prüfung der grundlegenden Kenntnisse bestanden haben oder;
 - b) über eine anerkannte Berufsausbildung oder Berufserfahrung verfügen.
@@ -107,6 +113,14 @@ verordnet:
 <sup>3</sup> Der Staatsrat legt in der Verordnung die Ausnahmen bezüglich dieser Bedingungen fest.
 
 <sup>4</sup> Die persönlichen Vorsaussetzungen finden keine Anwendung auf das gelegentliche Angebot von Speisen und Getränken sowie auf das Angebot der Beherbergung von geringer Bedeutung.
+
+#### Art. 6a
+
+**Tod des Inhabers der Betriebsbewilligung**
+
+<sup>1</sup> Im Falle des Todes des Inhabers der Betriebsbewilligung kann der Gemeinderat einen Erben bevollmächtigen, den Betrieb weiterzuführen, bis ein neuer Inhaber der Betriebsbewilligung gefunden wird, höchstens aber für 2 Jahre.
+
+<sup>2</sup> Das Bewilligungsgesuch um Weiterführung des Betriebs muss innert 3 Monaten nach dem Tod des Inhabers schriftlich an den Gemeinderat gerichtet werden.
 
 #### Art. 7
 
@@ -118,7 +132,9 @@ verordnet:
 
 <sup>3</sup> Alle Räumlichkeiten und Plätze mit einem dem vorliegenden Gesetz unterstellten Angebot, welche über keine rechtskräftige Betriebsbewilligung verfügen, sind vom Gemeinderat von Amtes wegen zu schliessen.
 
-<sup>4</sup> Vorbehalten bleiben die Bestimmungen des Gesetzes über das Verwaltungsverfahren und die Verwaltungsrechtspflege.
+<sup>4</sup> Artikel 6a des vorliegenden Gesetzes bleibt vorbehalten.
+
+<sup>5</sup> Die Bestimmungen des Gesetzes über das Verwaltungsverfahren und die Verwaltungsrechtspflege bleiben vorbehalten.
 
 ### 2.2 Obligatorische Prüfung, Ausbildung, Weiterbildung und Anerkennung
 
@@ -192,28 +208,23 @@ verordnet:
 
 **Gästekontrolle**
 
-<sup>1</sup> Der Inhaber einer Betriebsbewilligung, welcher Gäste beherbergt, hat diese einen von der Kantonspolizei gelieferten oder anerkannten Meldeschein ausfüllen zu lassen. Er hat zudem ein Kontrollregister seiner Gäste zu führen.
+<sup>1</sup> Der Inhaber einer Betriebsbewilligung, der Gäste beherbergt, muss diese ein von der Kantonspolizei genehmigtes Ankunftsformular ausfüllen lassen. Darüber hinaus muss er ein Kontrollregister über seine Gäste führen.
 
-<sup>2</sup> Jeder Gast ist verpflichtet, den Meldeschein wahrheitsgetreu auszufüllen, zu unterschreiben und sich über seine Identität mittels eines amtlichen Dokuments auszuweisen. Bei der Beherbergung von Gruppen (Kongressen, Versammlungen usw.) genügt es, dass sich der Gruppenverantwortliche einträgt und eine Liste mit den Namen und Vornamen der übrigen Gruppenmitglieder abgibt.
+<sup>2</sup> Jeder Gast muss sich mit einem amtlichen Dokument ausweisen. Bei der Beherbergung von Gruppen (Kongresse, Versammlungen usw.) reicht es, wenn sich der Gruppenverantwortliche registriert und eine Liste mit den Namen und Vornamen der anderen Gruppenmitglieder bereitstellt.
 
-<sup>3</sup> Die Kantonspolizei, welche ein Einsichtsrecht in das Kontrollregister der Gäste besitzt, hat die Meldescheine regelmässig einzusammeln und deren Originale aufzubewahren.
+<sup>3</sup> Die Kantonspolizei hat ein Einsichtsrecht in das Gästekontrollregister und ist berechtigt, in den Polizeisystemen Überprüfungen durchzuführen.
 
-<sup>4</sup> Sofern der Inhaber einer Betriebsbewilligung die Gästedaten elektronisch erfasst, ist die Kantonspolizei befugt:
+<sup>3<sup>bis</sup></sup> Der Inhaber einer Betriebsbewilligung muss der Kantonspolizei auf Verlangen die zur Identifikation von Personen erforderlichen Angaben zur Gefahrenabwehr, zur Strafverfolgung und zur Vollstreckung von Strafurteilen übermitteln.
 
-- a) die zur Identifikation von Personen erforderlichen Angaben zur Gefahrenabwehr, zur Strafverfolgung und zur Vollstreckung von Strafurteilen elektronisch abzurufen;
-- b) die Angaben automatisch und systematisch in den polizeilichen Systemen zu überprüfen.
+<sup>4</sup> …
 
 #### Art. 16
 
-**Nichtraucherzonen**
-
-<sup>1</sup> Die in der Betriebsbewilligung festgelegten Räumlichkeiten und Plätze müssen entsprechend dem Bedarf und den Möglichkeiten über Nichtraucherzonen verfügen.
+**…**
 
 #### Art. 17
 
-**Amtsblatt**
-
-<sup>1</sup> Der Staatsrat bestimmt in der Verordnung die Inhaber einer Betriebsbewilligung, welche verpflichtet sind, das kantonale Amtsblatt zu abonnieren und aufzulegen.
+**…**
 
 ### 2.4 Gebühr und Abgabe
 
@@ -332,7 +343,9 @@ verordnet:
 <sup>2</sup> Zusammen mit dem Gesuch um Erteilung einer Betriebsbewilligung im Sinne von Kapitel 2 des vorliegenden Gesetzes sind folgende Dokumente einzureichen:
 
 - a) ein Strafregisterauszug, ausgestellt innerhalb des der Gesuchseinreichung vorangehenden Monats;
-- b) ein Handelsregisterauszug, ausgestellt innerhalb der letzten drei der Gesuchseinreichung vorangehenden Monate, sofern der Gesuchsteller im Handelregister eingetragen oder für eine ins Handelsregister eintragungspflichtige Gesellschaft tätig ist.
+- b) ein innerhalb der letzten 3 Monate vor der Gesuchstellung ausgestellter Handelsregisterauszug, wenn der Gesuchsteller im Handelsregister eingetragen ist oder für eine eintragungspflichtige Gesellschaft arbeitet;
+- c) ein innerhalb der letzten 3 Monate vor der Gesuchstellung ausgestellter Betreibungsregisterauszug des Betreibungs- und Konkursamtes des Wohnsitzes des Gesuchstellers, der belegt, dass der Gesuchsteller für die letzten 5 Jahre keine Verlustscheine aufzuweisen hat. Falls der Wohnsitz des Gesuchstellers ausserhalb des Kantons liegt oder in den letzten 5 Jahren ausserhalb des Kantons lag, so ist dem Gesuch ein Betreibungsregisterauszug des jeweils zuständigen Betreibungs- und Konkursamtes beizulegen;
+- d) ein innerhalb der letzten 3 Monate vor der Gesuchstellung ausgestelltes Handlungsfähigkeitszeugnis.
 
 <sup>3</sup> Jedes Gesuch um Erteilung einer Bewilligung im Sinne des vorliegenden Gesetzes ist durch die zuständige Behörde im kantonalen Amtsblatt und in der betreffenden Gemeinde zu veröffentlichen. Davon ausgenommen ist das Gesuch für das gelegentliche Angebot von Speisen und Getränken.
 
@@ -368,7 +381,19 @@ verordnet:
 
 <sup>2</sup> In den Kompetenzbereichen des Departements ist die zuständige kantonale Dienststelle Strafbehörde.
 
-## 6 Übergangs- und Schlussbestimmungen
+## 6 Verschiedene Bestimmungen
+
+#### Art. 33a
+
+**Übermittlung von Daten für statistische Zwecke**
+
+<sup>1</sup> Die öffentliche Verwaltung, das öffentliche Gemeinwesen, natürliche und juristische Personen sind verpflichtet, den zuständigen Behörden auf Anfrage alle nützlichen Informationen im Zusammenhang mit den Branchen Beherbergung, Bewirtung und Kleinhandel mit alkoholischen Getränken für die Analyse zu statistischen Zwecken zukommen zu lassen.
+
+<sup>2</sup> Der Staatsrat regelt die Einzelheiten in der Verordnung.
+
+<sup>3</sup> Die geltenden Datenschutzbestimmungen bleiben vorbehalten.
+
+## 7 Übergangs- und Schlussbestimmungen
 
 #### Art. 34
 
@@ -399,5 +424,11 @@ verordnet:
 #### Art. T1-1
 
 <sup>1</sup> Die bei Inkrafttreten des vorliegenden Rechtserlasses bei den Gemeindebehörden hängigen Bewilligungsverfahren sind nach neuem Recht zu behandeln.
+
+## T2 Übergangsbestimmung der Änderung vom 19. November 2021
+
+#### Art. T2-1
+
+<sup>1</sup> Bewilligungen, die unter dem bisherigen Recht ausgestellt worden sind, bleiben ab Inkrafttreten des vorliegenden Rechtserlasses während eines Jahres dem alten Recht unterstellt. Nach Ablauf dieser Frist finden die Bedingungen des neuen Rechts Anwendung.
 
 CSW BO/Abl. 19/2004
