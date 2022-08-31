@@ -4,13 +4,12 @@ number: "142.110"
 title: Reglement zur Dienstordnung der Finanz- und Kirchendirektion
 short: RDO FKD
 language: de
-version: 2022-06-01
-valid_until: 2022-08-31
-version_adopted: 2022-05-10
+version: 2022-09-01
+version_adopted: 2022-08-25
 adopted: 2022-05-10
 in_force: 2022-06-01
 url: "https://bl.clex.ch/app/de/texts_of_law/142.110"
-pdf: "https://bl.clex.ch/api/de/versions/3325/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3409/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3325/pdf_file"
 
 (RDO FKD)
 
-Vom 10.05.2022 (Stand 01.06.2022)
+Vom 10.05.2022 (Stand 01.09.2022)
 
 Der Vorsteher der Finanz- und Kirchendirektion des Kantons Basel-Landschaft,
 
@@ -57,26 +56,26 @@ beschliesst:
 
 **Zuständigkeit für den Vertragsabschluss**
 
-<sup>1</sup> Verträge, die Ausgaben bis CHF 500.– beinhalten, werden von der kostenstellen- resp. projektverantwortlichen Person abgeschlossen.
+<sup>1</sup> Verträge bis zu einem Vertragswert von CHF 500.– werden von der kostenstellen- resp. projektverantwortlichen Person abgeschlossen.
 
-<sup>2</sup> Verträge, die Ausgaben bis CHF 50'000.– beinhalten, werden abgeschlossen von:
+<sup>2</sup> Verträge bis zu einem Vertragswert von CHF 50'000.– werden abgeschlossen von:
 
 - a. der Dienststellenleiterin oder dem Dienststellenleiter und
 - b. der kostenstellen- resp. projektverantwortlichen Person.
 
-<sup>3</sup> Verträge, die Ausgaben bis CHF 100'000.– beinhalten, sind zu unterzeichnen von:
+<sup>3</sup> Verträge bis zu einem Vertragswert von CHF 100'000.– werden abgeschlossen von:
 
 - a. der Generalsekretärin oder dem Generalsekretär und
 - b. der Dienststellenleiterin oder dem Dienststellenleiter.
 
 <sup>4</sup> Bei Verträgen, die die Generalsekretärin oder der Generalsekretär im Sinne von Abs. 3 Bst. b unterzeichnet, ist die Unterschrift der Direktionsvorsteherin oder des Direktionsvorstehers erforderlich.
 
-<sup>5</sup> Verträge, die Ausgaben über CHF 100'000.– beinhalten oder den Kanton einem erhöhten Risiko aussetzen (z. B. Rahmenverträge), sind zu unterzeichnen von:
+<sup>5</sup> Verträge mit einem Vertragswert von über CHF 100'000.–, oder welche den Kanton einem erhöhten Risiko aussetzen (z. B. Rahmenverträge), sind zu unterzeichnen von:
 
 - a. der Direktionsvorsteherin oder dem Direktionsvorsteher und
 - b. der Dienststellenleiterin oder dem Dienststellenleiter.
 
-<sup>6</sup> Die Ausgabenhöhe, insbesondere bei wiederkehrenden Ausgaben oder beim Abschluss mehrerer Verträge, wird gemäss der Verordnung zum Beschaffungsgesetz (Beschaffungsverordnung) vom 25. Januar 2000[^3-1] berechnet.
+<sup>6</sup> Der Vertragswert, insbesondere bei wiederkehrenden Kosten oder beim Abschluss mehrerer Verträge, wird gemäss der Verordnung zum Beschaffungsgesetz (Beschaffungsverordnung) vom 25. Januar 2000[^3-1] berechnet.
 
 [^3-1]: [SGS 420.11](https://bl.clex.ch/data/420.11/de)
 
@@ -104,11 +103,11 @@ beschliesst:
 
 **Dokumentation und Aufbewahrung**
 
-<sup>1</sup> Die Dienststellen führen eine Liste der in ihrem Verantwortungsbereich abgeschlossenen Verträge, die Ausgaben über CHF 500.– beinhalten oder den Kanton einem erhöhten Risiko aussetzen (z. B. Rahmenverträge), und übermitteln diese quartalsweise an die Assistenz der Direktionsvorsteherin oder des Direktionsvorstehers.
+<sup>1</sup> Die Dienststellen führen eine Liste der in ihrem Verantwortungsbereich abgeschlossenen Verträge, welche einen Vertragswert von über CHF 500.– aufweisen oder welche den Kanton einem erhöhten Risiko aussetzen (z. B. Rahmenverträge), und übermitteln diese quartalsweise an die Assistenz der Direktionsvorsteherin oder des Direktionsvorstehers.
 
 <sup>2</sup> Die Dienststellen bewahren die Verträge gemäss Abs. 1 gesetzeskonform an zentraler Stelle auf.
 
-<sup>3</sup> Die Dienststellen übermitteln der Assistenz der Direktionsvorsteherin oder des Direktionsvorstehers zur Aufbewahrung eine elektronische und durchsuchbare Kopie aller Verträge, die Ausgaben über CHF 50'000.– beinhalten oder den Kanton einem erhöhten Risiko aussetzen (z. B. Rahmenverträge), einschliesslich aller Anpassungen.
+<sup>3</sup> Die Dienststellen übermitteln der Assistenz der Direktionsvorsteherin oder des Direktionsvorstehers zur Aufbewahrung eine elektronische und durchsuchbare Kopie aller Verträge, welche einen Vertragswert von über CHF 50'000.– aufweisen oder welche den Kanton einem erhöhten Risiko aussetzen (z. B. Rahmenverträge), einschliesslich aller Anpassungen.
 
 #### § 7
 
