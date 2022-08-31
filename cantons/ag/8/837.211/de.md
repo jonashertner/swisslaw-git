@@ -4,13 +4,13 @@ number: "837.211"
 title: Verordnung zum Gesetz zum Bundesgesetz über die Krankenversicherung
 short: V KVGG
 language: de
-version: 2021-08-30
-valid_until: 2022-08-31
-version_adopted: 2021-08-18
+version: 2022-09-01
+valid_until: 2022-10-31
+version_adopted: 2022-08-24
 adopted: 2016-03-16
 in_force: 2016-07-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/837.211"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3077/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3234/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3077/pdf_file"
 
 (V KVGG)
 
-Vom 16.03.2016 (Stand 30.08.2021)
+Vom 16.03.2016 (Stand 01.09.2022)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -174,8 +174,11 @@ beschliesst:
 
 - a) nachweisen kann, dass sie sich bemüht hat, die Schulden zu tilgen,
 - b) nachweisen kann, dass die Vornahme von medizinischen Massnahmen mit an Sicherheit grenzender Wahrscheinlichkeit zum Erhalt oder zur Wiedererlangung der Erwerbsfähigkeit führt,
-- c) trotz nachweislichem Anspruch freiwillig auf Sozialhilfe verzichtet, oder
-- d) nachweisen kann, dass die Betreibung ungerechtfertigt war.
+- c) trotz nachweislichem Anspruch freiwillig auf Sozialhilfe verzichtet,
+- d) nachweisen kann, dass die Betreibung ungerechtfertigt war,
+- e) schriftlich begründen beziehungsweise mittels Arztzeugnis nachweisen kann, dass eine chronische Erkrankung vorliegt, die unbehandelt zu einer schweren Einschränkung der Lebensqualität oder sogar zum Tod führt,
+- f) schriftlich begründen beziehungsweise mittels Arztzeugnis nachweisen kann, dass eine chronische Erkrankung vorliegt, die unbehandelt ansteckend ist, oder
+- g) mittels Arztzeugnis nachweisen kann, dass eine Schwangerschaft vorliegt.
 
 #### § 13
 
