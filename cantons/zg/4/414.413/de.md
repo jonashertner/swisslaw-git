@@ -4,13 +4,13 @@ number: "414.413"
 title: Reglement über die Studiengänge der Pädagogischen Hochschule Zug
 short: "Studienreglement, StuR"
 language: de
-version: 2017-02-04
-valid_until: 2022-08-31
-version_adopted: 2017-01-26
+version: 2022-09-01
+valid_until: 2023-07-31
+version_adopted: 2022-09-01
 adopted: 2013-06-14
 in_force: 2013-08-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/414.413"
-pdf: "https://bgs.zg.ch/api/de/versions/1604/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2378/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/1604/pdf_file"
 
 (Studienreglement, StuR)
 
-Vom 14. Juni 2013 (Stand 4. Februar 2017)
+Vom 14. Juni 2013 (Stand 1. September 2022)
 
 Die Direktion für Bildung und Kultur des Kantons Zug,
 
@@ -43,9 +43,9 @@ verfügt:
 
 **Ausbildungsziele**
 
-<sup>1</sup> Der Studiengang Kindergarten/Unterstufe führt zur Lehrbefähigung für den Kindergarten und die 1. bis 3. Klasse der Primarstufe.
+<sup>1</sup> Der Studiengang Kindergarten/Unterstufe führt zur Lehrbefähigung für die Schuljahre 1-5 der Primarstufe (gemäss Zählweise HarmoS-Konkordat).
 
-<sup>2</sup> Der Studiengang Primarstufe führt zur Lehrbefähigung für die 1. bis 6. Klasse der Primarstufe.
+<sup>2</sup> Der Studiengang Primarstufe führt zur Lehrbefähigung für die Schuljahre 3-8 der Primarstufe (gemäss Zählweise HarmoS-Konkordat).
 
 <sup>3</sup> Das Studienprogramm zur Stufenerweiterung führt zur Lehrbefähigung in einer zusätzlichen Stufe.
 
@@ -57,7 +57,17 @@ verfügt:
 
 <sup>1</sup> Der Studiengang Kindergarten/Unterstufe bildet Studierende für den Unterricht in allen unterrichtsrelevanten Fächern und Fachbereichen aus. Das Fach Englisch kann fakultativ im Rahmen des Wahlstudiums studiert werden.
 
-<sup>2</sup> Der Studiengang Primarstufe bildet Studierende für den Unterricht in allen unterrichtsrelevanten Fächern aus. Eine Fremdsprache kann abgewählt werden. Auf Antrag bei der zuständigen Studienleitung ist die Dispens von einem weiteren Fach möglich. Keine Dispens kann in den folgenden Fächern erteilt werden: Deutsch, Mathematik, Natur-Mensch-Gesellschaft, eine Fremdsprache.
+<sup>2</sup> Der Studiengang Primarstufe wird in zwei Studienvarianten angeboten, in einer regulären Variante und in einer personalisierten und individualisierten Variante ("pi").
+
+<sup>3</sup> Der Studiengang Primarstufe bildet Studierende für den Unterricht in allen unterrichtsrelevanten Fächern aus. Eine Fremdsprache kann abgewählt werden. Auf Antrag bei der zuständigen Studienleitung ist die Dispens von einem weiteren Fach möglich. Keine Dispens kann in den folgenden Fächern erteilt werden:
+
+- a) Deutsch;
+- b) Mathematik;
+- c) Medien und Informatik;
+- d) Natur-Mensch-Gesellschaft;
+- e) eine Fremdsprache.
+
+<sup>4</sup> In der personalisierten und individualisierten Studienvariante ("pi") kann die zu belegende Fremdsprache von der Studienleitung vorgegeben werden.
 
 #### § 4
 
@@ -105,14 +115,14 @@ verfügt:
 
 **Modulverantwortung**
 
-<sup>1</sup> Die Modulverantwortung liegt bei der durchführenden Dozentin oder dem durchführenden Dozenten.
+<sup>1</sup> Die Modulverantwortung liegt bei den durchführenden Dozierenden.
 
-<sup>2</sup> Die oder der modulverantwortliche Dozentin oder Dozent
+<sup>2</sup> Die modulverantwortlichen Dozierenden
 
-- a) legt die Voraussetzungen und Anforderungen für das Modul fest;
-- b) entscheidet über Bestehen oder nicht Bestehen des Moduls.
+- a) legen die Voraussetzungen und Anforderungen für das Modul fest;
+- b) entscheiden über Bestehen oder nicht Bestehen des Moduls.
 
-<sup>3</sup> Sie oder er informiert die Studierenden über Abs. 2 Bst. a im Voraus.
+<sup>3</sup> Sie informieren die Studierenden über Abs. 2 Bst. a im Voraus.
 
 #### § 9
 
@@ -187,15 +197,27 @@ verfügt:
 - a) eine gymnasiale Maturität;
 - b) ein von der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (EDK) anerkanntes Lehrdiplom;
 - c) einen Bachelor-, Master- oder Lizentiatsabschluss einer Hochschule;
-- d) eine anerkannte Berufsmaturität mit einer Ergänzungsprüfung gemäss dem Reglement über die Ergänzungsprüfung für die Zulassung von Inhaberinnen und Inhabern eines eidgenössischen Berufsmaturitätszeugnisses zu den universitären Hochschulen[^13-1];
+- d) eine eidgenössische Berufsmaturität oder eine gesamtschweizerisch anerkannte Fachmaturität mit einer Ergänzungsprüfung gemäss dem Reglement über die Ergänzungsprüfung für die Zulassung von Inhaberinnen und Inhabern eines eidgenössischen Berufsmaturitätszeugnisses oder eines gesamtschweizerisch anerkannten Fachmaturitätszeugnisses zu den universitären Hochschulen[^13-1];
 - e) eine anerkannte Fachmaturität für das Berufsfeld Pädagogik.
 
 <sup>2</sup> Die Zulassung zu den Studienprogrammen zur Fach- oder Stufenerweiterung setzt ein von der EDK anerkanntes Lehrdiplom für die Vorschul- und/oder Primarstufe voraus[^13-2].
 
 <sup>3</sup> …
 
-[^13-1]: Rechtssammlung EDK 4.2.1.3.
-[^13-2]: Rechtssammlung EDK 4.2.2.3.1., Ziff. 2
+[^13-1]: Rechtssammlung EDK, Reglement über die Anerkennung von Lehrdiplomen für den Unterricht auf der Primarstufe, der Sekundarstufe I und an Maturitätsschulen vom 28. März 2019
+[^13-2]: Rechtssammlung EDK, Reglement über die Anerkennung von Lehrdiplomen für den Unterricht auf der Primarstufe, der Sekundarstufe I und an Maturitätsschulen vom 28. März 2019
+
+#### § 13a
+
+**Persönliche Voraussetzungen**
+
+<sup>1</sup> Bewerberinnen und Bewerber müssen für die Aufnahme in einen Studiengang der Pädagogischen Hochschule Zug die persönlichen Voraussetzungen, die für die Ausübung des Lehrberufs erforderlich sind, erfüllen und schriftlich bestätigen.
+
+<sup>2</sup> Für die Abklärung der persönlichen Voraussetzungen der Bewerberinnen und Bewerber kann ein aktueller Auszug aus dem Strafregister bzw. ein aktueller Sonderprivatauszug verlangt werden. Bei Wohnsitz im Ausland ist eine gleichwertige Urkunde vorzulegen.
+
+<sup>3</sup> Die Leiterin oder der Leiter Ausbildung kann von den Bewerberinnen und Bewerbern zusätzliche Auskünfte und Unterlagen verlangen.
+
+<sup>4</sup> Die Aufnahme in einen Studiengang der Pädagogischen Hochschule Zug wird verweigert, wenn die persönlichen Voraussetzungen fehlen.
 
 #### § 14
 
@@ -245,6 +267,8 @@ verfügt:
 
 <sup>2</sup> Die Rektorin oder der Rektor kann bestandene, äquivalente Aufnahmeverfahren anderer Pädagogischen Hochschulen anerkennen.
 
+<sup>3</sup> Bewerberinnen und Bewerber werden zur personalisierten und individualisierten Studienvariante ("pi") zugelassen, wenn sie die Voraussetzungen gemäss § 13 Abs. 1 erfüllen oder wenn sie das Aufnahmeverfahren mit Aufnahmeprüfung oder das Aufnahmeverfahren sur Dossier und zusätzlich das Aufnahmeverfahren für die personalisierte und individualisierte Studienvariante ("pi") bestehen. Näheres regeln die Ausführungsbestimmungen zum Studienreglement.
+
 [^19-1]: Rechtssammlung EDK 4.2.2.3. Art. 5 Abs. 2 Bst. c
 
 ### 4.2.1a Aufnahmeverfahren mit Aufnahmeprüfung
@@ -256,10 +280,10 @@ verfügt:
 <sup>1</sup> Bewerberinnen und Bewerber, die über eine der folgenden Vorbildungen verfügen, können am Aufnahmeverfahren mit Aufnahmeprüfung teilnehmen:
 
 - a) Berufsmaturitätsausweis;
-- b) Abschluss einer anerkannten Fachmaturität für das Berufsfeld Gesundheit, Soziales, Kommunikation und Information (Angewandte Linguistik), Gestaltung und Kunst, Musik und Theater oder Angewandte Psychologie;
-- c) Diplom einer dreijährigen anerkannten Diplommittelschule (DMS);
+- b) Abschluss einer anerkannten Fachmaturität;
+- c) …
 - d) Diplom einer anerkannten Fach- oder Handelsmittelschule;
-- e) Abschluss einer mindestens dreijährigen anerkannten Berufsausbildung und mindestens zweijährige Berufserfahrung.
+- e) eidgenössisches Fähigkeitszeugnis mit mehrjähriger Berufserfahrung.
 
 <sup>2</sup> Der Anmeldung sind sämtliche erforderlichen Unterlagen gemäss Anmeldeformular beizulegen. Es können zusätzliche Unterlagen einverlangt werden.
 
@@ -339,7 +363,7 @@ verfügt:
 
 <sup>1</sup> Für die Vorbereitung der Aufnahmeprüfung werden Vorbereitungskurse von der Dauer eines Semesters oder zweier Semester angeboten.
 
-<sup>2</sup> Bewerberinnen und Bewerber gemäss § 20 Abs. 1 Bst. c bis e sind zum Besuch des Vorbereitungskurses verpflichtet.
+<sup>2</sup> Bewerberinnen und Bewerber gemäss § 20 Abs. 1 Bst. d und e sind zum Besuch des Vorbereitungskurses verpflichtet.
 
 <sup>3</sup> Die Anmeldung für den Vorbereitungskurs ist verbindlich und verpflichtet zur Einhaltung der geltenden Erlasse und Weisungen.
 
@@ -426,7 +450,7 @@ verfügt:
 
 - a) regeln den Inhalt und die Dauer der einzelnen Module;
 - b) legen fest, welche Module obligatorisch und welche Wahlpflichtmodule sind;
-- c) legen die Anzahl der Punkte des Europäischen Systems zur Anrechnung von Studienleistungen (ECTS) pro Modul fest.
+- c) legen die Anzahl der Punkte des Europäischen Systems zur Anrechnung von Studienleistungen (gemäss ECTS) pro Modul fest.
 
 <sup>3</sup> Die Studierenden führen eine Lern- und Leistungsdokumentation.
 
@@ -456,6 +480,16 @@ verfügt:
 **Wiederholen der Eignungsabklärung**
 
 <sup>1</sup> Wird mindestens eine der Bedingungen gemäss § 28a Abs. 1 nicht erfüllt, muss das erste Studienjahr wiederholt werden. Die Prüfungskommission kann die Wiederholung erfolgreich absolvierter Studienelemente erlassen.
+
+#### § 28b1
+
+**Ausserordentliche Eignungsabklärung**
+
+<sup>1</sup> Die Leiterin oder der Leiter Ausbildung kann während der gesamten Studienzeit jederzeit eine ausserordentliche Eignungsabklärung anordnen.
+
+<sup>2</sup> Die Eignungsabklärung kann das Einholen eines aktuellen Strafregisterauszugs bzw. eines aktuellen Sonderprivatauszugs umfassen.
+
+<sup>3</sup> Ergibt sich draus eine Nicht-Eignung für den Lehrberuf, wird die Studentin oder der Student in Rücksprache mit der Prüfungskommission vom weiteren Studium ausgeschlossen.
 
 ### 6.1b. Nachweis der Sprachkompetenzen
 
@@ -487,7 +521,7 @@ verfügt:
 
 <sup>2</sup> Zur Erlangung eines Diploms der Pädagogischen Hochschule Zug sind Leistungen im Umfang von mindestens 60 ECTS-Punkten in einem Studiengang der Pädagogischen Hochschule Zug zu erbringen. Ausgenommen sind Diplomerweiterungsstudien.
 
-[^29-1]: Richtlinien für die Anrechnung bereits erbrachter formaler Bildungsleistungen im Rahmen der Anerkennung von Hochschuldiplomen für die Vorschul- und Primarstufe, für die Sekundarstufe I sowie für Logopädie und Psychomotoriktherapie vom 18.3.14
+[^29-1]: Richtlinien der EDK-Anerkennungskommissionen für die Anrechnung bereits erbrachter formaler Bildungs- und Studienleistungen vom 2. Dezember 2019
 
 #### § 30
 
@@ -495,7 +529,7 @@ verfügt:
 
 <sup>1</sup> Ein erfüllter Leistungsnachweis bestätigt die erfolgreiche Absolvierung eines Moduls oder mehrerer Module.
 
-<sup>2</sup> Leistungsnachweise werden von der zuständigen Dozentin oder dem zuständigen Dozenten beurteilt.
+<sup>2</sup> Leistungsnachweise werden von den zuständigen Dozierenden beurteilt.
 
 <sup>3</sup> Die Leiterin oder der Leiter Ausbildung kann bei nachgewiesener genügender Leistungsfähigkeit einzelne Studierende von Leistungsnachweisen befreien. Leistungsnachweise gelten in diesen Fällen als erfüllt.
 
@@ -512,7 +546,8 @@ verfügt:
 - c) Referat;
 - d) Präsentation;
 - e) schriftliche Arbeit;
-- f) praktische Arbeit.
+- f) praktische Arbeit;
+- g) multimediale Produkte.
 
 <sup>2</sup> Sie können aus mehreren Teilen mit verschiedenen Formen bestehen.
 
@@ -545,6 +580,15 @@ verfügt:
 
 <sup>3</sup> Wird ein Modul aufgrund der nicht eingehaltenen vorgeschriebenen Präsenzpflicht oder aufgrund von Unregelmässigkeiten nicht bestanden, muss das Modul wiederholt werden.
 
+#### § 33a
+
+**Wiederholung des Leistungsnachweises in der personalisierten und individualisierten Variante des Studiengangs Primarstufe ("pi")**
+
+<sup>1</sup> In der personalisierten und individualisierten Variante des Studiengangs Primarstufe ("pi") gelten für die Wiederholung von Leistungsnachweisen folgende Bedingungen:
+
+- a) Ist ein Leistungsnachweis nicht bestanden, entscheiden die zuständigen Dozierenden, ob der Leistungsnachweis bis zum Termin der Noteneingabe nachgebessert werden kann oder ob dieser im nächsten Studienjahr wiederholt werden muss.
+- b) Ein Leistungsnachweis kann maximal dreimal eingereicht werden. Ist der Leistungsnachweis auch beim dritten Mal nicht vollständig erfüllt, wird die Studentin oder der Student vom Studium ausgeschlossen.
+
 #### § 34
 
 **Wiederholung des Moduls**
@@ -556,6 +600,8 @@ verfügt:
 <sup>2a</sup> …
 
 <sup>3</sup> Bei berufspraktischen Modulen ist eine einmalige Wiederholung möglich. Die Wiederholung erfolgt zum nächstmöglichen ordentlichen Termin. Die nachfolgenden berufspraktischen Module können erst nach erfolgreicher Wiederholdung absolviert werden.
+
+<sup>4</sup> In der personalisierten und individualisierten Variante des Studiengangs Primarstufe ("pi") ist eine einmalige Wiederholung von berufspraktischen Modulen möglich. Die Wiederholung erfolgt zum nächstmöglichen ordentlichen Termin.
 
 #### § 35
 
@@ -645,7 +691,7 @@ verfügt:
 
 **Prüfungsform**
 
-<sup>1</sup> Die Bachelorprüfungen bestehen aus schriftlichen, mündlichen und/oder praktischen Prüfungen. Eine Bachelorprüfung kann verschiedene Prüfungsteile umfassen.
+<sup>1</sup> Die Bachelorprüfungen bestehen aus schriftlichen, mündlichen und/oder praktischen Prüfungen. Es können auch multimediale Produkte eingereicht werden. Eine Bachelorprüfung kann verschiedene Prüfungsteile umfassen. Der bewertete Abschluss eines Moduls kann als Bachelorprüfung gelten.
 
 <sup>2</sup> …
 
@@ -695,7 +741,7 @@ verfügt:
 
 <sup>1a</sup> Das Bachelordiplom bestätigt den Abschluss mit einem Bachelor of Arts. Es wird von der Rektorin oder dem Rektor und von der Leiterin oder dem Leiter Ausbildung unterzeichnet.
 
-<sup>2</sup> Die verliehenen Titel richten sich nach Art. 10 Abs. 1 Bst. c des Reglements über die Anerkennung von Hochschuldiplomen für Lehrkräfte der Vorschulstufe und der Primarstufe[^49-1].
+<sup>2</sup> Die verliehenen Titel richten sich nach Art. 18 des Reglements über die Anerkennung von Lehrdiplomen für den Unterricht auf der Primarstufe, der Sekundarstufe I und an Maturitätsschulen[^49-1].
 
 <sup>3</sup> Zusätzlich zum Diplom werden folgende Dokumente ausgestellt:
 
@@ -704,7 +750,7 @@ verfügt:
 - c) eine Bescheinigung über die absolvierten Vertiefungs- und Wahlmodule;
 - d) eine Lern- und Leistungsdokumentation (Transcript of Records).
 
-[^49-1]: BGS [411.214](https://bgs.zg.ch/data/411.214/de)
+[^49-1]: Reglement über die Anerkennung von Lehrdiplomen für den Unterricht auf der Primarstufe, der Sekundarstufe I und an Maturitätsschulen vom 28. März 2019
 
 ## 7. Disziplinarordnung
 
