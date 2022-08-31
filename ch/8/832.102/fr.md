@@ -4,11 +4,11 @@ title: "Ordonnance du 27 juin 1995 sur l'assurance-maladie (OAMal)"
 short: OAMal
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867"
 language: fr
-version: 2022-07-01
+version: 2022-09-01
 adopted: 1995-06-27
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20220701-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20220701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20220901/fr/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20220901-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20220901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20220701/fr"
 
 (OAMal)
 
-du 27 juin 1995 (Etat le 1<sup>er</sup> juillet 2022)
+du 27 juin 1995 (État le 1<sup>er</sup> septembre 2022)
 
 Le Conseil fédéral suisse,
 
@@ -293,7 +293,7 @@ Les assureurs renseignent par écrit les assurés mentionnés à l’art. 6*a*, 
 [^10-2]: Nouvelle teneur selon le ch. I de l’O du 25 nov. 1996, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 3139](https://fedlex.data.admin.ch/eli/oc/1996/3139_3139_3139)).
 [^10-3]: Introduit par le ch. I de l’O du 3 juil. 2001, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)).
 
-### Chapitre 2 Suspension de l’obligation d’assurance et de la couverture des accidents****
+### Chapitre 2 Suspension de l’obligation d’assurance et de la couverture des accidents
 
 [^part1-tit1-chap2-1]
 
@@ -829,7 +829,7 @@ En cas de traitement hospitalier en Suisse dans un hôpital répertorié suivi p
 
 [^37-1]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
 
-### Chapitre 3**** Commissions
+### Chapitre 3 Commissions
 
 [^part1-tit3-chap3-1]
 
@@ -975,7 +975,7 @@ Elle se compose de 16 membres, à savoir:[^37f-3]
 
 ### Chapitre 1 Admission
 
-### Section 1**** Médecins et institutions de soins ambulatoires dispensés par des médecins
+### Section 1 Médecins et institutions de soins ambulatoires dispensés par des médecins
 
 [^part1-tit4-chap1-sec1-1]
 
@@ -1018,7 +1018,7 @@ Les institutions qui offrent des soins ambulatoires dispensés par des médecins
 
 <sup>2</sup> Les limitations cantonales du nombre de médecins admis (art. 55*a* LAMal) sont réservées.
 
-### Section 2**** Pharmaciens
+### Section 2 Pharmaciens
 
 [^part1-tit4-chap1-sec2-1]
 
@@ -1046,7 +1046,7 @@ Les pharmaciens sont admis s’ils remplissent les conditions suivantes:
 
 [^41-1]: Abrogé par le ch. I de l’O du 23 juin 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
-### Section 3**** Dentistes
+### Section 3 Dentistes
 
 [^part1-tit4-chap1-sec3-1]
 
@@ -1071,7 +1071,7 @@ Les dentistes sont admis pour les prestations visées à l’art. 31 LAMal s’i
 
 [^43-1]: Abrogé par le ch. I de l’O du 23 juin 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
-### Section 4 Chiropraticiens et organisations de chiropraticiens****
+### Section 4 Chiropraticiens et organisations de chiropraticiens
 
 [^part1-tit4-chap1-sec4-1]
 
@@ -1113,7 +1113,7 @@ Les organisations de chiropraticiens sont admises si elles remplissent les condi
 
 [^44a-1]: Introduit par le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
-### Section 5**** Sages-femmes et organisations de sages-femmes
+### Section 5 Sages-femmes et organisations de sages-femmes
 
 [^part1-tit4-chap1-sec5-1]
 
@@ -1540,7 +1540,7 @@ Les centres de remise de moyens et d’appareils diagnostiques ou thérapeutique
 
 [^55-1]: Nouvelle teneur selon le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
-### Section 8*a***** Maisons de naissance
+### Section 8*a* Maisons de naissance
 
 [^part1-tit4-chap1-sec8a-1]
 
@@ -1591,7 +1591,7 @@ Les entreprises de transports et de sauvetage sont admises si elles remplissent 
 
 <sup>2</sup> Les propriétés chimiques ou physiques des eaux thermales doivent être démontrées au moyen d’une expertise et réexaminées tous les trois ans au moyen d’analyses de contrôle effectuées par l’autorité cantonale compétente.
 
-### Section 11**** Critères de planification
+### Section 11 Critères de planification
 
 [^part1-tit4-chap1-sec11-1]
 
@@ -1717,7 +1717,7 @@ Ils peuvent prévoir que les mandats de prestations contiennent notamment les ch
 
 [^58f-1]: Introduit par le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
-### Section 12**** Exigences de qualité
+### Section 12 Exigences de qualité
 
 [^part1-tit4-chap1-sec12-1]
 
@@ -1801,13 +1801,13 @@ Pour le domaine ambulatoire le DFI édicte des dispositions détaillées sur la 
 [^59ater-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 [^59ater-3]: Nouvelle teneur selon le ch. I de l’O du 29 juin 2016, en vigueur depuis le 1<sup>er</sup> août 2016 ([RO 2016 2689](https://fedlex.data.admin.ch/eli/oc/2016/429)).
 
-### Chapitre 3 Tarifs et prix****
+### Chapitre 3 Tarifs et prix
 
 [^part1-tit4-chap3-1]
 
 [^part1-tit4-chap3-1]: Anciennement avant. art. 59*a*. Introduit par le ch. I de l’O du 17 sept. 1997, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1997 2272](https://fedlex.data.admin.ch/eli/oc/1997/2272_2272_2272)).
 
-### Section 1 Principes****
+### Section 1 Principes
 
 [^part1-tit4-chap3-sec1-1]
 
@@ -1869,7 +1869,7 @@ Les partenaires tarifaires doivent soumettre la convention tarifaire au Conseil 
 
 [^59e-1]: Introduit par le ch. I de l’O du 22 oct. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5097](https://fedlex.data.admin.ch/eli/oc/2008/708)). Voir aussi les disp. fin. de cette mod. à la fin du texte.
 
-### Section 2**** Liste des analyses
+### Section 2 Liste des analyses
 
 [^part1-tit4-chap3-sec2-1]
 
@@ -1910,7 +1910,7 @@ Le DFI désigne les analyses qui:
 [^62-1]: Nouvelle teneur selon le ch. I de l’O du 23 fév. 2000, en vigueur depuis le 1<sup>er</sup> avr. 2000 ([RO 2000 889](https://fedlex.data.admin.ch/eli/oc/2000/137)).
 [^62-2]: Abrogé par le ch. I de l’O du 4 juin 2021, avec effet au 1<sup>er</sup> oct. 2021 ([RO 2021 346](https://fedlex.data.admin.ch/eli/oc/2021/346)).
 
-### Section 3**** Liste des médicaments avec tarif
+### Section 3 Liste des médicaments avec tarif
 
 [^part1-tit4-chap3-sec3-1]
 
@@ -1922,7 +1922,7 @@ Le DFI désigne les analyses qui:
 
 <sup>2</sup> Les dispositions relatives à la liste des spécialités s’appliquent par analogie à l’admission dans la liste des médicaments avec tarif.
 
-### Section 4**** Liste des spécialités
+### Section 4 Liste des spécialités
 
 [^part1-tit4-chap3-sec4-1]
 
@@ -2307,7 +2307,7 @@ Le DFI édicte des prescriptions réglant:
 [^71-3]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> fév. 2017, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
 [^71-4]: Les documents sont disponibles sur le site www.ofsp.admin.ch &gt; Thèmes &gt; Assurance-maladie &gt; Tarifs et prix &gt; Liste des spécialités
 
-### Section 4*a* Prise en charge de médicaments dans des cas particuliers****
+### Section 4*a* Prise en charge de médicaments dans des cas particuliers
 
 [^part1-tit4-chap3-sec4a-1]
 
@@ -2377,7 +2377,15 @@ Les art. 71*a* à 71*d* ne s’appliquent pas à la prise en charge des coûts d
 
 [^71e-1]: Introduit par le ch. III de l’O du 12 mai 2021 ([RO 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)). Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur du 1<sup>er</sup> janv. au 31 déc. 2022 ([RO 2021 892](https://fedlex.data.admin.ch/eli/oc/2021/892)).
 
-### Section 5 Dispositions communes pour la Liste des analyses, la Liste des médicaments avec tarif et la Liste des spécialités****
+#### Art. 71f
+
+**Prise en charge des coûts de remise des médicaments pour le traitement ambulatoire ou stationnaire de la variole du singe**[^71f-1]
+
+Les art. 71*a* à 71*d* ne s’appliquent pas à la prise en charge des coûts des médicaments qui sont utilisés pour le traitement ambulatoire ou stationnaire de la variole du singe.
+
+[^71f-1]: Introduit par le ch. III de l’O du 24 août 2022, en vigueur du 1<sup>er</sup> sept. 2022 au 31 déc. 2023 ([RO 2022 467](https://fedlex.data.admin.ch/eli/oc/2022/467)).
+
+### Section 5 Dispositions communes pour la Liste des analyses, la Liste des médicaments avec tarif et la Liste des spécialités
 
 [^part1-tit4-chap3-sec5-1]
 
@@ -2814,7 +2822,7 @@ Les primes doivent être payées à l’avance et en principe tous les mois.
 
 [^92-1]: Abrogé par l’annexe ch. 3 de l’O du 18 nov. 2015 sur la surveillance de l’assurance-maladie, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
 
-### Section 1*a***** Primes des assurés résidant dans un État membre de l’Union européenne, en Islande ou en Norvège****
+### Section 1*a* Primes des assurés résidant dans un État membre de l’Union européenne, en Islande ou en Norvège
 
 [^part1-tit5-chap2-sec1a-1][^part1-tit5-chap2-sec1a-2]
 
@@ -2833,7 +2841,7 @@ Lorsqu’un assuré réside à l’étranger, l’assureur prélève les primes 
 
 [^92b92c-1]: Abrogés par l’annexe ch. 3 de l’O du 18 nov. 2015 sur la surveillance de l’assurance-maladie, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
 
-### Section 1*b***** Primes des bénéficiaires de l’aide d’urgence conformément à l’art. 82 LAsi****
+### Section 1*b* Primes des bénéficiaires de l’aide d’urgence conformément à l’art. 82 LAsi
 
 [^part1-tit5-chap2-sec1b-1][^part1-tit5-chap2-sec1b-2]
 
@@ -3108,7 +3116,7 @@ Le DFI désigne les prestations pour lesquelles la participation aux coûts est 
 
 [^105-1]: Introduit par le ch. I de l’O du 29 nov. 2013, en vigueur depuis le 1<sup>er</sup> mars 2014 ([RO 2013 4523](https://fedlex.data.admin.ch/eli/oc/2013/800)).
 
-### Chapitre 3*a***** Non-paiement des primes et des participations aux coûts
+### Chapitre 3*a* Non-paiement des primes et des participations aux coûts
 
 [^part1-tit5-chap3a-1]
 
@@ -3277,13 +3285,13 @@ Si le droit d’un État membre de l’Union européenne, de l’Islande ou de l
 
 [^105m-1]: Introduit par le ch. I de l’O du 22 juin 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
 
-### Chapitre 4**** Réduction des primes par les cantons
+### Chapitre 4 Réduction des primes par les cantons
 
 [^part1-tit5-chap4-1]
 
 [^part1-tit5-chap4-1]: Nouvelle teneur selon le ch. I de l’O du 3 juil. 2001, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)).
 
-### Section 1 Ayants droit à une réduction des primes****
+### Section 1 Ayants droit à une réduction des primes
 
 [^part1-tit5-chap4-sec1-1]
 
@@ -3314,7 +3322,7 @@ La réduction des primes est régie par l’art. 65*a* de la loi:
 [^106a-1]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2011, en vigueur depuis le 1<sup>er</sup> avr. 2012 ([RO 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)).
 [^106a-2]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2011, en vigueur depuis le 1<sup>er</sup> avr. 2012 ([RO 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)).
 
-### Section 2**** Exécution de la réduction des primes
+### Section 2 Exécution de la réduction des primes
 
 [^part1-tit5-chap4-sec2-1]
 
@@ -3495,7 +3503,7 @@ L’assureur-maladie qui avance les prestations attire l’attention de l’assu
 
 <sup>2</sup> Lorsque l’assureur qui a droit au remboursement a payé davantage que ce qu’il aurait dû en appliquant les tarifs valables pour l’assureur tenu au remboursement, les fournisseurs de prestations doivent lui restituer la différence.
 
-### Section 4**** Devoir d’information des assureurs
+### Section 4 Devoir d’information des assureurs
 
 [^part3-tit1-chap1-sec4-1]
 
@@ -3536,7 +3544,7 @@ Il y a surindemnisation dans la mesure où les prestations respectives des assur
 
 [^123126-1]: Abrogés par le ch. I de l’O du 11 sept. 2002, avec effet au 1<sup>er</sup> janv. 2003 ([RO 2002 3908](https://fedlex.data.admin.ch/eli/oc/2002/605)).
 
-## Partie 4 Décision, frais de communication et de publication des données****
+## Partie 4 Décision, frais de communication et de publication des données
 
 [^part4-1]
 
@@ -3639,19 +3647,19 @@ Les laboratoires déjà admis en vertu des art. 53 et 54 comme fournisseurs de p
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 1996.
 
-## Dispositions finales de la modification du 17 septembre 1997****
+## Dispositions finales de la modification du 17 septembre 1997
 
 [^u1-1]
 
 [^u1-1]: [RO 1997 2272](https://fedlex.data.admin.ch/eli/oc/1997/2272_2272_2272). Abrogées par le ch. IV 51 de l’O du 22 août 2007 relative à la mise à jour formelle du droit fédéral, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
-## Dispositions finales de la modification du 23 février 2000****
+## Dispositions finales de la modification du 23 février 2000
 
 [^u2-1]
 
 [^u2-1]: [RO 2000 889](https://fedlex.data.admin.ch/eli/oc/2000/137). Abrogées par le ch. IV 51 de l’O du 22 août 2007 relative à la mise à jour formelle du droit fédéral, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
-## Disposition finale de la modification du 2 octobre 2000****
+## Disposition finale de la modification du 2 octobre 2000
 
 [^u3-1]
 
@@ -3659,13 +3667,13 @@ La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 1996.
 
 L’OFSP peut, durant cinq ans au plus, renoncer à adapter les prix de certains groupes de médicaments à la structure des prix prévue à l’art. 67 ou prévoir une adaptation échelonnée.
 
-## Dispositions finales de la modification du 22 mai 2002****
+## Dispositions finales de la modification du 22 mai 2002
 
 [^u4-1]
 
 [^u4-1]: [RO 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251). Abrogées par le ch. IV 51 de l’O du 22 août 2007 relative à la mise à jour formelle du droit fédéral, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
-## Disposition transitoire de la modification du 26 juin 2002****
+## Disposition transitoire de la modification du 26 juin 2002
 
 [^u5-1]
 
@@ -3673,13 +3681,13 @@ L’OFSP peut, durant cinq ans au plus, renoncer à adapter les prix de certains
 
 Les procédures pendantes à l’entrée en vigueur de la présente modification sont régies par le nouveau droit.
 
-## Dispositions finales de la modification du 6 juin 2003****
+## Dispositions finales de la modification du 6 juin 2003
 
 [^u6-1]
 
 [^u6-1]: [RO 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445). Abrogées par le ch. IV 51 de l’O du 22 août 2007 relative à la mise à jour formelle du droit fédéral, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
-## Dispositions finales de la modification du 26 mai 2004****
+## Dispositions finales de la modification du 26 mai 2004
 
 [^u7-1]
 
@@ -3689,7 +3697,7 @@ Les procédures pendantes à l’entrée en vigueur de la présente modification
 
 <sup>2</sup> Pour les assurés qui ont choisi une franchise à option, la franchise à option offerte par l’assureur qui lui correspond ou celle dont le montant est le plus proche s’applique à partir du 1<sup>er</sup> janvier 2005. Si l’ancienne franchise se situe à égale distance des franchises supérieure et inférieure les plus proches, la franchise supérieure s’applique. Les assurés ayant une franchise à option peuvent cependant choisir une autre franchise ou s’affilier à l’assurance ordinaire, moyennant un préavis écrit donné à l’assureur le 30 novembre 2004 au plus tard.
 
-## Dispositions finales de la modification du 3 décembre 2004****
+## Dispositions finales de la modification du 3 décembre 2004
 
 [^u8-1]
 
@@ -3699,13 +3707,13 @@ Les procédures pendantes à l’entrée en vigueur de la présente modification
 
 <sup>2</sup> Pour les contrats d’assurance conclus avant l’entrée en vigueur de la présente modification de l’art. 103, al. 5, l’ancienne réglementation est applicable pour la durée prévue du contrat, mais au plus tard jusqu’au 31 décembre 2005.
 
-## Disposition finale de la modification du 9 novembre 2005****
+## Disposition finale de la modification du 9 novembre 2005
 
 [^u9-1]
 
 [^u9-1]: [RO 2005 5639](https://fedlex.data.admin.ch/eli/oc/2005/771). Abrogée par le ch. IV 51 de l’O du 22 août 2007 relative à la mise à jour formelle du droit fédéral, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
-## Dispositions finales de la modification du 26 avril 2006****
+## Dispositions finales de la modification du 26 avril 2006
 
 [^u10-1]
 
@@ -3725,7 +3733,7 @@ Les procédures pendantes à l’entrée en vigueur de la présente modification
 [^u10-3]: Abrogé par le ch. I de l’O du 27 juin 2007, avec effet au 1<sup>er</sup> août. 2007 ([RO 2007 3573](https://fedlex.data.admin.ch/eli/oc/2007/439)).
 [^u10-4]: Abrogé par le ch. II de l’O du 22 juin 2011, avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 3449](https://fedlex.data.admin.ch/eli/oc/2011/462)).
 
-## Dispositions finales de la modification du 27 juin 2007****
+## Dispositions finales de la modification du 27 juin 2007
 
 [^u11-1]
 
@@ -3745,7 +3753,7 @@ Les procédures pendantes à l’entrée en vigueur de la présente modification
 
 [^u11-2]: [RO 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)
 
-## Disposition transitoire relative à la modification du 22 août 2007****
+## Disposition transitoire relative à la modification du 22 août 2007
 
 [^u12-1]
 
@@ -3753,7 +3761,7 @@ Les procédures pendantes à l’entrée en vigueur de la présente modification
 
 Les dispositions de la présente ordonnance concernant l’organe de révision s’appliquent à l’exercice qui commence à la date de l’entrée en vigueur de la présente modification ou au premier exercice suivant cette date.
 
-## Dispositions finales de la modification du 22 octobre 2008****
+## Dispositions finales de la modification du 22 octobre 2008
 
 [^u13-1]
 
@@ -3777,7 +3785,7 @@ Les dispositions de la présente ordonnance concernant l’organe de révision s
 [^u13-5]: [RS 832.104](https://fedlex.data.admin.ch/eli/cc/2002/418)
 [^u13-6]: Introduit par le ch. I de l’O du 2 nov. 2011, en vigueur depuis le 1<sup>er</sup> déc. 2011 ([RO 2011 5037](https://fedlex.data.admin.ch/eli/oc/2011/738)).
 
-## Disposition finale de la modification du 13 mars 2009****
+## Disposition finale de la modification du 13 mars 2009
 
 [^u14-1]
 
@@ -3787,7 +3795,7 @@ En collaboration avec l’OFSP, avec les offices préposés au paiement des rent
 
 [^u14-2]: [RS 0.142.112.681.1](https://fedlex.data.admin.ch/eli/cc/2009/297)
 
-## Disposition transitoire de la modification du 24 juin 2009****
+## Disposition transitoire de la modification du 24 juin 2009
 
 [^u15-1]
 
@@ -3795,7 +3803,7 @@ En collaboration avec l’OFSP, avec les offices préposés au paiement des rent
 
 Pour les projets pilotes visés à l’art. 36*a* approuvés avant l’entrée en vigueur de la modification du 24 juin 2009, la durée de quatre ans est réduite du temps déjà écoulé lors de l’entrée en vigueur de la présente modification.
 
-## Dispositions transitoires de la modification du 1<sup>er</sup> juillet 2009****
+## Dispositions transitoires de la modification du 1<sup>er</sup> juillet 2009
 
 [^u16-1]
 
@@ -3820,7 +3828,7 @@ Pour les projets pilotes visés à l’art. 36*a* approuvés avant l’entrée e
 
 [^u16-2]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2009, en vigueur depuis le 1<sup>er</sup> oct. 2009 ([RO 2009 4759](https://fedlex.data.admin.ch/eli/oc/2009/560)).
 
-## Dispositions transitoires de la modification du 3 décembre 2010****
+## Dispositions transitoires de la modification du 3 décembre 2010
 
 [^u17-1]
 
@@ -3832,7 +3840,7 @@ Pour les projets pilotes visés à l’art. 36*a* approuvés avant l’entrée e
 
 <sup>3</sup> Les assureurs doivent soumettre dans les douze mois à l’OFSP, pour approbation, les placements visés à l’art. 80*d*, al. 1, let. e, existant au moment de l’entrée en vigueur de la modification du 3 décembre 2010.
 
-## Dispositions transitoires de la modification du 22 juin 2011****
+## Dispositions transitoires de la modification du 22 juin 2011
 
 [^u18-1]
 
@@ -3845,7 +3853,7 @@ Pour les projets pilotes visés à l’art. 36*a* approuvés avant l’entrée e
 - a. disposer de la réserve minimale de sécurité selon l’ancien art. 78, al. 4, et
 - b. se réassurer dans la mesure où ils comptent moins de 50 000 assurés.
 
-## Disposition transitoire de la modification du 6 juillet 2011****
+## Disposition transitoire de la modification du 6 juillet 2011
 
 [^u19-1]
 
@@ -3853,7 +3861,7 @@ Pour les projets pilotes visés à l’art. 36*a* approuvés avant l’entrée e
 
 Lorsqu’un assureur reçoit une demande de prise en charge de prestations par un bénéficiaire de l’aide d’urgence ayant fait l’objet d’une décision en matière d’asile entrée en force avant l’entrée en vigueur de la présente modification, les primes et le supplément de prime selon la présente modification sont dus avec effet rétroactif dès l’entrée en vigueur de la présente modification.
 
-## Disposition transitoire de la modification du 2 novembre 2011****
+## Disposition transitoire de la modification du 2 novembre 2011
 
 [^u20-1]
 
@@ -3864,7 +3872,7 @@ L’ancien droit reste applicable à l’Islande, au Liechtenstein et à la Norv
 [^u20-2]: RO …
 [^u20-3]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
 
-## Disposition transitoire de la modification du 4 juillet 2012****
+## Disposition transitoire de la modification du 4 juillet 2012
 
 [^u21-1]
 
@@ -3876,7 +3884,7 @@ L’ancien droit reste applicable à l’Islande, au Liechtenstein et à la Norv
 
 [^u21-2]: Nouvelle teneur selon le ch. II de l’O du 19 nov. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4391](https://fedlex.data.admin.ch/eli/oc/2014/723), [RO 2015 1177](https://fedlex.data.admin.ch/eli/oc/2015/236)).
 
-## Disposition transitoire de la modification du 8 mai 2013****
+## Disposition transitoire de la modification du 8 mai 2013
 
 [^u22-1]
 
@@ -3884,7 +3892,7 @@ L’ancien droit reste applicable à l’Islande, au Liechtenstein et à la Norv
 
 L’art. 65*f* est également applicable aux demandes d’extension des indications et aux demandes de modification ou de suppression d’une limitation sur lesquelles l’OFSP ne s’est pas encore prononcé à l’entrée en vigueur de la présente modification.
 
-## Disposition transitoire de la modification du 29 novembre 2013****
+## Disposition transitoire de la modification du 29 novembre 2013
 
 [^u23-1]
 
@@ -3896,7 +3904,7 @@ L’art. 65*f* est également applicable aux demandes d’extension des indicati
 
 [^u23-2]: [RO 2010 6161](https://fedlex.data.admin.ch/eli/oc/2010/879)
 
-## Dispositions transitoires de la modification du 29 avril 2015****
+## Dispositions transitoires de la modification du 29 avril 2015
 
 [^u24-1]
 
@@ -3914,7 +3922,7 @@ L’art. 65*f* est également applicable aux demandes d’extension des indicati
 
 [^u24-2]: Nouvelle teneur selon le ch. I de l’O du 23 mars 2016, en vigueur depuis le 1<sup>er</sup> mai 2016 ([RO 2016 1175](https://fedlex.data.admin.ch/eli/oc/2016/219)).
 
-## Disposition transitoire de la modification du 9 décembre 2016****
+## Disposition transitoire de la modification du 9 décembre 2016
 
 [^u25-1]
 
@@ -3922,7 +3930,7 @@ L’art. 65*f* est également applicable aux demandes d’extension des indicati
 
 Les demandes en reconnaissance de l’équivalence d’un titre postgrade en médecine de laboratoire au sens de l’art. 54*a* qui ont été déposées avant l’entrée en vigueur de la modification du 9 décembre 2016 sont régies par l’ancien droit.
 
-## Dispositions transitoires de la modification du 1<sup>er</sup> février 2017****
+## Dispositions transitoires de la modification du 1<sup>er</sup> février 2017
 
 [^u26-1]
 
@@ -3932,7 +3940,7 @@ Les demandes en reconnaissance de l’équivalence d’un titre postgrade en mé
 
 <sup>2</sup> Le premier réexamen des conditions d’admission au sens de l’art. 65*d* a lieu en 2017.
 
-## Dispositions transitoires de la modification du 5 avril 2017****
+## Dispositions transitoires de la modification du 5 avril 2017
 
 [^u27-1]
 
@@ -3944,19 +3952,19 @@ Les demandes en reconnaissance de l’équivalence d’un titre postgrade en mé
 
 [^u27-2]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
 
-## Disposition transitoire de la modification du 19 mars 2021****
+## Disposition transitoire de la modification du 19 mars 2021
 
 [^u28-1]
 
 [^u28-1]: [RO 2021 188](https://fedlex.data.admin.ch/eli/oc/2021/188). Abrogée par le ch. I de l’O du 23 juin 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
-## Disposition transitoire de la modification du 26 mai 2021****
+## Disposition transitoire de la modification du 26 mai 2021
 
 [^u29-1]
 
 [^u29-1]: [RO 2021 323](https://fedlex.data.admin.ch/eli/oc/2021/323). Abrogée par le ch. I de l’O du 23 juin 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
-## Dispositions transitoires de la modification du 23 juin 2021****
+## Dispositions transitoires de la modification du 23 juin 2021
 
 [^u30-1]
 
@@ -3982,7 +3990,7 @@ Les demandes en reconnaissance de l’équivalence d’un titre postgrade en mé
 
 [^u30-2]: [RO 2021 413](https://fedlex.data.admin.ch/eli/oc/2021/413)
 
-## Dispositions transitoires de la modification du 3 novembre 2021****
+## Dispositions transitoires de la modification du 3 novembre 2021
 
 [^u31-1]
 
@@ -3996,7 +4004,7 @@ Les demandes en reconnaissance de l’équivalence d’un titre postgrade en mé
 
 [^u31-2]: [RS 832.201](https://fedlex.data.admin.ch/eli/cc/1982/1724_1724_1724)
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 70*b*)
 
@@ -4017,7 +4025,7 @@ Annexe 1*[^t-1]*
 <tr><td>2. Émolument annuel pour tout médicament et pour tout emballage figurant dans la liste des spécialités</td><td>40</td></tr>
 </table>
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 ## Abrogation et modification d’ordonnances fédérales
 

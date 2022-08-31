@@ -4,11 +4,11 @@ title: Verordnung vom 27. Juni 1995 über die Krankenversicherung (KVV)
 short: KVV
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867"
 language: de
-version: 2022-07-01
+version: 2022-09-01
 adopted: 1995-06-27
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20220701/de/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20220701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20220701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20220901/de/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20220901-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20220901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20220701/de"
 
 (KVV)
 
-vom 27. Juni 1995 (Stand am 1. Juli 2022)
+vom 27. Juni 1995 (Stand am 1. September 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -974,7 +974,7 @@ Sie besteht aus 16 Mitgliedern; davon vertreten:[^37f-3]
 
 ### 1. Kapitel: Zulassung
 
-### 1. Abschnitt:**** Ärzte und Ärztinnen sowie Einrichtungen, die der ambulanten Krankenpflege durch Ärzte und Ärztinnen dienen
+### 1. Abschnitt: Ärzte und Ärztinnen sowie Einrichtungen, die der ambulanten Krankenpflege durch Ärzte und Ärztinnen dienen
 
 [^part1-tit4-chap1-sec1-1]
 
@@ -1017,7 +1017,7 @@ Einrichtungen, die der ambulanten Krankenpflege durch Ärzte und Ärztinnen dien
 
 <sup>2</sup> Die Beschränkungen der Anzahl zugelassener Ärzte und Ärztinnen (Art. 55*a* KVG) durch die Kantone bleiben vorbehalten.
 
-### 2. Abschnitt:**** Apotheker und Apothekerinnen
+### 2. Abschnitt: Apotheker und Apothekerinnen
 
 [^part1-tit4-chap1-sec2-1]
 
@@ -1045,7 +1045,7 @@ Apotheker und Apothekerinnen werden zugelassen, wenn sie die folgenden Vorausset
 
 [^41-1]: Aufgehoben durch Ziff. I der V vom 23. Juni 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
-### 3. Abschnitt:**** Zahnärzte und Zahnärztinnen
+### 3. Abschnitt: Zahnärzte und Zahnärztinnen
 
 [^part1-tit4-chap1-sec3-1]
 
@@ -1070,7 +1070,7 @@ Zahnärzte und Zahnärztinnen werden für Leistungen nach Artikel 31 KVG zugelas
 
 [^43-1]: Aufgehoben durch Ziff. I der V vom 23. Juni 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
-### 4. Abschnitt: Chiropraktoren und Chiropraktorinnen sowie Organisationen der Chiropraktik****
+### 4. Abschnitt: Chiropraktoren und Chiropraktorinnen sowie Organisationen der Chiropraktik
 
 [^part1-tit4-chap1-sec4-1]
 
@@ -1112,7 +1112,7 @@ Organisationen der Chiropraktik werden zugelassen, wenn sie die folgenden Voraus
 
 [^44a-1]: Eingefügt durch Ziff. I der V vom 23. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
-### 5. Abschnitt:**** Hebammen und Organisationen der Hebammen
+### 5. Abschnitt: Hebammen und Organisationen der Hebammen
 
 [^part1-tit4-chap1-sec5-1]
 
@@ -1538,7 +1538,7 @@ Abgabestellen für Mittel und Gegenstände, die der Untersuchung oder Behandlung
 
 [^55-1]: Fassung gemäss Ziff. I der V vom 23. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
-### 8*a*. Abschnitt:**** Geburtshäuser
+### 8*a*. Abschnitt: Geburtshäuser
 
 [^part1-tit4-chap1-sec8a-1]
 
@@ -1589,7 +1589,7 @@ Transport- und Rettungsunternehmen werden zugelassen, wenn sie die folgenden Vor
 
 <sup>2</sup> Die chemischen oder physikalischen Eigenschaften sind durch Heilwasseranalysen gutachtlich nachzuweisen und alle drei Jahre durch eine Kontrollanalyse durch die zuständige kantonale Instanz zu überprüfen.
 
-### 11. Abschnitt:**** Planungskriterien
+### 11. Abschnitt: Planungskriterien
 
 [^part1-tit4-chap1-sec11-1]
 
@@ -1717,7 +1717,7 @@ Sie können vorsehen, dass die Leistungsaufträge namentlich folgende Auflagen e
 
 [^58f-1]: Eingefügt durch Ziff. I der V vom 23. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
-### 12. Abschnitt:**** Qualitätsanforderungen
+### 12. Abschnitt: Qualitätsanforderungen
 
 [^part1-tit4-chap1-sec12-1]
 
@@ -1800,13 +1800,13 @@ Für den ambulanten Bereich erlässt das EDI ausführende Bestimmungen zur Erheb
 [^59ater-1]: Eingefügt durch Ziff. I der V vom 4. Juli 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 4089](https://fedlex.data.admin.ch/eli/oc/2012/474)).
 [^59ater-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 
-### 3. Kapitel: Tarife und Preise****
+### 3. Kapitel: Tarife und Preise
 
 [^part1-tit4-chap3-1]
 
 [^part1-tit4-chap3-1]: Ursprünglich vor Art. 59*a*. Fassung gemäss Ziff. I der V vom 17. Sept. 1997, in Kraft seit 1. Jan. 1998 ([AS 1997 2272](https://fedlex.data.admin.ch/eli/oc/1997/2272_2272_2272)).
 
-### 1. Abschnitt: Grundsätze****
+### 1. Abschnitt: Grundsätze
 
 [^part1-tit4-chap3-sec1-1]
 
@@ -1868,7 +1868,7 @@ Die Tarifpartner müssen dem Bundesrat nach den Artikeln 46 Absatz 4 und 49 Absa
 
 [^59e-1]: Eingefügt durch Ziff. I der V vom 22. Okt. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 5097](https://fedlex.data.admin.ch/eli/oc/2008/708)). Siehe auch die SchlB dieser Änd. am Ende dieses Textes.
 
-### 2. Abschnitt:**** Analysenliste
+### 2. Abschnitt: Analysenliste
 
 [^part1-tit4-chap3-sec2-1]
 
@@ -1909,7 +1909,7 @@ Das EDI bezeichnet diejenigen Analysen, die:
 [^62-1]: Fassung gemäss Ziff. I der V vom 23. Febr. 2000, in Kraft seit 1. April 2000 ([AS 2000 889](https://fedlex.data.admin.ch/eli/oc/2000/137)).
 [^62-2]: Aufgehoben durch Ziff. I der V vom 4. Juni 2021, mit Wirkung seit 1. Okt. 2021 ([AS 2021 346](https://fedlex.data.admin.ch/eli/oc/2021/346)).
 
-### 3. Abschnitt:**** Arzneimittelliste mit Tarif
+### 3. Abschnitt: Arzneimittelliste mit Tarif
 
 [^part1-tit4-chap3-sec3-1]
 
@@ -1921,7 +1921,7 @@ Das EDI bezeichnet diejenigen Analysen, die:
 
 <sup>2</sup> Für die Aufnahme eines Arzneimittels in die Arzneimittelliste mit Tarif finden die Bestimmungen über die Spezialitätenliste sinngemäss Anwendung.
 
-### 4. Abschnitt:**** Spezialitätenliste
+### 4. Abschnitt: Spezialitätenliste
 
 [^part1-tit4-chap3-sec4-1]
 
@@ -2307,7 +2307,7 @@ Das EDI erlässt nähere Vorschriften:
 [^71-3]: Fassung gemäss Ziff. I der V vom 1. Febr. 2017, in Kraft seit 1. März 2017 ([AS 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
 [^71-4]: Die Dokumente können abgerufen werden unter: www.bag.admin.ch &gt; Themen &gt; Krankenversicherung &gt; Tarife und Preise &gt; Spezialitätenliste
 
-### 4*a*. Abschnitt: Vergütung von Arzneimitteln im Einzelfall****
+### 4*a*. Abschnitt: Vergütung von Arzneimitteln im Einzelfall
 
 [^part1-tit4-chap3-sec4a-1]
 
@@ -2378,7 +2378,15 @@ Die Artikel 71*a*–71*d* finden für die Übernahme der Kosten in folgenden Fä
 [^71e-1]: Eingefügt durch Ziff. III der V vom 12. Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)). Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft vom 1. Jan. 2022 bis zum 31. Dez. 2022 ([AS 2021 892](https://fedlex.data.admin.ch/eli/oc/2021/892)).
 [^71e-2]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
 
-### 5. Abschnitt:**** Gemeinsame Bestimmungen für die Analysenliste, die Arzneimittelliste mit Tarif und die Spezialitätenliste****
+#### Art. 71f
+
+**Übernahme der Kosten von Arzneimitteln zur ambulanten oder stationären Behandlung von Affenpocken**[^71f-1]
+
+Die Artikel 71*a*–71*d* finden keine Anwendung für die Übernahme der Kosten von Arzneimitteln, die zur ambulanten oder stationären Behandlung von Affenpocken eingesetzt werden.
+
+[^71f-1]: Eingefügt durch Ziff. III der V vom 24. Aug. 2022, in Kraft vom 1. Sept. 2022 bis zum 31. Dez. 2023 ([AS 2022 467](https://fedlex.data.admin.ch/eli/oc/2022/467)).
+
+### 5. Abschnitt: Gemeinsame Bestimmungen für die Analysenliste, die Arzneimittelliste mit Tarif und die Spezialitätenliste
 
 [^part1-tit4-chap3-sec5-1][^part1-tit4-chap3-sec5-2]
 
@@ -2818,7 +2826,7 @@ Die Prämien sind im Voraus und in der Regel monatlich zu bezahlen.
 
 [^92-1]: Aufgehoben durch Anhang Ziff. 3 der Krankenversicherungsaufsichtsverordnung vom 18. Nov. 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
 
-### 1*a*. Abschnitt:**** Prämien der Versicherten mit Wohnort in einem Mitgliedstaat der Europäischen Union, in Island oder Norwegen****
+### 1*a*. Abschnitt: Prämien der Versicherten mit Wohnort in einem Mitgliedstaat der Europäischen Union, in Island oder Norwegen
 
 [^part1-tit5-chap2-sec1a-1][^part1-tit5-chap2-sec1a-2]
 
@@ -2837,7 +2845,7 @@ Wohnt die versicherte Person im Ausland, so erhebt der Versicherer die Prämien 
 
 [^92b92c-1]: Aufgehoben durch Anhang Ziff. 3 der Krankenversicherungsaufsichtsverordnung vom 18. Nov. 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
 
-### 1*b*. Abschnitt:**** Prämien von nothilfeberechtigten Personen nach Artikel 82 AsylG****
+### 1*b*. Abschnitt: Prämien von nothilfeberechtigten Personen nach Artikel 82 AsylG
 
 [^part1-tit5-chap2-sec1b-1][^part1-tit5-chap2-sec1b-2]
 
@@ -3113,7 +3121,7 @@ Das EDI bezeichnet die Leistungen, für die nach Artikel 64 Absatz 6 Buchstabe a
 
 [^105-1]: Eingefügt durch Ziff. I der V vom 29. Nov. 2013, in Kraft seit 1. März 2014 ([AS 2013 4523](https://fedlex.data.admin.ch/eli/oc/2013/800)).
 
-### 3*a*. Kapitel:**** Nichtbezahlung von Prämien und Kostenbeteiligungen
+### 3*a*. Kapitel: Nichtbezahlung von Prämien und Kostenbeteiligungen
 
 [^part1-tit5-chap3a-1]
 
@@ -3282,13 +3290,13 @@ Ist es nach dem Recht eines Mitgliedstaats der Europäischen Union, Islands oder
 
 [^105m-1]: Eingefügt durch Ziff. I der V vom 22. Juni 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
 
-### 4. Kapitel:**** Prämienverbilligung durch die Kantone
+### 4. Kapitel: Prämienverbilligung durch die Kantone
 
 [^part1-tit5-chap4-1]
 
 [^part1-tit5-chap4-1]: Fassung gemäss Ziff. I der V vom 3. Juli 2001, in Kraft seit 1. Juni 2002 ([AS 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)).
 
-### 1. Abschnitt: Anspruchsberechtigte****
+### 1. Abschnitt: Anspruchsberechtigte
 
 [^part1-tit5-chap4-sec1-1]
 
@@ -3319,7 +3327,7 @@ Die Prämienverbilligung richtet sich nach Artikel 65*a* des Gesetzes:
 [^106a-1]: Fassung gemäss Ziff. I der V vom 2. Nov. 2011, in Kraft seit 1. April 2012 ([AS 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)).
 [^106a-2]: Fassung gemäss Ziff. I der V vom 2. Nov. 2011, in Kraft seit 1. April 2012 ([AS 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)).
 
-### 2. Abschnitt:**** Durchführung der Prämienverbilligung
+### 2. Abschnitt: Durchführung der Prämienverbilligung
 
 [^part1-tit5-chap4-sec2-1]
 
@@ -3500,7 +3508,7 @@ Der vorleistende Krankenversicherer macht die versicherte Person auf die Rücker
 
 <sup>2</sup> Hat der rückvergütungsberechtigte Versicherer mehr erstattet, als aufgrund der für den rückvergütungspflichtigen Versicherer geltenden Tarife geschuldet gewesen wäre, müssen die Leistungserbringer dem rückvergütungsberechtigten Versicherer die Differenz zurückerstatten.
 
-### 4. Abschnitt:**** Informationspflicht der Versicherer
+### 4. Abschnitt: Informationspflicht der Versicherer
 
 [^part3-tit1-chap1-sec4-1]
 
@@ -3642,19 +3650,19 @@ Laboratorien, die bereits nach den Artikeln 53 und 54 als Leistungserbringer fü
 
 Diese Verordnung tritt am 1. Januar 1996 in Kraft.
 
-## Schlussbestimmungen der Änderung vom 17. September 1997****
+## Schlussbestimmungen der Änderung vom 17. September 1997
 
 [^u1-1]
 
 [^u1-1]: [AS 1997 2272](https://fedlex.data.admin.ch/eli/oc/1997/2272_2272_2272). Aufgehoben durch Ziff. IV 51 der V vom 22. Aug. 2007 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Jan. 2008 ([AS 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
-## Schlussbestimmungen der Änderung vom 23. Februar 2000****
+## Schlussbestimmungen der Änderung vom 23. Februar 2000
 
 [^u2-1]
 
 [^u2-1]: [AS 2000 889](https://fedlex.data.admin.ch/eli/oc/2000/137). Aufgehoben durch Ziff. IV 51 der V vom 22. Aug. 2007 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Jan. 2008 ([AS 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
-## Schlussbestimmungen der Änderung vom 2. Oktober 2000****
+## Schlussbestimmungen der Änderung vom 2. Oktober 2000
 
 [^u3-1]
 
@@ -3662,13 +3670,13 @@ Diese Verordnung tritt am 1. Januar 1996 in Kraft.
 
 Das BAG kann für bestimmte Arzneimittelgruppen während höchstens fünf Jahren auf die Anpassung der Preise an die in Artikel 67 vorgesehene Preisstruktur verzichten oder eine gestaffelte Anpassung vorsehen.
 
-## Schlussbestimmungen der Änderung vom 22. Mai 2002****
+## Schlussbestimmungen der Änderung vom 22. Mai 2002
 
 [^u4-1]
 
 [^u4-1]: [AS 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251). Aufgehoben durch Ziff. IV 51 der V vom 22. Aug. 2007 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Jan. 2008 ([AS 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
-## Schlussbestimmungen der Änderung vom 26. Juni 2002****
+## Schlussbestimmungen der Änderung vom 26. Juni 2002
 
 [^u5-1]
 
@@ -3676,13 +3684,13 @@ Das BAG kann für bestimmte Arzneimittelgruppen während höchstens fünf Jahren
 
 Für die im Zeitpunkt des Inkrafttretens dieser Änderung hängigen Verfahren gilt das neue Recht.
 
-## Schlussbestimmungen der Änderung vom 6. Juni 2003****
+## Schlussbestimmungen der Änderung vom 6. Juni 2003
 
 [^u6-1]
 
 [^u6-1]: [AS 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445). Aufgehoben durch Ziff. IV 51 der V vom 22. Aug. 2007 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Jan. 2008 ([AS 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
-## Schlussbestimmungen der Änderung vom 26. Mai 2004****
+## Schlussbestimmungen der Änderung vom 26. Mai 2004
 
 [^u7-1]
 
@@ -3692,7 +3700,7 @@ Für die im Zeitpunkt des Inkrafttretens dieser Änderung hängigen Verfahren gi
 
 <sup>2</sup> Für die mit einer wählbaren Franchise versicherten Personen gilt ab dem 1. Januar 2005 die von ihrem Versicherer angebotene wählbare Franchise, die ihrer bisherigen Franchise entspricht oder die dieser am nächsten ist. Haben die nächstliegende höhere Franchise und die nächstliegende tiefere Franchise den gleichen Abstand zur bisherigen Franchise, so gilt die höhere. Die mit einer wählbaren Franchise versicherten Personen können jedoch eine andere Franchise wählen oder in die ordentliche Versicherung wechseln, wenn sie dies dem Versicherer bis spätestens am 30. November 2004 schriftlich mitteilen.
 
-## Schlussbestimmungen der Änderung vom 3. Dezember 2004****
+## Schlussbestimmungen der Änderung vom 3. Dezember 2004
 
 [^u8-1]
 
@@ -3702,13 +3710,13 @@ Für die im Zeitpunkt des Inkrafttretens dieser Änderung hängigen Verfahren gi
 
 <sup>2</sup> Für Versicherungsverhältnisse, die vor Inkrafttreten dieser Änderung von Artikel 103 Absatz 5 abgeschlossen worden sind, gilt die bisherige Regelung für die vereinbarte Vertragsdauer, höchstens aber bis zum 31. Dezember 2005.
 
-## Schlussbestimmungen der Änderung vom 9. November 2005****
+## Schlussbestimmungen der Änderung vom 9. November 2005
 
 [^u9-1]
 
 [^u9-1]: [AS 2005 5639](https://fedlex.data.admin.ch/eli/oc/2005/771). Aufgehoben durch Ziff. IV 51 der V vom 22. Aug. 2007 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Jan. 2008 ([AS 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
-## Schlussbestimmungen der Änderung vom 26. April 2006****
+## Schlussbestimmungen der Änderung vom 26. April 2006
 
 [^u10-1]
 
@@ -3728,7 +3736,7 @@ Für die im Zeitpunkt des Inkrafttretens dieser Änderung hängigen Verfahren gi
 [^u10-3]: Aufgehoben durch Ziff. I der V vom 27. Juni 2007, mit Wirkung seit 1. Aug. 2007 ([AS 2007 3573](https://fedlex.data.admin.ch/eli/oc/2007/439)).
 [^u10-4]: Aufgehoben durch Ziff. I der V vom 22. Juni 2011, mit Wirkung seit 1. Jan. 2012 ([AS 2011 3449](https://fedlex.data.admin.ch/eli/oc/2011/462)).
 
-## Schlussbestimmungen der Änderung vom 27. Juni 2007****
+## Schlussbestimmungen der Änderung vom 27. Juni 2007
 
 [^u11-1]
 
@@ -3748,7 +3756,7 @@ Für die im Zeitpunkt des Inkrafttretens dieser Änderung hängigen Verfahren gi
 
 [^u11-2]: [AS 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)
 
-## Schlussbestimmungen der Änderung vom 22. August 2007****
+## Schlussbestimmungen der Änderung vom 22. August 2007
 
 [^u12-1]
 
@@ -3756,7 +3764,7 @@ Für die im Zeitpunkt des Inkrafttretens dieser Änderung hängigen Verfahren gi
 
 Die Bestimmungen dieser Verordnung zur Revisionsstelle gelten vom ersten Geschäftsjahr an, das mit Inkrafttreten dieser Änderung oder danach beginnt.
 
-## Schlussbestimmungen der Änderung vom 22. Oktober 2008****
+## Schlussbestimmungen der Änderung vom 22. Oktober 2008
 
 [^u13-1]
 
@@ -3780,7 +3788,7 @@ Die Bestimmungen dieser Verordnung zur Revisionsstelle gelten vom ersten Geschä
 [^u13-5]: [SR 832.104](https://fedlex.data.admin.ch/eli/cc/2002/418)
 [^u13-6]: Eingefügt durch Ziff. I der V vom 2. Nov. 2011, in Kraft seit 1. Dez. 2011 ([AS 2011 5037](https://fedlex.data.admin.ch/eli/oc/2011/738)).
 
-## Schlussbestimmungen der Änderung vom 13. März 2009****
+## Schlussbestimmungen der Änderung vom 13. März 2009
 
 [^u14-1]
 
@@ -3790,7 +3798,7 @@ Die gemeinsame Einrichtung informiert in Zusammenarbeit mit dem BAG, den rentena
 
 [^u14-2]: [SR 0.142.112.681.1](https://fedlex.data.admin.ch/eli/cc/2009/297)
 
-## Übergangsbestimmungen der Änderung vom 24. Juni 2009****
+## Übergangsbestimmungen der Änderung vom 24. Juni 2009
 
 [^u15-1]
 
@@ -3798,7 +3806,7 @@ Die gemeinsame Einrichtung informiert in Zusammenarbeit mit dem BAG, den rentena
 
 Für Pilotprojekte nach Artikel 36*a*, die vor dem Inkrafttreten der Änderung vom 24. Juni 2009 genehmigt wurden, wird die Projektdauer von vier Jahren um die im Zeitpunkt des Inkrafttretens dieser Änderung bereits abgelaufene Zeit gekürzt.
 
-## Übergangsbestimmungen zur Änderung vom 1. Juli 2009****
+## Übergangsbestimmungen zur Änderung vom 1. Juli 2009
 
 [^u16-1]
 
@@ -3823,7 +3831,7 @@ Für Pilotprojekte nach Artikel 36*a*, die vor dem Inkrafttreten der Änderung v
 
 [^u16-2]: Fassung gemäss Ziff. I der V vom 11. Sept. 2009, in Kraft seit 1. Okt. 2009 ([AS 2009 4759](https://fedlex.data.admin.ch/eli/oc/2009/560)).
 
-## Übergangsbestimmungen zur Änderung vom 3. Dezember 2010****
+## Übergangsbestimmungen zur Änderung vom 3. Dezember 2010
 
 [^u17-1]
 
@@ -3835,7 +3843,7 @@ Für Pilotprojekte nach Artikel 36*a*, die vor dem Inkrafttreten der Änderung v
 
 <sup>3</sup> Die Versicherer müssen Anlagen nach Artikel 80*d* Absatz 1 Buchstabe e, die bei Inkrafttreten der Änderung vom 3. Dezember 2010 bestehen, dem BAG innerhalb eines Jahres zur Genehmigung unterbreiten.
 
-## Übergangsbestimmungen zur Änderung vom 22. Juni 2011****
+## Übergangsbestimmungen zur Änderung vom 22. Juni 2011
 
 [^u18-1]
 
@@ -3848,7 +3856,7 @@ Für Pilotprojekte nach Artikel 36*a*, die vor dem Inkrafttreten der Änderung v
 - a. über die Sicherheitsreserven nach Artikel 78 Absatz 4 des bisherigen Rechts verfügen; und
 - b. sofern bei ihnen weniger als 50 000 Personen in der obligatorischen Krankenpflegeversicherung versichert sind, über eine Rückversicherung verfügen.
 
-## Übergangsbestimmung zur Änderung vom 6. Juli 2011****
+## Übergangsbestimmung zur Änderung vom 6. Juli 2011
 
 [^u19-1]
 
@@ -3856,7 +3864,7 @@ Für Pilotprojekte nach Artikel 36*a*, die vor dem Inkrafttreten der Änderung v
 
 Erhält ein Versicherer ein Gesuch um Kostenübernahme von einer nothilfeberechtigten Person, deren Asylentscheid vor dem Inkrafttreten dieser Änderung rechtskräftig wurde, so sind die Prämien und der Aufschlag nach dieser Änderung rückwirkend ab dem Inkrafttreten dieser Änderung geschuldet.
 
-## Übergangsbestimmung zur Änderung vom 2. November 2011****
+## Übergangsbestimmung zur Änderung vom 2. November 2011
 
 [^u20-1]
 
@@ -3867,7 +3875,7 @@ In Bezug auf Island, Liechtenstein und Norwegen gilt bis zum Inkrafttreten der �
 [^u20-2]: AS …
 [^u20-3]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
 
-## Übergangsbestimmung zur Änderung vom 4. Juli 2012****
+## Übergangsbestimmung zur Änderung vom 4. Juli 2012
 
 [^u21-1]
 
@@ -3879,7 +3887,7 @@ In Bezug auf Island, Liechtenstein und Norwegen gilt bis zum Inkrafttreten der �
 
 [^u21-2]: Fassung gemäss Ziff. II der V vom 19. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4391](https://fedlex.data.admin.ch/eli/oc/2014/723), [2015 1177](https://fedlex.data.admin.ch/eli/oc/2015/236)).
 
-## Übergangsbestimmung zur Änderung vom 8. Mai 2013****
+## Übergangsbestimmung zur Änderung vom 8. Mai 2013
 
 [^u22-1]
 
@@ -3887,7 +3895,7 @@ In Bezug auf Island, Liechtenstein und Norwegen gilt bis zum Inkrafttreten der �
 
 Artikel 65*f* gilt auch für Gesuche um Indikationserweiterung oder um Änderung oder Aufhebung einer Limitierung, welche beim Inkrafttreten dieser Änderung noch beim BAG hängig sind.
 
-## Übergangsbestimmungen zur Änderung vom 29. November 2013****
+## Übergangsbestimmungen zur Änderung vom 29. November 2013
 
 [^u23-1]
 
@@ -3899,7 +3907,7 @@ Artikel 65*f* gilt auch für Gesuche um Indikationserweiterung oder um Änderung
 
 [^u23-2]: [AS 2010 6161](https://fedlex.data.admin.ch/eli/oc/2010/879)
 
-## Übergangsbestimmungen zur Änderung vom 29. April 2015****
+## Übergangsbestimmungen zur Änderung vom 29. April 2015
 
 [^u24-1]
 
@@ -3917,7 +3925,7 @@ Artikel 65*f* gilt auch für Gesuche um Indikationserweiterung oder um Änderung
 
 [^u24-2]: Fassung gemäss Ziff. I der V vom 23. März 2016, in Kraft seit 1. Mai 2016 ([AS 2016 1175](https://fedlex.data.admin.ch/eli/oc/2016/219)).
 
-## Übergangsbestimmung zur Änderung vom 9. Dezember 2016****
+## Übergangsbestimmung zur Änderung vom 9. Dezember 2016
 
 [^u25-1]
 
@@ -3925,7 +3933,7 @@ Artikel 65*f* gilt auch für Gesuche um Indikationserweiterung oder um Änderung
 
 Für Gesuche um Anerkennung der Gleichwertigkeit von Weiterbildungstiteln in Labormedizin nach Artikel 54*a*, die vor dem Inkrafttreten der Änderung vom 9. Dezember 2016 eingereicht wurden, gilt das bisherige Recht.
 
-## Übergangsbestimmungen zur Änderung vom 1. Februar 2017****
+## Übergangsbestimmungen zur Änderung vom 1. Februar 2017
 
 [^u26-1]
 
@@ -3935,7 +3943,7 @@ Für Gesuche um Anerkennung der Gleichwertigkeit von Weiterbildungstiteln in Lab
 
 <sup>2</sup> Die erste Überprüfung der Aufnahmebedingungen nach Artikel 65*d* wird im Jahr 2017 durchgeführt.
 
-## Übergangsbestimmung zur Änderung vom 5. April 2017****
+## Übergangsbestimmung zur Änderung vom 5. April 2017
 
 [^u27-1]
 
@@ -3947,19 +3955,19 @@ Für Gesuche um Anerkennung der Gleichwertigkeit von Weiterbildungstiteln in Lab
 
 [^u27-2]: [SR 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
 
-## Übergangsbestimmung zur Änderung vom 19. März 2021****
+## Übergangsbestimmung zur Änderung vom 19. März 2021
 
 [^u28-1]
 
 [^u28-1]: [AS 2021 188](https://fedlex.data.admin.ch/eli/oc/2021/188). Aufgehoben durch Ziff. I der V vom 23. Juni 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
-## Übergangsbestimmung zur Änderung vom 26. Mai 2021****
+## Übergangsbestimmung zur Änderung vom 26. Mai 2021
 
 [^u29-1]
 
 [^u29-1]: [AS 2021 323](https://fedlex.data.admin.ch/eli/oc/2021/323). Aufgehoben durch Ziff. I der V vom 23. Juni 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 
-## Übergangsbestimmungen zur Änderung vom 23. Juni 2021****
+## Übergangsbestimmungen zur Änderung vom 23. Juni 2021
 
 [^u30-1]
 
@@ -3985,7 +3993,7 @@ Für Gesuche um Anerkennung der Gleichwertigkeit von Weiterbildungstiteln in Lab
 
 [^u30-2]: [AS 2021 413](https://fedlex.data.admin.ch/eli/oc/2021/413)
 
-## Übergangsbestimmungen zur Änderung vom 3. November 2021****
+## Übergangsbestimmungen zur Änderung vom 3. November 2021
 
 [^u31-1]
 
@@ -3999,7 +4007,7 @@ Für Gesuche um Anerkennung der Gleichwertigkeit von Weiterbildungstiteln in Lab
 
 [^u31-2]: [SR 831.201](https://fedlex.data.admin.ch/eli/cc/1961/29_29_29)
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 70*b*)
 
@@ -4020,7 +4028,7 @@ Anhang 1*[^t-1]*
 <tr><td>2. Jahresgebühr pro aufgenommenes Arzneimittel und aufgeführte Packung</td><td>40</td></tr>
 </table>
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 ## Aufhebung und Änderung von Verordnungen
 
