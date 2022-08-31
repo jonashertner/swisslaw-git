@@ -3,20 +3,19 @@ canton: VS
 number: "935.1"
 title: Gesetz über den Tourismus
 language: de
-version: 2015-01-01
-corrected: 2020-03-06
+version: 2022-09-01
 version_adopted: 2014-05-08
 adopted: 1996-02-09
 in_force: 1996-11-01
 url: "https://lex.vs.ch/app/de/texts_of_law/935.1"
-pdf: "https://lex.vs.ch/api/de/versions/2228/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3029/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über den Tourismus
 
-vom 09.02.1996 (Stand 01.01.2015)
+vom 09.02.1996 (Stand 01.09.2022)
 
 Der Grosse Rat des Kantons Wallis
 
@@ -154,7 +153,7 @@ verordnet:
 
 **Kompetenzübertragung**
 
-<sup>1</sup> Unter Vorbehalt gegenteiliger Bestimmungen im vorliegenden Gesetz können die Gemeinden nur die in Absatz 1 Buchstabe d erwähnten Aufgaben an den Verkehrsverein und/oder an ein Tourismusunternehmen delegieren.
+<sup>1</sup> Der Staatsrat kann dem Dachverband zusätzlich zu den in Artikel 4 vorgesehenen Aufgaben Vollzugsaufgaben des kantonalen Tourismusgesetzes übertragen.
 
 <sup>2</sup> Diese Aufgaben, die Modalitäten der Kompetenzdelegation sowie die Finanzierung werden in Form eines Leistungsvertrags festgelegt.
 
@@ -469,7 +468,7 @@ verordnet:
 
 <sup>1</sup> Wer Gäste beherbergt ist verpflichtet, für statistische Zwecke ein Logiernächteregister zu führen.
 
-<sup>2</sup> Die öffentlichen Körperschaften, die natürlichen und juristischen Personen sind auf Anfrage hin verpflichtet, der zuständigen kantonalen Behörde alle für die Analyse der Tourismusbranche notwendigen Auskünfte zu erteilen.
+<sup>2</sup> Die öffentliche Verwaltung, die öffentlichen Körperschaften, die natürlichen und juristischen Personen sind auf Anfrage hin verpflichtet, der zuständigen kantonalen Behörde alle für die Analyse der Tourismusbranche notwendigen Auskünfte zu erteilen.
 
 #### Art. 40a
 

@@ -3,20 +3,19 @@ canton: VS
 number: "935.1"
 title: Loi sur le tourisme
 language: fr
-version: 2015-01-01
-corrected: 2020-03-06
+version: 2022-09-01
 version_adopted: 2014-05-08
 adopted: 1996-02-09
 in_force: 1996-11-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/935.1"
-pdf: "https://lex.vs.ch/api/fr/versions/2228/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3029/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Loi sur le tourisme
 
-du 09.02.1996 (état 01.01.2015)
+du 09.02.1996 (état 01.09.2022)
 
 Le Grand Conseil du canton du Valais
 
@@ -469,7 +468,7 @@ ordonne:
 
 <sup>1</sup> Celui qui héberge des hôtes a l'obligation de tenir à jour un registre des nuitées à des fins de statistique.
 
-<sup>2</sup> Les collectivités publiques, les personnes physiques et morales sont tenues de communiquer à l'autorité cantonale compétente, sur requête, tout renseignement utile à l'analyse de la branche du tourisme.
+<sup>2</sup> Les administrations publiques, les collectivités publiques, les personnes physiques et morales sont tenues de communiquer à l'autorité cantonale compétente, sur requête, tout renseignement utile à l'analyse de la branche du tourisme.
 
 #### Art. 40a
 
