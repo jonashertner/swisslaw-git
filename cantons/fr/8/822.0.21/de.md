@@ -3,13 +3,13 @@ canton: FR
 number: "822.0.21"
 title: Verordnung über die Liste der Spitäler und Geburtshäuser
 language: de
-version: 2017-01-01
-valid_until: 2022-08-31
-version_adopted: 2016-12-05
+version: 2022-09-01
+valid_until: 2023-02-28
+version_adopted: 2022-08-30
 adopted: 2015-03-31
 in_force: 2015-04-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/822.0.21"
-pdf: "https://bdlf.fr.ch/api/de/versions/5923/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7557/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/5923/pdf_file"
 
 Liste der Spitäler und Geburtshäuser – V
 
-vom 31.03.2015 (Fassung in Kraft getreten am 01.01.2017)
+vom 31.03.2015 (Fassung in Kraft getreten am 01.09.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -93,7 +93,8 @@ beschliesst:
 - a) Freiburger Netzwerk für psychische Gesundheit (FNPG);
 - b) freiburger Spital (HFR), Standorte Freiburg, Tafers, Riaz, Meyriez–Murten und Billens;
 - c) Privatklinik Meiringen, Meiringen;
-- d) Etablissements Hospitaliers du Nord Vaudois (eHnv), Saint-Loup.
+- d) Etablissements Hospitaliers du Nord Vaudois (eHnv), Saint-Loup;
+- e) Universitäre Psychiatrische Dienste Bern (UPD), Bern.
 
 <sup>2</sup> Der Umfang der Leistungsaufträge wird in Anhang 3 definiert.
 
