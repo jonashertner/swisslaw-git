@@ -4,11 +4,11 @@ title: "Ordinance of 5 June 2015 on Protection against Dangerous Substances and 
 short: ChemO
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/366"
 language: en
-version: 2022-05-05
+version: 2022-09-01
 adopted: 2015-06-05
 in_force: 2015-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220505/en/xml/fedlex-data-admin-ch-eli-cc-2015-366-20220505-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/366/20220505/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220901/en/xml/fedlex-data-admin-ch-eli-cc-2015-366-20220901-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/366/20220901/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Chemicals Ordinance, ChemO)
 
-of 5 June 2015 (Status as of 5 May 2022)
+of 5 June 2015 (Status as of 1 September 2022)
 
 The Swiss Federal Council,
 
@@ -571,7 +571,7 @@ Manufacturers of a new substance or their only representative must notify the ne
 
 If a substance is subject to the obligation to notify because it is no longer registered in accordance with Article 5 of the REACH Regulation[^25-2], the manufacturer may continue to place it on the market without notification until the end of the calendar year following that in which its registration status changes. The Notification Authority may extend the period by a maximum of two years in response to a justified request.
 
-[^25-1]: Amended by No I of the O of 11 March 2022, in force since 1 May 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220), [273](https://fedlex.data.admin.ch/eli/oc/2022/273)).
+[^25-1]: Amended by No I of the O of 11 March 2022, in force since 1 May 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220), [273](https://fedlex.data.admin.ch/eli/oc/2022/273)). The correction of 5 May 2022 concerns the French text only ([AS 2022 273](https://fedlex.data.admin.ch/eli/oc/2022/273)).
 [^25-2]: See the footnote to Art. 2 para. 2 let. f.
 
 #### Art. 26
@@ -1716,7 +1716,7 @@ The obligation to pay charges and the calculation of charges for administrative 
 
 [^86-1]: [SR 813.153.1](https://fedlex.data.admin.ch/eli/cc/2005/469)
 
-### Chapter 2 Cantons****
+### Chapter 2 Cantons
 
 [^tit6-chap2-1]
 
@@ -1866,7 +1866,7 @@ The following provisions apply to existing substances for which notification was
 
 This Ordinance comes into force on 1 July 2015.
 
-Annex 1*[^t-1]*
+Annex 1[^t-1]
 
 (Art. 2 para. 4, 5 and 6)
 
@@ -1880,7 +1880,7 @@ The following expressions of the REACH Regulation[^annex1-lvlu1-lvl1-1], the CLP
 
 <table>
 <tr><th>EU</th><th>Switzerland</th></tr>
-<tr><td>*a. German expressions:*</td><td></td></tr>
+<tr><td>a. German expressions:</td><td></td></tr>
 <tr><td>Hersteller, Lieferant, Importeur, nachgeschalteter Anwender</td><td>Herstellerin nach Artikel 2 Absatz 1 Buchstabe b</td></tr>
 <tr><td>Inverkehrbringen</td><td>Inverkehrbringen nach nach Artikel 4 Absatz 1 Buchstabe i ChemG</td></tr>
 <tr><td>Gemisch</td><td>Zubereitung</td></tr>
@@ -1888,7 +1888,7 @@ The following expressions of the REACH Regulation[^annex1-lvlu1-lvl1-1], the CLP
 <tr><td>Zwischenprodukt</td><td>Zwischenprodukt nach Artikel 2 Absatz 2 Buchstabe j</td></tr>
 <tr><td>Verbraucher, Endverbraucher</td><td>private Verwenderin</td></tr>
 <tr><td>Öffentliche Beratungsstelle</td><td>Tox Info Suisse (Art. 79)</td></tr>
-<tr><td>*b. French expressions:*</td><td></td></tr>
+<tr><td>b. French expressions:</td><td></td></tr>
 <tr><td>fabricant, fournisseur, importateur, utilisateur en aval</td><td>fabricant selon l’art. 2, al. 1, let. b</td></tr>
 <tr><td>mise sur le marché</td><td>mise sur le marché selon l’art. 4, al. 1, let. i LChim</td></tr>
 <tr><td>mélange</td><td>préparation</td></tr>
@@ -1896,7 +1896,7 @@ The following expressions of the REACH Regulation[^annex1-lvlu1-lvl1-1], the CLP
 <tr><td>intermédiaire</td><td>produit intermédiaire selon l’art. 2, al. 2, let. j</td></tr>
 <tr><td>consommateur</td><td>utilisateur privé</td></tr>
 <tr><td>organisme consultatif officiel</td><td>Tox Info Suisse (art. 79)</td></tr>
-<tr><td>*c. Italian expressions:*</td><td></td></tr>
+<tr><td>c. Italian expressions:</td><td></td></tr>
 <tr><td>Fabbricante, fornitore, importatore, utilizzatore a valle</td><td>Fabbricante ai sensi dell’articolo 2 capoverso 1 lettera b</td></tr>
 <tr><td>Immissione sul mercato</td><td>Immissione sul mercato ai sensi dell’articolo 4 capoverso 1 lettera i LPChim</td></tr>
 <tr><td>Miscela</td><td>Preparato</td></tr>
@@ -1904,7 +1904,7 @@ The following expressions of the REACH Regulation[^annex1-lvlu1-lvl1-1], the CLP
 <tr><td>Sostanza intermedia</td><td>Prodotto intermedio ai sensi dell’articolo 2 capoverso 2 lettera j</td></tr>
 <tr><td>Consumatore</td><td>Utilizzatore privato</td></tr>
 <tr><td>Organismo di consulenza ufficiale</td><td>Tox Info Suisse (art. 79)</td></tr>
-<tr><td>*d. English expressions:*</td><td></td></tr>
+<tr><td>d. English expressions:</td><td></td></tr>
 <tr><td>Manufacturer, supplier, importer, downstream user</td><td>Manufacturer as defined by Article 2 paragraph 1 letter b</td></tr>
 <tr><td>Placing on the market</td><td>Placing on the market as defined by Article 4 paragraph 1 letter i ChemA</td></tr>
 <tr><td>Mixture</td><td>Preparation</td></tr>
@@ -1969,31 +1969,31 @@ If in this Ordinance reference is made to provisions of the REACH Regulation or 
 [^annex1-lvlu1-lvl3-11]: [SR 814.012](https://fedlex.data.admin.ch/eli/cc/1991/748_748_748)
 [^annex1-lvlu1-lvl3-12]: [SR 941.20](https://fedlex.data.admin.ch/eli/cc/2012/734)
 
-Annex 2*[^t-2]*
+Annex 2[^t-2]
 
 (Art. 2 para. 5, 3, 6 para. 2 and 4, 14 para. 1 let. b, 20 para. 1, 43 para. 1 and 84 let. a)
 
 ## List of applicable technical provisions
 
-[^t-2]: Amended by No I para. 1 of the FOPH O of 1 Nov. 2016 (AS **2016** 4041). Revised by No I of the FOPH O of 5 Feb. 2018 (AS **2018** 707), of 31 Oct. 2018 (AS **2018** 4063), of 23 May 2019 (RU **2019** 1923), 21 Feb. 2020 (AS **2020** 727), Annexe No 1 of the O of 18 Nov. 2020 (AS **2020** 5125), No I of the FOPH O of 19 Nov. 2020, (AS **2020** 5293) and of 4 Aug. 2021, in force since 1 Sept. 2021 (AS **2021** 487).
+[^t-2]: Amended by No I para. 1 of the FOPH O of 1 Nov. 2016 (AS **2016** 4041). Revised by No I of the FOPH O of 5 Feb. 2018 (AS **2018** 707), of 31 Oct. 2018 (AS **2018** 4063), of 23 May 2019 (RU **2019** 1923), 21 Feb. 2020 (AS **2020** 727), Annexe No 1 of the O of 18 Nov. 2020 (AS **2020** 5125), No I of the FOPH O of 19 Nov. 2020 (AS **2020** 5293), of 4 Aug. 2021 (AS **2021** 487) and of 9 Aug. 2022, with effect from 1 Sept. 2022 (AS **2022** 444).
 
 ### 1 Technical provisions for classification, labelling and packaging of substances and preparations
 
 For classification, labelling and packaging of substances and preparations, Annexes I–VII to the CLP Regulation[^annex2-lvlu1-lvl1-1] apply.
 
-[^annex2-lvlu1-lvl1-1]: Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC and amending Regulation (EC) No 1907/2006, OJ L 353 of 31.12.2008, p. 1; last amended by Regulation (EU) 2021/849, OJ L 188 of 28.5.2021, p. 27.
+[^annex2-lvlu1-lvl1-1]: Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC and amending Regulation (EC) No 1907/2006, OJ L 353 of 31.12.2008, p. 1; last amended by Delegated Regulation (EU) 2022/692, OJ L 129 of 3.5.2022, p. 1.
 
 ### 2 Methods for testing the properties of substances and preparations
 
 Tests designed to determine the properties of substances and preparations shall be carried out in accordance with:
 
 - a. the test methods specified in Regulation (EC) No 440/2008[^annex2-lvlu1-lvl2-1];
-- b. the OECD Guidelines for the Testing of Chemicals, in the version dated 26 June 2020[^annex2-lvlu1-lvl2-2]; or
+- b. the OECD Guidelines for the Testing of Chemicals, in the version dated 30 June 2022[^annex2-lvlu1-lvl2-2]; or
 - c. the test methods specified in the UN Manual of Tests and Criteria[^annex2-lvlu1-lvl2-3].
 
 [^annex2-lvlu1-lvl2-1]: Commission Regulation (EC) No 440/2008 of 30 May 2008 laying down test methods pursuant to Regulation (EC) No 1907/2006 of the European Parliament and of the Council on the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), OJ L 142 of 31.5.2008, p. 1; last amended by Regulation (EU) 2019/1390, OJ L 247 of 26.9.2019, p. 1.
-[^annex2-lvlu1-lvl2-2]: The OECD Guidelines for the Testing of Chemicals are available online free of charge at: www.oecd-ilibrary.org/environment/oecd-guidelines-for-the-testing-of-chemicals\_72d77764-en.
-[^annex2-lvlu1-lvl2-3]: The Manual (seventh revised edition 2019) is available free of charge online at: www.unece.org/trans/danger/publi/manual/rev7/manrev7-files\_e.html
+[^annex2-lvlu1-lvl2-2]: The OECD Guidelines for the Testing of Chemicals are available online free of charge at: [www.oecd.org/chemicalsafety/testing/oecdguidelinesforthetestingofchemicals.html](http://www.oecd.org/chemicalsafety/testing/oecdguidelinesforthetestingofchemicals.html).
+[^annex2-lvlu1-lvl2-3]: The Manual (seventh revised edition 2019 and 2021 amendment) is available free of charge online at: [www.unece.org/trans/danger/publi/manual/rev7/manrev7-files\_e.html](http://www.unece.org/trans/danger/publi/manual/rev7/manrev7-files_e.html).
 
 ### 3 Requirements for the Safety Data Sheet
 
@@ -2071,24 +2071,30 @@ Substances that are listed in Regulation (EU) 2021/849[^annex2-lvlu1-lvl12-1] (1
 
 [^annex2-lvlu1-lvl12-1]: Commission Delegated Regulation (EU) 2021/849 of 11 March 2021 amending, for the purposes of its adaptation to technical and scientific progress, Part 3 of Annex VI to Regulation (EC) No 1272/2008 of the European Parliament and of the Council on classification, labelling and packaging of substances and mixtures, OJ L 188 of 28.5.2021, p. 27.
 
-Annex 3*[^t-3]*
+### 13 Transitional provision to the amendment of 9 August 2022
+
+Substances that are listed in Regulation (EU) 2022/692[^annex2-lvlu1-lvl13-1] (18th ATP) and preparations that contain such substances a may be supplied until 30 November 2023 if their classification and labelling do not meet the requirements of the said Regulation.
+
+[^annex2-lvlu1-lvl13-1]: Commission Delegated Regulation (EU) 2022/692 of 16 February 2022 amending, for the purposes of its adaptation to technical and scientific progress, Regulation (EC) No 1272/2008 of the European Parliament and of the Council on classification, labelling and packaging of substances and mixtures, OJ L 129 of 3.5.2022, p. 1.
+
+Annex 3[^t-3]
 
 (Art. 5 para. 2 and 3, 19 let. c and d, 70 para. 1 and 84 let. b)
 
-## List of substances of very high concern (candidate list)****
+## List of substances of very high concern (candidate list)
 
 [^annex3-lvlu1-1]
 
-[^t-3]: Amended by No I of the FOPH O of 23 Dec. 2021, in force since 1 Feb. 2022 ([AS 2021 927](https://fedlex.data.admin.ch/eli/oc/2021/927)).
-[^annex3-lvlu1-1]: The content of the candidate list is not published in the AS. The list may be inspected free of charge at www.anmeldestelle.admin.ch &gt; Topics &gt; Chemicals Legislation and Guidelines &gt; Chemicals Legislation &gt; Chemicals Ordinance. It has been updated to 1 Feb. 2022 and contains 219 substances and substance groups.
+[^t-3]: Amended by No I of the FOPH O of 9 Aug. 2022, in force since 1 Sept. 2022 ([AS 2022 444](https://fedlex.data.admin.ch/eli/oc/2022/444)).
+[^annex3-lvlu1-1]: This Annex is not published in the AS or in the SR. Its content is available free of chanrge at The list may be inspected free of charge at [https://fedlex.data.admin.ch/eli/oc/2022/444](https://fedlex.data.admin.ch/eli/oc/2022/444) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung durch Verweis eines Textteils. The candidate list has been updated to 1 Sept. 2022 and contains 223 substances and substance groups.
 
-Annex 4*[^t-4]*
+Annex 4[^t-4]
 
-(Art. 2 para. 5, 25, 26 para. 2, 27 para. 2 let. b, 47 para. 1 and 84 let. c)
+(Art. 2 para. 5, 26 para. 2, 27 para. 2 let. b, 47 para. 1 and 84 let. c)
 
 ## Technical dossier
 
-[^t-4]: Revised by No II of the O of 11 March 2022, in force since 1 May 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-4]: Revised by No II of the O of 11 March 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)) and No I of the O of 9 Aug. 2022, in force since 1 Sept. 2022 ([AS 2022 444](https://fedlex.data.admin.ch/eli/oc/2022/444)).
 
 ### 1 General provisions
 
@@ -2098,7 +2104,7 @@ Annex 4*[^t-4]*
 
 1.3 In the case of references to Annexes VII–XI of the REACH Regulation[^annex4-lvlu1-lvl1-1], the requirements in relation to nanomaterials and nanoforms need not be complied with.
 
-[^annex4-lvlu1-lvl1-1]: Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC, OJ L 396 of 30.12.2006, p. 1; last amended by Regulation (EU) No 2021/979, OJ L 216 of 18.6.2021, p. 121.
+[^annex4-lvlu1-lvl1-1]: Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC, OJ L 396 of 30.12.2006, p. 1; last amended by Regulation (EU) No 2022/477, OJ L 216 of 23.5.2022, p. 38.
 
 ### 2 General notifier information
 
@@ -2225,7 +2231,7 @@ Certain tests specified in numbers 8–10 may be omitted if, according to the cr
 - b. testing is technically not possible;
 - c. the exposure assessment makes it possible for certain tests to be omitted.
 
-Annex 5*[^t-5]*
+Annex 5[^t-5]
 
 (Art. 61)
 
@@ -2233,7 +2239,7 @@ Annex 5*[^t-5]*
 
 [^t-5]: Revised by No II para. 1 of the O of 31 Jan. 2018 ([AS 2018 801](https://fedlex.data.admin.ch/eli/oc/2018/102)) and No II of the O of 11 March 2022, in force since 1 May 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
-### 1 Substances and preparations labelled in accordance with the CLP Regulation****
+### 1 Substances and preparations labelled in accordance with the CLP Regulation
 
 [^annex5-lvlu1-lvl1-1]
 
@@ -2242,10 +2248,10 @@ Annex 5*[^t-5]*
 ### 1.1 Group 1
 
 <table>
-<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220505/en/xml/image/image1.png) in conjunction with</td><td>H300[^annex5-lvlu1-lvl1-lvl11-1]: Fatal if swallowed, or H310: Fatal in contact with skin, or H330: Fatal if inhaled, or combinations of the above hazard statements</td></tr>
-<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220505/en/xml/image/image2.png)</td><td></td></tr>
+<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220901/en/xml/image/image1.png) in conjunction with</td><td>H300[^annex5-lvlu1-lvl1-lvl11-1]: Fatal if swallowed, or H310: Fatal in contact with skin, or H330: Fatal if inhaled, or combinations of the above hazard statements</td></tr>
+<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220901/en/xml/image/image2.png)</td><td></td></tr>
 <tr><td>c.</td><td colspan="2">Substances and preparations labelled as follows in accordance with Annex 1.10 to the ORRChem[^annex5-lvlu1-lvl1-lvl11-2]:</td></tr>
-<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220505/en/xml/image/image3.png) in conjunction with</td><td>H340: May cause genetic defects, or H350: May (*if inhaled*) cause cancer, or H360: May damage fertility or the unborn child</td></tr>
+<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220901/en/xml/image/image3.png) in conjunction with</td><td>H340: May cause genetic defects, or H350: May (*if inhaled*) cause cancer, or H360: May damage fertility or the unborn child</td></tr>
 </table>
 
 [^annex5-lvlu1-lvl1-lvl11-1]: The number of the hazard statement need not appear in the labelling.
@@ -2254,12 +2260,12 @@ Annex 5*[^t-5]*
 ### 1.2 Group 2
 
 <table>
-<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220505/en/xml/image/image1.png) in conjunction with</td><td>H301: Toxic if swallowed, or H311: Toxic in contact with skin, or H331: Toxic if inhaled, or combinations of the above hazard statements</td></tr>
-<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220505/en/xml/image/image3.png) in conjunction with</td><td>H370: Causes damage to organs, or H372: Causes damage to organs through prolonged or repeated exposure</td></tr>
-<tr><td>c.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220505/en/xml/image/image4.png) in conjunction with</td><td>H314: Causes severe skin burns and eye damage. (Preparations that must be classified as "Skin Corr. 1C" and labelled H314 solely because of their lactic acid content [CAS No 79-33-4] are not deemed to be Group 2 preparations)</td></tr>
+<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220901/en/xml/image/image1.png) in conjunction with</td><td>H301: Toxic if swallowed, or H311: Toxic in contact with skin, or H331: Toxic if inhaled, or combinations of the above hazard statements</td></tr>
+<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220901/en/xml/image/image3.png) in conjunction with</td><td>H370: Causes damage to organs, or H372: Causes damage to organs through prolonged or repeated exposure</td></tr>
+<tr><td>c.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220901/en/xml/image/image4.png) in conjunction with</td><td>H314: Causes severe skin burns and eye damage. (Preparations that must be classified as "Skin Corr. 1C" and labelled H314 solely because of their lactic acid content [CAS No 79-33-4] are not deemed to be Group 2 preparations)</td></tr>
 <tr><td>d.</td><td colspan="2">Containers with a content of more than 1 kg labelled as follows:</td></tr>
-<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220505/en/xml/image/image5.png) in conjunction with</td><td>H410: Very toxic to aquatic life with long lasting effects. (Substances and preparations in Group 2 are those that must be labelled H410, because they are classified as «Aquatic Chronic 1».)</td></tr>
-<tr><td>e.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220505/en/xml/image/image6.png) in conjunction with</td><td>H250: Catches fire spontaneously if exposed to air, or H260: In contact with water releases flammable gases which may ignite spontaneously, or H261: In contact with water releases flammable gases</td></tr>
+<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220901/en/xml/image/image5.png) in conjunction with</td><td>H410: Very toxic to aquatic life with long lasting effects. (Substances and preparations in Group 2 are those that must be labelled H410, because they are classified as «Aquatic Chronic 1».)</td></tr>
+<tr><td>e.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220901/en/xml/image/image6.png) in conjunction with</td><td>H250: Catches fire spontaneously if exposed to air, or H260: In contact with water releases flammable gases which may ignite spontaneously, or H261: In contact with water releases flammable gases</td></tr>
 <tr><td>f.</td><td></td><td>H230: May react explosively even in the absence of air, or H231: May react explosively even in the absence of air at elevated pressure and/or temperature, or EUH019: May form explosive peroxides, or EUH029: Contact with water liberates toxic gas, or EUH031: Contact with acids liberates toxic gas, or EUH032: Contact with acids liberates very toxic gas</td></tr>
 </table>
 
@@ -2268,10 +2274,10 @@ Annex 5*[^t-5]*
 ### 2.1 Group 1
 
 <table>
-<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220505/en/xml/image/image7.png) in conjunction with</td><td>R28[^annex5-lvlu1-lvl2-lvl21-1]: Very toxic if swallowed, or R27: Very toxic in contact with skin, or R26: Very toxic by inhalation, or combinations of the above R phrases</td></tr>
-<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220505/en/xml/image/image8.png)</td><td></td></tr>
+<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220901/en/xml/image/image7.png) in conjunction with</td><td>R28[^annex5-lvlu1-lvl2-lvl21-1]: Very toxic if swallowed, or R27: Very toxic in contact with skin, or R26: Very toxic by inhalation, or combinations of the above R phrases</td></tr>
+<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220901/en/xml/image/image8.png)</td><td></td></tr>
 <tr><td>c.</td><td colspan="2">Substances and preparations labelled as follows in accordance with Annex 1.10 to the ORRChem:</td></tr>
-<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220505/en/xml/image/image7.png) in conjunction with</td><td>R46: May cause heritable genetic damage, or R45: May cause cancer, or R49: May cause cancer by inhalation, or R60: May impair fertility, or R61: May cause harm to the unborn child</td></tr>
+<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220901/en/xml/image/image7.png) in conjunction with</td><td>R46: May cause heritable genetic damage, or R45: May cause cancer, or R49: May cause cancer by inhalation, or R60: May impair fertility, or R61: May cause harm to the unborn child</td></tr>
 </table>
 
 [^annex5-lvlu1-lvl2-lvl21-1]: The number of the R phrase need not appear in the labelling.
@@ -2279,12 +2285,12 @@ Annex 5*[^t-5]*
 ### 2.2 Group 2
 
 <table>
-<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220505/en/xml/image/image7.png) in conjunction with</td><td>R25: Toxic if swallowed, or R24: Toxic in contact with skin, or R23: Toxic by inhalation, or combinations of the above R phrases</td></tr>
-<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220505/en/xml/image/image7.png) in conjunction with</td><td>R39: Danger of very serious irreversible effects, or R48: Danger of serious damage to health by prolonged exposure</td></tr>
-<tr><td>c.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220505/en/xml/image/image9.png) in conjunction with</td><td>R35: Causes severe burns, or R34: Causes burns</td></tr>
+<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220901/en/xml/image/image7.png) in conjunction with</td><td>R25: Toxic if swallowed, or R24: Toxic in contact with skin, or R23: Toxic by inhalation, or combinations of the above R phrases</td></tr>
+<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220901/en/xml/image/image7.png) in conjunction with</td><td>R39: Danger of very serious irreversible effects, or R48: Danger of serious damage to health by prolonged exposure</td></tr>
+<tr><td>c.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220901/en/xml/image/image9.png) in conjunction with</td><td>R35: Causes severe burns, or R34: Causes burns</td></tr>
 <tr><td>d.</td><td colspan="2">Containers with a content of more than 1 kg labelled as follows:</td></tr>
-<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220505/en/xml/image/image10.png) in conjunction with</td><td>R50/53: Very toxic to aquatic organisms, may cause long-term adverse effects in the aquatic environment.</td></tr>
-<tr><td>e.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220505/en/xml/image/image11.png) in conjunction with</td><td>R17: Spontaneously flammable in air, or R15: Contact with water liberates extremely flammable gases</td></tr>
+<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220901/en/xml/image/image10.png) in conjunction with</td><td>R50/53: Very toxic to aquatic organisms, may cause long-term adverse effects in the aquatic environment.</td></tr>
+<tr><td>e.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220901/en/xml/image/image11.png) in conjunction with</td><td>R17: Spontaneously flammable in air, or R15: Contact with water liberates extremely flammable gases</td></tr>
 <tr><td>f.</td><td></td><td>R6: Explosive with or without contact with air, or R19: May form explosive peroxides, or R29: Contact with water liberates toxic gas, or R31: Contact with acids liberates toxic gas, or R32: Contact with acids liberates very toxic gas.</td></tr>
 </table>
 
@@ -2300,13 +2306,19 @@ The following legislation shall be amended as follows:
 
 [^annex6-lvlu1-1]: The amendments may be consulted under [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366).
 
-Annex 7*[^t-6]*
+Annex 7[^t-6]
 
 (Art. 26 para. 1 let. j and 84 let. d)
 
-## List of new substances for which notification is not required****
+## List of new substances for which notification is not required
 
 [^annex7-lvlu1-1]
 
-[^t-6]: Inserted by No III of the O of 11 March 2022, in force since 1 May 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
-[^annex7-lvlu1-1]: The content of the list of new substances not subject to the notification obligation is not published in the AS. The list may be inspected few of charge at www.anmeldestelle.admin.ch &gt; Topics &gt; Chemicals Legislation and Guidelines &gt; Chemicals Legislation &gt; Chemicals Ordinance. The version of 1 May 2022 applies and contains 3 substances.
+[^t-6]: Inserted by No III of the O of 11 March 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)). Amended by No I of the O of 9 Aug. 2022, in force since 1 Sept. 2022 ([AS 2022 444](https://fedlex.data.admin.ch/eli/oc/2022/444)).
+[^annex7-lvlu1-1]: This Annex is not published in the AS or the SR. Its content is available free of charge at [https://fedlex.data.admin.ch/eli/oc/2022/444](https://fedlex.data.admin.ch/eli/oc/2022/444) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung durch Verweis eines Textteils. The list of substances for which no notification is required has been updated to 1 Sept 2022 and contains 0 substances.
+
+### Transitional Provision of 9 August 2022
+
+The substances “Pigment Red 3100 (TKP 50106)”, “Fadex (MU05004) AS PK” and “FSM-004Y”, which were deleted from Annex 7[^annex7-lvlu1-lvlu1-1] by the Amendment of 9 August 2022, may continue to be placed on the market without notification until 31 December 2023.
+
+[^annex7-lvlu1-lvlu1-1]: The content of the list may be inspected free of charge in accordance with the previous law at www.anmeldestelle.admin.ch &gt; Topics &gt; Chemicals Legislation and Guidelines &gt; Chemicals Legislation &gt; Chemicals Ordinance. Until the Amendment of 9 August 2022, the list applies in its version of 1 May 2022 and contains the 3 substances mentioned.
