@@ -4,20 +4,20 @@ title: "Bundesgesetz vom 13. Oktober 1965 über die Verrechnungssteuer (Verrechn
 short: VStG
 eli: "https://fedlex.data.admin.ch/eli/cc/1966/371_385_384"
 language: de
-version: 2022-01-01
+version: 2022-09-01
 adopted: 1965-10-13
 in_force: 1967-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/371_385_384/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1966-371_385_384-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/371_385_384/20220901/de/xml/fedlex-data-admin-ch-eli-cc-1966-371_385_384-20220901-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/20220901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesgesetz über die Verrechnungssteuer
 
-(Verrechnungssteuergesetz, VStG)**[^t-1]**
+(Verrechnungssteuergesetz, VStG)[^t-1]
 
-vom 13. Oktober 1965 (Stand am 1. Januar 2022)
+vom 13. Oktober 1965 (Stand am 1. September 2022)
 
 [^t-1]: Fassung gemäss Ziff. I des BG vom 15. Juni 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 5981](https://fedlex.data.admin.ch/eli/oc/2012/701); [BBl 2011 6615](https://fedlex.data.admin.ch/eli/fga/2011/1054)).
 
@@ -717,7 +717,13 @@ Keine Geheimhaltungspflicht besteht:
 
 <sup>3</sup> Für Meldeverfahren nach Artikel 20*a* Absatz 1 ist die Meldung innert 90 Tagen nach Fälligkeit der steuerbaren Leistung zusammen mit den Belegen und einer Wohnsitzbestätigung der Gewinnerin oder des Gewinners zu erstatten.[^38-1]
 
+<sup>4</sup> …[^38-2]
+
+<sup>5</sup> Inländische natürliche Personen mit Anspruch auf Versicherungsleistungen nach Artikel 7 müssen der nach Artikel 19 meldepflichtigen Person ihre AHV-Nummer bekanntgeben. Fehlt die Selbstauskunft, so werden die Verzugsfolgen aus Gesetz oder Vertrag bei der meldepflichtigen Person bis zum Erhalt der AHV-Nummer aufgeschoben. Artikel 19 Absatz 3 bleibt vorbehalten.[^38-3]
+
 [^38-1]: Fassung gemäss Ziff. I des BG vom 28. Sept. 2018, in Kraft seit 1. Jan. 2019 ([AS 2019 433](https://fedlex.data.admin.ch/eli/oc/2019/76); [BBl 2018 2325](https://fedlex.data.admin.ch/eli/fga/2018/890)).
+[^38-2]: Tritt am 1. Febr. 2023 in Kraft ([AS 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [BBl 2020 4705](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
+[^38-3]: Eingefügt durch Ziff. I 5 des BG vom 18. Juni 2021 über elektronische Verfahren im Steuerbereich, in Kraft seit 1. Sept. 2022 ([AS 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [BBl 2020 4705](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 ### 2. Auskunftspflicht
 
@@ -1212,9 +1218,9 @@ Mit dem Inkrafttreten dieses Gesetzes sind aufgehoben:
 
 <sup>2</sup> Die Artikel 35–40 und 48 des Bundesbeschlusses vom 22. Dezember 1938[^72-4] über die Durchführung der Übergangsordnung des Finanzhaushaltes bleiben anwendbar auf alle während ihrer Gültigkeitsdauer eingetretenen Tatsachen.
 
-[^72-1]: [BS **6** 326; AS **1949** II 1801 Art. 1 Bst. B Ziff. 1 Bst. d, **1950** II 1463 Art. 2 ad Art. 2, **1954** 1314 Art. 2, **1958** 362]
-[^72-2]: [BS **6** 345; AS **1949** II 1801 Art. 1 Bst. B Ziff. 1 Bst. e, **1950** II 1463 Art. 2 ad Art. 2, **1954** 1314 Art. 2]
-[^72-3]: [BS **6** 38 40; AS **1949** II 1801 Art. 1 Bst. A, **1950** II 1463 Art. 2 ad Art. 1, **1954** 1314 Art. 2]
+[^72-1]: [BS **6** 326; AS **1949** II 1801 Art. 1 Bst. B Ziff. 1 Bst. d; **1950** II 1463 Art. 2 ad Art. 2; **1954** 1314 Art. 2; **1958** 362]
+[^72-2]: [BS **6** 345; AS **1949** II 1801 Art. 1 Bst. B Ziff. 1 Bst. e; **1950** II 1463 Art. 2 ad Art. 2; **1954** 1314 Art. 2]
+[^72-3]: [BS **6** 38 40; AS **1949** II 1801 Art. 1 Bst. A; **1950** II 1463 Art. 2 ad Art. 1; **1954** 1314 Art. 2]
 [^72-4]: [BS **6** 38 40; AS **1949** II 1801 Art. 1 Bst. A; **1950** II 1463 Art. 2 ad Art. 1; **1954** 1314 Art. 2]
 
 ### E. Vollzug

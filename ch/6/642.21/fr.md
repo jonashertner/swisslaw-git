@@ -4,20 +4,20 @@ title: "Loi fédérale du 13 octobre 1965 sur l'impôt anticipé (LIA)"
 short: LIA
 eli: "https://fedlex.data.admin.ch/eli/cc/1966/371_385_384"
 language: fr
-version: 2022-01-01
+version: 2022-09-01
 adopted: 1965-10-13
 in_force: 1967-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/371_385_384/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1966-371_385_384-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/371_385_384/20220901/fr/xml/fedlex-data-admin-ch-eli-cc-1966-371_385_384-20220901-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/20220901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Loi fédérale sur l’impôt anticipé
 
-(LIA**[^t-1]**)
+(LIA[^t-1])
 
-du 13 octobre 1965 (Etat le 1<sup>er</sup> janvier 2022)
+du 13 octobre 1965 (Etat le 1<sup>er</sup> septembre 2022)
 
 [^t-1]: Abréviation introduite par le ch. I 4 de la LF du 10 oct. 1997 sur la réforme 1997 de l’imposition des sociétés, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1998 669](https://fedlex.data.admin.ch/eli/oc/1998/669_669_669); [FF 1997 II 1058](https://fedlex.data.admin.ch/eli/fga/1997/2_1164_1058_963)).
 
@@ -717,7 +717,13 @@ L’obligation du secret n’existe pas:
 
 <sup>3</sup> La procédure de déclaration au sens de l’art. 20*a*, al. 1, s’effectue dans les nonante jours qui suivent l’échéance de la prestation imposable et la déclaration doit être accompagnée des pièces justificatives et d’une attestation de domicile du gagnant.[^38-1]
 
+<sup>4</sup> …[^38-2]
+
+<sup>5</sup> Les personnes physiques domiciliées en Suisse qui ont droit à des prestations d’assurances au sens de l’art. 7 doivent communiquer leur numéro AVS à la personne soumise à l’obligation de déclarer au sens de l’art. 19. Si ce numéro n’est pas fourni, les effets légaux ou contractuels de la demeure sont suspendus pour la personne soumise à l’obligation de déclarer jusqu’à ce que cette personne l’ait reçu. L’art. 19, al. 3, est réservé.[^38-3]
+
 [^38-1]: Nouvelle teneur selon le ch. I de la LF du 28 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2019 433](https://fedlex.data.admin.ch/eli/oc/2019/76); [FF 2018 2379](https://fedlex.data.admin.ch/eli/fga/2018/890)).
+[^38-2]: Entre en vigueur le 1<sup>er</sup> fév. 2023 ([RO 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4579](https://fedlex.data.admin.ch/eli/fga/2020/1111))
+[^38-3]: Introduit par le ch. I 5 de la LF du 18 juin 2021 sur les procédures électroniques en matière d’impôts, en vigueur depuis le 1<sup>er</sup> sept. 2022 ([RO 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4579](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 ### 2. Obligation de donner des renseignements
 

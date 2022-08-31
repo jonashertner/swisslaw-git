@@ -4,20 +4,20 @@ title: "Legge federale del 13 ottobre 1965 sull'imposta preventiva (LIP)"
 short: LIP
 eli: "https://fedlex.data.admin.ch/eli/cc/1966/371_385_384"
 language: it
-version: 2022-01-01
+version: 2022-09-01
 adopted: 1965-10-13
 in_force: 1967-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/371_385_384/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1966-371_385_384-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/371_385_384/20220901/it/xml/fedlex-data-admin-ch-eli-cc-1966-371_385_384-20220901-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/20220901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Legge federale sull’imposta preventiva
 
-(LIP)**[^t-1]**
+(LIP)[^t-1]
 
-del 13 ottobre 1965 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 13 ottobre 1965 (Stato 1° settembre 2022)
 
 [^t-1]: Abbreviazione introdotta dal n. I 4 della LF del 10 ott. 1997 sulla riforma 1997 dell’imposizione delle imprese, in vigore dal 1° gen. 1998 ([RU 1998 669](https://fedlex.data.admin.ch/eli/oc/1998/669_669_669); [FF 1997 II 963](https://fedlex.data.admin.ch/eli/fga/1997/2_1164_1058_963)).
 
@@ -667,7 +667,7 @@ I portatori, domiciliati all’estero, di quote di investimenti collettivi di ca
 
 <sup>4</sup> Le organizzazioni alle quali sono affidati compiti disciplinati dal diritto pubblico sono, nei limiti di questi compiti, tenute come le autorità a fornire informazioni. Il capoverso 3 è applicabile per analogia.
 
-[^36-1]: [CS **3** 499; RU **1948** 899 art. 86, [1955 899](https://fedlex.data.admin.ch/eli/oc/1955/871_893_899)art. 118, [1959 921](https://fedlex.data.admin.ch/eli/oc/1959/902_931_921), [1969 755](https://fedlex.data.admin.ch/eli/oc/1969/737_757_755)art. 80 lett. b [784](https://fedlex.data.admin.ch/eli/oc/1969/767_787_784), [1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237)n. II 3 [862](https://fedlex.data.admin.ch/eli/oc/1977/862_862_862)art. 52 n. 2 [1323](https://fedlex.data.admin.ch/eli/oc/1977/1323_1323_1323)n. III, [1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)art. 88 n. 3 [1450](https://fedlex.data.admin.ch/eli/oc/1978/1450_1450_1450), [1979 42](https://fedlex.data.admin.ch/eli/oc/1979/42_42_42), [1980 31](https://fedlex.data.admin.ch/eli/oc/1980/31_31_31)n. IV [1718](https://fedlex.data.admin.ch/eli/oc/1980/1718_1718_1718)art. 52 n. 2 [1819](https://fedlex.data.admin.ch/eli/oc/1980/1819_1819_1819)art. 12 cpv. 1, [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)all. n. 13, [1983 1886](https://fedlex.data.admin.ch/eli/oc/1983/1886_1886_1886)art. 36 n. 1, [1986 926](https://fedlex.data.admin.ch/eli/oc/1986/926_926_926)art. 59 n. 1, [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226)n. II 1 [1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665)n. II, [1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)all. II 1, [1989 504](https://fedlex.data.admin.ch/eli/oc/1989/504_504_504)art. 33 let. a, [1990 938](https://fedlex.data.admin.ch/eli/oc/1990/938_938_938)n. III cpv. 5, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288), [1993 274](https://fedlex.data.admin.ch/eli/oc/1993/274_274_274)art. 75 n. 1 [1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945)all. n. 1, [1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227)all. n. 3 [4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)all. n. 4, [1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508)art. 36 [750](https://fedlex.data.admin.ch/eli/oc/1996/750_750_750)art. 17 [1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445)all. n. 2 [1498](https://fedlex.data.admin.ch/eli/oc/1996/1498_1498_1498)all. n. 2, [1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155)all. n. 6 [2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)all. n. 5, [1998 2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)all. n. 3 [3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)all. n. 2, [1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149)all. n. 1 [3071](https://fedlex.data.admin.ch/eli/oc/1999/472)n. I 2, [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)all. n. 6 [416](https://fedlex.data.admin.ch/eli/oc/2000/92)n. I 2 [505](https://fedlex.data.admin.ch/eli/oc/2000/95)n. I 1 [2355](https://fedlex.data.admin.ch/eli/oc/2000/374)all. n. 1 [2719](https://fedlex.data.admin.ch/eli/oc/2000/453), [2001 114](https://fedlex.data.admin.ch/eli/oc/2001/21)n. I 4 [894](https://fedlex.data.admin.ch/eli/oc/2001/123)art. 40 n. 3 [1029](https://fedlex.data.admin.ch/eli/oc/2001/150)art. 11 cpv. 2, [2002 863](https://fedlex.data.admin.ch/eli/oc/2002/153)art. 35 [1904](https://fedlex.data.admin.ch/eli/oc/2002/283)art. 36 n. 1 [2767](https://fedlex.data.admin.ch/eli/oc/2002/408)n. II [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)all. n. 1, [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)all. n. 7 [3543](https://fedlex.data.admin.ch/eli/oc/2003/510)all. n. II 4 lett. a [4557](https://fedlex.data.admin.ch/eli/oc/2003/674)all. n. II 1, [2004 1985](https://fedlex.data.admin.ch/eli/oc/2004/221)all. n. II 1 [4719](https://fedlex.data.admin.ch/eli/oc/2004/723)all. n. II 1, [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)all. n. 7. [RU 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)art. 131 cpv. 1]. Vedi ora la L del 17 giu. 2005 sul Tribunale federale ([RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)).
+[^36-1]: [CS **3** 499; RU **1948** 899 art. 86; [1955 899](https://fedlex.data.admin.ch/eli/oc/1955/871_893_899)art. 118; [1959 921](https://fedlex.data.admin.ch/eli/oc/1959/902_931_921); [1969 755](https://fedlex.data.admin.ch/eli/oc/1969/737_757_755)art. 80 lett. b, [784](https://fedlex.data.admin.ch/eli/oc/1969/767_787_784); [1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237)n. II 3, [862](https://fedlex.data.admin.ch/eli/oc/1977/862_862_862)art. 52 n. 2, [1323](https://fedlex.data.admin.ch/eli/oc/1977/1323_1323_1323)n. III; [1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)art. 88 n. 3, [1450](https://fedlex.data.admin.ch/eli/oc/1978/1450_1450_1450); [1979 42](https://fedlex.data.admin.ch/eli/oc/1979/42_42_42); [1980 31](https://fedlex.data.admin.ch/eli/oc/1980/31_31_31)n. IV, [1718](https://fedlex.data.admin.ch/eli/oc/1980/1718_1718_1718)art. 52 n. 2, [1819](https://fedlex.data.admin.ch/eli/oc/1980/1819_1819_1819)art. 12 cpv. 1; [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)all. n. 13; [1983 1886](https://fedlex.data.admin.ch/eli/oc/1983/1886_1886_1886)art. 36 n. 1; [1986 926](https://fedlex.data.admin.ch/eli/oc/1986/926_926_926)art. 59 n. 1; [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226)n. II 1, [1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665)n. II; [1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)all. II 1; [1989 504](https://fedlex.data.admin.ch/eli/oc/1989/504_504_504)art. 33 let. a; [1990 938](https://fedlex.data.admin.ch/eli/oc/1990/938_938_938)n. III cpv. 5; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288); [1993 274](https://fedlex.data.admin.ch/eli/oc/1993/274_274_274)art. 75 n. 1, [1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945)all. n. 1; [1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227)all. n. 3, [4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)all. n. 4; [1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508)art. 36, [750](https://fedlex.data.admin.ch/eli/oc/1996/750_750_750)art. 17, [1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445)all. n. 2, [1498](https://fedlex.data.admin.ch/eli/oc/1996/1498_1498_1498)all. n. 2; [1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155)all. n. 6, [2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)all. n. 5; [1998 2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)all. n. 3, [3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)all. n. 2; [1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149)all. n. 1, [3071](https://fedlex.data.admin.ch/eli/oc/1999/472)n. I 2; [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)all. n. 6, [416](https://fedlex.data.admin.ch/eli/oc/2000/92)n. I 2, [505](https://fedlex.data.admin.ch/eli/oc/2000/95)n. I 1, [2355](https://fedlex.data.admin.ch/eli/oc/2000/374)all. n. 1, [2719](https://fedlex.data.admin.ch/eli/oc/2000/453); [2001 114](https://fedlex.data.admin.ch/eli/oc/2001/21)n. I 4, [894](https://fedlex.data.admin.ch/eli/oc/2001/123)art. 40 n. 3, [1029](https://fedlex.data.admin.ch/eli/oc/2001/150)art. 11 cpv. 2; [2002 863](https://fedlex.data.admin.ch/eli/oc/2002/153)art. 35, [1904](https://fedlex.data.admin.ch/eli/oc/2002/283)art. 36 n. 1, [2767](https://fedlex.data.admin.ch/eli/oc/2002/408)n. II, [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)all. n. 1; [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)all. n. 7, [3543](https://fedlex.data.admin.ch/eli/oc/2003/510)all. n. II 4 lett. a, [4557](https://fedlex.data.admin.ch/eli/oc/2003/674)all. n. II 1; [2004 1985](https://fedlex.data.admin.ch/eli/oc/2004/221)all. n. II 1, [4719](https://fedlex.data.admin.ch/eli/oc/2004/723)all. n. II 1; [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)all. n. 7. [RU 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)art. 131 cpv. 1]. Vedi ora la L del 17 giu. 2005 sul Tribunale federale ([RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)).
 
 ### II*a*. Trattamento dei dati
 
@@ -715,7 +715,13 @@ Non vi è obbligo di osservare il segreto d’ufficio:
 
 <sup>3</sup> La notifica nell’ambito della procedura di cui all’articolo 20*a* capoverso 1 va fatta nei 90 giorni successivi alla scadenza della prestazione imponibile allegando i giustificativi e il certificato di domicilio del vincitore.[^38-1]
 
+<sup>4</sup> ...[^38-2]
+
+<sup>5</sup> Le persone fisiche domiciliate in Svizzera che hanno diritto alle prestazioni d’assicurazione di cui all’articolo 7 devono comunicare il loro numero AVS all’assoggettato all’obbligo di notifica secondo l’articolo 19. In mancanza di tale comunicazione, per l’assoggettato all’obbligo di notifica gli effetti legali o contrattuali della mora restano in sospeso fino all’ottenimento del numero AVS. È fatto salvo l’articolo 19 capoverso 3.[^38-3]
+
 [^38-1]: Nuovo testo giusta il n. I della LF del 28 set. 2018, in vigore dal 1° gen. 2019 ([RU 2019 433](https://fedlex.data.admin.ch/eli/oc/2019/76); [FF 2018 1951](https://fedlex.data.admin.ch/eli/fga/2018/890)).
+[^38-2]: In vigore dal 1° feb. 2023 ([RU 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
+[^38-3]: Introdotto dal n. I 5 della LF del 18 giu. 2021 sulle procedure elettroniche in ambito fiscale, in vigore dal 1° set. 2022 ([RU 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 ### 2. Obbligo di fornire informazioni
 
@@ -1040,24 +1046,23 @@ Chiunque, intenzionalmente o per negligenza, al fine di procacciare un profitto 
 
 #### Art. 62
 
-<sup>1</sup>
+<sup>1</sup> è punito, in quanto non si applichi una disposizione penale degli articoli 14 a 16 della legge federale del 22 marzo 1974[^62-1] sul diritto penale amministrativo, con la multa fino a 20 000 franchi.[^62-2]
 
 Chiunque, intenzionalmente o per negligenza, compromette l’applicazione legale dell’imposta preventiva:
 
 - a. non assolvendo, nella procedura di riscossione dell’imposta, l’obbligo di iscriversi come contribuente, di presentare le notifiche, le distinte e i rendiconti, di fornire le informazioni, di presentare i libri di commercio e i documenti giustificativi;
 - b. rilasciando, sia come contribuente, sia in sua vece, un’attestazione inesatta quanto alla deduzione dell’imposta (art. 14 cpv. 2);
 - c. fornendo dati falsi o tacendo fatti rilevanti in una distinta o in un rendiconto, in una notifica o in un affidavit (art. 11), in un’istanza di rimborso, di condono dell’imposta o di esenzione dalla stessa, o presentando a tale occasione documenti inesatti per giustificare fatti rilevanti;
-- d.[^62-1] fornendo informazioni inesatte come contribuente, istante o terza persona tenuta a dare informazioni;
+- d.[^62-3] fornendo informazioni inesatte come contribuente, istante o terza persona tenuta a dare informazioni;
 - e. facendo valere un diritto al rimborso che non gli compete o che gli è già stato soddisfatto;
 - f. contravvenendo all’obbligo di tenere regolarmente e di conservare i libri di commercio, i registri e i documenti giustificativi; oppure;
 - g. rendendo difficile, impedendo o rendendo impossibile la esecuzione normale di una verifica contabile o di altri controlli ufficiali;
-- è punito, in quanto non si applichi una disposizione penale degli articoli 14 a 16 della legge federale del 22 marzo 1974[^62-2] sul diritto penale amministrativo, con la multa fino a 20 000 franchi.[^62-3]
 
 <sup>2</sup> È riservata l’azione penale conformemente all’articolo 285 del Codice penale svizzero[^62-4] quando trattasi di un’infrazione nel senso del capoverso 1 lettera *g*.
 
-[^62-1]: Nuovo testo giusta l’all. n. 10 del DPA, in vigore dal 1° gen. 1975 ([RU 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 727](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
-[^62-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
-[^62-3]: Nuovo testo dell’ultimo comma giusta l’all. n. 10 del DPA, in vigore dal 1° gen. 1975 ([RU 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 727](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
+[^62-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^62-2]: Nuovo testo dell’ultimo comma giusta l’all. n. 10 del DPA, in vigore dal 1° gen. 1975 ([RU 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 727](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
+[^62-3]: Nuovo testo giusta l’all. n. 10 del DPA, in vigore dal 1° gen. 1975 ([RU 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 727](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
 [^62-4]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 ### III. Violazione dell’obbligo di trasferire l’imposta
@@ -1212,10 +1217,10 @@ A contare dall’entrata in vigore della presente legge, sono abrogati:
 
 <sup>2</sup> Gli articoli 35 a 40 e 48 del decreto federale 22 dicembre 1938[^72-4] concernente l’attuazione dell’ordinamento transitorio delle finanze federali restano applicabili a tutti i fatti accaduti durante il periodo di validità di queste disposizioni.
 
-[^72-1]: [CS **6** 334; RU **1949** II 1841 art. 1 lett. B n. 1 lett. d, **1950** II 1473 art. 2 ad art. 2, **1954** 1374 art. 2; CS **1** 3 disp. trans. art. 8 cpv. 1 lett. b, nel testo dell’11 mag. 1958 – [RU 1958 375](https://fedlex.data.admin.ch/eli/oc/1958/362_371_375)]
-[^72-2]: [CS **6** 353; RU **1949** II 1841 art. 1 lett. B n. 1 lett. e, **1950** II 1473 art. 2 ad art. 2, **1954** 1374 art. 2]
-[^72-3]: [CS **6** 39 50; RU **1949** II 1841 art. 1 lett. A, **1950** II 1473 art. 2 ad art. 1, **1954** 1374 art. 2]
-[^72-4]: [CS **6** 39 50; RU **1949** II 1841 art. 1 lett. A, **1950** II 1473 art. 2 ad art. 1, **1954** 1374 art. 2]
+[^72-1]: [CS **6** 334; RU **1949** II 1841 art. 1 lett. B n. 1 lett. d; **1950** II 1473 art. 2 ad art. 2; **1954** 1374 art. 2; CS **1** 3 disp. trans. art. 8 cpv. 1 lett. b, nel testo dell’11 mag. 1958 – [RU 1958 375](https://fedlex.data.admin.ch/eli/oc/1958/362_371_375)]
+[^72-2]: [CS **6** 353; RU **1949** II 1841 art. 1 lett. B n. 1 lett. e; **1950** II 1473 art. 2 ad art. 2; **1954** 1374 art. 2]
+[^72-3]: [CS **6** 39 50; RU **1949** II 1841 art. 1 lett. A; **1950** II 1473 art. 2 ad art. 1; **1954** 1374 art. 2]
+[^72-4]: [CS **6** 39 50; RU **1949** II 1841 art. 1 lett. A; **1950** II 1473 art. 2 ad art. 1; **1954** 1374 art. 2]
 
 ### E. Esecuzione
 
