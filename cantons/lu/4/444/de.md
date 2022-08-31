@@ -3,20 +3,20 @@ canton: LU
 number: "444"
 title: Reglement über die Berufsmaturität
 language: de
-version: 2021-01-01
-valid_until: 2022-08-31
-version_adopted: 2020-08-25
+version: 2022-09-01
+valid_until: 2023-07-31
+version_adopted: 2022-07-05
 adopted: 2013-07-02
 in_force: 2013-08-01
 url: "https://srl.lu.ch/app/de/texts_of_law/444"
-pdf: "https://srl.lu.ch/api/de/versions/3650/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3955/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über die Berufsmaturität
 
-vom 02.07.2013 (Stand 01.01.2021)
+vom 02.07.2013 (Stand 01.09.2022)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -175,11 +175,17 @@ beschliesst:
 
 **Aufnahme in Angebote nach Abschluss der beruflichen Grundbildung**
 
-<sup>1</sup> Die Aufnahme in ein Angebot nach Abschluss der beruflichen Grundbildung setzt das Bestehen einer Aufnahmeprüfung in den Fächern Deutsch, Französisch, Englisch und Mathematik voraus.
+<sup>1</sup> Die Aufnahme in ein Angebot nach Abschluss der beruflichen Grundbildung setzt ein bestandenes Aufnahmeverfahren voraus.
 
-<sup>2</sup> Die Aufnahme in ein Angebot mit der Ausrichtung Wirtschaft und Dienstleistungen setzt ein bestandenes Aufnahmeverfahren voraus. Die Dienststelle Berufs- und Weiterbildung legt die Voraussetzungen für die prüfungsfreie Aufnahme fest. Ist eine Aufnahmeprüfung zu absolvieren, setzt sich diese aus den Fächern Deutsch, Französisch, Englisch, Mathematik, Finanz- und Rechnungswesen sowie Wirtschaft und Recht zusammen.
+<sup>1<sup>bis</sup></sup> Voraussetzung für die Aufnahme ist, unter Vorbehalt der Absätze 2 und 3,
 
-<sup>3</sup> Die Aufnahme in ein Angebot mit der Ausrichtung Gestaltung und Kunst setzt das Bestehen einer Aufnahmeprüfung in den Fächern Deutsch, Französisch, Englisch und Mathematik sowie einer gestalterischen Eignungsprüfung voraus.
+- a. das Erlangen eines eidgenössischen Fähigkeitszeugnisses (EFZ) im letzten Kalenderjahr vor dem Eintritt mit einer Gesamtnote von mindestens 5,0,
+- b. sofern im Zeitpunkt des Aufnahmeentscheids das EFZ noch nicht vorliegt, das Erzielen einer Zulassungsnote von 5,0, die sich analog zum Qualifikationsverfahren aus den Noten der beruflichen Grundbildung bis zum Ende des ersten Semesters des letzten Schuljahres errechnet, oder
+- c. das Bestehen einer Aufnahmeprüfung in den Fächern Deutsch, Französisch, Englisch und Mathematik.
+
+<sup>2</sup> Für die Aufnahme in ein Angebot mit der Ausrichtung Wirtschaft und Dienstleistungen legt die Dienststelle Berufs- und Weiterbildung die Voraussetzungen für die prüfungsfreie Aufnahme fest. Ist eine Aufnahmeprüfung zu absolvieren, setzt sich diese aus den Fächern Deutsch, Französisch, Englisch, Mathematik, Finanz- und Rechnungswesen sowie Wirtschaft und Recht zusammen.
+
+<sup>3</sup> Die Aufnahme in ein Angebot mit der Ausrichtung Gestaltung und Kunst setzt zudem eine bestandene gestalterische Eignungsprüfung voraus.
 
 <sup>4</sup> Die ausserordentliche Aufnahme ist probeweise möglich. Im Übrigen gelten die Voraussetzungen und das Verfahren für die ordentliche Aufnahme sinngemäss.
 
