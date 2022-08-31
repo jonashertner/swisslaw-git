@@ -4,11 +4,11 @@ title: Federal Act of 16 December 2005 on Foreign Nationals (FNA)
 short: FNA
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/758"
 language: en
-version: 2022-06-01
+version: 2022-09-01
 adopted: 2005-12-16
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20220601/en/xml/fedlex-data-admin-ch-eli-cc-2007-758-20220601-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20220601/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20220901/en/xml/fedlex-data-admin-ch-eli-cc-2007-758-20220901-en-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20220901/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -17,9 +17,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20220601/en"
 
 English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.
 
-(Foreign Nationals and Integration Act, FNIA)**[^t-1]**
+(Foreign Nationals and Integration Act, FNIA)[^t-1]
 
-of 16 December 2005 (Status as of 1 June 2022)
+of 16 December 2005 (Status as of 1 September 2022)
 
 [^t-1]: Amended by No I of the FA of 16 Dec. 2016 (Integration), in force since 1 Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
@@ -134,15 +134,19 @@ Foreign nationals who wish to enter Switzerland:
 
 <sup>1</sup> Entry and exit are governed by the Schengen Association Agreements.
 
-<sup>2</sup> The Federal Council regulates possible checks on persons at the border in accordance with these Agreements. If entry is refused, the authority responsible for the border control shall issue a removal order in accordance with Article 64.[^7-2]
+<sup>1bis</sup> The Confederation shall work with the European Union agency responsible for the surveillance of the Schengen external borders. This cooperation shall in particular involve the development of planning instruments for the agency based on Regulation (EU) 2019/1896[^7-2].[^7-3]
 
-<sup>3</sup> If checks at the Swiss border are temporarily reintroduced in accordance with the Schengen Borders Code[^7-3] and entry is refused, the authority responsible for the border controls shall issue a reasoned and appealable decision on a form in accordance with Annex V Part B of the Schengen Borders Code.[^7-4] The refusal of entry may be enforced immediately. An appeal has no suspensive effect.[^7-5]
+<sup>2</sup> The Federal Council regulates possible checks on persons at the border in accordance with these Agreements. If entry is refused, the authority responsible for the border control shall issue a removal order in accordance with Article 64.[^7-4]
+
+<sup>3</sup> If checks at the Swiss border are temporarily reintroduced in accordance with the Schengen Borders Code[^7-5] and entry is refused, the authority responsible for the border controls shall issue a reasoned and appealable decision on a form in accordance with Annex V Part B of the Schengen Borders Code.[^7-6] The refusal of entry may be enforced immediately. An appeal has no suspensive effect.[^7-7]
 
 [^7-1]: Amended by Art. 127 below, in force since 12 Dec. 2008 ([AS 2008 5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 2 let. a).
-[^7-2]: Amended by Art. 2 No 1 of the FD of 18 June 2010 on the Adoption of the EC Directive on the Return of Illegal Immigrants (Directive 2008/115/EC), in force since 1 Jan. 2011 ([AS 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [BBl 2009 8881](https://fedlex.data.admin.ch/eli/fga/2009/1528)).
-[^7-3]: Regulation (EU) 2016/399 of the European Parliament and of the Council of 9 March 2016 establishing a Community Code on the rules governing the movement of persons across borders (Schengen Borders Code), OJ. L 77 of 23.3.2016, p. 1; last amended by Regulation (EU) 2017/2225, OJ. L 327 of 9.12.2017, p. 1.
-[^7-4]: Amended by the Annex to the FD of 21 June 2019 (Adoption of the Legislation for Establishing and Using an Entry and Exit System [EES], Regulations [EU] 2017/2226 and 2017/2225), in force since 1 May 2022 ([AS 2021 732](https://fedlex.data.admin.ch/eli/oc/2021/732); [BBl 2019 175](https://fedlex.data.admin.ch/eli/fga/2019/11)).
-[^7-5]: Inserted by Art. 2 of the FD of 13 June 2008 on the Approval and the Implementation of the Exchange of Notes between Switzerland and the European Community on the Acceptance of the Schengen Borders Code ([AS 2008 5629](https://fedlex.data.admin.ch/eli/oc/2008/779)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 2 let. b). Amended by Annex No 1 of the FD of 15 Dec. 2017 (Adoption of Regulation [EU] 2016/1624 on the European Border and Coast Guard), in force since 15 Sept. 2018 ([AS 2018 3161](https://fedlex.data.admin.ch/eli/oc/2018/507); [BBl 2017 4155](https://fedlex.data.admin.ch/eli/fga/2017/1056)).
+[^7-2]: Regulation (EU) 2019/1896 of the European Parliament and of the Council of 13. November 2019 on the European Border and Coast Guard and repealing Regulations (EU) No 1052/2013 and (EU) No 2016/1624, last amended by OJ L 295 of 14.11.2019, p. 1.
+[^7-3]: Inserted by Annex No 1 of the FD of 1 Oct. 2021 relating to the adoption of Regulation (EU) 2019/1896 on the European Border and Coast Guard, in force since 1 Sept. 2022 ([AS 2022 462](https://fedlex.data.admin.ch/eli/oc/2022/462); [BBl 2020 7105](https://fedlex.data.admin.ch/eli/fga/2020/1902)).
+[^7-4]: Amended by Art. 2 No 1 of the FD of 18 June 2010 on the Adoption of the EC Directive on the Return of Illegal Immigrants (Directive 2008/115/EC), in force since 1 Jan. 2011 ([AS 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [BBl 2009 8881](https://fedlex.data.admin.ch/eli/fga/2009/1528)).
+[^7-5]: Regulation (EU) 2016/399 of the European Parliament and of the Council of 9 March 2016 establishing a Community Code on the rules governing the movement of persons across borders (Schengen Borders Code), OJ. L 77 of 23.3.2016, p. 1; last amended by Regulation (EU) 2017/2225, OJ. L 327 of 9.12.2017, p. 1.
+[^7-6]: Amended by the Annex to the FD of 21 June 2019 (Adoption of the Legislation for Establishing and Using an Entry and Exit System [EES], Regulations [EU] 2017/2226 and 2017/2225), in force since 1 May 2022 ([AS 2021 732](https://fedlex.data.admin.ch/eli/oc/2021/732); [BBl 2019 175](https://fedlex.data.admin.ch/eli/fga/2019/11)).
+[^7-7]: Inserted by Art. 2 of the FD of 13 June 2008 on the Approval and the Implementation of the Exchange of Notes between Switzerland and the European Community on the Acceptance of the Schengen Borders Code ([AS 2008 5629](https://fedlex.data.admin.ch/eli/oc/2008/779)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 2 let. b). Amended by Annex No 1 of the FD of 15 Dec. 2017 (Adoption of Regulation [EU] 2016/1624 on the European Border and Coast Guard), in force since 15 Sept. 2018 ([AS 2018 3161](https://fedlex.data.admin.ch/eli/oc/2018/507); [BBl 2017 4155](https://fedlex.data.admin.ch/eli/fga/2017/1056)).
 
 #### Art. 8
 
@@ -647,7 +651,7 @@ The office entrusted with issuing biometric identity cards and the general contr
 <sup>5</sup> The Federal Council shall specify the additional requirements to be met by the issuing office, general contractors, service providers and suppliers.
 
 [^41b-1]: Inserted by Art. 2 No I of the FD of 18 June 2010 (Development of the Schengen Acquis and Introduction of Biometric Data into Foreign National Identity Cards), in force since 24 Jan. 2011 ([AS 2011 175](https://fedlex.data.admin.ch/eli/oc/2011/25); [BBl 2010 51](https://fedlex.data.admin.ch/eli/fga/2010/6)).
-[^41b-2]: [[AS 2002 377](https://fedlex.data.admin.ch/eli/oc/2002/91), [2005 4571](https://fedlex.data.admin.ch/eli/oc/2005/597), [2006 4177](https://fedlex.data.admin.ch/eli/oc/2006/620)Art. 13 [4705](https://fedlex.data.admin.ch/eli/oc/2006/725)No II 1, [2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)No I 3 [5747](https://fedlex.data.admin.ch/eli/oc/2008/794)Annex No 2, [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)Annex 4 No II 2. [AS 2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155)Art. 31 para. 1]. See now the O of 4 March 2011 ([SR 120.4](https://fedlex.data.admin.ch/eli/cc/2011/155)).
+[^41b-2]: [[AS 2002 377](https://fedlex.data.admin.ch/eli/oc/2002/91); [2005 4571](https://fedlex.data.admin.ch/eli/oc/2005/597); [2006 4177](https://fedlex.data.admin.ch/eli/oc/2006/620)Art. 13, [4705](https://fedlex.data.admin.ch/eli/oc/2006/725)No II 1; [2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)No I 3, [5747](https://fedlex.data.admin.ch/eli/oc/2008/794)Annex No 2; [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)Annex 4 No II 2. [AS 2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155)Art. 31 para. 1]. See now the O of 4 March 2011 ([SR 120.4](https://fedlex.data.admin.ch/eli/cc/2011/155)).
 
 ## Chapter 7 Family Reunification
 
@@ -840,7 +844,7 @@ The provisions of this Chapter on foreign spouses apply *mutatis mutandis* to re
 
 ## Chapter 8 Integration
 
-### Section 1 Encouraging Integration****
+### Section 1 Encouraging Integration
 
 [^chap8-sec1-1]
 
@@ -952,7 +956,7 @@ The cantons shall provide appropriate integration measures for persons with spec
 [^58-1]: Amended by No I of the FA of 16 Dec. 2016 (Integration), in force since 1 Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 [^58-2]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
 
-### Section 2**** Integration Requirements
+### Section 2 Integration Requirements
 
 [^chap8-sec2-1]
 
@@ -987,7 +991,7 @@ When assessing integration, the competent authority shall take the following cri
 
 <sup>4</sup> The competent authorities may issue recommendations to persons to whom Article 2 paragraphs 2 and 3 and Article 42 apply.
 
-## Chapter 9 Travel Documents and Ban on Travel****
+## Chapter 9 Travel Documents and Ban on Travel
 
 [^chap9-1]
 
@@ -1089,7 +1093,7 @@ Return and reintegration assistance includes:
 [^60-2]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
 [^60-3]: Amended by No IV 2 of the FA of 16 Dec. 2005, in force since 1 Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727),[2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 3709](https://fedlex.data.admin.ch/eli/fga/2002/541)).
 
-### Section 2 Expiry and Revocation of Permits and Expiry of Right of Residence****
+### Section 2 Expiry and Revocation of Permits and Expiry of Right of Residence
 
 [^chap10-sec2-1]
 
@@ -1390,7 +1394,7 @@ It[^67-2] may order a ban on entry against foreign nationals who:
 
 [^68a-1]: Inserted by Annex 1 No 1 of the FedD of 18 Dec. 2020 on the Approval and Implementation of the Council of Europe Convention on the Prevention of Terrorism and its Additional Protocol and the Strengthening of Criminal Justice Instruments for combating Terrorism and Organised Crime (SIS), para 3 and 5 in force since 1 July 2021 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 
-### Section 4 Deportation and International Return Interventions****
+### Section 4 Deportation and International Return Interventions
 
 [^chap10-sec4-1]
 
@@ -1434,29 +1438,35 @@ The competent cantonal authority shall deport foreign nationals if:
 
 **Federal support for the implementation authorities**
 
+<sup>1</sup>
+
 The Federal Department of Justice and Police (FDJP) shall support the cantons responsible for enforcing the removal or the expulsion of foreign nationals or the enforcement of an order for expulsion from Switzerland under Article 66*a* or 66*a*<sup>bis</sup> SCC[^71-1] or Article 49*a* or 49*a*<sup>bis</sup> MCC[^71-2], in particular by:[^71-3]
 
 - a. assisting in obtaining travel documents;
 - b. making travel arrangements;
 - c.[^71-4] ensuring cooperation between the cantons concerned and the FDFA.
 
+<sup>2</sup> In fulfilling its tasks under paragraph 1, in particular letters a and b, the FDJP may work with the European Union agency responsible for the surveillance of the Schengen external borders.[^71-5]
+
 [^71-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^71-2]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
 [^71-3]: Amended by Annex No 1 of the FD of 15 Dec. 2017 (Adoption of Regulation [EU] 2016/1624 on the European Border and Coast Guard), in force since 15 Sept. 2018 ([AS 2018 3161](https://fedlex.data.admin.ch/eli/oc/2018/507); [BBl 2017 4155](https://fedlex.data.admin.ch/eli/fga/2017/1056)).
 [^71-4]: Amended by No I of the FA of 20 June 2014 (Violations of the Duty of Care and to Report by Air Carriers, Information Systems), in force since 1 Oct. 2015 ([AS 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [BBl 2013 2561](https://fedlex.data.admin.ch/eli/fga/2013/451)).
+[^71-5]: Inserted by Annex No 1 of the FD of 1 Oct. 2021 relating to the adoption of Regulation (EU) 2019/1896 on the European Border and Coast Guard, in force since 1 Sept. 2022 ([AS 2022 462](https://fedlex.data.admin.ch/eli/oc/2022/462); [BBl 2020 7105](https://fedlex.data.admin.ch/eli/fga/2020/1902)).
 
 #### Art. 71a
 
 **International return interventions**[^71a-1]
 
-<sup>1</sup> SEM and the cantons shall work together in the case of international return interventions on the basis of Regulation (EU) 2016/1624[^71a-2].
+<sup>1</sup> SEM and the cantons shall work together in the case of international return interventions on the basis of Regulation (EU) 2019/1896[^71a-2]; they shall provide the required personnel. The Confederation shall make compensatory payments to the cantons for these interventions. The Federal Council shall regulate the amount and modalities of these compensatory payments.[^71a-3]
 
 <sup>2</sup> The FDJP may enter into agreements with the competent European Union agency for the surveillance of the Schengen external borders relating to the deployment of personnel from SEM and the cantons in connection with international return interventions and the deployment of third parties to monitor returns.
 
 <sup>3</sup> The FDJP shall enter into an agreement with the cantons on the modalities of the deployment of personnel.
 
 [^71a-1]: Inserted by Art. 2 No 1 of the FD of 18 June 2010 on the Adoption of the EC-Return Directive (Directive 2008/115/EG) ([AS 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [BBl 2009 8881](https://fedlex.data.admin.ch/eli/fga/2009/1528)). Amended by Annex No 1 of the FD of 15 Dec. 2017 (Adoption of Regulation [EU] 2016/1624 on the European Border and Coast Guard), in force since 15 Sept. 2018 ([AS 2018 3161](https://fedlex.data.admin.ch/eli/oc/2018/507); [BBl 2017 4155](https://fedlex.data.admin.ch/eli/fga/2017/1056)).
-[^71a-2]: Regulation (EU) 2016/1624 of the European Parliament and of the Council of 14 September 2016 on the European Border and Coast Guard and amending Regulation (EU) 2016/399 of the European Parliament and of the Council and repealing Regulation (EC) No 863/2007 of the European Parliament and of the Council, Council Regulation (EC) No 2007/2004 and Council Decision 2005/267/EC, Amended by OJ. L 251 of 16.9.2016, p.1.
+[^71a-2]: See footnote to Art. 7 para. 1<sup>bis</sup>.
+[^71a-3]: Amended by Annex No 1 of the FD of 1 Oct. 2021 relating to the adoption of Regulation (EU) 2019/1896 on the European Border and Coast Guard, in force since 1 Sept. 2022 ([AS 2022 462](https://fedlex.data.admin.ch/eli/oc/2022/462); [BBl 2020 7105](https://fedlex.data.admin.ch/eli/fga/2020/1902)).
 
 #### Art. 71a<sup>bis</sup>
 
@@ -2087,7 +2097,7 @@ Foreign nationals and third parties involved in proceedings under this Act are o
 
 <sup>2</sup> Any person who obtains a cross-border service must inspect the identity card of the person providing the service or check with the competent authorities to ascertain that this person is entitled to work in Switzerland.
 
-### Section 2 Obligations of Carriers****
+### Section 2 Obligations of Carriers
 
 [^chap12-sec2-1]
 
@@ -2162,7 +2172,7 @@ The Federal Council may make other commercial carriers subject to Articles 92–
 [^95-1]: Amended by No I of the FA of 20 June 2014 (Violations of the Duty of Care and to Report by Air Carriers, Information Systems), in force since 1 Oct. 2015 ([AS 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [BBl 2013 2561](https://fedlex.data.admin.ch/eli/fga/2013/451)).
 [^95-2]: Convention of 19 June 1990 implementing the Schengen Agreement of 14 June 1985 between the Governments of the States of the Benelux Economic Union, the Federal Republic of Germany and the French Republic on the gradual abolition of checks at their common borders, OJ. L 239 of 22.9.2000, p. 19.
 
-### Section 3**** Obligations of Airport Operators
+### Section 3 Obligations of Airport Operators
 
 [^chap12-sec3-1]
 
@@ -2343,13 +2353,13 @@ The Federal Council may conclude agreements with foreign states or international
 [^100b-1]: Inserted by No I of the FA of 16 Dec. 2016 (Integration), in force since 1 Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 [^100b-2]: The name was amended on 1 Jan. 2016 pursuant to Art. 20 para. 2 of the Publications Ordinance of 7 Oct. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)).
 
-## Chapter 14 Data Processing and Data Protection****
+## Chapter 14 Data Processing and Data Protection
 
 [^chap14-1]
 
 [^chap14-1]: Amended by No I of the FA of 14 Dec. 2018 (Procedural Regulations and Information Systems), in force since 1 June 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 
-### Section 1 General****
+### Section 1 General
 
 [^chap14-sec1-1]
 
@@ -2411,7 +2421,7 @@ The following authorities are authorised to read the data stored on the chip in 
 
 [^102b-1]: Inserted by Art. 2 No I of the FD of 18 June 2010 (Development of the Schengen Acquis and Introduction of Biometric Data into Foreign National Identity Cards), in force since 24 Jan. 2011 ([AS 2011 175](https://fedlex.data.admin.ch/eli/oc/2011/25); [BBl 2010 51](https://fedlex.data.admin.ch/eli/fga/2010/6)).
 
-### Section 2 Passenger Data, Monitoring and Controls at Airports and Air Carriers' Duty to provide Data****
+### Section 2 Passenger Data, Monitoring and Controls at Airports and Air Carriers' Duty to provide Data
 
 [^chap14-sec2-1]
 
@@ -2689,7 +2699,7 @@ The passenger lists must contain the following data:
 
 [^104c-1]: Originally Art. 104*b*. Inserted by No I of the FA of 20 June 2014 (Violations of the Duty of Care and to Report by Air Carriers, Information Systems), in force since 1 Oct. 2015 ([AS 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [BBl 2013 2561](https://fedlex.data.admin.ch/eli/fga/2013/451)).
 
-### Section 3 Disclosure of Personal Data Abroad****
+### Section 3 Disclosure of Personal Data Abroad
 
 [^chap14-sec3-1]
 
@@ -2763,13 +2773,13 @@ For the purpose of the transit of members of third countries, the following data
 
 [^108109-1]: See Art. 126 para. 6 below.
 
-## Chapter 14*a* Information Systems****
+## Chapter 14*a* Information Systems
 
 [^chap14a-1]
 
 [^chap14a-1]: Inserted by No I of the FA of 14 Dec. 2018 (Procedural Regulations and Information Systems), in force since 1 June 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 
-### Section 1 Central Visa information System and National Visa System****
+### Section 1 Central Visa information System and National Visa System
 
 [^chap14a-sec1-1]
 
@@ -2893,7 +2903,7 @@ The Federal Council shall regulate:
 
 [^109e-1]: Inserted by Art. 2 No 1 of the FD of 11 Dec. 2009 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU on the Adoption of the Regulation and Decision concerning the Visa Information System (VIS), in force since 11 Oct. 2011 ([AS 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272), [2014 1](https://fedlex.data.admin.ch/eli/oc/2014/1); [BBl 2009 4245](https://fedlex.data.admin.ch/eli/fga/2009/761)).
 
-### Section 2**** Information System for Return Procedures
+### Section 2 Information System for Return Procedures
 
 [^chap14a-sec2-1]
 
@@ -2911,10 +2921,13 @@ The information system assists with:
 
 - a. the processing of personal data pertaining to foreign nationals in connection with the enforcement of removal, expulsion or judicial expulsion orders, voluntary return or return assistance or counselling, including the processing of sensitive personal data;
 - b. the administration and supervision of the various phases of the removal, expulsion or judicial expulsion process and the tasks related to return, including return assistance and counselling and the financial payments associated with return;
-- c. the production of statistics.
+- c. the production of statistics;
+- d.[^109f-3] the transmission of statistics and of personal data in accordance with Article 105 paragraph 2 to the European Union agency responsible for the surveillance of the Schengen external borders based on Regulation (EU) 2019/1896[^109f-4].
 
 [^109f-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^109f-2]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^109f-3]: Inserted by Annex No 1 of the FD of 1 Oct. 2021 relating to the adoption of Regulation (EU) 2019/1896 on the European Border and Coast Guard, in force since 1 Sept. 2022 ([AS 2022 462](https://fedlex.data.admin.ch/eli/oc/2022/462); [BBl 2020 7105](https://fedlex.data.admin.ch/eli/fga/2020/1902)).
+[^109f-4]: See footnote to Art. 7 para. 1<sup>bis</sup>.
 
 #### Art. 109g
 
@@ -3008,7 +3021,7 @@ The Federal Council shall regulate:
 - c. the technical and organisational aspects of measures to prevent unauthorised processing;
 - d. the retention period for and the destruction of the data.
 
-### Section 3 Personal File and Documentation System****
+### Section 3 Personal File and Documentation System
 
 [^chap14a-sec3-1]
 
@@ -3064,7 +3077,7 @@ SEM may make the data that it has collected in accordance with paragraph 2 acces
 [^111-6]: Inserted by No I 1 of the FA of 18 June 2010 on the amendment of provisions on the recording of data in relation to migration, in force since 24 Jan. 2011 ([AS 2011 95](https://fedlex.data.admin.ch/eli/oc/2011/17); [BBl 2010 51](https://fedlex.data.admin.ch/eli/fga/2010/6)).
 [^111-7]: Inserted by No I 1 of the FA of 18 June 2010 on the amendment of provisions on the recording of data in relation to migration, in force since 24 Jan. 2011 ([AS 2011 95](https://fedlex.data.admin.ch/eli/oc/2011/17); [BBl 2010 51](https://fedlex.data.admin.ch/eli/fga/2010/6)).
 
-## Chapter 14*b***** Data Protection under the Schengen Association Agreement
+## Chapter 14*b* Data Protection under the Schengen Association Agreement
 
 [^chap14b-1]
 
@@ -3072,9 +3085,15 @@ SEM may make the data that it has collected in accordance with paragraph 2 acces
 
 #### Art. 111a
 
-**Disclosure of personal data to the member states of the Schengen Association Agreement**
+**Disclosure of personal data[^111a-1]**
 
-The disclosure of personal data to the competent authorities of states that are bound by one of the Schengen Association Agreements is regarded as equivalent to the disclosure of personal data between federal bodies.
+<sup>1</sup> The disclosure of personal data to the competent authorities of states that are bound by one of the Schengen Association Agreements is regarded as equivalent to the disclosure of personal data between federal bodies.
+
+<sup>2</sup> SEM shall transmit personal data in accordance with Article 105 paragraph 2 to the European Union agency responsible for the surveillance of the Schengen external borders, provided these data are required to fulfil the tasks specified in Article 87 paragraph 1 letter b of Regulation (EU) 2019/1896[^111a-2]. This form of disclosure is regarded as equivalent to the disclosure of personal data between federal bodies.[^111a-3]
+
+[^111a-1]: Amended by Annex No 1 of the FD of 1 Oct. 2021 relating to the adoption of Regulation (EU) 2019/1896 on the European Border and Coast Guard, in force since 1 Sept. 2022 ([AS 2022 462](https://fedlex.data.admin.ch/eli/oc/2022/462); [BBl 2020 7105](https://fedlex.data.admin.ch/eli/fga/2020/1902)).
+[^111a-2]: See footnote to Art. 7 para. 1<sup>bis</sup>.
+[^111a-3]: Inserted by Annex No 1 of the FD of 1 Oct. 2021 relating to the adoption of Regulation (EU) 2019/1896 on the European Border and Coast Guard, in force since 1 Sept. 2022 ([AS 2022 462](https://fedlex.data.admin.ch/eli/oc/2022/462); [BBl 2020 7105](https://fedlex.data.admin.ch/eli/fga/2020/1902)).
 
 #### Art. 111b
 
@@ -3155,7 +3174,7 @@ The right to information is governed by the federal or cantonal data protection 
 
 [^111g111h-1]: Repealed by No 1 of the FA of 19 March 2010 on the Implementation of Framework Decision 2008/977/JHA on the protection of personal data processed in the framework of police and judicial cooperation in criminal matters, with effect from 1 Dec. 2010 ([AS 2010 3387](https://fedlex.data.admin.ch/eli/oc/2010/464)3418; [BBl 2009 6749](https://fedlex.data.admin.ch/eli/fga/2009/1207)).
 
-## Chapter 14*c***** Eurodac
+## Chapter 14*c* Eurodac
 
 [^chap14c-1]
 
@@ -3224,7 +3243,7 @@ The data transmitted in accordance with paragraphs 1 and 2 shall be stored by th
 
 ## Chapter 16 Criminal Provisions and Administrative Penalties
 
-### Section 1 Criminal Provisions****
+### Section 1 Criminal Provisions
 
 [^chap16-sec1-1]
 
@@ -3387,7 +3406,7 @@ The penalty shall be a fine for any person who:
 [^120e-1]: Inserted by Art. 2 No 1 of the FD of 11 Dec. 2009 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU on the Adoption of the Regulation and Decision concerning the Visa Information System (VIS), in force since 11 Oct. 2011 ([AS 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272), [2011 4449](https://fedlex.data.admin.ch/eli/oc/2011/609); [BBl 2009 4245](https://fedlex.data.admin.ch/eli/fga/2009/761)).
 [^120e-2]: Repealed by No I of the FA of 20 June 2014 (Violations of the Duty of Care and to Report by Air Carriers, Information Systems), with effect from 1 Oct. 2015 ([AS 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [BBl 2013 2561](https://fedlex.data.admin.ch/eli/fga/2013/451)).
 
-### Section 2 Administrative Penalties****
+### Section 2 Administrative Penalties
 
 [^chap16-sec2-1]
 
@@ -3599,7 +3618,7 @@ Commencement date: 1 January 2008[^128-1] Articles 92–95, and 127: 12 December
 [^128-1]: FCD of 24 Oct. 2007
 [^128-2]: Art. 2 let. a of the O of 26 Nov. 2008 ([AS 2008 5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 2 let. a).
 
-## Transitional Provision to the Amendment of 14 December 2012****
+## Transitional Provision to the Amendment of 14 December 2012
 
 [^u1-1]
 
@@ -3611,7 +3630,7 @@ Commencement date: 1 January 2008[^128-1] Articles 92–95, and 127: 12 December
 
 <sup>3</sup> Airport operators are responsible for making accommodation at the airport in accordance with Article 95*a* available within two years of the Amendment of 14 December 2012 to this Act coming into force.
 
-Annex 1*[^t-2]*
+Annex 1[^t-2]
 
 (Art. 2 para. 4 and 64*a* para. 4)
 
@@ -3647,7 +3666,7 @@ The Dublin Association Agreements comprise:
 [^annex1-lvl2-3]: [SR 0.142.393.141](https://fedlex.data.admin.ch/eli/cc/2008/777)
 [^annex1-lvl2-4]: [SR 0.142.395.141](https://fedlex.data.admin.ch/eli/cc/2011/195)
 
-Annex 2*[^t-3]*
+Annex 2[^t-3]
 
 (Art. 125)
 

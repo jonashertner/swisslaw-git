@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 16. Dezember 2005 über die Ausländerinnen und Auslän
 short: AIG
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/758"
 language: de
-version: 2022-06-01
+version: 2022-09-01
 adopted: 2005-12-16
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20220601/de/xml/fedlex-data-admin-ch-eli-cc-2007-758-20220601-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20220601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20220901/de/xml/fedlex-data-admin-ch-eli-cc-2007-758-20220901-de-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20220901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20220601/de"
 
 (Ausländer- und Integrationsgesetz, AIG)[^t-1]
 
-vom 16. Dezember 2005 (Stand am 1. Juni 2022)
+vom 16. Dezember 2005 (Stand am 1. September 2022)
 
 [^t-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2016 (Integration), in Kraft seit 1. Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
@@ -132,15 +132,19 @@ Ausländerinnen und Ausländer, die in die Schweiz einreisen wollen:
 
 <sup>1</sup> Die Ein- und Ausreise richtet sich nach den Schengen-Assoziierungsabkommen.
 
-<sup>2</sup> Der Bundesrat regelt die nach diesen Abkommen möglichen Personenkontrollen an der Grenze. Wird die Einreise verweigert, so erlässt die für die Grenzkontrolle zuständige Behörde eine Wegweisungsverfügung nach Artikel 64.[^7-2]
+<sup>1bis</sup> Der Bund arbeitet mit der für die Überwachung der Schengen-Aussengrenzen zuständigen Agentur der Europäischen Union zusammen. Diese Zusammenarbeit beinhaltet namentlich die Erarbeitung von Planungsinstrumenten gestützt auf die Verordnung (EU) 2019/1896[^7-2] zuhanden der Agentur.[^7-3]
 
-<sup>3</sup> Wenn die Kontrollen an der Schweizer Grenze gemäss Schengener Grenzkodex[^7-3] vorübergehend wieder eingeführt werden und die Einreise verweigert wird, erlässt die für die Grenzkontrolle zuständige Behörde eine begründete und beschwerdefähige Verfügung auf dem Formular nach Anhang V Teil B Schengener Grenzkodex.[^7-4] Die Einreiseverweigerung ist sofort vollstreckbar. Eine Beschwerde hat keine aufschiebende Wirkung.[^7-5]
+<sup>2</sup> Der Bundesrat regelt die nach diesen Abkommen möglichen Personenkontrollen an der Grenze. Wird die Einreise verweigert, so erlässt die für die Grenzkontrolle zuständige Behörde eine Wegweisungsverfügung nach Artikel 64.[^7-4]
+
+<sup>3</sup> Wenn die Kontrollen an der Schweizer Grenze gemäss Schengener Grenzkodex[^7-5] vorübergehend wieder eingeführt werden und die Einreise verweigert wird, erlässt die für die Grenzkontrolle zuständige Behörde eine begründete und beschwerdefähige Verfügung auf dem Formular nach Anhang V Teil B Schengener Grenzkodex.[^7-6] Die Einreiseverweigerung ist sofort vollstreckbar. Eine Beschwerde hat keine aufschiebende Wirkung.[^7-7]
 
 [^7-1]: Fassung gemäss Art. 127 hiernach, in Kraft seit 12. Dez. 2008 ([AS 2008 5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 2 Bst. a).
-[^7-2]: Fassung gemäss Art. 2 Ziff. 1 des BB vom 18. Juni 2010 betreffend die Übernahme der EG-Rückführungsrichtlinie (Richtlinie 2008/115/EG), in Kraft seit 1. Jan. 2011 ([AS 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [BBl 2009 8881](https://fedlex.data.admin.ch/eli/fga/2009/1528)).
-[^7-3]: Verordnung (EU) 2016/399 des Europäischen Parlaments und des Rates vom 9. März 2016 über einen Gemeinschaftskodex für das Überschreiten der Grenzen durch Personen (Schengener Grenzkodex), ABl. L 77 vom 23.3.2016, S. 1; zuletzt geändert durch Verordnung (EU) 2017/2225, ABl. L 327 vom 9.12.2017, S. 1.
-[^7-4]: Fassung gemäss Anhang des BB vom 21. Juni 2019 (Übernahme der Rechtsgrundlagen zur Errichtung und Nutzung des Einreise- und Ausreisesystems [EES], Verordnungen [EU] 2017/2226 und 2017/2225), in Kraft seit 1. Mai 2022 ([AS 2021 732](https://fedlex.data.admin.ch/eli/oc/2021/732); [BBl 2019 175](https://fedlex.data.admin.ch/eli/fga/2019/11)).
-[^7-5]: Eingefügt durch Art. 2 des BB vom 13. Juni 2008 über die Genehmigung und die Umsetzung des Notenaustauschs zwischen der Schweiz und der Europäischen Gemeinschaft betreffend die Übernahme des Schengener Grenzkodex ([AS 2008 5629](https://fedlex.data.admin.ch/eli/oc/2008/779)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 2 Bst. b). Fassung gemäss Anhang Ziff. 1 des BB vom 15. Dez. 2017 (Übernahme der Verordnung [EU] 2016/1624 über die Europäische Grenz- und Küstenwache), in Kraft seit 15. Sept. 2018 ([AS 2018 3161](https://fedlex.data.admin.ch/eli/oc/2018/507); [BBl 2017 4155](https://fedlex.data.admin.ch/eli/fga/2017/1056)).
+[^7-2]: Verordnung (EU) 2019/1896 des Europäischen Parlaments und des Rates vom 13. November 2019 über die Europäische Grenz- und Küstenwache und zur Aufhebung der Verordnungen (EU) Nr. 1052/2013 und (EU) 2016/1624, Fassung gemäss ABl. L 295 vom 14.11.2019, S. 1.
+[^7-3]: Eingefügt durch Anhang Ziff. 1 des BB vom 1. Okt. 2021 betreffend die Übernahme der Verordnung (EU) 2019/1896 über die Europäische Grenz- und Küstenwache, in Kraft seit 1. Sept. 2022 ([AS 2022 462](https://fedlex.data.admin.ch/eli/oc/2022/462); [BBl 2020 7105](https://fedlex.data.admin.ch/eli/fga/2020/1902)).
+[^7-4]: Fassung gemäss Art. 2 Ziff. 1 des BB vom 18. Juni 2010 betreffend die Übernahme der EG-Rückführungsrichtlinie (Richtlinie 2008/115/EG), in Kraft seit 1. Jan. 2011 ([AS 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [BBl 2009 8881](https://fedlex.data.admin.ch/eli/fga/2009/1528)).
+[^7-5]: Verordnung (EU) 2016/399 des Europäischen Parlaments und des Rates vom 9. März 2016 über einen Gemeinschaftskodex für das Überschreiten der Grenzen durch Personen (Schengener Grenzkodex), ABl. L 77 vom 23.3.2016, S. 1; zuletzt geändert durch Verordnung (EU) 2017/2225, ABl. L 327 vom 9.12.2017, S. 1.
+[^7-6]: Fassung gemäss Anhang des BB vom 21. Juni 2019 (Übernahme der Rechtsgrundlagen zur Errichtung und Nutzung des Einreise- und Ausreisesystems [EES], Verordnungen [EU] 2017/2226 und 2017/2225), in Kraft seit 1. Mai 2022 ([AS 2021 732](https://fedlex.data.admin.ch/eli/oc/2021/732); [BBl 2019 175](https://fedlex.data.admin.ch/eli/fga/2019/11)).
+[^7-7]: Eingefügt durch Art. 2 des BB vom 13. Juni 2008 über die Genehmigung und die Umsetzung des Notenaustauschs zwischen der Schweiz und der Europäischen Gemeinschaft betreffend die Übernahme des Schengener Grenzkodex ([AS 2008 5629](https://fedlex.data.admin.ch/eli/oc/2008/779)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 2 Bst. b). Fassung gemäss Anhang Ziff. 1 des BB vom 15. Dez. 2017 (Übernahme der Verordnung [EU] 2016/1624 über die Europäische Grenz- und Küstenwache), in Kraft seit 15. Sept. 2018 ([AS 2018 3161](https://fedlex.data.admin.ch/eli/oc/2018/507); [BBl 2017 4155](https://fedlex.data.admin.ch/eli/fga/2017/1056)).
 
 #### Art. 8
 
@@ -1128,7 +1132,7 @@ Eine Bewilligung erlischt:
 
 <sup>3</sup> Im Zeitraum von der Beendigung des Arbeitsverhältnisses bis zum Erlöschen des Aufenthaltsrechts nach den Absätzen 1 und 2 besteht kein Anspruch auf Sozialhilfe.
 
-<sup>4</sup> Bei unfreiwilliger Beendigung des Arbeitsverhältnisses nach den ersten zwölf Monaten des Aufenthalts erlischt das Aufenthaltsrecht von Staatsangehörigen der Mitgliedstaaten der EU und der EFTA mit einer Aufenthaltsbewilligung sechs Monate nach der Beendigung des Arbeitsverhältnisses. Wird nach Ablauf der sechs Monate weiterhin Arbeitslosentschädigung ausbezahlt, so erlischt das Aufenthaltsrecht sechs Monate nach dem Ende der Entschädigung.
+<sup>4</sup> Bei unfreiwilliger Beendigung des Arbeitsverhältnisses nach den ersten zwölf Monaten des Aufenthalts erlischt das Aufenthaltsrecht von Staatsangehörigen der Mitgliedstaaten der EU und der EFTA mit einer Aufenthaltsbewilligung sechs Monate nach der Beendigung des Arbeitsverhältnisses. Wird nach Ablauf der sechs Monate weiterhin Arbeitslosenentschädigung ausbezahlt, so erlischt das Aufenthaltsrecht sechs Monate nach dem Ende der Entschädigung.
 
 <sup>5</sup> Die Absätze 1–4 gelten nicht bei Beendigung des Arbeitsverhältnisses aufgrund vorübergehender Arbeitsunfähigkeit infolge Krankheit, Unfall oder Invalidität sowie für Personen, die sich auf ein Verbleiberecht nach dem Abkommen vom 21. Juni 1999[^61a-2] zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft und ihren Mitgliedstaaten andererseits über die Freizügigkeit (FZA) oder dem Übereinkommen vom 4. Januar 1960[^61a-3] zur Errichtung der Europäischen Freihandelsassoziation (EFTA-Übereinkommen) berufen können.
 
@@ -1435,29 +1439,35 @@ Die zuständige kantonale Behörde schafft Ausländerinnen und Ausländer aus, w
 
 **Unterstützung der Vollzugsbehörden durch den Bund**
 
+<sup>1</sup>
+
 Das Eidgenössische Justiz- und Polizeidepartement (EJPD) unterstützt die mit dem Vollzug der Weg- oder Ausweisung oder der Landesverweisung nach Artikel 66*a* oder 66*a*<sup>bis</sup> StGB[^71-1] oder Artikel 49*a* oder 49*a*<sup>bis</sup> MStG[^71-2] von Ausländerinnen und Ausländern betrauten Kantone, indem es insbesondere:[^71-3]
 
 - a. bei der Beschaffung von Reisedokumenten mitwirkt;
 - b. die Reise organisiert;
 - c.[^71-4] die Zusammenarbeit zwischen den betroffenen Kantonen und dem EDA sicherstellt.
 
+<sup>2</sup> Das EJPD kann bei der Erfüllung der Aufgaben nach Absatz 1, insbesondere Buchstaben a und b, mit der für die Überwachung der Schengen-Aussengrenzen zuständigen Europäischen Agentur zusammenarbeiten.[^71-5]
+
 [^71-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^71-2]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
 [^71-3]: Fassung gemäss Anhang Ziff. 1 des BB vom 15. Dez. 2017 (Übernahme der Verordnung [EU] 2016/1624 über die Europäische Grenz- und Küstenwache), in Kraft seit 15. Sept. 2018 ([AS 2018 3161](https://fedlex.data.admin.ch/eli/oc/2018/507); [BBl 2017 4155](https://fedlex.data.admin.ch/eli/fga/2017/1056)).
 [^71-4]: Fassung gemäss Ziff. I des BG vom 20. Juni 2014 (Sorgfalts- und Meldepflichtverletzungen durch Luftverkehrsunternehmen, Informationssysteme), in Kraft seit 1. Okt. 2015 ([AS 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [BBl 2013 2561](https://fedlex.data.admin.ch/eli/fga/2013/451)).
+[^71-5]: Eingefügt durch Anhang Ziff. 1 des BB vom 1. Okt. 2021 betreffend die Übernahme der Verordnung (EU) 2019/1896 über die Europäische Grenz- und Küstenwache, in Kraft seit 1. Sept. 2022 ([AS 2022 462](https://fedlex.data.admin.ch/eli/oc/2022/462); [BBl 2020 7105](https://fedlex.data.admin.ch/eli/fga/2020/1902)).
 
 #### Art. 71a
 
 **Internationale Rückführungseinsätze**[^71a-1]
 
-<sup>1</sup> Das SEM und die Kantone wirken gestützt auf die Verordnung (EU) 2016/1624[^71a-2] bei internationalen Rückführungseinsätzen mit.
+<sup>1</sup> Das SEM und die Kantone wirken gestützt auf die Verordnung (EU) 2019/1896[^71a-2] bei internationalen Rückführungseinsätzen mit; sie stellen das notwendige Personal zur Verfügung. Der Bund gewährt den Kantonen Abgeltungen für diese Einsätze. Der Bundesrat regelt die Höhe und die Modalitäten der Abgeltungen.[^71a-3]
 
 <sup>2</sup> Das EJPD kann mit der für die Überwachung der Schengen-Aussengrenzen zuständigen Agentur der Europäischen Union Vereinbarungen über den Einsatz von Personal des SEM und der Kantone für internationale Rückführungseinsätze sowie über den Einsatz von Dritten für die Überwachung der Rückführungen abschliessen.
 
 <sup>3</sup> Das EJPD schliesst mit den Kantonen eine Vereinbarung über die Modalitäten des Personaleinsatzes ab.
 
 [^71a-1]: Eingefügt durch Art. 2 Ziff. 1 des BB vom 18. Juni 2010 betreffend die Übernahme der EG-Rückführungsrichtlinie (Richtlinie 2008/115/EG) ([AS 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [BBl 2009 8881](https://fedlex.data.admin.ch/eli/fga/2009/1528)). Fassung gemäss Anhang Ziff. 1 des BB vom 15. Dez. 2017 (Übernahme der Verordnung [EU] 2016/1624 über die Europäische Grenz- und Küstenwache), in Kraft seit 15. Sept. 2018 ([AS 2018 3161](https://fedlex.data.admin.ch/eli/oc/2018/507); [BBl 2017 4155](https://fedlex.data.admin.ch/eli/fga/2017/1056)).
-[^71a-2]: Verordnung (EU) 2016/1624 des Europäischen Parlaments und des Rates vom 14. September 2016 über die Europäische Grenz- und Küstenwache und zur Änderung der Verordnung (EU) 2016/399 des Europäischen Parlaments und des Rates sowie zur Aufhebung der Verordnung (EG) Nr. 863/2007 des Europäischen Parlaments und des Rates, der Verordnung (EG) Nr. 2007/2004 des Rates und der Entscheidung des Rates 2005/267/EG, Fassung gemäss ABl. L 251 vom 16.9.2016, S. 1.
+[^71a-2]: Siehe Fussnote zu Art. 7 Abs. 1<sup>bis</sup>.
+[^71a-3]: Fassung gemäss Anhang Ziff. 1 des BB vom 1. Okt. 2021 betreffend die Übernahme der Verordnung (EU) 2019/1896 über die Europäische Grenz- und Küstenwache, in Kraft seit 1. Sept. 2022 ([AS 2022 462](https://fedlex.data.admin.ch/eli/oc/2022/462); [BBl 2020 7105](https://fedlex.data.admin.ch/eli/fga/2020/1902)).
 
 #### Art. 71a<sup>bis</sup>
 
@@ -2089,7 +2099,7 @@ Die Ausländerinnen und Ausländer sowie an Verfahren nach diesem Gesetz beteili
 
 <sup>2</sup> Wer eine grenzüberschreitende Dienstleistung in Anspruch nimmt, hat sich durch Einsicht in den Ausweis oder durch Nachfrage bei den zuständigen Behörden zu vergewissern, dass die Person, welche die Dienstleistung erbringt, zur Ausübung der Erwerbstätigkeit in der Schweiz berechtigt ist.
 
-### 2. Abschnitt: Pflichten der Transportunternehmen****
+### 2. Abschnitt: Pflichten der Transportunternehmen
 
 [^chap12-sec2-1]
 
@@ -2164,7 +2174,7 @@ Der Bundesrat kann weitere kommerzielle Transportunternehmen den Artikeln 92–9
 [^95-1]: Fassung gemäss Ziff. I des BG vom 20. Juni 2014 (Sorgfalts- und Meldepflichtverletzungen durch Luftverkehrsunternehmen, Informationssysteme), in Kraft seit 1. Okt. 2015 ([AS 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [BBl 2013 2561](https://fedlex.data.admin.ch/eli/fga/2013/451)).
 [^95-2]: Übereinkommen vom 19. Juni 1990 zur Durchführung des Übereinkommens von Schengen vom 14. Juni 1985 zwischen den Regierungen der Staaten der Benelux-Wirtschaftsunion, der Bundesrepublik Deutschland und der Französischen Republik betreffend den schrittweisen Abbau der Kontrollen an den gemeinsamen Grenzen, ABl. L 239 vom 22.9.2000, S. 19.
 
-### 3. Abschnitt:**** Pflichten der Flughafenbetreiber
+### 3. Abschnitt: Pflichten der Flughafenbetreiber
 
 [^chap12-sec3-1]
 
@@ -2765,13 +2775,13 @@ Zum Zweck der Durchbeförderung Angehöriger von Drittstaaten können dem andere
 
 [^108109-1]: Siehe Art. 126 Abs. 6 hiernach.
 
-## 14*a*. Kapitel: Informationssysteme****
+## 14*a*. Kapitel: Informationssysteme
 
 [^chap14a-1]
 
 [^chap14a-1]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 1. Juni 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 
-### 1. Abschnitt: Zentrales Visa-Informationssystem und nationales Visumsystem****
+### 1. Abschnitt: Zentrales Visa-Informationssystem und nationales Visumsystem
 
 [^chap14a-sec1-1]
 
@@ -2896,7 +2906,7 @@ Der Bundesrat regelt:
 
 [^109e-1]: Eingefügt durch Art. 2 Ziff. 1 des BB vom 11. Dez. 2009 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnung und des Beschlusses über das Visa-Informationssystem (VIS), in Kraft seit 20. Jan. 2014 ([AS 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272), [2014 1](https://fedlex.data.admin.ch/eli/oc/2014/1); [BBl 2009 4245](https://fedlex.data.admin.ch/eli/fga/2009/761)).
 
-### 2. Abschnitt:**** Informationssystem für die Durchführung der Rückkehr
+### 2. Abschnitt: Informationssystem für die Durchführung der Rückkehr
 
 [^chap14a-sec2-1]
 
@@ -2914,10 +2924,13 @@ Das Informationssystem dient:
 
 - a. der Bearbeitung von Personendaten von Ausländerinnen und Ausländern im Rahmen des Vollzugs der Wegweisung, der Ausweisung oder der Landesverweisung sowie der freiwilligen Rückkehr oder im Zusammenhang mit Rückkehrhilfe oder -beratung, einschliesslich der Bearbeitung von besonders schützenswerten Personendaten;
 - b. der Verwaltung und Kontrolle der verschiedenen Phasen der Wegweisung, der Ausweisung oder der Landesverweisung und der Aufgaben im Rückkehrbereich, einschliesslich der Rückkehrhilfe und -beratung und der mit der Rückkehr verbundenen finanziellen Leistungen;
-- c. der Erstellung von Statistiken.
+- c. der Erstellung von Statistiken;
+- d.[^109f-3] der Übermittlung von Statistiken und von Personendaten nach Artikel 105 Absatz 2 an die für die Überwachung der Schengen-Aussengrenzen zuständige Agentur der Europäischen Union gestützt auf die Verordnung (EU) 2019/1896[^109f-4].
 
 [^109f-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^109f-2]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^109f-3]: Eingefügt durch Anhang Ziff. 1 des BB vom 1. Okt. 2021 betreffend die Übernahme der Verordnung (EU) 2019/1896 über die Europäische Grenz- und Küstenwache, in Kraft seit 1. Sept. 2022 ([AS 2022 462](https://fedlex.data.admin.ch/eli/oc/2022/462); [BBl 2020 7105](https://fedlex.data.admin.ch/eli/fga/2020/1902)).
+[^109f-4]: Siehe Fussnote zu Art. 7 Abs. 1<sup>bis</sup>.
 
 #### Art. 109g
 
@@ -3067,7 +3080,7 @@ Das SEM kann die gestützt auf Absatz 2 erfassten Daten folgenden Behörden oder
 [^111-6]: Eingefügt durch Ziff. I 1 des BG vom 18. Juni 2010 über die Anpassung von Bestimmungen betreffend die Erfassung von Daten im Bereich der Migration, in Kraft seit 24. Jan. 2011 ([AS 2011 95](https://fedlex.data.admin.ch/eli/oc/2011/17); [BBl 2010 51](https://fedlex.data.admin.ch/eli/fga/2010/6)).
 [^111-7]: Eingefügt durch Ziff. I 1 des BG vom 18. Juni 2010 über die Anpassung von Bestimmungen betreffend die Erfassung von Daten im Bereich der Migration, in Kraft seit 24. Jan. 2011 ([AS 2011 95](https://fedlex.data.admin.ch/eli/oc/2011/17); [BBl 2010 51](https://fedlex.data.admin.ch/eli/fga/2010/6)).
 
-## 14*b*. Kapitel:**** Datenschutz im Rahmen der Schengen-Assoziierungsabkommen
+## 14*b*. Kapitel: Datenschutz im Rahmen der Schengen-Assoziierungsabkommen
 
 [^chap14b-1]
 
@@ -3075,9 +3088,15 @@ Das SEM kann die gestützt auf Absatz 2 erfassten Daten folgenden Behörden oder
 
 #### Art. 111a
 
-**Datenbekanntgabe an die an Schengen-Assoziierungsabkommen beteiligten Staaten**
+**Datenbekanntgabe[^111a-1]**
 
-Die Bekanntgabe von Personendaten an die zuständigen Behörden von Staaten, die durch eines der Schengen-Assoziierungsabkommen gebunden sind, wird der Bekanntgabe von Personendaten zwischen Bundesorganen gleichgestellt.
+<sup>1</sup> Die Bekanntgabe von Personendaten an die zuständigen Behörden von Staaten, die durch eines der Schengen-Assoziierungsabkommen gebunden sind, wird der Bekanntgabe von Personendaten zwischen Bundesorganen gleichgestellt.
+
+<sup>2</sup> Das SEM übermittelt der für die Überwachung der Schengen-Aussengrenzen zuständigen Europäischen Agentur Personendaten nach Artikel 105 Absatz 2, sofern diese die Daten zur Erfüllung der Aufgaben nach Artikel 87 Absatz 1 Buchstabe b der Verordnung (EU) 2019/1896[^111a-2] benötigt. Diese Bekanntgabe wird der Bekanntgabe von Personendaten zwischen Bundesorganen gleichgestellt.[^111a-3]
+
+[^111a-1]: Fassung gemäss Anhang Ziff. 1 des BB vom 1. Okt. 2021 betreffend die Übernahme der Verordnung (EU) 2019/1896 über die Europäische Grenz- und Küstenwache, in Kraft seit 1. Sept. 2022 ([AS 2022 462](https://fedlex.data.admin.ch/eli/oc/2022/462); [BBl 2020 7105](https://fedlex.data.admin.ch/eli/fga/2020/1902)).
+[^111a-2]: Siehe Fussnote zu Art. 7 Abs. 1<sup>bis</sup>.
+[^111a-3]: Eingefügt durch Anhang Ziff. 1 des BB vom 1. Okt. 2021 betreffend die Übernahme der Verordnung (EU) 2019/1896 über die Europäische Grenz- und Küstenwache, in Kraft seit 1. Sept. 2022 ([AS 2022 462](https://fedlex.data.admin.ch/eli/oc/2022/462); [BBl 2020 7105](https://fedlex.data.admin.ch/eli/fga/2020/1902)).
 
 #### Art. 111b
 
@@ -3158,7 +3177,7 @@ Das Auskunftsrecht richtet sich nach den Datenschutzbestimmungen des Bundes oder
 
 [^111g111h-1]: Aufgehoben durch Ziff. 1 des BG vom 19. März über die Umsetzung des Rahmenbeschlusses 2008/977/JI über den Schutz von Personendaten im Rahmen der polizeilichen und justiziellen Zusammenarbeit in Strafsachen, mit Wirkung seit 1. Dez. 2010 ([AS 2010 3387](https://fedlex.data.admin.ch/eli/oc/2010/464)3418; [BBl 2009 6749](https://fedlex.data.admin.ch/eli/fga/2009/1207)).
 
-## 14*c*. Kapitel:**** Eurodac
+## 14*c*. Kapitel: Eurodac
 
 [^chap14c-1]
 
@@ -3229,7 +3248,7 @@ Die nach den Absätzen 1 und 2 übermittelten Daten werden von der Zentraleinhei
 
 ## 16. Kapitel: Strafbestimmungen und administrative Sanktionen
 
-### 1. Abschnitt: Strafbestimmungen****
+### 1. Abschnitt: Strafbestimmungen
 
 [^chap16-sec1-1]
 
@@ -3391,7 +3410,7 @@ Mit Busse wird bestraft, wer Personendaten:
 [^120e-1]: Eingefügt durch Art. 2 Ziff. 1 des BB vom 11. Dez. 2009 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnung und des Beschlusses über das Visa-Informationssystem (VIS), in Kraft seit 11. Okt. 2011 ([AS 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272), [2011 4449](https://fedlex.data.admin.ch/eli/oc/2011/609); [BBl 2009 4245](https://fedlex.data.admin.ch/eli/fga/2009/761)).
 [^120e-2]: Aufgehoben durch Ziff. I des BG vom 20. Juni 2014 (Sorgfalts- und Meldepflichtverletzungen durch Luftverkehrsunternehmen, Informationssysteme), mit Wirkung seit 1. Okt. 2015 ([AS 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [BBl 2013 2561](https://fedlex.data.admin.ch/eli/fga/2013/451)).
 
-### 2. Abschnitt: Administrative Sanktionen****
+### 2. Abschnitt: Administrative Sanktionen
 
 [^chap16-sec2-1]
 
@@ -3603,7 +3622,7 @@ Datum des Inkrafttretens: 1. Januar 2008[^128-1] Artikel 92–95 sowie 127: 12. 
 [^128-1]: BRB vom 24. Okt. 2007
 [^128-2]: Art. 2 Bst. a der V vom 26. Nov. 2008 ([AS 2008 5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 2 Bst. a)
 
-## Übergangsbestimmungen zur Änderung vom 14. Dezember 2012****
+## Übergangsbestimmungen zur Änderung vom 14. Dezember 2012
 
 [^u1-1]
 
@@ -3615,7 +3634,7 @@ Datum des Inkrafttretens: 1. Januar 2008[^128-1] Artikel 92–95 sowie 127: 12. 
 
 <sup>3</sup> Die Flughafenbetreiber sind verantwortlich, innerhalb von zwei Jahren ab Inkrafttreten der Änderung vom 14. Dezember 2012 dieses Gesetzes die Unterkünfte an den Flughäfen nach Artikel 95*a* bereitzustellen.
 
-Anhang 1*[^t-2]*
+Anhang 1[^t-2]
 
 (Art. 2 Abs. 4 und 64*a* Abs. 4)
 
@@ -3651,7 +3670,7 @@ Die Dublin-Assoziierungsabkommen umfassen:
 [^annex1-lvl2-3]: [SR 0.142.393.141](https://fedlex.data.admin.ch/eli/cc/2008/777)
 [^annex1-lvl2-4]: [SR 0.142.395.141](https://fedlex.data.admin.ch/eli/cc/2011/195)
 
-Anhang 2*[^t-3]*
+Anhang 2[^t-3]
 
 (Art. 125)
 

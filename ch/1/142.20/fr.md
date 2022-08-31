@@ -4,20 +4,20 @@ title: "Loi fédérale du 16 décembre 2005 sur les étrangers et l'intégration
 short: LEI
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/758"
 language: fr
-version: 2022-06-01
+version: 2022-09-01
 adopted: 2005-12-16
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20220601/fr/xml/fedlex-data-admin-ch-eli-cc-2007-758-20220601-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20220601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20220901/fr/xml/fedlex-data-admin-ch-eli-cc-2007-758-20220901-fr-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20220901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Loi fédérale sur les étrangers et l’intégration**<sup>∗</sup>**
+# Loi fédérale sur les étrangers et l’intégration<sup></sup>
 
-(LEI)**[^t-2]**[^t-1]
+(LEI)[^t-2][^t-1]
 
-du 16 décembre 2005 (Etat le 1<sup>er</sup> juin 2022)
+du 16 décembre 2005 (État le 1<sup>er</sup> septembre 2022)
 
 [^t-1]: <sup>∗</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 [^t-2]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 2016 (Intégration), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2131](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2665](https://fedlex.data.admin.ch/eli/fga/2016/524)).
@@ -133,15 +133,19 @@ Pour entrer en Suisse, tout étranger doit:
 
 <sup>1</sup> L’entrée en Suisse et la sortie de Suisse sont régies par les accords d’association à Schengen.
 
-<sup>2</sup> Le Conseil fédéral règle le contrôle des personnes à la frontière autorisé par ces accords. Lorsque l’entrée en Suisse est refusée, l’autorité compétente en matière de contrôle à la frontière rend une décision de renvoi selon l’art. 64.[^7-2]
+<sup>1bis</sup> La Confédération collabore avec l’agence de l’Union européenne compétente en matière de surveillance des frontières extérieures Schengen. Cette collaboration comporte notamment l’élaboration d’instruments de planification à l’intention de l’agence, en vertu du règlement (UE) 2019/1896[^7-2].[^7-3]
 
-<sup>3</sup> Si les contrôles à la frontière suisse sont réintroduits de manière provisoire en vertu du code frontières Schengen[^7-3] et que l’entrée est refusée, l’autorité compétente en matière de contrôle à la frontière rend une décision motivée et sujette à recours au moyen du formulaire selon l’Annexe V, partie B, du code frontières Schengen.[^7-4] Le refus d’entrée est immédiatement exécutoire. Le recours n’a pas d’effet suspensif.[^7-5]
+<sup>2</sup> Le Conseil fédéral règle le contrôle des personnes à la frontière autorisé par ces accords. Lorsque l’entrée en Suisse est refusée, l’autorité compétente en matière de contrôle à la frontière rend une décision de renvoi selon l’art. 64.[^7-4]
+
+<sup>3</sup> Si les contrôles à la frontière suisse sont réintroduits de manière provisoire en vertu du code frontières Schengen[^7-5] et que l’entrée est refusée, l’autorité compétente en matière de contrôle à la frontière rend une décision motivée et sujette à recours au moyen du formulaire selon l’Annexe V, partie B, du code frontières Schengen.[^7-6] Le refus d’entrée est immédiatement exécutoire. Le recours n’a pas d’effet suspensif.[^7-7]
 
 [^7-1]: Nouvelle teneur selon l’art. 127, en vigueur depuis le 12 déc. 2008 ([RO 2008 5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 let. a).
-[^7-2]: Nouvelle teneur selon l’art. 2 ch. 1 de l’AF du 18 juin 2010 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et la CE concernant la reprise de la Directive CE sur le retour (Directive 2008/115/CE), en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [FF 2009 8043](https://fedlex.data.admin.ch/eli/fga/2009/1528)).
-[^7-3]: Règlement (UE) 2016/399 du Parlement européen et du Conseil du 9 mars 2016 concernant un code de l’Union relatif au régime de franchissement des frontières par les personnes (code frontières Schengen), JO L 77 du 23.3.2016, p. 1; modifié en dernier lieu par le règlement (UE) 2017/2225, JO L 327 du 9.12.2017, p. 1.
-[^7-4]: Nouvelle teneur selon l’annexe de l’AF du 21 juin 2019 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des bases juridiques en vue de la création et de l’utilisation du système d’entrée et de sortie (EES) (règlements [UE] 2017/2226 et 2017/2225), en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2021 732](https://fedlex.data.admin.ch/eli/oc/2021/732); [FF 2019 175](https://fedlex.data.admin.ch/eli/fga/2019/11)).
-[^7-5]: Introduit par l’art. 2 de l’AF du 13 juin 2008 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et la CE concernant la reprise du code frontières Schengen ([RO 2008 5629](https://fedlex.data.admin.ch/eli/oc/2008/779)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 let. b; [FF 2007 7449](https://fedlex.data.admin.ch/eli/fga/2007/1287)). Nouvelle teneur selon l’annexe ch. 1 de l’AF du 15 déc. 2017 (Reprise du règlement [UE] 2016/1624 relatif au corps européen de garde-frontières et de garde-côtes), en vigueur depuis le 15 sept. 2018 ([RO 2018 3161](https://fedlex.data.admin.ch/eli/oc/2018/507); [FF 2017 3891](https://fedlex.data.admin.ch/eli/fga/2017/1056)).
+[^7-2]: Règlement (UE) 2019/1896 du Parlement européen et du Conseil du 13 novembre 2019 relatif au corps européen de garde-frontières et de garde-côtes et abrogeant les règlements (UE) n<sup>o</sup> 1052/2013 et (UE) 2016/1624, JO L 295 du 14.11.2019, p. 1.
+[^7-3]: Introduit par l’annexe ch. 1 de l’AF du 1<sup>er</sup> oct. 2021 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et l’Union européenne concernant la reprise du règlement (UE) 2019/1896 relatif au corps européen de garde-frontières et de garde-côtes, en vigueur depuis le 1<sup>er</sup> sept. 2022 ([RO 2022 462](https://fedlex.data.admin.ch/eli/oc/2022/462); [FF 2020 6893](https://fedlex.data.admin.ch/eli/fga/2020/1902)).
+[^7-4]: Nouvelle teneur selon l’art. 2 ch. 1 de l’AF du 18 juin 2010 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et la CE concernant la reprise de la Directive CE sur le retour (Directive 2008/115/CE), en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [FF 2009 8043](https://fedlex.data.admin.ch/eli/fga/2009/1528)).
+[^7-5]: Règlement (UE) 2016/399 du Parlement européen et du Conseil du 9 mars 2016 concernant un code de l’Union relatif au régime de franchissement des frontières par les personnes (code frontières Schengen), JO L 77 du 23.3.2016, p. 1; modifié en dernier lieu par le règlement (UE) 2017/2225, JO L 327 du 9.12.2017, p. 1.
+[^7-6]: Nouvelle teneur selon l’annexe de l’AF du 21 juin 2019 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des bases juridiques en vue de la création et de l’utilisation du système d’entrée et de sortie (EES) (règlements [UE] 2017/2226 et 2017/2225), en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2021 732](https://fedlex.data.admin.ch/eli/oc/2021/732); [FF 2019 175](https://fedlex.data.admin.ch/eli/fga/2019/11)).
+[^7-7]: Introduit par l’art. 2 de l’AF du 13 juin 2008 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et la CE concernant la reprise du code frontières Schengen ([RO 2008 5629](https://fedlex.data.admin.ch/eli/oc/2008/779)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 let. b; [FF 2007 7449](https://fedlex.data.admin.ch/eli/fga/2007/1287)). Nouvelle teneur selon l’annexe ch. 1 de l’AF du 15 déc. 2017 (Reprise du règlement [UE] 2016/1624 relatif au corps européen de garde-frontières et de garde-côtes), en vigueur depuis le 15 sept. 2018 ([RO 2018 3161](https://fedlex.data.admin.ch/eli/oc/2018/507); [FF 2017 3891](https://fedlex.data.admin.ch/eli/fga/2017/1056)).
 
 #### Art. 8
 
@@ -849,7 +853,7 @@ Les dispositions de ce chapitre concernant le conjoint étranger s’appliquent 
 
 ## Chapitre 8 Intégration des étrangers
 
-### Section 1 Encouragement de l’intégration****
+### Section 1 Encouragement de l’intégration
 
 [^chap8-sec1-1]
 
@@ -961,7 +965,7 @@ Les cantons prévoient le plus tôt possible des mesures appropriées pour les �
 [^58-1]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 2016 (Intégration), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2131](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2665](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 [^58-2]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
 
-### Section 2**** Exigences en matière d’intégration
+### Section 2 Exigences en matière d’intégration
 
 [^chap8-sec2-1]
 
@@ -996,7 +1000,7 @@ Pour évaluer l’intégration, l’autorité compétente tient compte des crit�
 
 <sup>4</sup> Les autorités compétentes peuvent adresser des recommandations en matière d’intégration aux personnes auxquelles s’appliquent l’art. 2, al. 2 ou 3, ou l’art. 42.
 
-## Chapitre 9 Documents de voyage et interdiction de voyager****
+## Chapitre 9 Documents de voyage et interdiction de voyager
 
 [^chap9-1]
 
@@ -1098,7 +1102,7 @@ L’aide au retour et à la réintégration comporte:
 [^60-2]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
 [^60-3]: Nouvelle teneur selon le ch. IV 2 de la LF du 16 déc. 2005, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [FF 2002 6359](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 
-### Section 2 Extinction et révocation des autorisations et extinction du droit de séjour****
+### Section 2 Extinction et révocation des autorisations et extinction du droit de séjour
 
 [^chap10-sec2-1]
 
@@ -1400,7 +1404,7 @@ Le SEM peut interdire l’entrée en Suisse à un étranger lorsque ce dernier:
 
 [^68a-1]: Introduit par l’annexe 1 ch.1 de l’AF du 18 déc. 2020 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des bases légales concernant l’établissement, le fonctionnement et l’utilisation du système d’information Schengen (SIS), al. 3 et 5 en vigueur depuis le 1<sup>er</sup> juill. 2021 ([RO 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [FF 2020 3361](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 
-### Section 4 Exécution du renvoi ou de l’expulsion et interventions internationales en matière de retour****
+### Section 4 Exécution du renvoi ou de l’expulsion et interventions internationales en matière de retour
 
 [^chap10-sec4-1]
 
@@ -1444,29 +1448,36 @@ L’autorité cantonale compétente exécute le renvoi ou l’expulsion d’un �
 
 **Assistance de la Confédération aux autorités d’exécution**
 
+<sup>1</sup>
+
 Le Département fédéral de justice et police (DFJP) assiste les cantons qui sont chargés d’exécuter le renvoi, l’expulsion au sens de la présente loi ou l’expulsion au sens des art. 66*a* ou 66*a*<sup>bis</sup> CP[^71-1] ou 49*a* ou 49*a*<sup>bis</sup> CPM[^71-2], notamment par:[^71-3]
 
 - a. la collaboration à l’obtention des documents de voyage;
 - b. l’organisation du voyage de retour;
 - c.[^71-4] la coordination entre les cantons concernés et avec le DFAE.
 
+<sup>2</sup> Le DFJP peut collaborer avec l’agence de l’Union européenne compétente en matière de surveillance des frontières extérieures Schengen dans l’accomplissement de ses tâches au sens de l’al. 1, notamment let. a et b.[^71-5]
+
 [^71-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^71-2]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
 [^71-3]: Nouvelle teneur selon l’annexe ch. 1 de l’AF du 15 déc. 2017 (Reprise du règlement [UE] 2016/1624 relatif au corps européen de garde-frontières et de garde-côtes), en vigueur depuis le 15 sept. 2018 ([RO 2018 3161](https://fedlex.data.admin.ch/eli/oc/2018/507); [FF 2017 3891](https://fedlex.data.admin.ch/eli/fga/2017/1056)).
 [^71-4]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2014 (Violation du devoir de diligence et de l’obligation de communiquer par les entreprises de transport aérien; systèmes d’information), en vigueur depuis le 1<sup>er</sup> oct. 2015 ([RO 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [FF 2013 2277](https://fedlex.data.admin.ch/eli/fga/2013/451)).
+[^71-5]: Introduit par l’annexe ch. 1 de l’AF du 1<sup>er</sup> oct. 2021 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et l’Union européenne concernant la reprise du règlement (UE) 2019/1896 relatif au corps européen de garde-frontières et de garde-côtes, en vigueur depuis le 1<sup>er</sup> sept. 2022 ([RO 2022 462](https://fedlex.data.admin.ch/eli/oc/2022/462); [FF 2020 6893](https://fedlex.data.admin.ch/eli/fga/2020/1902)).
 
 #### Art. 71a
 
 **Interventions internationales en matière de retour**[^71a-1]
 
-<sup>1</sup> Le SEM et les cantons participent aux interventions internationales en matière de retour en vertu du règlement (UE) 2016/1624[^71a-2].
+<sup>1</sup> Le SEM et les cantons participent aux interventions internationales en matière de retour en vertu du règlement (UE) 2019/1896[^71a-2] et mettent à disposition le personnel nécessaire. La Confédération verse aux cantons des indemnités pour ces engagements. Le Conseil fédéral règle le montant des indemnités ainsi que les modalités de l’indemnisation [^71a-3].[^71a-4]
 
 <sup>2</sup> Le DFJP peut conclure avec l’agence de l’Union européenne compétente en matière de surveillance des frontières extérieures Schengen des arrangements sur l’engagement de personnel du SEM et des cantons pour les interventions internationales en matière de retour ainsi que sur l’engagement de tiers pour le contrôle de ces interventions.
 
 <sup>3</sup> Le DFJP et les cantons concluent une convention sur les modalités de ces engagements.
 
 [^71a-1]: Introduit par l’art. 2 ch. 1 de l’AF du 18 juin 2010 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et la CE concernant la reprise de la Directive CE sur le retour (Directive 2008/115/CE) ([RO 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [FF 2009 8043](https://fedlex.data.admin.ch/eli/fga/2009/1528)). Nouvelle teneur selon l’annexe ch. 1 de l’AF du 15 déc. 2017 (Reprise du règlement [UE] 2016/1624 relatif au corps européen de garde-frontières et de garde-côtes), en vigueur depuis le 15 sept. 2018 ([RO 2018 3161](https://fedlex.data.admin.ch/eli/oc/2018/507); [FF 2017 3891](https://fedlex.data.admin.ch/eli/fga/2017/1056)).
-[^71a-2]: Règlement (UE) 2016/1624 du Parlement européen et du Conseil du 14 septembre 2016 relatif au corps européen de garde-frontières et de garde-côtes, modifiant le règlement (UE) 2016/399 du Parlement européen et du Conseil et abrogeant le règlement (CE) n<sup>o</sup> 863/2007 du Parlement européen et du Conseil, le règlement (CE) n<sup>o</sup> 2007/2004 du Conseil, et la décision 2005/267/CE du Conseil, version du JO L 251 du 16.9.2016, p. 1.
+[^71a-2]: Cf. note de bas de page relative à l’art. 7, al. 1<sup>bis</sup>.
+[^71a-3]: Règlement (UE) 2016/1624 du Parlement européen et du Conseil du 14 septembre 2016 relatif au corps européen de garde-frontières et de garde-côtes, modifiant le règlement (UE) 2016/399 du Parlement européen et du Conseil et abrogeant le règlement (CE) n<sup>o</sup> 863/2007 du Parlement européen et du Conseil, le règlement (CE) n<sup>o</sup> 2007/2004 du Conseil, et la décision 2005/267/CE du Conseil, version du JO L 251 du 16.9.2016, p. 1.
+[^71a-4]: Nouvelle teneur selon l’annexe ch. 1 de l’AF du 1<sup>er</sup> oct. 2021 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et l’Union européenne concernant la reprise du règlement (UE) 2019/1896 relatif au corps européen de garde-frontières et de garde-côtes, en vigueur depuis le 1<sup>er</sup> sept. 2022 ([RO 2022 462](https://fedlex.data.admin.ch/eli/oc/2022/462); [FF 2020 6893](https://fedlex.data.admin.ch/eli/fga/2020/1902)).
 
 #### Art. 71a<sup>bis</sup>
 
@@ -2169,7 +2180,7 @@ Le Conseil fédéral peut soumettre d’autres entreprises de transport commerci
 [^95-1]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2014 (Violation du devoir de diligence et de l’obligation de communiquer par les entreprises de transport aérien; systèmes d’information), en vigueur depuis le 1<sup>er</sup> oct. 2015 ([RO 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [FF 2013 2277](https://fedlex.data.admin.ch/eli/fga/2013/451)).
 [^95-2]: Convention d’application du 19 juin 1990 de l’Accord de Schengen du 14 juin 1985 entre les Gouvernements des États de l’Union économique Benelux, de la République fédérale d’Allemagne et de la République française relatif à la suppression graduelle des contrôles aux frontières communes, JO L 239 du 22.9.2000, p. 19.
 
-### Section 3**** Obligations des gestionnaires des aéroports
+### Section 3 Obligations des gestionnaires des aéroports
 
 [^chap12-sec3-1]
 
@@ -2352,13 +2363,13 @@ Le Conseil fédéral peut conclure avec des États étrangers ou des organisatio
 [^100b-1]: Introduit par le ch. I de la LF du 16 déc. 2016 (Intégration), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2131](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2665](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 [^100b-2]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)).
 
-## Chapitre 14 Traitement et protection des données****
+## Chapitre 14 Traitement et protection des données
 
 [^chap14-1]
 
 [^chap14-1]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 
-### Section 1 Généralités****
+### Section 1 Généralités
 
 [^chap14-sec1-1]
 
@@ -2420,7 +2431,7 @@ Les autorités suivantes sont autorisées à procéder à la lecture des donnée
 
 [^102b-1]: Introduit par l’art. 2 ch. 1 de l’AF du 18 juin 2010 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et la CE concernant l’introduction des données biométriques dans les titres de séjour pour étrangers, en vigueur depuis le 24 janv. 2011 ([RO 2011 175](https://fedlex.data.admin.ch/eli/oc/2011/25); [FF 2010 51](https://fedlex.data.admin.ch/eli/fga/2010/6)).
 
-### Section 2 Données des passagers, surveillance et contrôle à l’aéroport et obligation des entreprises de transport aérien de communiquer des données****
+### Section 2 Données des passagers, surveillance et contrôle à l’aéroport et obligation des entreprises de transport aérien de communiquer des données
 
 [^chap14-sec2-1]
 
@@ -2697,7 +2708,7 @@ Les listes de passagers doivent mentionner les éléments suivants:
 
 [^104c-1]: Anciennement art. 104*b*. Introduit par le ch. I de la LF du 20 juin 2014 (Violation du devoir de diligence et de l’obligation de communiquer par les entreprises de transport aérien; systèmes d’information), en vigueur depuis le 1<sup>er</sup> oct. 2015 ([RO 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [FF 2013 2277](https://fedlex.data.admin.ch/eli/fga/2013/451)).
 
-### Section 3 Communication de données personnelles à l’étranger****
+### Section 3 Communication de données personnelles à l’étranger
 
 [^chap14-sec3-1]
 
@@ -2771,13 +2782,13 @@ Les données suivantes peuvent être communiquées à l’autre État contractan
 
 [^108109-1]: Voir art. 126 al. 6.
 
-## Chapitre 14*a* Systèmes d’information****
+## Chapitre 14*a* Systèmes d’information
 
 [^chap14a-1]
 
 [^chap14a-1]: Introduit par le ch. I de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 
-### Section 1 Système central d’information sur les visas et système national d’information sur les visas****
+### Section 1 Système central d’information sur les visas et système national d’information sur les visas
 
 [^chap14a-sec1-1]
 
@@ -2902,7 +2913,7 @@ Le Conseil fédéral:
 
 [^109e-1]: Introduit par l’art. 2 ch. 1 de l’AF du 11 déc. 2009 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise du R et de la D relatifs au VIS, en vigueur depuis le 20 janv. 2014 ([RO 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272), [2014 1](https://fedlex.data.admin.ch/eli/oc/2014/1); [FF 2009 3769](https://fedlex.data.admin.ch/eli/fga/2009/761)).
 
-### Section 2**** Système d’information destiné à la mise en œuvre des retours
+### Section 2 Système d’information destiné à la mise en œuvre des retours
 
 [^chap14a-sec2-1]
 
@@ -2921,9 +2932,12 @@ Le système d’information sert:
 - a. à traiter des données personnelles, y compris des données sensibles, relatives aux ressortissants étrangers dans le cadre de l’exécution du renvoi, de l’expulsion ou de l’expulsion pénale, du départ volontaire ou dans le cadre du conseil et de l’aide au retour;
 - b. à gérer et à contrôler les différentes phases du renvoi, de l’expulsion ou de l’expulsion pénale, les tâches du domaine du retour, y compris l’aide et le conseil au retour, ainsi que les prestations financières liées au retour;
 - c. à établir des statistiques.
+- d.[^109f-3] à transmettre des statistiques et des données personnelles au sens de l’art. 105, al. 2, à l’agence de l’Union européenne compétente en matière de surveillance des frontières extérieures Schengen en vertu du règlement (UE) 2019/1896[^109f-4].
 
 [^109f-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^109f-2]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^109f-3]: Introduite par l’annexe ch. 1 de l’AF du 1<sup>er</sup> oct. 2021 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et l’Union européenne concernant la reprise du règlement (UE) 2019/1896 relatif au corps européen de garde-frontières et de garde-côtes, en vigueur depuis le 1<sup>er</sup> sept. 2022 ([RO 2022 462](https://fedlex.data.admin.ch/eli/oc/2022/462); [FF 2020 6893](https://fedlex.data.admin.ch/eli/fga/2020/1902)).
+[^109f-4]: Cf. note de bas de page relative à l’art. 7, al. 1<sup>bis</sup>.
 
 #### Art. 109g
 
@@ -3017,7 +3031,7 @@ Le Conseil fédéral règle:
 - c. les mesures de protection organisationnelles et techniques empêchant tout traitement non autorisé des données personnelles;
 - d. la durée de conservation et la destruction des données.
 
-### Section 3 Système de gestion des dossiers personnels et de la documentation****
+### Section 3 Système de gestion des dossiers personnels et de la documentation
 
 [^chap14a-sec3-1]
 
@@ -3073,7 +3087,7 @@ Dans la mesure où l’accomplissement de leurs tâches l’exige, le SEM peut a
 [^111-6]: Nouvelle teneur selon le ch. I 1 de la LF du 18 juin 2010 (Saisie de données dans le domaine migratoire), en vigueur depuis le 24 janv. 2011 ([RO 2011 95](https://fedlex.data.admin.ch/eli/oc/2011/17); [FF 2010 51](https://fedlex.data.admin.ch/eli/fga/2010/6)).
 [^111-7]: Nouvelle teneur selon le ch. I 1 de la LF du 18 juin 2010 (Saisie de données dans le domaine migratoire), en vigueur depuis le 24 janv. 2011 ([RO 2011 95](https://fedlex.data.admin.ch/eli/oc/2011/17); [FF 2010 51](https://fedlex.data.admin.ch/eli/fga/2010/6)).
 
-## Chapitre 14*b***** Protection des données dans le cadre des accords d’association à Schengen
+## Chapitre 14*b* Protection des données dans le cadre des accords d’association à Schengen
 
 [^chap14b-1]
 
@@ -3081,9 +3095,15 @@ Dans la mesure où l’accomplissement de leurs tâches l’exige, le SEM peut a
 
 #### Art. 111a
 
-**Communication de données personnelles aux États liés par un des accords d’association à Schengen**
+**Communication de données personnelles[^111a-1]**
 
-La communication de données personnelles aux autorités compétentes des États liés par un des accords d’association à Schengen est assimilée à une communication entre organes fédéraux.
+<sup>1</sup> La communication de données personnelles aux autorités compétentes des États liés par un des accords d’association à Schengen est assimilée à une communication entre organes fédéraux.
+
+<sup>2</sup> Le SEM communique les données personnelles au sens de l’art. 105, al. 2, à l’agence de l’Union européenne compétente en matière de surveillance des frontières extérieures Schengen si elles lui sont nécessaires à l’accomplissement des tâches visées à l’art. 87, par. 1, let. b, du règlement (UE) 2019/1896[^111a-2]. Cette communication est assimilée à une communication de données personnelles entre organes fédéraux.[^111a-3]
+
+[^111a-1]: Nouvelle teneur selon l’annexe ch. 1 de l’AF du 1<sup>er</sup> oct. 2021 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et l’Union européenne concernant la reprise du règlement (UE) 2019/1896 relatif au corps européen de garde-frontières et de garde-côtes, en vigueur depuis le 1<sup>er</sup> sept. 2022 ([RO 2022 462](https://fedlex.data.admin.ch/eli/oc/2022/462); [FF 2020 6893](https://fedlex.data.admin.ch/eli/fga/2020/1902)).
+[^111a-2]: Cf. note de bas de page relative à l’art. 7, al. 1<sup>bis</sup>.
+[^111a-3]: Introduit par l’annexe ch. 1 de l’AF du 1<sup>er</sup> oct. 2021 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et l’Union européenne concernant la reprise du règlement (UE) 2019/1896 relatif au corps européen de garde-frontières et de garde-côtes, en vigueur depuis le 1<sup>er</sup> sept. 2022 ([RO 2022 462](https://fedlex.data.admin.ch/eli/oc/2022/462); [FF 2020 6893](https://fedlex.data.admin.ch/eli/fga/2020/1902)).
 
 #### Art. 111b
 
@@ -3164,7 +3184,7 @@ Le droit d’accès est régi par les dispositions fédérales ou cantonales de 
 
 [^111g111h-1]: Abrogés par le ch. 1 de la LF du 19 mars 2010 portant mise en œuvre de la décision-cadre 2008/977/JAI relative à la protection des données à caractère personnel traitées dans le cadre de la coopération policière et judiciaire en matière pénale, avec effet au 1<sup>er</sup> déc. 2010 ([RO 2010 3387](https://fedlex.data.admin.ch/eli/oc/2010/464)3418; [FF 2009 6091](https://fedlex.data.admin.ch/eli/fga/2009/1207)).
 
-## Chapitre 14*c***** Eurodac
+## Chapitre 14*c* Eurodac
 
 [^chap14c-1]
 
@@ -3235,7 +3255,7 @@ Les données transmises conformément aux al. 1 et 2 sont enregistrées par l’
 
 ## Chapitre 16 Dispositions pénales et sanctions administratives
 
-### Section 1 Dispositions pénales****
+### Section 1 Dispositions pénales
 
 [^chap16-sec1-1]
 
@@ -3400,7 +3420,7 @@ Est puni d’une amende quiconque traite des données personnelles:
 [^120e-1]: Introduit par l’art. 2 ch. 1 de l’AF du 11 déc. 2009 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise du R et de la D relatifs au VIS, en vigueur depuis le 11 oct. 2011 ([RO 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272), [2011 4449](https://fedlex.data.admin.ch/eli/oc/2011/609); [FF 2009 3769](https://fedlex.data.admin.ch/eli/fga/2009/761)).
 [^120e-2]: Abrogé par le ch. I de la LF du 20 juin 2014 (Violation du devoir de diligence et de l’obligation de communiquer par les entreprises de transport aérien; systèmes d’information), avec effet au 1<sup>er</sup> oct. 2015 ([RO 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [FF 2013 2277](https://fedlex.data.admin.ch/eli/fga/2013/451))
 
-### Section 2 Sanctions administratives****
+### Section 2 Sanctions administratives
 
 [^chap16-sec2-1]
 
@@ -3612,7 +3632,7 @@ Date de l’entrée en vigueur:[^128-1] 1<sup>er</sup> janvier 2008 Les art. 92 
 [^128-1]: ACF du 24 oct. 2007.
 [^128-2]: Art. 2 let. a de l’O du 26 nov. 2008 ([RO 2008 5405](https://fedlex.data.admin.ch/eli/oc/2008/755)).
 
-## Dispositions transitoires de la modification du 14 décembre 2012****
+## Dispositions transitoires de la modification du 14 décembre 2012
 
 [^u1-1]
 
@@ -3624,7 +3644,7 @@ Date de l’entrée en vigueur:[^128-1] 1<sup>er</sup> janvier 2008 Les art. 92 
 
 <sup>3</sup> Les gestionnaires des aéroports sont responsables de la mise à disposition de logements à l’aéroport au sens de l’art. 95*a* dans un délai de deux ans à compter de l’entrée en vigueur de la modification du 14 décembre 2012 de la présente loi.
 
-Annexe 1*[^t-3]*
+Annexe 1[^t-3]
 
 (art. 2, al. 4, et 64*a*, al. 4)
 
@@ -3660,7 +3680,7 @@ Les accords d’association à Dublin comprennent les accords suivants:
 [^annex1-lvl2-3]: [RS 0.142.393.141](https://fedlex.data.admin.ch/eli/cc/2008/777)
 [^annex1-lvl2-4]: [RS 0.142.395.141](https://fedlex.data.admin.ch/eli/cc/2011/195)
 
-Annexe 2*[^t-4]*
+Annexe 2[^t-4]
 
 (art. 125)
 
