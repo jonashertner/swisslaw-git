@@ -4,11 +4,11 @@ title: "Ordonnance du 11 août 1999 sur l'exécution du renvoi et de l'expulsion
 short: OERE
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/357"
 language: fr
-version: 2022-05-01
+version: 2022-09-01
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/357/20220501/fr/xml/fedlex-data-admin-ch-eli-cc-1999-357-20220501-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/357/20220501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/357/20220901/fr/xml/fedlex-data-admin-ch-eli-cc-1999-357-20220901-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/357/20220901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/357/20220501/fr"
 
 (OERE)
 
-du 11 août 1999 (Etat le 1<sup>er</sup> mai 2022)
+du 11 août 1999 (État le 1<sup>er</sup> septembre 2022)
 
 Le Conseil fédéral suisse,
 
@@ -30,7 +30,7 @@ arrête:
 [^ingress-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 [^ingress-4]: Nouvelle teneur selon le ch. I de l’O du 24 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5567](https://fedlex.data.admin.ch/eli/oc/2007/764)).
 
-## Section 1 Aide à l’exécution des renvois****
+## Section 1 Aide à l’exécution des renvois
 
 [^sec1-1]
 
@@ -42,9 +42,11 @@ arrête:
 
 ### (art. 71 LEI)
 
-Le Secrétariat d’État aux migrations (SEM) assiste les cantons dans le domaine de l’exécution du renvoi, de l’expulsion au sens de la LEI (expulsion) ou de l’expulsion au sens des art. 66*a* ou 66*a*<sup>bis</sup> du code pénal[^1-2] ou 49*a* ou 49*a*<sup>bis</sup> du code pénal militaire du 13 juin 1927[^1-3] (expulsion pénale).
+<sup>1</sup> Le Secrétariat d’État aux migrations (SEM) assiste les cantons dans le domaine de l’exécution du renvoi, de l’expulsion au sens de la LEI (expulsion) ou de l’expulsion au sens des art. 66*a* ou 66*a*<sup>bis</sup> du code pénal[^1-2] ou 49*a* ou 49*a*<sup>bis</sup> du code pénal militaire du 13 juin 1927[^1-3] (expulsion pénale).
 
-[^1-1]: Nouvelle teneur selon le ch. I 3 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+<sup>2</sup> Il peut coopérer avec l’Agence européenne de garde-frontières et de garde-côtes (Agence) dans l’accomplissement de ses tâches au sens de l’art. 71, al. 1, LEI, notamment celles visées à l’al. 1, let. a et b.
+
+[^1-1]: Nouvelle teneur selon le ch. I de l’O du 29 juin 2022, en vigueur depuis le 1<sup>er</sup> sept. 2022 ([RO 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
 [^1-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^1-3]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
 
@@ -327,7 +329,7 @@ Les cantons remboursent au SEM les frais d’exécution et de départ qu’il a 
 [^15-1]: Nouvelle teneur selon le ch. I de l’O du 26 mars 2014, en vigueur depuis le 1<sup>er</sup> fév. 2014 ([RO 2014 865](https://fedlex.data.admin.ch/eli/oc/2014/183)).
 [^15-2]: Abrogé par le ch. I de l’O du 8 juin 2018, avec effet au 1<sup>er</sup> mars 2019 ([RO 2018 2849](https://fedlex.data.admin.ch/eli/oc/2018/437)).
 
-## Section 1*a***** Saisie des données dans le domaine des mesures de contrainte****
+## Section 1*a* Saisie des données dans le domaine des mesures de contrainte
 
 [^sec1a-1][^sec1a-2]
 
@@ -371,64 +373,83 @@ Les autorités cantonales compétentes transmettent au SEM les données suivante
 
 <sup>1</sup>
 
-En cas d’intervention en matière de retour, le SEM est responsable de la conduite opérationnelle de la coopération avec l’agence de l’Union européenne compétente en matière de surveillance des frontières extérieures Schengen (l’Agence). À ce titre, il consulte et informe l’Office fédéral de la douane et de la sécurité des frontières (OFDF)[^15b-2]. Il assume notamment les tâches suivantes:
+En cas d’intervention internationale en matière de retour, le SEM est responsable de la coopération opérationnelle avec l’Agence. À ce titre, il consulte et informe l’Office fédéral de la douane et de la sécurité des frontières (OFDF) et assume notamment les tâches suivantes:
 
 - a. il fait office de service national de coordination pour la participation de la Suisse aux interventions internationales en matière de retour;
-- b. il est chargé d’exécuter les décisions du conseil d’administration ou du directeur exécutif de l’Agence concernant les interventions internationales en matière de retour.
+- b. il est chargé d’exécuter les décisions du conseil d’administration ou du directeur exécutif de l’Agence concernant le retour.
 
-<sup>2</sup> Aux fins visées à l’al. 1, let. b, le SEM peut conclure avec l’Agence des conventions de subvention de portée mineure ou d’autres conventions en vue du détachement de spécialistes des questions de retour, de contrôleurs des retours forcés et d’agents d’escorte policière suisses.
+<sup>2</sup>
+
+Il peut conclure avec l’Agence des conventions de subvention de portée mineure ou d’autres conventions de portée mineure en vue:
+
+- a. du détachement de personnel suisse, notamment de spécialistes des questions de retour, de contrôleurs des retours forcés et d’agents d’escorte policière;
+- b. de l’organisation de vols internationaux à destination des États d’origine ou de provenance.
 
 [^sec1abis-1]: Introduit par le ch. I de l’O du 15 août 2018, en vigueur depuis le 15 sept. 2018 ([RO 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
-[^15b-1]: Introduit par le ch. I de l’O du 24 mars 2004 ([RO 2004 1649](https://fedlex.data.admin.ch/eli/oc/2004/201)). Nouvelle teneur selon le ch. I de l’O du 15 août 2018, en vigueur depuis le 15 sept. 2018 ([RO 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
-[^15b-2]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
+[^15b-1]: Introduit par le ch. I de l’O du 24 mars 2004 ([RO 2004 1649](https://fedlex.data.admin.ch/eli/oc/2004/201)). Nouvelle teneur selon le ch. I de l’O du 29 juin 2022, en vigueur depuis le 1<sup>er</sup> sept. 2022 ([RO 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
 
 #### Art. 15b<sup>bis</sup>
 
 **Interventions à l’étranger**[^15bbis-1]
 
-<sup>1</sup> En vue d’une intervention de personnel suisse à l’étranger, le SEM garantit, en concertation avec les cantons et avec les organisations qui mobilisent des contrôleurs des retours forcés, que les personnes nécessaires aux différents réserves sont mises à disposition.
+<sup>1</sup> En vue d’une intervention de personnel suisse à l’étranger, le SEM garantit, en concertation avec les cantons et avec les organisations qui mobilisent des contrôleurs des retours forcés, que les personnes nécessaires sont mises à disposition.
 
-<sup>2</sup> Si l’Agence dépose une demande de détachement de spécialistes des questions de retour du SEM, d’agents d’escorte policière des cantons ou de contrôleurs des retours forcés à l’étranger, conformément aux art. 29, par. 3, 30, par. 3, et 31, par. 3, du règlement (UE) 2016/1624[^15bbis-2], le SEM peut rejeter cette demande en présence d’une situation exceptionnelle en Suisse.
+<sup>2</sup> Le personnel nécessaire se compose notamment de spécialistes des questions de retour du SEM, d’agents d’escorte policière des cantons et de contrôleurs des retours forcés à l’étranger.
 
-[^15bbis-1]: Introduit par le ch. I de l’O du 15 août 2018, en vigueur depuis le 15 sept. 2018 ([RO 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
-[^15bbis-2]: Règlement (UE) 2016/1624 du Parlement européen et du Conseil du 14 septembre 2016 relatif au corps européen de garde-frontières et de garde-côtes, modifiant le règlement (UE) 2016/399 du Parlement européen et du Conseil et abrogeant le règlement (CE) n<sup>o</sup> 863/2007 du Parlement européen et du Conseil, le règlement (CE) n<sup>o</sup> 2007/2004 du Conseil et la décision 2005/267/CE du Conseil, version du JO L 251 du 16.9.2016, p. 1.
+<sup>3</sup> À l’exception des contrôleurs des retours forcés, le personnel visé à l’al. 2 est mis à disposition pour des engagements de longue ou de courte durée selon les dispositions des art. 56 et 57 du règlement (UE) 2019/1896[^15bbis-2].
+
+<sup>4</sup> Le SEM peut refuser une demande de l’Agence concernant le détachement de spécialistes des questions de retour, de contrôleurs des retours forcés et d’agents d’escorte policière dans les cas visés aux art. 51, par. 3, et 57, par. 9, du règlement (UE) 2019/1896.
+
+[^15bbis-1]: Introduit par le ch. I de l’O du 15 août 2018 ([RO 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)). Nouvelle teneur selon le ch. I de l’O du 29 juin 2022, en vigueur depuis le 1<sup>er</sup> sept. 2022 ([RO 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
+[^15bbis-2]: Règlement (UE) 2019/1896 du Parlement européen et du Conseil du 13 novembre 2019 relatif au corps européen de garde-frontières et de garde-côtes et abrogeant les règlements (UE) n<sup>o</sup> 1052/2013 et (UE) 2016/1624, version selon JO L 295 du 14.11.2019, p. 1
 
 #### Art. 15c
 
 **Spécialistes des questions de retour du SEM**[^15c-1]
 
-<sup>1</sup> Le SEM gère une réserve de collaborateurs spécialement formés et préparés pour les interventions internationales en matière de retour menées en vertu du règlement (UE) 2016/1624[^15c-2].
+<sup>1</sup> Le SEM gère une réserve de collaborateurs composée de spécialistes des questions de retour auxquels l’Agence dispense une formation initiale et continue pour les interventions internationales en matière de retour sur la base de l’art. 62 du règlement (UE) 2019/1896[^15c-2].[^15c-3]
 
 <sup>2</sup> Les modalités du détachement de spécialistes des questions de retour sont définies dans des accords individuels conclus entre lesdits spécialistes et le SEM.
 
 [^15c-1]: Introduit par le ch. I de l’O du 24 mars 2004 ([RO 2004 1649](https://fedlex.data.admin.ch/eli/oc/2004/201)). Nouvelle teneur selon le ch. I de l’O du 15 août 2018, en vigueur depuis le 15 sept. 2018 ([RO 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
-[^15c-2]: Cf. note de bas de page relative à l’art. 15*b*<sup>bis</sup>, al. 2.
+[^15c-2]: Cf. note de bas de page relative à l’art. 15*b*<sup>bis</sup>, al. 3.
+[^15c-3]: Nouvelle teneur selon le ch. I de l’O du 29 juin 2022, en vigueur depuis le 1<sup>er</sup> sept. 2022 ([RO 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
 
 #### Art. 15d
 
 **Agents d’escorte policière des cantons**[^15d-1]
 
-<sup>1</sup> Conformément aux conventions conclues entre le DFJP et les cantons en vertu de l’art. 71*a*, al. 3, LEI, les cantons mettent à disposition, en accord avec le SEM, des agents d’escorte policière pour les interventions internationales en matière de retour.
+<sup>1</sup> Les cantons mettent à disposition, en accord avec le SEM, des agents d’escorte policière pour les interventions internationales en matière de retour.
 
-<sup>2</sup> Les modalités du détachement des agents d’escorte policière sont définies dans le cadre d’accords individuels entre lesdits agents et les cantons qui sont responsables de ces personnes.
+<sup>2</sup> Les modalités du détachement des agents d’escorte policière sont définies dans le cadre d’accords individuels entre les agents et les cantons auxquels ils ressortissent.
 
-<sup>3</sup> Pour chaque agent d’escorte policière mis à disposition par un canton, la Confédération accorde à ce dernier un forfait d’accompagnement de 300 francs par jour.
+<sup>3</sup> L’Agence dispense, en vertu de l’art. 62 du règlement (UE) 2019/1896[^15d-2], une formation initiale et continue aux personnes détachées pour leurs interventions internationales en matière de retour.
 
-<sup>4</sup> Elle accorde un forfait d’accompagnement de 400 francs par jour pour le chef d’équipe.
+<sup>4</sup> Pour chaque agent d’escorte policière mis à disposition par un canton pour un engagement de courte durée, la Confédération accorde à ce dernier un forfait de 600 francs par jour pour toute la durée de l’engagement.
 
-[^15d-1]: Introduit par le ch. I de l’O du 24 mars 2004 ([RO 2004 1649](https://fedlex.data.admin.ch/eli/oc/2004/201)). Nouvelle teneur selon le ch. I de l’O du 15 août 2018, en vigueur depuis le 15 sept. 2018, et pour l’al. 4, le 1<sup>er</sup> mars 2019 ([RO 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
+<sup>5</sup> Pour chaque agent d’escorte policière mis à disposition par un canton pour un engagement de longue durée, la Confédération accorde à ce dernier un forfait de 600 francs par jour de travail effectif.
+
+<sup>6</sup> Les contributions forfaitaires visées aux al. 3 et 4 compensent tous les coûts des cantons pour les interventions internationales en matière de retour qui peuvent être indemnisés en vertu de l’art. 71*a*, al. 1, LEI.
+
+<sup>7</sup> Pour les engagements de courte et de longue durée, les coûts pour le personnel détaché visés aux art. 45 et 56, par. 2, du règlement (UE) 2019/1896 payés par l’Agence s’ajoutent aux contributions forfaitaires visées aux al. 3 et 4.
+
+[^15d-1]: Introduit par le ch. I de l’O du 24 mars 2004 ([RO 2004 1649](https://fedlex.data.admin.ch/eli/oc/2004/201)). Nouvelle teneur selon le ch. I de l’O du 29 juin 2022, en vigueur depuis le 1<sup>er</sup> sept. 2022 ([RO 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
+[^15d-2]: Cf. note de bas de page relative à l’art. 15*b*<sup>bis</sup>, al. 3.
 
 #### Art. 15e
 
 **Contrôleurs des retours forcés**[^15e-1]
 
-<sup>1</sup> Le SEM mandate des organisations qui mettent à disposition des contrôleurs des retours forcés. Il détache ces personnes afin qu’elles contrôlent les interventions internationales en matière de retour.
+<sup>1</sup> Le SEM mandate des organisations qui mettent à disposition des contrôleurs des retours forcés. Celles-ci détachent des personnes pour le contrôle des interventions internationales en matière de retour.[^15e-2]
 
-<sup>2</sup> L’Agence définit les tâches desdits contrôleurs.
+<sup>2</sup> L’Agence définit les tâches desdits contrôleurs et est compétente pour leur formation initiale et continue en vertu de l’art. 62 du règlement (UE) 2019/1896[^15e-3].[^15e-4]
 
 <sup>3</sup> Le SEM conclut des conventions avec les organisations en vertu de l’art. 71*a*<sup>bis</sup>, al. 2, LEI. Y sont définies les autres modalités du détachement des contrôleurs des retours forcés. Les art. 15*g* à 15*i* s’appliquent par analogie.
 
 [^15e-1]: Introduit par le ch. I 2 de l’O du 8 nov. 2006 sur la mod. d’O liée à l’entrée en vigueur des mod. du 16 déc. 2005 de la LF sur l’asile, de la LF sur l’assurance-maladie et de la LF sur l’assurance-vieillesse et survivants ([RO 2006 4739](https://fedlex.data.admin.ch/eli/oc/2006/726)). Nouvelle teneur selon le ch. I de l’O du 15 août 2018, en vigueur depuis le 15 sept. 2018 ([RO 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
+[^15e-2]: Nouvelle teneur selon le ch. I de l’O du 29 juin 2022, en vigueur depuis le 1<sup>er</sup> sept. 2022 ([RO 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
+[^15e-3]: Cf. note de bas de page relative à l’art. 15*b*<sup>bis</sup>, al. 3.
+[^15e-4]: Nouvelle teneur selon le ch. I de l’O du 29 juin 2022, en vigueur depuis le 1<sup>er</sup> sept. 2022 ([RO 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
 
 #### Art. 15e<sup>bis</sup>
 
@@ -436,16 +457,17 @@ En cas d’intervention en matière de retour, le SEM est responsable de la cond
 
 <sup>1</sup> Le SEM coordonne l’intervention de personnel suisse lors d’interventions internationales en matière de retour. À ce titre, il informe l’OFDF du personnel mis à disposition, conformément aux art. 15*c* à 15*e*.
 
-<sup>2</sup> Il transmet à l’OFDF des informations sur les interventions internationales en matière de retour conformément à l’art. 3*c*, al. 3, de l’ordonnance du 26 août 2009 sur la coopération opérationnelle avec les autres États Schengen en vue de la protection des frontières extérieures de l’espace Schengen[^15ebis-2].
+<sup>2</sup> Il transmet à l’Agence des informations sur les interventions internationales en matière de retour conformément à l’art. 7, al. 3, de l’ordonnance du 29 juin 2022 relative à la coopération internationale en matière de sécurité des frontières (OCISF)[^15ebis-2].[^15ebis-3]
 
 [^15ebis-1]: Introduit par le ch. I de l’O du 15 août 2018, en vigueur depuis le 15 sept. 2018 ([RO 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
 [^15ebis-2]: [RS 631.062](https://fedlex.data.admin.ch/eli/cc/2022/461)
+[^15ebis-3]: Nouvelle teneur selon le ch. I de l’O du 29 juin 2022, en vigueur depuis le 1<sup>er</sup> sept. 2022 ([RO 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
 
 #### Art. 15e<sup>ter</sup>
 
 **Modalités d’intervention de personnel étranger en Suisse**[^15eter-1]
 
-<sup>1</sup> En vue d’une intervention de personnel étranger en Suisse, le SEM dépose une demande de détachement d’équipes d’intervention auprès de l’Agence et participe à l’élaboration du plan opérationnel.
+<sup>1</sup> En vue d’une intervention de personnel étranger en Suisse, le SEM dépose une demande de détachement d’équipes d’intervention auprès de l’Agence ou accepte une demande correspondante de l’Agence. Il participe à l’élaboration du plan opérationnel.[^15eter-2]
 
 <sup>2</sup> Le SEM est responsable de la conduite opérationnelle du personnel étranger. Celui-ci ne peut exercer des activités relevant de la puissance publique que sous la direction de personnel suisse.
 
@@ -453,26 +475,41 @@ En cas d’intervention en matière de retour, le SEM est responsable de la cond
 
 <sup>4</sup> Les compétences du personnel étranger peuvent être retirées dans des cas motivés.
 
-<sup>5</sup> Sur le plan disciplinaire et en ce qui concerne les rapports de travail, le personnel étranger est soumis aux prescriptions de son État d’origine.
+<sup>5</sup> En ce qui concerne les rapports de travail et le régime disciplinaire, le personnel étranger est soumis aux prescriptions de son État d’origine et le personnel de l’Agence aux prescriptions de celle-ci.[^15eter-3]
 
-<sup>6</sup> La Confédération répond des dommages causés en Suisse par le personnel étranger conformément à la loi du 14 mars 1958 sur la responsabilité[^15eter-2].
+<sup>5bis</sup> Le SEM peut notifier à l’Agence les violations du plan opérationnel commises par le personnel étranger en relation avec son engagement. Cette disposition s’applique aussi en cas de violations du plan opérationnel concernant des droits fondamentaux.[^15eter-4]
+
+<sup>6</sup> La Confédération répond des dommages causés en Suisse par le personnel étranger conformément à la loi du 14 mars 1958 sur la responsabilité[^15eter-5]. Si les dommages ont été causés par négligence grave ou intentionnellement, la Confédération peut exiger de l’État d’origine ou de l’Agence le remboursement des montants payés.[^15eter-6]
+
+<sup>7</sup> Le personnel étranger qui commet une infraction pendant une intervention en Suisse est soumis au code pénal[^15eter-7].[^15eter-8]
 
 [^15eter-1]: Introduit par le ch. I de l’O du 15 août 2018, en vigueur depuis le 15 sept. 2018 ([RO 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
-[^15eter-2]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^15eter-2]: Nouvelle teneur selon le ch. I de l’O du 29 juin 2022, en vigueur depuis le 1<sup>er</sup> sept. 2022 ([RO 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
+[^15eter-3]: Nouvelle teneur selon le ch. I de l’O du 29 juin 2022, en vigueur depuis le 1<sup>er</sup> sept. 2022 ([RO 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
+[^15eter-4]: Introduit par le ch. I de l’O du 29 juin 2022, en vigueur depuis le 1<sup>er</sup> sept. 2022 ([RO 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
+[^15eter-5]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^15eter-6]: Nouvelle teneur selon le ch. I de l’O du 29 juin 2022, en vigueur depuis le 1<sup>er</sup> sept. 2022 ([RO 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
+[^15eter-7]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^15eter-8]: Introduit par le ch. I de l’O du 29 juin 2022, en vigueur depuis le 1<sup>er</sup> sept. 2022 ([RO 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
 
 #### Art. 15e<sup>quater</sup>
 
-**Responsabilité concernant le personnel suisse à l’étranger**[^15equater-1]
+**Système d’information et protection des données pour le personnel étranger en Suisse**[^15equater-1]
 
-<sup>1</sup> La responsabilité des dommages causés par le personnel suisse à l’étranger est assumée par l’État hôte. Si les dommages ont été causés par une négligence grave ou de manière intentionnelle et que l’État hôte exige de la Suisse le remboursement des montants payés, la loi du 14 mars 1958 sur la responsabilité[^15equater-2] est applicable.
+Pour autant que les tâches concernées l’exigent, le personnel étranger dispose des mêmes droits d’accès au système national d’information destiné à la mise en œuvre des retours que ceux dont les collaborateurs du SEM engagés pour les mêmes tâches disposent en vertu de l’art. 109*h*, let. a, LEI. L’accès au système d’information ne peut avoir lieu que sous la direction de personnel suisse. Le SEM garantit que le personnel étranger respecte les prescriptions suisses sur la protection des données et la sécurité informatique.
 
-<sup>2</sup> Le personnel suisse qui commet une infraction lors d’une intervention à l’étranger est soumis au droit de l’État hôte. Si cet État renonce à la poursuite pénale, c’est le code pénal[^15equater-3] qui est applicable.
+[^15equater-1]: Introduit par le ch. I de l’O du 15 août 2018, en vigueur depuis le 15 sept. 2018 ([RO 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)). Nouvelle teneur selon le ch. I de l’O du 29 juin 2022, en vigueur depuis le 1<sup>er</sup> sept. 2022 ([RO 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
 
-[^15equater-1]: Introduit par le ch. I de l’O du 15 août 2018, en vigueur depuis le 15 sept. 2018 ([RO 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
-[^15equater-2]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
-[^15equater-3]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+#### Art. 15e<sup>quinquies</sup>
 
-## Section 1*b***** Contrôle du renvoi ou de l’expulsion par voie aérienne
+**Modalités d’intervention de personnel suisse à l’étranger**[^15equinquies-1]
+
+Les dispositions de section 3 de l’OCISF[^15equinquies-2] sont applicables par analogie au personnel suisse du SEM à l’étranger.
+
+[^15equinquies-1]: Introduit par le ch. I de l’O du 29 juin 2022, en vigueur depuis le 1<sup>er</sup> sept. 2022 ([RO 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
+[^15equinquies-2]: [RS 631.062](https://fedlex.data.admin.ch/eli/cc/2022/461)
+
+## Section 1*b* Contrôle du renvoi ou de l’expulsion par voie aérienne
 
 [^sec1b-1]
 
@@ -554,7 +591,7 @@ Les tiers mandatés:
 [^15i-1]: Nouvelle teneur selon le ch. I de l’O du 15 août 2018, en vigueur depuis le 15 sept. 2018 ([RO 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
 [^15i-2]: Nouvelle teneur selon le ch. I 3 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
 
-## Section 1*c***** Participation de la Confédération aux coûts de construction et d’aménagement d’établissements de détention cantonaux
+## Section 1*c* Participation de la Confédération aux coûts de construction et d’aménagement d’établissements de détention cantonaux
 
 [^sec1c-1]
 
@@ -642,7 +679,7 @@ L’OFJ peut réduire le montant de la restitution ou renoncer à une restitutio
 
 [^15o-1]: [RS 341.1](https://fedlex.data.admin.ch/eli/cc/2007/862)
 
-## Section 1*d***** Évaluation de l’aptitude au transport
+## Section 1*d* Évaluation de l’aptitude au transport
 
 [^sec1d-1]
 
@@ -819,7 +856,7 @@ Un départ est notamment considéré comme définitif au sens de l’art. 84, al
 [^26a-6]: [RS 143.5](https://fedlex.data.admin.ch/eli/cc/2012/713)
 [^26a-7]: Nouvelle teneur selon le ch. I de l’O du 15 août 2018, en vigueur depuis le 15 sept. 2018 ([RO 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
 
-## Section 2*a***** Décision de renvoi
+## Section 2*a* Décision de renvoi
 
 [^sec2a-1]
 
@@ -835,11 +872,20 @@ Un départ est notamment considéré comme définitif au sens de l’art. 84, al
 
 La décision de renvoi indique:
 
-- a. l’obligation pour l’étranger de quitter la Suisse;
-- b. le jour auquel il devra avoir quitté la Suisse;
+- a.[^26b-1]
+
+  sous réserve de l’art. 2, al. 2 et 3, LEI, l’obligation pour l’étranger:
+
+  - 1\. de quitter la Suisse et l’espace Schengen, et
+  - 2\. de poursuivre son voyage à destination de l’État de provenance ou d’un autre État en dehors de l’espace Schengen qui le prend en charge;
+
+- b.[^26b-2] le jour auquel il devra avoir quitté la Suisse et l’espace Schengen;
 - c. les moyens de contrainte applicables si l’étranger n’obtempère pas.
 
 <sup>2</sup> La décision de renvoi est motivée et indique les voies de recours.
+
+[^26b-1]: Nouvelle teneur selon le ch. I de l’O du 29 juin 2022, en vigueur depuis le 1<sup>er</sup> sept. 2022 ([RO 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
+[^26b-2]: Nouvelle teneur selon le ch. I de l’O du 29 juin 2022, en vigueur depuis le 1<sup>er</sup> sept. 2022 ([RO 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
 
 #### Art. 26c
 
@@ -873,7 +919,7 @@ Le SEM met les formulaires types nécessaires à la disposition des services com
 
 <sup>3</sup> Le SEM met les feuilles d’information à la disposition des autorités compétentes.
 
-## Section 2*b***** Exécution échelonnée d’un renvoi ou d’une expulsion
+## Section 2*b* Exécution échelonnée d’un renvoi ou d’une expulsion
 
 [^sec2b-1]
 
@@ -887,7 +933,7 @@ Le SEM met les formulaires types nécessaires à la disposition des services com
 
 <sup>3</sup> Les al. 1 et 2 s’appliquent par analogie aux partenaires enregistrés.
 
-## Section 2*c***** Renvoi en présence d’une expulsion pénale
+## Section 2*c* Renvoi en présence d’une expulsion pénale
 
 [^sec2c-1]
 
@@ -945,7 +991,7 @@ Les personnes admises à titre provisoire depuis trois ans ou plus au moment de 
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> octobre 1999.
 
-## Dispositions finales de la modification du 24 mars 2004****
+## Dispositions finales de la modification du 24 mars 2004
 
 [^u1-1]
 
@@ -957,7 +1003,7 @@ La présente ordonnance entre en vigueur le 1<sup>er</sup> octobre 1999.
 
 [^u1-2]: [RS **1** 113; [RO 1949 225](https://fedlex.data.admin.ch/eli/oc/1949/221_225_225), [1987 1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665), [1988 332](https://fedlex.data.admin.ch/eli/oc/1988/332_332_332), [1990 1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)art. 3 al. 2, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)ch. II 11 [1034](https://fedlex.data.admin.ch/eli/oc/1991/1034_1034_1034)ch. III, [1995 146](https://fedlex.data.admin.ch/eli/oc/1995/146_146_146), [1999 1111](https://fedlex.data.admin.ch/eli/oc/1999/148)[2253](https://fedlex.data.admin.ch/eli/oc/1999/356)[2262](https://fedlex.data.admin.ch/eli/oc/1999/358)annexe ch. 1, [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)ch. IV 2, [2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139)ch. I 1 [701](https://fedlex.data.admin.ch/eli/oc/2002/140)ch. I 1 [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)annexe ch. 3, [2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)annexe ch. II 2, [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)ch. I 1 [4655](https://fedlex.data.admin.ch/eli/oc/2004/715)ch. I 1, [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)annexe ch. 2, [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)art. 2 ch. 1 [1931](https://fedlex.data.admin.ch/eli/oc/2006/301)art. 18 ch. 1 [2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 3 [3459](https://fedlex.data.admin.ch/eli/oc/2006/549)annexe ch. 1 [4745](https://fedlex.data.admin.ch/eli/oc/2006/727)annexe ch. 1, [2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71)annexe ch. 1. [RO 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758)annexe ch. I]. Voir actuellement la LF du 16 déc. 2005 sur les étrangers et l’intégration ([RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)).
 
-## Dispositions finales de la modification du 1<sup>er</sup> mars 2006****
+## Dispositions finales de la modification du 1<sup>er</sup> mars 2006
 
 [^u2-1]
 
@@ -969,7 +1015,7 @@ La présente ordonnance entre en vigueur le 1<sup>er</sup> octobre 1999.
 
 [^u2-2]: [RO 2004 1649](https://fedlex.data.admin.ch/eli/oc/2004/201)
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 12, al. 2)
 
@@ -1519,7 +1565,7 @@ Unités organisationnelles:
 
 [^annex1-lvlu1-lvlu2-1]: [RS 142.312](https://fedlex.data.admin.ch/eli/cc/1999/360)
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 (art. 18)
 
@@ -1550,7 +1596,7 @@ Annexe 2*[^t-2]*
 <tr><td>Kosovo</td><td></td></tr>
 </table>
 
-Annexe 3*[^t-3]*
+Annexe 3[^t-3]
 
 (art. 26*c*, al. 2)
 

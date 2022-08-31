@@ -4,11 +4,11 @@ title: "Ordinanza dell' 11 agosto 1999 concernente l'esecuzione dell'allontaname
 short: OEAE
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/357"
 language: it
-version: 2022-05-01
+version: 2022-09-01
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/357/20220501/it/xml/fedlex-data-admin-ch-eli-cc-1999-357-20220501-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/357/20220501/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/357/20220901/it/xml/fedlex-data-admin-ch-eli-cc-1999-357-20220901-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/357/20220901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/357/20220501/it"
 
 (OEAE)
 
-dell’11 agosto 1999 (Stato 1° maggio 2022)
+dell’11 agosto 1999 (Stato 1° settembre 2022) (Stato 1° settembre 2022)
 
 Il Consiglio federale svizzero,
 
@@ -31,7 +31,7 @@ ordina:
 [^ingress-4]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 [^ingress-5]: Nuovo testo giusta il n. I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5567](https://fedlex.data.admin.ch/eli/oc/2007/764)).
 
-## Sezione 1: Aiuto all’esecuzione****
+## Sezione 1: Aiuto all’esecuzione
 
 [^sec1-1]
 
@@ -43,9 +43,11 @@ ordina:
 
 ### (art. 71 LStrI)
 
-La Segreteria di Stato della migrazione (SEM) fornisce ai Cantoni un aiuto all’esecuzione dell’allontanamento, dell’espulsione ai sensi della LStrI (espulsione) e dell’espulsione ai sensi dell’articolo 66*a* o 66*a*<sup>bis</sup> del Codice penale[^1-2] oppure dell’articolo 49*a* o 49*a*<sup>bis</sup> del Codice penale militare del 13 giugno 1927[^1-3] (espulsione giudiziaria).
+<sup>1</sup> La Segreteria di Stato della migrazione (SEM) fornisce ai Cantoni un aiuto all’esecuzione dell’allontanamento, dell’espulsione ai sensi della LStrI (espulsione) e dell’espulsione ai sensi dell’articolo 66*a* o 66*a*<sup>bis</sup> del Codice penale[^1-2] oppure dell’articolo 49*a* o 49*a*<sup>bis</sup> del Codice penale militare del 13 giugno 1927[^1-3] (espulsione giudiziaria).
 
-[^1-1]: Nuovo testo giusta il n. I 3 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+<sup>2</sup> Nell’adempimento dei propri compiti secondo l’articolo 71 capoverso 1 LStrI, in particolare per quanto riguarda i compiti di cui all’articolo 71 capoverso 1 lettere a e b LStrI, la SEM può collaborare con l’Agenzia europea della guardia di frontiera e costiera (Agenzia).
+
+[^1-1]: Nuovo testo giusta il n. I dell’O del 29 giu. 2022, in vigore dal 1° set. 2022 ([RU 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
 [^1-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^1-3]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
 
@@ -325,7 +327,7 @@ I Cantoni rimborsano alla SEM le spese di esecuzione e di partenza da essa soste
 [^15-1]: Nuovo testo giusta il n. I dell’O del 26 mar. 2014, in vigore dal 1° feb. 2014 ([RU 2014 865](https://fedlex.data.admin.ch/eli/oc/2014/183)).
 [^15-2]: Abrogato dal n. I dell’O dell’8 giu. 2018, con effetto dal 1° mar. 2019 ([RU 2018 2849](https://fedlex.data.admin.ch/eli/oc/2018/437)).
 
-## Sezione 1*a*:**** Rilevamento di dati nell’ambito delle misure coercitive
+## Sezione 1*a*: Rilevamento di dati nell’ambito delle misure coercitive
 
 [^sec1a-1]
 
@@ -368,64 +370,83 @@ Le autorità cantonali competenti comunicano alla SEM i seguenti dati in merito 
 
 <sup>1</sup>
 
-Nel quadro di interventi internazionali di rimpatrio, la SEM è competente per la direzione operativa nel quadro della cooperazione con l’Agenzia dell’Unione europea responsabile della sorveglianza delle frontiere esterne Schengen (Agenzia). In questo contesto consulta e informa l’Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^15b-2]. Adempie segnatamente i compiti seguenti:
+Nel quadro di interventi internazionali di rimpatrio, la SEM è responsabile della cooperazione operativa con l’Agenzia. In questo contesto consulta e informa l’Ufficio federale della dogana e della sicurezza dei confini (UDSC) e adempie segnatamente i compiti seguenti:
 
 - a. è il servizio nazionale di coordinamento per la partecipazione della Svizzera agli interventi internazionali di rimpatrio;
-- b. è competente per l’attuazione delle decisioni del consiglio d’amministrazione o del direttore esecutivo dell’Agenzia riguardanti gli interventi internazionali di rimpatrio.
+- b. è competente per l’attuazione delle decisioni del consiglio d’amministrazione o del direttore esecutivo dell’Agenzia riguardanti il rimpatrio.
 
-<sup>2</sup> Per gli scopi di cui al capoverso 1 lettera b, la SEM può concludere con l’Agenzia convenzioni di sovvenzione di portata limitata o altre convenzioni in vista del distaccamento da parte svizzera di specialisti in materia di rimpatrio, osservatori del rimpatrio forzato e agenti di scorta di polizia.
+<sup>2</sup>
+
+La SEM può concludere con l’Agenzia convenzioni di sovvenzione di portata limitata o altre convenzioni di portata limitata in vista:
+
+- a. del distaccamento di personale svizzero, in particolare di specialisti in materia di rimpatrio, osservatori del rimpatrio forzato e agenti di scorta di polizia;
+- b. dello svolgimento di voli internazionali nei Paesi d’origine o provenienza.
 
 [^sec1abis-1]: Introdotto dal n. I dell’O del 15 ago. 2018, in vigore dal 15 set. 2018 ([RU 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
-[^15b-1]: Introdotto dal n. I dell’O del 24 mar. 2004 ([RU 2004 1649](https://fedlex.data.admin.ch/eli/oc/2004/201)). Nuovo testo giusta il n. I dell’O del 15 ago. 2018, in vigore dal 15 set. 2018 ([RU 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
-[^15b-2]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali (RS **170.512.1**), con effetto dal 1° gen. 2022 (RU **2021** 589). Di detta mod. è tenuto conto in tutto il presente testo.
+[^15b-1]: Introdotto dal n. I dell’O del 24 mar. 2004 ([RU 2004 1649](https://fedlex.data.admin.ch/eli/oc/2004/201)). Nuovo testo giusta il n. I dell’O del 29 giu. 2022, in vigore dal 1° set. 2022 ([RU 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
 
 #### Art. 15b<sup>bis</sup>
 
 **Impieghi all’estero**[^15bbis-1]
 
-<sup>1</sup> In previsione dell’impiego di personale svizzero all’estero la SEM, d’intesa con i Cantoni e con le organizzazioni che mettono a disposizione gli osservatori del rimpatrio forzato, garantisce che sia disponibile il personale necessario per i diversi pool.
+<sup>1</sup> In previsione dell’impiego di personale svizzero all’estero la SEM, d’intesa con i Cantoni e con le organizzazioni che mettono a disposizione gli osservatori del rimpatrio forzato, garantisce che sia disponibile il personale necessario.
 
-<sup>2</sup> Se in virtù degli articoli 29 paragrafo 3, 30 paragrafo 3 e 31 paragrafo 3 del regolamento (UE) 2016/1624[^15bbis-2] l’Agenzia chiede il distaccamento all’estero di specialisti in materia di rimpatrio della SEM, agenti di scorta di polizia dei Cantoni od osservatori del rimpatrio forzato, in presenza di una situazione eccezionale in Svizzera la SEM può di rigettare la richiesta.
+<sup>2</sup> Il personale necessario è composto segnatamente da specialisti in materia di rimpatrio della SEM, agenti di scorta di polizia dei Cantoni od osservatori del rimpatrio forzato.
 
-[^15bbis-1]: Introdotto dal n. I dell’O del 15 ago. 2018, in vigore dal 15 set. 2018 ([RU 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
-[^15bbis-2]: Regolamento (UE) 2016/1624 del Parlamento europeo e del Consiglio, del 14 sett. 2016, relativo alla guardia di frontiera e costiera europea e che modifica il regolamento (UE) 2016/399 del Parlamento europeo e del Consiglio e abroga il regolamento (CE) n. 863/2007 del Parlamento europeo e del Consiglio, il regolamento (CE) n. 2007/2004 del Consiglio e la decisione 2005/267/CE del Consiglio, GU L 251 del 16.9.2016, pag. 1.
+<sup>3</sup> Ad eccezione degli osservatori del rimpatrio forzato, il personale di cui al capoverso 2 è messo a disposizione per distaccamenti a lungo termine o impieghi di breve durata secondo gli articoli 56 e 57 del regolamento (UE) 2019/1896[^15bbis-2].
+
+<sup>4</sup> La SEM può respingere una domanda di distaccamento di specialisti in materia di rimpatrio, osservatori del rimpatrio forzato e agenti di scorta di polizia nei casi previsti dall’articolo 51 paragrafo 3 e dall’articolo 57 paragrafo 9 del regolamento (UE) 2019/1896.
+
+[^15bbis-1]: Introdotto dal n. I dell’O del 15 ago. 2018 ([RU 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)). Nuovo testo giusta il n. I dell’O del 29 giu. 2022, in vigore dal 1° set. 2022 ([RU 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
+[^15bbis-2]: Regolamento (UE) 2019/1896 del Parlamento europeo e del Consiglio del 13 novembre 2019 relativo alla guardia di frontiera e costiera europea e che abroga i regolamenti (UE) n. 1052/2013 e (UE) 2016/1624, versione della GU L 295 del 14.11.2019, pag. 1.
 
 #### Art. 15c
 
 **Specialisti in materia di rimpatrio della SEM**[^15c-1]
 
-<sup>1</sup> La SEM gestisce una riserva di collaboratori composta di specialisti in materia di rimpatrio formati e perfezionati ad hoc per partecipare agli interventi internazionali di rimpatrio in virtù del regolamento (UE) 2016/1624[^15c-2].
+<sup>1</sup> La SEM dispone di un gruppo di collaboratori composto da specialisti in materia di rimpatrio formati e perfezionati dall’Agenzia secondo l’articolo 62 del regolamento (UE) 2019/1896[^15c-2] per partecipare agli interventi internazionali di rimpatrio.[^15c-3]
 
 <sup>2</sup> Le modalità del distaccamento degli specialisti in materia di rimpatrio sono stabilite nel quadro di accordi individuali tra gli specialisti e la SEM.
 
 [^15c-1]: Introdotto dal n. I dell’O del 24 mar. 2004 ([RU 2004 1649](https://fedlex.data.admin.ch/eli/oc/2004/201)). Nuovo testo giusta il n. I dell’O del 15 ago. 2018, in vigore dal 15 set. 2018 ([RU 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
-[^15c-2]: Vedi nota a piè di pagina relativa all’art. 15*b*<sup>bis</sup> cpv. 2.
+[^15c-2]: Cfr. nota a piè di pagina relativa all’art. 15*b*<sup>bis</sup> cpv. 3.
+[^15c-3]: Nuovo testo giusta il n. I dell’O del 29 giu. 2022, in vigore dal 1° set. 2022 ([RU 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
 
 #### Art. 15d
 
 **Agenti di scorta di polizia dei Cantoni**[^15d-1]
 
-<sup>1</sup> In virtù delle convenzioni del DFGP con i Cantoni di cui all’articolo 71*a* capoverso 3 LStrI, i Cantoni, previa intesa con la SEM, mettono a disposizione agenti di scorta di polizia per gli interventi internazionali di rimpatrio.
+<sup>1</sup> I Cantoni, previa intesa con la SEM, mettono a disposizione agenti di scorta di polizia per gli interventi internazionali di rimpatrio.
 
-<sup>2</sup> Le modalità del distaccamento degli agenti di scorta di polizia sono stabilite nel quadro di accordi individuali tra gli agenti di scorta e i Cantoni che ne hanno la responsabilità.
+<sup>2</sup> Le modalità del distaccamento degli agenti di scorta di polizia sono disciplinate nel quadro di accordi individuali tra gli agenti di scorta e i Cantoni che ne hanno la responsabilità.
 
-<sup>3</sup> Per ogni agente di scorta di polizia messo a disposizione dai Cantoni la Confederazione versa un’indennità forfettaria giornaliera di 300 franchi.
+<sup>3</sup> Ai fini degli interventi internazionali di rimpatrio, il personale distaccato è formato e perfezionato dall’Agenzia secondo l’articolo 62 del regolamento (UE) 2019/1896[^15d-2].
 
-<sup>4</sup> Per i capisquadra versa un’indennità forfettaria giornaliera di 400 franchi.
+<sup>4</sup> Per ogni agente di scorta di polizia messo a disposizione dai Cantoni per impieghi di breve durata, la Confederazione versa un’indennità forfettaria giornaliera di 600 franchi per l’intera durata dell’impiego.
 
-[^15d-1]: Introdotto dal n. I dell’O del 24 mar. 2004 ([RU 2004 1649](https://fedlex.data.admin.ch/eli/oc/2004/201)). Nuovo testo giusta il n. I dell’O del 15 ago. 2018, in vigore dal 15 set. 2018 e dal 1° mar. 2019 per il cpv. 4 ([RU 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
+<sup>5</sup> Per ogni agente di scorta di polizia messo a disposizione dai Cantoni per distaccamenti a lungo termine, la Confederazione versa un’indennità forfettaria giornaliera di 600 franchi per ogni giorno di lavoro effettivamente prestato.
+
+<sup>6</sup> Con gli importi forfettari di cui ai capoversi 3 e 4 si considerano compensati tutti i costi indennizzabili secondo l’articolo 71*a* capoverso 1 LStrI per gli interventi internazionali di rimpatrio dei Cantoni.
+
+<sup>7</sup> Oltre agli importi forfettari di cui ai capoversi 3 e 4, per distaccamenti a lungo termine e impieghi di breve durata l’Agenzia rimborsa i costi per il personale distaccato in virtù dell’articolo 45 e all’articolo 56 paragrafo 2 del regolamento (UE) 2019/1896.
+
+[^15d-1]: Introdotto dal n. I dell’O del 24 mar. 2004 ([RU 2004 1649](https://fedlex.data.admin.ch/eli/oc/2004/201)). Nuovo testo giusta il n. I dell’O del 29 giu. 2022, in vigore dal 1° set. 2022 ([RU 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
+[^15d-2]: Cfr. nota a piè di pagina relativa all’art. 15*b*<sup>bis</sup> cpv. 3.
 
 #### Art. 15e
 
 **Osservatori del rimpatrio forzato**[^15e-1]
 
-<sup>1</sup> La SEM incarica organizzazioni che mettono a disposizione osservatori del rimpatrio forzato. Distacca queste persone per sorvegliare gli interventi internazionali di rimpatrio.
+<sup>1</sup> La SEM incarica organizzazioni che mettono a disposizione osservatori del rimpatrio forzato. Queste organizzazioni distaccano persone per sorvegliare gli interventi internazionali di rimpatrio.[^15e-2]
 
-<sup>2</sup> I compiti degli osservatori del rimpatrio forzato sono stabiliti dall’Agenzia.
+<sup>2</sup> L’Agenzia stabilisce i compiti degli osservatori del rimpatrio forzato ed è responsabile per la loro formazione e il loro perfezionamento ai sensi dell’articolo 62 del regolamento (UE) 2019/1896[^15e-3].[^15e-4]
 
 <sup>3</sup> La SEM conclude accordi individuali con le organizzazioni di cui all’articolo 71*a*<sup>bis</sup> capoverso 2 LStrI. Gli accordi disciplinano le altre modalità del distaccamento degli osservatori del rimpatrio forzato. Gli articoli 15*g*–15*i* si applicano per analogia.
 
 [^15e-1]: Introdotto dal n. I 2 dell’O dell’8 nov. 2006 concernente la modifica di ordinanze nel contesto della messa in vigore parziale delle modifiche del 16 dic. 2005 della L sull’asilo, della L sull’assicurazione malattie e della L sull’assicurazione per la vecchiaia e per i superstiti ([RU 2006 4739](https://fedlex.data.admin.ch/eli/oc/2006/726)). Nuovo testo giusta il n. I dell’O del 15 ago. 2018, in vigore dal 15 set. 2018 ([RU 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
+[^15e-2]: Nuovo testo giusta il n. I dell’O del 29 giu. 2022, in vigore dal 1° set. 2022 ([RU 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
+[^15e-3]: Cfr. nota a piè di pagina relativa all’art. 15*b*<sup>bis</sup> cpv. 3.
+[^15e-4]: Nuovo testo giusta il n. I dell’O del 29 giu. 2022, in vigore dal 1° set. 2022 ([RU 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
 
 #### Art. 15e<sup>bis</sup>
 
@@ -433,16 +454,17 @@ Nel quadro di interventi internazionali di rimpatrio, la SEM è competente per l
 
 <sup>1</sup> La SEM coordina l’impiego di personale svizzero nel quadro di interventi internazionali di rimpatrio. Contestualmente al coordinamento informa l’UDSC in merito al personale messo a disposizione conformemente agli articoli 15*c*–15*e*.
 
-<sup>2</sup> Comunica all’UDSC le informazioni riguardanti gli interventi internazionali di rimpatrio conformemente all’articolo 3*c* capoverso 3 dell’ordinanza del 26 agosto 2009[^15ebis-2] sulla cooperazione operativa con gli altri Stati Schengen in materia di protezione delle frontiere esterne dello spazio Schengen.
+<sup>2</sup> La SEM comunica all’Agenzia le informazioni riguardanti gli interventi internazionali di rimpatrio conformemente all’articolo 7 capoverso 3 dell’ordinanza del 29 giugno 2022[^15ebis-2] sulla cooperazione internazionale per la sicurezza dei confini (OCISC).[^15ebis-3]
 
 [^15ebis-1]: Introdotto dal n. I dell’O del 15 ago. 2018, in vigore dal 15 set. 2018 ([RU 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
 [^15ebis-2]: [RS 631.062](https://fedlex.data.admin.ch/eli/cc/2022/461)
+[^15ebis-3]: Nuovo testo giusta il n. I dell’O del 29 giu. 2022, in vigore dal 1° set. 2022 ([RU 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
 
 #### Art. 15e<sup>ter</sup>
 
 **Modalità d’intervento di personale estero in Svizzera**[^15eter-1]
 
-<sup>1</sup> In vista dell’intervento di personale estero in Svizzera la SEM presenta all’Agenzia una domanda di distaccamento di squadre d’intervento e partecipa all’elaborazione del piano operativo.
+<sup>1</sup> In vista dell’intervento di personale estero in Svizzera la SEM presenta all’Agenzia una domanda di distaccamento di squadre d’intervento oppure approva una corrispondente domanda dell’Agenzia. La SEM partecipa all’elaborazione del piano operativo.[^15eter-2]
 
 <sup>2</sup> La SEM è responsabile della direzione operativa del personale estero. Quest’ultimo è autorizzato a esercitare attività sovrane soltanto sotto la direzione di personale svizzero.
 
@@ -450,26 +472,41 @@ Nel quadro di interventi internazionali di rimpatrio, la SEM è competente per l
 
 <sup>4</sup> Le competenze del personale estero possono essere revocate in casi motivati.
 
-<sup>5</sup> Per quanto attiene al rapporto di lavoro e alle norme disciplinari, il personale estero soggiace alle disposizioni dello Stato d’origine.
+<sup>5</sup> Per quanto attiene al rapporto di lavoro e alle norme disciplinari, il personale estero soggiace alle disposizioni dello Stato d’origine e il personale dell’Agenzia alle disposizioni di quest’ultima.[^15eter-3]
 
-<sup>6</sup> La Confederazione risponde per i danni causati dal personale estero in Svizzera, conformemente alla legge del 14 marzo 1958[^15eter-2] sulla responsabilità.
+<sup>5bis</sup> In caso di violazioni del piano operativo da parte del personale estero nel quadro dell’impiego, la SEM può riferire all’Agenzia. Ciò vale anche in caso di violazioni del piano operativo connesse ai diritti fondamentali.[^15eter-4]
+
+<sup>6</sup> La Confederazione risponde per i danni causati dal personale estero in Svizzera, conformemente alla legge del 14 marzo 1958[^15eter-5] sulla responsabilità. Se i danni sono stati causati intenzionalmente o per negligenza grave, la Confederazione può esigere dallo Stato d’origine o dall’Agenzia il risarcimento degli importi versati.[^15eter-6]
+
+<sup>7</sup> Il personale estero che commette un reato durante un impiego in Svizzera soggiace al Codice penale[^15eter-7].[^15eter-8]
 
 [^15eter-1]: Introdotto dal n. I dell’O del 15 ago. 2018, in vigore dal 15 set. 2018 ([RU 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
-[^15eter-2]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^15eter-2]: Nuovo testo giusta il n. I dell’O del 29 giu. 2022, in vigore dal 1° set. 2022 ([RU 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
+[^15eter-3]: Nuovo testo giusta il n. I dell’O del 29 giu. 2022, in vigore dal 1° set. 2022 ([RU 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
+[^15eter-4]: Introdotto dal n. I dell’O del 29 giu. 2022, in vigore dal 1° set. 2022 ([RU 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
+[^15eter-5]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^15eter-6]: Nuovo testo giusta il n. I dell’O del 29 giu. 2022, in vigore dal 1° set. 2022 ([RU 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
+[^15eter-7]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^15eter-8]: Introdotto dal n. I dell’O del 29 giu. 2022, in vigore dal 1° set. 2022 ([RU 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
 
 #### Art. 15e<sup>quater</sup>
 
-**Responsabilità per il personale svizzero all’estero**[^15equater-1]
+**Sistema d’informazione e protezione dei dati per il personale estero in Svizzera**[^15equater-1]
 
-<sup>1</sup> Lo Stato ospitante è responsabile dei danni provocati dal personale svizzero all’estero. Se i danni sono stati causati intenzionalmente o per negligenza grave, si applica la legge del 14 marzo 1958[^15equater-2] sulla responsabilità, qualora lo Stato ospitante esiga dalla Svizzera il risarcimento degli importi versati.
+Il personale estero ha gli stessi diritti d’accesso al sistema d’informazione per l’attuazione del ritorno come i collaboratori della SEM impiegati per i compiti corrispondenti conformemente all’articolo 109*h* lettera a LStrI, sempreché ciò sia richiesto dai suoi compiti. L’accesso al sistema d’informazione può avvenire soltanto sotto la direzione del personale svizzero. La SEM provvede affinché il personale estero osservi le prescrizioni svizzere in materia di protezione dei dati e sicurezza informatica.
 
-<sup>2</sup> Il personale svizzero che commette un reato in occasione di un intervento all’estero sottostà al diritto dello Stato ospitante. Se tale Stato rinuncia al perseguimento penale, si applica il Codice penale[^15equater-3].
+[^15equater-1]: Introdotto dal n. I dell’O del 15 ago. 2018 ([RU 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)). Nuovo testo giusta il n. I dell’O del 29 giu. 2022, in vigore dal 1° set. 2022 ([RU 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
 
-[^15equater-1]: Introdotto dal n. I dell’O del 15 ago. 2018, in vigore dal 15 set. 2018 ([RU 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
-[^15equater-2]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
-[^15equater-3]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+#### Art. 15e<sup>quinquies</sup>
 
-## Sezione 1*b*:**** Monitoraggio dei rinvii coatti per via aerea
+**Modalità di impiego del personale svizzero all’estero**[^15equinquies-1]
+
+Al personale svizzero della SEM all’estero si applicano per analogia le disposizioni della sezione 3 dell’OCISC[^15equinquies-2].
+
+[^15equinquies-1]: Introdotto dal n. I dell’O del 29 giu. 2022, in vigore dal 1° set. 2022 ([RU 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
+[^15equinquies-2]: [RS 631.062](https://fedlex.data.admin.ch/eli/cc/2022/461)
+
+## Sezione 1*b*: Monitoraggio dei rinvii coatti per via aerea
 
 [^sec1b-1]
 
@@ -553,7 +590,7 @@ I terzi incaricati possono:
 
 [^15i-1]: Nuovo testo giusta il n. I dell’O del 15 ago. 2018, in vigore dal 15 set. 2018 ([RU 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
 
-## Sezione 1*c*:**** Partecipazione della Confederazione ai costi di costruzione e sistemazione di stabilimenti carcerari cantonali
+## Sezione 1*c*: Partecipazione della Confederazione ai costi di costruzione e sistemazione di stabilimenti carcerari cantonali
 
 [^sec1c-1]
 
@@ -641,7 +678,7 @@ L’UFG può ridurre l’importo da restituire o rinunciare alla restituzione se
 
 [^15o-1]: [RS 341.1](https://fedlex.data.admin.ch/eli/cc/2007/862)
 
-## Sezione 1*d*:**** Valutazione dell’idoneità al trasporto
+## Sezione 1*d*: Valutazione dell’idoneità al trasporto
 
 [^sec1d-1]
 
@@ -818,7 +855,7 @@ La partenza è considerata definitiva ai sensi dell’articolo 84 capoverso 4 LS
 [^26a-6]: [RS 143.5](https://fedlex.data.admin.ch/eli/cc/2012/713)
 [^26a-7]: Nuovo testo giusta il n. I dell’O del 15 ago. 2018, in vigore dal 15 set. 2018 ([RU 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
 
-## Sezione 2*a*:**** Decisione di allontanamento
+## Sezione 2*a*: Decisione di allontanamento
 
 [^sec2a-1]
 
@@ -834,11 +871,20 @@ La partenza è considerata definitiva ai sensi dell’articolo 84 capoverso 4 LS
 
 La decisione di allontanamento contiene:
 
-- a. l’obbligo dello straniero di lasciare la Svizzera;
-- b. la data entro la quale egli deve avere lasciato la Svizzera;
+- a.[^26b-1]
+
+  fatto salvo l’articolo 2 capoversi 2 e 3 LStrI, l’obbligo dello straniero:
+
+  - 1\. di lasciare la Svizzera e lo spazio Schengen, nonché
+  - 2\. di recarsi nello Stato d’origine o in un altro Stato non appartenente allo spazio Schengen disposto ad ammettere l’interessato;
+
+- b.[^26b-2] la data entro la quale egli deve avere lasciato la Svizzera nonché lo spazio Schengen;
 - c. i mezzi coercitivi in caso d’inadempienza.
 
 <sup>2</sup> La decisione di allontanamento deve essere motivata e prevedere un rimedio giuridico.
+
+[^26b-1]: Nuovo testo giusta il n. I dell’O del 29 giu. 2022, in vigore dal 1° set. 2022 ([RU 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
+[^26b-2]: Nuovo testo giusta il n. I dell’O del 29 giu. 2022, in vigore dal 1° set. 2022 ([RU 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
 
 #### Art. 26c
 
@@ -870,7 +916,7 @@ La SEM mette a disposizione dei servizi competenti i necessari moduli standard.
 
 <sup>3</sup> La SEM mette i fogli informativi a disposizione delle autorità competenti.
 
-## Sezione 2*b*:**** Esecuzione a tappe dell’allontanamento o dell’espulsione
+## Sezione 2*b*: Esecuzione a tappe dell’allontanamento o dell’espulsione
 
 [^sec2b-1]
 
@@ -884,7 +930,7 @@ La SEM mette a disposizione dei servizi competenti i necessari moduli standard.
 
 <sup>3</sup> I capoversi 1 e 2 sono applicabili per analogia alle unioni domestiche registrate.
 
-## Sezione 2*c*:**** Allontanamento in presenza di un’espulsione giudiziaria
+## Sezione 2*c*: Allontanamento in presenza di un’espulsione giudiziaria
 
 [^sec2c-1]
 
@@ -942,7 +988,7 @@ Le persone che all’entrata in vigore della presente modifica d’ordinanza son
 
 La presente ordinanza entra in vigore il 1° ottobre 1999.
 
-## Disposizioni finali della modifica del 24 marzo 2004****
+## Disposizioni finali della modifica del 24 marzo 2004
 
 [^u1-1]
 
@@ -952,9 +998,9 @@ La presente ordinanza entra in vigore il 1° ottobre 1999.
 
 <sup>2</sup> La Confederazione versa ai Cantoni un’indennità per l’esecuzione dell’allontanamento secondo l’articolo 15*c* della presente ordinanza per persone oggetto di una decisione di non entrata nel merito giusta gli articoli 32–34 e di una decisione di allontanamento ai sensi dell’articolo 44 della legge sull’asilo del 26 giugno 1998 passate in giudicato prima dell’entrata in vigore della presente ordinanza. L’indennità forfetaria è versata soltanto se l’allontanamento è avvenuto entro nove mesi dall’entrata in vigore della presente ordinanza. Non è versata l’indennità per l’esecuzione dell’allontanamento alle persone per le quali la Confederazione ha garantito ai Cantoni il rimborso delle spese d’aiuto sociale secondo l’articolo 88 capoverso 1 lettera a LAsi nell’ambito del sostegno all’esecuzione conformemente all’articolo 22*a* della legge federale del 26 marzo 1931[^u1-2] concernente la dimora e il domicilio degli stranieri.
 
-[^u1-2]: [CS **1** 117; [RU 1949 225](https://fedlex.data.admin.ch/eli/oc/1949/221_225_225), [1987 1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665), [1988 332](https://fedlex.data.admin.ch/eli/oc/1988/332_332_332), [1990 1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)art. 3 cpv. 2, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)n. II 11 [1034](https://fedlex.data.admin.ch/eli/oc/1991/1034_1034_1034)n. III, [1995 146](https://fedlex.data.admin.ch/eli/oc/1995/146_146_146), [1999 1111](https://fedlex.data.admin.ch/eli/oc/1999/148)[2253](https://fedlex.data.admin.ch/eli/oc/1999/356)[2262](https://fedlex.data.admin.ch/eli/oc/1999/358)all. n. 1, [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)n. IV 2, [2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139)n. I 1 [701](https://fedlex.data.admin.ch/eli/oc/2002/140)n. I 1 [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)all. n. 3, [2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)all. n. II 2, [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)n. I 1 [4655](https://fedlex.data.admin.ch/eli/oc/2004/715)n. I 1, [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)all. n. 2, [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)art. 2 n. 1 [1931](https://fedlex.data.admin.ch/eli/oc/2006/301)art. 18 n. 1 [2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 3 [3459](https://fedlex.data.admin.ch/eli/oc/2006/549)all. n. 1 [4745](https://fedlex.data.admin.ch/eli/oc/2006/727)all. n. 1, [2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71)all. n. 1. [RU 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758)all. n. I]. Vedi ora: la LF del 16 dic. 2005 sugli stranieri e la loro integrazione ([RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)).
+[^u1-2]: [CS **1** 117; [RU 1949 225](https://fedlex.data.admin.ch/eli/oc/1949/221_225_225); [1987 1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665); [1988 332](https://fedlex.data.admin.ch/eli/oc/1988/332_332_332); [1990 1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)art. 3 cpv. 2; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)n. II 11, [1034](https://fedlex.data.admin.ch/eli/oc/1991/1034_1034_1034)n. III; [1995 146](https://fedlex.data.admin.ch/eli/oc/1995/146_146_146); [1999 1111](https://fedlex.data.admin.ch/eli/oc/1999/148), [2253](https://fedlex.data.admin.ch/eli/oc/1999/356), [2262](https://fedlex.data.admin.ch/eli/oc/1999/358)all. n. 1; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)n. IV 2; [2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139)n. I 1, [701](https://fedlex.data.admin.ch/eli/oc/2002/140)n. I 1, [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)all. n. 3; [2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)all. n. II 2; [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)n. I 1, [4655](https://fedlex.data.admin.ch/eli/oc/2004/715)n. I 1; [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)all. n. 2; [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)art. 2 n. 1, [1931](https://fedlex.data.admin.ch/eli/oc/2006/301)art. 18 n. 1, [2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 3, [3459](https://fedlex.data.admin.ch/eli/oc/2006/549)all. n. 1, [4745](https://fedlex.data.admin.ch/eli/oc/2006/727)all. n. 1; [2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71)all. n. 1. [RU 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758)all. n. I]. Vedi ora: la LF del 16 dic. 2005 sugli stranieri e la loro integrazione ([RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)).
 
-## Disposizioni finali della modifica del 1° marzo 2006****
+## Disposizioni finali della modifica del 1° marzo 2006
 
 [^u2-1]
 
@@ -966,7 +1012,7 @@ La presente ordinanza entra in vigore il 1° ottobre 1999.
 
 [^u2-2]: [RU 2004 1649](https://fedlex.data.admin.ch/eli/oc/2004/201)
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 12 cpv. 2)
 
@@ -999,6 +1045,7 @@ Unità organizzative:
 - – V: Settore Scambio di dati e identificazione
 - – VI: Settore Acquisizione e gestione dei dati
 - – VII: Settore Analisi linguistiche
+- [tab]
 
 ### Catalogo dei dati eRetour
 
@@ -1516,9 +1563,11 @@ Unità organizzative:
 <tr><td>Dati di riferimento</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
+- [tab]
+
 [^annex1-lvlu1-lvlu1-lvlu1-1]: [RS 142.312](https://fedlex.data.admin.ch/eli/cc/1999/360)
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 (art. 18)
 
@@ -1549,7 +1598,7 @@ Allegato 2*[^t-2]*
 <tr><td>Liechtenstein</td><td></td></tr>
 </table>
 
-Allegato 3*[^t-3]*
+Allegato 3[^t-3]
 
 (art. 26*c* cpv. 2)
 
@@ -1564,7 +1613,7 @@ Gli accordi di associazione a Schengen comprendono gli accordi seguenti:
 - c. Convenzione del 22 settembre 2011[^annex3-lvlu1-3] tra l’Unione europea e la Repubblica d’Islanda, il Principato del Liechtenstein, il Regno di Norvegia e la Confederazione Svizzera sulla partecipazione di tali Stati ai lavori dei comitati che assistono la Commissione europea nell’esercizio dei suoi poteri esecutivi per quanto riguarda l’attuazione, l’applicazione e lo sviluppo dell’acquis di Schengen;
 - d. Accordo del 17 dicembre 2004[^annex3-lvlu1-4] tra la Confederazione Svizzera, la Repubblica d’Islanda e il Regno di Norvegia sull’attuazione, l’applicazione e lo sviluppo dell’acquis di Schengen nonché sui criteri e i meccanismi per determinare lo Stato competente per l’esame di una domanda di asilo presentata in Svizzera, in Islanda o in Norvegia;
 - e. Accordo del 28 aprile 2005[^annex3-lvlu1-5] tra la Confederazione Svizzera e il Regno di Danimarca sull’attuazione, l’applicazione e lo sviluppo delle parti dell’acquis di Schengen basate sulle disposizioni del titolo IV del Trattato che istituisce la Comunità europea;
-- f. Protocollo del 28 febbraio 2008[^annex3-lvlu1-6] tra la Confederazione Svizzera, l’Unione europea, la Comunità europea e il Principato del Liechtenstein sull’adesione del Principato del Liechtenstein all’accordo tra la Confederazione Svizzera, l’Unione europea e la Comunità europea, riguardante l’associazione della Confederazione Svizzera all’attuazione, all’applicazione e allo sviluppo dell’acquis di Schengen.
+- f. Protocollo del 28 febbraio 2008[^annex3-lvlu1-6] tra la Confederazion (Stato 1° settembre 2022) e Svizzera, l’Unione europea, la Comunità europea e il Principato del Liechtenstein sull’adesione del Principato del Liechtenstein all’accordo tra la Confederazione Svizzera, l’Unione europea e la Comunità europea, riguardante l’associazione della Confederazione Svizzera all’attuazione, all’applicazione e allo sviluppo dell’acquis di Schengen.
 
 [^annex3-lvlu1-1]: [RS 0.362.31](https://fedlex.data.admin.ch/eli/cc/2008/113)
 [^annex3-lvlu1-2]: [RS 0.362.1](https://fedlex.data.admin.ch/eli/cc/2008/117)

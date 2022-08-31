@@ -4,20 +4,20 @@ title: Verordnung vom 11. August 1999 über den Vollzug der Weg- und Ausweisung 
 short: VVWAL
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/357"
 language: de
-version: 2022-05-01
+version: 2022-09-01
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/357/20220501/de/xml/fedlex-data-admin-ch-eli-cc-1999-357-20220501-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/357/20220501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/357/20220901/de/xml/fedlex-data-admin-ch-eli-cc-1999-357-20220901-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/357/20220901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Verordnung über den Vollzug der Weg- und Ausweisung sowie der Landesverweisung von ausländischen Personen****
+# Verordnung über den Vollzug der Weg- und Ausweisung sowie der Landesverweisung von ausländischen Personen
 
-(VVWAL)**[^t-2]**[^t-1]
+(VVWAL)[^t-2][^t-1]
 
-vom 11. August 1999 (Stand am 1. Mai 2022)
+vom 11. August 1999 (Stand am 1. September 2022)
 
 [^t-1]: Fassung gemäss Ziff. I 3 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung, in Kraft seit 1. März 2017 ([AS 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
 [^t-2]: Fassung gemäss Ziff. I 3 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung, in Kraft seit 1. März 2017 ([AS 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
@@ -34,7 +34,7 @@ verordnet:
 [^ingress-4]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 [^ingress-5]: Fassung gemäss Ziff. I der V vom 24. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5567](https://fedlex.data.admin.ch/eli/oc/2007/764)).
 
-## 1. Abschnitt: Vollzugsunterstützung****
+## 1. Abschnitt: Vollzugsunterstützung
 
 [^sec1-1]
 
@@ -46,9 +46,11 @@ verordnet:
 
 ### (Art. 71 AIG)
 
-Das Staatssekretariat für Migration (SEM) leistet den Kantonen Unterstützung beim Vollzug der Weg- und Ausweisung sowie der Landesverweisung nach Artikel 66*a* oder 66*a*<sup>bis</sup> des Strafgesetzbuchs[^1-2] oder Artikel 49*a* oder 49*a*<sup>bis</sup> des Militärstrafgesetzes vom 13. Juni 1927[^1-3].
+<sup>1</sup> Das Staatssekretariat für Migration (SEM) leistet den Kantonen Unterstützung beim Vollzug der Weg- und Ausweisung sowie der Landesverweisung nach Artikel 66*a* oder 66*a*<sup>bis</sup> des Strafgesetzbuchs[^1-2] oder Artikel 49*a* oder 49*a*<sup>bis</sup> des Militärstrafgesetzes vom 13. Juni 1927[^1-3].
 
-[^1-1]: Fassung gemäss Ziff. I 3 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung, in Kraft seit 1. März 2017 ([AS 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+<sup>2</sup> Das SEM kann bei der Erfüllung der Aufgaben nach Artikel 71 Absatz 1 AIG, insbesondere der Aufgaben nach Absatz 1 Buchstaben a und b, mit der Europäischen Agentur für die Grenz- und Küstenwache (Agentur) zusammenarbeiten.
+
+[^1-1]: Fassung gemäss Ziff. I der V vom 29. Juni 2022, in Kraft seit 1. Sept. 2022 ([AS 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
 [^1-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^1-3]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
 
@@ -329,7 +331,7 @@ Die Kantone erstatten dem SEM die Vollzugs- und Ausreisekosten zurück, die bei 
 [^15-1]: Fassung gemäss Ziff. I der V vom 26. März 2014, in Kraft seit 1. Febr. 2014 ([AS 2014 865](https://fedlex.data.admin.ch/eli/oc/2014/183)).
 [^15-2]: Aufgehoben durch Ziff. I der V vom 8. Juni 2018, mit Wirkung seit 1. März 2019 ([AS 2018 2849](https://fedlex.data.admin.ch/eli/oc/2018/437)).
 
-## 1*a*. Abschnitt:**** Datenerhebung im Bereich der Zwangsmassnahmen
+## 1*a*. Abschnitt: Datenerhebung im Bereich der Zwangsmassnahmen
 
 [^sec1a-1]
 
@@ -372,64 +374,83 @@ Die zuständigen kantonalen Behörden übermitteln dem SEM folgende Daten über 
 
 <sup>1</sup>
 
-Bei internationalen Rückführungseinsätzen ist das SEM zuständig für die operative Führung im Rahmen der Zusammenarbeit mit der für die Überwachung der Schengen-Aussengrenzen zuständigen Agentur der Europäischen Union (Agentur). Es konsultiert und informiert das Bundesamt für Zoll und Grenzsicherheit (BAZG)[^15b-2] dabei. Es nimmt insbesondere die folgenden Aufgaben wahr:
+Das SEM ist bei internationalen Rückführungseinsätzen für die operative Zusammenarbeit mit der Agentur verantwortlich. Es konsultiert und informiert dabei das Bundesamt für Zoll und Grenzsicherheit (BAZG) und nimmt insbesondere die folgenden Aufgaben wahr:
 
 - a. Es ist die nationale Koordinationsstelle für die Teilnahme der Schweiz an internationalen Rückführungseinsätzen.
-- b. Es ist zuständig für die Umsetzung von Beschlüssen des Verwaltungsrates oder der Exekutivdirektorin oder des Exekutivdirektors der Agentur bezüglich internationaler Rückführungseinsätze.
+- b. Es ist zuständig für die Umsetzung von Beschlüssen des Verwaltungsrates oder der Exekutivdirektorin oder des Exekutivdirektors der Agentur bezüglich Rückkehr.
 
-<sup>2</sup> Für die Zwecke nach Absatz 1 Buchstabe b kann das SEM mit der Agentur Finanzhilfevereinbarungen von beschränkter Tragweite oder andere Vereinbarungen im Hinblick auf die Entsendung von Schweizer Rückkehrspezialistinnen und ‑spezialisten, Rückkehrbeobachterinnen und -beobachtern und polizeilichen Begleitpersonen abschliessen.
+<sup>2</sup>
+
+Das SEM kann mit der Agentur Finanzhilfevereinbarungen von beschränkter Tragweite oder andere Vereinbarungen von beschränkter Tragweite abschliessen im Hinblick auf:
+
+- a. die Entsendung von schweizerischem Personal, namentlich Rückkehrspezialistinnen und ‑spezialisten, Rückkehrbeobachterinnen und ‑beobachtern und polizeilichen Begleitpersonen;
+- b. die Durchführung von internationalen Flügen in die Heimat- oder Herkunftsstaaten.
 
 [^sec1abis-1]: Eingefügt durch Ziff. I der V vom 15. Aug. 2018, in Kraft seit 15. Sept. 2018 ([AS 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
-[^15b-1]: Eingefügt durch Ziff. I der V vom 24. März 2004 ([AS 2004 1649](https://fedlex.data.admin.ch/eli/oc/2004/201)). Fassung gemäss Ziff. I der V vom 15. Aug. 2018, in Kraft seit 15. Sept. 2018 ([AS 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
-[^15b-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
+[^15b-1]: Eingefügt durch Ziff. I der V vom 24. März 2004 ([AS 2004 1649](https://fedlex.data.admin.ch/eli/oc/2004/201)). Fassung gemäss Ziff. I der V vom 29. Juni 2022, in Kraft seit 1. Sept. 2022 ([AS 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
 
 #### Art. 15b<sup>bis</sup>
 
 **Einsätze im Ausland**[^15bbis-1]
 
-<sup>1</sup> Im Hinblick auf den Einsatz von schweizerischem Personal im Ausland stellt das SEM in Absprache mit den Kantonen sowie mit den Organisationen, die Rückkehrbeobachterinnen und -beobachter bereitstellen, sicher, dass die notwendigen Personen für die jeweiligen Pools zur Verfügung stehen.
+<sup>1</sup> Im Hinblick auf den Einsatz von schweizerischem Personal im Ausland stellt das SEM in Absprache mit den Kantonen sowie mit den Organisationen, die Rückkehrbeobachterinnen und -beobachter bereitstellen, sicher, dass die notwendigen Personen zur Verfügung stehen.
 
-<sup>2</sup> Stellt die Agentur gestützt auf die Artikel 29 Absatz 3, 30 Absatz 3 und 31 Absatz 3 der Verordnung (EU) 2016/1624[^15bbis-2] ein Gesuch um Entsendung von Rückkehrspezialistinnen und -spezialisten des SEM, von polizeilichen Begleitpersonen der Kantone oder von Rückkehrbeobachterinnen und -beobachtern ins Ausland, so kann das SEM dieses ablehnen, wenn eine Ausnahmesituation in der Schweiz besteht.
+<sup>2</sup> Das notwendige Personal setzt sich namentlich aus Rückkehrspezialistinnen und -spezialisten des SEM, polizeilichen Begleitpersonen der Kantone und Rückkehrbeobachterinnen und ‑beobachtern zusammen.
 
-[^15bbis-1]: Eingefügt durch Ziff. I der V vom 15. Aug. 2018, in Kraft seit 15. Sept. 2018 ([AS 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
-[^15bbis-2]: Verordnung (EU) 2016/1624 des Europäischen Parlaments und des Rates vom 14. September 2016 über die Europäische Grenz- und Küstenwache und zur Änderung der Verordnung (EU) 2016/399 des Europäischen Parlaments und des Rates sowie zur Aufhebung der Verordnung (EG) Nr. 863/2007 des Europäischen Parlaments und des Rates, der Verordnung (EG) Nr. 2007/2004 des Rates und der Entscheidung des Rates 2005/267/EG, Fassung gemäss ABl. L 251 vom 16.9.2016, S. 1.
+<sup>3</sup> Mit Ausnahme der Rückkehrbeobachterinnen und -beobachter wird das Personal nach Absatz 2 für langfristige oder kurzfristige Einsätze nach den Artikeln 56 und 57 der Verordnung (EU) 2019/1896[^15bbis-2] bereitgestellt.
+
+<sup>4</sup> Das SEM kann ein Gesuch der Agentur um Entsendung von Rückkehrspezialistinnen und ‑spezialisten, Rückkehrbeobachterinnen und ‑beobachtern und polizeilichen Begleitpersonen in den Fällen nach Artikel 51 Absatz 3 und Artikel 57 Absatz 9 der Verordnung (EU) 2019/1896 ablehnen.
+
+[^15bbis-1]: Eingefügt durch Ziff. I der V vom 15. Aug. 2018 ([AS 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)). Fassung gemäss Ziff. I der V vom 29. Juni 2022, in Kraft seit 1. Sept. 2022 ([AS 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
+[^15bbis-2]: Verordnung (EU) 2019/1896 des Europäischen Parlaments und des Rates vom 13. November 2019 über die Europäische Grenz- und Küstenwache und zur Aufhebung der Verordnung (EU) 1052/2013 des Europäischen Parlaments und des Rates und der Verordnung (EU) 2016/1624 des Europäischen Parlaments und des Rates, Fassung gemäss ABl. L 295 vom 14.11.2019, S. 1.
 
 #### Art. 15c
 
 **Rückkehrspezialistinnen und -spezialisten des SEM**[^15c-1]
 
-<sup>1</sup> Das SEM unterhält einen Mitarbeiterpool mit Rückkehrspezialistinnen und ‑spezialisten, die für internationale Rückführungseinsätze gestützt auf die Verordnung (EU) 2016/1624[^15c-2] speziell aus- und weitergebildet werden.
+<sup>1</sup> Das SEM unterhält einen Mitarbeiterpool mit Rückkehrspezialistinnen und ‑spezialisten, die für internationale Rückführungseinsätze gestützt auf Artikel 62 der Verordnung (EU) 2019/1896[^15c-2] von der Agentur aus- und weitergebildet werden. [^15c-3]
 
 <sup>2</sup> Die Modalitäten zur Entsendung der Rückkehrspezialistinnen und -spezialisten werden in individuellen Vereinbarungen zwischen diesen Personen und dem SEM geregelt.
 
 [^15c-1]: Eingefügt durch Ziff. I der V vom 24. März 2004 ([AS 2004 1649](https://fedlex.data.admin.ch/eli/oc/2004/201)). Fassung gemäss Ziff. I der V vom 15. Aug. 2018, in Kraft seit 15. Sept. 2018 ([AS 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
-[^15c-2]: Siehe Fussnote zu Art. 15*b*<sup>bis</sup> Abs. 2.
+[^15c-2]: Siehe Fussnote zu Art. 15*b*<sup>bis</sup> Abs. 3.
+[^15c-3]: Fassung gemäss Ziff. I der V vom 29. Juni 2022, in Kraft seit 1. Sept. 2022 ([AS 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
 
 #### Art. 15d
 
 **Polizeiliche Begleitpersonen der Kantone**[^15d-1]
 
-<sup>1</sup> Gestützt auf die Vereinbarungen des EJPD mit den Kantonen nach Artikel 71*a* Absatz 3 AIG stellen die Kantone in Absprache mit dem SEM polizeiliche Begleitpersonen für die internationalen Rückführungseinsätze zur Verfügung.
+<sup>1</sup> Die Kantone stellen in Absprache mit dem SEM polizeiliche Begleitpersonen für die internationalen Rückführungseinsätze zur Verfügung.
 
 <sup>2</sup> Die Modalitäten zur Entsendung der polizeilichen Begleitpersonen werden in individuellen Vereinbarungen zwischen diesen Personen und den für sie zuständigen Kantonen geregelt.
 
-<sup>3</sup> Der Bund vergütet den Kantonen für jede polizeiliche Begleitperson, die sie zur Verfügung stellen, eine Pauschale von 300 Franken pro Tag.
+<sup>3</sup> Die entsendeten Personen werden von der Agentur für ihre internationalen Rückführungseinsätze gestützt auf Artikel 62 der Verordnung (EU) 2019/1896[^15d-2] aus- und weitergebildet.
 
-<sup>4</sup> Für die Equipenleiterinnen und -leiter vergütet er eine Pauschale von 400 Franken pro Tag.
+<sup>4</sup> Der Bund vergütet den Kantonen bei kurzfristigen Einsätzen für jede polizeiliche Begleitperson, die sie zur Verfügung stellen, eine Pauschale von 600 Franken pro Tag für die gesamte Einsatzdauer.
 
-[^15d-1]: Eingefügt durch Ziff. I der V vom 24. März 2004 ([AS 2004 1649](https://fedlex.data.admin.ch/eli/oc/2004/201)). Fassung gemäss Ziff. I der V vom 15. Aug. 2018, in Kraft seit 15. Sept. 2018, Abs. 4 in Kraft seit 1. März 2019 ([AS 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
+<sup>5</sup> Bei langfristigen Einsätzen vergütet der Bund den Kantonen für jede polizeiliche Begleitperson, die sie zur Verfügung stellen, eine Pauschale von 600 Franken pro effektiv geleisteten Arbeitstag.
+
+<sup>6</sup> Mit den Pauschalbeiträgen nach den Absätzen 3 und 4 sind sämtliche nach Artikel 71*a* Absatz 1 AIG vergütbaren Kosten für die internationalen Rückführungseinsätze der Kantone abgegolten.
+
+<sup>7</sup> Zusätzlich zu den Pauschalbeiträgen nach den Absätzen 3 und 4 werden für kurz- und langfristige Einsätze die Kosten nach Artikel 45 und Artikel 56 Absatz 2 der Verordnung (EU) 2019/1896 für das entsendete Personal durch die Agentur vergütet.
+
+[^15d-1]: Eingefügt durch Ziff. I der V vom 24. März 2004 ([AS 2004 1649](https://fedlex.data.admin.ch/eli/oc/2004/201)). Fassung gemäss Ziff. I der V vom 29. Juni 2022, in Kraft seit 1. Sept. 2022 ([AS 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
+[^15d-2]: Siehe Fussnote zu Art. 15*b*<sup>bis</sup> Abs. 3.
 
 #### Art. 15e
 
 **Rückkehrbeobachterinnen und -beobachter**[^15e-1]
 
-<sup>1</sup> Das SEM beauftragt Organisationen, die Rückkehrbeobachterinnen und ‑beobachter zur Verfügung stellen. Es entsendet diese Personen, um internationale Rückführungseinsätze zu überwachen.
+<sup>1</sup> Das SEM beauftragt Organisationen, die Rückkehrbeobachterinnen und ‑beobachter zur Verfügung stellen. Diese entsenden Personen, um internationale Rückführungseinsätze zu überwachen.[^15e-2]
 
-<sup>2</sup> Die Aufgaben der Rückkehrbeobachterinnen und -beobachter werden durch die Agentur festgelegt.
+<sup>2</sup> Die Agentur legt die Aufgaben der Rückkehrbeobachterinnen und -beobachter fest und ist für deren Aus- und Weiterbildung gestützt auf Artikel 62 der Verordnung (EU) 2019/1896[^15e-3] zuständig.[^15e-4]
 
 <sup>3</sup> Das SEM schliesst mit den Organisationen gestützt auf Artikel 71*a*<sup>bis</sup> Absatz 2 AIG Vereinbarungen ab. Darin werden die weiteren Modalitäten zur Entsendung der Rückkehrbeobachterinnen und ‑beobachter geregelt. Die Artikel 15*g*–15*i* gelten sinngemäss.
 
 [^15e-1]: Eingefügt durch Ziff. I 2 der V vom 8. Nov. 2006 über die Änd. von V im Zusammenhang mit der teilweisen Inkraftsetzung der Änd. vom 16. Dez. 2005 des AsylG sowie des KVG und des BG über die AHV ([AS 2006 4739](https://fedlex.data.admin.ch/eli/oc/2006/726)). Fassung gemäss Ziff. I der V vom 15. Aug. 2018, in Kraft seit 15. Sept. 2018 ([AS 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
+[^15e-2]: Fassung gemäss Ziff. I der V vom 29. Juni 2022, in Kraft seit 1. Sept. 2022 ([AS 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
+[^15e-3]: Siehe Fussnote zu Art. 15*b*<sup>bis</sup> Abs. 3.
+[^15e-4]: Fassung gemäss Ziff. I der V vom 29. Juni 2022, in Kraft seit 1. Sept. 2022 ([AS 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
 
 #### Art. 15e<sup>bis</sup>
 
@@ -437,16 +458,17 @@ Bei internationalen Rückführungseinsätzen ist das SEM zuständig für die ope
 
 <sup>1</sup> Das SEM koordiniert den Einsatz von schweizerischem Personal im Rahmen von internationalen Rückführungseinsätzen. Im Rahmen dieser Koordination informiert es das BAZG über das zur Verfügung gestellte Personal nach den Artikeln 15*c–*15*e*.
 
-<sup>2</sup> Es übermittelt die Informationen über internationale Rückführungseinsätze nach Artikel 3*c* Absatz 3 der Verordnung vom 26. August 2009[^15ebis-2] über die operative Zusammenarbeit mit den anderen Schengen-Staaten zum Schutz der Aussengrenzen des Schengen-Raums an das BAZG.
+<sup>2</sup> Es übermittelt die Informationen über internationale Rückführungseinsätze nach Artikel 7 Absatz 3 der Verordnung vom 29. Juni 2022[^15ebis-2] über die internationale Zusammenarbeit zur Grenzsicherheit (ViZG) an die Agentur.[^15ebis-3]
 
 [^15ebis-1]: Eingefügt durch Ziff. I der V vom 15. Aug. 2018, in Kraft seit 15. Sept. 2018 ([AS 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
 [^15ebis-2]: [SR 631.062](https://fedlex.data.admin.ch/eli/cc/2022/461)
+[^15ebis-3]: Fassung gemäss Ziff. I der V vom 29. Juni 2022, in Kraft seit 1. Sept. 2022 ([AS 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
 
 #### Art. 15e<sup>ter</sup>
 
 **Einsatzmodalitäten für ausländisches Personal in der Schweiz**[^15eter-1]
 
-<sup>1</sup> Im Hinblick auf einen Einsatz von ausländischem Personal in der Schweiz reicht das SEM bei der Agentur ein Gesuch um Entsendung von Einsatzteams ein und wirkt bei der Ausarbeitung des Einsatzplans mit.
+<sup>1</sup> Im Hinblick auf einen Einsatz von ausländischem Personal in der Schweiz reicht das SEM bei der Agentur ein Gesuch um Entsendung von Einsatzteams ein oder stimmt einem entsprechenden Gesuch der Agentur zu. Das SEM wirkt bei der Ausarbeitung des Einsatzplans mit.[^15eter-2]
 
 <sup>2</sup> Das SEM ist zuständig für die operative Führung des ausländischen Personals. Dieses ist nur unter der Einsatzleitung von schweizerischem Personal zur Vornahme hoheitlicher Tätigkeiten befugt.
 
@@ -454,26 +476,41 @@ Bei internationalen Rückführungseinsätzen ist das SEM zuständig für die ope
 
 <sup>4</sup> Die Befugnisse des ausländischen Personals können in begründeten Fällen entzogen werden.
 
-<sup>5</sup> Das ausländische Personal untersteht in Bezug auf das Arbeitsverhältnis sowie in disziplinarrechtlicher Hinsicht den Vorschriften des Herkunftsstaats.
+<sup>5</sup> Das ausländische Personal untersteht in Bezug auf das Arbeitsverhältnis sowie in disziplinarrechtlicher Hinsicht den Vorschriften des Herkunftsstaats; das Personal der Agentur untersteht in Bezug auf das Arbeitsverhältnis sowie in disziplinarrechtlicher Hinsicht den Vorschriften der Agentur.[^15eter-3]
 
-<sup>6</sup> Der Bund haftet für Schäden, die von ausländischem Personal in der Schweiz verursacht werden, nach dem Verantwortlichkeitsgesetz vom 14. März 1958[^15eter-2].
+<sup>5bis</sup> Das SEM kann der Agentur bei Verstössen gegen den Einsatzplan durch das ausländische Personal in Zusammenhang mit deren Einsatz Bericht erstatten. Dies gilt auch bei Verstössen gegen den Einsatzplan im Zusammenhang mit Grundrechten.[^15eter-4]
+
+<sup>6</sup> Der Bund haftet für Schäden, die von ausländischem Personal in der Schweiz verursacht werden, nach dem Verantwortlichkeitsgesetz vom 14. März 1958[^15eter-5]. Sind die Schäden grobfahrlässig oder vorsätzlich verursacht worden, so kann der Bund vom Herkunftsstaat oder von der Agentur die Rückerstattung der entrichteten Beträge verlangen.[^15eter-6]
+
+<sup>7</sup> Ausländisches Personal, das bei einem Einsatz in der Schweiz eine Straftat begeht, untersteht dem Strafgesetzbuch[^15eter-7].[^15eter-8]
 
 [^15eter-1]: Eingefügt durch Ziff. I der V vom 15. Aug. 2018, in Kraft seit 15. Sept. 2018 ([AS 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
-[^15eter-2]: [SR 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^15eter-2]: Fassung gemäss Ziff. I der V vom 29. Juni 2022, in Kraft seit 1. Sept. 2022 ([AS 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
+[^15eter-3]: Fassung gemäss Ziff. I der V vom 29. Juni 2022, in Kraft seit 1. Sept. 2022 ([AS 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
+[^15eter-4]: Eingefügt durch Ziff. I der V vom 29. Juni 2022, in Kraft seit 1. Sept. 2022 ([AS 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
+[^15eter-5]: [SR 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^15eter-6]: Fassung gemäss Ziff. I der V vom 29. Juni 2022, in Kraft seit 1. Sept. 2022 ([AS 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
+[^15eter-7]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^15eter-8]: Eingefügt durch Ziff. I der V vom 29. Juni 2022, in Kraft seit 1. Sept. 2022 ([AS 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
 
 #### Art. 15e<sup>quater</sup>
 
-**Verantwortlichkeit für schweizerisches Personal im Ausland**[^15equater-1]
+**Informationssystem und Datenschutz bei ausländischem Personal in der Schweiz**[^15equater-1]
 
-<sup>1</sup> Für Schäden, die von schweizerischem Personal im Ausland verursacht werden, haftet der Einsatzstaat. Sind die Schäden grobfahrlässig oder vorsätzlich verursacht worden, so ist das Verantwortlichkeitsgesetz vom 14. März 1958[^15equater-2] anwendbar, wenn der Einsatzstaat von der Schweiz die Rückerstattung entrichteter Beträge verlangt.
+Das ausländische Personal verfügt über die gleichen Zugriffsrechte auf das Informationssystem für die Durchführung der Rückkehr wie die Mitarbeitenden des SEM gemäss Artikel 109*h* Buchstabe a AIG, die für die entsprechenden Aufgaben eingesetzt werden, soweit es ihre Aufgaben erfordern. Der Zugriff auf das Informationssystem darf nur unter der Leitung von schweizerischem Personal erfolgen. Das SEM stellt sicher, dass das ausländische Personal die Vorschriften zum schweizerischen Datenschutz und zur Informatiksicherheit einhält.
 
-<sup>2</sup> Schweizerisches Personal, das bei einem Einsatz im Ausland eine Straftat begeht, untersteht dem Recht des Einsatzstaats. Verzichtet dieser auf die Strafverfolgung, so ist das Strafgesetzbuch[^15equater-3] anwendbar.
+[^15equater-1]: Eingefügt durch Ziff. I der V vom 15. Aug. 2018 ([AS 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)). Fassung gemäss Ziff. I der V vom 29. Juni 2022, in Kraft seit 1. Sept. 2022 ([AS 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
 
-[^15equater-1]: Eingefügt durch Ziff. I der V vom 15. Aug. 2018, in Kraft seit 15. Sept. 2018 ([AS 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
-[^15equater-2]: [SR 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
-[^15equater-3]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+#### Art. 15e<sup>quinquies</sup>
 
-## 1*b*. Abschnitt:**** Überwachung von Ausschaffungen auf dem Luftweg
+**Einsatzmodalitäten für schweizerisches Personal im Ausland**[^15equinquies-1]
+
+Für schweizerisches Personal des SEM im Ausland gelten sinngemäss die Bestimmungen des dritten Abschnitts der ViZG[^15equinquies-2].
+
+[^15equinquies-1]: Eingefügt durch Ziff. I der V vom 29. Juni 2022, in Kraft seit 1. Sept. 2022 ([AS 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
+[^15equinquies-2]: [SR 631.062](https://fedlex.data.admin.ch/eli/cc/2022/461)
+
+## 1*b*. Abschnitt: Überwachung von Ausschaffungen auf dem Luftweg
 
 [^sec1b-1]
 
@@ -555,7 +592,7 @@ Sie können:
 
 [^15i-1]: Fassung gemäss Ziff. I der V vom 15. Aug. 2018, in Kraft seit 15. Sept. 2018 ([AS 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
 
-## 1*c*. Abschnitt:**** Beteiligung des Bundes an den Kosten für den Bau und die Einrichtung kantonaler Haftanstalten
+## 1*c*. Abschnitt: Beteiligung des Bundes an den Kosten für den Bau und die Einrichtung kantonaler Haftanstalten
 
 [^sec1c-1]
 
@@ -643,7 +680,7 @@ Das BJ kann den Betrag der Rückforderung ermässigen oder auf eine Rückforderu
 
 [^15o-1]: [SR 341.1](https://fedlex.data.admin.ch/eli/cc/2007/862)
 
-## 1*d*. Abschnitt:**** [Beurteilung der Transportfähigkeit](https://www.admin.ch/opc/de/classified-compilation/19994789/index.html)
+## 1*d*. Abschnitt: Beurteilung der Transportfähigkeit
 
 [^sec1d-1]
 
@@ -820,7 +857,7 @@ Als definitive Ausreise nach Artikel 84 Absatz 4 AIG gilt eine Ausreise insbeson
 [^26a-6]: [SR 143.5](https://fedlex.data.admin.ch/eli/cc/2012/713)
 [^26a-7]: Fassung gemäss Ziff. I der V vom 15. Aug. 2018, in Kraft seit 15. Sept. 2018 ([AS 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
 
-## 2*a*. Abschnitt:**** Wegweisungsverfügung
+## 2*a*. Abschnitt: Wegweisungsverfügung
 
 [^sec2a-1]
 
@@ -836,11 +873,20 @@ Als definitive Ausreise nach Artikel 84 Absatz 4 AIG gilt eine Ausreise insbeson
 
 Die Wegweisungsverfügung enthält:
 
-- a. die Verpflichtung der ausländischen Person, die Schweiz zu verlassen;
-- b. den Zeitpunkt, bis zu dem sie die Schweiz verlassen haben muss;
+- a.[^26b-1]
+
+  unter Vorbehalt von Artikel 2 Absätze 2 und 3 AIG die Verpflichtung der ausländischen Person:
+
+  - 1\. die Schweiz sowie den Schengen-Raum zu verlassen, und
+  - 2\. zur Weiterreise in den Herkunftsstaat oder in einen weiteren Staat ausserhalb des Schengen-Raumes, welcher die Person aufnimmt;
+
+- b.[^26b-2] den Zeitpunkt, bis zu dem sie die Schweiz sowie den Schengen-Raum zu verlassen hat;
 - c. die Androhung von Zwangsmassnahmen im Unterlassungsfall.
 
 <sup>2</sup> Die Wegweisungsverfügung muss begründet und mit einer Rechtsmittelbelehrung versehen sein.
+
+[^26b-1]: Fassung gemäss Ziff. I der V vom 29. Juni 2022, in Kraft seit 1. Sept. 2022 ([AS 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
+[^26b-2]: Fassung gemäss Ziff. I der V vom 29. Juni 2022, in Kraft seit 1. Sept. 2022 ([AS 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
 
 #### Art. 26c
 
@@ -874,7 +920,7 @@ Das SEM stellt den zuständigen Stellen die notwendigen Standardformulare zur Ve
 
 <sup>3</sup> Das SEM stellt den zuständigen Behörden die Informationsblätter zur Verfügung.
 
-## 2*b*. Abschnitt:**** Gestaffelter Vollzug einer Weg- oder Ausweisung oder einer Landesverweisung
+## 2*b*. Abschnitt: Gestaffelter Vollzug einer Weg- oder Ausweisung oder einer Landesverweisung
 
 [^sec2b-1]
 
@@ -888,7 +934,7 @@ Das SEM stellt den zuständigen Stellen die notwendigen Standardformulare zur Ve
 
 <sup>3</sup> Die Absätze 1 und 2 gelten für die eingetragenen Partnerschaften sinngemäss.
 
-## 2*c*. Abschnitt:**** Wegweisung bei bestehender Landesverweisung
+## 2*c*. Abschnitt: Wegweisung bei bestehender Landesverweisung
 
 [^sec2c-1]
 
@@ -946,7 +992,7 @@ Personen, die im Zeitpunkt des Inkrafttretens dieser Verordnungsänderung bereit
 
 Diese Verordnung tritt am 1. Oktober 1999 in Kraft.
 
-## Schlussbestimmungen zur Änderung vom 24. März 2004****
+## Schlussbestimmungen zur Änderung vom 24. März 2004
 
 [^u1-1]
 
@@ -958,7 +1004,7 @@ Diese Verordnung tritt am 1. Oktober 1999 in Kraft.
 
 [^u1-2]: [BS **1** 121; [AS 1949 221](https://fedlex.data.admin.ch/eli/oc/1949/221_225_225); [1987 1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665); [1988 332](https://fedlex.data.admin.ch/eli/oc/1988/332_332_332); [1990 1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)Art. 3 Abs. 2; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)Ziff. II 11, [1034](https://fedlex.data.admin.ch/eli/oc/1991/1034_1034_1034)Ziff. III; [1995 146](https://fedlex.data.admin.ch/eli/oc/1995/146_146_146); [1999 1111](https://fedlex.data.admin.ch/eli/oc/1999/148), [2262](https://fedlex.data.admin.ch/eli/oc/1999/358)Anhang Ziff. 1; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)Ziff. IV 2; [2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139)Ziff. I 1, [701](https://fedlex.data.admin.ch/eli/oc/2002/140)Ziff. I 1, [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)Anhang Ziff. 3; [2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)Anhang Ziff. II 2; [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)Ziff. I 1, [4655](https://fedlex.data.admin.ch/eli/oc/2004/715)Ziff. I 1; [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)Anhang Ziff. 2; [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)Art. 2 Ziff. 1, [1931](https://fedlex.data.admin.ch/eli/oc/2006/301)Art. 18 Ziff. 1, [2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 3, [3459](https://fedlex.data.admin.ch/eli/oc/2006/549)Anhang Ziff. 1, [4745](https://fedlex.data.admin.ch/eli/oc/2006/727)Anhang Ziff. 1; [2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71)Anhang Ziff. 1. [AS 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758)Anhang Ziff. I]. Siehe heute: das Ausländer- und Integrationsgesetz vom 16. Dez. 2005 ([SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)).
 
-## Schlussbestimmungen zur Änderung vom 1. März 2006****
+## Schlussbestimmungen zur Änderung vom 1. März 2006
 
 [^u2-1]
 
@@ -970,7 +1016,7 @@ Diese Verordnung tritt am 1. Oktober 1999 in Kraft.
 
 [^u2-2]: [AS 2004 1649](https://fedlex.data.admin.ch/eli/oc/2004/201)
 
-Anhang 1*[^t-3]*
+Anhang 1[^t-3]
 
 (Art. 12 Abs. 2)
 
@@ -1519,7 +1565,7 @@ Organisationseinheiten:
 
 [^annex1-lvlu1-lvlu1-lvlu1-1]: [SR 142.312](https://fedlex.data.admin.ch/eli/cc/1999/360)
 
-Anhang 2*[^t-4]*
+Anhang 2[^t-4]
 
 (Art. 18)
 
@@ -1550,7 +1596,7 @@ Anhang 2*[^t-4]*
 <tr><td>Luxemburg</td><td></td></tr>
 </table>
 
-Anhang 3*[^t-5]*
+Anhang 3[^t-5]
 
 (Art. 26*c* Abs. 2)
 
