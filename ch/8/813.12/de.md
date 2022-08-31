@@ -4,11 +4,11 @@ title: "Verordnung vom 18. Mai 2005 über das Inverkehrbringen von und den Umgan
 short: VBP
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/468"
 language: de
-version: 2022-05-05
+version: 2022-09-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/468/20220505/de/xml/fedlex-data-admin-ch-eli-cc-2005-468-20220505-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20220505/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/468/20220901/de/xml/fedlex-data-admin-ch-eli-cc-2005-468-20220901-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20220901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20220505/de"
 
 (Biozidprodukteverordnung, VBP)
 
-vom 18. Mai 2005 (Stand am 5. Mai 2022) (Stand am 5. Mai 2022)
+vom 18. Mai 2005 (Stand am 1. September 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -195,7 +195,7 @@ Folgende Begriffe sind im Sinne von Artikel 2 der Chemikalienverordnung vom 18. 
 [^2-12]: Fassung gemäss Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
 [^2-13]: Eingefügt durch Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
 
-## 2. Kapitel: Voraussetzungen für das Inverkehrbringen****
+## 2. Kapitel: Voraussetzungen für das Inverkehrbringen
 
 [^chap2-1]
 
@@ -433,7 +433,7 @@ Das BAG passt im Einvernehmen mit dem BAFU und dem SECO an:[^10-2]
 [^10-1]: Fassung gemäss Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
 [^10-2]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 15. Dez. 2020 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
 
-### 2*a*. Abschnitt: Voraussetzungen für die Zulassungen Z<sub>L</sub> und Z<sub>nL</sub> und besondere Bestimmungen für Biozidproduktefamilien****
+### 2*a*. Abschnitt: Voraussetzungen für die Zulassungen Z<sub>L</sub> und Z<sub>nL</sub> und besondere Bestimmungen für Biozidproduktefamilien
 
 [^chap2-sec2a-1]
 
@@ -558,11 +558,12 @@ Ein Biozidprodukt wird für das Inverkehrbringen zur Verwendung durch die breite
 
 **Ausnahmen von den Anforderungen**[^11e-1]
 
-<sup>1</sup> Ein Biozidprodukt, das die in Artikel 11 Absatz 1 Buchstabe a Ziffern 3 und 4 festgelegten Voraussetzungen nicht vollständig erfüllt oder die Eigenschaften nach Artikel 11*d* Buchstabe c aufweist, kann ausnahmsweise zugelassen werden, wenn die Nichtzulassung des Biozidprodukts, verglichen mit dem Risiko für die Gesundheit von Mensch oder Tier oder für die Umwelt, das sich aus der Verwendung des Biozidprodukts unter den in der Zulassung festlegten Voraussetzungen ergibt, unverhältnismässige negative Folgen für die Gesellschaft hätte.
+<sup>1</sup> Ein Biozidprodukt, das die in Artikel 11 Absatz 1 Buchstabe a Ziffern 3 und 4 festgelegten Voraussetzungen nicht vollständig erfüllt oder die Eigenschaften nach Artikel 11*d* Buchstabe b[^11e-2] aufweist, kann ausnahmsweise zugelassen werden, wenn die Nichtzulassung des Biozidprodukts, verglichen mit dem Risiko für die Gesundheit von Mensch oder Tier oder für die Umwelt, das sich aus der Verwendung des Biozidprodukts unter den in der Zulassung festlegten Voraussetzungen ergibt, unverhältnismässige negative Folgen für die Gesellschaft hätte.
 
 <sup>2</sup> Wird ein nach Absatz 1 zugelassenes Biozidprodukt verwendet, so sind geeignete Risikominderungsmassnahmen zu treffen, um sicherzustellen, dass die Exposition von Menschen und der Umwelt durch dieses Biozidprodukt auf ein Mindestmass beschränkt wird.
 
 [^11e-1]: Eingefügt durch Ziff. I der V vom 20. Juni 2014, in Kraft seit 15. Juli 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
+[^11e-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. März 2018 angepasst.
 
 #### Art. 11f
 
@@ -604,7 +605,7 @@ Die Anmeldestelle untersagt oder beschränkt im Einvernehmen mit den Beurteilung
 [^11g-1]: Eingefügt durch Ziff. I der V vom 20. Juni 2014, in Kraft seit 15. Juli 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
 [^11g-2]: Siehe Fussnote zu Art. 1*b* Abs. 3.
 
-### 2*b*. Abschnitt:**** Voraussetzungen für die vereinfachte Zulassung
+### 2*b*. Abschnitt: Voraussetzungen für die vereinfachte Zulassung
 
 [^chap2-sec2b-1]
 
@@ -620,7 +621,7 @@ Ein Biozidprodukt wird nach einem vereinfachten Verfahren zugelassen, wenn die f
 - d. Das Biozidprodukt ist hinreichend wirksam.
 - e. Die Handhabung des Biozidprodukts und sein beabsichtigter Verwendungszweck erfordern keine persönliche Schutzausrüstung.
 
-### 3. Abschnitt:**** Voraussetzungen für die Anerkennung, die Zulassung Z<sub>N</sub> und die Zulassung für den Parallelhandel
+### 3. Abschnitt: Voraussetzungen für die Anerkennung, die Zulassung Z<sub>N</sub> und die Zulassung für den Parallelhandel
 
 [^chap2-sec3-1]
 
@@ -686,7 +687,7 @@ Ein Biozidprodukt gilt als identisch mit dem Referenzprodukt, wenn die folgenden
 [^13a-1]: Eingefügt durch Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
 [^13a-2]: Eingefügt durch Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
 
-### 3*a*. Abschnitt:**** Sicherstellungspflichten für Biozidprodukte mit Mikroorganismen
+### 3*a*. Abschnitt: Sicherstellungspflichten für Biozidprodukte mit Mikroorganismen
 
 [^chap2-sec3a-1]
 
@@ -698,7 +699,7 @@ Wer Biozidprodukte, die pathogene Mikroorganismen sind oder enthalten, in Verkeh
 
 [^13b-1]: [SR 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
 
-### 3*b*. Abschnitt:**** Mitteilungspflichten für vereinfacht zugelassene Biozidprodukte aus der EU oder EFTA und für Biozidproduktefamilien
+### 3*b*. Abschnitt: Mitteilungspflichten für vereinfacht zugelassene Biozidprodukte aus der EU oder EFTA und für Biozidproduktefamilien
 
 [^chap2-sec3b-1]
 
@@ -729,7 +730,7 @@ Eine Mitteilung ist nicht erforderlich, wenn:
 
 [^13d-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 15. Dez. 2020 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
 
-### 3*c*. Abschnitt:**** Aufzeichnungs- und Mitteilungspflicht für die Forschung und Entwicklung
+### 3*c*. Abschnitt: Aufzeichnungs- und Mitteilungspflicht für die Forschung und Entwicklung
 
 [^chap2-sec3c-1]
 
@@ -779,7 +780,7 @@ Können die vorgesehenen Freisetzungsversuche unannehmbare Auswirkungen auf Mens
 
 [^13f-1]: [SR 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
 
-### 4. Abschnitt:**** Verfahren für Gesuche um Zulassungen
+### 4. Abschnitt: Verfahren für Gesuche um Zulassungen
 
 [^chap2-sec4-1]
 
@@ -1153,7 +1154,7 @@ Für die Verlängerung einer Zulassung Z<sub>L</sub> oder Z<sub>nL</sub> muss da
 [^26-4]: Fassung gemäss Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
 [^26-5]: Eingefügt durch Ziff. I der V vom 5. Juni 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
 
-### 4*a*. Abschnitt:**** Abverkaufsfristen bei Änderung oder Widerruf der Zulassung oder bei Ablauf der Geltungsdauer
+### 4*a*. Abschnitt: Abverkaufsfristen bei Änderung oder Widerruf der Zulassung oder bei Ablauf der Geltungsdauer
 
 [^chap2-sec4a-1]
 
@@ -1312,7 +1313,7 @@ Die Gesuchstellerin legt der Anmeldestelle je nach Fall folgende Daten vor:
 
 [^29b-1]: Eingefügt durch Ziff. I der V vom 20. Juni 2014, in Kraft seit 15. Juli 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
 
-### 6. Abschnitt:**** Ausnahmeregelungen
+### 6. Abschnitt: Ausnahmeregelungen
 
 [^chap2-sec6-1]
 
@@ -1352,7 +1353,7 @@ Die Anmeldestelle kann im Einvernehmen mit den Beurteilungsstellen ein Biozidpro
 
 Ist es zum Schutz des kulturellen Erbes unbedingt erforderlich und steht keine geeignete Alternative zur Verfügung, so kann die Anmeldestelle im Einvernehmen mit den Beurteilungsstellen ein Biozidprodukt, das einen nicht genehmigten Wirkstoff enthält, zulassen.
 
-## 3. Kapitel:**** Behandelte Waren
+## 3. Kapitel: Behandelte Waren
 
 [^chap3-1]
 
@@ -1408,7 +1409,7 @@ Wer für das Inverkehrbringen behandelter Waren verantwortlich ist, muss:
 
 Aufgehoben
 
-## 4. Kapitel:**** Fabrikations- und Geschäftsgeheimnis, Privatsphäre und Sicherheit der betroffenen Person
+## 4. Kapitel: Fabrikations- und Geschäftsgeheimnis, Privatsphäre und Sicherheit der betroffenen Person
 
 [^chap4-1]
 
@@ -2004,7 +2005,7 @@ Für die Weitergabe von Daten von Biozidprodukten gelten die Artikel 74–76 Che
 
 ## 8. Kapitel: Schlussbestimmungen
 
-### 1. Abschnitt: Übergangsbestimmungen zur Änderung vom 20. Juni 2014****
+### 1. Abschnitt: Übergangsbestimmungen zur Änderung vom 20. Juni 2014
 
 [^chap8-sec1-1]
 
@@ -2065,7 +2066,7 @@ Die behandelten Waren nach Absatz 1 dürfen bis zum folgenden Zeitpunkt erstmals
 
 [^62d-1]: Eingefügt durch Ziff. I der V vom 20. Juni 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)). Aufgehoben durch Ziff. I der V vom 18. Nov. 2020, mit Wirkung seit 15. Dez. 2020 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
 
-### 2. Abschnitt:**** Schlussbestimmungen****
+### 2. Abschnitt: Schlussbestimmungen
 
 [^chap8-sec2-1][^chap8-sec2-2]
 
@@ -2096,29 +2097,29 @@ Biozidprodukte, die nach Artikel 10 Absatz 3 Buchstabe b ChemV[^62f-2] nach bish
 
 Diese Verordnung tritt am 1. August 2005 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 7 Abs. 1, 8 Abs. 1, 9 Abs. 1, 10 Abs. 1, 11 Abs. 2 und 3, 11*h* Bst. a, 22, 31 Abs. 1 sowie 62*c* Abs. 1)
 
-## Liste der für das vereinfachte Verfahren geeigneten Wirkstoffe****
+## Liste der für das vereinfachte Verfahren geeigneten Wirkstoffe
 
 [^annex1-lvlu1-1]
 
 [^t-1]: Fassung gemäss Ziff. I der V des BAG vom 4. Aug. 2021, in Kraft seit 1. Sept. 2021 ([AS 2021 488](https://fedlex.data.admin.ch/eli/oc/2021/488)).
 [^annex1-lvlu1-1]: Der Inhalt der Liste der für das vereinfachte Verfahren geeigneten Wirkstoffe wird in der AS nicht veröffentlicht. Die Liste kann kostenlos eingesehen werden unter www.anmeldestelle.admin.ch &gt; Themen &gt; Chemikalienrecht und Wegleitungen &gt; Chemikalienrecht &gt; Biozidprodukteverordnung &gt; Anhang 1. Sie gilt in der Fassung vom 1. September 2021.
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 (Art. 7 Abs. 1, 8 Abs. 1, 9 Abs. 1 und 3, 10 Abs. 1, 11 Abs. 2 und 3, 22, 31 Abs. 1, 62 Abs. 2 und 62*c* Abs. 1)
 
-## Unionsliste genehmigter Wirkstoffe****
+## Unionsliste genehmigter Wirkstoffe
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Fassung gemäss Ziff. I der V des BAG vom 23. Dez. 2021, in Kraft seit 1. Febr. 2022 ([AS 2021 928](https://fedlex.data.admin.ch/eli/oc/2021/928)).
-[^annex2-lvlu1-1]: Der Inhalt der Unionsliste der genehmigten Wirkstoffe wird in der AS nicht veröffentlicht. Die Unionsliste kann kostenlos eingesehen werden unter www.anmeldestelle.admin.ch &gt; Themen &gt; Chemikalienrecht und Wegleitungen &gt; Chemikalienrecht &gt; Biozidprodukteverordnung &gt; Anhang 2. Sie gilt in der Fassung vom 1. Februar 2022.
+[^t-2]: Fassung gemäss Ziff. I der V des BAG vom 9. Aug. 2022, in Kraft seit 1. Sept. 2022 ([AS 2022 445](https://fedlex.data.admin.ch/eli/oc/2022/445)).
+[^annex2-lvlu1-1]: Dieser Anhang wird weder in der AS noch in der SR veröffentlicht. Sein Inhalt kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2022/445](https://fedlex.data.admin.ch/eli/oc/2022/445) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung durch Verweis eines Textteils. Die Unionsliste der genehmigten Wirkstoffe gilt in der Fassung vom 1. Sept. 2022.
 
-Anhang 3*[^t-3]*
+Anhang 3[^t-3]
 
 (Art. 2 Abs. 4 und 9 Abs. 2)
 
@@ -2228,11 +2229,11 @@ Wird in dieser Verordnung auf Bestimmungen von Durchführungsrechtsakten der EU 
 [^annex3-lvlu1-lvl4-3]: [SR 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)
 [^annex3-lvlu1-lvl4-4]: [SR 817.023.21](https://fedlex.data.admin.ch/eli/cc/2017/164)
 
-Anhang 4*[^t-4]*
+Anhang 4[^t-4]
 
 [^t-4]: Aufgehoben durch Ziff. II Abs. 1 der V vom 28. Febr. 2007, mit Wirkung seit 1. April 2007 ([AS 2007 851](https://fedlex.data.admin.ch/eli/oc/2007/153)).
 
-Anhang 5*[^t-5]*
+Anhang 5[^t-5]
 
 (Art. 14 Abs. 2 Bst. a)
 
@@ -2315,7 +2316,7 @@ Ist die Anmeldestelle bereits im Besitz der vollständigen Unterlagen nach den Z
 
 Für ein Biozidprodukt mit einem Wirkstoff, der nicht in der Liste nach Anhang 1 oder 2 oder in der Liste der notifizierten Wirkstoffe aufgeführt ist, kann die Gesuchstellerin die Zusammenfassung der Eigenschaften des Biozidprodukts nach Artikel 22 Absatz 2 der Verordnung (EU) Nr. 528/2012 sowie den Bewertungsbericht mit den Schlussfolgerungen nach Artikel 30 Absatz 3 der Verordnung (EU) Nr. 528/2012, beziehungsweise, für Wirkstoffe, nach Artikel 8 Absatz 1 der Verordnung (EU) Nr. 528/2012 einer zuständigen Behörde eines Mitgliedstaates der EU oder der EFTA beifügen.
 
-Anhang 6*[^t-6]*
+Anhang 6[^t-6]
 
 (Art. 14 Abs. 2 Bst. b)
 
@@ -2343,7 +2344,7 @@ Anhang 6*[^t-6]*
 
 [^annex6-lvlu1-1]: Siehe Fussnote zu Art. 1*b* Abs. 3.
 
-Anhang 7*[^t-7]*
+Anhang 7[^t-7]
 
 (Art. 14 Abs. 2 Bst. c und 14*a*<sup>bis</sup>)
 
@@ -2384,11 +2385,11 @@ Anhang 7*[^t-7]*
 
 [^annex7-lvlu1-1]: Siehe Fussnote zu Art. 1*b* Abs. 3.
 
-Anhang 7<sup>bis</sup>*[^t-8]*
+Anhang 7<sup>bis</sup>[^t-8]
 
 [^t-8]: Eingefügt durch Ziff. II Abs. 3 der V vom 22. April 2009 ([AS 2009 1759](https://fedlex.data.admin.ch/eli/oc/2009/261)). Aufgehoben durch Ziff. II Abs. 3 der V vom 20. Juni 2014, mit Wirkung seit 15. Juli 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
 
-Anhang 8*[^t-9]*
+Anhang 8[^t-9]
 
 (Art. 14 Abs. 2 Bst. d)
 
@@ -2473,7 +2474,7 @@ Die Gesuchsunterlagen müssen folgende Angaben enthalten:
 
 [^annex8-lvlu1-lvl3-lvl32-1]: Siehe Fussnote zu Art. 2 Abs. 2 Bst. a Ziff. 1.
 
-Anhang 8a*[^t-10]*
+Anhang 8a[^t-10]
 
 (Art. 14 Abs. 2 Bst. c)
 
@@ -2515,11 +2516,11 @@ Anhang 8a*[^t-10]*
   - a. eine Übersetzung der wesentlichen Teile der in Ziffer 1.1 Buchstabe d genannten Original-Verwendungsvorschriften; und
   - b. zusätzliche Unterlagen zum Nachweis dafür, dass das Biozidprodukt mit dem Referenzprodukt identisch ist.
 
-Anhang 9*[^t-11]*
+Anhang 9[^t-11]
 
 [^t-11]: Aufgehoben durch Ziff. II Abs. 3 der V vom 20. Juni 2014, mit Wirkung seit 15. Juli 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
 
-Anhang 10*[^t-12]*
+Anhang 10[^t-12]
 
 (Art. 2 Abs. 1 Bst. b, 4 Abs. 1 und 50 Abs. 3 Bst. a sowie Anhänge 6–8)
 

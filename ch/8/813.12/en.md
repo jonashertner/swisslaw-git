@@ -4,11 +4,11 @@ title: "Ordinance of 18 May 2005 on the Placing on the Market and Handling of Bi
 short: OBP
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/468"
 language: en
-version: 2022-05-05
+version: 2022-09-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/468/20220505/en/xml/fedlex-data-admin-ch-eli-cc-2005-468-20220505-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20220505/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/468/20220901/en/xml/fedlex-data-admin-ch-eli-cc-2005-468-20220901-en-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20220901/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Ordinance on Biocidal Products, OBP)
 
-of 18 May 2005 (Status as of 5 May 2022)
+of 18 May 2005 (Status as of 1 September 2022)
 
 The Swiss Federal Council,
 
@@ -197,7 +197,7 @@ The following terms are to be understood as defined in Article 2 of the Chemical
 [^2-12]: Amended by No I of the O of 31 Jan. 2018, in force since 1 March 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
 [^2-13]: Inserted by No I of the O of 31 Jan. 2018, in force since 1 March 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
 
-## Chapter 2 Conditions for Placing on the Market****
+## Chapter 2 Conditions for Placing on the Market
 
 [^chap2-1]
 
@@ -433,7 +433,7 @@ The FOPH, in consultation with the FOEN and SECO, shall amend:[^10-2]
 [^10-1]: Amended by No I of the O of 31 Jan. 2018, in force since 1 March 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
 [^10-2]: Amended by No I of the O of 18 Nov. 2020, in force since 15 Dec. 2020 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
 
-### Section 2*a* Conditions for Authorisations A<sub>L</sub> and A<sub>nL</sub> and Special Provisions for Biocidal Product Families****
+### Section 2*a* Conditions for Authorisations A<sub>L</sub> and A<sub>nL</sub> and Special Provisions for Biocidal Product Families
 
 [^chap2-sec2a-1]
 
@@ -604,7 +604,7 @@ The Notification Authority, in consultation with the assessment authorities, sha
 [^11g-1]: Inserted by No I of the O of 20 June 2014, in force since 15 July 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
 [^11g-2]: See footnote to Art. 1*b* para. 3.
 
-### Section 2*b***** Conditions for Simplified Authorisation
+### Section 2*b* Conditions for Simplified Authorisation
 
 [^chap2-sec2b-1]
 
@@ -620,7 +620,7 @@ A biocidal product shall be authorised under a simplified procedure if the follo
 - d. the biocidal product is sufficiently effective;
 - e. the handling of the biocidal product and its intended use do not require personal protective equipment.
 
-### Section 3**** Conditions for Recognition, Authorisation A<sub>N</sub> and Authorisation for Parallel Trade
+### Section 3 Conditions for Recognition, Authorisation A<sub>N</sub> and Authorisation for Parallel Trade
 
 [^chap2-sec3-1]
 
@@ -684,7 +684,7 @@ A biocidal product shall be considered identical to the reference product if the
 [^13a-1]: Inserted by No I of the O of 31 Jan. 2018, in force since 1 March 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
 [^13a-2]: Inserted by No I of the O of 31 Jan. 2018, in force since 1 March 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
 
-### Section 3*a***** Liability Guarantee for Biocidal Products with Microorganisms
+### Section 3*a* Liability Guarantee for Biocidal Products with Microorganisms
 
 [^chap2-sec3a-1]
 
@@ -696,7 +696,7 @@ Anyone who wishes to place biocidal products consisting of or containing pathoge
 
 [^13b-1]: [SR 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
 
-### Section 3*b***** Declaration Requirements for Biocidal Products from the EU or EFTA Authorised under the Simplified Procedure and for Biocidal Product Families
+### Section 3*b* Declaration Requirements for Biocidal Products from the EU or EFTA Authorised under the Simplified Procedure and for Biocidal Product Families
 
 [^chap2-sec3b-1]
 
@@ -727,7 +727,7 @@ Declaration is not required if:
 
 [^13d-1]: Amended by No I of the O of 18 Nov. 2020, in force since 15 Dec. 2020 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
 
-### Section 3*c***** Record-keeping and Declaration Requirements for Research and Development
+### Section 3*c* Record-keeping and Declaration Requirements for Research and Development
 
 [^chap2-sec3c-1]
 
@@ -777,7 +777,7 @@ If the proposed release tests could have unacceptable effects on humans, particu
 
 [^13f-1]: [SR 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
 
-### Section 4**** Procedure for Applications for Authorisations
+### Section 4 Procedure for Applications for Authorisations
 
 [^chap2-sec4-1]
 
@@ -1151,7 +1151,7 @@ For the renewal of an authorisation A<sub>L</sub> or A<sub>nL</sub>, the applica
 [^26-4]: Amended by No I of the O of 31 Jan. 2018, in force since 1 March 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
 [^26-5]: Inserted by No I of the O of 5 June 2015, in force since 1 July 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
 
-### Section 4*a***** Sales Deadlines following the Amendment, Revocation or Expiry of the Authorisation
+### Section 4*a* Sales Deadlines following the Amendment, Revocation or Expiry of the Authorisation
 
 [^chap2-sec4a-1]
 
@@ -1310,7 +1310,7 @@ Depending on the particular case, the applicant shall submit the following data 
 
 [^29b-1]: Inserted by No I of the O of 20 June 2014, in force since 15 July 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
 
-### Section 6**** Derogations
+### Section 6 Derogations
 
 [^chap2-sec6-1]
 
@@ -1350,7 +1350,7 @@ The Notification Authority may in agreement with the assessment authorities prov
 
 Where it is essential for the protection of cultural heritage and if there is no suitable alterative available, the Notification Authority may in agreement with the assessment authorities authorise a biocidal product that contains an active substance that has not been approved.
 
-## Chapter 3**** Treated Articles
+## Chapter 3 Treated Articles
 
 [^chap3-1]
 
@@ -1406,7 +1406,7 @@ Anyone who is responsible for the placing on the market of treated articles must
 
 Repealed
 
-## Chapter 4**** Manufacturing and Commercial Secrecy, Privacy and Safety of the Person Concerned
+## Chapter 4 Manufacturing and Commercial Secrecy, Privacy and Safety of the Person Concerned
 
 [^chap4-1]
 
@@ -2001,7 +2001,7 @@ Articles 74–76 of the ChemO[^61-2] apply *mutatis mutandis* to the passing-on 
 
 ## Chapter 8 Final Provisions
 
-### Section 1 Transitional Provisions to the Amendment of 20 June 2014****
+### Section 1 Transitional Provisions to the Amendment of 20 June 2014
 
 [^chap8-sec1-1]
 
@@ -2062,7 +2062,7 @@ The treated articles specified in paragraph 1 may be placed on the market for th
 
 [^62d-1]: Inserted by No I of the O of 20 June 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)). Repealed by No I of the O of 18 Nov. 2020, with effect from 15 Dec. 2020 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
 
-### Section 2**** Final Provisions****
+### Section 2 Final Provisions
 
 [^chap8-sec2-1][^chap8-sec2-2]
 
@@ -2093,29 +2093,29 @@ Biocidal products that are labelled in accordance with the previous law pursuant
 
 This Ordinance comes into force on 1 August 2005.
 
-Annex 1*[^t-1]*
+Annex 1[^t-1]
 
 (Art. 7 para. 1, 8 para. 1, 9 para. 1, 10 para. 1, 11 para. 2 and 3, 11*h* let. a, 22, 31 para. 1 and 62*c* para. 1)
 
-## List of active substances suitable for the simplified procedure****
+## List of active substances suitable for the simplified procedure
 
 [^annex1-lvlu1-1]
 
 [^t-1]: Amended by No I of the FOPH O of 4 Aug. 2021, in force since 1 Sept. 2021 ([AS 2021 488](https://fedlex.data.admin.ch/eli/oc/2021/488)).
 [^annex1-lvlu1-1]: The list of active substances suitable for the simplified procedure is not published in the Official Compilation. The list may be viewed free of charge at www.anmeldestelle.admin.ch &gt; Topics &gt; Chemicals Legislation and Guidelines &gt; Chemicals Legislation &gt; Ordinance on Biocidal Products &gt; Annex 1. The version of 1 Sept. 2021 applies.
 
-Annex 2*[^t-2]*
+Annex 2[^t-2]
 
 (Art. 7 para. 1, 8 para. 1, 9 para. 1 and 3, 10 para. 1, 11 para. 2 and 3, 22, 31 para. 1, 62 para. 2 and 62*c* para. 1)
 
-## Union list of approved active substances****
+## Union list of approved active substances
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Amended by No I of the FOPH O of 23 Dec. 2021, in force since 1 Feb. 2022 ([AS 2021 928](https://fedlex.data.admin.ch/eli/oc/2021/928)).
-[^annex2-lvlu1-1]: The Union list of approved active substances is not published in the Official Compilation. The Union list may be viewed free of charge at www.anmeldestelle.admin.ch &gt; Topics &gt; Chemicals Legislation and Guidelines &gt; Chemicals Legislation &gt; Ordinance on Biocidal Products &gt; Annex 2. The version of 1 Feb. 2022 applies.
+[^t-2]: Amended by No I of the FOPH O of 9 Aug. 20212 in force since 1 Sept. 2022 ([AS 2022 445](https://fedlex.data.admin.ch/eli/oc/2022/445)).
+[^annex2-lvlu1-1]: This Annex is not published in either the AS or the SR. Its content is available at: https://fedlex.data.admin.ch/eli/oc/2022/445 &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung durch Verweis eines Textteils. The Union list of approved active substances applies in its version of 1 Sept. 2022.
 
-Annex 3*[^t-3]*
+Annex 3[^t-3]
 
 (Art. 2 para. 4 and 9 para. 2)
 
@@ -2195,11 +2195,11 @@ Where reference is made in this Ordinance to provisions of EU implementing acts 
 [^annex3-lvlu1-lvl4-3]: [SR 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)
 [^annex3-lvlu1-lvl4-4]: [SR 817.023.21](https://fedlex.data.admin.ch/eli/cc/2017/164)
 
-Annex 4*[^t-4]*
+Annex 4[^t-4]
 
 [^t-4]: Repealed by No II para. 1 of the O of 28 Feb. 2007, with effect from 1 April 2007 ([AS 2007 851](https://fedlex.data.admin.ch/eli/oc/2007/153)).
 
-Annex 5*[^t-5]*
+Annex 5[^t-5]
 
 (Art. 14 para. 2 let. a)
 
@@ -2282,7 +2282,7 @@ If the Notification Authority is already in possession of the complete documenta
 
 With regard to a biocidal product containing an active substance not listed in Annex 1 or 2 or included in the list of notified active substances, the applicant may enclose the summary of the biocidal product characteristics in accordance with Article 22 paragraph 2 of Regulation (EU) No 528/2012 and the assessment report with the conclusions in accordance with Article 30 paragraph 3 of Regulation (EU) No 528/2012, or, for active substances, in accordance with Article 8 paragraph 1 of Regulation (EU) No 528/2012, from the competent authority of an EU or EFTA Member State.
 
-Annex 6*[^t-6]*
+Annex 6[^t-6]
 
 (Art. 14 para. 2 let. b)
 
@@ -2310,7 +2310,7 @@ Annex 6*[^t-6]*
 
 [^annex6-lvlu1-1]: See footnote to Art. 1*b* para. 3.
 
-Annex 7*[^t-7]*
+Annex 7[^t-7]
 
 (Art. 14 para. 2 let. c and 14*a*)
 
@@ -2351,11 +2351,11 @@ Annex 7*[^t-7]*
 
 [^annex7-lvlu1-1]: See footnote to Art. 1*b* para. 3.
 
-Annex 7<sup>bis</sup> *[^t-8]*
+Annex 7<sup>bis</sup> [^t-8]
 
 [^t-8]: Inserted by No II para. 3 of the O of 22 April 2009 ([AS 2009 1759](https://fedlex.data.admin.ch/eli/oc/2009/261)). Repealed by No II para. 3 of the O of 20 June 2014, with effect from 15 July 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
 
-Annex 8*[^t-9]*
+Annex 8[^t-9]
 
 (Art. 14 para. 2 let. d)
 
@@ -2440,7 +2440,7 @@ The application documents must contain the following details:
 
 [^annex8-lvlu1-lvl3-lvl32-1]: See footnote to Art. 2 para. 2 let. a No 1.
 
-Annex 8a*[^t-10]*
+Annex 8a[^t-10]
 
 (Art. 14 para. 2 let. c)
 
@@ -2482,11 +2482,11 @@ Annex 8a*[^t-10]*
   - a. a translation of the essential parts of the original instructions for use mentioned in number 1.1 letter d; and
   - b. additional documents to establish that the biocidal product is identical to the reference product.
 
-Annex 9*[^t-11]*
+Annex 9[^t-11]
 
 [^t-11]: Repealed by No II para. 3 of the O of 20 June 2014, with effect from 15 July 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
 
-Annex 10*[^t-12]*
+Annex 10[^t-12]
 
 (Art. 2 para. 1 let. b, 4 para. 1, 50 para. 3 let. a, and Annexes 6–8)
 
