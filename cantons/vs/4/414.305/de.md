@@ -3,34 +3,35 @@ canton: VS
 number: "414.305"
 title: Studienreglement betreffend den Bildungsgang Pflege HF (höhere Fachschule)
 language: de
-version: 2020-09-01
-valid_until: 2022-08-31
-version_adopted: 2021-05-12
+version: 2022-09-01
+version_adopted: 2023-05-17
 adopted: 2021-05-12
 in_force: 2020-09-01
 url: "https://lex.vs.ch/app/de/texts_of_law/414.305"
-pdf: "https://lex.vs.ch/api/de/versions/3573/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3575/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Studienreglement betreffend den Bildungsgang Pflege HF (höhere Fachschule)
 
-vom 12.05.2021 (Stand 01.09.2020)
+vom 12.05.2021 (Stand 01.09.2022)
 
 Der Staatsrat des Kantons Wallis
 
-eingesehen das Bundesgesetz über die Berufsbildung vom 13. Dezember 2002 (BBG);
+eingesehen das Bundesgesetz über die Berufsbildung vom 13. Dezember 2002 (BBG) und dessen Verordnung vom 19. November 2003 (BBV);
 
 eingesehen das Gesetz über die Bereitstellung von Praktikums- und Ausbildungsplätzen für nichtuniversitäre Gesundheitsberufe vom 17. Juni 2020;
 
 eingesehen die Verordnung des eidgenössischen Departementes für Wirtschaft, Bildung und Forschung (WBF) über Mindestvorschriften für die Anerkennung von Bildungsgängen und Nachdiplomstudien der höheren Fachschulen vom 11. September 2017 (MiVo-HF);
 
+eingesehen die interkantonale Vereinbarung über Beiträge an die Bildungsgänge der höheren Fachschulen vom 22.März 2012 (HFSV);
+
 eingesehen die Statuten der Stiftung HF Gesundheit Valais-Wallis vom 21. Dezember 2020;
 
-eingesehen den Rahmenlehrplan vom 9. November 2016 für den Bildungsgang Pflege HF, erarbeitet durch die nationale Dachorganisation der Arbeitswelt Gesundheit (OdASanté) und genehmigt durch das Staatssekretariat für Bildung, Forschung und Innovation (SBFI);
+eingesehen den durch das Staatssekretariat für Bildung, Forschung und Innovation (SBFI) genehmigten Rahmenlehrplan für die Bildungsgänge Pflege HF der nationalen Dachorganisation der Arbeitswelt Gesundheit (OdASanté) und des Verbands Bildungszentren Gesundheit Schweiz (BGS);
 
-eingesehen das Betriebsmodell Bildungsgang Pflege HF, Stand per 16. Juli 2020;
+eingesehen das Organisations- und Geschäftsreglement der Stiftung HF Gesundheit Valais-Wallis vom 26. März 2021 (OGR);
 
 auf Antrag des für die Bildung zuständigen Departements,
 
@@ -48,6 +49,8 @@ verordnet:[^ingress-1]
 
 <sup>2</sup> Das vorliegende Reglement gilt sowohl für den deutschsprachigen als auch für den französischsprachigen Bildungsgang.
 
+<sup>2<sup>bis</sup></sup> Es regelt insbesondere die Organisation der Ausbildungen, die Promotion und die Rechtsmittel.
+
 <sup>3</sup> Es definiert ausserdem die Verfügungskompetenzen.
 
 #### Art. 2
@@ -58,11 +61,11 @@ verordnet:[^ingress-1]
 
 #### Art. 3
 
-**Anstellung durch die Stiftung HF Gesundheit - Anstellung durch die Ausbildungsbetriebe**
+**Anstellung durch die Stiftung HF Gesundheit - Anstellung durch die Praktikumsbetriebe**
 
 <sup>1</sup> Studierende, die mit der Stiftung HF Gesundheit einen Ausbildungsvertrag nach Artikel 14 Absätze 1 und 2 des vorliegenden Reglements abgeschlossen haben, gelten als von ihr angestellt. Die Praktika werden von der Stiftung HF Gesundheit organisiert.
 
-<sup>2</sup> Studierende, die mit der Stiftung HF Gesundheit einen Ausbildungsvertrag abgeschlossen haben (Artikel 14 Absätze 1 und 3) und über einen Arbeitsvertrag mit einem von der Schule anerkannten Ausbildungsbetrieb (Gesundheitseinrichtung) verfügen, gelten als vom Ausbildungsbetrieb angestellt.
+<sup>2</sup> Studierende, die mit der Stiftung HF Gesundheit einen Ausbildungsvertrag abgeschlossen haben (Art. 14 Abs. 1 und 3) und über einen Arbeitsvertrag mit einem von der Schule anerkannten Praktikumsbetrieb (Gesundheitseinrichtung) verfügen, gelten als vom Praktikumsbetrieb angestellt.
 
 ## 2 Zulassung
 
@@ -72,43 +75,46 @@ verordnet:[^ingress-1]
 
 <sup>1</sup> Für eine Zulassung zur regulären Vollzeitausbildung (3 Jahre) müssen folgende Voraussetzungen kumulativ durch den Kandidaten erfüllt werden:
 
-- a) Abschluss einer 3-jährigen Berufsausbildung mit eidgenössischem Fähigkeitszeugnis, Zeugnis einer Fachmittelschule oder einer Handelsschule oder ein Maturitätszeugnis;
+- a) eidgenössisches Fähigkeitszeugnis, Zeugnis einer Fachmittelschule oder einer Handelsschule oder ein Maturitätszeugnis oder einen gleichwertigen Titel;
 - b) Grundlagenkenntnisse in Physik, Chemie, Biologie oder Naturwissenschaften;
 - c) bestandene Eignungsabklärung, deren entsprechende Teile vom Stiftungsrat der Stiftung HF Gesundheit vorgängig definiert und deren Bestimmungen den Studierenden vor Beginn des Anmeldeverfahrens mitgeteilt werden;
 - d) ärztliches Zeugnis, das zum Zeitpunkt der Einreichung des Aufnahmegesuchs weniger als 6 Monate alt ist und das die für die Ausübung des Berufs erforderliche körperliche und geistige Eignung bescheinigt;
-- e) ein Auszug aus dem schweizerischen Strafregister, der zum Zeitpunkt der Einreichung des Aufnahmegesuchs weniger als 6 Monate alt ist.
+- e) ein Auszug aus dem Strafregister, der zum Zeitpunkt der Einreichung des Aufnahmegesuchs weniger als 6 Monate alt ist.
 
-<sup>2</sup> Für eine Zulassung zur verkürzten Vollzeitausbildung (2 Jahre) ab Beginn des 3. Semesters müssen folgende Voraussetzungen kumulativ durch den Kandidaten erfüllt werden:
+<sup>2</sup> Für eine Zulassung zur verkürzten Vollzeitausbildung (2 Jahre) zu Beginn des zweiten Bildungsjahres müssen folgende Voraussetzungen kumulativ durch den Kandidierenden erfüllt werden:
 
-- a) Abschluss einer 3-jährigen Berufsausbildung mit eidgenössischem Fähigkeitszeugnis Fachfrau Gesundheit bzw. Fachmann Gesundheit (FaGe);
+- a) Eidgenössisches Fähigkeitszeugnis Fachfrau Gesundheit bzw. Fachmann Gesundheit (FaGe). Der FaGe EFZ Lehrling im letzten Bildungsjahr kann sein Dossier vor Beendigung seiner Ausbildung hinterlegen. In diesem Fall ist die Zulassung an den künftigen EFZ-Abschluss geknüpft;
 - b) bestandene Eignungsabklärung, deren entsprechende Teile vom Stiftungsrat der Stiftung HF Gesundheit vorgängig definiert und deren Bestimmungen den Studierenden vor Beginn des Anmeldeverfahrens mitgeteilt werden;
 - c) ärztliches Zeugnis, das zum Zeitpunkt der Einreichung des Aufnahmegesuchs weniger als 6 Monate alt ist und das die für die Ausübung des Berufs erforderliche körperliche und geistige Eignung bescheinigt;
-- d) ein Auszug aus dem schweizerischen Strafregister, der zum Zeitpunkt der Einreichung des Aufnahmegesuchs weniger als 6 Monate alt ist.
+- d) ein Auszug aus dem Strafregister, der zum Zeitpunkt der Einreichung des Aufnahmegesuchs weniger als 6 Monate alt ist.
 
-<sup>3</sup> Die kumulativen Anforderungen für die Ausübung des Berufs sind:
+<sup>3</sup> …
 
-- a) körperliche und psychische Belastbarkeit;
-- b) manuelles Geschick;
-- c) Einfühlungsvermögen, Kommunikations- und Teamfähigkeit;
-- d) Selbstständigkeit, Zuverlässigkeit und Verantwortungsbewusstsein.
+<sup>4</sup> …
 
-<sup>4</sup> Kandidaten, die älter als 22 Jahre sind, können einen Antrag stellen, von der Zulassungsbedingung eines EFZ oder eines Diploms der Sekundarstufe II für die Gleichwertigkeitsabklärung befreit zu werden. In diesem Fall sind die Bestimmungen von Artikel 21 anwendbar.
+#### Art. 5
+
+**Zulassungsbedingungen für Kandidaten, die älter als 22 Jahre sind**
+
+<sup>1</sup> Kandidaten, die älter als 22 Jahre sind, können einen Antrag stellen, von der Zulassungsbedingung eines EFZ oder eines Diploms der Sekundarstufe II für die Gleichwertigkeitsabklärung befreit zu werden. In diesem Fall sind die Bestimmungen von Artikel 21 anwendbar.
+
+<sup>2</sup> Die Stiftung HF Gesundheit regelt die Bestimmungen in einer entsprechenden Weisung.
 
 #### Art. 6
 
 **Übertritte aus anderen Studiengängen der Pflege auf Stufe HF oder FH und Wiederzulassungen**
 
-<sup>1</sup> Übertritte von Kandidaten aus anderen Bildungs- oder Studiengängen der Pflege auf Stufe HF oder FH sind möglich, sofern genügend freie Studienplätze verfügbar sind. Sie finden jeweils auf Beginn eines Semesters statt.
+<sup>1</sup> Übertritte von Kandidierenden aus anderen Bildungs- oder Studiengängen der Pflege auf Stufe HF oder FH sind möglich, sofern genügend freie Studienplätze verfügbar sind. Die Stiftung HF Gesundheit regelt die Bestimmungen in einer entsprechenden Weisung.
 
-<sup>2</sup> Kandidaten aus anderen Bildungs- oder Studiengängen der Pflege haben ein auf ihr Kompetenzprofil basiertes Übertrittsgesuch sowie sämtliche Unterlagen, die ihre bisher erworbenen theoretischen und praktischen Qualifikationen bescheinigen, einzureichen.
+<sup>2</sup> Gemäss der entsprechenden Weisung der Stiftung HF Gesundheit haben Kandidierende aus anderen Bildungs- oder Studiengängen der Pflege ein auf ihr Kompetenzprofil basiertes Übertrittsgesuch sowie sämtliche Unterlagen, die ihre bisher erworbenen theoretischen und praktischen Qualifikationen bescheinigen, einzureichen.
 
-<sup>3</sup> Die weiteren Schritte der Eignungsabklärung werden lediglich dann durchgeführt, wenn noch Zweifel an der persönlichen und beruflichen Qualifikation des Kandidaten bestehen.
+<sup>3</sup> Die Kandidaten aus anderen Bildungsgängen oder Pflegeausbildungen müssen sich einem Motivationsgespräch unterziehen.
 
 <sup>4</sup> Studierende, welche gemäss Artikel 24 des vorliegenden Reglements die Bedingungen für die definitive Promotion im Bildungsgang Pflege HF nicht erfüllt haben, können nach einer Frist von 3 Jahren erneut zum Bildungsgang zugelassen werden, sofern sie die Voraussetzungen gemäss Artikel 4 des vorliegenden Reglements erfüllen.
 
-<sup>5</sup> Studierende, welche gemäss den Bestimmungen von Artikeln 19 Absatz 3 und 34 Absatz 2 Buchstabe a des vorliegenden Reglements aufgrund von Disziplinarmassnahmen von einem Bildungsgang Pflege HF ausgeschlossen worden sind, können unter Einhaltung einer Frist von 5 Jahren wieder zum Bildungsgang zugelassen werden, sofern sie die Voraussetzungen gemäss Artikel 4 des vorliegenden Reglements erfüllen.
+<sup>5</sup> Studierende, welche gemäss den Bestimmungen von Artikeln 19 Absatz 3 und 34 Absatz 2 Buchstabe a des vorliegenden Reglements aufgrund von Disziplinarmassnahmen von einem Bildungsgang Pflege HF ausgeschlossen worden sind, können unter Einhaltung einer Frist von mindestens 3 Jahren wieder zum Bildungsgang zugelassen werden, sofern sie die Voraussetzungen gemäss Artikel 4 des vorliegenden Reglements erfüllen.
 
-<sup>6</sup> Kandidaten, welche aufgrund von endgültigem Nichtbestehen von einem Bachelor-Studiengang Pflege FH ausgeschlossen worden sind, können unter Einhaltung einer Frist von 3 Jahren zum Bildungsgang Pflege HF zugelassen werden, insofern sie die Voraussetzungen gemäss Artikel 4 des vorliegenden Reglements erfüllen.
+<sup>6</sup> Kandidaten, welche aufgrund von endgültigem Nichtbestehen von einem Bachelor-Studiengang Pflege FH ausgeschlossen worden sind, können unter Einhaltung einer Frist von mindestens 3 Jahren zum Bildungsgang Pflege HF zugelassen werden, sofern sie die Voraussetzungen gemäss Artikel 4 des vorliegenden Reglements erfüllen.
 
 <sup>7</sup> Im Zulassungsentscheid wird gleichzeitig erwähnt, ob und in welchem Umfang die bisherigen Studienleistungen angerechnet werden.
 
@@ -118,7 +124,7 @@ verordnet:[^ingress-1]
 
 <sup>1</sup> Die einzelnen Teile der Eignungsabklärung können je einmal wiederholt werden, sollte eine ungenügende Qualifikation attestiert werden.
 
-<sup>2</sup> Wird ein wiederholter Teil erneut als ungenügend beurteilt, so gilt die gesamte Eignungsabklärung als definitiv nicht bestanden.
+<sup>2</sup> Wird ein wiederholter Teil erneut als ungenügend beurteilt, so gilt die gesamte Eignungsabklärung als nicht bestanden.
 
 <sup>3</sup> Kandidaten, welche die Eignungsabklärung nicht bestanden haben, können diese wiederholen, jedoch frühestens nach Ablauf eines Jahres. Dabei werden ihnen die im ersten Verfahren bestandenen Teile erlassen, sofern die entsprechende Erstbeurteilung nicht mehr als 2 Jahre zurückliegt. Im Übrigen gelten auch in der zweiten Eignungsabklärung die Absätze 1 und 2 dieses Artikels.
 
@@ -130,7 +136,7 @@ verordnet:[^ingress-1]
 
 **Entscheide**
 
-<sup>1</sup> Auf Vorschlag des Verantwortlichen der Eignungsabklärung verfügen die Verantwortlichen des Bildungsgangs im Namen der Stiftung HF Gesundheit über:
+<sup>1</sup> Auf Vorschlag des Verantwortlichen der Eignungsabklärung verfügt der Verantwortliche des Bildungsgangs im Namen der Stiftung HF Gesundheit über:
 
 - a) die Befreiung von einzelnen Teilen der Eignungsabklärung;
 - b) die Zulassung zum Bildungsgang aufgrund einer als gleichwertig angesehen Qualifikation;
@@ -140,7 +146,7 @@ verordnet:[^ingress-1]
 
 <sup>2</sup> Die Verantwortlichen des Bildungsgangs eröffnen dem Kandidaten den Zulassungsentscheid formell samt Rechtsmittelbelehrung im Namen der Stiftung HF Gesundheit.
 
-<sup>3</sup> Die Stiftung HF Gesundheit kann, sofern erforderlich, die Anzahl Zulassungen zum Bildungsgang begrenzen, und zwar im Rahmen von vorgängig definierten und kommunizierten Kriterien wie bspw. die Frist für die Dossiereinreichung, das Alter des Kandidaten oder die Anzahl verfügbarer Ausbildungsplätze in Gesundheitseinrichtungen, usw.
+<sup>3</sup> …
 
 ## 3 Ausbildung
 
@@ -150,7 +156,7 @@ verordnet:[^ingress-1]
 
 <sup>1</sup> Beim Bildungsgang Pflege HF handelt es sich um eine praxisorientierte Berufsbildung auf Tertiärstufe B. Die Ausbildung richtet sich nach dem von OdASanté erarbeiteten und vom SBFI genehmigten Rahmenlehrplan für den Bildungsgang Pflege HF.
 
-<sup>2</sup> Der Bildungsgang Pflege HF fördert insbesondere die berufliche Handlungskompetenz als solche, die Fähigkeit, die erworbenen Kenntnisse auch umzusetzen, sowie das vernetzte und methodische Denken.
+<sup>2</sup> …
 
 #### Art. 10
 
@@ -158,7 +164,7 @@ verordnet:[^ingress-1]
 
 <sup>1</sup> Der Bildungsgang Pflege HF umfasst als reguläre Vollzeitausbildung 5'400 Lernstunden verteilt auf 3 Jahre.
 
-<sup>2</sup> Inhaber eines eidgenössischen Fähigkeitszeugnisses Fachfrau/Fachmann Gesundheit (FaGe) haben die Möglichkeit, die verkürzte Vollzeitausbildung von 2 Jahren (3'600 Lernstunden) zu absolvieren (Art. 4 Abs. 2).
+<sup>2</sup> Inhaber eines eidgenössischen Fähigkeitszeugnisses Fachfrau/Fachmann Gesundheit (FaGe) oder eines gleichwertigen Abschlusses haben die Möglichkeit, die verkürzte Vollzeitausbildung von 2 Jahren (3'600 Lernstunden) zu absolvieren (Art. 4 Abs. 2).
 
 #### Art. 11
 
@@ -172,13 +178,15 @@ verordnet:[^ingress-1]
 
 **Aufbau der Ausbildung**
 
-<sup>1</sup> Die Ausbildung ist in die Lernbereiche "Schule" und "Praxis" aufgeteilt. Auf den Lernbereich "Schule" und den Lernbereich "Praxis" entfallen jeweils 50 Prozent der Ausbildungszeit. Der Bereich "Training und Transfer" macht jeweils 10 Prozent der Lernbereiche "Schule" und "Praxis" aus.
+<sup>1</sup> Die Ausbildung ist in die Lernbereiche "Schule" und "Praxis" aufgeteilt. Auf den Lernbereich "Schule" und den Lernbereich "Praxis" entfallen jeweils 50 Prozent der Ausbildungszeit.
 
-<sup>2</sup> Der Lernbereich "Schule" umfasst 70 Wochen (2'700 Lernstunden) verteilt auf 3 Semester.
+<sup>2</sup> Der Lernbereich "Schule" umfasst 70 Wochen (2'700 Lernstunden) verteilt auf 3 Bildungsjahre.
 
-<sup>3</sup> Der Lernbereich "Praxis" umfasst 70 Wochen (2'700 Lernstunden) verteilt auf 3 Semester. Dieser Bereich ist in Praktika gegliedert, die in den Gesundheitseinrichtungen stattfinden.
+<sup>3</sup> Der Lernbereich "Praxis" umfasst 70 Wochen (2'700 Lernstunden) verteilt auf 3 Bildungsjahre. Dieser Bereich ist in Praktika gegliedert, die in den Gesundheitseinrichtungen stattfinden.
 
-<sup>4</sup> Die verkürzte zweijährige Vollzeitausbildung ist gleich aufgebaut wie die reguläre 3-jährige Ausbildung. Die Studierenden werden ins zweite Bildungsjahr integriert und besuchen den gleichen Unterricht wie die Studierenden der regulären 3-jährigen Vollzeitausbildung.
+<sup>3<sup>bis</sup></sup> Der Bereich "Training und Transfer" entspricht 20 Prozent der Gesamtzahl der Ausbildungsstunden. Er wird gleichmässig unter den Bereichen "Schule" und "Praxis" aufgeteilt.
+
+<sup>4</sup> Die verkürzte 2-jährige Vollzeitausbildung ist gleich aufgebaut wie die reguläre 3-jährige Ausbildung. Die Studierenden werden ins 2. Bildungsjahr integriert und besuchen den gleichen Unterricht wie die Studierenden der regulären 3-jährigen Vollzeitausbildung.
 
 #### Art. 13
 
@@ -186,11 +194,11 @@ verordnet:[^ingress-1]
 
 <sup>1</sup> Die Gesamtverantwortung für die Ausbildung liegt während deren gesamten Dauer bei der Stiftung HF Gesundheit.
 
-<sup>2</sup> Im Lernbereich "Praxis" übernehmen die Gesundheitseinrichtungen, in denen die Praktika stattfinden, eine Mitverantwortung. Den Verantwortlichen der Praktikumsbetriebe steht die fachliche und organisatorische Weisungsbefugnis zu.
+<sup>2</sup> Im Lernbereich "Praxis" übernehmen die Praktikumsbetriebe eine Mitverantwortung. Den Verantwortlichen der Praktikumsbetriebe steht die fachliche und organisatorische Weisungsbefugnis zu.
 
 #### Art. 14
 
-**Ausbildungsverträge und Verträge mit den Ausbildungsbetrieben**
+**Ausbildungsvertrag**
 
 <sup>1</sup> Für die gesamte Ausbildungsdauer wird ein Ausbildungsvertrag erstellt. Der Vertrag regelt namentlich die Dauer der Ausbildung, die Rechte und Pflichten des Studierenden, die Sorgfaltspflicht und die Gesundheitsvorsorge, die Höhe der Entschädigungen, die Ausbildungskosten und die Modalitäten für die Auflösung des Ausbildungsvertrags.
 
@@ -222,26 +230,28 @@ verordnet:[^ingress-1]
 
 **Unentschuldigte oder nicht bewilligte Absenzen**
 
-<sup>1</sup> Eine ordnungsgemäss begründete Beurlaubung von kurzer Dauer kann im Ausnahmefall vom Bildungsgangleiter bewilligt werden. Bei einer Absenz von mehr als 3 Tagen aufgrund gesundheitlicher Probleme muss der Studierende ein Arztzeugnis vorweisen.
+<sup>1</sup> Eine ordnungsgemäss begründete Beurlaubung von kurzer Dauer kann im Ausnahmefall vom Bildungsgangleiter bewilligt werden. Bei einer Absenz von mehr als 3 Tagen aufgrund gesundheitlicher Probleme müssen Studierende innert 7 Tagen ab Beginn der Absenz ein Arztzeugnis vorweisen.
 
 <sup>2</sup> Unentschuldigte oder nicht bewilligte Absenzen können Disziplinarmassnahmen gemäss Artikel 19 Absatz 3 des vorliegenden Reglements nach sich ziehen.
 
-<sup>3</sup> Die Stiftung HF Gesundheit regelt in Weisungen die maximale Anzahl der erlaubten Absenzen im 6. Semester im Sinne von Artikel 17.
+<sup>3</sup> Die Stiftung HF Gesundheit regelt in einer Weisung die maximale Anzahl der erlaubten Absenzen während der praktischen Ausbildung des 3. Ausbildungsjahres im Sinne von Artikel 17 des vorliegenden Reglements.
 
 #### Art. 19
 
 **Disziplin und Massnahmen**
 
-<sup>1</sup> Die Studierenden haben die Regeln der Stiftung HF Gesundheit und gegebenenfalls jene der Partnerschulen und der Praktikumsbetriebe einzuhalten.
+<sup>1</sup> Die Studierenden haben die Regeln der Stiftung HF Gesundheit und der Praktikumsbetriebe einzuhalten.
 
-<sup>2</sup> Bei leichten Disziplinarverstössen oder Störungen des Schulbetriebs kann die operative Leitung der Stiftung HF Gesundheit auf Antrag des Leiters Bildungsgang und nach vorgängigem Gespräch mit dem Studierenden eine schriftliche Verwarnung erteilen.
+<sup>2</sup> Bei leichten Disziplinarverstössen oder Störungen des Schulbetriebs kann die operative Leitung der Stiftung HF Gesundheit auf Antrag des Bildungsgangleiters und nach vorgängigem Gespräch mit dem Studierenden eine schriftliche Verwarnung erteilen.
 
-<sup>3</sup> In folgenden Fällen kann die operative Leitung der Stiftung HF Gesundheit auf Antrag des Leiters Bildungsgang eine schriftliche Verwarnung erteilen, den Ausschluss vom Bildungsgang androhen oder verfügen oder den Ausbildungsvertrag auflösen:
+<sup>3</sup> In folgenden Fällen kann die operative Leitung der Stiftung HF Gesundheit auf Antrag des Bildungsgangleiters eine schriftliche Verwarnung erteilen, den vorübergehenden Ausschluss, den Ausschluss vom Bildungsgang verfügen oder den Ausbildungsvertrag auflösen:
 
 - a) bei schweren oder wiederholten Disziplinarverstössen bzw. Störungen des Schulbetriebs, oder
 - b) bei mit der Ausübung des angestrebten Berufs unvereinbaren schwerwiegenden Verfehlungen.
 
-<sup>4</sup> Die Massnahmen gemäss Absatz 3 des vorliegenden Artikels sind den betroffenen Personen schriftlich samt Rechtsmittelbelehrung mitzuteilen. Vorgängig ist ihnen das rechtliche Gehör zu gewähren.
+<sup>3<sup>bis</sup></sup> Studierende, die aufgrund von Absatz 3 ausgeschlossen worden sind, können unter Einhaltung einer Frist von mindestens 3 Jahren erneut zugelassen werden, falls sie die in Artikel 4 des vorliegenden Reglements definierten Zulassungsbedingungen erfüllen.
+
+<sup>4</sup> Die Massnahmen gemäss Absatz 3 des vorliegenden Artikels sind den betroffenen Studierenden schriftlich samt Rechtsmittelbelehrung mitzuteilen. Vorgängig ist ihnen das rechtliche Gehör zu gewähren.
 
 <sup>5</sup> Die operative Leitung der Stiftung HF Gesundheit informiert den Praktikumsbetrieb über die verfügten Disziplinarmassnahmen.
 
@@ -263,11 +273,13 @@ verordnet:[^ingress-1]
 
 **Gebühr für die Befreiung von bestimmten Zulassungsbedingungen**
 
-<sup>1</sup> Von Kandidaten, die älter als 22 Jahre sind und eine Befreiung vom Erfordernis eines EFZ oder eines Diploms der Sekundarstufe II im Sinne von Artikel 4 Absatz 4 zwecks Gleichwertigkeitsabklärung beantragen, kann eine zusätzliche Gebühr erhoben werden.
+<sup>1</sup> Von Kandidaten, die älter als 22 Jahre sind und eine Befreiung vom Erfordernis eines EFZ oder eines Diploms der Sekundarstufe II im Sinne von Artikel 5 Absatz 1 zwecks Gleichwertigkeitsabklärung beantragen, kann eine zusätzliche Gebühr erhoben werden.
 
-<sup>2</sup> Die Gebühr beträgt 300 Franken.
+<sup>2</sup> Die Gebühr beträgt 300 Franken zusätzlich zur Einschreibegebühr.
 
 <sup>3</sup> Dieser Betrag wird nicht zurückerstattet.
+
+<sup>4</sup> Wird die Gebühr für die Befreiung von bestimmten Zulassungsbedingungen nicht fristgerecht bezahlt, so gilt die Anmeldung des Kandidaten als ungültig.
 
 #### Art. 22
 
@@ -277,22 +289,30 @@ verordnet:[^ingress-1]
 
 <sup>2</sup> Die Studiengebühr wird nicht zurückerstattet.
 
-<sup>3</sup> Wird die Studiengebühr nicht innert 45 Tagen nach Semesterbeginn bezahlt, so führt dies zur definitiven Unterbrechung der Ausbildung.
+<sup>3</sup> Wird die Studiengebühr nicht innert der gewährten Frist bezahlt, so führt dies zur Unterbrechung der Ausbildung.
 
-<sup>4</sup> Studierende, die wegen Nichtbezahlens der Studiengebühr definitiv ausgeschlossen wurden, müssen bei einem neuen Zulassungsgesuch zuerst den ausstehenden Betrag begleichen.
+<sup>4</sup> Studierende, die wegen Nichtbezahlens der Studiengebühr ausgeschlossen wurden, müssen bei einem neuen Zulassungsgesuch zuerst den ausstehenden Betrag begleichen.
 
-<sup>5</sup> Studierende, welche von einem Bildungsgang HF aus disziplinarischen Gründen gemäss den Bestimmungen von Artikel 19 Absatz 3 und Artikel 34 Absatz 1 sowie Artikel 22 Absatz 4 des vorliegenden Reglementes ausgeschlossen worden sind, können innert einer Frist von 5 Jahren wieder zugelassen werden, wenn sie die in Artikel 4 des vorliegenden Reglementes festgelegten Bedingungen erneut erfüllen.
+<sup>5</sup> Studierende, welche gemäss Absatz 3 ausgeschlossen worden sind, können innert einer Frist von 3 Jahren wieder zugelassen werden, wenn sie die in Artikel 4 des vorliegenden Reglementes festgelegten Bedingungen erneut erfüllen.
+
+#### Art. 22a
+
+**Zusätzliche Studiengebühr**
+
+<sup>1</sup> Die Studierenden, die nicht den Kriterien des Wohnortes in einem zahlungspflichtigen Kanton gemäss HFSV entsprechen, entrichten neben der ordentlichen Studiengebühr im Sinne von Artikel 22 des vorliegenden Reglements zwecks Kostendeckung eine zusätzliche Gebühr pro Semester, welche sich auf einen Drittel (1/3) des sich in Kraft befindenden HFSV-Beitrages pro Semester beläuft.
+
+<sup>2</sup> Diese zusätzliche Studiengebühr wird zu Beginn jedes Semesters in Rechnung gestellt. Die operative Leitung der Stiftung HF Gesundheit kann eine Staffelung der Zahlungsfristen gewähren.
 
 #### Art. 23
 
 **Zusätzliche Studienkosten**
 
-<sup>1</sup> Der zusätzliche Betrag zur Deckung bestimmter Studienkosten beläuft sich auf 550 Franken pro Jahr. Er umfasst die folgenden Ausgaben:
+<sup>1</sup> Der zusätzliche Beitrag zur Deckung bestimmter Studienkosten beläuft sich auf 550 Franken pro Jahr, zahlbar in zwei Tranchen von 275 Franken pro Semester. Er umfasst die folgenden Ausgaben:
 
-- a) Kurskosten in der Höhe von 400 Franken für Vorlesungsunterlagen (insbesondere Fotokopien), und
+- a) Kurskosten in der Höhe von 400 Franken für Vorlesungsunterlagen, und
 - b) übrige Leistungen von 150 Franken, darunter unter anderem Beiträge für die Organisation und Betreuung der Praktika sowie für Studienreisen, Fachbesuche und kulturelle Aktivitäten.
 
-<sup>2</sup> Der einmalig zu entrichtende Jahresbeitrag zur Deckung der zusätzlichen Studienkosten ist innert 45 Tagen nach Beginn des Bildungsjahres zu entrichten.
+<sup>2</sup> Der Beitrag, der für die vom Bildungsgang erbrachten Leistungen erhoben wird, muss innerhalb der gewährten Frist beglichen werden.
 
 ## 5 Promotions- und Qualifikationsverfahren
 
@@ -306,11 +326,11 @@ verordnet:[^ingress-1]
 
 #### Art. 25
 
-**Evaluation und Bewertungsinstrumente**
+**Evaluation - Bewertungsinstrumente**
 
 <sup>1</sup> Die Kompetenznachweise sind promotionswirksam und kumulativ zu erbringen.
 
-<sup>2</sup> Ein Kompetenznachweis gilt als erfüllt, wenn 60 Prozent aller Kriterien bzw. der Gesamtpunktzahl erreicht worden sind.
+<sup>2</sup> Kompetenznachweise gelten als erfüllt, wenn 60 Prozent aller Kriterien bzw. der Gesamtpunktzahl erreicht worden sind.
 
 <sup>3</sup> Gemäss dem Rahmenlehrplan ist folgendes Beurteilungsschema anwendbar:
 
@@ -331,6 +351,8 @@ verordnet:[^ingress-1]
 
 <sup>3</sup> Wenn der Studierende im Sinne von Artikel 34 des vorliegenden Reglements vom Bildungsgang ausgeschlossen wird, wird der Ausbildungsvertrag automatisch aufgelöst.
 
+<sup>4</sup> Im Fall von Unterbrechung der Ausbildung (Nichtbestehen, Ausschluss, Aufgabe), übermittelt die Schule dem Studierenden ein Zeugnis einschliesslich der diesbezüglichen Unterlagen, das die in der bis heute im Bildungsgang erworbenen theoretischen und praktischen Qualifikationen ausweist.
+
 ### 5.2 Promotionen im Verlauf der Ausbildung
 
 #### Art. 27
@@ -339,19 +361,19 @@ verordnet:[^ingress-1]
 
 <sup>1</sup> Die Promotion der Studierenden erfolgt auf der Grundlage der Kompetenznachweise in den Lernbereichen "Schule" und "Praxis". Die Nachweise richten sich nach Anhang 1, der integraler Bestandteil des vorliegenden Reglements ist.
 
-<sup>2</sup> Der Kompetenznachweis "Praxis" wird von den Verantwortlichen des Bildungsgangs durchgeführt und muss mindestens die Note E (genügend) aufweisen. Der Kompetenznachweis "Praxis" kann frühestens vier Wochen vor Semesterende bei der Schule eingereicht werden.
+<sup>2</sup> Der Kompetenznachweis "Praxis" wird von den Ausbildungsverantwortlichen am Praktikumsort durchgeführt und muss mindestens die Note E (genügend) aufweisen. Die Bewertung wird zweimal pro Ausbildungsjahr durchgeführt.
 
 #### Art. 28
 
 **Wiederholungsmöglichkeiten**
 
-<sup>1</sup> Erfüllt der Studierende die Voraussetzungen im Lernbereich "Schule" nicht, so muss das Semester im Lernbereich "Schule" wiederholt werden.
+<sup>1</sup> Erfüllt der Studierende die Voraussetzungen im Lernbereich "Schule" nicht, so muss die Ausbildungsperiode in diesem Bereich wiederholt werden.
 
-<sup>2</sup> Während des gesamten Bildungsgangs darf ein Semester im Lernbereich "Schule" nur einmal wiederholt werden.
+<sup>2</sup> Während des gesamten Bildungsgangs darf eine Ausbildungsperiode im Lernbereich "Schule" nur einmal wiederholt werden.
 
-<sup>3</sup> Erfüllt der Studierende die Voraussetzungen im Lernbereich "Praxis" nicht, so muss das Semester in diesem Lernbereich wiederholt werden.
+<sup>3</sup> Erfüllt der Studierende die Voraussetzungen im Lernbereich "Praxis" nicht, so muss die Ausbildungsperiode in diesem Lernbereich wiederholt werden.
 
-<sup>4</sup> Während des gesamten Bildungsgangs darf ein Semester im Lernbereich "Praxis" nur einmal wiederholt werden. Vorbehalten bleibt das abschliessende Qualifikationsverfahren gemäss den Artikeln 29 bis 33.
+<sup>4</sup> Während des gesamten Bildungsgangs darf eine Ausbildungsperiode im Lernbereich "Praxis" nur einmal wiederholt werden. Vorbehalten bleibt das abschliessende Qualifikationsverfahren gemäss den Artikeln 29 bis 33.
 
 ### 5.3 Abschliessendes Qualifikationsverfahren
 
@@ -359,13 +381,13 @@ verordnet:[^ingress-1]
 
 **Bestandteile des abschliessenden Qualifikationsverfahrens**
 
-<sup>1</sup> Das abschliessende Qualifikationsverfahren wird im 6. Semester durchgeführt und besteht aus drei Teilen:
+<sup>1</sup> Das abschliessende Qualifikationsverfahren wird im 3. Ausbildungsjahr durchgeführt und besteht aus drei Teilen:
 
 - a) eine praxisorientierte Diplomarbeit, die eine Thematik aus dem Arbeitsfeld vertieft behandelt und deren Anforderungen in Weisungen definiert sind, welche den Studierenden vorgängig abgegeben werden;
-- b) ein Prüfungsgespräch, bei dem eine bestimmte komplexe berufliche Situation reflektiert wird;
-- c) die Praktikumsqualifikation des 6. Semesters, welche die korrekte Anwendung der Fähigkeiten in Bezug auf reale praktische Situationen zeigt.
+- b) eine mündliche Abschlussprüfung, bei der eine bestimmte komplexe berufliche Situation reflektiert wird;
+- c) die beiden Praktikumsqualifikationen betreffend das 3. Studienjahr, deren Durchschnitt eine Mindestnote von "E" (genügend) aufweist, welche die korrekte Anwendung der Fähigkeiten in Bezug auf reale praktische Situationen zeigen.
 
-<sup>2</sup> Das Qualifikationsverfahren gilt als bestanden, wenn jeder der drei vorgenannten Teile gemäss des in Artikel 25 aufgeführten Bewertungsschemas mit mindestens "genügend" bewertet worden ist.
+<sup>2</sup> Das abschliessende Qualifikationsevaluationsverfahren gilt als bestanden, wenn jeder der drei vorgenannten Teile gemäss des in Artikel 25 aufgeführten Bewertungsschemas mit mindestens "genügend" bewertet worden ist.
 
 #### Art. 30
 
@@ -374,14 +396,14 @@ verordnet:[^ingress-1]
 <sup>1</sup> Nicht bestandene Teile des Qualifikationsverfahrens können gemäss folgenden Modalitäten wiederholt werden:
 
 - a) die Diplomarbeit kann einmal wiederholt werden, ohne dass dadurch die Ausbildungszeit verlängert wird;
-- b) das Prüfungsgespräch kann einmal wiederholt werden, ohne dass dadurch die Ausbildungszeit verlängert wird;
-- c) die Praktikumsqualifikation kann gemäss Rahmenlehrplan frühestens 6 Monate und spätestens 2 Jahre nach der ersten Durchführung wiederholt werden.
+- b) die mündliche Abschlussprüfung kann einmal wiederholt werden, ohne dass dadurch die Ausbildungszeit verlängert wird;
+- c) die Praktikumsqualifikation kann gemäss Rahmenlehrplan frühestens 6 Monate und spätestens 2 Jahre nach der ersten Durchführung wiederholt werden. Der Ausbildungsvertrag wird entsprechend verlängert.
 
 <sup>2</sup> Die Bildungsgangleiter der Stiftung HF Gesundheit legen nach Absprache mit den Beteiligten und in Koordination mit der operativen Leitung den Zeitpunkt der Wiederholung fest.
 
 <sup>3</sup> Der Arbeitsvertrag der von den Gesundheitseinrichtungen angestellten Studierenden wird analog zum Ausbildungsvertrag mit der Stiftung HF Gesundheit verlängert.
 
-<sup>4</sup> Wird der zu wiederholende Teil erneut als ungenügend eingestuft, so gilt das Qualifikationsverfahren als definitiv nicht bestanden. Der Ausbildungsvertrag im Sinne von Artikel 14 wird folglich auf Monatsende aufgelöst.
+<sup>4</sup> Wird der zu wiederholende Teil erneut als ungenügend eingestuft, so gilt das Qualifikationsverfahren als nicht bestanden. Der Ausbildungsvertrag im Sinne von Artikel 14 wird folglich auf Monatsende aufgelöst.
 
 #### Art. 31
 
@@ -389,7 +411,7 @@ verordnet:[^ingress-1]
 
 <sup>1</sup> Die Beurteilungen der drei Teile des Qualifikationsverfahrens werden von je zwei Prüfungsexperten durchgeführt. Die Bewertungen erfolgen im Einvernehmen und die Entscheide werden entsprechend protokolliert.
 
-<sup>2</sup> Das Prüfungsgespräch wird gemeinsam von einem Experten aus der Schule und einem aus dem Praktikumsbetrieb geführt.
+<sup>2</sup> Die mündliche Prüfung wird gemeinsam von einem Experten aus der Schule und einem aus dem Praktikumsbetrieb durchgeführt.
 
 <sup>3</sup> Die Diplomarbeit wird von Lehrpersonen des Lernbereichs "Schule" bewertet.
 
@@ -404,7 +426,7 @@ verordnet:[^ingress-1]
 <sup>1</sup> Das Diplom erhält, wer die nachfolgenden Bedingungen kumulativ erfüllt:
 
 - a) jeder der drei Teile des Qualifikationsverfahrens muss mit mindestens "genügend“ bewertet worden sein, und
-- b) die Anzahl der Absenzen im 6. Semester gemäss der in Artikel 18 Absatz 3 des vorliegenden Reglements genannten Weisung wurde nicht überschritten.
+- b) die Anzahl der Absenzen während der Periode der praktischen Ausbildung im 3. Ausbildungsjahr gemäss der in Artikel 18 Absatz 3 des vorliegenden Reglements genannten Weisung wurde nicht überschritten.
 
 #### Art. 33
 
@@ -412,7 +434,7 @@ verordnet:[^ingress-1]
 
 <sup>1</sup> Das bestandene Diplom berechtigt zum Tragen des eidgenössisch anerkannten Titels "diplomierte Pflegefachfrau HF / diplomierter Pflegefachmann HF".
 
-<sup>2</sup> Das Diplom wird gemeinsam vom Chef des für die Bildung zuständigen Departements sowie dem Präsidenten der Stiftung HF Gesundheit unterzeichnet. Es wird bei den zuständigen Instanzen registriert, namentlich dem Schweizerischen Roten Kreuz (SRK), das im Auftrag des SBFI agiert.
+<sup>2</sup> Das Diplom wird gemeinsam vom Chef des für die Bildung zuständigen Departements sowie dem Präsidenten der Stiftung HF Gesundheit unterzeichnet. Es wird bei den zuständigen Instanzen als reglementierter Beruf registriert, namentlich dem Schweizerischen Roten Kreuz (SRK), das im Auftrag des SBFI agiert.
 
 ### 5.4 Ausschluss
 
@@ -422,23 +444,25 @@ verordnet:[^ingress-1]
 
 <sup>1</sup> Aus dem Bildungsgang ausgeschlossen werden Studierende, die ohne wichtigen Grund:
 
-- a) nicht zu den Kompetenzevaluationen oder zum Prüfungsgespräch des Qualifikationsverfahrens erscheinen;
+- a) nicht zu den Kompetenzevaluationen oder zur mündlichen Prüfung des Qualifikationsverfahrens erscheinen;
 - b) den Kompetenznachweis nicht oder unvollständig erbringen;
 - c) die Diplomarbeit zu spät einreichen.
 
 <sup>2</sup> Aus dem Bildungsgang ausgeschlossen werden ebenfalls Studierende, die:
 
 - a) ein unangemessenes Verhalten gemäss Artikel 19 Absatz 3 an den Tag legen;
-- b) Betrug oder Plagiat im Sinne von Artikel 35 begehen;
+- b) einen schwerwiegenden Betrug oder Plagiat begehen;
 - c) definitiv nicht bestanden haben.
+
+<sup>3</sup> Die ausgeschlossenen Studierenden können unter Einhaltung einer Frist von mindestens 3 Jahren erneut zugelassen werden, sofern sie die Voraussetzungen gemäss Artikel 4 des vorliegenden Reglements erfüllen.
 
 #### Art. 35
 
 **Betrug und Plagiat**
 
-<sup>1</sup> Jegliche Form von Betrug bei Arbeiten oder Prüfungen, einschliesslich Plagiat sowie Plagiats- bzw. Betrugsversuche, hat das Nichtbestehen der entsprechenden Examen oder Module oder sogar den Ausschluss vom Bildungsgang zur Folge.
+<sup>1</sup> Jegliche Form von Betrug bei Arbeiten oder Prüfungen, einschliesslich Plagiat sowie Plagiats- bzw. Betrugsversuche, hat das Nichtbestehen der entsprechenden Examen oder sogar den Ausschluss vom Bildungsgang zur Folge.
 
-<sup>2</sup> Die Verwendung falscher Titel oder Zeugnisse führt zur Aufhebung früherer Entscheide und zum endgültigen Ausschluss vom Bildungsgang.
+<sup>2</sup> Die Verwendung falscher Titel oder Zeugnisse führt zur Aufhebung früherer Entscheide und zum Ausschluss vom Bildungsgang.
 
 ## 6 Rechtsmittel
 
@@ -465,5 +489,11 @@ verordnet:[^ingress-1]
 **Übergangsbestimmungen**
 
 <sup>1</sup> Studierende, die 2019/2020 oder früher den deutschsprachigen Bildungsgang HF Pflege in Visp begonnen haben, unterstehen weiterhin dem Studienreglement betreffend den deutschsprachigen Bildungsgang Pflege HF (höhere Fachschule) vom 13. März 2019.
+
+## T1-1 Übergangsbestimmung der Änderung vom 8. März 2023
+
+#### Art. T1-1
+
+<sup>1</sup> Studierende, die ihre Ausbildung Pflege HF 2020/2021 oder 2021/2022 begonnen haben, bleiben dem Studienreglement betreffend den Bildungsgang Pflege HF (höhere Fachschule) in seinem Wortlaut vom 31. August 2022 unterstellt.
 
 CSW RO/AGS 2021-067
