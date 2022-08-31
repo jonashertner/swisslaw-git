@@ -4,11 +4,11 @@ number: "700.21"
 title: Besondere Bauverordnung I (BBV I)
 short: BBV I
 language: de
-version: "2020-11-01"
-nachtrag: "111"
-valid_until: 2022-09-01
+version: "2022-09-01"
+nachtrag: "118"
+valid_until: 2024-01-01
 adopted: 1981-05-06
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-700_21-1981_05_06-1982_01_01-111.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-700_21-1981_05_06-1982_01_01-118.html"
 text: pdf
 ---
 
@@ -16,13 +16,17 @@ text: pdf
 
 # Besondere Bauverordnung I (BBV I)<sup>67</sup>
 
-(vom 6. Mai 1981)<sup>1</sup>
+(vom 6. Mai 1981)[^t-1]
 
 Der Regierungsrat,
 
-gestützt auf § 359 des Planungs- und Baugesetzes (PBG) vom 7. September 1975<sup>3</sup> und auf § 17 des Energiegesetzes (EnerG) vom 19. Juni 1983<sup>8</sup>,<sup>67</sup>
+gestützt auf § 359 des Planungs- und Baugesetzes (PBG) vom 7. September 1975[^t-2] und auf § 17 des Energiegesetzes (EnerG) vom 19. Juni 1983[^t-3],<sup>67</sup>
 
 beschliesst:
+
+[^t-1]: OS 48, 184.
+[^t-2]: LS 700.1.
+[^t-3]: LS 730.1.
 
 ### I. Teil: Allgemeine Bestimmungen
 
@@ -32,7 +36,9 @@ beschliesst:
 
 <sup>1</sup> Trifft diese Verordnung keine besondern Regelungen hinsichtlich der konstruktiven, technischen und hygienischen Beschaffenheit von Bauten, Anlagen, Ausstattungen und Ausrüstungen, bleiben die einschlägigen Vorschriften des Planungs- und Baugesetzes (PBG) unmittelbar anwendbar.
 
-<sup>2</sup> Vorbehalten bleiben die Besondere Bauverordnung II<sup>5</sup> sowie die Vorschriften über den Brandschutz und die Ausführung von Bauarbeiten.
+<sup>2</sup> Vorbehalten bleiben die Besondere Bauverordnung II[^1-1] sowie die Vorschriften über den Brandschutz und die Ausführung von Bauarbeiten.
+
+[^1-1]: LS 700.22.
 
 #### § 2
 
@@ -54,13 +60,13 @@ Als fachgerecht gilt, was nach dem jeweiligen Stand der Technik möglich ist und
 
 **1**
 
-- 1\. 1. 21 - 111 § 4. <sup>1</sup> Im Anhang zur Verordnung werden Bereiche bezeichnet, die primär der privaten Kontrolle unterstehen.
+1.10. 22 - 118 § 4. <sup>1</sup> Im Anhang zur Verordnung werden Bereiche bezeichnet, die primär der privaten Kontrolle unterstehen.
 
 **Private Kontrolle A. Geltungsbereich und Grundsatz**
 
 <sup>2</sup> Diese Kontrolle wird durch private Fachleute ausgeübt; sie bestätigen unterschriftlich zuhanden der Bewilligungsbehörde<sup>55</sup> auf den Plänen und in einem Bericht, der die Prüfung in nachvollziehbarer Form enthalten muss, dass ein Projekt den massgebenden Bestimmungen entspricht, nach den bewilligten Plänen ausgeführt worden ist oder nach Fertigstellung vorschriftsgemäss betrieben werden kann. Wird in einem Fachbereich eines Bauvorhabens die private Kontrolle durchgeführt, müssen sowohl das Projekt als auch die Ausführung in diesem Fachbereich von der privaten Kontrolle erfasst werden.<sup>34</sup>
 
-<sup>3</sup> Wird bei einem Bauvorhaben das Minergie-Label zugesichert und erteilt, gelten die in Ziff. 3.2 und 3.3 des Anhangs genannten Rechtsnormen als erfüllt.<sup>58</sup>
+<sup>3</sup> Wird bei einem Bauvorhaben das Minergie-Label zugesichert und erteilt, gelten die in Ziff. 3.2, 3.3, 3.4.1 und 3.4.2 des Anhangs genannten Rechtsnormen, soweit sie energetische Anforderungen betreffen, als erfüllt.<sup>83</sup>
 
 <sup>4</sup> Wird eine Ausnahmebewilligung im Sinne von § 220 PBG beansprucht oder wird aus wichtigen Gründen von beachtlich erklärten Richtlinien, Normalien und Empfehlungen im Sinne von § 360 Abs. 3 PBG abgewichen, ist die Bewilligungsbehörde<sup>55</sup> auf dem Plan oder im Bericht ausdrücklich darauf aufmerksam zu machen.
 
@@ -128,7 +134,7 @@ Künstliche Beleuchtung und Belüftung in Arbeitsräumen sind insbesondere zulä
 
 **3**
 
-- 1\. 1. 21 - 111
+1.10. 22 - 118
 
 <sup>2</sup> Bei besonderen Verhältnissen können Erleichterungen gestattet werden.
 
@@ -164,7 +170,7 @@ Arbeitsräume oder bauliche Einheiten von solchen müssen in hinreichender Zahl,
 
 **Einbezug des Umweltschutzrechts**
 
-§ 13.<sup>33</sup> Der Schutz gegen schädlichen oder lästigen Lärm bei der Anwendung des PBG richtet sich nach dem Umweltschutzgesetz<sup>10</sup> und seinen Ausführungsbestimmungen.
+§ 13.<sup>33</sup> Der Schutz gegen schädlichen oder lästigen Lärm bei der Anwendung des PBG richtet sich nach dem Umweltschutzgesetz[^h1AbschnittLärm-1] und seinen Ausführungsbestimmungen.
 
 **Vollzug der Schallschutzmassnahmen**
 
@@ -176,15 +182,21 @@ Arbeitsräume oder bauliche Einheiten von solchen müssen in hinreichender Zahl,
 
 <sup>2</sup> Erfordern Bau-, Ausbau- oder Sanierungsprojekte für National- und Staatsstrassen oder für Anlagen, bei denen eine Bundesbehörde für den Vollzug zuständig ist, die Bestimmung von Empfindlichkeitsstufen im Einzelfall, wird diese von der Baudirektion vorgenommen. Der Regierungsrat kann die Befugnis, allenfalls unter Genehmigungsvorbehalten oder anderen sichernden Bedingungen, Gemeinden übertragen.
 
-<sup>3</sup> Sind für den Vollzug der Lärmschutzverordnung<sup>13</sup> weitere für Grundeigentümer oder andere Betroffene verbindliche Anordnungen erforderlich, werden sie, soweit der Vollzug im kommunalen Zuständigkeitsbereich liegt, von der Gemeindebehörde, im übrigen von der zuständigen Direktion des Regierungsrates getroffen.
+<sup>3</sup> Sind für den Vollzug der Lärmschutzverordnung[^h1AbschnittLärm-2] weitere für Grundeigentümer oder andere Betroffene verbindliche Anordnungen erforderlich, werden sie, soweit der Vollzug im kommunalen Zuständigkeitsbereich liegt, von der Gemeindebehörde, im übrigen von der zuständigen Direktion des Regierungsrates getroffen.
 
 <sup>4</sup> Der Regierungsrat kann im Projektgenehmigungsverfahren anstelle der Baudirektion beschliessen.
 
 **Vollzug des NISSG bei Veranstaltungen mit Schall**
 
-§ 14 a.<sup>74</sup> <sup>1</sup> Das Tiefbauamt vollzieht das Bundesgesetz vom 16. Juni 2017 über den Schutz vor Gefährdungen durch nichtionisierende Strahlung und Schall (NISSG)<sup>18</sup> bei Veranstaltungen mit Schall. Die Baudirektion kann den Vollzug einvernehmlich Städten und Gemeinden übertragen.
+§ 14 a.<sup>74</sup> <sup>1</sup> Das Tiefbauamt vollzieht das Bundesgesetz vom 16. Juni 2017 über den Schutz vor Gefährdungen durch nichtionisierende Strahlung und Schall (NISSG)[^h1AbschnittLärm-3] bei Veranstaltungen mit Schall. Die Baudirektion kann den Vollzug einvernehmlich Städten und Gemeinden übertragen.
 
-<sup>2</sup> Das Verfahren richtet sich nach dem NISSG<sup>18</sup> und der Verordnung vom 27. Februar 2019 zum Bundesgesetz über den Schutz vor Gefährdungen durch nichtionisierende Strahlung und Schall<sup>20</sup> sowie dem Verwaltungsrechtspflegegesetz vom 24. Mai 1959<sup>2</sup>.
+<sup>2</sup> Das Verfahren richtet sich nach dem NISSG[^h1AbschnittLärm-3] und der Verordnung vom 27. Februar 2019 zum Bundesgesetz über den Schutz vor Gefährdungen durch nichtionisierende Strahlung und Schall[^h1AbschnittLärm-4] sowie dem Verwaltungsrechtspflegegesetz vom 24. Mai 1959[^h1AbschnittLärm-5].
+
+[^h1AbschnittLärm-1]: SR 814.01.
+[^h1AbschnittLärm-2]: SR 814.41.
+[^h1AbschnittLärm-3]: SR 814.71.
+[^h1AbschnittLärm-4]: SR 814.711.
+[^h1AbschnittLärm-5]: LS 175.2.
 
 ### 2. Abschnitt: Energienutzung<sup>59</sup>
 
@@ -196,9 +208,7 @@ Arbeitsräume oder bauliche Einheiten von solchen müssen in hinreichender Zahl,
 
 **5**
 
-- 1\. 1. 21 - 111
-
-- b. Ausrüstungen zur Bereitstellung und zur Verteilung von Wärme und Brauchwarmwasser, soweit diese nicht durch das Bundesrecht geregelt sind,
+1.10. 22 - 118 b. Ausrüstungen zur Bereitstellung und zur Verteilung von Wärme und Brauchwarmwasser, soweit diese nicht durch das Bundesrecht geregelt sind,
 
 - c. lüftungstechnische Anlagen.
 
@@ -218,11 +228,11 @@ Arbeitsräume oder bauliche Einheiten von solchen müssen in hinreichender Zahl,
 
 **Einbezug des Umweltschutzrechts**
 
-§ 19.<sup>75</sup> Der Schutz vor Luftverunreinigungen und nichtionisierender Strahlung, einschliesslich Licht, bei der Anwendung von § 226 PBG<sup>3</sup> richtet sich nach dem Umweltschutzgesetz<sup>10</sup> und seinen Ausführungsbestimmungen.
+§ 19.<sup>75</sup> Der Schutz vor Luftverunreinigungen und nichtionisierender Strahlung, einschliesslich Licht, bei der Anwendung von § 226 PBG[^h3AbschnittLuftre-1] richtet sich nach dem Umweltschutzgesetz[^h3AbschnittLuftre-2] und seinen Ausführungsbestimmungen.
 
 **Luftreinhaltung**
 
-§ 19 a.<sup>77</sup> <sup>1</sup> Die Zuständigkeit für die Bewilligung von stationären Anlagen mit Auswirkungen auf die Lufthygiene bezüglich ihrer Übereinstimmung mit den Vorschriften über die Luftreinhaltung richtet sich nach Ziff. 4.1–4.3 des Anhangs der Bauverfahrensverordnung vom 3. Dezember 1997 (BVV)<sup>6</sup>. Die für die Bewilligung zuständige Stelle ist auch zuständig für die Kontrolle der Anlage.
+§ 19 a.<sup>77</sup> <sup>1</sup> Die Zuständigkeit für die Bewilligung von stationären Anlagen mit Auswirkungen auf die Lufthygiene bezüglich ihrer Übereinstimmung mit den Vorschriften über die Luftreinhaltung richtet sich nach Ziff. 4.1–4.3 des Anhangs der Bauverfahrensverordnung vom 3. Dezember 1997 (BVV)[^h3AbschnittLuftre-3]. Die für die Bewilligung zuständige Stelle ist auch zuständig für die Kontrolle der Anlage.
 
 <sup>2</sup> Die Städte Winterthur und Zürich führen für die Beurteilung von Bauten und Anlagen nach Ziff. 4.1–4.3 des Anhangs der BVV eigene Fachstellen. Sie werden für die Bewilligungs- und Kontrolltätigkeit vom Kanton angemessen entschädigt.
 
@@ -234,7 +244,7 @@ Arbeitsräume oder bauliche Einheiten von solchen müssen in hinreichender Zahl,
 
 **Nichtionisierende Strahlung A.Vollzug der Verordnung über den Schutz vor nichtionisierender Strahlung**
 
-§ 19 c.<sup>74</sup> <sup>1</sup> Die Gemeinden vollziehen die Verordnung vom 23. Dezember 1999 über den Schutz vor nichtionisierender Strahlung<sup>19</sup> im Rahmen der Richt- und Nutzungsplanung sowie des Baubewilligungsverfahrens.
+§ 19 c.<sup>74</sup> <sup>1</sup> Die Gemeinden vollziehen die Verordnung vom 23. Dezember 1999 über den Schutz vor nichtionisierender Strahlung[^h3AbschnittLuftre-4] im Rahmen der Richt- und Nutzungsplanung sowie des Baubewilligungsverfahrens.
 
 <sup>2</sup> Das AWEL ist die kantonale Fachstelle für nichtionisierende Strahlung. Ihm obliegen insbesondere a. die fachliche Beratung der Gemeinden,
 
@@ -252,15 +262,22 @@ Arbeitsräume oder bauliche Einheiten von solchen müssen in hinreichender Zahl,
 
 **Radon A. Zuständigkeiten**
 
-§ 19 e.<sup>74</sup> <sup>1</sup> Das AWEL ist die kantonale Fachstelle für Radon. Es a. sorgt für die Durchführung von Radonmessungen nach Art. 164 Abs. 1–3 Strahlenschutzverordnung vom 26. April 2017 (StSV)<sup>14</sup>,
+§ 19 e.<sup>74</sup> <sup>1</sup> Das AWEL ist die kantonale Fachstelle für Radon. Es a. sorgt für die Durchführung von Radonmessungen nach Art. 164 Abs. 1–3 Strahlenschutzverordnung vom 26. April 2017 (StSV)[^h3AbschnittLuftre-5],
 
-- b. ordnet Radonsanierungen nach Art. 166 Abs. 2 und 3 StSV<sup>14</sup> an.
+- b. ordnet Radonsanierungen nach Art. 166 Abs. 2 und 3 StSV[^h3AbschnittLuftre-5] an.
 
-<sup>2</sup> Das Amt für Wirtschaft und Arbeit (AWA) ist zuständig bei Industrie- und Gewerbebetrieben, die dem Arbeitsgesetz vom 13. März 1964<sup>22</sup> unterstehen. Das AWEL unterstützt das AWA beim Vollzug.
+<sup>2</sup> Das Amt für Wirtschaft und Arbeit (AWA) ist zuständig bei Industrie- und Gewerbebetrieben, die dem Arbeitsgesetz vom 13. März 1964[^h3AbschnittLuftre-6] unterstehen. Das AWEL unterstützt das AWA beim Vollzug.
 
 **B. Kosten**
 
 § 19 f.<sup>74</sup> Die Gebäudeeigentümer tragen die Kosten der Radonmessungen und der Sanierungsmassnahmen.
+
+[^h3AbschnittLuftre-1]: LS 700.1.
+[^h3AbschnittLuftre-2]: SR 814.01.
+[^h3AbschnittLuftre-3]: LS 700.6.
+[^h3AbschnittLuftre-4]: SR 814.710.
+[^h3AbschnittLuftre-5]: SR 814.501.
+[^h3AbschnittLuftre-6]: SR 822.11.
 
 ### IV. Teil: Abschrankungen
 
@@ -270,7 +287,7 @@ Arbeitsräume oder bauliche Einheiten von solchen müssen in hinreichender Zahl,
 
 **7**
 
-- 1\. 1. 21 - 111
+1.10. 22 - 118
 
 ### V. Teil: Technische Ausrüstungen
 
@@ -300,7 +317,7 @@ Arbeitsräume oder bauliche Einheiten von solchen müssen in hinreichender Zahl,
 
 § 23.<sup>59</sup> <sup>1</sup> Wird ein Wärmeabgabesystem neu eingebaut oder ersetzt, darf die Vorlauftemperatur bei der massgebenden Auslegetemperatur höchstens 50 °C, bei Fussbodenheizungen höchstens 35 °C betragen. Ausgenommen sind Hallenheizungen mit Bandstrahlern und Heizungssysteme für Spezialbauten wie Gewächshäuser, die nachgewiesenermassen eine höhere Vorlauftemperatur benötigen.
 
-<sup>2</sup> In beheizten Räumen sind Einrichtungen zu installieren, die es ermöglichen, die Raumlufttemperatur einzeln einzustellen und selbsttätig zu regeln. Ausgenommen sind Räume, die überwiegend mittels träger Flächenheizungen mit einer Vorlauftemperatur von höchstens 30 °C beheizt werden.<sup>49</sup>
+<sup>2</sup> In beheizten Räumen sind Einrichtungen zu installieren, die es ermöglichen, die Raumlufttemperatur einzeln einzustellen und selbsttätig zu regeln. Werden Räume überwiegend mittels träger Flächenheizungen mit einer Vorlauftemperatur von höchstens 30 °C beheizt, ist mindestens eine Referenzraumregelung pro Wohn- oder Nutzeinheit zu installieren.<sup>83</sup>
 
 **Instrumentierung**
 
@@ -336,7 +353,7 @@ Arbeitsräume oder bauliche Einheiten von solchen müssen in hinreichender Zahl,
 
 **9**
 
-- 1\. 1. 21 - 111
+1.10. 22 - 118
 
 <sup>4</sup> Die Luftgeschwindigkeiten in Lüftungs- und Klimaanlagen von Bauten sind nach dem jeweiligen Stand der Technik zu wählen. Sie dürfen in Apparaten, bezogen auf die Nettofläche, 2 m/s und in Kanälen folgende Werte nicht überschreiten:
 
@@ -354,7 +371,7 @@ Grössere Luftgeschwindigkeiten sind zulässig, wenn mit einer fachgerechten Ene
 
 § 30 a. <sup>1</sup> Im Gebäude anfallende Abwärme, insbesondere jene aus Kälteerzeugung sowie aus gewerblichen und industriellen Prozessen, ist zu nutzen, soweit dies technisch und betrieblich möglich und wirtschaftlich tragbar ist.<sup>59</sup>
 
-<sup>2</sup> . . .<sup>76</sup>
+<sup>2</sup> Können bei Neubauten oder bei bestehenden Bauten nach Erneuerungen und Umbauten der Kälteerzeugung mehr als zwei Gigawattstunden der Abwärme nicht selbst genutzt werden, ist diese in geeigneter Form Dritten zu den Gestehungskosten zur Nutzung zur Verfügung zu stellen.<sup>76,</sup> <sup>82</sup>
 
 ### 3. Abschnitt: Beförderungsanlagen
 
@@ -406,7 +423,7 @@ Grössere Luftgeschwindigkeiten sind zulässig, wenn mit einer fachgerechten Ene
 
 **11**
 
-- 1\. 1. 21 - 111
+1.10. 22 - 118
 
 ### VI. Teil: Behindertengerechtes Bauen<sup>55</sup>
 
@@ -466,9 +483,31 @@ Die Einstellgelegenheiten für Vorräte und Hausrat müssen pro Wohnung eine Gru
 
 <sup>2</sup> Erleichterungen sind in begründeten Fällen zulässig. Es dürfen dadurch keine hygienischen Missstände auftreten.
 
-### VIII. Teil: Energierechtliche Bestimmungen<sup>25</sup>
+**Gebäudeautomation**
 
-**Verbrauchsabhängige Heiz- und Warmwasserkostenabrechnung a. Installationspflicht**
+§ 41 a.<sup>82</sup> <sup>1</sup> Neubauten der Gebäudekategorien III–XII mit mindestens 5000 m<sup>2</sup> Energiebezugsfläche sind mit Einrichtungen zur Gebäudeautomation auszurüsten, die folgende Überwachungsfunktionen aufweisen:
+
+- a. Erfassung der Energieverbrauchsdaten getrennt nach Hauptenergieträger,
+
+- b. Ermittlung der Energieeffizienz-Kennzahlen der Wärmepumpen und Kältemaschinen,
+
+- c. Ermittlung der Energieeffizienz-Kennzahlen von Anlagen zur Wärmerückgewinnung oder Abwärmenutzung,
+
+- d. Erfassung der Betriebszeiten der Hauptkomponenten für die Aufbereitung und Verteilung von Wärme, Kälte und Luft,
+
+- e. Erfassung der massgebenden Vor- und Rücklauftemperaturen, der Raumtemperatur an den erforderlichen Stellen und der Aussentemperatur.
+
+<sup>2</sup> Die in Abs. 1 erwähnten Daten sind zentral und benutzerfreundlich darzustellen. Die Darstellung muss aussagekräftige Vergleiche mit Vorperioden für mindestens folgende Zeiträume ermöglichen:
+
+- a. Jahr,
+
+- b. Monat oder Woche und
+
+- c. für jeden Tag mindestens eine Periode während und eine ausserhalb der Nutzungszeit.
+
+### VIII. Teil: Energierechtliche Bestimmungen<sup>26</sup>
+
+**Verbrauchsabhängige Heiz- und Warmwasserkostenabrechnung A. Installationspflicht79**
 
 § 42.<sup>65</sup> <sup>1</sup> Dauert die Miete in der Regel mehr als ein Jahr, gelten als Nutzeinheit:
 
@@ -478,23 +517,31 @@ Die Einstellgelegenheiten für Vorräte und Hausrat müssen pro Wohnung eine Gru
 
 <sup>2</sup> Alterssiedlungen mit einem überwiegenden Anteil an Gemeinschaftsräumen gelten als eine Nutzeinheit.
 
-**b. Befreiung**
+§ 42 a.<sup>80</sup>
 
-§ 42 a.<sup>52,</sup> <sup>64</sup> Von der Ausrüstungs- und Abrechnungspflicht des Heizwärmeverbrauchs befreit sind Gebäude und Gebäudegruppen,
+**13**
+
+**Beleuchtungsanlagen**
+
+1.10. 22 - 118 § 43.<sup>79</sup> Von der Ausrüstungs- und Abrechnungspflicht des Heizwärmeverbrauchs pro Nutzeinheit gemäss § 9 Abs. 3 EnerG[^hVIIITeilEnergier-1] befreit sind Gebäude und Gebäudegruppen,
+
+**B. Befreiung**
 
 - a. deren installierte Wärmeerzeugerleistung (einschliesslich Warmwasser) weniger als 20 Watt pro m² Energiebezugsfläche beträgt,
 
-- b. die den Minergie-Standard einhalten.
+- b. die den Minergie-Standard einhalten,
 
-**c. Messgeräte44**
+- c. die mit einem Luftheizsystem beheizt werden,
 
-§ 43.<sup>65</sup> Die Baudirektion legt die für die Abrechnungen zulässigen Geräte fest.
+- d. wenn eine einzelne Nutzeinheit mehr als 80% der beheizten Fläche belegt und die separate Erfassung ihres Verbrauchs zu unverhältnismässigen Kosten führen würde.
+
+[^hVIIITeilEnergier-1]: LS 730.1.
 
 #### § 44
 
-**d. Individuelle Abrechnung**
+**C. Individuelle Abrechnung79**
 
-<sup>1</sup> Sind Gebäude und Gebäudegruppen mit den messtechnischen Einrichtungen gemäss § 9 des Energiegesetzes<sup>8</sup> auszurüsten, werden mindestens 60% der Wärmekosten dem einzelnen Nutzer entsprechend dem tatsächlichen Verbrauch belastet.<sup>65</sup>
+<sup>1</sup> Sind Gebäude und Gebäudegruppen mit den messtechnischen Einrichtungen gemäss § 9 des Energiegesetzes[^hVIIITeilEnergier-1] auszurüsten, werden mindestens 60% der Wärmekosten dem einzelnen Nutzer entsprechend dem tatsächlichen Verbrauch belastet.<sup>65</sup>
 
 <sup>2</sup> Die Baudirektion kann Ausnahmen von der Abrechnungspflicht bewilligen, wenn besondere Verhältnisse dies rechtfertigen.
 
@@ -502,23 +549,41 @@ Die Einstellgelegenheiten für Vorräte und Hausrat müssen pro Wohnung eine Gru
 
 **Klimaanlagen**
 
-§ 45.<sup>65</sup> <sup>1</sup> Anlagen, mit denen die Raumlufttemperatur herabgesetzt oder mit denen ausschliesslich oder zusammen mit der Raumlufttemperatur die Raumluftfeuchtigkeit beeinflusst werden kann, gelten als Klimaanlagen.
+§ 45.<sup>79</sup> <sup>1</sup> Anlagen, mit denen die Raumlufttemperatur herabgesetzt oder mit denen ausschliesslich oder zusammen mit der Raumlufttemperatur die Raumluftfeuchtigkeit beeinflusst werden kann, gelten als Klimaanlagen.
 
-**13**
+<sup>2</sup> Klimaanlagen für die Aufrechterhaltung des Komforts sind in bestehenden Bauten so zu erstellen, dass a. der elektrische Leistungsbedarf für die Medienförderung und die Medienaufbereitung einschliesslich Kühlung, Befeuchtung, Entfeuchtung und Wasseraufbereitung 12 Watt pro m<sup>2</sup> nicht überschreitet,
 
-- 1\. 1. 21 - 111
+- b. die Kaltwassertemperaturen und die Leistungszahlen für die Kälteerzeugung nach dem Stand der Technik ausgelegt sind sowie die Planung und der Betrieb einer Befeuchtung nach dem Stand der Technik erfolgen oder
 
-<sup>2</sup> Klimaanlagen sind nach dem Stand der Technik zu planen und zu erstellen. Die Baudirektion legt für Komfortklimaanlagen die Verfahren und die einzuhaltenden Werte für die Kaltwassertemperaturen und für die Leistungszahlen der Kälteerzeugung fest.
+- c. eine Photovoltaikanlage zur Eigenstromerzeugung installiert wird, deren elektrische Leistung jener zur Deckung des Kältebedarfs entspricht.
 
-<sup>3</sup> Bei Neubauten, Umbauten und Umnutzungen mit einer Energiebezugsfläche von mehr als 1000 m<sup>2</sup> sind die Grenzwerte für den jährlichen Elektrizitätsbedarf für Beleuchtung, Lüftung und Klimatisierung gemäss dem Stand der Technik einzuhalten. Ausgenommen sind Wohnnutzungen. Die Baudirektion legt die Verfahren und die Grenzwerte fest.
+§ 45 a.<sup>78</sup> Bei Neubauten, Umbauten und Umnutzungen mit einer Energiebezugsfläche von mehr als 1000 m<sup>2</sup> müssen die Grenzwerte für den jährlichen Elektrizitätsbedarf für Beleuchtung nach dem Stand der Technik eingehalten werden. Ausgenommen sind Wohnnutzungen. § 45 b.<sup>81</sup> <sup>1</sup> Eine Heizung gilt als Zusatzheizung, wenn die Hauptheizung nicht den ganzen Leistungsbedarf decken kann.
 
 **Zusatz- oder Notheizungen**
-
-§ 45 a.<sup>64</sup> <sup>1</sup> Eine Heizung gilt als Zusatzheizung, wenn die Hauptheizung nicht den ganzen Leistungsbedarf decken kann.
 
 <sup>2</sup> Bei Wärmepumpen dürfen ortsfeste elektrische Widerstandsheizungen als Notheizungen insbesondere bei Aussentemperaturen unter der Auslegetemperatur eingesetzt werden.
 
 <sup>3</sup> Bei handbeschickten Holzheizungen sind ortsfeste elektrische Widerstandsheizungen als Notheizungen bis zu einer Leistung von 50% des Leistungsbedarfs zulässig.
+
+**Ausnahme von der Pflicht zum Ersatz von Elektroheizungen**
+
+§ 45 c.<sup>78</sup> Von der Pflicht zum Ersatz von Elektroheizungen gemäss § 10 b Abs. 3 EnerG ausgenommen sind:
+
+- a. zentrale elektrische Widerstandsheizungen, die als Notheizungen zu Wärmepumpen oder zu Holzheizungen eingebaut sind,
+
+- b. dezentrale elektrische Widerstandsheizungen
+
+- 1\. für Nasszellen und WC-Anlagen,
+
+- 2\. in Gebäuden, die insgesamt eine installierte Leistung von höchstens 3 kW haben oder deren elektrisch beheizte Fläche kleiner als 50 m<sup>2</sup> ist,
+
+- 3\. für die Beheizung einzelner Arbeitsplätze in ungenügend oder nicht beheizten Räumen,
+
+- 4\. in Gebäuden mit einer Photovoltaikanlage, die mindestens 10% mehr Elektrizität erzeugt, als für Heizung und Warmwasser benötigt wird,
+
+- c. elektrische Widerstandsheizungen in Kirchen,
+
+- d. elektrische Widerstandsheizungen in Bauten, die abgelegen oder schlecht zugänglich sind und bei denen die Installation eines anderen Heizsystems technisch nicht möglich, wirtschaftlich nicht zumutbar oder in Anbetracht der Gesamtumstände unverhältnismässig ist.
 
 **Beheizte Freiluftbäder65**
 
@@ -530,45 +595,187 @@ Die Einstellgelegenheiten für Vorräte und Hausrat müssen pro Wohnung eine Gru
 
 <sup>2</sup> Der Bau neuer sowie der Ersatz und die Änderung bestehender Heizungen im Freien kann für den Betrieb mit nicht erneuerbaren Energien bewilligt werden, wenn a. die Sicherheit von Personen, Tieren und Sachen oder der Schutz von technischen Einrichtungen den Betrieb einer Heizung im Freien mit nicht erneuerbaren Energien erfordert,
 
-- b. bauliche Massnahmen (z.B. Überdachungen) und betriebliche Massnahmen (z.B. Schneeräumungen) nicht ausführbar oder unverhältnismässig sind und
+**15**
 
-- c. die Heizung im Freien mit einer temperatur- und feuchteabhängigen Regelung ausgerüstet ist.
+1.10. 22 - 118 b. bauliche Massnahmen (z.B. Überdachungen) und betriebliche Massnahmen (z.B. Schneeräumungen) nicht ausführbar oder unverhältnismässig sind und c. die Heizung im Freien mit einer temperatur- und feuchteabhängigen Regelung ausgerüstet ist.
 
-§ 47.<sup>42</sup> § 47 a.<sup>65</sup> Die Baudirektion legt den zulässigen Wärmebedarf für Neubauten fest. Massgebend sind der Grenzwert für den Heizwärmebedarf und der Wärmebedarf für Warmwasser. Sie kann für einen vereinfachten Nachweis Standardlösungen festlegen.
+§ 47.<sup>42</sup>
 
-#### § 48
+**Deckung des Wärmebedarfs von Neubauten**
 
-**Höchstanteil an nicht erneuerbaren Energien**
+§ 47 a.<sup>79</sup> <sup>1</sup> Für den gewichteten Energiebedarf pro Jahr für Heizung, Warmwasser, Lüftung und Klimatisierung in Neubauten sind folgende Grenzwerte massgebend:
 
-**Dezentrale Wärmekraftkopplungsanlagen65**
+Gebäudekategorie: Grenzwert:
 
-Bewilligungen für Heizanlagen mit einer Feuerungswärmeleistung von 2 Megawatt oder mehr können unter Berücksichtigung von Umweltverträglichkeit, Wirtschaftlichkeit und betrieblicher Gegebenheiten mit der Auflage zur Erstellung einer Wärmekraftkopplungsanlage verbunden werden.
+I Wohnen MFH 35 kWh/m<sup>2</sup> II Wohnen EFH 35 kWh/m<sup>2</sup> III Verwaltung 40 kWh/m<sup>2</sup> IV Schulen 35 kWh/m<sup>2</sup> V Verkauf 40 kWh/m<sup>2</sup> VI Restaurants 45 kWh/m<sup>2</sup> VII Versammlungslokale 40 kWh/m<sup>2</sup> VIII Spitäler 70 kWh/m<sup>2</sup> IX Industrie 20 kWh/m<sup>2</sup> X Lager 20 kWh/m<sup>2</sup> XI Sportbauten 25 kWh/m<sup>2</sup> XII Hallenbäder keine Anforderung
 
-**Grossverbraucher65 a. Zumutbare Massnahmen**
+<sup>2</sup> Bei den Gebäudekategorien VI und XI wird der Bedarf für Warmwasser bei der Berechnung des gewichteten Energiebedarfs nicht berücksichtigt. Bei Vorhaben der Gebäudekategorie XII ist die Nutzung der Abwärme aus Fortluft, Bade- und Duschwasser zu optimieren.
+
+<sup>3</sup> Grenzwerte gemäss Abs. 1 müssen bei Erweiterungen von bestehenden Gebäuden nicht eingehalten werden, wenn die neu geschaffene Energiebezugsfläche a. weniger als 50 m<sup>2</sup> beträgt oder b. höchstens 20% der Energiebezugsfläche des bestehenden Gebäudeteiles und nicht mehr als 1000 m<sup>2</sup> beträgt.
+
+<sup>4</sup> Die Baudirektion regelt das Berechnungsverfahren. Sie kann für einen vereinfachten Nachweis Kombinationen von Standardlösungen festlegen. Sie kann vorsehen, dass bei bestimmten Gebäudekategorien der Energiebedarf für die Klimatisierung bis zu einem gewissen Umfang nicht eingerechnet werden muss, wenn die dafür benötigte Elektrizität mit einer Photovoltaikanlage im Umfang der elektrischen Leistung für die Kälteerzeugung erzeugt wird.
+
+**Eigenstromerzeugung bei Neubauten**
+
+§ 47 b.<sup>78</sup> <sup>1</sup> Die Anlage zur Elektrizitätserzeugung gemäss § 10 c EnerG muss mindestens eine Leistung von 10 Watt pro m<sup>2</sup> Energiebezugsfläche aufweisen. Für Photovoltaikanlagen wird eine Belegung von höchstens 70% der anrechenbaren Gebäudefläche verlangt.
+
+<sup>2</sup> Die Leistung von Anlagen auf dem Grundstück oder in einem Zusammenschluss zum Eigenverbrauch wird angerechnet, sofern die Anlagen nicht älter als acht Jahre sind.
+
+<sup>3</sup> Von der Anforderung gemäss Abs. 1 befreit sind Erweiterungen von bestehenden Gebäuden, wenn die neu geschaffene Energiebezugsfläche a. weniger als 50 m<sup>2</sup> beträgt oder b. höchstens 20% der Energiebezugsfläche des bestehenden Gebäudeteiles und nicht mehr als 1000 m<sup>2</sup> beträgt.
+
+<sup>4</sup> Elektrizität aus Wärmekraftkopplungsanlagen kann berücksichtigt werden, wenn sie nicht zur Erfüllung der Anforderungen gemäss § 47 a eingerechnet wird.
+
+<sup>5</sup> Auf die Eigenstromerzeugung gemäss Abs. 1 kann verzichtet werden, wenn der Grenzwert gemäss § 47 a um 20% unterschritten wird.
+
+**Wärmeerzeuger A. Ausnahmen bei Neubauten**
+
+§ 47 c.<sup>78</sup> Bei Neubauten ist der Einsatz fossiler Brennstoffe in folgenden Fällen zulässig:
+
+- a. für die Abdeckung von Spitzenlasten im Umfang von höchstens 10% des jährlichen Gesamtwärmebedarfs,
+
+- b. bei wärmegeführten Wärmekraftkopplungsanlagen.
+
+**B. Bestehende Bauten 1. Lebenszykluskosten**
+
+§ 47 d.<sup>78</sup> <sup>1</sup> Die Beurteilung der Lebenszykluskosten erfolgt durch einen Vergleich der Jahreskosten eines mit fossilen Brennstoffen betriebenen Wärmeerzeugers mit einem Anschluss an eine Fernwärmeversorgung mit erneuerbaren Energien und einer Luft/Wasser-Wärmepumpe oder einer Erdsonden-Wärmepumpe, sofern diese Systeme verfügbar, zulässig und technisch möglich sind.
+
+<sup>2</sup> Die Jahreskosten der Wärmeerzeugungsanlagen ergeben sich aus der Summe der jährlichen Energie- und Betriebskosten sowie der Annuität der Investitionskosten. Förderbeiträge sind zu berücksichtigen. Für die Berechnung gelten folgende Regeln:
+
+- a. Die Abschreibung richtet sich nach der paritätischen Lebensdauertabelle.
+
+- b. Für die Kosten der elektrischen Energie gilt der von der Eidgenössischen Elektrizitätskommission publizierte Durchschnittsstrompreis für den Kanton Zürich für das Standardprodukt des zutreffenden Verbraucherprofils.
+
+**17**
+
+**C. Wärmeverbund**
+
+1.10. 22 - 118 c. Für die Kosten von Heizöl, Erdgas und Holz gelten die Daten des Bundesamtes für Statistik.
+
+- d. Für die Teuerung gilt der Landesindex der Konsumentenpreise.
+
+- e. Die Grundlage für die Werte gemäss lit. b–d bildet der Durchschnitt der Jahresmittelwerte der vergangenen vier Kalenderjahre.
+
+- f. Als Diskontsatz gilt der Referenzzinssatz für Hypotheken gemäss Art. 12 a der Verordnung vom 9. Mai 1990 über die Miete und Pacht von Wohn- und Geschäftsräumen[^44-1].
+
+- g. Die Mehrwertsteuer wird zum im Jahr der Bewilligung der Wärmeerzeugungsanlage geltenden Satz berücksichtigt. Für die CO2-Abgabe gilt der Mittelwert zwischen dem Abgabesatz im Jahr der Bewilligung und dem Höchstsatz gemäss dem CO2-Gesetz vom 23. Dezember 2011[^44-2].
+
+<sup>3</sup> Die Baudirektion publiziert die nach Abs. 2 zu verwendenden Werte und stellt eine Rechenhilfe zur Verfügung.
+
+**2. Anteil nichterneuerbarer Energien**
+
+§ 47 e.<sup>78</sup> <sup>1</sup> Mit dem Gesuch für den Ersatz eines Wärmeerzeugers gemäss § 11 Abs. 4 EnerG ist nachzuweisen, dass a. die fachgerechte Umsetzung einer Standardlösung gewährleistet ist,
+
+- b. die Zertifizierung des Gebäudes nach Minergie ausgewiesen ist oder
+
+- c. die Klasse D bei der Gesamtenergieeffizienz des Gebäudeenergieausweises der Kantone (GEAK) erreicht ist.
+
+<sup>2</sup> Für ab 1990 erstellte Bauten ist kein Nachweis gemäss Abs. 1 lit. c erforderlich.
+
+<sup>3</sup> Die Anforderungen müssen mit Massnahmen am Standort erfüllt werden. Ersatzweise können Zertifikate gemäss § 11 a EnerG verwendet werden.
+
+**3. Ausnahmen**
+
+§ 47 f.<sup>78</sup> Von den Anforderungen gemäss § 11 Abs. 4 EnerG befreit sind Wärmeerzeuger, die zu mehr als 50% für die Erzeugung von Prozesswärme eingesetzt werden, wenn Temperaturen von mehr als 60° C erreicht werden müssen und eine Abtrennung des Prozesswärmeverteilnetzes vom Heizungsverteilnetz nicht möglich ist.
+
+§ 47 g.<sup>78</sup> Bei Anschluss an ein Wärmenetz sind die Anforderungen gemäss § 11 Abs. 1–4 EnerG erfüllt, wenn mindestens 70% der Wärme ohne CO2-Emissionen aus fossilen Brennstoffen erzeugt wird. § 47 h.<sup>78</sup> Die Zertifikate können im Jahr der Ausstellung oder in den beiden Folgejahren angerechnet werden.
+
+**D. Zertifikate gemäss § 11 a EnerG 1. Anforderungen an die Zertifikate**
+
+**2. Bezugsvereinbarung**
+
+§ 47 i.<sup>78</sup> Die Bezugsvereinbarung regelt insbesondere a. die Vertragsdauer und die Voraussetzungen für die Auflösung des Vertrags,
+
+- b. die Vorgaben an den Anteil erneuerbarer Energie,
+
+- c. die Zustimmung zur Lieferung der für den Vollzug erforderlichen Daten an Dritte,
+
+- d. die Deckung der Vollzugskosten durch den Energielieferanten,
+
+- e. die Einstellung der Brennstofflieferung, falls die erforderlichen Zertifikate nicht vorliegen.
+
+**3. Gasnetzbetreiber**
+
+§ 47 j.<sup>78</sup> Der Gasnetzbetreiber a. beschafft die erforderlichen Zertifikate und erteilt den beteiligten Stellen die erforderlichen Auskünfte für den Vollzug,
+
+- b. gilt im Fall von § 11 a Abs. 2 lit. a EnerG als Energielieferant.
+
+**4. Energielieferant**
+
+§ 47 k.<sup>78</sup> Der Energielieferant a. schliesst die Bezugsvereinbarung ab, beschafft die erforderlichen Zertifikate und erteilt den beteiligten Stellen die erforderlichen Auskünfte für den Vollzug,
+
+- b. bezahlt die Vollzugskosten,
+
+- c. sorgt für die Einstellung der Brennstofflieferung, falls die erforderlichen Zertifikate nicht vorliegen,
+
+- d. lässt seine Tätigkeit jährlich durch eine unabhängige Stelle prüfen und teilt das Ergebnis der Baudirektion mit.
+
+**5. Registerführende Stelle**
+
+§ 47 l.<sup>78</sup> Die registerführende Stelle a. stellt sicher, dass die gelieferten Mengen der zulässigen Brennstoffe der Energielieferanten mit den Angaben zu Produktion und Lager übereinstimmen,
+
+- b. meldet fehlbare Energielieferanten unverzüglich der Gemeinde und der Baudirektion,
+
+- c. bestätigt der Gemeinde und der Baudirektion jährlich für jeden Energielieferanten die Erfüllung der Vorgaben unter Angabe der gelieferten Mengen der zulässigen Brennstoffe pro Gemeinde,
+
+**19**
+
+1.10. 22 - 118 d. lässt ihre Tätigkeit jährlich durch eine unabhängige Stelle prüfen und teilt das Ergebnis der Baudirektion mit,
+
+- e. kann die Vollzugskosten dem Energielieferanten in Rechnung stellen.
+
+**6. Bewilligungsbehörde**
+
+§ 47 m.<sup>78</sup> Die Bewilligungsbehörde a. erfasst jede erteilte Bewilligung und lässt die Bezugsverpflichtung im Grundbuch anmerken,
+
+- b. prüft die jährlichen Meldungen des Energielieferanten,
+
+- c. verfügt die Aufhebung von Bezugsvereinbarungen, falls die erforderlichen Zertifikate nicht vorliegen,
+
+- d. kann die Vollzugskosten dem Energielieferanten in Rechnung stellen.
+
+**Härtefall gemäss § 11 b EnerG**
+
+§ 47 n.<sup>78</sup> Ein Aufschub gemäss § 11 b Abs. 1 EnerG wird gewährt für selbstgenutztes Eigentum, wenn eine Finanzierung der erforderlichen Zusatzinvestitionen mit Fremdkapital oder durch Dritte zu marktüblichen Bedingungen nicht möglich ist.
+
+§ 48.<sup>80</sup>
+
+**Grossverbraucher65 A. Zumutbare Massnahmen79**
 
 § 48 a.<sup>43</sup> Die aufgrund einer Verbrauchsanalyse zu realisierenden Massnahmen sind für Grossverbraucher zumutbar, wenn sie dem Stand der Technik entsprechen sowie über die Nutzungsdauer der Investition wirtschaftlich und nicht mit wesentlichen betrieblichen Nachteilen verbunden sind.
 
-**b. Vereinbarung von Verbrauchszielen**
+**B. Vereinbarung von Verbrauchszielen**
 
-§ 48 b.<sup>43</sup> <sup>1</sup> Die Baudirektion kann im Rahmen der vom Regierungsrat vorgegebenen Ziele mit einzelnen oder mit Gruppen von Grossverbrauchern mittel- und langfristige Verbrauchsziele vereinbaren. Dabei werden die Effizienz des Energieeinsatzes zum Zeitpunkt der Zielfestlegung und die absehbare technische und wirtschaftliche Entwicklung der Verbraucher mit berücksichtigt. Für die Dauer der Vereinbarung sind diese Grossverbraucher von der Einhaltung der §§ 29 Abs. 2 bis 4 (ohne die Einbaupflicht für Wärmerückgewinnungseinrichtungen gemäss Abs. 2), 30 a, 45 und 48 sowie des § 10 a und Art. II Ziff. 3 der Übergangsbestimmungen des Energiegesetzes entbunden. Die Baudirektion kann die Vereinbarung aufheben, wenn die Verbrauchsziele nicht eingehalten werden.
+§ 48 b.<sup>79</sup> <sup>1</sup> Die Baudirektion kann im Rahmen der vom Regierungsrat vorgegebenen Ziele mit einzelnen oder mit Gruppen von Grossverbrauchern mittel- und langfristige Verbrauchsziele vereinbaren. Bei der Festlegung der Ziele werden die aktuelle Effizienz des Energieeinsatzes und die absehbare technische und wirtschaftliche Entwicklung der Verbraucher berücksichtigt.
 
-<sup>2</sup> Grossverbraucher können sich zu Gruppen zusammenschliessen. Sie organisieren sich selber und regeln die Aufnahme und den Ausschluss von Mitgliedern.
+<sup>2</sup> Die Grossverbraucher sind für die Dauer der Vereinbarung von der Einhaltung der Vorgaben in §§ 22 a, 23, 26, 29 Abs. 2–4, 30 a, 45 und 45 a entbunden. Die Baudirektion kann in die Vereinbarung weitere Befreiungen aufnehmen.
 
-**Nachrüstung mit Wärmerückgewinnungseinrichtungen65**
+<sup>3</sup> Die Baudirektion kann die Vereinbarung aufheben, wenn die Verbrauchsziele nicht eingehalten werden.
 
-§ 48 c.<sup>43</sup> Die Baudirektion kann bestimmte Arten von bestehenden Lüftungsanlagen, bei denen Grösse, Betriebsdauer oder besondere Verhältnisse die Nachrüstung mit Wärmerückgewinnungseinrichtungen als unverhältnismässig erscheinen lassen, von der Pflicht zur Nachrüstung ausnehmen.
+<sup>4</sup> Grossverbraucher können sich zu Gruppen zusammenschliessen. Sie organisieren sich selber und regeln die Aufnahme und den Ausschluss von Mitgliedern.
 
-#### § 49
+**Betriebsoptimierung**
+
+§ 48 c.<sup>79</sup> <sup>1</sup> Von der Pflicht zur Vornahme einer Betriebsoptimierung befreit sind Betriebsstätten a. mit einem Elektrizitätsverbrauch von weniger als 200 000 kWh pro Jahr,
+
+- b. für die eine Zielvereinbarung als Grossverbraucher abgeschlossen wurde oder
+
+- c. für die eine freiwillige Zielvereinbarung abgeschlossen wurde (KMU-Modell).
+
+<sup>2</sup> Die Betriebsoptimierung umfasst die Überprüfung der Einstell- und Verbrauchswerte der Heizungs-, Lüftungs-, Klima-, Kälte-, Sanitär-, Elektro- und Gebäudeautomationsanlagen. Besteht Optimierungsbedarf, werden die Anlagen neu eingestellt.
+
+<sup>3</sup> Die durchgeführten Arbeiten werden in einem Bericht festgehalten. Der Bericht enthält Angaben über den Planungswert und den Energieverbrauch in den ersten zwei Betriebsjahren.
+
+<sup>4</sup> Die Betreiber bewahren den Bericht zur Betriebsoptimierung während zehn Jahren auf.
 
 **Vollzug und Übergangsbestimmungen65**
 
-Der Vollzug dieser Bestimmungen richtet sich nach §§ 309ff. PBG. Die Übergangsbestimmungen gemäss §§ 353 ff. PBG sind sinngemäss anwendbar.
+§ 49.<sup>79</sup> Der Vollzug dieser Bestimmungen richtet sich nach §§ 309 ff. PBG[^44-3]. § 220 PBG und die Übergangsbestimmungen gemäss §§ 353 ff. PBG sind sinngemäss anwendbar.
 
-**15**
+[^44-1]: SR 221.213.11.
+[^44-2]: SR 641.71.
+[^44-3]: LS 700.1.
 
-- 1\. 1. 21 - 111
-
-### IX. Teil: Schlussbestimmungen<sup>26</sup>
+### IX. Teil: Schlussbestimmungen<sup>27</sup>
 
 #### § 50
 
@@ -588,15 +795,16 @@ Die nachstehenden Verordnungen werden aufgehoben:
 
 - f. Verordnung über die Unterbringung von Motorfahrzeugen und Maschinen mit Verbrennungsmotoren sowie über die Lagerung der für sie bestimmten Treibstoffe (Garagenverordnung) vom 20. März 1969.
 
-#### § 51
+**21**
+
+1.10. 22 - 118 § 51. Die nachstehenden Verordnungen werden wie folgt geändert: . . .[^50-1]
 
 **Änderung bisherigen Rechts**
 
-Die nachstehenden Verordnungen werden wie folgt geändert: . . .<sup>23</sup>
+§ 52. Diese Verordnung tritt auf den gleichen Zeitpunkt wie die Besondere Bauverordnung II in Kraft[^50-2].
 
-#### § 52
-
-Diese Verordnung tritt auf den gleichen Zeitpunkt wie die Besondere Bauverordnung II in Kraft<sup>24</sup>.
+[^50-1]: Text siehe OS 48, 193 und 194.
+[^50-2]: In Kraft seit 1. Januar 1982 (OS 48, 303).
 
 ### Übergangsbestimmung zur Änderung vom 30. März 2005 (OS 60, 135)
 
@@ -606,9 +814,9 @@ Feuerungen mit einer Leistung von 350 kW bis 1000 kW, die bis 31. Dezember 2004 
 
 ### 1. Als Verordnungsbestimmungen gelten<sup>30</sup>
 
-1.1 Wärmedämmung 1.11<sup>59</sup> Wärmedämmvorschriften der Baudirektion, Ausgabe 2009 1.12<sup>28</sup> . . .
+1.1 Wärmedämmung 1.11<sup>83</sup> Wärmedämmvorschriften der Baudirektion[^h1AlsVerordnungsbe-1] 1.12<sup>28</sup> . . .
 
-1.2<sup>66</sup> Klima-, Belüftungs- und Beleuchtungsanlagen 1.21<sup>66</sup> Verordnung der Baudirektion über energetische Anforderungen bei Klima-, Belüftungs- und Beleuchtungsanlagen vom 7. Februar 2013<sup>3</sup>
+1.2<sup>84</sup> 1.21<sup>84</sup>
 
 - 2\. Als Richtlinien und Normalien sind zu beachten<sup>30</sup> 2.0 Hygiene 2.01<sup>69</sup> . . .
 
@@ -624,13 +832,15 @@ Feuerungen mit einer Leistung von 350 kW bis 1000 kW, die bis 31. Dezember 2004 
 
 - a. Fahrzeugeinstellräume, die nichtgewerblichen Zwecken dienen, dürfen nur mit Abwärme, die nicht anderweitig genutzt werden kann, beheizt werden.
 
-2.32<sup>74</sup> Norm SIA 491: 2013, Vermeidung unnötiger Lichtemissionen im Aussenraum (Norm SN 586 491) 2.4<sup>51</sup> . . .
+2.32<sup>74</sup> Norm SIA 491: 2013, Vermeidung unnötiger Lichtemissionen im Aussenraum (Norm SN 586 491) 2.33<sup>82</sup> Norm SIA 387/4 Elektrizität in Gebäuden – Beleuchtung: Berechnung und Anforderungen, Ausgabe 2017, mit folgender Ergänzung:
 
-2.5<sup>40</sup> Behinderten- und betagtengerechtes Bauen 2.51<sup>59</sup> Norm SIA 500:2009, Hindernisfreie Bauten
+- a. Die Anforderung gilt ebenfalls als erfüllt, wenn mit dem Hilfsprogramm Beleuchtung der Konferenz Kantonaler Energiefachstellen nachgewiesen wird, dass die Vorgabe an die spezifische Leistung pL eingehalten wird.
 
-**17**
+**23**
 
-- 1\. 1. 21 - 111 2.52<sup>39</sup> Empfehlung Wohnungsbau hindernisfrei – anpassbar, Schweizerische Fachstelle für behindertengerechtes Bauen, Ausgabe 1992 2.6<sup>41</sup> Abfallentsorgung 2.61<sup>41</sup> Empfehlung SIA 430, Ausgabe 1993, Entsorgung von Bauabfällen bei Neubau-, Umbau- und Abbrucharbeiten (Norm SN 509 430) 2.62<sup>73</sup> Richtlinie des Kantons Zürich, Behandlungsregel für verschmutzte Bauabfälle und Aushub- und Ausbruchmaterial im
+1.10. 22 - 118 2.4<sup>51</sup> . . .
+
+2.5<sup>40</sup> Behinderten- und betagtengerechtes Bauen 2.51<sup>59</sup> Norm SIA 500:2009, Hindernisfreie Bauten 2.52<sup>39</sup> Empfehlung Wohnungsbau hindernisfrei – anpassbar, Schweizerische Fachstelle für behindertengerechtes Bauen, Ausgabe 1992 2.6<sup>41</sup> Abfallentsorgung 2.61<sup>41</sup> Empfehlung SIA 430, Ausgabe 1993, Entsorgung von Bauabfällen bei Neubau-, Umbau- und Abbrucharbeiten (Norm SN 509 430) 2.62<sup>73</sup> Richtlinie des Kantons Zürich, Behandlungsregel für verschmutzte Bauabfälle und Aushub- und Ausbruchmaterial im
 
 Hinblick auf die Verwertung, Ausgabe Februar 2017
 
@@ -638,105 +848,89 @@ Hinblick auf die Verwertung, Ausgabe Februar 2017
 
 - 3\. Private Kontrolle<sup>40</sup> Der privaten Kontrolle werden hinsichtlich Projekt und Ausführung unterstellt:
 
-3.1<sup>46</sup> (im Fachbereich Schutz vor Lärm) a. die Bestimmungen über die Abschirmung von Gebäuden gegen äusseren und inneren Lärm (§§ 13–14), b.<sup>70</sup> die Bestimmungen über den Lärm von Luft/Wasser-Wärmepumpen (Art. 7 Abs. 1, Art. 32 und Anhang 6 der Lärmschutz-Verordnung [LSV] vom 15. Dezember 1986<sup>13</sup>); 3.2<sup>55</sup> (im Fachbereich Wärmedämmung) a.<sup>59</sup> die Bestimmungen über den Wärmeschutz von Bauten und Anlagen (§§ 15, 16 Abs. 1 lit. a, 18 und Wärmedämmvorschriften), b.<sup>67</sup> die Bestimmungen über den Höchstanteil an nichterneuerbaren Energien (§ 47 a, § 10 a EnerG<sup>8</sup> und die entsprechenden Bestimmungen der Wärmedämmvorschriften), sofern die Zielerreichung ausschliesslich mittels Massnahmen an der Wärmedämmung erfolgt; sind zur Zielerreichung auch andere Massnahmen erforderlich, gilt die Bestätigung nur in Kombination mit der Bestätigung der entsprechenden Fachbereiche;
+3.1<sup>46</sup> (im Fachbereich Schutz vor Lärm) a. die Bestimmungen über die Abschirmung von Gebäuden gegen äusseren und inneren Lärm (§§ 13–14), b.<sup>70</sup> die Bestimmungen über den Lärm von Luft/Wasser-Wärmepumpen (Art. 7 Abs. 1, Art. 32 und Anhang 6 der Lärmschutz-Verordnung [LSV] vom 15. Dezember 1986[^h1AlsVerordnungsbe-2]; (im Fachbereich Wärmedämmung) a. die Bestimmungen über den Wärmeschutz von Bauten und Anlagen (§§ 15, 16 Abs. 1 lit. a, 18 und die entsprechenden Bestimmungen der Wärmedämmvorschriften),
 
-**3.348**
+**3.283**
 
-(im Fachbereich Heizungsanlagen) a. die Bestimmungen über die Luftreinhaltung (§§ 19, 21 und Anhang Ziff. 2.22, 2.23, 2.25) (ohne Vorhaben, die gemäss Anhang zur Bauverfahrensverordnung<sup>6</sup> der Zuständigkeit des Staates unterstehen), b.<sup>62</sup> die Bestimmungen über Heizungsanlagen und Wassererwärmung (§§ 22 a, 23–26, 30 a), c.<sup>59</sup> die Bestimmungen über den Wärmeschutz von Bauten und Anlagen (§§ 15, 16 Abs. 1 lit. b, 18, Wärmedämmvorschriften und Anhang 2.1 der Energieverordnung des Bundes<sup>9</sup>), d.<sup>67</sup> die Bestimmungen über die Installationspflicht von Messgeräten zur Erfassung des individuellen Wärmeverbrauchs (§§ 42–43 sowie § 9 EnerG<sup>8</sup>), e.<sup>67</sup> die Bestimmungen über ortsfeste elektrische Widerstandsheizungen (§ 45 a sowie § 10 b EnerG<sup>8</sup>), beheizte Freiluftschwimmbäder (§ 46 sowie § 12 Abs. 3 und 4 EnerG<sup>8</sup>), Heizungen im Freien (§ 46 a sowie § 12 Abs. 1 und 2 EnerG<sup>8</sup>), und Elektrizitätserzeugungsanlagen (§ 12 b EnerG<sup>8</sup>), f.<sup>67</sup> die Bestimmungen über den Höchstanteil an nichterneuerbaren Energien (§ 47 a, § 10 a EnerG<sup>8</sup> und die entsprechenden Bestimmungen der Wärmedämmvorschriften), sofern die Zielerreichung ausschliesslich mittels heizungstechnischer Massnahmen erfolgt; sind zur Zielerreichung auch andere Massnahmen erforderlich, gilt die Bestätigung nur in Kombination mit der Bestätigung der entsprechenden Fachbereiche, g.<sup>70</sup> die Bestimmungen über den Lärm von Luft/Wasser-Wärmepumpen (Art. 7 Abs. 1, Art. 32 und Anhang 6 LSV<sup>13</sup>), sofern sie mittels einfacher Massnahmen gemäss Formular der Fachstelle Lärmschutz eingehalten werden können;
+- b. die Bestimmungen über die Deckung des Wärmebedarfs von Neubauten (§ 47 a sowie § 10 a EnerG[^h1AlsVerordnungsbe-3] und die entsprechenden Bestimmungen der Wärmedämmvorschriften), sofern die Zielerreichung ausschliesslich mit Massnahmen zur Wärmedämmung der Gebäudehülle erfolgt; sind zur Zielerreichung auch andere Massnahmen erforderlich, gilt die Bestätigung nur in Kombination mit der Bestätigung der entsprechenden Fachbereiche,
 
-**19**
+- c. die Bestimmungen über die Eigenstromerzeugung bei Neubauten (§ 47 b sowie § 10 c EnerG);
 
-- 1\. 1. 21 - 111 (im Fachbereich Klima- und Belüftungsanlagen) a.<sup>67</sup> die Bestimmungen über Klima- und Belüftungsanlagen (§§ 29, 30, 37, 45 Abs. 2 und 3, 48 c sowie Anhang Ziff. 1.2 und 2.3), b.<sup>58</sup> die Bestimmungen über den Wärmeschutz von Bauten und Anlagen (§§ 15, 16 Abs. 1 lit. c, 18 und Wärmedämmvorschriften), c.<sup>67</sup> die Bestimmungen über den Höchstanteil an nichterneuerbaren Energien (§ 47 a, § 10 a EnerG<sup>8</sup> und die entsprechenden Bestimmungen der Wärmedämmvorschriften), sofern die Zielerreichung ausschliesslich mittels lüftungstechnischer Massnahmen erfolgt; sind zur Zielerreichung auch andere Massnahmen erforderlich, gilt die Bestätigung nur in Kombination mit der Bestätigung der entsprechenden Fachbereiche,
+**3.383**
 
-**3.4.155**
+(im Fachbereich Heizungsanlagen) a. die Bestimmungen über die Luftreinhaltung (§§ 19, 21 und Anhang Ziff. 2.22, 2.23, 2.25) (ohne Vorhaben, die gemäss Anhang zur Bauverfahrensverordnung[^h1AlsVerordnungsbe-4] der Zuständigkeit des Staates unterstehen),
 
-- d. die Bestimmungen über Abluftanlagen von Wirtschaftsküchen (§ 41 sowie Anhang Ziff. 2.25);
+- b. die Bestimmungen über Heizungsanlagen und Wassererwärmung (§§ 22 a, 23–26, 30 a, 41 a),
 
-**3.4.248**
+- c. die Bestimmungen über den Wärmeschutz von Bauten und Anlagen (§§ 15, 16 Abs. 1 lit. b, 18 und die entsprechenden Bestimmungen der Wärmedämmvorschriften), d.<sup>67</sup> die Bestimmungen über die Installationspflicht von Messgeräten zur Erfassung des individuellen Wärmeverbrauchs (§§ 42–43 sowie § 9 EnerG[^h1AlsVerordnungsbe-3],
 
-(im Fachbereich Beleuchtungsanlagen) a.<sup>67</sup> die Bestimmungen über Beleuchtungsanlagen (§§ 29 Abs. 1 und 45 Abs. 3 sowie Anhang Ziff. 1.2);
+- e. die Bestimmungen über ortsfeste elektrische Widerstandsheizungen (§ 45 b sowie § 10 b EnerG), beheizte Freiluftschwimmbäder (§ 46 sowie § 12 Abs. 3 und 4 EnerG), Heizungen im Freien (§ 46 a sowie § 12 Abs. 1 und 2 EnerG) und Elektrizitätserzeugungsanlagen (§ 12 b EnerG),
+
+- f. die Bestimmungen über die Deckung des Wärmebedarfs von Neubauten (§ 47 a sowie § 10 a EnerG und die entsprechenden Bestimmungen der Wärmedämmvorschriften), sofern die Zielerreichung ausschliesslich mittels heizungstechnischer Massnahmen erfolgt; sind zur Zielerreichung auch andere Massnahmen erforderlich, gilt die Bestätigung nur in Kombination mit der Bestätigung der entsprechenden Fachbereiche,
+
+**25**
+
+1.10. 22 - 118 g.<sup>70</sup> die Bestimmungen über den Lärm von Luft/Wasser-Wärmepumpen (Art. 7 Abs. 1, Art. 32 und Anhang 6 LSV[^h1AlsVerordnungsbe-2], sofern sie mittels einfacher Massnahmen gemäss Formular der Fachstelle Lärmschutz eingehalten werden können,
+
+- h. die Bestimmungen über Wärmeerzeuger (§§ 47 c–47 g sowie § 11 EnerG),
+
+- i. die Bestimmungen über die Eigenstromerzeugung bei Neubauten (§ 47 b sowie § 10 c EnerG);
+
+**3.4.183**
+
+(im Fachbereich Klima- und Belüftungsanlagen) a. die Bestimmungen über Klima- und Belüftungsanlagen (§§ 29, 30, 37, 41 a, 45 sowie Anhang Ziff. 2.31),
+
+- b. die Bestimmungen über den Wärmeschutz von Bauten und Anlagen (§§ 15, 16 Abs. 1 lit. c, 18 und die entsprechenden Bestimmungen der Wärmedämmvorschriften),
+
+- c. die Bestimmungen über die Deckung des Wärmebedarfs von Neubauten (§ 47 a sowie § 10 a EnerG und die entsprechenden Bestimmungen der Wärmedämmvorschriften), sofern die Zielerreichung ausschliesslich mittels lüftungstechnischer Massnahmen erfolgt; sind zur Zielerreichung auch andere Massnahmen erforderlich, gilt die Bestätigung nur in Kombination mit der Bestätigung der entsprechenden Fachbereiche,
+
+- d. die Bestimmungen über Abluftanlagen von Wirtschaftsküchen (§ 41 sowie Anhang Ziff. 2.25),
+
+- e. die Bestimmungen über die Eigenstromerzeugung bei Neubauten (§ 47 b sowie § 10 c EnerG);
+
+**3.4.283**
+
+(im Fachbereich Beleuchtungsanlagen) a. die Bestimmungen über Beleuchtungsanlagen (§§ 29 Abs. 1 und 45 a sowie Anhang Ziff. 2.33),
+
+- b. die Bestimmungen über die Eigenstromerzeugung bei Neubauten (§ 47 b sowie § 10 c EnerG);
 
 **3.563 3.654**
 
 . . .
 
-(im Fachbereich Industrieabwasser und Industrieabfall) a.<sup>68</sup> die Bestimmungen über Behandlung und Ableitung von Industrieabwasser (Art. 7 und 12 Gewässerschutzgesetz<sup>11</sup>, Art. 6 und 7 Gewässerschutzverordnung<sup>12</sup> sowie Anhang Ziff. 2.4 BVV),
+(im Fachbereich Industrieabwasser und Industrieabfall) a.<sup>68</sup> die Bestimmungen über Behandlung und Ableitung von Industrieabwasser (Art. 7 und 12 Gewässerschutzgesetz[^h1AlsVerordnungsbe-5], Art. 6 und 7 Gewässerschutzverordnung[^h1AlsVerordnungsbe-6] sowie Anhang Ziff. 2.4 BVV),
 
-- b. die Bestimmungen über Entstehung, Lagerung und Entsorgung von Abfällen (Art. 30 ff. Umweltschutzgesetz<sup>10</sup> sowie Anhang Ziff. 5.5 BVV);
+- b. die Bestimmungen über Entstehung, Lagerung und Entsorgung von Abfällen (Art. 30 ff. Umweltschutzgesetz[^h1AlsVerordnungsbe-7] sowie Anhang Ziff. 5.5 BVV);
 
 **3.768**
 
-(im Fachbereich Löschwasserrückhaltung und Güterumschlagplätze) a. die Bestimmungen über die Löschwasserrückhaltung (Art. 16 Gewässerschutzverordnung<sup>12</sup> sowie Anhang Ziff. 2.4 BVV),
+(im Fachbereich Löschwasserrückhaltung und Güterumschlagplätze) a. die Bestimmungen über die Löschwasserrückhaltung (Art. 16 Gewässerschutzverordnung[^h1AlsVerordnungsbe-6] sowie Anhang Ziff. 2.4 BVV),
 
-- b. die Bestimmungen über Absicherung von Güterumschlagplätzen (Art. 16 Gewässerschutzverordnung<sup>12</sup> sowie Anhang Ziff. 2.4 BVV);
+- b. die Bestimmungen über Absicherung von Güterumschlagplätzen (Art. 16 Gewässerschutzverordnung[^h1AlsVerordnungsbe-6] sowie Anhang Ziff. 2.4 BVV);
 
 **3.868**
 
-(im Fachbereich Lager- und Betriebsanlagen sowie Gebindelager) a. die Bestimmungen über Lager- und Betriebsanlagen sowie Gebindelager mit wassergefährdenden Flüssigkeiten (Art. 22 ff. Gewässerschutzgesetz<sup>11</sup> sowie Anhang Ziff. 2.5 BVV);
+(im Fachbereich Lager- und Betriebsanlagen sowie Gebindelager) a. die Bestimmungen über Lager- und Betriebsanlagen sowie Gebindelager mit wassergefährdenden Flüssigkeiten (Art. 22 ff. Gewässerschutzgesetz[^h1AlsVerordnungsbe-5] sowie Anhang Ziff. 2.5 BVV);
 
 **3.954**
 
-(im Fachbereich Liegenschaftsentwässerung bei Industrie und Gewerbe) a. die Bestimmungen über Liegenschaftsentwässerung bei Industrie und Gewerbe (Art. 7 Gewässerschutzgesetz<sup>11</sup> und Anhang Ziff. 2.1 und 2.2 BVV);
+(im Fachbereich Liegenschaftsentwässerung bei Industrie und Gewerbe) a. die Bestimmungen über Liegenschaftsentwässerung bei Industrie und Gewerbe (Art. 7 Gewässerschutzgesetz[^h1AlsVerordnungsbe-5] und Anhang Ziff. 2.1 und 2.2 BVV);
 
 **3.1061**
 
-(Fachbereich Entsorgung beim Bauen auf belasteten Standorten) a.<sup>73</sup> die Bestimmungen über die Vermeidung und Entsorgung von Abfällen sowie über die Behandlung und Verwertung bestimmter Abfälle (Art. 30 ff. Bundesgesetz vom 7. Oktober 1983 über den Umweltschutz, USG<sup>10</sup>, Art. 9, Art. 16– 20, Anhang 3 und 5 Verordnung vom 4. Dezember 2015 über die Vermeidung und die Entsorgung von Abfällen<sup>15</sup>, Art. 4 ff. und Anhang 1 Verordnung vom 22. Juni 2005 über den Verkehr mit Abfällen<sup>16</sup>, Art. 15 Abs. 2 und 3 sowie Art. 52 Abs. 1 Freisetzungsverordnung vom 10. September 2008<sup>21</sup>, § 1 Abs. 2 Abfallgesetz vom 25. September 1994<sup>7</sup>),
+(Fachbereich Entsorgung beim Bauen auf belasteten Standorten) a.<sup>73</sup> die Bestimmungen über die Vermeidung und Entsorgung von Abfällen sowie über die Behandlung und Verwertung bestimmter Abfälle (Art. 30 ff. Bundesgesetz vom 7. Oktober 1983 über den Umweltschutz, USG[^h1AlsVerordnungsbe-7], Art. 9, Art. 16– 20, Anhang 3 und 5 Verordnung vom 4. Dezember 2015 über die Vermeidung und die Entsorgung von Abfällen[^h1AlsVerordnungsbe-8], Art. 4 ff. und Anhang 1 Verordnung vom 22. Juni 2005 über den Verkehr mit Abfällen[^h1AlsVerordnungsbe-9], Art. 15 Abs. 2 und 3 sowie Art. 52 Abs. 1 Freisetzungsverordnung vom 10. September 2008[^h1AlsVerordnungsbe-10], § 1 Abs. 2 Abfallgesetz vom 25. September 1994),
 
-- b. die Bestimmungen über Erstellung und Änderungen von Bauten und Anlagen auf belasteten Standorten (Art. 3, 5 und 24 Altlasten-Verordnung vom 26.August 1998<sup>17</sup>, § 236 Abs. 1 PBG<sup>3</sup> sowie Anhang Ziff. 1.7 Bauverfahrensverordnung vom 3. Dezember 1997<sup>6</sup>).
+- b. die Bestimmungen über Erstellung und Änderungen von Bauten und Anlagen auf belasteten Standorten (Art. 3, 5 und 24 Altlasten-Verordnung vom 26.August 1998[^h1AlsVerordnungsbe-11], § 236 Abs. 1 PBG[^h1AlsVerordnungsbe-12] sowie Anhang Ziff. 1.7 Bauverfahrensverordnung vom 3. Dezember 1997[^h1AlsVerordnungsbe-4].
 
-**3.1172**
+**27**
 
-(Fachbereich Rück- und Umbau von Bauten und Anlagen) a. die Bestimmungen über die Ermittlung, Vermeidung und Entsorgung von Bauabfällen aus dem Rück- und Umbau von Bauten und Anlagen (Art. 30 ff. USG<sup>10</sup>, Art. 9, Art. 16– 20, Anhang 3 und 5 Verordnung vom 4. Dezember 2015 über die Vermeidung und die Entsorgung von Abfällen<sup>15</sup>, Art. 4 ff. und Anhang 1 Verordnung vom 22. Juni 2005 über den Verkehr mit Abfällen<sup>16</sup>, § 236 Abs. 1 und § 239 Abs. 2 PBG<sup>3</sup>).
+**3.1172 a.**
 
-<sup>3</sup> LS 700.1.
+1.10. 22 - 118 (Fachbereich Rück- und Umbau von Bauten und Anlagen) die Bestimmungen über die Ermittlung, Vermeidung und Entsorgung von Bauabfällen aus dem Rück- und Umbau von Bauten und Anlagen (Art. 30 ff. USG[^h1AlsVerordnungsbe-7], Art. 9, Art. 16– 20, Anhang 3 und 5 Verordnung vom 4. Dezember 2015 über die Vermeidung und die Entsorgung von Abfällen[^h1AlsVerordnungsbe-8], Art. 4 ff. und Anhang 1 Verordnung vom 22. Juni 2005 über den Verkehr mit Abfällen[^h1AlsVerordnungsbe-9], § 236 Abs. 1 und § 239 Abs. 2 PBG[^h1AlsVerordnungsbe-12].
 
-<sup>4</sup> LS 700.212.
+<sup>26</sup> Eingefügt durch RRB vom 6. November 1985 (OS 49, 553). Bisherige §§ 42– 44 werden §§ 50–52.
 
-<sup>5</sup> LS 700.22.
-
-<sup>6</sup> LS 700.6.
-
-<sup>7</sup> LS 712.1.
-
-<sup>8</sup> LS 730.1.
-
-<sup>9</sup> SR 730.01.
-
-<sup>10</sup> SR 814.01.
-
-<sup>11</sup> SR 814.20.
-
-<sup>12</sup> SR 814.201.
-
-<sup>13</sup> SR 814.41.
-
-<sup>14</sup> SR 814.501.
-
-<sup>15</sup> SR 814.600.
-
-<sup>16</sup> SR 814.610.
-
-<sup>17</sup> SR 814.680.
-
-<sup>18</sup> SR 814.71.
-
-<sup>19</sup> SR 814.710.
-
-<sup>20</sup> SR 814.711.
-
-<sup>21</sup> SR 814.911.
-
-<sup>22</sup> SR 822.11.
-
-<sup>23</sup> Text siehe OS 48, 193 und 194.
-
-<sup>24</sup> In Kraft seit 1. Januar 1982 (OS 48, 303).
-
-<sup>25</sup> Eingefügt durch RRB vom 6. November 1985 (OS 49, 553). Bisherige §§ 42– 44 werden §§ 50–52.
-
-<sup>26</sup> Eingefügt durch RRB vom 6. November 1985 (OS 49, 553). In Kraft seit 1. Juli 1986 (OS 49, 557). Bisher VIII. Teil, §§ 42–44.
-
-<sup>27</sup> Fassung gemäss RRB vom 6. November 1985 (OS 49, 553). In Kraft seit 1. Juli 1986 (OS 49, 557).
+<sup>27</sup> Eingefügt durch RRB vom 6. November 1985 (OS 49, 553). In Kraft seit 1. Juli 1986 (OS 49, 557). Bisher VIII. Teil, §§ 42–44.
 
 <sup>28</sup> Aufgehoben durch RRB vom 16. April 1986 (OS 49, 590). In Kraft seit 1. Juli 1986 (OS 49, 596).
 
@@ -780,6 +974,10 @@ Hinblick auf die Verwertung, Ausgabe Februar 2017
 
 <sup>48</sup> Fassung gemäss RRB vom 3. Februar 1999 (OS 55, 108). In Kraft seit 1. April 1999.
 
+**29**
+
+1.10. 22 - 118
+
 <sup>49</sup> Eingefügt durch RRB vom 12. Dezember 2001 (OS 57, 119). In Kraft seit 1. März 2002.
 
 <sup>50</sup> Fassung gemäss RRB vom 12. Dezember 2001 (OS 57, 119). In Kraft seit 1. März 2002.
@@ -799,10 +997,6 @@ Hinblick auf die Verwertung, Ausgabe Februar 2017
 <sup>57</sup> Fassung gemäss RRB vom 24. Oktober 2007 (OS 62, 450; ABl 2007, 1999). In Kraft seit 1. Januar 2008.
 
 <sup>58</sup> Eingefügt durch RRB vom 31. März 2009 (OS 64, 129; ABl 2009, 552). In Kraft seit 1. Juli 2009.
-
-**23**
-
-- 1\. 1. 21 - 111
 
 <sup>59</sup> Fassung gemäss RRB vom 31. März 2009 (OS 64, 129; ABl 2009, 552). In Kraft seit 1. Juli 2009.
 
@@ -842,7 +1036,37 @@ Hinblick auf die Verwertung, Ausgabe Februar 2017
 
 <sup>77</sup> Fassung gemäss RRB vom 2. September 2020 (OS 75, 463; ABl 2020-09-11). In Kraft seit 1. November 2020.
 
+<sup>78</sup> Eingefügt durch RRB vom 14. Juli 2021 (OS 77, 369; ABl 2021-07-23). In Kraft seit 1. September 2022.
+
+<sup>79</sup> Fassung gemäss RRB vom 14. Juli 2021 (OS 77, 369; ABl 2021-07-23). In Kraft seit 1. September 2022.
+
+<sup>80</sup> Aufgehoben durch RRB vom 14. Juli 2021 (OS 77, 369; ABl 2021-07-23). In Kraft seit 1. September 2022.
+
+<sup>81</sup> Nummerierung gemäss RRB vom 14. Juli 2021 (OS 77, 369; ABl 2021-07-23). In Kraft seit 1. September 2022.
+
+<sup>82</sup> Eingefügt durch RRB vom 8. Juni 2022 (OS 77, 378; ABl 2022-06-10). In Kraft seit 1. September 2022.
+
+<sup>83</sup> Fassung gemäss RRB vom 8. Juni 2022 (OS 77, 378; ABl 2022-06-10). In Kraft seit 1. September 2022.
+
+<sup>84</sup> Aufgehoben durch RRB vom 8. Juni 2022 (OS 77, 378; ABl 2022-06-10). In Kraft seit 1. September 2022.
+
+**31**
+
+1.10. 22 - 118
+
+[^h1AlsVerordnungsbe-1]: LS 700.211.
+[^h1AlsVerordnungsbe-2]: SR 814.41.
+[^h1AlsVerordnungsbe-3]: LS 730.1.
+[^h1AlsVerordnungsbe-4]: LS 700.6.
+[^h1AlsVerordnungsbe-5]: SR 814.20.
+[^h1AlsVerordnungsbe-6]: SR 814.201.
+[^h1AlsVerordnungsbe-7]: SR 814.01.
+[^h1AlsVerordnungsbe-8]: SR 814.600.
+[^h1AlsVerordnungsbe-9]: SR 814.610.
+[^h1AlsVerordnungsbe-10]: SR 814.911.
+[^h1AlsVerordnungsbe-11]: SR 814.680.
+[^h1AlsVerordnungsbe-12]: LS 700.1.
+
 ## Weitere Fussnoten
 
-- [1] OS 48, 184.
-- [2] LS 175.2. 1. 1. 21 - 111 21
+- [10] SR 730.01.
