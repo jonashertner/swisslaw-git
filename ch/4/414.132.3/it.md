@@ -3,11 +3,11 @@ sr: "414.132.3"
 title: Ordinanza del 14 giugno 2004 sulla formazione che porta al bachelor e al master presso il Politecnico federale di Losanna (Ordinanza sulla formazione al PFL)
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/653"
 language: it
-version: 2019-09-01
+version: 2022-09-01
 adopted: 2004-06-14
 in_force: 2004-10-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/653/20190901/it/xml/fedlex-data-admin-ch-eli-cc-2004-653-20190901-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/653/20190901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/653/20220901/it/xml/fedlex-data-admin-ch-eli-cc-2004-653-20220901-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/653/20220901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/653/20190901/it"
 
 (Ordinanza sulla formazione al PFL)
 
-del 14 giugno 2004 (Stato 1° settembre 2019) (Stato 1° settembre 2019)
+del 14 giugno 2004 (Stato 1° settembre 2022) (Stato 1° settembre 2022)
 
 La Direzione del Politecnico federale di Losanna (PFL),
 
@@ -55,9 +55,9 @@ Nei suoi campi di studio (sezioni o campi) il PFL rilascia i titoli seguenti:[^3
 - a. il bachelor;
 - b. il master.
 
-<sup>2</sup> I titoli sono muniti del sigillo del PFL e recano il nome del titolare. Sono firmati dal presidente del PFL, dal vicepresidente per l’educazione del PFL e dal direttore di sezione. Sono accompagnati dal «diploma supplement» nel quale sono specificati il livello, il contesto, il contenuto e lo statuto degli studi portati a termine con successo. Nei titoli è indicato il campo di studio e, per il master, la designazione professionale del titolare come pure un eventuale indirizzo particolare.[^3-2]
+<sup>2</sup> I titoli sono muniti del sigillo del PFL e recano il nome del titolare. Sono firmati dal presidente del PFL, dal vicepresidente per gli affari accademici e dal direttore di sezione. Sono accompagnati dal «diploma supplement» nel quale sono specificati il livello, il contesto, il contenuto e lo statuto degli studi portati a termine con successo. Nei titoli è indicato il campo di studio e, per il master, la designazione professionale del titolare come pure un eventuale indirizzo particolare [^3-2]
 
-<sup>3</sup> …[^3-3]
+<sup>3</sup> ...[^3-3]
 
 <sup>4</sup> I titolari di un diploma del PFL (art. 15 cpv. 1) sono autorizzati a qualificarsi come titolari di un master del PFL (allegato I).
 
@@ -68,7 +68,7 @@ Nei suoi campi di studio (sezioni o campi) il PFL rilascia i titoli seguenti:[^3
 <sup>7</sup> Il PFL conferisce anche il titolo di dottore in scienze (o Ph.D.) e altri titoli propri della formazione continua. Questi titoli sono oggetto di ordinanze specifiche.
 
 [^3-1]: Nuovo testo giusta il n. I dell’O della Direzione del PFL del 12 giu. 2006, in vigore dal 23 ott. 2006 ([RU 2006 3307](https://fedlex.data.admin.ch/eli/oc/2006/511)).
-[^3-2]: Nuovo testo giusta il n. I dell’O della Direzione del PFL del 22 mag. 2017, in vigore dal 1° set. 2017 ([RU 2017 3975](https://fedlex.data.admin.ch/eli/oc/2017/472)).
+[^3-2]: Nuovo testo giusta il n. I dell’O della Direzione del PFL del 28 lug. 2022, in vigore dal 1° set. 2022 ([RU 2022 441](https://fedlex.data.admin.ch/eli/oc/2022/441)).
 [^3-3]: Abrogato dal n. I dell’O della Direzione del PFL del 30 giu. 2015, con effetto dal 1° set. 2016 ([RU 2015 2539](https://fedlex.data.admin.ch/eli/oc/2015/478)).
 
 #### Art. 4
@@ -109,7 +109,7 @@ Il bachelor del PFL si suddivide in due tappe formative:
 - a. il ciclo propedeutico;
 - b. il ciclo bachelor.
 
-<sup>2</sup> …[^6-1]
+<sup>2</sup> ...[^6-1]
 
 [^6-1]: Abrogato dal n. I dell’O della Direzione del PFL del 30 giu. 2015, con effetto dal 1° set. 2016 ([RU 2015 2539](https://fedlex.data.admin.ch/eli/oc/2015/478)).
 
@@ -156,7 +156,7 @@ Il master si suddivide in due tappe formative:
 - a. il ciclo master;
 - b. il progetto di master.
 
-<sup>2</sup> …[^9-1]
+<sup>2</sup> ...[^9-1]
 
 [^9-1]: Abrogato dal n. I dell’O della Direzione del PFL del 30 giu. 2015, con effetto dal 1° set. 2016 ([RU 2015 2539](https://fedlex.data.admin.ch/eli/oc/2015/478)).
 
@@ -229,13 +229,13 @@ La modifica del diritto vigente è disciplinata nell’allegato II.
 
 <sup>2</sup> L’allegato II entra in vigore il 1° gennaio 2005.
 
-Allegato I*[^t-1]*
+Allegato I[^t-1]
 
 (art. 3 cpv. 5)
 
 ## Titoli e designazioni professionali
 
-[^t-1]: Nuovo testo giusta il n. I dell’O della Direzione del PFL del 31 lug. 2019, in vigore dal 1° set. 2019 ([RU 2019 2479](https://fedlex.data.admin.ch/eli/oc/2019/462)).
+[^t-1]: Nuovo testo giusta il n. II dell’O della Direzione del PFL del 28 lug. 2022, in vigore dal 1° set. 2022 ([RU 2022 441](https://fedlex.data.admin.ch/eli/oc/2022/441)).
 
 <table>
 <tr><th>Bachelor e master</th><th>Sezione/Campo</th><th>Designazione professionale del titolare del master</th></tr>
@@ -249,17 +249,17 @@ Allegato I*[^t-1]*
 <tr><td>Master of Science MSc</td><td>Chimica molecolare e biologica Molecular and Biological Chemistry</td><td>Chimico (chim. dipl. PF)</td></tr>
 <tr><td>Master of Science MSc</td><td>Ingegneria chimica e biotecnologie Chemical Engineering and Biotechnology</td><td>Ingegnere chimico (ing. chim. dipl. PF)</td></tr>
 <tr><td>Bachelor of Science BSc</td><td>Matematica Mathematics</td><td></td></tr>
-<tr><td>Master of Science MSc\*</td><td>Matematica Mathematics</td><td>Matematico (mat. dipl. PF)</td></tr>
+<tr><td>Master of Science MSc<sup>a</sup></td><td>Matematica Mathematics</td><td>Matematico (mat. dipl. PF)</td></tr>
 <tr><td>Master of Science MSc</td><td>Ingegneria matematica Applied Mathematics</td><td>Ingegnere matematico (ing. mat. dipl. PF)</td></tr>
-<tr><td>Master of Science MSc\*\* PF Losanna – HEP Vaud</td><td>Matematica per l’insegnamento Mathematics for education</td><td>Matematico per l’insegnamento (mat. ins. dipl. PF-HEP)</td></tr>
-<tr><td>Master of Science MSc</td><td>Scienze e ingegneria computazionali Computational Science and Engineering</td><td>Ingegnere in scienze computazionali (ing. sc. comput. dipl. PF)</td></tr>
+<tr><td>Master of Science MSc</td><td>Statistica Statistics</td><td>Statistico (stat. dipl. PF)</td></tr>
+<tr><td>Master of Science MSc</td><td>Scienza e ingegneria computazionali Computational Science and Engineering</td><td>Ingegnere in scienza computazionale (ing. sc. comput. dipl. PF)</td></tr>
 <tr><td>Bachelor of Science BSc</td><td>Fisica Physics</td><td></td></tr>
 <tr><td>Master of Science MSc</td><td>Fisica Physics</td><td>Fisico (fis. dipl. PF)</td></tr>
 <tr><td>Master of Science MSc</td><td>Ingegneria fisica Applied Physics</td><td>Ingegnere fisico (ing. fis. dipl. PF)</td></tr>
-<tr><td>Master of Science MSc PF Losanna – PF Zurigo</td><td>Ingegneria nucleare Nuclear Engineering</td><td>Ingegnere nucleare (ing. nucl. dipl. PF)</td></tr>
+<tr><td>Master of Science MSc PF Losanna – PF Zurigo</td><td>Ingegneria nucleare Nuclear Engineering</td><td>Ingegnere nucleare (ing. nucl. dipl. PFL-PFZ)</td></tr>
+<tr><td>Master of Science MSc</td><td>Scienza e ingegneria quantistiche Quantum Science and Engineering</td><td>Ingegnere in scienza quantistica (ing. quant. dipl. PF)</td></tr>
 <tr><td>Bachelor of Science BSc</td><td>Ingegneria elettrica e elettronica Electrical and Electronic Engineering</td><td></td></tr>
-<tr><td>Master of Science MSc\*\*\*</td><td>Ingegneria elettrica e elettronica Electrical and Electronic Engineering</td><td>Ingegnere elettronico (ing. el. dipl. PF)</td></tr>
-<tr><td>Master of Science MSc\*\*</td><td>Gestione dell’energia e sostenibilità Energy management and Sustainability</td><td>Ingegnere in gestione dell’energia e sostenibilità (ing. ener. gest. sost. dipl. PF)</td></tr>
+<tr><td>Master of Science MSc<sup>b</sup></td><td>Ingegneria elettrica e elettronica Electrical and Electronic Engineering</td><td>Ingegnere elettronico (ing. el. dipl. PF)</td></tr>
 <tr><td>Master of Science MSc</td><td>Scienza e tecnologie dell’energia Energy Science and Technology</td><td>Ingegnere in energia (ing. ener. dipl. PF)</td></tr>
 <tr><td>Bachelor of Science BSc</td><td>Ingegneria meccanica Mechanical Engineering</td><td></td></tr>
 <tr><td>Master of Science MSc</td><td>Ingegneria meccanica Mechanical Engineering</td><td>Ingegnere meccanico (ing. mecc. dipl. PF)</td></tr>
@@ -270,18 +270,18 @@ Allegato I*[^t-1]*
 <tr><td>Master of Science MSc</td><td>Scienza e ingegneria dei materiali Materials Science and Engineering</td><td>Ingegnere in scienza dei materiali (ing. sc. mat. dipl. PF)</td></tr>
 <tr><td>Bachelor of Science BSc</td><td>Informatica Computer Science</td><td></td></tr>
 <tr><td>Master of Science MSc</td><td>Informatica Computer Science</td><td>Ingegnere informatico (ing. inf. dipl. PF)</td></tr>
-<tr><td>Master of Science MSc PF Losanna – PF Zurigo</td><td>Informatica – Cibersicurezza Computer Science – Cyber Security</td><td>Ingegnere in cibersicurezza (ing. cibersic. dipl. PF)</td></tr>
+<tr><td>Master of Science MSc PF Losanna – PF Zurigo</td><td>Informatica – Cibersicurezza Computer Science –Cyber Security</td><td>Ingegnere in cibersicurezza (ing. cibersic. dipl. PFL‑PFZ)</td></tr>
 <tr><td>Bachelor of Science BSc</td><td>Sistemi di comunicazione Communication Systems</td><td></td></tr>
 <tr><td>Master of Science MSc</td><td>Sistemi di comunicazione Communication Systems</td><td>Ingegnere in sistemi di comunicazione (ing. sist. com. dipl. PF)</td></tr>
 <tr><td>Master of Science MSc</td><td>Data Science</td><td>Ingegnere in data science (ing. data sc. dipl. PF)</td></tr>
 <tr><td>Bachelor of Science BSc</td><td>Ingegneria delle scienze della vita Life Sciences Engineering</td><td></td></tr>
 <tr><td>Master of Science MSc</td><td>Ingegneria delle scienze della vita Life Sciences Engineering</td><td>Ingegnere in scienze della vita (ing. sc. della vita dipl. PF)</td></tr>
-<tr><td>Master of Science MSc\*\*</td><td>Scienze e tecnologie della vita Life Sciences and Technology</td><td>Ingegnere in scienze e tecnologie della vita (ing. sc. e tecn. della vita dipl. PF)</td></tr>
-<tr><td>Master of Science MSc\*\*</td><td>Bioingegneria Bioengineering</td><td>Ingegnere in bioingegneria (ing. bioing. dipl. PF)</td></tr>
+<tr><td>Master of Science MSc</td><td>Neuro-X</td><td>Ingegnere in neuro-X (neuro-X-ing. dipl. PF)</td></tr>
 <tr><td>Master of Science MSc</td><td>Ingegneria finanziaria Financial Engineering</td><td>Ingegnere finanziario (ing. fin. dipl. PF)</td></tr>
 <tr><td>Master of Science MSc</td><td>Gestione, tecnologia e imprenditoria Management, Technology and Entrepreneurship</td><td>Ingegnere in gestione, tecnologia e imprenditoria (ing. gest. tecn. imp. dipl. PF)</td></tr>
+<tr><td>Master of Science MSc<sup>c</sup> PF Losanna – Università di Losanna – IMD</td><td>Gestione sostenibile e tecnologia Sustainable Management and Technology</td><td>Ingegnere in gestione sostenibile e tecnologia (ing. manag. sust. dipl. PFL-UNIL-IMD)</td></tr>
 <tr><td>Master of Science MSc</td><td>Informatica umanistica Digital Humanities</td><td>Ingegnere in informatica umanistica (ing. inf. uman. dipl. PF)</td></tr>
-<tr><td colspan="3">\* per il master sono richiesti 90 crediti ECTS (per il ciclo master 60 crediti), per gli altri 120 crediti (per il ciclo master 90 crediti). \*\* master che sta finendo e che non accetta più nuovi candidati. \*\*\* master che offre anche un percorso di formazione specialistica in micro e nanotecnologie per sistemi integrati che si conclude con un Master of Science in ingegneria elettrica e elettronica conferito in comune con il Politecnico di Torino e l’Institut polytechnique de Grenoble.</td></tr>
+<tr><td colspan="3">a Per il master sono richiesti 90 crediti ECTS (per il ciclo master 60 crediti), per gli altri 120 crediti (per il ciclo master 90 crediti) b Master che offre anche un percorso di formazione specialistica in micro e nanotecnologie per sistemi integrati che si conclude con un Master of Science in ingegneria elettrica e elettronica conferito in comune con il Politecnico di Torino e l’Institut polytechnique de Grenoble c Master conferito in comune con l’Università di Losanna e l’International Institute for Management Development, a partire dal 1° settembre 2021</td></tr>
 </table>
 
 Allegato II
@@ -292,6 +292,6 @@ Allegato II
 
 Le seguenti ordinanze sono modificate come segue:
 
-…[^annexII-lvlu1-1]
+...[^annexII-lvlu1-1]
 
 [^annexII-lvlu1-1]: Le mod. possono essere consultate alla [RU 2004 4335](https://fedlex.data.admin.ch/eli/oc/2004/653).

@@ -3,11 +3,11 @@ sr: "414.132.3"
 title: "Ordonnance du 14 juin 2004 sur la formation menant au bachelor et au master de l'École polytechnique fédérale de Lausanne (Ordonnance sur la formation à l'EPFL)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/653"
 language: fr
-version: 2019-09-01
+version: 2022-09-01
 adopted: 2004-06-14
 in_force: 2004-10-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/653/20190901/fr/xml/fedlex-data-admin-ch-eli-cc-2004-653-20190901-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/653/20190901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/653/20220901/fr/xml/fedlex-data-admin-ch-eli-cc-2004-653-20220901-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/653/20220901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/653/20190901/fr"
 
 (Ordonnance sur la formation à l’EPFL)
 
-du 14 juin 2004 (Etat le 1<sup>er</sup> septembre 2019)
+du 14 juin 2004 (Etat le 1<sup>er</sup> septembre 2022)
 
 La Direction de l’École polytechnique fédérale de Lausanne (EPFL),
 
@@ -55,7 +55,7 @@ L’EPFL décerne les titres suivants dans ses domaines d’études (sections ou
 - a. le bachelor;
 - b. le master.
 
-<sup>2</sup> Les titres sont munis du sceau de l’EPFL et mentionnent le nom du titulaire. Ils sont signés par le président de l’EPFL, par le vice-président pour l’éducation à l’EPFL et par le directeur de section. Ils sont accompagnés du «diploma supplement» décrivant le niveau, le contexte, le contenu et le statut des études accomplies avec succès. Les titres mentionnent le domaine d’études et, pour le master, la désignation professionnelle du titulaire, ainsi qu’une éventuelle orientation particulière.[^3-2]
+<sup>2</sup> Les titres sont munis du sceau de l’EPFL et mentionnent le nom du titulaire. Ils sont signés par le président de l’EPFL, par le vice-président académique et par le directeur de section. Ils sont accompagnés du «diploma supplement» décrivant le niveau, le contexte, le contenu et le statut des études accomplies avec succès. Les titres mentionnent le domaine d’études et, pour le master, la désignation professionnelle du titulaire, ainsi qu’une éventuelle orientation particulière.[^3-2]
 
 <sup>3</sup> …[^3-3]
 
@@ -68,7 +68,7 @@ L’EPFL décerne les titres suivants dans ses domaines d’études (sections ou
 <sup>7</sup> L’EPFL décerne également le titre de docteur ès sciences (ou Ph. D.) et d’autres titres correspondant à la formation continue. Ces titres font l’objet d’ordonnances spécifiques.
 
 [^3-1]: Nouvelle teneur selon le ch. I de l’O de la Direction de l’EPFL du 12 juin 2006, en vigueur depuis le 23 oct. 2006 ([RO 2006 3307](https://fedlex.data.admin.ch/eli/oc/2006/511)).
-[^3-2]: Nouvelle teneur selon le ch. I de l’O de la Direction de l’EPFL du 22 mai 2017, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 3975](https://fedlex.data.admin.ch/eli/oc/2017/472)).
+[^3-2]: Nouvelle teneur selon le ch. I de l’O de la Direction de l’EPFL du 28 juil. 2022, en vigueur depuis le 1<sup>er</sup> sept. 2022 ([RO 2022 441](https://fedlex.data.admin.ch/eli/oc/2022/441)).
 [^3-3]: Abrogé par le ch. I de l’O de la Direction de l’EPFL du 30 juin 2015, avec effet au 1<sup>er</sup> sept. 2016 ([RO 2015 2539](https://fedlex.data.admin.ch/eli/oc/2015/478)).
 
 #### Art. 4
@@ -229,13 +229,13 @@ La modification du droit en vigueur est réglée dans l’annexe II.
 
 <sup>2</sup> L’annexe II entre en vigueur le 1<sup>er</sup> janvier 2005.
 
-Annexe I*[^t-1]*
+Annexe I[^t-1]
 
 (art. 3, al. 5)
 
 ## Titres et désignations professionnelles
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O de la Direction de l’EPFL du 31 juil. 2019, en vigueur depuis le 1<sup>er</sup> sept. 2019 ([RO 2019 2479](https://fedlex.data.admin.ch/eli/oc/2019/462)).
+[^t-1]: Nouvelle teneur selon le ch. II de l’O de la Direction de l’EPFL du 28 juil. 2022, en vigueur depuis le 1<sup>er</sup> sept. 2022 ([RO 2022 441](https://fedlex.data.admin.ch/eli/oc/2022/441)).
 
 <table>
 <tr><th>Bachelor et master</th><th>Sections / Domaines</th><th>Désignation professionnelle accompagnant le master</th></tr>
@@ -249,22 +249,22 @@ Annexe I*[^t-1]*
 <tr><td>Master of Science MSc</td><td>Chimie moléculaire et biologique Molecular and Biological Chemistry</td><td>Chimiste (chim. dipl. EPF)</td></tr>
 <tr><td>Master of Science MSc</td><td>Génie chimique et biotechnologie Chemical Engineering and Biotechnology</td><td>Ingénieur chimiste (ing. chim. dipl. EPF)</td></tr>
 <tr><td>Bachelor of Science BSc</td><td>Mathématiques Mathematics</td><td></td></tr>
-<tr><td>Master of Science MSc\*</td><td>Mathématiques Mathematics</td><td>Mathématicien (math. dipl. EPF)</td></tr>
+<tr><td>Master of Science MSc<sup>a</sup></td><td>Mathématiques Mathematics</td><td>Mathématicien (math. dipl. EPF)</td></tr>
 <tr><td>Master of Science MSc</td><td>Ingénierie mathématique Applied Mathematics</td><td>Ingénieur mathématicien (ing. math. dipl. EPF)</td></tr>
-<tr><td>Master of Science MSc EPF Lausanne – HEP Vaud\*\*</td><td>Mathématiques pour l’enseignement Mathematics for education</td><td>Mathématicien pour l’enseignement (math. ens. dipl. EPF-HEP)</td></tr>
-<tr><td>Master of Science MSc</td><td>Science et ingénierie computationnelles Computational Science and Engineering</td><td>Ingénieur en sciences computationnelles (ing. sc. comput. dipl. EPF)</td></tr>
+<tr><td>Master of Science MSc</td><td>Statistiques Statistics</td><td>Statisticien (stat. dipl. EPF)</td></tr>
+<tr><td>Master of Science MSc</td><td>Science et ingénierie computationnelles Computational Science and Engineering</td><td>Ingénieur en science computationnelle (ing. sc. comput. dipl. EPF)</td></tr>
 <tr><td>Bachelor of Science BSc</td><td>Physique Physics</td><td></td></tr>
 <tr><td>Master of Science MSc</td><td>Physique Physics</td><td>Physicien (phys. dipl. EPF)</td></tr>
 <tr><td>Master of Science MSc</td><td>Ingénierie physique Applied Physics</td><td>Ingénieur physicien (ing. phys. dipl. EPF)</td></tr>
 <tr><td>Master of Science MSc EPF Lausanne – ETH Zürich</td><td>Génie nucléaire Nuclear Engineering</td><td>Ingénieur en génie nucléaire (ing. nucl. dipl. EPF-ETH)</td></tr>
+<tr><td>Master of Science MSc</td><td>Science et ingénierie quantiques Quantum Science and Engineering</td><td>Ingénieur en science quantique (ing. quant. dipl. EPF)</td></tr>
 <tr><td>Bachelor of Science BSc</td><td>Génie électrique et électronique Electrical and Electronic Engineering</td><td></td></tr>
-<tr><td>Master of Science MSc\*\*\*</td><td>Génie électrique et électronique Electrical and Electronic Engineering</td><td>Ingénieur électricien (ing. él. dipl. EPF)</td></tr>
-<tr><td>Master of Science MSc\*\*</td><td>Gestion de l’énergie et durabilité Energy management and Sustainability</td><td>Ingénieur en gestion de l’énergie et durabilité (ing. ener. manag. sust. dipl. EPF)</td></tr>
+<tr><td>Master of Science MSc<sup>b</sup></td><td>Génie électrique et électronique Electrical and Electronic Engineering</td><td>Ingénieur électricien (ing. él. dipl. EPF)</td></tr>
 <tr><td>Master of Science MSc</td><td>Science et technologie de l’énergie Energy Science and Technology</td><td>Ingénieur en énergie (ing. ener. dipl. EPF)</td></tr>
 <tr><td>Bachelor of Science BSc</td><td>Génie mécanique Mechanical Engineering</td><td></td></tr>
 <tr><td>Master of Science MSc</td><td>Génie mécanique Mechanical Engineering</td><td>Ingénieur mécanicien (ing. méc. dipl. EPF)</td></tr>
 <tr><td>Bachelor of Science BSc</td><td>Microtechnique Microengineering</td><td></td></tr>
-<tr><td>Master of Science MSc</td><td>Microtechnique Microengineering</td><td>Ingénieur en microtechnique (ing. microtechn. dipl. EPF)</td></tr>
+<tr><td>Master of Science MSc</td><td>Microtechnique Microengineering</td><td>Ingénieur en microtechnique (ing. microtech. dipl. EPF)</td></tr>
 <tr><td>Master of Science MSc</td><td>Robotique Robotics</td><td>Ingénieur en robotique (ing. robot. dipl. EPF)</td></tr>
 <tr><td>Bachelor of Science BSc</td><td>Science et génie des matériaux Materials Science and Engineering</td><td></td></tr>
 <tr><td>Master of Science MSc</td><td>Science et génie des matériaux Materials Science and Engineering</td><td>Ingénieur en science des matériaux (ing. sc. mat. dipl. EPF)</td></tr>
@@ -273,15 +273,15 @@ Annexe I*[^t-1]*
 <tr><td>Master of Science MSc EPF Lausanne – ETH Zürich</td><td>Informatique – Cybersécurité Computer Science – Cyber Security</td><td>Ingénieur en cybersécurité (ing. cybersec. dipl. EPF‑ETH)</td></tr>
 <tr><td>Bachelor of Science BSc</td><td>Systèmes de communication Communication Systems</td><td></td></tr>
 <tr><td>Master of Science MSc</td><td>Systèmes de communication Communication Systems</td><td>Ingénieur en systèmes de communication (ing. sys. com. dipl. EPF)</td></tr>
-<tr><td>Master of Science MSc</td><td>Data Science</td><td>Ingénieur en Data Science (ing. data sc. dipl. EPF)</td></tr>
+<tr><td>Master of Science MSc</td><td>Data Science</td><td>Ingénieur en data science (ing. data sc. dipl. EPF)</td></tr>
 <tr><td>Bachelor of Science BSc</td><td>Ingénierie des sciences du vivant Life Sciences Engineering</td><td></td></tr>
 <tr><td>Master of Science MSc</td><td>Ingénierie des sciences du vivant Life Sciences Engineering</td><td>Ingénieur en sciences du vivant (ing. sc. viv. dipl. EPF)</td></tr>
-<tr><td>Master of Science MSc\*\*</td><td>Sciences et technologies du vivant Life Sciences and Technology</td><td>Ingénieur en sciences et technologies du vivant (ing. sc. technol. viv. dipl. EPF)</td></tr>
-<tr><td>Master of Science MSc\*\*</td><td>Bioingénierie Bioengineering</td><td>Ingénieur en bioingénierie (ing. bioing. dipl. EPF)</td></tr>
+<tr><td>Master of Science MSc</td><td>Neuro-X</td><td>Ingénieur en neuro-X (neuro-X-ing. dipl. EPF)</td></tr>
 <tr><td>Master of Science MSc</td><td>Ingénierie financière Financial Engineering</td><td>Ingénieur en sciences financières (ing. fin. dipl. EPF)</td></tr>
 <tr><td>Master of Science MSc</td><td>Management, technologie et entrepreneuriat Management, Technology and Entrepreneurship</td><td>Ingénieur en management, technologie et entrepreneuriat (ing. manag. techn. entrepr. dipl. EPF)</td></tr>
+<tr><td>Master of Science MSc<sup>c</sup> EPF Lausanne – Université de Lausanne – IMD</td><td>Management durable et technologie Sustainable Management and Technology</td><td>Ingénieur en management durable et technologie (ing. manag. durable dipl. EPF-UNIL-IMD)</td></tr>
 <tr><td>Master of Science MSc</td><td>Humanités digitales Digital Humanities</td><td>Ingénieur en humanités digitales (ing. hum. digit. dipl. EPF)</td></tr>
-<tr><td colspan="3">\* master comportant 90 crédits ECTS (cycle master à 60 crédits), les autres comportant 120 crédits (cycle master à 90 crédits) \*\* master prenant fin et n’admettant plus de nouveaux candidats \*\*\* master offrant également une voie de formation spécialisée en Micro- and Nanotechnologies in Integrated Systems, aboutissant à un master of science en Génie électrique et électronique décerné en commun avec le Politecnico di Torino et l’Institut polytechnique de Grenoble</td></tr>
+<tr><td colspan="3">a Master comportant 90 crédits ECTS (cycle master à 60 crédits), les autres masters comportant 120 crédits (cycle master à 90 crédits) b Master offrant également une voie de formation spécialisée en Micro- and Nanotechnologies in Integrated Systems, aboutissant à un master of science en Génie électrique et électronique décerné en commun avec le Politecnico di Torino et l’Institut polytechnique de Grenoble c Master décerné en commun avec l’Université de Lausanne et l’International Institute for Management Development, depuis le 1<sup>er</sup> septembre 2021</td></tr>
 </table>
 
 Annexe II

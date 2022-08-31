@@ -3,11 +3,11 @@ sr: "414.132.3"
 title: Verordnung der ETH Lausanne vom 14. Juni 2004 über das Bachelor- und das Masterstudium (Ausbildungsverordnung ETHL)
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/653"
 language: de
-version: 2019-09-01
+version: 2022-09-01
 adopted: 2004-06-14
 in_force: 2004-10-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/653/20190901/de/xml/fedlex-data-admin-ch-eli-cc-2004-653-20190901-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/653/20190901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/653/20220901/de/xml/fedlex-data-admin-ch-eli-cc-2004-653-20220901-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/653/20220901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/653/20190901/de"
 
 (Ausbildungsverordnung ETHL)
 
-vom 14. Juni 2004 (Stand am 1. September 2019)
+vom 14. Juni 2004 (Stand am 1. September 2022)
 
 Die Schulleitung der Eidgenössischen Technischen Hochschule Lausanne (ETHL),
 
@@ -55,7 +55,7 @@ Die ETHL verleiht in ihren Lehrgebieten (Sektionen oder Lehrgebieten) die folgen
 - a. Bachelor;
 - b. Master.
 
-<sup>2</sup> Die Urkunde trägt das Siegel der ETHL und den Namen des Inhabers oder der Inhaberin. Sie ist unterschrieben vom Präsidenten oder von der Präsidentin der ETHL, vom Vizepräsidenten oder von der Vizepräsidentin für Ausbildung und vom Vorsteher oder der Vorsteherin der Sektion. Sie wird ergänzt durch das «Diploma Supplement», das Auskunft gibt über Stufe, Einbettung, Inhalt und Status des erfolgreich absolvierten Studiengangs. Die Urkunde nennt das Fachgebiet und – für den Master – die Berufsbezeichnung des Inhabers oder der Inhaberin sowie gegebenenfalls die besondere thematische Ausrichtung.[^3-2]
+<sup>2</sup> Die Urkunde trägt das Siegel der ETHL und den Namen des Inhabers oder der Inhaberin. Sie ist unterschrieben vom Präsidenten oder von der Präsidentin der ETHL, vom Vizepräsidenten oder von der Vizepräsidentin für akademische Angelegenheiten und vom Vorsteher oder von der Vorsteherin der Sektion. Sie wird ergänzt durch das «Diploma Supplement», das Auskunft gibt über Stufe, Einbettung, Inhalt und Status des erfolgreich absolvierten Studiengangs. Die Urkunde nennt das Fachgebiet und für den Master die Berufsbezeichnung des Inhabers oder der Inhaberin sowie gegebenenfalls die besondere thematische Ausrichtung.[^3-2]
 
 <sup>3</sup> …[^3-3]
 
@@ -68,7 +68,7 @@ Die ETHL verleiht in ihren Lehrgebieten (Sektionen oder Lehrgebieten) die folgen
 <sup>7</sup> Die ETHL verleiht den Titel Doktor oder Doktorin der Wissenschaften (Dr. sc. oder Ph. D.) sowie andere, weiterbildungsspezifische Titel. Diese Titel werden in besonderen Verordnungen geregelt.
 
 [^3-1]: Fassung gemäss Ziff. I der V der ETHL-Schulleitung vom 12. Juni 2006, in Kraft seit 23. Okt. 2006 ([AS 2006 3307](https://fedlex.data.admin.ch/eli/oc/2006/511)).
-[^3-2]: Fassung gemäss Ziff. I der V der ETHL-Schulleitung vom 22. Mai 2017, in Kraft seit 1. Sept. 2017 ([AS 2017 3975](https://fedlex.data.admin.ch/eli/oc/2017/472)).
+[^3-2]: Fassung gemäss Ziff. I der V der ETHL-Schulleitung vom 28. Juli 2022, in Kraft seit 1. Sept. 2022 ([AS 2022 441](https://fedlex.data.admin.ch/eli/oc/2022/441)).
 [^3-3]: Aufgehoben durch Ziff. I der V der ETHL-Schulleitung vom 30. Juni 2015, mit Wirkung seit 1. Sept. 2016 ([AS 2015 2539](https://fedlex.data.admin.ch/eli/oc/2015/478)).
 
 #### Art. 4
@@ -229,13 +229,13 @@ Die Änderung bisherigen Rechts ist im Anhang II geregelt.
 
 <sup>2</sup> Anhang II tritt am 1. Januar 2005 in Kraft.
 
-Anhang I*[^t-1]*
+Anhang I[^t-1]
 
 (Art. 3 Abs. 5)
 
 ## Titel und Berufsbezeichnungen
 
-[^t-1]: Fassung gemäss Ziff. I der V der ETHL-Schulleitung vom 31. Juli 2019, in Kraft seit 1. Sept. 2019 ([AS 2019 2479](https://fedlex.data.admin.ch/eli/oc/2019/462)).
+[^t-1]: Fassung gemäss Ziff. II der V der ETHL-Schulleitung vom 28. Juli 2022, in Kraft seit 1. Sept. 2022 ([AS 2022 441](https://fedlex.data.admin.ch/eli/oc/2022/441)).
 
 <table>
 <tr><th>Bachelor und Master</th><th>Sektionen/Lehrgebiete</th><th>Den Master begleitende Berufsbezeichnung</th></tr>
@@ -249,18 +249,18 @@ Anhang I*[^t-1]*
 <tr><td>Master of Science MSc</td><td>Molekulare und biologische Chemie Molecular and Biological Chemistry</td><td>Chemiker/in (Dipl. Chem. ETH)</td></tr>
 <tr><td>Master of Science MSc</td><td>Chemieingenieurwesen und Biotechnologie Chemical Engineering and Biotechnology</td><td>Chemieingenieur/in (Dipl. Chem.-Ing. ETH)</td></tr>
 <tr><td>Bachelor of Science BSc</td><td>Mathematik Mathematics</td><td></td></tr>
-<tr><td>Master of Science MSc\*</td><td>Mathematik Mathematics</td><td>Mathematiker/in (Dipl. Math. ETH)</td></tr>
+<tr><td>Master of Science MSc <sup>a</sup></td><td>Mathematik Mathematics</td><td>Mathematiker/in (Dipl. Math. ETH)</td></tr>
 <tr><td>Master of Science MSc</td><td>Mathematische Wissenschaften Applied Mathematics</td><td>Mathematikingenieur/in (Dipl. Math.-Ing. ETH)</td></tr>
-<tr><td>Master of Science MSc EPF Lausanne – HEP Vaud\*\*</td><td>Mathematikdidaktik Mathematics for education</td><td>Mathematikdidaktiker/in (Dipl. Math.-Did. ETH-PH)</td></tr>
+<tr><td>Master of Science MSc</td><td>Statistik Statistics</td><td>Statistiker/in (Dipl. Stat. ETH)</td></tr>
 <tr><td>Master of Science MSc</td><td>Rechnergestützte Wissenschaften Computational Science and Engineering</td><td>Ingenieur/in in rechnergestützten Wissenschaften (Dipl. Rechnerwiss.-Ing. ETH)</td></tr>
 <tr><td>Bachelor of Science BSc</td><td>Physik Physics</td><td></td></tr>
 <tr><td>Master of Science MSc</td><td>Physik Physics</td><td>Physiker/in (Dipl. Phys. ETH)</td></tr>
 <tr><td>Master of Science MSc</td><td>Physik-Wissenschaften Applied Physics</td><td>Physikingenieur/in (Dipl. Phys.-Ing. ETH)</td></tr>
-<tr><td>Master of Science MSc EPF Lausanne – ETH Zürich</td><td>Kerntechnik Nuclear Engineering</td><td>Kerntechnikingenieur/in (Dipl. Kerntech.-Ing. ETH)</td></tr>
+<tr><td>Master of Science MSc EPF Lausanne – ETH Zürich</td><td>Kerntechnik Nuclear Engineering</td><td>Kerntechnikingenieur/in (Dipl. Kerntech.-Ing. EPF-ETH)</td></tr>
+<tr><td>Master of Science MSc</td><td>Quantum-Wissenschaften und Ingenieurwesen Quantum Science and Engineering</td><td>Ingenieur/in im Bereich Quantum-Wissenschaften (Dipl. Quant.-Ing. ETH)</td></tr>
 <tr><td>Bachelor of Science BSc</td><td>Elektrotechnik Electrical and Electronic Engineering</td><td></td></tr>
-<tr><td>Master of Science MSc\*\*\*</td><td>Elektrotechnik Electrical and Electronic Engineering</td><td>Elektroingenieur/in (Dipl. El.-Ing. ETH)</td></tr>
-<tr><td>Master of Science MSc\*\*</td><td>Energiemanagement und Nachhaltigkeit Energy management and Sustainability</td><td>Ingenieur/in im Bereich Energiemanagement und Nachhaltigkeit (Dipl. Ener.-Manag.-Nachh.-Ing. ETH)</td></tr>
-<tr><td>Master of Science MSc</td><td>Energiewissenschaft und ‑technologie Energy Science and Technology</td><td>Energieingenieur/in (Dipl. Energie-Ing. ETH)</td></tr>
+<tr><td>Master of Science MSc <sup>b</sup></td><td>Elektrotechnik Electrical and Electronic Engineering</td><td>Elektroingenieur/in (Dipl. El.-Ing. ETH)</td></tr>
+<tr><td>Master of Science MSc</td><td>Energiewissenschaften und ‑technologie Energy Science and Technology</td><td>Energieingenieur/in (Dipl. Energie-Ing. ETH)</td></tr>
 <tr><td>Bachelor of Science BSc</td><td>Maschineningenieurwesen Mechanical Engineering</td><td></td></tr>
 <tr><td>Master of Science MSc</td><td>Maschineningenieurwesen Mechanical Engineering</td><td>Maschineningenieur/in (Dipl. Masch.-Ing. ETH)</td></tr>
 <tr><td>Bachelor of Science BSc</td><td>Mikrotechnik Microengineering</td><td></td></tr>
@@ -270,18 +270,18 @@ Anhang I*[^t-1]*
 <tr><td>Master of Science MSc</td><td>Werkstoffe Materials Science and Engineering</td><td>Werkstoffingenieur/in (Dipl. Werkstoff-Ing. ETH)</td></tr>
 <tr><td>Bachelor of Science BSc</td><td>Informatik Computer Science</td><td></td></tr>
 <tr><td>Master of Science MSc</td><td>Informatik Computer Science</td><td>Informatikingenieur/in (Dipl. Informatik-Ing. ETH)</td></tr>
-<tr><td>Master of Science MSc EPF Lausanne – ETH Zürich</td><td>Informatik – Cyber Security Computer Science – Cyber Security</td><td>Ingenieur/in im Bereich Cyber Security (Dipl. Cyber-Sec.-Ing. ETH)</td></tr>
+<tr><td>Master of Science MSc EPF Lausanne – ETH Zürich</td><td>Informatik – Cybersicherheit Computer Science – Cyber Security</td><td>Ingenieur/in im Bereich Cybersicherheit (Dipl. Cybersich.-Ing. EPF-ETH)</td></tr>
 <tr><td>Bachelor of Science BSc</td><td>Kommunikationssysteme Communication Systems</td><td></td></tr>
 <tr><td>Master of Science MSc</td><td>Kommunikationssysteme Communication Systems</td><td>Kommunikationssystemingenieur/in (Dipl. Kom.-Syst.-Ing. ETH)</td></tr>
-<tr><td>Master of Science MSc</td><td>Data Science</td><td>Datascienceingenieur/in (Dipl. Datasc-Ing. ETH)</td></tr>
+<tr><td>Master of Science MSc</td><td>Data Science</td><td>Datascience-Ingenieur/in (Dipl. Datasc.-Ing. ETH)</td></tr>
 <tr><td>Bachelor of Science BSc</td><td>Lebenswissenschafteningenieurwesen Life Sciences Engineering</td><td></td></tr>
 <tr><td>Master of Science MSc</td><td>Lebenswissenschafteningenieurwesen Life Sciences Engineering</td><td>Ingenieur/in in Lebenswissenschaften (Dipl. Lebenswiss.-Ing. ETH)</td></tr>
-<tr><td>Master of Science MSc\*\*</td><td>Lebenswissenschaften und Technologie Life Sciences and Technology</td><td>Ingenieur/in in Lebenswissenschaften und Technologie (Dipl. Lebenswiss. & Technol.-Ing. ETH)</td></tr>
-<tr><td>Master of Science MSc\*\*</td><td>Bioingenieurwesen Bioengineering</td><td>Ingenieur/in Bioingenieurwesen (Dipl. Bio.-Ing. ETH)</td></tr>
+<tr><td>Master of Science MSc</td><td>Neuro-X</td><td>Ingenieur/in im Bereich Neuro-X (Dipl. Neuro-X.-Ing. ETH)</td></tr>
 <tr><td>Master of Science MSc</td><td>Finanzingenieurwesen Financial Engineering</td><td>Ingenieur/in im Bereich Finanzen (Dipl. Finanz-Ing. ETH)</td></tr>
 <tr><td>Master of Science MSc</td><td>Management, Technologie und Unternehmensführung Management, Technology and Entrepreneurship</td><td>Ingenieur/in im Bereich Management, Technologie und Unternehmensführung (Dipl. Manag.-Techn.-Ing. ETH)</td></tr>
+<tr><td>Master of Science MSc <sup>c</sup> ETH Lausanne – Universität Lausanne - IMD</td><td>Nachhaltiges Management und Technologie Sustainable Management and Technology</td><td>Ingenieur/in im Bereich Nachhaltiges Management und Technologie (Dipl. Nachhalt.-Manag.-Tech.-Ing. ETH-UNIL-IMD)</td></tr>
 <tr><td>Master of Science MSc</td><td>Digitale Geisteswissenschaften Digital Humanities</td><td>Ingenieur/in in digitalen Geisteswissenschaften (Dipl. Digit.-Hum.-Ing. ETH)</td></tr>
-<tr><td colspan="3">\* Master zu 90 ECTS-Kreditpunkten (Masterstufe im Umfang von 60 Kreditpunkten); die anderen Master umfassen 120 Kreditpunkte (Masterstufe im Umfang von 90 Kreditpunkten). \*\* Dieser Master wird aufgehoben und nimmt keine neuen Kandidatinnen/Kandidaten mehr auf. \*\*\* Masterstudiengang, der auch eine Fachausbildung «Mikro- und Nanotechnologie in integrierten Systemen» beinhaltet; der Studiengang führt zum Master of Science in Elektrotechnik und wird gemeinsam mit dem Politecnico di Torino und dem Institut polytechnique de Grenoble vergeben.</td></tr>
+<tr><td colspan="3">a Master zu 90 ECTS-Kreditpunkten (Masterstufe im Umfang von 60 Kreditpunkten); die anderen Master umfassen 120 Kreditpunkte (Masterstufe im Umfang von 90 Kreditpunkten). b Masterstudiengang, der auch eine Fachausbildung «Mikro- und Nanotechnologie in integrierten Systemen» bietet; der Studiengang führt zum Master of Science in Elektrotechnik und wird gemeinsam mit dem Politecnico di Torino und dem Institut polytechnique de Grenoble vergeben. c Master-Abschluss der gemeinsam mit der Universität Lausanne und dem International Institute for Management Development ab dem 1. September 2021 vergeben wird.</td></tr>
 </table>
 
 Anhang II
