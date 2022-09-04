@@ -3,20 +3,19 @@ canton: BE
 number: "151.41"
 title: Grossratsbeschluss betreffend den Beitritt zur Vereinbarung über die Interparlamentarische Konferenz der Nordwestschweiz
 language: de
-version: 2021-09-06
-valid_until: 2022-09-04
-version_adopted: 2021-09-06
+version: 2022-09-05
+version_adopted: 2022-09-05
 adopted: 2022-09-05
 in_force: 2022-09-05
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/151.41"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2397/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2670/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Grossratsbeschluss betreffend den Beitritt zur Vereinbarung über die Interparlamentarische Konferenz der Nordwestschweiz
 
-vom 06.09.2021 (Stand 06.09.2021)
+vom 05.09.2022 (Stand 05.09.2022)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -30,13 +29,13 @@ beschliesst:
 
 **Beitritt**
 
-<sup>1</sup> Der Kanton Bern tritt der unter der [BAG-Nummer 21-093](https://www.belex.sites.be.ch/frontend/change_documents/1992?locale=de) veröffentlichten Vereinbarung vom 5. März 2021 über die Interparlamentarische Konferenz der Nordwestschweiz bei.
+<sup>1</sup> Der Kanton Bern tritt der unter der BAG-Nummer [22-079](https://www.belex.sites.be.ch/app/de/change_documents/2125) veröffentlichten Vereinbarung vom 14. Juni 2022 über die Interparlamentarische Konferenz der Nordwestschweiz bei.
 
 #### Art. 2
 
 **Aufhebung**
 
-<sup>1</sup> Der Grossratsbeschluss vom 6. November 1978 betreffend Abschluss einer Vereinbarung über die Interparlamentarische Konferenz der Nordwestschweiz vom 11. Mai 1978[^2-1] wird aufgehoben.
+<sup>1</sup> Der Grossratsbeschluss vom 6. September 2021 betreffend den Beitritt zur Vereinbarung über die Interparlamentarische Konferenz der Nordwestschweiz vom 5. März 2021 [^2-1] wird aufgehoben.
 
 [^2-1]: BSG [151.41](https://www.belex.sites.be.ch/data/151.41/de)
 
@@ -46,12 +45,12 @@ beschliesst:
 
 <sup>1</sup> Dieser Beschluss tritt mit seiner Annahme durch den Grossen Rat in Kraft.
 
-Bern, 6. September 2021
+Bern, 5. September 2022
 
 Im Namen des Grossen Rates
 
-Der Präsident: Gullotti
+Der Präsident: Schlup
 
 Der Generalsekretär: Trees
 
-21-092
+22-080
