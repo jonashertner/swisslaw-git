@@ -3,11 +3,11 @@ sr: "0.632.316.411"
 title: "Accord de libre-échange du 14 juillet 2010 entre la République du Pérou et les États de l'AELE (avec annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/392"
 language: fr
-version: 2019-11-06
+version: 2022-09-07
 adopted: 2010-07-14
 in_force: 2011-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/392/20191106/fr/xml/fedlex-data-admin-ch-eli-cc-2011-392-20191106-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/392/20191106/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/392/20220907/fr/xml/fedlex-data-admin-ch-eli-cc-2011-392-20220907-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/392/20220907/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Traduction
 
 Conclu à Reykjavik le 24 juin 2010 et à Lima le 14 juillet 2010 Approuvé par l’Assemblée fédérale le 14 avril 2011[^t-1] Instrument de ratification suisse déposé le 29 avril 2011 Entré en vigueur pour la Suisse le 1<sup>er</sup> juillet 2011
 
-(Etat le 6 novembre 2019)
+(État le 7 septembre 2022)
 
 [^t-1]: Art. 1 al. 1 let. a de l’AF du 14 avril 2011 ([RO 2011 2987](https://fedlex.data.admin.ch/eli/oc/2011/391)).
 
@@ -64,9 +64,9 @@ déterminés à mettre en œuvre le présent Accord conformément aux dispositio
 
 ont décidé, en conséquence de ce qui précède, de conclure l’Accord de libre-échange suivant (ci-après dénommé «le présent Accord»):
 
-[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
-[^ingress-2]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)
-[^ingress-3]: [RS 0.820.1](https://fedlex.data.admin.ch/eli/cc/1948/915_891_861)
+[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
+[^ingress-2]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)
+[^ingress-3]: [RS 0.820.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3596)
 
 ## Chapitre 1 Dispositions générales
 
@@ -76,8 +76,8 @@ ont décidé, en conséquence de ce qui précède, de conclure l’Accord de lib
 
 Les Parties au présent Accord, conformément à l’art. XXIV de l’Accord général sur les tarifs douaniers et le commerce de 1994[^11-1] (ci-après dénommé «le GATT de 1994») et à l’art. V de l’Accord général sur le commerce des services de l’OMC[^11-2] (ci-après dénommé «l’AGCS»), instaurent une zone de libre-échange en vertu des dispositions du présent Accord et des accords complémentaires sur l’agriculture conclus parallèlement à titre individuel entre le Pérou et chacun des États de l’AELE.
 
-[^11-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), annexe 1A.1
-[^11-2]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), annexe 1.B
+[^11-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), annexe 1A.1
+[^11-2]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), annexe 1B
 
 #### Art. 1.2
 
@@ -94,8 +94,8 @@ Les objectifs du présent Accord sont:
 - (g) contribuer, en levant les obstacles au commerce et aux investissements, au développement et à l’expansion harmonieux du commerce mondial, et
 - (h) assurer la coopération visant le développement de la capacité commerciale, afin d’améliorer et d’accroître les bénéfices du présent Accord et pour réduire la pauvreté en encourageant la concurrence et le développement économique.
 
-[^12-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), annexe 1A.1
-[^12-2]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), annexe 1.B
+[^12-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), annexe 1A.1
+[^12-2]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), annexe 1B
 
 #### Art. 1.3
 
@@ -109,7 +109,7 @@ Le présent Accord ne s’applique pas au territoire du Svalbard, à l’excepti
 
 Les Parties confirment leurs droits et obligations découlant de l’Accord de l’OMC[^14-1] et des autres accords négociés dans ce cadre auxquels elles sont parties ainsi que de tout autre accord international auquel elles sont parties.
 
-[^14-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)
+[^14-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)
 
 #### Art. 1.5
 
@@ -119,7 +119,7 @@ Les Parties confirment leurs droits et obligations découlant de l’Accord de l
 
 <sup>2.</sup> En vertu de l’Union douanière établie entre la Suisse et la Principauté de Liechtenstein par le Traité du 29 mars 1923[^15-1], la Suisse représente la Principauté de Liechtenstein pour toutes les questions couvertes par ce Traité
 
-[^15-1]: [RS 0.631.112.514](https://fedlex.data.admin.ch/eli/cc/39/551_565_576)
+[^15-1]: [RS 0.631.112.514](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2001)
 
 #### Art. 1.6
 
@@ -141,7 +141,7 @@ Le présent Accord ne restreint pas la souveraineté fiscale d’une Partie d’
 <sup>2.</sup> Nonobstant l’al. 1, le présent Accord n’affecte pas les droits et les obligations d’une Partie au titre d’une convention fiscale. En cas d’incompatibilité entre le présent Accord et une telle convention, cette dernière prévaut dans la mesure de l’incompatibilité.
 
 [^17-1]: Il est entendu que les mesures fiscales ne comprennent pas: les droits de douane sur les importations ou les mesures énumérées à l’art. 2.2 (Définitions), let. (b) (ii) et (iii).
-[^17-2]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), annexe 1A.1
+[^17-2]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), annexe 1A.1
 
 #### Art. 1.8
 
@@ -174,7 +174,7 @@ Le présent chapitre s’applique aux marchandises suivantes faisant l’objet d
 - (b) les produits agricoles transformés spécifiés à l’Annexe III (Produits agricoles transformés), compte dûment tenu des arrangements prévus au chap. 3 (Produits agricoles transformés), et
 - (c) le poisson et les autres produits de la mer selon l’Annexe IV (Poisson et autres produits de la mer).
 
-[^21-1]: [RS 0.632.11](https://fedlex.data.admin.ch/eli/cc/1987/2686_2686_2686)
+[^21-1]: [RS 0.632.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2229)
 
 #### Art. 2.2
 
@@ -193,7 +193,7 @@ Aux fins du présent chapitre, à moins qu’il ne soit spécifié autrement:
 
 - (c) «législation douanière» signifie toute disposition légale ou réglementaire, adoptée par une Partie, qui régit les importations, les exportations ou le transit des marchandises et leur soumission à une quelconque procédure douanière, y compris les mesures d’interdiction, de restriction et de contrôle.
 
-[^22-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), annexe 1A.1
+[^22-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), annexe 1A.1
 
 #### Art. 2.3
 
@@ -281,8 +281,8 @@ Les Parties entendent que l’al. 1 interdit à une Partie d’adopter ou de mai
 
 <sup>4.</sup> Les al. 1 et 2 ne s’appliquent pas aux mesures présentées à l’Annexe IX (Produits remanufacturés).
 
-[^29-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), annexe 1A.1
-[^29-2]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), annexe 1A.12
+[^29-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), annexe 1A.1
+[^29-2]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), annexe 1A.12
 
 #### Art. 2.10
 
@@ -294,24 +294,24 @@ Les Parties entendent que l’al. 1 interdit à une Partie d’adopter ou de mai
 
 <sup>3.</sup> Chaque Partie fournit les informations voulues concernant les frais et les taxes qu’elle applique en lien avec les importations ou les exportations et en assure leur mise à jour par internet.
 
-[^210-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), annexe 1A.1
+[^210-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), annexe 1A.1
 
 #### Art. 2.11
 
 **Traitement national**
 
-Sous réserve des dispositions de l’Annexe IX (Produits remanufacturés), les Parties appliquent le traitement national conformément à l’art. III du GATT de 1994[^211-1], y compris ses notes interprétatives, qui sont incorporés au présent Accord et en font partie intégrante *mutatis muta**n**dis*.
+Sous réserve des dispositions de l’Annexe IX (Produits remanufacturés), les Parties appliquent le traitement national conformément à l’art. III du GATT de 1994[^211-1], y compris ses notes interprétatives, qui sont incorporés au présent Accord et en font partie intégrante *mutatis mutandis*.
 
-[^211-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), annexe 1A.1
+[^211-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), annexe 1A.1
 
 #### Art. 2.12
 
 **Entreprises commerciales étatiques**
 
-Les droits et obligations des Parties quant aux entreprises commerciales étatiques sont régis par l’art. XVII du GATT de 1994[^212-1] et le Mémorandum d’accord sur l’interprétation de l’art. XVII du GATT de 1994[^212-2] qui sont incorporés au présent Accord dont ils font partie intégrante *mutatis muta**n**dis*.
+Les droits et obligations des Parties quant aux entreprises commerciales étatiques sont régis par l’art. XVII du GATT de 1994[^212-1] et le Mémorandum d’accord sur l’interprétation de l’art. XVII du GATT de 1994[^212-2] qui sont incorporés au présent Accord dont ils font partie intégrante *mutatis mutandis*.
 
-[^212-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), annexe 1A.1
-[^212-2]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), annexe 1A.1.b
+[^212-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), annexe 1A.1
+[^212-2]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), annexe 1A.1.b
 
 #### Art. 2.13
 
@@ -340,13 +340,13 @@ Les Parties instituent par le présent Accord un forum pour les experts SPS. Ce 
 - (e) considérer les obligations des Parties quant aux aspects sanitaires et phytosanitaires en vertu d’autres accords internationaux, et
 - (f) instituer des groupes d’experts techniques selon les besoins.
 
-[^213-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), annexe 1A.4
+[^213-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), annexe 1A.4
 
 #### Art. 2.14
 
 **Réglementations techniques**
 
-<sup>1.</sup> Les droits et obligations des Parties concernant les réglementations techniques, les normes et l’évaluation de la conformité sont régis par l’Accord sur les obstacles techniques au commerce[^214-1] de l’OMC (ci-après dénommé «Accord OTC»), lequel est incorporé au présent Accord et en fait partie intégrante *mut**a**tis mutandis*.
+<sup>1.</sup> Les droits et obligations des Parties concernant les réglementations techniques, les normes et l’évaluation de la conformité sont régis par l’Accord sur les obstacles techniques au commerce[^214-1] de l’OMC (ci-après dénommé «Accord OTC»), lequel est incorporé au présent Accord et en fait partie intégrante *mutatis mutandis*.
 
 <sup>2.</sup>
 
@@ -363,7 +363,7 @@ Les Parties renforcent leur coopération en matière de réglementations techniq
 
 <sup>5.</sup> Si une Partie considère qu’une autre Partie a pris des mesures non conformes à l’Accord OTC qui sont susceptibles d’affecter ou d’avoir affecté l’accès à son marché, elle peut requérir, par l’intermédiaire du point de contact institué en vertu de l’al. 3, des consultations techniques en vue de trouver une solution appropriée en conformité avec l’Accord OTC. De telles consultations, qui peuvent avoir lieu au sein ou hors du cadre du Comité mixte, sont conduites dans un délai de 40 jours à compter de la réception de la demande. Des consultations peuvent aussi être menées par téléphone ou vidéoconférence. Les consultations au sein du Comité mixte doivent constituer des consultations au sens de l’art. 12.5 (Consultations).
 
-[^214-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), annexe 1A.6
+[^214-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), annexe 1A.6
 
 #### Art. 2.15
 
@@ -375,8 +375,8 @@ Les Parties renforcent leur coopération en matière de réglementations techniq
 
 <sup>3.</sup> Le chap. 12 (Règlement des différends) ne s’applique pas au présent article, hormis à son al. 2.
 
-[^215-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), annexe 1A.1
-[^215-2]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), annexe 1A.13
+[^215-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), annexe 1A.1
+[^215-2]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), annexe 1A.13
 
 #### Art. 2.16
 
@@ -390,8 +390,8 @@ Les Parties renforcent leur coopération en matière de réglementations techniq
 
 <sup>4.</sup> Le chap. 12 (Règlement des différends) ne s’applique pas au présent article, hormis à son al. 2.
 
-[^216-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), annexe 1A.1
-[^216-2]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), annexe 1A.8
+[^216-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), annexe 1A.1
+[^216-2]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), annexe 1A.8
 
 #### Art. 2.17
 
@@ -408,8 +408,8 @@ Aucune Partie n’applique simultanément pour le même produit:
 - (a) une mesure de sauvegarde bilatérale, et
 - (b) une mesure relevant de l’art. XIX du GATT de 1994 et de l’Accord sur les sauvegardes.
 
-[^217-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), annexe 1A.1
-[^217-2]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), annexe 1A.14
+[^217-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), annexe 1A.1
+[^217-2]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), annexe 1A.14
 
 #### Art. 2.18
 
@@ -470,23 +470,23 @@ Toute mesure de sauvegarde provisoire expire au plus tard au terme d’une péri
 - (b) une mesure de sauvegarde provisoire ne peut être imposée qu’à titre d’augmentation des droits de douane au sens de l’al. 6. Tout droit additionnel effectivement payé est rapidement remboursé et toute garantie est libérée si l’enquête décrite à l’al. 3 ne révèle pas que les conditions de l’al. 1 sont remplies, et
 - (c) toute compensation ou mesure compensatoire mutuellement entendue est basée sur la période totale d’application de la mesure de sauvegarde provisoire et de la mesure de sauvegarde.
 
-[^218-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), annexe 1A.14
+[^218-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), annexe 1A.14
 
 #### Art. 2.19
 
 **Exceptions générales**
 
-Aux fins du présent chapitre, les droits et obligations des Parties quant aux exceptions générales sont régis par l’art. XX du GATT de 1994[^219-1], qui est incorporé au présent Accord et en fait partie intégrante *mutatis muta**n**dis*.
+Aux fins du présent chapitre, les droits et obligations des Parties quant aux exceptions générales sont régis par l’art. XX du GATT de 1994[^219-1], qui est incorporé au présent Accord et en fait partie intégrante *mutatis mutandis*.
 
-[^219-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), annexe 1A.1
+[^219-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), annexe 1A.1
 
 #### Art. 2.20
 
 **Exceptions concernant la sécurité**
 
-Aux fins du présent chapitre, les droits et obligations des Parties quant aux exceptions en matière de sécurité sont régis par l’art. XXI du GATT de 1994[^220-1], qui est incorporé au présent Accord et en fait partie intégrante *mutatis muta**n**dis*.
+Aux fins du présent chapitre, les droits et obligations des Parties quant aux exceptions en matière de sécurité sont régis par l’art. XXI du GATT de 1994[^220-1], qui est incorporé au présent Accord et en fait partie intégrante *mutatis mutandis*.
 
-[^220-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), annexe 1A.1
+[^220-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), annexe 1A.1
 
 ## Chapitre 3 Produits agricoles transformés
 
@@ -498,7 +498,7 @@ Aux fins du présent chapitre, les droits et obligations des Parties quant aux e
 
 <sup>2.</sup> Les Parties réaffirment leurs droits et obligations en vertu de l’Accord sur l’agriculture[^31-1] de l’OMC.
 
-[^31-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), annexe 1A.3
+[^31-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), annexe 1A.3
 
 #### Art. 3.2
 
@@ -526,7 +526,7 @@ Aux fins du présent chapitre, les droits et obligations des Parties quant aux e
 
 <sup>2.</sup> Si une Partie adopte, maintient, introduit ou réintroduit des subventions à l’exportation pour un produit faisant l’objet de concessions tarifaires conformément à l’art. 3.3 (Concessions tarifaires), l’autre Partie peut relever le taux de droit de douane pour lesdites importations jusqu’à concurrence du tarif NPF appliqué en vigueur à ce moment-là. Si une Partie augmente le taux de droits de douane, elle le notifie aux autres Parties dans un délai de 30 jours à compter de la date de cette augmentation.
 
-[^34-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), annexe 1A.3
+[^34-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), annexe 1A.3
 
 #### Art. 3.5
 
@@ -562,7 +562,7 @@ Le Pérou et les États de l’AELE réexaminent périodiquement le développeme
 
 <sup>4.</sup> Les Parties négocieront, sur une base mutuellement avantageuse, un chapitre concernant le commerce des services, y compris les services de transport maritime international, garantissant un équilibre global de leurs droits et obligations et respectant dûment les dispositions de l’art. V de l’AGCS. De telles négociations seront conduites au plus tard une année après l’entrée en vigueur du présent Accord.
 
-[^41-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), annexe 1.B
+[^41-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), annexe 1B
 
 #### Art. 4.2
 
@@ -657,9 +657,9 @@ Les dispositions du présent chapitre s’appliquent sans préjudice des droits 
 
 **Exception**
 
-L’exception visée à l’art. XIV, let. d, de l’AGCS[^58-1] est incorporée au présent chapitre et en fait partie intégrante *mutatis muta**n**dis*.
+L’exception visée à l’art. XIV, let. d, de l’AGCS[^58-1] est incorporée au présent chapitre et en fait partie intégrante *mutatis mutandis*.
 
-[^58-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), annexe 1.B
+[^58-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), annexe 1B
 
 #### Art. 5.9
 
@@ -686,7 +686,7 @@ L’exception visée à l’art. XIV, let. d, de l’AGCS[^58-1] est incorporée
 <sup>5.</sup> Conformément à l’art. 8, al. 2 de l’Accord sur les ADPIC, les Parties pourront prendre des mesures appropriées, à condition qu’elles soient compatibles avec les dispositions du présent Accord, si elles sont nécessaires pour empêcher l’usage abusif des droits de propriété intellectuelle par les détenteurs de droits ou pour prévenir le recours à des pratiques restreignant le commerce de manière déraisonnable ou préjudiciables au transfert de technologie international.
 
 [^61-1]: Aux fins des al. 3 et 4, la «protection» englobera les questions concernant l’existence, l’acquisition, la portée, le maintien des droits de propriété intellectuelle et les moyens de les faire respecter ainsi que les questions concernant l’exercice des droits de propriété intellectuelle dont le présent chapitre traite expressément.
-[^61-2]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), annexe 1.C
+[^61-2]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), annexe 1C
 
 #### Art. 6.2
 
@@ -702,7 +702,7 @@ L’exception visée à l’art. XIV, let. d, de l’AGCS[^58-1] est incorporée
 
 <sup>5.</sup> Les Parties reconnaissent les principes établis dans la Déclaration sur l’Accord sur les ADPIC et la santé publique, adoptée le 14 novembre 2001 par la quatrième Conférence ministérielle de l’OMC tenue à Doha (Qatar), et dans la Décision du Conseil général de l’OMC sur la mise en œuvre du paragraphe 6 de la déclaration de Doha, adoptée le 30 août 2003 et dans l’Amendement de l’Accord sur les ADPIC, adopté par le Conseil général de l’OMC en date du 6 décembre 2005.
 
-[^62-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), annexe 1.C
+[^62-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), annexe 1C
 
 #### Art. 6.3
 
@@ -741,18 +741,18 @@ Les Parties au présent Accord qui ne sont pas parties à l’un ou à plusieurs
 
 <sup>5.</sup> Les Parties au présent Accord pourront convenir, sur la base d’un consentement mutuel, d’un échange de vues entre experts consacré aux activités relatives à des conventions internationales existantes ou futures sur les droits de propriété intellectuelle et sur toute autre question liée aux droits de propriété intellectuelle sur laquelle les Parties se seraient mises d’accord.
 
-[^64-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), annexe 1.C
-[^64-2]: [RS 0.230](https://fedlex.data.admin.ch/eli/cc/1970/602_603_603)
-[^64-3]: [RS 0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
+[^64-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), annexe 1C
+[^64-2]: [RS 0.230](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/901)
+[^64-3]: [RS 0.232.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1030)
 [^64-4]: RS**0.231.15**
 [^64-5]: RS**0.231.171**
 [^64-6]: RS**0.232.145.1**
 [^64-7]: RS**0.232.162**
-[^64-8]: [RS 0.232.163](https://fedlex.data.admin.ch/eli/cc/2008/527)
-[^64-9]: [RS 0.232.141.1](https://fedlex.data.admin.ch/eli/cc/1978/900_900_900)
-[^64-10]: [RS 0.231.171.1](https://fedlex.data.admin.ch/eli/cc/2008/359)
-[^64-11]: [RS 0.231.151](https://fedlex.data.admin.ch/eli/cc/2008/358)
-[^64-12]: [RS 0.232.121.4](https://fedlex.data.admin.ch/eli/cc/2004/98)
+[^64-8]: [RS 0.232.163](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1110)
+[^64-9]: [RS 0.232.141.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1083)
+[^64-10]: [RS 0.231.171.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1020)
+[^64-11]: [RS 0.231.151](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1018)
+[^64-12]: [RS 0.232.121.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1078)
 [^64-13]: RS**0.232.112.4**
 
 #### Art. 6.5
@@ -784,8 +784,8 @@ Si la législation de l’une des Parties le prévoit:
 
 <sup>10.</sup> Les Parties prennent des mesures législatives, administratives ou politiques, selon les cas, dans le but de garantir le partage juste et équitable des avantages découlant de l’exploitation des ressources génétiques ou des connaissances traditionnelles qui leur sont associées. Un tel partage repose sur des termes mutuellement convenus.
 
-[^65-1]: [RS 0.451.43](https://fedlex.data.admin.ch/eli/cc/1995/1408_1408_1408)
-[^65-2]: [RS 0.910.6](https://fedlex.data.admin.ch/eli/cc/2005/298)
+[^65-1]: [RS 0.451.43](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1840)
+[^65-2]: [RS 0.910.6](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3999)
 
 #### Art. 6.6
 
@@ -799,7 +799,7 @@ Si la législation de l’une des Parties le prévoit:
 
 <sup>4.</sup> Les Parties reconnaissent l’importance de la Recommandation commune concernant des dispositions relatives à la protection des marques notoires (1999) et de la Recommandation commune concernant la protection des marques, et autres droits de propriété industrielle relatifs à des signes, sur l’Internet (2001), adoptées par l’Assemblée de l’Union de Paris pour la protection de la propriété industrielle et l’Assemblée générale de l’OMPI, et seront guidées par les principes contenus dans lesdites recommandations.
 
-[^66-1]: [RS 0.232.112.7](https://fedlex.data.admin.ch/eli/cc/1962/985_1019_1020)
+[^66-1]: [RS 0.232.112.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1061)
 
 #### Art. 6.7
 
@@ -821,8 +821,8 @@ Aux fins du présent chapitre:
 <sup>5.</sup> Afin de renforcer encore la protection des indications géographiques l’un envers l’autre, le Pérou et la Suisse conviennent de négocier un accord bilatéral sur la reconnaissance mutuelle et la protection des indications géographiques, en vue de le conclure dans un délai de trois ans à compter de l’entrée en vigueur du présent Accord. Toute autre Partie au présent Accord peut se joindre à ces négociations ou adhérer à l’accord visé après son entrée en vigueur.
 
 [^67-1]: Pour plus de certitude: si l’une ou l’autre des Parties prévoit, dans sa législation nationale, des dispositions en vue de protéger les appellations d’origine, rien dans le présent Accord n’exigera leur modification.
-[^67-2]: [RS 0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
-[^67-3]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), annexe 1.C
+[^67-2]: [RS 0.232.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1030)
+[^67-3]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), annexe 1C
 
 #### Art. 6.8
 
@@ -886,7 +886,7 @@ Une Partie peut prendre des mesures visant à protéger la santé publique confo
 
 <sup>5.</sup> Dans le cas où une Partie se fie à l’autorisation de mise sur le marché donnée par une autre Partie et qu’elle accorde son autorisation dans les six mois à compter du moment où la demande d’autorisation de mise sur le marché complète est enregistrée par la Partie, la période raisonnable d’utilisation exclusive des données soumises en vue d’obtenir l’autorisation à laquelle se fie la Partie débutera à la date de la première autorisation de mise sur le marché.
 
-[^611-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), annexe 1.C
+[^611-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), annexe 1C
 [^611-2]: Aux fins du présent alinéa, «nouveau produit chimique agricole» signifie un produit qui contient une entité chimique qui n’a pas encore fait l’objet d’une autorisation sur le territoire de la Partie. Si une Partie doit définir «entité chimique nouvelle pour des produits pharmaceutiques» dans sa législation nationale aux fins de mettre en œuvre le présent Accord, elle prend en compte les normes internationales qui prévalent avant même l’entrée en vigueur du présent Accord.
 [^611-3]: WT/MIN(01)/DEC/2.
 
@@ -896,7 +896,7 @@ Une Partie peut prendre des mesures visant à protéger la santé publique confo
 
 Dans les cas où l’acquisition d’un droit de propriété intellectuelle est subordonnée à la condition que ce droit soit octroyé ou enregistré, les Parties s’assurent que les procédures d’octroi ou d’enregistrement sont du même niveau que celles prévues par l’Accord sur les ADPIC[^612-1], en particulier à son art. 62.
 
-[^612-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), annexe 1.C
+[^612-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), annexe 1C
 
 #### Art. 6.13
 
@@ -904,7 +904,7 @@ Dans les cas où l’acquisition d’un droit de propriété intellectuelle est 
 
 Les Parties arrêtent dans leur législation nationale des dispositions établissant des moyens de faire respecter les droits de propriété intellectuelle, du même niveau que celles prévues par l’Accord sur les ADPIC[^613-1], en particulier à ses art. 41 à 61.
 
-[^613-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), annexe 1.C
+[^613-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), annexe 1C
 
 #### Art. 6.14
 
@@ -944,7 +944,7 @@ Les Parties peuvent disposer que les autorités judiciaires soient habilitées, 
 
 <sup>1.</sup> Les Parties reconnaissent qu’il importe de promouvoir la recherche, le développement technologique et l’innovation, de diffuser l’information technologique et de construire et renforcer leurs capacités technologiques; elles chercheront à coopérer dans ces domaines en tenant compte de leurs ressources.
 
-<sup>2.</sup> La coopération entre le Pérou et la Confédération suisse dans les domaines mentionnés peut se fonder en particulier sur les lettres d’intention respectives du 28 décembre 2006 entre le Secrétariat d’État à l’éducation et à la recherche du Département fédéral de l’intérieur[^618-1] de la Confédération suisse et le *Consejo Naci**o**nal de Ciencia, Tecnología e Innovación Tecnológ**i**ca* (CONCYTEC).
+<sup>2.</sup> La coopération entre le Pérou et la Confédération suisse dans les domaines mentionnés peut se fonder en particulier sur les lettres d’intention respectives du 28 décembre 2006 entre le Secrétariat d’État à l’éducation et à la recherche du Département fédéral de l’intérieur[^618-1] de la Confédération suisse et le *Consejo Nacional de Ciencia, Tecnología e Innovación Tecnológica* (CONCYTEC).
 
 <sup>3.</sup> En conséquence, le Pérou et la Confédération suisse peuvent rechercher et encourager les opportunités de coopérer au sens du présent article pour s’engager, le moment venu, dans des projets de recherche scientifique collaborative. Les entités mentionnées à l’al. 2, qui assureront le rôle de points de contact pour faciliter le développement de projets collaboratifs, réexamineront périodiquement le statut de cette collaboration par des moyens mutuellement convenus.
 
@@ -1299,7 +1299,7 @@ Si une entité adjudicatrice entend recourir à la procédure de l’appel d’o
   - (i) n’est pas réalisable pour des raisons économiques ou techniques telles que les exigences d’interchangeabilité, d’interfonctionnalité avec l’équipement existant, de logiciel, de services ou d’installations fournies dans le cadre du marché initial, et
   - (ii) que ce changement entraînerait des inconvénients sensibles ou une duplication substantielle des coûts de l’entité adjudicatrice;
 
-- (a) dans la mesure où cela est strictement nécessaire, lorsque, pour des raisons d’urgence extrême dues à des événements imprévisibles pour l’entité adjudicatrice, les biens ou les services ne peuvent être obtenus à temps en passant par un appel d’offres ouvert ou sélectif;
+- dans la mesure où cela est strictement nécessaire, lorsque, pour des raisons d’urgence extrême dues à des événements imprévisibles pour l’entité adjudicatrice, les biens ou les services ne peuvent être obtenus à temps en passant par un appel d’offres ouvert ou sélectif;
 - (e) pour les achats sur le marché des matières premières;
 - (f) si une entité adjudicatrice acquiert des prototypes ou un premier bien ou service développés à sa demande dans le cadre et la perspective d’un contrat particulier de recherche, d’expérience, d’étude ou de développement original;
 - (g) pour les achats réalisés à des conditions exceptionnellement avantageuses, qui ne surviennent qu’à très court terme dans les cas de dispositions inhabituelles comme celles liées à une liquidation, un séquestre, une mise aux enchères publique ou une faillite, mais non pas pour les achats de routine auprès de fournisseurs réguliers, ou
@@ -1705,8 +1705,8 @@ Sous réserve de dispositions contraires du présent Accord, les dispositions du
 
 <sup>3.</sup> Avant qu’une Partie n’engage une procédure de règlement des différends à l’encontre d’une autre Partie au titre de l’Accord de l’OMC, la Partie plaignante notifie son intention aux autres Parties.
 
-[^123-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)
-[^123-2]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), annexe 2
+[^123-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)
+[^123-2]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), annexe 2
 
 #### Art. 12.4
 
@@ -1791,7 +1791,7 @@ Si un membre du panel nommé se retire, est relevé de ses fonctions ou ne peut 
 
 <sup>7.</sup> Si le Directeur général de l’OMC n’est pas en mesure de remplir ses obligations conformément au présent chapitre ou qu’il est un ressortissant de l’une des Parties au différend, les désignations seront assurées par l’un des Directeurs généraux adjoints de l’OMC.
 
-[^128-1]: Corrections selon la note du Ministère royal norvégien des affaires étrangères du 6 nov. 2019 ([RO 2020 355](https://fedlex.data.admin.ch/eli/oc/2020/59)).
+[^128-1]: Corrections selon la note du Ministère royal norvégien des affaires étrangères des 6 nov. 2019 et 4 mai 2022 ([RO 2020 355](https://fedlex.data.admin.ch/eli/oc/2020/59); [2022 494](https://fedlex.data.admin.ch/eli/oc/2022/494)).
 
 #### Art. 12.9
 
@@ -2019,7 +2019,7 @@ Le Gouvernement de Norvège agit en qualité de Dépositaire.
 
 *En foi de quoi,* les soussignés, dûment autorisés par leurs Gouvernement respectifs, ont signé le présent Accord. Signé par les États de l’AELE à Reykjavik, le 24 juin 2010, et par le Pérou à Lima, le 14 juillet 2010, en un exemplaire original rédigé en anglais et un en espagnol, qui sont déposés auprès du Gouvernement de Norvège (Dépositaire). Le Dépositaire transmet des copies certifiées aux Parties. (Suivent les signatures) Tables des matières Préambule Chapitre 1: Dispositions générales Art. 1.1 Instauration d’une zone de libre-échange Art. 1.2 Objectifs Art. 1.3 Svalbard Art. 1.4 Relations avec d’autres accords internationaux Art. 1.5 Relations économiques et commerciales couvertes par le présent Accord Art. 1.6 Gouvernements centraux, régionaux et locaux Art. 1.7 Fiscalité Art. 1.8 Commerce électronique Art. 1.9 Définitions d’application générale Chapitre 2: Commerce des marchandises Art. 2.1 Champ d’application Art. 2.2 Définitions Art. 2.3 Règles d’origine et assistance administrative mutuelle en matière douanière Art. 2.4 Facilitation du commerce Art. 2.5 Institution d’un sous-comité sur le commerce des marchandises, les règles d’origine et les procédures douanières Art. 2.6 Démantèlement des droits à l’importation Art. 2.7 Taux de base Art. 2.8 Droits, taxes ou autres surtaxes à l’exportation Art. 2.9 Restrictions à l’importation et à l’exportation Art. 2.10 Frais administratifs et formalités Art. 2.11 Traitement national Art. 2.12 Entreprises commerciales étatiques Art. 2.13 Mesures sanitaires et phytosanitaires Art. 2.14 Réglementations techniques Art. 2.15 Subventions et mesures compensatoires Art. 2.16 Mesures antidumping Art. 2.17 Mesures de sauvegarde globales Art. 2.18 Mesures de sauvegarde bilatérales Art. 2.19 Exceptions générales Art. 2.20 Exceptions concernant la sécurité Chapitre 3: Produits agricoles transformés Art. 3.1 Champ d’application Art. 3.2 Mesures de compensation des prix Art. 3.3 Concessions tarifaires Art. 3.4 Subventions à l’exportation de produits agricoles Art. 3.5 Système de fourchette de prix Art. 3.6 Notification Art. 3.7 Consultations Chapitre 4: Commerce des services Art. 4.1 Commerce des services Art. 4.2 Reconnaissance Chapitre 5: Investissements Art. 5.1 Champ d’application Art. 5.2 Définitions Art. 5.3 Traitement national Art. 5.4 Réserves Art. 5.5 Personnel clé Art. 5.6 Droit de réglementer Art. 5.7 Relation avec d’autres accords internationaux Art. 5.8 Exception Art. 5.9 Réexamen Chapitre 6: Protection de la propriété intellectuelle Art. 6.1 Dispositions générales Art. 6.2 Principes de base Art. 6.3 Définition de la propriété intellectuelle Art. 6.4 Conventions internationales Art. 6.5 Mesures relatives à la biodiversité Art. 6.6 Marques de fabrique ou de commerce Art. 6.7 Indications géographiques, y compris les appellations d’origine et les indications de provenance Art. 6.8 Droits d’auteur et droits connexes Art. 6.9 Brevets Art. 6.10 Dessins et modèles industriels Art. 6.11 Renseignements non divulgués et mesures liées à certains produits réglementés Art. 6.12 Acquisition et maintien des droits de propriété intellectuelle Art. 6.13 Moyens de faire respecter les droits de propriété intellectuelle Art. 6.14 Droit d’information dans le cadre de procédures civiles et administratives Art. 6.15 Suspension de la mise en circulation par les autorités compétentes Art. 6.16 Droit d’inspection Art. 6.17 Déclaration de responsabilité, caution ou garantie équivalente Art. 6.18 Promotion de la recherche, du développement technologique et de l’innovation Chapitre 7: Marchés publics Art. 7.1 Portée et champ d’application Art. 7.2 Exceptions au présent chapitre Art. 7.3 Définitions Art. 7.4 Traitement national et non-discrimination Art. 7.5 Technologies de l’information Art. 7.6 Conduite des marchés publics Art. 7.7 Règles d’origine Art. 7.8 Opérations de compensation Art. 7.9 Publication des informations concernant les marchés publics Art. 7.10 Publication des avis Art. 7.11 Conditions de participation Art. 7.13 Listes à usage multiple Art. 7.14 Documentation d’appel d’offres Art. 7.15 Spécifications techniques Art. 7.16 Modifications de la documentation d’appel d’offres et des spécifications techniques Art. 7.17 Délais Art. 7.18 Procédures d’appel d’offres Art. 7.19 Appel d’offres sélectif Art. 7.20 Appel d’offres limité Art. 7.21 Mise aux enchères électronique Art. 7.22 Négociations Art. 7.23 Ouverture de l’appel d’offres Art. 7.24 Attribution du contrat Art. 7.25 Transparence de l’information relatives aux marchés publiques Art. 7.26 Divulgation d’informations Art. 7.27 Procédures de recours internes Art. 7.28 Modifications et rectifications du champ d’application Art. 7.29 Participation de petites et moyennes entreprises Art. 7.30 Coopération Art. 7.31 Négociations futures Chapitre 8: Politique de la concurrence Art. 8.1 Objectifs Art. 8.2 Pratiques anticoncurrentielles Art. 8.3 Coopération Art. 8.4 Consultations Art. 8.5 Entreprises d’État et monopoles désignés Art. 8.6 Règlement des différends Chapitre 9: Transparence Art. 9.1 Publication et communication d’informations Art. 9.2 Notifications Chapitre 10: Coopération Art. 10.1 Portée et objectifs Art. 10.2 Méthodes et moyens Art. 10.3 Comité mixte et points de contact Chapitre 11: Administration de l’Accord Art. 11.1 Comité mixte Art. 11.2 Coordinateurs de l’Accord et points de contact Chapitre 12: Règlement des différends Art. 12.1 Coopération Art. 12.2 Portée de l’application Art. 12.3 Choix du forum Art. 12.4 Bons offices, consultations ou médiation Art. 12.5 Consultations Art. 12.6 Demande de constitution d’un panel Art. 12.7 Participation de tierce partie Art. 12.8 Sélection du panel Art. 12.9 Compétences des membres du panel Art. 12.10 Rôle du panel Art. 12.11 Règles de procédure types Art. 12.12 Consolidation de la procédure Art. 12.13 Rapport du panel Art. 12.14 Demande de clarification du rapport Art. 12.15 Suspension et fin de procédure Art. 12.16 Mise en œuvre du rapport final et compensation Art. 12.17 Non-mise en œuvre et suspension des avantages Chapitre 13: Dispositions finales Art. 13.1 Annexes, appendices et notes de bas de page Art. 13.2 Entrée en vigueur Art. 13.3 Amendements Art. 13.4 Adhésion Art. 13.5 Retrait Art. 13.6 Relation aux accords complémentaires Art. 13.7 Textes authentiques Art. 13.8 Dépositaire
 
-Liste des annexes**[^t-2]**
+Liste des annexes[^t-2]
 
 <table>
 <tr><td>***Annex I***</td><td colspan="2">Referred to in Article 1.8 (Electronic Commerce) regarding Electronic Commerce</td></tr>

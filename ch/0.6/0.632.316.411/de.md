@@ -3,11 +3,11 @@ sr: "0.632.316.411"
 title: Freihandelsabkommen vom 14. Juli 2010 zwischen der Republik Peru und den EFTA-Staaten (mit Anhängen)
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/392"
 language: de
-version: 2019-11-06
+version: 2022-09-07
 adopted: 2010-07-14
 in_force: 2011-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/392/20191106/de/xml/fedlex-data-admin-ch-eli-cc-2011-392-20191106-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/392/20191106/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/392/20220907/de/xml/fedlex-data-admin-ch-eli-cc-2011-392-20220907-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/392/20220907/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **2011** 2989; BBl **2010** 6165
 
 Abgeschlossen in Reykjavik am 24. Juni 2010 und in Lima am 14. Juli 2010 Von der Bundesversammlung genehmigt am 14. April 2011[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 29. April 2011 Für die Schweiz in Kraft getreten am 1. Juli 2011
 
-(Stand am 6. November 2019)
+(Stand am 7. September 2022)
 
 [^t-1]: Art. 1 Abs. 1 Bst. a des BB vom 14. April 2011 ([AS 2011 2987](https://fedlex.data.admin.ch/eli/oc/2011/391))
 
@@ -64,9 +64,9 @@ entschlossen, dieses Abkommen im Einklang mit Schutz und Erhaltung der Umwelt um
 
 haben zur Erreichung dieser Ziele folgendes Freihandelsabkommen (nachfolgend als «dieses Abkommen» bezeichnet) abgeschlossen:
 
-[^ingress-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
-[^ingress-2]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)
-[^ingress-3]: [SR 0.820.1](https://fedlex.data.admin.ch/eli/cc/1948/915_891_861)
+[^ingress-1]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
+[^ingress-2]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)
+[^ingress-3]: [SR 0.820.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3596)
 
 ## 1. Kapitel Allgemeine Bestimmungen
 
@@ -76,8 +76,8 @@ haben zur Erreichung dieser Ziele folgendes Freihandelsabkommen (nachfolgend als
 
 Die Vertragsparteien dieses Abkommens errichten durch dieses Abkommen und die Bestimmungen der landwirtschaftlichen Zusatzabkommen, die gleichzeitig zwischen Peru und jedem einzelnen EFTA-Staat abgeschlossen werden, eine Freihandelszone im Einklang mit Artikel XXIV des Allgemeinen Zoll- und Handelsabkommens[^11-1] (nachfolgend als «GATT 1994» bezeichnet) und mit Artikel V des Allgemeinen Abkommens über den Handel mit Dienstleistungen[^11-2] (nachfolgend als «GATS» bezeichnet).
 
-[^11-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Anhang 1A.1
-[^11-2]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Anhang 1.B
+[^11-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Anhang 1A.1
+[^11-2]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Anhang 1B
 
 #### Art. 1.2
 
@@ -94,8 +94,8 @@ Die Ziele dieses Abkommens sind:
 - (g) durch den Abbau von Handels- und Investitionshemmnissen einen Beitrag zur harmonischen Entwicklung und Ausweitung des Welthandels zu leisten; und
 - (h) zur Ausweitung und Vergrösserung der Vorteile dieses Abkommens, zur Armutsbekämpfung und zur Förderung von Wettbewerbsfähigkeit und Wirtschaftsentwicklung die Zusammenarbeit in Bezug auf die Vergrösserung der Handelsbefähigung («Trade Capacity Building») sicherzustellen.
 
-[^12-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Anhang 1A.1
-[^12-2]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Anhang 1.B
+[^12-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Anhang 1A.1
+[^12-2]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Anhang 1B
 
 #### Art. 1.3
 
@@ -109,7 +109,7 @@ Dieses Abkommen gilt mit Ausnahme des Warenhandels nicht für das Hoheitsgebiet 
 
 Die Bestimmungen dieses Abkommens gelten unbeschadet der Rechte und Pflichten der Vertragsparteien, die sich aus dem WTO-Abkommen[^14-1] und den anderen darunter fallenden Abkommen, bei denen sie Vertragspartei sind, oder aus irgendeinem anderen internationalen Abkommen, bei dem sie Vertragspartei sind, ergeben.
 
-[^14-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)
+[^14-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)
 
 #### Art. 1.5
 
@@ -119,7 +119,7 @@ Die Bestimmungen dieses Abkommens gelten unbeschadet der Rechte und Pflichten de
 
 <sup>2.</sup> Gestützt auf den Vertrag vom 29. März 1923[^15-1] zwischen der Schweiz und Liechtenstein über den Anschluss des Fürstentums Liechtenstein an das schweizerische Zollgebiet vertritt die Schweiz das Fürstentum Liechtenstein in den darunter fallenden Angelegenheiten.
 
-[^15-1]: [SR 0.631.112.514](https://fedlex.data.admin.ch/eli/cc/39/551_565_576)
+[^15-1]: [SR 0.631.112.514](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2001)
 
 #### Art. 1.6
 
@@ -141,7 +141,7 @@ Mit Ausnahme folgender Disziplinen schränkt dieses Abkommen die Steuerhoheit zu
 <sup>2.</sup> Ungeachtet von Absatz 1 berührt dieses Abkommen keine Rechte und Pflichten einer Vertragspartei aus einem Besteuerungsübereinkommen. Im Falle einer Unvereinbarkeit zwischen diesem Abkommen und einem solchen Übereinkommen soll letzteres bezüglich dieser Unvereinbarkeit Vorrang haben.
 
 [^17-1]: Es herrscht Einigkeit darüber, dass von fiskalischen Massnahmen nicht eingeschlossen warden: Einfuhrzölle oder -massnahmen nach Art. 2.2. Bst. (b) Ziff. (ii) und (iii) (Begriffsbestimmungen).
-[^17-2]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Anhang 1A.1
+[^17-2]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Anhang 1A.1
 
 #### Art. 1.8
 
@@ -174,7 +174,7 @@ Dieses Kapitel gilt für die folgenden zwischen den Vertragsparteien gehandelten
 - (b) landwirtschaftliche Verarbeitungserzeugnisse nach Anhang III (Landwirtschaftliche Verarbeitungserzeugnissen) unter gebührender Beachtung der im 3. Kapitel (Landwirtschaftliche Verarbeitungserzeugnisse) vorgesehenen Bestimmungen; und
 - (c) Fische und andere Meeresprodukte nach Anhang IV (Fische und andere Meeresprodukte).
 
-[^21-1]: [SR 0.632.11](https://fedlex.data.admin.ch/eli/cc/1987/2686_2686_2686)
+[^21-1]: [SR 0.632.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2229)
 
 #### Art. 2.2
 
@@ -193,7 +193,7 @@ Für die Zwecke dieses Kapitels bedeuten, sofern nicht abweichend bestimmt:
 
 - (c) «Zollgesetzgebung» jegliche Rechts- oder Regulierungsbestimmung einer Vertragspartei zu Einfuhr, Ausfuhr oder Durchfuhr von Waren und deren Unterstellung unter jegliches Zollverfahren, einschliesslich Verbots-, Beschränkungs- und Kontrollmassnahmen.
 
-[^22-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Anhang 1A.1
+[^22-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Anhang 1A.1
 
 #### Art. 2.3
 
@@ -281,8 +281,8 @@ Die Vertragsparteien kommen überein, dass Absatz 1 eine Vertragspartei abhält 
 
 <sup>4.</sup> Die Absätze 1 und 2 gelten nicht für Massnahmen nach Anhang IX (Gebrauchtwaren).
 
-[^29-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Anhang 1A.1
-[^29-2]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Anhang 1A.12
+[^29-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Anhang 1A.1
+[^29-2]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Anhang 1A.12
 
 #### Art. 2.10
 
@@ -294,7 +294,7 @@ Die Vertragsparteien kommen überein, dass Absatz 1 eine Vertragspartei abhält 
 
 <sup>3.</sup> Jede Vertragspartei macht und hält aufdatierte Informationen über ihre Gebühren und Abgaben im Zusammenhang mit der Ein- oder Ausfuhr im Internet zugänglich.
 
-[^210-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Anhang 1A.1
+[^210-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Anhang 1A.1
 
 #### Art. 2.11
 
@@ -302,7 +302,7 @@ Die Vertragsparteien kommen überein, dass Absatz 1 eine Vertragspartei abhält 
 
 Vorbehältlich Anhang IX (Gebrauchtwaren) wenden die Vertragsparteien im Einklang mit Artikel III GATT 1994[^211-1], einschliesslich seiner Auslegungserläuterungen, der hiermit *mutatis mutandis* zum integrierenden Bestandteil dieses Abkommens erklärt wird, Inländerbehandlung an.
 
-[^211-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Anhang 1A.1
+[^211-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Anhang 1A.1
 
 #### Art. 2.12
 
@@ -310,8 +310,8 @@ Vorbehältlich Anhang IX (Gebrauchtwaren) wenden die Vertragsparteien im Einklan
 
 Die Rechte und Pflichten der Vertragsparteien in Bezug auf staatliche Handelsunternehmen richten sich nach Artikel XVII GATT 1994[^212-1] und nach der Vereinbarung zur Auslegung des Artikels XVII des Allgemeinen Zoll- und Handelsabkommens 1994[^212-2], die hiermit *mutatis mutandis* zu Bestandteilen dieses Abkommens erklärt werden.
 
-[^212-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Anhang 1A.1
-[^212-2]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Anhang 1A.1.b
+[^212-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Anhang 1A.1
+[^212-2]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Anhang 1A.1.b
 
 #### Art. 2.13
 
@@ -340,7 +340,7 @@ Die Vertragsparteien setzen hiermit ein Forum für SPS-Sachverständige ein. Das
 - (e) die gesundheitspolizeilichen und pflanzenschutzrechtlichen Pflichten der Vertragsparteien, die sich aus anderen internationalen Abkommen ergeben, beachten; und
 - (f) nach Bedarf technische Sachverständigengruppen bilden.
 
-[^213-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Anhang 1A.4
+[^213-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Anhang 1A.4
 
 #### Art. 2.14
 
@@ -363,7 +363,7 @@ Die Vertragsparteien verstärken ihre Zusammenarbeit im Gebiet der technischen V
 
 <sup>5.</sup> Ist eine Vertragspartei der Ansicht, dass eine andere Vertragspartei mit dem TBT-Übereinkommen unvereinbare Massnahmen ergriffen hat, die den Zugang zu ihrem Markt beeinträchtigen könnten oder beeinträchtigt haben, kann sie über die nach Absatz 3 bezeichnete und eingesetzte Ansprechstelle technische Konsultationen verlangen, um eine angemessene Lösung in Übereinstimmung mit dem TBT-Übereinkommen zu finden. Solche Konsultationen, die im Rahmen des Gemischten Ausschusses oder ausserhalb dieses Rahmens abgehalten werden können, sind innert 40 Tagen nach Zeitpunkt des Erhalts des Ersuchens durchzuführen. Konsultationen können auch über Telefon- oder Videokonferenzen abgehalten werden. Konsultationen innerhalb des Gemischten Ausschusses gelten als Konsultationen nach Artikel 12.5 (Konsultationen).
 
-[^214-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Anhang 1A.6
+[^214-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Anhang 1A.6
 
 #### Art. 2.15
 
@@ -375,8 +375,8 @@ Die Vertragsparteien verstärken ihre Zusammenarbeit im Gebiet der technischen V
 
 <sup>3.</sup> Kapitel 12 (Streitbeilegung) findet auf diesen Artikel mit Ausnahme von Absatz 2 keine Anwendung.
 
-[^215-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Anhang 1A.1
-[^215-2]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Anhang 1A.13
+[^215-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Anhang 1A.1
+[^215-2]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Anhang 1A.13
 
 #### Art. 2.16
 
@@ -390,8 +390,8 @@ Die Vertragsparteien verstärken ihre Zusammenarbeit im Gebiet der technischen V
 
 <sup>4.</sup> Kapitel 12 (Streitbeilegung) findet auf diesen Artikel mit Ausnahme vom Absatz 2 keine Anwendung.
 
-[^216-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Anhang 1A.1
-[^216-2]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Anhang 1A.8
+[^216-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Anhang 1A.1
+[^216-2]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Anhang 1A.8
 
 #### Art. 2.17
 
@@ -408,8 +408,8 @@ Keine Vertragspartei darf bezüglich einer Ware gleichzeitig:
 - (a) eine bilaterale Schutzmassnahme durchführen; und
 - (b) eine Massnahme nach Artikel XIX GATT 1994 und dem Schutzmassnahmen-Übereinkommen ergreifen.
 
-[^217-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Anhang 1A.1
-[^217-2]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Anhang 1A.14
+[^217-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Anhang 1A.1
+[^217-2]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Anhang 1A.14
 
 #### Art. 2.18
 
@@ -470,7 +470,7 @@ Jede vorläufige Schutzmassnahme endet spätestens innert 180 Tagen. Es gelten f
 - (b) eine vorläufige Schutzmassnahme darf nur als Zollerhöhung gemäss Absatz 6 verhängt werden. Jeder bezahlte zusätzliche Zoll ist unverzüglich zurückzuerstatten und jede Kaution freizugeben, falls die Untersuchung nach Absatz 3 nicht den Beweis erbringt, dass die Bedingungen von Absatz 1 gegeben sind; und
 - (c) jeder gegenseitig vereinbarte Ausgleich und jede gegenseitig vereinbarte Ausgleichsmassnahme basieren auf der gesamten Geltungsdauer der provisorischen Schutzmassnahme und der Schutzmassnahme.
 
-[^218-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Anhang 1A.14
+[^218-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Anhang 1A.14
 
 #### Art. 2.19
 
@@ -478,7 +478,7 @@ Jede vorläufige Schutzmassnahme endet spätestens innert 180 Tagen. Es gelten f
 
 Für die Zwecke dieses Kapitels richten sich die Rechte und Pflichten der Vertragsparteien in Bezug auf die allgemeinen Ausnahmen nach Artikel XX GATT 1994[^219-1], der hiermit *mutatis mutandis* zum Bestandteil dieses Abkommens erklärt wird.
 
-[^219-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Anhang 1A.1
+[^219-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Anhang 1A.1
 
 #### Art. 2.20
 
@@ -486,7 +486,7 @@ Für die Zwecke dieses Kapitels richten sich die Rechte und Pflichten der Vertra
 
 Für die Zwecke dieses Kapitels richten sich die Rechte und Pflichten der Vertragsparteien in Bezug auf Ausnahmen aus Gründen der nationalen Sicherheit nach Artikel XXI GATT 1994[^220-1], der hiermit *mutatis mutandis* zum Bestandteil dieses Abkommens erklärt wird.
 
-[^220-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Anhang 1A.1
+[^220-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Anhang 1A.1
 
 ## 3. Kapitel Landwirtschaftliche Verarbeitungserzeugnisse
 
@@ -498,7 +498,7 @@ Für die Zwecke dieses Kapitels richten sich die Rechte und Pflichten der Vertra
 
 <sup>2.</sup> Die Vertragsparteien bestätigen ihre Rechte und Pflichten, die sich aus dem WTO-Übereinkommen über die Landwirtschaft[^31-1] ergeben.
 
-[^31-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Anhang 1A.3
+[^31-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Anhang 1A.3
 
 #### Art. 3.2
 
@@ -526,7 +526,7 @@ Für die Zwecke dieses Kapitels richten sich die Rechte und Pflichten der Vertra
 
 <sup>2.</sup> Beschliesst eine Vertragspartei Ausfuhrsubventionen nach Absatz 1 für ein Erzeugnis, das Gegenstand einer Zollkonzession im Einklang mit Artikel 3.3 (Zollkonzessionen) ist, behält sie solche bei oder führt sie sie ein oder wieder ein, so können die anderen Vertragsparteien den Zollansatz für diese Einfuhren bis zum angewendeten Meistbegünstigungsansatz, der zu diesem Zeitpunkt gilt, erhöhen. Erhöht eine Vertragspartei den Zollansatz, so notifiziert sie dies den anderen Vertragsparteien innert 30 Tagen nach dem Datum der Erhöhung des Zollansatzes.
 
-[^34-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Anhang 1A.3
+[^34-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Anhang 1A.3
 
 #### Art. 3.5
 
@@ -562,7 +562,7 @@ Peru und die EFTA-Staaten überprüfen regelmässig die Entwicklung ihres Handel
 
 <sup>4.</sup> Die Vertragsparteien handeln auf gegenseitig vorteilhafter Grundlage und unter Beachtung von Artikel V GATS ein Kapitel über den Dienstleistungshandel, einschliesslich internationaler Hochseeverkehrsdienstleistungen aus, das insgesamt ein Gleichgewicht von Rechten und Pflichten sicherstellt. Diese Verhandlungen finden spätestens ein Jahr nach Inkrafttreten dieses Abkommens statt.
 
-[^41-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Anhang 1.B
+[^41-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Anhang 1B
 
 #### Art. 4.2
 
@@ -657,9 +657,9 @@ Die Bestimmungen dieses Kapitels werden unbeschadet der Rechte und Pflichten der
 
 **Ausnahme**
 
-Die Ausnahme nach Artikel XIV Buchstabe (d) GATS[^58-1] wird hiermit *mutatis m**u**tandis* zum Bestandteil dieses Kapitels erklärt.
+Die Ausnahme nach Artikel XIV Buchstabe (d) GATS[^58-1] wird hiermit *mutatis mutandis* zum Bestandteil dieses Kapitels erklärt.
 
-[^58-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Anhang 1.B
+[^58-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Anhang 1B
 
 #### Art. 5.9
 
@@ -686,7 +686,7 @@ Die Ausnahme nach Artikel XIV Buchstabe (d) GATS[^58-1] wird hiermit *mutatis m*
 <sup>5.</sup> In Übereinstimmung mit Artikel 8 Absatz 2 des TRIPS-Abkommens können Vertragsparteien, falls nötig, geeignete Massnahmen, die mit dem vorliegenden Abkommen vereinbar sein müssen, ergreifen, um den Missbrauch von Rechten an Geistigem Eigentum durch den Rechtsinhaber oder den Rückgriff auf Praktiken, die den Handel unangemessen beschränken oder den internationalen Technologietransfer nachteilig beeinflussen, zu verhindern.
 
 [^61-1]: Im Sinne der Abs. 3 und 4 schliesst «Schutz» die Angelegenheiten ein, welche die Verfügbarkeit, den Erwerb, den Umfang, die Aufrechterhaltung und die Durchsetzung der Rechte an Geistigem Eigentum betreffen, sowie diejenigen Angelegenheiten, welche die Ausübung der in diesem Kapitel ausdrücklich behandelten Rechte an Geistigem Eigentum betreffen.
-[^61-2]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Anhang 1.C
+[^61-2]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Anhang 1C
 
 #### Art. 6.2
 
@@ -702,7 +702,7 @@ Die Ausnahme nach Artikel XIV Buchstabe (d) GATS[^58-1] wird hiermit *mutatis m*
 
 <sup>5.</sup> Die Vertragsparteien anerkennen die Grundsätze der von der WTO am 14. November 2001 an ihrer vierten Ministerkonferenz in Doha (Katar) verabschiedeten Erklärung über das TRIPS-Abkommen und die öffentliche Gesundheit, des am 30. August 2003 verabschiedeten Beschlusses des WTO-Generalrates zur Implementierung von Absatz 6 der Doha-Erklärung und der am 6. Dezember 2005 vom WTO-Generalrat verabschiedeten Änderung des TRIPS-Abkommens.
 
-[^62-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Anhang 1.C
+[^62-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Anhang 1C
 
 #### Art. 6.3
 
@@ -735,24 +735,24 @@ Die Vertragsparteien dieses Abkommens, die nicht einem oder mehreren der untenst
 Die Vertragsparteien dieses Abkommens, die nicht einem oder mehreren der untenstehenden Abkommen angehören, ratifizieren die folgenden multilateralen Abkommen innert Jahresfrist nach Inkrafttreten dieses Abkommens oder treten ihnen bis zu diesem Zeitpunkt bei:
 
 - (a) WIPO-Vertrag vom 20. Dezember 1996[^64-10] über Darbietungen und Tonträger (WPPT, *WIPO Performances and Phonograms Treaty*); und
-- (b) WIPO-Urheberrechtsvertrag vom 20. Dezember 1996[^64-11] (WCT, *WIPO Cop**y**right Treaty*).
+- (b) WIPO-Urheberrechtsvertrag vom 20. Dezember 1996[^64-11] (WCT, *WIPO Copyright Treaty*).
 
 <sup>4.</sup> Die Vertragsparteien unternehmen möglichst rasch die erforderlichen Schritte, um den zuständigen nationalen Behörden der Vertragsparteien den Beitritt zur Genfer Akte (1999) des Haager Abkommens über die internationale Eintragung gewerblicher Muster und Modelle[^64-12] und zum Protokoll vom 27. Juni 1989[^64-13] zum Madrider Abkommen über die internationale Registrierung von Marken zur Annahme vorzulegen.
 
 <sup>5.</sup> Die Vertragsparteien dieses Abkommens können in gegenseitigem Einvernehmen übereinkommen, einen Meinungsaustausch von Sachverständigen zu bestehenden oder künftigen internationalen Abkommen zu Rechten an Geistigem Eigentum und über jede andere Angelegenheit zu Rechten an Geistigem Eigentum, auf die sich die Vertragsparteien einigen, durchzuführen.
 
-[^64-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Anhang 1.C
-[^64-2]: [SR 0.230](https://fedlex.data.admin.ch/eli/cc/1970/602_603_603)
-[^64-3]: [SR 0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
+[^64-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Anhang 1C
+[^64-2]: [SR 0.230](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/901)
+[^64-3]: [SR 0.232.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1030)
 [^64-4]: SR**0.231.15**
 [^64-5]: SR**0.231.171**
 [^64-6]: SR**0.232.145.1**
 [^64-7]: SR**0.232.162**
-[^64-8]: [SR 0.232.163](https://fedlex.data.admin.ch/eli/cc/2008/527)
-[^64-9]: [SR 0.232.141.1](https://fedlex.data.admin.ch/eli/cc/1978/900_900_900)
-[^64-10]: [SR 0.231.171.1](https://fedlex.data.admin.ch/eli/cc/2008/359)
-[^64-11]: [SR 0.231.151](https://fedlex.data.admin.ch/eli/cc/2008/358)
-[^64-12]: [SR 0.232.121.4](https://fedlex.data.admin.ch/eli/cc/2004/98)
+[^64-8]: [SR 0.232.163](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1110)
+[^64-9]: [SR 0.232.141.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1083)
+[^64-10]: [SR 0.231.171.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1020)
+[^64-11]: [SR 0.231.151](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1018)
+[^64-12]: [SR 0.232.121.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1078)
 [^64-13]: SR**0.232.112.4**
 
 #### Art. 6.5
@@ -784,8 +784,8 @@ Wenn das Gesetz einer Vertragspartei dies vorsieht, unterliegt der Zugang:
 
 <sup>10.</sup> Die Vertragsparteien ergreifen wo geeignet gesetzliche, administrative oder politische Massnahmen zur Sicherstellung der gerechten und ausgewogenen Aufteilung der Vorteile, die sich aus der Nutzung genetischer Ressourcen oder dazugehöriger traditioneller Kenntnisse ergeben. Eine derartige Aufteilung beruht auf gegenseitig vereinbarten Bestimmungen.
 
-[^65-1]: [SR 0.451.43](https://fedlex.data.admin.ch/eli/cc/1995/1408_1408_1408)
-[^65-2]: [SR 0.910.6](https://fedlex.data.admin.ch/eli/cc/2005/298)
+[^65-1]: [SR 0.451.43](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1840)
+[^65-2]: [SR 0.910.6](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3999)
 
 #### Art. 6.6
 
@@ -799,7 +799,7 @@ Wenn das Gesetz einer Vertragspartei dies vorsieht, unterliegt der Zugang:
 
 <sup>4.</sup> Die Vertragsparteien anerkennen die Bedeutung der Gemeinsamen Empfehlung zum Schutz notorischer und berühmter Marken (1999) und der Gemeinsamen Empfehlung betreffend Bestimmungen zum Schutz von Marken und anderen gewerblichen Kennzeichenrechten im Internet (2001), die von der Versammlung des Pariser Verbands zum Schutz des gewerblichen Eigentums und der WIPO-Generalversammlung verabschiedet worden sind, und folgen den Grundsätzen dieser Empfehlungen.
 
-[^66-1]: [SR 0.232.112.7](https://fedlex.data.admin.ch/eli/cc/1962/985_1019_1020)
+[^66-1]: [SR 0.232.112.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1061)
 
 #### Art. 6.7
 
@@ -821,8 +821,8 @@ Für die Zwecke dieses Kapitels:
 <sup>5.</sup> Zur weiteren Stärkung des Schutzes von geografischen Angaben untereinander kommen Peru und die Schweiz überein, ein bilaterales Abkommen über die gegenseitige Anerkennung und den gegenseitigen Schutz von geografischen Angaben auszuhandeln, mit dem Ziel, es innert drei Jahren nach Inkrafttreten dieses Abkommens abzuschliessen. Jede andere Vertragspartei dieses Abkommens kann den Verhandlungen oder nach seinem Inkrafttreten dem Abkommen beitreten.
 
 [^67-1]: Der Bestimmtheit halber: Hat eine Vertragspartei in ihren innerstaatlichen Rechtsvorschriften den Schutz von Ursprungsbezeichnungen vorgesehen, so verlangt dieses Abkommen keine Änderung daran.
-[^67-2]: [SR 0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
-[^67-3]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Anhang 1.C
+[^67-2]: [SR 0.232.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1030)
+[^67-3]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Anhang 1C
 
 #### Art. 6.8
 
@@ -886,7 +886,7 @@ Eine Vertragspartei kann Massnahmen zum Schutz der öffentlichen Gesundheit ergr
 
 <sup>5.</sup> Stützt sich eine Vertragspartei auf die von einer anderen Vertragspartei erteilte Marktzulassung und erteilt sie die Zulassung innert sechs Monaten nach Einreichung eines in der Vertragspartei eingereichten vollständigen Antrags auf Marktzulassung, so beginnt die angemessene Dauer der ausschliesslichen Verwendung der im Zusammenhang mit dem Erhalt der Zulassung vorgelegten Angaben am Tag der ersten Marktzulassung.
 
-[^611-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Anhang 1.C
+[^611-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Anhang 1C
 [^611-2]: Für die Zwecke dieses Absatzes bedeutet ein «neues agrochemisches Erzeugnis» ein Erzeugnis, das einen chemischen Stoff enthält, der im Hoheitsgebiet der Vertragspartei nicht vorgängig zugelassen worden ist. Muss eine Vertragspartei zur Umsetzung dieses Abkommens den Begriff «neuer chemischer Stoff» für Arzneimittel in ihrem innerstaatlichen Recht bestimmen, so berücksichtigt sie die international vorherrschenden Normen und erledigt dies vor Inkrafttreten dieses Abkommens.
 [^611-3]: WT/MIN(01)/DEC/2.
 
@@ -896,7 +896,7 @@ Eine Vertragspartei kann Massnahmen zum Schutz der öffentlichen Gesundheit ergr
 
 Setzt der Erwerb eines Rechts an Geistigem Eigentum die Gewährung oder die Eintragung des Rechts voraus, so stellen die Vertragsparteien sicher, dass die Verfahren für die Gewährung oder die Eintragung mit denjenigen des TRIPS-Abkommens[^612-1], insbesondere von dessen Artikel 62, gleichwertig sind.
 
-[^612-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Anhang 1.C
+[^612-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Anhang 1C
 
 #### Art. 6.13
 
@@ -904,7 +904,7 @@ Setzt der Erwerb eines Rechts an Geistigem Eigentum die Gewährung oder die Eint
 
 Die Vertragsparteien erlassen in ihrem innerstaatlichen Recht Bestimmungen zur Durchsetzung der Rechte an Geistigem Eigentum, die mit denjenigen des TRIPS-Abkommens[^613-1], insbesondere von dessen Artikeln 41–61, gleichwertig sind.
 
-[^613-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Anhang 1.C
+[^613-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Anhang 1C
 
 #### Art. 6.14
 
@@ -944,7 +944,7 @@ Die Vertragsparteien können vorsehen, dass die Justizbehörden in Zivil- und Ve
 
 <sup>1.</sup> Die Vertragsparteien anerkennen die Bedeutung der Förderung von Forschung, technologischer Entwicklung und Innovation, der Verbreitung technologischer Information und der Errichtung und Stärkung ihrer technologischen Fähigkeiten und suchen unter Berücksichtigung ihrer Ressourcen die Zusammenarbeit auf solchen Gebieten.
 
-<sup>2.</sup> Zwischen Peru und der Schweiz kann die Zusammenarbeit auf diesen Gebieten insbesondere auf den jeweiligen Absichtserklärungen zwischen dem Staatssekretariat für Bildung und Forschung des Eidgenössischen Departements des Innern[^618-1] der Schweizerischen Eidgenossenschaft und dem *Consejo Nacional de Ciencia, Tecn**o**logía e Innovación Tecnológ**i**ca* (CONCYTEC) vom 28. Dezember 2006 beruhen.
+<sup>2.</sup> Zwischen Peru und der Schweiz kann die Zusammenarbeit auf diesen Gebieten insbesondere auf den jeweiligen Absichtserklärungen zwischen dem Staatssekretariat für Bildung und Forschung des Eidgenössischen Departements des Innern[^618-1] der Schweizerischen Eidgenossenschaft und dem *Consejo Nacional de Ciencia, Tecnología e Innovación Tecnológica* (CONCYTEC) vom 28. Dezember 2006 beruhen.
 
 <sup>3.</sup> Entsprechend können Peru und die Schweiz Gelegenheit zur Zusammenarbeit nach diesem Artikel suchen und fördern und sich, wo geeignet, an gemeinschaftlichen wissenschaftlichen Forschungsprojekten beteiligen. Die Ämter nach Absatz 2 dienen als Ansprechstellen zur Vereinfachung der Entwicklung von gemeinschaftlichen Projekten und überprüfen regelmässig den Stand solcher Zusammenarbeit durch gemeinsam vereinbarte Mittel.
 
@@ -1707,8 +1707,8 @@ Vorbehältlich anderslautender Bestimmungen dieses Abkommens gelten die Bestimmu
 
 <sup>3.</sup> Bevor eine Vertragspartei ein Streitbeilegungsverfahren nach dem WTO-Abkommen gegen eine andere Vertragspartei anstrengt, unterrichtet sie die anderen Vertragsparteien von ihrer Absicht.
 
-[^123-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)
-[^123-2]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Anhang 2
+[^123-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)
+[^123-2]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Anhang 2
 
 #### Art. 12.4
 
@@ -1793,7 +1793,7 @@ Tritt ein ernannter Schiedsrichter zurück, wird er abberufen oder kann er nicht
 
 <sup>7.</sup> Ist der Generaldirektor der WTO ausserstande, die Ernennungen nach diesem Kapitel vorzunehmen, oder ist er Staatsangehöriger einer Streitpartei, so werden die Ernennungen von einem stellvertretenden Generaldirektor der WTO vorgenommen.
 
-[^128-1]: Berichtigung gemäss Note des Königlich Norwegischen Aussenministeriums vom 6. Nov. 2019 ([AS 2020 355](https://fedlex.data.admin.ch/eli/oc/2020/59)).
+[^128-1]: Berichtigung gemäss Noten des Königlich Norwegischen Aussenministeriums vom 6. Nov. 2019 und 4. Mai 2022 ([AS 2020 355](https://fedlex.data.admin.ch/eli/oc/2020/59); [2022 494](https://fedlex.data.admin.ch/eli/oc/2022/494)).
 
 #### Art. 12.9
 
@@ -2174,7 +2174,7 @@ Inhaltsverzeichnis
 <tr><td>Art. 13.8</td><td>Depositar</td></tr>
 </table>
 
-## Liste der Anhänge****
+## Liste der Anhänge
 
 [^annexu1-lvlu2-1]
 
