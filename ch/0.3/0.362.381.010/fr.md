@@ -1,0 +1,48 @@
+---
+sr: "0.362.381.010"
+title: "Échange de notes du 8 septembre 2022 entre la Suisse et l’Union européenne concernant la reprise du règlement d’exécution (UE) 2022/1380 établissant les règles et conditions applicables aux interrogations de vérification lancées par les transporteurs, les dispositions relatives à la protection et à la sécurité des données pour le dispositif d’authentification des transporteurs, ainsi que les procédures de secours en cas d’impossibilité technique et abrogeant le règlement d’exécution (UE) 2021/1217 (Développement de l’acquis de Schengen)"
+eli: "https://fedlex.data.admin.ch/eli/cc/2022/517"
+language: fr
+version: 2022-09-08
+adopted: 2022-09-08
+in_force: 2022-09-08
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/517/20220908/fr/xml/fedlex-data-admin-ch-eli-cc-2022-517-20220908-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/517/20220908/fr"
+---
+
+> Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
+
+# Échange de notes du 8 septembre 2022 entre la Suisse et l’Union européenne concernant la reprise du règlement d’exécution (UE) 2022/1380 établissant les règles et conditions applicables aux interrogations de vérification lancées par les transporteurs, les dispositions relatives à la protection et à la sécurité des données pour le dispositif d’authentification des transporteurs, ainsi que les procédures de secours en cas d’impossibilité technique et abrogeant le règlement d’exécution (UE) 2021/1217
+
+RO **2022** 517
+
+(Développement de l’acquis de Schengen)
+
+Entré en vigueur le 8 septembre 2022
+
+(État le 8 septembre 2022)
+
+Texte original
+
+<table>
+<tr><td>Mission de la Suisse auprès de l’Union européenne</td><td>Bruxelles, le 8 septembre 2022 Commission européenne Secrétariat général, SG.B.2 Bruxelles</td></tr>
+</table>
+
+La Mission de la Suisse auprès de l’Union européenne présente ses compliments au Secrétariat général de la Commission européenne et, se référant à la notification de la Commission du 10 août 2022, émise en vertu de l’art. 7, al. 2, let. a, 1<sup>re</sup> phrase de l’accord entre la Confédération suisse, l’Union européenne et la Communauté européenne sur l’association de la Confédération suisse à la mise en œuvre, à l’application et au développement de l’acquis de Schengen[^ingress-1] (ci-après accord d’association), signé à Luxembourg le 26 octobre 2004, a l’honneur d’accuser réception de cette notification qui a la teneur suivante:
+
+«Règlement d’exécution (UE) [2022/1380] de la Commission [du 8 août 2022] établissant les règles et conditions applicables aux interrogations de vérification lancées par les transporteurs, les dispositions relatives à la protection et à la sécurité des données pour le dispositif d’authentification des transporteurs, ainsi que les procédures de secours en cas d’impossibilité technique et abrogeant le règlement d’exécution (UE) 2021/1217»[^ingress-2].
+
+Ce règlement a été notifié à la Suisse sous le numéro C(2022) 4550 final.
+
+Conformément à l’art. 7, al. 2, let. a, deuxième phrase de l’accord d’association, la Mission de la Suisse auprès de l’Union européenne informe le Secrétariat général de la Commission européenne que la Suisse accepte le contenu de l’acte annexé à la notification de la Commission, acte qui fait partie intégrante de la présente note de réponse*.*
+
+Conformément à l’art. 7, al. 3 de l’accord d’association, la notification de la Commission européenne du 10 août 2022 et la présente note de réponse créent des droits et des obligations entre la Suisse et l’Union européenne et constituent ainsi un accord entre la Suisse et l’Union européenne.
+
+Cet accord entrera en vigueur à la date de la présente note de réponse. Il s’appliquera en même temps et de la même manière que l’échange de notes du 11 octobre 2018 entre la Suisse et l’Union européenne concernant la reprise du règlement (UE) 2018/1240 portant création d’un système européen d’information et d’autorisation concernant les voyages (ETIAS) et modifiant les règlements (UE) n<sup>o</sup> 1077/2011, (UE) n<sup>o</sup> 515/2014, (UE) 2016/399, (UE) 2016/1624 et (UE) 2017/2226. Il peut être dénoncé aux conditions énoncées aux art. 7 et 17 de l’accord d’association.
+
+Une copie de la présente note est adressée à la Secrétariat général du Conseil de l’Union européenne, Direction générale, Justice et affaires intérieures, Bruxelles.
+
+La Mission de la Suisse auprès de l’Union européenne saisit cette occasion pour renouveler au Secrétariat général de la Commission européenne l’assurance de sa haute considération.
+
+[^ingress-1]: [RS 0.362.31](https://fedlex.data.admin.ch/eli/cc/2008/113)
+[^ingress-2]: Règlement d’exécution (UE) 2022/1380 de la Commission du 8 août 2022 établissant les règles et conditions applicables aux interrogations de vérification lancées par les transporteurs, les dispositions relatives à la protection et à la sécurité des données pour le dispositif d’authentification des transporteurs, ainsi que les procédures de secours en cas d’impossibilité technique et abrogeant le règlement d’exécution (UE) 2021/1217, version du JO L 207 du 9.8.2022, p. 1.
