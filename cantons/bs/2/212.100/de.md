@@ -3,13 +3,12 @@ canton: BS
 number: "212.100"
 title: Kantonale Zivilstandsverordnung
 language: de
-version: 2018-01-01
-valid_until: 2022-09-07
-version_adopted: 2017-12-05
+version: 2022-09-08
+version_adopted: 2022-06-28
 adopted: 2017-12-05
 in_force: 2018-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/212.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4355/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6226/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4355/pdf_file"
 
 Zivilstandsverordnung | Personen- und Familienrecht
 
-Vom 5. Dezember 2017 (Stand 1. Januar 2018)
+Vom 5. Dezember 2017 (Stand 8. September 2022)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -27,7 +26,7 @@ gestützt auf die eidgenössische Zivilstandsverordnung (ZStV) vom 28. April 200
 beschliesst:
 
 [^ingress-1]: SR [211.112.2](https://db.clex.ch/link/Bund/211.112.2/de).
-[^ingress-2]: SG [211.100](https://db.clex.ch/link/SG/211.100/de).
+[^ingress-2]: SG [211.100](https://www.gesetzessammlung.bs.ch/data/211.100/de).
 
 ## I. Teil: Organisation
 
@@ -67,15 +66,15 @@ beschliesst:
 
 <sup>1</sup> Das Zivilstandsamt legt die Geschäftszeiten fest und macht sie bekannt.
 
-<sup>2</sup> Die Geschäftszeiten für die Durchführung von Trauungen und Eintragungen von Partnerschaften in Riehen und Bettingen werden im Einvernehmen mit der jeweiligen Gemeinde festgelegt.
+<sup>2</sup> Die Geschäftszeiten für die Durchführung von Trauungen und zeremoniellen Umwandlungen der eingetragenen Partnerschaft in eine Ehe in Bettingen und Riehen werden im Einvernehmen mit der jeweiligen Gemeinde festgelegt.
 
 #### § 7
 
 **Trauungen**
 
-<sup>1</sup> In Basel finden Trauungen und Begründungen der eingetragenen Partnerschaften am Sitz des Zivilstandsamtes statt.
+<sup>1</sup> In Basel finden Trauungen und zeremonielle Umwandlungen der eingetragenen Partnerschaft in eine Ehe am Sitz des Zivilstandsamtes oder in den von der Aufsichtsbehörde gemäss der eidgenössischen Zivilstandsverordnung (Art. 1a Abs. 4 ZStV) bewilligten ausserordentlichen Traulokalen statt.
 
-<sup>2</sup> In den Gemeinden Riehen und Bettingen finden Trauungen und Begründungen der eingetragenen Partnerschaften in den von der jeweiligen Gemeinde zur Verfügung gestellten und von der Aufsichtsbehörde bewilligten Räumlichkeiten statt.
+<sup>2</sup> In den Gemeinden Bettingen und Riehen finden Trauungen und zeremonielle Umwandlungen der eingetragenen Partnerschaft in eine Ehe in den von der jeweiligen Gemeinde zur Verfügung gestellten und von der Aufsichtsbehörde bewilligten Räumlichkeiten statt.
 
 ## II. Teil: Behördliche Informations- und Mitwirkungspflicht
 
@@ -111,7 +110,7 @@ beschliesst:
 
 **Beschwerde**
 
-<sup>1</sup> Gegen Verfügungen des Zivilstandsamtes und Bevölkerungsamtes kann beim Justiz- und Sicherheitsdepartement Beschwerde geführt werden.
+<sup>1</sup> Gegen Verfügungen des Zivilstandsamtes und des Bevölkerungsamtes kann beim Justiz- und Sicherheitsdepartement Beschwerde geführt werden.
 
 <sup>2</sup> Das Bevölkerungsamt lässt sich bei Beschwerden gegen Verfügungen des Zivilstandsamtes vernehmen.
 
