@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: 21.403 n Iv. pa. CSEC-N. Sostituire il finanziamento iniziale con una soluzione moderna
 document: Progetto posto in consultazione
 language: it

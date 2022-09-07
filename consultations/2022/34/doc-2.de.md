@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: 21.403 n Pa. Iv. WBK-N. Überführung der Anstossfinanzierung in eine zeitgemässe Lösung
 document: Vernehmlassungsvorlage-2
 language: de

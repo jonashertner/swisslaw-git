@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: 21.403 n Iv. pa. CSEC-N. Remplacer le financement de départ par une solution adaptée aux réalités actuelles
 document: Projet mis en consultation
 language: fr
