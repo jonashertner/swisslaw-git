@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modification de l’ordonnance sur la surveillance (surveillance, solvabilité, règles de comportement et intermédiation en assurance)"
 document: Projet mis en consultation
 language: fr

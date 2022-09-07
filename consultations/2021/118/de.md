@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Änderung der Aufsichtsverordnung (Aufsicht, Solvenz, Verhaltensregeln und Versicherungsvermittlung)"
 document: Vernehmlassungsvorlage
 language: de

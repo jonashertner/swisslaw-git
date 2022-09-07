@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modifica dell’ordinanza sulla sorveglianza (sorveglianza, solvibilità, norme di comportamento, intermediazione assicurativa)"
 document: Progetto posto in consultazione
 language: it
