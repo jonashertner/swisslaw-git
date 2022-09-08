@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordonnance du 4 mars 2022 instituant des mesures en lien avec la situation en Ukraine
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: fr
-version: 2022-08-31
+version: 2022-09-09
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20220831/fr/xml/fedlex-data-admin-ch-eli-cc-2022-151-20220831-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20220831/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20220909/fr/xml/fedlex-data-admin-ch-eli-cc-2022-151-20220909-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20220909/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures en lien avec la situation en Ukraine
 
-du 4 mars 2022 (État le 31 août 2022)
+du 4 mars 2022 (État le 9 septembre 2022)
 
 Le Conseil fédéral suisse,
 
@@ -1540,8 +1540,8 @@ Annexe 8[^t-5]
 
 [^annex8-lvlu1-1]
 
-[^t-5]: Mise à jour par le ch. I des O du DEFR du 15 mars 2022 ([RO 2022 173](https://fedlex.data.admin.ch/eli/oc/2022/173)), du 13 avr. 2022 ([RO 2022 237](https://fedlex.data.admin.ch/eli/oc/2022/237)), du 3 mai 2022 ([RO 2022 270](https://fedlex.data.admin.ch/eli/oc/2022/270)), le ch. I al. 1 des O du DEFR du 10 juin 2022 ([RO 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)), du 28 juil. 2022 ([RO 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)), le ch. II al. 1 de l’O du 3 août 2022 ([RO 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)) et le ch. I de l’O du DEFR du 16 août 2022, en vigueur depuis le 17 août 2022 à 18 heures ([RO 2022 451](https://fedlex.data.admin.ch/eli/oc/2022/451)).
-[^annex8-lvlu1-1]: Le contenu de la présente annexe n’est publié ni au RO ni au RS. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2022/451](https://fedlex.data.admin.ch/eli/oc/2022/451) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-5]: Mise à jour par le ch. I des O du DEFR du 15 mars 2022 ([RO 2022 173](https://fedlex.data.admin.ch/eli/oc/2022/173)), du 13 avr. 2022 ([RO 2022 237](https://fedlex.data.admin.ch/eli/oc/2022/237)), du 3 mai 2022 ([RO 2022 270](https://fedlex.data.admin.ch/eli/oc/2022/270)), le ch. I al. 1 des O du DEFR du 10 juin 2022 ([RO 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)), du 28 juil. 2022 ([RO 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)), le ch. II al. 1 de l’O du 3 août 2022 ([RO 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)) et le ch. I des O du DEFR du 16 août 2022 ([RO 2022 451](https://fedlex.data.admin.ch/eli/oc/2022/451)) et du 8 sept. 2022, en vigueur depuis le 9 sept. 2022 à 18 heures ([RO 2022 500](https://fedlex.data.admin.ch/eli/oc/2022/500)).
+[^annex8-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement par renvoi. Le texte de l’annexe peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2022/500](https://fedlex.data.admin.ch/eli/oc/2022/500) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 9
 
@@ -2285,8 +2285,8 @@ Annexe 23[^t-16]
 
 [^annex23-lvlu1-1]
 
-[^t-16]: Introduite par le ch. II al. 3 de l’O du 27 avr. 2022 ([RO 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Mise à jour par le ch. I al. 1 de l’O du DEFR du 28 juil. 2022, en vigueur depuis le 29 juil. 2022 à 18 heures ([RO 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)).
-[^annex23-lvlu1-1]: L’annexe n’est publiée ni au RO ni au RS. Le texte de l’annexe peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-16]: Introduite par le ch. II al. 3 de l’O du 27 avr. 2022 ([RO 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Mise à jour par le ch. I al. 1 de l’O du DEFR du 28 juil. 2022 ([RO 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)) et le ch. I de l’O du DEFR du 8 sept. 2022, en vigueur depuis le 9 sept. 2022 à 18 heures ([RO 2022 500](https://fedlex.data.admin.ch/eli/oc/2022/500)).
+[^annex23-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement par renvoi. Le texte de l’annexe peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2022/500](https://fedlex.data.admin.ch/eli/oc/2022/500) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 24[^t-17]
 
