@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Colmare una lacuna relativa alla responsabilità penale nella legge federale sulle infrastrutture del mercato finanziario e il comportamento sul mercato nel commercio di valori mobiliari e derivati (LInFi)
 document: Progetto posto in consultazione
 language: it

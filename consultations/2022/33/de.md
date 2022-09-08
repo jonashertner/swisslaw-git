@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Schliessung einer Strafbarkeitslücke im Bundesgesetz über die Finanzmarktinfrastrukturen und das Marktverhalten im Effekten- und Derivatehandel (FinfraG)
 document: Vernehmlassungsvorlage
 language: de
