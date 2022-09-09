@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Loi fédérale sur l’examen des investissements étrangers
 document: Projet mis en consultation
 language: fr

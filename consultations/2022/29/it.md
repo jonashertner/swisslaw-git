@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Legge federale sulla verifica degli investimenti esteri
 document: Progetto posto in consultazione
 language: it

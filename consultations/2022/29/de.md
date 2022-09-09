@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Bundesgesetz über die Prüfung ausländischer Investitionen
 document: Vernehmlassungsvorlage
 language: de
