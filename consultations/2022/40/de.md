@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Bundesbeschluss über die Verpflichtungskredite ab 2024 für Beiträge an Massnahmen im Rahmen des Programms Agglomerationsverkehr
 document: Vernehmlassungsvorlage
 language: de

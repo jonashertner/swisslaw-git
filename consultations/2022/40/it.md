@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Decreto federale che stanzia crediti d’impegno a partire dal 2024 per i contributi destinati a misure nel quadro del programma Traffico d’agglomerato
 document: Progetto posto in consultazione
 language: it

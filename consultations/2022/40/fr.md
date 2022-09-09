@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Arrêté fédéral sur les crédits d’engagement alloués à partir de 2024 pour les contributions aux mesures prises dans le cadre du programme en faveur du trafic d’agglomération
 document: Projet mis en consultation
 language: fr
