@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung des Nachrichtendienstgesetzes
 document: Vernehmlassungsvorlage
 language: de

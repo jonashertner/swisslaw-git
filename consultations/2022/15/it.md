@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica della legge federale sulle attività informative
 document: Progetto posto in consultazione
 language: it
