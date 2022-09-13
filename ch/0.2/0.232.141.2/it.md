@@ -3,11 +3,11 @@ sr: "0.232.141.2"
 title: Trattato del 1° giugno 2000 sul diritto dei brevetti
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/375"
 language: it
-version: 2019-04-05
+version: 2022-09-14
 adopted: 2000-06-01
 in_force: 2008-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/375/20190405/it/xml/fedlex-data-admin-ch-eli-cc-2008-375-20190405-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/375/20190405/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/375/20220914/it/xml/fedlex-data-admin-ch-eli-cc-2008-375-20220914-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/375/20220914/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,13 +20,9 @@ Traduzione
 
 Concluso a Ginevra 1° giugno 2000
 
-Approvato dall’Assemblea federale il 22 giugno 2007[^t-1]
+Approvato dall’Assemblea federale il 22 giugno 2007[^t-1] Strumento di ratificazione depositato dalla Svizzera il 31 marzo 2008 Entrato in vigore per la Svizzera il 1° luglio 2008
 
-Strumento di ratificazione depositato dalla Svizzera il 31 marzo 2008
-
-Entrato in vigore per la Svizzera il 1° luglio 2008
-
-(Stato 5 aprile 2019)
+(Stato 14 settembre 2022)
 
 [^t-1]: Art. 1 cpv. 1 del DF del 22 giu. 2008 ([RU 2008 2677](https://fedlex.data.admin.ch/eli/oc/2008/374)).
 
@@ -530,17 +526,19 @@ Il presente trattato rimane aperto alla firma presso la sede dell’Organizzazio
 
 (Seguono le firme)
 
-Campo d’applicazione il 5 aprile 2019**[^t-2]**
+Campo d’applicazione il 14 settembre 2022[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td>Albania</td><td>17 febbraio</td><td>2010</td><td>17 maggio</td><td>2010</td></tr>
+<tr><td>Antigua e Barbuda</td><td>25 marzo</td><td>2019 A</td><td>25 giugno</td><td>2019</td></tr>
 <tr><td>Arabia Saudita</td><td>3 maggio</td><td>2013 A</td><td>3 agosto</td><td>2013</td></tr>
-<tr><td>Armenia</td><td>17 giugno</td><td>2013</td><td>17 settembre</td><td>2013</td></tr>
+<tr><td>Armenia</td><td>17 giugno</td><td>2013 A</td><td>17 settembre</td><td>2013</td></tr>
 <tr><td>Australia</td><td>16 dicembre</td><td>2008 A</td><td>16 marzo</td><td>2009</td></tr>
 <tr><td>Bahrein</td><td>15 settembre</td><td>2005 A</td><td>15 dicembre</td><td>2005</td></tr>
 <tr><td>Belarus</td><td>21 luglio</td><td>2016 A</td><td>21 ottobre</td><td>2016</td></tr>
 <tr><td>Bosnia ed Erzegovina</td><td>9 febbraio</td><td>2012 A</td><td>9 maggio</td><td>2012</td></tr>
+<tr><td>Canada</td><td>30 luglio</td><td>2019</td><td>30 ottobre</td><td>2019</td></tr>
 <tr><td>Corea del Nord</td><td>22 maggio</td><td>2018</td><td>22 agosto</td><td>2018</td></tr>
 <tr><td>Croazia</td><td>20 dicembre</td><td>2004</td><td>28 aprile</td><td>2005</td></tr>
 <tr><td>Danimarca</td><td>16 marzo</td><td>2004</td><td>28 aprile</td><td>2005</td></tr>
@@ -549,7 +547,7 @@ Campo d’applicazione il 5 aprile 2019**[^t-2]**
 <tr><td>Francia</td><td>5 ottobre</td><td>2009</td><td>5 gennaio</td><td>2010</td></tr>
 <tr><td>Giappone</td><td>11 marzo</td><td>2016 A</td><td>11 giugno</td><td>2016</td></tr>
 <tr><td>Irlanda</td><td>27 febbraio</td><td>2012</td><td>27 maggio</td><td>2012</td></tr>
-<tr><td>Kazakistan</td><td>19 luglio</td><td>2011 A</td><td>19 ottobre</td><td>2011</td></tr>
+<tr><td>Kazakstan\*</td><td>19 luglio</td><td>2011 A</td><td>19 ottobre</td><td>2011</td></tr>
 <tr><td>Kirghizistan</td><td>24 aprile</td><td>2002</td><td>28 aprile</td><td>2005</td></tr>
 <tr><td>Lettonia</td><td>12 marzo</td><td>2010</td><td>12 giugno</td><td>2010</td></tr>
 <tr><td>Liberia</td><td>4 ottobre</td><td>2016</td><td>4 gennaio</td><td>2017</td></tr>
@@ -568,16 +566,18 @@ Campo d’applicazione il 5 aprile 2019**[^t-2]**
 <tr><td>Isola di Man</td><td>22 dicembre</td><td>2005</td><td>22 marzo</td><td>2006</td></tr>
 <tr><td>Romania</td><td>28 gennaio</td><td>2005</td><td>28 aprile</td><td>2005</td></tr>
 <tr><td>Russia</td><td>12 maggio</td><td>2009 A</td><td>12 agosto</td><td>2009</td></tr>
-<tr><td>Serbia</td><td>20 maggio</td><td>2010</td><td>20 agosto</td><td>2010</td></tr>
+<tr><td>Serbia</td><td>20 maggio</td><td>2010 A</td><td>20 agosto</td><td>2010</td></tr>
 <tr><td>Slovacchia</td><td>16 luglio</td><td>2002 A</td><td>28 aprile</td><td>2005</td></tr>
 <tr><td>Slovenia</td><td>8 maggio</td><td>2002</td><td>28 aprile</td><td>2005</td></tr>
-<tr><td>Spagna</td><td>6 agosto</td><td>2014</td><td>6 novembre</td><td>2013</td></tr>
+<tr><td>Spagna</td><td>6 agosto</td><td>2013</td><td>6 novembre</td><td>2013</td></tr>
 <tr><td>Stati Uniti</td><td>18 settembre</td><td>2013</td><td>18 dicembre</td><td>2013</td></tr>
 <tr><td>Svezia</td><td>27 settembre</td><td>2007</td><td>27 dicembre</td><td>2007</td></tr>
 <tr><td>Svizzera</td><td>31 marzo</td><td>2008</td><td>1° luglio</td><td>2008</td></tr>
+<tr><td>Turkmenistan</td><td>19 aprile</td><td>2021 A</td><td>19 luglio</td><td>2021</td></tr>
 <tr><td>Ucraina</td><td>31 marzo</td><td>2003 A</td><td>28 aprile</td><td>2005</td></tr>
 <tr><td>Ungheria</td><td>12 dicembre</td><td>2007</td><td>12 marzo</td><td>2008</td></tr>
 <tr><td>Uzbekistan</td><td>19 aprile</td><td>2006 A</td><td>19 luglio</td><td>2006</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. I testi in francese ed in inglese si possono consultare sul sito internet dell’Organizzazione mondiale della proprietà intellettuale (OMPI): [https://www.wipo.int/treaties/fr/ip/plt/#](https://www.wipo.int/treaties/fr/ip/plt/) &gt; Français &gt; Savoirs &gt; Traités administrés par l’OMPI o richiedere alla Direzione del diritto internazionale pubblico (DDIP), Sezione dei trattati internazionali, 3003 Berna. [tab]</td></tr>
 </table>
 
-[^t-2]: [RU 2008 2681](https://fedlex.data.admin.ch/eli/oc/2008/375), [2010 1521](https://fedlex.data.admin.ch/eli/oc/2010/216), [2012 99](https://fedlex.data.admin.ch/eli/oc/2012/10), [2013 2293](https://fedlex.data.admin.ch/eli/oc/2013/477), [2016 775](https://fedlex.data.admin.ch/eli/oc/2016/150), [2019 1221](https://fedlex.data.admin.ch/eli/oc/2019/230). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2008 2681](https://fedlex.data.admin.ch/eli/oc/2008/375); [2010 1521](https://fedlex.data.admin.ch/eli/oc/2010/216); [2012 99](https://fedlex.data.admin.ch/eli/oc/2012/10); [2013 2293](https://fedlex.data.admin.ch/eli/oc/2013/477); [2016 775](https://fedlex.data.admin.ch/eli/oc/2016/150); [2019 1221](https://fedlex.data.admin.ch/eli/oc/2019/230); [2022 509](https://fedlex.data.admin.ch/eli/oc/2022/509). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: https://www.fedlex.admin.ch/it/treaty

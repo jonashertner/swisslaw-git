@@ -3,11 +3,11 @@ sr: "0.232.141.2"
 title: Patentrechtsvertrag vom 1. Juni 2000
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/375"
 language: de
-version: 2019-04-05
+version: 2022-09-14
 adopted: 2000-06-01
 in_force: 2008-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/375/20190405/de/xml/fedlex-data-admin-ch-eli-cc-2008-375-20190405-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/375/20190405/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/375/20220914/de/xml/fedlex-data-admin-ch-eli-cc-2008-375-20220914-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/375/20220914/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 31. März 2008
 
 In Kraft getreten für die Schweiz am 1. Juli 2008
 
-(Stand am 5. April 2019)
+(Stand am 14. September 2022)
 
 [^t-1]: Art. 1 Abs. 1 des BB vom 22. Juni 2007 ([AS 2008 2677](https://fedlex.data.admin.ch/eli/oc/2008/374))
 
@@ -531,12 +531,13 @@ Dieser Vertrag liegt nach seiner Annahme ein Jahr lang am Sitz der Organisation 
 
 (Es folgen die Unterschriften)
 
-Geltungsbereich am 5. April 2019**[^t-2]**
+Geltungsbereich am 14. September 2022[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td>Albanien</td><td>17. Februar</td><td>2010</td><td>17. Mai</td><td>2010</td></tr>
-<tr><td>Armenien</td><td>17. Juni</td><td>2013</td><td>17. September</td><td>2013</td></tr>
+<tr><td>Antigua und Barbuda</td><td>25. März</td><td>2019 B</td><td>25. Juni</td><td>2019</td></tr>
+<tr><td>Armenien</td><td>17. Juni</td><td>2013 B</td><td>17. September</td><td>2013</td></tr>
 <tr><td>Australien</td><td>16. Dezember</td><td>2008 B</td><td>16. März</td><td>2009</td></tr>
 <tr><td>Bahrain</td><td>15. September</td><td>2005 B</td><td>15. Dezember</td><td>2005</td></tr>
 <tr><td>Belarus</td><td>21. Juli</td><td>2016 B</td><td>21. Oktober</td><td>2016</td></tr>
@@ -547,7 +548,8 @@ Geltungsbereich am 5. April 2019**[^t-2]**
 <tr><td>Frankreich</td><td>5. Oktober</td><td>2009</td><td>5. Januar</td><td>2010</td></tr>
 <tr><td>Irland</td><td>27. Februar</td><td>2012</td><td>27. Mai</td><td>2012</td></tr>
 <tr><td>Japan</td><td>11. März</td><td>2016 B</td><td>11. Juni</td><td>2016</td></tr>
-<tr><td>Kasachstan</td><td>19. Juli</td><td>2011 B</td><td>19. Oktober</td><td>2011</td></tr>
+<tr><td>Kanada</td><td>30. Juli</td><td>2019</td><td>30. Oktober</td><td>2019</td></tr>
+<tr><td>Kasachstan\*</td><td>19. Juli</td><td>2011 B</td><td>19. Oktober</td><td>2011</td></tr>
 <tr><td>Kirgisistan</td><td>24. April</td><td>2002</td><td>28. April</td><td>2005</td></tr>
 <tr><td>Korea (Nord-)</td><td>22. Mai</td><td>2018</td><td>22. August</td><td>2018</td></tr>
 <tr><td>Kroatien</td><td>20. Dezember</td><td>2004</td><td>28. April</td><td>2005</td></tr>
@@ -569,16 +571,18 @@ Geltungsbereich am 5. April 2019**[^t-2]**
 <tr><td>Saudi-Arabien</td><td>3. Mai</td><td>2013 B</td><td>3. August</td><td>2013</td></tr>
 <tr><td>Schweden</td><td>27. September</td><td>2007</td><td>27. Dezember</td><td>2007</td></tr>
 <tr><td>Schweiz</td><td>31. März</td><td>2008</td><td>1. Juli</td><td>2008</td></tr>
-<tr><td>Serbien</td><td>20. Mai</td><td>2010</td><td>20. August</td><td>2010</td></tr>
+<tr><td>Serbien</td><td>20. Mai</td><td>2010 B</td><td>20. August</td><td>2010</td></tr>
 <tr><td>Slowakei</td><td>16. Juli</td><td>2002 B</td><td>28. April</td><td>2005</td></tr>
 <tr><td>Slowenien</td><td>8. Mai</td><td>2002</td><td>28. April</td><td>2005</td></tr>
-<tr><td>Spanien</td><td>6. August</td><td>2014</td><td>6. November</td><td>2013</td></tr>
+<tr><td>Spanien</td><td>6. August</td><td>2013</td><td>6. November</td><td>2013</td></tr>
+<tr><td>Turkmenistan</td><td>19. April</td><td>2021 B</td><td>19. Juli</td><td>2021</td></tr>
 <tr><td>Ukraine</td><td>31. März</td><td>2003 B</td><td>28. April</td><td>2005</td></tr>
 <tr><td>Ungarn</td><td>12. Dezember</td><td>2007</td><td>12. März</td><td>2008</td></tr>
 <tr><td>Usbekistan</td><td>19. April</td><td>2006 B</td><td>19. Juli</td><td>2006</td></tr>
 <tr><td>Vereinigtes Königreich</td><td>22. Dezember</td><td>2005</td><td>22. März</td><td>2006</td></tr>
 <tr><td>Insel Man</td><td>22. Dezember</td><td>2005</td><td>22. März</td><td>2006</td></tr>
 <tr><td>Vereinigte Staaten</td><td>18. September</td><td>2013</td><td>18. Dezember</td><td>2013</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Weltorganisation für geistiges Eigentum: www.wipo.int/ &gt; Français &gt; Savoirs &gt; Traités administrés par l’OMPI eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden [tab]</td></tr>
 </table>
 
-[^t-2]: [AS 2008 2681](https://fedlex.data.admin.ch/eli/oc/2008/375), [2010 1521](https://fedlex.data.admin.ch/eli/oc/2010/216), [2012 99](https://fedlex.data.admin.ch/eli/oc/2012/10), [2013 2293](https://fedlex.data.admin.ch/eli/oc/2013/477), [2016 775](https://fedlex.data.admin.ch/eli/oc/2016/150)und [2019 1221](https://fedlex.data.admin.ch/eli/oc/2019/230). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 2008 2681](https://fedlex.data.admin.ch/eli/oc/2008/375); [2010 1521](https://fedlex.data.admin.ch/eli/oc/2010/216); [2012 99](https://fedlex.data.admin.ch/eli/oc/2012/10); [2013 2293](https://fedlex.data.admin.ch/eli/oc/2013/477); [2016 775](https://fedlex.data.admin.ch/eli/oc/2016/150); [2019 1221](https://fedlex.data.admin.ch/eli/oc/2019/230); [2022 509](https://fedlex.data.admin.ch/eli/oc/2022/509). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht https://www.fedlex.admin.ch/de/treaty
