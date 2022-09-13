@@ -3,11 +3,11 @@ sr: "0.451.431.1"
 title: Zusatzprotokoll von Nagoya/Kuala Lumpur vom 15. Oktober 2010 über Haftung und Wiedergutmachung zum Protokoll von Cartagena über die biologische Sicherheit
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/122"
 language: de
-version: 2020-01-29
+version: 2022-09-14
 adopted: 2010-10-15
 in_force: 2018-03-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/122/20200129/de/xml/fedlex-data-admin-ch-eli-cc-2018-122-20200129-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/122/20200129/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/122/20220914/de/xml/fedlex-data-admin-ch-eli-cc-2018-122-20220914-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/122/20220914/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -18,15 +18,9 @@ AS **2018** 883; BBl **2013** 6685
 
 Übersetzung
 
-Abgeschlossen in Nagoya am 15. Oktober 2010
+Abgeschlossen in Nagoya am 15. Oktober 2010 Von der Bundesversammlung genehmigt am 20. Juni 2014[^t-1] Ratifikationsurkunde von der Schweiz hinterlegt am 27. Oktober 2014 In Kraft getreten für die Schweiz am 5. März 2018
 
-Von der Bundesversammlung genehmigt am 20. Juni 2014[^t-1]
-
-Ratifikationsurkunde von der Schweiz hinterlegt am 27. Oktober 2014
-
-In Kraft getreten für die Schweiz am 5. März 2018
-
-(Stand am 29. Januar 2020)
+(Stand am 14. September 2022)
 
 [^t-1]: [AS 2018 881](https://fedlex.data.admin.ch/eli/oc/2018/121)
 
@@ -44,7 +38,7 @@ eingedenk des Artikels 27 des Protokolls,
 
 sind wie folgt übereingekommen:
 
-[^ingress-1]: [SR 0.451.431](https://fedlex.data.admin.ch/eli/cc/2004/44)
+[^ingress-1]: [SR 0.451.431](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1841)
 
 #### Art. 1
 
@@ -92,7 +86,7 @@ Eine «erhebliche» nachteilige Auswirkung ist auf der Grundlage von Faktoren wi
 - c) die Verringerung der Fähigkeit der Bestandteile der biologischen Vielfalt, Güter zur Verfügung zu stellen und Dienstleistungen zu erbringen;
 - d) das Ausmass aller nachteiligen Auswirkungen auf die menschliche Gesundheit im Rahmen des Protokolls.
 
-[^2-1]: [SR 0.451.43](https://fedlex.data.admin.ch/eli/cc/1995/1408_1408_1408)
+[^2-1]: [SR 0.451.43](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1840)
 
 #### Art. 3
 
@@ -255,7 +249,7 @@ Die Konferenz der Vertragsparteien, die als Tagung der Vertragsparteien des Prot
 
 <sup>(2)</sup> Die Konferenz der Vertragsparteien, die als Tagung der Vertragsparteien des Protokolls dient, überprüft regelmässig die Durchführung dieses Zusatzprotokolls und trifft im Rahmen ihres Auftrags die notwendigen Entscheidungen, um seine wirksame Durchführung zu fördern. Sie nimmt die ihr durch dieses Zusatzprotokoll zugewiesenen Aufgaben und entsprechend die ihr durch Artikel 29 Absatz 4 Buchstaben a und f des Protokolls zugewiesenen Aufgaben wahr.
 
-[^14-1]: [SR 0.451.43](https://fedlex.data.admin.ch/eli/cc/1995/1408_1408_1408)
+[^14-1]: [SR 0.451.43](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1840)
 
 #### Art. 15
 
@@ -263,7 +257,7 @@ Die Konferenz der Vertragsparteien, die als Tagung der Vertragsparteien des Prot
 
 Das durch Artikel 24 des Übereinkommens[^15-1] eingesetzte Sekretariat ist gleichzeitig Sekretariat dieses Zusatzprotokolls.
 
-[^15-1]: [SR 0.451.43](https://fedlex.data.admin.ch/eli/cc/1995/1408_1408_1408)
+[^15-1]: [SR 0.451.43](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1840)
 
 #### Art. 16
 
@@ -277,7 +271,7 @@ Das durch Artikel 24 des Übereinkommens[^15-1] eingesetzte Sekretariat ist glei
 
 <sup>(4)</sup> Unbeschadet des Absatzes 3 lässt dieses Zusatzprotokoll die Rechte und Pflichten einer Vertragspartei aufgrund des Völkerrechts unberührt.
 
-[^16-1]: [SR 0.451.43](https://fedlex.data.admin.ch/eli/cc/1995/1408_1408_1408)
+[^16-1]: [SR 0.451.43](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1840)
 
 #### Art. 17
 
@@ -319,11 +313,12 @@ Die Urschrift dieses Zusatzprotokolls, dessen arabischer, chinesischer, englisch
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Zusatzprotokoll unterschrieben. Geschehen zu Nagoya am 15. Oktober 2010. (Es folgen die Unterschriften)
 
-Geltungsbereich am 29. Januar 2020**[^t-2]**
+Geltungsbereich am 14. September 2022[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td>Albanien</td><td>29. Januar</td><td>2013 B</td><td>5. März</td><td>2018</td></tr>
+<tr><td>Belgien</td><td>15. Juli</td><td>2022</td><td>13. Oktober</td><td>2022</td></tr>
 <tr><td>Bulgarien</td><td>6. Dezember</td><td>2012</td><td>5. März</td><td>2018</td></tr>
 <tr><td>Burkina Faso</td><td>4. Oktober</td><td>2013 B</td><td>5. März</td><td>2018</td></tr>
 <tr><td>Deutschland</td><td>27. August</td><td>2013</td><td>5. März</td><td>2018</td></tr>
@@ -339,6 +334,7 @@ Geltungsbereich am 29. Januar 2020**[^t-2]**
 <tr><td>Italien</td><td>9. April</td><td>2019</td><td>8. Juli</td><td>2019</td></tr>
 <tr><td>Japan</td><td>5. Dezember</td><td>2017</td><td>5. März</td><td>2018</td></tr>
 <tr><td>Kambodscha</td><td>30. August</td><td>2013 B</td><td>5. März</td><td>2018</td></tr>
+<tr><td>Kolumbien</td><td>14. April</td><td>2020</td><td>13. Juli</td><td>2020</td></tr>
 <tr><td>Kongo (Brazzaville)</td><td>16. Mai</td><td>2016 B</td><td>5. März</td><td>2018</td></tr>
 <tr><td>Kongo (Kinshasa)</td><td>4. Oktober</td><td>2017 B</td><td>5. März</td><td>2018</td></tr>
 <tr><td>Korea (Nord-)</td><td>1. Oktober</td><td>2019 B</td><td>30. Dezember</td><td>2019</td></tr>
@@ -352,8 +348,11 @@ Geltungsbereich am 29. Januar 2020**[^t-2]**
 <tr><td>Mexiko</td><td>26. September</td><td>2012</td><td>5. März</td><td>2018</td></tr>
 <tr><td>Moldau</td><td>30. Juli</td><td>2018</td><td>28. Oktober</td><td>2018</td></tr>
 <tr><td>Mongolei</td><td>21. Mai</td><td>2013</td><td>5. März</td><td>2018</td></tr>
+<tr><td>Nigeria</td><td>29. Juni</td><td>2022</td><td>27. September</td><td>2022</td></tr>
 <tr><td>Niederlande <sup>b</sup></td><td>30. Dezember</td><td>2013</td><td>5. März</td><td>2018</td></tr>
 <tr><td>Norwegen</td><td>1. November</td><td>2012 B</td><td>5. März</td><td>2018</td></tr>
+<tr><td>Österreich</td><td>20. Mai</td><td>2021</td><td>18. August</td><td>2021</td></tr>
+<tr><td>Peru</td><td>9. September</td><td>2022</td><td>8. Dezember</td><td>2022</td></tr>
 <tr><td>Rumänien</td><td>4. Oktober</td><td>2013</td><td>5. März</td><td>2018</td></tr>
 <tr><td>Schweden</td><td>12. Oktober</td><td>2012</td><td>5. März</td><td>2018</td></tr>
 <tr><td>Schweiz</td><td>27. Oktober</td><td>2014</td><td>5. März</td><td>2018</td></tr>
@@ -370,7 +369,7 @@ Geltungsbereich am 29. Januar 2020**[^t-2]**
 <tr><td>Vereinigtes Königreich</td><td>17. März</td><td>2015</td><td>5. März</td><td>2018</td></tr>
 <tr><td>Vietnam</td><td>23. April</td><td>2014 B</td><td>5. März</td><td>2018</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>15. Juni</td><td>2017</td><td>5. März</td><td>2018</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden. <sup>a</sup> Das Protokoll gilt nicht für Grönland und die Färöer. <sup>b</sup> Das Protokoll gilt für das Königreich in Europa.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: [http://treaties.un.org](http://treaties.un.org) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Protokoll gilt nicht für Grönland und die Färöer. <sup>b</sup> Das Protokoll gilt für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-2]: [AS 2018 883](https://fedlex.data.admin.ch/eli/oc/2018/122), [2020 439](https://fedlex.data.admin.ch/eli/oc/2020/75). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 2018 883](https://fedlex.data.admin.ch/eli/oc/2018/122); [2020 439](https://fedlex.data.admin.ch/eli/oc/2020/75); [2022 510](https://fedlex.data.admin.ch/eli/oc/2022/510). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: https://www.fedlex.admin.ch/de/treaty

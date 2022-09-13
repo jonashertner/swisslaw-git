@@ -3,11 +3,11 @@ sr: "0.451.431.1"
 title: Protocollo addizionale di Nagoya-Kuala Lumpur del 15 ottobre 2010 in materia di responsabilità e risarcimenti al Protocollo di Cartagena sulla biosicurezza
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/122"
 language: it
-version: 2020-01-29
+version: 2022-09-14
 adopted: 2010-10-15
 in_force: 2018-03-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/122/20200129/it/xml/fedlex-data-admin-ch-eli-cc-2018-122-20200129-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/122/20200129/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/122/20220914/it/xml/fedlex-data-admin-ch-eli-cc-2018-122-20220914-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/122/20220914/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **2018** 883; FF **2013** 5743
 
 *Traduzione*
 
-Concluso a Nagoya il 15 ottobre 2010
+Concluso a Nagoya il 15 ottobre 2010 Approvato dall’Assemblea federale il 20 giugno 2014[^t-1] Ratificato tramite strumento depositato dalla Svizzera il 27 ottobre 2014 Entrato in vigore per la Svizzera il 5 marzo 2018
 
-Approvato dall’Assemblea federale il 20 giugno 2014[^t-1]
-
-Ratificato tramite strumento depositato dalla Svizzera il 27 ottobre 2014
-
-Entrato in vigore per la Svizzera il 5 marzo 2018
-
-(Stato 29 gennaio 2020)
+(Stato 14 settembre 2022)
 
 [^t-1]: [RU 2018 881](https://fedlex.data.admin.ch/eli/oc/2018/121)
 
@@ -44,7 +38,7 @@ richiamando l’articolo 27 del Protocollo,
 
 hanno convenuto quanto segue:
 
-[^ingress-1]: [RS 0.451.431](https://fedlex.data.admin.ch/eli/cc/2004/44)
+[^ingress-1]: [RS 0.451.431](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1841)
 
 #### Art. 1
 
@@ -92,7 +86,7 @@ L’effetto negativo «significativo» è determinato sulla base di fattori qual
 - c) la riduzione della capacità delle componenti della diversità biologica di produrre beni e servizi;
 - d) l’entità di eventuali effetti negativi sulla salute umana, ai sensi del Protocollo.
 
-[^2-1]: [RS 0.451.43](https://fedlex.data.admin.ch/eli/cc/1995/1408_1408_1408)
+[^2-1]: [RS 0.451.43](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1840)
 
 #### Art. 3
 
@@ -255,7 +249,7 @@ La Conferenza delle Parti nella sua funzione di riunione delle Parti contraenti 
 
 <sup>(2)</sup> La Conferenza delle Parti nella sua funzione di riunione delle Parti contraenti del Protocollo esamina regolarmente l’attuazione del presente Protocollo addizionale e, entro i limiti del proprio mandato, prende le decisioni necessarie per promuoverne l’effettiva attuazione. Essa svolge le funzioni che assegnatele dal presente Protocollo addizionale e, *mutatis mutandis*, quelle assegnatele ai sensi dell’articolo 29 paragrafo 4 lettere a) e f) del Protocollo.
 
-[^14-1]: [RS 0.451.43](https://fedlex.data.admin.ch/eli/cc/1995/1408_1408_1408)
+[^14-1]: [RS 0.451.43](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1840)
 
 #### Art. 15
 
@@ -263,7 +257,7 @@ La Conferenza delle Parti nella sua funzione di riunione delle Parti contraenti 
 
 Il segretariato istituito in virtù dell’articolo 24 della Convenzione[^15-1] funge da segretariato del presente Protocollo addizionale.
 
-[^15-1]: [RS 0.451.43](https://fedlex.data.admin.ch/eli/cc/1995/1408_1408_1408)
+[^15-1]: [RS 0.451.43](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1840)
 
 #### Art. 16
 
@@ -277,7 +271,7 @@ Il segretariato istituito in virtù dell’articolo 24 della Convenzione[^15-1] 
 
 <sup>(4)</sup> Fatto salvo il paragrafo 3, il presente Protocollo addizionale lascia impregiudicati i diritti e gli obblighi di una Parte in virtù del diritto internazionale.
 
-[^16-1]: [RS 0.451.43](https://fedlex.data.admin.ch/eli/cc/1995/1408_1408_1408)
+[^16-1]: [RS 0.451.43](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1840)
 
 #### Art. 17
 
@@ -319,14 +313,17 @@ L’originale del presente Protocollo addizionale, i cui testi nelle lingue arab
 
 *In fede di che* i sottoscritti, debitamente autorizzati a tal fine, hanno firmato il presente Protocollo addizionale. Fatto a Nagoya addì 15 ottobre 2010. (Seguono le firme)
 
-Campo d’applicazione il 29 gennaio 2020**[^t-2]**
+Campo d’applicazione il 14 settembre 2022[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td>Albania</td><td>29 gennaio</td><td>2013 A</td><td>5 marzo</td><td>2018</td></tr>
+<tr><td>Austria</td><td>20 maggio</td><td>2021</td><td>18 agosto</td><td>2021</td></tr>
+<tr><td>Belgio</td><td>15 luglio</td><td>2022</td><td>13 ottobre</td><td>2022</td></tr>
 <tr><td>Bulgaria</td><td>6 dicembre</td><td>2012</td><td>5 marzo</td><td>2018</td></tr>
 <tr><td>Burkina Faso</td><td>4 ottobre</td><td>2013 A</td><td>5 marzo</td><td>2018</td></tr>
 <tr><td>Cambogia</td><td>30 agosto</td><td>2013 A</td><td>5 marzo</td><td>2018</td></tr>
+<tr><td>Colombia</td><td>14 aprile</td><td>2020</td><td>13 luglio</td><td>2020</td></tr>
 <tr><td>Congo (Brazzaville)</td><td>16 maggio</td><td>2016 A</td><td>5 marzo</td><td>2018</td></tr>
 <tr><td>Congo (Kinshasa)</td><td>4 ottobre</td><td>2017 A</td><td>5 marzo</td><td>2018</td></tr>
 <tr><td>Corea del Nord</td><td>1° ottobre</td><td>2019 A</td><td>30 dicembre</td><td>2019</td></tr>
@@ -352,8 +349,10 @@ Campo d’applicazione il 29 gennaio 2020**[^t-2]**
 <tr><td>Messico</td><td>26 settembre</td><td>2012</td><td>5 marzo</td><td>2018</td></tr>
 <tr><td>Moldova</td><td>30 luglio</td><td>2018</td><td>28 ottobre</td><td>2018</td></tr>
 <tr><td>Mongolia</td><td>21 maggio</td><td>2013</td><td>5 marzo</td><td>2018</td></tr>
+<tr><td>Nigeria</td><td>29 giugno</td><td>2022</td><td>27 settembre</td><td>2022</td></tr>
 <tr><td>Norvegia</td><td>1o novembre</td><td>2012 A</td><td>5 marzo</td><td>2018</td></tr>
 <tr><td>Paesi Bassi <sup>b</sup></td><td>30 dicembre</td><td>2013</td><td>5 marzo</td><td>2018</td></tr>
+<tr><td>Perù</td><td>9 settembre</td><td>2022</td><td>8 dicembre</td><td>2022</td></tr>
 <tr><td>Regno Unito</td><td>17 marzo</td><td>2015</td><td>5 marzo</td><td>2018</td></tr>
 <tr><td>Repubblica Ceca</td><td>13 febbraio</td><td>2012</td><td>5 marzo</td><td>2018</td></tr>
 <tr><td>Repubblica Centrafricana</td><td>15 giugno</td><td>2017</td><td>5 marzo</td><td>2018</td></tr>
@@ -370,7 +369,7 @@ Campo d’applicazione il 29 gennaio 2020**[^t-2]**
 <tr><td>Unione europea\*</td><td>21 marzo</td><td>2013</td><td>5 marzo</td><td>2018</td></tr>
 <tr><td>Venezuela</td><td>10 ottobre</td><td>2018 A</td><td>8 gennaio</td><td>2019</td></tr>
 <tr><td>Vietnam</td><td>23 aprile</td><td>2014 A</td><td>5 marzo</td><td>2018</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni Le riserve e dichiarazioni non sono pubblicate nella RU. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Il Prot. non vale né per la Groenlandia né per le Isole Faroe. <sup>b</sup> Il Prot. vale per il Regno in Europa.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: [http://treaties.un.org](http://treaties.un.org), oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Il Prot. non vale né per la Groenlandia né per le Isole Faroe. <sup>b</sup> Il Prot. vale per il Regno in Europa.</td></tr>
 </table>
 
-[^t-2]: [RU 2018 883](https://fedlex.data.admin.ch/eli/oc/2018/122)e [2020 439](https://fedlex.data.admin.ch/eli/oc/2020/75). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2018 883](https://fedlex.data.admin.ch/eli/oc/2018/122); [2020 439](https://fedlex.data.admin.ch/eli/oc/2020/75); [2022 510](https://fedlex.data.admin.ch/eli/oc/2022/510)Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: https://www.fedlex.admin.ch/it/treaty
