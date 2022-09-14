@@ -3,11 +3,11 @@ sr: "196.127.67"
 title: Verordnung vom 25. Mai 2016 über die Sperrung von Vermögenswerten im Zusammenhang mit der Ukraine (Ukraine-Verordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/325"
 language: de
-version: 2022-02-28
+version: 2022-09-15
 adopted: 2016-05-25
 in_force: 2016-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/325/20220228/de/xml/fedlex-data-admin-ch-eli-cc-2016-325-20220228-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/325/20220228/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/325/20220915/de/xml/fedlex-data-admin-ch-eli-cc-2016-325-20220915-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/325/20220915/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/325/20220228/de"
 
 (Ukraine-Verordnung)
 
-vom 25. Mai 2016 (Stand am 28. Februar 2022)
+vom 25. Mai 2016 (Stand am 15. September 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -73,19 +73,17 @@ Wenn der Vollzug der Sperrung Massnahmen bedarf wie etwa einer entsprechenden An
 [^4-5]: Eingefügt durch Ziff. I der V vom 11. Dez. 2020, in Kraft seit 28. Febr. 2021 ([AS 2021 19](https://fedlex.data.admin.ch/eli/oc/2021/19)).
 [^4-6]: Eingefügt durch Ziff. I der V vom 10. Dez. 2021, in Kraft seit 28. Febr. 2022 ([AS 2022 855](https://fedlex.data.admin.ch/eli/oc/2022/855)).
 
-Anhang*[^t-1]*
+Anhang[^t-1]
 
 (Art. 1)
 
 ## Ausländische politisch exponierte Personen und ihnen nahestehende Personen, deren Vermögenswerte nach Artikel 1 gesperrt sind
 
-[^t-1]: Bereinigt gemäss Ziff. I der V des EDA vom 27. Juli 2016 ([AS 2016 2929](https://fedlex.data.admin.ch/eli/oc/2016/485)), der Berichtigung vom 22. Nov. 2016 ([AS 2016 4141](https://fedlex.data.admin.ch/eli/oc/2016/683)), Ziff. I der V des EDA vom 21. Dez. 2016 ([AS 2017 603](https://fedlex.data.admin.ch/eli/oc/2017/102)), vom 16. Jan. 2018 ([AS 2018 565](https://fedlex.data.admin.ch/eli/oc/2018/75)), vom 12. Febr. 2019 ([AS 2019 623](https://fedlex.data.admin.ch/eli/oc/2019/110)), vom 20. Sept. 2019 ([AS 2019 2955](https://fedlex.data.admin.ch/eli/oc/2019/539)), vom 3. März 2020 ([AS 2020 709](https://fedlex.data.admin.ch/eli/oc/2020/129)), vom 27. Nov. 2020 ([AS 2020 5909](https://fedlex.data.admin.ch/eli/oc/2020/992)) und vom 8. Dez. 2021, in Kraft seit 3. Jan. 2022 ([AS 2021 854](https://fedlex.data.admin.ch/eli/oc/2021/854)).
+[^t-1]: Bereinigt gemäss Ziff. I der V des EDA vom 27. Juli 2016 ([AS 2016 2929](https://fedlex.data.admin.ch/eli/oc/2016/485)), der Berichtigung vom 22. Nov. 2016 ([AS 2016 4141](https://fedlex.data.admin.ch/eli/oc/2016/683)), Ziff. I der V des EDA vom 21. Dez. 2016 ([AS 2017 603](https://fedlex.data.admin.ch/eli/oc/2017/102)), vom 16. Jan. 2018 ([AS 2018 565](https://fedlex.data.admin.ch/eli/oc/2018/75)), vom 12. Febr. 2019 ([AS 2019 623](https://fedlex.data.admin.ch/eli/oc/2019/110)), vom 20. Sept. 2019 ([AS 2019 2955](https://fedlex.data.admin.ch/eli/oc/2019/539)), vom 3. März 2020 ([AS 2020 709](https://fedlex.data.admin.ch/eli/oc/2020/129)), vom 27. Nov. 2020 ([AS 2020 5909](https://fedlex.data.admin.ch/eli/oc/2020/992)), vom 8. Dez. 2021 ([AS 2021 854](https://fedlex.data.admin.ch/eli/oc/2021/854)) und vom 29. Aug. 2022, in Kraft seit 15. Sept. 2022 (AS **202****2** 495).
 
 *Mykola (Nikolai) Yanovych AZAROV (geboren als Nikolai Yanovich Pakhlo),* geboren am 17. Dezember 1947, Premierminister bis Januar 2014
 
 *Yuriy IVANYUSHCHENKO,* geboren am 21. Februar 1959, Mitglied des Parlaments, enger Vertrauter von Viktor Yanukovych
-
-*Oleksander Viktorovych KLYMENKO,* geboren am 16. November 1980, ehemaliger Minister für Einnahmen und Steuern
 
 *Oleksandr (Aleksandr) Viktorovych YANUKOVYCH,* geboren am 10. Juli 1973, Sohn des ehemaligen Präsidenten, Geschäftsmann
 
