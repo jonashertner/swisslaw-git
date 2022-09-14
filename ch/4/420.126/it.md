@@ -4,11 +4,11 @@ title: Ordinanza del 20 gennaio 2021 sulle misure per la partecipazione della Sv
 short: OMPRI
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/72"
 language: it
-version: 2021-03-01
+version: 2022-09-15
 adopted: 2021-01-20
 in_force: 2021-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/72/20210301/it/xml/fedlex-data-admin-ch-eli-cc-2021-72-20210301-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/72/20210301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/72/20220915/it/xml/fedlex-data-admin-ch-eli-cc-2021-72-20220915-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/72/20220915/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/72/20210301/it"
 
 (OMPRI)
 
-del 20 gennaio 2021 (Stato 1° marzo 2021)
+del 20 gennaio 2021 (Stato 15 settembre 2022)
 
 Il Consiglio federale svizzero,
 
@@ -53,7 +53,6 @@ La presente ordinanza disciplina le misure per la partecipazione della Svizzera:
 Disciplina le misure per la partecipazione della Svizzera alle attività di cui al capoverso 1:
 
 - a. come Stato associato ai programmi dell’UE per la ricerca e l’innovazione (sezione 2); oppure
-- [tab] (sezione 2); oppure
 - b. come Stato terzo o come Stato parzialmente associato (sezione 3).
 
 <sup>3</sup> Disciplina inoltre, nell’articolo 17, la competenza di concludere trattati internazionali di portata limitata per quanto riguarda la partecipazione della Svizzera ai settori di cui al capoverso 1.
@@ -123,7 +122,7 @@ I partecipanti di cui al capoverso 1 sono:
 
 <sup>1</sup>
 
-Se le attività di cui all’articolo 1 capoverso 1 presuppongono la concessione di sussidi statali ai partecipanti, la SEFRI e l’Agenzia svizzera per la promozione dell’innovazione (Innosuisse) possono versare sussidi per la partecipazione a tali attività o per la loro preparazione a:
+Se le attività di cui all’articolo 1 capoverso 1 presuppongono la concessione di sussidi nazionali ai partecipanti, la SEFRI e l’Agenzia svizzera per la promozione dell’innovazione (Innosuisse) possono versare sussidi per la partecipazione a tali attività o per la loro preparazione a:[^6-1]
 
 - a. centri di ricerca universitari, centri di ricerca extrauniversitari a scopo non lucrativo e altre istituzioni a scopo non lucrativo;
 - b. imprese nell’ambito dell’articolo 29 capoverso 1 lettera e LPRI.
@@ -137,6 +136,8 @@ I sussidi sono concessi per le spese seguenti:
 - a. spese per il personale;
 - b. altre spese imputabili in modo comprovato alla preparazione o alla realizzazione della ricerca e dell’innovazione nell’ambito della partecipazione svizzera;
 - c. costi indiretti di ricerca (overhead).
+
+[^6-1]: Nuovo testo giusta il n. I dell’O del 17 ago. 2022, in vigore dal 15 set. 2022 ([RU 2022 474](https://fedlex.data.admin.ch/eli/oc/2022/474)).
 
 #### Art. 7
 
@@ -163,11 +164,13 @@ Per le imprese nonché per le istituzioni e i centri di ricerca extrauniversitar
 
 **Gestione centralizzata dei sussidi**
 
-<sup>1</sup> Se per un’attività di cui all’articolo 1 capoverso 1 a livello europeo è prevista una gestione centralizzata di tutti i contributi finanziari, la SEFRI e Innosuisse possono versare i sussidi statali di cui all’articolo 6 capoverso 1 al canale di promozione comune impiegato per il finanziamento dell’attività.
+<sup>1</sup> Se per un’attività di cui all’articolo 1 capoverso 1 a livello europeo è prevista una gestione centralizzata di tutti i contributi finanziari, la SEFRI e Innosuisse possono versare i sussidi nazionali di cui all’articolo 6 capoverso 1 al canale di promozione comune impiegato per il finanziamento dell’attività.[^8-1]
 
 <sup>2</sup> I sussidi di cui al capoverso 1 servono per coprire la quota della Svizzera dei costi di progetto finanziati attraverso il canale di promozione comune della rispettiva attività.
 
 <sup>3</sup> Possono essere concessi soltanto se la partecipazione alle attività in questione soddisfa importanti esigenze del settore svizzero della ricerca e dell’innovazione e non può essere finanziata tramite altre fonti.
+
+[^8-1]: Nuovo testo giusta il n. I dell’O del 17 ago. 2022, in vigore dal 15 set. 2022 ([RU 2022 474](https://fedlex.data.admin.ch/eli/oc/2022/474)).
 
 #### Art. 9
 
@@ -183,49 +186,56 @@ Per le imprese nonché per le istituzioni e i centri di ricerca extrauniversitar
 
 #### Art. 10
 
-**Sussidi per la partecipazione a singoli progetti**
+**Sussidi per la partecipazione a singoli progetti**[^10-1]
 
-Se la Svizzera è ammessa a partecipare alle attività di cui all’articolo 1 capoverso 1 in qualità di Stato terzo o di Stato parzialmente associato, la SEFRI e Innosuisse possono concedere sussidi per la partecipazione a singoli progetti concernenti le attività di cui all’articolo 1 capoverso 1.
+Se la Svizzera è ammessa a partecipare alle attività di cui all’articolo 1 capoverso 1 in qualità di Stato terzo o di Stato parzialmente associato, la SEFRI e Innosuisse possono concedere sussidi per la partecipazione a singoli progetti concernenti le attività di cui all’articolo 1 capoverso 1. Questa norma si applica sia ai progetti con un solo partecipante sia a quelli con più partecipanti (progetti individuali e progetti collaborativi).
+
+[^10-1]: Nuovo testo giusta il n. I dell’O del 17 ago. 2022, in vigore dal 15 set. 2022 ([RU 2022 474](https://fedlex.data.admin.ch/eli/oc/2022/474)).
 
 #### Art. 11
 
-**Requisiti per l’ottenimento dei sussidi**
+**Requisiti per l’ottenimento dei sussidi**[^11-1]
 
-<sup>1</sup>
+<sup>1</sup> Per i progetti che la Commissione europea, l’ente di promozione incaricato dalla Commissione europea, l’ente responsabile dell’attività o un altro organo responsabile della valutazione dei progetti considera finanziabili, su richiesta la SEFRI e Innosuisse possono concedere sussidi per la partecipazione a singoli progetti.
 
-Su richiesta la SEFRI e Innosuisse possono concedere sussidi per la partecipazione a singoli progetti a:
+<sup>2</sup>
+
+I partecipanti devono essere:
 
 - a. centri di ricerca universitari, centri di ricerca extrauniversitari a scopo non lucrativo e altre istituzioni a scopo non lucrativo;
 - b. imprese nell’ambito dell’articolo 29 capoverso 1 lettera e LPRI.
 
-<sup>2</sup>
+<sup>3</sup>
 
 I sussidi per la partecipazione a singoli progetti possono essere composti dalle quote che sarebbero concesse in caso di associazione della Svizzera ai programmi dell’UE per la ricerca e l’innovazione:
 
 - a. dall’UE;
 - b. dalla SEFRI o da Innosuisse secondo gli articoli 6 e 8.
 
-<sup>3</sup>
-
-I sussidi possono essere concessi a progetti che:
-
-- a. si svolgono nell’ambito di un contratto tra il richiedente e la Commissione europea, l’ente di promozione incaricato dalla Commissione europea o l’ente responsabile dell’attività; e
-- b. non sono finanziati in via eccezionale dall’UE attraverso i suoi programmi per la ricerca e l’innovazione.
-
 <sup>4</sup>
 
-Per i progetti che la Commissione europea, l’ente di promozione incaricato dalla Commissione europea, l’ente responsabile dell’attività o un altro organo responsabile della valutazione dei progetti considera finanziabili possono essere concessi sussidi anche senza un contratto ai sensi del capoverso 3 lettera a se:
+I sussidi per la partecipazione a progetti collaborativi possono essere concessi:
 
-- a. dopo la valutazione del progetto lo status della Svizzera passa da Stato associato o parzialmente associato a Stato terzo e a causa di questo cambiamento non è stipulato un contratto ai sensi del capoverso 3 lettera a;
-- b. il contratto ai sensi del capoverso 3 lettera a perde la sua validità perché durante la partecipazione della Svizzera come Stato terzo un progetto in corso è trasferito a un’istituzione svizzera da uno Stato membro dell’UE o da uno Stato associato; oppure
-- c. la partecipazione alle attività non richiede un contratto ai sensi del capoverso 3 lettera a.
+- a. se il richiedente è designato come partner associato o partner di progetto nel contratto tra il coordinatore di progetto e la Commissione europea, l’ente di promozione incaricato dalla Commissione europea o l’ente responsabile dell’attività; oppure
+- b. in assenza di un contratto ai sensi della lettera a se, in casi eccezionali, la partecipazione alle attività non richiede tale contratto.
 
 <sup>5</sup>
 
-I sussidi ai partner di progetto svizzeri per la partecipazione a singoli progetti possono esse concessi soltanto se i costi di progetto effettivi sono sostenuti in Svizzera. I costi che non sono sostenuti in Svizzera sono assunti soltanto se si tratta di costi:
+I sussidi per i progetti individuali possono essere concessi se:
 
-- a. nell’ambito di subcontratti per lavori che non possono essere eseguiti in Svizzera; o
+- a. dopo la presentazione del progetto lo status della Svizzera passa da Stato associato o parzialmente associato a Stato terzo e a causa di questo cambiamento non è stipulato un contratto; oppure
+- b. durante la partecipazione della Svizzera come Stato terzo, un progetto di uno Stato membro dell’UE o di uno Stato associato è trasferito in Svizzera.
+
+<sup>6</sup>
+
+I sussidi per la partecipazione a singoli progetti possono essere concessi soltanto se i costi di progetto effettivi sono sostenuti in Svizzera. I costi che non sono sostenuti in Svizzera sono assunti soltanto se si tratta di costi:
+
+- a. nell’ambito di subcontratti per lavori che non possono essere eseguiti in Svizzera; oppure
 - b. derivanti dall’utilizzo necessario di infrastrutture di ricerca al di fuori della Svizzera.
+
+<sup>7</sup> I sussidi per la partecipazione a singoli progetti possono essere concessi soltanto se il progetto individuale o la partecipazione a un progetto collaborativo non sono finanziati in via eccezionale dall’UE mediante i suoi programmi per la ricerca e l’innovazione.
+
+[^11-1]: Nuovo testo giusta il n. I dell’O del 17 ago. 2022, in vigore dal 15 set. 2022 ([RU 2022 474](https://fedlex.data.admin.ch/eli/oc/2022/474)).
 
 #### Art. 12
 
@@ -241,28 +251,59 @@ La quota di sussidio che sarebbe concessa dall’UE in caso di associazione dell
 
 <sup>2</sup> Per il calcolo delle spese per il personale e dei costi overhead si applica l’articolo 7.
 
-<sup>3</sup> La SEFRI e Innosuisse possono ridurre la durata dei sussidi e l’importo dei sussidi richiesti.
+<sup>3</sup> La quota di sussidio che sarebbe concessa dalla SEFRI o da Innosuisse secondo l’articolo 6 in caso di associazione della Svizzera ai programmi dell’UE per la ricerca e l’innovazione è disciplinata dagli articoli 6–8. Il sussidio può essere versato anche a un canale di promozione comune secondo l’articolo 8.[^12-1]
 
-<sup>4</sup>
+<sup>4</sup> La SEFRI e Innosuisse possono ridurre la durata dei sussidi e l’importo dei sussidi richiesti.[^12-2]
 
-I sussidi di cui al capoverso 1 non superano i costi di progetto per i partecipanti svizzeri previsti dal contratto con la Commissione europea, con l’ente di promozione incaricato dalla Commissione europea o con l’ente promotore dell’attività considerando segnatamente:
+<sup>5</sup> a <sup>7</sup> ...[^12-3]
 
-- a. il tasso di rimborso stabilito nel contratto;
-- b. un’eventuale riduzione, da parte della Commissione europea, dell’ente di promozione incaricato dalla Commissione europea o dell’ente promotore dell’attività del sussidio richiesto da tutti partner al momento della presentazione del progetto.
+[^12-1]: Nuovo testo giusta il n. I dell’O del 17 ago. 2022, in vigore dal 15 set. 2022 ([RU 2022 474](https://fedlex.data.admin.ch/eli/oc/2022/474)).
+[^12-2]: Nuovo testo giusta il n. I dell’O del 17 ago. 2022, in vigore dal 15 set. 2022 ([RU 2022 474](https://fedlex.data.admin.ch/eli/oc/2022/474)).
+[^12-3]: Abrogati dal n. I dell’O del 17 ago. 2022, con effetto dal 15 set. 2022 ([RU 2022 474](https://fedlex.data.admin.ch/eli/oc/2022/474)).
 
-<sup>5</sup> Per le attività senza contratto di cui all’articolo 11 capoverso 4 lettera c la quota si basa sui capoversi 1 e 2.
+#### Art. 12a
 
-<sup>6</sup> La quota di sussidio che sarebbe concessa dalla SEFRI o da Innosuisse secondo l’articolo 6 in caso di associazione della Svizzera ai programmi dell’UE per la ricerca e l’innovazione si basa sugli articoli 6, 7 e 8. Può comprendere sussidi versati in un canale di promozione comune secondo l’articolo 8.
+**Calcolo dei sussidi per i progetti collaborativi**[^12a-1]
 
-<sup>7</sup>
+<sup>1</sup>
 
-Se le domande presentate o previste superano i fondi disponibili, il Dipartimento federale dell’economia, della formazione e della ricerca definisce un ordine di priorità. Tale ordine si basa sui criteri seguenti:
+Per i progetti collaborativi i sussidi di cui all’articolo 12 non possono eccedere i costi di progetto previsti per il partecipante svizzero che sono riportati:
 
-- a. rinuncia al finanziamento di singole attività o singoli parti di programma;
+- a. nel contratto tra il coordinatore di progetto e la Commissione europea, l’ente di promozione incaricato dalla Commissione europea o l’ente responsabile dell’attività; oppure
+- b. nella presentazione del progetto che è stata valutata dalla Commissione europea, dall’ente di promozione incaricato dalla Commissione europea, dall’ente responsabile dell’attività o da un altro organo responsabile della valutazione dei progetti.
+
+<sup>2</sup>
+
+Per determinare l’importo massimo del sussidio si considerano segnatamente:
+
+- a. il tasso di rimborso stabilito nel contratto tra il coordinatore di progetto e la Commissione europea, l’ente di promozione incaricato dalla Commissione europea o l’ente responsabile dell’attività;
+- b. un’eventuale riduzione, da parte della Commissione europea, dell’ente di promozione incaricato dalla Commissione europea o dell’ente responsabile dell’attività, del sussidio richiesto da tutti i partner di progetto al momento della presentazione del progetto.
+
+<sup>3</sup> Per i progetti i cui costi a carico del partecipante svizzero non sono, eccezionalmente, riportati nei documenti di cui al capoverso 1 lettera a o b, i sussidi sono disciplinati dall’articolo 12.
+
+[^12a-1]: Introdotto dal n. I dell’O del 17 ago. 2022, in vigore dal 15 set. 2022 ([RU 2022 474](https://fedlex.data.admin.ch/eli/oc/2022/474)).
+
+#### Art. 12b
+
+**Calcolo dei sussidi per i progetti individuali**[^12b-1]
+
+Per i progetti individuali i sussidi di cui all’articolo 12 non possono eccedere i costi di progetto previsti nella presentazione del progetto che è stata valutata dalla Commissione europea, dall’ente di promozione incaricato dalla Commissione europea, dall’ente responsabile dell’attività o da un altro organo responsabile della valutazione dei progetti. Occorre tenere conto di eventuali riduzioni richieste nel rapporto di valutazione.
+
+[^12b-1]: Introdotto dal n. I dell’O del 17 ago. 2022, in vigore dal 15 set. 2022 ([RU 2022 474](https://fedlex.data.admin.ch/eli/oc/2022/474)).
+
+#### Art. 12c
+
+**Ordine di priorità**[^12c-1]
+
+Se i sussidi richiesti nelle domande presentate o previste superano i fondi disponibili, il Dipartimento federale dell’economia, della formazione e della ricerca definisce un ordine di priorità. Tale ordine si basa sui criteri seguenti:
+
+- a. rinuncia al finanziamento di singole attività o singole parti di programma;
 - b. rinuncia alla concessione della quota di sussidio che sarebbe versata dalla SEFRI o da Innosuisse secondo gli articoli 6 e 8 in caso di associazione della Svizzera ai programmi dell’UE per la ricerca e l’innovazione;
-- c. riduzione percentuale dei costi di progetto, segnatamente dei costi overhead;
+- c. riduzione percentuale dei costi di cui all’articolo 12 capoverso 1, segnatamente dei costi overhead;
 - d. preferenza per le domande dei centri di ricerca universitari, dei centri di ricerca extrauniversitari a scopo non lucrativo e di altre istituzioni a scopo non lucrativo;
 - e. preferenza per le domande delle PMI rispetto a quelle di altre imprese.
+
+[^12c-1]: Introdotto dal n. I dell’O del 17 ago. 2022, in vigore dal 15 set. 2022 ([RU 2022 474](https://fedlex.data.admin.ch/eli/oc/2022/474)).
 
 #### Art. 13
 
@@ -278,9 +319,11 @@ Se le domande presentate o previste superano i fondi disponibili, il Dipartiment
 
 #### Art. 14
 
-**Sussidi agli enti responsabili di attività**
+**Sussidi agli enti responsabili di attività**[^14-1]
 
-La SEFRI può concedere sussidi agli enti responsabili di attività ai sensi dell’articolo 1 capoverso 1 per la copertura della partecipazione della Svizzera ai costi amministrativi e di coordinamento che sono rimborsati dall’UE in caso di associazione della Svizzera ai programmi dell’UE per la ricerca e l’innovazione.
+La SEFRI e Innosuisse possono concedere sussidi agli enti responsabili di attività ai sensi dell’articolo 1 capoverso 1 per la copertura della partecipazione della Svizzera ai costi amministrativi e di coordinamento rimborsati dall’UE in caso di associazione della Svizzera ai programmi dell’UE per la ricerca e l’innovazione.
+
+[^14-1]: Nuovo testo giusta il n. I dell’O del 17 ago. 2022, in vigore dal 15 set. 2022 ([RU 2022 474](https://fedlex.data.admin.ch/eli/oc/2022/474)).
 
 #### Art. 15
 
@@ -292,7 +335,13 @@ Gli articoli 3, 4, 5 e 9 si applicano anche quando la Svizzera è ammessa a part
 
 #### Art. 16
 
-Le domande di sussidi sono valutate secondo il diritto in base allo status di partecipazione della Svizzera al momento della firma del contratto tra il richiedente e la Commissione europea, l’ente di promozione incaricato dalla Commissione europea, l’ente responsabile dell’attività o un altro ente responsabile della firma del contratto.
+[^16-1]
+
+<sup>1</sup> Le domande di sussidi sono valutate secondo il diritto conforme allo status di partecipazione della Svizzera al momento della firma dei contratti relativi al bando pertinente da parte della Commissione europea, dell’ente di promozione incaricato dalla Commissione europea, dell’ente responsabile dell’attività o di un altro ente responsabile della firma dei contratti. È fatto salvo il capoverso 2.
+
+<sup>2</sup> Se, dopo la presentazione della domanda, lo status della Svizzera passa da Stato non associato a Stato associato e, nonostante tale cambiamento, l’UE non concede alcun sussidio ai partecipanti svizzeri, si applica la sezione 3.
+
+[^16-1]: Nuovo testo giusta il n. I dell’O del 17 ago. 2022, in vigore dal 15 set. 2022 ([RU 2022 474](https://fedlex.data.admin.ch/eli/oc/2022/474)).
 
 ## Sezione 5: Competenza di concludere trattati internazionali
 
@@ -326,6 +375,14 @@ Il diritto anteriore rimane applicabile:
 
 - a. per promozioni avviate dalla SEFRI o da Innosuisse prima dell’entrata in vigore della presente ordinanza;
 - b. per aggiunte a contratti o a decisioni concernenti promozioni secondo la lettera a, effettuate dopo l’entrata in vigore della presente ordinanza.
+
+#### Art. 19a
+
+**Disposizione transitoria della modifica del 17 agosto 2022**[^19a-1]
+
+Per il calcolo dei sussidi relativi alle promozioni avviate dalla SEFRI o da Innosuisse prima dell’entrata in vigore della presente modifica si applica il diritto in vigore al momento della stipula del contratto.
+
+[^19a-1]: Introdotto dal n. I dell’O del 17 ago. 2022, in vigore dal 15 set. 2022 ([RU 2022 474](https://fedlex.data.admin.ch/eli/oc/2022/474)).
 
 #### Art. 20
 

@@ -4,11 +4,11 @@ title: Ordonnance du 20 janvier 2021 relative aux mesures concernant la particip
 short: OMPRI
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/72"
 language: fr
-version: 2021-03-01
+version: 2022-09-15
 adopted: 2021-01-20
 in_force: 2021-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/72/20210301/fr/xml/fedlex-data-admin-ch-eli-cc-2021-72-20210301-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/72/20210301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/72/20220915/fr/xml/fedlex-data-admin-ch-eli-cc-2021-72-20220915-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/72/20220915/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/72/20210301/fr"
 
 (OMPRI)
 
-du 20 janvier 2021 (Etat le 1<sup>er</sup> mars 2021)
+du 20 janvier 2021 (État le 15 septembre 2022)
 
 Le Conseil fédéral suisse,
 
@@ -120,7 +120,7 @@ Les participants au sens de l’al. 1 doivent appartenir à l’une des catégor
 
 <sup>1</sup>
 
-Si les activités visées à l’art. 1, al. 1, présupposent qu’une contribution de l’État soit octroyée aux participants, le SEFRI et l’Agence suisse pour l’encouragement de l’innovation (Innosuisse) peuvent octroyer des contributions pour la participation à ces activités ou pour la préparation d’une telle participation:
+Si les activités visées à l’art. 1, al. 1, présupposent qu’une contribution nationale soit octroyée aux participants, le SEFRI et l’Agence suisse pour l’encouragement de l’innovation (Innosuisse) peuvent octroyer des contributions pour la participation à ces activités ou pour la préparation d’une telle participation:[^6-1]
 
 - a. aux établissements de recherche du domaine des hautes écoles et aux établissements de recherche sans but lucratif situés en dehors du domaine des hautes écoles et autres institutions non commerciales;
 - b. aux entreprises visées à l’art. 29, al. 1, let. e, LERI.
@@ -134,6 +134,8 @@ Elles sont octroyées pour les dépenses suivantes:
 - a. frais de personnel;
 - b. autres frais dont il est prouvé qu’ils sont occasionnés par la préparation ou l’exécution de travaux de recherche et d’innovation dans le cadre de la participation suisse;
 - c. coûts de recherche indirects (*overhead*).
+
+[^6-1]: Nouvelle teneur selon le ch. I de l’O du 17 août 2022, en vigueur depuis le 15 sept. 2022 ([RO 2022 474](https://fedlex.data.admin.ch/eli/oc/2022/474)).
 
 #### Art. 7
 
@@ -160,11 +162,13 @@ Pour les entreprises et les établissements de recherche et institutions sans bu
 
 **Gestion centralisée des contributions**
 
-<sup>1</sup> Si une gestion centralisée de l’ensemble des contributions financières est prévue à l’échelle européenne pour une activité au sens de l’art. 1, al. 1, le SEFRI et Innosuisse peuvent verser les contributions de l’État visées à l’art. 6, al. 1, pour alimenter le dispositif commun destiné au financement de cette activité.
+<sup>1</sup> Si une gestion centralisée de l’ensemble des contributions financières est prévue à l’échelle européenne pour une activité au sens de l’art. 1, al. 1, le SEFRI et Innosuisse peuvent octroyer les contributions nationales visées à l’art. 6, al. 1, pour alimenter le dispositif commun destiné au financement de cette activité.[^8-1]
 
 <sup>2</sup> Les contributions au sens de l’al. 1 permettent de couvrir la part de la Suisse aux coûts de projet qui sont financés par le biais du dispositif commun lié à l’activité en question.
 
 <sup>3</sup> Elles ne peuvent être octroyées qu’à la condition que la participation à l’activité en question réponde à un fort besoin de la recherche et de l’innovation suisses et qu’elle ne puisse pas être financée par d’autres sources.
+
+[^8-1]: Nouvelle teneur selon le ch. I de l’O du 17 août 2022, en vigueur depuis le 15 sept. 2022 ([RO 2022 474](https://fedlex.data.admin.ch/eli/oc/2022/474)).
 
 #### Art. 9
 
@@ -180,84 +184,124 @@ Pour les entreprises et les établissements de recherche et institutions sans bu
 
 #### Art. 10
 
-**Octroi de contributions à des participations sur le mode projet par projet**
+**Octroi de contributions pour la participation sur le mode projet par projet**[^10-1]
 
-En cas d’accord sur la participation de la Suisse aux activités visées à l’art. 1, al. 1, en tant que pays tiers ou en tant qu’État partiellement associé, le SEFRI et Innosuisse peuvent octroyer des contributions pour la participation aux activités sur le mode projet par projet.
+En cas d’accord sur la participation de la Suisse aux activités visées à l’art. 1, al. 1, en tant que pays tiers ou en tant qu’État partiellement associé, le SEFRI et Innosuisse peuvent octroyer des contributions pour la participation aux activités sur le mode projet par projet. Ce principe s’applique tant aux projets menés par un seul participant qu’à ceux menés par plusieurs participants (projets individuels et projets collaboratifs).
+
+[^10-1]: Nouvelle teneur selon le ch. I de l’O du 17 août 2022, en vigueur depuis le 15 sept. 2022 ([RO 2022 474](https://fedlex.data.admin.ch/eli/oc/2022/474)).
 
 #### Art. 11
 
-**Conditions d’octroi**
+**Conditions d’octroi**[^11-1]
 
-<sup>1</sup>
-
-Le SEFRI et Innosuisse peuvent octroyer sur demande des contributions pour la participation sur le mode projet par projet:
-
-- a. aux établissements de recherche du domaine des hautes écoles et aux établissements de recherche sans but lucratif situés en dehors du domaine des hautes écoles et autres institutions non commerciales;
-- b. aux entreprises au sens de l’art. 29, al. 1, let. e, LERI.
+<sup>1</sup> Le SEFRI et Innosuisse peuvent, sur demande, octroyer des contributions pour la participation sur le mode projet par projet si la Commission européenne, l’organisme de financement que celle-ci a mandaté, l’entité responsable de l’activité ou une autre entité responsable de l’évaluation de projets est favorable à l’encouragement du projet.
 
 <sup>2</sup>
+
+Les participants doivent appartenir à l’une des catégories suivantes:
+
+- a. établissements de recherche du domaine des hautes écoles, établissements de recherche sans but lucratif situés en dehors du domaine des hautes écoles, autres institutions non commerciales;
+- b. entreprises au sens de l’art. 29, al. 1, let. e, LERI.
+
+<sup>3</sup>
 
 Les contributions octroyées pour la participation sur le mode projet par projet peuvent se composer des parts qui seraient versées en cas d’association de la Suisse aux programmes de l’UE pour la recherche et l’innovation:
 
 - a. par l’UE;
 - b. par le SEFRI ou par Innosuisse conformément aux art. 6 et 8.
 
-<sup>3</sup>
-
-Les contributions peuvent être octroyées à des projets:
-
-- a. qui sont réalisés dans le cadre d’un contrat passé entre le requérant et la Commission européenne, l’organisme de financement que celle-ci a mandaté à cet effet ou l’entité responsable de l’activité, et
-- b. qui ne sont pas financés à titre exceptionnel par l’UE au travers de ses programmes pour la recherche et l’innovation.
-
 <sup>4</sup>
 
-Des contributions pour des projets considérés par la Commission européenne, l’organisme de financement que celle-ci a mandaté à cet effet, l’entité responsable de l’activité ou une autre entité responsable de l’évaluation de projets comme pouvant être encouragés peuvent aussi être octroyées sans contrat au sens de l’al. 3, let. a, si l’une des conditions suivantes est remplie:
+Des contributions peuvent être octroyées pour la participation à des projets collaboratifs:
 
-- a aucun contrat au sens de l’al. 3, let. a, n’est conclu du fait que le statut de la Suisse passe de celui d’État associé ou partiellement associé à celui de pays tiers après l’évaluation du projet;
-- b. le contrat au sens de l’al. 3, let. a, devient caduc du fait qu’un projet en cours est transféré d’un État membre de l’UE ou d’un État associé vers une institution suisse alors que la Suisse participe avec le statut d’État tiers;
-- c. la participation à l’activité ne nécessite pas de contrat au sens de l’al. 3, let. a.
+- a. si le contrat passé entre le coordinateur du projet et la Commission européenne, l’organisme de financement que celle-ci a mandaté ou l’entité responsable de l’activité mentionne que le requérant est partenaire associé ou partenaire au projet, ou
+- b. sans contrat au sens de la let. a, si la participation aux activités ne nécessite pas, à titre exceptionnel, un tel contrat.
 
 <sup>5</sup>
 
-Les contributions pour la participation sur le mode projet par projet ne peuvent être octroyées aux partenaires suisses qu’à la condition que les coûts de projet effectifs soient occasionnés en Suisse. Pour les coûts de projet qui ne sont pas occasionnés en Suisse, une prise en charge est possible uniquement dans l’un des cas suivants:
+Des contributions peuvent être octroyées pour la réalisation de projets individuels:
+
+- a. si aucun contrat n’est conclu du fait que le statut de la Suisse passe de celui d’État associé ou partiellement associé à celui de pays tiers après le dépôt du projet, ou
+- b. si un projet est transféré d’un État membre de l’UE ou d’un État associé vers la Suisse alors que la Suisse participe avec le statut d’État tiers.
+
+<sup>6</sup>
+
+Les contributions pour la participation sur le mode projet par projet ne peuvent être octroyées qu’à la condition que les coûts de projet effectifs soient occasionnés en Suisse. Pour les coûts de projet qui ne sont pas occasionnés en Suisse, une prise en charge est possible uniquement dans l’un des cas suivants:
 
 - a. coûts occasionnés dans le cadre de contrats de sous-traitance pour des travaux qui ne peuvent pas être exécutés en Suisse;
 - b. coûts liés à l’utilisation indispensable d’infrastructures de recherche situées hors de Suisse.
+
+<sup>7</sup> Les contributions pour la participation sur le mode projet par projet ne peuvent être octroyées qu’à la condition que le projet individuel ou la participation à un projet collaboratif ne bénéficie pas, à titre exceptionnel, d’un financement dans le cadre des programmes de l’UE pour la recherche et l’innovation.
+
+[^11-1]: Nouvelle teneur selon le ch. I de l’O du 17 août 2022, en vigueur depuis le 15 sept. 2022 ([RO 2022 474](https://fedlex.data.admin.ch/eli/oc/2022/474)).
 
 #### Art. 12
 
 **Calcul de la contribution**
 
-<sup>1</sup> c. coûts de recherche indirects (*overhead*).
+<sup>1</sup>
 
 La contribution correspondant à la part versée par l’UE en cas d’association de la Suisse aux programmes de l’UE pour la recherche et l’innovation peut être octroyée pour les dépenses suivantes:
 
 - a. frais de personnel;
 - b. autres frais dont il est prouvé qu’ils sont occasionnés par la réalisation de travaux de recherche et d’innovation;
+- c. coûts de recherche indirects (*overhead*).
 
 <sup>2</sup> Le calcul des frais de personnel et des coûts de recherche indirects est régi par l’art. 7.
 
-<sup>3</sup> Le SEFRI et Innosuisse peuvent réduire la durée de la contribution ainsi que le montant de la contribution demandés.
+<sup>3</sup> La contribution correspondant à la part versée par le SEFRI ou par Innosuisse au sens de l’art. 6 en cas d’association de la Suisse aux programmes de l’UE pour la recherche et l’innovation est régie par les art. 6 à 8. Elle peut également alimenter un dispositif commun au sens de l’art. 8.[^12-1]
 
-<sup>4</sup>
+<sup>4</sup> Le SEFRI et Innosuisse peuvent réduire la durée et le montant demandés pour la contribution.[^12-2]
 
-Les contributions visées à l’al. 1 ne peuvent excéder les coûts de projet attribués au participant suisse en vertu du contrat passé avec la Commission européenne, l’organisme de financement mandaté par elle ou l’entité responsable de l’activité, compte tenu notamment:
+<sup>5</sup> à <sup>7</sup> ...[^12-3]
 
-- a. du taux de remboursement prévu dans le contrat;
-- b. d’une éventuelle réduction que la Commission européenne, l’organisme de financement mandaté par elle ou l’entité responsable de l’activité aura opérée sur la contribution demandée par l’ensemble des partenaires au projet dans la requête déposée.
-- [tab] <sup>5</sup> Pour les activités ne faisant pas l’objet d’un contrat conformément à l’art. 11, al. 4, let. c, la part est régie par les al. 1 et 2.
+[^12-1]: Nouvelle teneur selon le ch. I de l’O du 17 août 2022, en vigueur depuis le 15 sept. 2022 ([RO 2022 474](https://fedlex.data.admin.ch/eli/oc/2022/474)).
+[^12-2]: Nouvelle teneur selon le ch. I de l’O du 17 août 2022, en vigueur depuis le 15 sept. 2022 ([RO 2022 474](https://fedlex.data.admin.ch/eli/oc/2022/474)).
+[^12-3]: Abrogés par le ch. I de l’O du 17 août 2022, avec effet au 15 sept. 2022 ([RO 2022 474](https://fedlex.data.admin.ch/eli/oc/2022/474)).
 
-<sup>6</sup> La contribution correspondant à la part versée par le SEFRI ou par Innosuisse au sens de l’art. 6 en cas d’association de la Suisse aux programmes de l’UE pour la recherche et l’innovation est régie par les art. 6 à 8. Elle peut inclure des contributions à un dispositif commun au sens de l’art. 8.
+#### Art. 12a
 
-<sup>7</sup>
+**Calcul de la contribution pour les projets collaboratifs**[^12a-1]
 
-Si les requêtes déposées ou attendues excèdent les moyens disponibles, le Département fédéral de l’économie, de la formation et de la recherche établit un ordre de priorité. Celui-ci prend en considération les éléments suivants:
+<sup>1</sup>
+
+Pour les projets collaboratifs, les contributions visées à l’art. 12 ne peuvent excéder les coûts de projet attribués au participant suisse qui sont mentionnés:
+
+- a. dans le contrat passé entre le coordinateur du projet et la Commission européenne, l’organisme de financement que celle-ci a mandaté ou l’entité responsable de l’activité, ou
+- b. dans la proposition de projet évaluée par la Commission européenne, l’organisme de financement que celle-ci a mandaté, l’entité responsable de l’activité ou une autre entité responsable de l’évaluation de projets.
+
+<sup>2</sup>
+
+Pour déterminer le montant maximal de la contribution, il est notamment tenu compte:
+
+- a. du taux de remboursement prévu dans le contrat passé entre le coordinateur du projet et la Commission européenne, l’organisme de financement que celle-ci a mandaté ou l’entité responsable de l’activité;
+- b. d’une éventuelle réduction que la Commission européenne, l’organisme de financement que celle-ci a mandaté ou l’entité responsable de l’activité aura appliquée à la contribution demandée par l’ensemble des partenaires au projet dans la requête déposée.
+
+<sup>3</sup> Pour les projets dont les coûts attribués au participant suisse ne sont pas, à titre exceptionnel, mentionnés dans les documents visés à l’al. 1, let. a ou b, les contributions sont régies par l’art. 12.
+
+[^12a-1]: Introduit par le ch. I de l’O du 17 août 2022, en vigueur depuis le 15 sept. 2022 ([RO 2022 474](https://fedlex.data.admin.ch/eli/oc/2022/474)).
+
+#### Art. 12b
+
+**Calcul de la contribution pour les projets individuels**[^12b-1]
+
+Pour les projets individuels, les contributions visées à l’art. 12 ne peuvent excéder les coûts de projet prévus dans la proposition de projet évaluée par la Commission européenne, l’organisme de financement que celle-ci a mandaté, l’entité responsable de l’activité ou une autre entité responsable de l’évaluation de projets. Les éventuelles réductions prévues dans le rapport d’évaluation sont à prendre en compte.
+
+[^12b-1]: Introduit par le ch. I de l’O du 17 août 2022, en vigueur depuis le 15 sept. 2022 ([RO 2022 474](https://fedlex.data.admin.ch/eli/oc/2022/474)).
+
+#### Art. 12c
+
+**Ordre de priorité**[^12c-1]
+
+Si la somme des montants demandés dans les requêtes déposées ou attendues excède les moyens disponibles, le Département fédéral de l’économie, de la formation et de la recherche établit un ordre de priorité. Celui-ci prend en considération les éléments suivants:
 
 - a. renoncement au financement de certaines activités ou de certains domaines de programme;
 - b. renoncement à l’octroi de la contribution correspondant à la part versée par le SEFRI ou par Innosuisse en cas d’association de la Suisse aux programmes de l’UE pour la recherche et l’innovation conformément aux art. 6 et 8;
-- c. réduction au prorata des coûts de projet et notamment de la contribution *overhead*;
-- d. préférence donnée aux requêtes des établissements de recherche du domaine des hautes écoles, des établissements de recherche sans but lucratif situés en dehors du domaine des hautes écoles et autres institutions non commerciales;
+- c. réduction au prorata des dépenses visées à l’art. 12, al. 1 et notamment de la contribution *overhead*;
+- d. préférence donnée aux requêtes des établissements de recherche du domaine des hautes écoles, des établissements de recherche sans but lucratif situés en dehors du domaine des hautes écoles et d’autres institutions non commerciales;
 - e. préférence donnée aux requêtes des PME plutôt qu’à celles d’autres entreprises.
+
+[^12c-1]: Introduit par le ch. I de l’O du 17 août 2022, en vigueur depuis le 15 sept. 2022 ([RO 2022 474](https://fedlex.data.admin.ch/eli/oc/2022/474)).
 
 #### Art. 13
 
@@ -273,9 +317,11 @@ Si les requêtes déposées ou attendues excèdent les moyens disponibles, le D�
 
 #### Art. 14
 
-**Octroi de contributions aux entités responsables d’activités**
+**Octroi de contributions aux entités responsables d’activités**[^14-1]
 
-Le SEFRI peut octroyer des contributions aux entités responsables d’activités au sens de l’art. 1, al. 1, pour couvrir la part de la Suisse aux coûts de coordination et d’administration qui seraient remboursés par l’UE en cas d’association de la Suisse aux programmes de l’UE pour la recherche et l’innovation.
+Le SEFRI et Innosuisse peuvent octroyer des contributions aux entités responsables d’activités au sens de l’art. 1, al. 1, pour couvrir la part de la Suisse aux coûts de coordination et d’administration qui seraient remboursés par l’UE en cas d’association de la Suisse aux programmes de l’UE pour la recherche et l’innovation.
+
+[^14-1]: Nouvelle teneur selon le ch. I de l’O du 17 août 2022, en vigueur depuis le 15 sept. 2022 ([RO 2022 474](https://fedlex.data.admin.ch/eli/oc/2022/474)).
 
 #### Art. 15
 
@@ -287,7 +333,13 @@ Les art. 3, 4, 5 et 9 s’appliquent même si la Suisse n’est autorisée à pa
 
 #### Art. 16
 
-Les demandes de contributions sont évaluées conformément au droit lié au statut de participation de la Suisse au moment de la date de signature du contrat entre le requérant et la Commission européenne, l’organisme de financement qu’elle a mandaté à cet effet, l’entité responsable de l’activité ou une autre entité responsable de la signature du contrat.
+[^16-1]
+
+<sup>1</sup> Les demandes de contributions sont évaluées conformément au droit lié au statut de participation de la Suisse au moment de la signature des contrats concernant l’appel à projets correspondant par la Commission européenne, l’organisme de financement qu’elle a mandaté, l’entité responsable de l’activité ou une autre entité responsable de la signature des contrats. L’al. 2 demeure réservé.
+
+<sup>2</sup> Si la Suisse passe du statut d’État non associé à celui d’État associé après le dépôt de la requête et que l’UE n’accorde pas de contributions aux participants suisses malgré ce changement de statut, la section 3 s’applique.
+
+[^16-1]: Nouvelle teneur selon le ch. I de l’O du 17 août 2022, en vigueur depuis le 15 sept. 2022 ([RO 2022 474](https://fedlex.data.admin.ch/eli/oc/2022/474)).
 
 ## Section 5 Compétence de conclure des traités internationaux
 
@@ -321,6 +373,14 @@ L’ancien droit continue de s’appliquer dans les cas suivants:
 
 - a. engagements pris par le SEFRI ou par Innosuisse en faveur de projets avant l’entrée en vigueur de la présente ordonnance;
 - b. avenants à des contrats ou décisions relatives aux engagements au sens de la let. a intervenant après l’entrée en vigueur de la présente ordonnance.
+
+#### Art. 19a
+
+**Dispositions transitoires relatives à la modification du 17 août 2022**[^19a-1]
+
+Pour le calcul des contributions liées aux engagements pris par le SEFRI ou par Innosuisse en faveur de projets avant l’entrée en force de la présente modification, le droit en vigueur à la conclusion du contrat s’applique.
+
+[^19a-1]: Introduit par le ch. I de l’O du 17 août 2022, en vigueur depuis le 15 sept. 2022 ([RO 2022 474](https://fedlex.data.admin.ch/eli/oc/2022/474)).
 
 #### Art. 20
 

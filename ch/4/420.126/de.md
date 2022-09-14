@@ -4,11 +4,11 @@ title: Verordnung vom 20. Januar 2021 über die Massnahmen für die Beteiligung 
 short: FIPBV
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/72"
 language: de
-version: 2021-03-01
+version: 2022-09-15
 adopted: 2021-01-20
 in_force: 2021-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/72/20210301/de/xml/fedlex-data-admin-ch-eli-cc-2021-72-20210301-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/72/20210301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/72/20220915/de/xml/fedlex-data-admin-ch-eli-cc-2021-72-20220915-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/72/20220915/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/72/20210301/de"
 
 (FIPBV)
 
-vom 20. Januar 2021 (Stand am 1. März 2021)
+vom 20. Januar 2021 (Stand am 15. September 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -122,7 +122,7 @@ Teilnehmerinnen und Teilnehmer nach Absatz 1 müssen sein:
 
 <sup>1</sup>
 
-Setzen Aktivitäten nach Artikel 1 Absatz 1 staatliche Beiträge an die Teilnehmerinnen und Teilnehmer voraus, so können das SBFI und die Schweizerische Agentur für Innovationsförderung (Innosuisse) für die Beteiligung an diesen Aktivitäten oder für deren Vorbereitung Beiträge entrichten an:
+Setzen Aktivitäten nach Artikel 1 Absatz 1 nationale Beiträge an die Teilnehmerinnen und Teilnehmer voraus, so können das SBFI und die Schweizerische Agentur für Innovationsförderung (Innosuisse) für die Beteiligung an diesen Aktivitäten oder für deren Vorbereitung Beiträge entrichten an:[^6-1]
 
 - a. Hochschulforschungsstätten, nichtkommerzielle Forschungsstätten ausserhalb des Hochschulbereichs und weitere nichtkommerzielle Institutionen;
 - b. Unternehmen im Rahmen von Artikel 29 Absatz 1 Buchstabe e FIFG.
@@ -136,6 +136,8 @@ Die Beiträge werden für die folgenden Kosten ausgerichtet:
 - a. Personalkosten;
 - b. weitere Kosten, die nachweislich für die Vorbereitung oder Durchführung der Forschung und Innovation im Rahmen der Schweizer Teilnahme entstehen;
 - c. indirekte Forschungskosten (Overhead).
+
+[^6-1]: Fassung gemäss Ziff. I der V vom 17. Aug. 2022, in Kraft seit 15. Sept. 2022 ([AS 2022 474](https://fedlex.data.admin.ch/eli/oc/2022/474)).
 
 #### Art. 7
 
@@ -162,11 +164,13 @@ Für Unternehmen sowie nichtkommerzielle Forschungsstätten und Institutionen au
 
 **Zentrale Verwaltung der Beiträge**
 
-<sup>1</sup> Ist für eine Aktivität nach Artikel 1 Absatz 1 auf europäischer Ebene eine zentrale Verwaltung aller Finanzbeiträge vorgesehen, so können das SBFI und die Innosuisse die staatlichen Beiträge nach Artikel 6 Absatz 1 an das gemeinsame Fördergefäss leisten, das der Finanzierung dieser Aktivität dient.
+<sup>1</sup> Ist für eine Aktivität nach Artikel 1 Absatz 1 auf europäischer Ebene eine zentrale Verwaltung aller Finanzbeiträge vorgesehen, so können das SBFI und die Innosuisse die nationalen Beiträge nach Artikel 6 Absatz 1 an das gemeinsame Fördergefäss entrichten, das der Finanzierung dieser Aktivität dient.[^8-1]
 
 <sup>2</sup> Die Beiträge nach Absatz 1 dienen der Deckung des Anteils der Schweiz an Projektkosten, die über das gemeinsame Fördergefäss der jeweiligen Aktivität finanziert werden.
 
 <sup>3</sup> Sie können nur gewährt werden, wenn die Beteiligung an der jeweiligen Aktivität einem grossen Bedürfnis der Schweizer Forschung und Innovation entspricht und nicht durch andere Quellen finanziert werden kann.
+
+[^8-1]: Fassung gemäss Ziff. I der V vom 17. Aug. 2022, in Kraft seit 15. Sept. 2022 ([AS 2022 474](https://fedlex.data.admin.ch/eli/oc/2022/474)).
 
 #### Art. 9
 
@@ -182,49 +186,56 @@ Für Unternehmen sowie nichtkommerzielle Forschungsstätten und Institutionen au
 
 #### Art. 10
 
-**Beiträge zur projektweisen Beteiligung**
+**Beiträge für die projektweise Beteiligung**[^10-1]
 
-Ist die Schweiz zur Teilnahme an den Aktivitäten nach Artikel 1 Absatz 1 als Drittstaat oder als nicht vollständig assoziierter Staat zugelassen, so können das SBFI und die Innosuisse Beiträge zur projektweisen Beteiligung an den Aktivitäten nach Artikel 1 Absatz 1 gewähren.
+Ist die Schweiz zur Teilnahme an den Aktivitäten nach Artikel 1 Absatz 1 als Drittstaat oder als nicht vollständig assoziierter Staat zugelassen, so können das SBFI und die Innosuisse Beiträge für die projektweise Beteiligung an den Aktivitäten nach Artikel 1 Absatz 1 gewähren. Dies gilt für Projekte mit einer Teilnehmerin oder einem Teilnehmer und für solche mit mehreren Teilnehmerinnen oder Teilnehmern (Einzelprojekte bzw. Verbundprojekte).
+
+[^10-1]: Fassung gemäss Ziff. I der V vom 17. Aug. 2022, in Kraft seit 15. Sept. 2022 ([AS 2022 474](https://fedlex.data.admin.ch/eli/oc/2022/474)).
 
 #### Art. 11
 
-**Beitragsvoraussetzungen**
+**Beitragsvoraussetzungen**[^11-1]
 
-<sup>1</sup>
-
-Das SBFI und die Innosuisse können auf Gesuch hin Beiträge für die projektweise Beteiligung gewähren an:
-
-- a. Hochschulforschungsstätten, nichtkommerzielle Forschungsstätten ausserhalb des Hochschulbereichs und weitere nichtkommerzielle Institutionen;
-- b. Unternehmen im Rahmen von Artikel 29 Absatz 1 Buchstabe e FIFG.
+<sup>1</sup> Das SBFI und die Innosuisse können auf Gesuch hin Beiträge für die projektweise Beteiligung gewähren, wenn die Projekte von der Europäischen Kommission, der von der Europäischen Kommission beauftragten Fördereinrichtung, der Trägerschaft der Aktivität oder einer anderen Stelle, die für die Evaluation von Projekten zuständig ist, als förderbar beurteilt wurden.
 
 <sup>2</sup>
+
+Teilnehmerinnen und Teilnehmer müssen sein:
+
+- a. Hochschulforschungsstätten, nichtkommerzielle Forschungsstätten ausser-halb des Hochschulbereichs und weitere nichtkommerzielle Institutionen;
+- b. Unternehmen im Rahmen von Artikel 29 Absatz 1 Buchstabe e FIFG.
+
+<sup>3</sup>
 
 Beiträge für die projektweise Beteiligung können sich zusammensetzen aus den Anteilen, die bei einer Assoziierung der Schweiz an die Programme der EU für Forschung und Innovation gewährt würden:
 
 - a. von der EU;
 - b. vom SBFI oder von der Innosuisse nach den Artikeln 6 und 8.
 
-<sup>3</sup>
-
-Die Beiträge können gewährt werden, wenn die Projekte:
-
-- a. im Rahmen eines Vertrags zwischen der Gesuchstellerin oder dem Gesuchsteller und der Europäischen Kommission, der von der Europäischen Kommission dafür beauftragten Fördereinrichtung oder der Trägerschaft der Aktivität durchgeführt werden; und
-- b. nicht ausnahmsweise von der EU aus den Programmen der EU für Forschung und Innovation finanziert werden.
-
 <sup>4</sup>
 
-Für Projekte, die von der Europäischen Kommission, der von der Europäischen Kommission dafür beauftragten Fördereinrichtung, der Trägerschaft der Aktivität oder einer anderen Stelle, die für die Evaluation von Projekten zuständig ist, als förderbar beurteilt wurden, können Beiträge auch ohne Vertrag nach Absatz 3 Buchstabe a gewährt werden, wenn:
+Beiträge für Beteiligungen an Verbundprojekten können gewährt werden:
 
-- a. nach der Beurteilung des Projekts der Status der Schweiz von assoziiertem oder nicht vollständig assoziiertem Staat zu Drittstaat ändert und ein Vertrag nach Absatz 3 Buchstabe a als Folge der Statusänderung nicht zustande kommt;
-- b. der Vertrag nach Absatz 3 Buchstabe a seine Gültigkeit verliert, weil während der Teilnahme der Schweiz als Drittstaat ein laufendes Projekt aus einem EU-Mitgliedstaat oder einem assoziierten Staat an eine Schweizer Institution transferiert wird; oder
-- c. die Teilnahme an Aktivitäten keinen Vertrag nach Absatz 3 Buchstabe a erfordert.
+- a. wenn die Gesuchstellerin oder der Gesuchsteller als assoziierter Partner oder als Projektpartner im Vertrag zwischen der Projektkoordinatorin oder dem Projektkoordinator und der Europäischen Kommission, der von der Europäischen Kommission beauftragten Fördereinrichtung oder der Trägerschaft der Aktivität aufgeführt ist; oder
+- b. ohne Vertrag nach Buchstabe a, wenn die Teilnahme an Aktivitäten ausnahmsweise keinen solchen Vertrag erfordert.
 
 <sup>5</sup>
 
-Beiträge an Schweizer Projektpartner für die projektweise Beteiligung können nur dann gewährt werden, wenn die effektiven Projektkosten in der Schweiz anfallen. Kosten, die nicht in der Schweiz anfallen, werden nur übernommen, wenn es sich um Kosten handelt:
+Beiträge für Einzelprojekte können gewährt werden, wenn:
+
+- a. nach der Eingabe des Projekts der Status der Schweiz von assoziiertem oder nicht vollständig assoziiertem Staat zu Drittstaat ändert und ein Vertrag als Folge der Statusänderung nicht zustande kommt; oder
+- b. während der Teilnahme der Schweiz als Drittstaat ein Projekt aus einem EU-Mitgliedstaat oder einem assoziierten Staat in die Schweiz transferiert wird.
+
+<sup>6</sup>
+
+Beiträge für die projektweise Beteiligung können nur dann gewährt werden, wenn die effektiven Projektkosten in der Schweiz anfallen. Kosten, die nicht in der Schweiz anfallen, werden nur übernommen, wenn es sich um Kosten handelt:
 
 - a. im Rahmen von Unterverträgen für Arbeiten, die nicht in der Schweiz ausgeführt werden können; oder
 - b. aus der erforderlichen Nutzung von Forschungsinfrastrukturen ausserhalb der Schweiz.
+
+<sup>7</sup> Beiträge für die projektweise Beteiligung können nur dann gewährt werden, wenn das Einzelprojekt oder die Beteiligung an einem Verbundprojekt nicht ausnahmsweise von der EU aus den Programmen der EU für Forschung und Innovation finanziert werden.
+
+[^11-1]: Fassung gemäss Ziff. I der V vom 17. Aug. 2022, in Kraft seit 15. Sept. 2022 ([AS 2022 474](https://fedlex.data.admin.ch/eli/oc/2022/474)).
 
 #### Art. 12
 
@@ -240,28 +251,59 @@ Der Beitrag für den Anteil, der bei einer Assoziierung der Schweiz an die Progr
 
 <sup>2</sup> Für die Bemessung der Personalkosten und der Overheadkosten gilt Artikel 7.
 
-<sup>3</sup> Das SBFI und die Innosuisse können die beantragte Beitragsdauer und die beantragten Kosten kürzen.
+<sup>3</sup> Der Beitrag für den Anteil, der bei einer Assoziierung der Schweiz an die Programme der EU für Forschung und Innovation vom SBFI oder von der Innosuisse nach Artikel 6 gewährt würde, richtet sich nach den Artikeln 6–8. Der Beitrag kann auch an ein gemeinsames Fördergefäss gemäss Artikel 8 entrichtet werden.[^12-1]
 
-<sup>4</sup>
+<sup>4</sup> Das SBFI und die Innosuisse können die beantragte Beitragsdauer und die beantragten Kosten kürzen.[^12-2]
 
-Beiträge nach Absatz 1 entsprechen höchstens den im Vertrag mit der Europäischen Kommission, mit der von der Europäischen Kommission beauftragten Fördereinrichtung oder mit der Trägerschaft der Aktivität vorgesehenen Projektkosten für die Schweizer Projektteilnehmerin oder den Schweizer Projektteilnehmer unter Berücksichtigung namentlich:
+<sup>5–7</sup> …[^12-3]
 
-- a. des im Vertrag festgelegten Erstattungssatzes;
-- b. einer allfälligen Kürzung des bei der Projekteingabe beantragten Beitrags aller Projektpartner durch die Europäische Kommission, durch die von der Europäischen Kommission beauftragte Fördereinrichtung oder durch die Trägerschaft der Aktivität.
+[^12-1]: Fassung gemäss Ziff. I der V vom 17. Aug. 2022, in Kraft seit 15. Sept. 2022 ([AS 2022 474](https://fedlex.data.admin.ch/eli/oc/2022/474)).
+[^12-2]: Fassung gemäss Ziff. I der V vom 17. Aug. 2022, in Kraft seit 15. Sept. 2022 ([AS 2022 474](https://fedlex.data.admin.ch/eli/oc/2022/474)).
+[^12-3]: Aufgehoben durch Ziff. I der V vom 17. Aug. 2022, mit Wirkung seit 15. Sept. 2022 ([AS 2022 474](https://fedlex.data.admin.ch/eli/oc/2022/474)).
 
-<sup>5</sup> Bei den Aktivitäten ohne Vertrag gemäss Artikel 11 Absatz 4 Buchstabe c richtet sich der Anteil nach den Absätzen 1 und 2.
+#### Art. 12a
 
-<sup>6</sup> Der Beitrag für den Anteil, der bei einer Assoziierung der Schweiz an die Programme der EU für Forschung und Innovation vom SBFI oder von der Innosuisse nach Artikel 6 gewährt würde, richtet sich nach den Artikeln 6, 7 und 8. Dies kann Beiträge in ein gemeinsames Fördergefäss gemäss Artikel 8 einschliessen.
+**Beitragsbemessung bei Verbundprojekten**[^12a-1]
 
-<sup>7</sup>
+<sup>1</sup>
 
-Übersteigen die eingereichten oder zu erwartenden Gesuche die verfügbaren Mittel, so erstellt das Departement für Wirtschaft, Bildung und Forschung eine Prioritätenordnung. Diese richtet sich nach den folgenden Kriterien:
+Beiträge nach Artikel 12 entsprechen bei Verbundprojekten höchstens den vorgesehenen Projektkosten für die Schweizer Projektteilnehmerin oder den Schweizer Projektteilnehmer, die aufgeführt sind:
+
+- a. im Vertrag zwischen der Projektkoordinatorin oder dem Projektkoordinator und der Europäischen Kommission, der von der Europäischen Kommission beauftragten Fördereinrichtung oder der Trägerschaft der Aktivität; oder
+- b. in der Projekteingabe, die von der Europäischen Kommission, der von der Europäischen Kommission beauftragten Fördereinrichtung, der Trägerschaft der Aktivität oder einer anderen Stelle, die für die Evaluation von Projekten zuständig ist, evaluiert worden ist.
+
+<sup>2</sup>
+
+Bei der Bestimmung des Höchstbeitrags werden namentlich berücksichtigt:
+
+- a. der im Vertrag zwischen der Projektkoordinatorin oder dem Projektkoordinator und der Europäischen Kommission, der von der Europäischen Kommission beauftragten Fördereinrichtung oder der Trägerschaft der Aktivität festgelegte Erstattungssatz;
+- b. eine allfällige Kürzung des bei der Projekteingabe beantragten Beitrags aller Projektpartner durch die Europäische Kommission, durch die von der Europäischen Kommission beauftragte Fördereinrichtung oder durch die Trägerschaft der Aktivität.
+
+<sup>3</sup> Die Beiträge richten sich nach Artikel 12 bei denjenigen Projekten, bei denen die Projektkosten für die Schweizer Projektteilnehmerin oder den Schweizer Projektteilnehmer ausnahmsweise nicht in den Dokumenten gemäss Absatz 1 Buchstabe a oder b enthalten sind.
+
+[^12a-1]: Eingefügt durch Ziff. I der V vom 17. Aug. 2022, in Kraft seit 15. Sept. 2022 ([AS 2022 474](https://fedlex.data.admin.ch/eli/oc/2022/474)).
+
+#### Art. 12b
+
+**Beitragsbemessung bei Einzelprojekten**[^12b-1]
+
+Beiträge nach Artikel 12 entsprechen bei Einzelprojekten höchstens den vorgesehenen Projektkosten in der Projekteingabe, die von der Europäischen Kommission, der von der Europäischen Kommission beauftragten Fördereinrichtung, der Trägerschaft der Aktivität oder einer anderen Stelle, die für die Evaluation von Projekten zuständig ist, evaluiert worden ist. Allfällige Kürzungen gemäss Evaluationsbericht sind zu berücksichtigen.
+
+[^12b-1]: Eingefügt durch Ziff. I der V vom 17. Aug. 2022, in Kraft seit 15. Sept. 2022 ([AS 2022 474](https://fedlex.data.admin.ch/eli/oc/2022/474)).
+
+#### Art. 12c
+
+**Prioritätenordnung**[^12c-1]
+
+Übersteigen die in den eingereichten oder erwarteten Gesuchen beantragten Beiträge die verfügbaren Mittel, so erstellt das Departement für Wirtschaft, Bildung und Forschung eine Prioritätenordnung. Diese richtet sich nach den folgenden Kriterien:
 
 - a. Verzicht auf die Finanzierung von einzelnen Aktivitäten oder Programmbereichen;
 - b. Verzicht auf die Gewährung des Beitrags für den Anteil, der bei einer Assoziierung der Schweiz an die Programme der EU für Forschung und Innovation vom SBFI oder von der Innosuisse nach den Artikeln 6 und 8 gewährt würde;
-- c. prozentuale Kürzung der Projektkosten, namentlich der Overheadkosten;
+- c. prozentuale Kürzung der Kosten gemäss Artikel 12 Absatz 1, namentlich der Overheadkosten;
 - d. Bevorzugung von Gesuchen von Hochschulforschungsstätten, nichtkommerziellen Forschungsstätten ausserhalb des Hochschulbereichs und weiteren nichtkommerziellen Institutionen;
 - e. Bevorzugung von Gesuchen von KMU gegenüber Gesuchen anderer Unternehmen.
+
+[^12c-1]: Eingefügt durch Ziff. I der V vom 17. Aug. 2022, in Kraft seit 15. Sept. 2022 ([AS 2022 474](https://fedlex.data.admin.ch/eli/oc/2022/474)).
 
 #### Art. 13
 
@@ -277,9 +319,11 @@ Beiträge nach Absatz 1 entsprechen höchstens den im Vertrag mit der Europäisc
 
 #### Art. 14
 
-**Beiträge an Trägerschaften**
+**Beiträge an Trägerschaften**[^14-1]
 
-Das SBFI kann Trägerschaften von Aktivitäten nach Artikel 1 Absatz 1 Beiträge gewähren zur Deckung des Anteils der Schweiz an den Koordinations- und Administrativkosten, die bei einer Assoziierung der Schweiz an die Programme der EU für Forschung und Innovation von der EU vergütet werden.
+Das SBFI und die Innosuisse können Trägerschaften von Aktivitäten nach Artikel 1 Absatz 1 Beiträge gewähren zur Deckung des Anteils der Schweiz an den Koordinations- und Administrativkosten, die bei einer Assoziierung der Schweiz an die Programme der EU für Forschung und Innovation von der EU vergütet werden.
+
+[^14-1]: Fassung gemäss Ziff. I der V vom 17. Aug. 2022, in Kraft seit 15. Sept. 2022 ([AS 2022 474](https://fedlex.data.admin.ch/eli/oc/2022/474)).
 
 #### Art. 15
 
@@ -291,7 +335,13 @@ Die Artikel 3, 4, 5 und 9 gelten auch dann, wenn die Schweiz zur Teilnahme an de
 
 #### Art. 16
 
-Gesuche um Beiträge werden beurteilt nach dem Recht entsprechend dem Schweizer Beteiligungsstatus zum Zeitpunkt der Unterzeichnung des Vertrags zwischen der Gesuchstellerin oder dem Gesuchsteller und der Europäischen Kommission, der von der Europäischen Kommission dafür beauftragten Fördereinrichtung, der Trägerschaft der Aktivität oder einer anderen Stelle, die für die Unterzeichnung des Vertrags zuständig ist.
+[^16-1]
+
+<sup>1</sup> Gesuche um Beiträge werden beurteilt nach dem Recht entsprechend dem Schweizer Beteiligungsstatus zum Zeitpunkt der Unterzeichnung der Verträge der entsprechenden Ausschreibung durch die Europäische Kommission, die von der Europäischen Kommission beauftragte Fördereinrichtung, die Trägerschaft der Aktivität oder durch eine andere Stelle, die für die Unterzeichnung der Verträge zuständig ist. Vorbehalten bleibt Absatz 2.
+
+<sup>2</sup> Wechselt der Status der Schweiz von nichtassoziiertem Staat zu assoziiertem Staat nach der Eingabe des Gesuchs und gewährt die EU trotz dieser Statusänderung keinen Beitrag für die Schweizer Teilnehmerinnen und Teilnehmer, so findet der 3. Abschnitt Anwendung.
+
+[^16-1]: Fassung gemäss Ziff. I der V vom 17. Aug. 2022, in Kraft seit 15. Sept. 2022 ([AS 2022 474](https://fedlex.data.admin.ch/eli/oc/2022/474)).
 
 ## 5. Abschnitt: Kompetenz zum Abschluss völkerrechtlicher Verträge
 
@@ -325,6 +375,14 @@ Das bisherige Recht bleibt anwendbar:
 
 - a. für Förderverhältnisse, die das SBFI oder die Innosuisse vor dem Inkrafttreten dieser Verordnung eingegangen ist;
 - b. für Nachträge zu Verträgen oder Verfügungen zu Förderverhältnissen nach Buchstabe a, die nach Inkrafttreten dieser Verordnung vorgenommen werden.
+
+#### Art. 19a
+
+**Übergangsbestimmung zur Änderung vom 17. August 2022**[^19a-1]
+
+Für die Beitragsbemessung bei bestehenden Förderverhältnissen des SBFI oder der Innosuisse gilt das Recht zum Zeitpunkt des Vertragsabschlusses.
+
+[^19a-1]: Eingefügt durch Ziff. I der V vom 17. Aug. 2022, in Kraft seit 15. Sept. 2022 ([AS 2022 474](https://fedlex.data.admin.ch/eli/oc/2022/474)).
 
 #### Art. 20
 
