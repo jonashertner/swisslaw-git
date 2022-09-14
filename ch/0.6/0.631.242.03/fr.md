@@ -3,41 +3,46 @@ sr: "0.631.242.03"
 title: Convention du 20 mai 1987 relative à la simplification des formalités dans les échanges de marchandises (avec annexes)
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/301_301_301"
 language: fr
-version: 2007-01-01
+version: 2022-09-15
 adopted: 1987-05-20
 in_force: 1988-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/301_301_301/20070101/fr/xml/fedlex-data-admin-ch-eli-cc-1988-301_301_301-20070101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/301_301_301/20070101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/301_301_301/20220915/fr/xml/fedlex-data-admin-ch-eli-cc-1988-301_301_301-20220915-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/301_301_301/20220915/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Convention relative à la simplification des formalités dans les échanges de marchandises
 
-(Etat le 1<sup>er</sup> janvier 2007)0.631.242.03Nicht löschen bitte "[^t-1] " !!
+RO **2016** 4693; FF **2014** 437
 
 Texte original
 
-Conclue le 20 mai 1987 Approuvée par l’Assemblée fédérale le 8 octobre 1987[^t-2] Instrument de ratification déposé par la Suisse le 28 octobre 1987 Entrée en vigueur le 1<sup>er</sup> janvier 1988
+Conclue le 20 mai 1987
 
-(Etat le 1<sup>er</sup> janvier 2007)
+Approuvée par l’Assemblée fédérale le 8 octobre 1987[^t-1]
 
-[^t-1]: [RO 1988 301](https://fedlex.data.admin.ch/eli/oc/1988/301_301_301); [FF 1987 II 1459](https://fedlex.data.admin.ch/eli/fga/1987/2_1437_1459_1218)
-[^t-2]: Art. 1<sup>er</sup> al. 1 let. a de l’AF du 8 oct. 1987 ([RO 1988 300](https://fedlex.data.admin.ch/eli/oc/1988/300_300_300)).
+Instrument de ratification déposé par la Suisse le 28 octobre 1987
 
-La République d’Autriche, la République de Finlande, la République d’Islande, le Royaume de Norvège, le Royaume de Suède et la Confédération suisse, ci‑après dénommés «pays de l’AELE», et la Communauté Economique Européenne, ci‑après dénommée «Communauté»,
+Entrée en vigueur le 1<sup>er</sup> janvier 1988
 
-Considérant les accords de libre échange conclus entre la Communauté et chacun des pays de l’AELE,
+(État le 15 septembre 2022)
 
-Considérant la déclaration commune visant la création d’un espace économique europeen adoptée par les ministres des pays de l’AELE et des Etats membres de la Communauté et par la Commission des Communautés Européennes, à Luxembourg, le 9 avril 1984, et tenant notamment compte de la simplification des formalités aux frontières et des règles d’origine,
+[^t-1]: Art. 1<sup>er</sup> al. 1 let. a de l’AF du 8 oct. 1987 ([RO 1988 300](https://fedlex.data.admin.ch/eli/oc/1988/300_300_300)).
 
-Considérant que, dans le cadre des mesures visant à renforcer le marché intérieur, la Communauté a décidé d’instaurer un document administratif unique pour les échanges intracommunautaires à partir du 1<sup>er</sup> janvier 1988,
+La République d’Autriche, la République de Finlande, la République d’Islande, le Royaume de Norvège, le Royaume de Suède et la Confédération suisse, ci‑après dénommés «pays de l’AELE», et la Communauté Économique Européenne, ci‑après dénommée «Communauté»,
 
-Considérant qu’il y a lieu de simplifier aussi les formalités dans les échanges de marchandises entre la Communauté et les pays de l’AELE eux-mêmes, notamment par la mise en place d’un document administratif unique,
+considérant les accords de libre échange conclus entre la Communauté et chacun des pays de l’AELE,
 
-Considérant qu’aucune disposition de la présente convention ne peut être interprétée comme exonérant les parties contractantes des obligations contractées dans le cadre d’autres accords internationaux,
+considérant la déclaration commune visant la création d’un espace économique europeen adoptée par les ministres des pays de l’AELE et des États membres de la Communauté et par la Commission des Communautés Européennes, à Luxembourg, le 9 avril 1984, et tenant notamment compte de la simplification des formalités aux frontières et des règles d’origine,
 
-Ont décidé de conclure la présente convention:
+considérant que, dans le cadre des mesures visant à renforcer le marché intérieur, la Communauté a décidé d’instaurer un document administratif unique pour les échanges intracommunautaires à partir du 1<sup>er</sup> janvier 1988,
+
+considérant qu’il y a lieu de simplifier aussi les formalités dans les échanges de marchandises entre la Communauté et les pays de l’AELE eux-mêmes, notamment par la mise en place d’un document administratif unique,
+
+considérant qu’aucune disposition de la présente convention ne peut être interprétée comme exonérant les parties contractantes des obligations contractées dans le cadre d’autres accords internationaux,
+
+ont décidé de conclure la présente convention:
 
 ## Généralités
 
@@ -49,7 +54,7 @@ Ont décidé de conclure la présente convention:
 
 <sup>2.</sup> Aux fins de la présente convention, on entend par «pays tiers» tout pays qui n’est pas partie contractante à la présente convention.
 
-<sup>3.</sup> A partir de la date à laquelle l’adhésion d’un pays en tant que nouvelle partie contractante prend effet conformément à l’art. 11<sup>bis</sup>, toute référence aux pays de l’AELE faite dans la convention s’applique mutatis mutandis à ce pays, et ce aux seules fins de la présente convention.
+<sup>3.</sup> À partir de la date à laquelle l’adhésion d’un pays en tant que nouvelle partie contractante prend effet conformément à l’art. 11<sup>bis</sup>, toute référence aux pays de l’AELE faite dans la convention s’applique mutatis mutandis à ce pays, et ce aux seules fins de la présente convention.
 
 [^1-1]: Nouvelle teneur selon l’ac. du 25 sept. 1995, approuvé par l’Ass. féd. le 22 mars 1995 et en vigueur depuis le 1<sup>er</sup> juillet 1994 ([RO 1996 1049](https://fedlex.data.admin.ch/eli/oc/1996/1049_1049_1049)[1960](https://fedlex.data.admin.ch/eli/oc/1996/1960_1960_1960)[1048](https://fedlex.data.admin.ch/eli/oc/1996/1048_1048_1048); [FF 1995 II 1](https://fedlex.data.admin.ch/eli/fga/1995/2_1_1_1)).
 
@@ -144,7 +149,7 @@ Dans les cas visés à l’art. 7, les autorités compétentes s’assurent auta
 
 #### Art. 11
 
-<sup>1.</sup> La commission mixte est responsable de l’administration et de la bonne exécution de la présente convention. A cet effet, elle est informée régulièrement par les parties contractantes de l’expérience acquise dans l’application de la convention, formule des recommandations et, dans les cas prévus au par. 3, arrête des décisions.
+<sup>1.</sup> La commission mixte est responsable de l’administration et de la bonne exécution de la présente convention. À cet effet, elle est informée régulièrement par les parties contractantes de l’expérience acquise dans l’application de la convention, formule des recommandations et, dans les cas prévus au par. 3, arrête des décisions.
 
 <sup>2.</sup>
 
@@ -159,13 +164,13 @@ La commission mixte recommande notamment:
 
 <sup>5.</sup> Les décisions de la commission mixte visées au par. 3 invitant des pays tiers à adhérer à la présente convention sont transmises au Secrétariat général du Conseil des Communautés européennes, qui les communique aux pays tiers concernés avec un texte de la convention en vigueur à cette date[^11-2].
 
-<sup>6.</sup> A partir de la date visée au par. 5, les pays tiers concernés peuvent être représentés par des observateurs au sein de la commission mixte, des sous‑comités et des groupes de travail[^11-3].
+<sup>6.</sup> À partir de la date visée au par. 5, les pays tiers concernés peuvent être représentés par des observateurs au sein de la commission mixte, des sous‑comités et des groupes de travail[^11-3].
 
 [^11-1]: Nouvelle teneur selon l’ac. du 25 sept. 1995, approuvé par l’Ass. féd. le 22 mars 1995 et en vigueur depuis le 1<sup>er</sup> juillet 1994 ([RO 1996 1049](https://fedlex.data.admin.ch/eli/oc/1996/1049_1049_1049)[1960](https://fedlex.data.admin.ch/eli/oc/1996/1960_1960_1960)[1048](https://fedlex.data.admin.ch/eli/oc/1996/1048_1048_1048); [FF 1995 II 1](https://fedlex.data.admin.ch/eli/fga/1995/2_1_1_1)).
 [^11-2]: Introduit par l’ac. du 25 sept. 1995, approuvé par l’Ass. féd. le 22 mars 1995 et en vigueur depuis le 1<sup>er</sup> juillet 1994 ([RO 1996 1049](https://fedlex.data.admin.ch/eli/oc/1996/1049_1049_1049)[1960](https://fedlex.data.admin.ch/eli/oc/1996/1960_1960_1960)[1048](https://fedlex.data.admin.ch/eli/oc/1996/1048_1048_1048); [FF 1995 II 1](https://fedlex.data.admin.ch/eli/fga/1995/2_1_1_1)).
 [^11-3]: Introduit par l’ac. du 25 sept. 1995, approuvé par l’Ass. féd. le 22 mars 1995 et en vigueur depuis le 1<sup>er</sup> juillet 1994 ([RO 1996 1049](https://fedlex.data.admin.ch/eli/oc/1996/1049_1049_1049)[1960](https://fedlex.data.admin.ch/eli/oc/1996/1960_1960_1960)[1048](https://fedlex.data.admin.ch/eli/oc/1996/1048_1048_1048); [FF 1995 II 1](https://fedlex.data.admin.ch/eli/fga/1995/2_1_1_1)).
 
-## Adhésion des pays tiers****
+## Adhésion des pays tiers
 
 [^lvlu5-1]
 
@@ -177,7 +182,7 @@ La commission mixte recommande notamment:
 
 <sup>1.</sup> Tout pays tiers auquel une invitation est adressée à cet effet par le dépositaire de la convention, sur décision de la commission mixte, peut devenir partie contractante à la présente convention.
 
-<sup>2.</sup> Le pays tiers invité devient partie contractante à la présente convention en déposant un instrument d’adhésion auprès du Secrétariat général du Conseil des Communautés européennes. A cet instrument est jointe une traduction de la convention dans la ou les langues officielles du pays tiers adhérent.
+<sup>2.</sup> Le pays tiers invité devient partie contractante à la présente convention en déposant un instrument d’adhésion auprès du Secrétariat général du Conseil des Communautés européennes. À cet instrument est jointe une traduction de la convention dans la ou les langues officielles du pays tiers adhérent.
 
 <sup>3.</sup> L’adhésion prend effet le premier jour du deuxième mois qui suit le dépôt de l’instrument d’adhésion.
 
@@ -231,13 +236,13 @@ Fait à Interlaken, le vingt mai mil neuf cent quatre‑vingt sept.
 
 (Suivent les signatures)
 
-Annexe 1[^t-3]
+Annexe 1[^t-2]
 
-## + Modèles**** de formulaires cités à l’art. 2 de la Convention
+## + Modèles de formulaires cités à l’art. 2 de la Convention
 
 [^annexI-lvlu1-1][^annexI-lvlu1-2]
 
-[^t-3]: Mise à jour selon l'art. 1 ch. 1 de la D n<sup>o</sup> 1/2006 de la Commission mixte CE/AELE du 25 oct. 2006, en vigueur pour la Suisse depuis le 1<sup>er</sup> janv. 2007 (RO **2007** 4115).
+[^t-2]: Mise à jour par l’art. 1 ch. 1 de la D n<sup>o</sup> 1/2006 de la Commission mixte CE/AELE du 25 oct. 2006, en vigueur pour la Suisse depuis le 1<sup>er</sup> janv. 2007 ([RO 2007 4115](https://fedlex.data.admin.ch/eli/oc/2007/547)).
 [^annexI-lvlu1-1]: 
 [^annexI-lvlu1-2]: Les modèles n’étant pas publiés dans le RO, ne figurent pas non plus dans le présent recueil. Ils peuvent être commandés auprès de la Direction générale des douanes, Monbijoustrasse 40, 3003 Berne, http://www.ezv.admin.ch/dienstleistungen/shop/00010/index.html?lang=fr
 
@@ -250,11 +255,11 @@ La présente annexe contient:
 <tr><td>appendice 4:</td><td>le modèle de feuillet complémentaire visé à l’art. 1, par. 2, point b) de l’annexe II.</td></tr>
 </table>
 
-Annexe II*[^t-4]*
+Annexe II[^t-3]
 
 ## Impression, remplissage et utilisation du document unique
 
-[^t-4]: Mise à jour selon la D n<sup>o</sup> 1/89 de la Commission mixte du 3 mai 1989 ([RO 1989 1265](https://fedlex.data.admin.ch/eli/oc/1989/1265_1265_1265)) et l'art. 1 ch. 2 de la D n<sup>o</sup> 1/2006 de la Commission mixte CE/AELE du 25 oct. 2006, en vigueur pour la Suisse depuis le 1<sup>er</sup> janv. 2007 ([RO 2007 4115](https://fedlex.data.admin.ch/eli/oc/2007/547)).
+[^t-3]: Mise à jour par la D n<sup>o</sup> 1/89 de la Commission mixte du 3 mai 1989 ([RO 1989 1265](https://fedlex.data.admin.ch/eli/oc/1989/1265_1265_1265)) et l’art. 1 ch. 2 de la D n<sup>o</sup> 1/2006 de la Commission mixte CE/AELE du 25 oct. 2006, en vigueur pour la Suisse depuis le 1<sup>er</sup> janv. 2007 ([RO 2007 4115](https://fedlex.data.admin.ch/eli/oc/2007/547)).
 
 ### Impression du document unique
 
@@ -522,7 +527,7 @@ Il s’agit des cas où l’intéressé ne souhaite pas utiliser une liasse comp
 
 Diverses combinaisons sont donc possibles en cas d’utilisation fractionnée, les numéros des exemplaires à utiliser étant ceux déjà cités au point 1.
 
-A titre d’exemple, les combinaisons ci‑après sont possibles:
+À titre d’exemple, les combinaisons ci‑après sont possibles:
 
 - – exportation seule: exemplaires n<sup>os</sup> 1, 2 et 3,
 - – exportation + transit: exemplaires n<sup>os</sup> 1, 2, 3, 4, 5 et 7,
@@ -720,7 +725,7 @@ Case à usage facultatif pour les parties contractantes. Indiquer, le cas éché
 
 Case n<sup>o</sup> 28: Données financières et bancaires
 
-Case à usage facultatif pour les parties contractantes (transfert des devises relatif à l’opération considérée). Eléments concernant les formalités et les modalités financières ainsi que les références bancaires.
+Case à usage facultatif pour les parties contractantes (transfert des devises relatif à l’opération considérée). Éléments concernant les formalités et les modalités financières ainsi que les références bancaires.
 
 Case n<sup>o</sup> 29: Bureau de sortie
 
@@ -777,7 +782,7 @@ Case à usage facultatif pour les parties contractantes (références des docume
 
 Case n<sup>o</sup> 41: Unités supplémentaires
 
-A utiliser en tant que de besoin conformément aux indications de la nomenclature des marchandises. Indiquer, pour l’article correspondant, la quantité exprimée dans l’unité prévue dans la nomenclature des marchandises.
+À utiliser en tant que de besoin conformément aux indications de la nomenclature des marchandises. Indiquer, pour l’article correspondant, la quantité exprimée dans l’unité prévue dans la nomenclature des marchandises.
 
 Case n<sup>o</sup> 44: Mentions spéciales; documents produits; certificats et autorisation
 
@@ -899,7 +904,7 @@ Case n<sup>o</sup> 11: Pays de transaction/de production
 
 Case à usage facultatif pour les parties contractantes, selon leurs besoins.
 
-Case n<sup>o</sup> 12: Eléments de la valeur
+Case n<sup>o</sup> 12: Éléments de la valeur
 
 Case à usage facultatif pour les parties contractantes (éléments nécessaires pour le calcul de la valeur en douane, fiscale ou statistique).
 
@@ -1039,7 +1044,7 @@ Case à usage facultatif pour les parties contractantes (références de la déc
 
 Case n<sup>o</sup> 41: Unités supplémentaires
 
-A remplir, en tant que de besoin, conformément aux indications de la nomenclature des marchandises. Indiquer, pour l’article correspondant, la quantité exprimée dans l’unité prévue dans la nomenclature des marchandises.
+À remplir, en tant que de besoin, conformément aux indications de la nomenclature des marchandises. Indiquer, pour l’article correspondant, la quantité exprimée dans l’unité prévue dans la nomenclature des marchandises.
 
 Case n<sup>o</sup> 42: Prix de l’article
 
@@ -1088,7 +1093,7 @@ Sous réserve de dispositions particulières à arrêter en ce qui concerne l’
 ### Remarques relatives aux formulaires complémentaires
 
 <table>
-<tr><td>A.</td><td colspan="2">Les formulaires complémentaires ne doivent être utilisés qu’en cas de déclaration comprenant plusieurs articles (voir case n<sup>o</sup> 5). Ils doivent être présentés conjointement avec un formulaire de document unique.</td></tr>
+<tr><th>A.</th><th colspan="2">Les formulaires complémentaires ne doivent être utilisés qu’en cas de déclaration comprenant plusieurs articles (voir case n<sup>o</sup> 5). Ils doivent être présentés conjointement avec un formulaire de document unique.</th></tr>
 <tr><td>B.</td><td colspan="2">Les remarques visées aux titres 1<sup>er</sup> et II s’appliquent également aux formulaires complémentaires.</td></tr>
 <tr><td></td><td colspan="2">Toutefois:</td></tr>
 <tr><td></td><td>–</td><td>la case n<sup>o</sup> 2/8 est à usage facultatif pour les parties contractantes et ne doit comporter que les nom et prénom et le numéro d’identification éventuel de la personne concernée,</td></tr>
@@ -1111,7 +1116,7 @@ Utiliser le symbole EU pour:
 
 Troisième subdivision:
 
-A utiliser seulement lorsque le formulaire doit être utilisé à des fins de transit.
+À utiliser seulement lorsque le formulaire doit être utilisé à des fins de transit.
 
 Case n<sup>o</sup> 19: Conteneur
 
@@ -1153,4 +1158,22 @@ Dans la Communauté, indiquer les huit chiffres de la nomenclature intégrée. D
 
 Autres subdivisions:
 
-A remplir selon tout autre code spécifique en usage dans la partie contractante concernée (indication à apporter immédiatement après la première subdivision).
+À remplir selon tout autre code spécifique en usage dans la partie contractante concernée (indication à apporter immédiatement après la première subdivision).
+
+Champ d’application le 15 septembre 2022[^t-4]
+
+<table>
+<tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><td>Islande</td><td>28 octobre</td><td>1987</td><td>1<sup>er</sup> janvier</td><td>1988</td></tr>
+<tr><td>Macédoine du Nord</td><td>28 mai</td><td>2015 A</td><td>1<sup>er</sup> juillet</td><td>2015</td></tr>
+<tr><td>Norvège <sup>a</sup></td><td>31 juillet</td><td>1987</td><td>1<sup>er</sup> janvier</td><td>1988</td></tr>
+<tr><td>Royaume-Uni</td><td>30 janvier</td><td>2019 A</td><td>1<sup>er</sup> janvier</td><td>2021</td></tr>
+<tr><td>Serbie</td><td>9 décembre</td><td>2015 A</td><td>1<sup>er</sup> février</td><td>2016</td></tr>
+<tr><td>Suisse <sup>a</sup></td><td>28 octobre</td><td>1987</td><td>1<sup>er</sup> janvier</td><td>1988</td></tr>
+<tr><td>Turquie</td><td>25 octobre</td><td>2012 A</td><td>1<sup>er</sup> décembre</td><td>2012</td></tr>
+<tr><td>Ukraine\*</td><td>31 août</td><td>2022 A</td><td>1<sup>er</sup> octobre</td><td>2022</td></tr>
+<tr><td>Union européenne (UE)</td><td>15 juin</td><td>1987</td><td>1<sup>er</sup> janvier</td><td>1988</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en anglais peuvent être consultés à l’adresse du site Internet du Conseil de l’Union européenne: www.consilium.europa.eu/ &gt; fr &gt; Documents et publications &gt; Effectuer une recherche dans la base de données des Traités et Accords ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Membre de l’AELE.</td></tr>
+</table>
+
+[^t-4]: [RO 2022 519](https://fedlex.data.admin.ch/eli/oc/2022/519). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [https://www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

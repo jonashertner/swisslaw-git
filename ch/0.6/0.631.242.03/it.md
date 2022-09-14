@@ -3,30 +3,24 @@ sr: "0.631.242.03"
 title: Convenzione del 20 maggio 1987 relativa alla semplificazione delle formalità negli scambi di merci (con All.)
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/301_301_301"
 language: it
-version: 2007-01-01
+version: 2022-09-15
 adopted: 1987-05-20
 in_force: 1988-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/301_301_301/20070101/it/xml/fedlex-data-admin-ch-eli-cc-1988-301_301_301-20070101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/301_301_301/20070101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/301_301_301/20220915/it/xml/fedlex-data-admin-ch-eli-cc-1988-301_301_301-20220915-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/301_301_301/20220915/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Convenzione relativa alla semplificazione delle formalità negli scambi di merci****
+# Convenzione relativa alla semplificazione delle formalità negli scambi di merci
 
 RU **1988** 301; FF **1987** II 1218[^t-1]
 
 Testo originale
 
-Conclusa il 20 maggio 1987
+Conclusa il 20 maggio 1987 Approvata dall’Assemblea federale l’8 ottobre 1987[^t-2] Strumento di ratificazione depositato dalla Svizzera il 28 ottobre 1987 Entrata in vigore il 1° gennaio 1988
 
-Approvata dall’Assemblea federale l’8 ottobre 1987[^t-2]
-
-Strumento di ratificazione depositato dalla Svizzera il 28 ottobre 1987
-
-Entrata in vigore il 1° gennaio 1988
-
-(Stato 1° gennaio 2007)
+(Stato 15 settembre 2022)
 
 [^t-1]: La Conv. concerneva originariamente le seguenti Parti contraenti: Comunità economica europea, Repubblica d’Austria, Repubblica di Finlandia, Repubblica d’Islanda, Regno di Norvegia, Regno di Svezia e Confederazione Svizzera. Il 1° gen. 1995, la Repubblica d’Austria, la Repubblica di Finlandia e il Regno di Svezia hanno aderito alle Comunità europee e da tale data non sono più Parti contraenti autonome della Convenzione.
 [^t-2]: Art. 1 cpv. 1 lett. a del DF dell’8 ott. 1987 ([RU 1988 300](https://fedlex.data.admin.ch/eli/oc/1988/300_300_300)).
@@ -57,7 +51,7 @@ hanno deciso di concludere la seguente Convenzione:
 
 <sup>3.</sup> A decorrere dalla data in cui, a norma dell’articolo 11<sup>bis</sup>, un Paese aderisce alla Convenzione come nuova Parte contraente, tutti i riferimenti ai Paesi AELS contenuti nella presente Convenzione si applicano *mutatis mutandis* a questo Paese, unicamente ai fini della convenzione stessa.
 
-[^1-1]: Nuovo testo giusta l’Acc. del 25 set. 1995, approvato dall’Assemblea federale il 22 mar. 1995 e in vigore dal 1° lug. 1994 ([RU 1996 1049](https://fedlex.data.admin.ch/eli/oc/1996/1049_1049_1049)[1960](https://fedlex.data.admin.ch/eli/oc/1996/1960_1960_1960)[1048](https://fedlex.data.admin.ch/eli/oc/1996/1048_1048_1048); [FF 1995 II 1](https://fedlex.data.admin.ch/eli/fga/1995/2_1_1_1)).
+[^1-1]: Nuovo testo giusta l’Acc. del 25 set. 1995, approvato dall’AF il 22 mar. 1995 e in vigore dal 1° lug. 1994 ([RU 1996 1049](https://fedlex.data.admin.ch/eli/oc/1996/1049_1049_1049)[1960](https://fedlex.data.admin.ch/eli/oc/1996/1960_1960_1960)[1048](https://fedlex.data.admin.ch/eli/oc/1996/1048_1048_1048); [FF 1995 II 1](https://fedlex.data.admin.ch/eli/fga/1995/2_1_1_1)).
 
 #### Art. 2
 
@@ -167,15 +161,15 @@ In particolare, il comitato congiunto raccomanda:
 
 <sup>6.</sup> A decorrere dalla data di cui al paragrafo 5, il Paese terzo in questione può essere rappresentato da osservatori nel Comitato congiunto, nei sottocomitati o nei gruppi di lavoro.[^11-3]
 
-[^11-1]: Nuovo testo giusta l’Acc. del 25 set. 1995, approvato dall’Assemblea federale il 22 mar. 1995 e in vigore dal 1° lug. 1994 ([RU 1996 1049](https://fedlex.data.admin.ch/eli/oc/1996/1049_1049_1049)[1960](https://fedlex.data.admin.ch/eli/oc/1996/1960_1960_1960)[1048](https://fedlex.data.admin.ch/eli/oc/1996/1048_1048_1048); [FF 1995 II 1](https://fedlex.data.admin.ch/eli/fga/1995/2_1_1_1)).
-[^11-2]: Introdotto dall’Acc. del 25 set. 1995, approvato dall’Assemblea federale il 22 mar. 1995 e in vigore dal 1° lug. 1994 ([RU 1996 1049](https://fedlex.data.admin.ch/eli/oc/1996/1049_1049_1049)[1960](https://fedlex.data.admin.ch/eli/oc/1996/1960_1960_1960)[1048](https://fedlex.data.admin.ch/eli/oc/1996/1048_1048_1048); [FF 1995 II 1](https://fedlex.data.admin.ch/eli/fga/1995/2_1_1_1)).
-[^11-3]: Introdotto dall’Acc. del 25 set. 1995, approvato dall’Assemblea federale il 22 mar. 1995 e in vigore dal 1° lug. 1994 ([RU 1996 1049](https://fedlex.data.admin.ch/eli/oc/1996/1049_1049_1049)[1960](https://fedlex.data.admin.ch/eli/oc/1996/1960_1960_1960)[1048](https://fedlex.data.admin.ch/eli/oc/1996/1048_1048_1048); [FF 1995 II 1](https://fedlex.data.admin.ch/eli/fga/1995/2_1_1_1)).
+[^11-1]: Nuovo testo giusta l’Acc. del 25 set. 1995, approvato dall’AF il 22 mar. 1995 e in vigore dal 1° lug. 1994 ([RU 1996 1049](https://fedlex.data.admin.ch/eli/oc/1996/1049_1049_1049)[1960](https://fedlex.data.admin.ch/eli/oc/1996/1960_1960_1960)[1048](https://fedlex.data.admin.ch/eli/oc/1996/1048_1048_1048); [FF 1995 II 1](https://fedlex.data.admin.ch/eli/fga/1995/2_1_1_1)).
+[^11-2]: Introdotto dall’Acc. del 25 set. 1995, approvato dall’AF il 22 mar. 1995 e in vigore dal 1° lug. 1994 ([RU 1996 1049](https://fedlex.data.admin.ch/eli/oc/1996/1049_1049_1049)[1960](https://fedlex.data.admin.ch/eli/oc/1996/1960_1960_1960)[1048](https://fedlex.data.admin.ch/eli/oc/1996/1048_1048_1048); [FF 1995 II 1](https://fedlex.data.admin.ch/eli/fga/1995/2_1_1_1)).
+[^11-3]: Introdotto dall’Acc. del 25 set. 1995, approvato dall’AF il 22 mar. 1995 e in vigore dal 1° lug. 1994 ([RU 1996 1049](https://fedlex.data.admin.ch/eli/oc/1996/1049_1049_1049)[1960](https://fedlex.data.admin.ch/eli/oc/1996/1960_1960_1960)[1048](https://fedlex.data.admin.ch/eli/oc/1996/1048_1048_1048); [FF 1995 II 1](https://fedlex.data.admin.ch/eli/fga/1995/2_1_1_1)).
 
-## Adesione dei Paesi terzi****
+## Adesione dei Paesi terzi
 
 [^lvlu5-1]
 
-[^lvlu5-1]: Introdotto dall’Acc. del 25 set. 1995, approvato dall’Assemblea federale il 22 mar. 1995 e in vigore dal 1° lug. 1994 ([RU 1996 1049](https://fedlex.data.admin.ch/eli/oc/1996/1049_1049_1049)[1960](https://fedlex.data.admin.ch/eli/oc/1996/1960_1960_1960)[1048](https://fedlex.data.admin.ch/eli/oc/1996/1048_1048_1048); [FF 1995 II 1](https://fedlex.data.admin.ch/eli/fga/1995/2_1_1_1)).
+[^lvlu5-1]: Introdotto dall’Acc. del 25 set. 1995, approvato dall’AF il 22 mar. 1995 e in vigore dal 1° lug. 1994 ([RU 1996 1049](https://fedlex.data.admin.ch/eli/oc/1996/1049_1049_1049)[1960](https://fedlex.data.admin.ch/eli/oc/1996/1960_1960_1960)[1048](https://fedlex.data.admin.ch/eli/oc/1996/1048_1048_1048); [FF 1995 II 1](https://fedlex.data.admin.ch/eli/fga/1995/2_1_1_1)).
 
 #### Art. 11<sup>bis</sup>
 
@@ -193,7 +187,7 @@ In particolare, il comitato congiunto raccomanda:
 
 L’accettazione di questi atti viene dichiarata nello strumento di adesione o in uno strumento a parte, depositato presso il Segretariato generale del Consiglio delle Comunità europee entro sei mesi dalla comunicazione. Qualora la dichiarazione non venga presentata entro questo termine, l’adesione viene considerata non valida.
 
-[^11bis-1]: Introdotto dall’Acc. del 25 set. 1995, approvato dall’Assemblea federale il 22 mar. 1995 e in vigore dal 1° lug. 1994 ([RU 1996 1049](https://fedlex.data.admin.ch/eli/oc/1996/1049_1049_1049)[1960](https://fedlex.data.admin.ch/eli/oc/1996/1960_1960_1960)[1048](https://fedlex.data.admin.ch/eli/oc/1996/1048_1048_1048); [FF 1995 II 1](https://fedlex.data.admin.ch/eli/fga/1995/2_1_1_1)).
+[^11bis-1]: Introdotto dall’Acc. del 25 set. 1995, approvato dall’AF il 22 mar. 1995 e in vigore dal 1° lug. 1994 ([RU 1996 1049](https://fedlex.data.admin.ch/eli/oc/1996/1049_1049_1049)[1960](https://fedlex.data.admin.ch/eli/oc/1996/1960_1960_1960)[1048](https://fedlex.data.admin.ch/eli/oc/1996/1048_1048_1048); [FF 1995 II 1](https://fedlex.data.admin.ch/eli/fga/1995/2_1_1_1)).
 
 ## Disposizioni finali
 
@@ -237,7 +231,7 @@ Fatto a Interlaken, il 20 maggio dell’anno millenovecentottantasette.
 
 (Seguono le firme)
 
-Allegato I*[^t-3]*
+Allegato I[^t-3]
 
 ## Modelli di formulari citati nell’articolo 2 della convenzione
 
@@ -255,7 +249,7 @@ Appendice 4: modello di foglio aggiuntivo di cui all’allegato II articolo 1 pa
 
 [^annexI-lvlu1-1]: Questi moduli non sono pubblicati nella RU. Possono essere ottenuti presso la Direzione generale delle dogane, sezione Materiale e stampati, Monbijoustrasse 40, 3003 Berna, http://www.ezv.admin.ch/dienstleistungen/shop/00010/index.html?lang=it
 
-Allegato II*[^t-4]*
+Allegato II[^t-4]
 
 ## Stampa, compilazione ed uso del documento unico
 
@@ -1101,7 +1095,7 @@ Fatte salve le disposizioni specifiche da adottare in materia di ricorso all’i
 
 - C. In caso di ricorso ai fogli aggiuntivi, le caselle «designazione delle merci» non utilizzate devono essere annullate in modo da impedire qualsiasi ulteriore impiego.
 
-Allegato III*[^t-5]*
+Allegato III[^t-5]
 
 ## Codici da utilizzare per la compilazione del documento unico
 
@@ -1169,3 +1163,21 @@ Per quanto riguarda il transito e qualora lo preveda la convenzione relativa a u
 Altre suddivisioni
 
 Da completare conformemente ad eventuali altri codici specifici delle parti contraenti (da riportare iniziando immediatamente dopo la prima suddivisione).
+
+Campo d’applicazione il 15 settembre 2022[^t-6]
+
+<table>
+<tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><td>Islanda <sup>a</sup></td><td>28 ottobre</td><td>1987</td><td>1° gennaio</td><td>1988</td></tr>
+<tr><td>Macedonia del Nord</td><td>28 maggio</td><td>2015 A</td><td>1° luglio</td><td>2015</td></tr>
+<tr><td>Norvegia <sup>a</sup></td><td>31 luglio</td><td>1987</td><td>1° gennaio</td><td>1988</td></tr>
+<tr><td>Regno Unito</td><td>30 gennaio</td><td>2019 A</td><td>1° gennaio</td><td>2021</td></tr>
+<tr><td>Serbia</td><td>9 dicembre</td><td>2015 A</td><td>1° febbraio</td><td>2016</td></tr>
+<tr><td>Svizzera <sup>a</sup></td><td>28 ottobre</td><td>1987</td><td>1° gennaio</td><td>1988</td></tr>
+<tr><td>Turchia</td><td>25 ottobre</td><td>2012 A</td><td>1° dicembre</td><td>2012</td></tr>
+<tr><td>Ucraina\*</td><td>31 agosto</td><td>2022 A</td><td>1° ottobre</td><td>2022</td></tr>
+<tr><td>Unione europea (UE)</td><td>15 giugno</td><td>1987</td><td>1° gennaio</td><td>1988</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. Il testo in inglese può essere consultato sul sito Internet del Consiglio dell’Unione europea: [https://www.consilium.europa.eu/it/documents-publications/treaties-agreements/agreement/?id=1987015&DocLanguage=en](https://www.consilium.europa.eu/it/documents-publications/treaties-agreements/agreement/?id=1987015&DocLanguage=en) oppure essere richiesto alla Direzione del diritto internazionale pubblico (DDIP), Sezione dei trattati internazionali, 3003 Berna. <sup>a</sup> Membro dell’AELS.</td></tr>
+</table>
+
+[^t-6]: [RU 2022 519](https://fedlex.data.admin.ch/eli/oc/2022/519). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: https://www.fedlex.admin.ch/it/treaty.

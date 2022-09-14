@@ -3,16 +3,16 @@ sr: "0.631.242.03"
 title: Übereinkommen vom 20. Mai 1987 zur Vereinfachung der Förmlichkeiten im Warenverkehr (mit Anhängen)
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/301_301_301"
 language: de
-version: 2007-01-01
+version: 2022-09-15
 adopted: 1987-05-20
 in_force: 1988-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/301_301_301/20070101/de/xml/fedlex-data-admin-ch-eli-cc-1988-301_301_301-20070101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/301_301_301/20070101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/301_301_301/20220915/de/xml/fedlex-data-admin-ch-eli-cc-1988-301_301_301-20220915-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/301_301_301/20220915/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Übereinkommen zur Vereinfachung der Förmlichkeiten im Warenverkehr****
+# Übereinkommen zur Vereinfachung der Förmlichkeiten im Warenverkehr
 
 AS **1988** 301; BBl **1987** II 1437[^t-1]
 
@@ -20,7 +20,7 @@ Originaltext
 
 Abgeschlossen am 20. Mai 1987 Von der Bundesversammlung genehmigt am 8. Oktober 1987[^t-2] Schweizerische Ratifikationsurkunde hinterlegt am 28. Oktober 1987 In Kraft getreten am 1. Januar 1988
 
-(Stand am 1. Januar 2007)
+(Stand am 15. September 2022)
 
 [^t-1]: Das Übereink. umfasste ursprünglich folgende Vertragsparteien: Europäische Wirtschaftsgemeinschaft, Republik Österreich, Republik Finnland, Republik Island, Königreich Norwegen, Königreich Schweden und Schweizerische Eidgenossenschaft. Die Republik Österreich, die Republik Finnland und das Königreich Schweden sind am 1. Jan. 1995 den Europäischen Gemeinschaften beigetreten und sind seither nicht mehr selbständige Vertragsparteien des Übereink.
 [^t-2]: Art. 1 Abs. 1 Bst. a des BB vom 8. Okt. 1987 ([AS 1988 300](https://fedlex.data.admin.ch/eli/oc/1988/300_300_300)).
@@ -163,7 +163,7 @@ Der Gemischte Ausschuss empfiehlt insbesondere:
 [^11-2]: Eingefügt durch Abk. vom 25. Sept. 1995, von der BVers genehmigt am 22. März 1995 und in Kraft getreten mit Wirkung ab 1. Juli 1994 ([AS 1996 1049](https://fedlex.data.admin.ch/eli/oc/1996/1049_1049_1049)[1960](https://fedlex.data.admin.ch/eli/oc/1996/1960_1960_1960)[1048](https://fedlex.data.admin.ch/eli/oc/1996/1048_1048_1048), [BBl 1995 II 1](https://fedlex.data.admin.ch/eli/fga/1995/2_1_1_1)).
 [^11-3]: Eingefügt durch Abk. vom 25. Sept. 1995, von der BVers genehmigt am 22. März 1995 und in Kraft getreten mit Wirkung ab 1. Juli 1994 ([AS 1996 1049](https://fedlex.data.admin.ch/eli/oc/1996/1049_1049_1049)[1960](https://fedlex.data.admin.ch/eli/oc/1996/1960_1960_1960)[1048](https://fedlex.data.admin.ch/eli/oc/1996/1048_1048_1048), [BBl 1995 II 1](https://fedlex.data.admin.ch/eli/fga/1995/2_1_1_1)).
 
-## Beitritt von Drittländern****
+## Beitritt von Drittländern
 
 [^lvlu5-1]
 
@@ -229,7 +229,7 @@ Geschehen zu Interlaken am zwanzigsten Mai neunzehnhundertsiebenundachtzig.
 
 (Es folgen die Unterschriften)
 
-Anhang I*[^t-3]*
+Anhang I[^t-3]
 
 ## Muster nach Artikel 2 des Übereinkommens
 
@@ -247,7 +247,7 @@ Anlage 4: das Muster des Vordrucks der Ergänzungsblätter nach Artikel 1 Absatz
 
 [^annexI-lvlu1-1]: Die Formulare werden in der SR nicht mehr publiziert. Sie können bestellt werden bei der Eidg. Oberzolldirektion, Sektion Material und Drucksachen, Monbijoustrasse 40, 3003 Bern, http://www.ezv.admin.ch/dienstleistungen/shop/00010/index.html?lang=de
 
-Anhang II*[^t-4]*
+Anhang II[^t-4]
 
 ## Druck, Ausfüllen und Verwendung des Einheitspapiers
 
@@ -1094,7 +1094,7 @@ Jedoch
 
 C. Bei Verwendung von Ergänzungsvordrucken sind die nicht verwendeten Felder «Warenbezeichnung» so durchzustreichen, dass jede spätere Benutzung ausgeschlossen ist.
 
-Anhang III*[^t-5]*
+Anhang III[^t-5]
 
 ## Beim Ausfüllen der Vordrucke des Einheitspapiers zu verwendende Codes
 
@@ -1165,3 +1165,21 @@ Weitere Unterteilungen:
 Auszufüllen nach Massgabe etwaiger spezifischer Codes der Vertragsparteien.
 
 (Die Angabe sollte unmittelbar hinter der ersten Unterteilung beginnen.)
+
+Geltungsbereich am 15. September 2022[^t-6]
+
+<table>
+<tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
+<tr><td>Europäische Union (EU)</td><td>15. Juni</td><td>1987</td><td>1. Januar</td><td>1988</td></tr>
+<tr><td>Island <sup>a</sup></td><td>28. Oktober</td><td>1987</td><td>1. Januar</td><td>1988</td></tr>
+<tr><td>Nordmazedonien</td><td>28. Mai</td><td>2015 B</td><td>1. Juli</td><td>2015</td></tr>
+<tr><td>Norwegen <sup>a</sup></td><td>31. Juli</td><td>1987</td><td>1. Januar</td><td>1988</td></tr>
+<tr><td>Schweiz <sup>a</sup></td><td>28. Oktober</td><td>1987</td><td>1. Januar</td><td>1988</td></tr>
+<tr><td>Serbien</td><td>9. Dezember</td><td>2015 B</td><td>1. Februar</td><td>2016</td></tr>
+<tr><td>Türkei</td><td>25. Oktober</td><td>2012 B</td><td>1. Dezember</td><td>2012</td></tr>
+<tr><td>Ukraine\*</td><td>31. August</td><td>2022 B</td><td>1. Oktober</td><td>2022</td></tr>
+<tr><td>Vereinigtes Königreich</td><td>30. Januar</td><td>2019 B</td><td>1. Januar</td><td>2021</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Der englische Text kann kann auf der Internetseite des Rates der Europäischen Union: https://www.consilium.europa.eu/de/documents-publications/treaties-agreements/agreement/?id=1987015&DocLanguage=en eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden. <sup>a</sup> Mitglied der EFTA.</td></tr>
+</table>
+
+[^t-6]: [AS 2022 519](https://fedlex.data.admin.ch/eli/oc/2022/519). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht https://www.fedlex.admin.ch/de/treaty.
