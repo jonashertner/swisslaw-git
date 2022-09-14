@@ -4,11 +4,11 @@ title: "Ordinanza del 4 giugno 2010 sulle lingue nazionali e la comprensione tra
 short: OLing
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/355"
 language: it
-version: 2022-07-01
+version: 2022-09-15
 adopted: 2010-06-04
 in_force: 2010-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/355/20220701/it/xml/fedlex-data-admin-ch-eli-cc-2010-355-20220701-it-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/355/20220701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/355/20220915/it/xml/fedlex-data-admin-ch-eli-cc-2010-355-20220915-it-xml-12.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/355/20220915/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/355/20220701/it"
 
 (Ordinanza sulle lingue, OLing)
 
-del 4 giugno 2010 (Stato 1° luglio 2022)
+del 4 giugno 2010 (Stato 15 settembre 2022)
 
 Il Consiglio federale svizzero,
 
@@ -35,7 +35,7 @@ ordina:
 
 ### (art. 4 cpv. 2 LLing)
 
-L’unità dell’Amministrazione federale che, nei casi di cui all’articolo 4 capoverso 2 LLing, prepara la definizione di obiettivi strategici o la conclusione di un accordo di prestazioni o di uno strumento analogo con un’organizzazione o una persona attiva a livello nazionale, esamina se
+L’unità dell’Amministrazione federale che, nei casi di cui all’articolo 4 capoverso 2 LLing, prepara la definizione di obiettivi strategici o la conclusione di un accordo di prestazioni o di uno strumento analogo con un’organizzazione o una persona attiva a livello nazionale, esamina se:
 
 - a. sia necessario inserire negli obiettivi strategici o negli strumenti criteri od obiettivi corrispondenti alle esigenze della sezione 2 LLing;
 - b. sia necessario dichiarare applicabili mediante ordinanza disposizioni della sezione 2 LLing.
@@ -226,128 +226,121 @@ Il delegato federale al plurilinguismo ha segnatamente i compiti seguenti:
 
 #### Art. 9
 
-**Scambi in ambito scolastico**
+**Scambi in ambito scolastico**[^9-1]
 
 ### (art. 14 LLing)
 
-<sup>1</sup>
+Per promuovere gli scambi in ambito scolastico sono concessi aiuti finanziari alla Fondazione svizzera per la promozione degli scambi e della mobilità Movetia per:
 
-Per promuovere gli scambi in ambito scolastico sono concessi aiuti finanziari alle organizzazioni che adempiono le condizioni seguenti:
+- a. lo sviluppo e lo svolgimento di programmi per la promozione degli scambi scolastici;
+- b. la consulenza, l’accompagnamento e il sostegno di progetti di scambio;
+- c. la documentazione, la valutazione e l’informazione in merito alle offerte e alle attività di scambio.
 
-- a. mirano a promuovere gli scambi nazionali e internazionali di allievi e docenti di tutti i livelli scolastici nell’intento di migliorarne la competenza nelle lingue nazionali;
-- b. sono state costituite dai Cantoni;
-- c. sono attive a livello nazionale.
-
-<sup>2</sup>
-
-Gli aiuti finanziari sono concessi per:
-
-- a. servizi di base a livello nazionale e regionale;
-- b. progetti d’importanza nazionale volti a promuovere la comprensione e la diversità linguistica.
-
-<sup>3</sup>
-
-Sono considerati servizi di base in particolare:
-
-- a. la creazione e il mantenimento di una rete di scambi;
-- b. la consulenza e l’assistenza per progetti di scambio;
-- c. l’intermediazione di partenariati di scambio;
-- d. la realizzazione e la valutazione di progetti di scambio propri;
-- e. le pubblicazioni, l’elaborazione di sussidi didattici e la documentazione;
-- f. la formazione e il perfezionamento delle persone che lavorano nelle scuole e nell’amministrazione a favore degli scambi.
+[^9-1]: Nuovo testo giusta il n. I dell’O del 24 ago. 2022, in vigore dal 15 set. 2022 ([RU 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
 #### Art. 10
 
-**Promozione delle lingue nazionali nell’insegnamento**
+**Lingue nazionali nell’insegnamento**
 
 ### (art. 16 lett. a e b LLing)
 
+[^10-1]
+
 Per promuovere le lingue nazionali nell’insegnamento sono concessi aiuti finanziari ai Cantoni per:
 
-- a. progetti innovativi di sviluppo di piani e sussidi didattici per l’insegnamento di una seconda e di una terza lingua nazionale;
+- a.[^10-2] progetti per lo sviluppo di piani e sussidi didattici per l’insegnamento di una seconda e di una terza lingua nazionale che hanno carattere innovativo o presentano un legame con gli obiettivi comuni della Confederazione e dei Cantoni in materia di politica della formazione;
 - b. progetti di promozione dell’apprendimento di una lingua nazionale attraverso un insegnamento bilingue;
 - c. la promozione della conoscenza della lingua nazionale locale da parte degli alloglotti prima della scuola elementare.
 
+[^10-1]: Nuovo testo giusta il n. I dell’O del 24 ago. 2022, in vigore dal 15 set. 2022 ([RU 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
+[^10-2]: Nuovo testo giusta il n. I dell’O del 24 ago. 2022, in vigore dal 15 set. 2022 ([RU 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
+
 #### Art. 11
 
-**Promozione della conoscenza della loro prima lingua da parte degli alloglotti**
+**Conoscenza della loro prima lingua da parte degli alloglotti**[^11-1]
 
 ### (art. 16 lett. c LLing)
 
-Per promuovere la conoscenza della loro prima lingua da parte degli alloglotti sono concessi aiuti finanziari ai Cantoni per le misure che adottano a favore:
+Per promuovere la conoscenza della loro prima lingua da parte degli alloglotti sono concessi aiuti finanziari ai Cantoni per:
 
-- a. del promovimento di piani d’insegnamento integrato nella lingua e cultura d’origine;
-- b. del perfezionamento dei docenti;
-- c. dello sviluppo di sussidi didattici.
+- a. lo sviluppo di piani d’insegnamento integrato nella lingua e cultura d’origine;
+- b. il perfezionamento dei docenti;
+- c. lo sviluppo di sussidi didattici.
+
+[^11-1]: Nuovo testo giusta il n. I dell’O del 24 ago. 2022, in vigore dal 15 set. 2022 ([RU 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
 #### Art. 12
 
-**Centro di competenza scientifico per la promozione del plurilinguismo**
+**Centro di competenza scientifico per la promozione del plurilinguismo**[^12-1]
 
 ### (art. 17 LLing)
 
-<sup>1</sup> Sono concessi aiuti finanziari all’Istituto di plurilinguismo dell’Università di Friburgo e dell’Alta Scuola Pedagogica di Friburgo (Istituto) per i suoi servizi di base nella ricerca applicata nel campo delle lingue e del plurilinguismo.
+<sup>1</sup>
 
-<sup>2</sup> L’Ufficio federale della cultura (UFC) conclude con l’Istituto un accordo di prestazioni e vi definisce un mandato di ricerca.
+Per promuovere la ricerca applicata nel campo delle lingue e del plurilinguismo sono concessi aiuti finanziari all’Istituto di plurilinguismo dell’Università di Friburgo e dell’Alta Scuola Pedagogica di Friburgo per:
 
-<sup>3</sup>
+- a. il coordinamento, la direzione e lo svolgimento della ricerca;
+- b. la gestione di un centro di documentazione;
+- c. la gestione di una rete nazionale di ricerca;
+- d. la collaborazione in reti di ricerca e organizzazioni scientifiche internazionali.
 
-Sono considerati servizi di base in particolare:
+<sup>2</sup> L’Ufficio federale della cultura (UFC) conclude un accordo di prestazioni con l’Istituto di plurilinguismo.
 
-- a. il coordinamento, la direzione e l’attuazione del mandato di ricerca;
-- b. la creazione e la gestione di un centro di documentazione;
-- c. pubblicazioni concernenti il plurilinguismo;
-- d. l’assistenza in merito a prassi d’insegnamento e la loro valutazione;
-- e. la collaborazione a reti di ricerca nazionali e internazionali e la partecipazione all’attività di organizzazioni scientifiche.
-
-<sup>4</sup>
-
-Gli aiuti finanziari presuppongono che l’Istituto:
-
-- a. sviluppi e gestisca una rete che coinvolge istituzioni di ricerca di tutte le regioni linguistiche del Paese attive nella ricerca applicata sul plurilinguismo, assumendo una funzione direttiva quale centro di competenza scientifico;
-- b. realizzi progetti propri, per quanto l’accordo di prestazioni lo preveda;
-- c. realizzi progetti su mandato di servizi federali che non rientrano nel mandato di ricerca nonché progetti su mandato di Cantoni o di terzi solo se il mandante partecipa adeguatamente alle spese.
+[^12-1]: Nuovo testo giusta il n. I dell’O del 24 ago. 2022, in vigore dal 15 set. 2022 ([RU 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
 #### Art. 13
 
-**Sostegno ad agenzie di stampa**
+**Sostegno ad agenzie di stampa**[^13-1]
 
 ### (art. 18 lett. a LLing)
 
-<sup>1</sup>
+Possono essere concessi aiuti finanziari ad agenzie di stampa d’importanza nazionale se informano regolarmente in almeno tre lingue nazionali su temi di politica delle lingue, delle culture e della comprensione da tutte e quattro le regioni linguistiche.
 
-Possono essere concessi aiuti finanziari ad agenzie di stampa d’importanza nazionale che:
-
-- a. si sono assegnate un mandato di politica della comprensione e lo adempiono; e
-- b. informano su temi di politica delle lingue, delle culture e della comprensione da tutte e quattro le regioni linguistiche.
-
-<sup>2</sup> Un’agenzia di stampa è d’importanza nazionale se pubblica regolarmente informa-zioni in almeno tre lingue nazionali.
+[^13-1]: Nuovo testo giusta il n. I dell’O del 24 ago. 2022, in vigore dal 15 set. 2022 ([RU 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
 #### Art. 14
 
-**Sostegno a organizzazioni e istituzioni**
+**Sostegno a organizzazioni e istituzioni**[^14-1]
 
 ### (art. 18 lett. b LLing)
 
 <sup>1</sup>
 
-Possono essere concessi aiuti finanziari a organizzazioni e istituzioni a scopo non lucrativo d’importanza nazionale la cui attività concerne almeno un’intera regione linguistica e che forniscono nuovi impulsi in almeno tre dei seguenti settori:
+Per la promozione della comprensione tra le comunità linguistiche possono essere concessi aiuti finanziari a organizzazioni e istituzioni per:
 
-- a. promozione della convivenza tra le comunità linguistiche e dell’incontro tra le culture del Paese;
-- b. promozione della conservazione e della diffusione delle lingue e culture nazionali;
-- c. promozione dell’interesse per la creazione letteraria in Svizzera al di là dei confini linguistici;
-- d. approfondimento del tema dell’apprendimento delle lingue e pubblicazione di lavori in merito;
-- e. sensibilizzazione della popolazione sul plurilinguismo individuale e sociale e mediazione tra le comunità linguistiche;
-- f. realizzazione di lavori fondamentali per la salvaguardia e la promozione di lingue non territoriali riconosciute ufficialmente dalla Confederazione.
+- a.
+
+  attività utili alla sensibilizzazione della popolazione sul plurilinguismo che:
+
+  - 1\. promuovono la pratica, la consapevolezza e la valorizzazione del plurilinguismo, e
+  - 2\. rendono possibile la partecipazione ad attività culturali plurilingui;
+
+- b.
+
+  attività utili alla creazione di reti di attori impegnati a favore della comprensione tra le comunità linguistiche che:
+
+  - 1\. promuovono lo scambio di sapere e di esperienze, e
+  - 2\. stabiliscono e curano la collaborazione.
 
 <sup>2</sup>
 
+Le organizzazioni e le istituzioni devono adempiere le seguenti condizioni:
+
+- a. essere attive in almeno due regioni linguistiche;
+- b. non perseguire uno scopo lucrativo;
+- c. esercitare da almeno tre anni attività di sensibilizzazione o creazione di reti ai sensi del capoverso 1.
+
+<sup>3</sup>
+
 L’ammontare degli aiuti finanziari è stabilito in base:
 
-- a. alla struttura e alla grandezza dell’organizzazione o dell’istituzione;
-- b. al tipo e all’importanza dell’attività o di un progetto;
-- c. alla qualità e all’efficacia delle misure;
-- d. alle prestazioni proprie e ai contributi di terzi.
+- a. al tipo e all’importanza delle attività;
+- b. alla qualità e all’efficacia delle attività;
+- c. alle prestazioni proprie e ai contributi di terzi.
+
+<sup>4</sup> Gli aiuti finanziari ammontano al massimo al 50 per cento dei costi che l’organizzazione o istituzione sostiene per l’esercizio delle attività. Il lavoro prestato a titolo volontario può essere conteggiato come prestazione propria nella misura di al massimo il 10 per cento di tali costi.
+
+[^14-1]: Nuovo testo giusta il n. I dell’O del 24 ago. 2022, in vigore dal 15 set. 2022 ([RU 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
 #### Art. 15
 
@@ -355,7 +348,7 @@ L’ammontare degli aiuti finanziari è stabilito in base:
 
 ### (art. 18 lett. c LLing)
 
-<sup>1</sup> Possono essere concessi aiuti finanziari a enti pubblici per progetti che concernono almeno due dei settori di cui all’articolo 14 capoverso 1.
+<sup>1</sup> Possono essere concessi aiuti finanziari a enti pubblici per progetti utili alla sensibilizzazione o alla creazione di reti ai sensi dell’articolo 14 capoverso 1.[^15-1]
 
 <sup>2</sup>
 
@@ -364,6 +357,8 @@ L’ammontare degli aiuti finanziari è stabilito in base:
 - a. al tipo e all’importanza dell’attività o di un progetto;
 - b. alla qualità e all’efficacia del progetto;
 - c. alle prestazioni proprie e ai contributi di terzi.
+
+[^15-1]: Nuovo testo giusta il n. I dell’O del 24 ago. 2022, in vigore dal 15 set. 2022 ([RU 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
 #### Art. 16
 
@@ -393,10 +388,10 @@ Le organizzazioni e istituzioni devono adempiere le seguenti condizioni:
 
 <sup>1</sup>
 
-Per promuovere il plurilinguismo nelle autorità e nelle amministrazioni cantonali sono concessi ai Cantoni plurilingui aiuti finanziari per l’adempimento dei loro compiti speciali, in particolare per:
+Per promuovere il plurilinguismo nelle autorità e nelle amministrazioni cantonali e comunali sono concessi aiuti finanziari ai Cantoni plurilingui per l’adempimento dei loro compiti speciali, in particolare per:[^17-1]
 
 - a. servizi di traduzione e terminologia a favore della comunicazione intracantonale e intercantonale;
-- b. la formazione e il perfezionamento linguistico e professionale del personale cantonale per le questioni concernenti il plurilinguismo;
+- b.[^17-2] la formazione e il perfezionamento linguistico e professionale del personale delle amministrazioni per le questioni concernenti il plurilinguismo;
 - c. progetti di sensibilizzazione del pubblico sul plurilinguismo.
 
 <sup>2</sup>
@@ -407,29 +402,30 @@ Per promuovere il plurilinguismo nel settore dell’istruzione sono concessi ai 
 - b. la formazione e il perfezionamento linguistico dei docenti;
 - c. progetti di promozione dell’apprendimento di una lingua nazionale attraverso un insegnamento bilingue a tutti i livelli scolastici;
 - d. progetti di promozione della frequenza di lezioni in un’altra lingua ufficiale del Cantone a tutti i livelli scolastici;
-- e. progetti di promozione dell’apprendimento in rete (e-learning).
+- e.[^17-3] ...
+
+[^17-1]: Nuovo testo giusta il n. I dell’O del 24 ago. 2022, in vigore dal 15 set. 2022 ([RU 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
+[^17-2]: Nuovo testo giusta il n. I dell’O del 24 ago. 2022, in vigore dal 15 set. 2022 ([RU 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
+[^17-3]: Abrogata dal n. I dell’O del 24 ago. 2022, con effetto dal 15 set. 2022 ([RU 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
 ## Sezione 4: Salvaguardia e promozione delle lingue e culture romancia e italiana nel Cantone dei Grigioni
 
 #### Art. 18
 
-**Misure generali nel Cantone dei Grigioni**
+**Misure generali nel Cantone dei Grigioni**[^18-1]
 
-### (art. 22 cpv. 1 lett. a LLing)
+### (art. 22 cpv. 1 lett a LLing)
 
-Per salvaguardare e promuovere le lingue e culture romancia e italiana sono concessi aiuti finanziari al Cantone dei Grigioni in particolare per:
+Per salvaguardare e promuovere le lingue e culture romancia e italiana sono concessi aiuti finanziari al Cantone dei Grigioni al fine di sostenere misure cantonali nei seguenti settori:
 
-- a.
+- a. insegnamento delle lingue nelle scuole pubbliche;
+- b. attività di traduzione;
+- c. pubblicazioni in romancio e italiano;
+- d. promozione del plurilinguismo nell’amministrazione cantonale;
+- e. salvaguardia e promozione dell’identità linguistica e culturale;
+- f. promozione di progetti di terzi concernenti il plurilinguismo e la salvaguardia e promozione dell’identità linguistica e culturale.
 
-  misure adottate dal Cantone nei seguenti settori:
-
-  - 1\. insegnamento delle lingue nelle scuole pubbliche,
-  - 2\. attività di traduzione,
-  - 3\. pubblicazioni in romancio e italiano,
-  - 4\. promozione del plurilinguismo nell’amministrazione cantonale,
-  - 5\. salvaguardia e promozione dell’identità linguistica e culturale;
-
-- b. il sostegno di progetti di terzi concernenti la salvaguardia e la promozione delle lingue e culture romancia e italiana.
+[^18-1]: Nuovo testo giusta il n. I dell’O del 24 ago. 2022, in vigore dal 15 set. 2022 ([RU 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
 #### Art. 19
 
@@ -441,11 +437,10 @@ Per salvaguardare e promuovere le lingue e culture romancia e italiana sono conc
 
 Sono concessi aiuti finanziari al Cantone dei Grigioni per sostenere attività sovraregionali di organizzazioni e istituzioni romance nei seguenti settori:
 
-- a. sviluppo e rinnovo della lingua;
-- b. insegnamento extrascolastico della lingua e cultura romancia;
-- c. elaborazione e realizzazione di misure di salvaguardia e promozione del romancio;
-- d. consulenza, mediazione e documentazione;
-- e. pubblicazioni per bambini e adolescenti.
+- a. elaborazione e realizzazione di misure di salvaguardia e promozione della lingua e cultura romancia;
+- b. sviluppo e rinnovo della lingua;
+- c. insegnamento extrascolastico della lingua e cultura romancia;
+- d. consulenza, mediazione e documentazione.[^19-1]
 
 <sup>2</sup>
 
@@ -457,13 +452,15 @@ Sono concessi aiuti finanziari al Cantone dei Grigioni per sostenere attività s
 
 <sup>3</sup> Gli aiuti finanziari della Confederazione coprono al massimo il 90 per cento delle spese totali dell’organizzazione o dell’istituzione.
 
+[^19-1]: Nuovo testo giusta il n. I dell’O del 24 ago. 2022, in vigore dal 15 set. 2022 ([RU 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
+
 #### Art. 20
 
 **Promozione dell’attività editoriale romancia**
 
 ### (art. 22 cpv. 1 lett. c LLing)
 
-<sup>1</sup> Sono concessi aiuti finanziari al Cantone dei Grigioni per sostenere editori romanci che si prefiggono di promuovere la letteratura romancia.
+<sup>1</sup> Sono concessi aiuti finanziari al Cantone dei Grigioni per sostenere editori romanci che si prefiggono di promuovere la letteratura romancia sia per i bambini e i giovani sia per gli adulti.[^20-1]
 
 <sup>2</sup>
 
@@ -472,6 +469,8 @@ Gli editori devono pubblicare opere in lingua romancia. Devono in particolare:
 - a. scegliere i testi e garantirne il lettorato;
 - b. provvedere alla stampa e alla produzione;
 - c. promuovere la distribuzione.
+
+[^20-1]: Nuovo testo giusta il n. I dell’O del 24 ago. 2022, in vigore dal 15 set. 2022 ([RU 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
 #### Art. 21
 
@@ -493,20 +492,22 @@ Le agenzie di stampa devono in particolare:
 
 #### Art. 22
 
-**Misure generali nel Cantone Ticino**
+**Misure generali nel Cantone Ticino**[^22-1]
 
 ### (art. 22 cpv. 1 lett. a e c LLing)
 
-Per salvaguardare e promuovere la lingua e cultura italiana sono concessi aiuti finanziari al Cantone Ticino in particolare per:
+Per salvaguardare e promuovere la lingua e cultura italiana sono concessi aiuti finanziari al Cantone Ticino al fine di sostenere misure cantonali nei seguenti settori:
 
-- a. il sostegno di programmi e progetti di ricerca in ambito scientifico;
-- b. il sostegno di programmi e progetti nell’ambito della politica linguistica e culturale;
-- c. pubblicazioni di particolare rilievo per la promozione della lingua e cultura italiana;
-- d. manifestazioni sulla lingua e cultura italiana.
+- a. programmi e progetti di ricerca nell’ambito della lingua e della cultura;
+- b. pubblicazioni di particolare rilievo per la promozione della lingua e cultura italiana;
+- c. manifestazioni e progetti per la promozione della lingua e cultura italiana;
+- d. progetti di terzi concernenti la promozione del plurilinguismo e la salvaguardia e promozione dell’identità linguistico-culturale.
+
+[^22-1]: Nuovo testo giusta il n. I dell’O del 24 ago. 2022, in vigore dal 15 set. 2022 ([RU 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
 #### Art. 23
 
-**Sostegno a organizzazioni e istituzioni**
+**Sostegno a organizzazioni e istituzioni**[^23-1]
 
 ### (art. 22 cpv. 1 lett. b LLing)
 
@@ -515,53 +516,46 @@ Per salvaguardare e promuovere la lingua e cultura italiana sono concessi aiuti 
 Sono concessi aiuti finanziari al Cantone Ticino per sostenere attività sovraregionali di organizzazioni e istituzioni, segnatamente per:
 
 - a. progetti di salvaguardia e promozione del patrimonio culturale;
-- b. misure di promozione della creazione letteraria;
-- c. l’organizzazione e lo svolgimento di manifestazioni linguistiche e culturali.
+- b. misure di promozione della creazione letteraria e culturale;
+- c. l’organizzazione e lo svolgimento di manifestazioni di rilevanza linguistica e culturale.
 
-<sup>2</sup> Gli aiuti finanziari della Confederazione coprono al massimo il 90 per cento delle spese totali dell’organizzazione o dell’istituzione.
+<sup>2</sup> Sono inoltre concessi aiuti finanziari al Cantone Ticino per sostenere l’attività dell’Osservatorio linguistico della Svizzera italiana.
 
-#### Art. 24
+<sup>3</sup> Gli aiuti finanziari della Confederazione coprono al massimo il 90 per cento delle spese totali dell’organizzazione o dell’istituzione.
 
-**Aiuti finanziari all’Osservatorio linguistico della Svizzera italiana**
+[^23-1]: Nuovo testo giusta il n. I dell’O del 24 ago. 2022, in vigore dal 15 set. 2022 ([RU 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
-### (art. 22 cpv. 1 lett. b LLing)
+#### Art. 24 e 25
 
-Sono concessi aiuti finanziari al Cantone Ticino per l’attività dell’Osservatorio linguistico della Svizzera italiana.
+[^2425-1]
 
-#### Art. 25
-
-**Aiuti finanziari per traduzioni**
-
-### (art. 22 cpv. 1 lett. c LLing)
-
-Sono concessi aiuti finanziari al Cantone Ticino per traduzioni in italiano e dall’italiano di opere di particolare rilievo per lo sviluppo dell’identità culturale del Cantone.
+[^2425-1]: Abrogati dal n. I dell’O del 24 ago. 2022, con effetto dal 15 set. 2022 ([RU 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
 ## Sezione 6: Esecuzione
 
 #### Art. 26
 
-**Domande**
+**Domande**[^26-1]
 
-<sup>1</sup> Le domande di aiuti finanziari di cui agli articoli 9 e 13–25 vanno presentate all’UFC.
+<sup>1</sup> Le domande di aiuti finanziari devono essere presentate all’UFC.
 
-<sup>2</sup> Le domande di aiuti finanziari di cui agli articoli 10 e 11 vanno presentate alla Conferenza dei direttori cantonali della pubblica educazione (CDPE). La CDPE le inoltra all’UFC con una raccomandazione.
+<sup>2</sup> L’UFC rende pubblico il termine per la presentazione delle domande in un bando di concorso sul proprio sito Internet.
 
-<sup>3</sup> Le domande vanno presentate annualmente, sempre che l’accordo di prestazioni non preveda altrimenti.
+<sup>3</sup> Le domande devono comprovare l’adempimento dei requisiti di promozione e fornire tutte le informazioni necessarie per i criteri di promozione.
 
-<sup>4</sup>
+<sup>4</sup> È data priorità alle domande che soddisfano al meglio i criteri di promozione nel loro insieme.
 
-Esse vanno presentate entro i seguenti termini:
-
-- a. le domande secondo gli articoli 9–11 e 13–16: entro il 31 marzo dell’anno per il quale è richiesto l’aiuto finanziario;
-- b. le domande secondo gli articoli 17–25: entro il 31 dicembre dell’anno precedente.
+[^26-1]: Nuovo testo giusta il n. I dell’O del 24 ago. 2022, in vigore dal 15 set. 2022 ([RU 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
 #### Art. 27
 
 **Procedura e rimedi giuridici**
 
-<sup>1</sup> In merito alle domande di aiuti finanziari decide l’UFC.
+<sup>1</sup> In merito alle domande di aiuti finanziari decide l’UFC. Per le domande di promozione secondo gli articoli 10 e 11 si fonda su una raccomandazione della Conferenza svizzera dei direttori cantonali della pubblica educazione.[^27-1]
 
 <sup>2</sup> La procedura e i rimedi giuridici sono retti dalle disposizioni generali dell’amministrazione della giustizia federale.
+
+[^27-1]: Nuovo testo giusta il n. I dell’O del 24 ago. 2022, in vigore dal 15 set. 2022 ([RU 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
 #### Art. 28
 
@@ -575,11 +569,9 @@ Esse vanno presentate entro i seguenti termini:
 
 #### Art. 29
 
-**Versamento degli aiuti finanziari**
+[^29-1]
 
-<sup>1</sup> Gli aiuti finanziari di cui agli articoli 9 e 12–25 sono versati dall’UFC.
-
-<sup>2</sup> Gli aiuti finanziari di cui agli articoli 10 e 11 sono versati dalla CDPE.
+[^29-1]: Abrogato dal n. I dell’O del 24 ago. 2022, con effetto dal 15 set. 2022 ([RU 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
 ## Sezione 7: Disposizioni finali
 

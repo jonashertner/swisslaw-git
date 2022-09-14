@@ -4,11 +4,11 @@ title: "Verordnung vom 4. Juni 2010 über die Landessprachen und die Verständig
 short: SpV
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/355"
 language: de
-version: 2022-07-01
+version: 2022-09-15
 adopted: 2010-06-04
 in_force: 2010-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/355/20220701/de/xml/fedlex-data-admin-ch-eli-cc-2010-355-20220701-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/355/20220701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/355/20220915/de/xml/fedlex-data-admin-ch-eli-cc-2010-355-20220915-de-xml-12.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/355/20220915/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/355/20220701/de"
 
 (Sprachenverordnung, SpV)
 
-vom 4. Juni 2010 (Stand am 1. Juli 2022)
+vom 4. Juni 2010 (Stand am 15. September 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -122,14 +122,14 @@ Sie stellen insbesondere sicher, dass alle Angestellten, unabhängig davon, welc
 
 ### (Art. 20 Abs. 2 SpG und Art. 4 Abs. 2 Bst. e BPG)
 
-<sup>1</sup> Bei der Vertretung der Sprachgemeinschaften in den Verwaltungseinheiten nach Artikel 1 Absatz 1 Buchstaben a und b BPV[^7-2], mit Ausnahme des ETH-Bereichs, namentlich auch in den Kaderfunktionen, sind folgende Bandbreiten anzustreben:
+<sup>1</sup>
 
-<table>
-<tr><td>[tab] a.</td><td>[tab] Deutsch:</td><td>[tab] 68,5–70,5 %</td></tr>
-<tr><td>[tab] b.</td><td>[tab] Französisch:</td><td>[tab] 21,5–23,5 %</td></tr>
-<tr><td>[tab] c.</td><td>[tab] Italienisch:</td><td>[tab] 6,5– 8,5 %</td></tr>
-<tr><td>[tab] d.</td><td>[tab] Rätoromanisch:</td><td>[tab] 0,5– 1,0 %</td></tr>
-</table>
+Bei der Vertretung der Sprachgemeinschaften in den Verwaltungseinheiten nach Artikel 1 Absatz 1 Buchstaben a und b BPV[^7-2], mit Ausnahme des ETH-Bereichs, namentlich auch in den Kaderfunktionen, sind folgende Bandbreiten anzustreben:
+
+- a. Deutsch: 68,5–70,5 %
+- b. Französisch: 21,5–23,5 %
+- c. Italienisch: 6,5– 8,5 %
+- d. Rätoromanisch: 0,5– 1,0 %
 
 <sup>2</sup> Die Vertretungen der lateinischen Sprachgemeinschaften können oberhalb der Bandbreiten nach Absatz 1 Buchstaben b–d liegen.
 
@@ -226,128 +226,121 @@ Sie oder er hat namentlich folgende Aufgaben:
 
 #### Art. 9
 
-**Schulischer Austausch**
+**Schulischer Austausch**[^9-1]
 
 ### (Art. 14 SpG)
 
-<sup>1</sup>
+Zur Förderung des schulischen Austauschs werden der Schweizerischen Stiftung für die Förderung von Austausch und Mobilität Movetia Finanzhilfen gewährt für:
 
-Zur Förderung des schulischen Austauschs werden Finanzhilfen Organisationen gewährt, die die folgenden Voraussetzungen erfüllen:
+- a. die Entwicklung und Durchführung von Programmen zur Förderung des schulischen Austauschs;
+- b. die Beratung, Begleitung und Unterstützung von Austauschprojekten;
+- c. die Dokumentation, Evaluation, Information zu Austauschangeboten und Austauschaktivitäten.
 
-- a. Ihr Zweck muss die Förderung des nationalen und internationalen Austauschs von Schülerinnen und Schülern sowie von Lehrkräften aller Schulstufen sein, mit dem Ziel, die Kompetenzen in den Landessprachen zu verbessern.
-- b. Sie müssen von den Kantonen gegründet worden sein.
-- c. Sie müssen gesamtschweizerisch tätig sein.
-
-<sup>2</sup>
-
-Die Finanzhilfen werden gewährt für:
-
-- a. Grunddienstleistungen im nationalen und regionalen Bereich;
-- b. Projekte von nationaler Bedeutung zur Förderung der Verständigung und der sprachlichen Vielfalt.
-
-<sup>3</sup>
-
-Grunddienstleistungen sind insbesondere:
-
-- a. Aufbau und Unterhalt eines Austauschnetzwerks;
-- b. Beratung bei Austauschprojekten und deren Begleitung;
-- c. Vermittlung von Austauschpartnerschaften;
-- d. Realisierung eigener Austauschprojekte und deren Evaluation;
-- e. Publikationen, Erarbeitung von didaktischen Hilfsmitteln und Dokumentation;
-- f. Aus- und Weiterbildung der für den Austausch arbeitenden Personen in Schule und Verwaltung.
+[^9-1]: Fassung gemäss Ziff. I der V vom 24. Aug. 2022, in Kraft seit 15. Sept. 2022 ([AS 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
 #### Art. 10
 
-**Förderung der Landessprachen im Unterricht**
+**Landessprachen im Unterricht**
 
 ### (Art. 16 Bst. a und b SpG)
 
+[^10-1]
+
 Zur Förderung der Landessprachen im Unterricht werden den Kantonen Finanzhilfen gewährt für:
 
-- a. innovative Projekte zur Entwicklung von Konzepten und Lehrmitteln für den Unterricht einer zweiten und dritten Landessprache;
+- a.[^10-2] Projekte zur Entwicklung von Konzepten und Lehrmitteln für den Unterricht einer zweiten und dritten Landessprache, die innovativ sind oder einen Bezug zu den gemeinsamen bildungspolitischen Zielen von Bund und Kantonen aufweisen;
 - b. Projekte zur Förderung des Erwerbs einer Landessprache über zweisprachigen Unterricht;
 - c. die Förderung der Kenntnisse Anderssprachiger in der lokalen Landessprache vor dem Eintritt in die Primarschule.
 
+[^10-1]: Fassung gemäss Ziff. I der V vom 24. Aug. 2022, in Kraft seit 15. Sept. 2022 ([AS 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
+[^10-2]: Fassung gemäss Ziff. I der V vom 24. Aug. 2022, in Kraft seit 15. Sept. 2022 ([AS 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
+
 #### Art. 11
 
-**Förderung der Kenntnisse Anderssprachiger in ihrer Erstsprache**
+**Kenntnisse Anderssprachiger in ihrer Erstsprache**[^11-1]
 
 ### (Art. 16 Bst. c SpG)
 
-Zur Förderung der Kenntnisse Anderssprachiger in ihrer Erstsprache werden den Kantonen Finanzhilfen gewährt für ihre Massnahmen zugunsten:
+Zur Förderung der Kenntnisse Anderssprachiger in ihrer Erstsprache werden den Kantonen Finanzhilfen gewährt für:
 
-- a. der Förderung von Konzepten für den integrierten Unterricht in heimatlicher Sprache und Kultur;
-- b. der Weiterbildung der Lehrkräfte;
-- c. der Entwicklung von Lehrmitteln.
+- a. die Entwicklung von Konzepten für den integrierten Unterricht in heimatlicher Sprache und Kultur;
+- b. die Weiterbildung der Lehrkräfte;
+- c. die Entwicklung von Lehrmitteln.
+
+[^11-1]: Fassung gemäss Ziff. I der V vom 24. Aug. 2022, in Kraft seit 15. Sept. 2022 ([AS 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
 #### Art. 12
 
-**Wissenschaftliches Kompetenzzentrum zur Förderung der Mehrsprachigkeit**
+**Wissenschaftliches Kompetenzzentrum für Mehrsprachigkeit**[^12-1]
 
 ### (Art. 17 SpG)
 
-<sup>1</sup> Finanzhilfen werden dem Institut für Mehrsprachigkeit der Universität und der Pädagogischen Hochschule Freiburg i. Ü. (Institut) gewährt für dessen Grunddienstleistungen in der angewandten Forschung im Bereich der Sprachen und der Mehrsprachigkeit.
+<sup>1</sup>
 
-<sup>2</sup> Das Bundesamt für Kultur (BAK) schliesst mit dem Institut eine Leistungsvereinbarung mit Forschungsauftrag ab.
+Zur Förderung der angewandten Forschung im Bereich der Sprachen und Mehrsprachigkeit werden dem Institut für Mehrsprachigkeit der Universität und der Pädagogischen Hochschule Freiburg i. Ü. Finanzhilfen gewährt für:
 
-<sup>3</sup>
+- a. die Koordination, Leitung und Durchführung von Forschung;
+- b. den Betrieb einer Dokumentationsstelle;
+- c. den Unterhalt eines nationalen Forschungsnetzwerks;
+- d. die Mitarbeit in internationalen Forschungsnetzwerken und wissenschaftlichen Organisationen.
 
-Grunddienstleistungen sind insbesondere:
+<sup>2</sup> Das Bundesamt für Kultur (BAK) schliesst mit dem Institut für Mehrsprachigkeit eine Leistungsvereinbarung ab.
 
-- a. Koordination, Leitung und Umsetzung des Forschungsauftrags;
-- b. Aufbau und Unterhalt einer Dokumentationsstelle;
-- c. Publikationen zur Mehrsprachigkeit;
-- d. Begleitung und Auswertung von Unterrichtspraktiken;
-- e. Mitarbeit in nationalen und internationalen Forschungsnetzwerken und Teilnahme an der Tätigkeit von wissenschaftlichen Organisationen.
-
-<sup>4</sup>
-
-Die Finanzhilfen setzen voraus, dass das Institut:
-
-- a. ein Netzwerk mit Einbezug von Forschungsinstitutionen aller Sprachregionen des Landes, die sich an der angewandten Forschung für Mehrsprachigkeit beteiligen, entwickelt, betreibt und dabei eine leitende Funktion als wissenschaftliches Kompetenzzentrum wahrnimmt;
-- b. eigene Projekte realisiert, soweit die Leistungsvereinbarung es vorsieht;
-- c. Projekte im Auftrag von Bundesstellen, die nicht im Rahmen des Forschungsauftrags liegen, sowie Projekte im Auftrag von Kantonen oder Dritten nur dann realisiert, wenn sich die Auftraggeber angemessen an den Ausführungskosten beteiligen.
+[^12-1]: Fassung gemäss Ziff. I der V vom 24. Aug. 2022, in Kraft seit 15. Sept. 2022 ([AS 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
 #### Art. 13
 
-**Unterstützung von Nachrichtenagenturen**
+**Unterstützung von Nachrichtenagenturen**[^13-1]
 
 ### (Art. 18 Bst. a SpG)
 
-<sup>1</sup>
+Nachrichtenagenturen von gesamtschweizerischer Bedeutung können Finanzhilfen gewährt werden, wenn sie in mindestens drei Landessprachen regelmässig über sprachen-, kultur- und verständigungspolitische Themen aus allen vier Sprachregionen berichten.
 
-Finanzhilfen können Nachrichtenagenturen von gesamtschweizerischer Bedeutung gewährt werden, die:
-
-- a. sich einen verständigungspolitischen Auftrag auferlegt haben und ihn wahr-nehmen; und
-- b. über sprachen-, kultur- und verständigungspolitische Themen aus allen vier Sprachregionen berichten.
-
-<sup>2</sup> Von gesamtschweizerischer Bedeutung ist eine Nachrichtenagentur, wenn sie regelmässig Informationen in mindestens drei Landessprachen veröffentlicht.
+[^13-1]: Fassung gemäss Ziff. I der V vom 24. Aug. 2022, in Kraft seit 15. Sept. 2022 ([AS 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
 #### Art. 14
 
-**Unterstützung von Organisationen und Institutionen**
+**Unterstützung von Organisationen und Institutionen**[^14-1]
 
 ### (Art. 18 Bst. b SpG)
 
 <sup>1</sup>
 
-Finanzhilfen können nicht gewinnorientierten Organisationen und Institutionen von gesamtschweizerischer Bedeutung gewährt werden, deren Tätigkeit mindestens eine ganze Sprachregion betrifft und die neue Impulse in mindestens drei der folgenden Bereiche setzen:
+Zur Förderung der Verständigung zwischen den Sprachgemeinschaften können Organisationen und Institutionen Finanzhilfen gewährt werden für:
 
-- a. Förderung des Zusammenlebens der Sprachgemeinschaften und der Begegnung der Kulturen des Landes;
-- b. Förderung der Bewahrung und der Verbreitung der Landessprachen und ihrer Kulturen;
-- c. Förderung des Interesses für das literarische Schaffen in der Schweiz über die Sprachgrenzen hinaus;
-- d. Aufarbeitung des Themas Spracherwerb und Veröffentlichung von Arbeiten dazu;
-- e. Sensibilisierung der Bevölkerung für die individuelle und die gesellschaftliche Mehrsprachigkeit und Vermittlung zwischen den Sprachgemeinschaften;
-- f. Realisierung von Grundlagenarbeiten zur Erhaltung und Förderung von territorial nicht gebundenen, vom Bund offiziell anerkannten Sprachen.
+- a.
+
+  Tätigkeiten, die der Sensibilisierung der Bevölkerung für die Mehrsprachigkeit dienen, indem sie:
+
+  - 1\. die Praxis, die Wahrnehmung und die Wertschätzung der Mehrsprachigkeit fördern, und
+  - 2\. die Teilnahme an mehrsprachigen kulturellen Aktivitäten ermöglichen;
+
+- b.
+
+  Tätigkeiten, die der Vernetzung der Akteure dienen, die sich für die Verständigung zwischen den Sprachgemeinschaften einsetzen, indem sie:
+
+  - 1\. den Wissens- und Erfahrungsaustausch fördern, und
+  - 2\. die Zusammenarbeit aufbauen und pflegen.
 
 <sup>2</sup>
 
+Die Organisationen und Institutionen müssen die folgenden Voraussetzungen erfüllen:
+
+- a. Sie müssen in mindestens zwei Sprachregionen tätig sein.
+- b. Sie dürfen nicht gewinnorientiert sein.
+- c. Sie müssen seit mindestens drei Jahren Sensibilisierungs- oder Vernetzungstätigkeiten im Sinne von Absatz 1 ausüben.
+
+<sup>3</sup>
+
 Die Höhe der Finanzhilfen bemisst sich nach:
 
-- a. der Struktur und der Grösse der Trägerschaft;
-- b. der Art und der Bedeutung der Tätigkeit oder eines Vorhabens;
-- c. der Qualität und Wirkung der Massnahmen;
-- d. den Eigenleistungen und den Beiträgen Dritter.
+- a. der Art und der Bedeutung der Tätigkeiten;
+- b. der Qualität und Wirkung der Tätigkeiten;
+- c. den Eigenleistungen und den Beiträgen Dritter.
+
+<sup>4</sup> Die Finanzhilfen betragen höchstens 50 Prozent der Kosten, die der Organisation oder Institution bei der Ausübung der Tätigkeiten entstehen. Ehrenamtliche Arbeit kann bis zu einer Höhe von 10 Prozent dieser Kosten als Eigenleistung angerechnet werden.
+
+[^14-1]: Fassung gemäss Ziff. I der V vom 24. Aug. 2022, in Kraft seit 15. Sept. 2022 ([AS 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
 #### Art. 15
 
@@ -355,7 +348,7 @@ Die Höhe der Finanzhilfen bemisst sich nach:
 
 ### (Art. 18 Bst. c SpG)
 
-<sup>1</sup> Finanzhilfen können Gemeinwesen gewährt werden für Projekte, die mindestens zwei der Bereiche nach Artikel 14 Absatz 1 betreffen.
+<sup>1</sup> Gemeinwesen können Finanzhilfen gewährt werden für Projekte, die der Sensibilisierung oder der Vernetzung im Sinne von Artikel 14 Absatz 1 dienen.[^15-1]
 
 <sup>2</sup>
 
@@ -364,6 +357,8 @@ Die Höhe der Finanzhilfen bemisst sich nach:
 - a. der Art und der Bedeutung der Tätigkeit oder eines Vorhabens;
 - b. der Qualität und Wirkung des Projekts;
 - c. den Eigenleistungen und den Beiträgen Dritter.
+
+[^15-1]: Fassung gemäss Ziff. I der V vom 24. Aug. 2022, in Kraft seit 15. Sept. 2022 ([AS 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
 #### Art. 16
 
@@ -393,10 +388,10 @@ Die Organisationen und Institutionen müssen die folgenden Voraussetzungen erfü
 
 <sup>1</sup>
 
-Zur Förderung der Mehrsprachigkeit in den kantonalen Behörden und Verwaltungen werden den mehrsprachigen Kantonen zur Erfüllung ihrer besonderen Aufgaben insbesondere Finanzhilfen gewährt für:
+Zur Förderung der Mehrsprachigkeit in kantonalen und kommunalen Behörden und Verwaltungen werden den mehrsprachigen Kantonen zur Erfüllung ihrer besonderen Aufgaben insbesondere Finanzhilfen gewährt für:[^17-1]
 
 - a. Übersetzungs- und Terminologiedienstleistungen für die innerkantonale und die interkantonale Kommunikation;
-- b. sprachliche und fachliche Aus- und Weiterbildung der Kantonsangestellten in Fragen der Mehrsprachigkeit;
+- b.[^17-2] sprachliche und fachliche Aus- und Weiterbildung der Verwaltungsangestellten in Fragen der Mehrsprachigkeit;
 - c. Projekte zur Sensibilisierung der Öffentlichkeit für die Mehrsprachigkeit.
 
 <sup>2</sup>
@@ -407,29 +402,30 @@ Zur Förderung der Mehrsprachigkeit im Bildungsbereich werden den mehrsprachigen
 - b. die sprachliche Aus- und Weiterbildung der Lehrkräfte;
 - c. Projekte zur Förderung des Erwerbs einer Landessprache über zweisprachigen Unterricht auf allen Bildungsstufen;
 - d. Projekte zur Förderung des Besuchs des Unterrichts in einer anderen offiziellen Amtssprache des Kantons auf allen Bildungsstufen;
-- e. Projekte zur Förderung von E-Learning.
+- e.[^17-3] …
+
+[^17-1]: Fassung gemäss Ziff. I der V vom 24. Aug. 2022, in Kraft seit 15. Sept. 2022 ([AS 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
+[^17-2]: Fassung gemäss Ziff. I der V vom 24. Aug. 2022, in Kraft seit 15. Sept. 2022 ([AS 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
+[^17-3]: Aufgehoben durch Ziff. I der V vom 24. Aug. 2022, mit Wirkung seit 15. Sept. 2022 ([AS 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
 ## 4. Abschnitt: Erhaltung und Förderung der rätoromanischen und der italienischen Sprache und Kultur im Kanton Graubünden
 
 #### Art. 18
 
-**Allgemeine Massnahmen im Kanton Graubünden**
+**Allgemeine Massnahmen im Kanton Graubünden**[^18-1]
 
 ### (Art. 22 Abs. 1 Bst. a SpG)
 
-Zur Erhaltung und Förderung der rätoromanischen und der italienischen Sprache und Kultur werden dem Kanton Graubünden insbesondere Finanzhilfen gewährt für:
+Zur Erhaltung und Förderung der rätoromanischen und der italienischen Sprache und Kultur werden dem Kanton Graubünden Finanzhilfen gewährt für die Unterstützung von kantonseigenen Massnahmen in den folgenden Bereichen:
 
-- a.
+- a. Sprachunterricht an öffentlichen Schulen;
+- b. Übersetzungstätigkeit;
+- c. Publikationen in rätoromanischer und italienischer Sprache;
+- d. Förderung der Mehrsprachigkeit in der kantonalen Verwaltung;
+- e. Erhaltung und Förderung der sprachlichen und kulturellen Identität;
+- f. Förderung von Projekten Dritter, welche die Mehrsprachigkeit und den Erhalt und die Förderung der sprachlichen und kulturellen Identität zum Gegenstand haben.
 
-  Massnahmen, die der Kanton in den folgenden Bereichen ergreift:
-
-  - 1\. Sprachunterricht an öffentlichen Schulen,
-  - 2\. Übersetzungstätigkeit,
-  - 3\. Publikationen in rätoromanischer und italienischer Sprache,
-  - 4\. Förderung der Mehrsprachigkeit in der kantonalen Verwaltung,
-  - 5\. Erhaltung und Förderung der sprachlich-kulturellen Identität;
-
-- b. die Unterstützung von Projekten Dritter, die die Erhaltung und Förderung der rätoromanischen und der italienischen Sprache und Kultur zum Gegenstand haben.
+[^18-1]: Fassung gemäss Ziff. I der V vom 24. Aug. 2022, in Kraft seit 15. Sept. 2022 ([AS 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
 #### Art. 19
 
@@ -439,13 +435,12 @@ Zur Erhaltung und Förderung der rätoromanischen und der italienischen Sprache 
 
 <sup>1</sup>
 
-Finanzhilfen werden dem Kanton Graubünden gewährt für die Unterstützung von überregionalen Tätigkeiten rätoromanischer Organisationen und Institutionen in den folgenden Bereichen:
+Dem Kanton Graubünden werden Finanzhilfen gewährt für die Unterstützung von überregionalen Tätigkeiten rätoromanischer Organisationen und Institutionen in den folgenden Bereichen:
 
-- a. Sprachausbau und Spracherneuerung;
-- b. ausserschulischer Unterricht in rätoromanischer Sprache und Kultur;
-- c. Entwicklung und Durchführung von Massnahmen zur Erhaltung und Förderung des Rätoromanischen;
-- d. Beratung, Vermittlung und Dokumentation;
-- e. Publikationen für Kinder und Jugendliche.
+- a. Entwicklung und Durchführung von Massnahmen zur Erhaltung und Förderung der rätoromanischen Sprache und Kultur;
+- b. Sprachausbau und Spracherneuerung;
+- c. ausserschulischer Unterricht in rätoromanischer Sprache und Kultur;
+- d. Beratung, Vermittlung und Dokumentation.[^19-1]
 
 <sup>2</sup>
 
@@ -457,13 +452,15 @@ Finanzhilfen werden dem Kanton Graubünden gewährt für die Unterstützung von 
 
 <sup>3</sup> Die Finanzhilfen des Bundes decken höchstens 90 Prozent der Gesamtkosten der Organisation oder der Institution.
 
+[^19-1]: Fassung gemäss Ziff. I der V vom 24. Aug. 2022, in Kraft seit 15. Sept. 2022 ([AS 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
+
 #### Art. 20
 
 **Förderung der rätoromanischen Verlagstätigkeit**
 
 ### (Art. 22 Abs. 1 Bst. c SpG)
 
-<sup>1</sup> Finanzhilfen werden dem Kanton Graubünden gewährt für die Unterstützung rätoromanischer Verlage, die die Förderung rätoromanischer Literatur zum Ziel haben.
+<sup>1</sup> Dem Kanton Graubünden werden Finanzhilfen gewährt für die Unterstützung rätoromanischer Verlage, welche die Förderung rätoromanischer Literatur sowohl für Kinder und Jugendliche als auch für Erwachsene zum Ziel haben.[^20-1]
 
 <sup>2</sup>
 
@@ -472,6 +469,8 @@ Die Verlage müssen Werke in rätoromanischer Sprache veröffentlichen. Sie müs
 - a. die Texte auswählen und lektorieren;
 - b. den Druck und die Produktion organisieren;
 - c. den Vertrieb fördern.
+
+[^20-1]: Fassung gemäss Ziff. I der V vom 24. Aug. 2022, in Kraft seit 15. Sept. 2022 ([AS 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
 #### Art. 21
 
@@ -493,75 +492,70 @@ Die Nachrichtenagenturen müssen insbesondere:
 
 #### Art. 22
 
-**Allgemeine Massnahmen im Kanton Tessin**
+**Allgemeine Massnahmen im Kanton Tessin**[^22-1]
 
 ### (Art. 22 Abs. 1 Bst. a und c SpG)
 
-Zur Erhaltung und Förderung der italienischen Sprache und Kultur werden dem Kanton Tessin insbesondere Finanzhilfen gewährt für:
+Zur Erhaltung und Förderung der italienischen Sprache und Kultur werden dem Kanton Tessin Finanzhilfen gewährt für die Unterstützung von kantonseigenen Massnahmen in den folgenden Bereichen:
 
-- a. die Unterstützung von Forschungsprogrammen und Forschungsprojekten im wissenschaftlichen Bereich;
-- b. die Unterstützung von Programmen und Projekten im sprach- und kulturpolitischen Bereich;
-- c. Publikationen von besonderer Bedeutung für die Förderung der italienischen Sprache und Kultur;
-- d. Veranstaltungen zur italienischen Sprache und Kultur.
+- a. Forschungsprogramme und Forschungsprojekte im Bereich von Sprache und Kultur;
+- b. Publikationen von besonderer Bedeutung für die Förderung der italienischen Sprache und Kultur;
+- c. Veranstaltungen und Projekte zur Förderung der italienischen Sprache und Kultur;
+- d. Projekte Dritter im Bereich der Förderung der Mehrsprachigkeit und dem Erhalt und der Förderung der sprachlichen und kulturellen Identität.
+
+[^22-1]: Fassung gemäss Ziff. I der V vom 24. Aug. 2022, in Kraft seit 15. Sept. 2022 ([AS 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
 #### Art. 23
 
-**Unterstützung von Organisationen und Institutionen**
+**Unterstützung von Organisationen und Institutionen**[^23-1]
 
 ### (Art. 22 Abs. 1 Bst. b SpG)
 
 <sup>1</sup>
 
-Finanzhilfen werden dem Kanton Tessin gewährt für die Unterstützung von überregionalen Tätigkeiten von Organisationen und Institutionen, namentlich für:
+Dem Kanton Tessin werden Finanzhilfen gewährt für die Unterstützung von überregionalen Tätigkeiten von Organisationen und Institutionen, namentlich für:
 
 - a. Projekte zur Erhaltung und Förderung des kulturellen Erbes;
-- b. Massnahmen zur Förderung des literarischen Schaffens;
-- c. die Organisation und die Durchführung von sprachlich-kulturellen Veranstaltungen.
+- b. Massnahmen zur Förderung des literarischen und kulturellen Schaffens;
+- c. die Organisation und die Durchführung von sprachlich und kulturell bedeutsamen Veranstaltungen.
 
-<sup>2</sup> Die Finanzhilfen des Bundes decken höchstens 90 Prozent der Gesamtkosten der Organisation oder der Institution.
+<sup>2</sup> Dem Kanton Tessin werden zudem Finanzhilfen gewährt für die Unterstützung der Tätigkeit des Osservatorio linguistico della Svizzera italiana.
 
-#### Art. 24
+<sup>3</sup> Die Finanzhilfen des Bundes decken höchstens 90 Prozent der Gesamtkosten der Organisation oder der Institution.
 
-**Finanzhilfen für dasOsservatorio linguistico della Svizzera italiana**
+[^23-1]: Fassung gemäss Ziff. I der V vom 24. Aug. 2022, in Kraft seit 15. Sept. 2022 ([AS 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
-### (Art. 22 Abs. 1 Bst. b SpG)
+#### Art. 24 und 25
 
-Finanzhilfen werden dem Kanton Tessin gewährt für die Tätigkeit des Osservatorio linguistico della Svizzera italiana.
+[^2425-1]
 
-#### Art. 25
-
-**Finanzhilfe für Übersetzungen**
-
-### (Art. 22 Abs. 1 Bst. c SpG)
-
-Finanzhilfen werden dem Kanton Tessin gewährt für Übersetzungen ins Italienische und aus dem Italienischen von Werken, die für die Entwicklung der kulturellen Identität des Kantons von besonderer Bedeutung sind.
+[^2425-1]: Aufgehoben durch Ziff. I der V vom 24. Aug. 2022, mit Wirkung seit 15. Sept. 2022 ([AS 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
 ## 6. Abschnitt: Vollzug
 
 #### Art. 26
 
-**Gesuche**
+**Gesuche**[^26-1]
 
-<sup>1</sup> Gesuche um Finanzhilfen nach den Artikeln 9 und 13–25 sind beim BAK einzureichen.
+<sup>1</sup> Gesuche um Finanzhilfen sind beim BAK einzureichen.
 
-<sup>2</sup> Gesuche um Finanzhilfen nach den Artikeln 10 und 11 sind bei der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (EDK) einzureichen. Die EDK leitet die Gesuche mit einer Empfehlung an das BAK weiter.
+<sup>2</sup> Das BAK veröffentlicht die Frist zur Einreichung der Gesuche in einer Ausschreibung auf seiner Webseite.
 
-<sup>3</sup> Die Gesuche müssen jährlich eingereicht werden, sofern die Leistungsvereinbarung nichts anderes vorsieht.
+<sup>3</sup> Die Gesuche müssen die Erfüllung der Fördervoraussetzungen belegen und alle notwendigen Angaben zu den Förderkriterien enthalten.
 
-<sup>4</sup>
+<sup>4</sup> Es wird denjenigen Gesuchen der Vorrang gegeben, welche die Kriterien in einer Gesamtbetrachtung am besten erfüllen.
 
-Sie müssen bis zu den folgenden Terminen eingereicht werden:
-
-- a. Gesuche nach den Artikeln 9–11 und 13–16: bis zum 31. März des Jahres, für das die Finanzhilfe beantragt wird;
-- b. Gesuche nach den Artikeln 17–25: bis zum 31. Dezember des Vorjahres.
+[^26-1]: Fassung gemäss Ziff. I der V vom 24. Aug. 2022, in Kraft seit 15. Sept. 2022 ([AS 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
 #### Art. 27
 
 **Verfahren und Rechtsmittel**
 
-<sup>1</sup> 1 Über Gesuche um Finanzhilfen entscheidet das BAK.
+<sup>1</sup> Über Gesuche um Finanzhilfen entscheidet das BAK. Bei Gesuchen um Förderung nach den Artikeln 10 und 11 stützt es sich auf eine Empfehlung der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren.[^27-1]
 
 <sup>2</sup> Das Verfahren und die Rechtsmittel richten sich nach den allgemeinen Bestimmungen über die Bundesrechtspflege.
+
+[^27-1]: Fassung gemäss Ziff. I der V vom 24. Aug. 2022, in Kraft seit 15. Sept. 2022 ([AS 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
 #### Art. 28
 
@@ -575,11 +569,9 @@ Sie müssen bis zu den folgenden Terminen eingereicht werden:
 
 #### Art. 29
 
-**Auszahlung der Finanzhilfen**
+[^29-1]
 
-<sup>1</sup> Die Finanzhilfen nach den Artikeln 9 und 12–25 werden vom BAK ausbezahlt.
-
-<sup>2</sup> Die Finanzhilfen nach den Artikeln 10 und 11 werden von der EDK ausbezahlt.
+[^29-1]: Aufgehoben durch Ziff. I der V vom 24. Aug. 2022, mit Wirkung seit 15. Sept. 2022 ([AS 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
 ## 7. Abschnitt: Schlussbestimmungen
 

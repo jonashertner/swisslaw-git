@@ -4,11 +4,11 @@ title: "Ordinaziun dals 4 da zercladur 2010 davart las linguas naziunalas e la c
 short: OLing
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/355"
 language: rm
-version: 2022-07-01
+version: 2022-09-15
 adopted: 2010-06-04
 in_force: 2010-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/355/20220701/rm/xml/fedlex-data-admin-ch-eli-cc-2010-355-20220701-rm-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/355/20220701/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/355/20220915/rm/xml/fedlex-data-admin-ch-eli-cc-2010-355-20220915-rm-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/355/20220915/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Ordinaziun da linguas, OLing)
 
-dals 4 da zercladur 2010 (versiun dal 1. da fanadur 2022)
+dals 4 da zercladur 2010 (versiun dals 15 da settember 2022)
 
 Il Cussegl federal svizzer,
 
@@ -124,14 +124,14 @@ Els garanteschan oravant tut che tut ils emploiads, independentamain dal fatg, d
 
 ### (art. 20 al. 2 LLing ed art. 4 al. 2 lit. e LPers)
 
-<sup>1</sup> Per la represchentanza da las cuminanzas linguisticas en las unitads administrativas tenor l’artitgel 1 alinea 1 literas a e b LPers[^7-2], cun excepziun da quellas che appartegnan al sectur da las scolas politecnicas federalas, en spezial er en las funcziuns da cader, duain vegnir prendidas en mira las suandantas procentualas:
+<sup>1</sup>
 
-<table>
-<tr><td>[tab] a.</td><td>[tab] tudestg:</td><td>[tab] 68,5–70,5 %</td></tr>
-<tr><td>[tab] b.</td><td>[tab] franzos:</td><td>[tab] 21,5–23,5 %</td></tr>
-<tr><td>[tab] c.</td><td>[tab] talian:</td><td>[tab] 6,5– 8,5 %</td></tr>
-<tr><td>[tab] d.</td><td>[tab] rumantsch:</td><td>[tab] 0,5– 1,0 %</td></tr>
-</table>
+Per la represchentanza da las cuminanzas linguisticas en las unitads administrativas tenor l’artitgel 1 alinea 1 literas a e b LPers[^7-2], cun excepziun da quellas che appartegnan al sectur da las scolas politecnicas federalas, en spezial er en las funcziuns da cader, duain vegnir prendidas en mira las suandantas procentualas:
+
+- a. tudestg: 68,5–70,5 %
+- b. franzos: 21,5–23,5 %
+- c. talian: 6,5– 8,5 %
+- d. rumantsch: 0,5– 1,0 %
 
 <sup>2</sup> Las represchentanzas da las cuminanzas linguisticas latinas pon esser pli grondas che las procentualas tenor l’alinea 1 literas b–d.
 
@@ -228,128 +228,121 @@ El ha en spezial las suandantas incumbensas:
 
 #### Art. 9
 
-**Barat scolastic**
+**Barat scolastic**[^9-1]
 
 ### (art. 14 LLing)
 
-<sup>1</sup>
+Cun l’intent da promover il barat scolastic vegnan concedids a la Fundaziun svizra per la promoziun dal barat e da la mobilitad Movetia agids finanzials per:
 
-Per promover il barat scolastic vegnan concedids agids finanzials ad organisaziuns che adempleschan las suandantas premissas:
+- a. il svilup e la realisaziun da programs per la promoziun dal barat scolastic;
+- b. la cussegliaziun, l’accumpagnament ed il sustegn da projects da barat;
+- c. la documentaziun, l’evaluaziun e l’infurmaziun davart purschidas e davart activitads da barat.
 
-- a. ellas ston avair l’intent da promover il barat naziunal ed internaziunal da scolars sco er da persunas d’instrucziun da tut ils stgalims da scola, cun la finamira da meglierar las cumpetenzas en las linguas naziunalas;
-- b. ellas ston esser vegnidas fundadas dals chantuns;
-- c. ellas ston esser activas en tut la Svizra.
-
-<sup>2</sup>
-
-Ils agids finanzials vegnan conceds per:
-
-- a. prestaziuns da basa en il sectur naziunal e regiunal;
-- b. projects d’impurtanza naziunala che han l’intent da promover la chapientscha e la diversitad linguistica.
-
-<sup>3</sup>
-
-Prestaziuns da basa èn en spezial:
-
-- a. il svilup ed il mantegniment d’ina rait da barat;
-- b. la cussegliaziun e l’accumpagnament da projects da barat;
-- c. l’intermediaziun da partenadis da barat;
-- d. la realisaziun e l’evaluaziun d’agens projects da barat;
-- e. publicaziuns, l’elavuraziun da meds auxiliars didactics e documentaziuns;
-- f. la scolaziun e la furmaziun supplementara da las persunas che lavuran per il barat en scola ed en l’administraziun.
+[^9-1]: Versiun tenor la cifra I da l’O dals 24 d’avust 2022, en vigur dapi ils 15 da sett. 2022 ([AS 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
 #### Art. 10
 
-**Promoziun da las linguas naziunalas en l’instrucziun**
+**Linguas naziunalas en l’instrucziun**
 
 ### (art. 16 lit. a e b LLing)
 
-Per promover las linguas naziunalas en l’instrucziun vegnan concedids agids finanzials als chantuns per:
+[^10-1]
 
-- a. projects innovativs che han l’intent da sviluppar concepts e meds didactics per l’instrucziun d’ina segunda e d’ina terza lingua naziunala;
+Cun l’intent da promover las linguas naziunalas en l’instrucziun vegnan concedids als chantuns agids finanzials per:
+
+- a.[^10-2] projects che han l’intent da sviluppar concepts e meds didactics per l’instrucziun d’ina segunda e d’ina terza lingua naziunala, ch’èn innovativs u che han in connex cun las finamiras cuminaivlas da la Confederaziun e dals chantuns concernent la politica da furmaziun;
 - b. projects che han l’intent d’intermediar ina lingua naziunala sur l’instrucziun bilingua;
 - c. la promoziun da las enconuschientschas da la lingua naziunala locala da las persunas d’ina autra lingua avant l’entrada en la scola primara.
 
+[^10-1]: Versiun tenor la cifra I da l’O dals 24 d’avust 2022, en vigur dapi ils 15 da sett. 2022 ([AS 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
+[^10-2]: Versiun tenor la cifra I da l’O dals 24 d’avust 2022, en vigur dapi ils 15 da sett. 2022 ([AS 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
+
 #### Art. 11
 
-**Promoziun da las enconuschientschas da l’emprima lingua da las persunas d’ina autra lingua**
+**Enconuschientschas da las persunas d’ina autra lingua en lur emprima lingua**[^11-1]
 
 ### (art. 16 lit. c LLing)
 
-Cun l’intent da promover las enconuschientschas da l’emprima lingua da las persunas d’ina autra lingua vegnan concedids als chantuns agids finanzials per lur mesiras a favur:
+Cun l’intent da promover las enconuschientschas da las persunas d’ina autra lingua en lur emprima lingua vegnan concedids als chantuns agids finanzials per:
 
-- a. da la promoziun da concepts per l’instrucziun integrada en la lingua e cultura d’origin;
-- b. da la furmaziun supplementara da las persunas d’instrucziun;
-- c. dal svilup da meds d’instrucziun.
+- a. il svilup da concepts per l’instrucziun integrada en la lingua ed en la cultura da la patria;
+- b. la furmaziun supplementara da las persunas d’instrucziun;
+- c. il svilup da meds didactics.
+
+[^11-1]: Versiun tenor la cifra I da l’O dals 24 d’avust 2022, en vigur dapi ils 15 da sett. 2022 ([AS 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
 #### Art. 12
 
-**Center da cumpetenza scientific per la promoziun da la plurilinguitad**
+**Center da cumpetenza scientific per la plurilinguitad**[^12-1]
 
 ### (art. 17 LLing)
 
-<sup>1</sup> A l’Institut da plurilinguitad da l’Universitad e da la Scola auta da pedagogia da Friburg (Institut) vegnan concedids agids finanzials per sias prestaziuns da basa ch’el furnescha en il rom da la perscrutaziun applitgada en il sectur da las linguas e da la plurilinguitad.
+<sup>1</sup>
 
-<sup>2</sup> L’Uffizi federal da cultura (UFC) fa ina cunvegna da prestaziun cun l’Institut; questa cunvegna cuntegna ina incarica da perscrutaziun.
+Cun l’intent da promover la perscrutaziun applitgada en il sectur da las linguas e da la plurilinguitad vegnan concedids a l’Institut da plurilinguitad da l’Universitad e da la Scola auta da pedagogia da Friburg agids finanzials per:
 
-<sup>3</sup>
+- a. la coordinaziun, la direcziun e la realisaziun da la perscrutaziun;
+- b. la gestiun d’in post da documentaziun;
+- c. la gestiun d’ina rait naziunala da perscrutaziun;
+- d. la collavuraziun a raits internaziunalas da perscrutaziun ed ad organisaziuns scientificas internaziunalas.
 
-Prestaziuns da basa èn en spezial:
+<sup>2</sup> L’Uffizi federal da cultura (UFC) fa ina cunvegna da prestaziun cun l’Institut da plurilinguitad.
 
-- a. la coordinaziun, la direcziun e la realisaziun da l’incarica da perscrutaziun;
-- b. il svilup ed il mantegniment d’in post da documentaziun;
-- c. publicaziuns davart la plurilinguitad;
-- d. l’accumpagnament e l’evaluaziun da praticas d’instrucziun;
-- e. la collavuraziun en raits da perscrutaziun naziunalas ed internaziunalas e la participaziun a l’activitad d’organisaziuns scientificas.
-
-<sup>4</sup>
-
-Per survegnir agids finanzials sto l’Institut:
-
-- a. sviluppar e manar ina rait che cumpiglia las instituziuns da perscrutaziun da tut las regiuns linguisticas dal pajais che sa participeschan a la perscrutaziun applitgada en il sectur da la plurilinguitad e surpigliar en quest connex ina funcziun directiva sco center da cumpetenza scientific;
-- b. realisar agens projects, uschenavant che la cunvegna da prestaziun prevesa quai;
-- c. realisar projects per incumbensa da servetschs federals che na tutgan betg al champ da l’incarica da perscrutaziun sco er projects per incumbensa da chantuns u da terzas persunas, dentant mo, sche las incumbensadras ed ils incumbensaders sa participeschan en moda adequata als custs da realisaziun.
+[^12-1]: Versiun tenor la cifra I da l’O dals 24 d’avust 2022, en vigur dapi ils 15 da sett. 2022 ([AS 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
 #### Art. 13
 
-**Sustegn d’agenturas da novitads**
+**Sustegn d’agenturas da novitads**[^13-1]
 
 ### (art. 18 lit. a LLing)
 
-<sup>1</sup>
+Ad agenturas da novitads d’impurtanza naziunala pon vegnir concedids agids finanzials, sch’ellas rapportan regularmain en almain trais linguas naziunalas davart temas da la politica da linguas, da cultura e da chapientscha da tut las quatter regiuns linguisticas.
 
-Agids finanzials pon vegnir concedids ad agenturas da novitads d’impurtanza naziunala, sch’ellas:
-
-- a. han ed adempleschan ina incumbensa da la politica da chapientscha; e
-- b. rapportan da temas da la politica da linguas, da cultura e da chapientscha da tut las quatter regiuns linguisticas.
-
-<sup>2</sup> In’agentura da novitads è d’impurtanza naziunala, sch’ella publitgescha regularmain infurmaziuns en almain trais linguas naziunalas.
+[^13-1]: Versiun tenor la cifra I da l’O dals 24 d’avust 2022, en vigur dapi ils 15 da sett. 2022 ([AS 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
 #### Art. 14
 
-**Sustegn d’organisaziuns e d’instituziuns**
+**Sustegn d’organisaziuns e d’instituziuns**[^14-1]
 
 ### (art. 18 lit. b LLing)
 
 <sup>1</sup>
 
-Agids finanzials pon vegnir concedids ad organisaziuns ed ad instituziuns d’impurtanza naziunala senza finamira da rendita, sche lur activitad concerna almain in’entira regiun linguistica e sch’ellas mettan novs impuls en almain trais dals suandants secturs:
+Cun l’intent da promover la chapientscha tranter las cuminanzas linguisticas pon vegnir concedids ad organisaziuns ed ad instituziuns agids finanzials per:
 
-- a. promoziun da la convivenza da las cuminanzas linguisticas e da la scuntrada da las culturas dal pajais;
-- b. promoziun dal mantegniment e da la derasaziun da las linguas naziunalas e da lur culturas;
-- c. promoziun da l’interess per la creaziun litterara en Svizra sur ils cunfins linguistics or;
-- d. elavuraziun dal tema «acquisiziun d’ina lingua» e publicaziun da lavurs latiers;
-- e. sensibilisaziun da la populaziun per la plurilinguitad individuala e collectiva ed intermediaziun tranter las cuminanzas linguisticas;
-- f. realisaziun da lavurs da basa davart il mantegniment e davart la promoziun da linguas betg territorialas ch’èn renconuschidas uffizialmain da la Confederaziun.
+- a.
+
+  activitads che gidan a sensibilisar la populaziun per la plurilinguitad, e quai cun:
+
+  - 1\. promover la pratica, la percepziun e la stima da la plurilinguitad, e
+  - 2\. pussibilitar la participaziun ad activitads culturalas plurilinguas;
+
+- b.
+
+  activitads che gidan a crear raits tranter ils acturs che s’engaschan per la chapientscha tranter las cuminanzas linguisticas, e quai cun:
+
+  - 1\. promover il barat da savida e d’experientschas, e
+  - 2\. etablir e tgirar la collavuraziun.
 
 <sup>2</sup>
 
+Las organisaziuns e las instituziuns ston ademplir las suandantas premissas:
+
+- a. ellas ston esser activas en almain duas regiuns linguisticas;
+- b. ellas na dastgan avair naginas finamiras da rendita;
+- c. ellas ston exequir dapi almain 3 onns activitads da sensibilisaziun e da creaziun da raits en il senn da l’alinea 1.
+
+<sup>3</sup>
+
 L’autezza dals agids finanzials vegn calculada tenor:
 
-- a. la structura e la grondezza da l’organisaziun u da l’instituziun;
-- b. il gener e l’impurtanza da l’activitad u d’in project;
-- c. la qualitad e l’effect da las mesiras;
-- d. las atgnas prestaziuns e las contribuziuns da terzas persunas.
+- a. il gener e l’impurtanza da las activitads;
+- b. la qualitad e l’effect da las activitads;
+- c. las atgnas prestaziuns e las contribuziuns da terzas persunas.
+
+<sup>4</sup> Ils agids finanzials importan maximalmain 50 pertschient dals custs che resultan per l’organisaziun u per l’instituziun tras l’execuziun da las activitads. La lavur en uffizi d’onur po vegnir resguardada sco atgna prestaziun fin ad in’autezza da maximalmain 10 pertschient da quests custs.
+
+[^14-1]: Versiun tenor la cifra I da l’O dals 24 d’avust 2022, en vigur dapi ils 15 da sett. 2022 ([AS 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
 #### Art. 15
 
@@ -357,7 +350,7 @@ L’autezza dals agids finanzials vegn calculada tenor:
 
 ### (art. 18 lit. c LLing)
 
-<sup>1</sup> Agids finanzials pon vegnir concedids a projects da communitads, sche quests projects concernan almain dus dals secturs tenor l’artitgel 14 alinea 1.
+<sup>1</sup> A communitads pon vegnir concedids agids finanzials per projects che servan a la sensibilisaziun ed a la creaziun da raits en il senn da l’artitgel 14 alinea 1.[^15-1]
 
 <sup>2</sup>
 
@@ -366,6 +359,8 @@ L’autezza dals agids finanzials vegn calculada tenor:
 - a. il gener e l’impurtanza da l’activitad u d’in project;
 - b. la qualitad e l’effect dal project;
 - c. las atgnas prestaziuns e las contribuziuns da terzas persunas.
+
+[^15-1]: Versiun tenor la cifra I da l’O dals 24 d’avust 2022, en vigur dapi ils 15 da sett. 2022 ([AS 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
 #### Art. 16
 
@@ -395,10 +390,10 @@ Las organisaziuns e las instituziuns ston ademplir las suandantas premissas:
 
 <sup>1</sup>
 
-Cun l’intent da promover la plurilinguitad en las autoritads chantunalas ed en las administraziuns vegnan concedids als chantuns plurilings agids finanzials per ademplir lur incumbensas particularas, e quai en spezial a favur:
+Cun l’intent da promover la plurilinguitad en las autoritads ed en las administraziuns chantunalas e communalas vegnan concedids als chantuns plurilings agids finanzials per ademplir lur incumbensas particularas, e quai en spezial a favur:[^17-1]
 
 - a. d’incumbensas da translaziun e da terminologia per la communicaziun entaifer ed ordaifer il chantun;
-- b. da la scolaziun e da la furmaziun supplementara linguistica e professiunala dals emploiads chantunals en dumondas da la plurilinguitad;
+- b.[^17-2] da la scolaziun e da la furmaziun supplementara linguistica e professiunala dals emploiads da las administraziuns en dumondas da la plurilinguitad;
 - c. da projects che han l’intent da sensibilisar la publicitad per la plurilinguitad.
 
 <sup>2</sup>
@@ -409,29 +404,30 @@ Cun l’intent da promover la plurilinguitad en il sectur da la furmaziun vegnan
 - b. da la scolaziun e da la furmaziun supplementara linguistica da las persunas d’instrucziun;
 - c. da projects che han l’intent d’intermediar ina lingua naziunala sur l’instrucziun bilingua sin tut ils stgalims da furmaziun;
 - d. da projects che han l’intent da laschar frequentar l’instrucziun en in’autra lingua uffiziala dal chantun sin tut ils stgalims da furmaziun;
-- e. da projects che han l’intent da promover il e‑learning.
+- e.[^17-3] …
+
+[^17-1]: Versiun tenor la cifra I da l’O dals 24 d’avust 2022, en vigur dapi ils 15 da sett. 2022 ([AS 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
+[^17-2]: Versiun tenor la cifra I da l’O dals 24 d’avust 2022, en vigur dapi ils 15 da sett. 2022 ([AS 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
+[^17-3]: Abolì tras la cifra I da l’O dals 24 d’avust 2022, cun effect dapi ils 15 da sett. 2022 ([AS 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
 ## 4. part Mantegniment e promoziun da la lingua e cultura rumantscha e taliana en il chantun Grischun
 
 #### Art. 18
 
-**Mesiras generalas en il chantun Grischun**
+**Mesiras generalas en il chantun Grischun**[^18-1]
 
 ### (art. 22 al. 1 lit. a LLing)
 
-Cun l’intent da mantegnair e da promover la lingua e cultura rumantscha e taliana vegnan concedids al chantun Grischun agids finanzials en spezial a favur:
+Cun l’intent da mantegnair e da promover la lingua e cultura rumantscha e taliana vegnan concedids al chantun Grischun agids finanzials per sustegnair mesiras ch’il chantun prenda sez en ils suandants secturs:
 
-- a.
+- a. instrucziun linguistica en scolas publicas;
+- b. activitad da translaziun;
+- c. publicaziuns en rumantsch ed en talian;
+- d. promoziun da la plurilinguitad entaifer l’administraziun chantunala;
+- e. mantegniment e promoziun da l’identitad linguistica e culturala;
+- f. promoziun da projects da terzas persunas, che cumpiglian la plurilinguitad sco er il mantegniment e la promoziun da l’identitad linguistica e culturala.
 
-  da mesiras ch’il chantun prenda en ils suandants secturs:
-
-  - 1\. instrucziun linguistica en scolas publicas,
-  - 2\. activitad da translaziun,
-  - 3\. publicaziuns en rumantsch ed en talian,
-  - 4\. promoziun da la plurilinguitad entaifer l’administraziun chantunala,
-  - 5\. mantegniment e promoziun da l’identitad linguistica e culturala;
-
-- b. dal sustegn da projects da terzas persunas che han l’intent da mantegnair e da promover la lingua e cultura rumantscha e taliana.
+[^18-1]: Versiun tenor la cifra I da l’O dals 24 d’avust 2022, en vigur dapi ils 15 da sett. 2022 ([AS 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
 #### Art. 19
 
@@ -443,15 +439,14 @@ Cun l’intent da mantegnair e da promover la lingua e cultura rumantscha e tali
 
 Al chantun Grischun vegnan concedids agids finanzials per sustegnair activitads surregiunalas d’organisaziuns e d’instituziuns rumantschas en ils suandants secturs:
 
-- a. svilup e renovaziun da la lingua;
-- b. instrucziun da la lingua e cultura rumantscha ordaifer la scola;
-- c. svilup e realisaziun da mesiras che han l’intent da mantegnair e da promover il rumantsch;
-- d. cussegliaziun, intermediaziun e documentaziun;
-- e. publicaziuns per uffants e per giuvenils.
+- a. svilup e realisaziun da mesiras che han l’intent da mantegnair e da promover la lingua e cultura rumantscha;
+- b. svilup e renovaziun da la lingua;
+- c. instrucziun da la lingua e cultura rumantscha ordaifer la scola;
+- d. cussegliaziun, intermediaziun e documentaziun.[^19-1]
 
 <sup>2</sup>
 
-Al chantun Grischun vegnan concedids agids finanzials per sustegnair activitads surregiunalas d’organisaziuns talianas en ils suandants secturs:
+Al chantun Grischun vegnan concedids agids finanzials per sustegnair activitads surregiunalas d’organisaziuns e d’instituziuns italofonas en ils suandants secturs:
 
 - a. svilup e realisaziun da mesiras che han l’intent da promover la lingua e cultura taliana;
 - b. publicaziuns davart la lingua e cultura taliana;
@@ -459,13 +454,15 @@ Al chantun Grischun vegnan concedids agids finanzials per sustegnair activitads 
 
 <sup>3</sup> Ils agids finanzials da la Confederaziun cuvran maximalmain 90 pertschient dals custs totals da l’organisaziun u da l’instituziun.
 
+[^19-1]: Versiun tenor la cifra I da l’O dals 24 d’avust 2022, en vigur dapi ils 15 da sett. 2022 ([AS 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
+
 #### Art. 20
 
 **Promoziun da l’activitad editoriala rumantscha**
 
 ### (art. 22 al. 1 lit. c LLing)
 
-<sup>1</sup> Al chantun Grischun vegnan concedids agids finanzials per sustegnair chasas edituras rumantschas che han la finamira da promover la litteratura rumantscha.
+<sup>1</sup> Al chantun Grischun vegnan concedids agids finanzials per sustegnair chasas edituras rumantschas che han la finamira da promover la litteratura rumantscha, e quai tant per uffants e per giuvenils sco er per persunas creschidas.[^20-1]
 
 <sup>2</sup>
 
@@ -474,6 +471,8 @@ Questas chasas edituras ston publitgar ovras rumantschas. Ellas ston en spezial:
 - a. tscherner e lectorar ils texts;
 - b. organisar la stampa e la producziun;
 - c. promover la distribuziun.
+
+[^20-1]: Versiun tenor la cifra I da l’O dals 24 d’avust 2022, en vigur dapi ils 15 da sett. 2022 ([AS 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
 #### Art. 21
 
@@ -495,20 +494,22 @@ Questas agenturas da novitads ston en spezial:
 
 #### Art. 22
 
-**Mesiras generalas en il chantun Tessin**
+**Mesiras generalas en il chantun Tessin**[^22-1]
 
 ### (art. 22 al. 1 lit. a e c LLing)
 
-Cun l’intent da mantegnair e da promover la lingua e cultura taliana vegnan concedids al chantun Tessin agids finanzials en spezial a favur:
+Cun l’intent da mantegnair e da promover la lingua e cultura taliana vegnan concedids al chantun Tessin agids finanzials per sustegnair mesiras ch’il chantun prenda sez en ils suandants secturs:
 
-- a. dal sustegn da programs e da projects da perscrutaziun en il sectur scientific;
-- b. dal sustegn da programs e da projects en il sectur linguistic e politic-cultural;
-- c. da publicaziuns d’impurtanza speziala per la promoziun da la lingua e cultura taliana;
-- d. d’occurrenzas davart la lingua e cultura taliana.
+- a. programs e projects da perscrutaziun en il sectur da la lingua e da la cultura;
+- b. publicaziuns d’impurtanza speziala per la promoziun da la lingua e cultura taliana;
+- c. occurrenzas e projects per promover la lingua e cultura taliana;
+- d. projects da terzas persunas en il sectur da la promoziun da la plurilinguitad sco er dal mantegniment e da la promoziun da l’identitad linguistica e culturala.
+
+[^22-1]: Versiun tenor la cifra I da l’O dals 24 d’avust 2022, en vigur dapi ils 15 da sett. 2022 ([AS 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
 #### Art. 23
 
-**Sustegn d’organisaziuns e d’instituziuns**
+**Sustegn d’organisaziuns e d’instituziuns**[^23-1]
 
 ### (art. 22 al. 1 lit. b LLing)
 
@@ -517,53 +518,46 @@ Cun l’intent da mantegnair e da promover la lingua e cultura taliana vegnan co
 Al chantun Tessin vegnan concedids agids finanzials per sustegnair activitads surregiunalas d’organisaziuns e d’instituziuns, en spezial per:
 
 - a. projects che han l’intent da mantegnair e da promover l’ierta culturala;
-- b. mesiras che han l’intent da promover la creaziun litterara;
-- c. l’organisaziun e la realisaziun d’occurrenzas linguisticas e culturalas.
+- b. mesiras che han l’intent da promover la lavur litterara e culturala;
+- c. l’organisaziun e la realisaziun d’occurrenzas linguisticas e culturalas relevantas.
 
-<sup>2</sup> Ils agids finanzials da la Confederaziun cuvran maximalmain 90 pertschient dals custs totals da l’organisaziun u da l’instituziun.
+<sup>2</sup> Al chantun Tessin vegnan plinavant concedids agids finanzials per sustegnair l’activitad dal «Osservatorio linguistico della Svizzera italiana».
 
-#### Art. 24
+<sup>3</sup> Ils agids finanzials da la Confederaziun cuvran maximalmain 90 pertschient dals custs totals da l’organisaziun u da l’instituziun.
 
-**Agids finanzials per il «Osservatorio linguistico della Svizzera italiana»**
+[^23-1]: Versiun tenor la cifra I da l’O dals 24 d’avust 2022, en vigur dapi ils 15 da sett. 2022 ([AS 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
-### (art. 22 al. 1 lit. b LLing)
+#### Art. 24 e 25
 
-Al chantun Tessin vegnan concedids agids finanzials per l’activitad dal «Osservatorio linguistico della Svizzera italiana».
+[^2425-1]
 
-#### Art. 25
-
-**Agid finanzial per translaziuns**
-
-### (art. 22 al. 1 lit. c LLing)
-
-Al chantun Tessin vegnan concedids agids finanzials per translatar ovras en talian u dal talian, sche questas ovras han ina impurtanza speziala per il svilup da l’identitad culturala dal chantun.
+[^2425-1]: Abolì tras la cifra I da l’O dals 24 d’avust 2022, cun effect dapi ils 15 da sett. 2022 ([AS 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
 ## 6. part Execuziun
 
 #### Art. 26
 
-**Dumondas**
+**Dumondas**[^26-1]
 
-<sup>1</sup> Dumondas per agids finanzials tenor ils artitgels 9 e 13–25 ston vegnir inoltradas al UFC.
+<sup>1</sup> Dumondas per agids finanzials ston vegnir inoltradas al UFC.
 
-<sup>2</sup> Dumondas per agids finanzials tenor ils artitgels 10 ed 11 ston vegnir inoltradas a la Conferenza svizra dals directurs chantunals da l’educaziun publica (CDEP). La CDEP trametta vinavant las dumondas al UFC, agiuntond ina recumandaziun.
+<sup>2</sup> Il UFC communitgescha il termin per inoltrar las dumondas en ina concurrenza che vegn publitgada sin sia pagina d’internet.
 
-<sup>3</sup> Las dumondas ston vegnir inoltradas mintg’onn, nun che la cunvegna da prestaziun prevesia insatge auter.
+<sup>3</sup> Las dumondas ston cumprovar ch’ellas adempleschian las premissas da promoziun e cuntegnair tut las indicaziuns necessarias davart ils criteris da promoziun.
 
-<sup>4</sup>
+<sup>4</sup> La precedenza vegn dada a quellas dumondas che adempleschan tut en tut il meglier ils criteris.
 
-Ellas ston vegnir inoltradas fin ils suandants termins:
-
-- a. dumondas tenor ils artitgels 9–11 e 13–16: fin ils 31 da mars da l’onn, per il qual l’agid finanzial vegn dumandà;
-- b. dumondas tenor ils artitgels 17–25: fin ils 31 da december da l’onn precedent.
+[^26-1]: Versiun tenor la cifra I da l’O dals 24 d’avust 2022, en vigur dapi ils 15 da sett. 2022 ([AS 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
 #### Art. 27
 
 **Procedura e meds legals**
 
-<sup>1</sup> 1 Davart las dumondas per agids finanzials decida il UFC.
+<sup>1</sup> Davart las dumondas per agids finanzials decida il UFC. Per las dumondas da promoziun tenor ils artitgels 10 ed 11 sa basa el sin ina recumandaziun da la Conferenza svizra dals directurs chantunals da l’educaziun publica.[^27-1]
 
-<sup>2</sup> La procedura ed ils meds legals sa drizzan tenor las disposiziuns generalas da la Lescha federala davart l’organisaziun giudiziala.
+<sup>2</sup> La procedura ed ils meds legals sa drizzan tenor las disposiziuns generalas da la giurisdicziun federala.
+
+[^27-1]: Versiun tenor la cifra I da l’O dals 24 d’avust 2022, en vigur dapi ils 15 da sett. 2022 ([AS 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
 #### Art. 28
 
@@ -577,11 +571,9 @@ Ellas ston vegnir inoltradas fin ils suandants termins:
 
 #### Art. 29
 
-**Pajament dals agids finanzials**
+[^29-1]
 
-<sup>1</sup> Ils agids finanzials tenor ils artitgels 9 e 12–25 vegnan pajads dal UFC.
-
-<sup>2</sup> Ils agids finanzials tenor ils artitgels 10 ed 11 vegnan pajads da la CDEP.
+[^29-1]: Abolì tras la cifra I da l’O dals 24 d’avust 2022, cun effect dapi ils 15 da sett. 2022 ([AS 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
 ## 7. part Disposiziuns finalas
 
@@ -611,7 +603,7 @@ II
 
 Las ordinaziuns qua sutvart vegnan midadas sco suonda:
 
-...[^annexu1-lvlu1-2]
+…[^annexu1-lvlu1-2]
 
 [^annexu1-lvlu1-1]: [[AS 1996 2283](https://fedlex.data.admin.ch/eli/oc/1996/2283_2283_2283)]
 [^annexu1-lvlu1-2]: Las midadas pon vegnir consultadas en la [AS 2010 2653](https://fedlex.data.admin.ch/eli/oc/2010/355).

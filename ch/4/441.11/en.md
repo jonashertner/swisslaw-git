@@ -4,11 +4,11 @@ title: "Ordinance of 4 June 2010 on the National Languages and Understanding bet
 short: LangO
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/355"
 language: en
-version: 2022-07-01
+version: 2022-09-15
 adopted: 2010-06-04
 in_force: 2010-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/355/20220701/en/xml/fedlex-data-admin-ch-eli-cc-2010-355-20220701-en-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/355/20220701/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/355/20220915/en/xml/fedlex-data-admin-ch-eli-cc-2010-355-20220915-en-xml-11.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/355/20220915/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Languages Ordinance, LangO)
 
-of 4 June 2010 (Status as of 1 July 2022)
+of 4 June 2010 (Status as of 15 September 2022)
 
 The Swiss Federal Council,
 
@@ -42,7 +42,7 @@ Whenever, in the cases described in Article 4 paragraph 2 of the LangA, a unit o
 - a. criteria or objectives in accordance with the requirements of Section 2 of the LangA should be included in the strategic objectives or instruments;
 - b. certain provisions in Section 2 of the LangA should be deemed applicable by way of ordinance.
 
-[^1-1]: Amended by No I of the O of 27 Aug. 2014, in effect since 1 Oct. 2014 ([AS 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
+[^1-1]: Amended by No I of the O of 27 Aug. 2014, in force since 1 Oct. 2014 ([AS 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
 
 #### Art. 2
 
@@ -55,7 +55,7 @@ Whenever, in the cases described in Article 4 paragraph 2 of the LangA, a unit o
 <sup>2</sup> The units of the Federal Administration shall take the necessary organisational measures to guarantee the quality of the drafting and form of texts. The Federal Chancellery shall draw up instructions establishing quality standards for the drafting and form of texts.[^2-2]
 
 [^2-1]: Amended by Annex No 3 of the O of 10 Nov. 2021, in force since 1 July 2022 ([AS 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
-[^2-2]: Amended by No I of the O of 27 Aug. 2014, in effect since 1 Oct. 2014 ([AS 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
+[^2-2]: Amended by No I of the O of 27 Aug. 2014, in force since 1 Oct. 2014 ([AS 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
 
 #### Art. 3
 
@@ -81,7 +81,7 @@ Whenever, in the cases described in Article 4 paragraph 2 of the LangA, a unit o
 
 <sup>2</sup> They shall also offer a selection of content in Romansh, in consultation with the Federal Chancellery.
 
-[^4-1]: Amended by No I of the O of 27 Aug. 2014, in effect since 1 Oct. 2014 ([AS 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
+[^4-1]: Amended by No I of the O of 27 Aug. 2014, in force since 1 Oct. 2014 ([AS 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
 
 #### Art. 5
 
@@ -115,7 +115,7 @@ In particular, they shall ensure that all employees, irrespective of their lingu
 - b. may participate equally in the decision-making process in accordance with their qualifications;
 - c. have the same prospects for development and promotion.
 
-[^6-1]: Amended by No I of the O of 27 Aug. 2014, in effect since 1 Oct. 2014 ([AS 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
+[^6-1]: Amended by No I of the O of 27 Aug. 2014, in force since 1 Oct. 2014 ([AS 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
 [^6-2]: [SR 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
 
 #### Art. 7
@@ -124,9 +124,11 @@ In particular, they shall ensure that all employees, irrespective of their lingu
 
 ### (Art. 20 para. 2 LangA and Art. 4 para. 2 let. e FPA)
 
+[^7-2]
+
 <sup>1</sup>
 
-The representation of linguistic communities in the federal administrative units referred to in Article 1 paragraph 1 letters a and b of the FPersO[^7-2], with the exception of the ETH Domain, must aim to achieve the following ranges, including for management positions:
+The representation of linguistic communities in the federal administrative units referred to in Article 1 paragraph 1 letters a and b of the FPersO[^7-3], with the exception of the ETH Domain, must aim to achieve the following ranges, including for management positions:
 
 - a. German: 68.5 – 70.5%
 - b. French: 21.5 – 23.5%
@@ -137,14 +139,17 @@ The representation of linguistic communities in the federal administrative units
 
 <sup>3</sup> When recruiting personnel, the employers referred to in paragraph 1 shall ensure that candidates from all linguistic communities progress from the preselection phase to the interviews, provided they fulfil the objective criteria. Where candidates have equal qualifications, priority shall be given to those who belong to a linguistic community that is underrepresented in the administrative unit in question; this applies in particular for management positions.
 
-[^7-1]: Amended by No I of the O of 27 Aug. 2014, in effect since 1 Oct. 2014 ([AS 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
-[^7-2]: [SR 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^7-1]: Amended by No I of the O of 27 Aug. 2014, in force since 1 Oct. 2014 ([AS 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
+[^7-2]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^7-3]: [SR 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
 
 #### Art. 8
 
 **Language skills of federal personnel**[^8-1]
 
 ### (Art. 20 para. 1 LangA and Art. 4 para. 2 let. e<sup>bis</sup> FPA)
+
+[^8-2]
 
 <sup>1</sup>
 
@@ -156,12 +161,13 @@ The employers referred to in Article 6 paragraph 1 shall ensure that:
 
 <sup>2</sup> Employers shall offer their employees French, German and Italian language courses.
 
-<sup>3</sup> If a manager does not have the required language skills when recruited, the employer shall take the measures necessary to improve them within one year of recruitment.
+<sup>3</sup> If a member of management does not have the required language skills when recruited, the employer shall take the measures necessary to improve their skills within one year of recruitment.
 
-<sup>4</sup> Training required for acquiring language skills is considered to be training which meets the needs of the service within the meaning of Article 4 paragraph 4 of the FPersO[^8-2].
+<sup>4</sup> Training required for acquiring language skills is considered to be training which meets the needs of the service within the meaning of Article 4 paragraph 4 of the FPersO[^8-3].
 
-[^8-1]: Amended by No I of the O of 27 Aug. 2014, in effect since 1 Oct. 2014 ([AS 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
-[^8-2]: [SR 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^8-1]: Amended by No I of the O of 27 Aug. 2014, in force since 1 Oct. 2014 ([AS 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
+[^8-2]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^8-3]: [SR 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
 
 #### Art. 8a
 
@@ -171,7 +177,7 @@ The employers referred to in Article 6 paragraph 1 shall ensure that:
 
 The Federal Council shall set the strategic objectives in connection with the promotion of plurilingualism for each legislative period.
 
-[^8a-1]: Inserted by No I of the O of 27 Aug. 2014, in effect since 1 Oct. 2014 ([AS 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
+[^8a-1]: Inserted by No I of the O of 27 Aug. 2014, in force since 1 Oct. 2014 ([AS 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
 
 #### Art. 8b
 
@@ -192,7 +198,7 @@ The tasks of the Federal Delegate for Plurilingualism include:
 - e. keeping the general public regularly informed on matters concerning plurilingualism;
 - f. representing the Confederation in national bodies that promote plurilingualism.
 
-[^8b-1]: Inserted by No I of the O of 27 Aug. 2014, in effect since 1 Oct. 2014 ([AS 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
+[^8b-1]: Inserted by No I of the O of 27 Aug. 2014, in force since 1 Oct. 2014 ([AS 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
 
 #### Art. 8c
 
@@ -204,7 +210,7 @@ The tasks of the Federal Delegate for Plurilingualism include:
 
 <sup>2</sup> The administrative units are responsible for implementing the range of measures and shall provide the financial and human resources necessary for the promotion of plurilingualism.
 
-[^8c-1]: Inserted by No I of the O of 27 Aug. 2014, in effect since 1 Oct. 2014 ([AS 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
+[^8c-1]: Inserted by No I of the O of 27 Aug. 2014, in force since 1 Oct. 2014 ([AS 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
 
 #### Art. 8d
 
@@ -222,142 +228,135 @@ The tasks of the Federal Delegate for Plurilingualism include:
 
 <sup>5</sup> If a department or the Federal Chancellery manifestly fails to comply with the provisions on the promotion of plurilingualism, the Federal Delegate for Plurilingualism may issue recommendations for the department in question or the Federal Chancellery.
 
-[^8d-1]: Inserted by No I of the O of 27 Aug. 2014, in effect since 1 Oct. 2014 ([AS 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
+[^8d-1]: Inserted by No I of the O of 27 Aug. 2014, in force since 1 Oct. 2014 ([AS 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
 
-## Section 2 Promoting Understanding and Exchange Between the Linguistic Communities
+## Section 2 Promoting Understanding and Exchange between the Linguistic Communities
 
 #### Art. 9
 
-**School exchanges**
+**School exchanges**[^9-1]
 
 ### (Art. 14 LangA)
 
-<sup>1</sup>
+In order to promote school exchanges, Movetia, the Swiss Foundation for the Promotion of Exchanges and Mobility, shall be granted financial assistance for:
 
-Financial assistance for the promotion of school exchanges shall be granted to organisations which meet the following requirements:
+- a. developing and conducting programmes to promote school exchanges;
+- b. providing advice, assistance and support to exchange projects;
+- c. documenting, evaluating and providing information on exchange opportunities and exchange activities.
 
-- a. have as their mission the promotion of national and international exchange between students and between teachers at all school levels, with the aim of improving knowledge of the national languages;
-- b. have been set up by the cantons;
-- c. are active throughout Switzerland.
-
-<sup>2</sup>
-
-The financial assistance is granted for:
-
-- a. basic services at national and regional level;
-- b. projects of national importance for the promotion of understanding and linguistic diversity.
-
-<sup>3</sup>
-
-Basic services are deemed in particular to be:
-
-- a. the development and maintenance of an exchange network;
-- b. the provision of advice and support for exchange projects;
-- c. mediation between exchange partnerships;
-- d. the implementation and evaluation of own exchange projects;
-- e. the production of publications, didactic aids and documentation;
-- f. the provision of training and continuing professional development for people promoting exchange in schools and administration.
+[^9-1]: Amended by No I of the O of 24 Aug. 2022, in force since 15 Sept. 2022 ([AS 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
 #### Art. 10
 
-**Promoting the national languages in teaching**
+**National languages in teaching**
 
 ### (Art. 16 let. a and b LangA)
 
-Financial assistance for promoting the national languages in teaching shall be granted to the cantons for:
+[^10-1]
 
-- a. innovative projects for the development of concepts and didactic aids for the teaching of a second and third national language;
+In order to promote the national languages in the curriculum, the cantons shall be granted financial assistance for:
+
+- a.[^10-2] projects to develop concepts and didactic aids for teaching a second and third national language that are innovative or are relevant to the common education policy goals of the Confederation and cantons;
 - b. projects for promoting the acquisition of another national language through bilingual instruction;
 - c. promoting skills in the local national language among children whose first language is not a national language prior to starting primary school.
 
+[^10-1]: Amended by No I of the O of 24 Aug. 2022, in force since 15 Sept. 2022 ([AS 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
+[^10-2]: Amended by No I of the O of 24 Aug. 2022, in force since 15 Sept. 2022 ([AS 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
+
 #### Art. 11
 
-**Promotion among speakers of other languages of knowledge of their first language**
+**Knowledge of their first language among speakers of other languages**[^11-1]
 
 ### (Art. 16 let. c LangA)
 
-Financial assistance for the promotion among speakers of other languages of knowledge of their first language shall be granted to the cantons for the following measures:
+In order to promote knowledge of their first language among speakers of other languages, the cantons shall be granted financial assistance for the following measures:
 
-- a. the promotion of concepts for integrated learning in the language and culture of origin;
-- b. the continuing professional development of teachers;
-- c. the development of didactic aids.
+- a. developing concepts for integrated learning in the language and culture of origin;
+- b. continuing professional development for teachers;
+- c. developing didactic aids.
+
+[^11-1]: Amended by No I of the O of 24 Aug. 2022, in force since 15 Sept. 2022 ([AS 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
 #### Art. 12
 
-**Academic institution promoting plurilingualism**
+**Academic institution for plurilingualism**[^12-1]
 
 ### (Art. 17 LangA)
 
-<sup>1</sup> Financial assistance shall be granted to the Institute of Multilingualism at the University of Fribourg and the University of Teacher Education, Fribourg (the Institute) for their basic services in applied research on languages and plurilingualism.
+<sup>1</sup>
 
-<sup>2</sup> The Federal Office of Culture (FOC) shall conclude a service agreement with the Institute which includes a research mandate.
+In order to promote applied research in the field of languages and plurilingualism, the Institute of Multilingualism at the University of Fribourg and the University of Teacher Education, Fribourg shall be granted financial assistance for:
 
-<sup>3</sup>
+- a. coordinating, managing and conducting research;
+- b. operating a documentation office;
+- c. maintaining a national research network;
+- d. working with international research networks and academic organisations.
 
-Basic services are deemed in particular to be:
+<sup>2</sup> The Federal Office of Culture (FOC) shall enter into a service agreement with the Institute for Multilingualism.
 
-- a. the coordination, management and implementation of the research mandate;
-- b. the development and maintenance of a documentation office;
-- c. the production of publications on plurilingualism;
-- d. the monitoring and evaluation of teaching practices;
-- e. collaboration in national and international research networks and participation in the work of scientific organisations.
-
-<sup>4</sup>
-
-The financial assistance is conditional on the Institute:
-
-- a. developing and running a network which brings together research institutions from all of the country’s language regions that take part in applied research on plurilingualism, and, as an academic institute, assuming a leading role in the network;
-- b. implementing its own projects, to the extent provided for in the service agreement;
-- c. implementing projects on behalf of federal offices not included in the scope of the research mandate or projects on behalf of cantons or third parties only if the clients participate proportionately in the implementation costs.
+[^12-1]: Amended by No I of the O of 24 Aug. 2022, in force since 15 Sept. 2022 ([AS 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
 #### Art. 13
 
-**Support for news agencies**
+**Support for news agencies**[^13-1]
 
 ### (Art. 18 let. a LangA)
 
-<sup>1</sup>
+News agencies of national importance may be granted financial assistance if they report regularly from all four language regions in at least three national languages on topics relating to language and culture policy and the policy of promoting understanding.
 
-Financial assistance may be granted to news agencies of national importance which:
-
-- a. commit to and perform an assignment concerning the policy of promoting understanding; and
-- b. report on topics relating to language and culture policy and the policy of promoting understanding in all four language regions.
-
-<sup>2</sup> A news agency is of national importance if it regularly publishes information in at least three national languages.
+[^13-1]: Amended by No I of the O of 24 Aug. 2022, in force since 15 Sept. 2022 ([AS 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
 #### Art. 14
 
-**Support for organisations and institutions**
+**Support for organisations and institutions**[^14-1]
 
 ### (Art. 18 let. b LangA)
 
 <sup>1</sup>
 
-Financial assistance may be granted to non-profit organisations and institutions of national importance whose activity concerns at least one entire language region and which provide new impetus in at least three of the following areas:
+In order to promote understanding between the linguistic communities, organisations and institutions may be granted financial assistance for:
 
-- a. promoting the coexistence of linguistic communities and the meeting of the country’s cultures;
-- b. promoting the preservation and dissemination of the national languages and their cultures;
-- c. promoting interest in literary creation in Switzerland beyond language borders;
-- d. work and publications on the topic of language acquisition;
-- e. awareness-raising among the population of individual and collective plurilingualism and mediation between linguistic communities;
-- f. laying the foundations for the maintenance and promotion of languages not linked to a particular territory and officially recognised by the Confederation.
+- a.
+
+  activities that serve to raise public awareness of plurilingualism by:
+
+  - 1\. promoting the practice, perception and appreciation of plurilingualism, and
+  - 2\. facilitating participation in plurilingual cultural activities;
+
+- b.
+
+  activities that serve to network actors involved in promoting understanding between linguistic communities by:
+
+  - 1\. encouraging the exchange of knowledge and experiences, and
+  - 2\. establishing and maintaining cooperation.
 
 <sup>2</sup>
 
+The organisations and institutions must meet the following requirements:
+
+- a. they must be active in at least two linguistic regions;
+- b. they must be non-profit;
+- c. they must have been carrying out awareness-raising and networking activities within the meaning of paragraph 1 for at least three years.
+
+<sup>3</sup>
+
 The amount of financial assistance shall be calculated on the basis of:
 
-- a. the structure and size of the organisation;
-- b. the type and significance of the activity or project;
-- c. the quality and impact of the measures;
-- d. own contributions and those of third parties.
+- a. the type and significance of the activities;
+- b. the quality and impact of the activities;
+- c. own contributions and those of third parties.
+
+<sup>4</sup> The financial assistance shall amount to a maximum of 50 per cent of the costs incurred by the organisation or institution in carrying out the activities. Up to 10 per cent of these costs claimed may be in respect of voluntary work carried out as the organisation or institution’s own contribution.
+
+[^14-1]: Amended by No I of the O of 24 Aug. 2022, in force since 15 Sept. 2022 ([AS 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
 #### Art. 15
 
-**Support for community projects**
+**Support for communities**
 
 ### (Art. 18 let. c LangA)
 
-<sup>1</sup> Financial assistance may be granted to community projects that concern at least two of the areas listed in Article 14 paragraph 1.
+<sup>1</sup> Communities may be granted financial assistance for projects that raise awareness or involve networking as specified in Article 14 paragraph 1.[^15-1]
 
 <sup>2</sup>
 
@@ -366,6 +365,8 @@ The amount of financial assistance shall be calculated on the basis of:
 - a. the type and significance of the activity or project;
 - b. the quality and impact of the project;
 - c. own contributions and those of third parties.
+
+[^15-1]: Amended by No I of the O of 24 Aug. 2022, in force since 15 Sept. 2022 ([AS 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
 #### Art. 16
 
@@ -380,7 +381,7 @@ The amount of financial assistance shall be calculated on the basis of:
 The organisations and institutions must meet the following requirements:
 
 - a. they must be active in at least three language regions;
-- b. they must be non-profit oriented;
+- b. they must be non-profit;
 - c. they must carry out activities for public benefit;
 - d. they must be politically and confessionally neutral;
 - e. they must fulfil a task relating to policy on languages and understanding, and their work must have a national impact.
@@ -395,43 +396,44 @@ The organisations and institutions must meet the following requirements:
 
 <sup>1</sup>
 
-Financial assistance for the promotion of plurilingualism in cantonal authorities and administrations shall be granted to the plurilingual cantons for performing their specific tasks, particularly for:
+In order to promote plurilingualism in cantonal and communal authorities and administrations, plurilingual cantons shall be granted financial assistance for performing their specific tasks, and in particular for:[^17-1]
 
 - a. translation and terminology services for communication within and between cantons;
-- b. language and technical training and continuing professional development for the personnel of cantonal authorities for plurilingualism matters;
-- c. projects for raising the general public’s awareness of plurilingualism.
+- b.[^17-2] language and technical training and continuing professional development for the administrative personnel in relation to plurilingualism matters;
+- c. projects for raising public awareness of plurilingualism.
 
 <sup>2</sup>
 
-Financial assistance for the promotion of plurilingualism in the area of education shall be granted to the plurilingual cantons for performing their specific tasks, particularly for:
+Financial assistance for the promotion of plurilingualism in the area of education shall be granted to the plurilingual cantons for performing their specific tasks, and in particular for:
 
-- a. the creation of didactic aids for language teaching;
+- a. creating didactic aids for language teaching;
 - b. language training and continuing professional development for teachers;
-- c. projects for promoting the acquisition of a national language through bilingual instruction at all levels of education;
-- d. projects for promoting the attendance of classes in another official language of the canton at all levels of education;
-- e. projects for the promotion of e-learning.
+- c. projects to promote the acquisition of a national language through bilingual instruction at all levels of education;
+- d. projects to promote the attendance of classes in another official language of the canton at all levels of education;
+- e.[^17-3] ...
+
+[^17-1]: Amended by No I of the O of 24 Aug. 2022, in force since 15 Sept. 2022 ([AS 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
+[^17-2]: Amended by No I of the O of 24 Aug. 2022, in force since 15 Sept. 2022 ([AS 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
+[^17-3]: Repealed by No I of the O of 24 Aug. 2022, with effect from 15 Sept. 2022 ([AS 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
 ## Section 4 Preserving and Promoting the Romansh and Italian Languages and Cultures in the Canton of Graubünden
 
 #### Art. 18
 
-**General measures in the Canton of Graubünden**
+**General measures in the Canton of Graubünden**[^18-1]
 
 ### (Art. 22 para. 1 let. a LangA)
 
-Financial assistance for preserving and promoting the Romansh and Italian languages and cultures shall be granted to the Canton of Graubünden, particularly for:
+In order to preserve and promote the Romansh and Italian languages and cultures, the Canton of Graubünden shall be granted financial assistance to support the canton’s own measures in the following areas:
 
-- a.
+- a. language courses in state schools;
+- b. translation activities;
+- c. publications in Romansh and Italian;
+- d. promoting plurilingualism in the cantonal administration;
+- e. preserving and promoting linguistic and cultural identity;
+- f. promoting third-party projects that involve plurilingualism and preserving and promoting linguistic and cultural identity.
 
-  measures taken by the canton in the following areas:
-
-  - 1\. language courses in state schools,
-  - 2\. translation activities,
-  - 3\. publications in Romansh and Italian,
-  - 4\. promoting plurilingualism in the cantonal administration,
-  - 5\. preserving and promoting linguistic and cultural identity;
-
-- b. support for third-party projects that involve preserving and promoting the Romansh and Italian languages and cultures.
+[^18-1]: Amended by No I of the O of 24 Aug. 2022, in force since 15 Sept. 2022 ([AS 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
 #### Art. 19
 
@@ -441,13 +443,12 @@ Financial assistance for preserving and promoting the Romansh and Italian langua
 
 <sup>1</sup>
 
-Financial assistance shall be granted to the Canton of Graubünden for supporting the interregional activities of Romansh organisations and institutions in the following areas:
+The Canton of Graubünden shall be granted financial assistance to support the interregional activities of Romansh organisations and institutions in the following areas:
 
-- a. language development and renewal;
-- b. extracurricular courses in Romansh language and culture;
-- c. development and implementation of measures for preserving and promoting Romansh;
-- d. advice, mediation and documentation;
-- e. publications for children and young people.
+- a. developing and implementing measures to preserve and promote the Romansh language and culture;
+- b. language development and renewal;
+- c. extracurricular courses in Romansh language and culture;
+- d. advice, mediation and documentation.[^19-1]
 
 <sup>2</sup>
 
@@ -457,7 +458,9 @@ Financial assistance shall be granted to the Canton of Graubünden for supportin
 - b. publications about Italian language and culture;
 - c. creation and running of a documentation office on Italian language and culture.
 
-<sup>3</sup> The Confederation’s financial assistance shall cover a maximum of 90% of the total costs of the organisation or institution.
+<sup>3</sup> The Confederation’s financial assistance shall cover a maximum of 90 per cent of the total costs of the organisation or institution.
+
+[^19-1]: Amended by No I of the O of 24 Aug. 2022, in force since 15 Sept. 2022 ([AS 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
 #### Art. 20
 
@@ -465,7 +468,7 @@ Financial assistance shall be granted to the Canton of Graubünden for supportin
 
 ### (Art. 22 para. 1 let. c LangA)
 
-<sup>1</sup> Financial assistance shall be granted to the Canton of Graubünden for supporting Romansh publishing houses that seek to promote Romansh literature.
+<sup>1</sup> The Canton of Graubünden shall be granted financial assistance to support Romansh publishing houses that seek to promote Romansh literature for children, adolescents and adults.[^20-1]
 
 <sup>2</sup>
 
@@ -474,6 +477,8 @@ The publishing houses must publish literary works in Romansh. In particular, the
 - a. select and copy-edit the texts;
 - b. organise printing and production;
 - c. promote distribution.
+
+[^20-1]: Amended by No I of the O of 24 Aug. 2022, in force since 15 Sept. 2022 ([AS 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
 #### Art. 21
 
@@ -495,75 +500,70 @@ In particular, the news agencies must:
 
 #### Art. 22
 
-**General measures in the Canton of Ticino**
+**General measures in the Canton of Ticino**[^22-1]
 
 ### (Art. 22 para. 1 let. a and c LangA)
 
-Financial assistance for preserving and promoting Italian language and culture shall be granted to the Canton of Ticino, particularly for:
+In order to preserve and promote the Italian language and culture, the Canton of Ticino shall be granted financial assistance to support the canton’s own measures in the following areas:
 
-- a. support for research programmes and projects in the area of science;
-- b. support for programmes and projects in the area of language and culture policy;
-- c. publications of particular significance for the promotion of Italian language and culture;
-- d. events on the topic of Italian language and culture.
+- a. research programmes and research projects relating to language and culture;
+- b. publications of particular significance in promoting the Italian language and culture;
+- c. events and projects that promote the Italian language and culture;
+- d. third-party projects that involve plurilingualism and preserving and promoting linguistic and cultural identity.
+
+[^22-1]: Amended by No I of the O of 24 Aug. 2022, in force since 15 Sept. 2022 ([AS 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
 #### Art. 23
 
-**Support for organisations and institutions**
+**Support for organisations and institutions**[^23-1]
 
 ### (Art. 22 para. 1 let. b LangA)
 
 <sup>1</sup>
 
-Financial assistance for supporting the interregional activities of organisations and institutions shall be granted to the Canton of Ticino, in particular for:
+The Canton of Ticino shall be granted financial assistance to support the interregional activities of organisations and institutions, and in particular for:
 
-- a. projects for the preservation and promotion of its cultural heritage;
-- b. measures for the promotion of literary creation;
-- c. the organisation and holding of language and cultural events.
+- a. projects that preserve and promote its cultural heritage;
+- b. measures to promote literary and cultural creativity;
+- c. organising and holding events of linguistic and cultural significance.
 
-<sup>2</sup> The Confederation’s financial assistance shall cover a maximum of 90% of the total costs of the organisation or institution.
+<sup>2</sup> The Canton of Ticino shall also be granted financial assistance to support the activities of the *Osservatorio linguistico della Svizzera italiana*.
 
-#### Art. 24
+<sup>3</sup> The Confederation’s financial assistance shall cover a maximum of 90 per cent of the total costs of the organisation or institution.
 
-**Financial assistance for the Osservatorio linguistico della Svizzera italiana**
+[^23-1]: Amended by No I of the O of 24 Aug. 2022, in force since 15 Sept. 2022 ([AS 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
-### (Art. 22 para. 1 let. b LangA)
+#### Art. 24 and 25
 
-Financial assistance shall be granted to the Canton of Ticino for the activities of the Osservatorio linguistico della Svizzera italiana.
+[^2425-1]
 
-#### Art. 25
-
-**Financial assistance for translations**
-
-### (Art. 22 para. 1 let. c LangA)
-
-Financial assistance shall be granted to the Canton of Ticino for translations into and from Italian of literary works that are particularly important for the development of the canton’s cultural identity.
+[^2425-1]: Repealed by No I of the O of 24 Aug. 2022, with effect from 15 Sept. 2022 ([AS 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
 ## Section 6 Implementation
 
 #### Art. 26
 
-**Applications**
+**Applications**[^26-1]
 
-<sup>1</sup> Applications for the financial assistance established in Articles 9 and 13 to 25 must be submitted to the FOC.
+<sup>1</sup> Applications for financial assistance shall be submitted to the FOC.
 
-<sup>2</sup> Applications for the financial assistance established in Articles 10 and 11 must be submitted to the Swiss Conference of Cantonal Directors of Education, which shall forward the applications to the FOC with a recommendation.
+<sup>2</sup> The FOC shall publish the deadline for submitting applications in an invitation on its website.
 
-<sup>3</sup> The applications must be submitted annually, unless otherwise provided by the service agreement.
+<sup>3</sup> The applications must include proof of compliance with the requirements for funding and contain all the required details relating to the funding criteria.
 
-<sup>4</sup>
+<sup>4</sup> Priority shall be given to applications that best meet the criteria in an overall assessment.
 
-They must be submitted by the following deadlines:
-
-- a. applications under Articles 9 to 11 and 13 to 16: by 31 March of the year for which the financial assistance is requested;
-- b. applications under Articles 17 to 25: by 31 December of the previous year.
+[^26-1]: Amended by No I of the O of 24 Aug. 2022, in force since 15 Sept. 2022 ([AS 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
 #### Art. 27
 
 **Procedure and legal remedies**
 
-<sup>1</sup> The FOC shall decide on applications for financial assistance.
+<sup>1</sup> The FOC shall decide on applications for financial assistance. In the case of applications for funding in accordance with Articles 10 and 11, it shall base its decision on a recommendation from the Swiss Conference of Cantonal Directors of Education.[^27-1]
 
 <sup>2</sup> The procedure and the legal remedies are governed by the general provisions on the administration of federal justice.
+
+[^27-1]: Amended by No I of the O of 24 Aug. 2022, in force since 15 Sept. 2022 ([AS 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
 #### Art. 28
 
@@ -577,11 +577,9 @@ They must be submitted by the following deadlines:
 
 #### Art. 29
 
-**Payment of financial assistance**
+[^29-1]
 
-<sup>1</sup> The financial assistance under Articles 9 and 12 to 25 shall be paid by the FOC.
-
-<sup>2</sup> The financial assistance under Articles 10 and 11 shall be paid by the Swiss Conference of Cantonal Directors of Education.
+[^29-1]: Repealed by No I of the O of 24 Aug. 2022, with effect from 15 Sept. 2022 ([AS 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
 ## Section 7 Final Provisions
 
@@ -595,7 +593,7 @@ The repeal and amendment of existing legislation are regulated in the Annex.
 
 **Commencement**
 
-The commencement date for this Ordinance is 1 July 2010.
+This Ordinance comes into force on 1 July 2010.
 
 Annex
 
@@ -614,4 +612,4 @@ The following Ordinances are amended as follows:
 ...[^annexu1-lvlu1-2]
 
 [^annexu1-lvlu1-1]: [[AS 1996 2283](https://fedlex.data.admin.ch/eli/oc/1996/2283_2283_2283)]
-[^annexu1-lvlu1-2]: The amendments may be consulted under [AS 2010 2653](https://fedlex.data.admin.ch/eli/oc/2010/355)..
+[^annexu1-lvlu1-2]: The amendments may be consulted under [AS 2010 2653](https://fedlex.data.admin.ch/eli/oc/2010/355).
