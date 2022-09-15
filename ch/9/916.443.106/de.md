@@ -4,11 +4,11 @@ title: "Verordnung des EDI vom 18. November 2015 über die Ein-, Durch- und Ausf
 short: EDAV-DS-EDI
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/845"
 language: de
-version: 2022-07-16
+version: 2022-09-16
 adopted: 2015-11-18
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/845/20220716/de/xml/fedlex-data-admin-ch-eli-cc-2015-845-20220716-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/845/20220716/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/845/20220916/de/xml/fedlex-data-admin-ch-eli-cc-2015-845-20220916-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/845/20220916/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/845/20220716/de"
 
 (EDAV-DS-EDI)
 
-vom 18. November 2015 (Stand am 16. Juli 2022)
+vom 18. November 2015 (Stand am 16. September 2022)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -149,13 +149,13 @@ Die Verordnung des EDI vom 16. Mai 2007[^12-1] über die Kontrolle der Ein- und 
 
 Diese Verordnung tritt am 1. Januar 2016 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 1)
 
 ## Massgebende Erlasse der EU über die harmonisierten Ein- und Durchfuhrbedingungen
 
-[^t-1]: Bereinigt gemäss Ziff. I der V des BLV vom 21. Dez. 2015 ([AS 2015 5939](https://fedlex.data.admin.ch/eli/oc/2015/911)), vom 14. Jan. 2016 ([AS 2016 55](https://fedlex.data.admin.ch/eli/oc/2016/13)), vom 27. Mai 2016 ([AS 2016 1661](https://fedlex.data.admin.ch/eli/oc/2016/303)), vom 11. Okt. 2016 ([AS 2016 3437](https://fedlex.data.admin.ch/eli/oc/2016/579)), vom 3. Nov. 2016 ([AS 2016 3701](https://fedlex.data.admin.ch/eli/oc/2016/624)), vom 30. Jan. 2017 ([AS 2017 471](https://fedlex.data.admin.ch/eli/oc/2017/76)), vom 24. März 2017 ([AS 2017 1679](https://fedlex.data.admin.ch/eli/oc/2017/175)), vom 27. Sept. 2018 ([AS 2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339)), vom 27. März 2019 ([AS 2019 1049](https://fedlex.data.admin.ch/eli/oc/2019/192)), vom 27. Juni 2019 ([AS 2019 1955](https://fedlex.data.admin.ch/eli/oc/2019/359)), vom 18. Nov. 2019 ([AS 2019 3689](https://fedlex.data.admin.ch/eli/oc/2019/668)), vom 19. Dez. 2019 ([AS 2019 4727](https://fedlex.data.admin.ch/eli/oc/2019/768)), vom 5. März 2020 ([AS 2020 635](https://fedlex.data.admin.ch/eli/oc/2020/124)), Ziff. I Abs. 1 der V des BLV vom 13. Juli 2020 ([AS 2020 2911](https://fedlex.data.admin.ch/eli/oc/2020/541)), Ziff. I der V des BLV vom 21. Dez. 2020 ([AS 2020 6403](https://fedlex.data.admin.ch/eli/oc/2020/1048)), vom 22. April 2021 ([AS 2021 238](https://fedlex.data.admin.ch/eli/oc/2021/238)), vom 20. Aug. 2021 ([AS 2021 497](https://fedlex.data.admin.ch/eli/oc/2021/497)), vom 9. Sept. 2021 ([AS 2021 549](https://fedlex.data.admin.ch/eli/oc/2021/549)), vom 29. Sept. 2021 ([AS 2021 586](https://fedlex.data.admin.ch/eli/oc/2021/586)), vom 21. Dez. 2021 ([AS 2021 903](https://fedlex.data.admin.ch/eli/oc/2021/903)), vom 26. Jan. 2022 ([AS 2022 40](https://fedlex.data.admin.ch/eli/oc/2022/40)), vom 15. März 2022 ([AS 2022 171](https://fedlex.data.admin.ch/eli/oc/2022/171)), vom 12. Mai 2022 ([AS 2022 287](https://fedlex.data.admin.ch/eli/oc/2022/287)) und vom 14. Juli 2022, in Kraft seit 16. Juli 2022 ([AS 2022 413](https://fedlex.data.admin.ch/eli/oc/2022/413)).
+[^t-1]: Bereinigt gemäss Ziff. I der V des BLV vom 21. Dez. 2015 ([AS 2015 5939](https://fedlex.data.admin.ch/eli/oc/2015/911)), vom 14. Jan. 2016 ([AS 2016 55](https://fedlex.data.admin.ch/eli/oc/2016/13)), vom 27. Mai 2016 ([AS 2016 1661](https://fedlex.data.admin.ch/eli/oc/2016/303)), vom 11. Okt. 2016 ([AS 2016 3437](https://fedlex.data.admin.ch/eli/oc/2016/579)), vom 3. Nov. 2016 ([AS 2016 3701](https://fedlex.data.admin.ch/eli/oc/2016/624)), vom 30. Jan. 2017 ([AS 2017 471](https://fedlex.data.admin.ch/eli/oc/2017/76)), vom 24. März 2017 ([AS 2017 1679](https://fedlex.data.admin.ch/eli/oc/2017/175)), vom 27. Sept. 2018 ([AS 2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339)), vom 27. März 2019 ([AS 2019 1049](https://fedlex.data.admin.ch/eli/oc/2019/192)), vom 27. Juni 2019 ([AS 2019 1955](https://fedlex.data.admin.ch/eli/oc/2019/359)), vom 18. Nov. 2019 ([AS 2019 3689](https://fedlex.data.admin.ch/eli/oc/2019/668)), vom 19. Dez. 2019 ([AS 2019 4727](https://fedlex.data.admin.ch/eli/oc/2019/768)), vom 5. März 2020 ([AS 2020 635](https://fedlex.data.admin.ch/eli/oc/2020/124)), Ziff. I Abs. 1 der V des BLV vom 13. Juli 2020 ([AS 2020 2911](https://fedlex.data.admin.ch/eli/oc/2020/541)), Ziff. I der V des BLV vom 21. Dez. 2020 ([AS 2020 6403](https://fedlex.data.admin.ch/eli/oc/2020/1048)), vom 22. April 2021 ([AS 2021 238](https://fedlex.data.admin.ch/eli/oc/2021/238)), vom 20. Aug. 2021 ([AS 2021 497](https://fedlex.data.admin.ch/eli/oc/2021/497)), vom 9. Sept. 2021 ([AS 2021 549](https://fedlex.data.admin.ch/eli/oc/2021/549)), vom 29. Sept. 2021 ([AS 2021 586](https://fedlex.data.admin.ch/eli/oc/2021/586)), vom 21. Dez. 2021 ([AS 2021 903](https://fedlex.data.admin.ch/eli/oc/2021/903)), vom 26. Jan. 2022 ([AS 2022 40](https://fedlex.data.admin.ch/eli/oc/2022/40)), vom 15. März 2022 ([AS 2022 171](https://fedlex.data.admin.ch/eli/oc/2022/171)), vom 12. Mai 2022 ([AS 2022 287](https://fedlex.data.admin.ch/eli/oc/2022/287)), vom 14. Juli 2022 ([AS 2022 413](https://fedlex.data.admin.ch/eli/oc/2022/413)) und vom 14. Sept. 2022, in Kraft seit 16. Sept. 2022 ([AS 2022 506](https://fedlex.data.admin.ch/eli/oc/2022/506)).
 
 <table>
 <tr><th>EU-Grunderlass</th><th>Titel und Publikationsdatum des Grunderlasses sowie Änderungserlasse mit Publikationsdaten</th></tr>
@@ -202,7 +202,7 @@ Anhang 1*[^t-1]*
 <tr><td>61. Beschluss 2010/381/EU</td><td>Beschluss 2010/381/EU der Kommission vom 8. Juli 2010 über Sofortmassnahmen für aus Indien eingeführte Sendungen mit zum menschlichen Verzehr bestimmten Aquakulturerzeugnissen, ABl. L 174 vom 9.7.2010, S. 51; zuletzt geändert durch Durchführungsbeschluss (EU) 2016/1774, ABl. L 271 vom 6.10.2016, S. 7.</td></tr>
 <tr><td>[tab] 62. und 63. …</td><td></td></tr>
 <tr><td>64. Verordnung (EU) Nr. 142/2011</td><td>Verordnung (EU) Nr. 142/2011 der Kommission vom 25. Februar 2011 zur Durchführung der Verordnung (EG) Nr. 1069/2009 des Europäischen Parlaments und des Rates mit Hygienevorschriften für nicht für den menschlichen Verzehr bestimmte tierische Nebenprodukte sowie zur Durchführung der Richtlinie 97/78/EG des Rates hinsichtlich bestimmter gemäss der genannten Richtlinie von Veterinärkontrollen an der Grenze befreiter Proben und Waren, ABl. L 54 vom 26.2.2011, S. 1; zuletzt geändert durch Verordnung (EU) 2022/384, ABl. L 78 vom 8.3.2022, S. 1.</td></tr>
-<tr><td>65. Beschluss 2011/163/EU</td><td>Beschluss 2011/163/EU der Kommission vom 16. März 2011 zur Genehmigung der von Drittländern gemäss Artikel 29 der Richtlinie 96/23/EG des Rates vorgelegten Pläne, ABl. L 70 vom 17.3.2011, S. 40; zuletzt geändert durch Durchführungsbeschluss (EU) 2022/367, ABl. L 69 vom 4.3.2022, S. 107.</td></tr>
+<tr><td>65. Beschluss 2011/163/EU</td><td>Beschluss 2011/163/EU der Kommission vom 16. März 2011 zur Genehmigung der von Drittländern gemäss Artikel 29 der Richtlinie 96/23/EG des Rates vorgelegten Pläne, ABl. L 70 vom 17.3.2011, S. 40; zuletzt geändert durch Durchführungsbeschluss (EU) 2022/1390, ABl. L 210 vom 11.8.2022, S. 7.</td></tr>
 <tr><td>[tab] 66.–69. …</td><td></td></tr>
 <tr><td>[tab] 69*a*. Verordnung (EU) Nr. 576/2013</td><td>Verordnung (EU) Nr. 576/2013 des Europäischen Parlaments und des Rates vom 12. Juni 2013 über die Verbringung von Heimtieren zu anderen als Handelszwecken und zur Aufhebung der Verordnung (EG) Nr. 998/2003, ABl. L 178 vom 28.6.2013, S. 1; zuletzt geändert durch Delegierte Verordnung (EU) 2021/1933, ABl. L 396 vom 10.11.2021, S. 4.</td></tr>
 <tr><td>70. Durchführungsverordnung (EU) Nr. 577/2013</td><td>Durchführungsverordnung (EU) Nr. 577/2013 der Kommission vom 28. Juni 2013 zu den Muster-Identifizierungsdokumenten für die Verbringung von Hunden, Katzen und Frettchen zu anderen als Handelszwecken, zur Erstellung der Listen der Gebiete und Drittländer sowie zur Festlegung der Anforderungen an Format, Layout und Sprache der Erklärungen zur Bestätigung der Einhaltung bestimmter Bedingungen gemäss der Verordnung (EU) Nr. 576/2013 des Europäischen Parlaments und des Rates, ABl. L 178 vom 28.6.2013, S. 109; zuletzt geändert durch Durchführungsverordnung (EU) 2020/2016, ABl. L 415 vom 10.12.2020, S. 39.</td></tr>
@@ -222,19 +222,19 @@ Anhang 1*[^t-1]*
 <tr><td>96. …</td><td></td></tr>
 <tr><td>97. Verordnung (EU) 2016/429</td><td>Verordnung (EU) 2016/429 des Europäischen Parlaments und des Rates vom 9. März 2016 zu Tierseuchen und zur Änderung und Aufhebung einiger Rechtsakte im Bereich der Tiergesundheit («Tiergesundheitsrecht»), ABl. L 84 vom 31.3.2016, S. 1; zuletzt geändert durch Delegierte Verordnung (EU) 2022/139, ABl. L 23 vom 2.2.2022, S. 1.</td></tr>
 <tr><td>98. Delegierte Verordnung (EU) 2020/692</td><td>Delegierte Verordnung (EU) 2020/692 der Kommission vom 30. Januar 2020 zur Ergänzung der Verordnung (EU) 2016/429 des Europäischen Parlaments und des Rates hinsichtlich Vorschriften für den Eingang von Sendungen von bestimmten Tieren, bestimmtem Zuchtmaterial und bestimmten Erzeugnissen tierischen Ursprungs in die Union und für deren anschliessende Verbringung und Handhabung, ABl. L 174 vom 3.6.2020, S. 379; zuletzt geändert durch Delegierte Verordnung (EU) 2022/54, ABl. L 10 vom 17.1.2022, S. 1.</td></tr>
-<tr><td>99. Durchführungsverordnung (EU) 2020/2235</td><td>Durchführungsverordnung (EU) 2020/2235 der Kommission vom 16. Dezember 2020 mit Durchführungsbestimmungen zu den Verordnungen (EU) 2016/429 und (EU) 2017/625 des Europäischen Parlaments und des Rates hinsichtlich der Muster für Veterinärbescheinigungen, der Muster für amtliche Bescheinigungen und der Muster für Veterinär-/amtliche Bescheinigungen für den Eingang in die Union von Sendungen bestimmter Kategorien von Tieren und Waren und für deren Verbringungen innerhalb der Union, hinsichtlich der amtlichen Bescheinigungstätigkeit im Zusammenhang mit derartigen Bescheinigungen sowie zur Aufhebung der Verordnung (EG) Nr. 599/2004, der Durchführungsverordnungen (EU) Nr. 636/2014 und (EU) 2019/628, der Richtlinie 98/68/EG und der Entscheidungen 2000/572/EG, 2003/779/EG und 2007/240/EG, ABl. L 442 vom 30.12.2020, S. 1; zuletzt geändert durch Durchführungsverordnung (EU) 2022/854, ABl. L 150 vom 1.6.2022, S. 69.</td></tr>
+<tr><td>99. Durchführungsverordnung (EU) 2020/2235</td><td>Durchführungsverordnung (EU) 2020/2235 der Kommission vom 16. Dezember 2020 mit Durchführungsbestimmungen zu den Verordnungen (EU) 2016/429 und (EU) 2017/625 des Europäischen Parlaments und des Rates hinsichtlich der Muster für Veterinärbescheinigungen, der Muster für amtliche Bescheinigungen und der Muster für Veterinär-/amtliche Bescheinigungen für den Eingang in die Union von Sendungen bestimmter Kategorien von Tieren und Waren und für deren Verbringungen innerhalb der Union, hinsichtlich der amtlichen Bescheinigungstätigkeit im Zusammenhang mit derartigen Bescheinigungen sowie zur Aufhebung der Verordnung (EG) Nr. 599/2004, der Durchführungsverordnungen (EU) Nr. 636/2014 und (EU) 2019/628, der Richtlinie 98/68/EG und der Entscheidungen 2000/572/EG, 2003/779/EG und 2007/240/EG, ABl. L 442 vom 30.12.2020, S. 1; zuletzt geändert durch Durchführungsverordnung (EU) 2022/1219, ABl. L 188 vom 15.7.2022, S. 75.</td></tr>
 <tr><td>100. Durchführungsverordnung (EU) 2020/2236Durchführungsverordnung (EU) 2020/2236</td><td>Durchführungsverordnung (EU) 2020/2236 der Kommission vom 16. Dezember 2020 mit Durchführungsbestimmungen zu den Verordnungen (EU) 2016/429 und (EU) 2017/625 des Europäischen Parlaments und des Rates hinsichtlich der Muster für Veterinärbescheinigungen für den Eingang in die Union von Sendungen von Wassertieren und von bestimmten Erzeugnissen tierischen Ursprungs aus Wassertieren und für deren Verbringungen innerhalb der Union sowie hinsichtlich der amtlichen Bescheinigungstätigkeit im Zusammenhang mit derartigen Bescheinigungen und zur Aufhebung der Verordnung (EG) Nr. 1251/2008, ABl. L 442 vom 30.12.2020, S. 410; zuletzt geändert durch Durchführungsverordnung (EU) 2021/1471, ABl. L 326 vom 15.9.2021, S. 1.</td></tr>
 <tr><td>[tab] 101. Durchführungsbeschluss (EU) 2021/361</td><td>Durchführungsbeschluss (EU) 2021/361 der Kommission vom 22. Februar 2021 zur Festlegung von Sofortmassnahmen für Verbringungen zwischen Mitgliedstaaten und den Eingang in die Union von Sendungen mit Salamandern im Zusammenhang mit der Infektion mit Batrachochytrium salamandrivorans, Fassung gemäss ABl. L 69 vom 26.2.2021, S. 12.</td></tr>
 <tr><td>102. Durchführungsverordnung (EU) 2021/403</td><td>Durchführungsverordnung (EU) 2021/403 der Kommission vom 24. März 2021 mit Durchführungsbestimmungen zu den Verordnungen (EU) 2016/429 und (EU) 2017/625 des Europäischen Parlaments und des Rates hinsichtlich der Muster für Veterinärbescheinigungen, der Muster für amtliche Bescheinigungen und der Muster für Veterinär-/amtliche Bescheinigungen für den Eingang in die Union von Sendungen bestimmter Kategorien von Landtieren und ihres Zuchtmaterials und für deren Verbringungen zwischen Mitgliedstaaten, hinsichtlich der amtlichen Bescheinigungstätigkeit im Zusammenhang mit derartigen Bescheinigungen sowie zur Aufhebung des Beschlusses 2010/470/EU, ABl. L 113 vom 31.3.2021, S. 1; zuletzt geändert durch Durchführungsverordnung (EU) 2022/497, ABl. L 101 vom 29.3.2022, S. 6.</td></tr>
-<tr><td>103. Durchführungsverordnung (EU) 2021/404</td><td>Durchführungsverordnung (EU) 2021/404 der Kommission vom 24. März 2021 zur Festlegung der Listen von Drittländern, Gebieten und Zonen derselben, aus denen der Eingang in die Union von Tieren, Zuchtmaterial und Erzeugnissen tierischen Ursprungs gemäss der Verordnung (EU) 2016/429 des Europäischen Parlaments und des Rates zulässig ist, ABl. L 114 vom 31.3.2021, S. 1; zuletzt geändert durch Durchführungsverordnung (EU) 2022/1040, ABl. L 173 vom 30.6.2022, S. 61.</td></tr>
-<tr><td>104. Durchführungsverordnung (EU) 2021/405</td><td>Durchführungsverordnung (EU) 2021/405 der Kommission vom 24. März 2021 zur Festlegung der Listen der Drittländer oder Drittlandsgebiete, aus denen gemäss der Verordnung (EU) 2017/625 des Europäischen Parlaments und des Rates der Eingang bestimmter für den menschlichen Verzehr bestimmter Tiere und Waren in die Union zulässig ist, ABl. L 114 vom 31.3.2021, S. 118; zuletzt geändert durch Durchführungsverordnung (EU) 2022/363, ABl. L 69 vom 4.3.2022, S. 40.</td></tr>
+<tr><td>103. Durchführungsverordnung (EU) 2021/404</td><td>Durchführungsverordnung (EU) 2021/404 der Kommission vom 24. März 2021 zur Festlegung der Listen von Drittländern, Gebieten und Zonen derselben, aus denen der Eingang in die Union von Tieren, Zuchtmaterial und Erzeugnissen tierischen Ursprungs gemäss der Verordnung (EU) 2016/429 des Europäischen Parlaments und des Rates zulässig ist, ABl. L 114 vom 31.3.2021, S. 1; zuletzt geändert durch Durchführungsverordnung (EU) 2022/1454, ABl. L 228 vom 2.9.2022, S. 33.</td></tr>
+<tr><td>104. Durchführungsverordnung (EU) 2021/405</td><td>Durchführungsverordnung (EU) 2021/405 der Kommission vom 24. März 2021 zur Festlegung der Listen der Drittländer oder Drittlandsgebiete, aus denen gemäss der Verordnung (EU) 2017/625 des Europäischen Parlaments und des Rates der Eingang bestimmter für den menschlichen Verzehr bestimmter Tiere und Waren in die Union zulässig ist, ABl. L 114 vom 31.3.2021, S. 118; zuletzt geändert durch Durchführungsverordnung (EU) 2022/1389, ABl. L 210 vom 11.8.2022, S. 1.</td></tr>
 <tr><td>105. Durchführungsverordnung (EU) 2021/1533</td><td>Durchführungsverordnung (EU) 2021/1533 der Kommission vom 17. September 2021 mit besonderen Bedingungen für die Einfuhr von Lebens- und Futtermitteln, deren Ursprung oder Herkunft Japan ist, nach dem Unfall im Kernkraftwerk Fukushima und zur Aufhebung der Durchführungsverordnung (EU) 2016/6, Fassung gemäss ABl. L 330 vom 20.9.2021, S. 72.</td></tr>
 <tr><td>[tab] 106. Durchführungsverordnung (EU) 2021/1938</td><td>Durchführungsverordnung (EU) 2021/1938 der Kommission vom 9. November 2021 zur Festlegung des Musterausweises für die Verbringung von Heimvögeln zu anderen als Handelszwecken aus einem Gebiet oder Drittland in einen Mitgliedstaat und zur Aufhebung der Entscheidung 2007/25/EG, Fassung gemäss ABl. L 396 vom 10.11.2021, S. 47.</td></tr>
 <tr><td>107. Durchführungs-verordnung (EU) 2022/478</td><td>Durchführungsverordnung (EU) 2022/478 der Kommission vom 24. März 2022 über die Beibehaltung von Schutzmaßnahmen in Bezug auf die Einfuhr von zum menschlichen Verzehr bestimmten Muscheln aus der Türkei, Fassung gemäss ABl. L 98 vom 25.3.2022, S. 54.</td></tr>
 <tr><td>108. Durchführungsbeschluss (EU) 2022/575</td><td>Durchführungsbeschluss (EU) 2022/575 der Kommission vom 6. April 2022 bezüglich Sofortmaßnahmen zum Schutz der Union gegen die Einschleppung der Maul- und Klauenseuche durch Sendungen mit Heu und Stroh aus Drittländern oder Drittlandsgebieten und zur Aufhebung der Durchführungsverordnung (EU) 2020/2208, Fassung gemäss ABl. L 109 vom 8.4.2022, S. 69.</td></tr>
 </table>
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 (Art. 2 Abs. 2)
 
@@ -254,7 +254,7 @@ Die Gesundheitsgarantien nach Artikel 2 Absatz 1 Buchstabe b werden nur anerkann
 
 [^annex2-lvlu1-lvl2-1]: Entscheidung 2008/185/EG der Kommission vom 21. Februar 2008 zur Festlegung zusätzlicher Garantien für den innergemeinschaftlichen Handel mit Schweinen hinsichtlich der Aujeszky-Krankheit und der Kriterien für die Informationsübermittlung, ABl. L 59 vom 4.3.2008, S. 19; zuletzt geändert durch Durchführungsbeschluss (EU) 2016/1782, ABl. L 272 vom 7.10.2016, S. 90.
 
-Anhang 3*[^t-3]*
+Anhang 3[^t-3]
 
 (Art. 3)
 
@@ -277,7 +277,7 @@ Tierprodukte mit erhöhtem tierseuchenpolizeilichem oder lebensmittelhygienische
 
 [^annex3-lvlu1-1]: Verordnung (EU) Nr. 142/2011 der Kommission vom 25. Februar 2011 zur Durchführung der Verordnung (EG) Nr. 1069/2009 des Europäischen Parlaments und des Rates mit Hygienevorschriften für nicht für den menschlichen Verzehr bestimmte tierische Nebenprodukte sowie zur Durchführung der Richtlinie 97/78/EG des Rates hinsichtlich bestimmter gemäss der genannten Richtlinie von Veterinärkontrollen an der Grenze befreiter Proben und Waren, ABl. L 54 vom 26.2.2011, S. 1; zuletzt geändert durch Verordnung (EU) 2020/797, ABl. L 194 vom 18.6.2020, S. 1.
 
-Anhang 4*[^t-4]*
+Anhang 4[^t-4]
 
 (Art. 5)
 
@@ -347,7 +347,7 @@ III. Folgende Tierprodukte dürfen nur in den nachstehend aufgeführten Mengen e
 <tr><td>4. Lebensmittel, die in Ziffer I Buchstabe b aufgeführt sind, sowie tierische Nebenprodukte, die zur Verfütterung an Heimtiere bestimmt sind.</td><td>Färöer, Grönland</td><td>höchstens 10 kg pro Person</td></tr>
 </table>
 
-Anhang 5*[^t-5]*
+Anhang 5[^t-5]
 
 (Art. 7)
 
@@ -360,7 +360,7 @@ Anhang 5*[^t-5]*
 <tr><th>Verordnung (EG) Nr. 853/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 mit spezifischen Hygienevorschriften für Lebensmittel tierischen Ursprungs, ABl. L 139 vom 30.4.2004, S. 55; zuletzt geändert durch Verordnung (EU) 2019/1243, ABl. L 198 vom 25.7.2019, S. 241.</th><th>Anhang II</th></tr>
 </table>
 
-Anhang 6*[^t-6]*
+Anhang 6[^t-6]
 
 (Art. 8)
 
@@ -436,7 +436,7 @@ Anhang 7
   - e. eine angemessene Ausrüstung für einen raschen Informationsaustausch über TRACES; und
   - f. Reinigungs- und Desinfektionsmittel, -geräte und -vorrichtungen.
 
-Anhang 8*[^t-7]*
+Anhang 8[^t-7]
 
 (Art. 10)
 

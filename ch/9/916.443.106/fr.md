@@ -4,11 +4,11 @@ title: "Ordonnance du DFI du 18 novembre 2015 réglant les échanges d'importati
 short: OITE-PT-DFI
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/845"
 language: fr
-version: 2022-07-16
+version: 2022-09-16
 adopted: 2015-11-18
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/845/20220716/fr/xml/fedlex-data-admin-ch-eli-cc-2015-845-20220716-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/845/20220716/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/845/20220916/fr/xml/fedlex-data-admin-ch-eli-cc-2015-845-20220916-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/845/20220916/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/845/20220716/fr"
 
 (OITE-PT-DFI)
 
-du 18 novembre 2015 (Etat le 16 juillet 2022)
+du 18 novembre 2015 (État le 16 septembre 2022)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -149,13 +149,13 @@ L’ordonnance du DFI du 16 mai 2007 sur le contrôle de l’importation et du t
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2016.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 1)
 
 ## Actes législatifs de l’UE relatifs aux conditions d’importation et de transit harmonisées
 
-[^t-1]: Mise à jour par le ch. I des O de l’OSAV du 21 déc. 2015 ([RO 2015 5939](https://fedlex.data.admin.ch/eli/oc/2015/911)), du 14 janv. 2016 ([RO 2016 55](https://fedlex.data.admin.ch/eli/oc/2016/13)), du 27 mai 2016 ([RO 2016 1661](https://fedlex.data.admin.ch/eli/oc/2016/303)), du 11 oct. 2016 ([RO 2016 3437](https://fedlex.data.admin.ch/eli/oc/2016/579)), du 3 nov. 2016 ([RO 2016 3701](https://fedlex.data.admin.ch/eli/oc/2016/624)), du 30 janv. 2017 ([RO 2017 471](https://fedlex.data.admin.ch/eli/oc/2017/76)), du 24 mars 2017 ([RO 2017 1679](https://fedlex.data.admin.ch/eli/oc/2017/175)), du 27 sept. 2018 ([RO 2018 3261](https://fedlex.data.admin.ch/eli/oc/2018/526)), du 27 mars 2019 ([RO 2019 1049](https://fedlex.data.admin.ch/eli/oc/2019/192)), du 27 juin 2019 ([RO 2019 1955](https://fedlex.data.admin.ch/eli/oc/2019/359)), du 18 nov. 2019 ([RO 2019 3689](https://fedlex.data.admin.ch/eli/oc/2019/668)), du 19 déc. 2019 ([RO 2019 4727](https://fedlex.data.admin.ch/eli/oc/2019/768)), du 5 mars 2020 ([RO 2020 635](https://fedlex.data.admin.ch/eli/oc/2020/124)), le ch. I al. 1 de l’O de l’OSAV du 13 juil. 2020 ([RO 2020 2911](https://fedlex.data.admin.ch/eli/oc/2020/541)), le ch. I des O de l’OSAV du 21 déc. 2020 ([RO 2020 6403](https://fedlex.data.admin.ch/eli/oc/2020/1048)), du 22 avril 2021 ([RO 2021 238](https://fedlex.data.admin.ch/eli/oc/2021/238)), du 20 août 2021 ([RO 2021 497](https://fedlex.data.admin.ch/eli/oc/2021/497)), du 9 sept. 2021 ([RO 2021 549](https://fedlex.data.admin.ch/eli/oc/2021/549)), du 29 sept. 2021 ([RO 2021 586](https://fedlex.data.admin.ch/eli/oc/2021/586)), du 21 déc. 2021 ([RO 2021 903](https://fedlex.data.admin.ch/eli/oc/2021/903)), du 26 janv. 2022 ([RO 2022 40](https://fedlex.data.admin.ch/eli/oc/2022/40)), du 15 mars 2022 ([RO 2022 171](https://fedlex.data.admin.ch/eli/oc/2022/171)), du 12 mai 2022 ([RO 2022 287](https://fedlex.data.admin.ch/eli/oc/2022/287)) et du 14 juil. 2022, en vigueur depuis le 16 juil. 2022 ([RO 2022 413](https://fedlex.data.admin.ch/eli/oc/2022/413)).
+[^t-1]: Mise à jour par le ch. I des O de l’OSAV du 21 déc. 2015 ([RO 2015 5939](https://fedlex.data.admin.ch/eli/oc/2015/911)), du 14 janv. 2016 ([RO 2016 55](https://fedlex.data.admin.ch/eli/oc/2016/13)), du 27 mai 2016 ([RO 2016 1661](https://fedlex.data.admin.ch/eli/oc/2016/303)), du 11 oct. 2016 ([RO 2016 3437](https://fedlex.data.admin.ch/eli/oc/2016/579)), du 3 nov. 2016 ([RO 2016 3701](https://fedlex.data.admin.ch/eli/oc/2016/624)), du 30 janv. 2017 ([RO 2017 471](https://fedlex.data.admin.ch/eli/oc/2017/76)), du 24 mars 2017 ([RO 2017 1679](https://fedlex.data.admin.ch/eli/oc/2017/175)), du 27 sept. 2018 ([RO 2018 3261](https://fedlex.data.admin.ch/eli/oc/2018/526)), du 27 mars 2019 ([RO 2019 1049](https://fedlex.data.admin.ch/eli/oc/2019/192)), du 27 juin 2019 ([RO 2019 1955](https://fedlex.data.admin.ch/eli/oc/2019/359)), du 18 nov. 2019 ([RO 2019 3689](https://fedlex.data.admin.ch/eli/oc/2019/668)), du 19 déc. 2019 ([RO 2019 4727](https://fedlex.data.admin.ch/eli/oc/2019/768)), du 5 mars 2020 ([RO 2020 635](https://fedlex.data.admin.ch/eli/oc/2020/124)), le ch. I al. 1 de l’O de l’OSAV du 13 juil. 2020 ([RO 2020 2911](https://fedlex.data.admin.ch/eli/oc/2020/541)), le ch. I des O de l’OSAV du 21 déc. 2020 ([RO 2020 6403](https://fedlex.data.admin.ch/eli/oc/2020/1048)), du 22 avril 2021 ([RO 2021 238](https://fedlex.data.admin.ch/eli/oc/2021/238)), du 20 août 2021 ([RO 2021 497](https://fedlex.data.admin.ch/eli/oc/2021/497)), du 9 sept. 2021 ([RO 2021 549](https://fedlex.data.admin.ch/eli/oc/2021/549)), du 29 sept. 2021 ([RO 2021 586](https://fedlex.data.admin.ch/eli/oc/2021/586)), du 21 déc. 2021 ([RO 2021 903](https://fedlex.data.admin.ch/eli/oc/2021/903)), du 26 janv. 2022 ([RO 2022 40](https://fedlex.data.admin.ch/eli/oc/2022/40)), du 15 mars 2022 ([RO 2022 171](https://fedlex.data.admin.ch/eli/oc/2022/171)), du 12 mai 2022 ([RO 2022 287](https://fedlex.data.admin.ch/eli/oc/2022/287)) du 14 juil. 2022 ([RO 2022 413](https://fedlex.data.admin.ch/eli/oc/2022/413)) et du 14 sept. 2022, en vigueur depuis le 16 sept. 2022 ([RO 2022 506](https://fedlex.data.admin.ch/eli/oc/2022/506)).
 
 <table>
 <tr><th>Acte législatif de l’UE</th><th>Titre et date de publication du texte législatif et de l’acte modificateur</th></tr>
@@ -202,7 +202,7 @@ Annexe 1*[^t-1]*
 <tr><td>61. Décision 2010/381/UE</td><td>Décision 2010/381/UE de la Commission du 8 juillet 2010 relative à des mesures d’urgence applicables aux lots de produits de l’aquaculture importés d’Inde et destinés à la consommation humaine, JO L 174 du 9.7.2010, p. 51; modifiée en dernier lieu par la décision d’exécution (UE) 2016/1774, JO L 271 du 6.10.2016, p. 7</td></tr>
 <tr><td>62. et 63. …</td><td></td></tr>
 <tr><td>64. Règlement (UE) n<sup>o</sup> 142/2011</td><td>Règlement (UE) n<sup>o</sup> 142/2011 de la Commission du 25 février 2011 portant application du règlement (CE) n<sup>o</sup> 1069/2009 du Parlement européen et du Conseil établissant des règles sanitaires applicables aux sous-produits animaux et produits dérivés non destinés à la consommation humaine et portant application de la directive 97/78/CE du Conseil en ce qui concerne certains échantillons et articles exemptés des contrôles vétérinaires effectués aux frontières en vertu de cette directive, JO L 54 du 26.2.2011, p. 1; modifié en dernier lieu par le règlement (UE) 2022/384, JO L 78 du 8.3.2022, p. 1.</td></tr>
-<tr><td>65. Décision 2011/163/UE</td><td>Décision 2011/163/UE de la Commission du 16 mars 2011 relative à l’approbation des plans soumis par les pays tiers conformément à l’art. 29 de la directive 96/23/CE du Conseil, JO L 70 du 17.3.2011, p. 40; modifiée en dernier lieu par la décision d’exécution (UE) 2022/367, JO L 69 du 4.3.2022, p. 107</td></tr>
+<tr><td>65. Décision 2011/163/UE</td><td>Décision 2011/163/UE de la Commission du 16 mars 2011 relative à l’approbation des plans soumis par les pays tiers conformément à l’art. 29 de la directive 96/23/CE du Conseil, JO L 70 du 17.3.2011, p. 40; modifiée en dernier lieu par la décision d’exécution (UE) 2022/1390, JO L 210 du 11.8.2022, p. 7</td></tr>
 <tr><td>66. à 69. …</td><td></td></tr>
 <tr><td>69*a*. Règlement (UE) n<sup>o</sup> 576/2013</td><td>Règlement (UE) n° 576/2013 du Parlement européen et du Conseil du 12 juin 2013 relatif aux mouvements non commerciaux d’animaux de compagnie et abrogeant le règlement (CE) n° 998/2003, JO L 178 du 28.6.2013, p. 1, modifié en dernier lieu par le règlement délégué (UE) 2021/1933, JO L 396 du 10.11.2021, p. 4</td></tr>
 <tr><td>70. Règlement d’exécution (UE) n<sup>o</sup> 577/2013</td><td>Règlement d’exécution (UE) n<sup>o</sup> 577/2013 de la Commission du 28 juin 2013 concernant les modèles de documents d’identification relatifs aux mouvements non commerciaux de chiens, de chats et de furets, l’établissement de listes de territoires et de pays tiers ainsi que les exigences en matière de format, de présentation et de langues applicables aux déclarations attestant la conformité à certaines conditions prévues par le règlement (UE) n<sup>o</sup> 576/2013 du Parlement européen et du Conseil, JO L 178 du 28.6.2013, p. 109; modifié en dernier lieu par le règlement d’exécution (UE) 2020/2016, JO L 415 du 10.12.2020, p. 39</td></tr>
@@ -222,19 +222,19 @@ Annexe 1*[^t-1]*
 <tr><td>96. ...</td><td></td></tr>
 <tr><td>97. Règlement (UE) 2016/429</td><td>Règlement (UE) 2016/429 du Parlement Européen et du Conseil du 9 mars 2016 relatif aux maladies animales transmissibles et modifiant et abrogeant certains actes dans le domaine de la santé animale («législation sur la santé animale»), JO L 84 du 31.3.2016, p. 1; modifié en dernier lieu par le règlement délégué (UE) 2022/139, version du JO L 23 du 2.2.2022, p. 1</td></tr>
 <tr><td>98. Règlement délégué (UE) 2020/692</td><td>Règlement délégué (UE) 2020/692 de la Commission du 30 janvier 2020 complétant le règlement (UE) 2016/429 du Parlement européen et du Conseil en ce qui concerne les règles applicables à l’entrée dans l’Union d’envois de certains animaux, produits germinaux et produits d’origine animale, ainsi qu’aux mouvements et à la manipulation de ces envois après leur entrée dans l’Union, JO L 174 du 3.6.2020, p. 379; modifié en dernier lieu par le règlement délégué (UE) 2022/54, JO L 10 du 17.1.2022, p. 1</td></tr>
-<tr><td>99. Règlement d’exécution (UE) 2020/2235</td><td>Règlement d’exécution (UE) 2020/2235 de la Commission du 16 décembre 2020 portant modalités d’application des règlements (UE) 2016/429 et (UE) 2017/625 du Parlement européen et du Conseil en ce qui concerne les modèles de certificat zoosanitaire, les modèles de certificat officiel et les modèles de certificat zoosanitaire/officiel pour l’entrée dans l’Union et les mouvements au sein de l’Union d’envois de certaines catégories d’animaux et de biens, ainsi qu’en ce qui concerne la certification officielle relative à ces certificats, et abrogeant le règlement (CE) n<sup>o</sup> 599/2004, les règlements d’exécution (UE) n<sup>o</sup> 636/2014 et (UE) 2019/628, la directive 98/68/CE et les décisions 2000/572/CE, 2003/779/CE et 2007/240/CE, JO L 442 du 30.12.2020, p. 1; modifié en dernier lieu par le règlement d’exécution (UE) 2022/854, JO L 150 du 1.6.2022, p. 69</td></tr>
+<tr><td>99. Règlement d’exécution (UE) 2020/2235</td><td>Règlement d’exécution (UE) 2020/2235 de la Commission du 16 décembre 2020 portant modalités d’application des règlements (UE) 2016/429 et (UE) 2017/625 du Parlement européen et du Conseil en ce qui concerne les modèles de certificat zoosanitaire, les modèles de certificat officiel et les modèles de certificat zoosanitaire/officiel pour l’entrée dans l’Union et les mouvements au sein de l’Union d’envois de certaines catégories d’animaux et de biens, ainsi qu’en ce qui concerne la certification officielle relative à ces certificats, et abrogeant le règlement (CE) n<sup>o</sup> 599/2004, les règlements d’exécution (UE) n<sup>o</sup> 636/2014 et (UE) 2019/628, la directive 98/68/CE et les décisions 2000/572/CE, 2003/779/CE et 2007/240/CE, JO L 442 du 30.12.2020, p. 1; modifié en dernier lieu par le règlement d’exécution (UE) 2022/1219, JO L 188 du 15.7.2022, p. 75</td></tr>
 <tr><td>100. Règlement d’exécution (UE) 2020/2236</td><td>Règlement d’exécution (UE) 2020/2236 de la Commission du 16 décembre 2020 portant modalités d’application des règlements (UE) 2016/429 et (UE) 2017/625 du Parlement européen et du Conseil en ce qui concerne les modèles de certificat zoosanitaire pour l’entrée dans l’Union et les mouvements au sein de l’Union d’envois d’animaux aquatiques et de certains produits d’origine animale issus d’animaux aquatiques, ainsi qu’en ce qui concerne la certification officielle relative à ces certificats, et abrogeant le règlement (CE) n<sup>o</sup> 1251/2008, JO L 442 du 30.12.2020, p. 410; modifié en dernier lieu par le règlement d’exécution (UE) 2021/1471, JO L 326 du 15.9.2021, p. 1</td></tr>
 <tr><td>101. Décision d’exécution (UE) 2021/361</td><td>Décision d’exécution (UE) 2021/361 de la Commission du 22 février 2021 établissant des mesures d’urgence pour les mouvements entre États membres et l’entrée dans l’Union d’envois de salamandres en rapport avec une infection à Batrachochytrium salamandrivorans, version du JO L 69 du 26.2.2021, p. 12</td></tr>
 <tr><td>102. Règlement d’exécution (UE) 2021/403</td><td>Règlement d’exécution (UE) 2021/403 de la Commission du 24 mars 2021 portant modalités d’application des règlements (UE) 2016/429 et (UE) 2017/625 du Parlement européen et du Conseil en ce qui concerne les modèles de certificat zoosanitaire et les modèles de certificat zoosanitaire/officiel pour l’entrée dans l’Union et les mouvements entre les États membres d’envois de certaines catégories d’animaux terrestres et de leurs produits germinaux, ainsi qu’en ce qui concerne la certification officielle relative à ces certificats, et abrogeant la décision 2010/470/UE, JO L 113 du 31.3.2021, p. 1; modifié en dernier lieu par le règlement d’exécution (UE) 2022/497, JO L 101 du 29.3.2022, p. 6</td></tr>
-<tr><td>103. Règlement d’exécution (UE) 2021/404</td><td>Règlement d’exécution (UE) 2021/404 de la Commission du 24 mars 2021 établissant les listes des pays tiers, territoires et zones de pays tiers et territoires en provenance desquels l’entrée dans l’Union d’animaux, de produits germinaux et de produits d’origine animale est autorisée conformément au règlement (UE) 2016/429 du Parlement européen et du Conseil, JO L 114 du 31.3.2021, p. 1; modifié en dernier lieu par le règlement d’exécution (UE) 2022/1040, JO L 173 du 30.6.2022, p. 61</td></tr>
-<tr><td>104. Règlement d’exécution (UE) 2021/405</td><td>Règlement d’exécution (UE) 2021/405 de la Commission du 24 mars 2021 établissant les listes des pays tiers ou régions de pays tiers en provenance desquels l’entrée dans l’Union de certains animaux et biens destinés à la consommation humaine est autorisée conformément au règlement (UE) 2017/625 du Parlement européen et du Conseil, JO L 114 du 31.3.2021, p. 118; modifié en dernier lieu par le règlement d’exécution (UE) 2022/363, JO L 69 du 4.3.2022, p. 40</td></tr>
+<tr><td>103. Règlement d’exécution (UE) 2021/404</td><td>Règlement d’exécution (UE) 2021/404 de la Commission du 24 mars 2021 établissant les listes des pays tiers, territoires et zones de pays tiers et territoires en provenance desquels l’entrée dans l’Union d’animaux, de produits germinaux et de produits d’origine animale est autorisée conformément au règlement (UE) 2016/429 du Parlement européen et du Conseil, JO L 114 du 31.3.2021, p. 1; modifié en dernier lieu par le règlement d’exécution (UE) 2022/1454, JO L 228 du 2.9.2022, p. 33</td></tr>
+<tr><td>104. Règlement d’exécution (UE) 2021/405</td><td>Règlement d’exécution (UE) 2021/405 de la Commission du 24 mars 2021 établissant les listes des pays tiers ou régions de pays tiers en provenance desquels l’entrée dans l’Union de certains animaux et biens destinés à la consommation humaine est autorisée conformément au règlement (UE) 2017/625 du Parlement européen et du Conseil, JO L 114 du 31.3.2021, p. 118; modifié en dernier lieu par le règlement d’exécution (UE) 2022/1389, JO L 210 du 11.8.2022, p. 1</td></tr>
 <tr><td>105. Règlement d’exécution (UE) 2021/1533</td><td>Règlement d’exécution (UE) 2021/1533 de la Commission du 17 septembre 2021 imposant des conditions particulières à l’importation de denrées alimentaires et d’aliments pour animaux originaires ou expédiés du Japon à la suite de l’accident survenu à la centrale nucléaire de Fukushima et abrogeant le règlement d’exécution (UE) 2016/6, version du JO L 330 du 20.9.2021, p. 72</td></tr>
 <tr><td>106. Règlement d’exécution (UE) 2021/1938</td><td>Règlement d’exécution (UE) 2021/1938 de la Commission du 9 novembre 2021 établissant le modèle de document d’identification relatif aux mouvements non commerciaux d’oiseaux de compagnie depuis un territoire ou un pays tiers à destination d’un État membre et abrogeant la décision 2007/25/CE, version du JO L 396 du 10.11.2021, p. 47</td></tr>
 <tr><td>107. Règlement d’exécution (UE) 2022/478</td><td>Règlement d’exécution (UE) 2022/478 de la Commission du 24 mars 2022 concernant le maintien de mesures de protection sur les importations de mollusques bivalves de Turquie destinés à la consommation humaine, version du JO L 98 du 25.3.2021, p. 54</td></tr>
 <tr><td>108. Décision d’exécution (UE) 2022/575</td><td>Décision d’exécution (UE) 2022/575 de la Commission du 6 avril 2022 concernant des mesures d’urgence destinées à prévenir l’introduction dans l’Union de la fièvre aphteuse par des lots de foin et de paille en provenance de certains pays tiers ou territoires et abrogeant le règlement d’exécution (UE) 2020/2208, version du JO L 109 du 8.4.2021, p. 69</td></tr>
 </table>
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 (art. 2, al. 2)
 
@@ -254,7 +254,7 @@ Les garanties sanitaires additionnelles définies à l’art. 2, al. 1, let. b, 
 
 [^annex2-lvlu1-lvl2-1]: Décision 2008/185/CE de la Commission du 21 février 2008 établissant des garanties supplémentaires concernant la maladie d’Aujeszky pour les porcs destinés aux échanges intracommunautaires et fixant les critères relatifs aux renseignements à fournir sur cette maladie, JO L 59 du 4.3.2008, p. 19; modifiée en dernier lieu par la décision d’exécution (UE) n<sup>o</sup> 2016/1782, JO L 272 du 7.10.2016, p. 90.
 
-Annexe 3*[^t-3]*
+Annexe 3[^t-3]
 
 (art. 3)
 
@@ -277,7 +277,7 @@ Les produits d’origine animale qui présentent un risque élevé sur le plan d
 
 [^annex3-lvlu1-1]: Règlement (UE) n<sup>o</sup> 142/2011 de la Commission du 25 février 2011 portant application du règlement (CE) n<sup>o</sup> 1069/2009 du Parlement européen et du Conseil établissant des règles sanitaires applicables aux sous-produits animaux et produits dérivés non destinés à la consommation humaine et portant application de la directive 97/78/CE du Conseil en ce qui concerne certains échantillons et articles exemptés des contrôles vétérinaires effectués aux frontières en vertu de cette directive, JO L 54 du 26.2.2011, p. 1; modifié en dernier lieu par le règlement (UE) 2020/797, JO L 194 du 18.6.2020, p. 1.
 
-Annexe 4*[^t-4]*
+Annexe 4[^t-4]
 
 (art. 5)
 
@@ -347,7 +347,7 @@ III. Les produits animaux suivants ne peuvent être importés en Suisse ou trans
 <tr><td>4. Denrées alimentaires mentionnées sous le ch. I, let. b, et sous-produits animaux destinés à l’alimentation des animaux de compagnie.</td><td>Îles Féroé, Groenland</td><td>au maximum 10 kg par personne</td></tr>
 </table>
 
-Annexe 5*[^t-5]*
+Annexe 5[^t-5]
 
 (art. 7)
 
@@ -360,7 +360,7 @@ Annexe 5*[^t-5]*
 <tr><th>Règlement (CE) n<sup>o</sup> 853/2004 du Parlement européen et du Conseil du 29 avril 2004 fixant des règles spécifiques d’hygiène applicables aux denrées alimentaires d’origine animale, JO L 139 du 30.4.2004, p. 55; modifié en dernier lieu par le règlement (UE) 2019/1243, JO L 198 du 25.7.2019, p. 241</th><th>Annexe II</th></tr>
 </table>
 
-Annexe 6*[^t-6]*
+Annexe 6[^t-6]
 
 (art. 8)
 
@@ -434,7 +434,7 @@ Annexe 7
   - e. d’équipements appropriés permettant des échanges d’informations rapides, par le biais de TRACES, et
   - f. d’appareils et d’équipements de nettoyage et de désinfection.
 
-Annexe 8*[^t-7]*
+Annexe 8[^t-7]
 
 (art. 10)
 
