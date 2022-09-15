@@ -3,11 +3,11 @@ sr: "0.101.07"
 title: "Protocollo n. 7 del 22 novembre 1984 alla Convenzione per la salvaguardia dei diritti dell'uomo e delle libertà fondamentali"
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1598_1598_1598"
 language: it
-version: 2019-09-20
+version: 2022-09-16
 adopted: 1984-11-22
 in_force: 1988-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1598_1598_1598/20190920/it/xml/fedlex-data-admin-ch-eli-cc-1988-1598_1598_1598-20190920-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1598_1598_1598/20190920/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1598_1598_1598/20220916/it/xml/fedlex-data-admin-ch-eli-cc-1988-1598_1598_1598-20220916-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1598_1598_1598/20220916/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,20 +18,12 @@ RU **1988** 1598; FF **1986** II 417
 
 Traduzione
 
-Concluso a Strasburgo il 22 novembre 1984
+Concluso a Strasburgo il 22 novembre 1984 Approvato dall’Assemblea federale il 20 marzo 1987[^t-1] Istrumento di ratificazione depositato dalla Svizzera il 24 febbraio 1988 Entrato in vigore per la Svizzera il 1° novembre 1988 Emendato dal Protocollo n. 11 dell’11 maggio 1994[^t-2]
 
-Approvato dall’Assemblea federale il 20 marzo 1987[^t-1]
-
-Istrumento di ratificazione depositato dalla Svizzera il 24 febbraio 1988
-
-Entrato in vigore per la Svizzera il 1° novembre 1988
-
-Emendato dal Protocollo n. 11 dell’11 maggio 1994[^t-2]
-
-(Stato 20 settembre 2019)
+(Stato 16 settembre 2022)
 
 [^t-1]: [RU 1988 1596](https://fedlex.data.admin.ch/eli/oc/1988/1596_1596_1596)
-[^t-2]: Vedi [RS 0.101.09](https://fedlex.data.admin.ch/eli/cc/1998/2993_2993_2993)art. 2 n. 7
+[^t-2]: Vedi [RS 0.101.09](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8)art. 2 n. 7.
 
 Gli Stati membri del Consiglio d’Europa, firmatari del presente Protocollo,
 
@@ -39,7 +31,7 @@ Risoluti ad adottare ulteriori misure per assicurare la garanzia collettiva di t
 
 Hanno convenuto quanto segue:
 
-[^ingress-1]: [RS 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^ingress-1]: [RS 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
 
 #### Art. 1
 
@@ -134,75 +126,72 @@ Il Segretario Generale del Consiglio d’Europa notificherà a tutti gli Stati m
 
 *In fede di che*, i sottoscritti debitamente autorizzati a questo scopo, hanno firmato il presente Protocollo. Fatto a Strasburgo il 22 novembre 1984 in lingua francese ed inglese, ambedue i testi facenti egualmente fede, in un unico esemplare che verrà depositato negli archivi del Consiglio d’Europa. Il Segretario Generale del Consiglio d’Europa ne invierà copia conforme a ciascuno Stato membro del Consiglio d’Europa. (Seguono le firme)
 
-Campo d’applicazione il 20 settembre 2019**[^t-3]**
+Campo d’applicazione il 16 settembre 2022[^t-3]
 
 <table>
-<tr><th colspan="2">Stati partecipanti</th><th>Ratifica Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
-<tr><td colspan="2">Albania <sup>a</sup></td><td>2 ottobre</td><td>1996</td><td>1° gennaio</td><td>1997</td></tr>
-<tr><td colspan="2">Andorra</td><td>6 maggio</td><td>2008</td><td>1° agosto</td><td>2008</td></tr>
-<tr><td colspan="2">Armenia</td><td>26 aprile</td><td>2002</td><td>1° luglio</td><td>2002</td></tr>
-<tr><td colspan="2">Austria\*</td><td>14 maggio</td><td>1986</td><td>1° novembre</td><td>1988</td></tr>
-<tr><td colspan="2">Azerbaigian\*</td><td>15 aprile</td><td>2002</td><td>1° luglio</td><td>2002</td></tr>
-<tr><td colspan="2">Belgio</td><td>13 aprile</td><td>2012</td><td>1° luglio</td><td>2012</td></tr>
-<tr><td colspan="2">Bosnia e Erzegovina</td><td>12 luglio</td><td>2002</td><td>1° ottobre</td><td>2002</td></tr>
-<tr><td colspan="2">Bulgaria</td><td>4 novembre</td><td>2000</td><td>1° febbraio</td><td>2001</td></tr>
-<tr><td colspan="2">Cipro</td><td>15 settembre</td><td>2000</td><td>1° dicembre</td><td>2000</td></tr>
-<tr><td colspan="2">Croazia <sup>a</sup></td><td>5 novembre</td><td>1997</td><td>1° febbraio</td><td>1998</td></tr>
-<tr><td colspan="2">Danimarca\* <sup>a</sup></td><td>18 agosto</td><td>1988</td><td>1° novembre</td><td>1988</td></tr>
-<tr><td colspan="2">Isole Faeröer\* <sup>a</sup></td><td>2 settembre</td><td>1994</td><td>2 settembre</td><td>1994</td></tr>
-<tr><td colspan="2">Estonia<sup>a</sup></td><td>16 aprile</td><td>1996</td><td>1° luglio</td><td>1996</td></tr>
-<tr><td colspan="2">Finlandia <sup>a</sup></td><td>10 maggio</td><td>1990</td><td>1° agosto</td><td>1990</td></tr>
-<tr><td colspan="2">Francia\* <sup>a</sup></td><td>17 febbraio</td><td>1986</td><td>1° novembre</td><td>1988</td></tr>
-<tr><td colspan="2">Georgia</td><td>13 aprile</td><td>2000</td><td>1° luglio</td><td>2000</td></tr>
-<tr><td colspan="2">Grecia</td><td>29 ottobre</td><td>1987</td><td>1° novembre</td><td>1988</td></tr>
-<tr><td colspan="2">Irlanda</td><td>3 agosto</td><td>2001</td><td>1° novembre</td><td>2001</td></tr>
-<tr><td colspan="2">Islanda <sup>a</sup></td><td>22 maggio</td><td>1987</td><td>1° novembre</td><td>1988</td></tr>
-<tr><td colspan="2">Italia\* <sup>a</sup></td><td>7 novembre</td><td>1991</td><td>1° febbraio</td><td>1992</td></tr>
-<tr><td colspan="2">Lettonia <sup>a</sup></td><td>27 giugno</td><td>1997</td><td>1° settembre</td><td>1997</td></tr>
-<tr><td colspan="2">Liechtenstein\*</td><td>8 febbraio</td><td>2005</td><td>1° maggio</td><td>2005</td></tr>
-<tr><td colspan="2">Lituania<sup>a</sup></td><td>20 giugno</td><td>1995</td><td>1° settembre</td><td>1995</td></tr>
-<tr><td colspan="2">Lussemburgo\* <sup>a</sup></td><td>19 aprile</td><td>1989</td><td>1° luglio</td><td>1989</td></tr>
-<tr><td colspan="2">Macedonia del Nord <sup>a</sup></td><td>10 aprile</td><td>1997</td><td>1° luglio</td><td>1997</td></tr>
-<tr><td colspan="2">Malta</td><td>15 gennaio</td><td>2003</td><td>1° aprile</td><td>2003</td></tr>
-<tr><td colspan="2">Moldova <sup>a</sup></td><td>12 settembre</td><td>1997</td><td>1° dicembre</td><td>1997</td></tr>
-<tr><td colspan="2">Monaco\*</td><td>30 novembre</td><td>2005</td><td>1° febbraio</td><td>2006</td></tr>
-<tr><td colspan="2">Montenegro</td><td>6 giugno</td><td>2006 S</td><td>6 giugno</td><td>2006</td></tr>
-<tr><td colspan="2">Norvegia <sup>a</sup></td><td>25 ottobre</td><td>1988</td><td>1° gennaio</td><td>1989</td></tr>
-<tr><td colspan="2">Polonia</td><td>4 dicembre</td><td>2002</td><td>1° marzo</td><td>2003</td></tr>
-<tr><td colspan="2">Portogallo\*</td><td>20 dicembre</td><td>2004</td><td>1° marzo</td><td>2005</td></tr>
-<tr><td colspan="2">Repubblica Ceca <sup>a</sup> <sup>b</sup></td><td>18 marzo</td><td>1992</td><td>1° gennaio</td><td>1993</td></tr>
-<tr><td colspan="2">Romania<sup>a</sup></td><td>20 giugno</td><td>1994</td><td>1° settembre</td><td>1994</td></tr>
-<tr><td colspan="2">Russia</td><td>5 maggio</td><td>1998</td><td>1° agosto</td><td>1998</td></tr>
-<tr><td colspan="2">San Marino\* <sup>a</sup></td><td>22 marzo</td><td>1989</td><td>1° giugno</td><td>1989</td></tr>
-<tr><td colspan="2">Serbia</td><td>3 marzo</td><td>2004</td><td>1° giugno</td><td>2004</td></tr>
-<tr><td colspan="2">Slovacchia <sup>a</sup> <sup>b</sup></td><td>18 marzo</td><td>1992</td><td>1° gennaio</td><td>1993</td></tr>
-<tr><td colspan="2">Slovenia <sup>a</sup></td><td>28 giugno</td><td>1994</td><td>1° settembre</td><td>1994</td></tr>
-<tr><td colspan="2">Spagna\*</td><td>16 settembre</td><td>2009</td><td>1° dicembre</td><td>2009</td></tr>
-<tr><td colspan="2">Svezia\* <sup>a</sup></td><td>8 novembre</td><td>1985</td><td>1° novembre</td><td>1988</td></tr>
-<tr><td colspan="2">Svizzera\* <sup>a</sup></td><td>24 febbraio</td><td>1988</td><td>1° novembre</td><td>1988</td></tr>
-<tr><td colspan="2">Turchia</td><td>2 maggio</td><td>2016</td><td>1° agosto</td><td>2016</td></tr>
-<tr><td colspan="2">Ucraina <sup>a</sup></td><td>11 settembre</td><td>1997</td><td>1° dicembre</td><td>1997</td></tr>
-<tr><td colspan="2">Ungheria <sup>a</sup></td><td>5 novembre</td><td>1992</td><td>1° febbraio</td><td>1993</td></tr>
-<tr><td>\*</td><td colspan="5">Riserve e dichiarazioni. Le riserve e le dichiarazioni, eccetto quelle della Svizzera, non sono pubblicate nella RU. I testi, francese ed inglese, possono essere consultati sul sito Internet del Consiglio d’Europa: www.coe.int &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
-<tr><td><sup>a</sup></td><td colspan="5">Questo Stato estende agli art. 1 a 5 del Prot. n. 7 il riconoscimento del diritto di domanda individuale e della giurisdizione obbligatoria della Corte (art. 34 e 46 della Conv. per la Salvaguardia dei diritti dell’uomo e delle libertà fondamentali - RS **0.101**) fino all’entrata in vigore del Prot. n. 11 (RS **0.101.09**) il 1° nov. 1998.</td></tr>
-<tr><td><sup>b</sup></td><td colspan="5">18.03.1992: Data di deposito dello strumento di ratificazione della Repubblica federativa ceca e slovacca.</td></tr>
+<tr><th>Stati partecipanti</th><th>Ratifica Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><td>Albania <sup>a</sup></td><td>2 ottobre</td><td>1996</td><td>1° gennaio</td><td>1997</td></tr>
+<tr><td>Andorra</td><td>6 maggio</td><td>2008</td><td>1° agosto</td><td>2008</td></tr>
+<tr><td>Armenia</td><td>26 aprile</td><td>2002</td><td>1° luglio</td><td>2002</td></tr>
+<tr><td>Austria\*</td><td>14 maggio</td><td>1986</td><td>1° novembre</td><td>1988</td></tr>
+<tr><td>Azerbaigian\*</td><td>15 aprile</td><td>2002</td><td>1° luglio</td><td>2002</td></tr>
+<tr><td>Belgio</td><td>13 aprile</td><td>2012</td><td>1° luglio</td><td>2012</td></tr>
+<tr><td>Bosnia e Erzegovina</td><td>12 luglio</td><td>2002</td><td>1° ottobre</td><td>2002</td></tr>
+<tr><td>Bulgaria</td><td>4 novembre</td><td>2000</td><td>1° febbraio</td><td>2001</td></tr>
+<tr><td>Cipro</td><td>15 settembre</td><td>2000</td><td>1° dicembre</td><td>2000</td></tr>
+<tr><td>Croazia <sup>a</sup></td><td>5 novembre</td><td>1997</td><td>1° febbraio</td><td>1998</td></tr>
+<tr><td>Danimarca\* <sup>a</sup></td><td>18 agosto</td><td>1988</td><td>1° novembre</td><td>1988</td></tr>
+<tr><td>Isole Faeröer\* <sup>a</sup></td><td>2 settembre</td><td>1994</td><td>2 settembre</td><td>1994</td></tr>
+<tr><td>Estonia<sup>a</sup></td><td>16 aprile</td><td>1996</td><td>1° luglio</td><td>1996</td></tr>
+<tr><td>Finlandia <sup>a</sup></td><td>10 maggio</td><td>1990</td><td>1° agosto</td><td>1990</td></tr>
+<tr><td>Francia\* <sup>a</sup></td><td>17 febbraio</td><td>1986</td><td>1° novembre</td><td>1988</td></tr>
+<tr><td>Georgia</td><td>13 aprile</td><td>2000</td><td>1° luglio</td><td>2000</td></tr>
+<tr><td>Grecia</td><td>29 ottobre</td><td>1987</td><td>1° novembre</td><td>1988</td></tr>
+<tr><td>Irlanda</td><td>3 agosto</td><td>2001</td><td>1° novembre</td><td>2001</td></tr>
+<tr><td>Islanda <sup>a</sup></td><td>22 maggio</td><td>1987</td><td>1° novembre</td><td>1988</td></tr>
+<tr><td>Italia\* <sup>a</sup></td><td>7 novembre</td><td>1991</td><td>1° febbraio</td><td>1992</td></tr>
+<tr><td>Lettonia <sup>a</sup></td><td>27 giugno</td><td>1997</td><td>1° settembre</td><td>1997</td></tr>
+<tr><td>Liechtenstein\*</td><td>8 febbraio</td><td>2005</td><td>1° maggio</td><td>2005</td></tr>
+<tr><td>Lituania<sup>a</sup></td><td>20 giugno</td><td>1995</td><td>1° settembre</td><td>1995</td></tr>
+<tr><td>Lussemburgo\* <sup>a</sup></td><td>19 aprile</td><td>1989</td><td>1° luglio</td><td>1989</td></tr>
+<tr><td>Macedonia del Nord <sup>a</sup></td><td>10 aprile</td><td>1997</td><td>1° luglio</td><td>1997</td></tr>
+<tr><td>Malta</td><td>15 gennaio</td><td>2003</td><td>1° aprile</td><td>2003</td></tr>
+<tr><td>Moldova <sup>a</sup></td><td>12 settembre</td><td>1997</td><td>1° dicembre</td><td>1997</td></tr>
+<tr><td>Monaco\*</td><td>30 novembre</td><td>2005</td><td>1° febbraio</td><td>2006</td></tr>
+<tr><td>Montenegro</td><td>6 giugno</td><td>2006 S</td><td>6 giugno</td><td>2006</td></tr>
+<tr><td>Norvegia <sup>a</sup></td><td>25 ottobre</td><td>1988</td><td>1° gennaio</td><td>1989</td></tr>
+<tr><td>Polonia</td><td>4 dicembre</td><td>2002</td><td>1° marzo</td><td>2003</td></tr>
+<tr><td>Portogallo\*</td><td>20 dicembre</td><td>2004</td><td>1° marzo</td><td>2005</td></tr>
+<tr><td>Repubblica Ceca <sup>a</sup> <sup>b</sup></td><td>18 marzo</td><td>1992</td><td>1° gennaio</td><td>1993</td></tr>
+<tr><td>Romania<sup>a</sup></td><td>20 giugno</td><td>1994</td><td>1° settembre</td><td>1994</td></tr>
+<tr><td>San Marino\* <sup>a</sup></td><td>22 marzo</td><td>1989</td><td>1° giugno</td><td>1989</td></tr>
+<tr><td>Serbia</td><td>3 marzo</td><td>2004</td><td>1° giugno</td><td>2004</td></tr>
+<tr><td>Slovacchia <sup>a</sup> <sup>b</sup></td><td>18 marzo</td><td>1992</td><td>1° gennaio</td><td>1993</td></tr>
+<tr><td>Slovenia <sup>a</sup></td><td>28 giugno</td><td>1994</td><td>1° settembre</td><td>1994</td></tr>
+<tr><td>Spagna\*</td><td>16 settembre</td><td>2009</td><td>1° dicembre</td><td>2009</td></tr>
+<tr><td>Svezia\* <sup>a</sup></td><td>8 novembre</td><td>1985</td><td>1° novembre</td><td>1988</td></tr>
+<tr><td>Svizzera\* <sup>a</sup></td><td>24 febbraio</td><td>1988</td><td>1° novembre</td><td>1988</td></tr>
+<tr><td>Turchia</td><td>2 maggio</td><td>2016</td><td>1° agosto</td><td>2016</td></tr>
+<tr><td>Ucraina <sup>a</sup></td><td>11 settembre</td><td>1997</td><td>1° dicembre</td><td>1997</td></tr>
+<tr><td>Ungheria <sup>a</sup></td><td>5 novembre</td><td>1992</td><td>1° febbraio</td><td>1993</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni, eccetto quelle della Svizzera, non sono pubblicate nella RU. I testi, francese ed inglese, possono essere consultati sul sito Internet del Consiglio d’Europa: www.coe.int &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Questo Stato estende agli art. 1 a 5 del Prot. n. 7 il riconoscimento del diritto di domanda individuale e della giurisdizione obbligatoria della Corte (art. 34 e 46 della Conv. per la Salvaguardia dei diritti dell’uomo e delle libertà fondamentali - RS **0.101**) fino all’entrata in vigore del Prot. n. 11 (RS **0.101.09**) il 1° nov. 1998. <sup>b</sup> 18.03.1992: Data di deposito dello strumento di ratificazione della Repubblica federativa ceca e slovacca.</td></tr>
 </table>
 
-[^t-3]: [RU 2004 2007](https://fedlex.data.admin.ch/eli/oc/2004/222), [2006 3249](https://fedlex.data.admin.ch/eli/oc/2006/492), [2011 805](https://fedlex.data.admin.ch/eli/oc/2011/117), [2015 587](https://fedlex.data.admin.ch/eli/oc/2015/89)e [2019 3077](https://fedlex.data.admin.ch/eli/oc/2019/560). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-3]: [RU 2004 2007](https://fedlex.data.admin.ch/eli/oc/2004/222), [2006 3249](https://fedlex.data.admin.ch/eli/oc/2006/492), [2011 805](https://fedlex.data.admin.ch/eli/oc/2011/117), [2015 587](https://fedlex.data.admin.ch/eli/oc/2015/89), [2019 3077](https://fedlex.data.admin.ch/eli/oc/2019/560), [2022 248](https://fedlex.data.admin.ch/eli/oc/2022/248). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
 
 Riserve
 
 **Svizzera**[^t-4]
 
-*Riserva relativa all’articolo 1:*
+Riserva relativa all’articolo 1:
 
 Qualora l’espulsione avvenga su decisione del Consiglio federale basata sull’articolo 70 della Costituzione federale[^t-5] per minaccia alla sicurezza interna od esterna della Svizzera, alla persona espulsa non saranno garantiti i diritti enunciati al capoverso 1 neppure dopo l’esecuzione dell’espulsione.
 
-*Riserva relativa all’articolo 5:*
+Riserva relativa all’articolo 5:
 
 Dopo l’entrata in vigore delle disposizioni rivedute del Codice civile svizzero del 5 ottobre 1984[^t-6], le disposizioni dell’articolo 5 del Protocollo addizionale n<sup>o</sup> 7 saranno applicate con riserva, da un lato, delle disposizioni di diritto federale concernenti il cognome coniugale (art. 160 CC[^t-7] e 8*a* tit. fin. CC) e, d’altro lato, di quelle concernenti l’acquisto della cittadinanza (art. 161, 134 cpv. 1, 149 cpv. 1 CC e 8*b* tit. fin. CC). Inoltre sono riservate talune disposizioni del diritto transitorio relative al regime matrimoniale (art. 9, 9*a*, 9*c*, 9*d*, 9*e*, 10 e 10*a* tit. fin. CC).
 
 [^t-4]: Art. 1 cpv. 1 del DF del 20 mar. 1987 ([RU 1988 1596](https://fedlex.data.admin.ch/eli/oc/1988/1596_1596_1596)).
-[^t-5]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^t-5]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^t-6]: [RU 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)
-[^t-7]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^t-7]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)

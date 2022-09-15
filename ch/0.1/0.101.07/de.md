@@ -3,11 +3,11 @@ sr: "0.101.07"
 title: Protokoll Nr. 7 vom 22. November 1984 zur Konvention zum Schutze der Menschenrechte und Grundfreiheiten
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1598_1598_1598"
 language: de
-version: 2019-09-20
+version: 2022-09-16
 adopted: 1984-11-22
 in_force: 1988-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1598_1598_1598/20190920/de/xml/fedlex-data-admin-ch-eli-cc-1988-1598_1598_1598-20190920-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1598_1598_1598/20190920/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1598_1598_1598/20220916/de/xml/fedlex-data-admin-ch-eli-cc-1988-1598_1598_1598-20220916-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1598_1598_1598/20220916/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,10 +20,10 @@ AS **1988** 1598; BBl **1986** II 589
 
 Abgeschlossen in Strassburg am 22. November 1984 Von der Bundesversammlung genehmigt am 20. März 1987[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 24. Februar 1988 In Kraft getreten für die Schweiz am 1. November 1988 Geändert durch das Protokoll Nr. 11 vom 11. Mai 1994[^t-2]
 
-(Stand am 20. September 2019)
+(Stand am 16. September 2022)
 
 [^t-1]: [AS 1988 1596](https://fedlex.data.admin.ch/eli/oc/1988/1596_1596_1596)
-[^t-2]: Siehe [SR 0.101.09](https://fedlex.data.admin.ch/eli/cc/1998/2993_2993_2993)Art. 2 Ziff. 7
+[^t-2]: Siehe [SR 0.101.09](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8)Art. 2 Ziff. 7.
 
 Die Mitgliedstaaten des Europarats, die dieses Protokoll unterzeichnen –
 
@@ -31,13 +31,15 @@ entschlossen, weitere Massnahmen zur kollektiven Gewährleistung gewisser Rechte
 
 haben folgendes vereinbart:
 
-[^ingress-1]: [SR 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^ingress-1]: [SR 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
 
 #### Art. 1
 
 **Verfahrensrechtliche Schutzvorschriften in Bezug auf die Ausweisung ausländischer Personen**
 
-<sup>(1)</sup> Eine ausländische Person, die sich rechtmässig im Hoheitsgebiet eines Staates aufhält, darf aus diesem nur aufgrund einer rechtmässig ergangenen Entscheidung ausgewiesen werden; ihr muss gestattet werden,
+<sup>(1)</sup>
+
+Eine ausländische Person, die sich rechtmässig im Hoheitsgebiet eines Staates aufhält, darf aus diesem nur aufgrund einer rechtmässig ergangenen Entscheidung ausgewiesen werden; ihr muss gestattet werden:
 
 - a) Gründe vorzubringen, die gegen ihre Ausweisung sprechen,
 - b) ihren Fall prüfen zu lassen und
@@ -115,7 +117,7 @@ Dieses Protokoll liegt für die Mitgliedstaaten des Europarats, welche die Konve
 
 **Aufgaben des Verwahrers**
 
-Der Generalsekretär des Europarats notifiziert allen Mitgliedstaaten des Europarats
+Der Generalsekretär des Europarats notifiziert allen Mitgliedstaaten des Europarats:
 
 - a) jede Unterzeichnung;
 - b) jede Hinterlegung einer Ratifikations-, Annahme- oder Genehmigungsurkunde;
@@ -124,7 +126,7 @@ Der Generalsekretär des Europarats notifiziert allen Mitgliedstaaten des Europa
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Protokoll unterschrieben. Geschehen zu Strassburg am 22. November 1984 in englischer und französischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist, in einer Urschrift, die im Archiv des Europarats hinterlegt wird. Der Generalsekretär des Europarats übermittelt allen Mitgliedstaaten des Europarats beglaubigte Abschriften. (Es folgen die Unterschriften)
 
-Geltungsbereich am 20. September 2019**[^t-3]**
+Geltungsbereich am 16. September 2022[^t-3]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -160,7 +162,6 @@ Geltungsbereich am 20. September 2019**[^t-3]**
 <tr><td>Polen</td><td>4. Dezember</td><td>2002</td><td>1. März</td><td>2003</td></tr>
 <tr><td>Portugal\*</td><td>20. Dezember</td><td>2004</td><td>1. März</td><td>2005</td></tr>
 <tr><td>Rumänien <sup>a</sup></td><td>20. Juni</td><td>1994</td><td>1. September</td><td>1994</td></tr>
-<tr><td>Russland</td><td>5. Mai</td><td>1998</td><td>1. August</td><td>1998</td></tr>
 <tr><td>San Marino\* <sup>a</sup></td><td>22. März</td><td>1989</td><td>1. Juni</td><td>1989</td></tr>
 <tr><td>Schweden\* <sup>a</sup></td><td>8. November</td><td>1985</td><td>1. November</td><td>1988</td></tr>
 <tr><td>Schweiz\* <sup>a</sup></td><td>24. Februar</td><td>1988</td><td>1. November</td><td>1988</td></tr>
@@ -173,14 +174,14 @@ Geltungsbereich am 20. September 2019**[^t-3]**
 <tr><td>Ukraine <sup>a</sup></td><td>11. September</td><td>1997</td><td>1. Dezember</td><td>1997</td></tr>
 <tr><td>Ungarn <sup>a</sup></td><td>5. November</td><td>1992</td><td>1. Februar</td><td>1993</td></tr>
 <tr><td>Zypern</td><td>15. September</td><td>2000</td><td>1. Dezember</td><td>2000</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite des Europarates: www.coe.int &gt; Deutsch &gt; Mehr &gt; Vertragsbüro &gt; Gesamtverzeichnis eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden. <sup>a</sup> Bis zum Inkrafttreten des Prot. Nr. 11 (SR **0.101.09**) am 1. Nov. 1998 dehnt dieser Staat die Anerkennung der Individualbeschwerde und der obligatorischen Gerichtsbarkeit des Gerichtshofes (Art. 34 und 46 der Konvention zum Schutze der Menschenrechte und Grundfreiheiten – SR **0.101**) auf die Art. 1–5 des Prot. Nr. 7 aus. <sup>b</sup> 18.03.1992: Datum der Hinterlegung der Ratifikationsurkunde durch die Tschechische und Slowakische Föderative Republik.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite des Europarates: www.coe.int &gt; Deutsch &gt; Mehr &gt; Vertragsbüro &gt; Gesamtverzeichnis eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Bis zum Inkrafttreten des Prot. Nr. 11 (SR **0.101.09**) am 1. Nov. 1998 dehnt dieser Staat die Anerkennung der Individualbeschwerde und der obligatorischen Gerichtsbarkeit des Gerichtshofes (Art. 34 und 46 der Konvention zum Schutze der Menschenrechte und Grundfreiheiten – SR **0.101**) auf die Art. 1–5 des Prot. Nr. 7 aus. <sup>b</sup> 18.03.1992: Datum der Hinterlegung der Ratifikationsurkunde durch die Tschechische und Slowakische Föderative Republik.</td></tr>
 </table>
 
-[^t-3]: [AS 2004 2007](https://fedlex.data.admin.ch/eli/oc/2004/222), [2006 3249](https://fedlex.data.admin.ch/eli/oc/2006/492), [2011 805](https://fedlex.data.admin.ch/eli/oc/2011/117), [2015 587](https://fedlex.data.admin.ch/eli/oc/2015/89), [2019 3077](https://fedlex.data.admin.ch/eli/oc/2019/560). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-3]: [AS 2004 2007](https://fedlex.data.admin.ch/eli/oc/2004/222); [2006 3249](https://fedlex.data.admin.ch/eli/oc/2006/492); [2011 805](https://fedlex.data.admin.ch/eli/oc/2011/117); [2015 587](https://fedlex.data.admin.ch/eli/oc/2015/89); [2019 3077](https://fedlex.data.admin.ch/eli/oc/2019/560); [2022 248](https://fedlex.data.admin.ch/eli/oc/2022/248). Eine aktualisierte Fassung des Geltungsbereichs dieser Übereinkommen und Protokolle ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: www.fedlex.admin.ch/de/treaty.
 
 Vorbehalte und Erklärungen
 
-## Schweiz****
+## Schweiz
 
 [^declu2-lvlu1-1]
 
@@ -194,6 +195,6 @@ Vorbehalt zu Art. 5:
 
 Die Anwendung der Bestimmungen des Artikels 5 des 7. Zusatzprotokolls nach Inkrafttreten der revidierten Bestimmungen des Zivilgesetzbuches vom 5. Oktober 1984[^declu2-lvlu1-3] erfolgt unter Vorbehalt einerseits der Regelung betreffend den Familiennamen (Art. 160 ZGB[^declu2-lvlu1-4] und Art. 8*a* SchlT ZGB) und anderseits der Regelung des Erwerbs des Bürgerrechtes (Art. 161, 134 Abs. 1, 149 Abs. 1 ZGB und Art. 8*b* SchlT ZGB). Artikel 5 findet weiter Anwendung unter Vorbehalt gewisser Übergangsbestimmungen des Ehegüterrechts (Art. 9, 9*a*, 9*c*, 9*d*, 9*e*, 10 und 10*a* SchlT ZGB).
 
-[^declu2-lvlu1-2]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^declu2-lvlu1-2]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^declu2-lvlu1-3]: [AS 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)
-[^declu2-lvlu1-4]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^declu2-lvlu1-4]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)

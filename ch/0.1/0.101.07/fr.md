@@ -3,11 +3,11 @@ sr: "0.101.07"
 title: "Protocole n<sup>o</sup> 7 du 22 novembre 1984 à la Convention de sauvegarde des droits de l'homme et des libertés fondamentales"
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1598_1598_1598"
 language: fr
-version: 2019-09-20
+version: 2022-09-16
 adopted: 1984-11-22
 in_force: 1988-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1598_1598_1598/20190920/fr/xml/fedlex-data-admin-ch-eli-cc-1988-1598_1598_1598-20190920-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1598_1598_1598/20190920/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1598_1598_1598/20220916/fr/xml/fedlex-data-admin-ch-eli-cc-1988-1598_1598_1598-20220916-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1598_1598_1598/20220916/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,20 +18,12 @@ RO **1988** 1598; FF **1986** II 605
 
 Texte original
 
-Conclu à Strasbourg le 22 novembre 1984
+Conclu à Strasbourg le 22 novembre 1984 Approuvé par l’Assemblée fédérale le 20 mars 1987[^t-1] Instrument de ratification déposé par la Suisse le 24 février 1988 Entré en vigueur pour la Suisse le 1<sup>er</sup> novembre 1988 Amendé par le Protocole n<sup>o</sup> 11 du 11 mai 1994[^t-2]
 
-Approuvé par l’Assemblée fédérale le 20 mars 1987[^t-1]
-
-Instrument de ratification déposé par la Suisse le 24 février 1988
-
-Entré en vigueur pour la Suisse le 1<sup>er</sup> novembre 1988
-
-Amendé par le Protocole n<sup>o</sup> 11 du 11 mai 1994[^t-2]
-
-(Etat le 20 septembre 2019)
+(État le 16 septembre 2022)
 
 [^t-1]: [RO 1988 1596](https://fedlex.data.admin.ch/eli/oc/1988/1596_1596_1596)
-[^t-2]: Voir [RS 0.101.09](https://fedlex.data.admin.ch/eli/cc/1998/2993_2993_2993)art. 2 ch. 7
+[^t-2]: Voir [RS 0.101.09](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8)art. 2 ch. 7.
 
 Les États membres du Conseil de l’Europe, signataires du présent Protocole,
 
@@ -39,7 +31,7 @@ résolus à prendre de nouvelles mesures propres à assurer la garantie collecti
 
 sont convenus de ce qui suit:
 
-[^ingress-1]: [RS 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^ingress-1]: [RS 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
 
 #### Art. 1
 
@@ -134,7 +126,7 @@ Le Secrétaire Général du Conseil de l’Europe notifiera à tous les États m
 
 *En foi de quoi*, les soussignés dûment autorisés à cet effet, ont signé le présent Protocole. Fait à Strasbourg, le 22 novembre 1984, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire, qui sera déposé dans les archives du Conseil de l’Europe. Le Secrétaire Général du Conseil de l’Europe en communiquera copie certifiée conforme à chacun des États membres du Conseil de l’Europe. (Suivent les signatures)
 
-Champ d’application le 20 septembre 2019**[^t-3]**
+Champ d’application le 16 septembre 2022[^t-3]
 
 <table>
 <tr><th>États parties</th><th>Ratification Succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -149,7 +141,7 @@ Champ d’application le 20 septembre 2019**[^t-3]**
 <tr><td>Chypre</td><td>15 septembre</td><td>2000</td><td>1<sup>er</sup> décembre</td><td>2000</td></tr>
 <tr><td>Croatie <sup>a</sup></td><td>5 novembre</td><td>1997</td><td>1<sup>er</sup> février</td><td>1998</td></tr>
 <tr><td>Danemark\* <sup>a</sup></td><td>18 août</td><td>1988</td><td>1<sup>er</sup> novembre</td><td>1988</td></tr>
-<tr><td>[tab] Îles Féroé\* <sup>a</sup></td><td>2 septembre</td><td>1994</td><td>2 septembre</td><td>1994</td></tr>
+<tr><td>Îles Féroé\* <sup>a</sup></td><td>2 septembre</td><td>1994</td><td>2 septembre</td><td>1994</td></tr>
 <tr><td>Espagne\*</td><td>16 septembre</td><td>2009</td><td>1<sup>er</sup> décembre</td><td>2009</td></tr>
 <tr><td>Estonie <sup>a</sup></td><td>16 avril</td><td>1996</td><td>1<sup>er</sup> juillet</td><td>1996</td></tr>
 <tr><td>Finlande <sup>a</sup></td><td>10 mai</td><td>1990</td><td>1<sup>er</sup> août</td><td>1990</td></tr>
@@ -174,7 +166,6 @@ Champ d’application le 20 septembre 2019**[^t-3]**
 <tr><td>Portugal\*</td><td>20 décembre</td><td>2004</td><td>1<sup>er</sup> mars</td><td>2005</td></tr>
 <tr><td>République tchèque <sup>a b</sup></td><td>18 mars</td><td>1992</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
 <tr><td>Roumanie <sup>a</sup></td><td>20 juin</td><td>1994</td><td>1<sup>er</sup> septembre</td><td>1994</td></tr>
-<tr><td>Russie</td><td>5 mai</td><td>1998</td><td>1<sup>er</sup> août</td><td>1998</td></tr>
 <tr><td>Saint-Marin\* <sup>a</sup></td><td>22 mars</td><td>1989</td><td>1<sup>er</sup> juin</td><td>1989</td></tr>
 <tr><td>Serbie</td><td>3 mars</td><td>2004</td><td>1<sup>er</sup> juin</td><td>2004</td></tr>
 <tr><td>Slovaquie <sup>a b</sup></td><td>18 mars</td><td>1992</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
@@ -186,7 +177,7 @@ Champ d’application le 20 septembre 2019**[^t-3]**
 <tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet du Conseil de l’Europe: www.coe.int &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Cet État étend aux art. 1 à 5 du Prot. n<sup>o</sup> 7 la reconnaissance du droit de recours individuel et de la juridiction obligatoire de la Cour (art. 34 et 46 de la Conv. de sauvegarde des droits de l’homme et des libertés fondamentales – RS **0.101**) jusqu’à l’entrée en vigueur du Prot. n<sup>o</sup> 11 (RS **0.101.09**) le 1<sup>er</sup> nov. 1998. <sup>b</sup> 18.03.1992: date du dépôt de l’instrument de ratification par la République fédérative tchèque et slovaque.</td></tr>
 </table>
 
-[^t-3]: [RO 2004 2007](https://fedlex.data.admin.ch/eli/oc/2004/222), [2006 3249](https://fedlex.data.admin.ch/eli/oc/2006/492), [2011 805](https://fedlex.data.admin.ch/eli/oc/2011/117), [2015 587](https://fedlex.data.admin.ch/eli/oc/2015/89), [2019 3077](https://fedlex.data.admin.ch/eli/oc/2019/560). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (/www.dfae.admin.ch/traites).
+[^t-3]: [RO 2004 2007](https://fedlex.data.admin.ch/eli/oc/2004/222); [2006 3249](https://fedlex.data.admin.ch/eli/oc/2006/492); [2011 805](https://fedlex.data.admin.ch/eli/oc/2011/117); [2015 587](https://fedlex.data.admin.ch/eli/oc/2015/89); [2019 3077](https://fedlex.data.admin.ch/eli/oc/2019/560); [2022 248](https://fedlex.data.admin.ch/eli/oc/2022/248). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: www.fedlex.admin.ch/fr/treaty.
 
 Réserves
 
@@ -201,6 +192,6 @@ Réserve portant sur l’art. 5:
 Après l’entrée en vigueur des dispositions révisées du code civil suisse du 5 octobre 1984[^t-6], les dispositions de l’art. 5 du Protocole additionnel n<sup>o</sup> 7 seront appliquées sous réserve, d’une part, des dispositions du droit fédéral relatives au nom de famille (art. 160 CC[^t-7] et 8*a* tit. fin., CC) et, d’autre part, de celles relatives à l’acquisition du droit de cité (art. 161, 134, al. 1, 149, al. 1, CC et 8*b* tit. fin., CC). En outre, sont réservées certaines dispositions du droit transitoire relatives au régime matrimonial (art. 9, 9*a*, 9*c*, 9*d*, 9*e*, 10 et 10*a* tit. fin., CC).
 
 [^t-4]: Art. 1 al. 1 de l’AF du 20 mars 1987 ([RO 1988 1596](https://fedlex.data.admin.ch/eli/oc/1988/1596_1596_1596)).
-[^t-5]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^t-5]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^t-6]: [RO 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)
-[^t-7]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^t-7]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
