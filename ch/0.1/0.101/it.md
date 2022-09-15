@@ -4,32 +4,26 @@ title: "Convenzione del 4 novembre 1950 per la salvaguardia dei diritti dell'uom
 short: CEDU
 eli: "https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151"
 language: it
-version: 2022-02-01
+version: 2022-09-16
 adopted: 1950-11-04
 in_force: 1974-11-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151/20220201/it/xml/fedlex-data-admin-ch-eli-cc-1974-2151_2151_2151-20220201-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1974/2151_2151_2151/20220201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151/20220916/it/xml/fedlex-data-admin-ch-eli-cc-1974-2151_2151_2151-20220916-it-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1974/2151_2151_2151/20220916/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Convenzione per la salvaguardia dei diritti dell’uomo e delle libertà fondamentali****
+# Convenzione per la salvaguardia dei diritti dell’uomo e delle libertà fondamentali
 
 RU **1974** 2151; FF **1974** I 1008[^t-1]
 
 Traduzione
 
-Conchiusa a Roma il 4 novembre 1950
+Conchiusa a Roma il 4 novembre 1950 Approvata dall’Assemblea federale il 3 ottobre 1974[^t-2] Istrumento di ratificazione depositato dalla Svizzera il 28 novembre 1974 Entrata in vigore per la Svizzera il 28 novembre 1974
 
-Approvata dall’Assemblea federale il 3 ottobre 1974[^t-2]
+(Stato 16 settembre 2022)
 
-Istrumento di ratificazione depositato dalla Svizzera il 28 novembre 1974
-
-Entrata in vigore per la Svizzera il 28 novembre 1974
-
-(Stato 1° febbraio 2022)
-
-[^t-1]: Gli emendamenti del 13 mag. 2004 ([[RS](https://www.fedlex.admin.ch/eli/cc/1993/1078_1078_1078/de) 0.101.094](https://fedlex.data.admin.ch/eli/cc/2009/377); [RU 2009 3067](https://fedlex.data.admin.ch/eli/oc/2009/377)) e del 24 giu. 2013 ([[RS](https://www.fedlex.admin.ch/eli/cc/1993/1078_1078_1078/de) 0.101.095](https://fedlex.data.admin.ch/eli/cc/2021/461); [RU 2021 461](https://fedlex.data.admin.ch/eli/oc/2021/461)) sono inseriti nella presente Convenzione. Questi emendamenti sono in vigore solo nei rapporti tra gli Stati che li hanno ratificati. Vedi dunque il campo d’applicazione dei rispettivi Protocolli.
+[^t-1]: Gli emendamenti del 13 mag. 2004 ([RS 0.101.094](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10); [RU 2009 3067](https://fedlex.data.admin.ch/eli/oc/2009/377)) e del 24 giu. 2013 ([RS 0.101.095](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11); [RU 2021 461](https://fedlex.data.admin.ch/eli/oc/2021/461)) sono inseriti nella presente Convenzione. Questi emendamenti sono in vigore solo nei rapporti tra gli Stati che li hanno ratificati. Vedi dunque il campo d’applicazione dei rispettivi Protocolli.
 [^t-2]: Art. 1 cpv. 1 lett. a del DF del 3 ott. 1974 ([RU 1974 2148](https://fedlex.data.admin.ch/eli/oc/1974/2148_2148_2148)).
 
 I Governi firmatari, Membri del Consiglio dell’Europa,
@@ -222,7 +216,7 @@ Nessuna disposizione della presente Convenzione può essere interpretata come im
 
 Le limitazioni che, in base alla presente Convenzione, sono poste a detti diritti e libertà non possono essere applicate che per lo scopo per il quale sono state previste.
 
-## Titolo II:**** Corte europea dei diritti dell’uomo
+## Titolo II: Corte europea dei diritti dell’uomo
 
 [^titII-1]
 
@@ -587,9 +581,9 @@ Le spese di funzionamento della Corte sono a carico del Consiglio d’Europa.
 
 I giudici, durante l’esercizio delle loro funzioni, godono dei privilegi e delle immunità previsti dall’articolo 40 dello Statuto del Consiglio d’Europa[^51-1] e dagli accordi conclusi in virtù di detto articolo.
 
-[^51-1]: [RS 0.192.030](https://fedlex.data.admin.ch/eli/cc/1963/772_769_797)
+[^51-1]: [RS 0.192.030](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/545)
 
-## Titolo III:**** Disposizioni diverse
+## Titolo III: Disposizioni diverse
 
 [^titIII-1]
 
@@ -613,7 +607,7 @@ Nessuna delle disposizioni della presente Convenzione può essere interpretata c
 
 Nessuna disposizione della presente Convenzione porta pregiudizio ai poteri conferiti al Comitato dei Ministri dallo Statuto del Consiglio d’Europa.[^54-1]
 
-[^54-1]: [RS 0.192.030](https://fedlex.data.admin.ch/eli/cc/1963/772_769_797)
+[^54-1]: [RS 0.192.030](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/545)
 
 #### Art. 55
 
@@ -674,7 +668,7 @@ Le Alte Parti Contraenti rinunziano reciprocamente, salvo compromesso speciale, 
 
 Fatto a Roma, il 4 novembre 1950 in francese e in inglese, le due versioni facendo egualmente fede, in un solo esemplare che sarà depositato negli archivi del Consiglio d’Europa. Il Segretario Generale ne comunicherà copie certificate conformi a tutti i firmatari. *(Seguono le firme)*
 
-Campo d’applicazione il 23 febbraio 2012**[^t-3]**
+Campo d’applicazione il 16 settembre 2022[^t-3]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -703,15 +697,16 @@ Campo d’applicazione il 23 febbraio 2012**[^t-3]**
 <tr><td>Liechtenstein<sup>\*</sup></td><td>8 settembre</td><td>1982</td><td>8 settembre</td><td>1982</td></tr>
 <tr><td>Lituania</td><td>20 giugno</td><td>1995</td><td>20 giugno</td><td>1995</td></tr>
 <tr><td>Lussemburgo</td><td>3 settembre</td><td>1953</td><td>3 settembre</td><td>1953</td></tr>
-<tr><td>Macedonia</td><td>10 aprile</td><td>1997</td><td>10 aprile</td><td>1997</td></tr>
+<tr><td>Macedonia del Nord</td><td>10 aprile</td><td>1997</td><td>10 aprile</td><td>1997</td></tr>
 <tr><td>Malta<sup>\*</sup></td><td>23 gennaio</td><td>1967</td><td>23 gennaio</td><td>1967</td></tr>
 <tr><td>Moldova<sup>\*</sup></td><td>12 settembre</td><td>1997</td><td>12 settembre</td><td>1997</td></tr>
 <tr><td>Monaco<sup>\*</sup></td><td>30 novembre</td><td>2005</td><td>30 novembre</td><td>2005</td></tr>
 <tr><td>Montenegro <sup>a</sup></td><td>3 marzo</td><td>2004</td><td>6 giugno</td><td>2006</td></tr>
 <tr><td>Norvegia</td><td>15 gennaio</td><td>1952</td><td>3 settembre</td><td>1953</td></tr>
 <tr><td>Paesi Bassi</td><td>31 agosto</td><td>1954</td><td>31 agosto</td><td>1954</td></tr>
+<tr><td>[tab] Aruba <sup>b</sup></td><td>1° gennaio</td><td>1986</td><td>1° gennaio</td><td>1986</td></tr>
 <tr><td>[tab] Curaçao <sup>b</sup></td><td>1° dicembre</td><td>1955</td><td>31 dicembre</td><td>1955</td></tr>
-<tr><td>[tab] Parte caraibica (Bonaire, Sant’Eustachio e Saba)<sup>b</sup></td><td>1° dicembre</td><td>1955</td><td>31 dicembre</td><td>1955</td></tr>
+<tr><td>[tab] Parte caraibica (Bonaire, Sant’Eustachio e Saba) <sup>e</sup></td><td>1° dicembre</td><td>1955</td><td>31 dicembre</td><td>1955</td></tr>
 <tr><td>[tab] Sint Maarten <sup>b</sup></td><td>1° dicembre</td><td>1955</td><td>31 dicembre</td><td>1955</td></tr>
 <tr><td>Polonia</td><td>19 gennaio</td><td>1993</td><td>19 gennaio</td><td>1993</td></tr>
 <tr><td>Portogallo<sup>\*</sup></td><td>9 novembre</td><td>1978</td><td>9 novembre</td><td>1978</td></tr>
@@ -729,9 +724,8 @@ Campo d’applicazione il 23 febbraio 2012**[^t-3]**
 <tr><td>[tab] IsoleVergini britanniche <sup>i</sup></td><td>23 ottobre</td><td>1953</td><td>23 novembre</td><td>1953</td></tr>
 <tr><td>[tab] Jersey <sup>j</sup></td><td>23 ottobre</td><td>1953</td><td>23 novembre</td><td>1953</td></tr>
 <tr><td>[tab] Montserrat <sup>d</sup></td><td>23 ottobre</td><td>1953</td><td>23 novembre</td><td>1953</td></tr>
-<tr><td>[tab] Sant’Elena e dipendenze (Ascension e Tristan da Cunha)<sup>d</sup></td><td>23 ottobre</td><td>1953</td><td>23 novembre</td><td>1953</td></tr>
+<tr><td>[tab] Sant’Elena e dipendenze (Ascension e Tristan da Cunha) <sup>d</sup></td><td>23 ottobre</td><td>1953</td><td>23 novembre</td><td>1953</td></tr>
 <tr><td>Romania</td><td>20 giugno</td><td>1994</td><td>20 giugno</td><td>1994</td></tr>
-<tr><td>Russia<sup>\*</sup></td><td>5 maggio</td><td>1998</td><td>5 maggio</td><td>1998</td></tr>
 <tr><td>San Marino<sup>\*</sup></td><td>22 marzo</td><td>1989</td><td>22 marzo</td><td>1989</td></tr>
 <tr><td>Serbia</td><td>3 marzo</td><td>2004</td><td>3 marzo</td><td>2004</td></tr>
 <tr><td>Slovacchia<sup>\*</sup></td><td>18 marzo</td><td>1992</td><td>1° gennaio</td><td>1993</td></tr>
@@ -744,10 +738,10 @@ Campo d’applicazione il 23 febbraio 2012**[^t-3]**
 <tr><td>Ungheria</td><td>5 novembre</td><td>1992</td><td>5 novembre</td><td>1992</td></tr>
 <tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. I testi, francese ed inglese, possono essere consultati sul sito Internet del Consiglio d’Europa: www.coe.int &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Il 9 mag. 2007 nella sua 994 (bis) sessione il comitato dei Ministri del Consiglio di Europa a deciso considerare il Montenegro come Stato parte a questa Conv. con effetto dal 6 giu. 2006. Le firma e ratificazione sono quelle della «Serbia e Montenegro».</td></tr>
-<tr><td colspan="5"><sup>b</sup> Dichiarazione d'applicazione giusta l'art. 56.</td></tr>
-<tr><td colspan="5"><sup>c</sup> Dichiarazione d'accettazione permanente della competenza della Corte conforme agli art. 34 e 56 par. 4 dal 1° mag. 2004.</td></tr>
-<tr><td colspan="5"><sup>d</sup> Dichiarazione d'accettazione permanente della competenza della Corte conforme agli art. 34 e 56 par. 4 dal 22 nov. 2010.</td></tr>
-<tr><td colspan="5">e Dichiarazione d’accettazione permanente della competenza della Corte conforme agli art. 34 e 56 par. 4 dal 14 gen. 2006.</td></tr>
+<tr><td colspan="5"><sup>b</sup> Dichiarazione d’applicazione giusta l'art. 56.</td></tr>
+<tr><td colspan="5"><sup>c</sup> Dichiarazione d’accettazione permanente della competenza della Corte conforme agli art. 34 e 56 par. 4 dal 1° mag. 2004.</td></tr>
+<tr><td colspan="5"><sup>d</sup> Dichiarazione d’accettazione permanente della competenza della Corte conforme agli art. 34 e 56 par. 4 dal 22 nov. 2010.</td></tr>
+<tr><td colspan="5"><sup>e</sup> Dichiarazione d’accettazione permanente della competenza della Corte conforme agli art. 34 e 56 par. 4 dal 14 gen. 2006.</td></tr>
 <tr><td colspan="5"><sup>f</sup> Dichiarazione d’accettazione permanente della competenza della Corte conforme agli art. 34 e 56 par. 4 dal 23 feb. 2006.</td></tr>
 <tr><td colspan="5"><sup>g</sup> Dichiarazione d’accettazione permanente della competenza della Corte conforme agli art. 34 e 56 par. 4 dal 1° giu. 2003.</td></tr>
 <tr><td colspan="5"><sup>h</sup> Dichiarazione d’accettazione permanente della competenza della Corte conforme agli art. 34 e 56 par. 4 dal 14 ott. 2009.</td></tr>
@@ -755,4 +749,4 @@ Campo d’applicazione il 23 febbraio 2012**[^t-3]**
 <tr><td colspan="5"><sup>j</sup> Dichiarazione d’accettazione permanente della competenza della Corte conforme agli art. 34 e 56 par. 4 dal 14 gen. 2001.</td></tr>
 </table>
 
-[^t-3]: RU **1974** 2168, [1977 147](https://fedlex.data.admin.ch/eli/oc/1977/147_147_147)[1464](https://fedlex.data.admin.ch/eli/oc/1977/1464_1464_1464), [1978 64](https://fedlex.data.admin.ch/eli/oc/1978/64_64_64), [1982 285](https://fedlex.data.admin.ch/eli/oc/1982/285_285_285)[2065](https://fedlex.data.admin.ch/eli/oc/1982/2065_2065_2065), [1983 1592](https://fedlex.data.admin.ch/eli/oc/1983/1592_1592_1592), [1984 973](https://fedlex.data.admin.ch/eli/oc/1984/973_973_973)[1491](https://fedlex.data.admin.ch/eli/oc/1984/1491_1491_1491), [1985 360](https://fedlex.data.admin.ch/eli/oc/1985/360_360_360), [1986 169](https://fedlex.data.admin.ch/eli/oc/1986/169_169_169), [1987 314](https://fedlex.data.admin.ch/eli/oc/1987/314_314_314)[1346](https://fedlex.data.admin.ch/eli/oc/1987/1346_1346_1346), [1988 1264](https://fedlex.data.admin.ch/eli/oc/1988/1264_1264_1264), [1989 276](https://fedlex.data.admin.ch/eli/oc/1989/276_276_276), [1990 55](https://fedlex.data.admin.ch/eli/oc/1990/55_55_55), [1991 789](https://fedlex.data.admin.ch/eli/oc/1991/789_789_789), [1992 657](https://fedlex.data.admin.ch/eli/oc/1992/657_657_657)[2219](https://fedlex.data.admin.ch/eli/oc/1992/2219_2219_2219), [1993 3097](https://fedlex.data.admin.ch/eli/oc/1993/3097_3097_3097), [2000 916](https://fedlex.data.admin.ch/eli/oc/2000/139), **2002** 1145, [2005 1835](https://fedlex.data.admin.ch/eli/oc/2005/306), [2006 3319](https://fedlex.data.admin.ch/eli/oc/2006/514)e [2012 1143](https://fedlex.data.admin.ch/eli/oc/2012/166). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: https://fedlex.admin.ch/it/Treaty
+[^t-3]: [RU 1974 2151](https://fedlex.data.admin.ch/eli/oc/1974/2151_2151_2151); [1977 147](https://fedlex.data.admin.ch/eli/oc/1977/147_147_147), [1464](https://fedlex.data.admin.ch/eli/oc/1977/1464_1464_1464); [1978 64](https://fedlex.data.admin.ch/eli/oc/1978/64_64_64); [1982 285](https://fedlex.data.admin.ch/eli/oc/1982/285_285_285), [2065](https://fedlex.data.admin.ch/eli/oc/1982/2065_2065_2065); [1983 1592](https://fedlex.data.admin.ch/eli/oc/1983/1592_1592_1592); [1984 973](https://fedlex.data.admin.ch/eli/oc/1984/973_973_973), [1491](https://fedlex.data.admin.ch/eli/oc/1984/1491_1491_1491); [1985 360](https://fedlex.data.admin.ch/eli/oc/1985/360_360_360); [1986 169](https://fedlex.data.admin.ch/eli/oc/1986/169_169_169); [1987 314](https://fedlex.data.admin.ch/eli/oc/1987/314_314_314), [1346](https://fedlex.data.admin.ch/eli/oc/1987/1346_1346_1346); [1988 1264](https://fedlex.data.admin.ch/eli/oc/1988/1264_1264_1264); [1989 276](https://fedlex.data.admin.ch/eli/oc/1989/276_276_276); [1990 55](https://fedlex.data.admin.ch/eli/oc/1990/55_55_55); [1991 789](https://fedlex.data.admin.ch/eli/oc/1991/789_789_789); [1992 657](https://fedlex.data.admin.ch/eli/oc/1992/657_657_657), [2219](https://fedlex.data.admin.ch/eli/oc/1992/2219_2219_2219); [1993 3097](https://fedlex.data.admin.ch/eli/oc/1993/3097_3097_3097); [2000 916](https://fedlex.data.admin.ch/eli/oc/2000/139); [2002 1143](https://fedlex.data.admin.ch/eli/oc/2002/188); [2005 1835](https://fedlex.data.admin.ch/eli/oc/2005/306); [2006 3319](https://fedlex.data.admin.ch/eli/oc/2006/514); [2012 1143](https://fedlex.data.admin.ch/eli/oc/2012/166); [2022 248](https://fedlex.data.admin.ch/eli/oc/2022/248). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/fr/treaty

@@ -4,20 +4,20 @@ title: Konvention vom 4. November 1950 zum Schutze der Menschenrechte und Grundf
 short: EMRK
 eli: "https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151"
 language: de
-version: 2022-02-01
+version: 2022-09-16
 adopted: 1950-11-04
 in_force: 1974-11-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151/20220201/de/xml/fedlex-data-admin-ch-eli-cc-1974-2151_2151_2151-20220201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1974/2151_2151_2151/20220201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151/20220916/de/xml/fedlex-data-admin-ch-eli-cc-1974-2151_2151_2151-20220916-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1974/2151_2151_2151/20220916/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Konvention zum Schutze der Menschenrechte und Grundfreiheiten****
+# Konvention zum Schutze der Menschenrechte und Grundfreiheiten
 
 AS **1974** 2151; BBl **1974** I 1035[^t-1]
 
-Übersetzung aus dem englischen und französischen Originaltext*[^t-2]*
+Übersetzung aus dem englischen und französischen Originaltext[^t-2]
 
 Abgeschlossen in Rom am 4. November 1950
 
@@ -27,9 +27,9 @@ Schweizerische Ratifikationsurkunde hinterlegt am 28. November 1974
 
 In Kraft getreten für die Schweiz am 28. November 1974
 
-(Stand am 1. Februar 2022)
+(Stand am 16. September 2022)
 
-[^t-1]: Die Änd. vom 13. Mai 2004 ([SR 0.101.094](https://fedlex.data.admin.ch/eli/cc/2009/377); [AS 2009 3067](https://fedlex.data.admin.ch/eli/oc/2009/377)) und 24. Juni 2013 ([SR 0.101.095](https://fedlex.data.admin.ch/eli/cc/2021/461); [AS 2021 461](https://fedlex.data.admin.ch/eli/oc/2021/461)) sind im vorliegenden Text eingebaut, gelten aber nur im Verhältnis zu jenen Staaten, die ihr beigetreten sind. Siehe deshalb ihren eigenen Geltungsbereich.
+[^t-1]: Die Änd. vom 13. Mai 2004 ([SR 0.101.094](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10); [AS 2009 3067](https://fedlex.data.admin.ch/eli/oc/2009/377)) und 24. Juni 2013 ([SR 0.101.095](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11); [AS 2021 461](https://fedlex.data.admin.ch/eli/oc/2021/461)) sind im vorliegenden Text eingebaut, gelten aber nur im Verhältnis zu jenen Staaten, die ihr beigetreten sind. Siehe deshalb ihren eigenen Geltungsbereich.
 [^t-2]: Bereinigte Übersetzung der EMRK unter Berücksichtigung des Prot. Nr. 11 (zwischen Deutschland, Liechtenstein, Österreich und der Schweiz abgestimmte Fassung). Der französische Originaltext findet sich unter der gleichen Nummer in der französischen Ausgabe dieser Sammlung. Der englische Originaltext kann beim Bundesamt für Bauten und Logistik, BBL, 3000 Bern, bezogen werden ([AS 1975 614](https://fedlex.data.admin.ch/eli/oc/1975/614_614_614)).
 [^t-3]: Art. 1 Abs. 1 Bst. a des BB vom 3. Okt. 1974 ([AS 1974 2148](https://fedlex.data.admin.ch/eli/oc/1974/2148_2148_2148)).
 
@@ -65,7 +65,9 @@ Die Hohen Vertragsparteien sichern allen ihrer Hoheitsgewalt unterstehenden Pers
 
 <sup>(1)</sup> Das Recht jedes Menschen auf Leben wird gesetzlich geschützt. Niemand darf absichtlich getötet werden, ausser durch Vollstreckung eines Todesurteils, das ein Gericht wegen eines Verbrechens verhängt hat, für das die Todesstrafe gesetzlich vorgesehen ist.
 
-<sup>(2)</sup> Eine Tötung wird nicht als Verletzung dieses Artikels betrachtet, wenn sie durch eine Gewaltanwendung verursacht wird, die unbedingt erforderlich ist, um
+<sup>(2)</sup>
+
+Eine Tötung wird nicht als Verletzung dieses Artikels betrachtet, wenn sie durch eine Gewaltanwendung verursacht wird, die unbedingt erforderlich ist, um:
 
 - a) jemanden gegen rechtswidrige Gewalt zu verteidigen;
 - b) jemanden rechtmässig festzunehmen oder jemanden, dem die Freiheit rechtmässig entzogen ist, an der Flucht zu hindern;
@@ -85,7 +87,9 @@ Niemand darf der Folter oder unmenschlicher oder erniedrigender Strafe oder Beha
 
 <sup>(2)</sup> Niemand darf gezwungen werden, Zwangs‑ oder Pflichtarbeit zu verrichten.
 
-<sup>(3)</sup> Nicht als Zwangs‑ oder Pflichtarbeit im Sinne dieses Artikels gilt
+<sup>(3)</sup>
+
+Nicht als Zwangs‑ oder Pflichtarbeit im Sinne dieses Artikels gilt:
 
 - a) eine Arbeit, die üblicherweise von einer Person verlangt wird, der unter den Voraussetzungen des Artikels 5 die Freiheit entzogen oder die bedingt entlassen worden ist;
 - b) eine Dienstleistung militärischer Art oder eine Dienstleistung, die an die Stelle des im Rahmen der Wehrpflicht zu leistenden Dienstes tritt, in Ländern, wo die Dienstverweigerung aus Gewissensgründen anerkannt ist;
@@ -221,7 +225,7 @@ Diese Konvention ist nicht so auszulegen, als begründe sie für einen Staat, ei
 
 Die nach dieser Konvention zulässigen Einschränkungen der genannten Rechte und Freiheiten dürfen nur zu den vorgesehenen Zwecken erfolgen.
 
-## Abschnitt II:**** Europäischer Gerichtshof für Menschenrechte
+## Abschnitt II: Europäischer Gerichtshof für Menschenrechte
 
 [^titII-1]
 
@@ -259,7 +263,7 @@ Die Zahl der Richter des Gerichtshofs entspricht derjenigen der Hohen Vertragspa
 
 <sup>(1)</sup> Die Richter werden von der Parlamentarischen Versammlung für jede Hohe Vertragspartei mit der Mehrheit der abgegebenen Stimmen aus einer Liste von drei Kandidaten gewählt, die von der Hohen Vertragspartei vorgeschlagen werden.
 
-<sup>(2)</sup> ...[^22-1]
+<sup>(2)</sup> …[^22-1]
 
 [^22-1]: Aufgehoben durch Art. 1 des Prot. Nr. 14 vom 13. Mai 2004, von der BVers genehmigt am 16. Dez. 2005 und mit Wirkung seit 1. Juni 2010 ([AS 2009 3067](https://fedlex.data.admin.ch/eli/oc/2009/377)[3065](https://fedlex.data.admin.ch/eli/oc/2009/376), [2010 1241](https://fedlex.data.admin.ch/eli/oc/2010/173); [BBl 2005 2119](https://fedlex.data.admin.ch/eli/fga/2005/260)).
 
@@ -289,7 +293,7 @@ Die Zahl der Richter des Gerichtshofs entspricht derjenigen der Hohen Vertragspa
 
 **Plenum[^25-2]**[^25-1]
 
-Das Plenum des Gerichtshofs
+Das Plenum des Gerichtshofs:
 
 - a) wählt seinen Präsidenten und einen oder zwei Vizepräsidenten für drei Jahre; ihre Wiederwahl ist zulässig;
 - b) bildet Kammern für einen bestimmten Zeitraum;
@@ -355,7 +359,7 @@ Ein Ausschuss, der mit einer nach Artikel 34 erhobenen Beschwerde befasst wird, 
 
 <sup>(2)</sup> Eine Kammer entscheidet über die Zulässigkeit und Begründetheit der nach Artikel 33 erhobenen Staatenbeschwerden. Die Entscheidung über die Zulässigkeit ergeht gesondert, sofern der Gerichtshof in Ausnahmefällen nicht anders entscheidet.[^29-2]
 
-<sup>(3)</sup> ...[^29-3]
+<sup>(3)</sup> …[^29-3]
 
 [^29-1]: Fassung gemäss Art. 9 Ziff. 1 des Prot. Nr. 14 vom 13. Mai 2004, von der BVers genehmigt am 16. Dez. 2005 und in Kraft seit 1. Juni 2010 ([AS 2009 3067](https://fedlex.data.admin.ch/eli/oc/2009/377)[3065](https://fedlex.data.admin.ch/eli/oc/2009/376), [2010 1241](https://fedlex.data.admin.ch/eli/oc/2010/173); [BBl 2005 2119](https://fedlex.data.admin.ch/eli/fga/2005/260)).
 [^29-2]: Satz eingefügt durch Art. 9 Ziff. 2 des Prot. Nr. 14 vom 13. Mai 2004, von der BVers genehmigt am 16. Dez. 2005 und in Kraft seit 1. Juni 2010 ([AS 2009 3067](https://fedlex.data.admin.ch/eli/oc/2009/377)[3065](https://fedlex.data.admin.ch/eli/oc/2009/376), [2010 1241](https://fedlex.data.admin.ch/eli/oc/2010/173); [BBl 2005 2119](https://fedlex.data.admin.ch/eli/fga/2005/260)).
@@ -365,7 +369,7 @@ Ein Ausschuss, der mit einer nach Artikel 34 erhobenen Beschwerde befasst wird, 
 
 **Abgabe der Rechtssache an die Grosse Kammer**
 
-Wirft eine bei einer Kammer anhängige Rechtssache eine schwerwiegende Frage der Auslegung dieser Konvention oder der Protokolle dazu auf oder kann die Entscheidung einer ihr vorliegenden Frage zu einer Abweichung von einem früheren Urteil des Gerichtshofs führen, so kann die Kammer diese Sache jederzeit, bevor sie ihr Urteil gefällt hat, an die Grosse Kammer abgeben, ...[^30-1].
+Wirft eine bei einer Kammer anhängige Rechtssache eine schwerwiegende Frage der Auslegung dieser Konvention oder der Protokolle dazu auf oder kann die Entscheidung einer ihr vorliegenden Frage zu einer Abweichung von einem früheren Urteil des Gerichtshofs führen, so kann die Kammer diese Sache jederzeit, bevor sie ihr Urteil gefällt hat, an die Grosse Kammer abgeben, …[^30-1].
 
 [^30-1]: Satzteil aufgehoben durch Art. 3 des Prot. Nr. 15 vom 24. Juni 2013, von der BVers genehmigt am 18. März 2016 und mit Wirkung für die Schweiz seit 1. Aug. 2021 ([AS 2021 461](https://fedlex.data.admin.ch/eli/oc/2021/461); [BBl 2015 2347](https://fedlex.data.admin.ch/eli/fga/2015/479)).
 
@@ -410,7 +414,9 @@ Der Gerichtshof kann von jeder natürlichen Person, nichtstaatlichen Organisatio
 
 <sup>(1)</sup> Der Gerichtshof kann sich mit einer Angelegenheit erst nach Erschöpfung aller innerstaatlichen Rechtsbehelfe in Übereinstimmung mit den allgemein anerkannten Grundsätzen des Völkerrechts und nur innerhalb einer Frist von vier[^35-1] Monaten nach der endgültigen innerstaatlichen Entscheidung befassen.
 
-<sup>(2)</sup> Der Gerichtshof befasst sich nicht mit einer nach Artikel 34 erhobenen Individualbeschwerde, die
+<sup>(2)</sup>
+
+Der Gerichtshof befasst sich nicht mit einer nach Artikel 34 erhobenen Individualbeschwerde, die:
 
 - a) anonym ist oder
 - b) im Wesentlichen mit einer schon vorher vom Gerichtshof geprüften Beschwerde übereinstimmt oder schon einer anderen internationalen Untersuchungs‑ oder Vergleichsinstanz unterbreitet worden ist und keine neuen Tatsachen enthält.
@@ -420,7 +426,7 @@ Der Gerichtshof kann von jeder natürlichen Person, nichtstaatlichen Organisatio
 Der Gerichtshof erklärt eine nach Artikel 34 erhobene Individualbeschwerde für unzulässig:
 
 - a) wenn er sie für unvereinbar mit dieser Konvention oder den Protokollen dazu, für offensichtlich unbegründet oder für missbräuchlich hält; oder
-- b)[^35-2] wenn er der Ansicht ist, dass dem Beschwerdeführer kein erheblicher Nachteil entstanden ist, es sei denn, die Achtung der Menschenrechte, wie sie in dieser Konvention und den Protokollen dazu anerkannt sind, erfordert eine Prüfung der Begründetheit der Beschwerde, ...[^35-3].
+- b)[^35-2] wenn er der Ansicht ist, dass dem Beschwerdeführer kein erheblicher Nachteil entstanden ist, es sei denn, die Achtung der Menschenrechte, wie sie in dieser Konvention und den Protokollen dazu anerkannt sind, erfordert eine Prüfung der Begründetheit der Beschwerde, …[^35-3].
 
 <sup>(4)</sup> Der Gerichtshof weist eine Beschwerde zurück, die er nach diesem Artikel für unzulässig hält. Er kann dies in jedem Stadium des Verfahrens tun.
 
@@ -444,9 +450,9 @@ Der Gerichtshof erklärt eine nach Artikel 34 erhobene Individualbeschwerde für
 
 **Streichung von Beschwerden**
 
-<sup>(1)</sup> Der Gerichtshof kann jederzeit während des Verfahrens entscheiden, eine Beschwerde in seinem Register zu streichen, wenn die Umstände Grund zur Annahme geben, dass
+<sup>(1)</sup> Der Gerichtshof setzt jedoch die Prüfung der Beschwerde fort, wenn die Achtung der Menschenrechte, wie sie in dieser Konvention und den Protokollen dazu anerkannt sind, dies erfordert.
 
-Der Gerichtshof setzt jedoch die Prüfung der Beschwerde fort, wenn die Achtung der Menschenrechte, wie sie in dieser Konvention und den Protokollen dazu anerkannt sind, dies erfordert.
+Der Gerichtshof kann jederzeit während des Verfahrens entscheiden, eine Beschwerde in seinem Register zu streichen, wenn die Umstände Grund zur Annahme geben, dass:
 
 - a) der Beschwerdeführer seine Beschwerde nicht weiterzuverfolgen beabsichtigt,
 - b) die Streitigkeit einer Lösung zugeführt worden ist oder
@@ -512,7 +518,9 @@ Urteile der Kammern werden nach Massgabe des Artikels 44 Absatz 2 endgültig.
 
 <sup>(1)</sup> Das Urteil der Grossen Kammer ist endgültig.
 
-<sup>(2)</sup> Das Urteil einer Kammer wird endgültig,
+<sup>(2)</sup>
+
+Das Urteil einer Kammer wird endgültig:
 
 - a) wenn die Parteien erklären, dass sie die Verweisung der Rechtssache an die Grosse Kammer nicht beantragen werden,
 - b) drei Monate nach dem Datum des Urteils, wenn nicht die Verweisung der Rechtssache an die Grosse Kammer beantragt worden ist, oder
@@ -582,9 +590,9 @@ Die Kosten des Gerichtshofs werden vom Europarat getragen.
 
 Die Richter geniessen bei der Ausübung ihres Amtes die Privilegien und Immunitäten, die in Artikel 40 der Satzung des Europarats[^51-1] und den aufgrund jenes Artikels geschlossenen Übereinkünften vorgesehen sind.
 
-[^51-1]: [SR 0.192.030](https://fedlex.data.admin.ch/eli/cc/1963/772_769_797)
+[^51-1]: [SR 0.192.030](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/545)
 
-## Abschnitt III:**** Verschiedene Bestimmungen
+## Abschnitt III: Verschiedene Bestimmungen
 
 [^titIII-1]
 
@@ -608,7 +616,7 @@ Diese Konvention ist nicht so auszulegen, als beschränke oder beeinträchtige s
 
 Diese Konvention berührt nicht die dem Ministerkomitee durch die Satzung des Europarats[^54-1] übertragenen Befugnisse.
 
-[^54-1]: [SR 0.192.030](https://fedlex.data.admin.ch/eli/cc/1963/772_769_797)
+[^54-1]: [SR 0.192.030](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/545)
 
 #### Art. 55
 
@@ -669,7 +677,7 @@ Die Hohen Vertragsparteien kommen überein, dass sie sich vorbehaltlich besonder
 
 Geschehen zu Rom am 4. November 1950 in englischer und französischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist, in einer Urschrift, die im Archiv des Europarats hinterlegt wird. Der Generalsekretär übermittelt allen Unterzeichnern beglaubigte Abschriften. (Es folgen die Unterschriften)
 
-Geltungsbereich am 23. Februar 2012**[^t-4]**
+Geltungsbereich am 16. September 2022[^t-4]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation</th><th colspan="3"></th><th>Inkrafttreten</th><th></th></tr>
@@ -700,6 +708,7 @@ Geltungsbereich am 23. Februar 2012**[^t-4]**
 <tr><td>Monaco\*</td><td>30. November</td><td colspan="3">2005</td><td>30. November</td><td>2005</td></tr>
 <tr><td>Montenegro <sup>a</sup></td><td>3. März</td><td colspan="3">2004</td><td>6. Juni</td><td>2006</td></tr>
 <tr><td>Niederlande</td><td>31. August</td><td colspan="3">1954</td><td>31. August</td><td>1954</td></tr>
+<tr><td>Aruba <sup>b</sup></td><td>1. Januar</td><td colspan="2">1986</td><td colspan="2">1. Januar</td><td>1986</td></tr>
 <tr><td>Curaçao <sup>b</sup></td><td>1. Dezember</td><td colspan="2">1955</td><td colspan="2">31. Dezember</td><td>1955</td></tr>
 <tr><td>Karibische Gebiete (Bonaire, Sint Eustatius und Saba) <sup>b</sup></td><td>1. Dezember</td><td colspan="2">1955</td><td colspan="2">31. Dezember</td><td>1955</td></tr>
 <tr><td>Sint Maarten <sup>b</sup></td><td>1. Dezember</td><td colspan="2">1955</td><td colspan="2">31. Dezember</td><td>1955</td></tr>
@@ -709,7 +718,6 @@ Geltungsbereich am 23. Februar 2012**[^t-4]**
 <tr><td>Polen</td><td colspan="2">19. Januar</td><td colspan="2">1993</td><td>19. Januar</td><td>1993</td></tr>
 <tr><td>Portugal\*</td><td colspan="2">9. November</td><td colspan="2">1978</td><td>9. November</td><td>1978</td></tr>
 <tr><td>Rumänien</td><td colspan="2">20. Juni</td><td colspan="2">1994</td><td>20. Juni</td><td>1994</td></tr>
-<tr><td>Russland\*</td><td colspan="2">5. Mai</td><td colspan="2">1998</td><td>5. Mai</td><td>1998</td></tr>
 <tr><td>San Marino\*</td><td colspan="2">22. März</td><td colspan="2">1989</td><td>22. März</td><td>1989</td></tr>
 <tr><td>Schweden</td><td colspan="2">4. Februar</td><td colspan="2">1952</td><td>3. September</td><td>1953</td></tr>
 <tr><td>Schweiz</td><td colspan="2">28. November</td><td colspan="2">1974</td><td>28. November</td><td>1974</td></tr>
@@ -742,7 +750,7 @@ Geltungsbereich am 23. Februar 2012**[^t-4]**
 <tr><td colspan="7"><sup>b</sup> Anwendungserklärung nach Art. 56.</td></tr>
 <tr><td colspan="7"><sup>c</sup> Erklärung zur dauerhaften Anerkennung der Zuständigkeit des Gerichtshofs gemäss den Art. 34 und 56 Abs. 4 der Konvention ab dem 1. Mai 2004.</td></tr>
 <tr><td colspan="7"><sup>d</sup> Erklärung zur dauerhaften Anerkennung der Zuständigkeit des Gerichtshofs gemäss den Art. 34 und 56 Abs. 4 der Konvention ab dem 22. Nov. 2010.</td></tr>
-<tr><td colspan="7">e Erklärung zur dauerhaften Anerkennung der Zuständigkeit des Gerichtshofs gemäss den Art. 34 und 56 Abs. 4 der Konvention ab dem 25. Sept. 2009.</td></tr>
+<tr><td colspan="7"><sup>e</sup> Erklärung zur dauerhaften Anerkennung der Zuständigkeit des Gerichtshofs gemäss den Art. 34 und 56 Abs. 4 der Konvention ab dem 25. Sept. 2009.</td></tr>
 <tr><td colspan="7"><sup>f</sup> Erklärung zur dauerhaften Anerkennung der Zuständigkeit des Gerichtshofs gemäss den Art. 34 und 56 Abs. 4 der Konvention ab dem 14. Jan. 2006.</td></tr>
 <tr><td colspan="7"><sup>g</sup> Erklärung zur dauerhaften Anerkennung der Zuständigkeit des Gerichtshofs gemäss den Art. 34 und 56 Abs. 4 der Konvention ab dem 23. Febr. 2006.</td></tr>
 <tr><td colspan="7"><sup>h</sup> Erklärung zur dauerhaften Anerkennung der Zuständigkeit des Gerichtshofs gemäss den Art. 34 und 56 Abs. 4 der Konvention ab dem 1. Juni 2003.</td></tr>
@@ -750,4 +758,4 @@ Geltungsbereich am 23. Februar 2012**[^t-4]**
 <tr><td colspan="7"><sup>j</sup> Erklärung zur dauerhaften Anerkennung der Zuständigkeit des Gerichtshofs gemäss den Art. 34 und 56 Abs. 4 der Konvention ab dem 14. Okt. 2009.</td></tr>
 </table>
 
-[^t-4]: AS **1974** 2168, [1977 147](https://fedlex.data.admin.ch/eli/oc/1977/147_147_147)[1464](https://fedlex.data.admin.ch/eli/oc/1977/1464_1464_1464), [1978 64](https://fedlex.data.admin.ch/eli/oc/1978/64_64_64), [1982 285](https://fedlex.data.admin.ch/eli/oc/1982/285_285_285)[2065](https://fedlex.data.admin.ch/eli/oc/1982/2065_2065_2065), [1983 1592](https://fedlex.data.admin.ch/eli/oc/1983/1592_1592_1592), [1984 973](https://fedlex.data.admin.ch/eli/oc/1984/973_973_973)[1491](https://fedlex.data.admin.ch/eli/oc/1984/1491_1491_1491), [1985 360](https://fedlex.data.admin.ch/eli/oc/1985/360_360_360), [1986 169](https://fedlex.data.admin.ch/eli/oc/1986/169_169_169), [1987 314](https://fedlex.data.admin.ch/eli/oc/1987/314_314_314)[1346](https://fedlex.data.admin.ch/eli/oc/1987/1346_1346_1346), [1988 1264](https://fedlex.data.admin.ch/eli/oc/1988/1264_1264_1264), [1989 276](https://fedlex.data.admin.ch/eli/oc/1989/276_276_276), [1990 55](https://fedlex.data.admin.ch/eli/oc/1990/55_55_55), [1991 789](https://fedlex.data.admin.ch/eli/oc/1991/789_789_789), [1992 657](https://fedlex.data.admin.ch/eli/oc/1992/657_657_657)[2219](https://fedlex.data.admin.ch/eli/oc/1992/2219_2219_2219), [1993 3097](https://fedlex.data.admin.ch/eli/oc/1993/3097_3097_3097), [2000 916](https://fedlex.data.admin.ch/eli/oc/2000/139), **2002** 1145, [2005 1835](https://fedlex.data.admin.ch/eli/oc/2005/306), [2006 3319](https://fedlex.data.admin.ch/eli/oc/2006/514)und [2012 1143](https://fedlex.data.admin.ch/eli/oc/2012/166). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht (https://www.fedlex.admin.ch/de/treaty).
+[^t-4]: [AS 1974 2151](https://fedlex.data.admin.ch/eli/oc/1974/2151_2151_2151); [1977 147](https://fedlex.data.admin.ch/eli/oc/1977/147_147_147), [1464](https://fedlex.data.admin.ch/eli/oc/1977/1464_1464_1464); [1978 64](https://fedlex.data.admin.ch/eli/oc/1978/64_64_64); [1982 285](https://fedlex.data.admin.ch/eli/oc/1982/285_285_285), [2065](https://fedlex.data.admin.ch/eli/oc/1982/2065_2065_2065); [1983 1592](https://fedlex.data.admin.ch/eli/oc/1983/1592_1592_1592); [1984 973](https://fedlex.data.admin.ch/eli/oc/1984/973_973_973), [1491](https://fedlex.data.admin.ch/eli/oc/1984/1491_1491_1491); [1985 360](https://fedlex.data.admin.ch/eli/oc/1985/360_360_360); [1986 169](https://fedlex.data.admin.ch/eli/oc/1986/169_169_169); [1987 314](https://fedlex.data.admin.ch/eli/oc/1987/314_314_314), [1346](https://fedlex.data.admin.ch/eli/oc/1987/1346_1346_1346); [1988 1264](https://fedlex.data.admin.ch/eli/oc/1988/1264_1264_1264); [1989 276](https://fedlex.data.admin.ch/eli/oc/1989/276_276_276); [1990 55](https://fedlex.data.admin.ch/eli/oc/1990/55_55_55); [1991 789](https://fedlex.data.admin.ch/eli/oc/1991/789_789_789); [1992 657](https://fedlex.data.admin.ch/eli/oc/1992/657_657_657), [2219](https://fedlex.data.admin.ch/eli/oc/1992/2219_2219_2219); [1993 3097](https://fedlex.data.admin.ch/eli/oc/1993/3097_3097_3097); [2000 916](https://fedlex.data.admin.ch/eli/oc/2000/139); [2002 1143](https://fedlex.data.admin.ch/eli/oc/2002/188); [2005 1835](https://fedlex.data.admin.ch/eli/oc/2005/306); [2006 3319](https://fedlex.data.admin.ch/eli/oc/2006/514); [2012 1143](https://fedlex.data.admin.ch/eli/oc/2012/166); [2022 248](https://fedlex.data.admin.ch/eli/oc/2022/248). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [https://www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty)
