@@ -3,11 +3,11 @@ sr: "0.814.012"
 title: Accord de Paris du 12 décembre 2015 (Accord sur le climat)
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/619"
 language: fr
-version: 2021-02-23
+version: 2022-09-16
 adopted: 2015-12-12
 in_force: 2017-11-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/619/20210223/fr/xml/fedlex-data-admin-ch-eli-cc-2017-619-20210223-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/619/20210223/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/619/20220916/fr/xml/fedlex-data-admin-ch-eli-cc-2017-619-20220916-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/619/20220916/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,7 +18,7 @@ RO **2017** 5735; FF **2017** 300
 
 *Texte original*
 
-(Accord sur le climat)**[^t-1]**
+(Accord sur le climat)[^t-1]
 
 Conclu à Paris le 12 décembre 2015
 
@@ -28,7 +28,7 @@ Instrument de ratification déposé par la Suisse le 6 octobre 2017
 
 Entré en vigueur pour la Suisse le 5 novembre 2017
 
-(Etat le 23 février 2021)
+(État le 16 septembre 2022)
 
 [^t-1]: Erratum du 8 déc. 2020 ([RO 2020 5373](https://fedlex.data.admin.ch/eli/oc/2020/929)).
 [^t-2]: [RO 2017 5733](https://fedlex.data.admin.ch/eli/oc/2017/618)
@@ -458,7 +458,7 @@ Fait à Paris le douze décembre deux mille quinze.
 
 *En foi de quoi* les soussignés, dûment autorisés à cet effet, ont signé le présent Accord. (Suivent les signatures)
 
-Champ d’application le 23 février 2021**[^t-3]**
+Champ d’application le 16 septembre 2022[^t-3]
 
 <table>
 <tr><th>États parties</th><th>Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -546,6 +546,7 @@ Champ d’application le 23 février 2021**[^t-3]**
 <tr><td>Îles Salomon\*</td><td>21 septembre</td><td>2016</td><td>4 novembre</td><td>2016</td></tr>
 <tr><td>Inde\*</td><td>2 octobre</td><td>2016</td><td>4 novembre</td><td>2016</td></tr>
 <tr><td>Indonésie</td><td>31 octobre</td><td>2016</td><td>30 novembre</td><td>2016</td></tr>
+<tr><td>Iraq</td><td>1<sup>er</sup> novembre</td><td>2021</td><td>1<sup>er</sup> décembre</td><td>2021</td></tr>
 <tr><td>Irlande</td><td>4 novembre</td><td>2016</td><td>4 décembre</td><td>2016</td></tr>
 <tr><td>Islande</td><td>21 septembre</td><td>2016</td><td>4 novembre</td><td>2016</td></tr>
 <tr><td>Israël\*</td><td>22 novembre</td><td>2016</td><td>22 décembre</td><td>2016</td></tr>
@@ -613,10 +614,12 @@ Champ d’application le 23 février 2021**[^t-3]**
 <tr><td>République tchèque</td><td>5 octobre</td><td>2017</td><td>4 novembre</td><td>2017</td></tr>
 <tr><td>Roumanie</td><td>1<sup>er</sup> juin</td><td>2017</td><td>1<sup>er</sup> juillet</td><td>2017</td></tr>
 <tr><td>Royaume-Uni</td><td>18 novembre</td><td>2016</td><td>18 décembre</td><td>2016</td></tr>
+<tr><td>Jersey</td><td>29 avril</td><td>2022</td><td>29 avril</td><td>2022</td></tr>
 <tr><td>Russie\*</td><td>7 octobre</td><td>2019</td><td>6 novembre</td><td>2019</td></tr>
 <tr><td>Rwanda</td><td>6 octobre</td><td>2016</td><td>5 novembre</td><td>2016</td></tr>
 <tr><td>Saint-Kitts-et-Nevis</td><td>22 avril</td><td>2016</td><td>4 novembre</td><td>2016</td></tr>
 <tr><td>Saint-Marin</td><td>26 septembre</td><td>2018</td><td>26 octobre</td><td>2018</td></tr>
+<tr><td>Saint-Siège\*</td><td>4 septembre</td><td>2022 A</td><td>4 octobre</td><td>2022</td></tr>
 <tr><td>Saint-Vincent-et-les Grenadines</td><td>29 juin</td><td>2016</td><td>4 novembre</td><td>2016</td></tr>
 <tr><td>Sainte-Lucie</td><td>22 avril</td><td>2016</td><td>4 novembre</td><td>2016</td></tr>
 <tr><td>Samoa</td><td>22 avril</td><td>2016</td><td>4 novembre</td><td>2016</td></tr>
@@ -630,6 +633,7 @@ Champ d’application le 23 février 2021**[^t-3]**
 <tr><td>Slovénie</td><td>16 décembre</td><td>2016</td><td>15 janvier</td><td>2017</td></tr>
 <tr><td>Somalie</td><td>22 avril</td><td>2016</td><td>4 novembre</td><td>2016</td></tr>
 <tr><td>Soudan</td><td>2 août</td><td>2017</td><td>1<sup>er</sup> septembre</td><td>2017</td></tr>
+<tr><td>Soudan du Sud</td><td>23 février</td><td>2021</td><td>25 mars</td><td>2021</td></tr>
 <tr><td>Sri Lanka</td><td>21 septembre</td><td>2016</td><td>4 novembre</td><td>2016</td></tr>
 <tr><td>Suisse</td><td>6 octobre</td><td>2017</td><td>5 novembre</td><td>2017</td></tr>
 <tr><td>Suède</td><td>13 octobre</td><td>2016</td><td>12 novembre</td><td>2016</td></tr>
@@ -645,6 +649,7 @@ Champ d’application le 23 février 2021**[^t-3]**
 <tr><td>Trinité-et-Tobago</td><td>22 février</td><td>2018</td><td>24 mars</td><td>2018</td></tr>
 <tr><td>Tunisie</td><td>10 février</td><td>2017</td><td>12 mars</td><td>2017</td></tr>
 <tr><td>Turkménistan</td><td>20 octobre</td><td>2016</td><td>19 novembre</td><td>2016</td></tr>
+<tr><td>Turquie\*</td><td>11 octobre</td><td>2021</td><td>10 novembre</td><td>2021</td></tr>
 <tr><td>Tuvalu\*</td><td>22 avril</td><td>2016</td><td>4 novembre</td><td>2016</td></tr>
 <tr><td>Ukraine</td><td>19 septembre</td><td>2016</td><td>4 novembre</td><td>2016</td></tr>
 <tr><td>Union européenne\*</td><td>5 octobre</td><td>2016</td><td>4 novembre</td><td>2016</td></tr>
@@ -657,4 +662,4 @@ Champ d’application le 23 février 2021**[^t-3]**
 <tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> L’Accord ne s’applique pas au Groenland. <sup>b</sup> L’Accord s’applique aux Tokélaou. <sup>c</sup> Pour la partie européenne des Pays-Bas.</td></tr>
 </table>
 
-[^t-3]: [RO 2017 5735](https://fedlex.data.admin.ch/eli/oc/2017/619); [2018 3895](https://fedlex.data.admin.ch/eli/oc/2018/618); [2019 2463](https://fedlex.data.admin.ch/eli/oc/2019/457); [2020 1873](https://fedlex.data.admin.ch/eli/oc/2020/385); [2021 119](https://fedlex.data.admin.ch/eli/oc/2021/119). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: https://fedlex.admin.ch/fr/Treaty
+[^t-3]: [RO 2017 5735](https://fedlex.data.admin.ch/eli/oc/2017/619); [2018 3895](https://fedlex.data.admin.ch/eli/oc/2018/618); [2019 2463](https://fedlex.data.admin.ch/eli/oc/2019/457); [2020 1873](https://fedlex.data.admin.ch/eli/oc/2020/385); [2021 119](https://fedlex.data.admin.ch/eli/oc/2021/119); [2022 520](https://fedlex.data.admin.ch/eli/oc/2022/520). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: https://fedlex.admin.ch/fr/Treaty

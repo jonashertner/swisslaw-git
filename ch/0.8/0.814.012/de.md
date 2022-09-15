@@ -3,11 +3,11 @@ sr: "0.814.012"
 title: Übereinkommen von Paris vom 12. Dezember 2015 (Klimaübereinkommen)
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/619"
 language: de
-version: 2021-02-23
+version: 2022-09-16
 adopted: 2015-12-12
 in_force: 2017-11-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/619/20210223/de/xml/fedlex-data-admin-ch-eli-cc-2017-619-20210223-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/619/20210223/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/619/20220916/de/xml/fedlex-data-admin-ch-eli-cc-2017-619-20220916-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/619/20220916/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -28,7 +28,7 @@ Ratifikationsurkunde von der Schweiz hinterlegt am 6. Oktober 2017
 
 In Kraft getreten für die Schweiz am 5. November 2017
 
-(Stand am 23. Februar 2021)
+(Stand am 16. September 2022)
 
 [^t-1]: Amtliche deutsche Übersetzung des Originaltexts.
 [^t-2]: Berichtigung vom 8. Dez. 2020 ([AS 2020 5373](https://fedlex.data.admin.ch/eli/oc/2020/929)).
@@ -458,7 +458,7 @@ Geschehen zu Paris am 12. Dezember 2015.
 
 *Zu Urkunde dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Übereinkommen unterschrieben. (Es folgen die Unterschriften)
 
-Geltungsbereich am 23. Februar 2021**[^t-4]**
+Geltungsbereich am 16. September 2022[^t-4]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -523,9 +523,11 @@ Geltungsbereich am 23. Februar 2021**[^t-4]**
 <tr><td>Guinea-Bissau</td><td>22. Oktober</td><td>2018</td><td>21. November</td><td>2018</td></tr>
 <tr><td>Guyana</td><td>20. Mai</td><td>2016</td><td>4. November</td><td>2016</td></tr>
 <tr><td>Haiti</td><td>31. Juli</td><td>2017</td><td>30. August</td><td>2017</td></tr>
+<tr><td>Heiliger Stuhl\*</td><td>4. September</td><td>2022 B</td><td>4. Oktober</td><td>2022</td></tr>
 <tr><td>Honduras</td><td>21. September</td><td>2016</td><td>4. November</td><td>2016</td></tr>
 <tr><td>Indien\*</td><td>2. Oktober</td><td>2016</td><td>4. November</td><td>2016</td></tr>
 <tr><td>Indonesien</td><td>31. Oktober</td><td>2016</td><td>30. November</td><td>2016</td></tr>
+<tr><td>Irak</td><td>1. November</td><td>2021</td><td>1. Dezember</td><td>2021</td></tr>
 <tr><td>Irland</td><td>4. November</td><td>2016</td><td>4. Dezember</td><td>2016</td></tr>
 <tr><td>Island</td><td>21. September</td><td>2016</td><td>4. November</td><td>2016</td></tr>
 <tr><td>Israel\*</td><td>22. November</td><td>2016</td><td>22. Dezember</td><td>2016</td></tr>
@@ -627,6 +629,7 @@ Geltungsbereich am 23. Februar 2021**[^t-4]**
 <tr><td>St. Vincent und die Grenadinen</td><td>29. Juni</td><td>2016</td><td>4. November</td><td>2016</td></tr>
 <tr><td>Südafrika</td><td>1. November</td><td>2016</td><td>1. Dezember</td><td>2016</td></tr>
 <tr><td>Sudan</td><td>2. August</td><td>2017</td><td>1. September</td><td>2017</td></tr>
+<tr><td>Südsudan</td><td>23. Februar</td><td>2021</td><td>25. März</td><td>2021</td></tr>
 <tr><td>Suriname</td><td>13. Februar</td><td>2019</td><td>15. März</td><td>2019</td></tr>
 <tr><td>Syrien</td><td>13. November</td><td>2017 B</td><td>13. Dezember</td><td>2017</td></tr>
 <tr><td>Tadschikistan</td><td>22. März</td><td>2017</td><td>21. April</td><td>2017</td></tr>
@@ -639,6 +642,7 @@ Geltungsbereich am 23. Februar 2021**[^t-4]**
 <tr><td>Tschad</td><td>12. Januar</td><td>2017</td><td>11. Februar</td><td>2017</td></tr>
 <tr><td>Tschechische Republik</td><td>5. Oktober</td><td>2017</td><td>4. November</td><td>2017</td></tr>
 <tr><td>Tunesien</td><td>10. Februar</td><td>2017</td><td>12. März</td><td>2017</td></tr>
+<tr><td>Türkei\*</td><td>11. Oktober</td><td>2021</td><td>10. November</td><td>2021</td></tr>
 <tr><td>Turkmenistan</td><td>20. Oktober</td><td>2016</td><td>19. November</td><td>2016</td></tr>
 <tr><td>Tuvalu\*</td><td>22. April</td><td>2016</td><td>4. November</td><td>2016</td></tr>
 <tr><td>Uganda</td><td>21. September</td><td>2016</td><td>4. November</td><td>2016</td></tr>
@@ -651,10 +655,11 @@ Geltungsbereich am 23. Februar 2021**[^t-4]**
 <tr><td>Vereinigte Arabische Emirate</td><td>21. September</td><td>2016</td><td>4. November</td><td>2016</td></tr>
 <tr><td>Vereinigte Staaten</td><td>20. Januar</td><td>2021</td><td>19. Februar</td><td>2021</td></tr>
 <tr><td>Vereinigtes Königreich</td><td>18. November</td><td>2016</td><td>18. Dezember</td><td>2016</td></tr>
+<tr><td>Jersey</td><td>29. April</td><td>2022</td><td>29. April</td><td>2022</td></tr>
 <tr><td>Vietnam</td><td>3. November</td><td>2016</td><td>3. Dezember</td><td>2016</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>11. Oktober</td><td>2016</td><td>10. November</td><td>2016</td></tr>
 <tr><td>Zypern</td><td>4. Januar</td><td>2017</td><td>3. Februar</td><td>2017</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Abkommen gilt nicht für Groenland. <sup>b</sup> Das Abkommen gilt nicht für Tokelau. <sup>c</sup> Für den europäischen Teil der Niederlande.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Abkommen gilt nicht für Grönland. <sup>b</sup> Das Abkommen gilt nicht für Tokelau. <sup>c</sup> Für den europäischen Teil der Niederlande.</td></tr>
 </table>
 
-[^t-4]: [AS 2017 5735](https://fedlex.data.admin.ch/eli/oc/2017/619); [2018 3895](https://fedlex.data.admin.ch/eli/oc/2018/618); [2019 2463](https://fedlex.data.admin.ch/eli/oc/2019/457); [2020 1873](https://fedlex.data.admin.ch/eli/oc/2020/385)und [2021 119](https://fedlex.data.admin.ch/eli/oc/2021/119). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA ([www.eda.admin.ch/vertraege](http://www.eda.admin.ch/vertraege)).
+[^t-4]: [AS 2017 5735](https://fedlex.data.admin.ch/eli/oc/2017/619); [2018 3895](https://fedlex.data.admin.ch/eli/oc/2018/618); [2019 2463](https://fedlex.data.admin.ch/eli/oc/2019/457); [2020 1873](https://fedlex.data.admin.ch/eli/oc/2020/385); [2021 119](https://fedlex.data.admin.ch/eli/oc/2021/119); [2022 520](https://fedlex.data.admin.ch/eli/oc/2022/520). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht https://www.fedlex.admin.ch/de/treaty.
