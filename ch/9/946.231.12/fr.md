@@ -3,18 +3,18 @@ sr: "946.231.12"
 title: "Ordonnance du 22 juin 2005 instituant des mesures à l'encontre de la République démocratique du Congo"
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/442"
 language: fr
-version: 2022-01-01
+version: 2022-09-20
 adopted: 2005-06-22
 in_force: 2005-06-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/442/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2005-442-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/442/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/442/20220920/fr/xml/fedlex-data-admin-ch-eli-cc-2005-442-20220920-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/442/20220920/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre de la République démocratique du Congo
 
-du 22 juin 2005 (État le 1<sup>er</sup> janvier 2022)
+du 22 juin 2005 (État le 20 septembre 2022)
 
 Le Conseil fédéral suisse,
 
@@ -120,7 +120,7 @@ Il peut, pour des personnes physiques visées à l’annexe 2, accorder des exce
 <sup>4</sup> Sur instructions du SECO, les autorités compétentes prennent les mesures nécessaires pour le gel des ressources économiques, par exemple la mention d’un blocage du registre foncier ou la saisie ou la mise sous scellé des biens de luxe.
 
 [^5-1]: Nouvelle teneur selon le ch. I de l’O du 25 juin 2008, en vigueur depuis le 15 juil. 2008 ([RO 2008 3185](https://fedlex.data.admin.ch/eli/oc/2008/425)).
-[^5-2]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2015 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
+[^5-2]: La désignation de l’unité administrative a été adaptée au 1er janv. 2015 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
 [^5-3]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 6
@@ -187,5 +187,5 @@ Annexe 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Introduite par le ch. II al. 2 de l’O du 21 fév. 2018 ([RO 2018 863](https://fedlex.data.admin.ch/eli/oc/2018/114)). Mise à jour par le ch. I des O du DEFR du 23 avr. 2018 ([RO 2018 1655](https://fedlex.data.admin.ch/eli/oc/2018/244)), du 17 janv. 2019 ([RO 2019 225](https://fedlex.data.admin.ch/eli/oc/2019/35)), du 19 déc. 2019 ([RO 2019 4731](https://fedlex.data.admin.ch/eli/oc/2019/769)), du 21 déc. 2020 ([RO 2020 6411](https://fedlex.data.admin.ch/eli/oc/2020/1050)) et du 22 déc. 2021, en vigueur depuis le 23 déc. 2021 ([RO 2021 908](https://fedlex.data.admin.ch/eli/oc/2021/908)).
-[^annex2-lvlu1-1]: Non publiée au RO. Le texte de l’annexe peut être commandé au SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne ou consulté sur www.seco.admin.ch &gt; Economie extérieure et Coopération économique &gt; Relations économiques &gt; Contrôles à l’exportation et sanction &gt; Sanctions/Embargos &gt; Sanctions de la Suisse
+[^t-2]: Introduite par le ch. II al. 2 de l’O du 21 fév. 2018 ([RO 2018 863](https://fedlex.data.admin.ch/eli/oc/2018/114)). Mise à jour par le ch. I des O du DEFR du 23 avr. 2018 ([RO 2018 1655](https://fedlex.data.admin.ch/eli/oc/2018/244)), du 17 janv. 2019 ([RO 2019 225](https://fedlex.data.admin.ch/eli/oc/2019/35)), du 19 déc. 2019 ([RO 2019 4731](https://fedlex.data.admin.ch/eli/oc/2019/769)), du 21 déc. 2020 ([RO 2020 6411](https://fedlex.data.admin.ch/eli/oc/2020/1050)), du 22 déc. 2021 ([RO 2021 908](https://fedlex.data.admin.ch/eli/oc/2021/908)) et du 19 sept. 2022, en vigueur depuis le 20 sept. 2022 à 18 heures ([RO 2022 512](https://fedlex.data.admin.ch/eli/oc/2022/512)).
+[^annex2-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement par renvoi. Il peut être consulté à l’adresse suivante: https://fedlex.data.admin.ch/eli/oc/2022/512 &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi
