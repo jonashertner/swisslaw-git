@@ -3,11 +3,11 @@ sr: "0.232.121.4"
 title: "Atto di Ginevra del 2 luglio 1999 relativo all'Accordo dell'Aja concernente la registrazione internazionale dei disegni e modelli industriali"
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/98"
 language: it
-version: 2020-08-28
+version: 2022-09-20
 adopted: 1999-07-02
 in_force: 2003-12-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/98/20200828/it/xml/fedlex-data-admin-ch-eli-cc-2004-98-20200828-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/98/20200828/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/98/20220920/it/xml/fedlex-data-admin-ch-eli-cc-2004-98-20220920-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/98/20220920/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -26,7 +26,7 @@ Strumento di ratifica depositato dalla Svizzera l’11 settembre 2002
 
 Entrato in vigore per la Svizzera il 23 dicembre 2003
 
-(Stato 28 agosto 2020)
+(Stato 20 settembre 2022)
 
 [^t-1]: [RU 2004 839](https://fedlex.data.admin.ch/eli/oc/2004/97)
 
@@ -207,11 +207,11 @@ Ai sensi del presente Atto si intende per:
 
 **Differimento della pubblicazione**
 
-\1) [*Disposizioni legislative delle Parti contraenti relative al differimento della pubbl**i**cazione*]
+\1) [*Disposizioni legislative delle Parti contraenti relative al differimento della pubblicazione*]
 
-\3) [*Trattamento delle domande di differimento della pubblicazione quando il diff**e**rimento non è possibile in virtù del diritto applicabile*] Qualora sia stata chiesto il differimento della pubblicazione e una delle Parti contraenti designate nella domanda internazionale abbia presentato, in virtù del capoverso 1)b), una dichiarazione in base alla quale il suo diritto non contempla il differimento della pubblicazione,
+\3) [*Trattamento delle domande di differimento della pubblicazione quando il differimento non è possibile in virtù del diritto applicabile*] Qualora sia stata chiesto il differimento della pubblicazione e una delle Parti contraenti designate nella domanda internazionale abbia presentato, in virtù del capoverso 1)b), una dichiarazione in base alla quale il suo diritto non contempla il differimento della pubblicazione,
 
-\4) [*Richiesta di pubblicazione anticipata della registrazione internazionale o di a**u**torizzazione speciale a prendere visione di tale registrazione*]
+\4) [*Richiesta di pubblicazione anticipata della registrazione internazionale o di autorizzazione speciale a prendere visione di tale registrazione*]
 
 \5) [*Rinuncia e limitazione*]
 
@@ -271,7 +271,7 @@ Ai sensi del presente Atto si intende per:
 
 \1) [*Effetti identici a quelli di una domanda secondo il diritto applicabile*] A partire dalla data della registrazione internazionale, la registrazione internazionale produce in ogni Parte contraente designata almeno gli stessi effetti di una domanda regolarmente depositata al fine dell’ottenimento della protezione del disegno o modello industriale giusta il diritto di ciascuna di tali Parti contraenti.
 
-\2) [*Effetti identici a quelli della concessione della protezione secondo il diritto a**p**plicabile*]
+\2) [*Effetti identici a quelli della concessione della protezione secondo il diritto applicabile*]
 
 \3) [*Dichiarazione relativa all’effetto della designazione della Parte contraente del depositario*]
 
@@ -625,7 +625,7 @@ Il Direttore generale è il depositario del presente Atto.
 
 (Seguono le firme)
 
-Campo d’applicazione il 28 agosto 2020**[^t-2]**
+Campo d’applicazione il 20 settembre 2022[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -634,12 +634,14 @@ Campo d’applicazione il 28 agosto 2020**[^t-2]**
 <tr><td>Azerbaigian</td><td>8 settembre</td><td>2010 A</td><td>8 dicembre</td><td>2010</td></tr>
 <tr><td>Belgio\*</td><td>7 giugno</td><td>2013</td><td>18 dicembre</td><td>2018</td></tr>
 <tr><td>Belize</td><td>9 novembre</td><td>2018 A</td><td>9 febbraio</td><td>2019</td></tr>
+<tr><td>Bielorussia</td><td>19 aprile</td><td>2021 A</td><td>19 luglio</td><td>2021</td></tr>
 <tr><td>Bosnia ed Erzegovina</td><td>24 settembre</td><td>2008 A</td><td>24 dicembre</td><td>2008</td></tr>
 <tr><td>Botswana</td><td>5 settembre</td><td>2006 A</td><td>5 dicembre</td><td>2006</td></tr>
 <tr><td>Brunei</td><td>24 settembre</td><td>2013 A</td><td>24 dicembre</td><td>2013</td></tr>
 <tr><td>Bulgaria</td><td>7 luglio</td><td>2008</td><td>7 ottobre</td><td>2008</td></tr>
 <tr><td>Cambogia</td><td>25 novembre</td><td>2016 A</td><td>25 febbraio</td><td>2017</td></tr>
 <tr><td>Canada</td><td>16 luglio</td><td>2018 A</td><td>5 novembre</td><td>2018</td></tr>
+<tr><td>Cina <sup>a</sup></td><td>5 febbraio</td><td>2022 A</td><td>5 maggio</td><td>2022</td></tr>
 <tr><td>Corea del Nord</td><td>13 giugno</td><td>2016 A</td><td>13 settembre</td><td>2016</td></tr>
 <tr><td>Corea del Sud</td><td>31 marzo</td><td>2014 A</td><td>1° luglio</td><td>2014</td></tr>
 <tr><td>Croazia</td><td>12 gennaio</td><td>2004</td><td>12 aprile</td><td>2004</td></tr>
@@ -654,6 +656,7 @@ Campo d’applicazione il 28 agosto 2020**[^t-2]**
 <tr><td>Georgia</td><td>6 maggio</td><td>2003</td><td>23 dicembre</td><td>2003</td></tr>
 <tr><td>Germania</td><td>13 novembre</td><td>2009</td><td>13 febbraio</td><td>2010</td></tr>
 <tr><td>Ghana</td><td>16 giugno</td><td>2008 A</td><td>16 settembre</td><td>2008</td></tr>
+<tr><td>Giamaica</td><td>10 novembre</td><td>2021 A</td><td>10 febbraio</td><td>2022</td></tr>
 <tr><td>Giappone</td><td>13 febbraio</td><td>2015 A</td><td>13 maggio</td><td>2015</td></tr>
 <tr><td>Islanda</td><td>6 luglio</td><td>2001 A</td><td>23 dicembre</td><td>2003</td></tr>
 <tr><td>Israele</td><td>3 ottobre</td><td>2019 A</td><td>3 gennaio</td><td>2020</td></tr>
@@ -663,6 +666,7 @@ Campo d’applicazione il 28 agosto 2020**[^t-2]**
 <tr><td>Lituania</td><td>26 giugno</td><td>2008 A</td><td>26 settembre</td><td>2008</td></tr>
 <tr><td>Lussemburgo\*</td><td>3 settembre</td><td>2013 A</td><td>18 dicembre</td><td>2018</td></tr>
 <tr><td>Macedonia del Nord</td><td>22 dicembre</td><td>2005 A</td><td>22 marzo</td><td>2006</td></tr>
+<tr><td>Marocco</td><td>22 aprile</td><td>2022 A</td><td>22 luglio</td><td>2022</td></tr>
 <tr><td>Messico</td><td>6 marzo</td><td>2020 A</td><td>6 giugno</td><td>2020</td></tr>
 <tr><td>Moldova\*</td><td>19 dicembre</td><td>2001</td><td>23 dicembre</td><td>2003</td></tr>
 <tr><td>Monaco</td><td>9 marzo</td><td>2011</td><td>9 giugno</td><td>2011</td></tr>
@@ -675,6 +679,7 @@ Campo d’applicazione il 28 agosto 2020**[^t-2]**
 <tr><td>Paesi Bassi\*</td><td>18 settembre</td><td>2018</td><td>18 dicembre</td><td>2018</td></tr>
 <tr><td>Polonia</td><td>2 aprile</td><td>2009 A</td><td>2 luglio</td><td>2009</td></tr>
 <tr><td>Regno Unito</td><td>13 marzo</td><td>2018</td><td>13 giugno</td><td>2018</td></tr>
+<tr><td>Guernesey</td><td>23 dicembre</td><td>2020</td><td>23 marzo</td><td>2021</td></tr>
 <tr><td>Man, Isola di</td><td>13 marzo</td><td>2018</td><td>13 giugno</td><td>2018</td></tr>
 <tr><td>Romania</td><td>11 maggio</td><td>2001</td><td>23 dicembre</td><td>2003</td></tr>
 <tr><td>Ruanda</td><td>31 maggio</td><td>2011 A</td><td>31 agosto</td><td>2011</td></tr>
@@ -696,8 +701,9 @@ Campo d’applicazione il 28 agosto 2020**[^t-2]**
 <tr><td>Turkmenistan</td><td>16 dicembre</td><td>2015 A</td><td>16 marzo</td><td>2016</td></tr>
 <tr><td>Ucraina</td><td>28 maggio</td><td>2002 A</td><td>23 dicembre</td><td>2003</td></tr>
 <tr><td>Ungheria</td><td>1° febbraio</td><td>2004</td><td>1° maggio</td><td>2004</td></tr>
-<tr><td>Unione europea</td><td>24 settembre</td><td>2007 A</td><td>1° gennaio</td><td>2008</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. I testi, francese ed inglese, possono essere consultati sul sito Internet dell’Organizzazione mondiale della proprietà intellettuale: www.wipo.int/ &gt; Français &gt; Savoirs &gt; Traités administrés par l’OMPI, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione trattati internazionali, 3003 Berna.</td></tr>
+<tr><td>Unione europea (UE)</td><td>24 settembre</td><td>2007 A</td><td>1° gennaio</td><td>2008</td></tr>
+<tr><td>Vietnam</td><td>30 settembre</td><td>2019 A</td><td>30 dicembre</td><td>2019</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. I testi, francese ed inglese, possono essere consultati sul sito Internet dell’Organizzazione mondiale della proprietà intellettuale: www.wipo.int/ &gt; Français &gt; Savoirs &gt; Traités administrés par l’OMPI, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione trattati internazionali, 3003 Berna. <sup>a</sup> L’Atto di Ginevra non si applica a Hong Kong e Macao.</td></tr>
 </table>
 
-[^t-2]: [RU 2004 841](https://fedlex.data.admin.ch/eli/oc/2004/98), [2005 3565](https://fedlex.data.admin.ch/eli/oc/2005/514), [2007 3841](https://fedlex.data.admin.ch/eli/oc/2007/498), [2008 4051](https://fedlex.data.admin.ch/eli/oc/2008/556), [2009 3153](https://fedlex.data.admin.ch/eli/oc/2009/393), [2011 2969](https://fedlex.data.admin.ch/eli/oc/2011/386), [2014 965](https://fedlex.data.admin.ch/eli/oc/2014/215), [2016 3413](https://fedlex.data.admin.ch/eli/oc/2016/574), [2019 2187](https://fedlex.data.admin.ch/eli/oc/2019/405)e [2020 3685](https://fedlex.data.admin.ch/eli/oc/2020/669). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2004 841](https://fedlex.data.admin.ch/eli/oc/2004/98); [2005 3565](https://fedlex.data.admin.ch/eli/oc/2005/514); [2007 3841](https://fedlex.data.admin.ch/eli/oc/2007/498); [2008 4051](https://fedlex.data.admin.ch/eli/oc/2008/556); [2009 3153](https://fedlex.data.admin.ch/eli/oc/2009/393); [2011 2969](https://fedlex.data.admin.ch/eli/oc/2011/386); [2014 965](https://fedlex.data.admin.ch/eli/oc/2014/215); [2016 3413](https://fedlex.data.admin.ch/eli/oc/2016/574); [2019 2187](https://fedlex.data.admin.ch/eli/oc/2019/405); [2020 3685](https://fedlex.data.admin.ch/eli/oc/2020/669); [2022 530](https://fedlex.data.admin.ch/eli/oc/2022/530). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: https://www.fedlex.admin.ch/it/treaty

@@ -3,11 +3,11 @@ sr: "0.232.121.4"
 title: Genfer Akte vom 2. Juli 1999 des Haager Abkommens über die internationale Eintragung gewerblicher Muster und Modelle
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/98"
 language: de
-version: 2020-08-28
+version: 2022-09-20
 adopted: 1999-07-02
 in_force: 2003-12-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/98/20200828/de/xml/fedlex-data-admin-ch-eli-cc-2004-98-20200828-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/98/20200828/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/98/20220920/de/xml/fedlex-data-admin-ch-eli-cc-2004-98-20220920-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/98/20220920/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 11. September 2002
 
 In Kraft getreten für die Schweiz am 23. Dezember 2003
 
-(Stand am 28. August 2020)
+(Stand am 20. September 2022)
 
 [^t-1]: [AS 2004 839](https://fedlex.data.admin.ch/eli/oc/2004/97)
 
@@ -209,7 +209,7 @@ Jeder Angehörige eines Staats, der Vertragspartei ist, oder eines Mitgliedsstaa
 
 \1) [*Gesetzliche Vorschriften von Vertragsparteien über den Aufschub der Veröffen**t**lichung*]
 
-\3) [*Handhabung von Gesuchen um Aufschub, bei denen ein Aufschub nach gelte**n**dem Recht nicht möglich ist*] Ist der Aufschub der Veröffentlichung beantragt worden und hat eine der in der internationalen Anmeldung bestimmten Vertragsparteien eine Erklärung nach Absatz 1 Buchstabe b abgegeben, wonach ein Aufschub der Veröffentlichung nach ihrem Recht nicht möglich ist,
+\3) [*Handhabung von Gesuchen um Aufschub, bei denen ein Aufschub nach gelten**dem Recht nicht möglich ist*] Ist der Aufschub der Veröffentlichung beantragt worden und hat eine der in der internationalen Anmeldung bestimmten Vertragsparteien eine Erklärung nach Absatz 1 Buchstabe b abgegeben, wonach ein Aufschub der Veröffentlichung nach ihrem Recht nicht möglich ist,
 
 \4) [*Gesuch um vorzeitige Veröffentlichung oder auf besondere Einsichtnahme in diese internationale Eintragung*]
 
@@ -423,9 +423,9 @@ Die Vertragsparteien sind Mitglieder derselben Union wie die Staaten, die Vertra
 
 \2) [*Generaldirektor*] Der Generaldirektor ist der höchste Beamte der Union und vertritt sie.
 
-\3) [*Sonstige Sitzungen, die nicht im Rahmen von Tagungen der Versammlung stat**t**finden*] Alle von der Versammlung gebildeten Ausschüsse oder Arbeitsgruppen sowie alle anderen Sitzungen, in denen Angelegenheiten behandelt werden, die die Union betreffen, werden vom Generaldirektor einberufen.
+\3) [*Sonstige Sitzungen, die nicht im Rahmen von Tagungen der Versammlung stattfinden*] Alle von der Versammlung gebildeten Ausschüsse oder Arbeitsgruppen sowie alle anderen Sitzungen, in denen Angelegenheiten behandelt werden, die die Union betreffen, werden vom Generaldirektor einberufen.
 
-\4) [*Rolle des Internationalen Büros in der Versammlung und bei sonstigen Sitzu**n**gen*]
+\4) [*Rolle des Internationalen Büros in der Versammlung und bei sonstigen Sitzun**gen*]
 
 \5) [*Konferenzen*]
 
@@ -482,7 +482,7 @@ Die Vertragsparteien sind Mitglieder derselben Union wie die Staaten, die Vertra
 
 \2) [*Änderungen einzelner Regeln der Ausführungsordnung*]
 
-\3) [*Mangelnde Übereinstimmung zwischen diesem Abkommen und der Ausfü**h**rungsordnung*] Im Falle mangelnder Übereinstimmung zwischen den Bestimmungen diese Abkommens und den Regeln der Ausführungsordnung haben die Bestimmungen des Abkommens Vorrang.
+\3) [*Mangelnde Übereinstimmung zwischen diesem Abkommen und der Ausfüh**rungsordnung*] Im Falle mangelnder Übereinstimmung zwischen den Bestimmungen diese Abkommens und den Regeln der Ausführungsordnung haben die Bestimmungen des Abkommens Vorrang.
 
 \1) [*Gegenstand*] Die Ausführungsordnung regelt die Einzelheiten der Ausführung dieses Abkommens. Sie enthält insbesondere Vorschriften über:
 
@@ -586,7 +586,7 @@ Vorbehalte zu diesem Abkommen sind nicht gestattet.
 
 \1) [*Beziehungen zwischen Staaten, die gleichzeitig diesem Abkommen und dem Abkommen in den Fassungen von 1934 oder 1960 angehören*] Die Staaten, die gleichzeitig diesem Abkommen und dem Abkommen in der Fassung von 1934 oder der Fassung von 1960 angehören, sind in ihren gegenseitigen Beziehungen allein durch dieses Abkommen gebunden. Diese Staaten sind jedoch in ihren gegenseitigen Beziehungen verpflichtet, die Bestimmungen in der Fassung von 1934 oder der Fassung von 1960 anzuwenden, wenn die Muster oder Modelle beim Internationalen Büro vor dem Zeitpunkt hinterlegt worden sind, an dem dieses Abkommen für die gegenseitigen Beziehungen verbindlich geworden ist.
 
-\2) [*Beziehungen zwischen Staaten, die gleichzeitig diesem Abkommen und dem A**b**kommen in den Fassungen von 1934 oder 1960 angehören und Staaten, die dem Abkommen in den Fassungen von 1934 oder 1960 und nicht diesem Abkommen a**n**gehören*]
+\2) [*Beziehungen zwischen Staaten, die gleichzeitig diesem Abkommen und dem Abkommen in den Fassungen von 1934 oder 1960 angehören und Staaten, die dem Abkommen in den Fassungen von 1934 oder 1960 und nicht diesem Abkommen angehören*]
 
 - a) Jeder Staat, der gleichzeitig diesem Abkommen und dem Abkommen in der Fassung von 1934 angehört, ist in seinen Beziehungen zu Staaten, die nur dem Abkommen in der Fassung von 1934 angehören, aber weder diesem Abkommen noch dem Abkommen in der Fassung von 1960, weiterhin an die Bestimmungen des Abkommens von 1934 gebunden.
 - b) Jeder Staat, der gleichzeitig diesem Abkommen und dem Abkommen in der Fassung von 1960 angehört, ist in seinen Beziehungen zu Staaten, die nur dem Abkommen in der Fassung von 1960 und nicht diesem Abkommen angehören, weiterhin an die Bestimmungen des Abkommens von 1960 gebunden.
@@ -618,7 +618,7 @@ Der Generaldirektor ist Verwahrer dieses Abkommens.
 
 (Es folgen die Unterschriften)
 
-Geltungsbereich am 28. August 2020**[^t-2]**
+Geltungsbereich am 20. September 2022[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -626,18 +626,20 @@ Geltungsbereich am 28. August 2020**[^t-2]**
 <tr><td>Albanien</td><td>19. Februar</td><td>2007 B</td><td>19. Mai</td><td>2007</td></tr>
 <tr><td>Armenien</td><td>13. April</td><td>2007 B</td><td>13. Juli</td><td>2007</td></tr>
 <tr><td>Aserbaidschan</td><td>8. September</td><td>2010 B</td><td>8. Dezember</td><td>2010</td></tr>
+<tr><td>Belarus</td><td>19. April</td><td>2021 B</td><td>19. Juli</td><td>2021</td></tr>
 <tr><td>Belgien\*</td><td>7. Juni</td><td>2013</td><td>18. Dezember</td><td>2018</td></tr>
 <tr><td>Belize</td><td>9. November</td><td>2018 B</td><td>9. Februar</td><td>2019</td></tr>
 <tr><td>Bosnien und Herzegowina</td><td>24. September</td><td>2008 B</td><td>24. Dezember</td><td>2008</td></tr>
 <tr><td>Botsuana</td><td>5. September</td><td>2006 B</td><td>5. Dezember</td><td>2006</td></tr>
 <tr><td>Brunei</td><td>24. September</td><td>2013 B</td><td>24. Dezember</td><td>2013</td></tr>
 <tr><td>Bulgarien</td><td>7. Juli</td><td>2008</td><td>7. Oktober</td><td>2008</td></tr>
+<tr><td>China <sup>a</sup></td><td>5. Februar</td><td>2022 B</td><td>5. Mai</td><td>2022</td></tr>
 <tr><td>Dänemark</td><td>9. September</td><td>2008</td><td>9. Dezember</td><td>2008</td></tr>
 <tr><td>Färöer</td><td>13. Januar</td><td>2016</td><td>13. April</td><td>2016</td></tr>
 <tr><td>Grönland</td><td>11. Oktober</td><td>2010</td><td>11. Januar</td><td>2011</td></tr>
 <tr><td>Deutschland</td><td>13. November</td><td>2009</td><td>13. Februar</td><td>2010</td></tr>
 <tr><td>Estland</td><td>21. März</td><td>2002</td><td>23. Dezember</td><td>2003</td></tr>
-<tr><td>Europäische Union</td><td>24. September</td><td>2007 B</td><td>1. Januar</td><td>2008</td></tr>
+<tr><td>Europäische Union (EU)</td><td>24. September</td><td>2007 B</td><td>1. Januar</td><td>2008</td></tr>
 <tr><td>Finnland</td><td>1. Februar</td><td>2011 B</td><td>1. Mai</td><td>2011</td></tr>
 <tr><td>Frankreich</td><td>18. Dezember</td><td>2006</td><td>18. März</td><td>2007</td></tr>
 <tr><td>Überseeische Departemente und Gebiete</td><td>18. Dezember</td><td>2006</td><td>18. März</td><td>2007</td></tr>
@@ -645,6 +647,7 @@ Geltungsbereich am 28. August 2020**[^t-2]**
 <tr><td>Ghana</td><td>16. Juni</td><td>2008 B</td><td>16. September</td><td>2008</td></tr>
 <tr><td>Island</td><td>6. Juli</td><td>2001 B</td><td>23. Dezember</td><td>2003</td></tr>
 <tr><td>Israel</td><td>3. Oktober</td><td>2019 B</td><td>3. Januar</td><td>2020</td></tr>
+<tr><td>Jamaika</td><td>10. November</td><td>2021 B</td><td>10. Februar</td><td>2022</td></tr>
 <tr><td>Japan</td><td>13. Februar</td><td>2015 B</td><td>13. Mai</td><td>2015</td></tr>
 <tr><td>Kambodscha</td><td>25. November</td><td>2016 B</td><td>25. Februar</td><td>2017</td></tr>
 <tr><td>Kanada</td><td>16. Juli</td><td>2018 B</td><td>5. November</td><td>2018</td></tr>
@@ -656,6 +659,7 @@ Geltungsbereich am 28. August 2020**[^t-2]**
 <tr><td>Liechtenstein\*</td><td>11. August</td><td>2003 B</td><td>23. Dezember</td><td>2003</td></tr>
 <tr><td>Litauen</td><td>26. Juni</td><td>2008 B</td><td>26. September</td><td>2008</td></tr>
 <tr><td>Luxemburg\*</td><td>3. September</td><td>2013 B</td><td>18. Dezember</td><td>2018</td></tr>
+<tr><td>Marokko</td><td>22. April</td><td>2022 B</td><td>22. Juli</td><td>2022</td></tr>
 <tr><td>Mexiko</td><td>6. März</td><td>2020 B</td><td>6. Juni</td><td>2020</td></tr>
 <tr><td>Moldau\*</td><td>19. Dezember</td><td>2001</td><td>23. Dezember</td><td>2003</td></tr>
 <tr><td>Monaco</td><td>9. März</td><td>2011</td><td>9. Juni</td><td>2011</td></tr>
@@ -688,10 +692,12 @@ Geltungsbereich am 28. August 2020**[^t-2]**
 <tr><td>Ukraine</td><td>28. Mai</td><td>2002 B</td><td>23. Dezember</td><td>2003</td></tr>
 <tr><td>Ungarn</td><td>1. Februar</td><td>2004</td><td>1. Mai</td><td>2004</td></tr>
 <tr><td>Vereinigtes Königreich</td><td>13. März</td><td>2018</td><td>13. Juni</td><td>2018</td></tr>
+<tr><td>Guernsey</td><td>23. Dezember</td><td>2020</td><td>23. März</td><td>2021</td></tr>
 <tr><td>Insel Man</td><td>13. März</td><td>2018</td><td>13. Juni</td><td>2018</td></tr>
 <tr><td>Vereinigte Staaten</td><td>13. Februar</td><td>2015</td><td>13. Mai</td><td>2015</td></tr>
+<tr><td>Vietnam</td><td>30. September</td><td>2019 B</td><td>30. Dezember</td><td>2019</td></tr>
 <tr><td colspan="5">\* Vorbehalte und Erklärungen.</td></tr>
-<tr><td colspan="5">Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Weltorganisation für geistiges Eigentum: www.wipo.int/ &gt; Français &gt; Savoirs &gt; Traités administrés par l’OMPI eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden.</td></tr>
+<tr><td colspan="5">Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Weltorganisation für geistiges Eigentum: www.wipo.int/ &gt; Français &gt; Savoirs &gt; Traités administrés par l’OMPI eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden. <sup>a</sup> Die Genfer Akte gilt nicht für Hongkong und Macao.</td></tr>
 </table>
 
-[^t-2]: [AS 2004 841](https://fedlex.data.admin.ch/eli/oc/2004/98), [2005 3565](https://fedlex.data.admin.ch/eli/oc/2005/514), [2007 3841](https://fedlex.data.admin.ch/eli/oc/2007/498), [2008 4051](https://fedlex.data.admin.ch/eli/oc/2008/556), [2009 3153](https://fedlex.data.admin.ch/eli/oc/2009/393), [2011 2969](https://fedlex.data.admin.ch/eli/oc/2011/386), [2014 965](https://fedlex.data.admin.ch/eli/oc/2014/215), [2016 3413](https://fedlex.data.admin.ch/eli/oc/2016/574), [2019 2187](https://fedlex.data.admin.ch/eli/oc/2019/405), [2020 3685](https://fedlex.data.admin.ch/eli/oc/2020/669). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 2004 841](https://fedlex.data.admin.ch/eli/oc/2004/98); [2005 3565](https://fedlex.data.admin.ch/eli/oc/2005/514); [2007 3841](https://fedlex.data.admin.ch/eli/oc/2007/498); [2008 4051](https://fedlex.data.admin.ch/eli/oc/2008/556); [2009 3153](https://fedlex.data.admin.ch/eli/oc/2009/393); [2011 2969](https://fedlex.data.admin.ch/eli/oc/2011/386); [2014 965](https://fedlex.data.admin.ch/eli/oc/2014/215); [2016 3413](https://fedlex.data.admin.ch/eli/oc/2016/574); [2019 2187](https://fedlex.data.admin.ch/eli/oc/2019/405); [2020 3685](https://fedlex.data.admin.ch/eli/oc/2020/669); [2022 530](https://fedlex.data.admin.ch/eli/oc/2022/530). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht https://www.fedlex.admin.ch/de/treaty

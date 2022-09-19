@@ -3,11 +3,11 @@ sr: "0.232.121.4"
 title: "Acte de Genève du 2 juillet 1999 de l'Arrangement de La Haye concernant l'enregistrement international des dessins et modèles industriels"
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/98"
 language: fr
-version: 2020-08-28
+version: 2022-09-20
 adopted: 1999-07-02
 in_force: 2003-12-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/98/20200828/fr/xml/fedlex-data-admin-ch-eli-cc-2004-98-20200828-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/98/20200828/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/98/20220920/fr/xml/fedlex-data-admin-ch-eli-cc-2004-98-20220920-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/98/20220920/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 11 septembre 2002
 
 Entré en vigueur pour la Suisse le 23 décembre 2003
 
-(Etat le 28 août 2020)
+(État le 20 septembre 2022)
 
 [^t-1]: [RO 2004 839](https://fedlex.data.admin.ch/eli/oc/2004/97)
 
@@ -213,7 +213,7 @@ Est habilité à déposer une demande internationale tout ressortissant d’un �
 
 \3) [*Traitement des demandes d’ajournement lorsque l’ajournement n’est pas possi**ble en vertu de la législation applicable*] Lorsque l’ajournement de la publication a été demandé et qu’une des Parties contractantes désignées dans la demande internationale a fait, en vertu de l’al. 1)b), une déclaration selon laquelle l’ajournement de la publication n’est pas possible en vertu de sa législation,
 
-\4) *[Requête en publication anticipée de l’enregistrement international ou en auto**r**i**sation spéciale d’accès à celui-ci]*
+\4) *[Requête en publication anticipée de l’enregistrement international ou en auto**risation spéciale d’accès à celui-ci]*
 
 \5) [*Renonciation et limitation*]
 
@@ -271,7 +271,7 @@ Est habilité à déposer une demande internationale tout ressortissant d’un �
 
 \1) [*Effets identiques à ceux d’une demande selon la législation applicable*] À compter de la date de l’enregistrement international, l’enregistrement international produit dans chaque Partie contractante désignée au moins les mêmes effets qu’une demande régulièrement déposée en vue de l’obtention de la protection du dessin ou modèle industriel en vertu de la législation de cette Partie contractante.
 
-\2) [*Effets identiques à ceux de l’octroi d’une protection selon la législation appl**i**cable*]
+\2) [*Effets identiques à ceux de l’octroi d’une protection selon la législation appli**cable*]
 
 \3) [*Déclaration concernant l’effet de la désignation de la Partie contractante du déposant*]
 
@@ -619,7 +619,7 @@ Le Directeur général est le dépositaire du présent Acte.
 
 (Suivent les signatures)
 
-Champ d’application le 28 août 2020**[^t-2]**
+Champ d’application le 20 septembre 2022[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -627,6 +627,7 @@ Champ d’application le 28 août 2020**[^t-2]**
 <tr><td>Allemagne</td><td>13 novembre</td><td>2009</td><td>13 février</td><td>2010</td></tr>
 <tr><td>Arménie</td><td>13 avril</td><td>2007 A</td><td>13 juillet</td><td>2007</td></tr>
 <tr><td>Azerbaïdjan</td><td>8 septembre</td><td>2010 A</td><td>8 décembre</td><td>2010</td></tr>
+<tr><td>Bélarus</td><td>19 avril</td><td>2021 A</td><td>19 juillet</td><td>2021</td></tr>
 <tr><td>Belgique\*</td><td>7 juin</td><td>2013</td><td>18 décembre</td><td>2018</td></tr>
 <tr><td>Belize</td><td>9 novembre</td><td>2018 A</td><td>9 février</td><td>2019</td></tr>
 <tr><td>Bosnie et Herzégovine</td><td>24 septembre</td><td>2008 A</td><td>24 décembre</td><td>2008</td></tr>
@@ -635,6 +636,7 @@ Champ d’application le 28 août 2020**[^t-2]**
 <tr><td>Bulgarie</td><td>7 juillet</td><td>2008</td><td>7 octobre</td><td>2008</td></tr>
 <tr><td>Cambodge</td><td>25 novembre</td><td>2016 A</td><td>25 février</td><td>2017</td></tr>
 <tr><td>Canada</td><td>16 juillet</td><td>2018 A</td><td>5 novembre</td><td>2018</td></tr>
+<tr><td>Chine <sup>a</sup></td><td>5 février</td><td>2022 A</td><td>5 mai</td><td>2022</td></tr>
 <tr><td>Corée (Nord)</td><td>13 juin</td><td>2016 A</td><td>13 septembre</td><td>2016</td></tr>
 <tr><td>Corée (Sud)</td><td>31 mars</td><td>2014 A</td><td>1<sup>er</sup> juillet</td><td>2014</td></tr>
 <tr><td>Croatie</td><td>12 janvier</td><td>2004</td><td>12 avril</td><td>2004</td></tr>
@@ -653,6 +655,7 @@ Champ d’application le 28 août 2020**[^t-2]**
 <tr><td>Hongrie</td><td>1<sup>er</sup> février</td><td>2004</td><td>1<sup>er</sup> mai</td><td>2004</td></tr>
 <tr><td>Islande</td><td>6 juillet</td><td>2001 A</td><td>23 décembre</td><td>2003</td></tr>
 <tr><td>Israël</td><td>3 octobre</td><td>2019 A</td><td>3 janvier</td><td>2020</td></tr>
+<tr><td>Jamaïque</td><td>10 novembre</td><td>2021 A</td><td>10 février</td><td>2022</td></tr>
 <tr><td>Japon</td><td>13 février</td><td>2015 A</td><td>13 mai</td><td>2015</td></tr>
 <tr><td>Kirghizistan</td><td>17 février</td><td>2003 A</td><td>23 décembre</td><td>2003</td></tr>
 <tr><td>Lettonie</td><td>26 avril</td><td>2005</td><td>26 juillet</td><td>2005</td></tr>
@@ -660,6 +663,7 @@ Champ d’application le 28 août 2020**[^t-2]**
 <tr><td>Lituanie</td><td>26 juin</td><td>2008 A</td><td>26 septembre</td><td>2008</td></tr>
 <tr><td>Luxembourg\*</td><td>3 septembre</td><td>2013 A</td><td>18 décembre</td><td>2018</td></tr>
 <tr><td>Macédoine du Nord</td><td>22 décembre</td><td>2005 A</td><td>22 mars</td><td>2006</td></tr>
+<tr><td>Maroc</td><td>22 avril</td><td>2022 A</td><td>22 juillet</td><td>2022</td></tr>
 <tr><td>Mexique</td><td>6 mars</td><td>2020 A</td><td>6 juin</td><td>2020</td></tr>
 <tr><td>Moldova\*</td><td>19 décembre</td><td>2001</td><td>23 décembre</td><td>2003</td></tr>
 <tr><td>Monaco</td><td>9 mars</td><td>2011</td><td>9 juin</td><td>2011</td></tr>
@@ -673,6 +677,7 @@ Champ d’application le 28 août 2020**[^t-2]**
 <tr><td>Pologne</td><td>2 avril</td><td>2009 A</td><td>2 juillet</td><td>2009</td></tr>
 <tr><td>Roumanie</td><td>11 mai</td><td>2001</td><td>23 décembre</td><td>2003</td></tr>
 <tr><td>Royaume-Uni</td><td>13 mars</td><td>2018</td><td>13 juin</td><td>2018</td></tr>
+<tr><td>Guernesey</td><td>23 décembre</td><td>2020</td><td>23 mars</td><td>2021</td></tr>
 <tr><td>Île de Man</td><td>13 mars</td><td>2018</td><td>13 juin</td><td>2018</td></tr>
 <tr><td>Russie</td><td>30 novembre</td><td>2017</td><td>28 février</td><td>2018</td></tr>
 <tr><td>Rwanda</td><td>31 mai</td><td>2011 A</td><td>31 août</td><td>2011</td></tr>
@@ -690,8 +695,9 @@ Champ d’application le 28 août 2020**[^t-2]**
 <tr><td>Turkménistan</td><td>16 décembre</td><td>2015 A</td><td>16 mars</td><td>2016</td></tr>
 <tr><td>Turquie</td><td>1<sup>er</sup> octobre</td><td>2004</td><td>1<sup>er</sup> janvier</td><td>2005</td></tr>
 <tr><td>Ukraine</td><td>28 mai</td><td>2002 A</td><td>23 décembre</td><td>2003</td></tr>
-<tr><td>Union européenne</td><td>24 septembre</td><td>2007 A</td><td>1<sup>er</sup> janvier</td><td>2008</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation mondiale de la propriété intellectuelle: www.wipo.int/ &gt; Français &gt; Savoirs &gt; Traités administrés par l’OMPI, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td>Union européenne (UE)</td><td>24 septembre</td><td>2007 A</td><td>1<sup>er</sup> janvier</td><td>2008</td></tr>
+<tr><td>Vietnam</td><td>30 septembre</td><td>2019 A</td><td>30 décembre</td><td>2019</td></tr>
+<tr><td colspan="5"><sup>a</sup> L’acte de Genève ne s’applique pas à Hong Kong et Macao. \* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation mondiale de la propriété intellectuelle: www.wipo.int/ &gt; Français &gt; Savoirs &gt; Traités administrés par l’OMPI, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-2]: [RO 2004 841](https://fedlex.data.admin.ch/eli/oc/2004/98), [2005 3565](https://fedlex.data.admin.ch/eli/oc/2005/514), [2007 3841](https://fedlex.data.admin.ch/eli/oc/2007/498), [2008 4051](https://fedlex.data.admin.ch/eli/oc/2008/556), [2009 3153](https://fedlex.data.admin.ch/eli/oc/2009/393), [2011 2969](https://fedlex.data.admin.ch/eli/oc/2011/386), [2014 965](https://fedlex.data.admin.ch/eli/oc/2014/215), [2016 3413](https://fedlex.data.admin.ch/eli/oc/2016/574), [2019 2187](https://fedlex.data.admin.ch/eli/oc/2019/405), [2020 3685](https://fedlex.data.admin.ch/eli/oc/2020/669). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 2004 841](https://fedlex.data.admin.ch/eli/oc/2004/98); [2005 3565](https://fedlex.data.admin.ch/eli/oc/2005/514); [2007 3841](https://fedlex.data.admin.ch/eli/oc/2007/498); [2008 4051](https://fedlex.data.admin.ch/eli/oc/2008/556); [2009 3153](https://fedlex.data.admin.ch/eli/oc/2009/393); [2011 2969](https://fedlex.data.admin.ch/eli/oc/2011/386); [2014 965](https://fedlex.data.admin.ch/eli/oc/2014/215); [2016 3413](https://fedlex.data.admin.ch/eli/oc/2016/574); [2019 2187](https://fedlex.data.admin.ch/eli/oc/2019/405); [2020 3685](https://fedlex.data.admin.ch/eli/oc/2020/669); [2022 530](https://fedlex.data.admin.ch/eli/oc/2022/530). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: https://www.fedlex.admin.ch/fr/treaty
