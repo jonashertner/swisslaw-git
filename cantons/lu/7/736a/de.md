@@ -3,20 +3,20 @@ canton: LU
 number: 736a
 title: Beschluss über die gemeindeweise Inkraftsetzung von neuen Bestimmungen im Planungs- und Baurecht
 language: de
-version: 2022-06-17
-valid_until: 2022-09-19
-version_adopted: 2022-06-17
+version: 2022-09-20
+valid_until: 2022-10-17
+version_adopted: 2022-09-20
 adopted: 2017-07-04
 in_force: 2017-07-04
 url: "https://srl.lu.ch/app/de/texts_of_law/736a"
-pdf: "https://srl.lu.ch/api/de/versions/3913/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3964/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Beschluss über die gemeindeweise Inkraftsetzung von neuen Bestimmungen im Planungs- und Baurecht
 
-vom 04.07.2017 (Stand 17.06.2022)
+vom 04.07.2017 (Stand 20.09.2022)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -51,6 +51,7 @@ beschliesst:
 <tr><td>Ettiswil</td><td>12. Oktober 2021</td><td>8. Februar 2022</td></tr>
 <tr><td>Buttisholz</td><td>13. Juni 2021</td><td>31. Mai 2022</td></tr>
 <tr><td>Dierikon</td><td>13. Dezember 2021</td><td>17. Juni 2022</td></tr>
+<tr><td>Roggliswil</td><td>15. Februar 2022</td><td>20. September 2022</td></tr>
 </table>
 
 [^Ziff1-1]: SRL Nr. [735](https://srl.lu.ch/data/735/de)
