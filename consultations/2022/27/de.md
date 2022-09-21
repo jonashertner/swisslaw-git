@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Teilrevision des Arbeitslosenversicherungsgesetzes (Kurzarbeitsentschädigung für Berufsbildnerinnen und Berufsbildner)
 document: Vernehmlassungsvorlage
 language: de

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Révision partielle de la loi sur l’assurance-chômage (Indemnité en cas de réduction de l’horaire de travail pour les formateurs)
 document: Projet mis en consultation
 language: fr

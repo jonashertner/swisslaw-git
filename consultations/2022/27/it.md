@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revisione parziale della legge sull’assicurazione contro la disoccupazione (Indennità per lavoro ridotto destinata ai formatori)
 document: Progetto posto in consultazione
 language: it
