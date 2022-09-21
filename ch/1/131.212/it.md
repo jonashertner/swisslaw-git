@@ -4,22 +4,23 @@ title: "Costituzione del Cantone di Berna, del 6 giugno 1993 (CostC)"
 short: CostC
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/1_401_401_361_fga"
 language: it
-version: 2015-03-11
+version: 2022-09-22
 adopted: 1993-06-06
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1_401_401_361_fga/20150311/it/xml/fedlex-data-admin-ch-eli-cc-1994-1_401_401_361_fga-20150311-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/1_401_401_361_fga/20150311/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1_401_401_361_fga/20220922/it/xml/fedlex-data-admin-ch-eli-cc-1994-1_401_401_361_fga-20220922-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/1_401_401_361_fga/20220922/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Costituzione del Cantone di Berna
 
-Traduzione
+Traduzione[^t-1]
 
-del 6 giugno 1993 (Stato 11 marzo 2015)[^t-1]
+del 6 giugno 1993 (Stato 22 settembre 2022)[^t-2]
 
-[^t-1]: La presente pubblicazione si basa sulle modifiche contenute nei messaggi concernenti il conferimento della garanzia federale pubblicati nel FF. Può divergere temporaneamente dalla versione pubblicata nella raccolta cantonale delle leggi. Lo stato corrisponde quindi alla data dell’ultimo decreto dell’AF che accorda la garanzia federale pubblicato nel FF.
+[^t-1]: Accettata nella votazione popolare del 6 giu. 1993. Garanzia dell'AF del 22 set. 1994 (FF **1994** I 361, III 1688). Il testo nella lingua originale è pubblicato sotto lo stesso numero nelle ediz. franc. e ted. della presente Raccolta.
+[^t-2]: La presente pubblicazione si basa sulle modifiche contenute nei messaggi concernenti il conferimento della garanzia federale pubblicati nel FF. Può divergere temporaneamente dalla versione pubblicata nella raccolta cantonale delle leggi. Lo stato corrisponde quindi alla data dell’ultimo decreto dell’AF che accorda la garanzia federale pubblicato nel FF.
 
 Nell’intento di tutelare la libertà e il diritto, nonché di forgiare una collettività solidale in cui tutti vivano consapevoli della loro responsabilità verso il creato,
 
@@ -360,7 +361,11 @@ Il Cantone e i Comuni si prefiggono di operare affinché:
 
 ## 3 Compiti pubblici
 
-### 3.1 Protezione dell’ambiente, del paesaggio e del patrimonio naturale e culturale
+### 3.1 Protezione dell’ambiente, del clima, del paesaggio e del patrimonio naturale e culturale
+
+[^lvl3-lvl31-1]
+
+[^lvl3-lvl31-1]: Accettato nella [votazione popolare del 26 set. 2021](http://www.admin.ch/ch/i/pore/va/20210926/index.html), in vigore dal 26 set. 2021. Garanzia dell’AF del 22 set. 2022 ([FF 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)art. 1, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
 
 ### Protezione dell’ambiente
 
@@ -375,6 +380,22 @@ Il Cantone e i Comuni si prefiggono di operare affinché:
 <sup>4</sup> Il Cantone e i Comuni proteggono la fauna e la flora, nonché i loro biotopi.
 
 <sup>5</sup> I costi dei provvedimenti di protezione dell’ambiente sono di regola a carico di chi li ha causati.
+
+### Protezione del clima
+
+#### Art. 31a
+
+[^31a-1]
+
+<sup>1</sup> Il Cantone e i Comuni si impegnano attivamente a circoscrivere il cambiamento climatico e i suoi effetti nefasti.
+
+<sup>2</sup> Fanno il necessario, nell’ambito delle loro competenze, per raggiungere la neutralità climatica entro il 2050 e rafforzano la capacità di adeguarsi agli effetti nefasti del cambiamento climatico.
+
+<sup>3</sup> Le misure di protezione del clima hanno lo scopo di rafforzare nel complesso l’economia e devono essere accettabili sia sotto il profilo sociale che sotto quello ambientale. Prevedono segnatamente strumenti di promozione dell’innovazione e della tecnologia.
+
+<sup>4</sup> Il Cantone e i Comuni orientano nel complesso i flussi finanziari pubblici verso uno sviluppo neutro dal punto di vista climatico e resiliente al cambiamento climatico.
+
+[^31a-1]: Accettato nella [votazione popolare del 26 set. 2021](http://www.admin.ch/ch/i/pore/va/20210926/index.html), in vigore dal 26 set. 2021. Garanzia dell’AF del 22 set. 2022 ([FF 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)art. 1, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
 
 ### Protezione del paesaggio e del patrimonio naturale e culturale
 
@@ -1703,6 +1724,8 @@ Bilancio
 - [tab] – licenziamento del 89
 - [tab] – votazione facoltativa 62
 
+Cambiamento climatico 31*a*
+
 Cantone
 
 - [tab] – abitazioni a pigione moderata 40
@@ -1770,12 +1793,13 @@ Cantone
 - [tab] – pluralità delle informazioni 46
 - [tab] – principi generali 1 ss
 - [tab] – promozione dell’effettiva parità dei sessi 10
-- [tab] – protezione dell’ambiente 3
-  - [tab] – del paesaggio 32
-  - [tab] – del patrimonio culturale 32
-  - [tab] – del patrimonio naturale 32
-  - [tab] – dell’ambiente 31
+- [tab] – protezione
+- – del clima 31*a*
+  - – del paesaggio 32
+  - – del patrimonio culturale 32
+  - – del patrimonio naturale 32
 
+- – dell’ambiente 31
 - [tab] – provvedimenti per rafforzare i legami tra il Giura Bernese e la parte restante del Cantone 5
 - [tab] – rapporti di servizio 67
 - [tab] – rappresentazione del 90
@@ -1959,6 +1983,7 @@ Comune (i) 107 ss
 - [tab] – prevenzione della disoccupazione 39
 - [tab] – protezione
   - [tab] – dei biotopi 31
+  - [tab] – dei clima 31*a*
   - [tab] – del paesaggio 32
   - [tab] – del patrimonio
   - – culturale 32
