@@ -3,18 +3,18 @@ sr: "131.217"
 title: "Verfassung des Kantons Glarus, vom 1. Mai 1988"
 eli: "https://fedlex.data.admin.ch/eli/cc/1989/3_730_706_654_fga"
 language: de
-version: 2020-09-17
+version: 2022-09-22
 adopted: 1988-05-01
 in_force: 1988-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/3_730_706_654_fga/20200917/de/xml/fedlex-data-admin-ch-eli-cc-1989-3_730_706_654_fga-20200917-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1989/3_730_706_654_fga/20200917/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/3_730_706_654_fga/20220922/de/xml/fedlex-data-admin-ch-eli-cc-1989-3_730_706_654_fga-20220922-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1989/3_730_706_654_fga/20220922/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verfassung des Kantons Glarus
 
-vom 1. Mai 1988 (Stand am 17. September 2020)[^t-1]
+vom 1. Mai 1988 (Stand am 22. September 2022)[^t-1]
 
 [^t-1]: Diese Veröffentlichung basiert auf jenen der Änderungen im Rahmen der Gewährleistungsbotschaften im BBl. Sie kann vorübergehend von der Veröffentlichung in der kantonalen Gesetzessammlung abweichen. Der Stand bezeichnet daher das Datum des letzten im BBl veröffentlichten Gewährleistungsbeschlusses der Bundesversammlung.
 
@@ -38,7 +38,7 @@ gibt sich folgende Verfassung:
 
 <sup>3</sup> Die Verfassung und die gesamte übrige Rechtsordnung des Kantons unterstehen dem Bundesrecht.
 
-[^1-1]: Angenommen an der Landsgemeinde vom 5. Mai 2002, in Kraft seit 1. Juli 2002. Gewährleistungsbeschluss vom 24. Sept. 2003 ([BBl 2003 6875](https://fedlex.data.admin.ch/eli/fga/2003/1134)Art. 1 Ziff. 3 [3388](https://fedlex.data.admin.ch/eli/fga/2003/488)).
+[^1-1]: Angenommen an der Landsgemeinde vom 5. Mai 2002, in Kraft seit 1. Juli 2002. Gewährleistungsbeschluss vom 24. Sept. 2003 ([BBl 2003 6875](https://fedlex.data.admin.ch/eli/fga/2003/1134)Art. 1 Ziff. 3, [3388](https://fedlex.data.admin.ch/eli/fga/2003/488)).
 
 ### Zweiter Abschnitt: Grundrechte und Staatsgrundsätze
 
@@ -174,8 +174,8 @@ Jedes staatliche Handeln muss rechtmässig und verhältnismässig sein sowie Tre
 
 <sup>2</sup> und <sup>3</sup> …[^18-2]
 
-[^18-1]: Angenommen an der Landsgemeinde vom 4. Mai 2014, in Kraft seit 1. Sept. 2014. Gewährleistungsbeschluss vom 3. März 2016 ([BBl 2016 2301](https://fedlex.data.admin.ch/eli/fga/2016/476)Art. 3, [2015 7615](https://fedlex.data.admin.ch/eli/fga/2015/1854)).
-[^18-2]: Aufgehoben an der Landsgemeinde vom 4. Mai 2014, mit Wirkung seit 1. Sept. 2014. Gewährleistungsbeschluss vom 3. März 2016 ([BBl 2016 2301](https://fedlex.data.admin.ch/eli/fga/2016/476)Art. 3, [2015 7615](https://fedlex.data.admin.ch/eli/fga/2015/1854)).
+[^18-1]: Angenommen an der Landsgemeinde vom 4. Mai 2014, in Kraft seit 1. Sept. 2014. Gewährleistungsbeschluss vom 3. März 2016 ([BBl 2016 2301](https://fedlex.data.admin.ch/eli/fga/2016/476)Art. 3; [2015 7615](https://fedlex.data.admin.ch/eli/fga/2015/1854)).
+[^18-2]: Aufgehoben an der Landsgemeinde vom 4. Mai 2014, mit Wirkung seit 1. Sept. 2014. Gewährleistungsbeschluss vom 3. März 2016 ([BBl 2016 2301](https://fedlex.data.admin.ch/eli/fga/2016/476)Art. 3; [2015 7615](https://fedlex.data.admin.ch/eli/fga/2015/1854)).
 
 #### Art. 19
 
@@ -195,9 +195,9 @@ Rückwirkende Erlasse dürfen dem einzelnen keine neuen Belastungen auferlegen.
 
 <sup>4</sup> Das Gesetz regelt Erwerb und Verlust des Kantons- und des Gemeindebürgerrechts.[^20-3]
 
-[^20-1]: Angenommen an der Landsgemeinde vom 7. Mai 2006, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 18. Juni 2007 ([BBl 2007 4933](https://fedlex.data.admin.ch/eli/fga/2007/694)Art. 1 Ziff. 3 [629](https://fedlex.data.admin.ch/eli/fga/2007/86)).
-[^20-2]: Aufgehoben an der Landsgemeinde vom 7. Mai 2006, mit Wirkung seit 1. Jan. 2011. Gewährleistungsbeschluss vom 18. Juni 2007 ([BBl 2007 4933](https://fedlex.data.admin.ch/eli/fga/2007/694)Art. 1 Ziff. 3 [629](https://fedlex.data.admin.ch/eli/fga/2007/86)).
-[^20-3]: Angenommen an der Landsgemeinde vom 7. Mai 2006, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 18. Juni 2007 ([BBl 2007 4933](https://fedlex.data.admin.ch/eli/fga/2007/694)Art. 1 Ziff. 3 [629](https://fedlex.data.admin.ch/eli/fga/2007/86)).
+[^20-1]: Angenommen an der Landsgemeinde vom 7. Mai 2006, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 18. Juni 2007 ([BBl 2007 4933](https://fedlex.data.admin.ch/eli/fga/2007/694)Art. 1 Ziff. 3, [629](https://fedlex.data.admin.ch/eli/fga/2007/86)).
+[^20-2]: Aufgehoben an der Landsgemeinde vom 7. Mai 2006, mit Wirkung seit 1. Jan. 2011. Gewährleistungsbeschluss vom 18. Juni 2007 ([BBl 2007 4933](https://fedlex.data.admin.ch/eli/fga/2007/694)Art. 1 Ziff. 3, [629](https://fedlex.data.admin.ch/eli/fga/2007/86)).
+[^20-3]: Angenommen an der Landsgemeinde vom 7. Mai 2006, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 18. Juni 2007 ([BBl 2007 4933](https://fedlex.data.admin.ch/eli/fga/2007/694)Art. 1 Ziff. 3, [629](https://fedlex.data.admin.ch/eli/fga/2007/86)).
 
 ### Vierter Abschnitt: Bürgerpflichten
 
@@ -284,7 +284,7 @@ Der Kanton und die Gemeinden können die Leistungen des Bundes für die soziale 
 <sup>2</sup> Das Gesetz regelt die Aufsicht des Kantons über Sozialhilfeeinrichtungen, im Besonderen über stationäre Einrichtungen.
 
 [^29-1]: Angenommen an der Landsgemeinde vom 7. Mai 1995, in Kraft seit 1. Jan. 1996. Gewährleistungsbeschluss vom 16. Sept. 1996 ([BBl 1996 IV 864](https://fedlex.data.admin.ch/eli/fga/1996/4_864__)Art. 1 Ziff. 3, I 1301).
-[^29-2]: Angenommen an der Landsgemeinde vom 7. Mai 2006, in Kraft seit 1. Jan. 2008. Gewährleistungsbeschluss vom 18. Juni 2007 ([BBl 2007 4933](https://fedlex.data.admin.ch/eli/fga/2007/694)Art. 1 Ziff. 3 [629](https://fedlex.data.admin.ch/eli/fga/2007/86)).
+[^29-2]: Angenommen an der Landsgemeinde vom 7. Mai 2006, in Kraft seit 1. Jan. 2008. Gewährleistungsbeschluss vom 18. Juni 2007 ([BBl 2007 4933](https://fedlex.data.admin.ch/eli/fga/2007/694)Art. 1 Ziff. 3, [629](https://fedlex.data.admin.ch/eli/fga/2007/86)).
 
 #### Art. 30
 
@@ -312,7 +312,7 @@ Der Kanton kann den Wohnungsbau fördern oder Mietzinserleichterungen gewähren,
 
 <sup>4</sup> …[^32-1]
 
-[^32-1]: Aufgehoben an der Landsgemeinde vom 4. Mai 2014, mit Wirkung seit 1. Sept. 2014. Gewährleistungsbeschluss vom 3. März 2016 ([BBl 2016 2301](https://fedlex.data.admin.ch/eli/fga/2016/476)Art. 3, [2015 7615](https://fedlex.data.admin.ch/eli/fga/2015/1854)).
+[^32-1]: Aufgehoben an der Landsgemeinde vom 4. Mai 2014, mit Wirkung seit 1. Sept. 2014. Gewährleistungsbeschluss vom 3. März 2016 ([BBl 2016 2301](https://fedlex.data.admin.ch/eli/fga/2016/476)Art. 3; [2015 7615](https://fedlex.data.admin.ch/eli/fga/2015/1854)).
 
 #### Art. 33
 
@@ -326,10 +326,10 @@ Der Kanton kann den Wohnungsbau fördern oder Mietzinserleichterungen gewähren,
 
 <sup>4</sup> Das Gesetz regelt die Aufsicht.[^33-4]
 
-[^33-1]: Angenommen an der Landsgemeinde vom 3. Mai 2009, in Kraft seit 3. Mai 2009. Gewährleistungsbeschluss vom 8. Juni 2010 ([BBl 2010 4365](https://fedlex.data.admin.ch/eli/fga/2010/748)Art. 1 Ziff. 1 [2153](https://fedlex.data.admin.ch/eli/fga/2010/378)).
-[^33-2]: Angenommen an der Landsgemeinde vom 6. Mai 2007, in Kraft seit 1. Jan. 2008. Gewährleistungsbeschluss vom 12. Juni 2008 ([BBl 2008 5787](https://fedlex.data.admin.ch/eli/fga/2008/993)Art. 1 Ziff. 2 [1417](https://fedlex.data.admin.ch/eli/fga/2008/355)).
-[^33-3]: Angenommen an der Landsgemeinde vom 6. Mai 2007, in Kraft seit 1. Jan. 2008. Gewährleistungsbeschluss vom 12. Juni 2008 ([BBl 2008 5787](https://fedlex.data.admin.ch/eli/fga/2008/993)Art. 1 Ziff. 2 [1417](https://fedlex.data.admin.ch/eli/fga/2008/355)).
-[^33-4]: Angenommen an der Landsgemeinde vom 6. Mai 2007, in Kraft seit 1. Jan. 2008. Gewährleistungsbeschluss vom 12. Juni 2008 ([BBl 2008 5787](https://fedlex.data.admin.ch/eli/fga/2008/993)Art. 1 Ziff. 2 [1417](https://fedlex.data.admin.ch/eli/fga/2008/355)).
+[^33-1]: Angenommen an der Landsgemeinde vom 3. Mai 2009, in Kraft seit 3. Mai 2009. Gewährleistungsbeschluss vom 8. Juni 2010 ([BBl 2010 4365](https://fedlex.data.admin.ch/eli/fga/2010/748)Art. 1 Ziff. 1, [2153](https://fedlex.data.admin.ch/eli/fga/2010/378)).
+[^33-2]: Angenommen an der Landsgemeinde vom 6. Mai 2007, in Kraft seit 1. Jan. 2008. Gewährleistungsbeschluss vom 12. Juni 2008 ([BBl 2008 5787](https://fedlex.data.admin.ch/eli/fga/2008/993)Art. 1 Ziff. 2, [1417](https://fedlex.data.admin.ch/eli/fga/2008/355)).
+[^33-3]: Angenommen an der Landsgemeinde vom 6. Mai 2007, in Kraft seit 1. Jan. 2008. Gewährleistungsbeschluss vom 12. Juni 2008 ([BBl 2008 5787](https://fedlex.data.admin.ch/eli/fga/2008/993)Art. 1 Ziff. 2, [1417](https://fedlex.data.admin.ch/eli/fga/2008/355)).
+[^33-4]: Angenommen an der Landsgemeinde vom 6. Mai 2007, in Kraft seit 1. Jan. 2008. Gewährleistungsbeschluss vom 12. Juni 2008 ([BBl 2008 5787](https://fedlex.data.admin.ch/eli/fga/2008/993)Art. 1 Ziff. 2, [1417](https://fedlex.data.admin.ch/eli/fga/2008/355)).
 
 ### Fünfter Abschnitt: Schutz der Familie
 
@@ -379,7 +379,7 @@ Der Kanton nimmt im Schulwesen insbesondere folgende Aufgaben wahr:
 
 <sup>5</sup> Er erleichtert die Ausbildung durch Stipendien und soziale Massnahmen.
 
-[^37-1]: Angenommen an der Landsgemeinde vom 3. Mai 2009, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 8. Juni 2010 ([BBl 2010 4365](https://fedlex.data.admin.ch/eli/fga/2010/748)Art. 1 Ziff. 1 [2153](https://fedlex.data.admin.ch/eli/fga/2010/378)).
+[^37-1]: Angenommen an der Landsgemeinde vom 3. Mai 2009, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 8. Juni 2010 ([BBl 2010 4365](https://fedlex.data.admin.ch/eli/fga/2010/748)Art. 1 Ziff. 1, [2153](https://fedlex.data.admin.ch/eli/fga/2010/378)).
 
 #### Art. 38
 
@@ -387,7 +387,7 @@ Der Kanton nimmt im Schulwesen insbesondere folgende Aufgaben wahr:
 
 Der Kanton regelt die Führung der Kinderhorte.
 
-[^38-1]: Angenommen an der Landsgemeinde vom 3. Mai 2009, in Kraft seit 1. Aug. 2011. Gewährleistungsbeschluss vom 8. Juni 2010 ([BBl 2010 4365](https://fedlex.data.admin.ch/eli/fga/2010/748)Art. 1 Ziff. 1 [2153](https://fedlex.data.admin.ch/eli/fga/2010/378)).
+[^38-1]: Angenommen an der Landsgemeinde vom 3. Mai 2009, in Kraft seit 1. Aug. 2011. Gewährleistungsbeschluss vom 8. Juni 2010 ([BBl 2010 4365](https://fedlex.data.admin.ch/eli/fga/2010/748)Art. 1 Ziff. 1, [2153](https://fedlex.data.admin.ch/eli/fga/2010/378)).
 
 #### Art. 39
 
@@ -399,7 +399,7 @@ Der Kanton regelt die Führung der Kinderhorte.
 
 <sup>3</sup> Das Gesetz regelt die Aufsicht des Kantons über die Sonderschulen und Erziehungsheime.
 
-[^39-1]: Angenommen an der Landsgemeinde vom 3. Mai 2009, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 8. Juni 2010 ([BBl 2010 4365](https://fedlex.data.admin.ch/eli/fga/2010/748)Art. 1 Ziff. 1 [2153](https://fedlex.data.admin.ch/eli/fga/2010/378)).
+[^39-1]: Angenommen an der Landsgemeinde vom 3. Mai 2009, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 8. Juni 2010 ([BBl 2010 4365](https://fedlex.data.admin.ch/eli/fga/2010/748)Art. 1 Ziff. 1, [2153](https://fedlex.data.admin.ch/eli/fga/2010/378)).
 
 #### Art. 40
 
@@ -513,9 +513,9 @@ Alle Steuerpflichtigen haben nach ihren Mitteln und ihrer wirtschaftlichen Leist
 
 <sup>4</sup> Der Kanton und die Gemeinden erstellen Finanzplanungen.[^52-3]
 
-[^52-1]: Angenommen an der Landsgemeinde vom 5. Mai 2019, in Kraft seit 1. Jan. 2020. Gewährleistungsbeschluss vom 17. Sept. 2020 ([BBl 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)Art. 1 Ziff. 2, [2020 5111](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
-[^52-2]: Angenommen an der Landsgemeinde vom 2. Mai 2004, in Kraft seit 5. Okt. 2005. Gewährleistungsbeschluss vom 6. Okt. 2005 ([BBl 2005 5995](https://fedlex.data.admin.ch/eli/fga/2005/963)Art. 1 Ziff. 1 [2891](https://fedlex.data.admin.ch/eli/fga/2005/452)).
-[^52-3]: Angenommen an der Landsgemeinde vom 7. Mai 2006, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 18. Juni 2007 ([BBl 2007 4933](https://fedlex.data.admin.ch/eli/fga/2007/694)Art. 1 Ziff. 3 [629](https://fedlex.data.admin.ch/eli/fga/2007/86)).
+[^52-1]: Angenommen an der Landsgemeinde vom 5. Mai 2019, in Kraft seit 1. Jan. 2020. Gewährleistungsbeschluss vom 17. Sept. 2020 ([BBl 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)Art. 1 Ziff. 2; [2020 5111](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
+[^52-2]: Angenommen an der Landsgemeinde vom 2. Mai 2004, in Kraft seit 5. Okt. 2005. Gewährleistungsbeschluss vom 6. Okt. 2005 ([BBl 2005 5995](https://fedlex.data.admin.ch/eli/fga/2005/963)Art. 1 Ziff. 1, [2891](https://fedlex.data.admin.ch/eli/fga/2005/452)).
+[^52-3]: Angenommen an der Landsgemeinde vom 7. Mai 2006, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 18. Juni 2007 ([BBl 2007 4933](https://fedlex.data.admin.ch/eli/fga/2007/694)Art. 1 Ziff. 3, [629](https://fedlex.data.admin.ch/eli/fga/2007/86)).
 
 #### Art. 53
 
@@ -527,9 +527,9 @@ Alle Steuerpflichtigen haben nach ihren Mitteln und ihrer wirtschaftlichen Leist
 
 <sup>3</sup> Im Rechnungswesen gilt der Grundsatz der Öffentlichkeit.
 
-[^53-1]: Angenommer an der Landsgemeinde vom 4. Mai 2014, in Kraft seit 1. Sept. 2014. Gewährleistungsbeschluss vom 3. März 2016 ([BBl 2016 2301](https://fedlex.data.admin.ch/eli/fga/2016/476)Art. 3, [2015 7615](https://fedlex.data.admin.ch/eli/fga/2015/1854)).
-[^53-2]: Angenommer an der Landsgemeinde vom 4. Mai 2014, in Kraft seit 1. Sept. 2014, Gewährleistungsbeschluss vom 3. März 2016 ([BBl 2016 2301](https://fedlex.data.admin.ch/eli/fga/2016/476)Art. 3, [2015 7615](https://fedlex.data.admin.ch/eli/fga/2015/1854)).
-[^53-3]: Angenommer an der Landsgemeinde vom 4. Mai 2014, in Kraft seit 1. Sept. 2014, Gewährleistungsbeschluss vom 3. März 2016 ([BBl 2016 2301](https://fedlex.data.admin.ch/eli/fga/2016/476)Art. 3, [2015 7615](https://fedlex.data.admin.ch/eli/fga/2015/1854)).
+[^53-1]: Angenommer an der Landsgemeinde vom 4. Mai 2014, in Kraft seit 1. Sept. 2014. Gewährleistungsbeschluss vom 3. März 2016 ([BBl 2016 2301](https://fedlex.data.admin.ch/eli/fga/2016/476)Art. 3; [2015 7615](https://fedlex.data.admin.ch/eli/fga/2015/1854)).
+[^53-2]: Angenommer an der Landsgemeinde vom 4. Mai 2014, in Kraft seit 1. Sept. 2014, Gewährleistungsbeschluss vom 3. März 2016 ([BBl 2016 2301](https://fedlex.data.admin.ch/eli/fga/2016/476)Art. 3; [2015 7615](https://fedlex.data.admin.ch/eli/fga/2015/1854)).
+[^53-3]: Angenommer an der Landsgemeinde vom 4. Mai 2014, in Kraft seit 1. Sept. 2014, Gewährleistungsbeschluss vom 3. März 2016 ([BBl 2016 2301](https://fedlex.data.admin.ch/eli/fga/2016/476)Art. 3; [2015 7615](https://fedlex.data.admin.ch/eli/fga/2015/1854)).
 
 #### Art. 54
 
@@ -547,7 +547,7 @@ Alle Steuerpflichtigen haben nach ihren Mitteln und ihrer wirtschaftlichen Leist
 
 <sup>2</sup> Die Gemeinden können nach Gesetz zu geldwerten Leistungen an die Erfüllung gemeinsamer Aufgaben des Kantons und der Gemeinden verpflichtet werden.
 
-[^55-1]: Angenommen an der Landsgemeinde vom 2. Mai 2010, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 29. Sept. 2011 ([BBl 2011 7619](https://fedlex.data.admin.ch/eli/fga/2011/1266)Art. 1 Ziff. 4 [4467](https://fedlex.data.admin.ch/eli/fga/2011/693)).
+[^55-1]: Angenommen an der Landsgemeinde vom 2. Mai 2010, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 29. Sept. 2011 ([BBl 2011 7619](https://fedlex.data.admin.ch/eli/fga/2011/1266)Art. 1 Ziff. 4, [4467](https://fedlex.data.admin.ch/eli/fga/2011/693)).
 
 #### Art. 55a
 
@@ -555,7 +555,7 @@ Alle Steuerpflichtigen haben nach ihren Mitteln und ihrer wirtschaftlichen Leist
 
 Der Finanzausgleich besteht aus dem Ressourcen- und dem Lastenausgleich. Den Ressourcenausgleich finanzieren die Gemeinden, der Lastenausgleich wird vom Kanton finanziert. Das Gesetz regelt das Nähere.
 
-[^55a-1]: Angenommen an der Landsgemeinde vom 2. Mai 2010, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 29. Sept. 2011 ([BBl 2011 7619](https://fedlex.data.admin.ch/eli/fga/2011/1266)Art. 1 Ziff. 4 [4467](https://fedlex.data.admin.ch/eli/fga/2011/693)).
+[^55a-1]: Angenommen an der Landsgemeinde vom 2. Mai 2010, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 29. Sept. 2011 ([BBl 2011 7619](https://fedlex.data.admin.ch/eli/fga/2011/1266)Art. 1 Ziff. 4, [4467](https://fedlex.data.admin.ch/eli/fga/2011/693)).
 
 ## Drittes Kapitel: Politische Rechte der Bürger und Landsgemeinde
 
@@ -571,7 +571,7 @@ Der Finanzausgleich besteht aus dem Ressourcen- und dem Lastenausgleich. Den Res
 
 <sup>3</sup> Das Stimmrecht wird an der Landsgemeinde und im Übrigen, soweit das Gesetz keine Erleichterungen vorsieht, am Wohnort ausgeübt; es wird mit der Niederlassung erlangt.
 
-[^56-1]: Angenommen an der Landsgemeinde vom 6. Mai 2007, in Kraft seit 6. Mai 2007. Gewährleistungsbeschluss vom 12. Juni 2008 ([BBl 2008 5787](https://fedlex.data.admin.ch/eli/fga/2008/993)Art. 1 Ziff. 2 [1417](https://fedlex.data.admin.ch/eli/fga/2008/355)).
+[^56-1]: Angenommen an der Landsgemeinde vom 6. Mai 2007, in Kraft seit 6. Mai 2007. Gewährleistungsbeschluss vom 12. Juni 2008 ([BBl 2008 5787](https://fedlex.data.admin.ch/eli/fga/2008/993)Art. 1 Ziff. 2, [1417](https://fedlex.data.admin.ch/eli/fga/2008/355)).
 
 #### Art. 57
 
@@ -594,8 +594,8 @@ Auf Gemeindeebene hat jeder Stimmberechtigte das Recht:
 - b. Anträge zuhanden der Gemeindeversammlung zu stellen;
 - c. an der Gemeindeversammlung zu raten sowie an der Gemeindeversammlung oder an der Urne abzustimmen.
 
-[^57-1]: Angenommen an der Landsgemeinde vom 6. Mai 2007, in Kraft seit 6. Mai 2007. Gewährleistungsbeschluss vom 12. Juni 2008 ([BBl 2008 5787](https://fedlex.data.admin.ch/eli/fga/2008/993)Art. 1 Ziff. 2 [1417](https://fedlex.data.admin.ch/eli/fga/2008/355)).
-[^57-2]: Angenommen an der Landsgemeinde vom 6. Mai 2007, in Kraft seit 6. Mai 2007. Gewährleistungsbeschluss vom 12. Juni 2008 ([BBl 2008 5787](https://fedlex.data.admin.ch/eli/fga/2008/993)Art. 1 Ziff. 2 [1417](https://fedlex.data.admin.ch/eli/fga/2008/355)).
+[^57-1]: Angenommen an der Landsgemeinde vom 6. Mai 2007, in Kraft seit 6. Mai 2007. Gewährleistungsbeschluss vom 12. Juni 2008 ([BBl 2008 5787](https://fedlex.data.admin.ch/eli/fga/2008/993)Art. 1 Ziff. 2, [1417](https://fedlex.data.admin.ch/eli/fga/2008/355)).
+[^57-2]: Angenommen an der Landsgemeinde vom 6. Mai 2007, in Kraft seit 6. Mai 2007. Gewährleistungsbeschluss vom 12. Juni 2008 ([BBl 2008 5787](https://fedlex.data.admin.ch/eli/fga/2008/993)Art. 1 Ziff. 2, [1417](https://fedlex.data.admin.ch/eli/fga/2008/355)).
 
 #### Art. 58
 
@@ -613,12 +613,12 @@ Auf Gemeindeebene hat jeder Stimmberechtigte das Recht:
 
 <sup>6</sup> …[^58-6]
 
-[^58-1]: Angenommen an der Landsgemeinde vom 7. Mai 2017, in Kraft seit 1. Jan. 2018. Gewährleistungsbeschluss vom 17. Sept. 2020 ([BBl 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)Art. 1 Ziff. 1, [2020 5111](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
-[^58-2]: Angenommen an der Landsgemeinde vom 6. Mai 2007, in Kraft seit 6. Mai 2007. Gewährleistungsbeschluss vom 12. Juni 2008 ([BBl 2008 5787](https://fedlex.data.admin.ch/eli/fga/2008/993)Art. 1 Ziff. 2 [1417](https://fedlex.data.admin.ch/eli/fga/2008/355)).
-[^58-3]: Angenommen an der Landsgemeinde vom 7. Mai 2017, in Kraft seit 1. Jan. 2018. Gewährleistungsbeschluss vom 17. Sept. 2020 ([BBl 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)Art. 1 Ziff. 1, [2020 5111](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
-[^58-4]: Aufgehoben an der Landsgemeinde vom 7. Mai 2017, mit Wirkung seit 1. Jan. 2018. Gewährleistungsbeschluss vom 17. Sept. 2020 ([BBl 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)Art. 1 Ziff. 1, [2020 5111](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
-[^58-5]: Angenommen an der Landsgemeinde vom 7. Mai 2017, in Kraft seit 1. Jan. 2018. Gewährleistungsbeschluss vom 17. Sept. 2020 ([BBl 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)Art. 1 Ziff. 1, [2020 5111](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
-[^58-6]: Aufgehoben an der Landsgemeinde vom 7. Mai 2017, mit Wirkung seit 1. Jan. 2018. Gewährleistungsbeschluss vom 17. Sept. 2020 ([BBl 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)Art. 1 Ziff. 1, [2020 5111](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
+[^58-1]: Angenommen an der Landsgemeinde vom 7. Mai 2017, in Kraft seit 1. Jan. 2018. Gewährleistungsbeschluss vom 17. Sept. 2020 ([BBl 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)Art. 1 Ziff. 1; [2020 5111](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
+[^58-2]: Angenommen an der Landsgemeinde vom 6. Mai 2007, in Kraft seit 6. Mai 2007. Gewährleistungsbeschluss vom 12. Juni 2008 ([BBl 2008 5787](https://fedlex.data.admin.ch/eli/fga/2008/993)Art. 1 Ziff. 2, [1417](https://fedlex.data.admin.ch/eli/fga/2008/355)).
+[^58-3]: Angenommen an der Landsgemeinde vom 7. Mai 2017, in Kraft seit 1. Jan. 2018. Gewährleistungsbeschluss vom 17. Sept. 2020 ([BBl 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)Art. 1 Ziff. 1; [2020 5111](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
+[^58-4]: Aufgehoben an der Landsgemeinde vom 7. Mai 2017, mit Wirkung seit 1. Jan. 2018. Gewährleistungsbeschluss vom 17. Sept. 2020 ([BBl 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)Art. 1 Ziff. 1; [2020 5111](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
+[^58-5]: Angenommen an der Landsgemeinde vom 7. Mai 2017, in Kraft seit 1. Jan. 2018. Gewährleistungsbeschluss vom 17. Sept. 2020 ([BBl 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)Art. 1 Ziff. 1; [2020 5111](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
+[^58-6]: Aufgehoben an der Landsgemeinde vom 7. Mai 2017, mit Wirkung seit 1. Jan. 2018. Gewährleistungsbeschluss vom 17. Sept. 2020 ([BBl 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)Art. 1 Ziff. 1; [2020 5111](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
 
 #### Art. 59
 
@@ -632,8 +632,8 @@ Auf Gemeindeebene hat jeder Stimmberechtigte das Recht:
 
 <sup>4</sup> Bei Anträgen des Regierungsrates zuhanden der Landsgemeinde erfolgt kein Beschluss über die Erheblichkeit; tritt der Landrat aber auf einen Antrag des Regierungsrates nicht ein oder weist er ihn ab, so fällt der Antrag dahin.
 
-[^59-1]: Aufgehoben an der Landsgemeinde vom 7. Mai 2017, mit Wirkung seit 1. Jan. 2018. Gewährleistungsbeschluss vom 17. Sept. 2020 ([BBl 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)Art. 1 Ziff. 1, [2020 5111](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
-[^59-2]: Angenommen an der Landsgemeinde vom 7. Mai 2017, in Kraft seit 1. Jan. 2018. Gewährleistungsbeschluss vom 17. Sept. 2020 ([BBl 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)Art. 1 Ziff. 1, [2020 5111](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
+[^59-1]: Aufgehoben an der Landsgemeinde vom 7. Mai 2017, mit Wirkung seit 1. Jan. 2018. Gewährleistungsbeschluss vom 17. Sept. 2020 ([BBl 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)Art. 1 Ziff. 1; [2020 5111](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
+[^59-2]: Angenommen an der Landsgemeinde vom 7. Mai 2017, in Kraft seit 1. Jan. 2018. Gewährleistungsbeschluss vom 17. Sept. 2020 ([BBl 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)Art. 1 Ziff. 1; [2020 5111](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
 
 #### Art. 60
 
@@ -665,9 +665,9 @@ Die Landsgemeinde ist die Versammlung der stimmberechtigten Landeseinwohner. Sie
 
 <sup>5</sup> …[^62-3]
 
-[^62-1]: Angenommen an der Landsgemeinde vom 4. Mai 2014, in Kraft seit 1. Sept. 2014. Gewährleistungsbeschluss vom 3. März 2016 ([BBl 2016 2301](https://fedlex.data.admin.ch/eli/fga/2016/476)Art. 3, [2015 7615](https://fedlex.data.admin.ch/eli/fga/2015/1854)).
-[^62-2]: Angenommen an der Landsgemeinde vom 7. Mai 2017, in Kraft seit 1. Jan. 2018. Gewährleistungsbeschluss vom 17. Sept. 2020 ([BBl 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)Art. 1 Ziff. 1, [2020 5111](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
-[^62-3]: Aufgehoben an der Landsgemeinde vom 7. Mai 2017, mit Wirkung seit 1. Jan. 2018. Gewährleistungsbeschluss vom 17. Sept. 2020 ([BBl 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)Art. 1 Ziff. 1, [2020 5111](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
+[^62-1]: Angenommen an der Landsgemeinde vom 4. Mai 2014, in Kraft seit 1. Sept. 2014. Gewährleistungsbeschluss vom 3. März 2016 ([BBl 2016 2301](https://fedlex.data.admin.ch/eli/fga/2016/476)Art. 3; [2015 7615](https://fedlex.data.admin.ch/eli/fga/2015/1854)).
+[^62-2]: Angenommen an der Landsgemeinde vom 7. Mai 2017, in Kraft seit 1. Jan. 2018. Gewährleistungsbeschluss vom 17. Sept. 2020 ([BBl 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)Art. 1 Ziff. 1; [2020 5111](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
+[^62-3]: Aufgehoben an der Landsgemeinde vom 7. Mai 2017, mit Wirkung seit 1. Jan. 2018. Gewährleistungsbeschluss vom 17. Sept. 2020 ([BBl 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)Art. 1 Ziff. 1; [2020 5111](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
 
 #### Art. 63
 
@@ -683,7 +683,7 @@ Die Landsgemeinde ist die Versammlung der stimmberechtigten Landeseinwohner. Sie
 
 <sup>5</sup> Der Regierungsrat kann Massnahmen zur Erleichterung der Teilnahme treffen, besonders für Stimmberechtigte aus entfernteren Gemeinden.
 
-[^63-1]: Aufgehoben an der Landsgemeinde vom 7. Mai 2017, mit Wirkung seit 1. Jan. 2018. Gewährleistungsbeschluss vom 17. Sept. 2020 ([BBl 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)Art. 1 Ziff. 1, [2020 5111](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
+[^63-1]: Aufgehoben an der Landsgemeinde vom 7. Mai 2017, mit Wirkung seit 1. Jan. 2018. Gewährleistungsbeschluss vom 17. Sept. 2020 ([BBl 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)Art. 1 Ziff. 1; [2020 5111](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
 
 #### Art. 64
 
@@ -734,11 +734,11 @@ Die Landsgemeinde ist die Versammlung der stimmberechtigten Landeseinwohner. Sie
 Die Landsgemeinde ist zuständig für:
 
 - a. die Wahl des Landammanns und des Landesstatthalters;
-- b.[^68-1] die Wahl der Gerichtspräsidenten und der weiteren Richter;
+- b.[^68-1] die Wahl der Gerichtspräsidien, der teilamtlichen Vizepräsidien und der weiteren Richterinnen und Richter;
 - c. …[^68-2].
 
-[^68-1]: Angenommen an der Landsgemeinde vom 2. Mai 2004, in Kraft seit 5. Okt. 2005. Gewährleistungsbeschluss vom 6. Okt. 2005 ([BBl 2005 5995](https://fedlex.data.admin.ch/eli/fga/2005/963)Art. 1 Ziff. 1 [2891](https://fedlex.data.admin.ch/eli/fga/2005/452)).
-[^68-2]: Aufgehoben an der Landsgemeinde vom 2. Mai 2010, mit Wirkung seit 1. Jan. 2011. Gewährleistungsbeschluss vom 29. Sept. 2011 ([BBl 2011 7619](https://fedlex.data.admin.ch/eli/fga/2011/1266)Art. 1 Ziff. 4 [4467](https://fedlex.data.admin.ch/eli/fga/2011/693)).
+[^68-1]: Angenommen an der Landsgemeinde vom 5. Sept 2021, in Kraft seit 1. Juli 2022. Gewährleistungsbeschluss vom 22. Sept. 2022 ([BBl 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)Art. 2, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
+[^68-2]: Aufgehoben an der Landsgemeinde vom 2. Mai 2010, mit Wirkung seit 1. Jan. 2011. Gewährleistungsbeschluss vom 29. Sept. 2011 ([BBl 2011 7619](https://fedlex.data.admin.ch/eli/fga/2011/1266)Art. 1 Ziff. 4, [4467](https://fedlex.data.admin.ch/eli/fga/2011/693)).
 
 #### Art. 69
 
@@ -758,7 +758,7 @@ Sie ist im Weiteren zuständig für:
 
 <sup>3</sup> Die Landsgemeinde kann ihre Befugnisse dem Landrat oder dem Regierungsrat übertragen, sofern die Ermächtigung auf ein bestimmtes Gebiet beschränkt und nach Zweck und Umfang näher umschrieben wird.
 
-[^69-1]: Angenommen an der Landsgemeinde vom 5. Mai 2002, in Kraft seit 1. Juli 2002. Gewährleistungsbeschluss vom 24. Sept. 2003 ([BBl 2003 6875](https://fedlex.data.admin.ch/eli/fga/2003/1134)Art. 1 Ziff. 3 [3388](https://fedlex.data.admin.ch/eli/fga/2003/488)).
+[^69-1]: Angenommen an der Landsgemeinde vom 5. Mai 2002, in Kraft seit 1. Juli 2002. Gewährleistungsbeschluss vom 24. Sept. 2003 ([BBl 2003 6875](https://fedlex.data.admin.ch/eli/fga/2003/1134)Art. 1 Ziff. 3, [3388](https://fedlex.data.admin.ch/eli/fga/2003/488)).
 
 ### Dritter Abschnitt: Kantonale Urnenwahlen
 
@@ -796,12 +796,15 @@ Die gesetzgebende, die vollziehende und die richterliche Gewalt sind dem Grundsa
 
 <sup>1</sup> Alle Stimmberechtigten ab zurückgelegtem 18. Altersjahr sind wählbar als Landrat, Regierungsrat oder Richter, als Ständerat oder als Mitglied der weiteren Behörden des Kantons und der Gemeinden.[^74-2]
 
+<sup>1a</sup> Für die Gerichtspräsidien und die teilamtlichen Vizepräsidien ist zudem ein an einer Schweizer Hochschule mit einem Lizentiatoder Master abgeschlossenes Studium der Rechtswissenschaften Wählbarkeitsvoraussetzung.[^74-3]
+
 <sup>2</sup> Das Gesetz kann für bestimmte Behörden zusätzliche Wählbarkeitsvoraussetzungen vorsehen.
 
 <sup>3</sup> Durch Gesetz oder Verordnung des Landrates kann gestattet werden, ausnahmsweise bestimmte Behörden durch Nichtstimmberechtigte zu besetzen.
 
-[^74-1]: Angenommen an der Landsgemeinde vom 2. Mai 2004, in Kraft seit 5. Okt. 2005. Gewährleistungsbeschluss vom 6. Okt. 2005 ([BBl 2005 5995](https://fedlex.data.admin.ch/eli/fga/2005/963)Art. 1 Ziff. 1 [2891](https://fedlex.data.admin.ch/eli/fga/2005/452)).
-[^74-2]: Angenommen an der Landsgemeinde vom 6. Mai 2007, in Kraft seit 6. Mai 2007. Gewährleistungsbeschluss vom 12. Juni 2008 ([BBl 2008 5787](https://fedlex.data.admin.ch/eli/fga/2008/993)Art. 1 Ziff. 2 [1417](https://fedlex.data.admin.ch/eli/fga/2008/355)).
+[^74-1]: Angenommen an der Landsgemeinde vom 2. Mai 2004, in Kraft seit 5. Okt. 2005. Gewährleistungsbeschluss vom 6. Okt. 2005 ([BBl 2005 5995](https://fedlex.data.admin.ch/eli/fga/2005/963)Art. 1 Ziff. 1, [2891](https://fedlex.data.admin.ch/eli/fga/2005/452)).
+[^74-2]: Angenommen an der Landsgemeinde vom 6. Mai 2007, in Kraft seit 6. Mai 2007. Gewährleistungsbeschluss vom 12. Juni 2008 ([BBl 2008 5787](https://fedlex.data.admin.ch/eli/fga/2008/993)Art. 1 Ziff. 2, [1417](https://fedlex.data.admin.ch/eli/fga/2008/355)).
+[^74-3]: Angenommen an der Landsgemeinde vom 5. Sept 2021, in Kraft seit 1. Juli 2022. Gewährleistungsbeschluss vom 22. Sept. 2022 ([BBl 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)Art. 2, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
 
 #### Art. 75
 
@@ -817,10 +820,10 @@ Die gesetzgebende, die vollziehende und die richterliche Gewalt sind dem Grundsa
 
 <sup>5</sup> Das Gesetz bestimmt, welche Tätigkeiten mit den Aufgaben einer Gerichts- oder Strafverfolgungsbehörde unvereinbar sind.
 
-[^75-1]: Angenommen an der Landsgemeinde vom 5. Mai 2002, in Kraft seit 1. Juli 2002. Gewährleistungsbeschluss vom 24. Sept. 2003 ([BBl 2003 6875](https://fedlex.data.admin.ch/eli/fga/2003/1134)Art. 1 Ziff. 3 [3388](https://fedlex.data.admin.ch/eli/fga/2003/488)).
-[^75-2]: Angenommen an der Landsgemeinde vom 2. Mai 2004, in Kraft seit 5. Okt. 2005. Gewährleistungsbeschluss vom 6. Okt. 2005 ([BBl 2005 5995](https://fedlex.data.admin.ch/eli/fga/2005/963)Art. 1 Ziff. 1 [2891](https://fedlex.data.admin.ch/eli/fga/2005/452)).
-[^75-3]: Angenommen an der Landsgemeinde vom 2. Mai 2004, in Kraft seit 5. Okt. 2005. Gewährleistungsbeschluss vom 6. Okt. 2005 ([BBl 2005 5995](https://fedlex.data.admin.ch/eli/fga/2005/963)Art. 1 Ziff. 1 [2891](https://fedlex.data.admin.ch/eli/fga/2005/452)).
-[^75-4]: Angenommen an der Landsgemeinde vom 2. Mai 2004, in Kraft seit 5. Okt. 2005. Gewährleistungsbeschluss vom 6. Okt. 2005 ([BBl 2005 5995](https://fedlex.data.admin.ch/eli/fga/2005/963)Art. 1 Ziff. 1 [2891](https://fedlex.data.admin.ch/eli/fga/2005/452)).
+[^75-1]: Angenommen an der Landsgemeinde vom 5. Mai 2002, in Kraft seit 1. Juli 2002. Gewährleistungsbeschluss vom 24. Sept. 2003 ([BBl 2003 6875](https://fedlex.data.admin.ch/eli/fga/2003/1134)Art. 1 Ziff. 3, [3388](https://fedlex.data.admin.ch/eli/fga/2003/488)).
+[^75-2]: Angenommen an der Landsgemeinde vom 2. Mai 2004, in Kraft seit 5. Okt. 2005. Gewährleistungsbeschluss vom 6. Okt. 2005 ([BBl 2005 5995](https://fedlex.data.admin.ch/eli/fga/2005/963)Art. 1 Ziff. 1, [2891](https://fedlex.data.admin.ch/eli/fga/2005/452)).
+[^75-3]: Angenommen an der Landsgemeinde vom 2. Mai 2004, in Kraft seit 5. Okt. 2005. Gewährleistungsbeschluss vom 6. Okt. 2005 ([BBl 2005 5995](https://fedlex.data.admin.ch/eli/fga/2005/963)Art. 1 Ziff. 1, [2891](https://fedlex.data.admin.ch/eli/fga/2005/452)).
+[^75-4]: Angenommen an der Landsgemeinde vom 2. Mai 2004, in Kraft seit 5. Okt. 2005. Gewährleistungsbeschluss vom 6. Okt. 2005 ([BBl 2005 5995](https://fedlex.data.admin.ch/eli/fga/2005/963)Art. 1 Ziff. 1, [2891](https://fedlex.data.admin.ch/eli/fga/2005/452)).
 
 #### Art. 76
 
@@ -830,8 +833,8 @@ Die gesetzgebende, die vollziehende und die richterliche Gewalt sind dem Grundsa
 
 <sup>2</sup> Diese Vorschrift gilt nicht für den Landrat und die Gemeindeparlamente.[^76-2]
 
-[^76-1]: Angenommen an der Landsgemeinde vom 7. Mai 2006, in Kraft seit 1. Jan. 2007. Gewährleistungsbeschluss vom 18. Juni 2007 ([BBl 2007 4933](https://fedlex.data.admin.ch/eli/fga/2007/694)Art. 1 Ziff. 3 [629](https://fedlex.data.admin.ch/eli/fga/2007/86)).
-[^76-2]: Angenommen an der Landsgemeinde vom 7. Mai 2017, in Kraft seit 1. Jan. 2018. Gewährleistungsbeschluss vom 17. Sept. 2020 ([BBl 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)Art. 1 Ziff. 1, [2020 5111](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
+[^76-1]: Angenommen an der Landsgemeinde vom 7. Mai 2006, in Kraft seit 1. Jan. 2007. Gewährleistungsbeschluss vom 18. Juni 2007 ([BBl 2007 4933](https://fedlex.data.admin.ch/eli/fga/2007/694)Art. 1 Ziff. 3, [629](https://fedlex.data.admin.ch/eli/fga/2007/86)).
+[^76-2]: Angenommen an der Landsgemeinde vom 7. Mai 2017, in Kraft seit 1. Jan. 2018. Gewährleistungsbeschluss vom 17. Sept. 2020 ([BBl 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)Art. 1 Ziff. 1; [2020 5111](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
 
 #### Art. 77
 
@@ -855,9 +858,9 @@ Die gesetzgebende, die vollziehende und die richterliche Gewalt sind dem Grundsa
 
 <sup>5</sup> Die Mitglieder des Regierungsrates, die beiden Ständeräte sowie die Gerichtspräsidenten und weiteren Richter, die das 65. Altersjahr vollendet haben, scheiden auf die darauffolgende Landsgemeinde bzw. auf Ende Juni aus ihrem Amte aus.[^78-3]
 
-[^78-1]: Angenommen an der Landsgemeinde vom 2. Mai 2004, in Kraft seit 5. Okt. 2005. Gewährleistungsbeschluss vom 6. Okt. 2005 ([BBl 2005 5995](https://fedlex.data.admin.ch/eli/fga/2005/963)Art. 1 Ziff. 1 [2891](https://fedlex.data.admin.ch/eli/fga/2005/452)).
-[^78-2]: Angenommen an der Landsgemeinde vom 2. Mai 2010, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 29. Sept. 2011 ([BBl 2011 7619](https://fedlex.data.admin.ch/eli/fga/2011/1266)Art. 1 Ziff. 4 [4467](https://fedlex.data.admin.ch/eli/fga/2011/693)).
-[^78-3]: Angenommen an der Landsgemeinde vom 2. Mai 2010, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 29. Sept. 2011 ([BBl 2011 7619](https://fedlex.data.admin.ch/eli/fga/2011/1266)Art. 1 Ziff. 4 [4467](https://fedlex.data.admin.ch/eli/fga/2011/693)).
+[^78-1]: Angenommen an der Landsgemeinde vom 2. Mai 2004, in Kraft seit 5. Okt. 2005. Gewährleistungsbeschluss vom 6. Okt. 2005 ([BBl 2005 5995](https://fedlex.data.admin.ch/eli/fga/2005/963)Art. 1 Ziff. 1, [2891](https://fedlex.data.admin.ch/eli/fga/2005/452)).
+[^78-2]: Angenommen an der Landsgemeinde vom 2. Mai 2010, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 29. Sept. 2011 ([BBl 2011 7619](https://fedlex.data.admin.ch/eli/fga/2011/1266)Art. 1 Ziff. 4, [4467](https://fedlex.data.admin.ch/eli/fga/2011/693)).
+[^78-3]: Angenommen an der Landsgemeinde vom 2. Mai 2010, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 29. Sept. 2011 ([BBl 2011 7619](https://fedlex.data.admin.ch/eli/fga/2011/1266)Art. 1 Ziff. 4, [4467](https://fedlex.data.admin.ch/eli/fga/2011/693)).
 
 #### Art. 79
 
@@ -897,7 +900,7 @@ Die Behörden informieren die Stimmberechtigten fristgerecht über Abstimmungsvo
 
 <sup>4</sup> Er erlässt Verordnungen, Verwaltungs- und Finanzbeschlüsse und entscheidet über grundlegende oder allgemeinverbindliche Planungen.
 
-[^82-1]: Angenommen an der Landsgemeinde vom 4. Mai 2008, in Kraft seit 1. Jan. 2010. Gewährleistungsbeschluss vom 11. März 2013 ([BBl 2013 2617](https://fedlex.data.admin.ch/eli/fga/2013/456)Art. 1 Ziff. 1, [2012 8513](https://fedlex.data.admin.ch/eli/fga/2012/1505)).
+[^82-1]: Angenommen an der Landsgemeinde vom 4. Mai 2008, in Kraft seit 1. Jan. 2010. Gewährleistungsbeschluss vom 11. März 2013 ([BBl 2013 2617](https://fedlex.data.admin.ch/eli/fga/2013/456)Art. 1 Ziff. 1; [2012 8513](https://fedlex.data.admin.ch/eli/fga/2012/1505)).
 
 #### Art. 83
 
@@ -905,7 +908,7 @@ Die Behörden informieren die Stimmberechtigten fristgerecht über Abstimmungsvo
 
 Der Landrat wählt alljährlich aus seiner Mitte den Präsidenten, den Vizepräsidenten und die weiteren Mitglieder des Landratsbüros.
 
-[^83-1]: Angenommen an der Landsgemeinde vom 1. Mai 2005, in Kraft seit 1. Mai 2005. Gewährleistungsbeschluss vom 12. Juni 2006 ([BBl 2006 6127](https://fedlex.data.admin.ch/eli/fga/2006/714)Art. 1 Ziff. 1 [2813](https://fedlex.data.admin.ch/eli/fga/2006/301)).
+[^83-1]: Angenommen an der Landsgemeinde vom 1. Mai 2005, in Kraft seit 1. Mai 2005. Gewährleistungsbeschluss vom 12. Juni 2006 ([BBl 2006 6127](https://fedlex.data.admin.ch/eli/fga/2006/714)Art. 1 Ziff. 1, [2813](https://fedlex.data.admin.ch/eli/fga/2006/301)).
 
 #### Art. 84
 
@@ -935,8 +938,8 @@ Der Landrat wählt alljährlich aus seiner Mitte den Präsidenten, den Vizepräs
 
 <sup>3</sup> Die Landräte verhandeln und stimmen ohne Instruktion.
 
-[^86-1]: Angenommen an der Landsgemeinde vom 1. Mai 2005, in Kraft seit 1. Mai 2005. Gewährleistungsbeschluss vom 12. Juni 2006 ([BBl 2006 6127](https://fedlex.data.admin.ch/eli/fga/2006/714)Art. 1 Ziff. 1 [2813](https://fedlex.data.admin.ch/eli/fga/2006/301)).
-[^86-2]: Angenommen an der Landsgemeinde vom 1. Mai 2005, in Kraft seit 1. Mai 2005. Gewährleistungsbeschluss vom 12. Juni 2006 ([BBl 2006 6127](https://fedlex.data.admin.ch/eli/fga/2006/714)Art. 1 Ziff. 1 [2813](https://fedlex.data.admin.ch/eli/fga/2006/301)).
+[^86-1]: Angenommen an der Landsgemeinde vom 1. Mai 2005, in Kraft seit 1. Mai 2005. Gewährleistungsbeschluss vom 12. Juni 2006 ([BBl 2006 6127](https://fedlex.data.admin.ch/eli/fga/2006/714)Art. 1 Ziff. 1, [2813](https://fedlex.data.admin.ch/eli/fga/2006/301)).
+[^86-2]: Angenommen an der Landsgemeinde vom 1. Mai 2005, in Kraft seit 1. Mai 2005. Gewährleistungsbeschluss vom 12. Juni 2006 ([BBl 2006 6127](https://fedlex.data.admin.ch/eli/fga/2006/714)Art. 1 Ziff. 1, [2813](https://fedlex.data.admin.ch/eli/fga/2006/301)).
 
 #### Art. 86a
 
@@ -948,10 +951,10 @@ Der Landrat wählt alljährlich aus seiner Mitte den Präsidenten, den Vizepräs
 
 <sup>3</sup> Setzt der Landrat zur Klärung von Vorkommnissen von grosser Tragweite eine Untersuchungskommission ein, so kann diese vom Regierungsrat, in Fragen der Gerichtsverwaltung von den Gerichten oder in Fragen der Zusammenarbeit von Kanton und Gemeinden von den Gemeindebehörden sämtliche notwendigen Informationen einholen. Die Mitglieder von Behörden sowie die Angestellten und Lehrpersonen des Kantons und der Gemeinden müssen auch über Wahrnehmungen, die dem Amtsgeheimnis unterliegen, Auskunft erteilen. Private Personen können nach Massgabe des Gesetzes über die Verwaltungsrechtspflege befragt werden.[^86a-4]
 
-[^86a-1]: Angenommen an der Landsgemeinde vom 1. Mai 1994, in Kraft seit 1. Juli 1994. Gewährleistungsbeschluss vom 12. Juni 1995 ([BBl 1995 III 567](https://fedlex.data.admin.ch/eli/fga/1995/3_567__)Art. 1 Ziff. 1 I 969).
-[^86a-2]: Angenommen an der Landsgemeinde vom 2. Mai 2004, in Kraft seit 5. Okt. 2005. Gewährleistungsbeschluss vom 6. Okt. 2005 ([BBl 2005 5995](https://fedlex.data.admin.ch/eli/fga/2005/963)Art. 1 Ziff. 1 [2891](https://fedlex.data.admin.ch/eli/fga/2005/452)).
-[^86a-3]: Angenommen an der Landsgemeinde vom 5. Mai 2002, in Kraft seit 1. Juli 2002. Gewährleistungsbeschluss vom 24. Sept. 2003 ([BBl 2003 6875](https://fedlex.data.admin.ch/eli/fga/2003/1134)Art. 1 Ziff. 3 [3388](https://fedlex.data.admin.ch/eli/fga/2003/488)).
-[^86a-4]: Angenommen an der Landsgemeinde vom 5. Mai 2002, in Kraft seit 1. Juli 2002. Gewährleistungsbeschluss vom 24. Sept. 2003 ([BBl 2003 6875](https://fedlex.data.admin.ch/eli/fga/2003/1134)Art. 1 Ziff. 3 [3388](https://fedlex.data.admin.ch/eli/fga/2003/488)).
+[^86a-1]: Angenommen an der Landsgemeinde vom 1. Mai 1994, in Kraft seit 1. Juli 1994. Gewährleistungsbeschluss vom 12. Juni 1995 ([BBl 1995 III 567](https://fedlex.data.admin.ch/eli/fga/1995/3_567__)Art. 1 Ziff. 1, I 969).
+[^86a-2]: Angenommen an der Landsgemeinde vom 2. Mai 2004, in Kraft seit 5. Okt. 2005. Gewährleistungsbeschluss vom 6. Okt. 2005 ([BBl 2005 5995](https://fedlex.data.admin.ch/eli/fga/2005/963)Art. 1 Ziff. 1, [2891](https://fedlex.data.admin.ch/eli/fga/2005/452)).
+[^86a-3]: Angenommen an der Landsgemeinde vom 5. Mai 2002, in Kraft seit 1. Juli 2002. Gewährleistungsbeschluss vom 24. Sept. 2003 ([BBl 2003 6875](https://fedlex.data.admin.ch/eli/fga/2003/1134)Art. 1 Ziff. 3, [3388](https://fedlex.data.admin.ch/eli/fga/2003/488)).
+[^86a-4]: Angenommen an der Landsgemeinde vom 5. Mai 2002, in Kraft seit 1. Juli 2002. Gewährleistungsbeschluss vom 24. Sept. 2003 ([BBl 2003 6875](https://fedlex.data.admin.ch/eli/fga/2003/1134)Art. 1 Ziff. 3, [3388](https://fedlex.data.admin.ch/eli/fga/2003/488)).
 
 #### Art. 87
 
@@ -967,8 +970,8 @@ Die Mitglieder des Regierungsrates nehmen an den Sitzungen des Landrates und nac
 
 <sup>2</sup> Er ist im Weitern zuständig für die Wahl der Staatsanwälte und der Jugendanwälte sowie der amtlichen Verteidiger. Sodann bezeichnet er den Ersten Staatsanwalt.[^88-2]
 
-[^88-1]: Angenommen an der Landsgemeinde vom 5. Mai 2002, in Kraft seit 1. Juli 2002. Gewährleistungsbeschluss vom 24. Sept. 2003 ([BBl 2003 6875](https://fedlex.data.admin.ch/eli/fga/2003/1134)Art. 1 Ziff. 3 [3388](https://fedlex.data.admin.ch/eli/fga/2003/488)).
-[^88-2]: Angenommen an der Landsgemeinde vom 2. Mai 2010, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 29. Sept. 2011 ([BBl 2011 7619](https://fedlex.data.admin.ch/eli/fga/2011/1266)Art. 1 Ziff. 4 [4467](https://fedlex.data.admin.ch/eli/fga/2011/693)).
+[^88-1]: Angenommen an der Landsgemeinde vom 5. Mai 2002, in Kraft seit 1. Juli 2002. Gewährleistungsbeschluss vom 24. Sept. 2003 ([BBl 2003 6875](https://fedlex.data.admin.ch/eli/fga/2003/1134)Art. 1 Ziff. 3, [3388](https://fedlex.data.admin.ch/eli/fga/2003/488)).
+[^88-2]: Angenommen an der Landsgemeinde vom 2. Mai 2010, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 29. Sept. 2011 ([BBl 2011 7619](https://fedlex.data.admin.ch/eli/fga/2011/1266)Art. 1 Ziff. 4, [4467](https://fedlex.data.admin.ch/eli/fga/2011/693)).
 
 #### Art. 89
 
@@ -983,7 +986,7 @@ Der Landrat ist zuständig für:
 - e. die Genehmigung oder die Kündigung interkantonaler Vereinbarungen und anderer Verträge, soweit nicht die Landsgemeinde oder der Regierungsrat zuständig ist;
 - f. eine Rechtsetzung in dringlichen Fällen anstelle der Landsgemeinde; solche Erlasse gelten bis zur nächsten ordentlichen Landsgemeinde.
 
-[^89-1]: Angenommen an der Landsgemeinde vom 5. Mai 2002, in Kraft seit 1. Juli 2002. Gewährleistungsbeschluss vom 24. Sept. 2003 ([BBl 2003 6875](https://fedlex.data.admin.ch/eli/fga/2003/1134)Art. 1 Ziff. 3 [3388](https://fedlex.data.admin.ch/eli/fga/2003/488)).
+[^89-1]: Angenommen an der Landsgemeinde vom 5. Mai 2002, in Kraft seit 1. Juli 2002. Gewährleistungsbeschluss vom 24. Sept. 2003 ([BBl 2003 6875](https://fedlex.data.admin.ch/eli/fga/2003/1134)Art. 1 Ziff. 3, [3388](https://fedlex.data.admin.ch/eli/fga/2003/488)).
 
 #### Art. 90
 
@@ -996,8 +999,8 @@ Dem Landrat stehen zu:
 - c. der freie Erwerb von Grundstücken als Anlage oder zur Vorsorge im Betrag von mehr als 600 000 Franken bis zu 5 000 000 Franken;
 - d. Beschlüsse über die Aufnahme und Erneuerung langfristiger Anleihen.
 
-[^90-1]: Angenommer an der Landsgemeinde vom 4. Mai 2014, in Kraft seit 1. Sept. 2014, Gewährleistungsbeschluss vom 3. März 2016 ([BBl 2016 2301](https://fedlex.data.admin.ch/eli/fga/2016/476)Art. 3, [2015 7615](https://fedlex.data.admin.ch/eli/fga/2015/1854)).
-[^90-2]: Angenommen an der Landsgemeinde vom 5. Mai 2002, in Kraft seit 1. Juli 2002. Gewährleistungsbeschluss vom 24. Sept. 2003 ([BBl 2003 6875](https://fedlex.data.admin.ch/eli/fga/2003/1134)Art. 1 Ziff. 3 [3388](https://fedlex.data.admin.ch/eli/fga/2003/488)).
+[^90-1]: Angenommer an der Landsgemeinde vom 4. Mai 2014, in Kraft seit 1. Sept. 2014, Gewährleistungsbeschluss vom 3. März 2016 ([BBl 2016 2301](https://fedlex.data.admin.ch/eli/fga/2016/476)Art. 3; [2015 7615](https://fedlex.data.admin.ch/eli/fga/2015/1854)).
+[^90-2]: Angenommen an der Landsgemeinde vom 5. Mai 2002, in Kraft seit 1. Juli 2002. Gewährleistungsbeschluss vom 24. Sept. 2003 ([BBl 2003 6875](https://fedlex.data.admin.ch/eli/fga/2003/1134)Art. 1 Ziff. 3, [3388](https://fedlex.data.admin.ch/eli/fga/2003/488)).
 
 #### Art. 91
 
@@ -1014,10 +1017,10 @@ Dem Landrat obliegen:
 - g. der Entscheid von Kompetenzstreitigkeiten zwischen dem Regierungsrat und den Gerichten;
 - h. das Recht der Begnadigung in den durch Gesetz vorgesehenen Fällen;
 - i. die Anordnung kantonaler Truppenaufgebote, wenn die öffentliche Ordnung im Kanton gestört ist oder Gefahr von aussen droht;
-- k.[^91-2] ….
+- k.[^91-2] …
 
-[^91-1]: Angenommen an der Landsgemeinde vom 5. Mai 2002, in Kraft seit 1. Juli 2002. Gewährleistungsbeschluss vom 24. Sept. 2003 ([BBl 2003 6875](https://fedlex.data.admin.ch/eli/fga/2003/1134)Art. 1 Ziff. 3 [3388](https://fedlex.data.admin.ch/eli/fga/2003/488)).
-[^91-2]: Aufgehoben an der Landsgemeinde vom 3. Mai 2009, mit Wirkung seit 1. Jan. 2010. Gewährleistungsbeschluss vom 8. Juni 2010 ([BBl 2010 4365](https://fedlex.data.admin.ch/eli/fga/2010/748)Art. 1 Ziff. 1 [2153](https://fedlex.data.admin.ch/eli/fga/2010/378)).
+[^91-1]: Angenommen an der Landsgemeinde vom 5. Mai 2002, in Kraft seit 1. Juli 2002. Gewährleistungsbeschluss vom 24. Sept. 2003 ([BBl 2003 6875](https://fedlex.data.admin.ch/eli/fga/2003/1134)Art. 1 Ziff. 3, [3388](https://fedlex.data.admin.ch/eli/fga/2003/488)).
+[^91-2]: Aufgehoben an der Landsgemeinde vom 3. Mai 2009, mit Wirkung seit 1. Jan. 2010. Gewährleistungsbeschluss vom 8. Juni 2010 ([BBl 2010 4365](https://fedlex.data.admin.ch/eli/fga/2010/748)Art. 1 Ziff. 1, [2153](https://fedlex.data.admin.ch/eli/fga/2010/378)).
 
 #### Art. 92
 
@@ -1029,7 +1032,7 @@ Der Landrat kann für den Kanton im Bund mitwirken, indem er insbesondere:
 - b. zusammen mit andern Kantonen ein Standesreferendum ergreift;
 - c.[^92-1] …
 
-[^92-1]: Aufgehoben an der Landsgemeinde vom 7. Mai 2017, mit Wirkung seit 1. Jan. 2018. Gewährleistungsbeschluss vom 17. Sept. 2020 ([BBl 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)Art. 1 Ziff. 1, [2020 5111](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
+[^92-1]: Aufgehoben an der Landsgemeinde vom 7. Mai 2017, mit Wirkung seit 1. Jan. 2018. Gewährleistungsbeschluss vom 17. Sept. 2020 ([BBl 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)Art. 1 Ziff. 1; [2020 5111](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
 
 #### Art. 93
 
@@ -1051,7 +1054,7 @@ Der Landrat kann seine Befugnisse an den Regierungsrat übertragen, sofern die E
 
 <sup>3</sup> Er führt die kantonale Verwaltung, wirkt bei der kantonalen und eidgenössischen Rechtsetzung mit, ist beim Vollzug der Gesetze und in der Verwaltungsrechtspflege tätig, beaufsichtigt nach Gesetz die Gemeinden und die anderen Träger öffentlicher Aufgaben und sorgt für die Verbindung der Behörden mit der Öffentlichkeit.
 
-[^94-1]: Angenommen an der Landsgemeinde vom 2. Mai 2004, in Kraft seit 5. Okt. 2005. Gewährleistungsbeschluss vom 6. Okt. 2005 ([BBl 2005 5995](https://fedlex.data.admin.ch/eli/fga/2005/963)Art. 1 Ziff. 1 [2891](https://fedlex.data.admin.ch/eli/fga/2005/452)).
+[^94-1]: Angenommen an der Landsgemeinde vom 2. Mai 2004, in Kraft seit 5. Okt. 2005. Gewährleistungsbeschluss vom 6. Okt. 2005 ([BBl 2005 5995](https://fedlex.data.admin.ch/eli/fga/2005/963)Art. 1 Ziff. 1, [2891](https://fedlex.data.admin.ch/eli/fga/2005/452)).
 
 #### Art. 95
 
@@ -1063,7 +1066,7 @@ Der Landrat kann seine Befugnisse an den Regierungsrat übertragen, sofern die E
 
 <sup>3</sup> Das Gesetz regelt die Organisation des Regierungsrates in den Grundzügen.
 
-[^95-1]: Angenommen an der Landsgemeinde vom 2. Mai 2004, in Kraft seit 5. Okt. 2005. Gewährleistungsbeschluss vom 6. Okt. 2005 ([BBl 2005 5995](https://fedlex.data.admin.ch/eli/fga/2005/963)Art. 1 Ziff. 1 [2891](https://fedlex.data.admin.ch/eli/fga/2005/452)).
+[^95-1]: Angenommen an der Landsgemeinde vom 2. Mai 2004, in Kraft seit 5. Okt. 2005. Gewährleistungsbeschluss vom 6. Okt. 2005 ([BBl 2005 5995](https://fedlex.data.admin.ch/eli/fga/2005/963)Art. 1 Ziff. 1, [2891](https://fedlex.data.admin.ch/eli/fga/2005/452)).
 
 #### Art. 96
 
@@ -1085,7 +1088,7 @@ Der Landrat kann seine Befugnisse an den Regierungsrat übertragen, sofern die E
 
 <sup>3</sup> Der abtretende Landammann ist für die folgenden zwei Jahre weder als Landammann noch als Landesstatthalter, der abtretende Landesstatthalter nur als Landammann wählbar.
 
-[^97-1]: Angenommen an der Landsgemeinde vom 2. Mai 2004, in Kraft seit 5. Okt. 2005. Gewährleistungsbeschluss vom 6. Okt. 2005 ([BBl 2005 5995](https://fedlex.data.admin.ch/eli/fga/2005/963)Art. 1 Ziff. 1 [2891](https://fedlex.data.admin.ch/eli/fga/2005/452)).
+[^97-1]: Angenommen an der Landsgemeinde vom 2. Mai 2004, in Kraft seit 5. Okt. 2005. Gewährleistungsbeschluss vom 6. Okt. 2005 ([BBl 2005 5995](https://fedlex.data.admin.ch/eli/fga/2005/963)Art. 1 Ziff. 1, [2891](https://fedlex.data.admin.ch/eli/fga/2005/452)).
 
 #### Art. 98
 
@@ -1093,7 +1096,7 @@ Der Landrat kann seine Befugnisse an den Regierungsrat übertragen, sofern die E
 
 Der Regierungsrat wählt die Mitglieder der Kommissionen und die mit öffentlichen Aufgaben betrauten Personen; ferner wählt er die kantonalen Angestellten und Lehrpersonen, soweit diese Befugnis nicht durch Gesetz oder landrätliche Verordnung dem Regierungsrat nachgeordneten Verwaltungseinheiten übertragen ist. Vorbehalten bleiben die Zuständigkeiten des Landrates und der Gerichtsbehörden.
 
-[^98-1]: Angenommen an der Landsgemeinde vom 5. Mai 2002, in Kraft seit 1. Juli 2002. Gewährleistungsbeschluss vom 24. Sept. 2003 ([BBl 2003 6875](https://fedlex.data.admin.ch/eli/fga/2003/1134)Art. 1 Ziff. 3 [3388](https://fedlex.data.admin.ch/eli/fga/2003/488)).
+[^98-1]: Angenommen an der Landsgemeinde vom 5. Mai 2002, in Kraft seit 1. Juli 2002. Gewährleistungsbeschluss vom 24. Sept. 2003 ([BBl 2003 6875](https://fedlex.data.admin.ch/eli/fga/2003/1134)Art. 1 Ziff. 3, [3388](https://fedlex.data.admin.ch/eli/fga/2003/488)).
 
 #### Art. 99
 
@@ -1106,7 +1109,7 @@ Der Regierungsrat ist zuständig für:
 - c. den Abschluss, die Änderung oder die Kündigung interkantonaler Vereinbarungen und anderer Verträge, soweit nicht der Landrat oder die Landsgemeinde zuständig ist;
 - d. Verordnungen und Verfügungen in Notlagen und andern fällen zeitlicher Dringlichkeiten, insbesondere zur raschen Einführung von Bundesrecht; diese Erlasse sind sobald als möglich dem Landrat oder der nächsten Landsgemeinde vorzulegen.
 
-[^99-1]: Angenommen an der Landsgemeinde vom 5. Mai 2002, in Kraft seit 1. Juli 2002. Gewährleistungsbeschluss vom 24. Sept. 2003 ([BBl 2003 6875](https://fedlex.data.admin.ch/eli/fga/2003/1134)Art. 1 Ziff. 3 [3388](https://fedlex.data.admin.ch/eli/fga/2003/488)).
+[^99-1]: Angenommen an der Landsgemeinde vom 5. Mai 2002, in Kraft seit 1. Juli 2002. Gewährleistungsbeschluss vom 24. Sept. 2003 ([BBl 2003 6875](https://fedlex.data.admin.ch/eli/fga/2003/1134)Art. 1 Ziff. 3, [3388](https://fedlex.data.admin.ch/eli/fga/2003/488)).
 
 #### Art. 100
 
@@ -1120,8 +1123,8 @@ Dem Regierungsrat stehen zu:
 - d. die Verwaltung des Kantons Vermögens, besonders die Anlage von Staatsgeldern sowie der ordentliche Unterhalt der kantonalen Gebäude und Einrichtungen;
 - e. die Aufnahme von Krediten.
 
-[^100-1]: Angenommen an der Landsgemeinde vom 4. Mai 2014, in Kraft seit 1. Sept. 2014. Gewährleistungsbeschluss vom 3. März 2016 ([BBl 2016 2301](https://fedlex.data.admin.ch/eli/fga/2016/476)Art. 3, [2015 7615](https://fedlex.data.admin.ch/eli/fga/2015/1854)).
-[^100-2]: Angenommen an der Landsgemeinde vom 5. Mai 2002, in Kraft seit 1. Juli 2002. Gewährleistungsbeschluss vom 24. Sept. 2003 ([BBl 2003 6875](https://fedlex.data.admin.ch/eli/fga/2003/1134)Art. 1 Ziff. 3 [3388](https://fedlex.data.admin.ch/eli/fga/2003/488)).
+[^100-1]: Angenommen an der Landsgemeinde vom 4. Mai 2014, in Kraft seit 1. Sept. 2014. Gewährleistungsbeschluss vom 3. März 2016 ([BBl 2016 2301](https://fedlex.data.admin.ch/eli/fga/2016/476)Art. 3; [2015 7615](https://fedlex.data.admin.ch/eli/fga/2015/1854)).
+[^100-2]: Angenommen an der Landsgemeinde vom 5. Mai 2002, in Kraft seit 1. Juli 2002. Gewährleistungsbeschluss vom 24. Sept. 2003 ([BBl 2003 6875](https://fedlex.data.admin.ch/eli/fga/2003/1134)Art. 1 Ziff. 3, [3388](https://fedlex.data.admin.ch/eli/fga/2003/488)).
 
 #### Art. 101
 
@@ -1138,9 +1141,9 @@ Dem Regierungsrat obliegt es:
 - g. im Namen des Kantons Beschwerden und Klagen zu erheben;
 - h. über Begnadigungsgesuche zu entscheiden, soweit nicht der Landrat zuständig ist.
 
-[^101-1]: Angenommen an der Landsgemeinde vom 2. Mai 2004, in Kraft seit 5. Okt. 2005. Gewährleistungsbeschluss vom 6. Okt. 2005 ([BBl 2005 5995](https://fedlex.data.admin.ch/eli/fga/2005/963)Art. 1 Ziff. 1 [2891](https://fedlex.data.admin.ch/eli/fga/2005/452)).
-[^101-2]: Angenommen an der Landsgemeinde vom 2. Mai 2004, in Kraft seit 5. Okt. 2005. Gewährleistungsbeschluss vom 6. Okt. 2005 ([BBl 2005 5995](https://fedlex.data.admin.ch/eli/fga/2005/963)Art. 1 Ziff. 1 [2891](https://fedlex.data.admin.ch/eli/fga/2005/452)).
-[^101-3]: Angenommen an der Landsgemeinde vom 2. Mai 2004, in Kraft seit 5. Okt. 2005. Gewährleistungsbeschluss vom 6. Okt. 2005 ([BBl 2005 5995](https://fedlex.data.admin.ch/eli/fga/2005/963)Art. 1 Ziff. 1 [2891](https://fedlex.data.admin.ch/eli/fga/2005/452)).
+[^101-1]: Angenommen an der Landsgemeinde vom 2. Mai 2004, in Kraft seit 5. Okt. 2005. Gewährleistungsbeschluss vom 6. Okt. 2005 ([BBl 2005 5995](https://fedlex.data.admin.ch/eli/fga/2005/963)Art. 1 Ziff. 1, [2891](https://fedlex.data.admin.ch/eli/fga/2005/452)).
+[^101-2]: Angenommen an der Landsgemeinde vom 2. Mai 2004, in Kraft seit 5. Okt. 2005. Gewährleistungsbeschluss vom 6. Okt. 2005 ([BBl 2005 5995](https://fedlex.data.admin.ch/eli/fga/2005/963)Art. 1 Ziff. 1, [2891](https://fedlex.data.admin.ch/eli/fga/2005/452)).
+[^101-3]: Angenommen an der Landsgemeinde vom 2. Mai 2004, in Kraft seit 5. Okt. 2005. Gewährleistungsbeschluss vom 6. Okt. 2005 ([BBl 2005 5995](https://fedlex.data.admin.ch/eli/fga/2005/963)Art. 1 Ziff. 1, [2891](https://fedlex.data.admin.ch/eli/fga/2005/452)).
 
 ### Zweiter Unterabschnitt: Kantonale Verwaltung
 
@@ -1164,7 +1167,7 @@ Dem Regierungsrat obliegt es:
 
 <sup>4</sup> Durch Gesetz können Verwaltungsaufgaben auf Organisationen und Personen des öffentlichen oder privaten Rechts übertragen werden. Dabei müssen der Rechtsschutz und die Aufsicht des Kantons sichergestellt sein.
 
-[^103-1]: Angenommen an der Landsgemeinde vom 2. Mai 2004, in Kraft seit 5. Okt. 2005. Gewährleistungsbeschluss vom 6. Okt. 2005 ([BBl 2005 5995](https://fedlex.data.admin.ch/eli/fga/2005/963)Art. 1 Ziff. 1 [2891](https://fedlex.data.admin.ch/eli/fga/2005/452)).
+[^103-1]: Angenommen an der Landsgemeinde vom 2. Mai 2004, in Kraft seit 5. Okt. 2005. Gewährleistungsbeschluss vom 6. Okt. 2005 ([BBl 2005 5995](https://fedlex.data.admin.ch/eli/fga/2005/963)Art. 1 Ziff. 1, [2891](https://fedlex.data.admin.ch/eli/fga/2005/452)).
 
 #### Art. 104
 
@@ -1174,7 +1177,7 @@ Dem Regierungsrat obliegt es:
 
 <sup>2</sup> Entscheidungs- oder Aufsichtsbefugnisse können einer Kommission nur durch Gesetz oder landrätliche Verordnung übertragen werden.
 
-[^104-1]: Angenommen an der Landsgemeinde vom 2. Mai 2004, in Kraft seit 5. Okt. 2005. Gewährleistungsbeschluss vom 6. Okt. 2005 ([BBl 2005 5995](https://fedlex.data.admin.ch/eli/fga/2005/963)Art. 1 Ziff. 1 [2891](https://fedlex.data.admin.ch/eli/fga/2005/452)).
+[^104-1]: Angenommen an der Landsgemeinde vom 2. Mai 2004, in Kraft seit 5. Okt. 2005. Gewährleistungsbeschluss vom 6. Okt. 2005 ([BBl 2005 5995](https://fedlex.data.admin.ch/eli/fga/2005/963)Art. 1 Ziff. 1, [2891](https://fedlex.data.admin.ch/eli/fga/2005/452)).
 
 #### Art. 105
 
@@ -1184,58 +1187,63 @@ Dem Regierungsrat obliegt es:
 
 <sup>2</sup> Es bestimmt insbesondere die Wahlvoraussetzungen und Unvereinbarkeiten für die kantonalen Angestellten sowie für die Lehrpersonen.
 
-[^105-1]: Angenommen an der Landsgemeinde vom 5. Mai 2002, in Kraft seit 1. Juli 2002. Gewährleistungsbeschluss vom 24. Sept. 2003 ([BBl 2003 6875](https://fedlex.data.admin.ch/eli/fga/2003/1134)Art. 1 Ziff. 3 [3388](https://fedlex.data.admin.ch/eli/fga/2003/488)).
+[^105-1]: Angenommen an der Landsgemeinde vom 5. Mai 2002, in Kraft seit 1. Juli 2002. Gewährleistungsbeschluss vom 24. Sept. 2003 ([BBl 2003 6875](https://fedlex.data.admin.ch/eli/fga/2003/1134)Art. 1 Ziff. 3, [3388](https://fedlex.data.admin.ch/eli/fga/2003/488)).
 
 ### Dritter Abschnitt: Rechtspflege
 
 [^chap5-sec3-1]
 
-[^chap5-sec3-1]: Angenommen an der Landsgemeinde vom 2. Mai 2010, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 29. Sept. 2011 ([BBl 2011 7619](https://fedlex.data.admin.ch/eli/fga/2011/1266)Art. 1 Ziff. 4 [4467](https://fedlex.data.admin.ch/eli/fga/2011/693)).
+[^chap5-sec3-1]: Angenommen an der Landsgemeinde vom 2. Mai 2010, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 29. Sept. 2011 ([BBl 2011 7619](https://fedlex.data.admin.ch/eli/fga/2011/1266)Art. 1 Ziff. 4, [4467](https://fedlex.data.admin.ch/eli/fga/2011/693)).
 
 ### Erster Unterabschnitt: Gerichte
 
 [^chap5-sec3-subsec1-1]
 
-[^chap5-sec3-subsec1-1]: Angenommen an der Landsgemeinde vom 2. Mai 2010, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 29. Sept. 2011 ([BBl 2011 7619](https://fedlex.data.admin.ch/eli/fga/2011/1266)Art. 1 Ziff. 4 [4467](https://fedlex.data.admin.ch/eli/fga/2011/693)).
+[^chap5-sec3-subsec1-1]: Angenommen an der Landsgemeinde vom 2. Mai 2010, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 29. Sept. 2011 ([BBl 2011 7619](https://fedlex.data.admin.ch/eli/fga/2011/1266)Art. 1 Ziff. 4, [4467](https://fedlex.data.admin.ch/eli/fga/2011/693)).
 
 #### Art. 106
 
-**Richterliche Unabhängigkeit**
+[^106-1]
 
-<sup>1</sup> Die Gerichte sind unabhängig und nur an Recht und Gesetz gebunden.
-
-<sup>2</sup> Sie dürfen Erlasse nicht anwenden, die Bundesrecht oder kantonalen Verfassungs- und Gesetzesrecht widersprechen.
+[^106-1]: Aufgehoben an der Landsgemeinde vom 5. Sept 2021, mit Wirkung seit 1. Juli 2022. Gewährleistungsbeschluss vom 22. Sept. 2022 ([BBl 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)Art. 2, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
 
 #### Art. 107
 
 [^107-1]
 
-[^107-1]: Aufgehoben an der Landsgemeinde vom 2. Mai 2010, mit Wirkung seit 1. Jan. 2011. Gewährleistungsbeschluss vom 29. Sept. 2011 ([BBl 2011 7619](https://fedlex.data.admin.ch/eli/fga/2011/1266)Art. 1 Ziff. 4 [4467](https://fedlex.data.admin.ch/eli/fga/2011/693)).
+[^107-1]: Aufgehoben an der Landsgemeinde vom 2. Mai 2010, mit Wirkung seit 1. Jan. 2011. Gewährleistungsbeschluss vom 29. Sept. 2011 ([BBl 2011 7619](https://fedlex.data.admin.ch/eli/fga/2011/1266)Art. 1 Ziff. 4, [4467](https://fedlex.data.admin.ch/eli/fga/2011/693)).
+
+#### Art. 107a
+
+**Richterliche Unabhängigkeit**[^107a-1]
+
+<sup>1</sup> Die Gerichte sind unabhängig und nur an Recht und Gesetz gebunden.
+
+<sup>2</sup> Sie verwalten sich selbst. Das Gesetz sieht hierzu ein gemeinsames Organ vor.
+
+<sup>3</sup> Die Gerichte dürfen Erlasse nicht anwenden, die Bundesrecht oder kantonalem Verfassungs- und Gesetzesrecht widersprechen.
+
+[^107a-1]: Angenommen an der Landsgemeinde vom 5. Sept 2021, in Kraft seit 1. Juli 2022. Gewährleistungsbeschluss vom 22. Sept. 2022 ([BBl 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)Art. 2, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
 
 #### Art. 108
 
 **Kantonsgericht**
 
-<sup>1</sup>
+<sup>1</sup> Das Kantonsgericht urteilt in Zivil-, Straf- und Jugendstrafsachen als erste kantonale Instanz.[^108-1]
 
-Das Kantonsgericht urteilt in Zivil-, Straf- und Jugendstrafsachen als erste Instanz durch:
+<sup>2</sup> Es besteht aus zwei Präsidien und einer durch Gesetz bestimmten Anzahl von Mitgliedern.[^108-2]
 
-- a. zwei Zivilkammern, bestehend aus je einem Präsidenten und vier Mitgliedern;
-- b. die Strafkammer, bestehend aus dem Präsidenten und vier Mitgliedern;
-- c. die Strafgerichtskommission, bestehend aus dem Präsidenten sowie zwei Mitgliedern der Strafkammer.[^108-1]
+<sup>3</sup> …[^108-3]
 
-<sup>2</sup> Das Kantonsgericht hat zwei vollamtliche Präsidenten, die als Vorsitzende der Kammern und der Strafgerichtskommission sowie als Einzelrichter amten.
-
-<sup>3</sup> Die Präsidenten und die Mitglieder des Kantonsgerichts amten in den vom Gesetz vorgesehenen Fällen als Einzelrichter.[^108-2]
-
-[^108-1]: Angenommen an der Landsgemeinde vom 2. Mai 2010, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 29. Sept. 2011 ([BBl 2011 7619](https://fedlex.data.admin.ch/eli/fga/2011/1266)Art. 1 Ziff. 4 [4467](https://fedlex.data.admin.ch/eli/fga/2011/693)).
-[^108-2]: Angenommen an der Landsgemeinde vom 2. Mai 2010, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 29. Sept. 2011 ([BBl 2011 7619](https://fedlex.data.admin.ch/eli/fga/2011/1266)Art. 1 Ziff. 4 [4467](https://fedlex.data.admin.ch/eli/fga/2011/693)).
+[^108-1]: Angenommen an der Landsgemeinde vom 5. Sept 2021, in Kraft seit 1. Juli 2022. Gewährleistungsbeschluss vom 22. Sept. 2022 ([BBl 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)Art. 2, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
+[^108-2]: Angenommen an der Landsgemeinde vom 5. Sept 2021, in Kraft seit 1. Juli 2022. Gewährleistungsbeschluss vom 22. Sept. 2022 ([BBl 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)Art. 2, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
+[^108-3]: Aufgehoben an der Landsgemeinde vom 5. Sept 2021, mit Wirkung seit 1. Juli 2022. Gewährleistungsbeschluss vom 22. Sept. 2022 ([BBl 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)Art. 2, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
 
 #### Art. 109
 
 [^109-1]
 
-[^109-1]: Aufgehoben an der Landsgemeinde vom 2. Mai 2010, mit Wirkung seit 1. Jan. 2011. Gewährleistungsbeschluss vom 29. Sept. 2011 ([BBl 2011 7619](https://fedlex.data.admin.ch/eli/fga/2011/1266)Art. 1 Ziff. 4 [4467](https://fedlex.data.admin.ch/eli/fga/2011/693)).
+[^109-1]: Aufgehoben an der Landsgemeinde vom 2. Mai 2010, mit Wirkung seit 1. Jan. 2011. Gewährleistungsbeschluss vom 29. Sept. 2011 ([BBl 2011 7619](https://fedlex.data.admin.ch/eli/fga/2011/1266)Art. 1 Ziff. 4, [4467](https://fedlex.data.admin.ch/eli/fga/2011/693)).
 
 #### Art. 110
 
@@ -1243,55 +1251,66 @@ Das Kantonsgericht urteilt in Zivil-, Straf- und Jugendstrafsachen als erste Ins
 
 <sup>1</sup> Das Obergericht urteilt in Zivil-, Straf- und Jugendstrafsachen als letzte oder einzige kantonale Instanz.
 
-<sup>2</sup> Das Obergericht besteht aus dem Präsidenten und sieben Mitgliedern; das Gesetz regelt die Zusammensetzung der Spruchkörper.
+<sup>2</sup> Es besteht aus dem Präsidium und einer durch Gesetz bestimmten Anzahl von Mitgliedern.[^110-2]
 
-<sup>3</sup> Der Obergerichtspräsident entscheidet in den vom Gesetz vorgesehenen Fällen als Einzelrichter.
+<sup>3</sup> …[^110-3]
 
-[^110-1]: Angenommen an der Landsgemeinde vom 2. Mai 2010, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 29. Sept. 2011 ([BBl 2011 7619](https://fedlex.data.admin.ch/eli/fga/2011/1266)Art. 1 Ziff. 4 [4467](https://fedlex.data.admin.ch/eli/fga/2011/693)).
+<sup>3a</sup> Das Obergericht übt die Aufsicht über die Geschäftsführung des Kantonsgerichts aus.[^110-4]
+
+[^110-1]: Angenommen an der Landsgemeinde vom 2. Mai 2010, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 29. Sept. 2011 ([BBl 2011 7619](https://fedlex.data.admin.ch/eli/fga/2011/1266)Art. 1 Ziff. 4, [4467](https://fedlex.data.admin.ch/eli/fga/2011/693)).
+[^110-2]: Angenommen an der Landsgemeinde vom 5. Sept 2021, in Kraft seit 1. Juli 2022. Gewährleistungsbeschluss vom 22. Sept. 2022 ([BBl 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)Art. 2, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
+[^110-3]: Aufgehoben an der Landsgemeinde vom 5. Sept 2021, mit Wirkung seit 1. Juli 2022. Gewährleistungsbeschluss vom 22. Sept. 2022 ([BBl 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)Art. 2, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
+[^110-4]: Angenommen an der Landsgemeinde vom 5. Sept 2021, in Kraft seit 1. Juli 2022. Gewährleistungsbeschluss vom 22. Sept. 2022 ([BBl 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)Art. 2, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
 
 #### Art. 111
 
 **Verwaltungsgericht**[^111-1]
 
-<sup>1</sup> Das Verwaltungsgericht beurteilt verwaltungs- und andere öffentlich-rechtliche Streitigkeiten als erste oder als Beschwerdeinstanz. Es besteht aus dem Präsidenten sowie acht Richtern und bildet aus diesen zwei Kammern.
+<sup>1</sup> Das Verwaltungsgericht urteilt in verwaltungs- und anderen öffentlich-rechtlichen Streitigkeiten als erste oder als Beschwerdeinstanz.[^111-2]
 
-<sup>2</sup> Für besondere Verwaltungsstreitigkeiten können durch Gesetz verwaltungsunabhängige Rekurskommissionen eingesetzt werden.
+<sup>1a</sup> Es besteht aus dem Präsidium und einer durch Gesetz bestimmten Anzahl von Mitgliedern.[^111-3]
 
-[^111-1]: Angenommen an der Landsgemeinde vom 2. Mai 2010, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 29. Sept. 2011 ([BBl 2011 7619](https://fedlex.data.admin.ch/eli/fga/2011/1266)Art. 1 Ziff. 4 [4467](https://fedlex.data.admin.ch/eli/fga/2011/693)).
+<sup>2</sup> …[^111-4]
+
+<sup>2a</sup> Das Verwaltungsgericht übt die Aufsicht über die Geschäftsführung der verwaltungsunabhängigen Kommissionen aus.[^111-5]
+
+[^111-1]: Angenommen an der Landsgemeinde vom 2. Mai 2010, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 29. Sept. 2011 ([BBl 2011 7619](https://fedlex.data.admin.ch/eli/fga/2011/1266)Art. 1 Ziff. 4, [4467](https://fedlex.data.admin.ch/eli/fga/2011/693)).
+[^111-2]: Angenommen an der Landsgemeinde vom 5. Sept 2021, in Kraft seit 1. Juli 2022. Gewährleistungsbeschluss vom 22. Sept. 2022 ([BBl 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)Art. 2, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
+[^111-3]: Angenommen an der Landsgemeinde vom 5. Sept 2021, in Kraft seit 1. Juli 2022. Gewährleistungsbeschluss vom 22. Sept. 2022 ([BBl 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)Art. 2, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
+[^111-4]: Aufgehoben an der Landsgemeinde vom 5. Sept 2021, mit Wirkung seit 1. Juli 2022. Gewährleistungsbeschluss vom 22. Sept. 2022 ([BBl 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)Art. 2, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
+[^111-5]: Angenommen an der Landsgemeinde vom 5. Sept 2021, in Kraft seit 1. Juli 2022. Gewährleistungsbeschluss vom 22. Sept. 2022 ([BBl 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)Art. 2, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
 
 #### Art. 112
 
-**Organisation und Verwaltung**[^112-1]
+**Organisation[^112-2]**[^112-1]
 
 <sup>1</sup> Das Gesetz regelt die Organisation und die Zuständigkeiten der Gerichte sowie das Verfahren vor Gericht.
 
-<sup>2</sup> Es ordnet die Geschäftsverteilung, die Stellvertretung der Präsidenten und die Gerichtsergänzung in Ausstands- und Verhinderungsfällen.
+<sup>2–4</sup> …[^112-3]
 
-<sup>3</sup> Das Obergericht hat die Aufsicht über die Geschäftsführung des Kantonsgerichtes, das Verwaltungsgericht über die der Rekurskommissionen.
+[^112-1]: Angenommen an der Landsgemeinde vom 2. Mai 2010, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 29. Sept. 2011 ([BBl 2011 7619](https://fedlex.data.admin.ch/eli/fga/2011/1266)Art. 1 Ziff. 4, [4467](https://fedlex.data.admin.ch/eli/fga/2011/693)).
+[^112-2]: Angenommen an der Landsgemeinde vom 5. Sept 2021, in Kraft seit 1. Juli 2022. Gewährleistungsbeschluss vom 22. Sept. 2022 ([BBl 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)Art. 2, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
+[^112-3]: Aufgehoben an der Landsgemeinde vom 5. Sept 2021, mit Wirkung seit 1. Juli 2022. Gewährleistungsbeschluss vom 22. Sept. 2022 ([BBl 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)Art. 2, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
 
-<sup>4</sup> Die Verwaltungskommission der Gerichte besteht aus den Präsidenten des Ober-, des Verwaltungs- und des Kantonsgerichtes. Sie wählt und beaufsichtigt nach Gesetz die Angestellten der Gerichte.
-
-[^112-1]: Angenommen an der Landsgemeinde vom 2. Mai 2010, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 29. Sept. 2011 ([BBl 2011 7619](https://fedlex.data.admin.ch/eli/fga/2011/1266)Art. 1 Ziff. 4 [4467](https://fedlex.data.admin.ch/eli/fga/2011/693)).
-
-### Zweiter Unterabschnitt: Strafverfolgung
+### Zweiter Unterabschnitt: Strafverfolgungsbehörden
 
 [^chap5-sec3-subsec2-1]
 
-[^chap5-sec3-subsec2-1]: Angenommen an der Landsgemeinde vom 2. Mai 2010, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 29. Sept. 2011 ([BBl 2011 7619](https://fedlex.data.admin.ch/eli/fga/2011/1266)Art. 1 Ziff. 4 [4467](https://fedlex.data.admin.ch/eli/fga/2011/693)).
+[^chap5-sec3-subsec2-1]: Angenommen an der Landsgemeinde vom 5. Sept 2021, in Kraft seit 1. Juli 2022. Gewährleistungsbeschluss vom 22. Sept. 2022 ([BBl 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)Art. 2, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
 
 #### Art. 113
 
-**Staats- und Jugendanwaltschaft**
-
-Der Staats- und Jugendanwaltschaft obliegt die Strafverfolgung gegen Erwachsene sowie Jugendliche.
+Aufgehoben
 
 #### Art. 114
 
-**Organisation und Aufsicht**
+**Organisation**
 
-<sup>1</sup> Das Gesetz regelt die Organisation und die Zuständigkeiten der Staats- und Jugendanwaltschaft sowie die Befugnis von Verwaltungsstellen und Gemeindebehörden, Bussen auszusprechen.
+<sup>1</sup> Das Gesetz regelt die Organisation und die Zuständigkeiten der Strafverfolgungsbehörden sowie die Aufsicht über diese.
 
-<sup>2</sup> Der Regierungsrat hat die Aufsicht über die Strafverfolgung, wobei konkrete Weisungen zu einzelnen Verfahren ausgeschlossen sind.
+<sup>2</sup> …
+
+<sup>2a</sup> Die Strafverfolgungsbehörden sind in der Rechtsanwendung unabhängig und alleine dem Recht verpflichtet.
 
 ## Sechstes Kapitel: Gemeinden, Zweckverbände und Korporationen
 
@@ -1317,7 +1336,7 @@ Der Staats- und Jugendanwaltschaft obliegt die Strafverfolgung gegen Erwachsene 
 
 <sup>4</sup> Das Gesetz regelt die Organisation der Zweckverbände sowie die Rechte der Stimmberechtigten und der Behörden der angeschlossenen Gemeinden.
 
-[^116-1]: Angenommen an der Landsgemeinde vom 2. Mai 2010, in Kraft seit 2. Mai 2010. Gewährleistungsbeschluss vom 29. Sept. 2011 ([BBl 2011 7619](https://fedlex.data.admin.ch/eli/fga/2011/1266)Art. 1 Ziff. 4 [4467](https://fedlex.data.admin.ch/eli/fga/2011/693)).
+[^116-1]: Angenommen an der Landsgemeinde vom 2. Mai 2010, in Kraft seit 2. Mai 2010. Gewährleistungsbeschluss vom 29. Sept. 2011 ([BBl 2011 7619](https://fedlex.data.admin.ch/eli/fga/2011/1266)Art. 1 Ziff. 4, [4467](https://fedlex.data.admin.ch/eli/fga/2011/693)).
 
 #### Art. 117
 
@@ -1329,7 +1348,7 @@ Der Staats- und Jugendanwaltschaft obliegt die Strafverfolgung gegen Erwachsene 
 
 <sup>3</sup> …[^117-1]
 
-[^117-1]: Aufgehoben an der Landsgemeinde vom 6. Mai 2007, mit Wirkung seit 1. Jan. 2008. Gewährleistungsbeschluss vom 12. Juni 2008 ([BBl 2008 5787](https://fedlex.data.admin.ch/eli/fga/2008/993)Art. 1 Ziff. 2 [1417](https://fedlex.data.admin.ch/eli/fga/2008/355)).
+[^117-1]: Aufgehoben an der Landsgemeinde vom 6. Mai 2007, mit Wirkung seit 1. Jan. 2008. Gewährleistungsbeschluss vom 12. Juni 2008 ([BBl 2008 5787](https://fedlex.data.admin.ch/eli/fga/2008/993)Art. 1 Ziff. 2, [1417](https://fedlex.data.admin.ch/eli/fga/2008/355)).
 
 #### Art. 118
 
@@ -1339,7 +1358,7 @@ Der Staats- und Jugendanwaltschaft obliegt die Strafverfolgung gegen Erwachsene 
 
 <sup>2</sup> Bei Kirchgemeinden sowie bei Grenzänderungen genügt die Genehmigung durch den Landrat.
 
-[^118-1]: Angenommen an der Landsgemeinde vom 4. Mai 2008, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 28. Mai 2009 ([BBl 2009 4801](https://fedlex.data.admin.ch/eli/fga/2009/826)Art. 1 Ziff. 1 [1191](https://fedlex.data.admin.ch/eli/fga/2009/262)).
+[^118-1]: Angenommen an der Landsgemeinde vom 4. Mai 2008, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 28. Mai 2009 ([BBl 2009 4801](https://fedlex.data.admin.ch/eli/fga/2009/826)Art. 1 Ziff. 1, [1191](https://fedlex.data.admin.ch/eli/fga/2009/262)).
 
 #### Art. 119
 
@@ -1349,8 +1368,8 @@ Der Staats- und Jugendanwaltschaft obliegt die Strafverfolgung gegen Erwachsene 
 
 <sup>2</sup> Sie bestimmen, soweit Verfassung und Gesetz nichts anderes vorsehen, ihre Organisation durch Erlass einer Gemeindeordnung selbst, wählen ihre Behörden, Angestellten und Lehrpersonen und erfüllen ihre Aufgaben nach eigenem Ermessen.[^119-2]
 
-[^119-1]: Angenommen an der Landsgemeinde vom 4. Mai 2014, in Kraft seit 1. Sept. 2014. Gewährleistungsbeschluss vom 3. März 2016 ([BBl 2016 2301](https://fedlex.data.admin.ch/eli/fga/2016/476)Art. 3, [2015 7615](https://fedlex.data.admin.ch/eli/fga/2015/1854)).
-[^119-2]: Angenommen an der Landsgemeinde vom 5. Mai 2002, in Kraft seit 1. Juli 2002. Gewährleistungsbeschluss vom 24. Sept. 2003 ([BBl 2003 6875](https://fedlex.data.admin.ch/eli/fga/2003/1134)Art. 1 Ziff. 3 [3388](https://fedlex.data.admin.ch/eli/fga/2003/488)).
+[^119-1]: Angenommen an der Landsgemeinde vom 4. Mai 2014, in Kraft seit 1. Sept. 2014. Gewährleistungsbeschluss vom 3. März 2016 ([BBl 2016 2301](https://fedlex.data.admin.ch/eli/fga/2016/476)Art. 3; [2015 7615](https://fedlex.data.admin.ch/eli/fga/2015/1854)).
+[^119-2]: Angenommen an der Landsgemeinde vom 5. Mai 2002, in Kraft seit 1. Juli 2002. Gewährleistungsbeschluss vom 24. Sept. 2003 ([BBl 2003 6875](https://fedlex.data.admin.ch/eli/fga/2003/1134)Art. 1 Ziff. 3, [3388](https://fedlex.data.admin.ch/eli/fga/2003/488)).
 
 #### Art. 120
 
@@ -1372,13 +1391,13 @@ Der Staats- und Jugendanwaltschaft obliegt die Strafverfolgung gegen Erwachsene 
 
 <sup>2</sup> In Wahl- und Abstimmungssachen ist jeder Stimmberechtigte unter Vorbehalt gesetzlicher Ausnahmen beschwerdeberechtigt.
 
-[^121-1]: Angenommen an der Landsgemeinde vom 2. Mai 2004, in Kraft seit 5. Okt. 2005. Gewährleistungsbeschluss vom 6. Okt. 2005 ([BBl 2005 5995](https://fedlex.data.admin.ch/eli/fga/2005/963)Art. 1 Ziff. 1 [2891](https://fedlex.data.admin.ch/eli/fga/2005/452)).
+[^121-1]: Angenommen an der Landsgemeinde vom 2. Mai 2004, in Kraft seit 5. Okt. 2005. Gewährleistungsbeschluss vom 6. Okt. 2005 ([BBl 2005 5995](https://fedlex.data.admin.ch/eli/fga/2005/963)Art. 1 Ziff. 1, [2891](https://fedlex.data.admin.ch/eli/fga/2005/452)).
 
 ### Zweiter Abschnitt: Arten von Gemeinden
 
 [^chap6-sec2-1]
 
-[^chap6-sec2-1]: Angenommen an der Landsgemeinde vom 7. Mai 2006, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 18. Juni 2007 ([BBl 2007 4933](https://fedlex.data.admin.ch/eli/fga/2007/694)Art. 1 Ziff. 3 [629](https://fedlex.data.admin.ch/eli/fga/2007/86)).
+[^chap6-sec2-1]: Angenommen an der Landsgemeinde vom 7. Mai 2006, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 18. Juni 2007 ([BBl 2007 4933](https://fedlex.data.admin.ch/eli/fga/2007/694)Art. 1 Ziff. 3, [629](https://fedlex.data.admin.ch/eli/fga/2007/86)).
 
 #### Art. 122
 
@@ -1390,26 +1409,26 @@ Der Staats- und Jugendanwaltschaft obliegt die Strafverfolgung gegen Erwachsene 
 
 <sup>3</sup> Die Gemeinde besorgt insbesondere auch alle Schulangelegenheiten, soweit das Gesetz nichts anderes bestimmt.
 
-[^122-1]: Angenommen an der Landsgemeinde vom 7. Mai 2006, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 18. Juni 2007 ([BBl 2007 4933](https://fedlex.data.admin.ch/eli/fga/2007/694)Art. 1 Ziff. 3 [629](https://fedlex.data.admin.ch/eli/fga/2007/86)).
-[^122-2]: Angenommen an der Landsgemeinde vom 4. Mai 2014, in Kraft seit 1. Sept. 2014. Gewährleistungsbeschluss vom 3. März 2016 ([BBl 2016 2301](https://fedlex.data.admin.ch/eli/fga/2016/476)Art. 3, [2015 7615](https://fedlex.data.admin.ch/eli/fga/2015/1854)).
+[^122-1]: Angenommen an der Landsgemeinde vom 7. Mai 2006, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 18. Juni 2007 ([BBl 2007 4933](https://fedlex.data.admin.ch/eli/fga/2007/694)Art. 1 Ziff. 3, [629](https://fedlex.data.admin.ch/eli/fga/2007/86)).
+[^122-2]: Angenommen an der Landsgemeinde vom 4. Mai 2014, in Kraft seit 1. Sept. 2014. Gewährleistungsbeschluss vom 3. März 2016 ([BBl 2016 2301](https://fedlex.data.admin.ch/eli/fga/2016/476)Art. 3; [2015 7615](https://fedlex.data.admin.ch/eli/fga/2015/1854)).
 
 #### Art. 123–125
 
 [^123125-1]
 
-[^123125-1]: Aufgehoben an der Landsgemeinde vom 7. Mai 2006, mit Wirkung seit 1. Jan. 2011. Gewährleistungsbeschluss vom 18. Juni 2007 ([BBl 2007 4933](https://fedlex.data.admin.ch/eli/fga/2007/694)Art. 1 Ziff. 3 [629](https://fedlex.data.admin.ch/eli/fga/2007/86)).
+[^123125-1]: Aufgehoben an der Landsgemeinde vom 7. Mai 2006, mit Wirkung seit 1. Jan. 2011. Gewährleistungsbeschluss vom 18. Juni 2007 ([BBl 2007 4933](https://fedlex.data.admin.ch/eli/fga/2007/694)Art. 1 Ziff. 3, [629](https://fedlex.data.admin.ch/eli/fga/2007/86)).
 
 #### Art. 126
 
 [^126-1]
 
-[^126-1]: Angenommen an der Landsgemeinde vom 4. Mai 2003. Gewährleistungsbeschluss vom 10. März 2004 ([BBl 2004 1393](https://fedlex.data.admin.ch/eli/fga/2004/263)Art. 1 Ziff. 2, [2003 8087](https://fedlex.data.admin.ch/eli/fga/2003/1380)). Aufgehoben an der Landsgemeinde vom 7. Mai 2006, mit Wirkung seit 1. Jan. 2008. Gewährleistungsbeschluss vom 18. Juni 2007 ([BBl 2007 4933](https://fedlex.data.admin.ch/eli/fga/2007/694)Art. 1 Ziff. 3 [629](https://fedlex.data.admin.ch/eli/fga/2007/86)).
+[^126-1]: Angenommen an der Landsgemeinde vom 4. Mai 2003. Gewährleistungsbeschluss vom 10. März 2004 ([BBl 2004 1393](https://fedlex.data.admin.ch/eli/fga/2004/263)Art. 1 Ziff. 2; [2003 8087](https://fedlex.data.admin.ch/eli/fga/2003/1380)). Aufgehoben an der Landsgemeinde vom 7. Mai 2006, mit Wirkung seit 1. Jan. 2008. Gewährleistungsbeschluss vom 18. Juni 2007 ([BBl 2007 4933](https://fedlex.data.admin.ch/eli/fga/2007/694)Art. 1 Ziff. 3, [629](https://fedlex.data.admin.ch/eli/fga/2007/86)).
 
 #### Art. 126a
 
 [^126a-1]
 
-[^126a-1]: Angenommen an der Landsgemeinde vom 4. Mai 2003. Gewährleistungsbeschluss vom 10. März 2004 ([BBl 2004 1393](https://fedlex.data.admin.ch/eli/fga/2004/263)Art. 1 Ziff. 2, [2003 8087](https://fedlex.data.admin.ch/eli/fga/2003/1380)). Aufgehoben an der Landsgemeinde vom 7. Mai 2006, mit Wirkung seit 1. Jan. 2011. Gewährleistungsbeschluss vom 18. Juni 2007 ([BBl 2007 4933](https://fedlex.data.admin.ch/eli/fga/2007/694)Art. 1 Ziff. 3 [629](https://fedlex.data.admin.ch/eli/fga/2007/86)).
+[^126a-1]: Angenommen an der Landsgemeinde vom 4. Mai 2003. Gewährleistungsbeschluss vom 10. März 2004 ([BBl 2004 1393](https://fedlex.data.admin.ch/eli/fga/2004/263)Art. 1 Ziff. 2; [2003 8087](https://fedlex.data.admin.ch/eli/fga/2003/1380)). Aufgehoben an der Landsgemeinde vom 7. Mai 2006, mit Wirkung seit 1. Jan. 2011. Gewährleistungsbeschluss vom 18. Juni 2007 ([BBl 2007 4933](https://fedlex.data.admin.ch/eli/fga/2007/694)Art. 1 Ziff. 3, [629](https://fedlex.data.admin.ch/eli/fga/2007/86)).
 
 #### Art. 127
 
@@ -1423,7 +1442,7 @@ Der Staats- und Jugendanwaltschaft obliegt die Strafverfolgung gegen Erwachsene 
 
 <sup>4</sup> Für die kommunalen Organisationen anderer Religionsgemeinschaften, die als öffentlich-rechtliche Körperschaften anerkannt sind, gelten die Vorschriften über die Kirchgemeinden sinngemäss.[^127-1]
 
-[^127-1]: Angenommen an der Landsgemeinde vom 4. Mai 2014, in Kraft seit 1. Sept. 2014. Gewährleistungsbeschluss vom 3. März 2016 ([BBl 2016 2301](https://fedlex.data.admin.ch/eli/fga/2016/476)Art. 3, [2015 7615](https://fedlex.data.admin.ch/eli/fga/2015/1854)).
+[^127-1]: Angenommen an der Landsgemeinde vom 4. Mai 2014, in Kraft seit 1. Sept. 2014. Gewährleistungsbeschluss vom 3. März 2016 ([BBl 2016 2301](https://fedlex.data.admin.ch/eli/fga/2016/476)Art. 3; [2015 7615](https://fedlex.data.admin.ch/eli/fga/2015/1854)).
 
 ### Dritter Abschnitt: Organisation der Gemeinden
 
@@ -1443,10 +1462,10 @@ Notwendige Gemeindeorgane sind:
 
 <sup>3</sup> Die Gemeinden können ein Gemeindeparlament einführen. Es umfasst mindestens 20 Mitglieder und konstituiert sich im Rahmen von Gesetz und Gemeindeordnung selbst.[^128-4]
 
-[^128-1]: Angenommen an der Landsgemeinde vom 4. Mai 2008, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 28. Mai 2009 ([BBl 2009 4801](https://fedlex.data.admin.ch/eli/fga/2009/826)Art. 1 Ziff. 1 [1191](https://fedlex.data.admin.ch/eli/fga/2009/262)).
-[^128-2]: Angenommen an der Landsgemeinde vom 4. Mai 2008, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 28. Mai 2009 ([BBl 2009 4801](https://fedlex.data.admin.ch/eli/fga/2009/826)Art. 1 Ziff. 1 [1191](https://fedlex.data.admin.ch/eli/fga/2009/262)).
-[^128-3]: Angenommen an der Landsgemeinde vom 6. Mai 2007, in Kraft seit 1. Jan. 2008. Gewährleistungsbeschluss vom 18. Juni 2007 ([BBl 2007 4933](https://fedlex.data.admin.ch/eli/fga/2007/694)Art. 1 Ziff. 3 [629](https://fedlex.data.admin.ch/eli/fga/2007/86)).
-[^128-4]: Angenommen an der Landsgemeinde vom 4. Mai 2008, in Kraft seit 4. Mai 2008. Gewährleistungsbeschluss vom 28. Mai 2009 ([BBl 2009 4801](https://fedlex.data.admin.ch/eli/fga/2009/826)Art. 1 Ziff. 1 [1191](https://fedlex.data.admin.ch/eli/fga/2009/262)).
+[^128-1]: Angenommen an der Landsgemeinde vom 4. Mai 2008, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 28. Mai 2009 ([BBl 2009 4801](https://fedlex.data.admin.ch/eli/fga/2009/826)Art. 1 Ziff. 1, [1191](https://fedlex.data.admin.ch/eli/fga/2009/262)).
+[^128-2]: Angenommen an der Landsgemeinde vom 4. Mai 2008, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 28. Mai 2009 ([BBl 2009 4801](https://fedlex.data.admin.ch/eli/fga/2009/826)Art. 1 Ziff. 1, [1191](https://fedlex.data.admin.ch/eli/fga/2009/262)).
+[^128-3]: Angenommen an der Landsgemeinde vom 6. Mai 2007, in Kraft seit 1. Jan. 2008. Gewährleistungsbeschluss vom 18. Juni 2007 ([BBl 2007 4933](https://fedlex.data.admin.ch/eli/fga/2007/694)Art. 1 Ziff. 3, [629](https://fedlex.data.admin.ch/eli/fga/2007/86)).
+[^128-4]: Angenommen an der Landsgemeinde vom 4. Mai 2008, in Kraft seit 4. Mai 2008. Gewährleistungsbeschluss vom 28. Mai 2009 ([BBl 2009 4801](https://fedlex.data.admin.ch/eli/fga/2009/826)Art. 1 Ziff. 1, [1191](https://fedlex.data.admin.ch/eli/fga/2009/262)).
 
 #### Art. 129
 
@@ -1456,7 +1475,7 @@ Notwendige Gemeindeorgane sind:
 
 <sup>2</sup> Das Gesetz regelt die Zulässigkeit, die Form und das Verfahren der Behandlung der Anträge.
 
-[^129-1]: Angenommen an der Landsgemeinde vom 4. Mai 2008, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 28. Mai 2009 ([BBl 2009 4801](https://fedlex.data.admin.ch/eli/fga/2009/826)Art. 1 Ziff. 1 [1191](https://fedlex.data.admin.ch/eli/fga/2009/262)).
+[^129-1]: Angenommen an der Landsgemeinde vom 4. Mai 2008, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 28. Mai 2009 ([BBl 2009 4801](https://fedlex.data.admin.ch/eli/fga/2009/826)Art. 1 Ziff. 1, [1191](https://fedlex.data.admin.ch/eli/fga/2009/262)).
 
 #### Art. 130
 
@@ -1474,11 +1493,11 @@ Notwendige Gemeindeorgane sind:
 
 <sup>6</sup> Das Gesetz legt die Zuständigkeiten und die Wahlverfahren für die übrigen Wahlen fest.[^130-5]
 
-[^130-1]: Angenommen an der Landsgemeinde vom 4. Mai 2008, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 28. Mai 2009 ([BBl 2009 4801](https://fedlex.data.admin.ch/eli/fga/2009/826)Art. 1 Ziff. 1 [1191](https://fedlex.data.admin.ch/eli/fga/2009/262)).
-[^130-2]: Angenommen an der Landsgemeinde vom 4. Mai 2008, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 28. Mai 2009 ([BBl 2009 4801](https://fedlex.data.admin.ch/eli/fga/2009/826)Art. 1 Ziff. 1 [1191](https://fedlex.data.admin.ch/eli/fga/2009/262)).
-[^130-3]: Angenommen an der Landsgemeinde vom 4. Mai 2008, in Kraft seit 4. Mai 2008. Gewährleistungsbeschluss vom 28. Mai 2009 ([BBl 2009 4801](https://fedlex.data.admin.ch/eli/fga/2009/826)Art. 1 Ziff. 1 [1191](https://fedlex.data.admin.ch/eli/fga/2009/262)).
-[^130-4]: Angenommen an der Landsgemeinde vom 4. Mai 2008, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 28. Mai 2009 ([BBl 2009 4801](https://fedlex.data.admin.ch/eli/fga/2009/826)Art. 1 Ziff. 1 [1191](https://fedlex.data.admin.ch/eli/fga/2009/262)).
-[^130-5]: Angenommen an der Landsgemeinde vom 4. Mai 2008, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 28. Mai 2009 ([BBl 2009 4801](https://fedlex.data.admin.ch/eli/fga/2009/826)Art. 1 Ziff. 1 [1191](https://fedlex.data.admin.ch/eli/fga/2009/262)).
+[^130-1]: Angenommen an der Landsgemeinde vom 4. Mai 2008, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 28. Mai 2009 ([BBl 2009 4801](https://fedlex.data.admin.ch/eli/fga/2009/826)Art. 1 Ziff. 1, [1191](https://fedlex.data.admin.ch/eli/fga/2009/262)).
+[^130-2]: Angenommen an der Landsgemeinde vom 4. Mai 2008, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 28. Mai 2009 ([BBl 2009 4801](https://fedlex.data.admin.ch/eli/fga/2009/826)Art. 1 Ziff. 1, [1191](https://fedlex.data.admin.ch/eli/fga/2009/262)).
+[^130-3]: Angenommen an der Landsgemeinde vom 4. Mai 2008, in Kraft seit 4. Mai 2008. Gewährleistungsbeschluss vom 28. Mai 2009 ([BBl 2009 4801](https://fedlex.data.admin.ch/eli/fga/2009/826)Art. 1 Ziff. 1, [1191](https://fedlex.data.admin.ch/eli/fga/2009/262)).
+[^130-4]: Angenommen an der Landsgemeinde vom 4. Mai 2008, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 28. Mai 2009 ([BBl 2009 4801](https://fedlex.data.admin.ch/eli/fga/2009/826)Art. 1 Ziff. 1, [1191](https://fedlex.data.admin.ch/eli/fga/2009/262)).
+[^130-5]: Angenommen an der Landsgemeinde vom 4. Mai 2008, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 28. Mai 2009 ([BBl 2009 4801](https://fedlex.data.admin.ch/eli/fga/2009/826)Art. 1 Ziff. 1, [1191](https://fedlex.data.admin.ch/eli/fga/2009/262)).
 
 #### Art. 131
 
@@ -1510,12 +1529,12 @@ In den Gemeinden mit Gemeindeparlament sind die Stimmberechtigten obligatorisch 
 - c. den Erlass der Gemeindeordnung;
 - d. Beschlüsse nach Absatz 1 Buchstabe h im Rahmen der Gemeindeordnung sowie die Beschlüsse nach Absatz 1 Buchstaben i, k und l.[^131-6]
 
-[^131-1]: Angenommen an der Landsgemeinde vom 4. Mai 2008, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 28. Mai 2009 ([BBl 2009 4801](https://fedlex.data.admin.ch/eli/fga/2009/826)Art. 1 Ziff. 1 [1191](https://fedlex.data.admin.ch/eli/fga/2009/262)).
-[^131-2]: Angenommen an der Landsgemeinde vom 4. Mai 2008, in Kraft seit 1. Jan. 2010. Gewährleistungsbeschluss vom 28. Mai 2009 ([BBl 2009 4801](https://fedlex.data.admin.ch/eli/fga/2009/826)Art. 1 Ziff. 1 [1191](https://fedlex.data.admin.ch/eli/fga/2009/262)).
-[^131-3]: Angenommen an der Landsgemeinde vom 5. Mai 2002, in Kraft seit 1. Juli 2002. Gewährleistungsbeschluss vom 24. Sept. 2003 ([BBl 2003 6875](https://fedlex.data.admin.ch/eli/fga/2003/1134)Art. 1 Ziff. 3 [3388](https://fedlex.data.admin.ch/eli/fga/2003/488)).
-[^131-4]: Angenommen an der Landsgemeinde vom 4. Mai 2014, in Kraft seit 1. Sept. 2014. Gewährleistungsbeschluss vom 3. März 2016 ([BBl 2016 2301](https://fedlex.data.admin.ch/eli/fga/2016/476)Art. 3, [2015 7615](https://fedlex.data.admin.ch/eli/fga/2015/1854)).
-[^131-5]: Angenommen an der Landsgemeinde vom 4. Mai 2008, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 28. Mai 2009 ([BBl 2009 4801](https://fedlex.data.admin.ch/eli/fga/2009/826)Art. 1 Ziff. 1 [1191](https://fedlex.data.admin.ch/eli/fga/2009/262)).
-[^131-6]: Angenommen an der Landsgemeinde vom 4. Mai 2008, in Kraft seit 4. Mai 2008. Gewährleistungsbeschluss vom 28. Mai 2009 ([BBl 2009 4801](https://fedlex.data.admin.ch/eli/fga/2009/826)Art. 1 Ziff. 1 [1191](https://fedlex.data.admin.ch/eli/fga/2009/262)).
+[^131-1]: Angenommen an der Landsgemeinde vom 4. Mai 2008, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 28. Mai 2009 ([BBl 2009 4801](https://fedlex.data.admin.ch/eli/fga/2009/826)Art. 1 Ziff. 1, [1191](https://fedlex.data.admin.ch/eli/fga/2009/262)).
+[^131-2]: Angenommen an der Landsgemeinde vom 4. Mai 2008, in Kraft seit 1. Jan. 2010. Gewährleistungsbeschluss vom 28. Mai 2009 ([BBl 2009 4801](https://fedlex.data.admin.ch/eli/fga/2009/826)Art. 1 Ziff. 1, [1191](https://fedlex.data.admin.ch/eli/fga/2009/262)).
+[^131-3]: Angenommen an der Landsgemeinde vom 5. Mai 2002, in Kraft seit 1. Juli 2002. Gewährleistungsbeschluss vom 24. Sept. 2003 ([BBl 2003 6875](https://fedlex.data.admin.ch/eli/fga/2003/1134)Art. 1 Ziff. 3, [3388](https://fedlex.data.admin.ch/eli/fga/2003/488)).
+[^131-4]: Angenommen an der Landsgemeinde vom 4. Mai 2014, in Kraft seit 1. Sept. 2014. Gewährleistungsbeschluss vom 3. März 2016 ([BBl 2016 2301](https://fedlex.data.admin.ch/eli/fga/2016/476)Art. 3; [2015 7615](https://fedlex.data.admin.ch/eli/fga/2015/1854)).
+[^131-5]: Angenommen an der Landsgemeinde vom 4. Mai 2008, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 28. Mai 2009 ([BBl 2009 4801](https://fedlex.data.admin.ch/eli/fga/2009/826)Art. 1 Ziff. 1, [1191](https://fedlex.data.admin.ch/eli/fga/2009/262)).
+[^131-6]: Angenommen an der Landsgemeinde vom 4. Mai 2008, in Kraft seit 4. Mai 2008. Gewährleistungsbeschluss vom 28. Mai 2009 ([BBl 2009 4801](https://fedlex.data.admin.ch/eli/fga/2009/826)Art. 1 Ziff. 1, [1191](https://fedlex.data.admin.ch/eli/fga/2009/262)).
 
 #### Art. 132
 
@@ -1523,7 +1542,7 @@ In den Gemeinden mit Gemeindeparlament sind die Stimmberechtigten obligatorisch 
 
 Ein in die Zuständigkeit der Stimmberechtigten fallender Beschluss der Gemeinde kann in dringlichen Fällen ausnahmsweise stillschweigend gefasst werden, wenn der einstimmig gefasste Beschluss der Vorsteherschaft oder der mit absoluter Mehrheit gefasste Beschluss des Gemeindeparlaments öffentlich kundgemacht wird und wenn danach nicht die vom Gesetz bezeichnete Anzahl Stimmberechtigte innert Frist verlangt, dass der Beschluss als Antrag an die nächste Gemeindeversammlung oder die nächste Urnenabstimmung gelangt.
 
-[^132-1]: Angenommen an der Landsgemeinde vom 4. Mai 2008, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 28. Mai 2009 ([BBl 2009 4801](https://fedlex.data.admin.ch/eli/fga/2009/826)Art. 1 Ziff. 1 [1191](https://fedlex.data.admin.ch/eli/fga/2009/262)).
+[^132-1]: Angenommen an der Landsgemeinde vom 4. Mai 2008, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 28. Mai 2009 ([BBl 2009 4801](https://fedlex.data.admin.ch/eli/fga/2009/826)Art. 1 Ziff. 1, [1191](https://fedlex.data.admin.ch/eli/fga/2009/262)).
 
 #### Art. 133
 
@@ -1541,7 +1560,7 @@ Gemeinden mit Gemeindeversammlung können in der Gemeindeordnung vorsehen, dass 
 
 <sup>3</sup> Gemeinden mit Gemeindeparlament bezeichnen in der Gemeindeordnung die Erlasse und Beschlüsse des Gemeindeparlaments, die dem fakultativen Referendum unterliegen oder die vom Gemeindeparlament den Stimmberechtigten zur Abstimmung vorgelegt werden.
 
-[^133-1]: Angenommen an der Landsgemeinde vom 4. Mai 2008, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 28. Mai 2009 ([BBl 2009 4801](https://fedlex.data.admin.ch/eli/fga/2009/826)Art. 1 Ziff. 1 [1191](https://fedlex.data.admin.ch/eli/fga/2009/262)).
+[^133-1]: Angenommen an der Landsgemeinde vom 4. Mai 2008, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 28. Mai 2009 ([BBl 2009 4801](https://fedlex.data.admin.ch/eli/fga/2009/826)Art. 1 Ziff. 1, [1191](https://fedlex.data.admin.ch/eli/fga/2009/262)).
 
 ### Vierter Abschnitt: Korporationen
 
@@ -1553,7 +1572,7 @@ Gemeinden mit Gemeindeversammlung können in der Gemeindeordnung vorsehen, dass 
 
 <sup>3</sup> Sie stehen unter der Aufsicht des Regierungsrates.
 
-[^134-1]: Angenommen an der Landsgemeinde vom 2. Mai 2004, in Kraft seit 5. Okt. 2005. Gewährleistungsbeschluss vom 6. Okt. 2005 ([BBl 2005 5995](https://fedlex.data.admin.ch/eli/fga/2005/963)Art. 1 Ziff. 1 [2891](https://fedlex.data.admin.ch/eli/fga/2005/452)).
+[^134-1]: Angenommen an der Landsgemeinde vom 2. Mai 2004, in Kraft seit 5. Okt. 2005. Gewährleistungsbeschluss vom 6. Okt. 2005 ([BBl 2005 5995](https://fedlex.data.admin.ch/eli/fga/2005/963)Art. 1 Ziff. 1, [2891](https://fedlex.data.admin.ch/eli/fga/2005/452)).
 
 ## Siebentes Kapitel: Kirche und Staat
 
@@ -1669,7 +1688,7 @@ Diese Verfassung tritt mit der Annahme durch die Landsgemeinde in Kraft.
 
 <sup>3</sup> …[^145-1]
 
-[^145-1]: Aufgehoben an der Landsgemeinde vom 7. Mai 2006, mit Wirkung seit 1. Juli 2010. Gewährleistungsbeschluss vom 18. Juni 2007 ([BBl 2007 4933](https://fedlex.data.admin.ch/eli/fga/2007/694)Art. 1 Ziff. 3 [629](https://fedlex.data.admin.ch/eli/fga/2007/86)).
+[^145-1]: Aufgehoben an der Landsgemeinde vom 7. Mai 2006, mit Wirkung seit 1. Juli 2010. Gewährleistungsbeschluss vom 18. Juni 2007 ([BBl 2007 4933](https://fedlex.data.admin.ch/eli/fga/2007/694)Art. 1 Ziff. 3, [629](https://fedlex.data.admin.ch/eli/fga/2007/86)).
 
 #### Art. 146
 
@@ -1683,7 +1702,7 @@ Diese Verfassung tritt mit der Annahme durch die Landsgemeinde in Kraft.
 
 [^u1-1]
 
-[^u1-1]: Angenommen an der Landsgemeinde vom 7. Mai 2006, in Kraft seit 1. Jan. 2011; mit Ausnahme der Art. 153 und 155, in Kraft seit 7. Mai 2006. Gewährleistungsbeschluss vom 18. Juni 2007 ([BBl 2007 4933](https://fedlex.data.admin.ch/eli/fga/2007/694)Art. 1 Ziff. 3 [629](https://fedlex.data.admin.ch/eli/fga/2007/86)).
+[^u1-1]: Angenommen an der Landsgemeinde vom 7. Mai 2006, in Kraft seit 1. Jan. 2011; mit Ausnahme der Art. 153 und 155, in Kraft seit 7. Mai 2006. Gewährleistungsbeschluss vom 18. Juni 2007 ([BBl 2007 4933](https://fedlex.data.admin.ch/eli/fga/2007/694)Art. 1 Ziff. 3, [629](https://fedlex.data.admin.ch/eli/fga/2007/86)).
 
 #### Art. 147
 
@@ -1753,7 +1772,7 @@ Mit Inkrafttreten von Artikel 29 Absatz 1 in der Fassung vom 7. Mai 2006 werden 
 
 Das Gesetz kann bestimmen, dass die vor Ende der Amtsdauer 2006/2010 gewählten Vorsteherschaften der drei am 1. Januar 2011 neu entstehenden Gemeinden bereits am 1. Juli 2010 in alle Rechte und Pflichten, Aufgaben und Zuständigkeiten der am 30. Juni 2010 ausscheidenden Gemeinde-, Tagwen- und Schulvorsteherschaften eintreten.
 
-[^u1-154-1]: Angenommen an der Landsgemeinde vom 4. Mai 2008, in Kraft seit 4. Mai 2008. Gewährleistungsbeschluss vom 28. Mai 2009 ([BBl 2009 4801](https://fedlex.data.admin.ch/eli/fga/2009/826)Art. 1 Ziff. 1 [1191](https://fedlex.data.admin.ch/eli/fga/2009/262)).
+[^u1-154-1]: Angenommen an der Landsgemeinde vom 4. Mai 2008, in Kraft seit 4. Mai 2008. Gewährleistungsbeschluss vom 28. Mai 2009 ([BBl 2009 4801](https://fedlex.data.admin.ch/eli/fga/2009/826)Art. 1 Ziff. 1, [1191](https://fedlex.data.admin.ch/eli/fga/2009/262)).
 
 #### Art. 155
 
@@ -1769,7 +1788,7 @@ Das Gesetz kann bestimmen, dass die vor Ende der Amtsdauer 2006/2010 gewählten 
 
 [^u2-1]
 
-[^u2-1]: Angenommen an der Landsgemeinde vom 2. Mai 2010, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 29. Sept. 2011 ([BBl 2011 7619](https://fedlex.data.admin.ch/eli/fga/2011/1266)Art. 1 Ziff. 4 [4467](https://fedlex.data.admin.ch/eli/fga/2011/693)).
+[^u2-1]: Angenommen an der Landsgemeinde vom 2. Mai 2010, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 29. Sept. 2011 ([BBl 2011 7619](https://fedlex.data.admin.ch/eli/fga/2011/1266)Art. 1 Ziff. 4, [4467](https://fedlex.data.admin.ch/eli/fga/2011/693)).
 
 Der bisherige Staatsanwalt und die beiden Verhörrichter sowie die Jugendanwältin bleiben über ihre Amtsdauer hinaus bis zum 31. Dezember 2010 im Amt.
 
@@ -1828,7 +1847,6 @@ Angestellte
 - – Amtsdauer und Wiederwahl 78
 - – Amtsgeheimnis 86*a*
 - – der Gemeinden 119
-- – der Gerichte 112
 - – Dienstrecht 105
 - – Leistungen an 91
 - – Unvereinbarkeiten 75
@@ -1852,19 +1870,13 @@ Angestellte
   - – Regierung 82, 91
   - – Verwaltung 82
 
-- – des Obergerichtes über
-  - – Kantonsgericht 112
-
 - – des Regierungsrates über
   - – Gemeinden 94, 120, 153
-  - – Jugendstrafrechtsbehörden 114
   - – öffentliche Dienste 101
   - – Sachversicherung 94
-  - – Strafverfolgung 114
   - – Verwaltung 94, 101
 
-- – des Verwaltungsgerichtes über
-  - – Rekurskommissionen 112
+- – über die Strafverfolgungsbehörden 114<sup>1</sup>
 
 **Ausgaben** (Kompetenzen)
 
@@ -1921,8 +1933,6 @@ Bürgerrecht 20
 **Bussen** 114<sup>1</sup>
 
 **Eigentumsgarantie** 14
-
-**Einzelrichter** 108
 
 **Energie** s. Wirtschaft
 
@@ -1991,14 +2001,12 @@ Gemeinden
 
 Gerichte
 
-- – Aufsicht 112, 114
-- – Jugendstrafrechtspflege 113, 114, UeBest 2.5.2010
+- – Aufsicht 114
 - – Kantonsgericht 108
 - – Obergericht 110
-- – Strafverfolgung 113, 114
-- – Unabhängigkeit 106
+- – Strafverfolgungsbehörden 114
+- – Unabhängigkeit 107*a*
 - – Verwaltungsgericht 111, 120
-- – Verwaltungskommission 112
 - – Zuständigkeiten und Organisation 112
 
 Gesundheitswesen
@@ -2028,9 +2036,6 @@ Grenzänderungen, von Gemeinden 118
 
 **Information** 80
 
-Jugendanwaltschaft
-
-- – Strafrechtspflege 113, 114, UeBest 2.5.2010
 - – Wahl 88
 
 **Jugendarbeit** 40
@@ -2213,7 +2218,7 @@ Rechtsschutz
 - – unentgeltliche Rechtspflege 16
 - – verfassungsmässiger Richter 16
 
-**Rechtsweggarantie**, in öffentlich-rechtlichen Angelegenheiten 59<sup>2</sup>, 111<sup>1</sup>
+**Rechtsweggarantie**, in öffentlich-rechtlichen Angelegenheiten 59<sup>2</sup>
 
 **Referendum,** fakultatives 133
 
@@ -2233,14 +2238,12 @@ Regierungsrat
 - – Wahlbefugnisse 98
 - – Zuständigkeiten 101, 147, 153
 
-**Rekurskommissionen** 111<sup>2</sup>, 112
-
 Religionsgemeinschaften 127<sup>4,</sup> 135, 136
 
 Richter
 
 - – Amtsdauer und Wiederwahl 78
-- – Einzelrichter 108
+- – Unabhängigkeit 107*a*
 - – Unvereinbarkeiten 75
 - – Wahl 68
 
@@ -2293,7 +2296,7 @@ Staat
 
 Staatsanwalt
 
-- – Aufgaben 113, 114, UeBest 2.5.2010
+- – Aufgaben 114
 - – Wahl 88
 
 Staatsgewalt
@@ -2326,10 +2329,6 @@ Ständerat
 - – auf Gemeindeebene 57
 - – auf Kantonsebene 57
 - – Voraussetzungen des Stimmrechts 56
-
-**Strafgerichtskommission** 108
-
-**Strafkammer** 108
 
 Strafrecht
 
@@ -2396,7 +2395,6 @@ Wirtschaft
 - – Verkehr und Energie 46
 - – Waldwirtschaft 45
 - – Wirtschaftsfreiheit 15
-- [tab] **Zivilkammer** 108
 
 **Zweckverbände** 116, 131
 

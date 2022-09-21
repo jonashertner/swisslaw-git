@@ -3,11 +3,11 @@ sr: "131.217"
 title: "Constitution du canton de Glaris, du 1<sup>er</sup> mai 1988"
 eli: "https://fedlex.data.admin.ch/eli/cc/1989/3_730_706_654_fga"
 language: fr
-version: 2020-09-17
+version: 2022-09-22
 adopted: 1988-05-01
 in_force: 1988-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/3_730_706_654_fga/20200917/fr/xml/fedlex-data-admin-ch-eli-cc-1989-3_730_706_654_fga-20200917-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1989/3_730_706_654_fga/20200917/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/3_730_706_654_fga/20220922/fr/xml/fedlex-data-admin-ch-eli-cc-1989-3_730_706_654_fga-20220922-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1989/3_730_706_654_fga/20220922/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1989/3_730_706_654_fga/20200917/fr"
 
 Traduction[^t-1]
 
-du 1<sup>er</sup> mai 1988 (Etat le 17 septembre 2020)[^t-2]
+du 1<sup>er</sup> mai 1988 (État le 22 septembre 2022)[^t-2]
 
 [^t-1]: Texte original allemand.
 [^t-2]: Cette publication se base sur les garanties fédérales publiées dans la FF. Elle peut de ce fait différer temporairement de la publication cantonale. La date de l’état est celle du dernier AF publié dans la FF.
@@ -738,10 +738,10 @@ La *Landsgemeinde* est l’assemblée des citoyens actifs du canton. Elle consti
 La *Landsgemeinde* est compétente:
 
 - a. pour élire le *Landamman* et le *Landesstatthalter*;
-- b.[^68-1] pour élire les présidents des tribunaux et les autres juges;
+- b.[^68-1] pour élire les présidences des tribunaux, les vice-présidences à temps partiel et les autres juges;
 - c.[^68-2] …
 
-[^68-1]: Acceptée par la *Landsgemeinde* du 2 mai 2004, en vigueur depuis le 5 oct. 2005. Garantie de l’Ass. féd. du 6 oct. 2005 ([FF 2005 5625](https://fedlex.data.admin.ch/eli/fga/2005/963)art. 1 ch. 1 [2715](https://fedlex.data.admin.ch/eli/fga/2005/452)).
+[^68-1]: Acceptée par la *Landsgemeinde* du 5 sept. 2021, en vigueur depuis le 1<sup>er</sup> juil. 2022. Garantie de l’Ass. féd. du 22 sept. 2022 ([FF 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)art. 2, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
 [^68-2]: Abrogée par la *Landsgemeinde* du 2 mai 2010, avec effet au 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 29 sept. 2011 ([FF 2011 7019](https://fedlex.data.admin.ch/eli/fga/2011/1266)art. 1 ch. 4 [4149](https://fedlex.data.admin.ch/eli/fga/2011/693)).
 
 #### Art. 69
@@ -800,12 +800,15 @@ Les pouvoirs législatif, exécutif et judiciaire sont, quant au principe, sépa
 
 <sup>1</sup> Tout citoyen actif est éligible comme député au Grand Conseil, comme conseiller d’État ou comme juge, comme député au Conseil des États ou comme membre d’autres autorités cantonales ou communales à partir de l’âge de 18 ans.[^74-2]
 
+<sup>1a</sup> Pour les présidences des tribunaux et les vice-présidences à temps partiel, des études de droit complètes ayant mené à l’obtention d’une licence ou d’un master délivré par une université suisse sont une condition d’éligibilité.[^74-3]
+
 <sup>2</sup> Pour certaines autorités, la loi peut prévoir d’autres conditions d’éligibilité.
 
 <sup>3</sup> La loi ou une ordonnance du Grand Conseil peut autoriser des personnes ne disposant pas du droit de vote à occuper certains postes officiels.
 
 [^74-1]: Accepté par la *Landsgemeinde* du 2 mai 2004, en vigueur depuis le 5 oct. 2005. Garantie de l’Ass. féd. du 6 oct. 2005 ([FF 2005 5625](https://fedlex.data.admin.ch/eli/fga/2005/963)art. 1 ch. 1 [2715](https://fedlex.data.admin.ch/eli/fga/2005/452)).
 [^74-2]: Accepté par la *Landsgemeinde* du 6 mai 2007, en vigueur depuis le 6 mai 2007. Garantie de l’Ass. féd. du 12 juin 2008 ([FF 2008 5263](https://fedlex.data.admin.ch/eli/fga/2008/993)art. 1 ch. 2 [1265](https://fedlex.data.admin.ch/eli/fga/2008/355)).
+[^74-3]: Accepté par la *Landsgemeinde* du 5 sept. 2021, en vigueur depuis le 1<sup>er</sup> juil. 2022. Garantie de l’Ass. féd. du 22 sept. 2022 ([FF 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)art. 2, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
 
 #### Art. 75
 
@@ -1204,11 +1207,9 @@ Il incombe au Conseil d’État:
 
 #### Art. 106
 
-**Indépendance des juges**
+[^106-1]
 
-<sup>1</sup> Les tribunaux sont indépendants et ne sont liés que par le droit et par la loi.
-
-<sup>2</sup> Ils doivent refuser d’appliquer les actes normatifs contraires au droit fédéral, à la constitution cantonale ou aux lois cantonales.
+[^106-1]: Abrogé par la *Landsgemeinde* du 5 sept. 2021, avec effet au 1<sup>er</sup> juil. 2022. Garantie de l’Ass. féd. du 22 sept. 2022 ([FF 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)art. 2, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
 
 #### Art. 107
 
@@ -1216,24 +1217,31 @@ Il incombe au Conseil d’État:
 
 [^107-1]: Abrogé par la *Landsgemeinde* du 2 mai 2010, avec effet au 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 29 sept. 2011 ([FF 2011 7019](https://fedlex.data.admin.ch/eli/fga/2011/1266)art. 1 ch. 4 [4149](https://fedlex.data.admin.ch/eli/fga/2011/693)).
 
+#### Art. 107a
+
+**Indépendance des juges**[^107a-1]
+
+<sup>1</sup> Les tribunaux sont indépendants et ne sont liés que par le droit et par la loi.
+
+<sup>2</sup> Ils s’organisent de manière autonome. À cet égard, la loi prévoit un organe commun.
+
+<sup>3</sup> Les tribunaux doivent refuser d’appliquer les actes normatifs contraires au droit fédéral, à la constitution cantonale ou aux lois cantonales.
+
+[^107a-1]: Accepté par la *Landsgemeinde* du 5 sept. 2021, en vigueur depuis le 1<sup>er</sup> juil. 2022. Garantie de l’Ass. féd. du 22 sept. 2022 ([FF 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)art. 2, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
+
 #### Art. 108
 
 **Tribunal cantonal**
 
-<sup>1</sup>
+<sup>1</sup> Le Tribunal cantonal statue en matière de justice civile, de justice pénale et de justice pénale des mineurs comme juridiction cantonale de première instance.[^108-1]
 
-Le Tribunal cantonal statue en matière de justice civile, de justice pénale et de justice pénale des mineurs comme juridiction de première instance par le truchement:
+<sup>2</sup> Il se compose de deux présidences et d’un nombre de membres fixé par la loi.[^108-2]
 
-- a. de deux Chambres civiles, composées chacune d’un président et de quatre membres;
-- b. de la Chambre pénale, composée du président et de quatre membres;
-- c. de la Commission judiciaire pénale, composée du président ainsi que de deux membres de la Chambre pénale.[^108-1]
+<sup>3</sup> …[^108-3]
 
-<sup>2</sup> Le Tribunal cantonal a deux présidents à plein temps qui fonctionnent comme présidents des Chambres et de la Commission judiciaire pénale ainsi que comme juges uniques.
-
-<sup>3</sup> Les présidents et les membres du Tribunal cantonal fonctionnent comme juges uniques dans les cas prévus par la loi.[^108-2]
-
-[^108-1]: Accepté par la *Landsgemeinde* du 2 mai 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 29 sept. 2011 ([FF 2011 7019](https://fedlex.data.admin.ch/eli/fga/2011/1266)art. 1 ch. 4 [4149](https://fedlex.data.admin.ch/eli/fga/2011/693)).
-[^108-2]: Accepté par la *Landsgemeinde* du 2 mai 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 29 sept. 2011 ([FF 2011 7019](https://fedlex.data.admin.ch/eli/fga/2011/1266)art. 1 ch. 4 [4149](https://fedlex.data.admin.ch/eli/fga/2011/693)).
+[^108-1]: Accepté par la *Landsgemeinde* du 5 sept. 2021, en vigueur depuis le 1<sup>er</sup> juil. 2022. Garantie de l’Ass. féd. du 22 sept. 2022 ([FF 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)art. 2, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
+[^108-2]: Accepté par la *Landsgemeinde* du 5 sept. 2021, en vigueur depuis le 1<sup>er</sup> juil. 2022. Garantie de l’Ass. féd. du 22 sept. 2022 ([FF 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)art. 2, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
+[^108-3]: Abrogé par la *Landsgemeinde* du 5 sept. 2021, avec effet au 1<sup>er</sup> juil. 2022. Garantie de l’Ass. féd. du 22 sept. 2022 ([FF 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)art. 2, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
 
 #### Art. 109
 
@@ -1247,55 +1255,66 @@ Le Tribunal cantonal statue en matière de justice civile, de justice pénale et
 
 <sup>1</sup> Le Tribunal supérieur statue en matière de justice civile, de justice pénale et de justice pénale des mineurs comme juridiction cantonale de dernière instance ou comme juridiction cantonale unique.
 
-<sup>2</sup> Le Tribunal supérieur se compose du président et de sept membres; la loi règle la composition du collège des juges.
+<sup>2</sup> Il se compose de la présidence et d’un nombre de membres fixé par la loi.[^110-2]
 
-<sup>3</sup> Le président du Tribunal supérieur statue comme juge unique dans les cas prévus par la loi.
+<sup>3</sup> …[^110-3]
+
+<sup>3a</sup> Le Tribunal supérieur exerce la surveillance sur la gestion du Tribunal cantonal.[^110-4]
 
 [^110-1]: Accepté par la *Landsgemeinde* du 2 mai 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 29 sept. 2011 ([FF 2011 7019](https://fedlex.data.admin.ch/eli/fga/2011/1266)art. 1 ch. 4 [4149](https://fedlex.data.admin.ch/eli/fga/2011/693)).
+[^110-2]: Accepté par la *Landsgemeinde* du 5 sept. 2021, en vigueur depuis le 1<sup>er</sup> juil. 2022. Garantie de l’Ass. féd. du 22 sept. 2022 ([FF 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)art. 2, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
+[^110-3]: Abrogé par la *Landsgemeinde* du 5 sept. 2021, avec effet au 1<sup>er</sup> juil. 2022. Garantie de l’Ass. féd. du 22 sept. 2022 ([FF 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)art. 2, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
+[^110-4]: Accepté par la *Landsgemeinde* du 5 sept. 2021, en vigueur depuis le 1<sup>er</sup> juil. 2022. Garantie de l’Ass. féd. du 22 sept. 2022 ([FF 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)art. 2, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
 
 #### Art. 111
 
 **Tribunal administratif**[^111-1]
 
-<sup>1</sup> Le Tribunal administratif connaît, comme juridiction de première instance ou comme juridiction de recours, de litiges relevant du droit administratif ou d’autres litiges relevant du droit public. Il se compose du président et de huit juges, qui forment deux chambres.
+<sup>1</sup> Le Tribunal administratif connaît, comme juridiction de première instance ou comme juridiction de recours, de litiges relevant du droit administratif ou d’autres litiges relevant du droit public.[^111-2]
 
-<sup>2</sup> La loi peut instituer des commissions de recours indépendantes de l’administration pour juger des litiges administratifs spéciaux.
+<sup>1a</sup> Il se compose de la présidence et d’un nombre de membres fixé par la loi.[^111-3]
+
+<sup>2</sup> …[^111-4]
+
+<sup>2a</sup> Il exerce la surveillance sur la gestion des commissions indépendantes.[^111-5]
 
 [^111-1]: Accepté par la *Landsgemeinde* du 2 mai 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 29 sept. 2011 ([FF 2011 7019](https://fedlex.data.admin.ch/eli/fga/2011/1266)art. 1 ch. 4 [4149](https://fedlex.data.admin.ch/eli/fga/2011/693)).
+[^111-2]: Accepté par la *Landsgemeinde* du 5 sept. 2021, en vigueur depuis le 1<sup>er</sup> juil. 2022. Garantie de l’Ass. féd. du 22 sept. 2022 ([FF 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)art. 2, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
+[^111-3]: Accepté par la *Landsgemeinde* du 5 sept. 2021, en vigueur depuis le 1<sup>er</sup> juil. 2022. Garantie de l’Ass. féd. du 22 sept. 2022 ([FF 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)art. 2, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
+[^111-4]: Abrogé par la *Landsgemeinde* du 5 sept. 2021, en vigueur depuis le 1<sup>er</sup> juil. 2022. Garantie de l’Ass. féd. du 22 sept. 2022 ([FF 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)art. 2, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
+[^111-5]: Accepté par la *Landsgemeinde* du 5 sept. 2021, en vigueur depuis le 1<sup>er</sup> juil. 2022. Garantie de l’Ass. féd. du 22 sept. 2022 ([FF 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)art. 2, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
 
 #### Art. 112
 
-**Administration et organisation**[^112-1]
+**Organisation[^112-2]**[^112-1]
 
 <sup>1</sup> La loi règle l’organisation et les compétences des tribunaux ainsi que la procédure judiciaire.
 
-<sup>2</sup> Elle règle la répartition des affaires, le remplacement des présidents et les suppléances en cas de récusation et d’empêchement.
-
-<sup>3</sup> Le Tribunal supérieur exerce la surveillance sur la gestion du Tribunal cantonal, le Tribunal administratif sur celle des commissions de recours.
-
-<sup>4</sup> La Commission administrative des tribunaux se compose des présidents du Tribunal supérieur, du Tribunal administratif et du Tribunal cantonal. Elle nomme et surveille les employés des tribunaux conformément à la loi.
+<sup>2</sup> à <sup>4</sup> …[^112-3]
 
 [^112-1]: Accepté par la *Landsgemeinde* du 2 mai 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 29 sept. 2011 ([FF 2011 7019](https://fedlex.data.admin.ch/eli/fga/2011/1266)art. 1 ch. 4 [4149](https://fedlex.data.admin.ch/eli/fga/2011/693)).
+[^112-2]: Accepté par la *Landsgemeinde* du 5 sept. 2021, en vigueur depuis le 1<sup>er</sup> juil. 2022. Garantie de l’Ass. féd. du 22 sept. 2022 ([FF 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)art. 2, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
+[^112-3]: Abrogés par la *Landsgemeinde* du 5 sept. 2021, en vigueur depuis le 1<sup>er</sup> juil. 2022. Garantie de l’Ass. féd. du 22 sept. 2022 ([FF 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)art. 2, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
 
-### Sous-section 2 Poursuite pénale
+### Sous-section 2 Autorités de poursuite pénale
 
 [^chap5-sec3-subsec2-1]
 
-[^chap5-sec3-subsec2-1]: Acceptée par la *Landsgemeinde* du 2 mai 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 29 sept. 2011 ([FF 2011 7019](https://fedlex.data.admin.ch/eli/fga/2011/1266)art. 1 ch. 4 [4149](https://fedlex.data.admin.ch/eli/fga/2011/693)).
+[^chap5-sec3-subsec2-1]: Accepté par la *Landsgemeinde* du 5 sept. 2021, en vigueur depuis le 1<sup>er</sup> juil. 2022. Garantie de l’Ass. féd. du 22 sept. 2022 ([FF 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)art. 2, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
 
 #### Art. 113
 
-**Ministère public et ministère public des mineurs**
-
-La poursuite pénale incombe au ministère public et au ministère public des mineurs.
+*Abrogé*
 
 #### Art. 114
 
-**Organisation et surveillance**
+**Organisation**
 
-<sup>1</sup> La loi règle l’organisation et les compétences du ministère public et du ministère public des mineurs, ainsi que la compétence des services administratifs et des autorités communales d’infliger des amendes.
+<sup>1</sup> La loi règle l’organisation et les compétences des autorités de poursuite pénale et la surveillance sur celles-ci.
 
-<sup>2</sup> Le Conseil d’État exerce la surveillance sur la poursuite pénale; il ne peut toutefois intervenir par des directives dans les procédures.
+<sup>2</sup> …
+
+<sup>2a</sup> Les autorités de poursuite pénale sont indépendantes dans l’application du droit et ne sont liées que par le droit.
 
 ## Chapitre 6 Communes, syndicats de communes et corporations
 
@@ -1392,7 +1411,7 @@ La poursuite pénale incombe au ministère public et au ministère public des mi
 
 <sup>2</sup> La commune comprend les personnes domiciliées sur son territoire.
 
-<sup>3</sup> A moins que la loi n’en dispose autrement, la commune s’occupe notamment de toutes les affaires scolaires.
+<sup>3</sup> À moins que la loi n’en dispose autrement, la commune s’occupe notamment de toutes les affaires scolaires.
 
 [^122-1]: Accepté par la *Landsgemeinde* du 7 mai 2006, en vigueur depuis le 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 18 juin 2007 ([FF 2007 4689](https://fedlex.data.admin.ch/eli/fga/2007/694)art. 1 ch. 3 [581](https://fedlex.data.admin.ch/eli/fga/2007/86)).
 [^122-2]: Accepté par la *Landsgemeinde* du 4 mai 2014, en vigueur depuis le 1<sup>er</sup> sept. 2014. Garantie de l’Ass. féd. du 3 mars 2016 ([FF 2016 2137](https://fedlex.data.admin.ch/eli/fga/2016/476)art. 3, [2015 6959](https://fedlex.data.admin.ch/eli/fga/2015/1854)).
@@ -1712,7 +1731,7 @@ La présente constitution entre en vigueur au moment de son acceptation par la *
 
 <sup>5</sup> La loi sur les communes peut prévoir que, pour un délai transitoire correspondant à une législature, des communes qui doivent fusionner selon l’al. 1 ont droit à un siège au moins au sein de l’exécutif communal. Ce droit peut être octroyé à chaque commune ou à un groupe de communes.
 
-<sup>1</sup> A partir du 1<sup>er</sup> janvier 2011, il n’existera plus dans le canton que les trois communes suivantes, en la forme de communes réunies (réunion de la commune municipale, de la commune scolaire et du Tagwen):
+<sup>1</sup> À partir du 1<sup>er</sup> janvier 2011, il n’existera plus dans le canton que les trois communes suivantes, en la forme de communes réunies (réunion de la commune municipale, de la commune scolaire et du Tagwen):
 
 - Bilten, Mühlehorn, Obstalden, Filzbach, Niederurnen, Oberurnen, Näfels et Mollis;
 - Netstal, Riedern, Glarus et Ennenda;
@@ -1856,8 +1875,6 @@ Les chiffres renvoient aux articles et divisions d’articles de la constitution
 
 **Aménagement du territoire** 23
 
-**Amendes** 111
-
 **Arrestation** 16
 
 Assemblée fédérale
@@ -1884,7 +1901,7 @@ Autorités
 - – reconduction 78
 - – récusation 77
 - – séparation des pouvoirs 73
-- – tribunaux 106, 108, 110 à 112
+- – tribunaux 107*a*, 108, 110 à 112
 
 **Autorités tutélaires** 152, 153
 
@@ -2006,7 +2023,7 @@ Contrats et Conventions
 
 **Corporations** 134
 
-**Corporations de droit public** 18, 50, 52, 113, 127, 135–137
+**Corporations de droit public** 18, 50, 52, 127, 135–137
 
 Décision, urgente 132
 
@@ -2147,7 +2164,6 @@ Finances
 - – budget et compte 53, 62, 90, 100
 - – compensation des situations financières 55, 55*a* 155
 - – contributions 50
-- – émoluments 50
 - – état 52
 - – financement 54, 155
 - – impôts 50
@@ -2157,7 +2173,7 @@ Finances
 
 **Garantie de la propriété** 14
 
-**Garantie de la voie de recours**, en matière de droit public 59<sup>2</sup>, 113<sup>1</sup>
+**Garantie de la voie de recours**, en matière de droit public 59<sup>2</sup>
 
 **Garanties de procédure** 16
 
@@ -2203,6 +2219,7 @@ Juge
 
 - – élection 68
 - – incompatibilités 75
+- – indépendance 107*a*
 - – période de fonction et reconduction 78
 
 **Juge unique** 108
@@ -2274,8 +2291,6 @@ Militaire
 - – compétences du Grand Conseil 88, 91
 - – élection des commandants des bataillons cantonaux 88
 
-Ministère public 113
-
 Modification des limites, des communes 118
 
 **Musique**
@@ -2313,7 +2328,7 @@ Période de fonction 78, 154
 
 Planification financière 52, 90a, 100a
 
-Poursuite pénale 113 114
+Poursuite pénale 114
 
 Pouvoir
 
@@ -2379,7 +2394,6 @@ Santé publique
 
   du Conseil d’État à:
 
-  - – poursuite pénale 114
   - – administration 94, 101
   - – communes 94, 120, 153
   - – services publics 101
@@ -2411,16 +2425,11 @@ Santé publique
 
 **Transports publics** cf. Économie
 
-**Tribunal arbitral** 109
-
 Tribunaux
 
-- – commission administrative 114
-- – compétences et organisation 114
-- – indépendance des juges 106
-- – juridiction arbitrale 109
+- – compétences et organisation 112
+- – indépendance des juges 107*a*
 - – justice pénale des mineurs 110
-- – poursuite pénale 111
 - – tribunal administratif 111, 120
 - – tribunal cantonal 108
 - – tribunal supérieur 110, 112

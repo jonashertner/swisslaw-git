@@ -3,11 +3,11 @@ sr: "131.217"
 title: "Costituzione del Cantone di Glarona, del 1<sup>o</sup> maggio 1988"
 eli: "https://fedlex.data.admin.ch/eli/cc/1989/3_730_706_654_fga"
 language: it
-version: 2020-09-17
+version: 2022-09-22
 adopted: 1988-05-01
 in_force: 1988-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/3_730_706_654_fga/20200917/it/xml/fedlex-data-admin-ch-eli-cc-1989-3_730_706_654_fga-20200917-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1989/3_730_706_654_fga/20200917/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/3_730_706_654_fga/20220922/it/xml/fedlex-data-admin-ch-eli-cc-1989-3_730_706_654_fga-20220922-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1989/3_730_706_654_fga/20220922/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1989/3_730_706_654_fga/20200917/it"
 
 Traduzione[^t-1]
 
-del 1° maggio 1988 (Stato 17 settembre 2020) (Stato 17 settembre 2020)
+del 1° maggio 1988 (Stato 22 settembre 2022)
 
 [^t-1]: Dal testo originale tedesco.
 
@@ -736,10 +736,10 @@ La Landsgemeinde è l’assemblea degli abitanti del Cantone aventi diritto di v
 La Landsgemeinde elegge:
 
 - a. il landamano e il vicelandamano;
-- b.[^68-1] i presidenti dei tribunali e gli altri giudici;
+- b.[^68-1] i presidenti dei tribunali, i vicepresidenti a tempo parziale e gli altri giudici;
 - c.[^68-2] ...
 
-[^68-1]: Accettata nella Landsgemeinde del 2 mag. 2004, in vigore dal 5 ott. 2005. Garanzia dell’AF del 6 ott. 2005 ([FF 2005 5337](https://fedlex.data.admin.ch/eli/fga/2005/963)art. 1 n. 1 [2579](https://fedlex.data.admin.ch/eli/fga/2005/452)).
+[^68-1]: Accettato nella Landsgemeinde del 5 set. 2021, in vigore dal 1° lug. 2022. Garanzia dell’AF del 22 set. 2022 ([FF 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)art. 2, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
 [^68-2]: Abrogata nella Landsgemeinde del 2 mag. 2010, con effetto dal 1° gen. 2011. Garanzia dell’AF del 29 set. 2011 ([FF 2011 6777](https://fedlex.data.admin.ch/eli/fga/2011/1266)art. 1 n. 4 [4015](https://fedlex.data.admin.ch/eli/fga/2011/693)).
 
 #### Art. 69
@@ -798,12 +798,15 @@ I poteri legislativo, esecutivo e giudiziario sono, quanto al principio, separat
 
 <sup>1</sup> Sono eleggibili al Gran Consiglio, al Consiglio di Stato, alla carica di giudice, al Consiglio degli Stati o a membro di altre autorità cantonali o comunali gli aventi diritto di voto che hanno compiuto i 18 anni.[^74-2]
 
+<sup>1a</sup> Per i presidenti dei tribunali e i vicepresidenti a tempo parziale, studi di diritto completi con ottenimento di una licenza o di un diploma di master rilasciati da un’università svizzera sono una condizione di eleggibilità.[^74-3]
+
 <sup>2</sup> Per determinate autorità, la legge può prevedere ulteriori condizioni di eleggibilità.
 
 <sup>3</sup> La legge o un’ordinanza del Gran Consiglio può consentire eccezionalmente che certe cariche siano assegnate a persone che non hanno diritto di voto.
 
 [^74-1]: Accettato nella Landsgemeinde del 2 mag. 2004, in vigore dal 5 ott. 2005. Garanzia dell’AF del 6 ott. 2005 ([FF 2005 5337](https://fedlex.data.admin.ch/eli/fga/2005/963)art. 1 n. 1 [2579](https://fedlex.data.admin.ch/eli/fga/2005/452)).
 [^74-2]: Accettato nella Landsgemeinde del 6 mag. 2007, in vigore dal 6 mag. 2007. Garanzia dell’AF del 12 giu. 2008 ([FF 2008 5085](https://fedlex.data.admin.ch/eli/fga/2008/993)art. 1 n. 2 [1187](https://fedlex.data.admin.ch/eli/fga/2008/355)).
+[^74-3]: Accettato nella Landsgemeinde del 5 set. 2021, in vigore dal 1° lug. 2022. Garanzia dell’AF del 22 set. 2022 ([FF 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)art. 2, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
 
 #### Art. 75
 
@@ -1202,11 +1205,9 @@ Incombe al Consiglio di Stato:
 
 #### Art. 106
 
-**Indipendenza del potere giudiziario**
+[^106-1]
 
-<sup>1</sup> I tribunali sono indipendenti e sottostanno soltanto al diritto e alla legge.
-
-<sup>2</sup> Essi non devono dare attuazione ad atti normativi che contraddicano al diritto federale, alla presente Costituzione o alle leggi cantonali.
+[^106-1]: Abrogato dalla Landsgemeinde del 5 set. 2021, con effetto dal 1° lug. 2021. Garanzia dell’AF del 22 set. 2022 ([FF 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)art. 2, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
 
 #### Art. 107
 
@@ -1214,24 +1215,31 @@ Incombe al Consiglio di Stato:
 
 [^107-1]: Abrogato nella Landsgemeinde del 2 mag. 2010, con effetto dal 1° gen. 2011. Garanzia dell’AF del 29 set. 2011 ([FF 2011 6777](https://fedlex.data.admin.ch/eli/fga/2011/1266)art. 1 n. 4 [4015](https://fedlex.data.admin.ch/eli/fga/2011/693)).
 
+#### Art. 107a
+
+**Indipendenza del potere giudiziario**[^107a-1]
+
+<sup>1</sup> I tribunali sono indipendenti e sottostanno soltanto al diritto e alla legge.
+
+<sup>2</sup> Si organizzano in maniera autonoma. A tale scopo la legge prevede un organo comune.
+
+<sup>3</sup> I tribunali non devono dare attuazione ad atti normativi che contraddicano al diritto federale, alla presente Costituzione o alle leggi cantonali.
+
+[^107a-1]: Accettato nella Landsgemeinde del 5 set. 2021, in vigore dal 1° lug. 2022. Garanzia dell’AF del 22 set. 2022 ([FF 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)art. 2, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
+
 #### Art. 108
 
 **Tribunale cantonale**
 
-<sup>1</sup>
+<sup>1</sup> Il Tribunale cantonale pronuncia in materia civile, penale e minorile come giurisdizione di primo grado.[^108-1]
 
-Il Tribunale cantonale pronuncia in materia civile, penale e minorile come giurisdizione di primo grado mediante:
+<sup>2</sup> È composto di due presidenti e di un numero di membri stabilito dalla legge.[^108-2]
 
-- a. due Camere civili, composte ciascuna di un presidente e di quattro membri;
-- b. la Camera penale, composta del presidente e di quattro membri;
-- c. la Commissione giudiziaria penale, composta del presidente, nonché di due membri della Camera penale.[^108-1]
+<sup>3</sup> ...[^108-3]
 
-<sup>2</sup> Il Tribunale cantonale ha due presidenti a tempo pieno che fungono da presidenti delle Camere e della Commissione giudiziaria penale, nonché da giudici unici.
-
-<sup>3</sup> I presidenti e i membri del Tribunale cantonale fungono da giudice unico nei casi previsti dalla legge.[^108-2]
-
-[^108-1]: Accettato nella Landsgemeinde del 2 mag. 2010, in vigore dal 1° gen. 2011. Garanzia dell’AF del 29 set. 2011 ([FF 2011 6777](https://fedlex.data.admin.ch/eli/fga/2011/1266)art. 1 n. 4 [4015](https://fedlex.data.admin.ch/eli/fga/2011/693)).
-[^108-2]: Accettato nella Landsgemeinde del 2 mag. 2010, in vigore dal 1° gen. 2011. Garanzia dell’AF del 29 set. 2011 ([FF 2011 6777](https://fedlex.data.admin.ch/eli/fga/2011/1266)art. 1 n. 4 [4015](https://fedlex.data.admin.ch/eli/fga/2011/693)).
+[^108-1]: Accettato nella Landsgemeinde del 5 set. 2021, in vigore dal 1° lug. 2022. Garanzia dell’AF del 22 set. 2022 ([FF 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)art. 2, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
+[^108-2]: Accettato nella Landsgemeinde del 5 set. 2021, in vigore dal 1° lug. 2022. Garanzia dell’AF del 22 set. 2022 ([FF 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)art. 2, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
+[^108-3]: Abrogato dalla Landsgemeinde del 5 set. 2021, con effetto dal 1° lug. 2021. Garanzia dell’AF del 22 set. 2022 ([FF 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)art. 2, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
 
 #### Art. 109
 
@@ -1245,55 +1253,67 @@ Il Tribunale cantonale pronuncia in materia civile, penale e minorile come giuri
 
 <sup>1</sup> Il Tribunale superiore pronuncia come giurisdizione cantonale di ultimo o unico grado in materia civile, penale e minorile.
 
-<sup>2</sup> Il Tribunale superiore è composto del presidente e di sette membri; la legge disciplina la composizione dei collegi giudicanti.
+<sup>2</sup> È composto del presidente e di un numero di membri stabilito dalla legge.[^110-2]
 
-<sup>3</sup> Il presidente del Tribunale superiore decide come giudice unico nei casi previsti dalla legge.
+<sup>3</sup> *...*[^110-3]
+
+<sup>3a</sup> Il Tribunale superiore esercita la vigilanza sulla gestione del Tribunale cantonale.[^110-4]
 
 [^110-1]: Accettato nella Landsgemeinde del 2 mag. 2010, in vigore dal 1° gen. 2011. Garanzia dell’AF del 29 set. 2011 ([FF 2011 6777](https://fedlex.data.admin.ch/eli/fga/2011/1266)art. 1 n. 4 [4015](https://fedlex.data.admin.ch/eli/fga/2011/693)).
+[^110-2]: Accettato nella Landsgemeinde del 5 set. 2021, in vigore dal 1° lug. 2022. Garanzia dell’AF del 22 set. 2022 ([FF 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)art. 2, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
+[^110-3]: Abrogato dalla Landsgemeinde del 5 set. 2021, con effetto dal 1° lug. 2022. Garanzia dell’AF del 22 set. 2022 ([FF 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)art. 2, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
+[^110-4]: Accettato nella Landsgemeinde del 5 set. 2021, in vigore dal 1° lug. 2022. Garanzia dell’AF del 22 set. 2022 ([FF 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)art. 2, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
 
 #### Art. 111
 
 **Tribunale amministrativo**[^111-1]
 
-<sup>1</sup> Il Tribunale amministrativo pronuncia, come giurisdizione di primo grado o di ricorso, sulle controversie amministrative e su altre controversie di diritto pubblico. È composto del presidente e di otto giudici, ripartiti in due Camere.
+<sup>1</sup> Il Tribunale amministrativo pronuncia, come giurisdizione di primo grado o di ricorso, sulle controversie amministrative e su altre controversie di diritto pubblico.[^111-2]
 
-<sup>2</sup> Per speciali controversie amministrative, la legge può istituire commissioni di ricorso indipendenti dall’amministrazione.
+<sup>1a</sup> È composto del presidente e di un numero di membri stabilito dalla legge.[^111-3]
+
+<sup>2</sup> ... [^111-4]
+
+<sup>2a</sup> Esercita la vigilanza sulla gestione delle commissioni indipendenti.[^111-5]
 
 [^111-1]: Accettato nella Landsgemeinde del 2 mag. 2010, in vigore dal 1° gen. 2011. Garanzia dell’AF del 29 set. 2011 ([FF 2011 6777](https://fedlex.data.admin.ch/eli/fga/2011/1266)art. 1 n. 4 [4015](https://fedlex.data.admin.ch/eli/fga/2011/693)).
+[^111-2]: Accettato nella Landsgemeinde del 5 set. 2021, in vigore dal 1° lug. 2022. Garanzia dell’AF del 22 set. 2022 ([FF 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)art. 2, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
+[^111-3]: Accettato nella Landsgemeinde del 5 set. 2021, in vigore dal 1° lug. 2022. Garanzia dell’AF del 22 set. 2022 ([FF 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)art. 2, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
+[^111-4]: Abrogato dalla Landsgemeinde del 5 set. 2021, con effetto dal 1° lug. 2021. Garanzia dell’AF del 22 set. 2022 ([FF 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)art. 2, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
+[^111-5]: Accettato nella Landsgemeinde del 5 set. 2021, in vigore dal 1° lug. 2022. Garanzia dell’AF del 22 set. 2022 ([FF 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)art. 2, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
 
 #### Art. 112
 
-**Organizzazione e amministrazione**[^112-1]
+**Organizzazione[^112-2]**[^112-1]
 
 <sup>1</sup> La legge disciplina l’organizzazione e le competenze dei tribunali, nonché la procedura in sede di giudizio.
 
-<sup>2</sup> Essa disciplina la ripartizione delle cause, le vicepresidenze e le supplenze in caso di ricusazione e d’impedimento.
-
-<sup>3</sup> Il Tribunale superiore esercita la vigilanza sulla gestione del Tribunale cantonale; il Tribunale amministrativo su quella delle commissioni di ricorso.
-
-<sup>4</sup> La Commissione amministrativa dei tribunali si compone dei presidenti del Tribunale superiore, del Tribunale amministrativo e del Tribunale cantonale. Essa nomina gli impiegati dei tribunali e vigila su di essi conformemente alla legge.
+<sup>2</sup> a <sup>4</sup> ...[^112-3]
 
 [^112-1]: Accettato nella Landsgemeinde del 2 mag. 2010, in vigore dal 1° gen. 2011. Garanzia dell’AF del 29 set. 2011 ([FF 2011 6777](https://fedlex.data.admin.ch/eli/fga/2011/1266)art. 1 n. 4 [4015](https://fedlex.data.admin.ch/eli/fga/2011/693)).
+[^112-2]: Accettato nella Landsgemeinde del 5 set. 2021, in vigore dal 1° lug. 2022. Garanzia dell’AF del 22 set. 2022 ([FF 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)art. 2, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
+[^112-3]: Abrogati dalla Landsgemeinde del 5 set. 2021, con effetto dal 1° lug. 2021. Garanzia dell’AF del 22 set. 2022 ([FF 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)art. 2, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
 
-### Sottosezione 2: Perseguimento penale
+### Sottosezione 2: Autorità di perseguimento penale
 
-[^chap5-sec3-subsec2-1]
+[^chap5-sec3-subsec2-1][^chap5-sec3-subsec2-2]
 
-[^chap5-sec3-subsec2-1]: Accettata nella Landsgemeinde del 2 mag. 2010, in vigore dal 1° gen. 2011. Garanzia dell’AF del 29 set. 2011 ([FF 2011 6777](https://fedlex.data.admin.ch/eli/fga/2011/1266)art. 1 n. 4 [4015](https://fedlex.data.admin.ch/eli/fga/2011/693)).
+[^chap5-sec3-subsec2-1]: Accettato nella Landsgemeinde del 5 set. 2021, in vigore dal 1° lug. 2022. Garanzia dell’AF del 22 set. 2022 ([FF 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)art. 2, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
+[^chap5-sec3-subsec2-2]: Accettato nella Landsgemeinde del 5 set. 2021, in vigore dal 1° lug. 2022. Garanzia dell’AF del 22 set. 2022 ([FF 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)art. 2, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
 
 #### Art. 113
 
-**Pubblico ministero e magistratura dei minorenni**
-
-Il perseguimento penale contro adulti e adolescenti spetta al pubblico ministero e alla magistratura dei minorenni.
+*Abrogato*
 
 #### Art. 114
 
 **Organizzazione e vigilanza**
 
-<sup>1</sup> La legge disciplina l’organizzazione e le competenze del pubblico ministero e della magistratura dei minorenni, nonché la facoltà dei servizi amministrativi e delle autorità comunali di infliggere multe.
+<sup>1</sup> La legge disciplina l’organizzazione e le competenze delle autorità di perseguimento penale e la vigilanza su di loro.
 
-<sup>2</sup> Il Consiglio di Stato esercita la vigilanza sul perseguimento penale, ma sono escluse istruzioni concrete riguardanti singoli procedimenti.
+<sup>2</sup> ...
+
+<sup>2a</sup> Le autorità di perseguimento penale sono indipendenti nell’applicazione del diritto e sottostanno soltanto al diritto.
 
 ## Capitolo 6: Comuni, consorzi e corporazioni
 
@@ -1843,7 +1863,7 @@ Amministrazione
   - – dipartimentale 94
   - [tab] – fondamenti dell’attività 102
   - [tab] – organizzazione dell’ 103
-  - [tab] – Tribunali 106 ss
+  - [tab] – Tribunali 107 ss
   - – Tribunale amministrativo 111
   - – Tribunale cantonale 108
   - – Tribunale superiore 110
@@ -2076,8 +2096,7 @@ Cittadinanza 20 ss
 Commissione (i)
 
 - [tab] – cantonali 104
-  - [tab] – amministrativa dei tribunali 112
-  - [tab] – di ricorso 111, 112
+  - [tab] – di ricorso 111
   - [tab] – giudiziaria penale 108
 
 - [tab] – comunali 128
@@ -2383,7 +2402,6 @@ Costituzione
 - [tab] – emanazione di ordinanze 89
 - [tab] – esecuzione della 101
 - [tab] – fondamento della 1
-- [tab] – indipendenza del potere giudiziario 106
 - [tab] – limitazione dei diritti fondamentali 2
 - [tab] – parrocchia
   - [tab] – amministrazione della 127
@@ -2473,7 +2491,6 @@ Diritto (i)
 - [tab] – fondamenti dell’attività amministrativa 102
 - [tab] – gestione finanziaria 52
 - [tab] – imposte 50
-- [tab] – indipendenza del potere giudiziario 106
 - [tab] – Landsgemeinde 61 ss
 - [tab] – ordinamento della funzione pubblica 105
 - [tab] – ordinanze del Gran Consiglio 86
@@ -2795,7 +2812,6 @@ Municipio
 
 Nomine
 
-- [tab] – durata del mandato 78
 - [tab] – attribuzioni
   - [tab] – dei comuni
   - – insegnanti comunali 119
@@ -2814,9 +2830,8 @@ Nomine
   - – primo procuratore pubblico 88
   - – procuratori pubblici 88
   - – pubblici dipendenti cantonali 88
-  - [tab] – della Commissione amministrativa dei tribunali 112
-  - – impiegati dei tribunali 112
 
+- [tab] – durata del mandato 78
 - [tab] – condizioni di 105
 
 **Ordinanza/e**
@@ -3024,26 +3039,24 @@ Territorio
 - [tab] – pianificazione del 23
 - [tab] – ricoveri 33
 
-Tribunale (i) 106 ss
+Tribunale (i) 107 ss
 
 - [tab] – alta vigilanza sui 91
-- [tab] – amministrazione dei 112
-- [tab] – Commissione amministrativa dei 112
 - [tab] – diritto all’informazione dei membri del Gran Consiglio 86*a*
 - [tab] – durata del mandato dei presidenti di 78
-- [tab] – elezione dei presidenti dei 68
+- [tab] – elezione dei
+- – dei giudici 68
+- – presidenti dei 68
+- – vicepresidenti dei 68
 - [tab] – incompatibilità 75
-- [tab] – indipendenza dei 106
-- [tab] – organizzazione dei 112
+- [tab] – indipendenza dei 107*a*
+- [tab] – organizzazione dei 107*a*, 112
 - [tab] – sono
   - [tab] – amministrativo 111
   - [tab] – cantonale 108
   - [tab] – superiore 110
 
 - [tab] – suprema autorità cantonale di vigilanza sui tribunali 82
-- [tab] – vigilanza sulla gestione
-  - [tab] – del Tribunale cantonale 112
-  - [tab] – delle commissioni di ricorso 112
 
 Uguaglianza
 
@@ -3067,7 +3080,7 @@ Vigilanza
   - [tab] – sul
   - – Governo 82
   - – settore della formazione 37
-  - [tab] – sull’amministrazione 82
+  - – sull’amministrazione 82
   - [tab] – sulla salute pubblica 32
   - [tab] – sulle
   - – acque 24
@@ -3078,7 +3091,6 @@ Vigilanza
   - – sulle scuole speciali 39
 
 - [tab] – del Consiglio di Stato 134
-- [tab] – del Tribunale superiore 112
 - [tab] – gruppi parlamentari 84
 - [tab] – organizzazione del pubblico ministero 114
 - [tab] – su
