@@ -3,11 +3,11 @@ sr: "131.229"
 title: "Constitution de la République et canton du Tessin, du 14 décembre 1997"
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/5_5494_4818_4364_fga"
 language: fr
-version: 2021-09-21
+version: 2022-09-22
 adopted: 1997-12-14
 in_force: 1998-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/5_5494_4818_4364_fga/20210921/fr/xml/fedlex-data-admin-ch-eli-cc-1998-5_5494_4818_4364_fga-20210921-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/5_5494_4818_4364_fga/20210921/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/5_5494_4818_4364_fga/20220922/fr/xml/fedlex-data-admin-ch-eli-cc-1998-5_5494_4818_4364_fga-20220922-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/5_5494_4818_4364_fga/20220922/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,9 +16,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/5_5494_4818_4364_fga/20210921/fr"
 
 Traduction[^t-1]
 
-du 14 décembre 1997 (Etat le 3 septembre 2021)[^t-2]
+du 14 décembre 1997 (État le 22 septembre 2022)[^t-2]
 
-[^t-1]: Texte original italien.
+[^t-1]: Le texte original est publié, sous le même chiffre, dans l’édition italienne du présent recueil.
 [^t-2]: Cette publication se base sur les garanties fédérales publiées dans la FF. Elle peut de ce fait différer temporairement de la publication cantonale. La date de l’état est celle du dernier AF publié dans la FF.
 
 **Préambule**
@@ -221,12 +221,14 @@ Le canton prend des mesures pour que:
 - j) aucun citoyen de son territoire ne soit licencié par suite d’une décision discriminatoire impliquant le remplacement de travailleurs indigènes par des travailleurs étrangers (effet de substitution) ou ne doive accepter de réduction substantielle de son salaire en raison d’un afflux indifférencié de main‑d’œuvre étrangère (sous‑enchère salariale);
 - k) une saine complémentarité professionnelle soit favorisée entre travailleurs suisses et travailleurs étrangers;
 - l) toute personne qui a besoin d’aide pour raison d’âge, d’infirmité, de maladie ou de handicap puisse bénéficier des soins nécessaires et disposer d’un soutien suffisant;
-- m) l’environnement naturel soit protégé des atteintes nuisibles et soit préservé pour les générations futures.[^14-2]
+- m) l’environnement naturel soit protégé des atteintes nuisibles et soit préservé pour les générations futures;
+- n)[^14-2] le principe de la souveraineté alimentaire est respecté en termes d’accès aux denrées alimentaires pour une alimentation variée, d’utilisation durable du territoire et du droit des citoyens à pouvoir décider de leur propre système d’alimentation et de production.[^14-3]
 
 <sup>2</sup> Le canton facilite l’information et en assure le pluralisme; il encourage l’expression artistique et la recherche scientifique.
 
 [^14-1]: Accepté en [votation populaire du 14 juin 2015](http://www.admin.ch/ch/f/pore/va/20150614/index.html), en vigueur depuis le 1<sup>er</sup> sept. 2015. Garantie de l’Ass. féd. du 12 juin 2017 ([FF 2017 4141](https://fedlex.data.admin.ch/eli/fga/2017/1119)art. 3, [1383](https://fedlex.data.admin.ch/eli/fga/2017/279)). Voir disp. trans. de cette mod. à la fin du texte.
-[^14-2]: Accepté en [votation populaire du 25 sept. 2016](http://www.admin.ch/ch/f/pore/va/20160925/index.html), en vigueur depuis le 1<sup>er</sup> avr. 2018. Garantie de l’Ass. féd. du 5 déc. 2017 ([FF 2018 33](https://fedlex.data.admin.ch/eli/fga/2018/7)art. 2; [2017 5481](https://fedlex.data.admin.ch/eli/fga/2017/1581)).
+[^14-2]: Acceptée en [votation populaire du 13 juin 2021](http://www.admin.ch/ch/f/pore/va/20210613/index.html), en vigueur depuis le 1<sup>er</sup> oct. 2021. Garantie de l’Ass. féd. du 22 sept. 2022 ([FF 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)art. 4 al. 1, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
+[^14-3]: Accepté en [votation populaire du 25 sept. 2016](http://www.admin.ch/ch/f/pore/va/20160925/index.html), en vigueur depuis le 1<sup>er</sup> avr. 2018. Garantie de l’Ass. féd. du 5 déc. 2017 ([FF 2018 33](https://fedlex.data.admin.ch/eli/fga/2018/7)art. 2; [2017 5481](https://fedlex.data.admin.ch/eli/fga/2017/1581)).
 
 ## Titre IV Organismes sociaux
 
@@ -581,6 +583,18 @@ Sont soumis au vote du peuple, si 7000 citoyens ayant le droit de vote ou un cin
 - c. les actes d’adhésion à une convention de droit public à caractère législatif.
 
 [^42-1]: Accepté en [votation populaire du 10 fév. 2019](http://www.admin.ch/ch/f/pore/va/20190210/index.html), en vigueur depuis le 15 mars 2019. Garantie de l’Ass. féd. du 11 mars 2020 ([FF 2020 4557](https://fedlex.data.admin.ch/eli/fga/2020/1084)art. 2, [139](https://fedlex.data.admin.ch/eli/fga/2020/12)).
+
+### Référendum financier obligatoire
+
+#### Art. 42a
+
+[^42a-1]
+
+<sup>1</sup> Immédiatement après le vote final sur un acte qui implique une dépense unique supérieure à 30 000 000 de francs ou une dépense annuelle supérieure à 6 000 000 de francs prévue pour une période d’au moins quatre ans, le Grand Conseil soumet la dépense au référendum obligatoire si un tiers des députés présents y est favorable et que la décision est prise par 25 députés au moins.
+
+<sup>2</sup> La loi en réglemente les modalités.
+
+[^42a-1]: Accepté en [votation populaire du 26 sept. 2021](http://www.admin.ch/ch/f/pore/va/20210926/index.html), en vigueur depuis le 18 fév. 2022. Garantie de l’Ass. féd. du 22 sept. 2022 ([FF 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)art. 4 al. 2, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
 
 ### Clause d’urgence
 
@@ -1055,7 +1069,7 @@ La révision totale de la constitution peut être demandée par:
 
 [^titIX-lvlu3-lvl1-1]: Accepté en [votation populaire du 10 fév. 2019](http://www.admin.ch/ch/f/pore/va/20190210/index.html), en vigueur depuis le 15 mars 2019. Garantie de l’Ass. féd. du 11 mars 2020 ([FF 2020 4557](https://fedlex.data.admin.ch/eli/fga/2020/1084)art. 2, [139](https://fedlex.data.admin.ch/eli/fga/2020/12)).
 
-### 2. ...
+### 2. …
 
 #### Art. 85
 
@@ -1582,12 +1596,14 @@ Référendum
 - [tab] – dépense soumise à 59<sup>1q</sup>
 - [tab] – droit d’initiative 17<sup>4</sup>, 28<sup>2,</sup> 59<sup>1r</sup>
 - [tab] – facultatif 42, 45, 94
+- [tab] – financier obligatoire 42*a*
 - [tab] – votation sur 46
 
 Régime financier
 
 - [tab] – frein à l’endettement34<sup>ter</sup>
 - [tab] – principes 34<sup>bis</sup>
+- [tab] – référendum financier obligatoire 42*a*
 
 Religion 7<sup>1</sup>, 24
 

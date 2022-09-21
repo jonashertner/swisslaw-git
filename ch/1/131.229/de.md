@@ -3,11 +3,11 @@ sr: "131.229"
 title: "Verfassung von Republik und Kanton Tessin, vom 14. Dezember 1997"
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/5_5494_4818_4364_fga"
 language: de
-version: 2021-09-21
+version: 2022-09-22
 adopted: 1997-12-14
 in_force: 1998-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/5_5494_4818_4364_fga/20210921/de/xml/fedlex-data-admin-ch-eli-cc-1998-5_5494_4818_4364_fga-20210921-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/5_5494_4818_4364_fga/20210921/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/5_5494_4818_4364_fga/20220922/de/xml/fedlex-data-admin-ch-eli-cc-1998-5_5494_4818_4364_fga-20220922-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/5_5494_4818_4364_fga/20220922/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/5_5494_4818_4364_fga/20210921/de"
 
 Übersetzung[^t-1]
 
-vom 14. Dezember 1997 (Stand am 21. September 2021)[^t-2]
+vom 14. Dezember 1997 (Stand am 22. September 2022)[^t-2]
 
 [^t-1]: Der Text in der italenischen Originalsprache findet sich unter der gleichen Nummer in der entsprechenden Ausgabe dieser Sammlung.
 [^t-2]: Diese Veröffentlichung basiert auf jenen der Änderungen im Rahmen der Gewährleistungsbotschaften im BBl. Sie kann vorübergehend von der Veröffentlichung in der kantonalen Gesetzessammlung abweichen. Der Stand bezeichnet daher das Datum des letzten im BBl veröffentlichten Gewährleistungsbeschlusses der Bundesversammlung.
@@ -69,8 +69,8 @@ Der Kanton hat folgendes Wappen:
 
 <sup>4</sup> Der Staat verfolgt seine Ziele unter Beachtung des Grundsatzes der Subsidiarität.[^4-3]
 
-[^4-1]: Angenommen in der [Volksabstimmung vom 25. Sept. 2016](http://www.admin.ch/ch/d/pore/va/20160925/index.html), in Kraft seit 1. April 2018. Gewährleistungsbeschluss vom 5. Dez. 2017 ([BBl 2018 33](https://fedlex.data.admin.ch/eli/fga/2018/7)Art. 2, [2017 5849](https://fedlex.data.admin.ch/eli/fga/2017/1581)).
-[^4-2]: Angenommen in der [Volksabstimmung vom 5. Juni 2011](http://www.admin.ch/ch/d/pore/va/20110605/index.html), in Kraft seit 28. Juni 2011. Gewährleistungsbeschluss vom 11. März 2015 ([BBl 2015 3035](https://fedlex.data.admin.ch/eli/fga/2015/613)Art. 1 Ziff. 8, [2014 9091](https://fedlex.data.admin.ch/eli/fga/2014/1987)).
+[^4-1]: Angenommen in der [Volksabstimmung vom 25. Sept. 2016](http://www.admin.ch/ch/d/pore/va/20160925/index.html), in Kraft seit 1. April 2018. Gewährleistungsbeschluss vom 5. Dez. 2017 ([BBl 2018 33](https://fedlex.data.admin.ch/eli/fga/2018/7)Art. 2; [2017 5849](https://fedlex.data.admin.ch/eli/fga/2017/1581)).
+[^4-2]: Angenommen in der [Volksabstimmung vom 5. Juni 2011](http://www.admin.ch/ch/d/pore/va/20110605/index.html), in Kraft seit 28. Juni 2011. Gewährleistungsbeschluss vom 11. März 2015 ([BBl 2015 3035](https://fedlex.data.admin.ch/eli/fga/2015/613)Art. 1 Ziff. 8; [2014 9091](https://fedlex.data.admin.ch/eli/fga/2014/1987)).
 [^4-3]: Angenommen in der [Volksabstimmung vom 9. Febr. 2020](http://www.admin.ch/ch/d/pore/va/20200209/index.html), in Kraft seit 28. Febr. 2020. Gewährleistungsbeschluss vom 21. Sept. 2021 ([BBl 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)Art. 4, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
 
 ### Hauptort
@@ -151,7 +151,7 @@ Gewährleistet sind insbesondere:
 
 <sup>3</sup> Das Gesetz regelt die Ausnahmen von Absatz 1 und bestimmt die Sanktionen.
 
-[^9a-1]: Angenommen in der [Volksabstimmung vom 22. Sept. 2013](http://www.admin.ch/ch/d/pore/va/20130922/index.html), in Kraft seit 1. Juli 2016. Gewährleistungsbeschluss vom 11. März 2015 ([BBl 2015 3035](https://fedlex.data.admin.ch/eli/fga/2015/613)Art. 1 Ziff. 8, [2014 9091](https://fedlex.data.admin.ch/eli/fga/2014/1987)).
+[^9a-1]: Angenommen in der [Volksabstimmung vom 22. Sept. 2013](http://www.admin.ch/ch/d/pore/va/20130922/index.html), in Kraft seit 1. Juli 2016. Gewährleistungsbeschluss vom 11. März 2015 ([BBl 2015 3035](https://fedlex.data.admin.ch/eli/fga/2015/613)Art. 1 Ziff. 8; [2014 9091](https://fedlex.data.admin.ch/eli/fga/2014/1987)).
 
 ### Rechtsschutz
 
@@ -191,7 +191,7 @@ Jedermann muss die Pflichten erfüllen, die ihm Verfassung und Gesetze auferlege
 
 <sup>3</sup> Jede Person hat Anspruch auf einen Mindestlohn, der ihr ein würdiges Dasein sichert. Ist ein Mindestlohn nicht durch einen Gesamtarbeitsvertrag garantiert, der allgemeinverbindlich ist oder der einen obligatorischen Mindestlohn vorsieht, so wird ein solcher vom Staatsrat festgelegt in Form eines prozentualen Anteils des nationalen Medianlohnes für die entsprechende Art der Aufgabe im entsprechenden Wirtschaftszweig.[^13-1]
 
-[^13-1]: Angenommen in der [Volksabstimmung vom 14. Juni 2015](http://www.admin.ch/ch/d/pore/va/20150614/index.html), in Kraft seit 1. Sept. 2015. Gewährleistungsbeschluss vom 12. Juni 2017 ([BBl 2017 4419](https://fedlex.data.admin.ch/eli/fga/2017/1119)Art. 3 [1499](https://fedlex.data.admin.ch/eli/fga/2017/279)). Siehe auch die UeB dieser Änd. am Schluss dieses Textes.
+[^13-1]: Angenommen in der [Volksabstimmung vom 14. Juni 2015](http://www.admin.ch/ch/d/pore/va/20150614/index.html), in Kraft seit 1. Sept. 2015. Gewährleistungsbeschluss vom 12. Juni 2017 ([BBl 2017 4419](https://fedlex.data.admin.ch/eli/fga/2017/1119)Art. 3, [1499](https://fedlex.data.admin.ch/eli/fga/2017/279)). Siehe auch die UeB dieser Änd. am Schluss dieses Textes.
 
 ### Sozialziele
 
@@ -213,12 +213,14 @@ Der Kanton setzt sich dafür ein, dass:
 - j) keine Bürgerin und kein Bürger seines Gebiets entlassen wird aufgrund eines diskriminierenden Entscheids, inländische Arbeitskräfte durch ausländische zu ersetzen (Verdrängungseffekt), oder spürbare Lohnsenkungen hinnehmen muss wegen des uneingeschränkten Zustroms ausländischer Arbeitskräfte (Lohndumping);
 - k) eine gesunde berufliche Komplementarität von schweizerischen und ausländischen Arbeitnehmerinnen und Arbeitnehmern gefördert wird;
 - l) jede Person, die wegen Alter, Gebrechlichkeit, Krankheit oder Behinderung der Hilfe bedarf, die notwendige Pflege und ausreichende Unterstützung erhält;
-- m) die natürliche Umwelt vor schädlichen und belastenden Einwirkungen geschützt und für die künftigen Generationen erhalten wird.[^14-2]
+- m) die natürliche Umwelt vor schädlichen und belastenden Einwirkungen geschützt und für die künftigen Generationen erhalten wird;
+- n)[^14-2] der Grundsatz der Ernährungssouveränität eingehalten wird in Bezug auf den Zugang zu Lebensmitteln, die eine abwechslungsreiche Ernährung ermöglichen, auf die nachhaltige Bodennutzung und auf das Recht der Bürgerinnen und Bürger, über das eigene Ernährungs- und Produktionssystem entscheiden zu können.[^14-3]
 
 <sup>2</sup> Der Kanton fördert den Informationsfluss und sichert dessen Vielfalt. Er fördert die Kunst und die wissenschaftliche Forschung.
 
-[^14-1]: Angenommen in der [Volksabstimmung vom 14. Juni 2015](http://www.admin.ch/ch/d/pore/va/20150614/index.html), in Kraft seit 1. Sept. 2015. Gewährleistungsbeschluss vom 12. Juni 2017 ([BBl 2017 4419](https://fedlex.data.admin.ch/eli/fga/2017/1119)Art. 3 [1499](https://fedlex.data.admin.ch/eli/fga/2017/279)). Siehe auch die UeB dieser Änd. am Schluss dieses Textes.
-[^14-2]: Angenommen in der [Volksabstimmung vom 25. Sept. 2016](http://www.admin.ch/ch/d/pore/va/20160925/index.html), in Kraft seit 1. April 2018. Gewährleistungsbeschluss vom 5. Dez. 2017 ([BBl 2018 33](https://fedlex.data.admin.ch/eli/fga/2018/7)Art. 2, [2017 5849](https://fedlex.data.admin.ch/eli/fga/2017/1581)).
+[^14-1]: Angenommen in der [Volksabstimmung vom 14. Juni 2015](http://www.admin.ch/ch/d/pore/va/20150614/index.html), in Kraft seit 1. Sept. 2015. Gewährleistungsbeschluss vom 12. Juni 2017 ([BBl 2017 4419](https://fedlex.data.admin.ch/eli/fga/2017/1119)Art. 3, [1499](https://fedlex.data.admin.ch/eli/fga/2017/279)). Siehe auch die UeB dieser Änd. am Schluss dieses Textes.
+[^14-2]: Angenommen an der [Volksabstimmung vom 13. Juni 2021](http://www.admin.ch/ch/d/pore/va/20210613/index.html), in Kraft seit 1. Okt. 2021. Gewährleistungsbeschluss vom 22. Sept. 2022 ([BBl 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)Art. 4 Abs. 1, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
+[^14-3]: Angenommen in der [Volksabstimmung vom 25. Sept. 2016](http://www.admin.ch/ch/d/pore/va/20160925/index.html), in Kraft seit 1. April 2018. Gewährleistungsbeschluss vom 5. Dez. 2017 ([BBl 2018 33](https://fedlex.data.admin.ch/eli/fga/2018/7)Art. 2; [2017 5849](https://fedlex.data.admin.ch/eli/fga/2017/1581)).
 
 ## Titel IV: Gesellschaftliche Institutionen
 
@@ -232,7 +234,7 @@ Der Kanton setzt sich dafür ein, dass:
 
 <sup>3</sup> Der Kanton und die Gemeinden leisten bei der Wahrnehmung der öffentlichen Aufgaben gemeinsam ihren Beitrag, um der Bevölkerung ein angemessenes Angebot an öffentlichen Dienstleistungen zu gewährleisten, insbesondere im Bereich der schulischen Einrichtungen und der Leistungen im Sozial- und Gesundheitswesen.[^15-1]
 
-[^15-1]: Angenommen in der [Volksabstimmung vom 24. Sept. 2017](http://www.admin.ch/ch/d/pore/va/20170924/index.html), in Kraft seit 1. Nov. 2017. Gewährleistungsbeschluss vom 17. Sept. 2018 ([BBl 2018 6287](https://fedlex.data.admin.ch/eli/fga/2018/2196)Art. 4 [3725](https://fedlex.data.admin.ch/eli/fga/2018/1404)).
+[^15-1]: Angenommen in der [Volksabstimmung vom 24. Sept. 2017](http://www.admin.ch/ch/d/pore/va/20170924/index.html), in Kraft seit 1. Nov. 2017. Gewährleistungsbeschluss vom 17. Sept. 2018 ([BBl 2018 6287](https://fedlex.data.admin.ch/eli/fga/2018/2196)Art. 4, [3725](https://fedlex.data.admin.ch/eli/fga/2018/1404)).
 
 ### Gemeinde
 
@@ -290,9 +292,9 @@ Der Kanton setzt sich dafür ein, dass:
 
 <sup>4</sup> Unter Vorbehalt der Genehmigung des Grossen Rates vereinbaren die Gemeinden direkt Änderungen ihrer Grenzen und Gebietsabtretungen, soweit diese von untergeordneter Bedeutung sind.[^20-3]
 
-[^20-1]: Angenommen in der [Volksabstimmung vom 25. Sept. 2005](http://www.admin.ch/ch/d/pore/va/20050925/index.html), in Kraft seit 25. Sept. 2005. Gewährleistungsbeschluss vom 12. Juni 2006 ([BBl 2006 6127](https://fedlex.data.admin.ch/eli/fga/2006/714)Art. 1 Ziff. 5 [2813](https://fedlex.data.admin.ch/eli/fga/2006/301)).
-[^20-2]: Angenommen in der [Volksabstimmung vom 25. Sept. 2005](http://www.admin.ch/ch/d/pore/va/20050925/index.html), in Kraft seit 25. Sept. 2005. Gewährleistungsbeschluss vom 12. Juni 2006 ([BBl 2006 6127](https://fedlex.data.admin.ch/eli/fga/2006/714)Art. 1 Ziff. 5 [2813](https://fedlex.data.admin.ch/eli/fga/2006/301)).
-[^20-3]: Angenommen in der [Volksabstimmung vom 25. Sept. 2005](http://www.admin.ch/ch/d/pore/va/20050925/index.html), in Kraft seit 25. Sept. 2005. Gewährleistungsbeschluss vom 12. Juni 2006 ([BBl 2006 6127](https://fedlex.data.admin.ch/eli/fga/2006/714)Art. 1 Ziff. 5 [2813](https://fedlex.data.admin.ch/eli/fga/2006/301)).
+[^20-1]: Angenommen in der [Volksabstimmung vom 25. Sept. 2005](http://www.admin.ch/ch/d/pore/va/20050925/index.html), in Kraft seit 25. Sept. 2005. Gewährleistungsbeschluss vom 12. Juni 2006 ([BBl 2006 6127](https://fedlex.data.admin.ch/eli/fga/2006/714)Art. 1 Ziff. 5, [2813](https://fedlex.data.admin.ch/eli/fga/2006/301)).
+[^20-2]: Angenommen in der [Volksabstimmung vom 25. Sept. 2005](http://www.admin.ch/ch/d/pore/va/20050925/index.html), in Kraft seit 25. Sept. 2005. Gewährleistungsbeschluss vom 12. Juni 2006 ([BBl 2006 6127](https://fedlex.data.admin.ch/eli/fga/2006/714)Art. 1 Ziff. 5, [2813](https://fedlex.data.admin.ch/eli/fga/2006/301)).
+[^20-3]: Angenommen in der [Volksabstimmung vom 25. Sept. 2005](http://www.admin.ch/ch/d/pore/va/20050925/index.html), in Kraft seit 25. Sept. 2005. Gewährleistungsbeschluss vom 12. Juni 2006 ([BBl 2006 6127](https://fedlex.data.admin.ch/eli/fga/2006/714)Art. 1 Ziff. 5, [2813](https://fedlex.data.admin.ch/eli/fga/2006/301)).
 
 ### Bezirke
 
@@ -358,7 +360,7 @@ Der Kanton anerkennt die soziale Funktion der Gewerkschaften und der Wirtschafts
 
 <sup>3</sup> Das Stimmrecht wird unter Vorbehalt der vom Gesetz bestimmten Ausnahmen in der Wohnsitzgemeinde ausgeübt.
 
-[^28-1]: Angenommen in der [Volksabstimmung vom 7. März 2010](http://www.admin.ch/ch/d/pore/va/20100307/index.html), in Kraft seit 4. Febr. 2011. Gewährleistungsbeschluss vom 11. März 2015 ([BBl 2015 3035](https://fedlex.data.admin.ch/eli/fga/2015/613)Art. 1 Ziff. 8, [2014 9091](https://fedlex.data.admin.ch/eli/fga/2014/1987)).
+[^28-1]: Angenommen in der [Volksabstimmung vom 7. März 2010](http://www.admin.ch/ch/d/pore/va/20100307/index.html), in Kraft seit 4. Febr. 2011. Gewährleistungsbeschluss vom 11. März 2015 ([BBl 2015 3035](https://fedlex.data.admin.ch/eli/fga/2015/613)Art. 1 Ziff. 8; [2014 9091](https://fedlex.data.admin.ch/eli/fga/2014/1987)).
 
 ### 3. Wählbarkeit
 
@@ -382,7 +384,7 @@ Der Kanton anerkennt die soziale Funktion der Gewerkschaften und der Wirtschafts
 
 <sup>2</sup> Wer sich als nicht wählbar erweist, wird des Amtes enthoben.
 
-[^29a-1]: Angenommen in der [Volksabstimmung vom 9. Febr. 2014](http://www.admin.ch/ch/d/pore/va/20140209/index.html), in Kraft seit 1. März 2015. Gewährleistungsbeschluss vom 11. März 2015 ([BBl 2015 3035](https://fedlex.data.admin.ch/eli/fga/2015/613)Art. 1 Ziff. 8, [2014 9091](https://fedlex.data.admin.ch/eli/fga/2014/1987)).
+[^29a-1]: Angenommen in der [Volksabstimmung vom 9. Febr. 2014](http://www.admin.ch/ch/d/pore/va/20140209/index.html), in Kraft seit 1. März 2015. Gewährleistungsbeschluss vom 11. März 2015 ([BBl 2015 3035](https://fedlex.data.admin.ch/eli/fga/2015/613)Art. 1 Ziff. 8; [2014 9091](https://fedlex.data.admin.ch/eli/fga/2014/1987)).
 
 ### 5. Auslandtessinerinnen und -tessiner
 
@@ -392,7 +394,7 @@ Der Kanton anerkennt die soziale Funktion der Gewerkschaften und der Wirtschafts
 
 Das Gesetz bestimmt die Fälle, in denen die Tessinerbürgerin oder der Tessinerbürger im Ausland die politischen Rechte erwirbt, und legt deren Ausübung fest.
 
-[^30-1]: Angenommen in der [Volksabstimmung vom 10. Febr. 2019](http://www.admin.ch/ch/d/pore/va/20190210/index.html), in Kraft seit 15. März 2019. Gewährleistungsbeschluss vom 11. März 2020 ([BBl 2020 4671](https://fedlex.data.admin.ch/eli/fga/2020/1084)Art. 2 [147](https://fedlex.data.admin.ch/eli/fga/2020/12)).
+[^30-1]: Angenommen in der [Volksabstimmung vom 10. Febr. 2019](http://www.admin.ch/ch/d/pore/va/20190210/index.html), in Kraft seit 15. März 2019. Gewährleistungsbeschluss vom 11. März 2020 ([BBl 2020 4671](https://fedlex.data.admin.ch/eli/fga/2020/1084)Art. 2, [147](https://fedlex.data.admin.ch/eli/fga/2020/12)).
 
 ### Stimmgeheimnis
 
@@ -428,7 +430,7 @@ Die Teilnahme an den Abstimmungen und Wahlen ist eine Bürgerpflicht.
 
 [^titVbis-1]
 
-[^titVbis-1]: Angenommen in der [Volksabstimmung vom 18. Mai 2014](http://www.admin.ch/ch/d/pore/va/20140518/index.html), in Kraft seit 1. Juli 2014. Gewährleistungsbeschluss vom 11. März 2015 ([BBl 2015 3035](https://fedlex.data.admin.ch/eli/fga/2015/613)Art. 1 Ziff. 8, [2014 9091](https://fedlex.data.admin.ch/eli/fga/2014/1987)).
+[^titVbis-1]: Angenommen in der [Volksabstimmung vom 18. Mai 2014](http://www.admin.ch/ch/d/pore/va/20140518/index.html), in Kraft seit 1. Juli 2014. Gewährleistungsbeschluss vom 11. März 2015 ([BBl 2015 3035](https://fedlex.data.admin.ch/eli/fga/2015/613)Art. 1 Ziff. 8; [2014 9091](https://fedlex.data.admin.ch/eli/fga/2014/1987)).
 
 ### Allgemeine Grundsätze
 
@@ -460,7 +462,7 @@ Die Teilnahme an den Abstimmungen und Wahlen ist eine Bürgerpflicht.
 
 [^titVI-1]
 
-[^titVI-1]: Angenommen in der [Volksabstimmung vom 7. März 2010](http://www.admin.ch/ch/d/pore/va/20100307/index.html), in Kraft seit 4. Febr. 2011. Gewährleistungsbeschluss vom 11. März 2015 ([BBl 2015 3035](https://fedlex.data.admin.ch/eli/fga/2015/613)Art. 1 Ziff. 8, [2014 9091](https://fedlex.data.admin.ch/eli/fga/2014/1987)).
+[^titVI-1]: Angenommen in der [Volksabstimmung vom 7. März 2010](http://www.admin.ch/ch/d/pore/va/20100307/index.html), in Kraft seit 4. Febr. 2011. Gewährleistungsbeschluss vom 11. März 2015 ([BBl 2015 3035](https://fedlex.data.admin.ch/eli/fga/2015/613)Art. 1 Ziff. 8; [2014 9091](https://fedlex.data.admin.ch/eli/fga/2014/1987)).
 
 ### Volkswahlen
 
@@ -486,7 +488,7 @@ In der Gemeinde werden vom Volk gewählt:
 - b) der Gemeindevorstand;
 - c) der Gemeindepräsident.
 
-[^35-1]: Angenommen in der [Volksabstimmung vom 9. Febr. 2014](http://www.admin.ch/ch/d/pore/va/20140209/index.html), in Kraft seit 1. März 2015. Gewährleistungsbeschluss vom 11. März 2015 ([BBl 2015 3035](https://fedlex.data.admin.ch/eli/fga/2015/613)Art. 1 Ziff. 8, [2014 9091](https://fedlex.data.admin.ch/eli/fga/2014/1987)).
+[^35-1]: Angenommen in der [Volksabstimmung vom 9. Febr. 2014](http://www.admin.ch/ch/d/pore/va/20140209/index.html), in Kraft seit 1. März 2015. Gewährleistungsbeschluss vom 11. März 2015 ([BBl 2015 3035](https://fedlex.data.admin.ch/eli/fga/2015/613)Art. 1 Ziff. 8; [2014 9091](https://fedlex.data.admin.ch/eli/fga/2014/1987)).
 
 ### Wahlen durch den Grossen Rat
 
@@ -505,7 +507,7 @@ In der Gemeinde werden vom Volk gewählt:
 
 <sup>2</sup> Die Wahl in die Ämter gemäss Abs. l Bst. a–f erfolgt nach Ausschreibung der Stelle und nachdem eine Kommission, die vom Grossen Rat gewählt wird und aus unabhängigen Experten besteht, die Bewerbungen geprüft und begutachtet hat.
 
-[^36-1]: Angenommen in der [Volksabstimmung vom 25. Sept. 2005](http://www.admin.ch/ch/d/pore/va/20050925/index.html), in Kraft seit 25. Sept. 2005. Gewährleistungsbeschluss vom 12. Juni 2006 ([BBl 2006 6127](https://fedlex.data.admin.ch/eli/fga/2006/714)Art. 1 Ziff. 5 [2813](https://fedlex.data.admin.ch/eli/fga/2006/301)).
+[^36-1]: Angenommen in der [Volksabstimmung vom 25. Sept. 2005](http://www.admin.ch/ch/d/pore/va/20050925/index.html), in Kraft seit 25. Sept. 2005. Gewährleistungsbeschluss vom 12. Juni 2006 ([BBl 2006 6127](https://fedlex.data.admin.ch/eli/fga/2006/714)Art. 1 Ziff. 5, [2813](https://fedlex.data.admin.ch/eli/fga/2006/301)).
 
 ### Gesetzesinitiative
 
@@ -519,7 +521,7 @@ In der Gemeinde werden vom Volk gewählt:
 
 <sup>3</sup> Die Unterschriften müssen innert 100 Tagen nach Veröffentlichung des Initiativbegehrens im Amtsblatt gesammelt werden.[^37-1]
 
-[^37-1]: Angenommen in der [Volksabstimmung vom 10. Febr. 2019](http://www.admin.ch/ch/d/pore/va/20190210/index.html), in Kraft seit 15. März 2019. Gewährleistungsbeschluss vom 11. März 2020 ([BBl 2020 4671](https://fedlex.data.admin.ch/eli/fga/2020/1084)Art. 2 [147](https://fedlex.data.admin.ch/eli/fga/2020/12)).
+[^37-1]: Angenommen in der [Volksabstimmung vom 10. Febr. 2019](http://www.admin.ch/ch/d/pore/va/20190210/index.html), in Kraft seit 15. März 2019. Gewährleistungsbeschluss vom 11. März 2020 ([BBl 2020 4671](https://fedlex.data.admin.ch/eli/fga/2020/1084)Art. 2, [147](https://fedlex.data.admin.ch/eli/fga/2020/12)).
 
 ### 2. Gültigkeit
 
@@ -539,8 +541,8 @@ Wird die Unterschriftenzahl erreicht, so überprüft der Grosse Rat zunächst di
 
 <sup>3</sup> Der Grosse Rat kann gleichzeitig einen Gegenvorschlag zur gleichen Materie unterbreiten. Die Initiative kann in jedem Fall zurückgezogen werden.
 
-[^39-1]: Angenommen in der [Volksabstimmung vom 10. Febr. 2019](http://www.admin.ch/ch/d/pore/va/20190210/index.html), in Kraft seit 1. April 2019. Gewährleistungsbeschluss vom 11. März 2020 ([BBl 2020 4671](https://fedlex.data.admin.ch/eli/fga/2020/1084)Art. 2 [147](https://fedlex.data.admin.ch/eli/fga/2020/12)).
-[^39-2]: Angenommen in der [Volksabstimmung vom 10. Febr. 2019](http://www.admin.ch/ch/d/pore/va/20190210/index.html), in Kraft seit 1. April 2019. Gewährleistungsbeschluss vom 11. März 2020 ([BBl 2020 4671](https://fedlex.data.admin.ch/eli/fga/2020/1084)Art. 2 [147](https://fedlex.data.admin.ch/eli/fga/2020/12)).
+[^39-1]: Angenommen in der [Volksabstimmung vom 10. Febr. 2019](http://www.admin.ch/ch/d/pore/va/20190210/index.html), in Kraft seit 1. April 2019. Gewährleistungsbeschluss vom 11. März 2020 ([BBl 2020 4671](https://fedlex.data.admin.ch/eli/fga/2020/1084)Art. 2, [147](https://fedlex.data.admin.ch/eli/fga/2020/12)).
+[^39-2]: Angenommen in der [Volksabstimmung vom 10. Febr. 2019](http://www.admin.ch/ch/d/pore/va/20190210/index.html), in Kraft seit 1. April 2019. Gewährleistungsbeschluss vom 11. März 2020 ([BBl 2020 4671](https://fedlex.data.admin.ch/eli/fga/2020/1084)Art. 2, [147](https://fedlex.data.admin.ch/eli/fga/2020/12)).
 
 ### 4. Abstimmungsverfahren
 
@@ -569,7 +571,19 @@ Der Volksabstimmung unterliegen, wenn dies innert 60 Tagen nach der Veröffentli
 
 - c) Beschlüsse über den Beitritt zu einer Vereinbarung des öffentlichen Rechts mit rechtsetzendem Charakter.
 
-[^42-1]: Angenommen in der [Volksabstimmung vom 10. Febr. 2019](http://www.admin.ch/ch/d/pore/va/20190210/index.html), in Kraft seit 15. März 2019. Gewährleistungsbeschluss vom 11. März 2020 ([BBl 2020 4671](https://fedlex.data.admin.ch/eli/fga/2020/1084)Art. 2 [147](https://fedlex.data.admin.ch/eli/fga/2020/12)).
+[^42-1]: Angenommen in der [Volksabstimmung vom 10. Febr. 2019](http://www.admin.ch/ch/d/pore/va/20190210/index.html), in Kraft seit 15. März 2019. Gewährleistungsbeschluss vom 11. März 2020 ([BBl 2020 4671](https://fedlex.data.admin.ch/eli/fga/2020/1084)Art. 2, [147](https://fedlex.data.admin.ch/eli/fga/2020/12)).
+
+### Obligatorisches Finanzreferendum
+
+#### Art. 42a
+
+[^42a-1]
+
+<sup>1</sup> Unmittelbar nach der Schlussabstimmung über einen Beschluss, der eine einmalige Ausgabe über Fr. 30 000 000.– oder eine jährlich wiederkehrende Ausgabe über Fr. 6 000 000.– während mindestens vier Jahren betrifft, unterstellt der Grosse Rat die Ausgabe dem obligatorischen Referendum, wenn ein Drittel der anwesenden Mitglieder zustimmt, mindestens aber 25 Mitglieder.
+
+<sup>2</sup> Das Gesetz regelt die Modalitäten.
+
+[^42a-1]: Angenommen an der [Volksabstimmung vom 26. Sept. 2021](http://www.admin.ch/ch/d/pore/va/20210926/index.html), in Kraft seit 18. Febr. 2022. Gewährleistungsbeschluss vom 22. Sept. 2022 ([BBl 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)Art. 4 Abs. 2, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
 
 ### Dringlichkeitsklausel
 
@@ -601,7 +615,7 @@ Der Volksabstimmung unterliegen, wenn dies innert 60 Tagen nach der Veröffentli
 
 <sup>3</sup> Das Begehren kommt zustande, wenn es innerhalb der Frist von sechzig Tagen seit der Publikation im amtlichen Publikationsorgan der Gemeinde die Zustimmung von mindestens 30 Prozent der Stimmberechtigten findet.
 
-[^44a-1]: Angenommen in der [Volksabstimmung vom 7. März 2010](http://www.admin.ch/ch/d/pore/va/20100307/index.html), in Kraft seit 4. Febr. 2011. Gewährleistungsbeschluss vom 11. März 2015 ([BBl 2015 3035](https://fedlex.data.admin.ch/eli/fga/2015/613)Art. 1 Ziff. 8, [2014 9091](https://fedlex.data.admin.ch/eli/fga/2014/1987)).
+[^44a-1]: Angenommen in der [Volksabstimmung vom 7. März 2010](http://www.admin.ch/ch/d/pore/va/20100307/index.html), in Kraft seit 4. Febr. 2011. Gewährleistungsbeschluss vom 11. März 2015 ([BBl 2015 3035](https://fedlex.data.admin.ch/eli/fga/2015/613)Art. 1 Ziff. 8; [2014 9091](https://fedlex.data.admin.ch/eli/fga/2014/1987)).
 
 ### Ausführungsbestimmungen
 
@@ -611,7 +625,7 @@ Der Volksabstimmung unterliegen, wenn dies innert 60 Tagen nach der Veröffentli
 
 Das Gesetz enthält die Ausführungsbestimmungen betreffend Abstimmungen, Wahlen, Initiativen, Referenden sowie Begehren um Abberufung des Staatsrates und um Abberufung des Gemeindevorstands.
 
-[^45-1]: Angenommen in der [Volksabstimmung vom 7. März 2010](http://www.admin.ch/ch/d/pore/va/20100307/index.html), in Kraft seit 4. Febr. 2011. Gewährleistungsbeschluss vom 11. März 2015 ([BBl 2015 3035](https://fedlex.data.admin.ch/eli/fga/2015/613)Art. 1 Ziff. 8, [2014 9091](https://fedlex.data.admin.ch/eli/fga/2014/1987)).
+[^45-1]: Angenommen in der [Volksabstimmung vom 7. März 2010](http://www.admin.ch/ch/d/pore/va/20100307/index.html), in Kraft seit 4. Febr. 2011. Gewährleistungsbeschluss vom 11. März 2015 ([BBl 2015 3035](https://fedlex.data.admin.ch/eli/fga/2015/613)Art. 1 Ziff. 8; [2014 9091](https://fedlex.data.admin.ch/eli/fga/2014/1987)).
 
 ### Abstimmungen
 
@@ -623,7 +637,7 @@ Das Gesetz enthält die Ausführungsbestimmungen betreffend Abstimmungen, Wahlen
 
 <sup>3</sup> Die Abstimmung über die Abberufung des Gemeindevorstands muss innert sechzig Tagen seit der Veröffentlichung des Zustandekommens des Begehrens im amtlichen Publikationsorgan der Gemeinde erfolgen.[^46-1]
 
-[^46-1]: Angenommen in der [Volksabstimmung vom 7. März 2010](http://www.admin.ch/ch/d/pore/va/20100307/index.html), in Kraft seit 4. Febr. 2011. Gewährleistungsbeschluss vom 11. März 2015 ([BBl 2015 3035](https://fedlex.data.admin.ch/eli/fga/2015/613)Art. 1 Ziff. 8, [2014 9091](https://fedlex.data.admin.ch/eli/fga/2014/1987)).
+[^46-1]: Angenommen in der [Volksabstimmung vom 7. März 2010](http://www.admin.ch/ch/d/pore/va/20100307/index.html), in Kraft seit 4. Febr. 2011. Gewährleistungsbeschluss vom 11. März 2015 ([BBl 2015 3035](https://fedlex.data.admin.ch/eli/fga/2015/613)Art. 1 Ziff. 8; [2014 9091](https://fedlex.data.admin.ch/eli/fga/2014/1987)).
 
 ## Titel VII: Verhältnis zum Bund, zu den Kantonen und zu den Nachbarländern
 
@@ -643,13 +657,13 @@ Das Gesetz enthält die Ausführungsbestimmungen betreffend Abstimmungen, Wahlen
 
 <sup>2</sup> Nicht wählbar sind Bürger, die wegen eines Verbrechens oder Vergehens, das mit der Würde des Amtes nicht vereinbar ist, zu einer Freiheits- oder Geldstrafe verurteilt worden sind.[^48-1]
 
-[^48-1]: Angenommen in der [Volksabstimmung vom 9. Febr. 2014](http://www.admin.ch/ch/d/pore/va/20140209/index.html), in Kraft seit 1. März 2015. Gewährleistungsbeschluss vom 11. März 2015 ([BBl 2018 33](https://fedlex.data.admin.ch/eli/fga/2018/7)Art. 2, [2017 5849](https://fedlex.data.admin.ch/eli/fga/2017/1581)).
+[^48-1]: Angenommen in der [Volksabstimmung vom 9. Febr. 2014](http://www.admin.ch/ch/d/pore/va/20140209/index.html), in Kraft seit 1. März 2015. Gewährleistungsbeschluss vom 11. März 2015 ([BBl 2018 33](https://fedlex.data.admin.ch/eli/fga/2018/7)Art. 2; [2017 5849](https://fedlex.data.admin.ch/eli/fga/2017/1581)).
 
 ### Grenzüberschreitende Zusammenarbeit und Grundsatz des Minimalstandards
 
 [^titVII-lvlu3-1]
 
-[^titVII-lvlu3-1]: Angenommen in der [Volksabstimmung vom 25. Sept. 2016](http://www.admin.ch/ch/d/pore/va/20160925/index.html), in Kraft seit 1. April 2018. Gewährleistungsbeschluss vom 5. Dez. 2017 ([BBl 2018 33](https://fedlex.data.admin.ch/eli/fga/2018/7)Art. 2, [2017 5849](https://fedlex.data.admin.ch/eli/fga/2017/1581)).
+[^titVII-lvlu3-1]: Angenommen in der [Volksabstimmung vom 25. Sept. 2016](http://www.admin.ch/ch/d/pore/va/20160925/index.html), in Kraft seit 1. April 2018. Gewährleistungsbeschluss vom 5. Dez. 2017 ([BBl 2018 33](https://fedlex.data.admin.ch/eli/fga/2018/7)Art. 2; [2017 5849](https://fedlex.data.admin.ch/eli/fga/2017/1581)).
 
 #### Art. 49
 
@@ -657,13 +671,13 @@ Das Gesetz enthält die Ausführungsbestimmungen betreffend Abstimmungen, Wahlen
 
 <sup>2</sup> Schränkt ein ausländischer Staat mit abschreckenden internen Regelungen oder Umsetzungsmassnahmen den internen Vollzug völkerrechtlicher Verträge, die mit dem Bund geschlossen wurden, ein, so wendet der Kanton unter Beachtung des Grundsatzes der Reziprozität bei der Umsetzung der Verträge dieselben Mindeststandards an.[^49-1]
 
-[^49-1]: Angenommen in der [Volksabstimmung vom 25. Sept. 2016](http://www.admin.ch/ch/d/pore/va/20160925/index.html), in Kraft seit 1. April 2018. Gewährleistungsbeschluss vom 5. Dez. 2017 ([BBl 2018 33](https://fedlex.data.admin.ch/eli/fga/2018/7)Art. 2, [2017 5849](https://fedlex.data.admin.ch/eli/fga/2017/1581)).
+[^49-1]: Angenommen in der [Volksabstimmung vom 25. Sept. 2016](http://www.admin.ch/ch/d/pore/va/20160925/index.html), in Kraft seit 1. April 2018. Gewährleistungsbeschluss vom 5. Dez. 2017 ([BBl 2018 33](https://fedlex.data.admin.ch/eli/fga/2018/7)Art. 2; [2017 5849](https://fedlex.data.admin.ch/eli/fga/2017/1581)).
 
 ### Auftrag an die Behörden und Bekämpfung von Lohndumping
 
 [^titVII-lvlu4-1]
 
-[^titVII-lvlu4-1]: Angenommen in der [Volksabstimmung vom 25. Sept. 2016](http://www.admin.ch/ch/d/pore/va/20160925/index.html), in Kraft seit 1. April 2018. Gewährleistungsbeschluss vom 5. Dez. 2017 ([BBl 2018 33](https://fedlex.data.admin.ch/eli/fga/2018/7)Art. 2, [2017 5849](https://fedlex.data.admin.ch/eli/fga/2017/1581)).
+[^titVII-lvlu4-1]: Angenommen in der [Volksabstimmung vom 25. Sept. 2016](http://www.admin.ch/ch/d/pore/va/20160925/index.html), in Kraft seit 1. April 2018. Gewährleistungsbeschluss vom 5. Dez. 2017 ([BBl 2018 33](https://fedlex.data.admin.ch/eli/fga/2018/7)Art. 2; [2017 5849](https://fedlex.data.admin.ch/eli/fga/2017/1581)).
 
 #### Art. 50
 
@@ -671,7 +685,7 @@ Das Gesetz enthält die Ausführungsbestimmungen betreffend Abstimmungen, Wahlen
 
 <sup>2</sup> In den Beziehungen mit den Nachbarländern wirken die Behörden auf den Arbeitsmarkt entsprechend den Bedürfnissen der im Kantonsgebiet lebenden Personen ein, indem sie die gesunde berufliche Komplementarität von schweizerischen und ausländischen Arbeitnehmerinnen und Arbeitnehmern fördern und den Ersatz inländischer Arbeitskräfte durch ausländische (Verdrängungseffekt) sowie den Wettlauf um Lohnsenkungen (Lohndumping) vermeiden.[^50-1]
 
-[^50-1]: Angenommen in der [Volksabstimmung vom 25. Sept. 2016](http://www.admin.ch/ch/d/pore/va/20160925/index.html), in Kraft seit 1. April 2018. Gewährleistungsbeschluss vom 5. Dez. 2017 ([BBl 2018 33](https://fedlex.data.admin.ch/eli/fga/2018/7)Art. 2, [2017 5849](https://fedlex.data.admin.ch/eli/fga/2017/1581)).
+[^50-1]: Angenommen in der [Volksabstimmung vom 25. Sept. 2016](http://www.admin.ch/ch/d/pore/va/20160925/index.html), in Kraft seit 1. April 2018. Gewährleistungsbeschluss vom 5. Dez. 2017 ([BBl 2018 33](https://fedlex.data.admin.ch/eli/fga/2018/7)Art. 2; [2017 5849](https://fedlex.data.admin.ch/eli/fga/2017/1581)).
 
 ## Titel VIII: Behörden
 
@@ -707,7 +721,7 @@ Das Gesetz regelt die Organisation der drei Gewalten und das Verhältnis zwische
 
 <sup>4</sup> Die Unvereinbarkeiten wegen Verwandtschaft, Auftragsverhältnis oder Beruf werden für die Behördenmitglieder durch das Gesetz geregelt.
 
-[^54-1]: Angenommen in der [Volksabstimmung vom 23. Sept. 2012](http://www.admin.ch/ch/d/pore/va/20120923/index.html), in Kraft seit 1. Jan. 2013. Gewährleistungsbeschluss vom 11. März 2015 ([BBl 2015 3035](https://fedlex.data.admin.ch/eli/fga/2015/613)Art. 1 Ziff. 8, [2014 9091](https://fedlex.data.admin.ch/eli/fga/2014/1987)).
+[^54-1]: Angenommen in der [Volksabstimmung vom 23. Sept. 2012](http://www.admin.ch/ch/d/pore/va/20120923/index.html), in Kraft seit 1. Jan. 2013. Gewährleistungsbeschluss vom 11. März 2015 ([BBl 2015 3035](https://fedlex.data.admin.ch/eli/fga/2015/613)Art. 1 Ziff. 8; [2014 9091](https://fedlex.data.admin.ch/eli/fga/2014/1987)).
 
 ### Ausstand und Ablehnung
 
@@ -768,8 +782,8 @@ Der Grosse Rat:
 
 <sup>2</sup> Jedes Mitglied des Grossen Rates hat das Recht, Initiativen auf Teilrevision der Verfassung und Gesetzesinitiativen einzureichen.
 
-[^59-1]: Angenommen in der [Volksabstimmung vom 9. Febr. 2014](http://www.admin.ch/ch/d/pore/va/20140209/index.html), in Kraft seit 1. März 2015. Gewährleistungsbeschluss vom 11. März 2015 ([BBl 2015 3035](https://fedlex.data.admin.ch/eli/fga/2015/613)Art. 1 Ziff. 8, [2014 9091](https://fedlex.data.admin.ch/eli/fga/2014/1987)).
-[^59-2]: Angenommen in der [Volksabstimmung vom 25. Sept. 2005](http://www.admin.ch/ch/d/pore/va/20050925/index.html), in Kraft seit 25. Sept. 2005. Gewährleistungsbeschluss vom 12. Juni 2006 ([BBl 2006 6127](https://fedlex.data.admin.ch/eli/fga/2006/714)Art. 1 Ziff. 5 [2813](https://fedlex.data.admin.ch/eli/fga/2006/301)).
+[^59-1]: Angenommen in der [Volksabstimmung vom 9. Febr. 2014](http://www.admin.ch/ch/d/pore/va/20140209/index.html), in Kraft seit 1. März 2015. Gewährleistungsbeschluss vom 11. März 2015 ([BBl 2015 3035](https://fedlex.data.admin.ch/eli/fga/2015/613)Art. 1 Ziff. 8; [2014 9091](https://fedlex.data.admin.ch/eli/fga/2014/1987)).
+[^59-2]: Angenommen in der [Volksabstimmung vom 25. Sept. 2005](http://www.admin.ch/ch/d/pore/va/20050925/index.html), in Kraft seit 25. Sept. 2005. Gewährleistungsbeschluss vom 12. Juni 2006 ([BBl 2006 6127](https://fedlex.data.admin.ch/eli/fga/2006/714)Art. 1 Ziff. 5, [2813](https://fedlex.data.admin.ch/eli/fga/2006/301)).
 
 ### Sitzungen
 
@@ -840,7 +854,7 @@ Die verbleibenden Sitze werden verteilt, indem die Stimmenzahl jeder Gruppierung
 
 [^67-1]
 
-[^67-1]: Aufgehoben in der [Volksabstimmung vom 9. Febr. 2014](http://www.admin.ch/ch/d/pore/va/20140209/index.html), in Kraft seit 1. März 2015. Gewährleistungsbeschluss vom 11. März 2015 ([BBl 2015 3035](https://fedlex.data.admin.ch/eli/fga/2015/613)Art. 1 Ziff. 8, [2014 9091](https://fedlex.data.admin.ch/eli/fga/2014/1987)).
+[^67-1]: Aufgehoben in der [Volksabstimmung vom 9. Febr. 2014](http://www.admin.ch/ch/d/pore/va/20140209/index.html), in Kraft seit 1. März 2015. Gewährleistungsbeschluss vom 11. März 2015 ([BBl 2015 3035](https://fedlex.data.admin.ch/eli/fga/2015/613)Art. 1 Ziff. 8; [2014 9091](https://fedlex.data.admin.ch/eli/fga/2014/1987)).
 
 ### Sitzungen
 
@@ -958,7 +972,7 @@ Die Verwaltungsgerichtsbarkeit wird ausgeübt durch:
 
 <sup>3</sup> Das Gesetz bestimmt die Behörde, welche Kompetenzkonflikte im Verwaltungsrecht beurteilt.
 
-[^77-1]: Aufgehoben in der [Volksabstimmung vom 25. Sept. 2005](http://www.admin.ch/ch/d/pore/va/20050925/index.html), mit Wirkung seit 14. Juli 2006. Gewährleistungsbeschluss vom 12. Juni 2006 ([BBl 2006 6127](https://fedlex.data.admin.ch/eli/fga/2006/714)Art. 1 Ziff. 5 [2813](https://fedlex.data.admin.ch/eli/fga/2006/301)).
+[^77-1]: Aufgehoben in der [Volksabstimmung vom 25. Sept. 2005](http://www.admin.ch/ch/d/pore/va/20050925/index.html), mit Wirkung seit 14. Juli 2006. Gewährleistungsbeschluss vom 12. Juni 2006 ([BBl 2006 6127](https://fedlex.data.admin.ch/eli/fga/2006/714)Art. 1 Ziff. 5, [2813](https://fedlex.data.admin.ch/eli/fga/2006/301)).
 
 ### Strafuntersuchungen und öffentliche Anklage
 
@@ -990,7 +1004,7 @@ Das Gesetz legt die Gerichtsorganisation, die Zuständigkeiten, das Verfahren un
 
 <sup>3</sup> Das Gesetz regelt die Wahlbefugnisse des Grossen Rates.
 
-[^81-1]: Angenommen in der [Volksabstimmung vom 25. Sept. 2005](http://www.admin.ch/ch/d/pore/va/20050925/index.html), in Kraft seit 1. Jan. 2006. Gewährleistungsbeschluss vom 12. Juni 2006 ([BBl 2006 6127](https://fedlex.data.admin.ch/eli/fga/2006/714)Art. 1 Ziff. 5 [2813](https://fedlex.data.admin.ch/eli/fga/2006/301)).
+[^81-1]: Angenommen in der [Volksabstimmung vom 25. Sept. 2005](http://www.admin.ch/ch/d/pore/va/20050925/index.html), in Kraft seit 1. Jan. 2006. Gewährleistungsbeschluss vom 12. Juni 2006 ([BBl 2006 6127](https://fedlex.data.admin.ch/eli/fga/2006/714)Art. 1 Ziff. 5, [2813](https://fedlex.data.admin.ch/eli/fga/2006/301)).
 
 ## Titel IX: Verfassungsrevision
 
@@ -1004,7 +1018,7 @@ Das Gesetz legt die Gerichtsorganisation, die Zuständigkeiten, das Verfahren un
 
 <sup>3</sup> Jede Verfassungsrevision muss dem Volk zur Abstimmung unterbreitet werden.
 
-[^82-1]: Angenommen in der [Volksabstimmung vom 10. Febr. 2019](http://www.admin.ch/ch/d/pore/va/20190210/index.html), in Kraft seit 15. März 2019. Gewährleistungsbeschluss vom 11. März 2020 ([BBl 2020 4671](https://fedlex.data.admin.ch/eli/fga/2020/1084)Art. 2 [147](https://fedlex.data.admin.ch/eli/fga/2020/12)).
+[^82-1]: Angenommen in der [Volksabstimmung vom 10. Febr. 2019](http://www.admin.ch/ch/d/pore/va/20190210/index.html), in Kraft seit 15. März 2019. Gewährleistungsbeschluss vom 11. März 2020 ([BBl 2020 4671](https://fedlex.data.admin.ch/eli/fga/2020/1084)Art. 2, [147](https://fedlex.data.admin.ch/eli/fga/2020/12)).
 
 ### Totalrevision:
 
@@ -1022,7 +1036,7 @@ Die Totalrevision der Verfassung kann vorgeschlagen werden:
 
 <sup>2</sup> Die Unterschriften müssen innert 100 Tagen nach Veröffentlichung des Initiativbegehrens im Amtsblatt gesammelt werden.[^83-1]
 
-[^83-1]: Angenommen in der [Volksabstimmung vom 10. Febr. 2019](http://www.admin.ch/ch/d/pore/va/20190210/index.html), in Kraft seit 15. März 2019. Gewährleistungsbeschluss vom 11. März 2020 ([BBl 2020 4671](https://fedlex.data.admin.ch/eli/fga/2020/1084)Art. 2 [147](https://fedlex.data.admin.ch/eli/fga/2020/12)).
+[^83-1]: Angenommen in der [Volksabstimmung vom 10. Febr. 2019](http://www.admin.ch/ch/d/pore/va/20190210/index.html), in Kraft seit 15. März 2019. Gewährleistungsbeschluss vom 11. März 2020 ([BBl 2020 4671](https://fedlex.data.admin.ch/eli/fga/2020/1084)Art. 2, [147](https://fedlex.data.admin.ch/eli/fga/2020/12)).
 
 ### 2. Verfahren
 
@@ -1036,7 +1050,7 @@ Die Totalrevision der Verfassung kann vorgeschlagen werden:
 
 <sup>4</sup> Der Staatsrat und der Grosse Rat wenden dasselbe Verfahren wie für die kantonale Gesetzgebung an.
 
-[^84-1]: Angenommen in der [Volksabstimmung vom 25. Sept. 2005](http://www.admin.ch/ch/d/pore/va/20050925/index.html), in Kraft seit 25. Sept. 2005. Gewährleistungsbeschluss vom 12. Juni 2006 ([BBl 2006 6127](https://fedlex.data.admin.ch/eli/fga/2006/714)Art. 1 Ziff. 5 [2813](https://fedlex.data.admin.ch/eli/fga/2006/301)).
+[^84-1]: Angenommen in der [Volksabstimmung vom 25. Sept. 2005](http://www.admin.ch/ch/d/pore/va/20050925/index.html), in Kraft seit 25. Sept. 2005. Gewährleistungsbeschluss vom 12. Juni 2006 ([BBl 2006 6127](https://fedlex.data.admin.ch/eli/fga/2006/714)Art. 1 Ziff. 5, [2813](https://fedlex.data.admin.ch/eli/fga/2006/301)).
 
 ### Teilrevision
 
@@ -1044,7 +1058,7 @@ Die Totalrevision der Verfassung kann vorgeschlagen werden:
 
 [^titIX-lvlu3-lvl1-1]
 
-[^titIX-lvlu3-lvl1-1]: Angenommen in der [Volksabstimmung vom 10. Febr. 2019](http://www.admin.ch/ch/d/pore/va/20190210/index.html), in Kraft seit 15. März 2019. Gewährleistungsbeschluss vom 11. März 2020 ([BBl 2020 4671](https://fedlex.data.admin.ch/eli/fga/2020/1084)Art. 2 [147](https://fedlex.data.admin.ch/eli/fga/2020/12)).
+[^titIX-lvlu3-lvl1-1]: Angenommen in der [Volksabstimmung vom 10. Febr. 2019](http://www.admin.ch/ch/d/pore/va/20190210/index.html), in Kraft seit 15. März 2019. Gewährleistungsbeschluss vom 11. März 2020 ([BBl 2020 4671](https://fedlex.data.admin.ch/eli/fga/2020/1084)Art. 2, [147](https://fedlex.data.admin.ch/eli/fga/2020/12)).
 
 ### 2. ...
 
@@ -1058,7 +1072,7 @@ Die Totalrevision der Verfassung kann vorgeschlagen werden:
 
 <sup>4</sup> Die Unterschriften müssen innert 100 Tagen nach Veröffentlichung des Initiativbegehrens im Amtsblatt gesammelt werden.[^85-1]
 
-[^85-1]: Angenommen in der [Volksabstimmung vom 10. Febr. 2019](http://www.admin.ch/ch/d/pore/va/20190210/index.html), in Kraft seit 15. März 2019. Gewährleistungsbeschluss vom 11. März 2020 ([BBl 2020 4671](https://fedlex.data.admin.ch/eli/fga/2020/1084)Art. 2 [147](https://fedlex.data.admin.ch/eli/fga/2020/12)).
+[^85-1]: Angenommen in der [Volksabstimmung vom 10. Febr. 2019](http://www.admin.ch/ch/d/pore/va/20190210/index.html), in Kraft seit 15. März 2019. Gewährleistungsbeschluss vom 11. März 2020 ([BBl 2020 4671](https://fedlex.data.admin.ch/eli/fga/2020/1084)Art. 2, [147](https://fedlex.data.admin.ch/eli/fga/2020/12)).
 
 ### 3. Gültigkeit
 
@@ -1092,7 +1106,7 @@ Stellt der Grosse Rat der Volksinitiative auf Teilrevision einen eigenen Gegenvo
 
 <sup>2</sup> Bei einer Teilrevision muss der Grosse Rat innert 18 Monaten nach der Veröffentlichung des Zustandekommens der Volksinitiative im Amtsblatt oder nach der Vorlage der Botschaft durch den Staatsrat die Beratungen abschliessen.[^89-1]
 
-[^89-1]: Angenommen in der [Volksabstimmung vom 25. Sept. 2005](http://www.admin.ch/ch/d/pore/va/20050925/index.html), in Kraft seit 25. Sept. 2005. Gewährleistungsbeschluss vom 12. Juni 2006 ([BBl 2006 6127](https://fedlex.data.admin.ch/eli/fga/2006/714)Art. 1 Ziff. 5 [2813](https://fedlex.data.admin.ch/eli/fga/2006/301)).
+[^89-1]: Angenommen in der [Volksabstimmung vom 25. Sept. 2005](http://www.admin.ch/ch/d/pore/va/20050925/index.html), in Kraft seit 25. Sept. 2005. Gewährleistungsbeschluss vom 12. Juni 2006 ([BBl 2006 6127](https://fedlex.data.admin.ch/eli/fga/2006/714)Art. 1 Ziff. 5, [2813](https://fedlex.data.admin.ch/eli/fga/2006/301)).
 
 ### Abstimmung
 
@@ -1150,13 +1164,13 @@ Behörden und Behördenmitglieder bleiben bis zum Ablauf der Amtszeit nach bishe
 
 Artikel 9*a* tritt gleichzeitig mit dem Ausführungsgesetz in Kraft.
 
-[^96-1]: Angenommen in der [Volksabstimmung vom 22. Sept. 2013](http://www.admin.ch/ch/d/pore/va/20130922/index.html), in Kraft seit 1. Juli 2016. Gewährleistungsbeschluss vom 11. März 2015 ([BBl 2015 3035](https://fedlex.data.admin.ch/eli/fga/2015/613)Art. 1 Ziff. 8, [2014 9091](https://fedlex.data.admin.ch/eli/fga/2014/1987)).
+[^96-1]: Angenommen in der [Volksabstimmung vom 22. Sept. 2013](http://www.admin.ch/ch/d/pore/va/20130922/index.html), in Kraft seit 1. Juli 2016. Gewährleistungsbeschluss vom 11. März 2015 ([BBl 2015 3035](https://fedlex.data.admin.ch/eli/fga/2015/613)Art. 1 Ziff. 8; [2014 9091](https://fedlex.data.admin.ch/eli/fga/2014/1987)).
 
 ## Übergangsbestimmung
 
 [^lvlu12-1]
 
-[^lvlu12-1]: Angenommen in der [Volksabstimmung vom 14. Juni 2015](http://www.admin.ch/ch/d/pore/va/20150614/index.html), in Kraft seit 1. Sept. 2015. Gewährleistungsbeschluss vom 12. Juni 2017 ([BBl 2017 4419](https://fedlex.data.admin.ch/eli/fga/2017/1119)Art. 3 [1499](https://fedlex.data.admin.ch/eli/fga/2017/279)).
+[^lvlu12-1]: Angenommen in der [Volksabstimmung vom 14. Juni 2015](http://www.admin.ch/ch/d/pore/va/20150614/index.html), in Kraft seit 1. Sept. 2015. Gewährleistungsbeschluss vom 12. Juni 2017 ([BBl 2017 4419](https://fedlex.data.admin.ch/eli/fga/2017/1119)Art. 3, [1499](https://fedlex.data.admin.ch/eli/fga/2017/279)).
 
 Die Anpassungen der Erlasse infolge der Änderung der Artikel 13 Absatz 3 und 14 Absatz 1 Buchstabe a der Verfassung treten spätestens am 1. Januar 2016 in Kraft.
 
@@ -1289,9 +1303,13 @@ Diskriminierung
 
 **Einbürgerung** s. Bürgerrecht
 
+**Ernährung** 14<sup>n</sup>
+
 **Familie** 14<sup>f</sup>
 
 **Finanzordnung** 34<sup>bis</sup>, 34<sup>ter</sup>
+
+**Finanzreferendum** 42*a*
 
 **Freiheit s**. Rechte
 
@@ -1477,6 +1495,7 @@ Referendum
 - [tab] – Abstimmung 46
 - [tab] – Ausführungsbestimmungen 45
 - [tab] – fakultatives – 42
+- [tab] – Finanzreferendum 42*a*
 - [tab] – Referendumsrecht – 17<sup>4</sup>, 28<sup>2</sup>
 
 Religion

@@ -3,18 +3,18 @@ sr: "131.229"
 title: "Costituzione della Repubblica e Cantone Ticino, del 14 dicembre 1997"
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/5_5494_4818_4364_fga"
 language: it
-version: 2021-09-21
+version: 2022-09-22
 adopted: 1997-12-14
 in_force: 1998-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/5_5494_4818_4364_fga/20210921/it/xml/fedlex-data-admin-ch-eli-cc-1998-5_5494_4818_4364_fga-20210921-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/5_5494_4818_4364_fga/20210921/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/5_5494_4818_4364_fga/20220922/it/xml/fedlex-data-admin-ch-eli-cc-1998-5_5494_4818_4364_fga-20220922-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/5_5494_4818_4364_fga/20220922/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Costituzione della Repubblica e Cantone Ticino
 
-del 14 dicembre 1997 (Stato 21 settembre 2021)[^t-1]
+del 14 dicembre 1997 (Stato 22 settembre 2022)[^t-1]
 
 [^t-1]: La presente pubblicazione si basa sulle modifiche contenute nei messaggi concernenti il conferimento della garanzia federale pubblicati nel FF. Può divergere temporaneamente dalla versione pubblicata nella raccolta cantonale delle leggi. Lo stato corrisponde quindi alla data dell’ultimo decreto dell’AF che accorda la garanzia federale pubblicato nel FF.
 
@@ -212,12 +212,14 @@ Il Cantone provvede affinché:
 - j) nessun cittadino del suo territorio venga licenziato a seguito di una decisione discriminatoria di sostituzione della manodopera indigena con quella straniera (effetto di sostituzione) oppure debba accettare sensibili riduzioni di salario a causa dell’afflusso indiscriminato della manodopera estera (dumping salariale);
 - k) sia promossa una sana complementarietà professionale tra lavoratori svizzeri e stranieri;
 - l) ogni persona bisognosa di aiuto per ragioni di età, di infermità, di malattia o di handicap possa ricevere le cure necessarie e disporre di un sufficiente sostegno;
-- m) l’ambiente naturale sia protetto dagli effetti nocivi e pregiudizievoli e preservato per le generazioni future.[^14-2]
+- m) l’ambiente naturale sia protetto dagli effetti nocivi e pregiudizievoli e preservato per le generazioni future.
+- n)[^14-2] sia rispettato il principio della sovranità alimentare in quanto ad accessibilità agli alimenti per una dieta variata, alla destinazione d’uso sostenibile del territorio e al diritto dei cittadini di poter decidere del proprio sistema alimentare e produttivo.[^14-3]
 
 <sup>2</sup> Il Cantone facilita l’informazione e ne assicura il pluralismo e promuove l’espressione artistica e la ricerca scientifica.
 
 [^14-1]: Accettata in votazione popolare il 14 giu. 2015, in vigore dal 1° set. 2015. Garanzia dell’AF del 12 giu. 2017 ([FF 2017 3803](https://fedlex.data.admin.ch/eli/fga/2017/1119)art. 3 [1307](https://fedlex.data.admin.ch/eli/fga/2017/279)). Vedi anche la disp. trans. di questa mod. alla fine del presente testo.
-[^14-2]: Accettato nella [votazione popolare del 25 set. 2016](http://www.admin.ch/ch/i/pore/va/20160925/index.html), in vigore dal 1° apr. 2018. Garanzia dell’AF del 5 dic. 2017 ([FF 2018 35](https://fedlex.data.admin.ch/eli/fga/2018/7)art. 2, [2017 4997](https://fedlex.data.admin.ch/eli/fga/2017/1581)).
+[^14-2]: Accettato in [votazione popolare del 13 giu. 2021](http://www.admin.ch/ch/i/pore/va/20210613/index.html), in vigore dal 1° ott. 2021. Garanzia dell’AF del 22 set. 2022 ([FF 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)art. 4 cpv. 1, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
+[^14-3]: Accettato nella [votazione popolare del 25 set. 2016](http://www.admin.ch/ch/i/pore/va/20160925/index.html), in vigore dal 1° apr. 2018. Garanzia dell’AF del 5 dic. 2017 ([FF 2018 35](https://fedlex.data.admin.ch/eli/fga/2018/7)art. 2, [2017 4997](https://fedlex.data.admin.ch/eli/fga/2017/1581)).
 
 ## Titolo IV: Organismi sociali
 
@@ -571,6 +573,18 @@ Sottostanno al voto popolare se richiesto nei sessanta giorni dalla pubblicazion
 - c) gli atti di adesione a una convenzione di diritto pubblico di carattere legislativo.
 
 [^42-1]: Accettato nella [votazione popolare del 10 feb. 2019](http://www.admin.ch/ch/i/pore/va/20190210/index.html), in vigore dal 15 mar. 2019. Garanzia dell’AF dell’11 mar. 2020 ([FF 2020 4199](https://fedlex.data.admin.ch/eli/fga/2020/1084)art. 2, [2020 137](https://fedlex.data.admin.ch/eli/fga/2020/12)).
+
+### Referendum finanziario obbligatorio
+
+#### Art. 42a
+
+[^42a-1]
+
+<sup>1</sup> Immediatamente dopo il voto finale su un atto comportante una spesa unica superiore a fr. 30 000 000.– o una spesa annua superiore a fr. 6 000 000.– per almeno quattro anni, il Gran Consiglio, con un terzo favorevole dei presenti e con un minimo di 25 deputati, vota la referendabilità obbligatoria della spesa.
+
+<sup>2</sup> La legge ne disciplina le modalità.
+
+[^42a-1]: Accettato nella [votazione popolare del 26 set. 2021](http://www.admin.ch/ch/i/pore/va/20210926/index.html), in vigore dal 18 feb. 2022. Garanzia dell’AF del 22 set. 2022 ([FF 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)art. 4 cpv. 2, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
 
 ### Clausola d’urgenza
 
@@ -1560,6 +1574,8 @@ Referendum
 
 - [tab] – diritto al – 17<sup>4</sup>, 28<sup>2</sup>
 - [tab] – facoltativo 42, 45
+- [tab] – finanziario obbligatorio 42*a*
+- [tab] – obbligatorio 42*a*
 - [tab] – votazione 46
 
 Regime finanziario 34*bis* ss
@@ -1645,6 +1661,7 @@ Voto
 - [tab] – di Stato 2
 - [tab] – informazione 34<sup>1</sup>
 - [tab] – popolare 39, 42, 87
+- [tab] – obbligatorio 42*a*
 - [tab] – segretezza 31
 
 v. anche Elezioni, Iniziativa, Referendum
