@@ -3,18 +3,18 @@ sr: "131.233"
 title: "Constitution de la République et Canton de Neuchâtel, du 24 septembre 2000"
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/523_fga"
 language: fr
-version: 2022-03-16
+version: 2022-09-22
 adopted: 2000-09-24
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/523_fga/20220316/fr/xml/fedlex-data-admin-ch-eli-cc-2001-523_fga-20220316-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/523_fga/20220316/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/523_fga/20220922/fr/xml/fedlex-data-admin-ch-eli-cc-2001-523_fga-20220922-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/523_fga/20220922/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Constitution de la République et Canton de Neuchâtel
 
-du 24 septembre 2000 (Etat le 16 mars 2022)[^t-1]
+du 24 septembre 2000 (État le 22 septembre 2022)[^t-1]
 
 [^t-1]: Cette publication se base sur les garanties fédérales publiées dans la FF. Elle peut de ce fait différer temporairement de la publication cantonale. La date de l’état est celle du dernier AF publié dans la FF.
 
@@ -419,9 +419,9 @@ Les électrices et les électeurs élisent les membres du Grand Conseil et les m
 
 <sup>4</sup> La loi règle la procédure électorale.[^39-3]
 
-[^39-1]: Accepté en [votation populaire du 26 sept. 2010](http://www.admin.ch/ch/f/pore/va/20100926/index.html), en vigueur depuis le 20 avr. 2011. Garantie de l’Ass. féd. du 29 sept. 2011 ([FF 2011 7019](https://fedlex.data.admin.ch/eli/fga/2011/1266)art. 1 ch. 8 [4149](https://fedlex.data.admin.ch/eli/fga/2011/693)).
-[^39-2]: Accepté en [votation populaire du 26 sept. 2010](http://www.admin.ch/ch/f/pore/va/20100926/index.html), en vigueur depuis le 20 avr. 2011. Garantie de l’Ass. féd. du 29 sept. 2011 ([FF 2011 7019](https://fedlex.data.admin.ch/eli/fga/2011/1266)art. 1 ch. 8 [4149](https://fedlex.data.admin.ch/eli/fga/2011/693)).
-[^39-3]: Accepté en [votation populaire du 26 sept. 2010](http://www.admin.ch/ch/f/pore/va/20100926/index.html), en vigueur depuis le 20 avr. 2011. Garantie de l’Ass. féd. du 29 sept. 2011 ([FF 2011 7019](https://fedlex.data.admin.ch/eli/fga/2011/1266)art. 1 ch. 8 [4149](https://fedlex.data.admin.ch/eli/fga/2011/693)).
+[^39-1]: Accepté en [votation populaire du 26 sept. 2010](http://www.admin.ch/ch/f/pore/va/20100926/index.html), en vigueur depuis le 20 avr. 2011. de l’Ass. féd. du 29 sept. 2011 ([FF 2011 7019](https://fedlex.data.admin.ch/eli/fga/2011/1266)art. 1 ch. 8 [4149](https://fedlex.data.admin.ch/eli/fga/2011/693)).
+[^39-2]: Accepté en [votation populaire du 26 sept. 2010](http://www.admin.ch/ch/f/pore/va/20100926/index.html), en vigueur depuis le 20 avr. 2011. de l’Ass. féd. du 29 sept. 2011 ([FF 2011 7019](https://fedlex.data.admin.ch/eli/fga/2011/1266)art. 1 ch. 8 [4149](https://fedlex.data.admin.ch/eli/fga/2011/693)).
+[^39-3]: Accepté en [votation populaire du 26 sept. 2010](http://www.admin.ch/ch/f/pore/va/20100926/index.html), en vigueur depuis le 20 avr. 2011. de l’Ass. féd. du 29 sept. 2011 ([FF 2011 7019](https://fedlex.data.admin.ch/eli/fga/2011/1266)art. 1 ch. 8 [4149](https://fedlex.data.admin.ch/eli/fga/2011/693)).
 
 ### Initiative populaire
 
@@ -435,7 +435,7 @@ Les électrices et les électeurs élisent les membres du Grand Conseil et les m
 
 <sup>4</sup> Sont réservées les dispositions sur la révision de la Constitution.
 
-[^40-1]: Accepté en [votation populaire du 17 juin 2007](http://www.admin.ch/ch/f/pore/va/20070617/index.html), en vigueur depuis le 15 août 2007. Garantie de l’Ass. féd. du 12 juin 2008 ([FF 2008 5263](https://fedlex.data.admin.ch/eli/fga/2008/993)art. 1 ch. 4 [1265](https://fedlex.data.admin.ch/eli/fga/2008/355)).
+[^40-1]: Accepté en [votation populaire du 17 juin 2007](http://www.admin.ch/ch/f/pore/va/20070617/index.html), en vigueur depuis le 15 août 2007. de l’Ass. féd. du 12 juin 2008 ([FF 2008 5263](https://fedlex.data.admin.ch/eli/fga/2008/993)art. 1 ch. 4 [1265](https://fedlex.data.admin.ch/eli/fga/2008/355)).
 
 ### Motion populaire
 
@@ -465,8 +465,8 @@ La demande de vote populaire peut avoir pour objet un acte du Grand Conseil parm
 
 <sup>4</sup> Sont toutefois exclus du référendum le budget, les comptes, les élections, l’amnistie, la grâce, les décisions de nature juridictionnelle et les décisions de procédure.[^42-5]
 
-[^42-1]: Accepté en [votation populaire du 17 juin 2007](http://www.admin.ch/ch/f/pore/va/20070617/index.html), en vigueur depuis le 15 août 2007. Garantie de l’Ass. féd. du 12 juin 2008 ([FF 2008 5263](https://fedlex.data.admin.ch/eli/fga/2008/993)art. 1 ch. 4 [1265](https://fedlex.data.admin.ch/eli/fga/2008/355)).
-[^42-2]: Accepté en [votation populaire du 17 juin 2007](http://www.admin.ch/ch/f/pore/va/20070617/index.html), en vigueur depuis le 15 août 2007. Garantie de l’Ass. féd. du 12 juin 2008 ([FF 2008 5263](https://fedlex.data.admin.ch/eli/fga/2008/993)art. 1 ch. 4 [1265](https://fedlex.data.admin.ch/eli/fga/2008/355)).
+[^42-1]: Accepté en [votation populaire du 17 juin 2007](http://www.admin.ch/ch/f/pore/va/20070617/index.html), en vigueur depuis le 15 août 2007. de l’Ass. féd. du 12 juin 2008 ([FF 2008 5263](https://fedlex.data.admin.ch/eli/fga/2008/993)art. 1 ch. 4 [1265](https://fedlex.data.admin.ch/eli/fga/2008/355)).
+[^42-2]: Accepté en [votation populaire du 17 juin 2007](http://www.admin.ch/ch/f/pore/va/20070617/index.html), en vigueur depuis le 15 août 2007. de l’Ass. féd. du 12 juin 2008 ([FF 2008 5263](https://fedlex.data.admin.ch/eli/fga/2008/993)art. 1 ch. 4 [1265](https://fedlex.data.admin.ch/eli/fga/2008/355)).
 [^42-3]: Accepté en [votation populaire du 24 sept. 2017](http://www.admin.ch/ch/f/pore/va/20170924/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2018. Garantie de l’Ass. féd. du 17 sept. 2018 ([FF 2018 6319](https://fedlex.data.admin.ch/eli/fga/2018/2196)art. 5 [3849](https://fedlex.data.admin.ch/eli/fga/2018/1404)).
 [^42-4]: Anciennement al. 2.
 [^42-5]: Anciennement al. 3.
@@ -551,7 +551,7 @@ Sont éligibles comme membres des autorités cantonales les électrices et les �
 
 La loi peut prévoir la destitution des membres du Conseil d’État et des autorités judiciaires, de même que la dissolution du Conseil d’État. Elle en règle la procédure et les conditions.
 
-[^50a-1]: Accepté en [votation populaire du 30 nov. 2014](http://www.admin.ch/ch/f/pore/va/20141130/index.html), en vigueur depuis le 30 nov. 2014. Garantie de l’Ass. féd. du 16 mars 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 3 al. 2; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
+[^50a-1]: Accepté en [votation populaire du 30 nov. 2014](http://www.admin.ch/ch/f/pore/va/20141130/index.html), en vigueur depuis le 30 nov. 2014. de l’Ass. féd. du 16 mars 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 3 al. 2; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
 
 ### Devoir d’information
 
@@ -619,7 +619,7 @@ Le Grand Conseil adopte les lois.
 <sup>4</sup> La même majorité est requise pour l’adoption de tout budget annuel dérogeant aux dispositions prévues par la loi en matière de limite de l’endettement.[^57-3]
 
 [^57-1]: Accepté en [votation populaire du 5 juin 2005](http://www.admin.ch/ch/f/pore/va/20050605/index.html), en vigueur depuis le 1<sup>er</sup> juil. 2005. Garantie de l’Ass. féd. du 12 juin 2006 ([FF 2006 5853](https://fedlex.data.admin.ch/eli/fga/2006/714)art. 1 ch. 6 [2725](https://fedlex.data.admin.ch/eli/fga/2006/301)).
-[^57-2]: Accepté en [votation populaire du 17 juin 2012](http://www.admin.ch/ch/f/pore/va/20120617/index.html), en vigueur depuis le 1<sup>er</sup> sept. 2012. Garantie de l’Ass. féd. du 23 sept. 2013 (FF **2013** 7048 art. 1 ch. 6 [3447](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^57-2]: Accepté en [votation populaire du 17 juin 2012](http://www.admin.ch/ch/f/pore/va/20120617/index.html), en vigueur depuis le 1<sup>er</sup> sept. 2012. de l’Ass. féd. du 23 sept. 2013 (FF **2013** 7048 art. 1 ch. 6 [3447](https://fedlex.data.admin.ch/eli/fga/2013/855)).
 [^57-3]: Accepté en [votation populaire du 5 juin 2005](http://www.admin.ch/ch/f/pore/va/20050605/index.html), en vigueur depuis le 1<sup>er</sup> juil. 2005. Garantie de l’Ass. féd. du 12 juin 2006 ([FF 2006 5853](https://fedlex.data.admin.ch/eli/fga/2006/714)art. 1 ch. 6 [2725](https://fedlex.data.admin.ch/eli/fga/2006/301)).
 
 ### Planification
@@ -638,7 +638,7 @@ Le Grand Conseil exerce les compétences de planification que la loi lui attribu
 
 <sup>2</sup> Il exerce également la haute surveillance sur la gestion des autorités judiciaires.
 
-[^59-1]: Accepté en [votation populaire du 17 juin 2007](http://www.admin.ch/ch/f/pore/va/20070617/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2008. Garantie de l’Ass. féd. du 12 juin 2008 ([FF 2008 5263](https://fedlex.data.admin.ch/eli/fga/2008/993)art. 1 ch. 4 [1265](https://fedlex.data.admin.ch/eli/fga/2008/355)).
+[^59-1]: Accepté en [votation populaire du 17 juin 2007](http://www.admin.ch/ch/f/pore/va/20070617/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2008. de l’Ass. féd. du 12 juin 2008 ([FF 2008 5263](https://fedlex.data.admin.ch/eli/fga/2008/993)art. 1 ch. 4 [1265](https://fedlex.data.admin.ch/eli/fga/2008/355)).
 
 ### Élections
 
@@ -685,7 +685,9 @@ Le Grand Conseil:
 
 <sup>2</sup> Les membres du Grand Conseil peuvent se constituer en groupes politiques.
 
-<sup>3</sup> Le Grand Conseil crée, parmi ses membres et à proportion de l’effectif des groupes, des commissions, qui ont en particulier pour tâche de préparer ses délibérations.
+<sup>3</sup> Le Grand Conseil constitue parmi ses membres des commissions qui ont en particulier pour tâche de préparer ses délibérations; la loi en règle le cadre institutionnel.[^63-1]
+
+[^63-1]: Accepté en [votation populaire du 3 mars 2013](http://www.admin.ch/ch/f/pore/va/20130303/index.html), en vigueur depuis le 25 mars 2013. Garantie de l’Ass. féd. du 22 sept. 2022 ([FF 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)art. 5 al. 1, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
 
 ### Initiative
 
@@ -843,11 +845,17 @@ La chancellerie d’État assiste le Conseil d’État dans l’exercice de ses 
 
 [^81-1]: Phrase acceptée en [votation populaire du 24 sept. 2017](http://www.admin.ch/ch/f/pore/va/20170924/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2018. Garantie de l’Ass. féd. du 17 sept. 2018 ([FF 2018 6319](https://fedlex.data.admin.ch/eli/fga/2018/2196)art. 5 [3849](https://fedlex.data.admin.ch/eli/fga/2018/1404)).
 
-### Participation du Conseil d’État aux séances du Grand Conseil et de ses commissions
+### Participation du Conseil d’État aux séances du Grand Conseil et de ses organes
 
 #### Art. 82
 
-Les membres du Conseil d’État peuvent participer aux séances du Grand Conseil et à celles de ses commissions, y prendre la parole et y faire des propositions.
+[^82-1]
+
+<sup>1</sup> Les membres du Conseil d’État peuvent participer aux séances du Grand Conseil, y prendre la parole et y faire des propositions dans la mesure prévue par la loi.
+
+<sup>2</sup> La participation des membres du Conseil d’État aux séances des organes du Grand Conseil ainsi que son étendue sont régies par la loi.
+
+[^82-1]: Accepté en [votation populaire du 3 mars 2013](http://www.admin.ch/ch/f/pore/va/20130303/index.html), en vigueur depuis le 25 mars 2013. Garantie de l’Ass. féd. du 22 sept. 2022 ([FF 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)art. 5 al. 1, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
 
 ### Chapitre 5 Les autorités judiciaires
 
@@ -959,11 +967,12 @@ L’autonomie des communes est garantie dans les limites de la législation cant
 
 <sup>4</sup> Pour le Conseil communal, la commune décide s’il est élu par le peuple ou par le Conseil général et fixe le système électoral.
 
-<sup>5</sup> La loi détermine le corps électoral communal et règle la procédure électorale, de même que ce qui a trait à l’initiative et au référendum populaires.
+<sup>5</sup> La loi détermine le corps électoral communal et règle la procédure électorale, de même que ce qui a trait à l’initiative, au référendum et à la motion populaires.[^95-1]
 
-<sup>6</sup> La loi peut prévoir la destitution des membres du Conseil communal. Elle en règle la procédure et les conditions.[^95-1]
+<sup>6</sup> La loi peut prévoir la destitution des membres du Conseil communal. Elle en règle la procédure et les conditions.[^95-2]
 
-[^95-1]: Accepté en [votation populaire du 30 nov. 2014](http://www.admin.ch/ch/f/pore/va/20141130/index.html), en vigueur depuis le 30 nov. 2014. Garantie de l’Ass. féd. du 16 mars 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 3 al. 2; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
+[^95-1]: Accepté en [votation populaire du 30 nov. 2014](http://www.admin.ch/ch/f/pore/va/20141130/index.html), en vigueur depuis le 30 nov. 2014. Garantie de l’Ass. féd. du 22 sept. 2022 ([FF 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)art. 5 al. 2, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
+[^95-2]: Accepté en [votation populaire du 30 nov. 2014](http://www.admin.ch/ch/f/pore/va/20141130/index.html), en vigueur depuis le 30 nov. 2014. Garantie de l’Ass. féd. du 16 mars 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 3 al. 2; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
 
 ### Surveillance de l’État
 

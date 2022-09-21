@@ -3,11 +3,11 @@ sr: "131.233"
 title: "Costituzione della Repubblica e Cantone di Neuchâtel, del 24 settembre 2000"
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/523_fga"
 language: it
-version: 2022-03-16
+version: 2022-09-22
 adopted: 2000-09-24
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/523_fga/20220316/it/xml/fedlex-data-admin-ch-eli-cc-2001-523_fga-20220316-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/523_fga/20220316/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/523_fga/20220922/it/xml/fedlex-data-admin-ch-eli-cc-2001-523_fga-20220922-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/523_fga/20220922/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,10 +16,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/523_fga/20220316/it"
 
 Traduzione[^t-1]
 
-del 24 settembre 2000 (Stato 16 marzo 2022)[^t-2]
+del 24 settembre 2000 (Stato 22 settembre 2022) (Stato 22 settembre 2022)
 
 [^t-1]: Il testo nella lingua originale è pubblicato sotto lo stesso numero nell’ediz. franc. della presente Raccolta.
-[^t-2]: La presente pubblicazione si basa sulle mod. contenute nei messaggi concernenti il conferimento della garanzia federale pubblicati nel FF. Può divergere temporaneamente dalla versione pubblicata nella raccolta cantonale delle leggi. Lo stato corrisponde quindi alla data dell’ultimo decreto dell’AF che accorda la garanzia federale pubblicato nel FF.
 
 Il Popolo del Cantone di Neuchâtel,
 
@@ -692,7 +691,9 @@ Il Gran Consiglio:
 
 <sup>2</sup> I membri del Gran Consiglio possono organizzarsi in gruppi parlamentari.
 
-<sup>3</sup> Il Gran Consiglio istituisce al suo interno, proporzionalmente alla forza numerica dei gruppi, commissioni incaricate in particolare di preparare le deliberazioni.
+<sup>3</sup> Il Gran Consiglio istituisce al suo interno commissioni incaricate in particolare di preparare le deliberazioni; la legge ne disciplina il quadro istituzionale.[^63-1]
+
+[^63-1]: Accettato nella [votazione popolare del 3 mar. 2013](http://www.admin.ch/ch/i/pore/va/20130303/index.html), in vigore dal 25 mar. 2013. Garanzia dell’AF del 22 set. 2022 ([FF 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)art. 5 cpv. 1, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
 
 ### Iniziativa
 
@@ -850,11 +851,17 @@ La Cancelleria dello Stato assiste il Consiglio di Stato nell’esercizio delle 
 
 [^81-1]: Per. accettato nella [votazione popolare del 24 set. 2017](http://www.admin.ch/ch/i/pore/va/20170924/index.html), in vigore dal 1° gen. 2018. Garanzia dell’AF del 17 set. 2018 ([FF 2018 5335](https://fedlex.data.admin.ch/eli/fga/2018/2196)art. 5 [3161](https://fedlex.data.admin.ch/eli/fga/2018/1404)).
 
-### Partecipazione del Consiglio di Stato alle sedute del Gran Consiglio e delle sue commissioni
+### Partecipazione del Consiglio di Stato alle sedute del Gran Consiglio e dei suoi organi
 
 #### Art. 82
 
-I membri del Consiglio di Stato possono partecipare alle sedute del Gran Consiglio e a quelle delle commissioni parlamentari, prendervi la parola e fare proposte.
+[^82-1]
+
+<sup>1</sup> I membri del Consiglio di Stato possono partecipare alle sedute del Gran Consiglio, prendervi la parola e fare proposte nella misura prevista dalla legge.
+
+<sup>2</sup> La partecipazione dei membri del Consiglio di Stato alle sedute degli organi del Gran Consiglio e i suoi limiti sono disciplinati dalla legge.
+
+[^82-1]: Accettato nella [votazione popolare del 3 mar. 2013](http://www.admin.ch/ch/i/pore/va/20130303/index.html), in vigore dal 25 mar. 2013. Garanzia dell’AF del 22 set. 2022 ([FF 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)art. 5 cpv. 1, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
 
 ### Capitolo 5: Autorità giudiziarie
 
@@ -966,11 +973,12 @@ L’autonomia dei Comuni è garantita nei limiti della legislazione cantonale.
 
 <sup>4</sup> Per il Municipio, il Comune decide se l’elezione è fatta dal Popolo o dal Consiglio comunale e stabilisce il sistema elettorale.
 
-<sup>5</sup> La legge determina il corpo elettorale comunale e disciplina la procedura elettorale, nonché quanto attiene all’iniziativa e al referendum popolari.
+<sup>5</sup> La legge determina il corpo elettorale comunale e disciplina la procedura elettorale, nonché quanto attiene all’iniziativa, al referendum e alla mozione popolari.[^95-1]
 
-<sup>6</sup> La legge può prevedere la destituzione dei membri del Consiglio comunale. Ne disciplina la procedura e le condizioni.[^95-1]
+<sup>6</sup> La legge può prevedere la destituzione dei membri del Consiglio comunale. Ne disciplina la procedura e le condizioni.[^95-2]
 
-[^95-1]: Accettato nella [votazione popolare del 30 nov. 2014](http://www.admin.ch/ch/i/pore/va/20141130/index.html), in vigore dal 30 nov. 2014. Garanzia dell’AF del 16 mar. 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 3 cpv. 2; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
+[^95-1]: Accettato nella [votazione popolare del 30 nov. 2014](http://www.admin.ch/ch/i/pore/va/20141130/index.html), in vigore dal 30 nov. 2014. Garanzia dell’AF del 22 set. 2022 ([FF 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)art. 5 cpv. 2, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
+[^95-2]: Accettato nella [votazione popolare del 30 nov. 2014](http://www.admin.ch/ch/i/pore/va/20141130/index.html), in vigore dal 30 nov. 2014. Garanzia dell’AF del 16 mar. 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 3 cpv. 2; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
 
 ### Vigilanza dello Stato
 

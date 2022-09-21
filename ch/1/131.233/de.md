@@ -3,11 +3,11 @@ sr: "131.233"
 title: "Verfassung von Republik und Kanton Neuenburg, vom 24. September 2000"
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/523_fga"
 language: de
-version: 2022-03-16
+version: 2022-09-22
 adopted: 2000-09-24
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/523_fga/20220316/de/xml/fedlex-data-admin-ch-eli-cc-2001-523_fga-20220316-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/523_fga/20220316/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/523_fga/20220922/de/xml/fedlex-data-admin-ch-eli-cc-2001-523_fga-20220922-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/523_fga/20220922/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/523_fga/20220316/de"
 
 Übersetzung[^t-1]
 
-vom 24. September 2000 (Stand am 16. März 2022)[^t-2]
+vom 24. September 2000 (Stand am 22. September 2022)[^t-2]
 
 [^t-1]: Der Text in der französischen Originalsprache findet sich unter der gleichen Nummer in der entsprechenden Ausgabe dieser Sammlung.
 [^t-2]: Diese Veröffentlichung basiert auf jenen der Änderungen im Rahmen der Gewährleis-tungsbotschaften im BBl. Sie kann vorübergehend von der Veröffentlichung in der kantonalen Gesetzessammlung abweichen. Der Stand bezeichnet daher das Datum des letzten im BBl veröffentlichten Gewährleistungsbeschlusses der Bundesversammlung.
@@ -691,7 +691,9 @@ Der Grosse Rat:
 
 <sup>2</sup> Die Mitglieder des Grossen Rates können Fraktionen bilden.
 
-<sup>3</sup> Der Grosse Rat kann aus seiner Mitte Kommissionen schaffen, die entsprechend der Grösse der Fraktionen zusammengesetzt sind; Aufgabe der Kommissionen ist insbesondere die Vorbereitung der Beratungen des Grossen Rates.
+<sup>3</sup> Der Grosse Rat kann aus seiner Mitte Kommissionen schaffen, deren Aufgabe insbesondere die Vorbereitung der Beratungen des Grossen Rates ist; das Gesetz regelt den institutionellen Rahmen.[^63-1]
+
+[^63-1]: Angenommen an der [Volksabstimmung vom 3. März 2013](http://www.admin.ch/ch/d/pore/va/20130303/index.html), in Kraft seit 25. März 2013. Gewährleistungsbeschluss vom 22. Sept. 2022 ([BBl 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)Art. 5 Abs. 1, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
 
 ### Initiative
 
@@ -849,11 +851,17 @@ Die Staatskanzlei unterstützt den Staatsrat bei der Erfüllung seiner Aufgaben.
 
 [^81-1]: Zweiter Satz angenommen in der [Volksabstimmung vom 24. Sept. 2017](http://www.admin.ch/ch/d/pore/va/20170924/index.html), in Kraft seit 1. Jan. 2018. Gewährleistungsbeschluss vom 17. Sept. 2018 ([BBl 2018 6287](https://fedlex.data.admin.ch/eli/fga/2018/2196)Art. 5, [3725](https://fedlex.data.admin.ch/eli/fga/2018/1404)).
 
-### Teilnahme des Staatsrates an Sitzungen des Grossen Rates und seiner Kommissionen
+### Teilnahme des Staatsrates an Sitzungen des Grossen Rates und seiner Organe
 
 #### Art. 82
 
-Die Mitglieder des Staatsrates können an den Sitzungen des Grossen Rates und an denjenigen seiner Kommissionen teilnehmen; sie haben das Recht, das Wort zu ergreifen und Anträge zu stellen.
+[^82-1]
+
+<sup>1</sup> Die Mitglieder des Staatsrates können an den Sitzungen des Grossen Rates teilnehmen und, soweit es das Gesetz vorsieht, das Wort ergreifen und Anträge stellen.
+
+<sup>2</sup> Die Teilnahme der Mitglieder des Staatsrates an den Sitzungen der Organe des Grossen Rates und den Umfang ihrer Teilnahme bestimmt das Gesetz.
+
+[^82-1]: Angenommen an der [Volksabstimmung vom 3. März 2013](http://www.admin.ch/ch/d/pore/va/20130303/index.html), in Kraft seit 25. März 2013. Gewährleistungsbeschluss vom 22. Sept. 2022 ([BBl 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)Art. 5 Abs. 1, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
 
 ### 5. Kapitel: Richterliche Behörden
 
@@ -965,11 +973,12 @@ Die Autonomie der Gemeinden ist im Rahmen der kantonalen Gesetzgebung gewährlei
 
 <sup>4</sup> Die Gemeinde entscheidet, ob der Gemeinderat vom Volk oder vom Generalrat gewählt wird, und legt das Wahlverfahren fest.
 
-<sup>5</sup> Das Gesetz bestimmt, wer in Gemeindeangelegenheiten stimmberechtigt ist, und regelt das Wahlverfahren sowie die Volksinitiative und das Referendum.
+<sup>5</sup> Das Gesetz bestimmt, wer in Gemeindeangelegenheiten stimmberechtigt ist, und regelt das Wahlverfahren sowie die Volksinitiative, das Volksreferendum und die Volksmotion.[^95-1]
 
-<sup>6</sup> Das Gesetz kann die Amtsenthebung von Mitgliedern des Gemeinderats vorsehen. Es regelt das Verfahren und die Voraussetzungen.[^95-1]
+<sup>6</sup> Das Gesetz kann die Amtsenthebung von Mitgliedern des Gemeinderats vorsehen. Es regelt das Verfahren und die Voraussetzungen.[^95-2]
 
-[^95-1]: Angenommen in der [Volksabstimmung vom 30. Nov. 2014](http://www.admin.ch/ch/d/pore/va/20141130/index.html), in Kraft seit 30. Nov. 2014. Gewährleistungsbeschluss vom 16. März 2022 ([BBl 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)Art. 3 Abs. 2; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
+[^95-1]: Angenommen an der [Volksabstimmung vom 30. Nov. 2014](http://www.admin.ch/ch/d/pore/va/20141130/index.html), in Kraft seit 30. Nov. 2014. Gewährleistungsbeschluss vom 22. Sept. 2022 ([BBl 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)Art. 5 Abs. 2, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
+[^95-2]: Angenommen in der [Volksabstimmung vom 30. Nov. 2014](http://www.admin.ch/ch/d/pore/va/20141130/index.html), in Kraft seit 30. Nov. 2014. Gewährleistungsbeschluss vom 16. März 2022 ([BBl 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)Art. 3 Abs. 2; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
 
 ### Aufsicht des Staates
 
