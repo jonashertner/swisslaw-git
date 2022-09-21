@@ -3,11 +3,11 @@ sr: "131.224.2"
 title: "Costituzione del Cantone di Appenzello Interno, del 24 novembre 1872"
 eli: "https://fedlex.data.admin.ch/eli/cc/1872/3_842_832_842_fga"
 language: it
-version: 2019-03-22
+version: 2022-09-22
 adopted: 1872-11-24
 in_force: 1873-04-27
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1872/3_842_832_842_fga/20190322/it/xml/fedlex-data-admin-ch-eli-cc-1872-3_842_832_842_fga-20190322-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1872/3_842_832_842_fga/20190322/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1872/3_842_832_842_fga/20220922/it/xml/fedlex-data-admin-ch-eli-cc-1872-3_842_832_842_fga-20220922-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1872/3_842_832_842_fga/20220922/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,9 +16,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/1872/3_842_832_842_fga/20190322/it"
 
 Traduzione[^t-1]
 
-del 24 novembre 1872 (Stato 22 marzo 2019)[^t-2]
+del 24 novembre 1872 (Stato 22 settembre 2022)[^t-2]
 
-[^t-1]: Dal testo originale tedesco.
+[^t-1]: Il testo nella lingua originale è pubblicato sotto lo stesso numero nell’ediz. ted. della presente Raccolta.
 [^t-2]: La presente pubblicazione si basa sulle modifiche contenute nei messaggi concernenti il conferimento della garanzia federale pubblicati nel FF. Può divergere temporaneamente dalla versione pubblicata nella raccolta cantonale delle leggi. Lo stato corrisponde quindi alla data dell’ultimo decreto dell’AF che accorda la garanzia federale pubblicato nel FF.
 
 ## Sezione I: Disposizioni generali
@@ -29,9 +29,9 @@ del 24 novembre 1872 (Stato 22 marzo 2019)[^t-2]
 
 <sup>2</sup> Il Popolo si dà la propria Costituzione, decide circa l’accettazione o la reiezione delle leggi e partecipa alle elezioni che competono alla Landsgemeinde.
 
-<sup>3</sup> Il Gran Consiglio emana mediante ordinanza le disposizioni necessarie.[^1-1]
+<sup>3</sup> In tutte le votazioni popolari e consiliari decide la maggioranza assoluta dei votanti. I Distretti e i Comuni hanno facoltà di sostituire al voto palese nell’Assemblea comunale il voto segreto alle urne. L’introduzione del voto alle urne è decisa a scrutinio segreto. Il Gran Consiglio emana mediante ordinanza le disposizioni necessarie.[^1-1]
 
-[^1-1]: Accettato dalla Landsgemeinde del 28 apr. 2013, in vigore dal 28 apr. 2013. Garanzia dell’AF del 3 mar. 2016 ([FF 2016 1975](https://fedlex.data.admin.ch/eli/fga/2016/476)art. 6 lett. a, [2015 6231](https://fedlex.data.admin.ch/eli/fga/2015/1854)).
+[^1-1]: Per accettato dalla Landsgemeinde del 28 apr. 2013, in vigore dal 28 apr. 2013. Garanzia dell’AF del 3 mar. 2016 ([FF 2016 1975](https://fedlex.data.admin.ch/eli/fga/2016/476)art. 6 lett. a, [2015 6231](https://fedlex.data.admin.ch/eli/fga/2015/1854)).
 
 #### Art. 2
 
@@ -510,7 +510,7 @@ Non possono far parte simultaneamente del Consiglio di Stato o di un tribunale:
 
 <sup>6</sup> I membri uscenti del Gran Consiglio devono essere sostituiti appena possibile. Il neoeletto subentra per il resto della legislatura.
 
-<sup>7</sup> I Distretti possono fissare a quattro anni al massimo la durata delle funzioni dei consiglieri distrettuali, dei membri del tribunale distrettuale, dei conciliatori e dei loro supplenti.[^33-5]
+<sup>7</sup> I Distretti possono fissare a quattro anni al massimo la durata delle funzioni dei consiglieri distrettuali, dei membri del tribunale distrettuale e dei conciliatori.[^33-5]
 
 <sup>8</sup> ...[^33-6]
 
@@ -518,7 +518,7 @@ Non possono far parte simultaneamente del Consiglio di Stato o di un tribunale:
 [^33-2]: Accettato dalla Landsgemeinde del 27 apr. 2003, in vigore dal 27 apr. 2003. Garanzia dell’AF del 14 mar. 2005 ([FF 2005 2127](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 n. 3, [2004 4981](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
 [^33-3]: Accettato dalla Landsgemeinde del 29 apr. 2012, in vigore dal 29 apr. 2012. Garanzia dell’AF dell’11 mar. 2013 ([FF 2013 2251](https://fedlex.data.admin.ch/eli/fga/2013/457)art. 1 n. 3 [195](https://fedlex.data.admin.ch/eli/fga/2013/6)).
 [^33-4]: Accettato dalla Landsgemeinde del 29 apr. 2012, in vigore dal 29 apr. 2012. Garanzia dell’AF dell’11 mar. 2013 ([FF 2013 2251](https://fedlex.data.admin.ch/eli/fga/2013/457)art. 1 n. 3 [195](https://fedlex.data.admin.ch/eli/fga/2013/6)).
-[^33-5]: Accettato dalla Landsgemeinde del 29 apr. 2012, in vigore dal 29 apr. 2012. Garanzia dell’AF dell’11 mar. 2013 ([FF 2013 2251](https://fedlex.data.admin.ch/eli/fga/2013/457)art. 1 n. 3 [195](https://fedlex.data.admin.ch/eli/fga/2013/6)).
+[^33-5]: Accettato dalla Landsgemeinde del 9 mag. 2021, in vigore dal 1° giu. 2021. Garanzia dell’AF del 22 set. 2022 ([FF 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)art. 3, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
 [^33-6]: Accettato dalla Landsgemeinde del 29 apr. 2007. Garanzia dell’AF del 6 mar. 2008 ([FF 2008 2171](https://fedlex.data.admin.ch/eli/fga/2008/524)art. 1 n. 6, [2007 6913](https://fedlex.data.admin.ch/eli/fga/2007/1220)). Abrogato dalla Landsgemeinde del 29 apr. 2012, con effetto dal 29 apr. 2012. Garanzia dell’AF dell’11 mar. 2013 ([FF 2013 2251](https://fedlex.data.admin.ch/eli/fga/2013/457)art. 1 n. 3 [195](https://fedlex.data.admin.ch/eli/fga/2013/6)).
 
 #### Art. 34
@@ -556,7 +556,11 @@ Il presidente distrettuale, il suo vice e i consiglieri distrettuali provvedono 
 
 #### Art. 38
 
-In ogni Distretto vi è un Ufficio di conciliazione. L’Assemblea distrettuale nomina per un biennio il conciliatore e il suo supplente. Non sono eleggibili i membri del Consiglio di Stato, i membri dei tribunali e le persone che, a titolo professionale, rappresentano le parti. I particolari circa l’organizzazione e la gestione dell’Ufficio e circa le funzioni del conciliatore come organo della giustizia sono specificati nella legislazione.
+[^38-1]
+
+In ogni Distretto vi è un Ufficio di conciliazione. L’Assemblea distrettuale nomina il conciliatore. I particolari circa l’organizzazione, la gestione dell’Ufficio e le funzioni del conciliatore come organo della giustizia sono specificati nella legislazione.
+
+[^38-1]: Accettato dalla Landsgemeinde del 9 mag. 2021, in vigore dal 1° giu. 2021. Garanzia dell’AF del 22 set. 2022 ([FF 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)art. 3, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
 
 #### Art. 39
 
@@ -564,9 +568,13 @@ In ogni Distretto vi è un Ufficio di conciliazione. L’Assemblea distrettuale 
 
 <sup>1</sup> Il Tribunale distrettuale funge da tribunale di primo grado per le cause civili e penali sottoposte alla sua giurisdizione in virtù della legislazione.
 
-<sup>2</sup> La legislazione disciplina la formazione di sezioni speciali per la trattazione delle diverse cause.
+<sup>2</sup> Il Tribunale distrettuale è composto del presidente e dei giudici eletti dall’Assemblea distrettuale. Il Gran Consiglio può concludere un concordato intercantonale concernente l’impiego dei giudici dei provvedimenti coercitivi.[^39-2]
+
+<sup>3</sup> L’organizzazione del Tribunale distrettuale è stabilita dalla legge.[^39-3]
 
 [^39-1]: Accettato dalla Landsgemeinde del 24 apr. 2005, in vigore dal 24 apr. 2005. Garanzia dell’AF del 12 giu. 2006 ([FF 2006 5653](https://fedlex.data.admin.ch/eli/fga/2006/714)art. 1 n. 3, [2609](https://fedlex.data.admin.ch/eli/fga/2006/301)).
+[^39-2]: Accettato dalla Landsgemeinde del 9 mag. 2021, in vigore dal 1° giu. 2021. Garanzia dell’AF del 22 set. 2022 ([FF 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)art. 3, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
+[^39-3]: Accettato dalla Landsgemeinde del 9 mag. 2021, in vigore dal 1° giu. 2021. Garanzia dell’AF del 22 set. 2022 ([FF 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)art. 3, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
 
 #### Art. 40
 
@@ -598,11 +606,15 @@ In ogni Distretto vi è un Ufficio di conciliazione. L’Assemblea distrettuale 
 
 #### Art. 44
 
-<sup>1</sup> I membri dei tribunali non possono far parte simultaneamente di un’altra autorità giudiziaria ordinaria nel Cantone.
+[^44-1]
 
-<sup>2</sup> I membri del Consiglio di Stato, del Gran Consiglio e dei Consigli distrettuali non possono far parte di un tribunale. [^44-1]
+<sup>1</sup> I membri dei tribunali non possono far parte simultaneamente di più di un’autorità giudiziaria nel Cantone.
 
-[^44-1]: Accettato dalla Landsgemeinde del 24 apr. 1994, in vigore dal 30 apr. 1995. Garanzia dell’AF del 12 giu. 1995 ([FF 1995 III 537](https://fedlex.data.admin.ch/eli/fga/1995/3___537)art. 1 n. 3, I 804).
+<sup>2</sup> I membri del Consiglio di Stato, del Gran Consiglio e dei Consigli distrettuali non possono far parte delle autorità giudiziarie del Cantone.
+
+<sup>3</sup> Non può essere eletto giudice di conciliazione chi a titolo professionale rappresenta le parti.
+
+[^44-1]: Accettato dalla Landsgemeinde del 9 mag. 2021, in vigore dal 1° giu. 2021. Garanzia dell’AF del 22 set. 2022 ([FF 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)art. 3, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
 
 #### Art. 45
 
@@ -991,6 +1003,7 @@ Gestione finanziaria 46
 
 Giudice/i
 
+- [tab] – di conciliazione 44
 - [tab] – garanzia del giudice naturale 6
 
 **Gran Consiglio** 22 ss
@@ -1139,7 +1152,9 @@ Nomine
 Organizzazione/i
 
 - [tab] – organizzazione
-  - [tab] – del Tribunale cantonale 40
+  - [tab] – del Tribunale
+  - – cantonale 40
+  - – distrettuale 39
   - [tab] – dell’Ufficio di conciliazione 38
   - [tab] – della giustizia amministrativa 45
   - [tab] – civile 45

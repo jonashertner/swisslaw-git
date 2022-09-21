@@ -3,18 +3,18 @@ sr: "131.224.2"
 title: "Verfassung für den Eidgenössischen Stand Appenzell I. Rh., vom 24. November 1872"
 eli: "https://fedlex.data.admin.ch/eli/cc/1872/3_842_832_842_fga"
 language: de
-version: 2019-03-22
+version: 2022-09-22
 adopted: 1872-11-24
 in_force: 1873-04-27
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1872/3_842_832_842_fga/20190322/de/xml/fedlex-data-admin-ch-eli-cc-1872-3_842_832_842_fga-20190322-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1872/3_842_832_842_fga/20190322/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1872/3_842_832_842_fga/20220922/de/xml/fedlex-data-admin-ch-eli-cc-1872-3_842_832_842_fga-20220922-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1872/3_842_832_842_fga/20220922/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verfassung für den Eidgenössischen Stand Appenzell I. Rh.
 
-vom 24. Wintermonat 1872 (Stand am 22. März 2019)[^t-1]
+vom 24. Wintermonat 1872 (Stand am 22. September 2022)[^t-1]
 
 [^t-1]: Diese Veröffentlichung basiert auf jenen der Änderungen im Rahmen der Gewährleistungsbotschaften im BBl. Sie kann vorübergehend von der Veröffentlichung in der kantonalen Gesetzessammlung abweichen. Der Stand bezeichnet daher das Datum des letzten im BBl veröffentlichten Gewährleistungsbeschlusses der Bundesversammlung.
 
@@ -26,9 +26,9 @@ vom 24. Wintermonat 1872 (Stand am 22. März 2019)[^t-1]
 
 <sup>2</sup> Das Volk gibt sich seine Verfassung, entscheidet über Annahme oder Verwerfung der Gesetze und nimmt die der Landsgemeinde zustehenden Wahlen vor.
 
-<sup>3</sup> Der Grosse Rat regelt das Erforderliche durch Verordnung.[^1-1]
+<sup>3</sup> Bei allen Volks- und Ratsabstimmungen entscheidet die absolute Mehrheit der Stimmenden. Den Bezirken und Gemeinden steht es frei, die offene Abstimmung an der Gemeindeversammlung durch geheime Abstimmung an der Urne zu ersetzen. Der Entscheid über die Einführung der Urnenabstimmung hat im geheimen Verfahren zu erfolgen. Der Grosse Rat regelt das Erforderliche durch Verordnung.[^1-1]
 
-[^1-1]: Angenommen an der Landsgemeinde vom 28. April 2013, in Kraft seit 28. April 2013. Gewährleistungsbeschluss vom 3. März 2016 ([BBl 2016 2301](https://fedlex.data.admin.ch/eli/fga/2016/476)Art. 6 Bst. a, [2015 7615](https://fedlex.data.admin.ch/eli/fga/2015/1854)).
+[^1-1]: Vierter Satz angenommen an der Landsgemeinde vom 28. April 2013, in Kraft seit 28. April 2013. Gewährleistungsbeschluss vom 3. März 2016 ([BBl 2016 2301](https://fedlex.data.admin.ch/eli/fga/2016/476)Art. 6 Bst. a; [2015 7615](https://fedlex.data.admin.ch/eli/fga/2015/1854)).
 
 #### Art. 2
 
@@ -38,7 +38,7 @@ vom 24. Wintermonat 1872 (Stand am 22. März 2019)[^t-1]
 
 <sup>3</sup> Das Lotteriemonopol steht, soweit es nicht von Bundesrechts wegen eingeschränkt ist, dem Kanton zu.[^2-1]
 
-[^2-1]: Angenommen an der Landsgemeinde vom 30. April 2000, in Kraft seit 30. April 2000. Gewährleistungsbeschluss vom 20. März 2001 ([BBl 2001 1374](https://fedlex.data.admin.ch/eli/fga/2001/285)Art. 1 Ziff. 5, [2000 5255](https://fedlex.data.admin.ch/eli/fga/2000/1153)).
+[^2-1]: Angenommen an der Landsgemeinde vom 30. April 2000, in Kraft seit 30. April 2000. Gewährleistungsbeschluss vom 20. März 2001 ([BBl 2001 1374](https://fedlex.data.admin.ch/eli/fga/2001/285)Art. 1 Ziff. 5; [2000 5255](https://fedlex.data.admin.ch/eli/fga/2000/1153)).
 
 #### Art. 3
 
@@ -46,7 +46,7 @@ vom 24. Wintermonat 1872 (Stand am 22. März 2019)[^t-1]
 
 Die römisch-katholische und die evangelisch-reformierte Kirche sind als Körperschaften öffentlichen Rechts anerkannt. Sie regeln ihre inneren Angelegenheiten selbständig.
 
-[^3-1]: Angenommen an der Landsgemeinde vom 27. April 2003, in Kraft seit 27. April 2003. Gewährleistungsbeschluss vom 14. März 2005 ([BBl 2005 2355](https://fedlex.data.admin.ch/eli/fga/2005/300)Art. 1 Ziff. 3, [2004 5629](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
+[^3-1]: Angenommen an der Landsgemeinde vom 27. April 2003, in Kraft seit 27. April 2003. Gewährleistungsbeschluss vom 14. März 2005 ([BBl 2005 2355](https://fedlex.data.admin.ch/eli/fga/2005/300)Art. 1 Ziff. 3; [2004 5629](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
 
 #### Art. 4
 
@@ -58,9 +58,9 @@ Die römisch-katholische und die evangelisch-reformierte Kirche sind als Körper
 
 <sup>4</sup> …[^4-3]
 
-[^4-1]: Angenommen an der Landsgemeinde vom 24. April 1960, in Kraft seit 24. April 1960. Gewährleistungsbeschluss vom 29. Juni 1960 ([BBl 1960 II 224](https://fedlex.data.admin.ch/eli/fga/1960/2_224__)4).
-[^4-2]: Angenommen an der Landsgemeinde vom 24. April 1960, in Kraft seit 24. April 1960. Gewährleistungsbeschluss vom 29. Juni 1960 ([BBl 1960 II 224](https://fedlex.data.admin.ch/eli/fga/1960/2_224__)4).
-[^4-3]: Aufgehoben an der Landsgemeinde vom 24. April 1960, mit Wirkung seit 24. April 1960. Gewährleistungsbeschluss vom 29. Juni 1960 ([BBl 1960 II 224](https://fedlex.data.admin.ch/eli/fga/1960/2_224__)4).
+[^4-1]: Angenommen an der Landsgemeinde vom 24. April 1960, in Kraft seit 24. April 1960. Gewährleistungsbeschluss vom 29. Juni 1960 ([BBl 1960 II 224](https://fedlex.data.admin.ch/eli/fga/1960/2_224__), 4).
+[^4-2]: Angenommen an der Landsgemeinde vom 24. April 1960, in Kraft seit 24. April 1960. Gewährleistungsbeschluss vom 29. Juni 1960 ([BBl 1960 II 224](https://fedlex.data.admin.ch/eli/fga/1960/2_224__), 4).
+[^4-3]: Aufgehoben an der Landsgemeinde vom 24. April 1960, mit Wirkung seit 24. April 1960. Gewährleistungsbeschluss vom 29. Juni 1960 ([BBl 1960 II 224](https://fedlex.data.admin.ch/eli/fga/1960/2_224__), 4).
 
 #### Art. 5
 
@@ -70,8 +70,8 @@ Die römisch-katholische und die evangelisch-reformierte Kirche sind als Körper
 
 <sup>3</sup> …[^5-2]
 
-[^5-1]: Angenommen an der Landsgemeinde vom 27. April 2003, in Kraft seit 27. April 2003. Gewährleistungsbeschluss vom 14. März 2005 ([BBl 2005 2355](https://fedlex.data.admin.ch/eli/fga/2005/300)Art. 1 Ziff. 3, [2004 5629](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
-[^5-2]: Aufgehoben an der Landsgemeinde vom 27. April 2003, mit Wirkung seit 27. April 2003. Gewährleistungsbeschluss vom 14. März 2005 ([BBl 2005 2355](https://fedlex.data.admin.ch/eli/fga/2005/300)Art. 1 Ziff. 3, [2004 5629](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
+[^5-1]: Angenommen an der Landsgemeinde vom 27. April 2003, in Kraft seit 27. April 2003. Gewährleistungsbeschluss vom 14. März 2005 ([BBl 2005 2355](https://fedlex.data.admin.ch/eli/fga/2005/300)Art. 1 Ziff. 3; [2004 5629](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
+[^5-2]: Aufgehoben an der Landsgemeinde vom 27. April 2003, mit Wirkung seit 27. April 2003. Gewährleistungsbeschluss vom 14. März 2005 ([BBl 2005 2355](https://fedlex.data.admin.ch/eli/fga/2005/300)Art. 1 Ziff. 3; [2004 5629](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
 
 #### Art. 6
 
@@ -81,7 +81,7 @@ Die römisch-katholische und die evangelisch-reformierte Kirche sind als Körper
 
 <sup>2</sup> Es ist den Parteien unbenommen, in beidseitigem Einverständnis für den Entscheid von Rechtsstreitigkeiten Schiedsgerichte anzurufen.
 
-[^6-1]: Angenommen an der Landsgemeinde vom 24. April 1949, in Kraft seit 24. April 1949. Gewährleistungsbeschluss vom 29. Sept. 1949 ([BBl 1949 II 587](https://fedlex.data.admin.ch/eli/fga/1949/2_587__)353).
+[^6-1]: Angenommen an der Landsgemeinde vom 24. April 1949, in Kraft seit 24. April 1949. Gewährleistungsbeschluss vom 29. Sept. 1949 ([BBl 1949 II 587](https://fedlex.data.admin.ch/eli/fga/1949/2_587__), 353).
 
 #### Art. 7
 
@@ -89,7 +89,7 @@ Die römisch-katholische und die evangelisch-reformierte Kirche sind als Körper
 
 Alle Kantonseinwohner sowie Genossenschaften und Ortskreise haben das Recht, an die Orts- und Kantonsbehörden ihre Wünsche und Verlangen zu stellen.
 
-[^7-1]: Angenommen an der Landsgemeinde vom 25. April 1982, in Kraft seit 25. April 1982. Gewährleistungsbeschluss vom 16. Dez. 1982 ([BBl 1982 III 1150](https://fedlex.data.admin.ch/eli/fga/1982/3_1150__)Art. 1 Ziff. 3 765).
+[^7-1]: Angenommen an der Landsgemeinde vom 25. April 1982, in Kraft seit 25. April 1982. Gewährleistungsbeschluss vom 16. Dez. 1982 ([BBl 1982 III 1150](https://fedlex.data.admin.ch/eli/fga/1982/3_1150__)Art. 1 Ziff. 3, 765).
 
 #### Art. 7<sup>bis</sup>
 
@@ -109,8 +109,8 @@ Alle Kantonseinwohner sowie Genossenschaften und Ortskreise haben das Recht, an 
 
 <sup>7</sup> Das weitere Verfahren für die Ausübung des Initiativrechtes kann durch Erlass des Grossen Rates geregelt werden.
 
-[^7bis-1]: Angenommen an der Landsgemeinde vom 25. April 1982, in Kraft seit 25. April 1982. Gewährleistungsbeschluss vom 16. Dez. 1982 ([BBl 1982 III 1150](https://fedlex.data.admin.ch/eli/fga/1982/3_1150__)Art. 1 Ziff. 3 765).
-[^7bis-2]: Angenommen an der Landsgemeinde vom 29. April 2018, in Kraft seit 1. Mai 2018. Gewährleistungsbeschluss vom 22. März 2019 ([BBl 2019 2861](https://fedlex.data.admin.ch/eli/fga/2019/791)Art. 6, [2018 7741](https://fedlex.data.admin.ch/eli/fga/2018/2724)).
+[^7bis-1]: Angenommen an der Landsgemeinde vom 25. April 1982, in Kraft seit 25. April 1982. Gewährleistungsbeschluss vom 16. Dez. 1982 ([BBl 1982 III 1150](https://fedlex.data.admin.ch/eli/fga/1982/3_1150__)Art. 1 Ziff. 3, 765).
+[^7bis-2]: Angenommen an der Landsgemeinde vom 29. April 2018, in Kraft seit 1. Mai 2018. Gewährleistungsbeschluss vom 22. März 2019 ([BBl 2019 2861](https://fedlex.data.admin.ch/eli/fga/2019/791)Art. 6; [2018 7741](https://fedlex.data.admin.ch/eli/fga/2018/2724)).
 
 #### Art. 7<sup>ter</sup>
 
@@ -128,9 +128,9 @@ Alle Kantonseinwohner sowie Genossenschaften und Ortskreise haben das Recht, an 
 
 <sup>6</sup> …[^7ter-4]
 
-[^7ter-1]: Angenommen an der Landsgemeinde vom 25. April 1982, in Kraft seit 25. April 1982. Gewährleistungsbeschluss vom 16. Dez. 1982 ([BBl 1982 III 1150](https://fedlex.data.admin.ch/eli/fga/1982/3_1150__)Art. 1 Ziff. 3 765).
-[^7ter-2]: Angenommen an der Landsgemeinde vom 27. April 2014, in Kraft seit 27. April 2014. Gewährleistungsbeschluss vom 11. März 2015 ([BBl 2015 3035](https://fedlex.data.admin.ch/eli/fga/2015/613)Art. 1 Ziff. 7, [2014 9091](https://fedlex.data.admin.ch/eli/fga/2014/1987)).
-[^7ter-3]: Angenommen an der Landsgemeinde vom 27. April 2014, in Kraft seit 27. April 2014. Gewährleistungsbeschluss vom 11. März 2015 ([BBl 2015 3035](https://fedlex.data.admin.ch/eli/fga/2015/613)Art. 1 Ziff. 7, [2014 9091](https://fedlex.data.admin.ch/eli/fga/2014/1987)).
+[^7ter-1]: Angenommen an der Landsgemeinde vom 25. April 1982, in Kraft seit 25. April 1982. Gewährleistungsbeschluss vom 16. Dez. 1982 ([BBl 1982 III 1150](https://fedlex.data.admin.ch/eli/fga/1982/3_1150__)Art. 1 Ziff. 3, 765).
+[^7ter-2]: Angenommen an der Landsgemeinde vom 27. April 2014, in Kraft seit 27. April 2014. Gewährleistungsbeschluss vom 11. März 2015 ([BBl 2015 3035](https://fedlex.data.admin.ch/eli/fga/2015/613)Art. 1 Ziff. 7; [2014 9091](https://fedlex.data.admin.ch/eli/fga/2014/1987)).
+[^7ter-3]: Angenommen an der Landsgemeinde vom 27. April 2014, in Kraft seit 27. April 2014. Gewährleistungsbeschluss vom 11. März 2015 ([BBl 2015 3035](https://fedlex.data.admin.ch/eli/fga/2015/613)Art. 1 Ziff. 7; [2014 9091](https://fedlex.data.admin.ch/eli/fga/2014/1987)).
 [^7ter-4]: Aufgehoben an der Landsgemeinde vom 30. April 1995, mit Wirkung seit 1. Jan. 1997. Gewährleistungsbeschluss vom 16. Sept. 1996 ([BBl 1996 IV 864](https://fedlex.data.admin.ch/eli/fga/1996/4_864__)Art. 1 Ziff. 5, I 1301).
 
 #### Art. 8
@@ -143,7 +143,7 @@ Jeder Kantonsbürger, sowie jeder im Kanton niedergelassene Schweizer ist nach I
 
 Änderungen des Steuersystems kommen einzig der Landsgemeinde zu.
 
-[^9-1]: Angenommen an der Landsgemeinde vom 27. April 2003, in Kraft seit 27. April 2003. Gewährleistungsbeschluss vom 14. März 2005 ([BBl 2005 2355](https://fedlex.data.admin.ch/eli/fga/2005/300)Art. 1 Ziff. 3, [2004 5629](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
+[^9-1]: Angenommen an der Landsgemeinde vom 27. April 2003, in Kraft seit 27. April 2003. Gewährleistungsbeschluss vom 14. März 2005 ([BBl 2005 2355](https://fedlex.data.admin.ch/eli/fga/2005/300)Art. 1 Ziff. 3; [2004 5629](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
 
 #### Art. 10
 
@@ -168,8 +168,8 @@ Jeder Kantonsbürger, sowie jeder im Kanton niedergelassene Schweizer ist nach I
 
 <sup>4</sup> …[^11-2]
 
-[^11-1]: Aufgehoben an der Landsgemeinde vom 27. April 2003, mit Wirkung seit 27. April 2003. Gewährleistungsbeschluss vom 10. März 2004 ([BBl 2004 1393](https://fedlex.data.admin.ch/eli/fga/2004/263)Art. 1 Ziff. 4, [2003 8087](https://fedlex.data.admin.ch/eli/fga/2003/1380)).
-[^11-2]: Aufgehoben an der Landsgemeinde vom 24. April 1994, mit Wirkung seit 30. April 1995. Gewährleistungsbeschluss vom 12. Juni 1995 ([BBl 1995 III 567](https://fedlex.data.admin.ch/eli/fga/1995/3_567__)Art. 1 Ziff. 3 I 969).
+[^11-1]: Aufgehoben an der Landsgemeinde vom 27. April 2003, mit Wirkung seit 27. April 2003. Gewährleistungsbeschluss vom 10. März 2004 ([BBl 2004 1393](https://fedlex.data.admin.ch/eli/fga/2004/263)Art. 1 Ziff. 4; [2003 8087](https://fedlex.data.admin.ch/eli/fga/2003/1380)).
+[^11-2]: Aufgehoben an der Landsgemeinde vom 24. April 1994, mit Wirkung seit 30. April 1995. Gewährleistungsbeschluss vom 12. Juni 1995 ([BBl 1995 III 567](https://fedlex.data.admin.ch/eli/fga/1995/3_567__)Art. 1 Ziff. 3, I 969).
 
 #### Art. 12
 
@@ -177,8 +177,8 @@ Jeder Kantonsbürger, sowie jeder im Kanton niedergelassene Schweizer ist nach I
 
 <sup>2</sup> Der öffentliche obligatorische Volksschulunterricht ist unentgeltlich. Die entsprechenden Kosten haben die Schulgemeinden unter angemessener Beihilfe des Staates zu tragen, welcher die Vervollkommnung des Volksschulwesens im Auge hat.[^12-2]
 
-[^12-1]: Angenommen an der Landsgemeinde vom 25. April 2004, in Kraft seit 25. April 2004. Gewährleistungsbeschluss vom 14. März 2005 ([BBl 2005 2355](https://fedlex.data.admin.ch/eli/fga/2005/300)Art. 1 Ziff. 3, [2004 5629](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
-[^12-2]: Angenommen an der Landsgemeinde vom 27. April 2003, in Kraft seit 27. April 2003. Gewährleistungsbeschluss vom 14. März 2005 ([BBl 2005 2355](https://fedlex.data.admin.ch/eli/fga/2005/300)Art. 1 Ziff. 3, [2004 5629](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
+[^12-1]: Angenommen an der Landsgemeinde vom 25. April 2004, in Kraft seit 25. April 2004. Gewährleistungsbeschluss vom 14. März 2005 ([BBl 2005 2355](https://fedlex.data.admin.ch/eli/fga/2005/300)Art. 1 Ziff. 3; [2004 5629](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
+[^12-2]: Angenommen an der Landsgemeinde vom 27. April 2003, in Kraft seit 27. April 2003. Gewährleistungsbeschluss vom 14. März 2005 ([BBl 2005 2355](https://fedlex.data.admin.ch/eli/fga/2005/300)Art. 1 Ziff. 3; [2004 5629](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
 
 #### Art. 13
 
@@ -220,9 +220,9 @@ Das Niederlassungswesen wird im Sinne der Bundesbestimmungen behandelt.
 
 <sup>3</sup> In Gemeindeangelegenheiten üben die Stimmberechtigten ihre Rechte am politischen Wohnsitz aus.
 
-[^16-1]: Angenommen an der Landsgemeinde vom 26. April 1992, in Kraft seit 26. April 1992. Gewährleistungsbeschluss vom 14. Dez. 1993 ([BBl 1993 IV 599](https://fedlex.data.admin.ch/eli/fga/1993/4_599__)Art. 1 Ziff. 8 II 180).
-[^16-2]: Angenommen an der Landsgemeinde vom 30. April 2017, in Kraft seit 30. April 2017. Gewährleistungsbeschluss vom 6. Juni 2018 ([BBl 2018 3795](https://fedlex.data.admin.ch/eli/fga/2018/1413)Art. 3 [1207](https://fedlex.data.admin.ch/eli/fga/2018/464)).
-[^16-3]: Angenommen an der Landsgemeinde vom 26. April 2015, in Kraft seit 26. April 2015. Gewährleistungsbeschluss vom 3. März 2016 ([BBl 2016 2301](https://fedlex.data.admin.ch/eli/fga/2016/476)Art. 6 Bst. b, [2015 7615](https://fedlex.data.admin.ch/eli/fga/2015/1854)).
+[^16-1]: Angenommen an der Landsgemeinde vom 26. April 1992, in Kraft seit 26. April 1992. Gewährleistungsbeschluss vom 14. Dez. 1993 ([BBl 1993 IV 599](https://fedlex.data.admin.ch/eli/fga/1993/4_599__)Art. 1 Ziff. 8, II 180).
+[^16-2]: Angenommen an der Landsgemeinde vom 30. April 2017, in Kraft seit 30. April 2017. Gewährleistungsbeschluss vom 6. Juni 2018 ([BBl 2018 3795](https://fedlex.data.admin.ch/eli/fga/2018/1413)Art. 3, [1207](https://fedlex.data.admin.ch/eli/fga/2018/464)).
+[^16-3]: Angenommen an der Landsgemeinde vom 26. April 2015, in Kraft seit 26. April 2015. Gewährleistungsbeschluss vom 3. März 2016 ([BBl 2016 2301](https://fedlex.data.admin.ch/eli/fga/2016/476)Art. 6 Bst. b; [2015 7615](https://fedlex.data.admin.ch/eli/fga/2015/1854)).
 
 #### Art. 17
 
@@ -236,9 +236,9 @@ Jeder Stimmberechtigte ist nicht bloss berechtigt, sondern auch verpflichtet, an
 
 <sup>3</sup> Der Grosse Rat ist Rekursbehörde.[^18-3]
 
-[^18-1]: Angenommen an der Landsgemeinde vom 27. April 2003, in Kraft seit 27. April 2003. Gewährleistungsbeschluss vom 14. März 2005 ([BBl 2005 2355](https://fedlex.data.admin.ch/eli/fga/2005/300)Art. 1 Ziff. 3, [2004 5629](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
-[^18-2]: Angenommen an der Landsgemeinde vom 24. April 1994, in Kraft seit 30. April 1995. Gewährleistungsbeschluss vom 12. Juni 1995 ([BBl 1995 III 567](https://fedlex.data.admin.ch/eli/fga/1995/3_567__)Art. 1 Ziff. 3 I 969).
-[^18-3]: Angenommen an der Landsgemeinde vom 27. April 2003, in Kraft seit 27. April 2003. Gewährleistungsbeschluss vom 14. März 2005 ([BBl 2005 2355](https://fedlex.data.admin.ch/eli/fga/2005/300)Art. 1 Ziff. 3, [2004 5629](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
+[^18-1]: Angenommen an der Landsgemeinde vom 27. April 2003, in Kraft seit 27. April 2003. Gewährleistungsbeschluss vom 14. März 2005 ([BBl 2005 2355](https://fedlex.data.admin.ch/eli/fga/2005/300)Art. 1 Ziff. 3; [2004 5629](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
+[^18-2]: Angenommen an der Landsgemeinde vom 24. April 1994, in Kraft seit 30. April 1995. Gewährleistungsbeschluss vom 12. Juni 1995 ([BBl 1995 III 567](https://fedlex.data.admin.ch/eli/fga/1995/3_567__)Art. 1 Ziff. 3, I 969).
+[^18-3]: Angenommen an der Landsgemeinde vom 27. April 2003, in Kraft seit 27. April 2003. Gewährleistungsbeschluss vom 14. März 2005 ([BBl 2005 2355](https://fedlex.data.admin.ch/eli/fga/2005/300)Art. 1 Ziff. 3; [2004 5629](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
 
 ## IV. Abschnitt: Gesetzgebende Behörde
 
@@ -250,7 +250,7 @@ Jeder Stimmberechtigte ist nicht bloss berechtigt, sondern auch verpflichtet, an
 
 <sup>3</sup> Fällt Ostern auf den letzten Sonntag im April, findet die Landsgemeinde am ersten Sonntag im Mai statt.[^19-1]
 
-[^19-1]: Angenommen an der Landsgemeinde vom 29. April 2007, in Kraft seit 29. April 2007. Gewährleistungsbeschluss vom 6. März 2008 ([BBl 2008 2493](https://fedlex.data.admin.ch/eli/fga/2008/524)Art. 1 Ziff. 6, [2007 7663](https://fedlex.data.admin.ch/eli/fga/2007/1220)).
+[^19-1]: Angenommen an der Landsgemeinde vom 29. April 2007, in Kraft seit 29. April 2007. Gewährleistungsbeschluss vom 6. März 2008 ([BBl 2008 2493](https://fedlex.data.admin.ch/eli/fga/2008/524)Art. 1 Ziff. 6; [2007 7663](https://fedlex.data.admin.ch/eli/fga/2007/1220)).
 
 #### Art. 20
 
@@ -272,7 +272,7 @@ Sie wählt alljährlich:
 - 3\. …[^20-2]
 
 [^20-1]: Angenommen an der Landsgemeinde vom 30. April 1995, in Kraft seit 1. Jan. 1997. Gewährleistungsbeschluss vom 16. Sept. 1996 ([BBl 1996 IV 864](https://fedlex.data.admin.ch/eli/fga/1996/4_864__)Art. 1 Ziff. 5, I 1301).
-[^20-2]: Aufgehoben an der Landsgemeinde vom 24. April 1994, mit Wirkung seit 30. April 1995. Gewährleistungsbeschluss vom 12. Juni 1995 ([BBl 1995 III 567](https://fedlex.data.admin.ch/eli/fga/1995/3_567__)Art. 1 Ziff. 3 I 969).
+[^20-2]: Aufgehoben an der Landsgemeinde vom 24. April 1994, mit Wirkung seit 30. April 1995. Gewährleistungsbeschluss vom 12. Juni 1995 ([BBl 1995 III 567](https://fedlex.data.admin.ch/eli/fga/1995/3_567__)Art. 1 Ziff. 3, I 969).
 
 #### Art. 20<sup>bis</sup>
 
@@ -280,7 +280,7 @@ Sie wählt alljährlich:
 
 Die ordentliche Landsgemeinde wählt in den Jahren der Gesamterneuerung des Nationalrates den Vertreter des Kantons im schweizerischen Ständerat.
 
-[^20bis-1]: Angenommen an der Landsgemeinde vom 27. April 2003, in Kraft seit 27. April 2003. Gewährleistungsbeschluss vom 14. März 2005 ([BBl 2005 2355](https://fedlex.data.admin.ch/eli/fga/2005/300)Art. 1 Ziff. 3, [2004 5629](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
+[^20bis-1]: Angenommen an der Landsgemeinde vom 27. April 2003, in Kraft seit 27. April 2003. Gewährleistungsbeschluss vom 14. März 2005 ([BBl 2005 2355](https://fedlex.data.admin.ch/eli/fga/2005/300)Art. 1 Ziff. 3; [2004 5629](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
 
 #### Art. 21
 
@@ -310,7 +310,7 @@ Die ordentliche Landsgemeinde wählt in den Jahren der Gesamterneuerung des Nati
 
 <sup>4</sup> Die Standeskommission weist den Bezirken die Sitze zu. Über Anstände entscheidet der Grosse Rat endgültig.
 
-[^22-1]: Angenommen an der Landsgemeinde vom 1. Mai 2011, in Kraft seit 1. Mai 2011. Gewährleistungsbeschluss vom 11. März 2013 ([BBl 2013 2617](https://fedlex.data.admin.ch/eli/fga/2013/456)Art. 1 Ziff. 2, [2012 8513](https://fedlex.data.admin.ch/eli/fga/2012/1505)).
+[^22-1]: Angenommen an der Landsgemeinde vom 1. Mai 2011, in Kraft seit 1. Mai 2011. Gewährleistungsbeschluss vom 11. März 2013 ([BBl 2013 2617](https://fedlex.data.admin.ch/eli/fga/2013/456)Art. 1 Ziff. 2; [2012 8513](https://fedlex.data.admin.ch/eli/fga/2012/1505)).
 
 #### Art. 23
 
@@ -322,7 +322,7 @@ Die ordentliche Landsgemeinde wählt in den Jahren der Gesamterneuerung des Nati
 
 <sup>3</sup> Sitzungsort ist Appenzell. Der Rat kann einen anderen Sitzungsort fallweise beschliessen.
 
-[^23-1]: Angenommen an der Landsgemeinde vom 24. April 1994, in Kraft seit 30. April 1995. Gewährleistungsbeschluss vom 12. Juni 1995 ([BBl 1995 III 567](https://fedlex.data.admin.ch/eli/fga/1995/3_567__)Art. 1 Ziff. 3 I 969).
+[^23-1]: Angenommen an der Landsgemeinde vom 24. April 1994, in Kraft seit 30. April 1995. Gewährleistungsbeschluss vom 12. Juni 1995 ([BBl 1995 III 567](https://fedlex.data.admin.ch/eli/fga/1995/3_567__)Art. 1 Ziff. 3, I 969).
 
 #### Art. 24
 
@@ -334,7 +334,7 @@ Die ordentliche Landsgemeinde wählt in den Jahren der Gesamterneuerung des Nati
 
 <sup>3</sup> Der Grosse Rat erlässt auf dem Verordnungsweg ein Geschäftsreglement.
 
-[^24-1]: Angenommen an der Landsgemeinde vom 24. April 1994, in Kraft seit 30. April 1995. Gewährleistungsbeschluss vom 12. Juni 1995 ([BBl 1995 III 567](https://fedlex.data.admin.ch/eli/fga/1995/3_567__)Art. 1 Ziff. 3 I 969).
+[^24-1]: Angenommen an der Landsgemeinde vom 24. April 1994, in Kraft seit 30. April 1995. Gewährleistungsbeschluss vom 12. Juni 1995 ([BBl 1995 III 567](https://fedlex.data.admin.ch/eli/fga/1995/3_567__)Art. 1 Ziff. 3, I 969).
 
 #### Art. 25
 
@@ -342,7 +342,7 @@ Die ordentliche Landsgemeinde wählt in den Jahren der Gesamterneuerung des Nati
 
 Die Mitglieder der Standeskommission haben bei den Verhandlungen des Grossen Rates beratende Stimme und Antragsrecht.
 
-[^25-1]: Angenommen an der Landsgemeinde vom 24. April 1994, in Kraft seit 30. April 1995. Gewährleistungsbeschluss vom 12. Juni 1995 ([BBl 1995 III 567](https://fedlex.data.admin.ch/eli/fga/1995/3_567__)Art. 1 Ziff. 3 I 969).
+[^25-1]: Angenommen an der Landsgemeinde vom 24. April 1994, in Kraft seit 30. April 1995. Gewährleistungsbeschluss vom 12. Juni 1995 ([BBl 1995 III 567](https://fedlex.data.admin.ch/eli/fga/1995/3_567__)Art. 1 Ziff. 3, I 969).
 
 #### Art. 26
 
@@ -354,7 +354,7 @@ Die Mitglieder der Standeskommission haben bei den Verhandlungen des Grossen Rat
 
 <sup>3</sup> Landsgemeindevorlagen sind dem Grossen Rat spätestens auf die drittletzte ordentliche Session vor der Landsgemeinde zu unterbreiten. Für dringliche oder einfache Vorlagen kann der Rat mit einer Mehrheit von zwei Dritteln seiner Mitglieder eine Ausnahme beschliessen.
 
-[^26-1]: Angenommen an der Landsgemeinde vom 24. April 1994, in Kraft seit 30. April 1995. Gewährleistungsbeschluss vom 12. Juni 1995 ([BBl 1995 III 567](https://fedlex.data.admin.ch/eli/fga/1995/3_567__)Art. 1 Ziff. 3 I 969).
+[^26-1]: Angenommen an der Landsgemeinde vom 24. April 1994, in Kraft seit 30. April 1995. Gewährleistungsbeschluss vom 12. Juni 1995 ([BBl 1995 III 567](https://fedlex.data.admin.ch/eli/fga/1995/3_567__)Art. 1 Ziff. 3, I 969).
 
 #### Art. 27
 
@@ -368,11 +368,11 @@ Die Mitglieder der Standeskommission haben bei den Verhandlungen des Grossen Rat
 
 <sup>4</sup> Er entscheidet, ob namens des Kantons das Referendum (Art. 141 Abs. 1 BV[^27-4]) oder die Initiative (Art. 160 Abs. 1 BV) ergriffen werden soll.[^27-5]
 
-[^27-1]: Angenommen an der Landsgemeinde vom 24. April 1994, in Kraft seit 30. April 1995. Gewährleistungsbeschluss vom 12. Juni 1995 ([BBl 1995 III 567](https://fedlex.data.admin.ch/eli/fga/1995/3_567__)Art. 1 Ziff. 3 I 969).
-[^27-2]: Angenommen an der Landsgemeinde vom 29. April 2007, in Kraft seit 29. April 2007. Gewährleistungsbeschluss vom 6. März 2008 ([BBl 2008 2493](https://fedlex.data.admin.ch/eli/fga/2008/524)Art. 1 Ziff. 6, [2007 7663](https://fedlex.data.admin.ch/eli/fga/2007/1220)).
-[^27-3]: Ursprünglich Abs. 2. Angenommen an der Landsgemeinde vom 28. April 2013, in Kraft seit 28. April 2013. Gewährleistungsbeschluss vom 3. März 2016 ([BBl 2016 2301](https://fedlex.data.admin.ch/eli/fga/2016/476)Art. 6 Bst. a, [2015 7615](https://fedlex.data.admin.ch/eli/fga/2015/1854)).
+[^27-1]: Angenommen an der Landsgemeinde vom 24. April 1994, in Kraft seit 30. April 1995. Gewährleistungsbeschluss vom 12. Juni 1995 ([BBl 1995 III 567](https://fedlex.data.admin.ch/eli/fga/1995/3_567__)Art. 1 Ziff. 3, I 969).
+[^27-2]: Angenommen an der Landsgemeinde vom 29. April 2007, in Kraft seit 29. April 2007. Gewährleistungsbeschluss vom 6. März 2008 ([BBl 2008 2493](https://fedlex.data.admin.ch/eli/fga/2008/524)Art. 1 Ziff. 6; [2007 7663](https://fedlex.data.admin.ch/eli/fga/2007/1220)).
+[^27-3]: Ursprünglich Abs. 2. Angenommen an der Landsgemeinde vom 28. April 2013, in Kraft seit 28. April 2013. Gewährleistungsbeschluss vom 3. März 2016 ([BBl 2016 2301](https://fedlex.data.admin.ch/eli/fga/2016/476)Art. 6 Bst. a; [2015 7615](https://fedlex.data.admin.ch/eli/fga/2015/1854)).
 [^27-4]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^27-5]: Ursprünglich Abs. 3. Angenommen an der Landsgemeinde vom 27. April 2003, in Kraft seit 27. April 2003. Gewährleistungsbeschluss vom 14. März 2005 ([BBl 2005 2355](https://fedlex.data.admin.ch/eli/fga/2005/300)Art. 1 Ziff. 3, [2004 5629](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
+[^27-5]: Ursprünglich Abs. 3. Angenommen an der Landsgemeinde vom 27. April 2003, in Kraft seit 27. April 2003. Gewährleistungsbeschluss vom 14. März 2005 ([BBl 2005 2355](https://fedlex.data.admin.ch/eli/fga/2005/300)Art. 1 Ziff. 3; [2004 5629](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
 
 #### Art. 28
 
@@ -382,7 +382,7 @@ Die Mitglieder der Standeskommission haben bei den Verhandlungen des Grossen Rat
 
 <sup>2</sup> Er erteilt das Landrecht.
 
-[^28-1]: Angenommen an der Landsgemeinde vom 24. April 1994, in Kraft seit 30. April 1995. Gewährleistungsbeschluss vom 12. Juni 1995 ([BBl 1995 III 567](https://fedlex.data.admin.ch/eli/fga/1995/3_567__)Art. 1 Ziff. 3 I 969).
+[^28-1]: Angenommen an der Landsgemeinde vom 24. April 1994, in Kraft seit 30. April 1995. Gewährleistungsbeschluss vom 12. Juni 1995 ([BBl 1995 III 567](https://fedlex.data.admin.ch/eli/fga/1995/3_567__)Art. 1 Ziff. 3, I 969).
 
 #### Art. 29
 
@@ -398,10 +398,10 @@ Die Mitglieder der Standeskommission haben bei den Verhandlungen des Grossen Rat
 
 <sup>5</sup> Er prüft und genehmigt alljährlich die Staatsrechnung.[^29-4]
 
-[^29-1]: Angenommen an der Landsgemeinde vom 24. April 1994, in Kraft seit 30. April 1995. Gewährleistungsbeschluss vom 12. Juni 1995 ([BBl 1995 III 567](https://fedlex.data.admin.ch/eli/fga/1995/3_567__)Art. 1 Ziff. 3 I 969).
-[^29-2]: Angenommen an der Landsgemeinde vom 28. April 2013, in Kraft seit 28. April 2013. Gewährleistungsbeschluss vom 3. März 2016 ([BBl 2016 2301](https://fedlex.data.admin.ch/eli/fga/2016/476)Art. 6 Bst. a, [2015 7615](https://fedlex.data.admin.ch/eli/fga/2015/1854)).
-[^29-3]: Angenommen an der Landsgemeinde vom 27. April 2003, in Kraft seit 27. April 2003. Gewährleistungsbeschluss vom 14. März 2005 ([BBl 2005 2355](https://fedlex.data.admin.ch/eli/fga/2005/300)Art. 1 Ziff. 3, [2004 5629](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
-[^29-4]: Angenommen an der Landsgemeinde vom 27. April 2003, in Kraft seit 27. April 2003. Gewährleistungsbeschluss vom 14. März 2005 ([BBl 2005 2355](https://fedlex.data.admin.ch/eli/fga/2005/300)Art. 1 Ziff. 3, [2004 5629](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
+[^29-1]: Angenommen an der Landsgemeinde vom 24. April 1994, in Kraft seit 30. April 1995. Gewährleistungsbeschluss vom 12. Juni 1995 ([BBl 1995 III 567](https://fedlex.data.admin.ch/eli/fga/1995/3_567__)Art. 1 Ziff. 3, I 969).
+[^29-2]: Angenommen an der Landsgemeinde vom 28. April 2013, in Kraft seit 28. April 2013. Gewährleistungsbeschluss vom 3. März 2016 ([BBl 2016 2301](https://fedlex.data.admin.ch/eli/fga/2016/476)Art. 6 Bst. a; [2015 7615](https://fedlex.data.admin.ch/eli/fga/2015/1854)).
+[^29-3]: Angenommen an der Landsgemeinde vom 27. April 2003, in Kraft seit 27. April 2003. Gewährleistungsbeschluss vom 14. März 2005 ([BBl 2005 2355](https://fedlex.data.admin.ch/eli/fga/2005/300)Art. 1 Ziff. 3; [2004 5629](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
+[^29-4]: Angenommen an der Landsgemeinde vom 27. April 2003, in Kraft seit 27. April 2003. Gewährleistungsbeschluss vom 14. März 2005 ([BBl 2005 2355](https://fedlex.data.admin.ch/eli/fga/2005/300)Art. 1 Ziff. 3; [2004 5629](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
 
 #### Art. 29<sup>bis</sup>
 
@@ -418,7 +418,7 @@ Der Grosse Rat wählt auf einjährige Dauer:
 
 <sup>3</sup> Weitere Wahlen nimmt er vor, soweit er nach Gesetz oder Verordnung zuständig ist.
 
-[^29bis-1]: Angenommen an der Landsgemeinde vom 24. April 2005, in Kraft seit 24. April 2005. Gewährleistungsbeschluss vom 12. Juni 2006 ([BBl 2006 6127](https://fedlex.data.admin.ch/eli/fga/2006/714)Art. 1 Ziff. 3 [2813](https://fedlex.data.admin.ch/eli/fga/2006/301)).
+[^29bis-1]: Angenommen an der Landsgemeinde vom 24. April 2005, in Kraft seit 24. April 2005. Gewährleistungsbeschluss vom 12. Juni 2006 ([BBl 2006 6127](https://fedlex.data.admin.ch/eli/fga/2006/714)Art. 1 Ziff. 3, [2813](https://fedlex.data.admin.ch/eli/fga/2006/301)).
 
 ### b. Standeskommission
 
@@ -452,13 +452,13 @@ In die Standeskommission und die Gerichte können nicht zugleich Einsitz nehmen:
 
 <sup>11</sup> In wichtigeren Fällen können die regierenden oder sämtliche Hauptleute der Bezirke beigezogen werden.[^30-7]
 
-[^30-1]: Angenommen an der Landsgemeinde vom 27. April 2003, in Kraft seit 27. April 2003. Gewährleistungsbeschluss vom 14. März 2005 ([BBl 2005 2355](https://fedlex.data.admin.ch/eli/fga/2005/300)Art. 1 Ziff. 3, [2004 5629](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
-[^30-2]: Angenommen an der Landsgemeinde vom 25. April 2010, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 11. März 2013 ([BBl 2013 2617](https://fedlex.data.admin.ch/eli/fga/2013/456)Art. 1 Ziff. 2, [2012 8513](https://fedlex.data.admin.ch/eli/fga/2012/1505)).
+[^30-1]: Angenommen an der Landsgemeinde vom 27. April 2003, in Kraft seit 27. April 2003. Gewährleistungsbeschluss vom 14. März 2005 ([BBl 2005 2355](https://fedlex.data.admin.ch/eli/fga/2005/300)Art. 1 Ziff. 3; [2004 5629](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
+[^30-2]: Angenommen an der Landsgemeinde vom 25. April 2010, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 11. März 2013 ([BBl 2013 2617](https://fedlex.data.admin.ch/eli/fga/2013/456)Art. 1 Ziff. 2; [2012 8513](https://fedlex.data.admin.ch/eli/fga/2012/1505)).
 [^30-3]: Ursprünglich Abs. 8. Angenommen an der Landsgemeinde vom 30. April 1995, in Kraft seit 1. Jan. 1997. Gewährleistungsbeschluss vom 16. Sept. 1996 ([BBl 1996 IV 864](https://fedlex.data.admin.ch/eli/fga/1996/4_864__)Art. 1 Ziff. 5, I 1301). Der ursprüngliche Abs. 7 wurde aufgehoben durch Art. 209 Ziff. 1 des Einführungsgesetzes vom 30. April 1911 zum ZGB.
-[^30-4]: Ursprünglich Abs. 9. Angenommen an der Landsgemeinde vom 24. April 1949, in Kraft seit 24. April 1949. Gewährleistungsbeschluss vom 29. Sept. 1949 ([BBl 1949 II 587](https://fedlex.data.admin.ch/eli/fga/1949/2_587__)353).
-[^30-5]: Angenommen an der Landsgemeinde vom 29. April 2007, in Kraft seit 29. April 2007. Gewährleistungsbeschluss vom 6. März 2008 ([BBl 2008 2493](https://fedlex.data.admin.ch/eli/fga/2008/524)Art. 1 Ziff. 6, [2007 7663](https://fedlex.data.admin.ch/eli/fga/2007/1220)).
-[^30-6]: Angenommen an der Landsgemeinde vom 30. April 2006, in Kraft seit 1. Jan. 2007. Gewährleistungsbeschluss vom 18. Juni 2007 ([BBl 2007 4933](https://fedlex.data.admin.ch/eli/fga/2007/694)Art. 1 Ziff. 4 [629](https://fedlex.data.admin.ch/eli/fga/2007/86)).
-[^30-7]: Angenommen an der Landsgemeinde vom 24. April 1949, in Kraft seit 24. April 1949. Gewährleistungsbeschluss vom 29. Sept. 1949 ([BBl 1949 II 587](https://fedlex.data.admin.ch/eli/fga/1949/2_587__)353).
+[^30-4]: Ursprünglich Abs. 9. Angenommen an der Landsgemeinde vom 24. April 1949, in Kraft seit 24. April 1949. Gewährleistungsbeschluss vom 29. Sept. 1949 ([BBl 1949 II 587](https://fedlex.data.admin.ch/eli/fga/1949/2_587__), 353).
+[^30-5]: Angenommen an der Landsgemeinde vom 29. April 2007, in Kraft seit 29. April 2007. Gewährleistungsbeschluss vom 6. März 2008 ([BBl 2008 2493](https://fedlex.data.admin.ch/eli/fga/2008/524)Art. 1 Ziff. 6; [2007 7663](https://fedlex.data.admin.ch/eli/fga/2007/1220)).
+[^30-6]: Angenommen an der Landsgemeinde vom 30. April 2006, in Kraft seit 1. Jan. 2007. Gewährleistungsbeschluss vom 18. Juni 2007 ([BBl 2007 4933](https://fedlex.data.admin.ch/eli/fga/2007/694)Art. 1 Ziff. 4, [629](https://fedlex.data.admin.ch/eli/fga/2007/86)).
+[^30-7]: Angenommen an der Landsgemeinde vom 24. April 1949, in Kraft seit 24. April 1949. Gewährleistungsbeschluss vom 29. Sept. 1949 ([BBl 1949 II 587](https://fedlex.data.admin.ch/eli/fga/1949/2_587__), 353).
 
 #### Art. 31
 
@@ -480,8 +480,8 @@ In die Standeskommission und die Gerichte können nicht zugleich Einsitz nehmen:
 
 <sup>4</sup> In Verhinderungsfällen wird er durch den stillstehenden Landammann vertreten.
 
-[^32-1]: Angenommen an der Landsgemeinde vom 24. April 1994, in Kraft seit 30. April 1995. Gewährleistungsbeschluss vom 12. Juni 1995 ([BBl 1995 III 567](https://fedlex.data.admin.ch/eli/fga/1995/3_567__)Art. 1 Ziff. 3 I 969).
-[^32-2]: Angenommen an der Landsgemeinde vom 27. April 2003, in Kraft seit 27. April 2003. Gewährleistungsbeschluss vom 14. März 2005 ([BBl 2005 2355](https://fedlex.data.admin.ch/eli/fga/2005/300)Art. 1 Ziff. 3, [2004 5629](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
+[^32-1]: Angenommen an der Landsgemeinde vom 24. April 1994, in Kraft seit 30. April 1995. Gewährleistungsbeschluss vom 12. Juni 1995 ([BBl 1995 III 567](https://fedlex.data.admin.ch/eli/fga/1995/3_567__)Art. 1 Ziff. 3, I 969).
+[^32-2]: Angenommen an der Landsgemeinde vom 27. April 2003, in Kraft seit 27. April 2003. Gewährleistungsbeschluss vom 14. März 2005 ([BBl 2005 2355](https://fedlex.data.admin.ch/eli/fga/2005/300)Art. 1 Ziff. 3; [2004 5629](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
 
 ### 2. Bezirksbehörden
 
@@ -489,7 +489,7 @@ In die Standeskommission und die Gerichte können nicht zugleich Einsitz nehmen:
 
 [^secV-lvl2-lvla-1]
 
-[^secV-lvl2-lvla-1]: Angenommen an der Landsgemeinde vom 27. April 2003, in Kraft seit 27. April 2003. Gewährleistungsbeschluss vom 14. März 2005 ([BBl 2005 2355](https://fedlex.data.admin.ch/eli/fga/2005/300)Art. 1 Ziff. 3, [2004 5629](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
+[^secV-lvl2-lvla-1]: Angenommen an der Landsgemeinde vom 27. April 2003, in Kraft seit 27. April 2003. Gewährleistungsbeschluss vom 14. März 2005 ([BBl 2005 2355](https://fedlex.data.admin.ch/eli/fga/2005/300)Art. 1 Ziff. 3; [2004 5629](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
 
 #### Art. 33
 
@@ -507,16 +507,16 @@ In die Standeskommission und die Gerichte können nicht zugleich Einsitz nehmen:
 
 <sup>6</sup> Ausscheidende Mitglieder des Grossen Rates sind sobald als möglich zu ersetzen. Das neu gewählte Mitglied tritt in die Amtsdauer des ausscheidenden Mitgliedes ein.
 
-<sup>7</sup> Die Bezirke können für die Wahl der Bezirksräte, der Mitglieder des Bezirksgerichts und der Vermittler sowie deren Stellvertreter eine höchstens vierjährige Amtsdauer beschliessen.[^33-5]
+<sup>7</sup> Die Bezirke können für die Wahl der Bezirksräte, der Mitglieder des Bezirksgerichts und der Vermittler eine höchstens vierjährige Amtsdauer beschliessen.[^33-5]
 
 <sup>8</sup> …[^33-6]
 
-[^33-1]: Angenommen an der Landsgemeinde vom 24. April 1994, in Kraft seit 30. April 1995. Gewährleistungsbeschluss vom 12. Juni 1995 ([BBl 1995 III 567](https://fedlex.data.admin.ch/eli/fga/1995/3_567__)Art. 1 Ziff. 3 I 969).
-[^33-2]: Angenommen an der Landsgemeinde vom 27. April 2003, in Kraft seit 27. April 2003. Gewährleistungsbeschluss vom 14. März 2005 ([BBl 2005 2355](https://fedlex.data.admin.ch/eli/fga/2005/300)Art. 1 Ziff. 3, [2004 5629](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
-[^33-3]: Angenommen an der Landsgemeinde vom 29. April 2012, in Kraft seit 29. April 2012. Gewährleistungsbeschluss vom 11. März 2013 ([BBl 2013 2619](https://fedlex.data.admin.ch/eli/fga/2013/457)Art. 1 Ziff. 2 [195](https://fedlex.data.admin.ch/eli/fga/2013/6)).
-[^33-4]: Angenommen an der Landsgemeinde vom 29. April 2012, in Kraft seit 29. April 2012. Gewährleistungsbeschluss vom 11. März 2013 ([BBl 2013 2619](https://fedlex.data.admin.ch/eli/fga/2013/457)Art. 1 Ziff. 2 [195](https://fedlex.data.admin.ch/eli/fga/2013/6)).
-[^33-5]: Angenommen an der Landsgemeinde vom 29. April 2012, in Kraft seit 29. April 2012. Gewährleistungsbeschluss vom 11. März 2013 ([BBl 2013 2619](https://fedlex.data.admin.ch/eli/fga/2013/457)Art. 1 Ziff. 2 [195](https://fedlex.data.admin.ch/eli/fga/2013/6)).
-[^33-6]: Angenommen an der Landsgemeinde vom 29. April 2007. Gewährleistungsbeschluss vom 6. März 2008 ([BBl 2008 2493](https://fedlex.data.admin.ch/eli/fga/2008/524)Art. 1 Ziff. 6, [2007 7663](https://fedlex.data.admin.ch/eli/fga/2007/1220)). Aufgehoben an der Landsgemeinde vom 29. April 2012, mit Wirkung seit 29. April 2012. Gewährleistungsbeschluss vom 11. März 2013 ([BBl 2013 2619](https://fedlex.data.admin.ch/eli/fga/2013/457)Art. 1 Ziff. 2 [195](https://fedlex.data.admin.ch/eli/fga/2013/6)).
+[^33-1]: Angenommen an der Landsgemeinde vom 24. April 1994, in Kraft seit 30. April 1995. Gewährleistungsbeschluss vom 12. Juni 1995 ([BBl 1995 III 567](https://fedlex.data.admin.ch/eli/fga/1995/3_567__)Art. 1 Ziff. 3, I 969).
+[^33-2]: Angenommen an der Landsgemeinde vom 27. April 2003, in Kraft seit 27. April 2003. Gewährleistungsbeschluss vom 14. März 2005 ([BBl 2005 2355](https://fedlex.data.admin.ch/eli/fga/2005/300)Art. 1 Ziff. 3; [2004 5629](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
+[^33-3]: Angenommen an der Landsgemeinde vom 29. April 2012, in Kraft seit 29. April 2012. Gewährleistungsbeschluss vom 11. März 2013 ([BBl 2013 2619](https://fedlex.data.admin.ch/eli/fga/2013/457)Art. 1 Ziff. 2, [195](https://fedlex.data.admin.ch/eli/fga/2013/6)).
+[^33-4]: Angenommen an der Landsgemeinde vom 29. April 2012, in Kraft seit 29. April 2012. Gewährleistungsbeschluss vom 11. März 2013 ([BBl 2013 2619](https://fedlex.data.admin.ch/eli/fga/2013/457)Art. 1 Ziff. 2, [195](https://fedlex.data.admin.ch/eli/fga/2013/6)).
+[^33-5]: Angenommen an der Landsgemeinde vom 9. Mai 2021, in Kraft seit 1. Juni 2021. Gewährleistungsbeschluss vom 22. Sept. 2022 ([BBl 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)Art. 3, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
+[^33-6]: Angenommen an der Landsgemeinde vom 29. April 2007. Gewährleistungsbeschluss vom 6. März 2008 ([BBl 2008 2493](https://fedlex.data.admin.ch/eli/fga/2008/524)Art. 1 Ziff. 6; [2007 7663](https://fedlex.data.admin.ch/eli/fga/2007/1220)). Aufgehoben an der Landsgemeinde vom 29. April 2012, mit Wirkung seit 29. April 2012. Gewährleistungsbeschluss vom 11. März 2013 ([BBl 2013 2619](https://fedlex.data.admin.ch/eli/fga/2013/457)Art. 1 Ziff. 2, [195](https://fedlex.data.admin.ch/eli/fga/2013/6)).
 
 #### Art. 34
 
@@ -555,7 +555,11 @@ Hauptleute und Räte sorgen für die Ausführung der hoheitlichen Verfügungen, 
 
 #### Art. 38
 
-In jedem Bezirk besteht je ein Vermittleramt. Die Bezirksversammlung wählt für eine Amtsdauer von zwei Jahren einen Vermittler und einen Stellvertreter. Nicht wählbar sind die Mitglieder der Standeskommission, der Gerichte, sowie berufsmässige Parteivertreter. Das Nähere über Organisation, Geschäftsführung und Funktion des Vermittlers als Organ der Rechtspflege wird durch die Gesetzgebung bestimmt.
+[^38-1]
+
+In jedem Bezirk besteht je ein Vermittleramt. Die Bezirksgemeinde wählt einen Vermittler. Das Nähere über Organisation, Geschäftsführung und Funktion des Vermittlers als Organ der Rechtspflege wird durch die Gesetzgebung bestimmt.
+
+[^38-1]: Angenommen an der Landsgemeinde vom 9. Mai 2021, in Kraft seit 1. Juni 2021. Gewährleistungsbeschluss vom 22. Sept. 2022 ([BBl 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)Art. 3, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
 
 #### Art. 39
 
@@ -563,9 +567,13 @@ In jedem Bezirk besteht je ein Vermittleramt. Die Bezirksversammlung wählt für
 
 <sup>1</sup> Das Bezirksgericht ist das Gericht erster Instanz in den seiner Beurteilung unterstellten Straf- und Zivilsachen nach Massgabe der Gesetzgebung.
 
-<sup>2</sup> Die Bildung von besonderen Abteilungen zur Erledigung der Geschäfte wird durch die Gesetzgebung geordnet.
+<sup>2</sup> Dem Bezirksgericht gehören neben dem Präsidenten die von den Bezirksgemeinden gewählten Richter an. Für den Einsatz von Zwangsmassnahmenrichtern kann der Grosse Rat eine interkantonale Vereinbarung abschliessen.[^39-2]
+
+<sup>3</sup> Die Organisation des Bezirksgerichts wird durch das Gesetz bestimmt.[^39-3]
 
 [^39-1]: Angenommen an der Landsgemeinde vom 24. April 2005, in Kraft seit 24. April 2005. Gewährleistungsbeschluss vom 12. Juni 2006 ([BBl 2006 6127](https://fedlex.data.admin.ch/eli/fga/2006/714)Art. 1 Ziff. 3 [2813](https://fedlex.data.admin.ch/eli/fga/2006/301)).
+[^39-2]: Angenommen an der Landsgemeinde vom 9. Mai 2021, in Kraft seit 1. Juni 2021. Gewährleistungsbeschluss vom 22. Sept. 2022 ([BBl 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)Art. 3, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
+[^39-3]: Angenommen an der Landsgemeinde vom 9. Mai 2021, in Kraft seit 1. Juni 2021. Gewährleistungsbeschluss vom 22. Sept. 2022 ([BBl 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)Art. 3, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
 
 #### Art. 40
 
@@ -597,11 +605,15 @@ In jedem Bezirk besteht je ein Vermittleramt. Die Bezirksversammlung wählt für
 
 #### Art. 44
 
-<sup>1</sup> Die Mitglieder der Gerichte dürfen nicht gleichzeitig mehr als einer ordentlichen Gerichtsbehörde im Kanton angehören.
+[^44-1]
 
-<sup>2</sup> Die Mitglieder der Standeskommission, des Grossen Rates sowie die Bezirksräte können den Gerichten nicht angehören.[^44-1]
+<sup>1</sup> Die Mitglieder der Gerichte dürfen nicht gleichzeitig mehr als einer richterlichen Behörde im Kanton angehören.
 
-[^44-1]: Angenommen an der Landsgemeinde vom 24. April 1994, in Kraft seit 30. April 1995. Gewährleistungsbeschluss vom 12. Juni 1995 ([BBl 1995 III 567](https://fedlex.data.admin.ch/eli/fga/1995/3_567__)Art. 1 Ziff. 3 I 969).
+<sup>2</sup> Die Mitglieder der Standeskommission, des Grossen Rates sowie die Bezirksräte können keiner richterlichen Behörde im Kanton angehören.
+
+<sup>3</sup> Berufsmässige Parteivertreter sind als Vermittler nicht wählbar.
+
+[^44-1]: Angenommen an der Landsgemeinde vom 9. Mai 2021, in Kraft seit 1. Juni 2021. Gewährleistungsbeschluss vom 22. Sept. 2022 ([BBl 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)Art. 3, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
 
 #### Art. 45
 

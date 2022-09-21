@@ -3,11 +3,11 @@ sr: "131.224.2"
 title: "Constitution du canton d'Appenzell Rhodes-Intérieures, du 24 novembre 1872"
 eli: "https://fedlex.data.admin.ch/eli/cc/1872/3_842_832_842_fga"
 language: fr
-version: 2019-03-22
+version: 2022-09-22
 adopted: 1872-11-24
 in_force: 1873-04-27
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1872/3_842_832_842_fga/20190322/fr/xml/fedlex-data-admin-ch-eli-cc-1872-3_842_832_842_fga-20190322-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1872/3_842_832_842_fga/20190322/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1872/3_842_832_842_fga/20220922/fr/xml/fedlex-data-admin-ch-eli-cc-1872-3_842_832_842_fga-20220922-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1872/3_842_832_842_fga/20220922/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1872/3_842_832_842_fga/20190322/fr"
 
 Traduction[^t-1]
 
-du 24 novembre 1872 (Etat le 22 mars 2019)[^t-2]
+du 24 novembre 1872 (État le 22 septembre 2022)[^t-2]
 
 [^t-1]: Le texte en langue originale est publié, sous le même chiffre, dans l’édition allemande du présent recueil.
 [^t-2]: Cette publication se base sur les garanties fédérales publiées dans la FF. Elle peut de ce fait différer temporairement de la publication cantonale. La date de l’état est celle du dernier AF publié dans la FF.
@@ -25,13 +25,13 @@ du 24 novembre 1872 (Etat le 22 mars 2019)[^t-2]
 
 #### Art. 1
 
-<sup>1</sup> La Constitution est celle d’un Etat souverain, membre de la Confédération suisse. La souveraineté réside essentiellement dans le peuple et est exercée par lui à la *Landsgemeinde*.
+<sup>1</sup> La Constitution est celle d’un État souverain, membre de la Confédération suisse. La souveraineté réside essentiellement dans le peuple et est exercée par lui à la *Landsgemeinde*.
 
 <sup>2</sup> Le peuple se donne une Constitution, décide de l’acceptation ou du rejet des lois et participe aux élections qui sont de la compétence de la *Landsgemeinde*.
 
-<sup>3</sup> Le Grand Conseil règle le nécessaire dans une ordonnance.[^1-1]
+<sup>3</sup> Toutes les décisions du peuple et des conseils sont prises à la majorité absolue des votants. Les districts et les communes ont la faculté de remplacer dans les assemblées communales le vote à main levée par le vote au bulletin secret au moyen des urnes. L’introduction du vote au moyen des urnes est décidée au scrutin secret. Le Grand Conseil règle le nécessaire dans une ordonnance.[^1-1]
 
-[^1-1]: Accepté par la *Landsgemeinde* du 28 avr. 2013, en vigueur depuis le 28 avr. 2013. Garantie de l’Ass. féd. du 3 mars 2016 ([FF 2016 2137](https://fedlex.data.admin.ch/eli/fga/2016/476)art. 6 let. a, [2015 6959](https://fedlex.data.admin.ch/eli/fga/2015/1854)).
+[^1-1]: Phrase acceptée par la *Landsgemeinde* du 28 avr. 2013, en vigueur depuis le 28 avr. 2013. Garantie de l’Ass. féd. du 3 mars 2016 ([FF 2016 2137](https://fedlex.data.admin.ch/eli/fga/2016/476)art. 6 let. a, [2015 6959](https://fedlex.data.admin.ch/eli/fga/2015/1854)).
 
 #### Art. 2
 
@@ -47,13 +47,13 @@ du 24 novembre 1872 (Etat le 22 mars 2019)[^t-2]
 
 [^3-1]
 
-L’Eglise catholique romaine et l’Eglise évangélique réformée sont reconnues corporations de droit public. Elles règlent de manière indépendante leurs affaires internes.
+L’Étaglise catholique romaine et l’Étaglise évangélique réformée sont reconnues corporations de droit public. Elles règlent de manière indépendante leurs affaires internes.
 
 [^3-1]: Accepté par la *Landsgemeinde* du 27 avr. 2003, en vigueur depuis le 27 avr. 2003. Garantie de l’Ass. féd. du 14 mars 2005 ([FF 2005 2209](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 ch. 3, [2004 5287](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
 
 #### Art. 4
 
-<sup>1</sup> La propriété de toute nature est inviolable, qu’elle appartienne à des particuliers, à des sociétés, à des collectivités et fondations reconnues par l’Etat ou à des communes.
+<sup>1</sup> La propriété de toute nature est inviolable, qu’elle appartienne à des particuliers, à des sociétés, à des collectivités et fondations reconnues par l’État ou à des communes.
 
 <sup>2</sup> La cession de la propriété ou la constitution de droits réels immobiliers peut être exigée moyennant indemnité complète, lorsqu’elle est dans l’intérêt du canton ou d’une région du pays. Toutefois l’expropriation n’est licite que dans la mesure où elle est nécessaire pour atteindre le but visé et si une entente amiable n’est pas possible ou ne l’est qu’à des frais disproportionnés.[^4-1]
 
@@ -67,9 +67,9 @@ L’Eglise catholique romaine et l’Eglise évangélique réformée sont reconn
 
 #### Art. 5
 
-<sup>1</sup> L’Etat garantit la sécurité du patrimoine des corporations religieuses ainsi que son utilisation et son acquisition à des fins conformes aux statuts.
+<sup>1</sup> L’État garantit la sécurité du patrimoine des corporations religieuses ainsi que son utilisation et son acquisition à des fins conformes aux statuts.
 
-<sup>2</sup> L’administration du patrimoine conventuel s’effectue comme jusqu’à maintenant sous la protection de l’Etat.[^5-1]
+<sup>2</sup> L’administration du patrimoine conventuel s’effectue comme jusqu’à maintenant sous la protection de l’État.[^5-1]
 
 <sup>3</sup> …[^5-2]
 
@@ -121,9 +121,9 @@ Tous les habitants du canton ainsi que les communautés et les cercles ont le dr
 
 <sup>1</sup> Les décisions libres du Grand Conseil concernant des dépenses uniques d’au moins 1 000 000 francs ou des prestations d’au moins 250 000 francs se répétant pendant au moins quatre ans sont soumises au référendum.[^7ter-2]
 
-<sup>2</sup> Deux cents personnes, habitant dans le canton et disposant du droit de vote, peuvent soumettre au vote de la *Landsgemeinde* tout arrêté adopté librement par le Grand Conseil lorsque cet arrêté entraîne à charge de l’Etat une nouvelle dépense s’élevant pour le même objet à un montant unique de 500 000 francs et plus ou s’élevant à 125 000 francs et plus, pour le cas de prestations se répétant durant quatre ans au minimum. Les dépenses liées à la rémunération du personnel de l’Etat ne sont pas sujettes au référendum.[^7ter-3]
+<sup>2</sup> Deux cents personnes, habitant dans le canton et disposant du droit de vote, peuvent soumettre au vote de la *Landsgemeinde* tout arrêté adopté librement par le Grand Conseil lorsque cet arrêté entraîne à charge de l’État une nouvelle dépense s’élevant pour le même objet à un montant unique de 500 000 francs et plus ou s’élevant à 125 000 francs et plus, pour le cas de prestations se répétant durant quatre ans au minimum. Les dépenses liées à la rémunération du personnel de l’État ne sont pas sujettes au référendum.[^7ter-3]
 
-<sup>3</sup> Une décision susceptible de référendum entre en force si, dans un délai de 30 jours dès sa publication officielle, une requête valable en droit demandant une décision de la *Landsgemeinde* n’a pas été présentée à la *Standeskommission* (Conseil d’Etat).
+<sup>3</sup> Une décision susceptible de référendum entre en force si, dans un délai de 30 jours dès sa publication officielle, une requête valable en droit demandant une décision de la *Landsgemeinde* n’a pas été présentée à la *Standeskommission* (Conseil d’État).
 
 <sup>4</sup> Les décisions du Grand Conseil en matière de dépenses ne sont pas soumises au référendum lorsque leur exécution ne souffre aucun retard. Le Grand Conseil statue sur l’urgence par un vote secret. La décision exige la majorité des deux tiers des membres présents.
 
@@ -163,7 +163,7 @@ Les modifications du système fiscal sont du seul ressort de la *Landsgemeinde*.
 
 #### Art. 11
 
-<sup>1</sup> L’administration du budget de l’Etat est publique pour tous les comptes qui doivent être annoncés à chaque fin d’année.
+<sup>1</sup> L’administration du budget de l’État est publique pour tous les comptes qui doivent être annoncés à chaque fin d’année.
 
 <sup>2</sup> …[^11-1]
 
@@ -176,9 +176,9 @@ Les modifications du système fiscal sont du seul ressort de la *Landsgemeinde*.
 
 #### Art. 12
 
-<sup>1</sup> L’enseignement public relève de la compétence de l’Etat.[^12-1]
+<sup>1</sup> L’enseignement public relève de la compétence de l’État.[^12-1]
 
-<sup>2</sup> L’enseignement public obligatoire est gratuit. Les communes scolaires en supportent les frais avec l’aide appropriée de l’Etat, qui a pour objectif l’amélioration du système scolaire.[^12-2]
+<sup>2</sup> L’enseignement public obligatoire est gratuit. Les communes scolaires en supportent les frais avec l’aide appropriée de l’État, qui a pour objectif l’amélioration du système scolaire.[^12-2]
 
 [^12-1]: Accepté par la *Landsgemeinde* du 25 avr. 2004, en vigueur depuis le 25 avr. 2004. Garantie de l’Ass. féd. du 14 mars 2005 ([FF 2005 2209](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 ch. 3, [2004 5287](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
 [^12-2]: Accepté par la *Landsgemeinde* du 27 avr. 2003, en vigueur depuis le 27 avr. 2003. Garantie de l’Ass. féd. du 14 mars 2005 ([FF 2005 2209](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 ch. 3, [2004 5287](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
@@ -233,7 +233,7 @@ Chaque bénéficiaire du droit de vote n’est pas seulement autorisé, mais aus
 
 #### Art. 18
 
-<sup>1</sup> Jusqu’à l’âge de 65 ans révolus, tout électeur a l’obligation d’accepter son élection au Conseil d’Etat ou au Tribunal cantonal ou sa nomination à une fonction qui lui est confiée par le Grand Conseil, par le Conseil d’Etat, par une assemblée de district, par une paroisse ou par une commune scolaire, ou encore par un tribunal, par le conseil de district, par le conseil de paroisse ou par la commission scolaire.[^18-1]
+<sup>1</sup> Jusqu’à l’âge de 65 ans révolus, tout électeur a l’obligation d’accepter son élection au Conseil d’État ou au Tribunal cantonal ou sa nomination à une fonction qui lui est confiée par le Grand Conseil, par le Conseil d’État, par une assemblée de district, par une paroisse ou par une commune scolaire, ou encore par un tribunal, par le conseil de district, par le conseil de paroisse ou par la commission scolaire.[^18-1]
 
 <sup>2</sup> Sont libérées de cette obligation avant 65 ans révolus les personnes qui ont été membres pendant au moins huit ans en tout de l’une des autorités mentionnées à l’al. 1. Personne ne peut être contraint à revêtir l’une de ces charges durant plus de quatre ans.[^18-2]
 
@@ -265,7 +265,7 @@ Elle élit chaque année:
 
 - [tab]
 
-  1.[^20-1] le Conseil d’Etat, composé des sept membres suivants:
+  1.[^20-1] le Conseil d’État, composé des sept membres suivants:
 
   - ‒ le *Landammann* en exercice, qui, après deux ans, n’est pas rééligible à cette fonction dans l’année qui suit,
   - ‒ le vice-*Landammann*,
@@ -281,7 +281,7 @@ Elle élit chaque année:
 
 [^20bis-1]
 
-L’année où le Conseil national est intégralement renouvelé, la *Landsgemeinde* ordinaire élit le représentant du canton au Conseil des Etats.
+L’année où le Conseil national est intégralement renouvelé, la *Landsgemeinde* ordinaire élit le représentant du canton au Conseil des États.
 
 [^20bis-1]: Accepté par la *Landsgemeinde* du 27 avr. 2003, en vigueur depuis le 27 avr. 2003. Garantie de l’Ass. féd. du 14 mars 2005 ([FF 2005 2209](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 ch. 3, [2004 5287](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
 
@@ -311,7 +311,7 @@ Les dispositions suivantes s’appliquent encore à la *Landsgemeinde*:
 
 <sup>3</sup> Les sièges sont attribués sur la base du nombre d’habitants recensés par le contrôle cantonal des habitants le dernier jour de l’année précédant le renouvellement intégral du Grand Conseil.
 
-<sup>4</sup> Le Conseil d’Etat attribue les sièges aux districts. Le Grand Conseil tranche en cas de contestation.
+<sup>4</sup> Le Conseil d’État attribue les sièges aux districts. Le Grand Conseil tranche en cas de contestation.
 
 [^22-1]: Accepté par la *Landsgemeinde* du 1<sup>er</sup> mai 2011, en vigueur depuis le 1<sup>er</sup> mai 2011. Garantie de l’Ass. féd. du 11 mars 2013 ([FF 2013 2335](https://fedlex.data.admin.ch/eli/fga/2013/456)art. 1 ch. 2, [2012 7877](https://fedlex.data.admin.ch/eli/fga/2012/1505)).
 
@@ -321,7 +321,7 @@ Les dispositions suivantes s’appliquent encore à la *Landsgemeinde*:
 
 <sup>1</sup> Le Grand Conseil se réunit en session ordinaire cinq fois par an.
 
-<sup>2</sup> II se réunit en session extraordinaire lorsque le président du Grand Conseil ou le Conseil d’Etat l’estime nécessaire ou lorsque dix membres du Grand Conseil l’exigent.
+<sup>2</sup> II se réunit en session extraordinaire lorsque le président du Grand Conseil ou le Conseil d’État l’estime nécessaire ou lorsque dix membres du Grand Conseil l’exigent.
 
 <sup>3</sup> Appenzell est le lieu de réunion. Le Conseil peut décider de se réunir ailleurs.
 
@@ -331,7 +331,7 @@ Les dispositions suivantes s’appliquent encore à la *Landsgemeinde*:
 
 [^24-1]
 
-<sup>1</sup> La convocation à la première réunion d’une nouvelle législature est faite par le Conseil d’Etat. Jusqu’à ce que le président du Grand Conseil ait été élu, le doyen dirige les délibérations.
+<sup>1</sup> La convocation à la première réunion d’une nouvelle législature est faite par le Conseil d’État. Jusqu’à ce que le président du Grand Conseil ait été élu, le doyen dirige les délibérations.
 
 <sup>2</sup> Les réunions du Grand Conseil sont en règle générale publiques. Les réunions ont lieu à huis clos lors de l’examen de recours en grâce ainsi que, dans des cas particuliers, sur décision du Conseil.
 
@@ -343,7 +343,7 @@ Les dispositions suivantes s’appliquent encore à la *Landsgemeinde*:
 
 [^25-1]
 
-Les membres du Conseil d’Etat ont une voix consultative et le droit de faire des propositions lors des délibérations du Grand Conseil.
+Les membres du Conseil d’État ont une voix consultative et le droit de faire des propositions lors des délibérations du Grand Conseil.
 
 [^25-1]: Accepté par la *Landsgemeinde* du 24 avr. 1994, en vigueur depuis le 30 avr. 1995. Garantie de l’Ass. féd. du 12 juin 1995 ([FF 1995 III 560](https://fedlex.data.admin.ch/eli/fga/1995/3__560_)art. 1 ch. 3, I 957).
 
@@ -353,7 +353,7 @@ Les membres du Conseil d’Etat ont une voix consultative et le droit de faire d
 
 <sup>1</sup> Le Grand Conseil détermine l’ordre du jour de la *Landsgemeinde*.
 
-<sup>2</sup> Le Grand Conseil soumet à la *Landsgemeinde* les projets de révision constitutionnelle et les projets de lois; de plus, il examine les propositions qui ont été présentées par le Conseil d’Etat, par d’autres autorités ou par des citoyens, soit pour qu’elles soient réglées par le Conseil lui-même, soit pour qu’elles soient soumises à la *Landsgemeinde*.
+<sup>2</sup> Le Grand Conseil soumet à la *Landsgemeinde* les projets de révision constitutionnelle et les projets de lois; de plus, il examine les propositions qui ont été présentées par le Conseil d’État, par d’autres autorités ou par des citoyens, soit pour qu’elles soient réglées par le Conseil lui-même, soit pour qu’elles soient soumises à la *Landsgemeinde*.
 
 <sup>3</sup> Les objets soumis à la *Landsgemeinde* doivent être présentés au Grand Conseil au plus tard pour la troisième session ordinaire précédant la *Landsgemeinde*. Pour les objets urgents ou simples, le Grand Conseil peut, à la majorité des deux tiers de ses membres, décider de déroger à cette règle.
 
@@ -393,13 +393,13 @@ Les membres du Conseil d’Etat ont une voix consultative et le droit de faire d
 
 <sup>1</sup> Le Grand Conseil surveille la marche des affaires de toutes les autorités. Il peut régler les droits et les devoirs des autorités et des employés cantonaux et fixer l’organisation de l’administration cantonale, y compris en matière d’émoluments. Il règle le nécessaire pour la caisse d’assurance cantonale.[^29-2]
 
-<sup>2</sup> II examine les rapports annuels que lui remettent le Conseil d’Etat et le tribunal cantonal ainsi que les autres autorités dans les cas prévus par la loi.
+<sup>2</sup> II examine les rapports annuels que lui remettent le Conseil d’État et le tribunal cantonal ainsi que les autres autorités dans les cas prévus par la loi.
 
 <sup>3</sup> II fixe le taux d’imposition.
 
 <sup>4</sup> Il fixe le budget des recettes et des dépenses de toutes les administrations et de tous les tribunaux du Canton pour chaque année administrative.[^29-3]
 
-<sup>5</sup> Chaque année aussi, il examine et approuve le compte d’Etat.[^29-4]
+<sup>5</sup> Chaque année aussi, il examine et approuve le compte d’État.[^29-4]
 
 [^29-1]: Accepté par la *Landsgemeinde* du 24 avr. 1994, en vigueur depuis le 30 avr. 1995. Garantie de l’Ass. féd. du 12 juin 1995 ([FF 1995 III 560](https://fedlex.data.admin.ch/eli/fga/1995/3__560_)art. 1 ch. 3, I 957).
 [^29-2]: Accepté par la *Landsgemeinde* du 28 avr. 2013, en vigueur depuis le 28 avr. 2013. Garantie de l’Ass. féd. du 3 mars 2016 ([FF 2016 2137](https://fedlex.data.admin.ch/eli/fga/2016/476)art. 6 let. a, [2015 6959](https://fedlex.data.admin.ch/eli/fga/2015/1854)).
@@ -423,11 +423,11 @@ Le Grand Conseil élit pour une année:
 
 [^29bis-1]: Accepté par la *Landsgemeinde* du 24 avr. 2005, en vigueur depuis le 24 avr. 2005. Garantie de l’Ass. féd. du 12 juin 2006 ([FF 2006 5853](https://fedlex.data.admin.ch/eli/fga/2006/714)art. 1 ch. 3, [2725](https://fedlex.data.admin.ch/eli/fga/2006/301)).
 
-### b. Conseil d’Etat
+### b. Conseil d’État
 
 #### Art. 30
 
-<sup>1</sup> Le Conseil d’Etat se compose des membres désignés à l’art. 20, ch. 1, et élus par la *Lands**gemeinde*, qui ne peuvent appartenir au Grand Conseil, à un conseil de district, à un tribunal ni à une autorité locale.[^30-1]
+<sup>1</sup> Le Conseil d’État se compose des membres désignés à l’art. 20, ch. 1, et élus par la *Lands**gemeinde*, qui ne peuvent appartenir au Grand Conseil, à un conseil de district, à un tribunal ni à une autorité locale.[^30-1]
 
 <sup>2</sup> Il répartit les affaires gouvernementales entre ses membres.
 
@@ -447,7 +447,7 @@ Le Grand Conseil élit pour une année:
 
 <sup>10</sup>
 
-Ne peuvent siéger en même temps au Conseil d’Etat ou dans les tribunaux:
+Ne peuvent siéger en même temps au Conseil d’État ou dans les tribunaux:
 
 - – deux personnes unies par le mariage ou vivant sous le régime du partenariat enregistré ou du concubinage. Ni la dissolution du mariage ni celle du partenariat enregistré ne met fin à l’incompatibilité;
 - – les parents en ligne directe ou jusqu’au deuxième degré en ligne collatérale;
@@ -475,11 +475,11 @@ Ne peuvent siéger en même temps au Conseil d’Etat ou dans les tribunaux:
 
 #### Art. 32
 
-<sup>1</sup> Le *Landammann* en fonction préside la *Landsgemeinde* et le Conseil d’Etat.[^32-1]
+<sup>1</sup> Le *Landammann* en fonction préside la *Landsgemeinde* et le Conseil d’État.[^32-1]
 
 <sup>2</sup> Il signe les dossiers émanant de ces autorités et a la garde des sceaux.
 
-<sup>3</sup> La Chancellerie d’Etat est directement soumise aux ordres du président du Gouvernement; ce dernier surveille l’exécution des décisions du Gouvernement.[^32-2]
+<sup>3</sup> La Chancellerie d’État est directement soumise aux ordres du président du Gouvernement; ce dernier surveille l’exécution des décisions du Gouvernement.[^32-2]
 
 <sup>4</sup> En cas d’empêchement, il est remplacé par le vice-*Landammann*.
 
@@ -510,7 +510,7 @@ Ne peuvent siéger en même temps au Conseil d’Etat ou dans les tribunaux:
 
 <sup>6</sup> Les membres sortant du Grand Conseil doivent être remplacés dès que possible. Le nouvel élu reste en fonction jusqu’à la fin de la législature en cours.
 
-<sup>7</sup> Les districts peuvent fixer à quatre ans au plus la durée de fonction des conseillers de district, des membres de tribunaux de district, des juges de conciliation et de leurs suppléants.[^33-5]
+<sup>7</sup> Les districts peuvent fixer à quatre ans au plus la durée de fonction des conseillers de district, des membres de tribunaux de district et des juges de conciliation.[^33-5]
 
 <sup>8</sup> …[^33-6]
 
@@ -518,7 +518,7 @@ Ne peuvent siéger en même temps au Conseil d’Etat ou dans les tribunaux:
 [^33-2]: Accepté par la *Landsgemeinde* du 27 avr. 2003, en vigueur depuis le 27 avr. 2003. Garantie de l’Ass. féd. du 14 mars 2005 ([FF 2005 2209](https://fedlex.data.admin.ch/eli/fga/2005/300)art. 1 ch. 3, [2004 5287](https://fedlex.data.admin.ch/eli/fga/2004/1028)).
 [^33-3]: Accepté par la *Landsgemeinde* du 29 avr. 2012, en vigueur depuis le 29 avr. 2012. Garantie de l’Ass. féd. du 11 mars 2013 ([FF 2013 2337](https://fedlex.data.admin.ch/eli/fga/2013/457)art. 1 ch. 3, [193](https://fedlex.data.admin.ch/eli/fga/2013/6)).
 [^33-4]: Accepté par la *Landsgemeinde* du 29 avr. 2012, en vigueur depuis le 29 avr. 2012. Garantie de l’Ass. féd. du 11 mars 2013 ([FF 2013 2337](https://fedlex.data.admin.ch/eli/fga/2013/457)art. 1 ch. 3, [193](https://fedlex.data.admin.ch/eli/fga/2013/6)).
-[^33-5]: Accepté par la *Landsgemeinde* du 29 avr. 2012, en vigueur depuis le 29 avr. 2012. Garantie de l’Ass. féd. du 11 mars 2013 ([FF 2013 2337](https://fedlex.data.admin.ch/eli/fga/2013/457)art. 1 ch. 3, [193](https://fedlex.data.admin.ch/eli/fga/2013/6)).
+[^33-5]: Accepté par la *Landsgemeinde* du 9 mai 2021, en vigueur depuis le 1<sup>er</sup> juin 2021. Garantie de l’Ass. féd. du 22 sept. 2022 ([FF 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)art. 3, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
 [^33-6]: Accepté par la *Landsgemeinde* du 29 avr. 2007. Garantie de l’Ass. féd. du 6 mars 2008 ([FF 2008 2273](https://fedlex.data.admin.ch/eli/fga/2008/524)art. 1 ch. 6, [2007 7197](https://fedlex.data.admin.ch/eli/fga/2007/1220)). Abrogé par la *Landsgemeinde* du 29 avr. 2012, avec effet au 29 avr. 2012. Garantie de l’Ass. féd. du 11 mars 2013 ([FF 2013 2337](https://fedlex.data.admin.ch/eli/fga/2013/457)art. 1 ch. 3, [193](https://fedlex.data.admin.ch/eli/fga/2013/6)).
 
 #### Art. 34
@@ -558,7 +558,11 @@ Le *Hauptmann*, le *Hauptmann* suppléant et les conseillers de district sont ch
 
 #### Art. 38
 
-Dans chaque district, il y a un office de conciliation. L’assemblée de district nomme pour une durée de deux ans le chef de cet office et son suppléant. Ne sont pas éligibles les membres du Conseil d’Etat, des tribunaux et ceux qui, à titre professionnel, représentent les parties. L’organisation, la gestion de l’office et les fonctions du conciliateur comme organe de la justice sont déterminées par la législation
+[^38-1]
+
+Dans chaque district, il y a un office de conciliation. L’assemblée de district nomme le chef de cet office. L’organisation, la gestion de l’office et les fonctions du conciliateur comme organe de la justice sont déterminées par la législation.
+
+[^38-1]: Accepté par la *Landsgemeinde* du 9 mai 2021, en vigueur depuis le 1<sup>er</sup> juin 2021. Garantie de l’Ass. féd. du 22 sept. 2022 ([FF 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)art. 3, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
 
 #### Art. 39
 
@@ -566,9 +570,13 @@ Dans chaque district, il y a un office de conciliation. L’assemblée de distri
 
 <sup>1</sup> Le tribunal de district est le tribunal de première instance pour les affaires civiles et pénales soumises à sa juridiction en vertu de la législation.
 
-<sup>2</sup> La législation règle la formation des différentes cours du tribunal compétentes pour traiter des dossiers.
+<sup>2</sup> Le tribunal de district se compose du président et des juges élus par l’assemblée de district. Le Grand Conseil peut conclure un concordat intercantonal concernant l’engagement des juges du tribunal des mesures de contrainte.[^39-2]
+
+<sup>3</sup> L’organisation du tribunal de district est déterminée par la loi.[^39-3]
 
 [^39-1]: Accepté par la *Landsgemeinde* du 24 avr. 2005, en vigueur depuis le 24 avr. 2005. Garantie de l’Ass. féd. du 12 juin 2006 ([FF 2006 5853](https://fedlex.data.admin.ch/eli/fga/2006/714)art. 1 ch. 3, [2725](https://fedlex.data.admin.ch/eli/fga/2006/301)).
+[^39-2]: Accepté par la *Landsgemeinde* du 9 mai 2021, en vigueur depuis le 1<sup>er</sup> juin 2021. Garantie de l’Ass. féd. du 22 sept. 2022 ([FF 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)art. 3, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
+[^39-3]: Accepté par la *Landsgemeinde* du 9 mai 2021, en vigueur depuis le 1<sup>er</sup> juin 2021. Garantie de l’Ass. féd. du 22 sept. 2022 ([FF 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)art. 3, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
 
 #### Art. 40
 
@@ -590,7 +598,7 @@ Dans chaque district, il y a un office de conciliation. L’assemblée de distri
 
 #### Art. 43
 
-<sup>1</sup> A moins que la loi n’en dispose autrement, les débats des tribunaux, ainsi que le prononcé des jugements, sont publics.[^43-1]
+<sup>1</sup> À moins que la loi n’en dispose autrement, les débats des tribunaux, ainsi que le prononcé des jugements, sont publics.[^43-1]
 
 <sup>2</sup> La législation détermine le quorum.
 
@@ -600,11 +608,15 @@ Dans chaque district, il y a un office de conciliation. L’assemblée de distri
 
 #### Art. 44
 
-<sup>1</sup> Les membres des tribunaux ne peuvent appartenir en même temps à plus d’une autorité judiciaire ordinaire du canton.
+[^44-1]
 
-<sup>2</sup> Les membres du Conseil d’Etat, du Grand Conseil et des conseils de district ne peuvent être membres des tribunaux.[^44-1]
+<sup>1</sup> Les membres des tribunaux ne peuvent appartenir en même temps à plus d’une autorité judiciaire du canton.
 
-[^44-1]: Accepté par la *Landsgemeinde* du 24 avr. 1994, en vigueur depuis le 30 avr. 1995. Garantie de l’Ass. féd. du 12 juin 1995 ([FF 1995 III 560](https://fedlex.data.admin.ch/eli/fga/1995/3__560_)art. 1 ch. 3, I 957).
+<sup>2</sup> Les membres du Conseil d’État, du Grand Conseil et des conseils de district ne peuvent être membres des autorités judiciaires du canton.
+
+<sup>3</sup> Ne sont pas éligibles comme juges de conciliation ceux qui, à titre professionnel, représentent les parties.
+
+[^44-1]: Accepté par la *Landsgemeinde* du 9 mai 2021, en vigueur depuis le 1<sup>er</sup> juin 2021. Garantie de l’Ass. féd. du 22 sept. 2022 ([FF 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)art. 3, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
 
 #### Art. 45
 
@@ -710,7 +722,7 @@ Canton
 
 Cession
 
-Chancellerie d’Etat 32<sup>3</sup>, 43
+Chancellerie d’État 32<sup>3</sup>, 43
 
 Chef-lieu 15
 
@@ -724,7 +736,7 @@ Communes 4, 15, 19, 24
 
 – frontières des 27<sup>2</sup>
 
-cf. aussi Ecoles, Eglises
+cf. aussi Étacoles, Étaglises
 
 Comptes 11<sup>1</sup>
 
@@ -742,11 +754,11 @@ Confédération
 
 Corporation de droit public 3, 5
 
-Conseil d’Etat (cant.) 30, 31
+Conseil d’État (cant.) 30, 31
 
 – accepter son élection au 18
 
-– élection par la *Landsgemeinde* pour le conseil d’Etat 20<sup>2</sup>
+– élection par la *Landsgemeinde* pour le conseil d’État 20<sup>2</sup>
 
 – membre du Grand Conseil 23
 
@@ -816,17 +828,17 @@ Domicile
 
 Droits
 
-Ecoles 12, 46
+Étacoles 12, 46
 
 – commission scolaire 18, 46, 47
 
 – communes scolaires 12, 18, 46
 
-Egalité
+Étagalité
 
 – des citoyens et devant la loi 2
 
-Eglise/s 3, 5<sup>1</sup>, 46, 47
+Étaglise/s 3, 5<sup>1</sup>, 46, 47
 
 – élection 18<sup>1</sup>,
 
@@ -836,7 +848,7 @@ Eglise/s 3, 5<sup>1</sup>, 46, 47
 
 cf. aussi Paroisse
 
-Election/s 1
+Étalection/s 1
 
 – participation 1
 
@@ -856,27 +868,27 @@ Election/s 1
 
 – fédérales 33<sup>4</sup>
 
-Eligibilité 16<sup>1bis</sup>, 20<sup>2</sup>, 35, 38
+Étaligibilité 16<sup>1bis</sup>, 20<sup>2</sup>, 35, 38
 
-Emoluments 29<sup>1</sup>
+Étamoluments 29<sup>1</sup>
 
-Enseignement, cf. Ecoles
+Enseignement, cf. Étacoles
 
-Etat
+État
 
 – souveraineté 1
 
-– garanties par l’Etat 5
+– garanties par l’État 5
 
-– protection par l’Etat 5
+– protection par l’État 5
 
-– budget et comptes de l’Etat 11<sup>1</sup>, 29<sup>5</sup>
+– budget et comptes de l’État 11<sup>1</sup>, 29<sup>5</sup>
 
 Exécution
 
 – pouvoir exécutif Grand Conseil 7<sup>4</sup>, 27<sup>1</sup>,
 
-– pouvoir exécutif Conseil d’Etat 30<sup>3</sup>,
+– pouvoir exécutif Conseil d’État 30<sup>3</sup>,
 
 – des décisions du Gouvernement 32, 37
 
@@ -886,7 +898,7 @@ Finances 11, 12, 28
 
 – compétences du Grand Conseil 29
 
-– compétences du Conseil d’Etat 30
+– compétences du Conseil d’État 30
 
 Fonction/s
 
@@ -970,7 +982,7 @@ Jugement
 
 – ordre du jour 26
 
-– élection du Conseil d’Etat 30
+– élection du Conseil d’État 30
 
 – présidence 32<sup>1</sup>
 
@@ -1040,7 +1052,7 @@ Propriété
 
 Protection
 
-– sous la protection de l’Etat 5
+– sous la protection de l’État 5
 
 Publicité/publique
 
@@ -1072,7 +1084,7 @@ Représentant(e)s 30, 38
 
 – de chaque district au tribunal cantonal 20
 
-– du canton au Conseil d’Etat 20<sup>bis</sup>
+– du canton au Conseil d’État 20<sup>bis</sup>
 
 Réunion/s
 
@@ -1184,7 +1196,7 @@ Vote/Votations
 - [tab] – scolaires 18, 46<sup>4</sup>, 47
 - [tab] – du Grand-Conseil 29<sup>bis</sup>
 
-- [tab] – valables du Conseil d’Etat 31
+- [tab] – valables du Conseil d’État 31
 - [tab] – valables des tribunaux 43
 - [tab] – du Gouvernement, surveiller l’exécution 32
 - [tab] – du Grand Conseil, cf. Lois
@@ -1200,7 +1212,7 @@ Vote/Votations
 - [tab] – de cité cantonal 13
 - [tab] – publics 16ss, 40
 - [tab] – d’une fraction au Grand Conseil 22
-- [tab] – des membres du Conseil d’Etat 25
+- [tab] – des membres du Conseil d’État 25
 - [tab] – droit de cité 28
 - [tab] – des districts 33<sup>4</sup>,
 - [tab] – administratif 40
@@ -1232,7 +1244,7 @@ Vote/Votations
 - [tab] – débats et prononcé de jugements publics 43
 
 - [tab] – sur les offices de l’administration 21
-- [tab] – rapports annuels remis par le Conseil d’Etat 29
+- [tab] – rapports annuels remis par le Conseil d’État 29
 - [tab] – des paroisses 46
 
 - [tab] – le droit inviolable de 2
