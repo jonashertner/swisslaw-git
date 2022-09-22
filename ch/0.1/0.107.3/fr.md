@@ -3,11 +3,11 @@ sr: "0.107.3"
 title: "Protocole facultatif du 19 décembre 2011 à la Convention relative aux droits de l'enfant établissant une procédure de présentation de communications"
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/330"
 language: fr
-version: 2020-08-13
+version: 2022-09-23
 adopted: 2011-12-19
 in_force: 2017-07-24
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/330/20200813/fr/xml/fedlex-data-admin-ch-eli-cc-2017-330-20200813-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/330/20200813/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/330/20220923/fr/xml/fedlex-data-admin-ch-eli-cc-2017-330-20220923-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/330/20220923/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument d’adhésion déposé par la Suisse le 24 avril 2017
 
 Entré en vigueur pour la Suisse le 24 juillet 2017
 
-(Etat le 13 août 2020)
+(État le 23 septembre 2022)
 
 [^t-1]: [RO 2017 3237](https://fedlex.data.admin.ch/eli/oc/2017/329)
 
@@ -308,20 +308,21 @@ Le Secrétaire général informe tous les États:
 
 *(Suivent les signatures)*
 
-Champ d’application le 13 août 2020**[^t-2]**
+Champ d’application le 23 septembre 2022[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
-<tr><td>Albanie<sup>\*</sup></td><td>29 mai</td><td>2013</td><td>14 avril</td><td>2014</td></tr>
-<tr><td>Allemagne<sup>\*</sup></td><td>28 février</td><td>2013</td><td>14 avril</td><td>2014</td></tr>
+<tr><td>Albanie\*</td><td>29 mai</td><td>2013</td><td>14 avril</td><td>2014</td></tr>
+<tr><td>Allemagne\*</td><td>28 février</td><td>2013</td><td>14 avril</td><td>2014</td></tr>
 <tr><td>Andorre</td><td>25 septembre</td><td>2014</td><td>25 décembre</td><td>2014</td></tr>
 <tr><td>Argentine</td><td>14 avril</td><td>2015</td><td>14 juillet</td><td>2015</td></tr>
-<tr><td>Belgique<sup>\*</sup></td><td>30 mai</td><td>2014</td><td>30 août</td><td>2014</td></tr>
+<tr><td>Arménie</td><td>24 mars</td><td>2021</td><td>24 juin</td><td>2021</td></tr>
+<tr><td>Belgique\*</td><td>30 mai</td><td>2014</td><td>30 août</td><td>2014</td></tr>
 <tr><td>Bénin</td><td>19 août</td><td>2019</td><td>19 novembre</td><td>2019</td></tr>
 <tr><td>Bolivie</td><td>2 avril</td><td>2013 A</td><td>14 avril</td><td>2014</td></tr>
 <tr><td>Bosnie et Herzégovine</td><td>17 mai</td><td>2018</td><td>17 août</td><td>2018</td></tr>
 <tr><td>Brésil</td><td>29 septembre</td><td>2017</td><td>29 décembre</td><td>2017</td></tr>
-<tr><td>Chili<sup>\*</sup></td><td>1<sup>er</sup> septembre</td><td>2015</td><td>1<sup>er</sup> décembre</td><td>2015</td></tr>
+<tr><td>Chili\*</td><td>1<sup>er</sup> septembre</td><td>2015</td><td>1<sup>er</sup> décembre</td><td>2015</td></tr>
 <tr><td>Chypre\*\*</td><td>11 septembre</td><td>2017</td><td>11 octobre</td><td>2017</td></tr>
 <tr><td>Costa Rica</td><td>14 janvier</td><td>2014</td><td>14 avril</td><td>2014</td></tr>
 <tr><td>Croatie</td><td>18 avril</td><td>2017</td><td>18 juillet</td><td>2017</td></tr>
@@ -329,39 +330,41 @@ Champ d’application le 13 août 2020**[^t-2]**
 <tr><td>El Salvador</td><td>9 février</td><td>2015</td><td>9 mai</td><td>2015</td></tr>
 <tr><td>Équateur</td><td>19 septembre</td><td>2018</td><td>19 décembre</td><td>2018</td></tr>
 <tr><td>Espagne</td><td>3 juin</td><td>2013</td><td>14 avril</td><td>2014</td></tr>
-<tr><td>Finlande<sup>\*</sup></td><td>12 novembre</td><td>2015</td><td>12 février</td><td>2016</td></tr>
+<tr><td>Finlande\*</td><td>12 novembre</td><td>2015</td><td>12 février</td><td>2016</td></tr>
 <tr><td>France</td><td>7 janvier</td><td>2016</td><td>7 avril</td><td>2016</td></tr>
 <tr><td>Gabon</td><td>25 septembre</td><td>2012 A</td><td>14 avril</td><td>2014</td></tr>
 <tr><td>Géorgie</td><td>19 septembre</td><td>2016 A</td><td>19 décembre</td><td>2016</td></tr>
 <tr><td>Îles Marshall</td><td>29 janvier</td><td>2019 A</td><td>29 avril</td><td>2019</td></tr>
 <tr><td>Irlande</td><td>24 septembre</td><td>2014</td><td>24 décembre</td><td>2014</td></tr>
-<tr><td>Italie<sup>\*</sup></td><td>4 février</td><td>2016</td><td>4 mai</td><td>2016</td></tr>
-<tr><td>Liechtenstein<sup>\*</sup></td><td>25 janvier</td><td>2017</td><td>25 avril</td><td>2017</td></tr>
+<tr><td>Italie\*</td><td>4 février</td><td>2016</td><td>4 mai</td><td>2016</td></tr>
+<tr><td>Liechtenstein\*</td><td>25 janvier</td><td>2017</td><td>25 avril</td><td>2017</td></tr>
 <tr><td>Luxembourg</td><td>12 février</td><td>2016</td><td>12 mai</td><td>2016</td></tr>
 <tr><td>Maldives</td><td>27 septembre</td><td>2019</td><td>27 décembre</td><td>2019</td></tr>
-<tr><td>Monaco<sup>\*</sup></td><td>24 septembre</td><td>2014 A</td><td>24 décembre</td><td>2014</td></tr>
+<tr><td>Monaco\*</td><td>24 septembre</td><td>2014 A</td><td>24 décembre</td><td>2014</td></tr>
 <tr><td>Mongolie</td><td>28 septembre</td><td>2015</td><td>28 décembre</td><td>2015</td></tr>
 <tr><td>Monténégro</td><td>24 septembre</td><td>2013</td><td>14 avril</td><td>2014</td></tr>
+<tr><td>Nouvelle-Zélande <sup>b</sup></td><td>22 septembre</td><td>2022</td><td>22 décembre</td><td>2022</td></tr>
 <tr><td>Palestine</td><td>10 avril</td><td>2019 A</td><td>10 juillet</td><td>2019</td></tr>
 <tr><td>Panama</td><td>16 février</td><td>2017 A</td><td>16 mai</td><td>2017</td></tr>
 <tr><td>Paraguay</td><td>20 janvier</td><td>2017</td><td>20 avril</td><td>2017</td></tr>
-<tr><td>Portugal<sup>\*</sup></td><td>24 septembre</td><td>2013</td><td>14 avril</td><td>2014</td></tr>
+<tr><td>Portugal\*</td><td>24 septembre</td><td>2013</td><td>14 avril</td><td>2014</td></tr>
 <tr><td>Pérou</td><td>6 janvier</td><td>2016</td><td>6 avril</td><td>2016</td></tr>
-<tr><td>République tchèque<sup>\*</sup></td><td>2 décembre</td><td>2015</td><td>2 mars</td><td>2016</td></tr>
-<tr><td>Saint-Marin</td><td>26 septembre</td><td>2018 A</td><td>26 décembre</td><td>2018</td></tr>
+<tr><td>République tchèque\*</td><td>2 décembre</td><td>2015</td><td>2 mars</td><td>2016</td></tr>
+<tr><td>Saint-Marin\*</td><td>26 septembre</td><td>2018 A</td><td>26 décembre</td><td>2018</td></tr>
 <tr><td>Samoa</td><td>29 avril</td><td>2016 A</td><td>29 juillet</td><td>2016</td></tr>
-<tr><td>Slovaquie<sup>\*</sup></td><td>3 décembre</td><td>2013</td><td>14 avril</td><td>2014</td></tr>
-<tr><td>Slovénie<sup>\*</sup></td><td>25 mai</td><td>2018</td><td>25 août</td><td>2018</td></tr>
-<tr><td>Suisse<sup>\*</sup></td><td>24 avril</td><td>2017 A</td><td>24 juillet</td><td>2017</td></tr>
+<tr><td>Seychelles</td><td>7 juin</td><td>2021</td><td>7 septembre</td><td>2021</td></tr>
+<tr><td>Slovaquie\*</td><td>3 décembre</td><td>2013</td><td>14 avril</td><td>2014</td></tr>
+<tr><td>Slovénie\*</td><td>25 mai</td><td>2018</td><td>25 août</td><td>2018</td></tr>
+<tr><td>Suisse\*</td><td>24 avril</td><td>2017 A</td><td>24 juillet</td><td>2017</td></tr>
 <tr><td>Thaïlande</td><td>25 septembre</td><td>2012</td><td>14 avril</td><td>2014</td></tr>
 <tr><td>Tunisie</td><td>14 décembre</td><td>2018 A</td><td>14 mars</td><td>2019</td></tr>
-<tr><td>Turquie<sup>\*</sup></td><td>26 décembre</td><td>2017</td><td>26 mars</td><td>2018</td></tr>
-<tr><td>Ukraine<sup>\*</sup></td><td>2 septembre</td><td>2016</td><td>2 décembre</td><td>2016</td></tr>
+<tr><td>Turquie\*</td><td>26 décembre</td><td>2017</td><td>26 mars</td><td>2018</td></tr>
+<tr><td>Ukraine\*</td><td>2 septembre</td><td>2016</td><td>2 décembre</td><td>2016</td></tr>
 <tr><td>Uruguay</td><td>23 février</td><td>2015</td><td>23 mai</td><td>2015</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO, à l’exception des réserves et déclarations de la Suisse. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Le Protocole facultatif ne s’applique pas au Groenland et aux îles Féroé.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO, à l’exception des réserves et déclarations de la Suisse. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: [https://treaties.un.org/](https://treaties.un.org/) &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Le Protocole facultatif ne s’applique pas au Groenland et aux îles Féroé. <sup>b</sup> Le Protocole facultatif ne s’applique pas au Tokélaou.</td></tr>
 </table>
 
-[^t-2]: [RO 2017 3239](https://fedlex.data.admin.ch/eli/oc/2017/330), [2018 2547](https://fedlex.data.admin.ch/eli/oc/2018/374), [2019 1063](https://fedlex.data.admin.ch/eli/oc/2019/196), [2020 3601](https://fedlex.data.admin.ch/eli/oc/2020/647). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 2017 3239](https://fedlex.data.admin.ch/eli/oc/2017/330); [2018 2547](https://fedlex.data.admin.ch/eli/oc/2018/374); [2019 1063](https://fedlex.data.admin.ch/eli/oc/2019/196); [2020 3601](https://fedlex.data.admin.ch/eli/oc/2020/647); [2022 538](https://fedlex.data.admin.ch/eli/oc/2022/538). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [https://www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
 
 Déclaration
 

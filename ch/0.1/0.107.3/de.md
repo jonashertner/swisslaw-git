@@ -3,11 +3,11 @@ sr: "0.107.3"
 title: Fakultativprotokoll vom 19. Dezember 2011 zum Übereinkommen über die Rechte des Kindes betreffend ein Mitteilungsverfahren
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/330"
 language: de
-version: 2020-08-13
+version: 2022-09-23
 adopted: 2011-12-19
 in_force: 2017-07-24
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/330/20200813/de/xml/fedlex-data-admin-ch-eli-cc-2017-330-20200813-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/330/20200813/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/330/20220923/de/xml/fedlex-data-admin-ch-eli-cc-2017-330-20220923-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/330/20220923/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Beitrittsurkunde von der Schweiz hinterlegt am 24. April 2017
 
 In Kraft getreten für die Schweiz am 24. Juli 2017
 
-(Stand am 13. August 2020)
+(Stand am 23. September 2022)
 
 [^t-1]: Zwischen Deutschland, Liechtenstein, Österreich und der Schweiz abgestimmte deutsche Übersetzung.
 [^t-2]: [AS 2017 3237](https://fedlex.data.admin.ch/eli/oc/2017/329)
@@ -309,13 +309,14 @@ Der Generalsekretär unterrichtet alle Staaten von:
 
 *(Es folgen die Unterschriften)*
 
-Geltungsbereich am 13. August 2020**[^t-3]**
+Geltungsbereich am 23. September 2022[^t-3]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td>Albanien\*</td><td>29. Mai</td><td>2013</td><td>14. April</td><td>2014</td></tr>
 <tr><td>Andorra</td><td>25. September</td><td>2014</td><td>25. Dezember</td><td>2014</td></tr>
 <tr><td>Argentinien</td><td>14. April</td><td>2015</td><td>14. Juli</td><td>2015</td></tr>
+<tr><td>Armenien</td><td>24. März</td><td>2021</td><td>24. Juni</td><td>2021</td></tr>
 <tr><td>Belgien\*</td><td>30. Mai</td><td>2014</td><td>30. August</td><td>2014</td></tr>
 <tr><td>Benin</td><td>19. August</td><td>2019</td><td>19. November</td><td>2019</td></tr>
 <tr><td>Bolivien</td><td>2. April</td><td>2013 B</td><td>14. April</td><td>2014</td></tr>
@@ -341,28 +342,30 @@ Geltungsbereich am 13. August 2020**[^t-3]**
 <tr><td>Monaco\*</td><td>24. September</td><td>2014 B</td><td>24. Dezember</td><td>2014</td></tr>
 <tr><td>Mongolei</td><td>28. September</td><td>2015</td><td>28. Dezember</td><td>2015</td></tr>
 <tr><td>Montenegro</td><td>24. September</td><td>2013</td><td>14. April</td><td>2014</td></tr>
+<tr><td>Neuseeland <sup>b</sup></td><td>22. September</td><td>2022</td><td>22. Dezember</td><td>2022</td></tr>
 <tr><td>Palästina</td><td>10. April</td><td>2019 B</td><td>10. Juli</td><td>2019</td></tr>
 <tr><td>Panama</td><td>16. Februar</td><td>2017 B</td><td>16. Mai</td><td>2017</td></tr>
 <tr><td>Paraguay</td><td>20. Januar</td><td>2017</td><td>20. April</td><td>2017</td></tr>
 <tr><td>Peru</td><td>6. Januar</td><td>2016</td><td>6. April</td><td>2016</td></tr>
 <tr><td>Portugal\*</td><td>24. September</td><td>2013</td><td>14. April</td><td>2014</td></tr>
 <tr><td>Samoa</td><td>29. April</td><td>2016 B</td><td>29. Juli</td><td>2016</td></tr>
-<tr><td>San Marino</td><td>26. September</td><td>2018 B</td><td>26. Dezember</td><td>2018</td></tr>
+<tr><td>San Marino\*</td><td>26. September</td><td>2018 B</td><td>26. Dezember</td><td>2018</td></tr>
 <tr><td>Schweiz\*</td><td>24. April</td><td>2017 B</td><td>24. Juli</td><td>2017</td></tr>
+<tr><td>Seychellen</td><td>7. Juni</td><td>2021</td><td>7. September</td><td>2021</td></tr>
 <tr><td>Slowakei\*</td><td>3. Dezember</td><td>2013</td><td>14. April</td><td>2014</td></tr>
-<tr><td>Slowenien<sup>\*</sup></td><td>25. Mai</td><td>2018</td><td>25. August</td><td>2018</td></tr>
+<tr><td>Slowenien\*</td><td>25. Mai</td><td>2018</td><td>25. August</td><td>2018</td></tr>
 <tr><td>Spanien</td><td>3. Juni</td><td>2013</td><td>14. April</td><td>2014</td></tr>
 <tr><td>Thailand</td><td>25. September</td><td>2012</td><td>14. April</td><td>2014</td></tr>
-<tr><td>Türkei<sup>\*</sup></td><td>26. Dezember</td><td>2017</td><td>26. März</td><td>2018</td></tr>
+<tr><td>Türkei\*</td><td>26. Dezember</td><td>2017</td><td>26. März</td><td>2018</td></tr>
 <tr><td>Tschechische Republik\*</td><td>2. Dezember</td><td>2015</td><td>2. März</td><td>2016</td></tr>
 <tr><td>Tunesien</td><td>14. Dezember</td><td>2018 B</td><td>14. März</td><td>2019</td></tr>
 <tr><td>Ukraine\*</td><td>2. September</td><td>2016</td><td>2. Dezember</td><td>2016</td></tr>
 <tr><td>Uruguay</td><td>23. Februar</td><td>2015</td><td>23. Mai</td><td>2015</td></tr>
 <tr><td>Zypern\*\*</td><td>11. September</td><td>2017</td><td>11. Oktober</td><td>2017</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht, mit Ausnahme der Vorbehalte und Erklärungen der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Fakultativprotokoll gilt nicht für Grönland und die Färöer.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht, mit Ausnahme der Vorbehalte und Erklärungen der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: [http://treaties.un.org](http://treaties.un.org)/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Fakultativprotokoll gilt nicht für Grönland und die Färöer. <sup>b</sup> Das Fakultativprotokoll gilt nicht für Tokelau.</td></tr>
 </table>
 
-[^t-3]: [AS 2017 3239](https://fedlex.data.admin.ch/eli/oc/2017/330), [2018 2547](https://fedlex.data.admin.ch/eli/oc/2018/374), [2019 1063](https://fedlex.data.admin.ch/eli/oc/2019/196), [2020 3601](https://fedlex.data.admin.ch/eli/oc/2020/647). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-3]: [AS 2017 3239](https://fedlex.data.admin.ch/eli/oc/2017/330); [2018 2547](https://fedlex.data.admin.ch/eli/oc/2018/374); [2019 1063](https://fedlex.data.admin.ch/eli/oc/2019/196); [2020 3601](https://fedlex.data.admin.ch/eli/oc/2020/647); [2022 538](https://fedlex.data.admin.ch/eli/oc/2022/538). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht [https://www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty)
 
 Erklärung
 

@@ -3,11 +3,11 @@ sr: "0.107.3"
 title: Protocollo facoltativo del 19 dicembre 2011 alla Convenzione sui diritti del fanciullo che istituisce una procedura per la presentazione di comunicazioni
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/330"
 language: it
-version: 2020-08-13
+version: 2022-09-23
 adopted: 2011-12-19
 in_force: 2017-07-24
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/330/20200813/it/xml/fedlex-data-admin-ch-eli-cc-2017-330-20200813-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/330/20200813/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/330/20220923/it/xml/fedlex-data-admin-ch-eli-cc-2017-330-20220923-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/330/20220923/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -26,7 +26,7 @@ Strumento di adesione depositato dalla Svizzera il 24 aprile 2017
 
 Entrato in vigore per la Svizzera il 24 luglio 2017
 
-(Stato 13 agosto 2020)
+(Stato 23 settembre 2022)
 
 [^t-1]: [RU 2017 3237](https://fedlex.data.admin.ch/eli/oc/2017/329)
 
@@ -308,13 +308,14 @@ II Segretario generale informa tutti gli Stati parte in merito:
 
 *(Seguono le firme)*
 
-Campo d’applicazione il 13 agosto 2020**[^t-2]**
+Campo d’applicazione il 23 settembre 2022[^t-2]
 
 <table>
 <tr><th>Stati parte</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td>Albania\*</td><td>29 maggio</td><td>2013</td><td>14 aprile</td><td>2014</td></tr>
 <tr><td>Andorra</td><td>25 settembre</td><td>2014</td><td>25 dicembre</td><td>2014</td></tr>
 <tr><td>Argentina</td><td>14 aprile</td><td>2015</td><td>14 luglio</td><td>2015</td></tr>
+<tr><td>Armenia</td><td>24 marzo</td><td>2021</td><td>24 giugno</td><td>2021</td></tr>
 <tr><td>Belgio\*</td><td>30 maggio</td><td>2014</td><td>30 agosto</td><td>2014</td></tr>
 <tr><td>Benin</td><td>19 agosto</td><td>2019</td><td>19 novembre</td><td>2019</td></tr>
 <tr><td>Bolivia</td><td>2 aprile</td><td>2013 A</td><td>14 aprile</td><td>2014</td></tr>
@@ -333,7 +334,7 @@ Campo d’applicazione il 13 agosto 2020**[^t-2]**
 <tr><td>Georgia</td><td>19 settembre</td><td>2016 A</td><td>19 dicembre</td><td>2016</td></tr>
 <tr><td>Germania\*</td><td>28 febbraio</td><td>2013</td><td>14 aprile</td><td>2014</td></tr>
 <tr><td>Irlanda</td><td>24 settembre</td><td>2014</td><td>24 dicembre</td><td>2014</td></tr>
-<tr><td>Italia<sup>\*</sup></td><td>4 febbraio</td><td>2016</td><td>4 maggio</td><td>2016</td></tr>
+<tr><td>Italia\*</td><td>4 febbraio</td><td>2016</td><td>4 maggio</td><td>2016</td></tr>
 <tr><td>Liechtenstein\*</td><td>25 gennaio</td><td>2017</td><td>25 aprile</td><td>2017</td></tr>
 <tr><td>Lussemburgo</td><td>12 febbraio</td><td>2016</td><td>12 maggio</td><td>2016</td></tr>
 <tr><td>Maldive</td><td>27 settembre</td><td>2019</td><td>27 dicembre</td><td>2019</td></tr>
@@ -341,6 +342,7 @@ Campo d’applicazione il 13 agosto 2020**[^t-2]**
 <tr><td>Monaco\*</td><td>24 settembre</td><td>2014 A</td><td>24 dicembre</td><td>2014</td></tr>
 <tr><td>Mongolia</td><td>28 settembre</td><td>2015</td><td>28 dicembre</td><td>2015</td></tr>
 <tr><td>Montenegro</td><td>24 settembre</td><td>2013</td><td>14 aprile</td><td>2014</td></tr>
+<tr><td>Nuova Zelanda <sup>b</sup></td><td>22 settembre</td><td>2022</td><td>22 dicembre</td><td>2022</td></tr>
 <tr><td>Palestina</td><td>10 aprile</td><td>2019 A</td><td>10 luglio</td><td>2019</td></tr>
 <tr><td>Panama</td><td>16 febbraio</td><td>2017 A</td><td>16 maggio</td><td>2017</td></tr>
 <tr><td>Paraguay</td><td>20 gennaio</td><td>2017</td><td>20 aprile</td><td>2017</td></tr>
@@ -348,7 +350,8 @@ Campo d’applicazione il 13 agosto 2020**[^t-2]**
 <tr><td>Portogallo\*</td><td>24 settembre</td><td>2013</td><td>14 aprile</td><td>2014</td></tr>
 <tr><td>Repubblica Ceca\*</td><td>2 dicembre</td><td>2015</td><td>2 marzo</td><td>2016</td></tr>
 <tr><td>Samoa</td><td>29 aprile</td><td>2016 A</td><td>29 luglio</td><td>2016</td></tr>
-<tr><td>San Marino</td><td>26 settembre</td><td>2018 A</td><td>26 dicembre</td><td>2018</td></tr>
+<tr><td>San Marino\*</td><td>26 settembre</td><td>2018 A</td><td>26 dicembre</td><td>2018</td></tr>
+<tr><td>Seychelles</td><td>7 giugno</td><td>2021</td><td>7 settembre</td><td>2021</td></tr>
 <tr><td>Slovacchia\*</td><td>3 dicembre</td><td>2013</td><td>14 aprile</td><td>2014</td></tr>
 <tr><td>Slovenia\*</td><td>25 maggio</td><td>2018</td><td>25 agosto</td><td>2018</td></tr>
 <tr><td>Spagna</td><td>3 giugno</td><td>2013</td><td>14 aprile</td><td>2014</td></tr>
@@ -358,10 +361,10 @@ Campo d’applicazione il 13 agosto 2020**[^t-2]**
 <tr><td>Turchia\*</td><td>26 dicembre</td><td>2017</td><td>26 marzo</td><td>2018</td></tr>
 <tr><td>Ucraina\*</td><td>2 settembre</td><td>2016</td><td>2 dicembre</td><td>2016</td></tr>
 <tr><td>Uruguay</td><td>23 febbraio</td><td>2015</td><td>23 maggio</td><td>2015</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. Le riserve, dichiarazioni ed obiezioni non sono pubblicate nella RU, ad eccezione delle riserve e dichiarazioni della Svizzera. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Il Prot. facoltativo non si applica alla Groenlandia e alle Isole Faeröer.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. Le riserve, dichiarazioni ed obiezioni non sono pubblicate nella RU, ad eccezione delle riserve e dichiarazioni della Svizzera. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: [http://treaties.un.org/](http://treaties.un.org/) &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Il Prot. facoltativo non si applica alla Groenlandia e alle Isole Faeröer. <sup>b</sup> Il Protocollo facoltativo non si applica a Tokelau.</td></tr>
 </table>
 
-[^t-2]: [RU 2017 3239](https://fedlex.data.admin.ch/eli/oc/2017/330), [2018 2547](https://fedlex.data.admin.ch/eli/oc/2018/374), [2019 1063](https://fedlex.data.admin.ch/eli/oc/2019/196)e [2020 3601](https://fedlex.data.admin.ch/eli/oc/2020/647). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2017 3239](https://fedlex.data.admin.ch/eli/oc/2017/330); [2018 2547](https://fedlex.data.admin.ch/eli/oc/2018/374); [2019 1063](https://fedlex.data.admin.ch/eli/oc/2019/196); [2020 3601](https://fedlex.data.admin.ch/eli/oc/2020/647); [2022 538](https://fedlex.data.admin.ch/eli/oc/2022/538). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [https://www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
 
 Dichiarazione
 
