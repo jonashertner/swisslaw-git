@@ -4,11 +4,11 @@ number: "813.152"
 title: Personalreglement des Universitätsspitals Zürich (PR-USZ)
 short: PR-USZ
 language: de
-version: "2010-04-01"
-nachtrag: "89"
-valid_until: 2022-09-23
+version: "2022-08-01"
+nachtrag: "118"
+valid_until: 2023-10-01
 adopted: 2008-11-19
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-813_152-2008_11_19-2009_02_01-089.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-813_152-2008_11_19-2009_02_01-118.html"
 text: pdf
 ---
 
@@ -28,7 +28,7 @@ beschliesst:
 
 #### § 1
 
-**Geltungsbereich**
+**Gegenstand und Geltungsbereich**
 
 <sup>1</sup> Diesem Reglement untersteht das Personal, das in einem öffentlich-rechtlichen Arbeitsverhältnis zum Universitätsspital Zürich steht.
 
@@ -36,39 +36,49 @@ beschliesst:
 
 <sup>3</sup> Vorbehalten bleiben abweichende Bestimmungen von Gesamtarbeitsverträgen gemäss § 6 des Personalgesetzes vom 27. September 1998 (PG)<sup>4</sup>.
 
-<sup>4</sup> Am Universitätsspital tätiges Personal, das in keinem Anstellungsverhältnis zum Universitätsspital steht, ist auf die Dienstvorschriften und die betrieblichen Weisungen zu verpflichten. Dazu schliesst die Spitaldirektion mit diesen Personen persönlich oder mit deren Arbeitgebern entsprechende Vereinbarungen ab.
+<sup>4</sup> Am Universitätsspital tätige Personen, die in keinem Anstellungsverhältnis zum Universitätsspital stehen, sind auf die Dienstvorschriften und die betrieblichen Weisungen zu verpflichten. Dazu schliesst die Spitaldirektion mit diesen Personen persönlich oder mit deren Arbeitgebern entsprechende Vereinbarungen ab.<sup>12</sup>
 
-#### § 2
+**Personalpolitik**
+
+§ 1 a.<sup>11</sup> Der Spitalrat bestimmt die Personalpolitik im Rahmen der Eigentümerstrategie sowie der gesetzlichen Vorgaben.
 
 **Zuständigkeiten a. Spitalrat**
 
-Der Spitalrat ist zuständig für:
+§ 2.<sup>12</sup> <sup>1</sup> Der Spitalrat ist zuständig für:
 
-- a. die Ernennung, Beförderung und Entlassung sowie die Genehmigung des Rücktritts der Mitglieder der Spitaldirektion,
+- a. den Erlass einer Kompetenzordnung betreffend Anstellung, Beförderung, Versetzung und Entlassung sowie Genehmigung des Rücktritts von Angestellten,
 
-- b. die Ernennung, Entlassung sowie die Genehmigung des Rücktritts der Klinikdirektorinnen und -direktoren sowie der Institutsdirektorinnen und -direktoren,
+- b. die Genehmigung von Richtlinien der Spitaldirektion betreffend die Anstellung von Personal mittels öffentlich-rechtlichen oder privatrechtlichen Vertrags,
 
-- c. die Genehmigung von Richtlinien der Spitaldirektion betreffend die Anstellung von Personal mittels öffentlich-rechtlicher oder privatrechtlicher Verträge,
+- c. die Anstellung von Personal des Spitalrates,
 
-- d. die Anstellung von Personal des Spitalrates,
-
-- e. die Schaffung von neuen Stellen, für die das Personalrecht für das Staatspersonal des Kantons Zürich keine Richtposition vorsieht, sowie von neuen Stellen ab Lohnklasse 27,
+- d. die Ernennung der Mitglieder der Spitaldirektion,
 
 **1**
 
-- 1\. 7. 15 - 89
+1.10. 22 - 118 e. die Schaffung von neuen Stellen, für die das Personalrecht des Kantons Zürich keine Richtposition vorsieht, sowie von neuen Stellen ab Lohnklasse 27,
 
-- f. den Abschluss und den Beitritt zu Gesamtarbeitsverträgen gemäss § 6 PG<sup>4</sup>,
+- f. die Anerkennung von Personalverbänden als Verhandlungspartner von Gesamtarbeitsverträgen für Personal des Universitätsspitals,
 
-- g. die Festlegung von Sozialplänen gemäss § 27 PG<sup>4</sup>,
+- g. den Abschluss und die Änderung von sowie den Beitritt zu Gesamtarbeitsverträgen,
 
 - h. weitere Aufgaben gemäss diesem Reglement.
+
+<sup>2</sup> Er ist zuständig zur Festlegung:
+
+- b. der Entschädigung von Nacht- und Wochenendarbeit sowie von Pikett- und Präsenzdienst gemäss § 12,
+
+- c. des Prämienanteils des Personals an einer allfälligen Krankentaggeldversicherung gemäss § 14,
+
+- d. der Beiträge an die Verpflegung und die Abonnemente des öffentlichen Verkehrs für Mitarbeitende, die an mehreren Standorten tätig sind,
+
+- f. von Sozialplänen gemäss § 27 PG<sup>4</sup>.
 
 #### § 3
 
 **b. Spitaldirektion**
 
-<sup>1</sup> Die Spitaldirektion ist Anstellungsbehörde des Universitätsspitals und für alle Personalangelegenheiten zuständig, die nicht in der Kompetenz des Spitalrates liegen.
+<sup>1</sup> Die Spitaldirektion ist Anstellungsbehörde des Universitätsspitals und für alle Personalangelegenheiten zuständig, die nicht in der Kompetenz des Spitalrates liegen oder durch die Kompetenzordnung gemäss § 2 Abs. 1 lit. a einem anderen Organ zugewiesen wurden.<sup>12</sup>
 
 <sup>2</sup> Die Besetzung von Schlüsselfunktionen erfolgt nach Rücksprache mit dem Spitalrat.
 
@@ -98,11 +108,9 @@ Der Spitalrat ist zuständig für:
 
 <sup>3</sup> Das Arbeitsverhältnis ist privatrechtlich, wenn es gemäss § 13 Abs. 1 USZG<sup>8</sup> durch einen privatrechtlichen Vertrag begründet wird.
 
-#### § 6
-
 **Dauer**
 
-<sup>1</sup> Das Arbeitsverhältnis wird in der Regel unbefristet mit der Möglichkeit der Kündigung begründet.
+§ 6.<sup>12</sup> <sup>1</sup> Das Arbeitsverhältnis wird in der Regel unbefristet mit der Möglichkeit der Kündigung begründet.
 
 <sup>2</sup> Befristete Arbeitsverhältnisse sind zulässig:
 
@@ -116,83 +124,97 @@ Der Spitalrat ist zuständig für:
 
 <sup>3</sup> Befristungen gemäss Abs. 2 lit. b–d sind höchstens auf sieben Jahre zulässig. Eine einmalige Verlängerung auf insgesamt höchstens zehn Jahre ist möglich. Bei Assistenzärztinnen und -ärzten gelten diese Einschränkungen nicht.
 
-<sup>4</sup> Wird ein befristetes Arbeitsverhältnis weitergeführt, gilt es als unbefristet.
+<sup>4</sup> Bei befristeten Arbeitsverhältnissen beträgt die Probezeit drei Monate. Sie kann im gegenseitigen Einvernehmen verkürzt werden.
 
-#### § 7
+<sup>5</sup> Befristete Arbeitsverhältnisse können von jeder Partei gemäss den für unbefristete Anstellungsverhältnisse geltenden Bestimmungen gekündigt werden. Im gegenseitigen Einvernehmen kann auf eine Kündigungsmöglichkeit verzichtet werden.
 
-**Besondere Kündigungsgründe**
+<sup>6</sup> Wird ein befristetes Arbeitsverhältnis weitergeführt, gilt es als unbefristet.
 
-<sup>1</sup> Wird das Arbeitsverhältnis zwischen der Universität Zürich und einer Person, die auch am Universitätsspital angestellt ist, aufgelöst, gilt dies als sachlich zureichender Grund im Sinne von § 18 Abs. 2 PG<sup>4</sup> für eine Kündigung der Anstellung am Universitätsspital.
-
-<sup>2</sup> Wird eine Vereinbarung über eine Drittmittelfinanzierung aufgelöst und das finanzierte Projekt abgebrochen, können die betroffenen, drittmittelfinanzierten Anstellungsverhältnisse ordentlich gekündigt werden.
-
-#### § 8
-
-**Anstellung nach der ordentlichen Pensionierung**
-
-<sup>1</sup> In besonderen Fällen, wie zur Sicherstellung einer Nachfolgeregelung, kann eine Person nach Vollendung des 65. Altersjahrs weiterbeschäftigt werden.
-
-<sup>2</sup> Es wird dazu ein neues Arbeitsverhältnis begründet. Die Kündigungsfrist beträgt in der Regel zwei Monate.
-
-<sup>3</sup> Vorbehalten bleiben die zwingenden Bestimmungen über die Versicherungskasse für das Staatspersonal<sup>10</sup>.
-
-### C. Rechte und Pflichten des Personals
-
-#### § 9
-
-**Lohnanspruch im Allgemeinen**
-
-<sup>1</sup> Die lohnmässige Einreihung des Personals des Universitätsspitals richtet sich nach den Grundsätzen und nach dem Lohnsystem des Personalrechts für das Staatspersonal. Die Einstufung erfolgt durch die Spitaldirektion.
+<sup>7</sup> Ist eine Mitarbeiterin am Ende eines befristeten Anstellungsverhältnisses schwanger oder im Mutterschaftsurlaub, verlängert sich das Anstellungsverhältnis bis zum Ende des Mutterschaftsurlaubs.
 
 **3**
 
-- 1\. 7. 15 - 89
+1.10. 22 - 118 § 7.<sup>12</sup> <sup>1</sup> Sachlich zureichende Gründe für die Auflösung des Arbeitsverhältnisses gemäss § 18 Abs. 2 PG sind insbesondere:
 
-<sup>2</sup> Personal, das gleichzeitig in einem Arbeitsverhältnis zum Universitätsspital und zur Universität Zürich steht, hat in der Regel einen Lohnanspruch nur gegenüber der Universität.
+**Sachlich zureichende Kündigungsgründe a. allgemein**
 
-#### § 10
+- a. die Auflösung der Vereinbarung über eine Drittmittelfinanzierung und der Abbruch des finanzierten Projekts,
 
-**Variabler Lohnanteil**
+- b. das Auslaufen der Drittmittel, mit denen die Stelle finanziert wird,
 
-<sup>1</sup> Der Lohn von Angehörigen der Spitaldirektion und des ihr direkt unterstellten Kaders sowie ausnahmsweise auch von ausserordentlich qualifizierten Fachkräften kann mit einem variablen Lohnanteil ausgestattet werden.
+- c. die Auflösung des Arbeitsverhältnisses zwischen der Universität Zürich und einer Person, die auch am Universitätsspital angestellt ist.
 
-<sup>2</sup> Der Lohn besteht in diesem Falle aus einem festen Basislohn und einem variablen Lohnanteil.
+<sup>2</sup> Die ordentlichen Kündigungsfristen sind einzuhalten.
 
-<sup>3</sup> Der Basislohn entspricht mindestens der Erfahrungsstufe 0 der Einreihungsklasse. Stufenanstieg und Beförderungen beziehen sich auf den Basislohn.
+**b. ärztliches Kader**
 
-<sup>4</sup> Der variable Lohnanteil wird in Abhängigkeit der Erreichung der Jahresziele der oder des Angestellten festgelegt. Die Spitaldirektion legt ihn zusammen mit der bei der Anstellung bezeichneten Stelle des Universitätsspitals fest. Diese Stelle legt gemeinsam mit der oder dem Angestellten jedes Jahr messbare Ziele und das Maximum des variablen Lohnanteils fest.
+§ 7 a.<sup>11</sup> <sup>1</sup> Für das ärztliche Kader sind erhebliche Mängel insbesondere in den folgenden Bereichen sachlich zureichende Gründe für die Auflösung des Anstellungsverhältnisses:
 
-<sup>5</sup> Basislohn und variabler Lohnanteil zusammen dürfen das Maximum der zweiten Leistungsklasse nicht überschreiten. In den Einreihungsklassen 27, 28 und 29 beträgt das Maximum 130% der Erfahrungsstufe 8 der Einreihungsklasse.
+- a. in der Führungsarbeit,
 
-#### § 11
+- b. in der Zusammenarbeit im Team oder mit anderen Angestellten des Universitätsspitals,
 
-**Klinik- und Institutsdirektorinnen und -direktoren**
+- c. in der Qualität, Dokumentation oder Abrechnung der Behandlung von Patientinnen und Patienten.
 
-<sup>1</sup> Haben Klinik- und Institutsdirektorinnen und -direktoren ausnahmsweise keine Anstellung an der Universität Zürich, werden sie durch den Spitalrat entsprechend ihrer Funktion als Chefärztinnen und Chefärzte eingereiht und eingestuft.
+<sup>2</sup> Bei erheblichen Mängeln wird in der Regel keine Bewährungsfrist gewährt.
 
-<sup>2</sup> Den Klinik- und Institutsdirektorinnen und -direktoren, die wegen ihrer Anstellung an der Universität Zürich vom Universitätsspital keinen Lohn erhalten, wird für die Erfüllung der mit der Klinik- oder Institutsführung verbundenen Aufgaben eine jährliche Direktionszulage ausgerichtet.
+**Anstellung nach der ordentlichen Pensionierung**
 
-<sup>3</sup> Der Spitalrat legt die Höhe der Direktionszulage fest.
+§ 8.<sup>12</sup> <sup>1</sup> In besonderen Fällen, insbesondere bei Personalgruppen mit Fachkräftemangel, ist eine befristete Verlängerung des Anstellungsverhältnisses oder eine befristete Wiederanstellung nach Vollendung des 65. Altersjahres sowie eine Verlängerung dieser Befristung bis zum 70. Altersjahr über ein Jahr hinaus möglich.
 
-#### § 12
+<sup>2</sup> Die Kündigungsfrist beträgt zwei Monate, soweit nichts anderes vereinbart wird.
 
-**Pikettdienst**
+<sup>3</sup> Vorbehalten bleiben die zwingenden Bestimmungen der BVK Personalvorsorge des Kantons Zürich.
 
-Die Spitaldirektion regelt die Entschädigung für die Leistung von Pikettdienst. Die Ansätze können von den Vorgaben nach § 133 Abs. 3 der Vollzugsverordnung zum Personalgesetz vom 19. Mai 1999<sup>5</sup> abweichen.
+### C. Rechte und Pflichten des Personals
 
-#### § 13
+**Lohn a. Festsetzung**
 
-**Stufenanstiege und Beförderungen**
+§ 9.<sup>12</sup> <sup>1</sup> Die Einreihung der Stellen des Universitätsspitals richtet sich nach den Grundsätzen und dem Lohnsystem des kantonalen Personalrechts. Die Lohnfestsetzung im Einzelfall erfolgt durch die Anstellungsbehörde.
 
-Die Spitaldirektion beschliesst jährlich, wie die vom Regierungsrat für Stufenanstiege und Beförderungen beschlossene Lohnsumme im Universitätsspital für Stufenanstiege und Beförderungen zu verwenden ist.
+<sup>2</sup> Die Vergütung des ärztlichen Kaders richtet sich nach den Vorgaben gemäss § 14 USZG<sup>8</sup>.
 
-#### § 14
+<sup>3</sup> Personal, das gleichzeitig in einem Arbeitsverhältnis zum Universitätsspital und zur Universität Zürich steht, hat in der Regel einen Lohnanspruch nur gegenüber der Universität.
+
+**c. variabler Vergütungsbestandteil**
+
+§ 10.<sup>12</sup> <sup>1</sup> Die Vergütung der Mitglieder der Spitaldirektion und des mit öffentlich-rechtlichem Vertrag angestellten Personals kann einen variablen Bestandteil enthalten.
+
+<sup>2</sup> Der variable Bestandteil beträgt höchstens 30% der Gesamtvergütung.
+
+<sup>3</sup> Der für Personalfragen zuständige Ausschuss des Spitalrates legt gemeinsam mit den einzelnen Mitgliedern der Spitaldirektion jedes Jahr messbare Jahresziele fest. In gleicher Weise verfahren die zuständigen Mitglieder der Spitaldirektion gegenüber den direkt unterstellten Kadern sowie die Vorgesetzten gegenüber anderen Angestellten mit variablem Vergütungsbestandteil.
+
+<sup>4</sup> Der variable Vergütungsbestandteil wird jährlich in Abhängigkeit der Erreichung der Jahresziele festgelegt.
+
+**d. ärztliches Kader**
+
+§ 11.<sup>12</sup> <sup>1</sup> Die Vergütung des ärztlichen Kaders besteht aus den festen Bestandteilen Grundlohn und Marktkomponente. Sie wird nicht nach dem Lohnsystem des Kantons Zürich festgelegt.
+
+<sup>2</sup> Die Vergütung des ärztlichen Kaders ab Stufe Oberärztin oder Oberarzt mit erweiterter Verantwortung enthält zusätzlich einen variablen Bestandteil. Dieser beträgt höchstens 30% der Gesamtvergütung.
+
+<sup>3</sup> Die Gesamtvergütung eines Mitglieds des ärztlichen Kaders beträgt höchstens 1 Mio. Franken pro Jahr. Sie umfasst insbesondere allfällige Entschädigungen der Universität Zürich und Einnahmen, die mit Gutachten, Zeugnissen und Berichten für Patientinnen und Patienten oder Dritte erzielt werden.
+
+<sup>4</sup> Der Grundlohn wird in der Regel bei der BVK Personalvorsorge des Kantons Zürich versichert. Die übrigen Vergütungsbestandteile können bei anderen Vorsorgeeinrichtungen versichert werden. Die Versicherung der Vergütung der Oberärztinnen und Oberärzte richtet sich nach § 15 Abs. 2 USZG.
+
+<sup>5</sup> Der Spitalrat erlässt ein Vergütungsreglement.
+
+**Nacht- und Wochenendarbeit, Pikett- und Präsenzdienst**
+
+§ 12.<sup>12</sup> <sup>1</sup> Der Spitalrat regelt die Entschädigung für Nacht- und Wochenendarbeit gemäss § 132 der Vollzugsverordnung zum Personalgesetz vom 19. Mai 1999 (VVO)<sup>5</sup> sowie für Pikett- und Präsenzdienst gemäss § 133 VVO.
+
+<sup>2</sup> Die Entschädigung entspricht mindestens dem kantonalen Ansatz.
+
+§ 13.<sup>13</sup>
+
+**5**
+
+1.10. 22 - 118 § 14.<sup>12</sup> <sup>1</sup> Das Universitätsspital kann für das Personal eine die gesetzlichen Lohnfortzahlungspflichten ersetzende Krankentaggeldversicherung abschliessen.
 
 **Versicherungen**
 
-<sup>1</sup> Das Universitätsspital kann für das Personal eine die gesetzlichen Lohnfortzahlungspflichten ersetzende Krankentaggeldversicherung abschliessen. Die Versicherung muss für das Universitätsspital wirtschaftlich und deren Leistungen für das Personal mindestens gleichwertig sein.
+<sup>2</sup> Die Leistungen müssen für das Personal mindestens gleichwertig zur Regelung gemäss kantonalem Personalrecht und für das Universitätsspital wirtschaftlich sein.
 
-<sup>2</sup> Das Universitätsspital kann für das Personal weitere Versicherungen abschliessen. Die Kosten sind vom Personal zu tragen.
+<sup>3</sup> Die Prämien können dem Personal höchstens hälftig auferlegt werden.
 
 #### § 15
 
@@ -200,79 +222,67 @@ Die Spitaldirektion beschliesst jährlich, wie die vom Regierungsrat für Stufen
 
 <sup>1</sup> Die Angestellten tragen zu einer partnerschaftlichen, auf ethischen Grundsätzen beruhenden und leistungsorientierten Arbeitskultur bei. Sie sind zur interdisziplinären Zusammenarbeit und zur fächer- und berufsgruppenübergreifenden Teamarbeit verpflichtet. Sie richten sich an den Zielen und Interessen des Universitätsspitals aus.
 
-<sup>2</sup> Alle Formen sexueller oder anderer Belästigungen, Mobbing sowie Diskriminierung wegen Geschlecht, Rasse, Religion, Nationalität oder Beruf und Stellung sind untersagt.
+<sup>2</sup> Alle Formen sexueller oder anderer Belästigungen, Mobbing sowie Diskriminierung wegen Geschlecht, Religion, Ethnie, Nationalität, sexueller Orientierung, Behinderungen, Alter, Beruf und Stellung oder anderer rechtlich geschützter persönlicher Eigenschaften sind untersagt.<sup>12</sup>
 
 <sup>3</sup> Die Spitaldirektion erlässt Führungsgrundsätze, die vom Spitalrat zu genehmigen sind.
 
-### D. Nebenbeschäftigungen
+### D. Nebenbeschäftigungen und öffentliche Ämter<sup>12</sup>
 
-#### § 16
+**Begriffe**
 
-**Grundsatz**
+§ 16.<sup>12</sup> <sup>1</sup> Als Nebenbeschäftigung gilt jede Ausübung einer selbstständigen oder unselbstständigen Tätigkeit neben der Anstellung am Universitätsspital, insbesondere Beratungstätigkeiten, Lehrverpflichtungen oder die Wahrnehmung von Organfunktionen bei Dritten.
 
-Das Universitätsspital anerkennt die Bedeutung von universitäts- und kliniknahen Nebenbeschäftigungen und von praxisbezogener Zusammenarbeit der Angestellten mit Dritten.
+<sup>2</sup> Als öffentliches Amt gilt die Mitgliedschaft in einem Parlament oder einer Exekutive, die Tätigkeit an einem Gericht oder in einer Kommission der Eidgenossenschaft, eines Kantons, einer Gemeinde, einer Kirchgemeinde oder einer anderen Körperschaft des öffentlichen Rechts.
 
-#### § 17
+**Nebenbeschäftigungen a. Zulässigkeit**
 
-**Nebenbeschäftigungen a. Begriff**
+§ 17.<sup>12</sup> <sup>1</sup> Nebenbeschäftigungen sind nur zulässig, wenn a. die Aufgabenerfüllung der oder des Angestellten nicht beeinträchtigt wird,
 
-Als Nebenbeschäftigung im Sinne von § 53 PG<sup>4</sup> gilt jede Ausübung einer anderen Erwerbstätigkeit wie namentlich Beratungstätigkeiten, externe Lehrverpflichtungen oder Verwaltungsratsmandate.
+- b. die Tätigkeit mit der Stellung der oder des Angestellten am Universitätsspital vereinbar ist,
 
-#### § 18
+- c. die Interessen des Universitätsspitals, insbesondere seine Interessen als Arbeitgeber, nicht beeinträchtigt werden,
 
-**b. Ärztliche Zusatzhonorare**
+- d. das Universitätsspital nicht konkurrenziert wird,
 
-Die Vorschriften dieses Reglements über Nebenbeschäftigungen gelten nicht für Tätigkeiten zur Erlangung ärztlicher Zusatzhonorare.
+- e. nicht der Eindruck erweckt wird, es handle sich um eine Leistung des Universitätsspitals,
 
-#### § 19
-
-**c. Zulässigkeit**
-
-<sup>1</sup> Nebenbeschäftigungen sind zulässig, wenn sie a. die Aufgabenerfüllung der oder des Angestellten nicht beeinträchtigen,
-
-- b. mit der Stellung der oder des Angestellten am Universitätsspital vereinbar sind,
-
-- c. das Universitätsspital nicht konkurrenzieren,
-
-**5**
-
-- 1\. 7. 15 - 89
-
-- d. die Aufgabenerfüllung und die Interessen des Universitätsspitals und seine Rechte als Arbeitgeber nicht beeinträchtigen,
-
-- e. die Interessen der anderen Angestellten des Universitätsspitals nicht beeinträchtigen,
-
-- f. im Jahresmittel einen Tag je Kalenderwoche nicht überschreiten.
+- f. die Interessen anderer Angestellter des Universitätsspitals nicht beeinträchtigt werden.
 
 <sup>2</sup> Die Spitaldirektion kann in begründeten Fällen Ausnahmen bewilligen.
 
-#### § 20
+**b. Bewilligung**
 
-**d. Information und Bewilligung**
+§ 18.<sup>12</sup> Für Nebenbeschäftigungen ist eine Bewilligung der Spitaldirektion erforderlich, wenn Arbeitszeit, Infrastruktur oder Personal des Universitätsspitals beansprucht oder eine Organfunktion bei Dritten übernommen wird.
 
-<sup>1</sup> Vor der Übernahme einer Nebenbeschäftigung informiert die oder der Angestellte die Spitaldirektion. Diese entscheidet in Absprache mit der vorgesetzten Stelle der oder des Angestellten, ob eine Bewilligung eingeholt werden muss. Sie kann auch nachträglich und von sich aus das Einholen einer Bewilligung verlangen.
+**c. Information und Entscheid**
 
-<sup>2</sup> Eine Bewilligung der Spitaldirektion ist erforderlich, wenn Arbeitszeit, Infrastruktur oder Personal des Universitätsspitals beansprucht oder ein Verwaltungsratsmandat übernommen wird.
+§ 19.<sup>12</sup> Vor der Übernahme einer Nebenbeschäftigung informiert die oder der Angestellte die Spitaldirektion. Diese entscheidet in Absprache mit der vorgesetzten Stelle der oder des Angestellten, ob eine Bewilligung eingeholt werden muss. Sie kann auch nachträglich und von sich aus das Einholen einer Bewilligung verlangen.
 
-#### § 21
+**d. Professoren der Universität**
 
-**e. Professoren der Universität**
-
-<sup>1</sup> Professoren, die auch von der Universität Zürich angestellt sind, informieren die Spitaldirektion über ihre Nebenbeschäftigungen.
+§ 20.<sup>12</sup> <sup>1</sup> Professorinnen und Professoren, die auch von der Universität Zürich angestellt sind, informieren die Spitaldirektion über ihre Nebenbeschäftigungen.
 
 <sup>2</sup> Beanspruchen sie Infrastruktur oder Personal des Universitätsspitals, holen sie eine Bewilligung der Spitaldirektion ein. Im Übrigen sind sie vom Bewilligungserfordernis entbunden, soweit die Nebenbeschäftigungen von der Universität bewilligt worden sind.
 
-<sup>3</sup> Die Spitaldirektion kann die Deklarationen und die Bewilligungen gemäss §§ 43 und 48 der Personalverordnung der Universität Zürich vom 5. November 1999<sup>7</sup> einfordern. Sie kann bei den Betroffenen und der Universität weitere Auskünfte einholen.
+<sup>3</sup> Die Spitaldirektion kann die Bewilligungen gemäss §§ 57 der Personalverordnung der Universität Zürich vom 29. November 2014<sup>7</sup> einfordern. Sie kann bei den Betroffenen und der Universität weitere Auskünfte einholen.
 
 <sup>4</sup> Sie kann die Abgeltung der Infrastruktur- und Personalkosten verlangen. In Absprache mit der Universität kann sie einen Teil der erzielten Nebeneinkünfte als Abgabe einfordern und Bewilligungen nach Abs. 2 unter Auflagen erteilen.
 
+**Öffentliche Ämter**
+
+§ 21.<sup>12</sup> Die Ausübung öffentlicher Ämter richtet sich nach dem Personalgesetz.
+
 #### § 22
 
-**f. Ausführungsbestimmungen**
+**Ausführungsbestimmungen**
 
-<sup>1</sup> Die Spitaldirektion erlässt Ausführungsbestimmungen über die Nebenbeschäftigungen und regelt dabei namentlich das Verfahren, die Auflagen, die Abgeltungen und die Abgaben.
+<sup>1</sup> Die Spitaldirektion erlässt Ausführungsbestimmungen über die Nebenbeschäftigungen und die Tätigkeit im Rahmen öffentlicher Ämter. Sie regelt dabei insbesondere das Verfahren, die Auflagen, die Abgeltungen und die Abgaben.<sup>12</sup>
 
 <sup>2</sup> Sie achtet auf eine weitgehende Harmonisierung mit den Vorschriften der Universität Zürich. Sie kann mit den zuständigen Organen der Universität ein gemeinsames Reglement erlassen.
+
+**7**
+
+1.10. 22 - 118
 
 ### E. Erfindungen und urheberrechtlich geschützte Werke
 
@@ -282,15 +292,13 @@ Die Vorschriften dieses Reglements über Nebenbeschäftigungen gelten nicht für
 
 Das Universitätsspital unterstützt die Entwicklung und Verwertung von Erfindungen und setzt sich für den Schutz des geistigen Eigentums ein.
 
-#### § 24
-
 **Erfindungen**
 
-<sup>1</sup> Für Erfindungen im Bereich der universitären Forschung und Lehre gelten die Bestimmungen der Verordnung über die Forschung und Lehre der Universität im Gesundheitsbereich vom 16. April 2003<sup>6</sup>.
+§ 24.<sup>12</sup> <sup>1</sup> Erfindungen, die Angestellte des Universitätsspitals bei Ausübung ihrer dienstlichen Tätigkeit machen oder an denen sie mitwirken, stehen im Eigentum des Universitätsspitals, soweit keine anderslautenden Vereinbarungen getroffen wurden.
 
-<sup>2</sup> Die übrigen Erfindungen, die Angestellte des Universitätsspitals bei Ausübung ihrer dienstlichen Tätigkeit machen oder an denen sie mitwirken, stehen im Eigentum des Universitätsspitals, soweit keine anderslautenden Vereinbarungen getroffen wurden.
+<sup>2</sup> Die Spitaldirektion kann den Angestellten die Auswertung oder das Verwendungsrecht überlassen. Angestellte, denen die Auswertung einer Erfindung von erheblicher wirtschaftlicher oder technischer Bedeutung nicht überlassen wird, haben Anspruch auf eine angemessene Vergütung. Das Obligationenrecht gilt sinngemäss.
 
-<sup>3</sup> Die Spitaldirektion kann den Angestellten die Auswertung oder das Verwendungsrecht überlassen. Angestellte, denen die Auswertung einer Erfindung von erheblicher wirtschaftlicher oder technischer Bedeutung nicht überlassen wird, haben Anspruch auf eine angemessene Vergütung. Das Obligationenrecht gilt sinngemäss.
+<sup>3</sup> Für Erfindungen im Bereich der universitären Forschung und Lehre gelten die Bestimmungen der Verordnung über die Forschung und Lehre der Universität im Gesundheitsbereich vom 16. April 2003<sup>6</sup>.
 
 #### § 25
 
@@ -300,6 +308,12 @@ Das Universitätsspital unterstützt die Entwicklung und Verwertung von Erfindun
 
 <sup>2</sup> Die Spitaldirektion kann den Angestellten die Verwertung überlassen. Angestellte, denen die Verwertung eines urheberrechtlich geschützten Werkes von erheblicher wirtschaftlicher oder technischer Bedeutung nicht überlassen wird, haben Anspruch auf eine angemessene Vergütung. Das Obligationenrecht gilt sinngemäss.
 
+**Weitere Arbeitsergebnisse**
+
+§ 25 a.<sup>11</sup> <sup>1</sup> Vorbehältlich §§ 24 und 25 stehen sämtliche in Ausübung der dienstlichen Tätigkeit geschaffenen Ergebnisse, insbesondere Protokolle, Skizzen, Laborbücher und Produkte, im Eigentum des Universitätsspitals.
+
+<sup>2</sup> Vorbehalten sind anderslautende vertragliche Vereinbarungen.
+
 ### F. Schluss- und Übergangsbestimmungen
 
 #### § 26
@@ -308,11 +322,11 @@ Das Universitätsspital unterstützt die Entwicklung und Verwertung von Erfindun
 
 Die Spitaldirektion passt Bewilligungen, Auflagen und andere, im Zeitpunkt des Inkrafttretens dieses Reglements bestehende Dauerrechtsverhältnisse an die Vorgaben dieses Reglements an.
 
-**7**
-
-- 1\. 7. 15 - 89 § 27. Dieses Personalreglement tritt am ersten Tag des zweiten Monats nach seiner Genehmigung durch den Regierungsrat<sup>2</sup> in Kraft<sup>3</sup>.
+#### § 27
 
 **Inkrafttreten**
+
+Dieses Personalreglement tritt am ersten Tag des zweiten Monats nach seiner Genehmigung durch den Regierungsrat<sup>2</sup> in Kraft<sup>3</sup>.
 
 <sup>1</sup> OS 64, 23; Begründung siehe ABl 2009, 52.
 
@@ -332,4 +346,14 @@ Die Spitaldirektion passt Bewilligungen, Auflagen und andere, im Zeitpunkt des I
 
 <sup>9</sup> Fassung gemäss B des Spitalrates vom 10. Februar 2010 (OS 65, 143; ABl 2010, 321). In Kraft seit 1. April 2010.
 
-<sup>10</sup> Heute: BVK Personalvorsorge des Kantons Zürich.
+<sup>10</sup> Obsolet.
+
+<sup>11</sup> Eingefügt durch B vom 9. März 2022 (OS 77, 438; ABl 2022-04-08). In Kraft seit 1. August 2022 (ABl 2022-08-19).
+
+<sup>12</sup> Fassung gemäss B vom 9. März 2022 (OS 77, 438; ABl 2022-04-08). In Kraft seit 1. August 2022 (ABl 2022-08-19).
+
+<sup>13</sup> Aufgehoben durch B vom 9. März 2022 (OS 77, 438; ABl 2022-04-08). In Kraft seit 1. August 2022 (ABl 2022-08-19).
+
+**9**
+
+1.10. 22 - 118
