@@ -4,10 +4,10 @@ number: "851.5"
 title: Beschluss des Regierungsrates über den Beitritt zur Interkantonalen Vereinbarung für soziale Einrichtungen (IVSE)
 short: IVSE
 language: de
-nachtrag: "59"
-valid_until: 2022-09-23
+version: "2020-06-01"
+nachtrag: "118"
 adopted: 2007-11-14
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-851_5-2007_11_14-2008_01_01-059.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-851_5-2007_11_14-2008_01_01-118.html"
 text: pdf
 ---
 
@@ -53,13 +53,13 @@ Art. 1 <sup>1</sup> Die Vereinbarung bezweckt, die Aufnahme von Personen mit bes
 
 **Bereiche**
 
-Art. 2 <sup>1</sup> Die IVSE bezieht sich auf Einrichtungen der folgenden Bereiche:
+Art. 2<sup>6</sup> <sup>1</sup> Die IVSE bezieht sich auf Einrichtungen der folgenden Bereiche:
 
 A Stationäre Einrichtungen, die gestützt auf eidgenössisches oder kantonales Recht Personen bis zum vollendeten 20. Altersjahr, längstens jedoch bis nach Abschluss der Erstausbildung beherbergen, sofern sie vor Erreichen der Volljährigkeit in eine Einrichtung eingetreten oder dort untergebracht worden sind.
 
-Im Fall von Massnahmen gemäss dem Bundesgesetz über das Jugendstrafrecht[^hIGrundlagen-1] liegt die Altersgrenze unabhängig vom Eintrittsalter beim vollendeten 22. Altersjahr.
+Im Fall von Massnahmen gemäss dem Bundesgesetz über das Jugendstrafrecht<sup>3</sup> liegt die Altersgrenze unabhängig vom Eintrittsalter beim vollendeten 25. Altersjahr.
 
-B Einrichtungen für erwachsene, invalide Personen oder Einheiten solcher Einrichtungen gemäss dem Bundesgesetz über die Institutionen zur Förderung der Eingliederung von invaliden Personen (IFEG)[^hIGrundlagen-2]:
+B Einrichtungen für erwachsene, invalide Personen oder Einheiten solcher Einrichtungen gemäss dem Bundesgesetz über die Institutionen zur Förderung der Eingliederung von invaliden Personen (IFEG)<sup>4</sup>:
 
 - a. Werkstätten, die dauernd intern oder an dezentral ausgelagerten Arbeitsplätzen invalide Personen beschäftigen, die unter üblichen Bedingungen keine Erwerbstätigkeit ausüben können,
 
@@ -75,17 +75,15 @@ Einheiten von Einrichtungen, welche die gleichen Leistungen wie die Einrichtunge
 
 - c. Pädagogisch-therapeutische Dienste für Logopädie oder Psychomotoriktherapie, sofern diese Leistungen nicht innerhalb des Regelschulangebotes erbracht werden.
 
-**3**
-
-- 1\. 1. 08 - 59
-
 <sup>2</sup> Die Vereinbarungskonferenz (VK) kann die Vereinbarung unter Vorbehalt der Art. 6 und 8 der IVSE auf weitere Bereiche sozialer Einrichtungen ausdehnen.
 
 <sup>3</sup> Die Kantone können einzelnen, mehreren oder allen Bereichen beitreten.
 
-**Ausnahmen**
+**3**
 
-Art. 3 <sup>1</sup> Einrichtungen, die einem Konkordat über den Vollzug von Strafen und Massnahmen (Straf- und Massnahmenvollzugskonkordate) unterstellt sind, fallen nicht unter diese Vereinbarung.
+1.10. 22 - 118 Art. 3 <sup>1</sup> Einrichtungen, die einem Konkordat über den Vollzug von Strafen und Massnahmen (Straf- und Massnahmenvollzugskonkordate) unterstellt sind, fallen nicht unter diese Vereinbarung.
+
+**Ausnahmen**
 
 <sup>2</sup> Einrichtungen für Betagte sowie medizinisch geleitete Einrichtungen fallen nicht unter diese Vereinbarung.
 
@@ -95,7 +93,7 @@ Art. 3 <sup>1</sup> Einrichtungen, die einem Konkordat über den Vollzug von Str
 
 - 3\. Begriffe
 
-Art. 4 Die folgenden Begriffe werden im Rahmen der IVSE auf Grund der nachstehenden Definitionen verwendet:
+Art. 4 Die folgenden Begriffe werden im Rahmen der IVSE aufgrund der nachstehenden Definitionen verwendet:
 
 - a. Vereinbarungskonferenz (VK) Die Versammlung all jener Mitglieder der SODK, deren Kanton der IVSE beigetreten ist, bildet die Vereinbarungskonferenz.
 
@@ -117,10 +115,9 @@ Art. 4 Die folgenden Begriffe werden im Rahmen der IVSE auf Grund der nachstehen
 
 Art. 5 <sup>1</sup> Der Aufenthalt in einer Einrichtung gemäss Art. 2 Abs. 1 Bereich B Bst. b bewirkt keine Änderung der bisherigen Zuständigkeit für das Leisten der Kostenübernahmegarantie.
 
-<sup>2</sup> Für Vergütungen von Leistungen der externen Sonderschulung hat derjenige Kanton die Kostenübernahmegarantie zu leisten, in dem sich der Schüler oder die Schülerin aufhält.
+<sup>1bis</sup> Begründet eine Person mit dem Aufenthalt oder während des Aufenthaltes in einer Einrichtung gemäss Art. 2 Abs. 1 Bereich A ihren zivilrechtlichen Wohnsitz am Standort der Einrichtung, ist der Kanton des letzten von den Eltern oder eines Elternteils abgeleiteten zivilrechtlichen Wohnsitzes für das Leisten der Kostenübernahmegarantie zuständig.<sup>5</sup>
 
-[^hIGrundlagen-1]: SR 311.1.
-[^hIGrundlagen-2]: SR 831.26. 1. 1. 08 - 59 1
+<sup>2</sup> Für Vergütungen von Leistungen der externen Sonderschulung hat derjenige Kanton die Kostenübernahmegarantie zu leisten, in dem sich der Schüler oder die Schülerin aufhält.
 
 ### II. Organisation
 
@@ -144,7 +141,7 @@ Art. 6 <sup>1</sup> Die SODK ist so lange die federführende Konferenz, bis die 
 
 **5**
 
-- 1\. 1. 08 - 59 Art. 7 <sup>1</sup> Organe der IVSE sind:
+1.10. 22 - 118 Art. 7 <sup>1</sup> Organe der IVSE sind:
 
 **Organe**
 
@@ -240,7 +237,7 @@ Art. 12 <sup>1</sup> Die Verbindungsstellen schliessen sich zu den vier Regional
 
 **7**
 
-- 1\. 1. 08 - 59
+1.10. 22 - 118
 
 <sup>2</sup> Jede Verbindungsstelle gehört einer Regionalkonferenz an. Sie kann weiteren Regionalkonferenzen mit beratender Stimme angehören.
 
@@ -298,7 +295,7 @@ Art. 18 <sup>1</sup> Die Kosten, welche durch die Anwendung dieser Vereinbarung 
 
 ### 1. Grundsatz
 
-Art. 19 <sup>1</sup> Der Wohnkanton sichert der Einrichtung des Standortkantons mittels der Kostenübernahmegarantie die Leistungsabgeltung zu Gunsten der Person für die zu garantierende Periode zu.
+Art. 19 <sup>1</sup> Der Wohnkanton sichert der Einrichtung des Standortkantons mittels der Kostenübernahmegarantie die Leistungsabgeltung zugunsten der Person für die zu garantierende Periode zu.
 
 <sup>2</sup> Die zahlungspflichtigen Stellen und Personen des Wohnkantons schulden der Einrichtung des Standortkantons die Leistungsabgeltung für die Leistungsdauer.
 
@@ -316,7 +313,7 @@ Art. 21 <sup>1</sup> Als anrechenbarer Aufwand gelten die für die Leistung erfo
 
 **9**
 
-- 1\. 1. 08 - 59
+1.10. 22 - 118
 
 <sup>2</sup> Als anrechenbarer Ertrag gelten Einnahmen aus dem Leistungsbereich inkl. Kapitalerträge sowie freiwillige Zuwendungen, soweit diese für den Betrieb bestimmt sind.
 
@@ -352,7 +349,7 @@ Art. 24 <sup>1</sup> Als Verrechnungseinheit gilt der Kalendertag.
 
 Art. 25 <sup>1</sup> Die Einrichtung des Standortkantons kann den zahlungspflichtigen Stellen und Personen monatlich Rechnung stellen. Die Rechnungen sind innert 30 Tagen nach Eingang zu bezahlen.
 
-<sup>2</sup> Bleiben nach Ablauf der Zahlungsfrist die Überweisungen der Zahlungspflichtigen aus, mahnt die Einrichtung schriftlich. 10 Tage nach Eintreffen der Mahnung beginnt ein Verzugszins von 5% zu laufen.
+<sup>2</sup> Slungspflichtigen aus, mahnt die Einrichtung schriftlich. 10 Tage nach Eintreffen der Mahnung beginnt ein Verzugszins von 5% zu laufen.
 
 <sup>3</sup> Bei Inkassoproblemen leistet der Wohnkanton Hilfe.
 
@@ -370,9 +367,11 @@ Art. 27 <sup>1</sup> Die Kostenübernahmegarantie kann befristet und mit Auflage
 
 <sup>2</sup> Unbefristete Kostenübernahmegarantien können mit einer Frist von 6 Monaten gekündigt werden.
 
-<sup>3</sup> Gesuche um eine Kostenübernahmegarantie zu Gunsten von erwachsenen Personen erfordern deren Einwilligung.
+<sup>3</sup> Gesuche um eine Kostenübernahmegarantie zugunsten von erwachsenen Personen erfordern deren Einwilligung.
 
-- 4\. Regeln für erwachsene Personen mit Behinderungen gemäss Bereich B
+- 4\. Regeln für erwachsene Personen mit Behinderungen gemäss
+
+### Bereich B
 
 **Kostenbeteiligung; Grundsätze**
 
@@ -384,15 +383,13 @@ Art. 28 <sup>1</sup> Für erwachsene, invalide Personen gemäss Art. 2 Abs. 1 Be
 
 **Kostenbeteiligung und Leistungsabgeltung**
 
-Art. 29 <sup>1</sup> Die Kostenbeteiligung wird von der Einrichtung bei der Person oder deren gesetzlichen Vertretung auf Grund der Kostenübernahmegarantie des Wohnkantons eingefordert.
+Art. 29 <sup>1</sup> Die Kostenbeteiligung wird von der Einrichtung bei der Person oder deren gesetzlichen Vertretung aufgrund der Kostenübernahmegarantie des Wohnkantons eingefordert.
 
 <sup>2</sup> Verbleibt nach Abzug der Kostenbeteiligung von der Leistungsabgeltung ein ungedeckter Betrag, so gilt der Wohnkanton diesen der Einrichtung ab.
 
 **11**
 
-- 1\. 1. 08 - 59
-
-- 5\. Regeln für den Bereich C
+1.10. 22 - 118 5. Regeln für den Bereich C
 
 Art. 30 Für das Verfahren im Bereich C kann der Vorstand VK eine spezielle Richtlinie erlassen.
 
@@ -428,7 +425,7 @@ Art. 34 <sup>1</sup> Die Standortkantone sorgen dafür, dass die ihnen unterstel
 
 **Streitbeilegung**
 
-Art. 35 Kantone und Organe bemühen sich, Streitigkeiten aus der IVSE durch Verhandlungen oder Vermittlung beizulegen. Sie befolgen hierbei die Vorschriften der Streitbeilegung gemäss Art. 31 ff. der Rahmenvereinbarung für die interkantonale Zusammenarbeit mit Lastenausgleich (Rahmenvereinbarung, IRV) vom 24. Juni 2005[^hVRechtsschutzund-1].
+Art. 35 Kantone und Organe bemühen sich, Streitigkeiten aus der IVSE durch Verhandlungen oder Vermittlung beizulegen. Sie befolgen hierbei die Vorschriften der Streitbeilegung gemäss Art. 31 ff. der Rahmenvereinbarung für die interkantonale Zusammenarbeit mit Lastenausgleich (Rahmenvereinbarung, IRV) vom 24. Juni 2005<sup>2</sup>.
 
 **Sitz**
 
@@ -437,8 +434,6 @@ Art. 35<sup>bis</sup> Der Sitz der IVSE ist am Standort des Zentralsekretariates
 **Anwendbares Recht**
 
 Art. 35<sup>ter</sup> Es gilt das Recht des Sitzkantons.
-
-[^hVRechtsschutzund-1]: LS 615.
 
 ### VI. Schluss- und Übergangsbestimmungen
 
@@ -468,7 +463,7 @@ Art. 38 <sup>1</sup> Die Kündigung der IVSE ist dem Zentralsekretariat SODK zuh
 
 **13**
 
-- 1\. 1. 08 - 59
+1.10. 22 - 118
 
 <sup>3</sup> Das Kündigungsschreiben gibt den respektive die betroffenen Bereiche an.
 
@@ -479,6 +474,14 @@ Art. 38 <sup>1</sup> Die Kündigung der IVSE ist dem Zentralsekretariat SODK zuh
 Art. 39 <sup>1</sup> Sobald in drei Regionen mindestens je zwei Kantone mindestens zwei Bereichen beigetreten sind, bestellt die SODK die Organe. Der Vorstand VK legt anschliessend den Zeitpunkt für das Inkrafttreten fest und orientiert die Kantone und das Fürstentum Liechtenstein.
 
 <sup>2</sup> Das Inkraftsetzen hat spätestens zwölf Monate nach Erreichen des Quorums zu erfolgen.
+
+**Inkrafttreten der Teilrevision vom 23. November 2018**
+
+Art. 39<sup>bis</sup> <sup>5</sup> <sup>1</sup> Die Teilrevision vom 23. November 2018 ist ab ihrem Inkrafttreten auf alle bestehenden und neuen Platzierungen anwendbar.
+
+<sup>2</sup> Sie tritt spätestens nach 12 Monaten in Kraft, nachdem ihr mindestens 18 Kantone beigetreten sind.
+
+<sup>3</sup> Der Vorstand VK legt das Datum des Inkrafttretens[^h1BeitrittzurIVSE-1] fest.
 
 - 4\. Aufhebung der IVSE
 
@@ -496,7 +499,7 @@ Art. 41 Vor der Aufhebung der IVSE erteilte Kostenübernahmegarantien behalten i
 
 - 5\. Übergangsregelung IHV/IVSE
 
-**Kostengutsprachen/Kostenübernahmegarantien**
+**Kostengutsprachen/ Kostenübernahmegarantien**
 
 Art. 42 <sup>1</sup> Bestehende Kostengutsprachen der IHV behalten für Vereinbarungskantone die Gültigkeit als Kostenübernahmegarantie. Art. 27 Abs. 2 gilt analog.
 
@@ -508,18 +511,20 @@ Art. 43 <sup>1</sup> Die Liste der Heime und Einrichtungen gemäss Art. 8 der IH
 
 <sup>2</sup> Die Vereinbarungskantone reichen innerhalb von sechs Monaten nach dem Beitritt ihre gemäss Art. 2 und 23 angepasste und bereinigte Liste der Einrichtungen dem Sekretariat der SODK ein.
 
+[^h1BeitrittzurIVSE-1]: Inkrafttreten: 1. Juni 2020.
+
 ### Der vorliegende Text wurde von der Vereinbarungskonferenz am
 
-\14. September 2007 in Lausanne genehmigt und dem Bund, der
-
-### Schweizerischen Konferenz der kantonalen Gesundheitsdirektorinnen
-
-und -direktoren (GDK), der Konferenz der kantonalen Justiz- und
-
-### Polizeidirektorinnen und -direktoren (KKJPD), der Konferenz der
-
-kantonalen Erziehungsdirektorinnen und -direktoren (EDK) sowie der Konferenz der Kantonsregierungen (KdK) zur Kenntnis gebracht.
+\14. September 2007 in Lausanne genehmigt und dem Bund, der Schweizerischen Konferenz der kantonalen Gesundheitsdirektorinnen und -direktoren (GDK), der Konferenz der kantonalen Justiz- und Polizeidirektorinnen und -direktoren (KKJPD), der Konferenz der kantonalen Erziehungsdirektorinnen und -direktoren (EDK) sowie der Konferenz der Kantonsregierungen (KdK) zur Kenntnis gebracht.
 
 **15**
 
-- 1\. 1. 08 - 59
+1.10. 22 - 118
+
+## Weitere Fussnoten
+
+- [2] LS 615.
+- [3] SR 311.1.
+- [4] SR 831.26.
+- [5] Eingefügt durch B vom 23. November 2018 (OS 77, 454; ABl 2019-03-22). In Kraft seit 1. Juni 2020.
+- [6] Fassung gemäss B vom 23. November 2018 (OS 77, 454; ABl 2019-03-22). In Kraft seit 1. Juni 2020. 1.10. 22 - 118 1
