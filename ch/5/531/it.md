@@ -4,11 +4,11 @@ title: "Legge federale del 17 giugno 2016 sull'approvvigionamento economico del 
 short: LAP
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/308"
 language: it
-version: 2022-01-01
+version: 2022-09-24
 adopted: 2016-06-17
 in_force: 2017-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/308/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2017-308-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/308/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/308/20220924/it/xml/fedlex-data-admin-ch-eli-cc-2017-308-20220924-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/308/20220924/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/308/20220101/it"
 
 (Legge sull’approvvigionamento del Paese, LAP)
 
-del 17 giugno 2016 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 17 giugno 2016 (Stato 24 settembre 2022) (Stato 24 settembre 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -780,17 +780,29 @@ Data dell’entrata in vigore: 1° giugno 2017[^66-1]
 
 [^66-1]: DCF del 10 mag. 2017.
 
-Allegato 1
+Allegato 1[^t-1]
 
 (art. 34 cpv. 1 e 4)
 
 ## Sospensione di disposizioni di altri atti normativi
 
+[^t-1]: Aggiornato dal n. I dell’O del 23 set. 2022, in vigore dal 24 set. 2022 al 31 mag. 2023 ([RU 2022 528](https://fedlex.data.admin.ch/eli/oc/2022/528)).
+
 Il Consiglio federale può dichiarare temporaneamente inapplicabili le seguenti disposizioni:
 
-- 1\. l’articolo 2 capoverso 2 della legge federale del 19 dicembre 1958[^annex1-lvlu1-1] sulla circolazione stradale.
+- 1\. l’articolo 2 capoverso 2 della legge federale del 19 dicembre 1958[^annex1-lvlu1-1] sulla circolazione stradale;
+- 2\. gli articoli 2, 8 capoverso 2 e 22 della legge del 22 giugno 1979[^annex1-lvlu1-2] sulla pianificazione del territorio;
+- 3\. l’articolo 10*a* della legge del 7 ottobre 1983[^annex1-lvlu1-3] sulla protezione dell’ambiente;
+- 4\. l’articolo 16 capoverso 1 della legge del 24 giugno 1902[^annex1-lvlu1-4] sugli impianti elettrici;
+- 5\. gli articoli 7 e 8 della legge del 13 marzo 1964[^annex1-lvlu1-5] sul lavoro;
+- 6\. l’articolo 2 capoverso 1 della legge del 4 ottobre 1963[^annex1-lvlu1-6] sugli impianti di trasporto in condotta.
 
 [^annex1-lvlu1-1]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
+[^annex1-lvlu1-2]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^annex1-lvlu1-3]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^annex1-lvlu1-4]: [RS 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
+[^annex1-lvlu1-5]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
+[^annex1-lvlu1-6]: [RS 746.1](https://fedlex.data.admin.ch/eli/cc/1964/99_95_95)
 
 Allegato 2
 

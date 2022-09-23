@@ -4,11 +4,11 @@ title: "Loi fédérale du 17 juin 2016 sur l'approvisionnement économique du pa
 short: LAP
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/308"
 language: fr
-version: 2022-01-01
+version: 2022-09-24
 adopted: 2016-06-17
 in_force: 2017-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/308/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-308-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/308/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/308/20220924/fr/xml/fedlex-data-admin-ch-eli-cc-2017-308-20220924-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/308/20220924/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/308/20220101/fr"
 
 (Loi sur l’approvisionnement du pays, LAP)
 
-du 17 juin 2016 (Etat le 1<sup>er</sup> janvier 2022)
+du 17 juin 2016 (État le 24 septembre 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -780,17 +780,29 @@ Date de l’entrée en vigueur: 1<sup>er</sup> juin 2017[^66-1]
 
 [^66-1]: ACF du 10 mai 2017
 
-Annexe 1
+Annexe 1[^t-1]
 
 (art. 34, al. 1 et 4)
 
 ## Suspension de certaines dispositions d’autres actes
 
+[^t-1]: Mise à jour par le ch. I de l’O du 23 sept. 2022, en vigueur du 24 sept. 2022 au 31 mai 2023 ([RO 2022 528](https://fedlex.data.admin.ch/eli/oc/2022/528)).
+
 Le Conseil fédéral peut suspendre les dispositions suivantes:
 
-- 1\. l’art. 2, al. 2, de la loi du 19 décembre 1958 sur la circulation routière[^annex1-lvlu1-1].
+- 1\. l’art. 2, al. 2, de la loi du 19 décembre 1958 sur la circulation routière[^annex1-lvlu1-1];
+- 2\. les art. 2, 8, al. 2, et 22 de la loi du 22 juin 1979 sur l’aménagement du territoire[^annex1-lvlu1-2];
+- 3\. l’art. 10*a* de la loi du 7 octobre 1983 sur la protection de l’environnement[^annex1-lvlu1-3];
+- 4\. l’art. 16, al. 1, de la loi du 24 juin 1902 sur les installations électriques[^annex1-lvlu1-4];
+- 5\. les art. 7 et 8 de la loi du 13 mars 1964 sur le travail[^annex1-lvlu1-5];
+- 6\. l’art. 2, al. 1, de la loi du 4 octobre 1963 sur les installations de transport par conduites[^annex1-lvlu1-6].
 
 [^annex1-lvlu1-1]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
+[^annex1-lvlu1-2]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^annex1-lvlu1-3]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^annex1-lvlu1-4]: [RS 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
+[^annex1-lvlu1-5]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
+[^annex1-lvlu1-6]: [RS 746.1](https://fedlex.data.admin.ch/eli/cc/1964/99_95_95)
 
 Annexe 2
 
