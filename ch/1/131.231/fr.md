@@ -3,20 +3,20 @@ sr: "131.231"
 title: "Constitution du Canton de Vaud, du 14 avril 2003"
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/1136_fga"
 language: fr
-version: 2020-03-11
+version: 2022-09-25
 adopted: 2003-04-14
 in_force: 2003-04-14
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/1136_fga/20200311/fr/xml/fedlex-data-admin-ch-eli-cc-2003-1136_fga-20200311-fr-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/1136_fga/20200311/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/1136_fga/20220925/fr/xml/fedlex-data-admin-ch-eli-cc-2003-1136_fga-20220925-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/1136_fga/20220925/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Constitution du Canton de Vaud
 
-du 14 avril 2003 (Etat le 11 mars 2020)[^t-1]
+du 14 avril 2003 (État le 25 septembre 2022)[^t-1]
 
-[^t-1]: Cette publication se base sur les garanties fédérales publiées dans la FF. Elle peut de ce fait différer temporairement de la publication cantonale. La date de l’état est celle du dernier AF publié dans la FF.
+[^t-1]: Cette publication se base sur les garanties fédérales publiées dans la FF. Elle peut de ce fait différer temporairement de la publication cantonale.
 
 Pour favoriser l’épanouissement de chacun dans une société harmonieuse qui respecte la Création comme berceau des générations à venir, soit ouverte au monde et s’y sente unie, mesure sa force au soin qu’elle prend du plus faible de ses membres, et conçoive l’État comme l’expression de sa volonté,
 
@@ -42,7 +42,7 @@ le peuple du Canton de Vaud se donne la Constitution suivante:
 
 #### Art. 2
 
-<sup>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/1136_fga/20200311/fr/xml/image/image1.png)</sup> Les armoiries du Canton consistent en un écusson blanc et vert avec la devise «Liberté et Patrie».
+<sup>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/1136_fga/20220925/fr/xml/image/image1.png)</sup> Les armoiries du Canton consistent en un écusson blanc et vert avec la devise «Liberté et Patrie».
 
 <sup>2</sup> Les armoiries du Canton de Vaud sont: coupé, au 1 d’argent chargé des mots «Liberté et Patrie», rangés sur trois lignes, aux lettres d’or bordées de sable, au 2 de sinople.
 
@@ -952,7 +952,7 @@ Elles comprennent:
 
 #### Art. 90
 
-<sup>1</sup> Les fonctions de membres du Grand Conseil, du Conseil d’État, d’une autorité judiciaire et de la Cour des comptes ainsi que celle de médiatrice ou médiateur sont incompatibles. La loi peut prévoir des exceptions pour les membres non permanents d’une autorité judiciaire.
+<sup>1</sup> Les fonctions de membres du Grand Conseil, du Conseil d’État, d’une autorité judiciaire, du Ministère public et de la Cour des comptes ainsi que celle de médiatrice ou médiateur sont incompatibles. La loi peut prévoir des exceptions pour les membres non permanents d’une autorité judiciaire.[^90-1]
 
 <sup>2</sup> Les membres du Conseil d’État ne peuvent exercer aucune autre fonction officielle ou privée lucrative, ni siéger aux Chambres fédérales. Les fonctions exercées au titre d’une délégation sont réservées.
 
@@ -961,6 +961,8 @@ Elles comprennent:
 <sup>4</sup> Les cadres supérieurs de l’administration cantonale ne peuvent pas être membres du Grand Conseil.
 
 <sup>5</sup> La loi peut prévoir d’autres incompatibilités.
+
+[^90-1]: Accepté en [votation populaire du 25 sept. 2022](http://www.admin.ch/ch/f/pore/va/20220925/index.html), en vigueur depuis le 25 sept. 2022. Garantie de l’Ass. féd. du 20 sept. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 7, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### Chapitre II Grand Conseil
 
@@ -1108,21 +1110,25 @@ Le Grand Conseil élit:
 - b. les juges du Tribunal cantonal;
 - c. les membres de la Cour des comptes;
 - d. la médiatrice ou le médiateur administratif;
-- e.[^106-1] le procureur général.
+- e.[^106-1] le procureur général et les procureurs généraux adjoints;
+- f.[^106-2] les membres du Conseil de la magistrature.
 
 <sup>2</sup> Il désigne les membres de la commission de présentation judiciaire prévue aux art. 131 et 166.
 
-[^106-1]: Acceptée en [votation populaire du 27 sept. 2009](http://www.admin.ch/ch/f/pore/va/20090927/index.html), en vigueur depuis le 27 sept. 2009. Garantie de l’Ass. féd. du 8 déc. 2010 ([FF 2011 255](https://fedlex.data.admin.ch/eli/fga/2011/15)art. 1 ch. 3, [2010 4463](https://fedlex.data.admin.ch/eli/fga/2010/839)).
+[^106-1]: Acceptée en [votation populaire du 25 sept. 2022](http://www.admin.ch/ch/f/pore/va/20220925/index.html), en vigueur depuis le 25 sept. 2022. Garantie de l’Ass. féd. du 20 sept. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 7, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^106-2]: Acceptée en [votation populaire du 25 sept. 2022](http://www.admin.ch/ch/f/pore/va/20220925/index.html), en vigueur depuis le 25 sept. 2022. Garantie de l’Ass. féd. du 20 sept. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 7, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### Haute surveillance
 
 #### Art. 107
 
-<sup>1</sup> Le Grand Conseil exerce la haute surveillance sur l’activité du Conseil d’État, ainsi que sur la gestion du Tribunal cantonal. L’indépendance des jugements est réservée.
+<sup>1</sup> Le Grand Conseil exerce la haute surveillance sur l’activité du Conseil d’État, sur celle du Conseil de la magistrature, ainsi qu’au travers de ce dernier, sur la gestion du Tribunal cantonal et du Ministère public. L’indépendance des jugements est réservée.[^107-1]
 
 <sup>2</sup> Il se prononce annuellement sur la gestion de l’État.
 
 <sup>3</sup> Il peut décider à tout moment d’enquêter sur un point particulier de l’activité du Conseil d’État.
+
+[^107-1]: Accepté en [votation populaire du 25 sept. 2022](http://www.admin.ch/ch/f/pore/va/20220925/index.html), en vigueur depuis le 25 sept. 2022. Garantie de l’Ass. féd. du 20 sept. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 7, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### Participations
 
@@ -1285,25 +1291,19 @@ Le Conseil d’État répond de la sécurité et de l’ordre publics.
 
 <sup>2</sup> La loi fixe la procédure de ratification par le Grand Conseil.
 
-### Section V Ministère public
-
-### Ministère public
+### Section V …
 
 #### Art. 125a
 
 [^125a-1]
 
-<sup>1</sup> Le Ministère public est l’autorité chargée de mener l’instruction pénale et de soutenir l’accusation.
+[^125a-1]: Accepté en [votation populaire du 27 sept. 2009](http://www.admin.ch/ch/f/pore/va/20090927/index.html). Garantie de l’Ass. féd. du 8 déc. 2010 ([FF 2011 255](https://fedlex.data.admin.ch/eli/fga/2011/15)art. 1 ch. 3, [2010 4463](https://fedlex.data.admin.ch/eli/fga/2010/839)). Abrogé en [votation populaire du 25 sept. 2022](http://www.admin.ch/ch/f/pore/va/20220925/index.html), avec effet au 25 sept. 2022. Garantie de l’Ass. féd. du 20 sept. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 7, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
-<sup>2</sup> Il jouit d’une totale indépendance dans l’exercice de ses tâches légales.
+### Chapitre IV Tribunaux et Ministère public
 
-<sup>3</sup> Il est rattaché administrativement au Conseil d’État.
+[^titV-chapIV-1]
 
-<sup>4</sup> La loi régit son organisation, son fonctionnement et ses compétences.
-
-[^125a-1]: Accepté en [votation populaire du 27 sept. 2009](http://www.admin.ch/ch/f/pore/va/20090927/index.html), en vigueur depuis le 27 sept. 2009. Garantie de l’Ass. féd. du 8 déc. 2010 ([FF 2011 255](https://fedlex.data.admin.ch/eli/fga/2011/15)art. 1 ch. 3, [2010 4463](https://fedlex.data.admin.ch/eli/fga/2010/839)).
-
-### Chapitre IV Tribunaux
+[^titV-chapIV-1]: Accepté en [votation populaire du 25 sept. 2022](http://www.admin.ch/ch/f/pore/va/20220925/index.html), en vigueur depuis le 25 sept. 2022. Garantie de l’Ass. féd. du 20 sept. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 7, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### Section I Principes généraux
 
@@ -1311,25 +1311,34 @@ Le Conseil d’État répond de la sécurité et de l’ordre publics.
 
 #### Art. 126
 
-<sup>1</sup> L’indépendance des tribunaux est garantie.
+<sup>1</sup> L’indépendance des tribunaux et du Ministère public est garantie.[^126-1]
 
-<sup>2</sup> Les juges exercent les fonctions judiciaires d’une manière indépendante et impartiale.
+<sup>2</sup> Les juges et les magistrats du Ministère public exercent les fonctions judiciaires d’une manière indépendante et impartiale.[^126-2]
 
 <sup>3</sup> Ils ne peuvent pas exercer, en sus de leur fonction judiciaire, une activité de nature à gêner leur indépendance ou à créer une apparence de partialité. Les règles relatives à la composition des tribunaux paritaires sont réservées.
 
-### Organisation judiciaire, interdiction des tribunaux d’exception
+[^126-1]: Accepté en [votation populaire du 25 sept. 2022](http://www.admin.ch/ch/f/pore/va/20220925/index.html), en vigueur depuis le 25 sept. 2022. Garantie de l’Ass. féd. du 20 sept. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 7, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^126-2]: Accepté en [votation populaire du 25 sept. 2022](http://www.admin.ch/ch/f/pore/va/20220925/index.html), en vigueur depuis le 25 sept. 2022. Garantie de l’Ass. féd. du 20 sept. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 7, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+
+### Organisation judiciaire, interdiction des juridictions d’exception
 
 #### Art. 127
 
-<sup>1</sup> La loi détermine le nombre, l’organisation et les compétences des tribunaux.
+[^127-1]
 
-<sup>2</sup> Il ne peut être instauré de tribunaux d’exception, sous quelque dénomination que ce soit.
+<sup>1</sup> La loi détermine le nombre, l’organisation et les compétences des tribunaux et du Ministère public.
+
+<sup>2</sup> Il ne peut être instauré de juridictions d’exception, sous quelque dénomination que ce soit.
+
+[^127-1]: Accepté en [votation populaire du 25 sept. 2022](http://www.admin.ch/ch/f/pore/va/20220925/index.html), en vigueur depuis le 25 sept. 2022. Garantie de l’Ass. féd. du 20 sept. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 7, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### Célérité et qualité de la justice
 
 #### Art. 128
 
-Le Grand Conseil accorde aux autorités judiciaires des moyens suffisants pour garantir la célérité et la qualité de la justice.
+Le Grand Conseil accorde aux autorités judiciaires et au Ministère public des moyens suffisants pour garantir la célérité et la qualité de la justice.[^128-1]
+
+[^128-1]: Accepté en [votation populaire du 25 sept. 2022](http://www.admin.ch/ch/f/pore/va/20220925/index.html), en vigueur depuis le 25 sept. 2022. Garantie de l’Ass. féd. du 20 sept. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 7, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### Double instance
 
@@ -1338,6 +1347,18 @@ Le Grand Conseil accorde aux autorités judiciaires des moyens suffisants pour g
 <sup>1</sup> Toute décision judiciaire en matière civile ou pénale peut être portée devant une seconde instance au niveau cantonal.
 
 <sup>2</sup> La loi veille à ce qu’il n’y ait pas plus de deux instances judiciaires cantonales à trancher le fond des litiges.
+
+### Haute surveillance
+
+#### Art. 129a
+
+[^129a-1]
+
+<sup>1</sup> Sauf l’indépendance juridictionnelle, le Tribunal cantonal et le Ministère Public sont placés sous la haute surveillance du Grand Conseil.
+
+<sup>2</sup> La Haute surveillance s’exerce au travers du Conseil de la magistrature.
+
+[^129a-1]: Accepté en [votation populaire du 25 sept. 2022](http://www.admin.ch/ch/f/pore/va/20220925/index.html), en vigueur depuis le 25 sept. 2022. Garantie de l’Ass. féd. du 20 sept. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 7, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### Section II Tribunal Cantonal
 
@@ -1351,16 +1372,20 @@ Le Tribunal cantonal est l’autorité judiciaire supérieure du Canton.
 
 #### Art. 131
 
-<sup>1</sup> Les juges et les juges suppléants du Tribunal cantonal sont élus par le Grand Conseil pour une durée de cinq ans à compter du 1<sup>er</sup> janvier de l’année qui suit le renouvellement du Grand Conseil, sur préavis d’une commission de présentation.[^131-1]
+<sup>1</sup> Les juges et les juges suppléants du Tribunal cantonal sont élus par le Grand Conseil, sur préavis du Conseil de la magistrature et d’une commission de présentation.[^131-1]
 
-<sup>2</sup> Cette commission est désignée par le Grand Conseil. Elle est composée de députés et d’experts indépendants.
+<sup>2</sup> Cette commission est désignée par le Grand Conseil. Elle est composée de députés.[^131-2]
 
 <sup>3</sup> Le choix des candidats au Tribunal cantonal se fonde essentiellement sur leur formation juridique et leur expérience. Le Grand Conseil veille en outre à une représentation équitable des différentes sensibilités politiques.
 
-<sup>4</sup> La loi régit la désignation des juges assesseurs de la Cour de droit administratif et public et de la Cour des assurances sociales du Tribunal cantonal.[^131-2]
+<sup>4</sup> La loi régit la désignation des juges assesseurs de la Cour de droit administratif et public et de la Cour des assurances sociales du Tribunal cantonal.[^131-3]
 
-[^131-1]: Accepté en [votation populaire du 27 nov. 2005](http://www.admin.ch/ch/f/pore/va/20051127/index.html), en vigueur depuis le 27 nov. 2005. Garantie de l’Ass. féd. du 18 juin 2007 ([FF 2007 4689](https://fedlex.data.admin.ch/eli/fga/2007/694)art. 1 ch. 5 [581](https://fedlex.data.admin.ch/eli/fga/2007/86)).
-[^131-2]: Accepté en [votation populaire du 30 nov. 2008](http://www.admin.ch/ch/f/pore/va/20081130/index.html), en vigueur depuis le 30 nov. 2008. Garantie de l’Ass. féd. du 10 déc. 2009 ([FF 2009 8295](https://fedlex.data.admin.ch/eli/fga/2009/1541)art. 1 ch. 3 [5361](https://fedlex.data.admin.ch/eli/fga/2009/1077)).
+<sup>5</sup> Les juges et juges suppléants du Tribunal cantonal sont élus pour une durée de cinq ans qui débute le 1<sup>er</sup> janvier de la troisième année suivant celle du renouvellement du Grand Conseil.[^131-4]
+
+[^131-1]: Accepté en [votation populaire du 25 sept. 2022](http://www.admin.ch/ch/f/pore/va/20220925/index.html), en vigueur depuis le 25 sept. 2022. Garantie de l’Ass. féd. du 20 sept. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 7, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^131-2]: Accepté en [votation populaire du 25 sept. 2022](http://www.admin.ch/ch/f/pore/va/20220925/index.html), en vigueur depuis le 25 sept. 2022. Garantie de l’Ass. féd. du 20 sept. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 7, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^131-3]: Accepté en [votation populaire du 30 nov. 2008](http://www.admin.ch/ch/f/pore/va/20081130/index.html), en vigueur depuis le 30 nov. 2008. Garantie de l’Ass. féd. du 10 déc. 2009 ([FF 2009 8295](https://fedlex.data.admin.ch/eli/fga/2009/1541)art. 1 ch. 3 [5361](https://fedlex.data.admin.ch/eli/fga/2009/1077)).
+[^131-4]: Accepté en [votation populaire du 25 sept. 2022](http://www.admin.ch/ch/f/pore/va/20220925/index.html), en vigueur depuis le 25 sept. 2022. Garantie de l’Ass. féd. du 20 sept. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 7, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### Organisation et autonomie
 
@@ -1368,7 +1393,9 @@ Le Tribunal cantonal est l’autorité judiciaire supérieure du Canton.
 
 <sup>1</sup> Le Tribunal cantonal est autonome en matière d’organisation, d’administration et de finances dans le cadre du budget adopté par le Grand Conseil.
 
-<sup>2</sup> Chaque année, il soumet son budget, sa gestion et ses comptes au Grand Conseil, par l’intermédiaire du Conseil d’État.
+<sup>2</sup> Chaque année, il soumet son budget et ses comptes au Grand Conseil, par l’intermédiaire du Conseil d’État.[^132-1]
+
+[^132-1]: Accepté en [votation populaire du 25 sept. 2022](http://www.admin.ch/ch/f/pore/va/20220925/index.html), en vigueur depuis le 25 sept. 2022. Garantie de l’Ass. féd. du 20 sept. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 7, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### Compétences
 
@@ -1394,11 +1421,11 @@ En qualité d’autorité administrative, le Tribunal cantonal:
 
 Les juges du Tribunal cantonal peuvent exprimer des avis minoritaires dans les jugements et arrêts.
 
-### Haute surveillance
-
 #### Art. 135
 
-Sauf l’indépendance des jugements, le Tribunal cantonal est placé sous la haute surveillance du Grand Conseil.
+[^135-1]
+
+[^135-1]: Abrogé en [votation populaire du 25 sept. 2022](http://www.admin.ch/ch/f/pore/va/20220925/index.html), avec effet au 25 sept. 2022. Garantie de l’Ass. féd. du 20 sept. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 7, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### Section III Cour constitutionnelle
 
@@ -1415,6 +1442,52 @@ Elle:
 - c. tranche les conflits de compétence entre autorités.
 
 <sup>3</sup> Ses décisions sont publiées.
+
+### Section IV Ministère public
+
+[^titV-chapIV-secIV-1]
+
+[^titV-chapIV-secIV-1]: Acceptée en [votation populaire du 25 sept. 2022](http://www.admin.ch/ch/f/pore/va/20220925/index.html), en vigueur depuis le 25 sept. 2022. Garantie de l’Ass. féd. du 20 sept. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 7, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+
+### Compétences
+
+#### Art. 136a
+
+<sup>1</sup> Le Ministère public est l’autorité chargée de mener l’instruction pénale et de soutenir l’accusation.
+
+<sup>2</sup> Il jouit d’une totale indépendance dans l’exercice de ses tâches légales.
+
+### Organisation et autonomie
+
+#### Art. 136b
+
+<sup>1</sup> Le Ministère public est autonome en matière d’organisation, d’administration et de finances dans le cadre du budget adopté par le Grand Conseil.
+
+<sup>2</sup> Chaque année, il soumet son budget et ses comptes au Grand Conseil, par l’intermédiaire du Conseil d’État.
+
+### Élection du Procureur général et des procureurs généraux adjoints
+
+#### Art. 136c
+
+L’art. 131 s’applique par analogie à l’élection du Procureur général et des procureurs généraux adjoints.
+
+### Section V Conseil de la magistrature
+
+[^titV-chapIV-secV-1]
+
+[^titV-chapIV-secV-1]: Acceptée en [votation populaire du 25 sept. 2022](http://www.admin.ch/ch/f/pore/va/20220925/index.html), en vigueur depuis le 25 sept. 2022. Garantie de l’Ass. féd. du 20 sept. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 7, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+
+### Conseil de la magistrature
+
+#### Art. 136d
+
+<sup>1</sup> Le Conseil de la magistrature assure la surveillance du Tribunal cantonal et du Ministère public ainsi que de leurs magistrats, dans le respect de leur indépendance juridictionnelle et de leur autonomie.
+
+<sup>2</sup> Il rapporte au Grand Conseil sur son activité.
+
+<sup>3</sup> Pour le surplus, la loi fixe sa composition, son organisation et ses compétences.
+
+<sup>4</sup> La loi peut confier des fonctions du Conseil de la magistrature à une instance intercantonale.
 
 ## Titre VI Communes et districts
 
@@ -1913,6 +1986,16 @@ Le statut et les droits des bourses publiques ayant des obligations en matière 
 
 Les droits coutumiers des bourgeoisies, fondées sur l’art. 81 de la Constitution du 1<sup>er</sup> mars 1885, sont réservés, sous l’arbitrage du Conseil d’État. Les personnes concernées par l’abrogation de cet article sont informées par publication officielle.
 
+### Disposition transitoire de la révision partielle du 25 septembre 2022
+
+#### Art. 179a
+
+[^179a-1]
+
+La durée de fonction des juges cantonaux ainsi que celle du Procureur général, est prolongée jusqu’au 31 décembre 2024.
+
+[^179a-1]: Accepté en [votation populaire du 25 sept. 2022](http://www.admin.ch/ch/f/pore/va/20220925/index.html), en vigueur depuis le 25 sept. 2022. Garantie de l’Ass. féd. du 20 sept. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 7, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+
 ### Initiatives et référendums
 
 #### Art. 180
@@ -2055,6 +2138,11 @@ Conseil d’État
 - – séance extraordinaire du grand conseil 95<sup>2</sup>
 - – présentation du programme de législature 119
 - – projets de lois, décrets 111<sup>2</sup>
+
+Conseil de la magistrature
+
+- – élection 106<sup>1f</sup>
+- – surveillance 107, 129*a*
 
 Conseil des États
 
@@ -2264,7 +2352,7 @@ Grand Conseil
 - – incompatibilités 90
 - – nomination du Tribunal cantonal 131
 - – présence des membres du Conseil d’État aux séances 95
-- – surveillance du Tribunal cantonal 107
+- – surveillance 107
 
 Hébergement médico-social 65<sup>2c</sup><sup>bis</sup>
 
@@ -2335,7 +2423,11 @@ Médias
 
 Médiation 43, 106<sup>1d</sup>
 
-Ministère public 125*a*
+Ministère public 136*a* à 136*d*
+
+- – indépendance 126
+- – loi sur l’organisation judiciaire 127<sup>1</sup>
+- – surveillance 107, 129*a*
 
 Naturalisation
 
@@ -2462,10 +2554,7 @@ Surveillance
 - – par le Conseil d’État
   - – direction de l’administration 123
 
-- – par le Grand Conseil
-  - – administration de l’État 105<sup>3</sup>, 107
-  - – corps de l’ordre judiciaire 107
-
+- – par le Grand Conseil 105<sup>3</sup>, 107
 - – par les conseils généraux et communaux
   - – municipalités 146
 
@@ -2487,6 +2576,7 @@ Tribunaux
 - – cour constitutionnelle 80<sup>2</sup>, 136
 - – généralités 126 à 129
 - – incompatibilités 90
+- – indépendance 126
 - – loi sur l’organisation judiciaire 127<sup>1</sup>
 - – séparation des pouvoirs v. Séparation
 - – Tribunal cantonal et tribunal administratif

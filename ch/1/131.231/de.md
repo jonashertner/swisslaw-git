@@ -3,11 +3,11 @@ sr: "131.231"
 title: "Verfassung des Kantons Waadt, vom 14. April 2003"
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/1136_fga"
 language: de
-version: 2020-03-11
+version: 2022-09-25
 adopted: 2003-04-14
 in_force: 2003-04-14
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/1136_fga/20200311/de/xml/fedlex-data-admin-ch-eli-cc-2003-1136_fga-20200311-de-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/1136_fga/20200311/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/1136_fga/20220925/de/xml/fedlex-data-admin-ch-eli-cc-2003-1136_fga-20220925-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/1136_fga/20220925/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,10 +16,10 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/1136_fga/20200311/de"
 
 Übersetzung[^t-1]
 
-vom 14. April 2003 (Stand am 11. März 2020)[^t-2]
+vom 14. April 2003 (Stand am 25. September 2022)[^t-2]
 
 [^t-1]: Der Text ind der französischen Originalsprache findet sich unter der gleichen Nummer in der entsprechenden Ausgabe dieser Sammlung.
-[^t-2]: Diese Veröffentlichung basiert auf jenen der Änderungen im Rahmen der Gewährleis-tungsbotschaften im BBl. Sie kann vorübergehend von der Veröffentlichung in der kantonalen Gesetzessammlung abweichen. Der Stand bezeichnet daher das Datum des letzten im BBl veröffentlichten Gewährleistungsbeschlusses der Bundesversammlung.
+[^t-2]: Diese Veröffentlichung basiert auf jenen der Änderungen im Rahmen der Gewährleis-tungsbotschaften im BBl. Sie kann vorübergehend von der Veröffentlichung in der kantonalen Gesetzessammlung abweichen.
 
 Im Bestreben, die Entfaltung des Einzelnen in einer harmonischen Gesellschaft zu fördern,
 
@@ -51,7 +51,7 @@ gibt sich das Volk des Kantons Waadt folgende Verfassung:
 
 #### Art. 2
 
-<sup>1</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/1136_fga/20200311/de/xml/image/image1.png) Das Kantonswappen besteht aus einem weiss-grünen Schild mit der Inschrift «Liberté et Patrie» («Freiheit und Vaterland»).
+<sup>1</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/1136_fga/20220925/de/xml/image/image1.png) Das Kantonswappen besteht aus einem weiss-grünen Schild mit der Inschrift «Liberté et Patrie» («Freiheit und Vaterland»).
 
 <sup>2</sup> Das Kantonswappen stellt sich wie folgt dar: von Weiss und Grün geteilt, oben die in drei Zeilen angeordneten Worte «Liberté et Patrie» in goldenen schwarz umränderten Lettern.
 
@@ -961,7 +961,7 @@ Die Behörden umfassen:
 
 #### Art. 90
 
-<sup>1</sup> Das Amt als Mitglied des Grossen Rates, des Staatsrates, einer Gerichtsbehörde und des Rechnungshofes sowie das Amt der Ombudsperson sind unvereinbar. Das Gesetz kann für nichtständige Mitglieder einer Gerichtsbehörde Ausnahmen vorsehen.
+<sup>1</sup> Das Amt als Mitglied des Grossen Rates, des Staatsrates, einer Gerichtsbehörde, der Staatsanwaltschaft und des Rechnungshofes sowie das Amt der Ombudsperson sind unvereinbar. Das Gesetz kann für nichtständige Mitglieder einer Gerichtsbehörde Ausnahmen vorsehen.[^90-1]
 
 <sup>2</sup> Die Mitglieder des Staatsrates dürfen kein anderes bezahltes öffentliches oder privates Amt ausüben noch den eidgenössischen Räten angehören. Vorbehalten bleiben die auf Grund einer Delegation wahrgenommenen Ämter.
 
@@ -970,6 +970,8 @@ Die Behörden umfassen:
 <sup>4</sup> Die leitenden Angestellten der Kantonsverwaltung dürfen nicht Mitglied des Grossen Rates sein.
 
 <sup>5</sup> Das Gesetz kann weitere Unvereinbarkeiten vorsehen.
+
+[^90-1]: Angenommen in der [Volksabstimmung vom 25. Sept. 2022](http://www.admin.ch/ch/d/pore/va/20220925/index.html), in Kraft seit 25. Sept. 2022. Gewährleistungsbeschluss vom 20. Sept. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)Art. 7, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### II. Kapitel: Grosser Rat
 
@@ -1117,21 +1119,25 @@ Der Grosse Rat wählt:
 - b. die Richter des Kantonsgerichts;
 - c. die Mitglieder des Rechnungshofs;
 - d. die Ombudsperson;
-- e.[^106-1] den Generalstaatsanwalt.
+- e.[^106-1] den Generalstaatsanwalt und die Generalstaatsanwaltstellvertreter;
+- f.[^106-2] die Mitglieder des Justizrats.
 
 <sup>2</sup> Er ernennt die Mitglieder der in den Artikeln 131 und 166 vorgesehenen Wahlvorbereitungskommission.
 
-[^106-1]: Angenommen in der [Volksabstimmung vom 27. Sept. 2009](http://www.admin.ch/ch/d/pore/va/20090927/index.html), in Kraft seit 27. Sept. 2009. Gewährleistungsbeschluss vom 8. Dez. 2010 ([BBl 2011 257](https://fedlex.data.admin.ch/eli/fga/2011/15)Art. 1 Ziff. 3, [2010 4901](https://fedlex.data.admin.ch/eli/fga/2010/839)).
+[^106-1]: Angenommen in der [Volksabstimmung vom 25. Sept. 2022](http://www.admin.ch/ch/d/pore/va/20220925/index.html), in Kraft seit 25. Sept. 2022. Gewährleistungsbeschluss vom 20. Sept. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)Art. 7, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^106-2]: Angenommen in der [Volksabstimmung vom 25. Sept. 2022](http://www.admin.ch/ch/d/pore/va/20220925/index.html), in Kraft seit 25. Sept. 2022. Gewährleistungsbeschluss vom 20. Sept. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)Art. 7, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### Oberaufsicht
 
 #### Art. 107
 
-<sup>1</sup> Der Grosse Rat übt die Oberaufsicht über die Tätigkeit des Staatsrates sowie über die Geschäftsführung des Kantonsgerichts aus. Die Unabhängigkeit der richterlichen Tätigkeit bleibt vorbehalten.
+<sup>1</sup> Der Grosse Rat übt die Oberaufsicht über die Tätigkeit des Staatsrates, über diejenige des Justizrats sowie, mittels des Letzteren, über die Geschäftsführung des Kantonsgerichts und der Staatsanwaltschaft aus. Die Unabhängigkeit der Rechtsprechung bleibt vorbehalten.[^107-1]
 
 <sup>2</sup> Er nimmt jährlich zur Geschäftsführung des Staates Stellung.
 
 <sup>3</sup> Er kann jederzeit beschliessen, zu einem einzelnen Punkt der Tätigkeit des Staatsrates eine Untersuchung durchzuführen.
+
+[^107-1]: Angenommen in der [Volksabstimmung vom 25. Sept. 2022](http://www.admin.ch/ch/d/pore/va/20220925/index.html), in Kraft seit 25. Sept. 2022. Gewährleistungsbeschluss vom 20. Sept. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)Art. 7, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### Beteiligungen
 
@@ -1294,25 +1300,19 @@ Der Staatsrat ist für die öffentliche Ordnung und Sicherheit verantwortlich.
 
 <sup>2</sup> Das Gesetz legt das Verfahren für die Bestätigung durch den Grossen Rat fest.
 
-### V. Abschnitt: Staatsanwaltschaft
-
-### Staatsanwaltschaft
+### V. Abschnitt: …
 
 #### Art. 125a
 
 [^125a-1]
 
-<sup>1</sup> Die Staatsanwaltschaft führt die Strafuntersuchung und erhebt Anklage.
+[^125a-1]: Angenommen in der [Volksabstimmung vom 27. Sept. 2009](http://www.admin.ch/ch/d/pore/va/20090927/index.html). Gewährleistungsbeschluss vom 8. Dez. 2010 ([BBl 2011 257](https://fedlex.data.admin.ch/eli/fga/2011/15)Art. 1 Ziff. 3, [2010 4901](https://fedlex.data.admin.ch/eli/fga/2010/839)). Aufgehoben in der [Volksabstimmung vom 25. Sept. 2022](http://www.admin.ch/ch/d/pore/va/20220925/index.html), mit Wirkung seit 25. Sept. 2022. Gewährleistungsbeschluss vom 20. Sept. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)Art. 7, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
-<sup>2</sup> In der Ausübung ihrer gesetzlichen Pflichten ist sie unabhängig.
+### IV. Kapitel: Gerichte und Staatsanwaltschaft
 
-<sup>3</sup> Sie ist administrativ dem Staatsrat unterstellt.
+[^titV-chapIV-1]
 
-<sup>4</sup> Das Gesetz regelt ihre Organisation, ihre Funktionen und ihre Zuständigkeiten.
-
-[^125a-1]: Angenommen in der [Volksabstimmung vom 27. Sept. 2009](http://www.admin.ch/ch/d/pore/va/20090927/index.html), in Kraft seit 27. Sept. 2009. Gewährleistungsbeschluss vom 8. Dez. 2010 ([BBl 2011 257](https://fedlex.data.admin.ch/eli/fga/2011/15)Art. 1 Ziff. 3, [2010 4901](https://fedlex.data.admin.ch/eli/fga/2010/839)).
-
-### IV. Kapitel: Gerichte
+[^titV-chapIV-1]: Angenommen in der [Volksabstimmung vom 25. Sept. 2022](http://www.admin.ch/ch/d/pore/va/20220925/index.html), in Kraft seit 25. Sept. 2022. Gewährleistungsbeschluss vom 20. Sept. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)Art. 7, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### I. Abschnitt: Allgemeine Grundsätze
 
@@ -1320,25 +1320,34 @@ Der Staatsrat ist für die öffentliche Ordnung und Sicherheit verantwortlich.
 
 #### Art. 126
 
-<sup>1</sup> Die Unabhängigkeit der Gerichte ist gewährleistet.
+<sup>1</sup> Die Unabhängigkeit der Gerichte und der Staatsanwaltschaft ist gewährleistet.[^126-1]
 
-<sup>2</sup> Die Richter üben ihr richterliches Amt auf unabhängige und unparteiliche Weise aus.
+<sup>2</sup> Die Richter und die Amtsträger der Staatsanwaltschaft üben ihre rechtlichen Funktionen auf unabhängige und unparteiliche Weise aus.[^126-2]
 
 <sup>3</sup> Sie dürfen neben ihrem richterlichen Amt keine Tätigkeit ausüben, die ihre Unabhängigkeit beeinträchtigen oder den Anschein von Voreingenommenheit erwecken kann. Die Bestimmungen über die Zusammensetzung der paritätisch besetzten Gerichte bleiben vorbehalten.
 
-### Organisation des Gerichtswesens, Verbot von Ausnahmegerichten
+[^126-1]: Angenommen in der [Volksabstimmung vom 25. Sept. 2022](http://www.admin.ch/ch/d/pore/va/20220925/index.html), in Kraft seit 25. Sept. 2022. Gewährleistungsbeschluss vom 20. Sept. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)Art. 7, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^126-2]: Angenommen in der [Volksabstimmung vom 25. Sept. 2022](http://www.admin.ch/ch/d/pore/va/20220925/index.html), in Kraft seit 25. Sept. 2022. Gewährleistungsbeschluss vom 20. Sept. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)Art. 7, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+
+### Organisation des Gerichtswesens, Verbot der Ausnahmegerichtsbarkeit
 
 #### Art. 127
 
-<sup>1</sup> Das Gesetz legt Anzahl, Organisation und Zuständigkeit der Gerichte fest.
+[^127-1]
 
-<sup>2</sup> Es dürfen keine Ausnahmegerichte eingesetzt werden, auch nicht unter anderer Bezeichnung.
+<sup>1</sup> Das Gesetz legt Anzahl, Organisation und Zuständigkeit der Gerichte und der Staatsanwaltschaft fest.
+
+<sup>2</sup> Es darf keine Ausnahmegerichtsbarkeit eingeführt werden, unter welcher Bezeichnung auch immer.
+
+[^127-1]: Angenommen in der [Volksabstimmung vom 25. Sept. 2022](http://www.admin.ch/ch/d/pore/va/20220925/index.html), in Kraft seit 25. Sept. 2022. Gewährleistungsbeschluss vom 20. Sept. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)Art. 7, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### Rasches Handeln und hohe Qualität der Justiz
 
 #### Art. 128
 
-Der Grosse Rat gewährt den Gerichtsbehörden ausreichende Mittel, damit rasches Handeln und hohe Qualität der Justiz gewährleistet sind.
+Der Grosse Rat gewährt den Gerichtsbehörden und der Staatsanwaltschaft ausreichende Mittel, damit rasches Handeln und hohe Qualität der Justiz gewährleistet sind.[^128-1]
+
+[^128-1]: Angenommen in der [Volksabstimmung vom 25. Sept. 2022](http://www.admin.ch/ch/d/pore/va/20220925/index.html), in Kraft seit 25. Sept. 2022. Gewährleistungsbeschluss vom 20. Sept. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)Art. 7, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### Doppelter Instanzenzug
 
@@ -1347,6 +1356,18 @@ Der Grosse Rat gewährt den Gerichtsbehörden ausreichende Mittel, damit rasches
 <sup>1</sup> Jeder zivil- oder strafrechtliche Gerichtsentscheid kann bei einer zweiten kantonalen Instanz angefochten werden.
 
 <sup>2</sup> Das Gesetz sorgt dafür, dass nicht mehr als zwei kantonale Gerichtsinstanzen materiell über Streitigkeiten zu befinden haben.
+
+### Oberaufsicht
+
+#### Art. 129a
+
+[^129a-1]
+
+<sup>1</sup> Unter Vorbehalt ihrer justiziellen Unabhängigkeit unterstehen das Kantonsgericht und die Staatsanwaltschaft der Oberaufsicht des Grossen Rates.
+
+<sup>2</sup> Die Oberaufsicht wird mittels des Justizrats ausgeübt.
+
+[^129a-1]: Angenommen in der [Volksabstimmung vom 25. Sept. 2022](http://www.admin.ch/ch/d/pore/va/20220925/index.html), in Kraft seit 25. Sept. 2022. Gewährleistungsbeschluss vom 20. Sept. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)Art. 7, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### II. Abschnitt: Kantonsgericht
 
@@ -1360,16 +1381,20 @@ Das Kantonsgericht ist die oberste Gerichtsbehörde des Kantons.
 
 #### Art. 131
 
-<sup>1</sup> Die Richter und die Ersatzrichter des Kantonsgerichts werden vom Grossen Rat gestützt auf eine Stellungnahme der Wahlvorbereitungskommission für die Dauer von fünf Jahren ab 1. Januar des Jahres, das auf die Gesamterneuerung des Grossen Rates folgt, gewählt.[^131-1]
+<sup>1</sup> Die Richter und die Ersatzrichter des Kantonsgerichts werden vom Grossen Rat gestützt auf die Stellungnahme des Justizrats und einer Wahlvorbereitungskommission gewählt.[^131-1]
 
-<sup>2</sup> Die Kommission wird vom Grossen Rat ernannt. Sie setzt sich aus Abgeordneten und aus unabhängigen Experten zusammen.
+<sup>2</sup> Die Kommission wird vom Grossen Rat ernannt. Sie setzt sich aus Abgeordneten zusammen.[^131-2]
 
 <sup>3</sup> Die Auswahl der Kandidaten für das Kantonsgericht richtet sich im Wesentlichen nach ihrer juristischen Ausbildung und ihrer Erfahrung. Der Grosse Rat achtet ausserdem auf eine ausgewogene Vertretung der unterschiedlichen politischen Meinungsrichtungen.
 
-<sup>4</sup> Das Gesetz regelt die Wahl der beisitzenden Richter der verwaltungsrechtlichen und öffentlich-rechtlichen Abteilung sowie der sozialversicherungsrechtlichen Abteilung des Kantonsgerichts.[^131-2]
+<sup>4</sup> Das Gesetz regelt die Wahl der beisitzenden Richter der verwaltungsrechtlichen und öffentlich-rechtlichen Abteilung sowie der sozialversicherungsrechtlichen Abteilung des Kantonsgerichts.[^131-3]
 
-[^131-1]: Angenommen in der [Volksabstimmung vom 27. Nov. 2005](http://www.admin.ch/ch/d/pore/va/20051127/index.html), in Kraft seit 27. Nov. 2005. Gewährleistungsbeschluss vom 18. Juni 2007 ([BBl 2007 4933](https://fedlex.data.admin.ch/eli/fga/2007/694)Art. 1 Ziff. 5 [629](https://fedlex.data.admin.ch/eli/fga/2007/86)).
-[^131-2]: Angenommen in der [Volksabstimmung vom 30. Nov. 2008](http://www.admin.ch/ch/d/pore/va/20081130/index.html), in Kraft seit 30. Nov. 2008. Gewährleistungsbeschluss vom 10. Dez. 2009 ([BBl 2009 9137](https://fedlex.data.admin.ch/eli/fga/2009/1541)Art. 1 Ziff. 3 5965).
+<sup>5</sup> Die Richter und die Ersatzrichter des Kantonsgerichts werden für die Dauer von fünf Jahren ab 1. Januar des dritten Jahrs, das auf die Gesamterneuerung des Grossen Rates folgt, gewählt.[^131-4]
+
+[^131-1]: Angenommen in der [Volksabstimmung vom 25. Sept. 2022](http://www.admin.ch/ch/d/pore/va/20220925/index.html), in Kraft seit 25. Sept. 2022. Gewährleistungsbeschluss vom 20. Sept. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)Art. 7, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^131-2]: Angenommen in der [Volksabstimmung vom 25. Sept. 2022](http://www.admin.ch/ch/d/pore/va/20220925/index.html), in Kraft seit 25. Sept. 2022. Gewährleistungsbeschluss vom 20. Sept. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)Art. 7, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^131-3]: Angenommen in der [Volksabstimmung vom 30. Nov. 2008](http://www.admin.ch/ch/d/pore/va/20081130/index.html), in Kraft seit 30. Nov. 2008. Gewährleistungsbeschluss vom 10. Dez. 2009 ([BBl 2009 9137](https://fedlex.data.admin.ch/eli/fga/2009/1541)Art. 1 Ziff. 3 5965).
+[^131-4]: Angenommen in der [Volksabstimmung vom 25. Sept. 2022](http://www.admin.ch/ch/d/pore/va/20220925/index.html), in Kraft seit 25. Sept. 2022. Gewährleistungsbeschluss vom 20. Sept. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)Art. 7, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### Organisation und Autonomie
 
@@ -1377,7 +1402,9 @@ Das Kantonsgericht ist die oberste Gerichtsbehörde des Kantons.
 
 <sup>1</sup> Das Kantonsgericht ist organisatorisch, administrativ und finanziell im Rahmen des vom Grossen Rat verabschiedeten Voranschlags selbstständig.
 
-<sup>2</sup> Es unterbreitet dem Grossen Rat, durch Vermittlung des Staatsrates, jedes Jahr den Voranschlag, den Geschäftsbericht und die Rechnung.
+<sup>2</sup> Es unterbreitet dem Grossen Rat, durch Vermittlung des Staatsrates, jedes Jahr den Voranschlag und die Rechnung.[^132-1]
+
+[^132-1]: Angenommen in der [Volksabstimmung vom 25. Sept. 2022](http://www.admin.ch/ch/d/pore/va/20220925/index.html), in Kraft seit 25. Sept. 2022. Gewährleistungsbeschluss vom 20. Sept. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)Art. 7, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### Befugnisse
 
@@ -1403,11 +1430,11 @@ Als Verwaltungsbehörde hat das Kantonsgericht:
 
 Die Richter des Kantonsgerichts können in den Urteilen und Entscheiden Minderheitsmeinungen äussern.
 
-### Oberaufsicht
-
 #### Art. 135
 
-Abgesehen von der Unabhängigkeit der Rechtsprechung untersteht das Kantonsgericht der Oberaufsicht des Grossen Rates.
+[^135-1]
+
+[^135-1]: Aufgehoben in der [Volksabstimmung vom 25. Sept. 2022](http://www.admin.ch/ch/d/pore/va/20220925/index.html), mit Wirkung seit 25. Sept. 2022. Gewährleistungsbeschluss vom 20. Sept. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)Art. 7, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### III. Abschnitt: Verfassungsgericht
 
@@ -1424,6 +1451,52 @@ Es:
 - c. entscheidet über Zuständigkeitskonflikte unter Behörden.
 
 <sup>3</sup> Seine Entscheide werden veröffentlicht.
+
+### IV. Abschnitt: Staatsanwaltschaft
+
+[^titV-chapIV-secIV-1]
+
+[^titV-chapIV-secIV-1]: Angenommen in der [Volksabstimmung vom 25. Sept. 2022](http://www.admin.ch/ch/d/pore/va/20220925/index.html), in Kraft seit 25. Sept. 2022. Gewährleistungsbeschluss vom 20. Sept. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)Art. 7, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+
+### Befugnisse
+
+#### Art. 136a
+
+<sup>1</sup> Die Staatsanwaltschaft führt die Strafuntersuchung und erhebt Anklage.
+
+<sup>2</sup> In der Ausübung ihrer gesetzlichen Pflichten ist sie unabhängig.
+
+### Organisation und Autonomie
+
+#### Art. 136b
+
+<sup>1</sup> Die Staatsanwaltschaft ist organisatorisch, administrativ und finanziell im Rahmen des vom Grossen Rat verabschiedeten Voranschlags selbstständig.
+
+<sup>2</sup> Sie unterbreitet dem Grossen Rat, durch Vermittlung des Staatsrates, jedes Jahr den Voranschlag und die Rechnung.
+
+### Wahl des Generalstaatsanwalts und der Generalstaatsanwaltstellvertreter
+
+#### Art. 136c
+
+Auf die Wahl des Generalstaatsanwalts und der Generalstaatsanwaltstellvertreter ist Artikel 131 sinngemäss anwendbar
+
+### V. Abschnitt: Justizrat
+
+[^titV-chapIV-secV-1]
+
+[^titV-chapIV-secV-1]: Angenommen in der [Volksabstimmung vom 25. Sept. 2022](http://www.admin.ch/ch/d/pore/va/20220925/index.html), in Kraft seit 25. Sept. 2022. Gewährleistungsbeschluss vom 20. Sept. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)Art. 7, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+
+### Justizrat
+
+#### Art. 136d
+
+<sup>1</sup> Der Justizrat nimmt die Aufsicht über das Kantonsgericht und die Staatsanwaltschaft sowie über ihre Amtsträger wahr, unter Beachtung ihrer justiziellen Unabhängigkeit und ihrer Selbstständigkeit.
+
+<sup>2</sup> Er erstattet dem Grossen Rat Bericht über seine Tätigkeit.
+
+<sup>3</sup> Im Übrigen legt das Gesetz dessen Zusammensetzung, Organisation und Befugnisse fest.
+
+<sup>4</sup> Das Gesetz kann Funktionen des Justizrats auf eine interkantonale Instanz übertragen.
 
 ## VI. Titel: Gemeinden und Bezirke
 
@@ -1910,7 +1983,7 @@ Innerhalb von zehn Jahren ab Inkrafttreten dieser Verfassung beantragt der Staat
 
 Bis zum Inkrafttreten des neuen Finanzgesetzes bleibt Artikel 48 Absätze 2–4 der Verfassung vom 1. März 1885 in Kraft.
 
-### 7. ...
+### 7.…
 
 [^179-subdivu8-1]
 
@@ -1923,6 +1996,16 @@ Stellung und Rechte der öffentlichen Kassen mit Kultusverpflichtungen der evang
 ### Zu Art. 81 der Verfassung vom 1. März 1885
 
 Die auf Artikel 81 der Verfassung vom 1. März 1885 beruhenden Gewohnheitsrechte der Bürgergemeinden bleiben, der Schiedsgerichtsbarkeit des Staatsrates unterstellt, vorbehalten. Die von der Aufhebung dieses Artikels betroffenen Personen werden durch amtliche Mitteilung benachrichtigt.
+
+### Übergangsbestimmung zur Teilrevision vom 25. September 2022
+
+#### Art. 179a
+
+[^179a-1]
+
+Die Amtszeit der Kantonsrichter sowie diejenige des Generalstaatsanwalts wird bis zum 31. Dezember 2024 verlängert.
+
+[^179a-1]: Angenommen in der [Volksabstimmung vom 25. Sept. 2022](http://www.admin.ch/ch/d/pore/va/20220925/index.html), in Kraft seit 25. Sept. 2022. Gewährleistungsbeschluss vom 20. Sept. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)Art. 7, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### Initiativen und Referenden
 
@@ -1952,7 +2035,7 @@ Amt, öffentliches
   - – Gemeindeexekutive, Gemeindepräsident / -präsidentin 148, 151<sup>5</sup>
   - – Generalrat, Gemeinderat 144, 151<sup>5</sup>
   - – Grosser Rat 92
-  - – Kantons-, Sozialversicherungs- und Verwaltungsgericht 131
+  - – Kantons-, Sozialversicherungs- und Verwaltungsgericht 131, 179*a*
   - – Staatsrat 113
 
 - – Unvereinbarkeiten 90
@@ -1989,7 +2072,8 @@ Behörden
   - – Gerichtsbehörden 126–136
   - – Grosser Rat 91–111
   - – Grundsätze 89, 90
-  - – Staatsanwaltschaft 125a
+  - – Justizrat 106<sup>1f</sup>, 107<sup>1</sup>, 129*a*<sup>2</sup>, 131, 136*d*–136*c*
+  - – Staatsanwaltschaft 106<sup>1e</sup>, 107<sup>1</sup>, 126–130, 136*a*–136*c*, 179*a*
   - – Staatsrat 112–125
 
 - – Gemeindebehörden 137–150
@@ -2151,6 +2235,7 @@ Grosser Rat
 - – Unvereinbarkeiten 90
 - – Wählbarkeit 75
 - – Wahl des Rechnungshofs 166<sup>3</sup>
+- – Wahlen 106
 
 Handelsbetriebe und Gewerbe
 
@@ -2184,6 +2269,10 @@ Initiative
 
   - – Gesetzgebung 78
   - – Gültigkeit 80
+
+Justizrat 106<sup>1f</sup>, 107<sup>1</sup>, 129*a*<sup>2</sup>, 131, 136*d*–136*c*
+
+- – Unvereinbarkeiten 90
 
 Kanton
 
@@ -2235,11 +2324,13 @@ Oberaufsicht
   - – Gemeindeexekutive 146
 
 - – durch den Grossen Rat
-  - – Kantonsverwaltung 105<sup>3</sup>, 107
-  - – Gerichtskörper 107
+  - – Gerichtskörper und Staatsanwaltschaft 107, 129*a*
   - – Gewaltenteilung 89
+  - – Justizrat 107
+  - – Kantonsverwaltung 105<sup>3</sup>, 107
 
-- – durch den Staats
+- – durch den Justizrat 136*d*
+- – durch den Staat
   - – Gemeinden 140
 
 - – durch den Staatsrat
@@ -2248,6 +2339,10 @@ Oberaufsicht
 Öffentlichkeit
 
 - – der Sitzungen des Grossen Rats 96
+
+Ombudsperson 43, 106<sup>1d</sup>
+
+- – Unvereinbarkeiten 90
 
 Passivrauchen, Schutz vor 65*a*
 
@@ -2268,6 +2363,7 @@ Rechnungshof
 
 - – Funktion und Aufgaben 166<sup>2</sup>
 - – Wahl der Mitglieder 106<sup>1c</sup>, 166<sup>3</sup>
+- – Unvereinbarkeiten 90
 
 Rechte
 
@@ -2394,7 +2490,9 @@ Staat
   - – Grundsatz 167
   - – Mittel zur Zielerreichung 119
 
-Staatsanwaltschaft 125*a,* 106<sup>1e</sup>
+Staatsanwaltschaft 106<sup>1e</sup>, 107<sup>1</sup>, 126–130, 136*a*–136*c*, 179*a*
+
+- – Unvereinbarkeiten 90
 
 Staatsrat
 
