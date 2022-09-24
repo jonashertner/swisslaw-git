@@ -4,7 +4,7 @@ number: "101.01"
 title: CONSTITUTION du 14.04.2003 du Canton de Vaud (Cst-VD)
 short: Cst-VD
 language: fr
-version: 2013-06-09
+version: 2022-09-25
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/101.01?id=f79b6681-185b-42a1-946d-55fb19430277"
 ---
 
@@ -773,10 +773,10 @@ d. soutiennent les institutions publiques et privées actives dans la préventio
 
 <sup>1</sup> Font partie du corps électoral cantonal les Suissesses et les Suisses domiciliés dans le canton qui sont âgés de dix-huit ans révolus et ne sont pas protégés par une curatelle de portée générale ou un mandat pour cause d'inaptitude, en raison d'une incapacité durable de discernement.
 
-<sup>2</sup> La loi[^74-1] prévoit une procédure simple permettant à la personnes visée par l'alinéa 1er in fine d'obtenir, en prouvant qu'elle est capable de discernement, son intégration ou sa réintégration dans le corps électoral.
+<sup>2</sup> La loi[^74-1] prévoit une procédure simple permettant à la personne visée par l'alinéa 1er in fine d'obtenir, en prouvant qu'elle est capable de discernement, son intégration ou sa réintégration dans le corps électoral.
 
 [^chapterChapitreI-1]: Modif. 10 du 29.05.2012: Modification Art. 74; entrée en vigueur au 25.11.2012 · Modif. 17 du 10.06.2025: Modification Al. 1; entrée en vigueur au 30.11.2025; Introduction Al. 1, a-b; entrée en vigueur au 30.11.2025; Introduction Art. 75, Al. 2; entrée en vigueur au 30.11.2025
-[^74-1]: Loi du 16.05.1989 sur l'exercice des droits politiques ([BLV 160.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/160.01?id=44f134d8-94c3-4ae6-8902-ad85c6ff0f81))
+[^74-1]: Loi du 05.10.2021 sur l'exercice des droits politiques ([BLV 160.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/160.01?id=a55eea67-87d6-4dd7-8ebe-54cc175d7b3b))
 
 #### Art. 75
 
@@ -794,7 +794,7 @@ d. soutiennent les institutions publiques et privées actives dans la préventio
 
 <sup>2</sup> Elle prévoit que les votes blancs, qui font l'objet d'un décompte distinct dans les élections et votations, sont pris en compte dans le calcul de la majorité absolue pour les élections au système majoritaire.
 
-[^76-1]: Loi du 16.05.1989 sur l'exercice des droits politiques ([BLV 160.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/160.01?id=44f134d8-94c3-4ae6-8902-ad85c6ff0f81))
+[^76-1]: Loi du 05.10.2021 sur l'exercice des droits politiques ([BLV 160.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/160.01?id=a55eea67-87d6-4dd7-8ebe-54cc175d7b3b))
 
 ### Chapitre II Elections
 
@@ -852,7 +852,7 @@ d. soutiennent les institutions publiques et privées actives dans la préventio
 
 <sup>2</sup> Les articles 173 et 174 sur la révision de la Constitution sont réservés.
 
-[^81-1]: Loi du 16.05.1989 sur l'exercice des droits politiques ([BLV 160.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/160.01?id=44f134d8-94c3-4ae6-8902-ad85c6ff0f81))
+[^81-1]: Loi du 05.10.2021 sur l'exercice des droits politiques ([BLV 160.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/160.01?id=a55eea67-87d6-4dd7-8ebe-54cc175d7b3b))
 
 #### Art. 82
 
@@ -898,7 +898,7 @@ d. soutiennent les institutions publiques et privées actives dans la préventio
 <sup>3</sup> La demande de référendum aboutit si elle a recueilli 12'000 signatures dans un délai de 60 jours dès la publication de l'acte. La loi[^84-1] prolonge ce délai pour tenir compte de la difficulté de récolte de signatures à certaines périodes de l'année.
 
 [^83-1]: Modif. 11 du 05.02.2013: Modification Al. 3; entrée en vigueur au 09.06.2013
-[^84-1]: Loi du 16.05.1989 sur l'exercice des droits politiques ([BLV 160.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/160.01?id=44f134d8-94c3-4ae6-8902-ad85c6ff0f81))
+[^84-1]: Loi du 05.10.2021 sur l'exercice des droits politiques ([BLV 160.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/160.01?id=a55eea67-87d6-4dd7-8ebe-54cc175d7b3b))
 
 ### Chapitre IV Participation à la vie publique
 
@@ -954,7 +954,7 @@ d. soutiennent les institutions publiques et privées actives dans la préventio
 
 **Incompatibilités [^89-1]**
 
-<sup>1</sup> Les fonctions de membres du Grand Conseil, du Conseil d'Etat, d'une autorité judiciaire et de la Cour des comptes ainsi que celle de médiatrice ou médiateur sont incompatibles. La loi peut prévoir des exceptions pour les membres non permanents d'une autorité judiciaire.
+<sup>1</sup> Les fonctions de membres du Grand Conseil, du Conseil d'Etat, d'une autorité judiciaire, du Ministère public et de la Cour des comptes ainsi que celle de médiatrice ou médiateur sont incompatibles. La loi peut prévoir des exceptions pour les membres non permanents d'une autorité judiciaire.
 
 <sup>2</sup> Les membres du Conseil d'Etat ne peuvent exercer aucune autre fonction officielle ou privée lucrative, ni siéger aux Chambres fédérales. Les fonctions exercées au titre d'une délégation sont réservées.
 
@@ -964,7 +964,7 @@ d. soutiennent les institutions publiques et privées actives dans la préventio
 
 <sup>5</sup> La loi peut prévoir d'autres incompatibilités.
 
-[^89-1]: Modif. 13 du 24.05.2022: Modification Al. 1; entrée en vigueur au 25.09.2022; Introduction Art. 106, Al. 1, f; entrée en vigueur au 25.09.2022; Introduction Art. 129a; entrée en vigueur au 25.09.2022; Introduction Art. 131, Al. 5; entrée en vigueur au 25.09.2022; Introduction Art. 136a; entrée en vigueur au 25.09.2022; Introduction Art. 136b; entrée en vigueur au 25.09.2022; Introduction Art. 136c; entrée en vigueur au 25.09.2022; Introduction Art. 136d; entrée en vigueur au 25.09.2022; Introduction Art. 179a; entrée en vigueur au 25.09.2022
+[^89-1]: Modif. 13 du 24.05.2022: Modification Al. 1; entrée en vigueur au 25.09.2022
 
 ### Chapitre II Grand Conseil
 
@@ -1112,23 +1112,24 @@ d. soutiennent les institutions publiques et privées actives dans la préventio
 - b. les juges du Tribunal cantonal ;
 - c. les membres de la Cour des comptes ;
 - d. la médiatrice ou le médiateur administratif ;
-- e. le procureur général.
+- e. le procureur général et les procureurs généraux adjoints ;
+- f. les membres du Conseil de la magistrature.
 
 <sup>2</sup> Il désigne les membres de la commission de présentation judiciaire prévue aux articles 131 et 166.
 
-[^105-1]: Modif. 7 du 30.06.2009: Introduction Al. 1 e; entrée en vigueur au 27.09.2009 · Modif. 13 du 24.05.2022: Modification Al. 1, e; entrée en vigueur au 25.09.2022; Introduction Al. 1, f; entrée en vigueur au 25.09.2022; Introduction Art. 129a; entrée en vigueur au 25.09.2022; Introduction Art. 131, Al. 5; entrée en vigueur au 25.09.2022; Introduction Art. 136a; entrée en vigueur au 25.09.2022; Introduction Art. 136b; entrée en vigueur au 25.09.2022; Introduction Art. 136c; entrée en vigueur au 25.09.2022; Introduction Art. 136d; entrée en vigueur au 25.09.2022; Introduction Art. 179a; entrée en vigueur au 25.09.2022
+[^105-1]: Modif. 7 du 30.06.2009: Introduction Al. 1 e; entrée en vigueur au 27.09.2009 · Modif. 13 du 24.05.2022: Modification Al. 1, e; entrée en vigueur au 25.09.2022; Introduction Al. 1, f; entrée en vigueur au 25.09.2022
 
 #### Art. 107
 
 **Haute surveillance [^106-1]**
 
-<sup>1</sup> Le Grand Conseil exerce la haute surveillance sur l'activité du Conseil d'Etat, ainsi que sur la gestion du Tribunal cantonal. L'indépendance des jugements est réservée.
+<sup>1</sup> Le Grand Conseil exerce la haute surveillance sur l'activité du Conseil d'Etat, sur celle du Conseil de la magistrature, ainsi qu'au travers de ce dernier, sur la gestion du Tribunal cantonal et du Ministère public. L'indépendance des jugements est réservée.
 
 <sup>2</sup> Il se prononce annuellement sur la gestion de l'Etat.
 
 <sup>3</sup> Il peut décider à tout moment d'enquêter sur un point particulier de l'activité du Conseil d'Etat.
 
-[^106-1]: Modif. 13 du 24.05.2022: Introduction Art. 106, Al. 1, f; entrée en vigueur au 25.09.2022; Modification Al. 1; entrée en vigueur au 25.09.2022; Introduction Art. 129a; entrée en vigueur au 25.09.2022; Introduction Art. 131, Al. 5; entrée en vigueur au 25.09.2022; Introduction Art. 136a; entrée en vigueur au 25.09.2022; Introduction Art. 136b; entrée en vigueur au 25.09.2022; Introduction Art. 136c; entrée en vigueur au 25.09.2022; Introduction Art. 136d; entrée en vigueur au 25.09.2022; Introduction Art. 179a; entrée en vigueur au 25.09.2022
+[^106-1]: Modif. 13 du 24.05.2022: Modification Al. 1; entrée en vigueur au 25.09.2022
 
 #### Art. 108
 
@@ -1295,29 +1296,28 @@ d. soutiennent les institutions publiques et privées actives dans la préventio
 
 [^125-1]: Modif. 7 du 30.06.2009: Introduction ; entrée en vigueur au 27.09.2009 · Modif. 13 du 24.05.2022: Abrogation ; entrée en vigueur au 25.09.2022
 
-### Section V Ministère public
+### Section V ...
 
 [^125-1]
 
 #### Art. 125a
 
-**Ministère public [^sectionSectionV-1]**
+**... [^sectionSectionV-1]**
 
-<sup>1</sup> Le Ministère public est l'autorité chargée de mener l'instruction pénale et de soutenir l'accusation.
+<sup>1</sup> ...
 
-<sup>2</sup> Il jouit d'une totale indépendance dans l'exercice de ses tâches légales.
+<sup>2</sup> ...
 
-<sup>3</sup> Il est rattaché administrativement au Conseil d'Etat.
+<sup>3</sup> ...
 
-<sup>4</sup> La loi[^125a-1] régit son organisation, son fonctionnement et ses compétences.
+<sup>4</sup> ...
 
-[^sectionSectionV-1]: Modif. 7 du 30.06.2009: Introduction Art. 125a; entrée en vigueur au 27.09.2009 · Modif. 13 du 24.05.2022: Introduction Art. 106, Al. 1, f; entrée en vigueur au 25.09.2022; Abrogation tArt; entrée en vigueur au 25.09.2022; Abrogation Al. 1-4; entrée en vigueur au 25.09.2022; Introduction Art. 129a; entrée en vigueur au 25.09.2022; Introduction Art. 131, Al. 5; entrée en vigueur au 25.09.2022; Introduction Art. 136a; entrée en vigueur au 25.09.2022; Introduction Art. 136b; entrée en vigueur au 25.09.2022; Introduction Art. 136c; entrée en vigueur au 25.09.2022; Introduction Art. 136d; entrée en vigueur au 25.09.2022; Introduction Art. 179a; entrée en vigueur au 25.09.2022
-[^125a-1]: Loi du 19.05.2009 sur le Ministère public ( [BLV 173.21](https://prestations.vd.ch/pub/blv-publication/actes/consolide/173.21?id=59558d17-e7c0-4013-ada9-cbbc5a28b5f5))
-[^125a-2]: Modif. 13 du 24.05.2022: Modification ; entrée en vigueur au 25.09.2022
+[^sectionSectionV-1]: Modif. 7 du 30.06.2009: Introduction Art. 125a; entrée en vigueur au 27.09.2009 · Modif. 13 du 24.05.2022: Abrogation tArt; entrée en vigueur au 25.09.2022; Abrogation Al. 1-4; entrée en vigueur au 25.09.2022
+[^125a-1]: Modif. 13 du 24.05.2022: Modification ; entrée en vigueur au 25.09.2022
 
-### Chapitre IV Tribunaux
+### Chapitre IV Tribunaux et Ministère public
 
-[^125a-2]
+[^125a-1]
 
 ### Section I Principes généraux
 
@@ -1325,32 +1325,31 @@ d. soutiennent les institutions publiques et privées actives dans la préventio
 
 **Indépendance et impartialité [^sectionSectionI-1]**
 
-<sup>1</sup> L'indépendance des tribunaux est garantie.
+<sup>1</sup> L'indépendance des tribunaux et du Ministère public est garantie.
 
-<sup>2</sup> Les juges exercent les fonctions judiciaires d'une manière indépendante et impartiale.
+<sup>2</sup> Les juges et les magistrats du Ministère public exercent les fonctions judiciaires d'une manière indépendante et impartiale.
 
 <sup>3</sup> Ils ne peuvent pas exercer, en sus de leur fonction judiciaire, une activité de nature à gêner leur indépendance ou à créer une apparence de partialité. Les règles relatives à la composition des tribunaux paritaires sont réservées.
 
-[^sectionSectionI-1]: Modif. 13 du 24.05.2022: Introduction Art. 106, Al. 1, f; entrée en vigueur au 25.09.2022; Modification Al. 1-2; entrée en vigueur au 25.09.2022; Introduction Art. 129a; entrée en vigueur au 25.09.2022; Introduction Art. 131, Al. 5; entrée en vigueur au 25.09.2022; Introduction Art. 136a; entrée en vigueur au 25.09.2022; Introduction Art. 136b; entrée en vigueur au 25.09.2022; Introduction Art. 136c; entrée en vigueur au 25.09.2022; Introduction Art. 136d; entrée en vigueur au 25.09.2022; Introduction Art. 179a; entrée en vigueur au 25.09.2022
+[^sectionSectionI-1]: Modif. 13 du 24.05.2022: Modification Al. 1-2; entrée en vigueur au 25.09.2022
 
 #### Art. 127
 
-**Organisation judiciaire, interdiction des tribunaux d'exception [^126-1]**
+**Organisation judiciaire, interdiction des juridictions d'exception [^126-1]**
 
-<sup>1</sup> La loi[^127-1] détermine le nombre, l'organisation et les compétences des tribunaux.
+<sup>1</sup> La loi détermine le nombre, l'organisation et les compétences des tribunaux et du Ministère public.
 
-<sup>2</sup> Il ne peut être instauré de tribunaux d'exception, sous quelque dénomination que ce soit.
+<sup>2</sup> Il ne peut être instauré de juridictions d'exception, sous quelque dénomination que ce soit.
 
-[^126-1]: Modif. 13 du 24.05.2022: Introduction Art. 106, Al. 1, f; entrée en vigueur au 25.09.2022; Modification tArt; entrée en vigueur au 25.09.2022; Modification Al. 1-2; entrée en vigueur au 25.09.2022; Introduction Art. 129a; entrée en vigueur au 25.09.2022; Introduction Art. 131, Al. 5; entrée en vigueur au 25.09.2022; Introduction Art. 136a; entrée en vigueur au 25.09.2022; Introduction Art. 136b; entrée en vigueur au 25.09.2022; Introduction Art. 136c; entrée en vigueur au 25.09.2022; Introduction Art. 136d; entrée en vigueur au 25.09.2022; Introduction Art. 179a; entrée en vigueur au 25.09.2022
-[^127-1]: Loi du 12.12.1979 d'organisation judiciaire ([BLV 173.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/173.01?id=7d019c5e-73a0-4d1f-aec6-f5ae04647e72))
+[^126-1]: Modif. 13 du 24.05.2022: Modification tArt; entrée en vigueur au 25.09.2022; Modification Al. 1-2; entrée en vigueur au 25.09.2022
 
 #### Art. 128
 
-**Célérité et qualité de la justice [^127-2]**
+**Célérité et qualité de la justice [^127-1]**
 
-<sup>1</sup> Le Grand Conseil accorde aux autorités judiciaires des moyens suffisants pour garantir la célérité et la qualité de la justice.
+<sup>1</sup> Le Grand Conseil accorde aux autorités judiciaires et au Ministère public des moyens suffisants pour garantir la célérité et la qualité de la justice.
 
-[^127-2]: Modif. 13 du 24.05.2022: Introduction Art. 106, Al. 1, f; entrée en vigueur au 25.09.2022; Modification Al. 1; entrée en vigueur au 25.09.2022; Introduction Art. 129a; entrée en vigueur au 25.09.2022; Introduction Art. 131, Al. 5; entrée en vigueur au 25.09.2022; Introduction Art. 136a; entrée en vigueur au 25.09.2022; Introduction Art. 136b; entrée en vigueur au 25.09.2022; Introduction Art. 136c; entrée en vigueur au 25.09.2022; Introduction Art. 136d; entrée en vigueur au 25.09.2022; Introduction Art. 179a; entrée en vigueur au 25.09.2022
+[^127-1]: Modif. 13 du 24.05.2022: Modification Al. 1; entrée en vigueur au 25.09.2022
 
 #### Art. 129
 
@@ -1359,6 +1358,16 @@ d. soutiennent les institutions publiques et privées actives dans la préventio
 <sup>1</sup> Toute décision judiciaire en matière civile ou pénale peut être portée devant une seconde instance au niveau cantonal.
 
 <sup>2</sup> La loi veille à ce qu'il n'y ait pas plus de deux instances judiciaires cantonales à trancher le fond des litiges.
+
+#### Art. 129a
+
+**Haute surveillance [^129-1]**
+
+<sup>1</sup> Sauf l'indépendance juridictionnelle, le Tribunal cantonal et le Ministère Public sont placés sous la haute surveillance du Grand Conseil.
+
+<sup>2</sup> La Haute surveillance s'exerce au travers du Conseil de la magistrature.
+
+[^129-1]: Modif. 13 du 24.05.2022: Introduction tArt; entrée en vigueur au 25.09.2022; Introduction Al. 1-2; entrée en vigueur au 25.09.2022; Introduction Art. 129a; entrée en vigueur au 25.09.2022
 
 ### Section II Tribunal Cantonal
 
@@ -1372,15 +1381,17 @@ d. soutiennent les institutions publiques et privées actives dans la préventio
 
 **Composition, élection des juges [^130-1]**
 
-<sup>1</sup> Les juges et les juges suppléants du Tribunal cantonal sont élus par le Grand Conseil pour une durée de cinq ans à compter du 1er janvier de l'année qui suit le renouvellement du Grand Conseil, sur préavis d'une commission de présentation.
+<sup>1</sup> Les juges et les juges suppléants du Tribunal cantonal sont élus par le Grand Conseil, sur préavis du Conseil de la magistrature et d'une commission de présentation.
 
-<sup>2</sup> Cette commission est désignée par le Grand Conseil. Elle est composée de députés et d'experts indépendants.
+<sup>2</sup> Cette commission est désignée par le Grand Conseil. Elle est composée de députés.
 
 <sup>3</sup> Le choix des candidats au Tribunal cantonal se fonde essentiellement sur leur formation juridique et leur expérience. Le Grand Conseil veille en outre à une représentation équitable des différentes sensibilités politiques.
 
 <sup>4</sup> La loi régit la désignation des juges assesseurs de la Cour de droit administratif et public et de la Cour des assurances sociales du Tribunal cantonal.
 
-[^130-1]: Modif. 1 du 27.11.2005: Modification Al. 1,4; entrée en vigueur au 27.11.2005 · Modif. 3 du 06.05.2008: Modification Al. 4; entrée en vigueur au 30.11.2008 · Modif. 13 du 24.05.2022: Introduction Art. 106, Al. 1, f; entrée en vigueur au 25.09.2022; Introduction Art. 129a; entrée en vigueur au 25.09.2022; Modification Al. 1-2; entrée en vigueur au 25.09.2022; Introduction Al. 5; entrée en vigueur au 25.09.2022; Introduction Art. 136a; entrée en vigueur au 25.09.2022; Introduction Art. 136b; entrée en vigueur au 25.09.2022; Introduction Art. 136c; entrée en vigueur au 25.09.2022; Introduction Art. 136d; entrée en vigueur au 25.09.2022; Introduction Art. 179a; entrée en vigueur au 25.09.2022
+<sup>5</sup> Les juges et juges suppléants du Tribunal cantonal sont élus pour une durée de cinq ans qui débute le 1er janvier de la troisième année suivant celle du renouvellement du Grand Conseil.
+
+[^130-1]: Modif. 1 du 27.11.2005: Modification Al. 1,4; entrée en vigueur au 27.11.2005 · Modif. 3 du 06.05.2008: Modification Al. 4; entrée en vigueur au 30.11.2008 · Modif. 13 du 24.05.2022: Modification Al. 1-2; entrée en vigueur au 25.09.2022; Introduction Al. 5; entrée en vigueur au 25.09.2022
 
 #### Art. 132
 
@@ -1388,9 +1399,9 @@ d. soutiennent les institutions publiques et privées actives dans la préventio
 
 <sup>1</sup> Le Tribunal cantonal est autonome en matière d'organisation, d'administration et de finances dans le cadre du budget adopté par le Grand Conseil.
 
-<sup>2</sup> Chaque année, il soumet son budget, sa gestion et ses comptes au Grand Conseil, par l'intermédiaire du Conseil d'Etat.
+<sup>2</sup> Chaque année, il soumet son budget et ses comptes au Grand Conseil, par l'intermédiaire du Conseil d'Etat.
 
-[^131-1]: Modif. 13 du 24.05.2022: Introduction Art. 106, Al. 1, f; entrée en vigueur au 25.09.2022; Introduction Art. 129a; entrée en vigueur au 25.09.2022; Introduction Art. 131, Al. 5; entrée en vigueur au 25.09.2022; Modification Al. 2; entrée en vigueur au 25.09.2022; Introduction Art. 136a; entrée en vigueur au 25.09.2022; Introduction Art. 136b; entrée en vigueur au 25.09.2022; Introduction Art. 136c; entrée en vigueur au 25.09.2022; Introduction Art. 136d; entrée en vigueur au 25.09.2022; Introduction Art. 179a; entrée en vigueur au 25.09.2022
+[^131-1]: Modif. 13 du 24.05.2022: Modification Al. 2; entrée en vigueur au 25.09.2022
 
 #### Art. 133
 
@@ -1414,11 +1425,11 @@ d. soutiennent les institutions publiques et privées actives dans la préventio
 
 #### Art. 135
 
-**Haute surveillance [^134-1]**
+**... [^134-1]**
 
-<sup>1</sup> Sauf l'indépendance des jugements, le Tribunal cantonal est placé sous la haute surveillance du Grand Conseil.
+<sup>1</sup> ...
 
-[^134-1]: Modif. 13 du 24.05.2022: Introduction Art. 106, Al. 1, f; entrée en vigueur au 25.09.2022; Introduction Art. 129a; entrée en vigueur au 25.09.2022; Introduction Art. 131, Al. 5; entrée en vigueur au 25.09.2022; Abrogation tArt; entrée en vigueur au 25.09.2022; Abrogation Al. 1; entrée en vigueur au 25.09.2022; Introduction Art. 136a; entrée en vigueur au 25.09.2022; Introduction Art. 136b; entrée en vigueur au 25.09.2022; Introduction Art. 136c; entrée en vigueur au 25.09.2022; Introduction Art. 136d; entrée en vigueur au 25.09.2022; Introduction Art. 179a; entrée en vigueur au 25.09.2022
+[^134-1]: Modif. 13 du 24.05.2022: Abrogation tArt; entrée en vigueur au 25.09.2022; Abrogation Al. 1; entrée en vigueur au 25.09.2022
 
 ### Section III Cour constitutionnelle
 
@@ -1433,6 +1444,59 @@ d. soutiennent les institutions publiques et privées actives dans la préventio
 - c. tranche les conflits de compétence entre autorités.
 
 <sup>3</sup> Ses décisions sont publiées.
+
+[^136-1]: Modif. 13 du 24.05.2022: Introduction ; entrée en vigueur au 25.09.2022
+
+### Section IV Ministère public
+
+[^136-1]
+
+#### Art. 136a
+
+**Compétences [^sectionSectionIV-1]**
+
+<sup>1</sup> Le Ministère public est l'autorité chargée de mener l'instruction pénale et de soutenir l'accusation.
+
+<sup>2</sup> Il jouit d'une totale indépendance dans l'exercice de ses tâches légales.
+
+[^sectionSectionIV-1]: Modif. 13 du 24.05.2022: Introduction tArt; entrée en vigueur au 25.09.2022; Introduction Al. 1-2; entrée en vigueur au 25.09.2022; Introduction Art. 136a; entrée en vigueur au 25.09.2022
+
+#### Art. 136b
+
+**Organisation et autonomie [^136a-1]**
+
+<sup>1</sup> Le Ministère public est autonome en matière d'organisation, d'administration et de finances dans le cadre du budget adopté par le Grand Conseil.
+
+<sup>2</sup> Chaque année, il soumet son budget et ses comptes au Grand Conseil, par l'intermédiaire du Conseil d'Etat.
+
+[^136a-1]: Modif. 13 du 24.05.2022: Introduction Art. 136b; entrée en vigueur au 25.09.2022
+
+#### Art. 136c
+
+**Élection du Procureur général et des procureurs généraux adjoints [^136b-1]**
+
+<sup>1</sup> L'article 131 s'applique par analogie à l'élection du Procureur général et des procureurs généraux adjoints.
+
+[^136b-1]: Modif. 13 du 24.05.2022: Introduction Art. 136c; entrée en vigueur au 25.09.2022
+[^136c-1]: Modif. 13 du 24.05.2022: Introduction ; entrée en vigueur au 25.09.2022
+
+### Section V Conseil de la magistrature
+
+[^136c-1]
+
+#### Art. 136d
+
+**Conseil de la magistrature [^sectionSectionV-2]**
+
+<sup>1</sup> Le Conseil de la magistrature assure la surveillance du Tribunal cantonal et du Ministère public ainsi que de leurs magistrats, dans le respect de leur indépendance juridictionnelle et de leur autonomie.
+
+<sup>2</sup> Il rapporte au Grand Conseil sur son activité.
+
+<sup>3</sup> Pour le surplus, la loi fixe sa composition, son organisation et ses compétences.
+
+<sup>4</sup> La loi peut confier des fonctions du Conseil de la magistrature à une instance intercantonale.
+
+[^sectionSectionV-2]: Modif. 13 du 24.05.2022: Introduction Art. 136d; entrée en vigueur au 25.09.2022
 
 ## Titre VI Communes et districts
 
@@ -1505,7 +1569,7 @@ d. soutiennent les institutions publiques et privées actives dans la préventio
 <sup>3</sup> La loi [^142-1] précise les modalités de l'exercice de ces droits. Les articles 74, alinéa 2 et 76, alinéa 2 s'appliquent.
 
 [^141-2]: Modif. 10 du 29.05.2012: Modification Al. 1; entrée en vigueur au 25.11.2012
-[^142-1]: Loi du 16.05.1989 sur l'exercice des droits politiques ([BLV 160.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/160.01?id=44f134d8-94c3-4ae6-8902-ad85c6ff0f81))
+[^142-1]: Loi du 05.10.2021 sur l'exercice des droits politiques ([BLV 160.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/160.01?id=a55eea67-87d6-4dd7-8ebe-54cc175d7b3b))
 
 #### Art. 143
 
@@ -1896,7 +1960,7 @@ d. soutiennent les institutions publiques et privées actives dans la préventio
 <sup>4</sup> Le mandat des juges et des juges suppléants du Tribunal cantonal et du Tribunal administratif est prolongé jusqu'au 31 décembre 2007.
 
 [^177-2]: Modif. 1 du 27.11.2005: Introduction Al. 4; entrée en vigueur au 27.11.2005
-[^178-1]: Loi du 16.05.1989 sur l'exercice des droits politiques ([BLV 160.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/160.01?id=44f134d8-94c3-4ae6-8902-ad85c6ff0f81))
+[^178-1]: Loi du 05.10.2021 sur l'exercice des droits politiques ([BLV 160.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/160.01?id=a55eea67-87d6-4dd7-8ebe-54cc175d7b3b))
 
 #### Art. 179
 
@@ -1925,6 +1989,14 @@ d. soutiennent les institutions publiques et privées actives dans la préventio
 <sup>9</sup> Les droits coutumiers des bourgeoisies, fondées sur l'article 81 de la Constitution du 1er mars 1885, sont réservés, sous l'arbitrage du Conseil d'Etat. Les personnes concernées par l'abrogation de cet article sont informées par publication officielle.
 
 [^178-2]: Modif. 2 du 12.06.2007: Introduction Al. 1 ch.3bis; entrée en vigueur au 21.10.2007 · Modif. 12 du 12.03.2013: Abrogation Al. 7; entrée en vigueur au 09.06.2013
+
+#### Art. 179a
+
+**Disposition transitoire de la révision partielle du 25 septembre 2022 [^179-1]**
+
+<sup>1</sup> La durée de fonction des juges cantonaux ainsi que celle du Procureur général, est prolongée jusqu'au 31 décembre 2024.
+
+[^179-1]: Modif. 13 du 24.05.2022: Introduction tArt; entrée en vigueur au 25.09.2022; Introduction Al. 1; entrée en vigueur au 25.09.2022; Introduction Art. 179a; entrée en vigueur au 25.09.2022
 
 #### Art. 180
 
