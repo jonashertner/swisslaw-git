@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Accordo bilaterale tra la Svizzera e l’Indonesia sulla promozione e la protezione degli investimenti
 document: Progetto posto in consultazione
 language: it

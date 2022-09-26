@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Accord bilatéral entre la Suisse et l’Indonésie concernant la promotion et la protection réciproque des investissements
 document: Projet mis en consultation
 language: fr

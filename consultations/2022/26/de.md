@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Bilaterales Abkommen zwischen der Schweiz und Indonesien über die Förderung und den Schutz von Investitionen
 document: Vernehmlassungsvorlage
 language: de
