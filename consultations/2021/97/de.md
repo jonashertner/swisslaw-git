@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung des Bundesgesetzes über Schuldbetreibung und Konkurs (Sanierungsverfahren für natürliche Personen)
 document: Vernehmlassungsvorlage
 language: de

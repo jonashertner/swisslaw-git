@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification de la loi fédérale sur la poursuite pour dettes et la faillite (Assainissement des dettes des personnes physiques)
 document: Projet mis en consultation
 language: fr

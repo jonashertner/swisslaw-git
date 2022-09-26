@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica della legge federale sulla esecuzione e sul fallimento (Procedura di risanamento per persone fisiche)
 document: Progetto posto in consultazione
 language: it
