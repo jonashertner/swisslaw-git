@@ -1,17 +1,17 @@
 ---
 canton: VD
 number: "170.50"
-title: ARRÊTÉ du 14.09.2022 de mise en vigueur
+title: ARRÊTÉ du 21.09.2022 de mise en vigueur
 language: fr
-version: 2022-09-23
-url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/170.50?id=883ec0cf-d8ab-4bf3-8fec-37b3c4842451"
+version: 2022-09-27
+url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/170.50?id=27963afe-94d6-41e6-9f3f-80df98e77a64"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VD. Seule la publication officielle du canton fait foi.
 
 # ARRÊTÉ de mise en vigueur
 
-du 14 septembre 2022
+du 21 septembre 2022
 
 LE CONSEIL D'ÉTAT DU CANTON DE VAUD
 
@@ -21,14 +21,11 @@ arrête
 
 #### Art. 1
 
-<sup>1</sup> Les décrets ci-après des 14 et 15 juin 2022 publiés dans la "Feuille des avis officiels du Canton de Vaud" du 28 juin 2022, entrent en vigueur le 15 septembre 2022 :
+<sup>1</sup> Les décrets ci-après des 31 mai, 14, 15 et 21 juin 2022, publiés dans la "Feuille des avis officiels du Canton de Vaud" des 28 juin, 1er et 5 juillet 2022, entrent en vigueur avec effet :
 
-- 1\. décret du 14 juin 2022 permettant le déploiement de la prestation de déménagement par voie électronique (BLV 431.021) ;
-- 2\. décret du 14 juin 2022 accordant au Conseil d'Etat un crédit d'ouvrage de CHF38'760'000.- destiné à financer la réalisation du Centre Coordonné de Compétences Cliniques (C4) constituant le premier volet du Campus Santé situé sur le site des "Côtes de la Bourdonnette" à Chavannes-près-Renens (BLV 419.00) ;
-- 3\. décret du 14 juin 2022 accordant au Conseil d'Etat un crédit d'ouvrage de CHF86'700'000.- destiné à financer la réalisation de la Haute École de Santé Vaud (HESAV) constituant le second volet du Campus Santé situé sur le site des "Côtes de la Bourdonnette" à Chavannes-près-Renens (BLV 419.00) ;
-- 4\. décret du 14 juin 2022 accordant au Conseil d'Etat un crédit d'ouvrage de CHF38'250'000.- destiné à financer les équipements du site inscrits au plan partiel d'affectation et nécessaires à la réalisation du Campus Santé (BLV 419.00) ;
-- 5\. décret du 14 juin 2022 accordant au Conseil d'Etat l'autorisation de mettre à disposition de la Fondation Maisons pour étudiants Lausanne un droit de superficie à titre gratuit sur le site du Campus Santé et d'allouer la somme de CHF 1'890'000.- au Fonds pour l'acquisition de droits réels et d'immeubles de réserve pour le remboursement de la part théorique du terrain (BLV 419.00) ;
-- 6\. décret du 15 juin 2022 accordant au Conseil d'Etat un crédit d'études de CHF 570'000.- pour financer les études d'établissement du futur Plan d'affectation (PA) de la "Campagne des Cèdres" à Lausanne, permettant le développement à long terme des infrastructures de la Haute école pédagogique Vaud (HEP) et de la Fondation Maison pour Etudiants Lausanne (FMEL) (BLV 419.10) ;
-- 7\. décret du 15 juin 2022 accordant au Conseil d'Etat un crédit d'investissement de CHF 7'286'000.- destiné à financer les impératifs législatifs et stratégiques et les travaux préparatoires de "Métamorphose 2030" de la Direction générale de la fiscalité (BLV 642.00) ;
-- 8\. décret du 15 juin 2022 accordant au Conseil d'Etat un crédit additionnel de CHF 3'850'000.- au crédit d'investissement de CHF 14'559'000.- accordé par le Grand Conseil le 31.10.2017 pour financer le renouvellement du système d'information du Service de prévoyance et d'aides sociales (SPAS) pour la gestion du Revenu d'insertion (RI) et du Bureau de recouvrement et d'avances sur pensions alimentaires (BRAPA), (BLV 172.60) ;
-- 9\. décret du 15 juin 2022 accordant au Conseil un crédit-cadre de CHF 25'745'000.- destiné à la mise en œuvre des dispositions légales fédérales et cantonales sur l'énergie relatives aux grands consommateurs, pour les bâtiments de la cité hospitalière (du Bugnon), du site de Cery et du Campus Nord (Epalinges), exploités par le Centre hospitalier universitaire vaudois (CHUV) à Lausanne (BLV 810.00).
+- a. au 1er février 2022 :
+- 1\. décret du 14 juin 2022 autorisant l'ouverture d'une formation passerelle complémentaire technique afin de pérenniser le projet-pilote de modules complémentaires techniques (MCT) vers les études HES dans le domaine technique pour les diplômés de l'enseignement général (BLV 419.00).
+- b. au 15 septembre 2022 :
+- 1\. décret du 31 mai 2022 portant adhésion du Canton de Vaud à l'Accord intercantonal du 15 novembre 2019 sur les marchés publics (D-AIMP) (BLV 726.011) ;
+- 2\. décret du 15 juin 2022 relatif à la ratification, par le Canton de Vaud, de la révision du 23 novembre 2018 de la Convention intercantonale relative aux institutions sociales (CIIS) (BLV 850.518) ;
+- 3\. décret du 21 juin 2022 accordant au Conseil d'Etat un crédit additionnel de bouclement de CHF 2'160'920.90 au crédit d'investissement de CHF 5'684'000.- octroyé par décret du 5 octobre 2010 afin de financer l'assainissement énergétique du bâtiment de l'Ecole professionnelle commerciale de Lausanne (EPCL) (BLV 413.00).
