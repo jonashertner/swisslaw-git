@@ -4,11 +4,11 @@ title: WIPO-Urheberrechtsvertrag vom 20. Dezember 1996 (WCT) (mit Erkl.)
 short: WCT
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/358"
 language: de
-version: 2021-09-24
+version: 2022-09-28
 adopted: 1996-12-20
 in_force: 2008-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/358/20210924/de/xml/fedlex-data-admin-ch-eli-cc-2008-358-20210924-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/358/20210924/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/358/20220928/de/xml/fedlex-data-admin-ch-eli-cc-2008-358-20220928-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/358/20220928/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -29,7 +29,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 31. März 2008
 
 In Kraft getreten für die Schweiz am 1. Juli 2008
 
-(Stand am 24. September 2021)
+(Stand am 28. September 2022)
 
 [^t-1]: Art. 1 Abs. 1 Bst. a des BB vom 5. Okt. 2007 ([AS 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357)).
 
@@ -301,7 +301,7 @@ Die Vertragsparteien können sich nicht auf diesen Artikel berufen, um Verwertun
 
 [^t-2]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Anhang 1C
 
-Geltungsbereich am 24. September 2021**[^t-3]**
+Geltungsbereich am 28. September 2022[^t-3]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -326,8 +326,10 @@ Geltungsbereich am 24. September 2021**[^t-3]**
 <tr><td>Burundi</td><td>12. Januar</td><td>2016 B</td><td>12. April</td><td>2016</td></tr>
 <tr><td>Cabo Verde</td><td>22. Februar</td><td>2019 B</td><td>22. Mai</td><td>2019</td></tr>
 <tr><td>Chile</td><td>11. April</td><td>2001</td><td>6. März</td><td>2002</td></tr>
-<tr><td>China <sup>a</sup></td><td>9. März</td><td>2007 B</td><td>9. Juni</td><td>2007</td></tr>
+<tr><td>China</td><td>9. März</td><td>2007 B</td><td>9. Juni</td><td>2007</td></tr>
 <tr><td>Hongkong</td><td>23. September</td><td>2008</td><td>1. Oktober</td><td>2008</td></tr>
+<tr><td>Macau</td><td>6. August</td><td>2013</td><td>6. November</td><td>2013</td></tr>
+<tr><td>Cook-Inseln</td><td>19. März</td><td>2019 B</td><td>19. Juni</td><td>2019</td></tr>
 <tr><td>Costa Rica</td><td>23. Mai</td><td>2000</td><td>6. März</td><td>2002</td></tr>
 <tr><td>Dänemark</td><td>14. Dezember</td><td>2009</td><td>14. März</td><td>2010</td></tr>
 <tr><td>Färöer</td><td>30. Januar</td><td>2018</td><td>30. April</td><td>2018</td></tr>
@@ -404,10 +406,12 @@ Geltungsbereich am 24. September 2021**[^t-3]**
 <tr><td>Spanien</td><td>14. Dezember</td><td>2009</td><td>14. März</td><td>2010</td></tr>
 <tr><td>St. Lucia</td><td>24. November</td><td>1999 B</td><td>6. März</td><td>2002</td></tr>
 <tr><td>Tadschikistan</td><td>5. Januar</td><td>2009 B</td><td>5. April</td><td>2009</td></tr>
+<tr><td>Thailand</td><td>13. Juli</td><td>2022 B</td><td>13. Oktober</td><td>2022</td></tr>
 <tr><td>Togo</td><td>21. Februar</td><td>2003</td><td>21. Mai</td><td>2003</td></tr>
 <tr><td>Trinidad und Tobago</td><td>28. August</td><td>2008 B</td><td>28. November</td><td>2008</td></tr>
 <tr><td>Tschechische Republik</td><td>10. Oktober</td><td>2001 B</td><td>6. März</td><td>2002</td></tr>
 <tr><td>Türkei</td><td>28. August</td><td>2008 B</td><td>28. November</td><td>2008</td></tr>
+<tr><td>Uganda</td><td>28. Januar</td><td>2022 B</td><td>28. April</td><td>2022</td></tr>
 <tr><td>Ukraine</td><td>29. November</td><td>2001 B</td><td>6. März</td><td>2002</td></tr>
 <tr><td>Ungarn</td><td>27. November</td><td>1998</td><td>6. März</td><td>2002</td></tr>
 <tr><td>Uruguay</td><td>5. März</td><td>2009</td><td>5. Juni</td><td>2009</td></tr>
@@ -415,10 +419,11 @@ Geltungsbereich am 24. September 2021**[^t-3]**
 <tr><td>Vereinigte Arabische Emirate</td><td>14. April</td><td>2004 B</td><td>14. Juli</td><td>2004</td></tr>
 <tr><td>Vereinigte Staaten</td><td>14. September</td><td>1999</td><td>6. März</td><td>2002</td></tr>
 <tr><td>Vereinigtes Königreich</td><td>14. Dezember</td><td>2009</td><td>14. März</td><td>2010</td></tr>
+<tr><td>Gibraltar</td><td>2. März</td><td>2022</td><td>17. Mai</td><td>2022</td></tr>
 <tr><td>Guernsey</td><td>1. Januar</td><td>2021</td><td>1. Januar</td><td>2021</td></tr>
 <tr><td>Insel Man</td><td>1. Januar</td><td>2021</td><td>1. Januar</td><td>2021</td></tr>
+<tr><td>Vietnam</td><td>17. November</td><td>2021 B</td><td>17. Februar</td><td>2022</td></tr>
 <tr><td>Zypern</td><td>4. August</td><td>2003 B</td><td>4. November</td><td>2003</td></tr>
-<tr><td colspan="5"><sup>a</sup> Dieser Vertrag gilt nicht für Macau.</td></tr>
 </table>
 
-[^t-3]: [AS 2009 2499](https://fedlex.data.admin.ch/eli/oc/2009/311); [2010 1455](https://fedlex.data.admin.ch/eli/oc/2010/197); [2014 885](https://fedlex.data.admin.ch/eli/oc/2014/190); [2016 771](https://fedlex.data.admin.ch/eli/oc/2016/148); [2019 2183](https://fedlex.data.admin.ch/eli/oc/2019/403)und [2021 606](https://fedlex.data.admin.ch/eli/oc/2021/606). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht (www.fedlex.admin.ch/de/treaty).
+[^t-3]: [AS 2008 2503](https://fedlex.data.admin.ch/eli/oc/2008/358); [2009 2499](https://fedlex.data.admin.ch/eli/oc/2009/311); [2010 1455](https://fedlex.data.admin.ch/eli/oc/2010/197); [2014 885](https://fedlex.data.admin.ch/eli/oc/2014/190); [2016 771](https://fedlex.data.admin.ch/eli/oc/2016/148); [2019 2183](https://fedlex.data.admin.ch/eli/oc/2019/403); [2021 606](https://fedlex.data.admin.ch/eli/oc/2021/606)und [2022 553](https://fedlex.data.admin.ch/eli/oc/2022/553). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht [https://www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty)
