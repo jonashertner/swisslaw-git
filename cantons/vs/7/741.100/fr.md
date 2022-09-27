@@ -5,12 +5,12 @@ title: Règlement de la commission cantonale de signalisation routière
 short: RCCSR
 language: fr
 version: 2022-01-01
-valid_until: 2026-06-30
+corrected: 2022-09-28
 version_adopted: 2022-02-16
 adopted: 2022-02-16
 in_force: 2022-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/741.100"
-pdf: "https://lex.vs.ch/api/fr/versions/3072/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3014/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.

@@ -1,21 +1,21 @@
 ---
 canton: VS
 number: "741.100"
-title: Reglement der Kantonalen Kommission für Strassensignalisation
+title: Reglement der Kantonalen Kommission für Stassensignalisation
 short: RKKSS
 language: de
 version: 2022-01-01
-valid_until: 2026-06-30
+corrected: 2022-09-28
 version_adopted: 2022-02-16
 adopted: 2022-02-16
 in_force: 2022-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/741.100"
-pdf: "https://lex.vs.ch/api/de/versions/3072/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3014/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Reglement der Kantonalen Kommission für Strassensignalisation
+# Reglement der Kantonalen Kommission für Stassensignalisation
 
 vom 16.02.2022 (Stand 01.01.2022)
 
