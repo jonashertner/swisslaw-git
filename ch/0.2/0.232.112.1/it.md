@@ -3,11 +3,11 @@ sr: "0.232.112.1"
 title: Trattato del 27 ottobre 1994 sul diritto dei marchi (con RE)
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2284_2284_2284"
 language: it
-version: 2019-04-04
+version: 2022-09-29
 adopted: 1994-10-27
 in_force: 1997-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2284_2284_2284/20190404/it/xml/fedlex-data-admin-ch-eli-cc-1997-2284_2284_2284-20190404-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2284_2284_2284/20190404/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2284_2284_2284/20220929/it/xml/fedlex-data-admin-ch-eli-cc-1997-2284_2284_2284-20220929-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2284_2284_2284/20220929/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,15 +16,11 @@ url: "https://www.fedlex.admin.ch/eli/cc/1997/2284_2284_2284/20190404/it"
 
 Testo ufficiale italiano
 
-Concluso a Ginevra il 27 ottobre 1994
-
-Approvato dall’Assemblea federale il 1° ottobre 1996[^t-1]
-
-Ratificato dalla Svizzera con strumento depositato il 1° febbraio 1997
+Concluso a Ginevra il 27 ottobre 1994 Approvato dall’Assemblea federale il 1° ottobre 1996[^t-1] Ratificato dalla Svizzera con strumento depositato il 1° febbraio 1997
 
 Entrato in vigore per la Svizzera il 1° maggio 1997
 
-(Stato 4 aprile 2019)
+(Stato 29 settembre 2022)
 
 [^t-1]: RU **1997** 2284; FF **1996** II 1273 Art. 1 cpv. 1 lett. b del DCF del 1° ott. 1996 (RU **1997** 2283).
 
@@ -1354,7 +1350,7 @@ Numero di riferimento del rappresentante:[^annexu1-lvlu1-57]
 
 (Formulario n. 8, pag. 3)
 
-- **7.** **Persona, diversa dal titolare o dal rappresentante del titolare, la quale d****e****posita la presente richiesta di rinnovo**
+- **7.** **Persona, diversa dal titolare o dal rappresentante del titolare, la quale deposita la presente richiesta di rinnovo**
 - *Importante:*
 - una persona che non è il titolare o il rappresentante del titolare può depositare una richiesta di rinnovo solamente se la Parte contraente interessata vi acconsente. Di conseguenza, il presente punto non può essere completato se la Parte contraente, il cui ufficio è l’ufficio indicato alla prima pagina della presente richiesta di rinnovo, non acconsente che una richiesta di rinnovo sia depositata da una persona diversa dal titolare o dal rappresentante del titolare.
   - ◻ Barrare questa casella se la presente richiesta di rinnovo viene depositata da una persona diversa dal titolare o dal rappresentante del titolare.
@@ -1393,7 +1389,7 @@ Numero di riferimento del rappresentante:[^annexu1-lvlu1-57]
 [^annexu1-lvlu1-62]: La lista dei prodotti o servizi per i quali viene richiesto il rinnovo dev’essere presentata nello stesso modo in cui figura nella registrazione (prodotti o servizi raggruppati secondo le classi della classificazione di Nizza, iniziando con l’indicazione del numero della classe corrispondente e presentati nell’ordine delle classi di tale classificazione, qualora appartengano a più di una classe).
 [^annexu1-lvlu1-63]: I prodotti o servizi per i quali non è richiesto il rinnovo devono essere raggruppati, se appartengono a più classi della classificazione di Nizza, secondo le classi di tale classificazione, iniziando con l’indicazione del numero della classe corrispondente e devono essere presentati secondo l’ordine delle classi di detta classificazione.
 
-Campo d’applicazione il 4 aprile 2019**[^t-2]**
+Campo d’applicazione il 29 settembre 2022[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -1437,6 +1433,7 @@ Campo d’applicazione il 4 aprile 2019**[^t-2]**
 <tr><td>Panama</td><td>7 giugno</td><td>2012 A</td><td>7 settembre</td><td>2012</td></tr>
 <tr><td>Perù</td><td>6 agosto</td><td>2009 A</td><td>6 novembre</td><td>2009</td></tr>
 <tr><td>Regno Unito</td><td>1° maggio</td><td>1996</td><td>1° agosto</td><td>1996</td></tr>
+<tr><td>Gibilterra</td><td>1° gennaio</td><td>2021</td><td>1° gennaio</td><td>2021</td></tr>
 <tr><td>[tab] Man, Isola di</td><td>1° maggio</td><td>1996</td><td>1° agosto</td><td>1996</td></tr>
 <tr><td>Romania</td><td>28 aprile</td><td>1998 A</td><td>28 luglio</td><td>1998</td></tr>
 <tr><td>Russia</td><td>11 febbraio</td><td>1998</td><td>11 maggio</td><td>1998</td></tr>
@@ -1452,7 +1449,7 @@ Campo d’applicazione il 4 aprile 2019**[^t-2]**
 <tr><td>Ucraina</td><td>30 gennaio</td><td>1996</td><td>1° agosto</td><td>1996</td></tr>
 <tr><td>Ungheria</td><td>26 agosto</td><td>1998</td><td>26 novembre</td><td>1998</td></tr>
 <tr><td>Uzbekistan</td><td>4 giugno</td><td>1998 A</td><td>4 settembre</td><td>1998</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. Possono essere consultate sul sito Internet dell’Organizzazione mondiale della proprietà intellettuale: www.wipo.int/treaties/fr/ oppure ottenute presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. I testi, francese ed inglese, possono essere consultati sul sito Internet dell’Organizzazione mondiale della proprietà intellettuale: www.wipo.int/ &gt; Français &gt; Savoirs &gt; Traités administrés par l’OMPI, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-[^t-2]: [RU 1997 2284](https://fedlex.data.admin.ch/eli/oc/1997/2284_2284_2284), [2004 1131](https://fedlex.data.admin.ch/eli/oc/2004/131), [2006 4431](https://fedlex.data.admin.ch/eli/oc/2006/674), [2007 4671](https://fedlex.data.admin.ch/eli/oc/2007/661), [2009 5125](https://fedlex.data.admin.ch/eli/oc/2009/600), [2012 1493](https://fedlex.data.admin.ch/eli/oc/2012/204), [2014 889](https://fedlex.data.admin.ch/eli/oc/2014/192), [2019 1217](https://fedlex.data.admin.ch/eli/oc/2019/228). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1997 2284](https://fedlex.data.admin.ch/eli/oc/1997/2284_2284_2284); [2004 1131](https://fedlex.data.admin.ch/eli/oc/2004/131); [2006 4431](https://fedlex.data.admin.ch/eli/oc/2006/674); [2007 4671](https://fedlex.data.admin.ch/eli/oc/2007/661); [2009 5125](https://fedlex.data.admin.ch/eli/oc/2009/600); [2012 1493](https://fedlex.data.admin.ch/eli/oc/2012/204); [2014 889](https://fedlex.data.admin.ch/eli/oc/2014/192); [2019 1217](https://fedlex.data.admin.ch/eli/oc/2019/228); [2022 555](https://fedlex.data.admin.ch/eli/oc/2022/555). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: https://www.fedlex.admin.ch/it/treaty

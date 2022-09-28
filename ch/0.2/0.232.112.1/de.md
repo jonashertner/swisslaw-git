@@ -3,11 +3,11 @@ sr: "0.232.112.1"
 title: Markenrechtsvertrag vom 27. Oktober 1994 (mit Ausführungsordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2284_2284_2284"
 language: de
-version: 2019-04-04
+version: 2022-09-29
 adopted: 1994-10-27
 in_force: 1997-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2284_2284_2284/20190404/de/xml/fedlex-data-admin-ch-eli-cc-1997-2284_2284_2284-20190404-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2284_2284_2284/20190404/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2284_2284_2284/20220929/de/xml/fedlex-data-admin-ch-eli-cc-1997-2284_2284_2284-20220929-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2284_2284_2284/20220929/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1997** 2284; BBl **1996** II 1425
 
 Abgeschlossen in Genf am 27. Oktober 1994 Von der Bundesversammlung genehmigt am 1. Oktober 1996[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 1. Februar 1997 In Kraft getreten für die Schweiz am 1. Mai 1997
 
-(Stand am 4. April 2019)
+(Stand am 29. September 2022)
 
 [^t-1]: Art. 1 Abs. 1 Bst. b des BB vom 1. Okt. 1996 ([AS 1997 2283](https://fedlex.data.admin.ch/eli/oc/1997/2283_2283_2283))
 
@@ -762,7 +762,7 @@ Aktenzeichen des Vertreters:[^annexu1-lvlu1-2]
 
 <table>
 <tr><td colspan="3">*(Formblatt Nr. 1, Seite 3)*</td></tr>
-<tr><td>4.</td><td colspan="2">Zustellungsanschrift**[^annexu1-lvlu1-8]**</td></tr>
+<tr><td>4.</td><td colspan="2">Zustellungsanschrift[^annexu1-lvlu1-8]</td></tr>
 <tr><td>5.</td><td colspan="2">Beanspruchung einer Priorität</td></tr>
 <tr><td></td><td>◻</td><td>Der Anmelder beansprucht hiermit folgende Priorität:</td></tr>
 <tr><td>5.1</td><td colspan="2">Land (Amt) der Erstanmeldung:[^annexu1-lvlu1-9]</td></tr>
@@ -780,7 +780,7 @@ Aktenzeichen des Vertreters:[^annexu1-lvlu1-2]
 *(Formblatt Nr. 1, Seite 4)*
 
 <table>
-<tr><td>6.</td><td colspan="2">Eintragung(en) im Ursprungsland (bei der Ursprungsbehörde)**[^annexu1-lvlu1-11]**</td></tr>
+<tr><td>6.</td><td colspan="2">Eintragung(en) im Ursprungsland (bei der Ursprungsbehörde)[^annexu1-lvlu1-11]</td></tr>
 <tr><td></td><td>◻</td><td>Die Bestätigung(en) über die Eintragung im Ursprungsland (bei der Ursprungsbehörde) ist (sind) beigefügt.</td></tr>
 <tr><td>7.</td><td colspan="2">Schutz aufgrund einer Zurschaustellung auf einer Ausstellung</td></tr>
 <tr><td></td><td>◻</td><td>Dieses Kästchen ist anzukreuzen, wenn sich der Anmelder den Schutz aus der Zurschaustellung von Waren und/oder Dienstleistungen auf einer Ausstellung zunutze machen möchte. In diesem Fall sind die Einzelheiten auf einem Zusatzblatt anzugeben.</td></tr>
@@ -861,7 +861,7 @@ Aktenzeichen der Person, die den Vertreter bestellt:[^annexu1-lvlu1-18]
 <table>
 <tr><td>1.</td><td>Bestellung</td></tr>
 <tr><td></td><td>Der Unterzeichner bestellt hiermit die unter Nummer 3 bezeichnete Person zu seinem Vertreter.</td></tr>
-<tr><td>2.</td><td>Name der Person, die den Vertreter bestellt**[^annexu1-lvlu1-19]**</td></tr>
+<tr><td>2.</td><td>Name der Person, die den Vertreter bestellt[^annexu1-lvlu1-19]</td></tr>
 </table>
 
 *(Formblatt Nr. 2, Seite 2)*
@@ -1422,7 +1422,7 @@ Aktenzeichen des Vertreters:[^annexu1-lvlu1-57]
 <tr><td></td><td colspan="2">Telefonnummer(n): (mit Vorwahl)</td><td>Telefaxnummer(n): (mit Vorwahl)</td></tr>
 <tr><td>4.3</td><td colspan="3">Laufende Nummer der Vollmacht:[^annexu1-lvlu1-60]</td></tr>
 <tr><td>5.</td><td colspan="3">Zustellungsanschrift des Inhabers</td></tr>
-<tr><td>6.</td><td colspan="3">Waren und/oder Dienstleistungen**[^annexu1-lvlu1-61]**</td></tr>
+<tr><td>6.</td><td colspan="3">Waren und/oder Dienstleistungen[^annexu1-lvlu1-61]</td></tr>
 <tr><td>6.1</td><td>◻</td><td colspan="2">Die Verlängerung wird für alle Waren und/oder Dienstleistungen, auf die sich die Eintragung bezieht, beantragt.</td></tr>
 </table>
 
@@ -1471,7 +1471,7 @@ Aktenzeichen des Vertreters:[^annexu1-lvlu1-57]
 [^annexu1-lvlu1-62]: Das Verzeichnis der Waren und/oder Dienstleistungen, für die Verlängerung beantragt wird, muss in derselben Weise wiedergegeben werden, wie es in der Eintragung erscheint (Zusammenfassung in Gruppen nach den Klassen der Nizzaer Klassifikation, wobei mit der Angabe der Nummer der entsprechenden Klasse zu beginnen ist, und, wenn die Waren oder Dienstleistungen zu mehr als einer Klasse gehören, Wiedergabe in der Reihenfolge der Klassen dieser Klassifikation).
 [^annexu1-lvlu1-63]: Die Waren und/oder Dienstleistungen, für welche eine Verlängerung nicht beantragt wird, müssen, wenn sie zu mehr als einer Klasse der Nizzaer Klassifikation gehören, nach den Klassen dieser Klassifikation in Gruppen zusammengefasst werden, wobei mit der Angabe der Nummer der entsprechenden Klasse zu beginnen ist und die Wiedergabe in der Reihenfolge der Klassen der genannten Klassifikation zu erfolgen hat.
 
-Geltungsbereich am 4. April 2019**[^t-2]**
+Geltungsbereich am 29. September 2022[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -1528,9 +1528,10 @@ Geltungsbereich am 4. April 2019**[^t-2]**
 <tr><td>Usbekistan</td><td>4. Juni</td><td>1998 B</td><td>4. September</td><td>1998</td></tr>
 <tr><td>Vereinigte Staaten</td><td>12. Mai</td><td>2000</td><td>12. August</td><td>2000</td></tr>
 <tr><td>Vereinigtes Königreich</td><td>1. Mai</td><td>1996</td><td>1. August</td><td>1996</td></tr>
+<tr><td>Gibraltar</td><td>1. Januar</td><td>2021</td><td>1. Januar</td><td>2021</td></tr>
 <tr><td>[tab] Insel Man</td><td>1. Mai</td><td>1996</td><td>1. August</td><td>1996</td></tr>
 <tr><td>Zypern</td><td>17. Januar</td><td>1997</td><td>17. April</td><td>1997</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die englischen und französischen Texte können auf der Internetseite der Weltorganisation für geistiges Eigentum: www.wipo.int/treaties/fr eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Weltorganisation für geistiges Eigentum (WIPO): www.wipo.int/ &gt; Français &gt; Savoirs &gt; Traités administrés par l’OMPI eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-2]: [AS 1997 2284](https://fedlex.data.admin.ch/eli/oc/1997/2284_2284_2284), [2004 1131](https://fedlex.data.admin.ch/eli/oc/2004/131), [2006 4431](https://fedlex.data.admin.ch/eli/oc/2006/674),[2007 4671](https://fedlex.data.admin.ch/eli/oc/2007/661), [2009 5125](https://fedlex.data.admin.ch/eli/oc/2009/600), [2012 1493](https://fedlex.data.admin.ch/eli/oc/2012/204), [2014 889](https://fedlex.data.admin.ch/eli/oc/2014/192), [2019 1217](https://fedlex.data.admin.ch/eli/oc/2019/228). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1997 2284](https://fedlex.data.admin.ch/eli/oc/1997/2284_2284_2284); [2004 1131](https://fedlex.data.admin.ch/eli/oc/2004/131); [2006 4431](https://fedlex.data.admin.ch/eli/oc/2006/674); [2007 4671](https://fedlex.data.admin.ch/eli/oc/2007/661); [2009 5125](https://fedlex.data.admin.ch/eli/oc/2009/600); [2012 1493](https://fedlex.data.admin.ch/eli/oc/2012/204); [2014 889](https://fedlex.data.admin.ch/eli/oc/2014/192); [2019 1217](https://fedlex.data.admin.ch/eli/oc/2019/228); [2022 555](https://fedlex.data.admin.ch/eli/oc/2022/555). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht [https://www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty)

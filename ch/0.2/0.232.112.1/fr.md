@@ -3,11 +3,11 @@ sr: "0.232.112.1"
 title: "Traité du 27 octobre 1994 sur le droit des marques (avec R d'ex.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2284_2284_2284"
 language: fr
-version: 2019-04-04
+version: 2022-09-29
 adopted: 1994-10-27
 in_force: 1997-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2284_2284_2284/20190404/fr/xml/fedlex-data-admin-ch-eli-cc-1997-2284_2284_2284-20190404-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2284_2284_2284/20190404/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2284_2284_2284/20220929/fr/xml/fedlex-data-admin-ch-eli-cc-1997-2284_2284_2284-20220929-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2284_2284_2284/20220929/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -24,7 +24,7 @@ Instrument de ratification déposé par la Suisse le 1<sup>er</sup> février 199
 
 Entré en vigueur pour la Suisse le 1<sup>er</sup> mai 1997
 
-(Etat le 4 avril 2019)
+(État le 29 septembre 2022)
 
 [^t-1]: RO **1997** 2284; FF **1996** II 1393 Art. 1 al. 1 let. b de l’AF du 1<sup>er</sup> oct. 1996 (RO **1997** 2283)
 
@@ -70,7 +70,7 @@ Au sens du présent traité, et sauf lorsqu’un sens différent est expresséme
 - vi) on entend par «registre des marques» la collection des données tenue par un office, qui comprend le contenu de tous les enregistrements et toutes les données inscrites en ce qui concerne tous les enregistrements, quel que soit le support sur lequel lesdites données sont conservées;
 - vii) on entend par «Convention de Paris» la Convention de Paris pour la protection de la propriété industrielle, signée à Paris le 20 mars 1883[^1-1], telle qu’elle a été révisée et modifiée;
 - viii) on entend par «classification de Nice» la classification instituée par l’Arrangement de Nice concernant la classification internationale des produits et des services aux fins de l’enregistrement des marques, signé à Nice le 15 juin 1957[^1-2], tel qu’il a été révisé et modifié;
-- ix) on entend par «Partie contractante» tout Etat ou toute organisation intergouvernementale partie au présent traité;
+- ix) on entend par «Partie contractante» tout État ou toute organisation intergouvernementale partie au présent traité;
 - x) le terme «instrument de ratification» désigne aussi les instruments d’acceptation et d’approbation;
 - xi) on entend par «Organisation» l’Organisation Mondiale de la Propriété Intellectuelle;
 - xii) on entend par «Directeur général» le Directeur général de l’Organisation;
@@ -129,8 +129,8 @@ Toute Partie contractante peut exiger qu’au cours de l’examen de la demande 
 
   - i) une requête en enregistrement;
   - ii) le nom et l’adresse du déposant;
-  - iii) le nom d’un Etat dont le déposant est ressortissant s’il est ressortissant d’un Etat, le nom d’un Etat dans lequel le déposant a son domicile, le cas échéant, et le nom d’un Etat dans lequel le déposant a un établissement industriel ou commercial effectif et sérieux, le cas échéant;
-  - iv) lorsque le déposant est une personne morale, la forme juridique de cette personne morale ainsi que l’Etat, et, le cas échéant, la division territoriale de cet Etat, dont la législation a servi de cadre à la constitution de ladite personne morale;
+  - iii) le nom d’un État dont le déposant est ressortissant s’il est ressortissant d’un État, le nom d’un État dans lequel le déposant a son domicile, le cas échéant, et le nom d’un État dans lequel le déposant a un établissement industriel ou commercial effectif et sérieux, le cas échéant;
+  - iv) lorsque le déposant est une personne morale, la forme juridique de cette personne morale ainsi que l’État, et, le cas échéant, la division territoriale de cet État, dont la législation a servi de cadre à la constitution de ladite personne morale;
   - v) lorsque le déposant a un mandataire, le nom et l’adresse de celui-ci;
   - vi) lorsque, en vertu de l’art. 4.2)b), il doit être fait élection de domicile, le domicile élu;
   - vii) lorsque le déposant souhaite bénéficier de la priorité d’une demande antérieure, une déclaration revendiquant la priorité de cette demande antérieure, accompagnée des indications et des justifications à l’appui de la déclaration de priorité qui peuvent être exigées conformément à l’art. 4 de la Convention de Paris;
@@ -159,7 +159,7 @@ Aucune Partie contractante ne peut exiger que des conditions autres que celles q
 - i) la remise d’un certificat, ou d’un extrait, d’un registre du commerce;
 - ii) l’indication que le déposant exerce une activité industrielle ou commerciale, ainsi que la fourniture de la preuve correspondante;
 - iii) l’indication que le déposant exerce une activité correspondant aux produits ou aux services énumérés dans la demande, ainsi que la fourniture de la preuve correspondante;
-- iv) la fourniture de la preuve de l’inscription de la marque dans le registre des marques d’une autre Partie contractante ou d’un Etat partie à la Convention de Paris qui n’est pas une Partie contractante, à moins que le déposant n’invoque l’art. 6<sup>quinquies</sup> de la Convention de Paris.
+- iv) la fourniture de la preuve de l’inscription de la marque dans le registre des marques d’une autre Partie contractante ou d’un État partie à la Convention de Paris qui n’est pas une Partie contractante, à moins que le déposant n’invoque l’art. 6<sup>quinquies</sup> de la Convention de Paris.
 
 #### Art. 4
 
@@ -308,7 +308,7 @@ Chaque enregistrement et toute publication effectués par un office au sujet d�
 
 \2) [Changement de nom ou d’adresse du déposant]
 
-L’al. 1) est applicable *mut**a**tis mutandis* lorsque le changement concerne une ou plusieurs demandes ou à la fois une ou plusieurs demandes et un ou plusieurs enregistrements; toutefois, lorsqu’une demande n’a pas encore de numéro ou que son numéro n’est pas connu du déposant ou de son mandataire, la requête doit permettre d’identifier cette demande d’une autre manière conformément aux prescriptions du règlement d’exécution.
+L’al. 1) est applicable *muta**tis mutandis* lorsque le changement concerne une ou plusieurs demandes ou à la fois une ou plusieurs demandes et un ou plusieurs enregistrements; toutefois, lorsqu’une demande n’a pas encore de numéro ou que son numéro n’est pas connu du déposant ou de son mandataire, la requête doit permettre d’identifier cette demande d’une autre manière conformément aux prescriptions du règlement d’exécution.
 
 \3) [Changement de nom ou d’adresse du mandataire ou changement de domicile élu]
 
@@ -372,8 +372,8 @@ Toute Partie contractante peut exiger que des preuves ou, lorsque l’al. 1)c) o
 - f) Toute Partie contractante peut exiger que la requête indique
   - i) le nom et l’adresse du titulaire;
   - ii) le nom et l’adresse du nouveau propriétaire;
-  - iii) le nom d’un Etat dont le nouveau propriétaire est ressortissant s’il est ressortissant d’un Etat, le nom d’un Etat dans lequel le nouveau propriétaire a son domicile, le cas échéant, et le nom d’un Etat dans lequel le nouveau propriétaire a un établissement industriel ou commercial effectif et sérieux, le cas échéant;
-  - iv) lorsque le nouveau propriétaire est une personne morale, la forme juridique de cette personne morale ainsi que l’Etat, et, le cas échéant, la division territoriale de cet Etat, dont la législation a servi de cadre à la constitution de ladite personne morale;
+  - iii) le nom d’un État dont le nouveau propriétaire est ressortissant s’il est ressortissant d’un État, le nom d’un État dans lequel le nouveau propriétaire a son domicile, le cas échéant, et le nom d’un État dans lequel le nouveau propriétaire a un établissement industriel ou commercial effectif et sérieux, le cas échéant;
+  - iv) lorsque le nouveau propriétaire est une personne morale, la forme juridique de cette personne morale ainsi que l’État, et, le cas échéant, la division territoriale de cet État, dont la législation a servi de cadre à la constitution de ladite personne morale;
   - v) lorsque le titulaire a un mandataire, le nom et l’adresse de celui-ci;
   - vi) si le titulaire a fait élection de domicile, le domicile élu;
   - vii) si le nouveau propriétaire a un mandataire, le nom et l’adresse de celui-ci;
@@ -401,7 +401,7 @@ Aucune Partie contractante ne peut exiger que soient remplies des conditions aut
 
 \2) [Rectification d’une erreur relative à une demande]
 
-L’al. 1) est applicable *m**u**tatis mutandis* lorsque l’erreur concerne une ou plusieurs demandes ou à la fois une ou plusieurs demandes et un ou plusieurs enregistrements; toutefois, lorsqu’une demande n’a pas encore de numéro ou que son numéro n’est pas connu du déposant ou de son mandataire, la requête doit permettre d’identifier cette demande d’une autre manière conformément aux prescriptions du règlement d’exécution.
+L’al. 1) est applicable *mutatis mutandis* lorsque l’erreur concerne une ou plusieurs demandes ou à la fois une ou plusieurs demandes et un ou plusieurs enregistrements; toutefois, lorsqu’une demande n’a pas encore de numéro ou que son numéro n’est pas connu du déposant ou de son mandataire, la requête doit permettre d’identifier cette demande d’une autre manière conformément aux prescriptions du règlement d’exécution.
 
 \3) [Interdiction d’autres conditions]
 
@@ -547,23 +547,23 @@ Toute entité visée à l’al. 1) peut déposer
 
 Les entités ci-après peuvent signer et, sous réserve des al. 2) et 3) et de l’art. 20.1) et 3), devenir parties au présent traité:
 
-- i) tout Etat membre de l’Organisation pour lequel des marques peuvent être enregistrées auprès de son propre office;
-- ii) toute organisation intergouvernementale qui gère un office auprès duquel peuvent être enregistrées des marques avec effet sur le territoire sur lequel s’applique le traité constitutif de l’organisation intergouvernementale, dans tous ses Etats membres ou dans ceux de ses Etats membres qui sont désignés à cette fin dans la demande correspondante, sous réserve que tous les Etats membres de l’organisation intergouvernementale soient membres de l’Organisation;
-- iii) tout Etat membre de l’Organisation pour lequel des marques peuvent être enregistrées uniquement par l’intermédiaire de l’office d’un autre Etat spécifié qui est membre de l’Organisation;
-- iv) tout Etat membre de l’Organisation pour lequel des marques peuvent être enregistrées uniquement par l’intermédiaire de l’office géré par une organisation intergouvernementale dont cet Etat est membre;
-- v) tout Etat membre de l’Organisation pour lequel des marques peuvent être enregistrées uniquement par l’intermédiaire d’un office commun à un groupe d’Etats membres de l’Organisation.
+- i) tout État membre de l’Organisation pour lequel des marques peuvent être enregistrées auprès de son propre office;
+- ii) toute organisation intergouvernementale qui gère un office auprès duquel peuvent être enregistrées des marques avec effet sur le territoire sur lequel s’applique le traité constitutif de l’organisation intergouvernementale, dans tous ses États membres ou dans ceux de ses États membres qui sont désignés à cette fin dans la demande correspondante, sous réserve que tous les États membres de l’organisation intergouvernementale soient membres de l’Organisation;
+- iii) tout État membre de l’Organisation pour lequel des marques peuvent être enregistrées uniquement par l’intermédiaire de l’office d’un autre État spécifié qui est membre de l’Organisation;
+- iv) tout État membre de l’Organisation pour lequel des marques peuvent être enregistrées uniquement par l’intermédiaire de l’office géré par une organisation intergouvernementale dont cet État est membre;
+- v) tout État membre de l’Organisation pour lequel des marques peuvent être enregistrées uniquement par l’intermédiaire d’un office commun à un groupe d’États membres de l’Organisation.
 
 - i) un instrument de ratification, si elle a signé le présent traité,
 - ii) un instrument d’adhésion, si elle n’a pas signé le présent traité.
 
 - a) Sous réserve du sous-alinéa b), la date de prise d’effet du dépôt d’un instrument de ratification ou d’adhésion est,
-  - i) s’agissant d’un Etat visé à l’al. 1)i), la date à laquelle l’instrument de cet Etat est déposé;
+  - i) s’agissant d’un État visé à l’al. 1)i), la date à laquelle l’instrument de cet État est déposé;
   - ii) s’agissant d’une organisation intergouvernementale, la date à laquelle l’instrument de cette organisation intergouvernementale est déposé;
-  - iii) s’agissant d’un Etat visé à l’al. 1)iii), la date à laquelle la condition ci-après est remplie: l’instrument de cet Etat a été déposé et l’instrument de l’autre Etat spécifié a été déposé;
-  - iv) s’agissant d’un Etat visé à l’al. 1)iv), la date à prendre en considération en vertu du point ii) ci-dessus;
-  - v) s’agissant d’un Etat membre d’un groupe d’Etats visé à l’al. 1)v), la date à laquelle les instruments de tous les Etats membres du groupe ont été déposés.
+  - iii) s’agissant d’un État visé à l’al. 1)iii), la date à laquelle la condition ci-après est remplie: l’instrument de cet État a été déposé et l’instrument de l’autre État spécifié a été déposé;
+  - iv) s’agissant d’un État visé à l’al. 1)iv), la date à prendre en considération en vertu du point ii) ci-dessus;
+  - v) s’agissant d’un État membre d’un groupe d’États visé à l’al. 1)v), la date à laquelle les instruments de tous les États membres du groupe ont été déposés.
 
-- b) Tout instrument de ratification ou d’adhésion (dénommé «instrument» dans le présent sous-alinéa) d’un Etat peut être accompagné d’une déclaration aux termes de laquelle ledit instrument ne doit être considéré comme déposé que si l’instrument d’un autre Etat ou d’une organisation intergouvernementale, ou ceux de deux autres Etats, ou ceux d’un autre Etat et d’une organisation intergouvernementale, dont les noms sont indiqués et qui remplissent les conditions nécessaires pour devenir parties au présent traité, sont aussi déposés. L’instrument contenant une telle déclaration est considéré comme ayant été déposé le jour où la condition indiquée dans la déclaration est remplie. Toutefois, lorsque le dépôt d’un instrument indiqué dans la déclaration est lui-même accompagné d’une déclaration du même type, cet instrument est considéré comme déposé le jour où la condition indiquée dans cette dernière déclaration est remplie.
+- b) Tout instrument de ratification ou d’adhésion (dénommé «instrument» dans le présent sous-alinéa) d’un État peut être accompagné d’une déclaration aux termes de laquelle ledit instrument ne doit être considéré comme déposé que si l’instrument d’un autre État ou d’une organisation intergouvernementale, ou ceux de deux autres États, ou ceux d’un autre État et d’une organisation intergouvernementale, dont les noms sont indiqués et qui remplissent les conditions nécessaires pour devenir parties au présent traité, sont aussi déposés. L’instrument contenant une telle déclaration est considéré comme ayant été déposé le jour où la condition indiquée dans la déclaration est remplie. Toutefois, lorsque le dépôt d’un instrument indiqué dans la déclaration est lui-même accompagné d’une déclaration du même type, cet instrument est considéré comme déposé le jour où la condition indiquée dans cette dernière déclaration est remplie.
 - c) Toute déclaration faite en vertu du sous-alinéa b) peut, à tout moment, être retirée, en totalité ou en partie. Un tel retrait prend effet à la date à laquelle la notification de retrait est reçue par le Directeur général.
 
 #### Art. 20
@@ -576,7 +576,7 @@ Aux fins du présent article, seuls les instruments de ratification ou d’adhé
 
 \2) [Entrée en vigueur du traité]
 
-Le présent traité entre en vigueur trois mois après que cinq Etats ont déposé leur instrument de ratification ou d’adhésion.
+Le présent traité entre en vigueur trois mois après que cinq États ont déposé leur instrument de ratification ou d’adhésion.
 
 \3) [Entrée en vigueur des ratifications et adhésions postérieures à l’entrée en vigueur du traité]
 
@@ -588,11 +588,11 @@ Toute entité autre que celles qui sont visées à l’al. 2) devient liée par 
 
 \1) [Types spéciaux de marques]
 
-Tout Etat ou organisation intergouvernementale peut déclarer au moyen d’une réserve que, nonobstant l’art. 2.1)a) et 2)a), les dispositions des art. 3.1) et 2), 5, 7, 11 et 13 ne sont pas applicables aux marques associées, aux marques défensives ou aux marques dérivées. Cette réserve doit préciser celles de ces dispositions auxquelles elle s’applique.
+Tout État ou organisation intergouvernementale peut déclarer au moyen d’une réserve que, nonobstant l’art. 2.1)a) et 2)a), les dispositions des art. 3.1) et 2), 5, 7, 11 et 13 ne sont pas applicables aux marques associées, aux marques défensives ou aux marques dérivées. Cette réserve doit préciser celles de ces dispositions auxquelles elle s’applique.
 
 \2) [Modalités]
 
-Toute réserve faite en vertu de l’al. 1) doit figurer dans une déclaration accompagnant l’instrument de ratification du présent traité ou d’adhésion à celui-ci déposé par l’Etat ou l’organisation intergouvernementale régionale formulant cette réserve.
+Toute réserve faite en vertu de l’al. 1) doit figurer dans une déclaration accompagnant l’instrument de ratification du présent traité ou d’adhésion à celui-ci déposé par l’État ou l’organisation intergouvernementale régionale formulant cette réserve.
 
 \3) [Retrait]
 
@@ -610,23 +610,23 @@ Aucune autre réserve que celle qui est autorisée en vertu de l’al. 1) ne peu
 
 \2) [Un seul pouvoir pour plusieurs demandes ou enregistrements]
 
-Tout Etat ou organisation intergouvernementale peut déclarer que, nonobstant l’art. 4.3)b), un pouvoir ne peut concerner qu’une seule demande ou qu’un seul enregistrement.
+Tout État ou organisation intergouvernementale peut déclarer que, nonobstant l’art. 4.3)b), un pouvoir ne peut concerner qu’une seule demande ou qu’un seul enregistrement.
 
 \3) [Interdiction d’exiger une certification de la signature d’un pouvoir ou de la signature d’une demande]
 
-Tout Etat ou organisation intergouvernementale peut déclarer que, nonobstant l’art. 8.4), il peut être exigé que la signature d’un pouvoir ou que la signature d’une demande par le déposant soit attestée, reconnue conforme par un officier public, authentifiée, légalisée ou certifiée d’une autre manière.
+Tout État ou organisation intergouvernementale peut déclarer que, nonobstant l’art. 8.4), il peut être exigé que la signature d’un pouvoir ou que la signature d’une demande par le déposant soit attestée, reconnue conforme par un officier public, authentifiée, légalisée ou certifiée d’une autre manière.
 
 \4) [Une seule requête pour plusieurs demandes ou enregistrements en ce qui concerne un changement de nom ou d’adresse, un changement de titulaire ou la rectification d’une erreur]
 
-Tout Etat ou organisation intergouvernementale peut déclarer que, nonobstant l’art. 10.1)e), 2) et 3), l’art. 11.1)h) et 3) et l’art. 12.1)e) et 2), une requête en inscription d’un changement de nom ou d’adresse, une requête en inscription d’un changement de titulaire ou une requête en rectification d’une erreur ne peut concerner qu’une seule demande ou qu’un seul enregistrement.
+Tout État ou organisation intergouvernementale peut déclarer que, nonobstant l’art. 10.1)e), 2) et 3), l’art. 11.1)h) et 3) et l’art. 12.1)e) et 2), une requête en inscription d’un changement de nom ou d’adresse, une requête en inscription d’un changement de titulaire ou une requête en rectification d’une erreur ne peut concerner qu’une seule demande ou qu’un seul enregistrement.
 
 \5) [Remise ou fourniture, lors du renouvellement, d’une déclaration ou d’une preuve relative à l’usage]
 
-Tout Etat ou organisation intergouvernementale peut déclarer que, nonobstant l’art. 13.4)iii), il exigera, lors du renouvellement, la remise d’une déclaration ou la fourniture d’une preuve relative à l’usage de la marque.
+Tout État ou organisation intergouvernementale peut déclarer que, nonobstant l’art. 13.4)iii), il exigera, lors du renouvellement, la remise d’une déclaration ou la fourniture d’une preuve relative à l’usage de la marque.
 
 \6) [Examen quant au fond lors du renouvellement]
 
-Tout Etat ou organisation intergouvernementale peut déclarer que, nonobstant l’art. 13.6), l’office peut, lors du premier renouvellement d’un enregistrement portant sur des services, examiner cet enregistrement quant au fond; toutefois, cet examen servira uniquement à éliminer les enregistrements multiples résultant de demandes déposées au cours d’une période de six mois suivant l’entrée en vigueur de la législation de cet Etat ou organisation qui a institué, avant l’entrée en vigueur du présent traité, la possibilité d’enregistrer les marques de services.
+Tout État ou organisation intergouvernementale peut déclarer que, nonobstant l’art. 13.6), l’office peut, lors du premier renouvellement d’un enregistrement portant sur des services, examiner cet enregistrement quant au fond; toutefois, cet examen servira uniquement à éliminer les enregistrements multiples résultant de demandes déposées au cours d’une période de six mois suivant l’entrée en vigueur de la législation de cet État ou organisation qui a institué, avant l’entrée en vigueur du présent traité, la possibilité d’enregistrer les marques de services.
 
 \7) [Dispositions communes]
 
@@ -634,18 +634,18 @@ Tout Etat ou organisation intergouvernementale peut déclarer que, nonobstant l�
 
 \9) [Conditions et modalités pour devenir partie au traité]
 
-Jusqu’au 31 décembre 1999, tout Etat qui, à la date de l’adoption du présent traité, est membre de l’Union internationale pour la protection de la propriété industrielle (Union de Paris) sans être membre de l’Organisation peut, nonobstant l’art. 19.1)i), devenir partie au présent traité si des marques peuvent être enregistrées auprès de son propre office.
+Jusqu’au 31 décembre 1999, tout État qui, à la date de l’adoption du présent traité, est membre de l’Union internationale pour la protection de la propriété industrielle (Union de Paris) sans être membre de l’Organisation peut, nonobstant l’art. 19.1)i), devenir partie au présent traité si des marques peuvent être enregistrées auprès de son propre office.
 
-- a) Tout Etat ou organisation intergouvernementale peut déclarer que, nonobstant l’art. 3.5), une demande ne peut être déposée auprès de l’office que pour des produits ou des services qui appartiennent à une seule classe de la classification de Nice.
-- b) Tout Etat ou organisation intergouvernementale peut déclarer que, nonobstant l’art. 6, lorsque des produits ou services appartenant à plusieurs classes de la classification de Nice ont été inclus dans une seule et même demande, cette demande aboutit à plusieurs enregistrements dans le registre des marques, étant entendu que chacun de ces enregistrements comporte un renvoi à tous les autres enregistrements résultant de ladite demande.
-- c) Tout Etat ou organisation intergouvernementale qui a fait une déclaration en vertu du sous-alinéa a) peut déclarer que, nonobstant l’art 7.1), aucune demande ne peut faire l’objet d’une division.
+- a) Tout État ou organisation intergouvernementale peut déclarer que, nonobstant l’art. 3.5), une demande ne peut être déposée auprès de l’office que pour des produits ou des services qui appartiennent à une seule classe de la classification de Nice.
+- b) Tout État ou organisation intergouvernementale peut déclarer que, nonobstant l’art. 6, lorsque des produits ou services appartenant à plusieurs classes de la classification de Nice ont été inclus dans une seule et même demande, cette demande aboutit à plusieurs enregistrements dans le registre des marques, étant entendu que chacun de ces enregistrements comporte un renvoi à tous les autres enregistrements résultant de ladite demande.
+- c) Tout État ou organisation intergouvernementale qui a fait une déclaration en vertu du sous-alinéa a) peut déclarer que, nonobstant l’art 7.1), aucune demande ne peut faire l’objet d’une division.
 
-- a) Un Etat ou une organisation intergouvernementale ne peut faire une déclaration en vertu des al. 1) à 6) que dans le cas où, au moment du dépôt de son instrument de ratification du présent traité ou d’adhésion à celui-ci, le maintien en application de sa législation serait, sans cette déclaration, contraire aux dispositions pertinentes du présent traité.
-- b) Toute déclaration faite en vertu des al. 1) à 6) doit accompagner l’instrument de ratification du présent traité ou d’adhésion à celui-ci déposé par l’Etat ou l’organisation intergouvernementale faisant la déclaration.
+- a) Un État ou une organisation intergouvernementale ne peut faire une déclaration en vertu des al. 1) à 6) que dans le cas où, au moment du dépôt de son instrument de ratification du présent traité ou d’adhésion à celui-ci, le maintien en application de sa législation serait, sans cette déclaration, contraire aux dispositions pertinentes du présent traité.
+- b) Toute déclaration faite en vertu des al. 1) à 6) doit accompagner l’instrument de ratification du présent traité ou d’adhésion à celui-ci déposé par l’État ou l’organisation intergouvernementale faisant la déclaration.
 - c) Toute déclaration faite en vertu des al. 1) à 6) peut être retirée à tout moment.
 
-- a) Sous réserve du sous-alinéa c), toute déclaration faite en vertu des al. 1) à 5) par un Etat considéré comme un pays en développement selon la pratique établie de l’Assemblée générale des Nations Unies, ou par une organisation intergouvernementale dont chaque membre est un tel Etat, perd ses effets à la fin d’une période de huit ans à compter de la date d’entrée en vigueur du présent traité.
-- b) Sous réserve du sous-alinéa c), toute déclaration faite en vertu des al. 1) à 5) par un Etat autre qu’un Etat visé au sous-alinéa a), ou par une organisation intergouvernementale autre qu’une organisation intergouvernementale visée au sous-alinéa a), perd ses effets à la fin d’une période de six ans à compter de la date d’entrée en vigueur du présent traité.
+- a) Sous réserve du sous-alinéa c), toute déclaration faite en vertu des al. 1) à 5) par un État considéré comme un pays en développement selon la pratique établie de l’Assemblée générale des Nations Unies, ou par une organisation intergouvernementale dont chaque membre est un tel État, perd ses effets à la fin d’une période de huit ans à compter de la date d’entrée en vigueur du présent traité.
+- b) Sous réserve du sous-alinéa c), toute déclaration faite en vertu des al. 1) à 5) par un État autre qu’un État visé au sous-alinéa a), ou par une organisation intergouvernementale autre qu’une organisation intergouvernementale visée au sous-alinéa a), perd ses effets à la fin d’une période de six ans à compter de la date d’entrée en vigueur du présent traité.
 - c) Lorsqu’une déclaration faite en vertu des al. 1) à 5) n’a pas été retirée en vertu de l’al. 7)c), ou n’a pas perdu ses effets en vertu du sous-alinéa a) ou b), avant le 28 octobre 2004, cette déclaration perd ses effets le 28 octobre 2004.
 
 #### Art. 23
@@ -671,7 +671,7 @@ La dénonciation prend effet un an après la date à laquelle le Directeur gén�
 Le présent traité reste ouvert à la signature au siège de l’Organisation pendant un an après son adoption.
 
 - a) Le présent traité est signé en un seul exemplaire original en langues française, anglaise, arabe, chinoise, espagnole et russe, tous ces textes faisant également foi.
-- b) A la demande d’une Partie contractante, un texte officiel dans une langue, non visée au sous-alinéa a), qui est une langue officielle de cette Partie contractante est établi par le Directeur général après consultation de ladite Partie contractante et de toute autre Partie contractante intéressée.
+- b) À la demande d’une Partie contractante, un texte officiel dans une langue, non visée au sous-alinéa a), qui est une langue officielle de cette Partie contractante est établi par le Directeur général après consultation de ladite Partie contractante et de toute autre Partie contractante intéressée.
 
 #### Art. 25
 
@@ -872,12 +872,12 @@ Numéro de référence du mandataire:[^annexu1-lvlu1-2]
 
 <table>
 <tr><td colspan="4">*(Formulaire n**<sup>o</sup>* *1, page 2)*</td></tr>
-<tr><td>2.4</td><td colspan="3">Etat dont le déposant est ressortissant:</td></tr>
-<tr><td></td><td colspan="3">Etat du domicile:</td></tr>
-<tr><td></td><td colspan="3">Etat de l’établissement:[^annexu1-lvlu1-5]</td></tr>
+<tr><td>2.4</td><td colspan="3">État dont le déposant est ressortissant:</td></tr>
+<tr><td></td><td colspan="3">État du domicile:</td></tr>
+<tr><td></td><td colspan="3">État de l’établissement:[^annexu1-lvlu1-5]</td></tr>
 <tr><td>2.5</td><td colspan="3">Si le déposant est une personne morale, indiquer</td></tr>
 <tr><td>[tab]</td><td colspan="3">– la forme juridique de la personne morale:</td></tr>
-<tr><td>[tab]</td><td colspan="3">– l’Etat, et, le cas échéant, la division territoriale de cet Etat, dont la législation a servi de cadre à la constitution de ladite personne morale:</td></tr>
+<tr><td>[tab]</td><td colspan="3">– l’État, et, le cas échéant, la division territoriale de cet État, dont la législation a servi de cadre à la constitution de ladite personne morale:</td></tr>
 <tr><td>2.6</td><td>◻</td><td colspan="2">Cocher cette case en cas de pluralité de déposants; si tel est le cas, en dresser la liste sur une feuille supplémentaire et indiquer, pour chacun d’eux, les éléments d’information demandés aux points 2.1 ou 2.2, 2.3, 2.4 et 2.5.[^annexu1-lvlu1-6]</td></tr>
 <tr><td>3.</td><td colspan="3">Mandataire</td></tr>
 <tr><td>3.1</td><td>◻</td><td colspan="2">Le déposant n’a pas de mandataire.</td></tr>
@@ -896,7 +896,7 @@ Numéro de référence du mandataire:[^annexu1-lvlu1-2]
 *(Formulaire n**<sup>o</sup>* *1, page 3)*
 
 <table>
-<tr><td>4.</td><td colspan="2">Domicile élu**[^annexu1-lvlu1-8]**</td></tr>
+<tr><td>4.</td><td colspan="2">Domicile élu[^annexu1-lvlu1-8]</td></tr>
 <tr><td>5.</td><td colspan="2">Revendication de priorité</td></tr>
 <tr><td></td><td>◻</td><td>Le déposant revendique la priorité suivante:</td></tr>
 <tr><td>5.1</td><td colspan="2">Pays (office) du premier dépôt:[^annexu1-lvlu1-9]</td></tr>
@@ -914,7 +914,7 @@ Numéro de référence du mandataire:[^annexu1-lvlu1-2]
 *(Formulaire n**<sup>o</sup>* *1, page 4)*
 
 <table>
-<tr><td>6.</td><td colspan="2">Enregistrement(s) dans le pays (l’office) d’origine**[^annexu1-lvlu1-11]**</td></tr>
+<tr><td>6.</td><td colspan="2">Enregistrement(s) dans le pays (l’office) d’origine[^annexu1-lvlu1-11]</td></tr>
 <tr><td></td><td>◻</td><td>Le ou les certificats d’enregistrement dans le pays (l’office) d’origine sont joints.</td></tr>
 <tr><td>7.</td><td colspan="2">Protection résultant d’une présentation dans une exposition</td></tr>
 <tr><td></td><td>◻</td><td>Cocher cette case si le déposant souhaite bénéficier d’une protection résultant de la présentation de produits ou de services dans une exposition. Si tel est le cas, donner des précisions sur une feuille supplémentaire.</td></tr>
@@ -940,7 +940,7 @@ Numéro de référence du mandataire:[^annexu1-lvlu1-2]
 
 <table>
 <tr><td colspan="3">(Formulaire n<sup>o</sup> 1, page 6)</td></tr>
-<tr><td>11.</td><td colspan="2">Produits ou services Noms des produits ou des services:**[^annexu1-lvlu1-16]**</td></tr>
+<tr><td>11.</td><td colspan="2">Produits ou services Noms des produits ou des services:[^annexu1-lvlu1-16]</td></tr>
 <tr><td></td><td>◻</td><td>Cocher cette case si la place prévue ci-dessus est insuffisante; si tel est le cas, donner le nom des produits ou des services sur une feuille supplémentaire.</td></tr>
 <tr><td>12.</td><td colspan="2">Déclaration relative à l’intention d’utiliser la marque ou à l’usage effectif de la marque; preuve de l’usage effectif</td></tr>
 <tr><td>12.1</td><td>◻</td><td>Cocher cette case si une déclaration est jointe.</td></tr>
@@ -996,7 +996,7 @@ Numéro de référence de la personne qui fait la constitution de mandataire:[^a
 <table>
 <tr><td>1.</td><td colspan="2">Constitution de mandataire</td></tr>
 <tr><td></td><td colspan="2">La personne soussignée constitue comme mandataire la personne indiquée ci-dessous à la rubrique 3.</td></tr>
-<tr><td>2.</td><td colspan="2">Nom de la personne qui fait la constitution de mandataire**[^annexu1-lvlu1-19]**</td></tr>
+<tr><td>2.</td><td colspan="2">Nom de la personne qui fait la constitution de mandataire[^annexu1-lvlu1-19]</td></tr>
 <tr><td>3.</td><td colspan="2">Mandataire</td></tr>
 <tr><td>[tab] 3.1</td><td colspan="2">[tab] Nom:</td></tr>
 <tr><td>[tab] 3.2</td><td colspan="2">[tab] Adresse (y compris le code postal et le pays):</td></tr>
@@ -1080,8 +1080,8 @@ Numéro de référence du mandataire:[^annexu1-lvlu1-23]
 <table>
 <tr><td colspan="3">(Formulaire n<sup>o</sup>3, page 3)</td></tr>
 <tr><td>6.</td><td colspan="2">Indication du ou des changements</td></tr>
-<tr><td>6.1</td><td colspan="2">Eléments à modifier:</td></tr>
-<tr><td></td><td colspan="2">Eléments après modification:[^annexu1-lvlu1-28]</td></tr>
+<tr><td>6.1</td><td colspan="2">Éléments à modifier:</td></tr>
+<tr><td></td><td colspan="2">Éléments après modification:[^annexu1-lvlu1-28]</td></tr>
 <tr><td>6.2</td><td>◻</td><td>Cocher cette case si la place prévue ci-dessus est insuffisante; si tel est le cas, indiquer sur une feuille supplémentaire les éléments à modifier et les éléments après modification.</td></tr>
 <tr><td>7.</td><td colspan="2">Signature ou sceau</td></tr>
 <tr><td>7.1</td><td colspan="2">Nom de la personne physique qui signe ou dont le sceau est utilisé:</td></tr>
@@ -1127,9 +1127,6 @@ Numéro de référence du mandataire:[^annexu1-lvlu1-30]
 <tr><td>2.1</td><td colspan="2">Numéros des enregistrements:</td></tr>
 <tr><td>2.2</td><td colspan="2">Numéros des demandes:[^annexu1-lvlu1-31]</td></tr>
 <tr><td>2.3</td><td>◻</td><td>Si la place prévue au point 2.1 ou 2.2 est insuffisante, cocher cette case et fournir les éléments d’information sur une feuille supplémentaire.</td></tr>
-</table>
-
-<table>
 <tr><td colspan="3">(Formulaire n<sup>o</sup>4, page 2)</td></tr>
 <tr><td>3.</td><td colspan="2">Produits ou services concernés par le changement</td></tr>
 <tr><td>3.1</td><td>◻</td><td>Cocher cette case lorsque tous les produits ou services énumérés dans les demandes ou les enregistrements mentionnés dans la rubrique 2 sont concernés par le changement.</td></tr>
@@ -1178,16 +1175,16 @@ Numéro de référence du mandataire:[^annexu1-lvlu1-30]
 <tr><td>8.2</td><td colspan="2">Si le nouveau propriétaire est une personne morale, dénomination officielle complète de cette personne:</td></tr>
 <tr><td>8.3</td><td colspan="2">Adresse (y compris le code postal et le pays):</td></tr>
 <tr><td></td><td>Numéro(s) de téléphone: (avec l’indicatif de zone)</td><td>Numéro(s) de télécopieur: (avec l’indicatif de zone)</td></tr>
-<tr><td>8.4</td><td colspan="2">Etat dont le nouveau propriétaire est ressortissant:</td></tr>
-<tr><td></td><td colspan="2">Etat du domicile:</td></tr>
-<tr><td></td><td colspan="2">Etat de l’établissement:[^annexu1-lvlu1-37]</td></tr>
+<tr><td>8.4</td><td colspan="2">État dont le nouveau propriétaire est ressortissant:</td></tr>
+<tr><td></td><td colspan="2">État du domicile:</td></tr>
+<tr><td></td><td colspan="2">État de l’établissement:[^annexu1-lvlu1-37]</td></tr>
 </table>
 
 <table>
 <tr><td colspan="4">(Formulaire n<sup>o</sup>4, page 5)</td></tr>
 <tr><td>8.5</td><td colspan="3">Si le nouveau propriétaire est une personne morale, indiquer</td></tr>
 <tr><td></td><td colspan="3">– la forme juridique de la personne morale:</td></tr>
-<tr><td></td><td colspan="3">– l’Etat, et, le cas échéant, la division territoriale de cet Etat, dont la législation a servi de cadre à la constitution de ladite personne morale:</td></tr>
+<tr><td></td><td colspan="3">– l’État, et, le cas échéant, la division territoriale de cet État, dont la législation a servi de cadre à la constitution de ladite personne morale:</td></tr>
 <tr><td>8.6</td><td>◻</td><td colspan="2">Cocher cette case en cas de pluralité de nouveaux propriétaires; si tel est le cas, en dresser la liste sur une feuille supplémentaire et indiquer, pour chacun d’eux, les éléments d’information demandés aux points 8.1 ou 8.2, 8.3, 8.4 et 8.5.[^annexu1-lvlu1-38]</td></tr>
 <tr><td>9.</td><td colspan="3">Mandataire du nouveau propriétaire</td></tr>
 <tr><td>9.1</td><td>◻</td><td colspan="2">Le nouveau propriétaire n’a pas de mandataire.</td></tr>
@@ -1204,7 +1201,7 @@ Numéro de référence du mandataire:[^annexu1-lvlu1-30]
 
 <table>
 <tr><td colspan="3">(Formulaire n<sup>o</sup>4, page 6)</td></tr>
-<tr><td>10.</td><td colspan="2">Domicile élu du nouveau propriétaire**[^annexu1-lvlu1-40]**</td></tr>
+<tr><td>10.</td><td colspan="2">Domicile élu du nouveau propriétaire[^annexu1-lvlu1-40]</td></tr>
 <tr><td>11.</td><td colspan="2">Signature ou sceau</td></tr>
 <tr><td>11.1</td><td colspan="2">Nom de la personne physique qui signe ou dont le sceau est utilisé:</td></tr>
 <tr><td>11.2</td><td colspan="2">Cocher la case appropriée selon que la signature est donnée, ou le sceau utilisé, par ou au nom du</td></tr>
@@ -1466,8 +1463,8 @@ Numéro de référence du mandataire:[^annexu1-lvlu1-52]
 <table>
 <tr><td colspan="3">(Formulaire n<sup>o</sup>7, page 3)</td></tr>
 <tr><td>6.</td><td colspan="2">Indication des erreurs et des rectifications</td></tr>
-<tr><td>6.1</td><td>◻</td><td>Eléments à corriger:</td></tr>
-<tr><td></td><td colspan="2">Eléments après rectification:</td></tr>
+<tr><td>6.1</td><td>◻</td><td>Éléments à corriger:</td></tr>
+<tr><td></td><td colspan="2">Éléments après rectification:</td></tr>
 <tr><td>6.2</td><td>◻</td><td>Cocher cette case si la place prévue ci-dessus est insuffisante; si tel est le cas, indiquer sur une feuille supplémentaire les éléments à rectifier et les éléments après rectification.</td></tr>
 <tr><td>7.</td><td colspan="2">Signature ou sceau</td></tr>
 <tr><td>7.1</td><td colspan="2">Nom de la personne physique qui signe ou dont le sceau est utilisé:</td></tr>
@@ -1527,7 +1524,7 @@ Numéro de référence du mandataire:[^annexu1-lvlu1-58]
 <tr><td></td><td colspan="2">Numéro(s) de téléphone: (avec l’indicatif de zone)</td><td>Numéro(s) de télécopieur: (avec l’indicatif de zone)</td></tr>
 <tr><td>4.3</td><td colspan="3">Numéro d’ordre du pouvoir:[^annexu1-lvlu1-61]</td></tr>
 <tr><td>5.</td><td colspan="3">Domicile élu du titulaire</td></tr>
-<tr><td>6.</td><td colspan="3">Produits ou services**[^annexu1-lvlu1-62]**</td></tr>
+<tr><td>6.</td><td colspan="3">Produits ou services[^annexu1-lvlu1-62]</td></tr>
 <tr><td>6.1</td><td>◻</td><td colspan="2">Le renouvellement est demandé pour tous les produits ou services couverts par l’enregistrement.</td></tr>
 <tr><td>6.2</td><td>◻</td><td colspan="2">Le renouvellement est demandé uniquement pour les produits ou les services ci-après couverts par l’enregistrement:[^annexu1-lvlu1-63]</td></tr>
 <tr><td>6.3</td><td>◻</td><td colspan="2">Le renouvellement est demandé pour tous les produits ou services couverts par l’enregistrement sauf:[^annexu1-lvlu1-64]</td></tr>
@@ -1574,10 +1571,10 @@ Numéro de référence du mandataire:[^annexu1-lvlu1-58]
 [^annexu1-lvlu1-63]: La liste des produits ou des services pour lesquels le renouvellement est demandé doit être présentée de la même façon qu’elle figure dans l’enregistrement (produits ou services groupés selon les classes de la classification de Nice, avec, en premier, l’indication du numéro de la classe correspondante, et présentés dans l’ordre des classes de cette classification lorsqu’ils appartiennent à plus d’une classe).
 [^annexu1-lvlu1-64]: Les produits ou les services pour lesquels le renouvellement n’est pas demandé doivent, lorsqu’ils appartiennent à plusieurs classes de la classification de Nice, être groupés selon les classes de cette classification, avec, en premier, l’indication du numéro de la classe correspondante, et être présentés dans l’ordre des classes de ladite classification.
 
-Champ d’application le 4 avril 2019**[^t-2]**
+Champ d’application le 29 septembre 2022[^t-2]
 
 <table>
-<tr><th>Etats parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Allemagne</td><td>16 juillet</td><td>2004</td><td>16 octobre</td><td>2004</td></tr>
 <tr><td>Australie</td><td>21 octobre</td><td>1997 A</td><td>21 janvier</td><td>1998</td></tr>
 <tr><td>Bahreïn</td><td>18 décembre</td><td>2006 A</td><td>18 mars</td><td>2007</td></tr>
@@ -1590,11 +1587,11 @@ Champ d’application le 4 avril 2019**[^t-2]**
 <tr><td>Costa Rica</td><td>17 juillet</td><td>2008</td><td>17 octobre</td><td>2008</td></tr>
 <tr><td>Croatie</td><td>4 avril</td><td>2006 A</td><td>4 juillet</td><td>2006</td></tr>
 <tr><td>Danemark\*</td><td>28 octobre</td><td>1997</td><td>28 janvier</td><td>1998</td></tr>
-<tr><td>Egypte</td><td>7 juillet</td><td>1999 A</td><td>7 octobre</td><td>1999</td></tr>
+<tr><td>Égypte</td><td>7 juillet</td><td>1999 A</td><td>7 octobre</td><td>1999</td></tr>
 <tr><td>El Salvador</td><td>14 août</td><td>2008 A</td><td>14 novembre</td><td>2008</td></tr>
 <tr><td>Espagne\*</td><td>17 décembre</td><td>1998</td><td>17 mars</td><td>1999</td></tr>
 <tr><td>Estonie</td><td>7 octobre</td><td>2002 A</td><td>7 janvier</td><td>2003</td></tr>
-<tr><td>Etats-Unis</td><td>12 mai</td><td>2000</td><td>12 août</td><td>2000</td></tr>
+<tr><td>États-Unis</td><td>12 mai</td><td>2000</td><td>12 août</td><td>2000</td></tr>
 <tr><td>France</td><td>15 septembre</td><td>2006</td><td>15 décembre</td><td>2006</td></tr>
 <tr><td>Guatemala\*</td><td>12 septembre</td><td>2016 A</td><td>12 décembre</td><td>2016</td></tr>
 <tr><td>Honduras</td><td>22 janvier</td><td>2008 A</td><td>22 avril</td><td>2008</td></tr>
@@ -1627,7 +1624,8 @@ Champ d’application le 4 avril 2019**[^t-2]**
 <tr><td>République tchèque</td><td>3 avril</td><td>1996</td><td>1<sup>er</sup> août</td><td>1996</td></tr>
 <tr><td>Roumanie</td><td>28 avril</td><td>1998 A</td><td>28 juillet</td><td>1998</td></tr>
 <tr><td>Royaume-Uni</td><td>1<sup>er</sup> mai</td><td>1996</td><td>1<sup>er</sup> août</td><td>1996</td></tr>
-<tr><td>[tab] Ile de Man</td><td>1<sup>er</sup> mai</td><td>1996</td><td>1<sup>er</sup> août</td><td>1996</td></tr>
+<tr><td>Gibraltar</td><td>1<sup>er</sup> janvier</td><td>2021</td><td>1<sup>er</sup> janvier</td><td>2021</td></tr>
+<tr><td>[tab] Île de Man</td><td>1<sup>er</sup> mai</td><td>1996</td><td>1<sup>er</sup> août</td><td>1996</td></tr>
 <tr><td>Russie</td><td>11 février</td><td>1998</td><td>11 mai</td><td>1998</td></tr>
 <tr><td>Serbie</td><td>15 juin</td><td>1998 A</td><td>15 septembre</td><td>1998</td></tr>
 <tr><td>Slovaquie</td><td>9 avril</td><td>1997</td><td>9 juillet</td><td>1997</td></tr>
@@ -1637,7 +1635,7 @@ Champ d’application le 4 avril 2019**[^t-2]**
 <tr><td>Trinité-et-Tobago</td><td>16 janvier</td><td>1998</td><td>16 avril</td><td>1998</td></tr>
 <tr><td>Turquie</td><td>1<sup>er</sup> octobre</td><td>2004</td><td>1<sup>er</sup> janvier</td><td>2005</td></tr>
 <tr><td>Ukraine</td><td>30 janvier</td><td>1996</td><td>1<sup>er</sup> août</td><td>1996</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Celles-ci peuvent être consultées à l’adresse du site Internet de l’Organisation mondiale de la propriété intellectuelle www.wipo.int/treaties/fr ou obtenues auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation mondiale de la propriété intellectuelle (OMPI): www.wipo.int/ &gt; Français &gt; Savoirs &gt; Traités administrés par l’OMPI, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-2]: **1997** 2284, **2004** 1131, **2006** 4431, **2007** 4671, **2009** 5125, **2012** 1493, **2014** 889, **2019** 1217. Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 1997 2284](https://fedlex.data.admin.ch/eli/oc/1997/2284_2284_2284); [2004 1131](https://fedlex.data.admin.ch/eli/oc/2004/131); [2006 4431](https://fedlex.data.admin.ch/eli/oc/2006/674); [2007 4671](https://fedlex.data.admin.ch/eli/oc/2007/661); [2009 5125](https://fedlex.data.admin.ch/eli/oc/2009/600); [2012 1493](https://fedlex.data.admin.ch/eli/oc/2012/204); [2014 889](https://fedlex.data.admin.ch/eli/oc/2014/192); [2019 1217](https://fedlex.data.admin.ch/eli/oc/2019/228); [2022 555](https://fedlex.data.admin.ch/eli/oc/2022/555)Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [https://www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
