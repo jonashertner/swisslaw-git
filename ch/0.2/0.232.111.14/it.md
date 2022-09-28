@@ -3,11 +3,11 @@ sr: "0.232.111.14"
 title: Atto di Ginevra dell’Accordo di Lisbona del 20 maggio 2015 sulle denominazioni d’origine e le indicazioni geografiche
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/743"
 language: it
-version: 2021-12-01
+version: 2022-09-29
 adopted: 2015-05-20
 in_force: 2021-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/743/20211201/it/xml/fedlex-data-admin-ch-eli-cc-2021-743-20211201-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/743/20211201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/743/20220929/it/xml/fedlex-data-admin-ch-eli-cc-2021-743-20220929-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/743/20220929/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Concluso a Ginevra il 20 maggio 2015 Approvato dall’Assemblea federale il 19 marzo 2021[^t-1] Strumento di adesione depositato dalla Svizzera il 31 agosto 2021 Entrato in vigore per la Svizzera il 1° dicembre 2021
 
-(Stato 1° dicembre 2021)
+(Stato 29 settembre 2022)
 
 [^t-1]: [RU 2021 742](https://fedlex.data.admin.ch/eli/oc/2021/742)
 
@@ -475,19 +475,25 @@ Ai fini del presente Atto, resta inteso che, qualora alcuni elementi della denom
 
 Ai fini del presente Atto, resta inteso che l’articolo 12 non reca pregiudizio all’applicazione delle disposizioni del presente Atto riguardanti l’utilizzo anteriore, alla luce del fatto che, prima della registrazione internazionale, la denominazione o indicazione che costituisce denominazione d’origine o indicazione geografica già può, in tutto o in parte, acquisire il carattere generico in una Parte contraente diversamente da quanto non avvenga nella Parte contraente d’origine, dal momento che, per esempio, la denominazione o indicazione, o parte di essa, è identica ad un termine d’uso comune come il nome comune di un prodotto o servizio in uso nella Parte contraente in questione o al nome corrente di una varietà di uva in uso nella Parte contraente in questione.
 
-Campo d’applicazione il 1° dicembre 2021
+Campo d’applicazione il 29 settembre 2022[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td>Albania</td><td>26 giugno</td><td>2019 A</td><td>26 febbraio</td><td>2020</td></tr>
 <tr><td>Cambogia\*</td><td>9 marzo</td><td>2018 A</td><td>26 febbraio</td><td>2020</td></tr>
+<tr><td>Capo Verde\*</td><td>6 aprile</td><td>2022 A</td><td>6 luglio</td><td>2022</td></tr>
 <tr><td>Corea del Nord</td><td>8 ottobre</td><td>2019 A</td><td>26 febbraio</td><td>2020</td></tr>
 <tr><td>Francia</td><td>21 gennaio</td><td>2021</td><td>21 aprile</td><td>2021</td></tr>
+<tr><td>Ghana</td><td>3 novembre</td><td>2021 A</td><td>3 febbraio</td><td>2022</td></tr>
 <tr><td>Laos</td><td>20 novembre</td><td>2020 A</td><td>20 febbraio</td><td>2021</td></tr>
 <tr><td>Oman</td><td>30 marzo</td><td>2021 A</td><td>30 giugno</td><td>2021</td></tr>
+<tr><td>Perù</td><td>18 luglio</td><td>2022</td><td>18 ottobre</td><td>2022</td></tr>
+<tr><td>Repubblica Ceca</td><td>2 giugno</td><td>2022 A</td><td>2 settembre</td><td>2022</td></tr>
 <tr><td>Samoa\*</td><td>2 ottobre</td><td>2019 A</td><td>26 febbraio</td><td>2020</td></tr>
 <tr><td>Svizzera</td><td>31 agosto</td><td>2021 A</td><td>1° dicembre</td><td>2021</td></tr>
 <tr><td>Ungheria</td><td>10 giugno</td><td>2021</td><td>10 settembre</td><td>2021</td></tr>
 <tr><td>Unione europea (UE)\*</td><td>26 novembre</td><td>2019 A</td><td>26 febbraio</td><td>2020</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni Le riserve e le dichiarazioni non sono pubblicate nella RU. I testi in francese e inglese si possono consultare sul sito Internet dell’Organizzazione mondiale della proprietà intellettuale: https://www.wipo.int/treaties/fr/index.html o richiedere alla Direzione del diritto internazionale pubblico (DDIP), Sezione dei trattati internazionali, 3003 Berna. [tab]</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. I testi, francese ed inglese, possono essere consultati sul sito Internet dell’Organizzazione mondiale della proprietà intellettuale: www.wipo.int/ &gt; Français &gt; Savoirs &gt; Traités administrés par l’OMPI, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione trattati internazionali, 3003 Berna.</td></tr>
 </table>
+
+[^t-2]: [RU 2021 743](https://fedlex.data.admin.ch/eli/oc/2021/743); [2022 554](https://fedlex.data.admin.ch/eli/oc/2022/554). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: https://www.fedlex.admin.ch/it/treaty

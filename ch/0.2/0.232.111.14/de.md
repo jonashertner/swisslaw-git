@@ -3,11 +3,11 @@ sr: "0.232.111.14"
 title: Genfer Akte des Lissabonner Abkommens vom 20. Mai 2015 über Ursprungsbezeichnungen und geografische Angaben
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/743"
 language: de
-version: 2021-12-01
+version: 2022-09-29
 adopted: 2015-05-20
 in_force: 2021-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/743/20211201/de/xml/fedlex-data-admin-ch-eli-cc-2021-743-20211201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/743/20211201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/743/20220929/de/xml/fedlex-data-admin-ch-eli-cc-2021-743-20220929-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/743/20220929/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **2021** 743; BBl **2020** 5827
 
 Abgeschlossen in Genf am 20. Mai 2015 Von der Bundesversammlung genehmigt am 19. März 2021[^t-1] Schweizerische Beitrittsurkunde hinterlegt am 31. August 2021 In Kraft getreten für die Schweiz am 1. Dezember 2021
 
-(Stand am 1. Dezember 2021)
+(Stand am 29. September 2022)
 
 [^t-1]: [AS 2021 742](https://fedlex.data.admin.ch/eli/oc/2021/742)
 
@@ -469,21 +469,25 @@ Für die Zwecke dieser Akte gilt, dass in Fällen, in denen bestimmte Komponente
 
 Für die Zwecke dieser Akte gilt, dass Artikel 12 die eine ältere Verwendung betreffenden Bestimmungen dieser Akte nicht berührt, da die die Ursprungsbezeichnung oder geografische Angabe darstellende Bezeichnung oder Angabe vor der internationalen Registrierung in einer anderen Vertragspartei als der Ursprungsvertragspartei möglicherweise bereits ganz oder teilweise eine Gattungsbezeichnung darstellt, beispielsweise weil die Bezeichnung oder Angabe oder ein Teil davon mit einem Ausdruck identisch ist, der in dieser Vertragspartei im allgemeinen Sprachgebrauch als der übliche Name einer Ware oder Dienstleistung gebräuchlich ist, oder weil sie mit dem üblichen Namen einer Rebsorte in dieser Vertragspartei identisch ist.
 
-Geltungsbereich am 1. Dezember 2021**[^t-2]**
+Geltungsbereich am 29. September 2022[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td>Albanien</td><td>26. Juni</td><td>2019 B</td><td>26. Februar</td><td>2020</td></tr>
 <tr><td>Europäische Union (EU)\*</td><td>26. November</td><td>2019 B</td><td>26. Februar</td><td>2020</td></tr>
 <tr><td>Frankreich</td><td>21. Januar</td><td>2021</td><td>21. April</td><td>2021</td></tr>
+<tr><td>Ghana</td><td>3. November</td><td>2021 B</td><td>3. Februar</td><td>2022</td></tr>
 <tr><td>Kambodscha\*</td><td>9. März</td><td>2018 B</td><td>26. Februar</td><td>2020</td></tr>
+<tr><td>Kap Verde\*</td><td>6. April</td><td>2022 B</td><td>6. Juli</td><td>2022</td></tr>
 <tr><td>Korea (Nord-)</td><td>8. Oktober</td><td>2019 B</td><td>26. Februar</td><td>2020</td></tr>
 <tr><td>Laos</td><td>20. November</td><td>2020 B</td><td>20. Februar</td><td>2021</td></tr>
 <tr><td>Oman</td><td>30. März</td><td>2021 B</td><td>30. Juni</td><td>2021</td></tr>
+<tr><td>Peru</td><td>18. Juli</td><td>2022</td><td>18. Oktober</td><td>2022</td></tr>
 <tr><td>Samoa\*</td><td>2. Oktober</td><td>2019 B</td><td>26. Februar</td><td>2020</td></tr>
 <tr><td>Schweiz</td><td>31. August</td><td>2021 B</td><td>1. Dezember</td><td>2021</td></tr>
+<tr><td>Tschechische Republik</td><td>2. Juni</td><td>2022 B</td><td>2. September</td><td>2022</td></tr>
 <tr><td>Ungarn</td><td>10. Juni</td><td>2021</td><td>10. September</td><td>2021</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. [tab]</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Weltorganisation für geistiges Eigentum (WIPO): http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. [tab]</td></tr>
 </table>
 
-[^t-2]: Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: www.fedlex.admin.ch/de/treaty
+[^t-2]: [AS 2021 743](https://fedlex.data.admin.ch/eli/oc/2021/743); [2022 554](https://fedlex.data.admin.ch/eli/oc/2022/554). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [https://www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty)
