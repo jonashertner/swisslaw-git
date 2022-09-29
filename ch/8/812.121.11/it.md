@@ -4,11 +4,11 @@ title: "Ordinanza del DFI del 30 maggio 2011 sugli elenchi degli stupefacenti, d
 short: OEStup-DFI
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/363"
 language: it
-version: 2022-08-01
+version: 2022-09-30
 adopted: 2011-05-30
 in_force: 2011-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/363/20220801/it/xml/fedlex-data-admin-ch-eli-cc-2011-363-20220801-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/363/20220801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/363/20220930/it/xml/fedlex-data-admin-ch-eli-cc-2011-363-20220930-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/363/20220930/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/363/20220801/it"
 
 (Ordinanza del DFI sugli elenchi degli stupefacenti, OEStup-DFI)
 
-del 30 maggio 2011 (Stato 1° agosto 2022) (Stato 1° agosto 2022)
+del 30 maggio 2011 (Stato 30 settembre 2022)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -111,7 +111,7 @@ L’Istituto verifica regolarmente i singoli elenchi sulla base degli sviluppi i
 
 La presente ordinanza entra in vigore il 1° luglio 2011.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 2 cpv. 1)
 
@@ -191,7 +191,7 @@ Allegato 1*[^t-1]*
 <tr><td>**Canapa, olio** vedere sotto Canapa (fatte salve le disposizioni applicabili all’olio di canapa per scopi medici)</td><td>7611746999485</td><td>d</td></tr>
 <tr><td>**Canapa, resina (hashish)** vedere sotto Canapa (fatte salve le disposizioni applicabili alla resina di canapa per scopi medici)</td><td>7611746999508</td><td>d</td></tr>
 <tr><td>**Canapa, resina (hashish)** **per scopi medici** vedere sotto Canapa per scopi medici</td><td>7611746946434</td><td>a</td></tr>
-<tr><td>**Canapa, semi** **destinati alla coltivazione per la fabbricazione farmaceutica** per piante di canapa con una concentrazione media di THC totale pari almeno all’1,0 %</td><td>7611746946311</td><td>a</td></tr>
+<tr><td>**Canapa, semi** **destinati alla coltivazione** **per la fabbricazione farmaceutica** per piante di canapa con una concentrazione media di THC totale pari almeno all’1,0 %</td><td>7611746946311</td><td>a</td></tr>
 <tr><td>**Canapa, Semi** per piante di canapa con una concentrazione media di THC totale pari almeno all’1,0 % (fatte salve le disposizioni applicabili ai semi di canapa destinati alla coltivazione per la fabbricazione farmaceutica)</td><td>7611746999522</td><td>d</td></tr>
 <tr><td>**Canapa, talee** **destinate alla coltivazione per la fabbricazione farmaceutica** per piante di canapa con una concentrazione media di THC totale pari almeno all’1,0 %</td><td>7611746946311</td><td>a</td></tr>
 <tr><td>**Semi di canapa** per piante di canapa con una concentrazione media di THC totale pari almeno all’1,0 % (fatte salve le disposizioni applicabili ai semi di canapa destinati alla coltivazione per la fabbricazione farmaceutica)</td><td>7611746999522</td><td>d</td></tr>
@@ -225,7 +225,7 @@ Allegato 1*[^t-1]*
 <tr><td>**coca, foglie**</td><td>7611746999478</td><td>a</td></tr>
 <tr><td>**cocaina, tinture**</td><td>7611746999454</td><td>a</td></tr>
 <tr><td>**cocaina**</td><td>7611746021001</td><td>a</td></tr>
-<tr><td>**codeina** *(fatte salve le disposizioni applicabili ai prep**a**rati contenenti codeina)*</td><td>7611746022008</td><td>a</td></tr>
+<tr><td>**codeina** *(fatte salve le disposizioni applicabili ai preparati contenenti codeina)*</td><td>7611746022008</td><td>a</td></tr>
 <tr><td>I preparati contenenti **codeina** sono esclusi parzialmente dalle misure di controllo quando contengono una o più altre componenti (principi attivi o sostanze ausiliarie) e quando la quantità di codeina, calcolata come base, non supera i 100 mg per unità di somministrazione o la concentrazione non è superiore al 2,5 % nelle forme non divise. L’Istituto attribuisce a questi preparati una delle categorie di vendita al pubblico (vedere art. 40 cpv. 1–3 dell’O del 21 settembre 2018[^annex1-lvlu1-1] sui medicamenti).</td><td></td><td>c</td></tr>
 <tr><td>**codeina-N-ossido**</td><td>7611746023005</td><td>a</td></tr>
 <tr><td>**codossima**</td><td>7611746024002</td><td>a</td></tr>
@@ -244,7 +244,7 @@ Allegato 1*[^t-1]*
 <tr><td>**delorazepam**</td><td>7611746180005</td><td>b</td></tr>
 <tr><td>**desomorfina**</td><td>7611746025009</td><td>a</td></tr>
 <tr><td>**destromoramide**</td><td>7611746026006</td><td>a</td></tr>
-<tr><td>**destropropossifene** *(fatte salve le disposizioni applic**a**bili ai preparati contenenti destropropossifene)*</td><td>7611746027003</td><td>a</td></tr>
+<tr><td>**destropropossifene** *(fatte salve le disposizioni applicabili ai preparati contenenti destropropossifene)*</td><td>7611746027003</td><td>a</td></tr>
 <tr><td>I preparati contenenti **destropropossifene** sono esclusi parzialmente dalle misure di controllo quando sono destinati a un’applicazione per via orale e quando la dose, calcolata come base, non supera i 135 mg per unità di somministrazione o quando la concentrazione non è superiore a 2,5 % nei preparati non suddivisi. Non devono contenere altri stupefacenti o sostanze psicotrope. L’Istituto attribuisce a questi preparati una delle categorie di vendita al pubblico (vedere art. 40 cpv. 1–3 dell’O del 21 settembre 2018 sui medicamenti).</td><td></td><td>c</td></tr>
 <tr><td>**DET** vedere sotto N,N-dietiltriptamina</td><td>7611746135005</td><td>d</td></tr>
 <tr><td>**dexanfetamina** [(+)-isomero]</td><td>7611746119005</td><td>a</td></tr>
@@ -260,9 +260,9 @@ Allegato 1*[^t-1]*
 <tr><td>**dietiltiambutene**</td><td>7611746312000</td><td>a</td></tr>
 <tr><td>**N,N-dietiltriptamina** (DET)</td><td>7611746135005</td><td>d</td></tr>
 <tr><td>**difenossilato**</td><td>7611746038009</td><td>a</td></tr>
-<tr><td>**difenossina** *(fatte salve le disposizioni applic**a**bili ai preparati contenenti difenossina)*</td><td>7611746031000</td><td>a</td></tr>
+<tr><td>**difenossina** *(fatte salve le disposizioni applicabili ai preparati contenenti difenossina)*</td><td>7611746031000</td><td>a</td></tr>
 <tr><td>I preparati contenenti **difenossina** sono esclusi parzialmente dalle misure di controllo quando contengono, per unità di somministrazione, al massimo 0,5 mg di difenossina calcolata come base e una quantità di atropina solfato uguale al 5 % al minimo della quantità di difenossina. L’Istituto attribuisce a questi preparati una delle categorie di vendita al pubblico (vedere art. 40 cpv. 1–3 dell’O del 21 settembre 2018 sui medicamenti).</td><td></td><td>c</td></tr>
-<tr><td>**diidrocodeina** *(fatte salve le disposizioni applicab**i**li ai preparati contenenti diidrocodeina)*</td><td>7611746032007</td><td>a</td></tr>
+<tr><td>**diidrocodeina** *(fatte salve le disposizioni applicabili ai preparati contenenti diidrocodeina)*</td><td>7611746032007</td><td>a</td></tr>
 <tr><td>I preparati contenenti **diidrocodeina** sono esclusi parzialmente dalle misure di controllo quando contengono una o più altre componenti (principi attivi o sostanze ausiliarie) e quando la quantità di diidrocodeina, calcolata come base, non supera i 100 mg per unità di somministrazione o quando la concentrazione non è superiore a 2,5 % nelle forme non suddivise. L’Istituto attribuisce a questi preparati una delle categorie di vendita al pubblico (vedere art. 40 cpv. 1–3 dell’O del 21 settembre 2018 sui medicamenti).</td><td></td><td>c</td></tr>
 <tr><td>**diidrocodeinone** vedere sotto idrocodone</td><td>7611746051008</td><td>a</td></tr>
 <tr><td>**diidroetorfina**</td><td>7611746260004</td><td>a</td></tr>
@@ -321,7 +321,7 @@ Allegato 1*[^t-1]*
 <tr><td>**etilloflazepato**</td><td>7611746185000</td><td>b</td></tr>
 <tr><td>**α****-etil-N-metil-3,4-metilendiossianfetamina** (MBDB)</td><td>7611746976806</td><td>d</td></tr>
 <tr><td>**etilmetiltiambutene**</td><td>7611746042006</td><td>a</td></tr>
-<tr><td>**etilmorfina** *(fatte salve le disposizioni applic**a**bili ai preparati contenenti etilmorfina)*</td><td>7611746043003</td><td>a</td></tr>
+<tr><td>**etilmorfina** *(fatte salve le disposizioni applicabili ai preparati contenenti etilmorfina)*</td><td>7611746043003</td><td>a</td></tr>
 <tr><td>I preparati contenenti **etilmorfina** sono esclusi parzialmente dalle misure di controllo quando contengono una o più altre componenti (principi attivi o sostanze ausiliarie) e quando la quantità di etilmorfina, calcolata come base, non supera i 100 mg per unità di somministrazione o quando la concentrazione non supera 2,5 % nelle forme non suddivise. L’Istituto attribuisce a questi preparati una delle categorie di vendita al pubblico (vedere art. 40 cpv. 1–3 dell’O del 21 settembre 2018 sui medicamenti).</td><td></td><td>c</td></tr>
 <tr><td>**etilone,** 1-(2H-1,3-benzodiossol-5-il)-2-(etilamino)propan-1-one</td><td>7611746958086</td><td>d</td></tr>
 <tr><td>**4-etiltio-2,5-dimetossifenetilamina** (2C-T-2)</td><td>7611746137016</td><td>d</td></tr>
@@ -473,7 +473,7 @@ Allegato 1*[^t-1]*
 <tr><td>**moramide, intermedio del**</td><td>7611746076001</td><td>a</td></tr>
 <tr><td>**morferidina**</td><td>7611746077008</td><td>a</td></tr>
 <tr><td>**morfina**</td><td>7611746078005</td><td>a</td></tr>
-<tr><td>**morfina metobromuro e altri derivati morfinici ad azoto pentavalente**</td><td>7611746079002</td><td>a</td></tr>
+<tr><td>**morfina metobromuro e altri derivati morfinici ad** **azoto pentavalente**</td><td>7611746079002</td><td>a</td></tr>
 <tr><td>**morfina N-ossido**</td><td>7611746080008</td><td>a</td></tr>
 <tr><td>**MPPP** vedere sotto 1-metil-4-fenil-4-propionossipiperidina</td><td>7611746070009</td><td>a</td></tr>
 <tr><td>**MT-45,** 1-cicloesil-4-(1,2-difeniletil)piperazina</td><td>7611746958130</td><td>d</td></tr>
@@ -503,9 +503,9 @@ Allegato 1*[^t-1]*
 <tr><td>**opii extractum sicc 20 % morfina** vedere sotto oppio, estratto secco 20 % morfina</td><td>7611746157908</td><td>a</td></tr>
 <tr><td>**opii pulvis normatus 10 % morfina** vedere sotto oppio, polvere standardizzata 10 % morfina</td><td>7611746078302</td><td>a</td></tr>
 <tr><td>**opii tinctura normata 1 % morfina** vedere sotto oppio, tintura standardizzata 1 % morfina</td><td>7611746158905</td><td>a</td></tr>
-<tr><td>**oppio/oppio grezzo** *(fatte salve le disposizioni applicabiliai preparati contenenti oppio)*</td><td>7611746160007</td><td>a</td></tr>
+<tr><td>**oppio/oppio grezzo** *(fatte salve le disposizioni* *applicabiliai preparati contenenti oppio)*</td><td>7611746160007</td><td>a</td></tr>
 <tr><td>I preparati che contengono **oppio** sono esclusi parzialmente dalle misure di controllo quando contengono al massimo 0,2 % di morfina calcolata come base nonché una o più altre componenti (principi attivi o sostanze ausiliarie), in modo tale che la morfina non possa essere estratta in una proporzione che costituirebbe un pericolo per la salute pubblica o con dei mezzi facili da applicare e che pure i suoi preparati non possano essere utilizzati in tale proporzione. L’Istituto attribuisce a questi preparati una delle categorie di vendita al pubblico (vedere art. 40 cpv. 1–3 dell’O del 21 settembre 2018 sui medicamenti).</td><td></td><td>c</td></tr>
-<tr><td>**oppio da fumare e residui provenienti dalla sua fabbricazione o utilizzazione**</td><td>7611746131007</td><td>d</td></tr>
+<tr><td>**oppio da fumare e residui provenienti dalla sua** **fabbricazione o utilizzazione**</td><td>7611746131007</td><td>d</td></tr>
 <tr><td>**oppio, estratto secco 20 % morfina**</td><td>7611746157908</td><td>a</td></tr>
 <tr><td>**oppio, polvere standardizzata 10 % morfina**</td><td>7611746078302</td><td>a</td></tr>
 <tr><td>**oppio, tintura crocata 1 % morfina**</td><td>7611746091905</td><td>a</td></tr>
@@ -516,7 +516,7 @@ Allegato 1*[^t-1]*
 <tr><td>**oxazepam**</td><td>7611746211006</td><td>b</td></tr>
 <tr><td>**oxazolam**</td><td>7611746212003</td><td>b</td></tr>
 <tr><td>**paglia di papavero, concentrato di** Il concentrato di paglia di papavero è il prodotto ottenuto dalla lavorazione della paglia di papavero al fine di concentrare i suoi alcaloidi, quando questo prodotto è messo in commercio.</td><td>7611746075004</td><td>a</td></tr>
-<tr><td>**paglia di papavero per la fabbricazione di stupef****a****centi**</td><td>7611746074007</td><td>a</td></tr>
+<tr><td>**paglia di papavero per la fabbricazione** **di stupefacenti**</td><td>7611746074007</td><td>a</td></tr>
 <tr><td>**panaeolus** vedere sotto funghi allucinogeni</td><td>7611746370000</td><td>d</td></tr>
 <tr><td>**paraesile** (sinesile)</td><td>7611746149002</td><td>d</td></tr>
 <tr><td>**para-fluorofentanile** vedere sotto p-fluorofentanile</td><td>7611746048008</td><td>a</td></tr>
@@ -576,7 +576,7 @@ Allegato 1*[^t-1]*
 <tr><td>**temazepam**</td><td>7611746220008</td><td>b</td></tr>
 <tr><td>**tenociclidina** (TCP)</td><td>7611746154006</td><td>d</td></tr>
 <tr><td>**tetrabamato**</td><td>7611746998358</td><td>b</td></tr>
-<tr><td>**(-)-trans-delta-9-tetraidrocannabinolo per scopi medici** (dronabinolo, [-]-trans-Δ<sup>9</sup>-THC)</td><td>7611746946380</td><td>a</td></tr>
+<tr><td>**(-)-trans-delta-9-tetraidrocannabinolo per scopi** **medici** (dronabinolo, [-]-trans-Δ<sup>9</sup>-THC)</td><td>7611746946380</td><td>a</td></tr>
 <tr><td>**(-)-trans-delta-9-tetraidrocannabinolo** (dronabinolo, [-]-trans-Δ<sup>9</sup>-THC) (fatte salve le disposizioni applicabili al (-)-trans-delta-9-tetraidrocannabinolo per scopi medici)</td><td>7611746155010</td><td>d</td></tr>
 <tr><td>**Tetraidrocannabinolo (THC) per scopi medici** tutti gli isomeri e le loro varianti stereochimiche salvo (-)-trans-Δ<sup>9</sup>-THC</td><td>7611746946427</td><td>a</td></tr>
 <tr><td>**Tetraidrocannabinolo (THC)** tutti gli isomeri e le loro varianti stereochimiche salvo (-)-trans-Δ<sup>9</sup>-THC (fatte salve le disposizioni applicabili al tetraidrocannabinolo (THC) per scopi medici)</td><td>7611746155003</td><td>d</td></tr>
@@ -608,7 +608,7 @@ Allegato 1*[^t-1]*
 
 [^annex1-lvlu1-1]: [RS 812.212.21](https://fedlex.data.admin.ch/eli/cc/2018/588). Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)**)** con effetto dal 1° gen. 2019. Di detto adeguamento è tenuto conto in tutto il presente teso.
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 (art. 2 cpv. 1)
 
@@ -646,7 +646,7 @@ Allegato 2*[^t-2]*
 <tr><td>**Canapa, estratto per scopi medici** vedere sotto Canapa per scopi medici</td><td colspan="2">7611746946335</td><td>a</td></tr>
 <tr><td>**Canapa, olio** **per scopi medici** vedere sotto Canapa per scopi medici</td><td colspan="2">7611746946342</td><td>a</td></tr>
 <tr><td>**Canapa, resina (hashish)** **per scopi medici** vedere sotto Canapa per scopi medici</td><td colspan="2">7611746946434</td><td>a</td></tr>
-<tr><td>**Canapa, semi** **destinati alla coltivazione per la fabbricazione farmaceutica** per piante di canapa con una concentrazione media di THC totale pari almeno all’1,0 %</td><td colspan="2">7611746946311</td><td>a</td></tr>
+<tr><td>**Canapa, semi** **destinati alla coltivazione** **per la fabbricazione farmaceutica** per piante di canapa con una concentrazione media di THC totale pari almeno all’1,0 %</td><td colspan="2">7611746946311</td><td>a</td></tr>
 <tr><td>**Canapa, talee** **destinate alla coltivazione per la fabbricazione farmaceutica** per piante di canapa con una concentrazione media di THC totale pari almeno all’1,0 %</td><td colspan="2">7611746946311</td><td>a</td></tr>
 <tr><td>**Canapa, tintura per scopi medici** vedere sotto Canapa per scopi medici</td><td colspan="2">7611746946298</td><td>a</td></tr>
 <tr><td>**carfentanil**</td><td colspan="2">7611746958161</td><td>a</td></tr>
@@ -656,18 +656,18 @@ Allegato 2*[^t-2]*
 <tr><td>**coca, foglie**</td><td colspan="2">7611746999478</td><td>a</td></tr>
 <tr><td>**cocaina, tinture**</td><td colspan="2">7611746999454</td><td>a</td></tr>
 <tr><td>**cocaina**</td><td colspan="2">7611746021001</td><td>a</td></tr>
-<tr><td>**codeina** *(fatte salve le disposizioni applicabili ai prep**a**rati contenenti codeina)*</td><td colspan="2">7611746022008</td><td>a</td></tr>
+<tr><td>**codeina** *(fatte salve le disposizioni applicabili ai preparati contenenti codeina)*</td><td colspan="2">7611746022008</td><td>a</td></tr>
 <tr><td>**codeina-N-ossido**</td><td colspan="2">7611746023005</td><td>a</td></tr>
 <tr><td>**codossima**</td><td colspan="2">7611746024002</td><td>a</td></tr>
 <tr><td>**desomorfina**</td><td colspan="2">7611746025009</td><td>a</td></tr>
 <tr><td>**destromoramide**</td><td colspan="2">7611746026006</td><td>a</td></tr>
-<tr><td>**destropropossifene** *(fatte salve le disposizioni applic**a**bili ai preparati contenenti destropropossifene)*</td><td colspan="2">7611746027003</td><td>a</td></tr>
+<tr><td>**destropropossifene** *(fatte salve le disposizioni applicabili ai preparati contenenti destropropossifene)*</td><td colspan="2">7611746027003</td><td>a</td></tr>
 <tr><td>**dexanfetamina** [(+)-isomero]</td><td colspan="2">7611746119005</td><td>a</td></tr>
 <tr><td>**diampromide**</td><td colspan="2">7611746029007</td><td>a</td></tr>
 <tr><td>**dietiltiambutene**</td><td colspan="2">7611746312000</td><td>a</td></tr>
 <tr><td>**difenossilato**</td><td colspan="2">7611746038009</td><td>a</td></tr>
-<tr><td>**difenossina** *(fatte salve le disposizioni applic**a**bili ai preparati contenenti difenossina)*</td><td colspan="2">7611746031000</td><td>a</td></tr>
-<tr><td>**diidrocodeina** *(fatte salve le disposizioni applicab**i**li ai preparati contenenti diidrocodeina)*</td><td colspan="2">7611746032007</td><td>a</td></tr>
+<tr><td>**difenossina** *(fatte salve le disposizioni applicabili ai preparati contenenti difenossina)*</td><td colspan="2">7611746031000</td><td>a</td></tr>
+<tr><td>**diidrocodeina** *(fatte salve le disposizioni applicabili ai preparati contenenti diidrocodeina)*</td><td colspan="2">7611746032007</td><td>a</td></tr>
 <tr><td>**diidrocodeinone** vedere sotto idrocodone</td><td colspan="2">7611746051008</td><td>a</td></tr>
 <tr><td>**diidroetorfina**</td><td colspan="2">7611746260004</td><td>a</td></tr>
 <tr><td>**diidromorfina**</td><td colspan="2">7611746033004</td><td>a</td></tr>
@@ -682,7 +682,7 @@ Allegato 2*[^t-2]*
 <tr><td>**drotebanolo**</td><td colspan="2">7611746040002</td><td>a</td></tr>
 <tr><td>**ecgonina e suoi esteri e derivati trasformabili in ecgonina e cocaina**</td><td colspan="2">7611746041009</td><td>a</td></tr>
 <tr><td>**etilmetiltiambutene**</td><td colspan="2">7611746042006</td><td>a</td></tr>
-<tr><td>**etilmorfina** *(fatte salve le disposizioni applic**a**bili ai preparati contenenti etilmorfina)*</td><td colspan="2">7611746043003</td><td>a</td></tr>
+<tr><td>**etilmorfina** *(fatte salve le disposizioni applicabili ai preparati contenenti etilmorfina)*</td><td colspan="2">7611746043003</td><td>a</td></tr>
 <tr><td>**etonitazene**</td><td colspan="2">7611746044000</td><td>a</td></tr>
 <tr><td>**etorfina**</td><td colspan="2">7611746045007</td><td>a</td></tr>
 <tr><td>**etoxeridina**</td><td colspan="2">7611746046004</td><td>a</td></tr>
@@ -697,7 +697,7 @@ Allegato 2*[^t-2]*
 <tr><td>**fenoperidina**</td><td colspan="2">7611746102007</td><td>a</td></tr>
 <tr><td>**fentanile**</td><td colspan="2">7611746047001</td><td>a</td></tr>
 <tr><td>**p-fluorofentanile**</td><td colspan="2">7611746048008</td><td>a</td></tr>
-<tr><td>**folcodina** *(fatte salve le disposizioni applicab**i**li ai preparati contenenti folcodina)*</td><td colspan="2">7611746103004</td><td>a</td></tr>
+<tr><td>**folcodina** *(fatte salve le disposizioni applicabili ai preparati contenenti folcodina)*</td><td colspan="2">7611746103004</td><td>a</td></tr>
 <tr><td>**furetidina**</td><td colspan="2">7611746049005</td><td>a</td></tr>
 <tr><td>**GHB** vedere sotto acido 4-idrossibutirrico</td><td colspan="2">7611746400004</td><td>a</td></tr>
 <tr><td>**idrocodone**</td><td colspan="2">7611746051008</td><td>a</td></tr>
@@ -765,7 +765,7 @@ Allegato 2*[^t-2]*
 <tr><td>**ossicodone**</td><td colspan="2">7611746092001</td><td>a</td></tr>
 <tr><td>**ossimorfone**</td><td colspan="2">7611746093008</td><td>a</td></tr>
 <tr><td>**paglia di papavero, concentrato di** Il concentrato di paglia di papavero è il prodotto ottenuto dalla lavorazione della paglia di papavero al fine di concentrare i suoi alcaloidi, quando questo prodotto è messo in commercio.</td><td colspan="2">7611746075004</td><td>a</td></tr>
-<tr><td>**paglia di papavero per la fabbricazione di stupef****a****centi**</td><td colspan="2">7611746074007</td><td>a</td></tr>
+<tr><td>**paglia di papavero per la fabbricazione di stupefacenti**</td><td colspan="2">7611746074007</td><td>a</td></tr>
 <tr><td>**para-fluorofentanile** vedere sotto p-fluorofentanile</td><td colspan="2">7611746048008</td><td>a</td></tr>
 <tr><td>**PCP** vedere sotto fenciclidina</td><td colspan="2">7611746124009</td><td>a</td></tr>
 <tr><td>**pentazocina** [(±)-isomero; cis ]</td><td colspan="2">7611746094005</td><td>a</td></tr>
@@ -787,7 +787,7 @@ Allegato 2*[^t-2]*
 <tr><td>**tapentadolo**</td><td colspan="2">7611746990888</td><td>a</td></tr>
 <tr><td>**tebacone**</td><td colspan="2">7611746113003</td><td>a</td></tr>
 <tr><td>**tebaina**</td><td colspan="2">7611746114000</td><td>a</td></tr>
-<tr><td>**(-)-trans-delta-9-tetraidrocannabinolo per scopi medici** (dronabinolo, [-]-trans-Δ<sup>9</sup>-THC)</td><td colspan="2">7611746946380</td><td>a</td></tr>
+<tr><td>**(-)-trans-delta-9-tetraidrocannabinolo per scopi** **medici** (dronabinolo, [-]-trans-Δ<sup>9</sup>-THC)</td><td colspan="2">7611746946380</td><td>a</td></tr>
 <tr><td>**Tetraidrocannabinolo (THC) per scopi medici** tutti gli isomeri e le loro varianti stereochimiche salvo (-)-trans-Δ<sup>9</sup>-THC</td><td colspan="2">7611746946427</td><td>a</td></tr>
 <tr><td>**tilidina** [(±)-isomero; trans]</td><td colspan="2">7611746116004</td><td>a</td></tr>
 <tr><td>**tiofentanile**</td><td colspan="2">7611746115007</td><td>a</td></tr>
@@ -795,7 +795,7 @@ Allegato 2*[^t-2]*
 <tr><td>**zipeprolo**</td><td colspan="2">7611746232001</td><td>a</td></tr>
 </table>
 
-Allegato 3*[^t-3]*
+Allegato 3[^t-3]
 
 (art. 2 cpv. 1)
 
@@ -905,7 +905,7 @@ Allegato 4
 <tr><td>I preparati che contengono **oppio** sono esclusi parzialmente dalle misure di controllo quando contengono al massimo 0,2 % di morfina calcolata come base nonché una o più altre componenti (principi attivi o sostanze ausiliarie), in modo tale che la morfina non possa essere estratta in una proporzione che costituirebbe un pericolo per la salute pubblica o con dei mezzi facili da applicare e che pure i suoi preparati non possano essere utilizzati in tale proporzione. L’Istituto attribuisce a questi preparati una delle categorie di vendita al pubblico (vedere art. 40 cpv. 1–3 dell’O del 21 settembre 2018 sui medicamenti).</td><td></td><td>c</td></tr>
 </table>
 
-Allegato 5*[^t-4]*
+Allegato 5[^t-4]
 
 (art. 2 cpv. 1)
 
@@ -1087,7 +1087,7 @@ Allegato 5*[^t-4]*
 <tr><td>**25C-NBOMe,** (2-(4-cloro-2,5-dimetossifenil)-N-(2-metossibenzil)etilammina</td><td>7611746963899</td><td>d</td></tr>
 <tr><td>**25I-NBOMe,** (2-(4-iodio-2,5-dimetossifenil)-N-(2-metossibenzil)etilammina</td><td>7611746958468</td><td>d</td></tr>
 <tr><td>**Ocfentanil****,** N-(2-fluoropenil)-2-metossi-N-[1-(2-feniletil)piperidina-4-il]acetamide</td><td>7611746941170</td><td>d</td></tr>
-<tr><td>**oppio da fumare e residui provenienti dalla sua fabbricazione o utilizzazione**</td><td>7611746131007</td><td>d</td></tr>
+<tr><td>**oppio da fumare e residui provenienti dalla sua** **fabbricazione o utilizzazione**</td><td>7611746131007</td><td>d</td></tr>
 <tr><td>**panaeolus** vedere sotto funghi allucinogeni</td><td>7611746370000</td><td>d</td></tr>
 <tr><td>**paraesile** (sinesile)</td><td>7611746149002</td><td>d</td></tr>
 <tr><td>**para-metil-4-metilaminorex,** 4,4’-DMAR</td><td>7611746958116</td><td>d</td></tr>
@@ -1135,13 +1135,13 @@ Allegato 5*[^t-4]*
 <tr><td>**XLR-11;** [1-(5-fluoropentil)-1H-indolo-3-il](2,2,3,3-tetrametilciclopropil)metanone</td><td>7611746960737</td><td>d</td></tr>
 </table>
 
-Allegato 6*[^t-5]*
+Allegato 6[^t-5]
 
 (art. 2 cpv. 2)
 
 ## Elenco e: Materie prime e prodotti con presunti effetti simili agli stupefacenti
 
-[^t-5]: Nuovo testo giusta il n. I dell’O del DFI del 21 nov. 2011 ([RU 2011 5649](https://fedlex.data.admin.ch/eli/oc/2011/797)). Aggiornato dai n. I delle O del DFI del 20 nov. 2012 ([RU 2012 6803](https://fedlex.data.admin.ch/eli/oc/2012/823)), dell’8 nov. 2013 ([RU 2013 4515](https://fedlex.data.admin.ch/eli/oc/2013/797)), del 3 nov. 2014 ([RU 2014 4381](https://fedlex.data.admin.ch/eli/oc/2014/721)), del 2 nov. 2015 ([RU 2015 5093](https://fedlex.data.admin.ch/eli/oc/2015/834)), del 1° nov. 2016 ([RU 2016 4197](https://fedlex.data.admin.ch/eli/oc/2016/705)), dal n. I cpv. 1 dell’O del DFI del 18 ago. 2017 ([RU 2017 5003](https://fedlex.data.admin.ch/eli/oc/2017/539)), dai n. I delle O del DFI del 2 feb. 2018 ([RU 2018 949](https://fedlex.data.admin.ch/eli/oc/2018/132)), del 2 nov. 2018 ([RU 2018 4287](https://fedlex.data.admin.ch/eli/oc/2018/687)), del 18 mar. 2019 ([RU 2019 1057](https://fedlex.data.admin.ch/eli/oc/2019/195)), del 24 ott. 2019 ([RU 2019 4089](https://fedlex.data.admin.ch/eli/oc/2019/713)), del 29 mag. 2020 ([RU 2020 2603](https://fedlex.data.admin.ch/eli/oc/2020/479)), del 13 nov. 2020 ([RU 2020 5775](https://fedlex.data.admin.ch/eli/oc/2020/972)) e dell’8 nov. 2021, in vigore il 6 dic. 2021 alle ore 10.00 ([RU 2021 815](https://fedlex.data.admin.ch/eli/oc/2021/815)).
+[^t-5]: Nuovo testo giusta il n. I dell’O del DFI del 21 nov. 2011 ([RU 2011 5649](https://fedlex.data.admin.ch/eli/oc/2011/797)). Aggiornato dai n. I delle O del DFI del 20 nov. 2012 ([RU 2012 6803](https://fedlex.data.admin.ch/eli/oc/2012/823)), dell’8 nov. 2013 ([RU 2013 4515](https://fedlex.data.admin.ch/eli/oc/2013/797)), del 3 nov. 2014 ([RU 2014 4381](https://fedlex.data.admin.ch/eli/oc/2014/721)), del 2 nov. 2015 ([RU 2015 5093](https://fedlex.data.admin.ch/eli/oc/2015/834)), del 1° nov. 2016 ([RU 2016 4197](https://fedlex.data.admin.ch/eli/oc/2016/705)), dal n. I cpv. 1 dell’O del DFI del 18 ago. 2017 ([RU 2017 5003](https://fedlex.data.admin.ch/eli/oc/2017/539)), dai n. I delle O del DFI del 2 feb. 2018 ([RU 2018 949](https://fedlex.data.admin.ch/eli/oc/2018/132)), del 2 nov. 2018 ([RU 2018 4287](https://fedlex.data.admin.ch/eli/oc/2018/687)), del 18 mar. 2019 ([RU 2019 1057](https://fedlex.data.admin.ch/eli/oc/2019/195)), del 24 ott. 2019 ([RU 2019 4089](https://fedlex.data.admin.ch/eli/oc/2019/713)), del 29 mag. 2020 ([RU 2020 2603](https://fedlex.data.admin.ch/eli/oc/2020/479)), del 13 nov. 2020 ([RU 2020 5775](https://fedlex.data.admin.ch/eli/oc/2020/972)) e dell’8 nov. 2021, in vigore il 6 dic. 2021 alle ore 10.00 ([RU 2021 815](https://fedlex.data.admin.ch/eli/oc/2021/815)). La correzione del 30 set. 2022 concerne soltanto il testo francese ([RU 2022 540](https://fedlex.data.admin.ch/eli/oc/2022/540)).
 
 <table>
 <tr><th>Numero</th><th>Designazione</th></tr>
@@ -1381,7 +1381,7 @@ Allegato 6*[^t-5]*
 <tr><td>233</td><td>ALD-52 1-acetildietilamide dell’acido lisergico 4-acetil-N,N-dietil-7-metil-4,6,6a,7,8,9-esaidroindolo[4,3-fg]chinolina-9-carbossamide</td></tr>
 <tr><td>234</td><td>...</td></tr>
 <tr><td>235</td><td>...</td></tr>
-<tr><td>236</td><td>Fentanili Qualsiasi sostanza (tranne le sostanze controllate degli elenchi a, b, d nonché f) la cui struttura deriva dalla 4-amminopiridina ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/363/20220801/it/xml/image/image1.png) a condizione che: – sia sostituita sull’azoto dell’anello piperidinico con gruppi aril-alchilici o etero-aril-alchilici, e questi gruppi, così come la struttura C dell’anello piperidinico, possano essere ulteriormente sostituiti da gruppi alcossi, alcossicarbonilici, alchilici, arilici, alogeni e idrossilici in qualsiasi misura e in qualsiasi posizione; e inoltre – sia sostituita al gruppo amminico di 4-amminopiperidina con un gruppo arilico o etero-arilico, e questo gruppo possa essere ulteriormente sostituito da gruppi alcossi, alchilici, alogeni e idrossilici in qualsiasi misura e in qualsiasi posizione; e che infine – sia sostituita al gruppo amminico di 4-amminopiperidina con un qualsiasi gruppo acilico. L’uso industriale e scientifico è escluso dalle misure di controllo. L’impiego privato non è escluso dalle misure di controllo.</td></tr>
+<tr><td>236</td><td>Fentanili Qualsiasi sostanza (tranne le sostanze controllate degli elenchi a, b, d nonché f) la cui struttura deriva dalla 4-amminopiridina ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/363/20220930/it/xml/image/image1.png) a condizione che: – sia sostituita sull’azoto dell’anello piperidinico con gruppi aril-alchilici o etero-aril-alchilici, e questi gruppi, così come la struttura C dell’anello piperidinico, possano essere ulteriormente sostituiti da gruppi alcossi, alcossicarbonilici, alchilici, arilici, alogeni e idrossilici in qualsiasi misura e in qualsiasi posizione; e inoltre – sia sostituita al gruppo amminico di 4-amminopiperidina con un gruppo arilico o etero-arilico, e questo gruppo possa essere ulteriormente sostituito da gruppi alcossi, alchilici, alogeni e idrossilici in qualsiasi misura e in qualsiasi posizione; e che infine – sia sostituita al gruppo amminico di 4-amminopiperidina con un qualsiasi gruppo acilico. L’uso industriale e scientifico è escluso dalle misure di controllo. L’impiego privato non è escluso dalle misure di controllo.</td></tr>
 <tr><td>237</td><td>Flunitrazolam 1-metil-8-nitro-6-(2-fluorofenil)-4H-[1,2,4]triazolo[4,3-a][1,4] benzodiazepina L’uso industriale e scientifico è escluso dalle misure di controllo. L’impiego privato non è escluso dalle misure di controllo.</td></tr>
 <tr><td>238</td><td>Adinazolam 1-(8-cloro-6-fenil-4H-[1,2,4] triazolo[4,3-a] [1,4] benzodiazepina-1-il)-N,N-dimetilmetanamina L’uso industriale e scientifico è escluso dalle misure di controllo. L’impiego privato non è escluso dalle misure di controllo.</td></tr>
 <tr><td>239</td><td>Dicloropano metil-3-(3,4-diclorofenil)-8-metil-8-azabiciclo[3.2.1]ottan-2-carbossilato</td></tr>
@@ -1408,10 +1408,10 @@ Allegato 6*[^t-5]*
 <tr><td>260</td><td>4'-fluoro-4-metilaminorex 5-(4-fluorofenil)-4,5-diidro-4-metil-2-ossazolamina 4F-MAR</td></tr>
 <tr><td>261</td><td>Tiotinone 2-(metilammino)-1-(2-tiofenil)-1-propanone βk-MPA</td></tr>
 <tr><td>262</td><td>MMB-CHMINACA Metil-2-[[1-(cicloesilmetil)-1H-indazolo-3-carbonil]ammino]-3-metilbutanoato AMB-CHMINACA</td></tr>
-<tr><td>263</td><td>Derivati dell’acido lisergico Qualsiasi sostanza (tranne metilergometrina, metisergide, amesergide o le sostanze controllate degli elenchi a, b, d nonché f) la cui struttura deriva dall’ammide dell’acido lisergico (ergina), ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/363/20220801/it/xml/image/image2.png) a condizione che: – nell’azoto dell’anello a cinque termini (R1) non sia sostituita o sia sostituita da un qualsiasi gruppo alchilico o carbonilico; e inoltre – nell’azoto del gruppo ammide (R2 e R3) non sia sostituita o sia sostituita in qualsiasi misura da gruppi alchilici, alchenilici, alcossialchilici o idrossialchilici; e che infine – nell’azoto (R6) sia sostituita da un qualsiasi gruppo alchilico o alchenilico. L’uso industriale e scientifico è escluso dalle misure di controllo. L’impiego privato non è escluso dalle misure di controllo.</td></tr>
-<tr><td>264</td><td>Derivati del nitazene Qualsiasi sostanza (tranne le sostanze controllate degli elenchi a, b, d nonché f) la cui struttura deriva dal nitazene, ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/363/20220801/it/xml/image/image3.png) a condizione che: – nell’anello fenilico (R1) sia sostituita in qualsiasi modo e in qualsiasi misura; e inoltre – nell’azoto del gruppo amminico (R2 e R3) sia sostituita in qualsiasi misura con gruppi alchilici. L’uso industriale e scientifico è escluso dalle misure di controllo. L’impiego privato non è escluso dalle misure di controllo.</td></tr>
-<tr><td>265</td><td>Cannabinoidi sintetici Qualsiasi sostanza (tranne le sostanze controllate degli elenchi a, b, d nonché f) la cui struttura derivadall’indolo, indipendentemente dalla sostituzione di un altro atomo di carbonio della struttura dell’indolo con un atomo di azoto, per sostituzione: ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/363/20220801/it/xml/image/image4.png) – sull’atomo di azoto (posizione 1) con strutture alchiliche, alcheniliche, ariliche o eterocicliche con almeno 3 atomi di carbonio; e inoltre: – sulla posizione 3 dell’indolo con una struttura di carbonile, estere di acido carbossilico o carbossamide che è ulteriormente sostituita in qualsiasi modo e in qualsiasi misura e può essere condensata alla struttura dell’indolo. Queste strutture possono essere sostituite sulle posizioni 2, 4, 5, 6 e 7 della struttura dell’indolo in qualsiasi modo e in qualsiasi misura. L’uso industriale e scientifico è escluso dalle misure di controllo. L’impiego privato non è escluso dalle misure di controllo.</td></tr>
-<tr><td>266</td><td>Triptammine Qualsiasi sostanza (tranne le sostanze controllate degli elenchi a, b, d nonché f) la cui struttura deriva dalla triptammina, per sostituzione: ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/363/20220801/it/xml/image/image5.png) – sull’atomo di azoto della catena laterale con gruppi alchilici o alchenilici in qualsiasi misura oppure per inclusione di questo atomo di azoto in una struttura ciclica. Queste strutture possono essere sostituite in uno o più dei seguenti modi: – sulla posizione α della catena laterale con gruppi alchilici o alchenilici; – nella struttura ad anello dell’indolo della triptammina in qualsiasi misura con gruppi alchilici, alcossi, alogeni o idrossilici. L’uso industriale e scientifico è escluso dalle misure di controllo. L’impiego privato non è escluso dalle misure di controllo.</td></tr>
+<tr><td>263</td><td>Derivati dell’acido lisergico Qualsiasi sostanza (tranne metilergometrina, metisergide, amesergide o le sostanze controllate degli elenchi a, b, d nonché f) la cui struttura deriva dall’ammide dell’acido lisergico (ergina), ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/363/20220930/it/xml/image/image2.png) a condizione che: – nell’azoto dell’anello a cinque termini (R1) non sia sostituita o sia sostituita da un qualsiasi gruppo alchilico o carbonilico; e inoltre – nell’azoto del gruppo ammide (R2 e R3) non sia sostituita o sia sostituita in qualsiasi misura da gruppi alchilici, alchenilici, alcossialchilici o idrossialchilici; e che infine – nell’azoto (R6) sia sostituita da un qualsiasi gruppo alchilico o alchenilico. L’uso industriale e scientifico è escluso dalle misure di controllo. L’impiego privato non è escluso dalle misure di controllo.</td></tr>
+<tr><td>264</td><td>Derivati del nitazene Qualsiasi sostanza (tranne le sostanze controllate degli elenchi a, b, d nonché f) la cui struttura deriva dal nitazene, ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/363/20220930/it/xml/image/image3.png) a condizione che: – nell’anello fenilico (R1) sia sostituita in qualsiasi modo e in qualsiasi misura; e inoltre – nell’azoto del gruppo amminico (R2 e R3) sia sostituita in qualsiasi misura con gruppi alchilici. L’uso industriale e scientifico è escluso dalle misure di controllo. L’impiego privato non è escluso dalle misure di controllo.</td></tr>
+<tr><td>265</td><td>Cannabinoidi sintetici Qualsiasi sostanza (tranne le sostanze controllate degli elenchi a, b, d nonché f) la cui struttura derivadall’indolo, indipendentemente dalla sostituzione di un altro atomo di carbonio della struttura dell’indolo con un atomo di azoto, per sostituzione: ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/363/20220930/it/xml/image/image4.png) – sull’atomo di azoto (posizione 1) con strutture alchiliche, alcheniliche, ariliche o eterocicliche con almeno 3 atomi di carbonio; e inoltre: – sulla posizione 3 dell’indolo con una struttura di carbonile, estere di acido carbossilico o carbossamide che è ulteriormente sostituita in qualsiasi modo e in qualsiasi misura e può essere condensata alla struttura dell’indolo. Queste strutture possono essere sostituite sulle posizioni 2, 4, 5, 6 e 7 della struttura dell’indolo in qualsiasi modo e in qualsiasi misura. L’uso industriale e scientifico è escluso dalle misure di controllo. L’impiego privato non è escluso dalle misure di controllo.</td></tr>
+<tr><td>266</td><td>Triptammine Qualsiasi sostanza (tranne le sostanze controllate degli elenchi a, b, d nonché f) la cui struttura deriva dalla triptammina, per sostituzione: ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/363/20220930/it/xml/image/image5.png) – sull’atomo di azoto della catena laterale con gruppi alchilici o alchenilici in qualsiasi misura oppure per inclusione di questo atomo di azoto in una struttura ciclica. Queste strutture possono essere sostituite in uno o più dei seguenti modi: – sulla posizione α della catena laterale con gruppi alchilici o alchenilici; – nella struttura ad anello dell’indolo della triptammina in qualsiasi misura con gruppi alchilici, alcossi, alogeni o idrossilici. L’uso industriale e scientifico è escluso dalle misure di controllo. L’impiego privato non è escluso dalle misure di controllo.</td></tr>
 <tr><td>267</td><td>Pagoclon 2-(7-cloro-1,8-naftiridin-2-il)-2,3-diidro-3-(5-metil-2-ossoesil)-1H-isoindol-1-one L’uso industriale e scientifico è escluso dalle misure di controllo. L’impiego privato non è escluso dalle misure di controllo.</td></tr>
 <tr><td>268</td><td>FDU-PB-22 1-naftalenil-1-[(4-fluorfenil)metil]-1H-indol-3-carbossilato</td></tr>
 <tr><td>269</td><td>5-MeO-N,N-DBT 5-metossi-N,N-dibutiltriptammina</td></tr>
@@ -1436,12 +1436,12 @@ Allegato 6*[^t-5]*
 <tr><td>288</td><td>3-Me-PCP 3-metilfenciclidina 1-[1-(3-metilfenil)cicloesil]piperidina</td></tr>
 <tr><td>289</td><td>Mefedrene N-metil-1-(5-metiltiofen-2-il)propan-2-ammina 5-metilmetiopropamina 5-MMPA</td></tr>
 <tr><td>290</td><td>Metossisopropamina 2-isopropilamino-2-(3-metossifenil)cicloesan-1-one MXiPr</td></tr>
-<tr><td>291</td><td>Arilcicloesilammine Qualsiasi sostanza (tranne le sostanze controllate degli elenchi a, b, d ed f) la cui struttura deriva dalla fenilcicloesilammina, con una o più delle seguenti sostituzioni: ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/363/20220801/it/xml/image/image6.png) – sull’atomo di azoto del gruppo amminico con strutture alchiliche, alcheniliche in qualsiasi misura oppure strutture cicliche ed eterocicliche incluso l’atomo di azoto; – sull’anello cicloesilico con gruppi alchilici, arilici, arilalchilici, idrossilici, alcossi oppure gruppi osso in qualsiasi misura; – sul composto aromatico con gruppi alogeni, alcossi, alchilici o idrossilici in qualsiasi misura, con qualsiasi sistema aromatico. L**’**uso industriale e scientifico è escluso dalle misure di controllo. L**’**impiego privato non è escluso dalle misure di controllo.</td></tr>
+<tr><td>291</td><td>Arilcicloesilammine Qualsiasi sostanza (tranne le sostanze controllate degli elenchi a, b, d ed f) la cui struttura deriva dalla fenilcicloesilammina, con una o più delle seguenti sostituzioni: ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/363/20220930/it/xml/image/image6.png) – sull’atomo di azoto del gruppo amminico con strutture alchiliche, alcheniliche in qualsiasi misura oppure strutture cicliche ed eterocicliche incluso l’atomo di azoto; – sull’anello cicloesilico con gruppi alchilici, arilici, arilalchilici, idrossilici, alcossi oppure gruppi osso in qualsiasi misura; – sul composto aromatico con gruppi alogeni, alcossi, alchilici o idrossilici in qualsiasi misura, con qualsiasi sistema aromatico. L**’**uso industriale e scientifico è escluso dalle misure di controllo. L**’**impiego privato non è escluso dalle misure di controllo.</td></tr>
 </table>
 
 [^annex6-lvlu1-1]: [RS 812.121.1](https://fedlex.data.admin.ch/eli/cc/2011/362)
 
-Allegato 7*[^t-6]*
+Allegato 7[^t-6]
 
 (art. 2 cpv. 3)
 
@@ -1451,49 +1451,49 @@ Allegato 7*[^t-6]*
 
 <table>
 <tr><th>Numero</th><th>Designazione</th></tr>
-<tr><td>1</td><td>**anidride acetica da 100 kg** Le imprese titolari di un’autorizzazione di esercizio all’impiego di sostanze controllate dell’elenco f sono esentate dall’obbligo di tenere la contabilità per il commercio interno e dall’obbligo di autorizzazione per l’importazione.</td></tr>
-<tr><td>2</td><td>**acido N-acetilantranilico**</td></tr>
-<tr><td>3</td><td>**alfa-fenilacetoacetonitrile (APAAN)**</td></tr>
-<tr><td>4</td><td>**acido antranilico**</td></tr>
-<tr><td>5</td><td>**efedrina**</td></tr>
-<tr><td>6</td><td>**ergometrina**</td></tr>
-<tr><td>7</td><td>**ergotamina**</td></tr>
-<tr><td>8</td><td>**isosafrolo**</td></tr>
-<tr><td>9</td><td>**potassio permanganato da 5 kg** Le imprese titolari di un’autorizzazione di esercizio all’impiego di sostanze controllate dell’elenco f sono esentate dall’obbligo di tenere la contabilità per il commercio interno e dall’obbligo di autorizzazione per l’importazione.</td></tr>
-<tr><td>10</td><td>**acido lisergico**</td></tr>
-<tr><td>11</td><td>**(3,4-metilendiossifenil)-2-propanone (MDP2P)**</td></tr>
-<tr><td>12</td><td>**norefedrina**</td></tr>
-<tr><td>13</td><td>**acido fenilacetico**</td></tr>
-<tr><td>14</td><td>**fenilpropanolamina (dl-norefedrina)**</td></tr>
-<tr><td>15</td><td>**fenil-2-propanone (P2P, BMK)**</td></tr>
-<tr><td>16</td><td>**piperidina**</td></tr>
-<tr><td>17</td><td>**piperonale**</td></tr>
-<tr><td>18</td><td>**pseudoefedrina**</td></tr>
-<tr><td>19</td><td>**safrolo**</td></tr>
-<tr><td>20</td><td>**olio di sassafrasso**</td></tr>
-<tr><td>21</td><td>**N-fenetil-4-piperidone (NPP)**</td></tr>
-<tr><td>22</td><td>**4-aminofenil-N-fenetilpiperidina (4-ANPP)**</td></tr>
-<tr><td>23</td><td>**3-osso-2-fenilbutanammide (APAA, alfa-fenilacetoacetamide)**</td></tr>
-<tr><td>24</td><td>**metilestere dell’acido 2-metil-3-[3’,4’-(metilendiossi)fenil]ossirancarbonico**</td></tr>
-<tr><td>25</td><td>**acido 2-metil-3-[3’,4’-(metilendiossi)fenil]ossirancarbonico**</td></tr>
-<tr><td>26</td><td>**Metil-alfa-fenilacetoacetato (metil-alfa-fenilacetoacetato, MAPA, metil-3-osso-2-fenilbutanoato)**</td></tr>
-<tr><td>100</td><td>**preparati contenenti pseudoefedrina** Sono esclusi dalle misure di controllo i preparati che contengono uno o più altri componenti (principi attivi o sostanze ausiliarie) e una quantità di pseudoefedrina, calcolata come base, che non supera i 50 mg per unità di somministrazione.</td></tr>
-<tr><td>101</td><td>**preparati contenenti efedrina** Sono esclusi dal controllo i preparati che contengono uno o più altri componenti (principi attivi o sostanze ausiliarie) e una quantità di efedrina, calcolata come base, che non supera i 15 mg per unità di somministrazione, o non è superiore ai 10 mg/ml nelle forme non divise.</td></tr>
-<tr><td>102</td><td>**cloroefedrina** Sono escluse dal controllo le aziende con autorizzazione di esercizio per l’impiego di sostanze controllate dell’elenco f.</td></tr>
-<tr><td>103</td><td>**cloropseudoefedrina** Sono escluse dal controllo le aziende con autorizzazione di esercizio per l’impiego di sostanze controllate dell’elenco f.</td></tr>
+<tr><td>1</td><td>anidride acetica da 100 kg Le imprese titolari di un’autorizzazione di esercizio all’impiego di sostanze controllate dell’elenco f sono esentate dall’obbligo di tenere la contabilità per il commercio interno e dall’obbligo di autorizzazione per l’importazione.</td></tr>
+<tr><td>2</td><td>acido N-acetilantranilico</td></tr>
+<tr><td>3</td><td>alfa-fenilacetoacetonitrile (APAAN)</td></tr>
+<tr><td>4</td><td>acido antranilico</td></tr>
+<tr><td>5</td><td>efedrina</td></tr>
+<tr><td>6</td><td>ergometrina</td></tr>
+<tr><td>7</td><td>ergotamina</td></tr>
+<tr><td>8</td><td>isosafrolo</td></tr>
+<tr><td>9</td><td>potassio permanganato da 5 kg Le imprese titolari di un’autorizzazione di esercizio all’impiego di sostanze controllate dell’elenco f sono esentate dall’obbligo di tenere la contabilità per il commercio interno e dall’obbligo di autorizzazione per l’importazione.</td></tr>
+<tr><td>10</td><td>acido lisergico</td></tr>
+<tr><td>11</td><td>(3,4-metilendiossifenil)-2-propanone (MDP2P)</td></tr>
+<tr><td>12</td><td>norefedrina</td></tr>
+<tr><td>13</td><td>acido fenilacetico</td></tr>
+<tr><td>14</td><td>fenilpropanolamina (dl-norefedrina)</td></tr>
+<tr><td>15</td><td>fenil-2-propanone (P2P, BMK)</td></tr>
+<tr><td>16</td><td>piperidina</td></tr>
+<tr><td>17</td><td>piperonale</td></tr>
+<tr><td>18</td><td>pseudoefedrina</td></tr>
+<tr><td>19</td><td>safrolo</td></tr>
+<tr><td>20</td><td>olio di sassafrasso</td></tr>
+<tr><td>21</td><td>N-fenetil-4-piperidone (NPP)</td></tr>
+<tr><td>22</td><td>4-aminofenil-N-fenetilpiperidina (4-ANPP)</td></tr>
+<tr><td>23</td><td>3-osso-2-fenilbutanammide (APAA, alfa-fenilacetoacetamide)</td></tr>
+<tr><td>24</td><td>metilestere dell’acido 2-metil-3-[3’,4’-(metilendiossi)fenil]ossirancarbonico</td></tr>
+<tr><td>25</td><td>acido 2-metil-3-[3’,4’-(metilendiossi)fenil]ossirancarbonico</td></tr>
+<tr><td>26</td><td>**Metil-alfa-fenilacetoacetato (metil-alfa-fenilacetoacetato, MAPA,** **metil-3-osso-2-fenilbutanoato)**</td></tr>
+<tr><td>100</td><td>preparati contenenti pseudoefedrina Sono esclusi dalle misure di controllo i preparati che contengono uno o più altri componenti (principi attivi o sostanze ausiliarie) e una quantità di pseudoefedrina, calcolata come base, che non supera i 50 mg per unità di somministrazione.</td></tr>
+<tr><td>101</td><td>preparati contenenti efedrina Sono esclusi dal controllo i preparati che contengono uno o più altri componenti (principi attivi o sostanze ausiliarie) e una quantità di efedrina, calcolata come base, che non supera i 15 mg per unità di somministrazione, o non è superiore ai 10 mg/ml nelle forme non divise.</td></tr>
+<tr><td>102</td><td>cloroefedrina Sono escluse dal controllo le aziende con autorizzazione di esercizio per l’impiego di sostanze controllate dell’elenco f.</td></tr>
+<tr><td>103</td><td>cloropseudoefedrina Sono escluse dal controllo le aziende con autorizzazione di esercizio per l’impiego di sostanze controllate dell’elenco f.</td></tr>
 <tr><td>104</td><td>...</td></tr>
-<tr><td>105</td><td>**acido fenil-2-idrossipropansolfonico** Sono escluse dal controllo le aziende con autorizzazione di esercizio per l’impiego di sostanze controllate dell’elenco f.</td></tr>
-<tr><td>106</td><td>**estere dell****’****acido fenilacetico da 100 g** Sono escluse dal controllo le aziende con autorizzazione di esercizio per l’impiego di sostanze controllate dell’elenco f.</td></tr>
-<tr><td>107</td><td>**acido 2-metil-3-fenilossirancarbonico e i suoi esteri da 100 g** Sono escluse dal controllo le aziende con autorizzazione di esercizio per l’impiego di sostanze controllate dell’elenco f.</td></tr>
-<tr><td>108</td><td>**acido 3-metil-3-fenilossirancarbonico e i suoi esteri da 100 g**</td></tr>
+<tr><td>105</td><td>acido fenil-2-idrossipropansolfonico Sono escluse dal controllo le aziende con autorizzazione di esercizio per l’impiego di sostanze controllate dell’elenco f.</td></tr>
+<tr><td>106</td><td>estere dell’acido fenilacetico da 100 g Sono escluse dal controllo le aziende con autorizzazione di esercizio per l’impiego di sostanze controllate dell’elenco f.</td></tr>
+<tr><td>107</td><td>acido 2-metil-3-fenilossirancarbonico e i suoi esteri da 100 g Sono escluse dal controllo le aziende con autorizzazione di esercizio per l’impiego di sostanze controllate dell’elenco f.</td></tr>
+<tr><td>108</td><td>acido 3-metil-3-fenilossirancarbonico e i suoi esteri da 100 g</td></tr>
 <tr><td></td><td>Sono escluse dal controllo le aziende con autorizzazione di esercizio per l’impiego di sostanze controllate dell’elenco f.</td></tr>
-<tr><td>109</td><td>**Estere dell’acido 2-metil-3-[3’,4’-(metilendiossi)fenil]ossirancarbonico da 100g** Sono escluse dal controllo le aziende con autorizzazione di esercizio per l’impiego di sostanze controllate dell’elenco f.</td></tr>
-<tr><td>110</td><td>**acido N-alchil-N-[3****’****,4****’****-(metilendiossi)fenil]propan-2-ilcarbaminico e i suoi esteri da 100 g** Sono escluse dal controllo le aziende con autorizzazione di esercizio per l’impiego di sostanze controllate dell’elenco f.</td></tr>
-<tr><td>111</td><td>**acido N-[3****’****,4****’****-(metilendiossi)fenil]propan-2-ilcarbaminico e i suoi esteri da 100 g** Sono escluse dal controllo le aziende con autorizzazione di esercizio per l’impiego di sostanze controllate dell’elenco f.</td></tr>
+<tr><td>109</td><td>Estere dell’acido 2-metil-3-[3’,4’-(metilendiossi)fenil]ossirancarbonico da 100g Sono escluse dal controllo le aziende con autorizzazione di esercizio per l’impiego di sostanze controllate dell’elenco f.</td></tr>
+<tr><td>110</td><td>acido N-alchil-N-[3’,4’-(metilendiossi)fenil]propan-2-ilcarbaminico e i suoi esteri da 100 g Sono escluse dal controllo le aziende con autorizzazione di esercizio per l’impiego di sostanze controllate dell’elenco f.</td></tr>
+<tr><td>111</td><td>acido N-[3’,4’-(metilendiossi)fenil]propan-2-ilcarbaminico e i suoi esteri da 100 g Sono escluse dal controllo le aziende con autorizzazione di esercizio per l’impiego di sostanze controllate dell’elenco f.</td></tr>
 <tr><td>112</td><td>**Olivetolo (5-pentilbenzen-1,3-diolo)** Sono escluse dal controllo le aziende con autorizzazione di esercizio per l’impiego di sostanze controllate dell’elenco f.</td></tr>
 </table>
 
-Allegato 8*[^t-7]*
+Allegato 8[^t-7]
 
 (art. 2. cpv. 4)
 
