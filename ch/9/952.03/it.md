@@ -4,20 +4,20 @@ title: "Ordinanza del 1° giugno 2012 sui fondi propri e sulla ripartizione dei 
 short: OFoP
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/629"
 language: it
-version: 2021-08-01
+version: 2022-09-30
 adopted: 2012-06-01
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20210801/it/xml/fedlex-data-admin-ch-eli-cc-2012-629-20210801-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/629/20210801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20220930/it/xml/fedlex-data-admin-ch-eli-cc-2012-629-20220930-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/629/20220930/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Ordinanza sui fondi propri e sulla ripartizione dei rischi delle banche e delle società di intermediazione mobiliare****
+# Ordinanza sui fondi propri e sulla ripartizione dei rischi delle banche e delle società di intermediazione mobiliare
 
 (Ordinanza sui fondi propri, OFoP)[^t-1]
 
-del 1° giugno 2012 (Stato 1° agosto 2021)
+del 1° giugno 2012 (Stato 30 settembre 2022)
 
 [^t-1]: Nuovo testo giusta l’all. 1 n. II 10 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
@@ -748,11 +748,13 @@ La Banca nazionale svizzera può proporre al Consiglio federale di obbligare le 
 - a. rafforzare la capacità di resistenza del settore bancario nei confronti dei rischi legati a una crescita eccessiva del credito; o
 - b. contrastare una crescita eccessiva del credito.
 
-<sup>2</sup> Prima di formulare la proposta di cui al capoverso 1, la Banca nazionale svizzera consulta la FINMA e informa il Dipartimento federale delle finanze. Se il Consiglio federale adotta la proposta, la presente ordinanza è completata con un corrispondente allegato.
+<sup>2</sup> Prima di formulare la proposta di cui al capoverso 1, la Banca nazionale svizzera consulta la FINMA e informa il Dipartimento federale delle finanze. Se il Consiglio federale adotta la proposta, la presente ordinanza è completata con un corrispondente allegato 7.[^44-1]
 
 <sup>3</sup> Il cuscinetto anticiclico può essere limitato a determinate posizioni di credito. È soppresso o adeguato alle mutate circostanze se i criteri in base ai quali è stato ordinato non sono più adempiuti. La procedura è retta dai capoversi 1 e 2.
 
 <sup>4</sup> L’articolo 43 capoversi 2 e 3 si applica per analogia al cuscinetto anticiclico.
+
+[^44-1]: Nuovo testo del per. giusta il n. I dell’O del 26 gen. 2022, in vigore dal 30 set. 2022 ([RU 2022 53](https://fedlex.data.admin.ch/eli/oc/2022/53)).
 
 #### Art. 44a
 
@@ -805,7 +807,7 @@ Per le banche che determinano i loro fondi propri necessari sulla base di approc
 [^47-1]: Expected Positive Exposure.
 [^47-2]: Advanced Measurement Approaches
 
-### Capitolo 1*a*:**** Semplificazioni per le banche particolarmente liquide e ben capitalizzate delle categorie 4 e 5
+### Capitolo 1*a*: Semplificazioni per le banche particolarmente liquide e ben capitalizzate delle categorie 4 e 5
 
 [^tit3-chap1a-1]
 
@@ -1620,7 +1622,7 @@ In deroga all’articolo 97 capoverso 1, per le banche delle categorie 4 e 5 di 
 
 [^99-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2019 ([RU 2017 7625](https://fedlex.data.admin.ch/eli/oc/2017/827)).
 
-### Sezione 3:**** Obblighi di comunicazione in relazione ai grandi rischi e ad altri rischi di credito rilevanti
+### Sezione 3: Obblighi di comunicazione in relazione ai grandi rischi e ad altri rischi di credito rilevanti
 
 [^tit4-chap1-sec3-1]
 
@@ -1798,7 +1800,7 @@ La FINMA può inoltre allentare o inasprire le norme in materia di ripartizione 
 [^112-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2019 ([RU 2017 7625](https://fedlex.data.admin.ch/eli/oc/2017/827)).
 [^112-2]: [RS 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
 
-### Capitolo 2:**** Calcolo della posizione complessiva
+### Capitolo 2: Calcolo della posizione complessiva
 
 [^tit4-chap2-1]
 
@@ -1948,7 +1950,7 @@ Le esigenze particolari devono essere adempiute a livello di gruppo finanziario,
 
 [^125a-1]: Introdotto dal n. I dell’O dell’11 mag. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)). Abrogato dal n. I dell’O del 22 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 7625](https://fedlex.data.admin.ch/eli/oc/2017/827)).
 
-### Capitolo 2: Capitale convertibile e strumenti di debito a copertura delle perdite nell’applicazione di misure in caso di insolvenza****
+### Capitolo 2: Capitale convertibile e strumenti di debito a copertura delle perdite nell’applicazione di misure in caso di insolvenza
 
 [^tit5-chap2-1]
 
@@ -2056,7 +2058,7 @@ Le banche di rilevanza sistemica non possono detenere a proprio rischio né stru
 [^127a-3]: Nuovo testo giusta il n. I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
 [^127a-4]: Nuovo testo giusta il n. I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
 
-### Capitolo 3:**** Fondi propri necessari alla continuazione dell’attività ordinaria della banca
+### Capitolo 3: Fondi propri necessari alla continuazione dell’attività ordinaria della banca
 
 [^tit5-chap3-1]
 
@@ -2145,7 +2147,7 @@ Le esigenze relative ai cuscinetti anticiclici secondo gli articoli 44 e 44*a* d
 
 In circostanze particolari la FINMA può esigere, nel singolo caso, fondi propri supplementari o definire esigenze qualitative più elevate, secondo i criteri enunciati nell’articolo 45.
 
-### Capitolo 4:**** Fondi supplementari in grado di assorbire le perdite
+### Capitolo 4: Fondi supplementari in grado di assorbire le perdite
 
 [^tit5-chap4-1]
 
@@ -2265,7 +2267,7 @@ Il limite massimo di cui al capoverso 2 deve essere rispettato entro 12 mesi dal
 
 ### Capitolo 1: Disposizioni transitorie
 
-### Sezione 1: Disposizioni transitorie del 1° giugno 2012****
+### Sezione 1: Disposizioni transitorie del 1° giugno 2012
 
 [^tit6-chap1-sec1-1]
 
@@ -2373,7 +2375,7 @@ Per la quota delle posizioni di cui al capoverso 3 non soggetta a deduzione, la 
 
 [^148a-1]: Introdotto dall’all. 2 n. 4 dell’O sulle banche del 30 apr. 2014 ([RU 2014 1269](https://fedlex.data.admin.ch/eli/oc/2014/273)). Abrogato dal n. I dell’O dell’11 mag. 2016, con effetto dal 1° lug. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
 
-### Sezione 2:**** Disposizioni transitorie della modifica dell’11 maggio 2016
+### Sezione 2: Disposizioni transitorie della modifica dell’11 maggio 2016
 
 [^tit6-chap1-sec2-1]
 
@@ -2444,7 +2446,7 @@ Il cuscinetto anticiclico esteso, calcolato in base alle posizioni ponderate, pu
 - b. l’1,25 per cento nel 2017;
 - c. l’1,875 per cento nel 2018.
 
-### Sezione 3:**** Disposizione transitoria della modifica del 23 novembre 2016
+### Sezione 3: Disposizione transitoria della modifica del 23 novembre 2016
 
 [^tit6-chap1-sec3-1]
 
@@ -2463,7 +2465,7 @@ Il cuscinetto anticiclico esteso, calcolato in base alle posizioni ponderate, pu
 [^148g-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7625](https://fedlex.data.admin.ch/eli/oc/2017/827)).
 [^148g-2]: [RU 2012 5441](https://fedlex.data.admin.ch/eli/oc/2012/629)
 
-### Sezione 4:**** Disposizione transitoria della modifica del 22 novembre 2017
+### Sezione 4: Disposizione transitoria della modifica del 22 novembre 2017
 
 [^tit6-chap1-sec4-1]
 
@@ -2473,7 +2475,7 @@ Il cuscinetto anticiclico esteso, calcolato in base alle posizioni ponderate, pu
 
 Le banche che prevedono o presumono di superare illecitamente dal 1° gennaio 2019 il limite massimo dei grandi rischi (art. 97–99), contattano la FINMA entro tre mesi dall’entrata in vigore della modifica del 22 novembre 2017.
 
-### Sezione 5:**** Disposizione transitoria della modifica del 21 novembre 2018
+### Sezione 5: Disposizione transitoria della modifica del 21 novembre 2018
 
 [^tit6-chap1-sec5-1]
 
@@ -2499,7 +2501,7 @@ L’esigenza di cui all’articolo 132 capoverso 2 lettera b ammonta:
 - f. nel 2024: all’1,26 per cento per il «leverage ratio» e al 3,84 per cento per la quota di RWA;
 - g. nel 2025: all’1,5 per cento per il «leverage ratio» e al 4,5 per cento per la quota di RWA, a cui va aggiunta la metà del supplemento per la quota di mercato e la metà del supplemento per l’esposizione totale.
 
-### Sezione 6:**** Disposizioni transitorie della modifica del 27 novembre 2019
+### Sezione 6: Disposizioni transitorie della modifica del 27 novembre 2019
 
 [^tit6-chap1-sec6-1]
 
@@ -2564,7 +2566,7 @@ La modifica del diritto vigente è disciplinata nell’allegato 6.
 
 [^151-1]: Approvata dall’AF il 18 set. 2012 ([FF 2012 7425](https://fedlex.data.admin.ch/eli/fga/2012/1442)).
 
-Allegato 1*[^t-2]*
+Allegato 1[^t-2]
 
 (art. 54 cpv. 1)
 
@@ -2604,7 +2606,7 @@ Osservazioni:
 
 \2. Nel caso in cui vi sia un obbligo a fornire un impegno su una posta fuori bilancio, le banche possono applicare il minore fra i due fattori di conversione del credito applicabili [§86 degli standard minimi di Basilea].
 
-Allegato 2*[^t-3]*
+Allegato 2[^t-3]
 
 (art. 66 cpv. 1)
 
@@ -2638,7 +2640,7 @@ Allegato 2*[^t-3]*
 <tr><td>**7.**</td><td>**Imprese**</td><td>20 %</td><td>20 %</td><td>50 %</td><td>100 %</td><td>100 %</td><td>150 %</td><td>150 %</td><td>100 %</td><td>–</td></tr>
 </table>
 
-Allegato 3*[^t-4]*
+Allegato 3[^t-4]
 
 (art. 66 cpv. 2)
 
@@ -2676,7 +2678,7 @@ Allegato 3*[^t-4]*
 <tr><td>6.3</td><td>Altre posizioni (comprese le posizioni di limitazione dei conti)</td><td>100 %</td></tr>
 </table>
 
-Allegato 4*[^t-5]*
+Allegato 4[^t-5]
 
 (art. 32 lett. j e 66 cpv. 3)
 
@@ -2733,13 +2735,19 @@ Allegato 6
 
 [^annex6-lvlu1-1]: Le mod. possono essere consultate alla [RU 2012 5441](https://fedlex.data.admin.ch/eli/oc/2012/629).
 
-Allegato 7*[^t-6]*
+Allegato 7[^t-6]
 
 (art. 44 cpv. 2)
 
-[^t-6]: Introdotto dal n. I dell’O del 13 feb. 2013 ([RU 2013 693](https://fedlex.data.admin.ch/eli/oc/2013/129)). Abrogato dal n. I dell’O del 27 mar. 2020, con effetto dal 28 mar. 2020 ([RU 2020 1105](https://fedlex.data.admin.ch/eli/oc/2020/197)).
+## Cuscinetto anticiclico
 
-Allegato 8*[^t-7]*
+[^t-6]: Introdotto dal n. I dell’O del 13 feb. 2013 ([RU 2013 693](https://fedlex.data.admin.ch/eli/oc/2013/129)). Nuovo testo giusta il n. II dell’O del 26 gen. 2022, in vigore dal 30 set. 2022 ([RU 2022 53](https://fedlex.data.admin.ch/eli/oc/2022/53)).
+
+- 1\. Le banche sono obbligate a detenere, sotto forma di fondi propri di base di qualità primaria, un cuscinetto anticiclico su posizioni di credito garantite direttamente o indirettamente da pegno immobiliare per immobili d’abitazione in Svizzera secondo l’articolo 72.
+- 2\. Il cuscinetto ammonta al 2,5 per cento delle posizioni di credito ponderate in funzione del rischio.
+- 3\. Il cuscinetto anticiclico si applica dal 30 settembre 2022 e la sua validità durerà fino all’abrogazione o alla modifica del presente allegato.
+
+Allegato 8[^t-7]
 
 (art. 43 cpv. 1)
 
@@ -2751,20 +2759,20 @@ Allegato 8*[^t-7]*
 
 <table>
 <tr><td>Categoria secondo l’allegato 3 OBCR[^annex8-lvlu1-1]</td><td>1 e 2</td><td>3</td><td>4</td><td>5</td></tr>
-<tr><td>**Fondi propri minimi**</td><td colspan="4">8,0 %</td></tr>
+<tr><td>Fondi propri minimi</td><td colspan="4">8,0 %</td></tr>
 <tr><td>– di cui CET1</td><td colspan="4">4,5 %</td></tr>
 <tr><td>– di cui AT1 o esigenze qualitative più elevate</td><td colspan="4">1,5 %</td></tr>
 <tr><td>– di cui T2 o esigenze qualitative più elevate</td><td colspan="4">2,0 %</td></tr>
-<tr><td>**Cuscinetto di fondi propri**</td><td>4,8 %</td><td>4,0 %</td><td>3,2 %</td><td>2,5 %</td></tr>
+<tr><td>Cuscinetto di fondi propri</td><td>4,8 %</td><td>4,0 %</td><td>3,2 %</td><td>2,5 %</td></tr>
 <tr><td>– di cui CET1</td><td>3,7 %</td><td>3,3 %</td><td>2,9 %</td><td>2,5 %</td></tr>
 <tr><td>– di cui AT1 o esigenze qualitative più elevate</td><td>0,5 %</td><td>0,3 %</td><td>0,1 %</td><td>–</td></tr>
 <tr><td>– di cui T2 o esigenze qualitative più elevate</td><td>0,6 %</td><td>0,4 %</td><td>0,2 %</td><td>–</td></tr>
-<tr><td>**Quota complessiva di fondi propri**</td><td>12,8 %</td><td>12,0 %</td><td>11,2 %</td><td>10,5 %</td></tr>
+<tr><td>Quota complessiva di fondi propri</td><td>12,8 %</td><td>12,0 %</td><td>11,2 %</td><td>10,5 %</td></tr>
 </table>
 
 [^annex8-lvlu1-1]: [RS 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
 
-Allegato 9*[^t-8]*
+Allegato 9[^t-8]
 
 (art. 129)
 

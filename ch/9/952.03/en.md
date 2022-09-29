@@ -4,11 +4,11 @@ title: "Ordinance of 1 June 2012 on the Capital Adequacy and Risk Diversificatio
 short: CAO
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/629"
 language: en
-version: 2021-08-01
+version: 2022-09-30
 adopted: 2012-06-01
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20210801/en/xml/fedlex-data-admin-ch-eli-cc-2012-629-20210801-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/629/20210801/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20220930/en/xml/fedlex-data-admin-ch-eli-cc-2012-629-20220930-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/629/20220930/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,13 +19,13 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Capital Adequacy Ordinance, CAO)
 
-of 1 June 2012 (Status as of 1 August 2021)
+of 1 June 2012 (Status as of 30 September 2022)
 
 [^t-1]: Amended by Annex 1 No II 10 of the Financial Institutions Ordinance of 6 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 The Swiss Federal Council,
 
-based on Article 3 paragraph 2 letter b, Article 3*g*, Article 4 paragraphs 2 and 4, Article 4<sup>bis</sup> paragraph 2, Article 10 paragraph 4 letter a and Article 56 of the Banking Act of 8 November 1934[^ingress-1] (BankA) and on Articles 46 paragraph 3 and 72 of the Financial Institutions Act of 15 June 2018[^ingress-2] (FinIA),[^ingress-3]
+based on Articles 3 paragraph 2 letter b, 3*g*, 4 paragraphs 2 and 4, 4<sup>bis</sup> paragraph 2, 10 paragraph 4 letter a and 56 of the Banking Act of 8 November 1934[^ingress-1] (BankA) and on Articles 46 paragraph 3 and 72 of the Financial Institutions Act of 15 June 2018[^ingress-2] (FinIA),[^ingress-3]
 
 ordains:
 
@@ -166,9 +166,9 @@ Consolidation shall include all group companies operating in the financial secto
 
 <sup>1</sup> Majority interests in companies subject to consolidation must be fully consolidated.
 
-<sup>2</sup> In the case of financial interests held jointly with a second shareholder or partner where each holds 50% of the voting rights (joint ventures), the bank may choose full consolidation, proportionate consolidation or the corresponding deduction approach.
+<sup>2</sup> In the case of financial interests held jointly with a second shareholder or partner where each holds 50 per cent of the voting rights (joint ventures), the bank may choose full consolidation, proportionate consolidation or the corresponding deduction approach.
 
-<sup>3</sup> In the case of minority interests of at least 20% in companies subject to consolidation over which the bank exerts a controlling influence directly or indirectly with other shareholders, the bank may opt for proportionate consolidation or the corresponding deduction approach.
+<sup>3</sup> In the case of minority interests of at least 20 per cent in companies subject to consolidation over which the bank exerts a controlling influence directly or indirectly with other shareholders, the bank may opt for proportionate consolidation or the corresponding deduction approach.
 
 <sup>4</sup> The corresponding deduction approach shall be applied for all other minority interests.
 
@@ -191,7 +191,7 @@ With the audit firm's consent, the following financial interests may be treated 
 
 <sup>2</sup>
 
-Financial interests conferring more than 50% of the voting rights may exceptionally be consolidated on a proportionate basis with the audit firm's consent if it is contractually stipulated that:
+Financial interests conferring more than 50 per cent of the voting rights may exceptionally be consolidated on a proportionate basis with the audit firm's consent if it is contractually stipulated that:
 
 - a. the support for the company subject to consolidation is limited to the bank's proportionate share; and
 - b. the other shareholders or partners are obliged to provide support to the extent of their proportionate share and are legally and financially capable of fulfilling that obligation.
@@ -300,7 +300,7 @@ The banks may opt for simplified application of individual provisions of this Or
 
 <sup>1</sup>
 
-The loss absorbtion principles for the capital components are as follows:
+The loss absorption principles for the capital components are as follows:
 
 - a. CET1 capital shall absorb losses ahead of AT1 capital;
 - b. AT1 capital shall absorb losses ahead of Tier 2 capital.
@@ -474,7 +474,7 @@ A capital instrument shall be eligible as AT1 capital if:
 
 <sup>3</sup>
 
-Liabilities that meet the criteria under paragraph 1 shall be eligible as AT1 capital if, in the event of a contractually defined event (trigger) occurring, but no later than when CET1 capital falls below 5.125%, they cease to exist by virtue of:
+Liabilities that meet the criteria under paragraph 1 shall be eligible as AT1 capital if, in the event of a contractually defined event (trigger) occurring, but no later than when CET1 capital falls below 5.125 per cent, they cease to exist by virtue of:
 
 - a. a write-down; or
 - b. conversion to CET1 capital.
@@ -533,7 +533,7 @@ A capital instrument shall be eligible as Tier 2 capital if:
 
 - e. it is excluded that distributions to the capital providers may be increased during the term as a result of issuer-specific credit risk.
 
-<sup>2</sup> In the last five years prior to final maturity, the recognition of Tier 2 capital instruments shall decrease by 20% of the nominal amount each year. They shall not be recognised at all in the last year.
+<sup>2</sup> In the last five years prior to final maturity, the recognition of Tier 2 capital instruments shall decrease by 20 per cent of the nominal amount each year. They shall not be recognised at all in the last year.
 
 <sup>3</sup> Article 21 paragraph 2, Article 28 and Article 29 paragraphs 1 and 2 apply by analogy.
 
@@ -592,7 +592,7 @@ The following must be deducted in full from CET1 capital:
 - j.[^32-2] in the context of the individual entity calculation, if FINMA does not permit risk weighting in accordance with sections 1.6 or 1.7 of Annex 4: the net long positions of the directly held financial interests in financial sector entities subject to consolidated reporting, calculated in accordance with Article 52;
 - k. deductions resulting from a deduction option chosen by the bank within the framework of the consolidation provisions under Article 7 paragraph 4, Article 8 paragraphs 2 and 3 and Article 9 paragraphs 1 and 3.
 
-[^32-1]: Internal ratings-based approach
+[^32-1]: Internal ratings-based approach.
 [^32-2]: Amended by No I of the O of 21 Nov. 2018, in force since 1 Jan. 2019 ([AS 2018 5241](https://fedlex.data.admin.ch/eli/oc/2018/800)).
 
 #### Art. 33
@@ -621,11 +621,11 @@ The following must be deducted in full from CET1 capital:
 
 <sup>1</sup> In the case of threshold deductions, the amount that exceeds the threshold shall be deducted. To determine the threshold, a bank's positions are to be measured against a predefined percentage of its own CET1 capital in accordance with the requirements of the Basel minimum standards.
 
-<sup>2</sup> Threshold 1 shall amount to 10% of CET1 capital after all adjustments under Article 31 paragraph 3 and Article 32 letters a to i and k.
+<sup>2</sup> Threshold 1 shall amount to 10 per cent of CET1 capital after all adjustments under Article 31 paragraph 3 and Article 32 letters a to i and k.
 
-<sup>3</sup> Threshold 2 shall amount to 10% of CET1 capital after all adjustments under Article 31 paragraph 3 and Article 32, including any deductions from CET1 capital as a result of the threshold 1 calculation (in accordance with Art. 37 paras. 1 and 2).
+<sup>3</sup> Threshold 2 shall amount to 10 per cent of CET1 capital after all adjustments under Article 31 paragraph 3 and Article 32, including any deductions from CET1 capital as a result of the threshold 1 calculation (in accordance with Art. 37 paras. 1 and 2).
 
-<sup>4</sup> Threshold 3 shall be determined such that, after the application of all regulatory adjustments, including any deductions at this threshold level in accordance with Article 40 paragraph 1, the amount of the three positions that remains recognised does not exceed 15% of CET1 capital.[^35-1]
+<sup>4</sup> Threshold 3 shall be determined such that, after the application of all regulatory adjustments, including any deductions at this threshold level in accordance with Article 40 paragraph 1, the amount of the three positions that remains recognised does not exceed 15 per cent of CET1 capital.[^35-1]
 
 [^35-1]: Amended by Annex 2 No 4 of the Banking Ordinance of 30 April 2014, in force since 1 Jan. 2015 ([AS 2014 1269](https://fedlex.data.admin.ch/eli/oc/2014/273)).
 
@@ -641,13 +641,13 @@ The following must be deducted in full from CET1 capital:
 
 #### Art. 37
 
-**Equity securities in financial sector entities up to 10%**
+**Equity securities in financial sector entities up to 10 per cent**
 
-<sup>1</sup> A bank that holds no more than 10% equity securities in a financial sector entity in the form of CET1 capital shall deduct from its own capital components the total carrying value of all equity instruments held in all such financial sector entities that exceeds threshold 1. This shall apply even if the bank only holds equity instruments in a financial sector entity that do not constitute CET1 capital.[^37-1]
+<sup>1</sup> A bank that holds no more than 10 per cent equity securities in a financial sector entity in the form of CET1 capital shall deduct from its own capital components the total carrying value of all equity instruments held in all such financial sector entities that exceeds threshold 1. This shall apply even if the bank only holds equity instruments in a financial sector entity that do not constitute CET1 capital.[^37-1]
 
 <sup>2</sup> When applying the corresponding deduction approach, the amount to be deducted under paragraph 1 shall be in proportion to the equity instruments held by the bank in the relevant financial sector entities before the deduction.
 
-<sup>2bis</sup> In addition to the threshold 1 limit under paragraph 1, a bank may hold bail-in bonds in accordance with Article 33 paragraph 1<sup>bis</sup> up to 5% of CET1 capital without deducting them from its own capital components. FINMA may issue corresponding implementing provisions.[^37-2]
+<sup>2bis</sup> In addition to the threshold 1 limit under paragraph 1, a bank may hold bail-in bonds in accordance with Article 33 paragraph 1<sup>bis</sup> up to 5 per cent of CET1 capital without deducting them from its own capital components. FINMA may issue corresponding implementing provisions.[^37-2]
 
 <sup>3</sup> The portion of the aggregate carrying values under paragraph 1 that is below the threshold shall be risk-weighted. The risk weight for each capital component shall be based on its allocation to the banking and trading book before the deduction.
 
@@ -656,9 +656,9 @@ The following must be deducted in full from CET1 capital:
 
 #### Art. 38
 
-**Equity securities in financial sector entities over 10%**
+**Equity securities in financial sector entities over 10 per cent**
 
-<sup>1</sup> A bank that holds more than 10% equity securities in a financial sector entity in the form of CET1 capital shall apply the corresponding deduction approach to all AT1 capital and Tier 2 capital instruments of such entities without a threshold. The corresponding deduction approach without thresholds shall also apply to bail-in bonds of internationally active systemically important banks under Article 33 paragraph 1<sup>bis</sup>.[^38-1]
+<sup>1</sup> A bank that holds more than 10 per cent equity securities in a financial sector entity in the form of CET1 capital shall apply the corresponding deduction approach to all AT1 capital and Tier 2 capital instruments of such entities without a threshold. The corresponding deduction approach without thresholds shall also apply to bail-in bonds of internationally active systemically important banks under Article 33 paragraph 1<sup>bis</sup>.[^38-1]
 
 <sup>2</sup> It must deduct from its CET1 capital the amount by which the total carrying value of all directly or indirectly held shares in the CET1 capital of such entities outside the scope of consolidation exceeds threshold 2, both at the level of the individual entity and on a consolidated basis.
 
@@ -685,7 +685,7 @@ The bank must separately deduct from its CET1 capital the following amounts that
 
 <sup>1</sup> The carrying values resulting from the calculations under Article 38 paragraphs 2 and 3 and Article 39 that are below threshold 2 shall be aggregated and measured against threshold 3. The bank must deduct the amount that exceeds threshold 3 from its CET1 capital.
 
-<sup>2</sup> The bank shall apply a risk weight of 250% to each amount below threshold 3.
+<sup>2</sup> The bank shall apply a risk weight of 250 per cent to each amount below threshold 3.
 
 ## Title 3 Required Capital
 
@@ -710,7 +710,7 @@ Required capital shall be composed of the following:
 
 **Minimum capital**
 
-<sup>1</sup> After the deductions in accordance with Articles 31 to 40, banks must hold total capital representing 8.0% of the risk-weighted exposures as minimum capital. At least 4.5% of the risk-weighted exposures must be backed by CET1 capital and at least 6.0% by Tier 1 capital.[^42-1]
+<sup>1</sup> After the deductions in accordance with Articles 31 to 40, banks must hold total capital representing 8.0 per cent of the risk-weighted exposures as minimum capital. At least 4.5 per cent of the risk-weighted exposures must be backed by CET1 capital and at least 6.0 per cent by Tier 1 capital.[^42-1]
 
 <sup>2</sup>
 
@@ -747,16 +747,18 @@ The risk-weighted exposures shall be composed of:
 
 <sup>1</sup>
 
-The Swiss National Bank may request the Federal Council to oblige banks to hold a countercyclical capital buffer in the form of CET1 capital of a maximum of 2.5% of their risk-weighted exposures in Switzerland if this is necessary to:
+The Swiss National Bank may request the Federal Council to oblige banks to hold a countercyclical capital buffer in the form of CET1 capital of a maximum of 2.5 per cent of their risk-weighted exposures in Switzerland if this is necessary to:
 
 - a. strengthen the banking sector's resilience to the risks of excessive credit growth; or
 - b. counteract excessive credit growth.
 
-<sup>2</sup> The Swiss National Bank shall consult FINMA before submitting the request and simultaneously inform the Federal Department of Finance. If the Federal Council approves the request, this Ordinance shall be supplemented with a corresponding annex.
+<sup>2</sup> The Swiss National Bank shall consult FINMA before submitting the request and simultaneously inform the Federal Department of Finance. If the Federal Council approves the request, this Ordinance shall be supplemented with a corresponding Annex 7.[^44-1]
 
 <sup>3</sup> The countercyclical buffer may be restricted to certain credit exposures. It shall be removed or adjusted in line with the changed circumstances if the criteria for its imposition no longer apply. The procedure shall be based on paragraphs 1 and 2.
 
 <sup>4</sup> Article 43 paragraphs 2 and 3 shall apply by analogy to the countercyclical buffer.
+
+[^44-1]: Second sentence amended by No I of the O of 26 Jan. 2022, in force since 30 Sept. 2022 ([AS 2022 53](https://fedlex.data.admin.ch/eli/oc/2022/53)).
 
 #### Art. 44a
 
@@ -764,7 +766,7 @@ The Swiss National Bank may request the Federal Council to oblige banks to hold 
 
 <sup>1</sup> Banks with total assets of at least CHF 250 billion including total foreign exposure of at least CHF 10 billion, or with a total foreign exposure of at least CHF 25 billion, shall be obliged to hold a countercyclical buffer add-on in the form of CET1 capital.
 
-<sup>2</sup> For such banks, the level of the countercyclical buffer add-on shall correspond to the weighted average level of the countercyclical buffers which, according to the list published by the Basel Committee, apply in the member countries where a bank's relevant private sector claims are located, but it shall not exceed 2.5% of the risk-weighted exposures. Claims *vis-à-vis* banks and the public sector shall not be deemed to be private sector claims.
+<sup>2</sup> For such banks, the level of the countercyclical buffer add-on shall correspond to the weighted average level of the countercyclical buffers which, according to the list published by the Basel Committee, apply in the member countries where a bank's relevant private sector claims are located, but it shall not exceed 2.5 per cent of the risk-weighted exposures. Claims *vis-à-vis* banks and the public sector shall not be deemed to be private sector claims.
 
 <sup>3</sup> The weighting of the ratios for each member country shall correspond to the total capital requirement for credit exposures to the private sector in that country, divided by the bank's total capital requirement for credit exposures to the private sector.
 
@@ -794,7 +796,7 @@ In special circumstances, FINMA may require certain banks to hold additional cap
 
 **Leverage ratio**[^46-1]
 
-<sup>1</sup> After the deductions in accordance with Articles 31 to 40, banks must hold Tier 1 capital amounting to 3% of the unweighted exposures (total exposure).
+<sup>1</sup> After the deductions in accordance with Articles 31 to 40, banks must hold Tier 1 capital amounting to 3 per cent of the unweighted exposures (total exposure).
 
 <sup>2</sup> The total exposure shall be the denominator of the leverage ratio calculated in accordance with the requirements of the Basel minimum standards. FINMA shall issue technical implementing provisions based on the Basel Committee's minimum standards.
 
@@ -806,8 +808,8 @@ In special circumstances, FINMA may require certain banks to hold additional cap
 
 For banks that determine their required capital using model-based approaches that are subject to approval (IRB, EPE modelling method[^47-1], market risk model approach or AMA[^47-2]), FINMA may require a parallel calculation of the required capital using a standardised approach that it deems appropriate.
 
-[^47-1]: Expected positive exposure modelling method
-[^47-2]: Advanced measurement approach
+[^47-1]: Expected positive exposure modelling method.
+[^47-2]: Advanced measurement approach.
 
 ### Chapter 1*a***** Simplifications for Particularly Liquid and Well-Capitalised Banks in Categories 4 and 5
 
@@ -831,9 +833,9 @@ Banks in categories 4 and 5 under Annex 3 to the BankO[^47a-1] may apply to FINM
 
 Banks in categories 4 and 5 may take advantage of the simplifications if they meet the following prerequisites at all times at the level of both the individual entity and the financial group:
 
-- a. The required capital corresponds to a simplified leverage ratio of at least 8%.
-- b. The average liquidity ratio is at least 110%.
-- c. The refinancing ratio is at least 100%.
+- a. The required capital corresponds to a simplified leverage ratio of at least 8 per cent.
+- b. The average liquidity ratio is at least 110 per cent.
+- c. The refinancing ratio is at least 100 per cent.
 
 <sup>2</sup>
 
@@ -1229,7 +1231,7 @@ Where the supervisory authority of a country other than Switzerland provides for
 
 <sup>1</sup> Clearing houses are institutions through which the contractual obligations of traded contracts are settled.
 
-<sup>2</sup> The risk weights of 0% or 2% under Annex 2 shall apply for credit risks only if a regulated central counterparty interposes itself directly in the transaction between two market participants and an appropriate and comprehensive collateralisation system is established as the basis for the performance of the functions of that central counterparty.
+<sup>2</sup> The risk weights of 0 per cent or 2 per cent under Annex 2 shall apply for credit risks only if a regulated central counterparty interposes itself directly in the transaction between two market participants and an appropriate and comprehensive collateralisation system is established as the basis for the performance of the functions of that central counterparty.
 
 <sup>3</sup>
 
@@ -1255,7 +1257,7 @@ This collateralisation system shall be considered appropriate and comprehensive 
 
 **Exposures to unrated companies**
 
-If a bank uses ratings to risk-weight exposures to companies, unrated exposures shall be assigned the risk weight of 100% or that of the relevant central government if that is higher than 100%.
+If a bank uses ratings to risk-weight exposures to companies, unrated exposures shall be assigned the risk weight of 100 per cent or that of the relevant central government if that is higher than 100 per cent.
 
 #### Art. 72
 
@@ -1265,7 +1267,7 @@ If a bank uses ratings to risk-weight exposures to companies, unrated exposures 
 
 <sup>2</sup> Construction loans and loans for building land shall be allocated to the real estate categories set out in Annex 3 according to the future use of the financed property.
 
-<sup>3</sup> The risk weight of 35% for foreign residential real estate shall apply only if appropriate risk management that is equivalent to that for Swiss residential real estate can be ensured for this foreign real estate.
+<sup>3</sup> The risk weight of 35 per cent for foreign residential real estate shall apply only if appropriate risk management that is equivalent to that for Swiss residential real estate can be ensured for this foreign real estate.
 
 <sup>4</sup>
 
@@ -1277,7 +1279,7 @@ Pledged pension assets and pledged pension benefit entitlements in accordance wi
 
 <sup>5</sup>
 
-The risk weight for mortgage-backed exposures in accordance with Annex 3 shall be 100% if the credit transaction does not meet the requirements of one of the self-regulation standards recognised as a minimum standard by FINMA in accordance with Article 7 paragraph 3 of the Financial Market Supervision Act of 22 June 2007[^72-3]. The minimum requirements shall provide for:
+The risk weight for mortgage-backed exposures in accordance with Annex 3 shall be 100 per cent if the credit transaction does not meet the requirements of one of the self-regulation standards recognised as a minimum standard by FINMA in accordance with Article 7 paragraph 3 of the Financial Market Supervision Act of 22 June 2007[^72-3]. The minimum requirements shall provide for:
 
 - a. an appropriate minimum share of capital to be supplied by the borrower for the financing; such share must not originate from a pledge or an advance withdrawal pursuant to Articles 30*b* or 30*c* of the OPA;
 - b. appropriate repayment of the loan in terms of timeframe and amount.
@@ -1325,8 +1327,8 @@ Within the corresponding exposure class for the individual transactions, loan, r
 
 For exposures arising from unsettled transactions that are settled in another manner, the treatment shall be as follows:
 
-- a. The bank that has delivered shall treat the transaction as a credit until receipt of the corresponding receivable. If the exposures are not materially significant, a risk weight of 100% may be applied instead of a ratings-based risk weight.
-- b. If the corresponding receivable has not been received five business days after the agreed settlement date, a 1,250% weight shall be assigned to the delivered asset and any positive replacement value.
+- a. The bank that has delivered shall treat the transaction as a credit until receipt of the corresponding receivable. If the exposures are not materially significant, a risk weight of 100 per cent may be applied instead of a ratings-based risk weight.
+- b. If the corresponding receivable has not been received five business days after the agreed settlement date, a 1250 per cent weight shall be assigned to the delivered asset and any positive replacement value.
 
 <sup>3</sup> Repos, reverse repos and securities lending and borrowing shall be treated exclusively as set out in Article 75.
 
@@ -1362,11 +1364,11 @@ The term «non-counterparty risks» refers to the risk of loss owing to valuatio
 
 <sup>1</sup>
 
-To calculate the charge for non-counterparty risk, a 100% weight shall be assigned to the following exposures:
+To calculate the charge for non-counterparty risk, a 100 per cent weight shall be assigned to the following exposures:
 
 - a. real estate;
 - b. other fixed assets and depreciable items recognised on the balance sheet as other assets, unless they can be deducted from CET1 capital in accordance with Article 32 letter c.
-- [tab] <sup>2</sup> A 0% weight shall be assigned to the asset balance of the compensation account.
+- [tab] <sup>2</sup> A 0 per cent weight shall be assigned to the asset balance of the compensation account.
 
 ### Chapter 4 Market Risk
 
@@ -1424,21 +1426,21 @@ The minimum capital requirement for market risk may be calculated using the foll
 
 **Equity instruments in the trading book**
 
-<sup>1</sup> The minimum capital requirement for specific risk in equity instruments shall amount to 8% of the sum of the net exposures per issuer.
+<sup>1</sup> The minimum capital requirement for specific risk in equity instruments shall amount to 8 per cent of the sum of the net exposures per issuer.
 
-<sup>2</sup> The minimum capital requirement for general market risk in equity instruments shall amount to 8% of the sum of the net exposures per national market.
+<sup>2</sup> The minimum capital requirement for general market risk in equity instruments shall amount to 8 per cent of the sum of the net exposures per national market.
 
 #### Art. 86
 
 **Foreign exchange exposures**
 
-The minimum capital requirement for market risk in foreign exchange exposures shall amount to 8% of the sum of net long positions or the sum of net short positions, whichever is higher.
+The minimum capital requirement for market risk in foreign exchange exposures shall amount to 8 per cent of the sum of net long positions or the sum of net short positions, whichever is higher.
 
 #### Art. 87
 
 **Gold and commodity exposures**
 
-<sup>1</sup> The minimum capital requirement for market risk in gold exposures shall amount to 8% of the net exposure.
+<sup>1</sup> The minimum capital requirement for market risk in gold exposures shall amount to 8 per cent of the net exposure.
 
 <sup>2</sup> The minimum capital requirement for commodity risk shall be determined using either the maturity band method or the simplified method.
 
@@ -1507,7 +1509,7 @@ Banks that determine their minimum capital requirement for operational risk acco
 
 **Basic indicator approach**
 
-<sup>1</sup> Minimum capital shall amount to 15% of the average of the income indicators for the previous three years. Only years in which the income indicator was positive should be taken into account.
+<sup>1</sup> Minimum capital shall amount to 15 per cent of the average of the income indicators for the previous three years. Only years in which the income indicator was positive should be taken into account.
 
 <sup>2</sup> FINMA may make the use of the basic indicator approach contingent on additional qualitative risk management requirements.
 
@@ -1556,7 +1558,7 @@ Activities shall be assigned to the following business lines and multiplied by t
 
 **Risk concentrations and other large credit risk exposures**[^95-1]
 
-<sup>1</sup> A risk concentration exists when the total exposure to a counterparty or group of affiliated counterparties equals or exceeds 10% of the bank's adjusted eligible Tier 1 capital under Articles 31 to 40.
+<sup>1</sup> A risk concentration exists when the total exposure to a counterparty or group of affiliated counterparties equals or exceeds 10 per cent of the bank's adjusted eligible Tier 1 capital under Articles 31 to 40.
 
 <sup>2</sup> Banks must identify and monitor risk concentrations and other large credit risk exposures to an individual counterparty or group of affiliated counterparties, and comply with associated reporting obligations.
 
@@ -1577,7 +1579,7 @@ The following do not need to be included in the calculation of the total exposur
 - a. exposures that can be deducted from Tier 1 capital in accordance with Articles 31 to 40: the amount of the deduction;
 - b. intraday exposures to banks.
 
-<sup>4</sup> Exposures that are assigned a 1,250% risk weight in the minimum capital calculation must be included in the total exposure.
+<sup>4</sup> Exposures that are assigned a 1250 per cent risk weight in the minimum capital calculation must be included in the total exposure.
 
 <sup>5</sup> The total exposure to a group of affiliated counterparties is the sum of total exposures to the individual counterparties.
 
@@ -1589,7 +1591,7 @@ The following do not need to be included in the calculation of the total exposur
 
 **Upper limit on individual risk concentrations**[^97-1]
 
-<sup>1</sup> Risk concentrations may not exceed 25% of adjusted eligible Tier 1 capital under Articles 31 to 40.
+<sup>1</sup> Risk concentrations may not exceed 25 per cent of adjusted eligible Tier 1 capital under Articles 31 to 40.
 
 <sup>2</sup>
 
@@ -1608,7 +1610,7 @@ This limit does not apply to:
 
 **Upper limit on risk concentrations with banks and securities firms**[^98-1]
 
-In a departure from Article 97 paragraph 1, as regards banks in categories 4 and 5 under Annex 3 of the BankO[^98-2], the upper limit on individual risk concentrations with banks and securities firms, where these are not designated as systemically important banks or financial groups in accordance with Article 8 paragraph 3 of the BankA or Article 136 paragraph 2 letter b, shall be: 100% of the adjusted eligible Tier 1 capital under Articles 31 to 40.
+In a departure from Article 97 paragraph 1, as regards banks in categories 4 and 5 under Annex 3 of the BankO[^98-2], the upper limit on individual risk concentrations with banks and securities firms, where these are not designated as systemically important banks or financial groups in accordance with Article 8 paragraph 3 of the BankA or Article 136 paragraph 2 letter b, shall be: 100 per cent of the adjusted eligible Tier 1 capital under Articles 31 to 40.
 
 [^98-1]: Amended by No I of the O of 22 Nov. 2017, in force since 1 Jan. 2019 ([AS 2017 7625](https://fedlex.data.admin.ch/eli/oc/2017/827)).
 [^98-2]: [SR 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
@@ -1658,8 +1660,8 @@ The following reference dates apply for the reports:
 Specifically, the following must be reported:
 
 - a. all risk concentrations;
-- b. all exposures amounting to at least 10% of eligible Tier 1 capital, without applying the risk mitigation under Article 119 paragraph 1;
-- c. all total exposures for which there is no upper limit and which amount to at least 10% of eligible Tier 1 capital.
+- b. all exposures amounting to at least 10 per cent of eligible Tier 1 capital, without applying the risk mitigation under Article 119 paragraph 1;
+- c. all total exposures for which there is no upper limit and which amount to at least 10 per cent of eligible Tier 1 capital.
 
 <sup>5</sup> In addition, each year the twenty largest total exposures must be reported, irrespective of whether or not they constitute risk concentrations, excluding total exposures to central banks and central governments.
 
@@ -1735,7 +1737,7 @@ A group of affiliated counterparties comprises:
 
 <sup>2</sup> Groups of affiliated counterparties must be treated as one entity.
 
-<sup>3</sup> If the total exposure to a single counterparty exceeds 5% of eligible Tier 1 capital, it must be verified, within three months and at appropriate intervals thereafter, whether counterparties are economically dependent on each other.
+<sup>3</sup> If the total exposure to a single counterparty exceeds 5 per cent of eligible Tier 1 capital, it must be verified, within three months and at appropriate intervals thereafter, whether counterparties are economically dependent on each other.
 
 <sup>4</sup> Central counterparties do not constitute a group of affiliated counterparties if the exposures to them are related to clearing services.
 
@@ -1775,7 +1777,7 @@ If a bank is part of a financial group or financial conglomerate subject to appr
 
 <sup>2</sup> FINMA is authorised to issue implementing provisions to appropriately restrict the exclusion of intra-group exposures under paragraph 1.
 
-<sup>3</sup> Intra-group exposures to other group companies shall be subject, on an aggregate basis, to the regular limit of 25% of the adjusted eligible Tier 1 capital under Articles 31 to 40.
+<sup>3</sup> Intra-group exposures to other group companies shall be subject, on an aggregate basis, to the regular limit of 25 per cent of the adjusted eligible Tier 1 capital under Articles 31 to 40.
 
 [^111a-1]: Inserted by No I of the O of 22 Nov. 2017, in force since 1 Jan. 2019 ([AS 2017 7625](https://fedlex.data.admin.ch/eli/oc/2017/827)).
 
@@ -1796,7 +1798,7 @@ In special cases, it may also relax or tighten the risk diversification requirem
 - c. subject to prior request, allow the upper limit to be breached temporarily;
 - d. declare that the exemption from the upper limit under Article 111*a* paragraph 1 does not apply to some or all group companies, or extend the exemption to cover individual group companies that do not meet the criteria under Article 111*a* paragraph 1;
 - e. exempt individual group companies that do not operate in the financial sector from inclusion in the aggregate exposure under Article 111*a* paragraphs 1 and 3;
-- f. declare that financial interests excluded from consolidation under Article 9 paragraph 1 are exempt from inclusion in the aggregate exposure under Article 111*a* paragraphs 1 and 3.
+- f. declare that financial interests excluded from consolidation under Article 9 paragraph 1 are exempt from inclusion in the aggregate exposure under Article 111*a* paragraphs 1 and 3;
 - g. lower or raise the applicable weighting rates for a specific counterparty;
 - h. set a different deadline to that in Article 99 paragraph 4;
 - i. in special circumstances for which the bank must provide justification, allow the parties concerned to not be considered as a group of affiliated counterparties, even if they meet the criteria under Article 109 paragraph 1;
@@ -1815,15 +1817,15 @@ In special cases, it may also relax or tighten the risk diversification requirem
 
 #### Art. 113
 
-<sup>1</sup> Counterparty exposures shall be assigned a risk weight of 100% as a rule.
+<sup>1</sup> Counterparty exposures shall be assigned a risk weight of 100 per cent as a rule.
 
 <sup>2</sup>
 
 The following exposures are to be weighted differently to paragraph 1:
 
-- a. exposures to cantons rated 1 or 2: 20%;
-- b. exposures in domestic Pfandbrief bonds issued in accordance with the Mortgage Bond Act of 25 June 1930[^113-1]: 10%;
-- c. exposures in covered bonds under Article 118 paragraph 1 letter c: at least 20%.
+- a. exposures to cantons rated 1 or 2: 20 per cent;
+- b. exposures in domestic Pfandbrief bonds issued in accordance with the Mortgage Bond Act of 25 June 1930[^113-1]: 10 per cent;
+- c. exposures in covered bonds under Article 118 paragraph 1 letter c: at least 20 per cent.
 
 [^113-1]: [SR 211.423.4](https://fedlex.data.admin.ch/eli/cc/47/109_113_57)
 
@@ -1886,8 +1888,6 @@ FINMA shall regulate the calculation of:
 
 #### Art. 119
 
-**Off-balance sheet transactions**
-
 <sup>1</sup>
 
 The following may be included in the total exposure calculation:
@@ -1926,11 +1926,11 @@ The special requirements must be met by the entities listed below, at the level 
 - c. entities at the head of significant subordinate financial groups, where their consolidation scope includes an entity under letter a; and
 - d. entities which, owing to their core function or their relative size, are significant for the financial group.[^124-3]
 
-<sup>4</sup> In individual cases, FINMA may exempt entities which perform systemically important functions but whose direct share in the financial group's domestic systemically important functions does not exceed 5% in total, or whose significance for the continued performance of the financial group's systemically important functions is otherwise minor.[^124-4]
+<sup>4</sup> In individual cases, FINMA may exempt entities which perform systemically important functions but whose direct share in the financial group's domestic systemically important functions does not exceed 5 per cent in total, or whose significance for the continued performance of the financial group's systemically important functions is otherwise minor.[^124-4]
 
 [^124-1]: Amended by No I of the O of 21 Nov. 2018, in force since 1 Jan. 2019 ([AS 2018 5241](https://fedlex.data.admin.ch/eli/oc/2018/800)).
 [^124-2]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^124-3]: Amended by No I of the O of 27 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
+[^124-3]: Amended by No I of the O of 27 Nov. 2019, in force since 1 Jan. 2020 (AS **201****9** 4623).
 [^124-4]: Inserted by No I of the O of 27 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
 
 #### Art. 124a
@@ -2049,7 +2049,7 @@ Convertible capital may be recognised in the amount of certain capital component
 
 <sup>1</sup> Bail-in bonds meeting the criteria under Article 126*a* may be recognised as additional loss-absorbing funds under Chapter 4 in the amount of the receivable, provided they have a residual maturity of at least one year.[^127a-2]
 
-<sup>2</sup> The maturities of the loss-absorbing funds shall be staggered so as to ensure that the requirements concerning the level of these funds can be met, even in the event of temporarily impaired borrowing conditions. A maximum of 25% of the requirements concerning additional loss-absorbing funds may be met with assets with a residual maturity between one and two years.[^127a-3]
+<sup>2</sup> The maturities of the loss-absorbing funds shall be staggered so as to ensure that the requirements concerning the level of these funds can be met, even in the event of temporarily impaired borrowing conditions. A maximum of 25 per cent of the requirements concerning additional loss-absorbing funds may be met with assets with a residual maturity between one and two years.[^127a-3]
 
 <sup>3</sup> Where Tier 2 capital in accordance with Article 30 paragraph 2 is excluded as regulatory capital for a period of five years up to one year before final maturity, it can be recognised in the same way as bail-in bonds in accordance with international standards, provided it is ensured that these instruments will absorb losses ahead of bail-in bonds.
 
@@ -2061,7 +2061,7 @@ Systemically important banks may not hold at their own risk convertible or debt-
 - b. the holding of bail-in bonds under Articles 37 and 38 in the bank's trading book, provided these bail-in bonds are resold within 30 business days of their purchase.[^127a-4]
 
 [^127a-1]: Inserted by No I of the O of 11 May 2016, in force since 1 July 2016 ([AS 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
-[^127a-2]: Amended by No I of the O of 27 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
+[^127a-2]: Amended by No I of the O of 27 Nov. 2019, in force since 1 Jan. 2020 (AS **201****9** 4623).
 [^127a-3]: Amended by No I of the O of 27 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
 [^127a-4]: Amended by No I of the O of 27 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
 
@@ -2094,8 +2094,8 @@ Required capital shall be calculated according to:
 
 The base requirement shall amount to:
 
-- a. 4.5% for the leverage ratio;
-- b. 12.86% for the RWA ratio.
+- a. 4.5 per cent for the leverage ratio;
+- b. 12.86 per cent for the RWA ratio.
 
 <sup>3</sup> For the purpose of determining the surcharges, FINMA shall periodically allocate the banks to «buckets» according to their market share and total exposure. The relevant values and the surcharges are set down in Annex 9. The surcharges shall be determined annually at the end of the second quarter.
 
@@ -2113,8 +2113,8 @@ The base requirement shall amount to:
 
 Systemically important banks shall permanently hold minimum capital amounting to:
 
-- a. 3% for the leverage ratio;
-- b. 8% for the RWA ratio.
+- a. 3 per cent for the leverage ratio;
+- b. 8 per cent for the RWA ratio.
 
 <sup>2</sup> In addition, they must hold a capital buffer up to the amount of the total requirement.
 
@@ -2132,15 +2132,15 @@ To meet the requirements, the capital must be of at least the following quality:
 
   leverage ratio requirements:
 
-  - 1\. Minimum capital: CET1 capital; to meet the minimum capital requirement, up to 1.5% may be used as AT1 capital in the form of convertible capital that is triggered if the eligible CET1 capital falls below 7% of the RWA ratio (high-trigger convertible capital),
+  - 1\. Minimum capital: CET1 capital; to meet the minimum capital requirement, up to 1.5 per cent may be used as AT1 capital in the form of convertible capital that is triggered if the eligible CET1 capital falls below 7 per cent of the RWA ratio (high-trigger convertible capital),
   - 2\. Capital buffer: CET1 capital;
 
 - b.
 
   RWA ratio requirement:
 
-  - 1\. Minimum capital: CET1 capital; up to 3.5% may be used as AT 1 capital in the form of high-trigger convertible capital to comply with the minimum capital requirement,
-  - 2\. Capital buffer: CET1 capital; up to 0.8% may be used as AT1 capital in the form of high-trigger convertible capital to comply with the capital buffer.
+  - 1\. Minimum capital: CET1 capital; up to 3.5 per cent may be used as AT 1 capital in the form of high-trigger convertible capital to comply with the minimum capital requirement,
+  - 2\. Capital buffer: CET1 capital; up to 0.8 per cent may be used as AT1 capital in the form of high-trigger convertible capital to comply with the capital buffer.
 
 #### Art. 131a
 
@@ -2174,23 +2174,23 @@ The requirement concerning these additional funds is based on the total requirem
 
   for an internationally active systemically important bank:
 
-  - 1 for entities performing systemically important functions (Art. 124 para. 3 lit. a): 62% of the total requirement at the level of the financial group and the individual entity,
-  - 2 at the level of the highest entity in a financial group (Art. 124 para. 3 lit. b) and significant subordinate financial groups (Art. 124 para. 3 lit. c), unless the requirements under No. 1 apply: 100% of the total requirement minus the rebate under Article 133,
+  - 1 for entities performing systemically important functions (Art. 124 para. 3 lit. a): 62 per cent of the total requirement at the level of the financial group and the individual entity,
+  - 2 at the level of the highest entity in a financial group (Art. 124 para. 3 lit. b) and significant subordinate financial groups (Art. 124 para. 3 lit. c), unless the requirements under No. 1 apply: 100 per cent of the total requirement minus the rebate under Article 133,
   - 3
 
     at the level of the individual entity under Article 124 paragraph 3 letters c or d, the sum of:
 
     - [tab] – the nominal amounts of additional loss-absorbing funds passed on to subsidiaries
-    - [tab] – 100% of the total requirement minus the rebate under Article 133, except for financial interests subject to the consolidation requirement, including similarly recorded regulatory capital, and except for exposures from intra-group relationships, and
-    - [tab] – 30% of the consolidated requirements applicable to that entity;
+    - [tab] – 100 per cent of the total requirement minus the rebate under Article 133, except for financial interests subject to the consolidation requirement, including similarly recorded regulatory capital, and except for exposures from intra-group relationships, and
+    - [tab] – 30 per cent of the consolidated requirements applicable to that entity;
 
-- b. for a non-internationally active systemically important bank: 40% of the total requirement.[^132-2]
+- b. for a non-internationally active systemically important bank: 40 per cent of the total requirement.[^132-2]
 
 <sup>3</sup> The additional funds must be held in the form of bail-in bonds meeting the criteria under Article 126*a*. This is without prejudice to paragraphs 4 to 7 and Article 132*a*.
 
 <sup>4</sup> If a systemically important bank holds the additional funds in the form of CET1 capital or convertible capital that meets the requirements concerning AT1 capital, the requirements under paragraph 2 shall be reduced by a factor of 0.5 for the amount of additional funds thus held. The requirements may be reduced by a maximum of one third.
 
-<sup>5</sup> If an internationally active systemically important bank holds the additional funds in the form of capital under paragraph 4, these funds shall receive preferential treatment within the meaning of paragraph 4, up to a maximum of 2% for the leverage ratio and up to a maximum of 5.8% for the RWA ratio. The requirements concerning loss-absorbing capacity according to Financial Stability Board recommendations[^132-3] must be complied with.
+<sup>5</sup> If an internationally active systemically important bank holds the additional funds in the form of capital under paragraph 4, these funds shall receive preferential treatment within the meaning of paragraph 4, up to a maximum of 2 per cent for the leverage ratio and up to a maximum of 5.8 per cent for the RWA ratio. The requirements concerning loss-absorbing capacity according to Financial Stability Board recommendations[^132-3] must be complied with.
 
 <sup>6</sup> Capital held by a bank to meet the requirements under this chapter must not simultaneously be used to meet the requirements under Articles 128 to 131*b*.
 
@@ -2198,7 +2198,7 @@ The requirement concerning these additional funds is based on the total requirem
 
 [^132-1]: Amended by No I of the O of 21 Nov. 2018, in force since 1 Jan. 2019 ([AS 2018 5241](https://fedlex.data.admin.ch/eli/oc/2018/800)).
 [^132-2]: Amended by No I of the O of 27 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
-[^132-3]: Total Loss-Absorbing Capacity Term Sheet of 9 November 2015
+[^132-3]: Total Loss-Absorbing Capacity Term Sheet of 9 November 2015.
 
 #### Art. 132a
 
@@ -2206,7 +2206,7 @@ The requirement concerning these additional funds is based on the total requirem
 
 If a non-internationally active systemically important bank benefits from an explicit state guarantee or similar mechanism, the requirement under Article 132 paragraph 2 letter b, in the amount of the guarantee:
 
-- a. shall be deemed to be met up to a maximum of half the required 40%;
+- a. shall be deemed to be met up to a maximum of half the required 40 per cent;
 - b. shall be deemed to be fully met if, in a crisis situation, the corresponding funds are available to FINMA irrevocably and rapidly; FINMA shall decide whether these criteria are met on a case-by-case basis.
 
 [^132a-1]: Inserted by No I of the O of 21 Nov. 2018, in force since 1 Jan. 2019 ([AS 2018 5241](https://fedlex.data.admin.ch/eli/oc/2018/800)).
@@ -2222,7 +2222,7 @@ FINMA shall determine the rebate for measures to improve the overall resolvabili
 - a. based on the effectiveness of the measures to improve the overall resolvability of the financial group; and
 - b. taking into account the interactions between the various rebate groups.
 
-<sup>2</sup> For entities under Article 124 paragraph 3 letters b to d, the level of the additional capital requirement taking account of the rebates and the reduced requirements owing to the preferential treatment of convertible capital under Article 132 paragraph 4 must not fall below 3.75% for the leverage ratio and 10% for the RWA ratio.[^133-3]
+<sup>2</sup> For entities under Article 124 paragraph 3 letters b to d, the level of the additional capital requirement taking account of the rebates and the reduced requirements owing to the preferential treatment of convertible capital under Article 132 paragraph 4 must not fall below 3.75 per cent for the leverage ratio and 10 per cent for the RWA ratio.[^133-3]
 
 <sup>3</sup>
 
@@ -2250,11 +2250,11 @@ Repealed
 
 **Risk concentrations**[^136-1]
 
-<sup>1</sup> A risk concentration may not exceed 25% of the adjusted eligible Tier 1 capital under Articles 31 to 40 which is not used to meet the additional loss-absorbing capital requirements.
+<sup>1</sup> A risk concentration may not exceed 25 per cent of the adjusted eligible Tier 1 capital under Articles 31 to 40 which is not used to meet the additional loss-absorbing capital requirements.
 
 <sup>2</sup>
 
-A risk concentration may not exceed 15% of the Tier 1 capital under paragraph 1 in the case of:
+A risk concentration may not exceed 15 per cent of the Tier 1 capital under paragraph 1 in the case of:
 
 - a. exposures to other systemically important banks under Article 8 paragraph 3 of the BankA;
 - b. exposures to foreign systemically important banks that have been designated as global systemically important banks by the Financial Stability Board.
@@ -2324,7 +2324,7 @@ With the entry into force of this Ordinance, between 1 January 2013 and 31 Decem
 
 <sup>5</sup> At the time of entry into force of this Ordinance, all capital components under paragraphs 1 and 2 shall be quantified and added together for each category.
 
-<sup>6</sup> The amounts determined in accordance with paragraph 5 on 1 January 2013 shall be reduced by 10% annually, starting on 1 January 2013. They shall constitute the upper limit for the maximum eligible capital components under existing legislation in the year concerned. They may be recognised only to the extent that the bank has outstanding capital instruments of the corresponding quality.
+<sup>6</sup> The amounts determined in accordance with paragraph 5 on 1 January 2013 shall be reduced by 10 per cent annually, starting on 1 January 2013. They shall constitute the upper limit for the maximum eligible capital components under existing legislation in the year concerned. They may be recognised only to the extent that the bank has outstanding capital instruments of the corresponding quality.
 
 <sup>7</sup> If an existing capital instrument can no longer be recognised as AT1 capital as a result of the phased reduction under paragraph 6, it may instead be recognised as Tier 2 capital in the same amounts as have been derecognised from AT1 capital, provided it meets the new criteria for Tier 2 capital.
 
@@ -2334,13 +2334,13 @@ With the entry into force of this Ordinance, between 1 January 2013 and 31 Decem
 
 <sup>1</sup>
 
-Deductions that were not provided for under existing legislation shall be made from CET1 capital over a five-year horizon in increments of 20% annually, as follows:
+Deductions that were not provided for under existing legislation shall be made from CET1 capital over a five-year horizon in increments of 20 per cent annually, as follows:
 
-- a. 20% of the relevant amount from 1 January 2014;
-- b. 40% of the relevant amount from 1 January 2015;
-- c. 60% of the relevant amount from 1 January 2016;
-- d. 80% of the relevant amount from 1 January 2017; and
-- e. 100% of the relevant amount from 1 January 2018.
+- a. 20 per cent of the relevant amount from 1 January 2014;
+- b. 40 per cent of the relevant amount from 1 January 2015;
+- c. 60 per cent of the relevant amount from 1 January 2016;
+- d. 80 per cent of the relevant amount from 1 January 2017; and
+- e. 100 per cent of the relevant amount from 1 January 2018.
 
 <sup>2</sup> The portion of exposures under paragraph 1 that is not subject to deductions shall be recognised in required capital in accordance with the risk weighting under existing legislation.
 
@@ -2348,17 +2348,17 @@ Deductions that were not provided for under existing legislation shall be made f
 
 <sup>4</sup>
 
-For the portion of exposures under paragraph 3 that is not subject to a deduction, the deductions under existing legislation shall be continued over a five-year horizon in decrements of 20% annually, as follows:
+For the portion of exposures under paragraph 3 that is not subject to a deduction, the deductions under existing legislation shall be continued over a five-year horizon in decrements of 20 per cent annually, as follows:
 
-- a. 100% of the relevant amount from 1 January 2013;
-- b. 80% of the relevant amount from 1 January 2014;
-- c. 60% of the relevant amount from 1 January 2015;
-- d. 40% of the relevant amount from 1 January 2016;
-- e. 20% of the relevant amount from 1 January 2017.
+- a. 100 per cent of the relevant amount from 1 January 2013;
+- b. 80 per cent of the relevant amount from 1 January 2014;
+- c. 60 per cent of the relevant amount from 1 January 2015;
+- d. 40 per cent of the relevant amount from 1 January 2016;
+- e. 20 per cent of the relevant amount from 1 January 2017.
 
 <sup>5</sup> The additional deduction under paragraph 4 shall be eliminated completely from 1 January 2018.
 
-<sup>6</sup> Up to 31 December 2017, Threshold 3 (Art. 35 para.4) shall be 15% of CET1 capital after taking account of all regulatory adjustments except the deduction from Threshold 3.[^142-1]
+<sup>6</sup> Up to 31 December 2017, Threshold 3 (Art. 35 para.4) shall be 15 per cent of CET1 capital after taking account of all regulatory adjustments except the deduction from Threshold 3.[^142-1]
 
 <sup>7</sup> New deductions from AT1 capital or from Tier 2 capital shall be made using the same phased procedure as in paragraphs 1 to 5.
 
@@ -2396,16 +2396,16 @@ For the portion of exposures under paragraph 3 that is not subject to a deductio
 
 As regards required capital quality under Article 131, instruments shall be recognised as follows:
 
-- a: high-trigger convertible capital qualifying as Tier 2 capital which is held at the time this Amendment enters into force: recognised as high-trigger convertible capital in the form of AT1 capital for the period of its maturity or up to the time of the first capital call, but at the latest until 31 December 2019;
+- a. high-trigger convertible capital qualifying as Tier 2 capital which is held at the time this Amendment enters into force: recognised as high-trigger convertible capital in the form of AT1 capital for the period of its maturity or up to the time of the first capital call, but at the latest until 31 December 2019;
 - b. low-trigger convertible capital qualifying as AT1 capital which is held at the time this Amendment enters into force: recognised as high-trigger convertible capital in the form of AT1 capital up to the time of the first capital call;
 - c. convertible capital that no longer qualifies under letter a: recognised as funds used to meet the requirements under Articles 132 and 133 up to one year before final maturity;
 - d. convertible capital that no longer qualifies under letter b: recognised as funds used to meet the requirements under Articles 132 and 133 up to the time of any termination by the bank.
 
 <sup>2</sup>
 
-As regards required capital quality under Article 131, convertible capital with a 5% trigger and issued before the entry into force of the Amendment on 1 July 2016 shall be recognised as follows:
+As regards required capital quality under Article 131, convertible capital with a 5 per cent trigger and issued before the entry into force of the Amendment on 1 July 2016 shall be recognised as follows:
 
-- a: where it qualifies as Tier 2 capital: recognised as high-trigger convertible capital in the form of AT1 capital for the period of its maturity or up to the time of the first capital call, but at the latest until 31 December 2019;
+- a. where it qualifies as Tier 2 capital: recognised as high-trigger convertible capital in the form of AT1 capital for the period of its maturity or up to the time of the first capital call, but at the latest until 31 December 2019;
 - b. where it qualifies as AT1 capital: recognised as high-trigger convertible capital in the form of AT1 capital up to the time of the first capital call;
 - c. where it no longer qualifies under letters a and b: recognised as funds used to meet the requirements under Articles 132 and 133 up to one year before final maturity.
 
@@ -2413,25 +2413,25 @@ As regards required capital quality under Article 131, convertible capital with 
 
 **Going-concern capital of the bank**
 
-<sup>1</sup> With the entry into force of the Amendment on 1 July 2016, the requirement under Article 129 shall be 3% for the leverage ratio and 10.75% for the RWA ratio. A maximum of 0.70% of AT1 capital in the form of high-trigger convertible capital may be recognised for the leverage ratio, and a maximum of 2.625% for the RWA ratio.
+<sup>1</sup> With the entry into force of the Amendment on 1 July 2016, the requirement under Article 129 shall be 3 per cent for the leverage ratio and 10.75 per cent for the RWA ratio. A maximum of 0.70 per cent of AT1 capital in the form of high-trigger convertible capital may be recognised for the leverage ratio, and a maximum of 2.625 per cent for the RWA ratio.
 
-<sup>2</sup> In 2017, the requirement under Article 129 shall be 3.5% for the leverage ratio and 12.0% for the RWA ratio. A maximum of 0.9% of AT1 capital in the form of high-trigger convertible capital may be recognised for the leverage ratio, and a maximum of 3% for the RWA ratio.
+<sup>2</sup> In 2017, the requirement under Article 129 shall be 3.5 per cent for the leverage ratio and 12.0 per cent for the RWA ratio. A maximum of 0.9 per cent of AT1 capital in the form of high-trigger convertible capital may be recognised for the leverage ratio, and a maximum of 3 per cent for the RWA ratio.
 
-<sup>3</sup> In 2018, the requirement under Article 129 shall be 4.0% for the leverage ratio and 12.86% for the RWA ratio. A maximum of 1.1% of AT1 capital in the form of high-trigger convertible capital may be recognised for the leverage ratio, and a maximum of 3.4% for the RWA ratio.
+<sup>3</sup> In 2018, the requirement under Article 129 shall be 4.0 per cent for the leverage ratio and 12.86 per cent for the RWA ratio. A maximum of 1.1 per cent of AT1 capital in the form of high-trigger convertible capital may be recognised for the leverage ratio, and a maximum of 3.4 per cent for the RWA ratio.
 
-<sup>4</sup> In 2019, the base requirement under Article 129 must be met for the leverage ratio, and the base requirement under Article 129 plus half the surcharges for market share and total exposure must be met for the RWA ratio. A maximum of 1.3% of AT1 capital in the form of high-trigger convertible capital may be recognised for the leverage ratio, and a maximum of 3.9% for the RWA ratio.
+<sup>4</sup> In 2019, the base requirement under Article 129 must be met for the leverage ratio, and the base requirement under Article 129 plus half the surcharges for market share and total exposure must be met for the RWA ratio. A maximum of 1.3 per cent of AT1 capital in the form of high-trigger convertible capital may be recognised for the leverage ratio, and a maximum of 3.9 per cent for the RWA ratio.
 
 #### Art. 148d
 
 **Additional loss-absorbing funds**
 
-<sup>1</sup> With the entry into force of the Amendment on 1 July 2016, the requirement under Article 132 shall be 1.0% for the leverage ratio and 3.5% for the RWA ratio.
+<sup>1</sup> With the entry into force of the Amendment on 1 July 2016, the requirement under Article 132 shall be 1.0 per cent for the leverage ratio and 3.5 per cent for the RWA ratio.
 
-<sup>2</sup> In 2017, the requirement under Article 132 shall be 1.875% for the leverage ratio and 5.84% for the RWA ratio, plus a quarter of the surcharges for market share and total exposure.
+<sup>2</sup> In 2017, the requirement under Article 132 shall be 1.875 per cent for the leverage ratio and 5.84 per cent for the RWA ratio, plus a quarter of the surcharges for market share and total exposure.
 
-<sup>3</sup> In 2018, the requirement under Article 132 shall be 2.75% for the leverage ratio and 8.18% for the RWA ratio, plus half the surcharges for market share and total exposure.
+<sup>3</sup> In 2018, the requirement under Article 132 shall be 2.75 per cent for the leverage ratio and 8.18 per cent for the RWA ratio, plus half the surcharges for market share and total exposure.
 
-<sup>4</sup> In 2019, the requirement under Article 132 shall be 3.625% for the leverage ratio and 10.52% for the RWA ratio, plus three quarters of the surcharges for market share and total exposure.
+<sup>4</sup> In 2019, the requirement under Article 132 shall be 3.625 per cent for the leverage ratio and 10.52 per cent for the RWA ratio, plus three quarters of the surcharges for market share and total exposure.
 
 <sup>5</sup> The reduction in requirements in accordance with paragraphs 1 to 4 as a result of a rebate under Article 133 remains reserved.
 
@@ -2449,9 +2449,9 @@ As regards required capital quality under Article 131, convertible capital with 
 
 Measured in terms of weighted exposures, the maximum extended countercyclical buffer may amount to:
 
-- a. with the entry into force of the Amendment on 1 July 2016: 0.625%;
-- b. in 2017: 1.25%;
-- c. in 2018: 1.875%.
+- a. with the entry into force of the Amendment on 1 July 2016: 0.625 per cent;
+- b. in 2017: 1.25 per cent;
+- c. in 2018: 1.875 per cent.
 
 ### Section 3**** Transitional Provision to the Amendment of 23 November 2016
 
@@ -2467,7 +2467,7 @@ Measured in terms of weighted exposures, the maximum extended countercyclical bu
 
 <sup>2</sup> The exposures in the exposure class under Article 63 paragraph 3 letter f<sup>bis</sup> must be weighted in accordance with Article 66 paragraph 3<sup>bis</sup> at the latest 36 months after the entry into force of the Amendment of 23 November 2016.
 
-<sup>3</sup> Up to 31 December 2019, the conversion of derivatives into their credit equivalent within the scope of Title 4 may also be carried out using the market valuation method or the standardised method in accordance with Articles 56 to 58 in the version of 1 July 2016.[^148g-2] FINMA may extend this deadline.
+<sup>3</sup> Up to 31 December 2019, the conversion of derivatives into their credit equivalent within the scope of Title 4 may also be carried out using the market valuation method or the standardised method in accordance with Articles 56 to 58 in the version of 1 July 2016[^148g-2]. FINMA may extend this deadline.
 
 [^148g-1]: Amended by No I of the O of 22 Nov. 2017, in force since 1 Jan. 2018 ([AS 2017 7625](https://fedlex.data.admin.ch/eli/oc/2017/827)).
 [^148g-2]: [AS 2012 5441](https://fedlex.data.admin.ch/eli/oc/2012/629)
@@ -2500,13 +2500,13 @@ Individual transitional rules on the treatment of participations that were set b
 
 The requirement under Article 132 paragraph 2 letter b shall amount to:
 
-- a. in 2019: 0.21% for the leverage ratio and 0.64% for the RWA ratio;
-- b. in 2020: 0.42% for the leverage ratio and 1.28% for the RWA ratio;
-- c. in 2021: 0.63% for the leverage ratio and 1.92% for the RWA ratio;
-- d. in 2022: 0.84% for the leverage ratio and 2.56% for the RWA ratio;
-- e. in 2023: 1.05% for the leverage ratio and 3.2% for the RWA ratio;
-- f. in 2024: 1.26% for the leverage ratio and 3.84% for the RWA ratio;
-- g. in 2025: 1.5% for the leverage ratio and 4.5% for the RWA ratio, plus half the surcharges for market share and total exposure.
+- a. in 2019: 0.21 per cent for the leverage ratio and 0.64 per cent for the RWA ratio;
+- b. in 2020: 0.42 per cent for the leverage ratio and 1.28 per cent for the RWA ratio;
+- c. in 2021: 0.63 per cent for the leverage ratio and 1.92 per cent for the RWA ratio;
+- d. in 2022: 0.84 per cent for the leverage ratio and 2.56 per cent for the RWA ratio;
+- e. in 2023: 1.05 per cent for the leverage ratio and 3.2 per cent for the RWA ratio;
+- f. in 2024: 1.26 per cent for the leverage ratio and 3.84 per cent for the RWA ratio;
+- g. in 2025: 1.5 per cent for the leverage ratio and 4.5 per cent for the RWA ratio, plus half the surcharges for market share and total exposure.
 
 ### Section 6**** Transitional Provisions to the Amendment of 27 November 2019
 
@@ -2534,16 +2534,16 @@ The requirement under Article 132 paragraph 2 letter b shall amount to:
 
 The requirement under Article 132 paragraph 2 letter a number 3 third indent shall amount to:
 
-- a. in 2020: 0%;
-- b. in 2021: 5%;
-- c. in 2022: 10%;
-- d. in 2023: 20%.
+- a. in 2020: 0 per cent;
+- b. in 2021: 5 per cent;
+- c. in 2022: 10 per cent;
+- d. in 2023: 20 per cent.
 
 #### Art. 148m
 
 **Rebates for internationally active systemically important banks**
 
-In 2020 and 2021, the requirements under Article 133 paragraph 2 may not fall below 3% for the leverage ratio and 8.6% for the RWA ratio.
+In 2020 and 2021, the requirements under Article 133 paragraph 2 may not fall below 3 per cent for the leverage ratio and 8.6 per cent for the RWA ratio.
 
 ### Chapter 2 Final Provisions
 
@@ -2553,7 +2553,7 @@ In 2020 and 2021, the requirements under Article 133 paragraph 2 may not fall be
 
 The Capital Adequacy Ordinance of 29 September 2006[^149-1] is repealed.
 
-[^149-1]: [[AS 2006 4307](https://fedlex.data.admin.ch/eli/oc/2006/662), [2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)Annex No 8, [2009 6101](https://fedlex.data.admin.ch/eli/oc/2009/747), [2010 5429](https://fedlex.data.admin.ch/eli/oc/2010/770)and **2012** 3539]
+[^149-1]: [[AS 2006 4307](https://fedlex.data.admin.ch/eli/oc/2006/662), [2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)Annex No 8, [2009 6101](https://fedlex.data.admin.ch/eli/oc/2009/747), [2010 5429](https://fedlex.data.admin.ch/eli/oc/2010/770), [2012 3539](https://fedlex.data.admin.ch/eli/oc/2012/395)]
 
 #### Art. 150
 
@@ -2610,7 +2610,7 @@ Other contingent liabilities (under No. 6.2) contain, in particular:
 \1. – sale and repurchase agreements and asset sales with recourse, where the credit risk remains with the bank [paragraph 83(ii) of the Basel II framework];
 
 - [tab] – lending of securities and posting of securities as collateral, including instances where these arise out of repo-style transactions, e.g. repurchase/reverse repurchase and securities lending/borrowing transactions [paragraph 84 of the Basel minimum standards];
-- [tab] – forward asset purchases, forward forward deposits and partly paid shares and securities which represent commitments with certain drawdown [paragraph 84(i) of the Basel II framework];
+- [tab] – forward asset purchases, forward forward deposits and partly paid shares and securities which represent commitments with certain drawdown [paragraph 84(i) of the Basel II framework].
 
 \2. Where there is an undertaking to provide a commitment on an off-balance sheet item, banks may use the lower of the two applicable credit conversion factors [paragraph 86 of the Basel II framework].
 
@@ -2701,7 +2701,7 @@ Annex 4*[^t-5]*
 <tr><td>1.4</td><td>Participations outside the banking, financial and insurance sectors</td><td colspan="5">Traded on a regulated stock exchange</td><td></td></tr>
 <tr><td></td><td></td><td colspan="5">Yes</td><td>100%</td></tr>
 <tr><td></td><td></td><td colspan="5">No</td><td>150%</td></tr>
-<tr><td>1.5</td><td colspan="5">Participations in the banking, financial and insurance sectors, where these are not deducted from CET1 or AT1 capital or weighted at 250% in accordance with Article 40 paragraph 2</td><td></td><td>150%</td></tr>
+<tr><td>1.5</td><td colspan="5">Participations in the banking, financial and insurance sectors, where these are not deducted from CET1 or AT1 capital or weighted at 250 per cent in accordance with Article 40 paragraph 2</td><td></td><td>150%</td></tr>
 <tr><td>1.6</td><td colspan="6">As part of the individual entity calculation: the net long positions of direct or indirect participations calculated in accordance with Article 52 in companies subject to consolidated financial reporting, with registered office:</td><td>in Switzerland: 250%</td></tr>
 <tr><td></td><td colspan="6"></td><td>abroad: 400%</td></tr>
 <tr><td>1.7</td><td colspan="6">As part of the individual entity calculation: the net long positions of direct or indirect regulatory capital instruments calculated in accordance with Article 52 in companies subject to consolidated financial reporting, with registered office:</td><td>in Switzerland: 250%</td></tr>
@@ -2743,7 +2743,15 @@ Annex 6
 
 Annex 7*[^t-6]*
 
-[^t-6]: Inserted by No I of the O of 13 Feb. 2013 ([AS 2013 693](https://fedlex.data.admin.ch/eli/oc/2013/129)). Repealed by No I of the O of 27 March 2020, with effect from 28 March 2020 ([AS 2020 1105](https://fedlex.data.admin.ch/eli/oc/2020/197)).
+(Art. 44 para. 2)
+
+## Countercyclical buffer
+
+[^t-6]: Inserted by No I of the O of 13 Feb. 2013 ([AS 2013 693](https://fedlex.data.admin.ch/eli/oc/2013/129)). Amended by No II of the O of 26 Jan. 2022, in force since 30 Sept. 2022 ([AS 2022 53](https://fedlex.data.admin.ch/eli/oc/2022/53)).
+
+- 1\. The banks are required to maintain a countercyclical buffer in the form of Tier 1 capital on direct and indirect mortgage-backed credit exposures for residential real estate in Switzerland in accordance with Article 72.
+- 2\. The buffer amounts to 2.5 per cent of the risk-weighted credit exposures.
+- 3\. The countercyclical buffer applies from 30 September 2022 until the repeal or amendment of this Annex.
 
 Annex 8*[^t-7]*
 
@@ -2757,15 +2765,15 @@ Annex 8*[^t-7]*
 
 <table>
 <tr><td>Category under Annex 3 of the BankO[^annex8-lvlu1-1]</td><td colspan="2">1 and 2</td><td colspan="2">3</td><td colspan="2">4</td><td colspan="2">5</td></tr>
-<tr><td colspan="2">Minimum capital</td><td colspan="8">8.0%</td></tr>
-<tr><td colspan="2">[tab] - of which CET1</td><td colspan="8">4.5%</td></tr>
-<tr><td colspan="2">[tab] - of which AT1 or higher</td><td colspan="8">1.5%</td></tr>
-<tr><td colspan="2">[tab] - of which T2 or higher</td><td colspan="8">2.0%</td></tr>
-<tr><td colspan="2">Capital buffer</td><td colspan="2">4.8%</td><td colspan="2">4.0%</td><td colspan="2">3.2%</td><td colspan="2">2.5%</td></tr>
-<tr><td colspan="2">[tab] - of which CET1</td><td colspan="2">3.7%</td><td colspan="2">3.3%</td><td colspan="2">2.9%</td><td colspan="2">2.5%</td></tr>
-<tr><td colspan="2">[tab] - of which AT1 or higher</td><td colspan="2">0.5%</td><td colspan="2">0.3%</td><td colspan="2">0.1%</td><td colspan="2">–</td></tr>
-<tr><td colspan="2">[tab] - of which T2 or higher</td><td colspan="2">0.6%</td><td colspan="2">0.4%</td><td colspan="2">0.2%</td><td colspan="2">–</td></tr>
-<tr><td colspan="2">Total capital ratio</td><td colspan="2">12.8%</td><td colspan="2">12.0%</td><td colspan="2">11.2%</td><td colspan="2">10.5%</td></tr>
+<tr><td colspan="2">Minimum capital</td><td colspan="7">8.0%</td></tr>
+<tr><td colspan="2">[tab] - of which CET1</td><td colspan="7">4.5%</td></tr>
+<tr><td colspan="2">[tab] - of which AT1 or higher</td><td colspan="7">1.5%</td></tr>
+<tr><td colspan="2">[tab] - of which T2 or higher</td><td colspan="7">2.0%</td></tr>
+<tr><td colspan="2">Capital buffer</td><td colspan="2">4.8%</td><td colspan="2">4.0%</td><td colspan="2">3.2%</td><td>2.5%</td></tr>
+<tr><td colspan="2">[tab] - of which CET1</td><td colspan="2">3.7%</td><td colspan="2">3.3%</td><td colspan="2">2.9%</td><td>2.5%</td></tr>
+<tr><td colspan="2">[tab] - of which AT1 or higher</td><td colspan="2">0.5%</td><td colspan="2">0.3%</td><td colspan="2">0.1%</td><td>–</td></tr>
+<tr><td colspan="2">[tab] - of which T2 or higher</td><td colspan="2">0.6%</td><td colspan="2">0.4%</td><td colspan="2">0.2%</td><td>–</td></tr>
+<tr><td colspan="2">Total capital ratio</td><td colspan="2">12.8%</td><td colspan="2">12.0%</td><td colspan="2">11.2%</td><td>10.5%</td></tr>
 </table>
 
 [^annex8-lvlu1-1]: [SR 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
@@ -2780,7 +2788,7 @@ Annex 9*[^t-8]*
 
 ### 1 Surcharges for market share
 
-### 1.1 Market share of up to 27%
+### 1.1 Market share of up to 27 per cent
 
 <table>
 <tr><td>Bucket</td><td>Market share</td><td>LR surcharge</td><td>RWA ratio surcharge</td></tr>
@@ -2790,7 +2798,7 @@ Annex 9*[^t-8]*
 <tr><td>M4</td><td>&lt; 27%</td><td>0.375%</td><td>1.08%</td></tr>
 </table>
 
-### 1.2 Market share of 27% or more
+### 1.2 Market share of 27 per cent or more
 
 For every additional 5 percentage points of market share, the requirement increases by 0.125 percentage points for the leverage ratio and by 0.36 percentage points for the RWA ratio.
 

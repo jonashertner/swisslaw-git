@@ -4,20 +4,20 @@ title: "Ordonnance du 1<sup>er</sup> juin 2012 les fonds propres et la répartit
 short: OFR
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/629"
 language: fr
-version: 2021-08-01
+version: 2022-09-30
 adopted: 2012-06-01
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20210801/fr/xml/fedlex-data-admin-ch-eli-cc-2012-629-20210801-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/629/20210801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20220930/fr/xml/fedlex-data-admin-ch-eli-cc-2012-629-20220930-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/629/20220930/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur les fonds propres et la répartition des risques des banques et des maisons de titres
 
-(Ordonnance sur les fonds propres, OFR)**[^t-1]**
+(Ordonnance sur les fonds propres, OFR)[^t-1]
 
-du 1<sup>er</sup> juin 2012 (Etat le 1<sup>er</sup> août 2021)
+du 1<sup>er</sup> juin 2012 (État le 30 septembre 2022)
 
 [^t-1]: Nouvelle teneur selon l’annexe 1 ch. II 10 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
@@ -288,9 +288,9 @@ Les banques peuvent mettre en œuvre sous une forme simplifiée diverses disposi
 
 **Éléments de capital**
 
-<sup>1</sup> Les fonds propres pris en compte se composent des fonds propres de base («*Tier 1 Capital*; T1») et des fonds propres complémentaires («*Tier 2 Cap**i**tal*; T2»).
+<sup>1</sup> Les fonds propres pris en compte se composent des fonds propres de base («*Tier 1 Capital*; T1») et des fonds propres complémentaires («*Tier 2 Capital*; T2»).
 
-<sup>2</sup> Les fonds propres de base se composent des fonds propres de base durs («*Common Equity Tier 1*; CET1») et des fonds propres de base supplémentaires («*Additi**o**nal Tier 1*; AT1»).
+<sup>2</sup> Les fonds propres de base se composent des fonds propres de base durs («*Common Equity Tier 1*; CET1») et des fonds propres de base supplémentaires («*Additional Tier 1*; AT1»).
 
 #### Art. 19
 
@@ -580,13 +580,13 @@ Sont à déduire intégralement des fonds propres de base durs:
 
 - a. une perte reportée et la perte de l’exercice en cours;
 - b. un besoin non couvert de correctifs de valeurs et de provisions de l’exercice en cours;
-- c. la survaleur «*goodwill*», y compris celle qui a le cas échéant été prise en compte dans l’évaluation des participations importantes dans des entreprises du secteur financier hors du domaine de consolidation, et les valeurs immatérielles, à l’exception des droits de gestion hypothécaire «*mortgage serv**i**cing rights;* MSR»;
-- d. les créances fiscales latentes «*deferred tax assets*, DTA» dont la réalisation dépend de la rentabilité future, une compensation avec des engagements fiscaux latents correspondants n’étant autorisée que dans le cadre de la même compétence fiscale géographique et matérielle, font exception les DTA résultant d’écarts temporels «*temporary diff**e**rences*»;
+- c. la survaleur «*goodwill*», y compris celle qui a le cas échéant été prise en compte dans l’évaluation des participations importantes dans des entreprises du secteur financier hors du domaine de consolidation, et les valeurs immatérielles, à l’exception des droits de gestion hypothécaire «*mortgage servicing rights;* MSR»;
+- d. les créances fiscales latentes «*deferred tax assets*, DTA» dont la réalisation dépend de la rentabilité future, une compensation avec des engagements fiscaux latents correspondants n’étant autorisée que dans le cadre de la même compétence fiscale géographique et matérielle, font exception les DTA résultant d’écarts temporels «*temporary differences*»;
 - e. dans le cas des banques qui utilisent l’IRB[^32-1] (art. 77), le montant correspondant à la différence entre les pertes attendues calculées selon cette approche et les correctifs de valeur selon les standards minimaux de Bâle;
 - f. les produits de cessions de créances en relation avec des opérations de titrisation «*gain on sale related to securitization transactions*»;
 - g. les créances inscrites au bilan envers des fonds de pension avec primauté des prestations «*defined benefit pension fund assets*», conformément aux prescriptions correspondantes des standards minimaux de Bâle;
 - h. les positions nettes longues selon l’art. 52 en propres titres de participation qui font partie des fonds propres de base durs, détenues en propre directement ou indirectement, dans le portefeuille de négoce ou en dehors de celui-ci, pour autant qu’elles n’aient pas déjà été comptabilisées au passif du compte de résultat;
-- i. les participations qualifiées au capital d’une autre société du secteur financier, dans la mesure où celle-ci participe également au capital de la banque «*rec**i**procal holdings*»;
+- i. les participations qualifiées au capital d’une autre société du secteur financier, dans la mesure où celle-ci participe également au capital de la banque «*reciprocal holdings*»;
 - j.[^32-2] dans le cadre du calcul par établissement si la FINMA n’autorise pas la pondération des risques selon l’annexe 4, ch. 1.6 ou 1.7: les positions nettes longues, calculées selon l’art. 52, en participations détenues directement dans des sociétés à consolider opérant dans le secteur financier;
 - k. les déductions résultant d’une option correspondante choisie par la banque dans le cadre des dispositions relatives à la consolidation figurant à aux art. 7, al. 4, 8, al. 2 et 3, et 9, al. 1 et 3.
 
@@ -736,7 +736,7 @@ Les positions pondérées comprennent:
 
 <sup>3</sup> Lorsque le volant de fonds propres est inférieur aux exigences, la FINMA fixe un délai pour remédier à cette situation.
 
-[^43-1]: Nouvelle teneur selon le ch. I de l’O du 11 mai 2016, en vigueur depuis le 1er juil. 2016 (RO 2016 1725).
+[^43-1]: Nouvelle teneur selon le ch. I de l’O du 11 mai 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
 
 #### Art. 44
 
@@ -749,11 +749,13 @@ La Banque nationale suisse peut demander au Conseil fédéral de contraindre les
 - a. de renforcer la résistance du secteur bancaire face aux risques d’une croissance excessive du crédit, ou
 - b. de lutter contre les risques d’une croissance excessive du crédit.
 
-<sup>2</sup> Elle consulte la FINMA avant de remettre sa demande et informe dans le même temps le Département fédéral des finances. Si le Conseil fédéral approuve la demande, il modifie, en annexe, la présente ordonnance dans le sens de la demande.
+<sup>2</sup> Elle consulte la FINMA avant de remettre sa demande et informe dans le même temps le Département fédéral des finances. Si le Conseil fédéral approuve la demande, il complète la présente ordonnance par une annexe 7 dans le sens de la demande.[^44-1]
 
 <sup>3</sup> Le volant anticyclique peut se limiter à certaines positions de crédit. Il est supprimé ou adapté aux nouvelles circonstances si les critères déterminants pour l’ordonner ne sont plus remplis. La procédure est régie par les al. 1 et 2.
 
 <sup>4</sup> L’art. 43, al. 2 et 3, s’applique par analogie au volant anticyclique.
+
+[^44-1]: Nouvelle teneur de la phrase selon le ch. I de l’O du 26 janv. 2022, en vigueur depuis le 30 sept. 2022 ([RO 2022 53](https://fedlex.data.admin.ch/eli/oc/2022/53)).
 
 #### Art. 44a
 
@@ -805,7 +807,7 @@ La FINMA peut exiger des banques qui déterminent leurs fonds propres nécessair
 
 [^47-1]: Expected-Positive-Exposure
 
-### Chapitre 1*a***** Application simplifiée pour les banques particulièrement liquides et bien capitalisées des catégories 4 et 5
+### Chapitre 1*a* Application simplifiée pour les banques particulièrement liquides et bien capitalisées des catégories 4 et 5
 
 [^tit3-chap1a-1]
 
@@ -1412,7 +1414,7 @@ Les fonds propres minimaux pour couvrir les risques de marché peuvent être cal
 
 <sup>2</sup> La FINMA édicte les dispositions techniques applicables au calcul des fonds propres minimaux requis pour couvrir le risque spécifique des instruments de taux d’intérêt découlant de titrisations et répartis en tranches en fonction des risques.
 
-<sup>3</sup> Les fonds propres minimaux requis pour couvrir le risque général de marché des instruments de taux d’intérêt correspondent à la somme des valeurs déterminées par devise selon la méthode des échéances ou la méthode de la «*dur**a**tion*».
+<sup>3</sup> Les fonds propres minimaux requis pour couvrir le risque général de marché des instruments de taux d’intérêt correspondent à la somme des valeurs déterminées par devise selon la méthode des échéances ou la méthode de la «*duration*».
 
 #### Art. 85
 
@@ -1621,7 +1623,7 @@ En dérogation à l’art. 97, al. 1, la limite maximale applicable aux gros ris
 
 [^99-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 7625](https://fedlex.data.admin.ch/eli/oc/2017/827)).
 
-### Section 3**** Obligations d’annoncer en matière de gros risques et d’autres risques de crédit élevés
+### Section 3 Obligations d’annoncer en matière de gros risques et d’autres risques de crédit élevés
 
 [^tit4-chap1-sec3-1]
 
@@ -1799,7 +1801,7 @@ En outre, elle peut dans certains cas alléger ou renforcer ces prescriptions. E
 [^112-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 7625](https://fedlex.data.admin.ch/eli/oc/2017/827)).
 [^112-2]: [RS 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
 
-### Chapitre 2**** Calcul de la position globale
+### Chapitre 2 Calcul de la position globale
 
 [^tit4-chap2-1]
 
@@ -1949,7 +1951,7 @@ Les exigences particulières doivent être satisfaites au niveau du groupe finan
 
 [^125a-1]: Introduit par le ch. I de l’O du 11 mai 2016 ([RO 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)). Abrogé par le ch. I de l’O du 22 nov. 2017, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 7625](https://fedlex.data.admin.ch/eli/oc/2017/827)).
 
-### Chapitre 2 Capital convertible et instruments de dette destinés à absorber les pertes en présence de mesures en cas d’insolvabilité****
+### Chapitre 2 Capital convertible et instruments de dette destinés à absorber les pertes en présence de mesures en cas d’insolvabilité
 
 [^tit5-chap2-1]
 
@@ -2057,7 +2059,7 @@ Les banques d’importance systémique ne peuvent pas détenir à leurs propres 
 [^127a-3]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
 [^127a-4]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
 
-### Chapitre 3**** Fonds propres nécessaires pour poursuivre l’exploitation ordinaire de la banque
+### Chapitre 3 Fonds propres nécessaires pour poursuivre l’exploitation ordinaire de la banque
 
 [^tit5-chap3-1]
 
@@ -2146,7 +2148,7 @@ Les exigences relatives aux volants anticycliques selon les art. 44 et 44*a* doi
 
 Sur la base des critères de l’art. 45, la FINMA peut, dans des circonstances particulières et au cas par cas, exiger des fonds propres supplémentaires ou une qualité plus élevée.
 
-### Chapitre 4**** Fonds supplémentaires destinés à absorber les pertes
+### Chapitre 4 Fonds supplémentaires destinés à absorber les pertes
 
 [^tit5-chap4-1]
 
@@ -2266,7 +2268,7 @@ La limite maximale selon l’al. 2 doit être respectée au plus tard dans les d
 
 ### Chapitre 1 Dispositions transitoires
 
-### Section 1 Dispositions transitoires du 1<sup>er</sup> juin 2012****
+### Section 1 Dispositions transitoires du 1<sup>er</sup> juin 2012
 
 [^tit6-chap1-sec1-1]
 
@@ -2374,7 +2376,7 @@ Pour la quote-part des positions selon l’al. 3 non soumise à déduction, la d
 
 [^148a-1]: Introduit par l’annexe 2 ch. 4 de l’O du 30 avr. 2014 sur les banques ([RO 2014 1269](https://fedlex.data.admin.ch/eli/oc/2014/273)). Abrogé par le ch. I de l’O du 11 mai 2016, avec effet au 1<sup>er</sup> juil. 2016 ([RO 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
 
-### Section 2**** Dispositions transitoires relatives à la modification du 11 mai 2016
+### Section 2 Dispositions transitoires relatives à la modification du 11 mai 2016
 
 [^tit6-chap1-sec2-1]
 
@@ -2445,7 +2447,7 @@ Le volant anticyclique étendu peut atteindre, sur la base des positions pondér
 - b. 1,25 % en 2017;
 - c. 1,875 % en 2018.
 
-### Section 3**** Disposition transitoire relative à la modification du 23 novembre 2016
+### Section 3 Disposition transitoire relative à la modification du 23 novembre 2016
 
 [^tit6-chap1-sec3-1]
 
@@ -2464,7 +2466,7 @@ Le volant anticyclique étendu peut atteindre, sur la base des positions pondér
 [^148g-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7625](https://fedlex.data.admin.ch/eli/oc/2017/827)).
 [^148g-2]: [RO 2012 5441](https://fedlex.data.admin.ch/eli/oc/2012/629)
 
-### Section 4**** Disposition transitoire relative à la modification du 22 novembre 2017
+### Section 4 Disposition transitoire relative à la modification du 22 novembre 2017
 
 [^tit6-chap1-sec4-1]
 
@@ -2474,7 +2476,7 @@ Le volant anticyclique étendu peut atteindre, sur la base des positions pondér
 
 Les banques qui attendent ou soupçonnent des dépassements non autorisés de la limite maximale applicable aux gros risques (art. 97 à 99) à partir du 1<sup>er</sup> janvier 2019 s’annoncent auprès de la FINMA dans les trois mois suivant l’entrée en vigueur de la modification du 22 novembre 2017.
 
-### Section 5**** Disposition transitoire relative à la modification du 21 novembre 2018
+### Section 5 Disposition transitoire relative à la modification du 21 novembre 2018
 
 [^tit6-chap1-sec5-1]
 
@@ -2500,7 +2502,7 @@ L’exigence énoncée à l’art. 132, al. 2, let. b, se monte:
 - f. en 2024, à 1,26 % pour le *leverage ratio* et à 3,84 % pour la part RWA;
 - g. en 2025, à 1,5 % pour le *leverage ratio* et à 4,5 % pour la part RWA, auxquels s’ajoutent la moitié du supplément lié à la part de marché et la moitié du supplément lié à l’engagement total.
 
-### Section 6**** Dispositions transitoires relatives à la modification du 27 novembre 2019
+### Section 6 Dispositions transitoires relatives à la modification du 27 novembre 2019
 
 [^tit6-chap1-sec6-1]
 
@@ -2565,7 +2567,7 @@ La modification du droit en vigueur est réglée à l’annexe 6.
 
 [^151-1]: Approuvée par l’Ass. féd. le 18 sept. 2012 ([FF 2012 7771](https://fedlex.data.admin.ch/eli/fga/2012/1442)).
 
-Annexe 1*[^t-2]*
+Annexe 1[^t-2]
 
 (art. 54, al. 1)
 
@@ -2605,7 +2607,7 @@ Remarques:
 
 \2. En cas de promesse portant sur la mise à disposition d’une position hors bilan, les banques peuvent prendre le plus bas des deux facteurs de conversion de crédit en équivalents-crédit applicables [§86 des exigences minimales de Bâle].
 
-Annexe 2*[^t-3]*
+Annexe 2[^t-3]
 
 (art. 66, al. 1)
 
@@ -2639,7 +2641,7 @@ Annexe 2*[^t-3]*
 <tr><td>7</td><td>Entreprises</td><td>20 %</td><td>20 %</td><td>50 %</td><td>100 %</td><td>100 %</td><td>150 %</td><td>150 %</td><td>100 %</td><td>–</td></tr>
 </table>
 
-Annexe 3*[^t-4]*
+Annexe 3[^t-4]
 
 (art. 66, al. 2)
 
@@ -2673,7 +2675,7 @@ Annexe 3*[^t-4]*
 <tr><td>6.3</td><td>Autres positions (y.c. les délimitations comptables transitoires)</td><td>100 %</td></tr>
 </table>
 
-Annexe 4*[^t-5]*
+Annexe 4[^t-5]
 
 (art. 32, let. j, et 66, al. 3)
 
@@ -2684,7 +2686,7 @@ Annexe 4*[^t-5]*
 <table>
 <tr><th></th><th colspan="3">Classe de positions «titres de participation et parts de placements collectifs de capitaux»</th><th>Pondérations-risque</th></tr>
 <tr><th></th><th></th><th></th><th></th><th>AS-BRI</th></tr>
-<tr><td>1.1</td><td>Titres de participations détenus dans les immobilisations financières ou, lorsque la banque applique l’approche *de min**i**mis*, dans le portefeuille de négoce.</td><td></td><td>Traités dans une bourse régulée</td><td></td></tr>
+<tr><td>1.1</td><td>Titres de participations détenus dans les immobilisations financières ou, lorsque la banque applique l’approche *de minimis*, dans le portefeuille de négoce.</td><td></td><td>Traités dans une bourse régulée</td><td></td></tr>
 <tr><td></td><td></td><td></td><td>oui</td><td>100 %</td></tr>
 <tr><td></td><td></td><td></td><td>non</td><td>150 %</td></tr>
 <tr><td>1.2</td><td>...</td><td></td><td></td><td></td></tr>
@@ -2732,11 +2734,19 @@ Annexe 6
 
 [^annex6-lvlu1-1]: Les mod. peuvent être consultées au [RO 2012 5441](https://fedlex.data.admin.ch/eli/oc/2012/629).
 
-Annexe 7*[^t-6]*
+Annexe 7[^t-6]
 
-[^t-6]: Introduite par le ch. I de l’O du 13 fév. 2013 ([RO 2013 693](https://fedlex.data.admin.ch/eli/oc/2013/129)). Abrogée par le ch. I de l’O du 27 mars 2020, avec effet au 28 mars 2020 ([RO 2020 1105](https://fedlex.data.admin.ch/eli/oc/2020/197)).
+(art. 44, al. 2)
 
-Annexe 8*[^t-7]*
+## Volant anticyclique
+
+[^t-6]: Introduite par le ch. I de l’O du 13 fév. 2013 ([RO 2013 693](https://fedlex.data.admin.ch/eli/oc/2013/129)). Nouvelle teneur selon le ch. II de l’O du 26 janv. 2022, en vigueur depuis le 30 sept. 2022 ([RO 2022 53](https://fedlex.data.admin.ch/eli/oc/2022/53)).
+
+- 1 Les banques sont tenues de conserver, sous forme de fonds propres de base durs, un volant anticyclique sur des positions de crédit garanties de manière directe ou indirecte par des gages immobiliers pour des objets d’habitation situés en Suisse au sens de l’art. 72.
+- 2 Le volant anticyclique correspond à 2,5 % des positions de crédit pondérées en fonction des risques.
+- 3 Il s’applique à partir du 30 septembre 2022 et dure jusqu’à l’abrogation ou la modification de la présente annexe.
+
+Annexe 8[^t-7]
 
 (art. 43, al. 1)
 
@@ -2748,20 +2758,20 @@ Annexe 8*[^t-7]*
 
 <table>
 <tr><td>Catégorie selon l’annexe 3 de l’OB[^annex8-lvlu1-1]</td><td colspan="2">1 et 2</td><td colspan="2">3</td><td colspan="2">4</td><td colspan="2">5</td></tr>
-<tr><td colspan="2">**Fonds propres minimaux**</td><td colspan="7">8,0 %</td></tr>
+<tr><td colspan="2">Fonds propres minimaux</td><td colspan="7">8,0 %</td></tr>
 <tr><td colspan="2">– dont CET1</td><td colspan="7">4,5 %</td></tr>
 <tr><td colspan="2">– dont AT1 ou supérieur</td><td colspan="7">1,5 %</td></tr>
 <tr><td colspan="2">– dont T2 ou supérieur</td><td colspan="7">2,0 %</td></tr>
-<tr><td colspan="2">**Volant de fonds propres**</td><td colspan="2">4,8 %</td><td colspan="2">4,0 %</td><td colspan="2">3,2 %</td><td>2,5 %</td></tr>
+<tr><td colspan="2">Volant de fonds propres</td><td colspan="2">4,8 %</td><td colspan="2">4,0 %</td><td colspan="2">3,2 %</td><td>2,5 %</td></tr>
 <tr><td colspan="2">– dont CET1</td><td colspan="2">3,7 %</td><td colspan="2">3,3 %</td><td colspan="2">2,9 %</td><td>2,5 %</td></tr>
 <tr><td colspan="2">– dont AT1 ou supérieur</td><td colspan="2">0,5 %</td><td colspan="2">0,3 %</td><td colspan="2">0,1 %</td><td>–</td></tr>
 <tr><td colspan="2">– dont T2 ou supérieur</td><td colspan="2">0,6 %</td><td colspan="2">0,4 %</td><td colspan="2">0,2 %</td><td>–</td></tr>
-<tr><td colspan="2">**Ratio total de fonds propres**</td><td colspan="2">12,8 %</td><td colspan="2">12,0 %</td><td colspan="2">11,2 %</td><td>10,5 %</td></tr>
+<tr><td colspan="2">Ratio total de fonds propres</td><td colspan="2">12,8 %</td><td colspan="2">12,0 %</td><td colspan="2">11,2 %</td><td>10,5 %</td></tr>
 </table>
 
 [^annex8-lvlu1-1]: [RS 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
 
-Annexe 9*[^t-8]*
+Annexe 9[^t-8]
 
 (art. 129)
 

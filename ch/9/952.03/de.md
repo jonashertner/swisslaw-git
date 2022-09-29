@@ -4,20 +4,20 @@ title: "Verordnung vom 1. Juni 2012 über die Eigenmittel und Risikoverteilung d
 short: ERV
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/629"
 language: de
-version: 2021-08-01
+version: 2022-09-30
 adopted: 2012-06-01
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20210801/de/xml/fedlex-data-admin-ch-eli-cc-2012-629-20210801-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/629/20210801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20220930/de/xml/fedlex-data-admin-ch-eli-cc-2012-629-20220930-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/629/20220930/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Verordnung über die Eigenmittel und Risikoverteilung der Banken und Wertpapierhäuser****
+# Verordnung über die Eigenmittel und Risikoverteilung der Banken und Wertpapierhäuser
 
 (Eigenmittelverordnung, ERV)[^t-1]
 
-vom 1. Juni 2012 (Stand am 1. August 2021)
+vom 1. Juni 2012 (Stand am 30. September 2022)
 
 [^t-1]: Fassung gemäss Anhang 1 Ziff. II 10 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
@@ -750,11 +750,13 @@ Die Schweizerische Nationalbank kann dem Bundesrat beantragen, die Banken zu ver
 - a. die Widerstandsfähigkeit des Bankensektors gegenüber den Risiken eines übermässigen Kreditwachstums zu stärken; oder
 - b. einem übermässigen Kreditwachstum entgegenzuwirken.
 
-<sup>2</sup> Sie hört die FINMA vorgängig zum Antrag an und informiert gleichzeitig das Eidgenössische Finanzdepartement. Folgt der Bundesrat dem Antrag, so wird diese Verordnung mit einem entsprechenden Anhang ergänzt.
+<sup>2</sup> Sie hört die FINMA vorgängig zum Antrag an und informiert gleichzeitig das Eidgenössische Finanzdepartement. Folgt der Bundesrat dem Antrag, so wird diese Verordnung mit einem entsprechenden Anhang 7 ergänzt.[^44-1]
 
 <sup>3</sup> Der antizyklische Puffer kann auf bestimmte Kreditpositionen beschränkt werden. Er wird aufgehoben oder den veränderten Verhältnissen angepasst, wenn die für seine Anordnung massgebenden Kriterien nicht mehr erfüllt sind. Das Verfahren richtet sich nach den Absätzen 1 und 2.
 
 <sup>4</sup> Artikel 43 Absätze 2 und 3 gilt für den antizyklischen Puffer sinngemäss.
+
+[^44-1]: Fassung des zweiten Satzes gemäss Ziff. I der V vom 26. Jan. 2022, in Kraft seit 30. Sept. 2022 ([AS 2022 53](https://fedlex.data.admin.ch/eli/oc/2022/53)).
 
 #### Art. 44a
 
@@ -807,7 +809,7 @@ Für Banken, die ihre erforderlichen Eigenmittel auf Basis von bewilligungspflic
 [^47-1]: Steht für: *Expected-Positive-Exposure*-Modellmethode.
 [^47-2]: Steht für: *Advanced Measurement Approaches*.
 
-### 1*a*. Kapitel:**** Vereinfachungen für besonders liquide und gut kapitalisierte Banken der Kategorien 4 und 5
+### 1*a*. Kapitel: Vereinfachungen für besonders liquide und gut kapitalisierte Banken der Kategorien 4 und 5
 
 [^tit3-chap1a-1]
 
@@ -985,9 +987,9 @@ Die Nettopositionen werden wie folgt berechnet:
 
 Die Nettopositionen für Eigenkapitalinstrumente von im Finanzbereich tätigen Unternehmen werden, unter Berücksichtigung der zusätzlichen Anforderungen nach den Absätzen 2 und 3, wie folgt berechnet:
 
-- physischer Bestand zuzüglich synthetische Positionen sowie Titelforderungen aus *Securities Lending* abzüglich Titelverpflichtungen aus *Securities Borr**o**wing*
+- physischer Bestand zuzüglich synthetische Positionen sowie Titelforderungen aus *Securities Lending* abzüglich Titelverpflichtungen aus *Securities Borrowing*
 - + nicht erfüllte Kassa- und Terminkäufe (einschliesslich *Financial Futures* und *Swaps*)
-- ./. nicht erfüllte Kassa- und Terminverkäufe (einschliesslich *Financial Fut**u**res* und *Swaps*)
+- ./. nicht erfüllte Kassa- und Terminverkäufe (einschliesslich *Financial Futures* und *Swaps*)
 - ./. Positionen im Zusammenhang mit Emissionsgeschäften, die fünf Werktage oder weniger gehalten wurden
 - + Lieferansprüche aus *Call*-Käufen, deltagewichtet
 - ./. Lieferverpflichtungen aus geschriebenen *Calls*, deltagewichtet
@@ -1171,7 +1173,7 @@ In folgenden Positionsklassen können keine externen Ratings verwendet werden:
 
 <sup>1</sup> Banken können im SA-BIZ Positionen mit *Ratings* von *Rating*agenturen gewichten, sofern diese von der FINMA zu diesem Zweck anerkannt sind.
 
-<sup>2</sup> Die FINMA ordnet die Ratings der anerkannten *Rating*agenturen einzelnen *R**a**ting*klassen zu und legt die Risikogewichtung der einzelnen Klassen fest.
+<sup>2</sup> Die FINMA ordnet die Ratings der anerkannten *Rating*agenturen einzelnen *Rating*klassen zu und legt die Risikogewichtung der einzelnen Klassen fest.
 
 <sup>3</sup> Der Verwendung externer *Ratings* muss ein konkretes, institutsspezifisches Konzept zugrunde gelegt werden. Dieses ist konsequent zu befolgen.
 
@@ -1324,7 +1326,7 @@ Positionen aus nicht abgewickelten Transaktionen, die auf andere Weise abgewicke
 - a. Die Bank, die ihre Leistung erbracht hat, behandelt das Geschäft wie einen Kredit, bis die Gegenleistung erbracht wird. Falls die Positionen nicht materiell sind, kann anstelle einer ratingabhängigen Risikogewichtung auch ein Risikogewicht von 100 Prozent eingesetzt werden.
 - b. Falls fünf Bankwerktage nach dem dafür vereinbarten Erfüllungstermin die Gegenleistung nicht erbracht wurde, werden der gelieferte Wert und ein allfälliger positiver Wiederbeschaffungswert mit 1250 Prozent gewichtet.
 
-<sup>3</sup> *Repurchase*-, *Reverse-Repurchase-Agreements* und *Securities Lending* und *Borr**o**wing* werden ausschliesslich nach Artikel 75 behandelt.
+<sup>3</sup> *Repurchase*-, *Reverse-Repurchase-Agreements* und *Securities Lending* und *Borrowing* werden ausschliesslich nach Artikel 75 behandelt.
 
 ### 4. Abschnitt: IRB
 
@@ -1623,7 +1625,7 @@ In Abweichung von Artikel 97 Absatz 1 beträgt für Banken der Kategorien 4 und 
 
 [^99-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2019 ([AS 2017 7625](https://fedlex.data.admin.ch/eli/oc/2017/827)).
 
-### 3. Abschnitt:**** Meldepflichten im Zusammenhang mit Klumpenrisiken und anderen grossen Kreditrisiken
+### 3. Abschnitt: Meldepflichten im Zusammenhang mit Klumpenrisiken und anderen grossen Kreditrisiken
 
 [^tit4-chap1-sec3-1]
 
@@ -1801,7 +1803,7 @@ Sie kann zudem die Risikoverteilungsvorschriften in besonderen Fällen erleichte
 [^112-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2019 ([AS 2017 7625](https://fedlex.data.admin.ch/eli/oc/2017/827)).
 [^112-2]: [SR 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
 
-### 2. Kapitel:**** Berechnung der Gesamtposition
+### 2. Kapitel: Berechnung der Gesamtposition
 
 [^tit4-chap2-1]
 
@@ -1951,7 +1953,7 @@ Die besonderen Anforderungen sind auf Stufe Finanzgruppe, auf Stufe jedes nach B
 
 [^125a-1]: Eingefügt durch Ziff. I der V vom 11. Mai 2016 ([AS 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)). Aufgehoben durch Ziff. I der V vom 22. Nov. 2017, mit Wirkung seit 1. Jan. 2018 ([AS 2017 7625](https://fedlex.data.admin.ch/eli/oc/2017/827)).
 
-### 2. Kapitel: Wandlungskapital und Schuldinstrumente zur Verlusttragung bei Insolvenzmassnahmen****
+### 2. Kapitel: Wandlungskapital und Schuldinstrumente zur Verlusttragung bei Insolvenzmassnahmen
 
 [^tit5-chap2-1]
 
@@ -2059,7 +2061,7 @@ Systemrelevante Banken dürfen weder Kapitalinstrumente mit Wandlung oder Forder
 [^127a-3]: Fassung gemäss Ziff. I der V vom 27. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
 [^127a-4]: Fassung gemäss Ziff. I der V vom 27. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4623](https://fedlex.data.admin.ch/eli/oc/2019/761)).
 
-### 3. Kapitel:**** Eigenmittel zur ordentlichen Weiterführung der Bank
+### 3. Kapitel: Eigenmittel zur ordentlichen Weiterführung der Bank
 
 [^tit5-chap3-1]
 
@@ -2148,7 +2150,7 @@ Die antizyklischen Puffer gemäss den Artikeln 44 und 44*a* sind zusätzlich zu 
 
 Die FINMA kann unter besonderen Umständen im Einzelfall nach den Kriterien von Artikel 45 zusätzliche Eigenmittel verlangen oder höhere Qualitätsanforderungen stellen.
 
-### 4. Kapitel:**** Zusätzliche verlustabsorbierende Mittel
+### 4. Kapitel: Zusätzliche verlustabsorbierende Mittel
 
 [^tit5-chap4-1]
 
@@ -2268,7 +2270,7 @@ Die Obergrenze nach Absatz 2 ist spätestens einzuhalten zwölf Monate nach der 
 
 ### 1. Kapitel: Übergangsbestimmungen
 
-### 1. Abschnitt: Übergangsbestimmungen vom 1. Juni 2012****
+### 1. Abschnitt: Übergangsbestimmungen vom 1. Juni 2012
 
 [^tit6-chap1-sec1-1]
 
@@ -2376,7 +2378,7 @@ Für den Teil der Positionen nach Absatz 3, der keinem Abzug unterliegt, wird de
 
 [^148a-1]: Eingefügt durch Anhang 2 Ziff. 4 der Bankenverordnung vom 30. April 2014 ([AS 2014 1269](https://fedlex.data.admin.ch/eli/oc/2014/273)). Aufgehoben durch Ziff. I der V vom 11. Mai 2016, mit Wirkung seit 1. Juli 2016 ([AS 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
 
-### 2. Abschnitt:**** Übergangsbestimmungen zur Änderung vom 11. Mai 2016
+### 2. Abschnitt: Übergangsbestimmungen zur Änderung vom 11. Mai 2016
 
 [^tit6-chap1-sec2-1]
 
@@ -2447,7 +2449,7 @@ Der erweiterte antizyklische Puffer kann gemessen an den gewichteten Positionen 
 - b. im Jahr 2017: 1,25 Prozent;
 - c. im Jahr 2018: 1,875 Prozent.
 
-### 3. Abschnitt:**** Übergangsbestimmung zur Änderung vom 23. November 2016
+### 3. Abschnitt: Übergangsbestimmung zur Änderung vom 23. November 2016
 
 [^tit6-chap1-sec3-1]
 
@@ -2466,7 +2468,7 @@ Der erweiterte antizyklische Puffer kann gemessen an den gewichteten Positionen 
 [^148g-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7625](https://fedlex.data.admin.ch/eli/oc/2017/827)).
 [^148g-2]: [AS 2012 5441](https://fedlex.data.admin.ch/eli/oc/2012/629)
 
-### 4. Abschnitt:**** Übergangsbestimmung zur Änderung vom 22. November 2017
+### 4. Abschnitt: Übergangsbestimmung zur Änderung vom 22. November 2017
 
 [^tit6-chap1-sec4-1]
 
@@ -2476,7 +2478,7 @@ Der erweiterte antizyklische Puffer kann gemessen an den gewichteten Positionen 
 
 Banken, die damit rechnen oder vermuten, dass sie die Obergrenze für Klumpenrisiken (Art. 97–99) unzulässigerweise ab dem 1. Januar 2019 überschreiten, melden sich innert drei Monaten ab Inkrafttreten der Änderung vom 22. November 2017 bei der FINMA.
 
-### 5. Abschnitt:**** Übergangsbestimmung zur Änderung vom 21. November 2018
+### 5. Abschnitt: Übergangsbestimmung zur Änderung vom 21. November 2018
 
 [^tit6-chap1-sec5-1]
 
@@ -2502,7 +2504,7 @@ Die Anforderung gemäss Artikel 132 Absatz 2 Buchstabe b beträgt:
 - f. im Jahr 2024: 1,26 Prozent bei der Leverage Ratio und 3,84 Prozent bei der RWA-Quote;
 - g. im Jahr 2025: 1,5 Prozent bei der Leverage Ratio und 4,5 Prozent bei der RWA-Quote und zusätzlich je die Hälfte der Zuschläge für den Marktanateil und das Gesamtengagement.
 
-### 6. Abschnitt:**** Übergangsbestimmungen zur Änderung vom 27. November 2019
+### 6. Abschnitt: Übergangsbestimmungen zur Änderung vom 27. November 2019
 
 [^tit6-chap1-sec6-1]
 
@@ -2547,7 +2549,7 @@ In den Jahren 2020 und 2021 dürfen die Anforderungen nach Artikel 133 Absatz 2 
 
 Die Eigenmittelverordnung vom 29. September 2006[^149-1] wird aufgehoben.
 
-[^149-1]: [[AS 2006 4307](https://fedlex.data.admin.ch/eli/oc/2006/662), [2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)Anhang Ziff. 8, [2009 6101](https://fedlex.data.admin.ch/eli/oc/2009/747), [2010 5429](https://fedlex.data.admin.ch/eli/oc/2010/770)und [2012 3539](https://fedlex.data.admin.ch/eli/oc/2012/395)]
+[^149-1]: [[AS 2006 4307](https://fedlex.data.admin.ch/eli/oc/2006/662); [2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)Anhang Ziff. 8; [2009 6101](https://fedlex.data.admin.ch/eli/oc/2009/747); [2010 5429](https://fedlex.data.admin.ch/eli/oc/2010/770); [2012 3539](https://fedlex.data.admin.ch/eli/oc/2012/395)]
 
 #### Art. 150
 
@@ -2567,7 +2569,7 @@ Die Änderung bisherigen Rechts wird in Anhang 6 geregelt.
 
 [^151-1]: Von der Bundesversammlung genehmigt am 18. Sept. 2012 ([BBl 2012 8395](https://fedlex.data.admin.ch/eli/fga/2012/1442)).
 
-Anhang 1*[^t-2]*
+Anhang 1[^t-2]
 
 (Art. 54 Abs. 1)
 
@@ -2607,7 +2609,7 @@ Bemerkungen:
 
 \2. Wenn die Zusage zur Bereitstellung einer ausserbilanziellen Position gegeben wird, können die Banken den niedrigeren der beiden anwendbaren Kreditumrechnungsfaktoren anwenden [§86 der Basler Mindeststandards].
 
-Anhang 2*[^t-3]*
+Anhang 2[^t-3]
 
 (Art. 66 Abs. 1)
 
@@ -2641,7 +2643,7 @@ Anhang 2*[^t-3]*
 <tr><td>**7**</td><td>**Unternehmen**</td><td>20 %</td><td>20 %</td><td>50 %</td><td>100 %</td><td>100 %</td><td>150 %</td><td>150 %</td><td>100 %</td><td>–</td></tr>
 </table>
 
-Anhang 3*[^t-4]*
+Anhang 3[^t-4]
 
 (Art. 66 Abs. 2)
 
@@ -2675,7 +2677,7 @@ Anhang 3*[^t-4]*
 <tr><td>6.3</td><td>Übrige Positionen (inkl. Rechnungsbegrenzungsposten)</td><td>100 %</td></tr>
 </table>
 
-Anhang 4*[^t-5]*
+Anhang 4[^t-5]
 
 (Art. 32 Bst. j und 66 Abs. 3)
 
@@ -2689,8 +2691,8 @@ Anhang 4*[^t-5]*
 <tr><td>1.1</td><td>Beteiligungstitel, die in den Finanzanlagen gehalten werden oder – sofern die Bank den *De-Minimis*-Ansatz anwendet – im Handelsbuch</td><td></td><td colspan="4">Sie werden an einer regulierten Börse gehandelt</td><td></td></tr>
 <tr><td></td><td></td><td></td><td colspan="4">Ja</td><td>100 %</td></tr>
 <tr><td></td><td></td><td></td><td colspan="4">Nein</td><td>150 %</td></tr>
-<tr><td>1.2</td><td colspan="7">...</td></tr>
-<tr><td>1.3</td><td colspan="7">...</td></tr>
+<tr><td>1.2</td><td colspan="7">…</td></tr>
+<tr><td>1.3</td><td colspan="7">…</td></tr>
 <tr><td>1.4</td><td>Beteiligungen ausserhalb des Bank-, Finanz- und Versicherungsbereichs</td><td colspan="5">Sie werden an einer regulierten Börse gehandelt</td><td></td></tr>
 <tr><td></td><td></td><td colspan="5">Ja</td><td>100 %</td></tr>
 <tr><td></td><td></td><td colspan="5">Nein</td><td>150 %</td></tr>
@@ -2730,15 +2732,23 @@ Anhang 6
 
 ## Änderung bisherigen Rechts
 
-...[^annex6-lvlu1-1]
+…[^annex6-lvlu1-1]
 
 [^annex6-lvlu1-1]: Die Änderung kann unter [AS 2012 5441](https://fedlex.data.admin.ch/eli/oc/2012/629)konsultiert werden.
 
-Anhang 7*[^t-6]*
+Anhang 7[^t-6]
 
-[^t-6]: Eingefügt durch Ziff. I der V vom 13. Febr. 2013 ([AS 2013 693](https://fedlex.data.admin.ch/eli/oc/2013/129)). Aufgehoben durch Ziff. I der V vom 27. März 2020, mit Wirkung seit 28. März 2020 ([AS 2020 1105](https://fedlex.data.admin.ch/eli/oc/2020/197)).
+(Art. 44 Abs. 2)
 
-Anhang 8*[^t-7]*
+## Antizyklischer Puffer
+
+[^t-6]: Eingefügt durch Ziff. I der V vom 13. Febr. 2013 ([AS 2013 693](https://fedlex.data.admin.ch/eli/oc/2013/129)). Fassung gemäss Ziff. II der V vom 26. Jan. 2022, in Kraft seit 30. Sept. 2022 ([AS 2022 53](https://fedlex.data.admin.ch/eli/oc/2022/53)).
+
+- 1\. Die Banken werden verpflichtet, in Form von hartem Kernkapital einen antizyklischen Puffer zu halten auf direkt und indirekt grundpfandgesicherten Kreditpositionen für Wohnliegenschaften im Inland nach Artikel 72.
+- 2\. Der Puffer beträgt 2.5 Prozent der risikogewichteten Kreditpositionen.
+- 3\. Der antizyklische Puffer gilt ab dem 30. September 2022 und dauert bis zur Aufhebung oder Änderung dieses Anhangs.
+
+Anhang 8[^t-7]
 
 (Art. 43 Abs. 1)
 
@@ -2750,20 +2760,20 @@ Anhang 8*[^t-7]*
 
 <table>
 <tr><td>Kategorie nach Anhang 3 BankV[^annex8-lvlu1-1]</td><td colspan="2">1 und 2</td><td colspan="2">3</td><td colspan="2">4</td><td colspan="2">5</td></tr>
-<tr><td colspan="2">**Mindesteigenmittel**</td><td colspan="7">8,0 %</td></tr>
+<tr><td colspan="2">Mindesteigenmittel</td><td colspan="7">8,0 %</td></tr>
 <tr><td colspan="2">– davon CET1</td><td colspan="7">4,5 %</td></tr>
 <tr><td colspan="2">– davon AT1 oder besser</td><td colspan="7">1,5 %</td></tr>
 <tr><td colspan="2">– davon T2 oder besser</td><td colspan="7">2,0 %</td></tr>
-<tr><td colspan="2">**Eigenmittelpuffer**</td><td colspan="2">4,8 %</td><td colspan="2">4,0 %</td><td colspan="2">3,2 %</td><td>2,5 %</td></tr>
+<tr><td colspan="2">Eigenmittelpuffer</td><td colspan="2">4,8 %</td><td colspan="2">4,0 %</td><td colspan="2">3,2 %</td><td>2,5 %</td></tr>
 <tr><td colspan="2">– davon CET1</td><td colspan="2">3,7 %</td><td colspan="2">3,3 %</td><td colspan="2">2,9 %</td><td>2,5 %</td></tr>
 <tr><td colspan="2">– davon AT1 oder besser</td><td colspan="2">0,5 %</td><td colspan="2">0,3 %</td><td colspan="2">0,1 %</td><td>–</td></tr>
 <tr><td colspan="2">– davon T2 oder besser</td><td colspan="2">0,6 %</td><td colspan="2">0,4 %</td><td colspan="2">0,2 %</td><td>–</td></tr>
-<tr><td colspan="2">**Gesamteigenmittelquote**</td><td colspan="2">12,8 %</td><td colspan="2">12,0 %</td><td colspan="2">11,2 %</td><td>10,5 %</td></tr>
+<tr><td colspan="2">Gesamteigenmittelquote</td><td colspan="2">12,8 %</td><td colspan="2">12,0 %</td><td colspan="2">11,2 %</td><td>10,5 %</td></tr>
 </table>
 
 [^annex8-lvlu1-1]: [SR 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
 
-Anhang 9*[^t-8]*
+Anhang 9[^t-8]
 
 (Art. 129)
 
