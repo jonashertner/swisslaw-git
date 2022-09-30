@@ -3,11 +3,11 @@ sr: "0.946.293.671"
 title: "Accordo commerciale dell' 11 febbraio 2019 tra la Confederazione Svizzera e il Regno Unito di Gran Bretagna e Irlanda del Nord (con Allegati et Dichiarazioni)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/1071"
 language: it
-version: 2021-09-01
+version: 2022-10-01
 adopted: 2019-02-11
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1071/20210901/it/xml/fedlex-data-admin-ch-eli-cc-2020-1071-20210901-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/1071/20210901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1071/20221001/it/xml/fedlex-data-admin-ch-eli-cc-2020-1071-20221001-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/1071/20221001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -24,7 +24,7 @@ Approvato dall’Assemblea federale il 19 giugno 2020[^t-1]
 
 Entrato in vigore mediante scambio di note il 1° gennaio 2021
 
-(Stato 1° settembre 2021)
+(Stato 1° ottobre 2022)
 
 [^t-1]: Art. 1 cpv. 1 lett. a del DF del 19 giu. 2020 ([RU 2020 6603](https://fedlex.data.admin.ch/eli/oc/2020/1070)).
 
@@ -164,11 +164,11 @@ Al fine di mantenere e sviluppare le strette relazioni commerciali ed economiche
 
 *In fede di che,* i sottoscritti, debitamente autorizzati a tale scopo dai propri Governi, hanno firmato il presente Accordo. Fatto a Berna l’11 febbraio 2019 in due esemplari originali in inglese e tedesco, ogni testo facente parimenti fede. In caso di divergenze tra le versioni linguistiche prevale il testo inglese. Per il Governo della Confederazione Svizzera: Guy Parmelin Per il Governo del Regno Unito di Gran Bretagna e Irlanda del Nord: Liam Fox
 
-Allegato 1*[^t-2]*
+Allegato 1[^t-2]
 
 ## Modifiche all’Accordo di libero scambio
 
-[^t-2]: Aggiornato dalla Dec. n. 2/2021 del comitato misto commerciale Svizzera‒Regno Unito del 16 lug. 2021, applicata provvisoriamente dal 1° set. 2021 ([RU 2021 546](https://fedlex.data.admin.ch/eli/oc/2021/546)).
+[^t-2]: Aggiornato dalla Dec. n. 2/2021 del comitato misto commerciale Svizzera‒Regno Unito del 16 lug. 2021, applicata provvisoriamente dal 1° set. 2021, entrata in vigore il 1° ott. 2022 ([RU 2021 546](https://fedlex.data.admin.ch/eli/oc/2021/546); [2022 549](https://fedlex.data.admin.ch/eli/oc/2022/549)).
 
 Ai fini del presente Accordo, l’Accordo di libero scambio[^annex1-lvlu1-1] incorporato è modificato come segue:
 
@@ -813,7 +813,7 @@ L’esportatore delle merci contemplate nel presente documento (autorizzazione d
 
 ## Certificato di circolazione delle merci Eur. 1
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1071/20210901/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1071/20221001/it/xml/image/image1.png)
 
 ## Note
 
@@ -825,7 +825,7 @@ L’esportatore delle merci contemplate nel presente documento (autorizzazione d
 
 ## Domanda di certificato di circolazione delle merci EUR. 1
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1071/20210901/it/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1071/20221001/it/xml/image/image3.png)
 
 Allegato IV
 
@@ -1131,7 +1131,7 @@ i servizi ufficiali d’ispezione BPF indicati alla sezione II di cui sopra.»;
 
 \6. la Dichiarazione comune relativa al reciproco riconoscimento della buona prassi clinica e delle ispezioni si applica alle Parti del presente Accordo con gli stessi effetti giuridici, *mutatis mutandis*, fatte salve le disposizioni del presente Strumento.
 
-Allegato 4*[^t-3]*
+Allegato 4[^t-3]
 
 ## Modifiche all’Accordo agricolo
 

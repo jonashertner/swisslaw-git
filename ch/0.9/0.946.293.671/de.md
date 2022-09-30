@@ -3,11 +3,11 @@ sr: "0.946.293.671"
 title: Handelsabkommen vom 11. Februar 2019 zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland (mit Anhängen und Gemeinsamen Erkl.)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/1071"
 language: de
-version: 2021-09-01
+version: 2022-10-01
 adopted: 2019-02-11
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1071/20210901/de/xml/fedlex-data-admin-ch-eli-cc-2020-1071-20210901-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/1071/20210901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1071/20221001/de/xml/fedlex-data-admin-ch-eli-cc-2020-1071-20221001-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/1071/20221001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -24,7 +24,7 @@ Von der Bundesversammlung genehmigt am 19. Juni 2020[^t-1]
 
 In Kraft getreten durch Noteaustausch am 1. Januar 2021
 
-(Stand am 1. September 2021)
+(Stand am 1. Oktober 2022)
 
 [^t-1]: Art. 1 Abs. 1 Bst. a des BB vom 19. Juni 2020 ([AS 2020 6603](https://fedlex.data.admin.ch/eli/oc/2020/1070))
 
@@ -164,11 +164,11 @@ Mit dem Ziel, ihre engen Handels- und Wirtschaftsbeziehungen aufrechtzuerhalten 
 
 *Zu Urkund dessen* haben die hierzu von ihrer jeweiligen Regierung gehörig befugten Unterzeichnenden dieses Abkommen unterzeichnet. Geschehen zu Bern am 11. Februar 2019 in zwei Urschriften in deutscher und englischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist. Im Falle von Abweichungen zwischen den Sprachversionen ist der englische Wortlaut massgebend. Für die Regierung der Schweizerischen Eidgenossenschaft: Guy Parmelin Für die Regierung des Vereinigten Königreichs von Grossbritannien und Nordirland: Liam Fox
 
-Anhang 1*[^t-2]*
+Anhang 1[^t-2]
 
 ## Änderungen des Freihandelsabkommens
 
-[^t-2]: Bereinigt gemäss Beschlusses Nr. 2/2021 des gemischten Handelsausschusses vom 16. Juli 2021, provisorisch angewendet ab 1. Sept. 2021 ([AS 2021 546](https://fedlex.data.admin.ch/eli/oc/2021/546)).
+[^t-2]: Bereinigt gemäss Beschlusses Nr. 2/2021 des gemischten Handelsausschusses vom 16. Juli 2021, provisorisch angewendet ab 1. Sept. 2021, in Kraft seit 1. Okt. 2022 ([AS 2021 546](https://fedlex.data.admin.ch/eli/oc/2021/546); [2022 549](https://fedlex.data.admin.ch/eli/oc/2022/549)).
 
 Für die Zwecke dieses Abkommen wird das Inkorporierte Freihandelsabkommen[^annex1-lvlu1-1] wie folgt geändert:
 
@@ -803,9 +803,9 @@ L’esportatore delle merci contemplate nel presente documento (autorizzazione d
 
 ## Warenverkehrsbescheinigung EUR.1
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1071/20210901/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1071/20221001/de/xml/image/image1.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1071/20210901/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1071/20221001/de/xml/image/image2.png)
 
 ### Anmerkungen
 
@@ -815,7 +815,7 @@ L’esportatore delle merci contemplate nel presente documento (autorizzazione d
 
 ## Antrag auf Ausstellung einer Warenverkehrsbescheinigung EUR.1
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1071/20210901/de/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1071/20221001/de/xml/image/image3.png)
 
 Anhang IV
 
@@ -1141,7 +1141,7 @@ Amtliche GMP-Inspektorate nach Abschnitt II.»
 
 \6. Die Gemeinsame Erklärung der Vertragsparteien des Abkommens über die gegenseitige Anerkennung zur gegenseitigen Anerkennung der Guten klinischen Praxis (GCP) und der GCP-Inspektionen finden unter Vorbehalt der Bestimmungen dieses Instruments mit derselben Rechtswirkung *mutatis mutandis* Anwendung zwischen den Vertragsparteien.
 
-Anhang 4*[^t-3]*
+Anhang 4[^t-3]
 
 ## Änderungen des Agrarabkommens
 

@@ -3,11 +3,11 @@ sr: "0.946.293.671"
 title: "Accord commercial du 11 février 2019 entre la Confédération suisse et le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord (avec annexes et déclarations)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/1071"
 language: fr
-version: 2021-09-01
+version: 2022-10-01
 adopted: 2019-02-11
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1071/20210901/fr/xml/fedlex-data-admin-ch-eli-cc-2020-1071-20210901-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/1071/20210901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1071/20221001/fr/xml/fedlex-data-admin-ch-eli-cc-2020-1071-20221001-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/1071/20221001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -24,7 +24,7 @@ Approuvé par l’Assemblée fédérale le 19 juin 2020[^t-1]
 
 Entré en vigueur par échange de notes le 1<sup>er</sup> janvier 2021
 
-(Etat le 1<sup>er</sup> septembre 2021)
+(État le 1<sup>er</sup> octobre 2022)
 
 [^t-1]: Art. 1 al. 1 let. a de l’AF du 19 juin 2020 ([RO 2020 6603](https://fedlex.data.admin.ch/eli/oc/2020/1070))
 
@@ -164,11 +164,11 @@ En vue de maintenir et de développer leurs étroites relations économiques et 
 
 *En foi de quoi,* les soussignés, dûment autorisés à cet effet par leurs Gouvernements respectifs, ont signé le présent Accord. Fait à Berne le 11 février 2019 en deux exemplaires originaux, l’un en allemand et l’autre en anglais, les deux textes étant également authentiques. En cas de divergence, le texte anglais prévaut. Pour le Gouvernement de la Confédération suisse: Guy Parmelin Pour le Gouvernement du Royaume-Uni de Grande-Bretagne et d’Irlande du Nord: Liam Fox
 
-Annexe 1*[^t-2]*
+Annexe 1[^t-2]
 
 ## Modifications de l’accord de libre-échange
 
-[^t-2]: Mise à jour par la D n° 2/2021 du comité mixte du commerce Suisse‒Royaume-Uni du 16 juil. 2021, appliquée de manière provisoire dès le 1<sup>er</sup> sept. 2021 ([RO 2021 546](https://fedlex.data.admin.ch/eli/oc/2021/546)).
+[^t-2]: Mise à jour par la D n<sup>o</sup> 2/2021 du comité mixte du commerce Suisse‒Royaume-Uni du 16 juil. 2021, appliquée de manière provisoire dès le 1<sup>er</sup> sept. 2021, en vigueur depuis le 1<sup>er</sup> oct. 2022 ([RO 2021 546](https://fedlex.data.admin.ch/eli/oc/2021/546); [2022 549](https://fedlex.data.admin.ch/eli/oc/2022/549)).
 
 Aux fins du présent Accord, l’accord de libre-échange[^annex1-lvlu1-1] incorporé est modifié comme suit:
 
@@ -1472,9 +1472,9 @@ L’esportatore delle merci contemplate nel presente documento (autorizzazione d
 
 ## Certificat de circulation EUR.1
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1071/20210901/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1071/20221001/fr/xml/image/image1.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1071/20210901/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1071/20221001/fr/xml/image/image2.png)
 
 ## Notes
 
@@ -1484,7 +1484,7 @@ L’esportatore delle merci contemplate nel presente documento (autorizzazione d
 
 ## Demande de certificat de circulation des marchandises EUR.1
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1071/20210901/fr/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1071/20221001/fr/xml/image/image3.png)
 
 Annexe IV
 
@@ -1807,7 +1807,7 @@ les services officiels d’inspection BPF visés à la section II.»
 
 \6. La déclaration commune sur la reconnaissance des bonnes pratiques cliniques et des inspections BPC des Parties de l’accord relatif à la reconnaissance mutuelle s’applique *mutatis mutandis* avec les mêmes effets juridiques entre les Parties, sous réserve des dispositions du présent instrument.
 
-Annexe 4*[^t-3]*
+Annexe 4[^t-3]
 
 ## Modification de l’accord agricole
 
