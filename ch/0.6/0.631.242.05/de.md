@@ -3,11 +3,11 @@ sr: "0.631.242.05"
 title: Abkommen vom 25. Juni 2009 zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über die Erleichterung der Kontrollen und Formalitäten im Güterverkehr und über zollrechtliche Sicherheitsmassnahmen (mit Anhängen)
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/150"
 language: de
-version: 2021-03-15
+version: 2022-10-01
 adopted: 2009-06-25
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/150/20210315/de/xml/fedlex-data-admin-ch-eli-cc-2011-150-20210315-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/150/20210315/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/150/20221001/de/xml/fedlex-data-admin-ch-eli-cc-2011-150-20221001-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/150/20221001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ Originaltext
 
 Abgeschlossen am 25. Juni 2009 Von der Bundesversammlung genehmigt am 18. Juni 2010[^t-1] In Kraft getreten durch Notenaustausch am 1. Januar 2011
 
-(Stand am 15. März 2021)
+(Stand am 1. Oktober 2022)
 
 [^t-1]: [AS 2011 981](https://fedlex.data.admin.ch/eli/oc/2011/149)
 
@@ -168,7 +168,7 @@ Die Vertragsparteien bemühen sich, überall dort, wo dies technisch möglich un
 
 [^chapIII-1]
 
-[^chapIII-1]: Fassung gemäss Art. 1 des Beschlusses Nr. 1/2021 des Gemischten Ausschusses EU-Schweiz vom 12. März 2021, vorläufig angewendet seit 15. März 2021 ([AS 2021 250](https://fedlex.data.admin.ch/eli/oc/2021/250)).
+[^chapIII-1]: Fassung gemäss Art. 1 des Beschlusses Nr. 1/2021 des Gemischten Ausschusses EU-Schweiz vom 12. März 2021, vorläufig angewendet seit 15. März 2021, in Kraft seit 1. Okt. 2022 ([AS 2021 250](https://fedlex.data.admin.ch/eli/oc/2021/250); [2023 205](https://fedlex.data.admin.ch/eli/oc/2023/205)).
 
 #### Art. 9
 
@@ -490,7 +490,7 @@ Anhang I[^t-2]
 
 ## Summarische Eingangs- und Ausgangsanmeldungen
 
-[^t-2]: Fassung gemäss Art. 2 des Beschlusses Nr. 1/2021 des Gemischten Ausschusses EU-Schweiz vom 12. März 2021, vorläufig angewendet seit 15. März 2021 ([AS 2021 250](https://fedlex.data.admin.ch/eli/oc/2021/250)).
+[^t-2]: Fassung gemäss Art. 2 des Beschlusses Nr. 1/2021 des Gemischten Ausschusses EU-Schweiz vom 12. März 2021, vorläufig angewendet seit 15. März 2021, in Kraft seit 1. Okt. 2022 ([AS 2021 250](https://fedlex.data.admin.ch/eli/oc/2021/250); [2023 205](https://fedlex.data.admin.ch/eli/oc/2023/205)).
 
 ## Titel I Summarische Eingangsanmeldung
 
@@ -1199,7 +1199,7 @@ Anhang II[^t-3]
 
 ## Zugelassener Wirtschaftsbeteiligter
 
-[^t-3]: Fassung gemäss Art. 2 des Beschlusses Nr. 1/2021 des Gemischten Ausschusses EU-Schweiz vom 12. März 2021, vorläufig angewendet seit 15. März 2021 ([AS 2021 250](https://fedlex.data.admin.ch/eli/oc/2021/250)).
+[^t-3]: Fassung gemäss Art. 2 des Beschlusses Nr. 1/2021 des Gemischten Ausschusses EU-Schweiz vom 12. März 2021, vorläufig angewendet seit 15. März 2021, in Kraft seit 1. Okt. 2022 ([AS 2021 250](https://fedlex.data.admin.ch/eli/oc/2021/250); [2023 205](https://fedlex.data.admin.ch/eli/oc/2023/205)).
 
 ## Titel I Zuerkennung des Status des zugelassenen Wirtschaftsbeteiligten
 
@@ -1390,6 +1390,8 @@ Die Vertragsparteien tauschen regelmässig Informationen über die Identität ih
 - e) die Zeiträume, in denen sich der Status geändert hat;
 - f) das Datum, ab dem die Entscheidung und nachfolgenden Vorgänge (Aussetzung und Widerruf) wirksam werden;
 - g) die Behörde, die die Entscheidung ausgestellt hat.
+- [tab]
+- [tab]
 
 Anhang III
 
@@ -1402,3 +1404,18 @@ Anhang III
 (3) Die auf diese Weise bestimmten Schiedsrichter einigen sich auf einen Schiedsrichterobmann, der nicht die Staatsangehörigkeit einer der Vertragsparteien besitzt. Können letztere sich nicht innerhalb von zwei Monaten nach ihrer Ernennung auf den Schiedsrichterobmann einigen, so wird dieser von ihnen aus einer vom Gemischten Ausschuss aufgestellten Liste von sieben Personen ausgewählt. Der Gemischte Ausschuss erstellt und überprüft diese Liste nach Massgabe seiner Geschäftsordnung.
 
 (4) Sofern die Vertragsparteien nichts anderes beschliessen, erlässt das Schiedsgericht seine Verfahrensordnung. Es trifft seine Entscheidungen durch Mehrheitsbeschluss.
+
+## Gemeinsame Erklärung
+
+[^annexIII-lvlu2-1]
+
+[^annexIII-lvlu2-1]: [AS 2018 2921](https://fedlex.data.admin.ch/eli/oc/2018/446)
+
+zu Anhang I Art. 1 Abs. 2 des Abkommens
+
+Hinsichtlich der für die summarische Eingangs- oder Ausgangsanmeldung vorgese-henen Angaben bestätigen die Vertragsparteien, dass:
+
+- – die Bestimmungen betreffend die EORI-Nummer; und
+- – die Anforderungen in Bezug auf Umleitungsanträge (Anhang 30A Num-mer 2.6 – Tabelle 6),
+
+die mit der Verordnung (EG) Nr. 312/2009 der Kommission vom 16. April 2009 eingeführt worden sind, nicht für die bei den schweizerischen Zollbehörden einge-reichten Anmeldungen gelten.

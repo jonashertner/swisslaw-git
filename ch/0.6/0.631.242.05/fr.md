@@ -3,11 +3,11 @@ sr: "0.631.242.05"
 title: "Accord du 25 juin 2009 entre la Confédération suisse et la Communauté européenne relatif à la facilitation des contrôles et des formalités lors du transport des marchandises ainsi qu'aux mesures douanières de sécurité (avec annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/150"
 language: fr
-version: 2021-03-15
+version: 2022-10-01
 adopted: 2009-06-25
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/150/20210315/fr/xml/fedlex-data-admin-ch-eli-cc-2011-150-20210315-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/150/20210315/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/150/20221001/fr/xml/fedlex-data-admin-ch-eli-cc-2011-150-20221001-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/150/20221001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -24,7 +24,7 @@ Approuvé par l’Assemblée fédérale le 18 juin 2010[^t-1]
 
 Entré en vigueur par échange de notes le 1<sup>er</sup> janvier 2011
 
-(État le 15 mars 2021)
+(État le 1<sup>er</sup> octobre 2022)
 
 [^t-1]: [RO 2011 981](https://fedlex.data.admin.ch/eli/oc/2011/149)
 
@@ -172,7 +172,7 @@ Les Parties contractantes s’efforcent de réaliser aux postes frontières, par
 
 [^chapIII-1]
 
-[^chapIII-1]: Nouvelle teneur selon l’art. 1 de la D n° 1/2021 du Comité mixte UE-Suisse du 12 mars 2021, appliquée provisoirement depuis le 15 mars 2021 ([RO 2021 250](https://fedlex.data.admin.ch/eli/oc/2021/250)).
+[^chapIII-1]: Nouvelle teneur selon l’art. 1 de la D n° 1/2021 du Comité mixte UE-Suisse du 12 mars 2021, appliquée provisoirement depuis le 15 mars 2021, en vigueur depuis le 1<sup>er</sup> oct. 2022 ([RO 2021 250](https://fedlex.data.admin.ch/eli/oc/2021/250); [2023 205](https://fedlex.data.admin.ch/eli/oc/2023/205)).
 
 #### Art. 9
 
@@ -493,7 +493,7 @@ Annexe I[^t-2]
 
 ## Déclarations sommaires d’entrée et de sortie
 
-[^t-2]: Nouvelle teneur selon l’art. 2 de la D n° 1/2021 du Comité mixte UE-Suisse du 12 mars 2021, appliquée provisoirement depuis le 15 mars 2021 ([RO 2021 250](https://fedlex.data.admin.ch/eli/oc/2021/250)).
+[^t-2]: Nouvelle teneur selon l’art. 2 de la D n° 1/2021 du Comité mixte UE-Suisse du 12 mars 2021, appliquée provisoirement depuis le 15 mars 2021, en vigueur depuis le 1<sup>er</sup> oct. 2022 ([RO 2021 250](https://fedlex.data.admin.ch/eli/oc/2021/250); [202](https://fedlex.data.admin.ch/eli/oc/2021/202)**3** 205).
 
 ## Titre I Déclaration sommaire d’entrée
 
@@ -1200,7 +1200,7 @@ Annexe II[^t-3]
 
 ## Titre I Octroi du statut d’opérateur économique agréé
 
-[^t-3]: Nouvelle teneur selon l’art. 2 de la D n° 1/2021 du Comité mixte UE-Suisse du 12 mars 2021, appliquée provisoirement depuis le 15 mars 2021 ([RO 2021 250](https://fedlex.data.admin.ch/eli/oc/2021/250)).
+[^t-3]: Nouvelle teneur selon l’art. 2 de la D n° 1/2021 du Comité mixte UE-Suisse du 12 mars 2021, appliquée provisoirement depuis le 15 mars 2021, en vigueur depuis le 1<sup>er</sup> oct. 2022 ([RO 2021 250](https://fedlex.data.admin.ch/eli/oc/2021/250); [202](https://fedlex.data.admin.ch/eli/oc/2021/202)**3** 205).
 
 #### Art. 1
 

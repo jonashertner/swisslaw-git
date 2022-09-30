@@ -3,11 +3,11 @@ sr: "0.631.242.05"
 title: "Accordo del 25 giugno 2009 tra la Confederazione Svizzera e la Comunità europea riguardante l'agevolazione dei controlli e delle formalità nei trasporti di merci e le misure doganali di sicurezza (con allegati)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/150"
 language: it
-version: 2021-03-15
+version: 2022-10-01
 adopted: 2009-06-25
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/150/20210315/it/xml/fedlex-data-admin-ch-eli-cc-2011-150-20210315-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/150/20210315/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/150/20221001/it/xml/fedlex-data-admin-ch-eli-cc-2011-150-20221001-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/150/20221001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,13 +18,9 @@ RU **2011** 983, FF **2009** 7783
 
 Traduzione
 
-Concluso il 25 giugno 2009
+Concluso il 25 giugno 2009 Approvato dall’Assemblea federale il 18 giugno 2010[^t-1] Entrato in vigore mediante scambio di note il 1° gennaio 2011
 
-Approvato dall’Assemblea federale il 18 giugno 2010[^t-1]
-
-Entrato in vigore mediante scambio di note il 1° gennaio 2011
-
-(Stato 15 marzo 2021)
+(Stato 1° ottobre 2022)
 
 [^t-1]: [RU 2011 981](https://fedlex.data.admin.ch/eli/oc/2011/149)
 
@@ -172,7 +168,7 @@ Le parti contraenti si adoperano per realizzare ai posti di frontiera, ovunque c
 
 [^chapIII-1]
 
-[^chapIII-1]: Nuovo testo giusta l’art. 1 della Dec. n. 1/2021 del Comitato misto UE-Svizzera del 12 mar. 2021, applicata provvisoriamente dal 15 mar. 2021 ([RU 2021 250](https://fedlex.data.admin.ch/eli/oc/2021/250)).
+[^chapIII-1]: Nuovo testo giusta l’art. 1 della Dec. n. 1/2021 del Comitato misto UE-Svizzera del 12 mar. 2021, applicata provvisoriamente dal 15 mar. 2021, in vigore dal 1° ott. 2022 ([RU 2021 250](https://fedlex.data.admin.ch/eli/oc/2021/250); [2023 205](https://fedlex.data.admin.ch/eli/oc/2023/205)).
 
 #### Art. 9
 
@@ -494,7 +490,7 @@ Allegato I[^t-2]
 
 ## Dichiarazioni sommarie di entrata e di uscita
 
-[^t-2]: Nuovo testo giusta l’art. 2 della Dec. n. 1/2021 del Comitato misto UE-Svizzera del 12 mar. 2021, applicata provvisoriamente dal 15 mar. 2021 ([RU 2021 250](https://fedlex.data.admin.ch/eli/oc/2021/250)).
+[^t-2]: Nuovo testo giusta l’art. 2 della Dec. n. 1/2021 del Comitato misto UE-Svizzera del 12 mar. 2021, applicata provvisoriamente dal 15 mar. 2021, in vigore dal 1° ott. 2022 ([RU 2021 250](https://fedlex.data.admin.ch/eli/oc/2021/250); [2023 205](https://fedlex.data.admin.ch/eli/oc/2023/205)).
 
 ## Titolo I Dichiarazione sommaria di entrata
 
@@ -1202,7 +1198,7 @@ Allegato II[^t-3]
 
 ## Operatore economico autorizzato
 
-[^t-3]: Nuovo testo giusta l’art. 2 della Dec. n. 1/2021 del Comitato misto UE-Svizzera del 12 mar. 2021, applicata provvisoriamente dal 15 mar. 2021 ([RU 2021 250](https://fedlex.data.admin.ch/eli/oc/2021/250)).
+[^t-3]: Nuovo testo giusta l’art. 2 della Dec. n. 1/2021 del Comitato misto UE-Svizzera del 12 mar. 2021, applicata provvisoriamente dal 15 mar. 2021, in vigore dal 1° ott. 2022 ([RU 2021 250](https://fedlex.data.admin.ch/eli/oc/2021/250); [2023 205](https://fedlex.data.admin.ch/eli/oc/2023/205)).
 
 ## Titolo I Concessione della qualifica di operatore economico autorizzato
 
@@ -1409,3 +1405,18 @@ Allegato III
 \3. I due arbitri designati nominano di comune accordo un super-arbitro che non abbia la nazionalità di una delle parti contraenti. Nel caso in cui gli arbitri non riescano a mettersi d’accordo nei due mesi che seguono la loro designazione, scelgono il super-arbitro in un elenco di sette persone compilato dal comitato misto. Il comitato misto compila e mantiene aggiornato tale elenco conformemente al proprio regolamento interno.
 
 \4. Salva decisione contraria delle parti contraenti, il tribunale arbitrale stabilisce in modo autonomo le proprie norme di procedura. Le decisioni sono adottate a maggioranza.
+
+## Dichiarazione comune
+
+[^annexIII-lvlu2-1]
+
+[^annexIII-lvlu2-1]: [RU 2018 2921](https://fedlex.data.admin.ch/eli/oc/2018/446)
+
+Relativa all’allegato I, articolo 1, paragrafo 2, dell’Accordo
+
+In merito alle indicazioni previste per la dichiarazione sommaria di entrata o di uscita, le parti contraenti confermano che:
+
+- – le disposizioni concernenti il numero EORI; e
+- – i requisiti relativi alle richieste di deviazione (allegato 30A, numero 2.6 – tabella 6),
+
+introdotti dal regolamento (CE) n. 312/2009 della Commissione, del 16 aprile 2009, non si applicano alle dichiarazioni presentate alle autorità doganali svizzere.
