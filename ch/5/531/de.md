@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 17. Juni 2016 über die wirtschaftliche Landesversorgun
 short: LVG
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/308"
 language: de
-version: 2022-09-24
+version: 2022-10-01
 adopted: 2016-06-17
 in_force: 2017-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/308/20220924/de/xml/fedlex-data-admin-ch-eli-cc-2017-308-20220924-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/308/20220924/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/308/20221001/de/xml/fedlex-data-admin-ch-eli-cc-2017-308-20221001-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/308/20221001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/308/20220924/de"
 
 (Landesversorgungsgesetz, LVG)
 
-vom 17. Juni 2016 (Stand am 24. September 2022)
+vom 17. Juni 2016 (Stand am 1. Oktober 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -780,29 +780,41 @@ Datum des Inkrafttretens: 1. Juni 2017[^66-1]
 
 [^66-1]: BRB vom 10. Mai 2017
 
-Anhang 1[^t-1]
+Anhang 1
 
 (Art. 34 Abs. 1 und 4)
 
 ## Vorübergehende Nichtanwendbarkeit von Bestimmungen anderer Erlasse
 
-[^t-1]: Bereinigt gemäss Ziff. I der V vom 23. Sept. 2022, in Kraft vom 24. Sept. 2022 bis zum 31. Mai 2023 ([AS 2022 528](https://fedlex.data.admin.ch/eli/oc/2022/528)).
-
 Der Bundesrat kann folgende Bestimmungen vorübergehend für nicht anwendbar erklären:
 
 - 1\. Artikel 2 Absatz 2 des Strassenverkehrsgesetzes vom 19. Dezember 1958[^annex1-lvlu1-1];
-- 2\. die Artikel 2, 8 Absatz 2 und 22 des Raumplanungsgesetzes vom 22. Juni 1979[^annex1-lvlu1-2];
-- 3\. Artikel 10*a* des Umweltschutzgesetzes vom 7. Oktober 1983[^annex1-lvlu1-3];
-- 4\. Artikel 16 Absatz 1 des Elektrizitätsgesetzes vom 24. Juni 1902[^annex1-lvlu1-4];
-- 5\. die Artikel 7 und 8 des Arbeitsgesetzes vom 13. März 1964[^annex1-lvlu1-5];
-- 6\. Artikel 2 Absatz 1 des Rohrleitungsgesetzes vom 4. Oktober 1963[^annex1-lvlu1-6].
+- 2\.[^annex1-lvlu1-2] die Artikel 2, 8 Absatz 2 und 22 des Raumplanungsgesetzes vom 22. Juni 1979[^annex1-lvlu1-3];
+- 3\.[^annex1-lvlu1-4] Artikel 10*a* des Umweltschutzgesetzes vom 7. Oktober 1983[^annex1-lvlu1-5];
+- 3<sup>bis</sup>.[^annex1-lvlu1-6] Artikel 15*e* des Elektrizitätsgesetzes vom 24. Juni 1902[^annex1-lvlu1-7];
+- 4\.[^annex1-lvlu1-8] Artikel 16 Absatz 1 des Elektrizitätsgesetzes vom 24. Juni 1902[^annex1-lvlu1-9];
+- 5\.[^annex1-lvlu1-10] die Artikel 7 und 8 des Arbeitsgesetzes vom 13. März 1964[^annex1-lvlu1-11];
+- 6\.[^annex1-lvlu1-12] Artikel 2 Absatz 1 des Rohrleitungsgesetzes vom 4. Oktober 1963[^annex1-lvlu1-13];
+- 7\.[^annex1-lvlu1-14] die Artikel 31 Absatz 2 sowie 33 des Gewässerschutzgesetzes vom 24. Januar 1991[^annex1-lvlu1-15];
+- 8\.[^annex1-lvlu1-16] Artikel 9 Absatz 1 Buchstaben a und b des Bundesgesetzes vom 21. Juni 1991[^annex1-lvlu1-17] über die Fischerei.
 
 [^annex1-lvlu1-1]: [SR 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
-[^annex1-lvlu1-2]: [SR 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
-[^annex1-lvlu1-3]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
-[^annex1-lvlu1-4]: [SR 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
-[^annex1-lvlu1-5]: [SR 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
-[^annex1-lvlu1-6]: [SR 746.1](https://fedlex.data.admin.ch/eli/cc/1964/99_95_95)
+[^annex1-lvlu1-2]: Eingefügt durch Ziff. I der V vom 23. Sept. 2022, in Kraft vom 24. Sept. 2022 bis zum 31. Mai 2023 ([AS 2022 528](https://fedlex.data.admin.ch/eli/oc/2022/528)).
+[^annex1-lvlu1-3]: [SR 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^annex1-lvlu1-4]: Eingefügt durch Ziff. I der V vom 23. Sept. 2022, in Kraft vom 24. Sept. 2022 bis zum 31. Mai 2023 ([AS 2022 528](https://fedlex.data.admin.ch/eli/oc/2022/528)).
+[^annex1-lvlu1-5]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^annex1-lvlu1-6]: Eingefügt durch Ziff. I der V vom 30. Sept. 2022, in Kraft vom 1. Okt. 2022 bis zum 30. April 2023 ([AS 2022 545](https://fedlex.data.admin.ch/eli/oc/2022/545)).
+[^annex1-lvlu1-7]: [SR 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
+[^annex1-lvlu1-8]: Eingefügt durch Ziff. I der V vom 23. Sept. 2022, in Kraft vom 24. Sept. 2022 bis zum 31. Mai 2023 ([AS 2022 528](https://fedlex.data.admin.ch/eli/oc/2022/528)).
+[^annex1-lvlu1-9]: [SR 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
+[^annex1-lvlu1-10]: Eingefügt durch Ziff. I der V vom 23. Sept. 2022, in Kraft vom 24. Sept. 2022 bis zum 31. Mai 2023 ([AS 2022 528](https://fedlex.data.admin.ch/eli/oc/2022/528)).
+[^annex1-lvlu1-11]: [SR 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
+[^annex1-lvlu1-12]: Eingefügt durch Ziff. I der V vom 23. Sept. 2022, in Kraft vom 24. Sept. 2022 bis zum 31. Mai 2023 ([AS 2022 528](https://fedlex.data.admin.ch/eli/oc/2022/528)).
+[^annex1-lvlu1-13]: [SR 746.1](https://fedlex.data.admin.ch/eli/cc/1964/99_95_95)
+[^annex1-lvlu1-14]: Eingefügt durch Ziff. I der V vom 30. Sept. 2022, in Kraft vom 1. Okt. 2022 bis zum 30. April 2023 ([AS 2022 546](https://fedlex.data.admin.ch/eli/oc/2022/546)).
+[^annex1-lvlu1-15]: [SR 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
+[^annex1-lvlu1-16]: Eingefügt durch Ziff. I der V vom 30. Sept. 2022, in Kraft vom 1. Okt. 2022 bis zum 30. April 2023 ([AS 2022 546](https://fedlex.data.admin.ch/eli/oc/2022/546)).
+[^annex1-lvlu1-17]: [SR 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
 
 Anhang 2
 

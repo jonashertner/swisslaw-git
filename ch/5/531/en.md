@@ -4,11 +4,11 @@ title: "Federal Act of 8 October 1982 on the National Economic Supply (National 
 short: NESA
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/308"
 language: en
-version: 2022-09-24
+version: 2022-10-01
 adopted: 2016-06-17
 in_force: 2017-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/308/20220924/en/xml/fedlex-data-admin-ch-eli-cc-2017-308-20220924-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/308/20220924/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/308/20221001/en/xml/fedlex-data-admin-ch-eli-cc-2017-308-20221001-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/308/20221001/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (National Economic Supply Act, NESA)
 
-of 17 June 2016 (Status as of 24 September 2022)
+of 17 June 2016 (Status as of 1 October 2022)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -781,29 +781,41 @@ Commencement date: 1 June 2017[^66-1]
 
 [^66-1]: FCD of 10 May 2017.
 
-Annex 1[^t-1]
+Annex 1
 
 (Art. 34 para. 1 and 4)
 
 ## Temporary non-applicability of provisions of other legislation
 
-[^t-1]: Revised by No I of the O of 23 Sept. 2022, in force from 24 Sept. 2022 to 31 May 2023 ([AS 2022 528](https://fedlex.data.admin.ch/eli/oc/2022/528)).
-
 The Federal Council may declare the following provisions to be temporarily inapplicable:
 
 - 1\. Article 2 paragraph 2 of the Road Traffic Act of 19 December 1958[^annex1-lvlu1-1];
-- 2\. Articles 2, 8 paragraph 2 and 22 of the Spatial Planning Act of 22 June 1979[^annex1-lvlu1-2];
-- 3\. Article 10*a* of the Environmental Protection Act of 7 October 1983[^annex1-lvlu1-3];
-- 4\. Article 16 paragraph 1 of the Electricity Act of 24 June 1902[^annex1-lvlu1-4];
-- 5\. Articles 7 and 8 of the Employment Act of 13 March 1964[^annex1-lvlu1-5];
-- 6\. Article 2 paragraph 1 of the Pipelines Act of 4 October 1963[^annex1-lvlu1-6].
+- 2\.[^annex1-lvlu1-2] Articles 2, 8 paragraph 2 and 22 of the Spatial Planning Act of 22 June 1979[^annex1-lvlu1-3];
+- 3\.[^annex1-lvlu1-4] Article 10*a* of the Environmental Protection Act of 7 October 1983[^annex1-lvlu1-5];
+- 3<sup>bis</sup>.[^annex1-lvlu1-6] Article 15*e* of the Electricity Act of 24 June 1902[^annex1-lvlu1-7];
+- 4\.[^annex1-lvlu1-8] Article 16 paragraph 1 of the Electricity Act of 24 June 1902[^annex1-lvlu1-9];
+- 5\.[^annex1-lvlu1-10] Articles 7 and 8 of the Employment Act of 13 March 1964[^annex1-lvlu1-11];
+- 6\.[^annex1-lvlu1-12] Article 2 paragraph 1 of the Pipelines Act of 4 October 1963[^annex1-lvlu1-13];
+- 7\.[^annex1-lvlu1-14] Articles 31 paragraph 2 and 33 of the Waters Protection Act of 24 January 1991[^annex1-lvlu1-15];
+- 8\.[^annex1-lvlu1-16] Article 9 paragraph 1 letters a und b of the Federal Act of 21 June 1991[^annex1-lvlu1-17] on Fish.
 
 [^annex1-lvlu1-1]: [SR 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
-[^annex1-lvlu1-2]: [SR 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
-[^annex1-lvlu1-3]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
-[^annex1-lvlu1-4]: [SR 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
-[^annex1-lvlu1-5]: [SR 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
-[^annex1-lvlu1-6]: [SR 746.1](https://fedlex.data.admin.ch/eli/cc/1964/99_95_95)
+[^annex1-lvlu1-2]: Inserted by No I of the O of 23 Sept. 2022, in force from 24 Sept. 2022 to 31 May 2023 ([AS 2022 528](https://fedlex.data.admin.ch/eli/oc/2022/528)).
+[^annex1-lvlu1-3]: [SR 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^annex1-lvlu1-4]: Inserted by No I of the O of 23 Sept. 2022, in force from 24 Sept. 2022 to 31 May 2023 ([AS 2022 528](https://fedlex.data.admin.ch/eli/oc/2022/528)).
+[^annex1-lvlu1-5]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^annex1-lvlu1-6]: Inserted by No I of the O of 30 Sept. 2022, in force from 1 Oct. 2022 to 30 April 2023 ([AS 2022 545](https://fedlex.data.admin.ch/eli/oc/2022/545)).
+[^annex1-lvlu1-7]: [SR 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
+[^annex1-lvlu1-8]: Inserted by No I of the O of 23 Sept. 2022, in force from 24 Sept. 2022 to 31 May 2023 ([AS 2022 528](https://fedlex.data.admin.ch/eli/oc/2022/528)).
+[^annex1-lvlu1-9]: [SR 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
+[^annex1-lvlu1-10]: Inserted by No I of the O of 23 Sept. 2022, in force from 24 Sept. 2022 to 31 May 2023 ([AS 2022 528](https://fedlex.data.admin.ch/eli/oc/2022/528)).
+[^annex1-lvlu1-11]: [SR 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
+[^annex1-lvlu1-12]: Inserted by No I of the O of 23 Sept. 2022, in force from 24 Sept. 2022 to 31 May 2023 ([AS 2022 528](https://fedlex.data.admin.ch/eli/oc/2022/528)).
+[^annex1-lvlu1-13]: [SR 746.1](https://fedlex.data.admin.ch/eli/cc/1964/99_95_95)
+[^annex1-lvlu1-14]: Inserted by No I of the O of 30 Sept. 2022, in force from 1 Oct. 2022 to 30 April 2023 ([AS 2022 546](https://fedlex.data.admin.ch/eli/oc/2022/546)).
+[^annex1-lvlu1-15]: [SR 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
+[^annex1-lvlu1-16]: Inserted by No I of the O of 30 Sept. 2022, in force from 1 Oct. 2022 to 30 April 2023 ([AS 2022 546](https://fedlex.data.admin.ch/eli/oc/2022/546)).
+[^annex1-lvlu1-17]: [SR 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
 
 Annex 2
 

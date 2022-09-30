@@ -4,11 +4,11 @@ title: "Loi fédérale du 17 juin 2016 sur l'approvisionnement économique du pa
 short: LAP
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/308"
 language: fr
-version: 2022-09-24
+version: 2022-10-01
 adopted: 2016-06-17
 in_force: 2017-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/308/20220924/fr/xml/fedlex-data-admin-ch-eli-cc-2017-308-20220924-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/308/20220924/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/308/20221001/fr/xml/fedlex-data-admin-ch-eli-cc-2017-308-20221001-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/308/20221001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/308/20220924/fr"
 
 (Loi sur l’approvisionnement du pays, LAP)
 
-du 17 juin 2016 (État le 24 septembre 2022)
+du 17 juin 2016 (État le 1<sup>er</sup> octobre 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -780,29 +780,41 @@ Date de l’entrée en vigueur: 1<sup>er</sup> juin 2017[^66-1]
 
 [^66-1]: ACF du 10 mai 2017
 
-Annexe 1[^t-1]
+Annexe 1
 
 (art. 34, al. 1 et 4)
 
 ## Suspension de certaines dispositions d’autres actes
 
-[^t-1]: Mise à jour par le ch. I de l’O du 23 sept. 2022, en vigueur du 24 sept. 2022 au 31 mai 2023 ([RO 2022 528](https://fedlex.data.admin.ch/eli/oc/2022/528)).
-
 Le Conseil fédéral peut suspendre les dispositions suivantes:
 
 - 1\. l’art. 2, al. 2, de la loi du 19 décembre 1958 sur la circulation routière[^annex1-lvlu1-1];
-- 2\. les art. 2, 8, al. 2, et 22 de la loi du 22 juin 1979 sur l’aménagement du territoire[^annex1-lvlu1-2];
-- 3\. l’art. 10*a* de la loi du 7 octobre 1983 sur la protection de l’environnement[^annex1-lvlu1-3];
-- 4\. l’art. 16, al. 1, de la loi du 24 juin 1902 sur les installations électriques[^annex1-lvlu1-4];
-- 5\. les art. 7 et 8 de la loi du 13 mars 1964 sur le travail[^annex1-lvlu1-5];
-- 6\. l’art. 2, al. 1, de la loi du 4 octobre 1963 sur les installations de transport par conduites[^annex1-lvlu1-6].
+- 2\.[^annex1-lvlu1-2] les art. 2, 8, al. 2, et 22 de la loi du 22 juin 1979 sur l’aménagement du territoire[^annex1-lvlu1-3];
+- 3\.[^annex1-lvlu1-4] l’art. 10*a* de la loi du 7 octobre 1983 sur la protection de l’environnement[^annex1-lvlu1-5];
+- 3<sup>bis</sup>.[^annex1-lvlu1-6] l’art. 15*e* de la loi du 24 juin 1902 sur les installations électriques[^annex1-lvlu1-7];
+- 4\.[^annex1-lvlu1-8] l’art. 16, al. 1, de la loi du 24 juin 1902 sur les installations électriques[^annex1-lvlu1-9];
+- 5\.[^annex1-lvlu1-10] les art. 7 et 8 de la loi du 13 mars 1964 sur le travail[^annex1-lvlu1-11];
+- 6\.[^annex1-lvlu1-12] l’art. 2, al. 1, de la loi du 4 octobre 1963 sur les installations de transport par conduites[^annex1-lvlu1-13].
+- 7\.[^annex1-lvlu1-14] les art. 31, al. 2, et 33 de la loi fédérale du 24 janvier 1991 sur la protection des eaux[^annex1-lvlu1-15];
+- 8\.[^annex1-lvlu1-16] l’art. 9, al. 1, let. a et b, de la loi fédérale du 21 juin 1991 sur la pêche[^annex1-lvlu1-17].
 
 [^annex1-lvlu1-1]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
-[^annex1-lvlu1-2]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
-[^annex1-lvlu1-3]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
-[^annex1-lvlu1-4]: [RS 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
-[^annex1-lvlu1-5]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
-[^annex1-lvlu1-6]: [RS 746.1](https://fedlex.data.admin.ch/eli/cc/1964/99_95_95)
+[^annex1-lvlu1-2]: Introduit par le ch. I de l’O du 23 sept. 2022, en vigueur du 24 sept. 2022 au 31 mai 2023 ([RO 2022 528](https://fedlex.data.admin.ch/eli/oc/2022/528)).
+[^annex1-lvlu1-3]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^annex1-lvlu1-4]: Introduit par le ch. I de l’O du 23 sept. 2022, en vigueur du 24 sept. 2022 au 31 mai 2023 ([RO 2022 528](https://fedlex.data.admin.ch/eli/oc/2022/528)).
+[^annex1-lvlu1-5]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^annex1-lvlu1-6]: Introduit par le ch. I de l’O du 30 sept. 2022, en vigueur du 1<sup>er</sup> oct. 2022 au 30 avr. 2023 ([RO 2022 545](https://fedlex.data.admin.ch/eli/oc/2022/545)).
+[^annex1-lvlu1-7]: [RS 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
+[^annex1-lvlu1-8]: Introduit par le ch. I de l’O du 23 sept. 2022, en vigueur du 24 sept. 2022 au 31 mai 2023 ([RO 2022 528](https://fedlex.data.admin.ch/eli/oc/2022/528)).
+[^annex1-lvlu1-9]: [RS 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
+[^annex1-lvlu1-10]: Introduit par le ch. I de l’O du 23 sept. 2022, en vigueur du 24 sept. 2022 au 31 mai 2023 ([RO 2022 528](https://fedlex.data.admin.ch/eli/oc/2022/528)).
+[^annex1-lvlu1-11]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
+[^annex1-lvlu1-12]: Introduit par le ch. I de l’O du 23 sept. 2022, en vigueur du 24 sept. 2022 au 31 mai 2023 ([RO 2022 528](https://fedlex.data.admin.ch/eli/oc/2022/528)).
+[^annex1-lvlu1-13]: [RS 746.1](https://fedlex.data.admin.ch/eli/cc/1964/99_95_95)
+[^annex1-lvlu1-14]: Introduit par le ch. I de l’O du 30 sept. 2022, en vigueur du 1<sup>er</sup> oct. 2022 au 30 avr. 2023 ([RO 2022 546](https://fedlex.data.admin.ch/eli/oc/2022/546)).
+[^annex1-lvlu1-15]: [RS 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
+[^annex1-lvlu1-16]: Introduit par le ch. I de l’O du 30 sept. 2022, en vigueur du 1<sup>er</sup> oct. 2022 au 30 avr. 2023 ([RO 2022 546](https://fedlex.data.admin.ch/eli/oc/2022/546)).
+[^annex1-lvlu1-17]: [RS 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
 
 Annexe 2
 

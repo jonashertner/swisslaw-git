@@ -4,11 +4,11 @@ title: "Legge federale del 17 giugno 2016 sull'approvvigionamento economico del 
 short: LAP
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/308"
 language: it
-version: 2022-09-24
+version: 2022-10-01
 adopted: 2016-06-17
 in_force: 2017-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/308/20220924/it/xml/fedlex-data-admin-ch-eli-cc-2017-308-20220924-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/308/20220924/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/308/20221001/it/xml/fedlex-data-admin-ch-eli-cc-2017-308-20221001-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/308/20221001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/308/20220924/it"
 
 (Legge sull’approvvigionamento del Paese, LAP)
 
-del 17 giugno 2016 (Stato 24 settembre 2022) (Stato 24 settembre 2022)
+del 17 giugno 2016 (Stato 1° ottobre 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -554,7 +554,7 @@ In caso di violazione delle disposizioni della presente legge o delle sue ordina
 
 <sup>3</sup> Le pretese di terzi lesi ai sensi dell’articolo 41 capoverso 4 si prescrivono in tre anni dal giorno in cui questi hanno avuto conoscenza della confisca, da parte della Confederazione, delle merci o dei vantaggi pecuniari illecitamente ottenuti, ma al più tardi in dieci anni dalla confisca.
 
-[^44-1]: Nuovo testo giusta il n. 8 dell’all. alla LF del 15 giu. 2018 (Revisione della disciplina della prescrizione), in vigore dal 1° gen. 2020 ([RU 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [FF 2014 211](https://fedlex.data.admin.ch/eli/fga/2014/65)).
+[^44-1]: Nuovo testo giusta l’all. n. 8 della LF del 15 giu. 2018 (Revisione della disciplina della prescrizione), in vigore dal 1° gen. 2020 ([RU 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [FF 2014 211](https://fedlex.data.admin.ch/eli/fga/2014/65)).
 
 ## Capitolo 6: Rimedi giuridici
 
@@ -780,29 +780,41 @@ Data dell’entrata in vigore: 1° giugno 2017[^66-1]
 
 [^66-1]: DCF del 10 mag. 2017.
 
-Allegato 1[^t-1]
+Allegato 1
 
 (art. 34 cpv. 1 e 4)
 
 ## Sospensione di disposizioni di altri atti normativi
 
-[^t-1]: Aggiornato dal n. I dell’O del 23 set. 2022, in vigore dal 24 set. 2022 al 31 mag. 2023 ([RU 2022 528](https://fedlex.data.admin.ch/eli/oc/2022/528)).
-
 Il Consiglio federale può dichiarare temporaneamente inapplicabili le seguenti disposizioni:
 
 - 1\. l’articolo 2 capoverso 2 della legge federale del 19 dicembre 1958[^annex1-lvlu1-1] sulla circolazione stradale;
-- 2\. gli articoli 2, 8 capoverso 2 e 22 della legge del 22 giugno 1979[^annex1-lvlu1-2] sulla pianificazione del territorio;
-- 3\. l’articolo 10*a* della legge del 7 ottobre 1983[^annex1-lvlu1-3] sulla protezione dell’ambiente;
-- 4\. l’articolo 16 capoverso 1 della legge del 24 giugno 1902[^annex1-lvlu1-4] sugli impianti elettrici;
-- 5\. gli articoli 7 e 8 della legge del 13 marzo 1964[^annex1-lvlu1-5] sul lavoro;
-- 6\. l’articolo 2 capoverso 1 della legge del 4 ottobre 1963[^annex1-lvlu1-6] sugli impianti di trasporto in condotta.
+- 2\.[^annex1-lvlu1-2] gli articoli 2, 8 capoverso 2 e 22 della legge del 22 giugno 1979[^annex1-lvlu1-3] sulla pianificazione del territorio;
+- 3\.[^annex1-lvlu1-4] l’articolo 10*a* della legge del 7 ottobre 1983[^annex1-lvlu1-5] sulla protezione dell’ambiente;
+- 3<sup>bis</sup>.[^annex1-lvlu1-6] l’articolo 15*e* della legge del 24 giugno 1902[^annex1-lvlu1-7] sugli impianti elettrici;
+- 4\.[^annex1-lvlu1-8] l’articolo 16 capoverso 1 della legge del 24 giugno 1902[^annex1-lvlu1-9] sugli impianti elettrici;
+- 5\.[^annex1-lvlu1-10] gli articoli 7 e 8 della legge del 13 marzo 1964[^annex1-lvlu1-11] sul lavoro;
+- 6\.[^annex1-lvlu1-12] l’articolo 2 capoverso 1 della legge del 4 ottobre 1963[^annex1-lvlu1-13] sugli impianti di trasporto in condotta;
+- 7\.[^annex1-lvlu1-14] gli articoli 31 capoverso 2 e 33 della legge federale del 24 gennaio 1991[^annex1-lvlu1-15] sulla protezione delle acque;
+- 8\.[^annex1-lvlu1-16] l’articolo 9 capoverso 1 lettere a e b della legge federale del 21 giugno 1991[^annex1-lvlu1-17] sulla pesca.
 
 [^annex1-lvlu1-1]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
-[^annex1-lvlu1-2]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
-[^annex1-lvlu1-3]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
-[^annex1-lvlu1-4]: [RS 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
-[^annex1-lvlu1-5]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
-[^annex1-lvlu1-6]: [RS 746.1](https://fedlex.data.admin.ch/eli/cc/1964/99_95_95)
+[^annex1-lvlu1-2]: Introdotto dal n. I dell’O del 23 set. 2022, in vigore dal 24 set. 2022 al 31 mag. 2023 ([RU 2022 528](https://fedlex.data.admin.ch/eli/oc/2022/528))
+[^annex1-lvlu1-3]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^annex1-lvlu1-4]: Introdotto dal n. I dell’O del 23 set. 2022, in vigore dal 24 set. 2022 al 31 mag. 2023 ([RU 2022 528](https://fedlex.data.admin.ch/eli/oc/2022/528))
+[^annex1-lvlu1-5]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^annex1-lvlu1-6]: Introdotto dal n. I dell’O del 30 set. 2022, in vigore dal 1° ott. 2022 al 30 apr. 2023 ([RU 2022 545](https://fedlex.data.admin.ch/eli/oc/2022/545)).
+[^annex1-lvlu1-7]: [RS 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
+[^annex1-lvlu1-8]: Introdotto dal n. I dell’O del 23 set. 2022, in vigore dal 24 set. 2022 al 31 mag. 2023 ([RU 2022 528](https://fedlex.data.admin.ch/eli/oc/2022/528))
+[^annex1-lvlu1-9]: [RS 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
+[^annex1-lvlu1-10]: Introdotto dal n. I dell’O del 23 set. 2022, in vigore dal 24 set. 2022 al 31 mag. 2023 ([RU 2022 528](https://fedlex.data.admin.ch/eli/oc/2022/528))
+[^annex1-lvlu1-11]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
+[^annex1-lvlu1-12]: Introdotto dal n. I dell’O del 23 set. 2022, in vigore dal 24 set. 2022 al 31 mag. 2023 ([RU 2022 528](https://fedlex.data.admin.ch/eli/oc/2022/528))
+[^annex1-lvlu1-13]: [RS 746.1](https://fedlex.data.admin.ch/eli/cc/1964/99_95_95)
+[^annex1-lvlu1-14]: Introdotto dal n. I dell’O del 30 set. 2022, in vigore dal 1° ott. 2022 al 30 apr. 2023 ([RU 2022 546](https://fedlex.data.admin.ch/eli/oc/2022/546)).
+[^annex1-lvlu1-15]: [RS 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
+[^annex1-lvlu1-16]: Introdotto dal n. I dell’O del 30 set. 2022, in vigore dal 1° ott. 2022 al 30 apr. 2023 ([RU 2022 546](https://fedlex.data.admin.ch/eli/oc/2022/546)).
+[^annex1-lvlu1-17]: [RS 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
 
 Allegato 2
 
