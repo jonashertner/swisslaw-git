@@ -5,11 +5,12 @@ title: "Ordinanza relativa alla legge d'applicazione del Concordato intercantona
 short: OLAdCIAP
 language: it
 version: 2022-10-01
+corrected: 2022-09-13
 version_adopted: 2022-09-13
 adopted: 2022-07-05
 in_force: 2022-10-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/803.610"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3865/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3261/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -53,7 +54,7 @@ visti il Concordato intercantonale sugli appalti pubblici (CIAP) del 15 novembre
 
 <sup>1</sup> Il Dipartimento competente per l'esecuzione uniforme, la comunicazione di esclusioni conformemente all'articolo 45 capoverso 1 CIAP, la tenuta delle statistiche, la fornitura di informazioni nonché la formazione e il perfezionamento professionali nel settore degli appalti pubblici è il Dipartimento infrastrutture, energia e mobilità (DIEM).
 
-<sup>2</sup> Esso assume i compiti tramite il centro di competenze in materia di appalti insediato presso il Segretariato generale.
+<sup>2</sup> Esso assume i compiti tramite il centro di competenze in materia di appalti insediato presso il Segretariato del Dipartimento.
 
 #### Art. 4
 
@@ -208,7 +209,7 @@ visti il Concordato intercantonale sugli appalti pubblici (CIAP) del 15 novembre
 
 <sup>3</sup> Fanno eccezione gli appalti delle autorità giudiziarie e del Gran Consiglio.
 
-<sup>4</sup> Le autorità cantonali che stipulano accordi di prestazioni con enti incaricati di compiti pubblici disciplinano in tali accordi anche il rispetto del diritto in materia di appalti pubblici da parte di detti enti incaricati di compiti pubblici, segnatamente:
+<sup>4</sup> Le autorità cantonali che stipulano accordi di prestazioni con enti incaricati di compiti pubblici disciplinano in tali accordi anche il rispetto del diritto in materia di appalti pubblici da parte dei fornitori di prestazioni, segnatamente:
 
 - a) l'obbligo di svolgere procedure di appalto pubblico in relazione a commesse nel settore dell'accordo di prestazioni;
 - b) l'attività di rapporto in relazione all'adempimento di tale obbligo.

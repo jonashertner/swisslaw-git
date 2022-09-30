@@ -5,11 +5,12 @@ title: Verordnung zum Einführungsgesetz zur Interkantonalen Vereinbarung über 
 short: RVzEGzIVöB
 language: de
 version: 2022-10-01
+corrected: 2022-09-13
 version_adopted: 2022-09-13
 adopted: 2022-07-05
 in_force: 2022-10-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/803.610"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3865/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3261/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -53,7 +54,7 @@ von der Regierung erlassen am 5. Juli 2022
 
 <sup>1</sup> Zuständiges Departement für den einheitlichen Vollzug, die Meldung von Ausschlüssen gemäss Artikel 45 Absatz 1 IVöB, das Führen der Statistiken, die Auskunftserteilung und die Aus- und Weiterbildung im öffentlichen Beschaffungswesen ist das Departement für Infrastruktur, Energie und Mobilität (DIEM).
 
-<sup>2</sup> Es nimmt die Aufgaben mit dem beim Generalsekretariat angesiedelten Kompetenzzentrum Beschaffungswesen wahr.
+<sup>2</sup> Es nimmt die Aufgaben mit dem beim Departementssekretariat angesiedelten Kompetenzzentrum Beschaffungswesen wahr.
 
 #### Art. 4
 
@@ -208,7 +209,7 @@ von der Regierung erlassen am 5. Juli 2022
 
 <sup>3</sup> Ausgenommen hiervon sind Beschaffungen der Gerichtsbehörden und des Grossen Rats.
 
-<sup>4</sup> Kantonale Behörden, die Leistungsvereinbarungen mit Trägern öffentlicher Aufgaben abschliessen, regeln in diesen auch die Einhaltung des öffentlichen Beschaffungsrechts durch diese Träger öffentlicher Aufgaben, namentlich:
+<sup>4</sup> Kantonale Behörden, die Leistungsvereinbarungen mit Trägern öffentlicher Aufgaben abschliessen, regeln in diesen auch die Einhaltung des öffentlichen Beschaffungsrechts durch die Leistungserbringer, namentlich:
 
 - a) die Pflicht zur Durchführung öffentlicher Beschaffungsverfahren in Bezug auf Aufträge im Bereich der Leistungsvereinbarung;
 - b) die Berichterstattung über die Erfüllung dieser Pflicht.

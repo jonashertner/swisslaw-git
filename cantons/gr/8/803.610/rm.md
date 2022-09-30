@@ -5,11 +5,12 @@ title: Ordinaziun tar la Lescha introductiva tar la Cunvegna interchantunala dav
 short: ORtLItCIAP
 language: rm
 version: 2022-10-01
+corrected: 2022-09-13
 version_adopted: 2022-09-13
 adopted: 2022-07-05
 in_force: 2022-10-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/803.610"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3865/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3261/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -53,7 +54,7 @@ relaschada da la Regenza ils 5 da fanadur 2022
 
 <sup>1</sup> Il departament cumpetent per l'execuziun unitara, per l'annunzia d'exclusiuns tenor l'artitgel 45 alinea 1 CIAP, per la gestiun da las statisticas, per la furniziun d'infurmaziuns sco er per la scolaziun e per la furmaziun supplementara en il sectur da las acquisiziuns publicas è il Departament d'infrastructura, energia e mobilitad (DIEM).
 
-<sup>2</sup> El ademplescha las incumbensas cun il Center da cumpetenza per las acquisiziuns publicas ch'è domicilià tar il Secretariat general.
+<sup>2</sup> El ademplescha las incumbensas cun il Center da cumpetenza per las acquisiziuns publicas ch'è domicilià tar il secretariat dal departament.
 
 #### Art. 4
 
@@ -208,7 +209,7 @@ relaschada da la Regenza ils 5 da fanadur 2022
 
 <sup>3</sup> Exceptadas da quai èn las acquisiziuns da las autoritads giudizialas e dal Cussegl grond.
 
-<sup>4</sup> Las autoritads chantunalas che fan cunvegnas da prestaziun cun purtaders d'incumbensas publicas, reglan en quellas er l'observaziun dal dretg da las acquisiziuns publicas tras quests purtaders d'incumbensas publicas, particularmain:
+<sup>4</sup> Las autoritads chantunalas che fan cunvegnas da prestaziun cun purtaders d'incumbensas publicas, reglan en quellas er l'observaziun dal dretg da las acquisiziuns publicas tras ils furniturs da prestaziuns, particularmain:
 
 - a) l'obligaziun da realisar proceduras d'acquisiziuns publicas per surdar incaricas en il sectur da la cunvegna da prestaziun;
 - b) la rapportaziun davart l'adempliment da questa obligaziun.
