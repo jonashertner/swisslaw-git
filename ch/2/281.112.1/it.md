@@ -3,18 +3,18 @@ sr: "281.112.1"
 title: Ordinanza del DFGP del 9 febbraio 2011 sulla comunicazione per via elettronica nel settore esecuzione
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/101"
 language: it
-version: 2020-10-01
+version: 2022-10-01
 adopted: 2011-02-09
 in_force: 2011-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/101/20201001/it/xml/fedlex-data-admin-ch-eli-cc-2011-101-20201001-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/101/20201001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/101/20221001/it/xml/fedlex-data-admin-ch-eli-cc-2011-101-20221001-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/101/20221001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Ordinanza del DFGP sulla comunicazione per via elettronica nel settore esecuzione****
+# Ordinanza del DFGP sulla comunicazione per via elettronica nel settore esecuzione
 
-del 9 febbraio 2011 (Stato 1° ottobre 2020)[^t-1]
+del 9 febbraio 2011 (Stato 1° ottobre 2022)[^t-1]
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del DFGP del 23 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3455](https://fedlex.data.admin.ch/eli/oc/2019/631)).
 
@@ -88,13 +88,13 @@ Lo standard e-LEF regola lo scambio elettronico di dati riguardanti le pratiche 
 Lo standard e-LEF obbligatorio è composto:
 
 - a. dello schema XML per e-LEF, versione 2.2.01 dell’ottobre 2019[^5-1];
-- b.[^5-2] delle prescrizioni tecniche e organizzative per lo scambio elettronico di dati nel settore dell’esecuzione, versione 2.2.01 del settembre 2020[^5-3].[^5-4]
+- b.[^5-2] delle prescrizioni tecniche e organizzative per lo scambio elettronico di dati nel settore dell’esecuzione, versione 2.2.01 del giugno 2022[^5-3].[^5-4]
 
 <sup>3</sup> ...[^5-5]
 
 [^5-1]: Lo schema XML può essere consultato gratuitamente sul sito Internet dell’Ufficio federale di giustizia all’indirizzo www.e-lef.ch
-[^5-2]: Nuovo testo giusta il n. I dell’O del DFGP del 27 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3789](https://fedlex.data.admin.ch/eli/oc/2020/692)).
-[^5-3]: Le prescrizioni tecniche e organizzative per lo scambio elettronico di dati nel settore dell’esecuzione possono essere consultate gratuitamente sul sito Internet dell’Ufficio federale di giustizia all’indirizzo www.e-lef.ch
+[^5-2]: Nuovo testo giusta il n. I dell’O del DFGP del 15 ago. 2022, in vigore dal 1° ott. 2022 ([RU 2022 473](https://fedlex.data.admin.ch/eli/oc/2022/473)).
+[^5-3]: Le prescrizioni tecniche e organizzative possono essere consultate gratuitamente sul sito Internet dell’Ufficio federale di giustizia all’indirizzo www.e-lef.ch.
 [^5-4]: Nuovo testo giusta il n. I dell’O del DFGP del 23 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3455](https://fedlex.data.admin.ch/eli/oc/2019/631)).
 [^5-5]: Introdotto dal n. I dell’O del DFGP del 2 lug. 2013 ([RU 2013 2391](https://fedlex.data.admin.ch/eli/oc/2013/501)). Abrogato dal n. I dell’O del DFGP del 23 ott. 2019, con effetto dal 1° dic. 2019 ([RU 2019 3455](https://fedlex.data.admin.ch/eli/oc/2019/631)).
 
@@ -109,7 +109,7 @@ Lo standard e-LEF obbligatorio è composto:
 [^5a-1]: Introdotto dal n. I dell’O del DFGP del 23 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3455](https://fedlex.data.admin.ch/eli/oc/2019/631)).
 [^5a-2]: www.easygov.swiss
 
-## Sezione 3:**** Fornitura di dati statistici
+## Sezione 3: Fornitura di dati statistici
 
 [^sec3-1]
 
@@ -194,6 +194,14 @@ Fino al 30 giugno 2023 gli uffici di esecuzione continuano a essere tenuti a tra
 [^9b-1]
 
 [^9b-1]: Introdotto dal n. I dell’O del DFGP del 6 nov. 2015 ([RU 2015 4489](https://fedlex.data.admin.ch/eli/oc/2015/749)). Abrogato dal n. I dell’O del DFGP del 23 ott. 2019, con effetto dal 1° dic. 2019 ([RU 2019 3455](https://fedlex.data.admin.ch/eli/oc/2019/631)).
+
+#### Art. 9c
+
+**Disposizioni transitorie della modifica del 15 agosto 2022**[^9c-1]
+
+Dal 1° ottobre 2022, le richieste secondo l’articolo 9 capoverso 4 non possono più riportare l’opzione «EZ» come riferimento bancario conformemente alla definizione di paymentType nello schema XML per e-LEF, versione 2.1.01 dell’agosto 2015.
+
+[^9c-1]: Introdotto dal n. I dell’O del DFGP del 15 ago. 2022, in vigore dal 1° ott. 2022 ([RU 2022 473](https://fedlex.data.admin.ch/eli/oc/2022/473)).
 
 #### Art. 10
 

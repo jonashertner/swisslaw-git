@@ -3,18 +3,18 @@ sr: "281.112.1"
 title: Verordnung des EJPD vom 9. Februar 2011 über die elektronische Übermittlung im Betreibungswesen
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/101"
 language: de
-version: 2020-10-01
+version: 2022-10-01
 adopted: 2011-02-09
 in_force: 2011-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/101/20201001/de/xml/fedlex-data-admin-ch-eli-cc-2011-101-20201001-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/101/20201001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/101/20221001/de/xml/fedlex-data-admin-ch-eli-cc-2011-101-20221001-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/101/20221001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Verordnung des EJPD über die elektronische Übermittlung im Betreibungswesen****
+# Verordnung des EJPD über die elektronische Übermittlung im Betreibungswesen
 
-vom 9. Februar 2011 (Stand am 1. Oktober 2020)[^t-1]
+vom 9. Februar 2011 (Stand am 1. Oktober 2022)[^t-1]
 
 [^t-1]: Fassung gemäss Ziff. I der V des EJPD vom 23. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3455](https://fedlex.data.admin.ch/eli/oc/2019/631)).
 
@@ -59,7 +59,7 @@ Diese Verordnung regelt die technischen und organisatorischen Vorgaben und das D
 
 <sup>3</sup> Erfolgt die Datenübermittlung zwischen Behörden innerhalb eines geschützten Netzes (Intranet), so sorgen die Verbundteilnehmerinnen und -teilnehmer dafür, dass Personendaten in geeigneter Weise vor anderen Benutzerinnen und Benutzern des Intranet geschützt sind und jeder Datenaustausch quittiert und protokolliert wird.
 
-<sup>4</sup> ...[^3-1]
+<sup>4</sup> …[^3-1]
 
 [^3-1]: Aufgehoben durch Ziff. I der V des EJPD vom 23. Okt. 2019, mit Wirkung seit 1. Dez. 2019 ([AS 2019 3455](https://fedlex.data.admin.ch/eli/oc/2019/631)).
 
@@ -88,12 +88,12 @@ Der eSchKG-Standard regelt den elektronischen Austausch von Geschäftsdaten im s
 Der verbindliche eSchKG-Standard setzt sich zusammen aus:
 
 - a. dem XML-Schema für eSchKG, Version 2.2.01 vom Oktober 2019[^5-1];
-- b.[^5-2] den technischen und organisatorischen Vorschriften für den elektronischen Datenaustausch im Betreibungswesen, Version 2.2.01 vom September 2020[^5-3].[^5-4]
+- b.[^5-2] den technischen und organisatorischen Vorschriften für den elektronischen Datenaustausch im Betreibungswesen, Version 2.2.01 vom Juni 2022[^5-3].[^5-4]
 
-<sup>3</sup> ...[^5-5]
+<sup>3</sup> …[^5-5]
 
 [^5-1]: Das XML-Schema kann im Internet auf den Seiten des Bundesamts für Justiz unter www.eschkg.ch kostenlos abgerufen werden.
-[^5-2]: Fassung gemäss Ziff. I der V des EJPD vom 27. Aug. 2020, in Kraft seit 1. Okt. 2020 ([AS 2020 3789](https://fedlex.data.admin.ch/eli/oc/2020/692)).
+[^5-2]: Fassung gemäss Ziff. I der V des EJPD vom 15. Aug. 2022, in Kraft seit 1. Okt. 2022 ([AS 2022 473](https://fedlex.data.admin.ch/eli/oc/2022/473)).
 [^5-3]: Die technischen und organisatorischen Vorschriften können im Internet auf den Seiten des Bundesamts für Justiz unter www.eschkg.ch kostenlos abgerufen werden.
 [^5-4]: Fassung gemäss Ziff. I der V des EJPD vom 23. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3455](https://fedlex.data.admin.ch/eli/oc/2019/631)).
 [^5-5]: Eingefügt durch Ziff. I der V des EJPD vom 2. Juli 2013 ([AS 2013 2391](https://fedlex.data.admin.ch/eli/oc/2013/501)). Aufgehoben durch Ziff. I der V des EJPD vom 23. Okt. 2019, mit Wirkung seit 1. Dez. 2019 ([AS 2019 3455](https://fedlex.data.admin.ch/eli/oc/2019/631)).
@@ -109,7 +109,7 @@ Der verbindliche eSchKG-Standard setzt sich zusammen aus:
 [^5a-1]: Eingefügt durch Ziff. I der V des EJPD vom 23. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3455](https://fedlex.data.admin.ch/eli/oc/2019/631)).
 [^5a-2]: www.easygov.swiss
 
-## 3. Abschnitt:**** Lieferung statistischer Daten
+## 3. Abschnitt: Lieferung statistischer Daten
 
 [^sec3-1]
 
@@ -194,6 +194,14 @@ Die Betreibungsämter sind bis zum 30. Juni 2023 weiterhin verpflichtet, von nat
 [^9b-1]
 
 [^9b-1]: Eingefügt durch Ziff. I der V des EJPD vom 6. Nov. 2015 ([AS 2015 4489](https://fedlex.data.admin.ch/eli/oc/2015/749)). Aufgehoben durch Ziff. I der V des EJPD vom 23. Okt. 2019, mit Wirkung seit 1. Dez. 2019 ([AS 2019 3455](https://fedlex.data.admin.ch/eli/oc/2019/631)).
+
+#### Art. 9c
+
+**Übergangsbestimmungen zur Änderung vom 15. August 2022**[^9c-1]
+
+Eingaben gemäss Artikel 9 Absatz 4 dürfen ab dem 1. Oktober 2022 nicht mehr die Option «EZ» als Zahlstelle angeben gemäss der Definition von paymentType im XML-Schema für eSchKG, Version 2.1.01 vom August 2015.
+
+[^9c-1]: Eingefügt durch Ziff. I der V des EJPD vom 15. Aug. 2022, in Kraft seit 1. Okt. 2022 ([AS 2022 473](https://fedlex.data.admin.ch/eli/oc/2022/473)).
 
 #### Art. 10
 

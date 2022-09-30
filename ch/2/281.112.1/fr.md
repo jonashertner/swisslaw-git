@@ -3,18 +3,18 @@ sr: "281.112.1"
 title: Ordonnance du DFJP du 9 février 2011 concernant la communication électronique dans le domaine des poursuites
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/101"
 language: fr
-version: 2020-10-01
+version: 2022-10-01
 adopted: 2011-02-09
 in_force: 2011-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/101/20201001/fr/xml/fedlex-data-admin-ch-eli-cc-2011-101-20201001-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/101/20201001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/101/20221001/fr/xml/fedlex-data-admin-ch-eli-cc-2011-101-20221001-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/101/20221001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Ordonnance du DFJP concernant la communication électronique dans le domaine des poursuites****
+# Ordonnance du DFJP concernant la communication électronique dans le domaine des poursuites
 
-du 9 février 2011 (Etat le 1<sup>er</sup> octobre 2020)[^t-1]
+du 9 février 2011 (État le 1<sup>er</sup> octobre 2022)[^t-1]
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 23 oct. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3455](https://fedlex.data.admin.ch/eli/oc/2019/631)).
 
@@ -88,13 +88,13 @@ La norme de communication e-LP s’applique à l’échange électronique de don
 La norme de communication e-LP comprend:
 
 - a. le schéma XML e-LP, version 2.2.01 d’octobre 2019[^5-1];
-- b.[^5-2] les spécifications techniques et modalités d’organisation applicables à l’échange électronique de données dans le domaine des poursuites, version 2.2.01 de septembre 2020[^5-3].[^5-4]
+- b.[^5-2] les spécifications techniques et modalités d’organisation applicables à l’échange électronique de données dans le domaine des poursuites, version 2.2.01 de juin 2022[^5-3].[^5-4]
 
 <sup>3</sup> ...[^5-5]
 
 [^5-1]: Le schéma XML peut être consulté gratuitement sur le site de l’Office fédéral de la justice à l’adresse www.e-lp.ch.
-[^5-2]: Nouvelle teneur selon le ch. I de l’O du DFJP du 27 août 2020, en vigueur depuis le 1<sup>er</sup> oct. 2020 ([RO 2020 3789](https://fedlex.data.admin.ch/eli/oc/2020/692)).
-[^5-3]: Les spécifications techniques et modalités d’organisation peuvent être consultées gratuitement sur le site de l’Office fédéral de la justice à l’adresse www.e-lp.ch
+[^5-2]: Nouvelle teneur selon le ch. I de l’O du DFJP du 15 août 2022, en vigueur depuis le 1<sup>er</sup> oct. 2022 ([RO 2022 473](https://fedlex.data.admin.ch/eli/oc/2022/473)).
+[^5-3]: Les spécifications techniques et modalités d’organisation peuvent être consultées gratuitement sur le site de l’Office fédéral de la justice à l’adresse www.e-lp.ch.
 [^5-4]: Nouvelle teneur selon le ch. I de l’O du DFJP du 23 oct. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3455](https://fedlex.data.admin.ch/eli/oc/2019/631)).
 [^5-5]: Introduit par le ch. I de l’O du DFJP du 2 juil. 2013 ([RO 2013 2391](https://fedlex.data.admin.ch/eli/oc/2013/501)). Abrogé par le ch. I de l’O du DFJP du 23 oct. 2019, avec effet au 1<sup>er</sup> déc. 2019 ([RO 2019 3455](https://fedlex.data.admin.ch/eli/oc/2019/631)).
 
@@ -109,7 +109,7 @@ La norme de communication e-LP comprend:
 [^5a-1]: Introduit par le ch. I de l’O du DFJP du 23 oct. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3455](https://fedlex.data.admin.ch/eli/oc/2019/631)).
 [^5a-2]: www.easygov.swiss
 
-## Section 3**** Livraison de données statistiques
+## Section 3 Livraison de données statistiques
 
 [^sec3-1]
 
@@ -194,6 +194,14 @@ Les offices des poursuites sont tenus de traiter jusqu’au 30 juin 2023 les act
 [^9b-1]
 
 [^9b-1]: Introduit par le ch. I de l’O du DFJP du 6 nov. 2015 ([RO 2015 4489](https://fedlex.data.admin.ch/eli/oc/2015/749)). Abrogé par le ch. I de l’O du DFJP du 23 oct. 2019, avec effet au 1<sup>er</sup> déc. 2019 ([RO 2019 3455](https://fedlex.data.admin.ch/eli/oc/2019/631)).
+
+#### Art. 9c
+
+**Disposition transitoire relative à la modification du 15 août 2022**[^9c-1]
+
+Les demandes au sens de l’art. 9, al. 4, ne peuvent plus indiquer l’option «EZ» comme références bancaires à compter du 1<sup>er</sup> octobre 2022, conformément à la définition de paymentType dans le schéma XML pour e-LP, version 2.1.01 d’août 2015.
+
+[^9c-1]: Introduit par le ch. I de l’O du DFJP du 15 août 2022, en vigueur depuis le 1<sup>er</sup> oct. 2022 ([RO 2022 473](https://fedlex.data.admin.ch/eli/oc/2022/473)).
 
 #### Art. 10
 
