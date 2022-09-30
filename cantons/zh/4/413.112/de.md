@@ -4,11 +4,11 @@ number: "413.112"
 title: Mittel- und Berufsschullehrpersonenvollzugsverordnung (MBVVO)
 short: MBVVO
 language: de
-version: "2021-01-01"
-nachtrag: "113"
-valid_until: 2022-10-01
+version: "2022-10-01"
+nachtrag: "118"
+valid_until: 2022-10-26
 adopted: 1999-05-26
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-413_112-1999_05_26-1999_08_23-113.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-413_112-1999_05_26-1999_08_23-118.html"
 text: pdf
 ---
 
@@ -85,7 +85,7 @@ Der Altersrücktritt erfolgt auf Ende eines Semesters.
 
 **1**
 
-- 1\. 7. 21 - 113
+1.10. 22 - 118
 
 ### III. Lohn
 
@@ -103,7 +103,7 @@ Der Altersrücktritt erfolgt auf Ende eines Semesters.
 
 Praktika an den Schulen zur Erlangung des Diploms für das Höhere Lehramt werden nicht vergütet.
 
-[^10-1]: Fassung gemäss RRB vom 26. Oktober 2016 (OS 71, 479; ABl 2016-11-04). In Kraft seit 1. Januar 2017.
+[^10-1]: Fassung gemäss RRB vom 26. Oktober 2016 (OS 71, 479; ABl 2016-11-04). In Kraft seit 1. Januar 2017. 1.10. 22 - 118 7
 
 #### § 11
 
@@ -121,16 +121,17 @@ Praktika an den Schulen zur Erlangung des Diploms für das Höhere Lehramt werde
 
 **Rückstufung**
 
-§ 13.[^11-1] Lehrpersonen, die mit «Ungenügend» qualifiziert werden, können durch das Mittelschul- und Berufsbildungsamt auf Antrag der Schulleitung in eine tiefere Stufe zurückversetzt werden. Voraussetzung für die Rückstufung ist die Einräumung einer Bewährungsfrist von mindestens einem Semester.
+§ 13.[^11-3] Lehrpersonen, deren Leistung oder Verhalten mit mangelhaft bzw. unbefriedigend qualifiziert wird, können durch das Mittelschul- und Berufsbildungsamt auf Antrag der Schulleitung in eine tiefere Stufe zurückversetzt werden. Voraussetzung für die Rückstufung ist eine schriftliche Mahnung, verbunden mit einer Frist zur Verbesserung von längstens drei Monaten. Eine zweite Rückstufung kann frühestens ein Jahr nach der ersten Rückstufung erfolgen.
 
 **Lohnfortzahlung**
 
-§ 13 a.[^11-3] Das Mittelschul- und Berufsbildungsamt ist zuständig für die Bewilligung der Lohnfortzahlung gemäss § 99 Abs. 4 VVO[^11-4].
+§ 13 a.[^11-4] Das Mittelschul- und Berufsbildungsamt ist zuständig für die Bewilligung der Lohnfortzahlung gemäss § 99 Abs. 4 VVO[^11-5].
 
 [^11-1]: Fassung gemäss RRB vom 9. Mai 2012 (OS 67, 225; ABl 2012, 1053). In Kraft seit 1. August 2012.
 [^11-2]: Aufgehoben durch RRB vom 5. Mai 2010 (OS 65, 890; ABl 2010, 2623). In Kraft seit 1. Januar 2011.
-[^11-3]: Eingefügt durch RRB vom 9. Mai 2012 (OS 67, 225; ABl 2012, 1053). In Kraft seit 1. August 2012.
-[^11-4]: LS 177.111.
+[^11-3]: Fassung gemäss RRB vom 16. März 2022 (OS 77, 402; ABl 2022-03-25). In Kraft seit 1. Oktober 2022.
+[^11-4]: Eingefügt durch RRB vom 9. Mai 2012 (OS 67, 225; ABl 2012, 1053). In Kraft seit 1. August 2012.
+[^11-5]: LS 177.111.
 
 ### IV. Arbeitszeit
 
@@ -170,7 +171,7 @@ Normal- Kurzlektion lektion a.[^14-1] an Mittelschulen:
 
 **3**
 
-- 1\. 7. 21 - 113 § 16. <sup>1</sup> Das Schuljahr umfasst 39 Wochen Unterricht. Die Lehrpersonen sind verpflichtet, ihre Ferien in der unterrichtsfreien Zeit zu beziehen. Die §§ 79–83 der VVO[^14-2],[^14-3] sind nicht anwendbar.
+1.10. 22 - 118 § 16. <sup>1</sup> Das Schuljahr umfasst 39 Wochen Unterricht. Die Lehrpersonen sind verpflichtet, ihre Ferien in der unterrichtsfreien Zeit zu beziehen. Die §§ 79–83 der VVO[^14-2],[^14-3] sind nicht anwendbar.
 
 **Unterricht und Ferien**
 
@@ -250,7 +251,7 @@ Die gemäss §§ 85–90 der VVO[^21-1],[^21-3] vorgesehenen Urlaube können nic
 
 § 23.[^22-3] Das Mittelschul- und Berufsbildungsamt kann für Tätigkeiten von Lehrpersonen an anderen öffentlichen Schulen sowie kantonalen oder eidgenössischen Institutionen und Konferenzen Entlastungen bewilligen.
 
-[^22-1]: Eingefügt durch RRB vom 31. März 2021 (OS 76, 168; ABl 2021-04-09). In Kraft seit 1. Januar 2021. 1. 7. 21 - 113 7
+[^22-1]: Eingefügt durch RRB vom 31. März 2021 (OS 76, 168; ABl 2021-04-09). In Kraft seit 1. Januar 2021.
 [^22-2]: LS 177.111.
 [^22-3]: Fassung gemäss RRB vom 9. Mai 2012 (OS 67, 225; ABl 2012, 1053). In Kraft seit 1. August 2012.
 
@@ -283,7 +284,7 @@ Die Schulleitungen bewilligen die dienstlichen Reisen von Lehrpersonen ins Ausla
 
 **5**
 
-- 1\. 7. 21 - 113
+1.10. 22 - 118
 
 ### VI. Schulleitungen
 
@@ -350,6 +351,12 @@ Die Bildungsdirektion regelt für die Schuljahre 1999/2000 bis 2001/2002 das Ver
 **Inkrafttreten**
 
 Diese Verordnung tritt unter Vorbehalt der Genehmigung der MBVO[^31-1],[^31-2] durch den Kantonsrat[^31-3] auf Beginn des Herbstsemesters 1999/2000 in Kraft.
+
+### Übergangsbestimmung zur Änderung vom 16. März 2022
+
+(OS 77, 402)
+
+Auf Rückstufungen, die vor Inkrafttreten der Änderung eingeleitet wurden, bleibt das bisherige Recht anwendbar.
 
 ## Weitere Fussnoten
 
