@@ -3,22 +3,22 @@ canton: BS
 number: "772.630"
 title: Gebührentarif der IWB Industrielle Werke Basel betreffend Fernwärme
 language: de
-version: 2022-04-01
-valid_until: 2022-09-30
-version_adopted: 2022-02-04
+version: 2022-10-01
+valid_until: 2025-09-30
+version_adopted: 2022-09-01
 adopted: 2010-09-06
 in_force: 2010-10-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/772.630"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5494/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5657/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gebührentarif der IWB Industrielle Werke Basel betreffend Fernwärme
 
-Fernwärme: Gebührentarif | Energie- und Wasserversorgung[^t-1]
+Energie- und Wasserversorgung[^t-1]
 
-Vom 6. September 2010 (Stand 1. April 2022)
+Vom 6. September 2010 (Stand 1. Oktober 2022)
 
 Der Verwaltungsrat der IWB Industrielle Werke Basel,
 
@@ -33,11 +33,13 @@ beschliesst:
 
 **Fernwärmetarif**
 
-<sup>1</sup> Für alle Fernwärmeanwendungen gilt ein Tarif nach Massgabe der folgenden Absätze 2 und 3. Vorbehalten bleibt die Verrechnung nach § 2 (Spezialtarife).
+<sup>1</sup> Für alle Fernwärmeanwendungen gilt ein Tarif nach Massgabe der folgenden Absätze 2 und 3.
+
+Vorbehalten bleibt die Verrechnung nach § 2 (Spezialtarife).
 
 <sup>2</sup> Der Energiepreis besteht aus einem Einheitspreis pro bezogene Kilowattstunde und aus einem Grundpreis, der sich nach der Netzbelastung der angeschlossenen Apparate richtet. Es gilt:
 
-- a) Einheitspreis = 9,25 Rp./kWh, inkl. Kosten für die Teilnahme am Emissionshandelssystem gemäss Bundesgesetz über die Reduktion der CO<sub>2</sub>-Emissionen vom 23. Dezember 2011.
+- a) Einheitspreis = 11,05 Rp./kWh, inkl. Kosten für die Teilnahme am Emissionshandelssystem gemäss Bundesgesetz über die Reduktion der CO<sub>2</sub>-Emissionen vom 23. Dezember 2011.
 - b) Grundpreis = CHF 15/kW/Jahr, im Minimum CHF 180/Jahr.
 
 <sup>3</sup> Besondere Bestimmungen:
