@@ -3,10 +3,9 @@ canton: ZH
 number: "212.22"
 title: Beschluss des Kantonsrates über die Stellenprozente sowie die Mindestzahl der Mitglieder der Bezirksgerichte
 language: de
-nachtrag: "97"
-valid_until: 2022-10-01
+nachtrag: "118"
 adopted: 2022-07-11
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-212_22-2017_01_09-2017_07_01-097.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-212_22-2022_07_11-2022_10_01-118.html"
 text: pdf
 ---
 
@@ -14,21 +13,21 @@ text: pdf
 
 # Beschluss des Kantonsrates über die Stellenprozente sowie die Mindestzahl der Mitglieder der Bezirksgerichte
 
-(vom 9. Januar 2017)[^t-1]
+(vom 11. Juli 2022)[^t-1]
 
 Der Kantonsrat,
 
-nach Einsichtnahme in den Antrag des Obergerichts vom 29. Juni 2016[^t-2],
+nach Einsichtnahme in die Anträge des Obergerichts vom 27. Oktober 2021[^t-2] und der Justizkommission vom 31. Mai 2022,
 
 beschliesst:
 
 I. Die Zahl der Stellenprozente und die Mindestzahl der Mitglieder der Bezirksgerichte wird wie folgt festgesetzt:
 
-**Mindestzahl Mitglieder 6 5 11 7 8 8 10 10 6 10 11 66**
+**Mindestzahl Mitglieder 6 5 14 8 9 8 11 12 6 12 14 72**
 
-Bezirksgericht Stellenprozente Affoltern 340 Andelfingen 180 Bülach 900 Dielsdorf 505 Dietikon 650 Hinwil 544 Horgen 780 Meilen 900 Pfäffikon 320 Uster 800 Winterthur 1000 Zürich 6200
+Bezirksgericht Stellenprozente Affoltern 400 Andelfingen 260 Bülach 1150 Dielsdorf 650 Dietikon 750 Hinwil 650 Horgen 900 Meilen 1050 Pfäffikon 400 Uster 950 Winterthur 1250 Zürich 6600
 
-II. Dieser Beschluss tritt am 1. Juli 2017 in Kraft. Gleichzeitig wird der Beschluss des Kantonsrates über die Stellenprozente sowie die Mindestzahl der Mitglieder der Bezirksgerichte vom 8. Juli 2013 aufgehoben.
+II. Dieser Beschluss tritt am 1. Oktober 2022 in Kraft. Gleichzeitig wird der Beschluss des Kantonsrates über die Stellenprozente sowie die Mindestzahl der Mitglieder der Bezirksgerichte vom 9. Januar 2017 aufgehoben.
 
-[^t-1]: OS 72, 124.
-[^t-2]: ABl 2016-07-29. 1. 7. 17 - 97 1
+[^t-1]: OS 77, 426.
+[^t-2]: ABl 2021-12-03. 1.10. 22 - 118 1
