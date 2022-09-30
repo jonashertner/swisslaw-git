@@ -3,13 +3,12 @@ canton: FR
 number: "821.0.16"
 title: Verordnung über die Kommission für die Aufsicht über die Berufe des Gesundheitswesens und die Wahrung der Patientenrechte
 language: de
-version: 2020-01-01
-valid_until: 2022-09-30
-version_adopted: 2019-12-16
+version: 2022-10-01
+version_adopted: 2022-09-27
 adopted: 2011-01-18
 in_force: 2011-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/821.0.16"
-pdf: "https://bdlf.fr.ch/api/de/versions/6429/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7714/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/6429/pdf_file"
 
 Berufe des Gesundheitswesens, Kommission für die Aufsicht – V
 
-vom 18.01.2011 (Fassung in Kraft getreten am 01.01.2020)
+vom 18.01.2011 (Fassung in Kraft getreten am 01.10.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -40,7 +39,7 @@ beschliesst:
 
 <sup>1</sup> Die Aufsichtskommission besteht aus:
 
-- a) elf ständigen Mitgliedern (ständige Kommission);
+- a) dreizehn ständigen Mitgliedern (ständige Kommission);
 - b) nichtständigen Mitgliedern, die die nicht in der ständigen Kommission vertretenen Gesundheitsberufe vertreten, sowie allfälligen Ersatzmitgliedern;
 - c) zwei Mediatorinnen oder Mediatoren als nichtständige Mitglieder.
 
@@ -49,6 +48,7 @@ beschliesst:
 - a) zwei Personen als Vertretung der Patientenvereinigungen;
 - b) einer Person als Vertretung der Institutionen des Gesundheitswesens;
 - b1) einer Person als Vertretung der sonderpädagogischen Institutionen für Erwachsene mit Behinderungen;
+- b2) einer Person als Vertretung der Leistungsempfängerinnen und -empfänger der sonder- und sozialpädagogischen Institutionen für Erwachsene mit Behinderungen;
 - c) zwei Personen als Vertretung der Ärztinnen und Ärzte, darunter eine Fachärztin oder ein Facharzt für Psychiatrie;
 - d) vier weiteren Gesundheitsfachpersonen;
 - e) zwei Juristinnen oder Juristen, die den Vorsitz und den Vizevorsitz innehaben.
@@ -78,6 +78,14 @@ beschliesst:
 
 - a) Sie untersuchen die Angelegenheit und treffen die notwendigen Zwischenentscheide.
 - b) Sie unterbreiten der ständigen Kommission Entwürfe für Entscheide oder Stellungnahmen.
+
+#### Art. 4a
+
+**Organisation – Mit der Schlichtung beauftragte Delegationen**
+
+<sup>1</sup> Die Schlichtung zwischen Menschen mit Behinderungen und sonder- und sozialpädagogischen Institutionen im Sinne von Artikel 16 des Gesetzes über die sonder- und sozialpädagogischen Institutionen und die professionellen Pflegefamilien wird von einer Mediatorin oder einem Mediator der Aufsichtskommission geleitet.
+
+<sup>2</sup> Nach Abschluss des Schlichtungsverfahrens teilt die Mediatorin oder der Mediator das Ergebnis der Aufsichtskommission zum Entscheid mit.
 
 #### Art. 5
 

@@ -3,13 +3,12 @@ canton: FR
 number: "821.0.16"
 title: Ordonnance sur la Commission de surveillance des professions de la santé et des droits des patients et patientes
 language: fr
-version: 2020-01-01
-valid_until: 2022-09-30
-version_adopted: 2019-12-16
+version: 2022-10-01
+version_adopted: 2022-09-27
 adopted: 2011-01-18
 in_force: 2011-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/821.0.16"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6429/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7714/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/6429/pdf_file"
 
 Professions de la santé, Commission de surveillance – O
 
-du 18.01.2011 (version entrée en vigueur le 01.01.2020)
+du 18.01.2011 (version entrée en vigueur le 01.10.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -40,7 +39,7 @@ Arrête:
 
 <sup>1</sup> La Commission de surveillance est composée:
 
-- a) de onze membres permanents (ci-après: la Commission permanente);
+- a) de treize membres permanents (ci-après: la Commission permanente);
 - b) de membres non permanents représentant les professions de la santé qui ne sont pas représentées dans la Commission permanente, ainsi que d'éventuels membres suppléants;
 - c) de deux médiateurs ou médiatrices membres non permanents.
 
@@ -49,6 +48,7 @@ Arrête:
 - a) deux personnes représentant les associations de patients et patientes;
 - b) une personne représentant les institutions de santé;
 - b1) une personne représentant les institutions spécialisées pour personnes adultes en situation de handicap;
+- b2) une personne représentant les bénéficiaires des institutions spécialisées pour personnes adultes en situation de handicap;
 - c) deux médecins, dont un ou une spécialiste en psychiatrie;
 - d) quatre autres professionnel-le-s de la santé;
 - e) deux juristes qui assument la présidence et la vice-présidence.
@@ -78,6 +78,14 @@ Arrête:
 
 - a) instruire l'affaire et prendre les décisions incidentes;
 - b) proposer à la Commission permanente des projets de décisions ou de préavis.
+
+#### Art. 4a
+
+**Organisation – Délégations chargées des conciliations**
+
+<sup>1</sup> La conciliation entre une personne en situation de handicap et une institution spécialisée au sens de l'article 16 de la loi du 16 novembre 2017 sur les institutions spécialisées et les familles d'accueil professionnelles est menée par un médiateur ou une médiatrice de la Commission de surveillance.
+
+<sup>2</sup> A l'issue du processus de conciliation, le médiateur ou la médiatrice en communique le résultat à la Commission de surveillance pour décision.
 
 #### Art. 5
 
