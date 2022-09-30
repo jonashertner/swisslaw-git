@@ -4,11 +4,11 @@ number: "131.1"
 title: Gemeindegesetz (GG)
 short: GG
 language: de
-version: "2022-01-01"
-nachtrag: "115"
-valid_until: 2022-10-01
+version: "2022-10-01"
+nachtrag: "118"
+valid_until: 2026-04-01
 adopted: 2015-04-20
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-131_1-2015_04_20-2018_01_01-115.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-131_1-2015_04_20-2018_01_01-118.html"
 text: pdf
 ---
 
@@ -66,7 +66,7 @@ Dieses Gesetz regelt die Grundzüge der Organisation und den Finanzhaushalt der 
 
 **1**
 
-- 1\. 1. 22 - 115
+1.10. 22 - 118
 
 <sup>2</sup> Wichtige Rechtssätze beschliessen die Gemeinden in der Form eines Gemeindeerlasses. Zuständig sind die Stimmberechtigten oder das Gemeindeparlament unter Vorbehalt des fakultativen Referendums.
 
@@ -176,7 +176,7 @@ Oberstes Organ der Gemeinde sind die Stimmberechtigten.
 
 **3**
 
-- 1\. 1. 22 - 115 § 13. Für das Abstimmungsverfahren an der Urne gelten die entsprechenden Bestimmungen des Gesetzes über die politischen Rechte vom 1. September 2003 (GPR)[^12-1] sinngemäss.
+1.10. 22 - 118 § 13. Für das Abstimmungsverfahren an der Urne gelten die entsprechenden Bestimmungen des Gesetzes über die politischen Rechte vom 1. September 2003 (GPR)[^12-1] sinngemäss.
 
 **Abstimmungsverfahren an der Urne**
 
@@ -235,12 +235,13 @@ Oberstes Organ der Gemeinde sind die Stimmberechtigten.
 <sup>3</sup> In dringenden Fällen kann er die Frist bis auf zwei Wochen verkürzen.
 
 [^18-1]: LS 161.
+[^18-2]: Fassung gemäss G über die politischen Rechte vom 9. Mai 2022 (OS 77, 403; ABl 2021-07-16). In Kraft seit 1. Oktober 2022.
 
 #### § 19
 
 **Beleuchtender Bericht**
 
-<sup>1</sup> Der Gemeindevorstand verfasst einen Beleuchtenden Bericht. § 64 Abs. 2 GPR[^18-1] gilt sinngemäss.
+<sup>1</sup> Der Gemeindevorstand verfasst einen Beleuchtenden Bericht. Es gelten § 64 a Abs. 1 lit. a, b und d GPR[^18-1].[^18-2]
 
 <sup>2</sup> Er stellt ihn den Stimmberechtigten mindestens zwei Wochen vor der Gemeindeversammlung zu oder weist in der Ankündigung der Versammlung darauf hin, dass der Bericht aufliegt und auf Verlangen kostenlos zugestellt wird.
 
@@ -284,7 +285,7 @@ Die Gemeindeversammlung wählt die Stimmenzählenden. Diese dürfen an der Vorbe
 
 **5**
 
-- 1\. 1. 22 - 115 § 24. <sup>1</sup> Vor der ersten Abstimmung zu einem Geschäft gibt die Präsidentin oder der Präsident des Gemeindevorstands den Gegenstand und die Reihenfolge der Abstimmungen bekannt.
+1.10. 22 - 118 § 24. <sup>1</sup> Vor der ersten Abstimmung zu einem Geschäft gibt die Präsidentin oder der Präsident des Gemeindevorstands den Gegenstand und die Reihenfolge der Abstimmungen bekannt.
 
 **Abstimmungsverfahren a. offene Abstimmung**
 
@@ -394,7 +395,7 @@ Die Gemeindeversammlung wählt die Stimmenzählenden. Diese dürfen an der Vorbe
 
 **7**
 
-- 1\. 1. 22 - 115 § 33. Jedes Parlamentsmitglied kann sich zu den Geschäften äussern und Anträge zum Verfahren sowie zum Inhalt der Vorlage stellen.
+1.10. 22 - 118 § 33. Jedes Parlamentsmitglied kann sich zu den Geschäften äussern und Anträge zum Verfahren sowie zum Inhalt der Vorlage stellen.
 
 #### § 34
 
@@ -504,7 +505,7 @@ Eine Behörde kann einzelnen Mitgliedern oder Ausschüssen aus ihrer Mitte Aufga
 
 **9**
 
-- 1\. 1. 22 - 115 § 45. <sup>1</sup> Aufgaben können an Gemeindeangestellte zur selbstständigen Erledigung übertragen werden.
+1.10. 22 - 118 § 45. <sup>1</sup> Aufgaben können an Gemeindeangestellte zur selbstständigen Erledigung übertragen werden.
 
 **b. an Gemeindeangestellte**
 
@@ -600,7 +601,7 @@ Eine Behörde kann zur Vorberatung ihrer Geschäfte Kommissionen einsetzen oder 
 
 **11**
 
-- 1\. 1. 22 - 115
+1.10. 22 - 118
 
 [^53-1]: LS 177.10 ff.
 [^53-2]: Fassung gemäss G über die Administrativuntersuchung vom 22. Februar 2021 (OS 76, 447; ABl 2018-07-20). In Kraft seit 1. Januar 2022.
@@ -713,7 +714,7 @@ Besorgt eine politische Gemeinde Aufgaben der Volksschule, bestellt sie eine Sch
 
 **13**
 
-- 1\. 1. 22 - 115
+1.10. 22 - 118
 
 <sup>2</sup> Der Gemeindevorstand schränkt die Herausgabe von Unterlagen und die Erteilung von Auskünften ein, soweit ein überwiegendes öffentliches oder privates Interesse dies gebietet.
 
@@ -819,7 +820,7 @@ Mit einem Anschlussvertrag können die Gemeinden vereinbaren, dass eine Gemeinde
 
 **15**
 
-- 1\. 1. 22 - 115
+1.10. 22 - 118
 
 <sup>3</sup> Im Übrigen gelten die Bestimmungen des Obligationenrechts[^72-1] über die einfache Gesellschaft (Art. 530 ff.) sinngemäss als kantonales öffentliches Recht.
 
@@ -933,7 +934,7 @@ Die Stimmberechtigten jeder beteiligten Gemeinde beschliessen an der Urne die Re
 
 **17**
 
-- 1\. 1. 22 - 115
+1.10. 22 - 118
 
 <sup>2</sup> Die Genehmigung ist Voraussetzung für das Inkrafttreten der Rechtsgrundlage.
 
@@ -1037,7 +1038,7 @@ Die Stimmberechtigten jeder beteiligten Gemeinde beschliessen an der Urne die Re
 
 **19**
 
-- 1\. 1. 22 - 115
+1.10. 22 - 118
 
 <sup>3</sup> Schliesst ein Verwaltungsbereich mit Globalbudget schlechter ab als budgetiert, werden zur Deckung des Fehlbetrags Rücklagen aufgelöst.
 
@@ -1139,7 +1140,7 @@ Das Budget legt die Finanzierung der Aufgaben für das nächste Rechnungsjahr fe
 
 **21**
 
-- 1\. 1. 22 - 115 § 98. Das Budget richtet sich nach den Grundsätzen der Jährlichkeit, der qualitativen, quantitativen und zeitlichen Bindung, der Vollständigkeit, der Vergleichbarkeit und der Bruttodarstellung.
+1.10. 22 - 118 § 98. Das Budget richtet sich nach den Grundsätzen der Jährlichkeit, der qualitativen, quantitativen und zeitlichen Bindung, der Vollständigkeit, der Vergleichbarkeit und der Bruttodarstellung.
 
 #### § 99
 
@@ -1231,7 +1232,7 @@ Gebundene Ausgaben setzen einen Beschluss des Gemeindevorstands, der Schulpflege
 
 **23**
 
-- 1\. 1. 22 - 115 § 107. <sup>1</sup> Die Gemeindeordnung bestimmt anhand von Betragsgrenzen die Zuständigkeit für die Bewilligung von Verpflichtungskrediten durch:
+1.10. 22 - 118 § 107. <sup>1</sup> Die Gemeindeordnung bestimmt anhand von Betragsgrenzen die Zuständigkeit für die Bewilligung von Verpflichtungskrediten durch:
 
 **b. Zuständigkeit**
 
@@ -1325,7 +1326,7 @@ Gebundene Ausgaben setzen einen Beschluss des Gemeindevorstands, der Schulpflege
 
 **25**
 
-- 1\. 1. 22 - 115
+1.10. 22 - 118
 
 ### B. Anlagegeschäfte
 
@@ -1439,7 +1440,7 @@ Die Rechnungslegung soll die Vermögens-, Finanz- und Ertragslage den tatsächli
 
 **27**
 
-- 1\. 1. 22 - 115
+1.10. 22 - 118
 
 <sup>3</sup> Das ausserordentliche Ergebnis umfasst:
 
@@ -1539,7 +1540,7 @@ Die Jahresrechnung wird genehmigt von a. der Delegiertenversammlung, sofern der 
 
 **29**
 
-- 1\. 1. 22 - 115
+1.10. 22 - 118
 
 ### D. Geschäftsbericht
 
@@ -1643,7 +1644,7 @@ Der Regierungsrat legt Kennzahlen fest, welche die Gemeinden im Finanz- und Aufg
 
 **31**
 
-- 1\. 1. 22 - 115 § 145. <sup>1</sup> Die an der finanztechnischen Prüfung beteiligten Personen (Prüfende) verfügen über die notwendige Fachkunde und einen unbescholtenen Leumund im Sinne von Art. 4 Abs. 1 des Bundesgesetzes vom 16. Dezember 2005 über die Zulassung und Beaufsichtigung der Revisorinnen und Revisoren (RAG)[^144-1].
+1.10. 22 - 118 § 145. <sup>1</sup> Die an der finanztechnischen Prüfung beteiligten Personen (Prüfende) verfügen über die notwendige Fachkunde und einen unbescholtenen Leumund im Sinne von Art. 4 Abs. 1 des Bundesgesetzes vom 16. Dezember 2005 über die Zulassung und Beaufsichtigung der Revisorinnen und Revisoren (RAG)[^144-1].
 
 **b. Fachkunde und Leumund**
 
@@ -1743,9 +1744,7 @@ Die Leiterinnen und Leiter der finanztechnischen Prüfung zeigen alle Straftaten
 
 **33**
 
-- 1\. 1. 22 - 115
-
-- c. den Übergang der Rechtsverhältnisse,
+1.10. 22 - 118 c. den Übergang der Rechtsverhältnisse,
 
 - d. die Schaffung einer Übergangsbehörde, die zu Gemeindeordnung und Budget Antrag stellen kann.
 
@@ -1835,7 +1834,7 @@ Der Kanton unterstützt Zusammenschlüsse von Gemeinden mit Beratung und finanzi
 
 **35**
 
-- 1\. 1. 22 - 115
+1.10. 22 - 118
 
 <sup>2</sup> Politische Gemeinden und Schulgemeinden koordinieren die Änderungen ihrer Gebiete.
 
@@ -1947,7 +1946,7 @@ Trifft eine kantonale Aufsichtsbehörde Massnahmen, auferlegt sie die Kosten des
 
 **37**
 
-- 1\. 1. 22 - 115
+1.10. 22 - 118
 
 <sup>3</sup> Die Mitwirkung am Entscheid, welcher der Neubeurteilung unterliegt, stellt keinen Ausstandsgrund dar.
 
@@ -2045,7 +2044,7 @@ Die bestehenden Primarschulgemeinden und Schulgemeinden der Oberstufe gemäss Ge
 
 **Verordnung**
 
-- 1\. 1. 22 - 115 § 181. Die Verordnung zum Gemeindegesetz[^180-1] untersteht der Genehmigung des Kantonsrates.
+1.10. 22 - 118 § 181. Die Verordnung zum Gemeindegesetz[^180-1] untersteht der Genehmigung des Kantonsrates.
 
 [^180-1]: LS 131.11.
 
@@ -2099,23 +2098,7 @@ Die nachstehenden Gesetze werden wie folgt geändert:
 
 **41**
 
-- 1\. 1. 22 - 115
-
-- 23\. Das Gesetz betreffend Abtretung von Privatrechten vom 30. November 1879 (LS 781): . . .[^hAnhang-1]
-
-- 24\. Das Spitalplanungs- und -finanzierungsgesetz vom 2. Mai 2011 (LS 813.20): . . .[^hAnhang-1]
-
-- 25\. Das Einführungsgesetz zu den Bundesgesetzen über die Alters- und Hinterlassenenversicherung und die Invalidenversicherung vom 20. Februar 1994 (LS 831.1): . . .[^hAnhang-1]
-
-- 26\. Das Sozialhilfegesetz vom 14. Juni 1981 (LS 851.1): . . .[^hAnhang-1]
-
-- 27\. Das Gesetz über die Gebäudeversicherung vom 2. März 1975 (LS 862.1): . . .[^hAnhang-1]
-
-- 28\. Das Landwirtschaftsgesetz vom 2. September 1979 (LS 910.1): . . .[^hAnhang-1]
-
-- 29\. Das Kantonale Waldgesetz vom 7. Juni 1998 (LS 921.1): . . .[^hAnhang-1]
-
-- 30\. Das Gesetz über Jagd und Vogelschutz vom 12. Mai 1929 (LS 922.1): . . .[^hAnhang-1]
+1.10. 22 - 118 23. Das Gesetz betreffend Abtretung von Privatrechten vom 30. November 1879 (LS 781): . . .[^hAnhang-1] 24. Das Spitalplanungs- und -finanzierungsgesetz vom 2. Mai 2011 (LS 813.20): . . .[^hAnhang-1] 25. Das Einführungsgesetz zu den Bundesgesetzen über die Alters- und Hinterlassenenversicherung und die Invalidenversicherung vom 20. Februar 1994 (LS 831.1): . . .[^hAnhang-1] 26. Das Sozialhilfegesetz vom 14. Juni 1981 (LS 851.1): . . .[^hAnhang-1] 27. Das Gesetz über die Gebäudeversicherung vom 2. März 1975 (LS 862.1): . . .[^hAnhang-1] 28. Das Landwirtschaftsgesetz vom 2. September 1979 (LS 910.1): . . .[^hAnhang-1] 29. Das Kantonale Waldgesetz vom 7. Juni 1998 (LS 921.1): . . .[^hAnhang-1] 30. Das Gesetz über Jagd und Vogelschutz vom 12. Mai 1929 (LS 922.1): . . .[^hAnhang-1]
 
 [^hAnhang-1]: Text siehe OS 72, 183.
 [^hAnhang-2]: Berichtigung vom 19. Juni 2017 (OS 72, 382).
