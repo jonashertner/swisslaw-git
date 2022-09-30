@@ -4,34 +4,35 @@ number: "916.472"
 title: Règlement fixant les frais et les indemnités dans le domaine vétérinaire
 short: "Règlement sur les frais vétérinaires, RFv"
 language: fr
-version: 2020-07-01
-corrected: 2020-06-30
-version_adopted: 2020-06-24
+version: 2022-10-01
+version_adopted: 2022-11-16
 adopted: 2022-11-16
 in_force: 2022-10-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/916.472"
-pdf: "https://lex.vs.ch/api/fr/versions/2675/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3085/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Règlement fixant les frais et les indemnités dans le domaine vétérinaire
 
-du 10.02.2010 (état 01.07.2020)
+(Règlement sur les frais vétérinaires, RFv)
+
+du 16.11.2022 (état 01.10.2022)
 
 Le Conseil d'Etat du canton du Valais
 
-vu la loi fédérale sur les denrées alimentaires du 20 juin 2014 (Loi sur les denrées alimentaire, LDAI);
+vu la loi fédérale sur les denrées alimentaires et objets usuels du 20 juin 2014 (Loi sur les denrées alimentaire, LDAI);
 
-vu la loi cantonale concernant l'application de la loi fédérale sur les denrées alimentaires et les objets usuels du 21 mai 1996;
+vu la loi concernant l'application de la loi fédérale sur les denrées alimentaires et les objets usuels du 21 mai 1996;
 
 vu la loi fédérale sur la protection des animaux du 16 décembre 2005 (LPA);
 
-vu la loi cantonale d'application de la loi fédérale sur la protection des animaux du 19 décembre 2014 (LALPA);
+vu la loi d'application de la loi fédérale sur la protection des animaux du 19 décembre 2014 (LALPA);
 
 vu la loi fédérale sur les épizooties du 1<sup>er</sup> juillet 1966 (LFE);
 
-vu la loi cantonale d'application de la loi fédérale sur les épizooties du 13 novembre 2008;
+vu la loi d'application de la loi fédérale sur les épizooties du 13 novembre 2008;
 
 vu l'ordonnance fédérale concernant la formation de base, la formation qualifiante et la formation continue des personnes travaillant dans le Service vétérinaire public du 16 novembre 2011;
 
@@ -39,79 +40,164 @@ vu l'ordonnance fédérale concernant l'abattage d'animaux et le contrôle des v
 
 vu l'ordonnance portant exécution de la législation fédérale sur l'abattage d'animaux et le contrôle des viandes du 18 janvier 2017;
 
-vu les articles 88 et suivants de la loi cantonale sur la procédure et la juridiction administratives du 6 octobre 1976 (LPJA);
+vu les articles 88 et suivants de la loi sur la procédure et la juridiction administratives du 6 octobre 1976 (LPJA);
 
-vu la loi cantonale fixant le tarif des frais et dépens devant les autorités judiciaires ou administratives du 11 février 2009 (LTar);
+vu la loi fixant le tarif des frais et dépens devant les autorités judiciaires ou administratives du 11 février 2009 (LTar);
 
 sur la proposition du département en charge de la santé,
 
-arrête:
+ordonne:
+
+## 1 Dispositions générales
 
 #### Art. 1
 
-<sup>1</sup> Le présent règlement fixe les émoluments et les débours perçus ainsi que les indemnités versées par les différents organes chargés du domaine vétérinaire, notamment:
+**Champ d'application**
+
+<sup>1</sup> Le présent règlement fixe les émoluments et les débours perçus ainsi que les indemnités versées par et aux différents organes chargés du domaine vétérinaire, notamment:
 
 - a) le Conseil d'Etat par les départements et les services;
 - b) les autorités communales;
 - c) les vétérinaires officiels et non officiels;
 - d) les experts et assistants officiels;
 - e) les polices cantonale, communale et intercommunale;
-- f) toute personne mandatée par l'Office vétérinaire.
+- f) toute personne mandatée par l'Office vétérinaire (ci-après: l'Office), ou au bénéfice de prestations de l'Office.
 
-<sup>2</sup> Le tarif des émoluments et des indemnités est déterminé en points sauf pour les tarifs déjà fixés en francs dans d'autres législations. La valeur indicative de 1 point (tarif vétérinaire) est fixée à 1 franc au moment de l'entrée en vigueur du présent règlement. Ce tarif sera automatiquement indexé au 1<sup>er</sup> janvier de chaque année à l'indice des prix à la consommation (IPC).
+<sup>2</sup> Le tarif des émoluments et des indemnités est déterminé en points sauf pour les tarifs déjà fixés en francs dans d'autres législations. La valeur indicative de 1 point (tarif vétérinaire) est fixée à 1,007 franc au moment de l'entrée en vigueur du présent règlement. Ce tarif est indexé selon la décision annuelle du Conseil d'Etat relative à l'adaptation du traitement du personnel de l'Etat au renchérissement le 1<sup>er</sup> janvier de chaque année, sur la base de l'indice suisse des prix à la consommation (IPC) du mois de décembre précédent.
 
 #### Art. 2
 
-**Emoluments perçus en matière de protection des animaux**
+**Types d'émoluments et indemnités**
 
-<sup>1</sup> Emoluments perçus pour toute prestation spéciale qui a occasionné un travail dépassant l'activité officielle ordinaire:
+<sup>1</sup> Le présent règlement prévoit trois types d'émoluments et d'indemnités:
 
-- a) établissement d'autorisations/heure — 132 pts.
-- b) contrôles/heure — 132 pts.
-- c) établissement de rapport/heure — 132 pts.
-- d) intervention/heure — 132 pts.
+- a) les émoluments et indemnités dont le montant est fixe;
+- b) les émoluments et indemnités dont le montant est calculé en fonction du temps;
+- c) les émoluments et indemnités à fixer entre une limite supérieure et une limite inférieure données (selon un barème cadre).
+
+## 2 Émoluments
 
 #### Art. 3
 
-**Emoluments perçus en matière de denrées alimentaires**
+**Dispositions communes**
 
-<sup>1</sup> Emoluments perçus et indemnités versées en relation avec le contrôle des animaux avant l'abattage et le contrôle des viandes (selon art. 60 de l'ordonnance concernant l'abattage d'animaux et le contrôle des viandes du 16 décembre 2016, OAbCV). Contrôle des animaux avant et après l'abattage:
+<sup>1</sup> Sous réserve des dispositions suivantes, l'émolument est déterminé conformément aux principes de la couverture des coûts et de l'équivalence. Les coûts de personnel de l'autorité sont en principe facturés selon le temps effectif consacré.
 
-- a) taxe de base par visite de l'établissement d'abattage — Fr. 20
-- b) taxe de base par visite dans l'exploitation de provenance des animaux — Fr. 30
-- c) animal de l'espèce bovine âgé de 8 mois ou plus — Fr. 12
-- d) animal de l'espèce bovine âgé de moins de 8 mois — Fr. 8
-- e) mouton, chèvre — Fr. 5
-- f) porc — Fr. 8
-- g) porcelet — Fr. 3
-- h) cheval — Fr. 12
-- i) autre bétail de boucherie — Fr. 8
-- j) gibier d'élevage à onglons — Fr. 8
-- k) sanglier — Fr. 8
+<sup>2</sup> Émoluments perçus pour toute prestation provoquée ou requise par l'administré:
 
-<sup>1 <sup>bis</sup></sup> Emoluments perçus pour le contrôle des animaux avant l'abattage et le contrôle de la mise à mort dans l'exploitation de provenance, ainsi que le contrôle des viandes en abattoir dans le cadre de l'abattage à la ferme ou au pré selon l'article 60 alinée 6 de l'OAbVC: 148 pts./heure.
+- a) établissement d'autorisation/heure — 148 pts.
+- b) contrôles/heure — 148 pts.
+- c) établissement de rapport ou de décision administrative /heure — 148 pts.
+- d) intervention/heure — 148 pts.
 
-<sup>2</sup> Emoluments perçus pour prestations, contrôles et autorisations particuliers visés à l'article 58 alinéa 2 lettres a à d, et f à i de la loi sur les denrées alimentaires du 20 juin 2014: 132 pts./heure.
+<sup>3</sup> Émolument forfaitaire pour les causes ne demandant pas de mesure d'instruction particulière et dont la situation aussi bien technique que juridique est claire, comme certaines prestations répétitives standardisées:
 
-<sup>3</sup> Indemnités versées pour les contrôles officiels des animaux en abattoirs avant et après l'abattage:
+- a) décisions en première instance avec voies de recours / par page — 120 pts.
 
-- a) vétérinaire officiel/heure — 100 pts.
-- b) assistant officiel — 40 pts.
-
-#### Art. 3a
-
-**Emoluments perçus pour les activités de l'Office en application de la loi vétérinaire cantonale du 16 juin 2011**
-
-<sup>1</sup> Emoluments perçus pour les activités de l'Office en application de la loi vétérinaire cantonale:
-
-- a) par heure — 120 pts
-- b) autorisation de pratiquer la médecine vétérinaire — 500 pts
+<sup>4</sup> Les frais de déplacement par kilomètre sont facturés selon les tarifs fixés dans le règlement sur les indemnités de déplacements.
 
 #### Art. 4
 
-**Emoluments perçus et indemnités versées en matière d'épizooties**
+**Émoluments perçus en matière de denrées alimentaires**
 
-<sup>1</sup> Taxe de base par exploitation: 26 pts.
+<sup>1</sup> Émoluments perçus et indemnités versées en relation avec le contrôle des animaux avant l'abattage et le contrôle des viandes (selon art. 60 de l'ordonnance concernant l'abattage d'animaux et le contrôle des viandes, OAbCV). Contrôle des animaux avant et après l'abattage:
+
+- a) taxe de base par visite de l'établissement d'abattage — Fr. 20,00
+- b) taxe de base par visite dans l'exploitation de provenance des animaux — Fr. 30,00
+- c) animal de l'espèce bovine âgé de 8 mois ou plus — Fr. 12,00
+- d) animal de l'espèce bovine âgé de moins de 8 mois — Fr. 8,00
+- e) mouton, chèvre — Fr. 5,00
+- f) porc — Fr. 8,00
+- g) porcelet — Fr. 3,00
+- h) cheval — Fr. 12,00
+- i) autre bétail de boucherie — Fr. 8,00
+- j) gibier d'élevage à onglons — Fr. 8,00
+- k) sanglier — Fr. 8,00
+- l) volaille domestique — Fr. 0,10
+- m) lapin domestique — Fr. 0,20
+- n) taxe perçue pour le pesage et étiquetage, par carcasse de bétail de boucherie — Fr. 3,00
+
+<sup>2</sup> Émoluments perçus pour le contrôle des animaux avant l'abattage et le contrôle de la mise à mort dans l'exploitation de provenance, ainsi que le contrôle des viandes en abattoir dans le cadre de l'abattage à la ferme ou au pré selon l'article 60 alinéa 6 de l'OAbVC:
+
+- a) par heure — 148 pts.
+
+<sup>3</sup> Émoluments perçus pour prestations, contrôles et autorisations particuliers visés à l'article 58 alinéa 2 lettres a à d, et f à i de la loi sur les denrées alimentaires:
+
+- a) par heure — 148 pts.
+
+#### Art. 5
+
+**Émoluments perçus pour les activités de l'Office en application de la loi vétérinaire cantonale**
+
+<sup>1</sup> Émoluments perçus pour les activités de l'Office en application de la loi vétérinaire cantonale:
+
+- a) par heure — 148 pts.
+- b) autorisation de pratiquer la médecine vétérinaire, sous réserve des dispositions de la loi fédérale sur le marché intérieur (LMI) — 500 pts.
+
+## 3 Indemnités
+
+#### Art. 6
+
+**Vacations officielles générales sur mandat du vétérinaire cantonal**
+
+<sup>1</sup> Activités du vétérinaire officiel, vétérinaire délégué ou expert officiel:
+
+- a) par heure d'activité — 148 pts.
+- b) temps de déplacement, par heure — 70 pts.
+- c) indemnité forfaitaire pour examen clinique d'un animal de compagnie, y compris rédaction du rapport — 50 pts.
+
+<sup>2</sup> Activités des assistants officiels:
+
+- a) par heure d'activité — 45 pts.
+- b) temps de déplacement, par heure — 30 pts.
+
+<sup>3</sup> Activités des inspecteurs régionaux des ruchers et taxateurs en matière d'épizooties:
+
+- a) par heure — 40 pts.
+
+<sup>4</sup> Activités d'autres mandataires spécialisés (notamment éducateurs canins, spécialistes en animaux sauvages, membres spécialisés de l'équipe d'intervention en cas d'épizootie hautement contagieuse):
+
+- a) par heure, selon mandat de prestation — 50-100 pts.
+
+#### Art. 7
+
+**Indemnités de formation**
+
+<sup>1</sup> Formation des vétérinaires officiels, délégués ou experts officiels:
+
+- a) par heure — 70 pts.
+- b) par demi-journée (&lt;4h15) — 210 pts.
+- c) par journée entière (8h30) — 390 pts.
+
+<sup>2</sup> Formation d'autres mandataires comme les assistants officiels, inspecteurs régionaux des ruchers ou taxateurs en matière d'épizooties:
+
+- a) par demi-journée (&lt;4h15) — 120 pts.
+- b) par journée entière (8h30) — 200 pts.
+
+#### Art. 8
+
+**Indemnités spécifiques versées en matière de protection des animaux**
+
+<sup>1</sup> Programme PAM (prévention des accidents par morsure de chien)
+
+- a) intervenants jusqu'au terme de leur 3<sup>e</sup> année de collaboration, par visite de classe — 105 pts.
+- b) intervenants dès le début de leur 4<sup>e</sup> année de collaboration, par visite de classe — 120 pts.
+
+#### Art. 9
+
+**Indemnités vétérinaires spécifiques en matière de denrées alimentaires**
+
+<sup>1</sup> Indemnités versées pour les contrôles officiels des animaux en abattoirs avant et après l'abattage:
+
+- a) vétérinaire officiel/heure — 110 pts.
+
+#### Art. 10
+
+**Indemnités spécifiques versées en matière d'épizooties**
+
+<sup>1</sup> Taxe de base
+
+- a) par exploitation — 26 pts.
 
 <sup>2</sup> Prestations particulières. Les tarifs indiqués ci-dessous comprennent l'identification des animaux, la rédaction de rapports y compris électroniques, l'emballage et l'envoi du rapport et du matériel prélevé. Lors d'interventions généralisées dans une région, un tarif spécial peut être édicté:
 
@@ -124,82 +210,28 @@ arrête:
 - b) prélèvement de sang dans les abattoirs (toutes catégories d'animaux) par animal — 8 pts.
 - c) prélèvement de lait — 6 pts.
 - d) prélèvement d'arrière-faix — 18 pts.
-- e) prélèvement de matière fécale — 8 pts.
-- f) tuberculinisation, y compris contrôle par animal — 10 pts.
-- g) injection sous-cutanée ou intramusculaire — 4 pts.
-- h) prélèvement d'organes, d'échantillons de viande dans les abattoirs par animal — 12 pts.
-- i) prélèvement d'échantillons de cervelle à la cuillère (ESB, EST) par animal — 12 pts.
-- j) autopsie, y compris prélèvement d'échantillons:
+- e) prélèvement de peau / biopsie de fœtus — 5.5 pts.
+- f) prélèvement d'écouvillons pour le diagnostic de la maladie du piétin — de Fr. 125,00 à 175,00
+- g) Contrôle de gestation — 20 pts.
+- h) prélèvement de matière fécale — 8 pts.
+- i) tuberculinisation, y compris contrôle par animal — 10 pts.
+- j) injection sous-cutanée ou intramusculaire — 4 pts.
+- k) prélèvement d'organes, d'échantillons de viande dans les abattoirs par animal — 12 pts.
+- l) préparation au prélèvement ESB (ablation de la tête) — 50 pts.
+- m) prélèvement d'échantillons de cervelle à la cuillère (ESB, EST) par animal — 12 pts.
+- n) autopsie, y compris prélèvement d'échantillons:
   - 1\. petit bétail — 40 pts.
   - 2\. gros bétail — 80 pts.
-- k) temps d'attente occasionné par un manque de préparation ou mise à disposition insuffisante de personnel et d'infrastructure par heure — 148 pts.
+- o) les détenteurs d'animaux participant à un programme cantonal facultatif de lutte contre une épizootie (comme par exemple le piétin du mouton) sont indemnisés conformément à la directive y relative.
+- p) indemnisation forfaitaire annuelle des apiculteurs participant au programme de détection précoce "Apinella" — 500 pts.
 
-#### Art. 5
+#### Art. 11
 
-**Indemnités versées aux vétérinaires officiels ou experts officiels**
+**Débours, dispositions communes**
 
-<sup>1</sup> Activités du vétérinaire officiel ou du vétérinaire délégué sur ordre du vétérinaire cantonal:
+<sup>1</sup> Frais générés par la vacation officielle:
 
-- a) activités spéciales (vacations pratiques) par heure — 148 pts.
-- b) cours de formation:
-  - 1\. par heure — 70 pts.
-  - 2\. par demi-journée (&lt;4h15) — 210 pts.
-  - 3\. par journée entière (8h30) — 390 pts.
-- c) divers:
-  - 1\. temps de déplacement /heure — 70 pts.
-  - 2\. frais de port — selon quittance
+- a) les frais de déplacement sont indemnisés conformément aux tarifs fixés dans le règlement sur les indemnités de déplacements;
+- b) autre frais, comme notamment les frais de port, de parking ou d'hébergement (nuitée) — selon quittance
 
-#### Art. 5a
-
-**Indemnités versées aux assistants officiels et taxateurs en matière d'épizooties**
-
-<sup>1</sup> Pour des vacations officielles sur mandat du vétérinaire cantonal:
-
-- a) vacations spéciales (tâches pratiques) par heure — 40 pts.
-- b) cours de formation:
-  - 1\. par demi-journée (&lt;4h15) — 120 pts
-  - 2\. par journée entière (8h30) — 200 pts
-- c) divers:
-  - 1\. temps de déplacement /heure — 30 Pts.
-  - 2\. frais de port — selon quittance
-
-#### Art. 6
-
-**Autres fonctions**
-
-<sup>1</sup> Autres fonctions:
-
-- a) inspecteur cantonal des ruchers et suppléant: par heure — 50 pts.
-- b) inspecteurs régionaux et suppléants: par heure — 40 pts.
-- c) membres d'équipe d'intervention: par heure — 30 pts.
-- d) autres mandataires spécialisés (notamment éducateurs canins ou spécialistes en animaux sauvages): par heure — 80 pts.
-
-<sup>2</sup> Cours de formation:
-
-- a) par demi-journée (&lt;4h15) — 120 pts.
-- b) par journée entière (8h30) — 200 pts.
-
-#### Art. 7
-
-**Dispositions communes**
-
-<sup>1</sup> Emoluments perçus pour toute prestation spéciale qui a occasionné un travail dépassant l'activité ordinaire:
-
-- a) établissement d'autorisations/heure — 132 pts.
-- b) contrôles/heure — 132 pts.
-- c) établissement de rapport/heure — 132 pts.
-- d) intervention/heure — 132 pts.
-
-<sup>2</sup> Frais de déplacement par kilomètre: 0.70 centimes.
-
-<sup>3</sup> …
-
-#### Art. 8
-
-**Dispositions finales**
-
-<sup>1</sup> Le présent règlement abroge le règlement fixant les frais et indemnités dans le domaine vétérinaire du 13 avril 2005.
-
-<sup>2</sup> Le présent règlement, publié dans le Bulletin officiel, entre en vigueur le 1<sup>er</sup> janvier 2010.
-
-RCV BO/Abl. 12/2010
+RCV RO/AGS 2022-082
