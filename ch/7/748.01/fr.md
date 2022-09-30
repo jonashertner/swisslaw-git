@@ -4,20 +4,20 @@ title: "Ordonnance du 14 novembre 1973 sur l'aviation (OSAv)"
 short: OSAv
 eli: "https://fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856"
 language: fr
-version: 2022-05-01
+version: 2022-10-01
 adopted: 1973-11-14
 in_force: 1974-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856/20220501/fr/xml/fedlex-data-admin-ch-eli-cc-1973-1856_1856_1856-20220501-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1973/1856_1856_1856/20220501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856/20221001/fr/xml/fedlex-data-admin-ch-eli-cc-1973-1856_1856_1856-20221001-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1973/1856_1856_1856/20221001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur l’aviation
 
-(OSAv)**[^t-1]**
+(OSAv)[^t-1]
 
-du 14 novembre 1973 (Etat le 1<sup>er</sup> mai 2022)
+du 14 novembre 1973 (État le 1<sup>er</sup> octobre 2022)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1995 ([RO 1994 3028](https://fedlex.data.admin.ch/eli/oc/1994/3028_3028_3028)).
 
@@ -40,7 +40,7 @@ arrête:
 
 [^1-1]: Abrogé par le ch. I de l’O du 23 nov. 1994, avec effet au 1<sup>er</sup> janv. 1995 ([RO 1994 3028](https://fedlex.data.admin.ch/eli/oc/1994/3028_3028_3028)).
 
-### 12 Classement****
+### 12 Classement
 
 [^lvl1-lvl12-1]
 
@@ -55,7 +55,7 @@ arrête:
 [^2-1]: Introduit par le ch. I de l’O du 23 nov. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1995 ([RO 1994 3028](https://fedlex.data.admin.ch/eli/oc/1994/3028_3028_3028)).
 [^2-2]: Anciennement al. 1.
 
-### 12*a***** Aéronefs sans occupants
+### 12*a* Aéronefs sans occupants
 
 [^lvl1-lvl12a-1]
 
@@ -72,7 +72,7 @@ arrête:
 [^2a-1]: Nouvelle teneur selon le ch. I de l’O du 4 juil. 2007, en vigueur depuis le 1<sup>er</sup> août 2007 ([RO 2007 3645](https://fedlex.data.admin.ch/eli/oc/2007/454)).
 [^2a-2]: Nouvelle teneur selon le ch. I de l’O du 4 juil. 2007, en vigueur depuis le 1<sup>er</sup> août 2007 ([RO 2007 3645](https://fedlex.data.admin.ch/eli/oc/2007/454)).
 
-### 12*b***** Interdiction de certains aéronefs avec occupants
+### 12*b* Interdiction de certains aéronefs avec occupants
 
 [^lvl1-lvl12b-1]
 
@@ -243,7 +243,7 @@ L’immatriculation d’un aéronef est radiée:
 
 L’OFAC édicte des dispositions sur les marques de nationalité et d’immatriculation des aéronefs suisses.
 
-### 15 Navigabilité et admission à la circulation****
+### 15 Navigabilité et admission à la circulation
 
 [^lvl1-lvl15-1]
 
@@ -397,7 +397,7 @@ Dans les limites fixées aux art. 108 et 109 de la loi sur l’aviation, le DETE
 [^21-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1995 ([RO 1994 3028](https://fedlex.data.admin.ch/eli/oc/1994/3028_3028_3028)).
 [^21-2]: Nouvelle expression selon le ch. I de l’O du 4 juil. 2007, en vigueur depuis le 1<sup>er</sup> août 2007 ([RO 2007 3645](https://fedlex.data.admin.ch/eli/oc/2007/454)). Il a été tenu compte de cette mod. dans tout le texte.
 
-## 2 Engins balistiques****
+## 2 Engins balistiques
 
 [^lvl2-1]
 
@@ -508,13 +508,13 @@ Après avoir entendu les organisations visées à l’al. 2, le DDPS règlemente
 
 [^29-1]: Abrogé par le ch. I de l’O du 17 oct. 2018, avec effet au 1<sup>er</sup> janv. 2019 ([RO 2018 3843](https://fedlex.data.admin.ch/eli/oc/2018/609)).
 
-### 34 Protection de la santé des membres d’équipage des aéronefs****
+### 34 Protection de la santé des membres d’équipage des aéronefs
 
 [^lvl3-lvl34-1]
 
 [^lvl3-lvl34-1]: Introduit par le ch. I de l’O du 18 sept. 2009, en vigueur depuis le 15 oct. 2009 ([RO 2009 5027](https://fedlex.data.admin.ch/eli/oc/2009/581)).
 
-### 341 Dispositions générales****
+### 341 Dispositions générales
 
 [^lvl3-lvl34-lvl341-1]
 
@@ -576,7 +576,7 @@ Les membres d’équipage bénéficient de l’examen de santé gratuit visé à
 [^33-2]: Conformément à la version contraignante pour la Suisse du ch. 1 de l’annexe de l’accord du 21 juin 1999 sur le transport aérien ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
 [^33-3]: Le R JAR-FCL 3 n’est pas publié au RO ni traduit. Il peut être consulté à l’Office fédéral de l’aviation civile (OFAC), 3003 Berne (www.bazl.admin.ch) ou obtenu contre paiement auprès des Joint Aviation Authorities.
 
-### 342 Protection de la santé durant la maternité****
+### 342 Protection de la santé durant la maternité
 
 [^lvl3-lvl34-lvl342-1]
 
@@ -621,7 +621,7 @@ Les textes suivants s’appliquent aux femmes enceintes et aux mères allaitante
 [^36-3]: [RS 822.111](https://fedlex.data.admin.ch/eli/cc/2000/243)
 [^36-4]: [RS 822.113](https://fedlex.data.admin.ch/eli/cc/1993/2553_2553_2553)
 
-### 343 Membres d’équipage ayant des responsabilités familiales****
+### 343 Membres d’équipage ayant des responsabilités familiales
 
 [^lvl3-lvl34-lvl343-1]
 
@@ -639,13 +639,13 @@ L’occupation des membres d’équipage ayant des responsabilités familiales e
 [^37-1]: Nouvelle teneur selon le ch. I de l’O du 18 sept. 2009, en vigueur depuis le 15 oct. 2009 ([RO 2009 5027](https://fedlex.data.admin.ch/eli/oc/2009/581)).
 [^37-2]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
 
-### 35 Constatation de l’ébriété et d’états analogues****
+### 35 Constatation de l’ébriété et d’états analogues
 
 [^lvl3-lvl35-1]
 
 [^lvl3-lvl35-1]: Introduit par le ch. I de l’O du 16 fév. 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 230](https://fedlex.data.admin.ch/eli/oc/2022/230)).
 
-### 351 Alcool****
+### 351 Alcool
 
 [^lvl3-lvl35-lvl351-1]
 
@@ -719,7 +719,7 @@ Il y a lieu d’ordonner une prise de sang dans les cas suivants:
 [^42-1]: Nouvelle teneur selon le ch. I de l’O du 16 fév. 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 230](https://fedlex.data.admin.ch/eli/oc/2022/230)).
 [^42-2]: [RS 741.013](https://fedlex.data.admin.ch/eli/cc/2007/296)
 
-### 352 Narcotiques ou substances psychotropes****
+### 352 Narcotiques ou substances psychotropes
 
 [^lvl3-lvl35-lvl352-1]
 
@@ -744,7 +744,7 @@ Lorsque des indices donnent à penser qu’un membre d’équipage est sous l’
 
 ## 5 Circulation, exploitation et entretien
 
-### 51**** Règles de circulation et règles d’exploitation
+### 51 Règles de circulation et règles d’exploitation
 
 [^lvl5-lvl51-1]
 
@@ -766,7 +766,7 @@ Le DETEC édicte les règles de circulation en vigueur dans l’espace aérien s
 
 <sup>3</sup> Il peut être dérogé aux règles d’exploitation à l’étranger si elles se heurtent à des dispositions impératives du droit étranger.
 
-### 52 Système de comptes rendus d’événements dans l’aviation****
+### 52 Système de comptes rendus d’événements dans l’aviation
 
 [^lvl5-lvl52-1]
 
@@ -974,7 +974,7 @@ Outre la direction de l’activité de vol, le chef responsable de la manifestat
 
 L’OFAC peut faire surveiller la manifestation par un expert; les tâches de celui-ci sont fixées dans chaque cas particulier.
 
-### 59**** ...
+### 59 ...
 
 [^lvl5-lvl59-1]
 
@@ -988,7 +988,7 @@ L’OFAC peut faire surveiller la manifestation par un expert; les tâches de ce
 
 Les autorisations peuvent être retirées ou restreintes si les conditions dans lesquelles elles ont été accordées ne sont plus remplies.
 
-## 6**** Aviation commerciale
+## 6 Aviation commerciale
 
 [^lvl6-1]
 
@@ -1007,15 +1007,25 @@ Les vols sont dits commerciaux:
 - a. lorsqu’ils donnent lieu à rémunération sous une forme quelconque, qui doit couvrir davantage que les coûts pour la location de l’aéronef et le carburant ainsi que pour les redevances d’aéroport et de navigation aérienne, et
 - b. lorsqu’un cercle indéterminé de personnes peut y avoir accès.
 
+<sup>1bis</sup> Lorsque le transporteur est une association, les membres de celle-ci sont réputés appartenir à un cercle déterminé de personnes pour autant qu’ils soient membres depuis plus de 30 jours.[^100-1]
+
 <sup>2</sup> Les vols effectués par une entreprise titulaire d’une autorisation d’exploitation sont présumés commerciaux. L’appréciation des faits sous l’angle des législations fiscales ou douanières est réservée*.*
 
-<sup>3</sup> Lorsqu’il s’agit de vols non commerciaux donnant lieu à rémunération, les passagers doivent être informés au préalable du caractère privé du vol et des conséquences qui en découlent quant à la couverture de l’assurance.
+<sup>3</sup> Les passagers de vols non commerciaux donnant lieu à rémunération doivent être informés au préalable du caractère privé du vol et des conséquences qui en découlent quant à la couverture de l’assurance. Lorsqu’un aéronef relevant de la catégorie de navigabilité spéciale est exploité, les passagers doivent en outre être informés des particularités de la certification de l’aéronef en question.[^100-2]
+
+[^100-1]: Introduit par le ch. I de l’O du 17 août 2022, en vigueur depuis le 1<sup>er</sup> oct. 2022 ([RO 2022 485](https://fedlex.data.admin.ch/eli/oc/2022/485)).
+[^100-2]: Nouvelle teneur selon le ch. I de l’O du 17 août 2022, en vigueur depuis le 1<sup>er</sup> oct. 2022 ([RO 2022 485](https://fedlex.data.admin.ch/eli/oc/2022/485)).
 
 #### Art. 101
 
-[^101-1]
+**Restrictions frappant les aéronefs engagés en exploitation commerciale**[^101-1]
 
-[^101-1]: Abrogé par le ch. I 1 de l’O du 4 mars 2011, avec effet au 1<sup>er</sup> avr. 2011 ([RO 2011 1139](https://fedlex.data.admin.ch/eli/oc/2011/166)).
+Les aéronefs suivants ne peuvent être exploités pour le transport commercial de personnes:
+
+- a. aéronefs de la catégorie spéciale, sous-catégorie «Historique», et
+- b. aéronefs de la catégorie standard qui ne sont pas soumis à la réglementation européenne et pour lesquels il n’existe aucun détenteur du certificat de type.
+
+[^101-1]: Nouvelle teneur selon le ch. I de l’O du 17 août 2022, en vigueur depuis le 1<sup>er</sup> oct. 2022 ([RO 2022 485](https://fedlex.data.admin.ch/eli/oc/2022/485)).
 
 #### Art. 102
 
@@ -1167,7 +1177,7 @@ L’autorisation d’exploitation pour le transport commercial de personnes et d
 
 <sup>3</sup> Pour de justes motifs, on peut renoncer à l’exigence formulée à l’al. 1, let. d.
 
-[^108-1]: Nouvelle teneur selon le ch. II de l’annexe à l’O du 17 août 2005 sur le transport aérien , en vigueur depuis le 5 sept. 2005 ([RO 2005 4243](https://fedlex.data.admin.ch/eli/oc/2005/556)).
+[^108-1]: Nouvelle teneur selon l’annexe ch. II de l’O du 17 août 2005 sur le transport aérien , en vigueur depuis le 5 sept. 2005 ([RO 2005 4243](https://fedlex.data.admin.ch/eli/oc/2005/556)).
 
 #### Art. 109
 
@@ -1346,7 +1356,7 @@ Les entreprises sises à l’étranger qui souhaitent exploiter des lignes aéri
 
 Abrogés
 
-## 6*a***** Mesures de sûreté
+## 6*a* Mesures de sûreté
 
 [^lvl6a-1]
 
@@ -1403,7 +1413,7 @@ Les mesures de sûreté sont régies par:
 [^122c-2]: Nouvelle teneur selon le ch. I de l’O du 17 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3843](https://fedlex.data.admin.ch/eli/oc/2018/609)).
 [^122c-3]: Nouvelle teneur selon le ch. I de l’O du 17 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3843](https://fedlex.data.admin.ch/eli/oc/2018/609)).
 [^122c-4]: [RS 364](https://fedlex.data.admin.ch/eli/cc/2008/759)
-[^122c-5]: Introduit par le ch. 3 de l’annexe à l’O du 12 nov. 2008 sur l’usage de la contrainte, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5475](https://fedlex.data.admin.ch/eli/oc/2008/760)).
+[^122c-5]: Introduit par l’annexe ch. 3 de l’O du 12 nov. 2008 sur l’usage de la contrainte, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5475](https://fedlex.data.admin.ch/eli/oc/2008/760)).
 [^122c-6]: Le programme national de sûreté est rédigé en anglais. Il n’est pas publié.
 
 #### Art. 122d
@@ -1632,7 +1642,7 @@ La responsabilité de la Confédération pour les dommages qu’un garde de sûr
 
 [^122o-1]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
 
-## 6*b***** Facilitations
+## 6*b* Facilitations
 
 [^lvl6b-1]
 
@@ -1695,7 +1705,7 @@ Les normes et recommandations de l’OACI énoncées à l’annexe 9 de la Conve
 
 <sup>3</sup> Pour les vols qui constituent un danger particulier, notamment en raison de la nature des marchandises transportées, l’OFAC peut faire dépendre l’octroi de l’autorisation d’exploitation de la preuve d’une couverture supplémentaire de la responsabilité civile envers les tiers au sol.[^125-3]
 
-[^125-1]: Nouvelle teneur selon le ch. II de l’annexe à l’O du 17 août 2005 sur le transport aérien, en vigueur depuis le 5 sept. 2005 ([RO 2005 4243](https://fedlex.data.admin.ch/eli/oc/2005/556)).
+[^125-1]: Nouvelle teneur selon l’annexe ch. II de l’O du 17 août 2005 sur le transport aérien, en vigueur depuis le 5 sept. 2005 ([RO 2005 4243](https://fedlex.data.admin.ch/eli/oc/2005/556)).
 [^125-2]: Nouvelle teneur selon le ch. I de l’O du 24 juin 2015, en vigueur depuis le 15 juil. 2015 ([RO 2015 2175](https://fedlex.data.admin.ch/eli/oc/2015/399)).
 [^125-3]: Introduit par le ch. I de l’O du 28 oct. 1998, en vigueur depuis le 15 nov. 1998 ([RO 1998 2570](https://fedlex.data.admin.ch/eli/oc/1998/2570_2570_2570)).
 
@@ -1757,7 +1767,7 @@ Le contrat d’assurance doit stipuler que les conditions dont les tiers lésés
 
 [^130-1]
 
-[^130-1]: Abrogé par le ch. II de l’annexe à l’O du 17 août 2005 sur le transport aérien, avec effet au 5 sept. 2005 ([RO 2005 4243](https://fedlex.data.admin.ch/eli/oc/2005/556)).
+[^130-1]: Abrogé par l’annexe ch. II de l’O du 17 août 2005 sur le transport aérien, avec effet au 5 sept. 2005 ([RO 2005 4243](https://fedlex.data.admin.ch/eli/oc/2005/556)).
 
 ### 715 Assureur et tiers lésé
 
@@ -1773,11 +1783,11 @@ Le contrat d’assurance doit stipuler que les conditions dont les tiers lésés
 
 L’attestation de la couverture indique le montant de la couverture, la durée de la sûreté fournie et le rayon géographique de validité.
 
-### 71*a***** Responsabilité de l’exploitant d’un aéronef envers les passagers
+### 71*a* Responsabilité de l’exploitant d’un aéronef envers les passagers
 
 [^lvl7-lvl71a-1]
 
-[^lvl7-lvl71a-1]: Introduit par le ch. II de l’annexe à l’O du 17 août 2005 sur le transport aérien, en vigueur depuis le 5 sept. 2005 ([RO 2005 4243](https://fedlex.data.admin.ch/eli/oc/2005/556)).
+[^lvl7-lvl71a-1]: Introduit par l’annexe ch. II de l’O du 17 août 2005 sur le transport aérien, en vigueur depuis le 5 sept. 2005 ([RO 2005 4243](https://fedlex.data.admin.ch/eli/oc/2005/556)).
 
 #### Art. 132a
 
@@ -1842,7 +1852,7 @@ La couverture prévue à l’art. 133 doit subsidiairement s’étendre aux pré
 
 ### 73 Aéronefs étrangers
 
-### 731 Couverture et preuve obligatoires****
+### 731 Couverture et preuve obligatoires
 
 [^lvl7-lvl73-lvl731-1]
 
@@ -1864,7 +1874,7 @@ La couverture prévue à l’art. 133 doit subsidiairement s’étendre aux pré
 
 [^135-1]: Nouvelle teneur selon le ch. I de l’O du 27 janv. 1988, en vigueur depuis le 1<sup>er</sup> avr. 1988 ([RO 1988 534](https://fedlex.data.admin.ch/eli/oc/1988/534_534_534)).
 
-### 732 Décision****
+### 732 Décision
 
 [^lvl7-lvl73-lvl732-1]
 
@@ -1889,7 +1899,7 @@ La couverture prévue à l’art. 133 doit subsidiairement s’étendre aux pré
 <sup>2</sup> Les autres transports par aéronefs sont régis par les dispositions du droit suisse des obligations[^137-3] sur la responsabilité.
 
 [^137-1]: [RS 748.411](https://fedlex.data.admin.ch/eli/cc/2005/556)
-[^137-2]: Nouvelle teneur selon le ch. II de l’annexe à l’O du 17 août 2005 sur le transport aérien, en vigueur depuis le 5 sept. 2005 ([RO 2005 4243](https://fedlex.data.admin.ch/eli/oc/2005/556)).
+[^137-2]: Nouvelle teneur selon l’annexe ch. II de l’O du 17 août 2005 sur le transport aérien, en vigueur depuis le 5 sept. 2005 ([RO 2005 4243](https://fedlex.data.admin.ch/eli/oc/2005/556)).
 [^137-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
 ## 8 Informations aéronautiques
@@ -1901,7 +1911,7 @@ L’OFAC publie les informations aéronautiques ci-après:
 - a. la *Publication d’information aéronautique suisse* (AIP-Suisse), laquelle contient des informations de caractère durable qui sont essentielles à la sécurité de la navigation aérienne;
 - b. les avis au personnel chargé des opérations aériennes (NOTAM) et les circulaires d’information aéronautique (AIC), donnant sur l’établissement, l’état ou la modification d’installations pour la navigation aérienne, ainsi que sur les services de la circulation, les procédures et les dangers pour la navigation aérienne, des renseignements dont la communication, à temps, est importante pour le personnel aéronautique.
 
-## 8*a***** Prescriptions techniques internationales
+## 8*a* Prescriptions techniques internationales
 
 [^lvl8a-1]
 
@@ -1946,7 +1956,7 @@ Pour les opérations officielles des autorités de surveillance, les taxes figur
 
 <sup>2</sup> Les titulaires de concessions, d’autorisations ou de licences sont tenus de fournir à l’OFAC les données nécessaires à l’établissement de la statistique.
 
-## 9*a***** Disposition pénale
+## 9*a* Disposition pénale
 
 [^lvl9a-1]
 
@@ -1990,10 +2000,10 @@ Sont abrogés:
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 1974.
 
-Annexe*[^t-2]*
+Annexe[^t-2]
 
 (art. 2, al. 1, et 23, al. 1)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856/20220501/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856/20221001/fr/xml/image/image1.png)
 
 [^t-2]: Introduite par le ch. I de l’O du 23 nov. 1994 ([RO 1994 3028](https://fedlex.data.admin.ch/eli/oc/1994/3028_3028_3028)). Nouvelle teneur selon le ch. II de l’O du 24 juin 2015, en vigueur depuis le 15 juil. 2015 ([RO 2015 2175](https://fedlex.data.admin.ch/eli/oc/2015/399)).

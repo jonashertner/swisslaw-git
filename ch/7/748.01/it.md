@@ -4,11 +4,11 @@ title: Ordinanza del 14 novembre 1973 sulla navigazione aerea (ONA)
 short: ONA
 eli: "https://fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856"
 language: it
-version: 2022-05-01
+version: 2022-10-01
 adopted: 1973-11-14
 in_force: 1974-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856/20220501/it/xml/fedlex-data-admin-ch-eli-cc-1973-1856_1856_1856-20220501-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1973/1856_1856_1856/20220501/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856/20221001/it/xml/fedlex-data-admin-ch-eli-cc-1973-1856_1856_1856-20221001-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1973/1856_1856_1856/20221001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,13 +17,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/1973/1856_1856_1856/20220501/it"
 
 (ONA)
 
-del 14 novembre 1973 (Stato 1° maggio 2022)
+del 14 novembre 1973 (Stato 1° ottobre 2022)
 
 Il Consiglio federale svizzero,
 
 vista la legge federale del 21 dicembre 1948[^ingress-1] sulla navigazione aerea (detta qui di seguito «legge sulla navigazione aerea – LNA»),
 
-ordina*[^ingress-2]*:*[^ingress-3]*
+ordina[^ingress-2]:[^ingress-3]
 
 [^ingress-1]: [RS 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
 [^ingress-2]: [RU 1974 447](https://fedlex.data.admin.ch/eli/oc/1974/447_447_447)
@@ -39,7 +39,7 @@ ordina*[^ingress-2]*:*[^ingress-3]*
 
 [^1-1]: Abrogato dal n. I dell’O del 23 nov. 1994, con effetto dal 1° gen. 1995 ([RU 1994 3028](https://fedlex.data.admin.ch/eli/oc/1994/3028_3028_3028)).
 
-### 12 Suddivisione****
+### 12 Suddivisione
 
 [^lvl1-lvl12-1]
 
@@ -54,7 +54,7 @@ ordina*[^ingress-2]*:*[^ingress-3]*
 [^2-1]: Introdotto dal n. I dell’O del 23 nov. 1994, in vigore dal 1° gen. 1995 ([RU 1994 3028](https://fedlex.data.admin.ch/eli/oc/1994/3028_3028_3028)).
 [^2-2]: Originario art. 2.
 
-### 12*a***** Aeromobili senza occupanti
+### 12*a* Aeromobili senza occupanti
 
 [^lvl1-lvl12a-1]
 
@@ -71,7 +71,7 @@ ordina*[^ingress-2]*:*[^ingress-3]*
 [^2a-1]: Nuovo testo giusta il n. I dell’O del 4 lug. 2007, in vigore dal 1° ago. 2007 ([RU 2007 3645](https://fedlex.data.admin.ch/eli/oc/2007/454)).
 [^2a-2]: Nuovo testo giusta il n. I dell’O del 4 lug. 2007, in vigore dal 1° ago. 2007 ([RU 2007 3645](https://fedlex.data.admin.ch/eli/oc/2007/454)).
 
-### 12*b***** Divieto di determinati aeromobili con occupanti
+### 12*b* Divieto di determinati aeromobili con occupanti
 
 [^lvl1-lvl12b-1]
 
@@ -241,7 +241,7 @@ L’immatricolazione di un aeromobile è cancellata:
 
 L’UFAC emana le prescrizioni sui contrassegni di nazionalità e d’immatricolazione degli aeromobili svizzeri.
 
-### 15 Navigabilità e ammissione alla circolazione****
+### 15 Navigabilità e ammissione alla circolazione
 
 [^lvl1-lvl15-1]
 
@@ -395,7 +395,7 @@ Nei limiti fissati dagli articoli 108 e 109 della legge sulla navigazione aerea 
 [^21-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 1994, in vigore dal 1° gen. 1995 ([RU 1994 3028](https://fedlex.data.admin.ch/eli/oc/1994/3028_3028_3028)).
 [^21-2]: Nuova espr. giusta il n. I dell’O del 4 lug. 2007, in vigore dal 1° ago. 2007 ([RU 2007 3645](https://fedlex.data.admin.ch/eli/oc/2007/454)). Di detta mod. è tenuto conto in tutto il testo.
 
-## 2 Corpi volanti****
+## 2 Corpi volanti
 
 [^lvl2-1]
 
@@ -506,13 +506,13 @@ Dopo aver sentito le parti di cui al capoverso 2, il DDPS disciplina in particol
 
 [^29-1]: Abrogato dal n. I dell’O del 17 ott. 2018, con effetto dal 1° gen. 2019 ([RU 2018 3843](https://fedlex.data.admin.ch/eli/oc/2018/609)).
 
-### 34 Protezione della salute dei membri dell’equipaggiodegli aeromobili****
+### 34 Protezione della salute dei membri dell’equipaggiodegli aeromobili
 
 [^lvl3-lvl34-1]
 
 [^lvl3-lvl34-1]: Introdotto dal n. I dell’O del 18 set. 2009, in vigore dal 15 ott. 2009 ([RU 2009 5027](https://fedlex.data.admin.ch/eli/oc/2009/581)).
 
-### 341 Disposizioni generali****
+### 341 Disposizioni generali
 
 [^lvl3-lvl34-lvl341-1]
 
@@ -574,7 +574,7 @@ I membri dell’equipaggio hanno diritto ad una valutazione gratuita del loro st
 [^33-2]: La versione vincolante per la Svizzera è riportata al n. 1 dell’all. all’Acc. del 22 giu. 1999 ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)) e può essere consultata o richiesta all’UFAC, 3003 Berna (www.bazl.admin.ch) .
 [^33-3]: Il regolamento JAR-FCL 3 non è pubblicato nella RU e non viene tradotto. Esso può essere consultato presso l’UFAC, 3003 Berna (www.bazl.admin.ch), oppure ordinato dietro pagamento presso il servizio competente delle Joint Aviation Authorties.
 
-### 342 Protezione della salute durante la maternità****
+### 342 Protezione della salute durante la maternità
 
 [^lvl3-lvl34-lvl342-1]
 
@@ -619,7 +619,7 @@ Per le donne incinte e le madri allattanti che svolgono un lavoro compensativo a
 [^36-3]: [RS 822.111](https://fedlex.data.admin.ch/eli/cc/2000/243)
 [^36-4]: [RS 822.113](https://fedlex.data.admin.ch/eli/cc/1993/2553_2553_2553)
 
-### 343 Membri dell’equipaggio con responsabilità familiari****
+### 343 Membri dell’equipaggio con responsabilità familiari
 
 [^lvl3-lvl34-lvl343-1]
 
@@ -637,13 +637,13 @@ Per l’occupazione di membri dell’equipaggio con responsabilità familiari si
 [^37-1]: Nuovo testo giusta il n. I dell’O del 18 set. 2009, in vigore dal 15 ott. 2009 ([RU 2009 5027](https://fedlex.data.admin.ch/eli/oc/2009/581)).
 [^37-2]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
 
-### 35 Accertamento dell’ebrietà e di altri stati****
+### 35 Accertamento dell’ebrietà e di altri stati
 
 [^lvl3-lvl35-1]
 
 [^lvl3-lvl35-1]: Introdotto dal n. I dell’O del 16 feb. 2022, in vigore dal 1° mag. 2022 ([RU 2022 230](https://fedlex.data.admin.ch/eli/oc/2022/230)).
 
-### 351 Alcol****
+### 351 Alcol
 
 [^lvl3-lvl35-lvl351-1]
 
@@ -717,7 +717,7 @@ Se il risultato del primo accertamento etilometrico mediante l’etilometro prec
 [^42-1]: Nuovo testo giusta il n. I dell’O del 16 feb. 2022, in vigore dal 1° mag. 2022 ([RU 2022 230](https://fedlex.data.admin.ch/eli/oc/2022/230)).
 [^42-2]: [RS 741.013](https://fedlex.data.admin.ch/eli/cc/2007/296)
 
-### 352 Narcotici o sostanze psicotrope****
+### 352 Narcotici o sostanze psicotrope
 
 [^lvl3-lvl35-lvl352-1]
 
@@ -742,7 +742,7 @@ Se vi sono indizi che un membro dell’equipaggio si trova sotto l’influsso di
 
 ## 5 Circolazione, esercizio e manutenzione
 
-### 51**** Regole di circolazione e d’esercizio
+### 51 Regole di circolazione e d’esercizio
 
 [^lvl5-lvl51-1]
 
@@ -764,7 +764,7 @@ Il DATEC emana regole di circolazione per l’utilizzo dello spazio aereo svizze
 
 <sup>3</sup> All’estero è possibile derogare dalle regole d’esercizio se il diritto estero lo richiede imperativamente.
 
-### 52 Sistema di segnalazione di eventi nel settore dell’aviazione****
+### 52 Sistema di segnalazione di eventi nel settore dell’aviazione
 
 [^lvl5-lvl52-1]
 
@@ -987,7 +987,7 @@ L’UFAC può fare sorvegliare la manifestazione da un perito; i compiti di ques
 
 Le autorizzazioni possono essere ritirate o limitate se non sono più adempiute le condizioni alle quali erano state rilasciate.
 
-## 6**** Navigazione aerea commerciale
+## 6 Navigazione aerea commerciale
 
 [^lvl6-1]
 
@@ -1006,15 +1006,25 @@ I voli sono commerciali quando:
 - a. implicano, sotto una forma qualsiasi, una rimunerazione volta a coprire più dei costi per la locazione dell’aeromobile, per il carburante nonché per le tasse aeroportuali e la sicurezza aerea; e
 - b. sono accessibili a una cerchia indeterminata di persone.
 
+<sup>1bis</sup> Se il vettore è un’associazione, i suoi membri sono considerati appartenenti a una cerchia determinata di persone a condizione di essere membri da oltre 30 giorni.[^100-1]
+
 <sup>2</sup> I voli di un’impresa titolare di un’autorizzazione di esercizio sono presunti commerciali. È fatta salva la valutazione dei fatti sotto l’angolazione del diritto doganale e fiscale.
 
-<sup>3</sup> Nel caso di voli non commerciali rimunerati, i passeggeri devono essere informati in anticipo del carattere privato del volo e delle conseguenze che ne derivano per quanto concerne la protezione assicurativa.
+<sup>3</sup> Nel caso di voli non commerciali rimunerati, i passeggeri devono essere informati in anticipo del carattere privato del volo e delle conseguenze che ne derivano per quanto concerne la protezione assicurativa. Se è impiegato un aeromobile appartenente alla categoria speciale per quanto riguarda la navigabilità, i passeggeri devono essere informati anche delle particolarità della sua ammissione alla circolazione.[^100-2]
+
+[^100-1]: Introdotto dal n. I dell’O del 17 ago. 2022, in vigore dal 1° ott. 2022 ([RU 2022 485](https://fedlex.data.admin.ch/eli/oc/2022/485)).
+[^100-2]: Nuovo testo giusta il n. I dell’O del 17 ago. 2022, in vigore dal 1° ott. 2022 ([RU 2022 485](https://fedlex.data.admin.ch/eli/oc/2022/485)).
 
 #### Art. 101
 
-[^101-1]
+**Restrizioni per gli aeromobili impiegati nell’esercizio commerciale**[^101-1]
 
-[^101-1]: Abrogato dal n. I 1 dell’O del 4 mar. 2011, con effetto dal 1° apr. 2011 ([RU 2011 1139](https://fedlex.data.admin.ch/eli/oc/2011/166)).
+I seguenti aeromobili non possono essere impiegati nel trasporto commerciale di persone:
+
+- a. aeromobili della categoria speciale, sottocategoria «Storici»; e
+- b. aeromobili della categoria standard che non sono regolamentati a livello europeo e che non dispongono di alcun titolare del certificato di tipo.
+
+[^101-1]: Nuovo testo giusta il n. I dell’O del 17 ago. 2022, in vigore dal 1° ott. 2022 ([RU 2022 485](https://fedlex.data.admin.ch/eli/oc/2022/485)).
 
 #### Art. 102
 
@@ -1343,7 +1353,7 @@ Le imprese con sede all’estero che intendono esercitare linee aeree sottopongo
 
 Abrogati
 
-## 6*a***** Misure di sicurezza
+## 6*a* Misure di sicurezza
 
 [^lvl6a-1]
 
@@ -1628,7 +1638,7 @@ La responsabilità della Confederazione per i danni che una guardia di sicurezza
 
 [^122o-1]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
 
-## 6*b***** Facilitazioni nella navigazione aerea
+## 6*b* Facilitazioni nella navigazione aerea
 
 [^lvl6b-1]
 
@@ -1769,7 +1779,7 @@ Il contratto d’assicurazione deve prevedere che per i terzi danneggiati sono d
 
 Il certificato di garanzia indica l’importo della garanzia, la durata della stessa e la validità territoriale.
 
-### 71*a***** Responsabilità dell’esercente di aeromobili nei confronti dei passeggeri
+### 71*a* Responsabilità dell’esercente di aeromobili nei confronti dei passeggeri
 
 [^lvl7-lvl71a-1]
 
@@ -1838,7 +1848,7 @@ La garanzia prescritta dall’articolo 133 deve parimenti coprire le pretese di 
 
 ### 73 Aeromobili stranieri
 
-### 731 Copertura e prova obbligatoria****
+### 731 Copertura e prova obbligatoria
 
 [^lvl7-lvl73-lvl731-1]
 
@@ -1860,7 +1870,7 @@ La garanzia prescritta dall’articolo 133 deve parimenti coprire le pretese di 
 
 [^135-1]: Nuovo testo giusta il n. I dell’O del 27 gen. 1988, in vigore dal 1° apr. 1988 ([RU 1988 534](https://fedlex.data.admin.ch/eli/oc/1988/534_534_534)).
 
-### 732 Decisione****
+### 732 Decisione
 
 [^lvl7-lvl73-lvl732-1]
 
@@ -1899,7 +1909,7 @@ L’UFAC pubblica le seguenti informazioni aeronautiche:
 
 [^138-1]: [RU 1974 447](https://fedlex.data.admin.ch/eli/oc/1974/447_447_447)
 
-## 8*a***** Prescrizioni tecniche internazionali
+## 8*a* Prescrizioni tecniche internazionali
 
 [^lvl8a-1]
 
@@ -1944,7 +1954,7 @@ Per le operazioni ufficiali delle autorità di vigilanza sono riscosse le tasse 
 
 <sup>2</sup> I titolari di concessioni, autorizzazioni o licenze sono tenuti a fornire all’UFAC i dati necessari all’allestimento della statistica.
 
-## 9*a***** Disposizioni penali
+## 9*a* Disposizioni penali
 
 [^lvl9a-1]
 
@@ -1988,10 +1998,10 @@ Sono abrogate:
 
 La presente ordinanza entra in vigore il 1° gennaio 1974.
 
-Allegato*[^t-1]*
+Allegato[^t-1]
 
 (art. 2 cpv. 1 e 23 cpv. 1)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856/20220501/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856/20221001/it/xml/image/image1.png)
 
 [^t-1]: Introdotto dall’O del 23 nov. 1994 ([RU 1994 3028](https://fedlex.data.admin.ch/eli/oc/1994/3028_3028_3028)). Nuovo testo giusta il n. II dell’O del 24 giu. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2175](https://fedlex.data.admin.ch/eli/oc/2015/399)).

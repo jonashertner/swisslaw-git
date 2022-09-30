@@ -4,20 +4,20 @@ title: "Verordnung vom 14. November 1973 über die Luftfahrt (Luftfahrtverordnun
 short: LFV
 eli: "https://fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856"
 language: de
-version: 2022-05-01
+version: 2022-10-01
 adopted: 1973-11-14
 in_force: 1974-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856/20220501/de/xml/fedlex-data-admin-ch-eli-cc-1973-1856_1856_1856-20220501-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1973/1856_1856_1856/20220501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856/20221001/de/xml/fedlex-data-admin-ch-eli-cc-1973-1856_1856_1856-20221001-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1973/1856_1856_1856/20221001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Luftfahrt
 
-(Luftfahrtverordnung, LFV)**[^t-1]**
+(Luftfahrtverordnung, LFV)[^t-1]
 
-vom 14. November 1973 (Stand am 1. Mai 2022)
+vom 14. November 1973 (Stand am 1. Oktober 2022)
 
 [^t-1]: Fassung des Tit. gemäss Ziff. I der V vom 25. Aug. 1976, in Kraft seit 1. Jan. 1977 ([AS 1976 1921](https://fedlex.data.admin.ch/eli/oc/1976/1921_1921_1921)).
 
@@ -39,7 +39,7 @@ verordnet:
 
 [^1-1]: Aufgehoben durch Ziff. I der V vom 23. Nov. 1994, mit Wirkung seit 1. Jan. 1995 ([AS 1994 3028](https://fedlex.data.admin.ch/eli/oc/1994/3028_3028_3028)).
 
-### 12 Einteilung****
+### 12 Einteilung
 
 [^lvl1-lvl12-1]
 
@@ -53,7 +53,7 @@ verordnet:
 
 [^2-1]: Eingefügt durch Ziff. I der V vom 23. Nov. 1994, in Kraft seit 1. Jan. 1995 ([AS 1994 3028](https://fedlex.data.admin.ch/eli/oc/1994/3028_3028_3028)).
 
-### 12*a***** Unbemannte Luftfahrzeuge
+### 12*a* Unbemannte Luftfahrzeuge
 
 [^lvl1-lvl12a-1]
 
@@ -70,7 +70,7 @@ verordnet:
 [^2a-1]: Fassung gemäss Ziff. I der V vom 4. Juli 2007, in Kraft seit 1. Aug. 2007 ([AS 2007 3645](https://fedlex.data.admin.ch/eli/oc/2007/454)).
 [^2a-2]: Fassung gemäss Ziff. I der V vom 4. Juli 2007, in Kraft seit 1. Aug. 2007 ([AS 2007 3645](https://fedlex.data.admin.ch/eli/oc/2007/454)).
 
-### 12*b***** Verbot bestimmter bemannter Luftfahrzeuge
+### 12*b* Verbot bestimmter bemannter Luftfahrzeuge
 
 [^lvl1-lvl12b-1]
 
@@ -241,7 +241,7 @@ Der Eintrag eines Luftfahrzeuges wird gelöscht:
 
 Das BAZL erlässt Bestimmungen über die Hoheits- und Eintragungszeichen der schweizerischen Luftfahrzeuge.
 
-### 15 Lufttüchtigkeit und Zulassung zum Verkehr****
+### 15 Lufttüchtigkeit und Zulassung zum Verkehr
 
 [^lvl1-lvl15-1]
 
@@ -394,7 +394,7 @@ Das UVEK[^21-2] kann innerhalb der in den Artikeln 108 und 109 des Luftfahrtgese
 [^21-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 1994, in Kraft seit 1. Jan. 1995 ([AS 1994 3028](https://fedlex.data.admin.ch/eli/oc/1994/3028_3028_3028)).
 [^21-2]: Ausdruck gemäss Ziff. I der V vom 4. Juli 2007, in Kraft seit 1. Aug. 2007 ([AS 2007 3645](https://fedlex.data.admin.ch/eli/oc/2007/454)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
-## 2 Flugkörper****
+## 2 Flugkörper
 
 [^lvl2-1]
 
@@ -505,13 +505,13 @@ Das VBS regelt nach Anhörung der Beteiligten nach Absatz 2 insbesondere:
 
 [^29-1]: Aufgehoben durch Ziff. I der V vom 17. Okt. 2018, mit Wirkung seit 1. Jan. 2019 ([AS 2018 3843](https://fedlex.data.admin.ch/eli/oc/2018/609)).
 
-### 34 Schutz der Gesundheit von Luftfahrzeugbesatzungsmitgliedern****
+### 34 Schutz der Gesundheit von Luftfahrzeugbesatzungsmitgliedern
 
 [^lvl3-lvl34-1]
 
 [^lvl3-lvl34-1]: Eingefügt gemäss Ziff. I der V vom 18. Sept. 2009, in Kraft seit 15. Okt. 2009 ([AS 2009 5027](https://fedlex.data.admin.ch/eli/oc/2009/581)).
 
-### 341 Allgemeine Bestimmungen****
+### 341 Allgemeine Bestimmungen
 
 [^lvl3-lvl34-lvl341-1]
 
@@ -573,7 +573,7 @@ Den Anspruch auf unentgeltliche Untersuchung des Gesundheitszustands nach Klause
 [^33-2]: In der für die Schweiz jeweils verbindlichen Fassung gemäss Ziff. 1 des Anhangs zum Luftverkehrsabkommen vom 21. Juni 1999 ([SR 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
 [^33-3]: JAR-FCL 3 wird nicht in der AS publiziert und nicht übersetzt. Das Regelwerk kann beim Bundesamt für Zivilluftfahrt (BAZL), 3003 Bern (www.bazl.admin.ch) eingesehen oder bei der zuständigen Stelle der Joint Aviation Authorties gegen Entgelt bezogen werden.
 
-### 342 Schutz der Gesundheit bei Mutterschaft****
+### 342 Schutz der Gesundheit bei Mutterschaft
 
 [^lvl3-lvl34-lvl342-1]
 
@@ -618,7 +618,7 @@ Auf schwangere Frauen und stillende Mütter, welche eine Ersatzarbeit am Boden v
 [^36-3]: [SR 822.111](https://fedlex.data.admin.ch/eli/cc/2000/243)
 [^36-4]: [SR 822.113](https://fedlex.data.admin.ch/eli/cc/1993/2553_2553_2553)
 
-### 343 Besatzungsmitglieder mit Familienpflichten****
+### 343 Besatzungsmitglieder mit Familienpflichten
 
 [^lvl3-lvl34-lvl343-1]
 
@@ -636,13 +636,13 @@ Für den Einsatz von Besatzungsmitgliedern mit Familienpflichten gelten:
 [^37-1]: Fassung gemäss Ziff. I der V vom 18. Sept. 2009, in Kraft seit 15. Okt. 2009 ([AS 2009 5027](https://fedlex.data.admin.ch/eli/oc/2009/581)).
 [^37-2]: [SR 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
 
-### 35 Feststellung der Angetrunkenheit und anderer Zustände****
+### 35 Feststellung der Angetrunkenheit und anderer Zustände
 
 [^lvl3-lvl35-1]
 
 [^lvl3-lvl35-1]: Eingefügt durch Ziff. I der V vom 16. Febr. 2022, in Kraft seit 1. Mai 2022 ([AS 2022 230](https://fedlex.data.admin.ch/eli/oc/2022/230)).
 
-### 351 Alkohol****
+### 351 Alkohol
 
 [^lvl3-lvl35-lvl351-1]
 
@@ -716,7 +716,7 @@ Eine Blutprobe ist anzuordnen, wenn:
 [^42-1]: Fassung gemäss Ziff. I der V vom 16. Febr. 2022, in Kraft seit 1. Mai 2022 ([AS 2022 230](https://fedlex.data.admin.ch/eli/oc/2022/230)).
 [^42-2]: [SR 741.013](https://fedlex.data.admin.ch/eli/cc/2007/296)
 
-## 352 Betäubungsmittel oder psychotrope Substanzen****
+## 352 Betäubungsmittel oder psychotrope Substanzen
 
 [^lvl4-1]
 
@@ -741,7 +741,7 @@ Bestehen Anzeichen, dass ein Besatzungsmitglied unter dem Einfluss von Betäubun
 
 ## 5 Verkehr, Betrieb und Unterhalt
 
-### 51**** Verkehrs- und Betriebsregeln
+### 51 Verkehrs- und Betriebsregeln
 
 [^lvl6-lvl61-1]
 
@@ -763,7 +763,7 @@ Das UVEK erlässt Verkehrsregeln für die Benutzung des schweizerischen Luftraum
 
 <sup>3</sup> Von den Betriebsregeln darf im Ausland abgewichen werden, wenn ausländisches Recht dies zwingend verlangt.
 
-### 52 Meldesystem für Ereignisse in der Luftfahrt****
+### 52 Meldesystem für Ereignisse in der Luftfahrt
 
 [^lvl6-lvl62-1]
 
@@ -985,7 +985,7 @@ Das BAZL kann die Veranstaltung durch einen Sachverständigen überwachen lassen
 
 Bewilligungen können zurückgezogen oder eingeschränkt werden, wenn die bei der Erteilung massgebenden Voraussetzungen nicht mehr bestehen.
 
-## 6**** Gewerbsmässige Luftfahrt
+## 6 Gewerbsmässige Luftfahrt
 
 [^lvl6a-1]
 
@@ -1004,15 +1004,25 @@ Flüge gelten als gewerbsmässig, wenn:
 - a. für sie in irgendeiner Form ein Entgelt entrichtet wird, das mehr als die Kosten für Luftfahrzeugmiete, Treibstoff sowie Flugplatz- und Flugsicherungsgebühren decken soll; und
 - b. sie einem nicht bestimmten Kreis von Personen zugänglich sind.
 
+<sup>1bis</sup> Ist der Beförderer ein Verein, so gelten Vereinsmitglieder als einem bestimmten Kreis zugehörig, wenn sie seit mehr als 30 Tagen Mitglied sind.[^100-1]
+
 <sup>2</sup> Bei allen Flügen von Unternehmen, die über eine Betriebsbewilligung verfügen, wird die Gewerbsmässigkeit vermutet. Die zoll- und steuerrechtliche Beurteilung eines Sachverhalts bleibt vorbehalten.
 
-<sup>3</sup> Bei nicht gewerbsmässigen Flügen, für die ein Entgelt entrichtet wird, sind die Passagiere vor dem Abflug auf den privaten Charakter des Fluges und auf die damit verbundenen Folgen hinsichtlich des Versicherungsschutzes hinzuweisen.
+<sup>3</sup> Bei nicht gewerbsmässigen Flügen, für die ein Entgelt entrichtet wird, sind die Passagiere vor dem Abflug auf den privaten Charakter des Fluges und auf die damit verbundenen Folgen hinsichtlich des Versicherungsschutzes hinzuweisen. Gelangen Luftfahrzeuge zum Einsatz, die in Bezug auf die Lufttüchtigkeit der Sonderkategorie angehören, so sind die Passagiere überdies auf die Besonderheiten der Zulassung des jeweiligen Luftfahrzeuges hinzuweisen.[^100-2]
+
+[^100-1]: Eingefügt durch Ziff. I der V vom 17. Aug. 2022, in Kraft seit 1. Okt. 2022 ([AS 2022 485](https://fedlex.data.admin.ch/eli/oc/2022/485)).
+[^100-2]: Fassung gemäss Ziff. I der V vom 17. Aug. 2022, in Kraft seit 1. Okt. 2022 ([AS 2022 485](https://fedlex.data.admin.ch/eli/oc/2022/485)).
 
 #### Art. 101
 
-[^101-1]
+**Einschränkungen für gewerbsmässig eingesetzte Luftfahrzeuge**[^101-1]
 
-[^101-1]: Aufgehoben durch Ziff. I 1 der V vom 4. März 2011, mit Wirkung seit 1. April 2011 ([AS 2011 1139](https://fedlex.data.admin.ch/eli/oc/2011/166)).
+Folgende Luftfahrzeuge dürfen nicht für gewerbsmässige Personentransporte eingesetzt werden:
+
+- a. Luftfahrzeuge der Sonderkategorie, Unterkategorie «historisch»; und
+- b. Luftfahrzeuge der Standardkategorie, die nicht auf europäischer Ebene geregelt sind und die aktuell über keinen Inhaber der Musterzulassung verfügen.
+
+[^101-1]: Fassung gemäss Ziff. I der V vom 17. Aug. 2022, in Kraft seit 1. Okt. 2022 ([AS 2022 485](https://fedlex.data.admin.ch/eli/oc/2022/485)).
 
 #### Art. 102
 
@@ -1341,7 +1351,7 @@ Unternehmen mit Sitz im Ausland, die Luftverkehrslinien betreiben wollen, unterb
 
 …
 
-## 6*a***** Sicherheitsmassnahmen
+## 6*a* Sicherheitsmassnahmen
 
 [^lvl6b-1]
 
@@ -1625,7 +1635,7 @@ Die Verantwortlichkeit des Bundes für Schäden, die ein Sicherheitsbeauftragter
 
 [^122o-1]: [SR 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
 
-## 6*b***** Erleichterungen in der Luftfahrt
+## 6*b* Erleichterungen in der Luftfahrt
 
 [^lvl7-1]
 
@@ -1765,7 +1775,7 @@ Die Bescheinigung über die Sicherstellung gibt Auskunft über
 - – die Geltungsdauer der geleisteten Sicherheit und
 - – den geographischen Geltungsbereich.
 
-### 71*a***** Haftpflicht des Luftfahrzeughalters gegenüber Reisenden
+### 71*a* Haftpflicht des Luftfahrzeughalters gegenüber Reisenden
 
 [^lvl8-lvl71a-1]
 
@@ -1834,7 +1844,7 @@ Die Versicherung nach Artikel 133 muss subsidiär die Haftpflichtansprüche gege
 
 ### 73 Ausländische Luftfahrzeuge
 
-### 731 Sicherstellungs- und Nachweispflicht****
+### 731 Sicherstellungs- und Nachweispflicht
 
 [^lvl8-lvl73-lvl731-1]
 
@@ -1856,7 +1866,7 @@ Die Versicherung nach Artikel 133 muss subsidiär die Haftpflichtansprüche gege
 
 [^135-1]: Fassung gemäss Ziff. I der V vom 27. Jan. 1988; in Kraft seit 1. April 1988 ([AS 1988 534](https://fedlex.data.admin.ch/eli/oc/1988/534_534_534)).
 
-### 732 Entscheid****
+### 732 Entscheid
 
 [^lvl8-lvl73-lvl732-1]
 
@@ -1893,7 +1903,7 @@ Das BAZL veröffentlicht folgende Luftfahrtinformationen:
 - a. das Luftfahrthandbuch der Schweiz (AIP-Schweiz) mit Informationen von bleibender Geltung, die für den sicheren Betrieb der Luftfahrt wesentlich sind:
 - b. die Nachrichten für Luftfahrer (NOTAM) und die Luftfahrtinformationsblätter (AIC), die namentlich über Errichtung, Zustand oder Änderungen von Luftfahrtanlagen sowie über Verkehrsdienste, Verfahren und Gefahren für die Luftfahrt Auskunft geben, deren rechtzeitige Kenntnis für das Luftfahrtpersonal wichtig ist.
 
-## 8*a***** Internationale technische Vorschriften
+## 8*a* Internationale technische Vorschriften
 
 [^lvl9-1]
 
@@ -1938,7 +1948,7 @@ Für die Amtshandlungen der Aufsichtsbehörden werden die in der Gebührenordnun
 
 <sup>2</sup> Inhaber von Konzessionen und Bewilligungen sowie die Träger von Ausweisen sind verpflichtet, dem BAZL die zur Führung der Statistik erforderlichen Unterlagen zu liefern.
 
-## 9*a***** Strafbestimmungen
+## 9*a* Strafbestimmungen
 
 [^lvl10-1]
 
@@ -1982,10 +1992,10 @@ Es werden aufgehoben:
 
 Diese Verordnung tritt am 1. Januar 1974 in Kraft.
 
-Anhang*[^t-2]*
+Anhang[^t-2]
 
 (Art. 2 Abs. 1 und 23 Abs. 1)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856/20220501/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856/20221001/de/xml/image/image1.png)
 
 [^t-2]: Eingefügt durch Ziff. I der V vom 23. Nov. 1994 ([AS 1994 3028](https://fedlex.data.admin.ch/eli/oc/1994/3028_3028_3028)). Fassung gemäss Ziff. II der V vom 24. Juni 2015, in Kraft seit 15. Juli 2015 ([AS 2015 2175](https://fedlex.data.admin.ch/eli/oc/2015/399)).
