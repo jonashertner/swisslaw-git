@@ -4,13 +4,13 @@ number: "152.053.7"
 title: "Ordonnance de Direction sur les droits d'accès aux fichiers centralisés de données personnelles délivrés par la Direction de l'économie, de l'énergie et de l'environnement"
 short: FDP OD DEEE
 language: fr
-version: 2022-03-01
-valid_until: 2022-09-30
-version_adopted: 2022-03-07
+version: 2022-10-01
+valid_until: 2025-12-31
+version_adopted: 2022-09-16
 adopted: 2022-03-07
 in_force: 2022-03-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.053.7"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2559/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2673/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2559/pdf_file"
 
 (FDP OD DEEE)
 
-du 07.03.2022 (état au 01.03.2022)
+du 07.03.2022 (état au 01.10.2022)
 
 La Direction de l'économie, de l'énergie et de l'environnement du canton de Berne,
 

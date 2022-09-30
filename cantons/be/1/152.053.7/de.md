@@ -4,13 +4,13 @@ number: "152.053.7"
 title: "Direktionsverordnung über die Berechtigungen der Wirtschafts-, Energie- und Umweltdirektion für die zentralen Personendatensammlungen"
 short: PDS DV WEU
 language: de
-version: 2022-03-01
-valid_until: 2022-09-30
-version_adopted: 2022-03-07
+version: 2022-10-01
+valid_until: 2025-12-31
+version_adopted: 2022-09-16
 adopted: 2022-03-07
 in_force: 2022-03-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.053.7"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2559/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2673/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2559/pdf_file"
 
 (PDS DV WEU)
 
-vom 07.03.2022 (Stand 01.03.2022)
+vom 07.03.2022 (Stand 01.10.2022)
 
 Die Wirtschafts-, Energie- und Umweltdirektion des Kantons Bern,
 
