@@ -4,13 +4,13 @@ number: "170.450"
 title: Lescha davart la cassa da pensiun dal Grischun
 short: LCPG
 language: rm
-version: 2022-01-01
-valid_until: 2022-09-30
-version_adopted: 2021-08-26
+version: 2022-10-01
+valid_until: 2024-12-31
+version_adopted: 2021-12-07
 adopted: 2013-04-23
 in_force: 2014-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/170.450"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3206/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3258/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3206/pdf_file"
 
 (LCPG)
 
-dals 23-04-2013 (versiun dals 01-01-2022)
+dals 23-04-2013 (versiun dals 01-10-2022)
 
 Il cussegl grond dal chantun Grischun[^ingress-1],
 
@@ -159,9 +159,9 @@ concluda:
 
 #### Art. 13
 
-**Dretg da submissiun public**
+**Acquisiziuns publicas**
 
-<sup>1</sup> La cassa da pensiun n'è betg suttamessa al dretg da submissiun public.
+<sup>1</sup> La cassa da pensiun n'è betg suttamessa a las acquisiziuns publicas.
 
 #### Art. 14
 

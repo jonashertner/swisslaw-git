@@ -4,13 +4,13 @@ number: "170.450"
 title: Legge sulla Cassa pensioni dei Grigioni
 short: LCPG
 language: it
-version: 2022-01-01
-valid_until: 2022-09-30
-version_adopted: 2021-08-26
+version: 2022-10-01
+valid_until: 2024-12-31
+version_adopted: 2021-12-07
 adopted: 2013-04-23
 in_force: 2014-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/170.450"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3206/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3258/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3206/pdf_file"
 
 (LCPG)
 
-del 23.04.2013 (stato 01.01.2022)
+del 23.04.2013 (stato 01.10.2022)
 
 Il Gran Consiglio del Cantone dei Grigioni[^ingress-1],
 

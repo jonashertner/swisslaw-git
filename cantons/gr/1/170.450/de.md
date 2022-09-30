@@ -4,13 +4,13 @@ number: "170.450"
 title: Gesetz über die Pensionskasse Graubünden
 short: PKG
 language: de
-version: 2022-01-01
-valid_until: 2022-09-30
-version_adopted: 2021-08-26
+version: 2022-10-01
+valid_until: 2024-12-31
+version_adopted: 2021-12-07
 adopted: 2013-04-23
 in_force: 2014-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/170.450"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3206/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3258/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3206/pdf_file"
 
 (PKG)
 
-Vom 23.04.2013 (Stand 01.01.2022)
+Vom 23.04.2013 (Stand 01.10.2022)
 
 Der Grosse Rat des Kantons Graubünden[^ingress-1],
 
@@ -157,9 +157,9 @@ beschliesst:
 
 #### Art. 13
 
-**Öffentliches Submissionsrecht**
+**Öffentliches Beschaffungswesen**
 
-<sup>1</sup> Die Pensionskasse ist dem öffentlichen Submissionsrecht nicht unterstellt.
+<sup>1</sup> Die Pensionskasse ist dem öffentlichen Beschaffungswesen nicht unterstellt.
 
 #### Art. 14
 
