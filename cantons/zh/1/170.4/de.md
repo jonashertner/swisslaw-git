@@ -4,11 +4,11 @@ number: "170.4"
 title: Gesetz über die Information und den Datenschutz (IDG)
 short: IDG
 language: de
-version: "2020-06-01"
-nachtrag: "109"
-valid_until: 2022-10-01
+version: "2022-10-01"
+nachtrag: "118"
+valid_until: 2024-05-01
 adopted: 2007-02-12
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-170_4-2007_02_12-2008_10_01-109.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-170_4-2007_02_12-2008_10_01-118.html"
 text: pdf
 ---
 
@@ -60,7 +60,7 @@ beschliesst:
 
 **1**
 
-- 1\. 7. 20 - 109
+1.10. 22 - 118
 
 <sup>3</sup> Soweit die Gerichte diesem Gesetz unterstehen, stehen der oder dem Beauftragten für den Datenschutz die Befugnisse gemäss § 10 Abs. 2, § 12 a Abs. 1 und 2, § 34 lit. c, d und f sowie §§ 35–36 a nicht zu.
 
@@ -147,7 +147,7 @@ Das öffentliche Organ gestaltet den Umgang mit Informationen so, dass es rasch,
 
 **3**
 
-- 1\. 7. 20 - 109
+1.10. 22 - 118
 
 <sup>2</sup> Die Massnahmen richten sich nach den folgenden Schutzzielen:
 
@@ -237,7 +237,7 @@ Das öffentliche Organ gestaltet den Umgang mit Informationen so, dass es rasch,
 
 **5**
 
-- 1\. 7. 20 - 109
+1.10. 22 - 118
 
 [^11-1]: Fassung gemäss G vom 25. November 2019 (OS 75, 263; ABl 2018-07-13). In Kraft seit 1. Juni 2020.
 [^11-2]: Eingefügt durch G vom 25. November 2019 (OS 75, 263; ABl 2018-07-13). In Kraft seit 1. Juni 2020.
@@ -334,7 +334,7 @@ An Empfängerinnen und Empfänger, die dem Europarats-Übereinkommen zum Schutz 
 
 **7**
 
-- 1\. 7. 20 - 109 § 22. <sup>1</sup> Die betroffene Person kann die Bekanntgabe ihrer Personendaten an Private sperren lassen, wenn das öffentliche Organ aufgrund einer spezialgesetzlichen Bestimmung Personendaten voraussetzungslos bekannt geben kann.
+1.10. 22 - 118 § 22. <sup>1</sup> Die betroffene Person kann die Bekanntgabe ihrer Personendaten an Private sperren lassen, wenn das öffentliche Organ aufgrund einer spezialgesetzlichen Bestimmung Personendaten voraussetzungslos bekannt geben kann.
 
 **Sperren von Personendaten**
 
@@ -404,25 +404,19 @@ An Empfängerinnen und Empfänger, die dem Europarats-Übereinkommen zum Schutz 
 
 <sup>2</sup> Kann das öffentliche Organ diese Frist nicht einhalten, teilt es vor deren Ablauf der gesuchstellenden Person unter Angabe der Gründe mit, wann der Entscheid über das Gesuch vorliegen wird.
 
-#### § 29
-
 **Gebühren und Entgelte**
 
-<sup>1</sup> Das öffentliche Organ erhebt für die Bearbeitung von Gesuchen Privater eine Gebühr.
+§ 29.[^28-1] <sup>1</sup> Das öffentliche Organ erhebt für die Bearbeitung von Gesuchen Privater in der Regel keine Gebühr.
 
-<sup>2</sup> Keine Gebühr wird erhoben a. wenn der Zugang zu Informationen einen geringen Aufwand erfordert,
+<sup>2</sup> Ist die Bearbeitung des Gesuchs mit erheblichem Aufwand verbunden und steht dieser in keinem vertretbaren Verhältnis zum öffentlichen Interesse, kann das öffentliche Organ der gesuchstellenden Person eine angemessene Gebühr auferlegen. Es teilt dieser die Höhe der Gebühr vorab unter Angabe der Gründe mit.
 
-- b. für die Bearbeitung von Gesuchen, welche die eigenen Personendaten betreffen,
-
-- c. wenn das Gesuch wissenschaftlichen Zwecken dient und die Resultate der Bearbeitung für die Öffentlichkeit einen Nutzen erwarten lassen.
-
-<sup>3</sup> Ist die Bearbeitung des Gesuchs mit erheblichen Kosten verbunden, weist das öffentliche Organ die gesuchstellende Person darauf hin. In diesem Fall kann es eine angemessene Vorauszahlung verlangen.
+<sup>3</sup> Eignen sich Informationen für eine gewerbliche Nutzung, kann ein Entgelt erhoben werden, das sich nach dem Markt richtet.
 
 **9**
 
-- 1\. 7. 20 - 109
+1.10. 22 - 118
 
-<sup>4</sup> Eignen sich Informationen für eine gewerbliche Nutzung, kann ein Entgelt erhoben werden, das sich nach dem Markt richtet.
+[^28-1]: Fassung gemäss G vom 15. November 2021 (OS 77, 420; ABl 2020-12-18). In Kraft seit 1. Oktober 2022.
 
 ### VII. Beauftragte oder Beauftragter für Datenschutz
 
@@ -512,29 +506,29 @@ Die oder der Beauftragte a. unterstützt und berät die öffentlichen Organe in 
 
 Die oder der Beauftragte arbeitet zur Erfüllung der Kontrollaufgabe gemäss § 35 mit den Organen der anderen Kantone, des Bundes und des Auslandes, welche die gleichen Aufgaben erfüllen, zusammen.
 
-**11**
-
-- 1\. 7. 20 - 109 § 38. Die oder der Beauftragte sowie die Mitarbeitenden sind in Bezug auf Informationen, die sie bei ihrer Tätigkeit zur Kenntnis nehmen, zur gleichen Verschwiegenheit verpflichtet wie das bearbeitende öffentliche Organ.
-
-#### § 39
+#### § 38
 
 **Schweigepflicht**
 
-**Berichterstattung**
+Die oder der Beauftragte sowie die Mitarbeitenden sind in Bezug auf Informationen, die sie bei ihrer Tätigkeit zur Kenntnis nehmen, zur gleichen Verschwiegenheit verpflichtet wie das bearbeitende öffentliche Organ.
 
-Die oder der Beauftragte berichtet dem Wahlorgan periodisch über Umfang und Schwerpunkte der Tätigkeiten, über wichtige Feststellungen und Beurteilungen sowie über die Wirkung des Gesetzes. Der Bericht wird veröffentlicht.
+**11**
+
+1.10. 22 - 118 § 39. Die oder der Beauftragte berichtet dem Wahlorgan periodisch über Umfang und Schwerpunkte der Tätigkeiten, über wichtige Feststellungen und Beurteilungen sowie über die Wirkung des Gesetzes. Der Bericht wird veröffentlicht.
+
+**Berichterstattung**
 
 **Rechtsschutz**
 
-§ 39 a.[^39-1] <sup>1</sup> Gegen Anordnungen der oder des Beauftragten in personalrechtlichen oder administrativen Belangen kann bei der Verwaltungsdelegation[^39-2] der Geschäftsleitung des Kantonsrates Rekurs erhoben werden.
+§ 39 a.[^38-1] <sup>1</sup> Gegen Anordnungen der oder des Beauftragten in personalrechtlichen oder administrativen Belangen kann bei der Verwaltungsdelegation[^38-2] der Geschäftsleitung des Kantonsrates Rekurs erhoben werden.
 
 <sup>2</sup> Die Schweigepflicht gemäss § 38 gilt auch für die Rechtsmittelinstanzen.
 
-<sup>3</sup> Im Übrigen richtet sich der Rechtsschutz nach dem Verwaltungsrechtspflegegesetz vom 24. Mai 1959[^39-3].
+<sup>3</sup> Im Übrigen richtet sich der Rechtsschutz nach dem Verwaltungsrechtspflegegesetz vom 24. Mai 1959[^38-3].
 
-[^39-1]: Eingefügt durch G über die Anpassung des kantonalen Verwaltungsverfahrensrechts vom 22. März 2010 (OS 65, 390; ABl 2009, 801). In Kraft seit 1. Juli 2010.
-[^39-2]: Fassung gemäss Kantonsratsgesetz vom 25. März 2019 (OS 74, 387). In Kraft seit 1. Mai 2020.
-[^39-3]: LS 175.2.
+[^38-1]: Eingefügt durch G über die Anpassung des kantonalen Verwaltungsverfahrensrechts vom 22. März 2010 (OS 65, 390; ABl 2009, 801). In Kraft seit 1. Juli 2010.
+[^38-2]: Fassung gemäss Kantonsratsgesetz vom 25. März 2019 (OS 74, 387). In Kraft seit 1. Mai 2020.
+[^38-3]: LS 175.2.
 
 ### VIII. Strafbestimmungen
 
@@ -604,10 +598,10 @@ Die nachfolgenden Gesetze werden wie folgt geändert:
 
 [^44-1]: LS 131.1.
 [^44-2]: Text siehe OS 62, 121.
-[^44-3]: LS 171.1. 1. 7. 20 - 109 13
+[^44-3]: LS 171.1.
 [^44-4]: LS 175.2.
 [^44-5]: LS 177.10.
-[^44-6]: Obsolet.
+[^44-6]: Obsolet. 1.10. 22 - 118 13
 [^44-7]: LS 170.6.
 [^44-8]: LS 740.1.
 [^44-9]: LS 611.
