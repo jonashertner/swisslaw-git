@@ -3,13 +3,12 @@ canton: BS
 number: BaB 132.100
 title: Ordnung betreffend die politischen Rechte in der Bürgergemeinde der Stadt Basel
 language: de
-version: 2015-03-01
-valid_until: 2022-09-30
-version_adopted: 2014-12-09
+version: 2022-10-01
+version_adopted: 2022-06-21
 adopted: 1992-12-08
 in_force: 1993-02-13
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/BaB%20132.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/3418/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5628/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/3418/pdf_file"
 
 Politische Rechte: Ordnung | Basel: Bürgergemeinde[^t-1]
 
-Vom 8. Dezember 1992 (Stand 1. März 2015)
+Vom 8. Dezember 1992 (Stand 1. Oktober 2022)
 
 Der Bürgergemeinderat der Stadt Basel
 
@@ -57,15 +56,13 @@ erlässt gemäss § 9 Ziff. 6 in Verbindung mit Ziff. 8, § 10 und § 11 des Gem
 
 #### § 4
 
-**Ausschluss vom Wahl- und Stimmrecht**
-
-<sup>1</sup> Von Wahl- und Stimmrecht ist ausgeschlossen, wer wegen Geisteskrankheit oder Geistesschwäche entmündigt ist (Art. 369 ZGB).
+**…**
 
 #### § 5
 
 **Wählbarkeit**
 
-<sup>1</sup> Die in den §§ 3 und 4 aufgestellten Erfordernisse gelten auch für die Wählbarkeit als Mitglied des Bürgergemeinderates. Vorbehalten bleiben die Bestimmungen der Gemeindeordnung über die Unvereinbarkeit.
+<sup>1</sup> Die in § 3 aufgestellten Erfordernisse gelten auch für die Wählbarkeit als Mitglied des Bürgergemeinderates. Vorbehalten bleiben die Bestimmungen der Gemeindeordnung der Bürgergemeinde der Stadt Basel vom 22. Oktober 1985 über die Unvereinbarkeit.
 
 ### 1.III. Stimmregister
 
@@ -73,7 +70,7 @@ erlässt gemäss § 9 Ziff. 6 in Verbindung mit Ziff. 8, § 10 und § 11 des Gem
 
 **Anlegung**
 
-<sup>1</sup> Das Stimmregister wird vom Polizei- und Militärdepartement des Kantons Basel-Stadt geführt.
+<sup>1</sup> Das Stimmregister für die Bürgergemeinde wird in deren Auftrag vom zuständigen kantonalen Departement geführt.
 
 <sup>2</sup> Das Stimmregister steht den Wahl- und Stimmberechtigten der Bürgergemeinde jederzeit zur Einsicht offen.
 
@@ -83,13 +80,13 @@ erlässt gemäss § 9 Ziff. 6 in Verbindung mit Ziff. 8, § 10 und § 11 des Gem
 
 <sup>1</sup> Wer im Stimmregister nicht eingetragen ist, kann sein Stimm- und Wahlrecht nicht ausüben, es sei denn, dass seine Eintragung pflichtwidrig unterlassen worden wäre.
 
-<sup>2</sup> Über die Eintragung entscheidet das Polizei- und Militärdepartement nach Anhörung der Bürgergemeinde.
+<sup>2</sup> Über die Eintragung entscheidet das zuständige kantonale Departement nach Anhörung der Bürgergemeinde.
 
 #### § 8
 
 **Stimmrechtsausweis**
 
-<sup>1</sup> Aufgrund des Stimmregisters fertigt das Polizei- und Militärdepartement die Stimmrechtsausweise aus und stellt sie im Auftrag der Bürgergemeinde den Wahl- und Stimmberechtigten zu.
+<sup>1</sup> Aufgrund des Stimmregisters fertigt das zuständige kantonale Departement die Stimmrechtsausweise aus und stellt sie im Auftrag der Bürgergemeinde den Wahl- und Stimmberechtigten spätestens drei Wochen vor dem Urnengang zu.
 
 ### 1.IV. Ausübung des Wahl- und Stimmrechts
 
@@ -99,13 +96,17 @@ erlässt gemäss § 9 Ziff. 6 in Verbindung mit Ziff. 8, § 10 und § 11 des Gem
 
 <sup>1</sup> Die Berechtigten können ihr Wahl- und Stimmrecht persönlich an der Urne oder brieflich ausüben.
 
-<sup>2</sup> Stellvertretung ist nicht zulässig.
+<sup>2</sup> …
+
+<sup>3</sup> Es müssen die amtlichen Wahl- und Stimmzettel der Bürgergemeinde verwendet werden.
+
+<sup>4</sup> Das Stimmgeheimnis ist zu wahren.
 
 #### § 10
 
 **Persönliche Ausübung**
 
-<sup>1</sup> Das Wahl- und Stimmrecht kann persönlich nur in der Stadt Basel während der hiefür vom Bürgerrat in Absprache mit dem Polizei- und Militärdepartement festgesetzten Zeit im Wahl- bzw. Stimmlokal ausgeübt werden.
+<sup>1</sup> Das Wahl- und Stimmrecht kann persönlich nur in der Stadt Basel während der dafür vom Bürgerrat in Absprache mit dem zuständigen kantonalen Departement festgesetzten Zeit im Wahl- bzw. Stimmlokal ausgeübt werden.
 
 <sup>2</sup> Vorzeitig kann es persönlich schon vom Mittwoch vor dem Abstimmungssonntag an bei der Bürgerratskanzlei oder einer anderen vom Bürgerrat bezeichneten Amtsstelle ausgeübt werden.
 
@@ -115,21 +116,27 @@ erlässt gemäss § 9 Ziff. 6 in Verbindung mit Ziff. 8, § 10 und § 11 des Gem
 
 **Briefliche Ausübung**
 
-<sup>1</sup> Die Berechtigten können ihr Wahl- und Stimmrecht von jedem Ort der Schweiz aus brieflich ausüben, indem sie ihre Wahl- und Stimmzettel mit dem amtlichen Couvert dem Kontrollbüro des Polizei- und Militärdepartementes zustellen.
+<sup>1</sup> Die Berechtigten können ihr Wahl- und Stimmrecht von jedem Ort der Schweiz aus brieflich ausüben, indem sie ihre Wahl- und Stimmzettel mit dem amtlichen Couvert dem zuständigen kantonalen Departement zustellen.
 
 <sup>2</sup> Die briefliche Ausübung ist ab Erhalt der Wahl- und Abstimmungsunterlagen zulässig.
 
-<sup>3</sup> Brieflich abgegebene Wahl- und Stimmzettel werden nur dann berücksichtigt, wenn sie bis 12.00 Uhr des Tages vor dem Wahl- oder Abstimmungssonntag beim Kontrollbüro eingetroffen sind.
+<sup>3</sup> Brieflich abgegebene Wahl- und Stimmzettel werden nur dann berücksichtigt, wenn sie bis 12.00 Uhr des Tages vor dem Wahl- oder Abstimmungssonntag beim zuständigen kantonalen Departement eingetroffen sind.
 
 #### § 11a
 
 **Stimmabgabe durch Dritte**
 
-<sup>1</sup> Stimmberechtigte, die durch eine körperliche Behinderung nicht in der Lage sind, die für die Stimmabgabe erforderlichen Handlungen (Ausfüllen der Wahl- bzw. Stimmzettel usw.) selbst vorzunehmen, können diese durch andere Stimmberechtigte ausführen lassen.
+<sup>1</sup> Stimmberechtigte, die durch eine körperliche Einschränkung oder dauernd aus einem anderen Grund nicht in der Lage sind, die für die Stimmabgabe erforderlichen Handlungen (Ausfüllen der Wahl- bzw. Stimmzettel usw.) selbst vorzunehmen, können diese durch andere Stimmberechtigte ausführen lassen.
 
-<sup>2</sup> Wollen Stimmberechtigte ihre Wahl- und Stimmzettel durch einen Dritten ausfüllen lassen, so hat sich ein Mitglied des Wahlbüros von deren körperlichen Behinderung im Sinn von Abs. 1 zu überzeugen.
+<sup>2</sup> …
 
-<sup>3</sup> Eine weitergehende oder organisierte Stellvertretung ist nicht zulässig.
+<sup>3</sup> …
+
+<sup>4</sup> Die Stimmabgabe durch Dritte erfolgt mit dem Stimmrechtsausweis der zur Stimmabgabe nicht befähigten Person sowie einem Formular, mit dem die stimmberechtigte Person eine Drittperson zur Vornahme der für die Stimmabgabe erforderlichen Handlungen ermächtigt. Das Formular ist bei der Staatskanzlei unter Angabe des Hinderungsgrundes anzufordern.
+
+<sup>5</sup> Die mit der Stimmabgabe betraute Drittperson hat ihren Namen, ihre Wohnadresse sowie ihre Unterschrift auf dem Stimmrechtsausweis zu vermerken und die Wahl- und Stimmzettel nach Anweisung der bzw. des Stimmberechtigen auszufüllen.
+
+<sup>6</sup> Eine weitergehende oder organisierte Stellvertretung ist nicht zulässig.
 
 ### 1.V. Fehlerhafte Stimmabgabe
 
@@ -187,7 +194,7 @@ erlässt gemäss § 9 Ziff. 6 in Verbindung mit Ziff. 8, § 10 und § 11 des Gem
 
 **Wahl- und Abstimmungslokale**
 
-<sup>1</sup> Der Bürgerrat bezeichnet die erforderlichen Wahl- und Abstimmungslokale im Einvernehmen mit dem Polizei- und Militärdepartement, welches für deren Einrichtung und Ausstattung sorgt.
+<sup>1</sup> Der Bürgerrat bezeichnet die erforderlichen Wahl- und Abstimmungslokale im Einvernehmen mit dem zuständigen kantonalen Departement, welches für deren Einrichtung und Ausstattung sorgt.
 
 #### § 16
 
@@ -233,6 +240,8 @@ erlässt gemäss § 9 Ziff. 6 in Verbindung mit Ziff. 8, § 10 und § 11 des Gem
 
 <sup>6</sup> Pünktlich mit Ende der letzten Öffnungsstunde sollen die Türen des Lokals geschlossen und keine Stimmberechtigten mehr eingelassen werden. Die bereits im Lokal befindlichen Stimmberechtigten können jedoch noch wählen bzw. stimmen.
 
+<sup>7</sup> Wer in einem Wahllokal Radio-, Fernseh- oder Filmaufnahmen machen oder aus staatskundlichem Interesse ein Wahllokal als Einzelperson oder als Gruppe besuchen will, hat dafür vorgängig bei der Bürgerratskanzlei eine Bewilligung einzuholen.
+
 #### § 20
 
 **Unzulässige Beeinflussung der Stimmberechtigten**
@@ -251,7 +260,7 @@ erlässt gemäss § 9 Ziff. 6 in Verbindung mit Ziff. 8, § 10 und § 11 des Gem
 
 **Beobachtung der Wahlen und Abstimmungen**
 
-<sup>1</sup> Die nach den Bestimmungen der Gemeindeordnung bestehende Wahlprüfungskommission des Bürgergemeinderates beobachtet die Wahlen und Abstimmungen in den einzelnen Wahl- und Abstimmungslokalen sowie die Ermittlung der Ergebnisse und berichtet dem Bürgergemeinderat und dem Bürgerrat über ihre Feststellungen.
+<sup>1</sup> Die nach den Bestimmungen der Geschäftsordnung des Bürgergemeinderates der Stadt Basel vom 9. September 1986 bestehende Wahlprüfungskommission des Bürgergemeinderates beobachtet die Wahlen und Abstimmungen in den einzelnen Wahl- und Abstimmungslokalen sowie die Ermittlung der Ergebnisse und berichtet dem Bürgergemeinderat und dem Bürgerrat über ihre Feststellungen.
 
 #### § 23
 
@@ -265,15 +274,15 @@ erlässt gemäss § 9 Ziff. 6 in Verbindung mit Ziff. 8, § 10 und § 11 des Gem
 
 **Anordnung der Wahlen und Abstimmungen**
 
-<sup>1</sup> Die Wahlen und Abstimmungen werden vom Bürgerrat im Einvernehmen mit dem Polizei- und Militärdepartement angeordnet.
+<sup>1</sup> Die Wahlen und Abstimmungen werden vom Bürgerrat im Einvernehmen mit dem zuständigen kantonalen Departement angeordnet.
 
-<sup>2</sup> Die Wahltage sollen drei, die Abstimmungstage zwei Monate vorher bekanntgegeben werden.
+<sup>2</sup> Die Wahltage sollen spätestens drei, die Abstimmungstage spätestens zwei Monate vorher bekanntgegeben werden.
 
 #### § 25
 
 **Zustellung der Abstimmungsvorlagen**
 
-<sup>1</sup> Die Abstimmungsvorlagen sind den Stimmberechtigten so rechtzeitig zuzustellen, dass sie mindestens drei Wochen vor dem Abstimmungstag in deren Besitz sind.
+<sup>1</sup> Die Abstimmungsvorlagen sind den Stimmberechtigten so rechtzeitig zuzustellen, dass sie spätestens drei Wochen vor dem Abstimmungstag in deren Besitz sind.
 
 #### § 26
 
@@ -281,9 +290,9 @@ erlässt gemäss § 9 Ziff. 6 in Verbindung mit Ziff. 8, § 10 und § 11 des Gem
 
 <sup>1</sup> Die Stimmrechtsausweise sowie die amtlichen Wahl- und Stimmzettel sollen spätestens drei Wochen vor Wahlen oder Abstimmungen an die Stimmberechtigten ausgeteilt sein.
 
-<sup>2</sup> Die Stimmberechtigten sind durch öffentliche Aufforderung einzuladen, allfällige Beschwerden wegen nicht erhaltener oder unrichtiger Stimmrechtsausweise, Wahl- oder Stimmzettel bis Freitag 16.00 Uhr vor dem Wahl- oder Abstimmungssonntag beim Kontrollbüro anzubringen. Dieses entscheidet über die Beschwerden nach Anhörung der Bürgergemeinde.
+<sup>2</sup> Die Stimmberechtigten sind durch öffentliche Aufforderung einzuladen, allfällige Beschwerden wegen nicht erhaltener oder unrichtiger Stimmrechtsausweise, Wahl- oder Stimmzettel bis Freitag, 16.00 Uhr vor dem Wahl- oder Abstimmungssonntag bei der zuständigen kantonalen Amtsstelle anzubringen. Diese entscheidet über die Beschwerden nach Anhörung der Bürgergemeinde.
 
-<sup>3</sup> Stimmberechtigte, die ihren Stimmrechtsausweis verloren haben, können bis spätestens Freitag 16.00 Uhr vor dem Wahl- oder Abstimmungssonntag beim Kontrollbüro einen neuen beziehen, sofern sie den Verlust glaubhaft machen können.
+<sup>3</sup> Stimmberechtigte, die ihren Stimmrechtsausweis verloren haben, können bis spätestens Freitag, 16.00 Uhr vor dem Wahl- oder Abstimmungssonntag bei der zuständigen kantonalen Amtsstelle einen neuen beziehen, sofern sie den Verlust glaubhaft machen können.
 
 #### § 27
 
@@ -291,7 +300,9 @@ erlässt gemäss § 9 Ziff. 6 in Verbindung mit Ziff. 8, § 10 und § 11 des Gem
 
 <sup>1</sup> Zusammen mit dem Stimmrechtsausweis ist den Stimmberechtigten eine kurze Wahl- und Abstimmungsanleitung zuzustellen.
 
-<sup>2</sup> Ausserdem ist bei Abstimmungen dem Stimmrechtsausweis eine sachliche, kurzgefasste Erläuterung der Vorlage beizulegen.
+<sup>2</sup> Ausserdem ist bei Abstimmungen eine sachliche, kurzgefasste Erläuterung des Bürgerrates beizulegen, die auch den gegnerischen Auffassungen Rechnung trägt.
+
+<sup>3</sup> Bei der Ausgestaltung der Wahl- und Abstimmungsunterlagen ist auf die Bedürfnisse von Menschen mit einer Behinderung Rücksicht zu nehmen.
 
 ## 2. Abteilung: Wahl des Bürgergemeinderates
 
@@ -321,11 +332,19 @@ erlässt gemäss § 9 Ziff. 6 in Verbindung mit Ziff. 8, § 10 und § 11 des Gem
 
 #### § 31
 
-**Inhalt**
+**Inhaltliche Erfordernisse und Unterzeichnung der Wahlvorschläge**
 
 <sup>1</sup> Der gleiche Name darf im Vorschlag mehrfach, höchstens aber dreimal stehen. Im Ganzen darf der Wahlvorschlag nicht mehr Namen enthalten, als Personen zu wählen sind.
 
 <sup>2</sup> Die Wahlvorschläge müssen von mindestens zehn stimmberechtigten Personen unterzeichnet sein. Eine stimmberechtigte Person darf nur einen Wahlvorschlag unterzeichnen.
+
+<sup>3</sup> Vorgeschlagene dürfen ihren eigenen Wahlvorschlag nicht unterzeichnen.
+
+<sup>4</sup> Jeder Wahlvorschlag enthält:
+
+- a) eine geeignete Listenbezeichnung, welche die Unterscheidung von anderen Wahlvorschlägen ermöglicht;
+- b) Namen, Vornamen, Geburtsjahr, Beruf und Wohnadresse der Vorgeschlagenen;
+- c) Namen, Vornamen, Geburtsjahr und Wohnadresse der Unterzeichnenden.
 
 #### § 32
 
@@ -341,17 +360,17 @@ erlässt gemäss § 9 Ziff. 6 in Verbindung mit Ziff. 8, § 10 und § 11 des Gem
 
 #### § 34
 
-**Vertreter der Wahlvorschläge**
+**Vertretung der Wahlvorschläge**
 
 <sup>1</sup> Die erste und die zweite unterzeichnete Person eines Wahlvorschlages gelten im Verkehr mit den Behörden als dessen erste und zweite Vertretung.
 
-<sup>2</sup> Die erste Vertretung, im Verhinderungsfall die zweite, ist berechtigt oder verpflichtet, im Namen sämtlicher einen Wahlvorschlag unterzeichnenden Personen den Behörden gegenüber rechtsverbindlich die zur Beseitigung von Anständen erforderlichen Erklärungen abzugeben und für vorgeschlagene Personen, die von Amtes wegen gestrichen werden müssen, Ersatzvorschläge einzureichen. Ersatzvorschlägen ist eine schriftliche Zustimmungs- und Wahlannahmeerklärung der Neuvorgeschlagenen beizulegen.
+<sup>2</sup> Die erste Vertretung, im Verhinderungsfall die zweite, ist berechtigt oder verpflichtet, im Namen sämtlicher einen Wahlvorschlag unterzeichnenden Personen den Behörden gegenüber rechtsverbindlich die zur Beseitigung von Anständen erforderlichen Erklärungen abzugeben und für vorgeschlagene Personen, die von Amtes wegen gestrichen werden müssen, Ersatzvorschläge einzureichen.
 
 #### § 35
 
 **Prüfung der Wahlvorschläge**
 
-<sup>1</sup> Die Bürgerratskanzlei prüft in Zusammenarbeit mit dem Polizei- und Militärdepartement die eingereichten Vorschläge in bezug auf die Formerfordernisse, die Wählbarkeit der Kandidatinnen und Kandidaten und die Gültigkeit der Unterschriften. Der Vertretung der Vorschläge sind die infolge Nichterfüllung der Formerfordernisse nötigen Streichungen oder Ergänzungen unverzüglich mitzuteilen unter Ansetzung einer Frist von drei Tagen zur Behebung der Mängel. Verstreicht diese Frist unbenützt, nimmt die Bürgerratskanzlei die nötigen Korrekturen selbst vor.
+<sup>1</sup> Die Bürgerratskanzlei prüft in Zusammenarbeit mit dem zuständigen kantonalen Departement die eingereichten Vorschläge in Bezug auf die Formerfordernisse, die Wählbarkeit der Kandidatinnen und Kandidaten und die Gültigkeit der Unterschriften. Der Vertretung der Vorschläge sind die infolge Nichterfüllung der Formerfordernisse nötigen Streichungen oder Ergänzungen unverzüglich mitzuteilen unter Ansetzung einer Frist von drei Tagen zur Behebung der Mängel. Verstreicht diese Frist unbenützt, nimmt die Bürgerratskanzlei die nötigen Korrekturen selbst vor.
 
 #### § 36
 
@@ -385,7 +404,7 @@ erlässt gemäss § 9 Ziff. 6 in Verbindung mit Ziff. 8, § 10 und § 11 des Gem
 
 <sup>6</sup> Wenn Wahlvorschläge gleiche Überschriften tragen, so fordert die Bürgerratskanzlei die Vertretung der Vorschläge auf, die notwendigen Unterscheidungen anzubringen. Sofern dies nicht innert drei Tagen geschieht, werden diese Listen durch eine weitere Ordnungsnummer unterschieden.
 
-<sup>7</sup> Die Bürgerratskanzlei macht die Listen mit ihren Bezeichnungen und ihren Ordnungsnummern zwei Wochen vor dem Wahltag im Kantonsblatt bekannt.
+<sup>7</sup> Die Bürgerratskanzlei macht die Listen mit ihren Bezeichnungen und ihren Ordnungsnummern spätestens drei Wochen vor dem Wahltag im Kantonsblatt bekannt.
 
 #### § 39
 
@@ -555,31 +574,42 @@ erlässt gemäss § 9 Ziff. 6 in Verbindung mit Ziff. 8, § 10 und § 11 des Gem
 
 <sup>2</sup> Ist auf der betreffenden Liste kein Ersatz vorhanden, so wird nach § 49 verfahren.
 
-## 5. Abteilung: Validierung
+## 5. Abteilung: Validierung und Rechtspflege
 
 #### § 56
 
 **Bekanntmachung der Ergebnisse**
 
-<sup>1</sup> Die Ergebnisse der Wahlen und Abstimmungen werden durch Anschlag am Stadthaus bekanntgemacht und im Kantonsblatt veröffentlicht.
+<sup>1</sup> Die Ergebnisse der Wahlen und Abstimmungen werden im Kantonsblatt unter Hinweis auf das Beschwerderecht veröffentlicht.
 
 #### § 57
 
 **Aufbewahrung der Wahl- und Stimmzettel**
 
-<sup>1</sup> Die Wahl- und Stimmzettel werden amtlich verwahrt, bis über die Gültigkeit der Wahl oder Abstimmung und über allfällige Einsprachen endgültig entschieden ist. Nachher werden sie vernichtet.
+<sup>1</sup> Die Wahl- und Stimmzettel werden amtlich verwahrt, bis über die Gültigkeit der Wahl oder Abstimmung und über allfällige Beschwerden endgültig entschieden ist. Nachher werden sie vernichtet.
 
 #### § 58
 
-**Zuständigkeit für die Validierung**
+**Validierung**
 
-<sup>1</sup> Über die Gültigkeit von Wahlen und Abstimmungen sowie über Einsprachen dagegen entscheidet der Bürgergemeinderat auf Bericht und Antrag seiner Wahlprüfungskommission.
+<sup>1</sup> Über die Gültigkeit von Wahlen und Abstimmungen beschliesst der Bürgergemeinderat auf Bericht und Antrag seiner Wahlprüfungskommission.
+
+<sup>2</sup> Dieser Beschluss ist im Kantonsblatt zu publizieren.
 
 #### § 59
 
-**Einsprachen**
+**Beschwerden**
 
-<sup>1</sup> Einsprachen gegen die Gültigkeit des Ergebnisses von Wahlen und Abstimmungen sind innert fünf Tagen seit der Publikation im Kantonsblatt schriftlich und begründet dem Bürgerrat einzureichen, wobei der Tag der Publikation nicht mitgezählt wird. Verspätete Einsprachen werden nicht berücksichtigt.
+<sup>1</sup> Die Stimmberechtigten können Beschwerde erheben wegen:
+
+- a) Verletzung des Stimmrechts gemäss §§ 3, 7, 8, 9 und 11a;
+- b) Unregelmässigkeiten bei der Vorbereitung und Durchführung von Wahlen und Abstimmungen.
+
+<sup>2</sup> Die Beschwerde ist schriftlich und begründet innert fünf Tagen seit Entdeckung des Beschwerdegrundes, jedoch spätestens am fünften Tag nach der Veröffentlichung des Wahl- oder Abstimmungsergebnisses im Kantonsblatt beim Bürgerrat einzureichen.
+
+<sup>3</sup> Die Beschwerde hat aufschiebende Wirkung, wenn der Bürgerrat sie anordnet.
+
+<sup>4</sup> Gegen den Entscheid des Bürgerrates kann innert fünf Tagen seit Eröffnung des Entscheids schriftlich und begründet beim Regierungsrat Rekurs ergriffen werden.
 
 #### § 60
 
@@ -591,19 +621,21 @@ erlässt gemäss § 9 Ziff. 6 in Verbindung mit Ziff. 8, § 10 und § 11 des Gem
 
 #### § 61
 
-**Nichtigkeit**
+**Ungültigkeit**
 
-<sup>1</sup> Wahlen und Abstimmungen sind nichtig:
+<sup>1</sup> Wahlen und Abstimmungen sind ungültig:
 
 - 1\. wenn durch gerichtliches Urteil festgestellt wird, dass Gesetzesübertretungen gemäss Art. 279ff. des Schweizerischen Strafgesetzbuches vorgekommen sind und dadurch auf das Ergebnis wesentlich Einfluss ausgeübt wurde oder dies nicht mit Sicherheit als ausgeschlossen betrachtet werden kann;
 - 2\. wenn mehr abgestempelte Wahl- oder Stimmzettel als Stimmrechtsausweise abgegeben worden sind und dies das Resultat der Wahl oder Abstimmung entscheidend beeinflussen kann;
 - 3\. wenn sonst die rechtlichen Vorschriften in einer Weise verletzt worden sind, die die Richtigkeit des Ergebnisses der Wahl oder Abstimmung als zweifelhaft erscheinen lässt.
 
+<sup>2</sup> Die Befugnis zur Ungültigkeitserklärung obliegt dem Bürgergemeinderat.
+
 #### § 62
 
-**Publikation der Validierung**
+**Publikation der Beschwerdeentscheide**
 
-<sup>1</sup> Der Entscheid über die Gültigkeit einer Wahl oder einer Abstimmung oder über eine Einsprache ist im Kantonsblatt zu publizieren. Einspracheentscheide sind ausserdem den Einsprechern schriftlich zu eröffnen.
+<sup>1</sup> Die rechtskräftigen Beschwerdeentscheide über die Gültigkeit oder die Aufhebung von Wahlen und Abstimmungen werden im Kantonsblatt publiziert. Entscheide über die Gültigkeit sind mit der verbindlichen Feststellung der Ergebnisse zu publizieren.
 
 #### § 63
 
@@ -682,6 +714,8 @@ erlässt gemäss § 9 Ziff. 6 in Verbindung mit Ziff. 8, § 10 und § 11 des Gem
 
 <sup>2</sup> Eine stimmberechtigte Person darf das gleiche Initiativbegehren nur einmal unterschreiben.
 
+<sup>3</sup> Schreibunfähige Stimmberechtigte können die Eintragung ihres Namenszuges durch eine stimmberechtigte Person ihrer Wahl vornehmen lassen. Diese setzt ihre eigene Unterschrift zum Namenszug der schreibunfähigen Person und bewahrt über den Inhalt der empfangenen Anweisung Stillschweigen.
+
 #### § 72
 
 **Einreichung der Unterschriftenlisten**
@@ -694,15 +728,13 @@ erlässt gemäss § 9 Ziff. 6 in Verbindung mit Ziff. 8, § 10 und § 11 des Gem
 
 **Prüfung des Zustandekommens**
 
-<sup>1</sup> Die Bürgerratskanzlei lässt durch das Polizei- und Militärdepartement[^73-1] prüfen, ob eine Initiative die vorgeschriebene Zahl gültiger Unterschriften aufweist.
+<sup>1</sup> Die Bürgerratskanzlei lässt durch das zuständige kantonale Departement prüfen, ob eine Initiative die vorgeschriebene Zahl gültiger Unterschriften aufweist.
 
 <sup>2</sup> Ungültig sind:
 
 - 1\. Unterschriften auf Listen, welche die Erfordernisse nach § 69 nicht erfüllen;
 - 2\. Unterschriften von Personen, die in der Bürgergemeinde nicht stimmberechtigt sind;
 - 3\. jede zweite, dritte usw. Unterschrift der gleichen stimmberechtigten Person.
-
-[^73-1]: Jetzt: Justiz- und Sicherheitsdepartement.
 
 #### § 74
 
@@ -810,7 +842,7 @@ erlässt gemäss § 9 Ziff. 6 in Verbindung mit Ziff. 8, § 10 und § 11 des Gem
 
 <sup>1</sup> Das Referendum ist zustande gekommen, wenn es mindestens die in der Gemeindeordnung vorgesehene Zahl gültiger Unterschriften aufweist.
 
-<sup>2</sup> Die Bürgerratskanzlei lässt nach Ablauf der Referendumsfrist durch das Polizei- und Militärdepartement prüfen, ob ein Referendum die vorgeschriebene Zahl gültiger Unterschriften aufweist.
+<sup>2</sup> Die Bürgerratskanzlei lässt nach Ablauf der Referendumsfrist durch das zuständige kantonale Departement prüfen, ob ein Referendum die vorgeschriebene Zahl gültiger Unterschriften aufweist.
 
 <sup>3</sup> Ungültig sind:
 
