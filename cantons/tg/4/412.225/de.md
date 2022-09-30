@@ -1,25 +1,26 @@
 ---
 canton: TG
 number: "412.225"
-title: Reglement des Departementes für Erziehung und Kultur über die Ausbildung zur diplomierten Betriebswirtschafterin HF beziehungsweise zum diplomierten Betriebswirtschafter HF
+title: Reglement des Departements für Erziehung und Kultur über die Ausbildung zur diplomierten Betriebswirtschafterin HF oder zum diplomierten Betriebswirtschafter HF
 short: Reglement HF Betriebswirtschaft
 language: de
-version: 2017-01-01
-valid_until: 2022-09-30
-version_adopted: 2016-09-12
+version: 2022-10-01
+version_adopted: 2023-04-12
 adopted: 2023-04-12
 in_force: 2022-10-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/412.225"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2373/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2649/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Reglement des Departementes für Erziehung und Kultur über die Ausbildung zur diplomierten Betriebswirtschafterin HF beziehungsweise zum diplomierten Betriebswirtschafter HF
+# Reglement des Departements für Erziehung und Kultur über die Ausbildung zur diplomierten Betriebswirtschafterin HF oder zum diplomierten Betriebswirtschafter HF
 
-Reglement Ausbildung zur diplomierten Betriebswirtschafterin
+Reglement HF Betriebswirtschaft
 
-vom 14.01.2011 (Stand 01.01.2017)
+(Reglement HF Betriebswirtschaft)
+
+vom 12.04.2023 (Stand 01.10.2022)
 
 ## 1. Allgemeines
 
@@ -27,164 +28,136 @@ vom 14.01.2011 (Stand 01.01.2017)
 
 **Geltungsbereich**
 
-<sup>1</sup> Dieses Reglement regelt in Ergänzung zu den bundesrechtlichen Vorschriften die Ausbildung am Bildungszentrum für Wirtschaft zur diplomierten Betriebswirtschafterin HF beziehungsweise zum diplomierten Betriebswirtschafter HF.
+<sup>1</sup> Dieses Reglement regelt in Ergänzung zu den bundesrechtlichen Vorschriften die Ausbildung am Bildungszentrum für Wirtschaft Weinfelden (BZW) zur diplomierten Betriebswirtschafterin HF oder zum diplomierten Betriebswirtschafter HF (HF-Bildungsgang).
 
 #### § 2
 
-**Umfang und Dauer der Ausbildung**
+**Umfang, Dauer und Gliederung der Ausbildung**
 
-<sup>1</sup> Die Ausbildung dauert sechs Semester. Sie wird berufsbegleitend absolviert.
+<sup>1</sup> Die Ausbildung wird berufsbegleitend absolviert und dauert sechs Semester.
+
+<sup>2</sup> Sie gliedert sich in ein Grundstudium (erstes und zweites Semester) und ein Hauptstudium (drittes bis sechstes Semester).
 
 #### § 3
 
-**Beginn**
+**Organisation**
 
-<sup>1</sup> Die Ausbildung beginnt in der Regel im Oktober.
+<sup>1</sup> Der HF-Bildungsgang wird von der Abteilung Weiterbildung des BZW geführt.
+
+<sup>2</sup> Die Ausbildung beginnt in der Regel im Oktober.
 
 ## 2. Zulassungsbedingungen
 
 #### § 4
 
-**Generelle Zulassungsbedingungen**
+**Zulassungsbedingungen**
 
-<sup>1</sup> Die Aufnahme wird von folgenden Voraussetzungen abhängig gemacht:
+<sup>1</sup> Für den HF-Bildungsgang wird zugelassen, wer folgende Bedingungen vor Antritt der Ausbildung erfüllt:
 
-- 1\. Besitz eines eidgenössischen Fähigkeitszeugnisses Kaufmann/ Kauffrau Profil M oder E;
-- 2\. Besitz eines Diploms einer vom Bund anerkannten Handelsmittelschule;
-- 3\. mindestens zweijährige kaufmännische Berufserfahrung.
+- 1\. erfolgreicher Abschluss einer dreijährigen beruflichen Grundbildung zur Kauffrau mit eidgenössischem Fähigkeitszeugnis (EFZ) oder zum Kaufmann EFZ oder
+- 2\. erfolgreicher Abschluss einer dreijährigen beruflichen Grundbildung zur Detailhandelsfachfrau EFZ oder zum Detailhandelsfachmann EFZ
 
-<sup>2</sup> Zum Bildungsgang wird ausserdem zugelassen, wer:
+<sup>2</sup> Ohne einschlägiges EFZ gemäss Abs. 1 sind alternativ für die Zulassung vor Antritt des Studiums eine mindestens zweijährige kaufmännisch-betriebswirtschaftliche Berufspraxis bei einer Berufstätigkeit im Umfang von mindestens einem Beschäftigungsgrad von 80 % vorzuweisen und folgende Bedingungen zu erfüllen:
 
-- 1\. über ein eidgenössisches Fähigkeitszeugnis eines anderen Berufs mit mindestens dreijähriger Grundbildung und über drei Jahre einschlägige kaufmännische Berufserfahrung verfügt sowie im Rahmen des Zulassungsverfahrens die notwendigen kaufmännischen Grundkenntnisse nachweist (z.B. Nachweis von kaufmännischen Zusatzqualifikationen oder Zulassungsprüfungen);
-- 2\. über ein Maturitätszeugnis mit Schwerpunkt Wirtschaft und drei Jahre einschlägige kaufmännische Berufserfahrung verfügt.
+- 1\. erfolgreicher Abschluss einer drei- oder vierjährigen beruflichen Grundbildung EFZ eines anderen Bereichs oder
+- 2\. Abschluss einer gymnasialen Matura oder Fachmittelschule
 
-<sup>3</sup> Voraussetzung ist in allen Fällen ein Anstellungsverhältnis von mindestens 50 %.
-
-#### § 5
-
-**Aufnahmeprüfung**
-
-<sup>1</sup> Eine Aufnahmeprüfung hat zu absolvieren, wer über kein eidgenössisches Fähigkeitszeugnis im Berufsfeld Kaufmann/Kauffrau Profil E beziehungsweise KV 86 verfügt.
-
-<sup>2</sup> Ebenfalls eine Aufnahmeprüfung hat zu absolvieren, wer im Fähigkeitszeugnis Kaufmann/Kauffrau Profil E beziehungsweise KV 86 in den Fachbereichen Wirtschaft und Gesellschaft oder Rechnungswesen eine Note unter 4.5 erreicht hat.
-
-#### § 6
-
-**Prüfungsumfang**
-
-<sup>1</sup> Die Aufnahmeprüfung erstreckt sich über Kenntnisse im Rechnungswesen auf dem Niveau Lehrabschlussprüfung Kaufmann/Kauffrau E-Profil und dauert in der Regel zwei Stunden.
-
-#### § 7
-
-**Bestehen der Aufnahmeprüfung**
-
-<sup>1</sup> Die Aufnahmeprüfung hat bestanden, wer mindestens die Note 4 erreicht hat.
-
-<sup>2</sup> Das Ergebnis einer Aufnahmeprüfung an eine Höhere Fachschule für Wirtschaft in einem anderen Kanton wird anerkannt.
-
-#### § 8
-
-**Ausnahmen**
-
-<sup>1</sup> Auf das Erfordernis einer bestandenen Aufnahmeprüfung kann verzichtet werden, wenn sich jemand anderweitig über genügende Kenntnisse im Rechnungswesen ausweist oder wenn ausreichender Grund zur Annahme besteht, dass er fähig sein wird, den Studiengang erfolgreich zu absolvieren.
+<sup>3</sup> In allen Fällen wird ein Anstellungsverhältnis während der Ausbildung im kaufmännisch-betriebswirtschaftlichen Bereich mit einem Beschäftigungsgrad von mindestens 70 % vorausgesetzt. Sofern vor Antritt der Ausbildung während mindestens zweier Jahre eine kaufmännisch-betriebswirtschaftliche Berufstätigkeit mit einem Beschäftigungsgrad von mindestens 80 % erfolgte, genügt ein Beschäftigungsgrad von mindestens 50 %.
 
 ## 3. Promotion und Qualifikationsverfahren
 
-#### § 9
+#### § 5
 
-**Zeitpunkt**
+**Grundlagen**
 
-<sup>1</sup> Die Promotion findet am Ende jedes Studienjahres statt.
+<sup>1</sup> Nach dem Grundstudium findet die Promotion statt.
 
-#### § 10
+<sup>2</sup> Der HF-Bildungsgang wird nach dem Hauptstudium mit dem Bestehen des Qualifikationsverfahrens abgeschlossen.
 
-**Zulassung**
+#### § 6
 
-<sup>1</sup> Zu den Handlungs- und Lernfeldprüfungen im ersten Studienjahr wird zugelassen, wer das erste und zweite Semester besucht oder eine gleichwertige Ausbildung absolviert hat.
+**Zulassung zu den Lernfeldprüfungen**
 
-<sup>2</sup> Zu den Lernfeldprüfungen im zweiten Studienjahr wird zugelassen, wer die Handlungs- und Lernfeldprüfungen des ersten Studienjahres oder eine gleichwertige Prüfung bestanden sowie mindestens das dritte und vierte Semester absolviert hat.
+<sup>1</sup> Zu den Lernfeldprüfungen im Grundstudium wird zugelassen, wer das erste und zweite Semester besucht und die Studien- und Prüfungsgebühren bezahlt hat.
 
-<sup>3</sup> Zu den Lernfeldprüfungen im dritten Studienjahr wird zugelassen, wer die Lernfeldprüfungen des zweiten Studienjahres bestanden sowie mindestens das fünfte und sechste Semester absolviert hat.
+<sup>2</sup> Zu den Lernfeldprüfungen im zweiten Studienjahr wird zugelassen, wer die Promotion erfüllt, das dritte und vierte Semester absolviert sowie die Studien- und Prüfungsgebühren bezahlt hat.
 
-<sup>4</sup> Sind weniger als 80 % der erteilten Lektionen eines Handlungs- oder Lernfeldes im entsprechenden Studienjahr besucht worden, kann die Zulassung zu den Prüfungen verweigert werden.
+<sup>3</sup> Zu den Lernfeldprüfungen im dritten Studienjahr wird zugelassen, wer die Promotion erfüllt, das zweite und dritte Studienjahr absolviert und die Studien- und Prüfungsgebühren bezahlt hat.
 
-#### § 11
+<sup>4</sup> Sind weniger als 80 % der Kontaktlektionen des jeweiligen Lernfeldes besucht worden, kann die Schulleitung die Zulassung zu den Prüfungen verweigern oder eine Zusatzleistung einfordern, die als Pflichtleistung gilt.
 
-**Grundlagen der Promotion**
+<sup>5</sup> Angeleitetes und freies Selbststudium und die darin erteilten Aufträge sind Pflichtleistungen und vollständig zu erfüllen. Bei Nichterfüllung kann die Zulassung zur entsprechenden Lernfeldprüfung verweigert oder eine Zusatzleistung eingefordert werden, die als Pflichtleistung gilt.
 
-<sup>1</sup> Grundlage zur Promotion sind die im entsprechenden Studienjahr stattfindenden Lernfeldprüfungen.
+#### § 7
 
-<sup>2</sup> Die Promotion richtet sich nach den Vorgaben des eidgenössischen Rahmenlehrplanes.
+**Voraussetzungen der Promotion**
 
-#### § 12
+<sup>1</sup> Die Promotion beinhaltet den Nachweis, die für das Hauptstudium notwendigen Grundlagenkenntnisse erworben zu haben.
 
-**Promotion**
+<sup>2</sup> Die Promotion ist erfüllt, wenn
 
-<sup>1</sup> Die Promotionsbedingungen sind bei folgenden Voraussetzungen erfüllt:
+- 1\. sämtliche Pflichtleistungen des Grundstudiums erbracht wurden,
+- 2\. jede Lernfeldprüfung mindestens mit der Note 3.0 bewertet ist,
+- 3\. höchstens drei Lernfeldprüfungen mit einer Note unter 4.0 bewertet sind und
+- 4\. der auf eine Dezimalstelle gerundete Gesamtdurchschnitt aller Lernfeldprüfungen mindestens 4.0 beträgt.
 
-- 1\. der auf eine Dezimalstelle gerundete Durchschnitt der Lernfeldnoten muss mindestens 4 betragen;
-- 2\. …
-- 3\. keine Lernfeldnote darf unter 3 sein.
+<sup>3</sup> Wer die Promotion nicht erfüllt, hat alle Lernfeldprüfungen zu wiederholen, die mit Noten unter 4.0 bewertet wurden.
 
-<sup>2</sup> Die Noten basieren auf nicht gewichteten Lernfeldnoten.
-
-#### § 13
-
-**Übertritt / Anerkennung von Prüfungsresultaten anderer Ausbildungsinstitutionen**
-
-<sup>1</sup> Wechselt eine Studierende beziehungsweise ein Studierender von einer anerkannten Höheren Fachschule für Wirtschaft in diese Ausbildung, so werden die Lern- und Handlungsfeldnoten in der Regel übernommen.
-
-<sup>2</sup> Sofern die Semester in Bezug auf die Lerninhalte vergleichbar sind, werden sie in der Regel angerechnet.
-
-<sup>3</sup> Bei Wechseln von Studierenden anderer Ausbildungsinstitutionen entscheidet die Schulleitung über die Anerkennung der bereits erzielten Lern- und Handlungsfeldnoten.
-
-#### § 14
-
-**Wiederholung bei Nichtpromotion**
-
-<sup>1</sup> Jede nicht bestandene Lernfeldprüfung kann frühestens am nächsten ordentlichen Prüfungstermin einmal wiederholt werden.
-
-<sup>2</sup> Erfüllt ein Student oder eine Studentin die Bedingungen gemäss § 12 nicht, sind zwingend alle Lernfeldprüfungen zu wiederholen, deren Noten der ersten Prüfung unter 4.0 lagen.
-
-<sup>3</sup> Auf Antrag können bestandene Prüfungen wiederholt werden. Für die Promotion zählt das Ergebnis der zweiten Prüfung.
-
-#### § 15
-
-**Ausnahmen**
-
-<sup>1</sup> Aus wichtigen Gründen kann ausnahmsweise zugunsten einer Studentin oder eines Studenten von den Bestimmungen dieses Kapitels abgewichen werden.
-
-#### § 16
-
-**Unredlichkeit bei der Prüfung**
-
-<sup>1</sup> Wer in einer Prüfung unerlaubte Hilfsmittel verwendet oder sich anderweitig unerlaubte Vorteile verschafft, hat sie nicht bestanden.
-
-#### § 17
+#### § 8
 
 **Bestehen des Qualifikationsverfahrens**
 
-<sup>1</sup> Das Qualifikationsverfahren gilt als bestanden, wenn
+<sup>1</sup> Die Prüfungskommission erlässt eine Wegleitung zum Qualifikationsverfahren.
 
-- 1\. …
-- 2\. keine Handlungsfeldnote unter 3.0 liegt,
-- 3\. die Note der Diplomarbeit und die Gesamtnote mindestens 4.0 betragen und
-- 4\. die Prüfungen gemäss Promotionsbedingungen bestanden wurden.
+<sup>2</sup> Das Qualifikationsverfahren gilt als bestanden, wenn
 
-#### § 18
+- 1\. das Grundstudium gemäss § 7 erfolgreich absolviert wurde,
+- 2\. sämtliche Pflichtleistungen des Hauptstudiums erbracht wurden,
+- 3\. jede Lernfeldprüfung mit mindestens der Note 3.0 bewertet wurde
+- 4\. höchstens zwei Handlungsfeldnoten unter 4.0 liegen und keine Handlungsfeldnote unter 3.0 liegt,
+- 5\. die Note der Praktischen Diplomarbeit mindestens 4.0 beträgt und
+- 6\. der auf eine Dezimalstelle gerundete Gesamtdurchschnitt aller Handlungsfeldnoten inklusive Diplomarbeit mindestens 4.0 beträgt.
+
+#### § 9
+
+**Unredlichkeit bei der Prüfung**
+
+<sup>1</sup> Wer bei einer Prüfung unerlaubte Hilfsmittel verwendet oder sich anderweitig unerlaubte Vorteile verschafft, hat sie nicht bestanden.
+
+#### § 10
+
+**Wiederholung**
+
+<sup>1</sup> Jede Lernfeldprüfung, die unter der Note 4.0 bewertet wurde, kann frühestens am nächsten ordentlichen Prüfungstermin einmal wiederholt werden.
+
+<sup>2</sup> Wer die Promotion oder das Qualifikationsverfahren bei der Wiederholung erneut nicht besteht, wird von der Prüfungskommission vom HF-Bildungsgang ausgeschlossen.
+
+<sup>3</sup> Bestandene Lernfeldprüfungen können wiederholt werden. Für die Promotion und das Qualifikationsverfahren zählt das Ergebnis der zweiten Prüfung.
+
+#### § 11
+
+**Übertritt, Anerkennung von Vorleistungen, Studienunterbruch**
+
+<sup>1</sup> Wechselt eine Studentin oder ein Student von einer anerkannten Höheren Fachschule für Wirtschaft in den HF-Bildungsgang, entscheidet die Schulleitung über die Anrechnung der absolvierten Semester sowie die Anerkennung der bereits erzielten Lern- und Handlungsfeldnoten.
+
+<sup>2</sup> Für Studierende, die im Rahmenlehrplan enthaltene Kompetenzen nachweisen können, ist eine verkürzte Studienzeit möglich.
+
+<sup>3</sup> Die Mindeststudiendauer am BZW beträgt ein Jahr.
+
+<sup>4</sup> Wird das Studium nach einem Unterbruch fortgesetzt, werden die erbrachten Prüfungsleistungen rückwirkend bis zu drei Jahren angerechnet.
+
+#### § 12
 
 **Diplom**
 
-<sup>1</sup> Wer das Qualifikationsverfahren bestanden hat, erhält ein von der Departementschefin beziehungsweise vom Departementschef und der Rektorin beziehungsweise dem Rektor des Bildungszentrums unterzeichnetes Diplom als Betriebswirtschafterin HF beziehungsweise Betriebswirtschafter HF.
+<sup>1</sup> Wer das Qualifikationsverfahren bestanden hat, erhält ein von der Departementschefin oder dem Departementschef und dem Rektorat unterzeichnetes Diplom, das zur Führung des eidgenössisch geschützten Titels «Dipl. Betriebswirtschafterin HF» oder «Dipl. Betriebswirtschafter HF» berechtigt.
 
-## 4. Schlussbestimmung
+## 4. Übergangs und Schlussbestimmung
 
-#### § 19
+#### § 13
 
-**Inkrafttreten**
+**Übergangsbestimmung**
 
-<sup>1</sup> Dieses Reglement tritt mit der Publikation im Amtsblatt in Kraft[^19-1].
+<sup>1</sup> Für Studierende, die das Studium vor 1. Oktober 2022 begonnen haben, ist das Reglement des Departementes für Erziehung und Kultur über die Ausbildung zur diplomierten Betriebswirtschafterin HF beziehungsweise zum diplomierten Betriebswirtschafter HF vom 14. Januar 2011 in der Fassung vom 12. September 2016 anwendbar.
 
-[^19-1]: In Kraft getreten am 29. Januar 2011.
-
-ABl. 4/2011
+16/2023
