@@ -4,11 +4,11 @@ title: Ordinanza del 27 ottobre 2021 sui test pilota nell’ambito del servizio 
 short: OTPSC
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/674"
 language: it
-version: 2021-12-01
+version: 2022-10-01
 adopted: 2021-10-27
 in_force: 2021-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/674/20211201/it/xml/fedlex-data-admin-ch-eli-cc-2021-674-20211201-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/674/20211201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/674/20221001/it/xml/fedlex-data-admin-ch-eli-cc-2021-674-20221001-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/674/20221001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/674/20211201/it"
 
 (OTPSC)
 
-del 27 ottobre 2021 (Stato 1° dicembre 2021)
+del 27 ottobre 2021 (Stato 1° ottobre 2022)
 
 Il Consiglio federale svizzero,
 
@@ -176,4 +176,8 @@ Valuta in particolare:
 
 **Entrata in vigore e durata di validità**
 
-La presente ordinanza entra in vigore il 1° dicembre 2021 con effetto sino al 31 dicembre 2022.
+<sup>1</sup> La presente ordinanza entra in vigore il 1° dicembre 2021 con effetto sino al 31 dicembre 2022.
+
+<sup>2</sup> La durata di validità della presente ordinanza è prorogata sino al 30 giugno 2023.[^15-1]
+
+[^15-1]: Introdotto dal n. I dell’O del 17 ago. 2022, in vigore dal 1° ott. 2022 ([RU 2022 456](https://fedlex.data.admin.ch/eli/oc/2022/456)).

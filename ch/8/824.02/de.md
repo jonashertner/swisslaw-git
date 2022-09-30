@@ -4,11 +4,11 @@ title: Verordnung vom 27. Oktober 2021 über Pilotversuche im Zivildienst (ZDPV)
 short: ZDPV
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/674"
 language: de
-version: 2021-12-01
+version: 2022-10-01
 adopted: 2021-10-27
 in_force: 2021-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/674/20211201/de/xml/fedlex-data-admin-ch-eli-cc-2021-674-20211201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/674/20211201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/674/20221001/de/xml/fedlex-data-admin-ch-eli-cc-2021-674-20221001-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/674/20221001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/674/20211201/de"
 
 (ZDPV)
 
-vom 27. Oktober 2021 (Stand am 1. Dezember 2021)
+vom 27. Oktober 2021 (Stand am 1. Oktober 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -176,4 +176,8 @@ Es evaluiert insbesondere:
 
 **Inkrafttreten und Geltungsdauer**
 
-Diese Verordnung tritt am 1. Dezember 2021 in Kraft und gilt bis zum 31. Dezember 2022.
+<sup>1</sup> Diese Verordnung tritt am 1. Dezember 2021 in Kraft und gilt bis zum 31. Dezember 2022.
+
+<sup>2</sup> Die Geltungsdauer dieser Verordnung wird bis zum 30. Juni 2023 verlängert.[^15-1]
+
+[^15-1]: Eingefügt durch Ziff. I der V vom 17. Aug. 2022, in Kraft seit 1. Okt. 2022 ([AS 2022 456](https://fedlex.data.admin.ch/eli/oc/2022/456)).

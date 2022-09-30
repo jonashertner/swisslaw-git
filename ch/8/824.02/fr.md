@@ -4,11 +4,11 @@ title: Ordonnance du 27 octobre 2021 sur les affectations pilotes dans le cadre 
 short: OAPSC
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/674"
 language: fr
-version: 2021-12-01
+version: 2022-10-01
 adopted: 2021-10-27
 in_force: 2021-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/674/20211201/fr/xml/fedlex-data-admin-ch-eli-cc-2021-674-20211201-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/674/20211201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/674/20221001/fr/xml/fedlex-data-admin-ch-eli-cc-2021-674-20221001-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/674/20221001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/674/20211201/fr"
 
 (OAPSC)
 
-du 27 octobre 2021 (Etat le 1<sup>er</sup> décembre 2021)
+du 27 octobre 2021 (État le 1<sup>er</sup> octobre 2022)
 
 Le Conseil fédéral suisse,
 
@@ -176,4 +176,8 @@ Il évalue notamment:
 
 **Entrée en vigueur et durée de validité**
 
-La présente ordonnance entre en vigueur le 1<sup>er</sup> décembre 2021 et a effet jusqu’au 31 décembre 2022.
+<sup>1</sup> La présente ordonnance entre en vigueur le 1<sup>er</sup> décembre 2021 et a effet jusqu’au 31 décembre 2022.
+
+<sup>2</sup> La durée de validité de la présente ordonnance est prolongée jusqu’au 30 juin 2023.[^15-1]
+
+[^15-1]: Introduit par le ch. I de l’O du 17 août 2022, en vigueur depuis le 1<sup>er</sup> oct. 2022 ([RO 2022 456](https://fedlex.data.admin.ch/eli/oc/2022/456)).
