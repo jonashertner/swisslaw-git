@@ -3,11 +3,11 @@ sr: "0.631.242.04"
 title: Convenzione del 20 maggio 1987 relativa ad un regime comune di transito (con appendici e Protocollo addizionale)
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/308_308_308"
 language: it
-version: 2022-08-25
+version: 2022-10-01
 adopted: 1987-05-20
 in_force: 1988-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20220825/it/xml/fedlex-data-admin-ch-eli-cc-1988-308_308_308-20220825-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/308_308_308/20220825/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20221001/it/xml/fedlex-data-admin-ch-eli-cc-1988-308_308_308-20221001-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/308_308_308/20221001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Testo originale
 
 Conclusa il 20 maggio 1987 Approvata dall’Assemblea federale l’8 ottobre 1987[^t-2] Strumento di ratificazione depositato dalla Svizzera il 28 ottobre 1987 Entrata in vigore il 1° gennaio 1988
 
-(Stato 25 agosto 2022)
+(Stato 1° ottobre 2022)
 
 [^t-1]: La Conv. concerneva originariamente le seguenti Parti contraenti: Comunità economica europea, Repubblica d’Austria, Repubblica di Finlandia, Repubblica d’Islanda, Regno di Norvegia, Regno di Svezia e Confederazione Svizzera. Il 1° gen. 1995, la Repubblica d’Austria, la Repubblica di Finlandia e il Regno di Svezia hanno aderito alle Comunità europee e da tale data non sono più Parti contraenti autonome della Conv. Il 1° lug. 1996, la Repubblica di Polonia, la Repubblica slovacca, la Repubblica ceca e la Repubblica di Ungheria hanno aderito alla Conv. ([RU 1996 2508](https://fedlex.data.admin.ch/eli/oc/1996/2508_2508_2508)). Con l’adesione all’Unione Europea, dal 1° mag. 2004 questi paesi non sono più Parti contraenti autonome della Conv. La Repubblica di Croazia ha aderito alla Conv. il 1° lug. 2012 ([RU 2013 81](https://fedlex.data.admin.ch/eli/oc/2013/15)), la Repubblica della Turchia il 1° dic. 2012 ([RU 2013 827](https://fedlex.data.admin.ch/eli/oc/2013/173)), l’ex Repubblica Jugoslava di Macedonia il 1° lug. 2015 ([RU 2015 5967](https://fedlex.data.admin.ch/eli/oc/2015/924)) e la Repubblica di Serbia il 1° feb. 2016 ([RU 2016 535](https://fedlex.data.admin.ch/eli/oc/2016/101)).
 [^t-2]: Art. 1 n. 1 lett. b del DF dell’8 ott. 1987 ([RU 1988 300](https://fedlex.data.admin.ch/eli/oc/1988/300_300_300)).
@@ -2869,7 +2869,7 @@ Appendice III[^t-5]
 
 ## Dichiarazione di transito e formulari in caso di utilizzo di procedimenti informatici
 
-[^t-5]: Nuovo testo giusta l’art. 1 n. 6 e 7 della Dec. n. 1/2008 del Comitato congiunto CE-AELS del 16 giu. 2008 ([RU 2009 1325](https://fedlex.data.admin.ch/eli/oc/2009/212)). Aggiornata dagli art. 1 delle Dec. n. 3/2012 del Comitato congiunto del 26 giu. 2012 ([RU 2013 81](https://fedlex.data.admin.ch/eli/oc/2013/15)), n. 4/2012 del Comitato congiunto UE-AELS del 26 giu.2012 ([RU 2013 827](https://fedlex.data.admin.ch/eli/oc/2013/173)), n. 1/2013 del Comitato congiunto UE-AELS del 1° lug. 2013 ([RU 2014 293](https://fedlex.data.admin.ch/eli/oc/2014/48)), n. 2/2013 del Comitato misto UE-AELS del 7 nov. 2013 ([RU 2014 3495](https://fedlex.data.admin.ch/eli/oc/2014/609)), n. 2/2015 del Comitato congiunto UE-AELS del 17 giu. 2015 ([RU 2015 5967](https://fedlex.data.admin.ch/eli/oc/2015/924)), n. 4/2015 del Comitato congiunto UE-AELS del 26 nov. 2015 ([RU 2016 535](https://fedlex.data.admin.ch/eli/oc/2016/101)), dall’art. 1 n. 4 a 6 della Dec. n. 1/2016 del Comitato congiunto UE-AELS del 28 apr. 2016 ([RU 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)), dall’art. 1 n. 4 e 5 della Dec. n. 1/2017 del Comitato congiunto EU-EFTA del 5 dic. 2017 ([RU 2018 303](https://fedlex.data.admin.ch/eli/oc/2018/53)), dall’art. 1 n. 3 della Dec. n. 1/2019 Comitato congiunto UE-PTC del 4 dic. 2019 ([RU 2020 3687](https://fedlex.data.admin.ch/eli/oc/2020/670)) e dall’art. 1 della dec. n. 2/2018 del Comitato congiunto EU-EFTA del 4 dic. 2018, in vigore dal 1° gen. 2021 ([RU 2021 118](https://fedlex.data.admin.ch/eli/oc/2021/118)). Giusta l’art. 2 di detta dec. i formulari relativi alla garanzia di cui agli allegati da C1 a C6, nella versione applicabile il giorno prima dell’entrata in vigore della presente decisione, possono continuare a essere utilizzati, con i necessari adattamenti geografici, per un anno a decorrere dall’entrata in vigore della presente decisione.
+[^t-5]: Nuovo testo giusta l’art. 1 n. 6 e 7 della Dec. n. 1/2008 del Comitato congiunto CE-AELS del 16 giu. 2008 ([RU 2009 1325](https://fedlex.data.admin.ch/eli/oc/2009/212)). Aggiornata dagli art. 1 delle Dec. n. 3/2012 del Comitato congiunto del 26 giu. 2012 ([RU 2013 81](https://fedlex.data.admin.ch/eli/oc/2013/15)), n. 4/2012 del Comitato congiunto UE-AELS del 26 giu.2012 ([RU 2013 827](https://fedlex.data.admin.ch/eli/oc/2013/173)), n. 1/2013 del Comitato congiunto UE-AELS del 1° lug. 2013 ([RU 2014 293](https://fedlex.data.admin.ch/eli/oc/2014/48)), n. 2/2013 del Comitato misto UE-AELS del 7 nov. 2013 ([RU 2014 3495](https://fedlex.data.admin.ch/eli/oc/2014/609)), n. 2/2015 del Comitato congiunto UE-AELS del 17 giu. 2015 ([RU 2015 5967](https://fedlex.data.admin.ch/eli/oc/2015/924)), n. 4/2015 del Comitato congiunto UE-AELS del 26 nov. 2015 ([RU 2016 535](https://fedlex.data.admin.ch/eli/oc/2016/101)), dall’art. 1 n. 4 a 6 della Dec. n. 1/2016 del Comitato congiunto UE-AELS del 28 apr. 2016 ([RU 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)), dall’art. 1 n. 4 e 5 della Dec. n. 1/2017 del Comitato congiunto EU-EFTA del 5 dic. 2017 ([RU 2018 303](https://fedlex.data.admin.ch/eli/oc/2018/53)), dall’art. 1 n. 3 della Dec. n. 1/2019 Comitato congiunto UE-PTC del 4 dic. 2019 ([RU 2020 3687](https://fedlex.data.admin.ch/eli/oc/2020/670)), dall’art. 1 della dec. n. 2/2018 del Comitato congiunto EU-EFTA del 4 dic. 2018, in vigore dal 1° gen. 2021 ([RU 2021 118](https://fedlex.data.admin.ch/eli/oc/2021/118)) e dall’art. 1 della dec. n. 3/2022 del Comitato congiunto EU-PTC del 29 set. 2022, in vigore per la Svizzera dal 1° ott. 2022 ([RU 2022 297](https://fedlex.data.admin.ch/eli/oc/2022/297)). Giusta l’art. 2 n. 1 di detta dec. i formulari basati sui modelli di cui agli all. da C1 a C6 dell’appendice III della Conv., nella versione applicabile il giorno precedente all’entrata in vigore della presente decisione, possono continuare a essere utilizzati, apportandovi i necessari adattamenti geografici e relativi all’elezione del domicilio o al mandatario autorizzato, fino al 1° apr. 2024.
 
 #### Art. 1
 
@@ -4686,7 +4686,7 @@ Allegato A3 dell’appendice III
 
 ## Modello di documento d’accompagnamento transito
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20220825/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20221001/it/xml/image/image1.png)
 
 Allegato A4 dell’appendice III
 
@@ -4925,6 +4925,8 @@ SI Slovenia
 SK Slovacchia
 
 TR Turchia
+
+UA Ucraina
 
 Casella 53: Ufficio di destinazione (e Paese)
 
@@ -5398,6 +5400,7 @@ Inoltre, quando le merci sono state caricate su un semirimorchio e durante il tr
 <tr><td>IS</td><td>Takmarkað gildissvið</td><td></td></tr>
 <tr><td>NO</td><td>Begrenset gyldighet</td><td></td></tr>
 <tr><td>TR</td><td>Sınırlı Geçerli</td><td></td></tr>
+<tr><td>UA</td><td>Дія обмежена</td><td></td></tr>
 <tr><td>BG</td><td>Освободено</td><td>Dispensa – 99201</td></tr>
 <tr><td>CS</td><td>Osvobození</td><td></td></tr>
 <tr><td>DA</td><td>Fritaget</td><td></td></tr>
@@ -5426,6 +5429,7 @@ Inoltre, quando le merci sono state caricate su un semirimorchio e durante il tr
 <tr><td>IS</td><td>Undanþegið</td><td></td></tr>
 <tr><td>NO</td><td>Fritak</td><td></td></tr>
 <tr><td>TR</td><td>Vazgeçme</td><td></td></tr>
+<tr><td>UA</td><td>Звільнення</td><td></td></tr>
 <tr><td>BG</td><td>Алтернативно доказателство</td><td>Prova alternativa – 99202</td></tr>
 <tr><td>CS</td><td>Alternativní důkaz</td><td></td></tr>
 <tr><td>DA</td><td>Alternativt bevis</td><td></td></tr>
@@ -5454,6 +5458,7 @@ Inoltre, quando le merci sono state caricate su un semirimorchio e durante il tr
 <tr><td>IS</td><td>Önnur sönnun</td><td></td></tr>
 <tr><td>NO</td><td>Alternativt bevis</td><td></td></tr>
 <tr><td>TR</td><td>Alternatif Kanıt</td><td></td></tr>
+<tr><td>UA</td><td>Альтернативне підтвердження</td><td></td></tr>
 <tr><td>BG</td><td>Различия: митническо учреждение, където стоките са представени (наименование и страна)</td><td>Differenze: ufficio doganale al quale sono state presentate le merci … (nome e Paese) – 99203</td></tr>
 <tr><td>CS</td><td>Nesrovnalosti: úřad, kterému bylo zboží předloženo ……… (název a země)</td><td></td></tr>
 <tr><td>DA</td><td>Forskelle: det sted, hvor varerne blev frembudt ……… (navn og land)</td><td></td></tr>
@@ -5483,6 +5488,7 @@ Inoltre, quando le merci sono state caricate su un semirimorchio e durante il tr
 <tr><td>IS</td><td>Breying: tollstjóraskrifstofa þar sem vörum var framvísað ……… (nafn og land)</td><td></td></tr>
 <tr><td>NO</td><td>Forskjell: det tollsted hvor varene ble fremlagt ……… (navn og land)</td><td></td></tr>
 <tr><td>TR</td><td>Değişiklikler: Eşyanın sunulduğu idare…....(adı ve ülkesi)</td><td></td></tr>
+<tr><td>UA</td><td>Розбіжності: митниця, де товари були пред’явлені назва і країна</td><td></td></tr>
 <tr><td>BG CS</td><td>Излизането от ……… подлежи на ограничения или такси съгласно Регламент/Директива/Решение № …, Výstup ze ……… podléhá omezením nebo dávkám podle nařízení/směrnice/ rozhodnutí č …</td><td>Uscita da …… soggetta a restrizioni o a imposizioni a norma del(la) regolamento/direttiva/decisione n. … – 99204</td></tr>
 <tr><td>DA</td><td>Udpassage fra ……… undergivet restriktioner eller afgifter i henhold til forordning/direktiv/afgørelse nr. …</td><td></td></tr>
 <tr><td>DE</td><td>Ausgang aus ……… – gemäss Verordnung/Richtlinie/Beschluss Nr. … Beschränkungen oder Abgaben unterworfen.</td><td></td></tr>
@@ -5510,6 +5516,7 @@ Inoltre, quando le merci sono state caricate su un semirimorchio e durante il tr
 <tr><td>IS</td><td>Útflutningur frá ……… háð takmörkunum eða gjöldum samkvæmt reglugerð/ fyrirmælum/ákvörðun nr. …</td><td></td></tr>
 <tr><td>NO</td><td>Utførsel fra ……… underlagt restriksjoner eller avgifter i henhold til forordning/direktiv/vedtak nr. …</td><td></td></tr>
 <tr><td>TR</td><td>Eşyanın ………'dan çıkışı .…. No.lu Tüzük/Direktif/Karar kapsamında kısıtlamalara veya mali yükümlülüklere tabidir</td><td></td></tr>
+<tr><td>UA</td><td>Вибуття із ............ з урахуванням обмежень та зі сплатою зборів відповідно до Регламенту/Директиви/Рішення № ...</td><td></td></tr>
 <tr><td>BG</td><td>Одобрен изпращач</td><td>Speditore autorizzato – 99206</td></tr>
 <tr><td>CS</td><td>Schválený odesílatel</td><td></td></tr>
 <tr><td>DA</td><td>Godkendt afsender</td><td></td></tr>
@@ -5538,6 +5545,7 @@ Inoltre, quando le merci sono state caricate su un semirimorchio e durante il tr
 <tr><td>IS</td><td>Viðurkenndur sendandi</td><td></td></tr>
 <tr><td>NO</td><td>Autorisert avsender</td><td></td></tr>
 <tr><td>TR</td><td>İzinli Gönderici</td><td></td></tr>
+<tr><td>UA</td><td>Авторизований вантажовідправник</td><td></td></tr>
 <tr><td>BG</td><td>Освободен от подпис</td><td>Dispensa dalla firma – 99207</td></tr>
 <tr><td>CS</td><td>Podpis se nevyžaduje</td><td></td></tr>
 <tr><td>DA</td><td>Fritaget for underskrift</td><td></td></tr>
@@ -5566,6 +5574,7 @@ Inoltre, quando le merci sono state caricate su un semirimorchio e durante il tr
 <tr><td>IS</td><td>Undanþegið undirskrift</td><td></td></tr>
 <tr><td>NO</td><td>Fritatt for underskrift</td><td></td></tr>
 <tr><td>TR</td><td>İmzadan Vazgeçme</td><td></td></tr>
+<tr><td>UA</td><td>Звільнено від підпису</td><td></td></tr>
 <tr><td>BG</td><td>ЗАБРАНЕНО ОБЩО ОБЕЗПЕЧЕНИЕ</td><td>GARANZIA GLOBALE VIETATA – 99208</td></tr>
 <tr><td>CS</td><td>ZÁKAZ GLOBÁLNÍ ZÁRUKY</td><td></td></tr>
 <tr><td>DA</td><td>FORBUD MOD SAMLET KAUTION</td><td></td></tr>
@@ -5594,6 +5603,7 @@ Inoltre, quando le merci sono state caricate su un semirimorchio e durante il tr
 <tr><td>IS</td><td>ALLSHERJARTRYGGING BÖNNUÐ</td><td></td></tr>
 <tr><td>NO</td><td>FORBUD MOT BRUK AV UNIVERSALGARANTI</td><td></td></tr>
 <tr><td>TR</td><td>KAPSAMLI TEMINAT YASAKLANMIŞTIR</td><td></td></tr>
+<tr><td>UA</td><td>ЗАГАЛЬНА ГАРАНТІЯ ЗАБОРОНЕНА</td><td></td></tr>
 <tr><td>BG</td><td>ИЗПОЛЗВАНЕ БЕЗ ОГРАНИЧЕНИЯ</td><td>UTILIZZAZIONE NON LIMITATA – 99209</td></tr>
 <tr><td>CS</td><td>NEOMEZENÉ POUŽITÍ</td><td></td></tr>
 <tr><td>DA</td><td>UBEGRÆNSET ANVENDELSE</td><td></td></tr>
@@ -5622,6 +5632,7 @@ Inoltre, quando le merci sono state caricate su un semirimorchio e durante il tr
 <tr><td>IS</td><td>ÓTAKMÖRKUÐ NOTKUN</td><td></td></tr>
 <tr><td>NO</td><td>UBEGRENSET BRUK</td><td></td></tr>
 <tr><td>TR</td><td>KISITLANMAMIŞ KULLANIM</td><td></td></tr>
+<tr><td>UA</td><td>ВИКОРИСТАННЯ БЕЗ ОБМЕЖЕНЬ</td><td></td></tr>
 <tr><td>BG</td><td>Издаден впоследствие</td><td>Rilasciato a posteriori – 99210</td></tr>
 <tr><td>CS</td><td>Vystaveno dodatečně</td><td></td></tr>
 <tr><td>DA</td><td>Udstedt efterfølgende</td><td></td></tr>
@@ -5650,6 +5661,7 @@ Inoltre, quando le merci sono state caricate su un semirimorchio e durante il tr
 <tr><td>IS</td><td>Útgefið eftir á</td><td></td></tr>
 <tr><td>NO</td><td>Utstedt i etterhånd</td><td></td></tr>
 <tr><td>TR</td><td>Sonradan Düzenlenmiştir</td><td></td></tr>
+<tr><td>UA</td><td>Видано згодом</td><td></td></tr>
 <tr><td>BG</td><td>Разни</td><td>Vari – 99211</td></tr>
 <tr><td>CS</td><td>Různí</td><td></td></tr>
 <tr><td>DA</td><td>Diverse</td><td></td></tr>
@@ -5678,6 +5690,7 @@ Inoltre, quando le merci sono state caricate su un semirimorchio e durante il tr
 <tr><td>IS</td><td>Ýmis</td><td></td></tr>
 <tr><td>NO</td><td>Diverse</td><td></td></tr>
 <tr><td>TR</td><td>Çeşitli</td><td></td></tr>
+<tr><td>UA</td><td>Різне</td><td></td></tr>
 <tr><td>BG</td><td>Насипно</td><td>Alla rinfusa – 99212</td></tr>
 <tr><td>CS</td><td>Volnĕ loženo</td><td></td></tr>
 <tr><td>DA</td><td>Bulk</td><td></td></tr>
@@ -5706,6 +5719,7 @@ Inoltre, quando le merci sono state caricate su un semirimorchio e durante il tr
 <tr><td>IS</td><td>Vara í lausu</td><td></td></tr>
 <tr><td>NO</td><td>Bulk</td><td></td></tr>
 <tr><td>TR</td><td>Dökme</td><td></td></tr>
+<tr><td>UA</td><td>Навалювальний вантаж</td><td></td></tr>
 <tr><td>BG</td><td>Изпращач</td><td>Speditore – 99213</td></tr>
 <tr><td>CS</td><td>Odesílatel</td><td></td></tr>
 <tr><td>DA</td><td>Afsender</td><td></td></tr>
@@ -5734,6 +5748,7 @@ Inoltre, quando le merci sono state caricate su un semirimorchio e durante il tr
 <tr><td>IS</td><td>Sendandi</td><td></td></tr>
 <tr><td>NO</td><td>Avsender</td><td></td></tr>
 <tr><td>TR</td><td>Gönderici</td><td></td></tr>
+<tr><td>UA</td><td>Вантажовідправник</td><td></td></tr>
 </table>
 
 ### Titolo IV: Osservazioni relative ai formulari complementari
@@ -5788,7 +5803,7 @@ Allegato B9 dell’appendice III
 
 ## Modello di timbro speciale utilizzato da uno speditore autorizzato
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20220825/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20221001/it/xml/image/image2.png)
 
 - 1\. Stemma o altri simboli o lettere che caratterizzano il Paese
 - 2\. Numero di riferimento dell’ufficio doganale di partenza
@@ -5802,7 +5817,7 @@ Allegato B10 dell’appendice III
 ## TC 11 – RICEVUTA
 
 <table>
-<tr><td>TC 11 – RICEVUTA L’ufficio doganale di destinazione di ……………… (luogo, nome e numero di riferimento) certifica che la dichiarazione di transito T1, T2, T2F<sup>(1)</sup> registrata il …………………… (gg/mm/aa) con il n. ………………… (MRN<sup>(2)</sup>) dall’ufficio doganale di partenza di ………………………… (luogo, nome e numero di riferimento) gli è stata consegnata. ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20220825/it/xml/image/image3.png) Fatto a ……………, il …………… (gg/mm/aa) …………………………………………………… (firma) <sup>(1)</sup> Cancellare le diciture che non interessano. <sup>(2)</sup> In caso di malfunzionamento temporaneo del sistema di transito elettronico introdurre un numero utilizzato nel BCP.</td></tr>
+<tr><td>TC 11 – RICEVUTA L’ufficio doganale di destinazione di ……………… (luogo, nome e numero di riferimento) certifica che la dichiarazione di transito T1, T2, T2F<sup>(1)</sup> registrata il …………………… (gg/mm/aa) con il n. ………………… (MRN<sup>(2)</sup>) dall’ufficio doganale di partenza di ………………………… (luogo, nome e numero di riferimento) gli è stata consegnata. ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20221001/it/xml/image/image3.png) Fatto a ……………, il …………… (gg/mm/aa) …………………………………………………… (firma) <sup>(1)</sup> Cancellare le diciture che non interessano. <sup>(2)</sup> In caso di malfunzionamento temporaneo del sistema di transito elettronico introdurre un numero utilizzato nel BCP.</td></tr>
 </table>
 
 Allegato B11 dell’appendice III
@@ -5811,7 +5826,7 @@ Allegato B11 dell’appendice III
 
 (transito per ferrovia)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20220825/it/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20221001/it/xml/image/image4.png)
 
 Allegato C1 dell’appendice III
 
@@ -5819,17 +5834,17 @@ Allegato C1 dell’appendice III
 
 ### I. Impegno del fideiussore
 
-\1. IL(la) sottoscritto(a) (1)
+\1. Il(la) sottoscritto(a)<sup>1</sup>
 
-residente a (2)
+residente a<sup>2</sup>
 
 si costituisce fideiussore in solido, presso l’ufficio di garanzia di
 
 a concorrenza di un importo massimo di
 
-nei confronti dell’Unione europea (costituita dal Regno del Belgio, dalla Repubblica di Bulgaria, dalla Repubblica ceca, dal Regno di Danimarca, dalla Repubblica federale di Germania, dalla Repubblica di Estonia, dalla Repubblica ellenica, dalla Repubblica di Croazia, dal Regno di Spagna, dalla Repubblica francese, dall’Irlanda, dalla Repubblica italiana, dalla Repubblica di Cipro, dalla Repubblica di Lettonia, dalla Repubblica di Lituania, dal Granducato di Lussemburgo, dall’Ungheria, dalla Repubblica di Malta, dal Regno dei Paesi Bassi, dalla Repubblica d’Austria, dalla Repubblica di Polonia, dalla Repubblica portoghese, dalla Romania, dalla Repubblica di Slovenia, dalla Repubblica slovacca, dalla Repubblica di Finlandia, dal Regno di Svezia) nonché nei confronti della Repubblica d’Islanda, dell’ex Repubblica iugoslava di Macedonia, del Regno di Norvegia, della Repubblica di Serbia, della Confederazione Svizzera, della Repubblica di Turchia, del Regno Unito di Gran Bretagna e Irlanda del Nord (3), del Principato di Andorra e della Repubblica di San Marino (4), per tutte le somme di cui il soggetto che costituisce la presente garanzia (5)
+nei confronti dell’Unione europea costituita dal Regno del Belgio, dalla Repubblica di Bulgaria, dalla Repubblica Ceca, dal Regno di Danimarca, dalla Repubblica federale di Germania, dalla Repubblica di Estonia, dalla Repubblica Ellenica, dalla Repubblica di Croazia, dal Regno di Spagna, dalla Repubblica Francese, dall’Irlanda, dalla Repubblica Italiana, dalla Repubblica di Cipro, dalla Repubblica di Lettonia, dalla Repubblica di Lituania, dal Granducato di Lussemburgo, dall’Ungheria, dalla Repubblica di Malta, dal Regno dei Paesi Bassi, dalla Repubblica d’Austria, dalla Repubblica di Polonia, dalla Repubblica Portoghese, dalla Romania, dalla Repubblica di Slovenia, dalla Repubblica Slovacca, dalla Repubblica di Finlandia, dal Regno di Svezia nonché nei confronti della Repubblica d’Islanda, della Repubblica della Macedonia del Nord, del Regno di Norvegia, della Repubblica di Serbia, della Confederazione Svizzera, della Repubblica di Turchia, dell’Ucraina, del Regno Unito di Gran Bretagna e Irlanda del Nord<sup>3</sup> <sup>4</sup>, del Principato di Andorra e della Repubblica di San Marino<sup>5</sup>, per tutte le somme di cui il soggetto che costituisce la presente garanzia<sup>6</sup>:
 
-è o diventi debitore nei confronti di detti paesi a titolo di dazi e altri diritti e tributi dovuti (6), con riguardo alle merci descritte di seguito oggetto della seguente operazione doganale (7):
+è o diventi debitore nei confronti di detti Paesi a titolo di dazi<sup>7</sup> e altri diritti e tributi dovuti<sup>7</sup>, con riguardo alle merci descritte di seguito oggetto dell’operazione doganale<sup>8</sup> seguente:
 
 Descrizione delle merci:
 
@@ -5839,10 +5854,10 @@ Le autorità competenti possono, a richiesta del(della) sottoscritto(a) e per og
 
 \3. Il presente impegno è valido a decorrere dal giorno in cui esso è accettato dall’ufficio di garanzia. Il(la) sottoscritto(a) è responsabile del pagamento dell’obbligazione sorta in occasione dell’operazione doganale coperta dal presente impegno, che abbia avuto inizio anteriormente alla data di efficacia della revoca o risoluzione dell’atto costitutivo della garanzia, anche in caso di richiesta di pagamento successiva.
 
-\4. Ai fini del presente impegno, il(la) sottoscritto(a) elegge il proprio domicilio in ciascuno degli altri Stati di cui al punto 1, presso (8):
+\4. Ai fini del presente impegno, il(la) sottoscritto(a) elegge il proprio domicilio<sup>9</sup> in ciascuno degli altri Stati di cui al punto 1, presso:
 
 <table>
-<tr><td>Paese</td><td>Cognome e nome, o ragione sociale, e indirizzo completo</td></tr>
+<tr><th>Paese</th><th>Cognome e nome, o ragione sociale, e indirizzo completo</th></tr>
 </table>
 
 Il(la) sottoscritto(a) riconosce che qualsiasi comunicazione o notifica e, più generalmente, qualsiasi formalità o procedura relative al presente impegno, indirizzate o compiute per iscritto presso uno dei domicili eletti, saranno accettate e a lui(lei) debitamente comunicate.
@@ -5851,27 +5866,28 @@ Il(la) sottoscritto(a) riconosce la competenza del giudice dei luoghi in cui ha 
 
 Il(la) sottoscritto(a) s’impegna a mantenere le elezioni di domicilio o, se indotto(a) a modificare uno o più domicili eletti, a informare preventivamente l’ufficio di garanzia.
 
-Fatto a , il
+(Fatto) a il
 
-(Firma) (9)
+(Firma)<sup>10</sup>
 
 ### II. Accettazione dell’ufficio di garanzia
 
 Ufficio di garanzia di
 
-Impegno del fideiussore accettato il a copertura dell’operazione doganale che ha dato luogo alla dichiarazione doganale/dichiarazione di custodia temporanea n. del (10)
+Impegno del fideiussore accettato il .................. a copertura dell’operazione doganale che ha dato luogo alla dichiarazione doganale/dichiarazione di custodia temporanea n. .................................... del ...........................<sup>11</sup>
 
-(Timbro e firma)
+(Timbro e firma)»
 
-- (1) Cognome e nome o ragione sociale.
-- (2) Indirizzo completo.
-- (3) Cancellare il nome dello Stato (i nomi degli Stati) sul cui territorio la garanzia non può essere utilizzata.
-- (4) I riferimenti al Principato di Andorra e alla Repubblica di San Marino riguardano soltanto le operazioni di transito unionale.
-- (5) Cognome e nome, o ragione sociale, e indirizzo completo della persona che presta la garanzia.
-- (6) Applicabile con riguardo alle altre imposizioni dovute connesse all’importazione o all’esportazione delle merci quando la garanzia è utilizzata ai fini del vincolo delle merci al regime di transito unionale/comune o può essere utilizzata in più di uno Stato membro.
-- (7)
+- 1 Cognome e nome, o ragione sociale.
+- 2 Indirizzo completo.
+- 3 Ai sensi del Protocollo su Irlanda/Irlanda del Nord dell’accordo sul recesso del Regno Unito di Gran Bretagna e Irlanda del Nord dall’Unione europea e dalla Comunità europea dell’energia atomica, l’Irlanda del Nord deve essere considerata Parte dell’Unione europea ai fini della presente garanzia. Pertanto, un fideiussore stabilito nel territorio doganale dell’Unione europea elegge un domicilio o designa un mandatario in Irlanda del Nord se la garanzia può essere ivi utilizzata. Tuttavia, qualora una garanzia nell’ambito del transito comune sia valida nell’Unione europea e nel Regno Unito, un singolo domicilio o un mandatario nominato nel Regno Unito può coprire tutte le parti del Regno Unito, inclusa l’Irlanda del Nord.
+- 4 Cancellare il nome dello Stato (i nomi degli Stati) sul cui territorio la garanzia non può essere utilizzata.
+- 5 I riferimenti al Principato di Andorra e alla Repubblica di San Marino riguardano soltanto le operazioni di transito unionale.
+- 6 Cognome e nome, o ragione sociale, e indirizzo completo della persona che presta la garanzia.
+- 7 Applicabile con riguardo alle altre imposizioni dovute connesse all’importazione o all’esportazione delle merci quando la garanzia è utilizzata ai fini del vincolo delle merci al regime di transito unionale/comune o può essere utilizzata in più di uno Stato membro.
+- 8
 
-  Inserire una o più delle seguenti operazioni doganali:
+  Inserire una o più delle operazioni doganali seguenti:
 
   - a) custodia temporanea;
   - b) regime di transito unionale/regime di transito comune;
@@ -5880,15 +5896,15 @@ Impegno del fideiussore accettato il a copertura dell’operazione doganale che 
   - e) regime di perfezionamento attivo;
   - f) regime di uso finale;
   - g) immissione in libera pratica nell’ambito di una normale dichiarazione in dogana senza dilazione di pagamento;
-  - h) immissione in libera pratica nell’ambito di una normale dichiarazione in dogana con dilazione di pagamento;
-  - i) immissione in libera pratica nell’ambito di una dichiarazione in dogana presentata a norma dell’articolo 166 del regolamento (UE) n. 952/2013 del Parlamento europeo e del Consiglio, del 9 ottobre 2013, che istituisce il codice doganale dell’Unione (GU L 269 del 10.10.2013, pag. 1);
-  - j) immissione in libera pratica nell’ambito di una dichiarazione in dogana presentata a norma dell’articolo 182 del regolamento (UE) n. 952/2013;
+  - h) immissione in libera pratica nell’ambito di una dichiarazione doganale normale con dilazione di pagamento;
+  - i) immissione in libera pratica nell’ambito di una dichiarazione in dogana presentata a norma dell’articolo 166 del regolamento UE n. 952/2013 del Parlamento europeo e del Consiglio, del 9 ottobre 2013, che istituisce il codice doganale dell’Unione;
+  - j) immissione in libera pratica nell’ambito di una dichiarazione in dogana presentata a norma dell’articolo 182 del regolamento UE n. 952/2013 del Parlamento europeo e del Consiglio, del 9 ottobre 2013, che istituisce il codice doganale dell’Unione;
   - k) regime di ammissione temporanea con parziale esonero dai dazi all’importazione;
   - l) se diversa dalle precedenti, indicare il tipo di operazione.
 
-- (8) Ove la possibilità di eleggere domicilio non sia prevista dalla legislazione di uno di tali paesi, il fideiussore designa, in questo paese, un mandatario autorizzato a ricevere ogni comunicazione a lui(lei) destinata e gli impegni previsti al punto 4, secondo e quarto paragrafo, devono essere stipulati mutatis mutandis. I giudici del luogo di domicilio del fideiussore e dei mandatari sono competenti a conoscere delle vertenze inerenti alla presente garanzia.
-- (9) Il firmatario deve far precedere la propria firma dalla seguente menzione manoscritta: «Buono a titolo di garanzia per l’importo di ...», indicando l’importo in lettere.
-- (10) Deve essere compilato dall’ufficio in cui le merci sono state vincolate al regime o erano in custodia temporanea.
+- 9 Ove la possibilità di eleggere domicilio non sia prevista dalla legislazione di uno di tali Paesi, il fideiussore designa, in tale Paese, un mandatario autorizzato a ricevere ogni comunicazione a lui(lei) destinata e gli impegni previsti al punto 4, secondo e quarto comma, devono essere stipulati mutatis mutandis. I giudici del luogo di domicilio del fideiussore o dei suoi mandatari sono competenti a conoscere delle vertenze inerenti alla presente garanzia.
+- 0 Il firmatario deve far precedere la propria firma dalla menzione manoscritta seguente: «Buono a titolo di garanzia per l’importo di...», indicando l’importo in lettere.
+- 1 Deve essere compilato dall’ufficio in cui le merci sono state vincolate al regime o erano in custodia temporanea.
 
 Allegato C2 dell’appendice III
 
@@ -5896,24 +5912,24 @@ Allegato C2 dell’appendice III
 
 ### I. Impegno del fideiussore
 
-\1. Il(la) sottoscritto(a) (1)
+\1. Il(la) sottoscritto(a)<sup>1</sup>
 
-residente a (2)
+residente a<sup>2</sup>
 
 si costituisce fideiussore in solido, presso l’ufficio di garanzia di
 
-nei confronti dell’Unione europea (costituita dal Regno del Belgio, dalla Repubblica di Bulgaria, dalla Repubblica ceca, dal Regno di Danimarca, dalla Repubblica federale di Germania, dalla Repubblica di Estonia, dalla Repubblica ellenica, dalla Repubblica di Croazia, dal Regno di Spagna, dalla Repubblica francese, dall’Irlanda, dalla Repubblica italiana, dalla Repubblica di Cipro, dalla Repubblica di Lettonia, dalla Repubblica di Lituania, dal Granducato di Lussemburgo, dall’Ungheria, dalla Repubblica di Malta, dal Regno dei Paesi Bassi, dalla Repubblica d’Austria, dalla Repubblica di Polonia, dalla Repubblica portoghese, dalla Romania, dalla Repubblica di Slovenia, dalla Repubblica slovacca, dalla Repubblica di Finlandia, dal Regno di Svezia), nonché nei confronti della Repubblica d’Islanda, dell’ex Repubblica iugoslava di Macedonia, del Regno di Norvegia, della Repubblica di Serbia, della Confederazione Svizzera, della Repubblica di Turchia, del Regno Unito di Gran Bretagna e Irlanda del Nord, del Principato di Andorra e della Repubblica di San Marino (3) per tutte le somme di cui un titolare del regime è o diventi debitore nei confronti di detti paesi a titolo di dazi e altri diritti e tributi dovuti in relazione all’importazione o all’esportazione delle merci vincolate al regime di transito comune/unionale, per i quali il(la) sottoscritto(a) ha accettato di impegnare la propria responsabilità mediante il rilascio di certificati di garanzia isolata a concorrenza di un importo massimo di 10 000 EUR per certificato.
+nei confronti dell’Unione europea costituita dal Regno del Belgio, dalla Repubblica di Bulgaria, dalla Repubblica Ceca, dal Regno di Danimarca, dalla Repubblica federale di Germania, dalla Repubblica di Estonia, dalla Repubblica Ellenica, dalla Repubblica di Croazia, dal Regno di Spagna, dalla Repubblica Francese, dall’Irlanda, dalla Repubblica Italiana, dalla Repubblica di Cipro, dalla Repubblica di Lettonia, dalla Repubblica di Lituania, dal Granducato di Lussemburgo, dall’Ungheria, dalla Repubblica di Malta, dal Regno dei Paesi Bassi, dalla Repubblica d’Austria, dalla Repubblica di Polonia, dalla Repubblica Portoghese, dalla Romania, dalla Repubblica di Slovenia, dalla Repubblica Slovacca, dalla Repubblica di Finlandia, dal Regno di Svezia, nonché nei confronti della Repubblica d’Islanda, della Repubblica di Macedonia del Nord, del Regno di Norvegia, della Repubblica di Serbia, della Confederazione Svizzera, della Repubblica di Turchia, dell’Ucraina, del Regno Unito di Gran Bretagna e Irlanda del Nord<sup>3</sup>, del Principato di Andorra e della Repubblica di San Marino<sup>4</sup> per tutte le somme di cui un titolare del regime è o diventi debitore nei confronti di detti Paesi a titolo di dazi e altri diritti e tributi dovuti in relazione all’importazione o all’esportazione delle merci vincolate al regime di transito comune/unionale, per i quali il(la) sottoscritto(a) ha accettato di impegnare la propria responsabilità mediante il rilascio di certificati di garanzia isolata a concorrenza di un importo massimo di 10 000 EUR per certificato.
 
-\2. Il(la) sottoscritto(a) si impegna ad effettuare, alla prima richiesta scritta delle autorità competenti dei paesi di cui al punto 1, il pagamento delle somme richieste, fino a concorrenza di 10 000 EUR per certificato di garanzia isolata e senza poterlo differire oltre il termine di trenta giorni dalla data della richiesta, a meno che il(la) sottoscritto(a) o ogni altra persona interessata non provi, prima della scadenza di tale termine, con soddisfazione delle autorità competenti, che l’operazione è stata appurata.
+\2. Il(la) sottoscritto(a) si impegna ad effettuare, alla prima richiesta scritta delle autorità competenti dei Paesi di cui al punto 1, il pagamento delle somme richieste, fino a concorrenza di 10 000 EUR per certificato di garanzia isolata e senza poterlo differire oltre il termine di trenta giorni dalla data della richiesta, a meno che il(la) sottoscritto(a) o ogni altra persona interessata non provi, prima della scadenza di tale termine, con soddisfazione delle autorità competenti, che l’operazione è stata appurata.
 
 Le autorità competenti possono, a richiesta del(della) sottoscritto(a) e per ogni ragione ritenuta valida, prorogare oltre il termine di trenta giorni dalla data della richiesta di pagamento il termine entro il quale il(la) sottoscritto(a) è tenuto(a) a effettuare il pagamento delle somme richieste. Le spese risultanti dalla concessione di tale termine supplementare, e in particolare gli interessi, devono essere calcolati in modo che il loro importo sia equivalente a quello che sarebbe richiesto a tal fine sul mercato monetario o finanziario nazionale.
 
 \3. Il presente impegno è valido a decorrere dal giorno in cui esso è accettato dall’ufficio di garanzia. Il(la) sottoscritto(a) è responsabile del pagamento dell’obbligazione sorta in occasione dell’operazione di transito comune/unionale, coperta dal presente impegno, che abbia avuto inizio anteriormente alla data di efficacia della revoca o risoluzione dell’atto costitutivo della garanzia, anche in caso di richiesta di pagamento successiva.
 
-\4. Ai fini del presente impegno, il(la) sottoscritto(a) elegge il proprio domicilio (4) in ciascuno degli altri Stati di cui al punto 1, presso:
+\4. Ai fini del presente impegno, il(la) sottoscritto(a) elegge il proprio domicilio<sup>5</sup> in ciascuno degli altri Stati di cui al punto 1, presso:
 
 <table>
-<tr><td>Paese</td><td>Cognome e nome, o ragione sociale, e indirizzo completo</td></tr>
+<tr><th>Paese</th><th>Cognome e nome, o ragione sociale, e indirizzo completo</th></tr>
 </table>
 
 Il(la) sottoscritto(a) riconosce che qualsiasi comunicazione o notifica e, più generalmente, qualsiasi formalità o procedura relative al presente impegno, indirizzate o compiute per iscritto presso uno dei domicili eletti, saranno accettate e a lui(lei) debitamente comunicate.
@@ -5922,9 +5938,9 @@ Il(la) sottoscritto(a) riconosce la competenza del giudice dei luoghi in cui ha 
 
 Il(la) sottoscritto(a) s’impegna a mantenere le elezioni di domicilio o, se indotto(a) a modificare uno o più domicili eletti, a informare preventivamente l’ufficio di garanzia.
 
-Fatto a , il
+Fatto a il
 
-(Firma) (5)
+(Firma)<sup>6</sup>
 
 ### II. Accettazione dell’ufficio di garanzia
 
@@ -5932,13 +5948,14 @@ Ufficio di garanzia di
 
 Impegno del fideiussore accettato il
 
-(Timbro e firma)
+(Timbro e firma)»
 
-- (1) Cognome e nome o ragione sociale.
-- (2) Indirizzo completo.
-- (3) I riferimenti al Principato di Andorra e alla Repubblica di San Marino riguardano soltanto le operazioni di transito unionale.
-- (4) Ove la possibilità di eleggere domicilio non sia prevista dalla legislazione di uno di tali paesi, il fideiussore designa, in questo paese, un mandatario autorizzato a ricevere ogni comunicazione a lui(lei) destinata e gli impegni previsti al punto 4, secondo e quarto paragrafo, devono essere stipulati mutatis mutandis. I giudici del luogo di domicilio del fideiussore e dei mandatari sono competenti a conoscere delle vertenze inerenti alla presente garanzia.
-- (5) Il firmatario deve far precedere la propria firma dalla seguente menzione manoscritta: «Buono a titolo di garanzia».
+- Cognome e nome o ragione sociale.
+- 2 Indirizzo completo.
+- 3 Ai sensi del Protocollo su Irlanda/Irlanda del Nord dell’accordo sul recesso del Regno Unito di Gran Bretagna e Irlanda del Nord dall’Unione europea e dalla Comunità europea dell’energia atomica, l’Irlanda del Nord deve essere considerata Parte dell’Unione europea ai fini della presente garanzia. Pertanto, un fideiussore stabilito nel territorio doganale dell’Unione europea elegge un domicilio o designa un mandatario in Irlanda del Nord se la garanzia può essere ivi utilizzata. Tuttavia, qualora una garanzia nell’ambito del transito comune sia valida nell’Unione europea e nel Regno Unito, un singolo domicilio o un mandatario nominato nel Regno Unito può coprire tutte le parti del Regno Unito, inclusa l’Irlanda del Nord.
+- 4 I riferimenti al Principato di Andorra e alla Repubblica di San Marino riguardano soltanto le operazioni di transito unionale.
+- 5 Ove la possibilità di eleggere domicilio non sia prevista dalla legislazione di uno di tali Paesi, il fideiussore designa, in questo Paese, un mandatario autorizzato a ricevere ogni comunicazione a lui(lei) destinata e gli impegni previsti al punto 4, secondo e quarto comma, devono essere stipulati mutatis mutandis. I giudici del luogo di domicilio del fideiussore o dei suoi mandatari sono competenti a conoscere delle vertenze inerenti alla presente garanzia.
+- 6 Il firmatario deve far precedere la propria firma dalla menzione manoscritta seguente: «Buono a titolo di garanzia».
 
 Allegato C3 dell’appendice III
 
@@ -5946,11 +5963,11 @@ Allegato C3 dell’appendice III
 
 *(recto)*
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20220825/it/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20221001/it/xml/image/image5.png)
 
 *(verso)*
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20220825/it/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20221001/it/xml/image/image6.png)
 
 Requisiti tecnici applicabili ai certificati
 
@@ -5966,43 +5983,43 @@ Allegato C4 dell’appendice III
 
 ### I. Impegno del fideiussore
 
-\1. Il(la) sottoscritto(a) (1)
+\1. Il(la) sottoscritto(a)<sup>1</sup>
 
-residente a (2)
+residente a<sup>2</sup>
 
 si costituisce fideiussore in solido, presso l’ufficio di garanzia di
 
 a concorrenza di un importo massimo di
 
-nei confronti dell’Unione europea (costituita dal Regno del Belgio, dalla Repubblica di Bulgaria, dalla Repubblica ceca, dal Regno di Danimarca, dalla Repubblica federale di Germania, dalla Repubblica di Estonia, dall’Irlanda, dalla Repubblica ellenica, dalla Repubblica di Croazia, dal Regno di Spagna, dalla Repubblica francese, dalla Repubblica italiana, dalla Repubblica di Cipro, dalla Repubblica di Lettonia, dalla Repubblica di Lituania, dal Granducato di Lussemburgo, dall’Ungheria, dalla Repubblica di Malta, dal Regno dei Paesi Bassi, dalla Repubblica d’Austria, dalla Repubblica di Polonia, dalla Repubblica portoghese, dalla Romania, dalla Repubblica di Slovenia, dalla Repubblica slovacca, dalla Repubblica di Finlandia, dal Regno di Svezia), nonché nei confronti della Repubblica d’Islanda, dell’ex Repubblica iugoslava di Macedonia, del Regno di Norvegia, della Repubblica di Serbia, della Confederazione Svizzera, della Repubblica di Turchia, del Regno Unito di Gran Bretagna e Irlanda del Nord (3), del Principato di Andorra e della Repubblica di San Marino (4), per tutte le somme di cui il soggetto che costituisce la presente garanzia (5)
+nei confronti dell’Unione europea costituita dal Regno del Belgio, dalla Repubblica di Bulgaria, dalla Repubblica Ceca, dal Regno di Danimarca, dalla Repubblica federale di Germania, dalla Repubblica di Estonia, dall’Irlanda, dalla Repubblica Ellenica, dalla Repubblica di Croazia, dal Regno di Spagna, dalla Repubblica Francese, dalla Repubblica Italiana, dalla Repubblica di Cipro, dalla Repubblica di Lettonia, dalla Repubblica di Lituania, dal Granducato di Lussemburgo, dall’Ungheria, dalla Repubblica di Malta, dal Regno dei Paesi Bassi, dalla Repubblica d’Austria, dalla Repubblica di Polonia, dalla Repubblica portoghese, dalla Romania, dalla Repubblica di Slovenia, dalla Repubblica Slovacca, dalla Repubblica di Finlandia, dal Regno di Svezia, nonché nei confronti della Repubblica d’Islanda, della Repubblica della Macedonia del Nord, del Regno di Norvegia, della Repubblica di Serbia, della Confederazione Svizzera, della Repubblica di Turchia, dell’Ucraina, del Regno Unito di Gran Bretagna e Irlanda del Nord<sup>3</sup>, del Principato di Andorra e della Repubblica di San Marino<sup>4</sup>, per tutte le somme di cui il soggetto che costituisce la presente garanzia<sup>5</sup>
 
-è o diventi debitore nei confronti di detti paesi a titolo di dazi e altri diritti e tributi dovuti (6) che potrebbero sorgere o sono sorti con riguardo alle merci oggetto delle operazioni doganali descritte al punto 1bis e/o al punto 1ter.
+è o diventi debitore nei confronti di detti Paesi a titolo di dazi e altri diritti e tributi dovuti<sup>6</sup> che potrebbero sorgere o sono sorti con riguardo alle merci oggetto delle operazioni doganali descritte al punto 1 *bis* e/o al punto 1*<sup>ter</sup>*.
 
 L’importo massimo della garanzia comprende un importo di
 
-- a) che rappresenta il 100/50/30 % (7) della quota dell’importo di riferimento corrispondente a un importo di obbligazioni doganali e altre spese che potrebbero sorgere, pari alla somma degli importi di cui al punto 1bis,
-- nonché
-- b) che rappresenta il 100/30 % (7) della quota dell’importo di riferimento corrispondente a un importo di obbligazioni doganali e altre spese sorte, pari alla somma degli importi di cui al punto 1ter*.*
+- a) che rappresenta il 100/50/30 %<sup>7</sup> della quota dell’importo di riferimento corrispondente a un importo di obbligazioni doganali e altre spese che potrebbero sorgere, pari alla somma degli importi di cui al punto 1*<sup>bis</sup>*,
+- e
+- b) che rappresenta il 100/30 %<sup>7</sup> della quota dell’importo di riferimento corrispondente a un importo di obbligazioni doganali e altri oneri insorti, pari alla somma degli importi di cui al punto 1*<sup>ter</sup>*.
 
-1bis. Gli importi che costituiscono la quota dell’importo di riferimento corrispondente a un importo di obbligazioni doganali e, ove del caso, altre spese che potrebbero sorgere sono i seguenti per ciascuna delle finalità di seguito elencate (8):
+1*<sup>bis</sup>*. Gli importi che costituiscono la quota dell’importo di riferimento corrispondente a un importo di obbligazioni doganali e, ove del caso, altri oneri che potrebbero insorgere sono i seguenti per ciascuna delle finalità di seguito elencate<sup>8</sup>:
 
-- a) custodia temporanea – ...;
-- b) regime di transito unionale/regime di transito comune – ...;
-- c) regime di deposito doganale – ...;
-- d) regime di ammissione temporanea con esonero totale dai dazi all’importazione – ...;
-- e) regime di perfezionamento attivo – ...;
-- f) regime di uso finale – ...;
-- g) se diversa dalle precedenti, indicare il tipo di operazione – ....
+- a) custodia temporanea – ... ;
+- b) regime di transito unionale/regime di transito comune – ... ;
+- c) regime di deposito doganale – ... ;
+- d) regime di ammissione temporanea con esonero totale dai dazi all’importazione – ... ;
+- e) regime di perfezionamento attivo – ... ;
+- f) regime di uso finale – ... ;
+- g) se diversa dalle precedenti, indicare il tipo di operazione – ... .
 
-1ter. Gli importi che costituiscono la quota dell’importo di riferimento corrispondente a un importo di obbligazioni doganali e, ove del caso, altre spese insorte sono i seguenti per ciascuna delle finalità di seguito elencate (8):
+1*<sup>ter</sup>*. Gli importi che costituiscono la quota dell’importo di riferimento corrispondente a un importo di obbligazioni doganali e, ove del caso, altre spese insorte sono i seguenti per ciascuna delle finalità di seguito elencate<sup>8</sup>:
 
-- a) immissione in libera pratica nell’ambito di una normale dichiarazione in dogana senza dilazione di pagamento – ...;
-- b) immissione in libera pratica nell’ambito di una normale dichiarazione in dogana con dilazione di pagamento – ...;
-- c) immissione in libera pratica nell’ambito di una dichiarazione in dogana presentata a norma dell’articolo 166 del regolamento (UE) n. 952/2013 del Parlamento europeo e del Consiglio, del 9 ottobre 2013, che istituisce il codice doganale dell’Unione – ...;
-- d) immissione in libera pratica nell’ambito di una dichiarazione in dogana presentata a norma dell’articolo 182 del regolamento (UE) n. 952/2013 del Parlamento europeo e del Consiglio, del 9 ottobre 2013, che istituisce il codice doganale dell’Unione – ...;
-- e) regime di ammissione temporanea con esonero parziale dai dazi all’importazione – ...;
-- f) regime di uso finale – ... (9),
-- g) se diversa dalle precedenti, indicare il tipo di operazione – ....
+- a) immissione in libera pratica nell’ambito di una normale dichiarazione in dogana senza dilazione di pagamento – ... ;
+- b) immissione in libera pratica nell’ambito di una normale dichiarazione in dogana con dilazione di pagamento – ... ;
+- c) immissione in libera pratica nell’ambito di una dichiarazione in dogana presentata a norma dell’articolo 166 del regolamento UE n. 952/2013 del Parlamento europeo e del Consiglio, del 9 ottobre 2013, che istituisce il codice doganale dell’Unione – ... ;
+- d) immissione in libera pratica nell’ambito di una dichiarazione in dogana presentata a norma dell’articolo 182 del regolamento UE n. 952/2013 del Parlamento europeo e del Consiglio, del 9 ottobre 2013, che istituisce il codice doganale dell’Unione – ... ;
+- e) regime di ammissione temporanea con esonero parziale dai dazi all’importazione – ... ;
+- f) regime di uso finale – ... <sup>9</sup>;
+- g) se diversa dalle precedenti, indicare il tipo di operazione – ... .
 
 \2. Il(la) sottoscritto(a) si impegna a effettuare, alla prima richiesta scritta delle autorità competenti degli Stati di cui al punto 1, il pagamento delle somme richieste senza poterlo differire oltre il termine di trenta giorni dalla data della richiesta, fino al limite dell’importo massimo sopra indicato, a meno che il(la) sottoscritto(a) o ogni altra persona interessata non provi, prima della scadenza di tale termine, con soddisfazione delle autorità doganali, che il regime speciale diverso dal regime di uso finale è stato appurato, che la vigilanza doganale sulle merci in regime di uso finale o la custodia temporanea si sono concluse correttamente o, nel caso delle operazioni diverse dai regimi speciali, che la situazione delle merci è stata regolarizzata.
 
@@ -6012,10 +6029,10 @@ Tale importo può essere diminuito delle somme già pagate in virtù del present
 
 \3. Il presente impegno è valido a decorrere dal giorno in cui esso è accettato dall’ufficio di garanzia. Il(la) sottoscritto(a) è responsabile del pagamento dell’obbligazione sorta in occasione dell’operazione doganale coperta dal presente impegno, che abbia avuto inizio anteriormente alla data di efficacia della revoca o risoluzione dell’atto costitutivo della garanzia, anche in caso di richiesta di pagamento successiva.
 
-\4. Ai fini del presente impegno, il(la) sottoscritto(a) elegge il proprio domicilio (10) in ciascuno degli altri Stati di cui al punto 1, presso:
+\4. Ai fini del presente impegno, il(la) sottoscritto(a) elegge il proprio domicilio<sup>10</sup> in ciascuno degli altri Stati di cui al punto 1, presso:
 
 <table>
-<tr><td>Paese</td><td>Cognome e nome, o ragione sociale, e indirizzo completo</td></tr>
+<tr><th>Paese</th><th>Cognome e nome, o ragione sociale, e indirizzo completo</th></tr>
 </table>
 
 Il(la) sottoscritto(a) riconosce che qualsiasi comunicazione o notifica e, più generalmente, qualsiasi formalità o procedura relative al presente impegno, indirizzate o compiute per iscritto presso uno dei domicili eletti, saranno accettate e a lui(lei) debitamente comunicate.
@@ -6024,9 +6041,9 @@ Il(la) sottoscritto(a) riconosce la competenza del giudice dei luoghi in cui ha 
 
 Il(la) sottoscritto(a) s’impegna a mantenere le elezioni di domicilio o, se indotto(a) a modificare uno o più domicili eletti, a informare preventivamente l’ufficio di garanzia.
 
-Fatto a , il
+Fatto il
 
-(Firma) (11)
+(Firma)<sup>1</sup><sup>1</sup>
 
 ### II. Accettazione dell’ufficio di garanzia
 
@@ -6034,19 +6051,20 @@ Ufficio di garanzia di
 
 Impegno del fideiussore accettato il
 
-(Timbro e firma)
+(Timbro e firma)»
 
-- (1) Cognome e nome o ragione sociale.
-- (2) Indirizzo completo.
-- (3) Cancellare il nome del paese (i nomi dei paesi) sul cui territorio la garanzia non può essere utilizzata.
-- (4) I riferimenti al Principato di Andorra e alla Repubblica di San Marino riguardano soltanto le operazioni di transito unionale.
-- (5) Cognome e nome, o ragione sociale, e indirizzo completo della persona che fornisce la garanzia.
-- (6) Applicabile con riguardo alle altre imposizioni dovute connesse all’importazione o all’esportazione delle merci quando la garanzia è utilizzata ai fini del vincolo delle merci al regime di transito comune/unionale o può essere utilizzata in più di uno Stato membro o in più di una parte contraente.
-- (7) Cancellare le menzioni inutili.
-- (8) I regimi diversi dal transito comune si applicano soltanto nell’Unione.
-- (9) Per gli importi dichiarati nell’ambito di una dichiarazione doganale per il regime di uso finale.
-- (10) Ove la possibilità di eleggere domicilio non sia prevista dalla legislazione di uno di tali paesi, il fideiussore designa, in questo paese, un mandatario autorizzato a ricevere ogni comunicazione a lui(lei) destinata e gli impegni previsti al punto 4, secondo e quarto comma, devono essere stipulati mutatis mutandis. I giudici del luogo di domicilio del fideiussore e dei mandatari sono competenti a conoscere delle vertenze inerenti alla presente garanzia.
-- (11) Il firmatario deve far precedere la propria firma dalla seguente menzione manoscritta: «Buono a titolo di garanzia per l’importo di ...», indicando l’importo in lettere.
+- 1 Cognome e nome o ragione sociale.
+- 2 Indirizzo completo.
+- 3 Ai sensi del Protocollo su Irlanda/Irlanda del Nord dell’accordo sul recesso del Regno Unito di Gran Bretagna e Irlanda del Nord dall’Unione europea e dalla Comunità europea dell’energia atomica, l’Irlanda del Nord deve essere considerata Parte dell’Unione europea ai fini della presente garanzia. Pertanto, un fideiussore stabilito nel territorio doganale dell’Unione europea elegge un domicilio o designa un mandatario in Irlanda del Nord se la garanzia può essere ivi utilizzata. Tuttavia, qualora una garanzia nell’ambito del transito comune sia valida nell’Unione europea e nel Regno Unito, un singolo domicilio o un mandatario nominato nel Regno Unito può coprire tutte le parti del Regno Unito, inclusa l’Irlanda del Nord.
+- 4 Cancellare il nome del Paese (i nomi dei Paesi) sul cui territorio la garanzia può essere utilizzata.
+- 5 I riferimenti al Principato di Andorra e alla Repubblica di San Marino riguardano soltanto le operazioni di transito unionale.
+- 6 Cognome e nome, o ragione sociale, e indirizzo completo della persona che fornisce la garanzia.
+- 7 Applicabile con riguardo alle altre imposizioni dovute connesse all’importazione o all’esportazione delle merci quando la garanzia è utilizzata ai fini del vincolo delle merci al regime di transito comune/unionale o può essere utilizzata in più di uno Stato membro o in più di una Parte contraente.
+- 8 Cancellare le menzioni inutili.
+- 9 I regimi diversi dal transito comune si applicano soltanto nell’Unione.
+- 10 Per gli importi dichiarati nell’ambito di una dichiarazione doganale per il regime di uso finale.
+- 11 Ove la possibilità di eleggere domicilio non sia prevista dalla legislazione di uno di tali Paesi, il fideiussore designa, in questo Paese, un mandatario autorizzato a ricevere ogni comunicazione a lui(lei) destinata e gli impegni previsti al punto 4, secondo e quarto comma, devono essere stipulati mutatis mutandis. I giudici del luogo di domicilio del garante o dei mandatari sono competenti a conoscere delle vertenze inerenti alla presente garanzia.
+- 12 Il firmatario deve far precedere la propria firma dalla menzione manoscritta seguente: «Buono a titolo di garanzia per l’importo di ...», indicando l’importo in lettere.
 
 Allegato C5 dell’appendice III
 
@@ -6060,7 +6078,7 @@ Allegato C5 dell’appendice III
 <tr><td>4. Garante (cognome e nome o ragione sociale, indirizzo completo e Paese)</td><td colspan="5"></td></tr>
 <tr><td>5. Ufficio doganale di garanzia (numero di riferimento)</td><td colspan="5"></td></tr>
 <tr><td>6. Importo di riferimento Codice valuta</td><td colspan="3">In cifre:</td><td colspan="2">In lettere:</td></tr>
-<tr><td colspan="6">7. L’ufficio doganale di garanzia certifica che il titolare del regime sopra designato ha costituito una garanzia globale valida per le operazioni di transito unionale/comune che comportano l’attraversamento dei territori doganali in appresso elencati il cui nome non è barrato: UNIONE EUROPEA, ISLANDA – MACEDONIA DEL NORD – NORVEGIA – SERBIA – SVIZZERA – TURCHIA – REGNO UNITO – ANDORRA<sup>(</sup>\*<sup>)</sup> – SAN MARINO<sup>(</sup>\*<sup>)</sup></td></tr>
+<tr><td colspan="6">7. L’ufficio doganale di garanzia certifica che il titolare del regime sopra designato ha costituito una garanzia globale valida per le operazioni di transito unionale/comune che comportano l’attraversamento dei territori doganali in appresso elencati il cui nome non è barrato: UNIONE EUROPEA, ISLANDA – MACEDONIA DEL NORD – NORVEGIA – SERBIA – SVIZZERA – TURCHIA – UCRAINA – REGNO UNITO – ANDORRA<sup>(</sup>\*<sup>)</sup> – SAN MARINO<sup>(</sup>\*<sup>)</sup></td></tr>
 <tr><td colspan="6">8. Menzioni particolari</td></tr>
 <tr><td colspan="2">9. Termine di validità prorogato fino al gg/mm/aa compreso Fatto a , il (luogo) (data) (firma del funzionario e timbro dell’ufficio doganale di garanzia)</td><td colspan="4">Fatto a , il (luogo) (data) (firma del funzionario e timbro dell’ufficio doganale di garanzia)</td></tr>
 </table>
@@ -6088,7 +6106,7 @@ Allegato C6 dell’appendice III
 <tr><td>3. Titolare del regime (cognome e nome o ragione sociale, indirizzo completo e Paese)</td><td colspan="5"></td></tr>
 <tr><td>4. Ufficio doganale di garanzia (numero di riferimento)</td><td colspan="5"></td></tr>
 <tr><td>5. Importo di riferimento Codice valuta</td><td colspan="3">In cifre:</td><td colspan="2">In lettere:</td></tr>
-<tr><td colspan="6">6. L’ufficio doganale di garanzia certifica che al titolare del regime sopra designato è stato concesso un esonero dalla garanzia valido per le operazioni di transito unionale/comune che comportano l’attraversamento dei territori doganali in appresso elencati il cui nome non è barrato: UNIONE EUROPEA, ISLANDA –MACEDONIA DEL NORD – NORVEGIA – SERBIA – SVIZZERA – TURCHIA – REGNO UNITO – ANDORRA<sup>(</sup>\*<sup>)</sup> – SAN MARINO<sup>(</sup>\*<sup>)</sup></td></tr>
+<tr><td colspan="6">6. L’ufficio doganale di garanzia certifica che al titolare del regime sopra designato è stato concesso un esonero dalla garanzia valido per le operazioni di transito unionale/comune che comportano l’attraversamento dei territori doganali in appresso elencati il cui nome non è barrato: UNIONE EUROPEA, ISLANDA –MACEDONIA DEL NORD – NORVEGIA – SERBIA – SVIZZERA – TURCHIA – UCRAINA – REGNO UNITO – ANDORRA<sup>(</sup>\*<sup>)</sup> – SAN MARINO<sup>(</sup>\*<sup>)</sup></td></tr>
 <tr><td colspan="6">7. Menzioni particolari</td></tr>
 <tr><td colspan="2">8. Termine di validità prorogato fino al gg/mm/aa compreso Fatto a , il (luogo) (data) (firma del funzionario e timbro dell’ufficio doganale di garanzia)</td><td colspan="4">Fatto a , il (luogo) (data) (firma del funzionario e timbro dell’ufficio doganale di garanzia)</td></tr>
 </table>
@@ -8250,7 +8268,7 @@ Il presente allegato si applica a decorrere dalla data di introduzione dell’ag
 
 Modello di documento di accompagnamento transito
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20220825/it/xml/image/image7.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20221001/it/xml/image/image7.png)
 
 Allegato A4 bis dell’appendice III bis
 
@@ -8333,7 +8351,7 @@ Il presente allegato si applica a decorrere dalla data di introduzione dell’ag
 
 Modello di elenco degli articoli
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20220825/it/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20221001/it/xml/image/image8.png)
 
 Allegato A6 bis dell’appendice III bis
 

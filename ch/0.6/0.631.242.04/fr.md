@@ -3,11 +3,11 @@ sr: "0.631.242.04"
 title: Convention du 20 mai 1987 relative à un régime de transit commun (avec appendices et prot. add.)
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/308_308_308"
 language: fr
-version: 2022-08-25
+version: 2022-10-01
 adopted: 1987-05-20
 in_force: 1988-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20220825/fr/xml/fedlex-data-admin-ch-eli-cc-1988-308_308_308-20220825-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/308_308_308/20220825/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20221001/fr/xml/fedlex-data-admin-ch-eli-cc-1988-308_308_308-20221001-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/308_308_308/20221001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 28 octobre 1987
 
 Entrée en vigueur le 1<sup>er</sup> janvier 1988
 
-(État le 25 août 2022)
+(État le 1<sup>er</sup> octobre 2022)
 
 [^t-1]: Cette Conv. comprenait primitivement les parties contractantes suivantes: la CEE, la République d’Autriche, la République de Finlande, la République d’Islande, le Royaume de Norvège, le Royaume de Suède et la Confédération suisse. La République d’Autriche, la République de Finlande et le Royaume de Suède ont adhéré aux Communautés européennes le 1<sup>er</sup> janv. 1995 et, depuis cette date, ne sont plus des parties contractantes autonomes à la Conv. La Pologne, la Slovaquie, la Tchéquie et la Hongrie ont adhéré à la Conv. le 1<sup>er</sup> juil. 1996 ([RO 1996 2508](https://fedlex.data.admin.ch/eli/oc/1996/2508_2508_2508)). Suite à leur adhésion à l’UE, ces 4 pays ne sont plus des parties contractantes autonomes à la Conv. depuis le 1<sup>er</sup> mai 2004. Sont également parties contractantes la République de Croatie depuis le 1<sup>er</sup> juil. 2012 ([RO 2013 81](https://fedlex.data.admin.ch/eli/oc/2013/15)), la République de Turquie depuis le 1<sup>er</sup> déc. 2012 ([RO 2013 827](https://fedlex.data.admin.ch/eli/oc/2013/173)), la Macédoine depuis le 1<sup>er</sup> juil 2015 ([RO 2015 5967](https://fedlex.data.admin.ch/eli/oc/2015/924)) et la Serbie depuis le 1<sup>er</sup> fév. 2016 ([RO 2016 535](https://fedlex.data.admin.ch/eli/oc/2016/101)).
 [^t-2]: Art. 1 al. 1 let. b de l’AF du 8 oct. 1987 ([RO 1988 300](https://fedlex.data.admin.ch/eli/oc/1988/300_300_300)).
@@ -2863,7 +2863,7 @@ Appendice III[^t-5]
 
 ## Déclaration de transit et formulaires en cas d’utilisation de procédés informatiques de traitement des données
 
-[^t-5]: Nouvelle teneur selon l’art. 1 ch. 6 et 7 de la D n<sup>o</sup> 1/2008 de la Commission mixte CEE-AELE du 16 juin 2008 ([RO 2009 1325](https://fedlex.data.admin.ch/eli/oc/2009/212)). Mis à jour par les art. 1 des D n<sup>o</sup> 3/2012 de la Commission mixte UE-AELE du 26 juin 2012 ([RO 2013 81](https://fedlex.data.admin.ch/eli/oc/2013/15)), n<sup>o</sup> 4/2012 du 26 juin 2012 ([RO 2013 827](https://fedlex.data.admin.ch/eli/oc/2013/173)), n<sup>o</sup> 1/2013 du 1<sup>er</sup> juil. 2013 ([RO 2014 293](https://fedlex.data.admin.ch/eli/oc/2014/48)), n<sup>o</sup> 2/2013 du 7 nov. 2015 ([RO 2014 3495](https://fedlex.data.admin.ch/eli/oc/2014/609)), n<sup>o</sup> 2/2015 du 17 juin 2015 ([RO 2015 5967](https://fedlex.data.admin.ch/eli/oc/2015/924)) et n<sup>o</sup> 4/2015 du 26 nov. 2015 ([RO 2016 535](https://fedlex.data.admin.ch/eli/oc/2016/101)), l’art. 1 ch. 4 à 6 de la D n<sup>o</sup> 1/2016 de la Commission mixte UE-AELE du 28 avr. 2016 ([RO 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)), l’art. 1 ch. 5 de la D n<sup>o</sup> 1/2017 du 5 déc. 2017 ([RO 2018 303](https://fedlex.data.admin.ch/eli/oc/2018/53)), l’art. 1 ch. 3 de la D n° 1/2019 de la Commission mixte UE-AELE du 4 déc. 2019 ([RO 2020 3687](https://fedlex.data.admin.ch/eli/oc/2020/670)) et l’art. 1 de la D n° 1/2018 de la Commission mixte UE-AELE du 4 déc. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2021 118](https://fedlex.data.admin.ch/eli/oc/2021/118)). Selon l’art. 2 de cette D, l’utilisation des formulaires liés à la garantie qui figurent aux annexes C1 à C6 de l’appendice III de la convention, dans leur version applicable la veille de l’entrée en vigueur de la présente D, peut se poursuivre, sous réserve des adaptations géographiques nécessaires, pendant un an à partir de l’entrée en vigueur de la présente décision.
+[^t-5]: Nouvelle teneur selon l’art. 1 ch. 6 et 7 de la D n<sup>o</sup> 1/2008 de la Commission mixte CEE-AELE du 16 juin 2008 ([RO 2009 1325](https://fedlex.data.admin.ch/eli/oc/2009/212)). Mis à jour par les art. 1 des D n<sup>o</sup> 3/2012 de la Commission mixte UE-AELE du 26 juin 2012 ([RO 2013 81](https://fedlex.data.admin.ch/eli/oc/2013/15)), n<sup>o</sup> 4/2012 du 26 juin 2012 ([RO 2013 827](https://fedlex.data.admin.ch/eli/oc/2013/173)), n<sup>o</sup> 1/2013 du 1<sup>er</sup> juil. 2013 ([RO 2014 293](https://fedlex.data.admin.ch/eli/oc/2014/48)), n<sup>o</sup> 2/2013 du 7 nov. 2015 ([RO 2014 3495](https://fedlex.data.admin.ch/eli/oc/2014/609)), n<sup>o</sup> 2/2015 du 17 juin 2015 ([RO 2015 5967](https://fedlex.data.admin.ch/eli/oc/2015/924)) et n<sup>o</sup> 4/2015 du 26 nov. 2015 ([RO 2016 535](https://fedlex.data.admin.ch/eli/oc/2016/101)), l’art. 1 ch. 4 à 6 de la D n<sup>o</sup> 1/2016 de la Commission mixte UE-AELE du 28 avr. 2016 ([RO 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)), l’art. 1 ch. 5 de la D n<sup>o</sup> 1/2017 du 5 déc. 2017 ([RO 2018 303](https://fedlex.data.admin.ch/eli/oc/2018/53)), l’art. 1 ch. 3 de la D n° 1/2019 de la Commission mixte UE-AELE du 4 déc. 2019 ([RO 2020 3687](https://fedlex.data.admin.ch/eli/oc/2020/670)), l’art. 1 de la D n° 1/2018 de la Commission mixte UE-AELE du 4 déc. 2018 ([RO 2021 118](https://fedlex.data.admin.ch/eli/oc/2021/118)) et l’art. 1 de la D n<sup>o</sup> 3/2022 de la Commission mixte UE-PTC du 29 sept. 2022, en vigueur depuis le 1<sup>er</sup> oct. 2022 ([RO 2023 297](https://fedlex.data.admin.ch/eli/oc/2023/297)). Selon l’art. 2 de cette D, l’utilisation des formulaires établis sur la base des modèles figurant aux annexes C1 à C6 de l’appendice III de la convention, dans leur version applicable la veille de l’entrée en vigueur de la présente décision, peut se poursuivre jusqu’au 1<sup>er</sup> avril 2024, sous réserve des adaptations géographiques nécessaires et des adaptations relatives à l’élection de domicile ou au mandataire autorisé.
 
 #### Art. 1
 
@@ -4646,7 +4646,7 @@ Annexe A3 de l’appendice III
 
 ## Modèle de document d’accompagnement transit
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20220825/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20221001/fr/xml/image/image1.png)
 
 Annexe A4 de l’appendice III
 
@@ -4885,6 +4885,8 @@ SI Slovénie
 SK Slovaquie
 
 TR Turquie
+
+UA Ukraine
 
 Case 53: Bureau de destination (et pays)
 
@@ -5356,6 +5358,7 @@ En outre, lorsque les marchandises ont été chargées sur une semi-remorque et 
 <tr><td>IS</td><td colspan="2">Takmarkað gildissvið</td><td colspan="2"></td></tr>
 <tr><td>NO</td><td colspan="2">Begrenset gyldighet</td><td colspan="2"></td></tr>
 <tr><td>TR</td><td colspan="2">Sınırlı geçerli</td><td colspan="2"></td></tr>
+<tr><td>UA</td><td colspan="2">Дія обмежена</td><td colspan="2"></td></tr>
 <tr><td>BG</td><td colspan="2">Освободено</td><td colspan="2">Dispense – 99201</td></tr>
 <tr><td>CS</td><td colspan="2">Osvobození</td><td colspan="2"></td></tr>
 <tr><td>DA</td><td colspan="2">Fritaget</td><td colspan="2"></td></tr>
@@ -5384,6 +5387,7 @@ En outre, lorsque les marchandises ont été chargées sur une semi-remorque et 
 <tr><td>IS</td><td colspan="2">Undanþegið</td><td colspan="2"></td></tr>
 <tr><td>NO</td><td colspan="2">Fritak</td><td colspan="2"></td></tr>
 <tr><td>TR</td><td colspan="2">Vazgeçme</td><td colspan="2"></td></tr>
+<tr><td>UA</td><td colspan="2">Звільнення</td><td colspan="2"></td></tr>
 <tr><td>BG</td><td colspan="2">Алтернативно доказателство</td><td colspan="2">Preuve alternative – 99202</td></tr>
 <tr><td>CS</td><td colspan="2">Alternativní důkaz</td><td colspan="2"></td></tr>
 <tr><td>DA</td><td colspan="2">Alternativt bevis</td><td colspan="2"></td></tr>
@@ -5412,6 +5416,7 @@ En outre, lorsque les marchandises ont été chargées sur une semi-remorque et 
 <tr><td>IS</td><td colspan="2">Önnur sönnun</td><td colspan="2"></td></tr>
 <tr><td>NO</td><td colspan="2">Alternativt bevis</td><td colspan="2"></td></tr>
 <tr><td>TR</td><td colspan="2">Alternatif Kanıt</td><td colspan="2"></td></tr>
+<tr><td>UA</td><td colspan="2">Альтернативне підтвердження</td><td colspan="2"></td></tr>
 <tr><td>BG</td><td colspan="2">Различия: митническо учреждение, където стоките са представени (наименование и страна)</td><td colspan="2">Différences: marchandises présentées au bureau de douane .......(nom et pays) – 99203</td></tr>
 <tr><td>CS</td><td colspan="2">Nesrovnalosti: úřad, kterému bylo zboží předloženo ......... (název a země)</td><td colspan="2"></td></tr>
 <tr><td>DA</td><td colspan="2">Forskelle: det sted, hvor varerne blev frembudt ......... (navn og land)</td><td colspan="2"></td></tr>
@@ -5440,6 +5445,7 @@ En outre, lorsque les marchandises ont été chargées sur une semi-remorque et 
 <tr><td>IS</td><td colspan="2">Breying: tollstjóraskrifstofa þar sem vörum var framvísað ......... (nafn og land)</td><td colspan="2"></td></tr>
 <tr><td>NO</td><td colspan="2">Forskjell: det tollsted hvor varene ble fremlagt ......... (navn og land)</td><td colspan="2"></td></tr>
 <tr><td>TR</td><td colspan="2">Değişiklikler: Eşyanın sunulduğu idare ......... (adı ve ülkesi)</td><td colspan="2"></td></tr>
+<tr><td>UA</td><td colspan="2">Розбіжності: митниця, де товари були пред’явлені (назва і країна)</td><td colspan="2"></td></tr>
 <tr><td>BG</td><td colspan="2">Излизането от ............... подлежи на ограничения или такси съгласно Регламент/Директива/Решение № ...,</td><td colspan="2">Sortie de ......... soumise à des restrictions ou à des impositions par le règlement ou la directive/décision n° ... – 99204</td></tr>
 <tr><td>CS</td><td colspan="2">Výstup ze ......... podléhá omezením nebo dávkám podle nařízení/ směrnice/rozhodnutí č ...</td><td colspan="2"></td></tr>
 <tr><td>DA</td><td colspan="2">Udpassage fra ......... undergivet restriktioner eller afgifter i henhold til forordning/direktiv/afgørelse nr. ...</td><td colspan="2"></td></tr>
@@ -5468,6 +5474,7 @@ En outre, lorsque les marchandises ont été chargées sur une semi-remorque et 
 <tr><td>IS</td><td colspan="2">Útflutningur frá ......... háð takmörkunum eða gjöldum samkvæmt reglugerð/ fyrirmælum/ákvörðun nr. ...</td><td colspan="2"></td></tr>
 <tr><td>NO</td><td colspan="2">Utførsel fra ......... underlagt restriksjoner eller avgifter i henhold til forordning/direktiv/vedtak nr. ...</td><td colspan="2"></td></tr>
 <tr><td>TR</td><td colspan="2">Eşyanın .........’dan çıkışı ..... No.lu Tüzük/Direktif/Karar kapsamında kısıtlamalara veya mali yükümlülüklere tabidir</td><td colspan="2"></td></tr>
+<tr><td>UA</td><td colspan="2">Вибуття із .......... з урахуванням обмежень та зі сплатою зборів відповідно до Регламенту/Директиви/Рішення № ...</td><td colspan="2"></td></tr>
 <tr><td>BG</td><td colspan="2">Одобрен изпращач</td><td colspan="2">Expéditeur agréé – 99206</td></tr>
 <tr><td>CS</td><td colspan="2">Schválený odesílatel</td><td colspan="2"></td></tr>
 <tr><td>DA</td><td colspan="2">Godkendt afsender</td><td colspan="2"></td></tr>
@@ -5496,6 +5503,7 @@ En outre, lorsque les marchandises ont été chargées sur une semi-remorque et 
 <tr><td>IS</td><td colspan="2">Viðurkenndur sendandi</td><td colspan="2"></td></tr>
 <tr><td>NO</td><td colspan="2">Autorisert avsender</td><td colspan="2"></td></tr>
 <tr><td>TR</td><td colspan="2">İzinli Gönderici</td><td colspan="2"></td></tr>
+<tr><td>UA</td><td colspan="2">Авторизований вантажовідправник</td><td colspan="2"></td></tr>
 <tr><td>BG</td><td colspan="2">Освободен от подпис</td><td colspan="2">Dispense de signature – 99207</td></tr>
 <tr><td>CS</td><td colspan="2">Podpis se nevyžaduje</td><td colspan="2"></td></tr>
 <tr><td>DA</td><td colspan="2">Fritaget for underskrift</td><td colspan="2"></td></tr>
@@ -5525,6 +5533,7 @@ En outre, lorsque les marchandises ont été chargées sur une semi-remorque et 
 <tr><td>IS</td><td colspan="2">Undanþegið undirskrift</td><td colspan="2"></td></tr>
 <tr><td>NO</td><td colspan="2">Fritatt for underskrift</td><td colspan="2"></td></tr>
 <tr><td>TR</td><td colspan="2">İmzadan Vazgeçme</td><td colspan="2"></td></tr>
+<tr><td>UA</td><td colspan="2">Звільнено від підпису</td><td colspan="2"></td></tr>
 <tr><td>BG</td><td colspan="2">ЗАБРАНЕНО ОБЩО ОБЕЗПЕЧЕНИЕ</td><td colspan="2">GARANTIE GLOBALE INTERDITE – 99208</td></tr>
 <tr><td>CS</td><td colspan="2">ZÁKAZ GLOBÁLNÍ ZÁRUKY</td><td colspan="2"></td></tr>
 <tr><td>DA</td><td colspan="2">FORBUD MOD SAMLET KAUTION</td><td colspan="2"></td></tr>
@@ -5553,6 +5562,7 @@ En outre, lorsque les marchandises ont été chargées sur une semi-remorque et 
 <tr><td>IS</td><td colspan="2">ALLSHERJARTRYGGING BÖNNUÐ</td><td colspan="2"></td></tr>
 <tr><td>NO</td><td colspan="2">FORBUD MOT BRUK AV UNIVERSALGARANTI</td><td colspan="2"></td></tr>
 <tr><td>TR</td><td colspan="2">KAPSAMLI TEMINAT YASAKLANMISTIR</td><td colspan="2"></td></tr>
+<tr><td>UA</td><td colspan="2">ЗАГАЛЬНА ГАРАНТІЯ ЗАБОРОНЕНА</td><td colspan="2"></td></tr>
 <tr><td>BG</td><td colspan="2">ИЗПОЛЗВАНЕ БЕЗ ОГРАНИЧЕНИЯ</td><td colspan="2">UTILISATION NON LIMITEE – 99209</td></tr>
 <tr><td>CS</td><td colspan="2">NEOMEZENÉ POUŽITÍ</td><td colspan="2"></td></tr>
 <tr><td>DA</td><td colspan="2">UBEGRÆNSET ANVENDELSE</td><td colspan="2"></td></tr>
@@ -5581,6 +5591,7 @@ En outre, lorsque les marchandises ont été chargées sur une semi-remorque et 
 <tr><td>IS</td><td colspan="2">ÓTAKMÖRKUÐ NOTKUN</td><td colspan="2"></td></tr>
 <tr><td>NO</td><td colspan="2">UBEGRENSET BRUK</td><td colspan="2"></td></tr>
 <tr><td>TR</td><td colspan="2">KISITLANMAMIS KULLANIM</td><td colspan="2"></td></tr>
+<tr><td>UA</td><td colspan="2">ВИКОРИСТАННЯ БЕЗ ОБМЕЖЕНЬ</td><td colspan="2"></td></tr>
 <tr><td>BG</td><td colspan="2">Издаден впоследствие</td><td colspan="2">Délivré a posteriori – 99210</td></tr>
 <tr><td>CS</td><td colspan="2">Vystaveno dodatečně</td><td colspan="2"></td></tr>
 <tr><td>DA</td><td colspan="2">Udstedt efterfølgende</td><td colspan="2"></td></tr>
@@ -5609,6 +5620,7 @@ En outre, lorsque les marchandises ont été chargées sur une semi-remorque et 
 <tr><td>IS</td><td colspan="2">Útgefið eftir á</td><td colspan="2"></td></tr>
 <tr><td>NO</td><td colspan="2">Utstedt i etterhånd</td><td colspan="2"></td></tr>
 <tr><td>TR</td><td colspan="2">Sonradan Düzenlenmiştir</td><td colspan="2"></td></tr>
+<tr><td>UA</td><td colspan="2">Видано згодом</td><td colspan="2"></td></tr>
 <tr><td>BG</td><td colspan="2">Разни</td><td colspan="2">Divers – 99211</td></tr>
 <tr><td>CS</td><td colspan="2">Různí</td><td colspan="2"></td></tr>
 <tr><td>DA</td><td colspan="2">Diverse</td><td colspan="2"></td></tr>
@@ -5637,6 +5649,7 @@ En outre, lorsque les marchandises ont été chargées sur une semi-remorque et 
 <tr><td>IS</td><td colspan="2">Ýmis</td><td colspan="2"></td></tr>
 <tr><td>NO</td><td colspan="2">Diverse</td><td colspan="2"></td></tr>
 <tr><td>TR</td><td colspan="2">Çeşitli</td><td colspan="2"></td></tr>
+<tr><td>UA</td><td colspan="2">Різне</td><td colspan="2"></td></tr>
 <tr><td>BG</td><td colspan="2">Насипно</td><td colspan="2">Vrac – 99212</td></tr>
 <tr><td>CS</td><td colspan="2">Volnĕ loženo</td><td colspan="2"></td></tr>
 <tr><td>DA</td><td colspan="2">Bulk</td><td colspan="2"></td></tr>
@@ -5665,6 +5678,7 @@ En outre, lorsque les marchandises ont été chargées sur une semi-remorque et 
 <tr><td>IS</td><td colspan="2">Vara í lausu</td><td colspan="2"></td></tr>
 <tr><td>NO</td><td colspan="2">Bulk</td><td colspan="2"></td></tr>
 <tr><td>TR</td><td colspan="2">Dökme</td><td colspan="2"></td></tr>
+<tr><td>UA</td><td colspan="2">Навалювальний вантаж</td><td colspan="2"></td></tr>
 <tr><td>BG</td><td colspan="2">Изпращач</td><td colspan="2">Expéditeur – 99213</td></tr>
 <tr><td>CS</td><td colspan="2">Odesílatel</td><td colspan="2"></td></tr>
 <tr><td>DA</td><td colspan="2">Afsender</td><td colspan="2"></td></tr>
@@ -5693,6 +5707,7 @@ En outre, lorsque les marchandises ont été chargées sur une semi-remorque et 
 <tr><td>IS</td><td colspan="2">Sendandi</td><td colspan="2"></td></tr>
 <tr><td>NO</td><td colspan="2">Avsender</td><td colspan="2"></td></tr>
 <tr><td>TR</td><td colspan="2">Gönderici</td><td colspan="2"></td></tr>
+<tr><td>UA</td><td colspan="2">Вантажовідправник</td><td colspan="2"></td></tr>
 </table>
 
 ### Titre IV Remarques relatives aux formulaires complémentaires
@@ -5747,7 +5762,7 @@ Annexe B9 de l’appendice III
 
 ## Modèle d’un cachet spécial utilisé par un expéditeur agréé
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20220825/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20221001/fr/xml/image/image2.png)
 
 - 1\. Les armoiries ou tous autres signes ou lettres caractérisant le pays
 - 2\. Numéro de référence du bureau de douane de départ
@@ -5761,7 +5776,7 @@ Annexe B10 de l’appendice III
 ## TC 11 – RECEPISSE
 
 <table>
-<tr><td>TC 11 – RECEPISSE Le bureau de douane de destination situé à ............ (lieu, nom et numéro de référence) certifie que la déclaration de transit T1, T2, T2F<sup>(1)</sup> enregistrée le .................. (jj/mm/aa) sous le n<sup>o</sup> .................. (MRN<sup>(2)</sup>) par le bureau de douane de départ situé à .............................. (lieu, nom et numéro de référence) lui a été remis. ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20220825/fr/xml/image/image3.png) Fait à ..............., le ............... (jj/mm/aa) ............................................................ (Signature) <sup>(1)</sup> Biffer les mentions inutiles. <sup>(2)</sup> En cas de panne temporaire du système de transit électronique, veuillez indiquer un numéro utilisé dans le cadre du PCA.</td></tr>
+<tr><td>TC 11 – RECEPISSE Le bureau de douane de destination situé à ............ (lieu, nom et numéro de référence) certifie que la déclaration de transit T1, T2, T2F<sup>(1)</sup> enregistrée le .................. (jj/mm/aa) sous le n<sup>o</sup> .................. (MRN<sup>(2)</sup>) par le bureau de douane de départ situé à .............................. (lieu, nom et numéro de référence) lui a été remis. ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20221001/fr/xml/image/image3.png) Fait à ..............., le ............... (jj/mm/aa) ............................................................ (Signature) <sup>(1)</sup> Biffer les mentions inutiles. <sup>(2)</sup> En cas de panne temporaire du système de transit électronique, veuillez indiquer un numéro utilisé dans le cadre du PCA.</td></tr>
 </table>
 
 Annexe B11 de l’appendice III
@@ -5770,7 +5785,7 @@ Annexe B11 de l’appendice III
 
 (transit par chemin de fer)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20220825/fr/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20221001/fr/xml/image/image4.png)
 
 Annexe C1 de l’appendice III
 
@@ -5780,15 +5795,15 @@ Annexe C1 de l’appendice III
 
 \1. Le (la) soussigné(e) (1)
 
-domicilié à (2)
+domicilié(e) à (2)
 
 se rend caution solidaire au bureau de garantie de
 
 à concurrence d’un montant maximal de
 
-envers l’Union européenne (constituée du Royaume de Belgique, de la République de Bulgarie, de la République tchèque, du Royaume de Danemark, de la République fédérale d’Allemagne, de la République d’Estonie, de la République hellénique, de la République de Croatie, du Royaume d’Espagne, de la République française, de l’Irlande, de la République italienne, de la République de Chypre, de la République de Lettonie, de la République de Lituanie, du Grand-duché de Luxembourg, de la Hongrie, de la République de Malte, du Royaume des Pays-Bas, de la République d’Autriche, de la République de Pologne, de la République portugaise, de la Roumanie, de la République de Slovénie, de la République slovaque, de la République de Finlande, du Royaume de Suède) et la République d’Islande, l’ancienne République yougoslave de Macédoine, le Royaume de Norvège, la République de Serbie, la Confédération suisse, la République de Turquie, le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord (3), la Principauté d’Andorre et la République de Saint-Marin (4) pour tout montant pour lequel la personne constituant la présente garantie (5):
+envers l’Union européenne (constituée du Royaume de Belgique, de la République de Bulgarie, de la République tchèque, du Royaume de Danemark, de la République fédérale d’Allemagne, de la République d’Estonie, de la République hellénique, de la République de Croatie, du Royaume d’Espagne, de la République française, de l’Irlande, de la République italienne, de la République de Chypre, de la République de Lettonie, de la République de Lituanie, du Grand-duché de Luxembourg, de la Hongrie, de la République de Malte, du Royaume des Pays-Bas, de la République d’Autriche, de la République de Pologne, de la République portugaise, de la Roumanie, de la République de Slovénie, de la République slovaque, de la République de Finlande, du Royaume de Suède) et la République d’Islande, la République de Macédoine du Nord, le Royaume de Norvège, la République de Serbie, la Confédération suisse, la République de Turquie, l’Ukraine, le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord (3) (4), la Principauté d’Andorre et la République de Saint-Marin (5), pour tout montant pour lequel la personne constituant la présente garantie (6):
 
-est ou deviendrait débiteur envers les pays précités, au titre de la dette constituée des droits et des autres impositions (6), en ce qui concerne les marchandises décrites ci-dessous faisant l’objet de l’opération douanière suivante (7):
+est ou deviendrait débiteur envers les pays précités, au titre de la dette constituée des droits et des autres impositions (7), en ce qui concerne les marchandises décrites ci-dessous faisant l’objet de l’opération douanière suivante (8):
 
 Désignation des marchandises:
 
@@ -5798,10 +5813,10 @@ Les autorités compétentes peuvent, à la demande du (de la) soussigné(e) et p
 
 \3. Le présent engagement est valable à compter du jour de son approbation par le bureau de garantie. Le (la) soussigné(e) reste responsable du paiement de la dette ayant pris naissance au cours de l’opération douanière, couverte par le présent engagement, ayant débuté avant la date de prise d’effet d’une révocation ou d’une résiliation de l’acte de cautionnement, même si le paiement en est exigé ultérieurement.
 
-\4. Aux fins du présent engagement, le (la) soussigné(e) fait élection de domicile (8) dans chacun des pays visés au point 1, à:
+\4. Aux fins du présent engagement, le (la) soussigné(e) fait élection de domicile (9) dans chacun des pays visés au point 1, à:
 
 <table>
-<tr><td>Pays</td><td>Nom et prénom ou raison sociale et adresse complète</td></tr>
+<tr><th>Pays</th><th>Nom et prénom ou raison sociale et adresse complète</th></tr>
 </table>
 
 Le (la) soussigné(e) reconnaît que toutes correspondances, significations et plus généralement toutes formalités ou procédures relatives au présent engagement adressées ou accomplies par écrit à l’un des domiciles élus seront acceptées et dûment remises à lui-même (elle-même).
@@ -5812,23 +5827,24 @@ Le (la) soussigné(e) s’engage à maintenir l’élection de domicile ou, s’
 
 Fait à , le
 
-(Signature) (9)
+(signature) (10)
 
 ### II. Approbation du bureau de garantie
 
 Bureau de garantie
 
-Engagement de la caution approuvé le pour couvrir l’opération douanière ayant donné lieu à la déclaration en douane/déclaration de dépôt temporaire n<sup>o</sup> du (10)
+Engagement de la caution approuvé le .................. pour couvrir l’opération douanière ayant donné lieu à la déclaration en douane/déclaration de dépôt temporaire n<sup>o</sup>................................. du (11)
 
-(cachet et signature)
+(cachet et signature)»
 
 - (1) Nom et prénom ou raison sociale.
 - (2) Adresse complète.
-- (3) Supprimer le nom/les noms de l’État/des États sur le territoire duquel/ desquels la garantie ne peut pas être utilisée.
-- (4) Les références à la Principauté d’Andorre et à la République de Saint-Marin ne valent qu’à l’égard des opérations de transit de l’Union.
+- (3) Conformément au protocole sur l’Irlande et l’Irlande du Nord de l’accord sur le retrait du Royaume-Uni de Grande-Bretagne et d’Irlande du Nord de l’Union européenne et de la Communauté européenne de l’énergie atomique, l’Irlande du Nord doit être considérée comme faisant partie de l’Union européenne aux fins de la présente garantie. Par conséquent, une caution établie sur le territoire douanier de l’Union européenne doit élire un domicile ou désigner un mandataire en Irlande du Nord si la garantie peut y être utilisée. Toutefois, si une garantie, dans le cadre du transit commun, devient valable dans l’Union européenne et au Royaume-Uni, une élection de domicile ou la désignation d’un mandataire au Royaume-Uni peut couvrir l’ensemble du territoire du Royaume-Uni, y compris l’Irlande du Nord.
+- (4) Supprimer le nom/les noms de l’État/des États sur le territoire duquel/desquels la garantie ne peut pas être utilisée.
 - (5) Les références à la Principauté d’Andorre et à la République de Saint-Marin ne valent qu’à l’égard des opérations de transit de l’Union.
-- (6) S’applique en ce qui concerne les impositions dues en rapport avec l’importation ou l’exportation des marchandises lorsque la garantie est utilisée aux fins du placement de marchandises sous le régime du transit de l’Union/commun ou susceptible d’être utilisée dans plusieurs États membres.
-- (7)
+- (6) Nom et prénom ou raison sociale et adresse complète de la personne constituant la garantie.
+- (7) S’applique en ce qui concerne les autres impositions dues en rapport avec l’importation ou l’exportation des marchandises lorsque la garantie est utilisée aux fins du placement de marchandises sous le régime du transit de l’Union/commun ou susceptible d’être utilisée dans plusieurs États membres.
+- (8)
 
   Indiquer l’une des opérations douanières suivantes:
 
@@ -5839,15 +5855,15 @@ Engagement de la caution approuvé le pour couvrir l’opération douanière aya
   - e) régime du perfectionnement actif;
   - f) régime de la destination particulière;
   - g) mise en libre pratique dans le cadre d’une déclaration en douane normale sans report de paiement;
-  - h) mise en libre pratique dans le cadre d’une déclaration normale avec report de paiement;
-  - i) mise en libre pratique dans le cadre d’une déclaration en douane présentée conformément à l’art. 166 du règlement (UE) n<sup>o</sup> 952/2013 du Parlement européen et du Conseil du 9 octobre 2013 établissant le code des douanes de l’Union (JO L 269 du 10.10.2013, p. 1);
-  - j) mise en libre pratique au titre d’une déclaration en douane déposée conformément à l’art. 182 du règlement (UE) n<sup>o</sup> 952/2013;
+  - h) mise en libre pratique au titre d’une déclaration en douane normale avec report de paiement;
+  - i) mise en libre pratique dans le cadre d’une déclaration en douane présentée conformément à l’article 166 du règlement (UE) n<sup>o</sup> 952/2013 du Parlement européen et du Conseil du 9 octobre 2013 établissant le code des douanes de l’Union;
+  - j) mise en libre pratique dans le cadre d’une déclaration en douane présentée conformément à l’article 182 du règlement (UE) n<sup>o</sup> 952/2013 du Parlement européen et du Conseil du 9 octobre 2013 établissant le code des douanes de l’Union;
   - k) régime d’admission temporaire en exonération partielle des droits à l’importation;
   - l) autre – Préciser le type d’opération.
 
-- (8) Lorsque la possibilité d’élection de domicile n’est pas prévue dans la législation du pays, la caution désigne, dans ce pays, un mandataire autorisé à recevoir toute communication qui lui est destinée et les engagements prévus au point 4, deuxième et quatrième alinéas, doivent être stipulés mutatis mutandis. Les juridictions respectives des lieux de domicile de la caution ou de ses mandataires sont compétentes pour connaître des litiges concernant le présent cautionnement.
-- (9) Le signataire doit faire précéder sa signature de la mention manuscrite suivante: «Bon à titre de caution pour le montant de ...» (le montant doit être indiqué en toutes lettres).
-- (10) À compléter par le bureau dans lequel les marchandises ont été placées sous le régime ou étaient en dépôt temporaire.
+- (9) Lorsque la possibilité d’élection de domicile n’est pas prévue dans la législation du pays, la caution désigne, dans ce pays, un mandataire autorisé à recevoir toute communication qui lui est destinée et les engagements prévus au point 4, deuxième et quatrième alinéas, doivent être stipulés mutatis mutandis. Les juridictions respectives des lieux de domicile de la caution ou de ses mandataires sont compétentes pour connaître des litiges concernant le présent cautionnement.
+- (10) Le signataire doit faire précéder sa signature de la mention manuscrite suivante: «Bon à titre de caution pour le montant de ...» (le montant doit être indiqué en toutes lettres).
+- (11) À compléter par le bureau dans lequel les marchandises ont été placées sous le régime ou étaient en dépôt temporaire.
 
 Annexe C2 de l’appendice III
 
@@ -5861,7 +5877,7 @@ domicilié(e) à (2)
 
 se rend caution solidaire au bureau de garantie de
 
-envers l’Union européenne (constituée du Royaume de Belgique, de la République de Bulgarie, de la République tchèque, du Royaume de Danemark, de la République fédérale d’Allemagne, de la République d’Estonie, de la République hellénique, de la République de Croatie, du Royaume d’Espagne, de la République française, de l’Irlande, de la République italienne, de la République de Chypre, de la République de Lettonie, de la République de Lituanie, du Grand-duché de Luxembourg, de la République de Hongrie, de la République de Malte, du Royaume des Pays-Bas, de la République d’Autriche, de la République de Pologne, de la République portugaise, de la Roumanie, de la République de Slovénie, de la République slovaque, de la République de Finlande, du Royaume de Suède) et la République d’Islande, l’ancienne République yougoslave de Macédoine, le Royaume de Norvège, la République de Serbie, la Confédération suisse, la République de Turquie, le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord, la Principauté d’Andorre et la République de Saint-Marin (3), pour tout montant pour lequel le titulaire du régime constituant la présente garantie est ou deviendrait débiteur envers les pays précités, au titre de la dette constituée des droits et des autres impositions, en ce qui concerne l’importation ou l’exportation de marchandises placées sous le régime du transit commun ou de l’Union, pour lesquelles le (la) soussigné(e) s’est engagé(e) à émettre des titres de garantie isolée d’un montant maximal de 10 000 EUR par titre.
+envers l’Union européenne (constituée du Royaume de Belgique, de la République de Bulgarie, de la République tchèque, du Royaume de Danemark, de la République fédérale d’Allemagne, de la République d’Estonie, de la République hellénique, de la République de Croatie, du Royaume d’Espagne, de la République française, de l’Irlande, de la République italienne, de la République de Chypre, de la République de Lettonie, de la République de Lituanie, du Grand-duché de Luxembourg, de la République de Hongrie, de la République de Malte, du Royaume des Pays-Bas, de la République d’Autriche, de la République de Pologne, de la République portugaise, de la Roumanie, de la République de Slovénie, de la République slovaque, de la République de Finlande, du Royaume de Suède) et la République d’Islande, la République de Macédoine du Nord, le Royaume de Norvège, la République de Serbie, la Confédération suisse, la République de Turquie, l’Ukraine, le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord (3), la Principauté d’Andorre et la République de Saint-Marin (4), pour tout montant pour lequel le titulaire du régime constituant la présente garantie est ou deviendrait débiteur envers les pays précités, au titre de la dette constituée des droits et des autres impositions, en ce qui concerne l’importation ou l’exportation de marchandises placées sous le régime du transit commun ou de l’Union, pour lesquelles le (la) soussigné(e) s’est engagé(e) à émettre des titres de garantie isolée d’un montant maximal de 10 000 EUR par titre.
 
 \2. Le (la) soussigné(e) s’oblige à effectuer, à la première demande écrite des autorités compétentes des pays visés au point 1, le paiement des sommes demandées à concurrence d’un montant maximal de 10 000 EUR par titre de garantie isolée, sans pouvoir le différer au-delà d’un délai de trente jours à compter de la date de la demande, à moins qu’il (elle) ou toute autre personne intéressée n’établisse avant l’expiration de ce délai, à la satisfaction des autorités douanières, que l’opération a été apurée.
 
@@ -5869,10 +5885,10 @@ Les autorités compétentes peuvent, à la demande du (de la) soussigné(e) et p
 
 \3. Le présent engagement est valable à compter du jour de son approbation par le bureau de garantie. Le (la) soussigné(e) reste responsable du paiement de la dette ayant pris naissance au cours de l’opération du transit commun/de l’Union, couverte par le présent engagement, ayant débuté avant la date de prise d’effet d’une révocation ou d’une résiliation de l’acte de cautionnement, même si le paiement en est exigé ultérieurement.
 
-\4. Aux fins du présent engagement, le (la) soussigné(e) fait élection de domicile (4) dans chacun des pays visés au point 1, à:
+\4. Aux fins du présent engagement, le (la) soussigné(e) fait élection de domicile (5) dans chacun des pays visés au point 1, à:
 
 <table>
-<tr><td>Pays</td><td>Nom et prénom ou raison sociale et adresse complète</td></tr>
+<tr><th>Pays</th><th>Nom et prénom ou raison sociale et adresse complète</th></tr>
 </table>
 
 Le (la) soussigné(e) reconnaît que toutes correspondances, significations et plus généralement toutes formalités ou procédures relatives au présent engagement adressées ou accomplies par écrit à l’un des domiciles élus seront acceptées et dûment remises à lui-même (elle-même).
@@ -5883,7 +5899,7 @@ Le (la) soussigné(e) s’engage à maintenir l’élection de domicile ou, s’
 
 Fait à , le
 
-(Signature) (5)
+(signature) (6)
 
 ### II. Approbation du bureau de garantie
 
@@ -5891,13 +5907,14 @@ Bureau de garantie
 
 Engagement de la caution approuvé le
 
-(cachet et signature)
+(cachet et signature)»
 
 - (1) Nom et prénom ou raison sociale.
 - (2) Adresse complète.
-- (3) Les références à la Principauté d’Andorre et à la République de Saint-Marin ne valent qu’à l’égard des opérations de transit de l’Union.
-- (4) Lorsque la possibilité d’élection de domicile n’est pas prévue dans la législation du pays, la caution désigne, dans ce pays, un mandataire autorisé à recevoir toute communication qui lui est destinée et les engagements prévus au point 4, deuxième et quatrième alinéas, doivent être stipulés *mutatis mutandis*. Les juridictions respectives des lieux de domicile de la caution ou de ses mandataires sont compétentes pour connaître des litiges concernant le présent cautionnement.
-- (5) Le signataire doit faire précéder sa signature de la mention manuscrite suivante: «Bon à titre de caution».
+- (3) Conformément au protocole sur l’Irlande et l’Irlande du Nord de l’accord sur le retrait du Royaume-Uni de Grande-Bretagne et d’Irlande du Nord de l’Union européenne et de la Communauté européenne de l’énergie atomique, l’Irlande du Nord doit être considérée comme faisant partie de l’Union européenne aux fins de la présente garantie. Par conséquent, une caution établie sur le territoire douanier de l’Union européenne doit élire un domicile ou désigner un mandataire en Irlande du Nord si la garantie peut y être utilisée. Toutefois, si une garantie, dans le cadre du transit commun, devient valable dans l’Union européenne et au Royaume-Uni, une élection de domicile ou la désignation d’un mandataire au Royaume-Uni peut couvrir l’ensemble du territoire du Royaume-Uni, y compris l’Irlande du Nord.
+- (4) Les références à la Principauté d’Andorre et à la République de Saint-Marin ne valent qu’à l’égard des opérations de transit de l’Union.
+- (5) Lorsque la possibilité d’élection de domicile n’est pas prévue dans la législation du pays, la caution désigne, dans ce pays, un mandataire autorisé à recevoir toute communication qui lui est destinée et les engagements prévus au point 4, deuxième et quatrième alinéas, doivent être stipulés mutatis mutandis. Les juridictions respectives des lieux de domicile de la caution ou de ses mandataires sont compétentes pour connaître des litiges concernant le présent cautionnement.
+- (6) Le signataire doit faire précéder sa signature de la mention manuscrite suivante: «Bon à titre de caution».
 
 Annexe C3 de l’appendice III
 
@@ -5905,11 +5922,11 @@ Annexe C3 de l’appendice III
 
 *(Recto)*
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20220825/fr/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20221001/fr/xml/image/image5.png)
 
 *(Verso)*
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20220825/fr/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20221001/fr/xml/image/image6.png)
 
 Normes techniques applicables au titre
 
@@ -5933,35 +5950,35 @@ se rend caution solidaire au bureau de garantie de
 
 à concurrence d’un montant maximal de
 
-envers l’Union européenne (constituée du Royaume de Belgique, de la République de Bulgarie, de la République tchèque, du Royaume de Danemark, de la République fédérale d’Allemagne, de la République d’Estonie, de l’Irlande, de la République hellénique, du Royaume d’Espagne, de la République française, de la République de Croatie, de la République italienne, de la République de Chypre, de la République de Lettonie, de la République de Lituanie, du Grand-duché de Luxembourg, de la Hongrie, de la République de Malte, du Royaume des Pays-Bas, de la République d’Autriche, de la République de Pologne, de la République portugaise, de la Roumanie, de la République de Slovénie, de la République slovaque, de la République de Finlande, du Royaume de Suède) et la République d’Islande, l’ancienne République yougoslave de Macédoine, le Royaume de Norvège, la République de Serbie, la Confédération suisse, la République de Turquie, le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord (3) la Principauté d’Andorre et la République de Saint-Marin (4), pour tout montant pour lequel la personne constituant la présente garantie (5)
+envers l’Union européenne (constituée du Royaume de Belgique, de la République de Bulgarie, de la République tchèque, du Royaume de Danemark, de la République fédérale d’Allemagne, de la République d’Estonie, de l’Irlande, de la République hellénique, du Royaume d’Espagne, de la République française, de la République de Croatie, de la République italienne, de la République de Chypre, de la République de Lettonie, de la République de Lituanie, du Grand-duché de Luxembourg, de la Hongrie, de la République de Malte, du Royaume des Pays-Bas, de la République d’Autriche, de la République de Pologne, de la République portugaise, de la Roumanie, de la République de Slovénie, de la République slovaque, de la République de Finlande, du Royaume de Suède) et la République d’Islande, la République de Macédoine du Nord, le Royaume de Norvège, la République de Serbie, la Confédération suisse, la République de Turquie, l’Ukraine, le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord (3) (4), la Principauté d’Andorre et la République de Saint-Marin (5), pour tout montant pour lequel la personne constituant la présente garantie (6)
 
-est ou deviendrait débiteur envers les pays précités, au titre de la dette constituée des droits et des autres impositions (6) susceptible de naître et/ou ayant pris naissance en ce qui concerne les marchandises faisant l’objet des opérations douanières mentionnées au point 1bis et/ou 1ter.
+est ou deviendrait débiteur envers les pays précités, au titre de la dette constituée des droits et des autres impositions (7) susceptible de naître et/ou ayant pris naissance en ce qui concerne les marchandises faisant l’objet des opérations douanières mentionnées au point 1 *bis* et/ou 1 *ter*.
 
-Le montant maximal de la garantie se compose d’un montant de
+Le montant maximal de la garantie se compose d’un montant de:
 
-- a) représentant 100/50/30 % (7) de la partie du montant de référence correspondant à un montant destiné à couvrir des dettes douanières et d’autres impositions susceptibles de naître, équivalent à la somme des montants figurant au point 1bis;
+- a) représentant 100/50/30 % (8) de la partie du montant de référence correspondant à un montant destiné à couvrir des dettes douanières et d’autres impositions susceptibles de naître, équivalent à la somme des montants figurant au point 1 *bis*,
 - et
-- b) représentant 100/30 % (7) de la partie du montant de référence correspondant à un montant destiné à couvrir des dettes douanières et d’autres impositions ayant pris naissance, équivalent à la somme des montants figurant au point 1ter,
+- b) représentant 100/30 % (8) de la partie du montant de référence correspondant à un montant destiné à couvrir des dettes douanières et d’autres impositions ayant pris naissance, équivalent à la somme des montants figurant au point 1 *ter*,
 
-1bis. Les montants qui constituent le montant de référence correspondant à un montant destiné à couvrir les dettes douanières et, le cas échéant, d’autres impositions susceptibles de naître sont indiqués ci-après pour chacune des finalités énumérées ci-dessous (8):
+1 *bis*. Les montants qui constituent le montant de référence correspondant à un montant destiné à couvrir les dettes douanières et, le cas échéant, d’autres impositions susceptibles de naître sont indiqués ci-après pour chacune des finalités énumérées ci-dessous (9):
 
 - a) dépôt temporaire – ...;
 - b) régime du transit de l’Union/régime de transit commun – ...;
 - c) régime de l’entrepôt douanier – ...;
-- d) régime d’admission temporaire en exonération totale des droits à l’importation – ...;
+- d) régime d’admission temporaire en exonération totale des droits à l’importation –;
 - e) régime du perfectionnement actif – ...;
 - f) régime de la destination particulière – ...;
-- g) autre (préciser le type d’opération) – ...
+- g) autre (préciser le type d’opération) – ... .
 
-1ter. Les montants qui constituent le montant de référence correspondant à un montant destiné à couvrir les dettes douanières et, le cas échéant, d’autres impositions ayant pris naissance sont indiqués ci-après pour chacune des finalités énumérées ci-dessous (8):
+1 *ter*. Les montants qui constituent le montant de référence correspondant à un montant destiné à couvrir les dettes douanières et, le cas échéant, d’autres impositions ayant pris naissance sont indiqués ci-après pour chacune des finalités énumérées ci-dessous (9):
 
 - a) mise en libre pratique dans le cadre d’une déclaration en douane normale sans report de paiement – ...;
 - b) mise en libre pratique dans le cadre d’une déclaration en douane normale avec report de paiement – ...;
-- c) mise en libre pratique dans le cadre d’une déclaration en douane présentée conformément à l’art. 166 du règlement (UE) n<sup>o</sup> 952/2013 du Parlement européen et du Conseil du 9 octobre 2013 établissant le code des douanes de l’Union – ...;
-- d) mise en libre pratique dans le cadre d’une déclaration en douane présentée conformément à l’art. 182 du règlement (UE) n<sup>o</sup> 952/2013 du Parlement européen et du Conseil du 9 octobre 2013 établissant le code des douanes de l’Union – ...;
+- c) mise en libre pratique dans le cadre d’une déclaration en douane présentée conformément à l’article 166 du règlement (UE) n<sup>o</sup> 952/2013 du Parlement européen et du Conseil du 9 octobre 2013 établissant le code des douanes de l’Union – ...;
+- d) mise en libre pratique dans le cadre d’une déclaration en douane présentée conformément à l’article 182 du règlement (UE) n<sup>o</sup> 952/2013 du Parlement européen et du Conseil du 9 octobre 2013 établissant le code des douanes de l’Union – ...;
 - e) régime d’admission temporaire en exonération partielle des droits à l’importation – ...;
-- f) régime de la destination particulière – ... (9),
-- g) autre (préciser le type d’opération) – ...
+- f) régime de la destination particulière – ... (10);
+- g) autre (préciser le type d’opération) – ... .
 
 \2. Le (la) soussigné(e) s’oblige à effectuer, à la première demande écrite des autorités compétentes des pays visés au point 1, le paiement des sommes demandées à concurrence du montant maximal susmentionné, sans pouvoir le différer au-delà d’un délai de trente jours à compter de la date de la demande, à moins qu’il (elle) ou toute autre personne intéressée n’établisse avant l’expiration de ce délai, à la satisfaction des autorités douanières, que le régime particulier, autre que le régime de la destination particulière, a été apuré, que la surveillance douanière des marchandises à destination particulière ou le dépôt temporaire ont pris fin de manière appropriée ou, dans le cas des opérations autres que les régimes particuliers, que la situation des marchandises a été régularisée.
 
@@ -5971,10 +5988,10 @@ Ce montant ne peut être diminué des sommes déjà payées en vertu du présent
 
 \3. Le présent engagement est valable à compter du jour de son approbation par le bureau de garantie. Le (la) soussigné(e) reste responsable du paiement de la dette née au cours de l’opération douanière, couverte par le présent engagement, ayant débuté avant la date de prise d’effet d’une révocation ou d’une résiliation de l’acte de cautionnement, même si le paiement en est exigé ultérieurement.
 
-\4. Aux fins du présent engagement, le (la) soussigné(e) fait élection de domicile (10) dans chacun des pays visés au point 1, à:
+\4. Aux fins du présent engagement, le (la) soussigné(e) fait élection de domicile (11) dans chacun des pays visés au point 1, à:
 
 <table>
-<tr><td>Pays</td><td>Nom et prénom ou raison sociale et adresse complète</td></tr>
+<tr><th>Pays</th><th>Nom et prénom ou raison sociale et adresse complète</th></tr>
 </table>
 
 Le (la) soussigné(e) reconnaît que toutes correspondances, significations et plus généralement toutes formalités ou procédures relatives au présent engagement adressées ou accomplies par écrit à l’un des domiciles élus seront acceptées et dûment remises à lui-même (elle-même).
@@ -5983,9 +6000,9 @@ Le (la) soussigné(e) reconnaît la compétence des juridictions respectives des
 
 Le (la) soussigné(e) s’engage à maintenir l’élection de domicile ou, s’il (si elle) est conduit(e) à modifier l’un ou plusieurs des domiciles élus, à en informer au préalable le bureau de garantie.
 
-Fait à, , le
+Fait à, le
 
-(Signature) (11)
+(signature) (12)
 
 ### II. Approbation du bureau de garantie
 
@@ -5993,19 +6010,20 @@ Bureau de garantie
 
 Engagement de la caution accepté le
 
-(cachet et signature)
+(cachet et signature)»
 
 - (1) Nom et prénom ou raison sociale.
 - (2) Adresse complète.
-- (3) Supprimer le nom/les noms du/des pays sur le territoire duquel/desquels la garantie ne peut pas être utilisée.
-- (4) Les références à la Principauté d’Andorre et à la République de Saint-Marin ne valent qu’à l’égard des opérations de transit de l’Union.
-- (5) Nom et prénom ou raison sociale et adresse complète de la personne constituant la garantie.
-- (6) S’applique en ce qui concerne les autres impositions dues en rapport avec l’importation ou l’exportation des marchandises lorsque la garantie est utilisée aux fins du placement de marchandises sous le régime du transit de l’Union/ commun ou susceptible d’être utilisée dans plusieurs États membres ou une seule partie contractante.
-- (7) Biffer les mentions inutiles.
-- (8) Les régimes autres que le transit commun s’appliquent uniquement dans l’Union.
-- (9) Pour les montants déclarés dans une déclaration en douane aux fins du régime de la destination particulière.
-- (10) Lorsque la possibilité d’élection de domicile n’est pas prévue dans la législation du pays, la caution désigne, dans ce pays, un mandataire autorisé à recevoir toute communication qui lui est destinée et les engagements prévus au point 4, deuxième et quatrième alinéas, doivent être stipulés *mutatis mutandis*. Les juridictions respectives des lieux de domicile de la caution ou de ses mandataires sont compétentes pour connaître des litiges concernant le présent cautionnement.
-- (11) Le signataire doit faire précéder sa signature de la mention manuscrite suivante: «Bon à titre de caution pour le montant de ...» (le montant doit être indiqué en toutes lettres).
+- (3) Conformément au protocole sur l’Irlande et l’Irlande du Nord de l’accord sur le retrait du Royaume-Uni de Grande-Bretagne et d’Irlande du Nord de l’Union européenne et de la Communauté européenne de l’énergie atomique, l’Irlande du Nord doit être considérée comme faisant partie de l’Union européenne aux fins de la présente garantie. Par conséquent, une caution établie sur le territoire douanier de l’Union européenne doit élire un domicile ou désigner un mandataire en Irlande du Nord si la garantie peut y être utilisée. Toutefois, si une garantie, dans le cadre du transit commun, devient valable dans l’Union européenne et au Royaume-Uni, une élection de domicile ou la désignation d’un mandataire au Royaume-Uni peut couvrir l’ensemble du territoire du Royaume-Uni, y compris l’Irlande du Nord.
+- (4) Supprimer le nom/les noms du/des pays sur le territoire duquel/desquels la garantie ne peut pas être utilisée.
+- (5) Les références à la Principauté d’Andorre et à la République de Saint-Marin ne valent qu’à l’égard des opérations de transit de l’Union.
+- (6) Nom et prénom ou raison sociale et adresse complète de la personne constituant la garantie.
+- (7) S’applique en ce qui concerne les autres impositions dues en rapport avec l’importation ou l’exportation des marchandises lorsque la garantie est utilisée aux fins du placement de marchandises sous le régime du transit de l’Union/commun ou susceptible d’être utilisée dans plusieurs États membres ou une seule partie contractante.
+- (8) Biffer les mentions inutiles.
+- (9) Les régimes autres que le transit commun s’appliquent uniquement dans l’Union.
+- (10) Pour les montants déclarés dans une déclaration en douane aux fins du régime de la destination particulière.
+- (11) Lorsque la possibilité d’élection de domicile n’est pas prévue dans la législation du pays, la caution désigne, dans ce pays, un mandataire autorisé à recevoir toute communication qui lui est destinée et les engagements prévus au point 4, deuxième et quatrième alinéas, doivent être stipulés mutatis mutandis. Les juridictions respectives des lieux de domicile de la caution et des mandataires sont compétentes pour connaître des litiges concernant le présent cautionnement.
+- (12) Le signataire doit faire précéder sa signature de la mention manuscrite suivante: «Bon à titre de caution pour le montant de ...» (le montant doit être indiqué en toutes lettres).
 
 Annexe C5 de l’appendice III
 
@@ -6019,7 +6037,7 @@ Annexe C5 de l’appendice III
 <tr><td>4. Caution (nom et prénom ou raison sociale, adresse complète et pays)</td><td colspan="5"></td></tr>
 <tr><td>5. Bureau de douane de garantie (numéro de référence)</td><td colspan="5"></td></tr>
 <tr><td>6. Montant de référence Code «monnaie»</td><td colspan="3">En chiffres:</td><td colspan="2">En lettres:</td></tr>
-<tr><td colspan="6">7. Le bureau de douane de garantie certifie que le titulaire du régime désigné ci‑dessus a constitué une garantie globale valable pour les opérations de transit de l’Union/commun empruntant les territoires douaniers indiqués ci-après dont le nom n’est pas biffé: UNION EUROPEENNE, ISLANDE – MACEDOINE DU NORD – NORVÈGE – SERBIE – SUISSE – TURQUIE – ROYAUME-UNI – ANDORRE<sup>(</sup>\*<sup>)</sup> – SAINT-MARIN<sup>(</sup>\*<sup>)</sup></td></tr>
+<tr><td colspan="6">7. Le bureau de douane de garantie certifie que le titulaire du régime désigné ci‑dessus a constitué une garantie globale valable pour les opérations de transit de l’Union/commun empruntant les territoires douaniers indiqués ci-après dont le nom n’est pas biffé: UNION EUROPEENNE, ISLANDE – MACEDOINE DU NORD – NORVÈGE – SERBIE – SUISSE – TURQUIE – UKRAINE – ROYAUME-UNI – ANDORRE<sup>(</sup>\*<sup>)</sup> – SAINT-MARIN<sup>(</sup>\*<sup>)</sup></td></tr>
 <tr><td colspan="6">8. Mentions particulières</td></tr>
 <tr><td colspan="2">9. Délai de validité prolongé jusqu’au jj/mm/aa inclus Fait à , (Lieu) (Date) (Signature d’un fonctionnaire et cachet du bureau de douane de garantie)</td><td colspan="4">Fait à , (Lieu) (Date) (Signature d’un fonctionnaire et cachet du bureau de douane de garantie)</td></tr>
 </table>
@@ -6047,7 +6065,7 @@ Annexe C6 de l’appendice III
 <tr><td>3. Titulaire du régime (nom et prénom ou raison sociale, adresse complète et pays)</td><td colspan="5"></td></tr>
 <tr><td>4. Bureau de douane de garantie (numéro de référence)</td><td colspan="5"></td></tr>
 <tr><td>5. Montant de référence Code «monnaie»</td><td colspan="3">En chiffres:</td><td colspan="2">En lettres:</td></tr>
-<tr><td colspan="6">6. Le bureau de douane de garantie certifie que le titulaire du régime désigné ci-dessus bénéficie d’une dispense de garantie pour couvrir ses opérations de transit de l’Union/commun empruntant les territoires douaniers indiqués ci-après dont le nom n’est pas biffé: UNION EUROPEENNE, ISLANDE, MACEDOINE DU NORD, NORVÈGE, SERBIE, SUISSE, TURQUIE, ROYAUME-UNI, ANDORRE<sup>(</sup>\*<sup>)</sup>, SAINT-MARIN<sup>(</sup>\*<sup>)</sup></td></tr>
+<tr><td colspan="6">6. Le bureau de douane de garantie certifie que le titulaire du régime désigné ci-dessus bénéficie d’une dispense de garantie pour couvrir ses opérations de transit de l’Union/commun empruntant les territoires douaniers indiqués ci-après dont le nom n’est pas biffé: UNION EUROPEENNE, ISLANDE, MACEDOINE DU NORD, NORVÈGE, SERBIE, SUISSE, TURQUIE, UKRAINE, ROYAUME-UNI, ANDORRE<sup>(</sup>\*<sup>)</sup>, SAINT-MARIN<sup>(</sup>\*<sup>)</sup></td></tr>
 <tr><td colspan="6">7. Mentions particulières</td></tr>
 <tr><td colspan="2">8. Délai de validité prolongé jusqu’au jj/mm/aa inclus Fait , le (Lieu) (Date) (Signature d’un fonctionnaire et cachet du bureau de douane de garantie)</td><td colspan="4">Fait , le (Lieu) (Date) (Signature d’un fonctionnaire et cachet du bureau de douane de garantie)</td></tr>
 </table>
@@ -8220,7 +8238,7 @@ Le présent appendice s’appliquera à partir de la date de mise à niveau du s
 
 Modèle de document d’accompagnement transit
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20220825/fr/xml/image/image7.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20221001/fr/xml/image/image7.png)
 
 Annexe A4<sup>bis</sup> de l’appendice III<sup>bis</sup>
 
@@ -8303,7 +8321,7 @@ La présente annexe s’appliquera à partir de la date de mise à niveau du sys
 
 Modèle de liste d’articles
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20220825/fr/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20221001/fr/xml/image/image8.png)
 
 Annexe A6<sup>bis</sup> de l’appendice III<sup>bis</sup>
 
