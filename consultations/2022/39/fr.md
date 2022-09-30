@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Arrêté fédéral allouant un crédit additionnel en vue du financement de projets de renouvellement de l’infrastructure routière destinée au chargement des automobiles
 document: Projet mis en consultation
 language: fr

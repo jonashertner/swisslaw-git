@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Bundesbeschluss über einen Zusatzkredit für die Finanzierung von Vorhaben zur Erneuerung der strassenseitigen Autoverlade-Infrastruktur
 document: Vernehmlassungsvorlage
 language: de

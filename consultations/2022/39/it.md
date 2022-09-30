@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Decreto federale concernente un credito aggiuntivo per il finanziamento di progetti di rinnovo dell'infrastruttura stradale per il carico di autoveicoli"
 document: Progetto posto in consultazione
 language: it
