@@ -4,24 +4,24 @@ title: Ordinanza del DATEC del 18 settembre 1995 concernente la navigabilità de
 short: ODNA
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4897_4897_4897"
 language: it
-version: 2015-07-15
+version: 2022-10-01
 adopted: 1995-09-18
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4897_4897_4897/20150715/it/xml/fedlex-data-admin-ch-eli-cc-1995-4897_4897_4897-20150715-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4897_4897_4897/20150715/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4897_4897_4897/20221001/it/xml/fedlex-data-admin-ch-eli-cc-1995-4897_4897_4897-20221001-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4897_4897_4897/20221001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza del DATEC concernente la navigabilità degli aeromobili
 
-(ODNA)**[^t-1]**
+(ODNA)[^t-1]
 
-del 18 settembre 1995 (Stato 15 luglio 2015)
+del 18 settembre 1995 (Stato 1° ottobre 2022)
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del DATEC del 20 set. 2004, in vigore dal 1° ott. 2004 ([RU 2004 4271](https://fedlex.data.admin.ch/eli/oc/2004/642)).
 
-Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni*[^ingress-1]* (DATEC),
+Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni[^ingress-1] (DATEC),
 
 visti gli articoli 57 capoversi 1 e 2 e 58 capoverso 2 della legge federale del 21 dicembre 1948[^ingress-2] sulla navigazione aerea (LNA); visti gli articoli 13, 21 e 138*a* capoversi 1 e 2 dell’ordinanza del 14 novembre 1973[^ingress-3] sulla navigazione aerea,[^ingress-4]
 
@@ -32,7 +32,7 @@ ordina:
 [^ingress-3]: [RS 748.01](https://fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856)
 [^ingress-4]: Nuovo testo giusta il n. I dell’O del DATEC del 14 lug. 2008, in vigore dal 1° ago. 2008 ([RU 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)).
 
-## Capitolo 1:**** Campo d’applicazione e diritto applicabile
+## Capitolo 1: Campo d’applicazione e diritto applicabile
 
 [^chap1-1]
 
@@ -136,13 +136,13 @@ I lavori di sviluppo e costruzione di aeromobili o parti d’aeromobile possono 
 
 [^6-1]: Nuova espr. giusta il n. I dell’O del DATEC del 14 lug. 2008, in vigore dal 1° ago. 2008 ([RU 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)). Di detta mod. è tenuto conto in tutto il presente testo.
 
-## Capitolo 3: Ammissione di aeromobili****
+## Capitolo 3: Ammissione di aeromobili
 
 [^chap3-1]
 
 [^chap3-1]: Nuovo testo giusta il n. I dell’O del DATEC del 14 lug. 2008, in vigore dal 1° ago. 2008 ([RU 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)).
 
-### Sezione 1: Principio****
+### Sezione 1: Principio
 
 [^chap3-sec1-1]
 
@@ -159,7 +159,7 @@ Sulla base di un esame ufficiale, l’UFAC rilascia:
 
 [^7-1]: Nuovo testo giusta il n. I dell’O del DATEC del 14 lug. 2008, in vigore dal 1° ago. 2008 ([RU 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)).
 
-### Sezione 2: Ammissione del tipo****
+### Sezione 2: Ammissione del tipo
 
 [^chap3-sec2-1]
 
@@ -217,7 +217,7 @@ L’UFAC può autorizzare deroghe alle procedure d’ammissione e alle esigenze 
 
 [^10a-1]: Introdotto dal n. I dell’O del DATEC del 14 lug. 2008, in vigore dal 1° ago. 2008 ([RU 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)).
 
-### Sezione 3: Ammissione alla circolazione****
+### Sezione 3: Ammissione alla circolazione
 
 [^chap3-sec3-1]
 
@@ -268,7 +268,7 @@ L’UFAC definisce:
 
 L’UFAC prescrive nel singolo caso l’equipaggiamento minimo dell’aeromobile per il genere d’esercizio previsto, nella misura in cui ciò non risulti dalle esigenze di navigabilità (Comunicazione tecnica, art. 50).
 
-## Capitolo 4: Ammissione di parti d’aeromobile ed equipaggiamenti****
+## Capitolo 4: Ammissione di parti d’aeromobile ed equipaggiamenti
 
 [^chap4-1]
 
@@ -414,7 +414,7 @@ In ogni aeromobile ammesso alla circolazione devono trovarsi i seguenti document
 [^22-7]: Abrogato dal n. I dell’O del DATEC del 14 lug. 2008, con effetto dal 1° ago. 2008 ([RU 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)).
 [^22-8]: Nuovo testo giusta il n. I dell’O del DATEC del 14 lug. 2008, in vigore dal 1° ago. 2008 ([RU 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)).
 
-## Capitolo 6: Mantenimento della navigabilità****
+## Capitolo 6: Mantenimento della navigabilità
 
 [^chap6-1]
 
@@ -432,7 +432,7 @@ In ogni aeromobile ammesso alla circolazione devono trovarsi i seguenti document
 
 [^23-1]: Nuovo testo giusta il n. I dell’O del DATEC del 14 lug. 2008, in vigore dal 1° ago. 2008 ([RU 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)).
 
-### Sezione 2: Manutenzione in generale****
+### Sezione 2: Manutenzione in generale
 
 [^chap6-sec2-1]
 
@@ -543,7 +543,7 @@ L’UFAC emana direttive (Comunicazioni tecniche, art. 50) per differenziare:[^2
 
 [^29-1]: Abrogato dal n. I dell’O del DATEC del 14 lug. 2008, con effetto dal 1° ago. 2008 ([RU 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)).
 
-### Sezione 4:**** Manutenzione di aeromobili che effettuano voli commerciali
+### Sezione 4: Manutenzione di aeromobili che effettuano voli commerciali
 
 [^chap6-sec4-1]
 
@@ -557,7 +557,7 @@ Le esigenze applicabili all’esecuzione di lavori di manutenzione sugli aeromob
 
 Abrogato
 
-### Sezione 5:**** Manutenzione di altri aeromobili
+### Sezione 5: Manutenzione di altri aeromobili
 
 [^chap6-sec5-1]
 
@@ -654,7 +654,7 @@ I lavori di manutenzione non complessi su alianti, alianti con gruppo propulsore
 [^34-2]: Nuovo testo giusta il n. I dell’O del DATEC del 16 gen. 2013, in vigore dal 1° feb. 2013 ([RU 2013 309](https://fedlex.data.admin.ch/eli/oc/2013/51)).
 [^34-3]: Nuovo testo giusta il n. I dell’O del DATEC del 16 gen. 2013, in vigore dal 1° feb. 2013 ([RU 2013 309](https://fedlex.data.admin.ch/eli/oc/2013/51)).
 
-### Sezione 6:**** Manutenzione di motori, eliche, parti d’aeromobile ed equipaggiamenti
+### Sezione 6: Manutenzione di motori, eliche, parti d’aeromobile ed equipaggiamenti
 
 [^chap6-sec6-1]
 
@@ -664,7 +664,7 @@ I lavori di manutenzione non complessi su alianti, alianti con gruppo propulsore
 
 Gli articoli 30–34 si applicano per analogia alla manutenzione di motori, eliche, parti d’aeromobile ed equipaggiamenti.
 
-### Sezione 7:**** Lavori di manutenzione all’estero
+### Sezione 7: Lavori di manutenzione all’estero
 
 [^chap6-sec7-1]
 
@@ -694,7 +694,7 @@ Se constata che i lavori di manutenzione eseguiti all’estero presentano lacune
 
 <sup>6</sup> In determinati casi, l’UFAC può autorizzare deroghe ai capoversi 2 e 3.
 
-### Sezione 8: Conclusione e conferma dei lavori di manutenzione****
+### Sezione 8: Conclusione e conferma dei lavori di manutenzione
 
 [^chap6-sec8-1]
 
@@ -758,7 +758,7 @@ La validità del certificato di riammissione in servizio scade:
 
 [^40-1]: Nuovo testo giusta il n. I dell’O del DATEC del 14 lug. 2008, in vigore dal 1° ago. 2008 ([RU 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)).
 
-### Sezione 9:**** Trasferimento di un aeromobile danneggiato
+### Sezione 9: Trasferimento di un aeromobile danneggiato
 
 [^chap6-sec9-1]
 
@@ -772,7 +772,7 @@ La validità del certificato di riammissione in servizio scade:
 
 <sup>3</sup> L’UFAC può emanare direttive (Comunicazioni tecniche, art. 50).
 
-## Capitolo 7: Modifiche****
+## Capitolo 7: Modifiche
 
 [^chap7-1]
 
@@ -852,7 +852,7 @@ Emana direttive sotto forma di comunicazioni tecniche (art. 50) concernenti:
 
 [^48-1]: Abrogato dal n. I dell’O del DATEC del 14 lug. 2008, con effetto dal 1° ago. 2008 ([RU 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)).
 
-## Capitolo 8:**** Certificato di navigabilità per l’esportazione
+## Capitolo 8: Certificato di navigabilità per l’esportazione
 
 [^chap8-1]
 
@@ -865,7 +865,7 @@ Su domanda, l’UFAC rilascia certificati di navigabilità per l’esportazione 
 - a. durante un esame ufficiale è stato constatato che l’aeromobile, il motore o l’elica corrisponde al certificato di tipo e ai documenti di tipo; e
 - b. i lavori di manutenzione necessari al mantenimento della navigabilità o dell’idoneità all’impiego sono stati eseguiti.
 
-## Capitolo 9:**** Pubblicazioni e obbligo di informarsi
+## Capitolo 9: Pubblicazioni e obbligo di informarsi
 
 [^chap9-1]
 
@@ -895,7 +895,7 @@ L’UFAC pubblica le direttive sulla navigabilità in vigore e un elenco di tali
 
 L’esercente è tenuto ad informarsi regolarmente in merito alla pubblicazione di nuove direttive sulla navigabilità per aeromobili, motori, eliche, parti d’aeromobile ed equipaggiamenti, applicabili al proprio aeromobile.
 
-## Capitolo 10: Ritiro di certificati e autorizzazioni****
+## Capitolo 10: Ritiro di certificati e autorizzazioni
 
 [^chap10-1]
 
@@ -905,7 +905,7 @@ L’esercente è tenuto ad informarsi regolarmente in merito alla pubblicazione 
 
 In applicazione dell’articolo 92 LNA, l’UFAC può ritirare certificati, autorizzazioni e licenze o limitarne la portata se le condizioni richieste per il loro conseguimento non sono più adempite.
 
-## Capitolo 10*a*:**** Disposizione penale
+## Capitolo 10*a*: Disposizione penale
 
 [^chap10a-1]
 
@@ -915,7 +915,7 @@ In applicazione dell’articolo 92 LNA, l’UFAC può ritirare certificati, auto
 
 Chiunque viola uno degli obblighi di cui agli articoli 19, 20, 22 e 29 capoverso 1 è punito in virtù dell’articolo 91 capoverso 1 lettera i LNA.
 
-## Capitolo 11: Disposizioni finali****
+## Capitolo 11: Disposizioni finali
 
 [^chap11-1]
 
@@ -971,62 +971,83 @@ Le abilitazioni di cui all’articolo 34 capoverso 3 della versione del 14 lugli
 
 La presente ordinanza entra in vigore il 1° gennaio 1996.
 
-Allegato *[^t-2]*
+Allegato[^t-2]
 
 [^t-2]: Abrogato dal n. II dell’O del DATEC del 14 lug. 2008, con effetto dal 1° ago. 2008 ([RU 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)).
 
-Allegato 1*[^t-3]*
+Allegato 1[^t-3]
 
 (art. 3 cpv. 3 e 4 lett. a)
 
 ## Sottocategoria Ecolight
 
-[^t-3]: Introdotto dal n. II dell’O del DATEC del 24 giu. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2181](https://fedlex.data.admin.ch/eli/oc/2015/402)). Il testo dell’all. non è pubblicato nella RU. Può essere consultato gratuitamente sul sito dell’Ufficio federale dell’aviazione civile: www.bazl.admin.ch &gt; Spazio professionale &gt; Aeromobili &gt; Progettazione, produzione e tipo
+[^annex1-lvlu1-1]
 
-Allegato 2*[^t-4]*
+[^t-3]: Introdotto dal n. II dell’O del DATEC del 24 giu. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2181](https://fedlex.data.admin.ch/eli/oc/2015/402)).
+[^annex1-lvlu1-1]: Il testo dell’all. non è pubblicato nella RU. Può essere consultato gratuitamente sul sito dell’Ufficio federale dell’aviazione civile: www.bazl.admin.ch &gt; Spazio profes­sionale &gt; Aeromobili &gt; Progettazione, produzione e tipo
+
+Allegato 2[^t-4]
 
 (art. 3 cpv. 3 e 4 lett. b)
 
 ## Sottocategoria Ultraleggeri
 
-[^t-4]: Introdotto dal n. II dell’O del DATEC del 24 giu. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2181](https://fedlex.data.admin.ch/eli/oc/2015/402)). Il testo dell’all. non è pubblicato nella RU. Può essere consultato gratuitamente sul sito dell’Ufficio federale dell’aviazione civile: www.bazl.admin.ch &gt; Spazio professionale &gt; Aeromobili &gt; Progettazione, produzione e tipo
+[^annex2-lvlu1-1]
 
-Allegato 3*[^t-5]*
+[^t-4]: Introdotto dal n. II dell’O del DATEC del 24 giu. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2181](https://fedlex.data.admin.ch/eli/oc/2015/402)).
+[^annex2-lvlu1-1]: Il testo dell’all. non è pubblicato nella RU. Può essere consultato gratuitamente sul sito dell’Ufficio federale dell’aviazione civile: www.bazl.admin.ch &gt; Spazio profes­sionale &gt; Aeromobili &gt; Progettazione, produzione e tipo
+
+Allegato 3[^t-5]
 
 (art. 3 cpv. 3 e 4 lett. c)
 
 ## Sottocategoria Storici / Historic
 
-[^t-5]: Introdotto dal n. II dell’O del DATEC del 24 giu. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2181](https://fedlex.data.admin.ch/eli/oc/2015/402)). Il testo dell’all. non è pubblicato nella RU. Può essere consultato gratuitamente sul sito dell’Ufficio federale dell’aviazione civile: www.bazl.admin.ch &gt; Spazio professionale &gt; Aeromobili &gt; Progettazione, produzione e tipo
+[^annex3-lvlu1-1]
 
-Allegato 4*[^t-6]*
+[^t-5]: Introdotto dal n. II dell’O del DATEC del 24 giu. 2015 ([RU 2015 2181](https://fedlex.data.admin.ch/eli/oc/2015/402)). Nuovo tersto giusta il n. I dell’O del DATEC del 24 ago. 2022, in vigore dal 1° ott. 2022 ([RU 2022 480](https://fedlex.data.admin.ch/eli/oc/2022/480)).
+[^annex3-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2022/480](https://fedlex.data.admin.ch/eli/oc/2022/480) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+
+Allegato 4[^t-6]
 
 (art. 3 cpv. 3 e 4 lett. d)
 
 ## Sottocategoria Autocostruzioni
 
-[^t-6]: Introdotto dal n. II dell’O del DATEC del 24 giu. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2181](https://fedlex.data.admin.ch/eli/oc/2015/402)). Il testo dell’all. non è pubblicato nella RU. Può essere consultato gratuitamente sul sito dell’Ufficio federale dell’aviazione civile: www.bazl.admin.ch &gt; Spazio professionale &gt; Aeromobili &gt; Progettazione, produzione e tipo
+[^annex4-lvlu1-1]
 
-Allegato 5*[^t-7]*
+[^t-6]: Introdotto dal n. II dell’O del DATEC del 24 giu. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2181](https://fedlex.data.admin.ch/eli/oc/2015/402)).
+[^annex4-lvlu1-1]: Il testo dell’all. non è pubblicato nella RU. Può essere consultato gratuitamente sul sito dell’Ufficio federale dell’aviazione civile: www.bazl.admin.ch &gt; Spazio profes­sionale &gt; Aeromobili &gt; Progettazione, produzione e tipo
+
+Allegato 5[^t-7]
 
 (art. 3 cpv. 3 e 4 lett. e)
 
 ## Sottocategoria Limitati / Limited
 
-[^t-7]: Introdotto dal n. II dell’O del DATEC del 24 giu. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2181](https://fedlex.data.admin.ch/eli/oc/2015/402)). Il testo dell’all. non è pubblicato nella RU. Può essere consultato gratuitamente sul sito dell’Ufficio federale dell’aviazione civile: www.bazl.admin.ch &gt; Spazio professionale &gt; Aeromobili &gt; Progettazione, produzione e tipo
+[^annex5-lvlu1-1]
 
-Allegato 6*[^t-8]*
+[^t-7]: Introdotto dal n. II dell’O del DATEC del 24 giu. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2181](https://fedlex.data.admin.ch/eli/oc/2015/402)).
+[^annex5-lvlu1-1]: Il testo dell’all. non è pubblicato nella RU. Può essere consultato gratuitamente sul sito dell’Ufficio federale dell’aviazione civile: www.bazl.admin.ch &gt; Spazio profes­sionale &gt; Aeromobili &gt; Progettazione, produzione e tipo
+
+Allegato 6[^t-8]
 
 (art. 3 cpv. 3 e 4 lett. f)
 
 ## Sottocategoria Sperimentali
 
-[^t-8]: Introdotto dal n. II dell’O del DATEC del 24 giu. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2181](https://fedlex.data.admin.ch/eli/oc/2015/402)). Il testo dell’all. non è pubblicato nella RU. Può essere consultato gratuitamente sul sito dell’Ufficio federale dell’aviazione civile: www.bazl.admin.ch &gt; Spazio professionale &gt; Aeromobili &gt; Progettazione, produzione e tipo
+[^annex6-lvlu1-1]
 
-Allegato 7*[^t-9]*
+[^t-8]: Introdotto dal n. II dell’O del DATEC del 24 giu. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2181](https://fedlex.data.admin.ch/eli/oc/2015/402)).
+[^annex6-lvlu1-1]: Il testo dell’all. non è pubblicato nella RU. Può essere consultato gratuitamente sul sito dell’Ufficio federale dell’aviazione civile: www.bazl.admin.ch &gt; Spazio profes­sionale &gt; Aeromobili &gt; Progettazione, produzione e tipo
+
+Allegato 7[^t-9]
 
 (art. 3 cpv. 3 e 4 lett. g)
 
 ## Sottocategoria Con limitazioni / Restricted
 
-[^t-9]: Introdotto dal n. II dell’O del DATEC del 24 giu. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2181](https://fedlex.data.admin.ch/eli/oc/2015/402)). Il testo dell’all. non è pubblicato nella RU. Può essere consultato gratuitamente sul sito dell’Ufficio federale dell’aviazione civile: www.bazl.admin.ch &gt; Spazio professionale &gt; Aeromobili &gt; Progettazione, produzione e tipo
+[^annex7-lvlu1-1]
+
+[^t-9]: Introdotto dal n. II dell’O del DATEC del 24 giu. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2181](https://fedlex.data.admin.ch/eli/oc/2015/402)).
+[^annex7-lvlu1-1]: Il testo dell’all. non è pubblicato nella RU. Può essere consultato gratuitamente sul sito dell’Ufficio federale dell’aviazione civile: www.bazl.admin.ch &gt; Spazio profes­sionale &gt; Aeromobili &gt; Progettazione, produzione e tipo

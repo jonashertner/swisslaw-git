@@ -4,24 +4,24 @@ title: Verordnung des UVEK vom 18. September 1995 über die Lufttüchtigkeit von
 short: VLL
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4897_4897_4897"
 language: de
-version: 2015-07-15
+version: 2022-10-01
 adopted: 1995-09-18
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4897_4897_4897/20150715/de/xml/fedlex-data-admin-ch-eli-cc-1995-4897_4897_4897-20150715-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4897_4897_4897/20150715/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4897_4897_4897/20221001/de/xml/fedlex-data-admin-ch-eli-cc-1995-4897_4897_4897-20221001-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4897_4897_4897/20221001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Verordnung des UVEK über die Lufttüchtigkeit von Luftfahrzeugen****
+# Verordnung des UVEK über die Lufttüchtigkeit von Luftfahrzeugen
 
 (VLL)[^t-1]
 
-vom 18. September 1995 (Stand am 15. Juli 2015)
+vom 18. September 1995 (Stand am 1. Oktober 2022)
 
 [^t-1]: Fassung gemäss Ziff. I der V des UVEK vom 20. Sept. 2004, in Kraft seit 1. Okt. 2004 ([AS 2004 4271](https://fedlex.data.admin.ch/eli/oc/2004/642)).
 
-Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK)*[^ingress-1]*,
+Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK)[^ingress-1],
 
 gestützt auf die Artikel 57 Absätze 1 und 2 sowie 58 Absatz 2 des Luftfahrtgesetzes vom 21. Dezember 1948[^ingress-2] (LFG) und auf die Artikel 13, 21 und 138*a* Absätze 1 und 2 der Luftfahrtverordnung vom 14. November 1973[^ingress-3],[^ingress-4]
 
@@ -32,7 +32,7 @@ verordnet:
 [^ingress-3]: [SR 748.01](https://fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856)
 [^ingress-4]: Fassung gemäss Ziff. I der V des UVEK vom 14. Juli 2008, in Kraft seit 1. Aug. 2008 ([AS 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)).
 
-## 1. Kapitel:**** Geltungsbereich und anwendbares Recht
+## 1. Kapitel: Geltungsbereich und anwendbares Recht
 
 [^chap1-1]
 
@@ -138,7 +138,7 @@ Entwicklungs- und Herstellungsarbeiten können mit Zustimmung des BAZL[^6-1] an 
 
 ## 3. Kapitel: Zulassung von Luftfahrzeugen
 
-### 1. Abschnitt: Grundsatz****
+### 1. Abschnitt: Grundsatz
 
 [^chap3-sec1-1]
 
@@ -155,7 +155,7 @@ Das BAZL stellt aufgrund einer amtlichen Prüfung aus:
 
 [^7-1]: Fassung gemäss Ziff. I der V des UVEK vom 14. Juli 2008, in Kraft seit 1. Aug. 2008 ([AS 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)).
 
-### 2. Abschnitt: Baumusterzulassung****
+### 2. Abschnitt: Baumusterzulassung
 
 [^chap3-sec2-1]
 
@@ -213,7 +213,7 @@ Das BAZL kann von den Zulassungsverfahren und den Lufttüchtigkeitsanforderungen
 
 [^10a-1]: Eingefügt durch Ziff. I der V des UVEK vom 14. Juli 2008, in Kraft seit 1. Aug. 2008 ([AS 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)).
 
-### 3. Abschnitt: Zulassung zum Verkehr****
+### 3. Abschnitt: Zulassung zum Verkehr
 
 [^chap3-sec3-1]
 
@@ -265,7 +265,7 @@ Das BAZL legt fest:
 
 Das BAZL legt im Einzelfall für die vorgesehene Einsatzart die Mindestausrüstung eines Luftfahrzeuges fest, soweit diese nicht aus den Lufttüchtigkeitsanforderungen hervorgeht (Technische Mitteilung, Art. 50).
 
-## 4. Kapitel: Zulassung von Luftfahrzeugteilen und Ausrüstungen****
+## 4. Kapitel: Zulassung von Luftfahrzeugteilen und Ausrüstungen
 
 [^chap4-1]
 
@@ -410,7 +410,7 @@ In jedem Luftfahrzeug, das zum Verkehr zugelassen ist, sind folgende Bordpapiere
 [^22-6]: Aufgehoben durch Ziff. I der V des UVEK vom 14. Juli 2008, mit Wirkung seit 1. Aug. 2008 ([AS 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)).
 [^22-7]: Fassung gemäss Ziff. I der V des UVEK vom 14. Juli 2008, in Kraft seit 1. Aug. 2008 ([AS 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)).
 
-## 6. Kapitel: Aufrechterhaltung der Lufttüchtigkeit****
+## 6. Kapitel: Aufrechterhaltung der Lufttüchtigkeit
 
 [^chap6-1]
 
@@ -428,7 +428,7 @@ In jedem Luftfahrzeug, das zum Verkehr zugelassen ist, sind folgende Bordpapiere
 
 [^23-1]: Fassung gemäss Ziff. I der V des UVEK vom 14. Juli 2008, in Kraft seit 1. Aug. 2008 ([AS 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)).
 
-### 2. Abschnitt: Instandhaltung im Allgemeinen****
+### 2. Abschnitt: Instandhaltung im Allgemeinen
 
 [^chap6-sec2-1]
 
@@ -542,7 +542,7 @@ Das BAZL erlässt Richtlinien (Technische Mitteilung, Art. 50) für die Untersch
 
 [^29-1]: Aufgehoben durch Ziff. I der V des UVEK vom 14. Juli 2008, mit Wirkung seit 1. Aug. 2008 ([AS 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)).
 
-### 4. Abschnitt:**** Instandhaltung von Luftfahrzeugen im gewerbsmässigen Einsatz
+### 4. Abschnitt: Instandhaltung von Luftfahrzeugen im gewerbsmässigen Einsatz
 
 [^chap6-sec4-1]
 
@@ -556,7 +556,7 @@ Die Anforderungen an die Durchführung von Instandhaltungsarbeiten für Luftfahr
 
 *Aufgehoben*
 
-### 5. Abschnitt:**** Instandhaltung für andere Luftfahrzeuge
+### 5. Abschnitt: Instandhaltung für andere Luftfahrzeuge
 
 [^chap6-sec5-1]
 
@@ -654,7 +654,7 @@ Nicht komplexe Instandhaltungsarbeiten an Segelflugzeugen, Segelflugzeugen mit K
 [^34-3]: Fassung gemäss Ziff. I der V des UVEK vom 16. Jan. 2013, in Kraft seit 1. Febr. 2013 ([AS 2013 309](https://fedlex.data.admin.ch/eli/oc/2013/51)).
 [^34-4]: Fassung gemäss Ziff. I der V des UVEK vom 16. Jan. 2013, in Kraft seit 1. Febr. 2013 ([AS 2013 309](https://fedlex.data.admin.ch/eli/oc/2013/51)).
 
-### 6. Abschnitt:**** Instandhaltung von Triebwerken, Propellern, Luftfahrzeugteilen und Ausrüstungen
+### 6. Abschnitt: Instandhaltung von Triebwerken, Propellern, Luftfahrzeugteilen und Ausrüstungen
 
 [^chap6-sec6-1]
 
@@ -664,7 +664,7 @@ Nicht komplexe Instandhaltungsarbeiten an Segelflugzeugen, Segelflugzeugen mit K
 
 Für die Berechtigung zur Durchführung von Instandhaltungsarbeiten an Triebwerken, Propellern, Luftfahrzeugteilen und Ausrüstungen sind die Artikel 30–34 sinngemäss anwendbar.
 
-### 7. Abschnitt:**** Instandhaltungsarbeiten im Ausland
+### 7. Abschnitt: Instandhaltungsarbeiten im Ausland
 
 [^chap6-sec7-1]
 
@@ -694,7 +694,7 @@ Stellt das BAZL fest, dass Instandhaltungsarbeiten im Ausland mangelhaft ausgef�
 
 <sup>6</sup> Das BAZL kann im Einzelfall Ausnahmen von den Absätzen 2 und 3 vorsehen.
 
-### 8. Abschnitt: Abschluss und Bestätigung der Instandhaltungsarbeiten****
+### 8. Abschnitt: Abschluss und Bestätigung der Instandhaltungsarbeiten
 
 [^chap6-sec8-1]
 
@@ -758,7 +758,7 @@ Die Gültigkeit der Freigabebescheinigung erlischt:
 
 [^40-1]: Fassung gemäss Ziff. I der V des UVEK vom 14. Juli 2008, in Kraft seit 1. Aug. 2008 ([AS 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)).
 
-### 9. Abschnitt:**** Überflug nach Beschädigung eines Luftfahrzeuges
+### 9. Abschnitt: Überflug nach Beschädigung eines Luftfahrzeuges
 
 [^chap6-sec9-1]
 
@@ -772,7 +772,7 @@ Die Gültigkeit der Freigabebescheinigung erlischt:
 
 <sup>3</sup> Es kann Richtlinien erlassen (Technische Mitteilung, Art. 50).
 
-## 7. Kapitel: Änderungen****
+## 7. Kapitel: Änderungen
 
 [^chap7-1]
 
@@ -852,7 +852,7 @@ Es erlässt Richtlinien in Form von Technischen Mitteilungen (Art. 50) über:
 
 [^48-1]: Aufgehoben durch Ziff. I der V des UVEK vom 14. Juli 2008, mit Wirkung seit 1. Aug. 2008 ([AS 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)).
 
-## 8. Kapitel:**** Export-Lufttüchtigkeitszeugnis
+## 8. Kapitel: Export-Lufttüchtigkeitszeugnis
 
 [^chap8-1]
 
@@ -865,7 +865,7 @@ Das BAZL stellt auf Gesuch für Luftfahrzeuge, Triebwerke oder Propeller Export-
 - a. in einer amtlichen Prüfung festgestellt wurde, dass das Luftfahrzeug, das Triebwerk oder der Propeller dem Baumusterzeugnis und den Baumusterunterlagen entspricht; und
 - b. die für die Lufttüchtigkeit oder die Verwendbarkeit erforderlichen Instandhaltungsarbeiten durchgeführt worden sind.
 
-## 9. Kapitel:**** Veröffentlichungen und Pflicht, sich zu informieren
+## 9. Kapitel: Veröffentlichungen und Pflicht, sich zu informieren
 
 [^chap9-1]
 
@@ -895,7 +895,7 @@ Das BAZL veröffentlicht die gültigen Lufttüchtigkeitsanweisungen und eine per
 
 Der Halter oder die Halterin ist verpflichtet, sich regelmässig über neu erschienene Lufttüchtigkeitsanweisungen für Luftfahrzeuge, Triebwerke, Propeller, Luftfahrzeugteile und Ausrüstungen seines oder ihres Luftfahrzeuges zu informieren.
 
-## 10. Kapitel: Entzug von Zeugnissen und Bewilligungen****
+## 10. Kapitel: Entzug von Zeugnissen und Bewilligungen
 
 [^chap10-1]
 
@@ -905,7 +905,7 @@ Der Halter oder die Halterin ist verpflichtet, sich regelmässig über neu ersch
 
 Das BAZL kann in Anwendung von Artikel 92 des LFG Zeugnisse, Bewilligungen und Ausweise entziehen oder einschränken, wenn die für die Erteilung massgebenden Voraussetzungen nicht mehr erfüllt sind.
 
-## 10*a*. Kapitel:**** Strafbestimmung
+## 10*a*. Kapitel: Strafbestimmung
 
 [^chap10a-1]
 
@@ -915,7 +915,7 @@ Das BAZL kann in Anwendung von Artikel 92 des LFG Zeugnisse, Bewilligungen und A
 
 Wer eine Pflicht nach den Artikeln 19, 20, 22 und 29 Absatz 1 verletzt, wird nach Artikel 91 Absatz 1 Buchstabe i LFG bestraft.
 
-## 11. Kapitel: Schlussbestimmungen****
+## 11. Kapitel: Schlussbestimmungen
 
 [^chap11-1]
 
@@ -971,64 +971,85 @@ Die Berechtigungen nach Artikel 34 Absatz 3 in der Fassung vom 14. Juli 2008[^54
 
 Diese Verordnung tritt am 1. Januar 1996 in Kraft.
 
-Anhang*[^t-2]*
+Anhang[^t-2]
 
 Art. 50 Abs. 3
 
 [^t-2]: Aufgehoben durch Ziff. II der V des UVEK vom 14. Juli 2008, mit Wirkung seit 1. Aug. 2008 ([AS 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)).
 
-Anhang 1*[^t-3]*
+Anhang 1[^t-3]
 
 (Art. 3 Abs. 3 und 4 Bst. a )
 
 ## Unterkategorie Ecolight
 
-[^t-3]: Eingefügt durch Ziff. II der V des UVEK vom 24. Juni 2015, in Kraft seit 15. Juli 2015 ([AS 2015 2181](https://fedlex.data.admin.ch/eli/oc/2015/402)). Der Text des Anhangs wird in der AS nicht veröffentlicht. Er kann beim Bundesamt für Zivilluftfahrt kostenlos abgerufen werden unter www.bazl.admin.ch &gt; Portal für Fachleute &gt; Luftfahrzeuge &gt; Entwicklung, Herstellung und Baumuster
+[^annex1-lvlu1-1]
 
-Anhang 2*[^t-4]*
+[^t-3]: Eingefügt durch Ziff. II der V des UVEK vom 24. Juni 2015, in Kraft seit 15. Juli 2015 ([AS 2015 2181](https://fedlex.data.admin.ch/eli/oc/2015/402)).
+[^annex1-lvlu1-1]: Der Text des Anhangs wird in der AS nicht veröffentlicht. Er kann beim Bundesamt für Zivilluftfahrt kostenlos abgerufen werden unter www.bazl.admin.ch &gt; Portal für Fachleute &gt; Luftfahrzeuge &gt; Entwicklung, Herstellung und Baumuster
+
+Anhang 2[^t-4]
 
 (Art. 3 Abs. 3 und 4 Bst. b)
 
 ## Unterkategorie Ultraleicht
 
-[^t-4]: Eingefügt durch Ziff. II der V des UVEK vom 24. Juni 2015, in Kraft seit 15. Juli 2015 ([AS 2015 2181](https://fedlex.data.admin.ch/eli/oc/2015/402)). Der Text des Anhangs wird in der AS nicht veröffentlicht . Er kann beim Bundesamt für Zivilluftfahrt kostenlos abgerufen werden unter www.bazl.admin.ch &gt; Portal für Fachleute &gt; Luftfahrzeuge &gt; Entwicklung, Herstellung und Baumuster
+[^annex2-lvlu1-1]
 
-Anhang 3*[^t-5]*
+[^t-4]: Eingefügt durch Ziff. II der V des UVEK vom 24. Juni 2015, in Kraft seit 15. Juli 2015 ([AS 2015 2181](https://fedlex.data.admin.ch/eli/oc/2015/402)).
+[^annex2-lvlu1-1]: Der Text des Anhangs wird in der AS nicht veröffentlicht . Er kann beim Bundesamt für Zivilluftfahrt kostenlos abgerufen werden unter www.bazl.admin.ch &gt; Portal für Fachleute &gt; Luftfahrzeuge &gt; Entwicklung, Herstellung und Baumuster
+
+Anhang 3[^t-5]
 
 (Art. 3 Abs. 3 und 4 Bst. c)
 
 ## Unterkategorie Historisch / Historic
 
-[^t-5]: Eingefügt durch Ziff. II der V des UVEK vom 24. Juni 2015, in Kraft seit 15. Juli 2015 ([AS 2015 2181](https://fedlex.data.admin.ch/eli/oc/2015/402)). Der Text des Anhangs wird in der AS nicht veröffentlicht. Er kann beim Bundesamt für Zivilluftfahrt kostenlos abgerufen werden unter www.bazl.admin.ch &gt; Portal für Fachleute &gt; Luftfahrzeuge &gt; Entwicklung, Herstellung und Baumuster
+[^annex3-lvlu1-1]
 
-Anhang 4*[^t-6]*
+[^t-5]: Eingefügt durch Ziff. II der V des UVEK vom 24. Juni 2015 ([AS 2015 2181](https://fedlex.data.admin.ch/eli/oc/2015/402)). Fassung gemäss Ziff. I der V des UVEK vom 24. Aug. 2022, in Kraft seit 1. Okt. 2022 ([AS 2022 480](https://fedlex.data.admin.ch/eli/oc/2022/480)).
+[^annex3-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2022/480](https://fedlex.data.admin.ch/eli/oc/2022/480) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+
+Anhang 4[^t-6]
 
 (Art. 3 Abs. 3 und 4 Bst. d)
 
 ## Unterkategorie Eigenbau
 
-[^t-6]: Eingefügt durch Ziff. II der V des UVEK vom 24. Juni 2015, in Kraft seit 15. Juli 2015 ([AS 2015 2181](https://fedlex.data.admin.ch/eli/oc/2015/402)). Der Text des Anhangs wird in der AS nicht veröffentlicht. Er kann beim Bundesamt für Zivilluftfahrt kostenlos abgerufen werden unter www.bazl.admin.ch &gt; Portal für Fachleute &gt; Luftfahrzeuge &gt; Entwicklung, Herstellung und Baumuster
+[^annex4-lvlu1-1]
 
-Anhang 5*[^t-7]*
+[^t-6]: Eingefügt durch Ziff. II der V des UVEK vom 24. Juni 2015, in Kraft seit 15. Juli 2015 ([AS 2015 2181](https://fedlex.data.admin.ch/eli/oc/2015/402)).
+[^annex4-lvlu1-1]: Der Text des Anhangs wird in der AS nicht veröffentlicht. Er kann beim Bundesamt für Zivilluftfahrt kostenlos abgerufen werden unter www.bazl.admin.ch &gt; Portal für Fachleute &gt; Luftfahrzeuge &gt; Entwicklung, Herstellung und Baumuster
+
+Anhang 5[^t-7]
 
 (Art. 3 Abs. 3 und 4 Bst. e)
 
 ## Unterkategorie Limitiert / Limited
 
-[^t-7]: Eingefügt durch Ziff. II der V des UVEK vom 24. Juni 2015, in Kraft seit 15. Juli 2015 ([AS 2015 2181](https://fedlex.data.admin.ch/eli/oc/2015/402)). Der Text des Anhangs wird in der AS nicht veröffentlicht. Er kann beim Bundesamt für Zivilluftfahrt kostenlos abgerufen werden unter www.bazl.admin.ch &gt; Portal für Fachleute &gt; Luftfahrzeuge &gt; Entwicklung, Herstellung und Baumuster
+[^annex5-lvlu1-1]
 
-Anhang 6*[^t-8]*
+[^t-7]: Eingefügt durch Ziff. II der V des UVEK vom 24. Juni 2015, in Kraft seit 15. Juli 2015 ([AS 2015 2181](https://fedlex.data.admin.ch/eli/oc/2015/402)).
+[^annex5-lvlu1-1]: Der Text des Anhangs wird in der AS nicht veröffentlicht. Er kann beim Bundesamt für Zivilluftfahrt kostenlos abgerufen werden unter www.bazl.admin.ch &gt; Portal für Fachleute &gt; Luftfahrzeuge &gt; Entwicklung, Herstellung und Baumuster
+
+Anhang 6[^t-8]
 
 (Art. 3 Abs. 3 und 4 Bst. f)
 
 ## Unterkategorie Experimental
 
-[^t-8]: Eingefügt durch Ziff. II der V des UVEK vom 24. Juni 2015, in Kraft seit 15. Juli 2015 ([AS 2015 2181](https://fedlex.data.admin.ch/eli/oc/2015/402)). Der Text des Anhangs wird in der AS nicht veröffentlicht. Er kann beim Bundesamt für Zivilluftfahrt kostenlos abgerufen werden unter www.bazl.admin.ch &gt; Portal für Fachleute &gt; Luftfahrzeuge &gt; Entwicklung, Herstellung und Baumuster
+[^annex6-lvlu1-1]
 
-Anhang 7*[^t-9]*
+[^t-8]: Eingefügt durch Ziff. II der V des UVEK vom 24. Juni 2015, in Kraft seit 15. Juli 2015 ([AS 2015 2181](https://fedlex.data.admin.ch/eli/oc/2015/402)).
+[^annex6-lvlu1-1]: Der Text des Anhangs wird in der AS nicht veröffentlicht. Er kann beim Bundesamt für Zivilluftfahrt kostenlos abgerufen werden unter www.bazl.admin.ch &gt; Portal für Fachleute &gt; Luftfahrzeuge &gt; Entwicklung, Herstellung und Baumuster
+
+Anhang 7[^t-9]
 
 (Art. 3 Abs. 3 und 4 Bst. g)
 
 ## Unterkategorie Eingeschränkt / Restricted
 
-[^t-9]: Eingefügt durch Ziff. II der V des UVEK vom 24. Juni 2015, in Kraft seit 15. Juli 2015 ([AS 2015 2181](https://fedlex.data.admin.ch/eli/oc/2015/402)). Der Text des Anhangs wird in der AS nicht veröffentlicht. Er kann beim Bundesamt für Zivilluftfahrt kostenlos abgerufen werden unter www.bazl.admin.ch &gt; Portal für Fachleute &gt; Luftfahrzeuge &gt; Entwicklung, Herstellung und Baumuster
+[^annex7-lvlu1-1]
+
+[^t-9]: Eingefügt durch Ziff. II der V des UVEK vom 24. Juni 2015, in Kraft seit 15. Juli 2015 ([AS 2015 2181](https://fedlex.data.admin.ch/eli/oc/2015/402)).
+[^annex7-lvlu1-1]: Der Text des Anhangs wird in der AS nicht veröffentlicht. Er kann beim Bundesamt für Zivilluftfahrt kostenlos abgerufen werden unter www.bazl.admin.ch &gt; Portal für Fachleute &gt; Luftfahrzeuge &gt; Entwicklung, Herstellung und Baumuster

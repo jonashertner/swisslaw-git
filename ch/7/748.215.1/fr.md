@@ -4,24 +4,24 @@ title: Ordonnance du DETEC du 18 septembre 1995 sur la navigabilité des aérone
 short: ONAE
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4897_4897_4897"
 language: fr
-version: 2015-07-15
+version: 2022-10-01
 adopted: 1995-09-18
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4897_4897_4897/20150715/fr/xml/fedlex-data-admin-ch-eli-cc-1995-4897_4897_4897-20150715-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4897_4897_4897/20150715/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4897_4897_4897/20221001/fr/xml/fedlex-data-admin-ch-eli-cc-1995-4897_4897_4897-20221001-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4897_4897_4897/20221001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du DETEC sur la navigabilité des aéronefs
 
-(ONAE)**[^t-1]**
+(ONAE)[^t-1]
 
-du 18 septembre 1995 (Etat le 15 juillet 2015)
+du 18 septembre 1995 (État le 1<sup>er</sup> octobre 2022)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 20 sept. 2004, en vigueur depuis le 1<sup>er</sup> oct. 2004 ([RO 2004 4271](https://fedlex.data.admin.ch/eli/oc/2004/642)).
 
-Le Département fédéral, de l’environnement, des transports, de l’énergie et de la communication*[^ingress-1]* (DETEC),
+Le Département fédéral, de l’environnement, des transports, de l’énergie et de la communication[^ingress-1] (DETEC),
 
 vu les art. 57, al. 1 et 2, et 58, al. 2, de la loi du 21 décembre 1948 sur l’aviation (LA)[^ingress-2], vu les art. 13, 21, et 138*a*, al. 1 et 2, de l’ordonnance du 14 novembre 1973 sur l’aviation[^ingress-3],[^ingress-4]
 
@@ -32,7 +32,7 @@ arrête:
 [^ingress-3]: [RS 748.01](https://fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856)
 [^ingress-4]: Nouvelle teneur selon le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)).
 
-## Chapitre 1**** Champ d’application et droit applicable
+## Chapitre 1 Champ d’application et droit applicable
 
 [^chap1-1]
 
@@ -139,7 +139,7 @@ Des travaux de conception et de construction peuvent être confiés, avec l’ac
 
 ## Chapitre 3 Certification des aéronefs
 
-### Section 1 Principe****
+### Section 1 Principe
 
 [^chap3-sec1-1]
 
@@ -156,7 +156,7 @@ L’OFAC établit sur la base d’un examen officiel:
 
 [^7-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)).
 
-### Section 2 Certification du type****
+### Section 2 Certification du type
 
 [^chap3-sec2-1]
 
@@ -214,7 +214,7 @@ L’OFAC peut déroger aux procédures de certification et aux exigences de navi
 
 [^10a-1]: Introduit par le ch. I de l’O du DETEC du 14 juil. 2008 ([RO 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)). Nouvelle teneur selon le ch. I de l’O du DETEC du 24 juin 2015, en vigueur depuis le 15 juil. 2015 ([RO 2015 2181](https://fedlex.data.admin.ch/eli/oc/2015/402)).
 
-### Section 3 Admission à la circulation****
+### Section 3 Admission à la circulation
 
 [^chap3-sec3-1]
 
@@ -265,7 +265,7 @@ L’OFAC définit:
 
 L’OFAC fixe dans les cas d’espèce l’équipement minimal de l’aéronef pour le genre d’exploitation prévu, dans la mesure où il ne ressort pas des exigences de navigabilité (communications techniques, art. 50).
 
-## Chapitre 4 Certification de pièces d’aéronef et d’équipements****
+## Chapitre 4 Certification de pièces d’aéronef et d’équipements
 
 [^chap4-1]
 
@@ -409,7 +409,7 @@ Les papiers de bord et les documents ci-après doivent se trouver dans chaque a�
 [^22-6]: Abrogé par le ch. I de l’O du DETEC du 14 juil. 2008, avec effet au 1<sup>er</sup> août 2008 ([RO 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)).
 [^22-7]: Nouvelle teneur selon le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)).
 
-## Chapitre 6 Maintien de la navigabilité****
+## Chapitre 6 Maintien de la navigabilité
 
 [^chap6-1]
 
@@ -427,7 +427,7 @@ Les papiers de bord et les documents ci-après doivent se trouver dans chaque a�
 
 [^23-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)).
 
-### Section 2 Maintenance en général****
+### Section 2 Maintenance en général
 
 [^chap6-sec2-1]
 
@@ -540,7 +540,7 @@ L’OFAC édicte des directives (communications techniques, art. 50) afin d’é
 
 [^29-1]: Abrogé par le ch. I de l’O du DETEC du 14 juil. 2008, avec effet au 1<sup>er</sup> août 2008 ([RO 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)).
 
-### Section 4**** Maintenance des aéronefs assurant des vols commerciaux
+### Section 4 Maintenance des aéronefs assurant des vols commerciaux
 
 [^chap6-sec4-1]
 
@@ -554,7 +554,7 @@ Les exigences applicables à l’exécution de travaux d’entretien sur des aé
 
 Abrogé
 
-### Section 5**** Maintenance d’autres aéronefs
+### Section 5 Maintenance d’autres aéronefs
 
 [^chap6-sec5-1]
 
@@ -652,7 +652,7 @@ Les travaux d’entretien non complexes sur les planeurs, planeurs avec moteur r
 [^34-3]: Nouvelle teneur selon le ch. I de l’O du DETEC du 16 janv. 2013, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 309](https://fedlex.data.admin.ch/eli/oc/2013/51)).
 [^34-4]: Nouvelle teneur selon le ch. I de l’O du DETEC du 16 janv. 2013, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 309](https://fedlex.data.admin.ch/eli/oc/2013/51)).
 
-### Section 6**** Maintenance des moteurs, hélices, pièces d’aéronef et équipements
+### Section 6 Maintenance des moteurs, hélices, pièces d’aéronef et équipements
 
 [^chap6-sec6-1]
 
@@ -662,7 +662,7 @@ Les travaux d’entretien non complexes sur les planeurs, planeurs avec moteur r
 
 Les art. 30 à 34 s’appliquent par analogie aux agréments relatifs à l’exécution de travaux d’entretien des moteurs, des hélices, des pièces d’aéronef et des équipements.
 
-### Section 7**** Travaux d’entretien à l’étranger
+### Section 7 Travaux d’entretien à l’étranger
 
 [^chap6-sec7-1]
 
@@ -692,7 +692,7 @@ S’il constate des carences dans les travaux d’entretien qui ont été exécu
 
 <sup>6</sup> L’OFAC peut prévoir au cas par cas des dérogations aux al. 2 et 3.
 
-### Section 8 Achèvement et attestation des travaux d’entretien****
+### Section 8 Achèvement et attestation des travaux d’entretien
 
 [^chap6-sec8-1]
 
@@ -756,7 +756,7 @@ Le certificat de remise en service cesse d’être valide:
 
 [^40-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 14 juil. 2008, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)).
 
-### Section 9**** Vol de convoyage d’un aéronef endommagé
+### Section 9 Vol de convoyage d’un aéronef endommagé
 
 [^chap6-sec9-1]
 
@@ -770,7 +770,7 @@ Le certificat de remise en service cesse d’être valide:
 
 <sup>3</sup> Il peut édicter des directives (communications techniques, art. 50).
 
-## Chapitre 7**** Modifications
+## Chapitre 7 Modifications
 
 [^chap7-1]
 
@@ -850,7 +850,7 @@ Il édicte des directives sous la forme de communications techniques (art. 50) c
 
 [^48-1]: Abrogé par le ch. I de l’O du DETEC du 14 juil. 2008, avec effet au 1<sup>er</sup> août 2008 ([RO 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)).
 
-## Chapitre 8**** Certificat de navigabilité pour l’exportation
+## Chapitre 8 Certificat de navigabilité pour l’exportation
 
 [^chap8-1]
 
@@ -863,7 +863,7 @@ Sur requête, l’OFAC établit des certificats de navigabilité pour l’export
 - a. si un examen officiel a permis de constater que l’aéronef, le moteur ou l’hélice est conforme au certificat de type ou aux documents de type; et
 - b. si les travaux d’entretien nécessaires au maintien de la navigabilité ou de l’aptitude à l’emploi ont été exécutés.
 
-## Chapitre 9**** Publications et devoir de s’informer
+## Chapitre 9 Publications et devoir de s’informer
 
 [^chap9-1]
 
@@ -893,7 +893,7 @@ L’OFAC publie les consignes de navigabilité applicables et fournit une liste 
 
 L’exploitant s’informe régulièrement de la publication des consignes de navigabilité les plus récentes concernant les aéronefs ainsi que les moteurs, hélices, pièces d’aéronef et équipements de son aéronef.
 
-## Chapitre 10**** Retrait de certificats et d’autorisations
+## Chapitre 10 Retrait de certificats et d’autorisations
 
 [^chap10-1]
 
@@ -903,7 +903,7 @@ L’exploitant s’informe régulièrement de la publication des consignes de na
 
 En vertu de l’art. 92 LA, l’OFAC peut retirer les certificats, les autorisations et les licences, ou en limiter la portée, si les conditions qui prévalaient lors de l’octroi ne sont plus remplies.
 
-## Chapitre 10*a***** Disposition pénale
+## Chapitre 10*a* Disposition pénale
 
 [^chap10a-1]
 
@@ -913,7 +913,7 @@ En vertu de l’art. 92 LA, l’OFAC peut retirer les certificats, les autorisat
 
 Quiconque enfreint l’une des obligations prévues aux art. 19, 20, 22 et 29, al. 1, est puni conformément à l’art. 91, al. 1, let. i, LA.
 
-## Chapitre 11**** Dispositions finales
+## Chapitre 11 Dispositions finales
 
 [^chap11-1]
 
@@ -969,62 +969,83 @@ Les habilitations visées à l’art. 34, al. 3, dans la version du 14 juillet 2
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 1996.
 
-Annexe*[^t-2]*
+Annexe[^t-2]
 
 [^t-2]: Abrogée par le ch. II de l’O du DETEC du 14 juil. 2008, avec effet au 1<sup>er</sup> août 2008 ([RO 2008 3629](https://fedlex.data.admin.ch/eli/oc/2008/473)).
 
-Annexe 1*[^t-3]*
+Annexe 1[^t-3]
 
 (art. 3, al. 3 et 4, let. a)
 
 ## Sous-catégorie Ecolight
 
-[^t-3]: Introduite par le ch. II de l’O du DETEC du 24 juin 2015, en vigueur depuis le 15 juil. 2015 ([RO 2015 2181](https://fedlex.data.admin.ch/eli/oc/2015/402)). Le texte de l’annexe n’est pas publié au RO. Il peut être consulté gratuitement sous www.bazl.admin.ch &gt; Espace professionnel &gt; Aéronefs &gt; Conception, construction et certificat de type
+[^annex1-lvlu1-1]
 
-Annexe 2*[^t-4]*
+[^t-3]: Introduite par le ch. II de l’O du DETEC du 24 juin 2015, en vigueur depuis le 15 juil. 2015 ([RO 2015 2181](https://fedlex.data.admin.ch/eli/oc/2015/402)).
+[^annex1-lvlu1-1]: Le texte de l’annexe n’est pas publié au RO. Il peut être consulté gratuitement sous www.bazl.admin.ch &gt; Espace professionnel &gt; Aéronefs &gt; Conception, construction et certificat de type.
+
+Annexe 2[^t-4]
 
 (art. 3, al. 3 et 4, let. b)
 
 ## Sous-catégorie Ultra-léger
 
-[^t-4]: Introduite par le ch. II de l’O du DETEC du 24 juin 2015, en vigueur depuis le 15 juil. 2015 ([RO 2015 2181](https://fedlex.data.admin.ch/eli/oc/2015/402)). Le texte de l’annexe n’est pas publié au RO. Il peut être consulté gratuitement sous www.bazl.admin.ch &gt; Espace professionnel &gt; Aéronefs &gt; Conception, construction et certificat de type
+[^annex2-lvlu1-1]
 
-Annexe 3*[^t-5]*
+[^t-4]: Introduite par le ch. II de l’O du DETEC du 24 juin 2015, en vigueur depuis le 15 juil. 2015 ([RO 2015 2181](https://fedlex.data.admin.ch/eli/oc/2015/402)).
+[^annex2-lvlu1-1]: Le texte de l’annexe n’est pas publié au RO. Il peut être consulté gratuitement sous www.bazl.admin.ch &gt; Espace professionnel &gt; Aéronefs &gt; Conception, construction et certificat de type.
+
+Annexe 3[^t-5]
 
 (art. 3, al. 3 et 4, let. c)
 
 ## Sous-catégorie Historique / Historic
 
-[^t-5]: Introduite par le ch. II de l’O du DETEC du 24 juin 2015, en vigueur depuis le 15 juil. 2015 ([RO 2015 2181](https://fedlex.data.admin.ch/eli/oc/2015/402)). Le texte de l’annexe n’est pas publié au RO. Il peut être consulté gratuitement sous www.bazl.admin.ch &gt; Espace professionnel &gt; Aéronefs &gt; Conception, construction et certificat de type
+[^annex3-lvlu1-1]
 
-Annexe 4*[^t-6]*
+[^t-5]: Introduite par le ch. II de l’O du DETEC du 24 juin 2015 ([RO 2015 2181](https://fedlex.data.admin.ch/eli/oc/2015/402)). Nouvelle teneur selon le ch. I de l’O du DETEC du 24 août 2022, en vigueur depuis le 1<sup>er</sup> oct. 2022 ([RO 2022 480](https://fedlex.data.admin.ch/eli/oc/2022/480)).
+[^annex3-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2022/480](https://fedlex.data.admin.ch/eli/oc/2022/480) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+
+Annexe 4[^t-6]
 
 (art. 3, al. 3 et 4, let. d)
 
 ## Sous-catégorie Amateur
 
-[^t-6]: Introduite par le ch. II de l’O du DETEC du 24 juin 2015, en vigueur depuis le 15 juil. 2015 ([RO 2015 2181](https://fedlex.data.admin.ch/eli/oc/2015/402)). Le texte de l’annexe n’est pas publié au RO. Il peut être consulté gratuitement sous www.bazl.admin.ch &gt; Espace professionnel &gt; Aéronefs &gt; Conception, construction et certificat de type
+[^annex4-lvlu1-1]
 
-Annexe 5*[^t-7]*
+[^t-6]: Introduite par le ch. II de l’O du DETEC du 24 juin 2015, en vigueur depuis le 15 juil. 2015 ([RO 2015 2181](https://fedlex.data.admin.ch/eli/oc/2015/402)).
+[^annex4-lvlu1-1]: Le texte de l’annexe n’est pas publié au RO. Il peut être consulté gratuitement sous www.bazl.admin.ch &gt; Espace professionnel &gt; Aéronefs &gt; Conception, construction et certificat de type.
+
+Annexe 5[^t-7]
 
 (art. 3, al. 3 et 4, let. e)
 
 ## Sous-catégorie Limité / Limited
 
-[^t-7]: Introduite par le ch. II de l’O du DETEC du 24 juin 2015, en vigueur depuis le 15 juil. 2015 ([RO 2015 2181](https://fedlex.data.admin.ch/eli/oc/2015/402)). Le texte de l’annexe n’est pas publié au RO. Il peut être consulté gratuitement sous www.bazl.admin.ch &gt; Espace professionnel &gt; Aéronefs &gt; Conception, construction et certificat de type
+[^annex5-lvlu1-1]
 
-Annexe 6*[^t-8]*
+[^t-7]: Introduite par le ch. II de l’O du DETEC du 24 juin 2015, en vigueur depuis le 15 juil. 2015 ([RO 2015 2181](https://fedlex.data.admin.ch/eli/oc/2015/402)).
+[^annex5-lvlu1-1]: Le texte de l’annexe n’est pas publié au RO. Il peut être consulté gratuitement sous www.bazl.admin.ch &gt; Espace professionnel &gt; Aéronefs &gt; Conception, construction et certificat de type.
+
+Annexe 6[^t-8]
 
 (art. 3, al. 3 et 4, let. f)
 
 ## Sous-catégorie Experimental
 
-[^t-8]: Introduite par le ch. II de l’O du DETEC du 24 juin 2015, en vigueur depuis le 15 juil. 2015 ([RO 2015 2181](https://fedlex.data.admin.ch/eli/oc/2015/402)). Le texte de l’annexe n’est pas publié au RO. Il peut être consulté gratuitement sous www.bazl.admin.ch &gt; Espace professionnel &gt; Aéronefs &gt; Conception, construction et certificat de type
+[^annex6-lvlu1-1]
 
-Annexe 7*[^t-9]*
+[^t-8]: Introduite par le ch. II de l’O du DETEC du 24 juin 2015, en vigueur depuis le 15 juil. 2015 ([RO 2015 2181](https://fedlex.data.admin.ch/eli/oc/2015/402)).
+[^annex6-lvlu1-1]: Le texte de l’annexe n’est pas publié au RO. Il peut être consulté gratuitement sous www.bazl.admin.ch &gt; Espace professionnel &gt; Aéronefs &gt; Conception, construction et certificat de type.
+
+Annexe 7[^t-9]
 
 (art. 3, al. 3 et 4, let. g)
 
 ## Sous-catégorie Restreint / Restricted
 
-[^t-9]: Introduite par le ch. II de l’O du DETEC du 24 juin 2015, en vigueur depuis le 15 juil. 2015 ([RO 2015 2181](https://fedlex.data.admin.ch/eli/oc/2015/402)). Le texte de l’annexe n’est pas publié au RO. Il peut être consulté gratuitement sous www.bazl.admin.ch &gt; Espace professionnel &gt; Aéronefs &gt; Conception, construction et certificat de type
+[^annex7-lvlu1-1]
+
+[^t-9]: Introduite par le ch. II de l’O du DETEC du 24 juin 2015, en vigueur depuis le 15 juil. 2015 ([RO 2015 2181](https://fedlex.data.admin.ch/eli/oc/2015/402)).
+[^annex7-lvlu1-1]: Le texte de l’annexe n’est pas publié au RO. Il peut être consulté gratuitement sous www.bazl.admin.ch &gt; Espace professionnel &gt; Aéronefs &gt; Conception, construction et certificat de type.
