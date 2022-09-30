@@ -4,11 +4,11 @@ title: Nationalstrassenverordnung vom 7. November 2007 (NSV)
 short: NSV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/796"
 language: de
-version: 2021-01-01
+version: 2022-10-01
 adopted: 2007-11-07
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/796/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2007-796-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/796/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/796/20221001/de/xml/fedlex-data-admin-ch-eli-cc-2007-796-20221001-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/796/20221001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/796/20210101/de"
 
 (NSV)
 
-vom 7. November 2007 (Stand am 1. Januar 2021)
+vom 7. November 2007 (Stand am 1. Oktober 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -49,18 +49,19 @@ Bestandteil der Nationalstrasse bilden je nach ihrer Ausbauform und den von der 
 - d. Nebenanlagen mit Zu- und Wegfahrten und allfällige Erschliessungswege;
 - e. Rastplätze mit ihren Zu- und Wegfahrten sowie den dazugehörigen Bauten und Anlagen;
 - f. Einrichtungen für den Unterhalt und den Betrieb der Strassen wie Stützpunkte, Werkhöfe, Schadenwehren, Materialdepots, Fernmeldeanlagen, Vorrichtungen für Gewichts- und andere Verkehrskontrollen sowie Einrichtungen für die Verkehrsüberwachung, Strassenzustands- und Wettererfassung, einschliesslich der erforderlichen Datenbanken;
-- g. Bauten und Anlagen zur Entwässerung, Beleuchtung und Lüftung sowie Sicherheitseinrichtungen und Werkleitungen;
+- g.[^2-1] Bauten und Anlagen zur Entwässerung, Nutzung von erneuerbarer Energie, Beleuchtung und Lüftung sowie Sicherheitseinrichtungen und Werkleitungen;
 - h. Verkehrseinrichtungen wie Signale, Signalanlagen, Markierungen, Einfriedungen und Blendschutz;
-- i.[^2-1] Einrichtungen für die Führung, Erfassung und Beeinflussung des Verkehrs und für das Verkehrsmanagement, wie Verkehrsmanagementzentralen, Warteräume, Abstellplätze, Verkehrsleitsysteme und Verkehrserfassungssysteme, einschliesslich der erforderlichen Datenbanken;
+- i.[^2-2] Einrichtungen für die Führung, Erfassung und Beeinflussung des Verkehrs und für das Verkehrsmanagement, wie Verkehrsmanagementzentralen, Warteräume, Abstellplätze, Verkehrsleitsysteme und Verkehrserfassungssysteme, einschliesslich der erforderlichen Datenbanken;
 - j. Bepflanzungen sowie Böschungen, deren Pflege den Anstössern nicht zumutbar ist;
 - k. Lawinen‑, Steinschlag‑ und Hangverbauungen, Einrichtungen und Bauten für den Hochwasserschutz, Einrichtungen gegen Schneeverwehungen, soweit sie überwiegend der Nationalstrasse dienen;
 - l. Bauten und Anlagen zum Schutz der Umwelt;
 - m. Zentren für die Schwerverkehrskontrollen, einschliesslich Zu- und Wegfahrten sowie der zur Kontrolle notwendigen Bauten und technischen Einrichtungen wie Waagen oder Labors;
 - n. Abstellspuren und -flächen im Bereich der Nationalstrassen, einschliesslich Zu- und Wegfahrten;
-- o.[^2-2] Grenzzollanlagen, mit Ausnahme der Infrastrukturen, die der Zollabfertigung dienen.
+- o.[^2-3] Grenzzollanlagen, mit Ausnahme der Infrastrukturen, die der Zollabfertigung dienen.
 
-[^2-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6791](https://fedlex.data.admin.ch/eli/oc/2017/759)).
-[^2-2]: Eingefügt durch Ziff. I der V vom 17. Sept. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 4281](https://fedlex.data.admin.ch/eli/oc/2010/618)).
+[^2-1]: Fassung gemäss Ziff. I der V vom 17. Aug. 2022, in Kraft seit 1. Okt. 2022 ([AS 2022 479](https://fedlex.data.admin.ch/eli/oc/2022/479)).
+[^2-2]: Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6791](https://fedlex.data.admin.ch/eli/oc/2017/759)).
+[^2-3]: Eingefügt durch Ziff. I der V vom 17. Sept. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 4281](https://fedlex.data.admin.ch/eli/oc/2010/618)).
 
 #### Art. 3
 
@@ -396,7 +397,7 @@ Vermag das Landumlegungsverfahren berechtigten Ersatzansprüchen eines Grundeige
 
 **Ergänzende Planauflage[^26-1]**
 
-<sup>1</sup> und <sup>2</sup> ... [^26-2]
+<sup>1</sup> und <sup>2</sup> …[^26-2]
 
 <sup>3</sup> Müssen nach der Planauflage für den Strassenbau, für Installationen, Deponien oder Anpassungsarbeiten dauernd oder vorübergehend weitere Grundstücke oder Grundstückteile beansprucht werden, so wird eine ergänzende Planauflage nur durchgeführt, wenn die Ausdehnung Rechte Dritter beansprucht und eine gütliche Einigung mit den Berechtigten nicht zustande kommt.[^26-3]
 
@@ -428,14 +429,22 @@ Für den Ausbau von Nationalstrassen gelten die Bestimmungen über die Ausarbeit
 
 <sup>1</sup> Nutzungen des Areals im Eigentum der Nationalstrasse durch Dritte bedürfen der Bewilligung des ASTRA.
 
-<sup>2</sup> Die Nutzungen sind zu entgelten. Das Entgelt hat in der Regel dem Marktpreis zu entsprechen. Nutzungen durch die Kantone für ihre eigenen Bedürfnisse sind unentgeltlich, soweit sie Gegenrecht halten.[^29-1]
+<sup>2</sup> Die Nutzungen sind zu entgelten und gemäss den jeweiligen Besonderheiten zu befristen. Das Entgelt hat in der Regel dem Marktpreis zu entsprechen.[^29-1]
+
+<sup>2bis</sup>
+
+Unentgeltlich sind:
+
+- a. Nutzungen durch die Kantone und Gemeinden für ihre eigenen Bedürfnisse, soweit sie Gegenrecht halten;
+- b. Nutzungen durch Dritte für den Bau und Betrieb von Bauten und Anlagen zur Nutzung von erneuerbarer Energie.[^29-2]
 
 <sup>3</sup> Erhöhte Unterhalts- und Betriebskosten der Strassenanlage infolge Mehrfachnutzung sind durch den Dritten zu tragen.
 
-<sup>4</sup> Unabhängig von der Einleitung oder dem Ausgang eines Strafverfahrens kann das ASTRA auf Kosten des Widerhandelnden die nötigen Massnahmen zur Wiederherstellung des rechtmässigen Zustandes treffen.[^29-2]
+<sup>4</sup> Unabhängig von der Einleitung oder dem Ausgang eines Strafverfahrens kann das ASTRA auf Kosten des Widerhandelnden die nötigen Massnahmen zur Wiederherstellung des rechtmässigen Zustandes treffen.[^29-3]
 
-[^29-1]: Fassung gemäss Ziff. I der V vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 2263](https://fedlex.data.admin.ch/eli/oc/2015/423)).
-[^29-2]: Eingefügt durch Ziff. I der V vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 2263](https://fedlex.data.admin.ch/eli/oc/2015/423)).
+[^29-1]: Fassung gemäss Ziff. I der V vom 17. Aug. 2022, in Kraft seit 1. Okt. 2022 ([AS 2022 479](https://fedlex.data.admin.ch/eli/oc/2022/479)).
+[^29-2]: Eingefügt durch Ziff. I der V vom 17. Aug. 2022, in Kraft seit 1. Okt. 2022 ([AS 2022 479](https://fedlex.data.admin.ch/eli/oc/2022/479)).
+[^29-3]: Eingefügt durch Ziff. I der V vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 2263](https://fedlex.data.admin.ch/eli/oc/2015/423)).
 
 #### Art. 30
 
@@ -747,7 +756,7 @@ Die Aufhebung und Änderung bisherigen Rechts wird in Anhang 4 geregelt.
 
 Diese Verordnung tritt am 1. Januar 2008 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 32)
 
@@ -835,7 +844,7 @@ Legende:
 <tr><td>N28</td><td>2/3</td><td>01</td><td>Landquart–Klosters Selfranga (Trasse Jenaz–Dalvazza)</td><td></td><td>2</td><td>2,9</td></tr>
 </table>
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 (Art. 47)
 
@@ -858,7 +867,7 @@ Anhang 2*[^t-2]*
 <tr><td>XI</td><td>UR, SZ, TI</td><td>N2 (Strada del passo): Raccordo Airolo N2: Portale sud della galleria San Gottardo N2: Anschluss Beckenried N4: Anschluss Küssnacht</td></tr>
 </table>
 
-Anhang 3*[^t-3]*
+Anhang 3[^t-3]
 
 (Art. 52 Abs. 1)
 
@@ -1002,8 +1011,8 @@ II
 
 Die nachstehenden Verordnungen werden wie folgt geändert:
 
-...[^annex4-lvlu1-3]
+…[^annex4-lvlu1-3]
 
-[^annex4-lvlu1-1]: [[AS 1996 250](https://fedlex.data.admin.ch/eli/oc/1996/250_250_250), [1997 557](https://fedlex.data.admin.ch/eli/oc/1997/557_557_557), [2000 345](https://fedlex.data.admin.ch/eli/oc/2000/68)[703](https://fedlex.data.admin.ch/eli/oc/2000/121)Ziff. II 3, [2002 1177](https://fedlex.data.admin.ch/eli/oc/2002/193), [2004 5051](https://fedlex.data.admin.ch/eli/oc/2004/777)]
-[^annex4-lvlu1-2]: [[AS 1961 796](https://fedlex.data.admin.ch/eli/oc/1961/796_810_826), [2000 762](https://fedlex.data.admin.ch/eli/oc/2000/127)]
+[^annex4-lvlu1-1]: [[AS 1996 250](https://fedlex.data.admin.ch/eli/oc/1996/250_250_250); [1997 557](https://fedlex.data.admin.ch/eli/oc/1997/557_557_557); [2000 345](https://fedlex.data.admin.ch/eli/oc/2000/68), [703](https://fedlex.data.admin.ch/eli/oc/2000/121)Ziff. II 3; [2002 1177](https://fedlex.data.admin.ch/eli/oc/2002/193); [2004 5051](https://fedlex.data.admin.ch/eli/oc/2004/777)]
+[^annex4-lvlu1-2]: [[AS 1961 796](https://fedlex.data.admin.ch/eli/oc/1961/796_810_826); [2000 762](https://fedlex.data.admin.ch/eli/oc/2000/127)]
 [^annex4-lvlu1-3]: Die Änderungen können unter [AS 2007 5957](https://fedlex.data.admin.ch/eli/oc/2007/796)konsultiert werden.

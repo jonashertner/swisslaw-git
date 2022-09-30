@@ -4,11 +4,11 @@ title: Ordonnance du 7 novembre 2007 sur les routes nationales (ORN)
 short: ORN
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/796"
 language: fr
-version: 2021-01-01
+version: 2022-10-01
 adopted: 2007-11-07
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/796/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-796-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/796/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/796/20221001/fr/xml/fedlex-data-admin-ch-eli-cc-2007-796-20221001-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/796/20221001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/796/20210101/fr"
 
 (ORN)
 
-du 7 novembre 2007 (Etat le 1<sup>er</sup> janvier 2021)
+du 7 novembre 2007 (État le 1<sup>er</sup> octobre 2022)
 
 Le Conseil fédéral suisse,
 
@@ -49,18 +49,19 @@ Font partie des routes nationales, compte tenu de la forme de leur aménagement 
 - d. les installations annexes avec les rampes d’accès et de sortie ainsi que, le cas échéant, les chemins de desserte;
 - e. les aires de repos avec les rampes d’accès et de sortie ainsi que les ouvrages et installations qui en font partie;
 - f. les installations servant à l’entretien et à l’exploitation des routes telles que les centres d’intervention, les centres d’entretien, les services de protection, les dépôts de matériel, les équipements de télécommunication, les dispositifs de contrôle des poids et autres éléments du trafic ainsi que les installations de surveillance du trafic et de relevé de l’état de la route et des données météorologiques, y compris les banques de données nécessaires;
-- g. les ouvrages et installations pour l’évacuation des eaux, l’éclairage et la ventilation ainsi que les dispositifs de sécurité et les conduites;
+- g.[^2-1] les ouvrages et installations pour l’évacuation des eaux, l’utilisation d’énergie renouvelable, l’éclairage et la ventilation ainsi que les dispositifs de sécurité et les conduites;
 - h. les dispositifs de trafic tels que les signaux, les installations de signalisation lumineuse, les marquages, les clôtures, les dispositifs anti-éblouissement;
-- i.[^2-1] les équipements de guidage, de relevé et d’influence sur le trafic et les installations de gestion du trafic telles que les centrales prévues à cet effet, les aires d’attente, les aires de stationnement, les systèmes d’analyse et les systèmes de gestion opérationnelle du trafic, y compris les banques de données nécessaires;
+- i.[^2-2] les équipements de guidage, de relevé et d’influence sur le trafic et les installations de gestion du trafic telles que les centrales prévues à cet effet, les aires d’attente, les aires de stationnement, les systèmes d’analyse et les systèmes de gestion opérationnelle du trafic, y compris les banques de données nécessaires;
 - j. les plantations ainsi que les talus dont l’entretien ne peut pas incomber aux riverains;
 - k. les ouvrages de protection contre les avalanches, les chutes de pierre et ceux de consolidation du terrain, les ouvrages de protection contre les crues et les congères qui servent de façon prépondérante les intérêts de la route nationale;
 - l. les ouvrages et installations aménagés au titre de la protection de l’environnement;
 - m. les centres de contrôle du trafic lourd, y compris les rampes d’accès et de sortie, ainsi que les ouvrages et les équipements techniques nécessaires tels que les balances ou laboratoires;
 - n. les voies et les aires de stationnement situées dans la zone des routes nationales, y compris les rampes d’accès et de sortie;
-- o.[^2-2] les installations douanières, à l’exception des infrastructures utilisées pour le dédouanement.
+- o.[^2-3] les installations douanières, à l’exception des infrastructures utilisées pour le dédouanement.
 
-[^2-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6791](https://fedlex.data.admin.ch/eli/oc/2017/759)).
-[^2-2]: Introduite par le ch. I de l’O du 17 sept. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 4281](https://fedlex.data.admin.ch/eli/oc/2010/618)).
+[^2-1]: Nouvelle teneur selon le ch. I de l’O du 17 août 2022, en vigueur depuis le 1<sup>er</sup> oct. 2022 ([RO 2022 479](https://fedlex.data.admin.ch/eli/oc/2022/479)).
+[^2-2]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6791](https://fedlex.data.admin.ch/eli/oc/2017/759)).
+[^2-3]: Introduite par le ch. I de l’O du 17 sept. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 4281](https://fedlex.data.admin.ch/eli/oc/2010/618)).
 
 #### Art. 3
 
@@ -428,14 +429,22 @@ Les dispositions régissant l’établissement et l’approbation des projets g�
 
 <sup>1</sup> L’utilisation par des tiers du domaine appartenant aux routes nationales est soumise à l’autorisation de l’OFROU.
 
-<sup>2</sup> L’utilisation est soumise à rémunération. Elle doit correspondre en règle générale au prix du marché. L’utilisation par un canton pour ses propres besoins est gratuite, pour autant qu’il applique la réciprocité.[^29-1]
+<sup>2</sup> L’utilisation est soumise à rémunération et à une limitation dans le temps en fonction des particularités propres à chaque utilisation. Elle doit correspondre en règle générale au prix du marché.[^29-1]
+
+<sup>2bis</sup>
+
+Sont gratuites:
+
+- a. l’utilisation par un canton ou une commune pour leurs propres besoins, pour autant qu’ils appliquent la réciprocité;
+- b. l’utilisation par des tiers pour la construction et l’exploitation d’ouvrages et d’installations destinés à l’utilisation d’énergie renouvelable.[^29-2]
 
 <sup>3</sup> Les coûts supplémentaires d’entretien et d’exploitation de la route résultant d’une utilisation multiple sont à la charge du tiers.
 
-<sup>4</sup> L’OFROU peut prendre, aux frais du contrevenant, les mesures nécessaires au rétablissement de l’état antérieur, conforme au droit, indépendamment des poursuites pénales qui pourraient être dirigées contre lui.[^29-2]
+<sup>4</sup> L’OFROU peut prendre, aux frais du contrevenant, les mesures nécessaires au rétablissement de l’état antérieur, conforme au droit, indépendamment des poursuites pénales qui pourraient être dirigées contre lui.[^29-3]
 
-[^29-1]: Nouvelle teneur selon le ch. I de l’O du 19 juin 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 2263](https://fedlex.data.admin.ch/eli/oc/2015/423)).
-[^29-2]: Introduit par le ch. I de l’O du 19 juin 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 2263](https://fedlex.data.admin.ch/eli/oc/2015/423)).
+[^29-1]: Nouvelle teneur selon le ch. I de l’O du 17 août 2022, en vigueur depuis le 1<sup>er</sup> oct. 2022 ([RO 2022 479](https://fedlex.data.admin.ch/eli/oc/2022/479)).
+[^29-2]: Introduit par le ch. I de l’O du 17 août 2022, en vigueur depuis le 1<sup>er</sup> oct. 2022 ([RO 2022 479](https://fedlex.data.admin.ch/eli/oc/2022/479)).
+[^29-3]: Introduit par le ch. I de l’O du 19 juin 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 2263](https://fedlex.data.admin.ch/eli/oc/2015/423)).
 
 #### Art. 30
 
@@ -747,7 +756,7 @@ L’abrogation et la modification du droit en vigueur sont réglées à l’anne
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2008.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 32)
 
@@ -835,7 +844,7 @@ Légende:
 <tr><td>N28</td><td>2/3</td><td>01</td><td>Landquart–Klosters Selfranga (Trasse Jenaz–Dalvazza)</td><td></td><td>2</td><td>2,9</td></tr>
 </table>
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 (art. 47)
 
@@ -858,7 +867,7 @@ Annexe 2*[^t-2]*
 <tr><td>XI</td><td>UR, SZ, TI</td><td>N2: (Strada del passo): Raccordo Airolo N2: Portale sud della galleria San Gottardo N2: Anschluss Beckenried N4: Anschluss Küssnacht</td></tr>
 </table>
 
-Annexe 3*[^t-3]*
+Annexe 3[^t-3]
 
 (art. 52, al. 1)
 

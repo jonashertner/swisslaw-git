@@ -4,11 +4,11 @@ title: Ordinanza del 7 novembre 2007 sulle strade nazionali (OSN)
 short: OSN
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/796"
 language: it
-version: 2021-01-01
+version: 2022-10-01
 adopted: 2007-11-07
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/796/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2007-796-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/796/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/796/20221001/it/xml/fedlex-data-admin-ch-eli-cc-2007-796-20221001-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/796/20221001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/796/20210101/it"
 
 (OSN)
 
-del 7 novembre 2007 (Stato 1° gennaio 2021)
+del 7 novembre 2007 (Stato 1° ottobre 2022)
 
 Il Consiglio federale svizzero,
 
@@ -49,18 +49,19 @@ Parti costitutive delle strade nazionali sono, secondo la forma della sistemazio
 - d. gli impianti accessori con le vie d’accesso, d’uscita e le eventuali vie di collegamento;
 - e. le aree di sosta comprese le vie d’accesso e d’uscita e le relative costruzioni e impianti;
 - f. le installazioni per l’esercizio e la manutenzione stradale quali punti d’appoggio, centri di manutenzione, servizi di protezione contro i danni, depositi di materiale, impianti di telecomunicazione, dispositivi per il controllo dei pesi e per altri controlli del traffico nonché installazioni per la sorveglianza del traffico e delle condizioni stradali e meteorologiche, comprese le necessarie banche dati;
-- g. le costruzioni e impianti di drenaggio, d’illuminazione e di ventilazione nonché le installazioni di sicurezza e le condotte;
+- g.[^2-1] le costruzioni e gli impianti di drenaggio, di sfruttamento di energie rinnovabili, di illuminazione e di ventilazione nonché le installazioni di sicurezza e le condotte;
 - h. le installazioni per la circolazione quali segnali, impianti di segnalazione, segnaletica orizzontale, recinzioni e dispositivi antiabbaglianti;
-- i.[^2-1] le installazioni per dirigere, rilevare e influenzare il traffico e per la gestione del traffico, quali centrali di gestione del traffico, aree di attesa e di stazionamento, sistemi di regolazione e di rilevamento del traffico, comprese le necessarie banche dati;
+- i.[^2-2] le installazioni per dirigere, rilevare e influenzare il traffico e per la gestione del traffico, quali centrali di gestione del traffico, aree di attesa e di stazionamento, sistemi di regolazione e di rilevamento del traffico, comprese le necessarie banche dati;
 - j. la vegetazione e le scarpate, la cui cura non possa ragionevolmente essere richiesta ai confinanti;
 - k. i ripari contro le valanghe, la caduta di sassi e le opere di consolidamento del terreno, le installazioni e le costruzioni contro le inondazioni, le installazioni contro gli ammonticchiamenti di neve, nella misura in cui servono principalmente alle strade nazionali;
 - l. le costruzioni e gli impianti per la protezione dell’ambiente;
 - m. i centri per il controllo del traffico pesante, comprese le vie di accesso e di uscita, nonché le costruzioni e installazioni tecniche necessarie ai controlli quali pese e laboratori;
 - n. corsie e aree di parcheggio situate nelle immediate vicinanze delle strade nazionali, comprese le vie d’accesso e di uscita;
-- o.[^2-2] gli impianti doganali, ad eccezione delle infrastrutture che servono allo sdoganamento.
+- o.[^2-3] gli impianti doganali, ad eccezione delle infrastrutture che servono allo sdoganamento.
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6791](https://fedlex.data.admin.ch/eli/oc/2017/759)).
-[^2-2]: Introdotto dal il n. I dell’O del 17 set. 2010, in vigore dal 1° gen. 2011 ([RU 2010 4281](https://fedlex.data.admin.ch/eli/oc/2010/618)).
+[^2-1]: Nuovo testo giusta il n. I dell’O del 17 ago. 2022, in vigore dal 1° ott. 2022 ([RU 2022 479](https://fedlex.data.admin.ch/eli/oc/2022/479)).
+[^2-2]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6791](https://fedlex.data.admin.ch/eli/oc/2017/759)).
+[^2-3]: Introdotto dal il n. I dell’O del 17 set. 2010, in vigore dal 1° gen. 2011 ([RU 2010 4281](https://fedlex.data.admin.ch/eli/oc/2010/618)).
 
 #### Art. 3
 
@@ -430,14 +431,22 @@ Per la sistemazione di strade nazionali sono applicabili le disposizioni sull’
 
 <sup>1</sup> L’utilizzazione da parte di terzi delle aree appartenenti alle strade nazionali è soggetta all’autorizzazione dell’USTRA.
 
-<sup>2</sup> L’utilizzazione è soggetta al versamento di un’indennità. L’indennità deve di regola corrispondere al valore di mercato. L’utilizzazione da parte dei Cantoni per esigenze proprie è esente da indennità, a condizione che venga concessa la reciprocità.[^29-1]
+<sup>2</sup> L’utilizzazione è soggetta al versamento di un’indennità e deve essere limitata nel tempo secondo le specificità di ciascun caso. L’indennità deve di regola corrispondere al valore di mercato.[^29-1]
+
+<sup>2bis</sup>
+
+Sono esenti da indennità:
+
+- a. l’utilizzazione da parte di Cantoni e Comuni per esigenze proprie, a condizione che venga concessa la reciprocità;
+- b. l’utilizzazione da parte di terzi per la realizzazione e l’esercizio di costruzioni e impianti per lo sfruttamento di energie rinnovabili.[^29-2]
 
 <sup>3</sup> Le spese supplementari di manutenzione e di esercizio provocate da un’utilizzazione molteplice sono a carico dei terzi.
 
-<sup>4</sup> L’USTRA può adottare le misure necessarie al ripristino dello stato originario a spese del trasgressore, indipendentemente dall’avvio o dall’esito di un procedimento penale.[^29-2]
+<sup>4</sup> L’USTRA può adottare le misure necessarie al ripristino dello stato originario a spese del trasgressore, indipendentemente dall’avvio o dall’esito di un procedimento penale.[^29-3]
 
-[^29-1]: Nuovo testo giusta il n. I dell’O del 19 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 2263](https://fedlex.data.admin.ch/eli/oc/2015/423)).
-[^29-2]: Introdotto dal n. I dell’O del 19 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 2263](https://fedlex.data.admin.ch/eli/oc/2015/423)).
+[^29-1]: Nuovo testo giusta il n. I dell’O del 17 ago. 2022, in vigore dal 1° ott. 2022 ([RU 2022 479](https://fedlex.data.admin.ch/eli/oc/2022/479)).
+[^29-2]: Introdotto dal n. I dell’O del 17 ago. 2022, in vigore dal 1° ott. 2022 ([RU 2022 479](https://fedlex.data.admin.ch/eli/oc/2022/479)).
+[^29-3]: Introdotto dal n. I dell’O del 19 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 2263](https://fedlex.data.admin.ch/eli/oc/2015/423)).
 
 #### Art. 30
 
@@ -753,7 +762,7 @@ L’abrogazione e la modifica del diritto vigente sono disciplinate nell’alleg
 
 La presente ordinanza entra in vigore il 1° gennaio 2008.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 32)
 
@@ -841,7 +850,7 @@ Legenda:
 <tr><td>N28</td><td>2/3</td><td>01</td><td>Landquart–Klosters Selfranga (Trasse Jenaz–Dalvazza)</td><td></td><td>2</td><td>2,9</td></tr>
 </table>
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 (art. 47)
 
@@ -864,7 +873,7 @@ Allegato 2*[^t-2]*
 <tr><td>XI</td><td>UR, SZ, TI</td><td>N2 (Strada del passo): Raccordo Airolo N2: Portale sud della galleria San Gottardo N2: Anschluss Beckenried N4: Anschluss Küssnacht</td></tr>
 </table>
 
-Allegato 3*[^t-3]*
+Allegato 3[^t-3]
 
 (art. 52 cpv. 1)
 
@@ -1014,6 +1023,6 @@ Le seguenti ordinanze sono modificate come segue:
 
 ...[^annex4-lvlu1-3]
 
-[^annex4-lvlu1-1]: [[RU 1996 250](https://fedlex.data.admin.ch/eli/oc/1996/250_250_250), [1997 557](https://fedlex.data.admin.ch/eli/oc/1997/557_557_557), [2000 345](https://fedlex.data.admin.ch/eli/oc/2000/68)[703](https://fedlex.data.admin.ch/eli/oc/2000/121)n. II 3, [2002 1177](https://fedlex.data.admin.ch/eli/oc/2002/193), [2004 5051](https://fedlex.data.admin.ch/eli/oc/2004/777)]
+[^annex4-lvlu1-1]: [[RU 1996 250](https://fedlex.data.admin.ch/eli/oc/1996/250_250_250); [1997 557](https://fedlex.data.admin.ch/eli/oc/1997/557_557_557); [2000 345](https://fedlex.data.admin.ch/eli/oc/2000/68), [703](https://fedlex.data.admin.ch/eli/oc/2000/121)n. II 3; [2002 1177](https://fedlex.data.admin.ch/eli/oc/2002/193); [2004 5051](https://fedlex.data.admin.ch/eli/oc/2004/777)]
 [^annex4-lvlu1-2]: [[RU 1961 796](https://fedlex.data.admin.ch/eli/oc/1961/766_781_796), [2000 762](https://fedlex.data.admin.ch/eli/oc/2000/127)]
 [^annex4-lvlu1-3]: Le mod. possono essere consultate alla [RU 2007 5957](https://fedlex.data.admin.ch/eli/oc/2007/796).
