@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Révision de la réglementation du traitement avec prescription d’héroïne (HeGeBe) dans l’ordonnance relative à l’addiction aux stupéfiants (OAStup)
 document: Projet mis en consultation
 language: fr

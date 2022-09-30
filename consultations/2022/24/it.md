@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revisione del disciplinamento della terapia basata sulla prescrizione di eroina (HeGeBe) nell’ordinanza sulla dipendenza da stupefacenti (ODStup)
 document: Progetto posto in consultazione
 language: it

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revision der Betäubungsmittelsuchtverordnung (BetmSV) betreffend die heroingestützte Behandlung
 document: Vernehmlassungsvorlage
 language: de
