@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modifications de l’OAMal et de l’OPAS: mesures relatives aux médicaments"
 document: Projet mis en consultation
 language: fr

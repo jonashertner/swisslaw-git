@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modifiche dell’OAMal e dell’OPre: misure relative ai medicamenti"
 document: Progetto posto in consultazione-2
 language: it

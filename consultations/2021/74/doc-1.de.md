@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Änderungen der KVV und KLV: Arzneimittelmassnahmen"
 document: Vernehmlassungsvorlage
 language: de
