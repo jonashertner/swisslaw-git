@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Révision de l’ordonnance sur la reconnaissance des certificats de maturité gymnasiale et de la convention administrative concernant la reconnaissance des certificats de maturité
 document: Projet mis en consultation-3
 language: fr

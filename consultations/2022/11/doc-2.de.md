@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revisionen der Maturitäts-Anerkennungsverordnung und der Verwaltungsvereinbarung über die Anerkennung von Maturitätszeugnissen
 document: Vernehmlassungsvorlage-2
 language: de

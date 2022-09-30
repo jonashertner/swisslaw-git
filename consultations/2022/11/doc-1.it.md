@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revisione dell’Ordinanza sulla maturità e dell’Accordo amministrativo relativo al riconoscimento degli attestati di maturità
 document: Progetto posto in consultazione-3
 language: it
