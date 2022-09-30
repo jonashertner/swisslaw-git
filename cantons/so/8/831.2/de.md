@@ -4,13 +4,13 @@ number: "831.2"
 title: Sozialverordnung
 short: SV
 language: de
-version: 2022-01-01
-valid_until: 2022-09-30
-version_adopted: 2021-10-25
+version: 2022-10-01
+valid_until: 2023-09-30
+version_adopted: 2022-08-23
 adopted: 2007-10-29
 in_force: 2008-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/831.2"
-pdf: "https://bgs.so.ch/api/de/versions/5154/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5267/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5154/pdf_file"
 
 (SV)
 
-Vom 29.10.2007 (Stand 01.01.2022)
+Vom 29.10.2007 (Stand 01.10.2022)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -422,15 +422,15 @@ beschliesst:
 
 <sup>1</sup> Als ständige Kommissionen erfüllen folgende Fachkommissionen eine beratende Funktion für das Departement:
 
-- a) Fachkommission Familie und Kind;
-- b) Fachkommission Jugend;
-- c) Fachkommission Alter;
-- d) Fachkommission Integration;
-- e) Fachkommission Sucht;
-- f) Fachkommission Behinderung;
-- g) Fachkommission für Menschen in sozialen Notlagen.
+- a) Fachkommission Familie, Kind und Jugend;
+- b) Fachkommission Gesundheit;
+- c) Fachkommission Menschen mit Behinderungen.
+- d) …
+- e) …
+- f) …
+- g) …
 
-<sup>2</sup> Die Fachkommissionen umschreiben ihre Aufgaben in einem Pflichtenheft. Das Pflichtenheft ist vom Departement zu genehmigen.
+<sup>2</sup> Das Departement umschreibt die Aufgaben der Fachkommissionen in einem Pflichtenheft.
 
 ### 1.4. Finanzierung durch Kanton und Einwohnergemeinden
 
