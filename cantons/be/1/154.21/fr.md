@@ -4,13 +4,13 @@ number: "154.21"
 title: "Ordonnance fixant les émoluments de l'administration cantonale"
 short: Ordonnance sur les émoluments; OEmo
 language: fr
-version: 2022-06-01
-valid_until: 2022-09-30
-version_adopted: 2022-04-27
+version: 2022-10-01
+valid_until: 2022-12-31
+version_adopted: 2022-08-24
 adopted: 1995-02-22
 in_force: 1995-05-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/154.21"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2604/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2664/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2604/pdf_file"
 
 (Ordonnance sur les émoluments; OEmo)
 
-du 22.02.1995 (état au 01.06.2022)
+du 22.02.1995 (état au 01.10.2022)
 
 Le Conseil-exécutif du canton de Berne,
 
