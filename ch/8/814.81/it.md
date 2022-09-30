@@ -4,11 +4,11 @@ title: "Ordinanza del 18 maggio 2005 concernente la riduzione dei rischi nell'ut
 short: ORRPChim
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/478"
 language: it
-version: 2022-05-01
+version: 2022-10-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20220501/it/xml/fedlex-data-admin-ch-eli-cc-2005-478-20220501-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20220501/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20221001/it/xml/fedlex-data-admin-ch-eli-cc-2005-478-20221001-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20221001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20220501/it"
 
 (Ordinanza sulla riduzione dei rischi inerenti ai prodotti chimici, ORRPChim)
 
-del 18 maggio 2005 (Stato 1° maggio 2022)
+del 18 maggio 2005 (Stato 1° ottobre 2022)
 
 Il Consiglio federale svizzero,
 
@@ -90,7 +90,7 @@ Fatte salve le definizioni specifiche contenute negli allegati, nella presente o
 
 <sup>2</sup> Le autorizzazioni eccezionali secondo gli allegati vengono concesse soltanto a persone con domicilio o sede in Svizzera.
 
-Sezione 1*a*:**[^t-1]** Etichettature particolari
+Sezione 1*a*:[^t-1] Etichettature particolari
 
 #### Art. 3a
 
@@ -393,7 +393,7 @@ Le sostanze, i preparati, gli apparecchi, gli oggetti e gli impianti etichettati
 
 La presente ordinanza entra in vigore il 1° agosto 2005.
 
-Allegati*[^t-2]*
+Allegati[^t-2]
 
 ## 1 Disposizioni per determinate sostanze
 
@@ -443,7 +443,7 @@ Allegato 1
 
 ## Disposizioni per determinate sostanze
 
-Allegato 1.1*[^t-3]*
+Allegato 1.1[^t-3]
 
 (art. 3)
 
@@ -537,7 +537,7 @@ Allegato 1.1*[^t-3]*
 
 <sup>3</sup> Su domanda motivata, l’UFAMpuò concedere deroghe temporanee ai divieti di cui al capoverso 1 lettere a e b se il richiedente può dimostrare che per i preparati o gli oggetti non è effettivamente possibile acquistare un sostituto senza HBCDD. Le deroghe sono valide al massimo fino al 1° marzo 2018.
 
-Allegato 1.2*[^t-4]*
+Allegato 1.2[^t-4]
 
 (art. 3)
 
@@ -620,7 +620,7 @@ Allegato 1.2*[^t-4]*
 
 - i. *1,2,4-triclorobenzene* (n. CAS 120-82-1).
 
-Allegato 1.3*[^t-5]*
+Allegato 1.3[^t-5]
 
 (art. 3)
 
@@ -665,7 +665,7 @@ Allegato 1.3*[^t-5]*
 
 <sup>2</sup> ...
 
-Allegato 1.4*[^t-6]*
+Allegato 1.4[^t-6]
 
 (art. 3)
 
@@ -936,7 +936,7 @@ L’UFAM decide in merito alle domande complete entro due mesi dalla ricezione d
 
 I preparati e gli oggetti che sono fabbricati con sostanze che impoveriscono lo strato di ozono e che sono elencati in uno degli allegati del Protocollo di Montreal (n. 3.1 lett. b) possono essere immessi sul mercato ancora per un anno dopo l’entrata in vigore del relativo allegato del Protocollo di Montreal.
 
-Allegato 1.5*[^t-7]*
+Allegato 1.5[^t-7]
 
 (art. 3)
 
@@ -1256,7 +1256,7 @@ Per i contenitori con sostanze stabili nell’aria elencate nell’allegato A de
 
 Le sostanze di cui al numero 1 capoverso 1<sup>bis</sup> lettera f possono essere fabbricate fino al 30 giugno 2023 senza trasformazione dell’ossido di diazoto risultante dalla fabbricazione.
 
-Allegato 1.6*[^t-8]*
+Allegato 1.6[^t-8]
 
 (art. 3)
 
@@ -1313,7 +1313,7 @@ Sono vietati:
 - b. un’indicazione dei pericoli per l’uomo e per l’ambiente e delle misure protettive, conforme al modello seguente:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20220501/it/xml/image/image1.png)</td><td>Testa</td><td colspan="2">H = almeno 5 cm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20221001/it/xml/image/image1.png)</td><td>Testa</td><td colspan="2">H = almeno 5 cm</td></tr>
 <tr><td></td><td></td><td colspan="2">B = almeno 2,5 cm</td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>1</sub> = 40 per cento di H</td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>2</sub> = 60 per cento di H</td></tr>
@@ -1342,7 +1342,7 @@ Se durante l’impiego di preparati o oggetti contenenti amianto possono formars
 
 <sup>3</sup> I divieti di cui al numero 2 lettere b, c e d non si applicano fino al 30 giugno 2025 ai diaframmi contenenti amianto destinati all’impiego in impianti di elettrolisi esistenti.
 
-Allegato 1.7*[^t-9]*
+Allegato 1.7[^t-9]
 
 (art. 3)
 
@@ -1673,7 +1673,7 @@ Nella domanda devono figurare almeno:
 
 Una richiesta basata sul numero 2.2 capoverso 1 conformemente al diritto previgente viene valutata secondo il diritto previgente.
 
-Allegato 1.8*[^t-10]*
+Allegato 1.8[^t-10]
 
 (art. 3)
 
@@ -1726,7 +1726,7 @@ cui immissione sul mercato è stata autorizzata prima del 1° agosto 2005 ancora
 
 <sup>3</sup> Il divieto di cui al n. 1 capoverso 3 non si applica alle fibre tessili e ai prodotti tessili semilavorati e lavorati contenenti etossilati di nonilfenolo immessi sul mercato per la prima volta prima del 1° giugno 2022.
 
-Allegato 1.9*[^t-11]*
+Allegato 1.9[^t-11]
 
 (art. 3)
 
@@ -1771,7 +1771,7 @@ I prodotti tessili che contengono sostanze secondo il numero 1.1 e che sono dest
 
 <sup>3</sup> L’allegato 2.18 si applica alle apparecchiature elettriche ed elettroniche contenenti DecaBDE.
 
-### 3**** Sali di ammonio inorganici
+### 3 Sali di ammonio inorganici
 
 [^annex19-lvlu1-lvl3-1]
 
@@ -1835,7 +1835,7 @@ I divieti di cui al numero 2.2 capoversi 1 e 2 non si applicano per:
   - 1\. finalità di analisi e di ricerca,
   - 2\. la fabbricazione di componenti per veicoli che possono essere immessi sul mercato conformemente alla lettera a numeri 3 e 4.
 
-Allegato 1.10*[^t-12]*
+Allegato 1.10[^t-12]
 
 (art. 3)
 
@@ -1913,7 +1913,7 @@ Le seguenti sostanze che in virtù del regolamento (UE) 2021/2204[^annex110-lvlu
 
 [^annex110-lvlu1-lvl4-1]: Regolamento (UE) 2021/2204 della Commissione, del 13 dicembre 2021, versione della GU L 446 del 14.12.2021, pag. 34.
 
-Allegato 1.11*[^t-13]*
+Allegato 1.11[^t-13]
 
 (art. 3)
 
@@ -1963,7 +1963,7 @@ Sono considerati sostanze o preparati liquidi pericolosi i preparati liquidi con
 
 [^annex111-lvlu1-lvl4-1]: La norma può essere consultata gratuitamente od ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](https://www.snv.ch/de/).
 
-Allegato 1.12*[^t-14]*
+Allegato 1.12[^t-14]
 
 (art. 3)
 
@@ -1990,7 +1990,7 @@ Allegato 1.12*[^t-14]*
 
 [^annex112-lvlu1-lvl1-lvl12-1]: [RS 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
 
-### 2**** Toluene
+### 2 Toluene
 
 [^annex112-lvlu1-lvl2-1]
 
@@ -1998,7 +1998,7 @@ Allegato 1.12*[^t-14]*
 
 Sono vietati l’immissione sul mercato e l’impiego di toluene (n. CAS 108-88-3) e preparati con un contenuto in massa pari o superiore allo 0,1 per cento di toluene in colle e vernici spray destinate alla vendita al pubblico.
 
-Allegato 1.13*[^t-15]*
+Allegato 1.13[^t-15]
 
 (art. 3)
 
@@ -2037,7 +2037,7 @@ Allegato 1.13*[^t-15]*
 
 I divieti di cui al numero 2 capoverso 3 entrano in vigore il 1° agosto 2006.
 
-Allegato 1.14*[^t-16]*
+Allegato 1.14[^t-16]
 
 (art. 3)
 
@@ -2065,7 +2065,7 @@ Allegato 1.14*[^t-16]*
   - 1\. stampi a una e due componenti vulcanizzati a temperatura ambiente (stampi RTV-2),
   - 2\. rivestimenti per pareti e pavimenti.
 
-### 1.3 Relazione con l’ordinanza del 16 dicembre 2016**** sulle derrate alimentari e gli oggetti d’uso
+### 1.3 Relazione con l’ordinanza del 16 dicembre 2016 sulle derrate alimentari e gli oggetti d’uso
 
 [^annex114-lvlu1-lvl1-lvl13-1]
 
@@ -2135,7 +2135,7 @@ I divieti di cui al numero 3.1 non si applicano:
 
 <sup>4</sup> Il divieto di immissione sul mercato di cui al numero 2.2 lettera c non si applica a oggetti contenenti composti organostannici trisostituiti immessi sul mercato per la prima volta prima del 1° giugno 2013.
 
-Allegato 1.15*[^t-17]*
+Allegato 1.15[^t-17]
 
 (art. 3)
 
@@ -2182,177 +2182,209 @@ E vietata:
 
 [^annex115-lvlu1-lvl3-1]: Regolamento (CE) n. 1907/2006 del Parlamento europeo e del Consiglio, del 18 dicembre 2006, concernente la registrazione, la valutazione, l’autorizzazione e la restrizione delle sostanze chimiche (REACH), che istituisce un’Agenzia europea per le sostanze chimiche, che modifica la direttiva 1999/45/CE e che abroga il regolamento (CEE) n. 793/93 del Consiglio e il regolamento (CE) n. 1488/94 della Commissione, nonché la direttiva 76/769/CEE del Consiglio e le direttive della Commissione 91/155/CEE, 93/67/CEE, 93/105/CE e 2000/21/CE, GU L 396 del 30.12.2006, pag. 1; modificata dal regolamento (CE) n. 453/2010 della Commissione del 20 maggio 2010, GU L 133 del 31.5.2010, pag. 1. I testi degli atti giuridici dell’UE citati nel presente allegato possono essere consultati all’indirizzo www.cheminfo.ch.
 
-Allegato 1.16*[^t-18]*
+Allegato 1.16[^t-18]
 
 (art. 3)
 
 ## Sostanze per- e polifluoroalchiliche
 
-[^t-18]: Introdotto dal n. I 4 dell’O del 10 dic. 2010 ([RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)). Aggiornato dal n. II cpv. 3 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), dal n. I dell’O del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) e dall’all. n. 2 dell’O dell’11 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-18]: Introdotto dal n. I 4 dell’O del 10 dic. 2010 ([RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)). Nuovo testo giusta il n. I dell’O del 23 feb. 2022, in vigore dal 1° ott. 2022 ([RU 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)).
 
-### 1 Acido perfluorottano sulfonato e suoi derivati
+### 1. Acido perfluorottano sulfonato e suoi derivati
 
 ### 1.1 Definizioni
 
-Sono considerati acido perfluorottano sulfonato e suoi derivati (PFOS) le sostanze con la formula bruta C<sub>8</sub>F<sub>17</sub>SO<sub>2</sub>X dove X significa OH, sale metallico [O<sup>–</sup>M<sup>+</sup>], alogenuro, ammide, e altri derivati compresi i polimeri.
+Sono considerati acido perfluorottano sulfonato e suoi derivati (PFOS) le sostanze con la formula bruta C8F17SO2X, dove X sta per: OH, sali metallici [O–M+], alogenuri, ammidi e altri derivati compresi i polimeri.
 
 ### 1.2 Divieti
 
 <sup>1</sup> Sono vietati la fabbricazione, l’immissione sul mercato e l’impiego di PFOS nonché di sostanze e preparati con un contenuto in massa di PFOS pari o superiore allo 0,001 per cento.
 
-<sup>2</sup> È vietata l’immissione sul mercato di nuovi oggetti e di loro componenti, se superano i seguenti valori:
+<sup>2</sup> È vietata l’immissione sul mercato di nuovi oggetti e loro componenti, se superano i seguenti valori:
 
 - a. un contenuto in massa di PFOS superiore allo 0,1 per cento calcolato in relazione alla massa dei diversi componenti strutturali e microstrutturali che contengono PFOS; oppure
 - b. nel caso di tessili o altri materiali rivestiti, più di 1 µg PFOS per metro quadrato del materiale rivestito.
 
 ### 1.3 Deroghe
 
-<sup>1</sup> I divieti di cui al numero 1.2 non si applicano alla fabbricazione, all’immissione sul mercato e all’utilizzazione a scopi di analisi e di ricerca.
+I divieti di cui al numero 1.2 non si applicano alla fabbricazione, all’immissione sul mercato e all’utilizzazione a scopi di analisi e di ricerca.
 
-<sup>2</sup> I divieti di cui al numero 2 non si applicano inoltre ai seguenti prodotti né alle sostanze né ai preparati necessari per la loro fabbricazione:
-
-- a. fotoresist o i rivestimenti antiriflesso utilizzati per processi fotolitografici;
-- b. rivestimenti fotografici, applicati a pellicole, carte o lastre di stampa;
-- c. abbattitori di nebbie per la cromatura dura (con CrVI) a carattere non decorativo in sistemi a ciclo chiuso nei quali le emissioni di PFOS nell’ambiente sono limitate al minimo.
-
-### 1.4 Obbligo di notifica
-
-<sup>1</sup> Chi utilizza PFOS come pure sostanze e preparati che contengono PFOS per un impiego autorizzato secondo il numero 1.3 capoverso 2, deve notificare all’UFAM entro il 30 aprile di ogni anno per l’anno precedente:
-
-- a. il nome della sostanza o del preparato e il nome del fornitore;
-- b. la quantità di PFOS utilizzata, in kg;
-- c. le informazioni sullo scopo dell’utilizzazione dei PFOS;
-- d. le quantità di PFOS emesse nell’ambiente nel quadro dell’utilizzazione, in kg;
-- e. le indicazioni sulle possibilità di rinunciare all’utilizzazione dei PFOS.
-
-<sup>2</sup> I detentori di schiume antincendio immesse sul mercato prima del 1° agosto 2011 (n. 5), devono notificare entro il 30 aprile di ogni anno all’UFAM la quantità, in kg, di schiuma antincendio contenente PFOS a loro disposizione il 31 dicembre dell’anno precedente. La prima notifica deve fornire anche il nome della schiuma antincendio, del fabbricante come pure le indicazioni in suo possesso sul contenuto di massa di PFOS della schiuma antincendio.
-
-### 2**** Acido perfluoroottanoico e sostanze correlate
-
-[^annex116-lvlu1-lvl3-1]
-
-[^annex116-lvlu1-lvl3-1]: In vigore dal 1° giu. 2021 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+### 2 Acido perfluoroesano sulfonico e le sue sostanze correlate
 
 ### 2.1 Definizioni
 
-<sup>1</sup> Sono considerate sostanze correlate dell’acido perfluoroottanoico (PFOA, n. CAS 335-67-1), compresi i suoi sali e polimeri, le sostanze aventi, come uno degli elementi strutturali, un gruppo perfluoroeptil lineare o ramificato con la formula C<sub>7</sub>F<sub>15</sub> direttamente collegato a un altro atomo di carbonio e le sostanze aventi, come uno degli elementi strutturali, un gruppo perfluoroottil lineare o ramificato con la formula C<sub>8</sub>F<sub>17</sub>.
+Sono considerate sostanze correlate dell’acido perfluoroesano sulfonico sotto forma dei suoi isomeri lineari o ramificati e dei suoi sali (PFHxS) le sostanze, compresi i polimeri con un gruppo perfluoroesilico lineare o ramificato con la formula C6F13 direttamente collegato a un atomo di zolfo come elemento strutturale, che vengono degradate a PFHxS.
 
-<sup>2</sup> Il capoverso 1 non si applica:
-
-- a. alle sostanze con formula bruta C<sub>8</sub>F<sub>17</sub>X, dove X sta per: F, Cl o Br;
-- b. all’acido perfluorononanoico (n. CAS 375-95-1), ai suoi sali e ai suoi derivati con l’elemento strutturale C<sub>8</sub>F<sub>17</sub>(CO)OX, dove X sta per: qualsiasi gruppo;
-- c. agli altri composti fluorurati con l’elemento strutturale C<sub>8</sub>F<sub>17</sub>(CF<sub>2</sub>)X, dove X sta per: qualsiasi gruppo.
-
-### 2.2 Rapporto con il PFOS
-
-Per la fabbricazione, l’immissione sul mercato e l’impiego di PFOS come pure di preparati e oggetti contenenti PFOS si applica il numero 1.
-
-### 2.3 Divieti
+### 2.2 Divieti
 
 <sup>1</sup> Sono vietati la fabbricazione, l’immissione sul mercato e l’impiego di:
 
-- a. PFOA, i suoi sali e le sostanze correlate al PFOA,
+- a. PFHxS e delle sue sostanze correlate;
 - b.
 
   sostanze e preparati, se superano i seguenti valori:
 
-  - 1\. un contenuto in massa di PFOA e suoi sali dello 0,0000025 per cento (25 ppb), o
-  - 2\. un contenuto in massa di una sostanza correlata al PFOA o della somma di sostanze correlate al PFOA dello 0,0001 per cento (1000 ppb).
+  - 1\. un contenuto in massa di PFHxS dello 0,0000025 per cento (25 ppb), o
+  - 2\. un contenuto in massa della somma delle sostanze correlate del PFHxS dello 0,0001 per cento (1000 ppb).
+
+<sup>2</sup> È vietata l’immissione sul mercato di oggetti e di loro componenti, se superano i seguenti valori:
+
+- a. un contenuto in massa di PFHxS dello 0,0000025 per cento (25 ppb); o
+- b. un contenuto in massa della somma delle sostanze correlate del PFHxS dello 0,0001 per cento (1000 ppb).
+
+### 2.3 Deroghe
+
+I divieti di cui al numero 2.2 non si applicano alla fabbricazione, all’immissione sul mercato e agli impieghi a scopo di analisi e di ricerca.
+
+### 3 Acido perfluoroottanoico, acidi perfluorocarbossilici a catena lunga e sostanze a essi correlate
+
+### 3.1 Definizioni
+
+<sup>1</sup> Sono considerate sostanze correlate dell’acido perfluoroottanoico sotto forma dei suoi isomeri lineari o ramificati e dei suoi sali (PFOA) le sostanze, compresi i polimeri con un gruppo perfluoroeptil lineare o ramificato con la formula C7F15 direttamente collegato a un altro atomo di carbonio come elemento strutturale, che vengono degradate a PFOA.
+
+<sup>2</sup> Il capoverso 1 non si applica:
+
+- a. alle sostanze con formula bruta C<sub>8</sub>F<sub>17</sub>X, dove X sta per: F, Cl o Br;
+- b. ai fluoropolimeri con l’elemento strutturale CF<sub>3</sub>[CF<sub>2</sub>]<sub>n</sub>-R con n &gt; 16, dove R sta per: qualsiasi gruppo;
+- c. agli acidi perfluorocarbossilici e acidi perfluorofosfonici compresi i loro derivati come sali, esteri, alogenuri o anidridi con otto o più atomi di carbonio perfluorati;
+- d. all’acido perfluorottano sulfonato e suoi derivati (PFOS) di cui al numero 1.1;
+- e. agli acidi perfluorosolfonici compresi i loro derivati come sali, esteri, alogenuri o anidridi con nove o più atomi di carbonio perfluorati.
+
+<sup>3</sup> Sono considerate sostanze correlate dell’acido perfluornonanoico, perfluorodecanoico, perfluoroundecanoico, perfluorododecanoico, perfluorotridecanoico e perfluorotetradecanoico sotto forma dei suoi isomeri lineari e ramificati e dei suoi sali (PFCA C<sub>9</sub>–C<sub>14</sub>) le sostanze, compresi i polimeri con un gruppo perfluoroalchil lineare o ramificato con la formula C<sub>n</sub>F<sub>2n</sub><sub>+1</sub> con n = 8 – 13 direttamente collegato a un altro atomo di carbonio come elemento strutturale, che vengono degradate a PFCA C<sub>9</sub> – C<sub>14</sub>.
+
+<sup>4</sup> Il capoverso 3 non si applica:
+
+- a. alle sostanze con formula bruta CnF2n+1X con n = 9 - 14, dove X sta per: F, Cl o Br;
+- b. agli acidi perfluorocarbossilici compresi i loro derivati come sali, esteri, alogenuri o anidridi con 14 o più atomi di carbonio perfluorati.
+
+### 3.2 Divieti
+
+<sup>1</sup> Sono vietati la fabbricazione, l’immissione sul mercato e l’impiego di:
+
+- a. PFOA, PFCA C<sub>9</sub>–C<sub>14</sub> e le sostanze a essi correlate;
+- b.
+
+  sostanze e preparati, se superano i seguenti valori:
+
+  - 1\. un contenuto in massa di PFOA o della somma di PFCA C<sub>9</sub>–C<sub>14</sub> dello 0,0000025 per cento (25 ppb),
+  - 2\. un contenuto in massa della somma delle sostanze correlate del PFOA dello 0,0001 per cento (1000 ppb), o
+  - 3\. un contenuto in massa della somma delle sostanze correlate dei PFCA C<sub>9</sub>–C<sub>14</sub> dello 0,000026 per cento (260 ppb).
 
 <sup>2</sup> È vietata l’immissione sul mercato di oggetti e loro componenti, se superano i seguenti valori:
 
-- a. un contenuto in massa di PFOA e suoi sali dello 0,0000025 per cento (25 ppb); o
-- b. un contenuto in massa di una sostanza correlata al PFOA o della somma di sostanze correlate al PFOA dello 0,0001 per cento (1000 ppb).
+- a. un contenuto in massa di PFOA o della somma di PFCA C<sub>9</sub>–C<sub>14</sub> dello 0,0000025 per cento (25 ppb);
+- b. un contenuto in massa della somma delle sostanze correlate del PFOA dello 0,0001 per cento (1000 ppb); o
+- c. un contenuto in massa della somma delle sostanze correlate dei PFCA C<sub>9</sub>–C<sub>14</sub> dello 0,000026 per cento (260 ppb).
 
-### 2.4 Deroghe
+### 3.3 Deroghe
 
-<sup>1</sup> I divieti di cui al numero 2.3 capoverso 1 non si applicano:
+<sup>1</sup> I divieti di cui al numero 3.2 capoverso 1 non si applicano:
 
 - a.
 
   alla fabbricazione e all’impiego di una sostanza fluoro-sostituita con un numero di atomi di carbonio pari o inferiore a sei, se:
 
-  - 1\. contiene PFOA, suoi sali e sostanze correlate al PFOA come sottoprodotti inevitabili,
-  - 2\. è utilizzata come sostanza intermedia,
-  - 3\. durante l’uso di questa sostanza le emissioni di PFOA, dei suoi sali e delle sostanze correlate al PFOA sono evitate o, se ciò non è possibile, sono ridotte al minimo secondo lo stato della tecnica;
+  - 1\. contiene PFOA, PFCA C<sub>9</sub>–C<sub>14</sub> o loro sostanze correlate come sottoprodotti inevitabili,
+  - 2\. è utilizzata come prodotto intermedio, e
+  - 3\. durante l’uso di questa sostanza le emissioni di PFOA, PFCA C<sub>9</sub>–C<sub>14</sub> e delle loro sostanze correlate sono evitate o, se ciò non è possibile, sono ridotte al minimo secondo lo stato della tecnica;
 
-- b. all’immissione sul mercato di una sostanza fluoro-sostituita che secondo la lettera a può essere fabbricata e usata per l’impiego come sostanza intermedia;
-- c. all’impiego di una sostanza isolata correlata al PFOA nel processo di fabbricazione di una sostanza fluoro-sostituita secondo la lettera a per trasformarla in una sostanza non correlata al PFOA, purché durante il processo le emissioni della sostanza correlata al PFOA siano evitate o, se ciò non è possibile, siano ridotte al minimo secondo lo stato della tecnica;
-- d. all’immissione sul mercato di una sostanza correlata al PFOA che può essere impiegata secondo la lettera c per trasformarla in una sostanza non correlata al PFOA.
+- b. all’immissione sul mercato di una sostanza fluoro-sostituita che secondo la lettera a può essere fabbricata e usata per l’impiego come prodotto intermedio;
+- c. all’impiego di una sostanza correlata al PFOA isolata nel processo di fabbricazione di una sostanza fluoro-sostituita di cui alla lettera a per trasformarla in una sostanza non correlata al PFOA, purché durante il processo le emissioni della sostanza correlata al PFOA siano evitate o, se ciò non è possibile, siano ridotte al minimo secondo lo stato della tecnica;
+- d. all’immissione sul mercato di una sostanza correlata al PFOA che può essere impiegata secondo la lettera c per trasformarla in una sostanza non correlata al PFOA;
+- e. alla fabbricazione, all’immissione sul mercato e all’impiego di fluoropolimeri contenenti gruppi di perfluoroalcossi il cui contenuto in massa della somma di PFCA C<sub>9</sub>–C<sub>14</sub> non supera lo 0,00001 per cento (100 ppb).
 
-<sup>2</sup> I divieti di cui al numero 2.3 capoversi 1 e 2 non si applicano ai seguenti oggetti né alle sostanze né ai preparati necessari per la loro fabbricazione:
+<sup>2</sup> I divieti di cui al numero 3.2 capoversi 1 e 2 non si applicano a dispositivi medici non invasivi e non impiantabili e ai loro componenti come pure alle sostanze e ai preparati necessari alla loro fabbricazione, se i componenti di questi dispositivi medici non superano i valori seguenti:
 
-- a. semiconduttori prodotti tramite un processo fotolitografico e semiconduttori composti prodotti tramite un processo di incisione, come tali o come componenti di oggetti;
-- b. rivestimenti fotografici applicati a pellicole, carta o lastre di stampa;
-- c. dispositivi medici impiantabili e loro componenti.
+- a. un contenuto in massa di PFOA e della somma di sostanze correlate del PFOA di 0,0002 per cento (2000 ppb); o
+- b. un contenuto in massa della somma di PFCA C<sub>9</sub>–C<sub>14</sub> alla somma di sostanze correlate dei PFCA C<sub>9</sub>–C<sub>14</sub> di 0,0002 per cento (2000 ppb).
 
-<sup>3</sup> I divieti di cui al numero 2.3 capoversi 1 e 2 non si applicano inoltre per gli impieghi a scopo di analisi e ricerca.
+<sup>3</sup> I divieti di cui al numero 3.2 capoversi 1 e 2 non si applicano inoltre agli impieghi a scopo di analisi e di ricerca.
 
-### 3**** Fluoroalchilsilanoli e loro derivati
+### 4 Fluoroalchilsilanoli e loro derivati
 
-[^annex116-lvlu1-lvl4-1]
+### 4.1 Definizioni
 
-[^annex116-lvlu1-lvl4-1]: In vigore dal 1° dic. 2020 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
-
-### 3.1 Definizioni
-
-<sup>1</sup> Sono considerati fluoroalchilsilanoli e loro derivati le sostanze con l’elemento strutturale C<sub>6</sub>F<sub>13</sub>(C<sub>2</sub>H<sub>4</sub>)Si(OH)<sub>n</sub>(OX)<sub>3-n</sub> con 0 ≤ n ≤ 3, dove X sta per: qualsiasi gruppo alchilico.
+<sup>1</sup> Sono considerati fluoroalchilsilanoli e loro derivati le sostanze con l’elemento strutturale C6F13(C2H4)Si(OH)n(OX)3-n con 0 ≤ n ≤ 3, dove X sta per: qualsiasi gruppo alchilico.
 
 <sup>2</sup> Le confezioni aerosol, gli spray a pompa e gli atomizzatori sono considerati come confezioni spray.
 
-### 3.2 Divieti
+### 4.2 Divieti
 
 <sup>1</sup> È vietata la fornitura al grande pubblico di preparati contenenti solventi organici in confezioni spray con un contenuto in massa di fluoroalchilsilanoli e loro derivati pari o superiore allo 0,0000002 per cento (2 ppb).
 
 <sup>2</sup> Il divieto di cui al capoverso 1 si applica anche ai preparati destinati alla ricarica delle confezioni spray.
 
-### 3.3 Etichettatura particolare
+### 4.3 Etichettatura particolare
 
-<sup>1</sup> Sull’imballaggio di preparati che rientrano nel divieto di cui al numero 4.2 devono figurare le seguenti diciture: «Solo per utilizzatori professionali» e «Pericolo di morte per inalazione».
+Sull’imballaggio di preparati che rientrano nei divieti di cui al numero 4.2 devono figurare le seguenti diciture: «Solo per utilizzatori professionali» e «Letale se inalato».
 
-<sup>2</sup> ...
+### 5 Disposizioni transitorie
 
-### 4**** Disposizioni transitorie
+<sup>1</sup> I divieti di cui al numero 1.2 capoverso 1 non si applicano fino al 1° aprile 2024 all’impiego di prodotti contenenti PFOS per l’abbattimento di nebbie per la cromatura dura (cromo VI) a carattere non decorativo utilizzati in sistemi a ciclo chiuso nonché alle sostanze e ai preparati per la loro fabbricazione se nella fabbricazione dei prodotti e nel loro impiego le emissioni di PFOS nell’ambiente sono limitate al minimo.
 
-[^annex116-lvlu1-lvl4-2]
+<sup>2</sup> I divieti di cui al numero 2.2 non si applicano:
 
-[^annex116-lvlu1-lvl4-2]: In vigore dal 1° giu. 2021 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+- a. ai prodotti contenenti PFOS per l’abbattimento di nebbie che possono essere fabbricati, immessi sul mercato e impiegati secondo il capoverso 1, se contengono PFHxS o sostanze correlate del PFHxS solo come impurità inevitabili;
+- b. all’impiego di schiume antincendio immesse sul mercato prima del 1° ottobre 2022, se contengono PFHxS o sostanze correlate del PFHxS solo come impurità inevitabili;
+- c. all’immissione sul mercato di oggetti contenenti PFHxS o sostanze correlate del PFHxS immesse sul mercato per la prima volta prima del 1° ottobre 2022.
 
-<sup>1</sup> I divieti di cui al numero 2.3 capoversi 1 e 2 non si applicano:
-
-- a. ai seguenti oggetti immessi sul mercato per la prima volta prima delle date menzionate nonché alle sostanze e ai preparati necessari per la fabbricazione di questi oggetti:
-
-<table>
-<tr><th>Prodotto</th><th>Data</th></tr>
-<tr><td>Apparecchiature utilizzate per la fabbricazione di semiconduttori</td><td>1° giugno 2023</td></tr>
-<tr><td>Stampati contenenti inchiostri da stampa in lattice</td><td>1° giugno 2023</td></tr>
-<tr><td>Tessili per la sicurezza sul lavoro</td><td>1° giugno 2024</td></tr>
-<tr><td>Membrane destinate all’uso in tessuti medicali, filtraggio nel trattamento delle acque, processi di produzione e trattamento degli effluenti nonché oggetti con tali membrane</td><td>1° giugno 2024</td></tr>
-<tr><td>Oggetti contenenti nanorivestimenti al plasma</td><td>1° giugno 2024</td></tr>
-<tr><td>Dispositivi medici non impiantabili e loro componenti</td><td>4 luglio 2032</td></tr>
-</table>
-
-- b. a tutti gli altri oggetti immessi sul mercato per la prima volta prima del 1° giugno 2021.
-
-<sup>2</sup> I divieti di cui al n. 2.3 capoverso 1 non si applicano all’impiego di schiume antincendio immesse per la prima volta sul mercato prima del 1° giugno 2021.
-
-<sup>3</sup> I divieti di cui al numero 2.3 capoverso 1 non si applicano fino al 1° giugno 2024 per:
+<sup>3</sup> I divieti di cui al numero 3.2 non si applicano:
 
 - a.
 
-  la fabbricazione di politetrafluoroetilene (PTFE) se:
+  ai dispositivi medici o ai loro componenti seguenti contenenti PFOA, PFCA C<sub>9</sub>–C<sub>14</sub> o loro sostanze correlate come pure a sostanze e preparati necessari alla loro fabbricazione:
 
-  - 1\. determinate proprietà molecolari sono ottenute mediante trattamento con radiazioni elettromagnetiche ad alta energia con una dose assorbita di 25-400 chilogray,
-  - 2\. il PFOA, i suoi sali o i suoi precursori sono sottoprodotti inevitabili del trattamento di cui al capoverso 1 e il cui contenuto totale in massa non supera lo 0,0001 % (1 ppm);
+  - 1\. dispositivi medici non impiantabili immessi sul mercato per la prima volta prima del 1° ottobre 2022,
+  - 2\. dispositivi medici invasivi e impiantabili immessi sul mercato per la prima volta prima del 4 luglio 2025;
 
-- b. l’immissione sul mercato del PTFE che può essere prodotto conformemente alla lettera a al fine di eliminare il PFOA, i suoi sali e i precursori del PFOA;
-- c. l’uso di PTFE prodotto conformemente alla lettera a e immesso sul mercato conformemente alla lettera b del presente capoverso se le emissioni di PFOA, dei suoi sali e dei precursori di PFOA sono evitate conformemente allo stato della tecnica o, se ciò non è possibile, ridotte al minimo.
+- b. ai seguenti oggetti o ai loro componenti contenenti PFOA, PFCA C<sub>9</sub>–C<sub>14</sub> o loro sostanze correlate immesse sul mercato per la prima volta prima delle date menzionate nonché alle sostanze e ai preparati necessari per la loro fabbricazione:
 
-Allegato 1.17*[^t-19]*
+<table>
+<tr><th>Prodotto</th><th>Data</th></tr>
+<tr><td>tessuti idro-oleorepellenti per la protezione dei lavoratori nel trattamento di liquidi pericolosi per la salute</td><td>4 luglio 2023</td></tr>
+<tr><td>membrane per la filtrazione del gas, membrane per la filtrazione dell’acqua e membrane per tessuti medicali ad alte prestazioni e resistenti alla corrosione a base di politetrafluoroetilene (PTFE) o polivinilidenfluoruro (PVDF)</td><td>4 luglio 2023</td></tr>
+<tr><td>scambiatori di calore per il recupero di calore residuo industriale e sigillanti industriali in grado di impedire la dispersione di composti organici volatili e particolato PM2,5 a base di PTFE o PVDF</td><td>4 luglio 2023</td></tr>
+<tr><td>rivestimenti fotografici applicati a pellicole</td><td>4 luglio 2025</td></tr>
+</table>
+
+- c.
+
+  agli oggetti e loro componenti seguenti contenenti PFCA C<sub>9</sub>–C<sub>14</sub> o loro sostanze correlate nonché alle sostanze e ai preparati necessari per la loro fabbricazione:
+
+  - 1\. semiconduttori o componenti contenenti semiconduttori destinati all’installazione in apparecchiature elettriche ed elettroniche nonché alle apparecchiature contenenti tali semiconduttori: fino al 31 dicembre 2023,
+  - 2\. semiconduttori: fino al 31 dicembre 2030, se sono destinati all’impiego come pezzi di ricambio per apparecchiature elettriche ed elettroniche immesse sul mercato per la prima volta prima del 31 dicembre 2023;
+
+- d.
+
+  tutti gli altri oggetti e i loro componenti che:
+
+  - 1\. contengono PFOA o sue sostanze correlate immesse sul mercato per la prima volta prima del 1° giugno 2021, esclusi l’equipaggiamento per la produzione di semiconduttori, gli stampati contenenti inchiostri da stampa in lattice e gli oggetti contenenti nanorivestimenti al plasma immessi sul mercato per la prima volta prima del 1° ottobre 2022,
+  - 2\. contengono PFCA C<sub>9</sub>–C<sub>14</sub> o loro sostanze correlate immesse sul mercato per la prima volta prima del 1° ottobre 2022.
+
+<sup>4</sup> I divieti di cui al numero 3.2 capoverso 1 non si applicano:
+
+- a. alla fabbricazione, all’immissione sul mercato e all’impiego di preparati per processi fotolitrografici o processi di incisione per la fabbricazione di semiconduttori contenenti PFOA, PFCA C<sub>9</sub>–C<sub>14</sub> o le loro sostanze correlate: fino al 4 luglio 2025;
+- b. all’immissione sul mercato e all’impiego di bromuro di perfluoroottile contenente ioduro di perfluoroottile per la fabbricazione di medicamenti: fino al 31 dicembre 2036;
+- c. all’immissione sul mercato e all’impiego di PFCA C<sub>9</sub>–C<sub>14</sub> o di fluoropolimeri contenenti le loro sostanze correlate per il rivestimento di inalatori aerosol dosati: fino al 25 agosto 2028;
+- d.
+
+  all’impiego di schiume antincendio:
+
+  - 1\. immesse sul mercato per la prima volta prima del 1° giugno 2021, se contengono PFOA o sostanze correlate del PFOA solo come impurità inevitabili,
+  - 2\. immesse sul mercato per la prima volta prima del 1° ottobre 2022, se contengono PFCA C<sub>9</sub>–C<sub>14</sub> o loro sostanze correlate solo come impurità inevitabili.
+
+<sup>5</sup> In deroga al divieto di cui al numero 3.2 capoverso 1, le schiume antincendio immesse sul mercato per la prima volta prima del 1° giugno 2021 che contengono sostanze correlate del PFOA aggiunte intenzionalmente e le schiume antincendio immesse sul mercato per la prima volta prima del 1° ottobre 2022 che contengono sostanze correlate di PFCA C<sub>9</sub>–C<sub>14</sub> aggiunte intenzionalmente possono essere impiegate:
+
+- a. da corpi di pompieri e forze d’intervento militari per la lotta antincendio in casi gravi: fino al 1° aprile 2023;
+- b. nelle installazioni per la protezione di impianti, compreso l’impiego per i necessari controlli delle funzioni di tali installazioni, nella misura in cui le schiume antincendio impiegate nell’ambito dei controlli sono raccolte e smaltite nel rispetto dell’ambiente: fino al 31 dicembre 2025.
+
+<sup>6</sup> I fluoropolimeri contenenti gruppi perfluoroalcossi di cui al numero 3.3 capoverso 1 lettera e possono essere immessi sul mercato e impiegati fino al 25 agosto 2024, se il loro contenuto in massa della somma di PFCA C<sub>9</sub>–C<sub>14</sub> non supera lo 0,0002 per cento (2000 ppb).
+
+Allegato 1.17[^t-19]
 
 (art. 3)
 
-## Sostanze di cui all’allegato XIV del regolamento (CE) n. 1907/2006****
+## Sostanze di cui all’allegato XIV del regolamento (CE) n. 1907/2006
 
 [^annex117-lvlu1-1]
 
@@ -2525,7 +2557,7 @@ L’immissione sul mercato per l’impiego delle sostanze elencate al numero 5 e
 [^annex117-lvlu1-lvl5-3]: Direttiva 2001/83/CE del Parlamento europeo e del Consiglio, del 6 novembre 2001, recante un codice comunitario relativo ai medicinali per uso umano, GU L 311 del 28.11.2001, pag. 67; modificata da ultimo dalla direttiva (UE) 2017/745, GU L 117 del 5.5.2017, pag. 1.
 [^annex117-lvlu1-lvl5-4]: Cfr. nota a piè di pagina relativa al titolo di questo all.
 
-Allegato 1.18*[^t-20]*
+Allegato 1.18[^t-20]
 
 (art. 3)
 
@@ -2570,7 +2602,7 @@ Allegato 1.18*[^t-20]*
 
 <sup>2</sup> Per l’immissione sul mercato di apparecchiature elettriche ed elettroniche contenenti ftalati si applica l’allegato 2.18.
 
-### 3 Relazione con l’ordinanza del 16 dicembre 2016**** sulle derrate alimentari e gli oggetti d’uso (ODerr)
+### 3 Relazione con l’ordinanza del 16 dicembre 2016 sulle derrate alimentari e gli oggetti d’uso (ODerr)
 
 [^annex118-lvlu1-lvl3-1]
 
@@ -2611,7 +2643,7 @@ Allegato 2
 
 ## Disposizioni per gruppi di preparati e oggetti
 
-Allegato 2.1*[^t-21]*
+Allegato 2.1[^t-21]
 
 (art. 3)
 
@@ -2772,7 +2804,7 @@ Allegato 2.1*[^t-21]*
 
 <sup>4</sup> Le disposizioni di cui ai capoversi 2 e 3 si applicano solo finché l’autorità competente non decide in merito alla richiesta di approvazione di una deroga.
 
-Allegato 2.2*[^t-22]*
+Allegato 2.2[^t-22]
 
 (art. 3)
 
@@ -2958,7 +2990,7 @@ Allegato 2.2*[^t-22]*
 
 <sup>6</sup> Nelle istruzioni per l’uso dei detersivi per lavastoviglie domestiche immessi sul mercato secondo il capoverso 5, il dosaggio deve essere indicato in modo tale che, rispettando dette istruzioni, non si impieghino più di 2,5 g di fosforo per ciclo di lavaggio.
 
-Allegato 2.3*[^t-23]*
+Allegato 2.3[^t-23]
 
 (art. 3)
 
@@ -3106,7 +3138,7 @@ Il Cantone può esigere dal detentore di rifiuti di solventi alogenati e dalle d
 [^annex23-lvlu1-lvl6-1]: [RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)
 [^annex23-lvlu1-lvl6-2]: [RS 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
 
-Allegato 2.4*[^t-24]*
+Allegato 2.4[^t-24]
 
 (art. 3)
 
@@ -3224,7 +3256,7 @@ Le vernici antivegetative sono biocidi appartenenti al tipo di prodotto 21 di cu
 
 <sup>2</sup> Per le vernici antivegetative contenenti composti trialchilici o triarilici dello stagno si applicano le disposizioni dell’allegato 1.14.
 
-### 4<sup>bis</sup> **** Biocidi contro alghe e muschi
+### 4<sup>bis</sup> Biocidi contro alghe e muschi
 
 [^annex24-lvlu1-lvl4bis-1]
 
@@ -3283,7 +3315,7 @@ I divieti sanciti dal presente allegato non si applicano all’immissione sul me
 - d. basi dei tralicci;
 - e. altri impianti il cui scopo è simile a quello degli impianti di cui alle lettere a–e che vengono realizzati al di fuori delle zone abitate; dopo avere consultato gli uffici federali interessati, l’UFAM emana delle raccomandazioni all’attenzione delle autorità esecutive.
 
-Allegato 2.5*[^t-25]*
+Allegato 2.5[^t-25]
 
 (art. 3)
 
@@ -3536,7 +3568,7 @@ Nella domanda devono figurare le seguenti indicazioni:
 [^annex25-lvlu1-lvl4-lvl42-lvl425-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^annex25-lvlu1-lvl4-lvl42-lvl425-2]: [RS 814.82](https://fedlex.data.admin.ch/eli/cc/2004/725)
 
-Allegato 2.6*[^t-26]*
+Allegato 2.6[^t-26]
 
 (art. 3)
 
@@ -3723,7 +3755,7 @@ Il tenore di inquinanti nei concimi organo-minerali non deve superare i valori l
 
 <sup>2</sup> Le autorità cantonali accertano le cause del superamento dei valori indicativi di cui al numero 2.2.1 capoverso 3 e provvedono affinché il compost e il digestato non vengano forniti se la loro utilizzazione può danneggiare la fertilità del suolo.
 
-Allegato 2.7*[^t-27]*
+Allegato 2.7[^t-27]
 
 (art. 3)
 
@@ -3787,7 +3819,7 @@ L’UFAM può autorizzare singoli utilizzatori a impiegare sostanze attive diver
 
 <sup>3</sup> I Cantoni provvedono affinché per le strade, le vie e le piazze pubbliche vengano stabiliti i periodi, i luoghi e le modalità di impiego dei prodotti disgelanti oppure di altre procedure contro superfici ghiacciate e neve gelata.
 
-Allegato 2.8*[^t-28]*
+Allegato 2.8[^t-28]
 
 (art. 3)
 
@@ -3828,7 +3860,7 @@ Allegato 2.8*[^t-28]*
 
 Le pitture e le lacche al piombo come pure gli oggetti trattati con tali prodotti possono essere immessi sul mercato dal fabbricante ancora fino al 31 luglio 2006.
 
-Allegato 2.9*[^t-29]*
+Allegato 2.9[^t-29]
 
 (art. 3)
 
@@ -3954,7 +3986,7 @@ Allegato 2.9*[^t-29]*
 
 <sup>2</sup> Preparati e oggetti contenenti PVC riciclato devono essere muniti di un’etichetta con la dicitura «Contiene PVC riciclato» o del seguente pittogramma:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20220501/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20221001/it/xml/image/image2.png)
 
 <sup>3</sup> I preparati, il cui contenuto in massa di diisocianato di metilendifenile è pari o superiore allo 0,1 per cento e che sono destinati al grande pubblico, devono essere muniti di etichette con la seguente dicitura: «L’uso di questo prodotto può provocare reazioni allergiche nei soggetti già sensibilizzati ai diisocianati. – I soggetti affetti da asma, eczema o problemi della pelle dovrebbero evitare il contatto, incluso il contatto dermico, con questo prodotto. – Questo prodotto non dovrebbe essere utilizzato in condizioni di scarsa ventilazione, a meno che non venga utilizzata una maschera protettiva con un idoneo filtro antigas (di tipo A1 conforme alla norma EN 14387)».
 
@@ -4001,7 +4033,7 @@ Dopo aver consultato i settori interessati, l’UFAM emana raccomandazioni sullo
 
 <sup>8</sup> Le materie plastiche espanse e gli oggetti con materie plastiche espanse cui non si applica il numero 3 capoverso 3<sup>bis</sup> poiché a seguito di un cambiamento dello stato della tecnica è disponibile un’alternativa, possono essere fabbricati e importati a scopi professionali o commerciali ancora per 6 mesi come pure essere ceduti a terzi per altri 6 mesi.
 
-Allegato 2.10*[^t-30]*
+Allegato 2.10[^t-30]
 
 (art. 3)
 
@@ -4225,7 +4257,7 @@ Chi manipola o utilizza prodotti refrigeranti o apparecchi o impianti che conten
 
 ### È vietata la ricarica con prodotti refrigeranti stabili nell’aria con un potenziale di effetto serra pari o superiore a 2500 in impianti con una capacità pari o superiore a 40 tonnellate di CO<sub>2</sub> equivalenti.
 
-### 3.3.2**** Deroghe
+### 3.3.2 Deroghe
 
 [^annex210-lvlu1-lvlu4-lvl332-1]
 
@@ -4319,7 +4351,7 @@ L’UFAM emana raccomandazioni:
 [^annex210-lvlu1-lvl7-2]: [RS 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
 [^annex210-lvlu1-lvl7-3]: [RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)
 
-Allegato 2.11*[^t-31]*
+Allegato 2.11[^t-31]
 
 (art. 3)
 
@@ -4478,7 +4510,7 @@ Per gli estintori e gli impianti che contengono o conterranno prodotti estinguen
 [^annex211-lvlu1-lvl9-1]: [RS 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
 [^annex211-lvlu1-lvl9-2]: [RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)
 
-Allegato 2.12*[^t-32]*
+Allegato 2.12[^t-32]
 
 (art. 3)
 
@@ -4557,7 +4589,7 @@ Allegato 2.12*[^t-32]*
 
 Chi riempie per proprio conto confezioni aerosol con sostanze stabili nell’aria oppure importa tali confezioni deve notificare all’UFAM, su richiesta, le quantità di ogni singola sostanza impiegate negli ultimi tre anni; le indicazioni vanno suddivise secondo le categorie seguenti: importazione, consumo in Svizzera, esportazione e tipi d’impiego.
 
-Allegato 2.13*[^t-33]*
+Allegato 2.13[^t-33]
 
 (art. 3)
 
@@ -4584,7 +4616,7 @@ Per l’aggiunta di additivi a combustibili si applicano i requisiti di cui all�
 
 [^annex213-lvlu1-lvl3-1]: [RS 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
 
-Allegato 2.14*[^t-34]*
+Allegato 2.14[^t-34]
 
 (art. 3)
 
@@ -4622,7 +4654,7 @@ Allegato 2.14*[^t-34]*
 
 [^annex214-lvlu1-lvl3-1]: [RS 734.27](https://fedlex.data.admin.ch/eli/cc/2002/22)
 
-Allegato 2.15*[^t-35]*
+Allegato 2.15[^t-35]
 
 (art. 3)
 
@@ -4830,7 +4862,7 @@ L’organizzazione deve impiegare la tassa esclusivamente per il finanziamento d
 
 <sup>3</sup> L’obbligo della tassa secondo il numero 6.1 non si applica alle batterie con un peso superiore a 5 kg che sono state immesse sul mercato entro il 1° gennaio 2012.
 
-Allegato 2.16*[^t-36]*
+Allegato 2.16[^t-36]
 
 (art. 3)
 
@@ -4950,7 +4982,7 @@ I divieti di cui al numero 3<sup>bis</sup>.2 non si applicano alle leghe per bra
 
 <sup>2</sup> Per l’immissione sul mercato di imballaggi, oggetti trattati con pitture e lacche, materiali legnosi nonché apparecchiature elettriche ed elettroniche contenenti piombo o composti di piombo si applicano il numero 4 e gli allegati 2.8, 2.17 e 2.18.
 
-### 3<sup>ter</sup>.3 Relazione con l’ordinanza del 16 dicembre 2016**** sulle derrate alimentari e gli oggetti d’uso (ODerr)
+### 3<sup>ter</sup>.3 Relazione con l’ordinanza del 16 dicembre 2016 sulle derrate alimentari e gli oggetti d’uso (ODerr)
 
 [^annex216-lvlu1-lvl3ter-lvl3ter.3-1]
 
@@ -5071,7 +5103,7 @@ I materiali e i componenti per veicoli devono essere etichettati o resi identifi
 
 [^annex216-lvlu1-lvl7-1]: Cfr. nota a piè di pagina relativa al n. 5.3 cpv. 1.
 
-Allegato 2.17*[^t-37]*
+Allegato 2.17[^t-37]
 
 (art. 3)
 
@@ -5112,7 +5144,7 @@ I materiali legnosi non possono essere immessi sul mercato dal fabbricante se il
 
 I divieti di cui al numero 2 entrano in vigore il 1° agosto 2006.
 
-Allegato 2.18*[^t-38]*
+Allegato 2.18[^t-38]
 
 (art. 3)
 

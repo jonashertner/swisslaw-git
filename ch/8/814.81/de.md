@@ -4,11 +4,11 @@ title: "Verordnung vom 18. Mai 2005 zur Reduktion von Risiken beim Umgang mit be
 short: ChemRRV
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/478"
 language: de
-version: 2022-05-01
+version: 2022-10-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20220501/de/xml/fedlex-data-admin-ch-eli-cc-2005-478-20220501-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20220501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20221001/de/xml/fedlex-data-admin-ch-eli-cc-2005-478-20221001-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20221001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20220501/de"
 
 (Chemikalien-Risikoreduktions-Verordnung, ChemRRV)
 
-vom 18. Mai 2005 (Stand am 1. Mai 2022)
+vom 18. Mai 2005 (Stand am 1. Oktober 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -89,7 +89,7 @@ Unter Vorbehalt spezifischer Begriffsbestimmungen in den Anhängen bedeuten in d
 
 <sup>2</sup> Ausnahmebewilligungen nach den Anhängen werden nur Personen erteilt, die ihren Wohn- oder Geschäftssitz in der Schweiz haben.
 
-1*a*. Abschnitt:**[^t-1]** Besondere Kennzeichnungen
+1*a*. Abschnitt:[^t-1] Besondere Kennzeichnungen
 
 ****Art. 3**a**
 
@@ -335,7 +335,7 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 [^t-20]: [[AS 1986 1254](https://fedlex.data.admin.ch/eli/oc/1986/1254_1254_1254); [1988 911](https://fedlex.data.admin.ch/eli/oc/1988/911_911_911); [1989 270](https://fedlex.data.admin.ch/eli/oc/1989/270_270_270), [2420](https://fedlex.data.admin.ch/eli/oc/1989/2420_2420_2420); [1991 1981](https://fedlex.data.admin.ch/eli/oc/1991/1981_1981_1981); [1992 1749](https://fedlex.data.admin.ch/eli/oc/1992/1749_1749_1749); [1994 678](https://fedlex.data.admin.ch/eli/oc/1994/678_678_678); [1995 1491](https://fedlex.data.admin.ch/eli/oc/1995/1491_1491_1491)Art. 440 Ziff. 2 [4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425), Anhang 1 Ziff. II 14, [5505](https://fedlex.data.admin.ch/eli/oc/1995/5505_5505_5505); [1997 697](https://fedlex.data.admin.ch/eli/oc/1997/697_697_697); [1998 2009](https://fedlex.data.admin.ch/eli/oc/1998/2009_2009_2009), [2863](https://fedlex.data.admin.ch/eli/oc/1998/2863_2863_2863)Anhang 5 Ziff. 3; [1999 39](https://fedlex.data.admin.ch/eli/oc/1999/10), [1362](https://fedlex.data.admin.ch/eli/oc/1999/192), [2045](https://fedlex.data.admin.ch/eli/oc/1999/321)Anhang 2 Ziff. 3; [2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)Ziff. II 9, [1949](https://fedlex.data.admin.ch/eli/oc/2000/299)Art. 22 Abs. 2; [2001 522](https://fedlex.data.admin.ch/eli/oc/2001/105)Anhang Ziff. 2, [1758](https://fedlex.data.admin.ch/eli/oc/2001/275), [3294](https://fedlex.data.admin.ch/eli/oc/2001/490)Ziff. II 6; [2003 940](https://fedlex.data.admin.ch/eli/oc/2003/171), [1345](https://fedlex.data.admin.ch/eli/oc/2003/230), [5421](https://fedlex.data.admin.ch/eli/oc/2003/788)Ziff. II 2; [2004 3209](https://fedlex.data.admin.ch/eli/oc/2004/411), [4037](https://fedlex.data.admin.ch/eli/oc/2004/591)Ziff. I 7. [AS 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)Ziff. I 1]
 [^t-21]: Eingefügt durch Anhang Ziff. 2 der V vom 11. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
-Anhänge*[^t-22]*
+Anhänge[^t-22]
 
 ## 1 Bestimmungen für bestimmte Stoffe
 
@@ -387,7 +387,7 @@ Anhang 1
 
 ## Bestimmungen für bestimmte Stoffe
 
-Anhang 1.1*[^t-23]*
+Anhang 1.1[^t-23]
 
 (Art. 3)
 
@@ -481,7 +481,7 @@ Anhang 1.1*[^t-23]*
 
 <sup>3</sup> Das Bundesamt für Umwelt (BAFU) kann auf begründetes Gesuch befristete Ausnahmen von den Verboten nach Absatz 1 Buchstaben a und b gewähren, wenn die Gesuchstellerin nachweisen kann, dass für die Zubereitungen oder Gegenstände ein Ersatz ohne HBCDD tatsächlich nicht beschafft werden kann. Die Befristung darf längstens bis zum 1. März 2018 dauern.
 
-Anhang 1.2*[^t-24]*
+Anhang 1.2[^t-24]
 
 (Art. 3)
 
@@ -564,7 +564,7 @@ Anhang 1.2*[^t-24]*
 
 - i. *1,2,4-Trichlorbenzol (CAS-Nr. 120-82-1).*
 
-Anhang 1.3*[^t-25]*
+Anhang 1.3[^t-25]
 
 (Art. 3)
 
@@ -609,7 +609,7 @@ Anhang 1.3*[^t-25]*
 
 <sup>2</sup> …
 
-Anhang 1.4*[^t-26]*
+Anhang 1.4[^t-26]
 
 (Art. 3)
 
@@ -880,7 +880,7 @@ Eine Ausnahmebewilligung kann erteilt werden, wenn:
 
 Zubereitungen und Gegenstände, die mit ozonschichtabbauenden Stoffen hergestellt worden und in einer Anlage zum Montrealer Protokoll aufgeführt sind (Ziff. 3.1 Bst. b), dürfen noch während eines Jahres nach Inkrafttreten der betreffenden Anlage zum Montrealer Protokoll in Verkehr gebracht werden.
 
-Anhang 1.5*[^t-27]*
+Anhang 1.5[^t-27]
 
 (Art. 3)
 
@@ -1198,7 +1198,7 @@ Für Behälter, die in der Luft stabile Stoffe, die in Anhang A des Protokolls v
 
 Stoffe nach Ziffer 1 Absatz 1<sup>bis</sup> Buchstabe f dürfen noch bis zum 30. Juni 2023 ohne Umwandlung des entstehenden Distickstoffoxids hergestellt werden.
 
-Anhang 1.6*[^t-28]*
+Anhang 1.6[^t-28]
 
 (Art. 3)
 
@@ -1255,7 +1255,7 @@ Verboten ist:
 - b. einem Hinweis auf die Gefahren für Mensch und Umwelt und die Schutzmassnahmen nach folgendem Muster:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20220501/de/xml/image/image1.png)</td><td>Kopf</td><td colspan="2">H = mindestens 5 cm</td><td></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20221001/de/xml/image/image1.png)</td><td>Kopf</td><td colspan="2">H = mindestens 5 cm</td><td></td></tr>
 <tr><td></td><td></td><td colspan="2">B = mindestens 2,5 cm</td><td></td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>1</sub> = 40 Prozent von H</td><td></td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>2</sub> = 60 Prozent von H</td><td></td></tr>
@@ -1284,7 +1284,7 @@ Kann bei der Verwendung asbesthaltiger Zubereitungen oder Gegenstände Feinstaub
 
 <sup>3</sup> Die Verbote nach Ziffer 2 Buchstaben b, c und d gelten bis zum 30. Juni 2025 nicht für asbesthaltige Diaphragmen zur Verwendung in bestehenden Elektrolyseanlagen.
 
-Anhang 1.7*[^t-29]*
+Anhang 1.7[^t-29]
 
 (Art. 3)
 
@@ -1616,7 +1616,7 @@ Ein Gesuch muss mindestens enthalten:
 
 Ein nach bisherigem Recht auf Ziffer 2.2 Absatz 1 gestützter Antrag wird nach bisherigem Recht beurteilt.
 
-Anhang 1.8*[^t-30]*
+Anhang 1.8[^t-30]
 
 (Art. 3)
 
@@ -1667,13 +1667,13 @@ Die Verbote nach Ziffer 1 gelten nicht für:
 
 <sup>3</sup> Das Verbot nach Ziffer 1 Absatz 3 gilt nicht für Nonylphenolethoxylate enthaltende Textilfasern sowie textile Halb- und Fertigprodukte, die vor dem 1. Juni 2022 erstmals in Verkehr gebracht worden sind.
 
-Anhang 1.9*[^t-31]*
+Anhang 1.9[^t-31]
 
 (Art. 3)
 
 ## Stoffe mit flammhemmender Wirkung
 
-[^t-31]: Bereinigt gemäss Ziff. I der V vom 17. April 2019, in Kraft seit 1. Juni 2021 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+[^t-31]: Bereinigt gemäss Ziff. II Abs. 3 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)) und Ziff. I der V vom 17. April 2019, in Kraft seit 1. Juni 2021 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
 
 ### 1 Organische Phosphorverbindungen
 
@@ -1712,7 +1712,7 @@ Textilien, die Stoffe nach Ziffer 1.1 enthalten und die nach ihrer Bestimmung di
 
 <sup>3</sup> Für Elektro- und Elektronikgeräte, die DecaBDE enthalten, gilt Anhang 2.18.
 
-### 3**** Anorganische Ammoniumsalze
+### 3 Anorganische Ammoniumsalze
 
 [^annex19-lvlu1-lvl3-1]
 
@@ -1776,7 +1776,7 @@ Die Verbote nach Ziffer 2.2 Absätze 1 und 2 gelten nicht für:
   - 1\. Analyse- und Forschungszwecke,
   - 2\. die Herstellung von Fahrzeugbauteilen, die nach Buchstabe a Nummern 3 und 4 in Verkehr gebracht werden dürfen.
 
-Anhang 1.10*[^t-32]*
+Anhang 1.10[^t-32]
 
 (Art. 3)
 
@@ -1854,7 +1854,7 @@ Die folgenden Stoffe, die durch die Verordnung (EU) 2021/2204[^annex110-lvlu1-lv
 
 [^annex110-lvlu1-lvl4-1]: Verordnung (EU) 2021/2204 der Kommission vom 13. Dezember 2021, Fassung gemäss ABl. L 446 vom 14.12.2021, S. 34.
 
-Anhang 1.11*[^t-33]*
+Anhang 1.11[^t-33]
 
 (Art. 3)
 
@@ -1904,7 +1904,7 @@ Als gefährliche flüssige Stoffe und Zubereitungen gelten flüssige Zubereitung
 
 [^annex111-lvlu1-lvl4-1]: Diese Norm kann kostenlos eingesehen oder gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
 
-Anhang 1.12*[^t-34]*
+Anhang 1.12[^t-34]
 
 (Art. 3)
 
@@ -1931,7 +1931,7 @@ Anhang 1.12*[^t-34]*
 
 [^annex112-lvlu1-lvl1-lvl12-1]: [SR 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
 
-### 2**** Toluol
+### 2 Toluol
 
 [^annex112-lvlu1-lvl2-1]
 
@@ -1939,7 +1939,7 @@ Anhang 1.12*[^t-34]*
 
 Verboten sind das Inverkehrbringen und die Verwendung von Toluol (CAS‑Nr. 108‑88‑3) und Zubereitungen mit einem Massengehalt von 0,1 Prozent oder mehr Toluol in Klebstoffen und Sprühfarben, die für die Abgabe an die breite Öffentlichkeit bestimmt sind.
 
-Anhang 1.13*[^t-35]*
+Anhang 1.13[^t-35]
 
 (Art. 3)
 
@@ -1979,7 +1979,7 @@ Als blauer Farbstoff gilt der Azofarbstoff mit den Bestandteilen:
 
 Die Verbote nach Ziffer 2 Absatz 3 treten am 1. August 2006 in Kraft.
 
-Anhang 1.14*[^t-36]*
+Anhang 1.14[^t-36]
 
 (Art. 3)
 
@@ -2007,7 +2007,7 @@ Verboten ist das Inverkehrbringen von:
   - 1\. Zwei-Komponenten-Raumtemperaturvulkanisierungs-Abform-Sets (RTV-2-Abform-Sets),
   - 2\. Wand- und Bodenverkleidungen.
 
-### 1.3 Verhältnis zur Lebensmittel- und Gebrauchsgegenständeverordnung vom 16. Dezember 2016****
+### 1.3 Verhältnis zur Lebensmittel- und Gebrauchsgegenständeverordnung vom 16. Dezember 2016
 
 [^annex114-lvlu1-lvl1-lvl13-1]
 
@@ -2077,7 +2077,7 @@ Die Verbote nach Ziffer 3.1 gelten nicht:
 
 <sup>4</sup> Das Verbot für das Inverkehrbringen nach Ziffer 2.2 Buchstabe c gilt nicht für trisubstituierte zinnorganische Verbindungen enthaltende Gegenstände, die vor dem 1. Juni 2013 erstmals in Verkehr gebracht worden sind.
 
-Anhang 1.15*[^t-37]*
+Anhang 1.15[^t-37]
 
 (Art. 3)
 
@@ -2124,13 +2124,13 @@ Verboten ist:
 
 [^annex115-lvlu1-lvl3-1]: Verordnung (EG) Nr. 1907/2006 des Europäischen Parlaments und des Rates vom 18. Dez. 2006 zur Registrierung, Bewertung, Zulassung und Beschränkung chemischer Stoffe (REACH), zur Schaffung einer Europäischen Agentur für chemische Stoffe, zur Änderung der Richtlinie 1999/45/EG und zur Aufhebung der Verordnung (EWG) Nr. 793/93 des Rates, der Verordnung (EG) Nr. 1488/94 der Kommission, der Richtlinie 76/769/EWG des Rates sowie der Richtlinien 91/155/EWG, 93/67/EWG, 93/105/EG und 2000/21/EG der Kommission, ABl. L 396 vom 30.12.2006, S. 1; zuletzt geändert durch Verordnung (EU) Nr. 453/2010 der Kommission vom 20. Mai 2010, ABl. L 133 vom 31. Mai 2010, S. 1. Die Texte der in diesem Anhang erwähnten Rechtsakte der EU sind unter www.cheminfo.ch abrufbar.
 
-Anhang 1.16*[^t-38]*
+Anhang 1.16[^t-38]
 
 (Art. 3)
 
 ## Per- und polyfluorierte Alkylverbindungen
 
-[^t-38]: Eingefügt durch Ziff. I 4 der V vom 10. Dez. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)). Bereinigt gemäss Ziff. II Abs. 3 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), Ziff. I der V vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) und Anhang Ziff. 2 der V vom 11. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-38]: Eingefügt durch Ziff. I 4 der V vom 10. Dez. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)). Fassung gemäss Ziff. I der V vom 23. Febr. 2022, in Kraft seit 1. Okt. 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)).
 
 ### 1 Perfluoroctansulfonsäure und ihre Derivate
 
@@ -2144,157 +2144,189 @@ Als Perfluoroctansulfonsäure und ihre Derivate (PFOS) gelten Stoffe mit der Sum
 
 <sup>2</sup> Verboten ist das Inverkehrbringen von neuen Gegenständen und deren Bestandteilen, wenn sie folgende Werte überschreiten:
 
-- a. einen Massengehalt von mehr als 0.1 Prozent PFOS berechnet im Verhältnis zur Masse der strukturell oder mikrostrukturell verschiedenartigen Bestandteile, die PFOS enthalten; oder
+- a. einen Massengehalt von mehr als 0,1 Prozent PFOS berechnet im Verhältnis zur Masse der strukturell oder mikrostrukturell verschiedenartigen Bestandteile, die PFOS enthalten; oder
 - b. im Falle von Textilien oder anderen beschichteten Werkstoffen: mehr als 1 µg PFOS pro Quadratmeter des beschichteten Materials.
 
 ### 1.3 Ausnahmen
 
-<sup>1</sup> Die Verbote nach Ziffer 1.2 gelten nicht für die Herstellung, das Inverkehrbringen und die Verwendung zu Analyse- und Forschungszwecken.
+Die Verbote nach Ziffer 1.2 gelten nicht für die Herstellung, das Inverkehrbringen und die Verwendung zu Analyse- und Forschungszwecken.
 
-<sup>2</sup> Die Verbote nach Ziffer 2 gelten zudem nicht für folgende Produkte und die für deren Herstellung erforderlichen Stoffe und Zubereitungen:
-
-- a. Fotoresistlacke und Antireflexbeschichtungen für fotolithografische Prozesse;
-- b. fotografische Beschichtungen von Filmen, Papieren und Druckplatten;
-- c. Mittel zur Sprühnebelunterdrückung für nicht-dekoratives Hartverchromen (Chrom VI) in geschlossenen Kreislaufsystemen, bei denen die Menge der PFOS-Emissionen in die Umwelt auf ein Minimum reduziert wird.
-
-### 1.4 Meldepflicht
-
-<sup>1</sup> Wer PFOS sowie Stoffe und Zubereitungen, die PFOS enthalten, für eine zulässige Verwendung nach Ziffer 1.3 Absatz 2 einsetzt, muss dem BAFU jährlich bis zum 30. April für das Vorjahr melden:
-
-- a. Name des Stoffs oder der Zubereitung und Name des Lieferanten;
-- b. verwendete PFOS-Menge, in kg;
-- c. Informationen zum Zweck der Verwendung der PFOS;
-- d. bei der Verwendung in die Umwelt freigesetzte PFOS-Menge, in kg;
-- e. Angaben zu den Möglichkeiten, auf die Verwendung von PFOS zu verzichten.
-
-<sup>2</sup> Inhaberinnen von Feuerlöschschäumen, die vor dem 1. August 2011 in Verkehr gebracht worden sind (Ziffer 5), müssen dem BAFU jährlich bis zum 30. April melden, über wie viel PFOS-haltigen Feuerlöschschaum, in kg, sie am 31. Dezember des Vorjahres verfügt haben. Bei der ersten Meldung sind zusätzlich der Name des Feuerlöschschaums, der Name der Herstellerin und vorhandene Angaben zum Massengehalt an PFOS des Feuerlöschschaums zu melden.
-
-### 2**** Perfluoroctansäure und Vorläuferverbindungen
-
-[^annex116-lvlu1-lvl2-1]
-
-[^annex116-lvlu1-lvl2-1]: In Kraft seit 1. Juni 2021 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+### 2 Perfluorhexansulfonsäure und ihre Vorläuferverbindungen
 
 ### 2.1 Begriffe
 
-<sup>1</sup> Als Vorläuferverbindungen, einschliesslich ihrer Salze und Polymere, von Perfluoroctansäure (PFOA, CAS-Nr. 335-67-1) gelten Stoffe mit einer linearen oder verzweigten Perfluorheptyl-Gruppe mit der Formel C<sub>7</sub>F<sub>15</sub> in direkter Verbindung mit einem weiteren Kohlenstoffatom als Strukturelement sowie Stoffe mit einer linearen oder verzweigten Perfluoroctyl-Gruppe mit der Formel C<sub>8</sub>F<sub>17</sub> als Strukturelement.
+Als Vorläuferverbindungen von Perfluorhexansulfonsäure in Form ihrer linearen oder verzweigten Isomere und ihrer Salze (PFHxS) gelten Stoffe einschliesslich Polymere mit einer linearen oder verzweigten Perfluorhexyl-Gruppe mit der Formel C<sub>6</sub>F<sub>13</sub> in direkter Verbindung mit einem Schwefelatom als Strukturelement, die zu PFHxS abgebaut werden.
 
-<sup>2</sup> Absatz 1 gilt nicht für:
-
-- a. Stoffe mit der Summenformel C<sub>8</sub>F<sub>17</sub>X, wobei X bedeutet: F, Cl oder Br;
-- b. Perfluornonansäure (CAS-Nr. 375-95-1), ihre Salze und ihre Derivate mit dem Strukturelement C<sub>8</sub>F<sub>17</sub>(CO)OX, wobei X bedeutet: jegliche Gruppe;
-- c. andere fluorierte Verbindungen mit dem Strukturelement C<sub>8</sub>F<sub>17</sub>(CF<sub>2</sub>)X, wobei X bedeutet: jegliche Gruppe.
-
-### 2.2 Verhältnis zu PFOS
-
-Für die Herstellung, das Inverkehrbringen und die Verwendung von PFOS sowie von PFOS enthaltenden Zubereitungen und Gegenständen gilt Ziffer 1.
-
-### 2.3 Verbote
+### 2.2 Verbote
 
 <sup>1</sup> Verboten sind die Herstellung, das Inverkehrbringen und die Verwendung von:
 
-- a. PFOA, ihren Salzen und ihren Vorläuferverbindungen;
+- a. PFHxS und ihrer Vorläuferverbindungen;
 - b.
 
   Stoffen und Zubereitungen, wenn sie folgende Werte überschreiten:
 
-  - 1\. einen Massengehalt an PFOA und ihren Salzen von 0,0000025 Prozent (25 ppb), oder
-  - 2\. einen Massengehalt an einer PFOA-Vorläuferverbindung oder an der Summe von PFOA-Vorläuferverbindungen von 0,0001 Prozent (1000 ppb).
+  - 1\. einen Massengehalt an PFHxS von 0,0000025 Prozent (25 ppb), oder
+  - 2\. einen Massengehalt an der Summe von PFHxS-Vorläuferverbindungen von 0,0001 Prozent (1000 ppb).
 
 <sup>2</sup> Verboten ist das Inverkehrbringen von Gegenständen und deren Bestandteilen, wenn sie folgende Werte überschreiten:
 
-- a. einen Massengehalt an PFOA und ihren Salzen von 0,0000025 Prozent (25 ppb); oder
-- b. einen Massengehalt an einer PFOA-Vorläuferverbindung oder der Summe von PFOA-Vorläuferverbindungen von 0,0001 Prozent (1000 ppb).
+- a. einen Massengehalt an PFHxS von 0,0000025 Prozent (25 ppb); oder
+- b. einen Massengehalt an der Summe von PFHxS-Vorläuferverbindungen von 0,0001 Prozent (1000 ppb).
 
-### 2.4 Ausnahmen
+### 2.3 Ausnahmen
 
-<sup>1</sup> Die Verbote nach Ziffer 2.3 Absatz 1 gelten nicht für:
+Die Verbote nach Ziffer 2.2 gelten nicht für die Herstellung, das Inverkehrbringen und die Verwendung zu Analyse- und Forschungszwecken.
+
+### 3 Perfluoroctansäure, längerkettige Perfluorcarbonsäuren und ihre Vorläuferverbindungen
+
+### 3.1 Begriffe
+
+<sup>1</sup> Als Vorläuferverbindungen von Perfluoroctansäure in Form ihrer linearen oder verzweigten Isomere und ihrer Salze (PFOA) gelten Stoffe einschliesslich Polymere mit einer linearen oder verzweigten Perfluorheptyl-Gruppe mit der Formel C<sub>7</sub>F<sub>15</sub> in direkter Verbindung mit einem weiteren Kohlenstoffatom als Strukturelement, die zu PFOA abgebaut werden.
+
+<sup>2</sup> Absatz 1 gilt nicht für:
+
+- a. Stoffe mit der Summenformel C<sub>8</sub>F<sub>17</sub>X, wobei X bedeutet: F, Cl oder Br;
+- b. Fluorpolymere mit dem Strukturelement CF<sub>3</sub>[CF<sub>2</sub>]<sub>n</sub>-R mit n &gt; 16, wobei R bedeutet: jegliche Gruppe;
+- c. Perfluorcarbonsäuren und Perfluorphosphonsäuren einschliesslich ihrer Derivate wie Salze, Ester, Halide oder Anhydride mit acht und mehr perfluorierten Kohlenstoffatomen;
+- d. Perfluoroctansulfonsäure und ihre Derivate (PFOS) nach Ziffer 1.1;
+- e. Perfluorsulfonsäuren einschliesslich ihrer Derivate wie Salze, Ester, Halide oder Anhydride mit neun und mehr perfluorierten Kohlenstoffatomen.
+
+<sup>3</sup> Als Vorläuferverbindungen von Perfluornonan-, Perfluordecan-, Perfluorundecan-, Perfluordodecan-, Perfluortridecan- und Perfluortetradecansäure in Form ihrer linearen und verzweigten Isomere und Salzen (C<sub>9</sub>–C<sub>14</sub>-PFCA) gelten Stoffe einschliesslich Polymere mit einer linearen oder verzweigten Perfluoralkyl-Gruppe mit der Formel C<sub>n</sub>F<sub>2n+1</sub> mit n = 8 – 13 in direkter Verbindung mit einem weiteren Kohlenstoffatom als Strukturelement, die zu C<sub>9</sub>–C<sub>14</sub>-PFCA abgebaut werden.
+
+<sup>4</sup> Absatz 3 gilt nicht für:
+
+- a. Stoffe mit der Summenformel C<sub>n</sub>F<sub>2n+1</sub>X mit n = 9 – 14, wobei X bedeutet: F, Cl oder Br;
+- b. Perfluorcarbonsäuren, einschliesslich ihrer Derivate wie Salze, Ester, Halide oder Anhydride mit 14 und mehr perfluorierten Kohlenstoffatomen.
+
+### 3.2 Verbote
+
+<sup>1</sup> Verboten sind die Herstellung, das Inverkehrbringen und die Verwendung von:
+
+- a. PFOA, C<sub>9</sub>–C<sub>14</sub>-PFCA und ihren Vorläuferverbindungen;
+- b.
+
+  Stoffen und Zubereitungen, wenn sie folgende Werte überschreiten:
+
+  - 1\. einen Massengehalt an PFOA oder an der Summe von C<sub>9</sub>–C<sub>14</sub>-PFCA von 0,0000025 Prozent (25 ppb),
+  - 2\. einen Massengehalt an der Summe von PFOA-Vorläuferverbindungen von 0,0001 Prozent (1000 ppb), oder
+  - 3\. einen Massengehalt an der Summe von C<sub>9</sub>–C<sub>14</sub>-PFCA-Vorläuferverbindungen von 0,000026 Prozent (260 ppb).
+
+<sup>2</sup> Verboten ist das Inverkehrbringen von Gegenständen und deren Bestandteilen, wenn sie folgende Werte überschreiten:
+
+- a. einen Massengehalt an PFOA oder an der Summe von C<sub>9</sub>–C<sub>14</sub>-PFCA von 0,0000025 Prozent (25 ppb);
+- b. einen Massengehalt an der Summe von PFOA-Vorläuferverbindungen von 0,0001 Prozent (1000 ppb); oder
+- c. einen Massengehalt an der Summe von C<sub>9</sub>–C<sub>14</sub>-PFCA-Vorläuferverbindungen von 0,000026 Prozent (260 ppb).
+
+### 3.3 Ausnahmen
+
+<sup>1</sup> Die Verbote nach Ziffer 3.2 Absatz 1 gelten nicht für:
 
 - a.
 
   die Herstellung und die Verwendung eines fluorsubstituierten Stoffs mit einer Kohlenstoffkette mit höchstens sechs Atomen, wenn:
 
-  - 1\. er PFOA, deren Salze oder PFOA-Vorläuferverbindungen als unvermeidliche Nebenprodukte enthält,
-  - 2\. er als Zwischenprodukt genutzt wird,
-  - 3\. beim Umgang mit diesem Stoff die Emissionen von PFOA, deren Salzen und PFOA-Vorläuferverbindungen nach dem Stand der Technik vermieden oder, falls dies nicht möglich ist, auf ein Minimum reduziert werden;
+  - 1\. er PFOA, C<sub>9</sub>–C<sub>14</sub>-PFCA oder deren Vorläuferverbindungen als unvermeidliche Nebenprodukte enthält,
+  - 2\. er als Zwischenprodukt genutzt wird, und
+  - 3\. beim Umgang mit diesem Stoff die Emissionen von PFOA, C<sub>9</sub>–C<sub>14</sub>-PFCA und deren Vorläuferverbindungen nach dem Stand der Technik vermieden oder, falls dies nicht möglich ist, auf ein Minimum reduziert werden;
 
 - b. das Inverkehrbringen eines fluorsubstituierten Stoffs, der nach Buchstabe a hergestellt und verwendet werden darf, zur Verwendung als Zwischenprodukt;
-- c. die Verwendung einer im Herstellungsprozess eines fluorsubstituierten Stoffs nach Buchstabe a isolierten PFOA-Vorläuferverbindung zum Zwecke von deren Umsetzung in eine Nichtvorläuferverbindung, wenn im Prozess Emissionen der PFOA-Vorläuferverbindung nach dem Stand der Technik vermieden oder, falls dies nicht möglich ist, auf ein Minimum reduziert werden;
-- d. das Inverkehrbringen einer PFOA-Vorläuferverbindung, die nach Buchstabe c verwendet werden darf, zum Zwecke von deren Umsetzung in eine Nichtvorläuferverbindung.
+- c. die Verwendung einer im Herstellungsprozess eines fluorsubstituierten Stoffs nach Buchstabe a isolierten PFOA-Vorläuferverbindung zur Umwandlung in eine Nichtvorläuferverbindung, wenn im Prozess Emissionen der PFOA-Vorläuferverbindung nach dem Stand der Technik vermieden oder, falls dies nicht möglich ist, auf ein Minimum reduziert werden;
+- d. das Inverkehrbringen einer PFOA-Vorläuferverbindung, die nach Buchstabe c verwendet werden darf, zur Umwandlung in eine Nichtvorläuferverbindung;
+- e. die Herstellung, das Inverkehrbringen und die Verwendung von Perfluoralkoxy-Gruppen enthaltenden Fluorpolymeren, deren Massengehalt an der Summe von C<sub>9</sub>–C<sub>14</sub>-PFCA 0,00001 Prozent (100 ppb) nicht übersteigt.
 
-<sup>2</sup> Die Verbote nach Ziffer 2.3 Absätze 1 und 2 gelten nicht für folgende Gegenstände und die für deren Herstellung erforderlichen Stoffe und Zubereitungen:
+<sup>2</sup> Die Verbote nach Ziffer 3.2 Absätze 1 und 2 gelten nicht für nicht invasive und nicht implantierbare Medizinprodukte und ihre Bestandteile sowie die für deren Herstellung erforderlichen Stoffe und Zubereitungen, wenn die Bestandteile dieser Medizinprodukte folgende Werte nicht überschreiten:
 
-- a. mit einem fotolithografischen Verfahren gefertigte Halbleiter und im Ätzverfahren gefertigte Verbindungshalbleiter, als solche und als Bestandteil von Gegenständen;
-- b. fotografische Beschichtungen von Filmen, Papieren und Druckplatten;
-- c. implantierbare Medizinprodukte und ihre Bauteile.
+- a. einen Massengehalt an PFOA und an der Summe von PFOA-Vorläuferverbindungen von 0,0002 Prozent (2000 ppb); oder
+- b. einen Massengehalt an der Summe von C<sub>9</sub>–C<sub>14</sub>-PFCA und an der Summe von C<sub>9</sub>–C<sub>14</sub>-PFCA-Vorläuferverbindungen von 0,0002 Prozent (2000 ppb).
 
-<sup>3</sup> Die Verbote nach Ziffer 2.3 Absätze 1 und 2 gelten zudem nicht für Analyse- und Forschungszwecke.
+<sup>3</sup> Die Verbote nach Ziffer 3.2 Absätze 1 und 2 gelten zudem nicht für Analyse- und Forschungszwecke.
 
-### 3**** Fluoralkylsilanole und ihre Derivate
+### 4 Fluoralkylsilanole und ihre Derivate
 
-[^annex116-lvlu1-lvl3-1]
-
-[^annex116-lvlu1-lvl3-1]: In Kraft seit 1. Dez. 2020 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
-
-### 3.1 Begriffe
+### 4.1 Begriffe
 
 <sup>1</sup> Als Fluoralkylsilanole und ihre Derivate gelten Stoffe mit dem Strukturelement C<sub>6</sub>F<sub>13</sub>(C<sub>2</sub>H<sub>4</sub>)Si(OH)<sub>n</sub>(OX)<sub>3-n</sub> mit 0 ≤ n ≤ 3, wobei X bedeutet: jede Alkylgruppe.
 
 <sup>2</sup> Als Sprühpackungen gelten Aerosolpackungen, Pumpsprays und Zerstäuber.
 
-### 3.2 Verbote
+### 4.2 Verbote
 
 <sup>1</sup> Verboten ist die Abgabe an die breite Öffentlichkeit von organische Lösungsmittel enthaltenden Zubereitungen in Sprühpackungen mit einem Massengehalt von 0,0000002 Prozent (2 ppb) oder mehr an Fluoralkylsilanolen und ihren Derivaten.
 
 <sup>2</sup> Das Verbot nach Absatz 1 gilt auch für Zubereitungen, die zum Nachfüllen von Sprühpackungen bestimmt sind.
 
-### 3.3 Besondere Kennzeichnung
+### 4.3 Besondere Kennzeichnung
 
-<sup>1</sup> Die Verpackung von Zubereitungen, die unter das Verbot nach Ziffer 4.2 fallen, muss mit folgenden Aufschriften versehen sein: «Nur für gewerbliche Anwender» und «Lebensgefahr bei Einatmen».
+Die Verpackungen von Zubereitungen, die unter die Verbote nach Ziffer 4.2 fallen, müssen mit folgenden Aufschriften versehen sein: «Nur für gewerbliche Anwender» und «Lebensgefahr bei Einatmen».
 
-<sup>2</sup> …
+### 5 Übergangsbestimmungen
 
-### 4**** Übergangsbestimmungen
+<sup>1</sup> Die Verbote nach Ziffer 1.2 Absatz 1 gelten bis zum 1. April 2024 nicht für die Verwendung PFOS-haltiger Mittel zur Sprühnebelunterdrückung für das nicht-dekorative Hartverchromen (Chrom VI) in geschlossenen Kreislaufsystemen und die für deren Herstellung erforderlichen Stoffe und Zubereitungen, wenn bei der Herstellung der Mittel und bei ihrer Verwendung die Menge der PFOS-Emissionen in die Umwelt auf ein Minimum reduziert werden.
 
-[^annex116-lvlu1-lvl4-1]
+<sup>2</sup> Die Verbote nach Ziffer 2.2 gelten nicht für:
 
-[^annex116-lvlu1-lvl4-1]: In Kraft seit 1. Juni 2021 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+- a. PFOS-haltige Mittel zur Sprühnebelunterdrückung, die nach Absatz 1 hergestellt, in Verkehr gebracht und verwendet werden dürfen, wenn sie PFHxS oder PFHxS-Vorläuferverbindungen nur als unvermeidliche Verunreinigungen enthalten;
+- b. die Verwendung von Feuerlöschschäumen, die vor dem 1. Oktober 2022 in Verkehr gebracht worden sind, wenn sie PFHxS oder PFHxS-Vorläuferverbindungen nur als unvermeidliche Verunreinigungen enthalten;
+- c. das Inverkehrbringen von PFHxS oder PFHxS-Vorläuferverbindungen enthaltenden Gegenständen, die vor dem 1. Oktober 2022 erstmals in Verkehr gebracht worden sind.
 
-<sup>1</sup> Die Verbote nach Ziffer 2.3 Absätze 1 und 2 gelten nicht:
-
-- a. für folgende Gegenstände, die vor den genannten Daten erstmals in Verkehr gebracht worden sind, sowie für Stoffe und Zubereitungen, welche für die Herstellung dieser Gegenstände erforderlich sind:
-
-<table>
-<tr><th>Produkt</th><th>Datum</th></tr>
-<tr><td>Equipment für die Fertigung von Halbleitern</td><td>1. Juni 2023</td></tr>
-<tr><td>Latexdruckfarben enthaltende Druckerzeugnisse</td><td>1. Juni 2023</td></tr>
-<tr><td>Arbeitsschutztextilien</td><td>1. Juni 2024</td></tr>
-<tr><td>Membranen für medizinische Textilien sowie für die Filterung bei der Wasseraufbereitung, bei Herstellungsverfahren und bei der Abwasserbehandlung sowie Gegenstände mit solchen Membranen</td><td>1. Juni 2024</td></tr>
-<tr><td>Plasma-Nanobeschichtungen enthaltende Gegenstände</td><td>1. Juni 2024</td></tr>
-<tr><td>nicht implantierbare Medizinprodukte und ihre Bauteile</td><td>4. Juli 2032</td></tr>
-</table>
-
-- b. für alle übrigen Gegenstände, die vor dem 1. Juni 2021 erstmals in Verkehr gebracht worden sind.
-
-<sup>2</sup> Die Verbote nach Ziffer 2.3 Absatz 1 gelten nicht für die Verwendung von Feuerlöschschäumen, die vor dem 1. Juni 2021 in Verkehr gebracht worden sind.
-
-<sup>3</sup> Die Verbote nach Ziffer 2.3 Absatz 1 gelten bis zum 1. Juni 2024 nicht für:
+<sup>3</sup> Die Verbote nach Ziffer 3.2 gelten nicht für:
 
 - a.
 
-  die Herstellung von Polytetrafluorethylen (PTFE), wenn:
+  folgende PFOA, C<sub>9</sub>–C<sub>14</sub>-PFCA oder ihre Vorläuferverbindungen enthaltende Medizinprodukte und ihre Bestandteile sowie für Stoffe und Zubereitungen, welche für deren Herstellung erforderlich sind:
 
-  - 1\. bestimmte molekulare Eigenschaften durch Behandlung mit hochenergetischer elektromagnetischer Strahlung einer Energiedosis von 25 bis 400 Kilogray erzielt werden,
-  - 2\. PFOA, deren Salze oder PFOA-Vorläuferverbindungen bei der Behandlung nach Nummer 1 als unvermeidliche Nebenprodukte entstehen und ihr Massengehalt insgesamt 0,0001 Prozent (1 ppm) nicht übersteigt;
+  - 1\. nicht implantierbare Medizinprodukte, die vor dem 1. Oktober 2022 erstmals in Verkehr gebracht worden sind,
+  - 2\. invasive und implantierbare Medizinprodukte, die vor dem 4. Juli 2025 erstmals in Verkehr gebracht worden sind;
 
-- b. das Inverkehrbringen von PTFE, das nach Buchstabe a hergestellt werden darf, zum Zweck der Eliminierung von PFOA, deren Salzen und PFOA-Vorläuferverbindungen;
-- c. die Verwendung von PTFE, das nach Buchstabe a hergestellt und nach Buchstabe b in Verkehr gebracht worden ist, wenn die Emissionen von PFOA, deren Salzen und PFOA-Vorläuferverbindungen nach dem Stand der Technik vermieden oder, falls dies nicht möglich ist, auf ein Minimum reduziert werden.f2.
+- b. folgende PFOA, C<sub>9</sub>–C<sub>14</sub>-PFCA oder ihre Vorläuferverbindungen enthaltende Gegenstände und ihre Bestandteile, die vor den genannten Daten erstmals in Verkehr gebracht worden sind, sowie für Stoffe und Zubereitungen, welche für deren Herstellung erforderlich sind:
 
-Anhang 1.17*[^t-39]*
+<table>
+<tr><th>Produkt</th><th>Datum</th></tr>
+<tr><td>öl- und wasserabweisende Arbeitsschutztextilien für den Umgang mit gesundheitsgefährlichen Flüssigkeiten</td><td>4. Juli 2023</td></tr>
+<tr><td>hochleistungsfähige, korrosionsbeständige Gasfiltermembranen, Wasserfiltermembranen und Membranen für medizinische Textilien auf Basis von Polytetrafluorethylen (PTFE) oder Polyvinylidenfluorid (PVDF)</td><td>4. Juli 2023</td></tr>
+<tr><td>industrielle Abwärmetauscher sowie das Austreten flüchtiger organischer Verbindungen oder Schwebestäube (PM2.5) verhindernde Dichtungsmassen auf Basis von PTFE oder PVDF</td><td>4. Juli 2023</td></tr>
+<tr><td>fotografische Beschichtungen von Filmen</td><td>4. Juli 2025</td></tr>
+</table>
+
+- c.
+
+  folgende C<sub>9</sub>–C<sub>14</sub>-PFCA oder ihre Vorläuferverbindungen enthaltende Gegenstände und ihre Bestandteile sowie für Stoffe und Zubereitungen, welche für deren Herstellung erforderlich sind:
+
+  - 1\. Halbleiter, die für den Einbau in Elektro- und Elektronikgeräte bestimmt sind, sowie solche Halbleiter enthaltende Geräte: bis zum 31. Dezember 2023,
+  - 2\. Halbleiter: bis zum 31. Dezember 2030, wenn sie als Ersatzteile für Elektro- und Elektronikgeräte bestimmt sind, die bis zum 31. Dezember 2023 erstmals in Verkehr gebracht worden sind;
+
+- d.
+
+  alle übrigen Gegenstände und deren Bestandteile, die:
+
+  - 1\. PFOA oder ihre Vorläuferverbindungen enthalten, und vor dem 1. Juni 2021 erstmals in Verkehr gebracht worden sind, ausgenommen Equipment für die Fertigung von Halbleitern, Latexdruckfarben enthaltende Druckerzeugnisse und Plasma-Nanobeschichtungen enthaltende Gegenstände, die bis zum 1. Oktober 2022 erstmals in Verkehr gebracht worden sind,
+  - 2\. C<sub>9</sub>–C<sub>14</sub>-PFCA oder ihre Vorläuferverbindungen enthalten, und vor dem 1. Oktober 2022 erstmals in Verkehr gebracht worden sind.
+
+<sup>4</sup> Die Verbote nach Ziffer 3.2 Absatz 1 gelten nicht für:
+
+- a. die Herstellung, das Inverkehrbringen und die Verwendung von PFOA, C<sub>9</sub>–C<sub>14</sub>-PFCA oder ihre Vorläuferverbindungen enthaltende Zubereitungen für fotolithografische Verfahren oder Ätzverfahren bei der Halbleiterherstellung: bis zum 4. Juli 2025;
+- b. das Inverkehrbringen und die Verwendung von Perfluoroctyliodid enthaltendem Perfluoroctylbromid für die Herstellung von Arzneimitteln: bis zum 31. Dezember 2036;
+- c. das Inverkehrbringen und die Verwendung von C<sub>9</sub>–C<sub>14</sub>-PFCA oder deren Vorläuferverbindungen enthaltenden Fluorpolymeren zur Dosenbeschichtung von Dosieraerosolen: bis zum 25. August 2028;
+- d.
+
+  die Verwendung von Feuerlöschschäumen, die:
+
+  - 1\. vor dem 1. Juni 2021 erstmals in Verkehr gebracht worden sind, wenn sie PFOA oder PFOA-Vorläuferverbindungen nur als unvermeidliche Verunreinigungen enthalten,
+  - 2\. vor dem 1. Oktober 2022 erstmals in Verkehr gebracht worden sind, wenn sie C<sub>9</sub>–C<sub>14</sub>-PFCA oder C<sub>9</sub>–C<sub>14</sub>-PFCA-Vorläuferverbindungen nur als unvermeidliche Verunreinigungen enthalten.
+
+<sup>5</sup> Feuerlöschschäume, die vor dem 1. Juni 2021 erstmals in Verkehr gebracht worden sind und bestimmungsgemäss Vorläuferverbindungen von PFOA als Bestandteile enthalten, und Feuerlöschschäume, die vor dem 1. Oktober 2022 erstmals in Verkehr gebracht worden sind und bestimmungsgemäss Vorläuferverbindungen von C<sub>9</sub>–C<sub>14</sub>-PFCA als Bestandteile enthalten, dürfen abweichend vom Verbot nach Ziffer 3.2 Absatz 1 wie folgt verwendet werden:
+
+- a. von Feuerwehren und militärischen Einsatzkräften zur Bekämpfung von Bränden in Ernstfällen: bis zum 1. April 2023;
+- b. in Installationen zum Schutze von Anlagen, einschliesslich der Verwendung für die nötigen Funktionskontrollen dieser Installationen, soweit die bei den Kontrollen verbrauchten Feuerlöschschäume aufgefangen und umweltverträglich entsorgt werden: bis zum 31. Dezember 2025.
+
+<sup>6</sup> Perfluoralkoxy-Gruppen enthaltende Fluorpolymere nach Ziffer 3.3 Absatz 1 Buchstabe e dürfen bis zum 25. August 2024 hergestellt, in Verkehr gebracht und verwendet werden, wenn deren Massengehalt an der Summe von C<sub>9</sub>–C<sub>14</sub>-PFCA 0,0002 Prozent (2000 ppb) nicht übersteigt.
+
+Anhang 1.17[^t-39]
 
 (Art. 3)
 
-## Stoffe nach Anhang XIV der Verordnung (EG) Nr. 1907/2006****
+## Stoffe nach Anhang XIV der Verordnung (EG) Nr. 1907/2006
 
 [^annex117-lvlu1-1]
 
@@ -2455,7 +2487,7 @@ Das Inverkehrbringen zur Verwendung der in Ziffer 5 aufgelisteten Stoffe und von
 [^annex117-lvlu1-lvl5-3]: Richtlinie 2001/83/EG des Europäischen Parlaments und des Rates vom 6. November 2001 zur Schaffung eines Gemeinschaftskodexes für Humanarzneimittel. ABl. L 311 vom 28.11.2001, S. 67; zuletzt geändert durch Verordnung (EU) 2017/745, ABl. L 117 vom 5.5.2017, S. 1.
 [^annex117-lvlu1-lvl5-4]: Siehe Fussnote zum Titel dieses Anhangs.
 
-Anhang 1.18*[^t-40]*
+Anhang 1.18[^t-40]
 
 (Art. 3)
 
@@ -2500,7 +2532,7 @@ Anhang 1.18*[^t-40]*
 
 <sup>2</sup> Für das Inverkehrbringen von Elektro- und Elektronikgeräten, die Phthalate enthalten, gilt Anhang 2.18.
 
-### 3 Verhältnis zur Lebensmittel- und Gebrauchsgegenständeverordnung vom 16. Dezember 2016**** (LGV)
+### 3 Verhältnis zur Lebensmittel- und Gebrauchsgegenständeverordnung vom 16. Dezember 2016 (LGV)
 
 [^annex118-lvlu1-lvl3-1]
 
@@ -2541,7 +2573,7 @@ Anhang 2
 
 ## Bestimmungen für Gruppen von Zubereitungen und Gegenständen
 
-Anhang 2.1*[^t-41]*
+Anhang 2.1[^t-41]
 
 (Art. 3)
 
@@ -2702,7 +2734,7 @@ Anhang 2.1*[^t-41]*
 
 <sup>4</sup> Die Bestimmungen der Absätze 2 und 3 gelten bis zum Entscheid der zuständigen Behörde über den Antrag auf Genehmigung einer Ausnahme.
 
-Anhang 2.2*[^t-42]*
+Anhang 2.2[^t-42]
 
 (Art. 3)
 
@@ -2888,7 +2920,7 @@ Anhang 2.2*[^t-42]*
 
 <sup>6</sup> Bei Geschirrspülmitteln für Maschinen, die im Haushalt verwendet und nach Absatz 5 in Verkehr gebracht werden, muss in der Gebrauchsanweisung für das Geschirrspülmittel die Dosierung so angegeben werden, dass bei ihrer Einhaltung pro Waschgang nicht mehr als 2,5 g Phosphor verbraucht werden.
 
-Anhang 2.3*[^t-43]*
+Anhang 2.3[^t-43]
 
 (Art. 3)
 
@@ -3036,7 +3068,7 @@ Der Kanton kann von Inhaberinnen halogenierter Lösungsmittelabfälle und von Be
 [^annex23-lvlu1-lvl6-1]: [AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)
 [^annex23-lvlu1-lvl6-2]: [SR 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
 
-Anhang 2.4*[^t-44]*
+Anhang 2.4[^t-44]
 
 (Art. 3)
 
@@ -3154,7 +3186,7 @@ Antifouling-Produkte sind Biozidprodukte der Produktart 21 nach Anhang 10 VBP.
 
 <sup>2</sup> Für Trialkyl- oder Triarylzinnverbindungen enthaltende Antifoulings gelten die Bestimmungen von Anhang 1.14.
 
-### 4<sup>bis</sup> **** Biozidprodukte gegen Algen und Moose
+### 4<sup>bis</sup> Biozidprodukte gegen Algen und Moose
 
 [^annex24-lvlu1-lvl4bis-1]
 
@@ -3213,7 +3245,7 @@ Die Verbote dieses Anhangs gelten nicht für das Inverkehrbringen von Biozidprod
 - d. Sockelbereiche von Leitungsmasten;
 - e. andere Anlagen, die einen den Anlagen nach den Buchstaben a–d vergleichbaren Zweck haben und die ausserhalb von Wohnsiedlungen errichtet werden; das BAFU erlässt nach Anhörung der betroffenen Bundesämter für die Vollzugsbehörden Empfehlungen.
 
-Anhang 2.5*[^t-45]*
+Anhang 2.5[^t-45]
 
 (Art. 3)
 
@@ -3466,7 +3498,7 @@ Einer Bewilligung des BAFU bedarf, wer folgende Stoffe und Zubereitungen, die so
 [^annex25-lvlu1-lvl4-lvl42-lvl425-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^annex25-lvlu1-lvl4-lvl42-lvl425-2]: [SR 814.82](https://fedlex.data.admin.ch/eli/cc/2004/725)
 
-Anhang 2.6*[^t-46]*
+Anhang 2.6[^t-46]
 
 (Art. 3)
 
@@ -3653,7 +3685,7 @@ Der Schadstoffgehalt von organisch-mineralischen Düngern darf die Grenzwerte de
 
 <sup>2</sup> Die kantonalen Behörden ermitteln die Ursachen der Überschreitung von Richtwerten nach Ziffer 2.2.1 Absatz 3 und sorgen dafür, dass Kompost und Gärgut nicht abgegeben werden, wenn durch deren Verwendung die Fruchtbarkeit des Bodens gefährdet werden kann.
 
-Anhang 2.7*[^t-47]*
+Anhang 2.7[^t-47]
 
 (Art. 3)
 
@@ -3717,7 +3749,7 @@ Das BAFU kann einzelnen Verwenderinnen erlauben, Auftaumittel, die andere als di
 
 <sup>3</sup> Die Kantone sorgen dafür, dass für öffentliche Strassen, Wege und Plätze festgelegt wird, wann, wo und wie Auftaumittel verwendet werden oder andere Verfahren zur Bekämpfung von Glatteis und Schneeglätte zum Einsatz kommen.
 
-Anhang 2.8*[^t-48]*
+Anhang 2.8[^t-48]
 
 (Art. 3)
 
@@ -3758,7 +3790,7 @@ Anhang 2.8*[^t-48]*
 
 Bleihaltige Anstrichfarben und Lacke sowie damit behandelte Gegenstände dürfen durch die Herstellerin noch bis zum 31. Juli 2006 in Verkehr gebracht werden.
 
-Anhang 2.9*[^t-49]*
+Anhang 2.9[^t-49]
 
 (Art. 3)
 
@@ -3884,7 +3916,7 @@ Anhang 2.9*[^t-49]*
 
 <sup>2</sup> Zubereitungen und Gegenstände, die Recycling-PVC enthalten, müssen mit der Aufschrift «Enthält Recycling-PVC» oder mit folgendem Piktogramm versehen sein:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20220501/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20221001/de/xml/image/image2.png)
 
 <sup>3</sup> Zubereitungen, deren Massengehalt an Methylendiphenyl-Diisocyanat 0,1 Prozent oder mehr beträgt, und die für die Abgabe an die breite Öffentlichkeit bestimmt sind, müssen mit folgender Aufschrift versehen sein: «Bei Personen, die bereits für Diisocyanate sensibilisiert sind, kann der Umgang mit diesem Produkt allergische Reaktionen auslösen. – Bei Asthma, ekzematösen Hauterkrankungen oder Hautproblemen Kontakt, einschließlich Hautkontakt, mit dem Produkt vermeiden. – Das Produkt nicht bei ungenügender Lüftung verwenden oder Schutzmaske mit entsprechendem Gasfilter (Typ A1 nach EN 14387) tragen.»
 
@@ -3931,7 +3963,7 @@ Das BAFU erlässt nach Anhörung der betroffenen Branche Empfehlungen zum Stand 
 
 <sup>8</sup> Schaumstoffe und Gegenstände mit Schaumstoffen, für die Ziffer 3 Absatz 3<sup>bis</sup> nicht mehr anzuwenden ist, weil aufgrund einer Änderung des Standes der Technik ein Ersatz besteht, dürfen noch während 6 Monaten hergestellt, zu beruflichen oder gewerblichen Zwecken eingeführt sowie während weiterer 6 Monate an Dritte abgegeben werden.
 
-Anhang 2.10*[^t-50]*
+Anhang 2.10[^t-50]
 
 (Art. 3)
 
@@ -4155,7 +4187,7 @@ Das Nachfüllen von ozonschichtabbauenden Kältemitteln in Geräte oder Anlagen 
 
 Das Nachfüllen von in der Luft stabilen Kältemitteln mit einem Treibhauspotenzial von 2500 oder mehr in Anlagen mit einer Füllmenge von 40 Tonnen CO<sub>2</sub>-Äquivalenten oder mehr ist verboten.
 
-### 3.3.2**** Ausnahmen
+### 3.3.2 Ausnahmen
 
 [^annex210-lvlu1-lvl3-lvl33-lvl332-1]
 
@@ -4249,7 +4281,7 @@ Das BAFU erlässt Empfehlungen:
 [^annex210-lvlu1-lvl7-2]: [SR 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
 [^annex210-lvlu1-lvl7-3]: [AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)
 
-Anhang 2.11*[^t-51]*
+Anhang 2.11[^t-51]
 
 (Art. 3)
 
@@ -4408,7 +4440,7 @@ Für Löschgeräte und -anlagen, die in der Luft stabile Löschmittel enthalten 
 [^annex211-lvlu1-lvl9-1]: [SR 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
 [^annex211-lvlu1-lvl9-2]: [AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)
 
-Anhang 2.12*[^t-52]*
+Anhang 2.12[^t-52]
 
 (Art. 3)
 
@@ -4487,7 +4519,7 @@ Anhang 2.12*[^t-52]*
 
 Wer Aerosolpackungen mit in der Luft stabilen Stoffen selber abfüllt oder importiert, muss dem BAFU auf Verlangen für die letzten drei Jahre die Mengen der einzelnen Stoffe melden; die Angaben sind aufzuschlüsseln nach Einfuhr, Verbrauch im Inland und Ausfuhr sowie nach Verwendungszwecken.
 
-Anhang 2.13*[^t-53]*
+Anhang 2.13[^t-53]
 
 (Art. 3)
 
@@ -4514,7 +4546,7 @@ Für die Beigabe von Brennstoffzusätzen zu Brennstoffen gelten die Anforderunge
 
 [^annex213-lvlu1-lvl3-1]: [SR 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
 
-Anhang 2.14*[^t-54]*
+Anhang 2.14[^t-54]
 
 (Art. 3)
 
@@ -4552,7 +4584,7 @@ Anhang 2.14*[^t-54]*
 
 [^annex214-lvlu1-lvl3-1]: [SR 734.27](https://fedlex.data.admin.ch/eli/cc/2002/22)
 
-Anhang 2.15*[^t-55]*
+Anhang 2.15[^t-55]
 
 (Art. 3)
 
@@ -4757,7 +4789,7 @@ Die Organisation darf die Gebühr ausschliesslich für die Finanzierung folgende
 
 <sup>3</sup> Die Gebührenpflicht nach Ziffer 6.1 gilt nicht für die vor dem 1. Januar 2012 in Verkehr gebrachten Batterien mit einem Gewicht über 5 kg.
 
-Anhang 2.16*[^t-56]*
+Anhang 2.16[^t-56]
 
 (Art. 3)
 
@@ -4877,7 +4909,7 @@ Die Verbote nach Ziffer 3<sup>bis</sup>.2 gelten nicht für Hartlote, die in Ver
 
 <sup>2</sup> Für das Inverkehrbringen von Verpackungen, mit Anstrichfarben und Lacken behandelten Gegenständen, Holzwerkstoffen sowie Elektro- und Elektronikgeräten, die Blei oder Bleiverbindungen enthalten, gelten Ziffer 4 sowie die Anhänge 2.8, 2.17 und 2.18.
 
-### 3<sup>ter</sup>.3 Verhältnis zur Lebensmittel- und Gebrauchsgegenständeverordnung vom 16. Dezember 2016**** (LGV)
+### 3<sup>ter</sup>.3 Verhältnis zur Lebensmittel- und Gebrauchsgegenständeverordnung vom 16. Dezember 2016 (LGV)
 
 [^annex216-lvlu1-lvl3ter-lvl3ter.3-1]
 
@@ -4998,7 +5030,7 @@ Fahrzeugwerkstoffe und -bauteile sind nach Anhang II der Richtlinie 2000/53/EG[^
 
 [^annex216-lvlu1-lvl7-1]: Siehe Fussnote zu Ziffer 5.3 Absatz 1.
 
-Anhang 2.17*[^t-57]*
+Anhang 2.17[^t-57]
 
 (Art. 3)
 
@@ -5039,7 +5071,7 @@ Holzwerkstoffe dürfen durch eine Herstellerin nicht in Verkehr gebracht werden,
 
 Die Verbote nach Ziffer 2 treten am 1. August 2006 in Kraft.
 
-Anhang 2.18*[^t-58]*
+Anhang 2.18[^t-58]
 
 (Art. 3)
 
