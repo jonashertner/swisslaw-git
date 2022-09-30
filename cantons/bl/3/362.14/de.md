@@ -3,20 +3,20 @@ canton: BL
 number: "362.14"
 title: Verordnung über die Finanzierung von Pflegeleistungen
 language: de
-version: 2022-01-01
-valid_until: 2022-09-30
-version_adopted: 2021-09-28
+version: 2022-10-01
+valid_until: 2022-12-31
+version_adopted: 2022-10-25
 adopted: 2011-02-22
 in_force: 2011-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/362.14"
-pdf: "https://bl.clex.ch/api/de/versions/3099/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3431/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Finanzierung von Pflegeleistungen
 
-Vom 22.02.2011 (Stand 01.01.2022)
+Vom 22.02.2011 (Stand 01.10.2022)
 
 Der Regierungsrat des Kanton Basel-Landschaft,
 
@@ -50,15 +50,13 @@ beschliesst:
 
 **Erhöhter Pflegebedarf**
 
-<sup>1</sup> Der Pflegebedarf einer Bewohnerin oder eines Bewohners eines Alters- und Pflegeheims, welcher 240 Minuten pro Tag übersteigt, wird nach Aufwand mit CHF 76.35 pro Stunde abgegolten. Zusätzlich werden die Kosten für Produkte der Mittel- und Gegenständeliste[^1bis-1] übernommen, welche sich aus dem erhöhten Pflegebedarf ergeben.
+<sup>1</sup> Der Pflegebedarf einer Bewohnerin oder eines Bewohners eines Alters- und Pflegeheims, welcher 240 Minuten pro Tag übersteigt, wird nach Aufwand mit CHF 76.35 pro Stunde abgegolten.
 
 <sup>2</sup> Der Kanton trägt die dadurch entstehenden Kosten, abzüglich des Beitrags des Krankenversicherers und der versicherten Person.
 
 <sup>3</sup> Der Pflegebedarf sowie die benötigten Produkte der Mittel- und Gegenständeliste sind vorgängig durch das Amt für Gesundheit überprüfen zu lassen.
 
 <sup>4</sup> …
-
-[^1bis-1]: Anhang 2 der Verordnung des EDI vom 29. September 1995 über Leistungen in der obligatorischen Krankenpflegeversicherung (KLV; [SR 832.112.31](https://db.clex.ch/link/Bund/832.112.31/de)).
 
 #### § 1ter
 
