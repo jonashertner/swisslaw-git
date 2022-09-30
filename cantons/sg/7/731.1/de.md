@@ -4,13 +4,13 @@ number: "731.1"
 title: Planungs- und Baugesetz
 short: PBG
 language: de
-version: 2020-09-01
-valid_until: 2022-09-30
-version_adopted: 2020-07-21
+version: 2022-10-01
+valid_until: 2023-02-28
+version_adopted: 2022-08-09
 adopted: 2016-07-05
 in_force: 2017-10-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/731.1"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2999/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3396/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2999/pdf_file"
 
 (PBG)
 
-vom 05.07.2016 (Stand 01.09.2020)
+vom 05.07.2016 (Stand 01.10.2022)
 
 Der Kantonsrat des Kantons St.Gallen
 
@@ -116,7 +116,7 @@ als Gesetz:[^ingress-2]
 
 **Zonenplan und Baureglement**
 
-<sup>1</sup> Die politische Gemeinde unterteilt im Zonenplan ihr Gebiet in Zonen unterschiedlicher Nutzungsart, Nutzungsintensität und Immissionstoleranz.
+<sup>1</sup> Die politische Gemeinde unterteilt im Zonenplan ihr Gebiet in Zonen unterschiedlicher Nutzungsart, Nutzungsintensität und Immissionstoleranz. Keiner Zonierung bedürfen unproduktive Flächen, wie insbesondere Hochgebirge, Fels und Geröllhalden.
 
 <sup>2</sup> Sie erlässt im Baureglement die dazu gehörenden öffentlich-rechtlichen Bauvorschriften, soweit dieser Erlass solche vorsieht.
 
@@ -255,8 +255,12 @@ als Gesetz:[^ingress-2]
 
 <sup>2</sup> Die politische Gemeinde:
 
-- a) legt im Rahmennutzungsplan die Entwicklungsziele, die Nutzungsart sowie die zulässigen Gebäudedimensionen und Abstände fest;
-- b) kann im Rahmennutzungsplan einzelne Areale oder Bauten unter Schutz stellen oder die Beseitigung bestimmter Bauten anordnen.
+- a) legt im Rahmennutzungsplan die Nutzungsart und die Grenzabstände an den Zonengrenzen fest;
+- b) kann im Rahmennutzungsplan weitere Massangaben für Hauptbauten nach Art. 79 dieses Erlasses festlegen.
+
+<sup>3</sup> Für Schwerpunktzonen besteht abweichend von Art. 7 Abs. 3 Bst. c dieses Erlasses eine unbefristete Pflicht zum Erlass von Sondernutzungsplänen.
+
+<sup>4</sup> Die politische Gemeinde kann im Rahmennutzungsplan eine andere Zonenart nach Art. 12 ff. dieses Erlasses festlegen, die auf Bauvorhaben im betroffenen Gebiet bis zum Vorliegen des Sondernutzungsplans nach Abs. 3 dieser Bestimmung Anwendung findet.
 
 #### Art. 20
 
@@ -265,6 +269,8 @@ als Gesetz:[^ingress-2]
 <sup>1</sup> Weilerzonen dienen der Erhaltung bestehender Kleinsiedlungen ausserhalb des Siedlungsgebiets.
 
 <sup>2</sup> Sie sind zulässig, wenn sie im kantonalen Richtplan vorgesehen sind.
+
+<sup>3</sup> Neubauten sind zulässig, wenn sie nicht zu einer Ausdehnung des überbauten Gebiets führen.
 
 #### Art. 21
 
@@ -303,7 +309,9 @@ als Gesetz:[^ingress-2]
 - d) Landsicherung für Bauten und Anlagen im öffentlichen Interesse;
 - e) Massnahmen zugunsten des Natur- und Heimatschutzes.
 
-<sup>2</sup> Sondernutzungspläne dürfen keine materielle Änderung des Rahmennutzungsplans bewirken.
+<sup>2</sup> …
+
+<sup>3</sup> Die politische Gemeinde kann in Sondernutzungsplänen Bedingungen und Auflagen vorsehen.
 
 #### Art. 24
 
@@ -435,7 +443,11 @@ als Gesetz:[^ingress-2]
 
 **Fakultatives Referendum a) Gegenstände**
 
-<sup>1</sup> Der Rahmennutzungsplan untersteht dem fakultativen Referendum in der politischen Gemeinde.
+<sup>1</sup> Dem fakultativen Referendum in der politischen Gemeinde unterstehen:
+
+- a) der Rahmennutzungsplan;
+- b) kommunale Sondernutzungspläne für Schwerpunktzonen nach Art. 19 dieses Erlasses;
+- c) kommunale Sondernutzungspläne, die eine materielle Zonenplanänderung bewirken. Sondernutzungspläne für den Abbau und die Deponie von Materialien gelten nicht als materielle Zonenplanänderung.
 
 <sup>2</sup> Auf die Unterstellung unter das fakultative Referendum kann verzichtet werden, wenn nur einzelne Grundeigentümerinnen oder Grundeigentümer betroffen sind, diese dem Verzicht zustimmen und keine öffentlichen Interessen berührt werden.
 
@@ -443,7 +455,7 @@ als Gesetz:[^ingress-2]
 
 **b) Verfahren**
 
-<sup>1</sup> Im Rahmennutzungsplan wird die Unterstellung unter das fakultative Referendum festgehalten.
+<sup>1</sup> Im Rahmennutzungsplan oder im Sondernutzungsplan wird die Unterstellung unter das fakultative Referendum festgehalten.
 
 <sup>2</sup> Das Verfahren des fakultativen Referendums wird nach Abschluss des Einspracheverfahrens durchgeführt.
 
@@ -453,9 +465,11 @@ als Gesetz:[^ingress-2]
 
 **Genehmigung**
 
-<sup>1</sup> Rahmennutzungsplan, Sondernutzungsplan und Schutzverordnung bedürfen der Genehmigung der zuständigen kantonalen Stelle.
+<sup>1</sup> Rahmennutzungsplan, kommunaler Sondernutzungsplan und Schutzverordnung bedürfen der Genehmigung der zuständigen kantonalen Stelle.
 
 <sup>2</sup> Die zuständige kantonale Stelle prüft die Erlasse auf Rechtmässigkeit sowie auf deren Übereinstimmung mit der kantonalen Richtplanung und der Sachplanung des Bundes.
+
+<sup>3</sup> Der kantonale Sondernutzungsplan bedarf der Genehmigung der Regierung.
 
 ### 2. Enteignungsrecht
 
@@ -510,7 +524,7 @@ als Gesetz:[^ingress-2]
 - a) nur wenige Grundeigentümerinnen oder Grundeigentümer betroffen sind und diese dem Nutzungsplan zustimmen;
 - b) keine öffentlichen Interessen berührt werden.
 
-<sup>4</sup> Einsprachen enthalten bei Einreichung einen Antrag und eine Begründung.
+<sup>4</sup> …
 
 ### III. Planungszone
 
@@ -606,7 +620,7 @@ als Gesetz:[^ingress-2]
 
 <sup>1</sup> Der Umlegungsplan regelt:
 
-- a) die Erschliessung, die Landabzüge und soweit erforderlich die Überbauungsmöglichkeiten;
+- a) die Erschliessung, die Landabzüge, die Umlegung oder Offenlegung von Gewässern und soweit erforderlich die Überbauungsmöglichkeiten;
 - b) die Neuzuteilung des Landes, die Lastenbereinigung, den Wertausgleich, die Entschädigungen sowie die Kostenverlegung.
 
 <sup>2</sup> Der Umlegungsplan berücksichtigt folgende Grundsätze:
@@ -924,11 +938,17 @@ als Gesetz:[^ingress-2]
 
 <sup>1</sup> Vorbauten sind punktuell oder nicht abgestützte, über die Fassade vorspringende Bauteile, wie Vordächer, Balkone, Erker, Veranden.
 
+#### Art. 76a
+
+**Unterirdische Bauten**
+
+<sup>1</sup> Unterirdische Bauten sind unbewohnte und keinem regelmässigen Aufenthalt von Personen dienende Bauten oder Bauteile, die mit Ausnahme von notwendigen Zugängen und Zufahrten sowie der Geländer und Brüstungen unter dem natürlich gewachsenen oder dem gestalteten Terrain liegen.
+
 #### Art. 77
 
 **Niveaupunkt**
 
-<sup>1</sup> Als Niveaupunkt gilt der Schwerpunkt des kleinsten aus Gebäudelänge und Gebäudebreite ohne Anbauten und Dachvorsprünge gebildeten Rechtecks auf dem massgebenden Terrain.
+<sup>1</sup> Als Niveaupunkt gilt der Schwerpunkt des flächenkleinsten Rechtecks auf dem massgebenden Terrain, welches das Gebäude ohne Vorbauten, Anbauten und Dachvorsprünge umhüllt.
 
 <sup>2</sup> Für Anbauten und zusammengebaute Gebäude wird der Niveaupunkt für jedes Gebäude oder jeden Gebäudeteil einzeln bestimmt.
 
@@ -946,7 +966,7 @@ als Gesetz:[^ingress-2]
 
 **Massangaben für Hauptbauten**
 
-<sup>1</sup> Der kommunale Nutzungsplan enthält für Bauten und Bauteile Massangaben über Gesamthöhe, Grenzabstand und Gebäudeabstand.
+<sup>1</sup> Der kommunale Nutzungsplan enthält für Bauten und Bauteile Massangaben über Gesamthöhe und Grenzabstand.
 
 <sup>2</sup> Er kann Massangaben enthalten über:
 
@@ -954,9 +974,13 @@ als Gesetz:[^ingress-2]
 - b) Gebäudehöhe und Winkelmass für Dachraum;
 - c) Fassadenhöhe;
 - d) Baumassenziffer;
-- e) Terrainveränderungen.
+- d<sup>bis</sup>) Grünflächenziffer, ausgenommen in Arbeitszonen nach Art. 14 dieses Erlasses;
+- e) Terrainveränderungen;
+- f) Gebäudeabstand.
 
 <sup>3</sup> Die Gebäudeabstände nach den Bestimmungen der Feuerschutzgesetzgebung bleiben vorbehalten.
+
+<sup>4</sup> Für Schwerpunktzonen nach Art. 19 dieses Erlasses können im kommunalen Nutzungsplan von Abs. 1 und 2 dieser Bestimmung abweichende Regelbauvorschriften festgelegt werden.
 
 #### Art. 80
 
@@ -980,9 +1004,9 @@ als Gesetz:[^ingress-2]
 
 **Gebäudelänge und Gebäudebreite**
 
-<sup>1</sup> Die Gebäudelänge bezeichnet die längere Seite des kleinsten die Baute ohne Anbauten und Dachvorsprünge umhüllenden Rechtecks.
+<sup>1</sup> Die Gebäudelänge bezeichnet die längere Seite des kleinsten die Baute umhüllenden Rechtecks, soweit diese über dem gestalteten Terrain liegt. Unberücksichtigt bleiben Anbauten, Dachvorsprünge sowie unterirdische Bauten nach Art. 76a dieses Erlasses.
 
-<sup>2</sup> Die Gebäudebreite bezeichnet die kürzere Seite des kleinsten die Baute ohne Anbauten und Dachvorsprünge umhüllenden Rechtecks.
+<sup>2</sup> Die Gebäudebreite bezeichnet die kürzere Seite des kleinsten die Baute umhüllenden Rechtecks, soweit diese über dem gestalteten Terrain liegt. Unberücksichtigt bleiben Anbauten, Dachvorsprünge sowie unterirdische Bauten nach Art. 76a dieses Erlasses.
 
 #### Art. 83
 
@@ -998,13 +1022,13 @@ als Gesetz:[^ingress-2]
 
 <sup>1</sup> Die Gebäudehöhe bezeichnet den senkrechten Abstand zwischen dem Niveaupunkt und dem ausgemittelten Schnittpunkt der Fassade mit der Dachoberkante in der Fassadenmitte.
 
-<sup>2</sup> Bei Festlegung einer Gebäudehöhe wird wenigstens für zwei Gebäudeseiten auch ein Winkelmass für die Bestimmung des Dachraums festgelegt. Das Winkelmass beträgt höchstens 60 Grad.
+<sup>2</sup> Bei Festlegung einer Gebäudehöhe wird wenigstens für zwei Gebäudeseiten auch ein Winkelmass für die Bestimmung des Dachraums festgelegt.
 
 #### Art. 85
 
 **Dachraum**
 
-<sup>1</sup> Der Dachraum bezeichnet den Raum zwischen Gebäudehöhe und Gesamthöhe, wobei ab Gebäudehöhe oder entsprechender Fassade das Winkelmass nach Art. 84 Abs. 2 dieses Erlasses eingehalten wird.
+<sup>1</sup> Der Dachraum bezeichnet den Raum zwischen der höchstens zulässigen Gebäudehöhe und der höchstens zulässigen Gesamthöhe unter Einhaltung des nach Art. 84 Abs. 2 dieses Erlasses festgelegten Winkelmasses.
 
 <sup>2</sup> Das Winkelmass beträgt bis zum festgelegten Bruchteil des Fassadenabschnitts höchstens 90 Grad.
 
@@ -1014,7 +1038,7 @@ als Gesetz:[^ingress-2]
 
 <sup>1</sup> Die Fassadenhöhe bezeichnet den grössten Höhenunterschied zwischen der Dachoberkante und dem senkrecht darunterliegenden Punkt auf dem massgebenden Terrain der jeweiligen Fassade.
 
-### 4. Dichteziffer
+### 4. Nutzungsziffern
 
 #### Art. 87
 
@@ -1026,33 +1050,47 @@ als Gesetz:[^ingress-2]
 
 <sup>3</sup> Die Volumina offener Gebäudeteile werden nicht angerechnet.
 
+#### Art. 87a
+
+**Grünflächenziffer**
+
+<sup>1</sup> Die politischen Gemeinden können in einzelnen Zonen eine Grünflächenziffer vorschreiben. Diese bezeichnet das Verhältnis der anrechenbaren Grünfläche zur anrechenbaren Grundstücksfläche.
+
+<sup>2</sup> Als anrechenbare Grünfläche gelten natürliche oder bepflanzte Bodenflächen eines Grundstücks, die nicht versiegelt sind. Die politische Gemeinde kann im Rahmennutzungsplan festlegen, dass die Dachbegrünung angerechnet werden kann.
+
 #### Art. 88
 
 **Anrechenbare Grundstücksfläche**
 
 <sup>1</sup> Als anrechenbare Grundstücksfläche gilt die von der Baueingabe erfasste Grundstücksfläche, soweit sie nicht bereits früher beansprucht wurde.
 
-<sup>2</sup> Wird für Bau oder Korrektion öffentlicher Strassen oder Gewässer Boden abgetreten, wird dieser weiterhin zur anrechenbaren Grundstücksfläche gerechnet.
+<sup>2</sup> Wird für Bau oder Korrektion öffentlicher Strassen oder Gewässer Boden abgetreten, wird dieser bei der Baumassenziffer weiterhin zur anrechenbaren Grundstücksfläche gerechnet.
 
 #### Art. 89
 
 **Nutzungsübertragung**
 
-<sup>1</sup> Die Übertragung der Baumassenziffer auf ein Nachbargrundstück ist zulässig, wenn:
+<sup>1</sup> Die Übertragung der Baumassenziffer und der Grünflächenziffer auf ein Nachbargrundstück ist zulässig, wenn:
 
 - a) das belastete und das begünstigte Grundstück der gleichen Nutzungszone angehören;
-- b) die Grundeigentümerin oder der Grundeigentümer des belasteten Grundstücks schriftlich auf die entsprechende Nutzung verzichtet;
+- b) die Grundeigentümerin oder der Grundeigentümer des belasteten Grundstücks schriftlich auf eine entsprechende Nutzung verzichtet oder sich mit der Übernahme der anrechenbaren Grünfläche einverstanden erklärt;
 - c) keine öffentlichen oder schutzwürdigen privaten Interessen entgegenstehen.
 
-<sup>2</sup> Die Baubehörde verfügt den Nutzungsverzicht als öffentlich-rechtliche Eigentumsbeschränkung und lässt ihn im Grundbuch anmerken.
+<sup>2</sup> Die Baubehörde verfügt den Nutzungsverzicht oder die Übernahme der anrechenbaren Grünfläche als öffentlich-rechtliche Eigentumsbeschränkung und lässt dies im Grundbuch anmerken.
 
 ### 5. Abstände
 
 #### Art. 90
 
-**Gewässerabstand**
+**Gewässerraum und Gewässerabstand**
 
-<sup>1</sup> Die politische Gemeinde legt in der kommunalen Nutzungsplanung den Gewässerraum nach der Bundesgesetzgebung über den Gewässerschutz fest.
+<sup>1</sup> Die politische Gemeinde legt in der kommunalen Nutzungsplanung den Gewässerraum nach der Bundesgesetzgebung über den Gewässerschutz[^90-1] fest.
+
+<sup>1<sup>bis</sup></sup> Die für die Festlegung des Gewässerraums massgebliche Uferlinie liegt am:
+
+- a) Bodensee bei 396,7 Meter über Meer;
+- b) Walensee bei 420,6 Meter über Meer;
+- c) Zürichsee bei 406,2 Meter über Meer.
 
 <sup>2</sup> Gegenüber Gewässern, bei denen auf die Festlegung des Gewässerraums verzichtet wurde, gilt für Bauten und Anlagen in der Bauzone ein beidseitiger Abstand von fünf Metern.
 
@@ -1066,6 +1104,8 @@ als Gesetz:[^ingress-2]
 
 - a) Baubewilligungen im Gewässerraum;
 - b) Unterschreitung des Abstands nach Abs. 3 dieser Bestimmung.
+
+[^90-1]: SR [814.2](https://db.clex.ch/link/Bund/814.2/de).
 
 #### Art. 91
 
@@ -1083,7 +1123,12 @@ als Gesetz:[^ingress-2]
 
 **Grenzabstand**
 
-<sup>1</sup> Als Grenzabstand von Gebäuden gilt die kürzeste im Grundriss gemessene Entfernung zwischen Grenze und Fassade. Es gilt allseits der gleiche Grenzabstand.
+<sup>1</sup> Als Grenzabstand von Gebäuden gilt die kürzeste im Grundriss gemessene Entfernung zwischen Grenze und Fassade. Die politische Gemeinde kann einen grossen und einen kleinen Grenzabstand festlegen.
+
+<sup>1<sup>bis</sup></sup> Wird ein grosser Grenzabstand festgelegt, wird er gegenüber der am meisten nach Süden gerichteten Hauptwohnseite eingehalten. Die politische Gemeinde kann im Rahmennutzungsplan:
+
+- a) abweichende Ausrichtungen festlegen;
+- b) die Aufteilung der Summe der massgebenden Grenzabstände auf mehrere Hauptwohnseiten zu gleichen Teilen für den Fall zulassen, dass ein Gebäude zwei oder mehr annähernd gleichwertige Hauptwohnseiten aufweist.
 
 <sup>2</sup> Der Grenzabstand kann ungleich auf benachbarte Grundstücke verteilt werden, wenn sich die Eigentümerin oder der Eigentümer des benachbarten Grundstücks schriftlich zur Einhaltung eines entsprechend grösseren Grenzabstands verpflichtet. Die Baubehörde verfügt diese Verpflichtung als öffentlich-rechtliche Eigentumsbeschränkung und lässt sie im Grundbuch anmerken.
 
@@ -1093,7 +1138,7 @@ als Gesetz:[^ingress-2]
 
 **Gebäudeabstand**
 
-<sup>1</sup> Als Gebäudeabstand gilt die kürzeste Entfernung zwischen zwei Fassaden. Er entspricht der Summe der für die beiden Gebäude vorgeschriebenen Grenzabstände. Er ist auch zwischen Gebäuden auf dem gleichen Grundstück einzuhalten.
+<sup>1</sup> Als Gebäudeabstand gilt die kürzeste Entfernung zwischen zwei Fassaden. Fehlen im kommunalen Rahmennutzungsplan Massangaben zum Gebäudeabstand, entspricht der Gebäudeabstand der Summe der für die beiden Gebäude vorgeschriebenen Grenzabstände. Er ist auch zwischen Gebäuden auf dem gleichen Grundstück einzuhalten.
 
 <sup>2</sup> Steht auf dem Nachbargrundstück ein Gebäude mit einem geringeren als dem nach den massgebenden Bestimmungen geltenden Grenzabstand, genügt anstelle des Gebäudeabstands die Einhaltung des Grenzabstands, wenn keine wichtigen öffentlichen Interessen entgegenstehen.
 
@@ -1259,7 +1304,7 @@ als Gesetz:[^ingress-2]
 
 **Ausnahmebewilligung**
 
-<sup>1</sup> Die Baubehörde kann im Einzelfall mit Erteilung einer Ausnahmebewilligung von Vorschriften dieses Erlasses oder des Baureglements abweichen, wenn besondere Verhältnisse vorliegen oder die Durchsetzung der Vorschrift unzweckmässig und unbillig wäre.
+<sup>1</sup> Die Baubehörde kann im Einzelfall mit Erteilung einer Ausnahmebewilligung von Vorschriften dieses Erlasses, des Rahmennutzungsplans oder von Sondernutzungsplänen abweichen, wenn besondere Verhältnisse vorliegen oder die Durchsetzung der Vorschrift unzweckmässig und unbillig wäre.
 
 <sup>2</sup> Die Ausnahmebewilligung ist zulässig, wenn sie:
 
@@ -1277,9 +1322,9 @@ als Gesetz:[^ingress-2]
 
 #### Art. 109
 
-**Bestandesgarantie a) Umbauten und Erweiterungen innerhalb der Bauzone**
+**Bestandesgarantie a) Umbauten und Erweiterungen**
 
-<sup>1</sup> Bestand und Erneuerung von formell rechtmässig erstellten Bauten und Anlagen innerhalb der Bauzone, die den geltenden Vorschriften oder Plänen widersprechen, sind gewährleistet.
+<sup>1</sup> Bestand und Erneuerung von formell rechtmässig erstellten Bauten und Anlagen, die den geltenden Vorschriften oder Plänen widersprechen, sind gewährleistet.
 
 <sup>2</sup> Umbauten, Zweckänderungen und Erweiterungen sind zulässig, soweit dadurch die Rechtswidrigkeit weder vermehrt noch wesentlich verstärkt wird. Keine Verstärkung der Rechtswidrigkeit liegt vor, wenn Bauten und Anlagen ohne Vergrösserung des umbauten Raums umgebaut oder in ihrem Zweck geändert werden, sowie beim Anbringen einer Wärme- und Schalldämmung.
 
@@ -1287,9 +1332,9 @@ als Gesetz:[^ingress-2]
 
 #### Art. 110
 
-**b) Wiederaufbau innerhalb der Bauzone**
+**b) Wiederaufbau**
 
-<sup>1</sup> Der Wiederaufbau innerhalb der Bauzone ist im bisherigen Umfang zulässig, wenn:
+<sup>1</sup> Der Wiederaufbau ist im bisherigen Umfang zulässig, wenn:
 
 - a) die künftige Nutzung dem Zweck der Nutzungszone entspricht;
 - b) keine überwiegenden Interessen entgegenstehen;
@@ -1733,6 +1778,8 @@ als Gesetz:[^ingress-2]
 
 <sup>2</sup> Die Baubehörde verlängert die Frist auf Gesuch hin einmal um zwei Jahre.
 
+<sup>3</sup> Die Fristen ruhen während der Rechtshängigkeit von privatrechtlichen Baueinspracheprozessen.
+
 #### Art. 149
 
 **Nachlaufende Bewilligung**
@@ -1822,7 +1869,12 @@ als Gesetz:[^ingress-2]
 
 **Entscheid**
 
-<sup>1</sup> Über die öffentlich-rechtliche Einsprache wird gleichzeitig mit der Verfügung im Baubewilligungs- oder Unterschutzstellungsverfahren oder mit der Festsetzung eines Nutzungsplans entschieden.
+<sup>1</sup> Über die öffentlich-rechtliche Einsprache wird gleichzeitig mit der Verfügung im Baubewilligungs- oder Unterschutzstellungsverfahren entschieden.
+
+<sup>1<sup>bis</sup></sup> Über die öffentlich-rechtliche Einsprache wird entschieden:
+
+- a) im kommunalen Nutzungsplanverfahren vor Einholung der Genehmigung der zuständigen kantonalen Stelle;
+- b) im kantonalen Nutzungsplanverfahren gleichzeitig mit der Genehmigung der Regierung.
 
 <sup>2</sup> Über die Einsprache nach Art. 684 des Schweizerischen Zivilgesetzbuches vom 10. Dezember 1907[^157-1] wird in einer gesonderten Verfügung gleichzeitig mit dem Entscheid über die Baubewilligung entschieden.
 
