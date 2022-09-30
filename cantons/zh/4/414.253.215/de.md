@@ -3,11 +3,11 @@ canton: ZH
 number: "414.253.215"
 title: Studienordnung für den Europäischen Masterstudiengang in Ergotherapie an der Zürcher Hochschule für Angewandte Wissenschaften
 language: de
-version: "2018-01-01"
-nachtrag: "99"
-valid_until: 2022-10-01
+version: "2022-10-01"
+nachtrag: "118"
+valid_until: 2023-01-01
 adopted: 2013-09-26
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_215-2013_09_26-2014_01_01-099.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_215-2013_09_26-2014_01_01-118.html"
 text: pdf
 ---
 
@@ -25,11 +25,11 @@ beschliesst:
 
 [^t-1]: OS 68, 440; Begründung siehe ABl 2013-10-11. Vom Fachhochschulrat genehmigt am 1. Oktober 2013.
 [^t-2]: Inkrafttreten: 1. Januar 2014.
-[^t-3]: LS 414.252.3. 1. 1. 18 - 99 3
+[^t-3]: LS 414.252.3. 1.10. 22 - 118 3
 
 ### A. Allgemeine Bestimmungen
 
-[^hAAllgemeineBestim-1]: LS 414.252.3. 1. 1. 18 - 99 3
+[^hAAllgemeineBestim-1]: LS 414.252.3. 1.10. 22 - 118 3
 
 #### § 1
 
@@ -41,23 +41,24 @@ beschliesst:
 
 - Karolinska Institutet, Division of Occupational Therapy, Schweden,
 
-- University of Brighton, Division of Occupational Therapy, Vereinigtes Königreich,
+- University of Brighton, School of Sport and Health Sciences, Vereinigtes Königreich,
 
-- University College Sjælland, Division of Occupational Therapy, Dänemark.
+- Universidade da Coruña, Faculty of Health Sciences, Spanien.
 
 **Anhang und «Teaching and Examination Regulations»**
 
-§ 2.[^1-1] Einzelheiten zum Studiengang, insbesondere zum Zulassungsverfahren, zu den Modulen, zu den zu erreichenden Credits sowie zur Masterarbeit, werden in einem Anhang und in «Teaching and Examination Regulations» inklusive deren Ausführungsbestimmungen geregelt. Die «Teaching and Examination Regulations» und deren Ausführungsbestimmungen werden von den Kooperationspartnern gemeinsam erlassen und gelten für sämtliche Studierenden im Europäischen Masterstudiengang in Ergotherapie.
+§ 2.[^1-2] Einzelheiten zum Studiengang, insbesondere zum Zulassungsverfahren, zu den Modulen, zu den zu erreichenden Credits sowie zur Masterarbeit, werden in einem Anhang und in «Teaching and Examination Regulations» inklusive deren Ausführungsbestimmungen geregelt. Die «Teaching and Examination Regulations» und deren Ausführungsbestimmungen werden von den Kooperationspartnern gemeinsam erlassen und gelten für sämtliche Studierenden im Europäischen Masterstudiengang in Ergotherapie.
 
 **1**
 
-- 1\. 1. 18 - 99 § 3. <sup>1</sup> Der Europäische Masterstudiengang in Ergotherapie wird als Teilzeitstudium angeboten.
+1.10. 22 - 118 § 3. <sup>1</sup> Der Europäische Masterstudiengang in Ergotherapie wird als Teilzeitstudium angeboten.
 
 **Studienform und Studiendauer**
 
 <sup>2</sup> Der Studiengang umfasst Studienleistungen von 90 Credits. Die Regelstudiendauer beträgt vier Semester.
 
-[^1-1]: Fassung gemäss B vom 24. August 2017 (OS 72, 618; ABl 2017-10-27). In Kraft seit 1. Januar 2018.
+[^1-1]: Fassung gemäss B vom 2. Juni 2022 (OS 77, 428; ABl 2022-08-19). In Kraft seit 1. Oktober 2022.
+[^1-2]: Fassung gemäss B vom 24. August 2017 (OS 72, 618; ABl 2017-10-27). In Kraft seit 1. Januar 2018.
 
 #### § 4
 
@@ -132,7 +133,7 @@ Das Studium gilt als bestanden, wenn a. alle im Anhang vorgeschriebenen Module b
 
 Der Europäische Masterstudiengang wird mit dem Titel «Europäischer Master of Science ZFH in Ergotherapie» abgeschlossen.
 
-[^14-1]: LS 414.252.3. 1. 1. 18 - 99 3
+[^14-1]: LS 414.252.3. 1.10. 22 - 118 3
 
 #### § 15
 
@@ -140,18 +141,18 @@ Der Europäische Masterstudiengang wird mit dem Titel «Europäischer Master of 
 
 Beim Abschluss des Studiums wird keine Abschlussnote bestimmt. Eine ECTS-Einstufungstabelle gemäss § 57 RPO[^14-1] wird nicht erstellt. Als Abschlussbewertung wird im Diplomzeugnis das Prädikat «bestanden» ausgewiesen.
 
-[^15-1]: Fassung gemäss B vom 24. August 2017 (OS 72, 618; ABl 2017-10-27). In Kraft seit 1. Januar 2018.
+[^15-1]: Fassung gemäss B vom 2. Juni 2022 (OS 77, 428; ABl 2022-08-19). In Kraft seit 1. Oktober 2022.
 
 ### Anhang zur Studienordnung für den Europäischen Masterstudiengang in Ergotherapie an der Zürcher Hochschule für Angewandte Wissenschaften
 
 [^15-1]
 
-Der Anhang zur Studienordnung für den Europäischen Masterstudiengang in Ergotherapie an der Zürcher Hochschule für Angewandte Wissenschaften, die «Teaching and Examination Regulations» und deren Ausführungsbestimmungen werden weder in die Offizielle Gesetzessammlung (OS) noch in die Zürcher Loseblattsammlung (LS) aufgenommen. Sie können bei der
+Der Anhang zur Studienordnung für den Europäischen Masterstudiengang in Ergotherapie an der Zürcher Hochschule für Angewandte Wissenschaften wird weder in die Offizielle Gesetzessammlung (OS) noch in die Zürcher Loseblattsammlung (LS) aufgenommen. Er kann bei der
 
-Zürcher Hochschule für Angewandte Wissenschaften Ressort Lehre Gertrudstrasse 15 Postfach 8400 Winterthur
+Zürcher Hochschule für Angewandte Wissenschaften Ressort Bildung Gertrudstrasse 15 Postfach 8400 Winterthur
 
-bezogen oder unter (www.zhaw.ch) eingesehen werden.
+bezogen oder unter www.zhaw.ch eingesehen werden.
 
 **5**
 
-- 1\. 1. 18 - 99
+1.10. 22 - 118
