@@ -4,11 +4,11 @@ number: "161.1"
 title: Verordnung über die politischen Rechte (VPR)
 short: VPR
 language: de
-version: "2019-04-24"
-nachtrag: "105"
-valid_until: 2022-10-01
+version: "2022-10-01"
+nachtrag: "118"
+valid_until: 2026-07-01
 adopted: 2004-10-27
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-161_1-2004_10_27-2005_01_01-105.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-161_1-2004_10_27-2005_01_01-118.html"
 text: pdf
 ---
 
@@ -66,7 +66,7 @@ Direktion im Sinne von § 10 Abs. 3 GPR und im Sinne dieser Verordnung ist die D
 
 **1**
 
-- 1\. 7. 19 - 105 d.[^3-3] nicht wegen dauernder Urteilsunfähigkeit unter umfassender Beistandschaft stehen oder durch eine vorsorgebeauftragte Person vertreten sind.
+1.10. 22 - 118 d.[^3-3] nicht wegen dauernder Urteilsunfähigkeit unter umfassender Beistandschaft stehen oder durch eine vorsorgebeauftragte Person vertreten sind.
 
 <sup>2</sup> Im Stimmregister oder in Zusatzregistern werden ferner eingetragen:[^3-4] a. Fahrende, welche die politischen Rechte in ihrer Heimatgemeinde ausüben,
 
@@ -129,7 +129,14 @@ Auf Anfrage erhalten Stimmberechtigte Auskunft über die Stimmberechtigung und W
 
 - 2\. den Zu- oder Wegzug und die Verlegung des Wohnsitzes der betroffenen Person innerhalb des Kindes- und Erwachsenenschutzkreises.
 
+**Fristwahrung**
+
+§ 7 a.[^6-2] <sup>1</sup> Die Fristen zur Einreichung von Wahlvorschlägen und von Unterschriften für eine Volksinitiative oder ein Referendum sind gewahrt, wenn die notwendigen Unterlagen bis zum Ende der Frist bei der zuständigen Behörde eingetroffen sind.
+
+<sup>2</sup> Bei der Einreichung von Wahlvorschlägen bestimmt die wahlleitende Behörde in der Wahlanordnung die Uhrzeit.
+
 [^6-1]: Fassung gemäss RRB vom 7. November 2012 (OS 67, 598; ABl 2012-11-16). In Kraft seit 1. Januar 2013.
+[^6-2]: Eingefügt durch RRB vom 31. August 2022 (OS 77, 413; ABl 2022-09-02). In Kraft seit 1. Oktober 2022.
 
 #### § 8
 
@@ -161,11 +168,11 @@ Der Kanton und die Gemeinden versenden Dokumente, die nicht oder nur mit unverh�
 
 <sup>1</sup> Erfordert die Ausübung eines politischen Rechts eine schriftliche Erklärung, so kann eine nicht schreibkundige oder nicht schreibfähige Person eine andere stimmberechtigte Person beauftragen, für sie die Erklärung abzugeben.
 
-<sup>2</sup> Die beauftragte Person ergänzt die Erklärung mit ihrem Namen und ihrer Unterschrift, ferner mit einem Zusatz, der das Vertretungsverhältnis offen legt, wie «in Vertretung» oder «im Auftrag».
-
 **3**
 
-- 1\. 7. 19 - 105
+1.10. 22 - 118
+
+<sup>2</sup> Die beauftragte Person ergänzt die Erklärung mit ihrem Namen und ihrer Unterschrift, ferner mit einem Zusatz, der das Vertretungsverhältnis offen legt, wie «in Vertretung» oder «im Auftrag».
 
 <sup>3</sup> Bei Wahlen und Abstimmungen wird die Stellvertretung nur auf dem Stimmrechtsausweis offen gelegt.
 
@@ -185,29 +192,25 @@ Der Kanton und die Gemeinden versenden Dokumente, die nicht oder nur mit unverh�
 
 **Zuständigkeit a. Bei kantonalen Wahlen und Abstimmungen**
 
-§ 13.[^hIITeilWahlenund-1] <sup>1</sup> Der Regierungsrat nimmt folgende Aufgaben des II. Teils des GPR über die Wahlen und Abstimmungen wahr:
-
-- a. Aufgaben, die das GPR ausdrücklich dem Regierungsrat zuweist,
+§ 13. <sup>1</sup> Der Regierungsrat nimmt folgende Aufgaben des II. Teils des GPR über die Wahlen und Abstimmungen wahr:[^hIITeilWahlenund-1] a. Aufgaben, die das GPR ausdrücklich dem Regierungsrat zuweist,
 
 - b. Zuweisung eines Amtes bei einer Unvereinbarkeit, wenn sich die betroffene Person nicht selbst entscheidet (§ 30 Abs. 2 GPR),
 
 - c. Anordnung von kantonalen Wahlen und Abstimmungen (§§ 57–59 GPR),
 
-- d. Entscheid über die Verwendung eines Beiblatts nach § 61 GPR,
+- d. Veröffentlichen der Abstimmungsvorlage sowie Verfassen und Veröffentlichen des Beleuchtenden Berichts (§§ 63 und 64 GPR),
 
-- e. Veröffentlichen der Abstimmungsvorlage sowie Verfassen und Veröffentlichen des Beleuchtenden Berichts (§§ 63 und 64 GPR),
+- e. Anordnung von Nachzählungen (§ 75 Abs. 4 GPR),
 
-- f. Anordnung von Nachzählungen (§ 75 Abs. 3 GPR),
+- f. Losziehung nach § 79 Abs. 1 GPR (durch die Präsidentin oder den Präsidenten des Regierungsrates),
 
-- g. Losziehung nach § 79 Abs. 1 GPR (durch die Präsidentin oder den Präsidenten des Regierungsrates),
+- g. Beschlussfassung über das Ergebnis der Wahl oder Abstimmung und Veröffentlichung (§§ 80 und 81 Abs. 2 GPR),
 
-- h. Beschlussfassung über das Ergebnis der Wahl oder Abstimmung und Veröffentlichung (§§ 80 und 81 Abs. 2 GPR),
+- h. Feststellung der Rechtskraft des Wahl- oder Abstimmungsergebnisses (§ 83 Abs. 1 GPR),
 
-- i. Feststellung der Rechtskraft des Wahl- oder Abstimmungsergebnisses (§ 83 Abs. 1 GPR),
+- i. Bericht und Antrag nach Kantonsratswahlen gemäss § 107 GPR,
 
-- j. Bericht und Antrag nach Kantonsratswahlen gemäss § 107 GPR,
-
-- k. Anordnung einer Nachwahl (§ 108 Abs. 3 GPR).
+- j. Anordnung einer Nachwahl (§ 108 Abs. 3 GPR).
 
 <sup>2</sup> Die Direktion erfüllt folgende Aufgaben:
 
@@ -235,7 +238,7 @@ Der Kanton und die Gemeinden versenden Dokumente, die nicht oder nur mit unverh�
 
 <sup>3</sup> Die übrigen Aufgaben werden vom Statistischen Amt erfüllt. Abweichende Bestimmungen dieser Verordnung bleiben vorbehalten.
 
-[^hIITeilWahlenund-1]: Fassung gemäss RRB vom 9. Dezember 2009 (OS 64, 883; ABl 2009, 2463). In Kraft seit 1. Januar 2010.
+[^hIITeilWahlenund-1]: Fassung gemäss RRB vom 31. August 2022 (OS 77, 413; ABl 2022-09-02). In Kraft seit 1. Oktober 2022.
 [^hIITeilWahlenund-2]: SR 161.11.
 
 #### § 14
@@ -248,13 +251,13 @@ Das Statistische Amt des Kantons ist a. kantonale Zentralstelle gemäss Art. 5 d
 
 [^14-1]: SR 161.11.
 [^14-2]: LS 180.1.
-[^14-3]: Fassung gemäss RRB vom 20. Dezember 2017 (OS 73, 123; ABl 2018-01-12). In Kraft seit 1. April 2018.
+[^14-3]: Fassung gemäss RRB vom 31. August 2022 (OS 77, 413; ABl 2022-09-02). In Kraft seit 1. Oktober 2022.
 
 #### § 14 a
 
 **c. Bei kirchlichen Wahlen und Abstimmungen**
 
-<sup>1</sup> Soweit bei kantonalen kirchlichen Erneuerungswahlen und Abstimmungen die Aufgaben der wahlleitenden Behörde dem Kanton übertragen werden (§ 17 a Abs. 2 lit. a und b Kirchengesetz vom 9. Juli 2007 [KiG][^14-2], erfüllt die Direktion die Aufgaben nach § 13 Abs. 1 und 2 dieser Verordnung. Zudem setzt sie Frist nach §§ 49 Abs. 1 und 53 Abs. 1 GPR an und erklärt Vorgeschlagene als gewählt (§ 54 Abs. 1 GPR). Die übrigen übertragenen Aufgaben werden vom Statistischen Amt erfüllt.[^14-3]
+<sup>1</sup> Soweit bei kantonalen kirchlichen Erneuerungswahlen und Abstimmungen die Aufgaben der wahlleitenden Behörde dem Kanton übertragen werden (§ 17 a Abs. 2 lit. a und b Kirchengesetz vom 9. Juli 2007 [KiG][^14-2], erfüllt die Direktion die Aufgaben nach § 13 Abs. 1 und 2 dieser Verordnung. Zudem setzt sie Frist nach §§ 49 Abs. 1 und 53 Abs. 1 GPR an und erklärt vorgeschlagene Personen als gewählt (§ 54 a Abs. 1 GPR). Die übrigen übertragenen Aufgaben werden vom Statistischen Amt erfüllt.[^14-3]
 
 <sup>2</sup> Bei kantonalen kirchlichen Ersatzwahlen werden alle dem Kanton übertragenen Aufgaben vom Statistischen Amt erfüllt.
 
@@ -272,7 +275,7 @@ Bei der vorzeitigen Stimmabgabe in den Abstimmungslokalen wird der Urnendienst v
 
 **5**
 
-- 1\. 7. 19 - 105 § 17. Die Leiterinnen und Leiter der Abstimmungslokale oder die Gemeindeangestellten gemäss § 15 Abs. 3 GPR überzeugen sich vor dem Einsatz der Urnen, dass sie leer sind. Danach verschliessen sie diese und schützen sie vor unbefugtem Einwerfen von Wahl- oder Stimmzetteln und vor Entwendung.
+1.10. 22 - 118 § 17. Die Leiterinnen und Leiter der Abstimmungslokale oder die Gemeindeangestellten gemäss § 15 Abs. 3 GPR überzeugen sich vor dem Einsatz der Urnen, dass sie leer sind. Danach verschliessen sie diese und schützen sie vor unbefugtem Einwerfen von Wahl- oder Stimmzetteln und vor Entwendung.
 
 #### § 18
 
@@ -340,7 +343,7 @@ Amt dauer Verordnung a. Nationalrat, Ständerat b. Kantonsrat, Regierungsrat c. 
 
 **Angaben auf den Wahlvorschlägen**
 
-§ 24. <sup>1</sup> Auf den Wahlvorschlägen wird für jede vorgeschlagene Person angegeben:
+§ 24.[^21-6] <sup>1</sup> Auf den Wahlvorschlägen wird für jede vorgeschlagene Person angegeben:
 
 - a. Name, Vorname und Geschlecht,
 
@@ -350,35 +353,31 @@ Amt dauer Verordnung a. Nationalrat, Ständerat b. Kantonsrat, Regierungsrat c. 
 
 - d. Adresse,
 
-- e. Heimatort.
+- e. Zusatz «bisher», wenn die vorgeschlagene Person das Amt schon innehat,
 
-<sup>2</sup> Zudem kann angegeben werden:
+- f. Parteizugehörigkeit.
 
-- a. Rufname,
-
-- b. Hinweis, ob die vorgeschlagene Person dem Organ schon bisher angehört hat,
-
-- c. Parteizugehörigkeit.
+<sup>2</sup> Zudem kann der Name angegeben werden, unter dem die Person politisch oder im Alltag bekannt ist.
 
 <sup>3</sup> Personen, die einen Wahlvorschlag unterzeichnen, geben Namen, Vornamen, Geburtsdatum und Adresse an und fügen ihre Unterschrift hinzu.
 
-**7**
-
-- 1\. 7. 19 - 105
-
 <sup>4</sup> Der Wahlvorschlag kann mit einer Kurzbezeichnung versehen werden.
 
-<sup>5</sup> Abs. 3 gilt auch für Begehren um Durchführung einer Bestätigungswahl an der Urne für Pfarrerinnen und Pfarrer (§ 13 Abs. 3 KiG[^21-6]. Solche Begehren können nicht eingesehen werden.[^21-7]
+**7**
+
+1.10. 22 - 118
+
+<sup>5</sup> Abs. 3 gilt auch für Begehren um Durchführung einer Bestätigungswahl an der Urne für Pfarrerinnen und Pfarrer (§ 13 Abs. 3 KiG[^21-7]. Solche Begehren können nicht eingesehen werden.[^21-8]
 
 **Prüfung**
 
-§ 25. Die wahlleitende Behörde prüft, ob a. die Vorgeschlagenen wahlfähig sind und die Angaben gemäss § 24 Abs. 1 lit. a, b, d und e mit jenen im Stimmregister übereinstimmen,
+§ 25. Die wahlleitende Behörde prüft, ob a.[^21-6] die vorgeschlagenen Personen wahlfähig sind und die Angaben gemäss § 24 Abs. 1 lit. a, b und d mit jenen im Stimmregister übereinstimmen,
 
 - b. die Unterzeichnenden stimmberechtigt sind.
 
-**Angaben auf gedruckten Wahlvorschlägen**
+**Angaben auf gedruckten Wahlzetteln**
 
-§ 26.[^21-1] <sup>1</sup> Auf den gedruckten Wahlvorschlägen wird für jede vorgeschlagene Person angegeben:
+§ 26.[^21-6] <sup>1</sup> Auf den gedruckten Wahlzetteln wird für jede vorgeschlagene Person angegeben:
 
 - a. Name und Vorname,
 
@@ -388,39 +387,37 @@ Amt dauer Verordnung a. Nationalrat, Ständerat b. Kantonsrat, Regierungsrat c. 
 
 - d. Beruf,
 
-- e. die ergänzenden Angaben gemäss § 24 Abs. 2.
+- e. Zusatz «bisher», wenn die vorgeschlagene Person das Amt schon innehat,
 
-<sup>2</sup> Kommen mehrere gedruckte Wahlvorschläge zum Einsatz (§ 55 a Abs. 2 GPR), wird auf diesen die Kurzbezeichnung gemäss § 24 Abs. 4 angegeben.
+- f. Parteizugehörigkeit.
 
-<sup>3</sup> Werden mehrere Wahlvorschläge zu einem einzigen gedruckten Wahlvorschlag zusammengefasst (§ 55 a Abs. 1 GPR), wird bei jeder vorgeschlagenen Person auf die Kurzbezeichnung des betreffenden Wahlvorschlages hingewiesen.
+<sup>2</sup> Bei einem Namen gemäss § 24 Abs. 2 wird dieser zusätzlich oder anstelle des Vornamens angegeben.
 
-[^21-1]: Fassung gemäss RRB vom 9. Dezember 2009 (OS 64, 883; ABl 2009, 2463). In Kraft seit 1. Januar 2010.
-[^21-2]: Fassung gemäss RRB vom 29. Juni 2016 (OS 72, 308; ABl 2016-07-15). In Kraft seit 1. Januar 2018.
-[^21-3]: Aufgehoben durch RRB vom 3. November 2010 (OS 65, 767; ABl 2010, 2429). In Kraft seit 1. Januar 2011.
-[^21-4]: SR 161.1.
-[^21-5]: LS 101.
-[^21-6]: LS 180.1.
-[^21-7]: Fassung gemäss RRB vom 20. Dezember 2017 (OS 73, 123; ABl 2018-01-12). In Kraft seit 1. April 2018.
+<sup>3</sup> Auf dem Beiblatt wird darauf hingewiesen, dass dieses nicht als Wahlzettel verwendet werden darf und die Stimme auch andern wahlfähigen Personen gegeben werden kann.
 
-#### § 27
+<sup>4</sup> Kommen mehrere gedruckte Wahlzettel zum Einsatz (§ 55 a Abs. 1 GPR), wird auf diesen die Kurzbezeichnung gemäss § 24 Abs. 4 angegeben.
+
+<sup>5</sup> Werden mehrere Wahlvorschläge zu einem einzigen gedruckten Wahlzettel zusammengefasst (§ 55 a Abs. 2 GPR), wird bei jeder vorgeschlagenen Person auf die Kurzbezeichnung des betreffenden Wahlvorschlages hingewiesen.
 
 **Wahl von Teilämtern**
 
-<sup>1</sup> Bei der Wahl von Richterinnen und Richtern wird in der Fristansetzung zur Einreichung von Wahlvorschlägen auf die Beschäftigungsgrade hingewiesen.
+§ 27.[^21-6] <sup>1</sup> Bei der Wahl von Richterinnen und Richtern wird in der Fristansetzung zur Einreichung von Wahlvorschlägen auf die Beschäftigungsgrade hingewiesen.
 
-<sup>2</sup> Die Vorschriften über die Einreichung von Wahlvorschlägen, die stille Wahl und die Verwendung gedruckter Wahlvorschläge gemäss den §§ 50–55 a GPR gelten für je eine Gruppe von Vorgeschlagenen mit gleichem Beschäftigungsgrad.[^27-1]
+<sup>2</sup> Die Vorschriften über die Einreichung von Wahlvorschlägen, die stille Wahl und die Verwendung gedruckter Wahlzettel gemäss §§ 50–
 
-<sup>3</sup> Auf den leeren oder den gedruckten Wahlzetteln wird auf den Beschäftigungsgrad der zu Wählenden hingewiesen.
+56 GPR gelten für je eine Gruppe von vorgeschlagenen Personen mit gleichem Beschäftigungsgrad.
 
-<sup>4</sup> In der Wahlanleitung werden die Wählenden darauf hingewiesen, dass sie den Namen derselben Person auf jede Liste mit unterschiedlichem Beschäftigungsgrad setzen können.
+<sup>3</sup> Auf den Wahlzetteln wird auf den Beschäftigungsgrad des zu besetzenden Teilamtes hingewiesen.
+
+<sup>4</sup> In der Wahlanleitung werden die Stimmberechtigten darauf hingewiesen, dass sie den Namen derselben Person auf jede Liste mit unterschiedlichem Beschäftigungsgrad setzen können.
 
 - 5\. Anordnung, Wahl- und Abstimmungsunterlagen
 
-**Wahl- und Abstimmungstage**
+**Wahl- und Abstimmungstermine**
 
-§ 28. <sup>1</sup> Kantonale Abstimmungen finden an den reservierten Abstimmungsterminen des Bundes statt. Der Regierungsrat legt die kantonalen Wahltermine bis Ende August des Vorjahres fest.
+§ 28.[^21-6] <sup>1</sup> Der Regierungsrat legt die kantonalen Wahltermine fest. Er gibt die kantonalen und die eidgenössischen Wahltermine jeweils bis zum Ende des zweiten Kalenderjahres vor den nächsten Wahlen bekannt.
 
-<sup>2</sup> Die Direktion gibt die reservierten Abstimmungstermine und die Wahltermine für eidgenössische und kantonale Wahlen spätestens Mitte September des Vorjahres bekannt.
+<sup>2</sup> Die reservierten eidgenössischen Abstimmungstermine sind gleichzeitig die reservierten kantonalen Abstimmungstermine. Die Direktion gibt die reservierten Abstimmungstermine für die vier folgenden Kalenderjahre bis spätestens Ende August des Jahres der Erneuerungswahl des Regierungsrates bekannt.
 
 <sup>3</sup> Der Regierungsrat gibt den Gemeinden frühzeitig bekannt,
 
@@ -430,16 +427,35 @@ Amt dauer Verordnung a. Nationalrat, Ständerat b. Kantonsrat, Regierungsrat c. 
 
 - c. zusätzliche Wahl- oder Abstimmungstermine.
 
-**Beleuchtender Bericht**
+**Beleuchtender Bericht a. Kantonale Volksabstimmungen**
 
-§ 28 a.[^27-2] <sup>1</sup> Für kantonale Volksabstimmungen stellt die Staatskanzlei die Beleuchtenden Berichte gemäss § 64 GPR in einer Abstimmungszeitung zusammen.
+§ 28 a.[^21-6] <sup>1</sup> Für kantonale Volksabstimmungen stellt die Staatskanzlei die Beleuchtenden Berichte gemäss § 64 GPR in einer Abstimmungszeitung zusammen.
 
-<sup>2</sup> Die Staatskanzlei erlässt Vorschriften über den Zeitpunkt der Einreichung und den Umfang der Stellungnahme des Initiativ- oder Referendumskomitees nach § 64 Abs. 1 lit. c GPR.
+<sup>2</sup> Die Staatskanzlei erlässt Vorschriften über den Zeitpunkt der Einreichung und den Umfang der Stellungnahme des Initiativ- oder Referendumskomitees oder der Gemeinden nach § 64 Abs. 1 lit. c GPR. Ergreifen mehrere Gemeinden ein Gemeindereferendum, bezeichnen sie gegenüber der Staatskanzlei aus ihrer Mitte eine Vertreterin.
 
-<sup>3</sup> Unter den Voraussetzungen von § 64 Abs. 4 GPR kann sie Stellungnahmen abändern oder zurückweisen.
+<sup>3</sup> Die Staatskanzlei kann unter den Voraussetzungen von § 64 Abs. 4 GPR Stellungnahmen abändern oder zurückweisen.
 
-[^27-1]: Fassung gemäss RRB vom 9. Dezember 2009 (OS 64, 883; ABl 2009, 2463). In Kraft seit 1. Januar 2010.
-[^27-2]: Eingefügt durch RRB vom 9. Dezember 2009 (OS 64, 883; ABl 2009, 2463). In Kraft seit 1. Januar 2010.
+**b. Verweisungen auf eine Internetseite**
+
+§ 28 b.[^21-9] <sup>1</sup> Wird im Beleuchtenden Bericht für Einzelheiten auf eine Internetseite verwiesen, ist deren Adresse aufzuführen.
+
+<sup>2</sup> Die wahlleitende Behörde gewährleistet, dass die auf einer Internetseite publizierten Einzelheiten ab Veröffentlichung des Beleuchtenden Berichts nicht mehr verändert werden und nach der Volksabstimmung auffindbar bleiben.
+
+**9**
+
+1.10. 22 - 118
+
+<sup>3</sup> Für Personen ohne Internetzugang wird eine Möglichkeit zur Verfügung gestellt, kostenlos Einsicht in die auf einer Internetseite veröffentlichten Einzelheiten zu nehmen. Im Beleuchtenden Bericht wird auf diese Möglichkeit hingewiesen.
+
+[^21-1]: Fassung gemäss RRB vom 9. Dezember 2009 (OS 64, 883; ABl 2009, 2463). In Kraft seit 1. Januar 2010.
+[^21-2]: Fassung gemäss RRB vom 29. Juni 2016 (OS 72, 308; ABl 2016-07-15). In Kraft seit 1. Januar 2018.
+[^21-3]: Aufgehoben durch RRB vom 3. November 2010 (OS 65, 767; ABl 2010, 2429). In Kraft seit 1. Januar 2011.
+[^21-4]: SR 161.1.
+[^21-5]: LS 101.
+[^21-6]: Fassung gemäss RRB vom 31. August 2022 (OS 77, 413; ABl 2022-09-02). In Kraft seit 1. Oktober 2022.
+[^21-7]: LS 180.1.
+[^21-8]: Fassung gemäss RRB vom 20. Dezember 2017 (OS 73, 123; ABl 2018-01-12). In Kraft seit 1. April 2018.
+[^21-9]: Eingefügt durch RRB vom 31. August 2022 (OS 77, 413; ABl 2022-09-02). In Kraft seit 1. Oktober 2022.
 
 #### § 29
 
@@ -451,19 +467,17 @@ Amt dauer Verordnung a. Nationalrat, Ständerat b. Kantonsrat, Regierungsrat c. 
 
 - 1\. die gesetzlichen Voraussetzungen für das Ausfüllen der Wahl- und Stimmzettel (§§ 65–67 GPR),
 
-- 2\. die Vorschrift, dass bei Wahlen mit mehreren gedruckten Wahlzetteln nur ein Wahlzettel verwendet werden darf,
+- 2\. die Vorschrift, dass bei Wahlen mit mehreren gedruckten Wahl-
+
+zetteln nur ein Wahlzettel verwendet werden darf,
 
 - b. briefliche Stimmabgabe:
 
-- 1\. Voraussetzungen und Vorgehen bei brieflicher Stimmabgabe (§ 69 Abs. 1 GPR),
+1.[^29-1] Voraussetzungen und Vorgehen bei brieflicher Stimmabgabe (§ 69 GPR),
 
 - 2\. Aufforderung, dass jede und jeder Stimmberechtigte ein eigenes Stimmzettelkuvert verwendet und dieses verschliessen soll,
 
 - 3\. Information über den Zeitpunkt der letzten Leerung des Briefkastens und Postfachs der Gemeindeverwaltung, wenn der Zeitpunkt vorverlegt ist (§ 70 Abs. 2 GPR),
-
-**9**
-
-- 1\. 7. 19 - 105
 
 - c. Stimmabgabe an der Urne:
 
@@ -477,7 +491,7 @@ Stimmabgabe an der Urne (§ 68 Abs. 1 und 3 GPR).
 
 **Stimmrechtsausweis**
 
-§ 30.[^29-1] <sup>1</sup> Die Gemeinden stellen den Stimmberechtigten für jeden Wahl- oder Abstimmungstag einen neuen Stimmrechtsausweis zu.
+§ 30.[^29-2] <sup>1</sup> Die Gemeinden stellen den Stimmberechtigten für jeden Wahl- oder Abstimmungstag einen neuen Stimmrechtsausweis zu.
 
 <sup>2</sup> Der Stimmrechtsausweis enthält folgende Angaben:
 
@@ -489,29 +503,15 @@ Stimmabgabe an der Urne (§ 68 Abs. 1 und 3 GPR).
 
 - d. Datum des Urnengangs.
 
-<sup>3</sup> Er enthält zudem ein einziges Feld für die Unterschrift der stimmberechtigten Person (§ 68 Abs. 1 und Abs. 3 und § 69 Abs. 1 lit. a GPR).
-
-[^29-1]: Fassung gemäss RRB vom 9. Dezember 2009 (OS 64, 883; ABl 2009, 2463). In Kraft seit 1. Januar 2010.
-
-#### § 31
-
-**Beiblatt bei kommunalen Wahlen**
-
-<sup>1</sup> Wird für die Wahl eines Gemeindeorgans das Vorverfahren nach §§ 48–53 GPR durchgeführt und kommt es in der Folge weder zur stillen Wahl noch zum Einsatz gedruckter Wahlvorschläge, so kann die wahlleitende Behörde beschliessen, den Wahlunterlagen ein Beiblatt beizulegen. Auf dem Beiblatt werden die nach Ablauf der zweiten Frist definitiv Vorgeschlagenen aufgeführt.
-
-<sup>2</sup> Ist für die Wahl eines Gemeindeorgans kein Vorverfahren vorgesehen, so kann die wahlleitende Behörde den Einsatz eines Beiblatts beschliessen. Ist der Einsatz eines Beiblatts beschlossen oder in der Gemeindeordnung vorgeschrieben, setzt die wahlleitende Behörde mit der Anordnung der Wahl eine Frist von mindestens sieben Tagen an, innert der sich Personen melden können, die auf dem Beiblatt aufgeführt sein möchten. Die Personen geben die Angaben gemäss § 24 Abs. 1 und 2 bekannt. Die wahlleitende Behörde prüft diese Angaben nach § 25.[^31-1]
-
-<sup>3</sup> Auf dem Beiblatt werden die Namen der Kandidierenden in alphabetischer Reihenfolge geordnet und mit den Angaben gemäss § 26 Abs. 1 ergänzt.
-
-<sup>4</sup> Auf dem Beiblatt wird ausdrücklich erwähnt, dass dieses nicht als Wahlzettel verwendet werden darf und dass die Stimme auch andern wahlfähigen Personen gegeben werden kann.
-
-[^31-1]: Fassung gemäss RRB vom 29. Juni 2016 (OS 72, 308; ABl 2016-07-15). In Kraft seit 1. Januar 2018.
-
-#### § 32
+<sup>3</sup> Er enthält zudem ein einziges Feld für die Unterschrift der stimmberechtigten Person (§ 68 Abs. 1 und Abs. 3 und § 69 Abs. 1 lit. a GPR). § 31.[^29-3]
 
 **Wohnsitzwechsel**
 
-Wer während der letzten vier Wochen vor einem Urnengang den politischen Wohnsitz wechselt, erhält am neuen Wohnsitz die Wahl- und Abstimmungsunterlagen nur gegen den Nachweis, dass er oder sie das Stimmrecht nicht bereits am bisherigen politischen Wohnsitz ausgeübt hat.
+§ 32. Wer während der letzten vier Wochen vor einem Urnengang den politischen Wohnsitz wechselt, erhält am neuen Wohnsitz die Wahl- und Abstimmungsunterlagen nur gegen den Nachweis, dass er oder sie das Stimmrecht nicht bereits am bisherigen politischen Wohnsitz ausgeübt hat.
+
+[^29-1]: Fassung gemäss RRB vom 31. August 2022 (OS 77, 413; ABl 2022-09-02). In Kraft seit 1. Oktober 2022.
+[^29-2]: Fassung gemäss RRB vom 9. Dezember 2009 (OS 64, 883; ABl 2009, 2463). In Kraft seit 1. Januar 2010.
+[^29-3]: Aufgehoben durch RRB vom 31. August 2022 (OS 77, 413; ABl 2022-09-02). In Kraft seit 1. Oktober 2022.
 
 #### § 33
 
@@ -523,27 +523,29 @@ Wer während der letzten vier Wochen vor einem Urnengang den politischen Wohnsit
 
 ### 6. Stimmabgabe
 
-[^h6Stimmabgabe-1]: Fassung gemäss RRB vom 9. Dezember 2009 (OS 64, 883; ABl 2009, 2463). In Kraft seit 1. Januar 2010.
+[^h6Stimmabgabe-1]: Fassung gemäss RRB vom 31. August 2022 (OS 77, 413; ABl 2022-09-02). In Kraft seit 1. Oktober 2022.
 
 #### § 34
 
 **Stimmabgabe an der Urne**
 
-<sup>1</sup> Die stimmberechtigte Person übergibt dem Mitglied des Wahlbüros den unterschriebenen Stimmrechtsausweis, lässt den Wahlzettel, soweit erforderlich, abstempeln und legt dann die Wahl- oder Stimmzettel in die Urne.[^h6Stimmabgabe-1]
+<sup>1</sup> Die stimmberechtigte Person übergibt dem Mitglied des Wahlbüros den unterzeichneten Stimmrechtsausweis, lässt den Wahlzettel, soweit erforderlich, abstempeln und legt die Wahl- oder Stimmzettel in die Urne.[^h6Stimmabgabe-1]
 
 <sup>2</sup> Die Mitglieder des Wahlbüros dürfen an der Urne keine Kenntnis vom Inhalt der Wahl- und Stimmzettel nehmen.
 
 <sup>3</sup> Diese Bestimmungen gelten auch für die Gemeindeangestellten gemäss § 15 Abs. 3 GPR anlässlich der vorzeitigen Stimmabgabe in der Gemeindekanzlei.
 
+[^34-1]: Fassung gemäss RRB vom 31. August 2022 (OS 77, 413; ABl 2022-09-02). In Kraft seit 1. Oktober 2022.
+
+#### § 35
+
 **Stellvertretung**
 
-§ 35.[^34-1] <sup>1</sup> Bei der stellvertretenden Stimmabgabe an der Urne nehmen die Mitglieder des Wahlbüros den Stimmrechtsausweis sowie die Wahl- und Stimmzettel der vertretenen Person nur entgegen, wenn diese den Stimmrechtsausweis unterschrieben hat.
+<sup>1</sup> Bei der stellvertretenden Stimmabgabe an der Urne nehmen die Mitglieder des Wahlbüros den Stimmrechtsausweis sowie die Wahl- und Stimmzettel der vertretenen Person nur entgegen, wenn diese den Stimmrechtsausweis unterzeichnet hat.[^34-1]
 
 <sup>2</sup> Die Vertreterin oder der Vertreter gibt den eigenen Stimmrechtsausweis ab.
 
 <sup>3</sup> Bei Wahlen und Abstimmungen in einer Schul- oder Kirchgemeinde ist nicht erforderlich, dass auch die Vertreterin oder der Vertreter dieser Gemeinde angehört.
-
-[^34-1]: Fassung gemäss RRB vom 9. Dezember 2009 (OS 64, 883; ABl 2009, 2463). In Kraft seit 1. Januar 2010.
 
 #### § 36
 
@@ -555,15 +557,17 @@ Wer während der letzten vier Wochen vor einem Urnengang den politischen Wohnsit
 
 **11**
 
-- 1\. 7. 19 - 105 § 37. <sup>1</sup> Bearbeiten Gemeindeangestellte die Antwortkuverts gemäss § 69 Abs. 2 und 3 GPR, so gehen sie wie folgt vor:
+1.10. 22 - 118 § 37.[^36-1] <sup>1</sup> Die Gemeindeangestellten prüfen die Antwortkuverts gemäss § 69 a GPR. Dabei gilt:
 
-**b. Mit Vorbearbeitung**
+**b. Mit Vorprüfung**
 
-- a. Enthält das Antwortkuvert gleich viele unterschriebene Stimmrechtsausweise wie Stimmzettelkuverts, so werden letztere ungeöffnet in die Urne gelegt.
+- a. Enthält ein Antwortkuvert gleich viele oder weniger Stimmzettelkuverts als unterzeichnete Stimmrechtsausweise, sind die unterzeichneten Stimmrechtsausweise gültig und die Stimmzettelkuverts werden ungeöffnet in die Urne gelegt.
 
-- b. In allen andern Fällen und in Zweifelsfällen legen sie die Unterlagen in das Antwortkuvert zurück, verschliessen dieses und legen es in die Urne.
+- b. Andernfalls sind die Stimmrechtsausweise ungültig und die Stimmzettelkuverts werden ungeöffnet ausgeschieden.
 
-<sup>2</sup> Sie halten täglich die Zahl der unterschriebenen und der nicht unterschriebenen Stimmrechtsausweise sowie der in die Urne gelegten Antwortkuverts fest.
+- c. In Zweifelsfällen werden die Unterlagen in das Antwortkuvert zurückgesteckt und dieses wird verschlossen in die Urne gelegt.
+
+<sup>2</sup> Sie halten täglich die Zahl der gültigen und der ungültigen Stimmrechtsausweise sowie der in die Urne gelegten Antwortkuverts fest.
 
 - 7\. Auswertung der Wahl- und Stimmzettel
 
@@ -573,19 +577,36 @@ Wer während der letzten vier Wochen vor einem Urnengang den politischen Wohnsit
 
 <sup>2</sup> Zeigt sich während des Auszählens, dass eine unter «Vereinzelte» fallende Person gewählt werden könnte, kann die Präsidentin oder der Präsident der wahlleitenden Behörde anordnen, dass auch deren Stimmen einzeln ausgezählt werden.
 
-<sup>3</sup> Bei kantonalen Wahlen werden die Entscheide nach Abs. 1 und 2 vom Statistischen Amt getroffen.[^36-1]
+<sup>3</sup> Bei kantonalen Wahlen werden die Entscheide nach Abs. 1 und 2 vom Statistischen Amt getroffen.[^36-2]
 
 **Beginn der Bearbeitung und Auszählung**
 
-§ 39. <sup>1</sup> Mit der Bearbeitung des Wahl- und Stimmmaterials darf das Wahlbüro erst am Wahl- oder Abstimmungstag beginnen, mit der Auszählung erst nach der Urnenschliessung. Die Direktion kann einen früheren Arbeitsbeginn bewilligen.[^36-1]
+§ 39.[^36-1] <sup>1</sup> Das Wahlbüro kann mit der Bearbeitung des Wahl- und Stimmmaterials am Vortag des Wahl- oder Abstimmungstages beginnen. Die Auszählung darf erst nach der Urnenschliessung erfolgen.
 
-<sup>2</sup> Die Präsidentin oder der Präsident des Wahlbüros trifft Vorkehrungen, damit der Ausgang der Wahl oder Abstimmung nicht vor Schliessung der Urnen abgeschätzt werden kann.
+<sup>2</sup> Die Bearbeitung des Stimmmaterials am Vortag umfasst folgende Handlungen:
 
-<sup>3</sup> Die wahlleitende Behörde bzw. bei kantonalen Wahlen und Abstimmungen die Direktion bestimmt den Zeitpunkt, bis zu dem die Wahl- und Stimmzettel ausgewertet sein sollen. Die Qualität der Auswertung der Wahl- und Stimmzettel geht der Einhaltung der Zeitvorgabe vor.[^36-1]
+- a. Öffnen der Stimmzettelkuverts,
 
-<sup>4</sup> Finden gleichzeitig Wahlen oder Abstimmungen auf der Ebene des Bundes, des Kantons, des Bezirks, des Kreises oder der Gemeinde statt, so werden die Wahl- und Stimmzettel in dieser Reihenfolge ausgewertet.
+- b. Trennen und Bündeln der einzelnen Stimm- und Wahlzettel nach Vorlagen bzw. Wahlen,
 
-[^36-1]: Fassung gemäss RRB vom 9. Dezember 2009 (OS 64, 883; ABl 2009, 2463). In Kraft seit 1. Januar 2010.
+- c. bei Mehrheitswahlen das Erfassen der Stimmen der Kandidierenden mit dem vom Kanton zur Verfügung gestellten Programm, aber ohne Auszählung der erfassten Stimmen,
+
+- d. bei Verhältniswahlen:
+
+- 1\. Trennen der Wahlzettel nach Listennummern sowie nach veränderten und unveränderten Listenwahlzetteln,
+
+- 2\. Bereinigen der veränderten Listenwahlzettel,
+
+- 3\. Erfassen der veränderten Listenwahlzettel mit dem vom Kanton zur Verfügung gestellten Programm.
+
+<sup>3</sup> Die Präsidentin oder der Präsident des Wahlbüros trifft Vorkehrungen, damit der Ausgang der Wahl oder Abstimmung nicht vor Schliessung der Urnen abgeschätzt werden kann.
+
+<sup>4</sup> Die wahlleitende Behörde bzw. bei kantonalen Wahlen und Abstimmungen die Direktion bestimmt den Zeitpunkt, bis zu dem die Wahl- und Stimmzettel ausgewertet sein sollen. Die Qualität der Auswertung der Wahl- und Stimmzettel geht der Einhaltung der Zeitvorgabe vor.[^36-2]
+
+<sup>5</sup> Finden gleichzeitig Wahlen oder Abstimmungen auf der Ebene des Bundes, des Kantons, des Bezirks, des Kreises oder der Gemeinde statt, so werden die Wahl- und Stimmzettel in dieser Reihenfolge ausgewertet.
+
+[^36-1]: Fassung gemäss RRB vom 31. August 2022 (OS 77, 413; ABl 2022-09-02). In Kraft seit 1. Oktober 2022.
+[^36-2]: Fassung gemäss RRB vom 9. Dezember 2009 (OS 64, 883; ABl 2009, 2463). In Kraft seit 1. Januar 2010.
 
 #### § 40
 
@@ -593,97 +614,74 @@ Wer während der letzten vier Wochen vor einem Urnengang den politischen Wohnsit
 
 Die Abläufe im Wahlbüro werden so festgelegt, dass das Stimmgeheimnis gewahrt bleibt.
 
-#### § 41
+**Vorgeprüfte Stimmzettelkuverts**
+
+§ 41.[^40-1] Stimmzettelkuverts, die von den Gemeindeangestellten im Rahmen der Vorprüfung nach § 37 in die Urne gelegt worden sind, werden gemäss § 43 weiterbearbeitet.
+
+**Bearbeitung der Antwortkuverts**
+
+§ 42.[^40-1] <sup>1</sup> Enthält ein Antwortkuvert gleich viele oder weniger Stimmzettelkuverts als unterzeichnete Stimmrechtsausweise, sind die unterzeichneten Stimmrechtsausweise gültig. Das Wahlbüro bearbeitet den Inhalt der Stimmzettelkuverts gemäss § 43 weiter.
+
+<sup>2</sup> Andernfalls sind die Stimmrechtsausweise ungültig und die Stimmzettelkuverts werden ungeöffnet ausgeschieden.
 
 **Bearbeitung der Stimmzettelkuverts**
 
-Stimmzettelkuverts, die von den Gemeindeangestellten im Rahmen der Vorbearbeitung nach § 37 in die Urne gelegt worden sind, werden gemäss § 42 lit. a und b weiterbearbeitet.
+§ 43.[^40-1] <sup>1</sup> Enthält ein Stimmzettelkuvert zur gleichen Sache nur einen Wahl- oder Stimmzettel, ist dieser gültig.
 
-#### § 42
+<sup>2</sup> Enthält ein Stimmzettelkuvert zur gleichen Sache mehrere Wahl- oder Stimmzettel, wird gemäss § 72 Abs. 2 GPR wie folgt gezählt:
 
-**Bearbeitung der Antwortkuverts a. Gleich viele Ausweise wie Stimmzettelkuverts**
+- a. Lauten die Zettel gleich, ist einer von ihnen gültig. Die restlichen sind überzählig.
 
-Enthält ein von den Gemeindeangestellten in die Urne gelegtes Antwortkuvert gleich viele unterschriebene Stimmrechtsausweise wie Stimmzettelkuverts, so wird der Inhalt jedes Stimmzettelkuverts wie folgt behandelt:
+- b. Lauten die Zettel nicht gleich, ist einer von ihnen ungültig. Die restlichen sind überzählig.
 
-- a. Enthält das Stimmzettelkuvert zur gleichen Sache nur einen Wahl- oder Stimmzettel, gilt dieser als gültig eingelegt.
-
-- b. Enthält es zur gleichen Sache mehrere Wahl- oder Stimmzettel, so gilt Folgendes:
-
-- 1\. Lauten die Zettel gleich, so gilt einer von ihnen als gültig eingelegt. Die restlichen werden mit «ungültig eingelegt» bezeichnet.
-
-- 2\. Lauten die Zettel nicht gleich, so werden alle mit «ungültig eingelegt» bezeichnet.
-
-#### § 43
-
-**b. Weniger Ausweise als Stimmzettelkuverts**
-
-Enthält das Antwortkuvert weniger unterschriebene Stimmrechtsausweise als Stimmzettelkuverts, so werden sämtliche Wahl- und Stimmzettel mit «ungültig eingelegt» bezeichnet.
-
-#### § 44
-
-**c. Mehr Ausweise als Stimmzettelkuverts**
-
-Enthält das Antwortkuvert mehr unterschriebene Stimmrechtsausweise als Stimmzettelkuverts, wird der Inhalt aller Stimmzettelkuverts mit Blick auf jede Abstimmungsvorlage und jeden Wahlgang wie folgt behandelt:
-
-- a. Liegen gleich viele oder mehr Stimmrechtsausweise als Wahl- oder Stimmzettel vor, gelten alle Zettel als gültig eingelegt.
-
-- b. Liegen weniger Stimmrechtsausweise als Wahl- oder Stimmzettel vor, so gilt Folgendes:
-
-- 1\. Lauten die Stimm- oder Wahlzettel gleich, gelten so viele als gültig eingelegt als Stimmrechtsausweise vorhanden sind. Die
-
-restlichen werden mit «ungültig eingelegt» bezeichnet.
-
-- 2\. Lauten die Stimm- oder Wahlzettel nicht gleich, werden alle mit «ungültig eingelegt» bezeichnet.
-
-#### § 45
-
-**Stempelung bei gedruckten Wahlzetteln**
-
-Standen für eine bestimmte Wahl mehrere gedruckte Wahlzettel zur Verfügung, so werden a. die brieflich eingegangenen, gültig eingelegten Wahlzettel mit einem Kontrollstempel versehen;
-
-- b. die in die Urne gelegten Wahlzettel, die keinen entsprechenden Kontrollstempel aufweisen, mit «ungültig eingelegt» bezeichnet.
+<sup>3</sup> Die Ungültigkeitsgründe gemäss §§ 72 Abs. 1 und 98 Abs. 1 GPR bleiben vorbehalten.
 
 **13**
 
-- 1\. 7. 19 - 105 § 46. Ist eine Person vor dem Wahlgang öffentlich zur Wahl vorgeschlagen worden, so wird eine Stimme selbst dann dieser Person zugerechnet, wenn die Angaben auf dem Wahlzettel
+1.10. 22 - 118 § 44.[^40-2]
+
+**Stempelung bei gedruckten Wahlzetteln**
+
+§ 45.[^40-1] <sup>1</sup> Standen für eine bestimmte Wahl mehrere gedruckte Wahlzettel zur Verfügung, wird ein Wahlzettel mit einem Kontrollstempel versehen:
+
+- a. bei der Stimmabgabe an der Urne, vor dem Einwurf in die Urne,
+
+- b. bei der brieflichen Stimmabgabe, nach der Bearbeitung des Stimmzettelkuverts.
+
+<sup>2</sup> Weist ein Wahlzettel bei der Auszählung keinen Kontrollstempel auf, ist der Wahlzettel ungültig.
+
+<sup>3</sup> Enthält bei der brieflichen Stimmabgabe ein Stimmzettelkuvert zur gleichen Sache mehrere Wahl- oder Stimmzettel ohne Kontrollstempel, ist einer von ihnen ungültig. Die restlichen sind überzählig.
+
+[^40-1]: Fassung gemäss RRB vom 31. August 2022 (OS 77, 413; ABl 2022-09-02). In Kraft seit 1. Oktober 2022.
+[^40-2]: Aufgehoben durch RRB vom 31. August 2022 (OS 77, 413; ABl 2022-09-02). In Kraft seit 1. Oktober 2022.
+
+#### § 46
 
 **Zählung bei Mehrheitswahlen**
 
-- a. auch auf eine andere, nicht vorgeschlagene Person zutreffen, oder
-
-- b. ungenau sind, aber kein begründeter Zweifel darüber besteht, dass die Stimme der vorgeschlagenen Person zukommen soll.
-
-[^45-1]: Fassung gemäss RRB vom 16. April 2014 (OS 69, 273; ABl 2014-04-25). In Kraft seit 1. Oktober 2014.
-
-#### § 47
+Ist eine Person vor dem Wahlgang öffentlich zur Wahl vorgeschlagen worden, so wird eine Stimme selbst dann dieser Person zugerechnet, wenn die Angaben auf dem Wahlzettel a. auch auf eine andere, nicht vorgeschlagene Person zutreffen, oder b. ungenau sind, aber kein begründeter Zweifel darüber besteht, dass die Stimme der vorgeschlagenen Person zukommen soll.
 
 **Protokoll**
 
-<sup>1</sup> Das Protokoll des Wahlbüros oder des Stimmkreises nennt a.[^45-1] die Zahl der Stimmberechtigten,
+§ 47.[^46-1] <sup>1</sup> Das Protokoll des Wahlbüros oder des Stimmkreises nennt a.[^46-2] die Zahl der Stimmberechtigten,
 
 - b. die Zahl der Stimmenden, gebildet aus der Summe:
 
 - 1\. der an der Urne abgegebenen Stimmrechtsausweise,
 
-- 2\. der brieflich eingegangenen unterschriebenen oder nicht unterschriebenen Stimmrechtsausweise,
+- 2\. der brieflich eingegangenen, gültigen und ungültigen Stimmrechtsausweise.
 
-- 3\. der brieflich eingegangenen Antwortkuverts ohne Stimmrechtsausweis.
-
-<sup>2</sup> Für jede Abstimmungsvorlage und für jeden Wahlgang nennt das Protokoll ferner:
-
-- a. die Zahl der eingegangenen Wahl- oder Stimmzettel und davon die Zahl der gültig eingelegten und der ungültig eingelegten Zettel,
-
-- b. unter den gültig eingelegten Wahl- oder Stimmzetteln: die Zahl der gültigen, der ungültigen und der leeren Zettel.
+<sup>2</sup> Für jede Abstimmungsvorlage und für jeden Wahlgang nennt das Protokoll ferner die Zahl der eingegangenen Wahl- oder Stimmzettel und davon die Zahl der ungültigen, der leeren und der gültigen Zettel.
 
 <sup>3</sup> Bei einer Abstimmung nennt das Protokoll ferner unter der Zahl der gültigen Stimmzettel:
 
 - a. bei der Abstimmung über eine Vorlage: die Zahl der Ja-Stimmen und der Nein-Stimmen,
 
-- b. bei der Abstimmung über eine Vorlage mit Gegenvorschlag: 1.[^47-1] für die Vorlage wie auch für den Gegenvorschlag: die Zahl der leeren Antwortfelder und der ungültigen Stimmen, die Zahl
+- b. bei der Abstimmung über eine Vorlage mit Gegenvorschlag: 1.[^46-3] für die Vorlage wie auch für den Gegenvorschlag: die Zahl der leeren Antwortfelder und der ungültigen Stimmen, die Zahl
 
 der Ja-Stimmen und die Zahl der Nein-Stimmen,
 
-2.[^47-1] für die Stichfrage: die Zahl der leeren Antwortfelder und der ungültigen Antworten sowie die Zahl der Stimmen, welche die eine oder die andere Vorlage vorziehen.
+2.[^46-3] für die Stichfrage: die Zahl der leeren Antwortfelder und der ungültigen Antworten sowie die Zahl der Stimmen, welche die eine oder die andere Vorlage vorziehen.
 
 <sup>4</sup> Bei einer Wahl nennt das Protokoll ferner unter den gültigen Wahlzetteln die Zahl a. der ungültigen Stimmen,
 
@@ -699,7 +697,9 @@ der Ja-Stimmen und die Zahl der Nein-Stimmen,
 
 <sup>6</sup> Hat eine Gemeinde ihr Gebiet in Stimmkreise eingeteilt, so werden deren Protokolle direkt der wahlleitenden Behörde übermittelt.
 
-[^47-1]: Fassung gemäss RRB vom 9. Dezember 2009 (OS 64, 883; ABl 2009, 2463). In Kraft seit 1. Januar 2010.
+[^46-1]: Fassung gemäss RRB vom 31. August 2022 (OS 77, 413; ABl 2022-09-02). In Kraft seit 1. Oktober 2022.
+[^46-2]: Fassung gemäss RRB vom 16. April 2014 (OS 69, 273; ABl 2014-04-25). In Kraft seit 1. Oktober 2014.
+[^46-3]: Fassung gemäss RRB vom 9. Dezember 2009 (OS 64, 883; ABl 2009, 2463). In Kraft seit 1. Januar 2010.
 
 #### § 48
 
@@ -725,13 +725,17 @@ der Ja-Stimmen und die Zahl der Nein-Stimmen,
 
 - a. Die Stimmendifferenz zwischen einer gewählten und einer nicht gewählten Person, die das absolute Mehr ebenfalls erreicht hat, beträgt weniger als 0,8 Prozent der Stimmen der gewählten Person.
 
-- b. Eine Person wird wegen Nichterreichens des absoluten Mehrs nicht gewählt, und die Differenz zwischen ihrer Stimmenzahl und dem absoluten Mehr beträgt weniger als 0,8 Prozent des absoluten Mehrs.
-
 **15**
 
-- 1\. 7. 19 - 105 § 50. <sup>1</sup> Hat die wahlleitende Behörde die Ermittlung des Ergebnisses einer kommunalen Wahl oder Abstimmung dem Wahlbüro übertragen (§ 75 Abs. 4 GPR), so können die Protokollangaben gemäss § 47 dieser Verordnung und die Ergebnisse der Wahl oder Abstimmung (§ 80 GPR) in einem einzigen Protokoll festgehalten werden.
+1.10. 22 - 118 b. Eine Person wird wegen Nichterreichens des absoluten Mehrs nicht gewählt, und die Differenz zwischen ihrer Stimmenzahl und dem absoluten Mehr beträgt weniger als 0,8 Prozent des absoluten Mehrs.
+
+[^49-1]: Fassung gemäss RRB vom 31. August 2022 (OS 77, 413; ABl 2022-09-02). In Kraft seit 1. Oktober 2022.
+
+#### § 50
 
 **Auswertungs- und Ergebnisprotokoll**
+
+<sup>1</sup> Hat die wahlleitende Behörde die Ermittlung des Ergebnisses einer kommunalen Wahl oder Abstimmung dem Wahlbüro übertragen (§ 75 Abs. 5 GPR), können die Protokollangaben gemäss § 47 dieser Verordnung und die Ergebnisse der Wahl oder Abstimmung (§ 80 GPR) in einem einzigen Protokoll festgehalten werden.[^49-1]
 
 <sup>2</sup> Es gelten die Formvorschriften von § 74 Abs. 2 GPR.
 
@@ -743,21 +747,19 @@ der Ja-Stimmen und die Zahl der Nein-Stimmen,
 
 **Mehrfachkandidaturen**
 
-§ 52.[^49-1] Personen, deren Name auf mehreren Wahlvorschlägen verschiedener Wahlkreise steht, werden auf allen Wahlvorschlägen gestrichen, es sei denn, sie entscheiden sich auf Nachfrage des Statistischen Amtes für einen der Wahlvorschläge.
-
-[^49-1]: Fassung gemäss RRB vom 9. Dezember 2009 (OS 64, 883; ABl 2009, 2463). In Kraft seit 1. Januar 2010.
-
-#### § 53
+§ 52.[^50-1] Eine Person darf nur auf einem Wahlvorschlag zur Wahl vorgeschlagen werden. Andernfalls entfernt das Statistische Amt ihren Namen von allen Wahlvorschlägen.
 
 **Listen**
 
-Die Angaben auf den Listen entsprechen jenen auf gedruckten Wahlvorschlägen (§ 26 Abs. 1). Die Parteizugehörigkeit wird nicht erwähnt.
+§ 53.[^50-1] Die Angaben auf den Listen entsprechen jenen auf den gedruckten Wahlzetteln gemäss § 26 Abs. 1. Die Parteizugehörigkeit wird nicht erwähnt.
+
+[^50-1]: Fassung gemäss RRB vom 31. August 2022 (OS 77, 413; ABl 2022-09-02). In Kraft seit 1. Oktober 2022.
 
 #### § 54
 
 **Zusammenstellung der Kandidierenden**
 
-<sup>1</sup> Die Kreiswahlvorsteherschaft stellt die Namen der Personen, die auf den Listen des Wahlkreises genannt sind, in alphabetischer Reihenfolge zusammen, unter Angabe der Listenbezeichnung und der Listennummer.
+<sup>1</sup> Das Statistische Amt stellt die Namen der Personen, die auf den Listen des Wahlkreises genannt sind, in alphabetischer Reihenfolge zusammen, unter Angabe der Listenbezeichnung und der Listennummer.[^50-1]
 
 <sup>2</sup> Sie macht die Zusammenstellung den Wahlbüros der Gemeinden bekannt.
 
@@ -791,17 +793,15 @@ Die Angaben auf den Listen entsprechen jenen auf gedruckten Wahlvorschlägen (§
 
 <sup>2</sup> Enthält ein Wahlzettel ausschliesslich Zusatzstimmen, ist er ungültig.
 
-#### § 57
+<sup>3</sup> Bei fehlender oder ersatzlos gestrichener Listenbezeichnung und Listennummer zählen die leeren Linien als leere Stimmen.[^56-1]
 
 **Protokoll**
 
-<sup>1</sup> Das Protokoll des Wahlbüros oder des Stimmkreises nennt a. die Zahl der Stimmberechtigten und der Stimmenden gemäss § 47 Abs. 1,
+§ 57. <sup>1</sup> Das Protokoll des Wahlbüros oder des Stimmkreises nennt[^56-2] a. die Zahl der Stimmberechtigten und der Stimmenden gemäss § 47 Abs. 1,
 
-- b. die Zahl der eingegangenen Wahlzettel und davon die Zahl der gültig eingelegten und der ungültig eingelegten Zettel,
+- b. die Zahl der eingegangenen Wahlzettel und davon die Zahl der ungültigen und der gültigen Zettel,
 
-- c. unter den gültig eingelegten Wahlzetteln: die Zahl der gültigen und der ungültigen Zettel,
-
-- d. unter den gültigen Wahlzetteln:
+- c. unter den gültigen Wahlzetteln:
 
 - 1\. die Zahl der Stimmen, die jede kandidierende Person erhalten hat (Kandidatenstimmen),
 
@@ -809,11 +809,13 @@ Die Angaben auf den Listen entsprechen jenen auf gedruckten Wahlvorschlägen (§
 
 - 3\. die Summe der Kandidaten- und Zusatzstimmen jeder Liste (Parteistimmen).
 
+- d. die Zahl der leeren Stimmen.
+
 <sup>2</sup> Das Protokoll gibt ferner Aufschluss über a. die technischen Hilfsmittel, die für die Zählung der Wahlzettel eingesetzt worden sind,
 
 - b. Ordnungswidrigkeiten und die getroffenen Anordnungen.
 
-<sup>3</sup> Die Protokolle des Wahlbüros oder der Stimmkreise werden direkt dem Statistischen Amt übermittelt.[^57-1]
+<sup>3</sup> Die Protokolle des Wahlbüros oder der Stimmkreise werden direkt dem Statistischen Amt übermittelt.[^56-3]
 
 **Publikation**
 
@@ -821,31 +823,30 @@ Die Angaben auf den Listen entsprechen jenen auf gedruckten Wahlvorschlägen (§
 
 - a. für jeden Wahlkreis den zusammengezogenen Inhalt der Protokolle der Wahlbüros und Stimmkreise, ferner die Wählerzahl jeder Liste, die Fünf-Prozent-Grenze gemäss § 102 Abs. 3 GPR und die Angabe, ob eine Liste diesen Grenzwert erreicht hat,
 
-- b. die Wählerzahl jeder Listengruppe, den Kantons-Wahlschlüssel und den Sitzanspruch jeder Listengruppe,
+**17**
+
+1.10. 22 - 118 b. die Wählerzahl jeder Listengruppe, den Kantons-Wahlschlüssel und den Sitzanspruch jeder Listengruppe,
 
 - c. in einer Tabelle den Sitzanspruch jedes Wahlkreises und jeder Listengruppe, die Parteistimmen jeder Liste, die Wahlkreis-Divisoren, die Listengruppen-Divisoren und die jeder Liste zugewiesene Zahl von Sitzen,
 
 - d. die Namen der gewählten Mitglieder des Kantonsrates.
 
-**17**
-
-- 1\. 7. 19 - 105
-
 - 10\. Weitere Wahlen
 
 **Ständerat**
 
-§ 59.[^57-2], <sup>23</sup> Der Versand des Stimmmaterials an Auslandschweizerinnen und Auslandschweizer und deren Stimmabgabe an der Urne richten sich nach Art. 12 und 13 der Auslandschweizerverordnung vom 7. Oktober 2015[^57-3].
-
-[^57-1]: Fassung gemäss RRB vom 9. Dezember 2009 (OS 64, 883; ABl 2009, 2463). In Kraft seit 1. Januar 2010.
-[^57-2]: Aufgehoben durch RRB vom 3. November 2010 (OS 65, 767; ABl 2010, 2429). In Kraft seit 1. Januar 2011.
-[^57-3]: SR 195.11.
-
-#### § 60
+§ 59.[^56-4], <sup>23</sup> Der Versand des Stimmmaterials an Auslandschweizerinnen und Auslandschweizer und deren Stimmabgabe an der Urne richten sich nach Art. 12 und 13 der Auslandschweizerverordnung vom 7. Oktober 2015[^56-5].
 
 **Nationalrat**
 
-Die Bereinigungsfrist gemäss Art. 29 Abs. 4 des Bundesgesetzes über die politischen Rechte endet am dritten Montag nach dem Schlusstermin für die Wahlanmeldung gemäss § 110 GPR.
+§ 60.[^56-2] Die Bereinigungsfrist gemäss Art. 29 Abs. 4 des Bundesgesetzes vom 17. Dezember 1976 über die politischen Rechte[^56-6] endet am zweiten Montag nach dem Schlusstermin für die Wahlanmeldung gemäss § 110 GPR.
+
+[^56-1]: Eingefügt durch RRB vom 31. August 2022 (OS 77, 413; ABl 2022-09-02). In Kraft seit 1. Oktober 2022.
+[^56-2]: Fassung gemäss RRB vom 31. August 2022 (OS 77, 413; ABl 2022-09-02). In Kraft seit 1. Oktober 2022.
+[^56-3]: Fassung gemäss RRB vom 9. Dezember 2009 (OS 64, 883; ABl 2009, 2463). In Kraft seit 1. Januar 2010.
+[^56-4]: Aufgehoben durch RRB vom 3. November 2010 (OS 65, 767; ABl 2010, 2429). In Kraft seit 1. Januar 2011.
+[^56-5]: SR 195.11.
+[^56-6]: SR 161.1.
 
 ### III. Teil: Kantonale Initiativen
 
@@ -903,15 +904,17 @@ Bei der Veröffentlichung der Volksinitiative im Amtsblatt wird neben den in § 
 
 § 65 b.[^64-1] <sup>1</sup> Hat der Regierungsrat dem Kantonsrat beantragt, eine Initiative in der Form der allgemeinen Anregung vollständig ungültig zu erklären, entscheidet der Kantonsrat darüber innert der Frist nach § 130 Abs. 2 Satz 2 GPR.
 
+**19**
+
+1.10. 22 - 118
+
 <sup>2</sup> Beschliesst der Kantonsrat, eine Initiative in der Form der allgemeinen Anregung ohne Gegenvorschlag umzusetzen, unterbreitet ihm der Regierungsrat innert 16 Monaten nach Einreichung der Initiative Bericht und Antrag über die Umsetzungsvorlage. Der Kantonsrat beschliesst darüber innert 23 Monaten nach Einreichung der Initiative.
 
 <sup>3</sup> Beschliesst der Kantonsrat, die Initiative umzusetzen und einen Gegenvorschlag zur Umsetzungsvorlage auszuarbeiten, so unterbreitet ihm der Regierungsrat innert 19 Monaten nach Einreichung der Initiative Bericht und Antrag über die Umsetzungsvorlage sowie den Gegenvorschlag. Der Kantonsrat beschliesst darüber innert 29 Monaten nach Einreichung der Initiative.
 
-**19**
-
-- 1\. 7. 19 - 105 § 65 c.[^64-1] <sup>1</sup> Die Staatskanzlei teilt der zuständigen Direktion den Beginn der Sammelfrist einer Volksinitiative mit. Die zuständige Direktion teilt der Staatskanzlei mit, welche Form die Initiative aufweist (Art. 25 Abs. 1 KV[^64-3].
-
 **Information und Terminplanung**
+
+§ 65 c.[^64-1] <sup>1</sup> Die Staatskanzlei teilt der zuständigen Direktion den Beginn der Sammelfrist einer Volksinitiative mit. Die zuständige Direktion teilt der Staatskanzlei mit, welche Form die Initiative aufweist (Art. 25 Abs. 1 KV[^64-3].
 
 <sup>2</sup> Die Direktion der Justiz und des Innern teilt der Staatskanzlei die Einreichung der Unterschriftenlisten für eine Volksinitiative mit.
 
@@ -944,7 +947,7 @@ Bei der Veröffentlichung der Volksinitiative im Amtsblatt wird neben den in § 
 
 <sup>2</sup> Für die Begründung von Einzel- und Behördeninitiativen im Kantonsrat gilt § 138 c GPR sinngemäss.[^67-1]
 
-[^67-1]: Fassung gemäss Berichtigung vom 24. April 2019 (OS 74, 171). In Kraft seit 24. April 2019. 1. 7. 19 - 105 23
+[^67-1]: Fassung gemäss Berichtigung vom 24. April 2019 (OS 74, 171). In Kraft seit 24. April 2019.
 
 ### IV. Teil: Kantonales Referendum
 
@@ -981,9 +984,11 @@ Bei der Veröffentlichung der Volksinitiative im Amtsblatt wird neben den in § 
 
 <sup>3</sup> Der Verbandsvorstand kann den Stimmberechtigten einen Gegenvorschlag zur Initiative beantragen. In diesem Fall findet die Volksabstimmung über die Initiative und den Gegenvorschlag innert 18 Monaten nach Einreichung der Initiative statt. Für den Gegenvorschlag gilt § 138 b GPR.[^hVTeilVolksinitia-3]
 
-**c. Rückzug**
+**21**
 
-§ 71.[^hVTeilVolksinitia-4],[^hVTeilVolksinitia-5] <sup>1</sup> Die Mehrheit der Mitglieder des Initiativkomitees kann die Volksinitiative mit schriftlicher Erklärung an den Verbandsvorstand zurückziehen.
+1.10. 22 - 118 § 71.[^hVTeilVolksinitia-4],[^hVTeilVolksinitia-5] <sup>1</sup> Die Mehrheit der Mitglieder des Initiativkomitees kann die Volksinitiative mit schriftlicher Erklärung an den Verbandsvorstand zurückziehen.
+
+**c. Rückzug**
 
 <sup>2</sup> Der Rückzug ist nicht mehr möglich, nachdem der Verbandsvorstand die Urnenabstimmung angeordnet hat.
 
@@ -1004,10 +1009,6 @@ Bei der Veröffentlichung der Volksinitiative im Amtsblatt wird neben den in § 
 Für Volksinitiativen in Zweckverbänden mit Delegiertenversammlung gelten §§ 122–138 e GPR unter Beachtung folgender Besonderheiten[^hVTeilVolksinitia-3]:
 
 - a. An die Stelle des Regierungsrates oder der Direktion tritt der Verbandsvorstand, an die Stelle des Kantonsrates die Delegiertenversammlung.
-
-**21**
-
-- 1\. 7. 19 - 105
 
 - b. An die Stelle des Amtsblattes tritt das Publikationsorgan des Zweckverbands.
 
@@ -1045,7 +1046,7 @@ Für Volksinitiativen in Zweckverbänden mit Delegiertenversammlung gelten §§ 
 
 <sup>3</sup> Für die Teilnahme der Auslandschweizerinnen und Auslandschweizer am Urnengang vom 28. September 2014 gelten die bisherigen Regelungen und Zuständigkeiten.
 
-[^hÜbergangsbestimmunge-1]: Eingefügt durch RRB vom 16. April 2014 (OS 69, 273; ABl 2014-04-25). In Kraft seit 1. Juli 2014.
+[^hÜbergangsbestimmunge-1]: Eingefügt durch RRB vom 16. April 2014 (OS 69, 273; ABl 2014-04-25). In Kraft seit 1. Juli 2014. 1.10. 22 - 118 23
 
 ## Weitere Fussnoten
 
