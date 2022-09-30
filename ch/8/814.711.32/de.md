@@ -3,18 +3,18 @@ sr: "814.711.32"
 title: Verordnung des EDI vom 24. März 2021 über die Sachkundenachweise für Behandlungen zu kosmetischen Zwecken mit nichtionisierender Strahlung und Schall
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/207"
 language: de
-version: 2022-04-01
+version: 2022-10-01
 adopted: 2021-03-24
 in_force: 2021-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/207/20220401/de/xml/fedlex-data-admin-ch-eli-cc-2021-207-20220401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/207/20220401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/207/20221001/de/xml/fedlex-data-admin-ch-eli-cc-2021-207-20221001-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/207/20221001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des EDI über die Sachkundenachweise für Behandlungen zu kosmetischen Zwecken mit nichtionisierender Strahlung und Schall
 
-vom 24. März 2021 (Stand am 1. April 2022)
+vom 24. März 2021 (Stand am 1. Oktober 2022)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -68,24 +68,24 @@ Die im Anhang aufgeführten Prüfungsstellen melden dem BAG jährlich bis späte
 
 Diese Verordnung tritt am 1. Mai 2021 in Kraft.
 
-Anhang*[^t-1]*
+Anhang[^t-1]
 
 (Art. 1)
 
 ## Sachkundenachweise
 
-[^t-1]: Fassung gemäss Ziff. I der V des EDI vom 8. Febr. 2022, in Kraft seit 1. April 2022 ([AS 2022 121](https://fedlex.data.admin.ch/eli/oc/2022/121)).
+[^t-1]: Fassung gemäss Ziff. I der V des EDI vom 8. Febr. 2022 ([AS 2022 121](https://fedlex.data.admin.ch/eli/oc/2022/121)). Bereinigt gemäss Ziff. I der V des EDI vom 30. Aug. 2022, in Kraft seit 1. Okt. 2022 ([AS 2022 502](https://fedlex.data.admin.ch/eli/oc/2022/502)).
 
 - 1\. Die nachstehenden Sachkundenachweise berechtigen zur Durchführung der Behandlungen nach Anhang 2 Ziffer 1 V-NISSG:
 
 <table>
-<tr><td>Bezeichnung Sachkundenachweis (SN)</td><td>Zulässige Behandlungen nach Anhang 2 Ziffer 1 V-NISSG</td><td>Prüfungsstellen</td></tr>
-<tr><td>SN Laser-Akupunktur</td><td>Akupunktur mittels Laser</td><td>[tab]</td></tr>
-<tr><td>SN Haarentfernung mit Laser</td><td>Entfernung von Haaren mit Laser</td><td>– ASEPIB - Association Suisse d’Esthéticiennes Propriétaires d’Instituts de Beauté, Rue des Platanes 53, 1752 Villars-sur-Glâne – Schweizerische Gesellschaft für medizinische Kosmetik SGMK, Dorfstrasse 19a, 6340 Baar – Schweizerischer Laserschutzverband, Leimgrubenweg 9, 4053 Basel</td></tr>
-<tr><td>SN Haarentfernung mit hochenergetisch gepulstem nichtkohärenten Licht (IPL)</td><td>Entfernung von Haaren mit hochenergetisch gepulstem nichtkohärentem Licht (IPL)</td><td>– ASEPIB – Association Suisse d’Esthéticiennes Propriétaires d’Instituts de Beauté, Rue des Platanes 53, 1752 Villars-sur-Glâne – Schweizerische Gesellschaft für medizinische Kosmetik SGMK, Dorfstrasse 19a, 6340 Baar</td></tr>
-<tr><td>SN Permanent-Make-up und Tattoo</td><td>Entfernung von Permanent-Make-up und Tätowierungen mittels Laser vorbehältlich Anhang 2 Ziffer 2.2 V‑NISSG</td><td></td></tr>
-<tr><td>SN Haut und Pigmentierung</td><td>Behandlung von Akne, Falten, Narben, postinflammatorischer Hyperpigmentierung, Striae sowie Couperose, Blutschwämmchen und Spinnennävi, die kleiner als oder gleich 3 mm sind vorbehältlich Anhang 2 Ziffer 2.2 V-NISSG</td><td>– ASEPIB – Association Suisse d’Esthéticiennes Propriétaires d’Instituts de Beauté, Rue des Platanes 53, 1752 Villars-sur-Glâne – Schweizerische Gesellschaft für medizinische Kosmetik SGMK, Dorfstrasse 19a, 6340 Baar</td></tr>
-<tr><td>SN Cellulite und Fettpolster</td><td>Behandlung von Cellulite und Fettpolster</td><td>– ASEPIB – Association Suisse d’Esthéticiennes Propriétaires d’Instituts de Beauté, Rue des Platanes 53, 1752 Villars-sur-Glâne – Schweizerische Gesellschaft für medizinische Kosmetik SGMK, Dorfstrasse 19a, 6340 Baar</td></tr>
+<tr><th>Bezeichnung Sachkundenachweis (SN)</th><th>Zulässige Behandlungen nach Anhang 2 Ziffer 1 V-NISSG</th><th>Prüfungsstellen</th></tr>
+<tr><td>SN Laser-Akupunktur</td><td>Akupunktur mittels Laser</td><td></td></tr>
+<tr><td>SN Haarentfernung mit Laser</td><td>Entfernung von Haaren mit Laser</td><td>– ASEPIB - Association Suisse d’Esthéticiennes Propriétaires d’Instituts de Beauté, Rue des Platanes 53, 1752 Villars-sur-Glâne – AESI Associazione Estetiste della Svizzera Italiana, A. Feradign 11, 6678 Lodano – CarolineSaintPierre Medizinische Kosmetik-Fachschulen, Freie Strasse 17, 4001 Basel – Schweizerische Gesellschaft für medizinische Kosmetik SGMK, Dorfstrasse 19a, 6340 Baar – Schweizerischer Laserschutzverband, Leimgrubenweg 9, 4053 Basel – Ästhetik Verband Schweiz (AVS)[^annexu1-lvlu1-1], Freiburgstrasse 19, 3150 Schwarzenburg</td></tr>
+<tr><td>SN Haarentfernung mit hochenergetisch gepulstem nichtkohärenten Licht (IPL)</td><td>Entfernung von Haaren mit hochenergetisch gepulstem nichtkohärentem Licht (IPL)</td><td>– ASEPIB - Association Suisse d’Esthéticiennes Propriétaires d’Instituts de Beauté, Rue des Platanes 53, 1752 Villars-sur-Glâne – AESI Associazione Estetiste della Svizzera Italiana, A. Feradign 11, 6678 Lodano – Schweizerische Gesellschaft für medizinische Kosmetik SGMK, Dorfstrasse 19a, 6340 Baar – Ästhetik Verband Schweiz (AVS), Freiburgstrasse 19, 3150 Schwarzenburg</td></tr>
+<tr><td>SN Permanent-Make-up und Tattoo</td><td>Entfernung von Permanent-Make-up und Tätowierungen mittels Laser vorbehältlich Anhang 2 Ziffer 2.2 V‑NISSG</td><td>– ASEPIB - Association Suisse d’Esthéticiennes Propriétaires d’Instituts de Beauté, Rue des Platanes 53, 1752 Villars-sur-Glâne – AESI Associazione Estetiste della Svizzera Italiana, A. Feradign 11, 6678 Lodano – Schweizerische Gesellschaft für medizinische Kosmetik SGMK, Dorfstrasse 19a, 6340 Baar – Schweizerischer Laserschutzverband, Leimgrubenweg 9, 4053 Basel</td></tr>
+<tr><td>SN Haut und Pigmentierung</td><td>Behandlung von Akne, Falten, Narben, postinflammatorischer Hyperpigmentierung, Striae sowie Couperose, Blutschwämmchen und Spinnennävi, die kleiner als oder gleich 3 mm sind vorbehältlich Anhang 2 Ziffer 2.2 V-NISSG</td><td>– ASEPIB – Association Suisse d’Esthéticiennes Propriétaires d’Instituts de Beauté, Rue des Platanes 53, 1752 Villars-sur-Glâne – AESI Associazione Estetiste della Svizzera Italiana, A. Feradign 11, 6678 Lodano – Schweizerische Gesellschaft für medizinische Kosmetik SGMK, Dorfstrasse 19a, 6340 Baar – Schweizerischer Laserschutzverband, Leimgrubenweg 9, 4053 Basel</td></tr>
+<tr><td>SN Cellulite und Fettpolster</td><td>Behandlung von Cellulite und Fettpolster</td><td>– ASEPIB - Association Suisse d’Esthéticiennes Propriétaires d’Instituts de Beauté, Rue des Platanes 53, 1752 Villars-sur-Glâne – AESI Associazione Estetiste della Svizzera Italiana, A. Feradign 11, 6678 Lodano – Schweizerische Gesellschaft für medizinische Kosmetik SGMK, Dorfstrasse 19a, 6340 Baar – Schweizerischer Laserschutzverband, Leimgrubenweg 9, 4053 Basel</td></tr>
 <tr><td>SN Nagelpilz</td><td>Behandlung von Nagelpilz</td><td></td></tr>
 </table>
 
@@ -96,3 +96,7 @@ Anhang*[^t-1]*
 - d. Zulässige Behandlung gemäss Anhang Ziffer 1 dieser Verordnung und Anhang 2 Ziffer 1 V-NISSG;
 - e. Name der Prüfungsstelle gemäss Anhang Ziffer 1;
 - f. Daten und Orte der Prüfungen.
+- [tab]
+- [tab]
+
+[^annexu1-lvlu1-1]: Die Bezeichnung der Prüfungsstelle wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
