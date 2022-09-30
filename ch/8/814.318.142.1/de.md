@@ -4,11 +4,11 @@ title: Luftreinhalte-Verordnung vom 16. Dezember 1985 (LRV)
 short: LRV
 eli: "https://fedlex.data.admin.ch/eli/cc/1986/208_208_208"
 language: de
-version: 2022-01-01
+version: 2022-10-01
 adopted: 1985-12-16
 in_force: 1986-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1986-208_208_208-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20221001/de/xml/fedlex-data-admin-ch-eli-cc-1986-208_208_208-20221001-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20221001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20220101/de"
 
 (LRV)
 
-vom 16. Dezember 1985 (Stand am 1. Januar 2022)
+vom 16. Dezember 1985 (Stand am 1. Oktober 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -316,7 +316,7 @@ Bei Verkehrsanlagen ordnet die Behörde alle technisch und betrieblich mögliche
 
 Steht fest oder ist zu erwarten, dass Fahrzeuge oder Verkehrsanlagen übermässige Immissionen verursachen, so richtet sich das Verfahren nach den Artikeln 31–34.
 
-### 4*a*. Abschnitt:**** Anforderungen an Baumaschinen und deren Partikelfiltersysteme
+### 4*a*. Abschnitt: Anforderungen an Baumaschinen und deren Partikelfiltersysteme
 
 [^chap2-sec4a-1]
 
@@ -328,7 +328,7 @@ Steht fest oder ist zu erwarten, dass Fahrzeuge oder Verkehrsanlagen übermässi
 
 <sup>1</sup> Maschinen und Geräte für den Einsatz auf Baustellen mit einer Leistung des Verbrennungsmotors mit Kompressionszündung von mehr als 18 kW (Baumaschinen) müssen die Anforderungen nach Anhang 4 Ziffer 3 einhalten.
 
-<sup>2</sup> ...[^19a-1]
+<sup>2</sup> …[^19a-1]
 
 <sup>3</sup> Baumaschinen dürfen nur mit einem Partikelfiltersystem betrieben werden, dessen Konformität mit den Anforderungen nach Anhang 4 Ziffern 32 und 33 nachgewiesen ist.
 
@@ -370,7 +370,7 @@ Der Nachweis der Konformität umfasst:
 [^19b-3]: Eingefügt durch Ziff. I der V vom 11. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
 [^19b-4]: Fassung gemäss Ziff. I der V vom 14. Okt. 2015, in Kraft seit 16. Nov. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
 
-### 5. Abschnitt: ...
+### 5. Abschnitt: …
 
 #### Art. 20
 
@@ -384,7 +384,7 @@ Der Nachweis der Konformität umfasst:
 
 [^20a-1]: Eingefügt durch Ziff. I der V vom 23. Juni 2004 ([AS 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)). Aufgehoben durch Ziff. I der V vom 20. Okt. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)).
 
-### 5*a*. Abschnitt:**** Anforderungen an Maschinen und Geräte mit Verbrennungsmotor
+### 5*a*. Abschnitt: Anforderungen an Maschinen und Geräte mit Verbrennungsmotor
 
 [^chap2-sec5a-1]
 
@@ -414,7 +414,7 @@ Der Nachweis der Konformität umfasst:
 [^20c-1]: Siehe Fussnote zu Art. 19*b* Abs. 1<sup>bis</sup>.
 [^20c-2]: [SR 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
 
-### 5*b*. Abschnitt: ...
+### 5*b*. Abschnitt: …
 
 #### Art. 20d und 20e
 
@@ -464,7 +464,7 @@ Wer gewerbsmässig Treibstoffe einführt oder anbietet, muss dem Abnehmer oder V
 
 <sup>2</sup> Soll für unverbleites Benzin eine Anlage verwendet werden, die vorher Bleibenzin enthielt, so muss der Inhaber die Anlage vorher gründlich reinigen oder durch andere Massnahmen dafür sorgen, dass sie keine übermässigen Bleirückstände enthält.
 
-### 8. Abschnitt:**** Verbrennen von Abfällen
+### 8. Abschnitt: Verbrennen von Abfällen
 
 [^chap2-sec8-1]
 
@@ -702,7 +702,7 @@ Die Verordnung vom 10. Dezember 1984[^41-1] über Luftreinhalte-Massnahmen bei F
 
 <sup>3</sup> Für bereits bestehende übermässige Immissionen sind die Massnahmenpläne nach Artikel 3l innert dreier Jahre nach Inkrafttreten dieser Verordnung zu erstellen.
 
-### 3*a*. Abschnitt:...
+### 3*a*. Abschnitt:…
 
 #### Art. 42a
 
@@ -716,25 +716,25 @@ Die Verordnung vom 10. Dezember 1984[^41-1] über Luftreinhalte-Massnahmen bei F
 
 Diese Verordnung tritt am 1. März 1986 in Kraft.
 
-## Übergangsbestimmungen der Änderung vom 20. November 1991****
+## Übergangsbestimmungen der Änderung vom 20. November 1991
 
 [^u1-1]
 
 [^u1-1]: [AS 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124). Aufgehoben durch Ziff. IV 30 der V vom 22. Aug. 2007 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Jan. 2008 ([AS 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
-## Übergangsbestimmungen der Änderung vom 15. Dezember 1997****
+## Übergangsbestimmungen der Änderung vom 15. Dezember 1997
 
 [^u2-1]
 
 [^u2-1]: [AS 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223). Aufgehoben durch Ziff. IV 30 der V vom 22. Aug. 2007 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Jan. 2008 ([AS 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
-## Übergangsbestimmungen der Änderung vom 25. August 1999****
+## Übergangsbestimmungen der Änderung vom 25. August 1999
 
 [^u3-1]
 
 [^u3-1]: [AS 1999 2498](https://fedlex.data.admin.ch/eli/oc/1999/386). Aufgehoben durch Ziff. IV 30 der V vom 22. Aug. 2007 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Jan. 2008 ([AS 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
-## Übergangsbestimmungen der Änderung vom 30. April 2003****
+## Übergangsbestimmungen der Änderung vom 30. April 2003
 
 [^u4-1]
 
@@ -744,7 +744,7 @@ Diese Verordnung tritt am 1. März 1986 in Kraft.
 
 <sup>2</sup> Für Anlagen, die nach dem 1. Juli 2003 sanierungspflichtig werden, aber bereits die vorsorglichen Emissionsbegrenzungen auf Grund der bisherigen Bestimmungen erfüllen, gewährt die Behörde abweichend von Artikel 10 Sanierungsfristen von fünf bis zehn Jahren. Vorbehalten bleiben die Bestimmungen von Artikel 10 Absatz 2 Buchstaben a und c.
 
-## Schlussbestimmungen der Änderung vom 23. Juni 2004****
+## Schlussbestimmungen der Änderung vom 23. Juni 2004
 
 [^u5-1]
 
@@ -752,14 +752,14 @@ Diese Verordnung tritt am 1. März 1986 in Kraft.
 
 <sup>1</sup> Für Anlagen, die gemäss der Änderung vom 23. Juni 2004 sanierungspflichtig werden, aber bereits die vorsorglichen Emissionsbegrenzungen auf Grund der bisherigen Bestimmungen erfüllen, gewährt die Behörde abweichend von Artikel 10 Sanierungsfristen von sechs bis zehn Jahren. Vorbehalten bleiben die Bestimmungen von Artikel 10 Absatz 2 Buchstaben a und c.
 
-<sup>2</sup> ...[^u5-2]
+<sup>2</sup> …[^u5-2]
 
 <sup>3</sup> Motorenbenzin und Dieselöl, welche die bisherigen Anforderungen nach Anhang 5 dieser Verordnung[^u5-3] erfüllen, dürfen aus zugelassenen Lagern, Pflichtlagern und aus Lagern der Armee bis zum 31. Dezember 2008 in Verkehr gebracht werden.
 
 [^u5-2]: Aufgehoben durch Ziff. IV der V vom 14. Okt. 2015, mit Wirkung seit 16. Nov. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
 [^u5-3]: [AS 1999 2498](https://fedlex.data.admin.ch/eli/oc/1999/386)
 
-## Übergangsbestimmungen zur Änderung vom 4. Juli 2007****
+## Übergangsbestimmungen zur Änderung vom 4. Juli 2007
 
 [^u6-1]
 
@@ -771,7 +771,7 @@ Diese Verordnung tritt am 1. März 1986 in Kraft.
 
 <sup>3</sup> Holzfeuerungen dürfen bis zum 31. Dezember 2009 ohne Nachweis der Konformität in Verkehr gebracht werden, wenn sie die Anforderungen von Anhang 4 erfüllen. Diese gelten insbesondere als erfüllt, wenn die Holzfeuerungen nach dem 31. Dezember 2003 von Holzenergie Schweiz mit dem Qualitätssiegel für Holzfeuerungen ausgezeichnet wurden.
 
-## Übergangsbestimmungen zur Änderung vom 19. September 2008****
+## Übergangsbestimmungen zur Änderung vom 19. September 2008
 
 [^u7-1]
 
@@ -788,13 +788,13 @@ Diese Verordnung tritt am 1. März 1986 in Kraft.
 - a. mit Baujahr zwischen 2000 und 2008: ab dem 1. Mai 2010, wenn sie auf Baustellen der Massnahmenstufe A der Richtlinie vom 1. September 2002 des Bundesamtes für Umwelt über Luftreinhaltung auf Baustellen betrieben werden;
 - b. mit Baujahr vor 2000: ab dem 1. Mai 2015.
 
-## Übergangsbestimmungen zur Änderung vom 18. Juni 2010****
+## Übergangsbestimmungen zur Änderung vom 18. Juni 2010
 
 [^u8-1]
 
 [^u8-1]: [AS 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395). Aufgehoben durch Ziff. IV der V vom 11. April 2018, mit Wirkung seit 1. Juni 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
 
-## Übergangsbestimmungen zur Änderung vom 14. Oktober 2015****
+## Übergangsbestimmungen zur Änderung vom 14. Oktober 2015
 
 [^u9-1]
 
@@ -802,7 +802,7 @@ Diese Verordnung tritt am 1. März 1986 in Kraft.
 
 Für stationäre Verbrennungsmotoren und Gasturbinen, die gemäss der Änderung vom 14. Oktober 2015 sanierungspflichtig werden, aber bereits die vorsorglichen Emissionsbegrenzungen aufgrund der bisherigen Bestimmungen erfüllen, gewährt die Behörde abweichend von Artikel 10 Sanierungsfristen von sechs bis zehn Jahren. Vorbehalten bleiben die Bestimmungen von Artikel 10 Absatz 2 Buchstaben a und c.
 
-## Übergangsbestimmungen zur Änderung vom 11. April 2018****
+## Übergangsbestimmungen zur Änderung vom 11. April 2018
 
 [^u10-1]
 
@@ -814,7 +814,7 @@ Für stationäre Verbrennungsmotoren und Gasturbinen, die gemäss der Änderung 
 
 <sup>3</sup> Die Emissionsgrenzwerte für Feststoffe nach Anhang 3 Ziffern 511 Absatz 1 und 522 Absatz 1 für Feuerungen bis 70 kW Feuerungswärmeleistung gelten ab dem 1. Juni 2019.
 
-## Übergangsbestimmungen zur Änderung vom 12. Februar 2020****
+## Übergangsbestimmungen zur Änderung vom 12. Februar 2020
 
 [^u11-1]
 
@@ -822,7 +822,7 @@ Für stationäre Verbrennungsmotoren und Gasturbinen, die gemäss der Änderung 
 
 Für Anlagen nach Anhang 2 Ziffer 551, die gemäss der Änderung vom 12. Februar 2020 sanierungspflichtig werden, gewährt die Behörde abweichend von Artikel 10 Sanierungsfristen von sechs bis acht Jahren. Vorbehalten bleiben die Bestimmungen von Artikel 10 Absatz 2 Buchstaben a und c.
 
-## Übergangsbestimmungen zur Änderung vom 20. Oktober 2021****
+## Übergangsbestimmungen zur Änderung vom 20. Oktober 2021
 
 [^u12-1]
 
@@ -830,7 +830,24 @@ Für Anlagen nach Anhang 2 Ziffer 551, die gemäss der Änderung vom 12. Februar
 
 Für Zementöfen und Kalkklinkeröfen, die gemäss der Änderung vom 20. Oktober 2021 sanierungspflichtig werden, aber die vorsorglichen Emissionsbegrenzungen nach den bisherigen Bestimmungen erfüllen, gewährt die Behörde abweichend von Artikel 10 Sanierungsfristen von zehn Jahren; vorbehalten bleiben die Bestimmungen von Artikel 10 Absatz 2 Buchstaben a und c.
 
-Anhang 1*[^t-1]*
+## Übergangsbestimmungen zur Änderung vom 16. September 2022
+
+[^u13-1]
+
+[^u13-1]: [AS 2022 515](https://fedlex.data.admin.ch/eli/oc/2022/515)
+
+<sup>1</sup> Für Feuerungsanlagen, die für den Betrieb mit Gas und Heizöl ausgerüstet sind und die aufgrund einer Empfehlung des Eidgenössischen Departements für Wirtschaft, Bildung und Forschung und des Eidgenössischen Departements für Umwelt, Verkehr, Energie und Kommunikation oder auf Anordnung des Bundesrats mit Heizöl «Extra leicht» betrieben werden, gelten abweichend von Anhang 3 Ziffer 411 folgende Emissionsgrenzwerte:
+
+<sup>2</sup> Bei Anlagen nach Absatz 1 muss zum Zeitpunkt der Umstellung auf Heizöl «Extra leicht», spätestens jedoch innert 30 Tagen, der Brenner durch eine Fachperson gewartet werden. Dabei ist eine Emissionsmessung durchzuführen, und die Messresultate sind der zuständigen Behörde zu übermitteln.
+
+<sup>3</sup> Die Emissionsgrenzwerte nach Absatz 1 sind befristet bis zum 31. März 2023.
+
+<table>
+<tr><th>– Kohlenmonoxid (CO)</th><th>[tab] 170 mg/m<sup>3</sup></th></tr>
+<tr><th>– Stickoxide (NO<sub>x</sub>), angegeben als Stickstoffdioxid</th><th>[tab] 250 mg/m<sup>3</sup></th></tr>
+</table>
+
+Anhang 1[^t-1]
 
 (Art. 3 Abs. 1)
 
@@ -1255,7 +1272,7 @@ Als krebserzeugend gelten Stoffe, die in der Liste der arbeitshygienischen Grenz
 <tr><td>N-Vinyl-2-pyrrolidon</td><td>C<sub>6</sub>H<sub>9</sub>NO</td><td>3</td></tr>
 </table>
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 (Art. 3 Abs. 2 Bst. a)
 
@@ -1285,7 +1302,7 @@ Anhang 2*[^t-2]*
 
 24 Anlagen zur Herstellung von 1,2-Dichlorethan und Vinylchlorid
 
-25 ...
+25 …
 
 26 Herstellung und Konfektionierung von Pflanzenschutzmittel
 
@@ -1488,7 +1505,7 @@ Die Emissionsgrenzwerte beziehen sich auf folgende Sauerstoffgehalte im Abgas:
 - a. Hohlglas 2,5 kg pro Tonne produziertes Glas
 - b. übriges Glas 6,5 kg pro Tonne produziertes Glas
 
-### 134 ...
+### 134 …
 
 ### 135 Schwefeloxide
 
@@ -1589,7 +1606,7 @@ Bei der Chloralkali-Elektrolyse nach dem Amalgam-Verfahren dürfen die Emissione
 
 <sup>2</sup> Die Emissionsbegrenzungen für 1,2-Dichlorethan und Vinylchlorid nach Anhang 1 gelten unabhängig von den dort festgelegten Massenströmen.
 
-### 25 ...
+### 25 …
 
 ### 26 Herstellung und Konfektionierung von Pflanzenschutzmitteln
 
@@ -1822,7 +1839,7 @@ Die Emissionen von Stickoxiden, angegeben als Stickstoffdioxid, dürfen die Wert
 
 Diagramm:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20220101/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20221001/de/xml/image/image1.png)
 
 ### 474 Messungen
 
@@ -1936,7 +1953,7 @@ Für Anlagen, in denen Güter durch unmittelbare Berührung mit Feuerungsabgasen
 
 Einrichtungen für die Lagerung von Gülle und flüssigen Vergärungsprodukten sind mit einer dauerhaft wirksamen Abdeckung zur Begrenzung der Ammoniak- und Geruchsemissionen auszustatten. Das BAFU und das Bundesamt für Landwirtschaft erlassen gemeinsam Empfehlungen.
 
-### 552 ...****
+### 552 …
 
 [^annex2-lvlu1-lvl5-lvl55-lvl552-1]
 
@@ -2058,7 +2075,7 @@ Für Anlagen, in denen Güter durch unmittelbare Berührung mit Feuerungsabgasen
 
 [^annex2-lvlu1-lvl7-lvl71-lvl714-1]: Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
 
-### 715 ...
+### 715 …
 
 ### 716 Überwachung
 
@@ -2363,7 +2380,7 @@ Die Emissionen von Kohlenmonoxid dürfen 50 mg/m<sup>3</sup> nicht überschreite
 
 <sup>2</sup> Die Emissionsgrenzwerte nach Anhang 1 gelten nicht für Baumaschinen und Baustellen.
 
-Anhang 3*[^t-3]*
+Anhang 3[^t-3]
 
 (Art. 3 Abs. 2 Bst. b)
 
@@ -2394,7 +2411,7 @@ Folgende Feuerungen müssen nicht nach Artikel 13 Absatz 3 periodisch gemessen w
 
 - a. Feuerungen, die im Kalenderjahr weniger als 100 Stunden betrieben werden;
 - b. Feuerungen mit einer Feuerungswärmeleistung bis 12 kW, die ausschliesslich zur Heizung von Einzelräumen dienen;
-- [tab] c. und d. ...
+- [tab] c. und d. …
 - e. Einzelraumfeuerungen für Kohle;
 - f. Einzelraumfeuerungen für feste Brennstoffe, sofern sie ausschliesslich mit Holzbrennstoffen nach Anhang 5 Ziffer 31 Absatz 1 Buchstabe a, b oder d Ziffer 1 betrieben werden.
 
@@ -2441,9 +2458,9 @@ Folgende Feuerungen müssen nicht nach Artikel 13 Absatz 3 periodisch gemessen w
 
 <sup>1</sup> Für Feuerungen mit einer Heizmediumtemperatur über 150 °C, bei denen die Einhaltung des Stickoxid-Grenzwertes von 150 mg/m<sup>3</sup> nach Ziffer 411 technisch oder betrieblich nicht möglich oder wirtschaftlich nicht tragbar ist, kann die Behörde mildere Grenzwerte festlegen. Die Emissionen an Stickoxiden, angegeben als Stickstoffdioxid, dürfen jedoch 250 mg/m<sup>3</sup> nicht überschreiten.
 
-<sup>2</sup> und <sup>3</sup> ...
+<sup>2</sup> und <sup>3</sup> …
 
-### 413 ...
+### 413 …
 
 ### 414 Energetische Anforderungen
 
@@ -2694,25 +2711,25 @@ Wird eine Einzelfeuerung abwechselnd mit verschiedenen Brennstoffen betrieben, s
 
 <sup>2</sup> Der Mischgrenzwert wird nach der folgenden Formel berechnet:
 
-G<sub>M</sub> = G<sub>1</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20220101/de/xml/image/image2.png)</sub> + G<sub>2</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20220101/de/xml/image/image3.png)</sub> + .... + G<sub>n</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20220101/de/xml/image/image4.png)</sub>
+G<sub>M</sub> = G<sub>1</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20221001/de/xml/image/image2.png)</sub> + G<sub>2</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20221001/de/xml/image/image3.png)</sub> + …. + G<sub>n</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20221001/de/xml/image/image4.png)</sub>
 
 Dabei bedeuten:
 
 G<sub>m</sub> = Mischgrenzwert, bezogen auf einen Sauerstoffgehalt B<sub>1</sub>
 
-G<sub>1</sub>, G<sub>2</sub> ... G<sub>n</sub> = Emissionsgrenzwert für die verschiedenen Brennstoffe[^annex3-lvlu1-lvl7-lvl82-1]
+G<sub>1</sub>, G<sub>2</sub> … G<sub>n</sub> = Emissionsgrenzwert für die verschiedenen Brennstoffe[^annex3-lvlu1-lvl7-lvl82-1]
 
-E<sub>1</sub>, E<sub>2</sub> ... E<sub>n</sub> = Energie, die pro Stunde durch die einzelnen Brennstoffe zugeführt wird
+E<sub>1</sub>, E<sub>2</sub> … E<sub>n</sub> = Energie, die pro Stunde durch die einzelnen Brennstoffe zugeführt wird
 
-E<sub>tot</sub> = E<sub>1</sub> + E<sub>2</sub> + .... E<sub>n</sub>
+E<sub>tot</sub> = E<sub>1</sub> + E<sub>2</sub> + …. E<sub>n</sub>
 
-B<sub>1</sub>, B<sub>2</sub> ... B<sub>n</sub> = Bezugsgrösse (Sauerstoffgehalt, auf den sich der Emissions-grenzwert für den ersten, den zweiten und die weiteren Brennstoffe bezieht)
+B<sub>1</sub>, B<sub>2</sub> … B<sub>n</sub> = Bezugsgrösse (Sauerstoffgehalt, auf den sich der Emissions-grenzwert für den ersten, den zweiten und die weiteren Brennstoffe bezieht)
 
 <sup>3</sup> Bei der Berechnung des massgebenden Schwefelemissionsgrades ist sinngemäss nach Absatz 2 vorzugehen.
 
 [^annex3-lvlu1-lvl7-lvl82-1]: *Hinweis*: Als Emissionsgrenzwerte für Schwefeldioxide sind einzusetzen: a. für Heizöl «Extra leicht»: G = 330 mg/m<sup>3</sup>, bezogen auf einen Sauerstoffgehalt im Abgas von 3 Prozent (% vol); b. für Gas: G = 38 mg/m<sup>3</sup>, bezogen auf einen Sauerstoffgehalt im Abgas von 3 Prozent (% vol).
 
-Anhang 4*[^t-4]*
+Anhang 4[^t-4]
 
 (Art. 3 Abs. 2 Bst. c)
 
@@ -2724,7 +2741,7 @@ Anhang 4*[^t-4]*
 
 Die Bestimmungen dieses Anhanges gelten für Baumaschinen und deren Partikelfiltersysteme nach Artikel 19*a* sowie für Maschinen und Geräte mit Verbrennungsmotor nach Artikel 20*b*.
 
-### 2 ...
+### 2 …
 
 ### 3 Lufthygienische Anforderungen an Baumaschinen und deren Partikelfiltersysteme
 
@@ -2801,7 +2818,7 @@ Die Bestimmungen dieses Anhanges gelten für Baumaschinen und deren Partikelfilt
 
 <sup>2</sup> Maschine und Geräte mit Verbrennungsmotor müssen nicht nach Artikel 13 Absatz 3 periodisch kontrolliert werden. Die Behörde kontrolliert die Ergebnisse der Abgaswartung stichprobenweise. Bei Verdacht auf zu hohe Emissionen kann sie eine erneute Abgaswartung anordnen.
 
-Anhang 5*[^t-5]*
+Anhang 5[^t-5]
 
 (Art. 21 und 24)
 
@@ -2970,7 +2987,7 @@ In Gasen nach Ziffer 41 Buchstaben a und b darf der Schwefelgehalt den Wert von 
 <table>
 <tr><td>Bioethanolgehalt</td><td>% (*V/V*)</td><td>1,0</td><td>2,0</td><td>3,0</td><td>4,0</td><td>5,0</td><td>6,0</td><td>7,0</td><td>8,0</td><td>9,0</td><td>10,0</td></tr>
 <tr><td>Maximal zulässige Dampfdruckabweichung<sup>a</sup></td><td>kPa</td><td>3,7</td><td>6,0</td><td>7,2</td><td>7,8</td><td>8,0</td><td>8,0</td><td>7,9</td><td>7,9</td><td>7,8</td><td>7,8</td></tr>
-<tr><td colspan="12">*Hinweise:* <sup>a</sup> Zwischenwerte werden durch lineare Interpolation zwischen dem unmittelbar über und dem unmittelbar unter dem Bioethanolgehalt liegenden Wert ermittelt.</td></tr>
+<tr><td colspan="12">Hinweise: <sup>a</sup> Zwischenwerte werden durch lineare Interpolation zwischen dem unmittelbar über und dem unmittelbar unter dem Bioethanolgehalt liegenden Wert ermittelt.</td></tr>
 </table>
 
 <sup>2</sup> Flugbenzin darf gewerbsmässig nur eingeführt oder in Verkehr gebracht werden, wenn der Bleigehalt höchstens 0,56 g/l und der Benzolgehalt höchstens 1 Prozent (% *V/V*) beträgt. In Verkehr gebrachtes Flugbenzin muss blau eingefärbt sein.
@@ -2993,7 +3010,7 @@ Dieselöl darf gewerbsmässig nur eingeführt oder in Verkehr gebracht werden, w
 <tr><td colspan="5">c Für Winterqualitäten muss die Cetanzahl abweichend von dieser Tabelle mindestens den Anforderungen nach SN EN 590 entsprechen.</td></tr>
 </table>
 
-Anhang 6*[^t-6]*
+Anhang 6[^t-6]
 
 (Art. 6 Abs. 3)
 
@@ -3138,21 +3155,21 @@ S (µg/m<sup>3</sup>) = S-Wert (vgl. Ziff. 3 und 9)
 
 Diagramm 1
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20220101/de/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20221001/de/xml/image/image5.png)
 
 ### Bestimmung des Korrekturfaktors g für Bebauung und Bewuchs
 
 Diagramm 2
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20220101/de/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20221001/de/xml/image/image6.png)
 
-<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20220101/de/xml/image/image7.png)</sub>
+<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20221001/de/xml/image/image7.png)</sub>
 
 I = Höhe des höchsten massgeblichen Hindernisbereiches (Ziff. 5)
 
 H<sub>1</sub> = Kaminmindesthöhe für ebenes, hindernisfreies Gebiet (Ziff. 4)
 
-Anhang 7*[^t-7]*
+Anhang 7[^t-7]
 
 (Art. 2 Abs. 5)
 

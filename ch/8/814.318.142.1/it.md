@@ -4,20 +4,20 @@ title: "Ordinanza del 16 dicembre 1985 contro l'inquinamento atmosferico (OIAt)"
 short: OIAt
 eli: "https://fedlex.data.admin.ch/eli/cc/1986/208_208_208"
 language: it
-version: 2022-01-01
+version: 2022-10-01
 adopted: 1985-12-16
 in_force: 1986-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1986-208_208_208-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20221001/it/xml/fedlex-data-admin-ch-eli-cc-1986-208_208_208-20221001-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20221001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza contro l’inquinamento atmosferico
 
-(OIAt)**[^t-1]**
+(OIAt)[^t-1]
 
-del 16 dicembre 1985 (Stato 1° gennaio 2022)
+del 16 dicembre 1985 (Stato 1° ottobre 2022) (Stato 1° ottobre 2022)
 
 [^t-1]: [RU 1986 835](https://fedlex.data.admin.ch/eli/oc/1986/835_835_835)
 
@@ -320,7 +320,7 @@ Per le infrastrutture per i trasporti l’autorità ordina tutti i provvedimenti
 
 Se è accertato o se c’è da aspettarsi che veicoli o infrastrutture per i trasporti provochino immissioni eccessive, la procedura è retta dagli articoli 31 a 34.
 
-### Sezione 4*a*:**** Esigenze per le macchine di cantiere e i relativi sistemi di filtri antiparticolato
+### Sezione 4*a*: Esigenze per le macchine di cantiere e i relativi sistemi di filtri antiparticolato
 
 [^chap2-sec4a-1]
 
@@ -388,7 +388,7 @@ La prova di conformità comprende:
 
 [^20a-1]: Introdotto dal n. I dell’O del 23 giu. 2004 ([RU 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)). Abrogato dal n. I dell’O del 20 ott. 2021, con effetto dal 1° gen. 2022 ([RU 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)).
 
-### Sezione 5*a*:**** Esigenze per le macchine e gli apparecchi con motore a combustione interna
+### Sezione 5*a*: Esigenze per le macchine e gli apparecchi con motore a combustione interna
 
 [^chap2-sec5a-1]
 
@@ -468,7 +468,7 @@ Chi importa o offre carburanti a scopo commerciale deve fornire all’acquirente
 
 <sup>2</sup> Se per la benzina senza piombo viene usato un impianto che aveva contenuto benzina con piombo, il titolare deve dapprima procedere alla pulizia approfondita dell’impianto o, mediante altre misure, provvedere che non siano rimasti residui eccessivi di piombo.
 
-### Sezione 8:**** Modalità per bruciare i rifiuti
+### Sezione 8: Modalità per bruciare i rifiuti
 
 [^chap2-sec8-1]
 
@@ -722,25 +722,25 @@ L’ordinanza del 10 dicembre 1984[^41-1] sulla lotta contro l’inquinamento at
 
 La presente ordinanza entra in vigore il 1° marzo 1986.
 
-## Disposizioni transitorie della modifica del 20 novembre 1991****
+## Disposizioni transitorie della modifica del 20 novembre 1991
 
 [^u1-1]
 
 [^u1-1]: [RU 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124). Abrogate dal n. IV 30 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
-## Disposizioni transitorie della modifica del 15 dicembre 1997****
+## Disposizioni transitorie della modifica del 15 dicembre 1997
 
 [^u2-1]
 
 [^u2-1]: [RU 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223). Abrogate dal n. IV 30 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
-## Disposizioni transitorie della modifica del 25 agosto 1999****
+## Disposizioni transitorie della modifica del 25 agosto 1999
 
 [^u3-1]
 
 [^u3-1]: [RU 1999 2498](https://fedlex.data.admin.ch/eli/oc/1999/386). Abrogate dal n. IV 30 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
-## Disposizioni finali della modifica del 30 aprile 2003****
+## Disposizioni finali della modifica del 30 aprile 2003
 
 [^u4-1]
 
@@ -750,7 +750,7 @@ La presente ordinanza entra in vigore il 1° marzo 1986.
 
 <sup>2</sup> In deroga all’articolo 10, l’autorità accorda un termine per il risanamento da cinque a dieci anni per gli impianti da risanare dopo il 1° luglio 2003, ma che soddisfano già i limiti preventivi delle emissioni ai sensi delle disposizioni vigenti dell’ordinanza, Sono fatte salve le disposizioni dell’articolo 10 capoverso 2 lettere a e c.
 
-## Disposizioni transitorie della modifica del 23 giugno 2004****
+## Disposizioni transitorie della modifica del 23 giugno 2004
 
 [^u5-1]
 
@@ -765,7 +765,7 @@ La presente ordinanza entra in vigore il 1° marzo 1986.
 [^u5-2]: [RU 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)
 [^u5-3]: [RU 1999 2498](https://fedlex.data.admin.ch/eli/oc/1999/386)
 
-## Disposizioni transitorie della modifica del 4 luglio 2007****
+## Disposizioni transitorie della modifica del 4 luglio 2007
 
 [^u6-1]
 
@@ -777,7 +777,7 @@ La presente ordinanza entra in vigore il 1° marzo 1986.
 
 <sup>3</sup> Gli impianti a combustione alimentati con legna possono continuare a essere messi in commercio senza prova di conformità fino al 31 dicembre 2009 purché soddisfino le esigenze di cui all’allegato 4. Tali esigenze sono considerate soddisfatte, se agli impianti in questione è stato conferito il marchio di qualità di Energia legno Svizzera per impianti a combustione alimentati con legna dopo il 31 dicembre 2003.
 
-## Disposizioni transitorie della modifica del 19 settembre 2008****
+## Disposizioni transitorie della modifica del 19 settembre 2008
 
 [^u7-1]
 
@@ -794,13 +794,13 @@ La presente ordinanza entra in vigore il 1° marzo 1986.
 - a. fabbricate tra il 2000 e il 2008: a partire dal 1° maggio 2010 se sono impiegate in cantieri appartenenti al gruppo di provvedimenti A della direttiva del 1° settembre 2002 dell’Ufficio federale dell’ambiente sulla Protezione dell’aria sui cantieri edili;
 - b. fabbricate prima del 2000: a partire dal 1° maggio 2015.
 
-## Disposizioni transitorie della modifica del 18 giugno 2010****
+## Disposizioni transitorie della modifica del 18 giugno 2010
 
 [^u8-1]
 
 [^u8-1]: [RU 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395). Abrogate dal n. IV dell’O dell’11 apr. 2018, con effetto dal 1° giu. 2018 ([RU 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
 
-## Disposizioni transitorie concernenti la modifica del 14 ottobre 2015****
+## Disposizioni transitorie concernenti la modifica del 14 ottobre 2015
 
 [^u9-1]
 
@@ -808,7 +808,7 @@ La presente ordinanza entra in vigore il 1° marzo 1986.
 
 Per motori a combustione stazionari e turbine a gas, che secondo la modifica del 14 ottobre 2015 devono essere risanati, ma che soddisfano già le limitazioni preventive delle emissioni stabilite nelle disposizioni precedenti, l’autorità concede, in deroga all’articolo 10, termini di risanamento dai sei ai dieci anni. Sono fatte salve le disposizioni dell’articolo 10 capoverso 2 lettere a e c.
 
-## Disposizioni transitorie della modifica dell’11 aprile 2018****
+## Disposizioni transitorie della modifica dell’11 aprile 2018
 
 [^u10-1]
 
@@ -820,7 +820,7 @@ Per motori a combustione stazionari e turbine a gas, che secondo la modifica del
 
 <sup>3</sup> I valori limite d’emissione per particelle solide di cui all’allegato 3 cifre 511 capoverso 1 e 522 capoverso 1 per impianti a combustione con una potenza termica pari o inferiore a 70 kW sono validi a partire dal 1° giugno 2019.
 
-## Disposizioni transitorie della modifica del 12 febbraio 2020****
+## Disposizioni transitorie della modifica del 12 febbraio 2020
 
 [^u11-1]
 
@@ -828,7 +828,7 @@ Per motori a combustione stazionari e turbine a gas, che secondo la modifica del
 
 Per gli impianti secondo l’allegato 2 cifra 551, soggetti a risanamento secondo la modifica del 12 febbraio 2020, in deroga all’articolo 10 l’autorità concede termini di risanamento da sei a otto anni. Sono fatte salve le disposizioni dell’articolo 10 capoverso 2 lettere a e c.
 
-## Disposizioni transitorie alla modifica del 20 ottobre 2021****
+## Disposizioni transitorie alla modifica del 20 ottobre 2021
 
 [^u12-1]
 
@@ -836,7 +836,24 @@ Per gli impianti secondo l’allegato 2 cifra 551, soggetti a risanamento second
 
 Per i forni per cemento e i forni per clinker di calcio che secondo la modifica del 20 ottobre 2021 devono essere risanati, ma che soddisfano i provvedimenti limitativi delle emissioni secondo le disposizioni previgenti, l’autorità concede, in deroga all’articolo 10, un termine di risanamento di dieci anni; sono fatte salve le disposizioni dell’articolo 10 capoverso 2 lettere a e c.
 
-Allegato 1*[^t-2]*
+## Disposizioni transitorie della modifica del 16 settembre 2022
+
+[^u13-1]
+
+[^u13-1]: [RU 2022 515](https://fedlex.data.admin.ch/eli/oc/2022/515)
+
+<sup>1</sup> In deroga all’allegato 3 cifra 411, per gli impianti a combustione equipaggiati per l’alimentazione con gas e olio da riscaldamento e che in seguito a una raccomandazione del Dipartimento federale dell’economia, della formazione e della ricerca e del Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni oppure per ordine del Consiglio federale sono alimentati con olio da riscaldamento «extra leggero» valgono i seguenti valori limite d’emissione:
+
+<sup>2</sup> Per gli impianti di cui al capoverso 1, al momento della conversione a olio da riscaldamento «extra leggero», ma al più tardi entro 30 giorni, il bruciatore deve essere sottoposto a manutenzione da parte di uno specialista. In questo quadro, deve essere effettuata una misurazione delle emissioni e i relativi risultati devono essere inviati all’autorità competente.
+
+<sup>3</sup> I valori limite d’emissione di cui al capoverso 1 valgono sino al 31 marzo 2023.
+
+<table>
+<tr><th>– monossido di carbonio (CO)</th><th>170 mg/m<sup>3</sup></th></tr>
+<tr><th>– ossidi d’azoto (NOx), indicati come diossido d’azoto</th><th>250 mg/m<sup>3</sup></th></tr>
+</table>
+
+Allegato 1[^t-2]
 
 (art. 3 cpv. 1)
 
@@ -1262,7 +1279,7 @@ Sono considerate cancerogene le sostanze designate come tali (K) nell’Elenco d
 <tr><td>N-Vinyl-2-pyrrolidon</td><td>C<sub>6</sub>H<sub>9</sub>NO</td><td>3</td></tr>
 </table>
 
-Allegato 2*[^t-3]*
+Allegato 2[^t-3]
 
 (art. 3 cpv. 2 lett. a)
 
@@ -1777,7 +1794,7 @@ I valori limite d’emissione si riferiscono ad un tenore di ossigeno nei gas di
 
 Le emissioni di ossidi d’azoto, indicati come diossido d’azoto, non devono superare i valori secondo il diagramma seguente:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20220101/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20221001/it/xml/image/image1.png)
 
 ### 474 Misurazioni
 
@@ -1894,7 +1911,7 @@ Per gli impianti nei quali si lavorano prodotti mettendoli direttamente in conta
 
 Gli impianti per il deposito di colaticcio e di prodotti della fermentazione liquidi devono essere equipaggiati con una copertura che limiti efficacemente le emissioni di ammoniaca e gli odori. L’UFAM e l’Ufficio federale dell’agricoltura (UFAG) emanano raccomandazioni congiunte.
 
-### 552 ...****
+### 552 ...
 
 [^annex2-lvlu1-lvl5-lvl55-lvl552-1]
 
@@ -2321,7 +2338,7 @@ Le emissioni di monossido di carbonio non devono superare 50 mg/m<sup>3</sup>.
 
 <sup>2</sup> I valori limite delle emissioni secondo l’allegato 1 non sono applicabili alle macchine di cantiere e ai cantieri edili.
 
-Allegato 3*[^t-4]*
+Allegato 3[^t-4]
 
 (art. 3 cpv. 2 lett. b)
 
@@ -2652,7 +2669,7 @@ Per gli impianti a combustione che possono essere alimentati alternativamente co
 
 <sup>2</sup> Il valore limite di miscela per combustibili misti è calcolato mediante la formula seguente:
 
-G<sub>m</sub> = G<sub>1</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20220101/it/xml/image/image2.png)</sub> + G<sub>2</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20220101/it/xml/image/image3.png)</sub> + … + G<sub>n</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20220101/it/xml/image/image4.png)</sub>
+G<sub>m</sub> = G<sub>1</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20221001/it/xml/image/image2.png)</sub> + G<sub>2</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20221001/it/xml/image/image3.png)</sub> + … + G<sub>n</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20221001/it/xml/image/image4.png)</sub>
 
 dove:
 
@@ -2670,7 +2687,7 @@ B<sub>1</sub>, B<sub>2</sub> … B<sub>n</sub> = grandezze di riferimento (tenor
 
 [^annex3-lvlu1-lvl8-lvl82-1]: *Osservazione:* Come valori limite d’emissione per gli ossidi di zolfo valgono: a. per l’olio da riscaldamento «extra leggero»: G = 330 mg/m<sup>3</sup>, riferito ad un tenore di ossigeno dei gas di scarico del 3 per cento (% vol); b. per il gas: G = 38 mg/m<sup>3</sup>, riferito ad un tenore di ossigeno dei gas di scarico del 3 per cento (% vol).
 
-Allegato 4*[^t-5]*
+Allegato 4[^t-5]
 
 (art. 3 cpv. 2 lett. c)
 
@@ -2759,7 +2776,7 @@ Le disposizioni del presente allegato si applicano alle macchine di cantiere e a
 
 <sup>2</sup> Le macchine e gli apparecchi con motore a combustione interna non sono soggetti al controllo periodico di cui all’articolo 13 capoverso 3. L’autorità verifica a campione i risultati della manutenzione del sistema antinquinamento. In caso di sospetto di emissioni eccessive, può ordinare una nuova manutenzione del sistema antinquinamento.
 
-Allegato 5*[^t-6]*
+Allegato 5[^t-6]
 
 (art. 21 e 24)
 
@@ -2932,7 +2949,7 @@ Nei gas secondo la cifra 41 lettere a e b, il tenore in zolfo non deve superare 
 <table>
 <tr><td>Tenore in bioetanolo</td><td>% (*V/V*)</td><td>1,0</td><td>2,0</td><td>3,0</td><td>4,0</td><td>5,0</td><td>6,0</td><td>7,0</td><td>8,0</td><td>9,0</td><td>10,0</td></tr>
 <tr><td>Superamento massimo della tensione di vapore prescritta<sup>a</sup></td><td>kPa</td><td>3,7</td><td>6,0</td><td>7,2</td><td>7,8</td><td>8,0</td><td>8,0</td><td>7,9</td><td>7,9</td><td>7,8</td><td>7,8</td></tr>
-<tr><td colspan="12">*Osservazione:* <sup>a</sup> I valori intermedi sono calcolati per interpolazione lineare fra il valore immediatamente superiore e quello immediatamente inferiore al tenore in bioetanolo.</td></tr>
+<tr><td colspan="12">Osservazione: <sup>a</sup> I valori intermedi sono calcolati per interpolazione lineare fra il valore immediatamente superiore e quello immediatamente inferiore al tenore in bioetanolo.</td></tr>
 </table>
 
 <sup>2</sup> La benzina per aerei può essere importata a scopi commerciali o messa in commercio soltanto se il tenore in piombo non supera il valore di 0,56 g/l e il tenore in benzene l’1 per cento (% *V/V*). La benzina per aerei messa in commercio deve essere colorata di blu.
@@ -2955,7 +2972,7 @@ L’olio diesel può essere importato a scopi commerciali o messo in commercio s
 <tr><td colspan="5"><sup>c</sup> In deroga alla presente tabella, il numero di cetano per le qualità invernali deve corrispondere almeno alle esigenze secondo la norma SN EN 590.</td></tr>
 </table>
 
-Allegato 6*[^t-7]*
+Allegato 6[^t-7]
 
 (art. 6 cpv. 3)
 
@@ -3099,19 +3116,19 @@ S (µg/m<sup>3</sup>) = valore S (cfr. cifre 3 e 9)
 
 Diagramma 1
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20220101/it/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20221001/it/xml/image/image5.png)
 
 ### Determinazione del fattore di correzione g in zone edificate e boschive
 
 Diagramma 2
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20220101/it/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20221001/it/xml/image/image6.png)
 
 I = altezza del più alto fattore d’ostacolo determinante (cifra 5)
 
 H<sub>1</sub> = altezza minima del camino in zona piana senza ostacoli (cifra 4)
 
-Allegato 7*[^t-8]*
+Allegato 7[^t-8]
 
 (art. 2 cpv. 5)
 

@@ -4,11 +4,11 @@ title: Ordinance of 16 December 1985 on Air Pollution Control (OAPC)
 short: OAPC
 eli: "https://fedlex.data.admin.ch/eli/cc/1986/208_208_208"
 language: en
-version: 2022-01-01
+version: 2022-10-01
 adopted: 1985-12-16
 in_force: 1986-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20220101/en/xml/fedlex-data-admin-ch-eli-cc-1986-208_208_208-20220101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20220101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20221001/en/xml/fedlex-data-admin-ch-eli-cc-1986-208_208_208-20221001-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20221001/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (OAPC)
 
-of 16 December 1985 (Status as of 1 January 2022)
+of 16 December 1985 (Status as of 1 October 2022)
 
 The Swiss Federal Council,
 
@@ -318,7 +318,7 @@ In the case of transport infrastructure, the authorities shall order such measur
 
 If vehicles or transport infrastructure have been shown or are expected to cause excessive ambient air pollution levels, the procedure specified in Articles 31–34 shall be followed.
 
-### Section 4*a***** Requirements for Construction Machines and Particle Filter Systems
+### Section 4*a* Requirements for Construction Machines and Particle Filter Systems
 
 [^chap2-sec4a-1]
 
@@ -386,7 +386,7 @@ Proof of conformity comprises:
 
 [^20a-1]: Inserted by No I of the O of 23 June 2004 ([AS 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)). Repealed by No I of the O of 20 Oct. 2021, with effect from 1 Jan. 2022 ([AS 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)).
 
-### Section 5*a***** Requirements for Machines and Equipment with Internal Combustion Engines
+### Section 5*a* Requirements for Machines and Equipment with Internal Combustion Engines
 
 [^chap2-sec5a-1]
 
@@ -466,7 +466,7 @@ Any person who imports motor fuels or offers them for sale on a commercial basis
 
 <sup>2</sup> If an installation which previously contained leaded petrol is to be used for unleaded petrol, the owner of the installation must clean it thoroughly beforehand or take other measures to ensure that it does not contain excessive lead residues.
 
-### Section 8**** Waste Incineration
+### Section 8 Waste Incineration
 
 [^chap2-sec8-1]
 
@@ -718,25 +718,25 @@ The Ordinance of 10 December 1984[^41-1] on Air Pollution Control Measures for C
 
 This Ordinance comes into force on 1 March 1986.
 
-## Transitional Provisions to the Amendment of 20 November 1991****
+## Transitional Provisions to the Amendment of 20 November 1991
 
 [^u1-1]
 
 [^u1-1]: [AS 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124). Repealed by No IV 30 of the O of 22 Aug. 2007 on the Formal Revision of Federal Legislation, with effect from 1 Jan. 2008 ([AS 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
-## Transitional Provisions to the Amendment of 15 December 1997****
+## Transitional Provisions to the Amendment of 15 December 1997
 
 [^u2-1]
 
 [^u2-1]: [AS 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223). Repealed by No IV 30 of the O of 22 Aug. 2007 on the Formal Revision of Federal Legislation, with effect from 1 Jan. 2008 ([AS 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
-## Transitional Provisions to the Amendment of 25 August 1999****
+## Transitional Provisions to the Amendment of 25 August 1999
 
 [^u3-1]
 
 [^u3-1]: [AS 1999 2498](https://fedlex.data.admin.ch/eli/oc/1999/386). Repealed by No IV 30 of the O of 22 Aug. 2007 on the Formal Revision of Federal Legislation, with effect from 1 Jan. 2008 ([AS 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
-## Transitional Provisions to the Amendment of 30 April 2003****
+## Transitional Provisions to the Amendment of 30 April 2003
 
 [^u4-1]
 
@@ -746,7 +746,7 @@ This Ordinance comes into force on 1 March 1986.
 
 <sup>2</sup> Notwithstanding Article 10, the authority shall grant time limits of five to ten years for the retrofitting of installations that become subject to mandatory retrofitting after 1 July 2003, but which already comply with the preventive emission limits based on the existing provisions. This is without prejudice to the provisions of Article 10 paragraph 2 letters a and c.
 
-## Transitional Provisions to the Amendment of 23 June 2004****
+## Transitional Provisions to the Amendment of 23 June 2004
 
 [^u5-1]
 
@@ -761,7 +761,7 @@ This Ordinance comes into force on 1 March 1986.
 [^u5-2]: Repealed by No IV of the O of 14 Oct. 2015, with effect from 16 Nov. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
 [^u5-3]: [AS 1999 2498](https://fedlex.data.admin.ch/eli/oc/1999/386)
 
-## Transitional Provisions to the Amendment of 4 July 2007****
+## Transitional Provisions to the Amendment of 4 July 2007
 
 [^u6-1]
 
@@ -773,7 +773,7 @@ This Ordinance comes into force on 1 March 1986.
 
 <sup>3</sup> Wood-fired installations may be placed on the market without a proof of conformity until 31 December 2009 if they meet the requirements of Annex 4. In particular, these requirements are regarded as having been met in cases where wood‑fired installations were awarded the Swiss Wood Energy Association (VHE) quality mark after 31 December 2003.
 
-## Transitional provisions relating to the Amendment of 19 September 2008****
+## Transitional provisions relating to the Amendment of 19 September 2008
 
 [^u7-1]
 
@@ -790,13 +790,13 @@ This Ordinance comes into force on 1 March 1986.
 - a. manufactured between 2000 and 2008: from 1 May 2010, if they are operated on Measure-level A construction sites as defined in the FOEN Guidelines of 1 September 2002 on Air Pollution Control at Construction Sites;
 - b. manufactured before 2000: from 1 May 2015.
 
-## Transitional provisions relating to the Amendment of 18 June 2010****
+## Transitional provisions relating to the Amendment of 18 June 2010
 
 [^u8-1]
 
 [^u8-1]: [AS 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395). Repealed by No IV of the O of 11 April 2018, with effect from 1 June 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
 
-## Transitional provisions relating to the Amendment of 14 October 2015****
+## Transitional provisions relating to the Amendment of 14 October 2015
 
 [^u9-1]
 
@@ -804,7 +804,7 @@ This Ordinance comes into force on 1 March 1986.
 
 Notwithstanding Article 10, the authority shall grant time limits of six to ten years for the retrofitting of stationary internal combustion engines and gas turbines which become subject to mandatory retrofitting in accordance with the Amendment of 14 October 2015 but which already comply with the preventive emission limits based on the existing provisions. This is without prejudice to the provisions of Article 10 paragraph 2 letters a and c.
 
-## Transitional provisions relating to the Amendment of 11 April 2018****
+## Transitional provisions relating to the Amendment of 11 April 2018
 
 [^u10-1]
 
@@ -816,7 +816,7 @@ Notwithstanding Article 10, the authority shall grant time limits of six to ten 
 
 <sup>3</sup> The emission limit values for solids as specified in Annex 3 Numbers 511 paragraph 1 and 522 paragraph 1 for installations with a rated thermal input of up to 70 kW apply from 1 June 2019.
 
-## Transitional Provisions to the Amendment of 12 February 2020****
+## Transitional Provisions to the Amendment of 12 February 2020
 
 [^u11-1]
 
@@ -824,7 +824,7 @@ Notwithstanding Article 10, the authority shall grant time limits of six to ten 
 
 Notwithstanding Article 10, the authority shall grant time limits of six to eight years for retrofitting installations that become subject to mandatory retrofitting under the Amendment of 12 February 2020; this is without prejudice to the provisions of Article 10 paragraph 2 letters a and c.
 
-## Transitional Provisions to the Amendment of 20 October 2021****
+## Transitional Provisions to the Amendment of 20 October 2021
 
 [^u12-1]
 
@@ -832,7 +832,24 @@ Notwithstanding Article 10, the authority shall grant time limits of six to eigh
 
 Notwithstanding Article 10, the authority shall grant time limits of ten years for retrofitting cement and lime kilns which become subject to mandatory retrofitting under the Amendment of 20 October 2021 but which already comply with the preventive emission limits based on the existing provisions; this is without prejudice to the provisions of Article 10 paragraph 2 letters a and c.
 
-Annex 1*[^t-1]*
+## Transitional Provisions to the Amendment of 16 September 2022
+
+[^u13-1]
+
+[^u13-1]: [AS 2022 515](https://fedlex.data.admin.ch/eli/oc/2022/515)
+
+<sup>1</sup> In the case of combustion installations that are equipped to operate on gas and heating oil and which are operated with «extra light» heating oil based on a recommendation from the Federal Department for Economic Affairs, Education and Research and the Federal Department of the Environment, Energy and Communications or on an order from the Federal Council, the following emission limit values apply in derogation from Annex 3 number 411:
+
+<sup>2</sup> In the case of installations in accordance with paragraph 1, the burner must be serviced by a specialist on changing to «extra light» heating oil or within no more than 30 days thereof. At the same time an emissions measurement must be taken and the measurement results submitted to the competent authority.
+
+<sup>3</sup> The emission limit values in accordance with paragraph 1 apply until 31 March 2023.
+
+<table>
+<tr><th>– Carbon monoxide (CO)</th><th>[tab] 170 mg/m<sup>3</sup></th></tr>
+<tr><th>– Nitrogen oxides (NO<sub>x</sub>), expressed as nitrogen dioxide</th><th>[tab] 250 mg/m<sup>3</sup></th></tr>
+</table>
+
+Annex 1[^t-1]
 
 (Art. 3 para. 1)
 
@@ -1254,7 +1271,7 @@ The emission concentration of any of the substances listed in Number 62 must not
 <tr><td>N-Vinyl-2-pyrrolidone</td><td>C<sub>6</sub>H<sub>9</sub>NO</td><td>3</td></tr>
 </table>
 
-Annex 2*[^t-2]*
+Annex 2[^t-2]
 
 (Art. 3 para. 2 let. a)
 
@@ -1382,7 +1399,7 @@ Annex 2*[^t-2]*
 
 Emission limit values are based on a flue gas oxygen content of 10% (% vol).
 
-### 112 Nitrogen oxides und ammonia
+### 112 Nitrogen oxides and ammonia
 
 <sup>1</sup> Emissions of nitrogen oxides (nitrogen monoxide and nitrogen dioxide), expressed as nitrogen dioxide must not exceed 200 mg/m<sup>3</sup>.
 
@@ -1427,7 +1444,7 @@ Emissions of polychlorinated dibenzo-p-dioxins (dioxins) and dibenzofurans (fura
 
 <sup>1</sup> The flue gas content of the following must be continuously measured and recorded:
 
-- a. nitrogen oxides und ammonia;
+- a. nitrogen oxides and ammonia;
 - b. sulphur oxides;
 - c. gaseous organic substances;
 - d. dust.
@@ -1819,7 +1836,7 @@ Emissions of nitrogen oxides, expressed as nitrogen dioxide, must not exceed the
 
 **Diagram:**
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20220101/en/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20221001/en/xml/image/image1.png)
 
 ### 474 Measurements
 
@@ -1936,7 +1953,7 @@ The provisions of Number 81 also apply to installations in which products are tr
 
 Facilities for the storage of liquid manure and liquid fermentation products must be equipped with a permanently effective cover to limit ammonia and odour emissions. The FOEN and the Federal Office for Agriculture shall issue joint recommendations.
 
-### 552 ...****
+### 552 ...
 
 [^annex2-lvlu1-lvl5-lvl56-1]
 
@@ -2211,8 +2228,8 @@ Stationary internal combustion engines may only be operated with gaseous thermal
 <sup>1</sup> Emissions from stationary internal combustion engines must not exceed the following limit values:
 
 <table>
-<tr><td></td><td></td><td colspan="3">Rated thermal input</td><td></td><td></td></tr>
-<tr><td></td><td></td><td>Up to 100 kW</td><td>Over 100 kW</td><td colspan="3">Over 1 MW</td></tr>
+<tr><th></th><th></th><th colspan="3">Rated thermal input</th><th></th><th></th></tr>
+<tr><th></th><th></th><th>Up to 100 kW</th><th>Over 100 kW</th><th colspan="3">Over 1 MW</th></tr>
 <tr><td>– Carbon monoxide (CO)</td><td>mg/m<sup>3</sup></td><td></td><td></td><td colspan="3"></td></tr>
 <tr><td>– when operating on gaseous thermal or motor fuels as specified in Annex 5 Number 41 paragraph 1</td><td></td><td>650</td><td>300</td><td colspan="3">300</td></tr>
 <tr><td>– when operating on gaseous thermal or motor fuels as specified in Annex 5 Number 41 paragraph 1 letters d and e, if these fuels make up at least 80 % of the fuels used for annual operation</td><td></td><td>1300</td><td>650</td><td colspan="3">300</td></tr>
@@ -2363,7 +2380,7 @@ Emissions of carbon monoxide must not exceed 50 mg/m<sup>3</sup>.
 
 <sup>2</sup> The emission limit values specified in Annex 1 do not apply to construction machines and construction sites.
 
-*Annex 3**[^t-3]*
+*Annex 3*[^t-3]
 
 (Art. 3 para. 2 let. b)
 
@@ -2704,7 +2721,7 @@ If a single installation operates alternately on different kinds of fuel, the em
 
 <sup>2</sup> The composite limit value is calculated according to the following formula:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20220101/en/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20221001/en/xml/image/image2.png)
 
 where:
 
@@ -2718,7 +2735,7 @@ where:
 
 [^annex3-lvlu1-lvl8-lvl82-1]: *Note*: The following shall be taken as the emission limit values for sulphur dioxides: a. for «extra light» heating oil: G = 330 mg/m<sup>3</sup>, based on a flue gas oxygen content of 3% (v/v); b. for gas: G = 38 mg/m<sup>3</sup>, based on a flue gas oxygen content of 3% (v/v).
 
-*Annex 4**[^t-4]*
+*Annex 4*[^t-4]
 
 (Art. 3 para. 2 let. c)
 
@@ -2807,7 +2824,7 @@ The provisions of this Annex apply construction machines and particle filter sys
 
 <sup>2</sup> Machines and equipment with internal combustion engines need not be inspected periodically in accordance with Article 13 paragraph 3. The authority shall carry out random checks of the results of exhaust emission maintenance. If there is any suspicion of excessive solid particle emissions, it may order further exhaust emission maintenance.
 
-*Annex 5**[^t-5]*
+*Annex 5*[^t-5]
 
 (Art. 21 and 24)
 
@@ -3005,7 +3022,7 @@ Diesel oil shall only be imported or placed on the market if it complies with th
 <tr><td colspan="5"><sup>c</sup> For winter qualities, the cetane number, notwithstanding the value given in this Table, must at least satisfy the requirements of SN EN 590.</td></tr>
 </table>
 
-*Annex 6**[^t-6]*
+*Annex 6*[^t-6]
 
 (Art. 6 para. 3)
 
@@ -3139,20 +3156,20 @@ g (–) = Correction factor for buildings and vegetation
 
 Diagram 1
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20220101/en/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20221001/en/xml/image/image3.png)
 
 ### Determination of the correction factor for buildings and vegetation
 
 Diagram 2
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20220101/en/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20221001/en/xml/image/image4.png)
 
-<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20220101/en/xml/image/image5.png)</sub>
+<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20221001/en/xml/image/image5.png)</sub>
 
 - I = Height of the highest significant obstacle area (Number 5)
 - H<sub>1</sub> = Minimum stack height for flat, obstacle-free terrain (Number 4)
 
-*Annex 7**[^t-7]*
+*Annex 7*[^t-7]
 
 (Art. 2 para. 5)
 

@@ -4,11 +4,11 @@ title: "Ordonnance du 16 décembre 1985 sur la protection de l'air (OPair)"
 short: OPair
 eli: "https://fedlex.data.admin.ch/eli/cc/1986/208_208_208"
 language: fr
-version: 2022-01-01
+version: 2022-10-01
 adopted: 1985-12-16
 in_force: 1986-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1986-208_208_208-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20221001/fr/xml/fedlex-data-admin-ch-eli-cc-1986-208_208_208-20221001-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20221001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20220101/fr"
 
 (OPair)
 
-du 16 décembre 1985 (Etat le 1<sup>er</sup> janvier 2022)
+du 16 décembre 1985 (État le 1<sup>er</sup> octobre 2022)
 
 Le Conseil fédéral suisse,
 
@@ -316,7 +316,7 @@ Pour les infrastructures destinées aux transports, l’autorité ordonne que l�
 
 S’il est établi ou à prévoir que des véhicules ou des infrastructures destinées aux transports provoquent des immissions excessives, on procédera conformément aux art. 31 à 34.
 
-### Section 4*a***** Exigences applicables aux machines de chantier et à leurs systèmes de filtres à particules
+### Section 4*a* Exigences applicables aux machines de chantier et à leurs systèmes de filtres à particules
 
 [^chap2-sec4a-1]
 
@@ -384,7 +384,7 @@ La preuve de conformité comprend les documents suivants:
 
 [^20a-1]: Introduit par le ch. I de l’O du 23 juin 2004 ([RO 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)). Abrogé par le ch. I de l’O du 20 oct. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)).
 
-### Section 5*a***** Exigences applicables aux machines et appareils équipés d’un moteur à combustion
+### Section 5*a* Exigences applicables aux machines et appareils équipés d’un moteur à combustion
 
 [^chap2-sec5a-1]
 
@@ -464,7 +464,7 @@ Quiconque importe ou offre des carburants à des fins commerciales doit fournir 
 
 <sup>2</sup> Si de l’essence sans plomb doit être entreposée dans une installation ayant contenu de l’essence avec plomb, le détenteur devra préalablement la nettoyer à fond ou veiller, par d’autres mesures, qu’il ne reste pas de résidus excessifs de plomb.
 
-### Section 8**** Incinération de déchets
+### Section 8 Incinération de déchets
 
 [^chap2-sec8-1]
 
@@ -717,25 +717,25 @@ L’ordonnance du 10 décembre 1984[^41-1] sur la lutte contre la pollution atmo
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> mars 1986.
 
-## Dispositions transitoires de la modification du 20 novembre 1991****
+## Dispositions transitoires de la modification du 20 novembre 1991
 
 [^u1-1]
 
 [^u1-1]: [RO 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124). Abrogées par le ch. IV 30 de l’O du 22 août 2007 relative à la mise à jour formelle du droit fédéral, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
-## Dispositions transitoires de la modification du 15 décembre 1997****
+## Dispositions transitoires de la modification du 15 décembre 1997
 
 [^u2-1]
 
 [^u2-1]: [RO 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223). Abrogées par le ch. IV 30 de l’O du 22 août 2007 relative à la mise à jour formelle du droit fédéral, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
-## Dispositions transitoires de la modification du 25 août 1999****
+## Dispositions transitoires de la modification du 25 août 1999
 
 [^u3-1]
 
 [^u3-1]: [RO 1999 2498](https://fedlex.data.admin.ch/eli/oc/1999/386). Abrogées par le ch. IV 30 de l’O du 22 août 2007 relative à la mise à jour formelle du droit fédéral, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
-## Dispositions transitoires de la modification du 30 avril 2003****
+## Dispositions transitoires de la modification du 30 avril 2003
 
 [^u4-1]
 
@@ -745,7 +745,7 @@ La présente ordonnance entre en vigueur le 1<sup>er</sup> mars 1986.
 
 <sup>2</sup> Par dérogation à l’art. 10, l’autorité accorde un délai d’assainissement de cinq à dix ans pour les installations qui doivent être assainies après le 1<sup>er</sup> juillet 2003, mais qui satisfont déjà aux limitations préventives des émissions au sens des dispositions actuelles de l’ordonnance. Les dispositions de l’art. 10, al. 2, let. a et c, sont réservées.
 
-## Dispositions finales de la modification du 23 juin 2004****
+## Dispositions finales de la modification du 23 juin 2004
 
 [^u5-1]
 
@@ -760,7 +760,7 @@ La présente ordonnance entre en vigueur le 1<sup>er</sup> mars 1986.
 [^u5-2]: Abrogé par le ch. IV de l’O du 14 oct. 2015, avec effet au 16 nov. 2015 ([RO 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
 [^u5-3]: [RO 1999 2498](https://fedlex.data.admin.ch/eli/oc/1999/386)
 
-## Dispositions transitoires de la modification du 4 juillet 2007****
+## Dispositions transitoires de la modification du 4 juillet 2007
 
 [^u6-1]
 
@@ -772,7 +772,7 @@ La présente ordonnance entre en vigueur le 1<sup>er</sup> mars 1986.
 
 <sup>3</sup> Les chauffages au bois peuvent être mis dans le commerce jusqu’au 31 décembre 2009 sans preuve de conformité s’ils satisfont aux exigences de l’annexe 4. Ces exigences sont réputées remplies si les chauffages au bois ont obtenu le label de qualité («Qualitätssiegel») pour les chauffages au bois d’Énergie-bois Suisse après le 31 décembre 2003.
 
-## Dispositions transitoires de la modification du 19 septembre 2008****
+## Dispositions transitoires de la modification du 19 septembre 2008
 
 [^u7-1]
 
@@ -789,13 +789,13 @@ La présente ordonnance entre en vigueur le 1<sup>er</sup> mars 1986.
 - a. fabriquées entre 2000 et 2008: à partir du 1<sup>er</sup> mai 2010 si elles sont employées sur des chantiers appartenant au niveau de mesure A tel que défini dans la Directive du 1<sup>er</sup> septembre 2002 de l’Office fédéral de l’environnement concernant la protection de l’air sur les chantiers;
 - b. fabriquée avant 2000: à partir du 1<sup>er</sup> mai 2015.
 
-## Dispositions transitoires des modifications du 18 juin 2010****
+## Dispositions transitoires des modifications du 18 juin 2010
 
 [^u8-1]
 
 [^u8-1]: [RO 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395). Abrogées par le ch. IV de l’O du 11 avr. 2018, avec effet au 1<sup>er</sup> juin 2018 ([RO 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
 
-## Dispositions transitoires de la modification du 14 octobre 2015****
+## Dispositions transitoires de la modification du 14 octobre 2015
 
 [^u9-1]
 
@@ -803,7 +803,7 @@ La présente ordonnance entre en vigueur le 1<sup>er</sup> mars 1986.
 
 Par dérogation à l’art. 10, l’autorité accorde un délai d’assainissement de six à dix ans pour les moteurs à combustion stationnaires et les turbines à gaz qui doivent être assainies du fait de la modification du 14 octobre 2015, mais qui satisfont déjà aux limitations préventives des émissions au sens des dispositions actuelles de l’ordonnance. Les dispositions de l’art. 10, al. 2, let. a et c, sont réservées.
 
-## Dispositions transitoires de la modification du 11 avril 2018****
+## Dispositions transitoires de la modification du 11 avril 2018
 
 [^u10-1]
 
@@ -815,7 +815,7 @@ Par dérogation à l’art. 10, l’autorité accorde un délai d’assainisseme
 
 <sup>3</sup> Les valeurs limites d’émission pour les matières solides visées à l’annexe 3, ch. 511, al. 1, et 522, al. 1, applicables aux installations de combustion d’une puissance calorifique maximale de 70 kW sont valables à partir du 1<sup>er</sup> juin 2019.
 
-## Dispositions transitoires relatives à la modification du 12 février 2020****
+## Dispositions transitoires relatives à la modification du 12 février 2020
 
 [^u11-1]
 
@@ -823,7 +823,7 @@ Par dérogation à l’art. 10, l’autorité accorde un délai d’assainisseme
 
 En dérogation à l’art. 10, l’autorité accorde des délais d’assainissement de six à huit ans pour les installations visées à l’annexe 2, ch. 551, devant être assainies en vertu de la modification du 12 février 2020. Les dispositions de l’art. 10, al. 2, let. a et c, sont réservées.
 
-## Dispositions transitoires de la modification du 20 octobre 2021****
+## Dispositions transitoires de la modification du 20 octobre 2021
 
 [^u12-1]
 
@@ -831,7 +831,24 @@ En dérogation à l’art. 10, l’autorité accorde des délais d’assainissem
 
 En dérogation à l’art. 10, l’autorité accorde des délais d’assainissement de dix ans pour les fours à ciment et les fours à chaux hydraulique devant être assainis en vertu de la modification du 20 octobre 2021, mais qui satisfont aux limitations préventives des émissions d’après les dispositions actuelles de l’ordonnance; les dispositions de l’art. 10, al. 2, let. a et c, sont réservées.
 
-Annexe 1*[^t-1]*
+## Dispositions transitoires de la modification du 16 septembre 2022
+
+[^u13-1]
+
+[^u13-1]: [RO 2022 515](https://fedlex.data.admin.ch/eli/oc/2022/515)
+
+<sup>1</sup> Pour les installations de combustion qui sont équipées pour un fonctionnement avec du gaz et de l’huile et qui, sur recommandation du Département fédéral de l’économie, de la formation et de la recherche et du Département fédéral de l’environnement, des transports, de l’énergie et de la communication ou sur ordre du Conseil fédéral, sont alimentées avec de l’huile «extra-légère», on appliquera, en dérogation à l’annexe 3, ch. 411, les valeurs limites d’émission suivantes:
+
+<sup>2</sup> S’agissant des installations visées à l’al. 1, le brûleur doit faire l’objet d’un entretien par un spécialiste au moment du passage à l’huile «extra-légère», au plus tard toutefois dans les 30 jours. Les émissions doivent alors être mesurées et les résultats de ces mesures doivent être transmis à l’autorité compétente.
+
+<sup>3</sup> Les valeurs limites d’émission prévues à l’al. 1 s’appliquent jusqu’au 31 mars 2023.
+
+<table>
+<tr><th>– Monoxyde de carbone (CO)</th><th>[tab] 170 mg/m3</th></tr>
+<tr><th>– Oxydes d’azote (NOx), exprimés en dioxyde d’azote</th><th>[tab] 250 mg/m3</th></tr>
+</table>
+
+Annexe 1[^t-1]
 
 (art. 3, al. 1)
 
@@ -1257,7 +1274,7 @@ Sont réputées cancérigènes les substances répertoriées comme telles (ca) d
 <tr><td>N-Vinyl-2-pyrrolidone</td><td>C<sub>6</sub>H<sub>9</sub>NO</td><td>3</td></tr>
 </table>
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 (art. 3, al. 2, let. a)
 
@@ -1770,7 +1787,7 @@ Les valeurs limites d’émission se rapportent à une teneur en oxygène des ef
 
 Les émissions d’oxydes d’azote, exprimées en dioxyde d’azote, ne dépasseront pas les valeurs qui ressortent du diagramme ci-après.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20220101/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20221001/fr/xml/image/image1.png)
 
 ### 474 Mesures
 
@@ -1887,7 +1904,7 @@ Lorsqu’il s’agit d’une installation dans laquelle des produits sont trait�
 
 Les dispositifs pour l’entreposage de lisier et de produits méthanisés liquides doivent être équipés d’une couverture durablement efficace afin de limiter les émissions d’ammoniac et d’odeurs. L’OFEV et l’Office fédéral de l’agriculture établissent ensemble des recommandations en la matière.
 
-### 552 ...****
+### 552 ...
 
 [^annex2-lvlu1-lvl5-lvl55-lvl552-1]
 
@@ -2314,7 +2331,7 @@ Les émissions de monoxyde de carbone ne dépasseront pas 50 mg/m<sup>3</sup>.
 
 <sup>2</sup> Les valeurs limites des émissions au sens de l’annexe 1 ne sont pas applicables aux engins de chantier ni aux chantiers.
 
-Annexe 3*[^t-3]*
+Annexe 3[^t-3]
 
 (art. 3, al. 2, let. b)
 
@@ -2643,7 +2660,7 @@ Si une même installation de combustion est alimentée alternativement avec diff
 
 <sup>2</sup> La valeur limite du mélange se calcule selon la formule suivante:
 
-G<sub>m</sub> = G<sub>1</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20220101/fr/xml/image/image2.png)</sub> + G<sub>2</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20220101/fr/xml/image/image3.png)</sub> + ... + G<sub>n</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20220101/fr/xml/image/image4.png)</sub>
+G<sub>m</sub> = G<sub>1</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20221001/fr/xml/image/image2.png)</sub> + G<sub>2</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20221001/fr/xml/image/image3.png)</sub> + ... + G<sub>n</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20221001/fr/xml/image/image4.png)</sub>
 
 Signification:
 
@@ -2657,7 +2674,7 @@ Signification:
 
 [^annex3-lvlu1-lvl8-lvl82-1]: *Remarque*: pour les oxydes de soufre, on utilisera les valeurs limites d’émission suivantes: a. Pour l’huile «extra-légère»: G = 330 mg/m<sup>3</sup>, rapporté à une teneur en oxygène des effluents gazeux de 3 % (% vol); b. Pour le gaz: G = 38 mg/m<sup>3</sup>, rapporté à une teneur en oxygène des effluents gazeux de 3 % (% vol)
 
-Annexe 4*[^t-4]*
+Annexe 4[^t-4]
 
 (art. 3, al. 2, let. c)
 
@@ -2746,7 +2763,7 @@ La présente annexe s’applique aux machines de chantier et à leurs systèmes 
 
 <sup>2</sup> Les machines et appareils équipés d’un moteur à combustion ne doivent pas être contrôlés périodiquement au sens de l’art. 13, al. 3. L’autorité contrôle les résultats du service antipollution par sondage. S’il y a suspicion d’émissions excessives, elle peut ordonner un nouveau service antipollution.
 
-Annexe 5*[^t-5]*
+Annexe 5[^t-5]
 
 (art. 21 et 24)
 
@@ -2917,7 +2934,7 @@ La teneur en soufre des gaz selon le ch. 41, let. a et b, ne dépassera pas 190 
 <table>
 <tr><td>Teneur en bioéthanol</td><td>% (*V/V*)</td><td>1,0</td><td>2,0</td><td>3,0</td><td>4,0</td><td>5,0</td><td>6,0</td><td>7,0</td><td>8,0</td><td>9,0</td><td>10,0</td></tr>
 <tr><td>Dépassement autorisé de la tension de vapeur prescrite<sup>a</sup></td><td>kPa</td><td>3,7</td><td>6,0</td><td>7,2</td><td>7,8</td><td>8,0</td><td>8,0</td><td>7,9</td><td>7,9</td><td>7,8</td><td>7,8</td></tr>
-<tr><td colspan="12">*Remarque:* <sup>a</sup> Les valeurs intermédiaires sont calculées par interpolation linéaire entre les valeurs immédiatement supérieure et immédiatement inférieure à la teneur en bioéthanol.</td></tr>
+<tr><td colspan="12">Remarque: <sup>a</sup> Les valeurs intermédiaires sont calculées par interpolation linéaire entre les valeurs immédiatement supérieure et immédiatement inférieure à la teneur en bioéthanol.</td></tr>
 </table>
 
 <sup>2</sup> L’essence pour avions ne peut être importée à des fins commerciales ou mise dans le commerce qu’à condition que sa teneur en plomb ne dépasse pas 0,56 g/l et que sa teneur en benzène ne dépasse pas 1 % (% *V/V*). L’essence pour avions mise dans le commerce doit être colorée en bleu.
@@ -2939,7 +2956,7 @@ L’huile diesel ne peut être importée à des fins commerciales ou mise dans l
 <tr><td colspan="5"><sup>c</sup> Pour les qualités hivernales et en dérogation au tableau, l’indice de cétane doit satisfaire au moins aux exigences de la norme SN EN 590.</td></tr>
 </table>
 
-Annexe 6*[^t-6]*
+Annexe 6[^t-6]
 
 (art. 6, al. 3)
 
@@ -3067,19 +3084,19 @@ Si les circonstances le justifient, l’autorité exigera des cheminées plus é
 
 Diagramme 1
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20220101/fr/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20221001/fr/xml/image/image5.png)
 
 ### Détermination du facteur de correction g pour les zones de construction et de végétation
 
 Diagramme 2
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20220101/fr/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20221001/fr/xml/image/image6.png)
 
 I = hauteur des obstacles déterminants les plus élevés (ch. 5)
 
 H<sub>1</sub> = hauteur minimale de la cheminée en terrain plat sans obstacles (ch. 4)
 
-Annexe 7*[^t-7]*
+Annexe 7[^t-7]
 
 (art. 2, al. 5)
 
