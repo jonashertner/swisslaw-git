@@ -2,24 +2,23 @@
 canton: GR
 number: "830.100"
 title: "Legge concernente l'Assicurazione fabbricati nel Cantone dei Grigioni"
-short: "Legge sull'Assicurazione fabbricati; LAFab"
+short: "Legge sull'Assicurazione fabbricati, LAFab"
 language: it
-version: 2018-01-01
-corrected: 2018-01-10
-version_adopted: 2016-12-07
+version: 2022-10-01
+version_adopted: 2021-12-07
 adopted: 2010-06-15
 in_force: 2011-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/830.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2821/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3259/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
 
 # Legge concernente l'Assicurazione fabbricati nel Cantone dei Grigioni
 
-(Legge sull'Assicurazione fabbricati; LAFab)
+(Legge sull'Assicurazione fabbricati, LAFab)
 
-del 15.06.2010 (stato 01.01.2018)
+del 15.06.2010 (stato 01.10.2022)
 
 Il Gran Consiglio del Cantone dei Grigioni[^ingress-1],
 
@@ -178,6 +177,8 @@ decide:
 
 - a) non riconducibili ad azioni di straordinaria violenza o riconducibili ad azioni ripetute;
 - b) prevedibili e la cui insorgenza avrebbe potuto essere evitata tramite misure tempestive tali da poter essere pretese.
+
+<sup>3</sup> Il Governo viene autorizzato a definire come assicurati danni riconducibili ad azioni ripetute conformemente al capoverso 2 lettera a, se i criteri generalmente riconosciuti per l'assunzione del danno sono soddisfatti e il sinistro è riassicurato.
 
 #### Art. 12
 
@@ -465,7 +466,7 @@ decide:
 
 **3. Mancato ripristino**
 
-<sup>1</sup> Se un fabbricato non viene ripristinato nello stesso luogo entro tre anni dal sinistro, viene indennizzato il valore attuale; l'Assicurazione fabbricati può autorizzare una ricostruzione in un luogo diverso all'interno del Cantone.
+<sup>1</sup> Se un fabbricato non viene ripristinato nello stesso luogo entro tre anni dal sinistro, viene indennizzato il valore attuale; l'Assicurazione fabbricati può autorizzare una ricostruzione in un luogo diverso all'interno del Cantone oppure l'acquisto di un fabbricato esistente. Per l'acquisto di un fabbricato esistente viene computato il suo valore attuale. L'acquisto di un fabbricato esistente e gli investimenti a ciò associati vengono indennizzati fino a un importo massimo pari al valore di assicurazione del fabbricato distrutto.
 
 <sup>1<sup>bis</sup></sup> Su domanda, l'Assicurazione fabbricati può prorogare il termine per il ripristino o la ricostruzione due volte per al massimo tre anni per volta. Il periodo è sospeso durante procedure di impugnazione pendenti concernenti il progetto di costruzione.
 
@@ -568,6 +569,12 @@ decide:
 - a) a partire dalla presentazione della proposta di assicurazione all'Assicurazione fabbricati;
 - b) a partire dalla presentazione della richiesta di valutazione ufficiale all'Ufficio per le valutazioni immobiliari;
 - c) a partire dalla prossima stima di revisione da parte dell'Ufficio per le valutazioni immobiliari.
+
+#### Art. 47b
+
+**Disposizione transitoria della revisione parziale del 3 dicembre 2019**
+
+<sup>1</sup> L'articolo 37 capoverso 1 e capoverso 1<sup>bis</sup> trovano applicazione ai sinistri per cui è in corso un procedimento e che non sono conclusi.
 
 #### Art. 48
 

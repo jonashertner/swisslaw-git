@@ -2,24 +2,23 @@
 canton: GR
 number: "830.100"
 title: Gesetz über die Gebäudeversicherung im Kanton Graubünden
-short: Gebäudeversicherungsgesetz; GebVG
+short: "Gebäudeversicherungsgesetz, GebVG"
 language: de
-version: 2018-01-01
-corrected: 2018-01-10
-version_adopted: 2016-12-07
+version: 2022-10-01
+version_adopted: 2021-12-07
 adopted: 2010-06-15
 in_force: 2011-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/830.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2821/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3259/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über die Gebäudeversicherung im Kanton Graubünden
 
-(Gebäudeversicherungsgesetz; GebVG)
+(Gebäudeversicherungsgesetz, GebVG)
 
-Vom 15.06.2010 (Stand 01.01.2018)
+Vom 15.06.2010 (Stand 01.10.2022)
 
 Der Grosse Rat des Kantons Graubünden[^ingress-1],
 
@@ -178,6 +177,8 @@ beschliesst:
 
 - a) die nicht auf eine Einwirkung von aussergewöhnlicher Heftigkeit oder die auf fortgesetztes Einwirken zurückzuführen sind;
 - b) die voraussehbar waren und deren Entstehung durch rechtzeitige, zumutbare Massnahmen hätten verhindert werden können.
+
+<sup>3</sup> Die Regierung wird ermächtigt, Schäden, die auf ein fortgesetztes Einwirken gemäss Absatz 2 Litera a zurückzuführen sind, als versichert zu bezeichnen, wenn die allgemein anerkannten Kriterien für die Schadenübernahme erfüllt sind und der Schadenfall rückversichert ist.
 
 #### Art. 12
 
@@ -409,7 +410,7 @@ beschliesst:
 
 <sup>1</sup> Die Gebäudeversicherung äufnet einen Reservefonds, bis dieser fünf Promille des versicherten Kapitals erreicht hat.
 
-<sup>2</sup> Sie ist für Anlageinvestitionen dem öffentlichen Submissionsrecht nicht unterstellt.
+<sup>2</sup> Sie ist für Anlageinvestitionen dem öffentlichen Beschaffungswesen nicht unterstellt.
 
 #### Art. 31
 
@@ -465,7 +466,7 @@ beschliesst:
 
 **3. Nichtwiederherstellung**
 
-<sup>1</sup> Wird ein Gebäude nicht innert drei Jahren seit dem Schadenereignis am gleichen Ort wiederhergestellt, wird der Zeitwert entschädigt; die Gebäudeversicherung kann einen Wiederaufbau an einem andern Ort innerhalb des Kantons bewilligen.
+<sup>1</sup> Wird ein Gebäude nicht innert drei Jahren seit dem Schadenereignis am gleichen Ort wiederhergestellt, wird der Zeitwert entschädigt; die Gebäudeversicherung kann einen Wiederaufbau an einem andern Ort innerhalb des Kantons oder den Erwerb eines bestehenden Gebäudes bewilligen. Für den Erwerb eines bestehenden Gebäudes wird dessen Zeitwert angerechnet. Der Erwerb eines bestehenden Gebäudes und damit verbundene Investitionen werden bis maximal zum Versicherungswert des zerstörten Gebäudes entschädigt.
 
 <sup>1<sup>bis</sup></sup> Die Gebäudeversicherung kann die Frist für die Wiederherstellung oder den Wiederaufbau auf Gesuch hin zweimal je um maximal drei Jahre verlängern. Während hängigen, das Bauvorhaben betreffenden Rechtsmittelverfahren steht die Frist still.
 
@@ -568,6 +569,12 @@ beschliesst:
 - a) ab dem Versicherungsantrag an die Gebäudeversicherung;
 - b) ab dem Antrag an das Amt für Immobilienbewertung zur amtlichen Bewertung;
 - c) ab der nächsten Revisionsschätzung durch das Amt für Immobilienbewertung.
+
+#### Art. 47b
+
+**Übergangsbestimmung der Teilrevision vom 3. Dezember 2019**
+
+<sup>1</sup> Artikel 37 Absatz 1 und Absatz 1<sup>bis</sup> finden Anwendung auf die sich im Verfahren befindenden und nicht abgeschlossenen Schadenfälle.
 
 #### Art. 48
 

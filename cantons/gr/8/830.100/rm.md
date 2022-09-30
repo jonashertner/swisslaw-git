@@ -2,24 +2,23 @@
 canton: GR
 number: "830.100"
 title: "Lescha davart l'assicuranza d'edifizis dal chantun Grischun"
-short: "lescha davart l'assicuranza d'edifizis; LAE"
+short: "lescha davart l'assicuranza d'edifizis, LAE"
 language: rm
-version: 2018-01-01
-corrected: 2018-01-10
-version_adopted: 2016-12-07
+version: 2022-10-01
+version_adopted: 2021-12-07
 adopted: 2010-06-15
 in_force: 2011-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/830.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2821/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3259/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Lescha davart l'assicuranza d'edifizis dal chantun Grischun
 
-(lescha davart l'assicuranza d'edifizis; LAE)
+(lescha davart l'assicuranza d'edifizis, LAE)
 
-dals 15-06-2010 (versiun dals 01-01-2018)
+dals 15-06-2010 (versiun dals 01-10-2022)
 
 Il cussegl grond dal chantun Grischun[^ingress-1],
 
@@ -178,6 +177,8 @@ concluda:
 
 - a) che na pon betg vegnir attribuids ad ina influenza d'ina vehemenza extraordinaria u ad ina influenza cuntinuanta;
 - b) ch'èn stads previsibels e che avessan pudì vegnir impedids, sch'i fissan vegnidas prendidas a temp mesiras pretendiblas.
+
+<sup>3</sup> La regenza vegn autorisada da designar donns, che resultan d'ina influenza cuntinuanta tenor l'alinea 2 litera a, sco assicurads, sch'ils criteris renconuschids en general per surpigliar il donn èn ademplids e sch'il cas da donn è reassicurà.
 
 #### Art. 12
 
@@ -409,7 +410,7 @@ concluda:
 
 <sup>1</sup> L'assicuranza d'edifizis constituescha in fond da reservas, fin che quel ha cuntanschì 5 promils dal chapital assicurà.
 
-<sup>2</sup> Per investiziuns da chapital n'è ella betg suttamessa al dretg da submissiun public.
+<sup>2</sup> Per investiziuns da chapital n'è ella betg suttamessa a las acquisiziuns publicas.
 
 #### Art. 31
 
@@ -465,7 +466,7 @@ concluda:
 
 **3. nagina reconstrucziun**
 
-<sup>1</sup> Sch'in edifizi na vegn betg reconstruì al medem lieu entaifer 3 onns dapi ch'el è vegnì donnegià, vegn pajada la valur actuala; l'assicuranza d'edifizis po permetter ina reconstrucziun en in auter lieu entaifer il chantun.
+<sup>1</sup> Sch'in edifizi na vegn betg reconstruì al medem lieu entaifer 3 onns dapi ch'el è vegnì donnegià, vegn pajada la valur actuala; l'assicuranza d'edifizis po permetter ina reconstrucziun en in auter lieu entaifer il chantun u l'acquist d'in edifizi existent. Per l'acquist d'in edifizi existent vegn resguardada sia valur actuala. L'acquist d'in edifizi existent e las investiziuns che stattan en quest connex vegnan indemnisads fin maximalmain a la valur d'assicuranza da l'edifizi destruì.
 
 <sup>1<sup>bis</sup></sup> Sin dumonda po l'assicuranza d'edifizis prolungar il termin da reconstrucziun duas giadas per mintgamai maximalmain 3 onns. Durant las proceduras da meds legals pendentas che pertutgan il project da construcziun è quest termin suspendì.
 
@@ -568,6 +569,12 @@ concluda:
 - a) a partir dal mument che la dumonda da concluder in'assicuranza vegn drizzada a l'assicuranza d'edifizis;
 - b) a partir dal mument che la dumonda per ina valitaziun uffiziala vegn drizzada a l'uffizi per la valitaziun d'immobiglias;
 - c) a partir da la proxima stimaziun da revisiun tras l'uffizi per la valitaziun d'immobiglias.
+
+#### Art. 47b
+
+**Disposiziun transitorica da la revisiun parziala dals 3 da december 2019**
+
+<sup>1</sup> L'artitgel 34 alinea 1 ed alinea 1<sup>bis</sup> èn applitgabels per ils cas da donn ch'èn en ina procedura e che n'èn betg terminads.
 
 #### Art. 48
 
