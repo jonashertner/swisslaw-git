@@ -4,13 +4,13 @@ number: "734.1"
 title: Wasserbaugesetz
 short: WBG
 language: de
-version: 2021-07-01
-corrected: 2021-09-15
-version_adopted: 2021-04-13
+version: 2022-10-01
+valid_until: 2022-12-31
+version_adopted: 2022-08-09
 adopted: 2009-05-17
 in_force: 2010-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/734.1"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3185/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3397/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3185/pdf_file"
 
 (WBG)
 
-vom 17.05.2009 (Stand 01.07.2021)
+vom 17.05.2009 (Stand 01.10.2022)
 
 Der Kantonsrat des Kantons St.Gallen
 
@@ -100,7 +100,7 @@ als Gesetz:[^ingress-7]
 
 <sup>2</sup> Ist streitig, ob ein Gewässer oder ein Gewässerabschnitt als Gemeindegewässer gilt, entscheidet das zuständige Departement.[^4-1]
 
-[^4-1]: Baudepartement; Art. [25](https://www.gesetzessammlung.sg.ch/data/141.3/de/art25.) Bst. c GeschR, sGS [141.3](https://www.gesetzessammlung.sg.ch/data/141.3/de).
+[^4-1]: Bau- und Umweltdepartement; Art. [25](https://www.gesetzessammlung.sg.ch/data/141.3/de/art25.) Bst. c GeschR, sGS [141.3](https://www.gesetzessammlung.sg.ch/data/141.3/de).
 
 #### Art. 5
 
@@ -415,6 +415,8 @@ als Gesetz:[^ingress-7]
 
 <sup>1<sup>bis</sup></sup> Die zuständige Stelle des Kantons prüft die wasserbaulichen Massnahmen auf Rechtmässigkeit sowie auf Übereinstimmung mit der kantonalen Richtplanung und der Sachplanung des Bundes.
 
+<sup>1<sup>ter</sup></sup> Wasserbauliche Massnahmen an Kantonsgewässern bedürfen der Genehmigung des zuständigen Departementes.
+
 <sup>2</sup> Die Genehmigung kann mit Bedingungen und Auflagen verbunden werden.
 
 #### Art. 33
@@ -659,7 +661,7 @@ als Gesetz:[^ingress-7]
 - a) vor Beginn der Projektierungsarbeiten die Beitragsberechtigung des Projekts anerkannt hat;
 - b) den Kantonsbeitrag vor der Durchführung des Planverfahrens in Kenntnis des Projekts und der vorgesehenen Baukostenanteile der übrigen Beteiligten in Aussicht gestellt hat.
 
-[^53-1]: Baudepartement; Art. [25](https://www.gesetzessammlung.sg.ch/data/141.3/de/art25.) Bst. c GeschR, sGS [141.3](https://www.gesetzessammlung.sg.ch/data/141.3/de).
+[^53-1]: Bau- und Umweltdepartement; Art. [25](https://www.gesetzessammlung.sg.ch/data/141.3/de/art25.) Bst. c GeschR, sGS [141.3](https://www.gesetzessammlung.sg.ch/data/141.3/de).
 
 #### Art. 54
 
