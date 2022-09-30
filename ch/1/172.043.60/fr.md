@@ -4,11 +4,11 @@ title: "Ordonnance du 4 mai 2016 sur les émoluments pour les décisions et les 
 short: OEmol-fedpol
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/270"
 language: fr
-version: 2019-12-01
+version: 2022-10-01
 adopted: 2016-05-04
 in_force: 2016-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/270/20191201/fr/xml/fedlex-data-admin-ch-eli-cc-2016-270-20191201-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/270/20191201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/270/20221001/fr/xml/fedlex-data-admin-ch-eli-cc-2016-270-20221001-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/270/20221001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/270/20191201/fr"
 
 (Ordonnance sur les émoluments de fedpol, OEmol-fedpol)
 
-du 4 mai 2016 (Etat le 1<sup>er</sup> décembre 2019)
+du 4 mai 2016 (État le 1<sup>er</sup> octobre 2022)
 
 Le Conseil fédéral suisse,
 
@@ -88,19 +88,25 @@ Sauf disposition contraire de la présente ordonnance, l’ordonnance générale
 
 **Émoluments relatifs à l’utilisation de programmes informatiques spéciaux**[^3a-1]
 
-<sup>1</sup> L’émolument relatif à l’utilisation d’un programme informatique spécial de surveillance de la correspondance par télécommunication se monte à 13 750 francs.
+<sup>1</sup> L’utilisation d’un programme informatique spécial de surveillance de la correspondance par télécommunication donne lieu à la perception d’émoluments forfaitaires par semaine et par dispositif cible.
 
-<sup>2</sup> Il s’applique à l’utilisation d’un programme informatique spécial pendant un mois au plus et pour chaque dispositif cible.
+<sup>2</sup> Ces émoluments sont calculés en divisant les coûts de licence par le nombre de licences ainsi que par le nombre de semaines que compte l’année.
 
-<sup>3</sup> Chaque fois que l’utilisation d’un programme informatique spécial est prolongée, fedpol perçoit un nouvel émolument conformément à l’al. 1.
+<sup>3</sup> La période de calcul débute dès que le programme informatique spécial a pu être installé avec succès sur un dispositif cible.
 
-<sup>4</sup> Les émoluments sont également dus lorsqu’une surveillance est ordonnée et exécutée, mais qu’elle n’a pas été autorisée.
+<sup>4</sup> Si la transmission des données d’une application souhaitée explicitement ne fonctionne pas directement après l’installation alors que les tests avaient réussi, l’utilisation est interrompue et aucuns émoluments ne sont perçus.
 
 <sup>5</sup> Les retards ou les pertes de données survenant pour des raisons techniques lors de la mise en œuvre de surveillances de même que les problèmes techniques survenant pendant la surveillance n’entraînent pas de réduction des émoluments.
 
-<sup>6</sup> Fedpol évalue tous les deux ans le calcul des émoluments. Une fois l’évaluation terminée, il rédige un rapport à l’intention du Département fédéral de justice et police et lui soumet des propositions pour la suite.
+<sup>6</sup> Les émoluments sont également dus lorsqu’une surveillance est ordonnée et exécutée, mais qu’elle n’a pas été autorisée.
 
-[^3a-1]: Introduit par le ch. I de l’O du 27 fév. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 981](https://fedlex.data.admin.ch/eli/oc/2019/178)).
+<sup>7</sup> Chaque fois que l’utilisation d’un programme informatique spécial est prolongée, fedpol perçoit de nouveaux émoluments conformément à l’al. 1.
+
+<sup>8</sup> Les émoluments sont perçus une fois l’utilisation terminée.
+
+<sup>9</sup> Fedpol évalue périodiquement l’utilisation des programmes informatiques spéciaux et le calcul des émoluments.
+
+[^3a-1]: Introduit par le ch. I de l’O du 27 fév. 2019 ([RO 2019 981](https://fedlex.data.admin.ch/eli/oc/2019/178)). Nouvelle teneur selon le ch. I de l’O du 17 août 2022, en vigueur depuis le 1<sup>er</sup> oct. 2022 ([RO 2022 472](https://fedlex.data.admin.ch/eli/oc/2022/472)).
 
 #### Art. 4
 

@@ -4,11 +4,11 @@ title: "Verordnung vom 4. Mai 2016 über Gebühren für Verfügungen und Dienstl
 short: GebV-fedpol
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/270"
 language: de
-version: 2019-12-01
+version: 2022-10-01
 adopted: 2016-05-04
 in_force: 2016-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/270/20191201/de/xml/fedlex-data-admin-ch-eli-cc-2016-270-20191201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/270/20191201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/270/20221001/de/xml/fedlex-data-admin-ch-eli-cc-2016-270-20221001-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/270/20221001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/270/20191201/de"
 
 (Gebührenverordnung fedpol, GebV-fedpol)
 
-vom 4. Mai 2016 (Stand am 1. Dezember 2019)
+vom 4. Mai 2016 (Stand am 1. Oktober 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -89,19 +89,25 @@ Soweit diese Verordnung keine besondere Regelung enthält, gelten die Bestimmung
 
 **Gebühren für die Nutzung von besonderen Informatikprogrammen**[^3a-1]
 
-<sup>1</sup> Die Gebühr für die Nutzung eines besonderen Informatikprogramms zur Überwachung des Fernmeldeverkehrs beträgt 13 750 Franken.
+<sup>1</sup> Für die Nutzung eines besonderen Informatikprogramms zur Überwachung des Fernmeldeverkehrs wird eine Pauschalgebühr pro Woche und Zielgerät erhoben.
 
-<sup>2</sup> Dieser Gebührenansatz gilt für die Nutzung eines besonderen Informatikprogramms während längstens eines Monats und pro Zielgerät.
+<sup>2</sup> Zur Berechnung dieser Gebühr werden die Lizenzkosten geteilt durch die Anzahl Lizenzen sowie durch die Anzahl Wochen des Jahres.
 
-<sup>3</sup> Für jede Verlängerung der Nutzung eines besonderen Informatikprogramms erhebt fedpol eine neue Gebühr nach Absatz 1.
+<sup>3</sup> Die Rechnungsperiode beginnt, sobald das besondere Informatikprogramm erfolgreich in ein Zielgerät eingeschleust werden konnte.
 
-<sup>4</sup> Die Gebühren fallen auch dann an, wenn eine Überwachung angeordnet und durchgeführt, aber nicht genehmigt wurde.
+<sup>4</sup> Funktioniert die Ausleitung von Daten einer explizit gewünschten Anwendung direkt nach der Einschleusung nicht, obwohl die Tests erfolgreich waren, wird der Einsatz unterbrochen und es werden keine Gebühren verrechnet.
 
 <sup>5</sup> Verzögerungen oder Datenverluste bei der Durchführung von Überwachungen aus technischen Gründen sowie technische Probleme bei der Überwachung führen zu keiner Reduktion der Gebühren.
 
-<sup>6</sup> Fedpol evaluiert alle zwei Jahre die Bemessung der Gebühren. Es erstattet dem Eidgenössischen Justiz- und Polizeidepartement nach Abschluss der Evaluation Bericht und unterbreitet Vorschläge für das weitere Vorgehen.
+<sup>6</sup> Die Gebühren fallen auch dann an, wenn eine Überwachung angeordnet und durchgeführt, aber nicht genehmigt wurde.
 
-[^3a-1]: Eingefügt durch Ziff. I der V vom 27. Febr. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 981](https://fedlex.data.admin.ch/eli/oc/2019/178)).
+<sup>7</sup> Für jede Verlängerung der Nutzung eines besonderen Informatikprogramms erhebt fedpol eine neue Gebühr nach Absatz 1.
+
+<sup>8</sup> Die Gebühren werden nach Abschluss des Einsatzes erhoben.
+
+<sup>9</sup> Fedpol evaluiert periodisch die Nutzung der besonderen Informatikprogramme und die Bemessung der Gebühren.
+
+[^3a-1]: Eingefügt durch Ziff. I der V vom 27. Febr. 2019 ([AS 2019 981](https://fedlex.data.admin.ch/eli/oc/2019/178)). Fassung gemäss Ziff. I der V vom 17. Aug. 2022, in Kraft seit 1. Okt. 2022 ([AS 2022 472](https://fedlex.data.admin.ch/eli/oc/2022/472)).
 
 #### Art. 4
 

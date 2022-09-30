@@ -4,11 +4,11 @@ title: "Ordinanza del 4 maggio 2016 sugli emolumenti per le decisioni e le prest
 short: OEm-fedpol
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/270"
 language: it
-version: 2019-12-01
+version: 2022-10-01
 adopted: 2016-05-04
 in_force: 2016-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/270/20191201/it/xml/fedlex-data-admin-ch-eli-cc-2016-270-20191201-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/270/20191201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/270/20221001/it/xml/fedlex-data-admin-ch-eli-cc-2016-270-20221001-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/270/20221001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/270/20191201/it"
 
 (Ordinanza sugli emolumenti di fedpol, OEm-fedpol)
 
-del 4 maggio 2016 (Stato 1° dicembre 2019)
+del 4 maggio 2016 (Stato 1° ottobre 2022)
 
 Il Consiglio federale svizzero,
 
@@ -89,19 +89,25 @@ Per quanto la presente ordinanza non disponga altrimenti, si applicano le dispos
 
 **Emolumenti per l’utilizzo di programmi informatici speciali**[^3a-1]
 
-<sup>1</sup> L’emolumento per l’utilizzo di un programma informatico speciale di sorveglianza del traffico delle telecomunicazioni ammonta a 13 750 franchi.
+<sup>1</sup> Per l’utilizzo di un programma informatico speciale di sorveglianza del traffico delle telecomunicazioni è riscosso un emolumento forfettario alla settimana e per ciascun apparecchio target.
 
-<sup>2</sup> Questa tariffa si applica all’utilizzo di un programma informatico speciale per un periodo massimo di un mese e per ciascun apparecchio target.
+<sup>2</sup> L’emolumento è calcolato dividendo i costi delle licenze per il numero di licenze nonché per il numero di settimane dell’anno.
 
-<sup>3</sup> Per ogni proroga dell’utilizzo di un programma informatico speciale, fedpol riscuote un nuovo emolumento ai sensi del capoverso 1.
+<sup>3</sup> Il periodo di calcolo inizia non appena il programma informatico speciale è stato installato con successo su un apparecchio target.
 
-<sup>4</sup> Gli emolumenti sono dovuti anche nel caso in cui una sorveglianza sia stata ordinata ed eseguita, ma non approvata.
+<sup>4</sup> Se la trasmissione dei dati da un’applicazione esplicitamente richiesta non funziona subito dopo l’installazione, nonostante i test abbiano avuto esito positivo, l’impiego è interrotto e non sono riscossi emolumenti.
 
 <sup>5</sup> Ritardi o perdite di dati sopraggiunti, per motivi tecnici, durante l’esecuzione di sorveglianze nonché problemi tecnici sopraggiunti durante la sorveglianza non comportano una riduzione degli emolumenti.
 
-<sup>6</sup> Fedpol valuta ogni due anni il calcolo degli emolumenti. Conclusa la valutazione, presenta un rapporto al Dipartimento federale di giustizia e polizia e gli sottopone proposte per il seguito.
+<sup>6</sup> Gli emolumenti sono dovuti anche nel caso in cui una sorveglianza sia stata ordinata ed eseguita, ma non approvata.
 
-[^3a-1]: Introdotto dal n. I dell’O del 27 feb. 2019, in vigore dal 1° dic. 2019 ([RU 2019 981](https://fedlex.data.admin.ch/eli/oc/2019/178)).
+<sup>7</sup> Per ogni proroga dell’utilizzo di un programma informatico speciale, fedpol riscuote un nuovo emolumento ai sensi del capoverso 1.
+
+<sup>8</sup> Gli emolumenti sono riscossi una volta terminato l’utilizzo.
+
+<sup>9</sup> Fedpol valuta periodicamente l’utilizzo dei programmi informatici speciali e il calcolo degli emolumenti.
+
+[^3a-1]: Introdotto dal n. I dell’O del 27 feb. 2019 ([[RU 2019 981](https://www.fedlex.admin.ch/eli/oc/2019/178/it)](https://fedlex.data.admin.ch/eli/oc/2019/178)). Nuovo testo giusta il n. I dell’O del 17 ago. 2022, in vigore dal 1° ott. 2022 ([RU 2022 472](https://fedlex.data.admin.ch/eli/oc/2022/472)).
 
 #### Art. 4
 
