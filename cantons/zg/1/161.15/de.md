@@ -2,24 +2,23 @@
 canton: ZG
 number: "161.15"
 title: Verordnung betreffend das Übersetzungswesen im behördlichen Verkehr
-short: Übersetzungsverordnung
+short: "Übersetzungsverordnung, UebV"
 language: de
-version: 2014-01-01
-valid_until: 2022-09-30
-version_adopted: 2013-11-12
+version: 2022-10-01
+version_adopted: 2022-07-18
 adopted: 2013-11-12
 in_force: 2014-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/161.15"
-pdf: "https://bgs.zg.ch/api/de/versions/1280/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2360/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung betreffend das Übersetzungswesen im behördlichen Verkehr
 
-(Übersetzungsverordnung)
+(Übersetzungsverordnung, UebV)
 
-Vom 12. November 2013 (Stand 1. Januar 2014)
+Vom 12. November 2013 (Stand 1. Oktober 2022)
 
 Der Regierungsrat, das Obergericht und das Verwaltungsgericht,
 
@@ -42,7 +41,13 @@ beschliessen:
 
 **Geltungsbereich**
 
-<sup>1</sup> Diese Verordnung gilt für sämtliche Aufträge zur mündlichen (Dolmetschen) und schriftlichen Übersetzung, die Verwaltungs-, Justiz- und Strafverfolgungsbehörden erteilen.
+<sup>1</sup> Diese Verordnung gilt für sämtliche Übersetzungsaufträge, welche die Verwaltungs-, Justiz- und Strafverfolgungsbehörden erteilen, für:
+
+- a) mündliche Übersetzungen (Dolmetschen);
+- b) schriftliche Übersetzungen;
+- c) Sprachmittlung im Bereich der Kommunikationsüberwachung.
+
+<sup>2</sup> Ausgenommen sind Übersetzungsaufträge, die Dienstleistungen der interkulturellen Vermittlung beinhalten.
 
 ## 2. Zuständigkeiten und Aufgaben
 
@@ -56,17 +61,17 @@ beschliessen:
 
 **Koordination**
 
-<sup>1</sup> Die Zuger Polizei koordiniert das kantonale Übersetzungswesen, führt das Verzeichnis mit den Übersetzerinnen und Übersetzern und entscheidet über die Aufnahme und die Löschung von Eintragungen.
+<sup>1</sup> Die Zuger Polizei koordiniert das kantonale Übersetzungswesen, führt das Verzeichnis mit den Übersetzerinnen und Übersetzern, Dolmetscherinnen und Dolmetschern sowie Personen, welche Sprachmittlung im Bereich der Kommunikationsüberwachung anbieten, und entscheidet über die Aufnahme und die Löschung von Eintragungen.
 
 <sup>2</sup> Sie meldet besondere Vorkommnisse im Bereiche des Übersetzungswesens den Aufsichtsbehörden.
 
-## 3. Verzeichnis der Übersetzerinnen und Übersetzer
+## 3. Verzeichnis
 
 #### § 4
 
 **Begriff und Wirkung**
 
-<sup>1</sup> Das Verzeichnis der Übersetzerinnen und Übersetzer beinhaltet die Daten der Personen, denen die Verwaltungs-, Justiz- und Strafverfolgungsbehörden Übersetzungsaufträge erteilen können.
+<sup>1</sup> Das Verzeichnis beinhaltet die Daten der Personen, denen die Verwaltungs-, Justiz- und Strafverfolgungsbehörden Übersetzungsaufträge im Sinne von § 1 erteilen können.
 
 <sup>2</sup> Die Aufnahme in das Verzeichnis begründet:
 
@@ -80,12 +85,12 @@ beschliessen:
 
 <sup>1</sup> Das Verzeichnis enthält folgende Daten zur Person:
 
-- a) Name, Vorname, Adresse, Geburtsdatum, Staatsangehörigkeit, Aufenthaltsstatus, AHV-Nummer, Bankverbindung;
-- b) Sprachkenntnisse in Wort und/oder Schrift;
-- c) Ausbildung und berufliche Qualifikation;
+- a) Name, Vorname, Geschlecht, Adresse, Geburtsdatum, Staatsangehörigkeit, Aufenthaltsstatus, AHV-Nummer, Bankverbindung;
+- b) Sprachkompetenzen in Wort und/oder Schrift;
+- c) Ausbildung und berufliche Tätigkeit;
 - d) Angaben zu Erreichbarkeit und Verfügbarkeit;
 - e) besondere Hinweise zu den Einsatzmöglichkeiten;
-- f) die allfällige Zustimmung zur Bekanntgabe des Namens an weitere Personen und Behörden im Sinne von § 10 Bst. c.
+- f) die allfällige Zustimmung zur Bekanntgabe des Namens an weitere Personen und Behörden im Sinne von § 10 Abs. 2.
 
 #### § 6
 
@@ -101,19 +106,21 @@ beschliessen:
 
 **Voraussetzungen**
 
-<sup>1</sup> Die Bewerberin oder der Bewerber weist in fachlicher Hinsicht nach, dass sie oder er
+<sup>1</sup> Die Bewerberin oder der Bewerber weist in fachlicher Hinsicht nach, dass sie oder er:
 
-- a) die hochdeutsche Sprache in Wort und/oder Schrift beherrscht;
-- b) die Fremdsprache in Wort und/oder Schrift beherrscht;
-- c) korrekt, vollständig und rasch dolmetschen und/oder übersetzen kann;
+- a) die Amtssprache (Deutsch) in Wort und Schrift beherrscht;
+- b) die Arbeitssprache in Wort und/oder Schrift beherrscht;
+- c) Sprachdienstleistungen, für die sie oder er um Akkreditierung ersucht, fachgerecht erbringen kann;
+- d) über einen fundierten juristischen Grundwortschatz in der Amtssprache und in der Arbeitssprache sowie eine grundlegende Allgemeinbildung verfügt.
 
-<sup>2</sup> Die Bewerberin oder der Bewerber weist in persönlicher Hinsicht nach, dass sie oder er
+<sup>2</sup> Die Bewerberin oder der Bewerber weist in persönlicher Hinsicht nach, dass sie oder er:
 
 - a) handlungsfähig ist;
 - b) über einen guten Leumund verfügt;
 - c) keinen Eintrag im Strafregister hat;
 - d) über die erforderlichen Bewilligungen für Aufenthalt und Erwerbstätigkeit verfügt;
-- e) gestützt auf die bisherige Tätigkeit eine unabhängige Auftragserfüllung und ein korrektes Verhalten gewährleistet.
+- e) eine unabhängige Auftragserfüllung und ein korrektes Verhalten gewährleistet;
+- f) angemessene Erreichbarkeit und Verfügbarkeit gewährleistet.
 
 <sup>3</sup> Zur Prüfung der fachlichen Voraussetzungen wird die Absolvierung oder der Nachweis eines Eignungstests verlangt.
 
@@ -129,7 +136,7 @@ beschliessen:
 
 **Löschung**
 
-<sup>1</sup> Die eingetragene Person kann jederzeit die Löschung ihres Eintrages im Verzeichnis verlangen.
+<sup>1</sup> Die eingetragene Person kann jederzeit die Löschung ihres Eintrags im Verzeichnis verlangen.
 
 <sup>2</sup> Die Zuger Polizei löscht die Daten der im Verzeichnis eingetragenen Person, wenn die fachlichen oder persönlichen Voraussetzungen nicht mehr vorliegen und informiert die betroffene Person.
 
@@ -143,20 +150,27 @@ beschliessen:
 
 - a) die Verwaltungs-, Justiz- und Strafverfolgungsbehörden durch direkten elektronischen Zugriff auf das Verzeichnis;
 - b) die eingetragene Person in Bezug auf ihren Eintrag und sie betreffende Akten bei der Zuger Polizei;
-- c) weitere Behörden im Falle eines glaubhaft gemachten schutzwürdigen, insbesondere amtlichen Interesses bei der Zuger Polizei, soweit die eingetragene Person hierzu vorgängig ihr Einverständnis erklärt hat.
+- c) …
+
+<sup>2</sup> Im Einzelfall kann Einsicht gewährt werden:
+
+- a) weiteren kommunalen Behörden;
+- b) Privaten, soweit sie öffentliche Aufgaben erfüllen;
+- c) Rechtsanwältinnen und Rechtsanwälten, die Personen vor kantonalen Verwaltungs-, Justiz- und Strafverfolgungsbehörden vertreten;
+- d) Verwaltungs-, Justiz- und Strafverfolgungsbehörden anderer Kantone und des Bundes.
 
 #### § 11
 
 **Ausnahmen**
 
-<sup>1</sup> Die Verwaltungs-, Justiz- und Strafverfolgungsbehörden können mündliche Übersetzungsaufträge im Einzelfall einer nicht registrierten Person erteilen,
+<sup>1</sup> Die Verwaltungs-, Justiz- und Strafverfolgungsbehörden können Dolmetschaufträge im Einzelfall einer nicht akkreditierten Person erteilen:
 
-- a) wenn eine registrierte Person nicht zur Verfügung steht, nicht innert nützlicher Frist aufgeboten werden kann oder die Umstände den Beizug einer nicht registrierten Person notwendig machen; und
+- a) wenn eine akkreditierte Person nicht zur Verfügung steht, nicht innert nützlicher Frist aufgeboten werden kann oder die Umstände den Beizug einer nicht akkreditierten Person notwendig machen; und
 - b) wenn die fachlichen und persönlichen Voraussetzungen erfüllt sind.
 
-<sup>2</sup> Schriftliche Übersetzungen können auch an nicht registrierte Personen oder Übersetzungsbüros vergeben werden.
+<sup>2</sup> Schriftliche Übersetzungen können auch an nicht akkreditierte Personen oder Übersetzungsbüros vergeben werden.
 
-<sup>3</sup> Übersetzungsaufträge, die durch separate Vereinbarungen des Regierungsrates, der Direktionen, des Obergerichtes oder des Verwaltungsgerichtes geregelt werden, sind dem Geltungsbereich dieser Verordnung entzogen.
+<sup>3</sup> Übersetzungsaufträge, die durch separate Vereinbarungen des Regierungsrates, der Direktionen, des Obergerichts oder des Verwaltungsgerichts geregelt werden, sind dem Geltungsbereich dieser Verordnung entzogen.
 
 ## 4. Übersetzungsaufträge
 
@@ -164,23 +178,27 @@ beschliessen:
 
 **Vertragsverhältnis**
 
-<sup>1</sup> Die Bestimmungen des Obligationenrechts über den einfachen Auftrag finden auf das öffentlichrechtliche Vertragsverhältnis zwischen der Verwaltungs-, Justiz- oder Strafverfolgungsbehörde einerseits und der übersetzenden Person anderseits sinngemäss Anwendung.
+<sup>1</sup> Übersetzungsaufträge werden durch Vertrag begründet und unterstehen dem öffentlichen Recht. Soweit diese Verordnung keine abweichenden Bestimmungen enthält, richtet sich das Auftragsverhältnis sinngemäss nach den Bestimmungen des Obligationenrechts über den einfachen Auftrag.
+
+<sup>2</sup> Personen, die für Verwaltungs-, Justiz- und Strafverfolgungsbehörden Übersetzungsaufträge erbringen, gelten für diese Tätigkeit als Unselbständigerwerbende. Der Nachweis, dass sie von der zuständigen Ausgleichskasse dafür als Selbständigerwerbende anerkannt worden sind, bleibt vorbehalten.
 
 #### § 13
 
 **Pflichten der Beauftragten**
 
-<sup>1</sup> Die Beauftragten übertragen die Aussagen und Texte vollständig und möglichst wortgetreu in der direkten Rede. Sie enthalten sich dabei jeglicher eigenen Deutung und Parteinahme.
+<sup>1</sup> Die beauftragte Person ist für die fachgerechte Erbringung des Übersetzungsauftrags verantwortlich. Die Übersetzung hat insbesondere vollständig und möglichst wortgetreu sowie ohne jegliche eigene Deutung und Parteinahme zu erfolgen.
 
-<sup>2</sup> Sie sind hinsichtlich der Tatsachen, die ihnen in Ausübung ihres Auftrages bekannt werden, zur Verschwiegenheit verpflichtet und haben alle nach der Erfüllung des Auftrages in ihrem Besitze befindlichen Unterlagen wieder abzugeben. Über eine Entbindung von der Schweigepflicht entscheidet die auftraggebende Behörde.
+<sup>2</sup> Sie erbringt die Sprachdienstleistung wahrheitsgemäss (Art. 307 StGB[^13-1]), wahrt das Amtsgeheimnis (Art. 320 StGB) und tätigt die notwendigen Vorkehrungen zum Schutz von personenbezogenen Daten, insbesondere im Bereich der Datensicherung, Datenaufbewahrung und Datenübermittlung. Über die Entbindung von der Schweigepflicht entscheidet die auftraggebende Behörde.
 
-<sup>3</sup> Sie haben ihren Auftrag persönlich auszuführen. Die Übertragung auf Dritte ist nur mit vorgängiger Zustimmung der auftraggebenden Behörde zulässig.
+<sup>3</sup> Die beauftragte Person erfüllt den Auftrag persönlich. Sie darf nur mit vorgängiger Zustimmung der auftraggebenden Behörde Hilfspersonen beiziehen oder den Auftrag Dritten übertragen.
 
-<sup>4</sup> Sie informieren die auftraggebende Behörde, wenn Ausschluss-, Ablehnungs- oder Ausstandsgründe im Sinne des Verwaltungsrechtspflege- oder Gerichtsorganisationsgesetzes oder der Straf- oder Zivilprozessordnung vorliegen.
+<sup>4</sup> Sie informiert die auftraggebende Behörde umgehend, wenn Umstände vorliegen, die den Anschein einer Befangenheit erwecken könnten.
+
+[^13-1]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de)
 
 #### § 14
 
-**Vergütung**
+**Festsetzung und Auszahlung der Vergütung**
 
 <sup>1</sup> Die auftraggebende Behörde setzt die Vergütung fest.
 
@@ -188,41 +206,90 @@ beschliessen:
 
 <sup>3</sup> Die Auszahlung der Vergütung erfolgt durch das Personalamt.
 
+#### § 14a
+
+**Vergütung für Dolmetschaufträge**
+
+<sup>1</sup> Die Grundvergütung für Dolmetschen richtet sich nach dem Zeitaufwand, dem Zeitpunkt und dem Schwierigkeitsgrad. Zeit und Kosten der An- und Rückreise werden mit einer Wegpauschale gemäss § 15 Abs. 4 Bst. a entschädigt.
+
+<sup>2</sup> Der Zeitaufwand wird in Einheiten von 15 Minuten abgerechnet. Pro Einsatz wird mindestens eine Stunde zuzüglich Wegpauschale entschädigt. Wartezeiten werden zum anwendbaren Ansatz entschädigt, mit Ausnahme einer Mittagspause von 30 Minuten.
+
+<sup>3</sup> Bei beträchtlicher Verkürzung des Einsatzes wird die Hälfte der verabredeten Dauer entschädigt, höchstens aber zwei Stunden pro Halbtag.
+
+<sup>4</sup> Wird ein Einsatz weniger als 24 Stunden vor dem geplanten Beginn abgesagt, wird die Hälfte der verabredeten bzw. mutmasslichen Dauer entschädigt, mindestens aber eine Stunde und höchstens zwei Stunden pro Halbtag. Eine Wegpauschale ist nicht geschuldet.
+
+<sup>5</sup> Für Dolmetschen mittels fernmeldetechnischer Übertragung wird ein Zeitaufwand von mindestens einer halben Stunde entschädigt. Eine Wegpauschale ist nicht geschuldet.
+
+<sup>6</sup> Weitere Spesen und Aufwendungen werden nicht entschädigt.
+
+<sup>7</sup> Die Entschädigung für Dolmetschen in Gebärdensprache richtet sich nach Vereinbarung.
+
+#### § 14b
+
+**Vergütung für schriftliche Übersetzungsaufträge**
+
+<sup>1</sup> Die Entschädigung für Übersetzungen richtet sich nach dem Umfang des Zieltexts und dem Schwierigkeitsgrad. In besonderen Fällen bemisst sich die Entschädigung nach dem Umfang des Ausgangstexts.
+
+<sup>2</sup> Der Umfang wird nach Standardseiten berechnet. Eine Standardseite umfasst 1800 Zeichen einschliesslich Leerzeichen. Angebrochene Standardseiten werden auf die nächste halbe Standardseite aufgerundet. Pro Übersetzung wird mindestens eine Standardseite entschädigt.
+
+<sup>3</sup> Bei ausserordentlicher zeitlicher Dringlichkeit kann ein Zuschlag gemäss § 15 Abs. 3 vereinbart werden.
+
+<sup>4</sup> Besondere Arbeiten in Zusammenhang mit Übersetzungen, die nicht nach einem Seitenansatz entschädigt werden können, werden nach dem Stundenansatz für Dolmetschen oder nach einem anderen, im Voraus vereinbarten Tarif entschädigt.
+
+#### § 14c
+
+**Vergütung für Sprachmittlungsaufträge im Bereich der Kommunikationsüberwachung**
+
+<sup>1</sup> Die Grundentschädigung für Sprachmittlung im Bereich der Kommunikationsüberwachung richtet sich nach dem Zeitaufwand und dem Zeitpunkt des Einsatzes. Zeit und Kosten der An- und Rückreise werden mit einer Wegpauschale gemäss § 15 Abs. 4 Bst. b entschädigt.
+
+<sup>2</sup> Weitere Spesen und Aufwendungen werden nicht entschädigt.
+
+#### § 14d
+
+**Vergütung für besondere Aufträge**
+
+<sup>1</sup> Die Entschädigung für besondere Aufträge, insbesondere länger dauerndes Dolmetschen, Dolmetschen auf Dienstreisen oder grössere Übersetzungsaufträge, kann gesondert vereinbart werden.
+
 #### § 15
 
 **Vergütungstarif**
 
-<sup>1</sup> Ansätze für Dolmetschtätigkeit (einschliesslich Wartezeiten und Spesen):
+<sup>1</sup> Ansätze für akkreditierte Personen:
 
-- a) Werktage zwischen 06.00 Uhr und 20.00 Uhr (Grundhonorar): Fr. 75.–/Std. (erste Stunde pauschal, dann Aufrundung auf nächste Viertelstunde)
-- b) Einsatz zwischen 20.00 Uhr und 06.00 Uhr oder an Samstagen, Sonntagen und Feiertagen: Zuschlag von insgesamt 25 %
-- c) Übersetzung besonders seltener Sprachen sowie ausserordentlich schwierige Übersetzungen (komplizierte Gerichtsverfahren, komplexe Fachsprachen): Fr. 95.–/Std. oder in Ausnahmefällen nach Vereinbarung
-- d) länger dauernde Einsätze: nach Vereinbarung
-- e) Übersetzung auf Dienstreisen, insbesondere dauerhafte Überwachungsmassnahmen: nach Vereinbarung
-- f) Besondere Dringlichkeit, besondere Umstände: Reisezeit wird zusätzlich zur Wegpauschale zum halben Stundenansatz entschädigt
-- g) Wegpauschale (deckt Reisezeit und Reisespesen ab, unter Berechnung der Distanz mittels TwixRoute, Standardeinstellung, schnellste Strecke, ab Domizil bis Einsatzort, umfasst Hin- und Rückreise)
-  - 1\. Zone: innerhalb Kanton Zug und bis 20 km zum Einsatzort: Fr. 40.–
-  - 2\. Zone: &gt;20 km &lt;40 km zum Einsatzort: Fr. 50.–
-  - 3\. Zone: &gt;40 km &lt;60 km zum Einsatzort: Fr. 60.–
-  - 4\. Zone: &gt;60 km &lt;80 km zum Einsatzort: Fr. 70.–
-  - 5\. Zone: &gt;80 km &lt;100 km zum Einsatzort: Fr. 80.–
-  - 6\. Zone: &gt;100 km zum Einsatzort und spezielle Fälle: nach Vereinbarung
+- a) Dolmetschen: — 90 Franken pro Stunde
+- b) besonders schwierige Dolmetscheinsätze: — 120 Franken pro Stunde
+- c) Übersetzungen: — 90 Franken pro Standardseite
+- d) besonders schwierige Übersetzungen: — 120 Franken pro Standardseite
+- e) Sprachmittlung im Bereich der Kommunikationsüberwachung: — 75 Franken pro Stunde
+- f) …
+- g) …
 
-<sup>2</sup> Ansätze für schriftliche Übersetzungen:
+<sup>2</sup> Ansätze für nicht akkreditierte Personen:
 
-- a) Vergütung pro produzierte A4-Seite, mittleres Schriftbild (Arial 11, Zeilenabstand 1.5); Aufrundung auf halbe bzw. ganze Seite: Fr. 75.–/Seite
-- b) Übersetzung besonders seltener Sprachen sowie ausserordentlich schwierige Übersetzungen: Fr. 95.–/Seite oder in Ausnahmefällen nach Vereinbarung
-- c) angeordnete Übersetzungen zwischen 20.00 Uhr und 06.00 Uhr oder an Samstagen, Sonntagen und Feiertagen: Zuschlag von insgesamt 25 %
-- d) länger dauernde Einsätze, insbesondere dauerhafte Überwachungsmassnahmen: nach Vereinbarung
+- a) Dolmetschen: — 75 Franken pro Stunde
+- b) Übersetzungen: — 75 Franken pro Standardseite
+- c) Sprachmittlung im Bereich der Kommunikationsüberwachung: — 60 Franken pro Stunde
+- d) …
 
-<sup>3</sup> Die Ansätze verstehen sich ohne Mehrwertsteuer.
+<sup>3</sup> Zuschläge:
 
-<sup>4</sup> Der Regierungsrat kann den Vergütungstarif mit Zustimmung der Gerichte der Teuerung anpassen.
+- a) für Dolmetschen und Sprachmittlung zwischen 20.00 Uhr und 06.00 Uhr: — 50%
+- b) für Dolmetschen und Sprachmittlung an Samstagen, Sonntagen und Feiertagen zwischen 06.00 Uhr und 20.00 Uhr: — 25%
+- c) für ausserordentlich dringende Übersetzungen: — 25%
+
+<sup>4</sup> Wegpauschalen:
+
+- a) für Dolmetschen: — pauschal 80 Franken pro Einsatztag
+- b) für Sprachmittlung im Bereich der Kommunikationsüberwachung: — pauschal 40 Franken pro Einsatztag
+
+<sup>5</sup> Bei ausserordentlichen Umständen oder ausserordentlich dringenden Dolmetschereinsätzen und Sprachmittlungen kann ausnahmsweise ein Zuschlag zur Wegpauschale vereinbart werden. Dieser besteht in der Regel in der Entschädigung der Reisezeit zum halben Stundenansatz.
+
+<sup>6</sup> Die Ansätze verstehen sich ohne Mehrwertsteuer.
+
+<sup>7</sup> Der Regierungsrat kann den Vergütungstarif mit Zustimmung der Gerichte der Teuerung anpassen.
 
 #### § 16
 
-**Übergangsbestimmungen**
-
-<sup>1</sup> Nach einer Übergangsfrist von längstens zwei Jahren dürfen Übersetzungsaufträge unter Vorbehalt von § 11 nur noch an im Verzeichnis aufgeführte Personen vergeben werden.
+**…**
 
 GS 2013/077
