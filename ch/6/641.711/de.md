@@ -3,11 +3,11 @@ sr: "641.711"
 title: "Verordnung vom 30. November 2012 über die Reduktion der CO<sub>2</sub>-Emissionen (CO<sub>2</sub>-Verordnung)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/856"
 language: de
-version: 2022-06-01
+version: 2022-10-01
 adopted: 2012-11-30
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20220601/de/xml/fedlex-data-admin-ch-eli-cc-2012-856-20220601-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20220601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20221001/de/xml/fedlex-data-admin-ch-eli-cc-2012-856-20221001-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20221001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20220601/de"
 
 (CO<sub>2</sub>-Verordnung)
 
-vom 30. November 2012 (Stand am 1. Juni 2022)
+vom 30. November 2012 (Stand am 1. Oktober 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -92,7 +92,7 @@ Die Zwischenziele für das Jahr 2015 betragen:
 
 [^4a-1]: Eingefügt durch Ziff. I der V vom 8. Okt. 2014 ([AS 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)). Aufgehoben durch Ziff. I der V vom 4. Mai 2022, mit Wirkung seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
-### 5. Abschnitt:**** Bescheinigungen für Projekte und Programme für Emissionsverminderungen oder die Erhöhung der Senkenleistungen im In- und Ausland****
+### 5. Abschnitt: Bescheinigungen für Projekte und Programme für Emissionsverminderungen oder die Erhöhung der Senkenleistungen im In- und Ausland
 
 [^chap1-sec5-1][^chap1-sec5-2]
 
@@ -353,7 +353,7 @@ Eine Änderung eines Projekts oder Programms ist insbesondere dann wesentlich, w
 
 [^11-1]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
-### 5*a*. Abschnitt: Bescheinigungen für Betreiber von Anlagen****
+### 5*a*. Abschnitt: Bescheinigungen für Betreiber von Anlagen
 
 [^chap1-sec5a-1]
 
@@ -431,7 +431,7 @@ Betreibern von Anlagen, die mit dem Bund Ziele über die Entwicklung des Energie
 [^12a-8]: Eingefügt durch Ziff. I der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 [^12a-9]: Fassung gemäss Ziff. I der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 
-### 5*b*. Abschnitt: Verwaltung von Bescheinigungen und Datenschutz****
+### 5*b*. Abschnitt: Verwaltung von Bescheinigungen und Datenschutz
 
 [^chap1-sec5b-1]
 
@@ -506,7 +506,7 @@ Der Bericht muss Angaben enthalten über:
 
 <sup>3</sup> Die Kantone stellen dem BAFU auf Verlangen die notwendigen Unterlagen zum Bericht zur Verfügung.
 
-## 3. Kapitel:**** Massnahmen zur Verminderung der CO<sub>2</sub>-Emissionen von Personenwagen, Lieferwagen und leichten Sattelschleppern
+## 3. Kapitel: Massnahmen zur Verminderung der CO<sub>2</sub>-Emissionen von Personenwagen, Lieferwagen und leichten Sattelschleppern
 
 [^chap3-1]
 
@@ -885,7 +885,7 @@ Aufgehoben
 
 ## 4. Kapitel: Emissionshandelssystem
 
-### 1. Abschnitt: Betreiber von Anlagen****
+### 1. Abschnitt: Betreiber von Anlagen
 
 [^chap4-sec1-1]
 
@@ -1088,7 +1088,7 @@ Reicht der Anteil nach Absatz 2 nicht aus, um die Ansprüche vollständig zu erf
 
 [^46c-1]: Eingefügt durch Ziff. I der V vom 8. Okt. 2014 ([AS 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)). Aufgehoben durch Ziff. I der V vom 25. Nov. 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 
-### 1*a*. Abschnitt:**** Betreiber von Luftfahrzeugen
+### 1*a*. Abschnitt: Betreiber von Luftfahrzeugen
 
 [^chap4-sec1a-1]
 
@@ -1140,7 +1140,7 @@ Reicht der Anteil nach Absatz 2 nicht aus, um die Ansprüche vollständig zu erf
 [^46f-3]: Aufgehoben durch Ziff. I der V vom 25. Nov. 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 [^46f-4]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
-### 2. Abschnitt:**** Versteigerung von Emissionsrechten
+### 2. Abschnitt: Versteigerung von Emissionsrechten
 
 [^chap4-sec2-1]
 
@@ -1332,7 +1332,7 @@ Betreiber von Anlagen, die eine Tätigkeit nach Anhang 6 ausüben und von der Pf
 [^54-1]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 [^54-2]: Eingefügt durch Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
-### 4. Abschnitt: Pflicht zur Abgabe von Emissionsrechten****
+### 4. Abschnitt: Pflicht zur Abgabe von Emissionsrechten
 
 [^chap4-sec4-1]
 
@@ -1396,7 +1396,7 @@ Das BAFU kann auf Gesuch hin in Fällen, in denen europäische Emissionsrechte i
 [^56-2]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 [^56-3]: Fassung gemäss Ziff. I der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 
-### 5. Abschnitt: Emissionshandelsregister****
+### 5. Abschnitt: Emissionshandelsregister
 
 [^chap4-sec5-1]
 
@@ -2353,7 +2353,7 @@ Verletzt ein Betreiber von Anlagen oder eine Person nach Artikel 96 seine Mitwir
 
 ## 9. Kapitel: Verwendung der Erträge aus der CO<sub>2</sub>-Abgabe
 
-### 1. Abschnitt:**** Globalbeiträge zur langfristigen Verminderung der CO<sub>2</sub>-Emissionen bei Gebäuden
+### 1. Abschnitt: Globalbeiträge zur langfristigen Verminderung der CO<sub>2</sub>-Emissionen bei Gebäuden
 
 [^chap9-sec1-1]
 
@@ -2447,7 +2447,7 @@ Die Kontrolle der korrekten Verwendung der Globalbeiträge richtet sich nach Art
 
 Aufgehoben
 
-### 1*a*. Abschnitt: Unterstützung von Projekten zur direkten Nutzung der Geothermie für die Wärmebereitstellung****
+### 1*a*. Abschnitt: Unterstützung von Projekten zur direkten Nutzung der Geothermie für die Wärmebereitstellung
 
 [^chap9-sec1a-1]
 
@@ -3071,7 +3071,7 @@ Das BAZG kann die CO<sub>2</sub>-Abgabe auf Gesuch vorläufig rückerstatten, we
 
 <sup>2</sup> Erfüllt der Betreiber von Anlagen die Voraussetzungen für die Teilnahme am EHS nicht oder wird das Gesuch um Festlegung einer Verminderungsverpflichtung abgelehnt, so muss er die vorläufig rückerstatteten Beträge einschliesslich Zinsen nachzahlen.
 
-### 2*a*. Abschnitt:**** Übergangsbestimmungen zur Änderung vom 8. Oktober 2014
+### 2*a*. Abschnitt: Übergangsbestimmungen zur Änderung vom 8. Oktober 2014
 
 [^chap12-sec2a-1]
 
@@ -3100,7 +3100,7 @@ Emissionsminderungszertifikate nach Artikel 60 Absatz 3, die vor dem Inkrafttret
 
 [^146b-1]: [SR 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
 
-### 2*b*. Abschnitt:**** Übergangsbestimmungen****
+### 2*b*. Abschnitt: Übergangsbestimmungen
 
 [^chap12-sec2b-1][^chap12-sec2b-2]
 
@@ -3129,7 +3129,7 @@ Bei der erstmaligen Anwendung von Artikel 37 umfasst die Schlussabrechnung auch 
 
 [^146e-1]: Eingefügt durch Ziff. I der V vom 1. Nov. 2017, in Kraft seit 1. Dez. 2017 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
 
-### 2*c*. Abschnitt:**** Übergangsbestimmungen zur Änderung vom 25. November 2020
+### 2*c*. Abschnitt: Übergangsbestimmungen zur Änderung vom 25. November 2020
 
 [^chap12-sec2c-1]
 
@@ -3197,7 +3197,7 @@ Vorläufig rückerstattete Beträge, einschliesslich Zinsen, müssen zurückzahl
 
 <sup>2</sup> Das BAFU passt das Emissionsziel nach Artikel 67 sowie das Massnahmenziel nach Artikel 68 für das Jahr 2020 bei einer Unterschreitung des Reduktionspfades nur infolge eines Wärme- oder Kältebezugs von einem Dritten oder durch die Schliessung einer Anlage an.
 
-### 2*d*. Abschnitt:**** Übergangsbestimmungen zur Änderung vom 24. November 2021
+### 2*d*. Abschnitt: Übergangsbestimmungen zur Änderung vom 24. November 2021
 
 [^chap12-sec2d-1]
 
@@ -3207,7 +3207,7 @@ Vorläufig rückerstattete Beträge, einschliesslich Zinsen, müssen zurückzahl
 
 Das BAFU kann die Frist nach Artikel 55 Absatz 3 für die Abgabe von Emissionsrechten des Jahres 2021 auf einen Termin nach dem 30. April 2022 verschieben, wenn sich die Berechnung der Menge der Emissionsrechte, die kostenlos zugeteilt werden, verzögert.
 
-### 2*e*. Abschnitt:**** Übergangsbestimmungen zur Änderung vom 4. Mai 2022
+### 2*e*. Abschnitt: Übergangsbestimmungen zur Änderung vom 4. Mai 2022
 
 [^chap12-sec2e-1]
 
@@ -3282,17 +3282,42 @@ Betreiber von Anlagen, die nach Artikel 31 Absatz 1<sup>ter</sup> des CO<sub>2</
 
 #### Art. 146s
 
-**Anpassung des Emissions- und des Massnahmenziels in den Jahren 2022 bis 2024**
+[^146s-1]
 
-<sup>1</sup> Das BAFU passt das Emissionsziel nach Artikel 146*o* Absatz 2 bei einer Unterschreitung des Reduktionspfads an, wenn die in Artikel 73 Absatz 1 genannten Voraussetzungen in den Jahren 2022 bis 2024 erfüllt sind. Die Anpassung erfolgt in Abweichung von Artikel 73 Absatz 2 frühestens rückwirkend auf das Jahr 2022.
-
-<sup>2</sup> Das BAFU passt das Massnahmenziel nach Artikel 146*o* Absatz 3 an, wenn die Voraussetzungen nach Artikel 74 in den Jahren 2022 bis 2024 erfüllt sind.
+[^146s-1]: Aufgehoben durch Ziff. I der V vom 16. Sept. 2022, mit Wirkung seit 1. Okt. 2022 ([AS 2022 513](https://fedlex.data.admin.ch/eli/oc/2022/513)).
 
 #### Art. 146t
 
 **Anrechnung von Emissionsrechten**
 
 Ein Betreiber von Anlagen, der sein Emissions- oder Massnahmenziel nicht erreicht hat und dem keine Bescheinigungen nach Artikel 12 ausgestellt wurden, kann sich für die Jahre 2022–2024 Emissionsrechte im Umfang von 4,5 Prozent der Treibhausgasemissionen der Jahre 2022–2024 an die Erfüllung der Verminderungsverpflichtung anrechnen lassen.
+
+#### Art. 146u
+
+**Anpassung des Emissions- und des Massnahmenziels in den Jahren 2022 bis 2024**[^146u-1]
+
+Das BAFU passt das Emissionsziel nach Artikel 67 sowie das Massnahmenziel nach Artikel 68 für die Jahre 2022 bis 2024 bei einer Unterschreitung des Reduktionspfades nur infolge eines Wärme- oder Kältebezugs von einem Dritten oder infolge der Schliessung einer Anlage an.
+
+[^146u-1]: Eingefügt durch Ziff. I der V vom 16. Sept. 2022, in Kraft seit 1. Okt. 2022 ([AS 2022 513](https://fedlex.data.admin.ch/eli/oc/2022/513)).
+
+#### Art. 146v
+
+**Nichtberücksichtigung von CO<sub>2</sub>-Emissionen bei Wechsel des Energieträgers**[^146v-1]
+
+<sup>1</sup> CO<sub>2</sub>-Emissionen, die ein vom Eidgenössischen Departement für Wirtschaft, Bildung und Forschung und des UVEK empfohlener oder vom Bundesrat verordneter Wechsel des Energieträgers verursacht, werden in den Jahren 2022 bis 2024 auf Gesuch hin bei der Beurteilung der Erfüllung oder Nichterfüllung der Verminderungsverpflichtung nicht berücksichtigt.
+
+<sup>2</sup>
+
+Das Gesuch um Nichtberücksichtigung der CO<sub>2</sub>-Emissionen gemäss Absatz 1 ist dem BAFU jährlich bis zum 31. Mai des Folgejahres in der von diesem vorgeschriebenen Form einzureichen. Es muss insbesondere enthalten:
+
+- a. Art und Menge des in Folge des Energieträgerwechsels neu eingesetzten Energieträgers;
+- b. Art und Menge des in Folge des Energieträgerwechsels ersetzten Energieträgers;
+- c. Menge der durch den Energieträgerwechsel zusätzlich verursachten CO<sub>2</sub>-Emissionen;
+- d. Dauer des Energieträgerwechsels.
+
+<sup>3</sup> Das BAFU kann die mit dem Wechsel des Energieträgers verbundene Menge an CO<sub>2</sub>-Emissionen publizieren.
+
+[^146v-1]: Eingefügt durch Ziff. I der V vom 16. Sept. 2022, in Kraft seit 1. Okt. 2022 ([AS 2022 513](https://fedlex.data.admin.ch/eli/oc/2022/513)).
 
 ### 3. Abschnitt: Inkrafttreten
 
@@ -3344,7 +3369,7 @@ Anhang 1
 <tr><td>Stickstofftrifluorid</td><td>NF<sub>3</sub></td><td>17 200</td></tr>
 </table>
 
-Anhang 2*[^t-1]*
+Anhang 2[^t-1]
 
 (Art. 146l Bst. b)
 
@@ -3374,7 +3399,7 @@ Anhang 2*[^t-1]*
 
 [^annex2-lvlu1-1]: [SR 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
 
-Anhang 2a*[^t-2]*
+Anhang 2a[^t-2]
 
 (Art. 5 Abs. 1 Bst. a)
 
@@ -3396,7 +3421,7 @@ Anhang 2a*[^t-2]*
 - k. Aktivitäten, die erhebliche negative soziale oder ökologische Auswirkungen haben;
 - l. Aktivitäten, die Anliegen der Aussen- oder Entwicklungspolitik der Schweiz widersprechen.
 
-Anhang 3*[^t-3]*
+Anhang 3[^t-3]
 
 (Art. 5 Abs. 1 Bst. a)
 
@@ -3422,7 +3447,7 @@ Für ein Projekt oder Programm im Inland werden keine nationalen Bescheinigungen
 [^annex3-lvlu1-3]: [SR 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
 [^annex3-lvlu1-4]: [SR 730.03](https://fedlex.data.admin.ch/eli/cc/2017/766)
 
-Anhang 3a*[^t-4]*
+Anhang 3a[^t-4]
 
 (Art. 6 Abs. 2<sup>bis</sup>)
 
@@ -3630,7 +3655,7 @@ Bei der Messung von elektrischer Energie (M<sub>el,y</sub>) sind alle der folgen
 - d. Die Messung hat kontinuierlich zu erfolgen.
 - e. Die Qualitätssicherung hat nach den Vorgaben der MessMV und den entsprechenden Ausführungsvorschriften des EJPD zu erfolgen.
 
-Anhang 3b*[^t-5]*
+Anhang 3b[^t-5]
 
 (Art. 6 Abs. 4)
 
@@ -3674,7 +3699,7 @@ Im Sinne dieses Anhangs bedeuten:
 
 Für die Festlegung des Werts für den in den Berechnungen der Emissionsverminderungen notwendige Paramater Oxidationsfaktor (OX) ist der folgende Entscheidungsbaum zu verwenden:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20220601/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20221001/de/xml/image/image1.png)
 
 ### 3.3 Ex-ante Berechnung der Emissionsverminderungen
 
@@ -3799,7 +3824,7 @@ Bei der Bestimmung der Gasmenge (M<sub>Gas,y</sub>) sind alle der folgenden Anfo
 - d. Die Messung hat kontinuierlich oder bei jeder Lieferung neuer Gasflaschen zu erfolgen.
 - e. Die Qualitätssicherung hat gemäss Herstellerangaben zu erfolgen.
 
-Anhang 4*[^t-6]*
+Anhang 4[^t-6]
 
 (Art. 25 Abs. 2)
 
@@ -3885,7 +3910,7 @@ Anhang 4*[^t-6]*
   - a. Ist der Wert der zweiten Dezimalstelle 4 oder kleiner, so wird abgerundet.
   - b. Ist der Wert der zweiten Dezimalstelle 5 oder grösser, so wird aufgerundet.
 
-Anhang 4a*[^t-7]*
+Anhang 4a[^t-7]
 
 (Art. 28 Abs. 1)
 
@@ -3935,7 +3960,7 @@ Anhang 4a*[^t-7]*
   - c. 2020: 2089 kg.
   - [tab]
 
-Anhang 5*[^t-8]*
+Anhang 5[^t-8]
 
 (Art. 29 Abs. 1)
 
@@ -3971,7 +3996,7 @@ Die zu entrichtenden Sanktionsbeträge bei Überschreiten der individuellen Ziel
 - d. für das Referenzjahr 2022: 104 Franken.
 - [tab]
 
-Anhang 6*[^t-9]*
+Anhang 6[^t-9]
 
 (Art. 40 Abs. 1)
 
@@ -4010,7 +4035,7 @@ Ein Betreiber von Anlagen, der mindestens eine der folgenden Tätigkeiten ausüb
 
 [^annex6-lvlu1-1]: [SR 814.600](https://fedlex.data.admin.ch/eli/cc/2015/891)
 
-Anhang 7*[^t-10]*
+Anhang 7[^t-10]
 
 (Art. 42 Abs. 1 Bst. a und 66 Abs. 1 Bst. a und b und 3 Bst. a und b)
 
@@ -4041,7 +4066,7 @@ Anhang 7*[^t-10]*
 - 20\. Produktion von fossil erzeugter Wärme oder Kälte, allenfalls gekoppelt mit der Produktion von Strom, die in regionale Fernwärme- und Fernkältenetze eingespeist oder an Betreiber von Anlagen geliefert wird, die Tätigkeiten nach den Ziffern 1–19 und 21 ausüben;
 - 21\. Reinigung von Fässern, Containern und anderen Gebinden, die im Zusammenhang mit Tätigkeiten nach diesem Anhang verwendet werden.
 
-Anhang 8*[^t-11]*
+Anhang 8[^t-11]
 
 *(*Art. 45 Abs. 1 und 48 Abs. 1<sup>bis</sup>)
 
@@ -4072,7 +4097,7 @@ Die jährlich für die Gesamtheit der Betreiber von Anlagen im EHS maximal zur V
 
 - 2\.3 Die Nachfrage nach Emissionsrechten für Anlagen ist das Ergebnis folgender Subtraktion: die in der Zeit vom Jahr 2013 bis zum Vorjahr nach Artikel 55 relevanten Treibhausgasemissionen der Anlagen abzüglich der Emissionsminderungszertifikate, die für die Jahre 2013–2020 zur Deckung dieser Treibhausgasemissionen abgegeben worden sind.
 
-Anhang 9*[^t-12]*
+Anhang 9[^t-12]
 
 (Art. 46 Abs. 1, 46*a* Abs. 2 sowie 46*b* Abs. 1 und 3)
 
@@ -4255,7 +4280,7 @@ Anhang 9*[^t-12]*
   - 2\. das Verhältnis der direkten Emissionen zur Summe der direkten und indirekten Emissionen gemäss Ziffer 4.1.
   - [tab]
 
-Anhang 10*[^t-13]*
+Anhang 10[^t-13]
 
 (Art. 86 Abs. 1 und 89 Abs. 2)
 
@@ -4280,7 +4305,7 @@ Anhang 10*[^t-13]*
 
 [^annex10-lvlu1-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Anhang
 
-Anhang 11*[^t-14]*
+Anhang 11[^t-14]
 
 (Art. 94 Abs. 2)
 
@@ -4384,7 +4409,7 @@ Für die folgenden Brennstoffe gelten die folgenden Abgabesätze:
 
 - Die nach Ziffer 3.1 verwendeten Brennstoffe unterliegen den Abgabesätzen nach Ziffer 2.
 
-Anhang 12*[^t-15]*
+Anhang 12[^t-15]
 
 (Art. 112–113*b*)
 
@@ -4544,7 +4569,7 @@ Anhang 12*[^t-15]*
 [^annex12-lvlu1-lvl5-1]: [SR 510.62](https://fedlex.data.admin.ch/eli/cc/2008/388)
 [^annex12-lvlu1-lvl5-2]: [SR 510.624](https://fedlex.data.admin.ch/eli/cc/2008/391)
 
-Anhang 13*[^t-16]*
+Anhang 13[^t-16]
 
 (Art. 46*d*)
 
@@ -4593,7 +4618,7 @@ Anhang 13*[^t-16]*
 
 [^annex13-lvlu1-1]: [SR 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
 
-Anhang 14*[^t-17]*
+Anhang 14[^t-17]
 
 (Art. 46*d* Abs. 1 und 2, 51 Abs. 1, 2 und 4, 52 Abs. 1, 6 und 7, 53 Abs. 1 und 2, 55 Abs. 2 sowie 130 Abs. 1)
 
@@ -4619,7 +4644,7 @@ Anhang 14*[^t-17]*
 
 [^annex14-lvlu1-lvl2-1]: Siehe Fussnote zu Art. 135 Bst. f.
 
-Anhang 15*[^t-18]*
+Anhang 15[^t-18]
 
 (Art. 46*e* und 46*f*)
 
@@ -4662,7 +4687,7 @@ BM Benchmark
 
 Zuteilung<sub>202x</sub> Zuteilung für das Jahr 202x; mit x = 1, 2, 3 etc.
 
-Anhang 16*[^t-19]*
+Anhang 16[^t-19]
 
 (Art. 51)
 
@@ -4715,7 +4740,7 @@ Anhang 16*[^t-19]*
 
 [^annex16-lvlu1-lvl3-1]: Richtlinie (EU) 2018/2001 des Europäischen Parlaments und des Rates vom 11. Dezember 2018 zur Förderung der Nutzung von Energie aus erneuerbaren Quellen (Neufassung), ABl. L 328 vom 21.12.2018, S. 82.
 
-Anhang 17*[^t-20]*
+Anhang 17[^t-20]
 
 (Art. 52)
 
@@ -4758,7 +4783,7 @@ Anhang 17*[^t-20]*
 
 [^annex17-lvlu1-lvl2-1]: Siehe Fussnote zu Art. 52 Abs. 5.
 
-Anhang 18*[^t-21]*
+Anhang 18[^t-21]
 
 (Art. 52)
 

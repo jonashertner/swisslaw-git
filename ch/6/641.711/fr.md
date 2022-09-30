@@ -3,11 +3,11 @@ sr: "641.711"
 title: "Ordonnance du 30 novembre 2012 sur la réduction des émissions de CO<sub>2</sub> (Ordonnance sur le CO<sub>2</sub>)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/856"
 language: fr
-version: 2022-06-01
+version: 2022-10-01
 adopted: 2012-11-30
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20220601/fr/xml/fedlex-data-admin-ch-eli-cc-2012-856-20220601-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20220601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20221001/fr/xml/fedlex-data-admin-ch-eli-cc-2012-856-20221001-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20221001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20220601/fr"
 
 (Ordonnance sur le CO<sub>2</sub>)
 
-du 30 novembre 2012 (Etat le 1<sup>er</sup> juin 2022)
+du 30 novembre 2012 (État le 1<sup>er</sup> octobre 2022)
 
 Le Conseil fédéral suisse,
 
@@ -91,7 +91,7 @@ Les objectifs intermédiaires pour l’année 2015 sont:
 
 [^4a-1]: Introduit par le ch. I de l’O du 8 oct. 2014 ([RO 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)). Abrogé par le ch. I de l’O du 4 mai 2022, avec effet au 1<sup>er</sup> juin 2022 ([RO 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
-### Section 5**** Attestations pour des projets et des programmes de réduction des émissions de gaz à effet de serre ou de renforcement des prestations de puits de carbone réalisés en Suisse ou à l’étranger****
+### Section 5 Attestations pour des projets et des programmes de réduction des émissions de gaz à effet de serre ou de renforcement des prestations de puits de carbone réalisés en Suisse ou à l’étranger
 
 [^chap1-sec5-1][^chap1-sec5-2]
 
@@ -350,7 +350,7 @@ La modification d’un projet ou d’un programme est importante notamment dans 
 
 [^11-1]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
-### Section 5*a* Attestations pour les exploitants d’installations ****
+### Section 5*a* Attestations pour les exploitants d’installations
 
 [^chap1-sec5a-1]
 
@@ -428,7 +428,7 @@ Les exploitants d’installations qui ont conclu une convention d’objectifs co
 [^12a-8]: Introduit par le ch. I de l’O du 25 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 [^12a-9]: Nouvelle teneur selon le ch. I de l’O du 25 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 
-### Section 5*b* Gestion des attestations et protection des données****
+### Section 5*b* Gestion des attestations et protection des données
 
 [^chap1-sec5b-1]
 
@@ -502,7 +502,7 @@ Le rapport doit comporter les informations suivantes:
 
 <sup>3</sup> Sur demande, les cantons mettent à la disposition de l’OFEV les documents sur lesquels se fonde le rapport.
 
-## Chapitre 3**** Mesures visant à réduire les émissions de CO<sub>2</sub> des voitures de tourisme, des voitures de livraison et des tracteurs à sellette légers
+## Chapitre 3 Mesures visant à réduire les émissions de CO<sub>2</sub> des voitures de tourisme, des voitures de livraison et des tracteurs à sellette légers
 
 [^chap3-1]
 
@@ -881,7 +881,7 @@ Abrogés
 
 ## Chapitre 4 Système d’échange de quotas d’émission
 
-### Section 1 Exploitant d’installations****
+### Section 1 Exploitant d’installations
 
 [^chap4-sec1-1]
 
@@ -1084,7 +1084,7 @@ Si la part visée à l’al. 2 ne suffit pas pour satisfaire entièrement aux pr
 
 [^46c-1]: Introduit par le ch. I de l’O du 8 oct. 2014 ([RO 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)). Abrogé par le ch. I de l’O du 25 nov. 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 
-### Section 1*a***** Exploitants d’aéronefs
+### Section 1*a* Exploitants d’aéronefs
 
 [^chap4-sec1a-1]
 
@@ -1136,7 +1136,7 @@ Si la part visée à l’al. 2 ne suffit pas pour satisfaire entièrement aux pr
 [^46f-3]: Abrogé par le ch. I de l’O du 25 nov. 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 [^46f-4]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
-### Section 2**** Mise aux enchères de droits d’émission
+### Section 2 Mise aux enchères de droits d’émission
 
 [^chap4-sec2-1]
 
@@ -1328,7 +1328,7 @@ Les exploitants d’installations qui exercent une des activités visées à l�
 [^54-1]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 [^54-2]: Introduit par le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
-### Section 4 Obligation de remettre les droits d’émission****
+### Section 4 Obligation de remettre les droits d’émission
 
 [^chap4-sec4-1]
 
@@ -1392,7 +1392,7 @@ Dans les cas où les droits d’émission européens ne sont pas reconnus dans l
 [^56-2]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 [^56-3]: Nouvelle teneur selon le ch. I de l’O du 25 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 
-### Section 5 Registre des échanges de quotas d’émission****
+### Section 5 Registre des échanges de quotas d’émission
 
 [^chap4-sec5-1]
 
@@ -2354,7 +2354,7 @@ Si un exploitant d’installations ou une personne au sens de l’art. 96 enfrei
 
 ## Chapitre 9 Utilisation du produit de la taxe sur le CO<sub>2</sub>
 
-### Section 1**** Contributions globales pour la réduction à long terme des émissions de CO<sub>2</sub> des bâtiments
+### Section 1 Contributions globales pour la réduction à long terme des émissions de CO<sub>2</sub> des bâtiments
 
 [^chap9-sec1-1]
 
@@ -2448,7 +2448,7 @@ Le contrôle visant à déterminer si les contributions globales sont utilisées
 
 Abrogé
 
-### Section 1*a* Soutien de projets d’utilisation directe de la géothermie pour la production de chaleur****
+### Section 1*a* Soutien de projets d’utilisation directe de la géothermie pour la production de chaleur
 
 [^chap9-sec1a-1]
 
@@ -2678,7 +2678,7 @@ Les assureurs reçoivent, à titre d’indemnisation des tâches qu’ils accomp
 
 [^123-1]: [RS 814.018](https://fedlex.data.admin.ch/eli/cc/1997/2972_2972_2972)
 
-### Section 4 Redistribution aux milieux économiques****
+### Section 4 Redistribution aux milieux économiques
 
 [^chap9-sec4-1]
 
@@ -3080,7 +3080,7 @@ L’OFDF peut procéder, sur demande, à un remboursement provisoire de la taxe 
 
 <sup>2</sup> Lorsqu’un exploitant d’installations ne remplit pas les conditions de participation au SEQE ou que la demande de définition d’un engagement de réduction est refusée, il doit restituer les sommes remboursées provisoirement, intérêts compris.
 
-### Section 2*a***** Dispositions transitoires relatives à la modification du 8 octobre 2014
+### Section 2*a* Dispositions transitoires relatives à la modification du 8 octobre 2014
 
 [^chap12-sec2a-1]
 
@@ -3109,7 +3109,7 @@ Les certificats de réduction des émissions au sens de l’art. 60, al. 3, insc
 
 [^146b-1]: [RS 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
 
-### Section 2*b***** Dispositions transitoires****
+### Section 2*b* Dispositions transitoires
 
 [^chap12-sec2b-1][^chap12-sec2b-2]
 
@@ -3138,7 +3138,7 @@ Lors de la première application de l’art. 37, le décompte final comprend aus
 
 [^146e-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> nov. 2017, en vigueur depuis le 1<sup>er</sup> déc. 2017 ([RO 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
 
-### Section 2*c***** Dispositions transitoires relatives à la modification du 25 novembre 2020
+### Section 2*c* Dispositions transitoires relatives à la modification du 25 novembre 2020
 
 [^chap12-sec2c-1]
 
@@ -3206,7 +3206,7 @@ Sont tenus de rembourser les sommes remboursées provisoirement, intérêts comp
 
 <sup>2</sup> L’OFEV adapte l’objectif d’émission au sens de l’art. 67 et l’objectif fondé sur des mesures au sens de l’art. 68 pour l’année 2020 uniquement si, en raison de l’acquisition de chaleur ou de froid auprès d’un tiers ou de la fermeture d’une installation, les émissions de gaz à effet de serre ont été inférieures à la trajectoire de réduction.
 
-### Section 2*d***** Dispositions transitoires relatives à la modification du 24 novembre 2021
+### Section 2*d* Dispositions transitoires relatives à la modification du 24 novembre 2021
 
 [^chap12-sec2d-1]
 
@@ -3216,7 +3216,7 @@ Sont tenus de rembourser les sommes remboursées provisoirement, intérêts comp
 
 L’OFEV peut reporter le délai visé à l’art. 55, al. 3, concernant la remise des droits d’émission pour l’année 2021 à une date postérieure au 30 avril 2022 si le calcul de la quantité de droits d’émission attribués à titre gratuit est retardé.
 
-### Section 2*e***** Dispositions transitoires relatives à la modification du 4 mai 2022
+### Section 2*e* Dispositions transitoires relatives à la modification du 4 mai 2022
 
 [^chap12-sec2e-1]
 
@@ -3291,17 +3291,42 @@ Les exploitants d’installations qui prolongent leur engagement de réduction e
 
 #### Art. 146s
 
-**Adaptation de l’objectif d’émission et de l’objectif fondé sur des mesures pour les années 2022 à 2024**
+[^146s-1]
 
-<sup>1</sup> En cas d’émissions de gaz à effet de serre inférieures à la trajectoire de réduction, l’OFEV adapte l’objectif d’émission au sens de l’art. 146*o*, al. 2, si les conditions mentionnées à l’art. 73, al. 1, sont remplies au cours des années 2022 à 2024. En dérogation à l’art. 73, al. 2, l’adaptation se fait avec effet rétroactif à 2022 au plus tôt.
-
-<sup>2</sup> L’OFEV adapte l’objectif fondé sur des mesures au sens de l’art. 146*o*, al. 3, si les conditions mentionnées à l’art. 74 sont remplies au cours des années 2022 à 2024.
+[^146s-1]: Abrogé par le ch. I de l’O du 16 sept. 2022, avec effet au 1<sup>er</sup> oct. 2022 ([RO 2022 513](https://fedlex.data.admin.ch/eli/oc/2022/513)).
 
 #### Art. 146t
 
 **Prise en compte de droits d’émission**
 
 Les exploitants d’installations qui n’ont pas atteint leur objectif d’émission ou leur objectif fondé sur des mesures et à qui aucune attestation au sens de l’art. 12 n’a été délivrée peuvent se faire imputer des droits d’émission pour les années 2022 à 2024 à hauteur de 4,5 % des émissions de gaz à effet de serre générées au cours des années 2022 à 2024, afin de respecter leur engagement de réduction.
+
+#### Art. 146u
+
+**Adaptation de l’objectif d’émission et de l’objectif fondé sur des mesures pour les années 2022 à 2024**[^146u-1]
+
+L’OFEV adapte l’objectif d’émission prévu à l’art. 67 et l’objectif fondé sur des mesures prévu à l’art. 68 pour les années 2022 à 2024 si les émissions de gaz à effet de serre ont été inférieures à la trajectoire de réduction uniquement en raison de l’acquisition de chaleur ou de froid auprès d’un tiers ou de la fermeture d’une installation.
+
+[^146u-1]: Introduit par le ch. I de l’O du 16 sept. 2022, en vigueur depuis le 1<sup>er</sup> oct. 2022 ([RO 2022 513](https://fedlex.data.admin.ch/eli/oc/2022/513)).
+
+#### Art. 146v
+
+**Non-prise en compte des émissions de CO<sub>2</sub> en cas de changement d’agent énergétique**[^146v-1]
+
+<sup>1</sup> Les émissions de CO<sub>2</sub> générées par un changement d’agent énergétique recommandé par le Département fédéral de l’économie, de la formation et de la recherche et par le DETEC ou ordonné par le Conseil fédéral ne sont, sur demande, pas prises en compte dans l’évaluation du respect ou du non-respect de l’engagement de réduction durant les années 2022 à 2024.
+
+<sup>2</sup>
+
+La demande de non-prise en compte des émissions de CO<sub>2</sub> prévue à l’al. 1 doit être remise chaque année à l’OFEV en la forme prescrite par celui-ci, au plus tard le 31 mai de l’année suivante. Elle doit comporter notamment les éléments suivants:
+
+- a. le type et la quantité de l’agent énergétique nouvellement utilisé suite au changement d’agent énergétique;
+- b. le type et la quantité de l’agent énergétique remplacé dans le cadre du changement d’agent énergétique;
+- c. la quantité d’émissions de CO<sub>2</sub> supplémentaires générées suite au changement d’agent énergétique;
+- d. la durée du changement d’agent énergétique.
+
+<sup>3</sup> L’OFEV peut publier la quantité d’émissions générées suite au changement d’agent énergétique.
+
+[^146v-1]: Introduit par le ch. I de l’O du 16 sept. 2022, en vigueur depuis le 1<sup>er</sup> oct. 2022 ([RO 2022 513](https://fedlex.data.admin.ch/eli/oc/2022/513)).
 
 ### Section 3 Entrée en vigueur
 
@@ -3353,7 +3378,7 @@ Annexe 1
 <tr><td>Trifluorure d’azote</td><td>NF<sub>3</sub></td><td>17 200</td></tr>
 </table>
 
-Annexe 2*[^t-1]*
+Annexe 2[^t-1]
 
 (art. 146l, let. b)
 
@@ -3383,7 +3408,7 @@ Annexe 2*[^t-1]*
 
 [^annex2-lvlu1-1]: [RS 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
 
-Annexe 2a*[^t-2]*
+Annexe 2a[^t-2]
 
 (art. 5, al. 1, let. a)
 
@@ -3406,7 +3431,7 @@ Aucune attestation internationale n’est délivrée pour un projet ou un progra
 - k. par le biais d’activités qui ont d’importantes conséquences néfastes sur la société ou l’environnement;
 - l. par le biais d’activités incompatibles avec la politique extérieure ou la politique de développement de la Suisse.
 
-Annexe 3*[^t-3]*
+Annexe 3[^t-3]
 
 (art. 5, al. 1, let. a)
 
@@ -3431,7 +3456,7 @@ Aucune attestation nationale n’est délivrée pour un projet ou un programme r
 [^annex3-lvlu1-3]: [RS 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
 [^annex3-lvlu1-4]: [RS 730.03](https://fedlex.data.admin.ch/eli/cc/2017/766)
 
-Annexe 3a*[^t-4]*
+Annexe 3a[^t-4]
 
 (art. 6, al. 2<sup>bis</sup>)
 
@@ -3639,7 +3664,7 @@ La mesure de l’énergie électrique (Q<sub>él,y</sub>) doit remplir les condi
 - d. la mesure est effectuée en continu,
 - e. l’assurance qualité est effectuée conformément aux dispositions de l’OIEMes et aux dispositions d’exécution correspondantes du DFJP.
 
-Annexe 3b*[^t-5]*
+Annexe 3b[^t-5]
 
 (art. 6, al. 4)
 
@@ -3683,7 +3708,7 @@ Au sens de la présente annexe, on entend par:
 
 Le facteur d’oxydation (OX) est un paramètre indispensable au calcul des réductions d’émissions. Le choix de sa valeur découle de l’arbre de décision suivant:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20220601/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20221001/fr/xml/image/image1.png)
 
 ### 3.3 Calcul ex-ante des réductions d’émissions
 
@@ -3808,7 +3833,7 @@ La détermination de la consommation de gaz (Q<sub>gaz,y</sub>) doit remplir les
 - d. la mesure est effectuée en continu ou au moment de la livraison de chaque nouvelle bouteille de gaz;
 - e. l’assurance qualité est effectuée selon les données du fabricant.
 
-Annexe 4*[^t-6]*
+Annexe 4[^t-6]
 
 (art. 25, al. 2)
 
@@ -3894,7 +3919,7 @@ Annexe 4*[^t-6]*
   - a. si la deuxième décimale est égale ou inférieure à 4, le total est arrondi à l’unité inférieure;
   - b. si la deuxième décimale est égale ou supérieure à 5, le total est arrondi à l’unité supérieure.
 
-Annexe 4a*[^t-7]*
+Annexe 4a[^t-7]
 
 (art. 28, al. 1)
 
@@ -3943,7 +3968,7 @@ Annexe 4a*[^t-7]*
   - b. 2019: 2067 kg;
   - c. 2020: 2089 kg.
 
-Annexe 5*[^t-8]*
+Annexe 5[^t-8]
 
 (art. 29, al. 1)
 
@@ -3978,7 +4003,7 @@ Les montants à verser en cas de dépassement de la valeur cible spécifique par
 - c. pour l’année de référence 2021: 103,50 francs;
 - d. pour l’année de référence 2022: 104 francs.
 
-Annexe 6*[^t-9]*
+Annexe 6[^t-9]
 
 (art. 40, al. 1)
 
@@ -4017,7 +4042,7 @@ Tout exploitant d’installations qui exerce au moins une des activités suivant
 
 [^annex6-lvlu1-1]: [RS 814.600](https://fedlex.data.admin.ch/eli/cc/2015/891)
 
-Annexe 7*[^t-10]*
+Annexe 7[^t-10]
 
 (art. 42, al. 1, let. a, 66, al 1, let. a et b, et 3, let. a et b)
 
@@ -4048,7 +4073,7 @@ Annexe 7*[^t-10]*
 - 20\. production, à partir de combustibles fossiles, de chaleur ou de froid (éventuellement couplée à la production d’électricité) injectés dans des réseaux régionaux de chauffage ou de refroidissement à distance ou fournis à des exploitants d’installations exerçant des activités visées aux ch. 1 à 19 et 21;
 - 21\. nettoyage de fûts, de conteneurs et d’autres récipients utilisés dans le cadre d’activités listées dans cette annexe.
 
-Annexe 8*[^t-11]*
+Annexe 8[^t-11]
 
 (art. 45, al. 1, et 48, al. 1<sup>bis</sup>)
 
@@ -4080,7 +4105,7 @@ La quantité maximale de droits d’émission disponibles chaque année pour l�
 - 2\.3 La demande de droits d’émission pour installations correspond au résultat de la soustraction suivante:
 - émissions de gaz à effet de serre pertinentes visées à l’art. 55 émises entre 2013 et la fin de l’année précédente, moins les certificats de réduction des émissions qui ont été remis pour couvrir ces émissions de gaz à effet de serre au cours de la période de 2013 à 2020.
 
-Annexe 9*[^t-12]*
+Annexe 9[^t-12]
 
 (art. 46, al. 1, 46*a*, al. 2, et 46*b*, al. 1 et 3)
 
@@ -4266,7 +4291,7 @@ Annexe 9*[^t-12]*
   - 1\. la chaleur qui est utilisée dans un référentiel de produit (ch. 1.7);
   - 2\. le rapport entre les émissions directes et la somme des émissions directes et indirectes (ch. 4.1).
 
-Annexe 10*[^t-13]*
+Annexe 10[^t-13]
 
 (art. 86, al. 1, et 89, al. 2)
 
@@ -4291,7 +4316,7 @@ Annexe 10*[^t-13]*
 
 [^annex10-lvlu1-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)annexe
 
-Annexe 11*[^t-14]*
+Annexe 11[^t-14]
 
 (art. 94, al. 2)
 
@@ -4395,7 +4420,7 @@ Les montants suivants s’appliquent aux combustibles ci-après:
 
 Les combustibles utilisés au sens du ch. 3.1 sont soumis aux montants visés au ch. 2.
 
-Annexe 12*[^t-15]*
+Annexe 12[^t-15]
 
 (art. 112 à 113*b*)
 
@@ -4554,7 +4579,7 @@ Annexe 12*[^t-15]*
 [^annex12-lvlu1-lvl5-1]: [RS 510.62](https://fedlex.data.admin.ch/eli/cc/2008/388)
 [^annex12-lvlu1-lvl5-2]: [RS 510.624](https://fedlex.data.admin.ch/eli/cc/2008/391)
 
-Annexe 13*[^t-16]*
+Annexe 13[^t-16]
 
 (art. 46*d*)
 
@@ -4603,7 +4628,7 @@ Annexe 13*[^t-16]*
 
 [^annex13-lvlu1-1]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
 
-Annexe 14*[^t-17]*
+Annexe 14[^t-17]
 
 (art. 46*d*, al. 1 et 2, 51, al. 1, 2 et 4, 52, al. 1, 6 et 7, 53, al. 1 et 2, 55, al. 2, et 130, al. 1)
 
@@ -4629,7 +4654,7 @@ Annexe 14*[^t-17]*
 
 [^annex14-lvlu1-lvl2-1]: Voir note de bas de page relative à l’art. 135, let. f.
 
-Annexe 15*[^t-18]*
+Annexe 15[^t-18]
 
 (art. 46*e* et 46*f*)
 
@@ -4673,7 +4698,7 @@ Cap<sub>202x</sub> plafond d’émission pour l’année 202x, où x = 1, 2, 3, 
 
 Attribution<sub>202x</sub> Attribution pour l’année 202x, où x = 1, 2, 3, etc.
 
-Annexe 16*[^t-19]*
+Annexe 16[^t-19]
 
 (art. 51)
 
@@ -4726,7 +4751,7 @@ Annexe 16*[^t-19]*
 
 [^annex16-lvlu1-lvl3-1]: Directive (UE) 2018/2001 du Parlement européen et du Conseil du 11 décembre 2018 relative à la promotion de l’utilisation de l’énergie produite à partir de sources renouvelables (refonte), JO L 328 du 21.12.2018, p. 82.
 
-Annexe 17*[^t-20]*
+Annexe 17[^t-20]
 
 (art. 52)
 
@@ -4769,7 +4794,7 @@ Annexe 17*[^t-20]*
 
 [^annex17-lvlu1-lvl2-1]: Voir note de bas de page relative à l’art. 52, al. 5
 
-Annexe 18*[^t-21]*
+Annexe 18[^t-21]
 
 (art. 52)
 

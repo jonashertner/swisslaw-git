@@ -3,11 +3,11 @@ sr: "641.711"
 title: "Ordinanza del 30 novembre 2012 sulla riduzione delle emissioni di CO<sub>2</sub> (Ordinanza sul CO<sub>2</sub>)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/856"
 language: it
-version: 2022-06-01
+version: 2022-10-01
 adopted: 2012-11-30
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20220601/it/xml/fedlex-data-admin-ch-eli-cc-2012-856-20220601-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20220601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20221001/it/xml/fedlex-data-admin-ch-eli-cc-2012-856-20221001-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20221001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20220601/it"
 
 (Ordinanza sul CO<sub>2</sub>)
 
-del 30 novembre 2012 (Stato 1° giugno 2022)
+del 30 novembre 2012 (Stato 1° ottobre 2022)
 
 Il Consiglio federale svizzero,
 
@@ -91,7 +91,7 @@ Gli obiettivi intermedi per il 2015 sono:
 
 [^4a-1]: Introdotto dal n. I dell’O dell’8 ott. 2014 ([RU 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)). Abrogato dal n. I dell’O del 4 mag. 2022, con effetto dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
-### Sezione 5:**** Attestati per progetti e programmi di riduzione delle emissioni o di aumento delle prestazioni dei pozzi di carbonio in Svizzera e all’estero****
+### Sezione 5: Attestati per progetti e programmi di riduzione delle emissioni o di aumento delle prestazioni dei pozzi di carbonio in Svizzera e all’estero
 
 [^chap1-sec5-1][^chap1-sec5-2]
 
@@ -352,7 +352,7 @@ Una modifica di un progetto o di un programma è sostanziale in particolare se:
 
 [^11-1]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
-### Sezione 5*a*: Attestati per i gestori di impianti****
+### Sezione 5*a*: Attestati per i gestori di impianti
 
 [^chap1-sec5a-1]
 
@@ -430,7 +430,7 @@ Ai gestori di impianti che hanno convenuto con la Confederazione obiettivi sull�
 [^12a-8]: Introdotto dal n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 [^12a-9]: Nuovo testo giusta il n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 
-### Sezione 5*b*: Gestione degli attestati e protezione dei dati****
+### Sezione 5*b*: Gestione degli attestati e protezione dei dati
 
 [^chap1-sec5b-1]
 
@@ -505,7 +505,7 @@ Il rapporto deve contenere informazioni concernenti:
 
 <sup>3</sup> Su richiesta, i Cantoni forniscono all’UFAM la documentazione necessaria relativa al rapporto.
 
-## Capitolo 3:**** Provvedimenti per ridurre le emissioni di CO<sub>2</sub> di automobili, autofurgoni e trattori a sella leggeri
+## Capitolo 3: Provvedimenti per ridurre le emissioni di CO<sub>2</sub> di automobili, autofurgoni e trattori a sella leggeri
 
 [^chap3-1]
 
@@ -819,7 +819,7 @@ Esso può chiedere ai grandi importatori il versamento di acconti trimestrali a 
 
 <sup>3</sup> L’UFE calcola gli importi degli acconti basandosi sui dati di cui al capoverso 1. Gli acconti già versati sono considerati nella fatturazione.
 
-<sup>4</sup> Se gli acconti versati superano la sanzione dovuta per l’intero anno per il parco veicoli nuovi, l’UFE rimborsa la differenza, compreso un interesse sugli importi da rimborsare. [^31-2]
+<sup>4</sup> Se gli acconti versati superano la sanzione dovuta per l’intero anno per il parco veicoli nuovi, l’UFE rimborsa la differenza, compreso un interesse sugli importi da rimborsare.[^31-2]
 
 [^31-1]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 [^31-2]: Introdotto dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
@@ -840,7 +840,7 @@ Esso può chiedere ai grandi importatori il versamento di acconti trimestrali a 
 
 ### Sezione 5: Calcolo e riscossione della sanzione per i piccoli importatori
 
-**Art. 35***[^chap3-sec5-1]*
+**Art. 35**[^chap3-sec5-1]
 
 <sup>1</sup> Se le emissioni medie di CO<sub>2</sub> di un veicolo di un piccolo importatore superano l’obiettivo individuale, l’USTRA ordina la sanzione.
 
@@ -883,7 +883,7 @@ L’UFE informa annualmente in forma appropriata la popolazione in merito al rag
 
 ## Capitolo 4: Sistema di scambio di quote di emissioni
 
-### Sezione 1: Gestori di impianti****
+### Sezione 1: Gestori di impianti
 
 [^chap4-sec1-1]
 
@@ -1086,7 +1086,7 @@ Se la quota di cui al capoverso 2 non è sufficiente per adempiere completamente
 
 [^46c-1]: Introdotto dal n. I dell’O dell’8 ott. 2014 ([RU 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)). Abrogato dal n. I dell’O del 25 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 
-### Sezione 1*a*:**** Operatori di aeromobili
+### Sezione 1*a*: Operatori di aeromobili
 
 [^chap4-sec1a-1]
 
@@ -1138,7 +1138,7 @@ Se la quota di cui al capoverso 2 non è sufficiente per adempiere completamente
 [^46f-3]: Abrogato dal n. I dell’O del 25 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 [^46f-4]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
-### Sezione 2:**** Vendita all’asta dei diritti di emissione
+### Sezione 2: Vendita all’asta dei diritti di emissione
 
 [^chap4-sec2-1]
 
@@ -1328,7 +1328,7 @@ I gestori di impianti che esercitano un’attività di cui all’allegato 6 e so
 [^54-1]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 [^54-2]: Introdotto dal n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
-### Sezione 4: Obbligo di consegna di diritti di emissione****
+### Sezione 4: Obbligo di consegna di diritti di emissione
 
 [^chap4-sec4-1]
 
@@ -1392,7 +1392,7 @@ Nei casi in cui i diritti di emissione europei non sono riconosciuti nel SSQE sv
 [^56-2]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 [^56-3]: Nuovo testo giusta il n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 
-### Sezione 5: Registro dello scambio di quote di emissioni****
+### Sezione 5: Registro dello scambio di quote di emissioni
 
 [^chap4-sec5-1]
 
@@ -2351,7 +2351,7 @@ Se un gestore di impianti o una persona di cui all’articolo 96 viola i suoi ob
 
 ## Capitolo 9: Utilizzazione dei proventi della tassa sul CO<sub>2</sub>
 
-### Sezione 1:**** Contributi globali per la riduzione a lungo termine delle emissioni di CO<sub>2</sub> degli edifici
+### Sezione 1: Contributi globali per la riduzione a lungo termine delle emissioni di CO<sub>2</sub> degli edifici
 
 [^chap9-sec1-1]
 
@@ -2445,7 +2445,7 @@ Il controllo del corretto impiego dei contributi globali si basa sull’articolo
 
 Abrogato
 
-### Sezione 1*a*: Sostegno a progetti per l’impiego diretto della geotermia per la produzione di calore****
+### Sezione 1*a*: Sostegno a progetti per l’impiego diretto della geotermia per la produzione di calore
 
 [^chap9-sec1a-1]
 
@@ -3075,7 +3075,7 @@ L’UDSC può, su domanda, restituire temporaneamente la tassa sul CO<sub>2</sub
 
 <sup>2</sup> Se il gestore di impianti non soddisfa le condizioni di partecipazione al SSQE o se la domanda di determinazione di un impegno di riduzione è respinta, il gestore di impianti deve rendere gli importi restituiti provvisoriamente, compresi gli interessi.
 
-### Sezione 2*a*:**** Disposizioni transitorie dell’8 ottobre 2014
+### Sezione 2*a*: Disposizioni transitorie dell’8 ottobre 2014
 
 [^chap12-sec2a-1]
 
@@ -3104,7 +3104,7 @@ I certificati di riduzione delle emissioni di cui all’articolo 60 capoverso 3,
 
 [^146b-1]: [RS 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
 
-### Sezione 2*b*:**** Disposizioni transitorie****
+### Sezione 2*b*: Disposizioni transitorie
 
 [^chap12-sec2b-1][^chap12-sec2b-2]
 
@@ -3133,7 +3133,7 @@ Alla prima applicazione dell’articolo 37 la fattura finale comprende inoltre g
 
 [^146e-1]: Introdotto dal n. I dell’O del 1° nov. 2017, in vigore dal 1° dic. 2017 ([RU 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
 
-### Sezione 2*c*:**** Disposizioni transitorie concernenti la modifica del 25 novembre 2020
+### Sezione 2*c*: Disposizioni transitorie concernenti la modifica del 25 novembre 2020
 
 [^chap12-sec2c-1]
 
@@ -3201,7 +3201,7 @@ Sono tenuti a restituire gli importi loro rimborsati provvisoriamente, compresi 
 
 <sup>2</sup> L’UFAM adegua l’obiettivo di emissione di cui all’articolo 67 e l’obiettivo basato su provvedimenti di cui all’articolo 68 per l’anno 2020 soltanto se le emissioni di gas sera sono state inferiori al percorso di riduzione a seguito di consumo di calore o di freddo da parte di terzi o della chiusura di un impianto.
 
-### Sezione 2*d*:**** Disposizioni transitorie concernenti la modifica del 24 novembre 2021
+### Sezione 2*d*: Disposizioni transitorie concernenti la modifica del 24 novembre 2021
 
 [^chap12-sec2d-1]
 
@@ -3211,7 +3211,7 @@ Sono tenuti a restituire gli importi loro rimborsati provvisoriamente, compresi 
 
 L’UFAM può prorogare il termine per la consegna dei diritti di emissione dell’anno 2021 di cui all’articolo 55 capoverso 3 a una data dopo il 30 aprile 2022 se il calcolo della quantità dei diritti di emissione assegnati gratuitamente subisce un ritardo.
 
-### Sezione 2*e*:**** Disposizioni transitorie concernenti la modifica del 4 maggio 2022
+### Sezione 2*e*: Disposizioni transitorie concernenti la modifica del 4 maggio 2022
 
 [^chap12-sec2e-1]
 
@@ -3286,17 +3286,42 @@ I gestori di impianti che prorogano il loro impegno di riduzione secondo l’art
 
 #### Art. 146s
 
-**Adeguamento dell’obiettivo di emissione e dell’obiettivo basato su provvedimenti negli anni 2022-2024**
+[^146s-1]
 
-<sup>1</sup> L’UFAM adegua l’obiettivo di emissione di cui all’articolo 146*o* capoverso 2 in caso di emissioni di gas serra inferiori al percorso di riduzione se le condizioni di cui all’articolo 73 capoverso 1 sono adempiute negli anni 2022-2024. In deroga all’articolo 73 capoverso 2, l’adeguamento ha luogo al più presto retroattivamente per il 2022.
-
-<sup>2</sup> L’UFAM adegua l’obiettivo basato sui provvedimenti di cui all’articolo 146*o* capoverso 3, se le condizioni di cui all’articolo 74 sono adempiute negli anni 2022–2024.
+[^146s-1]: Abrogato dal n. I dell’O del 16 set. 2022, con effetto dal 1° ott. 2022 ([RU 2022 513](https://fedlex.data.admin.ch/eli/oc/2022/513)).
 
 #### Art. 146t
 
 **Computo di diritti di emissione**
 
 Un gestore di impianti che non ha raggiunto il suo obiettivo di emissione o il suo obiettivo basato sui provvedimenti e al quale non sono stati rilasciati attestati di cui all’articolo 12, per il periodo 2022–2024 può farsi computare all’adempimento dell’impegno di riduzione diritti di emissione nella misura del 4,5 per cento delle emissioni di gas serra degli anni 2022–2024.
+
+#### Art. 146u
+
+**Adeguamento dell’obiettivo di emissione e dell’obiettivo basato su provvedimenti negli anni 2022-2024**[^146u-1]
+
+L’UFAM adegua l’obiettivo di emissione di cui all’articolo 67 e l’obiettivo basato su provvedimenti di cui all’articolo 68 per gli anni 2022-2024 soltanto se le emissioni di gas serra sono state inferiori al percorso di riduzione a seguito di consumo di calore o di freddo da parte di terzi o a seguito della chiusura di un impianto.
+
+[^146u-1]: Introdotto dal n. I dell’O del 16 set. 2022, in vigore dal 1° ott. 2022 ([RU 2022 513](https://fedlex.data.admin.ch/eli/oc/2022/513)).
+
+#### Art. 146v
+
+**Non considerazione delle emissioni di CO<sub>2</sub> in caso di cambiamento del vettore energetico**[^146v-1]
+
+<sup>1</sup> Per gli anni 2022-2024 le emissioni di CO<sub>2</sub> prodotte da un cambiamento del vettore energetico raccomandato dal Dipartimento federale dell’economia, della formazione e della ricerca e dal DATEC o ordinato dal Consiglio federale non sono, su domanda, tenute in considerazione nella valutazione dell’adempimento o del mancato adempimento dell’impegno di riduzione.
+
+<sup>2</sup>
+
+La domanda di non considerazione delle emissioni di CO<sub>2</sub> secondo il capoverso 1 deve essere presentata ogni anno all’UFAM entro il 31 maggio dell’anno successivo nella forma da esso prescritta. Deve contenere in particolare:
+
+- a. tipo e quantità del nuovo vettore energetico impiegato in seguito al cambiamento del vettore energetico;
+- b. tipo e quantità del vettore energetico sostituito in seguito al cambiamento del vettore energetico;
+- c. quantità delle emissioni supplementari di CO<sub>2</sub> prodotte dal cambiamento del vettore energetico;
+- d. durata del cambiamento del vettore energetico.
+
+<sup>3</sup> L’UFAM può pubblicare le quantità di emissioni di CO<sub>2</sub> relative al cambiamento del vettore energetico.
+
+[^146v-1]: Introdotto dal n. I dell’O del 16 set. 2022, in vigore dal 1° ott. 2022 ([RU 2022 513](https://fedlex.data.admin.ch/eli/oc/2022/513)).
 
 ### Sezione 3: Entrata in vigore
 
@@ -3348,7 +3373,7 @@ Allegato 1
 <tr><td>Trifluoruro di azoto</td><td>NF<sub>3</sub></td><td>17 200</td></tr>
 </table>
 
-Allegato 2*[^t-1]*
+Allegato 2[^t-1]
 
 (art. 146*l* lett. b)
 
@@ -3378,7 +3403,7 @@ Allegato 2*[^t-1]*
 
 [^annex2-lvlu1-1]: [RS 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
 
-Allegato 2a*[^t-2]*
+Allegato 2a[^t-2]
 
 (art. 5 cpv. 1 lett. a)
 
@@ -3401,7 +3426,7 @@ Per un progetto o un programma realizzato all’estero non sono rilasciati attes
 - k. attività che hanno notevoli ripercussioni sociali o ecologiche;
 - l. attività che contraddicono gli obiettivi della politica estera o di sviluppo della Svizzera.
 
-Allegato 3*[^t-3]*
+Allegato 3[^t-3]
 
 (art. 5 cpv. 1 lett. a)
 
@@ -3426,7 +3451,7 @@ Per un progetto o un programma realizzato in Svizzera non sono rilasciati attest
 [^annex3-lvlu1-3]: [RS 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
 [^annex3-lvlu1-4]: [RS 730.03](https://fedlex.data.admin.ch/eli/cc/2017/766)
 
-Allegato 3a*[^t-4]*
+Allegato 3a[^t-4]
 
 (art. 6 cpv. 2<sup>bis</sup>)
 
@@ -3634,7 +3659,7 @@ Nella misurazione dell’energia elettrica (Q<sub>el.,y</sub>) devono essere ade
 - d. la misurazione deve essere continua; e
 - e. la qualità deve essere garantita conformemente ai requisiti dell’OStrM e alle relative prescrizioni d’esecuzione del DFGP.
 
-Allegato 3b*[^t-5]*
+Allegato 3b[^t-5]
 
 (art. 6 cpv. 4)
 
@@ -3678,7 +3703,7 @@ Ai sensi del presente allegato si intendono per:
 
 Per la determinazione del valore del fattore di ossidazione (OX) necessario per i calcoli delle riduzioni di emissioni deve essere utilizzato il seguente albero decisionale:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20220601/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20221001/it/xml/image/image1.png)
 
 ### 3.3 Calcolo ex ante delle riduzioni delle emissioni
 
@@ -3803,7 +3828,7 @@ Nella determinazione della quantità di gas (Q<sub>gas,y</sub>) devono essere ad
 - d. la misurazione deve essere continua o avvenire alla fornitura di ogni nuova bombola di gas; e
 - e. la qualità deve essere garantita secondo le specifiche del fabbricante.
 
-Allegato 4*[^t-6]*
+Allegato 4[^t-6]
 
 (art. 25 cpv. 2)
 
@@ -3889,7 +3914,7 @@ Allegato 4*[^t-6]*
   - a. se è uguale o inferiore a 4, il valore della seconda cifra decimale è arrotondato per difetto;
   - b. se è uguale o superiore a 5, il valore della seconda cifra decimale è arrotondato per eccesso.
 
-Allegato 4a*[^t-7]*
+Allegato 4a[^t-7]
 
 (art. 28 cpv. 1)
 
@@ -3938,7 +3963,7 @@ Allegato 4a*[^t-7]*
   - b. 2019: 2067 kg;
   - c. 2021: 2089 kg.
 
-Allegato 5*[^t-8]*
+Allegato 5[^t-8]
 
 (art. 29 cpv. 1)
 
@@ -3973,7 +3998,7 @@ Gli importi dovuti in caso di superamento dell'obiettivo individuale per ogni gr
 - c. per l’anno di riferimento 2021: 103.50 franchi;
 - d. per l’anno di riferimento 2022: 104.00 franchi.
 
-Allegato 6*[^t-9]*
+Allegato 6[^t-9]
 
 (art. 40 cpv. 1)
 
@@ -4012,7 +4037,7 @@ Un gestore di impianti che esercita almeno una delle seguenti attività deve par
 
 [^annex6-lvlu1-1]: [RS 814.600](https://fedlex.data.admin.ch/eli/cc/2015/891)
 
-Allegato 7*[^t-10]*
+Allegato 7[^t-10]
 
 (art. 42 cpv. 1 lett. a, 66 cpv. 1 lett. a e b nonché cpv. 3 lett. a e b)
 
@@ -4043,7 +4068,7 @@ Allegato 7*[^t-10]*
 - 20\. produzione di calore o freddo generata da combustibili fossili, eventualmente combinata con la produzione di energia elettrica, immessa in reti regionali di teleriscaldamento e teleraffreddamento o fornita a gestori di impianti che esercitano attività di cui ai numeri 1–19 e 21;
 - 21\. pulizia di fusti, container e altri contenitori utilizzati in relazione con attività secondo il presente allegato.
 
-Allegato 8*[^t-11]*
+Allegato 8[^t-11]
 
 (art. 45 cpv. 1 e 48 cpv. 1<sup>bis</sup>)
 
@@ -4074,7 +4099,7 @@ La quantità massima di diritti di emissione disponibili annualmente per l’ins
 
 - 2\.3 La domanda di diritti di emissione per gli impianti è il risultato della seguente sottrazione: le emissioni rilevanti di gas serra degli impianti di cui all’articolo 55 dedotti i certificati di riduzione delle emissioni consegnati per gli anni 2013–2020 a copertura di queste emissioni di gas serra.
 
-Allegato 9*[^t-12]*
+Allegato 9[^t-12]
 
 (art. 46 cpv. 1, 46*a* cpv. 2 e 46*b* cpv. 1 e 3)
 
@@ -4256,7 +4281,7 @@ Allegato 9*[^t-12]*
   - 1\. il calore utilizzato all’interno di un elemento di assegnazione con parametro di riferimento relativo al prodotto secondo il numero 1.7;
   - 2\. il rapporto tra le emissioni dirette e la somma delle emissioni dirette e indirette secondo il numero 4.1.
 
-Allegato 10*[^t-13]*
+Allegato 10[^t-13]
 
 (art. 86 cpv. 1 e 89 cpv. 2)
 
@@ -4281,7 +4306,7 @@ Allegato 10*[^t-13]*
 
 [^annex10-lvlu1-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871), allegato
 
-Allegato 11*[^t-14]*
+Allegato 11[^t-14]
 
 (art. 94 cpv. 2)
 
@@ -4385,7 +4410,7 @@ Per i combustibili menzionati qui di seguito si applicano le seguenti aliquote:
 
 - I combustibili impiegati conformemente al numero 3.1 sono assoggettati alle aliquote della tassa di cui al numero 2.
 
-Allegato 12*[^t-15]*
+Allegato 12[^t-15]
 
 (art. 112–113*b*)
 
@@ -4541,7 +4566,7 @@ Allegato 12*[^t-15]*
 [^annex12-lvlu1-lvl5-1]: [RS 510.62](https://fedlex.data.admin.ch/eli/cc/2008/388)
 [^annex12-lvlu1-lvl5-2]: [RS 510.624](https://fedlex.data.admin.ch/eli/cc/2008/391)
 
-Allegato 13*[^t-16]*
+Allegato 13[^t-16]
 
 (art. 46*d*)
 
@@ -4590,7 +4615,7 @@ Allegato 13*[^t-16]*
 
 [^annex13-lvlu1-1]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
 
-Allegato 14*[^t-17]*
+Allegato 14[^t-17]
 
 (art. 46*d* cpv. 1 e 2, 51 cpv. 1, 2 e 4, 52 cpv. 1, 6 e 7, 53 cpv. 1 e 2, 55 cpv. 2 e 130 cpv. 1)
 
@@ -4616,7 +4641,7 @@ Allegato 14*[^t-17]*
 
 [^annex14-lvlu1-lvl2-1]: Cfr. nota a piè di pagina all’art. 135 lett. f.
 
-Allegato 15*[^t-18]*
+Allegato 15[^t-18]
 
 (art. 46*e* e 46*f*)
 
@@ -4651,7 +4676,7 @@ Allegato 15*[^t-18]*
 - *Assegnazione**<sub>202x</sub>* *=* *Assegnazione**<sub>2020</sub>* *– x \* 0,022 \* assegnazione**<sub>2020</sub>*
 - *Assegnazione**<sub>202x</sub>* Assegnazione per l’anno 202x; con x = 1, 2, 3 ecc.
 
-Allegato 16*[^t-19]*
+Allegato 16[^t-19]
 
 (art. 51)
 
@@ -4704,7 +4729,7 @@ Allegato 16*[^t-19]*
 
 [^annex16-lvlu1-lvl3-1]: Direttiva (UE) 2018/2001 del Parlamento europeo e del Consiglio, dell’11 dicembre 2018, sulla promozione dell’uso dell’energia da fonti rinnovabili (rifusione), GU L 328 del 21.12.2018, pag. 82.
 
-Allegato 17*[^t-20]*
+Allegato 17[^t-20]
 
 (art. 52)
 
@@ -4747,7 +4772,7 @@ Allegato 17*[^t-20]*
 
 [^annex17-lvlu1-lvl2-1]: Cfr. nota a piè di pagina all’art. 52 cpv. 5.
 
-Allegato 18*[^t-21]*
+Allegato 18[^t-21]
 
 (art. 52)
 

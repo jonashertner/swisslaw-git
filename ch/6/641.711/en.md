@@ -3,11 +3,11 @@ sr: "641.711"
 title: "Ordinance of 30 November 2012 for the Reduction of CO<sub>2</sub> Emissions (CO<sub>2</sub> Ordinance)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/856"
 language: en
-version: 2022-06-01
+version: 2022-10-01
 adopted: 2012-11-30
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20220601/en/xml/fedlex-data-admin-ch-eli-cc-2012-856-20220601-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20220601/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20221001/en/xml/fedlex-data-admin-ch-eli-cc-2012-856-20221001-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20221001/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (CO<sub>2</sub> Ordinance)
 
-of 30 November 2012 (Status as of 1 June 2022)
+of 30 November 2012 (Status as of 1 October 2022)
 
 The Swiss Federal Council,
 
@@ -93,7 +93,7 @@ The interim targets for 2015 are:
 
 [^4a-1]: Inserted by No I of the O of 8 Oct. 2014 ([AS 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)). Repealed by No I of the O of 4 May 2022, with effect from 1 June 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
-### Section 5**** Attestations for Projects and Programmes for reducing Emissions or increasing Carbon Sequestration in Switzerland and Abroad****
+### Section 5 Attestations for Projects and Programmes for reducing Emissions or increasing Carbon Sequestration in Switzerland and Abroad
 
 [^chap1-sec5-1][^chap1-sec5-2]
 
@@ -354,7 +354,7 @@ A modification to the project or programme is in particular deemed substantial i
 
 [^11-1]: Amended by No I of the O of 4 May 2022, in force since 1 June 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
-### Section 5*a* Attestations for Installation Operators****
+### Section 5*a* Attestations for Installation Operators
 
 [^chap1-sec5a-1]
 
@@ -432,7 +432,7 @@ Installation operators that have agreed with the Confederation on targets for th
 [^12a-8]: Inserted by No I of the O of 25 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 [^12a-9]: Amended by No I of the O of 25 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 
-### Section 5*b* Administration of Attestations and Data Protection****
+### Section 5*b* Administration of Attestations and Data Protection
 
 [^chap1-sec5b-1]
 
@@ -506,7 +506,7 @@ The report must contain information regarding:
 
 <sup>3</sup> On request, the cantons make available to the FOEN all necessary documents that form the basis of the report.
 
-## Chapter 3**** Measures for reducing CO<sub>2</sub> Emissions from Passenger Cars, Vans and Light Articulated Vehicles
+## Chapter 3 Measures for reducing CO<sub>2</sub> Emissions from Passenger Cars, Vans and Light Articulated Vehicles
 
 [^chap3-1]
 
@@ -848,7 +848,7 @@ It may invoice large-scale importers for quarterly advance payments for any sanc
 
 <sup>2</sup> Article 30 paras 2 and 3 apply mutatis mutandis.
 
-<sup>3</sup> Any sanctions for vans and light articulated vehicles shall be reduced by 5 per cent in 2022.*[^35-2]*
+<sup>3</sup> Any sanctions for vans and light articulated vehicles shall be reduced by 5 per cent in 2022.[^35-2]
 
 [^35-1]: Amended by No I of the O of 24 Nov. 2021, in force since 1 Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
 [^35-2]: Inserted by No I of the O of 4 May 2022, in force since 1 Jan. 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
@@ -885,7 +885,7 @@ Repealed
 
 ## Chapter 4 Emissions Trading Scheme
 
-### Section 1 Installation Operators****
+### Section 1 Installation Operators
 
 [^chap4-sec1-1]
 
@@ -1088,7 +1088,7 @@ If the portion under paragraph 2 is insufficient to meet claims in full, the emi
 
 [^46c-1]: Inserted by No I of the O of 8 Oct. 2014 ([AS 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)). Repealed by No I of the O of 25 Nov. 2020, with effect from 1 Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 
-### Section 1*a***** Aircraft Operators
+### Section 1*a* Aircraft Operators
 
 [^chap4-sec1a-1]
 
@@ -1140,7 +1140,7 @@ If the portion under paragraph 2 is insufficient to meet claims in full, the emi
 [^46f-3]: Repealed by No I of the O of 25 Nov. 2020, with effect from 1 Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 [^46f-4]: Amended by No I of the O of 4 May 2022, in force since 1 June 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
-### Section 2**** Auction of Emission Allowances
+### Section 2 Auction of Emission Allowances
 
 [^chap4-sec2-1]
 
@@ -1329,7 +1329,7 @@ Installation operators that carry on an activity in accordance with Annex 6 and 
 [^54-1]: Amended by No I of the O of 4 May 2022, in force since 1 June 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 [^54-2]: Inserted by No I of the O of 4 May 2022, in force since 1 June 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
-### Section 4 Obligation to Surrender Emission Allowances****
+### Section 4 Obligation to Surrender Emission Allowances
 
 [^chap4-sec4-1]
 
@@ -1393,7 +1393,7 @@ On application, the FOEN may, in cases where European emission allowances are no
 [^56-2]: Amended by No I of the O of 4 May 2022, in force since 1 June 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 [^56-3]: Amended by No I of the O of 25 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 
-### Section 5 Emissions Trading Registry****
+### Section 5 Emissions Trading Registry
 
 [^chap4-sec5-1]
 
@@ -2350,7 +2350,7 @@ If an installation operator or person referred to in Article 96 violates the obl
 
 ## Chapter 9 Use of the Revenues from the CO<sub>2</sub> Levy
 
-### Section 1**** Global Financial Assistance for the long-term Reduction of CO<sub>2</sub> Emissions from Buildings
+### Section 1 Global Financial Assistance for the long-term Reduction of CO<sub>2</sub> Emissions from Buildings
 
 [^chap9-sec1-1]
 
@@ -2444,7 +2444,7 @@ Control of the correct use of the global financial assistance is governed by Art
 
 Repealed
 
-### Section 1*a* Support for Projects for the Direct Use of Geothermal Energy for the Provision of Heat****
+### Section 1*a* Support for Projects for the Direct Use of Geothermal Energy for the Provision of Heat
 
 [^chap9-sec1a-1]
 
@@ -3068,7 +3068,7 @@ The FOCBS may on request provisionally refund the CO<sub>2</sub> levy if the ins
 
 <sup>2</sup> If an installation operator fails to fulfil the requirements for participation in the ETS or if its application for a determination of its reduction obligation is rejected, then it must fully repay the refunded amounts with interest.
 
-### Section 2*a***** Transitional Provisions to the Amendment of 8 October 2014
+### Section 2*a* Transitional Provisions to the Amendment of 8 October 2014
 
 [^chap12-sec2a-1]
 
@@ -3097,7 +3097,7 @@ Emission-reduction certificates under Article 60 paragraph 3 that are entered in
 
 [^146b-1]: [SR 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
 
-### Section 2*b***** Transitional Provisions****
+### Section 2*b* Transitional Provisions
 
 [^chap12-sec2b-1][^chap12-sec2b-2]
 
@@ -3126,7 +3126,7 @@ When Article 37 is applied for the first time, the final accounts shall also inc
 
 [^146e-1]: Inserted by No I of the O of 1 Nov. 2017, in force since 1 Dec. 2017 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
 
-### Section 2*c***** Transitional provisions to the Amendment of 25 November 2020
+### Section 2*c* Transitional provisions to the Amendment of 25 November 2020
 
 [^chap12-sec2c-1]
 
@@ -3194,7 +3194,7 @@ The following operators must repay provisionally refunded amounts, including int
 
 <sup>2</sup> The FOEN shall adjust the emissions target under Article 67 and the measures target under Article 68 for 2020 in the event of the operator failing to maintain the reduction course only as a result of the procurement of heating or cooling from a third party or of the closure of an installation.
 
-### Section 2*d***** Transitional Provisions to the Amendment of 24 November 2021
+### Section 2*d* Transitional Provisions to the Amendment of 24 November 2021
 
 [^chap12-sec2d-1]
 
@@ -3204,7 +3204,7 @@ The following operators must repay provisionally refunded amounts, including int
 
 The FOEN may postpone the deadline under Article 55 paragraph 3 for the surrender of 2021 emission allowances to a date after 30 April 2022 if the calculation of the quantity of emission allowances to be allocated free of charge is delayed.
 
-### Section 2*e***** Transitional Provisions to the Amendment of 4 May 2022
+### Section 2*e* Transitional Provisions to the Amendment of 4 May 2022
 
 [^chap12-sec2e-1]
 
@@ -3279,17 +3279,42 @@ Installation operators that extend their reduction obligation in accordance with
 
 #### Art. 146s
 
-**Adjustment of the emission and measures target for the 2022 to 2024 period**
+[^146s-1]
 
-<sup>1</sup> The FOEN shall adjust the emissions target in accordance with Article 146*o* paragraph 2 in the event of a failure to maintain the reduction course if the requirements mentioned in Article 73 paragraph 1 are met in the period from 2022 to 2024. In derogation from Article 73 paragraph 2, the adjustment is made at the earliest retrospectively to 2022.
-
-<sup>2</sup> The FOEN shall adjust the measures target in accordance with Article 146*o* paragraph 3 if the requirements in Article 74 are met in the period from 2022 to 2024.
+[^146s-1]: Repealed by No I of the O of 16 Sept. 2022, with effect from 1 Oct. 2022 ([AS 2022 513](https://fedlex.data.admin.ch/eli/oc/2022/513)).
 
 #### Art. 146t
 
 **Counting emission allowances**
 
 An installation operator that fails to achieve its emissions or measures target and has not been issued with any attestations in accordance with Article 12 may count emission allowances amounting to 4.5 per cent of the greenhouse gas emissions in the 2022–2024 period towards meeting its reduction obligation for the 2022–2024 period.
+
+#### Art. 146u
+
+**Adjustment of the emission and measures target for the 2022 to 2024 period**[^146u-1]
+
+The FOEN shall adjust the emissions target in accordance with Article 67 and the measures target in accordance with Article 68 for the period from 2022 to 2024 in the event of a failure to maintain the reduction course only if it is due to the procurement of heating or cooling from a third party or the closure of an installation.
+
+[^146u-1]: Inserted by No I of the O of 16 Sept. 2022, in force since 1 Oct. 2022 ([AS 2022 513](https://fedlex.data.admin.ch/eli/oc/2022/513)).
+
+#### Art. 146v
+
+**Disregard of CO<sub>2</sub> emissions on changing the energy source**[^146v-1]
+
+<sup>1</sup> CO<sub>2</sub> emissions caused by a change of energy source recommended by the Federal Department for Economic Affairs, Education and Research and DETEC or ordered by the Federal Council shall on request be disregarded when assessing whether or not the reduction obligation has been met in the period from 2022 to 2024.
+
+<sup>2</sup>
+
+The request to disregard CO<sub>2</sub> emissions in accordance with paragraph 1 must be submitted to the FOEN for each year by 31 May of the following year in the form specified. It must contain the following information in particular:
+
+- a. the type and volume of the energy source now being used following the change in energy source;
+- b. the type and volume of the energy source replaced following the change in energy source;
+- c. the quantity of additional CO<sub>2</sub> emissions caused by the change in energy source;
+- d. the duration of the change in energy source.
+
+<sup>3</sup> The FOEN may publish the quantity of CO<sub>2</sub> emissions related to the change in energy source.
+
+[^146v-1]: Inserted by No I of the O of 16 Sept. 2022, in force since 1 Oct. 2022 ([AS 2022 513](https://fedlex.data.admin.ch/eli/oc/2022/513)).
 
 ### Section 3 Commencement
 
@@ -3341,7 +3366,7 @@ Annex 1
 <tr><td>Nitrogen trifluoride</td><td>NF<sub>3</sub></td><td>17 200</td></tr>
 </table>
 
-Annex 2*[^t-1]*
+Annex 2[^t-1]
 
 (Art. 146*l* let. b)
 
@@ -3371,7 +3396,7 @@ Annex 2*[^t-1]*
 
 [^annex2-lvlu1-1]: [SR 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
 
-Annex 2a*[^t-2]*
+Annex 2a[^t-2]
 
 (Art. 5 para 1 let. a)
 
@@ -3393,7 +3418,7 @@ Annex 2a*[^t-2]*
 - k. activities that have considerable negative social or ecological effects;
 - l. activities that conflict with the concerns of Switzerland’s foreign or development policy.
 
-Annex 3*[^t-3]*
+Annex 3[^t-3]
 
 (Art. 5 para. 1 let. a)
 
@@ -3418,7 +3443,7 @@ No attestations are issued for a domestic emission-reduction project or programm
 [^annex3-lvlu1-3]: [SR 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
 [^annex3-lvlu1-4]: [SR 730.03](https://fedlex.data.admin.ch/eli/cc/2017/766)
 
-Annex 3a*[^t-4]*
+Annex 3a[^t-4]
 
 (Art. 6 para. 2<sup>bis</sup>)
 
@@ -3626,7 +3651,7 @@ When measuring electrical energy (M<sub>el,y</sub>), all the following requireme
 - d. the measurement must be made continuously;
 - e. quality assurance must meet the requirements of the MIO and the related implementing provisions issued by the FDJP.
 
-Annex 3b*[^t-5]*
+Annex 3b[^t-5]
 
 (Art. 6 para. 4)
 
@@ -3670,7 +3695,7 @@ In this Annex:
 
 For determining the value of the oxidation factor parameter (OX) required to calculate the emission reductions, the following decision tree must be used:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20220601/en/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20221001/en/xml/image/image1.png)
 
 ### 3.3 Ex-ante calculation of emission reductions
 
@@ -3796,7 +3821,7 @@ When determining the quantity of gas (M<sub>gas,y</sub>), all the following requ
 - d. the measurement must be made continuously or when each delivery of gas cylinders is made;
 - e. quality assurance must be based on the manufacturer’s specifications.
 
-Annex 4*[^t-6]*
+Annex 4[^t-6]
 
 (Art. 25 para. 2)
 
@@ -3880,7 +3905,7 @@ The CO<sub>2</sub> emissions are rounded to the first digit following the decima
 - a. If the second digit following the decimal point is 4 or less, then the number is rounded down.
 - b. If the second digit following the decimal point is 5 or greater, then the number is rounded up.
 
-Annex 4a*[^t-7]*
+Annex 4a[^t-7]
 
 (Art. 28 para. 1)
 
@@ -3930,7 +3955,7 @@ Annex 4a*[^t-7]*
   - c. 2020: 2089 kg.
   - [tab]
 
-Annex 5*[^t-8]*
+Annex 5[^t-8]
 
 (Art. 29 para. 1)
 
@@ -3966,7 +3991,7 @@ The sanction amounts to be paid if the individual target is exceeded amount for 
 - d. for the reference year 2022: CHF 104.
 - [tab]
 
-Annex 6*[^t-9]*
+Annex 6[^t-9]
 
 (Art. 40 para. 1)
 
@@ -4005,7 +4030,7 @@ An installation operator that engages in at least one of the following activitie
 
 [^annex6-lvlu1-1]: [SR 814.600](https://fedlex.data.admin.ch/eli/cc/2015/891)
 
-Annex 7*[^t-10]*
+Annex 7[^t-10]
 
 (Art. 42 para. 1 let. a and 66 para. 1 let. a and b and 3 let. a and b)
 
@@ -4036,7 +4061,7 @@ Annex 7*[^t-10]*
 - 20\. production of fossil-fuel-generated heating or cooling energy, possibly coupled with the production of electricity that feeds into regional district heating or cooling networks or is delivered to installation operators that are engaged in the activities listed in numbers 1–19 and 21;
 - 21\. cleaning of barrels, containers and other packaging that are used in connection with the activities listed in this Annex.
 
-Annex 8*[^t-11]*
+Annex 8[^t-11]
 
 (Art. 45 para. 1 and 48 para. 1<sup>bis</sup>)
 
@@ -4067,7 +4092,7 @@ The maximum total quantity of emission allowances available each year to all Ins
 
 - 2\.3 The demand for emission allowances for installations is the result of the following subtraction: the relevant greenhouse gas emissions of the installations in the period from 2013 to the previous year pursuant to Article 55 minus the emission-reduction certificates delivered to cover the greenhouse gas emissions for the years 2013–2020.
 
-Annex 9*[^t-12]*
+Annex 9[^t-12]
 
 (Art. 46 para. 1, 46*a* para. 2 and 46*b* para. 1 and 3)
 
@@ -4247,7 +4272,7 @@ Annex 9*[^t-12]*
   - 1\. the heat used within a product benchmark in accordance with number 1.7;
   - 2\. the ratio of direct emissions to the sum of the direct and indirect emissions in accordance with number 4.1.
 
-Annex 10*[^t-13]*
+Annex 10[^t-13]
 
 (Art. 86 para. 1 and 89 para. 2)
 
@@ -4274,7 +4299,7 @@ Annex 10*[^t-13]*
 
 [^annex10-lvlu1-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Annex
 
-Annex 11*[^t-14]*
+Annex 11[^t-14]
 
 (Art. 94 para. 2)
 
@@ -4377,7 +4402,7 @@ The following tax rates apply to the following fuels:
 
 - The fuels used in accordance with number 3.1 are subject to the levy rates under number 2.
 
-Annex 12*[^t-15]*
+Annex 12[^t-15]
 
 (Art. 112–113*b*)
 
@@ -4536,7 +4561,7 @@ Annex 12*[^t-15]*
 [^annex12-lvlu1-lvl5-1]: [SR 510.62](https://fedlex.data.admin.ch/eli/cc/2008/388)
 [^annex12-lvlu1-lvl5-2]: [SR 510.624](https://fedlex.data.admin.ch/eli/cc/2008/391)
 
-Annex 13*[^t-16]*
+Annex 13[^t-16]
 
 (Art. 46*d*)
 
@@ -4585,7 +4610,7 @@ Annex 13*[^t-16]*
 
 [^annex13-lvlu1-1]: [SR 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
 
-Annex 14*[^t-17]*
+Annex 14[^t-17]
 
 (Art. 46*d* para. 1 and 2, 51 para. 1, 2 and 4, 52 para. 1, 6 and 7, 53 para. 1 and 2, 55 para. 2 and 130 para. 1)
 
@@ -4611,7 +4636,7 @@ b. the highest attributed estimated value for CO<sub>2</sub> emissions of the re
 
 [^annex14-lvlu1-lvl2-1]: See footnote to Art. 135 let. f.
 
-Annex 15*[^t-18]*
+Annex 15[^t-18]
 
 (Art. 46*e* and 46*f*)
 
@@ -4661,7 +4686,7 @@ BM Benchmark
 
 Allocation<sub>202x</sub> allocation for 202x; where x = 1, 2, 3 etc.
 
-Annex 16*[^t-19]*
+Annex 16[^t-19]
 
 (Art. 51)
 
@@ -4711,7 +4736,7 @@ Annex 16*[^t-19]*
 
 [^annex16-lvlu1-lvl3-1]: Directive (EU) 2018/2001 of the European Parliament and of the Council of 11 Dec. 2018 on the promotion of the use of energy from renewable sources (new version), OJ L 328 of 21.12.2018, p. 82
 
-Annex 17*[^t-20]*
+Annex 17[^t-20]
 
 (Art. 52)
 
@@ -4752,7 +4777,7 @@ Annex 17*[^t-20]*
 
 [^annex17-lvlu1-lvl2-1]: See footnote to Art. 52 para. 5.
 
-Annex 18*[^t-21]*
+Annex 18[^t-21]
 
 (Art. 52)
 
