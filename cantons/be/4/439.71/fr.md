@@ -1,56 +1,61 @@
 ---
 canton: BE
 number: "439.71"
-title: "Arrêté du Conseil-exécutif concernant l'adhésion à l'accord intercantonal entre le canton de Berne et la République et Canton du Jura instituant la Commission intercantonale de littérature (CiLi)"
+title: "Arrêté du Conseil-exécutif concernant l'accord entre les cantons de Berne, du Jura et de Neuchâtel instituant la Commission intercantonale de littérature"
 short: Accord CiLi BEJUNE
 language: fr
-version: 2016-07-01
-valid_until: 2022-09-30
-version_adopted: 2016-05-18
+version: 2022-10-01
+version_adopted: 2022-08-24
 adopted: 2022-08-24
 in_force: 2022-10-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/439.71"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1158/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3166/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
 
-# Arrêté du Conseil-exécutif concernant l'adhésion à l'accord intercantonal entre le canton de Berne et la République et Canton du Jura instituant la Commission intercantonale de littérature (CiLi)
+# Arrêté du Conseil-exécutif concernant l'accord entre les cantons de Berne, du Jura et de Neuchâtel instituant la Commission intercantonale de littérature
 
-du 17.12.2008 (état au 01.07.2016)
+(Accord CiLi BEJUNE)
+
+du 24.08.2022 (état au 01.10.2022)
 
 Le Conseil-exécutif du canton de Berne,
 
 vu l’article 88, alinéa 4 de la Constitution cantonale[^ingress-1],
 
-sur proposition de la Direction de l’instruction publique,
+sur proposition de la Direction de l’instruction publique et de la culture,
 
 arrête:
 
-[^ingress-1]: RSB 101.1
+[^ingress-1]: RSB [101.1](https://www.belex.sites.be.ch/data/101.1/fr)
 
 #### Art. 1
 
-<sup>1</sup> Le canton de Berne est cosignataire de l’accord intercantonal du 17 décembre 2008 entre le canton de Berne et la République et Canton du Jura instituant la Commission intercantonale de littérature (CiLi), qui est publié sous le numéro RSB [439.71-1](https://www.belex.sites.be.ch/data/439.71-1/fr).
+**Adhésion**
 
-<sup>2</sup> Il approuve les modifications de la CiLi du 18 mai 2016 et du 23 août 2016.
+<sup>1</sup> Le canton de Berne adhère à l'accord du 31 mars 2025 entre les cantons de Berne, du Jura et de Neuchâtel instituant la Commission intercantonale de littérature (accord CiLi BEJUNE), qui est publié sous le numéro [ROB 25-029](https://www.belex.sites.be.ch/app/fr/change_documents/2383).
 
 #### Art. 2
 
-<sup>1</sup> Le présent arrêté entre en vigueur le 1<sup>er</sup> janvier 2009.
+**Abrogation**
+
+<sup>1</sup> L'arrêté du Conseil-exécutif du 17 décembre 2008 concernant l'adhésion à l'accord intercantonal entre le canton de Berne et la République et Canton du Jura instituant la Commission intercantonale de littérature (CiLi)[^2-1] est abrogé.
+
+[^2-1]: RSB [439.71](https://www.belex.sites.be.ch/data/439.71/fr)
 
 #### Art. 3
 
-<sup>1</sup> Il est publié en application des articles 7 et 8 de la loi du 18 janvier 1993 sur les publications officielles[^3-1] (publication extraordinaire).
+**Entrée en vigueur**
 
-[^3-1]: RSB 103.1
+<sup>1</sup> Le présent arrêté entre en vigueur le 1<sup>er</sup> octobre 2022.
 
-Berne, le 17 décembre 2008
+Berne, le 24 août 2022
 
 Au nom du Conseil-exécutif,
 
-la présidente: Egger-Jenzer
+la présidente: Häsler
 
-le chancelier: Nuspliger
+le chancelier: Auer
 
-09-9
+25-028

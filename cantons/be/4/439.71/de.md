@@ -1,56 +1,63 @@
 ---
 canton: BE
 number: "439.71"
-title: Regierungsratsbeschluss betreffend den Beitritt zur Interkantonalen Vereinbarung zwischen den Kantonen Bern und Jura über die Einrichtung der interkantonalen Literaturkommission (ILK)
+title: "Arrêté du Conseil-exécutif concernant l'accord entre les cantons de Berne, du Jura et de Neuchâtel instituant la Commission intercantonale de littérature"
 short: Accord CiLi BEJUNE
 language: de
-version: 2016-07-01
-valid_until: 2022-09-30
-version_adopted: 2016-05-18
+version: 2022-10-01
+version_adopted: 2022-08-24
 adopted: 2022-08-24
 in_force: 2022-10-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/439.71"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1158/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3166/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Regierungsratsbeschluss betreffend den Beitritt zur Interkantonalen Vereinbarung zwischen den Kantonen Bern und Jura über die Einrichtung der interkantonalen Literaturkommission (ILK)
+# Arrêté du Conseil-exécutif concernant l'accord entre les cantons de Berne, du Jura et de Neuchâtel instituant la Commission intercantonale de littérature
 
-vom 17.12.2008 (Stand 01.07.2016)
+Dieser Erlass ist nur auf Französisch verfügbar.
 
-Der Regierungsrat des Kantons Bern,
+(Accord CiLi BEJUNE)
 
-gestützt auf Artikel 88 Absatz 4 der Kantonsverfassung[^ingress-1],
+vom 24.08.2022 (Stand 01.10.2022)
 
-auf Antrag der Erziehungsdirektion,
+Le Conseil-exécutif du canton de Berne,
 
-beschliesst:
+vu l’article 88, alinéa 4 de la Constitution cantonale[^ingress-1],
 
-[^ingress-1]: BSG 101.1
+sur proposition de la Direction de l’instruction publique et de la culture,
+
+arrête:
+
+[^ingress-1]: RSB [101.1](https://www.belex.sites.be.ch/data/101.1/de)
 
 #### Art. 1
 
-<sup>1</sup> Der Kanton Bern ist Unterzeichnerkanton der unter der BSG-Nummer [439.71-1](https://www.belex.sites.be.ch/data/439.71-1/de) veröffentlichten Interkantonalen Vereinbarung vom 17. Dezember 2008 zwischen den Kantonen Bern und Jura über die Einrichtung der interkantonalen Literaturkommission (ILK).
+**Adhésion**
 
-<sup>2</sup> Er stimmt der Änderung vom 18. Mai 2016 und vom 23. August 2016 der ILK zu.
+<sup>1</sup> Le canton de Berne adhère à l'accord du 31 mars 2025 entre les cantons de Berne, du Jura et de Neuchâtel instituant la Commission intercantonale de littérature (accord CiLi BEJUNE), qui est publié sous le numéro [ROB 25-029](https://www.belex.sites.be.ch/app/fr/change_documents/2383).
 
 #### Art. 2
 
-<sup>1</sup> Dieser Beschluss tritt am 1. Januar 2009 in Kraft.
+**Abrogation**
+
+<sup>1</sup> L'arrêté du Conseil-exécutif du 17 décembre 2008 concernant l'adhésion à l'accord intercantonal entre le canton de Berne et la République et Canton du Jura instituant la Commission intercantonale de littérature (CiLi)[^2-1] est abrogé.
+
+[^2-1]: RSB [439.71](https://www.belex.sites.be.ch/data/439.71/de)
 
 #### Art. 3
 
-<sup>1</sup> Er ist in Anwendung der Artikel 7 und 8 des Publikationsgesetzes vom 18. Januar 1993[^3-1] amtlich zu veröffentlichen (ausserordentliche Veröffentlichung).
+**Entrée en vigueur**
 
-[^3-1]: BSG 103.1
+<sup>1</sup> Le présent arrêté entre en vigueur le 1<sup>er</sup> octobre 2022.
 
-Bern, 17. Dezember 2008
+Berne, le 24 août 2022
 
-Im Namen des Regierungsrates
+Au nom du Conseil-exécutif,
 
-Die Präsidentin: Egger-Jenzer
+la présidente: Häsler
 
-Der Staatsschreiber: Nuspliger
+le chancelier: Auer
 
-09-9
+25-028
