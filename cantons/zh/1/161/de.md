@@ -4,11 +4,11 @@ number: "161"
 title: Gesetz über die politischen Rechte (GPR)
 short: GPR
 language: de
-version: "2021-10-01"
-nachtrag: "114"
-valid_until: 2022-10-01
+version: "2022-10-01"
+nachtrag: "118"
+valid_until: 2025-07-01
 adopted: 2003-09-01
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-161-2003_09_01-2005_01_01-114.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-161-2003_09_01-2005_01_01-118.html"
 text: pdf
 ---
 
@@ -16,18 +16,13 @@ text: pdf
 
 # Gesetz über die politischen Rechte (GPR)<sup>23</sup>
 
-(vom 1. September 2003)[^t-1],[^t-2]
+(vom 1. September 2003)<sup>1,</sup> <sup>2</sup>
 
 Der Kantonsrat,
 
-nach Einsichtnahme in den Antrag des Regierungsrates vom 28. August 2002[^t-3] und in den Antrag der Kommission für Staat und Gemeinden vom 7. März 2003[^t-4],
+nach Einsichtnahme in den Antrag des Regierungsrates vom 28. August 2002<sup>3</sup> und in den Antrag der Kommission für Staat und Gemeinden vom 7. März 2003<sup>4</sup>,
 
 beschliesst:
-
-[^t-1]: OS 58, 289.
-[^t-2]: In Kraft seit 1. Januar 2005 (OS 59, 194). Vom Bund genehmigt am 5. Dezember 2003.
-[^t-3]: ABl 2002, 1507.
-[^t-4]: ABl 2003, 517.
 
 ### I. Teil: Allgemeines
 
@@ -67,7 +62,7 @@ Die politischen Rechte und Pflichten sind:
 
 **1**
 
-1.10. 21 - 114
+1.10. 22 - 118
 
 <sup>2</sup> Der politische Wohnsitz bestimmt sich nach den Bestimmungen des Bundesgesetzes über die politischen Rechte<sup>10</sup>.
 
@@ -157,17 +152,17 @@ Bei Urnenwahlen und Urnenabstimmungen sowie bei geheimen Wahlen und Abstimmungen
 
 <sup>3</sup> Für kantonale Wahlen und Abstimmungen regelt die Verordnung, welche Aufgaben des Regierungsrates durch die Direktion wahrgenommen werden.
 
-**Kreiswahlvorsteherschaft**
-
-§ 13.<sup>18</sup> Bei der Wahl des Kantonsrates unterstützen die Kreiswahlvorsteherschaften die wahlleitende Behörde.
-
-**3**
-
-1.10. 21 - 114 § 14. <sup>1</sup> In jeder politischen Gemeinde besteht ein Wahlbüro von mindestens fünf Mitgliedern.
+§ 13.<sup>51</sup>
 
 **Gemeindewahlbüro a. Im Allgemeinen**
 
-<sup>2</sup> Die Gemeindeordnung kann die Mitgliederzahl erhöhen oder dies dem Gemeindevorstand<sup>34</sup> übertragen. In Gemeinden mit Gemeindeparlament<sup>34</sup> legt dieses die Mitgliederzahl fest.
+§ 14. <sup>1</sup> In jeder politischen Gemeinde besteht ein Wahlbüro von mindestens fünf Mitgliedern.
+
+**3**
+
+1.10. 22 - 118
+
+<sup>2</sup> Die Gemeindeordnung kann die Mitgliederzahl erhöhen oder dies dem Gemeindevorstand übertragen.<sup>50</sup>
 
 <sup>3</sup> Die Präsidentin oder der Präsident des Gemeindevorstands steht dem Wahlbüro vor, die Gemeindeschreiberin oder der Gemeindeschreiber führt das Sekretariat. Die Führung des Sekretariats kann nach § 45 Abs. 2 des Gemeindegesetzes vom 20. April 2015<sup>6</sup> an eine Gemeindeangestellte oder an einen Gemeindeangestellten übertragen werden.<sup>34</sup>
 
@@ -229,6 +224,8 @@ Bei Urnenwahlen und Urnenabstimmungen sowie bei geheimen Wahlen und Abstimmungen
 
 <sup>2</sup> Die Gemeinden gewährleisten die vorzeitige Stimmabgabe an mindestens zwei der vier letzten Tage vor dem Wahl- oder Abstimmungstag, indem sie die Abstimmungslokale entsprechend öffnen oder die Stimmabgabe in der Gemeindeverwaltung ermöglichen.
 
+<sup>3</sup> Sie können die vorzeitige Stimmabgabe auf die sechs letzten Tage vor dem Wahl- oder Abstimmungstag ausweiten.<sup>49</sup>
+
 ### C. Elektronische Datenverarbeitung
 
 #### § 21
@@ -247,7 +244,7 @@ Bei Urnenwahlen und Urnenabstimmungen sowie bei geheimen Wahlen und Abstimmungen
 
 **5**
 
-1.10. 21 - 114
+1.10. 22 - 118
 
 <sup>3</sup> Die Gemeinden sind berechtigt, das Programm auch für kommunale Wahlen und Abstimmungen einzusetzen. Kostenlos steht es ihnen zur Verfügung:<sup>21</sup> a. an den vom Bund oder vom Kanton bezeichneten Wahl- oder Abstimmungsdaten,
 
@@ -293,7 +290,7 @@ Gibt das Mitglied eines Organs der Gemeinde oder des Bezirks den erforderlichen 
 
 <sup>2</sup> Innerhalb der folgenden Gruppen sind unvereinbar:
 
-a.<sup>46</sup> Mitglied des Kantonsrates, der Oberstaatsanwaltschaft oder der Oberjugendanwaltschaft, voll- oder teilamtliches Mitglied eines obersten Gerichts, Mitglied einer Behörde, die vom Kantonsrat gewählt oder deren Wahl von diesem genehmigt wird, Mitglied eines Organs, das vom Kantonsrat gewählt oder dessen Wahl von diesem genehmigt wird, b.<sup>16</sup> Mitglied des Bezirksgerichts, der Staatsanwaltschaft, der Jugendanwaltschaft, des Bezirksrates beziehungsweise Statthalterin oder Statthalter innerhalb des gleichen Bezirks, ausgenommen Mitglied der Staatsanwaltschaft und Statthalterin oder Statthalter,
+a.<sup>50</sup> Mitglied des Kantonsrates, der Oberstaatsanwaltschaft oder der Oberjugendanwaltschaft, voll- oder teilamtliches Mitglied eines obersten Gerichts, Statthalterin oder Statthalter, Mitglied einer Behörde, die vom Kantonsrat gewählt oder deren Wahl von diesem genehmigt wird, Mitglied eines Organs, das vom Kantonsrat gewählt oder dessen Wahl von diesem genehmigt wird, b.<sup>16</sup> Mitglied des Bezirksgerichts, der Staatsanwaltschaft, der Jugendanwaltschaft, des Bezirksrates beziehungsweise Statthalterin oder Statthalter innerhalb des gleichen Bezirks, ausgenommen Mitglied der Staatsanwaltschaft und Statthalterin oder Statthalter,
 
 - c. Mitglied des Gemeindeparlaments<sup>34</sup> und des Gemeindevorstands<sup>34</sup>,
 
@@ -313,7 +310,7 @@ a.<sup>46</sup> Mitglied des Kantonsrates, der Oberstaatsanwaltschaft oder der O
 
 **7**
 
-1.10. 21 - 114 d. die Leiterin oder den Leiter der Finanzkontrolle gegenüber jedem Amt und jeder andern Anstellung auf der Ebene des Kantons oder eines Bezirks.
+1.10. 22 - 118 d. die Leiterin oder den Leiter der Finanzkontrolle gegenüber jedem Amt und jeder andern Anstellung auf der Ebene des Kantons oder eines Bezirks.
 
 <sup>3</sup> Für Ersatzleute und Stellvertretungen gilt dieser Unvereinbarkeitsgrund nicht, ausgenommen für die Stellvertreterin oder den Stellvertreter der Ombudsperson.
 
@@ -401,7 +398,7 @@ a.<sup>34</sup> Gemeindevorstand, Rechnungsprüfungskommission, Schulpflege und 
 
 **9**
 
-1.10. 21 - 114
+1.10. 22 - 118
 
 <sup>3</sup> Die Amtsdauer endet mit dem Beginn der Amtsdauer des erneuerten Organs.
 
@@ -415,9 +412,11 @@ a.<sup>34</sup> Gemeindevorstand, Rechnungsprüfungskommission, Schulpflege und 
 
 <sup>3</sup> Ist das Präsidium eines Organs vom Volk zu wählen, konstituiert es sich erst nach rechtskräftiger Wahl der Präsidentin oder des Präsidenten.
 
+#### § 33 a
+
 **b. Kommunale Behörden**
 
-§ 33 a.<sup>37</sup> <sup>1</sup> In Versammlungsgemeinden erfolgt die Konstituierung von Gemeindevorstand, Schulbehörden und eigenständigen Kommissionen, die von den Stimmberechtigten gewählt werden, auf den 1. Juli.
+<sup>1</sup> In Versammlungsgemeinden konstituieren sich Gemeindevorstand, Schulbehörden, Rechnungsprüfungskommission und eigenständige Kommissionen, die von den Stimmberechtigten gewählt werden, auf den 1. Juli.<sup>50</sup>
 
 <sup>2</sup> Unabhängig von Abs. 1 erfolgt eine Konstituierung erst, wenn die Wahl der Mehrheit der Mitglieder einer Behörde und deren Präsidentin oder Präsidenten rechtskräftig ist.
 
@@ -473,9 +472,11 @@ Die Mitglieder der Organe haben Anspruch auf Ersatz der Auslagen und auf eine an
 
 - c. die Notarinnen und Notare.
 
-**b. Organe der Gemeinden**
+**11**
 
-§ 40.<sup>34</sup> In den Gemeinden werden folgende Organe und Behörden, soweit vorhanden, wie folgt gewählt oder ernannt:
+1.10. 22 - 118 § 40.<sup>34</sup> In den Gemeinden werden folgende Organe und Behörden, soweit vorhanden, wie folgt gewählt oder ernannt:
+
+**b. Organe der Gemeinden**
 
 - a. an der Urne:
 
@@ -487,9 +488,7 @@ Die Mitglieder der Organe haben Anspruch auf Ersatz der Auslagen und auf eine an
 
 - 4\. Rechnungsprüfungskommission in Versammlungsgemeinden (Mitglieder und Präsidentin oder Präsident),
 
-**11**
-
-1.10. 21 - 114 5. Friedensrichterin oder Friedensrichter,
+- 5\. Friedensrichterin oder Friedensrichter,
 
 - 6\. Bürgerrechtskommission (Mitglieder),
 
@@ -533,7 +532,9 @@ Die Mitglieder der Organe haben Anspruch auf Ersatz der Auslagen und auf eine an
 
 <sup>2</sup> Bei Organen mit mehreren Mitgliedern findet keine Ersatzwahl statt, wenn die Erneuerungswahl innert sechs Monaten erfolgt und die Funktionsfähigkeit des Organs gewahrt bleibt.
 
-<sup>3</sup> Bei Organen mit einem Mitglied gilt die Ersatzwahl als Erneuerungswahl, wenn sie weniger als sechs Monate vor Beginn des Wahljahres stattfindet.
+<sup>3</sup> Beim Gemeindewahlbüro kann der Gemeindevorstand auf eine Ersatzwahl verzichten, wenn die Mitgliederzahl gemäss § 14 Abs. 1 und 2 aufgrund der Vakanz nicht unterschritten wird.<sup>49</sup>
+
+<sup>4</sup> Bei Organen mit einem Mitglied gilt die Ersatzwahl als Erneuerungswahl, wenn sie weniger als sechs Monate vor Beginn des Wahljahres stattfindet.
 
 #### § 46
 
@@ -555,25 +556,23 @@ Die Verordnung regelt das Wahlverfahren für Teilämter.
 
 ### A. Vorverfahren für Mehrheitswahlen
 
-#### § 48
-
 **Anwendungsbereich**
 
-Das Vorverfahren für Mehrheitswahlen findet statt a. bei Bezirkswahlen,
-
-- b. bei Gemeindewahlen, soweit die Gemeindeordnung die stille Wahl oder die Wahl mit gedruckten Wahlvorschlägen vorsieht,
-
-- c. bei der Wahl der Notarinnen und Notare.
-
-#### § 49
+§ 48.<sup>50</sup> Bei Mehrheitswahlen wird ein Vorverfahren durchgeführt.
 
 **Wahlvorschläge a. Einreichung**
 
-<sup>1</sup> Die wahlleitende Behörde setzt mit amtlicher Veröffentlichung eine Frist von 40 Tagen an, innert welcher Wahlvorschläge bei ihr eingereicht werden können.
+§ 49.<sup>50</sup> <sup>1</sup> Die wahlleitende Behörde setzt mit der Anordnung der Wahl gemäss § 57 Abs. 2 eine Frist von 40 Tagen an, innert welcher Wahlvorschläge bei ihr eingereicht werden können.
 
 <sup>2</sup> Die Gemeindeordnung kann für kommunale Wahlen eine kürzere Frist vorsehen.
 
-<sup>3</sup> Die Wahlvorschläge können eingesehen werden.
+**13**
+
+1.10. 22 - 118
+
+<sup>3</sup> Bei der Wahl der Mitglieder des Regierungsrates und des Ständerates sind die Wahlvorschläge der zuständigen Stelle bis zum elften Montag vor der Wahl (76. Tag) einzureichen.
+
+<sup>4</sup> Die Wahlvorschläge können eingesehen werden.
 
 #### § 50
 
@@ -591,10 +590,6 @@ Das Vorverfahren für Mehrheitswahlen findet statt a. bei Bezirkswahlen,
 
 <sup>2</sup> Jede Person kann nur einen Wahlvorschlag unterzeichnen. Die Unterzeichnung kann nicht zurückgezogen werden.
 
-**13**
-
-1.10. 21 - 114
-
 <sup>3</sup> Wenn die Unterzeichnenden eines Wahlvorschlages keine zur Vertretung ermächtigte Person bezeichnen, gilt die erstunterzeichnende und, wenn diese verhindert ist, die zweitunterzeichnende Person als berechtigt, Vorschläge zurückzuziehen und andere Erklärungen abzugeben.
 
 #### § 52
@@ -607,11 +602,11 @@ Das Vorverfahren für Mehrheitswahlen findet statt a. bei Bezirkswahlen,
 
 <sup>3</sup> Weist ein Wahlvorschlag auch nach der Verbesserung zu viele Namen auf, werden die Überzähligen von unten nach oben gestrichen.
 
-#### § 53
+<sup>4</sup> Verliert eine vorgeschlagene Person die Wählbarkeit, gilt ihre Kandidatur als zurückgezogen.<sup>49</sup>
 
 **e. Zweite Frist**
 
-<sup>1</sup> Die wahlleitende Behörde veröffentlicht die Namen der vorgeschlagenen Personen und setzt eine Frist von sieben Tagen an, innert welcher frühere Wahlvorschläge geändert oder zurückgezogen oder neue Wahlvorschläge eingereicht werden können.
+§ 53. <sup>1</sup> Die wahlleitende Behörde veröffentlicht die Namen der vorgeschlagenen Personen und setzt eine Frist von sieben Tagen an, innert welcher frühere Wahlvorschläge geändert oder zurückgezogen oder neue Wahlvorschläge eingereicht werden können.
 
 <sup>2</sup> Nach Ablauf der zweiten Frist können die Wahlvorschläge nicht mehr verändert werden.
 
@@ -619,55 +614,67 @@ Das Vorverfahren für Mehrheitswahlen findet statt a. bei Bezirkswahlen,
 
 <sup>4</sup> Stimmen die zunächst vorgeschlagenen mit den definitiv vorgeschlagenen Personen nicht überein, werden die Namen der definitiv Vorgeschlagenen veröffentlicht.
 
-#### § 54
+**Stille Wahl a. Anwendungsbereich**
 
-**Stille Wahl**
+§ 54.<sup>50</sup> <sup>1</sup> Die stille Wahl ist möglich bei Wahlen gemäss § 39 lit. b und c.
 
-<sup>1</sup> Die wahlleitende Behörde erklärt die Vorgeschlagenen als gewählt, wenn a. gleich viele oder weniger Personen vorgeschlagen wurden, als Stellen zu besetzen sind, und b. die zunächst Vorgeschlagenen mit den definitiv Vorgeschlagenen übereinstimmen.
+<sup>2</sup> Sie ist möglich bei Gemeindewahlen, soweit die Gemeindeordnung die stille Wahl vorsieht.
 
-<sup>2</sup> Für die nicht besetzten Stellen wird ein Wahlgang mit einem leeren Wahlzettel durchgeführt.
+**b. Voraussetzungen und Erklärung der Wahl**
 
-**Gedruckte Wahlvorschläge a. Voraussetzungen20**
+§ 54 a.<sup>49</sup> <sup>1</sup> Die wahlleitende Behörde erklärt die vorgeschlagenen Personen als gewählt, wenn a. gleich viele oder weniger Personen vorgeschlagen wurden, als Stellen zu besetzen sind, und b. die zunächst vorgeschlagenen mit den definitiv vorgeschlagenen Personen übereinstimmen.
 
-§ 55.<sup>21</sup> <sup>1</sup> Sind die Voraussetzungen für die stille Wahl nicht erfüllt, werden in folgenden Fällen gedruckte Wahlvorschläge verwendet:
+<sup>2</sup> Sind diese Voraussetzungen nicht erfüllt, findet ein Wahlgang statt.
 
-- a. Es sind gleich viele oder weniger Personen vorgeschlagen worden, als Stellen zu besetzen sind.
+**Vorbereitung des Wahlgangs a. Leerer Wahlzettel mit Beiblatt**
 
-- b. Es sind mindestens zehn Stellen zu besetzen und dabei mehr Personen vorgeschlagen worden, als Stellen zu besetzen sind.
+§ 55.<sup>50</sup> <sup>1</sup> Für die Wahl an der Urne wird ein leerer Wahlzettel mit einem Beiblatt gemäss § 61 verwendet. Die Namen der vorgeschlagenen Personen werden auf dem Beiblatt aufgeführt.
 
-<sup>2</sup> Bei kommunalen Wahlen ist zudem erforderlich, dass die Gemeindeordnung die Wahl mit gedruckten Wahlvorschlägen für dieses Organ vorsieht.
+<sup>2</sup> Wurden keine Personen vorgeschlagen oder sind alle vorgeschlagenen Personen in stiller Wahl gewählt, wird auf die Verwendung eines Beiblatts verzichtet.
 
-**b. Verfahren**
+<sup>3</sup> Die Stimmberechtigten erhalten eine Wahlanleitung.
 
-§ 55 a.<sup>20</sup> <sup>1</sup> Im Fall von § 55 Abs. 1 lit. a werden die Namen aller vorgeschlagenen Personen in alphabetischer Reihenfolge auf einen amtlichen Wahlzettel gedruckt.
+**b. Gedruckter Wahlzettel**
 
-<sup>2</sup> Im Fall von § 55 Abs. 1 lit. b wird jeder Wahlvorschlag als amtlicher Wahlzettel gedruckt.
+§ 55 a.<sup>50</sup> <sup>1</sup> Findet ein Wahlgang für mindestens zehn zu besetzende Stellen statt, werden die Wahlvorschläge auf je einen Wahlzettel gedruckt.
 
-<sup>3</sup> Die vorschlagenden Personen können den Wahlvorschlag mit einer kurzen Bezeichnung versehen.
+<sup>2</sup> Sind weniger als zehn Stellen zu besetzen und gleich viele oder weniger Personen vorgeschlagen worden, als Stellen zu besetzen sind, kann die Gemeindeordnung die Verwendung eines gedruckten Wahlzettels vorsehen. In diesem Fall werden die Namen aller vorgeschlagenen Personen in alphabetischer Reihenfolge auf einen Wahlzettel gedruckt.
 
-<sup>4</sup> Die Stimmberechtigten erhalten eine Wahlanleitung und, sofern mehrere gedruckte Wahlvorschläge vorliegen, einen leeren Wahlzettel.
-
-#### § 56
+<sup>3</sup> Die Stimmberechtigten erhalten eine Wahlanleitung sowie im Fall von Abs. 1 zusätzlich einen leeren Wahlzettel.
 
 **Ergänzende Angaben**
 
-Die Verordnung regelt, durch welche Angaben die Namen auf den Wahlvorschlägen und den gedruckten Wahlvorschlägen ergänzt werden.
+§ 56.<sup>50</sup> Die Verordnung regelt, mit welchen Angaben die Namen auf den Wahlvorschlägen, dem Wahlzettel und dem Beiblatt ergänzt werden.
 
 ### B. Anordnung, Wahl- und Abstimmungsunterlagen
 
-#### § 57
+**Anordnung a. Zuständigkeit, Inhalt und Veröffentlichung**
 
-**Anordnung a. Zuständigkeit, Veröffentlichung**
+§ 57.<sup>50</sup> <sup>1</sup> Wahlen und Abstimmungen an der Urne werden von der wahlleitenden Behörde angeordnet.
 
-<sup>1</sup> Wahlen und Abstimmungen an der Urne werden von der wahlleitenden Behörde angeordnet.
+**15**
 
-<sup>2</sup> Die Anordnung von kantonalen Wahlen oder Abstimmungen wird mindestens sieben, die Anordnung anderer Wahlen oder Abstimmungen mindestens vier Wochen vor dem Wahl- oder Abstimmungstag veröffentlicht.
+1.10. 22 - 118
+
+<sup>2</sup> Die Anordnung umfasst insbesondere:
+
+- a. den Gegenstand der Wahl oder Abstimmung,
+
+- b. den Wahl- oder Abstimmungstag,
+
+- c. den Ort und die Frist zur Einreichung von Wahlvorschlägen,
+
+- d. den Hinweis zur Möglichkeit der stillen Wahl gemäss § 54,
+
+- e. das Datum für den zweiten Wahlgang sowie den Ort und die Frist zum Rückzug von bestehenden Wahlvorschlägen oder zur Einreichung von neuen Wahlvorschlägen gemäss § 84 a Abs. 2.
+
+<sup>3</sup> Die Anordnung der Wahl wird mindestens zwölf Wochen, diejenige der Abstimmung mindestens sechs Wochen vor dem Wahl- oder Abstimmungstag veröffentlicht.
 
 #### § 58
 
 **b. Wahl- und Abstimmungstag**
 
-<sup>1</sup> Die wahlleitende Behörde legt die Wahl oder Abstimmung auf einen Sonntag, jedoch nicht auf Palmsonntag, Ostersonntag, Pfingstsonntag, den eidgenössischen Bettag, den Weihnachtstag oder einen Sonntag zwischen dem Weihnachts- und dem Berchtoldstag.
+<sup>1</sup> Die wahlleitende Behörde legt die Wahl oder Abstimmung auf einen Sonntag, jedoch nicht auf Palmsonntag, Ostersonntag, 1. Mai, Pfingstsonntag, 1. August, den Eidgenössischen Bettag oder einen Sonntag zwischen dem 24. Dezember und dem 2. Januar.<sup>50</sup>
 
 <sup>2</sup> Die Wahl- und Abstimmungstage werden, soweit möglich, mit jenen des Bundes zusammengelegt.
 
@@ -677,23 +684,21 @@ Die Verordnung regelt, durch welche Angaben die Namen auf den Wahlvorschlägen u
 
 <sup>4</sup> Für zweite Wahlgänge gelten diese Ausschlüsse nicht.
 
-**15**
-
-1.10. 21 - 114 § 59.<sup>21</sup> <sup>1</sup> Der Regierungsrat legt das Datum einer Volksabstimmung so fest, dass sie innert sieben Monaten durchgeführt wird a. ab endgültiger Verabschiedung einer Vorlage durch den Kantonsrat, wenn diese dem obligatorischen Referendum untersteht,
-
 **c. Kantonale Abstimmungen**
+
+§ 59.<sup>50</sup> <sup>1</sup> Der Regierungsrat legt das Datum einer Volksabstimmung so fest, dass sie unter Berücksichtigung der erforderlichen Vorbereitungszeit möglichst bald durchgeführt wird a. ab endgültiger Verabschiedung einer Vorlage durch den Kantonsrat, wenn diese dem obligatorischen Referendum untersteht,
 
 - b. ab Feststellung des Zustandekommens eines fakultativen Referendums.
 
 - c. . . .<sup>31</sup>
 
-<sup>2</sup> Die Fristvorgaben der §§ 132 und 137 sowie von Art. 37 Abs. 2 KV[^58-1] bleiben vorbehalten.
+<sup>2</sup> Wird eine Vorlage angefochten, legt der Regierungsrat das Datum frühestens nach dem rechtskräftigen Abschluss des Verfahrens fest.
 
-<sup>3</sup> Liegen zwei einander ausschliessende Vorlagen vor, bringt sie der Regierungsrat gleichzeitig zur Abstimmung.
+<sup>3</sup> Die Fristvorgaben der §§ 132 und 137 sowie von Art. 37 Abs. 2 KV<sup>5</sup> bleiben vorbehalten.
 
-<sup>4</sup> Liegen mehr als zwei einander ausschliessende Vorlagen vor, legt der Regierungsrat das Abstimmungsverfahren fest. Er stellt dabei sicher, dass die Stimmberechtigten ihren Willen eindeutig und unverfälscht ausdrücken können.
+<sup>4</sup> Liegen zwei einander ausschliessende Vorlagen vor, bringt sie der Regierungsrat gleichzeitig zur Abstimmung.
 
-[^58-1]: LS 101.
+<sup>5</sup> Liegen mehr als zwei einander ausschliessende Vorlagen vor, legt der Regierungsrat das Abstimmungsverfahren fest. Er stellt dabei sicher, dass die Stimmberechtigten ihren Willen eindeutig und unverfälscht ausdrücken können.
 
 #### § 60
 
@@ -727,55 +732,61 @@ Die Verordnung regelt, durch welche Angaben die Namen auf den Wahlvorschlägen u
 
 - b. welche der beiden Vorlagen in Kraft treten soll, falls beide Vorlagen mehr zustimmende als ablehnende Stimmen erhalten (Stichfrage).
 
-#### § 61
-
 **c. Beiblatt21**
 
-<sup>1</sup> Die wahlleitende Behörde kann den Wahl- und Abstimmungsunterlagen ein Beiblatt beilegen, auf dem die Personen aufgeführt sind, die öffentlich zur Wahl vorgeschlagen worden sind.
+§ 61.<sup>50</sup> <sup>1</sup> Die wahlleitende Behörde legt den Wahl- und Abstimmungsunterlagen ein Beiblatt bei. Vorbehalten bleibt § 55 Abs. 2 und 3.
 
-<sup>2</sup> Für die Wahl eines kommunalen Organs kann die Gemeindeordnung die Abgabe eines Beiblatts vorschreiben, sofern keine gedruckten Wahlvorschläge zum Einsatz gelangen.<sup>20</sup>
+<sup>2</sup> Auf dem Beiblatt werden die Namen der gültig vorgeschlagenen Personen in alphabetischer Reihenfolge aufgeführt. Die Namen der bisherigen Amtsinhaberinnen und Amtsinhaber werden mit dem Zusatz «bisher» ergänzt.
+
+#### § 62
 
 **d. Zustellung21**
 
-§ 62. <sup>1</sup> Die Gemeinde stellt den Stimmberechtigten die Wahl- und Abstimmungsunterlagen mindestens drei Wochen vor dem Wahl- und Abstimmungstag zu.
+<sup>1</sup> Die Gemeinde stellt den Stimmberechtigten die Wahl- und Abstimmungsunterlagen mindestens drei Wochen vor dem Wahl- und Abstimmungstag zu.
 
 <sup>2</sup> Die Wahl- und Stimmzettel und der Stimmrechtsausweis dürfen frühestens vier Wochen vor dem Abstimmungstag zugestellt werden.
 
-#### § 63
+**17**
+
+1.10. 22 - 118 § 63. <sup>1</sup> Die wahlleitende Behörde veröffentlicht die Abstimmungsvorlage und den Beleuchtenden Bericht spätestens drei Wochen vor dem Abstimmungstag.
 
 **e. Veröffentlichung21**
 
-<sup>1</sup> Die wahlleitende Behörde veröffentlicht die Abstimmungsvorlage und den Beleuchtenden Bericht spätestens drei Wochen vor dem Abstimmungstag.
-
 <sup>2</sup> Bei kommunalen Abstimmungen kann sich die Veröffentlichung auf die Bezeichnung der Abstimmungsvorlage beschränken.
 
-**Beleuchtender Bericht**
+**Beleuchtender Bericht a. Kanton und Parlamentsgemeinden**
 
-§ 64.<sup>45</sup> <sup>1</sup> Zu einer Abstimmungsvorlage wird ein kurzer, sachlich gefasster und gut verständlicher Beleuchtender Bericht verfasst, der folgenden Inhalt aufweist:
+§ 64.<sup>50</sup> <sup>1</sup> Zu einer Abstimmungsvorlage wird ein kurzer, sachlich gefasster und gut verständlicher Beleuchtender Bericht verfasst, der folgenden Inhalt aufweist:
 
-- a. die Erläuterung der Vorlage und des Gegenvorschlags,
+- a. die Erläuterung der Vorlage und des Gegenvorschlags, wobei für Einzelheiten auf eine Internetseite des Kantons oder der Gemeinde verwiesen werden kann,
 
 - b. die Begründung der Mehrheit und von wesentlichen Minderheiten des Parlamentes sowie, falls inhaltlich abweichend, jene des Exekutivorgans,
 
-- c. bei Volksinitiativen oder fakultativen Volksreferenden die Stellungnahme des Initiativ- oder Referendumskomitees,
+- c. bei Volksinitiativen oder fakultativen Volksreferenden die Stellungnahme des Initiativ- bzw. Referendumskomitees und bei Gemeindereferenden die Stellungnahme der Gemeinden,
 
 - d. das Ergebnis der Schlussabstimmung des Parlaments, eine allfällige Abstimmungsempfehlung des Parlaments und die Abstimmungsempfehlung des Exekutivorgans.
 
-<sup>2</sup> In Versammlungsgemeinden wird neben den Angaben gemäss Abs. 1 lit. a und c folgender Inhalt in den Beleuchtenden Bericht aufgenommen:<sup>34</sup> a. die wesentlichen Vor- und Nachteile der Vorlage,
+<sup>2</sup> Der Beleuchtende Bericht wird in der Regel von der Exekutive verfasst. Das Parlament kann dies seiner Geschäftsleitung übertragen oder sie mit der Formulierung der Minderheitsmeinung gemäss Abs. 1 lit. b beauftragen.<sup>30</sup>
+
+<sup>3</sup> Bei kantonalen Vorlagen kann der Kantonsrat überdies den Beleuchtenden Bericht der Genehmigung durch die Geschäftsleitung des Kantonsrates unterstellen.
+
+<sup>4</sup> Ehrverletzende, offensichtlich wahrheitswidrige oder zu lange Äusserungen in der Stellungnahme gemäss Abs. 1 lit. c kann die wahlleitende Behörde ändern oder zurückweisen.
+
+**b. Versammlungsgemeinden**
+
+§ 64 a.<sup>49</sup> <sup>1</sup> In Versammlungsgemeinden wird neben den Angaben gemäss § 64 Abs. 1 lit. a folgender Inhalt in den Beleuchtenden Bericht aufgenommen:
+
+- a. die wesentlichen Vor- und Nachteile der Vorlage,
 
 - b. die Anträge der Exekutivorgane und der Rechnungsprüfungskommission,
 
-- c. die Abstimmungsempfehlung der vorberatenden Gemeindeversammlung.
+- c. die Abstimmungsempfehlung der vorberatenden Gemeindeversammlung,
 
-<sup>3</sup> Der Beleuchtende Bericht wird in der Regel von der Exekutive verfasst. Das Parlament kann dies seiner Geschäftsleitung übertragen oder sie mit der Formulierung der Minderheitsmeinung gemäss Abs. 1 lit. b beauftragen.<sup>30</sup>
+- d. bei Einzelinitiativen die Stellungnahme der Initiantin oder des Initianten, wobei § 64 Abs. 4 sinngemäss anwendbar ist,
 
-<sup>4</sup> Bei kantonalen Vorlagen kann der Kantonsrat überdies den Beleuchtenden Bericht der Genehmigung durch die Geschäftsleitung des Kantonsrates unterstellen.
+- e. bei fakultativen Referenden der Entscheid der Gemeindeversammlung zur Durchführung einer nachträglichen Urnenabstimmung sowie die wichtigsten Argumente, die in der Gemeindeversammlung geäussert wurden.
 
-**17**
-
-1.10. 21 - 114
-
-<sup>5</sup> Ehrverletzende, offensichtlich wahrheitswidrige oder zu lange Äusserungen in der Stellungnahme gemäss Abs. 1 lit. c kann die wahlleitende Behörde ändern oder zurückweisen.
+<sup>2</sup> Der Beleuchtende Bericht wird vom Gemeindevorstand verfasst.
 
 ### C. Stimmabgabe
 
@@ -799,11 +810,9 @@ Die Verordnung regelt, durch welche Angaben die Namen auf den Wahlvorschlägen u
 
 <sup>4</sup> Als Präsidentin oder Präsident kann einer Person die Stimme nur gegeben werden, wenn der Person auch eine Stimme als Mitglied des Organs gegeben wird oder wenn die Person bereits Mitglied des Organs ist.
 
-#### § 67
-
 **Bei gedruckten Wahlvorschlägen**
 
-Bei gedruckten Wahlvorschlägen können Namen gestrichen, durch andere Namen ersetzt und auf leeren Zeilen Namen hinzugefügt werden.
+§ 67.<sup>50</sup> Bei als Wahlzettel gedruckten Wahlvorschlägen gemäss § 55 a Abs. 1 und 2 können Namen gestrichen, durch andere Namen ersetzt und auf leeren Zeilen Namen hinzugefügt werden.
 
 #### § 68
 
@@ -815,19 +824,25 @@ Bei gedruckten Wahlvorschlägen können Namen gestrichen, durch andere Namen ers
 
 <sup>3</sup> Eine stimmberechtigte Person kann höchstens zwei weitere Personen an der Urne vertreten. Die vertretene Person hat sich damit auf dem Stimmrechtsausweis schriftlich einverstanden zu erklären.
 
-#### § 69
+**19**
 
-**Briefliche Stimmabgabe**
+1.10. 22 - 118 § 69.<sup>50</sup> Bei der brieflichen Stimmabgabe legt die stimmberechtigte Person folgende Unterlagen in das Antwortkuvert:
 
-<sup>1</sup> Bei der brieflichen Stimmabgabe legt die stimmberechtigte Person folgende Unterlagen in das Antwortkuvert:
+**Briefliche Stimmabgabe a. Vorgaben**
 
-- a. den Stimmrechtsausweis mit der unterschriebenen Erklärung, brieflich zu stimmen,
+- a. den Stimmrechtsausweis mit der unterzeichneten Erklärung, brieflich zu stimmen,
 
 - b. das verschlossene Stimmzettelkuvert mit den Wahl- und Stimmzetteln.
 
-<sup>2</sup> Die von der Präsidentin oder dem Präsidenten des Wahlbüros bezeichneten Gemeindeangestellten prüfen die Stimmrechtsausweise und legen die Stimmzettelkuverts in die Urne.
+**b. Prüfung**
 
-<sup>3</sup> In Fällen vermuteter Ungültigkeit und in Zweifelsfällen übergeben sie die Unterlagen dem Wahlbüro.
+§ 69 a.<sup>49</sup> <sup>1</sup> Die von der Präsidentin oder dem Präsidenten des Wahlbüros bezeichneten Gemeindeangestellten prüfen, ob die briefliche Stimmabgabe gültig ist.
+
+<sup>2</sup> Sie ist gültig, wenn a. der Stimmrechtsausweis mit der unterzeichneten Erklärung beiliegt,
+
+- b. im Antwortkuvert gleich viele oder weniger Stimmzettelkuverts als Stimmrechtsausweise mit unterzeichneter Erklärung liegen.
+
+<sup>3</sup> Steht die Gültigkeit nicht zweifelsfrei fest, übergeben die Gemeindeangestellten die Unterlagen dem Wahlbüro.
 
 ### D. Auswertung der Wahl- und Stimmzettel
 
@@ -863,23 +878,15 @@ Das Wahlbüro ermittelt a.<sup>21</sup> die Zahl der Stimmenden, bestehend aus d
 
 - b. sie nicht abgestempelt sind, sofern bei einer Wahl mehrere Stimmzettel zur Verfügung stehen,
 
-**19**
-
-1.10. 21 - 114 c. sie ehrverletzende Äusserungen enthalten,
+- c. sie ehrverletzende Äusserungen enthalten,
 
 - d. wesentliche Teile fehlen.
 
-<sup>2</sup> Bei der brieflichen Stimmabgabe sind die Wahl- oder Stimmzettel zudem ungültig, wenn a. der Stimmrechtsausweis nicht beiliegt oder nicht unterschrieben ist,
-
-- b. im Antwortkuvert mehr Stimmzettelkuverts als Stimmrechtsausweise liegen,
-
-- c. das Stimmzettelkuvert zur gleichen Sache mehrere Wahl- oder Stimmzettel unterschiedlichen Inhalts enthält. Lauten sie gleich, ist einer von ihnen gültig.
-
-#### § 73
+<sup>2</sup> Bei der brieflichen Stimmabgabe sind die Wahl- oder Stimmzettel zudem ungültig, wenn das Stimmzettelkuvert zur gleichen Sache mehrere Wahl- oder Stimmzettel unterschiedlichen Inhalts enthält. Lauten sie gleich, ist einer von ihnen gültig.<sup>50</sup>
 
 **c. Ungültige Stimmen**
 
-<sup>1</sup> Eine Stimme ist ungültig, wenn a. die Eintragung anders als handschriftlich durch die stimmberechtigte Person erfolgt ist, unter Vorbehalt von § 5,
+§ 73. <sup>1</sup> Eine Stimme ist ungültig, wenn a. die Eintragung anders als handschriftlich durch die stimmberechtigte Person erfolgt ist, unter Vorbehalt von § 5,
 
 - b. sich der Wille der stimmenden Person nicht eindeutig feststellen lässt,
 
@@ -901,17 +908,21 @@ Das Wahlbüro ermittelt a.<sup>21</sup> die Zahl der Stimmenden, bestehend aus d
 
 ### E. Ermittlung des Wahl- und Abstimmungsergebnisses
 
-#### § 75
-
 **Zuständigkeit**
 
-<sup>1</sup> Die wahlleitende Behörde ermittelt das Ergebnis der Wahl oder Abstimmung.
+§ 75.<sup>50</sup> <sup>1</sup> Die wahlleitende Behörde ermittelt das Ergebnis der Wahl oder Abstimmung.
+
+**21**
+
+1.10. 22 - 118
 
 <sup>2</sup> Als Ergebnis einer Wahl oder Abstimmung gilt der Zusammenzug der Auswertungsergebnisse der Wahlbüros und der Ausgang der Wahl oder Abstimmung.
 
-<sup>3</sup> Die wahlleitende Behörde kann die Auswertungsergebnisse der Wahlbüros überprüfen und berichtigen. Bei einem knappen Ausgang ordnet sie eine Nachzählung an.
+<sup>3</sup> Die wahlleitende Behörde kann die Auswertungsergebnisse der Wahlbüros überprüfen und berichtigen.
 
-<sup>4</sup> Bei kommunalen Wahlen und Abstimmungen kann die wahlleitende Behörde die mit der Ermittlung des Ergebnisses zusammenhängenden Aufgaben dem Wahlbüro übertragen.
+<sup>4</sup> Bei einem knappen Ausgang ordnet sie eine Nachzählung an, wenn a. konkrete Hinweise vorliegen, dass nicht korrekt ausgezählt wurde, und b. diese Hinweise nach ihrer Art und ihrem Umfang geeignet sind, das Ergebnis der Wahl oder Abstimmung wesentlich zu beeinflussen.
+
+<sup>5</sup> Bei kommunalen Wahlen und Abstimmungen kann die wahlleitende Behörde die mit der Ermittlung des Ergebnisses zusammenhängenden Aufgaben dem Wahlbüro übertragen.
 
 #### § 76
 
@@ -951,10 +962,6 @@ Das Wahlbüro ermittelt a.<sup>21</sup> die Zahl der Stimmenden, bestehend aus d
 
 Die Ergebnisse der Wahl oder Abstimmung werden in einem Protokoll festgehalten, das von der Präsidentin oder dem Präsidenten und von der Sekretärin oder dem Sekretär der wahlleitenden Behörde unterzeichnet wird.
 
-**21**
-
-1.10. 21 - 114
-
 ### F. Abschluss der Wahl oder Abstimmung
 
 #### § 81
@@ -983,27 +990,35 @@ Die Ergebnisse der Wahl oder Abstimmung werden in einem Protokoll festgehalten, 
 
 **Grundsatz**
 
-§ 84.<sup>38</sup> Beim zweiten oder bei einem weiteren Wahlgang gelten unter Vorbehalt von §§ 84 a und 84 b die Vorschriften für den ersten Wahlgang.
+§ 84.<sup>50</sup> <sup>1</sup> Beim zweiten Wahlgang gelten unter Vorbehalt von §§ 84 a–84 c die Vorschriften für den ersten Wahlgang.
 
-**Anordnung des Wahlgangs und Zustellung der Wahlunterlagen**
+<sup>2</sup> Bei weiteren Wahlgängen gelten die Vorschriften für den zweiten Wahlgang sinngemäss.
 
-§ 84 a.<sup>37</sup> <sup>1</sup> Die Anordnung des zweiten Wahlgangs wird mindestens 22 Tage vor dem Wahlgang veröffentlicht.
+**Wahlvorschläge**
 
-<sup>2</sup> Für einen zweiten Wahlgang der Erneuerungswahlen der Ständeratsmitglieder im November gelten folgende Mindestfristen, sofern in diesem Monat keine eidgenössische Abstimmung stattfindet:
+§ 84 a.<sup>50</sup> <sup>1</sup> Wahlvorschläge für den ersten Wahlgang gelten auch für den zweiten Wahlgang.
 
-- a. Veröffentlichung der Anordnung des Wahlgangs 15 Tage vor dem Wahlgang,
+<sup>2</sup> Bis zehn Tage nach dem ersten Wahlgang können gültige Wahlvorschläge zurückgezogen oder neue Wahlvorschläge eingereicht werden.
 
-- b. Zustellung der Wahlunterlagen zehn Tage vor dem Wahlgang.
-
-<sup>3</sup> Die Fristen nach Abs. 2 gelten auch für weitere kantonale und kommunale Wahlen und Abstimmungen, die am Tag des zweiten Wahlgangs stattfinden.
+<sup>3</sup> Die Gemeindeordnung kann für kommunale Wahlen eine andere Frist vorsehen.
 
 **Wahl**
 
-§ 84 b.<sup>37</sup> <sup>1</sup> Die stille Wahl ist ausgeschlossen. Die Stimmberechtigten erhalten einen leeren Wahlzettel.
+§ 84 b.<sup>50</sup> <sup>1</sup> Die stille Wahl ist ausgeschlossen. Die Stimmberechtigten erhalten einen leeren Wahlzettel mit einem Beiblatt.
 
-<sup>2</sup> Es können auch Personen gewählt werden, die im ersten Wahlgang nicht zur Wahl standen.
+<sup>2</sup> Entscheidend ist das relative Mehr.
 
-<sup>3</sup> Entscheidend ist das relative Mehr.
+**Wahl des Ständerates**
+
+§ 84 c.<sup>49</sup> <sup>1</sup> Bis zum Donnerstag nach dem ersten Wahlgang (vier Tage) können gültige Wahlvorschläge zurückgezogen oder neue Wahlvorschläge eingereicht werden.
+
+**23**
+
+1.10. 22 - 118
+
+<sup>2</sup> Die Wahlunterlagen werden den Stimmberechtigten spätestens zehn Tage vor dem zweiten Wahlgang zugestellt. Wurde auf den Wahltag eine eidgenössische Abstimmung angeordnet, gilt § 62.
+
+<sup>3</sup> Die Frist nach Abs. 2 gilt auch für weitere kantonale und kommunale Wahlen und Abstimmungen, die auf den Tag des zweiten Wahlgangs angeordnet wurden.
 
 ### 5. Abschnitt: Wahl des Kantonsrates
 
@@ -1019,27 +1034,13 @@ Soweit die nachfolgenden Bestimmungen nichts anderes regeln, richtet sich die Wa
 
 Für die Kantonsratswahlen bestehen folgende Wahlkreise: I. Stadt Zürich, Stadtkreise 1 und 2, II. Stadt Zürich, Stadtkreise 3 und 9, III. Stadt Zürich, Stadtkreise 4 und 5, IV. Stadt Zürich, Stadtkreise 6 und 10, V. Stadt Zürich, Stadtkreise 7 und 8, VI. Stadt Zürich, Stadtkreise 11 und 12, VII. Dietikon, umfassend den Bezirk Dietikon, VIII. Affoltern, umfassend den Bezirk Affoltern, IX. Horgen, umfassend den Bezirk Horgen, X. Meilen, umfassend den Bezirk Meilen, XI. Hinwil, umfassend den Bezirk Hinwil, XII. Uster, umfassend den Bezirk Uster, XIII. Pfäffikon, umfassend den Bezirk Pfäffikon, XIV. Stadt Winterthur, XV. Winterthur-Land, umfassend sämtliche Landgemeinden des Bezirks Winterthur, XVI. Andelfingen, umfassend den Bezirk Andelfingen, XVII. Bülach, umfassend den Bezirk Bülach, XVIII. Dielsdorf, umfassend den Bezirk Dielsdorf.
 
-#### § 87
+§ 87.<sup>51</sup>
 
-**b. Kreiswahlvorsteherschaft**
-
-Kreiswahlvorsteherschaft ist a. in den Wahlkreisen I. bis VI. das Zentralwahlbüro der Stadt Zürich,
-
-- b. im Wahlkreis XIV. das Zentralwahlbüro der Stadt Winterthur,
-
-- c. im Wahlkreis XV. das Wahlbüro der Gemeinde Elgg,
-
-- d. in den übrigen Wahlkreisen das Wahlbüro des Bezirkshauptortes.
-
-**c. Sitzzuteilung**
+**b. Sitzzuteilung50**
 
 § 88.<sup>15</sup> <sup>1</sup> Die Zahl der Personen, die in einem Wahlkreis wohnhaft sind, wird durch den Zuteilungs-Divisor geteilt und zur nächstgelegenen ganzen Zahl gerundet. Das Ergebnis bezeichnet die Zahl der Sitze, die im betreffenden Wahlkreis zu vergeben sind.
 
 <sup>2</sup> Der Zuteilungs-Divisor wird so festgelegt, dass beim Verfahren nach Abs. 1 genau 180 Sitze vergeben werden.
-
-**23**
-
-1.10. 21 - 114
 
 <sup>3</sup> Die Direktion ermittelt die den Wahlkreisen zustehende Zahl von Sitzen und veröffentlicht das Ergebnis im Amtsblatt.<sup>21</sup>
 
@@ -1053,23 +1054,19 @@ Kreiswahlvorsteherschaft ist a. in den Wahlkreisen I. bis VI. das Zentralwahlbü
 
 <sup>4</sup> Geht der Wahlvorschlag von einer politischen Partei oder einer andern gesellschaftlichen Gruppierung aus, so wird er in dieser Gruppierung in einem demokratischen Verfahren festgelegt.
 
-#### § 90
-
 **b. Unterzeichnung und Einreichung**
 
-<sup>1</sup> Jeder Wahlvorschlag muss von mindestens 30 Stimmberechtigten des Wahlkreises unterschrieben sein.
+§ 90.<sup>50</sup> <sup>1</sup> Jeder Wahlvorschlag einer politischen Partei oder einer anderen gesellschaftlichen Gruppierung, die in der laufenden Amtsdauer im Rat vertreten ist, muss von zwei Personen unterzeichnet sein, die als Vertretung des Wahlvorschlags gelten.
 
-<sup>2</sup> Die Wahlvorschläge müssen der Kreiswahlvorsteherschaft bis spätestens am zehnten Dienstag vor dem Wahltag eingereicht werden.
+<sup>2</sup> Die übrigen Wahlvorschläge müssen von mindestens 30 Stimmberechtigten des Wahlkreises unterzeichnet sein. § 51 Abs. 3 gilt sinngemäss.
 
-<sup>3</sup> Ab diesem Zeitpunkt können die Wahlvorschläge nicht mehr geändert werden. Die Behebung von Mängeln gemäss § 52 bleibt vorbehalten.
+<sup>3</sup> Die Wahlvorschläge sind der Direktion bis zum zehnten Montag (69. Tag) vor dem Wahltag einzureichen.
 
-#### § 91
+<sup>4</sup> Ab diesem Zeitpunkt können die Wahlvorschläge nicht mehr geändert werden. Die Behebung von Mängeln gemäss § 52 bleibt vorbehalten.
 
 **c. Prüfung**
 
-<sup>1</sup> Die Präsidentin oder der Präsident der Kreiswahlvorsteherschaft prüft die Wahlvorschläge gemäss § 52, lässt sie allenfalls verbessern und stellt der Direktion umgehend eine Kopie der Wahlvorschläge zu.
-
-<sup>2</sup> Die Direktion prüft, ob der Name einer Person nicht auf mehreren Listen steht, und teilt die Ergebnisse allen Kreiswahlvorsteherschaften mit.
+§ 91.<sup>50</sup> Die Direktion prüft die Wahlvorschläge gemäss § 52.
 
 #### § 92
 
@@ -1077,15 +1074,21 @@ Kreiswahlvorsteherschaft ist a. in den Wahlkreisen I. bis VI. das Zentralwahlbü
 
 <sup>1</sup> Die bereinigten Wahlvorschläge heissen Listen.
 
-<sup>2</sup> Listen, die in der laufenden Amtsdauer im Rat vertreten sind, erhalten Listennummern in der Reihenfolge ihrer Stärke im Rat. Bei gleicher Sitzzahl entscheidet die alphabetische Reihenfolge der Listenbezeichnungen.
+<sup>2</sup> Listen, die in der laufenden Amtsdauer im Rat vertreten sind, erhalten Listennummern in der Reihenfolge der bei der letzten Wahl im Kanton erhaltenen Parteistimmen, beginnend mit der Liste mit den meisten Parteistimmen.<sup>50</sup>
 
 <sup>3</sup> Den übrigen Listen wird unter Aufsicht der Vorsteherin oder des Vorstehers der Direktion durch Losentscheid eine Listennummer zugewiesen. Listen aus verschiedenen Wahlkreisen, aber mit gleicher Bezeichnung, erhalten dieselbe Listennummer.
 
 <sup>4</sup> Die Vertreterinnen und Vertreter der Wahlvorschläge können bei der Losziehung anwesend sein.
 
-<sup>5</sup> Die Direktion teilt den Vertreterinnen und Vertretern der Wahlvorschläge die Listennummer bis zum achten Freitag vor der Wahl mit. § 93.<sup>15</sup> Listenverbindungen sind ausgeschlossen.
+**25**
+
+1.10. 22 - 118
+
+<sup>5</sup> Die Direktion teilt den Vertreterinnen und Vertretern der Wahlvorschläge die Listennummer bis zum achten Freitag vor der Wahl mit.
 
 **b. Listenverbindung**
+
+§ 93.<sup>15</sup> Listenverbindungen sind ausgeschlossen.
 
 **c. Veröffentlichung**
 
@@ -1093,7 +1096,7 @@ Kreiswahlvorsteherschaft ist a. in den Wahlkreisen I. bis VI. das Zentralwahlbü
 
 **Wahlunterlagen**
 
-§ 95.<sup>21</sup> Die Kreiswahlvorsteherschaft lässt die Listen unter Beachtung der Vorgaben der Direktion als Wahlzettel drucken. Sie stellt sie den Gemeinden zusammen mit der von der Direktion verfassten Wahlanleitung rechtzeitig zur Verfügung.
+§ 95.<sup>50</sup> Die Direktion lässt die Listen als Wahlzettel und einen zusätzlichen leeren Wahlzettel drucken. Sie stellt sie den Gemeinden zusammen mit der Wahlanleitung rechtzeitig zur Verfügung.
 
 #### § 96
 
@@ -1103,25 +1106,21 @@ Kreiswahlvorsteherschaft ist a. in den Wahlkreisen I. bis VI. das Zentralwahlbü
 
 <sup>2</sup> Derselbe Name darf höchstens zweimal auf einem Wahlzettel stehen.
 
-#### § 97
-
 **b. Listenbezeichnung**
 
-<sup>1</sup> Listennummer und Listenbezeichnung können durch eine andere Nummer und Bezeichnung ersetzt werden.
+§ 97.<sup>50</sup> <sup>1</sup> Listennummer und Listenbezeichnung können gestrichen oder durch eine andere Nummer und Bezeichnung ersetzt werden.
 
 <sup>2</sup> Widersprechen sich Listennummer und Listenbezeichnung, ist die Listenbezeichnung massgebend.
 
-<sup>3</sup> Ersatzlose Streichungen und Änderungen der Listennummern oder Listenbezeichnungen, aus denen der Wille des oder der Wählenden nicht eindeutig hervorgeht, gelten als nicht erfolgt.
-
-#### § 98
-
 **Auswertung a. Ungültige Wahlzettel und Stimmen**
 
-<sup>1</sup> Neben den in § 72 genannten Fällen sind Wahlzettel ungültig, wenn keiner der aufgeführten Namen auf einer der Listen des Wahlkreises enthalten ist.
+§ 98.<sup>50</sup> <sup>1</sup> Neben den in § 72 genannten Fällen sind Wahlzettel ungültig, wenn keiner der aufgeführten Namen auf einer der Listen des Wahlkreises enthalten ist.
 
-<sup>2</sup> Neben den in § 73 Abs. 1 lit. a–c und Abs. 2 genannten Fällen sind Stimmen ungültig, wenn a. der Kandidatenname auf keiner der amtlichen Listen des Wahlkreises steht,
+<sup>2</sup> Neben den in § 73 Abs. 1 lit. a–c genannten Fällen sind Stimmen ungültig, wenn a. der Kandidatenname auf keiner der amtlichen Listen des Wahlkreises steht,
 
 - b. derselbe Kandidatenname bereits zweimal aufgeführt ist.
+
+<sup>3</sup> Enthält ein Wahlzettel mehr gültige Kandidatennamen, als im Wahlkreis Sitze zu vergeben sind, sind die überzähligen Stimmen ungültig. Zunächst werden die letzten vorgedruckten nicht handschriftlich kumulierten, danach die letzten handschriftlich ausgefüllten Namen gestrichen.
 
 #### § 99
 
@@ -1137,9 +1136,7 @@ Neben den in § 71 lit. a und b genannten Werten ermittelt das Wahlbüro zusätz
 
 - b. unter den massgebenden Stimmen: die Zahl der Stimmen, die jede kandidierende Person erhalten hat (Kandidatenstimmen), und die Zahl der Zusatzstimmen jeder Liste,
 
-**25**
-
-1.10. 21 - 114 c. die Summe der Kandidaten- und Zusatzstimmen jeder Liste (Parteistimmen).
+- c. die Summe der Kandidaten- und Zusatzstimmen jeder Liste (Parteistimmen).
 
 **Sitzverteilung a. Zuständigkeit**
 
@@ -1170,6 +1167,10 @@ Neben den in § 71 lit. a und b genannten Werten ermittelt das Wahlbüro zusätz
 **d. Unterzuteilung auf die Listen**
 
 § 104.<sup>15</sup> <sup>1</sup> Die Parteistimmenzahl einer Liste wird durch den Wahlkreis-Divisor und den Listengruppen-Divisor geteilt und zur nächstgelegenen ganzen Zahl gerundet. Das Ergebnis bezeichnet die Zahl der Sitze dieser Liste.
+
+**27**
+
+1.10. 22 - 118
 
 <sup>2</sup> Die Direktion legt für jeden Wahlkreis einen Wahlkreis-Divisor und für jede Listengruppe einen Listengruppen-Divisor so fest, dass bei einem Vorgehen nach Abs. 1 a.<sup>28</sup> jeder Wahlkreis die ihm von der Direktion zugewiesene Zahl von Sitzen erhält,
 
@@ -1217,19 +1218,21 @@ Auf die konstituierende Sitzung des Kantonsrates hin stellt der Regierungsrat Be
 
 <sup>3</sup> Für die Mitglieder des Ständerates beginnt die Amtsdauer mit ihrer Vereidigung.
 
-#### § 110
-
 **Nationalrat**
 
-<sup>1</sup> Für die Wahl der Zürcher Mitglieder des Nationalrates sind die Wahlvorschläge bis spätestens am elften Donnerstag vor dem Wahltag (73. Tag) der Direktion einzureichen.
+§ 110.<sup>50</sup> <sup>1</sup> Für die Wahl der Zürcher Mitglieder des Nationalrates sind die Wahlvorschläge bis zum elften Montag vor der Wahl (76. Tag) der Direktion einzureichen.
 
-**27**
+<sup>2</sup> Listen, die in der laufenden Amtsdauer im Nationalrat vertreten sind, erhalten Listennummern in der Reihenfolge der bei der letzten Wahl erhaltenen Parteistimmen im Kanton, beginnend mit der Liste mit den meisten Parteistimmen.
 
-1.10. 21 - 114
+<sup>3</sup> Listen, die in der laufenden Amtsdauer nicht im Nationalrat, aber im Kantonsrat vertreten sind, erhalten die nachfolgenden Listennummern in der Reihenfolge der bei der letzten Kantonsratswahl erhaltenen Parteistimmen.
 
-<sup>2</sup> Die Listennummern werden gemäss § 92 verteilt, wobei bei der Vertretung der Listen im Rat und bei der Vertretungsstärke nur die Zürcher Mitglieder des Rates berücksichtigt werden.
+<sup>4</sup> Listen, die nicht unter Abs. 2 oder 3 fallen und die in einer Unterlistenverbindung mit einer Liste stehen, die in der laufenden Amtszeit im Nationalrat vertreten ist, erhalten die nachfolgenden Listennummern in der Reihenfolge der bei der letzten Nationalratswahl erhaltenen Parteistimmen.
 
-<sup>3</sup> Für die Zustellung der Wahlzettel an die Stimmberechtigten gilt die Mindestfrist des Bundesrechts.
+<sup>5</sup> Den übrigen Listen wird unter Aufsicht der Vorsteherin oder des Vorstehers der Direktion durch Losentscheid eine Listennummer zugewiesen.
+
+<sup>6</sup> Die Vertreterinnen und Vertreter der Wahlvorschläge können bei der Losziehung anwesend sein.
+
+<sup>7</sup> Die Direktion teilt den Vertreterinnen und Vertretern der Wahlvorschläge die Listennummer bis zum achten Freitag vor der Wahl mit.
 
 #### § 111
 
@@ -1247,7 +1250,9 @@ Auf die konstituierende Sitzung des Kantonsrates hin stellt der Regierungsrat Be
 
 § 113.<sup>43</sup>
 
-§ 114.<sup>19</sup>
+**29**
+
+1.10. 22 - 118 § 114.<sup>19</sup>
 
 §§ 115–118.<sup>43</sup>
 
@@ -1259,23 +1264,19 @@ Auf die konstituierende Sitzung des Kantonsrates hin stellt der Regierungsrat Be
 
 **Gegenstand, Urheberschaft und Form**
 
-§ 120. <sup>1</sup> Gegenstand, Urheberschaft und Form einer Initiative richten sich nach Art. 23–25 und 134 Abs. 1 KV[^h1AbschnittAllgem-1].<sup>21</sup>
+§ 120. <sup>1</sup> Gegenstand, Urheberschaft und Form einer Initiative richten sich nach Art. 23–25 und 134 Abs. 1 KV<sup>5</sup>.<sup>21</sup>
 
 <sup>2</sup> Eine Initiative in der Form des ausgearbeiteten Entwurfs ist ein in allen Teilen konkret formulierter Beschlussentwurf in seiner endgültigen, vollziehbaren Form.
 
 <sup>3</sup> Eine Initiative in der Form der allgemeinen Anregung umschreibt das Begehren, ohne den Konkretisierungsgrad gemäss Abs. 2 zu erreichen.
 
-[^h1AbschnittAllgem-1]: LS 101.
-
 #### § 121
 
 **Gültigkeit**
 
-<sup>1</sup> Die Gültigkeit von Initiativen richtet sich nach Art. 28 Abs. 1 KV[^h1AbschnittAllgem-1].<sup>21</sup>
+<sup>1</sup> Die Gültigkeit von Initiativen richtet sich nach Art. 28 Abs. 1 KV<sup>5</sup>.<sup>21</sup>
 
-<sup>2</sup> Enthält eine Initiative Begehren verschiedener Art, müssen diese einen hinreichenden inneren Zusammenhang aufweisen. Vorbehalten bleiben Initiativen auf Gesamtrevision der Kantonsverfassung[^121-1].
-
-[^121-1]: LS 101.
+<sup>2</sup> Enthält eine Initiative Begehren verschiedener Art, müssen diese einen hinreichenden inneren Zusammenhang aufweisen. Vorbehalten bleiben Initiativen auf Gesamtrevision der Kantonsverfassung<sup>5</sup>.
 
 ### 2. Abschnitt: Volksinitiativen
 
@@ -1319,31 +1320,35 @@ Auf die konstituierende Sitzung des Kantonsrates hin stellt der Regierungsrat Be
 
 § 125.<sup>21</sup> <sup>1</sup> Die Direktion veröffentlicht den Titel und den Text der Initiative sowie die Namen der Mitglieder des Initiativkomitees im Amtsblatt.
 
-<sup>2</sup> Mit der Veröffentlichung beginnt die Frist zur Einreichung der Unterschriften gemäss Art. 27 KV[^122-1].
+<sup>2</sup> Mit der Veröffentlichung beginnt die Frist zur Einreichung der Unterschriften gemäss Art. 27 KV<sup>5</sup>.
 
-**29**
-
-1.10. 21 - 114 § 126. <sup>1</sup> Zur Unterzeichnung der Unterschriftenliste gibt die stimmberechtigte Person handschriftlich ihren Namen, Vornamen, ihr Geburtsjahr und ihre Adresse an und fügt ihre Unterschrift bei.
+#### § 126
 
 **Unterschriftensammlung, Einreichung der Listen**
 
-<sup>2</sup> Die Unterschriftenlisten sind der Direktion gesamthaft und nach Gemeinden sortiert innert der Frist nach Art. 27 KV[^122-1] einzureichen.<sup>21</sup>
+<sup>1</sup> Zur Unterzeichnung der Unterschriftenliste gibt die stimmberechtigte Person handschriftlich ihren Namen, Vornamen, ihr Geburtsjahr und ihre Adresse an und fügt ihre Unterschrift bei.
+
+<sup>2</sup> Die Unterschriftenlisten sind der Direktion gesamthaft und nach Gemeinden sortiert innert der Frist nach Art. 27 KV<sup>5</sup> einzureichen.<sup>21</sup>
 
 **Zustandekommen**
 
 § 127.<sup>21</sup> <sup>1</sup> Eine Initiative ist zustande gekommen, wenn a. die Unterschriftenlisten den gesetzlichen Anforderungen entsprechen und rechtzeitig eingereicht worden sind,
 
-- b. die nach Art. 24 lit. a KV[^122-1] erforderliche Zahl gültiger Unterzeichnungen vorliegt.
+- b. die nach Art. 24 lit. a KV<sup>5</sup> erforderliche Zahl gültiger Unterzeichnungen vorliegt.
 
 <sup>2</sup> Eine Unterzeichnung ist gültig, wenn die Person im Zeitpunkt der Prüfung ihrer Unterzeichnung in der Gemeinde, die auf der Liste angegeben ist, politischen Wohnsitz hat und wenn die Person die Initiative nicht bereits einmal unterzeichnet hat.
 
 <sup>3</sup> Die Direktion lässt so viele Unterzeichnungen durch die Stimmregisterführenden auf ihre Gültigkeit hin prüfen, wie für das Zustandekommen der Initiative erforderlich ist.
 
+**31**
+
+1.10. 22 - 118
+
 <sup>4</sup> Die Direktion stellt innert drei Monaten nach Einreichung der Initiative fest, ob sie zustande gekommen ist, und veröffentlicht dieses Ergebnis. Ist die Volksinitiative nicht zustande gekommen, wird sie dem Kantonsrat zur weiteren Behandlung als Einzelinitiative überwiesen.
 
 **Gültigkeit**
 
-§ 128.<sup>21</sup> <sup>1</sup> Eine Initiative ist gültig, wenn sie die Voraussetzungen von Art. 28 Abs. 1 KV[^122-1] erfüllt.
+§ 128.<sup>21</sup> <sup>1</sup> Eine Initiative ist gültig, wenn sie die Voraussetzungen von Art. 28 Abs. 1 KV<sup>5</sup> erfüllt.
 
 <sup>2</sup> Verstösst nur ein Teil der Initiative gegen übergeordnetes Recht oder ist nur ein Teil der Initiative offensichtlich undurchführbar, wird nur dieser für ungültig erklärt, wenn der restliche Teil die wesentlichen Anliegen der Initiative enthält und noch ein sinnvolles Ganzes ergibt.
 
@@ -1354,8 +1359,6 @@ Auf die konstituierende Sitzung des Kantonsrates hin stellt der Regierungsrat Be
 § 129.<sup>21</sup> <sup>1</sup> Der Regierungsrat kann eine rechtsetzungstechnische Bereinigung des Initiativtextes beschliessen, sofern die Mehrheit der Mitglieder des Initiativkomitees den Änderungen zustimmt.
 
 <sup>2</sup> Der bereinigte Text wird dem Initiativkomitee zugestellt und veröffentlicht.
-
-[^122-1]: LS 101.
 
 ### B. Behandlung von Volksinitiativen in der Form
 
@@ -1389,10 +1392,6 @@ des ausgearbeiteten Entwurfs<sup>20</sup>
 
 - b. innert 30 Monaten nach Einreichung der Initiative in den übrigen Fällen.
 
-**31**
-
-1.10. 21 - 114
-
 ### C. Behandlung von Volksinitiativen in der Form
 
 der allgemeinen Anregung<sup>20</sup>
@@ -1419,9 +1418,11 @@ der allgemeinen Anregung<sup>20</sup>
 
 <sup>3</sup> Beschliesst er einen Gegenvorschlag zur Initiative, findet eine Volksabstimmung über die beiden Vorlagen statt.
 
-**Umsetzungsvorlage a. Antrag des Regierungsrates**
+**33**
 
-§ 135.<sup>21</sup> Hat der Kantonsrat die Ausarbeitung einer Umsetzungsvorlage mit oder ohne Gegenvorschlag beschlossen, unterbreitet ihm der Regierungsrat die entsprechende Vorlage innert der in der Verordnung bezeichneten Frist.
+1.10. 22 - 118 § 135.<sup>21</sup> Hat der Kantonsrat die Ausarbeitung einer Umsetzungsvorlage mit oder ohne Gegenvorschlag beschlossen, unterbreitet ihm der Regierungsrat die entsprechende Vorlage innert der in der Verordnung bezeichneten Frist.
+
+**Umsetzungsvorlage a. Antrag des Regierungsrates**
 
 **b. Entscheid des Kantonsrates**
 
@@ -1459,7 +1460,7 @@ der allgemeinen Anregung<sup>20</sup>
 
 **Gegenstand von Umsetzungsvorlage und Gegenvorschlag**
 
-§ 138 a.<sup>39</sup> Der Gegenstand einer Umsetzungsvorlage oder eines Gegenvorschlags muss dem Gegenstand einer Initiative gemäss Art. 23 KV[^hDGemeinsameBestim-1] entsprechen.
+§ 138 a.<sup>39</sup> Der Gegenstand einer Umsetzungsvorlage oder eines Gegenvorschlags muss dem Gegenstand einer Initiative gemäss Art. 23 KV<sup>5</sup> entsprechen.
 
 **Gegenvorschlag**
 
@@ -1475,17 +1476,13 @@ der allgemeinen Anregung<sup>20</sup>
 
 <sup>2</sup> Die vorberatende Kommission kann eine Vertretung des Initiativkomitees zur Begründung der Initiative anhören. Sie kann der Vertretung einen allfälligen Gegenvorschlag zur Stellungnahme unterbreiten.<sup>44</sup>
 
-**33**
-
-1.10. 21 - 114
-
 <sup>3</sup> Bei der materiellen Behandlung im Kantonsrat hat eine Vertretung des Initiativkomitees das Recht, die Initiative persönlich zu begründen und an den Verhandlungen mit beratender Stimme teilzunehmen, falls ein entsprechendes Gesuch von mindestens einem Viertel der anwesenden Mitglieder des Kantonsrates unterstützt wird.
 
 **Rückzug der Initiative a. Im Allgemeinen**
 
 § 138 d.<sup>20,</sup> <sup>41</sup> <sup>1</sup> Die Mehrheit der Mitglieder des Initiativkomitees kann die Volksinitiative mit schriftlicher Erklärung an die Direktion zurückziehen.
 
-<sup>2</sup> Hat der Kantonsrat einen Gegenvorschlag zu einer ausformulierten Initiative beschlossen und wird die Initiative zurückgezogen, gilt der Gegenvorschlag als Beschluss des Kantonsrates, der nach Massgabe der Kantonsverfassung dem Referendum untersteht. Untersteht der Gegenvorschlag dem fakultativen Referendum, setzt die Direktion die Referendumsfristen nach Art. 33 Abs. 3 KV[^hDGemeinsameBestim-1] an.
+<sup>2</sup> Hat der Kantonsrat einen Gegenvorschlag zu einer ausformulierten Initiative beschlossen und wird die Initiative zurückgezogen, gilt der Gegenvorschlag als Beschluss des Kantonsrates, der nach Massgabe der Kantonsverfassung dem Referendum untersteht. Untersteht der Gegenvorschlag dem fakultativen Referendum, setzt die Direktion die Referendumsfristen nach Art. 33 Abs. 3 KV<sup>5</sup> an.
 
 <sup>3</sup> Hat der Kantonsrat einen Gegenvorschlag zu einer Initiative in der Form der allgemeinen Anregung beschlossen und wird die Initiative zurückgezogen, so arbeitet der Regierungsrat eine Vorlage aus, die dem Gegenvorschlag entspricht. § 138 gilt sinngemäss.
 
@@ -1495,7 +1492,9 @@ der allgemeinen Anregung<sup>20</sup>
 
 § 138 e.<sup>20,</sup> <sup>41</sup> Liegt eine ausformulierte Initiative vor und hat der Kantonsrat dazu einen dem fakultativen Referendum unterstehenden Gegenvorschlag beschlossen, kann das Komitee die Initiative unter der Bedingung zurückziehen, dass gegen den Gegenvorschlag kein Referendum zustande kommt.
 
-[^hDGemeinsameBestim-1]: LS 101.
+**35**
+
+1.10. 22 - 118
 
 ### 3. Abschnitt: Einzel- und Behördeninitiativen
 
@@ -1503,7 +1502,7 @@ der allgemeinen Anregung<sup>20</sup>
 
 § 139.<sup>21</sup> <sup>1</sup> Einzel- und Behördeninitiativen werden der Geschäftsleitung des Kantonsrates eingereicht.
 
-<sup>2</sup> Der Kantonsrat entscheidet innert sechs Monaten nach Einreichung der Initiative über die vorläufige Unterstützung nach Art. 31 Abs. 1 KV[^h3AbschnittEinzel-1].
+<sup>2</sup> Der Kantonsrat entscheidet innert sechs Monaten nach Einreichung der Initiative über die vorläufige Unterstützung nach Art. 31 Abs. 1 KV<sup>5</sup>.
 
 <sup>3</sup> Unterstützt er die Initiative vorläufig, überweist er sie dem Regierungsrat zu Bericht und Antrag. Andernfalls ist sie erledigt.
 
@@ -1529,19 +1528,15 @@ der allgemeinen Anregung<sup>20</sup>
 
 <sup>4</sup> Stimmt der Kantonsrat einer ausformulierten Initiative, einer Umsetzungsvorlage oder einem ausformulierten Gegenvorschlag zu, untersteht die Vorlage nach Massgabe der Kantonsverfassung dem Referendum.
 
-[^h3AbschnittEinzel-1]: LS 101.
-
 ### IV. Teil: Kantonales Referendum
 
 **Gegenstand, Urheberschaft, Fristen**
 
-§ 140.<sup>30</sup> Gegenstand, Urheberschaft und Fristen des Referendums bestimmen sich nach Art. 32 und 33 KV[^hIVTeilKantonales-1].
+§ 140.<sup>30</sup> Gegenstand, Urheberschaft und Fristen des Referendums bestimmen sich nach Art. 32 und 33 KV<sup>5</sup>.
 
 **Dringliche Inkraftsetzung**
 
-§ 141.<sup>21</sup> Unter den Voraussetzungen von Art. 37 Abs. 1 KV[^hIVTeilKantonales-1] kann der Kantonsrat ein Gesetz sofort oder auf ein späteres Datum in Kraft setzen.
-
-[^hIVTeilKantonales-1]: LS 101.
+§ 141.<sup>21</sup> Unter den Voraussetzungen von Art. 37 Abs. 1 KV<sup>5</sup> kann der Kantonsrat ein Gesetz sofort oder auf ein späteres Datum in Kraft setzen.
 
 #### § 142
 
@@ -1555,10 +1550,6 @@ der allgemeinen Anregung<sup>20</sup>
 
 <sup>2</sup> Die Unterzeichnung der Unterschriftenliste richtet sich nach den entsprechenden Bestimmungen über die Volksinitiative.
 
-**35**
-
-1.10. 21 - 114
-
 <sup>3</sup> Die Unterschriftenlisten sind der Direktion gesamthaft und nach Gemeinden sortiert einzureichen.
 
 <sup>4</sup> Das Referendumskomitee bezeichnet eine Vertreterin oder einen Vertreter.
@@ -1571,6 +1562,8 @@ der allgemeinen Anregung<sup>20</sup>
 
 <sup>3</sup> Das Zustandekommen eines Volksreferendums wird nicht geprüft, wenn gegen die betreffende Vorlage ein Kantonsratsreferendum oder ein Gemeindereferendum zustande gekommen ist.
 
+<sup>4</sup> Im Fall von Abs. 3 kann das Referendumskomitee im Beleuchtenden Bericht eine Stellungnahme zur Abstimmungsvorlage abgeben, wenn es gemäss einer summarischen Prüfung der Direktion innert Frist die erforderliche Anzahl Unterschriften für das Volksreferendum einreichte.<sup>49</sup>
+
 §§ 143 a–143 d.<sup>31</sup>
 
 **Gemeindereferendum**
@@ -1581,13 +1574,17 @@ der allgemeinen Anregung<sup>20</sup>
 
 § 144.<sup>21</sup> <sup>1</sup> Die Unterschriftenliste für das Kantonsratsreferendum nennt die Bezeichnung und das Datum des Beschlusses, über den die Volksabstimmung verlangt wird.
 
+**37**
+
+1.10. 22 - 118
+
 <sup>2</sup> Für die Unterzeichnung genügt die Angabe des Namens und die Unterschrift.
 
 <sup>3</sup> Die Geschäftsleitung des Kantonsrates stellt das Zustandekommen fest und veröffentlicht den Entscheid.
 
 **Teil- und Variantenabstimmung**
 
-§ 144 a.<sup>20</sup> Hat der Kantonsrat eine Teil- oder eine Variantenabstimmung nach Art. 34 Abs. 1 KV[^142-1] beschlossen, wird den Stimmberechtigten im Fall einer Volksabstimmung unterbreitet:
+§ 144 a.<sup>20</sup> Hat der Kantonsrat eine Teil- oder eine Variantenabstimmung nach Art. 34 Abs. 1 KV<sup>5</sup> beschlossen, wird den Stimmberechtigten im Fall einer Volksabstimmung unterbreitet:
 
 - a. die Hauptvorlage,
 
@@ -1598,8 +1595,6 @@ der allgemeinen Anregung<sup>20</sup>
 **Rechtskraft**
 
 § 145.<sup>21</sup> Ist das Referendum nicht ergriffen worden oder nicht zustande gekommen, stellt die Direktion die Rechtskraft des Kantonsratsbeschlusses fest und veröffentlicht dies.
-
-[^142-1]: LS 101.
 
 ### V. Teil: Initiativen in Gemeinden und Zweckverbänden<sup>34</sup>
 
@@ -1629,9 +1624,9 @@ der allgemeinen Anregung<sup>20</sup>
 
 **Form und Gültigkeit**
 
-§ 148.<sup>24,</sup> <sup>33</sup> <sup>1</sup> Für die Form einer Initiative gelten Art. 25 KV[^h1AbschnittAllgem_2-1] sinngemäss sowie § 120 Abs. 2 und 3.
+§ 148.<sup>24,</sup> <sup>33</sup> <sup>1</sup> Für die Form einer Initiative gelten Art. 25 KV<sup>5</sup> sinngemäss sowie § 120 Abs. 2 und 3.
 
-<sup>2</sup> Für die Gültigkeit einer Initiative gelten Art. 28 Abs. 1 KV[^h1AbschnittAllgem_2-1] und sinngemäss § 121 Abs. 2.
+<sup>2</sup> Für die Gültigkeit einer Initiative gelten Art. 28 Abs. 1 und 2 KV<sup>5</sup> sowie § 121 Abs. 2 sinngemäss.<sup>50</sup>
 
 **Besonderheiten bei Verweisungen**
 
@@ -1640,12 +1635,6 @@ der allgemeinen Anregung<sup>20</sup>
 - a. An die Stelle des Regierungsrates oder der Direktion tritt der Gemeindevorstand, an die Stelle des Kantonsrates das Gemeindeparlament.
 
 - b. An die Stelle des Amtsblattes tritt das Publikationsorgan der Gemeinde.
-
-**37**
-
-1.10. 21 - 114
-
-[^h1AbschnittAllgem_2-1]: LS 101.
 
 ### 2. Abschnitt: Einzelinitiativen in Versammlungsgemeinden<sup>33</sup>
 
@@ -1671,6 +1660,10 @@ der allgemeinen Anregung<sup>20</sup>
 
 <sup>1</sup> Betrifft die Einzelinitiative einen Gegenstand, welcher der Urnenabstimmung untersteht, bringt der Gemeindevorstand die Initiative zur Abstimmung an der Urne. Er kann den Stimmberechtigten einen Gegenvorschlag beantragen. Für den Gegenvorschlag gilt § 138 b.<sup>40</sup>
 
+**39**
+
+1.10. 22 - 118
+
 <sup>2</sup> Die Urnenabstimmung findet innert sechs Monaten nach dem Beschluss über die Gültigkeit der Initiative statt.
 
 **Rückzug**
@@ -1685,9 +1678,11 @@ der allgemeinen Anregung<sup>20</sup>
 
 ### 3. Abschnitt: Initiativen in Parlamentsgemeinden<sup>33</sup>
 
+#### § 155
+
 **Verweisung**
 
-§ 155.<sup>34</sup> Für Volks- und Einzelinitiativen in Parlamentsgemeinden gelten §§ 122–139 b sinngemäss, unter Beachtung folgender Besonderheiten:
+Für Volks- und Einzelinitiativen in Parlamentsgemeinden gelten §§ 122–139 b, unter Beachtung folgender Besonderheiten<sup>50</sup>:
 
 - a. Behördeninitiativen sind ausgeschlossen.
 
@@ -1709,7 +1704,7 @@ der allgemeinen Anregung<sup>20</sup>
 
 § 157.<sup>34</sup> <sup>1</sup> Das kantonale Recht und die Gemeindeordnung bezeichnen die Gegenstände, über welche die Stimmberechtigten zwingend oder auf Verlangen an der Urne zu entscheiden haben (obligatorisches und fakultatives Referendum).
 
-<sup>2</sup> In Versammlungsgemeinden richtet sich das fakultative Referendum nach Art. 86 Abs. 3 KV[^h1AbschnittInGem-1].
+<sup>2</sup> In Versammlungsgemeinden richtet sich das fakultative Referendum nach Art. 86 Abs. 3 KV<sup>5</sup>.
 
 <sup>3</sup> In Parlamentsgemeinden können eine Urnenabstimmung schriftlich verlangen:
 
@@ -1728,12 +1723,6 @@ der allgemeinen Anregung<sup>20</sup>
 - b. An die Stelle des Kantonsratsreferendums tritt das Parlamentsreferendum.
 
 - c. An die Stelle eines Kantonsratsbeschlusses tritt ein Beschluss des Gemeindeparlaments.
-
-**39**
-
-1.10. 21 - 114
-
-[^h1AbschnittInGem-1]: LS 101.
 
 ### 2. Abschnitt: In Zweckverbänden<sup>33</sup>
 
@@ -1757,7 +1746,9 @@ der allgemeinen Anregung<sup>20</sup>
 
 - b. An die Stelle des Kantonsratsreferendums tritt das Delegiertenreferendum.
 
-- c. An die Stelle eines Kantonsratsbeschlusses tritt ein Beschluss der Delegiertenversammlung.
+**41**
+
+1.10. 22 - 118 c. An die Stelle eines Kantonsratsbeschlusses tritt ein Beschluss der Delegiertenversammlung.
 
 ### VII.<sup>36</sup> Teil: Rechtsschutz und Strafbestimmungen
 
@@ -1829,10 +1820,6 @@ der allgemeinen Anregung<sup>20</sup>
 
 - g. Das Landwirtschaftsgesetz vom 2. September 1979: . . .<sup>13</sup>
 
-**41**
-
-1.10. 21 - 114
-
 ### Übergangsbestimmung zur Änderung vom 9. Juli 2007 (OS 62, 429)
 
 Üben Personen am Datum des Inkrafttretens dieser Gesetzesänderung Ämter aus, die aufgrund dieser Gesetzesänderung unvereinbar sind, so dürfen sie diese weiterhin bekleiden, längstens bis zum Ablauf der ordentlichen Amtsdauer eines der beiden Ämter.
@@ -1840,6 +1827,10 @@ der allgemeinen Anregung<sup>20</sup>
 ### Übergangsbestimmung zur Änderung vom 23. April 2012 (OS 68, 133)
 
 Hat der Kantonsrat vor Inkrafttreten dieser Gesetzesänderung eine Vorlage beschlossen, so gilt für das Referendum das bisherige Recht.
+
+**43**
+
+1.10. 22 - 118
 
 ### Übergangsbestimmungen zur Änderung vom 28. August 2017
 
@@ -1854,6 +1845,12 @@ Hat der Kantonsrat vor Inkrafttreten dieser Gesetzesänderung eine Vorlage besch
 (OS 76, 191)
 
 Im Zeitpunkt des Inkrafttretens der Änderung vom 30. November 2020 gewählte Mitglieder von Behörden oder Organen können wiedergewählt werden, auch wenn eine Unvereinbarkeit gemäss § 25 Abs. 2 lit. a vorliegt.
+
+### Übergangsbestimmung zur Änderung vom 9. Mai 2022 (OS 77, 403)
+
+<sup>1</sup> Auf Wahlen und Abstimmungen, die innert dreier Monate nach Inkrafttreten dieser Gesetzesänderung durchgeführt werden, ist das alte Recht anwendbar.
+
+<sup>2</sup> Die Parlamentsgemeinden nehmen die für die Festlegung der Mitgliederzahl des Wahlbüros erforderliche Anpassung der Gemeindeordnungen gemäss § 14 Abs. 2 bis zum Ende der während des Inkrafttretens dieser Gesetzesänderung laufenden Amtsdauer ihrer Behörden vor. Bis dahin legt das Gemeindeparlament die Mitgliederzahl des Wahlbüros fest.
 
 <sup>6</sup> LS 131.1.
 
@@ -1899,9 +1896,9 @@ Im Zeitpunkt des Inkrafttretens der Änderung vom 30. November 2020 gewählte Mi
 
 <sup>27</sup> Eingefügt durch G über die Unterstellung der Steuerrekurskommissionen und der Baurekurskommissionen unter das Verwaltungsgericht vom 13. September 2010 (OS 65, 953; ABl 2010, 266). In Kraft seit 1. Januar 2011.
 
-**43**
+**45**
 
-1.10. 21 - 114
+1.10. 22 - 118
 
 <sup>28</sup> Fassung gemäss G über die Unterstellung der Steuerrekurskommissionen und der Baurekurskommissionen unter das Verwaltungsgericht vom 13. September 2010 (OS 65, 953; ABl 2010, 266). In Kraft seit 1. Januar 2011.
 
@@ -1944,3 +1941,15 @@ Im Zeitpunkt des Inkrafttretens der Änderung vom 30. November 2020 gewählte Mi
 <sup>47</sup> Fassung gemäss G vom 30. November 2020 (OS 76, 193; ABl 2018-07-13). In Kraft seit 1. Juli 2021.
 
 <sup>48</sup> Fassung gemäss G vom 22. März 2021 (OS 76, 281; ABl 2020-02-21). In Kraft seit 1. Oktober 2021.
+
+<sup>49</sup> Eingefügt durch G vom 9. Mai 2022 (OS 77, 403; ABl 2021-07-16). In Kraft seit 1. Oktober 2022.
+
+## Weitere Fussnoten
+
+- [1] OS 58, 289.
+- [2] In Kraft seit 1. Januar 2005 (OS 59, 194). Vom Bund genehmigt am 5. Dezember 2003.
+- [3] ABl 2002, 1507.
+- [4] ABl 2003, 517.
+- [5] LS 101.
+- [50] Fassung gemäss G vom 9. Mai 2022 (OS 77, 403; ABl 2021-07-16). In Kraft seit 1. Oktober 2022.
+- [51] Aufgehoben durch G vom 9. Mai 2022 (OS 77, 403; ABl 2021-07-16). In Kraft seit 1. Oktober 2022. 1.10. 22 - 118 47
