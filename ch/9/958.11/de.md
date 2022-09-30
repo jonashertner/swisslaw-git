@@ -4,11 +4,11 @@ title: "Verordnung vom 25. November 2015 über die Finanzmarktinfrastrukturen un
 short: FinfraV
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/854"
 language: de
-version: 2021-10-01
+version: 2022-10-01
 adopted: 2015-11-25
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/854/20211001/de/xml/fedlex-data-admin-ch-eli-cc-2015-854-20211001-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/854/20211001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/854/20221001/de/xml/fedlex-data-admin-ch-eli-cc-2015-854-20221001-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/854/20221001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/854/20211001/de"
 
 (Finanzmarktinfrastrukturverordnung, FinfraV)
 
-vom 25. November 2015 (Stand am 1. Oktober 2021)
+vom 25. November 2015 (Stand am 1. Oktober 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -1086,7 +1086,7 @@ Als Liquidität in einer Währung nach Artikel 67 Absatz 1 FinfraG gelten:
 
 <sup>3</sup> Die Anlagestrategie des Zentralverwahrers muss im Einklang mit seiner Risikomanagementstrategie stehen. Er hat Klumpenrisiken zu vermeiden.
 
-### 4*a*. Kapitel:**** DLT-Handelssysteme
+### 4*a*. Kapitel: DLT-Handelssysteme
 
 [^tit2-chap4a-1]
 
@@ -2095,7 +2095,7 @@ Fällt ein Geschäft in mehr als eine Derivatekategorie nach Absatz 2, so fällt
 
 <sup>5</sup> Finanzielle Gegenparteien, die einen von der FINMA genehmigten Marktrisiko-Modellansatz nach Artikel 88 der ERV[^103-1] für die Berechnung der nach Risiko gewichteten Positionen oder ein von der FINMA genehmigtes Marktmodell nach den Artikeln 50*a*–50*d* der Aufsichtsverordnung vom 9. November 2005[^103-2] zur Berechnung der Solvabilität im Rahmen des Schweizer Solvenztest (SST) verwenden, können die Ersteinschusszahlung gestützt darauf berechnen, solange sich kein international harmonisiertes, branchenweit anerkanntes Standardmodell etabliert hat. Die FINMA regelt die technischen Kriterien, die der Modellansatz oder das Marktmodell erfüllen muss.
 
-<sup>6</sup> ...[^103-3]
+<sup>6</sup> …[^103-3]
 
 [^103-1]: [SR 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
 [^103-2]: [SR 961.011](https://fedlex.data.admin.ch/eli/cc/2005/735)
@@ -2665,12 +2665,15 @@ Die Pflicht nach Artikel 114 zur Prüfung durch die Revisionsstellen gilt nach 1
 
 <sup>1bis</sup> Die Übergangsfrist nach Absatz 1 wird bis zum 30. September 2022 verlängert.[^133-4]
 
+<sup>1ter</sup> Die Übergangsfrist nach Absatz 1 wird bis zum 30. September 2023 verlängert.[^133-5]
+
 <sup>2</sup> Das Eidgenössische Departement des Innern kann die Frist nach Absatz 1 erstrecken, um anerkannten internationalen Standards und der ausländischen Rechtsentwicklung Rechnung zu tragen.
 
 [^133-1]: Fassung gemäss Ziff. I der V vom 5. Juli 2017, in Kraft seit 1. Aug. 2017 ([AS 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)).
 [^133-2]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
 [^133-3]: Fassung gemäss Ziff. I der V des EDI vom 4. Sept. 2020, in Kraft seit 1. Okt. 2020 ([AS 2020 3801](https://fedlex.data.admin.ch/eli/oc/2020/697)).
 [^133-4]: Eingefügt durch Ziff. I der V des EDI vom 25. Aug. 2021, in Kraft seit 1. Okt. 2021 ([AS 2021 539](https://fedlex.data.admin.ch/eli/oc/2021/539)).
+[^133-5]: Eingefügt durch Ziff. I der V des EDI vom 17. Aug. 2022, in Kraft seit 1. Okt. 2022 (AS **202****2** 489).
 
 #### Art. 134
 
@@ -2692,11 +2695,11 @@ Anhang 1
 
 Die nachstehenden Erlasse werden wie folgt geändert:
 
-...[^annex1-lvlu1-1]
+…[^annex1-lvlu1-1]
 
 [^annex1-lvlu1-1]: Die Änderungen können unter [AS 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)konsultiert werden.
 
-Anhang 2*[^t-1]*
+Anhang 2[^t-1]
 
 (Art. 93)
 
@@ -2803,7 +2806,7 @@ Legende für Kolonne «Validierung für T / P / B»:
 <tr><td>77 Indexfaktor</td><td colspan="3">Adjustierungsfaktor des Referenzindexes in Bezug auf vergangene Kreditereignisse</td><td>U</td><td>U</td><td colspan="3">N</td><td>Ganzzahliger Wert mit maximal 3 Zeichen</td><td>Zwingende Angabe für Kreditderivate, die sich auf einen Index als Basiswert beziehen</td></tr>
 <tr><td colspan="4">Abschnitt 2*i* – Änderungen der Meldung</td><td></td><td></td><td colspan="3"></td><td></td><td></td></tr>
 <tr><td>78 Art der Meldung</td><td colspan="3">Angabe der Art der Meldung</td><td>Z</td><td>Z</td><td colspan="3">Z</td><td>N = Transaktion wird erstmalig gemeldet</td><td>Zu verwenden für die erstmalige Meldung einer Transaktion oder Position, sofern der Meldetyp «X» nicht zutrifft. Ein OTC-Derivatgeschäft, das nach Abschluss noch gleichentags zentral abgerechnet wird, ist zumindest als zentral abgerechnete Transaktion zu melden. Die Meldung der dem Clearing gleichentags vorangehenden Transaktionen ist erlaubt jedoch nicht zwingend erforderlich. Ein OTC-Derivatgeschäft, das nicht gleichentags oder gar nicht zentral abgerechnet wird, ist zumindest auf Basis seines Status am Ende des Handelstages zu melden. Die Meldung der gleichentags vorangehenden Transaktionen ist erlaubt jedoch nicht zwingend erforderlich. Grosse, gesamthaft eingegangene und anschliessend zugeteilte Positionen (Block Trades), die nicht am gleichen Tag zugeteilt werden, sind zu melden. Erfolgt die Zuteilung am gleichen Tag, kann auf die Meldung des Block Trades verzichtet werden. Die Zuteilungen sind in beiden Fällen zu melden.</td></tr>
-<tr><td>[tab]</td><td colspan="3">Angabe, ob sich die Meldung auf eine einzelne Transaktion oder eine Position bezieht</td><td></td><td></td><td colspan="3"></td><td>X = Transaktion wird erstmalig gemeldet und es ist gleichentags vorgesehen die Transaktion in eine Position zu überführen.</td><td>Die resultierende Summe der Transaktionen ist am Tagesende als Position über Feld «Level» = «P» zu melden. Eine erneute Meldung einzelner Transaktionen als komprimiert ist damit hinfällig. Dieser Meldetyp ist primär für börsengehandelte Derivate (Exchange Traded Derivatives, ETDs) und Contracts for Difference (CFDs) vorgesehen. Bei börsengehandelten Derivaten mit Abrechnung über eine zentrale Gegenpartei besteht die Meldepflicht erst auf Stufe der zentralen Abrechnung (zentral abgerechnete Zuteilung, sog. *cleared allocat**i**on*). Die der zentralen Abrechnung vorangehenden Schritte sind noch nicht meldepflichtig.</td></tr>
+<tr><td>[tab]</td><td colspan="3">Angabe, ob sich die Meldung auf eine einzelne Transaktion oder eine Position bezieht</td><td></td><td></td><td colspan="3"></td><td>X = Transaktion wird erstmalig gemeldet und es ist gleichentags vorgesehen die Transaktion in eine Position zu überführen.</td><td>Die resultierende Summe der Transaktionen ist am Tagesende als Position über Feld «Level» = «P» zu melden. Eine erneute Meldung einzelner Transaktionen als komprimiert ist damit hinfällig. Dieser Meldetyp ist primär für börsengehandelte Derivate (Exchange Traded Derivatives, ETDs) und Contracts for Difference (CFDs) vorgesehen. Bei börsengehandelten Derivaten mit Abrechnung über eine zentrale Gegenpartei besteht die Meldepflicht erst auf Stufe der zentralen Abrechnung (zentral abgerechnete Zuteilung, sog. *cleared allocation*). Die der zentralen Abrechnung vorangehenden Schritte sind noch nicht meldepflichtig.</td></tr>
 <tr><td>[tab]</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td>M = Korrektur falscher Angaben, Ergänzung fehlender Angaben oder Aktualisierung von Positionen</td><td></td></tr>
 <tr><td>[tab]</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td>E = Meldung wurde fälschlicherweise gemacht und sollte gelöscht werden</td><td>Z.B. die doppelte Meldung der gleichen Transaktion mit unterschiedlichen «ID des Geschäftsabschlusses».</td></tr>
 <tr><td>[tab]</td><td colspan="3"></td><td></td><td></td><td colspan="3"></td><td>C = Vorzeitiger Verfall/Aufhebung des Kontrakts</td><td>Ein vordefinierter Verfall ist nicht zu melden. Für Korrekturmeldungen ist «Art der Meldung» = «M» zu verwenden.</td></tr>
@@ -2835,7 +2838,7 @@ Anhang 3
 - 2\.3 Netto-Wiederbeschaffungswert eines Netting-Sets: die Summe über die Marktwerte aller Geschäfte, wobei keine negativen Werte zugelassen sind;
 - 2\.4 Brutto-Wiederbeschaffungswert eines Netting-Sets: die Summe über die Marktwerte aller Geschäfte gemäss Artikel 109 FinfraG und Artikel 99 FinfraV mit positiven Werten im Netting-Set.
 
-Anhang 4*[^t-2]*
+Anhang 4[^t-2]
 
 (Art. 105 Abs. 1)
 

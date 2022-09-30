@@ -4,11 +4,11 @@ title: "Ordonnance du 25 novembre 2015 sur les infrastructures des marchés fina
 short: OIMF
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/854"
 language: fr
-version: 2021-10-01
+version: 2022-10-01
 adopted: 2015-11-25
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/854/20211001/fr/xml/fedlex-data-admin-ch-eli-cc-2015-854-20211001-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/854/20211001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/854/20221001/fr/xml/fedlex-data-admin-ch-eli-cc-2015-854-20221001-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/854/20221001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/854/20211001/fr"
 
 (Ordonnance sur l’infrastructure des marchés financiers, OIMF)
 
-du 25 novembre 2015 (Etat le 1<sup>er</sup> octobre 2021)
+du 25 novembre 2015 (État le 1<sup>er</sup> octobre 2022)
 
 Le Conseil fédéral suisse,
 
@@ -1086,7 +1086,7 @@ Sont considérés comme liquidités au sens de l’art. 67, al. 1, LIMF dans une
 
 <sup>3</sup> La stratégie de placement du dépositaire central doit être en accord avec sa stratégie de gestion des risques. Il appartient au dépositaire central d’éviter une concentration des risques.
 
-### Chapitre 4*a***** Systèmes de négociation fondés sur la TRD
+### Chapitre 4*a* Systèmes de négociation fondés sur la TRD
 
 [^tit2-chap4a-1]
 
@@ -2665,12 +2665,15 @@ L’obligation de faire effectuer un audit par l’organe de révision au sens d
 
 <sup>1bis</sup> Le délai transitoire visé à l’al. 1 est prolongé jusqu’au 30 septembre 2022.[^133-4]
 
+<sup>1ter</sup> Le délai transitoire visé à l’al. 1 est prolongé jusqu’au 30 septembre 2023.[^133-5]
+
 <sup>2</sup> Le Département fédéral de l’intérieur peut prolonger le délai fixé à l’al. 1 pour tenir compte des normes internationales reconnues et de l’évolution du droit étranger.
 
 [^133-1]: Nouvelle teneur selon le ch. I de l’O du 5 juil. 2017, en vigueur depuis le 1<sup>er</sup> août 2017 ([RO 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)).
 [^133-2]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
 [^133-3]: Nouvelle teneur selon le ch. I de l’O du DFI du 4 sept. 2020, en vigueur depuis le 1<sup>er</sup> oct. 2020 ([RO 2020 3801](https://fedlex.data.admin.ch/eli/oc/2020/697)).
 [^133-4]: Introduit par le ch. I de l’O du DFI du 25 août 2021, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 539](https://fedlex.data.admin.ch/eli/oc/2021/539)).
+[^133-5]: Introduit par le ch. I de l’O du DFI du 17 août 2022, en vigueur depuis le 1<sup>er</sup> oct. 2022 ([RO 2022 489](https://fedlex.data.admin.ch/eli/oc/2022/489)).
 
 #### Art. 134
 
@@ -2696,7 +2699,7 @@ Les actes mentionnés ci-après sont modifiés comme suit:
 
 [^annex1-lvlu1-1]: Les mod. peuvent être consultées au [RO 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854).
 
-Annexe 2*[^t-1]*
+Annexe 2[^t-1]
 
 (art. 93)
 
@@ -2736,7 +2739,7 @@ N: non applicable
 <tr><td colspan="2">Section 2*b* – Détails de la transaction</td><td></td><td></td><td></td><td colspan="3"></td><td></td><td></td></tr>
 <tr><td>16 ID de la conclusion de l’opération</td><td colspan="2">Identifiant univoque de conclusion d’une opération qui est fourni par la contrepartie auteur de la déclaration à la demande de sa contrepartie</td><td>O</td><td>O</td><td colspan="3">O</td><td>Texte de 52 caractères au maximum</td><td></td></tr>
 <tr><td>17 Rôle de la contrepartie tenue de déclarer</td><td colspan="2">Indication précisant si la contrepartie soumise à l’obligation de déclaration intervient en tant qu’acheteuse ou vendeuse</td><td>O</td><td>O</td><td colspan="3">N</td><td>B = acheteuse S = vendeuse</td><td>À déterminer selon les normes internationales reconnues</td></tr>
-<tr><td>18 Réduction chiffrée des contrats en suspens (*compre**s**sion*)</td><td colspan="2">Indication précisant si le contrat découle d’une telle réduction</td><td>O</td><td>F</td><td colspan="3">N</td><td>Y = la déclaration porte sur la quantité résiduelle issue d’une compression en tant que transaction ou position. N = la transaction ou position déclarée n’est pas le résultat d’une compression.</td><td>Dans le cas de positions résiduelles suite à une compensation (*netting*) d’opérations, ce champ reste vide</td></tr>
+<tr><td>18 Réduction chiffrée des contrats en suspens (*compression*)</td><td colspan="2">Indication précisant si le contrat découle d’une telle réduction</td><td>O</td><td>F</td><td colspan="3">N</td><td>Y = la déclaration porte sur la quantité résiduelle issue d’une compression en tant que transaction ou position. N = la transaction ou position déclarée n’est pas le résultat d’une compression.</td><td>Dans le cas de positions résiduelles suite à une compensation (*netting*) d’opérations, ce champ reste vide</td></tr>
 <tr><td>19 Prix/taux</td><td colspan="2">Prix par dérivé, le cas échéant déduction faite des commissions et des intérêts courus</td><td>O</td><td>F</td><td colspan="3">N</td><td>Valeur décimale</td><td></td></tr>
 <tr><td>20 Cotation du prix</td><td colspan="2">Manière d’exprimer le prix</td><td>O</td><td>F</td><td colspan="3">N</td><td>U = le prix est indiqué en valeur absolue P = le prix est indiqué en pourcentage</td><td></td></tr>
 <tr><td>21 Monnaie du prix</td><td colspan="2">La monnaie dans laquelle le prix est exprimé, si applicable</td><td>R</td><td>F</td><td colspan="3">N</td><td>Dans le cas de prix qui sont indiqués en valeurs absolues, la monnaie du prix doit être indiquée selon la norme ISO 4217:2008 ou d’autres normes internationales reconnues</td><td></td></tr>
@@ -2806,7 +2809,7 @@ N: non applicable
 <tr><td>77 Facteur d’indice</td><td colspan="2">Facteur d’ajustement de l’indice de référence eu égard aux événements de crédit passés</td><td>R</td><td>R</td><td colspan="3">N</td><td>Valeur en chiffres entiers comportant au maximum 3 caractères</td><td>Indication obligatoire pour les dérivés de crédit qui se rapportent à un indice en tant qu’actif sous-jacent</td></tr>
 <tr><td colspan="2">Section 2*i* – Modifications de la déclaration</td><td></td><td></td><td></td><td colspan="3"></td><td></td><td></td></tr>
 <tr><td>78 Type de déclaration</td><td colspan="2">Indication du type de déclaration</td><td>O</td><td>O</td><td colspan="3">O</td><td>N = La transaction est déclarée pour la première fois</td><td>À utiliser pour la première déclaration d’une transaction ou d’une position si le type de déclaration «X» n’est pas applicable. Une opération sur dérivés de gré à gré qui est compensée le jour même de manière centralisée après avoir été conclue doit être déclarée au moins en tant que transaction compensée de manière centralisée. La déclaration des transactions précédant la compensation du même jour est autorisée, mais n’est pas obligatoire. Une opération sur dérivés de gré à gré qui n’est pas compensée le même jour ou qui n’est pas compensée de manière centralisée doit être déclarée au moins sur la base de son statut à la fin de la journée de négociation. La déclaration des transactions précédentes du même jour est autorisée, mais n’est pas obligatoire. Les transactions portant sur des blocs de titres, ou block trades (grande position contractée globalement avant d’être attribuée) qui ne sont pas attribuées le même jour doivent être déclarées. Si l’attribution intervient le jour même, il est possible de renoncer à déclarer le block trade. Les attributions doivent être déclarées dans les deux cas.</td></tr>
-<tr><td>[tab]</td><td colspan="2">Indication précisant si la déclaration se rapporte à une transaction ponctuelle ou à une position</td><td></td><td></td><td colspan="3"></td><td>X = La transaction est déclarée pour la première fois et il est prévu de transférer la transaction à une position le jour même.</td><td>Le total résultant des transactions doit être déclaré en fin de journée en tant que position par le biais du champ niveau «P». Cela rend inutile une nouvelle déclaration de transactions ponctuelles en tant que transactions comprimées. Ce type de déclaration est principalement prévu pour les dérivés négociés en bourse (Exchange Traded Derivatives, ETD) et les Contracts for Difference (CFD). Les dérivés négociés en bourse qui sont compensés par l’intermédiaire d’une contrepartie centrale ne sont soumis à l’obligation de déclarer qu’au niveau de la compensation centralisée (*cleared a**l**location*). Les étapes précédant la compensation centralisée ne sont pas encore soumises à l’obligation de déclarer.</td></tr>
+<tr><td>[tab]</td><td colspan="2">Indication précisant si la déclaration se rapporte à une transaction ponctuelle ou à une position</td><td></td><td></td><td colspan="3"></td><td>X = La transaction est déclarée pour la première fois et il est prévu de transférer la transaction à une position le jour même.</td><td>Le total résultant des transactions doit être déclaré en fin de journée en tant que position par le biais du champ niveau «P». Cela rend inutile une nouvelle déclaration de transactions ponctuelles en tant que transactions comprimées. Ce type de déclaration est principalement prévu pour les dérivés négociés en bourse (Exchange Traded Derivatives, ETD) et les Contracts for Difference (CFD). Les dérivés négociés en bourse qui sont compensés par l’intermédiaire d’une contrepartie centrale ne sont soumis à l’obligation de déclarer qu’au niveau de la compensation centralisée (*cleared allocation*). Les étapes précédant la compensation centralisée ne sont pas encore soumises à l’obligation de déclarer.</td></tr>
 <tr><td>[tab]</td><td colspan="2"></td><td></td><td></td><td colspan="3"></td><td>M = correction d’indications erronées, ajout d’indications manquantes ou actualisation de positions</td><td></td></tr>
 <tr><td>[tab]</td><td colspan="2"></td><td></td><td></td><td colspan="3"></td><td>E = la déclaration a été effectuée à tort et doit être effacée</td><td>Par exemple, la double déclaration de la même transaction avec des «ID de conclusion de transaction» différents.</td></tr>
 <tr><td>[tab]</td><td colspan="2"></td><td></td><td></td><td colspan="3"></td><td>C = Échéance ou résiliation anticipées du contrat</td><td>Une échéance définie à l’avance n’est pas à déclarer. Pour les déclarations de corrections, il convient d’utiliser le type de déclaration «M».</td></tr>
@@ -2838,7 +2841,7 @@ Annexe 3
 - 2\.3 La valeur de rachat nette d’un ensemble de compensation est la somme de toutes les opérations aux valeurs de marché, étant précisé qu’aucune valeur négative n’est autorisée;
 - 2\.4 La valeur de rachat brute d’un ensemble de compensation est la somme de toutes les opérations aux valeurs de marché conformément à l’art. 109 LIMF et à l’art. 99 OIMF avec des valeurs positives dans l’ensemble de compensation.
 
-Annexe 4*[^t-2]*
+Annexe 4[^t-2]
 
 (art. 105, al. 1)
 

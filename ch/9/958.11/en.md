@@ -4,11 +4,11 @@ title: "Ordinance of 25 November 2015 on Financial Market Infrastructures and Ma
 short: FinMIO
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/854"
 language: en
-version: 2021-10-01
+version: 2022-10-01
 adopted: 2015-11-25
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/854/20211001/en/xml/fedlex-data-admin-ch-eli-cc-2015-854-20211001-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/854/20211001/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/854/20221001/en/xml/fedlex-data-admin-ch-eli-cc-2015-854-20221001-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/854/20221001/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Financial Market Infrastructure Ordinance, FinMIO)
 
-of 25 November 2015 (Status as of 1 October 2021)
+of 25 November 2015 (Status as of 1 October 2022)
 
 The Swiss Federal Council
 
@@ -222,7 +222,6 @@ The authorisation application for a new financial market infrastructure must con
 
   - 1\. details on nationality, domicile, qualified participations in other companies and any pending court or administrative proceedings,
   - 2\. a curriculum vitae signed by the relevant person,
-  - [tab]
   - 3\. references,
   - 4\. an extract from the register of criminal convictions;
 
@@ -1089,7 +1088,7 @@ The following are deemed to constitute liquidity in a currency as set out in Art
 
 <sup>3</sup> The investment strategy of the central securities depository must be in harmony with its risk management strategy. It must avoid concentration risks.
 
-### Chapter 4*a***** DLT Trading Facilities
+### Chapter 4*a* DLT Trading Facilities
 
 [^tit2-chap4a-1]
 
@@ -2285,15 +2284,12 @@ Financial and non-financial counterparties shall regulate, in writing or in anot
 - d. risk mitigation (Art. 107 FinMIA);
 - e. trading via trading venues and organised trading facilities (Art. 112 FinMIA).
 
-<sup>1bis</sup> The transitional period under paragraph 1 is extended until 30 September 2022.[^113-2]
-
-<sup>2</sup> Non-financial counterparties which do not want to trade in derivatives may set out this resolution in writing or in another form that that allows for proof by text, in which case they are exempt from the duty set out in paragraph 1.[^113-3]
+<sup>2</sup> Non-financial counterparties which do not want to trade in derivatives may set out this resolution in writing or in another form that that allows for proof by text, in which case they are exempt from the duty set out in paragraph 1.[^113-2]
 
 <sup>3</sup> Financial counterparties appointed by other financial or non-financial counterparties to implement their duties shall regulate the corresponding processes in accordance with paragraph 1 by analogy.
 
 [^113-1]: Amended by Annex 1 No II 14 of the Financial Institutions Ordinance of 6 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^113-2]: Inserted by No I of the O of 25 Aug. 2021, in force since 1 Oct. 2021 ([AS 2021 539](https://fedlex.data.admin.ch/eli/oc/2021/539)).
-[^113-3]: Amended by Annex 1 No II 14 of the Financial Institutions Ordinance of 6 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^113-2]: Amended by Annex 1 No II 14 of the Financial Institutions Ordinance of 6 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 114
 
@@ -2668,11 +2664,17 @@ The duty to have an audit performed by the auditors in accordance with Article 1
 
 <sup>1</sup> For occupational pension schemes and investment foundations in accordance with Articles 48 to 60*a* of the Federal Act of 25 June 1982[^133-2] on Occupational Old Age, Survivors' and Invalidity Pension Provision, the clearing duty set out in Article 97 of the FinMIA shall not apply up to 30 September 2021 for derivatives transactions that these institutions enter into with a view to reducing risk in accordance with Article 87.[^133-3]
 
+<sup>1bis</sup> The transitional period in accordance with paragraph 1 shall be extended to 30 September 2022.[^133-4]
+
+<sup>1ter</sup> The transitional period in accordance with paragraph 1 shall be extended to 30 September 2023.[^133-5]
+
 <sup>2</sup> The Federal Department of Home Affairs may extend the timeframe set out in this paragraph 1 in order to take account of recognised international standards and foreign legal developments.
 
 [^133-1]: Amended by No I of the O of 5 July 2017, in force since 1 Aug. 2017 ([AS 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)).
 [^133-2]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
 [^133-3]: Amended by No I of the FDFA O of 4 Sept. 2020, in force since 1 Oct. 2020 ([AS 2020 3801](https://fedlex.data.admin.ch/eli/oc/2020/697)).
+[^133-4]: Inserted by No I of the FDHA O of 25 Aug. 2021, in force since 1 Oct. 2021 ([AS 2021 539](https://fedlex.data.admin.ch/eli/oc/2021/539)).
+[^133-5]: Inserted by No I of the FDHA O of 17 Aug. 2022, in force since 1 Oct. 2022 ([AS 2022 489](https://fedlex.data.admin.ch/eli/oc/2022/489)).
 
 #### Art. 134
 
@@ -2698,7 +2700,7 @@ The legislative instruments below are amended as follows:
 
 [^annex1-lvlu1-1]: The amendments may be consulted under [AS 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854).
 
-Annex 2*[^t-1]*
+Annex 2[^t-1]
 
 (Art. 93)
 
@@ -2841,7 +2843,7 @@ Annex 3
 - 2\.3 The net replacement value of a netting set is the sum of the market values of all transactions, whereby no negative values are permitted;
 - 2\.4 The gross replacement value of a netting set is the sum of the market values of all transactions in accordance with Article 109 FinMIA and Article 99 FinMIO with positive values in the netting set.
 
-Annex 4*[^t-2]*
+Annex 4[^t-2]
 
 (Art. 105 para. 1)
 

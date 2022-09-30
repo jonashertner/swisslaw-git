@@ -4,11 +4,11 @@ title: "Ordinanza del 25 novembre 2015 sulle infrastrutture del mercato finanzia
 short: OInFi
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/854"
 language: it
-version: 2021-10-01
+version: 2022-10-01
 adopted: 2015-11-25
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/854/20211001/it/xml/fedlex-data-admin-ch-eli-cc-2015-854-20211001-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/854/20211001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/854/20221001/it/xml/fedlex-data-admin-ch-eli-cc-2015-854-20221001-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/854/20221001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/854/20211001/it"
 
 (Ordinanza sull’infrastruttura finanziaria, OInFi)
 
-del 25 novembre 2015 (Stato 1° ottobre 2021)
+del 25 novembre 2015 (Stato 1° ottobre 2022)
 
 Il Consiglio federale svizzero,
 
@@ -1086,7 +1086,7 @@ Per liquidità in una valuta secondo l’articolo 67 capoverso 1 LInFi si intend
 
 <sup>3</sup> La strategia d’investimento del depositario centrale deve essere in linea con la sua strategia di gestione dei rischi. Il depositario centrale è tenuto a evitare i rischi di concentrazione.
 
-### Capitolo 4*a*:**** Sistemi di negoziazione TRD
+### Capitolo 4*a*: Sistemi di negoziazione TRD
 
 [^tit2-chap4a-1]
 
@@ -2665,12 +2665,15 @@ L’obbligo di verifica da parte degli uffici di revisione di cui all’articolo
 
 <sup>1bis</sup> Il periodo transitorio di cui al capoverso 1 è prorogato fino al 30 settembre 2022.[^133-4]
 
+<sup>1ter</sup> Il periodo transitorio di cui al capoverso 1 è prorogato fino al 30 settembre 2023.[^133-5]
+
 <sup>2</sup> Il Dipartimento federale dell’interno può prorogare il termine di cui al capoverso 1 per tenere conto degli standard internazionali riconosciuti e dell’evoluzione del diritto estero.
 
 [^133-1]: Nuovo testo giusta il n. I dell’O del 5 lug. 2017, in vigore dal 1° ago. 2017 ([RU 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)).
 [^133-2]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
 [^133-3]: Nuovo testo giusta il n. I dell’O del DFI del 4 set. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3801](https://fedlex.data.admin.ch/eli/oc/2020/697)).
 [^133-4]: Introdotto dal n. I dell’O del DFI del 25 ago. 2021, in vigore dal 1° ott. 2021 ([RU 2021 539](https://fedlex.data.admin.ch/eli/oc/2021/539)).
+[^133-5]: Introdotto dal n. I dell’O del DFI del 17 ago. 2022, in vigore dal 1° ott. 2022 ([RU 2022 489](https://fedlex.data.admin.ch/eli/oc/2022/489)).
 
 #### Art. 134
 
@@ -2692,11 +2695,13 @@ Allegato 1
 
 Gli atti normativi qui appresso sono modificati come segue:
 
-…[^annex1-lvlu1-1]
+### …
 
-[^annex1-lvlu1-1]: Le mod. possono essere consultate alla [RU 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854).
+[^annex1-lvlu1-lvlu1-1]
 
-Allegato 2*[^t-1]*
+[^annex1-lvlu1-lvlu1-1]: Le mod. possono essere consultate alla [RU 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854).
+
+Allegato 2[^t-1]
 
 (art. 93)
 
@@ -2839,7 +2844,7 @@ Allegato 3
 - 2\.4 per valore lordo di sostituzione di un «netting set» si intende la somma dei valori di mercato di tutte le operazioni di cui agli articoli 109 LInFi e 99 OInFi indicati con valori positivi nel «netting set».
 - [tab]
 
-Allegato 4*[^t-2]*
+Allegato 4[^t-2]
 
 (art. 105 cpv. 1)
 
