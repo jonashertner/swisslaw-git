@@ -4,13 +4,13 @@ number: "922.51"
 title: "Ordonnance concernant la prévention et l'indemnisation des dommages causés par la faune sauvage *"
 short: Ordonnance sur les dommages causés par la faune sauvage; ODFS
 language: fr
-version: 2010-01-01
-valid_until: 2022-09-30
-version_adopted: 2009-10-14
+version: 2022-10-01
+valid_until: 2023-02-28
+version_adopted: 2022-08-24
 adopted: 1995-11-22
 in_force: 1996-02-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/922.51"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/595/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2665/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/595/pdf_file"
 
 (Ordonnance sur les dommages causés par la faune sauvage; ODFS)
 
-du 22.11.1995 (état au 01.01.2010)
+du 22.11.1995 (état au 01.10.2022)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -37,9 +37,9 @@ arrête:
 
 **Conseils, remise de produits de protection et tir d’animaux sauvages**
 
-<sup>1</sup> L’Inspection de la chasse conseille gratuitement la population, en particulier les personnes actives dans l’agriculture et la sylviculture, en matière de mesures de prévention des dommages causés par la faune sauvage.
+<sup>1</sup> L'Office de l'agriculture et de la nature (OAN) conseille gratuitement la population, en particulier les personnes actives dans l’agriculture et la sylviculture, en matière de mesures de prévention des dommages causés par la faune sauvage.
 
-<sup>2</sup> Elle peut, à des fins de prévention des dommages causés par la faune sauvage, remettre gratuitement des produits de protection et ordonne le tir de certains animaux qui causent des dommages importants.
+<sup>2</sup> L'Inspection de la chasse peut, à des fins de prévention des dommages causés par la faune sauvage, remettre gratuitement des produits de protection et ordonne le tir de certains animaux qui causent des dommages importants.
 
 <sup>3</sup> La remise gratuite de produits de protection aux exploitants et exploitantes de forêts se fait exclusivement en faveur d’essences en station.
 

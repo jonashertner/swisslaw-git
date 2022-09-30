@@ -4,13 +4,13 @@ number: "922.51"
 title: Verordnung über die Verhütung und Entschädigung von Wildschäden
 short: "Wildschadenverordnung, WSV"
 language: de
-version: 2010-01-01
-valid_until: 2022-09-30
-version_adopted: 2009-10-14
+version: 2022-10-01
+valid_until: 2023-02-28
+version_adopted: 2022-08-24
 adopted: 1995-11-22
 in_force: 1996-02-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/922.51"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/595/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2665/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/595/pdf_file"
 
 (Wildschadenverordnung, WSV)
 
-vom 22.11.1995 (Stand 01.01.2010)
+vom 22.11.1995 (Stand 01.10.2022)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -37,9 +37,9 @@ beschliesst:
 
 **Beratung, Abgabe von Schutzmitteln und Abschuss von Wildtieren**
 
-<sup>1</sup> Das Jagdinspektorat berät kostenlos die Bevölkerung, insbesondere die in der Land- und Waldwirtschaft Tätigen, über Massnahmen zur Verhütung von Wildschäden.
+<sup>1</sup> Das Amt für Landwirtschaft und Natur (LANAT) berät kostenlos die Bevölkerung, insbesondere die in der Land- und Waldwirtschaft Tätigen, über Massnahmen zur Verhütung von Wildschäden.
 
-<sup>2</sup> Es kann zur Verhütung von Wildschäden kostenlos Schutzmittel abgeben und ordnet den Abschuss einzelner Wildtiere an, die erheblich Schaden anrichten.
+<sup>2</sup> Das Jagdinspektorat kann zur Verhütung von Wildschäden kostenlos Schutzmittel abgeben und ordnet den Abschuss einzelner Wildtiere an, die erheblich Schaden anrichten.
 
 <sup>3</sup> Die kostenlose Abgabe von Schutzmitteln an Waldbewirtschafterinnen und Waldbewirtschafter erfolgt ausschliesslich zugunsten standortheimischer Baumarten.
 
