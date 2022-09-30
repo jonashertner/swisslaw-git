@@ -4,11 +4,11 @@ number: "177.11"
 title: Personalverordnung (PVO)
 short: PVO
 language: de
-version: "2022-09-01"
-nachtrag: "118"
-valid_until: 2022-10-01
+version: "2022-10-01"
+nachtrag: "119"
+valid_until: 2023-01-26
 adopted: 1998-12-16
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-177_11-1998_12_16-1999_01_01-118.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-177_11-1998_12_16-1999_01_01-119.html"
 text: pdf
 ---
 
@@ -88,23 +88,13 @@ I. Allgemeine Bestimmungen
 
 Als Angehörige des höheren Kaders mit einer Kündigungsfrist von sechs Monaten ab dem dritten Dienstjahr gelten Angestellte, deren Stelle in Lohnklasse 21 oder höher eingereiht ist.
 
-#### § 7
-
 **Abfindung**
 
-<sup>1</sup> Die Abfindung wird mit schriftlicher Verfügung festgesetzt und beträgt je nach den im Einzelfall massgebenden gesetzlichen Kriterien:
-
-- a. bis zum 40. Altersjahr: einen bis sechs Monatslöhne,
-
-- b. vom 41. bis zum 50. Altersjahr: zwei bis 12 Monatslöhne,
-
-- c. ab dem 51. Altersjahr: drei bis 15 Monatslöhne.
+§ 7.<sup>27</sup> <sup>1</sup> Die Abfindung wird mit schriftlicher Verfügung festgesetzt. Sie darf nicht mehr Monatslöhne betragen als Monate bis zur Erreichung der Altersgrenze gemäss § 24 c Abs. 1 des Personalgesetzes<sup>2</sup> verbleiben.
 
 <sup>2</sup> Für das Personal der Verwaltung wird die Abfindung vom Regierungsrat festgelegt. Er kann diese Befugnis für Angestellte bis Lohnklasse 23 seinen Direktionen übertragen.
 
 <sup>3</sup> Für das Personal der Rechtspflege wird die Abfindung vom zuständigen obersten kantonalen Gericht oder bis Lohnklasse 23 von der durch dieses ermächtigten Instanz festgesetzt.
-
-<sup>4</sup> Bei besondern Verhältnissen kann im Einzelfall ausnahmsweise mit Genehmigung des Regierungsrates oder des zuständigen obersten kantonalen Gerichts auch in Fällen gemäss Abs. 1 lit. a und b eine Abfindung von höchstens 15 Monatslöhnen zugesprochen werden.
 
 ### III. Rechte und Pflichten der Angestellten
 
@@ -132,17 +122,13 @@ Der Regierungsrat und die obersten kantonalen Gerichte umschreiben, soweit erfor
 
 <sup>2</sup> Der Regierungsrat und die obersten kantonalen Gerichte reihen die Stellen ab Lohnklasse 24 ein sowie neugeschaffene Stellen, für die der Einreihungsplan keine Richtposition vorsieht. Sie bestimmen die Zuständigkeit zur Einreihung bis Lohnklasse 23.
 
-**3**
-
-1.10. 22 - 118
-
 <sup>3</sup> In Fällen, in denen sich eine Stelle aufgrund der Richtpositionsumschreibungen und weiterer Unterlagen nicht zuordnen lässt, wird diese von der Direktion zusammen mit dem Personalamt oder vom zuständigen obersten kantonalen Gericht, auf dessen Wunsch mit Unterstützung des Personalamtes, im Verfahren gemäss § 8 Abs. 2 bewertet.
 
-#### § 11
+**3**
+
+1.10. 22 - 118 § 11. <sup>1</sup> Der Lohn bildet das Entgelt für die gesamte amtliche Tätigkeit. Für Protokollführung, Augenscheine, Inspektionen und ähnliche dienstliche Verrichtungen werden keine besondern Vergütungen geleistet.
 
 **Lohn als Vergütung für die gesamte Tätigkeit**
-
-<sup>1</sup> Der Lohn bildet das Entgelt für die gesamte amtliche Tätigkeit. Für Protokollführung, Augenscheine, Inspektionen und ähnliche dienstliche Verrichtungen werden keine besondern Vergütungen geleistet.
 
 <sup>2</sup> Vorbehalten bleibt der Ersatz der dienstlichen Auslagen gemäss der Vollzugsverordnung zum Personalgesetz<sup>3</sup>.
 
@@ -212,17 +198,17 @@ Der Regierungsrat und die obersten kantonalen Gerichte umschreiben, soweit erfor
 
 **5**
 
-1.10. 22 - 118 § 19.<sup>16</sup> <sup>1</sup> Angestellte in der Einreihungsklasse können um bis zwei Lohnstufen zurückversetzt werden, wenn sie mit «Ungenügend» qualifiziert werden.
+1.10. 22 - 118 § 19.<sup>27</sup> <sup>1</sup> Die Anstellungsbehörde kann Angestellte aufgrund mangelnder Leistung oder unbefriedigenden Verhaltens zurückversetzen:
 
 **Rückstufung**
 
-<sup>2</sup> Angestellte in der ersten Leistungsklasse können um eine bis vier Lohnstufen oder in die Einreihungsklasse zurückversetzt werden, wenn sie höchstens noch mit «Genügend» qualifiziert werden.
+- a. in der Einreihungsklasse um bis zu zwei Lohnstufen,
 
-<sup>3</sup> Angestellte in der zweiten Leistungsklasse können um eine bis vier Lohnstufen oder in die erste Leistungsklasse zurückversetzt werden, wenn sie höchstens noch mit «Gut» qualifiziert werden.
+- b. in den Leistungsklassen um bis zu vier Lohnstufen oder im entsprechenden Umfang in die jeweils tiefere Klasse.
 
-<sup>4</sup> Eine Rückstufung gemäss Abs. 1–3 setzt zwei entsprechende Mitarbeiterbeurteilungen voraus. Bei der ersten Mitarbeiterbeurteilung ist eine Bewährungsfrist von drei bis sechs Monaten anzusetzen und die Rückstufung anzudrohen. Führt die zweite Mitarbeiterbeurteilung zu einem Rückstufungsantrag, ist die oder der Angestellte zur Stellungnahme einzuladen. Die Stellungnahme wird der entscheidenden Instanz mit den Akten vorgelegt.
+<sup>2</sup> Vorausgesetzt ist eine schriftliche Mahnung. Diese wird verbunden mit einer Frist zur Verbesserung von längstens drei Monaten.
 
-<sup>5</sup> Eine zweite Rückstufung kann frühestens ein Jahr nach der ersten Rückstufung erfolgen. Es ist eine Mitarbeiterbeurteilung durchzuführen und wiederum eine Bewährungsfrist nach Abs. 4 anzusetzen.
+<sup>3</sup> Eine zweite Rückstufung kann frühestens ein Jahr nach der ersten Rückstufung erfolgen.
 
 **Förderung der Gleichstellung**
 
@@ -234,7 +220,7 @@ Der Regierungsrat und die obersten kantonalen Gerichte umschreiben, soweit erfor
 
 **Mitarbeiterbeurteilung**
 
-<sup>1</sup> Individuelle Lohnerhöhungen und Rückstufungen setzen eine Mitarbeiterbeurteilung mit den gemäss §§ 17–19 verlangten Qualifikationen voraus.<sup>16</sup>
+<sup>1</sup> Individuelle Lohnerhöhungen setzen eine Mitarbeiterbeurteilung mit den gemäss §§ 17 und 18 verlangten Qualifikationen voraus.<sup>27</sup>
 
 <sup>2</sup> Die Vollzugsverordnung<sup>3</sup> regelt das Nähere.
 
@@ -290,13 +276,13 @@ geschenk
 
 § 28.<sup>22</sup> <sup>1</sup> Für treue Tätigkeit im Dienst des Kantons wird den Angestellten nach Vollendung von 10, 15, 20, 30, 35, 45 und 50 Jahren je 15 Arbeitstage bezahlter Urlaub als Dienstaltersgeschenk gewährt. Nach Vollendung von 25 Jahren beträgt der Urlaub 22, nach Vollendung von 40 Jahren 30 Arbeitstage.
 
-**7**
-
-1.10. 22 - 118
-
 <sup>2</sup> Auf Wunsch der oder des Angestellten, oder wenn die betrieblichen Verhältnisse den Urlaub nicht zulassen, wird das Dienstaltersgeschenk ausbezahlt.
 
 <sup>3</sup> Ein Anteil des nächstfälligen Dienstaltersgeschenks wird gewährt, wenn bei Auflösung des Arbeitsverhältnisses mindestens 21 Jahre im Dienst des Kantons zurückgelegt sind und bis zur Fälligkeit des nächsten Dienstaltersgeschenks nicht mehr als vier Dienstjahre fehlen.
+
+**7**
+
+1.10. 22 - 118
 
 <sup>4</sup> Der Anteil wird nicht ausgerichtet:
 
@@ -360,17 +346,17 @@ geschenk
 
 § 37.<sup>14</sup>
 
-**9**
-
-1.10. 22 - 118 § 38.<sup>17</sup> <sup>1</sup> Handelsrichterinnen und Handelsrichter erhalten, die Vorbereitung eingeschlossen, ein Taggeld gemäss Lohnklasse 25.
-
 **Handelsgericht**
+
+§ 38.<sup>17</sup> <sup>1</sup> Handelsrichterinnen und Handelsrichter erhalten, die Vorbereitung eingeschlossen, ein Taggeld gemäss Lohnklasse 25.
 
 <sup>2</sup> Das Obergericht bestimmt für die Handelsrichterinnen und Handelsrichter die Vergütung für die Vorbereitung einer in der Folge nicht stattfindenden Sitzung und für die Mitwirkung bei Zirkularbeschlüssen. Für ausserordentliche Bemühungen kann die oder der Vorsitzende eine angemessene Zulage bewilligen.
 
-**Arbeits- und Mietgerichte, Schlichtungsbehörden22**
+**9**
 
-§ 39.<sup>22</sup> <sup>1</sup> Beisitzende der Arbeits- und Mietgerichte sowie die Mitglieder der Paritätischen Schlichtungsbehörden in Miet- und Pachtsachen erhalten ein Taggeld gemäss Lohnklasse 23.<sup>17</sup>
+1.10. 22 - 118 § 39.<sup>22</sup> <sup>1</sup> Beisitzende der Arbeits- und Mietgerichte sowie die Mitglieder der Paritätischen Schlichtungsbehörden in Miet- und Pachtsachen erhalten ein Taggeld gemäss Lohnklasse 23.<sup>17</sup>
+
+**Arbeits- und Mietgerichte, Schlichtungsbehörden22**
 
 <sup>2</sup> Die Mitglieder der Paritätischen Schlichtungsbehörde für Streitigkeiten nach dem Gleichstellungsgesetz vom 24. März 1995<sup>5</sup> erhalten ein Taggeld gemäss Lohnklasse 23. Für die Vorsitzende oder den Vorsitzenden und für deren Stellvertretung gelten die Ansätze für Ersatzmitglieder der Bezirksgerichte; für die Beanspruchung ausserhalb von Sitzungen werden nach Massgabe der geleisteten Arbeit zusätzliche halbe oder ganze Taggelder ausgerichtet.<sup>17</sup>
 
@@ -422,17 +408,13 @@ geschenk
 
 <sup>3</sup> Die ständigen Verhandlungspartner werden vor dem Erlass oder der Änderung von Bestimmungen des Personalrechts zur Vernehmlassung eingeladen.
 
-**11**
-
-1.10. 22 - 118
-
 <sup>4</sup> Andere Personalverbände werden vor dem Erlass oder der Änderung von Bestimmungen des Personalrechts, der Spezialverordnungen und der Vollzugsverordnungen von der Fachdirektion zur Vernehmlassung eingeladen, sofern sie a. eigene Rechtspersönlichkeit haben und b. wesentliche Teile des Personals oder einer Personalgruppe vertreten, die von der Änderung betroffen sind.
 
-#### § 46
+**11**
+
+1.10. 22 - 118 § 46. <sup>1</sup> In Ämtern mit wenigstens 30 Angestellten wird ein Personalausschuss eingesetzt, sofern dies von mindestens einem Drittel des Personals schriftlich verlangt wird. In Ämtern mit 200 oder mehr Mitarbeitenden können mehrere Personalausschüsse zur Behandlung von Fragen gebildet werden, die lediglich die einzelnen Unterabteilungen betreffen.
 
 **Personalausschüsse a. Einsetzung, Allgemeines**
-
-<sup>1</sup> In Ämtern mit wenigstens 30 Angestellten wird ein Personalausschuss eingesetzt, sofern dies von mindestens einem Drittel des Personals schriftlich verlangt wird. In Ämtern mit 200 oder mehr Mitarbeitenden können mehrere Personalausschüsse zur Behandlung von Fragen gebildet werden, die lediglich die einzelnen Unterabteilungen betreffen.
 
 <sup>2</sup> Der Personalausschuss umfasst mindestens drei und höchstens 13 Mitglieder und gleich viele Ersatzmitglieder.
 
@@ -496,21 +478,19 @@ geschenk
 
 Die Direktionen erlassen für die Personalausschüsse in ihrem Bereich soweit erforderlich ergänzende Bestimmungen, insbesondere hinsichtlich der Grösse und Zusammensetzung sowie des Wahlverfahrens.
 
-**13**
-
-1.10. 22 - 118 § 51.<sup>25</sup> Die besonderen Informations- und Mitwirkungsrechte des Personals und der Personalausschüsse in Fragen der Arbeitssicherheit und des Gesundheitsschutzes, bei der Auslagerung oder beim Übergang von Ämtern, bei der Schliessung von Ämtern oder Teilen davon sowie beim Anschluss an eine Einrichtung der beruflichen Vorsorge und bei der Auflösung eines Anschlussvertrages richten sich nach dem Bundesgesetz vom 17. Dezember 1993 über die Information und Mitsprache der Arbeitnehmerinnen und Arbeitnehmer in den Betrieben[^50-1].
-
 **Besondere Informations- und Mitwirkungsrechte**
 
-**Austausch mit dem Personal**
+§ 51.<sup>25</sup> Die besonderen Informations- und Mitwirkungsrechte des Personals und der Personalausschüsse in Fragen der Arbeitssicherheit und des Gesundheitsschutzes, bei der Auslagerung oder beim Übergang von Ämtern, bei der Schliessung von Ämtern oder Teilen davon sowie beim Anschluss an eine Einrichtung der beruflichen Vorsorge und bei der Auflösung eines Anschlussvertrages richten sich nach dem Bundesgesetz vom 17. Dezember 1993 über die Information und Mitsprache der Arbeitnehmerinnen und Arbeitnehmer in den Betrieben<sup>7</sup>.
 
-§ 51 a.<sup>24</sup> <sup>1</sup> Die ständigen Verhandlungspartner erhalten für den Austausch mit dem Personal Zutritt zu kantonalen Verwaltungs- und Betriebsgebäuden sowie zu kantonalen Mittel- und Berufsfachschulen. Der Regierungsrat regelt die Einzelheiten.
+**13**
+
+1.10. 22 - 118 § 51 a.<sup>24</sup> <sup>1</sup> Die ständigen Verhandlungspartner erhalten für den Austausch mit dem Personal Zutritt zu kantonalen Verwaltungs- und Betriebsgebäuden sowie zu kantonalen Mittel- und Berufsfachschulen. Der Regierungsrat regelt die Einzelheiten.
+
+**Austausch mit dem Personal**
 
 <sup>2</sup> Das Personalamt weist das Personal auf die ständigen Verhandlungspartner und deren Angebot hin.
 
 <sup>3</sup> Die Personalverbände und die Personalausschüsse können in den Verwaltungs- und Betriebsgebäuden an geeigneter Stelle Informationsmaterial bereitstellen.
-
-[^50-1]: SR 822.14.
 
 #### § 52
 
@@ -522,7 +502,7 @@ Die Direktionen erlassen für die Personalausschüsse in ihrem Bereich soweit er
 
 ### IV. Schlussbestimmungen
 
-[^hIVSchlussbestimmun-1]: Genehmigt am 22. März 1999. 1.10. 22 - 118 15
+[^hIVSchlussbestimmun-1]: Genehmigt am 22. März 1999.
 
 #### § 53
 
@@ -566,6 +546,7 @@ Lohnklasse Minimum (LS 1) 1 46 982 2 47 596 3 48 373 4 49 337 5 50 500 6 51 887 
 - [4] LS 836.1, LS 836.11.
 - [5] SR 151.1.
 - [6] SR 412.10.
+- [7] SR 822.14.
 - [8] SR 836.2.
 - [10] Fassung gemäss RRB vom 5. Mai 2004 (OS 59, 351). In Kraft seit 1. Januar 2005.
 - [11] Aufgehoben durch RRB vom 5. Mai 2004 (OS 59, 351). In Kraft seit 1. Januar 2005.
@@ -573,7 +554,7 @@ Lohnklasse Minimum (LS 1) 1 46 982 2 47 596 3 48 373 4 49 337 5 50 500 6 51 887 
 - [13] Fassung gemäss RRB vom 11. Februar 2009 (OS 64, 270; ABl 2009, 339). In Kraft seit 1. Januar 2009.
 - [14] Aufgehoben durch RRB vom 11. Februar 2009 (OS 64, 270; ABl 2009, 339). In Kraft seit 1. Januar 2009.
 - [15] Eingefügt durch RRB vom 17. Juni 2009 (OS 65, 98; ABl 2009, 1076). In Kraft seit 1. Januar 2010.
-- [16] Fassung gemäss RRB vom 17. Juni 2009 (OS 65, 98; ABl 2009, 1076). In Kraft seit 1. Januar 2010.
+- [16] Fassung gemäss RRB vom 17. Juni 2009 (OS 65, 98; ABl 2009, 1076). In Kraft seit 1. Januar 2010. 1.10. 22 - 118 15
 - [17] Fassung gemäss RRB vom 3. November 2010 (OS 66, 322; ABl 2010, 2407). In Kraft seit 1. Januar 2011.
 - [18] Fassung gemäss RRB vom 11. Februar 2009 (OS 64, 270; ABl 2009, 339). In Kraft seit 1. Juli 2011.
 - [19] Fassung gemäss RRB vom 2. November 2011 (OS 66, 978; ABl 2011, 3236). In Kraft seit 1. Januar 2012.
@@ -583,5 +564,6 @@ Lohnklasse Minimum (LS 1) 1 46 982 2 47 596 3 48 373 4 49 337 5 50 500 6 51 887 
 - [24] Eingefügt durch RRB vom 25. November 2020 (OS 77, 139; ABl 2021-12-04). In Kraft seit 1. Juli 2022.
 - [25] Fassung gemäss RRB vom 25. November 2020 (OS 77, 139; ABl 2021-12-04). In Kraft seit 1. Juli 2022.
 - [26] Fassung gemäss RRB vom 16. März 2022 (OS 77, 395; ABl 2022-03-25). In Kraft seit 1. September 2022.
+- [27] Fassung gemäss RRB vom 16. März 2022 (OS 77, 395; ABl 2022-03-25). In Kraft seit 1. Oktober 2022.
 - [*] In Lohnklasse 28 entspricht das Maximum der LS 27.
 - [**] In Lohnklasse 29 entspricht das Maximum der LS 25. 1.10. 22 - 118 17
