@@ -4,11 +4,11 @@ title: "Ordinanza del 14 marzo 2008 sull'approvvigionamento elettrico (OAEl)"
 short: OAEl
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/226"
 language: it
-version: 2021-06-01
+version: 2022-10-01
 adopted: 2008-03-14
 in_force: 2008-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/226/20210601/it/xml/fedlex-data-admin-ch-eli-cc-2008-226-20210601-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20210601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/226/20221001/it/xml/fedlex-data-admin-ch-eli-cc-2008-226-20221001-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20221001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20210601/it"
 
 (OAEl)
 
-del 14 marzo 2008 (Stato 1° giugno 2021)
+del 14 marzo 2008 (Stato 1° ottobre 2022) (Stato 1° ottobre 2022)
 
 Il Consiglio federale svizzero,
 
@@ -277,17 +277,18 @@ Nel conto dei costi devono essere esposte separatamente tutte le voci necessarie
 - c. costi d’esercizio delle reti;
 - d. costi delle reti di livello superiore;
 - e. costi delle prestazioni di servizio relative al sistema;
+- e<sup>bis</sup>.[^7-1] i costi in relazione alla riserva di energia idroelettrica secondo l’ordinanza del 7 settembre 2022[^7-2] sulla costituzione di una riserva di energia idroelettrica (OREI);
 - f. costi per la metrologia e l’informazione;
-- f<sup>bis</sup>.[^7-1] costi per sistemi di misurazione intelligenti;
+- f<sup>bis</sup>.[^7-3] costi per sistemi di misurazione intelligenti;
 - g. costi amministrativi;
-- h.[^7-2] costi per i potenziamenti della rete necessari all’immissione di energia elettrica proveniente dagli impianti secondo gli articoli 15 e 19 della legge del 30 settembre 2016[^7-3] sull’energia (LEne);
+- h.[^7-4] costi per i potenziamenti della rete necessari all’immissione di energia elettrica proveniente dagli impianti secondo gli articoli 15 e 19 della legge del 30 settembre 2016[^7-5] sull’energia (LEne);
 - i. costi per gli allacciamenti alla rete e i contributi per i costi di rete;
 - j. altri costi fatturati individualmente;
 - k. tributi e prestazioni agli enti pubblici;
 - l. imposte dirette;
-- m.[^7-4] costi per sistemi di controllo e di regolazione intelligenti, rimunerazioni incluse;
-- n.[^7-5] costi per misure innovative; e
-- o.[^7-6] costi di sensibilizzazione nell’ambito della riduzione del consumo.
+- m.[^7-6] costi per sistemi di controllo e di regolazione intelligenti, rimunerazioni incluse;
+- n.[^7-7] costi per misure innovative; e
+- o.[^7-8] costi di sensibilizzazione nell’ambito della riduzione del consumo.
 
 <sup>4</sup> Ogni gestore e ogni proprietario di rete specifica le regole per l’attivazione degli investimenti.
 
@@ -295,15 +296,17 @@ Nel conto dei costi devono essere esposte separatamente tutte le voci necessarie
 
 <sup>6</sup> I proprietari di rete forniscono al gestore di rete le indicazioni necessarie all’allestimento del conto dei costi.
 
-<sup>7</sup> I gestori di rete presentano alla ElCom il conto dei costi al più tardi entro il 31 agosto.[^7-7]
+<sup>7</sup> I gestori di rete presentano alla ElCom il conto dei costi al più tardi entro il 31 agosto.[^7-9]
 
-[^7-1]: Introdotta dal n. I dell’O del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
-[^7-2]: Nuovo testo giusta il n. I dell’O del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
-[^7-3]: [RS 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
-[^7-4]: Introdotta dal n. I dell’O del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
-[^7-5]: Introdotta dal n. I dell’O del 3 apr. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
-[^7-6]: Introdotta dal n. I dell’O del 3 apr. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
-[^7-7]: Introdotto dal n. I dell’O del 12 dic. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6467](https://fedlex.data.admin.ch/eli/oc/2008/877)).
+[^7-1]: Introdotta dall’art. 12 dell’O del 7 set. 2022 sulla costituzione di una riserva di energia idroelettrica, in vigore dal 1° ott. 2022 al 30 giu. 2025 ([RU 2022 514](https://fedlex.data.admin.ch/eli/oc/2022/514)).
+[^7-2]: [RS 734.722](https://fedlex.data.admin.ch/eli/cc/2023/43)
+[^7-3]: Introdotta dal n. I dell’O del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
+[^7-4]: Nuovo testo giusta il n. I dell’O del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
+[^7-5]: [RS 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
+[^7-6]: Introdotta dal n. I dell’O del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
+[^7-7]: Introdotta dal n. I dell’O del 3 apr. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
+[^7-8]: Introdotta dal n. I dell’O del 3 apr. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
+[^7-9]: Introdotto dal n. I dell’O del 12 dic. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6467](https://fedlex.data.admin.ch/eli/oc/2008/877)).
 
 #### Art. 8
 
@@ -606,16 +609,17 @@ I costi di tali misure sono computabili fino a un importo massimo dell’1 per c
 La società nazionale di rete fattura individualmente:
 
 - a. ai gestori di rete e ai consumatori finali direttamente allacciati alla rete di trasporto i costi per la compensazione delle perdite di energia e la fornitura di energia reattiva da essi generati;
-- b. ai gruppi di bilancio i costi per l’energia di compensazione (comprese le quote della potenza messa in riserva per la regolazione secondaria e terziaria) e la gestione del programma previsionale da essi generati;
+- b.[^15-1] ai gruppi di bilancio i costi per l’energia di compensazione, comprese le quote della potenza messa in riserva per la regolazione secondaria e terziaria, per la gestione del programma previsionale e per la riserva di energia idroelettrica secondo l’OREI[^15-2] da essi generati;
 - c. a chi ha generato ricavi minori per l’utilizzazione transfrontaliera della rete il corrispondente importo. Il DATEC può prevedere regole derogatorie per la concessione di eccezioni di cui all’articolo 17 capoverso 6 LAEl.
 
 <sup>2</sup>
 
 Ai gestori di rete e ai consumatori finali direttamente allacciati alla rete di trasporto la società nazionale di rete fattura, proporzionalmente all’energia elettrica ricevuta dai consumatori finali, i seguenti costi:
 
-- a.[^15-1] i costi per la gestione del sistema e dei dati di misurazione, la capacità di partenza senza alimentazione di rete e la capacità di servizio isolato dei generatori di energia elettrica, il mantenimento della tensione, la regolazione primaria e le quote della potenza messa in riserva per la regolazione secondaria e terziaria, che non possono essere attribuiti ad un gruppo di bilancio. La ElCom fissa ogni anno l’importo massimo;
-- b.[^15-2] i costi per i potenziamenti della rete necessari all’immissione di energia elettrica proveniente dagli impianti secondo gli articoli 15 e 19 LEne[^15-3];
-- c.[^15-4] ...
+- a.[^15-3] i costi per la gestione del sistema e dei dati di misurazione, la capacità di partenza senza alimentazione di rete e la capacità di servizio isolato dei generatori di energia elettrica, il mantenimento della tensione, la regolazione primaria e le quote della potenza messa in riserva per la regolazione secondaria e terziaria, che non possono essere attribuiti ad un gruppo di bilancio. La ElCom fissa ogni anno l’importo massimo;
+- a<sup>bis</sup>.[^15-4] i costi in relazione alla riserva di energia idroelettrica secondo l’OREI;
+- b.[^15-5] i costi per i potenziamenti della rete necessari all’immissione di energia elettrica proveniente dagli impianti secondo gli articoli 15 e 19 LEne[^15-6];
+- c.[^15-7] ...
 
 <sup>3</sup>
 
@@ -625,10 +629,13 @@ Ai consumatori finali allacciati direttamente alla rete di trasporto e ai gestor
 - b. al 60 per cento in base alla media annua della potenza massima mensile effettiva richiesta alla rete di trasporto da ogni consumatore finale allacciato direttamente e da ogni rete del livello inferiore;
 - c. al 10 per cento in base a una tariffa di base fissa per punto di prelievo nella rete di trasporto.
 
-[^15-1]: Nuovo testo giusta il n. I dell’O del 12 dic. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6467](https://fedlex.data.admin.ch/eli/oc/2008/877)).
-[^15-2]: Nuovo testo giusta il n. I dell’O del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
-[^15-3]: [RS 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
-[^15-4]: Abrogata dal n. I dell’O del 1° nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
+[^15-1]: Nuovo testo giusta l’art. 12 dell’O del 7 set. 2022 sulla costituzione di una riserva di energia idroelettrica, in vigore dal 1° ott. 2022 al 30 giu. 2025 ([RU 2022 514](https://fedlex.data.admin.ch/eli/oc/2022/514)).
+[^15-2]: [RS 734.722](https://fedlex.data.admin.ch/eli/cc/2023/43)
+[^15-3]: Nuovo testo giusta il n. I dell’O del 12 dic. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6467](https://fedlex.data.admin.ch/eli/oc/2008/877)).
+[^15-4]: Introdotta dall’art. 12 dell’O del 7 set. 2022 sulla costituzione di una riserva di energia idroelettrica, in vigore dal 1° ott. 2022 al 30 giu. 2025 ([RU 2022 514](https://fedlex.data.admin.ch/eli/oc/2022/514)).
+[^15-5]: Nuovo testo giusta il n. I dell’O del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
+[^15-6]: [RS 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
+[^15-7]: Abrogata dal n. I dell’O del 1° nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
 
 #### Art. 16
 
@@ -777,7 +784,7 @@ La società nazionale di rete riferisce alla ElCom sull’applicazione della reg
 [^26-2]: [RS 730.03](https://fedlex.data.admin.ch/eli/cc/2017/766)
 [^26-3]: Nuovo testo giusta il n. I dell’O del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
 
-## Capitolo 4*a*:**** Informazioni sul mercato all’ingrosso dell’energia elettrica
+## Capitolo 4*a*: Informazioni sul mercato all’ingrosso dell’energia elettrica
 
 [^chap4a-1]
 
@@ -877,7 +884,7 @@ Le modifiche del diritto vigente sono disciplinate nell’allegato.
 
 L’impiego delle entrate risultanti dalle procedure di attribuzione orientate al mercato di cui all’articolo 32 LAEl deve essere approvato dalla ELCom. La proposta alla ElCom secondo l’articolo 20 capoverso 1 deve riportare gli altri costi nella rete di trasporto e illustrare in che modo questi non sono coperti dal corrispettivo per l’utilizzazione della rete.
 
-### Sezione 4:**** Disposizioni transitorie della modifica del 12 dicembre 2008
+### Sezione 4: Disposizioni transitorie della modifica del 12 dicembre 2008
 
 [^chap5-sec4-1]
 
@@ -917,7 +924,7 @@ L’impiego delle entrate risultanti dalle procedure di attribuzione orientate a
 
 <sup>2</sup> Su domanda o d’ufficio, le decisioni di autorità che non sono state impugnate possono essere adeguate agli articoli 13 capoverso 4, 15 capoverso 2 lettera a, 31*a–*31*c*, se l’interesse pubblico per l’applicazione di queste disposizioni prevale sull’interesse privato per l’attuazione della decisione.
 
-### Sezione 4*a*:**** Disposizione transitoria della modifica del 1° novembre 2017
+### Sezione 4*a*: Disposizione transitoria della modifica del 1° novembre 2017
 
 [^chap5-sec4a-1]
 
@@ -962,7 +969,7 @@ Fino al 31 dicembre 2018, il gruppo di bilancio per le energie rinnovabili, gli 
 
 [^31h-1]: [RS 730.03](https://fedlex.data.admin.ch/eli/cc/2017/766)
 
-### Sezione 4*b*:**** Disposizioni transitorie della modifica del 3 aprile 2019
+### Sezione 4*b*: Disposizioni transitorie della modifica del 3 aprile 2019
 
 [^chap5-sec4b-1]
 
@@ -988,7 +995,7 @@ Fino al 31 dicembre 2018, il gruppo di bilancio per le energie rinnovabili, gli 
 
 I gestori della rete di distribuzione possono avvalersi del diritto di rifornire di elettricità i consumatori finali con servizio universale alle condizioni di cui all’articolo 6 capoverso 5<sup>bis</sup> LAEl per la prima volta nell’anno tariffario 2019 e per l’ultima volta nell’anno tariffario 2022.
 
-### Sezione 4*c*:**** Disposizioni transitorie della modifica del 25 novembre 2020
+### Sezione 4*c*: Disposizioni transitorie della modifica del 25 novembre 2020
 
 [^chap5-sec4c-1]
 
@@ -1011,7 +1018,7 @@ I gestori della rete di distribuzione possono avvalersi del diritto di rifornire
 
 <sup>6</sup> I sistemi di misurazione intelligenti che non consentono ai consumatori finali, ai produttori o ai gestori di impianti di stoccaggio di consultare e scaricare i propri dati di misurazione nel modo prescritto dall’articolo 8*a* capoverso 1 lettera a numero 3 e capoverso 2 lettera c devono essere riequipaggiati quanto prima, al più tardi entro il 30 giugno 2021. Sono fatte salve le deroghe di cui ai capoversi 1 e 2.
 
-### Sezione 5: Entrata in vigore****
+### Sezione 5: Entrata in vigore
 
 [^chap5-sec5-1]
 
@@ -1032,7 +1039,7 @@ I gestori della rete di distribuzione possono avvalersi del diritto di rifornire
 [^32-1]: Abrogata dal n. I dell’O del 12 dic. 2008, con effetto dal 1° gen. 2009 ([RU 2008 6467](https://fedlex.data.admin.ch/eli/oc/2008/877)).
 [^32-2]: Abrogato dal n. I dell’O del 1° nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 13 cpv. 3<sup>bis</sup>)
 
@@ -1152,7 +1159,7 @@ Allegato 1*[^t-1]*
 
 - Per l’anno tariffario 2016 il calcolo del costo medio ponderato del capitale si determina sul diritto previgente.
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 (art. 28)
 

@@ -4,11 +4,11 @@ title: "Ordonnance du 14 mars 2008 sur l'approvisionnement en électricité (OAp
 short: OApEl
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/226"
 language: fr
-version: 2021-06-01
+version: 2022-10-01
 adopted: 2008-03-14
 in_force: 2008-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/226/20210601/fr/xml/fedlex-data-admin-ch-eli-cc-2008-226-20210601-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20210601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/226/20221001/fr/xml/fedlex-data-admin-ch-eli-cc-2008-226-20221001-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20221001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20210601/fr"
 
 (OApEl)
 
-du 14 mars 2008 (Etat le 1<sup>er</sup> juin 2021)
+du 14 mars 2008 (État le 1<sup>er</sup> octobre 2022)
 
 Le Conseil fédéral suisse,
 
@@ -276,17 +276,18 @@ Cette comptabilité doit faire apparaître séparément tous les postes nécessa
 - c. les coûts d’exploitation des réseaux;
 - d. les coûts des réseaux des niveaux supérieurs;
 - e. les coûts des services-système;
+- e<sup>bis</sup>.[^7-1] les coûts liés à la réserve hydroélectrique visée dans l’ordonnance du 7 septembre 2022 sur l’instauration d’une réserve hydroélectrique (OIRH)[^7-2];
 - f. les coûts des systèmes de mesure et d’information;
-- f<sup>bis</sup>.[^7-1] les coûts des systèmes de mesure intelligents;
+- f<sup>bis</sup>.[^7-3] les coûts des systèmes de mesure intelligents;
 - g. les coûts administratifs;
-- h.[^7-2] les coûts des renforcements du réseau nécessaires à l’injection d’énergie électrique provenant d’installations visées aux art. 15 et 19 de la loi du 30 septembre 2016 sur l’énergie (LEne)[^7-3];
+- h.[^7-4] les coûts des renforcements du réseau nécessaires à l’injection d’énergie électrique provenant d’installations visées aux art. 15 et 19 de la loi du 30 septembre 2016 sur l’énergie (LEne)[^7-5];
 - i. les coûts des raccordements au réseau et des contributions aux coûts de réseau;
 - j. les autres coûts facturés individuellement;
 - k. les taxes et les prestations fournies à des collectivités publiques;
 - l. les impôts directs;
-- m.[^7-4] les coûts des systèmes de commande et de réglage intelligents, indemnités incluses;
-- n.[^7-5] les coûts des mesures novatrices, et
-- o.[^7-6] les coûts de sensibilisation dans le domaine de la réduction de la consommation.
+- m.[^7-6] les coûts des systèmes de commande et de réglage intelligents, indemnités incluses;
+- n.[^7-7] les coûts des mesures novatrices, et
+- o.[^7-8] les coûts de sensibilisation dans le domaine de la réduction de la consommation.
 
 <sup>4</sup> Chaque gestionnaire et chaque propriétaire de réseau doit faire connaître les règles selon lesquelles les investissements sont portés à l’actif.
 
@@ -294,15 +295,17 @@ Cette comptabilité doit faire apparaître séparément tous les postes nécessa
 
 <sup>6</sup> Les propriétaires de réseau fournissent aux gestionnaires de réseau les indications nécessaires pour établir la comptabilité analytique.
 
-<sup>7</sup> Les gestionnaires de réseau présentent leur comptabilité analytique à l’ElCom au plus tard le 31 août.[^7-7]
+<sup>7</sup> Les gestionnaires de réseau présentent leur comptabilité analytique à l’ElCom au plus tard le 31 août.[^7-9]
 
-[^7-1]: Introduite par le ch. I de l’O du 1<sup>er</sup> nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
-[^7-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
-[^7-3]: [RS 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
-[^7-4]: Introduite par le ch. I de l’O du 1<sup>er</sup> nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
-[^7-5]: Introduite par le ch. I de l’O du 3 avr. 2019, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
-[^7-6]: Introduite par le ch. I de l’O du 3 avr. 2019, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
-[^7-7]: Introduit par le ch. I de l’O du 12 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6467](https://fedlex.data.admin.ch/eli/oc/2008/877)).
+[^7-1]: Introduite par l’art. 12 de l’O du 7 sept. 2022 sur l’instauration d’une réserve hydroélectrique, en vigueur du 1<sup>er</sup> oct. 2022 au 30 juin 2025 ([RO 2022 514](https://fedlex.data.admin.ch/eli/oc/2022/514)).
+[^7-2]: [RS 734.722](https://fedlex.data.admin.ch/eli/cc/2023/43)
+[^7-3]: Introduite par le ch. I de l’O du 1<sup>er</sup> nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
+[^7-4]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
+[^7-5]: [RS 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
+[^7-6]: Introduite par le ch. I de l’O du 1<sup>er</sup> nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
+[^7-7]: Introduite par le ch. I de l’O du 3 avr. 2019, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
+[^7-8]: Introduite par le ch. I de l’O du 3 avr. 2019, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
+[^7-9]: Introduit par le ch. I de l’O du 12 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6467](https://fedlex.data.admin.ch/eli/oc/2008/877)).
 
 #### Art. 8
 
@@ -603,16 +606,17 @@ Les coûts imputables de telles mesures peuvent aller jusqu’à 1 % au maximum 
 La société nationale du réseau de transport facture individuellement:
 
 - a. aux gestionnaires de réseau et aux consommateurs finaux raccordés directement au réseau de transport, les coûts de compensation des pertes et de fourniture d’énergie réactive qu’ils ont occasionnés;
-- b. aux groupes-bilan, les coûts de l’énergie d’ajustement (y compris les parts de réserve de puissance pour les réglages secondaire et tertiaire) et de la gestion du programme prévisionnel qu’ils ont occasionnés;
+- b.[^15-1] aux groupes-bilan, les coûts occasionnés pour l’énergie d’ajustement, y compris les parts de réserve de puissance pour les réglages secondaire et tertiaire, pour la gestion du programme prévisionnel et pour la réserve hydroélectrique visée dans l’OIRH[^15-2];
 - c. à ceux qui ont occasionné des manques à gagner dans l’utilisation transfrontalière du réseau, le montant correspondant. Le DETEC peut prévoir des règles dérogatoires pour l’octroi des exceptions visées à l’art. 17, al. 6, LApEl.
 
 <sup>2</sup>
 
 Elle facture aux gestionnaires de réseau et aux consommateurs finaux raccordés directement au réseau de transport, en proportion de l’énergie électrique soutirée par les consommateurs finaux:
 
-- a.[^15-1] les coûts de gestion des systèmes, de gestion des mesures, de capacité de démarrage autonome et de fonctionnement en îlotage des équipements producteurs, de maintien de la tension, de réglage primaire, ainsi que les parts de réserve de puissance pour les réglages secondaire et tertiaire qui ne peuvent être imputés à un groupe-bilan. Leur montant maximum est fixé chaque année par l’ElCom;
-- b.[^15-2] les coûts des renforcements du réseau nécessaires à l’injection d’énergie électrique provenant des installations visées aux art. 15 et 19 LEne[^15-3];
-- c.[^15-4] …
+- a.[^15-3] les coûts de gestion des systèmes, de gestion des mesures, de capacité de démarrage autonome et de fonctionnement en îlotage des équipements producteurs, de maintien de la tension, de réglage primaire, ainsi que les parts de réserve de puissance pour les réglages secondaire et tertiaire qui ne peuvent être imputés à un groupe-bilan. Leur montant maximum est fixé chaque année par l’ElCom;
+- a<sup>bis</sup>.[^15-4] les coûts liés à la réserve hydroélectrique visée dans l’OIRH;
+- b.[^15-5] les coûts des renforcements du réseau nécessaires à l’injection d’énergie électrique provenant des installations visées aux art. 15 et 19 LEne[^15-6];
+- c.[^15-7] …
 
 <sup>3</sup>
 
@@ -622,10 +626,13 @@ Elle facture aux consommateurs finaux et aux gestionnaires de réseau raccordés
 - b. à hauteur de 60 % selon la moyenne annuelle des puissances mensuelles maximales effectives que chaque consommateur final raccordé directement et chaque réseau de niveau inférieur demande au réseau de transport;
 - c. à hauteur de 10 % selon un tarif de base fixe pour chaque point de soutirage du réseau de transport.
 
-[^15-1]: Nouvelle teneur selon le ch. I de l’O du 12 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6467](https://fedlex.data.admin.ch/eli/oc/2008/877)).
-[^15-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
-[^15-3]: [RS 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
-[^15-4]: Abrogée par le ch. I de l’O du 1<sup>er</sup> nov. 2017, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
+[^15-1]: Nouvelle teneur selon l’art. 12 de l’O du 7 sept. 2022 sur l’instauration d’une réserve hydroélectrique, en vigueur du 1<sup>er</sup> oct. 2022 au 30 juin 2025 ([RO 2022 514](https://fedlex.data.admin.ch/eli/oc/2022/514)).
+[^15-2]: [RS 734.722](https://fedlex.data.admin.ch/eli/cc/2023/43)
+[^15-3]: Nouvelle teneur selon le ch. I de l’O du 12 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6467](https://fedlex.data.admin.ch/eli/oc/2008/877)).
+[^15-4]: Introduite par l’art. 12 de l’O du 7 sept. 2022 sur l’instauration d’une réserve hydroélectrique, en vigueur du 1<sup>er</sup> oct. 2022 au 30 juin 2025 ([RO 2022 514](https://fedlex.data.admin.ch/eli/oc/2022/514)).
+[^15-5]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
+[^15-6]: [RS 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
+[^15-7]: Abrogée par le ch. I de l’O du 1<sup>er</sup> nov. 2017, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
 
 #### Art. 16
 
@@ -774,7 +781,7 @@ La société nationale du réseau de transport présente un rapport à l’ElCom
 [^26-2]: [RS 730.03](https://fedlex.data.admin.ch/eli/cc/2017/766)
 [^26-3]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
 
-## Chapitre 4*a***** Informations relatives au marché de gros de l’électricité
+## Chapitre 4*a* Informations relatives au marché de gros de l’électricité
 
 [^chap4a-1]
 
@@ -874,7 +881,7 @@ La modification du droit en vigueur est réglée en annexe.
 
 L’utilisation des recettes provenant de procédures d’attribution axées sur les règles du marché au sens de l’art. 32 LApEl est soumise à l’autorisation de l’ElCom. La proposition visée à l’art. 20, al. 1, doit faire état des autres coûts à assumer sur le réseau de transport et expliquer dans quelle mesure ils ne sont pas couverts par la rémunération perçue pour l’utilisation du réseau.
 
-### Section 4**** Dispositions transitoires relatives à la modification 12 décembre 2008
+### Section 4 Dispositions transitoires relatives à la modification 12 décembre 2008
 
 [^chap5-sec4-1]
 
@@ -914,7 +921,7 @@ L’utilisation des recettes provenant de procédures d’attribution axées sur
 
 <sup>2</sup> Les décisions qui ont été prises par des autorités, et contre lesquelles aucun recours n’a été interjeté, peuvent être adaptées sur demande ou d’office aux art. 13, al. 4, 15, al. 2, let. a, et 31*a* à 31*c* si l’intérêt public à l’applicabilité de la présente disposition prime l’intérêt privé au maintien de la décision.
 
-### Section 4*a***** Disposition transitoire relative à la modification du 1<sup>er</sup> novembre 2017
+### Section 4*a* Disposition transitoire relative à la modification du 1<sup>er</sup> novembre 2017
 
 [^chap5-sec4a-1]
 
@@ -959,7 +966,7 @@ Le groupe-bilan pour les énergies renouvelables, les autres groupes-bilan et le
 
 [^31h-1]: [RS 730.03](https://fedlex.data.admin.ch/eli/cc/2017/766)
 
-### Section 4*b***** Dispositions transitoires relatives à la modification du 3 avril 2019
+### Section 4*b* Dispositions transitoires relatives à la modification du 3 avril 2019
 
 [^chap5-sec4b-1]
 
@@ -985,7 +992,7 @@ Le groupe-bilan pour les énergies renouvelables, les autres groupes-bilan et le
 
 Les gestionnaires du réseau de distribution peuvent se prévaloir du droit de fournir de l’électricité aux consommateurs finaux avec approvisionnement de base selon les conditions prévues à l’art. 6, al. 5<sup>bis</sup>, LApEl la première fois pour l’année tarifaire 2019 et la dernière fois pour l’année tarifaire 2022.
 
-### Section 4*c***** Dispositions transitoires relatives à la modification du 25 novembre 2020
+### Section 4*c* Dispositions transitoires relatives à la modification du 25 novembre 2020
 
 [^chap5-sec4c-1]
 
@@ -1008,7 +1015,7 @@ Les gestionnaires du réseau de distribution peuvent se prévaloir du droit de f
 
 <sup>6</sup> Les systèmes de mesure intelligents qui ne permettent pas au consommateur final, au producteur ou à l’exploitant de stockage de consulter et de télécharger ses données de mesure comme prescrit à l’art. 8*a*, al. 1, let. a, ch. 3, et al. 2, let. c, doivent être mis à niveau dans les meilleurs délais, mais au plus tard le 30 juin 2021. Les exceptions prévues aux al. 1 et 2 demeurent réservées.
 
-### Section 5 Entrée en vigueur****
+### Section 5 Entrée en vigueur
 
 [^chap5-sec5-1]
 
@@ -1029,7 +1036,7 @@ Les gestionnaires du réseau de distribution peuvent se prévaloir du droit de f
 [^32-1]: Abrogé par le ch. I de l’O du 12 déc. 2008, avec effet au 1<sup>er</sup> janv. 2009 ([RO 2008 6467](https://fedlex.data.admin.ch/eli/oc/2008/877)).
 [^32-2]: Abrogé par le ch. I de l’O du 1<sup>er</sup> nov. 2017, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 13, al. 3<sup>bis</sup>)
 
@@ -1050,7 +1057,7 @@ Annexe 1*[^t-1]*
   - d. taux d’intérêt sans risque pour les fonds étrangers;
   - e. prime de risque d’insolvabilité (frais d’émission et frais d’acquisition y compris).
 
-- 1\.3 Pour calculer le taux de rendement des fonds propres, on additionne le taux d’intérêt sans risque pour les fonds propres et le produit de la prime de risque de marché par le bêta *lev**e**red*.
+- 1\.3 Pour calculer le taux de rendement des fonds propres, on additionne le taux d’intérêt sans risque pour les fonds propres et le produit de la prime de risque de marché par le bêta *levered*.
 - 1\.4 Pour calculer le taux de rendement des fonds étrangers, on additionne le taux d’intérêt sans risque pour les fonds étrangers et une prime de risque d’insolvabilité, y compris un taux forfaitaire pour les frais d’émission et les frais d’acquisition.
 - 1\.5 L’OFEN précise les dispositions concernant les paramètres visés au ch. 1.2.
 
@@ -1149,7 +1156,7 @@ Annexe 1*[^t-1]*
 
 - Pour l’année tarifaire 2016, le coût moyen pondéré du capital est déterminé en fonction de l’ancien droit.
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 (art. 28)
 
