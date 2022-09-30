@@ -4,11 +4,11 @@ title: Energiegesetz vom 30. September 2016 (EnG)
 short: EnG
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/762"
 language: de
-version: 2021-01-01
+version: 2022-10-01
 adopted: 2016-09-30
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/762/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2017-762-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/762/20221001/de/xml/fedlex-data-admin-ch-eli-cc-2017-762-20221001-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20221001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20210101/de"
 
 (EnG)
 
-vom 30. September 2016 (Stand am 1. Januar 2021)
+vom 30. September 2016 (Stand am 1. Oktober 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -268,7 +268,7 @@ Der Bundesrat kann Bestimmungen erlassen, insbesondere:
 
 [^18-1]: [SR 734.7](https://fedlex.data.admin.ch/eli/cc/2007/418)
 
-## 4. Kapitel: Vergütung der Einspeisung von Elektrizität aus erneuerbaren Energien (Einspeisevergütungssystem)
+## 4. Kapitel:Vergütung der Einspeisung von Elektrizität aus erneuerbaren Energien (Einspeisevergütungssystem)
 
 #### Art. 19
 
@@ -547,6 +547,7 @@ Mit dem Netzzuschlag werden finanziert:
 - b. die nicht durch Marktpreise gedeckten Kosten für Einspeisevergütungen nach bisherigem Recht;
 - c. die nicht durch Marktpreise gedeckten Kosten für die Mehrkosten-Vergütungen nach Artikel 73 Absatz 4;
 - d. die Einmalvergütung nach Artikel 25 und die Investitionsbeiträge nach den Artikeln 26 und 27;
+- d<sup>bis</sup>.[^35-1] die Einmalvergütung nach Artikel 71*a* Absatz 4;
 - e. die Marktprämie für Elektrizität aus Grosswasserkraftanlagen nach Artikel 30;
 - f. die Kosten der wettbewerblichen Ausschreibungen nach Artikel 32;
 - g. die Geothermie-Erkundungsbeiträge und die Verluste aus Geothermie-Garantien nach Artikel 33;
@@ -555,6 +556,8 @@ Mit dem Netzzuschlag werden finanziert:
 - j. die Kosten des BFE, die diesem aus seinen Aufgaben gegenüber der Vollzugsstelle entstehen.
 
 <sup>3</sup> Der Netzzuschlag beträgt höchstens 2,3 Rappen/kWh. Der Bundesrat legt ihn bedarfsgerecht fest.
+
+[^35-1]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2022 (Dringliche Massnahmen zur kurzfristigen Bereitstellung einer sicheren Stromversorgung im Winter), in Kraft vom 1. Okt. 2022 bis zum 31. Dez. 2025 ([AS 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543); [BBl 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
 
 #### Art. 36
 
@@ -720,6 +723,36 @@ Sie erlassen insbesondere Vorschriften über:
 <sup>4</sup> Beim Erlass der Vorschriften nach Absatz 3 Buchstabe d beachten sie, dass bei beheizten Gebäuden, die mindestens den Minergie-, den MuKEn-Standard oder einen vergleichbaren Baustandard erreichen, eine durch die Wärmedämmung oder durch Anlagen zur besseren Nutzung einheimischer erneuerbarer Energien verursachte Überschreitung von maximal 20 cm bei der Berechnung insbesondere der Gebäudehöhe, der Gebäude-, Grenz-, Gewässer-, Strassen- oder Parkplatzabstände und bei Baulinien nicht mitgezählt wird.
 
 <sup>5</sup> Sie erlassen einheitliche Vorschriften über die Angabe des Energieverbrauchs von Gebäuden (Gebäudeenergieausweis). Sie können für ihr Kantonsgebiet festlegen, dass der Energieausweis obligatorisch ist; sehen sie ein Obligatorium vor, so legen sie fest, in welchen Fällen der Ausweis obligatorisch ist.
+
+#### Art. 45a
+
+**Pflicht zur Nutzung der Sonnenenergie bei Gebäuden**[^45a-1]
+
+<sup>1</sup> Beim Bau neuer Gebäude mit einer anrechenbaren Gebäudefläche von mehr als 300 m<sup>2</sup> ist auf den Dächern oder an den Fassaden eine Solaranlage, beispielsweise eine Photovoltaik- oder eine Solarthermieanlage, zu erstellen. Die Kantone können diese Pflicht auch bei Gebäuden mit einer anrechenbaren Gebäudefläche von 300 m<sup>2</sup> oder weniger vorsehen.
+
+<sup>2</sup>
+
+Die Kantone regeln die Ausnahmen, insbesondere wenn das Erstellen einer Solaranlage:
+
+- a. anderen öffentlich-rechtlichen Vorschriften widerspricht;
+- b. technisch nicht möglich ist; oder
+- c. wirtschaftlich unverhältnismässig ist.
+
+<sup>3</sup> Bis zum Inkrafttreten der kantonalen Gesetzesbestimmungen zu den Ausnahmen regeln die Kantonsregierungen diese auf Verordnungsstufe.
+
+<sup>4</sup> Kantone, welche Anforderungen zur Eigenstromerzeugung bei Neubauten gemäss MuKEn 2014 Teil E oder weitergehend bis am 1. Januar 2023 eingeführt haben, sind von der Umsetzung der Absätze 1−3 befreit.
+
+[^45a-1]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2022 (Dringliche Massnahmen zur kurzfristigen Bereitstellung einer sicheren Stromversorgung im Winter), in Kraft vom 1. Okt. 2022 bis zum 31. Dez. 2025 ([AS 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543); [BBl 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
+
+#### Art. 45b
+
+**Nutzung der Sonnenenergie bei Infrastrukturen des Bundes**[^45b-1]
+
+<sup>1</sup> Die Sonnenergie ist auf den dafür geeigneten Infrastrukturoberflächen des Bundes bestmöglich zu nutzen. Geeignete Flächen sind bis 2030 solaraktiv auszurüsten.
+
+<sup>2</sup> Der Bundesrat regelt die Rahmenbedingungen und die Einzelheiten.
+
+[^45b-1]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2022 (Dringliche Massnahmen zur kurzfristigen Bereitstellung einer sicheren Stromversorgung im Winter), in Kraft vom 1. Okt. 2022 bis zum 31. Dez. 2025 ([AS 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543); [BBl 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
 
 #### Art. 46
 
@@ -1093,6 +1126,63 @@ Mit Busse bis zu 100 000 Franken wird bestraft, wer vorsätzlich:
 
 ## 14. Kapitel: Schlussbestimmungen
 
+#### Art. 71a
+
+**Übergangsbestimmungen zur Änderung vom 30. September 2022 (Produktion von zusätzlicher Elektrizität aus Photovoltaik-Grossanlagen)**[^71a-1]
+
+<sup>1</sup>
+
+Bis die Erstellung von Photovoltaik-Grossanlagen nach Absatz 2 schweizweit eine jährliche Gesamtproduktion von maximal 2 TWh erlaubt, gilt für solche Anlagen, sowie für ihre Anschlussleitungen, dass:
+
+- a. ihr Bedarf ausgewiesen ist;
+- b. sie von nationalem Interesse und standortgebunden sind; bei Anlagen in Objekten nach Artikel 5 NHG[^71a-2] bleibt bei einer Abweichung von der ungeschmälerten Erhaltung die Pflicht zur grösstmöglichen Schonung unter Einbezug von Wiederherstellungs- oder Ersatzmassnahmen bestehen;
+- c. für sie keine Planungspflicht besteht;
+- d. das Interesse an ihrer Realisierung anderen nationalen, regionalen und lokalen Interessen grundsätzlich vorgeht;
+- e.
+
+  sie ausgeschlossen sind in:
+
+  - 1\. Mooren und Moorlandschaften nach Artikel 78 Absatz 5 der Bundesverfassung,
+  - 2\. Biotopen von nationaler Bedeutung nach Artikel 18*a* NHG, und
+  - 3\. Wasser- und Zugvogelreservaten nach Artikel 11 des Jagdgesetzes vom 20. Juni 1986[^71a-3].
+
+<sup>2</sup>
+
+Die Photovoltaik-Grossanlagen müssen folgende Voraussetzungen erfüllen:
+
+- a. die jährliche Mindestproduktion beträgt 10 GWh; und
+- b. die Stromproduktion vom 1. Oktober−31. März (Winterhalbjahr) beträgt mindestens 500 kWh pro 1 kW installierter Leistung.
+
+<sup>3</sup> Die Bewilligung für Photovoltaik-Grossanlagen wird durch den Kanton erteilt, wobei die Zustimmung der Standortgemeinde und der Grundeigentümer vorliegen muss.
+
+<sup>4</sup> Anlagen, die bis zum 31. Dezember 2025 mindestens teilweise Elektrizität ins Stromnetz einspeisen, erhalten vom Bund eine Einmalvergütung in der Höhe von maximal 60 Prozent der Investitionskosten. Der Bundesrat legt die Ansätze im Einzelfall fest; die Betreiber reichen dazu eine Wirtschaftlichkeitsrechnung ein. Netzverstärkungen, die notwendig werden zur Einspeisung von Elektrizität der Anlagen, sind Teil der Systemdienstleistungen der nationalen Netzgesellschaft.
+
+<sup>5</sup> Die Anlagen werden bei endgültiger Ausserbetriebnahme vollständig zurückgebaut und die Ausgangslage wiederhergestellt.
+
+<sup>6</sup> Dieser Artikel bleibt auf Gesuche, die bis am 31. Dezember 2025 öffentlich aufgelegt werden, sowie bei allfälligen Beschwerdeverfahren anwendbar.
+
+[^71a-1]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2022 (Dringliche Massnahmen zur kurzfristigen Bereitstellung einer sicheren Stromversorgung im Winter), in Kraft vom 1. Okt. 2022 bis zum 31. Dez. 2025 ([AS 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543); [BBl 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
+[^71a-2]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^71a-3]: [SR 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
+
+#### Art. 71b
+
+**Übergangsbestimmungen zur Änderung vom 30. September 2022 (Produktion von zusätzlicher Elektrizität aus Speicherwasserkraftwerken)**[^71b-1]
+
+<sup>1</sup>
+
+Für die Erweiterung des Speicherwasserkraftwerks nach Absatz 2 gilt, dass:
+
+- a. der Bedarf ausgewiesen ist;
+- b. dafür keine Planungspflicht besteht;
+- c. das Interesse an der Realisierung anderen nationalen, regionalen und lokalen Interessen grundsätzlich vorgeht.
+
+<sup>2</sup> Absatz 1 gilt für sämtliche zur Realisierung des Vorhabens nötigen und zur rationellen Nutzung der Wasserkraft gebotenen Massnahmen innerhalb des Kraftwerksystems beim Projekt Grimselsee (Gemeinde Guttannen [BE]) mit Erhöhung des Grimselsees um 23 m und Verlegung der Grimselpassstrasse.
+
+<sup>3</sup> Dieser Artikel bleibt auf Gesuche, die bis am 31. Dezember 2025 öffentlich aufgelegt werden, sowie bei allfälligen Beschwerdeverfahren anwendbar.
+
+[^71b-1]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2022 (Dringliche Massnahmen zur kurzfristigen Bereitstellung einer sicheren Stromversorgung im Winter), in Kraft vom 1. Okt. 2022 bis zum 31. Dez. 2025 ([AS 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543); [BBl 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
+
 #### Art. 72
 
 **Übergangsbestimmungen zum Einspeisevergütungssystem und zum Netzzuschlag**
@@ -1164,6 +1254,14 @@ Für bestehende Verträge zwischen Netzbetreibern und unabhängigen Produzenten 
 **Übergangsbestimmung zur Rückerstattung des Netzzuschlags**
 
 Für Endverbraucherinnen und Endverbraucher, die eine Zielvereinbarung nach bisherigem Recht eingegangen sind, entfällt für die Rückerstattungsperioden nach Inkrafttreten dieses Gesetzes die Pflicht zur Einsetzung von mindestens 20 Prozent des Rückerstattungsbetrages für Energieeffizienzmassnahmen.
+
+#### Art. 75a
+
+**Übergangsbestimmung zur Änderung vom 30. September 2022 (Pflicht zur Nutzung der Sonnenenergie bei Gebäuden)**[^75a-1]
+
+Die Kantone erlassen die Ausnahmebestimmungen gemäss Artikel 45*a* Absatz 2 bis zum 1. Januar 2023. Gesuche, die vor diesem Zeitpunkt eingereicht werden, unterstehen der Pflicht gemäss Artikel 45*a* Absatz 1 nicht.
+
+[^75a-1]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2022 (Dringliche Massnahmen zur kurzfristigen Bereitstellung einer sicheren Stromversorgung im Winter), in Kraft vom 1. Okt. 2022 bis zum 31. Dez. 2025 ([AS 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543); [BBl 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
 
 #### Art. 76
 

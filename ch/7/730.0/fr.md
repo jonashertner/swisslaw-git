@@ -4,11 +4,11 @@ title: "Loi du 30 septembre 2016 sur l'énergie (LEne)"
 short: LEne
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/762"
 language: fr
-version: 2021-01-01
+version: 2022-10-01
 adopted: 2016-09-30
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/762/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-762-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/762/20221001/fr/xml/fedlex-data-admin-ch-eli-cc-2017-762-20221001-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20221001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20210101/fr"
 
 (LEne)[^t-1]
 
-du 30 septembre 2016 (Etat le 1<sup>er</sup> janvier 2021)
+du 30 septembre 2016 (État le 1<sup>er</sup> octobre 2022)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -552,9 +552,10 @@ Le supplément permet de financer:
 - b. les coûts de rétribution de l’injection non couverts par les prix du marché, selon l’ancien droit;
 - c. les frais[^35-1] supplémentaires visés à l’art. 73, al. 4, non couverts par les prix du marché;
 - d. la rétribution unique visée à l’art. 25 et les contributions d’investissement visées aux art. 26 et 27;
+- d<sup>bis</sup>.[^35-2] la rétribution unique au sens de l’art. 71*a*, al. 4;
 - e. la prime de marché rétribuant l’électricité produite par de grandes installations hydroélectriques au sens de l’art. 30;
 - f. les coûts des appels d’offres publics visés à l’art. 32;
-- g. les contributions à la recherche de ressources géothermiques[^35-2] et les pertes liées aux garanties pour la géothermie visées à l’art. 33;
+- g. les contributions à la recherche de ressources géothermiques[^35-3] et les pertes liées aux garanties pour la géothermie visées à l’art. 33;
 - h. l’indemnisation des coûts au sens de l’art. 34;
 - i. les divers coûts d’exécution, en particulier les coûts indispensables de l’organe d’exécution;
 - j. les coûts incombant à l’OFEN en raison de ses tâches relatives à l’organe d’exécution.
@@ -562,7 +563,8 @@ Le supplément permet de financer:
 <sup>3</sup> Le montant du supplément est de 2,3 ct./kWh au maximum. Le Conseil fédéral le détermine en fonction des besoins.
 
 [^35-1]: Rectifié par la CdR de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
-[^35-2]: Rectifié par la CdR de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^35-2]: Introduite par le ch. I de la LF du 30 sept. 2022 (Mesures urgentes visant à assurer rapidement l’approvisionnement en électricité pendant l’hiver), en vigueur du 1<sup>er</sup> oct. 2022 au 31 déc. 2025 ([RO 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543); [FF 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
+[^35-3]: Rectifié par la CdR de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
 
 #### Art. 36
 
@@ -732,6 +734,36 @@ Ils édictent notamment des dispositions sur:
 <sup>4</sup> Quand ils édictent les dispositions visées à l’al. 3, let. d, ils prévoient que, dans les bâtiments chauffés répondant au moins aux normes Minergie, aux modèles de prescriptions énergétiques des cantons ou à une norme analogue, un dépassement de 20 cm au plus, causé par l’isolation thermique ou par des installations destinées à améliorer l’utilisation des énergies renouvelables domestiques, n’est pas pris en compte lors du calcul notamment de la hauteur du bâtiment, de la distance entre les bâtiments, de la distance à la limite, de la distance aux eaux publiques, de la distance à la route ou de la distance à la place de parc, ni dans le cadre de l’alignement des constructions.
 
 <sup>5</sup> Ils édictent des prescriptions uniformes sur l’indication de la consommation énergétique des bâtiments (certificat énergétique des bâtiments). Ils peuvent décider que le certificat est obligatoire sur leur territoire et, le cas échéant, dans quelles conditions.
+
+#### Art. 45a
+
+**Obligation d’utiliser l’énergie solaire pour les bâtiments**[^45a-1]
+
+<sup>1</sup> Lors de la construction de nouveaux bâtiments d’une surface déterminante de construction supérieure à 300 m<sup>2</sup>, une installation solaire, par exemple photovoltaïque ou thermique, doit être mise en place sur les toits ou les façades. Les cantons peuvent étendre cette obligation aux bâtiments d’une surface égale ou inférieure à 300 m<sup>2</sup>.
+
+<sup>2</sup>
+
+Les cantons règlent les exceptions, notamment pour les cas où la mise en place d’une installation solaire:
+
+- a. est contraire à d’autres prescriptions de droit public;
+- b. n’est pas possible sur le plan technique, ou
+- c. est disproportionnée du point de vue économique.
+
+<sup>3</sup> Jusqu’à l’entrée en vigueur des dispositions légales cantonales, les gouvernements cantonaux règlent les exceptions par voie d’ordonnance.
+
+<sup>4</sup> Les cantons qui, au 1<sup>er</sup> janvier 2023 au plus tard, ont introduit des exigences relatives à la production propre de courant dans les nouvelles constructions selon la section E du modèle de prescriptions énergétiques des cantons (édition 2014), ou des exigences qui vont encore plus loin, sont exemptés de la mise en œuvre des al. 1 à 3.
+
+[^45a-1]: Introduit par le ch. I de la LF du 30 sept. 2022 (Mesures urgentes visant à assurer rapidement l’approvisionnement en électricité pendant l’hiver), en vigueur du 1<sup>er</sup> oct. 2022 au 31 déc. 2025 ([RO 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543); [FF 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
+
+#### Art. 45b
+
+**Utilisation de l’énergie solaire pour les infrastructures de la Confédération**[^45b-1]
+
+<sup>1</sup> L’énergie solaire doit être utilisée au mieux sur les surfaces d’infrastructures de la Confédération qui s’y prêtent. Ces surfaces doivent être équipées pour produire de l’énergie solaire d’ici à 2030.
+
+<sup>2</sup> Le Conseil fédéral règle le cadre général et les détails.
+
+[^45b-1]: Introduit par le ch. I de la LF du 30 sept. 2022 (Mesures urgentes visant à assurer rapidement l’approvisionnement en électricité pendant l’hiver), en vigueur du 1<sup>er</sup> oct. 2022 au 31 déc. 2025 ([RO 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543); [FF 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
 
 #### Art. 46
 
@@ -1107,6 +1139,63 @@ Est puni d’une amende de 100 000 francs au plus quiconque, intentionnellement:
 
 ## Chapitre 14 Dispositions finales
 
+#### Art. 71a
+
+**Dispositions transitoires relatives à la modification du 30 septembre 2022 (production supplémentaire d’électricité provenant de grandes installations photovoltaïques)**[^71a-1]
+
+<sup>1</sup>
+
+Jusqu’à ce que la construction en Suisse de grandes installations photovoltaïques au sens de l’al. 2 permette une production annuelle totale de 2 TWh, les conditions suivantes s’appliquent à ces installations ainsi qu’à leurs lignes de raccordement:
+
+- a. leur nécessité est démontrée;
+- b. elles sont considérées comme des constructions relevant d’un intérêt national et dont l’implantation est imposée par leur destination; pour les installations situées dans les objets visés à l’art. 5 LPN[^71a-2], l’obligation de ménager l’objet le plus possible, y compris au moyen de mesures de reconstitution ou de remplacement, demeure s’il est dérogé au principe de conservation intacte;
+- c. elles ne sont pas soumises à l’obligation d’aménager le territoire;
+- d. l’intérêt de les réaliser prime en principe d’autres intérêts nationaux, régionaux et locaux;
+- e.
+
+  leur mise en place est exclue dans:
+
+  - 1\. les marais et les sites marécageux visés à l’art. 78, al. 5, de la Constitution,
+  - 2\. les biotopes d’importance nationale visés à l’art. 18*a*, LPN, et
+  - 3\. les réserves de sauvagine et d’oiseaux migrateurs visées à l’art. 11 de la loi du 20 juin 1986 sur la chasse[^71a-3].
+
+<sup>2</sup>
+
+Les grandes installations photovoltaïques sont celles qui remplissent les exigences suivantes:
+
+- a. la production minimale annuelle doit s’élever à 10 GWh, et
+- b. la production d’électricité du 1<sup>er</sup> octobre au 31 mars (semestre d’hiver) est d’au moins 500 kWh pour 1 kW de puissance installée.
+
+<sup>3</sup> L’autorisation pour une grande installation photovoltaïque est délivrée par le canton avec l’accord de la commune concernée et du propriétaire foncier.
+
+<sup>4</sup> Les installations qui ont, au moins en partie, injecté de l’électricité dans le réseau d’ici au 31 décembre 2025 reçoivent de la Confédération une rétribution unique s’élevant au maximum à 60 % des coûts d’investissement. Le Conseil fédéral fixe les taux au cas par cas; les exploitants fournissent à cet effet un calcul de rentabilité. Tout renforcement des réseaux nécessaire à l’injection de l’électricité produite par ces installations fait partie des services-système de la société nationale du réseau de transport.
+
+<sup>5</sup> Lors de leur mise hors service définitive, les installations sont complètement démantelées et la situation antérieure est rétablie.
+
+<sup>6</sup> Le présente article reste applicable aux demandes mises à l’enquête publique avant le 31 décembre 2025 ainsi qu’aux éventuelles procédures de recours.
+
+[^71a-1]: Introduit par le ch. I de la LF du 30 sept. 2022 (Mesures urgentes visant à assurer rapidement l’approvisionnement en électricité pendant l’hiver), en vigueur du 1<sup>er</sup> oct. 2022 au 31 déc. 2025 ([RO 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543); [FF 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
+[^71a-2]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^71a-3]: [RS 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
+
+#### Art. 71b
+
+**Dispositions transitoires relatives à la modification du 30 septembre 2022 (production d’électricité supplémentaire à l’aide de centrales hydroélectriques à accumulation)**[^71b-1]
+
+<sup>1</sup>
+
+Les conditions suivantes s’appliquent à l’extension de la centrale hydroélectrique à accumulation visée à l’al. 2:
+
+- a. sa nécessité est démontrée;
+- b. elle n’est pas soumise à l’obligation d’aménager le territoire;
+- c. l’intérêt de la réaliser prime en principe d’autres intérêts nationaux, régionaux et locaux.
+
+<sup>2</sup> Dans le cadre du projet du Grimsel (commune de Guttannen [BE]) qui prévoit le rehaussement du barrage de 23 m et le déplacement de la route du col, l’al. 1 s’applique à toutes les mesures nécessaires à la réalisation du projet et requises pour une utilisation raisonnée de la force hydraulique au sein de la centrale.
+
+<sup>3</sup> Le présente article reste applicable aux demandes mises à l’enquête publique avant le 31 décembre 2025 ainsi qu’aux éventuelles procédures de recours.
+
+[^71b-1]: Introduit par le ch. I de la LF du 30 sept. 2022 (Mesures urgentes visant à assurer rapidement l’approvisionnement en électricité pendant l’hiver), en vigueur du 1<sup>er</sup> oct. 2022 au 31 déc. 2025 ([RO 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543); [FF 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
+
 #### Art. 72
 
 **Dispositions transitoires relatives au système de rétribution de l’injection et au supplément**
@@ -1179,6 +1268,14 @@ En ce qui concerne les contrats existants liant les gestionnaires de réseau à 
 **Disposition transitoire relative au remboursement du supplément**
 
 Pour les consommateurs finaux qui ont conclu une convention d’objectifs selon l’ancien droit, l’obligation de consacrer au moins 20 % du montant remboursé à des mesures visant à accroître leur efficacité énergétique est supprimée pour les périodes de remboursement ultérieures à l’entrée en vigueur de la présente loi.
+
+#### Art. 75a
+
+**Disposition transitoire relative à la modification du 30 septembre 2022 (obligation d’utiliser l’énergie solaire pour les bâtiments)**[^75a-1]
+
+Les cantons édictent les exceptions visées à l’art. 45*a*, al. 2, d’ici au 1<sup>er</sup> janvier 2023. Les demandes déposées avant cette date ne sont pas soumises à l’obligation prévue à l’art. 45*a*, al. 1.
+
+[^75a-1]: Introduit par le ch. I de la LF du 30 sept. 2022 (Mesures urgentes visant à assurer rapidement l’approvisionnement en électricité pendant l’hiver), en vigueur du 1<sup>er</sup> oct. 2022 au 31 déc. 2025 ([RO 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543); [FF 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
 
 #### Art. 76
 

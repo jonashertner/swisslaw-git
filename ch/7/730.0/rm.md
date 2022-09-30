@@ -4,11 +4,11 @@ title: "Lescha dals 30 da settember 2016 d'energia (LEn)"
 short: LEn
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/762"
 language: rm
-version: 2021-01-01
+version: 2022-10-01
 adopted: 2016-09-30
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/762/20210101/rm/xml/fedlex-data-admin-ch-eli-cc-2017-762-20210101-rm-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20210101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/762/20221001/rm/xml/fedlex-data-admin-ch-eli-cc-2017-762-20221001-rm-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20221001/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (LEn)
 
-dals 30 da settember 2016 (versiun dal 1. da schaner 2021)
+dals 30 da settember 2016 (versiun dal 1. d’october 2022)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -549,6 +549,7 @@ Cun il supplement da rait vegnan finanziads:
 - b. ils custs per indemnisaziuns per la furniziun d’electricitad che n’èn betg cuvrids tras ils pretschs da martgà tenor il dretg vegl;
 - c. ils custs per las indemnisaziuns dals custs supplementars tenor l’artitgel 73 alinea 4 che n’èn betg cuvrids tras ils pretschs da martgà;
 - d. l’indemnisaziun unica tenor l’artitgel 25 e las contribuziuns d’investiziun tenor ils artitgels 26 e 27;
+- d<sup>bis</sup>.[^35-1] l’indemnisaziun unica tenor l’artitgel 71*a* alinea 4;
 - e. la premia da martgà per l’electricitad producida en ovras idraulicas grondas tenor l’artitgel 30;
 - f. ils custs da las publicaziuns da concurrenza uffizialas tenor l’artitgel 32;
 - g. las contribuziuns d’exploraziun per la geotermia e las perditas da garanzias per la geotermia tenor l’artitgel 33;
@@ -557,6 +558,8 @@ Cun il supplement da rait vegnan finanziads:
 - j. ils custs dal UFE che resultan per el da sias incumbensas envers l’organ executiv.
 
 <sup>3</sup> Il supplement da rait importa maximalmain 2,3 raps/kWh. Il Cussegl federal fixescha quel tenor ils basegns.
+
+[^35-1]: Integrà tras la cifra I da la LF dals 30 da sett. 2022 (mesiras urgentas per garantir a curta vista il provediment d’electricitad durant l’enviern), en vigur dal 1. d’oct. 2022 fin ils 31 da dec. 2025 ([AS 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543); [BBl 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
 
 #### Art. 36
 
@@ -722,6 +725,36 @@ Ils chantuns decreteschan en spezial prescripziuns concernent:
 <sup>4</sup> Cun decretar las prescripziuns tenor l’alinea 3 litera d resguardan ils chantuns, ch’en cas d’edifizis stgaudads che cuntanschan almain il standard da Minergie, da MoPEC u in standard da construcziun cumparegliabel na vegn in surpassament da maximalmain 20 cm chaschunà tras l’isolaziun termica u tras indrizs per la meglra utilisaziun d’energias regenerablas indigenas, betg quintà tar la calculaziun en spezial da l’autezza da l’edifizi, da las distanzas tranter ils edifizis, da la distanza dal cunfin, da la distanza da las auas, da la distanza da las vias u da la distanza da las plazzas da parcar sco er tar las lingias da construcziun.
 
 <sup>5</sup> Els decreteschan prescripziuns unitaras concernent l’indicaziun dal consum d’energia d’edifizis (certificat energetic dals edifizis). Els pon fixar ch’il certificat energetic è obligatoric per lur territori chantunal; sch’els prevesan in obligatori, fixeschan els, en tge cas ch’il certificat energetic è obligatoric.
+
+#### Art. 45a
+
+**Obligaziun da trair a niz l’energia solara tar edifizis**[^45a-1]
+
+<sup>1</sup> Sin ils tetgs u vi da las fatschadas d’edifizis novs cun ina surfatscha imputabla da passa 300 m<sup>2</sup> sto vegnir installà in implant solar, per exempel in implant fotovoltaic u in implant termic. Ils chantuns pon prevair questa obligaziun er per edifizis cun ina surfatscha imputabla da 300 m<sup>2</sup> u damain.
+
+<sup>2</sup>
+
+Ils chantuns reglan las excepziuns, en spezial sche l’installaziun d’in implant solar:
+
+- a. s’oppona ad autras prescripziuns da dretg public;
+- b. n’è tecnicamain betg pussaivla; u
+- c. è sproporziunada en reguard economic.
+
+<sup>3</sup> Fin a l’entrada en vigur da las disposiziuns legalas chantunalas davart las excepziuns reglan las regenzas chantunalas questas excepziuns en furma d’ordinaziuns.
+
+<sup>4</sup> Ils chantuns che han introducì fin il 1. da schaner 2023 las directivas concernent la producziun d’atgna electricitad tar edifizis novs tenor la part E dal Model da prescripziuns energeticas dals chantuns MoPEC 2014 u prescripziuns pli severas, na ston betg exequir ils alineas 1–3.
+
+[^45a-1]: Integrà tras la cifra I da la LF dals 30 da sett. 2022 (mesiras urgentas per garantir a curta vista il provediment d’electricitad durant l’enviern), en vigur dal 1. d’oct. 2022 fin ils 31 da dec. 2025 ([AS 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543); [BBl 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
+
+#### Art. 45b
+
+**Trair a niz l’energia solara tar infrastructuras da la Confederaziun**[^45b-1]
+
+<sup>1</sup> Sin las surfatschas da las infrastructuras da la Confederaziun, ch’èn adattadas per quest intent, sto l’energia solara vegnir nizzegiada il meglier pussaivel. Questas surfatschas ston vegnir equipadas cun implants solars fin l’onn 2030.
+
+<sup>2</sup> Il Cussegl federal regla las cundiziuns generalas ed ils detagls.
+
+[^45b-1]: Integrà tras la cifra I da la LF dals 30 da sett. 2022 (mesiras urgentas per garantir a curta vista il provediment d’electricitad durant l’enviern), en vigur dal 1. d’oct. 2022 fin ils 31 da dec. 2025 ([AS 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543); [BBl 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
 
 #### Art. 46
 
@@ -1095,6 +1128,63 @@ Cun ina multa fin a 100 000 francs vegn chastià, tgi che fa intenziunadamain il
 
 ## 14. chapitel Disposiziuns finalas
 
+#### Art. 71a
+
+**Disposiziun transitorica da la midada dals 30 da settember 2022 (producziun d’electricitad supplementara tras implants fotovoltaics gronds)**[^71a-1]
+
+<sup>1</sup>
+
+Fin che l’installaziun d’implants fotovoltaics gronds tenor l’alinea 2 permetta da producir en Svizra tut en tut 2 TWh per onn, valan las suandantas cundiziuns per tals implants sco er per lur conducts d’attatg:
+
+- a. lur basegn è cumprovà;
+- b. els èn d’in interess naziunal ed èn liads al lieu; en cas d’implants en objects tenor l’artitgel 5 LPNP[^71a-2] resta en vigur l’obligaziun da schanegiar uschè bain sco pussaivel l’object, e quai cun prender mesiras da restabiliment u da cumpensaziun, sch’i vegn divergià dal princip d’in mantegniment intact;
+- c. els n’èn betg suttamess a l’obligaziun da planisaziun;
+- d. l’interess d’als realisar ha da princip la precedenza envers auters interess naziunals, regiunals e locals;
+- e.
+
+  els èn exclus en:
+
+  - 1\. palids e cuntradas da palì tenor l’artitgel 78 alinea 5 da la Constituziun federala,
+  - 2\. biotops d’impurtanza naziunala tenor l’artitgel 18*a* LPNP, e
+  - 3\. en reservats d’utschels da l’aua e d’utschels migrants tenor l’artitgel 11 da la Lescha da chatscha dals 20 da zercladur 1986[^71a-3].
+
+<sup>2</sup>
+
+Ils implants fotovoltaics gronds ston ademplir las suandantas premissas:
+
+- a. la producziun annuala minimala importa 10 GWh; e
+- b. la producziun d’electricitad dal 1. d’october fin ils 31 da mars (mez onn d’enviern) importa almain 500 kWh per 1 kW prestaziun installada.
+
+<sup>3</sup> La permissiun per implants fotovoltaics gronds vegn concedida dal chantun, premess ch’il consentiment da la vischnanca da staziunament e dals proprietaris dal terren saja avant maun.
+
+<sup>4</sup> Per implants che furneschan almain per part electricitad a la rait electrica fin ils 31 da december 2025, paja la Confederaziun ina indemnisaziun unica da maximalmain 60 pertschient dals custs d’investiziun. Il Cussegl federal fixescha las tariffas en il cas singul; per quest intent inoltreschan ils gestiunaris ina calculaziun da rentabilitad. Rinforzaments da la rait che daventan necessaris per la furniziun d’electricitad dals implants, fan part dals servetschs da sistem da la societad naziunala da raits d’electricitad.
+
+<sup>5</sup> Cura ch’ils implants vegnan mess definitivamain ord funcziun, vegnan els demontads cumplettamain, e la situaziun oriunda vegn restabilida.
+
+<sup>6</sup> Quest artitgel resta applitgabel per dumondas che vegnan exponidas publicamain fin ils 31 da december 2025 sco er per eventualas proceduras da recurs.
+
+[^71a-1]: Integrà tras la cifra I da la LF dals 30 da sett. 2022 (mesiras urgentas per garantir a curta vista il provediment d’electricitad durant l’enviern), en vigur dal 1. d’oct. 2022 fin ils 31 da dec. 2025 ([AS 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543); [BBl 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
+[^71a-2]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^71a-3]: [SR 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
+
+#### Art. 71b
+
+**Disposiziun transitorica da la midada dals 30 da settember 2022 (producziun d’electricitad supplementara tras ovras idroelectricas d’accumulaziun)**[^71b-1]
+
+<sup>1</sup>
+
+Per amplifitgar l’ovra idroelectrica d’accumulaziun tenor l’alinea 2 valan las suandantas cundiziuns:
+
+- a. il basegn è cumprovà;
+- b. ella n’è betg suttamessa a l’obligaziun da planisaziun;
+- c. l’interess da la realisar ha da princip la precedenza envers auters interess naziunals, regiunals e locals.
+
+<sup>2</sup> En il rom dal project dal Grimsel (vischnanca da Guttannen [BE]), che prevesa d’auzar il Lai dal Grimsel per 23 meters e da spustar la via dal pass dal Grimsel, vala l’alinea 1 per tut las mesiras ch’èn necessarias per realisar il project e per trair a niz la forza idraulica en moda raziunala entaifer il sistem da l’ovra electrica.
+
+<sup>3</sup> Quest artitgel resta applitgabel per dumondas che vegnan exponidas publicamain fin ils 31 da december 2025 sco er per eventualas proceduras da recurs.
+
+[^71b-1]: Integrà tras la cifra I da la LF dals 30 da sett. 2022 (mesiras urgentas per garantir a curta vista il provediment d’electricitad durant l’enviern), en vigur dal 1. d’oct. 2022 fin ils 31 da dec. 2025 ([AS 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543); [BBl 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
+
 #### Art. 72
 
 **Disposiziuns transitoricas tar il sistem d’indemnisaziun per la furniziun d’electricitad e tar il supplement da rait**
@@ -1167,6 +1257,14 @@ Per contracts existents tranter ils gestiunaris da raits ed ils producents indep
 
 Per consuments finals che han fatg ina cunvegna da finamiras tenor il dretg vertent scada, per las periodas da restituziun suenter l’entrada en vigur da questa lescha, l’obligaziun d’investir almain 20 pertschient da la summa da restituziun per mesiras da l’effizienza energetica.
 
+#### Art. 75a
+
+**Disposiziun transitorica da la midada dals 30 da settember 2022 (obligaziun da trair a niz l’energia solara tar edifizis)**[^75a-1]
+
+Ils chantuns decreteschan las disposiziuns davart las excepziuns tenor l’artitgel 45*a* alinea 2 fin il 1. da schaner 2023. Las dumondas che vegnan inoltradas avant questa data, n’èn betg suttamessas a l’obligaziun tenor l’artitgel 45*a* alinea 1.
+
+[^75a-1]: Integrà tras la cifra I da la LF dals 30 da sett. 2022 (mesiras urgentas per garantir a curta vista il provediment d’electricitad durant l’enviern), en vigur dal 1. d’oct. 2022 fin ils 31 da dec. 2025 ([AS 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543); [BBl 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
+
 #### Art. 76
 
 **Aboliziun e midada d’auters decrets**
@@ -1199,7 +1297,7 @@ II
 
 Ils decrets qua sutvart vegnan midads sco suonda:
 
-…[^annexu1-lvlu1-2]
+...[^annexu1-lvlu1-2]
 
-[^annexu1-lvlu1-1]: [[AS 1999 197](https://fedlex.data.admin.ch/eli/oc/1999/27), [2004 4719](https://fedlex.data.admin.ch/eli/oc/2004/723)agiunta cifra II 6, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)agiunta cifra 69, [2007 3425](https://fedlex.data.admin.ch/eli/oc/2007/418)agiunta cifra 2, [2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620)cifra II 2 [5061](https://fedlex.data.admin.ch/eli/oc/2010/727)cifra I 2 [5065](https://fedlex.data.admin.ch/eli/oc/2010/728), [2012 3231](https://fedlex.data.admin.ch/eli/oc/2012/370), [2013 4505](https://fedlex.data.admin.ch/eli/oc/2013/794), [2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197)cifra II]
+[^annexu1-lvlu1-1]: [[AS 1999 197](https://fedlex.data.admin.ch/eli/oc/1999/27); [2004 4719](https://fedlex.data.admin.ch/eli/oc/2004/723)agiunta cifra II 6; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)agiunta cifra 69; [2007 3425](https://fedlex.data.admin.ch/eli/oc/2007/418)agiunta cifra 2; [2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620)cifra II 2, [5061](https://fedlex.data.admin.ch/eli/oc/2010/727)cifra I 2, [5065](https://fedlex.data.admin.ch/eli/oc/2010/728); [2012 3231](https://fedlex.data.admin.ch/eli/oc/2012/370); [2013 4505](https://fedlex.data.admin.ch/eli/oc/2013/794); [2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197)cifra II]
 [^annexu1-lvlu1-2]: Las midadas pon vegnir consultadas en la [AS 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762).

@@ -4,11 +4,11 @@ title: "Legge federale sull'energia del 30 settembre 2016 (LEne)"
 short: LEne
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/762"
 language: it
-version: 2021-01-01
+version: 2022-10-01
 adopted: 2016-09-30
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/762/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2017-762-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/762/20221001/it/xml/fedlex-data-admin-ch-eli-cc-2017-762-20221001-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20221001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20210101/it"
 
 (LEne)
 
-del 30 settembre 2016 (Stato 1° gennaio 2021)
+del 30 settembre 2016 (Stato 1° ottobre 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -551,9 +551,10 @@ Con il supplemento rete sono finanziati:
 - b. i costi non coperti dai prezzi di mercato per la rimunerazione dell’immissione di elettricità secondo il diritto anteriore;
 - c. le spese[^35-1] supplementari secondo l’articolo 73 capoverso 4 non coperte dai prezzi di mercato;
 - d. la rimunerazione unica secondo l’articolo 25 e i contributi d’investimento secondo gli articoli 26 e 27;
+- d<sup>bis</sup>.[^35-2] la rimunerazione unica secondo l’articolo 71*a* capoverso 4;
 - e. il premio di mercato per l’elettricità proveniente da grandi impianti idroelettrici secondo l’articolo 30;
 - f. i costi dei bandi di gara di cui all’articolo 32;
-- g. i contributi per l’esplorazione geotermica[^35-2] e le perdite derivanti dalle garanzie per la geotermia di cui all’articolo 33;
+- g. i contributi per l’esplorazione geotermica[^35-3] e le perdite derivanti dalle garanzie per la geotermia di cui all’articolo 33;
 - h. l’indennizzo di cui all’articolo 34;
 - i. i rispettivi costi di esecuzione, in particolare i costi indispensabili dell’organo d’esecuzione;
 - j. i costi a carico dell’UFE risultanti dai suoi compiti nei confronti dell’organo d’esecuzione.
@@ -561,7 +562,8 @@ Con il supplemento rete sono finanziati:
 <sup>3</sup> Il supplemento rete ammonta al massimo a 2,3 ct./kWh. Il Consiglio federale lo fissa in funzione dei bisogni.
 
 [^35-1]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
-[^35-2]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^35-2]: Introdotta dal n. I della LF del 30 set. 2022 (Misure urgenti volte a garantire a breve termine l’approvvigionamento elettrico durante l’inverno), in vigore dal 1° ott. 2022 dal 31 dic. 2025 ([RU 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543); [FF 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
+[^35-3]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
 
 #### Art. 36
 
@@ -731,6 +733,36 @@ I Cantoni emanano in particolare disposizioni concernenti:
 <sup>4</sup> Nell’emanare le disposizioni di cui al capoverso 3 lettera d i Cantoni prevedono che negli edifici riscaldati che soddisfano almeno lo standard Minergie, lo standard MoPEC o uno standard edilizio equivalente, un superamento di 20 cm al massimo, causato dall’isolamento termico o da un impianto per un migliore impiego delle energie rinnovabili indigene, non sia considerato nel calcolo in particolare dell’altezza dell’edificio, della distanza tra edifici, della distanza dai confini, della distanza dalle acque, della distanza dalle strade o della distanza dal parcheggio e nell’ambito degli allineamenti.
 
 <sup>5</sup> I Cantoni emanano prescrizioni uniformi sull’indicazione del consumo energetico degli edifici (certificato energetico degli edifici). Possono dichiarare obbligatorio tale certificato per il loro territorio cantonale; se prevedono tale obbligo, ne definiscono il campo d’applicazione.
+
+#### Art. 45a
+
+**Obbligo di sfruttamento dell’energia solare per gli edifici**[^45a-1]
+
+<sup>1</sup> I tetti o le facciate degli edifici nuovi con una superficie determinante superiore a 300 m<sup>2</sup> vanno dotati di impianti solari, in particolare fotovoltaici o termici. I Cantoni possono estendere tale obbligo agli edifici con una superficie determinante pari o inferiore a 300 m<sup>2</sup>.
+
+<sup>2</sup>
+
+I Cantoni disciplinano le eccezioni, in particolare per i casi in cui l’installazione di un impianto solare:
+
+- a. violi altre prescrizioni di diritto pubblico;
+- b. non sia tecnicamente possibile; o
+- c. sia sproporzionata dal punto di vista economico.
+
+<sup>3</sup> Sino all’entrata in vigore delle disposizioni di legge cantonali i Governi cantonali disciplinano le eccezioni mediante ordinanza.
+
+<sup>4</sup> I Cantoni che entro il 1° gennaio 2023 hanno introdotto requisiti relativi alla produzione propria di energia negli edifici nuovi secondo la sezione E del Modello di prescrizioni energetiche dei Cantoni (MoPEC 2014) o requisiti più severi sono esentati dall’attuazione dei capoversi 1−3.
+
+[^45a-1]: Introdotto dal n. I della LF del 30 set. 2022 (Misure urgenti volte a garantire a breve termine l’approvvigionamento elettrico durante l’inverno), in vigore dal 1° ott. 2022 dal 31 dic. 2025 ([RU 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543); [FF 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
+
+#### Art. 45b
+
+**Sfruttamento dell’energia solare per le infrastrutture della Confederazione**[^45b-1]
+
+<sup>1</sup> L’energia solare va sfruttata nel miglior modo possibile sulle superfici delle infrastrutture della Confederazione che si prestano a tale scopo. Dette superfici devono essere equipaggiate per produrre energia solare entro il 2030.
+
+<sup>2</sup> Il Consiglio federale disciplina il quadro generale e i dettagli.
+
+[^45b-1]: Introdotto dal n. I della LF del 30 set. 2022 (Misure urgenti volte a garantire a breve termine l’approvvigionamento elettrico durante l’inverno), in vigore dal 1° ott. 2022 dal 31 dic. 2025 ([RU 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543); [FF 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
 
 #### Art. 46
 
@@ -1106,6 +1138,63 @@ Tutte le persone incaricate dell’esecuzione della presente legge sottostanno a
 
 ## Capitolo 14: Disposizioni finali
 
+#### Art. 71a
+
+**Disposizione transitoria della modifica del 30 settembre 2022 (produzione di elettricità supplementare mediante grandi impianti fotovoltaici)**[^71a-1]
+
+<sup>1</sup>
+
+Ai grandi impianti fotovoltaici che soddisfano i requisiti di cui al capoverso 2, nonché alle relative linee di allacciamento, si applicano, fino a quando in Svizzera non sono realizzati impianti che producono complessivamente 2 TWh di energia, le condizioni seguenti:
+
+- a. la loro necessità è comprovata;
+- b. sono di interesse nazionale e a ubicazione vincolata; per gli impianti situati in oggetti di cui all’articolo 5 LPN[^71a-2] l’obbligo di salvaguardare detti oggetti per quanto possibile, per mezzo di provvedimenti di ripristino o di sostituzione, rimane applicabile anche in caso di deroga al principio di conservarli intatti;
+- c. non sottostanno all’obbligo di pianificazione;
+- d. l’interesse alla loro realizzazione prevale in linea di principio su altri interessi nazionali, regionali e locali;
+- e.
+
+  la loro realizzazione è esclusa:
+
+  - 1\. nelle paludi e nei paesaggi palustri di cui all’articolo 78 capoverso 5 della Costituzione federale,
+  - 2\. nei biotopi d’importanza nazionale di cui all’articolo 18*a* LPN, e
+  - 3\. nelle riserve per uccelli acquatici e di passo di cui all’articolo 11 della legge del 20 giugno 1986[^71a-3] sulla caccia.
+
+<sup>2</sup>
+
+I grandi impianti fotovoltaici devono soddisfare i requisiti seguenti:
+
+- a. la produzione annua minima è pari a 10 GWh;
+- b. la produzione di energia nel periodo compreso tra il 1° ottobre e il 31 marzo (semestre invernale) è di almeno 500 kWh per 1 kW di potenza installata.
+
+<sup>3</sup> Il Cantone concede l’autorizzazione per i grandi impianti fotovoltaici se il Comune di ubicazione e i proprietari fondiari hanno dato il loro consenso alla realizzazione.
+
+<sup>4</sup> Per gli impianti che entro il 31 dicembre 2025 immettono almeno parzialmente elettricità nella rete la Confederazione versa un’indennità unica pari al massimo al 60 per cento dei costi di investimento. Il Consiglio federale stabilisce le aliquote nel singolo caso; i gestori degli impianti forniscono il relativo calcolo della redditività. Eventuali rafforzamenti della rete necessari all’immissione di elettricità prodotta dagli impianti fanno parte delle prestazioni di servizio relative al sistema della società nazionale di rete.
+
+<sup>5</sup> Alla loro messa fuori servizio definitiva, gli impianti sono smantellati completamente e la situazione iniziale è ripristinata.
+
+<sup>6</sup> Il presente articolo rimane applicabile alle domande depositate pubblicamente entro il 31 dicembre 2025 nonché alle eventuali procedure di ricorso.
+
+[^71a-1]: Introdotto dal n. I della LF del 30 set. 2022 (Misure urgenti volte a garantire a breve termine l’approvvigionamento elettrico durante l’inverno), in vigore dal 1° ott. 2022 dal 31 dic. 2025 ([RU 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543); [FF 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
+[^71a-2]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^71a-3]: [RS 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
+
+#### Art. 71b
+
+**Disposizione transitoria della modifica del 30 settembre 2022 (produzione di elettricità supplementare mediante impianti idroelettrici ad accumulazione)**[^71b-1]
+
+<sup>1</sup>
+
+All’ampliamento della centrale idroelettrica ad accumulazione di cui al capoverso 2 si applicano le condizioni seguenti:
+
+- a. la sua necessità è comprovata;
+- b. non sottostà all’obbligo di pianificazione;
+- c. l’interesse alla sua realizzazione prevale in linea di principio su altri interessi nazionali, regionali e locali.
+
+<sup>2</sup> Nell’ambito del progetto del Grimsel (Comune di Guttannen [BE]), che prevede l’innalzamento di 23 metri della diga e lo spostamento della strada del passo, il capoverso 1 si applica a tutte le misure necessarie alla realizzazione del progetto e allo sfruttamento razionale della forza idrica all’interno della centrale.
+
+<sup>3</sup> Il presente articolo rimane applicabile alle domande depositate pubblicamente entro il 31 dicembre 2025 nonché alle eventuali procedure di ricorso.
+
+[^71b-1]: Introdotto dal n. I della LF del 30 set. 2022 (Misure urgenti volte a garantire a breve termine l’approvvigionamento elettrico durante l’inverno), in vigore dal 1° ott. 2022 dal 31 dic. 2025 ([RU 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543); [FF 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
+
 #### Art. 72
 
 **Disposizioni transitorie relative al sistema di rimunerazione per l’immissione di elettricità e al supplemento rete**
@@ -1178,6 +1267,14 @@ Per quanto concerne i contratti vigenti tra gestori di rete e produttori indipen
 **Disposizione transitoria relativa al rimborso del supplemento rete**
 
 Per i consumatori finali che hanno concluso una convenzione sugli obiettivi secondo il diritto anteriore l’obbligo di impiegare almeno il 20 per cento dell’importo del rimborso per misure di efficienza energetica decade per i periodi di rimborso successivi all’entrata in vigore della presente legge.
+
+#### Art. 75a
+
+**Disposizione transitoria della modifica del 30 settembre 2022 (obbligo di sfruttamento dell’energia solare per gli edifici)**[^75a-1]
+
+I Cantoni emanano le disposizioni relative alle eccezioni di cui all’articolo 45*a* capoverso 2 entro il 1° gennaio 2023. Le domande presentate prima di tale data non sottostanno all’obbligo di cui all’articolo 45*a* capoverso 1.
+
+[^75a-1]: Introdotto dal n. I della LF del 30 set. 2022 (Misure urgenti volte a garantire a breve termine l’approvvigionamento elettrico durante l’inverno), in vigore dal 1° ott. 2022 dal 31 dic. 2025 ([RU 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543); [FF 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
 
 #### Art. 76
 
