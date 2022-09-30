@@ -3,16 +3,16 @@ sr: "0.632.401.2"
 title: Protokoll Nr. 2 vom 22. Juli 1972 über bestimmte landwirtschaftliche Verarbeitungserzeugnisse (mit Tabellen)
 eli: "https://fedlex.data.admin.ch/eli/cc/1972/3163_3217_2997"
 language: de
-version: 2021-03-01
+version: 2022-10-01
 adopted: 1972-07-22
 in_force: 1973-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1972/3163_3217_2997/20210301/de/xml/fedlex-data-admin-ch-eli-cc-1972-3163_3217_2997-20210301-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1972/3163_3217_2997/20210301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1972/3163_3217_2997/20221001/de/xml/fedlex-data-admin-ch-eli-cc-1972-3163_3217_2997-20221001-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1972/3163_3217_2997/20221001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Protokoll Nr. 2 über bestimmte landwirtschaftliche Verarbeitungserzeugnisse****
+# Protokoll Nr. 2 über bestimmte landwirtschaftliche Verarbeitungserzeugnisse
 
 AS **1972** 3163; BBl **1972** II 653[^t-1]
 
@@ -20,7 +20,7 @@ Originaltext
 
 Abgeschlossen am 22. Juli 1972 Von der Bundesversammlung genehmigt am 3. Oktober 1972[^t-2] Schweizerische. Ratifikation mitgeteilt am 21. Dezember 1972 In Kraft getreten am 1. Januar 1973
 
-(Stand am 1. März 2021)
+(Stand am 1. Oktober 2022)
 
 [^t-1]: Fassung gemäss Art. 1 Ziff. 2 des Abk. vom 26. Okt. 2004 zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft zur Änd. des Abk. zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Wirtschaftsgemeinschaft vom 22. Juli 1972 in Bezug auf die Bestimmungen über landwirtschaftliche Verarbeitungserzeugnisse, von der BVers genehmigt am 8. Dez. 2004, in Kraft seit 30. März 2005 ([AS 2005 1533](https://fedlex.data.admin.ch/eli/oc/2005/238); [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 [^t-2]: Art. 1 Abs. 1 des BB vom 3. Okt. 1972 ([AS 1972 3111](https://fedlex.data.admin.ch/eli/oc/1972/3111_3165_2945))
@@ -92,7 +92,7 @@ Im Anhang zu diesem Protokoll sind besondere Bestimmungen über die Verwaltungsz
 
 Der Gemischte Ausschuss kann beschliessen, die Tabellen, die Anhänge dieser Tabellen und den Anhang zu diesem Protokoll zu ändern.
 
-Tabelle I*[^t-3]*
+Tabelle I[^t-3]
 
 ## Erzeugnisse, für die Preisausgleichsmassnahmen gelten
 
@@ -157,7 +157,7 @@ Tabelle I*[^t-3]*
 <tr><td>[tab] ex</td><td>[tab] .90</td><td>[tab] – – andere als Caseinleime</td></tr>
 </table>
 
-Tabelle II*[^t-4]*
+Tabelle II[^t-4]
 
 ## Freihandelserzeugnisse
 
@@ -275,54 +275,54 @@ Tabelle II*[^t-4]*
 <tr><td>2209</td><td></td><td>Speiseessig</td></tr>
 </table>
 
-Tabelle III*[^t-5]*
+Tabelle III[^t-5]
 
 ## Referenzpreise der EU und der Schweiz auf dem Inlandsmarkt
 
-[^t-5]: Fassung gemäss Art. 1 Bst. a des Beschlusses Nr. 1/2021 des Gemischten Ausschusses Schweiz–EU vom 12. Febr. 2021, in Kraft seit 1. März 2021 ([AS 2021 137](https://fedlex.data.admin.ch/eli/oc/2021/137)).
+[^t-5]: Fassung gemäss Art. 1 Bst. a des Beschlusses Nr. 1/2022 des Gemischten Ausschusses Schweiz–EU vom 8. Sept. 2022, in Kraft seit 1. Okt. 2022 ([AS 2022 539](https://fedlex.data.admin.ch/eli/oc/2022/539)).
 
 <table>
-<tr><td>Landwirtschaftlicher Rohstoff</td><td>Referenzpreis auf dem Inlandsmarkt der Schweiz</td><td>Referenzpreis auf dem Inlandsmarkt der EU</td><td>**Art. 4 Abs. 1 auf Schweizer Seite angewendete** Referenzpreis- differenz Schweiz/EU</td><td>**Art. 3 Abs. 3 auf EU-Seite angewendete** Referenzpreis- differenz Schweiz/EU</td></tr>
-<tr><td></td><td>CHF je 100 kg Eigengewicht</td><td>CHF je 100 kg Eigengewicht</td><td>CHF je 100 kg Eigengewicht</td><td>EUR je 100 kg Eigengewicht</td></tr>
-<tr><td>Weichweizen</td><td>50,60</td><td>20,46</td><td>30,15</td><td>0,00</td></tr>
-<tr><td>Hartweizen</td><td>–</td><td>–</td><td>1,20</td><td>0,00</td></tr>
-<tr><td>Roggen</td><td>40,45</td><td>18,74</td><td>21,70</td><td>0,00</td></tr>
-<tr><td>Gerste</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
-<tr><td>Mais</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
-<tr><td>Weichweizenmehl</td><td>91,10</td><td>42,42</td><td>48,70</td><td>0,00</td></tr>
-<tr><td>Vollmilchpulver</td><td>601,45</td><td>321,47</td><td>280,00</td><td>0,00</td></tr>
-<tr><td>Magermilchpulver</td><td>402,60</td><td>200,98</td><td>201,60</td><td>0,00</td></tr>
-<tr><td>Butter</td><td>1 041,90</td><td>487,22</td><td>554,70</td><td>0,00</td></tr>
-<tr><td>Weisszucker</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
-<tr><td>Eier</td><td>–</td><td>–</td><td>38,00</td><td>0,00</td></tr>
-<tr><td>Kartoffeln, frisch</td><td>40,95</td><td>27,61</td><td>13,35</td><td>0,00</td></tr>
-<tr><td>Pflanzliche Fette</td><td>–</td><td>–</td><td>170,00</td><td>0,00</td></tr>
+<tr><th colspan="2">Landwirtschaftlicher Rohstoff</th><th>Referenzpreis auf dem Inlandsmarkt der Schweiz</th><th colspan="2">Referenzpreis auf dem Inlandsmarkt der EU</th><th colspan="2">**Art. 4 Abs. 1** **auf Schweizer Seite angewendete** Referenzpreis- differenz Schweiz/EU</th><th colspan="2">**Art. 3 Abs. 3** **auf EU-Seite** **angewendete** Referenzpreis- differenz Schweiz/EU</th></tr>
+<tr><th colspan="2"></th><th>CHF je 100 kg Eigengewicht</th><th colspan="2">CHF je 100 kg Eigengewicht</th><th colspan="2">CHF je 100 kg Eigengewicht</th><th colspan="2">EUR je 100 kg Eigengewicht</th></tr>
+<tr><td>Weichweizen</td><td colspan="2">51,80</td><td colspan="2">23,54</td><td colspan="2">28,25</td><td colspan="2">0,00</td></tr>
+<tr><td>Hartweizen</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">1,20</td><td colspan="2">0,00</td></tr>
+<tr><td>Roggen</td><td colspan="2">42,80</td><td colspan="2">18,50</td><td colspan="2">24,30</td><td colspan="2">0,00</td></tr>
+<tr><td>Gerste</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td></tr>
+<tr><td>Mais</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td></tr>
+<tr><td>Weichweizenmehl</td><td colspan="2">91,60</td><td colspan="2">46,68</td><td colspan="2">44,90</td><td colspan="2">0,00</td></tr>
+<tr><td>Vollmilchpulver</td><td colspan="2">629,60</td><td colspan="2">323,59</td><td colspan="2">306,00</td><td colspan="2">0,00</td></tr>
+<tr><td>Magermilchpulver</td><td colspan="2">420,10</td><td colspan="2">260,22</td><td colspan="2">159,90</td><td colspan="2">0,00</td></tr>
+<tr><td>Butter</td><td colspan="2">1128,35</td><td colspan="2">409,97</td><td colspan="2">718,40</td><td colspan="2">0,00</td></tr>
+<tr><td>Weisszucker</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td></tr>
+<tr><td>Eier</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">38,00</td><td colspan="2">0,00</td></tr>
+<tr><td>Kartoffeln, frisch</td><td colspan="2">40,05</td><td colspan="2">17,05</td><td colspan="2">23,00</td><td colspan="2">0,00</td></tr>
+<tr><td>Pflanzliche Fette</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">170,00</td><td colspan="2">0,00</td></tr>
 </table>
 
-Tabelle IV*[^t-6]*
+Tabelle IV[^t-6]
 
 ## Schweizerische Einfuhrreglung
 
-[^t-6]: Bereinigt durch Art. 1 des Beschlusses Nr. 2/2006 des Gemischten Ausschusses Schweiz–EU vom 31. Jan. 2006 ([AS 2006 1163](https://fedlex.data.admin.ch/eli/oc/2006/211)), Art. 1 Bst. c des Beschlusses Nr. 1/2017 des Gemischten Ausschusses Schweiz–EU vom 8. Febr. 2017 ([AS 2017 2149](https://fedlex.data.admin.ch/eli/oc/2017/192)), und Art. 1 Bst. b des Beschlusses Nr. 1/2021 des Gemischten Ausschusses Schweiz–EU vom 12. Febr. 2021, in Kraft seit 1. März 2021 ([AS 2021 137](https://fedlex.data.admin.ch/eli/oc/2021/137)).
+[^t-6]: Bereinigt durch Art. 1 des Beschlusses Nr. 2/2006 des Gemischten Ausschusses Schweiz–EU vom 31. Jan. 2006 ([AS 2006 1163](https://fedlex.data.admin.ch/eli/oc/2006/211)) und Art. 1 Bst. b des Beschlusses Nr. 1/2022 des Gemischten Ausschusses Schweiz–EU vom 8. Sept. 2022, in Kraft seit 1. Okt. 2022 ([AS 2022 539](https://fedlex.data.admin.ch/eli/oc/2022/539)).
 
 - a) Der Zoll auf die in der Anlage zu dieser Tabelle genannten Waren ist ein auf der Grundlage des Eigengewichts berechneter Agrarteilbetrag. Die Standardzusammensetzungen werden in der Anlage beschrieben.
 - b) Grundbeträge für die landwirtschaftlichen Rohstoffe, die bei der Berechnung der Agrarteilbeträge berücksichtigt werden:
 
 <table>
-<tr><td>Landwirtschaftlicher Rohstoff</td><td>**Auf Schweizer Seite angewendeter Grundbetrag** Art. 3 Abs. 2</td><td>**Auf EU-Seite angewendeter Grundbetrag** Art. 4 Abs. 2</td></tr>
-<tr><td></td><td>CHF je 100 kg Eigengewicht</td><td>EUR je 100 kg Eigengewicht</td></tr>
-<tr><td>Weichweizen</td><td>24,55</td><td>0,00</td></tr>
+<tr><th>Landwirtschaftlicher Rohstoff</th><th>**Auf Schweizer Seite** **angewendeter Grundbetrag** Art. 3 Abs. 2</th><th>**Auf EU-Seite** **angewendeter Grundbetrag** Art. 4 Abs. 2</th></tr>
+<tr><th></th><th>CHF je 100 kg Eigengewicht</th><th>EUR je 100 kg Eigengewicht</th></tr>
+<tr><td>Weichweizen</td><td>23,00</td><td>0,00</td></tr>
 <tr><td>Hartweizen</td><td>1,00</td><td>0,00</td></tr>
-<tr><td>Roggen</td><td>17,70</td><td>0,00</td></tr>
+<tr><td>Roggen</td><td>19,80</td><td>0,00</td></tr>
 <tr><td>Gerste</td><td>–</td><td>–</td></tr>
 <tr><td>Mais</td><td>–</td><td>–</td></tr>
-<tr><td>Weichweizenmehl</td><td>39,70</td><td>0,00</td></tr>
-<tr><td>Vollmilchpulver</td><td>227,80</td><td>0,00</td></tr>
-<tr><td>Magermilchpulver</td><td>164,30</td><td>0,00</td></tr>
-<tr><td>Butter</td><td>452,10</td><td>0,00</td></tr>
+<tr><td>Weichweizenmehl</td><td>36,60</td><td>0,00</td></tr>
+<tr><td>Vollmilchpulver</td><td>248,45</td><td>0,00</td></tr>
+<tr><td>Magermilchpulver</td><td>130,30</td><td>0,00</td></tr>
+<tr><td>Butter</td><td>570,15</td><td>0,00</td></tr>
 <tr><td>Weisszucker</td><td>–</td><td>–</td></tr>
 <tr><td>Eier</td><td>30,95</td><td>0,00</td></tr>
-<tr><td>Kartoffeln, frisch</td><td>10,90</td><td>0,00</td></tr>
+<tr><td>Kartoffeln, frisch</td><td>18,20</td><td>0,00</td></tr>
 <tr><td>Pflanzliche Fette</td><td>138,55</td><td>0,00</td></tr>
 </table>
 
@@ -357,6 +357,7 @@ Tabelle IV*[^t-6]*
 </table>
 
 - e) Die Tarifpositionen in dieser Tabelle beziehen sich auf die in der Schweiz am 1. Januar 2002 verwendeten Positionen. Abweichend von Artikel 12<sup>bis</sup> dieses Abkommens haben Änderungen, die gegebenenfalls an der Tarifnomenklatur vorgenommen werden, keinen Einfluss auf die Bestimmungen dieser Tabelle.
+- [tab]
 
 [^annexu1-lvlu1-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Anhang
 
@@ -590,6 +591,8 @@ In der folgenden Tabelle befinden sich die in Tabelle IV Absatz a (Schweizerisch
 <tr><td>ex 3501.9010</td><td>ausgenommen Caseinleime</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>301</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>ex 3501.9090</td><td>ausgenommen Caseinleime</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>301</td><td></td><td></td><td></td><td></td><td></td></tr>
 </table>
+
+- [tab]
 
 Anlage zu Protokoll Nr. 2
 
