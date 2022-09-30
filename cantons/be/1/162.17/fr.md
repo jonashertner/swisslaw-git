@@ -4,13 +4,13 @@ number: "162.17"
 title: Règlement sur la délégation de compétences en matière de personnel de la Cour suprême
 short: RDél CS
 language: fr
-version: 2015-04-01
-valid_until: 2022-09-30
-version_adopted: 2015-01-30
+version: 2022-10-01
+valid_until: 2023-12-31
+version_adopted: 2022-09-16
 adopted: 2015-01-30
 in_force: 2015-04-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/162.17"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/533/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2674/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/533/pdf_file"
 
 (RDél CS)
 
-du 30.01.2015 (état au 01.04.2015)
+du 30.01.2015 (état au 01.10.2022)
 
 La Cour suprême du canton de Berne,
 
@@ -66,12 +66,12 @@ arrête:
 
 **Compétences supplémentaires en matière de personnel des autorités judiciaires de première instance**
 
-<sup>1</sup> Les autorités judiciaires de première instance sont en outre compétentes concernant leurs collaborateurs et collaboratrices pour
+<sup>1</sup> Les autorités judiciaires de première instance sont en outre compétentes concernant leurs collaboratrices et collaborateurs pour
 
 - a définir le lieu où le travail est effectivement fourni (art. 8, al. 2 de l'ordonnance du 18 mai 2005 sur le personnel [OPers][^4-1]);
 - b considérer comme faisant partie du temps de travail le trajet jusqu'au lieu de travail si les indemnités au sens de l'article 27 OPers sont versées (art. 28 OPers);
 - c fixer le traitement de départ avec l'accord du secrétaire général ou de la secrétaire générale (art. 38, al. 1 OPers);
-- d accorder un congé payé pour une cure thermale ou de convalescence prescrite par un médecin (art. 59 OPers);
+- d …
 - e remettre les cartes d'avis de solde (art. 72 OPers);
 - f octroyer des primes de performance (art. 85 ss OPers);
 - g statuer sur les demandes de conversion de la prime de fidélité en rémunération (art. 99 OPers);
@@ -83,9 +83,9 @@ arrête:
 
 #### Art. 5
 
-**Réglementation pour les membres d'autorité, les activités annexes et les charges publiques**
+**Autorisation de congés payés pour l’exercice d’une activité accessoire ou d’une charge publique**
 
-<sup>1</sup> Le directoire de la Cour suprême est compétent pour accorder aux membres d'autorité des autorités judiciaires de première instance des jours de congé pour l'exercice d'une activité annexe ou d'une charge publique.
+<sup>1</sup> Le directoire de la Cour suprême est compétent pour octroyer des congés payés pour l’exercice d’une activité accessoire ou d’une charge publique des collaboratrices et collaborateurs (membres d'autorité et employés) des autorités judiciaires de première instance.
 
 #### Art. 6
 

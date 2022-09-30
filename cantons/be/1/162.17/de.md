@@ -4,13 +4,13 @@ number: "162.17"
 title: Reglement über die Delegation von Personalbefugnissen des Obergerichts
 short: DelR OG
 language: de
-version: 2015-04-01
-valid_until: 2022-09-30
-version_adopted: 2015-01-30
+version: 2022-10-01
+valid_until: 2023-12-31
+version_adopted: 2022-09-16
 adopted: 2015-01-30
 in_force: 2015-04-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/162.17"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/533/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2674/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/533/pdf_file"
 
 (DelR OG)
 
-vom 30.01.2015 (Stand 01.04.2015)
+vom 30.01.2015 (Stand 01.10.2022)
 
 Das Obergericht des Kantons Bern,
 
@@ -71,7 +71,7 @@ beschliesst:
 - a die Festlegung des Orts, an dem die Arbeit tatsächlich geleistet wird (Art. 8 Abs. 2 der Personalverordnung vom 18. Mai 2005 [PV][^4-1]);
 - b die Anrechnung des Arbeitswegs an die Arbeitszeit, sofern Entschädigungen gemäss Artikel 27 PV ausgerichtet werden (Art. 28 PV);
 - c die Festlegung des Anfangsgehalts mit Zustimmung der Generalsekretärin oder des Generalsekretärs (Art. 38 Abs. 1 PV);
-- d die Bewilligung eines bezahlten Urlaubs für eine ärztlich verordnete Bade- oder Erholungskur (Art. 59 PV);
+- d …
 - e die Abgabe der Soldmeldekarten (Art. 72 PV);
 - f die Ausrichtung von Leistungsprämien (Art. 85 ff. PV);
 - g den Entscheid über Gesuche um Umwandlung der Treueprämie in Entgelt (Art. 99 PV);
@@ -83,9 +83,9 @@ beschliesst:
 
 #### Art. 5
 
-**Regelung für Behördenmitglieder, Nebenbeschäftigung und öffentliche Ämter**
+**Bewilligung von bezahltem Urlaub für die Ausübung einer Nebenbeschäftigung oder eines öffentlichen Amtes**
 
-<sup>1</sup> Die Geschäftsleitung des Obergerichts ist bezüglich Behördenmitglieder der erstinstanzlichen Gerichtsbehörden zuständig für die Gewährung von Urlaubstagen für die Ausübung einer Nebenbeschäftigung oder eines öffentlichen Amtes.
+<sup>1</sup> Die Geschäftsleitung des Obergerichts ist zuständig für die Bewilligung von bezahltem Urlaub für die Ausübung einer Nebenbeschäftigung oder eines öffentlichen Amtes von Mitarbeiterinnen und Mitarbeitern (Behördenmitglieder und Angestellte) der erstinstanzlichen Gerichtsbehörden.
 
 #### Art. 6
 
