@@ -3,11 +3,11 @@ sr: "0.916.118.1"
 title: Internationales Kakao-Übereinkommen von 2010 vom 25. Juni 2010 (mit Anlagen)
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/690"
 language: de
-version: 2020-08-11
+version: 2022-10-01
 adopted: 2010-06-25
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/690/20200811/de/xml/fedlex-data-admin-ch-eli-cc-2012-690-20200811-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/690/20200811/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/690/20221001/de/xml/fedlex-data-admin-ch-eli-cc-2012-690-20221001-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/690/20221001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 12. Mai 2011
 
 Vorläufig in Kraft getreten für die Schweiz am 1. Oktober 2012
 
-(Stand am 11. August 2020)
+(Stand am 1. Oktober 2022)
 
 [^t-1]: [AS 2012 5857](https://fedlex.data.admin.ch/eli/oc/2012/689)
 
@@ -714,7 +714,7 @@ Vorbehalte zu diesem Übereinkommen sind nicht zulässig.
 
 #### Art. 62
 
-**Geltungsdauer, Verlängerung und Ausserkraftsetzung**
+**Geltungsdauer, Verlängerung und Ausserkraftsetzung**[^62-1]
 
 - 1\. Dieses Übereinkommen bleibt bis zum Ende des zehnten vollen Kakaojahr nach seinem Inkrafttreten in Kraft, sofern es nicht nach Absatz 4 verlängert oder nach Absatz 5 früher ausser Kraft gesetzt wird.
 - 2\. Der Rat überprüft dieses Übereinkommen fünf Jahre nach seinem Inkrafttreten und fasst geeignete Beschlüsse.
@@ -723,6 +723,8 @@ Vorbehalte zu diesem Übereinkommen sind nicht zulässig.
 - 5\. Der Rat kann jederzeit die Ausserkraftsetzung dieses Übereinkommens beschliessen. Es wird zu einem vom Rat zu beschliessenden Zeitpunkt ausser Kraft gesetzt; jedoch bleiben die Verpflichtungen der Mitglieder nach Artikel 25 bestehen, bis die finanziellen Verpflichtungen in Bezug auf die Durchführung dieses Übereinkommens erfüllt sind. Der Rat notifiziert dem Verwahrer jeden derartigen Beschluss.
 - 6\. Ungeachtet der Ausserkraftsetzung dieses Übereinkommens, gleichviel auf welche Weise, bleibt der Rat so lange weiter bestehen, wie es zur Auflösung der Organisation, zur Abrechnung der Konten und zur Veräusserung ihrer Vermögenswerte notwendig ist. Der Rat hat während dieser Zeit die notwendigen Befugnisse für die Erledigung aller Verwaltungs- und Finanzangelegenheiten.
 - 7\. Ungeachtet des Artikels 59 Absatz 2 setzt ein Mitglied, das sich nicht an diesem Übereinkommen in der nach diesem Artikel verlängerten Fassung beteiligen möchte, den Verwahrer und den Rat davon in Kenntnis. Dieses Mitglied hört mit Beginn des Verlängerungszeitraums auf, Vertragspartei dieses Übereinkommens zu sein.
+
+[^62-1]: Übereinkommen verlängert vom 1. Okt. 2022 bis zum 30. Sept. 2024 durch den Beschluss des Internationalen Kakaorats vom 6.–8. Juli 2021 ([AS 2022 418](https://fedlex.data.admin.ch/eli/oc/2022/418)).
 
 #### Art. 63
 
@@ -935,7 +937,7 @@ Anlage C
 <tr><td>Jamaika</td><td></td></tr>
 </table>
 
-Geltungsbereich am 11.August 2020**[^t-2]**
+Geltungsbereich am 11.August 2020[^t-2]
 
 Das Internationale Kakao-Übereinkommen ist gemäss seinem Artikel 57 Absatz 3 seit dem 1. Oktober 2012 zwischen den Staaten und der Europäischen Union untereinander ganz und vorläufig in Kraft getreten. Für weitere Staaten ist das Übereinkommen gemäss seinem Artikel 57 Absatz 4 ebenfalls ganz und vorläufig in Kraft getreten[^t-3]:
 

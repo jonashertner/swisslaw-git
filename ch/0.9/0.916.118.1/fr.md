@@ -3,11 +3,11 @@ sr: "0.916.118.1"
 title: "Accord international sur le cacao, 2010 du 25 juin 2010 (avec annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/690"
 language: fr
-version: 2020-08-11
+version: 2022-10-01
 adopted: 2010-06-25
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/690/20200811/fr/xml/fedlex-data-admin-ch-eli-cc-2012-690-20200811-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/690/20200811/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/690/20221001/fr/xml/fedlex-data-admin-ch-eli-cc-2012-690-20221001-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/690/20221001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification suisse déposé le 12 mai 2011
 
 Entré en vigueur pour la Suisse à titre provisoire le 1<sup>er</sup> octobre 2012
 
-(Etat le 11 août 2020)
+(Etat le 1<sup>er</sup> octobre 2022)
 
 [^t-1]: [RO 2012 5857](https://fedlex.data.admin.ch/eli/oc/2012/689)
 
@@ -117,7 +117,7 @@ Aux fins du présent Accord:
   L’Organisation exerce ses fonctions par l’intermédiaire:
 
   - a) du Conseil international du cacao, qui est l’autorité suprême de l’Organisation;
-  - b) des organes subsidiaires du Conseil, comprenant le Comité administratif et financier, le Comité économique, la Commission consultative sur l’économie cacaoyère mondiale et tout autre comité constitué par le Conseil; et
+  - b) des organes subsidiaires du Conseil, comprenant le Comité administratif et financier, le Comité économique, la Commission consultative sur l’économie cacaoyère mondiale et tout autre comité constitué par le Conseil, et
   - c) du Secrétariat.
 
 #### Art. 4
@@ -135,7 +135,7 @@ Aux fins du présent Accord:
 - 3\. Un Membre peut changer de catégorie aux conditions que le Conseil peut établir.
 - 4\. Deux Parties contractantes ou plus peuvent, par une notification appropriée au Conseil et au dépositaire, qui prendra effet à la date précisée par les Parties contractantes concernées et aux conditions convenues par le Conseil, déclarer qu’elles participent à l’Organisation en tant que groupe Membre.
 - 5\. Toute référence dans le présent Accord à «un gouvernement» ou «des gouvernements» est réputée valoir aussi pour l’Union européenne et pour toute organisation intergouvernementale ayant des responsabilités comparables dans la négociation, la conclusion et l’application d’accords internationaux, en particulier d’accords sur des produits de base. En conséquence, toute mention, dans le présent Accord, de la signature, de la ratification, de l’acceptation ou de l’approbation, ou de la notification d’application à titre provisoire, ou de l’adhésion, est, dans le cas desdites organisations intergouvernementales, réputée valoir aussi pour la signature, la ratification, l’acceptation ou l’approbation, ou pour la notification d’application à titre provisoire, ou pour l’adhésion, par ces organisations intergouvernementales.
-- 6\. En cas de vote sur des questions relevant de leur compétence, ces organisations intergouvernementales disposent d’un nombre de voix égal au nombre total de voix attribuées à leurs Etats Membres conformément à l’art. 10. En pareil cas, les Etats Membres de ces organisations intergouvernementales ne peuvent exercer leurs droits de vote individuels.
+- 6\. En cas de vote sur des questions relevant de leur compétence, ces organisations intergouvernementales disposent d’un nombre de voix égal au nombre total de voix attribuées à leurs États Membres conformément à l’art. 10. En pareil cas, les États Membres de ces organisations intergouvernementales ne peuvent exercer leurs droits de vote individuels.
 
 #### Art. 5
 
@@ -148,7 +148,7 @@ Aux fins du présent Accord:
   L’Accord de siège mentionné au par. 2 du présent article est indépendant du présent Accord. Il prend cependant fin:
 
   - a) conformément aux dispositions prévues par ledit Accord de siège;
-  - b) si le siège de l’Organisation est transféré hors du territoire du gouvernement hôte; ou
+  - b) si le siège de l’Organisation est transféré hors du territoire du gouvernement hôte, ou
   - c) si l’Organisation cesse d’exister.
 
 - 4\. L’Organisation peut conclure avec un ou plusieurs autres Membres des accords, qui doivent être approuvés par le Conseil, touchant les privilèges et immunités qui peuvent être nécessaires au bon fonctionnement du présent Accord.
@@ -226,7 +226,7 @@ Aux fins du présent Accord:
   Le Conseil s’efforce de prendre toutes ses décisions et de faire toutes ses recommandations par consensus. Si un consensus ne peut être atteint, le Conseil prend ses décisions et fait ses recommandations par un vote spécial, conformément aux procédures suivantes:
 
   - a) si la proposition n’obtient pas la majorité requise par le vote spécial en raison du vote négatif de plus de trois Membres exportateurs ou de plus de trois Membres importateurs, elle est réputée rejetée;
-  - b) si la proposition n’obtient pas la majorité requise par le vote spécial en raison du vote négatif de trois ou moins de trois Membres exportateurs ou de trois ou moins de trois Membres importateurs, elle est remise aux voix dans les 48 heures; et
+  - b) si la proposition n’obtient pas la majorité requise par le vote spécial en raison du vote négatif de trois ou moins de trois Membres exportateurs ou de trois ou moins de trois Membres importateurs, elle est remise aux voix dans les 48 heures, et
   - c) si la proposition n’obtient toujours pas la majorité requise par le vote spécial, elle est réputée rejetée.
 
 - 2\. Dans le décompte des voix nécessaires pour toute décision ou recommandation du Conseil, les voix des Membres qui s’abstiennent ne sont pas prises en considération.
@@ -439,8 +439,8 @@ Aux fins du présent Accord:
 
 **Prix indicateur**
 
-- 1\. Aux fins du présent Accord et en particulier à des fins de surveillance de l’évolution du marché du cacao, le Directeur exécutif calcule et publie le prix indicateur ICCO du cacao en fèves. Ce prix est exprimé en dollars des Etats-Unis la tonne, en euros la tonne, en livres sterling la tonne et en droits de tirage spéciaux (DTS) la tonne.
-- 2\. Le prix indicateur ICCO est la moyenne des cours du jour du cacao en fèves des trois mois actifs à terme les plus rapprochés sur le marché à terme des instruments financiers de Londres (*NYSE Liffe*) et sur le marché de New York (*ICE Futures US*) à l’heure de clôture du marché de Londres. Les cours de Londres sont convertis en dollars des Etats-Unis la tonne au moyen du taux de change du jour à six mois de terme établi à Londres à la clôture. La moyenne libellée en dollars des Etats-Unis des cours de Londres et de New York est convertie en euros et en livres sterling au taux de change au comptant de Londres à la clôture, ainsi qu’en DTS au taux de change officiel quotidien approprié du dollar des Etats-Unis en DTS, publié par le Fonds monétaire international. Le Conseil décide du mode de calcul à employer quand seuls les cours sur l’un de ces deux marchés du cacao sont disponibles ou quand le marché des changes de Londres est fermé. Le passage à la période de trois mois suivante s’effectue le 15 du mois qui précède immédiatement le mois actif le plus rapproché où les contrats viennent à échéance.
+- 1\. Aux fins du présent Accord et en particulier à des fins de surveillance de l’évolution du marché du cacao, le Directeur exécutif calcule et publie le prix indicateur ICCO du cacao en fèves. Ce prix est exprimé en dollars des États-Unis la tonne, en euros la tonne, en livres sterling la tonne et en droits de tirage spéciaux (DTS) la tonne.
+- 2\. Le prix indicateur ICCO est la moyenne des cours du jour du cacao en fèves des trois mois actifs à terme les plus rapprochés sur le marché à terme des instruments financiers de Londres (*NYSE Liffe*) et sur le marché de New York (*ICE Futures US*) à l’heure de clôture du marché de Londres. Les cours de Londres sont convertis en dollars des États-Unis la tonne au moyen du taux de change du jour à six mois de terme établi à Londres à la clôture. La moyenne libellée en dollars des États-Unis des cours de Londres et de New York est convertie en euros et en livres sterling au taux de change au comptant de Londres à la clôture, ainsi qu’en DTS au taux de change officiel quotidien approprié du dollar des États-Unis en DTS, publié par le Fonds monétaire international. Le Conseil décide du mode de calcul à employer quand seuls les cours sur l’un de ces deux marchés du cacao sont disponibles ou quand le marché des changes de Londres est fermé. Le passage à la période de trois mois suivante s’effectue le 15 du mois qui précède immédiatement le mois actif le plus rapproché où les contrats viennent à échéance.
 - 3\. Le Conseil peut décider d’employer toute autre méthode pour calculer le prix indicateur ICCO qu’il estime satisfaisante que celle qui est prescrite dans le présent article.
 
 #### Art. 34
@@ -637,7 +637,7 @@ Aux fins du présent Accord:
 
   Toutes les fois qu’il conclut, que ce soit ou non à la suite d’une plainte, qu’un Membre enfreint les obligations que lui impose le présent Accord, le Conseil peut, sans préjudice des autres mesures expressément prévues dans d’autres articles du présent Accord, y compris l’art. 60:
 
-  - a) suspendre les droits de vote de ce Membre au Conseil; et
+  - a) suspendre les droits de vote de ce Membre au Conseil, et
   - b) s’il le juge nécessaire, suspendre d’autres droits de ce Membre, notamment son éligibilité à une fonction au Conseil ou à l’un quelconque des comités de celui-ci, ou son droit d’exercer une telle fonction, jusqu’à ce qu’il se soit acquitté de ses obligations.
 
 - 4\. Un Membre dont les droits de vote ont été suspendus conformément au par. 3 du présent article demeure tenu de s’acquitter de ses obligations financières et autres obligations prévues par le présent Accord.
@@ -714,7 +714,7 @@ En cas de retrait ou d’exclusion d’un Membre, le Conseil procède à la liqu
 
 #### Art. 62
 
-**Durée, prorogation et fin**
+**Durée, prorogation et fin**[^62-1]
 
 - 1\. Le présent Accord reste en vigueur jusqu’à la fin de la dixième année cacaoyère complète suivant son entrée en vigueur, à moins qu’il ne soit prorogé en application du par. 4 du présent article ou qu’il n’y soit mis fin auparavant en application du par. 5 du présent article.
 - 2\. Le Conseil passe en revue le présent Accord cinq ans après son entrée en vigueur et prend les décisions appropriées.
@@ -723,6 +723,8 @@ En cas de retrait ou d’exclusion d’un Membre, le Conseil procède à la liqu
 - 5\. Le Conseil peut à tout moment décider de mettre fin au présent Accord, lequel prend alors fin à la date fixée par le Conseil, étant entendu que les obligations assumées par les Membres en vertu de l’art. 25 subsistent jusqu’à ce que les engagements financiers relatifs au fonctionnement du présent Accord aient été remplis. Le Conseil notifie cette décision au dépositaire.
 - 6\. Nonobstant la fin du présent Accord de quelque façon que ce soit, le Conseil continue d’exister aussi longtemps qu’il le faut pour liquider l’Organisation, en apurer les comptes et en répartir les avoirs. Le Conseil a pendant cette période les pouvoirs nécessaires pour mener à bien toutes les questions administratives et financières.
 - 7\. Nonobstant les dispositions du par. 2 de l’art. 59, un Membre qui ne désire pas participer au présent Accord tel qu’il est prorogé en vertu du présent article en informe le dépositaire et le Conseil. Ce Membre cesse d’être partie au présent Accord à compter du début de la période de prorogation.
+
+[^62-1]: Ac. prorogé du 1<sup>er</sup> oct. 2022 au 30 sept. 2024 par la D du Cons. international du cacao des 6 et 8 juil. 2021 ([RO 2022 418](https://fedlex.data.admin.ch/eli/oc/2022/418)).
 
 #### Art. 63
 
@@ -843,7 +845,7 @@ Annexe B
 <tr><td>Royaume-Uni</td><td></td><td></td><td>232 857</td><td>234 379</td><td>236 635</td><td>234 624</td><td>4,76 %</td></tr>
 <tr><td>Slovénie</td><td></td><td></td><td>1 802</td><td>2 353</td><td>2 185</td><td>2 113</td><td>0,04 %</td></tr>
 <tr><td>Suède</td><td></td><td></td><td>15 761</td><td>13 517</td><td>14 579</td><td>14 619</td><td>0,30 %</td></tr>
-<tr><td>Etats-Unis</td><td></td><td></td><td>822 314</td><td>686 939</td><td>648 711</td><td>719 321</td><td>14,60 %</td></tr>
+<tr><td>États-Unis</td><td></td><td></td><td>822 314</td><td>686 939</td><td>648 711</td><td>719 321</td><td>14,60 %</td></tr>
 <tr><td>Malaisie</td><td>c</td><td>m</td><td>290 623</td><td>327 825</td><td>341 462</td><td>319 970</td><td>6,49 %</td></tr>
 <tr><td>Fédération de Russie</td><td></td><td>m</td><td>163 637</td><td>176 700</td><td>197 720</td><td>179 352</td><td>3,64 %</td></tr>
 <tr><td>Canada</td><td></td><td></td><td>159 783</td><td>135 164</td><td>136 967</td><td>143 971</td><td>2,92 %</td></tr>
@@ -930,15 +932,15 @@ Annexe C
 <tr><td>Costa Rica</td><td>Papouasie-Nouvelle-Guinée</td></tr>
 <tr><td>Dominique</td><td>Pérou</td></tr>
 <tr><td>République dominicaine</td><td>Sainte-Lucie</td></tr>
-<tr><td>Equateur</td><td>Sao Tomé-et-Principe</td></tr>
+<tr><td>Équateur</td><td>Sao Tomé-et-Principe</td></tr>
 <tr><td>Grenade</td><td>Trinité-et-Tobago</td></tr>
 <tr><td>Indonésie</td><td>République bolivarienne du Venezuela</td></tr>
 <tr><td>Jamaïque</td><td></td></tr>
 </table>
 
-Champ d’application le 11 août 2020**[^t-2]**
+Champ d’application le 11 août 2020[^t-2]
 
-L’Accord international sur le cacao, 2010 est entré en vigueur à titre provisoire et en totalité conformément à son art. 57, par. 3 entre certains Etats et l’Union européenne à compter du 1<sup>er</sup> octobre 2012. Conformément à l’art. 57, par 4 de l’accord, celui-ci est également entré en vigueur pour certains autres Etats à titre provisoire entre eux et en totalité[^t-3]:
+L’Accord international sur le cacao, 2010 est entré en vigueur à titre provisoire et en totalité conformément à son art. 57, par. 3 entre certains États et l’Union européenne à compter du 1<sup>er</sup> octobre 2012. Conformément à l’art. 57, par 4 de l’accord, celui-ci est également entré en vigueur pour certains autres États à titre provisoire entre eux et en totalité[^t-3]:
 
 <table>
 <tr><td>Membres exportateurs:</td><td>Membres importateurs:</td></tr>
@@ -962,5 +964,5 @@ L’Accord international sur le cacao, 2010 est entré en vigueur à titre provi
 <tr><td>Venezuela</td><td></td></tr>
 </table>
 
-[^t-2]: [RO 2012 5859](https://fedlex.data.admin.ch/eli/oc/2012/690), [2016 2303](https://fedlex.data.admin.ch/eli/oc/2016/374), [2020 3581](https://fedlex.data.admin.ch/eli/oc/2020/639).
+[^t-2]: [RO 2012 5859](https://fedlex.data.admin.ch/eli/oc/2012/690); [2016 2303](https://fedlex.data.admin.ch/eli/oc/2016/374); [2020 3581](https://fedlex.data.admin.ch/eli/oc/2020/639).
 [^t-3]: Le champ d’application détaillé sera publié au moment de l’entrée en vigueur à titre définitif de l’accord.

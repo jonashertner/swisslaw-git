@@ -3,11 +3,11 @@ sr: "0.916.118.1"
 title: Accordo internazionale del 2010 sul cacao del 25 giugno 2010 (con allegati)
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/690"
 language: it
-version: 2020-08-11
+version: 2022-10-01
 adopted: 2010-06-25
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/690/20200811/it/xml/fedlex-data-admin-ch-eli-cc-2012-690-20200811-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/690/20200811/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/690/20221001/it/xml/fedlex-data-admin-ch-eli-cc-2012-690-20221001-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/690/20221001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -26,7 +26,7 @@ Strumento di ratifica depositato il 12 maggio 2011
 
 Entrato in vigore provvisoriamente per la Svizzera il 1° ottobre 2012
 
-(Stato 11 agosto 2020)
+(Stato 1° ottobre 2022)
 
 [^t-1]: [RU 2012 5857](https://fedlex.data.admin.ch/eli/oc/2012/689)
 
@@ -82,15 +82,15 @@ Ai fini del presente Accordo:
 - 1\. per *cacao* si intendono il cacao in grani e i prodotti derivati dal cacao;
 - 2*.* per *cacao fine* («*fine*» o «*flavour*») s’intende il cacao il cui sapore e colore sono ritenuti unici e che è prodotto nei Paesi elencati nell’allegato C del presente Accordo;
 - 3*.* per *prodotti derivati dal burro di cacao* s’intendono i prodotti fabbricati esclusivamente a partire dal cacao in grani come la pasta e il liquore di cacao, il burro di cacao, la polvere di cacao senza aggiunta di zucchero, la pasta di cacao sgrassata e le mandorle decorticate;
-- 4*.* per *cioccolato e prodotti del cioccolato* si intendono i prodotti fabbricati a partire dal cacao in grani, conformemente alla norma per il cioccolato e i prodotti del cioccolato contenuta nel *Codex Al**i**mentarius*;
+- 4*.* per *cioccolato e prodotti del cioccolato* si intendono i prodotti fabbricati a partire dal cacao in grani, conformemente alla norma per il cioccolato e i prodotti del cioccolato contenuta nel *Codex Alimentarius*;
 - 5*.* per *scorte di cacao in grani* si intendono tutti i grani di cacao secchi identificabili l’ultimo giorno dell’anno cacao (30 settembre), indipendentemente dalla loro ubicazione, appartenenza o dall’uso al quale sono destinati;
 - 6*.* per *anno cacao* s’intende il periodo di dodici mesi che va dal 1° ottobre al 30 settembre compresi;
 - 7*.* per *Organizzazione* s’intende l’Organizzazione internazionale del cacao di cui all’articolo 3;
 - 8*.* per *Consiglio* s’intende il Consiglio internazionale del cacao di cui all’articolo 6;
 - 9*.* per *Parte contraente* si intendono un governo, l’Unione europea o un’organizzazione intergovernativa ai sensi dell’articolo 4, che abbiano accettato di essere vincolati dal presente Accordo a titolo provvisorio o definitivo;
 - 10\. per *membro* s’intende una Parte contraente secondo la definizione di cui sopra;
-- 11\. per *Paese importatore* o *membro impo**r**tatore* si intendono, rispettivamente, un Paese o un membro le cui importazioni di cacao, espresse in termini di grani, superano le sue esportazioni;
-- 12*.* per *Paese esportatore* o *membro espo**r**tatore* s’intende, rispettivamente, un Paese o un membro le cui esportazioni di cacao, espresso in termini di grani, superano le sue importazioni. Tuttavia, un Paese produttore di cacao le cui importazioni di cacao, espresse in equivalenti di grani di cacao, superano le sue esportazioni, ma la cui produzione di grani di cacao supera le sue importazioni o la cui produzione supera il suo apparente consumo interno di cacao[^2-1], può, se lo desidera, essere membro esportatore;
+- 11\. per *Paese importatore* o *membro importatore* si intendono, rispettivamente, un Paese o un membro le cui importazioni di cacao, espresse in termini di grani, superano le sue esportazioni;
+- 12*.* per *Paese esportatore* o *membro esportatore* s’intende, rispettivamente, un Paese o un membro le cui esportazioni di cacao, espresso in termini di grani, superano le sue importazioni. Tuttavia, un Paese produttore di cacao le cui importazioni di cacao, espresse in equivalenti di grani di cacao, superano le sue esportazioni, ma la cui produzione di grani di cacao supera le sue importazioni o la cui produzione supera il suo apparente consumo interno di cacao[^2-1], può, se lo desidera, essere membro esportatore;
 - 13\. per *esportazioni di cacao* s’intende tutto il cacao che esce dal territorio doganale di un Paese, mentre per *importazioni di cacao* s’intende tutto il cacao che entra nel territorio doganale di un Paese, rimanendo inteso che, ai sensi di queste definizioni, qualora un membro comprenda più di un territorio doganale, per territorio doganale devono intendersi tutti i territori doganali di detto membro;
 - 14\. per *economia del cacao sostenibile* s’intende una catena integrata di creazione di valore aggiunto nella quale tutti gli operatori sviluppano e promuovono politiche idonee a raggiungere livelli di produzione, trasformazione e consumo economicamente sostenibili, ecologicamente ragionevoli e socialmente responsabili nell’interesse delle generazioni presenti e future e con l’intento di migliorare la produttività e la redditività lungo la catena di creazione di valore aggiunto del cacao per tutti gli operatori e, in particolare, per i piccoli produttori;
 - 15\. per *settore privato* si intendono tutti gli enti giuridici privati le cui principali attività rientrano nel settore del cacao, compresi gli agricoltori, i commercianti, i trasformatori, i fabbricanti e gli istituti di ricerca. Nel quadro del presente Accordo, il settore privato comprende anche le aziende, gli organismi e gli istituti pubblici che, in alcuni Paesi, esercitano funzioni abitualmente svolte da enti giuridici privati in altri Paesi;
@@ -714,7 +714,7 @@ In caso di recesso o di esclusione di un membro, il Consiglio procede alla liqui
 
 #### Art. 62
 
-**Durata, proroga e cessazione**
+**Durata, proroga e cessazione**[^62-1]
 
 - 1\. Il presente Accordo rimane in vigore fino al termine del decimo anno cacao intero successivo alla sua entrata in vigore, salvo che non venga prorogato in applicazione del paragrafo 4 del presente articolo o estinto anticipatamente in applicazione del paragrafo 5 del presente articolo.
 - 2\. Il Consiglio riesamina il presente Accordo cinque anni dopo la sua entrata in vigore e prende le decisioni che ritiene appropriate.
@@ -723,6 +723,8 @@ In caso di recesso o di esclusione di un membro, il Consiglio procede alla liqui
 - 5\. Il Consiglio può decidere in qualsiasi momento di porre fine al presente Accordo, che cessa di applicarsi alla data stabilita dal Consiglio; tuttavia, gli obblighi assunti dai membri a norma dell’articolo 25 continuano a sussistere fino a quando non sono adempiuti gli impegni finanziari relativi al funzionamento del presente Accordo. Il Consiglio notifica la decisione al depositario.
 - 6\. A prescindere dalla cessazione del presente Accordo, indipendentemente dalle modalità, il Consiglio continua a esistere per il tempo necessario a sciogliere l’Organizzazione, chiudere i suoi conti e alienare i suoi beni patrimoniali. Durante questo periodo, esso ha i poteri necessari per portare a termine tutte le questioni amministrative e finanziarie.
 - 7\. A prescindere dalle disposizioni del paragrafo 2 dell’articolo 59, un membro che non desideri partecipare al presente Accordo nella forma in cui è prorogato in virtù del presente articolo ne informa il depositario e il Consiglio. Tale membro cessa di far parte del presente Accordo a decorrere dall’inizio del periodo di proroga.
+
+[^62-1]: Validità dell’Acc. prorogata dal 1° ott. 2022 al 30 set. 2024, dalla Dec. del Consiglio internazionale del cacao del 6/8 lug. 2021 ([RU 2022 418](https://fedlex.data.admin.ch/eli/oc/2022/418)).
 
 #### Art. 63
 
@@ -911,7 +913,7 @@ Allegato B
 <tr><td>Totale</td><td></td><td>d/</td><td>**4 778 943**</td><td>**5 000 088**</td><td>**5 000 976**</td><td>**4 926 669**</td><td>**100.00 %**</td></tr>
 </table>
 
-*Fonte:* Organizzazione internazionale del cacao, *Bollettino trimestrale delle statist**i**che del cacao*, vol. XXXV, n. 3, anno cacao 2008/2009.
+*Fonte:* Organizzazione internazionale del cacao, *Bollettino trimestrale delle statistiche del cacao*, vol. XXXV, n. 3, anno cacao 2008/2009.
 
 *Note*:
 
@@ -942,7 +944,7 @@ Indonesia Venezuela
 
 Giamaica
 
-Campo d’applicazione l’11 agosto 2020**[^t-2]**
+Campo d’applicazione l’11 agosto 2020[^t-2]
 
 Il 1° ottobre 2012 l’Accordo è entrato in vigore interamente e a titolo provvisorio, conformemente al suo articolo 57 paragrafo 3, tra gli Stati e l’Unione europea. È parimenti entrato in vigore interamente e a titolo provvisorio, conformemente all’articolo 57 paragrafo 4, tra gli Stati seguenti:[^t-3]
 
