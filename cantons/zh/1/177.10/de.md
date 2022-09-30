@@ -4,11 +4,11 @@ number: "177.10"
 title: Personalgesetz (PG)
 short: PG
 language: de
-version: "2022-01-01"
-nachtrag: "115"
-valid_until: 2022-10-01
+version: "2022-10-01"
+nachtrag: "118"
+valid_until: 2024-08-01
 adopted: 1998-09-27
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-177_10-1998_09_27-1999_07_01-115.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-177_10-1998_09_27-1999_07_01-118.html"
 text: pdf
 ---
 
@@ -54,7 +54,7 @@ Angestellte sind Personen, die unbefristet oder befristet mit einem vollen oder 
 
 **1**
 
-- 1\. 1. 22 - 115
+1.10. 22 - 118
 
 ### C. Personalpolitik
 
@@ -150,7 +150,7 @@ Offene Stellen sind in der Regel öffentlich auszuschreiben.
 
 **3**
 
-- 1\. 1. 22 - 115 § 11. <sup>1</sup> Voraussetzung für eine Anstellung ist insbesondere die fachliche und persönliche Eignung der Bewerberin oder des Bewerbers.
+1.10. 22 - 118 § 11. <sup>1</sup> Voraussetzung für eine Anstellung ist insbesondere die fachliche und persönliche Eignung der Bewerberin oder des Bewerbers.
 
 **Voraussetzungen der Anstellung**
 
@@ -242,7 +242,7 @@ Offene Stellen sind in der Regel öffentlich auszuschreiben.
 
 **5**
 
-- 1\. 1. 22 - 115
+1.10. 22 - 118
 
 <sup>4</sup> Das Arbeitsverhältnis kann jeweils auf Ende eines Monats beendet werden. Der Regierungsrat bezeichnet die Arbeitsverhältnisse, für welche abweichende Endtermine gelten.
 
@@ -258,9 +258,7 @@ Offene Stellen sind in der Regel öffentlich auszuschreiben.
 
 **2. Kündigung im Zusammenhang mit der Leistung oder mit dem Verhalten**
 
-§ 19.<sup>10</sup> <sup>1</sup> Bevor die Anstellungsbehörde eine Kündigung aufgrund mangelnder Leistung oder unbefriedigenden Verhaltens ausspricht, räumt sie der oder dem Angestellten eine angemessene Bewährungsfrist von längstens sechs Monaten ein. Von einer Bewährungsfrist kann ausnahmsweise abgesehen werden, wenn feststeht, dass sie ihren Zweck nicht erfüllen kann.
-
-<sup>2</sup> Vorwürfe, die zu einer Kündigung Anlass geben, müssen durch eine Mitarbeiterbeurteilung oder durch ein gleichwertiges Verfahren belegt werden.
+§ 19.<sup>23</sup> Bevor die Anstellungsbehörde eine Kündigung aufgrund mangelnder Leistung oder unbefriedigenden Verhaltens ausspricht, erfolgt eine schriftliche Mahnung. Diese ist verbunden mit einer Frist zur Verbesserung von längstens drei Monaten. Wenn feststeht, dass die Frist ihren Zweck nicht erfüllen wird, kann darauf verzichtet werden.
 
 #### § 20
 
@@ -326,11 +324,11 @@ Offene Stellen sind in der Regel öffentlich auszuschreiben.
 
 <sup>2</sup> Die Fristen und Termine gemäss § 17 gelten sinngemäss.
 
+<sup>3</sup> Eine Entlassung altershalber kann nur einmal erfolgen. Sie ist in zwei Schritten möglich.
+
 **7**
 
-- 1\. 1. 22 - 115
-
-<sup>3</sup> Eine Entlassung altershalber kann nur einmal erfolgen. Sie ist in zwei Schritten möglich.
+1.10. 22 - 118
 
 <sup>4</sup> Die mit der Entlassung altershalber verbundenen vorsorgerechtlichen Leistungen richten sich nach dem Reglement der Vorsorgeeinrichtung.
 
@@ -360,7 +358,7 @@ Offene Stellen sind in der Regel öffentlich auszuschreiben.
 
 <sup>3</sup> Kein Anspruch auf Abfindung besteht bei Beendigung des Arbeitsverhältnisses wegen Kündigung durch die Angestellte oder den Angestellten, wegen Ablauf der Amtsdauer, bei Entlassung gewählter Angestellter auf eigenes Gesuch sowie bei Beendigung des Arbeitsverhältnisses nach dem 65. Altersjahr und gemäss § 16 lit. b, c, e, f, h und i.<sup>17</sup>
 
-<sup>4</sup> Der Regierungsrat regelt die Festsetzung der Abfindung und bestimmt einen nach dem Alter abgestuften Rahmen als Richtlinie. Die Abfindung beträgt höchstens fünfzehn Monatslöhne.
+<sup>4</sup> Der Regierungsrat regelt die Festsetzung der Abfindung und bestimmt einen nach dem Alter abgestuften Rahmen als Richtlinie. Die Abfindung beträgt höchstens neun Monatslöhne.<sup>23</sup>
 
 <sup>5</sup> Die Abfindung wird nach den Umständen des Einzelfalles festgelegt. Angemessen berücksichtigt werden insbesondere die persönlichen Verhältnisse und die Arbeitsmarktchancen, die Dienstzeit und der Kündigungsgrund. Angestellten, die während der Abfindungsdauer neues Einkommen erzielen, wird die Abfindung angemessen gekürzt. Der Regierungsrat regelt die Grundsätze für die Kürzung.<sup>17</sup>
 
@@ -386,11 +384,9 @@ Kommt es infolge von Stellenabbau zu Kündigungen, legen der Regierungsrat oder 
 
 **9**
 
-- 1\. 1. 22 - 115 § 29. <sup>1</sup> Angestellte können von der Anstellungs- oder Aufsichtsbehörde jederzeit vorsorglich im Amt eingestellt werden, wenn
+1.10. 22 - 118 § 29. <sup>1</sup> Angestellte können von der Anstellungs- oder Aufsichtsbehörde jederzeit vorsorglich im Amt eingestellt werden, wenn a. genügende Hinweise auf das Vorliegen eines wichtigen Grundes zur Auflösung des Arbeitsverhältnisses bestehen,
 
 **Vorsorgliche Massnahmen**
-
-- a. genügende Hinweise auf das Vorliegen eines wichtigen Grundes zur Auflösung des Arbeitsverhältnisses bestehen,
 
 - b. wegen eines Verbrechens oder Vergehens ein Strafverfahren eingeleitet worden ist, oder
 
@@ -480,7 +476,7 @@ Soweit dieses Gesetz nichts Abweichendes regelt, richtet sich der Weiterzug von 
 
 **11**
 
-- 1\. 1. 22 - 115
+1.10. 22 - 118
 
 <sup>2</sup> Er trifft die zum Schutz von Leben, Gesundheit und persönlicher Integrität seiner Angestellten erforderlichen Massnahmen.
 
@@ -572,7 +568,7 @@ Die Vereinsfreiheit der Angestellten ist im Rahmen des Verfassungsrechts gewähr
 
 **13**
 
-- 1\. 1. 22 - 115
+1.10. 22 - 118
 
 <sup>3</sup> Auf besonderes Verlangen der Angestellten hat sich das Zeugnis auf Angaben über die Art und Dauer des Arbeitsverhältnisses zu beschränken.
 
@@ -662,7 +658,7 @@ Die Angestellten haben sich rechtmässig zu verhalten, die Rechte und Freiheiten
 
 **15**
 
-- 1\. 1. 22 - 115
+1.10. 22 - 118
 
 ### IV. Administrativuntersuchung<sup>21</sup>
 
@@ -748,6 +744,8 @@ Die Angestellten haben sich rechtmässig zu verhalten, die Rechte und Freiheiten
 
 <sup>22</sup> Fassung gemäss G über die Administrativuntersuchung vom 22. Februar 2021 (OS 76, 447; ABl 2018-07-20). In Kraft seit 1. Januar 2022.
 
+<sup>23</sup> Fassung gemäss G vom 14. Dezember 2020 (OS 77, 393; ABl 2020-07-10). In Kraft seit 1. Oktober 2022.
+
 [^59-1]: In Kraft seit 1. Juli 1999 (OS 55, 62).
 
 ## Weitere Fussnoten
@@ -760,4 +758,4 @@ Die Angestellten haben sich rechtmässig zu verhalten, die Rechte und Freiheiten
 - [7] SR 220.
 - [9] Fassung gemäss G über die Teilrevision der Strafprozessgesetzgebung vom 27. Januar 2003 (OS 59, 22; ABl 2001, 504). In Kraft seit 1. Januar 2005 (OS 59,
 - [302] .
-- [10] Fassung gemäss G vom 26. September 2005 (OS 60, 517; ABl 2005, 4). In Kraft seit 1. Januar 2006. 1. 1. 22 - 115 17
+- [10] Fassung gemäss G vom 26. September 2005 (OS 60, 517; ABl 2005, 4). In Kraft seit 1. Januar 2006. 1.10. 22 - 118 17
