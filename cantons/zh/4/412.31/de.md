@@ -4,11 +4,10 @@ number: "412.31"
 title: Lehrpersonalgesetz (LPG)
 short: LPG
 language: de
-version: "2022-01-01"
-nachtrag: "115"
-valid_until: 2022-10-01
+version: "2022-10-01"
+nachtrag: "118"
 adopted: 1999-05-10
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-412_31-1999_05_10-2000_10_01-115.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-412_31-1999_05_10-2000_10_01-118.html"
 text: pdf
 ---
 
@@ -108,7 +107,7 @@ Enthält dieses Gesetz keine ausdrückliche Regelung, richtet sich das Arbeitsve
 
 <sup>3</sup> Wenn Änderungen im Stellenplan es erfordern oder wenn eine beabsichtigte Kündigung infolge der Sperrfristen gemäss Art. 336 c OR<sup>6</sup> nicht auf das Ende des Schuljahres ausgesprochen werden darf, kann die Schulpflege einer Lehrperson auf das Ende eines Monats kündigen. Es gilt die Kündigungsfrist gemäss Abs. 2.<sup>21</sup>
 
-<sup>4</sup> Im ersten Anstellungsjahr an einem Schulort besteht kein Anspruch auf Einräumung einer Bewährungsfrist.
+<sup>4</sup> Im ersten Anstellungsjahr an einem Schulort muss die Schulpflege keine Mahnung vornehmen.<sup>35</sup>
 
 <sup>5</sup> Der Anspruch auf eine Abfindung im Sinne von § 26 des Personalgesetzes<sup>3</sup> entfällt, wenn die Lehrperson unter gleichen Bedingungen ohne zeitlichen Unterbruch wieder angestellt wird.<sup>8</sup>
 
@@ -446,6 +445,8 @@ Die nachstehenden Gesetze werden wie folgt geändert:
 <sup>33</sup> Fassung gemäss G über die Administrativuntersuchung vom 22. Februar 2021 (OS 76, 447; ABl 2018-07-20). In Kraft seit 1. Januar 2022.
 
 <sup>34</sup> Aufgehoben durch G über die Administrativuntersuchung vom 22. Februar 2021 (OS 76, 447; ABl 2018-07-20). In Kraft seit 1. Januar 2022.
+
+<sup>35</sup> Fassung gemäss Personalgesetz vom 14. Dezember 2020 (OS 77, 393; ABl 2020- 07-10). In Kraft seit 1. Oktober 2022.
 
 **11**
 
