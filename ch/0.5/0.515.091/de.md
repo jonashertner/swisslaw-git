@@ -3,28 +3,27 @@ sr: "0.515.091"
 title: "Übereinkommen vom 10. Oktober 1980 über das Verbot oder die Beschränkung des Einsatzes bestimmter konventioneller Waffen, die übermässige Leiden verursachen oder unterschiedslos wirken können (mit Prot. I-IV)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/1499_1499_1499"
 language: de
-version: 2017-05-10
+version: 2022-10-04
 adopted: 1980-10-10
 in_force: 1983-12-02
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1499_1499_1499/20170510/de/xml/fedlex-data-admin-ch-eli-cc-1983-1499_1499_1499-20170510-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/1499_1499_1499/20170510/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1499_1499_1499/20221004/de/xml/fedlex-data-admin-ch-eli-cc-1983-1499_1499_1499-20221004-de-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/1499_1499_1499/20221004/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Übereinkommen über das Verbot oder die Beschränkung des Einsatzes bestimmter konventioneller Waffen, die übermässige Leiden verursachen oder unterschiedslos wirken können****
+# Übereinkommen über das Verbot oder die Beschränkung des Einsatzes bestimmter konventioneller Waffen, die übermässige Leiden verursachen oder unterschiedslos wirken können
 
 AS **1983** 1499; BBl **1981** III 301[^t-1]
 
-Übersetzung*[^t-2]*
+Übersetzung
 
-Abgeschlossen in Genf am 10. Oktober 1980 Von der Bundesversammlung genehmigt am 19. März 1982[^t-3] Schweizerische Ratifikationsurkunde hinterlegt am 20. August 1982 In Kraft getreten für die Schweiz am 2. Dezember 1983
+Abgeschlossen in Genf am 10. Oktober 1980 Von der Bundesversammlung genehmigt am 19. März 1982[^t-2] Schweizerische Ratifikationsurkunde hinterlegt am 20. August 1982 In Kraft getreten für die Schweiz am 2. Dezember 1983
 
-(Stand am 10. Mai 2017)
+(Stand am 4. Oktober 2022)
 
-[^t-1]: Die Änd. vom 13. Okt. 1995 ([SR 0.515.091.1](https://fedlex.data.admin.ch/eli/cc/2003/608); [AS 2003 4087](https://fedlex.data.admin.ch/eli/oc/2003/608)), 3. Mai 1996 ([SR 0.515.091.2](https://fedlex.data.admin.ch/eli/cc/2004/23); [AS 2004 341](https://fedlex.data.admin.ch/eli/oc/2004/23)) und 21. Dez. 2001 ([SR 0.515.091.3](https://fedlex.data.admin.ch/eli/cc/2004/565); [AS 2004 3953](https://fedlex.data.admin.ch/eli/oc/2004/565)) sind im vorliegenden Text eingebaut, gelten aber nur im Verhältnis zu jenen Staaten, die ihnen beigetreten sind. Siehe deshalb ihre eigenen Geltungsbereiche.
-[^t-2]: Der französische Originaltext findet sich unter der gleichen Nummer in der französischen Ausgabe dieser Sammlung.
-[^t-3]: [AS 1983 1497](https://fedlex.data.admin.ch/eli/oc/1983/1497_1497_1497)
+[^t-1]: Die Änd. vom 13. Okt. 1995 ([SR 0.515.091.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1931); [AS 2003 4087](https://fedlex.data.admin.ch/eli/oc/2003/608)), 3. Mai 1996 ([SR 0.515.091.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1932); [AS 2004 341](https://fedlex.data.admin.ch/eli/oc/2004/23)) und 21. Dez. 2001 ([SR 0.515.091.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1933); [AS 2004 3953](https://fedlex.data.admin.ch/eli/oc/2004/565)) sind im vorliegenden Text eingebaut, gelten aber nur im Verhältnis zu jenen Staaten, die ihnen beigetreten sind. Siehe deshalb ihre eigenen Geltungsbereiche.
+[^t-2]: [AS 1983 1497](https://fedlex.data.admin.ch/eli/oc/1983/1497_1497_1497)
 
 Die Hohen Vertragsparteien,
 
@@ -54,7 +53,7 @@ sowie im Hinblick darauf, dass der Abrüstungsausschuss beschliessen könnte, di
 
 sind wie folgt übereingekommen:
 
-[^ingress-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^ingress-1]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 1
 
@@ -66,17 +65,17 @@ sind wie folgt übereingekommen:
 
 <sup>3.</sup> Im Fall eines bewaffneten Konflikts, der keinen internationalen Charakter hat und sich im Hoheitsgebiet einer der Hohen Vertragsparteien ereignet, ist jede der am Konflikt beteiligten Parteien verpflichtet, die Verbote und Beschränkungen dieses Übereinkommens und der dazugehörigen Protokolle anzuwenden.
 
-\4. Dieses Übereinkommen oder die dazugehörigen Protokolle dürfen nicht zur Beeinträchtigung der Souveränität eines Staates oder der Verantwortung der Regierung herangezogen werden, mit allen rechtmässigen Mitteln die öffentliche Ordnung im Staat aufrechtzuerhalten oder wiederherzustellen oder die nationale Einheit und territoriale Unversehrtheit des Staates zu verteidigen.
+<sup>4.</sup> Dieses Übereinkommen oder die dazugehörigen Protokolle dürfen nicht zur Beeinträchtigung der Souveränität eines Staates oder der Verantwortung der Regierung herangezogen werden, mit allen rechtmässigen Mitteln die öffentliche Ordnung im Staat aufrechtzuerhalten oder wiederherzustellen oder die nationale Einheit und territoriale Unversehrtheit des Staates zu verteidigen.
 
-\5. Dieses Übereinkommen oder die dazugehörigen Protokolle dürfen nicht zur Rechtfertigung einer wie auch immer begründeten unmittelbaren oder mittelbaren Einmischung in den bewaffneten Konflikt oder in die inneren oder äusseren Angelegenheiten der Hohen Vertragspartei herangezogen werden, in deren Hoheitsgebiet dieser Konflikt stattfindet.
+<sup>5.</sup> Dieses Übereinkommen oder die dazugehörigen Protokolle dürfen nicht zur Rechtfertigung einer wie auch immer begründeten unmittelbaren oder mittelbaren Einmischung in den bewaffneten Konflikt oder in die inneren oder äusseren Angelegenheiten der Hohen Vertragspartei herangezogen werden, in deren Hoheitsgebiet dieser Konflikt stattfindet.
 
-\6. Die Anwendung dieses Übereinkommens und der dazugehörigen Protokolle auf die an einem Konflikt beteiligten Parteien, die nicht Hohe Vertragsparteien sind, welche das vorliegende Übereinkommen oder die dazugehörigen Protokolle angenommen haben, ändert weder ausdrücklich noch stillschweigend ihre Rechtsstellung oder die Rechtsstellung eines umstrittenen Gebiets.
+<sup>6.</sup> Die Anwendung dieses Übereinkommens und der dazugehörigen Protokolle auf die an einem Konflikt beteiligten Parteien, die nicht Hohe Vertragsparteien sind, welche das vorliegende Übereinkommen oder die dazugehörigen Protokolle angenommen haben, ändert weder ausdrücklich noch stillschweigend ihre Rechtsstellung oder die Rechtsstellung eines umstrittenen Gebiets.
 
-\7. Die Absätze 2 bis 6 berühren nicht nach dem 1. Januar 2002 angenommene Zusatzprotokolle, die hinsichtlich ihres Anwendungsbereichs die Absätze 2–6 übernehmen, ausschliessen oder ändern können.
+<sup>7.</sup> Die Absätze 2 bis 6 berühren nicht nach dem 1. Januar 2002 angenommene Zusatzprotokolle, die hinsichtlich ihres Anwendungsbereichs die Absätze 2–6 übernehmen, ausschliessen oder ändern können.
 
 [^1-1]: Fassung gemäss Beschluss vom 21. Dez. 2001, von der BVers genehmigt am 15. Dez. 2003 und in Kraft getreten für die Schweiz am 19. Juli 2004 ([AS 2004 3953](https://fedlex.data.admin.ch/eli/oc/2004/565)[3951](https://fedlex.data.admin.ch/eli/oc/2004/564); [BBl 2003 3575](https://fedlex.data.admin.ch/eli/fga/2003/532)).
-[^1-2]: [SR 0.518.12](https://fedlex.data.admin.ch/eli/cc/1951/181_184_180), [0.518.23](https://fedlex.data.admin.ch/eli/cc/1951/207_209_205), [0.518.42](https://fedlex.data.admin.ch/eli/cc/1951/228_230_226), [0.518.51](https://fedlex.data.admin.ch/eli/cc/1951/300_302_297)
-[^1-3]: [SR 0.518.521](https://fedlex.data.admin.ch/eli/cc/1982/1362_1362_1362)
+[^1-2]: [SR 0.518.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1960), [0.518.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1964), [0.518.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1966), [0.518.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1967)
+[^1-3]: [SR 0.518.521](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1968)
 
 #### Art. 2
 
@@ -145,7 +144,7 @@ Die Hohe Vertragspartei und das Organ können auch vereinbaren, die Verpflichtun
   - ii) das genannte Organ übernimmt die gleichen Rechte und Pflichten wie eine Hohe Vertragspartei der Genfer Abkommen, dieses Übereinkommens und der einschlägigen dazugehörigen Protokolle, und
   - iii) die Genfer Abkommen, dieses Übereinkommen und die einschlägigen dazugehörigen Protokolle binden alle am Konflikt beteiligten Parteien in gleicher Weise.
 
-[^7-1]: [SR 0.518.521](https://fedlex.data.admin.ch/eli/cc/1982/1362_1362_1362)
+[^7-1]: [SR 0.518.521](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1968)
 
 #### Art. 8
 
@@ -203,7 +202,7 @@ Es ist verboten, eine Waffe zu verwenden, deren Hauptwirkung darin besteht, durc
 
 Protokoll II
 
-## Protokoll über das Verbot oder die Beschränkung des Einsatzes von Minen, Sprengfallen und anderen Vorrichtungen in der am 3. Mai 1996 geänderten Fassung****
+## Protokoll über das Verbot oder die Beschränkung des Einsatzes von Minen, Sprengfallen und anderen Vorrichtungen in der am 3. Mai 1996 geänderten Fassung
 
 [^annexu1-lvlu1-1]
 
@@ -225,7 +224,7 @@ Protokoll II
 
 <sup>6.</sup> Die Anwendung dieses Protokolls auf die an einem Konflikt beteiligten Parteien, die nicht Hohe Vertragsparteien sind, welche das vorliegende Protokoll angenommen haben, ändert weder ausdrücklich noch stillschweigend ihre Rechtsstellung oder die Rechtsstellung eines umstrittenen Gebiets.
 
-[^annexu1-lvlu1-1-1]: [SR 0.518.12](https://fedlex.data.admin.ch/eli/cc/1951/181_184_180), [0.518.23](https://fedlex.data.admin.ch/eli/cc/1951/207_209_205), [0.518.42](https://fedlex.data.admin.ch/eli/cc/1951/228_230_226)und [0.518.51](https://fedlex.data.admin.ch/eli/cc/1951/300_302_297)
+[^annexu1-lvlu1-1-1]: [SR 0.518.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1960), [0.518.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1964), [0.518.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1966)und [0.518.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1967)
 
 #### Art. 2
 
@@ -459,7 +458,7 @@ Es ist verboten, Anti-Personenminen einzusetzen, die im Sinne von Ziffer 2 des T
   - i) dem Personal der Mission den Schutz nach Absatz 2 Buchstabe b Ziffer i gewähren und
   - ii) die Massnahmen nach Absatz 3 Buchstabe b Ziffer ii treffen.
 
-[^annexu1-lvlu1-12-subdivu5-1]: [SR 0.518.521](https://fedlex.data.admin.ch/eli/cc/1982/1362_1362_1362), [0.518.522](https://fedlex.data.admin.ch/eli/cc/1982/1432_1432_1432)
+[^annexu1-lvlu1-12-subdivu5-1]: [SR 0.518.521](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1968), [0.518.522](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1969)
 
 ### Vertraulichkeit
 
@@ -567,7 +566,7 @@ Zur Kennzeichnung von Minenfeldern und verminten Gebieten sind Zeichen ähnlich 
 
 Zeichen für Minenfelder und verminte Gebiete
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1499_1499_1499/20170510/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1499_1499_1499/20221004/de/xml/image/image1.png)
 
 Protokoll III
 
@@ -604,11 +603,11 @@ Im Sinne dieses Protokolls
 
 Protokoll IV
 
-## Protokoll über blindmachende Laserwaffen****
+## Protokoll über blindmachende Laserwaffen
 
 [^annexu1-lvlu1-2]
 
-[^annexu1-lvlu1-2]: Eingefügt durch Art. 1 des Beschlusses vom 13. Okt. 1995, von der BVers genehmigt am 8. Dez. 1997 und in Kraft getreten für die Schweiz am am 24. Sept. 1998 ([AS 2003 4087](https://fedlex.data.admin.ch/eli/oc/2003/608)[4085](https://fedlex.data.admin.ch/eli/oc/2003/607); [BBl 1997 IV 1](https://fedlex.data.admin.ch/eli/fga/1997/4_1_1_1)). Vgl. jedoch den Geltungsbereich in [SR 0.515.091.1](https://fedlex.data.admin.ch/eli/cc/2003/608).
+[^annexu1-lvlu1-2]: Eingefügt durch Art. 1 des Beschlusses vom 13. Okt. 1995, von der BVers genehmigt am 8. Dez. 1997 und in Kraft getreten für die Schweiz am am 24. Sept. 1998 ([AS 2003 4087](https://fedlex.data.admin.ch/eli/oc/2003/608)[4085](https://fedlex.data.admin.ch/eli/oc/2003/607); [BBl 1997 IV 1](https://fedlex.data.admin.ch/eli/fga/1997/4_1_1_1)). Vgl. jedoch den Geltungsbereich in [SR 0.515.091.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1931).
 
 #### Art. 1
 
@@ -626,10 +625,11 @@ Erblindung als Neben- oder Begleitwirkung des rechtmässigen militärischen Eins
 
 Im Sinne dieses Protokolls bedeutet «dauerhafte Erblindung» den unumkehrbaren und nicht korrigierbaren Verlust des Sehvermögens, der ohne Aussicht auf Wiederherstellung schwer behindert. Eine schwere Behinderung liegt vor bei einer unter Verwendung beider Augen gemessenen Sehschärfe von weniger als 20/200 Snellen.
 
-Geltungsbereich am 10. Mai 2017**[^t-4]**
+Geltungsbereich am 4. Oktober 2022[^t-3]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
+<tr><td>Afghanistan</td><td>9. August</td><td>2017</td><td>9. Februar</td><td>2018</td></tr>
 <tr><td>Albanien</td><td>28. August</td><td>2002 B</td><td>28. Februar</td><td>2003</td></tr>
 <tr><td>Algerien <sup>a</sup></td><td>6. Mai</td><td>2015 B</td><td>6. November</td><td>2015</td></tr>
 <tr><td>Antiqua und Barbuda <sup>a</sup></td><td>23. August</td><td>2010</td><td>23. Februar</td><td>2011</td></tr>
@@ -652,7 +652,7 @@ Geltungsbereich am 10. Mai 2017**[^t-4]**
 <tr><td>Côte d’Ivoire <sup>b</sup> <sup>c</sup></td><td>25. Mai</td><td>2016</td><td>25. November</td><td>2016</td></tr>
 <tr><td>Dänemark\*\*</td><td>7. Juli</td><td>1982</td><td>2. Dezember</td><td>1983</td></tr>
 <tr><td>Deutschland\*\*</td><td>25. November</td><td>1992</td><td>25. Mai</td><td>1993</td></tr>
-<tr><td>Dominikanische Republik</td><td>21. Juni</td><td>2010</td><td>21. Dezember</td><td>2010</td></tr>
+<tr><td>Dominikanische Republik <sup>a</sup></td><td>21. Juni</td><td>2010</td><td>21. Dezember</td><td>2010</td></tr>
 <tr><td>Dschibuti</td><td>29. Juli</td><td>1996 B</td><td>29. Januar</td><td>1997</td></tr>
 <tr><td>Ecuador</td><td>4. Mai</td><td>1982</td><td>2. Dezember</td><td>1983</td></tr>
 <tr><td>El Salvador</td><td>26. Januar</td><td>2000 B</td><td>26. Juli</td><td>2000</td></tr>
@@ -696,12 +696,12 @@ Geltungsbereich am 10. Mai 2017**[^t-4]**
 <tr><td>Litauen <sup>a</sup></td><td>3. Juni</td><td>1998 B</td><td>3. Dezember</td><td>1998</td></tr>
 <tr><td>Luxemburg</td><td>21. Mai</td><td>1996</td><td>21. November</td><td>1996</td></tr>
 <tr><td>Madagaskar</td><td>14. März</td><td>2008 B</td><td>14. September</td><td>2008</td></tr>
+<tr><td>Malawi <sup>c</sup></td><td>23. September</td><td>2022 B</td><td>23. März</td><td>2023</td></tr>
 <tr><td>Malediven <sup>a</sup></td><td>7. September</td><td>2000 B</td><td>7. März</td><td>2001</td></tr>
 <tr><td>Mali</td><td>24. Oktober</td><td>2001 B</td><td>24. April</td><td>2002</td></tr>
 <tr><td>Malta</td><td>26. Juni</td><td>1995 B</td><td>26. Dezember</td><td>1995</td></tr>
 <tr><td>Marokko <sup>b</sup> <sup>c</sup></td><td>19. März</td><td>2002</td><td>19. September</td><td>2002</td></tr>
 <tr><td>Mauritius</td><td>6. Mai</td><td>1996 B</td><td>6. November</td><td>1996</td></tr>
-<tr><td>Mazedonien</td><td>30. Dezember</td><td>1996 N</td><td>17. November</td><td>1991</td></tr>
 <tr><td>Mexiko</td><td>11. Februar</td><td>1982</td><td>2. Dezember</td><td>1983</td></tr>
 <tr><td>Moldau</td><td>8. September</td><td>2000 B</td><td>8. März</td><td>2001</td></tr>
 <tr><td>Monaco <sup>a</sup> <sup>c</sup></td><td>12. August</td><td>1997 B</td><td>12. Februar</td><td>1998</td></tr>
@@ -713,6 +713,7 @@ Geltungsbereich am 10. Mai 2017**[^t-4]**
 <tr><td>Niederlande\* \*\* <sup>d</sup></td><td>18. Juni</td><td>1987</td><td>18. Dezember</td><td>1987</td></tr>
 <tr><td>Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td>28. April</td><td>2014</td><td>28. April</td><td>2014</td></tr>
 <tr><td>Niger</td><td>10. November</td><td>1992 B</td><td>10. Mai</td><td>1993</td></tr>
+<tr><td>Nordmazedonien</td><td>30. Dezember</td><td>1996 N</td><td>17. November</td><td>1991</td></tr>
 <tr><td>Norwegen\*\*</td><td>7. Juni</td><td>1983</td><td>7. Dezember</td><td>1983</td></tr>
 <tr><td>Österreich\*\*</td><td>14. März</td><td>1983</td><td>2. Dezember</td><td>1983</td></tr>
 <tr><td>Pakistan</td><td>1. April</td><td>1985</td><td>1. Oktober</td><td>1985</td></tr>
@@ -755,7 +756,7 @@ Geltungsbereich am 10. Mai 2017**[^t-4]**
 <tr><td>Vereinigte Staaten\* <sup>e</sup></td><td>24. März</td><td>1995</td><td>24. September</td><td>1995</td></tr>
 <tr><td>Vereinigtes Königreich\* \*\*</td><td>13. Februar</td><td>1995</td><td>13. August</td><td>1995</td></tr>
 <tr><td>Zypern\* \*\*</td><td>12. Dezember</td><td>1988 B</td><td>12. Juni</td><td>1989</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht, mit Ausnahme der Vorbehalte und Erklärungen der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden. <sup>a</sup> Dieser Vertragsstaat hat seine Zustimmung, durch Protokoll II gebunden zu sein, nicht gegeben. <sup>b</sup> Dieser Vertragsstaat hat seine Zustimmung, durch Protokoll I gebunden zu sein, nicht gegeben. <sup>c</sup> Dieser Vertragsstaat hat seine Zustimmung, durch Protokoll III gebunden zu sein, nicht gegeben. <sup>d</sup> Für das Königreich in Europa. <sup>e</sup> Dieser Staat hat das Protokoll III mit Wirkung am 21. Juli 2009 angenommen.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht, mit Ausnahme der Vorbehalte und Erklärungen der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: [http://treaties.un.org](http://treaties.un.org) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden. <sup>a</sup> Dieser Vertragsstaat hat seine Zustimmung, durch Protokoll II gebunden zu sein, nicht gegeben. <sup>b</sup> Dieser Vertragsstaat hat seine Zustimmung, durch Protokoll I gebunden zu sein, nicht gegeben. <sup>c</sup> Dieser Vertragsstaat hat seine Zustimmung, durch Protokoll III gebunden zu sein, nicht gegeben. <sup>d</sup> Für das Königreich in Europa. <sup>e</sup> Dieser Staat hat das Protokoll III mit Wirkung am 21. Juli 2009 angenommen.</td></tr>
 </table>
 
-[^t-4]: [AS 1983 1499](https://fedlex.data.admin.ch/eli/oc/1983/1499_1499_1499), [1986 827](https://fedlex.data.admin.ch/eli/oc/1986/827_827_827), [1989 291](https://fedlex.data.admin.ch/eli/oc/1989/291_291_291), [1990 1195](https://fedlex.data.admin.ch/eli/oc/1990/1195_1195_1195), [2003 4419](https://fedlex.data.admin.ch/eli/oc/2003/661), [2005 4783](https://fedlex.data.admin.ch/eli/oc/2005/640), [2009 3875](https://fedlex.data.admin.ch/eli/oc/2009/485), [2010 2265](https://fedlex.data.admin.ch/eli/oc/2010/322), [2013 2089](https://fedlex.data.admin.ch/eli/oc/2013/439)und [2017 3229](https://fedlex.data.admin.ch/eli/oc/2017/325). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-3]: [AS 1983 1499](https://fedlex.data.admin.ch/eli/oc/1983/1499_1499_1499); [1986 827](https://fedlex.data.admin.ch/eli/oc/1986/827_827_827); [1989 291](https://fedlex.data.admin.ch/eli/oc/1989/291_291_291); [1990 1195](https://fedlex.data.admin.ch/eli/oc/1990/1195_1195_1195); [2003 4419](https://fedlex.data.admin.ch/eli/oc/2003/661); [2005 4783](https://fedlex.data.admin.ch/eli/oc/2005/640); [2009 3875](https://fedlex.data.admin.ch/eli/oc/2009/485); [2010 2265](https://fedlex.data.admin.ch/eli/oc/2010/322); [2013 2089](https://fedlex.data.admin.ch/eli/oc/2013/439); [2017 3229](https://fedlex.data.admin.ch/eli/oc/2017/325); [2022 567](https://fedlex.data.admin.ch/eli/oc/2022/567). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht https://www.fedlex.admin.ch/de/treaty

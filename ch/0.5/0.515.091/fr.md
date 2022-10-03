@@ -3,11 +3,11 @@ sr: "0.515.091"
 title: "Convention du 10 octobre 1980 sur l'interdiction ou la limitation de l'emploi de certaines armes classiques qui peuvent être considérées comme produisant des effets traumatiques excessifs ou comme frappant sans discrimination (avec prot. I à IV)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/1499_1499_1499"
 language: fr
-version: 2017-05-10
+version: 2022-10-04
 adopted: 1980-10-10
 in_force: 1983-12-02
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1499_1499_1499/20170510/fr/xml/fedlex-data-admin-ch-eli-cc-1983-1499_1499_1499-20170510-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/1499_1499_1499/20170510/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1499_1499_1499/20221004/fr/xml/fedlex-data-admin-ch-eli-cc-1983-1499_1499_1499-20221004-fr-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/1499_1499_1499/20221004/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,22 +18,16 @@ RO **1983** 1499; FF **1981** III 273[^t-1]
 
 Texte original
 
-Conclue à Genève le 10 octobre 1980
+Conclue à Genève le 10 octobre 1980 Approuvée par l’Assemblée fédérale le 19 mars 1982[^t-2] Instrument de ratification déposé par la Suisse le 20 août 1982 Entrée en vigueur pour la Suisse le 2 décembre 1983
 
-Approuvée par l’Assemblée fédérale le 19 mars 1982[^t-2]
+(État le 4 octobre 2022)
 
-Instrument de ratification déposé par la Suisse le 20 août 1982
-
-Entrée en vigueur pour la Suisse le 2 décembre 1983
-
-(Etat le 10 mai 2017)
-
-[^t-1]: Conv. consolidée: les Prot. du 13 oct. 1995 ([RS 0.515.091.1](https://fedlex.data.admin.ch/eli/cc/2003/608); [RO 2003 4087](https://fedlex.data.admin.ch/eli/oc/2003/608)) et du 3 mai 1996 ([RS 0.515.091.2](https://fedlex.data.admin.ch/eli/cc/2004/23); [RO 2004 341](https://fedlex.data.admin.ch/eli/oc/2004/23)) ainsi que l’Am. du 21 déc. 2001 ([RS 0.515.091.3](https://fedlex.data.admin.ch/eli/cc/2004/565); [RO 2004 3953](https://fedlex.data.admin.ch/eli/oc/2004/565)), en vigueur pour la Suisse, ont été insérés dans la Conv. Ils ne régissent que les rapports entre les Etats les ayant ratifiés. Voir par conséquent leurs champs d’applications dans les textes RS cités entre parenthèse.
+[^t-1]: Conv. consolidée: les Prot. du 13 oct. 1995 ([RS 0.515.091.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1931); [RO 2003 4087](https://fedlex.data.admin.ch/eli/oc/2003/608)) et du 3 mai 1996 ([RS 0.515.091.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1932); [RO 2004 341](https://fedlex.data.admin.ch/eli/oc/2004/23)) ainsi que l’Am. du 21 déc. 2001 ([RS 0.515.091.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1933); [RO 2004 3953](https://fedlex.data.admin.ch/eli/oc/2004/565)), en vigueur pour la Suisse, ont été insérés dans la Conv. Ils ne régissent que les rapports entre les Etats les ayant ratifiés. Voir par conséquent leurs champs d’applications dans les textes RS cités entre parenthèse.
 [^t-2]: [RO 1983 1497](https://fedlex.data.admin.ch/eli/oc/1983/1497_1497_1497)
 
 Les Hautes Parties contractantes,
 
-rappelant que tout Etat a le devoir, conformément à la Charte des Nations Unies[^ingress-1], de s’abstenir dans ses relations internationales de recourir à la menace ou à l’emploi de la force, soit contre la souveraineté, l’intégrité territoriale ou l’indépendance politique de tout Etat, soit de toute autre manière incompatible avec les buts des Nations Unies,
+rappelant que tout État a le devoir, conformément à la Charte des Nations Unies[^ingress-1], de s’abstenir dans ses relations internationales de recourir à la menace ou à l’emploi de la force, soit contre la souveraineté, l’intégrité territoriale ou l’indépendance politique de tout État, soit de toute autre manière incompatible avec les buts des Nations Unies,
 
 rappelant en outre le principe général de la protection des personnes civiles contre les effets des hostilités,
 
@@ -43,7 +37,7 @@ rappelant aussi qu’il est interdit d’utiliser des méthodes ou moyens de gue
 
 confirmant leur détermination selon laquelle, dans les cas non prévus par la présente Convention et les Protocoles y annexés ou par d’autres accords internationaux, les personnes civiles et les combattants restent à tout moment sous la sauvegarde et sous l’empire des principes du droit des gens, tels qu’ils résultent des usages établis, des principes de l’humanité et des exigences de la conscience publique,
 
-désirant contribuer à la détente internationale, à la cessation de la course aux armements et à l’instauration de la confiance entre les Etats et, partant, à la réalisation des aspirations de tous les peuples à vivre en paix,
+désirant contribuer à la détente internationale, à la cessation de la course aux armements et à l’instauration de la confiance entre les États et, partant, à la réalisation des aspirations de tous les peuples à vivre en paix,
 
 reconnaissant qu’il importe de poursuivre tous les efforts dans la voie du désarmement général et complet sous un contrôle international strict et efficace,
 
@@ -51,7 +45,7 @@ réaffirmant la nécessité de poursuivre la codification et le développement p
 
 souhaitant interdire ou limiter davantage l’emploi de certaines armes classiques et estimant que les résultats positifs obtenus dans ce domaine pourraient faciliter les principaux pourparlers sur le désarmement en vue de mettre fin à la production, au stockage et à la prolifération de ces armes,
 
-soulignant l’intérêt qu’il y a à ce que tous les Etats, et particulièrement les Etats militairement importants, deviennent parties à la présente Convention et aux Protocoles y annexés,
+soulignant l’intérêt qu’il y a à ce que tous les États, et particulièrement les États militairement importants, deviennent parties à la présente Convention et aux Protocoles y annexés,
 
 donsidérant que l’Assemblée générale des Nations Unies et la Commission des Nations Unies pour le désarmement peuvent décider d’examiner la question d’un élargissement possible de la portée des interdictions et des limitations contenues dans la présente Convention et les Protocoles y annexés,
 
@@ -59,7 +53,7 @@ donsidérant en outre que le Comité du désarmement peut décider d’examiner 
 
 sont convenus de ce qui suit:
 
-[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 1
 
@@ -71,7 +65,7 @@ sont convenus de ce qui suit:
 
 <sup>3.</sup> Dans le cas de conflits armés qui ne revêtent pas un caractère international et se produisent sur le territoire de l’une des Hautes Parties contractantes, chaque partie au conflit est tenue d’appliquer les interdictions et restrictions prévues par la présente Convention et les Protocoles y annexés.
 
-<sup>4.</sup> Aucune disposition de la présente Convention ou des Protocoles y annexés n’est invoquée pour porter atteinte à la souveraineté d’un Etat ou à la responsabilité qu’a le gouvernement, par tous les moyens légitimes, de maintenir ou de rétablir l’ordre public dans l’Etat ou de défendre l’unité nationale et l’intégrité territoriale de l’Etat.
+<sup>4.</sup> Aucune disposition de la présente Convention ou des Protocoles y annexés n’est invoquée pour porter atteinte à la souveraineté d’un État ou à la responsabilité qu’a le gouvernement, par tous les moyens légitimes, de maintenir ou de rétablir l’ordre public dans l’État ou de défendre l’unité nationale et l’intégrité territoriale de l’État.
 
 <sup>5.</sup> Aucune disposition de la présente Convention ou des Protocoles y annexés n’est invoquée pour justifier une intervention, directe ou indirecte, pour quelque raison que ce soit, dans le conflit armé ou dans les affaires intérieures ou extérieures de la Haute Partie contractante sur le territoire de laquelle ce conflit se produit.
 
@@ -80,8 +74,8 @@ sont convenus de ce qui suit:
 <sup>7.</sup> Les dispositions des par. 2 à 6 du présent article ne préjugent pas du champ d’application de tous autres protocoles adoptés après le 1<sup>er</sup> janvier 2002, pour lesquels il pourra être décidé de reprendre les dispositions desdits paragraphes, de les exclure ou de les modifier.
 
 [^1-1]: Nouvelle teneur selon l’Am. du 21 déc. 2001, approuvé par l’Ass. féd. le 15 déc. 2003, en vigueur pour la Suisse depuis le 19 juil. 2004 ([RO 2004 3953](https://fedlex.data.admin.ch/eli/oc/2004/565)[3951](https://fedlex.data.admin.ch/eli/oc/2004/564); [FF 2003 3153](https://fedlex.data.admin.ch/eli/fga/2003/532)).
-[^1-2]: [RS 0.518.12](https://fedlex.data.admin.ch/eli/cc/1951/181_184_180), [0.518.23](https://fedlex.data.admin.ch/eli/cc/1951/207_209_205), [0.518.42](https://fedlex.data.admin.ch/eli/cc/1951/228_230_226), [0.518.51](https://fedlex.data.admin.ch/eli/cc/1951/300_302_297)
-[^1-3]: [RS 0.518.521](https://fedlex.data.admin.ch/eli/cc/1982/1362_1362_1362)
+[^1-2]: [RS 0.518.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1960), [0.518.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1964), [0.518.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1966), [0.518.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1967)
+[^1-3]: [RS 0.518.521](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1968)
 
 #### Art. 2
 
@@ -93,19 +87,19 @@ Aucune disposition de la présente Convention ou des Protocoles y annexés ne se
 
 **Signature**
 
-La présente Convention sera ouverte à la signature de tous les Etats, au Siège de l’Organisation des Nations Unies à New York, pendant une période de douze mois à compter du 10 avril 1981.
+La présente Convention sera ouverte à la signature de tous les États, au Siège de l’Organisation des Nations Unies à New York, pendant une période de douze mois à compter du 10 avril 1981.
 
 #### Art. 4
 
 **Ratification – Acceptation – Approbation – Adhésion**
 
-<sup>1.</sup> La présente Convention est sujette à ratification, acceptation ou approbation par les Signataires. Tout Etat qui n’a pas signé la Convention pourra y adhérer.
+<sup>1.</sup> La présente Convention est sujette à ratification, acceptation ou approbation par les Signataires. Tout État qui n’a pas signé la Convention pourra y adhérer.
 
 <sup>2.</sup> Les instruments de ratification, d’acceptation, d’approbation ou d’adhésion seront déposés auprès du Dépositaire.
 
-<sup>3.</sup> Chaque Etat pourra accepter d’être lié par l’un quelconque des Protocoles annexés à la présente Convention, à condition qu’au moment du dépôt de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion de la présente Convention, il notifie au dépositaire son consentement à être lié par deux au moins de ces Protocoles.
+<sup>3.</sup> Chaque État pourra accepter d’être lié par l’un quelconque des Protocoles annexés à la présente Convention, à condition qu’au moment du dépôt de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion de la présente Convention, il notifie au dépositaire son consentement à être lié par deux au moins de ces Protocoles.
 
-<sup>4.</sup> A tout moment après le dépôt de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion de la présente Convention, un Etat peut notifier au Dépositaire son consentement à être lié par tout Protocole y annexé auquel il n’était pas encore Partie.
+<sup>4.</sup> À tout moment après le dépôt de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion de la présente Convention, un État peut notifier au Dépositaire son consentement à être lié par tout Protocole y annexé auquel il n’était pas encore Partie.
 
 <sup>5.</sup> Tout Protocole qui lie une Haute Partie contractante fait partie intégrante de la présente Convention en ce qui concerne ladite Partie.
 
@@ -115,11 +109,11 @@ La présente Convention sera ouverte à la signature de tous les Etats, au Sièg
 
 <sup>1.</sup> La présente Convention entrera en vigueur six mois après la date de dépôt du vingtième instrument de ratification, d’acceptation, d’approbation ou d’adhésion.
 
-<sup>2.</sup> Pour tout Etat qui dépose un instrument de ratification, d’acceptation, d’approbation ou d’adhésion après la date de dépôt du vingtième instrument de ratification, d’acceptation, d’approbation ou d’adhésion, la Convention entrera en vigueur six mois après la date de dépôt de cet instrument.
+<sup>2.</sup> Pour tout État qui dépose un instrument de ratification, d’acceptation, d’approbation ou d’adhésion après la date de dépôt du vingtième instrument de ratification, d’acceptation, d’approbation ou d’adhésion, la Convention entrera en vigueur six mois après la date de dépôt de cet instrument.
 
-<sup>3.</sup> Chacun des Protocoles annexés à la présente Convention entrera en vigueur six mois après la date à laquelle vingt Etats auront notifié leur consentement à être liés par ce Protocole conformément aux dispositions du par. 3 ou du par. 4 de l’art. 4 de la présente Convention.
+<sup>3.</sup> Chacun des Protocoles annexés à la présente Convention entrera en vigueur six mois après la date à laquelle vingt États auront notifié leur consentement à être liés par ce Protocole conformément aux dispositions du par. 3 ou du par. 4 de l’art. 4 de la présente Convention.
 
-<sup>4.</sup> Pour tout Etat qui notifie son consentement à être lié par un Protocole annexé à la présente Convention après la date à laquelle vingt Etats ont notifié leur consentement à être liés par ce Protocole, le Protocole entrera en vigueur six mois après la date à laquelle ledit Etat aura notifié son consentement à être ainsi lié.
+<sup>4.</sup> Pour tout État qui notifie son consentement à être lié par un Protocole annexé à la présente Convention après la date à laquelle vingt États ont notifié leur consentement à être liés par ce Protocole, le Protocole entrera en vigueur six mois après la date à laquelle ledit État aura notifié son consentement à être ainsi lié.
 
 #### Art. 6
 
@@ -133,7 +127,7 @@ Les Hautes Parties contractantes s’engagent à diffuser le plus largement poss
 
 <sup>1.</sup> Si l’une des parties à un conflit n’est pas liée par un Protocole annexé à la présente Convention, les parties liées par la Présente Convention et ledit Protocole y annexé restent liées par eux dans leurs relations mutuelles.
 
-<sup>2.</sup> Une Haute Partie contractante est liée par la présente Convention et par tout Protocole y annexé qui est en vigueur pour elle, dans toute situation prévue à l’article premier, vis‑à‑vis de tout Etat qui n’est pas partie à la présente Convention ou n’est pas lié par le protocole y annexé pertinent, si ce dernier Etat accepte et applique la présente Convention ou le Protocole pertinent et le notifie au Dépositaire.
+<sup>2.</sup> Une Haute Partie contractante est liée par la présente Convention et par tout Protocole y annexé qui est en vigueur pour elle, dans toute situation prévue à l’article premier, vis‑à‑vis de tout État qui n’est pas partie à la présente Convention ou n’est pas lié par le protocole y annexé pertinent, si ce dernier État accepte et applique la présente Convention ou le Protocole pertinent et le notifie au Dépositaire.
 
 <sup>3.</sup> Le Dépositaire informe immédiatement les Hautes Parties contractantes concernées de toute notification reçue au titre du par. 2 du présent article.
 
@@ -141,7 +135,7 @@ Les Hautes Parties contractantes s’engagent à diffuser le plus largement poss
 
 La présente Convention et les Protocoles y annexés par lesquels une Haute Partie contractante est liée s’appliquent à tout conflit armé contre ladite Haute Partie contractante du type visé au par. 4 de l’art. 1 du Protocole additionnel I aux Conventions de Genève du 12 août 1949[^7-1] relatif à la protection des victimes de la guerre:
 
-- a) lorsque la Haute Partie contractante est aussi partie au Protocole additionnel 1 et qu’une autorité visée au par. 3 de l’art. 96 dudit protocole s’est engagée à appliquer les Conventions de Genève et le Protocole additionnel 1 conformément au par. 3 de l’art. 96 dudit protocole et s’engage à appliquer en ce qui concerne ledit conflit, la présente Convention et les Protocoles y annexés pertinents; ou
+- a) lorsque la Haute Partie contractante est aussi partie au Protocole additionnel 1 et qu’une autorité visée au par. 3 de l’art. 96 dudit protocole s’est engagée à appliquer les Conventions de Genève et le Protocole additionnel 1 conformément au par. 3 de l’art. 96 dudit protocole et s’engage à appliquer en ce qui concerne ledit conflit, la présente Convention et les Protocoles y annexés pertinents, ou
 - b)
 
   lorsque la Haute Partie contractante n’est pas partie au Protocole additionnel 1 et qu’une autorité du type visé à l’al. a) ci‑dessus accepte et applique, en ce qui concerne ledit conflit, les obligations des Conventions de Genève et de la présente Convention et des protocoles y annexés pertinents. Cette acceptation et cette application ont à l’égard dudit conflit les effets suivants:
@@ -150,18 +144,18 @@ La présente Convention et les Protocoles y annexés par lesquels une Haute Part
   - ii) ladite autorité exerce les mêmes droits et s’acquitte des mêmes obligations qu’une Haute Partie contractante aux Conventions de Genève, à la présente Convention et aux Protocoles pertinents y annexés:
   - iii) les Conventions de Genève, la présente Convention et les Protocoles pertinents y annexés lient d’une manière égale toutes les parties au conflit.
 
-[^7-1]: [RS 0.518.521](https://fedlex.data.admin.ch/eli/cc/1982/1362_1362_1362)
+[^7-1]: [RS 0.518.521](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1968)
 
 #### Art. 8
 
 **Révision et amendements**
 
-- 1\. a) Après l’entrée en vigueur de la présente Convention, toute Haute Partie contractante peut à tout moment proposer des amendements à la présente Convention ou à l’un quelconque des Protocoles y annexés par lequel elle est liée. Toute proposition d’amendement est communiquée au Dépositaire qui la notifie à toutes les Hautes Parties contractantes en leur demandant s’il y a lieu de convoquer une Conférence pour l’examiner. Si une majorité d’au moins 18 Hautes Parties contractantes en sont d’accord, le Dépositaire convoquera dans les meilleurs délais une conférence à laquelle toutes les Hautes Parties contractantes seront invitées. Les Etats non parties à la présente Convention seront invités à la conférence en qualité d’observateurs.
+- 1\. a) Après l’entrée en vigueur de la présente Convention, toute Haute Partie contractante peut à tout moment proposer des amendements à la présente Convention ou à l’un quelconque des Protocoles y annexés par lequel elle est liée. Toute proposition d’amendement est communiquée au Dépositaire qui la notifie à toutes les Hautes Parties contractantes en leur demandant s’il y a lieu de convoquer une Conférence pour l’examiner. Si une majorité d’au moins 18 Hautes Parties contractantes en sont d’accord, le Dépositaire convoquera dans les meilleurs délais une conférence à laquelle toutes les Hautes Parties contractantes seront invitées. Les États non parties à la présente Convention seront invités à la conférence en qualité d’observateurs.
 - b) Cette conférence pourra convenir d’amendements qui seront adoptés et entreront en vigueur de la même manière que la présente Convention et les protocoles y annexés; toutefois, les amendements à la présente Convention ne pourront être adoptés que par les Hautes Parties contractantes et les amendements à un Protocole y annexé ne pourront l’être que par les Hautes Parties contractantes qui sont liées par ce Protocole.
-- 2\. a) Après l’entrée en vigueur de la présente Convention, toute Haute Partie contractante peut à tout moment proposer des protocoles additionnels concernant d’autres catégories d’armes classiques sur lesquelles les Protocoles annexés existants ne portent pas. Toute proposition de protocole additionnel est communiquée au Dépositaire qui la notifie à toutes les Hautes Parties contractantes conformément à l’al. a) du par. 1 du présent article. Si une majorité d’au moins 18 Hautes Parties contractantes en sont d’accord, le Dépositaire convoquera dans les meilleurs délais une conférence à laquelle tous les Etats seront invités.
-- b) Cette conférence pourra, avec la pleine participation de tous les Etats représentés à la conférence, approuver des protocoles additionnels, qui seront adoptés de la même manière que la présente Convention, y seront annexés et entreront en vigueur conformément aux dispositions des par. 3 et 4 de l’art. 5 de la présente Convention.
-- 3\. a) Si, 10 ans après l’entrée en vigueur de la présente Convention aucune conférence n’a été convoquée conformément aux alinéas a) du paragraphe 1 ou a) du par. 2 du présent article, toute Haute Partie contractante pourra prier le Dépositaire de convoquer une conférence, à laquelle toutes les Hautes Parties contractantes seront invitées pour examiner la portée et l’application de la Convention et des Protocoles y annexés et étudier toute proposition d’amendement à la présente Convention ou aux Protocoles existants. Les Etats non parties à la présente Convention seront invités à la conférence en qualité d’observateurs. La conférence pourra approuver des amendements qui seront adoptés et entreront en vigueur conformément à l’al. b) du par. 1 ci‑dessus.
-- b) La conférence pourra aussi examiner toute proposition de protocoles additionnels concernant d’autres catégories d’armes classiques non couvertes par les Protocoles annexés existants. Tous les Etats représentés à la conférence pourront participer pleinement à cet examen. Les protocoles additionnels seront adoptés de la même manière que la présente Convention, y seront annexés et entreront en vigueur conformément aux dispositions des par. 3 et 4 de l’art. 5 de la présente Convention.
+- 2\. a) Après l’entrée en vigueur de la présente Convention, toute Haute Partie contractante peut à tout moment proposer des protocoles additionnels concernant d’autres catégories d’armes classiques sur lesquelles les Protocoles annexés existants ne portent pas. Toute proposition de protocole additionnel est communiquée au Dépositaire qui la notifie à toutes les Hautes Parties contractantes conformément à l’al. a) du par. 1 du présent article. Si une majorité d’au moins 18 Hautes Parties contractantes en sont d’accord, le Dépositaire convoquera dans les meilleurs délais une conférence à laquelle tous les États seront invités.
+- b) Cette conférence pourra, avec la pleine participation de tous les États représentés à la conférence, approuver des protocoles additionnels, qui seront adoptés de la même manière que la présente Convention, y seront annexés et entreront en vigueur conformément aux dispositions des par. 3 et 4 de l’art. 5 de la présente Convention.
+- 3\. a) Si, 10 ans après l’entrée en vigueur de la présente Convention aucune conférence n’a été convoquée conformément aux alinéas a) du paragraphe 1 ou a) du par. 2 du présent article, toute Haute Partie contractante pourra prier le Dépositaire de convoquer une conférence, à laquelle toutes les Hautes Parties contractantes seront invitées pour examiner la portée et l’application de la Convention et des Protocoles y annexés et étudier toute proposition d’amendement à la présente Convention ou aux Protocoles existants. Les États non parties à la présente Convention seront invités à la conférence en qualité d’observateurs. La conférence pourra approuver des amendements qui seront adoptés et entreront en vigueur conformément à l’al. b) du par. 1 ci‑dessus.
+- b) La conférence pourra aussi examiner toute proposition de protocoles additionnels concernant d’autres catégories d’armes classiques non couvertes par les Protocoles annexés existants. Tous les États représentés à la conférence pourront participer pleinement à cet examen. Les protocoles additionnels seront adoptés de la même manière que la présente Convention, y seront annexés et entreront en vigueur conformément aux dispositions des par. 3 et 4 de l’art. 5 de la présente Convention.
 - c) Ladite conférence pourra examiner la question de savoir s’il y a lieu de prévoir la convocation d’une nouvelle conférence à la demande d’une Haute Partie contractante au cas où, après une période similaire à celle qui est visée à l’al. a) du par. 3 du présent article, aucune conférence n’a été convoquée conformément aux al. a) du par. 1 ou a) du par. 2 du présent article.
 
 #### Art. 9
@@ -186,7 +180,7 @@ La présente Convention et les Protocoles y annexés par lesquels une Haute Part
 
 <sup>2.</sup>
 
-Outre l’exercice de ses fonctions habituelles, le Dépositaire notifiera à tous les Etats:
+Outre l’exercice de ses fonctions habituelles, le Dépositaire notifiera à tous les États:
 
 - a) les signatures apposées à la présente Convention, conformément à l’art. 3;
 - b) les instruments de ratification, d’acceptation, d’approbation ou d’adhésion à la présente Convention, déposés conformément à l’art. 4;
@@ -198,7 +192,7 @@ Outre l’exercice de ses fonctions habituelles, le Dépositaire notifiera à to
 
 **Textes authentiques**
 
-L’original de la présente Convention et des Protocoles y annexés, dont les textes anglais, arabe, chinois, espagnol, français et russe sont également authentiques, sera déposé auprès du Dépositaire qui fera parvenir des copies certifiées conformes à tous les Etats.
+L’original de la présente Convention et des Protocoles y annexés, dont les textes anglais, arabe, chinois, espagnol, français et russe sont également authentiques, sera déposé auprès du Dépositaire qui fera parvenir des copies certifiées conformes à tous les États.
 
 (Suivent les signatures)
 
@@ -210,7 +204,7 @@ Il est interdit d’employer toute arme dont l’effet principal est de blesser 
 
 Protocole II
 
-## Protocole sur l’interdiction ou la limitation de l’emploi des mines, pièges et autres dispositifs, tel qu’il a été modifié le 3 mai 1996****
+## Protocole sur l’interdiction ou la limitation de l’emploi des mines, pièges et autres dispositifs, tel qu’il a été modifié le 3 mai 1996
 
 [^annexu1-lvlu1-1]
 
@@ -226,13 +220,13 @@ Protocole II
 
 <sup>3.</sup> Dans le cas de conflits armés qui ne revêtent pas un caractère international et se produisent sur le territoire de l’une des Hautes Parties contractantes, chaque partie au conflit est tenue d’appliquer les interdictions et restrictions prévues par le présent Protocole.
 
-<sup>4.</sup> Aucune disposition du présent Protocole n’est invoquée pour porter atteinte à la souveraineté d’un Etat ou à la responsabilité qu’a le gouvernement, par tous les moyens légitimes, de maintenir ou de rétablir l’ordre public dans l’Etat ou de défendre l’unité nationale et l’intégrité territoriale de l’Etat.
+<sup>4.</sup> Aucune disposition du présent Protocole n’est invoquée pour porter atteinte à la souveraineté d’un État ou à la responsabilité qu’a le gouvernement, par tous les moyens légitimes, de maintenir ou de rétablir l’ordre public dans l’État ou de défendre l’unité nationale et l’intégrité territoriale de l’État.
 
 <sup>5.</sup> Aucune disposition du présent Protocole n’est invoquée pour justifier une intervention, directe ou indirecte, pour quelque raison que ce soit, dans le conflit armé ou dans les affaires intérieures ou extérieures de la Haute Partie contractante sur le territoire de laquelle ce conflit se produit.
 
 <sup>6.</sup> L’application des dispositions du présent Protocole à des parties à un conflit qui ne sont pas de Hautes Parties contractantes ayant accepté le présent Protocole ne modifie ni explicitement ni implicitement leur statut juridique ni celui d’un territoire contesté.
 
-[^annexu1-lvlu1-1-1]: [RS 0.518.12](https://fedlex.data.admin.ch/eli/cc/1951/181_184_180), [0.518.23](https://fedlex.data.admin.ch/eli/cc/1951/207_209_205), [0.518.42](https://fedlex.data.admin.ch/eli/cc/1951/228_230_226)et **0.518.51**
+[^annexu1-lvlu1-1-1]: [RS 0.518.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1960), [0.518.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1964), [0.518.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1966)et **0.518.51**
 
 #### Art. 2
 
@@ -254,7 +248,7 @@ Aux fins du présent Protocole, on entend:
 - 12\. Par «autodésactivation», le processus automatique qui rend l’engin inopérant par l’épuisement irréversible d’un élément, par exemple une batterie, essentiel à son fonctionnement.
 - 13\. Par «télécommande», la commande à distance.
 - 14\. Par «dispositif antimanipulation», un dispositif destiné à protéger une mine et qui fait partie de celle-ci, est relié à celle-ci, attaché à celle-ci ou placé sous celle-ci, et qui se déclenche en cas de tentative de manipulation de la mine.
-- 15\. Par «transfert», outre le retrait matériel des mines du territoire d’un Etat ou leur introduction matérielle dans celui d’un autre Etat, le transfert du droit de propriété et du contrôle sur ces mines, mais non la cession d’un territoire sur lequel des mines ont été mises en place.
+- 15\. Par «transfert», outre le retrait matériel des mines du territoire d’un État ou leur introduction matérielle dans celui d’un autre État, le transfert du droit de propriété et du contrôle sur ces mines, mais non la cession d’un territoire sur lequel des mines ont été mises en place.
 
 #### Art. 3
 
@@ -265,7 +259,7 @@ Aux fins du présent Protocole, on entend:
 Le présent article s’applique:
 
 - a) aux mines;
-- b) aux pièges; et
+- b) aux pièges, et
 - c) aux autres dispositifs.
 
 <sup>2.</sup> Chaque Haute Partie contractante ou chaque partie à un conflit est responsable, conformément aux dispositions du présent Protocole, de toutes les mines et de tous les pièges et autres dispositifs qu’elle a employés et s’engage à les enlever, les retirer, les détruire ou les entretenir comme il est précisé à l’art. 10 du Protocole.
@@ -285,7 +279,7 @@ Le présent article s’applique:
 L’emploi sans discrimination des armes auxquelles s’applique le présent article est interdit. Par emploi sans discrimination, on entend toute mise en place de ces armes:
 
 - a) ailleurs que sur un objectif militaire, ou telle que ces armes ne sont pas dirigées contre un tel objectif. En cas de doute sur le point de savoir si un bien qui est normalement consacré à des usages civils, par exemple un lieu de culte, une maison ou un autre logement ou une école, est utilisé pour apporter une contribution effective à une action militaire, ce bien est présumé ne pas être utilisé à cette fin;
-- b) qui implique une méthode ou un moyen de transport sur l’objectif tel que ces armes ne peuvent pas être dirigées contre un objectif militaire spécifique; ou
+- b) qui implique une méthode ou un moyen de transport sur l’objectif tel que ces armes ne peuvent pas être dirigées contre un objectif militaire spécifique, ou
 - c) dont on peut attendre qu’elle cause incidemment des pertes en vies humaines dans la population civile, des blessures aux personnes civiles, des dommages aux biens de caractère civil ou une combinaison de ces pertes et dommages, qui seraient excessifs par rapport à l’avantage militaire concret et direct attendu.
 
 <sup>9.</sup> Plusieurs objectifs militaires nettement séparés et distincts situés dans une ville, une localité, un village ou une autre zone où se trouve une concentration analogue de populations civiles ou de biens de caractère civil ne sauraient être considérés comme un objectif militaire unique.
@@ -317,8 +311,8 @@ II est interdit d’employer des mines antipersonnel qui ne sont pas détectable
 
 Il est interdit d’utiliser des armes auxquelles s’applique le présent article et qui ne sont pas conformes aux dispositions de l’Annexe technique concernant l’autodestruction ou l’autodésactivation, à moins:
 
-- a) que ces armes ne soient placées dans une zone dont le périmètre est marqué, qui est surveillée par un personnel militaire et protégée par une clôture ou d’autres moyens afin d’empêcher effectivement les civils d’y pénétrer. Le marquage doit être reconnaissable et durable et doit au moins pouvoir être vu de quiconque se trouve aux abords immédiats de cette zone; et
-- b) que ces armes ne soient enlevées avant l’évacuation de la zone, sauf si celle-ci est livrée aux forces d’un autre Etat, qui acceptent la responsabilité de l’entretien des moyens de protection requis par le présent article et, ultérieurement, de l’enlèvement de ces armes.
+- a) que ces armes ne soient placées dans une zone dont le périmètre est marqué, qui est surveillée par un personnel militaire et protégée par une clôture ou d’autres moyens afin d’empêcher effectivement les civils d’y pénétrer. Le marquage doit être reconnaissable et durable et doit au moins pouvoir être vu de quiconque se trouve aux abords immédiats de cette zone, et
+- b) que ces armes ne soient enlevées avant l’évacuation de la zone, sauf si celle-ci est livrée aux forces d’un autre État, qui acceptent la responsabilité de l’entretien des moyens de protection requis par le présent article et, ultérieurement, de l’enlèvement de ces armes.
 
 <sup>3.</sup> Une partie à un conflit n’est libérée de l’obligation de respecter les dispositions des al. a) et b) du par. 2 du présent article que si elle en est empêchée du fait qu’elle a été contrainte d’abandonner le contrôle de la zone à la suite d’une action militaire de l’ennemi ou si elle en est empêchée par une action militaire directe de l’ennemi. Si cette partie reconquiert le contrôle de la zone, elle est de nouveau tenue de respecter ces dispositions.
 
@@ -330,7 +324,7 @@ Il est interdit d’utiliser des armes auxquelles s’applique le présent artic
 
 Les armes auxquelles s’applique le présent article et qui projettent des éclats selon un arc horizontal inférieur à 90° et sont placées sur le sol ou au-dessus du sol peuvent être employées sans que soient prises les mesures prévues au par. 2, al. a), du présent article pendant 72 heures au plus, si:
 
-- a) elles se trouvent à proximité immédiate de l’unité militaire qui les a mises en place; et si
+- a) elles se trouvent à proximité immédiate de l’unité militaire qui les a mises en place, et si
 - b) la zone est surveillée par du personnel militaire afin d’empêcher effectivement les civils d’y pénétrer.
 
 #### Art. 6
@@ -361,7 +355,7 @@ Sans préjudice des règles du droit international applicables aux conflits arm�
 - f) à des aliments ou à des boissons;
 - g) à des ustensiles de cuisine ou à des appareils ménagers, sauf dans des établissements militaires, des sites militaires et des dépôts d’approvisionnement militaires;
 - h) à des objets de caractère indiscutablement religieux;
-- i) à des monuments historiques, des œuvres d’art ou des lieux de culte qui constituent le patrimoine culturel ou spirituel des peuples; ou
+- i) à des monuments historiques, des œuvres d’art ou des lieux de culte qui constituent le patrimoine culturel ou spirituel des peuples, ou
 - j) à des animaux ou à des carcasses d’animaux.
 
 <sup>2.</sup> Il est interdit d’employer des pièges ou d’autres dispositifs qui ont l’apparence d’objets portatifs inoffensifs, mais qui sont en fait spécialement conçus et fabriqués pour contenir des matières explosives.
@@ -370,7 +364,7 @@ Sans préjudice des règles du droit international applicables aux conflits arm�
 
 Sans préjudice des dispositions de l’art. 3, il est interdit d’employer des armes auxquelles s’applique le présent article dans toute ville, toute localité, tout village ou toute autre zone où se trouve une concentration analogue de populations civiles, où aucun combat ne se déroule entre des forces terrestres ni semble imminent, à moins:
 
-- a) que ces armes ne soient placées sur un objectif militaire ou à proximité immédiate d’un tel objectif; ou
+- a) que ces armes ne soient placées sur un objectif militaire ou à proximité immédiate d’un tel objectif, ou
 - b) que des mesures, telles que le placement de sentinelles, le lancement d’avertissements ou la mise en place de clôtures, ne soient prises pour protéger les populations civiles contre les effets desdites armes.
 
 #### Art. 8
@@ -382,9 +376,9 @@ Sans préjudice des dispositions de l’art. 3, il est interdit d’employer des
 Afin d’oeuvrer à la réalisation des objectifs du présent Protocole, chaque Haute Partie contractante:
 
 - a) s’engage à ne pas transférer de mines dont l’emploi est interdit par le présent Protocole;
-- b) s’engage à ne pas transférer de mines à un destinataire autre qu’un Etat ou un organisme d’Etat qui soit habilité à en recevoir;
-- c) s’engage à faire preuve de retenue en matière de transfert de mines dont l’emploi est restreint par le présent Protocole. En particulier, chaque Haute Partie contractante s’engage à ne pas transférer de mines antipersonnel à des Etats qui ne sont pas liés par le Protocole, sauf si l’Etat qui les reçoit accepte d’appliquer le présent Protocole;
-- d) s’engage à assurer que tout transfert effectué conformément au présent article se fait dans le respect entier, à la fois par l’Etat qui transfère les mines et par celui qui les reçoit, des dispositions pertinentes du présent Protocole et des normes du droit international humanitaire applicables.
+- b) s’engage à ne pas transférer de mines à un destinataire autre qu’un État ou un organisme d’État qui soit habilité à en recevoir;
+- c) s’engage à faire preuve de retenue en matière de transfert de mines dont l’emploi est restreint par le présent Protocole. En particulier, chaque Haute Partie contractante s’engage à ne pas transférer de mines antipersonnel à des États qui ne sont pas liés par le Protocole, sauf si l’État qui les reçoit accepte d’appliquer le présent Protocole;
+- d) s’engage à assurer que tout transfert effectué conformément au présent article se fait dans le respect entier, à la fois par l’État qui transfère les mines et par celui qui les reçoit, des dispositions pertinentes du présent Protocole et des normes du droit international humanitaire applicables.
 
 <sup>2.</sup> Si une Haute Partie contractante déclare qu’elle différera le respect de dispositions spécifiques relatives à l’emploi de certaines mines, comme le prévoit l’Annexe technique, l’al. a) du par. 1 du présent article s’applique cependant à de telles mines.
 
@@ -412,7 +406,7 @@ En même temps, elles fournissent, chacune à l’autre ou aux autres parties au
 
 <sup>3.</sup> Lorsqu’une partie ne contrôle plus des zones dans lesquelles elle a mis en place des champs de mines, zones minées, mines, pièges et autres dispositifs, elle fournit à la partie qui en a le contrôle, en vertu du par. 2 du présent article, dans la mesure où cette dernière le permet, l’assistance technique et matérielle dont celle-ci a besoin pour s’acquitter de cette responsabilité.
 
-<sup>4.</sup> Chaque fois qu’il est nécessaire, les parties s’efforcent de conclure un accord, tant entre elles que, s’il y a lieu, avec d’autres Etats et avec des organisations internationales, sur l’octroi d’une assistance technique et matérielle, y compris, si les circonstances s’y prêtent, sur l’organisation d’opérations conjointes nécessaires pour s’acquitter de ces responsabilités.
+<sup>4.</sup> Chaque fois qu’il est nécessaire, les parties s’efforcent de conclure un accord, tant entre elles que, s’il y a lieu, avec d’autres États et avec des organisations internationales, sur l’octroi d’une assistance technique et matérielle, y compris, si les circonstances s’y prêtent, sur l’organisation d’opérations conjointes nécessaires pour s’acquitter de ces responsabilités.
 
 #### Art. 11
 
@@ -424,7 +418,7 @@ En même temps, elles fournissent, chacune à l’autre ou aux autres parties au
 
 <sup>3.</sup> Chaque Haute Partie contractante qui est en mesure de le faire fournit une assistance au déminage par le biais des organismes des Nations Unies ou d’autres organismes internationaux ou encore par la voie d’accords bilatéraux, ou verse des contributions au Fonds d’affectation spéciale pour l’assistance au déminage.
 
-<sup>4.</sup> Les demandes d’assistance des Hautes Parties contractantes, appuyées par des renseignements pertinents, peuvent être adressées à l’Organisation des Nations Unies, à d’autres organismes appropriés ou à d’autres Etats. Elles peuvent être présentées au Secrétaire général de l’Organisation des Nations Unies, qui les transmet à toutes les Hautes Parties contractantes et aux organisations internationales compétentes.
+<sup>4.</sup> Les demandes d’assistance des Hautes Parties contractantes, appuyées par des renseignements pertinents, peuvent être adressées à l’Organisation des Nations Unies, à d’autres organismes appropriés ou à d’autres États. Elles peuvent être présentées au Secrétaire général de l’Organisation des Nations Unies, qui les transmet à toutes les Hautes Parties contractantes et aux organisations internationales compétentes.
 
 <sup>5.</sup> Dans le cas des demandes qui sont adressées à l’Organisation des Nations Unies, le Secrétaire général de l’Organisation peut, dans les limites des ressources dont il dispose, faire le nécessaire pour évaluer la situation et, en coopération avec la Haute Partie contractante requérante, déterminer quelle assistance au déminage ou à l’application du Protocole il convient d’apporter à cette partie. Le Secrétaire général peut aussi faire rapport aux Hautes Parties contractantes sur toute évaluation ainsi effectuée de même que sur le type et l’ampleur de l’assistance requise.
 
@@ -438,7 +432,7 @@ En même temps, elles fournissent, chacune à l’autre ou aux autres parties au
 
 ### Application
 
-- a) A l’exception des forces et missions visées au par. 2, al. a) i), ci-après, le présent article s’applique uniquement aux missions s’acquittant de tâches dans une zone située sur le territoire d’une Haute Partie contractante avec le consentement de celle-ci.
+- a) À l’exception des forces et missions visées au par. 2, al. a) i), ci-après, le présent article s’applique uniquement aux missions s’acquittant de tâches dans une zone située sur le territoire d’une Haute Partie contractante avec le consentement de celle-ci.
 - b) L’application des dispositions du présent article à des parties à un conflit qui ne sont pas de Hautes Parties contractantes ne modifie ni explicitement ni implicitement leur statut juridique ni celui d’un territoire contesté.
 - c) Les dispositions du présent article s’appliquent sans préjudice de celles du droit international humanitaire en vigueur ou d’autres instruments internationaux applicables ou de décisions du Conseil de sécurité de l’Organisation des Nations Unies, qui visent à assurer une plus haute protection au personnel s’acquittant de ses tâches conformément au présent article.
 
@@ -471,12 +465,12 @@ En même temps, elles fournissent, chacune à l’autre ou aux autres parties au
 
     dès lors que la mission a besoin, pour s’acquitter de ses tâches, d’avoir accès à un lieu quelconque placé sous le contrôle de la partie ou de passer par un tel lieu, et afin d’assurer au personnel de la mission un accès sûr à ce lieu ou un passage sûr par ce lieu:
 
-    - aa) à moins que les hostilités en cours l’empêchent, signale au chef de la mission une voie sûre vers ce lieu, pour autant que la partie dispose des renseignements requis; ou
+    - aa) à moins que les hostilités en cours l’empêchent, signale au chef de la mission une voie sûre vers ce lieu, pour autant que la partie dispose des renseignements requis, ou
     - bb) si les renseignements permettant de déterminer une voie sûre ne sont pas fournis conformément à l’al. aa), dégage une voie à travers les champs de mines, pour autant que cela soit nécessaire et qu’il soit possible de le faire.
 
 ### Missions du Comité international de la Croix-Rouge
 
-- a) Le présent paragraphe s’applique à toute mission du Comité international de la Croix-Rouge qui s’acquitte de tâches avec le consentement de l’Etat ou des Etats hôtes, tel que le prévoient les Conventions de Genève du 12 août 1949 et, le cas échéant, les Protocoles additionnels à ces Conventions.
+- a) Le présent paragraphe s’applique à toute mission du Comité international de la Croix-Rouge qui s’acquitte de tâches avec le consentement de l’État ou des États hôtes, tel que le prévoient les Conventions de Genève du 12 août 1949 et, le cas échéant, les Protocoles additionnels à ces Conventions.
 - b)
 
   Chaque Haute Partie contractante ou chaque partie à un conflit, si elle en est priée par le chef d’une mission à laquelle s’applique le présent paragraphe:
@@ -501,7 +495,7 @@ En même temps, elles fournissent, chacune à l’autre ou aux autres parties au
   - i) assure au personnel de la mission la protection décrite au par. 2, al. b) i), du présent article;
   - ii) prend les mesures énoncées au par. 3, al. b) ii), du présent article.
 
-[^annexu1-lvlu1-12-subdivu5-1]: [RS 0.518.521](https://fedlex.data.admin.ch/eli/cc/1982/1362_1362_1362)et **0.518.522**
+[^annexu1-lvlu1-12-subdivu5-1]: [RS 0.518.521](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1968)et **0.518.522**
 
 ### Confidentialité
 
@@ -511,14 +505,14 @@ Tous les renseignements fournis à titre confidentiel en application des disposi
 
 Sans préjudice des privilèges et immunités dont ils peuvent jouir ou des exigences de leurs fonctions, les membres des forces et missions visées dans le présent article:
 
-- a) respectent les lois et règlements de l’Etat hôte;
+- a) respectent les lois et règlements de l’État hôte;
 - b) s’abstiennent de toute action ou activité incompatible avec le caractère impartial et international de leurs fonctions.
 
 #### Art. 13
 
 **Consultations des Hautes Parties contractantes**
 
-<sup>1.</sup> Les Hautes Parties contractantes s’engagent à se consulter et à coopérer entre elles pour ce qui est de toutes questions concernant le fonctionnement du présent Protocole. A cette fin, une conférence des Hautes Parties contractantes se tient chaque année.
+<sup>1.</sup> Les Hautes Parties contractantes s’engagent à se consulter et à coopérer entre elles pour ce qui est de toutes questions concernant le fonctionnement du présent Protocole. À cette fin, une conférence des Hautes Parties contractantes se tient chaque année.
 
 <sup>2.</sup> La participation aux conférences annuelles est régie par le règlement intérieur adopté pour celles-ci.
 
@@ -542,7 +536,7 @@ Les Hautes Parties contractantes présentent au Dépositaire, qui en assure la d
 - e) les mesures prises concernant l’échange international d’informations techniques, la coopération internationale au déminage ainsi que la coopération et l’assistance techniques;
 - f) d’autres points pertinents.
 
-<sup>5.</sup> Les coûts de la conférence sont couverts par les Hautes Parties contractantes et les Etats qui participent aux travaux de la conférence sans être parties, selon le barème des quotes-parts de l’Organisation des Nations Unies, dûment ajusté.
+<sup>5.</sup> Les coûts de la conférence sont couverts par les Hautes Parties contractantes et les États qui participent aux travaux de la conférence sans être parties, selon le barème des quotes-parts de l’Organisation des Nations Unies, dûment ajusté.
 
 #### Art. 14
 
@@ -612,7 +606,7 @@ Des signaux similaires à celui de l’exemple figurant en appendice et comme d�
 
 Signal de danger pour les zones où des mines ont été placées
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1499_1499_1499/20170510/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1499_1499_1499/20221004/fr/xml/image/image1.png)
 
 Protocole III
 
@@ -630,7 +624,7 @@ Aux fins du présent Protocole:
 
     Les armes incendiaires ne comprennent pas:
 
-    - i) Les munitions qui peuvent avoir des effets incendiaires fortuits, par exemple, les munitions éclairantes, traceuses, fumigènes ou les systèmes de signalisation;
+    - i) Les munitions qui peuvent avoir des effets incendiaires fortuits, par exemple, les munitions éclairantes, traceuses, fumigènes ou les systèmes de signalisation,
     - ii) Les munitions qui sont conçues pour combiner des effets de pénétration, de souffle ou de fragmentation avec un effet incendiaire, par exemple les projectiles perforants, les obus à fragmentation, les bombes explosives et les munitions similaires à effets combinés où l’effet incendiaire ne vise pas expressément à infliger des brûlures à des personnes, mais doit être utilisé contre des objectifs militaires, par exemple des véhicules blindés, des aéronefs et des installations ou des moyens de soutien logistique.
 
 - 2\. On entend par «concentration de civils» une concentration de civils, qu’elle soit permanente ou temporaire, telle qu’il en existe dans les parties habitées des villes ou dans les bourgs ou des villages habités ou comme celles que constituent les camps et les colonnes de réfugiés ou d’évacués, ou les groupes de nomades.
@@ -652,7 +646,7 @@ Aux fins du présent Protocole:
 
 Protocole IV
 
-## Protocole relatif aux armes à laser aveuglantes****
+## Protocole relatif aux armes à laser aveuglantes
 
 [^annexu1-lvlu1-2]
 
@@ -660,7 +654,7 @@ Protocole IV
 
 #### Art. 1
 
-II est interdit d’employer des armes à laser spécifiquement conçues de telle façon que leur seule fonction de combat ou une de leurs fonctions de combat soit de provoquer la cécité permanente chez des personnes dont la vision est non améliorée, c’est-à-dire qui regardent à l’œil nu ou qui portent des verres correcteurs. Les Hautes Parties contractantes ne transfèrent de telles armes à aucun Etat ni à aucune entité autre qu’un Etat.
+II est interdit d’employer des armes à laser spécifiquement conçues de telle façon que leur seule fonction de combat ou une de leurs fonctions de combat soit de provoquer la cécité permanente chez des personnes dont la vision est non améliorée, c’est-à-dire qui regardent à l’œil nu ou qui portent des verres correcteurs. Les Hautes Parties contractantes ne transfèrent de telles armes à aucun État ni à aucune entité autre qu’un État.
 
 #### Art. 2
 
@@ -674,23 +668,24 @@ L’aveuglement en tant qu’effet fortuit ou collatéral de l’emploi militair
 
 Aux fins du présent Protocole, on entend par «cécité permanente» une perte de la vue irréversible et non corrigeable, qui est gravement invalidante sans aucune perspective de recouvrement. Une invalidité grave équivaut à une acuité visuelle inférieure à 20/200, mesurée aux deux yeux à l’aide du test de Snellen.
 
-Champ d’application le 10 mai 2017**[^t-3]**
+Champ d’application le 4 octobre 2022[^t-3]
 
 <table>
-<tr><th>Etats parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><td>Afghanistan</td><td>9 août</td><td>2017</td><td>9 février</td><td>2018</td></tr>
 <tr><td>Afrique du Sud</td><td>13 septembre</td><td>1995 A</td><td>13 mars</td><td>1996</td></tr>
 <tr><td>Albanie</td><td>28 août</td><td>2002 A</td><td>28 février</td><td>2003</td></tr>
 <tr><td>Algérie <sup>a</sup></td><td>6 mai</td><td>2015 A</td><td>6 novembre</td><td>2015</td></tr>
-<tr><td>Allemagne<sup>\*\*</sup></td><td>25 novembre</td><td>1992</td><td>25 mai</td><td>1993</td></tr>
+<tr><td>Allemagne\*\*</td><td>25 novembre</td><td>1992</td><td>25 mai</td><td>1993</td></tr>
 <tr><td>Antigua-et-Barbuda <sup>a</sup></td><td>28 août</td><td>2010 A</td><td>23 février</td><td>2011</td></tr>
 <tr><td>Arabie Saoudite <sup>a</sup></td><td>7 décembre</td><td>2007 A</td><td>7 juin</td><td>2008</td></tr>
-<tr><td>Argentine<sup>\*</sup></td><td>2 octobre</td><td>1995</td><td>2 avril</td><td>1996</td></tr>
+<tr><td>Argentine\*</td><td>2 octobre</td><td>1995</td><td>2 avril</td><td>1996</td></tr>
 <tr><td>Australie</td><td>29 septembre</td><td>1983</td><td>29 mars</td><td>1984</td></tr>
-<tr><td>Autriche<sup>\*\*</sup></td><td>14 mars</td><td>1983</td><td>2 décembre</td><td>1983</td></tr>
+<tr><td>Autriche\*\*</td><td>14 mars</td><td>1983</td><td>2 décembre</td><td>1983</td></tr>
 <tr><td>Bangladesh</td><td>6 septembre</td><td>2000 A</td><td>6 mars</td><td>2001</td></tr>
 <tr><td>Bahreïn <sup>a</sup> <sup>c</sup></td><td>11 mars</td><td>2016 A</td><td>11 septembre</td><td>2016</td></tr>
 <tr><td>Bélarus</td><td>23 juin</td><td>1982</td><td>2 décembre</td><td>1983</td></tr>
-<tr><td>Belgique<sup>\*\*</sup></td><td>7 février</td><td>1995</td><td>7 août</td><td>1995</td></tr>
+<tr><td>Belgique\*\*</td><td>7 février</td><td>1995</td><td>7 août</td><td>1995</td></tr>
 <tr><td>Bénin <sup>a</sup></td><td>27 mars</td><td>1989 A</td><td>27 septembre</td><td>1989</td></tr>
 <tr><td>Bolivie</td><td>21 septembre</td><td>2001 A</td><td>21 mars</td><td>2002</td></tr>
 <tr><td>Burundi <sup>b</sup> <sup>c</sup></td><td>13 juillet</td><td>2012 A</td><td>13 janvier</td><td>2013</td></tr>
@@ -700,30 +695,30 @@ Champ d’application le 10 mai 2017**[^t-3]**
 <tr><td>Burkina Faso</td><td>26 novembre</td><td>2003 A</td><td>26 mai</td><td>2004</td></tr>
 <tr><td>Cambodge</td><td>25 mars</td><td>1997 A</td><td>25 septembre</td><td>1997</td></tr>
 <tr><td>Cameroun</td><td>7 décembre</td><td>2006 A</td><td>7 juin</td><td>2007</td></tr>
-<tr><td>Canada<sup>\*</sup></td><td>24 juin</td><td>1994</td><td>24 décembre</td><td>1994</td></tr>
+<tr><td>Canada\*</td><td>24 juin</td><td>1994</td><td>24 décembre</td><td>1994</td></tr>
 <tr><td>Cap-Vert</td><td>16 septembre</td><td>1997 A</td><td>16 mars</td><td>1998</td></tr>
 <tr><td>Chili <sup>a</sup></td><td>15 octobre</td><td>2003</td><td>15 avril</td><td>2004</td></tr>
-<tr><td>Chine<sup>\*</sup></td><td>7 avril</td><td>1982</td><td>2 décembre</td><td>1983</td></tr>
-<tr><td>Chypre<sup>\*</sup> <sup>\*\*</sup></td><td>12 décembre</td><td>1988 A</td><td>12 juin</td><td>1989</td></tr>
+<tr><td>Chine\*</td><td>7 avril</td><td>1982</td><td>2 décembre</td><td>1983</td></tr>
+<tr><td>Chypre\* \*\*</td><td>12 décembre</td><td>1988 A</td><td>12 juin</td><td>1989</td></tr>
 <tr><td>Colombie</td><td>6 mars</td><td>2000 A</td><td>6 septembre</td><td>2000</td></tr>
 <tr><td>Corée (Sud) <sup>a</sup> <sup>b</sup></td><td>9 mai</td><td>2001 A</td><td>9 novembre</td><td>2001</td></tr>
 <tr><td>Costa Rica</td><td>17 décembre</td><td>1998 A</td><td>17 juin</td><td>1999</td></tr>
 <tr><td>Côte d’Ivoire <sup>b</sup> <sup>c</sup></td><td>25 mai</td><td>2016</td><td>25 novembre</td><td>2016</td></tr>
 <tr><td>Croatie</td><td>2 décembre</td><td>1993 S</td><td>8 octobre</td><td>1991</td></tr>
 <tr><td>Cuba</td><td>2 mars</td><td>1987</td><td>2 septembre</td><td>1987</td></tr>
-<tr><td>Danemark<sup>\*\*</sup></td><td>7 juillet</td><td>1982</td><td>2 décembre</td><td>1983</td></tr>
+<tr><td>Danemark\*\*</td><td>7 juillet</td><td>1982</td><td>2 décembre</td><td>1983</td></tr>
 <tr><td>Djibouti</td><td>29 juillet</td><td>1996 A</td><td>29 janvier</td><td>1997</td></tr>
 <tr><td>El Salvador</td><td>26 janvier</td><td>2000 A</td><td>26 juillet</td><td>2000</td></tr>
-<tr><td>Emirats arabes unis <sup>a</sup></td><td>26 février</td><td>2009 A</td><td>26 août</td><td>2009</td></tr>
-<tr><td>Equateur</td><td>4 mai</td><td>1982</td><td>2 décembre</td><td>1983</td></tr>
-<tr><td>Espagne<sup>\*\*</sup></td><td>29 décembre</td><td>1993</td><td>29 juin</td><td>1994</td></tr>
-<tr><td>Etats-Unis<sup>\*</sup> <sup>d</sup></td><td>24 mars</td><td>1995</td><td>24 septembre</td><td>1995</td></tr>
+<tr><td>Émirats arabes unis <sup>a</sup></td><td>26 février</td><td>2009 A</td><td>26 août</td><td>2009</td></tr>
+<tr><td>Équateur</td><td>4 mai</td><td>1982</td><td>2 décembre</td><td>1983</td></tr>
+<tr><td>Espagne\*\*</td><td>29 décembre</td><td>1993</td><td>29 juin</td><td>1994</td></tr>
 <tr><td>Estonie <sup>a</sup></td><td>20 avril</td><td>2000 A</td><td>20 octobre</td><td>2000</td></tr>
-<tr><td>Finlande<sup>\*\*</sup></td><td>8 avril</td><td>1982</td><td>2 décembre</td><td>1983</td></tr>
-<tr><td>France<sup>\*</sup> <sup>\*\*</sup></td><td>4 mars</td><td>1988</td><td>4 septembre</td><td>1988</td></tr>
+<tr><td>États-Unis\* <sup>d</sup></td><td>24 mars</td><td>1995</td><td>24 septembre</td><td>1995</td></tr>
+<tr><td>Finlande\*\*</td><td>8 avril</td><td>1982</td><td>2 décembre</td><td>1983</td></tr>
+<tr><td>France\* \*\*</td><td>4 mars</td><td>1988</td><td>4 septembre</td><td>1988</td></tr>
 <tr><td>Gabon <sup>a</sup></td><td>1<sup>er</sup> octobre</td><td>2007 A</td><td>1<sup>er</sup> avril</td><td>2008</td></tr>
 <tr><td>Géorgie</td><td>29 avril</td><td>1996 A</td><td>29 octobre</td><td>1996</td></tr>
-<tr><td>Grèce<sup>\*\*</sup></td><td>28 janvier</td><td>1992</td><td>28 juillet</td><td>1992</td></tr>
+<tr><td>Grèce\*\*</td><td>28 janvier</td><td>1992</td><td>28 juillet</td><td>1992</td></tr>
 <tr><td>Grenade <sup>a</sup></td><td>10 décembre</td><td>2014 A</td><td>10 juin</td><td>2015</td></tr>
 <tr><td>Guatemala</td><td>21 juillet</td><td>1983 A</td><td>21 janvier</td><td>1984</td></tr>
 <tr><td>Guinée-Bissau</td><td>6 août</td><td>2008 A</td><td>6 février</td><td>2009</td></tr>
@@ -731,10 +726,10 @@ Champ d’application le 10 mai 2017**[^t-3]**
 <tr><td>Hongrie</td><td>14 juin</td><td>1982</td><td>2 décembre</td><td>1983</td></tr>
 <tr><td>Inde</td><td>1<sup>er</sup> mars</td><td>1984</td><td>1<sup>er</sup> septembre</td><td>1984</td></tr>
 <tr><td>Iraq</td><td>24 septembre</td><td>2014 A</td><td>24 mars</td><td>2015</td></tr>
-<tr><td>Irlande<sup>\*\*</sup></td><td>13 mars</td><td>1995</td><td>13 septembre</td><td>1995</td></tr>
+<tr><td>Irlande\*\*</td><td>13 mars</td><td>1995</td><td>13 septembre</td><td>1995</td></tr>
 <tr><td>Islande</td><td>22 août</td><td>2008</td><td>22 février</td><td>2009</td></tr>
 <tr><td>Israël\* <sup>b</sup></td><td>22 mars</td><td>1995 A</td><td>22 septembre</td><td>1995</td></tr>
-<tr><td>Italie<sup>\*</sup></td><td>20 janvier</td><td>1995</td><td>20 juillet</td><td>1995</td></tr>
+<tr><td>Italie\*</td><td>20 janvier</td><td>1995</td><td>20 juillet</td><td>1995</td></tr>
 <tr><td>Jamaïque <sup>a</sup></td><td>25 septembre</td><td>2008 A</td><td>25 mars</td><td>2009</td></tr>
 <tr><td>Japon</td><td>9 juin</td><td>1982</td><td>2 décembre</td><td>1983</td></tr>
 <tr><td>Jordanie <sup>a</sup></td><td>19 octobre</td><td>1995 A</td><td>19 avril</td><td>1996</td></tr>
@@ -748,9 +743,10 @@ Champ d’application le 10 mai 2017**[^t-3]**
 <tr><td>Liechtenstein</td><td>16 août</td><td>1989</td><td>16 février</td><td>1990</td></tr>
 <tr><td>Lituanie <sup>a</sup></td><td>3 juin</td><td>1998 A</td><td>3 décembre</td><td>1998</td></tr>
 <tr><td>Luxembourg</td><td>21 mai</td><td>1996</td><td>21 novembre</td><td>1996</td></tr>
-<tr><td>Macédoine</td><td>30 décembre</td><td>1996 S</td><td>17 novembre</td><td>1991</td></tr>
+<tr><td>Macédoine du Nord</td><td>30 décembre</td><td>1996 S</td><td>17 novembre</td><td>1991</td></tr>
 <tr><td>Madagascar</td><td>14 mars</td><td>2008 A</td><td>14 septembre</td><td>2008</td></tr>
-<tr><td>Maldives <sup>a</sup></td><td>7 septembre</td><td>2000</td><td>7 mars</td><td>2001</td></tr>
+<tr><td>Malawi <sup>b</sup></td><td>23 septembre</td><td>2022 A</td><td>23 mars</td><td>2023</td></tr>
+<tr><td>Maldives <sup>a</sup></td><td>7 septembre</td><td>2000 A</td><td>7 mars</td><td>2001</td></tr>
 <tr><td>Mali</td><td>24 octobre</td><td>2001 A</td><td>24 avril</td><td>2002</td></tr>
 <tr><td>Malte</td><td>26 juin</td><td>1995 A</td><td>26 décembre</td><td>1995</td></tr>
 <tr><td>Maroc <sup>b c</sup></td><td>19 mars</td><td>2002</td><td>19 septembre</td><td>2002</td></tr>
@@ -758,12 +754,12 @@ Champ d’application le 10 mai 2017**[^t-3]**
 <tr><td>Mexique</td><td>11 février</td><td>1982</td><td>2 décembre</td><td>1983</td></tr>
 <tr><td>Moldova</td><td>8 septembre</td><td>2000 A</td><td>8 mars</td><td>2001</td></tr>
 <tr><td>Monaco <sup>a</sup> <sup>b</sup></td><td>12 août</td><td>1997 A</td><td>12 février</td><td>1998</td></tr>
-<tr><td>Mongolie<sup>c</sup></td><td>8 juin</td><td>1982</td><td>2 décembre</td><td>1983</td></tr>
+<tr><td>Mongolie</td><td>8 juin</td><td>1982</td><td>2 décembre</td><td>1983</td></tr>
 <tr><td>Monténégro</td><td>23 octobre</td><td>2006 S</td><td>3 juin</td><td>2006</td></tr>
 <tr><td>Nauru</td><td>12 novembre</td><td>2001 A</td><td>12 mai</td><td>2002</td></tr>
 <tr><td>Nicaragua <sup>a</sup></td><td>5 décembre</td><td>2000</td><td>5 juin</td><td>2001</td></tr>
 <tr><td>Niger</td><td>10 novembre</td><td>1992 A</td><td>10 mai</td><td>1993</td></tr>
-<tr><td>Norvège<sup>\*\*</sup></td><td>7 juin</td><td>1983</td><td>7 décembre</td><td>1983</td></tr>
+<tr><td>Norvège\*\*</td><td>7 juin</td><td>1983</td><td>7 décembre</td><td>1983</td></tr>
 <tr><td>Nouvelle-Zélande</td><td>18 octobre</td><td>1993</td><td>18 avril</td><td>1994</td></tr>
 <tr><td>Ouganda</td><td>14 novembre</td><td>1995 A</td><td>14 mai</td><td>1996</td></tr>
 <tr><td>Ouzbékistan</td><td>29 septembre</td><td>1997 A</td><td>29 mars</td><td>1998</td></tr>
@@ -771,19 +767,19 @@ Champ d’application le 10 mai 2017**[^t-3]**
 <tr><td>Palestine <sup>a</sup></td><td>5 janvier</td><td>2015 A</td><td>5 juillet</td><td>2015</td></tr>
 <tr><td>Panama</td><td>26 mars</td><td>1997 A</td><td>26 septembre</td><td>1997</td></tr>
 <tr><td>Paraguay</td><td>22 septembre</td><td>2004 A</td><td>22 mars</td><td>2005</td></tr>
-<tr><td>Pays-Bas<sup>\*</sup> <sup>\*\*</sup> <sup>e</sup></td><td>18 juin</td><td>1987</td><td>18 décembre</td><td>1987</td></tr>
+<tr><td>Pays-Bas\* \*\* <sup>e</sup></td><td>18 juin</td><td>1987</td><td>18 décembre</td><td>1987</td></tr>
 <tr><td>Partie caraïbe (Bonaire, Sint Eustatius et Saba)</td><td>28 avril</td><td>2014</td><td>28 avril</td><td>2014</td></tr>
-<tr><td>Pérou<sup>a</sup></td><td>3 juillet</td><td>1997 A</td><td>3 janvier</td><td>1998</td></tr>
+<tr><td>Pérou <sup>a</sup></td><td>3 juillet</td><td>1997 A</td><td>3 janvier</td><td>1998</td></tr>
 <tr><td>Philippines</td><td>15 juillet</td><td>1996</td><td>15 janvier</td><td>1997</td></tr>
-<tr><td>Pologne<sup>\*\*</sup></td><td>2 juin</td><td>1983</td><td>2 décembre</td><td>1983</td></tr>
-<tr><td>Portugal<sup>\*\*</sup></td><td>4 avril</td><td>1997</td><td>4 octobre</td><td>1997</td></tr>
+<tr><td>Pologne\*\*</td><td>2 juin</td><td>1983</td><td>2 décembre</td><td>1983</td></tr>
+<tr><td>Portugal\*\*</td><td>4 avril</td><td>1997</td><td>4 octobre</td><td>1997</td></tr>
 <tr><td>Qatar <sup>a</sup></td><td>16 novembre</td><td>2009 A</td><td>16 mai</td><td>2010</td></tr>
-<tr><td>République Dominicaine</td><td>24 juin</td><td>2010</td><td>21 décembre</td><td>2010</td></tr>
+<tr><td>République Dominicaine</td><td>24 juin</td><td>2010 A</td><td>21 décembre</td><td>2010</td></tr>
 <tr><td>République tchèque</td><td>22 février</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
-<tr><td>Roumanie<sup>\*</sup></td><td>26 juillet</td><td>1995</td><td>26 janvier</td><td>1996</td></tr>
-<tr><td>Royaume-Uni<sup>\*</sup> <sup>\*\*</sup></td><td>13 février</td><td>1995</td><td>13 août</td><td>1995</td></tr>
+<tr><td>Roumanie\*</td><td>26 juillet</td><td>1995</td><td>26 janvier</td><td>1996</td></tr>
+<tr><td>Royaume-Uni\* \*\*</td><td>13 février</td><td>1995</td><td>13 août</td><td>1995</td></tr>
 <tr><td>Russie</td><td>10 juin</td><td>1982</td><td>2 décembre</td><td>1983</td></tr>
-<tr><td>Saint-Siège<sup>\*</sup></td><td>22 juillet</td><td>1997 A</td><td>22 janvier</td><td>1998</td></tr>
+<tr><td>Saint-Siège\*</td><td>22 juillet</td><td>1997 A</td><td>22 janvier</td><td>1998</td></tr>
 <tr><td>Saint-Vincent-et-les Grenadines <sup>a</sup></td><td>6 décembre</td><td>2010 A</td><td>6 juin</td><td>2011</td></tr>
 <tr><td>Sénégal <sup>a c</sup></td><td>29 novembre</td><td>1999 A</td><td>29 mai</td><td>2000</td></tr>
 <tr><td>Serbie</td><td>12 mars</td><td>2001 S</td><td>27 avril</td><td>1992</td></tr>
@@ -792,23 +788,18 @@ Champ d’application le 10 mai 2017**[^t-3]**
 <tr><td>Slovaquie</td><td>28 mai</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
 <tr><td>Slovénie</td><td>6 juillet</td><td>1992 S</td><td>25 juin</td><td>1991</td></tr>
 <tr><td>Sri Lanka <sup>a c</sup></td><td>24 septembre</td><td>2004 A</td><td>24 mars</td><td>2005</td></tr>
-<tr><td>Suède<sup>\*\*</sup></td><td>7 juillet</td><td>1982</td><td>2 décembre</td><td>1983</td></tr>
-<tr><td>Suisse<sup>\*\*</sup></td><td>20 août</td><td>1982</td><td>2 décembre</td><td>1983</td></tr>
+<tr><td>Suède\*\*</td><td>7 juillet</td><td>1982</td><td>2 décembre</td><td>1983</td></tr>
+<tr><td>Suisse\*\*</td><td>20 août</td><td>1982</td><td>2 décembre</td><td>1983</td></tr>
 <tr><td>Tadjikistan</td><td>12 octobre</td><td>1999 A</td><td>12 avril</td><td>2000</td></tr>
 <tr><td>Togo</td><td>4 décembre</td><td>1995</td><td>4 juin</td><td>1996</td></tr>
 <tr><td>Tunisie</td><td>15 mai</td><td>1987 A</td><td>15 novembre</td><td>1987</td></tr>
 <tr><td>Turkménistan <sup>b</sup></td><td>19 mars</td><td>2004 A</td><td>19 septembre</td><td>2004</td></tr>
-<tr><td>Turquie<sup>\*</sup> <sup>a</sup> <sup>b</sup></td><td>2 mars</td><td>2005</td><td>2 septembre</td><td>2005</td></tr>
+<tr><td>Turquie\* <sup>a</sup> <sup>b</sup></td><td>2 mars</td><td>2005</td><td>2 septembre</td><td>2005</td></tr>
 <tr><td>Ukraine</td><td>23 juin</td><td>1982</td><td>2 décembre</td><td>1983</td></tr>
 <tr><td>Uruguay</td><td>6 octobre</td><td>1994 A</td><td>6 avril</td><td>1995</td></tr>
 <tr><td>Venezuela</td><td>19 avril</td><td>2005 A</td><td>19 octobre</td><td>2005</td></tr>
 <tr><td>Zambie</td><td>25 septembre</td><td>2013 A</td><td>25 mars</td><td>2014</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Réserves et déclarations. <sup>\*\*</sup> Objections. Les réserves, déclarations et objections, à l’exception des réserves et déclarations de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne</td></tr>
-<tr><td colspan="5"><sup>a</sup> Cet Etat n’a pas consenti à être lié par le Protocole II.</td></tr>
-<tr><td colspan="5"><sup>b</sup> Cet Etat n’a pas consenti à être lié par le Protocole III.</td></tr>
-<tr><td colspan="5"><sup>c</sup> Cet Etat n’a pas consenti à être lié par le Protocole I.</td></tr>
-<tr><td colspan="5"><sup>d</sup> Cet Etat a accepté le Protocole III avec effet le 21 juillet 2009.</td></tr>
-<tr><td colspan="5"><sup>e</sup> Pour le Royaume en Europe.</td></tr>
+<tr><td colspan="5"><sup>\*</sup> Réserves et déclarations. <sup>\*\*</sup> Objections. Les réserves, déclarations et objections, à l’exception des réserves et déclarations de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: [http://treaties.un.org](http://treaties.un.org) ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Cet État n’a pas consenti à être lié par le Protocole II. <sup>b</sup> Cet État n’a pas consenti à être lié par le Protocole III. <sup>c</sup> Cet État n’a pas consenti à être lié par le Protocole I. <sup>d</sup> Cet État a accepté le Protocole III avec effet le 21 juillet 2009. <sup>e</sup> Pour le Royaume en Europe.</td></tr>
 </table>
 
-[^t-3]: [RO 1983 1499](https://fedlex.data.admin.ch/eli/oc/1983/1499_1499_1499), [1986 827](https://fedlex.data.admin.ch/eli/oc/1986/827_827_827), [1989 291](https://fedlex.data.admin.ch/eli/oc/1989/291_291_291), [1990 1195](https://fedlex.data.admin.ch/eli/oc/1990/1195_1195_1195), [2003 4419](https://fedlex.data.admin.ch/eli/oc/2003/661), [2005 4783](https://fedlex.data.admin.ch/eli/oc/2005/640), [2009 3875](https://fedlex.data.admin.ch/eli/oc/2009/485), [2010 2265](https://fedlex.data.admin.ch/eli/oc/2010/322), [2013 2089](https://fedlex.data.admin.ch/eli/oc/2013/439), [2017 3229](https://fedlex.data.admin.ch/eli/oc/2017/325). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-3]: [RO 1983 1499](https://fedlex.data.admin.ch/eli/oc/1983/1499_1499_1499); [1986 827](https://fedlex.data.admin.ch/eli/oc/1986/827_827_827); [1989 291](https://fedlex.data.admin.ch/eli/oc/1989/291_291_291); [1990 1195](https://fedlex.data.admin.ch/eli/oc/1990/1195_1195_1195); [2003 4419](https://fedlex.data.admin.ch/eli/oc/2003/661); [2005 4783](https://fedlex.data.admin.ch/eli/oc/2005/640); [2009 3875](https://fedlex.data.admin.ch/eli/oc/2009/485); [2010 2265](https://fedlex.data.admin.ch/eli/oc/2010/322); [2013 2089](https://fedlex.data.admin.ch/eli/oc/2013/439); [2017 3229](https://fedlex.data.admin.ch/eli/oc/2017/325); [2022 567](https://fedlex.data.admin.ch/eli/oc/2022/567). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [https://www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)

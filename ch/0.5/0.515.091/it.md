@@ -3,26 +3,27 @@ sr: "0.515.091"
 title: "Convenzione del 10 ottobre 1980 sul divieto o la limitazione dell'impiego di talune armi classiche che possono essere ritenute capaci di causare effetti traumatici eccessivi o di colpire in modo indiscriminato (con Protocolli I-IV)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/1499_1499_1499"
 language: it
-version: 2017-05-10
+version: 2022-10-04
 adopted: 1980-10-10
 in_force: 1983-12-02
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1499_1499_1499/20170510/it/xml/fedlex-data-admin-ch-eli-cc-1983-1499_1499_1499-20170510-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/1499_1499_1499/20170510/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1499_1499_1499/20221004/it/xml/fedlex-data-admin-ch-eli-cc-1983-1499_1499_1499-20221004-it-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/1499_1499_1499/20221004/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Convenzione sul divieto o la limitazione dell’impiego di talune armi classiche che possono essere ritenute capaci di causare effetti traumatici eccessivi o di colpire in modo indiscriminato****
+# Convenzione sul divieto o la limitazione dell’impiego di talune armi classiche che possono essere ritenute capaci di causare effetti traumatici eccessivi o di colpire in modo indiscriminato
 
-Traduzione*[^t-2]*[^t-1]
+RU **1983** 1499; FF **1981** III 253[^t-1]
 
-Conchiusa a Ginevra il 10 ottobre 1980 Approvata dall’Assemblea federale il 19 marzo 1982[^t-3] Istrumenti di ratificazione depositati dalla Svizzera il 20 agosto 1982 Entrata in vigore per la Svizzera il 2 dicembre 1983
+Traduzione
 
-(Stato 10 maggio 2017)
+Conchiusa a Ginevra il 10 ottobre 1980 Approvata dall’Assemblea federale il 19 marzo 1982[^t-2] Istrumenti di ratificazione depositati dalla Svizzera il 20 agosto 1982 Entrata in vigore per la Svizzera il 2 dicembre 1983
 
-[^t-1]: Le mod. del 13 ott. 1995 ([RS 0.515.091.1](https://fedlex.data.admin.ch/eli/cc/2003/608); [RU 2003 4087](https://fedlex.data.admin.ch/eli/oc/2003/608)), del 3 mag. 1996 ([RS 0.515.091.2](https://fedlex.data.admin.ch/eli/cc/2004/23); [RU 2004 341](https://fedlex.data.admin.ch/eli/oc/2004/23)) e del 21 dic. 2001 ([RS 0.515.091.3](https://fedlex.data.admin.ch/eli/cc/2004/565); [RU 2004 3953](https://fedlex.data.admin.ch/eli/oc/2004/565)) sono introdotte nel presente testo. Esse sono in vigore unicamente nei rapporti con gli Stati che vi hanno aderito. Vedi dunque i relativi campi d’applicazione.
-[^t-2]: RU **1983** 1499; FF **1981** III 253 Dal testo originale francese.
-[^t-3]: [RU 1983 1497](https://fedlex.data.admin.ch/eli/oc/1983/1497_1497_1497)
+(Stato 4 ottobre 2022)
+
+[^t-1]: Le mod. del 13 ott. 1995 ([RS 0.515.091.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1931); [RU 2003 4087](https://fedlex.data.admin.ch/eli/oc/2003/608)), del 3 mag. 1996 ([RS 0.515.091.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1932); [RU 2004 341](https://fedlex.data.admin.ch/eli/oc/2004/23)) e del 21 dic. 2001 ([RS 0.515.091.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1933); [RU 2004 3953](https://fedlex.data.admin.ch/eli/oc/2004/565)) sono introdotte nel presente testo. Esse sono in vigore unicamente nei rapporti con gli Stati che vi hanno aderito. Vedi dunque i relativi campi d’applicazione.
+[^t-2]: [RU 1983 1497](https://fedlex.data.admin.ch/eli/oc/1983/1497_1497_1497)
 
 Le Alte Parti contraenti,
 
@@ -52,7 +53,7 @@ tenuto inoltre presente che il Comitato del disarmo può decidere di esaminare l
 
 hanno convenuto quanto segue:
 
-[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 1
 
@@ -73,8 +74,8 @@ hanno convenuto quanto segue:
 <sup>7.</sup> Le disposizioni dei paragrafi 2–6 del presente articolo non pregiudicano il campo di applicazione di qualsiasi altro protocollo adottato dopo il 1° gennaio 2002, per il quale si potrà decidere di riprendere le disposizioni di detti paragrafi, di escluderli o di modificarli.
 
 [^1-1]: Nuovo testo giusta l’em. del 21 dic. 2001, approvato dall’AF il 15 dic. 2003 ed entrato in vigore per la Svizzera il 19 lug. 2004 ([RU 2004 3953](https://fedlex.data.admin.ch/eli/oc/2004/565)[3951](https://fedlex.data.admin.ch/eli/oc/2004/564); [FF 2003 3045](https://fedlex.data.admin.ch/eli/fga/2003/532)).
-[^1-2]: [RS 0.518.12](https://fedlex.data.admin.ch/eli/cc/1951/181_184_180), [0.518.23](https://fedlex.data.admin.ch/eli/cc/1951/207_209_205), [0.518.42](https://fedlex.data.admin.ch/eli/cc/1951/228_230_226), [0.518.51](https://fedlex.data.admin.ch/eli/cc/1951/300_302_297)
-[^1-3]: [RS 0.518.521](https://fedlex.data.admin.ch/eli/cc/1982/1362_1362_1362)
+[^1-2]: [RS 0.518.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1960), [0.518.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1964), [0.518.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1966), [0.518.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1967)
+[^1-3]: [RS 0.518.521](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1968)
 
 #### Art. 2
 
@@ -143,7 +144,7 @@ La presente Convenzione e i Protocolli allegati dai quali un’Alta Parte contra
   - ii) la detta autorità esercita gli stessi diritti e assolve gli stessi obblighi di una Alta Parte contraente delle Convenzioni di Ginevra, della presente Convenzione e dei Protocolli pertinenti allegati;
   - iii) le Convenzioni di Ginevra, la presente Convenzione e i Protocolli pertinenti allegati legano in modo eguale tutte le parti del conflitto.
 
-[^7-1]: [RS 0.518.521](https://fedlex.data.admin.ch/eli/cc/1982/1362_1362_1362)
+[^7-1]: [RS 0.518.521](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1968)
 
 #### Art. 8
 
@@ -203,7 +204,7 @@ Protocollo I
 
 Protocollo II
 
-## Protocollo sul divieto o la limitazione dell’impiego di mine, trappole e altri dispositivi, nella versione modificata il 3 maggio 1996****
+## Protocollo sul divieto o la limitazione dell’impiego di mine, trappole e altri dispositivi, nella versione modificata il 3 maggio 1996
 
 [^annexu1-lvlu1-1]
 
@@ -225,7 +226,7 @@ Protocollo II
 
 <sup>6.</sup> L’applicazione delle disposizioni del presente Protocollo a parti di un conflitto che non sono Alte Parti contraenti aventi accettato il presente Protocollo non modifica né esplicitamente né implicitamente il loro statuto giuridico né quello di un territorio contestato.
 
-[^annexu1-lvlu1-1-1]: [RS 0.518.12](https://fedlex.data.admin.ch/eli/cc/1951/181_184_180), [0.518.23](https://fedlex.data.admin.ch/eli/cc/1951/207_209_205), [0.518.42](https://fedlex.data.admin.ch/eli/cc/1951/228_230_226)e [0.518.51](https://fedlex.data.admin.ch/eli/cc/1951/300_302_297)
+[^annexu1-lvlu1-1-1]: [RS 0.518.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1960), [0.518.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1964), [0.518.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1966)e [0.518.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1967)
 
 #### Art. 2
 
@@ -494,7 +495,7 @@ Contemporaneamente, forniscono, ognuna all’altra o alle altri parti del confli
   - i) assicura al personale della missione la protezione di cui al paragrafo 2 comma b) i) del presente articolo;
   - ii) prende le misure di cui al paragrafo 3 comma b) ii) del presente articolo.
 
-[^annexu1-lvlu1-12-subdivu5-1]: [RS 0.518.521](https://fedlex.data.admin.ch/eli/cc/1982/1362_1362_1362), [0.518.522](https://fedlex.data.admin.ch/eli/cc/1982/1432_1432_1432)
+[^annexu1-lvlu1-12-subdivu5-1]: [RS 0.518.521](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1968), [0.518.522](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1969)
 
 ### Confidenzialità
 
@@ -605,7 +606,7 @@ Segnali simili a quelli dell’esempio che figura in appendice e come descritti 
 
 Segnale di pericolo per le zone in cui sono state posate mine
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1499_1499_1499/20170510/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1499_1499_1499/20221004/it/xml/image/image1.png)
 
 Protocollo III
 
@@ -648,7 +649,7 @@ Ai fini del presente Protocollo:
 
 Protocollo IV
 
-## Protocollo relativo alle armi laser accecanti****
+## Protocollo relativo alle armi laser accecanti
 
 [^annexu1-lvlu1-2]
 
@@ -672,10 +673,11 @@ Ai fini del presente Protocollo, con «cecità permanente» si intende una perdi
 
 **(Seguono le firme)**
 
-Campo d’applicazione il 10 maggio 2017**[^t-4]**
+Campo d’applicazione il 4 ottobre 2022[^t-3]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><td>Afghanistan</td><td>9 agosto</td><td>2017</td><td>9 febbraio</td><td>2018</td></tr>
 <tr><td>Albania</td><td>28 agosto</td><td>2002 A</td><td>28 febbraio</td><td>2003</td></tr>
 <tr><td>Algeria <sup>a</sup></td><td>6 maggio</td><td>2015 A</td><td>6 novembre</td><td>2015</td></tr>
 <tr><td>Antigua e Barbuda <sup>a</sup></td><td>28 agosto</td><td>2010 A</td><td>23 febbraio</td><td>2011</td></tr>
@@ -687,7 +689,7 @@ Campo d’applicazione il 10 maggio 2017**[^t-4]**
 <tr><td>Bangladesh</td><td>6 settembre</td><td>2000 A</td><td>6 marzo</td><td>2001</td></tr>
 <tr><td>Belarus</td><td>23 giugno</td><td>1982</td><td>2 dicembre</td><td>1983</td></tr>
 <tr><td>Belgio<sup>\*\*</sup></td><td>7 febbraio</td><td>1995</td><td>7 agosto</td><td>1995</td></tr>
-<tr><td>Benin<sup>a</sup></td><td>27 marzo</td><td>1989 A</td><td>27 settembre</td><td>1989</td></tr>
+<tr><td>Benin <sup>a</sup></td><td>27 marzo</td><td>1989 A</td><td>27 settembre</td><td>1989</td></tr>
 <tr><td>Bolivia</td><td>21 settembre</td><td>2001 A</td><td>21 marzo</td><td>2002</td></tr>
 <tr><td>Bosnia e Erzegovina</td><td>1° settembre</td><td>1993 S</td><td>6 marzo</td><td>1992</td></tr>
 <tr><td>Brasile</td><td>3 ottobre</td><td>1995 A</td><td>3 aprile</td><td>1996</td></tr>
@@ -699,7 +701,7 @@ Campo d’applicazione il 10 maggio 2017**[^t-4]**
 <tr><td>Canada<sup>\*</sup></td><td>24 giugno</td><td>1994</td><td>24 dicembre</td><td>1994</td></tr>
 <tr><td>Capo Verde</td><td>16 settembre</td><td>1997 A</td><td>16 marzo</td><td>1998</td></tr>
 <tr><td>Ceca, Repubblica</td><td>22 febbraio</td><td>1993 S</td><td>1° gennaio</td><td>1993</td></tr>
-<tr><td>Cile<sup>a</sup></td><td>15 ottobre</td><td>2003</td><td>15 aprile</td><td>2004</td></tr>
+<tr><td>Cile <sup>a</sup></td><td>15 ottobre</td><td>2003</td><td>15 aprile</td><td>2004</td></tr>
 <tr><td>Cina<sup>\*</sup></td><td>7 aprile</td><td>1982</td><td>2 dicembre</td><td>1983</td></tr>
 <tr><td>Cipro<sup>\* \*\*</sup></td><td>12 dicembre</td><td>1988 A</td><td>12 giugno</td><td>1989</td></tr>
 <tr><td>Colombia</td><td>6 marzo</td><td>2000 A</td><td>6 settembre</td><td>2000</td></tr>
@@ -709,7 +711,7 @@ Campo d’applicazione il 10 maggio 2017**[^t-4]**
 <tr><td>Croazia</td><td>2 dicembre</td><td>1993 S</td><td>8 ottobre</td><td>1991</td></tr>
 <tr><td>Cuba</td><td>2 marzo</td><td>1987</td><td>2 settembre</td><td>1987</td></tr>
 <tr><td>Danimarca<sup>\*\*</sup></td><td>7 luglio</td><td>1982</td><td>2 dicembre</td><td>1983</td></tr>
-<tr><td>Dominicana, Repubblica</td><td>24 giugno</td><td>2010</td><td>21 dicembre</td><td>2010</td></tr>
+<tr><td>Dominicana, Repubblica</td><td>24 giugno</td><td>2010 A</td><td>21 dicembre</td><td>2010</td></tr>
 <tr><td>Ecuador</td><td>4 maggio</td><td>1982</td><td>2 dicembre</td><td>1983</td></tr>
 <tr><td>El Salvador</td><td>26 gennaio</td><td>2000 A</td><td>26 luglio</td><td>2000</td></tr>
 <tr><td>Emirati Arabi Uniti<sup>a</sup></td><td>26 febbraio</td><td>2009 A</td><td>26 agosto</td><td>2009</td></tr>
@@ -745,8 +747,9 @@ Campo d’applicazione il 10 maggio 2017**[^t-4]**
 <tr><td>Liechtenstein</td><td>16 agosto</td><td>1989</td><td>16 febbraio</td><td>1990</td></tr>
 <tr><td>Lituania <sup>a</sup></td><td>3 giugno</td><td>1998 A</td><td>3 dicembre</td><td>1998</td></tr>
 <tr><td>Lussemburgo</td><td>21 maggio</td><td>1996</td><td>21 novembre</td><td>1996</td></tr>
-<tr><td>Macedonia</td><td>30 dicembre</td><td>1996 S</td><td>17 novembre</td><td>1991</td></tr>
+<tr><td>Macedonia del Nord</td><td>30 dicembre</td><td>1996 S</td><td>17 novembre</td><td>1991</td></tr>
 <tr><td>Madagascar</td><td>14 marzo</td><td>2008 A</td><td>14 settembre</td><td>2008</td></tr>
+<tr><td>Malawi <sup>c</sup></td><td>23 settembre</td><td>2022 A</td><td>23 marzo</td><td>2023</td></tr>
 <tr><td>Maldive <sup>a</sup></td><td>7 luglio</td><td>2000 A</td><td>7 marzo</td><td>2001</td></tr>
 <tr><td>Mali</td><td>24 ottobre</td><td>2001 A</td><td>24 aprile</td><td>2002</td></tr>
 <tr><td>Malta</td><td>26 giugno</td><td>1995 A</td><td>26 dicembre</td><td>1995</td></tr>
@@ -801,12 +804,7 @@ Campo d’applicazione il 10 maggio 2017**[^t-4]**
 <tr><td>Uzbekistan</td><td>29 settembre</td><td>1997 A</td><td>29 marzo</td><td>1998</td></tr>
 <tr><td>Venezuela</td><td>19 aprile</td><td>2005 A</td><td>19 ottobre</td><td>2005</td></tr>
 <tr><td>Zambia</td><td>25 settembre</td><td>2013 A</td><td>25 marzo</td><td>2014</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni Le riserve, dichiarazioni e obiezioni non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Questo Stato non si ritiene legato dal Prot. II.</td></tr>
-<tr><td colspan="5"><sup>b</sup> Questo Stato non si ritiene legato dal Prot. I.</td></tr>
-<tr><td colspan="5"><sup>c</sup> Questo Stato non si ritiene legato dal Prot. III.</td></tr>
-<tr><td colspan="5"><sup>d</sup> Al Regno in Europa.</td></tr>
-<tr><td colspan="5"><sup>e</sup> Questo Stato ha accettato il Prot. III con effetto dal 21 lug. 2009.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. Le riserve, dichiarazioni e obiezioni non sono pubblicate nella RU. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: [http://treaties.un.org](http://treaties.un.org/%20)oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Questo Stato non si ritiene legato dal Prot. II. <sup>b</sup> Questo Stato non si ritiene legato dal Prot. I. <sup>c</sup> Questo Stato non si ritiene legato dal Prot. III. <sup>d</sup> Al Regno in Europa. <sup>e</sup> Questo Stato ha accettato il Prot. III con effetto dal 21 lug. 2009.</td></tr>
 </table>
 
-[^t-4]: [RU 1983 1499](https://fedlex.data.admin.ch/eli/oc/1983/1499_1499_1499), [1986 827](https://fedlex.data.admin.ch/eli/oc/1986/827_827_827), [1989 291](https://fedlex.data.admin.ch/eli/oc/1989/291_291_291), [1990 1195](https://fedlex.data.admin.ch/eli/oc/1990/1195_1195_1195), [2003 4419](https://fedlex.data.admin.ch/eli/oc/2003/661), [2005 4783](https://fedlex.data.admin.ch/eli/oc/2005/640), [2009 3875](https://fedlex.data.admin.ch/eli/oc/2009/485)e [2010 2265](https://fedlex.data.admin.ch/eli/oc/2010/322), [2013 2089](https://fedlex.data.admin.ch/eli/oc/2013/439)e [2017 3229](https://fedlex.data.admin.ch/eli/oc/2017/325). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-3]: [RU 1983 1499](https://fedlex.data.admin.ch/eli/oc/1983/1499_1499_1499); [1986 827](https://fedlex.data.admin.ch/eli/oc/1986/827_827_827); [1989 291](https://fedlex.data.admin.ch/eli/oc/1989/291_291_291); [1990 1195](https://fedlex.data.admin.ch/eli/oc/1990/1195_1195_1195); [2003 4419](https://fedlex.data.admin.ch/eli/oc/2003/661); [2005 4783](https://fedlex.data.admin.ch/eli/oc/2005/640); [2009 3875](https://fedlex.data.admin.ch/eli/oc/2009/485); [2010 2265](https://fedlex.data.admin.ch/eli/oc/2010/322); [2013 2089](https://fedlex.data.admin.ch/eli/oc/2013/439); [2017 3229](https://fedlex.data.admin.ch/eli/oc/2017/325); [2021 567](https://fedlex.data.admin.ch/eli/oc/2021/567). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [https://www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
