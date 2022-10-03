@@ -3,11 +3,11 @@ sr: "0.109"
 title: Convenzione del 13 dicembre 2006 sui diritti delle persone con disabilità
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/245"
 language: it
-version: 2020-08-24
+version: 2022-10-04
 adopted: 2006-12-13
 in_force: 2014-05-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/245/20200824/it/xml/fedlex-data-admin-ch-eli-cc-2014-245-20200824-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/245/20200824/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/245/20221004/it/xml/fedlex-data-admin-ch-eli-cc-2014-245-20221004-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/245/20221004/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -26,7 +26,7 @@ Strumento di adesione depositato dalla Svizzera il 15 aprile 2014
 
 Entrata in vigore per la Svizzera il 15 maggio 2014
 
-(Stato 24 agosto 2020)
+(Stato 4 ottobre 2022)
 
 [^t-1]: [RU 2014 1117](https://fedlex.data.admin.ch/eli/oc/2014/244)
 
@@ -296,7 +296,7 @@ Ogni persona con disabilità ha il diritto al rispetto della propria integrità 
 
 <sup>1.</sup>
 
-Gli Stati parte dovranno riconoscere il diritto delle persone con disabilità alla libertà di movimento, alla libertà di scelta del propria luogo di residenza e della cittadinanza, su base di uguaglianza con altri, anche assicurando che le persone con disabilità:
+Gli Stati parte dovranno riconoscere il diritto delle persone con disabilità alla libertà di movimento, alla libertà di scelta del proprio luogo di residenza e della cittadinanza, su base di uguaglianza con altri, anche assicurando che le persone con disabilità:
 
 - (a) abbiano il diritto di acquisire e cambiare la cittadinanza e non siano privati della cittadinanza arbitrariamente o a causa della loro disabilità;
 - (b) non siano privati a causa della disabilità, della capacità di ottenere, mantenere il possesso e utilizzare la documentazione relativa alla loro cittadinanza o di altra documentazione di identificazione, o di utilizzare processi relativi quali gli atti di immigrazione, che si rendano necessari per facilitare l’esercizio del diritto alla libertà di movimento;
@@ -720,7 +720,7 @@ I testi in arabo, cinese, francese, inglese, russo e spagnolo della presente Con
 
 *In fede di che* i sottoscritti Plenipotenziari, essendo debitamente autorizzati dai rispettivi Governi, hanno firmato la presente Convenzione. (Seguono le firme)
 
-Campo d’applicazione il 24 agosto 2020**[^t-2]**
+Campo d’applicazione il 4 ottobre 2022[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -732,7 +732,7 @@ Campo d’applicazione il 24 agosto 2020**[^t-2]**
 <tr><td>Antigua e Barbuda</td><td>28 settembre</td><td>2015</td><td>28 settembre</td><td>2015</td></tr>
 <tr><td>Arabia Saudita</td><td>24 giugno</td><td>2008 A</td><td>24 luglio</td><td>2008</td></tr>
 <tr><td>Argentina</td><td>2 settembre</td><td>2008</td><td>2 ottobre</td><td>2008</td></tr>
-<tr><td>Armenia<sup>\*\*</sup></td><td>22 settembre</td><td>2010</td><td>22 ottobre</td><td>2010</td></tr>
+<tr><td>Armenia\*\*</td><td>22 settembre</td><td>2010</td><td>22 ottobre</td><td>2010</td></tr>
 <tr><td>Australia\*</td><td>17 luglio</td><td>2008</td><td>16 agosto</td><td>2008</td></tr>
 <tr><td>Austria\*\*</td><td>26 settembre</td><td>2008</td><td>26 ottobre</td><td>2008</td></tr>
 <tr><td>Azerbaigian\*</td><td>28 gennaio</td><td>2009</td><td>27 febbraio</td><td>2009</td></tr>
@@ -746,6 +746,7 @@ Campo d’applicazione il 24 agosto 2020**[^t-2]**
 <tr><td>Bielorussia</td><td>29 novembre</td><td>2016</td><td>29 dicembre</td><td>2016</td></tr>
 <tr><td>Bolivia</td><td>16 novembre</td><td>2009</td><td>16 dicembre</td><td>2009</td></tr>
 <tr><td>Bosnia ed Erzegovina</td><td>12 marzo</td><td>2010</td><td>11 aprile</td><td>2010</td></tr>
+<tr><td>Botswana</td><td>12 luglio</td><td>2021 A</td><td>11 agosto</td><td>2021</td></tr>
 <tr><td>Brasile</td><td>1° agosto</td><td>2008</td><td>31 agosto</td><td>2008</td></tr>
 <tr><td>Brunei\*</td><td>11 aprile</td><td>2016</td><td>11 maggio</td><td>2016</td></tr>
 <tr><td>Bulgaria</td><td>22 marzo</td><td>2012</td><td>21 aprile</td><td>2012</td></tr>
@@ -768,7 +769,7 @@ Campo d’applicazione il 24 agosto 2020**[^t-2]**
 <tr><td>Congo (Kinshasa)</td><td>30 settembre</td><td>2015 A</td><td>30 ottobre</td><td>2015</td></tr>
 <tr><td>Cook, Isole</td><td>8 maggio</td><td>2009 A</td><td>7 giugno</td><td>2009</td></tr>
 <tr><td>Corea del Nord</td><td>6 dicembre</td><td>2016</td><td>5 gennaio</td><td>2017</td></tr>
-<tr><td>Corea del Sud\*</td><td>11 dicembre</td><td>2008</td><td>10 gennaio</td><td>2009</td></tr>
+<tr><td>Corea del Sud <sup>a</sup></td><td>11 dicembre</td><td>2008</td><td>10 gennaio</td><td>2009</td></tr>
 <tr><td>Costa d’Avorio</td><td>10 gennaio</td><td>2014</td><td>9 febbraio</td><td>2014</td></tr>
 <tr><td>Costa Rica</td><td>1° ottobre</td><td>2008</td><td>31 ottobre</td><td>2008</td></tr>
 <tr><td>Croazia</td><td>15 agosto</td><td>2007</td><td>3 maggio</td><td>2008</td></tr>
@@ -801,6 +802,7 @@ Campo d’applicazione il 24 agosto 2020**[^t-2]**
 <tr><td>Guatemala</td><td>7 aprile</td><td>2009</td><td>7 maggio</td><td>2009</td></tr>
 <tr><td>Guinea</td><td>8 febbraio</td><td>2008</td><td>3 maggio</td><td>2008</td></tr>
 <tr><td>Guinea-Bissau</td><td>24 settembre</td><td>2014</td><td>24 ottobre</td><td>2014</td></tr>
+<tr><td>Guinea equatoriale</td><td>25 marzo</td><td>2022 A</td><td>24 aprile</td><td>2022</td></tr>
 <tr><td>Guyana</td><td>10 settembre</td><td>2014</td><td>10 ottobre</td><td>2014</td></tr>
 <tr><td>Haiti</td><td>23 luglio</td><td>2009 A</td><td>22 agosto</td><td>2009</td></tr>
 <tr><td>Honduras</td><td>14 aprile</td><td>2008</td><td>14 maggio</td><td>2008</td></tr>
@@ -882,7 +884,7 @@ Campo d’applicazione il 24 agosto 2020**[^t-2]**
 <tr><td>Slovacchia\* \*\*</td><td>26 maggio</td><td>2010</td><td>25 giugno</td><td>2010</td></tr>
 <tr><td>Slovenia</td><td>24 aprile</td><td>2008</td><td>24 maggio</td><td>2008</td></tr>
 <tr><td>Somalia</td><td>6 agosto</td><td>2019</td><td>5 settembre</td><td>2019</td></tr>
-<tr><td>Spagna<sup>\*\*</sup></td><td>3 dicembre</td><td>2007</td><td>3 maggio</td><td>2008</td></tr>
+<tr><td>Spagna\*\*</td><td>3 dicembre</td><td>2007</td><td>3 maggio</td><td>2008</td></tr>
 <tr><td>Sri Lanka</td><td>8 febbraio</td><td>2016</td><td>9 marzo</td><td>2016</td></tr>
 <tr><td>Sudafrica</td><td>30 novembre</td><td>2007</td><td>3 maggio</td><td>2008</td></tr>
 <tr><td>Sudan</td><td>24 aprile</td><td>2009</td><td>24 maggio</td><td>2009</td></tr>
@@ -902,14 +904,14 @@ Campo d’applicazione il 24 agosto 2020**[^t-2]**
 <tr><td>Ungheria\*\*</td><td>20 luglio</td><td>2007</td><td>3 maggio</td><td>2008</td></tr>
 <tr><td>Unione europea\* \*\*</td><td>23 dicembre</td><td>2010</td><td>22 gennaio</td><td>2011</td></tr>
 <tr><td>Uruguay</td><td>11 febbraio</td><td>2009</td><td>13 marzo</td><td>2009</td></tr>
+<tr><td>Uzbekistan\*</td><td>28 giugno</td><td>2021</td><td>28 luglio</td><td>2021</td></tr>
 <tr><td>Vanuatu</td><td>23 ottobre</td><td>2008</td><td>22 novembre</td><td>2008</td></tr>
 <tr><td>Venezuela\*</td><td>24 settembre</td><td>2013 A</td><td>24 ottobre</td><td>2013</td></tr>
 <tr><td>Vietnam</td><td>5 febbraio</td><td>2015</td><td>7 marzo</td><td>2015</td></tr>
 <tr><td>Yemen</td><td>26 marzo</td><td>2009</td><td>25 aprile</td><td>2009</td></tr>
 <tr><td>Zambia</td><td>1° febbraio</td><td>2010</td><td>3 marzo</td><td>2010</td></tr>
 <tr><td>Zimbabwe</td><td>23 settembre</td><td>2013 A</td><td>23 ottobre</td><td>2013</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. Le riserve, le dichiarazioni e le obiezioni non sono pubblicate nella RU. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
-<tr><td colspan="5"><sup>a</sup> La Conv. non si applica a Tokelau.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. Le riserve, le dichiarazioni e le obiezioni non sono pubblicate nella RU. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: [http://treaties.un.org/](http://treaties.un.org/) &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> La Conv. non si applica a Tokelau.</td></tr>
 </table>
 
-[^t-2]: [RU 2014 1119](https://fedlex.data.admin.ch/eli/oc/2014/245)[3269](https://fedlex.data.admin.ch/eli/oc/2014/562), [2015 3763](https://fedlex.data.admin.ch/eli/oc/2015/632), [2016 1145](https://fedlex.data.admin.ch/eli/oc/2016/211)[3409](https://fedlex.data.admin.ch/eli/oc/2016/572), [2017 33](https://fedlex.data.admin.ch/eli/oc/2017/11)[3517](https://fedlex.data.admin.ch/eli/oc/2017/383), [2019 1793](https://fedlex.data.admin.ch/eli/oc/2019/329)e [2020 3631](https://fedlex.data.admin.ch/eli/oc/2020/655). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2014 1119](https://fedlex.data.admin.ch/eli/oc/2014/245), [3269](https://fedlex.data.admin.ch/eli/oc/2014/562); [2015 3763](https://fedlex.data.admin.ch/eli/oc/2015/632); [2016 1145](https://fedlex.data.admin.ch/eli/oc/2016/211), [3409](https://fedlex.data.admin.ch/eli/oc/2016/572); [2017 33](https://fedlex.data.admin.ch/eli/oc/2017/11), [3517](https://fedlex.data.admin.ch/eli/oc/2017/383); [2019 1793](https://fedlex.data.admin.ch/eli/oc/2019/329); [2020 3631](https://fedlex.data.admin.ch/eli/oc/2020/655); [2022 566](https://fedlex.data.admin.ch/eli/oc/2022/566). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [https://www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)

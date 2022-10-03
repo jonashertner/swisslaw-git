@@ -3,11 +3,11 @@ sr: "0.109"
 title: Übereinkommen vom 13. Dezember 2006 über die Rechte von Menschen mit Behinderungen
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/245"
 language: de
-version: 2020-08-24
+version: 2022-10-04
 adopted: 2006-12-13
 in_force: 2014-05-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/245/20200824/de/xml/fedlex-data-admin-ch-eli-cc-2014-245-20200824-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/245/20200824/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/245/20221004/de/xml/fedlex-data-admin-ch-eli-cc-2014-245-20221004-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/245/20221004/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Beitrittsurkunde von der Schweiz hinterlegt am 15. April 2014
 
 In Kraft getreten für die Schweiz am 15. Mai 2014
 
-(Stand am 24. August 2020)
+(Stand am 4. Oktober 2022)
 
 [^t-1]: [AS 2014 1117](https://fedlex.data.admin.ch/eli/oc/2014/244)
 
@@ -727,7 +727,7 @@ Der arabische, der chinesische, der englische, der französische, der russische 
 
 *Zu Urkund dessen* haben die unterzeichneten, von ihren Regierungen hierzu gehörig befugten Bevollmächtigten dieses Übereinkommen unterschrieben. (Es folgen die Unterschriften)
 
-Geltungsbereich am 24. August 2020**[^t-2]**
+Geltungsbereich am 4. Oktober 2022[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -738,6 +738,7 @@ Geltungsbereich am 24. August 2020**[^t-2]**
 <tr><td>Andorra</td><td>11. März</td><td>2014</td><td>10. April</td><td>2014</td></tr>
 <tr><td>Angola</td><td>19. Mai</td><td>2014 B</td><td>18. Juni</td><td>2014</td></tr>
 <tr><td>Antigua und Barbuda</td><td>7. Januar</td><td>2016</td><td>6. Februar</td><td>2016</td></tr>
+<tr><td>Äquatorialguinea</td><td>25. März</td><td>2022 B</td><td>24. April</td><td>2022</td></tr>
 <tr><td>Argentinien</td><td>2. September</td><td>2008</td><td>2. Oktober</td><td>2008</td></tr>
 <tr><td>Armenien\*\*</td><td>22. September</td><td>2010</td><td>22. Oktober</td><td>2010</td></tr>
 <tr><td>Aserbaidschan\*</td><td>28. Januar</td><td>2009</td><td>27. Februar</td><td>2009</td></tr>
@@ -753,6 +754,7 @@ Geltungsbereich am 24. August 2020**[^t-2]**
 <tr><td>Benin</td><td>5. Juli</td><td>2012</td><td>4. August</td><td>2012</td></tr>
 <tr><td>Bolivien</td><td>16. November</td><td>2009</td><td>16. Dezember</td><td>2009</td></tr>
 <tr><td>Bosnien und Herzegowina</td><td>12. März</td><td>2010</td><td>11. April</td><td>2010</td></tr>
+<tr><td>Botsuana</td><td>12. Juli</td><td>2021 B</td><td>11. August</td><td>2021</td></tr>
 <tr><td>Brasilien</td><td>1. August</td><td>2008</td><td>31. August</td><td>2008</td></tr>
 <tr><td>Brunei\*</td><td>11. April</td><td>2016</td><td>11. Mai</td><td>2016</td></tr>
 <tr><td>Bulgarien</td><td>22. März</td><td>2012</td><td>21. April</td><td>2012</td></tr>
@@ -815,7 +817,7 @@ Geltungsbereich am 24. August 2020**[^t-2]**
 <tr><td>Kongo (Brazzaville)</td><td>2. September</td><td>2014</td><td>2. Oktober</td><td>2014</td></tr>
 <tr><td>Kongo (Kinshasa)</td><td>30. September</td><td>2015 B</td><td>30. Oktober</td><td>2015</td></tr>
 <tr><td>Korea (Nord-)</td><td>6. Dezember</td><td>2016</td><td>5. Januar</td><td>2017</td></tr>
-<tr><td>Korea (Süd-)\*</td><td>11. Dezember</td><td>2008</td><td>10. Januar</td><td>2009</td></tr>
+<tr><td>Korea (Süd-)</td><td>11. Dezember</td><td>2008</td><td>10. Januar</td><td>2009</td></tr>
 <tr><td>Kroatien</td><td>15. August</td><td>2007</td><td>3. Mai</td><td>2008</td></tr>
 <tr><td>Kuba</td><td>6. September</td><td>2007</td><td>3. Mai</td><td>2008</td></tr>
 <tr><td>Kuwait\*</td><td>22. August</td><td>2013 B</td><td>21. September</td><td>2013</td></tr>
@@ -908,6 +910,7 @@ Geltungsbereich am 24. August 2020**[^t-2]**
 <tr><td>Ukraine</td><td>4. Februar</td><td>2010</td><td>6. März</td><td>2010</td></tr>
 <tr><td>Ungarn\*\*</td><td>20. Juli</td><td>2007</td><td>3. Mai</td><td>2008</td></tr>
 <tr><td>Uruguay</td><td>11. Februar</td><td>2009</td><td>13. März</td><td>2009</td></tr>
+<tr><td>Usbekistan\*</td><td>28. Juni</td><td>2021</td><td>28. Juli</td><td>2021</td></tr>
 <tr><td>Vanuatu</td><td>23. Oktober</td><td>2008</td><td>22. November</td><td>2008</td></tr>
 <tr><td>Venezuela\*</td><td>24. September</td><td>2013 B</td><td>24. Oktober</td><td>2013</td></tr>
 <tr><td>Vereinigte Arabische Emirate</td><td>19. März</td><td>2010</td><td>18. April</td><td>2010</td></tr>
@@ -915,7 +918,7 @@ Geltungsbereich am 24. August 2020**[^t-2]**
 <tr><td>Vietnam</td><td>5. Februar</td><td>2015</td><td>7. März</td><td>2015</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>11. Oktober</td><td>2016</td><td>10. November</td><td>2016</td></tr>
 <tr><td>Zypern\*</td><td>27. Juni</td><td>2011</td><td>27. Juli</td><td>2011</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Übereinkommen gilt nicht für Tokelau.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: [http://treaties.un.org/](http://treaties.un.org/) &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Übereinkommen gilt nicht für Tokelau.</td></tr>
 </table>
 
-[^t-2]: [AS 2014 1119](https://fedlex.data.admin.ch/eli/oc/2014/245)[3269](https://fedlex.data.admin.ch/eli/oc/2014/562), [2015 3763](https://fedlex.data.admin.ch/eli/oc/2015/632), [2016 1145](https://fedlex.data.admin.ch/eli/oc/2016/211)[3409](https://fedlex.data.admin.ch/eli/oc/2016/572), [2017 33](https://fedlex.data.admin.ch/eli/oc/2017/11)[3517](https://fedlex.data.admin.ch/eli/oc/2017/383), [2019 1793](https://fedlex.data.admin.ch/eli/oc/2019/329), [2020 3631](https://fedlex.data.admin.ch/eli/oc/2020/655). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA ([www.eda.admin.ch/vertraege](http://www.eda.admin.ch/vertraege)).
+[^t-2]: [AS 2014 1119](https://fedlex.data.admin.ch/eli/oc/2014/245), [3269](https://fedlex.data.admin.ch/eli/oc/2014/562); [2015 3763](https://fedlex.data.admin.ch/eli/oc/2015/632); [2016 1145](https://fedlex.data.admin.ch/eli/oc/2016/211), [3409](https://fedlex.data.admin.ch/eli/oc/2016/572); [2017 33](https://fedlex.data.admin.ch/eli/oc/2017/11), [3517](https://fedlex.data.admin.ch/eli/oc/2017/383); [2019 1793](https://fedlex.data.admin.ch/eli/oc/2019/329); [2020 3631](https://fedlex.data.admin.ch/eli/oc/2020/655); [2022 566](https://fedlex.data.admin.ch/eli/oc/2022/566). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht [https://www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty)

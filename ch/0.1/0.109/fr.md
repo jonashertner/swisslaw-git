@@ -3,11 +3,11 @@ sr: "0.109"
 title: Convention du 13 décembre 2006 relative aux droits des personnes handicapées
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/245"
 language: fr
-version: 2020-08-24
+version: 2022-10-04
 adopted: 2006-12-13
 in_force: 2014-05-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/245/20200824/fr/xml/fedlex-data-admin-ch-eli-cc-2014-245-20200824-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/245/20200824/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/245/20221004/fr/xml/fedlex-data-admin-ch-eli-cc-2014-245-20221004-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/245/20221004/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument d’adhésion déposé par la Suisse le 15 avril 2014
 
 Entrée en vigueur pour la Suisse le 15 mai 2014
 
-(Etat le 24 août 2020)
+(État le 4 octobre 2022)
 
 [^t-1]: [RO 2014 1117](https://fedlex.data.admin.ch/eli/oc/2014/244)
 
@@ -720,7 +720,7 @@ Les textes anglais, arabe, chinois, espagnol, français et russe de la présente
 
 *En foi de quoi* les plénipotentiaires soussignés, dûment habilités par leurs gouvernements respectifs, ont signé la présente Convention. (Suivent les signatures)
 
-Champ d’application le 24 août 2020**[^t-2]**
+Champ d’application le 4 octobre 2022[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -728,7 +728,7 @@ Champ d’application le 24 août 2020**[^t-2]**
 <tr><td>Afrique du Sud</td><td>30 novembre</td><td>2007</td><td>3 mai</td><td>2008</td></tr>
 <tr><td>Albanie</td><td>11 février</td><td>2013</td><td>13 mars</td><td>2013</td></tr>
 <tr><td>Algérie</td><td>4 décembre</td><td>2009</td><td>3 janvier</td><td>2010</td></tr>
-<tr><td>Allemagne<sup>\*\*</sup></td><td>24 février</td><td>2009</td><td>26 mars</td><td>2009</td></tr>
+<tr><td>Allemagne\*\*</td><td>24 février</td><td>2009</td><td>26 mars</td><td>2009</td></tr>
 <tr><td>Andorre</td><td>11 mars</td><td>2014</td><td>10 avril</td><td>2014</td></tr>
 <tr><td>Angola</td><td>19 mai</td><td>2014 A</td><td>18 juin</td><td>2014</td></tr>
 <tr><td>Antigua-et-Barbuda</td><td>7 janvier</td><td>2016</td><td>6 février</td><td>2016</td></tr>
@@ -748,13 +748,14 @@ Champ d’application le 24 août 2020**[^t-2]**
 <tr><td>Bénin</td><td>5 juillet</td><td>2012</td><td>4 août</td><td>2012</td></tr>
 <tr><td>Bolivie</td><td>16 novembre</td><td>2009</td><td>16 décembre</td><td>2009</td></tr>
 <tr><td>Bosnie et Herzégovine</td><td>12 mars</td><td>2010</td><td>11 avril</td><td>2010</td></tr>
+<tr><td>Botswana</td><td>12 juillet</td><td>2021 A</td><td>11 août</td><td>2021</td></tr>
 <tr><td>Brésil</td><td>1<sup>er</sup> août</td><td>2008</td><td>31 août</td><td>2008</td></tr>
 <tr><td>Brunéi\*</td><td>11 avril</td><td>2016</td><td>11 mai</td><td>2016</td></tr>
 <tr><td>Bulgarie</td><td>22 mars</td><td>2012</td><td>21 avril</td><td>2012</td></tr>
 <tr><td>Burkina Faso</td><td>23 juillet</td><td>2009</td><td>22 août</td><td>2009</td></tr>
 <tr><td>Burundi</td><td>22 mai</td><td>2014</td><td>21 juin</td><td>2014</td></tr>
 <tr><td>Cambodge</td><td>20 décembre</td><td>2012</td><td>19 janvier</td><td>2013</td></tr>
-<tr><td>Canada<sup>\*</sup></td><td>11 mars</td><td>2010</td><td>10 avril</td><td>2010</td></tr>
+<tr><td>Canada\*</td><td>11 mars</td><td>2010</td><td>10 avril</td><td>2010</td></tr>
 <tr><td>Cap-Vert</td><td>10 octobre</td><td>2011</td><td>9 novembre</td><td>2011</td></tr>
 <tr><td>Chili</td><td>29 juillet</td><td>2008</td><td>28 août</td><td>2008</td></tr>
 <tr><td>Chine</td><td>1<sup>er</sup> août</td><td>2008</td><td>31 août</td><td>2008</td></tr>
@@ -766,7 +767,7 @@ Champ d’application le 24 août 2020**[^t-2]**
 <tr><td>Congo (Brazzaville)</td><td>2 septembre</td><td>2014</td><td>2 octobre</td><td>2014</td></tr>
 <tr><td>Congo (Kinshasa)</td><td>30 septembre</td><td>2015 A</td><td>30 octobre</td><td>2015</td></tr>
 <tr><td>Corée (Nord)</td><td>6 décembre</td><td>2016</td><td>5 janvier</td><td>2017</td></tr>
-<tr><td>Corée (Sud)\*</td><td>11 décembre</td><td>2008</td><td>10 janvier</td><td>2009</td></tr>
+<tr><td>Corée (Sud)</td><td>11 décembre</td><td>2008</td><td>10 janvier</td><td>2009</td></tr>
 <tr><td>Costa Rica</td><td>1<sup>er</sup> octobre</td><td>2008</td><td>31 octobre</td><td>2008</td></tr>
 <tr><td>Côte d’Ivoire</td><td>10 janvier</td><td>2014</td><td>9 février</td><td>2014</td></tr>
 <tr><td>Croatie</td><td>15 août</td><td>2007</td><td>3 mai</td><td>2008</td></tr>
@@ -794,6 +795,7 @@ Champ d’application le 24 août 2020**[^t-2]**
 <tr><td>Guatemala</td><td>7 avril</td><td>2009</td><td>7 mai</td><td>2009</td></tr>
 <tr><td>Guinée</td><td>8 février</td><td>2008</td><td>3 mai</td><td>2008</td></tr>
 <tr><td>Guinée-Bissau</td><td>24 septembre</td><td>2014</td><td>24 octobre</td><td>2014</td></tr>
+<tr><td>Guinée équatoriale</td><td>25 mars</td><td>2022 A</td><td>24 avril</td><td>2022</td></tr>
 <tr><td>Guyana</td><td>10 septembre</td><td>2014</td><td>10 octobre</td><td>2014</td></tr>
 <tr><td>Haïti</td><td>23 juillet</td><td>2009 A</td><td>22 août</td><td>2009</td></tr>
 <tr><td>Honduras</td><td>14 avril</td><td>2008</td><td>14 mai</td><td>2008</td></tr>
@@ -851,6 +853,7 @@ Champ d’application le 24 août 2020**[^t-2]**
 <tr><td>Nouvelle-Zélande <sup>a</sup></td><td>25 septembre</td><td>2008</td><td>25 octobre</td><td>2008</td></tr>
 <tr><td>Oman</td><td>6 janvier</td><td>2009</td><td>5 février</td><td>2009</td></tr>
 <tr><td>Ouganda</td><td>25 septembre</td><td>2008</td><td>25 octobre</td><td>2008</td></tr>
+<tr><td>Ouzbékistan\*</td><td>28 juin</td><td>2021</td><td>28 juillet</td><td>2021</td></tr>
 <tr><td>Pakistan</td><td>5 juillet</td><td>2011</td><td>4 août</td><td>2011</td></tr>
 <tr><td>Palaos</td><td>11 juin</td><td>2013</td><td>11 juillet</td><td>2013</td></tr>
 <tr><td>Palestine</td><td>2 avril</td><td>2014 A</td><td>2 mai</td><td>2014</td></tr>
@@ -908,7 +911,7 @@ Champ d’application le 24 août 2020**[^t-2]**
 <tr><td>Yémen</td><td>26 mars</td><td>2009</td><td>25 avril</td><td>2009</td></tr>
 <tr><td>Zambie</td><td>1<sup>er</sup> février</td><td>2010</td><td>3 mars</td><td>2010</td></tr>
 <tr><td>Zimbabwe</td><td>23 septembre</td><td>2013 A</td><td>23 octobre</td><td>2013</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La Convention ne s’applique pas aux Tokélaou.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: [http://treaties.un.org/](http://treaties.un.org/) &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La Convention ne s’applique pas aux Tokélaou.</td></tr>
 </table>
 
-[^t-2]: [RO 2014 1119](https://fedlex.data.admin.ch/eli/oc/2014/245)[3269](https://fedlex.data.admin.ch/eli/oc/2014/562), [2015 3763](https://fedlex.data.admin.ch/eli/oc/2015/632), [2016 1145](https://fedlex.data.admin.ch/eli/oc/2016/211)[3409](https://fedlex.data.admin.ch/eli/oc/2016/572), [2017 33](https://fedlex.data.admin.ch/eli/oc/2017/11)[3517](https://fedlex.data.admin.ch/eli/oc/2017/383), [2019 1793](https://fedlex.data.admin.ch/eli/oc/2019/329), [2020 3631](https://fedlex.data.admin.ch/eli/oc/2020/655). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 2014 1119](https://fedlex.data.admin.ch/eli/oc/2014/245), [3269](https://fedlex.data.admin.ch/eli/oc/2014/562); [2015 3763](https://fedlex.data.admin.ch/eli/oc/2015/632); [2016 1145](https://fedlex.data.admin.ch/eli/oc/2016/211), [3409](https://fedlex.data.admin.ch/eli/oc/2016/572); [2017 33](https://fedlex.data.admin.ch/eli/oc/2017/11), [3517](https://fedlex.data.admin.ch/eli/oc/2017/383); [2019 1793](https://fedlex.data.admin.ch/eli/oc/2019/329); [2020 3631](https://fedlex.data.admin.ch/eli/oc/2020/655); [2022 566](https://fedlex.data.admin.ch/eli/oc/2022/566). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [https://www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
