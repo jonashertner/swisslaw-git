@@ -4,20 +4,20 @@ title: "Ordinanza del 18 maggio 2005 concernente la riduzione dei rischi nell'ut
 short: ORRPChim
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/478"
 language: it
-version: 2022-10-01
+version: 2022-10-06
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20221001/it/xml/fedlex-data-admin-ch-eli-cc-2005-478-20221001-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20221001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20221006/it/xml/fedlex-data-admin-ch-eli-cc-2005-478-20221006-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20221006/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Ordinanza concernente la riduzione dei rischi nell’utilizzazione di determinate sostanze, preparati e oggetti particolarmente pericolosi
+# Ordinanza concernente la riduzione dei rischi nell'utilizzazione di determinate sostanze, preparati e oggetti particolarmente pericolosi
 
 (Ordinanza sulla riduzione dei rischi inerenti ai prodotti chimici, ORRPChim)
 
-del 18 maggio 2005 (Stato 1° ottobre 2022)
+del 18 maggio 2005 (Stato 6 ottobre 2022)
 
 Il Consiglio federale svizzero,
 
@@ -90,7 +90,11 @@ Fatte salve le definizioni specifiche contenute negli allegati, nella presente o
 
 <sup>2</sup> Le autorizzazioni eccezionali secondo gli allegati vengono concesse soltanto a persone con domicilio o sede in Svizzera.
 
-Sezione 1*a*:[^t-1] Etichettature particolari
+### Sezione 1*a*: Etichettature particolari
+
+[^chap2-sec1a-1]
+
+[^chap2-sec1a-1]: Introdotta dall’all. n. 2 dell’O dell’11 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 #### Art. 3a
 
@@ -105,39 +109,37 @@ D’intesa con singoli utilizzatori professionali, possono essere etichettati in
 
 <sup>3</sup> Sono lingue ufficiali il tedesco, il francese e l’italiano.
 
-[^t-1]: Introdotta dall’all. n. 2 dell’O dell’11 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
-
-## Sezione 2: Autorizzazioni d’impiego
+### Sezione 2: Autorizzazioni d’impiego
 
 #### Art. 4
 
-**Impieghi soggetti ad autorizzazione**[^annex1a-sec2-4-1]
+**Impieghi soggetti ad autorizzazione**[^4-1]
 
 Per i seguenti impieghi è necessaria lʼautorizzazione delle autorità sottoindicate:
 
 <table>
 <tr><th colspan="2">Impiego</th><th colspan="2">Autorità che rilascia lʼautorizzazione</th></tr>
 <tr><td>a. lʼimpiego a titolo professionale o commerciale di prodotti fitosanitari per la lotta contro i roditori (rodenticidi) a livello interaziendale o con lʼuso di macchine</td><td colspan="3">autorità cantonale; per impieghi regionali e transregionali, dʼintesa con lʼUfficio federale della sicurezza alimentare e di veterinaria (USAV), lʼUfficio federale dellʼagricoltura (UFAG) e lʼUfficio federale dellʼambiente (UFAM)</td></tr>
-<tr><td>[tab] b.[^annex1a-sec2-4-2] lo spruzzamento e lo spargimento di prodotti fitosanitari, biocidi e concimi dall’aria</td><td colspan="3">Ufficio federale dell’aviazione civile d’intesa con l’Ufficio federale della sanità pubblica (UFSP), l’USAV, l’UFAG, la Segreteria di Stato dell’economia (SECO) e l’UFAM</td></tr>
+<tr><td>[tab] b.[^4-2] lo spruzzamento e lo spargimento di prodotti fitosanitari, biocidi e concimi dall’aria</td><td colspan="3">Ufficio federale dell’aviazione civile d’intesa con l’Ufficio federale della sanità pubblica (UFSP), l’USAV, l’UFAG, la Segreteria di Stato dell’economia (SECO) e l’UFAM</td></tr>
 <tr><td>c. lʼimpiego di prodotti fitosanitari e di concimi nel bosco se essi non sono inclusi in unʼautorizzazione secondo le lettere a o b</td><td colspan="3">autorità cantonale</td></tr>
 </table>
 
-[^annex1a-sec2-4-1]: Nuovo testo giusta il n. I 6 dell’O del 4 set. 2013 (Riorganizzazione del settore della sicurezza alimentare e della veterinaria), in vigore dal 1° gen. 2014 ([RU 2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)).
-[^annex1a-sec2-4-2]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° set. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
+[^4-1]: Nuovo testo giusta il n. I 6 dell’O del 4 set. 2013 (Riorganizzazione del settore della sicurezza alimentare e della veterinaria), in vigore dal 1° gen. 2014 ([RU 2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)).
+[^4-2]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° set. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
 
 #### Art. 4a
 
-**Impieghi non soggetti ad autorizzazione**[^annex1a-sec2-4a-1]
+**Impieghi non soggetti ad autorizzazione**[^4a-1]
 
 Un’autorizzazione per l’impiego secondo l’articolo 4 lettera b non è necessaria per lo spargimento di organismi con un aeromobile senza occupanti.
 
-[^annex1a-sec2-4a-1]: Introdotto dal n. I dell’O del 1° lug. 2015, in vigore dal 1° set. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
+[^4a-1]: Introdotto dal n. I dell’O del 1° lug. 2015, in vigore dal 1° set. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
 
 #### Art. 5
 
 **Presupposti per il rilascio dell’autorizzazione**
 
-<sup>1</sup> Un’autorizzazione per l’impiego secondo l’articolo 4 lettere a oppure c è concessa quando non c’è da temere che l’impiego previsto metta in pericolo l’ambiente. Essa è di durata limitata e vale per uno spazio geografico limitato.[^annex1a-sec2-5-1]
+<sup>1</sup> Un’autorizzazione per l’impiego secondo l’articolo 4 lettere a oppure c è concessa quando non c’è da temere che l’impiego previsto metta in pericolo l’ambiente. Essa è di durata limitata e vale per uno spazio geografico limitato.[^5-1]
 
 <sup>1bis</sup>
 
@@ -145,22 +147,22 @@ Un’autorizzazione per l’impiego secondo l’articolo 4 lettera b è di durat
 
 - a. lo spargimento da terra non è praticabile oppure lo spargimento dall’aria porta vantaggi per la protezione della salute delle persone o dell’ambiente;
 - b. l’impresa di trasporto aereo impiega aeromobili ed equipaggiamenti dotati della migliore tecnologia disponibile per la protezione della salute delle persone e dell’ambiente;
-- c. non vi è da temere alcun pericolo per la salute delle persone e l’ambiente.[^annex1a-sec2-5-2]
+- c. non vi è da temere alcun pericolo per la salute delle persone e l’ambiente.[^5-2]
 
 <sup>2</sup> Le autorizzazioni d’impiego vengono concesse soltanto a persone con domicilio o sede in Svizzera, in uno Stato membro dell’Unione europea (UE) o in uno Stato membro dell’Associazione europea di libero scambio (AELS).
 
-[^annex1a-sec2-5-1]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° set. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
-[^annex1a-sec2-5-2]: Introdotto dal n. I dell’O del 1° lug. 2015, in vigore dal 1° set. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
+[^5-1]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° set. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
+[^5-2]: Introdotto dal n. I dell’O del 1° lug. 2015, in vigore dal 1° set. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
 
 #### Art. 6
 
-**Coordinamento**[^annex1a-sec2-6-1]
+**Coordinamento**[^6-1]
 
 Quando il rilascio dell’autorizzazione compete ad un’autorità federale, prima di decidere essa consulta l’autorità del Cantone interessato in particolare per chiarire se quest’ultima ritiene che siano soddisfatti i presupposti per l’autorizzazione e quali disposizioni accessorie occorre prevedere in un’eventuale autorizzazione. L’autorità federale comunica la propria decisione all’autorità del Cantone.
 
-[^annex1a-sec2-6-1]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° set. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
+[^6-1]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° set. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
 
-## Sezione 3: Autorizzazioni speciali
+### Sezione 3: Autorizzazioni speciali
 
 #### Art. 7
 
@@ -179,7 +181,7 @@ Le seguenti attività possono essere esercitate a titolo professionale o commerc
   - 3\. prodotti per la disinfezione dell’acqua nelle piscine pubbliche,
   - 4\. prodotti per la protezione del legno;
 
-- b.[^annex1a-sec3-7-1]
+- b.[^7-1]
 
   l’utilizzazione di prodotti refrigeranti:
 
@@ -190,7 +192,7 @@ Le seguenti attività possono essere esercitate a titolo professionale o commerc
 
 <sup>3</sup> Il Dipartimento competente disciplina i dettagli delle autorizzazioni speciali. Può prevedere deroghe all’obbligo di autorizzazione e una limitazione temporale per le autorizzazioni speciali concernenti la lotta antiparassitaria con fumiganti. Nell’ambito di tale regolamentazione tiene conto degli obiettivi di protezione.
 
-[^annex1a-sec3-7-1]: Nuovo testo giusta il n. I dell’O del 7 nov. 2012, in vigore dal 1° dic. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)).
+[^7-1]: Nuovo testo giusta il n. I dell’O del 7 nov. 2012, in vigore dal 1° dic. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)).
 
 #### Art. 8
 
@@ -278,12 +280,12 @@ I Cantoni vigilano sul rispetto delle disposizioni della presente ordinanza, sal
 
 Alla Confederazione competono:
 
-- a.[^annex1a-chap3-14-1] i compiti a essa attribuiti negli articoli 4, 7–12 (autorizzazioni speciali) e 19;
+- a.[^14-1] i compiti a essa attribuiti negli articoli 4, 7–12 (autorizzazioni speciali) e 19;
 - b. la concessione di autorizzazioni secondo gli allegati;
 - c. l’esecuzione delle disposizioni sull’importazione e l’esportazione;
 - d. l’esecuzione delle disposizioni concernenti sostanze, preparati e oggetti che servono alla difesa nazionale.
 
-[^annex1a-chap3-14-1]: Nuovo testo giusta il n. I dell’O del 7 nov. 2012, in vigore dal 1° dic. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)).
+[^14-1]: Nuovo testo giusta il n. I dell’O del 7 nov. 2012, in vigore dal 1° dic. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)).
 
 #### Art. 15
 
@@ -297,16 +299,16 @@ Alla Confederazione competono:
 
 **Disposizioni esecutive particolari**
 
-<sup>1</sup> Per i dispositivi medici l’esecuzione è retta dall’ordinanza del 17 ottobre 2001[^annex1a-chap3-16-1] relativa ai dispositivi medici.
+<sup>1</sup> Per i dispositivi medici l’esecuzione è retta dall’ordinanza del 17 ottobre 2001[^16-1] relativa ai dispositivi medici.
 
-<sup>2</sup> Per le sostanze, i preparati e gli oggetti connessi a impianti e attività che servono alla difesa nazionale l’esecuzione è retta dall’articolo 82 dell’ordinanza del 5 giugno 2015[^annex1a-chap3-16-2] sui prodotti chimici (OPChim).[^annex1a-chap3-16-3]
+<sup>2</sup> Per le sostanze, i preparati e gli oggetti connessi a impianti e attività che servono alla difesa nazionale l’esecuzione è retta dall’articolo 82 dell’ordinanza del 5 giugno 2015[^16-2] sui prodotti chimici (OPChim).[^16-3]
 
-<sup>3</sup> Per i concimi l’esecuzione è inoltre retta, a titolo supplementare, dalle prescrizioni esecutive dell’ordinanza del 10 gennaio 2001[^annex1a-chap3-16-4] sui concimi.
+<sup>3</sup> Per i concimi l’esecuzione è inoltre retta, a titolo supplementare, dalle prescrizioni esecutive dell’ordinanza del 10 gennaio 2001[^16-4] sui concimi.
 
-[^annex1a-chap3-16-1]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
-[^annex1a-chap3-16-2]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
-[^annex1a-chap3-16-3]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° set. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
-[^annex1a-chap3-16-4]: [RS 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
+[^16-1]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^16-2]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^16-3]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° set. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
+[^16-4]: [RS 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
 
 #### Art. 17
 
@@ -320,14 +322,14 @@ Alla Confederazione competono:
 
 **Controlli**
 
-<sup>1</sup> Le autorità esecutive cantonali controllano le sostanze, i preparati e gli oggetti che si trovano sul mercato, prelevando campioni o su domanda dell’UFSP, dell’UFAG, dell’UFAM o della SECO, presso fabbricanti, commercianti e utilizzatori professionali o commerciali. Esse verificano se le sostanze, i preparati e gli oggetti corrispondono alle disposizioni degli allegati, segnatamente per quanto riguarda la loro composizione, l’etichettatura e le relative informazioni date agli acquirenti.[^annex1a-chap3-18-1]
+<sup>1</sup> Le autorità esecutive cantonali controllano le sostanze, i preparati e gli oggetti che si trovano sul mercato, prelevando campioni o su domanda dell’UFSP, dell’UFAG, dell’UFAM o della SECO, presso fabbricanti, commercianti e utilizzatori professionali o commerciali. Esse verificano se le sostanze, i preparati e gli oggetti corrispondono alle disposizioni degli allegati, segnatamente per quanto riguarda la loro composizione, l’etichettatura e le relative informazioni date agli acquirenti.[^18-1]
 
 <sup>2</sup> Controllano inoltre se l’utilizzazione delle sostanze, dei preparati e degli oggetti è conforme alle prescrizioni della presente ordinanza.
 
-<sup>3</sup> Se le sostanze, i preparati o gli oggetti controllati o la loro utilizzazione danno adito a contestazioni, l’autorità incaricata del controllo ne informa le autorità competenti per le decisioni in virtù dell’articolo 19. Se queste ultime sono autorità cantonali, l’autorità incaricata del controllo informa inoltre lʼUFSP, lʼUFAM e la SECO come pure l’USAV e l’UFAG in caso di contestazioni riguardanti prodotti fitosanitari e l’UFAG in caso di contestazioni riguardanti concimi.[^annex1a-chap3-18-2]
+<sup>3</sup> Se le sostanze, i preparati o gli oggetti controllati o la loro utilizzazione danno adito a contestazioni, l’autorità incaricata del controllo ne informa le autorità competenti per le decisioni in virtù dell’articolo 19. Se queste ultime sono autorità cantonali, l’autorità incaricata del controllo informa inoltre lʼUFSP, lʼUFAM e la SECO come pure l’USAV e l’UFAG in caso di contestazioni riguardanti prodotti fitosanitari e l’UFAG in caso di contestazioni riguardanti concimi.[^18-2]
 
-[^annex1a-chap3-18-1]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° set. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
-[^annex1a-chap3-18-2]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° set. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
+[^18-1]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° set. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
+[^18-2]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° set. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
 
 #### Art. 19
 
@@ -350,20 +352,20 @@ Possono disporre che le persone che impiegano a titolo professionale o commercia
 
 #### Art. 21
 
-**Carattere confidenziale dei dati e scambio di dati**[^annex1a-chap3-21-1]
+**Carattere confidenziale dei dati e scambio di dati**[^21-1]
 
-Il carattere confidenziale dei dati e lo scambio di dati fra le autorità esecutive e con l’estero sono retti dagli articoli 73–76 OPChim[^annex1a-chap3-21-2].
+Il carattere confidenziale dei dati e lo scambio di dati fra le autorità esecutive e con l’estero sono retti dagli articoli 73–76 OPChim[^21-2].
 
-[^annex1a-chap3-21-1]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° set. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
-[^annex1a-chap3-21-2]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^21-1]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° set. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
+[^21-2]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
 
 #### Art. 22
 
 **Emolumenti**
 
-L’obbligo di pagare gli emolumenti e il calcolo degli stessi per atti amministrativi delle autorità esecutive federali secondo la presente ordinanza sono retti dall’ordinanza del 18 maggio 2005[^annex1a-chap3-22-1] sugli emolumenti per l’esecuzione della legislazione in materia di prodotti chimici da parte delle autorità federali.
+L’obbligo di pagare gli emolumenti e il calcolo degli stessi per atti amministrativi delle autorità esecutive federali secondo la presente ordinanza sono retti dall’ordinanza del 18 maggio 2005[^22-1] sugli emolumenti per l’esecuzione della legislazione in materia di prodotti chimici da parte delle autorità federali.
 
-[^annex1a-chap3-22-1]: [RS 813.153.1](https://fedlex.data.admin.ch/eli/cc/2005/469)
+[^22-1]: [RS 813.153.1](https://fedlex.data.admin.ch/eli/cc/2005/469)
 
 ## Capitolo 4: Disposizioni finali
 
@@ -373,19 +375,19 @@ L’obbligo di pagare gli emolumenti e il calcolo degli stessi per atti amminist
 
 <sup>1</sup> Le disposizioni transitorie relative alle autorizzazioni speciali secondo gli articoli 7–12 sono emanate dal Dipartimento competente.
 
-<sup>2</sup> Le autorizzazioni eccezionali concesse in base all’ordinanza del 9 giugno 1986[^annex1a-chap4-23-1] sulle sostanze restano valide fino allo scadere del termine previsto.
+<sup>2</sup> Le autorizzazioni eccezionali concesse in base all’ordinanza del 9 giugno 1986[^23-1] sulle sostanze restano valide fino allo scadere del termine previsto.
 
 <sup>3</sup> Le domande di autorizzazioni eccezionali ancora in sospeso al momento dell’entrata in vigore della presente ordinanza sono giudicate in base alla presente ordinanza.
 
-[^annex1a-chap4-23-1]: [[RU 1986 1254](https://fedlex.data.admin.ch/eli/oc/1986/1254_1254_1254); [1988 911](https://fedlex.data.admin.ch/eli/oc/1988/911_911_911); [1989 270](https://fedlex.data.admin.ch/eli/oc/1989/270_270_270), [2420](https://fedlex.data.admin.ch/eli/oc/1989/2420_2420_2420); [1991 1981](https://fedlex.data.admin.ch/eli/oc/1991/1981_1981_1981), [2653](https://fedlex.data.admin.ch/eli/oc/1991/2653_2653_2653); [1992 364](https://fedlex.data.admin.ch/eli/oc/1992/364_364_364), [1749](https://fedlex.data.admin.ch/eli/oc/1992/1749_1749_1749); [1994 678](https://fedlex.data.admin.ch/eli/oc/1994/678_678_678); [1995 1491](https://fedlex.data.admin.ch/eli/oc/1995/1491_1491_1491)art. 440 n. 2, [4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)all. 1 n. II 14, [5505](https://fedlex.data.admin.ch/eli/oc/1995/5505_5505_5505); [1997 697](https://fedlex.data.admin.ch/eli/oc/1997/697_697_697); [1998 2009](https://fedlex.data.admin.ch/eli/oc/1998/2009_2009_2009), [2863](https://fedlex.data.admin.ch/eli/oc/1998/2863_2863_2863)all. 5 n. 3;[1999 39](https://fedlex.data.admin.ch/eli/oc/1999/10), [1362](https://fedlex.data.admin.ch/eli/oc/1999/192), [2045](https://fedlex.data.admin.ch/eli/oc/1999/321)all. 2 n. 3; [2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)n. II 9, [1949](https://fedlex.data.admin.ch/eli/oc/2000/299)art. 22 cpv. 2; [2001 522](https://fedlex.data.admin.ch/eli/oc/2001/105)all. n. 2, [1758](https://fedlex.data.admin.ch/eli/oc/2001/275)[3294](https://fedlex.data.admin.ch/eli/oc/2001/490)n. II 6; [2003 940](https://fedlex.data.admin.ch/eli/oc/2003/171), [1345](https://fedlex.data.admin.ch/eli/oc/2003/230), [5421](https://fedlex.data.admin.ch/eli/oc/2003/788)n. II 2; [2004 3209](https://fedlex.data.admin.ch/eli/oc/2004/411), [4037](https://fedlex.data.admin.ch/eli/oc/2004/591)n I 7. [RU 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)n. I 1]
+[^23-1]: [[RU 1986 1254](https://fedlex.data.admin.ch/eli/oc/1986/1254_1254_1254); [1988 911](https://fedlex.data.admin.ch/eli/oc/1988/911_911_911); [1989 270](https://fedlex.data.admin.ch/eli/oc/1989/270_270_270), [2420](https://fedlex.data.admin.ch/eli/oc/1989/2420_2420_2420); [1991 1981](https://fedlex.data.admin.ch/eli/oc/1991/1981_1981_1981), [2653](https://fedlex.data.admin.ch/eli/oc/1991/2653_2653_2653); [1992 364](https://fedlex.data.admin.ch/eli/oc/1992/364_364_364), [1749](https://fedlex.data.admin.ch/eli/oc/1992/1749_1749_1749); [1994 678](https://fedlex.data.admin.ch/eli/oc/1994/678_678_678); [1995 1491](https://fedlex.data.admin.ch/eli/oc/1995/1491_1491_1491)art. 440 n. 2, [4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)all. 1 n. II 14, [5505](https://fedlex.data.admin.ch/eli/oc/1995/5505_5505_5505); [1997 697](https://fedlex.data.admin.ch/eli/oc/1997/697_697_697); [1998 2009](https://fedlex.data.admin.ch/eli/oc/1998/2009_2009_2009), [2863](https://fedlex.data.admin.ch/eli/oc/1998/2863_2863_2863)all. 5 n. 3;[1999 39](https://fedlex.data.admin.ch/eli/oc/1999/10), [1362](https://fedlex.data.admin.ch/eli/oc/1999/192), [2045](https://fedlex.data.admin.ch/eli/oc/1999/321)all. 2 n. 3; [2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)n. II 9, [1949](https://fedlex.data.admin.ch/eli/oc/2000/299)art. 22 cpv. 2; [2001 522](https://fedlex.data.admin.ch/eli/oc/2001/105)all. n. 2, [1758](https://fedlex.data.admin.ch/eli/oc/2001/275)[3294](https://fedlex.data.admin.ch/eli/oc/2001/490)n. II 6; [2003 940](https://fedlex.data.admin.ch/eli/oc/2003/171), [1345](https://fedlex.data.admin.ch/eli/oc/2003/230), [5421](https://fedlex.data.admin.ch/eli/oc/2003/788)n. II 2; [2004 3209](https://fedlex.data.admin.ch/eli/oc/2004/411), [4037](https://fedlex.data.admin.ch/eli/oc/2004/591)n I 7. [RU 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)n. I 1]
 
 #### Art. 23a
 
-**Disposizione transitoria della modifica dell’11 marzo 2022**[^annex1a-chap4-23a-1]
+**Disposizione transitoria della modifica dell’11 marzo 2022**[^23a-1]
 
 Le sostanze, i preparati, gli apparecchi, gli oggetti e gli impianti etichettati secondo il diritto anteriore possono essere forniti a terzi fino al 31 dicembre 2025.
 
-[^annex1a-chap4-23a-1]: Introdotto dall’all. n. 2 dell’O dell’11 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^23a-1]: Introdotto dall’all. n. 2 dell’O dell’11 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 #### Art. 24
 
@@ -393,11 +395,11 @@ Le sostanze, i preparati, gli apparecchi, gli oggetti e gli impianti etichettati
 
 La presente ordinanza entra in vigore il 1° agosto 2005.
 
-Allegati[^t-2]
+Allegati[^t-1]
 
 ## 1 Disposizioni per determinate sostanze
 
-[^t-2]: Aggiornato dal n. I dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)) e del 17 apr. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+[^t-1]: Aggiornato dal n. I dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)) e del 17 apr. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
 
 - 1\.1 Inquinanti organici persistenti
 - 1\.2 Sostanze organiche alogenate
@@ -443,13 +445,13 @@ Allegato 1
 
 ## Disposizioni per determinate sostanze
 
-Allegato 1.1[^t-3]
+Allegato 1.1[^t-2]
 
 (art. 3)
 
 ## Inquinanti organici persistenti
 
-[^t-3]: Nuovo testo giusta il n. II cpv. 1 dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)). Aggiornato dai n. I delle O del 25 ott. 2017 ([RU 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), dalla correzione del 23 giu. 2020 ([RU 2020 2547](https://fedlex.data.admin.ch/eli/oc/2020/466)) e dal n. I dell’O del 23 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)).
+[^t-2]: Nuovo testo giusta il n. II cpv. 1 dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)). Aggiornato dai n. I delle O del 25 ott. 2017 ([RU 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), dalla correzione del 23 giu. 2020 ([RU 2020 2547](https://fedlex.data.admin.ch/eli/oc/2020/466)) e dal n. I dell’O del 23 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)).
 
 ### 1 Divieti
 
@@ -537,13 +539,13 @@ Allegato 1.1[^t-3]
 
 <sup>3</sup> Su domanda motivata, l’UFAMpuò concedere deroghe temporanee ai divieti di cui al capoverso 1 lettere a e b se il richiedente può dimostrare che per i preparati o gli oggetti non è effettivamente possibile acquistare un sostituto senza HBCDD. Le deroghe sono valide al massimo fino al 1° marzo 2018.
 
-Allegato 1.2[^t-4]
+Allegato 1.2[^t-3]
 
 (art. 3)
 
 ## Sostanze organiche alogenate
 
-[^t-4]: Nuovo testo giusta il n. II cpv. 1 dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)). Aggiornato dal n. I dell’O del 23 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)).
+[^t-3]: Nuovo testo giusta il n. II cpv. 1 dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)). Aggiornato dal n. I dell’O del 23 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)).
 
 ### 1 Divieti
 
@@ -620,13 +622,13 @@ Allegato 1.2[^t-4]
 
 - i. *1,2,4-triclorobenzene* (n. CAS 120-82-1).
 
-Allegato 1.3[^t-5]
+Allegato 1.3[^t-4]
 
 (art. 3)
 
 ## Idrocarburi clorurati alifatici
 
-[^t-5]: Aggiornato dall’all. 2 n. II 2 dell’O del 23 nov. 2005 sulle derrate alimentari e gli oggetti d’uso ([RU 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746)), dal n. I 6 dell’O del 10 dic. 2010 ([RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), dal n. I dell’O del 25 ott. 2017 ([RU 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)) e dall’all. n. 2 dell’O dell’11 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-4]: Aggiornato dall’all. 2 n. II 2 dell’O del 23 nov. 2005 sulle derrate alimentari e gli oggetti d’uso ([RU 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746)), dal n. I 6 dell’O del 10 dic. 2010 ([RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), dal n. I dell’O del 25 ott. 2017 ([RU 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)) e dall’all. n. 2 dell’O dell’11 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 ### 1 Divieti
 
@@ -665,13 +667,13 @@ Allegato 1.3[^t-5]
 
 <sup>2</sup> ...
 
-Allegato 1.4[^t-6]
+Allegato 1.4[^t-5]
 
 (art. 3)
 
 ## Sostanze che impoveriscono lo strato di ozono
 
-[^t-6]: Nuovo testo giusta il n. I dell’O del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)). Aggiornato dal n. I dell’O del 23 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)).
+[^t-5]: Nuovo testo giusta il n. I dell’O del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)). Aggiornato dal n. I dell’O del 23 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)).
 
 ### 1 Definizioni
 
@@ -936,13 +938,13 @@ L’UFAM decide in merito alle domande complete entro due mesi dalla ricezione d
 
 I preparati e gli oggetti che sono fabbricati con sostanze che impoveriscono lo strato di ozono e che sono elencati in uno degli allegati del Protocollo di Montreal (n. 3.1 lett. b) possono essere immessi sul mercato ancora per un anno dopo l’entrata in vigore del relativo allegato del Protocollo di Montreal.
 
-Allegato 1.5[^t-7]
+Allegato 1.5[^t-6]
 
 (art. 3)
 
 ## Sostanze stabili nell’aria
 
-[^t-7]: Nuovo testo giusta il n. I dell’O del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)). Aggiornato dall’all. dell’O del 24 nov. 2021 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)), dal n. I dell’O del 23 feb. 2022 ([RU 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)) e dall’all. n. 2 dell’O dell’11 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-6]: Nuovo testo giusta il n. I dell’O del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)). Aggiornato dall’all. dell’O del 24 nov. 2021 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)), dal n. I dell’O del 23 feb. 2022 ([RU 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)) e dall’all. n. 2 dell’O dell’11 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 ### 1 Definizioni
 
@@ -1256,13 +1258,13 @@ Per i contenitori con sostanze stabili nell’aria elencate nell’allegato A de
 
 Le sostanze di cui al numero 1 capoverso 1<sup>bis</sup> lettera f possono essere fabbricate fino al 30 giugno 2023 senza trasformazione dell’ossido di diazoto risultante dalla fabbricazione.
 
-Allegato 1.6[^t-8]
+Allegato 1.6[^t-7]
 
 (art. 3)
 
 ## Amianto
 
-[^t-8]: Aggiornato dai n. I delle O del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), del 23 feb. 2022 ([RU 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)) e dall’all. n. 2 dell’O dell’11 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-7]: Aggiornato dai n. I delle O del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), del 23 feb. 2022 ([RU 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)) e dall’all. n. 2 dell’O dell’11 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 ### 1 Definizioni
 
@@ -1313,7 +1315,7 @@ Sono vietati:
 - b. un’indicazione dei pericoli per l’uomo e per l’ambiente e delle misure protettive, conforme al modello seguente:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20221001/it/xml/image/image1.png)</td><td>Testa</td><td colspan="2">H = almeno 5 cm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20221006/it/xml/image/image1.png)</td><td>Testa</td><td colspan="2">H = almeno 5 cm</td></tr>
 <tr><td></td><td></td><td colspan="2">B = almeno 2,5 cm</td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>1</sub> = 40 per cento di H</td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>2</sub> = 60 per cento di H</td></tr>
@@ -1342,13 +1344,13 @@ Se durante l’impiego di preparati o oggetti contenenti amianto possono formars
 
 <sup>3</sup> I divieti di cui al numero 2 lettere b, c e d non si applicano fino al 30 giugno 2025 ai diaframmi contenenti amianto destinati all’impiego in impianti di elettrolisi esistenti.
 
-Allegato 1.7[^t-9]
+Allegato 1.7[^t-8]
 
 (art. 3)
 
 ## Mercurio
 
-[^t-9]: Nuovo testo giusta il n. I dell’O del 25 ott. 2017 ([RU 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)). Aggiornato dal n. I dell’O del 17 apr. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+[^t-8]: Nuovo testo giusta il n. I dell’O del 25 ott. 2017 ([RU 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)). Aggiornato dal n. I dell’O del 17 apr. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
 
 ### 1 Immissione sul mercato
 
@@ -1673,13 +1675,13 @@ Nella domanda devono figurare almeno:
 
 Una richiesta basata sul numero 2.2 capoverso 1 conformemente al diritto previgente viene valutata secondo il diritto previgente.
 
-Allegato 1.8[^t-10]
+Allegato 1.8[^t-9]
 
 (art. 3)
 
 ## Octilfenolo, nonilfenolo e loro etossilati
 
-[^t-10]: Aggiornato dall’all. 2 n. II 2 dell’O del 23 nov. 2005 sulle derrate alimentari e gli oggetti d’uso ([RU 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746)), dal n. I delle O del 25 ott. 2017 ([RU 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)) e del 17 apr. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+[^t-9]: Aggiornato dall’all. 2 n. II 2 dell’O del 23 nov. 2005 sulle derrate alimentari e gli oggetti d’uso ([RU 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746)), dal n. I delle O del 25 ott. 2017 ([RU 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)) e del 17 apr. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
 
 ### 1 Divieti
 
@@ -1726,13 +1728,13 @@ cui immissione sul mercato è stata autorizzata prima del 1° agosto 2005 ancora
 
 <sup>3</sup> Il divieto di cui al n. 1 capoverso 3 non si applica alle fibre tessili e ai prodotti tessili semilavorati e lavorati contenenti etossilati di nonilfenolo immessi sul mercato per la prima volta prima del 1° giugno 2022.
 
-Allegato 1.9[^t-11]
+Allegato 1.9[^t-10]
 
 (art. 3)
 
 ## Sostanze con effetti ignifughi
 
-[^t-11]: Aggiornato dal n. I dell’O del 17 apr. 2019, in vigore dal 1° dic. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+[^t-10]: Aggiornato dal n. I dell’O del 17 apr. 2019, in vigore dal 1° dic. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
 
 ### 1 Composti organofosforici
 
@@ -1835,13 +1837,13 @@ I divieti di cui al numero 2.2 capoversi 1 e 2 non si applicano per:
   - 1\. finalità di analisi e di ricerca,
   - 2\. la fabbricazione di componenti per veicoli che possono essere immessi sul mercato conformemente alla lettera a numeri 3 e 4.
 
-Allegato 1.10[^t-12]
+Allegato 1.10[^t-11]
 
 (art. 3)
 
 ## Sostanze cancerogene, mutagene o pericolose per la riproduzione
 
-[^t-12]: Nuovo testo giusta il n. II cpv. 2 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Aggiornato dal n. I dell’O del 25 ott. 2017 ([RU 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), dall’all. n. 2 dell’O del 18 nov. 2020 ([RU 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)), dal n. I dell’O dell’UFSP del 23 dic. 2021 ([RU 2022 1](https://fedlex.data.admin.ch/eli/oc/2022/1)), dal n. I dell’O del 23 feb. 2022 ([RU 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)) e dall’all. n. 2 dell’O dell’11 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-11]: Nuovo testo giusta il n. II cpv. 2 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Aggiornato dal n. I dell’O del 25 ott. 2017 ([RU 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), dall’all. n. 2 dell’O del 18 nov. 2020 ([RU 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)), dal n. I dell’O dell’UFSP del 23 dic. 2021 ([RU 2022 1](https://fedlex.data.admin.ch/eli/oc/2022/1)), dal n. I dell’O del 23 feb. 2022 ([RU 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)) e dall’all. n. 2 dell’O dell’11 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 ### 1 Divieto
 
@@ -1913,13 +1915,13 @@ Le seguenti sostanze che in virtù del regolamento (UE) 2021/2204[^annex110-lvlu
 
 [^annex110-lvlu1-lvl4-1]: Regolamento (UE) 2021/2204 della Commissione, del 13 dicembre 2021, versione della GU L 446 del 14.12.2021, pag. 34.
 
-Allegato 1.11[^t-13]
+Allegato 1.11[^t-12]
 
 (art. 3)
 
 ## Sostanze liquide pericolose
 
-[^t-13]: Nuovo testo giusta il n. II cpv. 2 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Aggiornato dal n. I dell’O del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) e dall’all. n. 2 dell’O dell’11 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-12]: Nuovo testo giusta il n. II cpv. 2 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Aggiornato dal n. I dell’O del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) e dall’all. n. 2 dell’O dell’11 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 ### 1 Definizione
 
@@ -1963,13 +1965,13 @@ Sono considerati sostanze o preparati liquidi pericolosi i preparati liquidi con
 
 [^annex111-lvlu1-lvl4-1]: La norma può essere consultata gratuitamente od ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](https://www.snv.ch/de/).
 
-Allegato 1.12[^t-14]
+Allegato 1.12[^t-13]
 
 (art. 3)
 
 ## Benzene e omologhi
 
-[^t-14]: Nuovo testo giusta il n. I 2 dell’O del 15 dic. 2006, in vigore dal 1° mar. 2007 ([RU 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)).
+[^t-13]: Nuovo testo giusta il n. I 2 dell’O del 15 dic. 2006, in vigore dal 1° mar. 2007 ([RU 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)).
 
 ### 1 Benzene
 
@@ -1998,13 +2000,13 @@ Allegato 1.12[^t-14]
 
 Sono vietati l’immissione sul mercato e l’impiego di toluene (n. CAS 108-88-3) e preparati con un contenuto in massa pari o superiore allo 0,1 per cento di toluene in colle e vernici spray destinate alla vendita al pubblico.
 
-Allegato 1.13[^t-15]
+Allegato 1.13[^t-14]
 
 (art. 3)
 
 ## Nitroaromatici, ammine aromatiche e coloranti azoici
 
-[^t-15]: Aggiornato dall’all. 2 n. II 2 dell’O del 23 nov. 2005 sulle derrate alimentari e gli oggetti d’uso ([RU 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746)) e dal n. I dell’O del 25 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)).
+[^t-14]: Aggiornato dall’all. 2 n. II 2 dell’O del 23 nov. 2005 sulle derrate alimentari e gli oggetti d’uso ([RU 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746)) e dal n. I dell’O del 25 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)).
 
 ### 1 Definizione
 
@@ -2037,13 +2039,13 @@ Allegato 1.13[^t-15]
 
 I divieti di cui al numero 2 capoverso 3 entrano in vigore il 1° agosto 2006.
 
-Allegato 1.14[^t-16]
+Allegato 1.14[^t-15]
 
 (art. 3)
 
 ## Composti organostannici
 
-[^t-16]: Nuovo testo giusta il n. II cpv. 2 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Aggiornato dal n. II cpv. 2 dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)) e dal n. I dell’O del 25 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)).
+[^t-15]: Nuovo testo giusta il n. II cpv. 2 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Aggiornato dal n. II cpv. 2 dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)) e dal n. I dell’O del 25 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)).
 
 ### 1 Composti organostannici disostituiti
 
@@ -2135,13 +2137,13 @@ I divieti di cui al numero 3.1 non si applicano:
 
 <sup>4</sup> Il divieto di immissione sul mercato di cui al numero 2.2 lettera c non si applica a oggetti contenenti composti organostannici trisostituiti immessi sul mercato per la prima volta prima del 1° giugno 2013.
 
-Allegato 1.15[^t-17]
+Allegato 1.15[^t-16]
 
 (art. 3)
 
 ## Catrami
 
-[^t-17]: Introdotto dal n. I 4 dell’O del 10 dic. 2010, in vigore dal 1° dic. 2012 ([RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)).
+[^t-16]: Introdotto dal n. I 4 dell’O del 10 dic. 2010, in vigore dal 1° dic. 2012 ([RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)).
 
 ### 1 Definizioni
 
@@ -2182,13 +2184,13 @@ E vietata:
 
 [^annex115-lvlu1-lvl3-1]: Regolamento (CE) n. 1907/2006 del Parlamento europeo e del Consiglio, del 18 dicembre 2006, concernente la registrazione, la valutazione, l’autorizzazione e la restrizione delle sostanze chimiche (REACH), che istituisce un’Agenzia europea per le sostanze chimiche, che modifica la direttiva 1999/45/CE e che abroga il regolamento (CEE) n. 793/93 del Consiglio e il regolamento (CE) n. 1488/94 della Commissione, nonché la direttiva 76/769/CEE del Consiglio e le direttive della Commissione 91/155/CEE, 93/67/CEE, 93/105/CE e 2000/21/CE, GU L 396 del 30.12.2006, pag. 1; modificata dal regolamento (CE) n. 453/2010 della Commissione del 20 maggio 2010, GU L 133 del 31.5.2010, pag. 1. I testi degli atti giuridici dell’UE citati nel presente allegato possono essere consultati all’indirizzo www.cheminfo.ch.
 
-Allegato 1.16[^t-18]
+Allegato 1.16[^t-17]
 
 (art. 3)
 
 ## Sostanze per- e polifluoroalchiliche
 
-[^t-18]: Introdotto dal n. I 4 dell’O del 10 dic. 2010 ([RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)). Nuovo testo giusta il n. I dell’O del 23 feb. 2022, in vigore dal 1° ott. 2022 ([RU 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)).
+[^t-17]: Introdotto dal n. I 4 dell’O del 10 dic. 2010 ([RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)). Nuovo testo giusta il n. I dell’O del 23 feb. 2022 ([RU 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)). La correzione del 6 ott. 2022 concerne soltanto il testo francese ([RU 2022 560](https://fedlex.data.admin.ch/eli/oc/2022/560)).
 
 ### 1. Acido perfluorottano sulfonato e suoi derivati
 
@@ -2380,7 +2382,7 @@ Sull’imballaggio di preparati che rientrano nei divieti di cui al numero 4.2 d
 
 <sup>6</sup> I fluoropolimeri contenenti gruppi perfluoroalcossi di cui al numero 3.3 capoverso 1 lettera e possono essere immessi sul mercato e impiegati fino al 25 agosto 2024, se il loro contenuto in massa della somma di PFCA C<sub>9</sub>–C<sub>14</sub> non supera lo 0,0002 per cento (2000 ppb).
 
-Allegato 1.17[^t-19]
+Allegato 1.17[^t-18]
 
 (art. 3)
 
@@ -2388,7 +2390,7 @@ Allegato 1.17[^t-19]
 
 [^annex117-lvlu1-1]
 
-[^t-19]: Introdotto dal n. II cpv. 1 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Aggiornato dal n. II cpv. 2 dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), dai n. I delle O dell’UFAM del 27 ott. 2016 ([RU 2016 4051](https://fedlex.data.admin.ch/eli/oc/2016/672)), del 10 gen. 2017 ([RU 2017 173](https://fedlex.data.admin.ch/eli/oc/2017/48)), del 27 set. 2018 ([RU 2018 3519](https://fedlex.data.admin.ch/eli/oc/2018/572)), dalla correzione del 26 feb. 2019 ([RU 2019 759](https://fedlex.data.admin.ch/eli/oc/2019/133)), dal n. I dell’O del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) e dal n. I dell’O dell’UFAM del 29 set. 2020, in vigore dal 1° nov. 2020 ([RU 2020 4315](https://fedlex.data.admin.ch/eli/oc/2020/770)).
+[^t-18]: Introdotto dal n. II cpv. 1 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Aggiornato dal n. II cpv. 2 dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), dai n. I delle O dell’UFAM del 27 ott. 2016 ([RU 2016 4051](https://fedlex.data.admin.ch/eli/oc/2016/672)), del 10 gen. 2017 ([RU 2017 173](https://fedlex.data.admin.ch/eli/oc/2017/48)), del 27 set. 2018 ([RU 2018 3519](https://fedlex.data.admin.ch/eli/oc/2018/572)), dalla correzione del 26 feb. 2019 ([RU 2019 759](https://fedlex.data.admin.ch/eli/oc/2019/133)), dal n. I dell’O del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) e dal n. I dell’O dell’UFAM del 29 set. 2020, in vigore dal 1° nov. 2020 ([RU 2020 4315](https://fedlex.data.admin.ch/eli/oc/2020/770)).
 [^annex117-lvlu1-1]: Regolamento (CE) n. 1907/2006 del Parlamento europeo e del Consiglio, del 18 dicembre 2006, concernente la registrazione, la valutazione, l’autorizzazione e la restrizione delle sostanze chimiche (REACH), che istituisce un’Agenzia europea per le sostanze chimiche, che modifica la direttiva 1999/45/CE e che abroga il regolamento (CEE) n. 793/93 del Consiglio e il regolamento (CE) n. 1488/94 della Commissione, nonché la direttiva 76/769/CEE del Consiglio e le direttive della Commissione 91/155/CEE, 93/67/CEE, 93/105/CE e 2000/21/CE, GU L 396 del 30.12.2006, pag. 1; modificato da ultimo dal regolamento (UE) 2020/171, GU L 35 del 7.2.2020, pag. 1.
 
 ### 1 Divieti
@@ -2471,7 +2473,7 @@ L’immissione sul mercato per l’impiego delle sostanze elencate al numero 5 e
 <sup>1</sup> Il numero 1 si applica alle sostanze elencate qui di seguito con le disposizioni previste nelle colonne «Periodo di transizione», «Impieghi o categorie di impiego esentati» e «Periodi di revisione».
 
 <table>
-<tr><th>N° di registrazione</th><th>Sostanza</th><th>Proprietà intrinseche alla base dei divieti</th><th>Periodo di transizione</th><th>Impieghi o categorie di impiego esentati</th><th>Periodi di revisione</th></tr>
+<tr><th>N. di registrazione</th><th>Sostanza</th><th>Proprietà intrinseche alla base dei divieti</th><th>Periodo di transizione</th><th>Impieghi o categorie di impiego esentati</th><th>Periodi di revisione</th></tr>
 <tr><td>1.</td><td>5-ter-butil-2,4,6-trinitro-m-xilene (muschio xilene) n. CE 201-329-4 n. CAS 81-15-2</td><td>vPvB</td><td>21 agosto 2014</td><td>–</td><td>–</td></tr>
 <tr><td>2.</td><td>4,4’-diaminodifenilmetano (MDA) n. CE 202-974-4 n. CAS 101-77-9</td><td>Cancerogeno (categoria 1B)</td><td>21 agosto 2014</td><td>–</td><td>–</td></tr>
 <tr><td>3.</td><td>...</td><td></td><td></td><td></td><td></td></tr>
@@ -2499,10 +2501,6 @@ L’immissione sul mercato per l’impiego delle sostanze elencate al numero 5 e
 <tr><td>25.</td><td>Bis(2-metossietil) etere (diglime) n. CE 203‑924-4 n. CAS 111-96-6</td><td>Tossico per la riproduzione (categoria 1B)</td><td>1°novembre 2021</td><td>–</td><td>–</td></tr>
 <tr><td>26.</td><td>1,2-dicloroetano (EDC) n. CE 203‑458‑1 n. CAS 107-06-2</td><td>Cancerogeno (categoria 1B)</td><td>1° febbraio 2022</td><td>–</td><td>–</td></tr>
 <tr><td>27.</td><td>2,2’-dicloro-4,4’-metilendianilina (MOCA) n. CE 202 918-9 n. CAS 101-14-4</td><td>Cancerogeno (categoria 1B)</td><td>1° febbraio 2022</td><td>–</td><td>–</td></tr>
-</table>
-
-<table>
-<tr><td>N. di registrazione</td><td>Sostanza</td><td>Proprietà intrinseche alla base dei divieti</td><td>Periodo di transizione</td><td>Impieghi o categorie di impiego esentati</td><td>Periodi di revisione</td></tr>
 <tr><td>28.</td><td>Tris(cromato) di dicromo n. CE 246‑356-2 n. CAS 24613-89-6</td><td>Cancerogeno (categoria 1B)</td><td>1°aprile 2023</td><td>–</td><td>–</td></tr>
 <tr><td>29.</td><td>Cromato di stronzio n. CE 232-142-6 n. CAS 7789-06-2</td><td>Cancerogeno (categoria 1B)</td><td>1° aprile 2023</td><td>–</td><td>–</td></tr>
 <tr><td>30.</td><td>Idrossiottaossodizincatodicromato di potassio n. CE 234‑329-8 n. CAS 11103-86-9</td><td>Cancerogeno (categoria 1A)</td><td>1° aprile 2023</td><td>–</td><td>–</td></tr>
@@ -2513,10 +2511,6 @@ L’immissione sul mercato per l’impiego delle sostanze elencate al numero 5 e
 <tr><td>35.</td><td>Acido 1,2- benzenedicarbossilico, esteri alchilici di-C7- 11-ramificati e lineari n. CE 271-084-6 n. CAS 68515-42-4</td><td>Tossico per la riproduzione (categoria 1B)</td><td>2 novembre 2023</td><td>–</td><td>–</td></tr>
 <tr><td>36.</td><td>Acido 1,2- benzendicarbossilico, dipentilestere, ramificato e lineare n. CE 284-032-2 n. CAS 84777-06-0</td><td>Tossico per la riproduzione (categoria 1B)</td><td>2 novembre 2023</td><td>–</td><td>–</td></tr>
 <tr><td>37.</td><td>Ftalato di bis(2-metossietile) n. CE 204-212-6 n. CAS 117-82-8</td><td>Tossico per la riproduzione (categoria 1B)</td><td>2 novembre 2023</td><td>–</td><td>–</td></tr>
-</table>
-
-<table>
-<tr><th>N. di registrazione</th><th>Sostanza</th><th>Proprietà intrinseche alla base dei divieti</th><th>Periodo di transizione</th><th>Impieghi o categorie di impiego esentati</th><th>Periodi di revisione</th></tr>
 <tr><td>38.</td><td>Dipentilftalato n. CE 205-017-9 n. CAS 131-18-0</td><td>Tossico per la riproduzione (categoria 1B)</td><td>2 novembre 2023</td><td>–</td><td>–</td></tr>
 <tr><td>39.</td><td>N-pentilisopentilftalato n. CE — n. CAS 776297-69-9</td><td>Tossico per la riproduzione (categoria 1B)</td><td>2 novembre 2023</td><td>–</td><td>–</td></tr>
 <tr><td>40.</td><td>Olio di antracene n. CE 292-602-7 n. CAS 90640-80-5</td><td>Cancerogeno (categoria 1B), se il contenuto di benzo[a]pirene supera lo 0,005 %, PBT, vPvB</td><td>2 febbraio 2024</td><td>–</td><td>–</td></tr>
@@ -2530,10 +2524,6 @@ L’immissione sul mercato per l’impiego delle sostanze elencate al numero 5 e
 <tr><td>48.</td><td>Perborato di sodio; acido perborico, sale di sodio n. CE 239-172-9; 234-390-0 n. CAS —</td><td>Tossico per la riproduzione (categoria 1B)</td><td>2 febbraio 2024</td><td>–</td><td>–</td></tr>
 <tr><td>49.</td><td>Perossometaborato di sodio n. CE 231-556-4 n. CAS 7632-04-4</td><td>Tossico per la riproduzione (categoria 1B)</td><td>2 febbraio 2024</td><td>–</td><td>–</td></tr>
 <tr><td>50.</td><td>5-sec-butil-2-(2,4-dimetilcicloes-3-en-1-il)-5- metil-1,3-diossano [1], 5-sec-butil-2-(4,6-dimetilcicloes-3-en-1-il)-5-metil-1,3-diossano [2] (comprendenti qualsiasi singolo stereoisomero di [1] e [2] o qualsiasi combinazione degli stessi) n. CE — n. CAS —</td><td>vPvB</td><td>2 maggio 2024</td><td>–</td><td>–</td></tr>
-</table>
-
-<table>
-<tr><td>N. di registrazione</td><td>Sostanza</td><td>Proprietà intrinseche alla base dei divieti</td><td>Periodo di transizione</td><td>Impieghi o categorie di impiego esentati</td><td>Periodi di revisione</td></tr>
 <tr><td>51.</td><td>2-(2H-benzotriazol-2-il)-4,6-diterzpentilfenolo (UV-328) n. CE 247-384-8 n. CAS 25973-55-1</td><td>PBT, vPvB</td><td>2 agosto 2024</td><td>–</td><td>–</td></tr>
 <tr><td>52.</td><td>2,4-di-terz-butil-6- (5-clorobenzotriazol-2-il) fenolo (UV-327) n. CE 223-383-8 n. CAS 3864-99-1</td><td>vPvB</td><td>2 agosto 2024</td><td>–</td><td>–</td></tr>
 <tr><td>53.</td><td>2-(2H-benzotriazol- 2-il)-4-(terz-butil)-6-(sec- butil)fenolo (UV-350) n. CE 253-037-1 n. CAS 36437-37-3</td><td>vPvB</td><td>2 agosto 2024</td><td>–</td><td>–</td></tr>
@@ -2557,13 +2547,13 @@ L’immissione sul mercato per l’impiego delle sostanze elencate al numero 5 e
 [^annex117-lvlu1-lvl5-3]: Direttiva 2001/83/CE del Parlamento europeo e del Consiglio, del 6 novembre 2001, recante un codice comunitario relativo ai medicinali per uso umano, GU L 311 del 28.11.2001, pag. 67; modificata da ultimo dalla direttiva (UE) 2017/745, GU L 117 del 5.5.2017, pag. 1.
 [^annex117-lvlu1-lvl5-4]: Cfr. nota a piè di pagina relativa al titolo di questo all.
 
-Allegato 1.18[^t-20]
+Allegato 1.18[^t-19]
 
 (art. 3)
 
 ## Ftalati
 
-[^t-20]: Introdotto dal n. I dell’O del 17 apr. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+[^t-19]: Introdotto dal n. I dell’O del 17 apr. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
 
 ### 1 Definizioni
 
@@ -2643,13 +2633,13 @@ Allegato 2
 
 ## Disposizioni per gruppi di preparati e oggetti
 
-Allegato 2.1[^t-21]
+Allegato 2.1[^t-20]
 
 (art. 3)
 
 ## Detersivi per tessili
 
-[^t-21]: Aggiornato dal n. I 3 dell’O del 15 dic. 2006 ([RU 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), dal n. I dell’O del 13 feb. 2008 ([RU 2008 561](https://fedlex.data.admin.ch/eli/oc/2008/124)), dal n. 2 dell’all. dell’O del 14 gen. 2009 ([RU 2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)), dal n. II cpv. 2 dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)) e dall’all. n. 2 dell’O dell’11 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-20]: Aggiornato dal n. I 3 dell’O del 15 dic. 2006 ([RU 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), dal n. I dell’O del 13 feb. 2008 ([RU 2008 561](https://fedlex.data.admin.ch/eli/oc/2008/124)), dal n. 2 dell’all. dell’O del 14 gen. 2009 ([RU 2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)), dal n. II cpv. 2 dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)) e dall’all. n. 2 dell’O dell’11 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 ### 1 Definizione
 
@@ -2804,13 +2794,13 @@ Allegato 2.1[^t-21]
 
 <sup>4</sup> Le disposizioni di cui ai capoversi 2 e 3 si applicano solo finché l’autorità competente non decide in merito alla richiesta di approvazione di una deroga.
 
-Allegato 2.2[^t-22]
+Allegato 2.2[^t-21]
 
 (art. 3)
 
 ## Prodotti di pulizia, disodorizzanti e cosmetici
 
-[^t-22]: Aggiornato dal n. I 3 dell’O del 15 dic. 2006 ([RU 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), dal n. I dell’O del 13 feb. 2008 ([RU 2008 561](https://fedlex.data.admin.ch/eli/oc/2008/124)), dall’all. n. 2 dell’ O del 14 gen. 2009 ([RU 2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)), dal n. I dell’O dell’UFAM del 19 ott. 2009 ([RU 2009 5429](https://fedlex.data.admin.ch/eli/oc/2009/656)), dal n. I 6 dell’O del 10 dic. 2010 ([RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), dal n. II cpv. 3 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), dal n. II cpv. 2 dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), dalla correzione del 20 giu. 2017 ([RU 2017 3541](https://fedlex.data.admin.ch/eli/oc/2017/391)), dal n. I dell’O del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) e dall’all. n. 2 dell’O dell’11 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-21]: Aggiornato dal n. I 3 dell’O del 15 dic. 2006 ([RU 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), dal n. I dell’O del 13 feb. 2008 ([RU 2008 561](https://fedlex.data.admin.ch/eli/oc/2008/124)), dall’all. n. 2 dell’ O del 14 gen. 2009 ([RU 2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)), dal n. I dell’O dell’UFAM del 19 ott. 2009 ([RU 2009 5429](https://fedlex.data.admin.ch/eli/oc/2009/656)), dal n. I 6 dell’O del 10 dic. 2010 ([RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), dal n. II cpv. 3 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), dal n. II cpv. 2 dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), dalla correzione del 20 giu. 2017 ([RU 2017 3541](https://fedlex.data.admin.ch/eli/oc/2017/391)), dal n. I dell’O del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) e dall’all. n. 2 dell’O dell’11 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 ### 1 Definizione
 
@@ -2990,13 +2980,13 @@ Allegato 2.2[^t-22]
 
 <sup>6</sup> Nelle istruzioni per l’uso dei detersivi per lavastoviglie domestiche immessi sul mercato secondo il capoverso 5, il dosaggio deve essere indicato in modo tale che, rispettando dette istruzioni, non si impieghino più di 2,5 g di fosforo per ciclo di lavaggio.
 
-Allegato 2.3[^t-23]
+Allegato 2.3[^t-22]
 
 (art. 3)
 
 ## Solventi
 
-[^t-23]: Nuovo testo giusta il n. II cpv. 2 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Aggiornato dal n. I dell’O del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) e dall’all. n. 2 dell’O dell’11 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-22]: Nuovo testo giusta il n. II cpv. 2 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Aggiornato dal n. I dell’O del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) e dall’all. n. 2 dell’O dell’11 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 ### 1 Metanolo
 
@@ -3138,13 +3128,13 @@ Il Cantone può esigere dal detentore di rifiuti di solventi alogenati e dalle d
 [^annex23-lvlu1-lvl6-1]: [RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)
 [^annex23-lvlu1-lvl6-2]: [RS 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
 
-Allegato 2.4[^t-24]
+Allegato 2.4[^t-23]
 
 (art. 3)
 
 ## Biocidi
 
-[^t-24]: Aggiornato dal n. I 6 dell’O del 10 dic. 2010 ([RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), dal n. II cpv. 3 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), dal n. II cpv. 2 dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), dall’all. n. 2 dell’O del 4 nov. 2015 ([RU 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)), dal n. I dell’O del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) e dall’all. n. 2 dell’O dell’11 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-23]: Aggiornato dal n. I 6 dell’O del 10 dic. 2010 ([RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), dal n. II cpv. 3 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), dal n. II cpv. 2 dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), dall’all. n. 2 dell’O del 4 nov. 2015 ([RU 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)), dal n. I dell’O del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) e dall’all. n. 2 dell’O dell’11 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 ### 1 Prodotti per la protezione del legno
 
@@ -3315,13 +3305,13 @@ I divieti sanciti dal presente allegato non si applicano all’immissione sul me
 - d. basi dei tralicci;
 - e. altri impianti il cui scopo è simile a quello degli impianti di cui alle lettere a–e che vengono realizzati al di fuori delle zone abitate; dopo avere consultato gli uffici federali interessati, l’UFAM emana delle raccomandazioni all’attenzione delle autorità esecutive.
 
-Allegato 2.5[^t-25]
+Allegato 2.5[^t-24]
 
 (art. 3)
 
 ## Prodotti fitosanitari
 
-[^t-25]: Aggiornato dal n. I 3 dell’O del 29 giu. 2011 ([RU 2011 3379](https://fedlex.data.admin.ch/eli/oc/2011/454)), dal n. II cpv. 3 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), dall’all. 9 n. 1 dell’O del 23 ott. 2013 sui pagamenti diretti ([RU 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)), dall’all. n. 2 dell’O del 4 nov. 2015 ([RU 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)), dal n. I dell’O del 14 ott. 2020 ([RU 2020 4675](https://fedlex.data.admin.ch/eli/oc/2020/841)) e dall’all. n. 2 dell’O dell’11 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-24]: Aggiornato dal n. I 3 dell’O del 29 giu. 2011 ([RU 2011 3379](https://fedlex.data.admin.ch/eli/oc/2011/454)), dal n. II cpv. 3 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), dall’all. 9 n. 1 dell’O del 23 ott. 2013 sui pagamenti diretti ([RU 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)), dall’all. n. 2 dell’O del 4 nov. 2015 ([RU 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)), dal n. I dell’O del 14 ott. 2020 ([RU 2020 4675](https://fedlex.data.admin.ch/eli/oc/2020/841)) e dall’all. n. 2 dell’O dell’11 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 ### 1 Impiego
 
@@ -3568,13 +3558,13 @@ Nella domanda devono figurare le seguenti indicazioni:
 [^annex25-lvlu1-lvl4-lvl42-lvl425-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^annex25-lvlu1-lvl4-lvl42-lvl425-2]: [RS 814.82](https://fedlex.data.admin.ch/eli/cc/2004/725)
 
-Allegato 2.6[^t-26]
+Allegato 2.6[^t-25]
 
 (art. 3)
 
 ## Concimi
 
-[^t-26]: Aggiornato dall’all. dell’O del 14 nov. 2007 ([RU 2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835)), dall’all. 9 n. 1 dell’O del 23 ott. 2013 ([RU 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)), dall’all. n. 2 dell’O del 4 nov. 2015 ([RU 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)), dall’all. 6 n. 11 dell’O del 4 dic. 2015 sui rifiuti ([RU 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)) e dall’all. n. 2 dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4205](https://fedlex.data.admin.ch/eli/oc/2018/681)). La correzione del 7 mag. 2019 concerne soltanto il testo francese ([RU 2019 1339](https://fedlex.data.admin.ch/eli/oc/2019/260)).
+[^t-25]: Aggiornato dall’all. dell’O del 14 nov. 2007 ([RU 2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835)), dall’all. 9 n. 1 dell’O del 23 ott. 2013 ([RU 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)), dall’all. n. 2 dell’O del 4 nov. 2015 ([RU 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)), dall’all. 6 n. 11 dell’O del 4 dic. 2015 sui rifiuti ([RU 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)) e dall’all. n. 2 dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4205](https://fedlex.data.admin.ch/eli/oc/2018/681)). La correzione del 7 mag. 2019 concerne soltanto il testo francese ([RU 2019 1339](https://fedlex.data.admin.ch/eli/oc/2019/260)).
 
 ### 1 Definizioni
 
@@ -3755,13 +3745,13 @@ Il tenore di inquinanti nei concimi organo-minerali non deve superare i valori l
 
 <sup>2</sup> Le autorità cantonali accertano le cause del superamento dei valori indicativi di cui al numero 2.2.1 capoverso 3 e provvedono affinché il compost e il digestato non vengano forniti se la loro utilizzazione può danneggiare la fertilità del suolo.
 
-Allegato 2.7[^t-27]
+Allegato 2.7[^t-26]
 
 (art. 3)
 
 ## Prodotti disgelanti
 
-[^t-27]: Aggiornato dal n. II cpv. 2 dell’O del 1° lug. 2015, in vigore dal 1° set. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
+[^t-26]: Aggiornato dal n. II cpv. 2 dell’O del 1° lug. 2015, in vigore dal 1° set. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
 
 ### 1 Definizione
 
@@ -3819,13 +3809,13 @@ L’UFAM può autorizzare singoli utilizzatori a impiegare sostanze attive diver
 
 <sup>3</sup> I Cantoni provvedono affinché per le strade, le vie e le piazze pubbliche vengano stabiliti i periodi, i luoghi e le modalità di impiego dei prodotti disgelanti oppure di altre procedure contro superfici ghiacciate e neve gelata.
 
-Allegato 2.8[^t-28]
+Allegato 2.8[^t-27]
 
 (art. 3)
 
 ## Pitture e lacche
 
-[^t-28]: Aggiornato dal n. I 3 dell’O del 15 dic. 2006 ([RU 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), dal n. II cpv. 3 dell’O del 7 nov. 2012, ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)) e dal n. II cpv. 2 dell’O del 1° lug. 2015, in vigore dal 1° set. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
+[^t-27]: Aggiornato dal n. I 3 dell’O del 15 dic. 2006 ([RU 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), dal n. II cpv. 3 dell’O del 7 nov. 2012, ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)) e dal n. II cpv. 2 dell’O del 1° lug. 2015, in vigore dal 1° set. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
 
 ### 1 Definizioni
 
@@ -3860,13 +3850,13 @@ Allegato 2.8[^t-28]
 
 Le pitture e le lacche al piombo come pure gli oggetti trattati con tali prodotti possono essere immessi sul mercato dal fabbricante ancora fino al 31 luglio 2006.
 
-Allegato 2.9[^t-29]
+Allegato 2.9[^t-28]
 
 (art. 3)
 
 ## Materie plastiche, loro monomeri e additivi
 
-[^t-29]: Aggiornato dal n. I 3 dell’O del 15 dic. 2006 ([RU 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), dal n. I 6 dell’O del 10 dic. 2010 ([RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), dal n. II cpv. 3 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), dal n. II cpv. 2 dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), dai n. I delle O del 25 ott. 2017 ([RU 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), del 23 feb. 2022 ([RU 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)) e dall’all. n. 2 dell’O dell’11 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-28]: Aggiornato dal n. I 3 dell’O del 15 dic. 2006 ([RU 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), dal n. I 6 dell’O del 10 dic. 2010 ([RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), dal n. II cpv. 3 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), dal n. II cpv. 2 dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), dai n. I delle O del 25 ott. 2017 ([RU 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), del 23 feb. 2022 ([RU 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)) e dall’all. n. 2 dell’O dell’11 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 ### 1 Definizioni
 
@@ -3986,7 +3976,7 @@ Allegato 2.9[^t-29]
 
 <sup>2</sup> Preparati e oggetti contenenti PVC riciclato devono essere muniti di un’etichetta con la dicitura «Contiene PVC riciclato» o del seguente pittogramma:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20221001/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20221006/it/xml/image/image2.png)
 
 <sup>3</sup> I preparati, il cui contenuto in massa di diisocianato di metilendifenile è pari o superiore allo 0,1 per cento e che sono destinati al grande pubblico, devono essere muniti di etichette con la seguente dicitura: «L’uso di questo prodotto può provocare reazioni allergiche nei soggetti già sensibilizzati ai diisocianati. – I soggetti affetti da asma, eczema o problemi della pelle dovrebbero evitare il contatto, incluso il contatto dermico, con questo prodotto. – Questo prodotto non dovrebbe essere utilizzato in condizioni di scarsa ventilazione, a meno che non venga utilizzata una maschera protettiva con un idoneo filtro antigas (di tipo A1 conforme alla norma EN 14387)».
 
@@ -4033,13 +4023,13 @@ Dopo aver consultato i settori interessati, l’UFAM emana raccomandazioni sullo
 
 <sup>8</sup> Le materie plastiche espanse e gli oggetti con materie plastiche espanse cui non si applica il numero 3 capoverso 3<sup>bis</sup> poiché a seguito di un cambiamento dello stato della tecnica è disponibile un’alternativa, possono essere fabbricati e importati a scopi professionali o commerciali ancora per 6 mesi come pure essere ceduti a terzi per altri 6 mesi.
 
-Allegato 2.10[^t-30]
+Allegato 2.10[^t-29]
 
 (art. 3)
 
 ## Prodotti refrigeranti
 
-[^t-30]: Aggiornato dal n. I 6 dell’O del 10 dic. 2010 ([RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), dal n. II cpv. 3 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), dal n. II cpv. 2 dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), dalla correzione del 18 set. 2018 ([RU 2018 3215](https://fedlex.data.admin.ch/eli/oc/2018/516)), dal n. I dell’O del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), dalla correzione del 3 dic. 2019 ([RU 2019 4087](https://fedlex.data.admin.ch/eli/oc/2019/712)), dall’all. n. 2 dell’O del 18 nov. 2020 ([RU 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)), dal n. I dell’O del UFAM del 9 set. 2021 ([RU 2021 550](https://fedlex.data.admin.ch/eli/oc/2021/550)), dal n. I dell’O del 23 feb. 2022 ([RU 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)) e dall’all. n. 2 dell’O dell’11 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-29]: Aggiornato dal n. I 6 dell’O del 10 dic. 2010 ([RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), dal n. II cpv. 3 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), dal n. II cpv. 2 dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), dalla correzione del 18 set. 2018 ([RU 2018 3215](https://fedlex.data.admin.ch/eli/oc/2018/516)), dal n. I dell’O del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), dalla correzione del 3 dic. 2019 ([RU 2019 4087](https://fedlex.data.admin.ch/eli/oc/2019/712)), dall’all. n. 2 dell’O del 18 nov. 2020 ([RU 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)), dal n. I dell’O del UFAM del 9 set. 2021 ([RU 2021 550](https://fedlex.data.admin.ch/eli/oc/2021/550)), dal n. I dell’O del 23 feb. 2022 ([RU 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)) e dall’all. n. 2 dell’O dell’11 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 ### 1 Definizioni
 
@@ -4351,13 +4341,13 @@ L’UFAM emana raccomandazioni:
 [^annex210-lvlu1-lvl7-2]: [RS 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
 [^annex210-lvlu1-lvl7-3]: [RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)
 
-Allegato 2.11[^t-31]
+Allegato 2.11[^t-30]
 
 (art. 3)
 
 ## Prodotti estinguenti
 
-[^t-31]: Aggiornato dal n. I 6 dell’O del 10 dic. 2010 ([RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), dal n. II cpv. 2 dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), dai n. I delle O del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), del 23 feb. 2022 ([RU 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)) e dall’all. n. 2 dell’O dell’11 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-30]: Aggiornato dal n. I 6 dell’O del 10 dic. 2010 ([RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), dal n. II cpv. 2 dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), dai n. I delle O del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), del 23 feb. 2022 ([RU 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)) e dall’all. n. 2 dell’O dell’11 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 ### 1 Definizioni
 
@@ -4510,13 +4500,13 @@ Per gli estintori e gli impianti che contengono o conterranno prodotti estinguen
 [^annex211-lvlu1-lvl9-1]: [RS 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
 [^annex211-lvlu1-lvl9-2]: [RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)
 
-Allegato 2.12[^t-32]
+Allegato 2.12[^t-31]
 
 (art. 3)
 
 ## Confezioni aerosol
 
-[^t-32]: Nuovo testo giusta il n. II cpv. 2 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Aggiornato dall’all. n. 3 dell’O del 16 dic. 2016 sulle derrate alimentari e gli oggetti d’uso ([RU 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)), dalla correzione del 20 nov. 2018 ([RU 2018 4093](https://fedlex.data.admin.ch/eli/oc/2018/665)), dal n. I dell’O del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) e dall’all. n. 2 dell’O dell’11 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-31]: Nuovo testo giusta il n. II cpv. 2 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Aggiornato dall’all. n. 3 dell’O del 16 dic. 2016 sulle derrate alimentari e gli oggetti d’uso ([RU 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)), dalla correzione del 20 nov. 2018 ([RU 2018 4093](https://fedlex.data.admin.ch/eli/oc/2018/665)), dal n. I dell’O del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) e dall’all. n. 2 dell’O dell’11 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 ### 1 Definizioni
 
@@ -4589,13 +4579,13 @@ Allegato 2.12[^t-32]
 
 Chi riempie per proprio conto confezioni aerosol con sostanze stabili nell’aria oppure importa tali confezioni deve notificare all’UFAM, su richiesta, le quantità di ogni singola sostanza impiegate negli ultimi tre anni; le indicazioni vanno suddivise secondo le categorie seguenti: importazione, consumo in Svizzera, esportazione e tipi d’impiego.
 
-Allegato 2.13[^t-33]
+Allegato 2.13[^t-32]
 
 (art. 3)
 
 ## Additivi per combustibili
 
-[^t-33]: Aggiornato dall’all. n. 2 dell’O dell’11 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-32]: Aggiornato dall’all. n. 2 dell’O dell’11 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 ### 1 Definizione
 
@@ -4616,13 +4606,13 @@ Per l’aggiunta di additivi a combustibili si applicano i requisiti di cui all�
 
 [^annex213-lvlu1-lvl3-1]: [RS 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
 
-Allegato 2.14[^t-34]
+Allegato 2.14[^t-33]
 
 (art. 3)
 
 ## Condensatori e trasformatori
 
-[^t-34]: Aggiornato dal n. I 6 dell’O del 10 dic. 2010, in vigore dal 1° feb. 2011 ([RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)).
+[^t-33]: Aggiornato dal n. I 6 dell’O del 10 dic. 2010, in vigore dal 1° feb. 2011 ([RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)).
 
 ### 1 Definizioni
 
@@ -4654,13 +4644,13 @@ Allegato 2.14[^t-34]
 
 [^annex214-lvlu1-lvl3-1]: [RS 734.27](https://fedlex.data.admin.ch/eli/cc/2002/22)
 
-Allegato 2.15[^t-35]
+Allegato 2.15[^t-34]
 
 (art. 3)
 
 ## Pile
 
-[^t-35]: Nuovo testo giusta il n. I 5 dell’O del 10 dic. 2010 ([RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)). Aggiornato dal n. II cpv. 3 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), dal n. II cpv. 2 dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)) e dal n. I dell’O del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) e dall’all. n. II 2 dell’O del 20 ott. 2021 concernente la restituzione, la ripresa e lo smaltimento degli apparecchi elettrici ed elettronici, in vigore dal 1° gen. 2022 ([RU 2021 633](https://fedlex.data.admin.ch/eli/oc/2021/633)).
+[^t-34]: Nuovo testo giusta il n. I 5 dell’O del 10 dic. 2010 ([RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)). Aggiornato dal n. II cpv. 3 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), dal n. II cpv. 2 dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)) e dal n. I dell’O del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) e dall’all. n. II 2 dell’O del 20 ott. 2021 concernente la restituzione, la ripresa e lo smaltimento degli apparecchi elettrici ed elettronici, in vigore dal 1° gen. 2022 ([RU 2021 633](https://fedlex.data.admin.ch/eli/oc/2021/633)).
 
 ### 1 Definizioni
 
@@ -4862,13 +4852,13 @@ L’organizzazione deve impiegare la tassa esclusivamente per il finanziamento d
 
 <sup>3</sup> L’obbligo della tassa secondo il numero 6.1 non si applica alle batterie con un peso superiore a 5 kg che sono state immesse sul mercato entro il 1° gennaio 2012.
 
-Allegato 2.16[^t-36]
+Allegato 2.16[^t-35]
 
 (art. 3)
 
 ## Disposizioni particolari concernenti i metalli
 
-[^t-36]: Aggiornato dal n. I 3 dell’O del 15 dic. 2006 ([RU 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), dal n. I 6 dell’O del 10 dic. 2010 ([RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), dal n. II cpv. 3 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), dal n. II cpv. 2 dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), dal n. I dell’O dell’UFAG del 27 ott. 2016 ([RU 2016 4051](https://fedlex.data.admin.ch/eli/oc/2016/672)), dal n. I dell’O del 25 ott. 2017 ([RU 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)) e dai n. I delle O dell’UFAM del 27 set. 2018 ([RU 2018 3519](https://fedlex.data.admin.ch/eli/oc/2018/572)), del 29 set. 2020 ([RU 2020 4315](https://fedlex.data.admin.ch/eli/oc/2020/770)) e dall’all. n. 2 dell’O dell’11 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-35]: Aggiornato dal n. I 3 dell’O del 15 dic. 2006 ([RU 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), dal n. I 6 dell’O del 10 dic. 2010 ([RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), dal n. II cpv. 3 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), dal n. II cpv. 2 dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), dal n. I dell’O dell’UFAG del 27 ott. 2016 ([RU 2016 4051](https://fedlex.data.admin.ch/eli/oc/2016/672)), dal n. I dell’O del 25 ott. 2017 ([RU 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)) e dai n. I delle O dell’UFAM del 27 set. 2018 ([RU 2018 3519](https://fedlex.data.admin.ch/eli/oc/2018/572)), del 29 set. 2020 ([RU 2020 4315](https://fedlex.data.admin.ch/eli/oc/2020/770)) e dall’all. n. 2 dell’O dell’11 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 
 ### 1 Cromo(VI) in cementi
 
@@ -5103,13 +5093,13 @@ I materiali e i componenti per veicoli devono essere etichettati o resi identifi
 
 [^annex216-lvlu1-lvl7-1]: Cfr. nota a piè di pagina relativa al n. 5.3 cpv. 1.
 
-Allegato 2.17[^t-37]
+Allegato 2.17[^t-36]
 
 (art. 3)
 
 ## Materiali legnosi
 
-[^t-37]: Aggiornato dal n. I dell’O del 13 feb. 2008, in vigore dal 1° mar. 2008 ([RU 2008 561](https://fedlex.data.admin.ch/eli/oc/2008/124)).
+[^t-36]: Aggiornato dal n. I dell’O del 13 feb. 2008, in vigore dal 1° mar. 2008 ([RU 2008 561](https://fedlex.data.admin.ch/eli/oc/2008/124)).
 
 ### 1 Definizioni
 
@@ -5144,13 +5134,13 @@ I materiali legnosi non possono essere immessi sul mercato dal fabbricante se il
 
 I divieti di cui al numero 2 entrano in vigore il 1° agosto 2006.
 
-Allegato 2.18[^t-38]
+Allegato 2.18[^t-37]
 
 (art. 3)
 
 ## Apparecchiature elettriche ed elettroniche
 
-[^t-38]: Introdotto dal n. II cpv. 1 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Aggiornato dal n. I dell’O dell’UFAM del 27 ott. 2016 ([RU 2016 4051](https://fedlex.data.admin.ch/eli/oc/2016/672)), dal n. I dell’O del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), dal n. I dell’O dell’UFAM) del 9 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 550](https://fedlex.data.admin.ch/eli/oc/2021/550)).
+[^t-37]: Introdotto dal n. II cpv. 1 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Aggiornato dal n. I dell’O dell’UFAM del 27 ott. 2016 ([RU 2016 4051](https://fedlex.data.admin.ch/eli/oc/2016/672)), dal n. I dell’O del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), dal n. I dell’O dell’UFAM) del 9 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 550](https://fedlex.data.admin.ch/eli/oc/2021/550)).
 
 ### 1 Definizioni
 
