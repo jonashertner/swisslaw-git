@@ -3,11 +3,11 @@ sr: "0.814.05"
 title: Convention de Bâle du 22 mars 1989 sur le contrôle des mouvements transfrontières de déchets dangereux et de leur élimination (avec annexes)
 eli: "https://fedlex.data.admin.ch/eli/cc/1992/1125_1125_1125"
 language: fr
-version: 2020-05-06
+version: 2022-10-06
 adopted: 1989-03-22
 in_force: 1992-05-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/1125_1125_1125/20200506/fr/xml/fedlex-data-admin-ch-eli-cc-1992-1125_1125_1125-20200506-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1992/1125_1125_1125/20200506/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/1125_1125_1125/20221006/fr/xml/fedlex-data-admin-ch-eli-cc-1992-1125_1125_1125-20221006-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1992/1125_1125_1125/20221006/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -24,7 +24,7 @@ Instrument de ratification déposé par la Suisse le 31 janvier 1990
 
 Entrée en vigueur pour la Suisse le 5 mai 1992
 
-(Etat le 6 mai 2020)
+(État le 6 octobre 2022)
 
 *Préambule*
 
@@ -259,7 +259,7 @@ Lorsque, dans un mouvement transfrontière de déchets, ces déchets ne sont jur
 
 **Mouvements transfrontières en provenance d’une Partie à travers le territoire d’États qui ne sont pas Parties**
 
-Les dispositions du par. 2 de l’art. 6 de la Convention s’appliquent *mutatis m**u**tandis* aux mouvements transfrontières de déchets dangereux ou d’autres déchets en provenance d’une Partie à travers un ou plusieurs États qui ne sont pas Parties.
+Les dispositions du par. 2 de l’art. 6 de la Convention s’appliquent *mutatis mutandis* aux mouvements transfrontières de déchets dangereux ou d’autres déchets en provenance d’une Partie à travers un ou plusieurs États qui ne sont pas Parties.
 
 #### Art. 8
 
@@ -579,7 +579,7 @@ Les textes anglais, arabe, chinois, espagnol, français et russe originaux de la
 
 *En foi de quoi,* les soussignés, à ce dûment habilités, ont signé la présente Convention. Fait à Bâle, le 22 mars mil neuf cent quatre-vingt-neuf. (Suivent les signatures)
 
-Annexe I*[^t-1]*
+Annexe I[^t-1]
 
 ## Catégories de déchets à contrôler
 
@@ -640,7 +640,7 @@ Déchets ayant comme constituants:
 - c) L’inscription d’un déchet à l’annexe IX n’exclut pas que dans certains cas l’on considère un déchet comme dangereux aux termes de l’al. a) du par. 1 de l’art. 1 de la Convention si ledit déchet contient une matière inscrite à l’annexe I en quantité suffisante pour présenter une caractéristique de danger de l’annexe III.
 - d) Les annexes VIII et IX sont sans incidence sur l’application de l’al. a) du par. 1 de l’art. 1 de la Convention aux fins de la caractérisation des déchets.
 
-Annexe II*[^t-2]*
+Annexe II[^t-2]
 
 ## Catégories de déchets demandant un examen spécial
 
@@ -900,13 +900,13 @@ Toute Partie ayant, en ce qui concerne l’objet du différend, un intérêt d�
 
 <sup>3.</sup> Tout différend qui pourrait surgir entre les Parties concernant l’interprétation ou l’exécution de la sentence peut être soumis par l’une des deux Parties au tribunal arbitral qui l’a rendue, ou, si ce dernier ne peut en être saisi, à un autre tribunal arbitral constitué à cet effet de la même manière que le premier.
 
-Annexe VII*[^t-3]*
+Annexe VII[^t-3]
 
 ## Parties et autres États qui sont membres de l’OCDE, CE, Liechtenstein.
 
 [^t-3]: Introduite par la D III/1 de la 3<sup>e</sup> réunion de la Conférence des Parties du 22 sept. 1995, en vigueur pour la Suisse depuis le 5 déc. 2019 ([RO 2020 4727](https://fedlex.data.admin.ch/eli/oc/2020/850)).
 
-Annexe VIII*[^t-4]*
+Annexe VIII[^t-4]
 
 ## Liste A
 
@@ -1049,7 +1049,7 @@ Les déchets qui figurent dans la présente annexe sont considérés comme des d
 [^annexVIII-lvlu1-lvlu4-2]: Cette rubrique n’inclut pas le bois traité avec des produits chimiques en vue de sa préservation.
 [^annexVIII-lvlu1-lvlu4-3]: Ils sont dits «périmés» pour n’avoir pas été utilisés dans les délais recommandés par le fabricant.
 
-Annexe IX*[^t-5]*
+Annexe IX[^t-5]
 
 ## Liste B
 
@@ -1447,7 +1447,7 @@ Les déchets qui figurent dans la présente annexe ne sont pas couverts par l’
 - B4020 Déchets issus de la production, de la préparation et de l’utilisation de résines, de latex, de plastifiants ou de colles et adhésifs, ne figurant pas sur la liste A et dépourvus de solvants et d’autres contaminants de sorte qu’ils ne possèdent pas les caractéristiques de danger mentionnées à l’annexe III, par exemple lorsqu’ils sont à base d’eau ou de colles à base de caséine, d’amidon, dextrine, éthers cellulosiques et alcools polyvinyliques [voir rubrique correspondante de la liste A (A3050)]
 - B4030 Appareils photographiques jetables hors d’usage, ne contenant pas de piles figurant sur la liste A
 
-Champ d’application le 6 mai 2020**[^t-6]**
+Champ d’application le 6 octobre 2022[^t-6]
 
 <table>
 <tr><th colspan="2">États parties</th><th colspan="2">Ratification Adhésion (A) Déclaration de succession (S)</th><th colspan="2"></th><th>Entrée en vigueur</th><th></th></tr>
@@ -1520,6 +1520,7 @@ Champ d’application le 6 mai 2020**[^t-6]**
 <tr><td colspan="2">Géorgie</td><td colspan="2">20 mai</td><td colspan="2">1999 A</td><td>18 août</td><td>1999</td></tr>
 <tr><td colspan="2">Ghana</td><td colspan="2">30 mai</td><td colspan="2">2003 A</td><td>28 août</td><td>2003</td></tr>
 <tr><td colspan="2">Grèce</td><td colspan="2">4 août</td><td colspan="2">1994</td><td>2 novembre</td><td>1994</td></tr>
+<tr><td colspan="2">Grenade</td><td colspan="2">15 octobre</td><td colspan="2">2021 A</td><td>13 janvier</td><td>2022</td></tr>
 <tr><td colspan="2">Guatemala</td><td colspan="2">15 mai</td><td colspan="2">1995</td><td>13 août</td><td>1995</td></tr>
 <tr><td colspan="2">Guinée</td><td colspan="2">26 avril</td><td colspan="2">1995 A</td><td>25 juillet</td><td>1995</td></tr>
 <tr><td colspan="2">Guinée-Bissau</td><td colspan="2">9 février</td><td colspan="2">2005 A</td><td>10 mai</td><td>2005</td></tr>
@@ -1528,6 +1529,7 @@ Champ d’application le 6 mai 2020**[^t-6]**
 <tr><td colspan="2">Honduras</td><td colspan="2">27 décembre</td><td colspan="2">1995 A</td><td>26 mars</td><td>1996</td></tr>
 <tr><td colspan="2">Hongrie</td><td colspan="2">21 mai</td><td colspan="2">1990</td><td>5 mai</td><td>1992</td></tr>
 <tr><td colspan="2">Îles Cook</td><td colspan="2">29 juin</td><td colspan="2">2004 A</td><td>27 septembre</td><td>2004</td></tr>
+<tr><td colspan="2">Îles Salomon</td><td colspan="2">25 août</td><td colspan="2">2022 A</td><td>23 novembre</td><td>2022</td></tr>
 <tr><td colspan="2">Inde</td><td colspan="2">24 juin</td><td colspan="2">1992</td><td>22 septembre</td><td>1992</td></tr>
 <tr><td colspan="2">Indonésie\*</td><td colspan="2">20 septembre</td><td colspan="2">1993 A</td><td>19 décembre</td><td>1993</td></tr>
 <tr><td colspan="2">Iran</td><td colspan="2">5 janvier</td><td colspan="2">1993 A</td><td>5 avril</td><td>1993</td></tr>
@@ -1637,6 +1639,7 @@ Champ d’application le 6 mai 2020**[^t-6]**
 <tr><td colspan="2">Tunisie</td><td colspan="2">11 octobre</td><td colspan="2">1995 A</td><td>9 janvier</td><td>1996</td></tr>
 <tr><td colspan="2">Turkménistan</td><td colspan="2">25 septembre</td><td colspan="2">1996 A</td><td>24 décembre</td><td>1996</td></tr>
 <tr><td colspan="2">Turquie</td><td colspan="2">22 juin</td><td colspan="2">1994</td><td>20 septembre</td><td>1994</td></tr>
+<tr><td colspan="2">Tuvalu</td><td colspan="2">21 août</td><td colspan="2">2020 A</td><td>19 novembre</td><td>2020</td></tr>
 <tr><td colspan="2">Ukraine</td><td colspan="2">8 octobre</td><td colspan="2">1999 A</td><td>6 janvier</td><td>2000</td></tr>
 <tr><td colspan="2">Union européenne\*</td><td colspan="2">7 février</td><td colspan="2">1994</td><td>8 mai</td><td>1994</td></tr>
 <tr><td colspan="2">Uruguay\*</td><td colspan="2">20 décembre</td><td colspan="2">1991</td><td>5 mai</td><td>1992</td></tr>
@@ -1646,7 +1649,7 @@ Champ d’application le 6 mai 2020**[^t-6]**
 <tr><td colspan="2">Yémen</td><td colspan="2">21 février</td><td colspan="2">1996 A</td><td>21 mai</td><td>1996</td></tr>
 <tr><td colspan="2">Zambie</td><td colspan="2">15 novembre</td><td colspan="2">1994 A</td><td>13 février</td><td>1995</td></tr>
 <tr><td colspan="2">Zimbabwe</td><td colspan="2">1<sup>er</sup> mars</td><td colspan="2">2012 A</td><td>30 mai</td><td>2012</td></tr>
-<tr><td colspan="8">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Du 30 oct. 1995 au 30 juin 1997, la Convention était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. À partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 6 juin 1997, la Convention est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997. <sup>b</sup> Du 28 juin 1999 au 19 déc. 1999, la Convention était applicable à Macao sur la base d’une déclaration d’extension territoriale du Portugal. À partir du 20 déc. 1999, Macao est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise, la Convention est également applicable à la RAS Macao à partir du 20 déc. 1999. <sup>c</sup> La Convention s’applique au îles Féroé et au Groenland. <sup>d</sup> La Convention ne s’applique pas aux Tokélaou. <sup>e</sup> Pour le Royaume en Europe.</td></tr>
+<tr><td colspan="8">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: [http://treaties.un.org/](http://treaties.un.org/) &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Du 30 oct. 1995 au 30 juin 1997, la Convention était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. À partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 6 juin 1997, la Convention est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997. <sup>b</sup> Du 28 juin 1999 au 19 déc. 1999, la Convention était applicable à Macao sur la base d’une déclaration d’extension territoriale du Portugal. À partir du 20 déc. 1999, Macao est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise, la Convention est également applicable à la RAS Macao à partir du 20 déc. 1999. <sup>c</sup> La Convention s’applique aux Îles Féroé et au Groenland. <sup>d</sup> La Convention ne s’applique pas aux Tokélaou. <sup>e</sup> Pour le Royaume en Europe.</td></tr>
 </table>
 
-[^t-6]: RO **1992** 1161, [2004 1185](https://fedlex.data.admin.ch/eli/oc/2004/139), [2005 5009](https://fedlex.data.admin.ch/eli/oc/2005/690), [2007 5091](https://fedlex.data.admin.ch/eli/oc/2007/717), [2010 3537](https://fedlex.data.admin.ch/eli/oc/2010/505), [2012 437](https://fedlex.data.admin.ch/eli/oc/2012/51), [2015 415](https://fedlex.data.admin.ch/eli/oc/2015/59), [2017 3393](https://fedlex.data.admin.ch/eli/oc/2017/369), [2020 1747](https://fedlex.data.admin.ch/eli/oc/2020/341). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-6]: [RO 1992 1125](https://fedlex.data.admin.ch/eli/oc/1992/1125_1125_1125); [2004 1185](https://fedlex.data.admin.ch/eli/oc/2004/139); [2005 5009](https://fedlex.data.admin.ch/eli/oc/2005/690); [2007 5091](https://fedlex.data.admin.ch/eli/oc/2007/717); [2010 3537](https://fedlex.data.admin.ch/eli/oc/2010/505); [2012 437](https://fedlex.data.admin.ch/eli/oc/2012/51); [2015 415](https://fedlex.data.admin.ch/eli/oc/2015/59), [2017 3393](https://fedlex.data.admin.ch/eli/oc/2017/369); [2020 1747](https://fedlex.data.admin.ch/eli/oc/2020/341); [2022 571](https://fedlex.data.admin.ch/eli/oc/2022/571). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [https://www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

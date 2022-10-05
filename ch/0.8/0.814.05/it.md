@@ -3,11 +3,11 @@ sr: "0.814.05"
 title: Convenzione di Basilea del 22 marzo 1989 sul controllo dei movimenti oltre frontiera di rifiuti pericolosi e sulla loro eliminazione (con All.)
 eli: "https://fedlex.data.admin.ch/eli/cc/1992/1125_1125_1125"
 language: it
-version: 2020-05-06
+version: 2022-10-06
 adopted: 1989-03-22
 in_force: 1992-05-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/1125_1125_1125/20200506/it/xml/fedlex-data-admin-ch-eli-cc-1992-1125_1125_1125-20200506-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1992/1125_1125_1125/20200506/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/1125_1125_1125/20221006/it/xml/fedlex-data-admin-ch-eli-cc-1992-1125_1125_1125-20221006-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1992/1125_1125_1125/20221006/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,13 +18,9 @@ RU **1992** 1125
 
 Traduzione
 
-Conchiusa a Basilea il 22 marzo 1989
+Conchiusa a Basilea il 22 marzo 1989 Ratificata con strumenti depositati dalla Svizzera il 31 gennaio 1990 Entrata in vigore per la Svizzera il 5 maggio 1992
 
-Ratificata con strumenti depositati dalla Svizzera il 31 gennaio 1990
-
-Entrata in vigore per la Svizzera il 5 maggio 1992
-
-(Stato 6 maggio 2020)
+(Stato 6 ottobre 2022)
 
 *Preambolo*
 
@@ -595,7 +591,7 @@ I testi inglese, arabo, cinese, francese, russo e spagnolo in quanto originali d
 
 *In fede di che* i sottoscritti, a ciò debitamente autorizzati, hanno firmato la presente Convenzione. Fatta a Basilea, il 22 marzo millenovecentoottantanove. (*Seguono le firme*)
 
-Allegato I*[^t-1]*
+Allegato I[^t-1]
 
 ## Categorie di rifiuti da controllare
 
@@ -656,7 +652,7 @@ Rifiuti contenenti:
 - c) L’iscrizione di un rifiuto nell’allegato IX non esclude che in certi casi si consideri quest’ultimo come pericoloso ai sensi del capoverso a) dell’articolo 1 paragrafo 1 della Convenzione, se il rifiuto in questione contiene una materia figurante nell’allegato I in quantità sufficiente per presentare una caratteristica di pericolo giusta l’allegato III.
 - d) Gli allegati VIII e IX non incidono sull’applicazione del capoverso a) dell’articolo 1 paragrafo 1 della Convenzione, ai fini della caratterizzazione dei rifiuti.
 
-Allegato II*[^t-2]*
+Allegato II[^t-2]
 
 ## Categorie di rifiuti che richiedono un esame speciale
 
@@ -908,13 +904,13 @@ Ogni Parte avente, per quanto concerne l’oggetto della controversia, un intere
 
 <sup>3.</sup> Ogni controversia che possa nascere fra le Parti in merito all’interpretazione e all’esecuzione delle sentenza può essere sottoposta da una delle due Parti al tribunale arbitrale che l’ha emessa, oppure, se quest’ultimo non può essere adito, a un altro tribunale arbitrale istituito allo scopo nello stesso modo del primo.
 
-Allegato VII*[^t-3]*
+Allegato VII[^t-3]
 
 ## Parti e altri Stati che sono membri dell’OCSE, della CE, Liechtenstein
 
 [^t-3]: Introdotto dalla Dec. III/3 della 3<sup>a</sup> Conferenza delle Parti il 22 set. 1995, in vigore per la Svizzera dal 5 dic. 2019 ([RU 2020 4727](https://fedlex.data.admin.ch/eli/oc/2020/850)).
 
-Allegato VIII*[^t-4]*
+Allegato VIII[^t-4]
 
 ## Elenco A
 
@@ -1057,7 +1053,7 @@ I rifiuti che figurano nel presente allegato sono considerati rifiuti pericolosi
 [^annexVIII-lvlu1-lvlu4-2]: Questa voce non include il legno trattato con prodotti chimici di conservazione.
 [^annexVIII-lvlu1-lvlu4-3]: «Scaduti» significa non utilizzati nel periodo raccomandato dal produttore.
 
-Allegato IX*[^t-5]*
+Allegato IX[^t-5]
 
 ## Elenco B
 
@@ -1440,7 +1436,7 @@ I rifiuti che figurano nel presente allegato non sono contemplati dal capoverso 
 - B4020 Rifiuti derivanti dalla produzione, preparazione e uso di resine, latex, plastificanti, colle/adesivi non inclusi nell’elenco A, liberi da solventi e altri agenti inquinanti in misura tale da non presentare le caratteristiche di cui all’allegato III, ad esempio prodotti a base di acqua o colle a base di amido di caseina, destrina, eteri di cellulosa, alcool polivinilici (cfr. la voce corrispondente nell’elenco A [A3050])
 - B4030 Macchine fotografiche monouso, con batterie non incluse nell’elenco A
 
-Campo d’applicazione il 6 maggio 2020**[^t-6]**
+Campo d’applicazione il 6 ottobre 2022[^t-6]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -1491,7 +1487,7 @@ Campo d’applicazione il 6 maggio 2020**[^t-6]**
 <tr><td>Corea (Nord)</td><td>10 luglio</td><td>2008 A</td><td>8 ottobre</td><td>2008</td></tr>
 <tr><td>Corea (Sud)</td><td>28 febbraio</td><td>1994 A</td><td>29 maggio</td><td>1994</td></tr>
 <tr><td>Costa Rica</td><td>7 marzo</td><td>1995 A</td><td>5 giugno</td><td>1995</td></tr>
-<tr><td>Côte d'Ivoire</td><td>1° dicembre</td><td>1994 A</td><td>1° marzo</td><td>1995</td></tr>
+<tr><td>Côte d’Ivoire</td><td>1° dicembre</td><td>1994 A</td><td>1° marzo</td><td>1995</td></tr>
 <tr><td>Croazia</td><td>9 maggio</td><td>1994 A</td><td>7 agosto</td><td>1994</td></tr>
 <tr><td>Cuba\*</td><td>3 ottobre</td><td>1994 A</td><td>1° gennaio</td><td>1995</td></tr>
 <tr><td>Danimarca <sup>c</sup></td><td>6 febbraio</td><td>1994</td><td>7 maggio</td><td>1994</td></tr>
@@ -1518,6 +1514,7 @@ Campo d’applicazione il 6 maggio 2020**[^t-6]**
 <tr><td>Gibuti</td><td>31 maggio</td><td>2002 A</td><td>29 agosto</td><td>2002</td></tr>
 <tr><td>Giordania</td><td>22 giugno</td><td>1989</td><td>5 maggio</td><td>1992</td></tr>
 <tr><td>Grecia</td><td>4 agosto</td><td>1994</td><td>2 novembre</td><td>1994</td></tr>
+<tr><td>Grenada</td><td>15 ottobre</td><td>2021 A</td><td>13 gennaio</td><td>2022</td></tr>
 <tr><td>Guatemala</td><td>15 maggio</td><td>1995</td><td>13 agosto</td><td>1995</td></tr>
 <tr><td>Guinea</td><td>26 aprile</td><td>1995 A</td><td>25 luglio</td><td>1995</td></tr>
 <tr><td>Guinea equatoriale</td><td>7 febbraio</td><td>2003 A</td><td>8 maggio</td><td>2003</td></tr>
@@ -1600,6 +1597,7 @@ Campo d’applicazione il 6 maggio 2020**[^t-6]**
 <tr><td>Saint Kitts e Nevis\*</td><td>7 settembre</td><td>1994 A</td><td>5 dicembre</td><td>1994</td></tr>
 <tr><td>Saint Lucia</td><td>9 dicembre</td><td>1993 A</td><td>9 marzo</td><td>1994</td></tr>
 <tr><td>Saint Vincent e Grenadine</td><td>2 dicembre</td><td>1996 A</td><td>2 marzo</td><td>1997</td></tr>
+<tr><td>Salomone, Isole</td><td>25 agosto</td><td>2022 A</td><td>23 novembre</td><td>2022</td></tr>
 <tr><td>Samoa</td><td>22 marzo</td><td>2002 A</td><td>20 giugno</td><td>2002</td></tr>
 <tr><td>São Tomé e Príncipe</td><td>12 novembre</td><td>2013 A</td><td>10 febbraio</td><td>2014</td></tr>
 <tr><td>Seicelle</td><td>11 maggio</td><td>1993 A</td><td>9 agosto</td><td>1993</td></tr>
@@ -1627,6 +1625,7 @@ Campo d’applicazione il 6 maggio 2020**[^t-6]**
 <tr><td>Tunisia</td><td>11 ottobre</td><td>1995 A</td><td>9 gennaio</td><td>1996</td></tr>
 <tr><td>Turchia</td><td>22 giugno</td><td>1994</td><td>20 settembre</td><td>1994</td></tr>
 <tr><td>Turkmenistan</td><td>25 settembre</td><td>1996 A</td><td>24 dicembre</td><td>1996</td></tr>
+<tr><td>Tuvalu</td><td>21 agosto</td><td>2020 A</td><td>19 novembre</td><td>2020</td></tr>
 <tr><td>Ucraina</td><td>8 ottobre</td><td>1999 A</td><td>6 gennaio</td><td>2000</td></tr>
 <tr><td>Uganda</td><td>11 marzo</td><td>1999 A</td><td>9 giugno</td><td>1999</td></tr>
 <tr><td>Ungheria</td><td>21 maggio</td><td>1990</td><td>5 maggio</td><td>1992</td></tr>
@@ -1647,4 +1646,4 @@ Campo d’applicazione il 6 maggio 2020**[^t-6]**
 <tr><td colspan="5"><sup>e</sup> La Conv. si applica al Regno in Europa.</td></tr>
 </table>
 
-[^t-6]: [RU 1992 1125](https://fedlex.data.admin.ch/eli/oc/1992/1125_1125_1125), [2004 1185](https://fedlex.data.admin.ch/eli/oc/2004/139), [2005 5009](https://fedlex.data.admin.ch/eli/oc/2005/690), [2007 5091](https://fedlex.data.admin.ch/eli/oc/2007/717), [2010 3537](https://fedlex.data.admin.ch/eli/oc/2010/505), [2012 437](https://fedlex.data.admin.ch/eli/oc/2012/51), [2015 415](https://fedlex.data.admin.ch/eli/oc/2015/59), [2017 3393](https://fedlex.data.admin.ch/eli/oc/2017/369)e [2020 1747](https://fedlex.data.admin.ch/eli/oc/2020/341). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-6]: [RU 1992 1125](https://fedlex.data.admin.ch/eli/oc/1992/1125_1125_1125); [2004 1185](https://fedlex.data.admin.ch/eli/oc/2004/139); [2005 5009](https://fedlex.data.admin.ch/eli/oc/2005/690); [2007 5091](https://fedlex.data.admin.ch/eli/oc/2007/717); [2010 3537](https://fedlex.data.admin.ch/eli/oc/2010/505); [2012 437](https://fedlex.data.admin.ch/eli/oc/2012/51); [2015 415](https://fedlex.data.admin.ch/eli/oc/2015/59); [2017 3393](https://fedlex.data.admin.ch/eli/oc/2017/369); [2020 1747](https://fedlex.data.admin.ch/eli/oc/2020/341); [2022 571](https://fedlex.data.admin.ch/eli/oc/2022/571). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: https://www.fedlex.admin.ch/it/treaty.

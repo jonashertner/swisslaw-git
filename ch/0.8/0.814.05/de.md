@@ -3,24 +3,24 @@ sr: "0.814.05"
 title: Basler Übereinkommen vom 22. März 1989 über die Kontrolle der grenzüberschreitenden Verbringung gefährlicher Abfälle und ihrer Entsorgung (mit Anlagen)
 eli: "https://fedlex.data.admin.ch/eli/cc/1992/1125_1125_1125"
 language: de
-version: 2020-05-06
+version: 2022-10-06
 adopted: 1989-03-22
 in_force: 1992-05-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/1125_1125_1125/20200506/de/xml/fedlex-data-admin-ch-eli-cc-1992-1125_1125_1125-20200506-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1992/1125_1125_1125/20200506/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/1125_1125_1125/20221006/de/xml/fedlex-data-admin-ch-eli-cc-1992-1125_1125_1125-20221006-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1992/1125_1125_1125/20221006/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Basler Übereinkommen über die Kontrolle der grenzüberschreitenden Verbringung gefährlicher Abfälle und ihrer Entsorgung
 
-AS 1992 1125
+AS **1992** 1125
 
 Übersetzung
 
 Abgeschlossen in Basel am 22. März 1989 Schweizerische Ratifikationsurkunde hinterlegt am 31. Januar 1990 In Kraft getreten für die Schweiz am 5. Mai 1992
 
-(Stand am 6. Mai 2020)
+(Stand am 6. Oktober 2022)
 
 *Präambel*
 
@@ -570,7 +570,7 @@ Der urschriftliche arabische, chinesische, englische, französische, russische u
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Übereinkommen unterschrieben. Geschehen zu Basel am 22. März 1989. (Es folgen die Unterschriften)
 
-Anlage I*[^t-1]*
+Anlage I[^t-1]
 
 ## Gruppen der zu kontrollierenden Abfälle
 
@@ -631,7 +631,7 @@ Abfälle, die folgende Bestandteile enthalten
 - c) Die Nennung eines Abfalls in Anlage IX schliesst nicht aus, dass ein solcher Abfall im Einzelfall als gefährlich nach Artikel 1 Absatz 1 Buchstabe a) des Übereinkommens gilt, wenn er in Anlage I genannte Stoffe in solchen Mengen enthält, dass er Eigenschaften nach Anlage III aufweist.
 - d) Die Anlagen VIII und IX berühren nicht die Anwendung des Artikels 1 Absatz 1 Buchstabe a) des Übereinkommens zum Zweck einer Einstufung von Abfällen.
 
-Anlage II*[^t-2]*
+Anlage II[^t-2]
 
 ## Gruppen von Abfällen, die besonderer Prüfung bedürfen
 
@@ -883,13 +883,13 @@ Hat eine Vertragspartei ein rechtliches Interesse an dem Streitgegenstand, das d
 
 <sup>(3)</sup> Streitigkeiten zwischen den Parteien über die Auslegung oder die Vollstreckung des Schiedsspruchs können von jeder Partei dem Schiedsgericht, das den Spruch gefällt hat, oder, falls dieses Gericht nicht befasst werden kann, einem anderen Gericht unterbreitet werden, das zu diesem Zweck auf die gleiche Weise gebildet wird wie das erste.
 
-Anlage VII*[^t-3]*
+Anlage VII[^t-3]
 
 ## Vertragsparteien und andere Staaten, die Mitglied der OECD, EG sind Liechtenstein
 
 [^t-3]: Eingefügt durch Beschluss III/1 der dritten der Konferenz der Vertragsparteien vom 22. Sept. 1995, in Kraft getreten für die Schweiz am 5. Dez. 2019 ([AS 2020 4727](https://fedlex.data.admin.ch/eli/oc/2020/850)).
 
-Anlage VIII*[^t-4]*
+Anlage VIII[^t-4]
 
 ## Liste A
 
@@ -1032,7 +1032,7 @@ In dieser Anlage aufgeführte Abfälle gelten nach Artikel 1 Absatz 1 Buchstabe 
 [^annexVIII-lvlu1-lvlu4-2]: Dieser Eintrag schliesst mit chemischen Holzschutzmitteln behandeltes Holz nicht ein.
 [^annexVIII-lvlu1-lvlu4-3]: «Verfallsdatum überschritten» bedeutet, dass sie binnen der vom Hersteller empfohlenen Frist nicht verwendet wurden.
 
-Anlage IX*[^t-5]*
+Anlage IX[^t-5]
 
 ## Liste B
 
@@ -1446,7 +1446,7 @@ Die in dieser Anlage aufgeführten Abfälle werden nicht von Artikel 1 Absatz 1 
 - B4020 Abfälle aus der Herstellung, Formulierung und Verwendung von Harzen, Latex, Weichmachern, Leimen/Klebstoffen, soweit sie nicht in Liste A aufgeführt sind und keine Lösungsmittel und andere Verunreinigungen in solchen Mengen enthalten, dass sie eine der in Anlage III festgelegten Eigenschaften aufweisen, beispielsweise wasserlösliche Produkte oder Klebstoffe auf der Grundlage von Casein-Stärke, Dextrin, Celluloseethern, Polyvinylalkoholen [siehe den diesbezüglichen Eintrag in Liste A (A3050)]
 - B4030 Gebrauchte Einwegphotoapparate mit nicht in Liste A enthaltenen Batterien
 
-Geltungsbereich am 6. Mai 2020**[^t-6]**
+Geltungsbereich am 6. Oktober 2022[^t-6]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -1504,6 +1504,7 @@ Geltungsbereich am 6. Mai 2020**[^t-6]**
 <tr><td>Gambia</td><td>15. Dezember</td><td>1997 B</td><td>15. März</td><td>1998</td></tr>
 <tr><td>Georgien</td><td>20. Mai</td><td>1999 B</td><td>18. August</td><td>1999</td></tr>
 <tr><td>Ghana</td><td>30. Mai</td><td>2003 B</td><td>28. August</td><td>2003</td></tr>
+<tr><td>Grenada</td><td>15. Oktober</td><td>2021 B</td><td>13. Januar</td><td>2022</td></tr>
 <tr><td>Griechenland</td><td>4. August</td><td>1994</td><td>2. November</td><td>1994</td></tr>
 <tr><td>Guatemala</td><td>15. Mai</td><td>1995</td><td>13. August</td><td>1995</td></tr>
 <tr><td>Guinea</td><td>26. April</td><td>1995 B</td><td>25. Juli</td><td>1995</td></tr>
@@ -1592,6 +1593,7 @@ Geltungsbereich am 6. Mai 2020**[^t-6]**
 <tr><td>Ruanda</td><td>7. Januar</td><td>2004 B</td><td>6. April</td><td>2004</td></tr>
 <tr><td>Rumänien\*</td><td>27. Februar</td><td>1991 B</td><td>5. Mai</td><td>1992</td></tr>
 <tr><td>Russland\*</td><td>31. Januar</td><td>1995</td><td>1. Mai</td><td>1995</td></tr>
+<tr><td>Salomoninseln</td><td>25. August</td><td>2022 B</td><td>23. November</td><td>2022</td></tr>
 <tr><td>Sambia</td><td>15. November</td><td>1994 B</td><td>13. Februar</td><td>1995</td></tr>
 <tr><td>Samoa</td><td>22. März</td><td>2002 B</td><td>20. Juni</td><td>2002</td></tr>
 <tr><td>São Tomé und Príncipe</td><td>12. November</td><td>2013 B</td><td>10. Februar</td><td>2014</td></tr>
@@ -1627,6 +1629,7 @@ Geltungsbereich am 6. Mai 2020**[^t-6]**
 <tr><td>Tunesien</td><td>11. Oktober</td><td>1995 B</td><td>9. Januar</td><td>1996</td></tr>
 <tr><td>Türkei</td><td>22. Juni</td><td>1994</td><td>20. September</td><td>1994</td></tr>
 <tr><td>Turkmenistan</td><td>25. September</td><td>1996 B</td><td>24. Dezember</td><td>1996</td></tr>
+<tr><td>Tuvalu</td><td>21. August</td><td>2020 B</td><td>19. November</td><td>2020</td></tr>
 <tr><td>Uganda</td><td>11. März</td><td>1999 B</td><td>9. Juni</td><td>1999</td></tr>
 <tr><td>Ukraine</td><td>8. Oktober</td><td>1999 B</td><td>6. Januar</td><td>2000</td></tr>
 <tr><td>Ungarn</td><td>21. Mai</td><td>1990</td><td>5. Mai</td><td>1992</td></tr>
@@ -1648,4 +1651,4 @@ Geltungsbereich am 6. Mai 2020**[^t-6]**
 <tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Vom 30. Okt. 1995 bis zum 30. Juni 1997 war das Übereink. auf Grund einer Ausdehnungserklärung des Vereinigten Königreichs in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 6. Juni 1997 ist das Übereink. seit dem 1. Juli 1997 auch in der SAR Hongkong anwendbar. <sup>b</sup> Vom 28. Juni 1999 bis zum 19. Dez. 1999 war das Übereink. aufgrund einer Ausdehnungserklärung Portugals in Macau anwendbar. Seit dem 20. Dez. 1999 bildet Macau eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung ist das Übereink. seit dem 20. Dez. 1999 auch in der SAR Macau anwendbar. <sup>c</sup> Das Übereinkommen gilt für die Färöer und Grönland. <sup>d</sup> Das Übereink. gilt nicht für Tokelau. <sup>e</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-6]: [AS 1992 1125](https://fedlex.data.admin.ch/eli/oc/1992/1125_1125_1125), [2004 1185](https://fedlex.data.admin.ch/eli/oc/2004/139), [2005 5009](https://fedlex.data.admin.ch/eli/oc/2005/690), [2007 5091](https://fedlex.data.admin.ch/eli/oc/2007/717), [2010 3537](https://fedlex.data.admin.ch/eli/oc/2010/505), [2012 437](https://fedlex.data.admin.ch/eli/oc/2012/51), [2015 415](https://fedlex.data.admin.ch/eli/oc/2015/59), [2017 3393](https://fedlex.data.admin.ch/eli/oc/2017/369), [2020 1747](https://fedlex.data.admin.ch/eli/oc/2020/341). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-6]: [AS 1992 1125](https://fedlex.data.admin.ch/eli/oc/1992/1125_1125_1125); [2004 1185](https://fedlex.data.admin.ch/eli/oc/2004/139); [2005 5009](https://fedlex.data.admin.ch/eli/oc/2005/690); [2007 5091](https://fedlex.data.admin.ch/eli/oc/2007/717); [2010 3537](https://fedlex.data.admin.ch/eli/oc/2010/505); [2012 437](https://fedlex.data.admin.ch/eli/oc/2012/51); [2015 415](https://fedlex.data.admin.ch/eli/oc/2015/59); [2017 3393](https://fedlex.data.admin.ch/eli/oc/2017/369); [2020 1747](https://fedlex.data.admin.ch/eli/oc/2020/341); [2022 571](https://fedlex.data.admin.ch/eli/oc/2022/571). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht https://www.fedlex.admin.ch/de/treaty.
