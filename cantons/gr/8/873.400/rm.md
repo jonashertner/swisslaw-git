@@ -4,12 +4,12 @@ number: "873.400"
 title: Concordat davart las pendicularas ed ils runals betg concessiunads da la confederaziun
 language: rm
 version: 1973-06-18
-corrected: 2010-10-01
+corrected: 2022-10-06
 version_adopted: 1972-10-27
 adopted: 1951-10-15
 in_force: 1954-10-18
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/873.400"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/549/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/814/pdf_file"
 text: pdf
 ---
 
@@ -34,7 +34,7 @@ I. Intent e dimensiun
 
 [^t-4]
 
-<sup>1</sup> Ils chantuns che entran en il concordat s'associeschan a) per fixar prescripziuns unitaras che concepeschan il manaschi dals implants che tutgan tar il concordat uschè segir sco pussaivelsenza augmentar memia fitg ils custs per la construcziun e per il manaschi.
+<sup>1</sup> Ils chantuns che entran en il concordat s'associeschan a) per fixar prescripziuns unitaras che concepeschan il manaschi dals implants che tutgan tar il concordat uschè segir sco pussaivel senza augmentar memia fitg ils custs per la construcziun e per il manaschi.
 
 - b) per incaricar in post da controlla interchantunal che giuditgescha dumondas tecnicas per mauns dals chantuns;
 
@@ -42,7 +42,7 @@ I. Intent e dimensiun
 
 <sup>2</sup> Ils mezs chantuns èn eguals als chantuns en tut las parts.
 
-[^1-1]: midà a chaschun da la revisiun dal concordat dals 27 da november 1972 cun effect a partir dals 18 da zercladur 1973
+[^1-1]: midà a chaschun da la revisiun dal concordat dals 27 da november 1972 cun effect a partir dals 18 da zercladur 1973 1-1-2011 1
 
 #### Art. 2
 
@@ -95,7 +95,7 @@ Ils chantuns pon conceder al possessur da la permissiun il dretg d'expropriaziun
 
 <sup>2</sup> Avant che conceder las permissiuns vegnan giuditgads – per incumbensa dal chantun cumpetent – ils projects da construcziun ed ils implants pronts per funcziunar d'ina instanza da controlla tecnica tenor las disposiziuns da quest concordat e dal reglament[^5-2].
 
-[^5-1]: betg publitgà
+[^5-1]: betg publitgà 2 1-1-2011
 [^5-2]: betg publitgà
 
 #### Art. 6
@@ -106,7 +106,7 @@ Ils chantuns pon conceder al possessur da la permissiun il dretg d'expropriaziun
 
 <sup>2</sup> Ils chantuns procuran – tenor basegn – tar implants cun transport da persunas per regla ina controlla tecnica annuala dals implants. Da quellas controllas ston vegnir fatgs protocols per mauns dal chantun.
 
-<sup>3</sup> Il chantun cumpetent po fixar al possessur da l'implant in termin per la reparaziun da las mancanzas constatadas, cun smanatschar da retrair la permissiun e cun chastiar pervi da malobedientscha cunter disposiziuns uffizialas[^6-1]. En cas d'ina periclitaziun directa po il chantun u l'instanza incumbensada cun la controlla tecnica en il senn da l'artitgel 12 alinea 2 metter immediatamain ord funcziun l'implant.
+<sup>3</sup> Il chantun cumpetent po fixar al possessur da l'implant in termin per la reparaziun da las mancanzas constatadas, cun smanatschar da retrair la permissiun e cun chastiar pervia da malobedientscha cunter disposiziuns uffizialas[^6-1]. En cas d'ina periclitaziun directa po il chantun u l'instanza incumbensada cun la controlla tecnica en il senn da l'artitgel 12 alinea 2 metter immediatamain ord funcziun l'implant.
 
 [^6-1]: art. 292 CP, CS 311.0
 
@@ -116,11 +116,11 @@ Ils chantuns pon conceder al possessur da la permissiun il dretg d'expropriaziun
 
 <sup>1</sup> Ils chantuns èn autorisads da retrair la permissiun concedida temporarmain u duraivlamain u d'ordinar sezs – per proteger persunas – ina midada da l'implant considerada sco urgentamain necessaria sin ils custs dal possessur dal manaschi, sch'i vegnan violadas impurtantas disposiziuns da quest concordat u da las prescripziuns executivas u sch'i na vegn betg dà u betg dà a temp suatientscha a las ordinaziuns da las autoritads da surveglianza.
 
-<sup>2</sup> La persecuziun penala, per exempel pervi da malobedientscha cunter disposiziuns uffizialas[^7-1], è chaussa dals chantuns.
+<sup>2</sup> La persecuziun penala, per exempel pervia da malobedientscha cunter disposiziuns uffizialas[^7-1], è chaussa dals chantuns.
 
 <sup>3</sup> Per garantir lur pretensiuns èn ils chantuns autorisads da pretender dal retschavider da la permissiun da prestar cauziun.
 
-[^7-1]: art. 292 CP, CS 311.0
+[^7-1]: art. 292 CP, CS 311.0 1-1-2011 3
 
 ### III. Organisaziun
 
@@ -146,7 +146,7 @@ Ils chantuns pon conceder al possessur da la permissiun il dretg d'expropriaziun
 
 - 2\. fixar in reglament da gestiun per il contact dals chantuns cun ils organs dal concordat e dal post da la controlla tecnica, in carnet d'obligaziuns per il post da la controlla tecnica ed in urden da taxas;[^9-1]
 
-- 3\. eleger ils commembers da la direcziun e dal secretari per ina perioda d'uffizi da tschintg onns; il secretariat po vegnir delegà ad ina direcziun da construcziun chantunala, ad in auter uffizi chantunal u ad ina organisaziun uschiglioc adattada;
+- 3\. eleger ils commembers da la direcziun e dal secretari per ina perioda d'uffizi da 5 onns; il secretariat po vegnir delegà ad ina direcziun da construcziun chantunala, ad in auter uffizi chantunal u ad ina organisaziun uschiglio adattada;
 
 - 4\. eleger dus revisurs da quints;
 
@@ -160,7 +160,7 @@ Ils chantuns pon conceder al possessur da la permissiun il dretg d'expropriaziun
 
 <sup>5</sup> Ils objects da tractativa ston vegnir communitgads a temp. Autras tractativas dastgan mo vegnir tractadas concludend, sche tut ils chantuns represchentads èn d'accord.
 
-[^9-1]: betg publitgà en la CUL ed en il DG
+[^9-1]: betg publitgà en la CUL ed en il DG 4 1-1-2011
 
 #### Art. 10
 
@@ -168,13 +168,13 @@ Ils chantuns pon conceder al possessur da la permissiun il dretg d'expropriaziun
 
 <sup>1</sup> La direcziun sa cumpona dal president, dal vicepresident e d'in ulteriur commember da la conferenza. Il secretari ed il manader dal post da la controlla tecnica fan part cun vusch consultativa a las sedutas da la direcziun.
 
-<sup>2</sup> La direcziun exequescha tut tut quellas fatschentas che n'èn betg vegnidas surdadas explicitamain ad in auter organ. Ella ha spezialmain las suandantas incumbensas:
+<sup>2</sup> La direcziun exequescha tut quellas fatschentas che n'èn betg vegnidas surdadas explicitamain ad in auter organ. Ella ha spezialmain las suandantas incumbensas:
 
 - 1\. preparar ed exequir las decisiuns da la conferenza;
 
 - 2\. survegliar il post da la controlla tecnica;
 
-- 3\. far l'entira contabilitad, il quint annual e da far propostas per il preventiv;
+- 3\. far l'entira contabilitad, il quint annual e far propostas per il preventiv;
 
 - 4\. rediger il rapport annual;
 
@@ -196,7 +196,7 @@ Ils dus revisurs da quints examineschan ina giada ad onn la contabilitad da la d
 
 <sup>1</sup> Il post da la controlla tecnica stat a disposiziun als chantuns particularmain per las suandantas incumbensas:
 
-- 1\. giudicar projects
+- 1\. giuditgar projects;
 
 - 2\. collaudar implants pronts per funcziunar, inclusiv implants gia existents il mument da l'entrada en vigur dal concordat;
 
@@ -208,7 +208,11 @@ Ils dus revisurs da quints examineschan ina giada ad onn la contabilitad da la d
 
 - 6\. elavurar rapports per la direcziun sco basas per il rapport annual e per la calculaziun da taxas.
 
-<sup>2</sup> En cas d'in privel imminent sto il post da la controlla tecnica – sche necessari cun la pussanza da la polizia – metter ord funcziun immediatamain l'implant pertutgà e communitgar questa decisiun uschè spert sco pussaivel al chantun cumpetent. La decisiun definitiva davart l'interrupziun dal manaschi è chaussa da l'uffizi chantunal cumpetent[^12-1].
+<sup>2</sup> En cas d'in privel imminent sto il post da la controlla tecnica – sche necessari cun la pussanza da la polizia – metter ord funcziun immediatamain l'implant pertutgà e communitgar questa decisiun uschè spert sco
+
+**5**
+
+1-1-2011 pussaivel al chantun cumpetent. La decisiun definitiva davart l'interrupziun dal manaschi è chaussa da l'uffizi chantunal cumpetent[^12-1].
 
 <sup>3</sup> La conferenza po surdar ulteriuras incumbensas al post da la controlla tecnica. Quel dastga – uschenavant che quai è necessari – consultar experts per dumondas spezialas. Davart il traffic commerzial e davart las cumpetenzas dal post da controlla vegn fatg in carnet d'obligaziuns[^12-2].
 
@@ -241,7 +245,7 @@ La sedia dal concordat sa chatta al lieu dal secretariat.
 
 <sup>1</sup> L'entrada è libra a mintga chantun, en il territori dal qual i sa chatta almain in dals implants che tutgan al concordat.
 
-<sup>2</sup> L'extrada po succeder per la fin da l'onn chalendar – e resguardond in termin da desditga da almain in onn – suenter che tut las obligaziuns che derivan dal concordat èn ademplidas.
+<sup>2</sup> L'extrada po succeder per la fin da l'onn chalendar – e resguardond in termin da desditga d'almain 1 onn – suenter che tut las obligaziuns che derivan dal concordat èn ademplidas.
 
 ### IV. Disposiziuns finalas
 
@@ -249,34 +253,32 @@ La sedia dal concordat sa chatta al lieu dal secretariat.
 
 **Implants existents**
 
-<sup>1</sup> Implants gia existens ston vegnir adattads a las prescripziuns dal concordat ed a quellas dal reglament[^16-1] entaifer il termin fixà dal chantun cumpetent, il pli tard dentant entaifer diesch onns suenter l'entrada dal chantun en il concordat.
+<sup>1</sup> Implants gia existens ston vegnir adattads a las prescripziuns dal concordat ed a quellas dal reglament[^16-1] entaifer il termin fixà dal chantun cumpetent, il pli tard dentant entaifer 10 onns suenter l'entrada dal chantun en il concordat.
 
 <sup>2</sup> Suenter l'entrada en vigur dal concordat concedan ils chantuns als pos– sessurs da tals implants ina permissiun da manaschi valaivla per il temp da transiziun, sche las segirezzas minimalas èn garantidas.
 
 <sup>3</sup> Quest concordat vala confurm al senn er per ils implants gia existents.
 
-[^16-1]: betg publitgà en la CULF ed en il DG
+[^16-1]: betg publitgà en la CULF ed en il DG 6 1-1-2011
 
 #### Art. 17
 
 **Relaziun tar autras funtaunas da dretg**
 
-<sup>1</sup> Resalvadas restan prescripziuns e directivas ulteriuras e cumplementaras dals chantuns sco eventualmain da l'institut svizzer d'assicuranza d'accidents per las pendicularas ed ils runals suttamess a l'assicuranza cunter accidents obligatoria.
+<sup>1</sup> Resalvadas restan prescripziuns e directivas ulteriuras e cumplementaras dals chantuns sco eventualmain da l'institut svizzer d'assicuranza d'accidents per las pendicularas ed ils runals suttamess a l'assicuranza cunter accidents obligatorica.
 
-<sup>2</sup> Dal rest perda il dretg chantunal cuntradictori sia efficacitad durant il temps da validitad dal concordat.
+<sup>2</sup> Dal rest perda il dretg chantunal cuntradictoric sia efficacitad durant il temps da validitad dal concordat.
 
 #### Art. 18
 
 **Entrada en vigur**
 
-<sup>1</sup> Il concordat entra en vigur suenter l'approvaziun da almain tschintg chantuns.[^18-1]
+<sup>1</sup> Il concordat entra en vigur suenter l'approvaziun d'almain tschintg chantuns.[^18-1]
 
 <sup>2</sup> Il concordat è oz impegnativ per ils chantuns:
 
-**dapi: 22 d'avrigl 1960 15 da matg 1956 14 d'avrigl 1958 9 da schaner 1954 21 da mars 1955 15 da schaner 1966 9 da schaner 1954**
+**dapi: 22 d'avrigl 1960 15 da matg 1956 14 d'avrigl 1958 9 da schaner 1954 21 da mars 1955 15 da schaner 1966 9 da schaner 1954 12 da fanadur 1966 10 da favrer 1967 18 d'avrigl 1973 11 da settember 1958 3 da november 1975 29 da matg 1962 9 da schaner 1954 20 da zercladur 1954 14 da schaner 1975 23 da zercladur 1955 6 da settember 1955 9 da schaner 1954 9 da schaner 1954**
 
-**10 da favrer 1967 18 d'avrigl 1973 11 da settember 1958 3 da november 1975 29 da matg 1962 9 da schaner 1954 20 da zercladur 1954 14 da schaner 1975 23 da zercladur 1955 6 da settember 1955 9 da schaner 1954 9 da schaner 1954**
+Berna Lucerna Uri Sviz Sutsilvania sur il guaud Sutsilvania sut il guaud Glaruna Zug Friburg Soloturn Basilea-Champagna Appenzell dador Appenzell dadens Son Gagl Grischun Argovia Tessin Vad Vallais Neuchâtel
 
-Berna Lucerna Uri Sviz Sutsilvania sur il guaud Sutsilvania sut il guaud Glaruna Zug 12 da fanadur 1966 Friburg Soloturn Basilea-Champagna Appenzell dador Appenzell dadens Son Gagl dal Grischun Argovia Tessin Vad Vallais Neuchâtel
-
-[^18-1]: entrà en vigur ils 18 d'october 1954
+[^18-1]: entrà en vigur ils 18 d'october 1954 1-1-2011 7

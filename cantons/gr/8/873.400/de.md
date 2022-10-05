@@ -4,12 +4,12 @@ number: "873.400"
 title: Konkordat über die nicht eidgenössisch konzessionierten Seilbahnen und Skilifte
 language: de
 version: 1973-06-18
-corrected: 2010-10-01
+corrected: 2022-10-06
 version_adopted: 1972-10-27
 adopted: 1951-10-15
 in_force: 1954-10-18
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/873.400"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/549/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/814/pdf_file"
 text: pdf
 ---
 
