@@ -3,34 +3,38 @@ sr: "0.783.51"
 title: Satzung des Weltpostvereins vom 10. Juli 1964
 eli: "https://fedlex.data.admin.ch/eli/cc/1966/167_167_167"
 language: de
-version: 2019-07-01
+version: 2022-10-07
 adopted: 1964-07-10
 in_force: 1966-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/167_167_167/20190701/de/xml/fedlex-data-admin-ch-eli-cc-1966-167_167_167-20190701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1966/167_167_167/20190701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/167_167_167/20221007/de/xml/fedlex-data-admin-ch-eli-cc-1966-167_167_167-20221007-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1966/167_167_167/20221007/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Satzung des Weltpostvereins****
+# Satzung des Weltpostvereins
 
 AS **1966** 197; BBl **1965** II 521[^t-1]
 
 Abgeschlossen in Wien am 10. Juli 1964 Von der Bundesversammlung genehmigt am 16. Dezember 1965[^t-2] Schweizerische Ratifikationsurkunde hinterlegt am 4. Februar 1966 In Kraft getreten für die Schweiz am 1. Januar 1966
 
-Abgeändert durch die Zusatzprotokolle von Tokyo 1969, Lausanne 1974, Hamburg 1984, Washington 1989, Seoul 1994, Beijing 1999, Bukarest 2004, Genf 2008, Istanbul 2016 und Addis Abeba 2018[^t-3]
+Abgeändert durch die Zusatzprotokolle von Tokyo 1969, Lausanne 1974, Hamburg 1984, Washington 1989, Seoul 1994, Beijing 1999, Bukarest 2004, Genf 2008, Istanbul 2016, Addis Abeba 2018 und Abidjan 2021[^t-3]
 
-(Stand am 1. Juli 2019)
+(Stand am 7. Oktober 2022)
 
-[^t-1]: Konsolidierte Version ([AS 2019 2545](https://fedlex.data.admin.ch/eli/oc/2019/470)).
+[^t-1]: Konsolidierte Version ([AS 2022 659](https://fedlex.data.admin.ch/eli/oc/2022/659)).
 [^t-2]: Art. 1 Ziff. 1 des BB vom 16. Dez. 1965 ([AS 1966 165](https://fedlex.data.admin.ch/eli/oc/1966/165_165_165)).
-[^t-3]: 10. Zusatzprotokoll zur Satzung, angenommen in Addis Abeba am 7. September 2018, Schweizerische Ratifikationsurkunde hinterlegt am 21. Juni 2019, in Kraft getreten am 1. Juli 2019.
+[^t-3]: 11. Zusatzprotokoll zur Satzung, angenommen in Abidjan am 26. Aug. 2021, Schweizerische Ratifikationsurkunde hinterlegt am 7. Okt. 2022, in Kraft getreten für die Schweiz am 7. Okt. 2022.
 
-*Präambel*[^ingress-1]
+## *Präambel*
 
-Im Bestreben, die Völkerverbindung durch einen wirkungsvollen Betrieb der Postdienste zu fördern und einen Beitrag zur Erreichung der hohen Ziele der internationalen Zusammenarbeit in kulturellen, sozialen und wirtschaftlichen Belangen zu leisten, haben die Bevollmächtigten der Regierungen der vertragschliessenden Länder unter dem Vorbehalt der Ratifikation diese Satzung verabschiedet.
+[^titI-1]
 
-Aufgabe des Vereins ist es, die nachhaltige Entwicklung weltweiter hochwertiger, effizienter und allgemein zugänglicher Postdienste mit dem Ziel zu fördern, die Kommunikation zwischen den Menschen dieser Erde zu erleichtern, und zwar durch:
+[^titI-1]: Abgeändert am Kongress von Bukarest 2004.
+
+Im Bestreben, die Völkerverbindung durch einen wirkungsvollen Betrieb der Postdienste zu fördern und einen Beitrag zur Erreichung der hohen Ziele der internationalen Zusammenarbeit in kulturellen, sozialen und wirtschaftlichen Belangen zu leisten, haben die Bevollmächtigten der Regierungen der vertragschliessenden Länder unter dem Vorbehalt der Ratifikation, *Annahme oder Genehmigung*[^titI-2] diese Satzung verabschiedet.
+
+Aufgabe des *Weltpostvereins (nachfolgend als «der Verein» bezeichnet)*[^titI-3] ist es, die nachhaltige Entwicklung weltweiter hochwertiger, effizienter und allgemein zugänglicher Postdienste mit dem Ziel zu fördern, die Kommunikation zwischen den Menschen dieser Erde zu erleichtern, und zwar durch:
 
 - – Gewährleistung des freien Umlaufs der Postsendungen auf dem einheitlichen, aus zusammengeschlossenen Netzen bestehenden Postgebiet;
 - – Förderung der Annahme fairer gemeinsamer Normen und der Nutzung der Technologie;
@@ -38,7 +42,8 @@ Aufgabe des Vereins ist es, die nachhaltige Entwicklung weltweiter hochwertiger,
 - – Förderung einer effizienten technischen Zusammenarbeit;
 - – Berücksichtigung der Entwicklung von Kundenbedürfnissen.
 
-[^ingress-1]: Abgeändert am Kongress von Bukarest 2004.
+[^titI-2]: Abgeändert am Kongress von Abidjan 2021.
+[^titI-3]: Abgeändert am Kongress von Abidjan 2021.
 
 ## Titel I: Grundlegende Bestimmungen
 
@@ -48,7 +53,7 @@ Aufgabe des Vereins ist es, die nachhaltige Entwicklung weltweiter hochwertiger,
 
 **Wesen und Zweck des Vereins**
 
-<sup>1.</sup> Die Länder, die diese Satzung annehmen, bilden *im Rahmen der zwischenstaat**lichen Organisation mit der Bezeichnung* «Weltpostverein»[^1-1] ein einheitliches Postgebiet für den gegenseitigen Austausch von Postsendungen. Die Freiheit des Durchgangs ist *vorbehaltlich der in den Verträgen des Vereins*[^1-2] *genannten Bedingungen* im gesamten Vereinsgebiet gewährleistet
+<sup>1.</sup> Die Länder, die diese Satzung annehmen, bilden *im Rahmen der* *zwischenstaat**lichen* *Organisation mit der Bezeichnung* «Weltpostverein»[^1-1] ein einheitliches Postgebiet für den gegenseitigen Austausch von Postsendungen. Die Freiheit des Durchgangs ist *vorbehaltlich der in den Verträgen des Vereins*[^1-2] *und ihren Zusatzprotokollen*[^1-3] *genannten Bedingungen* *(nachfolgend kollektiv als «Verträge des Vereins» bezeichnet)*[^1-4] im gesamten Vereinsgebiet gewährleistet
 
 <sup>2.</sup> Zweck des Vereins ist der Aufbau und die Vervollkommnung der Postdienste sowie die Förderung der internationalen Zusammenarbeit in diesem Bereich.
 
@@ -56,6 +61,8 @@ Aufgabe des Vereins ist es, die nachhaltige Entwicklung weltweiter hochwertiger,
 
 [^1-1]: Abgeändert am ausserordentlichen Kongress von Addis Abeba 2018.
 [^1-2]: Abgeändert am Kongress von Istanbul 2016.
+[^1-3]: Abgeändert am Kongress von Abidjan 2021.
+[^1-4]: Abgeändert am Kongress von Abidjan 2021.
 
 #### Art. 1<sup>bis</sup>
 
@@ -63,27 +70,30 @@ Aufgabe des Vereins ist es, die nachhaltige Entwicklung weltweiter hochwertiger,
 
 <sup>1.</sup>
 
-Im Rahmen der Verträge des Weltpostvereins gelten folgende Begriffsbestimmungen:
+Im Rahmen der Verträge des *Vereins*[^1bis-2] gelten folgende Begriffsbestimmungen:
 
-- 1\.1 Postdienst: Sämtliche *internationale* Leistungen der Post, deren Umfang *durch die Verträge des Vereins* festgelegt *und geregelt* wird. Mit diesen Leistungen ist im Wesentlichen die Verpflichtung verbunden, bestimmten sozialen und wirtschaftlichen Bestrebungen der Mitgliedsländer durch Einsammeln, *Bearbeiten*[^1bis-2], Weiterleiten und Zustellen der Postsendungen zu entsprechen.
+- 1\.1 Postdienst: Sämtliche *internationale* Leistungen der Post, deren Umfang *durch die Verträge des Vereins* festgelegt *und geregelt* wird. Mit diesen Leistungen ist im Wesentlichen die Verpflichtung verbunden, bestimmten sozialen und wirtschaftlichen Bestrebungen der Mitgliedsländer durch Einsammeln, *Bearbeiten*[^1bis-3], Weiterleiten und Zustellen der Postsendungen zu entsprechen.
 - 1\.2 Mitgliedsland: Land, das die in Artikel 2 der Satzung genannten Bedingungen erfüllt.
-- 1\.3 Einheitliches Postgebiet (ein und dasselbe Postgebiet): Verpflichtung der Vertragsparteien der WPV-Verträge, *vorbehaltlich der in diesen Verträgen*[^1bis-3] *genannten Bedingungen* nach dem Grundsatz der Gegenseitigkeit den Austausch der Postsendungen unter Wahrung der Freiheit des Durchgangs sicherzustellen und Postsendungen, die aus anderen Ländern stammen und durch ihr Land geleitet werden, genauso zu behandeln wie ihre eigenen Postsendungen.
-- 1\.4 Freiheit des Durchgangs: Grundsatz, dass ein vermittelndes Mitgliedsland *vorbehaltlich der in den Verträgen des Vereins*[^1bis-4] *genannten Bedingungen* verpflichtet ist, den Transport der ihm im Durchgangsverkehr nach einem anderen Mitgliedsland[^1bis-5] übergebenen Postsendungen zu gewährleisten und die Postsendungen dabei wie Inlandspost zu behandeln.
-- 1\.5 Briefsendungen: Die im Weltpostvertrag beschriebenen Sendungen.
-- 1\.6. (*Aufgehoben*)[^1bis-6]
-- 1\.6<sup>bis</sup> *Postsendung: Oberbegriff zur Bezeichnung jeder vom benannten Betreiber eines Mitgliedslands durchgeführten Beförderung (Briefsendung, Postpaket, Postanweisung usw.), wie sie im Weltpostvertrag und im Postzahlungsdienste-Übereinkommen und in ihren jeweiligen Ergänzenden Bestimmungen*[^1bis-7] *beschrieben ist.*
-- 1\.7 Benannter Betreiber: Jede staatliche oder nichtstaatliche Stelle[^1bis-8], die vom Mitgliedsland offiziell zur Sicherstellung des Betriebs der Postdienste und zur Erfüllung der sich aus den Verträgen des Vereins ergebenden Pflichten auf seinem Gebiet ernannt worden ist.
-- 1\.8 Vorbehalt: Ein Vorbehalt ist eine Ausnahmeregelung, durch die ein Mitgliedsland die Rechtswirkung einer Klausel aus einem der Verträge, mit Ausnahme der Satzung und der Allgemeinen Verfahrensordnung, in seiner Anwendung auf dieses Mitgliedsland ausschliessen oder abändern will. Jeder Vorbehalt muss mit Ziel und Zweck des Vereins gemäss Präambel und Artikel 1 der Satzung vereinbar sein. Er ist ordnungsgemäss zu begründen und muss mit der für die Genehmigung des betreffenden Vertrages erforderlichen Mehrheit angenommen und in sein Schlussprotokoll aufgenommen werden[^1bis-9].
+- 1\.3 Einheitliches Postgebiet (ein und dasselbe Postgebiet): Verpflichtung der Vertragsparteien der WPV-Verträge, *vorbehaltlich der in diesen Verträgen*[^1bis-4] *genannten Bedingungen* nach dem Grundsatz der Gegenseitigkeit den Austausch der Postsendungen unter Wahrung der Freiheit des Durchgangs sicherzustellen und Postsendungen, die aus anderen Ländern stammen und durch ihr Land geleitet werden, genauso zu behandeln wie ihre eigenen Postsendungen.
+- 1\.4 Freiheit des Durchgangs: Grundsatz, dass ein vermittelndes Mitgliedsland *vorbehaltlich der in den Verträgen des Vereins*[^1bis-5] *genannten Bedingungen* verpflichtet ist, den Transport der ihm im Durchgangsverkehr nach einem anderen Mitgliedsland[^1bis-6] übergebenen Postsendungen zu gewährleisten und die Postsendungen dabei wie Inlandspost zu behandeln.
+- 1\.5 *(Aufgehoben)*[^1bis-7]
+- 1\.6. (*Aufgehoben*)[^1bis-8]
+- 1\.6<sup>bis</sup> *Postsendung: Oberbegriff zur Bezeichnung jeder vom benannten Betreiber eines Mitgliedslands durchgeführten Beförderung (Briefsendung, Postpaket, Postanweisung usw.), wie sie im Weltpostvertrag, in den Abkommen des Vereins (nach Art. 22 der Satzung)*[^1bis-9] *und in ihren jeweiligen Ergänzenden Bestimmungen*[^1bis-10] *beschrieben ist.*
+- 1\.7 Benannter Betreiber: Jede staatliche oder nichtstaatliche Stelle[^1bis-11], die vom Mitgliedsland offiziell zur Sicherstellung des Betriebs der Postdienste und zur Erfüllung der sich aus den Verträgen des Vereins ergebenden Pflichten auf seinem Gebiet ernannt worden ist.
+- 1\.8 Vorbehalt: Ein Vorbehalt ist eine Ausnahmeregelung, durch die ein Mitgliedsland die Rechtswirkung einer Klausel aus einem der Verträge, mit Ausnahme der Satzung und der Allgemeinen Verfahrensordnung, in seiner Anwendung auf dieses Mitgliedsland ausschliessen oder abändern will. Jeder Vorbehalt muss mit Ziel und Zweck des Vereins gemäss Präambel und Artikel 1 der Satzung vereinbar sein. Er ist ordnungsgemäss zu begründen und muss mit der für die Genehmigung des betreffenden Vertrages erforderlichen Mehrheit angenommen und in sein Schlussprotokoll aufgenommen werden[^1bis-12].
 
 [^1bis-1]: Eingeführt am Kongress von Bukarest 2004.
-[^1bis-2]: Abgeändert am Kongress von Istanbul 2016.
+[^1bis-2]: Abgeändert am Kongress von Abidjan 2021.
 [^1bis-3]: Abgeändert am Kongress von Istanbul 2016.
 [^1bis-4]: Abgeändert am Kongress von Istanbul 2016.
-[^1bis-5]: Abgeändert am Kongress von Genf 2008.
-[^1bis-6]: Am Kongress von Istanbul 2016.
-[^1bis-7]: Eingeführt am Kongress von Istanbul 2016.
-[^1bis-8]: Abgeändert am Kongress von Genf 2008.
-[^1bis-9]: Abgeändert am Kongress von Genf 2008.
+[^1bis-5]: Abgeändert am Kongress von Istanbul 2016.
+[^1bis-6]: Abgeändert am Kongress von Genf 2008.
+[^1bis-7]: Am Kongress von Abidjan 2021.
+[^1bis-8]: Am Kongress von Istanbul 2016.
+[^1bis-9]: Abgeändert am Kongress von Abidjan 2021.
+[^1bis-10]: Eingeführt am Kongress von Istanbul 2016.
+[^1bis-11]: Abgeändert am Kongress von Genf 2008.
+[^1bis-12]: Abgeändert am Kongress von Genf 2008.
 
 #### Art. 2
 
@@ -112,9 +122,10 @@ Zum Bereich des Vereins gehören:
 
 **Besondere Verbindungen**
 
-<sup>1.</sup> Die Mitgliedsländer, deren benannte Betreiber Gebiete versorgen, die dem Verein nicht angehören, sind verpflichtet, den anderen Mitgliedsländern[^4-1] als Vermittler zu dienen. Für diese besonderen Verbindungen gelten die Bestimmungen des Weltpostvertrags sowie die Ergänzenden Bestimmungen.
+<sup>1.</sup> Die Mitgliedsländer, deren benannte Betreiber *Postdienste im Auftrag von Gebieten erbringen*[^4-1], die dem Verein nicht angehören, sind verpflichtet, den anderen Mitgliedsländern[^4-2] als Vermittler zu dienen. Für diese besonderen Verbindungen gelten die Bestimmungen des Weltpostvertrags sowie die Ergänzenden Bestimmungen.
 
-[^4-1]: Abgeändert am Kongress von Genf 2008.
+[^4-1]: Abgeändert am Kongress von Abidjan 2021.
+[^4-2]: Abgeändert am Kongress von Genf 2008.
 
 #### Art. 5
 
@@ -140,15 +151,16 @@ Zum Bereich des Vereins gehören:
 
 **Engere Vereine. Besondere Vereinbarungen**
 
-<sup>1.</sup> Die Mitgliedsländer oder ihre benannten Betreiber können, sofern es mit der Gesetzgebung dieser Länder[^8-1] vereinbar ist, Engere Vereine bilden und besondere Vereinbarungen über den internationalen Postdienst treffen. Derartige Vereinbarungen dürfen jedoch keine Bestimmungen enthalten, die im Vergleich zu jenen der Verträge des Weltpostvereins, denen die betreffenden Mitgliedsländer beigetreten sind, ungünstigere Bedingungen für die Postkundinnen und Postkunden mit sich bringen.
+<sup>1.</sup> Die Mitgliedsländer oder ihre benannten Betreiber können, sofern es mit der Gesetzgebung dieser Länder[^8-1] vereinbar ist, Engere Vereine bilden und besondere Vereinbarungen über den *Postdienst*[^8-2] treffen. Derartige Vereinbarungen dürfen jedoch keine Bestimmungen enthalten, die im Vergleich zu jenen der Verträge des Weltpostvereins, denen die betreffenden Mitgliedsländer beigetreten sind, ungünstigere Bedingungen für die Postkundinnen und Postkunden mit sich bringen.
 
-<sup>2.</sup> Die Engeren Vereine können Beobachterinnen und Beobachter zu den Kongressen, *zum Verwaltungsrat, zum Rat für Postbetrieb und anderen vom Verein organisierten*[^8-2] Konferenzen und Tagungen entsenden[^8-3].
+<sup>2.</sup> Die Engeren Vereine können Beobachterinnen und Beobachter zu den Kongressen, *zum Verwaltungsrat, zum Rat für Postbetrieb und anderen vom Verein organisierten*[^8-3] Konferenzen und Tagungen entsenden[^8-4].
 
 <sup>3.</sup> Der Verein kann Beobachterinnen und Beobachter zu den Kongressen, Konferenzen und Tagungen der Engeren Vereine entsenden.
 
 [^8-1]: Abgeändert am Kongress von Genf 2008.
-[^8-2]: Abgeändert am ausserordentlichen Kongress von Addis Abeba 2018.
-[^8-3]: Abgeändert an den Kongressen von Tokyo 1969, Seoul 1994 und dem ausserordentlichen Kongress von Addis Abeba 2018.
+[^8-2]: Abgeändert am Kongress von Abidjan 2021.
+[^8-3]: Abgeändert am ausserordentlichen Kongress von Addis Abeba 2018.
+[^8-4]: Abgeändert an den Kongressen von Tokyo 1969, Seoul 1994 und dem ausserordentlichen Kongress von Addis Abeba 2018.
 
 #### Art. 9
 
@@ -174,12 +186,15 @@ Zum Bereich des Vereins gehören:
 
 <sup>3.</sup> Der Beitritt zum bzw. der Antrag auf Aufnahme in den Verein muss eine förmliche Beitrittserklärung zur Satzung und zu den verbindlichen Verträgen des Vereins umfassen. Die Beitrittserklärung bzw. der Aufnahmeantrag ist von der Regierung des betreffenden Landes an den Generaldirektor des Internationalen Büros zu richten, der entweder den Mitgliedsländern den erfolgten Beitritt notifiziert oder deren Stellungnahme zum eingebrachten Antrag einholt.
 
-<sup>4.</sup> Ein Land, das der Organisation der Vereinten Nationen nicht angehört, gilt in der Eigenschaft als Mitgliedsland zugelassen, wenn seinem Antrag von mindestens zwei Dritteln der Mitgliedsländer des Vereins zugestimmt worden ist. Hat ein Mitgliedsland innerhalb von vier Monaten ab dem Datum der Konsultation[^11-2] nicht geantwortet, so gilt dies als Stimmenthaltung.
+<sup>4.</sup> Ein Land, das der Organisation der Vereinten Nationen nicht angehört, gilt in der Eigenschaft als Mitgliedsland zugelassen, wenn seinem Antrag von mindestens zwei Dritteln der Mitgliedsländer des Vereins zugestimmt worden ist. *Ist die Antwort eines Mitgliedlands nicht*[^11-2] innerhalb von vier Monaten ab dem Datum der Konsultation[^11-3] *beim Internationalen Büro eingegangen*[^11-4], so gilt dies als Stimmenthaltung. *Die oben genannten Antworten, die auf physischem oder sicherem elektronischen Weg beim Internationalen Büro einzureichen sind, müssen von einer ordnungsgemäss ermächtigten Vertreterin oder von einem ordnungsgemäss ermächtigten Vertreter der Regierungsbehörde des betreffenden Mitgliedslands unterzeichnet werden. Für die Zwecke dieses Absatzes bezieht sich der Ausdruck «sicherer elektronischer Weg» auf jedes elektronische Mittel zur Verarbeitung, Speicherung und Übermittlung von Daten, das die Vollständigkeit, Integrität und Vertraulichkeit dieser Daten bei der Einreichung der oben genannten Antworten durch ein Mitgliedsland gewährleistet.*[^11-5]
 
 <sup>5.</sup> Der Beitritt bzw. die Aufnahme als Mitglied wird den Regierungen der Mitgliedsländer vom Generaldirektor des Internationalen Büros notifiziert. Der Beitritt bzw. die Aufnahme wird mit dem Tag dieser Notifikation wirksam.
 
 [^11-1]: Abgeändert an den Kongressen von Tokyo 1969 und Washington 1989.
-[^11-2]: Abgeändert am Kongress von Genf 2008.
+[^11-2]: Abgeändert am Kongress von Abidjan 2021.
+[^11-3]: Abgeändert am Kongress von Genf 2008.
+[^11-4]: Abgeändert am Kongress von Abidjan 2021.
+[^11-5]: Abgeändert am Kongress von Abidjan 2021.
 
 #### Art. 12
 
@@ -187,9 +202,10 @@ Zum Bereich des Vereins gehören:
 
 <sup>1.</sup> Jedes Mitgliedsland kann durch Kündigung der Satzung aus dem Verein austreten. Die Kündigung ist von der Regierung des betreffenden Landes an den Generaldirektor des Internationalen Büros und von diesem an die Regierungen der Mitgliedsländer zu richten.
 
-<sup>2.</sup> Der Austritt aus dem Verein wird mit Ablauf eines Jahres, gerechnet ab dem Tag des Eingangs der Kündigung beim Generaldirektor des Internationalen Büros nach Absatz 1, wirksam.
+<sup>2.</sup> Der Austritt aus dem Verein wird *ein Jahr nach*[^12-2] Eingang der Kündigung beim Generaldirektor des Internationalen Büros nach Absatz 1 wirksam.
 
 [^12-1]: Abgeändert am Kongress von Washington 1989.
+[^12-2]: Abgeändert am Kongress von Abidjan 2021.
 
 ### 3. Kapitel: Organisation des Vereins
 
@@ -252,7 +268,7 @@ Zum Bereich des Vereins gehören:
 
 <sup>1.</sup> (*Aufgehoben*)[^19-1]
 
-[^19-1]: Abgeändert am Kongress von Hamburg 1984.
+[^19-1]: Am Kongress von Hamburg 1984.
 
 #### Art. 20
 
@@ -277,11 +293,14 @@ Jeder Kongress setzt die folgenden Höchstbeträge fest:
 
 <sup>2.</sup> Der Höchstbetrag nach Absatz 1 darf unter Beachtung der einschlägigen Bestimmungen der Allgemeinen Verfahrensordnung nötigenfalls überschritten werden.
 
-<sup>3.</sup> Die Ausgaben des Vereins, einschliesslich der allfälligen Ausgaben nach Absatz 2, werden von den Mitgliedsländern des Vereins gemeinsam getragen. Hierfür wählt jedes Mitgliedsland die Beitragsklasse, in die es eingeteilt werden möchte. Die Beitragsklassen werden in der Allgemeinen Verfahrensordnung festgelegt.
+<sup>3.</sup> Die Ausgaben des Vereins, einschliesslich der allfälligen Ausgaben nach Absatz 2, werden von den Mitgliedsländern des Vereins gemeinsam getragen. Hierfür wählt jedes Mitgliedsland die Beitragsklasse, in die es *nach den entsprechenden Bestimmungen in der Allgemeinen Verfahrensordnung*[^21-2] eingeteilt werden möchte. Die Beitragsklassen werden in der Allgemeinen Verfahrensordnung festgelegt.
 
-<sup>4.</sup> Beim Beitritt zum bzw. der Aufnahme in den Verein gemäss Artikel 11 hat das betreffende Land die freie Wahl unter den zum Zweck der Deckung der Vereinsausgaben eingerichteten Beitragsklassen.
+<sup>4.</sup> Beim Beitritt zum bzw. der Aufnahme in den Verein gemäss Artikel 11 *wählt*[^21-3] das betreffende Land die Beitragsklasse, in die es zum Zweck der Deckung der Vereinsausgaben,*ebenfalls nach den entsprechenden Bestimmungen in der Allgemeinen Verfahrensordnung*[^21-4]*,* eingeteilt werden möchte.
 
 [^21-1]: Abgeändert an den Kongressen von Tokyo 1969, Lausanne 1974 und Washington 1989.
+[^21-2]: Abgeändert am Kongress von Abidjan 2021.
+[^21-3]: Abgeändert am Kongress von Abidjan 2021.
+[^21-4]: Abgeändert am Kongress von Abidjan 2021.
 
 ## Titel II: Verträge des Vereins
 
@@ -295,21 +314,28 @@ Jeder Kongress setzt die folgenden Höchstbeträge fest:
 
 <sup>2.</sup> Die Allgemeine Verfahrensordnung enthält die Bestimmungen über die Anwendung der Satzung und über die Arbeitsweise des Vereins. Sie ist für alle Mitgliedsländer verbindlich; Vorbehalte dazu sind nicht zulässig[^22-2].
 
-<sup>3.</sup> Der *Welt*postvertrag und die *Ergänzenden Bestimmungen*[^22-3] enthalten die gemeinsamen Vorschriften für den internationalen Postdienst sowie die Bestimmungen über die Briefpost- und die Paketpostdienste. Diese Verträge sind für alle Mitgliedsländer verbindlich[^22-4]. Die Mitgliedsländer sorgen dafür, dass ihre benannten Betreiber die sich aus dem Weltpostvertrag und *seinen Ergänzenden Bestimmungen*[^22-5] ergebenden Pflichten erfüllen.
+<sup>3.</sup> Der *Weltpostvertrag*[^22-3] und die *Ergänzenden Bestimmungen*[^22-4] enthalten die gemeinsamen Vorschriften für den *Postdienst*[^22-5]. Diese Verträge sind für alle Mitgliedsländer verbindlich[^22-6]. Die Mitgliedsländer sorgen dafür, dass ihre benannten Betreiber die sich aus dem Weltpostvertrag und *seinen Ergänzenden Bestimmungen*[^22-7] ergebenden Pflichten erfüllen.
 
-<sup>4.</sup> Die Abkommen des Vereins und ihre Ergänzenden Bestimmungen regeln die Postdienste, mit Ausnahme der Briefpost- und der Paketpostdienste, für diejenigen Mitgliedsländer, die Vertragsparteien der Abkommen sind. Sie sind nur für diese Mitgliedsländer verbindlich. Die Unterzeichnermitgliedsländer sorgen dafür, dass ihre benannten Betreiber die sich aus den Abkommen und ihren Ergänzenden Bestimmungen[^22-6] ergebenden Pflichten erfüllen.
+<sup>4.</sup> Die Abkommen des Vereins und ihre Ergänzenden Bestimmungen *definieren und*[^22-8] regeln *jeweils andere*[^22-9] Postdienste *als die im Weltpostvertrag und seinen* *Ergänzenden* *Bestimmungen definierten und geregelten Postdienste zwischen den*[^22-10] Mitgliedsländern, die Vertragsparteien sind. Sie sind nur für diese Mitgliedsländer verbindlich. Die Unterzeichnermitgliedsländer sorgen dafür, dass ihre benannten Betreiber die sich aus den Abkommen *des Vereins*[^22-11] und ihren Ergänzenden Bestimmungen[^22-12] ergebenden Pflichten erfüllen.
 
-<sup>5.</sup> Die Ergänzenden Bestimmungen, welche die für die Durchführung des Weltpostvertrags und der Abkommen erforderlichen Vorschriften enthalten, werden vom Rat für Postbetrieb unter Berücksichtigung der Beschlüsse des Kongresses festgelegt[^22-7].
+<sup>5.</sup> Die Ergänzenden Bestimmungen, welche die für die Durchführung des Weltpostvertrags und der Abkommen *des Vereins*[^22-13] erforderlichen Vorschriften enthalten, werden vom Rat für Postbetrieb unter Berücksichtigung der Beschlüsse des Kongresses festgelegt[^22-14].
 
 <sup>6.</sup> Die Schlussprotokolle, die den in den Absätzen 3–5 genannten Verträgen des Vereins gegebenenfalls beigefügt sind, enthalten die Vorbehalte zu diesen Verträgen.
 
 [^22-1]: Abgeändert am Kongress von Bukarest 2004.
 [^22-2]: Abgeändert am Kongress von Bukarest 2004.
-[^22-3]: Abgeändert am Kongress von Istanbul 2016.
-[^22-4]: Abgeändert am Kongress von Beijing 1999.
-[^22-5]: Abgeändert am Kongress von Istanbul 2016.
-[^22-6]: Abgeändert am Kongress von Genf 2008.
-[^22-7]: Abgeändert an den Kongressen von Washington 1989, Seoul 1994 und Beijing 1999.
+[^22-3]: Abgeändert am Kongress von Abidjan 2021.
+[^22-4]: Abgeändert am Kongress von Istanbul 2016.
+[^22-5]: Abgeändert am Kongress von Abidjan 2021.
+[^22-6]: Abgeändert am Kongress von Beijing 1999.
+[^22-7]: Abgeändert am Kongress von Istanbul 2016.
+[^22-8]: Abgeändert am Kongress von Abidjan 2021.
+[^22-9]: Abgeändert am Kongress von Abidjan 2021.
+[^22-10]: Abgeändert am Kongress von Abidjan 2021.
+[^22-11]: Abgeändert am Kongress von Abidjan 2021.
+[^22-12]: Abgeändert am Kongress von Genf 2008.
+[^22-13]: Abgeändert am Kongress von Abidjan 2021.
+[^22-14]: Abgeändert an den Kongressen von Washington 1989, Seoul 1994 und Beijing 1999.
 
 #### Art. 23
 
@@ -337,44 +363,68 @@ Jeder Kongress setzt die folgenden Höchstbeträge fest:
 
 #### Art. 25
 
-**Unterzeichnung, Beglaubigung, Ratifikation und andere Genehmigungsverfahren für die Verträge des Vereins**[^25-1]
+**Unterzeichnung, Beglaubigung, Ratifikation*, Annahme, Genehmigung*[^25-2] der Verträge des Vereins *und Beitritt zu diesen Verträgen*[^25-3]**[^25-1]
 
 <sup>1.</sup> Die vom Kongress verabschiedeten Verträge des Vereins werden von den Bevollmächtigten der Mitgliedsländer unterzeichnet.
 
-<sup>2.</sup> Die Ergänzenden Bestimmungen werden vom Präsidenten und vom Generalsekretär des Rates für Postbetrieb beglaubigt[^25-2].
+<sup>2.</sup> Die Ergänzenden Bestimmungen werden vom Präsidenten und vom Generalsekretär des Rates für Postbetrieb beglaubigt[^25-4].
 
-<sup>3.</sup> Die Satzung wird von den Unterzeichnerländern so bald wie möglich ratifiziert.
+<sup>3.</sup> Die *Verträge des Vereins werden*[^25-5] von den Unterzeichnerländern so bald wie möglich *gemäss ihren verfassungsrechtlichen Vorschriften*[^25-6] ratifiziert, *angenommen oder genehmigt*[^25-7].
 
-<sup>4.</sup> Die Genehmigung der Verträge des Vereins mit Ausnahme der Satzung erfolgt nach dem Verfassungsrecht des jeweiligen Unterzeichnerlandes.
+<sup>4.</sup> *(Aufgehoben)*[^25-8]
 
-<sup>5.</sup> Wenn ein Mitgliedsland[^25-3] die Satzung nicht ratifiziert oder die von ihm unterzeichneten anderen Verträge nicht genehmigt, bleiben die Satzung und die anderen Verträge gleichwohl für die Mitgliedsländer[^25-4] verbindlich, die sie ratifiziert oder genehmigt haben.
+<sup>5.</sup> Wenn ein Mitgliedsland[^25-9] die *von ihm unterzeichneten Verträge des Vereins*[^25-10] nicht ratifiziert, *annimmt oder*[^25-11] genehmigt, bleiben *diese Verträge*[^25-12] gleichwohl für die Mitgliedsländer[^25-13] verbindlich, die sie ratifiziert, *angenommen*[^25-14] oder genehmigt haben.
+
+\6. *Die Mitgliedsländer können jederzeit nach den in der Geschäftsordnung der Kongresse festgelegten einschlägigen Verfahren den von ihnen nicht unterzeichneten Verträgen des Vereins beitreten.*[^25-15]
+
+\7. *Der Beitritt der Mitgliedsländer zu den Verträgen des Vereins wird nach Artikel 26 notifiziert.*[^25-16]
 
 [^25-1]: Abgeändert an den Kongressen von Washington 1989 und Seoul 1994.
-[^25-2]: Abgeändert am Kongress von Beijing 1999.
-[^25-3]: Abgeändert am Kongress von Genf 2008.
-[^25-4]: Abgeändert am Kongress von Genf 2008.
+[^25-2]: Abgeändert am Kongress von Abidjan 2021.
+[^25-3]: Abgeändert am Kongress von Abidjan 2021.
+[^25-4]: Abgeändert am Kongress von Beijing 1999.
+[^25-5]: Abgeändert am Kongress von Abidjan 2021.
+[^25-6]: Abgeändert am Kongress von Abidjan 2021.
+[^25-7]: Abgeändert am Kongress von Abidjan 2021.
+[^25-8]: Am Kongress von Abidjan 2021.
+[^25-9]: Abgeändert am Kongress von Genf 2008.
+[^25-10]: Abgeändert am Kongress von Abidjan 2021.
+[^25-11]: Abgeändert am Kongress von Abidjan 2021.
+[^25-12]: Abgeändert am Kongress von Abidjan 2021.
+[^25-13]: Abgeändert am Kongress von Genf 2008.
+[^25-14]: Abgeändert am Kongress von Abidjan 2021.
+[^25-15]: Eingeführt am Kongress von Abidjan 2021.
+[^25-16]: Eingeführt am Kongress von Abidjan 2021.
 
 #### Art. 26
 
-**Notifikation der Ratifikation und der anderen Genehmigungsverfahren für die Verträge des Vereins**[^26-1]
+**Notifikation der Ratifikation, *Annahme, Genehmigung*[^26-2] der Verträge des Vereins *und Beitritt zu diesen Verträgen*[^26-3]**[^26-1]
 
 <sup>1.</sup> Die Urkunden betreffend die Ratifikation der Satzung, der Zusatzprotokolle und gegebenenfalls die Genehmigung der anderen Verträge des Vereins sind innerhalb kürzester Frist beim Generaldirektor des Internationalen Büros zu hinterlegen, der diese Hinterlegung den Regierungen der Mitgliedsländer notifiziert.
 
 [^26-1]: Abgeändert an den Kongressen von Tokyo 1969 und Washington 1989.
+[^26-2]: Abgeändert am Kongress von Abidjan 2021.
+[^26-3]: Abgeändert am Kongress von Abidjan 2021.
 
 #### Art. 27
 
 **Beitritt zu den Abkommen**
 
-<sup>1.</sup> Die Mitgliedsländer können jederzeit einem oder mehreren der in Artikel 22 Absatz 4 genannten Abkommen beitreten.
+### *(Aufgehoben)*
 
-<sup>2.</sup> Der Beitritt eines Mitgliedslandes zu den Abkommen wird nach Artikel 11 Absatz 3 notifiziert.
+[^titIII-chap2-lvlu4-1]
+
+[^titIII-chap2-lvlu4-1]: Am Kongress von Abidjan 2021.
 
 #### Art. 28
 
-**Kündigung eines Abkommens**
+**Kündigung *von Abkommen des Vereins*[^28-1]**
 
-<sup>1.</sup> Jedes Mitgliedsland kann von einem oder mehreren Abkommen unter den in Artikel 12 festgelegten Bedingungen zurücktreten.
+<sup>1.</sup> Jedes Mitgliedsland kann von einem oder mehreren Abkommen *des Vereins zurücktreten, vorbehaltlich der*[^28-2] in Artikel 12 festgelegten Bedingungen, *die sinngemäss anwendbar sind.*[^28-3]
+
+[^28-1]: Abgeändert am Kongress von Abidjan 2021.
+[^28-2]: Abgeändert am Kongress von Abidjan 2021.
+[^28-3]: Abgeändert am Kongress von Abidjan 2021.
 
 ### 3. Kapitel: Änderung der Verträge des Vereins
 
@@ -386,11 +436,10 @@ Jeder Kongress setzt die folgenden Höchstbeträge fest:
 
 <sup>2.</sup> Vorschläge zur Satzung und zur Allgemeinen Verfahrensordnung können jedoch nur dem Kongress vorgelegt werden.
 
-<sup>3.</sup> Darüber hinaus werden Vorschläge zu den Ergänzenden Bestimmungen unmittelbar dem Rat für Postbetrieb vorgelegt, müssen jedoch zuvor vom Internationalen Büro allen Mitgliedsländern und benannten Betreibern[^29-2]<sup>,</sup> [^29-3] übermittelt werden.
+<sup>3.</sup> Darüber hinaus werden Vorschläge zu den Ergänzenden Bestimmungen dem Rat für Postbetrieb *über das Internationale Büro vorgelegt*.[^29-2]
 
 [^29-1]: Abgeändert am Kongress von Genf 2008.
-[^29-2]: Abgeändert am Kongress von Genf 2008.
-[^29-3]: Abgeändert am Kongress von Beijing 1999 und am Kongress von Genf 2008.
+[^29-2]: Abgeändert am Kongress von Abidjan 2021.
 
 #### Art. 30
 
@@ -398,20 +447,26 @@ Jeder Kongress setzt die folgenden Höchstbeträge fest:
 
 <sup>1.</sup> Die Annahme der dem Kongress vorgelegten Vorschläge zur Abänderung der vorliegenden Satzung bedarf der Zustimmung von mindestens zwei Dritteln der stimmberechtigten Mitgliedsländer des Vereins[^30-1].
 
-<sup>2.</sup> Die vom Kongress angenommenen Änderungen werden Gegenstand eines Zusatzprotokolls und treten, vorbehaltlich eines anderweitigen Kongressbeschlusses, zur selben Zeit in Kraft, wie die im Laufe des jeweiligen Kongresses erneuerten Verträge. Sie werden so bald wie möglich von den Mitgliedsländern ratifiziert; mit den betreffenden Ratifikationsurkunden wird nach Artikel 26 verfahren.
+<sup>2.</sup> Die vom Kongress angenommenen Änderungen *der Satzung*[^30-2] werden Gegenstand eines Zusatzprotokolls und treten *ab dem von diesem Kongress festgelegten Zeitpunkt in Kraft. Unbeschadet der rechtlichen Verbindlichkeit der Satzung nach Artikel 22 Absatz 1 ratifizieren die Mitgliedsländer die genannten Änderungen*[^30-3], so bald wie möglich, *nehmen sie an, genehmigen sie oder schliessen sich ihnen an.* *Mit*[^30-4] den betreffenden Ratifikations*-, Annahme-, Genehmigungs-, oder Beitritts*urkunden[^30-5] wird nach Artikel 26 verfahren.
 
 [^30-1]: Abgeändert am Kongress von Bukarest 2004.
+[^30-2]: Abgeändert am Kongress von Abidjan 2021.
+[^30-3]: Abgeändert am Kongress von Abidjan 2021.
+[^30-4]: Abgeändert am Kongress von Abidjan 2021.
+[^30-5]: Abgeändert am Kongress von Abidjan 2021.
 
 #### Art. 31
 
-**Abänderung der Allgemeinen Verfahrensordnung, des Vertrages und der Abkommen**[^31-1]
+**Abänderung der Allgemeinen Verfahrensordnung, des Vertrages und der Abkommen *des Vereins*[^31-2]**[^31-1]
 
-<sup>1.</sup> In der Allgemeinen Verfahrensordnung, im Vertrag und in den Abkommen sind die Bedingungen festgelegt, die bei Annahme der jeweils einschlägigen Vorschläge eingehalten werden müssen.
+<sup>1.</sup> In der Allgemeinen Verfahrensordnung, im Vertrag und in den Abkommen *des Vereins*[^31-3] sind die Bedingungen festgelegt, die bei Annahme der jeweils einschlägigen Vorschläge eingehalten werden müssen.
 
-<sup>2.</sup> Der Vertrag und die Abkommen treten gleichzeitig in Kraft und haben dieselbe Geltungsdauer. An dem vom Kongress für ihr Inkrafttreten festgesetzten Tag treten die entsprechenden Verträge des vorangegangenen Kongresses ausser Kraft[^31-2].
+<sup>2.</sup> *Änderungen der Allgemeinen Verfahrensordnung, des Weltpostvertrags und der Abkommen des Vereins werden Gegenstand eines Zusatzprotokolls und treten zu dem vom Kongress festgelegten Zeitpunkt in Kraft. Unbeschadet der rechtlichen Verbindlichkeit der genannten Verträge des Vereins nach Artikel 22 ratifizieren die Mitgliedsländer die genannten Änderungen so bald wie möglich, nehmen sie an, genehmigen sie oder schliessen sich ihnen an. Mit den betreffenden Ratifikations-, Annahme-, Genehmigungs- oder Beitrittsurkunden wird nach Artikel 26 verfahren. Diese Bestimmung gilt auch entsprechend für jede zwischen zwei Kongressen angenommene Änderung des Weltpostvertrags und der Abkommen des Vereins.*[^31-4]
 
 [^31-1]: Abgeändert am Kongress von Hamburg 1984.
-[^31-2]: Abgeändert am Kongress von Bukarest 2004.
+[^31-2]: Abgeändert am Kongress von Abidjan 2021.
+[^31-3]: Abgeändert am Kongress von Abidjan 2021.
+[^31-4]: Abgeändert am Kongress von Abidjan 2021.
 
 ### 4. Kapitel: Beilegung von Streitigkeiten
 
@@ -440,7 +495,7 @@ Geschehen in Wien, am 10. Juli 1964.
 
 (Es folgen die Unterschriften)
 
-Geltungsbereich am 1. Juli 2019**[^t-4]**
+Geltungsbereich am 7. Oktober 2022[^t-4]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -640,4 +695,4 @@ Geltungsbereich am 1. Juli 2019**[^t-4]**
 <tr><td>Zypern</td><td>13. Januar</td><td>1969</td><td>13. Januar</td><td>1969</td></tr>
 </table>
 
-[^t-4]: [AS 1986 1932](https://fedlex.data.admin.ch/eli/oc/1986/1932_1932_1932), [1987 1214](https://fedlex.data.admin.ch/eli/oc/1987/1214_1214_1214), [1989 1160](https://fedlex.data.admin.ch/eli/oc/1989/1160_1160_1160), [1990 1874](https://fedlex.data.admin.ch/eli/oc/1990/1874_1874_1874), [1992 665](https://fedlex.data.admin.ch/eli/oc/1992/665_665_665). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-4]: [AS 1986 1932](https://fedlex.data.admin.ch/eli/oc/1986/1932_1932_1932); [1987 1214](https://fedlex.data.admin.ch/eli/oc/1987/1214_1214_1214); [1989 1160](https://fedlex.data.admin.ch/eli/oc/1989/1160_1160_1160); [1990 1874](https://fedlex.data.admin.ch/eli/oc/1990/1874_1874_1874); [1992 665](https://fedlex.data.admin.ch/eli/oc/1992/665_665_665). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: www.fedlex.admin.ch/de/treaty

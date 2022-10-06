@@ -3,42 +3,34 @@ sr: "0.783.51"
 title: "Costituzione dell'Unione postale universale del 10 luglio 1964"
 eli: "https://fedlex.data.admin.ch/eli/cc/1966/167_167_167"
 language: it
-version: 2019-07-01
+version: 2022-10-07
 adopted: 1964-07-10
 in_force: 1966-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/167_167_167/20190701/it/xml/fedlex-data-admin-ch-eli-cc-1966-167_167_167-20190701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1966/167_167_167/20190701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/167_167_167/20221007/it/xml/fedlex-data-admin-ch-eli-cc-1966-167_167_167-20221007-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1966/167_167_167/20221007/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Costituzione dell’Unione postale universale****
+# Costituzione dell’Unione postale universale
 
 RU **1966** 197; FF **1965** II 793[^t-1]
 
-Conclusa a Vienna il 10 luglio 1964
+Conclusa a Vienna il 10 luglio 1964 Approvata dall’Assemblea federale il 16 dicembre 1965[^t-2] Istrumenti di ratificazione depositati dalla Svizzera il 4 febbraio 1966 Entrata in vigore per la Svizzera il 1° gennaio 1966 Modificata dai Protocolli aggiuntivi di Tokyo 1969, di Losanna 1974,
 
-Approvata dall’Assemblea federale il 16 dicembre 1965[^t-2]
+di Amburgo 1984, di Washington 1989, di Seul 1994, di Pechino 1999, di Bucarest 2004, di Ginevra 2008, di Istanbul 2016, di Addis-Abeba 2018 e di Abidjan 2021[^t-3]
 
-Istrumenti di ratificazione depositati dalla Svizzera il 4 febbraio 1966
+(Stato 7 ottobre 2022)
 
-Entrata in vigore per la Svizzera il 1° gennaio 1966
-
-modificata dai Protocolli aggiuntivi di Tokyo 1969, di Losanna 1974,
-
-di Amburgo 1984, di Washington 1989, di Seul 1994, di Pechino 1999, di Bucarest 2004, di Ginevra 2008, di Istanbul 2016 e di Addis-Abeba 2018[^t-3]
-
-(Stato 1° luglio 2019)
-
-[^t-1]: Versione consolidata ([RU 2019 2545](https://fedlex.data.admin.ch/eli/oc/2019/470)).
+[^t-1]: Versione consolidata ([RU 2022 659](https://fedlex.data.admin.ch/eli/oc/2022/659)).
 [^t-2]: Art. 1 n. 1 del DF del 16 dic. 1965 ([RU 1966 165](https://fedlex.data.admin.ch/eli/oc/1966/165_165_165))
-[^t-3]: 10° Prot. aggiuntivo alla Cost., adottato ad Addis-Abeba il 7 set. 2018, ratificato dalla Svizzera il 21 giu. 2019, in vigore dal 1° lug. 2019.
+[^t-3]: 11° Prot. aggiuntivo alla Cost., adottato ad Abidjan il 26 ago. 2021, ratificato dalla Svizzera il 7 ott. 2022, entrato in vigore per la Svizzera il 7 ott. 2022.
 
-Preambolo*[^ingress-1]*
+Preambolo[^ingress-1]
 
-Al fine di sviluppare la comunicazione tra i popoli tramite il funzionamento efficace dei servizi postali e di contribuire a raggiungere gli obiettivi di alto livello relativi alla collaborazione internazionale in ambito culturale, sociale ed economico, i Plenipotenziari dei Governi dei Paesi contraenti hanno adottato, con riserva di ratifica, la presente Costituzione.
+Al fine di sviluppare la comunicazione tra i popoli tramite il funzionamento efficace dei servizi postali e di contribuire a raggiungere gli obiettivi di alto livello relativi alla collaborazione internazionale in ambito culturale, sociale ed economico, i Plenipotenziari dei Governi dei Paesi contraenti hanno adottato, con riserva di ratifica, *di accettazione o di approvazione*[^ingress-2] la presente Costituzione.
 
-L’Unione postale universale (di seguito «Unione») si prefigge di stimolare lo sviluppo durevole di servizi postali universali di qualità, efficaci e accessibili per facilitare la comunicazione tra gli abitanti di tutto il pianeta:
+L’Unione *postale universale (di seguito «l’Unione»)*[^ingress-3] si prefigge di stimolare lo sviluppo durevole di servizi postali universali di qualità, efficaci e accessibili per facilitare la comunicazione tra gli abitanti di tutto il pianeta:
 
 - – garantendo la libera circolazione degli invii postali su un territorio postale unico composto di reti interconnesse;
 - – incoraggiando l’adozione di norme comuni eque e l’utilizzazione della tecnologica;
@@ -47,6 +39,8 @@ L’Unione postale universale (di seguito «Unione») si prefigge di stimolare l
 - – garantendo che siano soddisfatte le sempre nuove esigenze dei clienti.
 
 [^ingress-1]: Modificato dal Congresso di Bucarest 2004.
+[^ingress-2]: Modificato dal Congresso di Abidjan 2021.
+[^ingress-3]: Modificato dal Congresso di Abidjan 2021.
 
 ## Titolo I: Disposizioni organiche
 
@@ -56,7 +50,7 @@ L’Unione postale universale (di seguito «Unione») si prefigge di stimolare l
 
 **Portata e scopo dell’Unione**
 
-<sup>1.</sup> I Paesi che adottano la presente Costituzione formano, *nel quadro dell’organiz**zazione intergovernativa denominata* «Unione postale universale»[^1-1], un solo territorio postale per lo scambio reciproco di invii *postali*. La libertà di transito è garantita in tutto il territorio dell’Unione, *fatte salve le condizioni previste negli Atti dell’Unione*[^1-2].
+<sup>1.</sup> I Paesi che adottano la presente Costituzione formano, *nel quadro dell’organiz**zazione intergovernativa denominata* «Unione postale universale»[^1-1], un solo territorio postale per lo scambio reciproco di invii *postali*. La libertà di transito è garantita in tutto il territorio dell’Unione, *fatte salve le condizioni previste negli Atti dell’Unione*[^1-2] *e in qualsivoglia relativo protocollo addizionale (di seguito denominati collettivamente «Atti dell’Unione»)*[^1-3].
 
 <sup>2.</sup> L’Unione si prefigge di assicurare l’organizzazione e il perfezionamento dei servizi postali e di favorire in questo ambito lo sviluppo della collaborazione internazionale.
 
@@ -64,6 +58,7 @@ L’Unione postale universale (di seguito «Unione») si prefigge di stimolare l
 
 [^1-1]: Modificato dal Congresso straordinario di Addis-Abeba 2018.
 [^1-2]: Modificato dal Congresso di Istanbul 2016.
+[^1-3]: Modificato dal Congresso di Abidjan 2021.
 
 #### Art. 1<sup>bis</sup>
 
@@ -71,27 +66,30 @@ L’Unione postale universale (di seguito «Unione») si prefigge di stimolare l
 
 <sup>1.</sup>
 
-Ai sensi degli Atti dell’Unione postale universale, i termini qui di seguito sono definiti come segue:
+Ai sensi degli Atti dell’*Unione*[^1bis-2], i termini qui di seguito sono definiti come segue:
 
-- 1\.1 Servizio postale: insieme di servizi postali *internazionali* la cui portata è determinata e *disciplinata negli Atti dell’Unione*. Gli obblighi principali legati a questi servizi consistono nel soddisfare certi obiettivi sociali ed economici dei Paesi membri, assicurando la raccolta, il *trattamento*[^1bis-2], la trasmissione e la distribuzione degli invii postali.
+- 1\.1 Servizio postale: insieme di servizi postali *internazionali* la cui portata è determinata e *disciplinata negli Atti dell’Unione*. Gli obblighi principali legati a questi servizi consistono nel soddisfare certi obiettivi sociali ed economici dei Paesi membri, assicurando la raccolta, il *trattamento*[^1bis-3], la trasmissione e la distribuzione degli invii postali.
 - 1\.2 Paese membro: Paese che soddisfa le condizioni di cui all’articolo 2 della Costituzione.
-- 1\.3 Territorio postale unico (un solo e medesimo territorio postale): obbligo per le parti contraenti degli Atti dell’Unione di assicurare, secondo il principio di reciprocità, lo scambio degli invii *postali* nel rispetto della libertà di transito e di trattare indistintamente gli invii postali che provengono da altri territori e transitano attraverso il proprio Paese come propri invii postali, *fatte salve le condizioni previste negli Atti dell’Unione*[^1bis-3].
-- 1\.4 Libertà di transito: principio secondo cui un Paese membro intermediario è tenuto a garantire il trasporto degli invii postali che gli sono affidati per il transito a destinazione di un altro Paese membro[^1bis-4], applicando loro lo stesso trattamento riservato agli invii in regime interno, *fatte salve le condizioni previste negli Atti dell’Unione*[^1bis-5].
-- 1\.5 Invii della posta-lettere: invii descritti nella Convenzione postale universale (di seguito «Convenzione»).
-- 1\.6 (*Abrogato*)[^1bis-6]
-- 1\.6<sup>bis</sup> *Invio postale: termine generico che indica ogni spedizione effettuata dall’operatore designato di un Paese membro (invio della posta-lettere, pacchi postali, vaglia postale, ecc.) come descritto nella Convenzione postale universale e nell’Accordo concernente i servizi di pagamento postale nonché nei rispettivi Regolamenti*[^1bis-7]*.*
-- 1\.7 Operatore designato: qualsiasi unità governativa o non governativa designata ufficialmente dal Paese membro per assicurare sul proprio territorio il funzionamento dei servizi postali e soddisfare i relativi obblighi derivanti dagli Atti dell’Unione[^1bis-8].
-- 1\.8 Riserva: una riserva è una disposizione derogatoria in forza della quale un Paese membro intende escludere o modificare gli effetti giuridici di una clausola di un Atto, diverso dalla Costituzione e dal Regolamento generale, applicandola al Paese membro in questione. Qualsiasi riserva deve essere conciliabile con gli obiettivi e le finalità dell’Unione come definiti nel preambolo e nell’articolo 1 della Costituzione. Deve inoltre essere debitamente motivata e approvata dalla maggioranza richiesta per l’approvazione dell’Atto in questione e iscritta nel relativo protocollo finale[^1bis-9].
+- 1\.3 Territorio postale unico (un solo e medesimo territorio postale): obbligo per le parti contraenti degli Atti dell’Unione di assicurare, secondo il principio di reciprocità, lo scambio degli invii *postali* nel rispetto della libertà di transito e di trattare indistintamente gli invii postali che provengono da altri territori e transitano attraverso il proprio Paese come propri invii postali, *fatte salve le condizioni previste negli Atti dell’Unione*[^1bis-4].
+- 1\.4 Libertà di transito: principio secondo cui un Paese membro intermediario è tenuto a garantire il trasporto degli invii postali che gli sono affidati per il transito a destinazione di un altro Paese membro[^1bis-5], applicando loro lo stesso trattamento riservato agli invii in regime interno, *fatte salve le condizioni previste negli Atti dell’Unione*[^1bis-6].
+- 1\.5 *(Abrogato)*[^1bis-7]
+- 1\.6 (*Abrogato*)[^1bis-8]
+- 1\.6<sup>bis</sup> Invio postale: termine generico che indica ogni spedizione effettuata dall’operatore designato di un Paese membro (invio della posta-lettere, pacchi postali, vaglia postale, ecc.) come descritto nella Convenzione postale universale *(di seguito la «Convenzione»), nelle Intese dell’Unione (come menzionate all’art. 22 della Costituzione)*[^1bis-9] nonché nei rispettivi Regolamenti[^1bis-10]*.*
+- 1\.7 Operatore designato: qualsiasi unità governativa o non governativa designata ufficialmente dal Paese membro per assicurare sul proprio territorio il funzionamento dei servizi postali e soddisfare i relativi obblighi derivanti dagli Atti dell’Unione[^1bis-11].
+- 1\.8 Riserva: una riserva è una disposizione derogatoria in forza della quale un Paese membro intende escludere o modificare gli effetti giuridici di una clausola di un Atto, diverso dalla Costituzione e dal Regolamento generale, applicandola al Paese membro in questione. Qualsiasi riserva deve essere conciliabile con gli obiettivi e le finalità dell’Unione come definiti nel preambolo e nell’articolo 1 della Costituzione. Deve inoltre essere debitamente motivata e approvata dalla maggioranza richiesta per l’approvazione dell’Atto in questione e iscritta nel relativo protocollo finale[^1bis-12].
 
 [^1bis-1]: Introdotto dal Congresso di Bucarest 2004.
-[^1bis-2]: Modificato dal Congresso di Istanbul 2016.
+[^1bis-2]: Modificato dal Congresso di Abidjan 2021.
 [^1bis-3]: Modificato dal Congresso di Istanbul 2016.
-[^1bis-4]: Modificato dal Congresso di Ginevra 2008.
-[^1bis-5]: Modificato dal Congresso di Istanbul 2016.
-[^1bis-6]: Dal Congresso di Istanbul 2016.
-[^1bis-7]: Introdotto dal Congresso di Istanbul 2016.
-[^1bis-8]: Modificato dal Congresso di Ginevra 2008.
-[^1bis-9]: Modificato dal Congresso di Ginevra 2008.
+[^1bis-4]: Modificato dal Congresso di Istanbul 2016.
+[^1bis-5]: Modificato dal Congresso di Ginevra 2008.
+[^1bis-6]: Modificato dal Congresso di Istanbul 2016.
+[^1bis-7]: Dal Congresso di Abidjan 2021.
+[^1bis-8]: Dal Congresso di Istanbul 2016.
+[^1bis-9]: Modificato dal Congresso di Abidjan 2021.
+[^1bis-10]: Introdotto dal Congresso di Istanbul 2016.
+[^1bis-11]: Modificato dal Congresso di Ginevra 2008.
+[^1bis-12]: Modificato dal Congresso di Ginevra 2008.
 
 #### Art. 2
 
@@ -120,9 +118,10 @@ Nella sfera di competenze dell’Unione rientrano:
 
 **Relazioni eccezionali**
 
-<sup>1.</sup> I Paesi membri i cui operatori designati forniscono una copertura in territori non compresi nell’Unione sono tenuti a fungere da intermediari per gli altri Paesi membri[^4-1]. Le disposizioni della Convenzione e dei suoi Regolamenti sono applicabili a queste relazioni eccezionali.
+<sup>1.</sup> I Paesi membri i cui operatori designati forniscono *servizi postali per conto di*[^4-1] una copertura in territori non compresi nell’Unione sono tenuti a fungere da intermediari per gli altri Paesi membri[^4-2]. Le disposizioni della Convenzione e dei suoi Regolamenti sono applicabili a queste relazioni eccezionali.
 
-[^4-1]: Modificato dal Congresso di Ginevra 2008.
+[^4-1]: Modificato dal Congresso di Abidjan 2021.
+[^4-2]: Modificato dal Congresso di Ginevra 2008.
 
 #### Art. 5
 
@@ -148,21 +147,24 @@ Nella sfera di competenze dell’Unione rientrano:
 
 **Unioni ristrette. Intese speciali**
 
-<sup>1.</sup> I Paesi membri, o i loro operatori designati se la legislazione di questi Paesi membri[^8-1] non vi si oppone, possono concludere Unioni ristrette e stringere Intese speciali riguardanti il servizio postale internazionale, ma a condizione di non introdurre disposizioni meno favorevoli per il pubblico rispetto a quelle previste dagli Atti sottoscritti dai Paesi membri interessati.
+<sup>1.</sup> I Paesi membri, o i loro operatori designati se la legislazione di questi Paesi membri[^8-1] non vi si oppone, possono concludere Unioni ristrette e stringere Intese speciali riguardanti il servizio *postale*[^8-2], ma a condizione di non introdurre disposizioni meno favorevoli per il pubblico rispetto a quelle previste dagli Atti sottoscritti dai Paesi membri interessati.
 
-<sup>2.</sup> Le Unioni ristrette possono inviare osservatori ai Congressi, *al Consiglio di amministrazione, al Consiglio Operativo Postale e ad altre*[^8-2] Conferenze e riunioni *organizzate dall’Unione*[^8-3].
+<sup>2.</sup> Le Unioni ristrette possono inviare osservatori ai Congressi, *al Consiglio di amministrazione, al Consiglio Operativo Postale e ad altre*[^8-3] Conferenze e riunioni *organizzate dall’Unione*[^8-4].
 
 <sup>3.</sup> L’Unione può inviare degli osservatori ai Congressi, alle Conferenze e alle riunioni delle Unioni ristrette.
 
 [^8-1]: Modificato dal Congresso di Ginevra 2008.
-[^8-2]: Modificato dal Congresso straordinario di Addis-Abeba 2018.
-[^8-3]: Modificato dai Congressi di Tokyo 1969, di Seul 1994 e dal Congresso straordinario di Addis-Abeba 2018.
+[^8-2]: Modificato dal Congresso di Abidjan 2021.
+[^8-3]: Modificato dal Congresso straordinario di Addis-Abeba 2018.
+[^8-4]: Modificato dai Congressi di Tokyo 1969, di Seul 1994 e dal Congresso straordinario di Addis-Abeba 2018.
 
 #### Art. 9
 
 **Relazioni con l’Organizzazione delle Nazioni Unite**
 
-<sup>1.</sup> Le relazioni tra l’Unione e l’Organizzazione delle Nazioni Unite (ONU) sono disciplinate dagli accordi i cui testi sono allegati alla presente Costituzione.
+<sup>1.</sup> Le relazioni tra l’Unione e l’Organizzazione delle Nazioni Unite (ONU) sono disciplinate dagli *accordi*[^9-1] i cui testi sono allegati alla presente Costituzione.
+
+[^9-1]: Modificato dal Congresso di Abidjan 2021.
 
 #### Art. 10
 
@@ -182,12 +184,14 @@ Nella sfera di competenze dell’Unione rientrano:
 
 <sup>3.</sup> L’adesione o la domanda di adesione all’Unione deve contenere una dichiarazione formale di adesione alla Costituzione e agli Atti obbligatori dell’Unione. È inviata dal Governo del Paese interessato al direttore generale dell’Ufficio internazionale che, a seconda dei casi, notifica l’adesione o consulta i Paesi membri in merito alla domanda di adesione.
 
-<sup>4.</sup> Il Paese non membro dell’ONU è considerato come ammesso in qualità di Paese membro se la sua domanda è accolta da almeno due terzi dei Paesi membri dell’Unione. I Paesi membri che non si sono espressi entro l’arco di tempo di quattro mesi a decorrere dalla data della consultazione[^11-2] sono considerati come astenuti.
+<sup>4.</sup> Il Paese non membro dell’ONU è considerato come ammesso in qualità di Paese membro se la sua domanda è accolta da almeno due terzi dei Paesi membri dell’Unione. I Paesi membri *le cui risposte non sono state ricevute dall’Ufficio internazionale*[^11-2] entro l’arco di tempo di quattro mesi a decorrere dalla data della consultazione[^11-3] sono considerati come astenuti. *Le risposte di cui sopra, da fornire all’Ufficio internazionale in formato cartaceo o elettronico sicuro, devono essere firmate da un rappresentante debitamente autorizzato dell’autorità governativa del Paese membro interessato. Ai fini del presente paragrafo, l’espressione «formato elettronico* *sicuro**» si riferisce a qualsiasi mezzo elettronico utilizzato per il trattamento, lo stoccaggio e la trasmissione di dati che garantisca l’integralità, l’integrità e la con**fidenzialità di tali dati in occasione della fornitura delle risposte di cui sopra da parte di un Paese membro*[^11-4]*.*
 
 <sup>5.</sup> L’adesione o l’ammissione in qualità di membro è notificata dal direttore generale dell’Ufficio internazionale ai Governi dei Paesi membri. Ha effetto a partire dalla data di questa notifica.
 
 [^11-1]: Modificato dai Congressi di Tokyo 1969 e di Washington 1989.
-[^11-2]: Modificato dal Congresso di Ginevra 2008.
+[^11-2]: Modificato dal Congresso di Abidjan 2021.
+[^11-3]: Modificato dal Congresso di Ginevra 2008.
+[^11-4]: Modificato dal Congresso di Abidjan 2021.
 
 #### Art. 12
 
@@ -195,9 +199,10 @@ Nella sfera di competenze dell’Unione rientrano:
 
 <sup>1.</sup> Ogni Paese membro ha la facoltà di recedere dall’Unione mediante denuncia della Costituzione da parte del Governo del Paese interessato al direttore generale dell’Ufficio internazionale e da parte di quest’ultimo ai Governi dei Paesi membri.
 
-<sup>2.</sup> L’uscita dall’Unione ha effetto un anno dopo la data di ricevimento, da parte del direttore generale dell’Ufficio internazionale, della denuncia di cui al paragrafo 1.
+<sup>2.</sup> L’uscita dall’Unione ha effetto un anno dopo *il ricevimento, da parte del*[^12-2] direttore generale dell’Ufficio internazionale, della denuncia di cui al paragrafo 1.
 
 [^12-1]: Modificato dal Congresso di Washington 1989.
+[^12-2]: Modificato dal Congresso di Abidjan 2021.
 
 ### Capitolo III: Organizzazione dell’Unione
 
@@ -260,7 +265,7 @@ Nella sfera di competenze dell’Unione rientrano:
 
 <sup>1.</sup> (*Abrogato*)[^19-1]
 
-[^19-1]: Modificato dal Congresso di Amburgo 1984.
+[^19-1]: Dal Congresso di Amburgo 1984.
 
 #### Art. 20
 
@@ -285,11 +290,14 @@ Ogni Congresso stabilisce l’importo massimo che possono raggiungere:
 
 <sup>2.</sup> L’importo massimo delle spese di cui al paragrafo 1 può essere oltrepassato se le circostanze lo richiedono, a condizione che le disposizioni in materia sancite dal Regolamento generale siano rispettate.
 
-<sup>3.</sup> Le spese dell’Unione, comprese eventuali spese di cui al paragrafo 2, sono sostenute in comune dai Paesi membri dell’Unione. A tal fine, ogni Paese membro sceglie la classe di contribuzione cui intende essere assegnato. Le classi di contribuzione sono stabilite nel Regolamento generale.
+<sup>3.</sup> Le spese dell’Unione, comprese eventuali spese di cui al paragrafo 2, sono sostenute in comune dai Paesi membri dell’Unione. A tal fine, ogni Paese membro sceglie la classe di contribuzione cui intende essere assegnato *in base alle disposizioni corrispondenti*[^21-2] stabilite nel Regolamento generale.
 
-<sup>4.</sup> In caso di adesione o di ammissione all’Unione in virtù dell’articolo 11, il Paese interessato sceglie liberamente la classe di contribuzione cui intende essere assegnato sul piano della ripartizione delle spese dell’Unione.
+<sup>4.</sup> In caso di adesione o di ammissione all’Unione in virtù dell’articolo 11, il Paese interessato *sceglie*[^21-3] la classe di contribuzione cui intende essere assegnato sul piano della ripartizione delle spese dell’Unione, *sempre sulla base delle disposizioni corrispondenti sancite nel Regolamento generale*[^21-4].
 
 [^21-1]: Modificato dai Congressi di Tokyo 1969, di Losanna 1974 e di Washington 1989.
+[^21-2]: Modificato dal Congresso di Abidjan 2021.
+[^21-3]: Modificato dal Congresso di Abidjan 2021.
+[^21-4]: Modificato dal Congresso di Abidjan 2021.
 
 ## Titolo II: Atti dell’Unione
 
@@ -303,21 +311,28 @@ Ogni Congresso stabilisce l’importo massimo che possono raggiungere:
 
 <sup>2.</sup> Il Regolamento generale include le disposizioni che assicurano l’applicazione della Costituzione e il funzionamento dell’Unione. È vincolante per tutti i Paesi membri e non può essere oggetto di riserve[^22-2].
 
-<sup>3.</sup> La Convenzione postale *universale* e il suo Regolamento[^22-3] includono le regole comuni applicabili al servizio postale internazionale e le disposizioni relative ai servizi della posta-lettere e dei pacchi postali. Questi atti sono vincolanti per tutti i Paesi membri[^22-4]. I Paesi membri vegliano affinché i loro operatori designati soddisfino gli obblighi derivanti dalla Convenzione e dal *suo Regolamento*[^22-5].
+<sup>3.</sup> La *Convenzione*[^22-3] e il suo Regolamento[^22-4] includono le regole comuni applicabili al servizio *postale*[^22-5] e le disposizioni relative ai servizi della posta-lettere e dei pacchi postali. Questi atti sono vincolanti per tutti i Paesi membri[^22-6]. I Paesi membri vegliano affinché i loro operatori designati soddisfino gli obblighi derivanti dalla Convenzione e dal *suo Regolamento*[^22-7].
 
-<sup>4.</sup> Le Intese dell’Unione e i loro Regolamenti disciplinano i servizi diversi da quelli della posta-lettere e dei pacchi postali tra i Paesi membri contraenti. Sono obbligatori unicamente per questi Paesi membri. I Paesi membri firmatari vegliano affinché i loro operatori designati soddisfino gli obblighi derivanti dalle Intese e dai loro Regolamenti[^22-6].
+<sup>4.</sup> Le Intese dell’Unione e i loro Regolamenti *definiscono e*[^22-8] disciplinano *rispettivamente*[^22-9] i servizi diversi da quelli *definiti e disciplinati nella Convenzione e nel suo regolamento*[^22-10] tra i Paesi membri contraenti. Sono obbligatori unicamente per questi Paesi membri. I Paesi membri firmatari vegliano affinché i loro operatori designati soddisfino gli obblighi derivanti dalle Intese *dell’Unione*[^22-11] e dai loro Regolamenti[^22-12].
 
-<sup>5.</sup> I Regolamenti che includono le misure di applicazione necessarie all’esecuzione della Convenzione e delle Intese sono elaborati dal Consiglio Operativo Postale in base alle decisioni prese dal Congresso[^22-7].
+<sup>5.</sup> I Regolamenti che includono le misure di applicazione necessarie all’esecuzione della Convenzione e delle Intese *dell’Unione*[^22-13] sono elaborati dal Consiglio Operativo Postale in base alle decisioni prese dal Congresso[^22-14].
 
 <sup>6.</sup> Gli eventuali Protocolli finali allegati agli Atti dell’Unione di cui ai paragrafi 3–5 contengono le riserve a questi Atti.
 
 [^22-1]: Modificato dal Congresso di Bucarest 2004.
 [^22-2]: Modificato dal Congresso di Bucarest 2004.
-[^22-3]: Modificato dal Congresso di Istanbul 2016.
-[^22-4]: Modificato dal Congresso di Pechino 1999.
-[^22-5]: Modificato dal Congresso di Istanbul 2016.
-[^22-6]: Modificato dal Congresso di Ginevra 2008.
-[^22-7]: Modificato dai Congressi di Washington 1989, di Seul 1994 e di Pechino 1999.
+[^22-3]: Modificato dal Congresso di Abidjan 2021.
+[^22-4]: Modificato dal Congresso di Istanbul 2016.
+[^22-5]: Modificato dal Congresso di Abidjan 2021.
+[^22-6]: Modificato dal Congresso di Pechino 1999.
+[^22-7]: Modificato dal Congresso di Istanbul 2016.
+[^22-8]: Modificato dal Congresso di Abidjan 2021.
+[^22-9]: Modificato dal Congresso di Abidjan 2021.
+[^22-10]: Modificato dal Congresso di Abidjan 2021.
+[^22-11]: Modificato dal Congresso di Abidjan 2021.
+[^22-12]: Modificato dal Congresso di Ginevra 2008.
+[^22-13]: Modificato dal Congresso di Abidjan 2021.
+[^22-14]: Modificato dai Congressi di Washington 1989, di Seul 1994 e di Pechino 1999.
 
 #### Art. 23
 
@@ -345,44 +360,65 @@ Ogni Congresso stabilisce l’importo massimo che possono raggiungere:
 
 #### Art. 25
 
-**Firma, autenticazione, ratifica e altre modalità di approvazione degli Atti dell’Unione**[^25-1]
+**Firma, autenticazione, ratifica, *accettazione, approvazione*[^25-2] degli Atti dell’Unione *e adesione a questi ultimi*[^25-3]**[^25-1]
 
 <sup>1.</sup> Gli Atti dell’Unione emanati dal Congresso sono firmati dai Plenipotenziari dei Paesi membri.
 
-<sup>2.</sup> I Regolamenti sono autenticati dal presidente e dal segretario generale del Consiglio Operativo Postale[^25-2].
+<sup>2.</sup> I Regolamenti sono autenticati dal presidente e dal segretario generale del Consiglio Operativo Postale[^25-4].
 
-<sup>3.</sup> La Costituzione è ratificata al più presto dai Paesi firmatari.
+<sup>3.</sup> *Gli Atti dell’Unione sono ratificati, accettati o approvati*[^25-5] al più presto dai Paesi firmatari, *conformemente alle loro rispettive regole costituzionali*[^25-6]*.*
 
-<sup>4.</sup> L’approvazione degli Atti dell’Unione diversi da quelli della Costituzione è retta dalle regole costituzionali di ciascun Paese firmatario.
+<sup>4.</sup> *(Abrogato)*[^25-7]
 
-<sup>5.</sup> Se un Paese membro[^25-3] non ratifica la Costituzione o non approva gli altri Atti da lui firmati, la Costituzione e gli altri Atti rimangono validi per i Paesi membri[^25-4] che li hanno ratificati o approvati.
+<sup>5.</sup> Se un Paese membro[^25-8] non ratifica, *non accetta o non approva gli* Atti dell’Unione da lui firmati, *tali*[^25-9] Atti rimangono validi per i Paesi membri[^25-10] che li hanno ratificati, *accettati*[^25-11] o approvati.
+
+\6. *I Paesi membri possono, in qualsiasi momento, aderire agli Atti dell’Unione che non hanno ratificato, conformemente alle procedure pertinenti enunciate nel Regolamento interno del Congresso*[^25-12]*.*
+
+\7. *L’adesione dei Paesi membri agli Atti dell’Unione è notificata conformemente all’articolo 26*[^25-13]*.*
 
 [^25-1]: Modificato dai Congressi di Washington 1989 e di Seul 1994.
-[^25-2]: Modificato dal Congresso di Pechino 1999.
-[^25-3]: Modificato dal Congresso di Ginevra 2008.
-[^25-4]: Modificato dal Congresso di Ginevra 2008.
+[^25-2]: Modificato dal Congresso di Abidjan 2021.
+[^25-3]: Modificato dal Congresso di Abidjan 2021.
+[^25-4]: Modificato dal Congresso di Pechino 1999.
+[^25-5]: Modificato dal Congresso di Abidjan 2021.
+[^25-6]: Modificato dal Congresso di Abidjan 2021.
+[^25-7]: Dal Congresso di Abidjan 2021.
+[^25-8]: Modificato dal Congresso di Ginevra 2008.
+[^25-9]: Modificato dal Congresso di Abidjan 2021.
+[^25-10]: Modificato dal Congresso di Ginevra 2008.
+[^25-11]: Modificato dal Congresso di Abidjan 2021.
+[^25-12]: Introdotto dal Congresso di Abidjan 2021.
+[^25-13]: Introdotto dal Congresso di Abidjan 2021.
 
 #### Art. 26
 
-**Notificazione di ratifiche e altre modalità di approvazione degli Atti dell’Unione**[^26-1]
+**Notificazione di ratifiche*, accettazioni, approvazioni*[^26-2] degli Atti dell’Unione *e adesione a questi ultimi*[^26-3]**[^26-1]
 
-<sup>1.</sup> Gli strumenti di ratifica della Costituzione, dei suoi Protocolli aggiuntivi ed eventualmente di approvazione degli altri Atti dell’Unione saranno depositati nel più breve tempo possibile presso il direttore generale dell’Ufficio internazionale, il quale ne notifica il deposito ai Governi dei Paesi membri.
+<sup>1.</sup> Gli strumenti di ratifica, *di accettazione, di approvazione degli*[^26-4] Atti dell’Unione *e di adesione a questi ultimi*[^26-5] saranno depositati nel più breve tempo possibile presso il direttore generale dell’Ufficio internazionale, il quale ne notifica il deposito ai Governi dei Paesi membri.
 
 [^26-1]: Modificato dai Congressi di Tokyo 1969 e di Washington 1989.
+[^26-2]: Modificato dal Congresso di Abidjan 2021.
+[^26-3]: Modificato dal Congresso di Abidjan 2021.
+[^26-4]: Modificato dal Congresso di Abidjan 2021.
+[^26-5]: Modificato dal Congresso di Abidjan 2021.
 
 #### Art. 27
 
 **Adesione alle Intese**
 
-<sup>1.</sup> I Paesi membri possono in qualsiasi momento aderire a una o più Intese di cui all’articolo 22 paragrafo 4.
+*(Abrogato)*[^27-1]
 
-<sup>2.</sup> L’adesione dei Paesi membri alle Intese è notificata conformemente all’articolo 11 paragrafo 3.
+[^27-1]: Dal Congresso di Abidjan 2021.
 
 #### Art. 28
 
-**Denuncia di un’Intesa**
+**Denuncia *delle Intese dell’Unione*[^28-1]**
 
-<sup>1.</sup> Ogni Paese membro ha la facoltà di interrompere la propria partecipazione a una o più Intese alle condizioni sancite dall’articolo 12.
+<sup>1.</sup> Ogni Paese membro ha la facoltà di interrompere la propria partecipazione a una o più Intese *dell’Unione, su riserva delle*[^28-2] condizioni sancite dall’articolo 12 *applicabili per analogia*[^28-3].
+
+[^28-1]: Modificato dal Congresso di Abidjan 2021.
+[^28-2]: Modificato dal Congresso di Abidjan 2021.
+[^28-3]: Modificato dal Congresso di Abidjan 2021.
 
 ### Capitolo III: Modifica degli Atti dell’Unione
 
@@ -394,11 +430,11 @@ Ogni Congresso stabilisce l’importo massimo che possono raggiungere:
 
 <sup>2.</sup> Tuttavia, le proposte relative alla Costituzione e al Regolamento generale possono essere presentate unicamente al Congresso.
 
-<sup>3.</sup> Inoltre le proposte relative ai Regolamenti sono sottoposte direttamente al Consiglio Operativo Postale, ma devono essere prima trasmesse dall’Ufficio internazionale a tutti i Paesi membri e a tutti gli operatori designati[^29-2]<sup>,</sup> [^29-3].
+<sup>3.</sup> Inoltre le proposte relative ai Regolamenti sono *sottoposte*[^29-2] al Consiglio Operativo Postale *tramite*[^29-3] l’Ufficio internazionale.
 
 [^29-1]: Modificato dal Congresso di Ginevra 2008.
-[^29-2]: Modificato dal Congresso di Ginevra 2008.
-[^29-3]: Modificato dal Congresso di Pechino 1999 e dal Congresso di Ginevra 2008.
+[^29-2]: Modificato dal Congresso di Abidjan 2021.
+[^29-3]: Modificato dal Congresso di Abidjan 2021.
 
 #### Art. 30
 
@@ -406,20 +442,27 @@ Ogni Congresso stabilisce l’importo massimo che possono raggiungere:
 
 <sup>1.</sup> Per essere adottate, le proposte presentate al Congresso e relative alla presente Costituzione devono essere approvate da almeno due terzi dei Paesi membri dell’Unione aventi diritto di voto[^30-1].
 
-<sup>2.</sup> Le modifiche adottate da un Congresso sono oggetto di un Protocollo aggiuntivo e, salvo decisione contraria di tale Congresso, entrano in vigore allo stesso momento degli Atti modificati nel corso dello stesso Congresso. Sono ratificate al più presto dai Paesi membri e gli strumenti di tale ratifica sono trattati conformemente all’articolo 26.
+<sup>2.</sup> Le modifiche *della Costituzione*[^30-2] adottate da un Congresso sono oggetto di un Protocollo aggiuntivo e*d*[^30-3] entrano in vigore *a partire dalla data stabilita dal Congresso. Fatto salvo il carattere vincolante della Costituzione, come indicato all’articolo 22.1, i Paesi membri ratificano, accettano o approvano tali modifiche, o vi aderiscono*[^30-4] al più presto. Gli strumenti di tale ratifica, *accettazione, approvazione o adesione*[^30-5] sono trattati conformemente *alla regola enunciata*[^30-6] all’articolo 26.
 
 [^30-1]: Modificato dal Congresso di Bucarest 2004.
+[^30-2]: Modificato dal Congresso di Abidjan 2021.
+[^30-3]: Modificato dal Congresso di Abidjan 2021.
+[^30-4]: Modificato dal Congresso di Abidjan 2021.
+[^30-5]: Modificato dal Congresso di Abidjan 2021.
+[^30-6]: Modificato dal Congresso di Abidjan 2021.
 
 #### Art. 31
 
-**Modifica del Regolamento generale, della Convenzione e delle Intese**[^31-1]
+**Modifica del Regolamento generale, della Convenzione e delle Intese *dell’Unione*[^31-2]**[^31-1]
 
-<sup>1.</sup> Il Regolamento generale, la Convenzione e le Intese stabiliscono le condizioni a cui è subordinata l’approvazione delle proposte che li riguardano.
+<sup>1.</sup> Il Regolamento generale, la Convenzione e le Intese *dell’Unione*[^31-3] stabiliscono le condizioni a cui è subordinata l’approvazione delle proposte che li riguardano.
 
-<sup>2.</sup> La Convenzione e le Intese entrano simultaneamente in vigore e hanno la stessa durata. A partire dalla data stabilita dal Congresso per l’entrata in vigore degli Atti, quelli corrispondenti del Congresso precedente sono abrogati[^31-2].
+<sup>2.</sup> *Le modifiche apportate al Regolamento generale, alla Convenzione e alle Intese dell’Unione sono oggetto di un protocollo addizionale ed entrano in vigore alla data fissata dal Congresso. Fatto salvo il carattere vincolante degli Atti dell’Unione di cui sopra, come indicato all’articolo 22, i Paesi membri ratificano, accettano o approvano tali modifiche, o vi aderiscono al più presto. Gli strumenti di tale ratifica, accettazione, approvazione o adesione sono trattati conformemente alla regola enunciata all’articolo 26. Tale disposizione si applica anche mutatis mutandis a qualsivoglia modifica della Convenzione e delle Intese dell’Unione adottata fra i due Congressi*[^31-4]*.*
 
 [^31-1]: Modificato dal Congresso di Amburgo 1984.
-[^31-2]: Modificato dal Congresso di Bucarest 2004.
+[^31-2]: Modificato dal Congresso di Abidjan 2021.
+[^31-3]: Modificato dal Congresso di Abidjan 2021.
+[^31-4]: Modificato dal Congresso di Abidjan 2021.
 
 ### Capitolo IV: Composizione delle controversie
 
@@ -442,11 +485,13 @@ Ogni Congresso stabilisce l’importo massimo che possono raggiungere:
 
 <sup>2.</sup> In fede di che i Plenipotenziari dei Governi dei Paesi membri hanno firmato la presente Costituzione in un esemplare che è depositato negli archivi del Governo del Paese in cui ha sede l’Unione. Una copia sarà rilasciata a ciascuna parte contraente dall’Ufficio internazionale dell’Unione postale universale[^33-1].
 
+Fatto a Vienna, il 10 luglio 1964.
+
 [^33-1]: Modificato dal Congresso di Bucarest 2004.
 
-Fatto a Vienna, il 10 luglio 1964. (Seguono le firme)
+(Seguono le firme)
 
-Campo d’applicazione il 1° luglio 2019**[^t-4]**
+Campo d’applicazione il 7 ottobre 2022[^t-4]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -646,4 +691,4 @@ Campo d’applicazione il 1° luglio 2019**[^t-4]**
 <tr><td>Zimbabwe</td><td>4 maggio</td><td>1981 A</td><td>31 luglio</td><td>1981</td></tr>
 </table>
 
-[^t-4]: [RU 1986 1932](https://fedlex.data.admin.ch/eli/oc/1986/1932_1932_1932), [1987 1214](https://fedlex.data.admin.ch/eli/oc/1987/1214_1214_1214), [1989 1160](https://fedlex.data.admin.ch/eli/oc/1989/1160_1160_1160), [1990 1874](https://fedlex.data.admin.ch/eli/oc/1990/1874_1874_1874), [1992 665](https://fedlex.data.admin.ch/eli/oc/1992/665_665_665). Una versione aggiornata del campo di applicazione é pubblicata sul sito web del DFAE (http://www.dfae.admin.ch/traites).
+[^t-4]: [RU 1986 1932](https://fedlex.data.admin.ch/eli/oc/1986/1932_1932_1932), [1987 1214](https://fedlex.data.admin.ch/eli/oc/1987/1214_1214_1214), [1989 1160](https://fedlex.data.admin.ch/eli/oc/1989/1160_1160_1160), [1990 1874](https://fedlex.data.admin.ch/eli/oc/1990/1874_1874_1874), [1992 665](https://fedlex.data.admin.ch/eli/oc/1992/665_665_665). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» (https://www.fedlex.admin.ch/it/treaty).
