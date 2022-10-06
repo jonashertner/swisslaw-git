@@ -4,13 +4,13 @@ number: "851.214"
 title: Verordnung betreffend schutzbedürftige Personen aus der Ukraine
 short: "Schutzbedürftigen-Verordnung, SbV"
 language: de
-version: 2022-06-01
-valid_until: 2022-10-06
-version_adopted: 2022-05-18
+version: 2022-10-07
+valid_until: 2023-03-09
+version_adopted: 2022-09-28
 adopted: 2022-04-06
 in_force: 2022-04-08
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/851.214"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3205/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3237/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3205/pdf_file"
 
 (Schutzbedürftigen-Verordnung, SbV)
 
-Vom 06.04.2022 (Stand 01.06.2022)
+Vom 06.04.2022 (Stand 07.10.2022)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -92,7 +92,14 @@ beschliesst:
 
 <sup>1</sup> Effektiv verfüg- und verwendbare Geldmittel von schutzbedürftigen Personen sind bei der Bedarfsprüfung anzurechnen.
 
-<sup>2</sup> Wertgegenstände und andere persönliche Effekten werden in den ersten sechs Monaten nicht berücksichtigt.
+<sup>2</sup> Verfügbare Wertgegenstände und andere persönliche Effekten sind bei der Bedarfsberechnung zu berücksichtigen.
+
+<sup>3</sup> Vermögenswerte in der Ukraine sind bei der Bedarfsprüfung anzurechnen, ausgenommen:
+
+- a) nahestehende Personen bestreiten damit ihren Lebensunterhalt und/oder
+- b) die Rückkehr sowie die Reintegration in die Ukraine würde dadurch erschwert.
+
+<sup>4</sup> Bei Fahrzeugen wird auf die Anrechnung verzichtet.
 
 #### § 7
 
