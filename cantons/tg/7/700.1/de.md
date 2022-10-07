@@ -1,27 +1,27 @@
 ---
 canton: TG
 number: "700.1"
-title: Verordnung des Regierungsrates zum Planungs- und Baugesetz und zur Interkantonalen Vereinbarung über die Harmonisierung der Baubegriffe
+title: Verordnung zum Planungs- und Baugesetz und zur Interkantonalen Vereinbarung über die Harmonisierung der Baubegriffe
 short: PBV
 language: de
-version: 2021-01-01
-valid_until: 2022-10-07
-version_adopted: 2020-12-22
+version: 2022-10-08
+valid_until: 2023-05-26
+version_adopted: 2022-10-04
 adopted: 2012-09-18
 in_force: 2013-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/700.1"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2199/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2584/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung des Regierungsrates zum Planungs- und Baugesetz und zur Interkantonalen Vereinbarung über die Harmonisierung der Baubegriffe
+# Verordnung zum Planungs- und Baugesetz und zur Interkantonalen Vereinbarung über die Harmonisierung der Baubegriffe
 
 PBV
 
 (PBV)
 
-vom 18.09.2012 (Stand 01.01.2021)
+vom 18.09.2012 (Stand 08.10.2022)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -31,7 +31,7 @@ vom 18.09.2012 (Stand 01.01.2021)
 
 <sup>1</sup> Das Departement für Bau- und Umwelt ist zuständiges Departement im Sinne des Gesetzes.
 
-<sup>2</sup> Das Amt für Raumentwicklung ist Fachstelle im Sinne von Art. 31 des Bundesgesetzes über die Raumplanung[^1-1] sowie kantonale Aufsichtsbehörde gemäss Art. 15 des Bundesgesetzes über Zweitwohnungen[^1-2].
+<sup>2</sup> Das Amt für Raumentwicklung ist Fachstelle im Sinne von Art. 31 des Bundesgesetzes über die Raumplanung (Raumplanungsgesetz, RPG)[^1-1] sowie kantonale Aufsichtsbehörde gemäss Art. 15 des Bundesgesetzes über Zweitwohnungen (Zweitwohnungsgesetz, ZWG)[^1-2].
 
 [^1-1]: SR [700](https://db.clex.ch/link/Bund/700/de)
 [^1-2]: SR [702](https://db.clex.ch/link/Bund/702/de)
@@ -54,9 +54,9 @@ vom 18.09.2012 (Stand 01.01.2021)
 
 <sup>2</sup> Die Bekanntmachung enthält:
 
-- 1\. die Art des Plans und das vom Plan betroffene Gebiet;
-- 2\. den Ort, den Beginn und das Ende der Einsichtsmöglichkeit;
-- 3\. den Hinweis auf das Recht für jedermann, sich innert der Bekanntmachungsfrist schriftlich zu den Entwürfen äussern zu können.
+- 1\. die Art des Plans und das vom Plan betroffene Gebiet
+- 2\. den Ort, den Beginn und das Ende der Einsichtsmöglichkeit
+- 3\. den Hinweis auf das Recht für jedermann, sich innert der Bekanntmachungsfrist schriftlich zu den Entwürfen äussern zu können
 
 <sup>3</sup> Schriftliche Eingaben im Rahmen der Bekanntmachung sind schriftlich zu beantworten.
 
@@ -64,7 +64,9 @@ vom 18.09.2012 (Stand 01.01.2021)
 
 **Verhältnis Richt- zu Nutzungsplänen**
 
-<sup>1</sup> Eine geringfügige Abweichung der Nutzungspläne von den kommunalen Richtplänen gemäss § 16 Abs. 2 des Gesetzes liegt vor, wenn nur einzelne kleinere Grundstücksflächen betroffen sind und die Festsetzungen gemäss der Richtplanung nicht beeinträchtigt werden.
+<sup>1</sup> Eine geringfügige Abweichung der Nutzungspläne von den kommunalen Richtplänen gemäss § 16 Abs. 2 des Planungs- und Baugesetzes (PBG)[^4-1] liegt vor, wenn nur einzelne kleinere Grundstücksflächen betroffen sind und die Festsetzungen gemäss der Richtplanung nicht beeinträchtigt werden.
+
+[^4-1]: RB [700](https://www.rechtsbuch.tg.ch/data/700/de)
 
 ### 2.2. Zonenpläne
 
@@ -80,15 +82,17 @@ vom 18.09.2012 (Stand 01.01.2021)
 
 #### § 6
 
-**Dorfzonen, Weilerzonen**
+**Dorfzonen[^6-1]**
 
-<sup>1</sup> Dorfzonen und Weilerzonen umfassen Gebiete, die der gemischten baulichen Nutzung dienen und bezwecken die Erhaltung, Erneuerung und Pflege der vorhandenen Bausubstanz und der Freiräume.
+<sup>1</sup> Dorfzonen umfassen Gebiete, die der gemischten baulichen Nutzung dienen. Sie bezwecken die Erhaltung, Erneuerung und Pflege der vorhandenen Bausubstanz und der Freiräume.
 
 <sup>2</sup> Neu-, An- und Umbauten sind sorgfältig in das Ortsbild einzuordnen.
 
 <sup>3</sup> Zulässig sind Wohnbauten, mässig störende Gewerbe- und Dienstleistungsbetriebe, Mischbauten und landwirtschaftliche Betriebe.
 
-<sup>4</sup> In Weilerzonen können die gemäss Abs. 3 zulässigen Nutzungen eingeschränkt werden.
+<sup>4</sup> …
+
+[^6-1]: Mit Übergansbestimmung in § 56a.
 
 #### § 7
 
@@ -126,8 +130,8 @@ vom 18.09.2012 (Stand 01.01.2021)
 
 <sup>2</sup> Sie bezwecken insbesondere:
 
-- 1\. die Gliederung der Bauzonen;
-- 2\. die Schaffung von Grünflächen samt Anlagen zur Erholung.
+- 1\. die Gliederung der Bauzonen
+- 2\. die Schaffung von Grünflächen samt Anlagen zur Erholung
 
 <sup>3</sup> Bauten und Anlagen sind zulässig, wenn sie dem Zonenzweck dienen oder standortgebunden sind.
 
@@ -145,9 +149,7 @@ vom 18.09.2012 (Stand 01.01.2021)
 
 <sup>1</sup> Landwirtschaftszonen für besondere Nutzungen umfassen Land, das der überwiegend oder ausschliesslich bodenunabhängigen Produktion landwirtschaftlicher Erzeugnisse in den Bereichen des Pflanzenbaus oder der Tierhaltung dient.
 
-<sup>2</sup> Bauten und Anlagen sind zulässig, wenn sie Art. 16a Abs. 3 des Bundesgesetzes über die Raumplanung[^12-1] entsprechen.
-
-[^12-1]: SR [700](https://db.clex.ch/link/Bund/700/de)
+<sup>2</sup> Bauten und Anlagen sind zulässig, wenn sie Art. 16a Abs. 3 RPG entsprechen.
 
 ### 2.2.3. Schutzzonen
 
@@ -173,15 +175,51 @@ vom 18.09.2012 (Stand 01.01.2021)
 
 ### 2.2.4. Weitere Zonen
 
+### 2.2.4.1. Erhaltungszonen
+
 #### § 15
 
-**Erhaltungszonen**
+**Zonenzweck**
 
-<sup>1</sup> Erhaltungszonen im Sinne von Art. 33 der Raumplanungsverordnung[^15-1] dienen der Erhaltung und Pflege der Kleinsiedlungen unter Wahrung der bestehenden Bausubstanz und des Ortsbildes sowohl hinsichtlich des Charakters der ganzen Kleinsiedlung als auch der Erscheinung der einzelnen Gebäude.
+<sup>1</sup> Erhaltungszonen im Sinne von Art. 33 der Raumplanungsverordnung (RPV)[^15-1] dienen der Erhaltung und Pflege der Kleinsiedlungen unter Wahrung der bestehenden Bausubstanz und des Ortsbildes sowohl hinsichtlich des Charakters der ganzen Kleinsiedlung und seiner Freiräume als auch der Erscheinung der einzelnen Gebäude.
 
-<sup>2</sup> Zulässig sind Wohnbauten sowie mässig störende Betriebe
+<sup>2</sup> Zulässig sind Wohnbauten und landwirtschaftliche Ökonomiebauten sowie mässig störende Gewerbe- und Dienstleistungsbetriebe.
 
 [^15-1]: SR [700.1](https://db.clex.ch/link/Bund/700.1/de)
+
+#### § 15a
+
+**Bestehende Bauten und Ersatzbauten**
+
+<sup>1</sup> Bestehende Bauten dürfen erneuert, teilweise geändert, massvoll erweitert oder umgenutzt werden, wenn die Charakteristik der Gebäude im Wesentlichen erhalten bleibt.
+
+<sup>2</sup> Ersatzbauten sind zulässig. Sie sind grundsätzlich an gleicher Stelle, mit gleichem Volumen und gleicher Charakteristik zu erstellen.
+
+<sup>3</sup> Es ist unzulässig, für eine freistehende Ökonomiebaute eine Ersatzbaute zu erstellen, wenn die Ersatzbaute Wohnzwecken dienen soll.
+
+<sup>4</sup> Bei Umnutzungen von bestehenden Bauten zu Wohnzwecken und bei Ersatzbauten müssen die Nebennutzflächen in das Gebäudevolumen integriert werden.
+
+#### § 15b
+
+**Neubauten**
+
+<sup>1</sup> Neubauten sind zulässig, wenn sie landwirtschaftlich begründet oder standortgebunden sind. Sie haben sich in Stellung, Volumen und Charakteristik den bestehenden Bauten anzupassen.
+
+#### § 15c
+
+**An- und Kleinbauten sowie Anlagen**
+
+<sup>1</sup> An- und Kleinbauten sowie Anlagen sind zulässig, wenn der Charakter und die Eigenart der Kleinsiedlung nicht beeinträchtigt werden.
+
+#### § 15d
+
+**Gestaltungsvorschriften**
+
+<sup>1</sup> Die Ausgestaltung, die Materialisierung sowie die Farbgebung der Fassaden und Dächer hat sich der traditionell ländlichen Bauweise anzupassen.
+
+<sup>2</sup> Dachaufbauten und Dacheinschnitte sind bei der Erneuerung, teilweisen Änderung, massvollen Erweiterung, Umnutzung sowie beim Abbruch und Wiederaufbau von freistehenden Ökonomiebauten nicht zulässig. Vereinzelte hochstehende Dachflächenfenster bis zu einem Lichtmass von 0.6 m² können bewilligt werden.
+
+### 2.2.4.2. Abbauzonen und Deponiezonen
 
 #### § 16
 
@@ -199,7 +237,7 @@ vom 18.09.2012 (Stand 01.01.2021)
 
 **Deponiezonen**
 
-<sup>1</sup> Deponiezonen umfassen Gebiete, die für die Ablagerung von Abfällen gemäss Technischer Verordnung über Abfälle[^17-1] bestimmt sind.
+<sup>1</sup> Deponiezonen umfassen Gebiete, die für die Ablagerung von Abfällen gemäss Verordnung über die Vermeidung und die Entsorgung von Abfällen (Abfallverordnung, VVEA)[^17-1] bestimmt sind.
 
 <sup>2</sup> Bauten und Anlagen sind zulässig, wenn sie für den Deponiebetrieb notwendig sind. Sie werden nur befristet bewilligt und sind nach beendeter Ablagerung durch den Gesuchsteller oder den Eigentümer zu entfernen.
 
@@ -269,8 +307,8 @@ vom 18.09.2012 (Stand 01.01.2021)
 
 <sup>1</sup> Vorspringende Gebäudeteile dürfen wie folgt über den dazugehörigen Fassadenabschnitt hinausragen:
 
-- 1\. ausserhalb des Grenzabstandes auf der ganzen Länge um maximal 3.00 m;
-- 2\. innerhalb des Grenzabstandes auf 1/3 der Länge um maximal 1.50 m.
+- 1\. ausserhalb des Grenzabstandes auf der ganzen Länge um maximal 3.00 m
+- 2\. innerhalb des Grenzabstandes auf 1/3 der Länge um maximal 1.50 m
 
 <sup>2</sup> Unbedeutend rückspringende Gebäudeteile dürfen höchstens eine Tiefe von 1.00 m und eine maximale Breite von 1.00 m aufweisen.
 
@@ -306,7 +344,7 @@ vom 18.09.2012 (Stand 01.01.2021)
 
 **Dachgeschosse**
 
-<sup>1</sup> Dachgeschosse gemäss Anhang 1 und 2 IVHB dürfen die kleine Kniestockhöhe von 1.00 m und die grosse Kniestockhöhe von 4.00 m nicht überschreiten.
+<sup>1</sup> Dachgeschosse gemäss Anhang 1 und Anhang 2 IVHB dürfen die kleine Kniestockhöhe von 1.00 m und die grosse Kniestockhöhe von 4.00 m nicht überschreiten.
 
 <sup>2</sup> Pultdächer dürfen die grosse Kniestockhöhe von 4.50 m nicht überschreiten.
 
@@ -385,7 +423,7 @@ vom 18.09.2012 (Stand 01.01.2021)
 
 <sup>1</sup> Bei halboffener und geschlossener Bauweise ist jeder Eigentümer berechtigt, eine Scheidmauer so zu erstellen, dass Mauermitte und Grenze zusammenfallen.
 
-<sup>2</sup> Die Mauer ist als Brandmauer auszugestalten und hat den Anforderungen über den Schallschutz nach Art. 32 der Lärmschutz-Verordnung[^37-1] zu genügen.
+<sup>2</sup> Die Mauer ist als Brandmauer auszugestalten und hat den Anforderungen über den Schallschutz nach Art. 32 der Lärmschutz-Verordnung (LSV)[^37-1] zu genügen.
 
 <sup>3</sup> Der Miteigentümer einer gemeinsamen Mauer ist berechtigt, diese in ihrer ganzen Stärke zu unterfangen oder zu erhöhen, sofern dies für die Baute des Nachbarn ohne Gefahr oder Schaden möglich ist
 
@@ -433,9 +471,9 @@ vom 18.09.2012 (Stand 01.01.2021)
 
 **Waldabstand[^43-1]**
 
-<sup>1</sup> Der Waldabstand und der Abstand gegenüber Ufergehölzen werden ab der nach § 2 Abs. 4 des Waldgesetzes[^43-2] festgelegten Waldgrenze gemessen.
+<sup>1</sup> Der Waldabstand und der Abstand gegenüber Ufergehölzen werden ab der nach § 2 Abs. 4 des Waldgesetzes (WaldG)[^43-2] festgelegten Waldgrenze gemessen.
 
-<sup>2</sup> Über Zustimmungen nach § 93 des Gesetzes zur Unterschreitung der Abstände nach § 75 des Gesetzes entscheidet das Kantonsforstamt.
+<sup>2</sup> Über Zustimmungen nach § 93 PBG zur Unterschreitung der Abstände nach § 75 PBG entscheidet das Kantonsforstamt.
 
 [^43-1]: Vom Bund genehmigt am 26. November 2012.
 [^43-2]: RB [921.1](https://www.rechtsbuch.tg.ch/data/921.1/de)
@@ -448,13 +486,13 @@ vom 18.09.2012 (Stand 01.01.2021)
 
 <sup>2</sup> Der Abstand gegenüber Flüssen, Bächen, Kanälen und Weihern wird ab Oberkante der Böschung gemessen beziehungsweise ab Hochwasserlinie, wenn diese über der Oberkante der Böschung liegt. Bei Flüssen mit Hinterdämmen wird ab wasserseitiger Oberkante des Hochwasserdammes gemessen.
 
-<sup>3</sup> Als Flüsse im Sinne des Planungs- und Baugesetzes gelten diejenigen gemäss § 4 des Gesetzes über den Wasserbau und den Schutz vor gravitativen Naturgefahren[^44-1].
+<sup>3</sup> Als Flüsse im Sinne des Planungs- und Baugesetzes gelten diejenigen gemäss § 4 des Gesetzes über den Wasserbau und den Schutz vor gravitativen Naturgefahren (WBSNG)[^44-1].
 
 <sup>4</sup> Bäche im Sinne des Planungs- und Baugesetzes sind ober- oder unterirdische Fliessgewässer, die eine mittlere Sohlenbreite oder einen Durchmesser von mindestens 0.50 m aufweisen. Das Departement bezeichnet diese.
 
 <sup>5</sup> Der Abstand gegenüber nicht unter Abs. 4 fallenden ober- oder unterirdischen Fliessgewässern beträgt mindestens 5 m ab Oberkante der Böschung oder Eindolung.
 
-<sup>6</sup> Über Zustimmungen zur Unterschreitung der Abstände nach § 76 des Gesetzes entscheidet das Amt für Umwelt.
+<sup>6</sup> Über Zustimmungen zur Unterschreitung der Abstände nach § 76 PBG entscheidet das Amt für Umwelt.
 
 [^44-1]: RB [721.1](https://www.rechtsbuch.tg.ch/data/721.1/de)
 
@@ -464,30 +502,29 @@ vom 18.09.2012 (Stand 01.01.2021)
 
 **Höhe, Bemessung**
 
-<sup>1</sup> Der nach § 64 Abs. 2 des Gesetzes berechnete Bodenmehrwert reduziert sich um den Betrag, der innert zwei Jahren seit der rechtskräftigen Zuweisung zu Bauzonen gemäss § 63 des Gesetzes zur Beschaffung einer landwirtschaftlichen Ersatzbaute zur Selbstbewirtschaftung verwendet wird.
+<sup>1</sup> Der nach § 64 Abs. 2 PBG berechnete Bodenmehrwert reduziert sich um den Betrag, der innert zwei Jahren seit der rechtskräftigen Zuweisung zu Bauzonen gemäss § 63 PBG zur Beschaffung einer landwirtschaftlichen Ersatzbaute zur Selbstbewirtschaftung verwendet wird.
 
 <sup>2</sup> Eine rechtskräftig festgesetzte Mehrwertabgabe wird bei der Beschaffung einer landwirtschaftlichen Ersatzbaute nach Abs. 1 auf Gesuch hin revidiert. Das Revisionsbegehren ist innert 90 Tagen seit der Beschaffung der Steuerverwaltung einzureichen. Als Beschaffung gilt die Fertigstellung der landwirtschaftlichen Ersatzbaute oder der Grundbucheintrag für deren Erwerb.
 
-<sup>3</sup> Für die Bemessung des Bodenmehrwerts nach § 64 Abs. 2 des Planungs- und Baugesetzes[^44a-1] wird der Verkehrswert nach der Zuweisung zur Bauzone auch für Grundstücke, die dem Bundesgesetz über das bäuerliche Bodenrecht[^44a-2] unterliegen, nach den Bestimmungen für nichtlandwirtschaftliche Grundstücke gemäss § 12 bis § 19 der Schätzungsverordnung[^44a-3] bestimmt.
+<sup>3</sup> Für die Bemessung des Bodenmehrwerts nach § 64 Abs. 2 PBG wird der Verkehrswert nach der Zuweisung zur Bauzone auch für Grundstücke, die dem Bundesgesetz über das bäuerliche Bodenrecht[^44a-1] unterliegen, nach den Bestimmungen für nichtlandwirtschaftliche Grundstücke gemäss § 12 bis § 19 der Schätzungsverordnung[^44a-2] bestimmt.
 
-[^44a-1]: RB [700](https://www.rechtsbuch.tg.ch/data/700/de)
-[^44a-2]: SR [211.412.11](https://db.clex.ch/link/Bund/211.412.11/de)
-[^44a-3]: RB [640.12](https://www.rechtsbuch.tg.ch/data/640.12/de)
+[^44a-1]: SR [211.412.11](https://db.clex.ch/link/Bund/211.412.11/de)
+[^44a-2]: RB [640.12](https://www.rechtsbuch.tg.ch/data/640.12/de)
 
 #### § 45
 
 **Verwendung**
 
-<sup>1</sup> Raumplanerische Massnahmen, an welche Beiträge aus den Mitteln der Spezialfinanzierungsfonds gemäss § 66 des Gesetzes geleistet werden können, sind insbesondere:
+<sup>1</sup> Raumplanerische Massnahmen, an welche Beiträge aus den Mitteln der Spezialfinanzierungsfonds gemäss § 66 PBG geleistet werden können, sind insbesondere:
 
-- 1\. Zuweisung von Boden im Baugebiet zu Nichtbaugebiet;
-- 2\. Sanierungen von Industriebrachen;
-- 3\. der Rückbau von Altbauten in der Landwirtschaftszone;
-- 4\. Gewässerrenaturierungen und ökologische Aufwertungsmassnahmen;
-- 5\. Sanierung von Altbauten oder deren Abbruch mit Ersatzbauten in Bauzonen;
-- 6\. der Erwerb von dinglichen Rechten an Grundstücken, welcher die Umsetzung raumplanerischer Ziele erleichtert;
-- 7\. regionale, kantonale und internationale Planungen wie Agglomerationsprogramme;
-- 8\. Spezialplanungen wie Entwicklungsschwerpunkte;
+- 1\. Zuweisung von Boden im Baugebiet zu Nichtbaugebiet
+- 2\. Sanierungen von Industriebrachen
+- 3\. der Rückbau von Altbauten in der Landwirtschaftszone
+- 4\. Gewässerrenaturierungen und ökologische Aufwertungsmassnahmen
+- 5\. Sanierung von Altbauten oder deren Abbruch mit Ersatzbauten in Bauzonen
+- 6\. der Erwerb von dinglichen Rechten an Grundstücken, welcher die Umsetzung raumplanerischer Ziele erleichtert
+- 7\. regionale, kantonale und internationale Planungen wie Agglomerationsprogramme
+- 8\. Spezialplanungen wie Entwicklungsschwerpunkte
 
 <sup>2</sup> Beiträge an die Kosten für Infrastrukturbauten, den öffentlichen Verkehr oder Erschliessungsanlagen sind nicht zulässig.
 
@@ -495,7 +532,7 @@ vom 18.09.2012 (Stand 01.01.2021)
 
 **Freibetrag**
 
-<sup>1</sup> Von der Erhebung der Mehrwertabgabe nach § 64 Abs. 1 des Gesetzes wird abgesehen, soweit der Abgabebetrag Fr. 100 nicht übersteigt.
+<sup>1</sup> Von der Erhebung der Mehrwertabgabe nach § 64 Abs. 1 PBG wird abgesehen, soweit der Abgabebetrag Fr. 100 nicht übersteigt.
 
 #### § 46
 
@@ -503,20 +540,20 @@ vom 18.09.2012 (Stand 01.01.2021)
 
 <sup>1</sup> Über die Entnahmen aus dem kantonalen Spezialfinanzierungsfonds entscheidet im Rahmen der verfügbaren Mittel:
 
-- 1\. das Departement bis zu einem Betrag von Fr. 100'000;
-- 2\. der Regierungsrat über höhere Entnahmen.
+- 1\. das Departement bis zu einem Betrag von Fr. 100'000
+- 2\. der Regierungsrat über höhere Entnahmen
 
 #### § 47
 
 **Mitteilung**
 
-<sup>1</sup> Die Gemeindebehörde teilt der Steuerverwaltung den Zeitpunkt der Rechtskraft der Zuweisung gemäss § 63 des Gesetzes und den Zeitpunkt der Fälligkeit nach § 65 Abs. 2 des Gesetzes möglichst frühzeitig, spätestens innert 14 Tagen seit Kenntnis schriftlich mit.
+<sup>1</sup> Die Gemeindebehörde teilt der Steuerverwaltung den Zeitpunkt der Rechtskraft der Zuweisung gemäss § 63 PBG und den Zeitpunkt der Fälligkeit nach § 65 Abs. 2 PBG möglichst frühzeitig, spätestens innert 14 Tagen seit Kenntnis schriftlich mit.
 
 #### § 48
 
 **Stundung**
 
-<sup>1</sup> Für die Beurteilung der wirtschaftlichen Lage im Zusammenhang mit Stundungsgesuchen gemäss § 67 Abs. 1 des Gesetzes können die bei der Steuerverwaltung vorhandenen Daten beigezogen werden.
+<sup>1</sup> Für die Beurteilung der wirtschaftlichen Lage im Zusammenhang mit Stundungsgesuchen gemäss § 67 Abs. 1 PBG können die bei der Steuerverwaltung vorhandenen Daten beigezogen werden.
 
 #### § 49
 
@@ -526,7 +563,7 @@ vom 18.09.2012 (Stand 01.01.2021)
 
 <sup>2</sup> Die Frist gemäss Abs. 1 wird durch die Einreichung von Rechtsmitteln oder Stundung nicht unterbrochen.
 
-<sup>3</sup> Der Zinsfuss und das Bezugsminimum richten sich sinngemäss nach § 191 des Gesetzes über die Staats- und Gemeindesteuern[^49-1].
+<sup>3</sup> Der Zinsfuss und das Bezugsminimum richten sich sinngemäss nach § 191 des Gesetzes über die Staats- und Gemeindesteuern (StG) [^49-1].
 
 [^49-1]: RB [640.1](https://www.rechtsbuch.tg.ch/data/640.1/de)
 
@@ -542,16 +579,13 @@ vom 18.09.2012 (Stand 01.01.2021)
 
 **Baubewilligungspflicht Solaranlagen**
 
-<sup>1</sup> Die Baubewilligungspflicht für Solaranlagen mit einer Fläche von mehr als 35 m² richtet sich zusätzlich nach Art. 18a Abs. 1 des Bundesgesetzes über die Raumplanung[^50a-1] in Verbindung mit Art. 32a und Art. 32b der Raumplanungsverordnung[^50a-2].
-
-[^50a-1]: SR [700](https://db.clex.ch/link/Bund/700/de)
-[^50a-2]: SR [700.1](https://db.clex.ch/link/Bund/700.1/de)
+<sup>1</sup> Die Baubewilligungspflicht für Solaranlagen mit einer Fläche von mehr als 35 m² richtet sich zusätzlich nach Art. 18a Abs. 1 RPG in Verbindung mit Art. 32a und Art. 32b RPV.
 
 #### § 50b
 
 **Meldepflicht bewilligungsfreier Solaranlagen**
 
-<sup>1</sup> Baubewilligungsfreie Solaranlagen gemäss Art. 18a Abs. 1 des Bundesgesetzes über die Raumplanung in Verbindung mit Art. 32a Abs. 3 der Raumplanungsverordnung mit einer Fläche von mehr als 35 m² sind unter Beilage eines Beschriebs von Art und Einpassung der Anlage 20 Tage vor Baubeginn der Baubewilligungsbehörde zu melden.
+<sup>1</sup> Baubewilligungsfreie Solaranlagen gemäss Art. 18a Abs. 1 RPG in Verbindung mit Art. 32a Abs. 3 RPV mit einer Fläche von mehr als 35 m² sind unter Beilage eines Beschriebs von Art und Einpassung der Anlage 20 Tage vor Baubeginn der Baubewilligungsbehörde zu melden.
 
 <sup>2</sup> In Arbeitszonen genügt eine Mitteilung über Fläche und Leistung der zur Installation vorgesehenen Anlage.
 
@@ -565,20 +599,20 @@ vom 18.09.2012 (Stand 01.01.2021)
 
 <sup>2</sup> Dem Baugesuch sind folgende Unterlagen beizulegen:
 
-- 1\. Situationsplan (Katasterplan) mit den eingetragenen Massen der Bauten und Anlagen beziehungsweise der projizierten Fassadenlinie oder den beabsichtigten Änderungen sowie allen Grenzabständen, Baulinien, Zufahrten und Parkfeldern;
-- 2\. Grundrisse aller Geschosse in der Regel im Massstab 1:100 mit Angaben aller relevanten Aussenmasse, der projizierten Fassadenlinie im Grundriss des 1. Vollgeschosses sowie der Zweckbestimmung der Räume;
-- 3\. Fassadenflucht- und Schnittpläne mit dem Verlauf des massgebenden oder tiefer gelegten Terrains bis über die Grundstücksgrenzen, mit vollständigen Angaben zur Gesamt-, Fassaden- oder Geschosshöhe, zur Kniestockhöhe und lichten Höhe sowie mit der Höhe der öffentlichen Strassen und des Längenprofils von Garagenzufahrten;
-- 4\. Projektplan der Umgebungsgestaltung einschliesslich Parkfelder, Wege, Spielplätze und Freizeitflächen sowie Stützmauern usw. mit Höhenkoten des massgebenden Terrains sowie Bepflanzung;
-- 5\. Baubeschrieb mit Angaben über die Zweckbestimmung, Materialisierung und Farbgebung, soweit die beabsichtigte Ausführung aus den Plänen nicht ersichtlich ist;
-- 6\. detaillierter Nachweis der Geschossflächen- oder Baumassenziffer;
-- 7\. Formular „Deklaration für Erdarbeiten“;
-- 8\. Kanalisationseingabe;
-- 9\. Schutzraumeingabe;
-- 10\. Emissionserklärung nach Art. 12 der Luftreinhalteverordnung[^51-1];
-- 11\. die Angaben nach Art. 34 der Lärmschutzverordnung[^51-2];
-- 12\. energietechnischer Nachweis gemäss der Verordnung des Regierungsrates zum Gesetz über die Energienutzung[^51-3];
-- 13\. provisorisches Minergiezertifikat oder U-Wert-Nachweis, sofern ein Zuschlag für energieeffizientes Bauen beantragt wird;
-- 14\. Objektschutznachweis nach § 21.
+- 1\. Situationsplan (Katasterplan) mit den eingetragenen Massen der Bauten und Anlagen beziehungsweise der projizierten Fassadenlinie oder den beabsichtigten Änderungen sowie allen Grenzabständen, Baulinien, Zufahrten und Parkfeldern
+- 2\. Grundrisse aller Geschosse in der Regel im Massstab 1:100 mit Angaben aller relevanten Aussenmasse, der projizierten Fassadenlinie im Grundriss des 1. Vollgeschosses sowie der Zweckbestimmung der Räume
+- 3\. Fassadenflucht- und Schnittpläne mit dem Verlauf des massgebenden oder tiefer gelegten Terrains bis über die Grundstücksgrenzen, mit vollständigen Angaben zur Gesamt-, Fassaden- oder Geschosshöhe, zur Kniestockhöhe und lichten Höhe sowie mit der Höhe der öffentlichen Strassen und des Längenprofils von Garagenzufahrten
+- 4\. Projektplan der Umgebungsgestaltung einschliesslich Parkfelder, Wege, Spielplätze und Freizeitflächen sowie Stützmauern usw. mit Höhenkoten des massgebenden Terrains sowie Bepflanzung
+- 5\. Baubeschrieb mit Angaben über die Zweckbestimmung, Materialisierung und Farbgebung, soweit die beabsichtigte Ausführung aus den Plänen nicht ersichtlich ist
+- 6\. detaillierter Nachweis der Geschossflächen- oder Baumassenziffer
+- 7\. Formular «Deklaration für Erdarbeiten»
+- 8\. Kanalisationseingabe
+- 9\. Schutzraumeingabe
+- 10\. Emissionserklärung nach Art. 12 der Luftreinhalte-Verordnung (LRV)[^51-1]
+- 11\. die Angaben nach Art. 34 LSV
+- 12\. energietechnischer Nachweis gemäss der Verordnung des Regierungsrates zum Gesetz über die Energienutzung (ENV)[^51-2]
+- 13\. provisorisches Minergiezertifikat oder U-Wert-Nachweis, sofern ein Zuschlag für energieeffizientes Bauen beantragt wird
+- 14\. Objektschutznachweis nach § 21
 
 <sup>3</sup> Bei einfachen Bauvorhaben kann die Gemeindebehörde die Anforderungen an die Unterlagen reduzieren.
 
@@ -587,8 +621,7 @@ vom 18.09.2012 (Stand 01.01.2021)
 <sup>5</sup> Bei Umbauten und bei Änderung bereits genehmigter Pläne sind die Änderungen farbig darzustellen (rot = neu, gelb = Abbruch, blau = zu ersetzende Bauteile).
 
 [^51-1]: SR [814.318.142.1](https://db.clex.ch/link/Bund/814.318.142.1/de)
-[^51-2]: SR [814.41](https://db.clex.ch/link/Bund/814.41/de)
-[^51-3]: RB [731.11](https://www.rechtsbuch.tg.ch/data/731.11/de)
+[^51-2]: RB [731.11](https://www.rechtsbuch.tg.ch/data/731.11/de)
 
 #### § 52
 
@@ -610,15 +643,13 @@ vom 18.09.2012 (Stand 01.01.2021)
 
 <sup>2</sup> Allfällige Einsprachen gegen solche Vorhaben sind dem Amt für Raumplanung sowie den weiteren betroffenen kantonalen Stellen zur Kenntnis zu bringen.
 
-<sup>3</sup> Das Amt für Raumplanung entscheidet bei allen Bauvorhaben ausserhalb der Bauzone, ob sie zonenkonform sind oder ob eine Ausnahmebewilligung nach Art. 24 ff. des Bundesgesetzes über die Raumplanung[^53-1] erteilt werden kann.
-
-[^53-1]: SR [700](https://db.clex.ch/link/Bund/700/de)
+<sup>3</sup> Das Amt für Raumplanung entscheidet bei allen Bauvorhaben ausserhalb der Bauzone, ob sie zonenkonform sind oder ob eine Ausnahmebewilligung nach Art. 24 ff. RPG erteilt werden kann.
 
 #### § 53a
 
 **Zustimmung**
 
-<sup>1</sup> Das Amt für Raumentwicklung entscheidet über Zustimmungen zu Bewilligungen gemäss § 21 Abs. 3 des Gesetzes.
+<sup>1</sup> Das Amt für Raumentwicklung entscheidet über Zustimmungen zu Bewilligungen gemäss § 21 Abs. 3 PBG.
 
 #### § 54
 
@@ -626,13 +657,13 @@ vom 18.09.2012 (Stand 01.01.2021)
 
 <sup>1</sup> Der Gemeindebehörde sind folgende Vorgänge rechtzeitig zur Baukontrolle zu melden, sofern in der Baubewilligung nicht weniger Kontrollen verlangt werden:
 
-- 1\. der Baubeginn;
-- 2\. die Erstellung des Schnurgerüstes;
-- 3\. die Fertigstellung der Fundamente;
-- 4\. die Vollendung des Rohbaues;
-- 5\. die Fertigstellung der Anschlüsse an Werkleitungen und Kanalisationen vor dem Eindecken;
-- 6\. die Ausführung von Arbeiten, für die besondere gesetzliche Kontrollpflichten bestehen;
-- 7\. die Fertigstellung des Bauvorhabens.
+- 1\. der Baubeginn
+- 2\. die Erstellung des Schnurgerüstes
+- 3\. die Fertigstellung der Fundamente
+- 4\. die Vollendung des Rohbaues
+- 5\. die Fertigstellung der Anschlüsse an Werkleitungen und Kanalisationen vor dem Eindecken
+- 6\. die Ausführung von Arbeiten, für die besondere gesetzliche Kontrollpflichten bestehen
+- 7\. die Fertigstellung des Bauvorhabens
 
 <sup>2</sup> Die Gemeindebehörde führt die Kontrollen beförderlich durch, teilt der Bauherrschaft Beanstandungen unverzüglich mit und bestätigt diese schriftlich. Sie fordert die Bauherrschaft auf, die beanstandeten Mängel innert angesetzter Frist nachzubessern. Die Behebung der gerügten Mängel ist zur Nachkontrolle zu melden.
 
@@ -640,7 +671,7 @@ vom 18.09.2012 (Stand 01.01.2021)
 
 **Vorprüfung**
 
-<sup>1</sup> Als ausserordentlicher Aufwand im Sinne von § 120 des Gesetzes gelten Geschäfte, die zusätzlicher Besprechungen, Abklärungen oder Korrespondenz bedürfen oder besondere Schwierigkeiten aufweisen.
+<sup>1</sup> Als ausserordentlicher Aufwand im Sinne von § 120 PBG gelten Geschäfte, die zusätzlicher Besprechungen, Abklärungen oder Korrespondenz bedürfen oder besondere Schwierigkeiten aufweisen.
 
 <sup>2</sup> Bemessung und Ansätze richten sich nach § 5 und § 9 Abs. 1 Ziff. 2 der Verordnung des Grossen Rates über die Gebühren der kantonalen Verwaltungsbehörden[^55-1].
 
@@ -658,26 +689,37 @@ vom 18.09.2012 (Stand 01.01.2021)
 
 [^56-1]: Die entsprechenden Bestimmungen sind abgedruckt in Anhang 2.
 
+#### § 56a
+
+**Übergangsbestimmung zur Aufhebung der Weilerzonen**
+
+<sup>1</sup> Für Weilerzonen gilt die Regelung des bisherigen § 6, wenn
+
+- 1\. sie nicht in den Anwendungsbereich der Kleinsiedlungsverordnung (KSV)[^56a-1] fallen,
+- 2\. das kommunale Baureglement auf den bisherigen § 6 verweist und
+- 3\. die nach den Vorgaben des revidierten Kapitels 1.9 des Kantonalen Richtplans angepasste Kommunalplanung noch nicht in Kraft gesetzt ist.
+
+<sup>2</sup> Die Regelung lautet:
+
+- 1\. Dorfzonen und Weilerzonen umfassen Gebiete, die der gemischten baulichen Nutzung dienen. Sie bezwecken die Erhaltung, Erneuerung und Pflege der vorhandenen Bausubstanz und der Freiräume.
+- 2\. Neu-, An- und Umbauten sind sorgfältig in das Ortsbild einzuordnen.
+- 3\. Zulässig sind Wohnbauten, mässig störende Gewerbe- und Dienstleistungsbetriebe, Mischbauten und landwirtschaftliche Betriebe.
+- 4\. In Weilerzonen können die gemäss Ziff. 3 zulässigen Nutzungen eingeschränkt werden.
+
+[^56a-1]: RB [700.3](https://www.rechtsbuch.tg.ch/data/700.3/de)
+
 #### § 57
 
 **Umrechnungswerte**
 
-<sup>1</sup> Die Umrechnungswerte gemäss § 122 Abs. 4 des Gesetzes sind für die Nutzungsziffern im Anhang festgelegt.
+<sup>1</sup> Die Umrechnungswerte gemäss § 122 Abs. 4 PBG sind für die Nutzungsziffern im Anhang festgelegt.
 
-<sup>2</sup> Als Umrechnungswert gemäss § 122 Abs. 4 des Gesetzes gilt für das Höhenmass der Gebäudehöhe die auf der Talseite gemessene traufseitige Fassadenhöhe.
+<sup>2</sup> Als Umrechnungswert gemäss § 122 Abs. 4 PBG gilt für das Höhenmass der Gebäudehöhe die auf der Talseite gemessene traufseitige Fassadenhöhe.
 
-<sup>3</sup> Für den Erlass von Sondernutzungsplänen gemäss § 122 Abs. 3 des Gesetzes gelten als Basis die Umrechnungswerte gemäss § 122 Abs. 4 des Gesetzes.
+<sup>3</sup> Für den Erlass von Sondernutzungsplänen gemäss § 122 Abs. 3 PBG gelten als Basis die Umrechnungswerte gemäss § 122 Abs. 4 PBG.
 
-#### § 58
+#### § 58–59
 
-**Aufhebung bisherigen Rechtes**
-
-<sup>1</sup> Die Verordnung des Regierungsrates zum Planungs- und Baugesetz vom 26. März 1996 wird aufgehoben.
-
-#### § 59
-
-**Inkrafttreten**
-
-<sup>1</sup> Die Interkantonale Vereinbarung über die Harmonisierung der Baubegriffe vom 21. April 2010, das Planungs- und Baugesetz vom 21. Dezember 2011 sowie diese Verordnung treten am 1. Januar 2013 in Kraft.
+**…**
 
 38/2012
