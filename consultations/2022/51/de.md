@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: 22.431 n Pa. Iv. SGK-NR. Ausnahmen von der dreijährigen Tätigkeitspflicht gemäss Artikel 37 Absatz 1 KVG bei nachgewiesener Unterversorgung
 document: Vernehmlassungsvorlage
 language: de

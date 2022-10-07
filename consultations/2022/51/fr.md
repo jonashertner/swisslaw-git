@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: 22.431 n Iv. pa. CSSS-CN. Exceptions à l’obligation d’avoir exercé pendant trois ans dans un établissement suisse reconnu prévue à l’article 37 alinéa 1 LAMal en cas de pénurie avérée de médecins
 document: Projet mis en consultation
 language: fr

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: 22.431 n Iv. pa. CSSS-CN. Eccezioni all’obbligo di esercitare l’attività per tre anni di cui all’articolo 37 capoverso 1 LAMal in caso di comprovata penuria di medici
 document: Progetto posto in consultazione
 language: it
