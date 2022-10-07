@@ -4,13 +4,12 @@ number: "700.3"
 title: Kleinsiedlungsverordnung
 short: KSV
 language: de
-version: 2020-05-16
-valid_until: 2022-10-07
-version_adopted: 2020-05-12
+version: 2022-10-08
+version_adopted: 2022-10-04
 adopted: 2020-05-12
 in_force: 2020-05-16
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/700.3"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2558/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2585/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ KSV
 
 (KSV)
 
-vom 12.05.2020 (Stand 16.05.2020)
+vom 12.05.2020 (Stand 08.10.2022)
 
 ## 1. Allgemeines
 
@@ -60,15 +59,9 @@ vom 12.05.2020 (Stand 16.05.2020)
 
 **Kleinsiedlungen nach § 2 Abs. 2**
 
-<sup>1</sup> Die Zulässigkeit von Bauten und Anlagen in Kleinsiedlungen nach Anhang 2 beurteilt sich, soweit diese Verordnung keine abweichenden Vorschriften enthält, nach § 15 der Verordnung des Regierungsrates zum Planungs- und Baugesetz und zur Interkantonalen Vereinbarung über die Harmonisierung der Baubegriffe (PBV)[^5-1].
+<sup>1</sup> Die Zulässigkeit von Bauten und Anlagen in Kleinsiedlungen nach Anhang 2 beurteilt sich, soweit diese Verordnung keine abweichenden Vorschriften enthält, nach § 15 bis § 15d der Verordnung zum Planungs- und Baugesetz und zur Interkantonalen Vereinbarung über die Harmonisierung der Baubegriffe (PBV)[^5-1].
 
-<sup>2</sup> Bestehende Bauten dürfen erneuert, umgenutzt und teilweise geändert werden, wenn die Charakteristik der Gebäude im Wesentlichen erhalten bleibt.
-
-<sup>3</sup> Ersatzbauten sind zulässig. Sie sind grundsätzlich an gleicher Stelle, mit gleichem Volumen und gleicher Charakteristik zu erstellen.
-
-<sup>4</sup> Neubauten sind zulässig, wenn sie landwirtschaftlich begründet oder standortgebunden sind. Sie haben sich in Stellung, Volumen und Charakteristik den bestehenden Bauten anzupassen.
-
-<sup>5</sup> An- und Kleinbauten sind zulässig, wenn sie nicht in bestehende Bauten integriert werden können und der Charakter sowie die Eigenart der Kleinsiedlung nicht beeinträchtigt werden.
+<sup>2–5</sup> …
 
 <sup>6</sup> Mit Bezug auf die weiteren Bau- und Gestaltungsvorschriften gelten die Bestimmungen derjenigen Zone, der die Kleinsiedlungen gemäss dem rechtskräftigen Rahmennutzungsplan zugewiesen sind.
 
