@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Code civil suisse (double nom en cas de mariage)
 document: Projet mis en consultation
 language: fr

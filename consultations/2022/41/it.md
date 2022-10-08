@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Codice civile svizzero (doppio cognome in occasione del matrimonio)
 document: Progetto posto in consultazione
 language: it

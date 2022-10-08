@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Schweizerisches Zivilgesetzbuch (Doppelname bei der Eheschliessung)
 document: Vernehmlassungsvorlage
 language: de
