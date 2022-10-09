@@ -3,11 +3,11 @@ sr: "0.822.713.91"
 title: "Protocole de 2014 du 11 juin 2014 relatif à la convention sur le travail forcé, 1930"
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/143"
 language: fr
-version: 2020-04-23
+version: 2022-10-10
 adopted: 2014-06-11
 in_force: 2018-09-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/143/20200423/fr/xml/fedlex-data-admin-ch-eli-cc-2018-143-20200423-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/143/20200423/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/143/20221010/fr/xml/fedlex-data-admin-ch-eli-cc-2018-143-20221010-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/143/20221010/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification suisse déposé le 28 septembre 2017
 
 Entré en vigueur le 28 septembre 2018
 
-(Etat le 23 avril 2020)
+(État le 10 octobre 2022)
 
 [^t-1]: [RO 2018 979](https://fedlex.data.admin.ch/eli/oc/2018/142)
 
@@ -162,17 +162,24 @@ Les versions anglaise et française du texte du présent Protocole font égaleme
 
 (Suivent les signatures)
 
-Champ d’application le 23 avril 2020**[^t-2]**
+Champ d’application le 10 octobre 2022[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Allemagne</td><td>19 juin</td><td>2019</td><td>19 juin</td><td>2020</td></tr>
+<tr><td>Antigua-et-Barbuda</td><td>28 juillet</td><td>2021</td><td>28 juillet</td><td>2022</td></tr>
+<tr><td>Arabie Saoudite</td><td>26 mai</td><td>2021</td><td>26 mai</td><td>2022</td></tr>
 <tr><td>Argentine</td><td>9 novembre</td><td>2016</td><td>9 novembre</td><td>2017</td></tr>
+<tr><td>Australie</td><td>31 mars</td><td>2022</td><td>31 mars</td><td>2023</td></tr>
 <tr><td>Autriche</td><td>12 septembre</td><td>2019</td><td>12 septembre</td><td>2020</td></tr>
+<tr><td>Bangladesh</td><td>20 janvier</td><td>2022</td><td>20 janvier</td><td>2023</td></tr>
 <tr><td>Belgique</td><td>10 septembre</td><td>2019</td><td>10 septembre</td><td>2020</td></tr>
 <tr><td>Bosnie et Herzégovine</td><td>9 août</td><td>2018</td><td>9 août</td><td>2019</td></tr>
 <tr><td>Canada</td><td>17 juin</td><td>2019</td><td>17 juin</td><td>2020</td></tr>
+<tr><td>Chili</td><td>19 janvier</td><td>2021</td><td>19 janvier</td><td>2022</td></tr>
 <tr><td>Chypre</td><td>1<sup>er</sup> février</td><td>2017</td><td>1<sup>er</sup> février</td><td>2018</td></tr>
+<tr><td>Comores</td><td>15 juillet</td><td>2021</td><td>15 juillet</td><td>2022</td></tr>
+<tr><td>Costa Rica</td><td>16 novembre</td><td>2020</td><td>16 novembre</td><td>2021</td></tr>
 <tr><td>Côte d’Ivoire</td><td>1<sup>er</sup> novembre</td><td>2019</td><td>1<sup>er</sup> novembre</td><td>2020</td></tr>
 <tr><td>Danemark</td><td>14 juin</td><td>2017</td><td>17 juin</td><td>2018</td></tr>
 <tr><td>Djibouti</td><td>9 mars</td><td>2018</td><td>9 mars</td><td>2019</td></tr>
@@ -184,32 +191,40 @@ Champ d’application le 23 avril 2020**[^t-2]**
 <tr><td>Islande</td><td>14 juin</td><td>2017</td><td>14 juin</td><td>2018</td></tr>
 <tr><td>Israël</td><td>11 octobre</td><td>2018</td><td>11 octobre</td><td>2019</td></tr>
 <tr><td>Jamaïque</td><td>13 juin</td><td>2017</td><td>13 juin</td><td>2018</td></tr>
+<tr><td>Kirghizistan</td><td>6 octobre</td><td>2020</td><td>6 octobre</td><td>2021</td></tr>
 <tr><td>Lesotho</td><td>22 août</td><td>2019</td><td>22 août</td><td>2020</td></tr>
 <tr><td>Lettonie</td><td>7 décembre</td><td>2017</td><td>7 décembre</td><td>2018</td></tr>
 <tr><td>Lituanie</td><td>5 mars</td><td>2020</td><td>5 mars</td><td>2021</td></tr>
+<tr><td>Luxembourg</td><td>18 mars</td><td>2021</td><td>18 mars</td><td>2022</td></tr>
 <tr><td>Madagascar</td><td>11 juin</td><td>2019</td><td>11 juin</td><td>2020</td></tr>
+<tr><td>Malaisie</td><td>21 mars</td><td>2022</td><td>21 mars</td><td>2023</td></tr>
 <tr><td>Malawi</td><td>7 novembre</td><td>2019</td><td>7 novembre</td><td>2020</td></tr>
 <tr><td>Mali</td><td>12 avril</td><td>2016</td><td>12 avril</td><td>2017</td></tr>
 <tr><td>Malte</td><td>14 février</td><td>2019</td><td>14 février</td><td>2020</td></tr>
 <tr><td>Mauritanie</td><td>9 février</td><td>2016</td><td>9 février</td><td>2017</td></tr>
 <tr><td>Mozambique</td><td>14 juin</td><td>2018</td><td>14 juin</td><td>2019</td></tr>
 <tr><td>Namibie</td><td>6 novembre</td><td>2017</td><td>6 novembre</td><td>2018</td></tr>
-<tr><td>Niger</td><td>14 mai</td><td>2015</td><td>14 mai</td><td>2016</td></tr>
+<tr><td>Niger</td><td>14 mai</td><td>2015</td><td>9 novembre</td><td>2016</td></tr>
 <tr><td>Norvège</td><td>9 novembre</td><td>2015</td><td>9 novembre</td><td>2016</td></tr>
 <tr><td>Nouvelle-Zélande</td><td>13 décembre</td><td>2019</td><td>13 décembre</td><td>2020</td></tr>
 <tr><td>Ouzbékistan</td><td>16 septembre</td><td>2019</td><td>16 septembre</td><td>2020</td></tr>
 <tr><td>Panama</td><td>7 septembre</td><td>2016</td><td>7 septembre</td><td>2017</td></tr>
 <tr><td>Pays-Bas</td><td>8 août</td><td>2017</td><td>8 août</td><td>2018</td></tr>
+<tr><td>Pérou</td><td>18 juin</td><td>2021</td><td>18 juin</td><td>2022</td></tr>
 <tr><td>Pologne</td><td>10 mars</td><td>2017</td><td>10 mars</td><td>2018</td></tr>
+<tr><td>Portugal</td><td>23 décembre</td><td>2020</td><td>23 décembre</td><td>2021</td></tr>
 <tr><td>République tchèque</td><td>9 juin</td><td>2016</td><td>9 juin</td><td>2017</td></tr>
 <tr><td>Royaume-Uni</td><td>22 janvier</td><td>2016</td><td>22 janvier</td><td>2017</td></tr>
 <tr><td>Russie</td><td>17 janvier</td><td>2019</td><td>17 janvier</td><td>2020</td></tr>
+<tr><td>Sierra Leone</td><td>25 août</td><td>2021</td><td>28 août</td><td>2022</td></tr>
+<tr><td>Soudan</td><td>17 mars</td><td>2021</td><td>17 mars</td><td>2022</td></tr>
 <tr><td>Sri Lanka</td><td>10 avril</td><td>2019</td><td>10 avril</td><td>2020</td></tr>
 <tr><td>Suède</td><td>14 juin</td><td>2017</td><td>14 juin</td><td>2018</td></tr>
 <tr><td>Suisse</td><td>28 septembre</td><td>2017</td><td>28 septembre</td><td>2018</td></tr>
 <tr><td>Suriname</td><td>3 juin</td><td>2019</td><td>3 juin</td><td>2020</td></tr>
+<tr><td>Tadjikistan</td><td>24 janvier</td><td>2020</td><td>24 janvier</td><td>2021</td></tr>
 <tr><td>Thaïlande</td><td>4 juin</td><td>2018</td><td>4 juin</td><td>2019</td></tr>
 <tr><td>Zimbabwe</td><td>22 mai</td><td>2019</td><td>22 mai</td><td>2020</td></tr>
 </table>
 
-[^t-2]: [RO 2018 981](https://fedlex.data.admin.ch/eli/oc/2018/143), [2019 1293](https://fedlex.data.admin.ch/eli/oc/2019/245)[2945](https://fedlex.data.admin.ch/eli/oc/2019/536), [2020 1483](https://fedlex.data.admin.ch/eli/oc/2020/290). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 2018 981](https://fedlex.data.admin.ch/eli/oc/2018/143); [2019 1293](https://fedlex.data.admin.ch/eli/oc/2019/245), [2945](https://fedlex.data.admin.ch/eli/oc/2019/536); [2020 1483](https://fedlex.data.admin.ch/eli/oc/2020/290); [2022 577](https://fedlex.data.admin.ch/eli/oc/2022/577). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [https://www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

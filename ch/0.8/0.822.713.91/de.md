@@ -3,11 +3,11 @@ sr: "0.822.713.91"
 title: "Protokoll von 2014 vom 11. Juni 2014 zum Übereinkommen über Zwangsarbeit, 1930"
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/143"
 language: de
-version: 2020-04-23
+version: 2022-10-10
 adopted: 2014-06-11
 in_force: 2018-09-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/143/20200423/de/xml/fedlex-data-admin-ch-eli-cc-2018-143-20200423-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/143/20200423/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/143/20221010/de/xml/fedlex-data-admin-ch-eli-cc-2018-143-20221010-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/143/20221010/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -24,7 +24,7 @@ Von der Bundesversammlung genehmigt am 17. März 2017[^t-1] Schweizerische Ratif
 
 In Kraft getreten am 28. September 2018[^t-2]
 
-(Stand am 23. April 2020)
+(Stand am 10. Oktober 2022)
 
 [^t-1]: [AS 2018 979](https://fedlex.data.admin.ch/eli/oc/2018/142)
 [^t-2]: Art. 1 Abs. 1 des BB vom 17. März 2017
@@ -161,13 +161,18 @@ Der französische und der englische Wortlaut dieses Protokolls sind in gleicher 
 
 *(Es folgen die Unterschriften)*
 
-Geltungsbereich am 23. April 2020**[^t-3]**
+Geltungsbereich am 10. Oktober 2022[^t-3]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation</th><th></th><th>Inkrafttreten</th><th></th></tr>
+<tr><td>Antigua und Barbuda</td><td>28. Juli</td><td>2021</td><td>28. Juli</td><td>2022</td></tr>
 <tr><td>Argentinien</td><td>9. November</td><td>2016</td><td>9. November</td><td>2017</td></tr>
+<tr><td>Australien</td><td>31. März</td><td>2022</td><td>31. März</td><td>2023</td></tr>
+<tr><td>Bangladesch</td><td>20. Januar</td><td>2022</td><td>20. Januar</td><td>2023</td></tr>
 <tr><td>Belgien</td><td>10. September</td><td>2019</td><td>10. September</td><td>2020</td></tr>
 <tr><td>Bosnien und Herzegowina</td><td>9. August</td><td>2018</td><td>9. August</td><td>2019</td></tr>
+<tr><td>Chile</td><td>19. Januar</td><td>2021</td><td>19. Januar</td><td>2022</td></tr>
+<tr><td>Costa Rica</td><td>16. November</td><td>2020</td><td>16. November</td><td>2021</td></tr>
 <tr><td>Côte d’Ivoire</td><td>1. November</td><td>2019</td><td>1. November</td><td>2020</td></tr>
 <tr><td>Dänemark</td><td>14. Juni</td><td>2017</td><td>17. Juni</td><td>2018</td></tr>
 <tr><td>Deutschland</td><td>19. Juni</td><td>2019</td><td>19. Juni</td><td>2020</td></tr>
@@ -180,11 +185,15 @@ Geltungsbereich am 23. April 2020**[^t-3]**
 <tr><td>Israel</td><td>11. Oktober</td><td>2018</td><td>11. Oktober</td><td>2019</td></tr>
 <tr><td>Jamaika</td><td>13. Juni</td><td>2017</td><td>13. Juni</td><td>2018</td></tr>
 <tr><td>Kanada</td><td>17. Juni</td><td>2019</td><td>17. Juni</td><td>2020</td></tr>
+<tr><td>Kirgisistan</td><td>6. Oktober</td><td>2020</td><td>6. Oktober</td><td>2021</td></tr>
+<tr><td>Komoren</td><td>15. Juli</td><td>2021</td><td>15. Juli</td><td>2022</td></tr>
 <tr><td>Lesotho</td><td>22. August</td><td>2019</td><td>22. August</td><td>2020</td></tr>
 <tr><td>Lettland</td><td>7. Dezember</td><td>2017</td><td>7. Dezember</td><td>2018</td></tr>
 <tr><td>Litauen</td><td>5. März</td><td>2020</td><td>5. März</td><td>2021</td></tr>
+<tr><td>Luxemburg</td><td>18. März</td><td>2021</td><td>18. März</td><td>2022</td></tr>
 <tr><td>Madagaskar</td><td>11. Juni</td><td>2019</td><td>11. Juni</td><td>2020</td></tr>
 <tr><td>Malawi</td><td>7. November</td><td>2019</td><td>7. November</td><td>2020</td></tr>
+<tr><td>Malaysia</td><td>21. März</td><td>2022</td><td>21. März</td><td>2023</td></tr>
 <tr><td>Mali</td><td>12. April</td><td>2016</td><td>12. April</td><td>2017</td></tr>
 <tr><td>Malta</td><td>14. Februar</td><td>2019</td><td>14. Februar</td><td>2020</td></tr>
 <tr><td>Mauretanien</td><td>9. Februar</td><td>2016</td><td>9. Februar</td><td>2017</td></tr>
@@ -192,18 +201,24 @@ Geltungsbereich am 23. April 2020**[^t-3]**
 <tr><td>Namibia</td><td>6. November</td><td>2017</td><td>6. November</td><td>2018</td></tr>
 <tr><td>Neuseeland</td><td>13. Dezember</td><td>2019</td><td>13. Dezember</td><td>2020</td></tr>
 <tr><td>Niederlande</td><td>8. August</td><td>2017</td><td>8. August</td><td>2018</td></tr>
-<tr><td>Niger</td><td>14. Mai</td><td>2015</td><td>14. Mai</td><td>2016</td></tr>
+<tr><td>Niger</td><td>14. Mai</td><td>2015</td><td>9. November</td><td>2016</td></tr>
 <tr><td>Norwegen</td><td>9. November</td><td>2015</td><td>9. November</td><td>2016</td></tr>
 <tr><td>Österreich</td><td>12. September</td><td>2019</td><td>12. September</td><td>2020</td></tr>
 <tr><td>Panama</td><td>7. September</td><td>2016</td><td>7. September</td><td>2017</td></tr>
+<tr><td>Peru</td><td>18. Juni</td><td>2021</td><td>18. Juni</td><td>2022</td></tr>
 <tr><td>Polen</td><td>10. März</td><td>2017</td><td>10. März</td><td>2018</td></tr>
+<tr><td>Portugal</td><td>23. Dezember</td><td>2020</td><td>23. Dezember</td><td>2021</td></tr>
 <tr><td>Russland</td><td>17. Januar</td><td>2019</td><td>17. Januar</td><td>2020</td></tr>
+<tr><td>Saudi-Arabien</td><td>26. Mai</td><td>2021</td><td>26. Mai</td><td>2022</td></tr>
 <tr><td>Schweden</td><td>14. Juni</td><td>2017</td><td>14. Juni</td><td>2018</td></tr>
 <tr><td>Schweiz</td><td>28. September</td><td>2017</td><td>28. September</td><td>2018</td></tr>
+<tr><td>Sierra Leone</td><td>25. August</td><td>2021</td><td>28. August</td><td>2022</td></tr>
 <tr><td>Simbabwe</td><td>22. Mai</td><td>2019</td><td>22. Mai</td><td>2020</td></tr>
 <tr><td>Spanien</td><td>20. September</td><td>2017</td><td>20. September</td><td>2018</td></tr>
 <tr><td>Sri Lanka</td><td>10. April</td><td>2019</td><td>10. April</td><td>2020</td></tr>
+<tr><td>Sudan</td><td>17. März</td><td>2021</td><td>17. März</td><td>2022</td></tr>
 <tr><td>Suriname</td><td>3. Juni</td><td>2019</td><td>3. Juni</td><td>2020</td></tr>
+<tr><td>Tadschikistan</td><td>24. Januar</td><td>2020</td><td>24. Januar</td><td>2021</td></tr>
 <tr><td>Thailand</td><td>4. Juni</td><td>2018</td><td>4. Juni</td><td>2019</td></tr>
 <tr><td>Tschechische Republik</td><td>9. Juni</td><td>2016</td><td>9. Juni</td><td>2017</td></tr>
 <tr><td>Usbekistan</td><td>16. September</td><td>2019</td><td>16. September</td><td>2020</td></tr>
@@ -211,4 +226,4 @@ Geltungsbereich am 23. April 2020**[^t-3]**
 <tr><td>Zypern</td><td>1. Februar</td><td>2017</td><td>1. Februar</td><td>2018</td></tr>
 </table>
 
-[^t-3]: [AS 2018 981](https://fedlex.data.admin.ch/eli/oc/2018/143), [2019 1293](https://fedlex.data.admin.ch/eli/oc/2019/245)[2945](https://fedlex.data.admin.ch/eli/oc/2019/536), [2020 1483](https://fedlex.data.admin.ch/eli/oc/2020/290). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-3]: [AS 2018 981](https://fedlex.data.admin.ch/eli/oc/2018/143); [2019 1293](https://fedlex.data.admin.ch/eli/oc/2019/245), [2945](https://fedlex.data.admin.ch/eli/oc/2019/536); [2020 1483](https://fedlex.data.admin.ch/eli/oc/2020/290); [2022 577](https://fedlex.data.admin.ch/eli/oc/2022/577). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht https://www.fedlex.admin.ch/de/treaty
