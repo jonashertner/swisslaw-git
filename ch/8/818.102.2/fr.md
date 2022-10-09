@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordonnance du 4 juin 2021 sur les certificats attestant la vaccination contre le COVID-19, la guérison du COVID-19 ou la réalisation d’un test de dépistage du COVID-19 (Ordonnance COVID-19 certificats)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: fr
-version: 2022-08-22
+version: 2022-10-10
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220822/fr/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220822-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220822/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20221010/fr/xml/fedlex-data-admin-ch-eli-cc-2021-325-20221010-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20221010/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220822/fr"
 
 (Ordonnance COVID-19 certificats)
 
-du 4 juin 2021 (Etat le 22 août 2022)
+du 4 juin 2021 (État le 10 octobre 2022)
 
 Le Conseil fédéral suisse,
 
@@ -810,7 +810,7 @@ Annexe 2[^t-2]
 
 ## Dispositions particulières applicables aux certificats de vaccination COVID-19
 
-[^t-2]: Nouvelle teneur selon le ch. I al. 1 de l’O du DFI du 1<sup>er</sup> fév. 2022 (Caractère complet d’une primovaccination et d’une vaccination de rappel, prise en compte de vaccins supplémentaires) ([RO 2022 56](https://fedlex.data.admin.ch/eli/oc/2022/56)). Mise à jour par le ch. II al. 1 de l’O du 16 fév. 2022 (Expiration des certificats dont la validité est limitée à la Suisse) ([RO 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)), le ch. III de l’O du 30 mars 2022 ([RO 2022 206](https://fedlex.data.admin.ch/eli/oc/2022/206)) et le ch. I de l’O du DFI du 12 août 2022, en vigueur depuis le 22 août 2022 ([RO 2022 446](https://fedlex.data.admin.ch/eli/oc/2022/446)).
+[^t-2]: Nouvelle teneur selon le ch. I al. 1 de l’O du DFI du 1<sup>er</sup> fév. 2022 (Caractère complet d’une primovaccination et d’une vaccination de rappel, prise en compte de vaccins supplémentaires) ([RO 2022 56](https://fedlex.data.admin.ch/eli/oc/2022/56)). Mise à jour par le ch. II al. 1 de l’O du 16 fév. 2022 (Expiration des certificats dont la validité est limitée à la Suisse) ([RO 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)), le ch. III de l’O du 30 mars 2022 ([RO 2022 206](https://fedlex.data.admin.ch/eli/oc/2022/206)) et le ch. I de l’O du DFI du 23 sept. 2022, en vigueur depuis le 10 oct. 2022 ([RO 2022 532](https://fedlex.data.admin.ch/eli/oc/2022/532)).
 
 ### 1 Début de la validité et durée de validité maximale
 
@@ -863,9 +863,9 @@ Annexe 2[^t-2]
 - 3\.2.1 Le ch. 3.2 s’applique aux vaccins suivants:
 
 <table>
-<tr><th>Nom(s) du/des produit(s)</th><th>Fabricant</th></tr>
-<tr><td>COVID-19 Vaccine Janssen</td><td>Johnson&Johnson</td></tr>
-<tr><td>Convidecia (Ad5.CoV2-S)</td><td>CanSino</td></tr>
+<tr><th>Fabricant</th><th>Nom(s) du/des produit(s)</th></tr>
+<tr><td>Johnson&Johnson</td><td>COVID-19 Vaccine Janssen</td></tr>
+<tr><td>CanSino</td><td>Convidecia (Ad5.CoV2-S)</td></tr>
 </table>
 
 - 3\.2.2
@@ -884,15 +884,15 @@ Annexe 2[^t-2]
 - 3\.3.1 Le ch. 3.3 s’applique aux vaccins suivants:
 
 <table>
-<tr><th>Nom(s) du/des produit(s)</th><th>Fabricant</th></tr>
-<tr><td>Comirnaty (BNT162b2)</td><td>Pfizer/BioNTech</td></tr>
-<tr><td>Spikevax (mRNA-1273)</td><td>Moderna</td></tr>
-<tr><td>Vaxzevria (ChAdOx1 nCoV-19)</td><td>AstraZeneca</td></tr>
-<tr><td>Nuvaxovid (NVX-CoV2373)</td><td>Novavax</td></tr>
-<tr><td>BIBP P-CoV</td><td>Sinopharm Wuhan/Sinopharm Beijing</td></tr>
-<tr><td>CoronaVac</td><td>Sinovac</td></tr>
-<tr><td>Bharat Biotech Covaxin</td><td>Indian Council for Medical Research</td></tr>
-<tr><td>Valneva (VLA 2001)</td><td>Valneva</td></tr>
+<tr><th>Fabricant</th><th>Nom(s) du/des produits</th></tr>
+<tr><td>AstraZeneca</td><td>Vaxzevria (ChAdOx1 nCoV-19)</td></tr>
+<tr><td>Moderna</td><td>Spikevax (mRNA-1273) Spikevax Bivalent Original/Omicron BA.1</td></tr>
+<tr><td>Novavax</td><td>Nuvaxovid (NVX-CoV2373)</td></tr>
+<tr><td>Indian Council for Medical Research</td><td>Bharat Biotech Covaxin</td></tr>
+<tr><td>Pfizer/BioNTech</td><td>Comirnaty (BNT162b2) Comirnaty Bivalent Original/Omicron BA.1 Comirnaty Original/Omicron BA.4/5</td></tr>
+<tr><td>Sinopharm Wuhan/Sinopharm Beijing</td><td>BIBP P-CoV</td></tr>
+<tr><td>Sinovac</td><td>CoronaVac</td></tr>
+<tr><td>Valneva</td><td>Valneva (VLA 2001)</td></tr>
 </table>
 
 - 3\.3.2
@@ -914,18 +914,18 @@ Annexe 2[^t-2]
 - 3\.4.1 Le ch. 3.4 s’applique aux vaccins ne remplissant pas les conditions fixées à l’art. 13, al. 1, mais pouvant être complétés par un vaccin autorisé en Suisse:
 
 <table>
-<tr><th>Nom(s) du/des produit(s)</th><th>Fabricant</th><th>Complément avec un vaccin autorisé en Suisse:</th></tr>
-<tr><td>Sputnik light</td><td>Gamaleya National Centre of Epidemiology and Microbiology</td><td>Dose unique de Comirnaty (BNT162b2) ou de Spikevax (mRNA-1273), pour autant qu’au moins une dose ait déjà été administrée</td></tr>
-<tr><td>Sputnik V (Gam-COVID-Vac, rAd26-S, rAd5-S)</td><td>Gamaleya National Centre of Epidemiology and Microbiology</td><td>Dose unique de Comirnaty (BNT162b2) ou de Spikevax (mRNA-1273), pour autant qu’au moins une dose ait déjà été administrée</td></tr>
-<tr><td>KoviVac</td><td>Chumakov Center</td><td>Dose unique de Comirnaty (BNT162b2) ou de Spikevax (mRNA-1273), pour autant qu’au moins deux doses aient déjà été administrées</td></tr>
-<tr><td>QazVac (QazCovid-in)</td><td>Kazakhstan RIBSP</td><td>Dose unique de Comirnaty (BNT162b2) ou de Spikevax (mRNA-1273), pour autant qu’au moins deux doses aient déjà été administrées</td></tr>
-<tr><td>Medigen (MVC-COV1901)</td><td>Medigen Vaccine Biologics</td><td>Dose unique de Comirnaty (BNT162b2) ou de Spikevax (mRNA-1273), pour autant qu’au moins deux doses aient déjà été administrées</td></tr>
-<tr><td>SARS-CoV-2 Vaccine (KCONVAC)</td><td>Minhai Biotechnology</td><td>Dose unique de Comirnaty (BNT162b2) ou de Spikevax (mRNA-1273), pour autant qu’au moins deux doses aient déjà été administrées</td></tr>
-<tr><td>EpiVacCorona</td><td>VECTOR</td><td>Dose unique de Comirnaty (BNT162b2) ou de Spikevax (mRNA-1273), pour autant qu’au moins deux doses aient déjà été administrées</td></tr>
-<tr><td>SoberanaPlus (Plus CIGB-66)</td><td>Center for Genetic Engineering and Biotechnology</td><td>Dose unique de Comirnaty (BNT162b2) ou de Spikevax (mRNA-1273), pour autant qu’au moins une dose ait déjà été administrée</td></tr>
-<tr><td>RBD-Dimer, Zifivax (ZF2001)</td><td>Anhui Zhifei Longcom</td><td>Dose unique de Comirnaty (BNT162b2) ou de Spikevax (mRNA-1273), pour autant qu’au moins deux doses aient déjà été administrées</td></tr>
-<tr><td>Abadala (CIGB-66)</td><td>Center for Genetic Engineering and Biotechnology</td><td>Dose unique de Comirnaty (BNT162b2) ou de Spikevax (mRNA-1273), pour autant qu’au moins deux doses aient déjà été administrées</td></tr>
-<tr><td>ZyCoV-D</td><td>Zydus Cadila</td><td>Dose unique de Comirnaty (BNT162b2) ou de Spikevax (mRNA-1273), pour autant qu’au moins deux doses aient déjà été administrées</td></tr>
+<tr><th>Fabricant</th><th>Nom(s) du/des produit(s)</th><th>Complément avec un vaccin autorisé en Suisse:</th></tr>
+<tr><td>Gamaleya National Centre of Epidemiology and Microbiology</td><td>Sputnik light</td><td>Dose unique de Comirnaty (BNT162b2) ou de Spikevax (mRNA-1273), pour autant qu’au moins une dose ait déjà été administrée</td></tr>
+<tr><td>Gamaleya National Centre of Epidemiology and Microbiology</td><td>Sputnik V (Gam-COVID-Vac, rAd26-S, rAd5-S)</td><td>Dose unique de Comirnaty (BNT162b2) ou de Spikevax (mRNA-1273), pour autant qu’au moins une dose ait déjà été administrée</td></tr>
+<tr><td>Chumakov Center</td><td>KoviVac</td><td>Dose unique de Comirnaty (BNT162b2) ou de Spikevax (mRNA-1273), pour autant qu’au moins deux doses aient déjà été administrées</td></tr>
+<tr><td>Kazakhstan RIBSP</td><td>QazVac (QazCovid-in)</td><td>Dose unique de Comirnaty (BNT162b2) ou de Spikevax (mRNA-1273), pour autant qu’au moins deux doses aient déjà été administrées</td></tr>
+<tr><td>Medigen Vaccine Biologics</td><td>Medigen (MVC-COV1901)</td><td>Dose unique de Comirnaty (BNT162b2) ou de Spikevax (mRNA-1273), pour autant qu’au moins deux doses aient déjà été administrées</td></tr>
+<tr><td>Minhai Biotechnology</td><td>SARS-CoV-2 Vaccine (KCONVAC)</td><td>Dose unique de Comirnaty (BNT162b2) ou de Spikevax (mRNA-1273), pour autant qu’au moins deux doses aient déjà été administrées</td></tr>
+<tr><td>VECTOR</td><td>EpiVacCorona</td><td>Dose unique de Comirnaty (BNT162b2) ou de Spikevax (mRNA-1273), pour autant qu’au moins deux doses aient déjà été administrées</td></tr>
+<tr><td>Center for Genetic Engineering and Biotechnology</td><td>SoberanaPlus (Plus CIGB-66)</td><td>Dose unique de Comirnaty (BNT162b2) ou de Spikevax (mRNA-1273), pour autant qu’au moins une dose ait déjà été administrée</td></tr>
+<tr><td>Anhui Zhifei Longcom</td><td>RBD-Dimer, Zifivax (ZF2001)</td><td>Dose unique de Comirnaty (BNT162b2) ou de Spikevax (mRNA-1273), pour autant qu’au moins deux doses aient déjà été administrées</td></tr>
+<tr><td>Center for Genetic Engineering and Biotechnology</td><td>Abadala (CIGB-66)</td><td>Dose unique de Comirnaty (BNT162b2) ou de Spikevax (mRNA-1273), pour autant qu’au moins deux doses aient déjà été administrées</td></tr>
+<tr><td>Zydus Cadila</td><td>ZyCoV-D</td><td>Dose unique de Comirnaty (BNT162b2) ou de Spikevax (mRNA-1273), pour autant qu’au moins deux doses aient déjà été administrées</td></tr>
 </table>
 
 - 3\.4.2 Indication du caractère complet après complément avec un vaccin autorisé en Suisse: «1/1».
@@ -941,11 +941,11 @@ Annexe 2[^t-2]
 La preuve au sens de l’art. 13, al. 1, let. d, est réputée apportée pour les vaccins produits sous licence suivants:
 
 <table>
-<tr><th>Nom(s) du/des produit(s) sous licence</th><th>Fabricant du/des produit(s) sous licence</th><th>équivaut à</th></tr>
-<tr><td>Covishield (ChAdOx1\_nCoV-19)</td><td>Serum Institute of India</td><td>Vaxzevria® (ChAdOx1 nCoV-19)</td></tr>
-<tr><td>Covid-19 vaccine recombinant</td><td>Fundação Instituto Oswaldo Cruz (FIOCRUZ)</td><td></td></tr>
-<tr><td>R-Covi</td><td>R-Pharma CJSC</td><td></td></tr>
-<tr><td>Covovax (NXV-CoV2373)</td><td>Serum Institute of India</td><td>Nuvaxovid (NVX-CoV2373)</td></tr>
+<tr><th>Fabricant du/des produit(s) sous licence</th><th>Nom(s) du/des produit(s) sous licence</th><th>équivaut à</th></tr>
+<tr><td>Serum Institute of India</td><td>Covishield (ChAdOx1\_nCoV-19)</td><td>Vaxzevria (ChAdOx1 nCoV-19) Vaxzevria (ChAdOx1 nCoV-19 ) Vaxzevria (ChAdOx1 nCoV-19 )</td></tr>
+<tr><td>Fundação Instituto Oswaldo Cruz (FIOCRUZ)</td><td>Covid-19 vaccine recombinant</td><td></td></tr>
+<tr><td>R-Pharma CJSC</td><td>R-Covi</td><td></td></tr>
+<tr><td>Serum Institute of India</td><td>Covovax (NXV-CoV2373)</td><td>Nuvaxovid (NVX-CoV2373)</td></tr>
 </table>
 
 [^annex2-lvlu1-lvl3-1]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)

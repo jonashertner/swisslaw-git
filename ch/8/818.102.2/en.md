@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordinance of 4 June 2021 on Certificates to Prove COVID-19 Vaccination, COVID-19 Recovery or a COVID-19 Test Result (COVID-19 Certificates Ordinance)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: en
-version: 2022-08-22
+version: 2022-10-10
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220822/en/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220822-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220822/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20221010/en/xml/fedlex-data-admin-ch-eli-cc-2021-325-20221010-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20221010/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Certificates Ordinance)
 
-of 4 June 2021 (Status as of 22 August 2022)
+of 4 June 2021 (Status as of 10 October 2022)
 
 The Swiss Federal Council,
 
@@ -800,19 +800,19 @@ Annex 1[^t-1]
 
 COVID-19 certificates that are in a human-readable form must contain the following statement:
 
-“This certificate is not a travel document.
+«This certificate is not a travel document.
 
 The scientific evidence on COVID-19 vaccination, testing and recovery continues to evolve, also in view of new variants of concern of the virus.
 
-Before travelling, please check the applicable public health measures and related restrictions applied at the point of destination.”
+Before travelling, please check the applicable public health measures and related restrictions applied at the point of destination.»
 
 Annex 2[^t-2]
 
-(Arts. 14, 15 and 33)
+(Arts. 13 para. 3, 14, 15 and 33)
 
 ## Special provisions concerning COVID-19 vaccination certificates
 
-[^t-2]: Amended by No I para. 1 of the FDHA O of 1 Feb. 2022 (Level of Basic Immunisation and Booster Vaccination, Recognition of other Vaccines) ([AS 2022 56](https://fedlex.data.admin.ch/eli/oc/2022/56)). Revised by No II para. 1 of the O of 16 Feb. 2022 (Expiry of COVID-19 Certificates only valid in Switzerland) ([AS 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)), No III of the O of 30 March 2022 ([AS 2022 206](https://fedlex.data.admin.ch/eli/oc/2022/206)) and No I of the FDHA O of 12 Aug. 2022, in force since 22 Aug. 2022 ([AS 2022 446](https://fedlex.data.admin.ch/eli/oc/2022/446)).
+[^t-2]: Amended by No I para. 1 of the FDHA O of 1 Feb. 2022 (Level of Basic Immunisation and Booster Vaccination, Recognition of other Vaccines) ([AS 2022 56](https://fedlex.data.admin.ch/eli/oc/2022/56)). Revised by No II para. 1 of the O of 16 Feb. 2022 (Expiry of COVID-19 Certificates only valid in Switzerland) ([AS 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)), No III of the O of 30 March 2022 ([AS 2022 206](https://fedlex.data.admin.ch/eli/oc/2022/206)) and No I of the FDHA O of 23 Sept. 2022, in force since 10 Oct. 2022 ([AS 2022 532](https://fedlex.data.admin.ch/eli/oc/2022/532)).
 
 ### 1 Start of validity and maximum duration
 
@@ -841,8 +841,8 @@ Annex 2[^t-2]
 
   An indication of the level of vaccination is provided:
 
-  - a. in the case of full vaccination: by the codes set out in numbers 3.2–3.4, such as “3/3”;
-  - b. in the case of incomplete vaccination: according to the "A/B" system, where A stands for the number of vaccine doses received and B for the number of vaccine doses scheduled at the time of receiving the vaccine dose according to the vaccination programme concerned.
+  - a. in the case of full vaccination: by the codes set out in numbers 3.2–3.4, such as «3/3»;
+  - b. in the case of incomplete vaccination: according to the «A/B» system, where A stands for the number of vaccine doses received and B for the number of vaccine doses scheduled at the time of receiving the vaccine dose according to the vaccination programme concerned.
 
 - 3\.1.2
 
@@ -863,74 +863,74 @@ Annex 2[^t-2]
 - 3\.2.1 Number 3.2 applies to the following vaccines:
 
 <table>
-<tr><th>Product name(s)</th><th>Manufacturer</th></tr>
-<tr><td>Janssen COVID-19 vaccine</td><td>Johnson&Johnson</td></tr>
-<tr><td>Convidecia (Ad5.CoV2‑S)</td><td>CanSino</td></tr>
+<tr><td>Manufacturer</td><td>Product name(s)</td></tr>
+<tr><td>Johnson&Johnson</td><td>Janssen COVID-19 vaccine</td></tr>
+<tr><td>CanSino</td><td>Convidecia (Ad5.CoV2‑S)</td></tr>
 </table>
 
 - 3\.2.2
 
   Indication of level of vaccination in the case of basic immunisation:
 
-  - a. basic immunisation with a single vaccine dose: “1/1”;
-  - b. basic immunisation on the continuation of a vaccination programme started with a different vaccine, for example in the case of contraindications: “2/2”.
+  - a. basic immunisation with a single vaccine dose: «1/1»;
+  - b. basic immunisation on the continuation of a vaccination programme started with a different vaccine, for example in the case of contraindications: «2/2».
 
 - 3\.2.3
 
   Indication of level of vaccination in the case of booster vaccinations:
 
-  - a. booster vaccination following basic immunisation with a single vaccine dose (No 3.2.2 let. a): “2/1” (for further doses: “[2+X]/1”);
-  - b. booster vaccination following basic immunisation begun with a different vaccine (No 3.2.2 let. b): “3/3” (for further doses: “[3+X]/[3+X]”).
+  - a. booster vaccination following basic immunisation with a single vaccine dose (No 3.2.2 let. a): «2/1» (for further doses: « [2+X]/1»);
+  - b. booster vaccination following basic immunisation begun with a different vaccine (No 3.2.2 let. b): «3/3» (for further doses: «[3+X]/[3+X]»).
 
 - 3\.3 Two-dose vaccines
 - 3\.3.1 Number 3.3 applies to the following vaccines:
 
 <table>
-<tr><th>Product name(s)</th><th>Manufacturer</th></tr>
-<tr><td>Comirnaty (BNT162b2)</td><td>Pfizer/BioNTech</td></tr>
-<tr><td>Spikevax (mRNA-1273)</td><td>Moderna</td></tr>
-<tr><td>Vaxzevria (ChAdOx1 nCoV-19)</td><td>AstraZeneca</td></tr>
-<tr><td>Nuvaxovid (NVX-CoV2373)</td><td>Novavax</td></tr>
-<tr><td>BIBP P-CoV</td><td>Sinopharm Wuhan /Sinopharm Beijing</td></tr>
-<tr><td>CoronaVac</td><td>Sinovac</td></tr>
-<tr><td>Bharat Biotech Covaxin</td><td>Indian Council for Medical Research</td></tr>
-<tr><td>Valneva (VLA 2001)</td><td>Valneva</td></tr>
+<tr><th>Manufacturer</th><th>Product name(s)</th></tr>
+<tr><td>AstraZeneca</td><td>Vaxzevria (ChAdOx1 nCoV-19)</td></tr>
+<tr><td>Moderna</td><td>Spikevax (mRNA-1273) Spikevax Bivalent Original/Omicron BA.1</td></tr>
+<tr><td>Novavax</td><td>Nuvaxovid (NVX-CoV2373)</td></tr>
+<tr><td>Indian Council for Medical Research</td><td>Bharat Biotech Covaxin</td></tr>
+<tr><td>Pfizer/BioNTech</td><td>Comirnaty (BNT162b2) Comirnaty Bivalent Original/Omicron BA.1 Comirnaty Original/Omicron BA.4/5</td></tr>
+<tr><td>Sinopharm Wuhan/Sinopharm Beijing</td><td>BIBP P-CoV</td></tr>
+<tr><td>Sinovac</td><td>CoronaVac</td></tr>
+<tr><td>Valneva</td><td>Valneva (VLA 2001)</td></tr>
 </table>
 
 - 3\.3.2
 
   Indication of level of vaccination in the case of basic immunisation:
 
-  - a. basic immunisation with two vaccine doses: “2/2”;
-  - b. basic immunisation through the combination of a single vaccine dose with an earlier infection with Sars-Cov-2 (No 3.1.2): “1/1”.
+  - a. basic immunisation with two vaccine doses: «2/2»;
+  - b. basic immunisation through the combination of a single vaccine dose with an earlier infection with Sars-Cov-2 (No 3.1.2): «1/1».
 
 - 3\.3.3
 
   Indication of level of vaccination in the case of booster vaccinations:
 
-  - a. booster vaccination following basic immunisation with two vaccine doses (No 3.3.2 let. a): “3/3” (for further doses: “[3+X]/[3+X]”);
-  - b. booster vaccination following basic immunisation through the combination of a single vaccine dose with an earlier infection in accordance with No 3.3.2 let. b: “2/1” (for further doses: “[2+X]/1”).
+  - a. booster vaccination following basic immunisation with two vaccine doses (No 3.3.2 let. a): «3/3» (for further doses: « [3+X]/[3+X]»);
+  - b. booster vaccination following basic immunisation through the combination of a single vaccine dose with an earlier infection in accordance with No 3.3.2 let. b: «2/1» (for further doses: «[2+X]/1»).
 
 - 3\.4 Supplementing vaccinations with unrecognised vaccines
 - 3\.4.1 Number 3.4 applies to vaccinations with the following vaccines that do not meet the requirements of Article 13 paragraph 1, but which may be used to supplement a vaccine authorised in Switzerland:
 
 <table>
-<tr><th>Product name(s)</th><th>Manufacturer</th><th>Supplement with a vaccine authorised in Switzerland</th></tr>
-<tr><th>Sputnik light</th><th>Gamaleya National Centre of Epidemiology and Microbiology</th><th>Single dose of Comirnaty (BNT162b2) or Spikevax (mRNA-1273), if at least one dose has already been administered</th></tr>
-<tr><th>Sputnik V (Gam-COVID-Vac, rAd26-S, rAd5-S)</th><th>Gamaleya National Centre of Epidemiology and Microbiology</th><th>Single dose of Comirnaty (BNT162b2) or Spikevax (mRNA-1273), if at least one dose has already been administered</th></tr>
-<tr><td>KoviVac</td><td>Chumakov Center</td><td>Single dose of Comirnaty (BNT162b2) or Spikevax (mRNA-1273), if at least two doses have already been administered</td></tr>
-<tr><td>QazVac (QazCOVID-in)</td><td>Kazakhstan RIBSP</td><td>Single dose of Comirnaty (BNT162b2) or Spikevax (mRNA-1273), if at least two doses have already been administered</td></tr>
-<tr><td>Medigen (MVC-COV1901)</td><td>Medigen Vaccine Biologics</td><td>Single dose of Comirnaty (BNT162b2) or Spikevax (mRNA-1273), if at least two doses have already been administered</td></tr>
-<tr><td>SARS-CoV-2 Vaccine (KCONVAC)</td><td>Minhai Biotechnology</td><td>Single dose of Comirnaty (BNT162b2) or Spikevax (mRNA-1273), if at least two doses have already been administered</td></tr>
-<tr><td>EpiVacCorona</td><td>VECTOR</td><td>Single dose of Comirnaty (BNT162b2) or Spikevax (mRNA-1273), if at least two doses have already been administered</td></tr>
-<tr><td>SoberanaPlus (Plus CIGB-66)</td><td>Center for Genetic Engineering and Biotechnology</td><td>Single dose of Comirnaty (BNT162b2) or Spikevax (mRNA-1273), if at least one dose has already been administered</td></tr>
-<tr><td>RBD-Dimer, Zifivax (ZF2001)</td><td>Anhui Zhifei Longcom</td><td>Single dose of Comirnaty (BNT162b2) or Spikevax (mRNA-1273), if at least two doses have already been administered</td></tr>
-<tr><td>Abadala (CIGB-66)</td><td>Center for Genetic Engineering and Biotechnology</td><td>Single dose of Comirnaty (BNT162b2) or Spikevax (mRNA-1273), if at least two doses have already been administered</td></tr>
-<tr><td>ZyCoV-D</td><td>Zydus Cadila</td><td>Single dose of Comirnaty (BNT162b2) or Spikevax (mRNA-1273), if at least two doses have already been administered</td></tr>
+<tr><th>Manufacturer</th><th>Product name(s)</th><th>Supplement with a vaccine authorised in Switzerland</th></tr>
+<tr><td>Gamaleya National Centre of Epidemiology and Microbiology</td><td>Sputnik light</td><td>Single dose of Comirnaty (BNT162b2) or Spikevax (mRNA-1273), if at least one dose has already been administered</td></tr>
+<tr><td>Gamaleya National Centre of Epidemiology and Microbiology</td><td>Sputnik V (Gam-COVID-Vac, rAd26-S, rAd5-S)</td><td>Single dose of Comirnaty (BNT162b2) or Spikevax (mRNA-1273), if at least one dose has already been administered</td></tr>
+<tr><td>Chumakov Center</td><td>KoviVac</td><td>Single dose of Comirnaty (BNT162b2) or Spikevax (mRNA-1273), if at least two doses have already been administered</td></tr>
+<tr><td>Kazakhstan RIBSP</td><td>QazVac (QazCovid-in)</td><td>Single dose of Comirnaty (BNT162b2) or Spikevax (mRNA-1273), if at least two doses have already been administered</td></tr>
+<tr><td>Medigen Vaccine Biologics</td><td>Medigen (MVC-COV1901)</td><td>Single dose of Comirnaty (BNT162b2) or Spikevax (mRNA-1273), if at least two doses have already been administered</td></tr>
+<tr><td>Minhai Biotechnology</td><td>SARS-CoV-2 Vaccine (KCONVAC)</td><td>Single dose of Comirnaty (BNT162b2) or Spikevax (mRNA-1273), if at least two doses have already been administered</td></tr>
+<tr><td>VECTOR</td><td>EpiVacCorona</td><td>Single dose of Comirnaty (BNT162b2) or Spikevax (mRNA-1273), if at least two doses have already been administered</td></tr>
+<tr><td>Center for Genetic Engineering and Biotechnology</td><td>SoberanaPlus (Plus CIGB-66)</td><td>Single dose of Comirnaty (BNT162b2) or Spikevax (mRNA-1273), if at least one dose has already been administered</td></tr>
+<tr><td>Anhui Zhifei Longcom</td><td>RBD-Dimer, Zifivax (ZF2001)</td><td>Single dose of Comirnaty (BNT162b2) or Spikevax (mRNA-1273), if at least two doses have already been administered</td></tr>
+<tr><td>Center for Genetic Engineering and Biotechnology</td><td>Abadala (CIGB-66)</td><td>Single dose of Comirnaty (BNT162b2) or Spikevax (mRNA-1273), if at least two doses have already been administered</td></tr>
+<tr><td>Zydus Cadila</td><td>ZyCoV-D</td><td>Single dose of Comirnaty (BNT162b2) or Spikevax (mRNA-1273), if at least two doses have already been administered</td></tr>
 </table>
 
-- 3\.4.2 Indication of level of vaccination if supplemented with a vaccine authorised in Switzerland: “1/1”.
-- 3\.4.3 Indication of level of vaccination if a further dose is administered following a supplement in accordance with Number 3.4.2: “2/1” (for further doses: “[2+X]/1”).
+- 3\.4.2 Indication of level of vaccination if supplemented with a vaccine authorised in Switzerland: «1/1».
+- 3\.4.3 Indication of level of vaccination if a further dose is administered following a supplement in accordance with Number 3.4.2: «2/1» (for further doses: «[2+X]/1»).
 - 3\.5 Combinations of vaccines (heterologous vaccinations)
 - 3\.5.1 Vaccines that are authorised in Switzerland or are authorised by the European Medicines Agency for the EU in accordance with Regulation (EC) No 726/2004[^annex2-lvlu1-lvl3-2] may be combined freely with each other for the purpose of basic immunisation.
 - 3\.5.2 The vaccines in accordance with numbers 3.2 and 3.3 may be combined with any basic immunisation as a booster vaccination. This also applies to combinations with vaccination supplemented in accordance with Number 3.4.
@@ -939,11 +939,11 @@ Annex 2[^t-2]
 Proof in accordance with Article 13 paragraph 1 letter d is considered to be provided for the following licensed vaccine products:
 
 <table>
-<tr><th>Name(s) of the licensed product</th><th>Manufacturer of the licensed product</th><th>Corresponds to</th></tr>
-<tr><td>Covishield (ChAdOx1\_nCoV-19)</td><td>Serum Institute of India</td><td>Vaxzevria (ChAdOx1 nCoV-19)</td></tr>
-<tr><td>COVID-19 vaccine recombinant</td><td>Fundação Instituto Oswaldo Cruz (FIOCRUZ)</td><td></td></tr>
-<tr><td>R-Covi</td><td>R-Pharma CJSC</td><td></td></tr>
-<tr><td>Covovax (NXV-CoV2373)</td><td>Serum Institute of India</td><td>Nuvaxovid (NVX-CoV2373)</td></tr>
+<tr><th>Manufacturer of the licensed product</th><th>Name(s) of the licensed product</th><th>Corresponds to</th></tr>
+<tr><td>Serum Institute of India</td><td>Covishield (ChAdOx1\_nCoV-19)</td><td>Vaxzevria (ChAdOx1 nCoV-19)</td></tr>
+<tr><td>Fundação Instituto Oswaldo Cruz (FIOCRUZ)</td><td>Covid-19 vaccine recombinant</td><td>Vaxzevria (ChAdOx1 nCoV-19)</td></tr>
+<tr><td>R-Pharma CJSC</td><td>R-Covi</td><td>Vaxzevria (ChAdOx1 nCoV-19)</td></tr>
+<tr><td>Serum Institute of India</td><td>Covovax (NXV-CoV2373)</td><td>Nuvaxovid (NVX-CoV2373)</td></tr>
 </table>
 
 [^annex2-lvlu1-lvl3-1]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
@@ -1093,18 +1093,18 @@ Annex 6[^t-7]
 
 [^t-7]: Inserted by No II para. 4 of the O of 16 Feb. 2022 (Expiry of COVID-19 Certificates only valid in Switzerland), with effect from 17 Feb. 2022 ([AS 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)).
 
-- 1\. “3G”: Access for persons with a vaccination, recovery or test certificate or with an exemption certificate under Article 1 letter a number 4 in its version of 3 November 2021[^annex6-lvlu1-1].
-- 2\. “2G”: Access for persons with a vaccination or recovery certificate or with an exemption certificate under Article 1 letter a number 4 in its version of 3 November 2021[^annex6-lvlu1-2].
+- 1\. «3G»: Access for persons with a vaccination, recovery or test certificate or with an exemption certificate under Article 1 letter a number 4 in its version of 3 November 2021[^annex6-lvlu1-1].
+- 2\. «2G»: Access for persons with a vaccination or recovery certificate or with an exemption certificate under Article 1 letter a number 4 in its version of 3 November 2021[^annex6-lvlu1-2].
 - 3\.
 
-  “2G+”: Access for persons with:
+  «2G+»: Access for persons with:
 
   - a. both a vaccination or recovery certificate and a test certificate;
   - b. a vaccination certificate, the period of validity of which did not begin more than 120 days previously;
   - c. a recovery certificate, the period of validity of which did not begin more than 120 days previously and which was not issued on the basis of an antibody test under Article 16 paragraph 3 in its version of 3 November 2021[^annex6-lvlu1-3]; or
   - d. an exemption certificate under Article 1 letter a number 4 in its version of 3 November 2021[^annex6-lvlu1-4].
 
-- 4\. “Test certificate”: Access for persons with a test certificate or with an exemption certificate under Article 1 letter a number 4 in its version of 3 November 2021[^annex6-lvlu1-5].
+- 4\. «Test certificate»: Access for persons with a test certificate or with an exemption certificate under Article 1 letter a number 4 in its version of 3 November 2021[^annex6-lvlu1-5].
 
 [^annex6-lvlu1-1]: [AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [813](https://fedlex.data.admin.ch/eli/oc/2021/813)
 [^annex6-lvlu1-2]: [AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [813](https://fedlex.data.admin.ch/eli/oc/2021/813)
