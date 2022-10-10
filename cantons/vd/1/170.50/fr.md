@@ -1,17 +1,17 @@
 ---
 canton: VD
 number: "170.50"
-title: ARRÊTÉ du 21.09.2022 de mise en vigueur
+title: ARRÊTÉ du 05.10.2022 de mise en vigueur
 language: fr
-version: 2022-09-27
-url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/170.50?id=27963afe-94d6-41e6-9f3f-80df98e77a64"
+version: 2022-10-11
+url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/170.50?id=be785b77-d115-4985-a152-de6e5b11c94a"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VD. Seule la publication officielle du canton fait foi.
 
 # ARRÊTÉ de mise en vigueur
 
-du 21 septembre 2022
+du 5 octobre 2022
 
 LE CONSEIL D'ÉTAT DU CANTON DE VAUD
 
@@ -21,11 +21,15 @@ arrête
 
 #### Art. 1
 
-<sup>1</sup> Les décrets ci-après des 31 mai, 14, 15 et 21 juin 2022, publiés dans la "Feuille des avis officiels du Canton de Vaud" des 28 juin, 1er et 5 juillet 2022, entrent en vigueur avec effet :
+<sup>1</sup> Les actes législatifs ci-après des 24 et 31 mai 2022, publiés dans la "Feuille des avis officiels du Canton de Vaud" du 14 juin 2022, entrent en vigueur avec effet au 1er janvier 2023 :
 
-- a. au 1er février 2022 :
-- 1\. décret du 14 juin 2022 autorisant l'ouverture d'une formation passerelle complémentaire technique afin de pérenniser le projet-pilote de modules complémentaires techniques (MCT) vers les études HES dans le domaine technique pour les diplômés de l'enseignement général (BLV 419.00).
-- b. au 15 septembre 2022 :
-- 1\. décret du 31 mai 2022 portant adhésion du Canton de Vaud à l'Accord intercantonal du 15 novembre 2019 sur les marchés publics (D-AIMP) (BLV 726.011) ;
-- 2\. décret du 15 juin 2022 relatif à la ratification, par le Canton de Vaud, de la révision du 23 novembre 2018 de la Convention intercantonale relative aux institutions sociales (CIIS) (BLV 850.518) ;
-- 3\. décret du 21 juin 2022 accordant au Conseil d'Etat un crédit additionnel de bouclement de CHF 2'160'920.90 au crédit d'investissement de CHF 5'684'000.- octroyé par décret du 5 octobre 2010 afin de financer l'assainissement énergétique du bâtiment de l'Ecole professionnelle commerciale de Lausanne (EPCL) (BLV 413.00).
+- 1\. loi du 24 mai 2022 modifiant celle du 12 décembre 1979 d'organisation judiciaire (BLV 173.01) ;
+- 2\. loi du 24 mai 2022 modifiant celle du 19 mai 2009 d'introduction du Code de procédure pénale suisse (BLV 312.01) ;
+- 3\. loi du 24 mai 2022 modifiant celle du 19 mai 2009 sur la médiation administrative (BLV 170.31) ;
+- 4\. loi du 24 mai 2022 modifiant celle du 12 mars 2013 sur le Contrôle cantonal des finances (BLV 614.11) ;
+- 5\. loi du 24 mai 2022 modifiant celle du 12 mars 2013 sur la Cour des comptes (BLV 614.05) ;
+- 6\. loi du 24 mai 2022 modifiant celle du 11 septembre 2007 sur la protection des données personnelles (BLV 172.65) ;
+- 7\. loi du 24 mai 2022 modifiant celle du 8 mai 2007 sur le Grand Conseil (BLV 171.01) ;
+- 8\. décret du 24 mai 2022 abrogeant la loi du 8 mars 2011 sur la haute surveillance du Tribunal cantonal (BLV 173.35) ;
+- 9\. loi du 31 mai 2022 modifiant celle du 19 mai 2009 sur le Ministère public (BLV 173.21) ;
+- 10\. loi du 31 mai 2022 sur le Conseil de la magistrature (BLV 173.07).
