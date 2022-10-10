@@ -3,11 +3,11 @@ sr: "0.232.112.11"
 title: Markenrechtsvertrag von Singapur vom 27. März 2006 (mit Ausführungsordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/150"
 language: de
-version: 2020-07-13
+version: 2022-10-11
 adopted: 2006-03-27
 in_force: 2009-03-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/150/20200713/de/xml/fedlex-data-admin-ch-eli-cc-2009-150-20200713-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/150/20200713/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/150/20221011/de/xml/fedlex-data-admin-ch-eli-cc-2009-150-20221011-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/150/20221011/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -24,7 +24,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 6. Juli 2007
 
 In Kraft getreten für die Schweiz am 16. März 2009
 
-(Stand am 13. Juli 2020)
+(Stand am 11. Oktober 2022)
 
 ## Verzeichnis der Artikel
 
@@ -997,7 +997,7 @@ Für die Zwecke des Artikels 13 Absatz 1 Buchstabe c beginnt der Zeitraum, in de
 - i) Dokumente zur Begründung der beantragten Streichung der Eintragung der Lizenz, oder
 - ii) eine nicht beglaubigte Erklärung zur Löschung der Lizenz, deren Inhalt dem Formblatt zur Erklärung der Löschung der Lizenz in dieser Ausführungsordnung entspricht und die sowohl vom Inhaber als auch vom Lizenznehmer unterschrieben ist.
 
-Muster des Internationalen Formblatts Nr. 1*[^t-1]*
+Muster des Internationalen Formblatts Nr. 1[^t-1]
 
 ## Anmeldung zur Eintragung einer Marke
 
@@ -1054,7 +1054,7 @@ vorgelegt bei dem Amt \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 <tr><td>3.2.3</td><td>◻</td><td colspan="2">Die Vollmacht ist beigefügt.</td></tr>
 <tr><td>3.2.4</td><td>◻</td><td colspan="2">Die Vollmacht wird zu einem späteren Zeitpunkt vorgelegt.</td></tr>
 <tr><td>3.2.5</td><td>◻</td><td colspan="2">Eine Vollmacht ist nicht erforderlich.</td></tr>
-<tr><td>4.</td><td colspan="3">Zustellungsanschrift**[^annexu1-lvlu1-7]**</td></tr>
+<tr><td>4.</td><td colspan="3">Zustellungsanschrift[^annexu1-lvlu1-7]</td></tr>
 </table>
 
 [^annexu1-lvlu1-1]: Hier kann das dem vorliegenden Antrag vom Anmelder zugewiesene Aktenzeichen und/oder das vom Vertreter zugewiesene Aktenzeichen angegeben werden.
@@ -1080,7 +1080,7 @@ vorgelegt bei dem Amt \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 <tr><td>5.5.1</td><td>◻</td><td colspan="2">liegt bei.</td></tr>
 <tr><td>5.5.2</td><td>◻</td><td colspan="2">wird innerhalb von drei Monaten ab dem Anmeldedatum der vorliegenden Anmeldung vorgelegt.</td></tr>
 <tr><td>5.6</td><td>◻</td><td colspan="2">Dieses Kästchen ist anzukreuzen, falls die Priorität von mehr als einer Anmeldung beansprucht wird; in diesem Fall sind die Anmeldungen auf einem Zusatzblatt anzugeben, und für jede von ihnen sind die unter den Nummern 5.1, 5.2, 5.3, 5.4 und 5.5 genannten Angaben und die jeweiligen Waren und/oder Dienstleistungen anzugeben.</td></tr>
-<tr><td>6.</td><td colspan="3">Eintragung(en) im Ursprungsland (bei der Ursprungsbehörde)**[^t-4]**</td></tr>
+<tr><td>6.</td><td colspan="3">Eintragung(en) im Ursprungsland (bei der Ursprungsbehörde)[^t-4]</td></tr>
 <tr><td></td><td>◻</td><td colspan="2">Die Bestätigung(en) über die Eintragung im Ursprungsland (bei der Ursprungsbehörde) ist (sind) beigefügt.</td></tr>
 </table>
 
@@ -1197,7 +1197,7 @@ Aktenzeichen der Person, die den Vertreter bestellt:[^annexu1-lvlu1-8]
 <table>
 <tr><td>1.</td><td colspan="2">Bestellung</td></tr>
 <tr><td></td><td colspan="2">Der Unterzeichner bestellt hiermit die unter Nummer 3 bezeichnete Person zu seinem Vertreter.</td></tr>
-<tr><td>2.</td><td colspan="2">Name der Person, die den Vertreter bestellt**[^annexu1-lvlu1-9]**</td></tr>
+<tr><td>2.</td><td colspan="2">Name der Person, die den Vertreter bestellt[^annexu1-lvlu1-9]</td></tr>
 <tr><td>3.</td><td colspan="2">Vertreter</td></tr>
 <tr><td>[tab] 3.1</td><td colspan="2">[tab] Name:</td></tr>
 <tr><td>[tab] 3.2</td><td colspan="2">[tab] Anschrift (einschliesslich Postleitzahl und Land):</td></tr>
@@ -1395,7 +1395,7 @@ Aktenzeichen des Vertreters<sup>\*</sup>:
 <tr><td>9.2.4</td><td>◻</td><td colspan="2">Die Vollmacht wird zu einem späteren Zeitpunkt vorgelegt.</td></tr>
 <tr><td>9.2.5</td><td>◻</td><td colspan="2">Eine Vollmacht ist nicht erforderlich.</td></tr>
 <tr><td colspan="4">(Formblatt Nr. 4, Seite 6)</td></tr>
-<tr><td>10.</td><td colspan="3">Zustellungsanschrift des neuen Inhabers**[^annexu1-lvlu1-23]**</td></tr>
+<tr><td>10.</td><td colspan="3">Zustellungsanschrift des neuen Inhabers[^annexu1-lvlu1-23]</td></tr>
 <tr><td>11.</td><td colspan="3">Unterschrift oder Siegel</td></tr>
 <tr><td>11.1</td><td colspan="3">Name der natürlichen Person, die unterschreibt oder deren Siegel benutzt wird:</td></tr>
 <tr><td>11.2</td><td colspan="3">Das entsprechende Kästchen ist anzukreuzen für die Unterschriftsleistung oder die Benutzung des Siegels durch oder für</td></tr>
@@ -1697,13 +1697,13 @@ Aktenzeichen des Vertreters<sup>\*</sup>:
 <tr><td></td><td colspan="3">E-Mail-Adresse:</td></tr>
 <tr><td>4.3</td><td colspan="3">Laufende Nummer der Vollmacht:[^annexu1-lvlu1-36]</td></tr>
 <tr><td>5.</td><td colspan="3">Zustellungsanschrift des Inhabers</td></tr>
-<tr><td>6.</td><td colspan="3">Waren und/oder Dienstleistungen**[^annexu1-lvlu1-37]**</td></tr>
+<tr><td>6.</td><td colspan="3">Waren und/oder Dienstleistungen[^annexu1-lvlu1-37]</td></tr>
 <tr><td>6.1</td><td>◻</td><td colspan="2">Die Verlängerung wird für alle Waren und/oder Dienstleistungen, auf die sich die Eintragung bezieht, beantragt.</td></tr>
 <tr><td>6.2</td><td>◻</td><td colspan="2">Die Verlängerung wird nur für folgende Waren und/oder Dienstleistungen, auf die sich die Eintragung bezieht, beantragt:[^annexu1-lvlu1-38]</td></tr>
 <tr><td>6.3</td><td>◻</td><td colspan="2">Die Verlängerung wird für alle Waren und/oder Dienstleistungen, auf die sich die Eintragung bezieht, mit Ausnahme der folgenden beantragt:[^annexu1-lvlu1-39]</td></tr>
 <tr><td>6.4</td><td>◻</td><td colspan="2">Dieses Kästchen ist anzukreuzen, wenn der obige Platz nicht ausreicht; in diesem Fall ist ein Zusatzblatt zu benutzen.</td></tr>
 <tr><td colspan="4">(Formblatt Nr. 8, Seite 3)</td></tr>
-<tr><td>7.</td><td colspan="3">Die den vorliegenden Antrag auf Verlängerung einreichende Person, bei der es sich weder um den Inhaber noch um den Vertreter des Inhabers handelt**[^annexu1-lvlu1-40]**</td></tr>
+<tr><td>7.</td><td colspan="3">Die den vorliegenden Antrag auf Verlängerung einreichende Person, bei der es sich weder um den Inhaber noch um den Vertreter des Inhabers handelt[^annexu1-lvlu1-40]</td></tr>
 <tr><td></td><td>◻</td><td colspan="2">Dieses Kästchen ist anzukreuzen, wenn der Antrag auf Verlängerung von einer anderen Person als dem Inhaber oder dem Vertreter des Inhabers eingereicht wird.</td></tr>
 <tr><td>7.1</td><td colspan="3">Handelt es sich bei dem Antragsteller um eine natürliche Person,</td></tr>
 <tr><td>[tab]</td><td colspan="3">a) deren Familien- oder Hauptname:</td></tr>
@@ -1779,7 +1779,7 @@ Aktenzeichen des Vertreters des Lizenznehmers<sup>\*</sup>:
 <tr><td></td><td colspan="3">E-Mail-Adresse:</td></tr>
 <tr><td>4.3</td><td colspan="3">Nummer der Eintragung beim Amt (falls vorhanden):</td></tr>
 <tr><td>4.4</td><td colspan="3">Nummer der Vollmacht:[^annexu1-lvlu1-44]</td></tr>
-<tr><td>5.</td><td colspan="3">Zustellungsanschrift des(der) Inhaber(s)/Anmelder(s)**[^annexu1-lvlu1-45]**</td></tr>
+<tr><td>5.</td><td colspan="3">Zustellungsanschrift des(der) Inhaber(s)/Anmelder(s)[^annexu1-lvlu1-45]</td></tr>
 <tr><td colspan="4">(Formblatt Nr. 9, Seite 3)</td></tr>
 <tr><td>6.</td><td colspan="3">Lizenznehmer</td></tr>
 <tr><td>6.1</td><td colspan="3">Handelt es sich beim Lizenznehmer um eine natürliche Person,</td></tr>
@@ -1804,7 +1804,7 @@ Aktenzeichen des Vertreters des Lizenznehmers<sup>\*</sup>:
 <tr><td colspan="4">(Formblatt Nr. 9, Seite 4)</td></tr>
 <tr><td>7.3</td><td colspan="3">Nummer der Eintragung beim Amt, falls vorhanden:</td></tr>
 <tr><td>7.4</td><td colspan="3">Nummer der Vollmacht:[^annexu1-lvlu1-47]</td></tr>
-<tr><td>8.</td><td colspan="3">Zustellungsanschrift des Lizenznehmers**[^annexu1-lvlu1-48]**</td></tr>
+<tr><td>8.</td><td colspan="3">Zustellungsanschrift des Lizenznehmers[^annexu1-lvlu1-48]</td></tr>
 <tr><td>9.</td><td colspan="3">Waren oder Dienstleistungen, für welche die Lizenz erteilt wird[^annexu1-lvlu1-49]\*</td></tr>
 <tr><td>9.1</td><td>◻</td><td colspan="2">Die Lizenz wird für alle in den Eintragungen oder Anmeldungen aufgeführten Waren und Dienstleistungen, die in der Nummer 2 erfasst sind, erteilt.</td></tr>
 <tr><td>9.2</td><td>◻</td><td colspan="2">In der Nummer 2 wird eine einzige Eintragung oder eine einzige Anmeldung angegeben, und die Lizenz wird nur für einen Teil der in dieser Eintragung oder Anmeldung aufgeführten Waren oder Dienstleistungen erteilt. Die Lizenz betrifft die folgenden Waren oder Dienstleistungen:</td></tr>
@@ -1819,7 +1819,7 @@ Aktenzeichen des Vertreters des Lizenznehmers<sup>\*</sup>:
 <tr><td>11.1</td><td>◻</td><td colspan="2">Die Lizenz ist von begrenzter Dauer; sie wird für den Zeitraum vom ............... bis ............... erteilt.</td></tr>
 <tr><td>11.1.1</td><td>◻</td><td colspan="2">Die Lizenz wird automatisch verlängert.</td></tr>
 <tr><td>11.2</td><td>◻</td><td colspan="2">Die Lizenz wird unbefristet erteilt.</td></tr>
-<tr><td>12.</td><td colspan="3">Unterschrift oder Siegel**[^annexu1-lvlu1-50]**</td></tr>
+<tr><td>12.</td><td colspan="3">Unterschrift oder Siegel[^annexu1-lvlu1-50]</td></tr>
 <tr><td>12.1</td><td colspan="3">Name der natürlichen Person, die unterschreibt oder deren Siegel angebracht wird:</td></tr>
 <tr><td>12.2</td><td colspan="3">Das entsprechende Kästchen ist anzukreuzen für die Unterschriftsleistung oder für die Benutzung des Siegels durch oder für</td></tr>
 <tr><td>12.2.1</td><td>◻</td><td colspan="2">den Inhaber oder den Anmelder.</td></tr>
@@ -1925,7 +1925,7 @@ Aktenzeichen des Vertreters des Lizenznehmers<sup>\*</sup>:
 <tr><td>9.1</td><td>◻</td><td colspan="2">Die Lizenz ist von begrenzter Dauer; sie wird für den Zeitraum vom ............... bis ............... erteilt.</td></tr>
 <tr><td>9.1.1</td><td>◻</td><td colspan="2">Die Lizenz wird automatisch verlängert.</td></tr>
 <tr><td>9.2</td><td>◻</td><td colspan="2">Die Lizenz wird unbefristet erteilt.</td></tr>
-<tr><td>10.</td><td colspan="3">Unterschriften oder Siegel**[^annexu1-lvlu1-57]**</td></tr>
+<tr><td>10.</td><td colspan="3">Unterschriften oder Siegel[^annexu1-lvlu1-57]</td></tr>
 <tr><td>10.1</td><td colspan="3">Unterschrift(en) oder Siegel der Inhaber/Anmelder:</td></tr>
 <tr><td colspan="4">(Formblatt Nr. 10, Seite 5)</td></tr>
 <tr><td>10.1.1</td><td colspan="3">Name des Inhabers/Anmelders oder, falls der Inhaber/Anmelder eine juristische Person ist, Name der für sie handelnden Person:</td></tr>
@@ -2036,7 +2036,7 @@ Aktenzeichen des Vertreters des Lizenznehmers<sup>\*</sup>:
 <tr><td>9.1</td><td>◻</td><td colspan="2">Die geänderte Lizenz ist von begrenzter Dauer; sie wird für den Zeitraum vom ............ bis ............ erteilt.</td></tr>
 <tr><td>9.1.1</td><td>◻</td><td colspan="2">Die geänderte Lizenz wird automatisch verlängert.</td></tr>
 <tr><td>9.2</td><td>◻</td><td colspan="2">Die geänderte Lizenz wird unbefristet erteilt.</td></tr>
-<tr><td>10.</td><td colspan="3">Unterschriften oder Siegel**[^annexu1-lvlu1-64]**</td></tr>
+<tr><td>10.</td><td colspan="3">Unterschriften oder Siegel[^annexu1-lvlu1-64]</td></tr>
 <tr><td>10.1</td><td colspan="3">Unterschrift(en) oder Siegel der Inhaber/Anmelder:</td></tr>
 <tr><td>10.1.1</td><td colspan="3">Name des Inhabers/Anmelders oder, falls der Inhaber/Anmelder eine juristische Person ist, Name der für sie handelnden Person:</td></tr>
 <tr><td>10.1.2</td><td colspan="3">Datum der Unterschrift oder der Anbringung des Siegels:</td></tr>
@@ -2135,7 +2135,7 @@ Aktenzeichen des Vertreters des Lizenznehmers<sup>\*</sup>:
 <tr><td colspan="4">(Formblatt Nr. 12, Seite 4)</td></tr>
 <tr><td>7.</td><td colspan="3">Waren oder Dienstleistungen, für welche die Lizenz gelöscht wird</td></tr>
 <tr><td></td><td colspan="3">Die Art und der Umfang der Löschung werden auf einem Zusatzblatt angegeben.</td></tr>
-<tr><td>8.</td><td colspan="3">Unterschriften oder Siegel**[^annexu1-lvlu1-70]**</td></tr>
+<tr><td>8.</td><td colspan="3">Unterschriften oder Siegel[^annexu1-lvlu1-70]</td></tr>
 <tr><td>8.1</td><td colspan="3">Unterschrift(en) oder Siegel der Inhaber/Anmelder:</td></tr>
 <tr><td>8.1.1</td><td colspan="3">Name des Inhabers/Anmelders oder, falls der Inhaber/Anmelder eine juristische Person ist, Name der für sie handelnden Person:</td></tr>
 <tr><td>8.1.2</td><td colspan="3">Datum der Unterschrift oder der Anbringung des Siegels:</td></tr>
@@ -2164,7 +2164,7 @@ Aktenzeichen des Vertreters des Lizenznehmers<sup>\*</sup>:
 [^annexu1-lvlu1-69]: Dieses Feld bleibt frei, wenn der Vollmacht eine laufende Nummer nicht oder noch nicht zugewiesen worden ist oder wenn die laufende Nummer dem Lizenznehmer oder dem Vertreter noch nicht bekannt ist.
 [^annexu1-lvlu1-70]: Wenn mehrere Personen unterschreiben oder wenn das Siegel mehrerer Personen verwendet wird, sind alle unter den Nummern 8.1–8.4 verlangten Angaben auf einem Zusatzblatt zu machen.
 
-Geltungsbereich am 13. Juli 2020**[^t-20]**
+Geltungsbereich am 11. Oktober 2022[^t-20]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -2180,13 +2180,13 @@ Geltungsbereich am 13. Juli 2020**[^t-20]**
 <tr><td>Dänemark <sup>a</sup></td><td>24. Juni</td><td>2008</td><td>16. März</td><td>2009</td></tr>
 <tr><td>Deutschland</td><td>20. Juni</td><td>2013 B</td><td>20. September</td><td>2013</td></tr>
 <tr><td>Estland</td><td>14. Mai</td><td>2009</td><td>14. August</td><td>2009</td></tr>
-<tr><td>Finnland</td><td>7. Mai</td><td>2019</td><td>7. August</td><td>2020</td></tr>
+<tr><td>Finnland</td><td>7. Mai</td><td>2019</td><td>7. August</td><td>2019</td></tr>
 <tr><td>Frankreich</td><td>28. August</td><td>2009</td><td>28. November</td><td>2009</td></tr>
 <tr><td>Irak</td><td>29. August</td><td>2014 B</td><td>29. November</td><td>2014</td></tr>
 <tr><td>Irland</td><td>21. Dezember</td><td>2015 B</td><td>21. März</td><td>2016</td></tr>
 <tr><td>Island</td><td>14. September</td><td>2012</td><td>14. Dezember</td><td>2012</td></tr>
 <tr><td>Italien</td><td>21. Juni</td><td>2010</td><td>21. September</td><td>2010</td></tr>
-<tr><td>Japan</td><td>11. März</td><td>2016 B</td><td>11. Juni</td><td>2016</td></tr>
+<tr><td>Japan\*</td><td>11. März</td><td>2016 B</td><td>11. Juni</td><td>2016</td></tr>
 <tr><td>Kanada</td><td>17. März</td><td>2019 B</td><td>17. Juni</td><td>2019</td></tr>
 <tr><td>Kasachstan</td><td>5. Juni</td><td>2012 B</td><td>5. September</td><td>2012</td></tr>
 <tr><td>Kirgisistan</td><td>12. September</td><td>2008</td><td>16. März</td><td>2009</td></tr>
@@ -2198,6 +2198,7 @@ Geltungsbereich am 13. Juli 2020**[^t-20]**
 <tr><td>Litauen</td><td>14. Mai</td><td>2013</td><td>14. August</td><td>2013</td></tr>
 <tr><td>Luxemburg</td><td>3. September</td><td>2013</td><td>8. Januar</td><td>2014</td></tr>
 <tr><td>Mali</td><td>1. September</td><td>2009</td><td>13. Februar</td><td>2016</td></tr>
+<tr><td>Marokko</td><td>22. April</td><td>2022 B</td><td>22. Juli</td><td>2022</td></tr>
 <tr><td>Moldau</td><td>16. Dezember</td><td>2008</td><td>16. März</td><td>2009</td></tr>
 <tr><td>Mongolei</td><td>3. Dezember</td><td>2010 B</td><td>3. März</td><td>2011</td></tr>
 <tr><td>Neuseeland</td><td>10. September</td><td>2012</td><td>10. Dezember</td><td>2012</td></tr>
@@ -2205,7 +2206,7 @@ Geltungsbereich am 13. Juli 2020**[^t-20]**
 <tr><td>Curaçao</td><td>2. Oktober</td><td>2009</td><td>2. Januar</td><td>2010</td></tr>
 <tr><td>Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td>2. Oktober</td><td>2009</td><td>2. Januar</td><td>2010</td></tr>
 <tr><td>Sint Maarten</td><td>2. Oktober</td><td>2009</td><td>2. Januar</td><td>2010</td></tr>
-<tr><td>Nordmazedonien</td><td>6. Juni</td><td>2010</td><td>6. Oktober</td><td>2010</td></tr>
+<tr><td>Nordmazedonien</td><td>6. Juli</td><td>2010</td><td>6. Oktober</td><td>2010</td></tr>
 <tr><td>Peru</td><td>27. September</td><td>2018 B</td><td>27. Dezember</td><td>2018</td></tr>
 <tr><td>Polen</td><td>2. April</td><td>2009 B</td><td>2. Juli</td><td>2009</td></tr>
 <tr><td>Rumänien</td><td>25. März</td><td>2008</td><td>16. März</td><td>2009</td></tr>
@@ -2219,10 +2220,11 @@ Geltungsbereich am 13. Juli 2020**[^t-20]**
 <tr><td>Tadschikistan</td><td>26. September</td><td>2014</td><td>26. Dezember</td><td>2014</td></tr>
 <tr><td>Trinidad und Tobago</td><td>4. Oktober</td><td>2019 B</td><td>4. Januar</td><td>2020</td></tr>
 <tr><td>Ukraine</td><td>24. Februar</td><td>2010</td><td>24. Mai</td><td>2010</td></tr>
-<tr><td>Uruguay</td><td>29. Januar</td><td>2020</td><td>29. April</td><td>2020</td></tr>
+<tr><td>Uruguay\*</td><td>29. Januar</td><td>2020</td><td>29. April</td><td>2020</td></tr>
 <tr><td>Vereinigtes Königreich</td><td>21. März</td><td>2012</td><td>21. Juni</td><td>2012</td></tr>
+<tr><td>Insel Man</td><td>1. Januar</td><td>2021</td><td>1. Januar</td><td>2021</td></tr>
 <tr><td>Vereinigte Staaten</td><td>1. Oktober</td><td>2008</td><td>16. März</td><td>2009</td></tr>
 <tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Weltorganisation für geistiges Eigentum: www.wipo.int/ &gt; Français &gt; Savoirs &gt; Traités administrés par l’OMPI eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Der Vertrag gilt nicht für die Färöer und Grönland.</td></tr>
 </table>
 
-[^t-20]: [AS 2009 887](https://fedlex.data.admin.ch/eli/oc/2009/150), [2010 81](https://fedlex.data.admin.ch/eli/oc/2010/24), [2011 2289](https://fedlex.data.admin.ch/eli/oc/2011/316), [2012 5603](https://fedlex.data.admin.ch/eli/oc/2012/652), [2014 1365](https://fedlex.data.admin.ch/eli/oc/2014/290), [2016 1189](https://fedlex.data.admin.ch/eli/oc/2016/225), [2019 1219](https://fedlex.data.admin.ch/eli/oc/2019/229), [2020 3451](https://fedlex.data.admin.ch/eli/oc/2020/595). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-20]: [AS 2009 887](https://fedlex.data.admin.ch/eli/oc/2009/150); [2010 81](https://fedlex.data.admin.ch/eli/oc/2010/24); [2011 2289](https://fedlex.data.admin.ch/eli/oc/2011/316); [2012 5603](https://fedlex.data.admin.ch/eli/oc/2012/652); [2014 1365](https://fedlex.data.admin.ch/eli/oc/2014/290); [2016 1189](https://fedlex.data.admin.ch/eli/oc/2016/225); [2019 1219](https://fedlex.data.admin.ch/eli/oc/2019/229); [2020 3451](https://fedlex.data.admin.ch/eli/oc/2020/595); [2022 580](https://fedlex.data.admin.ch/eli/oc/2022/580). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht https://www.fedlex.admin.ch/de/treaty.

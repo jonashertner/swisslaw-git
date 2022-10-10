@@ -3,11 +3,11 @@ sr: "0.232.112.11"
 title: Trattato di Singapore sul diritto dei marchi del 27 marzo 2006 (con RE)
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/150"
 language: it
-version: 2020-07-13
+version: 2022-10-11
 adopted: 2006-03-27
 in_force: 2009-03-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/150/20200713/it/xml/fedlex-data-admin-ch-eli-cc-2009-150-20200713-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/150/20200713/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/150/20221011/it/xml/fedlex-data-admin-ch-eli-cc-2009-150-20221011-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/150/20221011/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,13 +18,9 @@ RU **2009** 887
 
 Traduzione
 
-Concluso a Singapore il 27 marzo 2006
+Concluso a Singapore il 27 marzo 2006 Ratificato dalla Svizzera con strumento depositato il 6 luglio 2007 Entrato in vigore per la Svizzera il 16 marzo 2009
 
-Ratificato dalla Svizzera con strumento depositato il 6 luglio 2007
-
-Entrato in vigore per la Svizzera il 16 marzo 2009
-
-(Stato 13 luglio 2020)
+(Stato 11 ottobre 2022)
 
 ## Elenco degli articoli
 
@@ -983,7 +979,7 @@ Se una Parte contraente prevede la proroga di un termine in virtù dell’artico
 - i) documenti a sostegno della cancellazione richiesta dell’iscrizione della licenza, o
 - ii) una dichiarazione di cancellazione di licenza non certificata conforme, il cui contenuto corrisponde al modulo di dichiarazione di cancellazione di licenza figurante nel presente regolamento d’esecuzione firmato sia dal titolare sia dal licenziatario.
 
-Modello del modulo internazionale n. 1*[^t-1]*
+Modello del modulo internazionale n. 1[^t-1]
 
 ## Domanda di registrazione di un marchio
 
@@ -1040,7 +1036,7 @@ presentata all’ufficio di \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 <tr><td>3.2.3</td><td>◻</td><td colspan="2">La procura è allegata.</td></tr>
 <tr><td>3.2.4</td><td>◻</td><td colspan="2">La procura verrà presentata più tardi.</td></tr>
 <tr><td>3.2.5</td><td>◻</td><td colspan="2">La procura non è necessaria.</td></tr>
-<tr><td>4.</td><td colspan="3">Domicilio eletto**[^annexu1-lvlu1-7]**</td></tr>
+<tr><td>4.</td><td colspan="3">Domicilio eletto[^annexu1-lvlu1-7]</td></tr>
 </table>
 
 (Modulo n. 1, pag. 4)
@@ -1058,7 +1054,7 @@ presentata all’ufficio di \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 <tr><td>5.5.1</td><td>◻</td><td colspan="2">è allegata.</td></tr>
 <tr><td>5.5.2</td><td>◻</td><td colspan="2">verrà inoltrata entro 3 mesi a decorrere dalla data di deposito della presente domanda.</td></tr>
 <tr><td>5.6</td><td>◻</td><td colspan="2">Barrare questa casella se la priorità viene rivendicata sulla base di più depositi: in tal caso, redigerne l’elenco su di un foglio supplementare e fornire per ciascuno di essi le indicazioni richieste nei numeri 5.1, 5.2, 5.3, 5.4 e 5.5 e i rispettivi prodotti o servizi.</td></tr>
-<tr><td>6.</td><td colspan="3">Registrazione(i) nel Paese (ufficio) d’origine**[^annexu1-lvlu1-10]**</td></tr>
+<tr><td>6.</td><td colspan="3">Registrazione(i) nel Paese (ufficio) d’origine[^annexu1-lvlu1-10]</td></tr>
 <tr><td></td><td>◻</td><td colspan="2">Il certificato o i certificati di registrazione nel Paese (ufficio) d’origine sono allegati.</td></tr>
 </table>
 
@@ -1178,7 +1174,7 @@ Numero di riferimento della persona che nomina il rappresentante[^annexu1-lvlu1-
 <table>
 <tr><td>1.</td><td colspan="2">Nomina del rappresentante</td></tr>
 <tr><td></td><td colspan="2">Il sottoscritto nomina la persona designata nella rubrica 3 quale suo rappresentante.</td></tr>
-<tr><td>2.</td><td colspan="2">Nome della persona che nomina il rappresentante**[^annexu1-lvlu1-25]**</td></tr>
+<tr><td>2.</td><td colspan="2">Nome della persona che nomina il rappresentante[^annexu1-lvlu1-25]</td></tr>
 <tr><td>3.</td><td colspan="2">Rappresentante</td></tr>
 <tr><td>[tab] 3.1</td><td colspan="2">Nome:</td></tr>
 <tr><td>[tab] 3.2</td><td colspan="2">Indirizzo (compresi il codice d’avviamento postale e il Paese):</td></tr>
@@ -1395,7 +1391,7 @@ Modulo n. 4, pag. 2)
 <tr><td>9.2.3</td><td>◻</td><td colspan="2">La procura è allegata.</td></tr>
 <tr><td>9.2.4</td><td>◻</td><td colspan="2">La procura verrà trasmessa ad una data ulteriore.</td></tr>
 <tr><td>9.2.5</td><td>◻</td><td colspan="2">La procura non è necessaria.</td></tr>
-<tr><td>10.</td><td colspan="3">Domicilio eletto del nuovo proprietario**[^annexu1-lvlu1-41]**</td></tr>
+<tr><td>10.</td><td colspan="3">Domicilio eletto del nuovo proprietario[^annexu1-lvlu1-41]</td></tr>
 <tr><td>11.</td><td colspan="3">Firma o sigillo</td></tr>
 <tr><td>11.1</td><td colspan="3">Nome della persona fisica che firma o di cui è utilizzato il sigillo:</td></tr>
 <tr><td>11.2</td><td colspan="3">Barrare la casella appropriata a seconda che la firma è apposta o il sigillo è utilizzato da parte e per conto del:</td></tr>
@@ -1719,7 +1715,7 @@ Numero di riferimento del rappresentante<sup>\*</sup>:
 <tr><td></td><td colspan="3">Indirizzo elettronico:</td></tr>
 <tr><td>4.3</td><td colspan="3">Numero d’ordine della procura[^annexu1-lvlu1-54]:</td></tr>
 <tr><td>5.</td><td colspan="3">Domicilio eletto del titolare</td></tr>
-<tr><td>6.</td><td colspan="3">Prodotti o servizi**[^annexu1-lvlu1-55]**</td></tr>
+<tr><td>6.</td><td colspan="3">Prodotti o servizi[^annexu1-lvlu1-55]</td></tr>
 <tr><td>6.1</td><td>◻</td><td colspan="2">Il rinnovo è richiesto per tutti i prodotti o servizi ai quali si riferisce la registrazione.</td></tr>
 <tr><td>6.2</td><td>◻</td><td colspan="2">Il rinnovo è richiesto unicamente per i seguenti prodotti o servizi ai quali si riferisce la registrazione[^annexu1-lvlu1-56]:</td></tr>
 <tr><td>6.3</td><td>◻</td><td colspan="2">Il rinnovo è richiesto per tutti i prodotti o servizi ai quali si riferisce la registrazione, ad eccezione dei seguenti[^annexu1-lvlu1-57]:</td></tr>
@@ -1729,7 +1725,7 @@ Numero di riferimento del rappresentante<sup>\*</sup>:
 (Modulo n. 8, pag. 3)
 
 <table>
-<tr><td>7.</td><td colspan="3">Persona, diversa dal titolare o dal rappresentante del titolare, la quale deposita la presente richiesta di rinnovo**[^annexu1-lvlu1-58]**</td></tr>
+<tr><td>7.</td><td colspan="3">Persona, diversa dal titolare o dal rappresentante del titolare, la quale deposita la presente richiesta di rinnovo[^annexu1-lvlu1-58]</td></tr>
 <tr><td></td><td>◻</td><td colspan="2">Barrare questa casella se la presente richiesta di rinnovo viene depositata da una persona diversa dal titolare o dal rappresentante del titolare.</td></tr>
 <tr><td>7.1</td><td colspan="3">Se la persona è una persona fisica</td></tr>
 <tr><td>[tab]</td><td colspan="3">a) il cognome o nome principale di tale persona</td></tr>
@@ -1813,7 +1809,7 @@ Riferimento del rappresentante del licenziatario<sup>\*</sup>:
 <tr><td></td><td colspan="3">Indirizzo elettronico:</td></tr>
 <tr><td>4.3</td><td colspan="3">Se del caso, numero d’iscrizione presso l’ufficio:</td></tr>
 <tr><td>4.4</td><td colspan="3">Numero attribuito alla procura[^annexu1-lvlu1-62]:</td></tr>
-<tr><td>5.</td><td colspan="3">Domicilio eletto del (dei) titolare(i)/depositante(i)**[^annexu1-lvlu1-63]**</td></tr>
+<tr><td>5.</td><td colspan="3">Domicilio eletto del (dei) titolare(i)/depositante(i)[^annexu1-lvlu1-63]</td></tr>
 </table>
 
 (Modulo n. 9, pag. 3)
@@ -1846,7 +1842,7 @@ Riferimento del rappresentante del licenziatario<sup>\*</sup>:
 <table>
 <tr><td>7.3</td><td colspan="2">Se del caso, numero d’iscrizione presso l’ufficio:</td></tr>
 <tr><td>7.4</td><td colspan="2">Numero attribuito alla procura[^annexu1-lvlu1-65]:</td></tr>
-<tr><td>8.</td><td colspan="2">Domicilio eletto del licenziatario**[^annexu1-lvlu1-66]**</td></tr>
+<tr><td>8.</td><td colspan="2">Domicilio eletto del licenziatario[^annexu1-lvlu1-66]</td></tr>
 <tr><td>9.</td><td colspan="2">Prodotti o servizi per i quali è concessa la licenza[^annexu1-lvlu1-67]\*</td></tr>
 <tr><td>9.1</td><td>◻</td><td>La licenza è concessa per l’insieme dei prodotti o servizi elencati nelle registrazioni o nelle domande menzionate nella rubrica 2.</td></tr>
 <tr><td>9.2</td><td>◻</td><td>La rubrica 2 menziona un’unica registrazione o un’unica domanda e la licenza è concessa solo per una parte dei prodotti o servizi elencati in tale registrazione o tale domanda. La licenza si riferisce ai prodotti o ai servizi seguenti:</td></tr>
@@ -1865,7 +1861,7 @@ Riferimento del rappresentante del licenziatario<sup>\*</sup>:
 <table>
 <tr><td>11.1.1</td><td>◻</td><td>La licenza è soggetta a una proroga automatica.</td></tr>
 <tr><td>11.2</td><td>◻</td><td>La licenza è concessa senza limitazione della durata.</td></tr>
-<tr><td>12.</td><td colspan="2">Firma o sigillo**[^annexu1-lvlu1-68]**</td></tr>
+<tr><td>12.</td><td colspan="2">Firma o sigillo[^annexu1-lvlu1-68]</td></tr>
 <tr><td>12.1</td><td colspan="2">Nome della persona fisica che firma o di cui viene usato il sigillo:</td></tr>
 <tr><td>12.2</td><td colspan="2">Barrare la relativa casella a seconda che sia apposta la firma o sia utilizzato il sigillo da parte del o a nome del</td></tr>
 <tr><td>12.2.1</td><td>◻</td><td>titolare o depositante.</td></tr>
@@ -1983,7 +1979,7 @@ Riferimento del rappresentante del licenziatario<sup>\*</sup>:
 <tr><td>9.1</td><td>◻</td><td>La licenza ha una durata limitata, è concessa per il periodo dal ………… al …………..</td></tr>
 <tr><td>9.1.1</td><td>◻</td><td>La licenza è soggetta a una proroga automatica.</td></tr>
 <tr><td>9.2</td><td>◻</td><td>La licenza è concessa senza limitazione della durata.</td></tr>
-<tr><td>10.</td><td colspan="2">Firma o sigillo**[^annexu1-lvlu1-75]**</td></tr>
+<tr><td>10.</td><td colspan="2">Firma o sigillo[^annexu1-lvlu1-75]</td></tr>
 <tr><td>10.1</td><td colspan="2">Firma(e) o sigillo(i) del o dei titolare(i)/depositante(i):</td></tr>
 <tr><td>10.1.1</td><td colspan="2">Nome del titolare/depositante o, se il titolare/depositante è una persona giuridica, nome della persona che agisce a suo nome:</td></tr>
 </table>
@@ -2107,7 +2103,7 @@ Riferimento del rappresentante del licenziatario<sup>\*</sup>:
 <tr><td>9.1</td><td>◻</td><td>La licenza modificata ha una durata limitata, è concessa per il periodo dal ………… al …………..</td></tr>
 <tr><td>9.1.1</td><td>◻</td><td>La licenza modificata è soggetta a una proroga automatica.</td></tr>
 <tr><td>9.2</td><td>◻</td><td>La licenza modificata è concessa senza limitazione della durata.</td></tr>
-<tr><td>10.</td><td colspan="2">Firme o sigilli**[^annexu1-lvlu1-82]**</td></tr>
+<tr><td>10.</td><td colspan="2">Firme o sigilli[^annexu1-lvlu1-82]</td></tr>
 <tr><td>10.1</td><td colspan="2">Firma(e) o sigillo(i) del o dei titolare(i)/depositante(i):</td></tr>
 <tr><td>10.1.1</td><td colspan="2">Nome del titolare/depositante o, se il titolare/depositante è una persona giuridica, nome della persona che agisce a suo nome:</td></tr>
 <tr><td>10.1.2</td><td colspan="2">Data della firma o dell’apposizione del sigillo:</td></tr>
@@ -2222,7 +2218,7 @@ Riferimento del rappresentante del licenziatario<sup>\*</sup>:
 <table>
 <tr><td>7.</td><td colspan="2">Prodotti o servizi per i quali è cancellata la licenza</td></tr>
 <tr><td></td><td colspan="2">La natura e la portata della cancellazione sono indicate su un foglio supplementare.</td></tr>
-<tr><td>8.</td><td colspan="2">Firme o sigilli**[^annexu1-lvlu1-88]**</td></tr>
+<tr><td>8.</td><td colspan="2">Firme o sigilli[^annexu1-lvlu1-88]</td></tr>
 <tr><td>8.1</td><td colspan="2">Firma(e) o sigillo(i) del o dei titolare(i)/depositante(i):</td></tr>
 <tr><td>8.1.1</td><td colspan="2">Nome del titolare/depositante o, se il titolare/depositante è una persona giuridica, nome della persona che agisce a suo nome:</td></tr>
 <tr><td>8.1.2</td><td colspan="2">Data della firma o dell’apposizione del sigillo:</td></tr>
@@ -2250,7 +2246,7 @@ Riferimento del rappresentante del licenziatario<sup>\*</sup>:
 [^annexu1-lvlu1-87]: Non indicare nulla se alla procura non è ancora stato attribuito un numero o se il licenziatario o il suo rappresentante non ne sono a conoscenza.
 [^annexu1-lvlu1-88]: Se firmano più persone o se viene apposto il sigillo di più persone, le indicazioni richieste nei punti 8.1 a 8.4 devono essere fornite su un foglio supplementare.
 
-Campo d’applicazione il 13 luglio 2020**[^t-2]**
+Campo d’applicazione l’11 ottobre 2022[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -2267,10 +2263,10 @@ Campo d’applicazione il 13 luglio 2020**[^t-2]**
 <tr><td>Croazia</td><td>13 gennaio</td><td>2011</td><td>13 aprile</td><td>2011</td></tr>
 <tr><td>Danimarca <sup>a</sup></td><td>24 giugno</td><td>2008</td><td>16 marzo</td><td>2009</td></tr>
 <tr><td>Estonia</td><td>14 maggio</td><td>2009</td><td>14 agosto</td><td>2009</td></tr>
-<tr><td>Finlandia</td><td>7 maggio</td><td>2019</td><td>7 agosto</td><td>2020</td></tr>
+<tr><td>Finlandia</td><td>7 maggio</td><td>2019</td><td>7 agosto</td><td>2019</td></tr>
 <tr><td>Francia</td><td>28 agosto</td><td>2009</td><td>28 novembre</td><td>2009</td></tr>
 <tr><td>Germania</td><td>20 giugno</td><td>2013 A</td><td>20 settembre</td><td>2013</td></tr>
-<tr><td>Giappone</td><td>11 marzo</td><td>2016 A</td><td>11 giugno</td><td>2016</td></tr>
+<tr><td>Giappone<sup>\*</sup></td><td>11 marzo</td><td>2016 A</td><td>11 giugno</td><td>2016</td></tr>
 <tr><td>Iraq</td><td>29 agosto</td><td>2014 A</td><td>29 novembre</td><td>2014</td></tr>
 <tr><td>Irlanda</td><td>21 dicembre</td><td>2015 A</td><td>21 marzo</td><td>2016</td></tr>
 <tr><td>Islanda</td><td>14 settembre</td><td>2012</td><td>14 dicembre</td><td>2012</td></tr>
@@ -2281,20 +2277,22 @@ Campo d’applicazione il 13 luglio 2020**[^t-2]**
 <tr><td>Liechtenstein</td><td>3 dicembre</td><td>2009 A</td><td>3 marzo</td><td>2010</td></tr>
 <tr><td>Lituania</td><td>14 maggio</td><td>2013</td><td>14 agosto</td><td>2013</td></tr>
 <tr><td>Lussemburgo</td><td>3 settembre</td><td>2013</td><td>8 gennaio</td><td>2014</td></tr>
-<tr><td>Macedonia del Nord</td><td>6 giugno</td><td>2010</td><td>6 ottobre</td><td>2010</td></tr>
+<tr><td>Macedonia del Nord</td><td>6 luglio</td><td>2010</td><td>6 ottobre</td><td>2010</td></tr>
 <tr><td>Mali</td><td>1° settembre</td><td>2009</td><td>13 febbraio</td><td>2016</td></tr>
+<tr><td>Marocco</td><td>22 aprile</td><td>2022 A</td><td>22 luglio</td><td>2022</td></tr>
 <tr><td>Moldova</td><td>16 dicembre</td><td>2008</td><td>16 marzo</td><td>2009</td></tr>
 <tr><td>Mongolia</td><td>3 dicembre</td><td>2010 A</td><td>3 marzo</td><td>2011</td></tr>
 <tr><td>Nuova Zelanda</td><td>10 settembre</td><td>2012</td><td>10 dicembre</td><td>2012</td></tr>
 <tr><td>Organizzazione africana della proprietà intellettuale</td><td>13 novembre</td><td>2015 A</td><td>13 febbraio</td><td>2016</td></tr>
 <tr><td>Organizzazione della proprietà intellettuale del Benelux (BOIP)</td><td>8 ottobre</td><td>2013 A</td><td>8 gennaio</td><td>2014</td></tr>
-<tr><td>Paesi Bassi</td><td></td><td></td><td></td><td>2014</td></tr>
+<tr><td>Paesi Bassi</td><td>8 ottobre</td><td>2009 A</td><td>8 gennaio</td><td>2014</td></tr>
 <tr><td>Curaçao</td><td>2 ottobre</td><td>2009</td><td>2 gennaio</td><td>2010</td></tr>
 <tr><td>Parte caraibica (Bonaire, Sant’Eustachio e Saba)</td><td>2 ottobre</td><td>2009</td><td>2 gennaio</td><td>2010</td></tr>
 <tr><td>Sint Maarten</td><td>2 ottobre</td><td>2009</td><td>2 gennaio</td><td>2010</td></tr>
 <tr><td>Perù</td><td>27 settembre</td><td>2018 A</td><td>27 dicembre</td><td>2018</td></tr>
 <tr><td>Polonia</td><td>2 aprile</td><td>2009 A</td><td>2 luglio</td><td>2009</td></tr>
 <tr><td>Regno Unito</td><td>21 marzo</td><td>2012</td><td>21 giugno</td><td>2012</td></tr>
+<tr><td>Man, Isola di</td><td>1° gennaio</td><td>2021</td><td>1° gennaio</td><td>2021</td></tr>
 <tr><td>Romania</td><td>25 marzo</td><td>2008</td><td>16 marzo</td><td>2009</td></tr>
 <tr><td>Russia</td><td>18 settembre</td><td>2009</td><td>18 dicembre</td><td>2009</td></tr>
 <tr><td>Serbia</td><td>19 agosto</td><td>2010 A</td><td>19 novembre</td><td>2010</td></tr>
@@ -2307,10 +2305,9 @@ Campo d’applicazione il 13 luglio 2020**[^t-2]**
 <tr><td>Tagikistan</td><td>26 settembre</td><td>2014</td><td>26 dicembre</td><td>2014</td></tr>
 <tr><td>Trinidad e Tobago</td><td>4 ottobre</td><td>2019 A</td><td>4 gennaio</td><td>2020</td></tr>
 <tr><td>Ucraina</td><td>24 febbraio</td><td>2010</td><td>24 maggio</td><td>2010</td></tr>
-<tr><td>Uruguay</td><td>29 gennaio</td><td>2020</td><td>29 aprile</td><td>2020</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni.</td></tr>
-<tr><td colspan="5">Le riserve e le dichiarazioni non sono pubblicate nella RU. I testi, francese ed inglese, possono essere consultati sul sito Internet dell'Organizzazione mondiale della proprietà intellettuale: www.wipo.int/ &gt; Français &gt; Savoirs &gt; Traités administrés par l’OMPI, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione trattati internazionali, 3003 Berna.</td></tr>
+<tr><td>Uruguay<sup>\*</sup></td><td>29 gennaio</td><td>2020</td><td>29 aprile</td><td>2020</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione mondiale della proprietà intellettuale (OMPI): www.wipo.int/ &gt; Français &gt; Savoirs &gt; Traités administrés par l’OMPI, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. [tab]</td></tr>
 <tr><td colspan="5"><sup>a</sup> Non si applica né alle isole Féroé né alla Groenlandia.</td></tr>
 </table>
 
-[^t-2]: [RU 2009 887](https://fedlex.data.admin.ch/eli/oc/2009/150), [2010 81](https://fedlex.data.admin.ch/eli/oc/2010/24), [2011 2289](https://fedlex.data.admin.ch/eli/oc/2011/316), [2012 5603](https://fedlex.data.admin.ch/eli/oc/2012/652), [2014 1365](https://fedlex.data.admin.ch/eli/oc/2014/290), [2016 1189](https://fedlex.data.admin.ch/eli/oc/2016/225), [2019 1219](https://fedlex.data.admin.ch/eli/oc/2019/229), [2020 3451](https://fedlex.data.admin.ch/eli/oc/2020/595). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2009 887](https://fedlex.data.admin.ch/eli/oc/2009/150); [2010 81](https://fedlex.data.admin.ch/eli/oc/2010/24); [2011 2289](https://fedlex.data.admin.ch/eli/oc/2011/316); [2012 5603](https://fedlex.data.admin.ch/eli/oc/2012/652);[2014 1365](https://fedlex.data.admin.ch/eli/oc/2014/290); [2016 1189](https://fedlex.data.admin.ch/eli/oc/2016/225); [2019 1219](https://fedlex.data.admin.ch/eli/oc/2019/229); [2020 3451](https://fedlex.data.admin.ch/eli/oc/2020/595); [2022 580](https://fedlex.data.admin.ch/eli/oc/2022/580). Una versione aggiornata del campo dֽ’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [https://www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)

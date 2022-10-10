@@ -3,11 +3,11 @@ sr: "0.232.112.11"
 title: "Traité de Singapour du 27 mars 2006 sur le droit des marques (avec R d'ex.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/150"
 language: fr
-version: 2020-07-13
+version: 2022-10-11
 adopted: 2006-03-27
 in_force: 2009-03-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/150/20200713/fr/xml/fedlex-data-admin-ch-eli-cc-2009-150-20200713-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/150/20200713/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/150/20221011/fr/xml/fedlex-data-admin-ch-eli-cc-2009-150-20221011-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/150/20221011/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -24,7 +24,7 @@ Instrument de ratification déposé par la Suisse le 6 juillet 2007
 
 Entré en vigueur pour la Suisse le 16 mars 2009
 
-(Etat le 13 juillet 2020)
+(État le 11 octobre 2022)
 
 ## Liste des articles
 
@@ -307,7 +307,7 @@ toutefois, une Partie contractante peut exclure la possibilité de diviser les e
 
 \1) [Changement de nom ou d’adresse du titulaire]
 
-\2) [Changement de nom ou d’adresse du déposant] L’al. 1) est applicable *mut**a**tis mutandis* lorsque le changement concerne une ou plusieurs demandes ou à la fois une ou plusieurs demandes et un ou plusieurs enregistrements; toutefois, lorsqu’une demande n’a pas encore de numéro ou que son numéro n’est pas connu du déposant ou de son mandataire, la requête doit permettre d’identifier cette demande d’une autre manière conformément aux prescriptions du règlement d’exécution.
+\2) [Changement de nom ou d’adresse du déposant] L’al. 1) est applicable *mutatis mutandis* lorsque le changement concerne une ou plusieurs demandes ou à la fois une ou plusieurs demandes et un ou plusieurs enregistrements; toutefois, lorsqu’une demande n’a pas encore de numéro ou que son numéro n’est pas connu du déposant ou de son mandataire, la requête doit permettre d’identifier cette demande d’une autre manière conformément aux prescriptions du règlement d’exécution.
 
 \3) [Changement de nom ou d’adresse du mandataire ou changement de domicile élu] L’al. 1) est applicable *mutatis mutandis* à tout changement de nom ou d’adresse du mandataire éventuel et à tout changement de l’éventuel domicile élu.
 
@@ -330,7 +330,7 @@ toutefois, une Partie contractante peut exclure la possibilité de diviser les e
 
 \1) [Changement de titulaire de l’enregistrement]
 
-\2) [Changement de titulaire de la demande] L’al. 1) est applicable *mutatis m**u**tandis* lorsque le changement de titulaire concerne une ou plusieurs demandes ou à la fois une ou plusieurs demandes et un ou plusieurs enregistrements; toutefois, lorsqu’une demande n’a pas encore de numéro ou que son numéro n’est pas connu du déposant ou de son mandataire, la requête doit permettre d’identifier cette demande d’une autre manière conformément aux prescriptions du règlement d’exécution.
+\2) [Changement de titulaire de la demande] L’al. 1) est applicable *mutatis mutandis* lorsque le changement de titulaire concerne une ou plusieurs demandes ou à la fois une ou plusieurs demandes et un ou plusieurs enregistrements; toutefois, lorsqu’une demande n’a pas encore de numéro ou que son numéro n’est pas connu du déposant ou de son mandataire, la requête doit permettre d’identifier cette demande d’une autre manière conformément aux prescriptions du règlement d’exécution.
 
 \4) [Preuves] Toute Partie contractante peut exiger que des preuves ou, lorsque l’al. 1)c) ou e) est applicable, des preuves supplémentaires soient fournies à l’office lorsque celui-ci peut raisonnablement douter de la véracité d’une indication quelconque figurant dans la requête ou dans tout document visé dans le présent article.
 
@@ -827,7 +827,7 @@ Formulaire n<sup>o</sup> 12 Déclaration de radiation de licence
 
 \13) [Délai pour la fourniture d’une preuve établissant l’usage effectif de la marque] Le délai visé à l’art. 3.3) n’est pas inférieur à six mois à compter de la date d’acceptation de la demande par l’office de la Partie contractante auprès duquel la demande a été déposée. Le déposant ou le titulaire a droit à une prorogation de ce délai, sous réserve des conditions prévues par la législation de cette Partie contractante, pour des périodes d’au moins six mois chacune, la durée totale de la prorogation devant être d’au moins deux ans et demi.
 
-[^annexu1-lvlu2-3-1]: Mise à jour selon la mod. adoptée par l’Assemblée du Tr. de Singapour le 29 sept. 2010, en vigueur depuis le 1<sup>er</sup> nov. 2011 ([RO 2014 1365](https://fedlex.data.admin.ch/eli/oc/2014/290)).
+[^annexu1-lvlu2-3-1]: Mise à jour par la mod. adoptée par l’Assemblée du Tr. de Singapour le 29 sept. 2010, en vigueur depuis le 1<sup>er</sup> nov. 2011 ([RO 2014 1365](https://fedlex.data.admin.ch/eli/oc/2014/290)).
 
 #### Règle 4
 
@@ -993,7 +993,7 @@ Aux fins de l’art. 13.1)c), la période pendant laquelle la requête en renouv
 - i) des pièces à l’appui de la radiation demandée de l’inscription de la licence, ou
 - ii) une déclaration de radiation de licence non certifiée conforme, dont le contenu correspond à celui du formulaire de déclaration de radiation de licence prévu dans le présent règlement d’exécution, signée à la fois par le titulaire et le preneur de licence.
 
-Formulaire international Type n<sup>o</sup> 1*[^t-1]*
+Formulaire international Type n<sup>o</sup> 1[^t-1]
 
 ## Demande d’enregistrement d’une marque
 
@@ -1050,7 +1050,7 @@ présentée à l’office de \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
 <tr><td>3.2.3</td><td>◻</td><td colspan="2">Le pouvoir est joint.</td></tr>
 <tr><td>3.2.4</td><td>◻</td><td colspan="2">Le pouvoir sera remis à une date ultérieure.</td></tr>
 <tr><td>3.2.5</td><td>◻</td><td colspan="2">Aucun pouvoir n’est nécessaire.</td></tr>
-<tr><td>4.</td><td colspan="3">Domicile élu**[^annexu1-lvlu1-7]**</td></tr>
+<tr><td>4.</td><td colspan="3">Domicile élu[^annexu1-lvlu1-7]</td></tr>
 </table>
 
 (Formulaire n<sup>o</sup> 1, page 4)
@@ -1068,7 +1068,7 @@ présentée à l’office de \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
 <tr><td>5.5.1</td><td>◻</td><td colspan="2">est jointe.</td></tr>
 <tr><td>5.5.2</td><td>◻</td><td colspan="2">sera remise dans les trois mois à compter de la date de dépôt de la présente demande.</td></tr>
 <tr><td>5.6</td><td>◻</td><td colspan="2">Cocher cette case si la priorité est revendiquée sur la base de plusieurs dépôts; si tel est le cas, dresser la liste de ces dépôts sur une feuille supplémentaire et indiquer, pour chacun d’entre eux, les éléments d’information demandés aux points 5.1, 5.2, 5.3, 5.4 et 5.5 et les produits ou les services mentionnés dans chacun d’entre eux.</td></tr>
-<tr><td>6.</td><td colspan="3">Enregistrement(s) dans le pays (l’office) d’origine**[^annexu1-lvlu1-10]**</td></tr>
+<tr><td>6.</td><td colspan="3">Enregistrement(s) dans le pays (l’office) d’origine[^annexu1-lvlu1-10]</td></tr>
 <tr><td></td><td>◻</td><td colspan="2">Le ou les certificats d’enregistrement dans le pays (l’office) d’origine sont joints.</td></tr>
 </table>
 
@@ -1188,7 +1188,7 @@ Numéro de référence de la personne qui fait la constitution de mandataire:[^a
 <table>
 <tr><td>1.</td><td colspan="2">Constitution de mandataire</td></tr>
 <tr><td></td><td colspan="2">La personne soussignée constitue comme mandataire la personne indiquée ci-dessous à la rubrique 3.</td></tr>
-<tr><td>2.</td><td colspan="2">Nom de la personne qui fait la constitution de mandataire**[^annexu1-lvlu1-25]**</td></tr>
+<tr><td>2.</td><td colspan="2">Nom de la personne qui fait la constitution de mandataire[^annexu1-lvlu1-25]</td></tr>
 <tr><td>3.</td><td colspan="2">Mandataire</td></tr>
 <tr><td>[tab] 3.1</td><td colspan="2">[tab] Nom:</td></tr>
 <tr><td>[tab] 3.2</td><td colspan="2">[tab] Adresse (y compris le code postal et le pays):</td></tr>
@@ -1405,7 +1405,7 @@ Numéro de référence du mandataire<sup>\*</sup>:
 <tr><td>9.2.3</td><td>◻</td><td colspan="2">Le pouvoir est joint.</td></tr>
 <tr><td>9.2.4</td><td>◻</td><td colspan="2">Le pouvoir sera remis à une date ultérieure.</td></tr>
 <tr><td>9.2.5</td><td>◻</td><td colspan="2">Aucun pouvoir n’est nécessaire.</td></tr>
-<tr><td>10.</td><td colspan="3">Domicile élu du nouveau propriétaire**[^annexu1-lvlu1-41]**</td></tr>
+<tr><td>10.</td><td colspan="3">Domicile élu du nouveau propriétaire[^annexu1-lvlu1-41]</td></tr>
 <tr><td>11.</td><td colspan="3">Signature ou sceau</td></tr>
 <tr><td>11.1</td><td colspan="3">Nom de la personne physique qui signe ou dont le sceau est utilisé:</td></tr>
 </table>
@@ -1729,7 +1729,7 @@ Numéro de référence du mandataire<sup>\*</sup>:
 <tr><td></td><td colspan="3">Adresse électronique:</td></tr>
 <tr><td>4.3</td><td colspan="3">Numéro d’ordre du pouvoir:[^annexu1-lvlu1-54]</td></tr>
 <tr><td>5.</td><td colspan="3">Domicile élu du titulaire</td></tr>
-<tr><td>6.</td><td colspan="3">Produits ou services**[^annexu1-lvlu1-55]**</td></tr>
+<tr><td>6.</td><td colspan="3">Produits ou services[^annexu1-lvlu1-55]</td></tr>
 <tr><td>6.1</td><td>◻</td><td colspan="2">Le renouvellement est demandé pour tous les produits ou services couverts par l’enregistrement.</td></tr>
 <tr><td>6.2</td><td>◻</td><td colspan="2">Le renouvellement est demandé uniquement pour les produits ou les services ci-après couverts par l’enregistrement:[^annexu1-lvlu1-56]</td></tr>
 <tr><td>6.3</td><td>◻</td><td colspan="2">Le renouvellement est demandé pour tous les produits ou services couverts par l’enregistrement sauf:[^annexu1-lvlu1-57]</td></tr>
@@ -1739,7 +1739,7 @@ Numéro de référence du mandataire<sup>\*</sup>:
 (Formulaire n<sup>o</sup> 8, page 3)
 
 <table>
-<tr><td>7.</td><td colspan="3">Personne, autre que le titulaire ou le mandataire du titulaire, qui dépose la présente requête en renouvellement**[^annexu1-lvlu1-58]**</td></tr>
+<tr><td>7.</td><td colspan="3">Personne, autre que le titulaire ou le mandataire du titulaire, qui dépose la présente requête en renouvellement[^annexu1-lvlu1-58]</td></tr>
 <tr><td></td><td>◻</td><td colspan="2">Cocher cette case si la présente requête en renouvellement est déposée par une personne autre que le titulaire ou le mandataire du titulaire.</td></tr>
 <tr><td>7.1</td><td colspan="3">Si la personne est une personne physique,</td></tr>
 <tr><td>[tab]</td><td colspan="3">a) nom de famille ou nom principal de cette personne:</td></tr>
@@ -1823,10 +1823,10 @@ Référence du mandataire du preneur de licence<sup>\*</sup>:
 <tr><td></td><td colspan="3">Adresse électronique:</td></tr>
 <tr><td>4.3</td><td colspan="3">Numéro d’inscription auprès de l’office, le cas échéant:</td></tr>
 <tr><td>4.4</td><td colspan="3">Numéro attribué au pouvoir:[^annexu1-lvlu1-62]</td></tr>
-<tr><td>5.</td><td colspan="3">Domicile élu du (des) titulaire(s)/déposant(s)**[^annexu1-lvlu1-63]**</td></tr>
+<tr><td>5.</td><td colspan="3">Domicile élu du (des) titulaire(s)/déposant(s)[^annexu1-lvlu1-63]</td></tr>
 </table>
 
-(Formulaire no 9, page 3)
+(Formulaire n<sup>o</sup> 9, page 3)
 
 <table>
 <tr><td>6.</td><td colspan="3">Preneur de licence</td></tr>
@@ -1856,7 +1856,7 @@ Référence du mandataire du preneur de licence<sup>\*</sup>:
 <table>
 <tr><td>7.3</td><td colspan="2">Numéro d’inscription auprès de l’office, le cas échéant:</td></tr>
 <tr><td>7.4</td><td colspan="2">Numéro attribué au pouvoir:[^annexu1-lvlu1-65]</td></tr>
-<tr><td>8.</td><td colspan="2">Domicile élu du preneur de licence**[^annexu1-lvlu1-66]**</td></tr>
+<tr><td>8.</td><td colspan="2">Domicile élu du preneur de licence[^annexu1-lvlu1-66]</td></tr>
 <tr><td>9.</td><td colspan="2">Produits ou services pour lesquels la licence est concédée[^annexu1-lvlu1-67]\*</td></tr>
 <tr><td>9.1</td><td>◻</td><td>La licence est concédée pour l’ensemble des produits ou services énumérés dans les enregistrements ou demandes visés à la rubrique 2.</td></tr>
 <tr><td>9.2</td><td>◻</td><td>Un seul enregistrement ou une seule demande est indiqué à la rubrique 2 et la licence est concédée pour une partie seulement des produits ou services énumérés dans cet enregistrement ou cette demande. La licence porte sur les produits ou services suivants:</td></tr>
@@ -1875,7 +1875,7 @@ Référence du mandataire du preneur de licence<sup>\*</sup>:
 <tr><td>11.1</td><td>◻</td><td>La licence a une durée limitée; elle est concédée pour la période du ………… au ……………</td></tr>
 <tr><td>11.1.1</td><td>◻</td><td>La licence fait l’objet d’une prolongation automatique.</td></tr>
 <tr><td>11.2</td><td>◻</td><td>La licence est concédée sans limitation de durée.</td></tr>
-<tr><td>12.</td><td colspan="2">Signature ou sceau**[^annexu1-lvlu1-68]**</td></tr>
+<tr><td>12.</td><td colspan="2">Signature ou sceau[^annexu1-lvlu1-68]</td></tr>
 <tr><td>12.1</td><td colspan="2">Nom de la personne physique qui signe ou dont le sceau est utilisé:</td></tr>
 <tr><td>12.2</td><td colspan="2">Cocher la case appropriée selon que la signature est donnée, ou le sceau utilisé, par ou au nom du</td></tr>
 <tr><td>12.2.1</td><td>◻</td><td>titulaire ou déposant.</td></tr>
@@ -1930,7 +1930,7 @@ Référence du mandataire du preneur de licence<sup>\*</sup>:
 <tr><td></td><td colspan="2">b) prénom(s) ou nom(s) secondaire(s) de cette personne:</td></tr>
 </table>
 
-(Formulaire no 10, page 2)
+(Formulaire n<sup>o</sup> 10, page 2)
 
 <table>
 <tr><td>3.2</td><td colspan="3">Si le titulaire/déposant est une personne morale,</td></tr>
@@ -1977,7 +1977,7 @@ Référence du mandataire du preneur de licence<sup>\*</sup>:
 <tr><td>6.4</td><td colspan="3">Numéro attribué au pouvoir:[^annexu1-lvlu1-73]</td></tr>
 </table>
 
-(Formulaire no 10, page 4)
+(Formulaire n<sup>o</sup> 10, page 4)
 
 <table>
 <tr><td>7.</td><td colspan="2">Produits ou services pour lesquels la licence est concédée[^annexu1-lvlu1-74]\*</td></tr>
@@ -1993,12 +1993,12 @@ Référence du mandataire du preneur de licence<sup>\*</sup>:
 <tr><td>9.1</td><td>◻</td><td>La licence a une durée limitée; elle est concédée pour la période du ………… au …………</td></tr>
 <tr><td>9.1.1</td><td>◻</td><td>La licence fait l’objet d’une prolongation automatique.</td></tr>
 <tr><td>9.2</td><td>◻</td><td>La licence est concédée sans limitation de durée.</td></tr>
-<tr><td>10.</td><td colspan="2">Signatures ou sceaux**[^annexu1-lvlu1-75]**</td></tr>
+<tr><td>10.</td><td colspan="2">Signatures ou sceaux[^annexu1-lvlu1-75]</td></tr>
 <tr><td>10.1</td><td colspan="2">Signature(s) ou sceau(x) du ou des titulaires/déposants:</td></tr>
 <tr><td>10.1.1</td><td colspan="2">Nom du titulaire/déposant ou, si le titulaire/déposant est une personne morale, nom de la personne agissant en son nom:</td></tr>
 </table>
 
-(<sup>Formulaire</sup> n<sup>o</sup> 10, page 5)
+(Formulaire n<sup>o</sup> 10, page 5)
 
 <table>
 <tr><td>10.1.2</td><td colspan="2">Date de signature ou d’apposition du sceau:</td></tr>
@@ -2117,7 +2117,7 @@ Référence du mandataire du preneur de licence<sup>\*</sup>:
 <tr><td>9.1</td><td>◻</td><td>La licence modifiée a une durée limitée; elle est concédée pour la période du ……….… au …………….</td></tr>
 <tr><td>9.1.1</td><td>◻</td><td>La licence modifiée fait l’objet d’une prolongation automatique.</td></tr>
 <tr><td>9.2</td><td>◻</td><td>La licence modifiée est concédée sans limitation de durée.</td></tr>
-<tr><td>10.</td><td colspan="2">Signatures ou sceaux**[^annexu1-lvlu1-82]**</td></tr>
+<tr><td>10.</td><td colspan="2">Signatures ou sceaux[^annexu1-lvlu1-82]</td></tr>
 <tr><td>10.1</td><td colspan="2">Signature(s) ou sceau(x) du ou des titulaires/déposants:</td></tr>
 <tr><td>10.1.1</td><td colspan="2">Nom du titulaire/déposant ou, si le titulaire/déposant est une personne morale, nom de la personne agissant en son nom:</td></tr>
 <tr><td>10.1.2</td><td colspan="2">Date de signature ou d’apposition du sceau:</td></tr>
@@ -2128,7 +2128,7 @@ Référence du mandataire du preneur de licence<sup>\*</sup>:
 <tr><td>10.2.3</td><td colspan="2">Signature ou sceau:</td></tr>
 </table>
 
-(Formulaire n<sup>o</sup> 11, <sup>page</sup> 5)
+(Formulaire n<sup>o</sup> 11, page 5)
 
 <table>
 <tr><td>10.3</td><td colspan="2">Signature ou sceau du mandataire du ou des titulaires/déposants:</td></tr>
@@ -2180,7 +2180,7 @@ Référence du mandataire du preneur de licence<sup>\*</sup>:
 <tr><td></td><td colspan="2">b) prénom(s) ou nom(s) secondaire(s) de cette personne:</td></tr>
 </table>
 
-(<sup>Formulaire</sup> n<sup>o</sup> 12, page 2)
+(Formulaire n<sup>o</sup> 12, page 2)
 
 <table>
 <tr><td>3.2</td><td colspan="3">Si le titulaire/déposant est une personne morale,</td></tr>
@@ -2232,7 +2232,7 @@ Référence du mandataire du preneur de licence<sup>\*</sup>:
 <table>
 <tr><td>7.</td><td colspan="2">Produits ou services pour lesquels la licence est radiée</td></tr>
 <tr><td></td><td colspan="2">La nature et la portée de la radiation sont indiquées sur une feuille supplémentaire.</td></tr>
-<tr><td>8.</td><td colspan="2">Signatures ou sceaux**[^annexu1-lvlu1-88]**</td></tr>
+<tr><td>8.</td><td colspan="2">Signatures ou sceaux[^annexu1-lvlu1-88]</td></tr>
 <tr><td>8.1</td><td colspan="2">Signature(s) ou sceau(x) du ou des titulaires/déposants:</td></tr>
 <tr><td>8.1.1</td><td colspan="2">Nom du titulaire/déposant ou, si le titulaire/déposant est une personne morale, nom de la personne agissant en son nom:</td></tr>
 <tr><td>8.1.2</td><td colspan="2">Date de signature ou d’apposition du sceau:</td></tr>
@@ -2260,7 +2260,7 @@ Référence du mandataire du preneur de licence<sup>\*</sup>:
 [^annexu1-lvlu1-87]: Ne rien indiquer si un numéro n’a pas ou n’a pas encore été attribué au pouvoir ou s’il n’est pas encore connu du preneur de licence ou du mandataire.
 [^annexu1-lvlu1-88]: Lorsqu’il y a plusieurs personnes qui signent ou dont le sceau est utilisé, toutes les indications demandées aux points 8.1 à 8.4 doivent être fournies sur une feuille supplémentaire.
 
-Champ d’application le 13 juillet 2020**[^t-2]**
+Champ d’application le 11 octobre 2022[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -2280,21 +2280,22 @@ Champ d’application le 13 juillet 2020**[^t-2]**
 <tr><td>Espagne\*</td><td>18 février</td><td>2009</td><td>18 mai</td><td>2009</td></tr>
 <tr><td>Estonie</td><td>14 mai</td><td>2009</td><td>14 août</td><td>2009</td></tr>
 <tr><td>États-Unis</td><td>1<sup>er</sup> octobre</td><td>2008</td><td>16 mars</td><td>2009</td></tr>
-<tr><td>Finlande</td><td>7 mai</td><td>2019</td><td>7 août</td><td>2020</td></tr>
+<tr><td>Finlande</td><td>7 mai</td><td>2019</td><td>7 août</td><td>2019</td></tr>
 <tr><td>France</td><td>28 août</td><td>2009</td><td>28 novembre</td><td>2009</td></tr>
 <tr><td>Iraq</td><td>29 août</td><td>2014 A</td><td>29 novembre</td><td>2014</td></tr>
 <tr><td>Irlande</td><td>21 décembre</td><td>2015 A</td><td>21 mars</td><td>2016</td></tr>
 <tr><td>Islande</td><td>14 septembre</td><td>2012</td><td>14 décembre</td><td>2012</td></tr>
 <tr><td>Italie</td><td>21 juin</td><td>2010</td><td>21 septembre</td><td>2010</td></tr>
-<tr><td>Japon</td><td>11 mars</td><td>2016 A</td><td>11 juin</td><td>2016</td></tr>
+<tr><td>Japon\*</td><td>11 mars</td><td>2016 A</td><td>11 juin</td><td>2016</td></tr>
 <tr><td>Kazakhstan</td><td>5 juin</td><td>2012 A</td><td>5 septembre</td><td>2012</td></tr>
 <tr><td>Kirghizistan</td><td>12 septembre</td><td>2008</td><td>16 mars</td><td>2009</td></tr>
 <tr><td>Lettonie</td><td>9 septembre</td><td>2008</td><td>16 mars</td><td>2009</td></tr>
 <tr><td>Liechtenstein</td><td>3 décembre</td><td>2009 A</td><td>3 mars</td><td>2010</td></tr>
 <tr><td>Lituanie</td><td>14 mai</td><td>2013</td><td>14 août</td><td>2013</td></tr>
 <tr><td>Luxembourg</td><td>3 septembre</td><td>2013</td><td>8 janvier</td><td>2014</td></tr>
-<tr><td>Macédoine du Nord</td><td>6 juin</td><td>2010</td><td>6 octobre</td><td>2010</td></tr>
+<tr><td>Macédoine du Nord</td><td>6 juillet</td><td>2010</td><td>6 octobre</td><td>2010</td></tr>
 <tr><td>Mali</td><td>1<sup>er</sup> septembre</td><td>2009</td><td>13 février</td><td>2016</td></tr>
+<tr><td>Maroc</td><td>22 avril</td><td>2022 A</td><td>22 juillet</td><td>2022</td></tr>
 <tr><td>Moldova</td><td>16 décembre</td><td>2008</td><td>16 mars</td><td>2009</td></tr>
 <tr><td>Mongolie</td><td>3 décembre</td><td>2010 A</td><td>3 mars</td><td>2011</td></tr>
 <tr><td>Nouvelle-Zélande</td><td>10 septembre</td><td>2012</td><td>10 décembre</td><td>2012</td></tr>
@@ -2308,6 +2309,7 @@ Champ d’application le 13 juillet 2020**[^t-2]**
 <tr><td>Pologne</td><td>2 avril</td><td>2009 A</td><td>2 juillet</td><td>2009</td></tr>
 <tr><td>Roumanie</td><td>25 mars</td><td>2008</td><td>16 mars</td><td>2009</td></tr>
 <tr><td>Royaume-Uni</td><td>21 mars</td><td>2012</td><td>21 juin</td><td>2012</td></tr>
+<tr><td>Île de Man</td><td>1<sup>er</sup> janvier</td><td>2021</td><td>1<sup>er</sup> janvier</td><td>2021</td></tr>
 <tr><td>Russie</td><td>18 septembre</td><td>2009</td><td>18 décembre</td><td>2009</td></tr>
 <tr><td>Serbie</td><td>19 août</td><td>2010 A</td><td>19 novembre</td><td>2010</td></tr>
 <tr><td>Singapour</td><td>26 mars</td><td>2007</td><td>16 mars</td><td>2009</td></tr>
@@ -2317,9 +2319,8 @@ Champ d’application le 13 juillet 2020**[^t-2]**
 <tr><td>Tadjikistan</td><td>26 septembre</td><td>2014</td><td>26 décembre</td><td>2014</td></tr>
 <tr><td>Trinité-et-Tobago</td><td>4 octobre</td><td>2019 A</td><td>4 janvier</td><td>2020</td></tr>
 <tr><td>Ukraine</td><td>24 février</td><td>2010</td><td>24 mai</td><td>2010</td></tr>
-<tr><td>Uruguay</td><td>29 janvier</td><td>2020</td><td>29 avril</td><td>2020</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation mondiale de la propriété intellectuelle: www.wipo.int/ &gt; Français &gt; Savoirs &gt; Traités administrés par l’OMPI, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Le traité ne s’applique ni aux Îles Féroé ni au Groënland.</td></tr>
+<tr><td>Uruguay\*</td><td>29 janvier</td><td>2020</td><td>29 avril</td><td>2020</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation mondiale de la propriété intellectuelle (OMPI): www.wipo.int/ &gt; Français &gt; Savoirs &gt; Traités administrés par l’OMPI, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Le traité ne s’applique ni aux Îles Féroé ni au Groënland.</td></tr>
 </table>
 
-[^t-2]: [RO 2009 887](https://fedlex.data.admin.ch/eli/oc/2009/150), [2010 81](https://fedlex.data.admin.ch/eli/oc/2010/24), [2011 2289](https://fedlex.data.admin.ch/eli/oc/2011/316), [2012 5603](https://fedlex.data.admin.ch/eli/oc/2012/652), [2014 1365](https://fedlex.data.admin.ch/eli/oc/2014/290), [2016 1189](https://fedlex.data.admin.ch/eli/oc/2016/225), [2019 1219](https://fedlex.data.admin.ch/eli/oc/2019/229), [2020 3451](https://fedlex.data.admin.ch/eli/oc/2020/595). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 2009 887](https://fedlex.data.admin.ch/eli/oc/2009/150); [2010 81](https://fedlex.data.admin.ch/eli/oc/2010/24); [2011 2289](https://fedlex.data.admin.ch/eli/oc/2011/316); [2012 5603](https://fedlex.data.admin.ch/eli/oc/2012/652); [2014 1365](https://fedlex.data.admin.ch/eli/oc/2014/290); [2016 1189](https://fedlex.data.admin.ch/eli/oc/2016/225); [2019 1219](https://fedlex.data.admin.ch/eli/oc/2019/229); [2020 3451](https://fedlex.data.admin.ch/eli/oc/2020/595); [2022 580](https://fedlex.data.admin.ch/eli/oc/2022/580). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [https://www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
