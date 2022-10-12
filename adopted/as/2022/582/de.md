@@ -1,0 +1,160 @@
+---
+status: "beschlossen, noch nicht in Kraft"
+reference: AS 2022 582
+title: Verordnung des BLV vom 12. Oktober 2022 über Massnahmen zur Verhinderung der Einschleppung der Schaf- und Ziegenpocken aus Spanien
+language: de
+adopted: 2022-10-12
+published: 2022-10-13
+in_force: ["2022-10-14"]
+url: "https://www.fedlex.admin.ch/eli/oc/2022/582/de"
+---
+
+> Nicht amtliche Wiedergabe aus der Amtlichen Sammlung (AS). Der Erlass ist veröffentlicht, aber noch nicht in Kraft; massgebend ist die Veröffentlichung in der AS (Art. 15 PublG, SR 170.512).
+
+# Verordnung des BLV über Massnahmen zur Verhinderung der Einschleppung der Schaf- und Ziegenpocken aus Spanien
+
+vom 12. Oktober 2022
+
+Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV),
+
+gestützt auf Artikel 24 Absatz 3 Buchstabe a des Tierseuchengesetzes vom 1. Juli 1966[^ingress-1] und auf Artikel 5 Absatz 4 der Verordnung vom 18. November 2015[^ingress-2] über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit den EU-Mitgliedstaaten, Island und Norwegen,
+
+verordnet:
+
+[^ingress-1]: [SR 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^ingress-2]: [SR 916.443.11](https://fedlex.data.admin.ch/eli/cc/2015/846)
+
+#### Art. 1
+
+**Zweck und Gegenstand**
+
+<sup>1</sup> Diese Verordnung soll die Einschleppung der Schaf- und Ziegenpocken in die Schweiz verhindern.
+
+<sup>2</sup>
+
+Sie regelt die Einfuhr aus Spanien:
+
+- a. von Schafen und Ziegen;
+- b.
+
+  der folgenden Tierprodukte von Schafen und Ziegen:
+
+  - 1\. Sperma, Eizellen und Embryonen,
+  - 2\. Fleisch und Fleischzubereitungen,
+  - 3\. Fleischerzeugnisse und behandelte Mägen, Blasen und Därme für den menschlichen Verzehr,
+  - 4\. Kolostrum, Milch und Milcherzeugnisse,
+  - 5\. Erzeugnisse, die Produkte nach den Ziffern 2–4 enthalten,
+  - 6\. tierische Nebenprodukte nach Artikel 3 Buchstabe b der Verordnung vom 25. Mai 2011[^1-1] über tierische Nebenprodukte, einschliesslich Häute, Felle und Wolle.
+
+[^1-1]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+
+#### Art. 2
+
+**Einfuhr von lebenden Schafen und Ziegen**
+
+Die Einfuhr von lebenden Schafen und Ziegen aus den Sperrzonen nach dem Anhang ist verboten.
+
+#### Art. 3
+
+**Einfuhr von Sperma, Eizellen und Embryonen**
+
+Die Einfuhr von Sperma, Eizellen und Embryonen von Schafen und Ziegen aus den Sperrzonen nach dem Anhang ist verboten.
+
+#### Art. 4
+
+**Einfuhr von Erzeugnissen nach Artikel 1 Absatz 2 Buchstabe b Ziffer 2 und 3**
+
+<sup>1</sup> Die Einfuhr von Erzeugnissen von Schafen und Ziegen nach Artikel 1 Absatz 2 Buchstabe b Ziffern 2 und 3 aus den Sperrzonen nach dem Anhang ist verboten.
+
+<sup>2</sup>
+
+Abweichend von Absatz 1 ist die Einfuhr von Erzeugnissen nach Artikel 1 Absatz 2 Buchstabe b Ziffern 2 und 3 erlaubt, wenn:
+
+- a. es aus Schlachttierkörpern gewonnen wurde, von denen die Nebenprodukte nach Artikel 2 Ziffer 8 der Delegierten Verordnung (EU) 2020/687[^4-1] entfernt worden sind; und
+- b. die zuständige Behörde in Spanien das Verbringen aus den Sperrzonen genehmigt hat.
+
+[^4-1]: Delegierte Verordnung (EU) 2020/687 der Kommission vom 17. Dezember 2019 zur Ergänzung der Verordnung (EU) 2016/429 des Europäischen Parlaments und des Rates hinsichtlich Vorschriften für die Prävention und Bekämpfung bestimmter gelisteter Seuchen, ABl. L 174 vom 3.6.2020, S. 64; geändert durch Delegierte Verordnung (EU) 2021/1140, ABl. L 247 vom 13.7.2021, S. 50.
+
+#### Art. 5
+
+**Einfuhr von Kolostrum, Milch und Milcherzeugnissen**
+
+<sup>1</sup> Die Einfuhr von Kolostrum, Milch und Milcherzeugnissen von Schafen und Ziegen aus den Sperrzonen nach dem Anhang ist verboten.
+
+<sup>2</sup>
+
+Abweichend von Absatz 1 ist die Einfuhr von Kolostrum, Milch und Milcherzeug-nissen erlaubt, wenn:
+
+- a. sie nicht zur Verwendung als Tierfutter eingesetzt werden;
+- b. sie nach Anhang VII der Delegierten Verordnung (EU) 2020/687[^5-1] pasteurisiert worden sind; und
+- c. die zuständige Behörde in Spanien das Verbringen aus den Sperrzonen ge-nehmigt hat.
+
+[^5-1]: Siehe Fussnote zu Art. 4 Abs. 2 Bst. a
+
+#### Art. 6
+
+**Einfuhr von Erzeugnissen nach Artikel 1 Absatz 2 Buchstabe b Ziffer 5**
+
+<sup>1</sup> Die Einfuhr von Erzeugnissen nach Artikel 1 Absatz 2 Buchstabe b Ziffer 5 aus den Sperrzonen nach dem Anhang ist verboten.
+
+<sup>2</sup>
+
+Abweichend von Absatz 1 ist die Einfuhr von Erzeugnissen nach Artikel 1 Absatz 2 Buchstabe b Ziffer 5 unter den folgenden Voraussetzungen erlaubt:
+
+- a. bei Erzeugnissen, die Produkte nach Artikel 1 Absatz 2 Buchstabe b Ziffern 2 und 3 enthalten: wenn die Voraussetzungen von Artikel 4 Absatz 2 erfüllt sind;
+- b. Erzeugnissen, die Produkte nach Artikel 1 Absatz 2 Buchstabe b Ziffer 4 enthalten: wenn die Voraussetzungen von Artikel 5 Absatz 2 erfüllt sind.
+
+#### Art. 7
+
+**Einfuhr von tierischen Nebenprodukten**
+
+<sup>1</sup> Die Einfuhr von unverarbeiteten tierischen Nebenprodukten von Schafen und Ziegen aus den Sperrzonen nach dem Anhang ist verboten.
+
+<sup>2</sup>
+
+Die Einfuhr von verarbeiteten tierischen Nebenprodukten von Schafen und Ziegen aus den Sperrzonen nach dem Anhang ist erlaubt, wenn:
+
+- a.
+
+  die Anforderungen nach den folgenden Verordnungen erfüllt sind:
+
+  - 1\. Verordnung (EG) Nr. 1069/2009[^7-1],
+  - 2\. Verordnung (EU) Nr. 142/2011[^7-2]; und
+
+- b. die zuständige Behörde in Spanien das Verbringen aus den Sperrzonen genehmigt hat.
+
+[^7-1]: Verordnung (EG) Nr. 1069/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 mit Hygienevorschriften für nicht für den menschlichen Verzehr bestimmte tierische Nebenprodukte und zur Aufhebung der Verordnung (EG) Nr. 1774/2002 (Verordnung über tierische Nebenprodukte), ABl. L 300 vom 14.11.2009, S. 1; zuletzt geändert durch Verordnung (EU) 2019/1009, ABl. L 170 vom 25.6.2019, S. 1.
+[^7-2]: Verordnung (EU) Nr. 142/2011 der Kommission vom 25. Februar 2011 zur Durchführung der Verordnung (EG) Nr. 1069/2009 des Europäischen Parlaments und des Rates mit Hygienevorschriften für nicht für den menschlichen Verzehr bestimmte tierische Nebenprodukte sowie zur Durchführung der Richtlinie 97/78/EG des Rates hinsichtlich bestimmter gemäss der genannten Richtlinie von Veterinärkontrollen an der Grenze befreiter Proben und Waren, ABl. L 54 vom 26.2.2011, S. 1; zuletzt geändert durch Verordnung (EU) 2020/1720, ABl. L 386 vom 18.11.2020, S. 6.
+
+#### Art. 8
+
+**Gesundheitsbescheinigung**
+
+Die Genehmigung zum Verbringen aus den Sperrzonen der zuständigen Behörde in Spanien nach den Artikeln 4 Absatz 2 Buchstabe b, 5 Absatz 2 Buchstabe c und 7 Absatz 2 Buchstabe b gilt als erteilt, wenn eine Gesundheitsbescheinigung für die Sendung vorliegt.
+
+#### Art. 9
+
+**Inkrafttreten**
+
+<sup>1</sup> Diese Verordnung tritt am 14. Oktober 2022 in Kraft.[^9-1]
+
+<sup>2</sup> Sie gilt bis zum 31. Dezember 2022.
+
+<table>
+<tr><td>12. Oktober 2022</td><td>Bundesamt für Lebensmittelsicherheit und Veterinärwesen: i.V. Thomas Jemmi</td></tr>
+</table>
+
+[^9-1]: Dringliche Veröffentlichung vom 13. Okt. 2022 im Sinne von Art. 7 Abs. 3 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+
+## Anhang
+
+(Art. 2–7)
+
+### Sperrzonen
+
+Die Sperrzonen sind in folgendem Durchführungsbeschluss festgelegt:
+
+<table>
+<tr><th>EU-Grunderlass</th><th>Titel und Publikationsdatum des Grunderlasses sowie Änderungserlasse mit Publikationsdaten</th></tr>
+<tr><td>Durchführungsbeschluss (EU) 2022/1913</td><td>Durchführungsbeschluss (EU) 2022/1913 der Kommission vom 4. Oktober 2022 betreffend bestimmte Sofortmassnahmen in Bezug auf die Pockenseuche der Schafe und Ziegen in Spanien, Fassung gemäss ABl. L 261 vom 7.10.2022, S. 53.</td></tr>
+</table>
