@@ -3,11 +3,11 @@ sr: "0.672.933.61"
 title: "Convention du 2 octobre 1996 entre la Confédération suisse et les États-Unis d'Amérique en vue d'éviter les doubles impositions en matière d'impôts sur le revenu (avec prot., prot. d'accord et annexe)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/223"
 language: fr
-version: 2019-09-20
+version: 2022-10-13
 adopted: 1996-10-02
 in_force: 1997-12-19
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/223/20190920/fr/xml/fedlex-data-admin-ch-eli-cc-1999-223-20190920-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/223/20190920/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/223/20221013/fr/xml/fedlex-data-admin-ch-eli-cc-1999-223-20221013-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/223/20221013/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Traduction
 
 Conclue le 2 octobre 1996 Approuvée par l’Assemblée fédérale le 10 octobre 1997[^t-1] Instruments de ratification échangés le 19 décembre 1997 Entrée en vigueur le 19 décembre 1997
 
-(Etat le 20 septembre 2019)
+(État le 13 octobre 2022)
 
 [^t-1]: [RO 1999 1459](https://fedlex.data.admin.ch/eli/oc/1999/222)
 
@@ -87,7 +87,7 @@ Au sens de la présente Convention, à moins que le contexte n’exige une inter
   - (ii) aux États-Unis, le Secrétaire du Trésor ou son représentant;
 
 - g) l’expression «Suisse» désigne la Confédération suisse;
-- h) l’expression «États-Unis» désigne les États-Unis d’Amérique, mais ne comprend pas Puerto Rico, les Iles Vierges, Guam ou tout autre territoire ou possession des États-Unis.
+- h) l’expression «États-Unis» désigne les États-Unis d’Amérique, mais ne comprend pas Puerto Rico, les Îles Vierges, Guam ou tout autre territoire ou possession des États-Unis.
 
 <sup>2.</sup> Pour l’application de la présente Convention par un État contractant, toute expression qui n’y est pas définie a le sens que lui attribue le droit de cet État concernant les impôts auxquels s’applique la Convention, à moins que le contexte n’exige une interprétation différente ou que les autorités compétentes ne conviennent d’une interprétation commune conformément aux dispositions de l’art. 25 (Procédure amiable).
 
@@ -206,9 +206,9 @@ Nonobstant les dispositions précédentes du présent article, on considère qu�
 
 **Entreprises associées**
 
-<sup>1.</sup> Lorsque
+<sup>1.</sup> et que, dans l’un et l’autre cas, les deux entreprises sont, dans leurs relations commerciales ou financières, liées par des conditions convenues ou imposées, qui diffèrent de celles qui seraient convenues entre des entreprises indépendantes, les bénéfices qui, sans ces conditions, auraient été réalisés par l’une des entreprises mais n’ont pu l’être en fait à cause de ces conditions, peuvent être inclus dans les bénéfices de cette entreprise et imposés en conséquence.
 
-et que, dans l’un et l’autre cas, les deux entreprises sont, dans leurs relations commerciales ou financières, liées par des conditions convenues ou imposées, qui diffèrent de celles qui seraient convenues entre des entreprises indépendantes, les bénéfices qui, sans ces conditions, auraient été réalisés par l’une des entreprises mais n’ont pu l’être en fait à cause de ces conditions, peuvent être inclus dans les bénéfices de cette entreprise et imposés en conséquence.
+Lorsque:
 
 - a) une entreprise d’un État contractant participe directement ou indirectement à la direction, au contrôle ou au capital d’une entreprise de l’autre État contractant, ou que
 - b) les mêmes personnes participent directement ou indirectement à la direction, au contrôle ou au capital d’une entreprise d’un État contractant et d’une entreprise de l’autre État contractant,
@@ -237,14 +237,16 @@ Toutefois, ces dividendes sont aussi imposables dans l’État contractant d’o
 
 <sup>5.</sup> Les dispositions des par. 1 et 2 ne s’appliquent pas lorsque le bénéficiaire effectif des dividendes, résident d’un État contractant, exerce dans l’autre État contractant dont la société qui paie les dividendes est un résident, soit une activité industrielle ou commerciale par l’intermédiaire d’un établissement stable qui y est situé, soit une profession indépendante au moyen d’une base fixe qui y est située, et que les dividendes s’y rattachent effectivement. Dans ce cas, les dispositions de l’art. 7 (Bénéfices des entreprises) ou de l’art. 14 (Professions indépendantes) sont applicables.
 
-<sup>6.</sup> Lorsqu’une société est un résident d’un État contractant, l’autre État contractant ne peut percevoir aucun impôt sur les dividendes payés par la société, sauf si
+<sup>6.</sup>
+
+Lorsqu’une société est un résident d’un État contractant, l’autre État contractant ne peut percevoir aucun impôt sur les dividendes payés par la société, sauf si:
 
 - a) ces dividendes sont payés à un résident de cet autre État, ou
 - b) les dividendes se rattachent à un établissement stable ou à une base fixe située dans cet État.
 
-<sup>7.</sup> Une société qui est un résident de Suisse et qui entretient un établissement stable aux États-Unis, ou qui est assujettie à l’impôt sur un montant net aux États-Unis sur des éléments de revenu mentionnés à l’art. 6 (Revenus immobiliers) ou à l’art. 13 (Gains en capital) peut être assujettie à un impôt supplémentaire aux États-Unis, en sus des impôts prévus par les autres dispositions de la présente Convention. Toutefois, cet impôt ne peut être perçu que sur
+<sup>7.</sup> qui correspondent au montant équivalant à des dividendes provenant de ces bénéfices et revenus; l’expression «montant équivalant à des dividendes», aux fins du présent paragraphe, a le sens que lui donne la législation des États-Unis telle qu’elle peut être modifiée de temps en temps sans affecter les principes généraux ici posés.
 
-qui correspondent au montant équivalant à des dividendes provenant de ces bénéfices et revenus; l’expression «montant équivalant à des dividendes», aux fins du présent paragraphe, a le sens que lui donne la législation des États-Unis telle qu’elle peut être modifiée de temps en temps sans affecter les principes généraux ici posés.
+Une société qui est un résident de Suisse et qui entretient un établissement stable aux États-Unis, ou qui est assujettie à l’impôt sur un montant net aux États-Unis sur des éléments de revenu mentionnés à l’art. 6 (Revenus immobiliers) ou à l’art. 13 (Gains en capital) peut être assujettie à un impôt supplémentaire aux États-Unis, en sus des impôts prévus par les autres dispositions de la présente Convention. Toutefois, cet impôt ne peut être perçu que sur:
 
 - a) la part des bénéfices d’entreprise de la société qui se rattache à cet établissement stable, et
 - b) la part des revenus mentionnés à la phrase précédente en référence à l’art. 6 (Revenus immobiliers) et aux par. 1 ou 3 de l’art. 13 (Gains en capital),
@@ -267,9 +269,9 @@ qui correspondent au montant équivalant à des dividendes provenant de ces bén
 
 <sup>5.</sup> À moins qu’il n’en soit disposé autrement aux par. 1 ou 3, les intérêts payés par une société qui est un résident d’un État contractant ne sont imposables dans l’autre État contractant que dans la mesure où ces intérêts sont payés par un établissement stable de cette société situé dans cet autre État, ou proviennent de revenus désignés à l’art. 6 (Revenus immobiliers) ou au par. 1 de l’art. 13 (Gains en capital) assujettis à l’impôt sur un montant net dans cet autre État.
 
-<sup>6.</sup> Les dispositions du par. 1 ne s’appliquent pas
+<sup>6.</sup> Ces intérêts sont imposables aux États-Unis selon le droit interne.
 
-Ces intérêts sont imposables aux États-Unis selon le droit interne.
+Les dispositions du par. 1 ne s’appliquent pas:
 
 - a) aux intérêts provenant des États-Unis si le montant de ces intérêts est déterminé par référence aux reçus, ventes, revenus, bénéfices ou autres mouvements de caisse du débiteur ou d’une personne proche, ou aux modifications de la valeur des biens du débiteur ou d’une personne proche, ou à des dividendes, distributions de sociétés de personnes ou des paiements similaires effectués par le débiteur ou une personne proche, mais uniquement dans la mesure où ces intérêts ne sont pas considérés comme des intérêts de portefeuille («portfolio interest») selon le droit des États-Unis, et
 - b) à un excédent concernant une participation autre dans une personne qui est traitée comme un «Real Estate Mortgage Investment Conduit» selon le droit des États-Unis.
@@ -402,7 +404,10 @@ Sous réserve des dispositions suivantes du présent article, une personne qui e
 - b) est un État contractant ou l’une de ses subdivisions politiques ou collectivités locales ou une autorité ou un établissement de cet État ou de l’une de ses subdivisions politiques ou collectivités locales;
 - c) exerce effectivement des activités industrielles ou commerciales dans le premier État mentionné (autre que des activités qui consistent à effectuer, gérer ou simplement détenir des investissements pour son propre compte, à moins qu’il ne s’agisse d’activités bancaires ou d’assurance ou de commerce de titres qui sont exercées par une banque, une assurance ou un commerçant de titres enregistré) et que les revenus tirés de l’autre État contractant se rattachent à l’exercice de ces activités, ou y sont accessoires;
 - d) est une société qui est le siège administratif principal d’un groupe multinational;
-- e) est une société
+- e)
+
+  est une société:
+
   - (i) dont la principale catégorie d’actions fait l’objet, de façon essentielle et régulière, de transactions dans une bourse de valeurs reconnue, ou
   - (ii) qui est en mains d’une société ou de sociétés remplissant les conditions du sous-alinéa (i);
 
@@ -611,7 +616,9 @@ Nonobstant les dispositions de l’art. 4 (Résident), toute personne physique q
 
 **Dispositions diverses**
 
-<sup>1.</sup> La présente Convention ne limite d’aucune manière les abattements, exonérations, déductions, crédits ou autres allégements qui sont ou seront accordés
+<sup>1.</sup>
+
+La présente Convention ne limite d’aucune manière les abattements, exonérations, déductions, crédits ou autres allégements qui sont ou seront accordés:
 
 - a) par la législation d’un État contractant, ou
 - b) par un autre accord conclu entre les États contractants.
@@ -626,9 +633,9 @@ Nonobstant les dispositions du par. 1, let. b), les dispositions suivantes sont 
 
 <sup>3.</sup> Pour l’application des par. 1 et 2 de l’art. 7 (Bénéfices des entreprises), du par. 5 de l’art. 10 (Dividendes), du par. 3 de l’art. 11 (Intérêts), du par. 3 de l’art. 12 (Redevances), du par. 3 de l’art. 13 (Gains en capital), du par. 2 de l’art. 14 (Professions indépendantes) et du par. 2 de l’art. 21 (Autres revenus), les revenus, gains ou dépenses imputables à un établissement stable durant son existence sont imposables ou déductibles selon les principes habituels dans l’État contractant où cet établissement stable est situé, même si les paiements sont différés jusqu’à ce que l’établissement stable ait cessé d’exister.
 
-<sup>4.</sup> Les avantages du présent paragraphe sont valables pendant une période n’excédant pas cinq années fiscales, qui débute avec la première année d’imposition de la personne physique durant laquelle cette personne exerce sa profession indépendante dans le premier État contractant mentionné. Aux fins du présent paragraphe, un fonds de pension est agréé fiscalement dans un État contractant si les contributions à ce fonds, ou les revenus de celui-ci, sont exemptés dans cet État.
+<sup>4.</sup> Les avantages du présent paragraphe sont valables pendant une période n’excédant pas cinq années fiscales, qui débute avec la première année d’imposition de la personne physique durant laquelle cette personne exerce sa profession salariée dans le premier État contractant mentionné. Aux fins du présent paragraphe, un fonds de pension est agréé fiscalement dans un État contractant si les contributions à ce fonds, ou les revenus de celui-ci, sont exemptés dans cet État.[^28-2]
 
-Pour la fixation des revenus imposables aux fins de l’imposition dans un État contractant d’une personne physique qui exerce une profession indépendante et qui est un résident, mais non un national, de cet État, les contributions payées par, ou pour le compte de cette personne physique à un fonds de pension établi, géré et fiscalement agréé dans cet autre État contractant sont traitées de la même manière aux fins d’imposition dans le premier État mentionné que les contributions payées à un fonds de pension établi, géré et fiscalement agréé dans ce premier État mentionné si:
+Pour la fixation des revenus imposables aux fins de l’imposition dans un État contractant d’une personne physique qui exerce une profession salariée et qui est un résident, mais non un national, de cet État, les contributions payées par, ou pour le compte de cette personne physique à un fonds de pension établi, géré et fiscalement agréé dans cet autre État contractant sont traitées de la même manière aux fins d’imposition dans le premier État mentionné que les contributions payées à un fonds de pension établi, géré et fiscalement agréé dans ce premier État mentionné si:
 
 - a) la personne physique n’était pas un résident de cet État immédiatement avant de commencer à y exercer son emploi et a déjà contribué à ce fonds de pension, et
 - b) l’autorité compétente de cet État considère que le fonds de pension dans l’autre État contractant correspond en principe à un fonds de pension fiscalement agréé par le premier État mentionné.
@@ -636,6 +643,7 @@ Pour la fixation des revenus imposables aux fins de l’imposition dans un État
 <sup>5.</sup> L’autorité compétente de l’un des États contractants peut demander l’ouverture de consultations à l’autorité compétente de l’autre État contractant en vue d’examiner si une modification de la Convention est nécessaire afin de l’adapter aux changements intervenus dans le droit interne ou la politique conventionnelle d’un État contractant. Si ces consultations aboutissent à la conclusion que les effets de la Convention ou son application ont été modifiés unilatéralement en raison d’un amendement du droit interne par un État contractant de telle sorte que l’équilibre des avantages prévus par la Convention a été altéré de manière significative, les autorités se consultent mutuellement en vue d’adapter la Convention afin de restaurer un équilibre approprié des avantages de la Convention.
 
 [^28-1]: [RS 0.632.21](https://fedlex.data.admin.ch/eli/cc/1959/1745_1807_1812)
+[^28-2]: Erratum du 13 oct. 2022 ([RO 2022 579](https://fedlex.data.admin.ch/eli/oc/2022/579)).
 
 #### Art. 29
 
@@ -668,11 +676,10 @@ La présente Convention demeurera en vigueur tant qu’elle n’aura pas été d
 - b) aux autres impôts, pour les périodes fiscales commençant le 1<sup>er</sup> janvier qui suit l’expiration du délai de six mois, ou après cette date.
 
 <table>
-<tr><td>Pour la Confédération suisse:</td><td>Pour les États-Unis d’Amérique:</td></tr>
-<tr><td>Kaspar Villiger</td><td>Lawrence H. Summers</td></tr>
+<tr><td>Pour la Confédération suisse: Kaspar Villiger</td><td>Pour les États-Unis d’Amérique: Lawrence H. Summers</td></tr>
 </table>
 
-## Art. 5, par. 2, du Prot. du 23 septembre 2009****
+## Art. 5, par. 2, du Prot. du 23 septembre 2009
 
 [^lvlu31-1]
 
@@ -740,7 +747,7 @@ Il est entendu que pour déterminer si une ou plusieurs personnes qui n’ont pa
 
 La présente Convention n’empêche pas l’application par les États-Unis de la Section 367 (e)(1) ou (e)(2) ou de la Section 1446 de l’Internal Revenue Code.
 
-### 10.**** ad art. 26 (Échange de renseignements)
+### 10. ad art. 26 (Échange de renseignements)
 
 [^lvlu32-lvl10-1]
 
@@ -764,8 +771,7 @@ La présente Convention n’empêche pas l’application par les États-Unis de 
 Fait en deux exemplaires à Washington le 2 octobre 1996 en langues allemande et anglaise, chaque texte faisant également foi.
 
 <table>
-<tr><td>Pour la Confédération suisse:</td><td>Pour les États-Unis d’Amérique:</td></tr>
-<tr><td>Kaspar Villiger</td><td>Lawrence H. Summers</td></tr>
+<tr><td>Pour la Confédération suisse: Kaspar Villiger</td><td>Pour les États-Unis d’Amérique: Lawrence H. Summers</td></tr>
 </table>
 
 ## Protocole d’Accord
@@ -913,7 +919,7 @@ Ainsi, par exemple, si la totalité des actions ordinaires d’une société am�
 - c) Les personnes ou les autorités auxquelles sont adressées les renseignements en application de l’art. 26 peuvent faire usage de ces informations lors de procédures judiciaires publiques ou dans une décision judiciaire.
 - d) Il est entendu que le secret bancaire suisse n’empêche pas dans les cas de fraude fiscale de recueillir des moyens de preuve documentés auprès de banques et de les transmettre conformément à la Convention à l’autorité compétente des États-Unis d’Amérique.
 
-Annexe A*[^t-2]*
+Annexe A[^t-2]
 
 ## Échange de Notes
 

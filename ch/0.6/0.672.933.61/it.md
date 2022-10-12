@@ -3,11 +3,11 @@ sr: "0.672.933.61"
 title: "Convenzione del 2 ottobre 1996 tra la Confederazione Svizzera e gli Stati Uniti d'America per evitare le doppie imposizioni in materia di imposte sul reddito (con Prot., Prot. d'Accordo e allegato)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/223"
 language: it
-version: 2019-09-20
+version: 2022-10-13
 adopted: 1996-10-02
 in_force: 1997-12-19
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/223/20190920/it/xml/fedlex-data-admin-ch-eli-cc-1999-223-20190920-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/223/20190920/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/223/20221013/it/xml/fedlex-data-admin-ch-eli-cc-1999-223-20221013-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/223/20221013/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **1999** 1460; FF **1997** II 881
 
 Traduzione
 
-Conclusa il 2 ottobre 1996
+Conclusa il 2 ottobre 1996 Approvata dall’Assemblea federale il 10 ottobre 1997[^t-1] Ratificata con strumenti scambiati il 19 dicembre 1997 Entrata in vigore il 19 dicembre 1997
 
-Approvata dall’Assemblea federale il 10 ottobre 1997[^t-1]
-
-Ratificata con strumenti scambiati il 19 dicembre 1997
-
-Entrata in vigore il 19 dicembre 1997
-
-(Stato 20 settembre 2019)
+(Stato 13 ottobre 2022)
 
 [^t-1]: [RU 1999 1459](https://fedlex.data.admin.ch/eli/oc/1999/222)
 
@@ -44,7 +38,9 @@ hanno convenuto quanto segue:
 
 <sup>2.</sup> Nella misura in cui non si applichi il paragrafo 3 del presente articolo, gli Stati Uniti possono, nonostante altre disposizioni della presente Convenzione, imporre una persona considerata residente in base al suo diritto fiscale – ad esclusione di una persona residente di Svizzera secondo i paragrafi 3 e 4 dell’articolo 4 (Residente) –come se la Convenzione non fosse in vigore.
 
-<sup>3.</sup> Le disposizioni del paragrafo 2 non pregiudicano
+<sup>3.</sup>
+
+Le disposizioni del paragrafo 2 non pregiudicano:
 
 - a) i vantaggi fiscali che gli Stati Uniti accordano in base al paragrafo 2 dell’articolo 9 (Imprese associate), ai paragrafi 6 e 7 dell’articolo 13 (Utili di capitale) e all’articolo 23 (Eliminazione della doppia imposizione), 24 (Non discriminazione) e 25 (Procedura amichevole); e
 - b) i vantaggi fiscali che gli Stati Uniti accordano in base ai paragrafi 1 e 2 dell’articolo 19 (Funzioni pubbliche e assicurazioni sociali), agli articoli 20 (Studenti e apprendisti) e 27 (Membri di una missione diplomatica e di una rappresentanza consolare) come pure al paragrafo 4 dell’articolo 28 (Diversi) a persone fisiche che non siano né cittadini degli Stati Uniti né persone con lo statuto di emigranti.
@@ -68,7 +64,9 @@ Le imposte attuali cui si applica la Convenzione sono:
 
 **Definizioni generali**
 
-<sup>1.</sup> Ai fini della presente Convenzione, a meno che il contesto non richieda una diversa interpretazione,
+<sup>1.</sup>
+
+Ai fini della presente Convenzione, a meno che il contesto non richieda una diversa interpretazione:
 
 - a) il termine «persona» comprende le persone fisiche, le società di persone, le società, le successioni, i trust e ogni altra associazione di persone;
 - b) il termine «società» designa qualsiasi persona giuridica o qualsiasi ente che, conformemente al diritto dello Stato contraente nel quale è stato costituito, è considerato persona giuridica ai fini dell’imposizione;
@@ -97,7 +95,9 @@ Le imposte attuali cui si applica la Convenzione sono:
 
 **Residenza**
 
-<sup>1.</sup> Ai fini della presente Convenzione, l’espressione «residente di uno Stato contraente» designa
+<sup>1.</sup>
+
+Ai fini della presente Convenzione, l’espressione «residente di uno Stato contraente» designa:
 
 - a) una persona che, in virtù della legislazione di detto Stato, è assoggettata a imposta nello stesso Stato a motivo del suo domicilio, della sua residenza, della sua cittadinanza, della sede della sua direzione, del luogo della sua costituzione o di ogni altro criterio di natura analoga. Un cittadino americano o uno straniero ammesso legalmente a risiedere in maniera permanente negli Stati Uniti (in possesso di una «green card») che non è un residente di Svizzera in base al presente paragrafo o al paragrafo 5 è considerato come un residente degli Stati Uniti soltanto se abita da lungo tempo («substantial presence»), dispone di un’abitazione permanente o soggiorna abitualmente negli Stati Uniti. Tuttavia, se questa persona è pure un residente di Svizzera in base al presente paragrafo, essa è considerata contemporaneamente come un residente degli Stati Uniti in base al presente paragrafo e nel suo caso è applicabile il capoverso 3;
 - b) il Governo di questo Stato o di una delle sue suddivisioni politiche o di uno dei suoi enti locali, come pure le autorità e istituzioni di detto Stato, detta suddivisione politica o detto ente locale;
@@ -206,9 +206,9 @@ Nonostante le precedenti disposizioni del presente articolo, si considera che no
 
 **Imprese associate**
 
-<sup>1.</sup> Allorché
+<sup>1.</sup> e, nell’uno e nell’altro caso, le due imprese, nelle loro relazioni commerciali o finanziarie, sono vincolate da condizioni convenute o imposte, diverse da quelle che sarebbero state convenute tra imprese indipendenti, gli utili che in mancanza di tali condizioni sarebbero stati realizzati da una delle imprese, ma che a causa di dette condizioni non lo sono stati, possono essere inclusi negli utili di questa impresa e tassati in conseguenza.
 
-e, nell’uno e nell’altro caso, le due imprese, nelle loro relazioni commerciali o finanziarie, sono vincolate da condizioni convenute o imposte, diverse da quelle che sarebbero state convenute tra imprese indipendenti, gli utili che in mancanza di tali condizioni sarebbero stati realizzati da una delle imprese, ma che a causa di dette condizioni non lo sono stati, possono essere inclusi negli utili di questa impresa e tassati in conseguenza.
+Allorché:
 
 - a) un’impresa di uno Stato contraente partecipa, direttamente o indirettamente, alla direzione, al controllo o al capitale di un’impresa dell’altro Stato contraente o
 - b) le medesime persone partecipano, direttamente o indirettamente, alla direzione, al controllo o al capitale di un’impresa di uno Stato contraente e di un’impresa dell’altro Stato contraente,
@@ -237,14 +237,16 @@ Tuttavia, tali dividendi possono essere anche tassati nello Stato contraente dal
 
 <sup>5.</sup> Le disposizioni dei paragrafi 1 e 2 non si applicano nel caso in cui il beneficiario effettivo dei dividendi, residente di uno Stato contraente, eserciti nell’altro Stato contraente di cui la società che paga i dividendi è residente, sia un’attività commerciale o industriale per mezzo di una stabile organizzazione ivi situata, sia una professione indipendente mediante una base fissa ivi situata e i dividendi siano attribuibili a questa stabile organizzazione o base fissa. In tale ipotesi, trovano applicazione le disposizioni dell’articolo 7 (Utili delle imprese) o dell’articolo 14 (Professioni indipendenti).
 
-<sup>6.</sup> Se una società è residente di uno Stato contraente, l’altro Stato contraente non può riscuotere alcuna imposta sui dividendi pagati da questa società, ad eccezione del caso in cui
+<sup>6.</sup>
+
+Se una società è residente di uno Stato contraente, l’altro Stato contraente non può riscuotere alcuna imposta sui dividendi pagati da questa società, ad eccezione del caso in cui:
 
 - a) questi dividendi sono pagati a un residente di questo altro Stato, o
 - b) i dividendi sono attribuibili a una stabile organizzazione o base fissa situata in questo Stato.
 
-<sup>7.</sup> Una società residente di Svizzera che negli Stati Uniti possiede una stabile organizzazione o è assoggettata a imposta su un ammontare netto per i redditi giusta l’articolo 6 (Redditi immobiliari) o l’articolo 13 (Utili di capitale), negli Stati Uniti può essere assoggettata ad un’imposta supplementare in aggiunta alle imposte previste dalle altre disposizioni della presente Convenzione. Tuttavia, questa imposta può essere riscossa soltanto.
+<sup>7.</sup> che corrispondono all’ammontare equivalente dei dividendi provenienti da questi utili o redditi; l’espressione «ammontare equivalente dei dividendi», ai fini del presente paragrafo, ha il senso che le attribuisce la legislazione degli Stati Uniti (tenendo sempre conto di future modifiche che non dovrebbero però intaccare i principi generali di questa disposizione).
 
-che corrispondono all’ammontare equivalente dei dividendi provenienti da questi utili o redditi; l’espressione «ammontare equivalente dei dividendi», ai fini del presente paragrafo, ha il senso che le attribuisce la legislazione degli Stati Uniti (tenendo sempre conto di future modifiche che non dovrebbero però intaccare i principi generali di questa disposizione).
+Una società residente di Svizzera che negli Stati Uniti possiede una stabile organizzazione o è assoggettata a imposta su un ammontare netto per i redditi giusta l’articolo 6 (Redditi immobiliari) o l’articolo 13 (Utili di capitale), negli Stati Uniti può essere assoggettata ad un’imposta supplementare in aggiunta alle imposte previste dalle altre disposizioni della presente Convenzione. Tuttavia, questa imposta può essere riscossa soltanto:
 
 - a) sulla parte degli utili aziendali attribuibili secondo la presente Convenzione alla stabile organizzazione, e
 - b) sulla parte dei redditi menzionati nella frase precedente in relazione all’articolo 6 (Redditi immobiliari) o nei paragrafi 1 o 3 dell’articolo 13 (Utili di capitale),
@@ -292,9 +294,9 @@ Le disposizioni del paragrafo 1 non si applicano:
 
 <sup>1.</sup> Gli utili che un residente di uno Stato contraente trae dall’alienazione di beni immobili situati nell’altro Stato contraente sono imponibili in quest’ultimo Stato.
 
-<sup>2.</sup> Ai sensi del presente articolo l’espressione «beni immobili situati nell’altro Stato contraente» comprende
+<sup>2.</sup> Negli Stati Uniti questa espressione comprende pure un «United States real property interest» secondo la definizione dell’Internal Revenue Code (tenendo sempre conto di future modifiche che non dovrebbero però intaccare i principi generali di questa disposizione).
 
-Negli Stati Uniti questa espressione comprende pure un «United States real property interest» secondo la definizione dell’Internal Revenue Code (tenendo sempre conto di future modifiche che non dovrebbero però intaccare i principi generali di questa disposizione).
+Ai sensi del presente articolo l’espressione «beni immobili situati nell’altro Stato contraente» comprende:
 
 - a) beni immobili di cui all’articolo 6 (Redditi immobiliari); e
 - b) azioni o altri diritti comparabili di una società residente di questo altro Stato il cui patrimonio è costituito totalmente o principalmente da beni immobili situati in questo altro Stato oppure partecipazioni a una società di persone, a un trust o a una successione, nella misura in cui questi sono attribuibili a beni immobili situati in questo altro Stato.
@@ -323,7 +325,9 @@ Negli Stati Uniti questa espressione comprende pure un «United States real prop
 
 <sup>1.</sup> Salve le disposizioni degli articoli 16 (Compensi e gettoni di presenza), 18 (Pensioni e rendite) e 19 (Funzioni pubbliche e assicurazioni sociali), i salari, gli stipendi e le altre rimunerazioni analoghe che un residente di uno Stato contraente riceve in corrispettivo di un’attività dipendente sono imponibili soltanto in detto Stato, a meno che l’attività non venga svolta nell’altro Stato contraente. Se l’attività è quivi svolta, le rimunerazioni percepite a tale titolo sono imponibili in questo altro Stato.
 
-<sup>2.</sup> Nonostante le disposizioni del paragrafo 1, le rimunerazioni che un residente di uno Stato contraente riceve in corrispettivo di un’attività dipendente svolta nell’altro Stato contraente sono imponibili soltanto nel primo Stato, se
+<sup>2.</sup>
+
+Nonostante le disposizioni del paragrafo 1, le rimunerazioni che un residente di uno Stato contraente riceve in corrispettivo di un’attività dipendente svolta nell’altro Stato contraente sono imponibili soltanto nel primo Stato, se:
 
 - a) il beneficiario soggiorna nell’altro Stato per un periodo o periodi che non oltrepassano in totale i 183 giorni nell’arco di ogni periodo di dodici mesi che inizia o finisce durante l’anno fiscale in considerazione, e
 - b) le rimunerazioni sono pagate da o per conto di un datore di lavoro che non è residente dell’altro Stato, e
@@ -478,9 +482,11 @@ Per quanto concerne la Svizzera, la doppia imposizione è evitata nel modo segue
 - la Svizzera accorda una deduzione dell’ammontare lordo di questi redditi uguale all’imposta pagata negli Stati Uniti.
 - d) Qualora un residente di Svizzera tragga redditi che siano imponibili negli Stati Uniti secondo il paragrafo 4 dell’articolo 19 (Funzioni pubbliche e assicurazioni sociali), la Svizzera accorda un vantaggio corrispondente alla deduzione dell’imposta pagata negli Stati Uniti e a una esenzione dall’imposta svizzera uguale a un terzo (1/3) dell’ammontare netto di questi redditi.
 
-<sup>2.</sup> Per quanto concerne gli Stati Uniti, la doppia imposizione è evitata nel modo seguente:
+<sup>2.</sup>
 
-Conformemente alla legislazione degli Stati Uniti e fatte salve le limitazioni in essa previste (tenendo sempre conto di future modifiche che non dovrebbero intaccare i principi generali esposti di seguito), gli Stati Uniti computano a un loro residente o cittadino sull’imposta sul reddito degli Stati Uniti l’equivalente dell’ammontare dell’imposta svizzera; nel caso di una società residente degli Stati Uniti che possiede almeno il 10 per cento delle quote con diritto di voto di una società residente di Svizzera, dalla quale riceve dividendi nel corso di un anno fiscale, gli Stati Uniti computano inoltre sull’imposta sul reddito degli Stati Uniti l’equivalente dell’ammontare dell’imposta svizzera che questa società ha versato sugli utili con i quali sono pagati i dividendi. L’ammontare computabile viene determinato sulla base dell’ammontare dell’imposta pagata in Svizzera. Ai fini dell’applicazione negli Stati Uniti del computo dell’imposta pagata in Svizzera, le imposte di cui alla lettera a) del paragrafo 2 e al paragrafo 3 dell’articolo 2 (Imposte considerate) sono considerate come imposte sul reddito.
+Per quanto concerne gli Stati Uniti, la doppia imposizione è evitata nel modo seguente:
+
+- Conformemente alla legislazione degli Stati Uniti e fatte salve le limitazioni in essa previste (tenendo sempre conto di future modifiche che non dovrebbero intaccare i principi generali esposti di seguito), gli Stati Uniti computano a un loro residente o cittadino sull’imposta sul reddito degli Stati Uniti l’equivalente dell’ammontare dell’imposta svizzera; nel caso di una società residente degli Stati Uniti che possiede almeno il 10 per cento delle quote con diritto di voto di una società residente di Svizzera, dalla quale riceve dividendi nel corso di un anno fiscale, gli Stati Uniti computano inoltre sull’imposta sul reddito degli Stati Uniti l’equivalente dell’ammontare dell’imposta svizzera che questa società ha versato sugli utili con i quali sono pagati i dividendi. L’ammontare computabile viene determinato sulla base dell’ammontare dell’imposta pagata in Svizzera. Ai fini dell’applicazione negli Stati Uniti del computo dell’imposta pagata in Svizzera, le imposte di cui alla lettera a) del paragrafo 2 e al paragrafo 3 dell’articolo 2 (Imposte considerate) sono considerate come imposte sul reddito.
 
 <sup>3.</sup>
 
@@ -515,9 +521,9 @@ Qualora un residente di Svizzera sia contemporaneamente un cittadino degli Stati
 
 <sup>2.</sup> L’autorità competente, se il reclamo le appare fondato e se essa non è in grado di giungere a una soluzione soddisfacente, farà del suo meglio per regolare il caso per via di amichevole composizione con l’autorità competente dell’altro Stato contraente, al fine di evitare una tassazione non conforme alla Convenzione.
 
-<sup>3.</sup> Le autorità competenti degli Stati contraenti si adoperano per risolvere in via di amichevole composizione le difficoltà o dissipare i dubbi inerenti all’interpretazione o all’applicazione della presente Convenzione. In particolare, le autorità competenti degli Stati contraenti possono consultarsi per trovare un accordo al fine di
+<sup>3.</sup> Le autorità competenti degli Stati contraenti possono concordare insieme il modo di eliminare la doppia imposizione nei casi non previsti dalla Convenzione.
 
-Le autorità competenti degli Stati contraenti possono concordare insieme il modo di eliminare la doppia imposizione nei casi non previsti dalla Convenzione.
+Le autorità competenti degli Stati contraenti si adoperano per risolvere in via di amichevole composizione le difficoltà o dissipare i dubbi inerenti all’interpretazione o all’applicazione della presente Convenzione. In particolare, le autorità competenti degli Stati contraenti possono consultarsi per trovare un accordo al fine di:
 
 - a) attribuire in maniera identica i redditi, le riduzioni nonché gli accrediti o gli importi non imponibili spettanti a un residente di uno Stato contraente e quelli spettanti alla sua stabile organizzazione situata nell’altro Stato contraente;
 - b) delimitare in maniera identica i redditi, le riduzioni nonché gli accrediti e gli importi non imponibili fra un residente di uno Stato contraente e una persona a lui associata di cui all’articolo 9 (Imprese associate);
@@ -603,7 +609,9 @@ Nonostante le disposizioni dell’articolo 4 (Residenza), ogni persona fisica ch
 
 **Diversi**
 
-<sup>1.</sup> Le disposizioni della presente Convenzione non possono essere interpretate come limitative, in qualunque modo, delle esenzioni, delle deduzioni, dei crediti o di altre facilitazioni che sono o saranno accordati
+<sup>1.</sup>
+
+Le disposizioni della presente Convenzione non possono essere interpretate come limitative, in qualunque modo, delle esenzioni, delle deduzioni, dei crediti o di altre facilitazioni che sono o saranno accordati:
 
 - a) dalla legislazione di uno Stato contraente o
 - b) da ogni altro accordo stipulato tra gli Stati contraenti.
@@ -618,7 +626,7 @@ Nonostante le disposizioni del paragrafo 1 lettera b), sono applicabili le segue
 
 <sup>3.</sup> Per l’applicazione dei paragrafi 1 e 2 dell’articolo 7 (Utili delle imprese), del paragrafo 5 dell’articolo 10 (Dividendi), del paragrafo 3 dell’articolo 11 (Interessi), del paragrafo 3 dell’articolo 12 (Canoni), del paragrafo 3 dell’articolo 13 (Utili di capitale), del paragrafo 2 dell’articolo 14 (Professioni indipendenti) e del paragrafo 2 dell’articolo 21 (Altri redditi) i redditi, gli utili o le spese attribuibili a una stabile organizzazione durante la sua esistenza sono imponibili o deducibili secondo i principi abituali nello Stato contraente nel quale la stabile organizzazione è situata, anche quando i pagamenti siano differiti fino a che la stabile organizzazione abbia cessato di esistere.
 
-<sup>4.</sup> I vantaggi di questo paragrafo sono validi per un periodo che non superi cinque anni fiscali e che inizi con il primo anno fiscale durante il quale questa persona fisica svolga il suo lavoro subordinato nel primo Stato contraente menzionato. Ai sensi del presente paragrafo, un fondo di pensione è considerato come riconosciuto ai fini fiscali in uno Stato contraente se i contributi a questo fondo o i redditi ritratti da esso sono esenti dall’imposta in questo Stato.
+<sup>4.</sup> I vantaggi di questo paragrafo sono validi per un periodo che non superi cinque anni fiscali e che inizi con il primo anno fiscale durante il quale questa persona fisica svolga il suo lavoro subordinato nel primo Stato contraente menzionato. Ai sensi del presente paragrafo, un fondo di pensione è considerato come riconosciuto ai fini fiscali in uno Stato contraente se i contributi a questo fondo o i redditi ritratti da esso sono esenti dall’imposta in questo Stato.[^28-1]
 
 Per la determinazione del reddito imponibile ai fini dell’imposizione in uno Stato contraente di una persona fisica che svolge un lavoro subordinato e che è residente ma non cittadina di questo Stato, i contributi versati da, o per conto di, questa persona fisica a un fondo di pensione costituito, gestito e riconosciuto ai fini fiscali in questo altro Stato contraente sono trattati, ai fini dell’imposizione nel primo Stato menzionato, allo stesso modo dei contributi versati a un fondo di pensione costituito, gestito e riconosciuto ai fini fiscali in questo primo Stato menzionato, se:
 
@@ -626,6 +634,8 @@ Per la determinazione del reddito imponibile ai fini dell’imposizione in uno S
 - b) l’autorità competente di questo Stato considera che il fondo di pensione dell’altro Stato contraente corrisponda in linea di principio a un fondo di pensione del primo Stato menzionato riconosciuto ai fini fiscali.
 
 <sup>5.</sup> L’autorità competente di ciascuno dei due Stati contraenti può chiedere che siano avviate consultazioni con l’autorità competente dell’altro Stato contraente per esaminare se sia necessario un adeguamento della Convenzione ai cambiamenti del diritto interno o della politica convenzionale di uno Stato contraente. Se da queste consultazioni risultasse che gli effetti della Convenzione o la sua applicazione siano stati modificati unilateralmente sulla base di emendamenti del diritto interno da parte di uno Stato contraente in maniera tale che l’equilibrio dei vantaggi previsti dalla Convenzione sarebbe stato alterato in modo considerevole, le autorità si consulterebbero per procedere a un adattamento della Convenzione che ristabilisca il precedente equilibrio dei vantaggi previsti dalla Convenzione.
+
+[^28-1]: La correzione del 13 ott. 2022 concerne soltanto il testo francese ([RU 2022 579](https://fedlex.data.admin.ch/eli/oc/2022/579)).
 
 #### Art. 29
 
@@ -702,7 +712,7 @@ Resta inteso che per determinare se una o più persone che non hanno il diritto 
 
 La presente Convenzione non impedisce l’applicazione da parte degli Stati Uniti della Section 367 (e) (1) o (e) (2) oppure della Section 1446 dell’Internal Revenue Code.
 
-### 10.**** Ad articolo 26 (Scambio di informazioni)
+### 10. Ad articolo 26 (Scambio di informazioni)
 
 [^lvlu31-lvl10-1]
 
@@ -729,7 +739,7 @@ Fatto a Washington, il 2 ottobre 1996, in due esemplari in lingua tedesca e ingl
 <tr><td>Per la Confederazione Svizzera: Kaspar Villiger</td><td>Per gli Stati Uniti d’America: Lawrence H. Summers</td></tr>
 </table>
 
-## Articolo 5 paragrafo 2 del Protocollo del 23 settembre 2009****
+## Articolo 5 paragrafo 2 del Protocollo del 23 settembre 2009
 
 [^lvlu32-1]
 
@@ -886,7 +896,10 @@ Esempio V
   - (i) i beneficiari effettivi che detengono almeno il 95 per cento dell’insieme dei diritti di voto e del valore delle quote sono al massimo sette persone residenti di uno Stato membro dell’Unione europea, dello Spazio economico europeo o dell’Accordo nordamericano di libero scambio e che adempiono le premesse della lettera b) del paragrafo 3 dell’articolo 22; e se
   - (ii) l’ammontare delle spese (compresi i pagamenti di interessi o di canoni ma esclusi i compensi, a prezzi di libero mercato, corrisposti per l’acquisto, l’uso o la concessione in uso di beni mobili nell’ambito dell’attività industriale o commerciale ordinaria o le rimunerazioni corrisposte per le prestazioni di servizi) deducibili dai redditi lordi che sono pagate o dovute dalla società per il periodo fiscale precedente (o, nel caso del primo periodo fiscale, per questo periodo) a persone che non sono cittadini americani né residenti di uno Stato membro dell’Unione europea, dello Spazio economico europeo o dell’Accordo nordamericano di libero scambio che adempiono le premesse della lettera b) del paragrafo 3 dell’articolo 22, è inferiore al 50 per cento dei redditi lordi conseguiti dalla società durante questo periodo.
 
-- b) Una tale società non ha tuttavia alcun diritto ai vantaggi della Convenzione secondo la lettera a), se essa stessa o una società che la controlla ha emesso una categoria di quote
+- b)
+
+  Una tale società non ha tuttavia alcun diritto ai vantaggi della Convenzione secondo la lettera a), se essa stessa o una società che la controlla ha emesso una categoria di quote:
+
   - (i) le cui condizioni, o altri accordi particolari a queste collegati, attribuiscono al titolare delle quote una parte dei redditi che la società ritrae dall’altro Stato contraente maggiore di quella che il titolare delle quote avrebbe ricevuto in mancanza di tali condizioni o accordi, e
   - (ii) almeno il 50 per cento dei diritti di voto o del valore delle quote è detenuto da persone che non sono cittadini americani né residenti di uno Stato membro dell’Unione europea, dello Spazio economico europeo o dell’Accordo nordamericano di libero scambio e che adempiono le premesse della lettera b) del paragrafo 3 dell’articolo 22.
 
@@ -899,7 +912,7 @@ Sicché, a titolo d’esempio, se tutte le azioni ordinarie di una società amer
 - c) Le persone o le autorità che hanno avuto accesso alle informazioni in applicazione dell’articolo 26 possono rivelarle nell’ambito di una procedura giudiziaria pubblica o in una decisione giudiziaria.
 - d) Resta inteso che il segreto bancario svizzero non impedisce in caso di truffa in materia fiscale di reperire presso le banche prove documentali e di trasmetterle conformemente alla Convenzione all’autorità competente degli Stati Uniti.
 
-Allegato A*[^t-2]*
+Allegato A[^t-2]
 
 ## Scambio di note
 

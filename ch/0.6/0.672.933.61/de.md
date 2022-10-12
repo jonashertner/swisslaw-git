@@ -3,11 +3,11 @@ sr: "0.672.933.61"
 title: "Abkommen vom 2. Oktober 1996 zwischen der Schweizerischen Eidgenossenschaft und den Vereinigten Staaten von Amerika zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen (mit Prot., Verständigungsvereinbarung und Anhang)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/223"
 language: de
-version: 2019-09-20
+version: 2022-10-13
 adopted: 1996-10-02
 in_force: 1997-12-19
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/223/20190920/de/xml/fedlex-data-admin-ch-eli-cc-1999-223-20190920-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/223/20190920/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/223/20221013/de/xml/fedlex-data-admin-ch-eli-cc-1999-223-20221013-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/223/20221013/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ Originaltext
 
 Abgeschlossen am 2. Oktober 1996 Von der Bundesversammlung genehmigt am 10. Oktober 1997[^t-1] Ratifikationsurkunden ausgetauscht am 19. Dezember 1997 In Kraft getreten am 19. Dezember 1997
 
-(Stand am 20. September 2019)
+(Stand am 13. Oktober 2022)
 
 [^t-1]: [AS 1999 1459](https://fedlex.data.admin.ch/eli/oc/1999/222)
 
@@ -38,7 +38,9 @@ haben folgendes vereinbart:
 
 <sup>2.</sup> Soweit nicht Absatz 3 dieses Artikels gilt, können die Vereinigten Staaten ungeachtet anderer Bestimmungen dieses Abkommens eine Person, die nach ihrem Steuerrecht als ansässig gilt – ausgenommen eine Person, die nach den Absätzen 3 und 4 von Artikel 4 (Ansässige Person) in der Schweiz ansässig ist – sowie ihre Staatsbürger (einschliesslich ihrer ehemaligen Staatsbürger) so besteuern, wie wenn das Abkommen nicht in Kraft stünde.
 
-<sup>3.</sup> Die Bestimmungen von Absatz 2 berühren nicht
+<sup>3.</sup>
+
+Die Bestimmungen von Absatz 2 berühren nicht:
 
 - a) die Vergünstigungen, die die Vereinigten Staaten nach Absatz 2 von Artikel 9 (Verbundene Unternehmen), den Absätzen 6 und 7 von Artikel 13 (Gewinne aus der Veräusserung von Vermögen) sowie nach den Artikeln 23 (Vermeidung der Doppelbesteuerung), 24 (Gleichbehandlung) und 25 (Verständigungsverfahren) gewähren; und
 - b) die Vergünstigungen, die die Vereinigten Staaten nach den Absätzen 1 und 2 von Artikel 19 (Öffentlicher Dienst und Sozialversicherung), nach den Artikeln 20 (Studenten und Lehrlinge) und 27 (Mitglieder von diplomatischen Missionen und konsularischen Vertretungen) sowie nach Absatz 4 von Artikel 28 (Verschiedenes) an natürliche Personen gewähren, die weder Staatsbürger der Vereinigten Staaten sind noch dort den Status von Einwanderern haben.
@@ -49,7 +51,9 @@ haben folgendes vereinbart:
 
 <sup>1.</sup> Dieses Abkommen gilt für Steuern vom Einkommen, die für Rechnung eines Vertragsstaats erhoben werden.
 
-<sup>2.</sup> Zu den bestehenden Steuern, für die das Abkommen gilt, gehören
+<sup>2.</sup>
+
+Zu den bestehenden Steuern, für die das Abkommen gilt, gehören:
 
 - a) in der Schweiz die von Bund, Kantonen und Gemeinden erhobenen Steuern vom Einkommen (Gesamteinkommen, Erwerbseinkommen, Vermögensertrag, Geschäftsertrag usw.);
 - b) in den Vereinigten Staaten die aufgrund des Internal Revenue Code erhobenen Bundeseinkommensteuern sowie die Abgaben, die auf Versicherungsprämien an ausländische Versicherer und hinsichtlich von privaten Stiftungen erhoben werden. Das Abkommen gilt jedoch für die Abgabe auf Versicherungsprämien, die an ausländische Versicherer gezahlt werden, nur insoweit, als die durch die Prämien gedeckten Risiken nicht bei einer Person rückversichert sind, die nicht berechtigt ist, die Vergünstigungen dieses oder eines anderen Abkommens, das eine Befreiung von dieser Abgabe vorsieht, in Anspruch zu nehmen.
@@ -60,17 +64,25 @@ haben folgendes vereinbart:
 
 **Allgemeine Begriffsbestimmungen**
 
-<sup>1.</sup> Im Sinne dieses Abkommens, wenn der Zusammenhang nichts anderes erfordert,
+<sup>1.</sup>
+
+Im Sinne dieses Abkommens, wenn der Zusammenhang nichts anderes erfordert:
 
 - a) umfasst der Ausdruck «Person» natürliche Personen, Personengesellschaften, Gesellschaften, Nachlässe, Trusts und alle anderen Personenvereinigungen;
 - b) bedeutet der Ausdruck «Gesellschaft» juristische Personen oder Rechtsträger, die nach dem Recht des Vertragsstaates, in dem sie errichtet worden sind, für die Besteuerung wie juristische Personen behandelt werden;
 - c) bedeuten die Ausdrücke «Unternehmen eines Vertragsstaates» und «Unternehmen des anderen Vertragsstaates», je nachdem, ein Unternehmen, das von einer in einem Vertragsstaat ansässigen Person betrieben wird, oder ein Unternehmen, das von einer im anderen Vertragsstaat ansässigen Person betrieben wird;
-- d) bedeutet der Ausdruck «Staatsangehörige»
+- d)
+
+  bedeutet der Ausdruck «Staatsangehörige»:
+
   - (i) natürliche Personen, die die Staatsangehörigkeit eines Vertragsstaates (im Falle der USA: deren Staatsbürgerschaft) besitzen; und
   - (ii) die juristischen Personen, Personengesellschaften und anderen Personenvereinigungen, die nach dem in einem Vertragsstaat geltenden Recht errichtet worden sind;
 
 - e) bedeutet der Ausdruck «internationaler Verkehr» jede Beförderung mit einem Seeschiff oder Luftfahrzeug, es sei denn, die Beförderung erfolge ausschliesslich zwischen Orten im anderen Vertragsstaat;
-- f) bedeutet der Ausdruck «zuständige Behörde»
+- f)
+
+  bedeutet der Ausdruck «zuständige Behörde»:
+
   - (i) in der Schweiz den Direktor der Eidgenössischen Steuerverwaltung oder seinen bevollmächtigten Vertreter;
   - (ii) in den Vereinigten Staaten den Secretary of the Treasury oder seinen Vertreter;
 
@@ -83,7 +95,9 @@ haben folgendes vereinbart:
 
 **Ansässige Person**
 
-<sup>1.</sup> Im Sinne dieses Abkommens bedeutet der Ausdruck «eine in einem Vertragsstaat ansässige Person»
+<sup>1.</sup>
+
+Im Sinne dieses Abkommens bedeutet der Ausdruck «eine in einem Vertragsstaat ansässige Person»:
 
 - a) eine Person, die nach dem Recht dieses Staates dort aufgrund ihres Wohnsitzes, ihres ständigen Aufenthaltes, ihrer Staatsangehörigkeit, des Ortes ihrer Geschäftsleitung, des Ortes ihrer Errichtung oder eines anderen ähnlichen Merkmals steuerpflichtig ist. Ein amerikanischer Staatsbürger oder ein Ausländer, dem die Einreise zur Begründung eines ständigen Wohnsitzes in den Vereinigten Staaten rechtmässig gestattet worden ist (Inhaber einer «green card») und der nicht aufgrund dieses Absatzes oder des Absatzes 5 in der Schweiz ansässig ist, gilt nur dann als in den Vereinigten Staaten ansässig, wenn er in den Vereinigten Staaten einen längeren Aufenthalt («substantial presence»), eine ständige Wohnstätte oder seinen gewöhnlichen Aufenthalt hat. Ist jedoch eine solche Person aufgrund dieses Absatzes auch in der Schweiz ansässig, wird sie aufgrund dieses Absatzes auch als in den Vereinigten Staaten ansässig behandelt und es gilt Absatz 3;
 - b) die Regierung dieses Staates oder einer seiner politischen Unterabteilungen oder lokalen Körperschaften sowie die Behörden und Einrichtungen dieses Staates, politischen Unterabteilung oder lokalen Körperschaft;
@@ -122,7 +136,7 @@ Der Ausdruck Betriebsstätte umfasst insbesondere:
 - b) eine Zweigniederlassung;
 - c) eine Geschäftsstelle;
 - d) eine Fabrikationsstätte;
-- e) eine Werkstätte und
+- e) eine Werkstätte; und
 - f) ein Bergwerk, ein Öl- oder Gasvorkommen, einen Steinbruch oder eine andere Stätte der Ausbeutung von Bodenschätzen.
 
 <sup>3.</sup> Eine Bauausführung oder Montage ist nur dann eine Betriebsstätte, wenn ihre Dauer zwölf Monate überschreitet. Eine Bohrinsel oder ein Schiff, die für die Erforschung oder Erschliessung von Bodenschätzen verwendet werden, gelten nur dann als Betriebsstätte, wenn sie während einer Dauer von mehr als zwölf Monaten betrieben werden.
@@ -192,9 +206,9 @@ Ungeachtet der vorstehenden Bestimmungen dieses Artikels gelten nicht als Betrie
 
 **Verbundene Unternehmen**
 
-<sup>1.</sup> Wenn
+<sup>1.</sup> und in diesen Fällen die beiden Unternehmen in ihren kaufmännischen oder finanziellen Beziehungen an vereinbarte oder auferlegte Bedingungen gebunden sind, die von denen abweichen, die unabhängige Unternehmen miteinander vereinbaren würden, so dürfen die Gewinne, die eines der Unternehmen ohne diese Bedingungen erzielt hätte, wegen dieser Bedingungen aber nicht erzielt hat, den Gewinnen dieses Unternehmens zugerechnet und entsprechend besteuert werden.
 
-und in diesen Fällen die beiden Unternehmen in ihren kaufmännischen oder finanziellen Beziehungen an vereinbarte oder auferlegte Bedingungen gebunden sind, die von denen abweichen, die unabhängige Unternehmen miteinander vereinbaren würden, so dürfen die Gewinne, die eines der Unternehmen ohne diese Bedingungen erzielt hätte, wegen dieser Bedingungen aber nicht erzielt hat, den Gewinnen dieses Unternehmens zugerechnet und entsprechend besteuert werden.
+Wenn:
 
 - a) ein Unternehmen eines Vertragsstaates unmittelbar oder mittelbar an der Geschäftsleitung, der Kontrolle oder dem Kapital eines Unternehmens des anderen Vertragsstaates beteiligt ist, oder
 - b) dieselben Personen unmittelbar oder mittelbar an der Geschäftsleitung, der Kontrolle oder dem Kapital eines Unternehmens eines Vertragsstaates und eines Unternehmens des anderen Vertragsstaates beteiligt sind
@@ -223,14 +237,16 @@ Diese Dividenden können jedoch auch in dem Vertragsstaat, aus dem sie stammen, 
 
 <sup>5.</sup> Die Absätze 1 und 2 sind nicht anzuwenden, wenn der in einem Vertragsstaat ansässige Nutzungsberechtigte im anderen Vertragsstaat, in dem die die Dividenden zahlende Gesellschaft ansässig ist, eine gewerbliche Tätigkeit durch eine dort gelegene Betriebsstätte oder eine selbständige Arbeit durch eine dort gelegene feste Einrichtung ausübt und die Dividenden einer solchen Betriebsstätte oder festen Einrichtung zuzurechnen sind. In diesem Fall ist Artikel 7 (Unternehmensgewinne) beziehungsweise Artikel 14 (Selbständige Arbeit) anzuwenden.
 
-<sup>6.</sup> Ist eine Gesellschaft in einem Vertragsstaat ansässig, darf der andere Vertragsstaat auf Dividenden, die diese Gesellschaft zahlt, keine Steuern erheben, es sei denn
+<sup>6.</sup>
+
+Ist eine Gesellschaft in einem Vertragsstaat ansässig, darf der andere Vertragsstaat auf Dividenden, die diese Gesellschaft zahlt, keine Steuern erheben, es sei denn:
 
 - a) diese Dividenden werden an eine in diesem anderen Staat ansässige Person gezahlt, oder
 - b) die Dividenden sind einer in diesem Staat gelegenen Betriebsstätte oder festen Einrichtung zuzurechnen.
 
-<sup>7.</sup> Eine in der Schweiz ansässige Gesellschaft, die in den Vereinigten Staaten eine Betriebsstätte hat oder die für Einkünfte nach Artikel 6 (Einkünfte aus unbeweglichem Vermögen) oder Artikel 13 (Gewinne aus der Veräusserung von Vermögen) in den Vereinigten Staaten auf Nettobasis besteuert wird, kann in den Vereinigten Staaten neben der nach den übrigen Bestimmungen dieses Abkommens zulässigen Steuern einer weiteren Steuer unterworfen werden. Diese Steuer darf jedoch nur erhoben werden
+<sup>7.</sup> der dem ausschüttungsgleichen Betrag dieser Gewinne oder Einkünfte entspricht; der Ausdruck «ausschüttungsgleicher Betrag» hat für Zwecke dieses Absatzes die Bedeutung, die ihm nach dem Recht der Vereinigten Staaten (unter Berücksichtigung künftiger Änderungen, die die allgemeinen Grundsätze dieser Bestimmung nicht beeinträchtigen sollen) zukommt.
 
-der dem ausschüttungsgleichen Betrag dieser Gewinne oder Einkünfte entspricht; der Ausdruck «ausschüttungsgleicher Betrag» hat für Zwecke dieses Absatzes die Bedeutung, die ihm nach dem Recht der Vereinigten Staaten (unter Berücksichtigung künftiger Änderungen, die die allgemeinen Grundsätze dieser Bestimmung nicht beeinträchtigen sollen) zukommt.
+Eine in der Schweiz ansässige Gesellschaft, die in den Vereinigten Staaten eine Betriebsstätte hat oder die für Einkünfte nach Artikel 6 (Einkünfte aus unbeweglichem Vermögen) oder Artikel 13 (Gewinne aus der Veräusserung von Vermögen) in den Vereinigten Staaten auf Nettobasis besteuert wird, kann in den Vereinigten Staaten neben der nach den übrigen Bestimmungen dieses Abkommens zulässigen Steuern einer weiteren Steuer unterworfen werden. Diese Steuer darf jedoch nur erhoben werden:
 
 - a) auf dem Teil der Unternehmensgewinne, der nach diesem Abkommen der Betriebsstätte zuzurechnen ist, und
 - b) auf dem Teil der im vorhergehenden Satz genannten Einkünfte nach Artikel 6 (Einkünfte aus unbeweglichem Vermögen) oder nach den Absätzen 1 oder 3 von Artikel 13 (Gewinne aus der Veräusserung von Vermögen),
@@ -253,9 +269,9 @@ der dem ausschüttungsgleichen Betrag dieser Gewinne oder Einkünfte entspricht;
 
 <sup>5.</sup> Soweit die Absätze 1 oder 3 nichts anderes bestimmen, können Zinsen, die von einer in einem Vertragsstaat ansässigen Gesellschaft gezahlt werden, im anderen Vertragsstaat nur insoweit besteuert werden, als sie von einer in diesem anderen Staat gelegenen Betriebsstätte der Gesellschaft gezahlt werden oder aus Einkünften nach Artikel 6 (Einkünfte aus unbeweglichem Vermögen) oder nach Absatz 1 von Artikel 13 (Gewinne aus der Veräusserung von Vermögen) stammen, die im anderen Vertragsstaat auf Nettobasis besteuert werden.
 
-<sup>6.</sup> Die Bestimmungen von Absatz 1 sind nicht anwendbar auf
+<sup>6.</sup> Solche Zinsen können in den Vereinigten Staaten nach internem Recht besteuert werden.
 
-Solche Zinsen können in den Vereinigten Staaten nach internem Recht besteuert werden.
+Die Bestimmungen von Absatz 1 sind nicht anwendbar auf:
 
 - a) aus den Vereinigten Staaten stammende Zinsen, deren Betrag aufgrund von Einnahmen, Verkäufen, Einkommen, Gewinnen oder sonstigen Kassenzuflüssen des Schuldners oder einer dem Schuldner nahestehenden Person oder aufgrund von Wertveränderungen des Vermögens des Schuldners oder einer dem Schuldner nahestehenden Person oder aufgrund von Dividenden, Ausschüttungen oder ähnlichen Zahlungen durch den Schuldner oder einer dem Schuldner nahestehenden Person festgelegt ist, aber nur insoweit als diese Zinsen nach dem Recht der Vereinigten Staaten nicht als Portfolio-Zinsen gelten, und
 - b) die überschiessenden Einschlüsse in eine übrige Beteiligung an einer Person, die nach dem Recht der Vereinigten Staaten als Real Estate Mortgage Investment Conduit behandelt wird.
@@ -278,9 +294,9 @@ Solche Zinsen können in den Vereinigten Staaten nach internem Recht besteuert w
 
 <sup>1.</sup> Gewinne, die eine in einem Vertragsstaat ansässige Person aus der Veräusserung unbeweglichen Vermögens bezieht, das im anderen Vertragsstaat liegt, können in diesem anderen Staat besteuert werden.
 
-<sup>2.</sup> Im Sinne dieses Artikels umfasst der Ausdruck «unbewegliches Vermögen, das im anderen Vertragsstaat liegt»,
+<sup>2.</sup> In den Vereinigten Staaten umfasst dieser Ausdruck auch ein «United States real property interest» nach der Umschreibung im Internal Revenue Code (unter Berücksichtigung künftiger Änderungen, die die allgemeinen Grundsätze dieser Bestimmung nicht beeinträchtigen sollen).
 
-In den Vereinigten Staaten umfasst dieser Ausdruck auch ein «United States real property interest» nach der Umschreibung im Internal Revenue Code (unter Berücksichtigung künftiger Änderungen, die die allgemeinen Grundsätze dieser Bestimmung nicht beeinträchtigen sollen).
+Im Sinne dieses Artikels umfasst der Ausdruck «unbewegliches Vermögen, das im anderen Vertragsstaat liegt»:
 
 - a) unbewegliches Vermögen im Sinne von Artikel 6 (Einkünfte aus unbeweglichem Vermögen); und
 - b) Anteile oder andere vergleichbare Rechte an einer in diesem anderen Staat ansässigen Gesellschaft, deren Vermögen ganz oder überwiegend aus in diesem anderen Staat gelegenem unbeweglichem Vermögen besteht sowie Beteiligungen an einer Personengesellschaft, einem Trust oder einem Nachlass, soweit sie in diesem anderen Staat gelegenem unbeweglichem Vermögen zugerechnet werden können.
@@ -309,7 +325,9 @@ In den Vereinigten Staaten umfasst dieser Ausdruck auch ein «United States real
 
 <sup>1.</sup> Vorbehaltlich der Artikel 16 (Aufsichtsrats- und Verwaltungsratsvergütungen), 18 (Ruhegehälter und Renten) und 19 (Öffentlicher Dienst und Sozialversicherung) können Gehälter, Löhne und ähnliche Vergütungen, die eine in einem Vertragsstaat ansässige Person aus unselbständiger Arbeit bezieht, nur in diesem Staat besteuert werden, es sei denn, die Arbeit wird im anderen Vertragsstaat ausgeübt. Wird die Arbeit dort ausgeübt, so können die dafür bezogenen Vergütungen im anderen Staat besteuert werden.
 
-<sup>2.</sup> Ungeachtet des Absatzes 1 können Vergütungen, die eine in einem Vertragsstaat ansässige Person für eine im anderen Vertragsstaat ausgeübte unselbständige Arbeit bezieht, nur im erstgenannten Staat besteuert werden, wenn
+<sup>2.</sup>
+
+Ungeachtet des Absatzes 1 können Vergütungen, die eine in einem Vertragsstaat ansässige Person für eine im anderen Vertragsstaat ausgeübte unselbständige Arbeit bezieht, nur im erstgenannten Staat besteuert werden, wenn:
 
 - a) der Empfänger sich im anderen Staat insgesamt nicht länger als 183 Tage innerhalb einer Frist von zwölf Monaten, die im betreffenden Steuerjahr beginnt oder endet, aufhält, und
 - b) die Vergütungen von einem Arbeitgeber oder für einen Arbeitgeber gezahlt werden, der nicht im anderen Staat ansässig ist, und
@@ -344,8 +362,11 @@ Aufsichtsrats- und Verwaltungsratsvergütungen und ähnliche Zahlungen, die eine
 **Öffentlicher Dienst und Sozialversicherung**
 
 - 1\. a) Gehälter, Löhne und ähnliche Vergütungen, ausgenommen Ruhegehälter, die von einem Vertragsstaat oder einer seiner politischen Unterabteilungen oder lokalen Körperschaften an eine natürliche Person für die diesem Staat oder der politischen Unterabteilung oder lokalen Körperschaft geleisteten Dienste gezahlt werden, können nur in diesem Staat besteuert werden.
-- b) Diese Gehälter, Löhne und ähnlichen Vergütungen können jedoch nur im anderen Vertragsstaat besteuert werden, wenn die Dienste in diesem Staat geleistet werden und die natürliche Person in diesem Staat ansässig ist und
-  - (i) ein Staatsangehöriger dieses Staates ist oder
+- b)
+
+  Diese Gehälter, Löhne und ähnlichen Vergütungen können jedoch nur im anderen Vertragsstaat besteuert werden, wenn die Dienste in diesem Staat geleistet werden und die natürliche Person in diesem Staat ansässig ist, und:
+
+  - (i) ein Staatsangehöriger dieses Staates ist, oder
   - (ii) nicht ausschliesslich deshalb in diesem Staat ansässig geworden ist, um die Dienste zu leisten.
 
 - 2\. a) Ruhegehälter, die von einem Vertragsstaat oder einer seiner politischen Unterabteilungen oder lokalen Körperschaften oder aus einem von diesem Staat oder der politischen Unterabteilung oder lokalen Körperschaft errichteten Sondervermögen an eine natürliche Person für die diesem Staat oder der politischen Unterabteilung oder lokalen Körperschaft geleisteten Dienste gezahlt werden, können nur in diesem Staat besteuert werden.
@@ -375,13 +396,18 @@ Zahlungen, die ein Student, Lehrling oder Praktikant, der sich in einem Vertrags
 
 **Einschränkung von Abkommensvorteilen**
 
-<sup>1.</sup> Vorbehaltlich der nachstehenden Bestimmungen dieses Artikels kann eine in einem Vertragsstaat ansässige Person, die Einkünfte aus dem anderen Vertragsstaat bezieht, nur dann die Vergünstigungen nach diesem Abkommen beanspruchen, wenn diese Person
+<sup>1.</sup>
+
+Vorbehaltlich der nachstehenden Bestimmungen dieses Artikels kann eine in einem Vertragsstaat ansässige Person, die Einkünfte aus dem anderen Vertragsstaat bezieht, nur dann die Vergünstigungen nach diesem Abkommen beanspruchen, wenn diese Person:
 
 - a) eine natürliche Person ist;
 - b) ein Vertragsstaat, eine seiner politischen Unterabteilungen oder lokalen Körperschaften oder eine Behörde oder Einrichtung eines solchen Staates, einer seiner politischen Unterabteilungen oder lokalen Körperschaften ist;
 - c) im erstgenannten Vertragsstaat eine aktive gewerbliche Tätigkeit ausübt (ausser wenn die Tätigkeit in der Vornahme, der Verwaltung oder dem blossen Halten von Kapitalanlagen für eigene Rechnung besteht, es sei denn, es handelt sich um Bank- oder Versicherungstätigkeiten oder um Wertschriftentransaktionen, die von einer Bank oder Versicherungsgesellschaft oder einem eingetragenen Wertschriftenhändler ausgeübt werden) und die aus dem anderen Vertragsstaat bezogenen Einkünfte im Zusammenhang mit dieser gewerblichen Tätigkeit erzielt werden oder gelegentlich anfallen;
 - d) eine anerkannte Hauptverwaltungsgesellschaft eines multinationalen Konzerns ist;
-- e) eine Gesellschaft ist,
+- e)
+
+  eine Gesellschaft ist:
+
   - (i) deren Aktien, soweit sie zur Hauptgattung gehören, hauptsächlich und regelmässig an einer anerkannten Börse gehandelt werden; oder
   - (ii) die von einer Gesellschaft oder von Gesellschaften beherrscht wird, die die Voraussetzung von Unterabsatz (i) erfüllen;
 
@@ -390,17 +416,25 @@ Zahlungen, die ein Student, Lehrling oder Praktikant, der sich in einem Vertrags
 
 <sup>2.</sup> Ungeachtet des vorstehenden Absatzes kann eine in Absatz 1 Buchstabe c) von Artikel 4 (Ansässige Person) umschriebene Einrichtung die Vergünstigungen nach diesem Abkommen beanspruchen, sofern mehr als die Hälfte der Begünstigten, Mitglieder oder Beteiligten Personen sind, die gemäss diesem Artikel die Vergünstigungen nach diesem Abkommen beanspruchen können.
 
-- 3\. a) Eine in einem Vertragsstaat ansässige Gesellschaft kann die aufgrund der Artikel 10 (Dividenden), 11 (Zinsen) und 12 (Lizenzgebühren) vorgesehenen Vergünstigungen beanspruchen, wenn
+- 3\. a)
+
+  Eine in einem Vertragsstaat ansässige Gesellschaft kann die aufgrund der Artikel 10 (Dividenden), 11 (Zinsen) und 12 (Lizenzgebühren) vorgesehenen Vergünstigungen beanspruchen, wenn:
+
   - (i) mehr als 30 vom Hundert der gesamten Stimmrechte und des Werts aller Anteile dieser Gesellschaft von Personen gehalten werden, die in diesem Vertragsstaat ansässig sind und die gemäss Absatz 1 Buchstabe a), b), d), e), f) oder g) Vergünstigungen beanspruchen könnten;
   - (ii) mehr als 70 vom Hundert aller Anteile von Personen nach Unterabsatz (i) und von Personen gehalten werden, die in einem Mitgliedstaat der Europäischen Union, des Europäischen Wirtschaftsraums oder des Nordamerikanischen Freihandelsabkommens (NAFTA) ansässig sind und die die Voraussetzungen von Buchstabe b) erfüllen; und
   - (iii) der Betrag der von der Gesellschaft an Personen, die nicht nach Absatz 1 Buchstabe a), b), d), e), f) oder g) Vergünstigungen beanspruchen können, gezahlten oder zu zahlenden, von den Bruttoeinkünften abziehbaren Aufwendungen weniger als 50 vom Hundert der von der Gesellschaft in der vorangegangenen Steuerperiode (oder, wenn es sich um die erste Steuerperiode handelt, dieser Periode) erzielten Bruttoeinkünfte ausmacht.
 
-- b) Im Sinne von Buchstabe a) Unterabsatz (ii) werden Anteile, die von einer Person gehalten werden, die in einem Mitgliedstaat der Europäischen Union, des Europäischen Wirtschaftsraums oder des Nordamerikanischen Freihandelsabkommens ansässig ist, nur dann berücksichtigt, wenn diese Person
+- b)
+
+  Im Sinne von Buchstabe a) Unterabsatz (ii) werden Anteile, die von einer Person gehalten werden, die in einem Mitgliedstaat der Europäischen Union, des Europäischen Wirtschaftsraums oder des Nordamerikanischen Freihandelsabkommens ansässig ist, nur dann berücksichtigt, wenn diese Person:
+
   - (i) in einem Staat ansässig ist, mit dem der andere Vertragsstaat ein umfassendes Einkommenssteuerabkommen abgeschlossen hat und diese Person berechtigt ist, alle von diesem anderen Vertragsstaat nach jenem Abkommen gewährten Vergünstigungen zu beanspruchen;
   - (ii) nach Absatz 1 die Vergünstigungen beanspruchen könnte, wenn sie im erstgenannten Vertragsstaat ansässig wäre und wenn in Absatz 1 statt auf den erstgenannten Vertragsstaat auf den Staat verwiesen würde, in dem diese Person ansässig ist; und
   - (iii) aufgrund des Abkommens zwischen ihrem Ansässigkeitsstaat und dem anderen Vertragsstaat hinsichtlich derjenigen Einkünfte, für die nach diesem Abkommen Vergünstigungen beansprucht werden, im anderen Vertragsstaat einen Steuersatz beanspruchen könnte, der mindestens gleich tief ist wie der Steuersatz nach diesem Abkommen.
 
-<sup>4.</sup> Bezieht ein in einem Vertragsstaat ansässiges Unternehmen Einkünfte aus dem anderen Vertragsstaat und sind diese Einkünfte einer Betriebsstätte zuzurechnen, die dieses Unternehmen in einem Drittstaat hat, können steuerliche Vergünstigungen, die sonst aufgrund anderer Bestimmungen dieses Abkommens auf irgendwelchen Einkommensteilen gewährt würden, ungeachtet der Absätze 1 bis 3 nicht beansprucht werden, wenn die gesamte Steuer, die auf diesen Einkünften im erstgenannten Staat und im Drittstaat tatsächlich bezahlt wird, weniger als 60 vom Hundert der Steuer ausmacht, die im erstgenannten Staat zu entrichten gewesen wäre, wenn das Unternehmen die Einkünfte in diesem Staat erzielt hätte und diese Einkünfte nicht der im Drittstaat gelegenen Betriebsstätte zuzurechnen gewesen wären. Dividenden, Zinsen und Lizenzgebühren, für die dieser Absatz anzuwenden ist, unterliegen einer Steuer, deren Satz 15 vom Hundert des Bruttobetrags dieser Einkünfte nicht übersteigen darf. Andere Einkünfte, für die dieser Absatz anzuwenden ist, können ungeachtet anderer Bestimmungen dieses Abkommens nach dem internen Recht des anderen Vertragsstaates besteuert werden. Diese Bestimmung ist nicht anzuwenden auf
+<sup>4.</sup>
+
+Bezieht ein in einem Vertragsstaat ansässiges Unternehmen Einkünfte aus dem anderen Vertragsstaat und sind diese Einkünfte einer Betriebsstätte zuzurechnen, die dieses Unternehmen in einem Drittstaat hat, können steuerliche Vergünstigungen, die sonst aufgrund anderer Bestimmungen dieses Abkommens auf irgendwelchen Einkommensteilen gewährt würden, ungeachtet der Absätze 1 bis 3 nicht beansprucht werden, wenn die gesamte Steuer, die auf diesen Einkünften im erstgenannten Staat und im Drittstaat tatsächlich bezahlt wird, weniger als 60 vom Hundert der Steuer ausmacht, die im erstgenannten Staat zu entrichten gewesen wäre, wenn das Unternehmen die Einkünfte in diesem Staat erzielt hätte und diese Einkünfte nicht der im Drittstaat gelegenen Betriebsstätte zuzurechnen gewesen wären. Dividenden, Zinsen und Lizenzgebühren, für die dieser Absatz anzuwenden ist, unterliegen einer Steuer, deren Satz 15 vom Hundert des Bruttobetrags dieser Einkünfte nicht übersteigen darf. Andere Einkünfte, für die dieser Absatz anzuwenden ist, können ungeachtet anderer Bestimmungen dieses Abkommens nach dem internen Recht des anderen Vertragsstaates besteuert werden. Diese Bestimmung ist nicht anzuwenden auf:
 
 - a) Lizenzgebühren, die als Vergütung für die Benutzung oder das Recht auf Benutzung von immateriellen Gütern gezahlt werden, die von der Betriebsstätte selbst hergestellt oder entwickelt worden sind; oder
 - b) sonstige Einkünfte, die aus dem anderen Vertragsstaat stammen und die im Zusammenhang mit einer von der Betriebsstätte im Drittstaat ausgeübten aktiven Geschäftstätigkeit (ausser wenn die Tätigkeit in der Vornahme, der Verwaltung oder dem blossen Halten von Kapitalanlagen für eigene Rechnung besteht, es sei denn, es handelt sich um Bank- oder Versicherungstätigkeiten oder um Wertschriftentransaktionen, die von einer Bank oder Versicherungsgesellschaft oder einem eingetragenen Wertschriftenhändler ausgeübt werden) erzielt werden oder gelegentlich anfallen.
@@ -409,13 +443,19 @@ Zahlungen, die ein Student, Lehrling oder Praktikant, der sich in einem Vertrags
 
 <sup>6.</sup> Einer Person, die gemäss den vorstehenden Absätzen keinen Anspruch auf Vergünstigungen nach diesem Abkommen hat, können diese Vergünstigungen gleichwohl gewährt werden, wenn die zuständige Behörde des Vertragsstaates, aus dem die betreffenden Einkünfte stammen, dies nach Beratung mit der zuständigen Behörde des anderen Vertragsstaates zulässt.
 
-- 7\. a) Im Sinne von Absatz 1 bedeutet der Ausdruck «anerkannte Börse»
+- 7\. a)
+
+  Im Sinne von Absatz 1 bedeutet der Ausdruck «anerkannte Börse»:
+
   - (i) jede schweizerische Börse, an der ein registrierter Aktienhandel stattfindet;
   - (ii) das im Eigentum der National Association of Securities Dealers, Inc. stehende NASDAQ-System und jede Börse, die bei der Securities and Exchange Commission als nationale Effektenbörse im Sinne des Securities Exchange Act von 1934 registriert ist;
   - (iii) die Börsen von Amsterdam, Frankfurt, London, Madrid, Mailand, Paris, Tokio und Wien; und
   - (iv) jede sonstige Börse, auf die sich die zuständigen Behörden der Vertragsstaaten verständigen.
 
-- b) Im Sinne von Absatz 1 Buchstabe d) gilt eine Person als anerkannte Hauptverwaltungsgesellschaft, wenn
+- b)
+
+  Im Sinne von Absatz 1 Buchstabe d) gilt eine Person als anerkannte Hauptverwaltungsgesellschaft, wenn:
+
   - (i) sie im Staat, in dem sie ansässig ist, einen wesentlichen Teil der allgemeinen Überwachung und Verwaltung einer Gruppe von Gesellschaften (welche Teil einer grösseren Gruppe von Gesellschaften bilden kann) ausübt, die die Gruppenfinanzierung einschliessen, sich aber nicht hauptsächlich darauf beschränken kann;
   - (ii) die Gruppe von Gesellschaften aus Gesellschaften besteht, die in mindestens fünf Staaten ansässig sind und dort eine aktive Geschäftstätigkeit ausüben und in jedem der fünf Staaten (oder fünf Staatengruppen) mindestens 10 vom Hundert der Bruttoeinkünfte der Gruppe erzielt werden;
   - (iii) in jedem dieser Staaten, mit Ausnahme des Staates, in dem die Hauptverwaltungsgesellschaft ansässig ist, weniger als 50 vom Hundert der Bruttoeinkünfte der Gruppe erzielt werden;
@@ -435,13 +475,19 @@ Zahlungen, die ein Student, Lehrling oder Praktikant, der sich in einem Vertrags
 In der Schweiz wird die Doppelbesteuerung wie folgt vermieden:
 
 - a) Bezieht eine in der Schweiz ansässige Person Einkünfte, die nach diesem Abkommen in den Vereinigten Staaten besteuert werden können, so nimmt die Schweiz, vorbehaltlich der Buchstaben b), c) und d) und des Absatzes 3, diese Einkünfte von der Besteuerung aus; für Gewinne, mit denen sich Absatz 1 von Artikel 13 (Gewinne aus der Veräusserung von Vermögen) befasst, gilt diese Befreiung jedoch nur dann, wenn die Besteuerung dieser Gewinne in den Vereinigten Staaten nachgewiesen wird. Die Schweiz kann bei der Festsetzung der Steuer für das übrige Einkommen dieser Person den Steuersatz anwenden, der anzuwenden wäre, wenn die betreffenden Einkünfte nicht von der Besteuerung ausgenommen wären.
-- b) Bezieht eine in der Schweiz ansässige Person Dividenden, die nach Artikel 10 (Dividenden) in den Vereinigten Staaten besteuert werden können, so gewährt die Schweiz dieser Person auf Antrag und vorbehaltlich des Buchstabens c) eine Entlastung. Diese Entlastung besteht
+- b)
+
+  Bezieht eine in der Schweiz ansässige Person Dividenden, die nach Artikel 10 (Dividenden) in den Vereinigten Staaten besteuert werden können, so gewährt die Schweiz dieser Person auf Antrag und vorbehaltlich des Buchstabens c) eine Entlastung. Diese Entlastung besteht:
+
   - (i) in der Anrechnung der nach Artikel 10 (Dividenden) in den Vereinigten Staaten erhobenen Steuer auf die vom Einkommen dieser ansässigen Person geschuldete schweizerische Steuer; der anzurechnende Betrag darf jedoch den Teil der vor der Anrechnung ermittelten schweizerischen Steuer nicht übersteigen, der auf die Einkünfte entfällt, die in den Vereinigten Staaten besteuert werden können, oder
   - (ii) in einer pauschalen Ermässigung der schweizerischen Steuer, oder
   - (iii) in einer teilweisen Befreiung der betreffenden Dividenden von der schweizerischen Steuer, mindestens aber im Abzug der in den Vereinigten Staaten erhobenen Steuer vom Bruttobetrag der Dividenden.
 
 - Die Schweiz wird gemäss den schweizerischen Vorschriften über die Durchführung von zwischenstaatlichen Abkommen des Bundes zur Vermeidung der Doppelbesteuerung die Art der Entlastung bestimmen und das Verfahren ordnen.
-- c) Bezieht eine in der Schweiz ansässige Person Einkünfte,
+- c)
+
+  Bezieht eine in der Schweiz ansässige Person Einkünfte:
+
   - (i) für die nach Absatz 2 von Artikel 10 (Dividenden) oder nach Absatz 6 von Artikel 11 (Zinsen) keine Entlastung von der amerikanischen Quellensteuer gewährt wird, oder
   - (ii) die aufgrund von Artikel 22 (Einschränkung von Abkommensvorteilen) in den Vereinigten Staaten besteuert werden können,
 
@@ -485,9 +531,9 @@ Ist eine in der Schweiz ansässige Person auch ein Staatsbürger der Vereinigten
 
 <sup>2.</sup> Hält die zuständige Behörde die Einwendung für begründet und ist sie selbst nicht in der Lage, eine befriedigende Lösung herbeizuführen, so wird sie sich bemühen, den Fall durch Verständigung mit der zuständigen Behörde des anderen Vertragsstaates so zu regeln, dass eine dem Abkommen nicht entsprechende Besteuerung vermieden wird.
 
-<sup>3.</sup> Die zuständigen Behörden der Vertragsstaaten werden sich bemühen, Schwierigkeiten oder Zweifel, die bei der Auslegung oder Anwendung dieses Abkommens entstehen, in gegenseitigem Einvernehmen zu beseitigen. Insbesondere können sich die zuständigen Behörden der Vertragsstaaten konsultieren, um eine Einigung zu erzielen über
+<sup>3.</sup> Die zuständigen Behörden der Vertragsstaaten können gemeinsam darüber beraten, wie eine Doppelbesteuerung in Fällen vermieden werden kann, die im Abkommen nicht behandelt sind.
 
-Die zuständigen Behörden der Vertragsstaaten können gemeinsam darüber beraten, wie eine Doppelbesteuerung in Fällen vermieden werden kann, die im Abkommen nicht behandelt sind.
+Die zuständigen Behörden der Vertragsstaaten werden sich bemühen, Schwierigkeiten oder Zweifel, die bei der Auslegung oder Anwendung dieses Abkommens entstehen, in gegenseitigem Einvernehmen zu beseitigen. Insbesondere können sich die zuständigen Behörden der Vertragsstaaten konsultieren, um eine Einigung zu erzielen über:
 
 - a) die übereinstimmende Zurechnung von Einkünften, Abzügen sowie Anrechnungs- oder Freibeträgen bei einer in einem Vertragsstaat ansässigen Person und deren im anderen Vertragsstaat gelegenen Betriebsstätte;
 - b) die übereinstimmende Abgrenzung von Einkünften, Abzügen sowie Anrechnungs- oder Freibeträgen zwischen einer im einem Vertragsstaat ansässigen Person und einer mit ihr verbundenen Person im Sinne von Artikel 9 (Verbundene Unternehmen);
@@ -560,9 +606,11 @@ Die Absätze 1 und 2 sind nicht so auszulegen, als verpflichteten sie einen Vert
 
 <sup>2.</sup> Soweit Einkünfte wegen der den Mitgliedern diplomatischer Missionen und konsularischer Vertretungen nach den allgemeinen Regeln des Völkerrechts oder aufgrund besonderer Vereinbarungen zustehenden steuerlichen Vorrechte im Empfangsstaat nicht besteuert werden, steht das Besteuerungsrecht dem Entsendestaat zu.
 
-<sup>3.</sup> Ungeachtet des Artikels 4 (Ansässige Person) gilt eine natürliche Person, die Mitglied einer diplomatischen Mission, einer konsularischen Vertretung oder einer ständigen Vertretung eines Vertragsstaates ist, die im anderen Vertragsstaat oder in einem dritten Staat gelegen ist, im Sinne dieses Abkommens als im Entsendestaat ansässig, wenn sie
+<sup>3.</sup>
 
-- a) nach dem Völkerrecht im Empfangsstaat mit Einkünften aus Quellen ausserhalb dieses Staates nicht steuerpflichtig ist und
+Ungeachtet des Artikels 4 (Ansässige Person) gilt eine natürliche Person, die Mitglied einer diplomatischen Mission, einer konsularischen Vertretung oder einer ständigen Vertretung eines Vertragsstaates ist, die im anderen Vertragsstaat oder in einem dritten Staat gelegen ist, im Sinne dieses Abkommens als im Entsendestaat ansässig, wenn sie:
+
+- a) nach dem Völkerrecht im Empfangsstaat mit Einkünften aus Quellen ausserhalb dieses Staates nicht steuerpflichtig ist; und
 - b) im Entsendestaat den gleichen Verpflichtungen bezüglich der Steuer von ihrem gesamten Einkommen unterworfen ist wie die in diesem Staat ansässigen Personen.
 
 <sup>4.</sup> Das Abkommen gilt nicht für internationale Organisationen, deren Organe oder Beamten und für Personen, die Mitglieder einer diplomatischen Mission, einer konsularischen Vertretung oder einer ständigen Vertretung eines dritten Staates sind und die sich in einem Vertragsstaat aufhalten und in keinem der Vertragsstaaten für die Zwecke der Steuern vom Einkommen als ansässig gelten.
@@ -571,12 +619,12 @@ Die Absätze 1 und 2 sind nicht so auszulegen, als verpflichteten sie einen Vert
 
 **Verschiedenes**
 
-<sup>1.</sup> Dieses Abkommen ist nicht so auszulegen, als beschränke es in irgendeiner Weise die Befreiungen, Abzüge, Gutschriften oder sonstigen Vergünstigungen, die gegenwärtig oder künftig
+<sup>1.</sup> gewährt werden.
 
-gewährt werden.
+Dieses Abkommen ist nicht so auszulegen, als beschränke es in irgendeiner Weise die Befreiungen, Abzüge, Gutschriften oder sonstigen Vergünstigungen, die gegenwärtig oder künftig:
 
-- a) nach dem innerstaatlichen Recht eines der Vertragsstaaten oder
-- b) nach einer anderen zwischen den Vertragsstaaten abgeschlossenen Vereinbarung
+- a) nach dem innerstaatlichen Recht eines der Vertragsstaaten; oder
+- b) nach einer anderen zwischen den Vertragsstaaten abgeschlossenen Vereinbarung,
 
 <sup>2.</sup>
 
@@ -588,9 +636,9 @@ Ungeachtet von Absatz 1 Buchstabe b) gilt folgendes:
 
 <sup>3.</sup> Für die Durchführung der Absätze 1 und 2 von Artikel 7 (Unternehmensgewinne), des Absatzes 5 von Artikel 10 (Dividenden), des Absatzes 3 von Artikel 11 (Zinsen), des Absatzes 3 von Artikel 12 (Lizenzgebühren), des Absatzes 3 von Artikel 13 (Gewinne aus der Veräusserung von Vermögen), des Absatzes 2 von Artikel 14 (Selbständige Arbeit) und des Absatzes 2 von Artikel 21 (Übrige Einkünfte) sind die während der Dauer des Bestehens einer Betriebsstätte zurechenbaren Einkünfte, Gewinne oder Aufwendungen nach den üblichen Grundsätzen in dem Vertragsstaat steuerbar oder abziehbar, in dem die Betriebsstätte gelegen ist, selbst wenn die Zahlungen bis zu einem Zeitpunkt aufgeschoben werden, in dem die Betriebsstätte nicht mehr besteht.
 
-<sup>4.</sup> Bei der Festsetzung des in einem Vertragsstaat zu versteuernden Einkommens einer natürlichen Person, die eine unselbständige Arbeit ausübt und die in diesem Staat ansässig ist, aber nicht dessen Staatsangehörigkeit besitzt, sind Beiträge, die von dieser natürlichen Person oder für diese Person an eine Pensionseinrichtung gezahlt werden, die im anderen Vertragsstaat errichtet worden ist und geführt wird und die in diesem anderen Staat steuerlich anerkannt ist, im erstgenannten Staat steuerlich gleich zu behandeln wie Beiträge, die an eine in diesem erstgenannten Staat errichtete, geführte und steuerlich anerkannte Pensionseinrichtung gezahlt werden, sofern
+<sup>4.</sup> Die Vergünstigungen dieses Absatzes gelten für einen fünf Steuerjahre nicht übersteigenden Zeitraum, beginnend mit dem ersten Steuerjahr, in dem die natürliche Person die unselbständige Arbeit im erstgenannten Vertragsstaat ausübt. Im Sinne dieses Absatzes gilt eine Pensionseinrichtung als in einem Vertragsstaat steuerlich anerkannt, wenn die Beiträge an diese Einrichtung und deren Einkünfte in diesem Staat steuerbefreit sind.[^28-2]
 
-Die Vergünstigungen dieses Absatzes gelten für einen fünf Steuerjahre nicht übersteigenden Zeitraum, beginnend mit dem ersten Steuerjahr, in dem die natürliche Person die unselbständige Arbeit im erstgenannten Vertragsstaat ausübt. Im Sinne dieses Absatzes gilt eine Pensionseinrichtung als in einem Vertragsstaat steuerlich anerkannt, wenn die Beiträge an diese Einrichtung und deren Einkünfte in diesem Staat steuerbefreit sind.
+Bei der Festsetzung des in einem Vertragsstaat zu versteuernden Einkommens einer natürlichen Person, die eine unselbständige Arbeit ausübt und die in diesem Staat ansässig ist, aber nicht dessen Staatsangehörigkeit besitzt, sind Beiträge, die von dieser natürlichen Person oder für diese Person an eine Pensionseinrichtung gezahlt werden, die im anderen Vertragsstaat errichtet worden ist und geführt wird und die in diesem anderen Staat steuerlich anerkannt ist, im erstgenannten Staat steuerlich gleich zu behandeln wie Beiträge, die an eine in diesem erstgenannten Staat errichtete, geführte und steuerlich anerkannte Pensionseinrichtung gezahlt werden, sofern:
 
 - a) die Person nicht unmittelbar vor Aufnahme ihrer Tätigkeit in diesem Staat ansässig war und schon vor diesem Zeitpunkt Beiträge an diese Pensionseinrichtung geleistet hat; und
 - b) die zuständige Behörde dieses Staates anerkennt, dass die Pensionseinrichtung des anderen Vertragsstaates grundsätzlich einer steuerlich anerkannten Pensionseinrichtung des erstgenannten Staates entspricht.
@@ -598,6 +646,7 @@ Die Vergünstigungen dieses Absatzes gelten für einen fünf Steuerjahre nicht �
 <sup>5.</sup> Die entsprechende Behörde eines jeden Vertragsstaates kann die Aufnahme von Konsultationen mit der entsprechenden Behörde des anderen Vertragsstaates über die Frage verlangen, ob eine Anpassung des Abkommens an Änderungen des internen Rechts oder der Abkommenspolitik eines Vertragsstaates erforderlich ist. Ergeben diese Konsultationen, dass die Auswirkungen des Abkommens oder dessen Anwendung aufgrund von internen Rechtsvorschriften, die ein Vertragsstaat erlassen hat, einseitig und in einer Weise geändert worden sind, dass dadurch der Ausgleich der Vergünstigungen, die das Abkommen vorsieht, wesentlich gestört wird, werden die Behörden über eine Anpassung des Abkommens zur Wiederherstellung des Gleichgewichts der Abkommensvergünstigungen beraten.
 
 [^28-1]: [SR 0.632.21](https://fedlex.data.admin.ch/eli/cc/1959/1745_1807_1812)
+[^28-2]: Die Berichtigung vom 13. Okt. 2022 betrifft nur den französischen Text ([AS 2022 579](https://fedlex.data.admin.ch/eli/oc/2022/579)).
 
 #### Art. 29
 
@@ -622,9 +671,9 @@ Das Abkommen tritt mit dem Austausch der Ratifikationsurkunden in Kraft und sein
 
 **Kündigung**
 
-Dieses Abkommen bleibt in Kraft, solange es nicht von einem Vertragsstaat gekündigt wird. Jeder Vertragsstaat kann das Abkommen auf diplomatischem Weg jederzeit unter Einhaltung einer Frist von mindestens sechs Monaten kündigen. In diesem Fall findet das Abkommen nicht mehr Anwendung
-
 Geschehen zu Washington am 2. Oktober 1996 im Doppel in deutscher und englischer Sprache, wobei jeder Wortlaut gleicherweise verbindlich ist.
+
+Dieses Abkommen bleibt in Kraft, solange es nicht von einem Vertragsstaat gekündigt wird. Jeder Vertragsstaat kann das Abkommen auf diplomatischem Weg jederzeit unter Einhaltung einer Frist von mindestens sechs Monaten kündigen. In diesem Fall findet das Abkommen nicht mehr Anwendung:
 
 - a) hinsichtlich der an der Quelle erhobenen Steuer für Beträge, die am oder nach dem 1. Januar nach Ablauf der Frist von sechs Monaten gezahlt oder gutgeschrieben werden;
 - b) hinsichtlich der übrigen Steuern für Steuerperioden, die am oder nach dem 1. Januar nach Ablauf der Frist von sechs Monaten beginnen.
@@ -633,7 +682,7 @@ Geschehen zu Washington am 2. Oktober 1996 im Doppel in deutscher und englischer
 <tr><td>Für die Schweizerische Eidgenossenschaft: Kaspar Villiger</td><td>Für die Vereinigten Staaten von Amerika: Lawrence H. Summers</td></tr>
 </table>
 
-## Artikel 5 Absatz 2 des Protokolls vom 23. September 2009****
+## Artikel 5 Absatz 2 des Protokolls vom 23. September 2009
 
 [^lvlu31-1]
 
@@ -701,7 +750,7 @@ Es besteht Einvernehmen darüber, dass ein Vertragsstaat die Beurteilung, ob ein
 
 Dieses Abkommen steht der Anwendung von Section 367(e)(1) oder (e)(2) oder von Section 1446 des Internal Revenue Code durch die Vereinigten Staaten nicht entgegen.
 
-### 10.**** Zu Artikel 26 (Informationsaustausch)
+### 10. Zu Artikel 26 (Informationsaustausch)
 
 [^lvlu32-lvl10-1]
 
@@ -872,7 +921,7 @@ Werden deshalb beispielsweise sämtliche Stammaktien einer amerikanischen Gesell
 - c) Personen oder Behörden, denen in Anwendung von Artikel 26 Informationen zugänglich gemacht wurden, dürfen diese Informationen in einem öffentlichen Gerichtsverfahren oder in einer Gerichtsentscheidung offenlegen.
 - d) Es besteht Einvernehmen darüber, dass das schweizerische Bankgeheimnis der Beschaffung von Urkundenbeweisen bei Banken und deren Weiterleitung nach dem Abkommen an die zuständige Behörde der Vereinigten Staaten von Amerika in Fällen von Abgabebetrug nicht entgegensteht.
 
-Anhang A*[^t-2]*
+Anhang A[^t-2]
 
 ## Notenaustausch
 
