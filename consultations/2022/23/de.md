@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung der Transplantationsverordnung
 document: Vernehmlassungsvorlage
 language: de
