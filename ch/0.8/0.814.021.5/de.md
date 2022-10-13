@@ -3,11 +3,11 @@ sr: "0.814.021.5"
 title: "Änderung des Montrealer Protokolls über Stoffe, die zu einem Abbau der Ozonschicht führen, vom 15. Oktober 2016"
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/820"
 language: de
-version: 2022-06-02
+version: 2022-10-14
 adopted: 2016-10-15
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/820/20220602/de/xml/fedlex-data-admin-ch-eli-cc-2018-820-20220602-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/820/20220602/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/820/20221014/de/xml/fedlex-data-admin-ch-eli-cc-2018-820-20221014-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/820/20221014/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -22,7 +22,7 @@ Ratifikationsurkunde von der Schweiz hinterlegt am 7. November 2018
 
 In Kraft getreten für die Schweiz am 1. Januar 2019
 
-(Stand am 2. Juni 2022)
+(Stand am 14. Oktober 2022)
 
 Übersetzung
 
@@ -343,7 +343,7 @@ Jede Vertragspartei kann jederzeit vor Inkrafttreten dieser Änderung für sie e
 
 (Es folgen die Unterschriften)
 
-Geltungsbereich am 2. Juni 2022**[^t-1]**
+Geltungsbereich am 14. Oktober 2022[^t-1]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -404,6 +404,7 @@ Geltungsbereich am 2. Juni 2022**[^t-1]**
 <tr><td>Kiribati</td><td>26. Oktober</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
 <tr><td>Kolumbien</td><td>25. Februar</td><td>2021</td><td>26. Mai</td><td>2021</td></tr>
 <tr><td>Komoren</td><td>16. November</td><td>2017</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Kongo (Brazzaville)</td><td>16. Juni</td><td>2022</td><td>14. September</td><td>2022</td></tr>
 <tr><td>Korea (Nord-)</td><td>21. September</td><td>2017</td><td>1. Januar</td><td>2019</td></tr>
 <tr><td>Kroatien</td><td>6. Dezember</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
 <tr><td>Kuba</td><td>20. Juni</td><td>2019</td><td>18. September</td><td>2019</td></tr>
@@ -424,6 +425,7 @@ Geltungsbereich am 2. Juni 2022**[^t-1]**
 <tr><td>Mauritius</td><td>1. Oktober</td><td>2019</td><td>30. Dezember</td><td>2019</td></tr>
 <tr><td>Mexiko</td><td>25. September</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
 <tr><td>Mikronesien</td><td>12. Mai</td><td>2017</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Mongolei</td><td>27. Juli</td><td>2022</td><td>25. Oktober</td><td>2022</td></tr>
 <tr><td>Montenegro</td><td>23. April</td><td>2019</td><td>22. Juli</td><td>2019</td></tr>
 <tr><td>Mosambik</td><td>16. Januar</td><td>2020</td><td>15. April</td><td>2020</td></tr>
 <tr><td>Namibia</td><td>16. Mai</td><td>2019</td><td>14. August</td><td>2019</td></tr>
@@ -463,6 +465,7 @@ Geltungsbereich am 2. Juni 2022**[^t-1]**
 <tr><td>St. Lucia</td><td>2. November</td><td>2021</td><td>31. Januar</td><td>2022</td></tr>
 <tr><td>Südafrika</td><td>1. August</td><td>2019</td><td>30. Oktober</td><td>2019</td></tr>
 <tr><td>Syrien</td><td>5. April</td><td>2021</td><td>4. Juli</td><td>2021</td></tr>
+<tr><td>Tadschikistan</td><td>29. Juni</td><td>2022</td><td>27. September</td><td>2022</td></tr>
 <tr><td>Tansania</td><td>25. März</td><td>2022</td><td>23. Juni</td><td>2022</td></tr>
 <tr><td>Togo</td><td>8. März</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
 <tr><td>Tonga</td><td>17. September</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
@@ -481,8 +484,8 @@ Geltungsbereich am 2. Juni 2022**[^t-1]**
 <tr><td>Gibraltar</td><td>18. Oktober</td><td>2019</td><td>18. Oktober</td><td>2019</td></tr>
 <tr><td>Insel Man</td><td>25. Februar</td><td>2021</td><td>25. Februar</td><td>2021</td></tr>
 <tr><td>Vietnam</td><td>27. September</td><td>2019</td><td>26. Dezember</td><td>2019</td></tr>
-<tr><td>Zypern</td><td>22. Juli</td><td>2019</td><td>20. Oktober</td><td>2019</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Organisation der Vereinten Nationen (UNO): http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Die Änderung des Montrealer Protokolls gilt nicht für Grönland. <sup>b</sup> Die Änderung des Montrealer Protokolls gilt nicht für Tokelau.</td></tr>
+<tr><td>Zypern<sup>\*\*</sup></td><td>22. Juli</td><td>2019</td><td>20. Oktober</td><td>2019</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Organisation der Vereinten Nationen (UNO): http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Die Änderung des Montrealer Protokolls gilt nicht für Grönland. <sup>b</sup> Die Änderung des Montrealer Protokolls gilt nicht für Tokelau.</td></tr>
 </table>
 
-[^t-1]: [AS 2018 5421](https://fedlex.data.admin.ch/eli/oc/2018/820); [2019 601](https://fedlex.data.admin.ch/eli/oc/2019/102), [2255](https://fedlex.data.admin.ch/eli/oc/2019/425), [2663](https://fedlex.data.admin.ch/eli/oc/2019/499); [2020 251](https://fedlex.data.admin.ch/eli/oc/2020/42), [563](https://fedlex.data.admin.ch/eli/oc/2020/102), [3491](https://fedlex.data.admin.ch/eli/oc/2020/609), [3959](https://fedlex.data.admin.ch/eli/oc/2020/733), [4655](https://fedlex.data.admin.ch/eli/oc/2020/833); [2021 56](https://fedlex.data.admin.ch/eli/oc/2021/56), [120](https://fedlex.data.admin.ch/eli/oc/2021/120), [554](https://fedlex.data.admin.ch/eli/oc/2021/554); [2022 55](https://fedlex.data.admin.ch/eli/oc/2022/55), [334](https://fedlex.data.admin.ch/eli/oc/2022/334). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: www.fedlex.admin.ch/de/treaty
+[^t-1]: [AS 2018 5421](https://fedlex.data.admin.ch/eli/oc/2018/820); [2019 601](https://fedlex.data.admin.ch/eli/oc/2019/102), [2255](https://fedlex.data.admin.ch/eli/oc/2019/425), [2663](https://fedlex.data.admin.ch/eli/oc/2019/499); [2020 251](https://fedlex.data.admin.ch/eli/oc/2020/42), [563](https://fedlex.data.admin.ch/eli/oc/2020/102), [3491](https://fedlex.data.admin.ch/eli/oc/2020/609), [3959](https://fedlex.data.admin.ch/eli/oc/2020/733), [4655](https://fedlex.data.admin.ch/eli/oc/2020/833); [2021 56](https://fedlex.data.admin.ch/eli/oc/2021/56), [120](https://fedlex.data.admin.ch/eli/oc/2021/120), [554](https://fedlex.data.admin.ch/eli/oc/2021/554); [2022 55](https://fedlex.data.admin.ch/eli/oc/2022/55), [334](https://fedlex.data.admin.ch/eli/oc/2022/334), [591](https://fedlex.data.admin.ch/eli/oc/2022/591). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht https://www.fedlex.admin.ch/de/treaty
