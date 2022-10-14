@@ -4,11 +4,11 @@ title: Verordnung vom 27. Mai 2020 über den Vollzug der Lebensmittelgesetzgebun
 short: LMVV
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/460"
 language: de
-version: 2022-06-01
+version: 2022-10-15
 adopted: 2020-05-27
 in_force: 2020-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/460/20220601/de/xml/fedlex-data-admin-ch-eli-cc-2020-460-20220601-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20220601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/460/20221015/de/xml/fedlex-data-admin-ch-eli-cc-2020-460-20221015-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20221015/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20220601/de"
 
 (LMVV)
 
-vom 27. Mai 2020 (Stand am 1. Juni 2022)
+vom 27. Mai 2020 (Stand am 15. Oktober 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -1748,6 +1748,18 @@ Sendungen mit den nachfolgenden Lebensmitteln, die zum Zeitpunkt des Inkrafttret
 
 [^118a-1]: Eingefügt durch Ziff. I der V des BLV vom 10. Jan. 2022, in Kraft seit 12. Jan. 2022 ([AS 2022 4](https://fedlex.data.admin.ch/eli/oc/2022/4)).
 
+#### Art. 118b
+
+**Übergangsbestimmung zur Änderung vom 26. September 2022**[^118b-1]
+
+Sendungen mit den nachfolgenden Lebensmitteln, die zum Zeitpunkt des Inkrafttretens der Änderung vom 26. September 2022 bereits versendet wurden, dürfen bis zum 1. November 2022 ohne amtliche Bescheinigung sowie ohne Ergebnisse von Probenahmen und Analysen eingeführt werden:
+
+- a. Palmöl aus Ghana;
+- b. Johannisbrotkernmehl oder Guarkernmehl enthaltende Mischungen von Lebensmittelzusatzstoffen aus Indien; und
+- c. Johannisbrotkernmehl enthaltende Mischungen von Lebensmittelzusatzstoffen aus Malaysia und der Türkei.
+
+[^118b-1]: Eingefügt durch Ziff. I der V des BLV vom 26. Sept. 2022, in Kraft seit 15. Okt. 2022 ([AS 2022 565](https://fedlex.data.admin.ch/eli/oc/2022/565)).
+
 #### Art. 119
 
 **Inkrafttreten**
@@ -1763,18 +1775,18 @@ Anhang 1
 - 1\. Flughafen Zürich
 - 2\. Flughafen Genf
 
-Anhang 2*[^t-1]*
+Anhang 2[^t-1]
 
 (Art. 37 Abs. 1, 38 Abs. 1 Bst. b, 2 und 5)
 
 ## Lebensmittel nicht tierischer Herkunft aus bestimmten Ländern, die vorübergehend verstärkten amtlichen Kontrollen nach den Artikeln 37−43 unterliegen
 
-[^t-1]: Bereinigt gemäss Ziff. II der V des BLV vom 10. Jan. 2022, in Kraft seit 12. Jan. 2022 ([AS 2022 4](https://fedlex.data.admin.ch/eli/oc/2022/4)).
+[^t-1]: Bereinigt gemäss Ziff. II der V des BLV vom 26. Sept. 2022, in Kraft seit 15. Okt. 2022 ([AS 2022 565](https://fedlex.data.admin.ch/eli/oc/2022/565)).
 
-- 1\. Sämtliche Lebensmittel, die in Anhang I der Durchführungsverordnung (EU 2019/1793[^annex2-lvlu1-1] aufgeführt sind.
+- 1\. Sämtliche Lebensmittel, die in Anhang I der Durchführungsverordnung (EU) 2019/1793[^annex2-lvlu1-1] aufgeführt sind. Ausgenommen von dieser Kontrollfrequenz sind folgende Produkte aus Vietnam: Korianderblätter, Basilikum und indisches Basilikum, Minze, Petersilie, Okra und Paprika der Capsicum-Arten. Die Kontrollfrequenz beträgt 20 Prozent.
 - 2\. Probenahme und Analytik richtet sich nach Anhang III der Durchführungsverordnung, falls in Anhang I der Durchführungsverordnung darauf verwiesen wird.
 
-[^annex2-lvlu1-1]: Durchführungsverordnung (EU) 2019/1793 vom 22. Oktober 2019 über die vorübergehende Verstärkung der amtlichen Kontrollen und über Sofortmassnahmen beim Eingang bestimmter Waren aus bestimmten Drittländern in die Union zur Durchführung der Verordnungen (EU) 2017/625 und (EG) Nr. 178/2002 des Europäischen Parlaments und des Rates und zur Aufhebung der Verordnungen (EG) Nr. 669/2009, (EU) Nr. 884/2014, (EU) 2015/175, (EU) 2017/186 und (EU) 2018/1660 der Kommission, Abl. L 277 vom 29.10.2019, S. 89; zuletzt geändert durch die Durchführungsverordnung (EU) 2021/2246, ABl. L 453 vom 17.12.2021, S. 5.
+[^annex2-lvlu1-1]: Durchführungsverordnung (EU) 2019/1793 vom 22. Oktober 2019 über die vorübergehende Verstärkung der amtlichen Kontrollen und über Sofortmassnahmen beim Eingang bestimmter Waren aus bestimmten Drittländern in die Union zur Durchführung der Verordnungen (EU) 2017/625 und (EG) Nr. 178/2002 des Europäischen Parlaments und des Rates und zur Aufhebung der Verordnungen (EG) Nr. 669/2009, (EU) Nr. 884/2014, (EU) 2015/175, (EU) 2017/186 und (EU) 2018/1660 der Kommission, Abl. L 277 vom 29.10.2019, S. 89; zuletzt geändert durch die Durchführungsverordnung (EU) 2022/913, ABl. L 158 vom 13.06.2022, S. 1.
 
 Anhang 3
 

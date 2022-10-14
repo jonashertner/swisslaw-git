@@ -4,11 +4,11 @@ title: "Ordinanza del 27 maggio 2020 sull'esecuzione della legislazione sulle de
 short: OELDerr
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/460"
 language: it
-version: 2022-06-01
+version: 2022-10-15
 adopted: 2020-05-27
 in_force: 2020-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/460/20220601/it/xml/fedlex-data-admin-ch-eli-cc-2020-460-20220601-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20220601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/460/20221015/it/xml/fedlex-data-admin-ch-eli-cc-2020-460-20221015-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20221015/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20220601/it"
 
 (OELDerr)
 
-del 27 maggio 2020 (Stato 1° giugno 2022) (Stato 1° giugno 2022)
+del 27 maggio 2020 (Stato 15 ottobre 2022)
 
 Il Consiglio federale svizzero,
 
@@ -1743,6 +1743,18 @@ Le partite con le seguenti derrate alimentari già inviate al momento dell’ent
 
 [^118a-1]: Introdotto dal n. I dell’O dell’USAV del 10 gen. 2022, in vigore dal 12 gen. 2022 ([RU 2022 4](https://fedlex.data.admin.ch/eli/oc/2022/4)).
 
+#### Art. 118b
+
+**Disposizione transitoria della modifica del 26 settembre 2022**[^118b-1]
+
+Le partite con le seguenti derrate alimentari già inviate al momento dell’entrata in vigore della modifica del 26 settembre 2022 possono essere importate fino al 1° novembre 2022 senza attestazione ufficiale e senza risultati delle campionature e delle analisi:
+
+- a. olio di palma proveniente dal Ghana;
+- b. miscele di additivi alimentari contenenti farina di semi di carrube o gomma di guar provenienti dall’India; e
+- c. miscele di additivi alimentari contenenti farina di semi di carrube provenienti dalla Malaysia o dalla Turchia.
+
+[^118b-1]: Introdotto dal n. I dell’O dell’USAV del 26 set. 2022, in vigore dal 15 ott. 2022 ([RU 2022 565](https://fedlex.data.admin.ch/eli/oc/2022/565)).
+
 #### Art. 119
 
 **Entrata in vigore**
@@ -1758,18 +1770,18 @@ Allegato 1
 - 1\. Aeroporto di Zurigo
 - 2\. Aeroporto di Ginevra
 
-Allegato 2*[^t-1]*
+Allegato 2[^t-1]
 
 (art. 37 cpv. 1, 38 cpv. 1 lett. b, 2 e 5)
 
-## Derrate alimentari non di origine animale provenienti da determinati Paesi che sono soggetti temporaneamente ai controlli ufficiali approfonditi secondo gli articoli 37–43
+## Derrate alimentari non di origine animale provenienti da determinati Paesi che sono soggetti temporaneamente ai controlli ufficiali approfonditi secondo gli articoli 37−43
 
-[^t-1]: Aggiornato dal n. II dell’O dell’USAV del 10 gen. 2022, in vigore dal 12 gen. 2022 ([RU 2022 4](https://fedlex.data.admin.ch/eli/oc/2022/4)).
+[^t-1]: Aggiornato dal n. II dell’O dell’USAV del 26 set. 2022, in vigore dal 15 ott. 2022 ([RU 2022 565](https://fedlex.data.admin.ch/eli/oc/2022/565)).
 
-- 1\. Tutte le derrate alimentari iscritte nell’allegato I del regolamento di esecuzione (UE) 2019/1793[^annex2-lvlu1-1].
+- 1\. Tutte le derrate alimentari iscritte nell’allegato I del regolamento di esecuzione (UE) 2019/1793[^annex2-lvlu1-1]. Sono esclusi da questa frequenza dei controlli i seguenti prodotti provenienti dal Vietnam: foglie di coriandolo, basilico e basilico sacro, menta, prezzemolo, gombo (okra) e peperoni del genere *Capsicum*. La frequenza dei controlli è del 20 per cento.
 - 2\. La campionatura e l’analisi si basano sull’allegato III del regolamento di esecuzione qualora allo stesso rimandi l’allegato I.
 
-[^annex2-lvlu1-1]: Regolamento di esecuzione (UE) 2019/1793 della Commissione, del 22 ottobre 2019, relativo all’incremento temporaneo dei controlli ufficiali e delle misure di emergenza che disciplinano l’ingresso nell’Unione di determinate merci provenienti da alcuni paesi terzi, e che attua i regolamenti (UE) 2017/625 e (CE) n. 178/2002 del Parlamento europeo e del Consiglio e abroga i regolamenti (CE) n. 669/2009, (UE) n. 884/2014, (UE) 2015/175, (UE) 2017/186 e (UE) 2018/1660 della Commissione, GU L 277 del 29.10.2019, pag. 89; modificato da ultimo dal regolamento di esecuzione (UE) 2021/2246, GU L 453 del 17.12.2021, pag. 5.
+[^annex2-lvlu1-1]: Regolamento di esecuzione (UE) 2019/1793 della Commissione, del 22 ottobre 2019, relativo all’incremento temporaneo dei controlli ufficiali e delle misure di emergenza che disciplinano l’ingresso nell’Unione di determinate merci provenienti da alcuni paesi terzi, e che attua i regolamenti (UE) 2017/625 e (CE) n. 178/2002 del Parlamento europeo e del Consiglio e abroga i regolamenti (CE) n. 669/2009, (UE) n. 884/2014, (UE) 2015/175, (UE) 2017/186 e (UE) 2018/1660 della Commissione, GU L 277 del 29.10.2019, pag. 89; modificato da ultimo dal regolamento di esecuzione (UE) 2022/913, GU L 158 del 13.06.2022, pag. 1.
 
 Allegato 3
 
