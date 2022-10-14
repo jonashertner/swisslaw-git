@@ -3,11 +3,11 @@ sr: "817.023.21"
 title: Ordinanza del DFI del 16 dicembre 2016 sui materiali e gli oggetti destinati a entrare in contatto con le derrate alimentari (Ordinanza sui materiali e gli oggetti)
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/164"
 language: it
-version: 2020-12-01
+version: 2022-10-15
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20201201/it/xml/fedlex-data-admin-ch-eli-cc-2017-164-20201201-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/164/20201201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20221015/it/xml/fedlex-data-admin-ch-eli-cc-2017-164-20221015-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/164/20221015/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/164/20201201/it"
 
 (Ordinanza sui materiali e gli oggetti)
 
-del 16 dicembre 2016 (Stato 1° dicembre 2020) (Stato 1° dicembre 2020)
+del 16 dicembre 2016 (Stato 15 ottobre 2022)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -570,7 +570,7 @@ Qualora diano l’impressione di essere commestibili, i materiali e gli oggetti 
 
 <sup>2</sup> La documentazione deve contenere informazioni concernenti l’adeguatezza e l’efficacia dei materiali e degli oggetti attivi e intelligenti, le condizioni e i risultati delle prove, dei calcoli o delle altre analisi, nonché le prove della sicurezza o le argomentazioni a dimostrazione della conformità.
 
-## Sezione 13*a*:**** Vernici e rivestimenti
+## Sezione 13*a*: Vernici e rivestimenti
 
 [^sec13a-1]
 
@@ -623,7 +623,7 @@ L’annuncio di una nuova sostanza deve essere accompagnato da un fascicolo comp
 
 L’ordinanza del DFI del 23 novembre 2005[^42-1] sui materiali e gli oggetti è abrogata.
 
-[^42-1]: [[RU 2005 6363](https://fedlex.data.admin.ch/eli/oc/2005/809), [2006 4989](https://fedlex.data.admin.ch/eli/oc/2006/777), [2008 1061](https://fedlex.data.admin.ch/eli/oc/2008/207)[6047](https://fedlex.data.admin.ch/eli/oc/2008/840), [2010 977](https://fedlex.data.admin.ch/eli/oc/2010/159), [2013 899](https://fedlex.data.admin.ch/eli/oc/2013/181)]
+[^42-1]: [[RU 2005 6363](https://fedlex.data.admin.ch/eli/oc/2005/809); [2006 4989](https://fedlex.data.admin.ch/eli/oc/2006/777); [2008 1061](https://fedlex.data.admin.ch/eli/oc/2008/207), [6047](https://fedlex.data.admin.ch/eli/oc/2008/840); [2010 977](https://fedlex.data.admin.ch/eli/oc/2010/159); [2013 899](https://fedlex.data.admin.ch/eli/oc/2013/181)]
 
 #### Art. 43
 
@@ -664,18 +664,18 @@ Allegato 1
 
 ## Simbolo riportato sui materiali e sugli oggetti, indicante l’uso al quale sono destinati
 
-## ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20201201/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20221015/it/xml/image/image1.png)
 
-Allegato 2*[^t-1]*
+Allegato 2[^t-1]
 
 (art. 11 cpv. 1, 2 lett. g, e 4, 13 cpv. 1, 14 cpv. 1 lett. b, 24 cpv. 3, 32 cpv. 1, 35 cpv. 1 e 43 cpv. 3)
 
-## Elenco delle sostanze ammesse per la produzione di strati di plastica di materiali e oggetti di plastica, requisiti in merito****
+## Elenco delle sostanze ammesse per la produzione di strati di plastica di materiali e oggetti di plastica, requisiti in merito
 
 [^annex2-lvlu1-1]
 
-[^t-1]: Nuovo testo giusta il n. II cpv. 2 dell’O del DFI del 23 ott. 219, in vigore dal 1° dic. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)).
-[^annex2-lvlu1-1]: L’elenco non è pubblicato né nella RU, né nella RS. Può essere ottenuto presso l’USAV, Schwarzenburgstrasse 155, 3003 Berna. Può anche essere consultato su sito Internet al seguente indirizzo: www.blv.admin.ch &gt; Oggetti d’uso &gt; Imballaggi
+[^t-1]: Nuovo testo giusta il n. II cpv. 2 dell’O del DFI del 23 ott. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Aggiornato dal n. I cpv. 1 dell’O del USAV del 26 set. 2022, in vigore dal 15 ott. 2022 ([RU 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)).
+[^annex2-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2022/564](https://fedlex.data.admin.ch/eli/oc/2022/564) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 3[^t-2]
 
@@ -683,7 +683,7 @@ Allegato 3[^t-2]
 
 ## Dichiarazione di conformità dei materiali e degli oggetti di plastica
 
-[^t-2]: Aggiornato dal n. II cpv. 3 dell’O del DFI del 23 ott. 219, in vigore dal 1° dic. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)).
+[^t-2]: Aggiornato dal n. II cpv. 3 dell’O del DFI del 23 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)).
 
 La dichiarazione scritta di cui all’articolo 15 capoverso 2 deve contenere le seguenti informazioni:
 
@@ -706,13 +706,13 @@ La dichiarazione scritta di cui all’articolo 15 capoverso 2 deve contenere le 
 
 [^annex3-lvlu1-1]: [RS 817.022.31](https://fedlex.data.admin.ch/eli/cc/2013/842)
 
-Allegato 4*[^t-3]*
+Allegato 4[^t-3]
 
 (art. 15 cpv. 2)
 
-## Regole per la valutazione della conformità ai limiti di migrazione dei materiali e degli oggetti di plastica
+## Regole per la valutazione della conformità ai limiti di migrazione dei materiali e degli oggetti in plastica
 
-[^t-3]: Nuovo testo giusta il n. II cpv. 2 dell’O del DFI del 23 ott. 219, in vigore dal 1° dic. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)).
+[^t-3]: Nuovo testo giusta il n. II cpv. 2 dell’O del DFI del 23 ott. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Aggiornato dal n. I cpv. 2 dell’O del USAV del 26 set. 2022, in vigore dal 15 ott. 2022 ([RU 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)).
 
 ### 1 Simulanti alimentari
 
@@ -982,7 +982,7 @@ La prova OM2 comprende anche le condizioni di contatto con derrate alimentari de
 Tabella 4 Condizioni di prova standardizzate per la migrazione globale
 
 <table>
-<tr><td>N. prova</td><td>Tempo di contatto in giorni [gg] o ore [h] alla temperatura di contatto in [°C]</td><td>Condizioni di contatto previste con le derrate alimentari</td></tr>
+<tr><th>N. prova</th><th>Tempo di contatto in giorni [gg] o ore [h] alla temperatura di contatto in [°C]</th><th>Condizioni di contatto previste con le derrate alimentari</th></tr>
 <tr><td>OM1</td><td>10 gg a 20 °C</td><td>Qualunque contatto con la derrata alimentare in condizioni di congelamento e refrigeramento</td></tr>
 <tr><td>OM2</td><td>10 gg a 40 °C</td><td>Qualunque conservazione prolungata a temperatura ambiente o inferiore, compreso quando imballata in condizioni di riempimento a caldo e/o riscaldamento fino a una temperatura T, laddove 70 °C ≤ T ≤ 100 °C per una durata massima t = 120/2^[(T-70)/ 10] minuti.</td></tr>
 <tr><td>OM3</td><td>2 h a 70 °C</td><td>Qualunque condizione di contatto che comprenda il riempimento a caldo e/o il riscaldamento a una temperatura T, laddove 70 °C ≤ T ≤ 100 °C per una durata massima t = 120/2^[(T-70)/10] minuti, cui non segue una conservazione prolungata a temperatura ambiente o allo stato refrigerato.</td></tr>
@@ -1048,7 +1048,7 @@ La derrata alimentare è trattata conformemente alle istruzioni di cottura indic
 
 ### 2.4.1.3 Analisi delle sostanze migrate
 
-La migrazione specifica è analizzata nelle derrate alimentari secondo un metodo analitico conforme alle disposizioni dell’articolo 54 dell’ordinanza del 16 dicembre 2016[^annex4-lvlu1-lvl2-lvl24-lvl241-lvl2413-1] sull’esecuzione della legislazione sulle derrate alimentari (OELDerr).
+La migrazione specifica è analizzata nelle derrate alimentari secondo un metodo analitico conforme alle disposizioni dell’articolo 46 dell’ordinanza del 16 dicembre 2016[^annex4-lvlu1-lvl2-lvl24-lvl241-lvl2413-1] sull’esecuzione della legislazione sulle derrate alimentari (OELDerr).
 
 [^annex4-lvlu1-lvl2-lvl24-lvl241-lvl2413-1]: [RS 817.042](https://fedlex.data.admin.ch/eli/cc/2020/460)
 
@@ -1155,7 +1155,7 @@ Il materiale o l’oggetto deve rispettare il limite di migrazione specifica gi�
 
 ### 2.4.2.1.7Analisi delle sostanze che migrano
 
-Al termine del tempo di contatto prescritto, la migrazione specifica è analizzata nella derrata o nel simulante alimentare impiegando un metodo analitico conformemente all’articolo 54 OELDerr.
+Al termine del tempo di contatto prescritto, la migrazione specifica è analizzata nella derrata o nel simulante alimentare impiegando un metodo analitico conformemente all’articolo 46 OELDerr.
 
 ### 2.4.2.1.8Verifica della conformità sulla base del contenuto residuo per superficie a contatto con la derrata alimentare (QMA)
 
@@ -1397,27 +1397,27 @@ Allegato 8
 
 - 2\. Se un oggetto si compone di recipiente e coperchio, entrambi sono esaminati alle stesse condizioni. La somma dei due valori di rilascio per il piombo e per il cadmio si riferisce alla superficie (cpv. 1 lett. a) o al volume (cpv. 1 lett. b e c) del solo recipiente. Per la valutazione si applicano i valori limite in mg/dm<sup>2</sup> o in mg/l fissati al capoverso 1 per il recipiente corrispondente.
 
-Allegato 9*[^t-4]*
+Allegato 9[^t-4]
 
 (art. 32 cpv. 1)
 
-## Elenco delle sostanze ammesse nella fabbricazione di materiali e oggetti di silicone e requisiti in merito****
+## Elenco delle sostanze ammesse nella fabbricazione di materiali e oggetti di silicone e requisiti in merito
 
 [^annex9-lvlu1-1]
 
-[^t-4]: Nuovo testo giusta il n. II cpv. 2 dell’O del DFI del 23 ott. 219, in vigore dal 1° dic. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)).
-[^annex9-lvlu1-1]: L’elenco non è pubblicato né nella RU, né nella RS. Può essere ottenuto presso l’USAV, Schwarzenburgstrasse 155, 3003 Berna. Può anche essere consultato su sito Internet al seguente indirizzo: www.blv.admin.ch &gt; Oggetti d’uso &gt; Imballaggi
+[^t-4]: Nuovo testo giusta il n. II cpv. 2 dell’O del DFI del 23 ott. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Aggiornato dal n. I cpv. 1 dell’O del USAV del 26 set. 2022, in vigore dal 15 ott. 2022 ([RU 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)).
+[^annex9-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2022/564](https://fedlex.data.admin.ch/eli/oc/2022/564) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
-Allegato 10*[^t-5]*
+Allegato 10[^t-5]
 
 (art. 35 cpv. 1)
 
-## Elenco delle sostanze ammesse per la fabbricazione degli inchiostri per imballaggi e requisiti in merito****
+## Elenco delle sostanze ammesse per la fabbricazione degli inchiostri per imballaggi e requisiti in merito
 
 [^annex10-lvlu1-1]
 
-[^t-5]: Nuovo testo giusta il n. I dell’O dell’USAV del 19 nov. 2020, in vigore dal 1° dic. 2020 ([RU 2020 4811](https://fedlex.data.admin.ch/eli/oc/2020/864)).
-[^annex10-lvlu1-1]: L’elenco delle sostanze ammesse per la fabbricazione degli inchiostri per imballaggi e requisiti in merito non sarà pubblicato nella RU (pubblicazione mediante rimando secondo l’art. 5 della legge del 18 giugno 2004 sulle pubblicazioni ufficiali, [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Può essere consultato presso l’USAV, Schwarzenburgstrasse 155, 3003 Berna e sul sito: www.blv.admin.ch/imballaggi
+[^t-5]: Nuovo testo giusta il n. I cpv. 3 dell’O del USAV del 26 set. 2022, in vigore dal 15 ott. 2022 ([RU 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)).
+[^annex10-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2022/564](https://fedlex.data.admin.ch/eli/oc/2022/564) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 11
 
@@ -1425,7 +1425,7 @@ Allegato 11
 
 ## Simbolo «Non mangiare»
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20201201/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20221015/it/xml/image/image2.png)
 
 Allegato 12
 
@@ -1461,7 +1461,7 @@ La dichiarazione scritta di cui all’articolo 39 capoverso 2 deve contenere le 
 
 La dichiarazione scritta deve consentire di individuare facilmente i materiali e oggetti attivi e intelligenti, i componenti usati per fabbricarli o le sostanze usate per la fabbricazione dei componenti e deve essere rinnovata quando modifiche significative della produzione comportano cambiamenti della migrazione o quando sono disponibili nuovi dati scientifici.
 
-Allegato 13*[^t-6]*
+Allegato 13[^t-6]
 
 (art. 40*b* cpv. 1)
 
@@ -1517,7 +1517,7 @@ Allegato 13*[^t-6]*
 
 - In deroga ai numeri 1 e 2, le vernici e i rivestimenti destinati a entrare in contatto con l’acqua potabile non devono cedere i loro costituenti in quantità superiori ai valori figuranti nel presente allegato divisi per 20 (LMS<sub>acqua</sub> = LMS<sub>derrate alimentari</sub>/20).
 
-Allegato 14*[^t-7]*
+Allegato 14[^t-7]
 
 (art. 40*b* cpv. 2)
 

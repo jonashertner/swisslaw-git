@@ -3,11 +3,11 @@ sr: "817.023.21"
 title: Ordonnance du DFI du 16 décembre 2016 sur les matériaux et objets destinés à entrer en contact avec les denrées alimentaires (Ordonnance sur les matériaux et objets)
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/164"
 language: fr
-version: 2020-12-01
+version: 2022-10-15
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20201201/fr/xml/fedlex-data-admin-ch-eli-cc-2017-164-20201201-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/164/20201201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20221015/fr/xml/fedlex-data-admin-ch-eli-cc-2017-164-20221015-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/164/20221015/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/164/20201201/fr"
 
 (Ordonnance sur les matériaux et objets)
 
-du 16 décembre 2016 (Etat le 1<sup>er</sup> décembre 2020)
+du 16 décembre 2016 (État le 15 octobre 2022)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -570,7 +570,7 @@ Afin de permettre au consommateur d’identifier les parties non comestibles si 
 
 <sup>2</sup> Cette documentation contient des informations concernant le caractère adéquat et l’efficacité des matériaux ou objets actifs ou intelligents, les conditions et les résultats des essais, des calculs ou des autres analyses et les preuves de l’innocuité ou les arguments démontrant la conformité.
 
-## Section 13*a***** Vernis et revêtements
+## Section 13*a* Vernis et revêtements
 
 [^sec13a-1]
 
@@ -664,20 +664,20 @@ Annexe 1
 
 ## Symbole figurant sur les matériaux et objets indiquant l’usage auquel ils sont destinés
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20201201/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20221015/fr/xml/image/image1.png)
 
-Annexe 2*[^t-1]*
+Annexe 2[^t-1]
 
 (art. 11, al. 1, 2, let. g, et 4, 13, al. 1, 14, al. 1, let. b, 24, al. 3, 32, al. 1, 35, al. 1, et 43, al. 3)
 
-## Liste des substances admises pour la fabrication de couches en matière plastique de matériaux et objets en matière plastique, exigences y relatives****
+## Liste des substances admises pour la fabrication de couches en matière plastique de matériaux et objets en matière plastique, exigences y relatives
 
 [^annex2-lvlu1-1]
 
-[^t-1]: Nouvelle teneur selon le ch. II al. 2 de l’O du DFI du 23 oct. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)).
-[^annex2-lvlu1-1]: Non publiée au RO. Cette liste peut être obtenue auprès de l’OSAV, Schwarzenburgstrasse 155, 3003 Berne ou être consultée sur Internet, à l’adresse suivante: [www.blv.admin.ch/emballages](https://www.blv.admin.ch/emballages).
+[^t-1]: Nouvelle teneur selon le ch. II al. 2 de l’O du DFI du 23 oct. 2019 ([RO 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Mise à jour par le ch. I al. 1 de l’O de l’OSAV du 26 sept. 2022, en vigueur depuis le 15 oct. 2022 ([RO 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)).
+[^annex2-lvlu1-1]: Le contenu de l’annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2022/564](https://fedlex.data.admin.ch/eli/oc/2022/564) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
-Annexe 3*[^t-2]*
+Annexe 3[^t-2]
 
 (art. 15, al. 2)
 
@@ -706,13 +706,13 @@ La déclaration écrite visée à l’art. 15, al. 2, contient les informations 
 
 [^annex3-lvlu1-1]: [RS 817.022.31](https://fedlex.data.admin.ch/eli/cc/2013/842)
 
-Annexe 4*[^t-3]*
+Annexe 4[^t-3]
 
 (art. 15, al. 2)
 
 ## Règles relatives à l’évaluation de la conformité aux limites de migration des matériaux et objets en matière plastique
 
-[^t-3]: Nouvelle teneur selon le ch. II al. 2 de l’O du DFI du 23 oct. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)).
+[^t-3]: Nouvelle teneur selon le ch. II al. 2 de l’O du DFI du 23 oct. 2019 ([RO 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Mise à jour par le ch. I al. 2 de l’O de l’OSAV du 26 sept. 2022, en vigueur depuis le 15 oct. 2022 ([RO 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)).
 
 ### 1 Simulants de denrées alimentaires
 
@@ -1048,7 +1048,7 @@ La denrée alimentaire est traitée conformément aux instructions de cuisson fi
 
 ### 2.4.1.3 Analyse des substances cédées
 
-La migration spécifique est analysée dans la denrée alimentaire à l’aide d’une méthode d’analyse conforme aux dispositions de l’art. 54 de l’ordonnance du 16 décembre 2016 sur l’exécution de la législation sur les denrées alimentaires (OELDAl)[^annex4-lvlu1-lvl2-lvl24-lvl241-lvl2413-1].
+La migration spécifique est analysée dans la denrée alimentaire à l’aide d’une méthode d’analyse conforme aux dispositions de l’art. 46 de l’ordonnance du 16 décembre 2016 sur l’exécution de la législation sur les denrées alimentaires (OELDAl)[^annex4-lvlu1-lvl2-lvl24-lvl241-lvl2413-1].
 
 [^annex4-lvlu1-lvl2-lvl24-lvl241-lvl2413-1]: [RS 817.042](https://fedlex.data.admin.ch/eli/cc/2020/460)
 
@@ -1155,7 +1155,7 @@ Le matériau ou l’objet doit respecter la limite de migration spécifique dès
 
 ### 2.4.2.1.7Analyse des substances cédées
 
-Au terme de la durée de contact prescrite, la migration spécifique est analysée dans la denrée alimentaire ou le simulant à l’aide d’une méthode d’analyse conforme aux dispositions de l’art. 54 OELDAl.
+Au terme de la durée de contact prescrite, la migration spécifique est analysée dans la denrée alimentaire ou le simulant à l’aide d’une méthode d’analyse conforme aux dispositions de l’art. 46 OELDAl.
 
 ### 2.4.2.1.8Contrôle de la conformité par la teneur résiduelle par surface en contact avec les denrées alimentaires (QMS)
 
@@ -1225,11 +1225,13 @@ Elle doit notamment comprendre:
 - e. les tests et protocoles d’analyse ou toute autre méthode scientifique utilisée avant, pendant et après la production du plastique recyclé, leur fréquence et le matériel utilisé pour les tests; la traçabilité de l’étalonnage du matériel utilisé pour les tests doit être assurée;
 - f. les outils de documentation adoptés.
 
-Annexe 6
+Annexe 6[^t-4]
 
 (art. 24, al. 1 et 3)
 
-## Liste des substances admises pour la fabrication de pellicules de cellulose régénérée et exigences y relatives
+## Liste des substances admises pour la fabrication de pellicules de cellulose régénérée et exigences qui s’y rapportent
+
+[^t-4]: Mise à jour par le ch. I al. 2 de l’O de l’OSAV du 26 sept. 2022, en vigueur depuis le 15 oct. 2022 ([RO 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)).
 
 Explications concernant les listes
 
@@ -1296,11 +1298,13 @@ Explications concernant les listes
 <tr><td>– Laurylsulfate de monoéthanolamine</td><td></td><td></td></tr>
 </table>
 
-Annexe 7
+Annexe 7[^t-5]
 
 (art. 24, al. 2)
 
-## Liste des substances admises pour la fabrication de pellicules de cellulose régénérée vernies au moyen d’un vernis dérivé de cellulose et exigences y relatives
+## Liste des substances admises pour la fabrication de pellicules de cellulose régénérée vernies au moyen d’un vernis dérivé de cellulose et exigences qui s’y rapportent
+
+[^t-5]: Mise à jour par le ch. I al. 2 de l’O de l’OSAV du 26 sept. 2022, en vigueur depuis le 15 oct. 2022 ([RO 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)).
 
 Explications concernant les listes
 
@@ -1399,27 +1403,27 @@ Annexe 8
 
 - 2\. Lorsqu’un objet est constitué d’un récipient muni d’un couvercle, le récipient et la surface interne du couvercle sont examinés dans les mêmes conditions. La somme des deux taux de cession de plomb ou de cadmium ainsi obtenue est rapportée, selon le cas, à la surface (al. 1, let. a) ou au volume (al. 1, let. b et c) du seul récipient. Pour l’appréciation, il y a lieu de tenir compte de la valeur limite exprimée en mg/dm2 ou en mg/l, telle que fixée à l’al. 1 pour le récipient en question.
 
-Annexe 9*[^t-4]*
+Annexe 9[^t-6]
 
 (art. 32, al. 1)
 
-## Liste des substances admises pour la fabrication des matériaux et objets en silicone et exigences y relatives****
+## Liste des substances admises pour la fabrication des matériaux et objets en silicone et exigences y relatives
 
 [^annex9-lvlu1-1]
 
-[^t-4]: Nouvelle teneur selon le ch. II al. 2 de l’O du DFI du 23 oct. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)).
-[^annex9-lvlu1-1]: Non publiée au RO. Cette liste peut être obtenue auprès de l’OSAV, Schwarzenburgstrasse 155, 3003 Berne ou être consultée sur Internet, à l’adresse suivante: [www.blv.admin.ch/emballages](https://www.blv.admin.ch/emballages).
+[^t-6]: Nouvelle teneur selon le ch. II al. 2 de l’O du DFI du 23 oct. 2019 ([RO 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Mise à jour par le ch. I al. 1 de l’O de l’OSAV du 26 sept. 2022, en vigueur depuis le 15 oct. 2022 ([RO 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)).
+[^annex9-lvlu1-1]: Le contenu de l’annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2022/564](https://fedlex.data.admin.ch/eli/oc/2022/564) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
-Annexe 10*[^t-5]*
+Annexe 10[^t-7]
 
 (art. 35, al. 1)
 
-## Liste des substances admises pour la fabrication des encres d’emballages et exigences y relatives****
+## Liste des substances admises pour la fabrication des encres d’emballages et exigences qui s’y rapportent
 
 [^annex10-lvlu1-1]
 
-[^t-5]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 19 nov. 2020, en vigueur depuis le 1<sup>er</sup> déc. 2020 ([RO 2020 4811](https://fedlex.data.admin.ch/eli/oc/2020/864)).
-[^annex10-lvlu1-1]: Non publiée au RO. Cette liste peut être obtenue auprès de l’OSAV, Schwarzenburgstrasse 155, 3003 Berne et être consultée sur Internet, à l’adresse suivante: www.blv.admin.ch/emballages
+[^t-7]: Nouvelle teneur selon le ch. I al. 3 de l’O de l’OSAV du 26 sept. 2022, en vigueur depuis le 15 oct. 2022 ([RO 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)).
+[^annex10-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté sur [https://fedlex.data.admin.ch/eli/oc/2022/564](https://fedlex.data.admin.ch/eli/oc/2022/564) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 11
 
@@ -1427,7 +1431,7 @@ Annexe 11
 
 ## Symbole indiquant «Ne pas manger»
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20201201/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20221015/fr/xml/image/image2.png)
 
 Annexe 12
 
@@ -1463,13 +1467,13 @@ La déclaration écrite visée à l’art. 39, al. 2, contient les informations 
 
 La déclaration écrite permet d’identifier facilement les matériaux et objets actifs et intelligents, les constituants destinés à leur production ou les substances destinées à la production des constituants et est renouvelée lorsque des modifications substantielles de la production induisent des changements concernant la migration ou lorsque de nouvelles données scientifiques sont disponibles.
 
-Annexe 13*[^t-6]*
+Annexe 13[^t-8]
 
 (art. 40*b*, al. 1)
 
 ## Exigences particulières pour les vernis et les revêtements
 
-[^t-6]: Introduite par le ch. II al. 1 de l’O du DFI du 23 oct. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)).
+[^t-8]: Introduite par le ch. II al. 1 de l’O du DFI du 23 oct. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)).
 
 ### 1. BADGE, BFDGE et NOGE
 
@@ -1519,13 +1523,13 @@ Annexe 13*[^t-6]*
 
 - En dérogation aux ch. 1 et 2, les vernis et revêtements destinés à entrer en contact avec l’eau potable ne peuvent céder leurs constituants en des quantités dépassant les valeurs figurant à cette annexe divisées par 20 (LMS<sub>eau</sub> = LMS<sub>denrées alimentaires</sub>/20).
 
-Annexe 14*[^t-7]*
+Annexe 14[^t-9]
 
 (art. 40*b*, al. 2)
 
 ## Déclaration de conformité pour les vernis et les revêtements
 
-[^t-7]: Introduite par le ch. II al. 1 de l’O du DFI du 23 oct. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)).
+[^t-9]: Introduite par le ch. II al. 1 de l’O du DFI du 23 oct. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)).
 
 La déclaration de conformité visée à l’art. 40*b*, al. 2, contient les informations suivantes:
 

@@ -3,11 +3,11 @@ sr: "817.023.21"
 title: "Verordnung des EDI vom 16. Dezember 2016 über Materialien und Gegenstände, die dazu bestimmt sind, mit Lebensmitteln in Berührung zu kommen (Bedarfsgegenständeverordnung)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/164"
 language: de
-version: 2020-12-01
+version: 2022-10-15
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20201201/de/xml/fedlex-data-admin-ch-eli-cc-2017-164-20201201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/164/20201201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20221015/de/xml/fedlex-data-admin-ch-eli-cc-2017-164-20221015-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/164/20221015/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/164/20201201/de"
 
 (Bedarfsgegenständeverordnung)
 
-vom 16. Dezember 2016 (Stand am 1. Dezember 2020)
+vom 16. Dezember 2016 (Stand am 15. Oktober 2022)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -232,7 +232,7 @@ In Abweichung von Absatz 1 dürfen Zusatzstoffe, die gemäss der Zusatzstoffvero
 
 <sup>1</sup>
 
-Kunststoffschichten, die nicht unmittelbar in Berührung mit Lebensmitteln kommen und durch eine funktionelle Barriere vom Lebensmittel getrennt sind,:
+Kunststoffschichten, die nicht unmittelbar in Berührung mit Lebensmitteln kommen und durch eine funktionelle Barriere vom Lebensmittel getrennt sind:
 
 - a. brauchen den in diesem Abschnitt festgelegten Beschränkungen und Spezifikationen nicht zu entsprechen; oder
 - b. dürfen aus Stoffen hergestellt sein, die nicht in Anhang 2 aufgeführt sind.
@@ -570,7 +570,7 @@ Damit die Konsumentinnen und Konsumenten nicht essbare Teile erkennen können, s
 
 <sup>2</sup> Diese Unterlagen müssen Informationen zur Eignung und Wirksamkeit des aktiven oder intelligenten Bedarfsgegenstands, eine Beschreibung der Bedingungen und Ergebnisse von Tests, Berechnungen oder sonstigen Analysen sowie Unbedenklichkeitsnachweise oder eine die Konformität belegende Begründung umfassen.
 
-## 13*a*. Abschnitt:**** Lacke und Beschichtungen
+## 13*a*. Abschnitt: Lacke und Beschichtungen
 
 [^sec13a-1]
 
@@ -664,20 +664,20 @@ Anhang 1
 
 ## Symbol zur Bezeichnung des Verwendungszwecks entsprechend gekennzeichneter Bedarfsgegenstände
 
-## ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20201201/de/xml/image/image1.png)
+## ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20221015/de/xml/image/image1.png)
 
-Anhang 2*[^t-1]*
+Anhang 2[^t-1]
 
 (Art. 11 Abs. 1, 2 Bst. g und 4, 13 Abs. 1, 14 Abs. 1 Bst. b, 24 Abs. 3, 32 Abs. 1, 35 Abs. 1 und 43 Abs. 3)
 
-## Liste der zulässigen Stoffe für die Herstellung von Kunststoffschichten für Bedarfsgegenstände aus Kunststoff und Anforderungen an diese Stoffe****
+## Liste der zulässigen Stoffe für die Herstellung von Kunststoffschichten für Bedarfsgegenstände aus Kunststoff und Anforderungen an diese Stoffe
 
 [^annex2-lvlu1-1]
 
-[^t-1]: Fassung gemäss Ziff. II Abs. 2 der V des EDI vom 23. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)).
-[^annex2-lvlu1-1]: Die Liste der zulässigen Stoffe für die Herstellung von Kunststoffschichten für Bedarfsgegenstände aus Kunststoff und die Anforderungen an diese Stoffe werden nicht in der AS veröffentlicht (Veröffentlichung durch Verweis gemäss Art. 5 des Publikationsgesetzes vom 18. Juni 2004, [SR *170.512*](https://fedlex.data.admin.ch/eli/cc/2004/745)). Sie ist beim BLV, Schwarzenburgstrasse 155, 3003 Bern, erhältlich. Sie kann auch im Internet abgerufen werden unter: www.blv.admin.ch/verpackungen
+[^t-1]: Fassung gemäss Ziff. II Abs. 2 der V des EDI vom 23. Okt. 2019 ([AS 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Bereinigt gemäss Ziff. II Abs. 3 der V des EDI vom 23. Okt. 2019 ([AS 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)) und Ziff. I Abs. 1 der V des BVL vom 26. Sept. 2022, in Kraft seit 15. Okt. 2022 ([AS 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)).
+[^annex2-lvlu1-1]: Der Inhalt dieser Anhänge wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2022/564](https://fedlex.data.admin.ch/eli/oc/2022/564) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
-Anhang 3*[^t-2]*
+Anhang 3[^t-2]
 
 (Art. 15 Abs. 2)
 
@@ -706,13 +706,13 @@ Die in Artikel 15 Absatz 2 genannte schriftliche Erklärung enthält folgende An
 
 [^annex3-lvlu1-1]: [SR 817.022.31](https://fedlex.data.admin.ch/eli/cc/2013/842)
 
-Anhang 4*[^t-3]*
+Anhang 4[^t-3]
 
 (Art. 15 Abs. 2)
 
 ## Bestimmungen über die Bewertung der Einhaltung der Migrationsgrenzwerte bei Bedarfsgegenständen aus Kunststoff
 
-[^t-3]: Fassung gemäss Ziff. II Abs. 2 der V des EDI vom 23. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)).
+[^t-3]: Fassung gemäss Ziff. II Abs. 2 der V des EDI vom 23. Okt. 2019 1. Dez. 2019 ([AS 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Bereinigt gemäss Ziff. I Abs. 2 der V des BVL vom 26. Sept. 2022, in Kraft seit 15. Okt. 2022 ([AS 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)).
 
 ### 1 Lebensmittelsimulanzien
 
@@ -1049,7 +1049,7 @@ Das Lebensmittel ist gemäss den Zubereitungsangaben auf der Verpackung zu behan
 
 ### 2.4.1.3 Analyse der migrierten Stoffe
 
-Die spezifische Migration wird im Lebensmittel anhand einer Analysemethode gemäss Artikel 54 der Verordnung vom 16. Dezember 2016[^annex4-lvlu1-lvl2-lvl24-lvl241-lvl2413-1] über den Vollzug der Lebensmittelgesetzgebung (LMVV) untersucht.
+Die spezifische Migration wird im Lebensmittel anhand einer Analysemethode gemäss Artikel 46 der Verordnung vom 16. Dezember 2016[^annex4-lvlu1-lvl2-lvl24-lvl241-lvl2413-1] über den Vollzug der Lebensmittelgesetzgebung (LMVV) untersucht.
 
 [^annex4-lvlu1-lvl2-lvl24-lvl241-lvl2413-1]: [SR 817.042](https://fedlex.data.admin.ch/eli/cc/2020/460)
 
@@ -1156,7 +1156,7 @@ Bei Stoffen, für die der spezifische Migrationsgrenzwert in Anhang 2 Tabelle 1 
 
 ### 2.4.2.1.7Analyse der migrierenden Stoffe
 
-Am Ende der vorgeschriebenen Berührungsdauer wird die spezifische Migration im Lebensmittel oder Lebensmittelsimulans unter Verwendung einer Analysemethode gemäss Artikel 54 LMVV über den Vollzug der Lebensmittelgesetzgebung untersucht.
+Am Ende der vorgeschriebenen Berührungsdauer wird die spezifische Migration im Lebensmittel oder Lebensmittelsimulans unter Verwendung einer Analysemethode gemäss Artikel 46 LMVV untersucht.
 
 ### 2.4.2.1.8Konformitätsprüfung durch den Restgehalt je mit Lebensmitteln in Kontakt stehender Fläche (QMA)
 
@@ -1398,27 +1398,27 @@ Anhang 8
 
 - 2\. Besteht ein Gegenstand aus einem Behälter und einem Deckel, so werden diese unter den gleichen Bedingungen geprüft. Die Summe der beiden Blei- und Cadmiumlässigkeitswerte wird auf die Fläche (Abs. 1 Bst. a) oder das Volumen (Abs. 1 Bst. b und c) des Behälters allein bezogen. Für die Beurteilung gelten die Grenzwerte in mg/dm2 oder mg/l, wie sie in Absatz 1 für den entsprechenden Behälter festgelegt sind.
 
-Anhang 9*[^t-4]*
+Anhang 9[^t-4]
 
 (Art. 32 Abs. 1)
 
-## Liste der zulässigen Stoffe für die Herstellung von Bedarfsgegenständen aus Silikon und Anforderungen an diese Stoffe****
+## Liste der zulässigen Stoffe für die Herstellung von Bedarfsgegenständen aus Silikon und Anforderungen an diese Stoffe
 
 [^annex9-lvlu1-1]
 
-[^t-4]: Fassung gemäss Ziff. II Abs. 2 der V des EDI vom 23. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)).
-[^annex9-lvlu1-1]: Die Liste der zulässigen Stoffe für die Herstellung von Bedarfsgegenständen aus Silikon und die Anforderungen an diese Stoffe werden nicht in der AS veröffentlicht (Veröffentlichung durch Verweis gemäss Art. 5 des Publikationsgesetzes vom 18. Juni 2004, [SR *170.512*](https://fedlex.data.admin.ch/eli/cc/2004/745)). Sie ist beim BLV, Schwarzenburgstrasse 155, 3003 Bern, erhältlich. Sie kann auch im Internet abgerufen werden unter: www.blv.admin.ch/verpackungen
+[^t-4]: Fassung gemäss Ziff. II Abs. 2 der V des EDI vom 23. Okt. 2019 ([AS 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Bereinigt gemäss Ziff. I Abs. 1 der V des BVL vom 26. Sept. 2022, in Kraft seit 15. Okt. 2022 ([AS 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)).
+[^annex9-lvlu1-1]: Der Inhalt dieser Anhänge wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2022/564](https://fedlex.data.admin.ch/eli/oc/2022/564) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
-Anhang 10*[^t-5]*
+Anhang 10[^t-5]
 
 (Art. 35 Abs. 1)
 
-## Liste der zulässigen Stoffe für die Herstellung von Verpackungstinten und Anforderungen an diese Stoffe****
+## Liste der zulässigen Stoffe für die Herstellung von Verpackungstinten und Anforderungen an diese Stoffe
 
 [^annex10-lvlu1-1]
 
-[^t-5]: Fassung gemäss Ziff. I der V des BLV vom 19. Nov. 2020, in Kraft seit 1. Dez. 2020 ([AS 2020 4811](https://fedlex.data.admin.ch/eli/oc/2020/864)).
-[^annex10-lvlu1-1]: Die Liste der zulässigen Stoffe für die Herstellung von Verpackungstinten und die Anforderungen an diese Stoffe werden in der AS nicht veröffentlicht (Veröffentlichung durch Verweis gemäss Art. 5 des Publikationsgesetzes vom 18. Juni 2004, [SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Sie ist beim BLV, Schwarzenburgstrasse 155, 3003 Bern, erhältlich und kann im Internet abgerufen werden unter: www.blv.admin.ch/verpackungen
+[^t-5]: Fassung gemäss Ziff. I Abs. 3 der V des BVL vom 26. Sept. 2022, in Kraft seit 15. Okt. 2022 ([AS 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)).
+[^annex10-lvlu1-1]: Der Inhalt dieser Anhänge wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2022/564](https://fedlex.data.admin.ch/eli/oc/2022/564) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 11
 
@@ -1426,7 +1426,7 @@ Anhang 11
 
 ## Symbol «NICHT ESSBAR»
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20201201/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20221015/de/xml/image/image2.png)
 
 Anhang 12
 
@@ -1462,7 +1462,7 @@ Die in Artikel 39 Absatz 2 genannte schriftliche Erklärung enthält folgende An
 
 Die schriftliche Erklärung muss eine einfache Identifizierung der aktiven oder intelligenten Bedarfsgegenstände, der für deren Herstellung bestimmten Bestandteile oder der für die Herstellung der Bestandteile bestimmten Stoffe ermöglichen, auf die sie sich bezieht, und ist erneut abzugeben, wenn wesentliche Änderungen in der Produktion Veränderungen bei der Migration bewirken oder wenn neue wissenschaftliche Erkenntnisse vorliegen.
 
-Anhang 13*[^t-6]*
+Anhang 13[^t-6]
 
 (Art. 40*b* Abs. 1)
 
@@ -1519,7 +1519,7 @@ Anhang 13*[^t-6]*
 
 - Abweichend von den Ziffern 1 und 2 dürfen Lacke und Beschichtungen, die für den Kontakt mit Trinkwasser bestimmt sind, ihre Bestandteile nicht in Mengen übertragen, die die Werte gemäss diesem Anhang geteilt durch 20 (SML<sub>Wasser</sub> = SML<sub>Lebensmittel</sub>/20) übersteigen.
 
-Anhang 14*[^t-7]*
+Anhang 14[^t-7]
 
 (Art. 40*b* Abs. 2)
 
