@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification de la loi fédérale sur la politique régionale
 document: Projet mis en consultation
 language: fr

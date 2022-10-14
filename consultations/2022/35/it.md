@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica della legge federale sulla politica regionale
 document: Progetto posto in consultazione
 language: it

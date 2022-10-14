@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung des Bundesgesetzes über Regionalpolitik
 document: Vernehmlassungsvorlage
 language: de
