@@ -4,11 +4,11 @@ title: Verordnung des EDI vom 16. Dezember 2016 über die Höchstgehalte für Pe
 short: VPRH
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/151"
 language: de
-version: 2021-08-01
+version: 2022-10-15
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/151/20210801/de/xml/fedlex-data-admin-ch-eli-cc-2017-151-20210801-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/151/20210801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/151/20221015/de/xml/fedlex-data-admin-ch-eli-cc-2017-151-20221015-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/151/20221015/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/151/20210801/de"
 
 (VPRH)
 
-vom 16. Dezember 2016 (Stand am 1. August 2021)
+vom 16. Dezember 2016 (Stand am 15. Oktober 2022)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -241,13 +241,21 @@ Lebensmittel, die der Änderung vom 12. März 2018 nicht genügen, dürfen noch 
 
 [^13b-1]: Eingefügt durch Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)).
 
+#### Art. 13c
+
+**Übergangsbestimmung zur Änderung vom 26. September 2022**[^13c-1]
+
+Lebensmittel, die der Änderung vom 26. September 2022 nicht entsprechen, dürfen noch bis zum 14. April 2023 nach bisherigem Recht eingeführt und hergestellt und noch bis zum Abbau der Bestände an Konsumentinnen und Konsumenten abgegeben werden.
+
+[^13c-1]: Eingefügt durch Ziff. I der V des BLV vom 26. Sept. 2022, in Kraft seit 15. Oktober 2022 ([AS 2022 563](https://fedlex.data.admin.ch/eli/oc/2022/563)).
+
 #### Art. 14
 
 **Inkrafttreten**
 
 Diese Verordnung tritt am 1. Mai 2017 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 1 Abs. 2 und 8 Abs. 1)
 
@@ -278,24 +286,24 @@ Die Tatsache, dass ein Erzeugnis in Anhang I der Verordnung (EG) Nr. 396/2005 au
 <tr><td></td><td>Weichtiere</td><td></td><td></td><td>ganzes Erzeugnis</td></tr>
 </table>
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 (Art. 3 Abs. 3 und 5 sowie 8 Abs. 1 Bst. a und 3 Bst. c)
 
-## Zulässige Höchstgehalte für Pestizidrückstände****
+## Zulässige Höchstgehalte für Pestizidrückstände
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 27. Mai 2020 ([AS 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)). Bereinigt gemäss Ziff. I Abs. 1 der V des BLV vom 30. Juni 2021, in Kraft seit 1. Aug. 2021 ([AS 2021 423](https://fedlex.data.admin.ch/eli/oc/2021/423)).
-[^annex2-lvlu1-1]: Der Text dieses Anhangs wird in der AS nicht veröffentlicht. Er kann beim Bundesamt für Lebensmittelsicherheit und Veterinärwesen, Schwarzenburgstrasse 155, 3003 Bern, kostenlos eingesehen oder im Internet abgerufen werden unter www.blv.admin.ch &gt; Lebensmittel und Ernährung &gt; Rechts- und Vollzugsgrundlagen &gt; Gesetzgebung. Er gilt in der Fassung vom 1. August 2021.
+[^t-2]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 27. Mai 2020 ([AS 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)). Bereinigt gemäss Ziff. I Abs. 1 der V des BLV vom 30. Juni 2021 ([AS 2021 423](https://fedlex.data.admin.ch/eli/oc/2021/423)) und Ziff. II Abs.1 vom 26. Sept. 2022, in Kraft seit 15. Oktober 2022 ([AS 2022 563](https://fedlex.data.admin.ch/eli/oc/2022/563)).
+[^annex2-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröf-fentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2022/563](https://fedlex.data.admin.ch/eli/oc/2022/563) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
-Anhang 3*[^t-3]*
+Anhang 3[^t-3]
 
 (Art. 4 und 8 Abs. 1 Bst. b)
 
 ## Pestizide, für die keine Rückstandshöchstgehalte gelten
 
-[^t-3]: Bereinigt gemäss Ziff. II Abs. 2 der V des EDI vom 27. Mai 2020 ([AS 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)) und Ziff. I Abs. 1 der V des BLV vom 30. Juni 2021, in Kraft seit 1. Aug. 2021 ([AS 2021 423](https://fedlex.data.admin.ch/eli/oc/2021/423)).
+[^t-3]: Bereinigt gemäss Ziff. II Abs. 2 der V des EDI vom 27. Mai 2020 ([AS 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)), Ziff. I Abs. 1 der V des BLV vom 30. Juni 2021 ([AS 2021 423](https://fedlex.data.admin.ch/eli/oc/2021/423)) und Ziff. II Abs. 2 der V des BLV vom 26. Sept. 2022, in Kraft seit 15. Oktober 2022 ([AS 2022 563](https://fedlex.data.admin.ch/eli/oc/2022/563)).
 
 ### 1 Erläuterungen
 
@@ -314,6 +322,7 @@ Für die Wirkstoffe in dieser Tabelle gelten keine Rückstandshöchstgehalte fü
 <tr><td>Apfelwicklergranulose-Virus</td><td></td></tr>
 <tr><td>*Aureobasidium pullulans*</td><td></td></tr>
 <tr><td>*Bacillus amyloliquefaciens Stamm FZB24*</td><td></td></tr>
+<tr><td>*Bacillus amyloliquefaciens* susp. Planatarum strain D747</td><td></td></tr>
 <tr><td>*Bacillus firmus*</td><td></td></tr>
 <tr><td>*Bacillus subtilis*</td><td></td></tr>
 <tr><td>*Bacillus thuringiensis*</td><td></td></tr>
@@ -394,6 +403,7 @@ Für die Wirkstoffe in dieser Tabelle gelten keine Rückstandshöchstgehalte fü
 <tr><td>Repellentien: Fischöl</td><td></td></tr>
 <tr><td>Repellentien: Schafsfett</td><td></td></tr>
 <tr><td>Repellentien: Tallöl</td><td></td></tr>
+<tr><td>*Saccharomyces cerevisiae* Stamm LAS02</td><td></td></tr>
 <tr><td>Schachtelhalmextrakt</td><td></td></tr>
 <tr><td>Schalenwicklergranulose-Virus</td><td></td></tr>
 <tr><td>Schwefel</td><td></td></tr>

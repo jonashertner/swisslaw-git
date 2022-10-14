@@ -4,11 +4,11 @@ title: Ordinanza del DFI del 16 dicembre 2016 concernente i livelli massimi per 
 short: OAOVA
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/151"
 language: it
-version: 2021-08-01
+version: 2022-10-15
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/151/20210801/it/xml/fedlex-data-admin-ch-eli-cc-2017-151-20210801-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/151/20210801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/151/20221015/it/xml/fedlex-data-admin-ch-eli-cc-2017-151-20221015-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/151/20221015/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/151/20210801/it"
 
 (OAOVA)
 
-del 16 dicembre 2016 (Stato 1° agosto 2021)
+del 16 dicembre 2016 (Stato 15 ottobre 2022)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -216,7 +216,7 @@ I prodotti che non rispettano i valori di residui di antiparassitari secondo l�
 
 L’ordinanza del 26 giugno 1995[^12-1] sulle sostanze estranee e sui componenti è abrogata.
 
-[^12-1]: [[RU 1995 2893](https://fedlex.data.admin.ch/eli/oc/1995/2893_2893_2893), [2002 955](https://fedlex.data.admin.ch/eli/oc/2002/172), [2005 5749](https://fedlex.data.admin.ch/eli/oc/2005/793), [2008 793](https://fedlex.data.admin.ch/eli/oc/2008/196)[4475](https://fedlex.data.admin.ch/eli/oc/2008/623)[6027](https://fedlex.data.admin.ch/eli/oc/2008/834), [2009 4741](https://fedlex.data.admin.ch/eli/oc/2009/557), [2011 1985](https://fedlex.data.admin.ch/eli/oc/2011/291), [2012 2147](https://fedlex.data.admin.ch/eli/oc/2012/278), [2013 4715](https://fedlex.data.admin.ch/eli/oc/2013/833), [2015 3219](https://fedlex.data.admin.ch/eli/oc/2015/600)]
+[^12-1]: [[RU 1995 2893](https://fedlex.data.admin.ch/eli/oc/1995/2893_2893_2893); [2002 955](https://fedlex.data.admin.ch/eli/oc/2002/172); [2005 5749](https://fedlex.data.admin.ch/eli/oc/2005/793); [2008 793](https://fedlex.data.admin.ch/eli/oc/2008/196), [4475](https://fedlex.data.admin.ch/eli/oc/2008/623), [6027](https://fedlex.data.admin.ch/eli/oc/2008/834); [2009 4741](https://fedlex.data.admin.ch/eli/oc/2009/557); [2011 1985](https://fedlex.data.admin.ch/eli/oc/2011/291); [2012 2147](https://fedlex.data.admin.ch/eli/oc/2012/278); [2013 4715](https://fedlex.data.admin.ch/eli/oc/2013/833); [2015 3219](https://fedlex.data.admin.ch/eli/oc/2015/600)]
 
 #### Art. 13
 
@@ -244,13 +244,21 @@ Le derrate alimentari che non soddisfano i requisiti della modifica del 12 marzo
 
 [^13b-1]: Introdotto dal n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)).
 
+#### Art. 13c
+
+**Disposizione transitoria della modifica del 26 settembre 2022**[^13c-1]
+
+Le derrate alimentari non conformi alla modifica del 26 settembre 2022 possono essere importate e fabbricate secondo il diritto anteriore fino al 14 aprile 2023 ed essere consegnate ai consumatori fino a esaurimento delle scorte.
+
+[^13c-1]: Introdotto dal n. I dell’O dell’USAV del 26 set. 2022, in vigore dal 15 ott. 2022 ([RU 2022 563](https://fedlex.data.admin.ch/eli/oc/2022/563)).
+
 #### Art. 14
 
 **Entrata in vigore**
 
 La presente ordinanza entra in vigore il 1° maggio 2017.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 1 cpv. 2 e 8 cpv. 1)
 
@@ -281,24 +289,24 @@ Il fatto che un prodotto sia elencato nell’allegato I del regolamento (CE) n. 
 <tr><td></td><td>Molluschi</td><td></td><td></td><td>Prodotto intero</td></tr>
 </table>
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 (art. 3 cpv. 3 e 5, 8 cpv. 1 lett. a e 3 lett. c)
 
-## Livelli massimi consentiti per i residui di antiparassitari****
+## Livelli massimi consentiti per i residui di antiparassitari
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Nuovo testo giusta il n. II cpv. 1 dell’O del DFI del 27 mag. 2020 ([RU 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)). Aggiornato dal n. I cpv. 1 dell’O dell’USAV del 30 giu. 2021, in vigore dal 1° ago. 2021 ([RU 2021 423](https://fedlex.data.admin.ch/eli/oc/2021/423)).
-[^annex2-lvlu1-1]: Il contenuto della lista dei livelli massimi consentiti per i residui di antiparassitari non viene pubblicato nella RU. La lista può essere consultata gratuitamente presso lʼUfficio federale della sicurezza alimentare e di veterinaria, Schwarzenburgstrasse 155, 3003 Berna, o su Internet su www.usav.admin.ch &gt; Alimenti e nutrzione &gt; Basi legali ed esecutive &gt; Legislazione. Si applica la versione del 1° ago. 2021.
+[^t-2]: Nuovo testo giusta il n. II cpv. 1 dell’O del DFI del 27 mag. 2020 ([RU 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)). Aggiornato dal n. I cpv. 1 dell’O dell’USAV del 30 giu. 2021 ([RU 2021 423](https://fedlex.data.admin.ch/eli/oc/2021/423)) e dal n. II cpv. 1 dell’O dell’USAV del 26 set. 2022, in vigore dal 15 ott. 2022 ([RU 2022 563](https://fedlex.data.admin.ch/eli/oc/2022/563)).
+[^annex2-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2022/563](https://fedlex.data.admin.ch/eli/oc/2022/563) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
-Allegato 3*[^t-3]*
+Allegato 3[^t-3]
 
 (art. 4 e 8 cpv. 1 lett. b)
 
-## [Antiparassitari a cui non si applicano livelli massimi per i residui](https://www.fedlex.admin.ch/eli/cc/2017/151/it)
+## Antiparassitari a cui non si applicano livelli massimi per i residui
 
-[^t-3]: Aggiornato dal n. II cpv. 2 dell’O del DFI del 27 mag. 2020 ([RU 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)) e dal n. I cpv. 2 dell’O dell’USAV 30 giu. 2021, in vigore dal 1° ago. 2021 ([RU 2021 423](https://fedlex.data.admin.ch/eli/oc/2021/423)).
+[^t-3]: Aggiornato dal n. II cpv. 2 dell’O del DFI del 27 mag. 2020 ([RU 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)), dal n. I cpv. 2 dell’O dell’USAV del 30 giu. 2021 ([RU 2021 423](https://fedlex.data.admin.ch/eli/oc/2021/423)) e dal n. II cpv. 2 dell’O dell’USAV del 26 set. 2022, in vigore dal 15 ott. 2022 ([RU 2022 563](https://fedlex.data.admin.ch/eli/oc/2022/563)).
 
 ### 1 Note esplicative
 
@@ -332,6 +340,7 @@ Alle sostanze attive di questa tabella non si applicano livelli massimi per i re
 <tr><td>Anidride carbonica</td><td></td></tr>
 <tr><td>*Aureobasidium pullulans*</td><td></td></tr>
 <tr><td>*Bacillus amyloliquefaciens, ceppo FZB24*</td><td></td></tr>
+<tr><td>*Bacillus amyloliquefaciens* susp. Planatarum strain D747</td><td></td></tr>
 <tr><td>*Bacillus firmus*</td><td></td></tr>
 <tr><td>*Bacillus subtilis*</td><td></td></tr>
 <tr><td>*Bacillus thuringiensis*</td><td></td></tr>
@@ -399,6 +408,7 @@ Alle sostanze attive di questa tabella non si applicano livelli massimi per i re
 <tr><td>Repellenti: olio di pesce</td><td></td></tr>
 <tr><td>Repellenti: tallolo</td><td></td></tr>
 <tr><td>Sabbia di quarzo</td><td></td></tr>
+<tr><td>*Saccharomyces cerevisiae* ceppo LAS02</td><td></td></tr>
 <tr><td>Siero di latte</td><td></td></tr>
 <tr><td>Silicato di alluminio (caolino)</td><td></td></tr>
 <tr><td>Solfato ferrico</td><td></td></tr>

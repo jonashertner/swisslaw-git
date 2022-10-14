@@ -4,11 +4,11 @@ title: "Ordonnance du DFI du 16 décembre 2016 sur les limites maximales applica
 short: OPOVA
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/151"
 language: fr
-version: 2021-08-01
+version: 2022-10-15
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/151/20210801/fr/xml/fedlex-data-admin-ch-eli-cc-2017-151-20210801-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/151/20210801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/151/20221015/fr/xml/fedlex-data-admin-ch-eli-cc-2017-151-20221015-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/151/20221015/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/151/20210801/fr"
 
 (OPOVA)
 
-du 16 décembre 2016 (Etat le 1<sup>er</sup> août 2021)
+du 16 décembre 2016 (État le 15 octobre 2022)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -246,13 +246,21 @@ Les denrées alimentaires non conformes à la modification du 12 mars 2018 de la
 
 [^13b-1]: Introduit par le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)).
 
+#### Art. 13c
+
+**Disposition transitoire de la modification du 26 septembre 2022**[^13c-1]
+
+Les denrées alimentaires non conformes à la modification du 26 septembre 2022 peuvent encore être importées et fabriquées selon l’ancien droit jusqu’au 14 avril 2023 et remises au consommateur jusqu’à épuisement des stocks.
+
+[^13c-1]: Introduit par le ch. I de l’O de l’OSAV du 26 sept. 2022, en vigueur depuis le 15 oct. 2022 ([RO 2022 563](https://fedlex.data.admin.ch/eli/oc/2022/563)).
+
 #### Art. 14
 
 **Entrée en vigueur**
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> mai 2017.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 1, al. 2, et 8, al. 1)
 
@@ -283,24 +291,24 @@ Le fait qu’un produit soit mentionné dans l’annexe I du règlement (CE) n°
 <tr><td></td><td>mollusques</td><td></td><td></td><td>produit entier</td></tr>
 </table>
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 (art. 3, al. 3 et 5, 8, al. 1, let. a, et 3, let. c)
 
-## Limites maximales autorisées pour les résidus de pesticides****
+## Limites maximales autorisées pour les résidus de pesticides
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Nouvelle teneur selon le ch. II al. 1 de l’O du DFI du 27 mai 2020 ([RO 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)). Mise à jour par le ch. 1 al. 1 de l’O de l’OSAV du 30 juin 2021, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 423](https://fedlex.data.admin.ch/eli/oc/2021/423)).
-[^annex2-lvlu1-1]: La liste des limites maximales autorisées pour les résidus de pesticides n’est pas publiée au RO. Elle peut être consultée gratuitement à l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires, Schwarzenburgstrasse 155, 3003 Berne ou téléchargée à l’adresse www.osav.admin.ch &gt; Aliments et nutrition &gt; Bases légales et documents d’application &gt; Législation. Elle est applicable dans sa teneur du 1<sup>er</sup> août 2021.
+[^t-2]: Nouvelle teneur selon le ch. II al. 1 de l’O du DFI du 27 mai 2020 ([RO 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)). Mise à jour par le ch. I al. 1 de l’O de l’OSAV du 30 juin 2021 ([RO 2021 423](https://fedlex.data.admin.ch/eli/oc/2021/423)) et le ch. II al. 1 de l’O de l’OSAV du 26 sept. 2022, en vigueur depuis le 15 oct. 2022 ([RO 2022 563](https://fedlex.data.admin.ch/eli/oc/2022/563)).
+[^annex2-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2022/563](https://fedlex.data.admin.ch/eli/oc/2022/563) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
-Annexe 3*[^t-3]*
+Annexe 3[^t-3]
 
 (art. 4 et 8, al. 1, let. b)
 
 ## Pesticides pour lesquels aucune limite maximale de résidus ne s’applique
 
-[^t-3]: Mise à jour selon le ch. II al. 2 de l’O du DFI du 27 mai 2020 ([RO 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)) et le ch. 1 al. 2 de l’O de l’OSAV du 30 juin 2021, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 423](https://fedlex.data.admin.ch/eli/oc/2021/423)).
+[^t-3]: Mise à jour selon le ch. II al. 2 de l’O du DFI du 27 mai 2020 ([RO 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)) et le ch. I al. 2 de l’O de l’OSAV du 30 juin 2021 ([RO 2021 423](https://fedlex.data.admin.ch/eli/oc/2021/423)) et le ch. II al. 2 de l’O de l’OSAV du 26 sept. 2022, en vigueur depuis le 15 oct. 2022 ([RO 2022 563](https://fedlex.data.admin.ch/eli/oc/2022/563)).
 
 ### 1 Remarque explicative
 
@@ -312,13 +320,25 @@ Aucune limite maximale de résidus ne s’applique aux substances actives dans c
 <tr><th>1</th><th>2</th></tr>
 <tr><th>Substance active</th><th>Remarques</th></tr>
 <tr><td>1-Décanol</td><td></td></tr>
-<tr><td>Adoxophyes orana GV</td><td></td></tr>
-<tr><td>Silicate d’aluminium (kaolin)</td><td></td></tr>
 <tr><td>Acétate d’ammonium</td><td></td></tr>
+<tr><td>Acide acétique</td><td></td></tr>
+<tr><td>Acide benzoïque</td><td></td></tr>
+<tr><td>Acide folique</td><td></td></tr>
+<tr><td>Acide sulfurique sur terre argileuse</td><td></td></tr>
+<tr><td>Acides gras: acide caprique</td><td></td></tr>
+<tr><td>Acides gras: acide heptanoïque</td><td></td></tr>
+<tr><td>Acides gras: acide laurique</td><td></td></tr>
+<tr><td>Acides gras: acide octanoïque</td><td></td></tr>
+<tr><td>Acides gras: acide oléique, y compris oléate d’éthyle</td><td></td></tr>
+<tr><td>Acides gras: acide pélargonique</td><td></td></tr>
+<tr><td>Acides gras: C7-C20</td><td></td></tr>
+<tr><td>Acides gras: ester méthylique d’acides gras</td><td></td></tr>
+<tr><td>Adoxophyes orana GV</td><td></td></tr>
+<tr><td>Alcools gras / alcools aliphatiques</td><td></td></tr>
 <tr><td>*Ampelomyces quisqualis*</td><td></td></tr>
-<tr><td>Virus de la granulose du carpocapse</td><td></td></tr>
 <tr><td>*Aureobasidium pullulans*</td><td></td></tr>
 <tr><td>*Bacillus amyloliquefaciens* souche FZB24</td><td></td></tr>
+<tr><td>*Bacillus amyloliquefaciens* subsp. *planatarum* (souche D747)</td><td></td></tr>
 <tr><td>*Bacillus firmus*</td><td></td></tr>
 <tr><td>*Bacillus subtilis*</td><td></td></tr>
 <tr><td>*Bacillus thuringiensis*</td><td></td></tr>
@@ -329,93 +349,83 @@ Aucune limite maximale de résidus ne s’applique aux substances actives dans c
 <tr><td>*Beauveria bassiana*</td><td></td></tr>
 <tr><td>*Beauveria brongniartii*</td><td></td></tr>
 <tr><td>Benoxacor</td><td></td></tr>
-<tr><td>Acide benzoïque</td><td></td></tr>
-<tr><td>Extraits d’ortie</td><td></td></tr>
+<tr><td>Calcaire</td><td></td></tr>
+<tr><td>Carbonate acide de potassium</td><td></td></tr>
 <tr><td>Carbonate de calcium</td><td></td></tr>
 <tr><td>Cloquintocet-mexyl</td><td></td></tr>
 <tr><td>*Coniothyrium minitans*</td><td></td></tr>
 <tr><td>COS-OGA</td><td></td></tr>
-<tr><td>Sulfate de fer(II)</td><td></td></tr>
-<tr><td>Phosphate de fer(III)</td><td></td></tr>
-<tr><td>Sulfate de fer(III)</td><td></td></tr>
-<tr><td>Lait écrémé (lait maigre)</td><td></td></tr>
-<tr><td>Acide acétique</td><td></td></tr>
+<tr><td>Dioxyde de carbone</td><td></td></tr>
+<tr><td>Essence d’eucalyptus</td><td></td></tr>
+<tr><td>Essence de menthe poivrée</td><td></td></tr>
+<tr><td>Essence de menthe verte</td><td></td></tr>
 <tr><td>Éthylène</td><td></td></tr>
 <tr><td>Eugénol</td><td></td></tr>
-<tr><td>Essence d’eucalyptus</td><td></td></tr>
-<tr><td>*Oleum foeniculi* (huile de fenouil)</td><td></td></tr>
-<tr><td>Alcools gras / alcools aliphatiques</td><td></td></tr>
-<tr><td>Acides gras: acide laurique</td><td></td></tr>
-<tr><td>Acides gras: C7-C20</td><td></td></tr>
-<tr><td>Acides gras: acide caprique</td><td></td></tr>
-<tr><td>Acides gras: ester méthylique d’acides gras</td><td></td></tr>
-<tr><td>Acides gras: acide heptanoïque</td><td></td></tr>
-<tr><td>Acides gras: acide octanoïque</td><td></td></tr>
-<tr><td>Acides gras: acide oléique, y compris oléate d’éthyle</td><td></td></tr>
-<tr><td>Acides gras: acide pélargonique</td><td></td></tr>
-<tr><td>Acide folique</td><td></td></tr>
+<tr><td>Extrait d’ail</td><td></td></tr>
+<tr><td>Extrait d’algues marines</td><td></td></tr>
+<tr><td>Extrait de l’arbre à thé</td><td></td></tr>
+<tr><td>Extrait de prèle</td><td></td></tr>
+<tr><td>Extrait de quassine</td><td></td></tr>
+<tr><td>Extraits d’ortie</td><td></td></tr>
 <tr><td>Géraniol</td><td></td></tr>
 <tr><td>Gibbérelline</td><td></td></tr>
 <tr><td>*Glicladium catenulatum*</td><td></td></tr>
-<tr><td>Essence de menthe verte</td><td></td></tr>
 <tr><td>*Helicoverpa armigera* – virus de la polyédrose nucléaire</td><td></td></tr>
 <tr><td>Heptamaloxyloglucan</td><td></td></tr>
-<tr><td>Isoxadifen-éthyle</td><td></td></tr>
-<tr><td>Carbonate acide de potassium</td><td></td></tr>
-<tr><td>Iodure de potassium</td><td></td></tr>
-<tr><td>Thiocyanate de potassium</td><td></td></tr>
-<tr><td>Triiodure de potassium</td><td></td></tr>
-<tr><td>Calcaire</td><td></td></tr>
-<tr><td>Terre d’infusoire (terre de diatomée)</td><td></td></tr>
-<tr><td>Extrait d’ail</td><td></td></tr>
-<tr><td>Dioxyde de carbone</td><td></td></tr>
-<tr><td>Laminarine</td><td></td></tr>
-<tr><td>Maltodextrine</td><td></td></tr>
-<tr><td>Méfenpyr diéthyl</td><td></td></tr>
-<tr><td>*Metarhizium anisopliae*</td><td></td></tr>
-<tr><td>Méthylnonylcétone</td><td></td></tr>
-<tr><td>Petit-lait</td><td></td></tr>
-<tr><td>Silicate alumino-sodique</td><td></td></tr>
-<tr><td>Vinaigre de cidre</td><td></td></tr>
-<tr><td>*Paecilomyces fumosoroseus*</td><td></td></tr>
-<tr><td>*Paecilomyces lilacinus*</td><td></td></tr>
+<tr><td>Huile de gaulthérie</td><td></td></tr>
 <tr><td>Huile de paraffine (CAS 64742-46-7)</td><td></td></tr>
 <tr><td>Huile de paraffine (CAS 72623-86-0)</td><td></td></tr>
 <tr><td>Huile de paraffine (CAS 8042-47-5)</td><td></td></tr>
 <tr><td>Huile de paraffine (CAS 97862-82-3)</td><td></td></tr>
-<tr><td>Poivre</td><td></td></tr>
-<tr><td>Essence de menthe poivrée</td><td></td></tr>
+<tr><td>Huile de sésame raffinée</td><td></td></tr>
 <tr><td>Huiles végétales: citronnellol</td><td></td></tr>
-<tr><td>Huiles végétales: eugénol / essence de clou de girofle</td><td></td></tr>
 <tr><td>Huiles végétales: essence d’orange</td><td></td></tr>
+<tr><td>Huiles végétales: eugénol / essence de clou de girofle</td><td></td></tr>
 <tr><td>Huiles végétales: huile de colza</td><td></td></tr>
+<tr><td>Iodure de potassium</td><td></td></tr>
+<tr><td>Isoxadifen-éthyle</td><td></td></tr>
+<tr><td>Lait écrémé (lait maigre)</td><td></td></tr>
+<tr><td>Laminarine</td><td></td></tr>
+<tr><td>Maltodextrine</td><td></td></tr>
+<tr><td>Méfenpyr diéthyl</td><td></td></tr>
+<tr><td>Mélange de terpène (QRD 460)</td><td></td></tr>
+<tr><td>*Metarhizium anisopliae*</td><td></td></tr>
+<tr><td>Méthylnonylcétone</td><td></td></tr>
+<tr><td>*Oleum foeniculi* (huile de fenouil)</td><td></td></tr>
+<tr><td>*Paecilomyces fumosoroseus*</td><td></td></tr>
+<tr><td>*Paecilomyces lilacinus*</td><td></td></tr>
+<tr><td>Parois cellulaires de *Saccharomyces cerevisiae* (souche LAS 117)</td><td></td></tr>
+<tr><td>Petit-lait</td><td></td></tr>
 <tr><td>*Phlebia gigantea*</td><td></td></tr>
+<tr><td>Phosphate de fer(III)</td><td></td></tr>
 <tr><td>*Photorhabdus luminescens*</td><td></td></tr>
+<tr><td>Poivre</td><td></td></tr>
 <tr><td>*Pseudomonas chlororaphis*</td><td></td></tr>
 <tr><td>*Pseudomonas* sp. (DSMZ 13134)</td><td></td></tr>
-<tr><td>Sable quartzeux</td><td></td></tr>
-<tr><td>Extrait de quassine</td><td></td></tr>
 <tr><td>Répulsifs: farine de sang</td><td></td></tr>
-<tr><td>Répulsifs: huile de poisson</td><td></td></tr>
 <tr><td>Répulsifs: graisse de mouton</td><td></td></tr>
+<tr><td>Répulsifs: huile de poisson</td><td></td></tr>
 <tr><td>Répulsifs: tall-oil</td><td></td></tr>
-<tr><td>Extrait de prèle</td><td></td></tr>
-<tr><td>Virus de la granulose de la tordeuse de la pelure</td><td></td></tr>
+<tr><td>Sable quartzeux</td><td></td></tr>
+<tr><td>*Saccharomyces cerevisiae* (souche LAS02)</td><td></td></tr>
+<tr><td>Silicate alumino-sodique</td><td></td></tr>
+<tr><td>Silicate d’aluminium (kaolin)</td><td></td></tr>
 <tr><td>Soufre</td><td></td></tr>
-<tr><td>Acide sulfurique sur terre argileuse</td><td></td></tr>
-<tr><td>Extrait d’algues marines</td><td></td></tr>
-<tr><td>Huile de sésame raffinée</td><td></td></tr>
 <tr><td>*Streptomyces griseoviridis*</td><td></td></tr>
-<tr><td>Extrait de l’arbre à thé</td><td></td></tr>
-<tr><td>Mélange de terpène (QRD 460)</td><td></td></tr>
+<tr><td>Sucre blanc</td><td></td></tr>
+<tr><td>Sulfate de fer(II)</td><td></td></tr>
+<tr><td>Sulfate de fer(III)</td><td></td></tr>
+<tr><td>Terre d’infusoire (terre de diatomée)</td><td></td></tr>
+<tr><td>Thiocyanate de potassium</td><td></td></tr>
 <tr><td>Thymol</td><td></td></tr>
+<tr><td>Triiodure de potassium</td><td></td></tr>
 <tr><td>*Verticillium lecanii*</td><td></td></tr>
 <tr><td>Vin</td><td></td></tr>
+<tr><td>Vinaigre de cidre</td><td></td></tr>
 <tr><td>Vinaigre de vin</td><td></td></tr>
-<tr><td>Sucre blanc</td><td></td></tr>
-<tr><td>Huile de gaulthérie</td><td></td></tr>
+<tr><td>Virus de la granulose de la tordeuse de la pelure</td><td></td></tr>
+<tr><td>Virus de la granulose du carpocapse</td><td></td></tr>
 <tr><td>*Xenorhabdus bovienii*</td><td></td></tr>
-<tr><td>Parois cellulaires de *Saccharomyces cerevisiae* (souche LAS 117)</td><td></td></tr>
 </table>
 
 Annexe 4
