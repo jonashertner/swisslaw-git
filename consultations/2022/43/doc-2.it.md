@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Rapporto sullo stato dei programmi di ampliamento dell’infrastruttura ferroviaria, con modifica dei decreti federali, e sulla prospettiva FERROVIA 2050"
 document: Progetto posto in consultazione
 language: it

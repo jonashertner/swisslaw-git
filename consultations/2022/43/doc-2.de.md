@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Bericht zum Stand der Ausbauprogramme für die Bahninfrastruktur mit Änderungen an den Bundesbeschlüssen und zur Perspektive BAHN 2050
 document: Vernehmlassungsvorlage
 language: de

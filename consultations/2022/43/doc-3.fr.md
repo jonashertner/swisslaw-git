@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Rapport sur l’état d’avancement des programmes d’aménagement de l’infrastructure ferroviaire, y compris modification des arrêtés fédéraux, et sur la perspective RAIL 2050"
 document: Projet mis en consultation-2
 language: fr
