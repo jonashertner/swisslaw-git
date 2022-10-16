@@ -4,11 +4,11 @@ title: "Ordonnance du 26 octobre 2011 sur l'importation de produits agricoles (O
 short: OIAgr
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/770"
 language: fr
-version: 2022-10-01
+version: 2022-10-17
 adopted: 2011-10-26
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/770/20221001/fr/xml/fedlex-data-admin-ch-eli-cc-2011-770-20221001-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20221001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/770/20221017/fr/xml/fedlex-data-admin-ch-eli-cc-2011-770-20221017-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20221017/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20221001/fr"
 
 (Ordonnance sur les importations agricoles, OIAgr)
 
-du 26 octobre 2011 (État le 1<sup>er</sup> octobre 2022)
+du 26 octobre 2011 (État le 17 octobre 2022)
 
 Le Conseil fédéral suisse,
 
@@ -2881,7 +2881,7 @@ Annexe 3[^t-3]
 
 ## Contingents tarifaires et contingents tarifaires partiels
 
-[^t-3]: Mise à jour par le ch II de l’O du 18 oct. 2017 ([RO 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)), le ch. I de l’O du 18 oct. 2017 ([RO 2017 6113](https://fedlex.data.admin.ch/eli/oc/2017/674)), le ch. II de l’O du 31 oct. 2018 ([RO 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)), l’annexe 2 ch. 2 de l’O du 26 août 2020 ([RO 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)), le ch. II al. 1 de l’O du 11 nov. 2020 ([RO 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)), l’annexe 3 ch. 14 de l’O du 30 juin 2021 modifiant le tarif des douanes ([RO 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)), le ch. III de l’O de l’OFAG du 30 août 2021 ([RO 2021 537](https://fedlex.data.admin.ch/eli/oc/2021/537)), le ch. I de l’O du 17 sept. 2021 ([RO 2021 571](https://fedlex.data.admin.ch/eli/oc/2021/571)), erratum du 18 oct. 2021 ([RO 2021 617](https://fedlex.data.admin.ch/eli/oc/2021/617)), le ch. I des O de l’OFAG du 17 nov. 2021 ([RO 2021 797](https://fedlex.data.admin.ch/eli/oc/2021/797)), du 3 fév. 2022 ([RO 2022 70](https://fedlex.data.admin.ch/eli/oc/2022/70)), du 1<sup>er</sup> fév. 2022 ([RO 2022 116](https://fedlex.data.admin.ch/eli/oc/2022/116)), du 15 mars 2022 ([RO 2022 185](https://fedlex.data.admin.ch/eli/oc/2022/185)), le ch. I al. 1 de l’O du 30 mars 2022 ([RO 2022 215](https://fedlex.data.admin.ch/eli/oc/2022/215)), le ch. I des O de l’OFAG du 20 avr. 2022 ([RO 2022 280](https://fedlex.data.admin.ch/eli/oc/2022/280)) et du 14 juin 2022 ([RO 2022 365](https://fedlex.data.admin.ch/eli/oc/2022/365)), le ch. I al. 1 de l’O du 10 juin 2022 ([RO 2022 372](https://fedlex.data.admin.ch/eli/oc/2022/372)) et le ch. I de l’O de l’OFAG du 9 août 2022, en vigueur depuis le 22 août 2022 ([RO 2022 447](https://fedlex.data.admin.ch/eli/oc/2022/447)).
+[^t-3]: Mise à jour par le ch II de l’O du 18 oct. 2017 ([RO 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)), le ch. I de l’O du 18 oct. 2017 ([RO 2017 6113](https://fedlex.data.admin.ch/eli/oc/2017/674)), le ch. II de l’O du 31 oct. 2018 ([RO 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)), l’annexe 2 ch. 2 de l’O du 26 août 2020 ([RO 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)), le ch. II al. 1 de l’O du 11 nov. 2020 ([RO 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)), l’annexe 3 ch. 14 de l’O du 30 juin 2021 modifiant le tarif des douanes ([RO 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)), le ch. I de l’O du 17 sept. 2021 ([RO 2021 571](https://fedlex.data.admin.ch/eli/oc/2021/571)), erratum du 18 oct. 2021 ([RO 2021 617](https://fedlex.data.admin.ch/eli/oc/2021/617)), le ch. I des O de l’OFAG du 3 fév. 2022 ([RO 2022 70](https://fedlex.data.admin.ch/eli/oc/2022/70)), du 15 mars 2022 ([RO 2022 185](https://fedlex.data.admin.ch/eli/oc/2022/185)), le ch. I al. 1 de l’O du 30 mars 2022 ([RO 2022 215](https://fedlex.data.admin.ch/eli/oc/2022/215)), le ch. I de l’O de l’OFAG du 14 juin 2022 ([RO 2022 365](https://fedlex.data.admin.ch/eli/oc/2022/365)), le ch. I al. 1 de l’O du 10 juin 2022 ([RO 2022 372](https://fedlex.data.admin.ch/eli/oc/2022/372)) et le ch. I des O de l’OFAG du 9 août 2022 ([RO 2022 447](https://fedlex.data.admin.ch/eli/oc/2022/447)), du 26 sept. 2022 ([RO 2022 557](https://fedlex.data.admin.ch/eli/oc/2022/557)) et du 23 sept. 2022, en vigueur depuis le 17 oct. 2022 ([RO 2022 558](https://fedlex.data.admin.ch/eli/oc/2022/558)).
 
 ### 1. Marché des équidés
 
@@ -2959,6 +2959,7 @@ Annexe 3[^t-3]
 <tr><td>07.4.2</td><td>Augmentation temporaire du contingent tarifaire partiel pour 2022: à partir du 1<sup>er</sup> avril et jusqu’au 31 décembre</td><td>2000</td></tr>
 <tr><td>07.4.3</td><td>Augmentation temporaire du contingent tarifaire partiel pour 2022: à partir du 1<sup>er</sup> juillet et jusqu’au 31 décembre</td><td>**1000**</td></tr>
 <tr><td>07.4.4</td><td>Augmentation temporaire du contingent tarifaire partiel pour 2022: à partir du 22 août et jusqu’au 31 décembre</td><td>**1000**</td></tr>
+<tr><td>07.4.5</td><td>Augmentation temporaire du contingent tarifaire partiel pour 2022: à partir du 17 octobre et jusqu’au 31 décembre</td><td>1000</td></tr>
 <tr><td>07.5</td><td>«Contingent de fontal»</td><td>**2624** [4]</td></tr>
 <tr><td>07.6</td><td>Autres produits laitiers</td><td>**[5]**</td></tr>
 <tr><td>08</td><td>Caséine</td><td>697 **[5]**</td></tr>
@@ -3002,6 +3003,7 @@ Annexe 3[^t-3]
 <tr><td>14.2</td><td>Pommes de terre destinées à la transformation</td><td>**9250**</td></tr>
 <tr><td>14.2.1</td><td>Augmentation temporaire du contingent tarifaire partiel pour 2022: du 1<sup>er</sup> janvier au 30 juin 2022</td><td>25 000</td></tr>
 <tr><td>14.2.2</td><td>Augmentation temporaire du contingent tarifaire partiel pour 2022: du 1<sup>er</sup> mars au 30 juin 2022</td><td>**20 000**</td></tr>
+<tr><td>14.2.3</td><td>Augmentation temporaire du contingent tarifaire partiel pour 2022: du 17 octobre au 31 décembre 2022</td><td>**15 000**</td></tr>
 <tr><td>14.3</td><td>Pommes de terre de table</td><td>**6500**</td></tr>
 <tr><td>14.3.1</td><td>Augmentation temporaire du contingent tarifaire partiel pour 2022: du 1<sup>er</sup> mars au 15 juillet 2022</td><td>**20 000**</td></tr>
 <tr><td>14.3.2</td><td>Augmentation temporaire du contingent tarifaire partiel pour 2022: du 15 mai au 31 juillet 2022</td><td>**5000**</td></tr>

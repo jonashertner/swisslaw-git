@@ -4,11 +4,11 @@ title: "Verordnung vom 26. Oktober 2011 über die Einfuhr von landwirtschaftlich
 short: AEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/770"
 language: de
-version: 2022-10-01
+version: 2022-10-17
 adopted: 2011-10-26
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/770/20221001/de/xml/fedlex-data-admin-ch-eli-cc-2011-770-20221001-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20221001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/770/20221017/de/xml/fedlex-data-admin-ch-eli-cc-2011-770-20221017-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20221017/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20221001/de"
 
 (Agrareinfuhrverordnung, AEV)
 
-vom 26. Oktober 2011 (Stand am 1. Oktober 2022)
+vom 26. Oktober 2011 (Stand am 17. Oktober 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -2895,7 +2895,7 @@ Anhang 3[^t-3]
 
 ## Zoll- und Teilzollkontingente
 
-[^t-3]: Bereinigt gemäss Ziff. II der V vom 18. Okt. 2017 ([AS 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)), Ziff. I der V vom 18. Okt. 2017 ([AS 2017 6113](https://fedlex.data.admin.ch/eli/oc/2017/674)), Ziff. II der V vom 31. Okt. 2018 ([AS 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)), Anhang 2 Ziff. 2 der V vom 26. Aug. 2020 ([AS 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)), Ziff. II Abs. 1 der V vom 11. Nov. 2020 ([AS 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)), Anhang 3 Ziff. 14 der V vom 30. Juni 2021 über die Änderung des Zolltarifs ([AS 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)), Ziff. III der V des BLW vom 30. Aug. 2021 ([AS 2021 537](https://fedlex.data.admin.ch/eli/oc/2021/537)), Ziff. I der V vom 17. Sept. 2021 ([AS 2021 571](https://fedlex.data.admin.ch/eli/oc/2021/571)), der Berichtigung vom 18. Okt. 2021 ([AS 2021 617](https://fedlex.data.admin.ch/eli/oc/2021/617)), Ziff. I der V des BLW vom 17. Nov. 2021 ([AS 2021 797](https://fedlex.data.admin.ch/eli/oc/2021/797)), vom 3. Febr. 2022 ([AS 2022 70](https://fedlex.data.admin.ch/eli/oc/2022/70)), vom 1. Febr. 2022 ([AS 2022 116](https://fedlex.data.admin.ch/eli/oc/2022/116)), vom 15. März 2022 ([AS 2022 185](https://fedlex.data.admin.ch/eli/oc/2022/185)), Ziff. I Abs. 1 der V vom 30. März 2022 ([AS 2022 215](https://fedlex.data.admin.ch/eli/oc/2022/215)), Ziff. I der V des BLW vom 20. April 2022 ([AS 2022 280](https://fedlex.data.admin.ch/eli/oc/2022/280)), vom 14. Juni 2022 ([AS 2022 365](https://fedlex.data.admin.ch/eli/oc/2022/365)), Ziff. I Abs. 1 der V vom 10. Juni 2022 ([AS 2022 372](https://fedlex.data.admin.ch/eli/oc/2022/372)) und Ziff. I der V des BLW vom 9. Aug. 2022, in Kraft seit 22. Aug. 2022 ([AS 2022 447](https://fedlex.data.admin.ch/eli/oc/2022/447)).
+[^t-3]: Bereinigt gemäss Ziff. II der V vom 18. Okt. 2017 ([AS 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)), Ziff. I der V vom 18. Okt. 2017 ([AS 2017 6113](https://fedlex.data.admin.ch/eli/oc/2017/674)), Ziff. II der V vom 31. Okt. 2018 ([AS 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)), Anhang 2 Ziff. 2 der V vom 26. Aug. 2020 ([AS 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)), Ziff. II Abs. 1 der V vom 11. Nov. 2020 ([AS 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)), Anhang 3 Ziff. 14 der V vom 30. Juni 2021 über die Änderung des Zolltarifs ([AS 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)), Ziff. I der V vom 17. Sept. 2021 ([AS 2021 571](https://fedlex.data.admin.ch/eli/oc/2021/571)), der Berichtigung vom 18. Okt. 2021 ([AS 2021 617](https://fedlex.data.admin.ch/eli/oc/2021/617)), Ziff. I der V des BLW vom 3. Febr. 2022 ([AS 2022 70](https://fedlex.data.admin.ch/eli/oc/2022/70)), vom 15. März 2022 ([AS 2022 185](https://fedlex.data.admin.ch/eli/oc/2022/185)), Ziff. I Abs. 1 der V vom 30. März 2022 ([AS 2022 215](https://fedlex.data.admin.ch/eli/oc/2022/215)), Ziff. I der V des BLW vom 14. Juni 2022 ([AS 2022 365](https://fedlex.data.admin.ch/eli/oc/2022/365)), Ziff. I Abs. 1 der V vom 10. Juni 2022 ([AS 2022 372](https://fedlex.data.admin.ch/eli/oc/2022/372)), Ziff. I der V des BLW vom 9. Aug. 2022, in Kraft seit 22. Aug. 2022 ([AS 2022 447](https://fedlex.data.admin.ch/eli/oc/2022/447)), vom 26. Sept. 2022 ([AS 2022 557](https://fedlex.data.admin.ch/eli/oc/2022/557)) und vom 23. Sept. 2022, in Kraft seit 17. Okt. 2022 ([AS 2022 558](https://fedlex.data.admin.ch/eli/oc/2022/558)).
 
 ### 1. Marktordnung Tiere der Pferdegattung
 
@@ -2978,6 +2978,7 @@ Anhang 3[^t-3]
 <tr><td>07.4.2</td><td>Vorübergehende Erhöhung des Teilzollkontingents für 2022: ab 1. April bis 31. Dezember 2022</td><td>2000</td></tr>
 <tr><td>07.4.3</td><td>Vorübergehende Erhöhung des Teilzollkontingents für 2022: ab 1. Juli bis 31. Dezember 2022</td><td>**1000**</td></tr>
 <tr><td>07.4.4</td><td>Vorübergehende Erhöhung des Teilzollkontingents für 2022: ab 22. August bis 31. Dezember 2022</td><td>1000</td></tr>
+<tr><td>07.4.5</td><td>Vorübergehende Erhöhung des Teilzollkontingents für 2022: ab 17. Oktober bis 31. Dezember 2022</td><td>1000</td></tr>
 <tr><td>07.5</td><td>«Fontalkontingent»</td><td>**2624**</td></tr>
 <tr><td></td><td></td><td>[4]</td></tr>
 <tr><td>07.6</td><td>Übrige Milchprodukte</td><td>**[5]**</td></tr>
@@ -3020,6 +3021,7 @@ Anhang 3[^t-3]
 <tr><td>14.2</td><td>Veredelungskartoffeln</td><td>**9250**</td></tr>
 <tr><td>14.2.1</td><td>Vorübergehende Erhöhung des Teilzollkontingents für 2022: 1. Januar bis 30. Juni 2022</td><td>25 000</td></tr>
 <tr><td>14.2.2</td><td>Vorübergehende Erhöhung des Teilzollkontingents für 2022: 1. März bis 30. Juni 2022</td><td>**20 000**</td></tr>
+<tr><td>14.2.3</td><td>Vorübergehende Erhöhung des Teilzollkontingents für 2022: 17. Oktober bis 31. Dezember 2022</td><td>**15 000**</td></tr>
 <tr><td>14.3</td><td>Speisekartoffeln</td><td>**6500**</td></tr>
 <tr><td>14.3.1</td><td>Vorübergehende Erhöhung des Teilzollkontingents für 2022: 1. März bis 15. Juli 2022</td><td>**20 000**</td></tr>
 <tr><td>14.3.2</td><td>Vorübergehende Erhöhung des Teilzollkontingents für 2022: 15. Mai bis 31. Juli 2022</td><td>**5000**</td></tr>
