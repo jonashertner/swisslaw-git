@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Prorogation et modification de l’ordonnance sur le contrat-type de travail pour les travailleurs de l’économie domestique (CTT économie domestique)
 document: Projet mis en consultation
 language: fr

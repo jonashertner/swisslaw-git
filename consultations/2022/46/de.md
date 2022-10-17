@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Verlängerung und Änderung der Verordnung über den Normalarbeitsvertrag für Arbeitnehmerinnen und Arbeitnehmer in der Hauswirtschaft
 document: Vernehmlassungsvorlage
 language: de
