@@ -3,11 +3,11 @@ sr: "0.631.112.514"
 title: Vertrag vom 29. März 1923 zwischen der Schweiz und Liechtenstein über den Anschluss des Fürstentums Liechtenstein an das schweizerische Zollgebiet (mit Schlussprotokoll und Anhängen)
 eli: "https://fedlex.data.admin.ch/eli/cc/39/551_565_576"
 language: de
-version: 2022-03-22
+version: 2022-10-18
 adopted: 1923-03-29
 in_force: 1924-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/39/551_565_576/20220322/de/xml/fedlex-data-admin-ch-eli-cc-39-551_565_576-20220322-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/39/551_565_576/20220322/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/39/551_565_576/20221018/de/xml/fedlex-data-admin-ch-eli-cc-39-551_565_576-20221018-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/39/551_565_576/20221018/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ Originaltext
 
 Abgeschlossen am 29. März 1923 Von der Bundesversammlung genehmigt am 21. Dezember 1923[^t-1] Ratifikationsurkunden ausgetauscht am 28. Dezember 1923 In Kraft getreten am 1. Januar 1924
 
-(Stand am 22. März 2022) (Stand am 22. März 2022)
+(Stand am 18. Oktober 2022) (Stand am 18. Oktober 2022)
 
 [^t-1]: AS **39** 550
 
@@ -267,7 +267,7 @@ Mit Beziehung auf die Vollstreckung der Strafen, welche nach Massgabe der kraft 
 
 Das Recht der Begnadigung steht hinsichtlich der Strafen, welche in Anwendung der kraft des gegenwärtigen Vertrages im Gebiete des Fürstentums Liechtenstein geltenden Bundesgesetzgebung ausgefällt worden sind, ausschliesslich den eidgenössischen Behörden zu.
 
-## Sechster Abschnitt Handhabung der Fremdenpolizei****
+## Sechster Abschnitt Handhabung der Fremdenpolizei
 
 [^chapVI-1]
 
@@ -386,11 +386,11 @@ Bern, den neunundzwanzigsten März neunzehnhundertunddreiundzwanzig (29. März 1
 [^t-2]: Aufgehoben durch Notenaustausch vom 29. Juni 2009/10. Dez. 2010, in Kraft seit 10. Dez. 2010 ([AS 2010 6409](https://fedlex.data.admin.ch/eli/oc/2010/903)).
 [^t-3]: [BS **9** 273; [AS 1948 731](https://fedlex.data.admin.ch/eli/oc/1948/731_711_676); **1949** II 1058; **1950** II 1523; [1952 10](https://fedlex.data.admin.ch/eli/oc/1952/10_10_10); [1954 252](https://fedlex.data.admin.ch/eli/oc/1954/252_259_144); [1955 32](https://fedlex.data.admin.ch/eli/oc/1955/32_32_32)Art. 6 Abs. 2; [1959 2178](https://fedlex.data.admin.ch/eli/oc/1959/2178_2243_2274)Art. 7 Abs. 2 Ziff. 2; [1961 399](https://fedlex.data.admin.ch/eli/oc/1961/399_409_420); [1964 142](https://fedlex.data.admin.ch/eli/oc/1964/142_138_138). [AS 1967 2042](https://fedlex.data.admin.ch/eli/oc/1967/2042_2086_2100)Art. 62.6 Abs. 1]. Siehe heute die Tierseuchenverordnung vom 27. Juni 1995 ([SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)).
 
-Anlagen*[^t-4]*
+Anlagen[^t-4]
 
 <table>
 <tr><td>**Anlage I**</td><td>– Liste der bundesrechtlichen Erlasse,</td></tr>
 <tr><td>**Anlage II**</td><td>– Liste der Staatsverträge, die im Fürstentum Liechtenstein anwendbar sind.</td></tr>
 </table>
 
-[^t-4]: Es wird mitgeteilt, dass die Anlagen I und II seit dem 27. Oktober 1998 regelmässig und ab dem 21. Juni 2005 halbjährlich, letztmals auf den 22. März 2022 (Stand: 31. Dezember 2021), bereinigt worden sind. Diese Anlagen werden in der AS nicht publiziert ([AS 2021 303](https://fedlex.data.admin.ch/eli/oc/2021/303), [711](https://fedlex.data.admin.ch/eli/oc/2021/711); [2022 210](https://fedlex.data.admin.ch/eli/oc/2022/210)). Separatdrucke der halbjährlich bereinigten Anlagen können bezogen werden beim Eidgenössischen Departement für auswärtige Angelegenheiten, Direktion für Völkerrecht, 3003 Bern, oder auf der Internetseite www.gesetze.li &gt; LR-Nr. 170.551.631 konsultiert werden.
+[^t-4]: Es wird mitgeteilt, dass die Anlagen I und II seit dem 27. Oktober 1998 regelmässig und ab dem 21. Juni 2005 halbjährlich, letztmals auf den 18. Oktober 2022 (Stand: 30. Juni 2022), bereinigt worden sind. Diese Anlagen werden in der AS nicht publiziert ([AS 2021 303](https://fedlex.data.admin.ch/eli/oc/2021/303), [711](https://fedlex.data.admin.ch/eli/oc/2021/711); [2022 210](https://fedlex.data.admin.ch/eli/oc/2022/210), [626](https://fedlex.data.admin.ch/eli/oc/2022/626)). Separatdrucke der halbjährlich bereinigten Anlagen können bezogen werden beim Eidgenössischen Departement für auswärtige Angelegenheiten, Direktion für Völkerrecht, 3003 Bern, oder auf der Internetseite www.gesetze.li &gt; LR-Nr. 170.551.631 konsultiert werden.

@@ -3,11 +3,11 @@ sr: "0.631.112.514"
 title: Traité du 29 mars 1923 entre la Suisse et la Principauté de Liechtenstein concernant la réunion de la Principauté de Liechtenstein au territoire douanier suisse (avec protocole final et annexes)
 eli: "https://fedlex.data.admin.ch/eli/cc/39/551_565_576"
 language: fr
-version: 2022-03-22
+version: 2022-10-18
 adopted: 1923-03-29
 in_force: 1924-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/39/551_565_576/20220322/fr/xml/fedlex-data-admin-ch-eli-cc-39-551_565_576-20220322-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/39/551_565_576/20220322/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/39/551_565_576/20221018/fr/xml/fedlex-data-admin-ch-eli-cc-39-551_565_576-20221018-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/39/551_565_576/20221018/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instruments de ratification échangés le 28 décembre 1923
 
 Entré en vigueur le 1<sup>er</sup> janvier 1924
 
-(Etat le 22 mars 2022)
+(État le 18 octobre 2022)
 
 [^t-1]: RO **39** 564
 
@@ -276,7 +276,7 @@ La Principauté de Liechtenstein se trouve dans la même situation juridique que
 
 Le droit de grâce pour les peines prononcées en vertu de la législation fédérale en vigueur sur le territoire de la Principauté de Liechtenstein conformément au présent traité appartient exclusivement aux autorités fédérales.
 
-## Chapitre VI: Police des étrangers****
+## Chapitre VI: Police des étrangers
 
 [^chapVI-1]
 
@@ -394,11 +394,11 @@ Berne, le vingt-neuf mars mil neuf cent vingt-trois (29 mars 1923).
 [^t-2]: Abrogé par l’échange de notes des 29 juin 2009/10 déc. 2010, avec effet au 10 déc. 2010 ([RO 2010 6409](https://fedlex.data.admin.ch/eli/oc/2010/903)).
 [^t-3]: [RS **9** 270; [RO 1948 711](https://fedlex.data.admin.ch/eli/oc/1948/731_711_676),; **1949** II 1150; **1950** II 1566; [1952 10](https://fedlex.data.admin.ch/eli/oc/1952/10_10_10); [1954 259](https://fedlex.data.admin.ch/eli/oc/1954/252_259_144); [1955 32](https://fedlex.data.admin.ch/eli/oc/1955/32_32_32)art. 6 al. 2; [1959 2243](https://fedlex.data.admin.ch/eli/oc/1959/2178_2243_2274)art. 7 al. 2 ch. 2; [1961 409](https://fedlex.data.admin.ch/eli/oc/1961/399_409_420); [1964 138](https://fedlex.data.admin.ch/eli/oc/1964/142_138_138). [RO 1967 2086](https://fedlex.data.admin.ch/eli/oc/1967/2042_2086_2100)art. 62.6 al. 1]. Voir actuellement l’O du 27 juin 1995 sur les épizooties ([RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)).
 
-Annexes*[^t-4]*
+Annexes[^t-4]
 
 <table>
 <tr><td>**Annexe I**</td><td>– Liste des lois et autres prescriptions fédérales applicables dans la Principauté de Liechtenstein</td></tr>
 <tr><td>**Annexe II**</td><td>– Liste des traités internationaux applicables dans la Principauté de Liechtenstein</td></tr>
 </table>
 
-[^t-4]: Les annexes I et II ont été mises à jour régulièrement dès le 27 octobre 1998, deux fois par an dès le 21 juin 2005 et pour la dernière fois le 22 mars 2022 (état au 31 décembre 2021). Ces annexes ne sont plus publiées dans le RO (RO **2021** 303, 711; **2022** 210). Des tirés à part des annexes mises à jour peuvent être obtenus auprès du Département fédéral des affaires étrangères, Direction du droit international public, 3003 Berne ou consultés sur le site Internet www.gesetze.li &gt; LR-Nr. 170.551.631.
+[^t-4]: Les annexes I et II ont été mises à jour régulièrement dès le 27 octobre 1998 deux fois par an dès le 21 juin 2005 et pour la dernière fois le 18 octobre 2022 (état au 30 juin 2022). Ces annexes ne sont plus publiées dans le RO (RO **2021** 303, 711; **2022** 210, 626). Des tirés à part des annexes mises à jour peuvent être obtenus auprès du Département fédéral des affaires étrangères, Direction du droit international public, 3003 Berne ou consultés sur le site Internet www.gesetze.li &gt; LR-Nr. 170.551.631.
