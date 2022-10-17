@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modification de la loi fédérale sur la poursuite pour dettes et la faillite (LP) (Extrait du registre des poursuites, notification par voie électronique et vente aux enchères en ligne)"
 document: Projet mis en consultation
 language: fr

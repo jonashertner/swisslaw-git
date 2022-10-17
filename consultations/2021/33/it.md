@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modifica della legge federale sulla esecuzione e sul fallimento (LEF) (Informazione sulle esecuzioni, notificazione per via elettronica e incanto in linea)"
 document: Progetto posto in consultazione
 language: it

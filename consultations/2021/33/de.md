@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Änderung des Bundesgesetzes über Schuldbetreibung und Konkurs (SchKG) (Betreibungsauskunft, elektronische Zustellungen und Online-Versteigerung)"
 document: Vernehmlassungsvorlage
 language: de
