@@ -3,11 +3,11 @@ sr: "0.748.095.14"
 title: Scambio di note del 27 gennaio 2003 tra la Svizzera e il Liechtenstein relativo alla collaborazione tra le autorità svizzere e liechtensteinensi in materia di aviazione civile (con allegati)
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/487"
 language: it
-version: 2022-03-22
+version: 2022-10-18
 adopted: 2003-01-27
 in_force: 2003-01-27
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/487/20220322/it/xml/fedlex-data-admin-ch-eli-cc-2003-487-20220322-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/487/20220322/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/487/20221018/it/xml/fedlex-data-admin-ch-eli-cc-2003-487-20221018-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/487/20221018/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/487/20220322/it"
 
 Entrato in vigore il 27 gennaio 2003
 
-(Stato 22 marzo 2022)
+(Stato 18 ottobre 2022)
 
 Traduzione
 
@@ -91,4 +91,4 @@ Allegati[^t-5]
 <tr><td>Allegato II</td><td>– Elenco dei trattati internazionali applicabili al Principato del Liechtenstein</td></tr>
 </table>
 
-[^t-5]: Gli All. I e II sono stati aggiornati dal 27 gen. 2003 regolarmente e l’ultima volta il 22 mar. 2022 (stato: 31 dic. 2021). Questi all. non sono più pubblicati nella RU ([RU 2020 4561](https://fedlex.data.admin.ch/eli/oc/2020/806); [2021 638](https://fedlex.data.admin.ch/eli/oc/2021/638), [712](https://fedlex.data.admin.ch/eli/oc/2021/712); [2022 211](https://fedlex.data.admin.ch/eli/oc/2022/211)). Estratti periodicamente aggiornati si possono richiedere al Dipartimento federale degli affari esteri, Direzione del diritto internazionale pubblico, 3003 Berna o possono essere consultati sul sito Internet: www.gesetze.li &gt; LR-Nr. 170.551.748.
+[^t-5]: Gli All. I e II sono stati aggiornati dal 27 gen. 2003 semestralmente e l’ultima volta il 18 ott. 2022 (stato: 30 giu. 2022). Questi all. non sono più pubblicati nella RU ([RU 2020 4561](https://fedlex.data.admin.ch/eli/oc/2020/806); [2021 638](https://fedlex.data.admin.ch/eli/oc/2021/638), [712](https://fedlex.data.admin.ch/eli/oc/2021/712); [2022 211](https://fedlex.data.admin.ch/eli/oc/2022/211), [628](https://fedlex.data.admin.ch/eli/oc/2022/628)). Estratti aggiornati semestralmente si possono richiedere al Dipartimento federale degli affari esteri, Direzione del diritto internazionale pubblico, 3003 Berna o possono essere consultati sul sito Internet: www.gesetze.li &gt; LR-Nr. 170.551.748.

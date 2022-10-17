@@ -3,11 +3,11 @@ sr: "0.748.095.14"
 title: "Échange de notes du 27 janvier 2003 entre la Suisse et le Liechtenstein concernant la collaboration entre les autorités suisses et liechtensteinoises dans le secteur de l'aviation civile (avec annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/487"
 language: fr
-version: 2022-03-22
+version: 2022-10-18
 adopted: 2003-01-27
 in_force: 2003-01-27
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/487/20220322/fr/xml/fedlex-data-admin-ch-eli-cc-2003-487-20220322-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/487/20220322/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/487/20221018/fr/xml/fedlex-data-admin-ch-eli-cc-2003-487-20221018-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/487/20221018/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,7 +18,7 @@ RO **2003** 3431
 
 Entré en vigueur le 27 janvier 2003
 
-(État le 22 mars 2022)
+(État le 18 octobre 2022)
 
 Traduction
 
@@ -94,4 +94,4 @@ Annexes[^t-5]
 <tr><td>**Annexe II**</td><td>– Liste des traités internationaux applicables dans la Principauté de Liechtenstein</td></tr>
 </table>
 
-[^t-5]: Les annexes I et II ont été mises à jour régulièrement dès le 27 janvier 2003, deux fois par an et pour la dernière fois le 22 mars 2022 (état au 31 décembre 2021). Ces annexes ne sont plus publiées dans le RO ([RO 2020 4561](https://fedlex.data.admin.ch/eli/oc/2020/806); [2021 638](https://fedlex.data.admin.ch/eli/oc/2021/638), [712](https://fedlex.data.admin.ch/eli/oc/2021/712); [2022 211](https://fedlex.data.admin.ch/eli/oc/2022/211)). Des tirés à part des annexes mises à jour peuvent être obtenus auprès du Département fédéral des affaires étrangères, Direction du droit international public, 3003 Berne ou consultés sur le site Internet www.gesetze.li &gt; LR-Nr. 170.551.748.
+[^t-5]: Les annexes I et II ont été mises à jour régulièrement dès 27 janvier 2003, deux fois par an et pour la dernière fois le 18 octobre 2022 (état au 30 juin 2022). Ces annexes ne sont plus publiées dans le RO ([RO 2020 4561](https://fedlex.data.admin.ch/eli/oc/2020/806); [2021 638](https://fedlex.data.admin.ch/eli/oc/2021/638), [712](https://fedlex.data.admin.ch/eli/oc/2021/712); [2022 211](https://fedlex.data.admin.ch/eli/oc/2022/211), [628](https://fedlex.data.admin.ch/eli/oc/2022/628)). Des tirés à part des annexes mises à jour peuvent être obtenus auprès du Département fédéral des affaires étrangères, Direction du droit international public, 3003 Berne ou consultés sur le site Internet www.gesetze.li &gt; LR-Nr. 170.551.748.
