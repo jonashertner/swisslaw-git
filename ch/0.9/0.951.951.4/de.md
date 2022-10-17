@@ -3,11 +3,11 @@ sr: "0.951.951.4"
 title: Währungsvertrag vom 19. Juni 1980 zwischen der Schweizerischen Eidgenossenschaft und dem Fürstentum Liechtenstein (mit Anlage und Briefwechsel)
 eli: "https://fedlex.data.admin.ch/eli/cc/1981/1715_1715_1715"
 language: de
-version: 2022-03-22
+version: 2022-10-18
 adopted: 1980-06-19
 in_force: 1981-11-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1981/1715_1715_1715/20220322/de/xml/fedlex-data-admin-ch-eli-cc-1981-1715_1715_1715-20220322-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1981/1715_1715_1715/20220322/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1981/1715_1715_1715/20221018/de/xml/fedlex-data-admin-ch-eli-cc-1981-1715_1715_1715-20221018-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1981/1715_1715_1715/20221018/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Ratifikationsurkunden ausgetauscht am 26. Oktober 1981
 
 In Kraft getreten am 25. November 1981
 
-(Stand am 22. März 2022)
+(Stand am 18. Oktober 2022)
 
 [^t-1]: [AS 1981 1714](https://fedlex.data.admin.ch/eli/oc/1981/1714_1714_1714)
 
@@ -220,10 +220,10 @@ Ich versichere Sie, Herr Regierungschef‑Stellvertreter, meiner ausgezeichneten
 
 Diez
 
-Anlage*[^t-2]*
+Anlage[^t-2]
 
 <table>
 <tr><td>Anlage I</td><td>– Liste der bundesrechtlichen Erlasse, die im Fürstentum Liechtenstein anwendbar sind</td></tr>
 </table>
 
-[^t-2]: Es wird mitgeteilt, dass die Anlage I seit dem 3. November 1998 regelmässig und seit dem 21. Juni 2005 halbjährlich, letztmals auf den 22. März 2022 (Stand: 31. Dezember 2021), bereinigt worden ist. Diese Anlage wird in der AS nicht publiziert ([AS 2020 4565](https://fedlex.data.admin.ch/eli/oc/2020/808); [2021 647](https://fedlex.data.admin.ch/eli/oc/2021/647), [713](https://fedlex.data.admin.ch/eli/oc/2021/713); [2022 212](https://fedlex.data.admin.ch/eli/oc/2022/212)). Separatdrucke der halbjährlich bereinigten Anlage können bezogen werden beim Eidgenössischen Departement für auswärtige Angelegenheiten, Direktion für Völkerrecht, 3003 Bern, oder auf der Internetseite www.gesetze.li &gt; LR-Nr. 170.551.95 konsultiert werden.
+[^t-2]: Die Anlage I ist seit dem 3. November 1998 regelmässig und seit dem 21. Juni 2005 halbjährlich, letztmals auf den 18. Oktober 2022 (Stand: 30. Juni 2022), bereinigt worden. Diese Anlage wird in der AS nicht publiziert ([AS 2020 4565](https://fedlex.data.admin.ch/eli/oc/2020/808); [2021 647](https://fedlex.data.admin.ch/eli/oc/2021/647), [713](https://fedlex.data.admin.ch/eli/oc/2021/713); [2022 212](https://fedlex.data.admin.ch/eli/oc/2022/212), [629](https://fedlex.data.admin.ch/eli/oc/2022/629)). Separatdrucke der halbjährlich bereinigten Anlage können bezogen werden beim Eidgenössischen Departement für auswärtige Angelegenheiten, Direktion für Völkerrecht, 3003 Bern, oder auf der Internetseite www.gesetze.li &gt; LR-Nr. 170.551.95 konsultiert werden.
