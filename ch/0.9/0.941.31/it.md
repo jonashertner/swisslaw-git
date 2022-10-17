@@ -3,11 +3,11 @@ sr: "0.941.31"
 title: Convenzione del 15 novembre 1972 concernente il controllo e la punzonatura di lavori in metallo prezioso (con All.)
 eli: "https://fedlex.data.admin.ch/eli/cc/1975/1013_1014_1013"
 language: it
-version: 2019-01-01
+version: 2022-10-18
 adopted: 1972-11-15
 in_force: 1975-06-27
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1975/1013_1014_1013/20190101/it/xml/fedlex-data-admin-ch-eli-cc-1975-1013_1014_1013-20190101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1975/1013_1014_1013/20190101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1975/1013_1014_1013/20221018/it/xml/fedlex-data-admin-ch-eli-cc-1975-1013_1014_1013-20221018-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1975/1013_1014_1013/20221018/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,19 +18,11 @@ RU **1975** 1013; FF **1973** I 1167
 
 Traduzione
 
-Conclusa a Vienna il 15 novembre 1972
+Conclusa a Vienna il 15 novembre 1972 Approvata dall’Assemblea federale il 29 novembre 1973[^t-1] Ratificata dalla Svizzera con strumento depositato il 1° aprile 1974[^t-2]
 
-Approvata dall’Assemblea federale il 29 novembre 1973[^t-1]
+Entrata in vigore per la Svizzera il 27 giugno 1975 Emendata a Ginevra il 9 gennaio 2001 Entrata in vigore il 27 febbraio 2010
 
-Ratificata dalla Svizzera con strumento depositato il 1° aprile 1974[^t-2]
-
-Entrata in vigore per la Svizzera il 27 giugno 1975
-
-Emendata a Ginevra il 9 gennaio 2001
-
-Entrata in vigore il 27 febbraio 2010
-
-(Stato 1° gennaio 2019)
+(Stato 18 ottobre 2022)
 
 [^t-1]: [RU 1975 1012](https://fedlex.data.admin.ch/eli/oc/1975/1012_1012_1012)
 [^t-2]: [RU 2010 5123](https://fedlex.data.admin.ch/eli/oc/2010/739)
@@ -200,7 +192,7 @@ Ciascuno Stato contraente può ritirarsi dalla presente Convenzione mediante un 
 
 *In fede di che,* i sottoscritti, debitamente autorizzati, hanno firmato la presente Convenzione. Fatto a Vienna il 15 novembre 1972, in francese ed in inglese, entrambi i testi facenti parimente fede, in un unico esemplare depositato presso il governo della Svezia che ne trasmette copia certificata conforme a tutti gli altri Stati firmatari e aderenti. (Seguono le firme)
 
-Allegato I*[^t-3]*
+Allegato I[^t-3]
 
 ## Definizioni ed esigenze tecniche
 
@@ -322,7 +314,7 @@ Nessuna tolleranza negativa è ammessa per il titolo legale indicato sui lavori.
 
 Il Comitato permanente decide quali rivestimenti sono autorizzati e le eccezioni per motivi tecnici.
 
-Allegato II*[^t-4]*
+Allegato II[^t-4]
 
 ## Controllo effettuato dall’ufficio di controllo ufficiale/dagli uffici di controllo ufficiali
 
@@ -392,7 +384,7 @@ Il punzone di responsabilità di cui alla lettera a) del punto 5.1.2 deve essere
 - 5\.5.1.2 Il Punzone Comune può essere combinato con un’indicazione del titolo e il marchio che indica il metallo prezioso: in questo caso, è racchiuso in una cornice che indica la natura del metallo prezioso e contiene un numero espresso in cifre arabe che mette in rilievo l’indicazione del titolo del lavoro in millesimi, come descritto qui sotto (Tipo 1).
 - 5\.5.1.3 Il Punzone Comune può essere un semplice un marchio di conformità: in tal caso è racchiuso in una cornice ottagonale standard, come descritto qui sotto (Tipo 2).
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1975/1013_1014_1013/20190101/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1975/1013_1014_1013/20221018/it/xml/image/image1.png)
 
 ### 5.5.2 Dimensioni ufficiali
 
@@ -417,7 +409,7 @@ Se un lavoro è composto da parti articolate o facilmente separabili, i punzoni 
 - 5\.9.1 I punzoni citati al punto 5.1.2 sono apposti sulla parte in metallo prezioso di un lavoro plurimetallici. Il punzone «METAL» (o equivalente) è apposto sulla parte metallica in conformità con il punto 2.6 dell’allegato I della Convenzione.
 - 5\.9.2 Il Comitato permanente può decidere altri dettagli o eccezioni.
 
-Campo d’applicazione il 4 dicembre 2018**[^t-5]**
+Campo d’applicazione il 18 ottobre 2022[^t-5]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -436,6 +428,7 @@ Campo d’applicazione il 4 dicembre 2018**[^t-5]**
 <tr><td>Polonia</td><td>22 agosto</td><td>2005 A</td><td>22 novembre</td><td>2005</td></tr>
 <tr><td>Portogallo</td><td>6 luglio</td><td>1982</td><td>6 settembre</td><td>1982</td></tr>
 <tr><td>Regno Unito</td><td>1° aprile</td><td>1976</td><td>1° giugno</td><td>1976</td></tr>
+<tr><td>Serbia</td><td>24 marzo</td><td>2020 A</td><td>24 giugno</td><td>2020</td></tr>
 <tr><td>Slovacchia</td><td>6 febbraio</td><td>2007 A</td><td>6 maggio</td><td>2007</td></tr>
 <tr><td>Slovenia</td><td>5 dicembre</td><td>2008 A</td><td>5 marzo</td><td>2009</td></tr>
 <tr><td>Svezia</td><td>27 febbraio</td><td>1975</td><td>27 giugno</td><td>1975</td></tr>
@@ -444,4 +437,4 @@ Campo d’applicazione il 4 dicembre 2018**[^t-5]**
 <tr><td colspan="5"><sup>a</sup> La Conv. s’applica unicamente al Regno in Europa.</td></tr>
 </table>
 
-[^t-5]: Completa quelli in [RU 2010 5123](https://fedlex.data.admin.ch/eli/oc/2010/739)e [2018 5437](https://fedlex.data.admin.ch/eli/oc/2018/822). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati)
+[^t-5]: [RU 2010 5123](https://fedlex.data.admin.ch/eli/oc/2010/739); [2018 5437](https://fedlex.data.admin.ch/eli/oc/2018/822); [2022 596](https://fedlex.data.admin.ch/eli/oc/2022/596). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati)

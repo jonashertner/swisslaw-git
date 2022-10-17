@@ -3,11 +3,11 @@ sr: "0.941.31"
 title: Convention du 15 novembre 1972 sur le contrôle et le poinçonnement des ouvrages en métaux précieux (avec annexes)
 eli: "https://fedlex.data.admin.ch/eli/cc/1975/1013_1014_1013"
 language: fr
-version: 2019-01-01
+version: 2022-10-18
 adopted: 1972-11-15
 in_force: 1975-06-27
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1975/1013_1014_1013/20190101/fr/xml/fedlex-data-admin-ch-eli-cc-1975-1013_1014_1013-20190101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1975/1013_1014_1013/20190101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1975/1013_1014_1013/20221018/fr/xml/fedlex-data-admin-ch-eli-cc-1975-1013_1014_1013-20221018-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1975/1013_1014_1013/20221018/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -30,7 +30,7 @@ Amendée à Genève le 9 janvier 2001[^t-2]
 
 Entrée en vigueur le 27 février 2010
 
-(Etat le 1<sup>er</sup> janvier 2019)
+(État le 18 octobre 2022)
 
 [^t-1]: [RO 1975 1012](https://fedlex.data.admin.ch/eli/oc/1975/1012_1012_1012)
 [^t-2]: [RO 2010 5123](https://fedlex.data.admin.ch/eli/oc/2010/739)
@@ -200,7 +200,7 @@ Tout État contractant peut se retirer de la présente Convention moyennant un p
 
 *En foi de quoi,* les soussignés, dûment autorisés à cet effet, ont signé la présente Convention. Fait à Vienne le 15 novembre 1972, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire qui sera déposé auprès du gouvernement de la Suède qui en transmettra copie certifiée conforme à tous les autres États signataires et adhérents. (Suivent les signatures)
 
-Annexe I*[^t-3]*
+Annexe I[^t-3]
 
 ## Définitions et exigences techniques
 
@@ -322,7 +322,7 @@ Aucune tolérance négative n’est admise quant au titre légal indiqué sur l�
 
 - [tab] Le Comité permanent décide des revêtements autorisés et des exceptions pour raisons techniques.
 
-Annexe II*[^t-4]*
+Annexe II[^t-4]
 
 ## Contrôle effectué par le(s) bureau(x) de contrôle des métaux précieux agréé(s)
 
@@ -392,7 +392,7 @@ Le poinçon de responsabilité mentionné à la let. a) du par. 5.1.2 est enregi
 - 5\.5.1.2 Le poinçon commun peut être combiné avec une indication de titre et la marque indiquant le métal précieux: dans ce cas-ci, il est entouré d’un encadrement qui indique la nature du métal précieux et il contient un nombre exprimé en chiffres arabes révélant en relief l’indication de titre de l’ouvrage en millièmes, tel que décrit ci-dessous (Type 1).
 - 5\.5.1.3 Le poinçon commun peut être uniquement une marque de conformité: dans ce cas-ci il est entouré d’un encadrement octogonal standardisé, tel que décrit ci-dessous (Type 2).
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1975/1013_1014_1013/20190101/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1975/1013_1014_1013/20221018/fr/xml/image/image1.png)
 
 ### 5.5.2 Dimensions agréées
 
@@ -417,7 +417,7 @@ Si un ouvrage est composé de parties articulées ou facilement séparables, les
 - 5\.9.1 Les poinçons mentionnés au par. 5.1.2 sont apposés sur la partie en métal précieux d’un ouvrage multimétal. Le poinçon «METAL» (ou équivalent) est apposé sur la partie métallique en accord avec le par. 2.6 de l’Annexe I de la Convention.
 - 5\.9.2 Le Comité permanent peut décider d’autres détails ou exceptions.
 
-Champ d’application le 4 décembre 2018**[^t-5]**
+Champ d’application le 18 octobre 2022[^t-5]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -437,6 +437,7 @@ Champ d’application le 4 décembre 2018**[^t-5]**
 <tr><td>Portugal</td><td>6 juillet</td><td>1982</td><td>6 septembre</td><td>1982</td></tr>
 <tr><td>République tchèque</td><td>2 août</td><td>1994 A</td><td>2 novembre</td><td>1994</td></tr>
 <tr><td>Royaume-Uni</td><td>1<sup>er</sup> avril</td><td>1976</td><td>1<sup>er</sup> juin</td><td>1976</td></tr>
+<tr><td>Serbie</td><td>24 mars</td><td>2020 A</td><td>24 juin</td><td>2020</td></tr>
 <tr><td>Slovaquie</td><td>6 février</td><td>2007 A</td><td>6 mai</td><td>2007</td></tr>
 <tr><td>Slovénie</td><td>5 décembre</td><td>2008 A</td><td>5 mars</td><td>2009</td></tr>
 <tr><td>Suède</td><td>27 février</td><td>1975</td><td>27 juin</td><td>1975</td></tr>
@@ -444,4 +445,4 @@ Champ d’application le 4 décembre 2018**[^t-5]**
 <tr><td colspan="5"><sup>a</sup> La Convention s’applique uniquement au Royaume en Europe.</td></tr>
 </table>
 
-[^t-5]: [RO 2010 5123](https://fedlex.data.admin.ch/eli/oc/2010/739), [2018 5437](https://fedlex.data.admin.ch/eli/oc/2018/822). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-5]: [RO 2010 5123](https://fedlex.data.admin.ch/eli/oc/2010/739); [2018 5437](https://fedlex.data.admin.ch/eli/oc/2018/822); [2022 596](https://fedlex.data.admin.ch/eli/oc/2022/596). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: https://www.fedlex.admin.ch/fr/treaty

@@ -3,11 +3,11 @@ sr: "0.941.31"
 title: Übereinkommen vom 15. November 1972 betreffend die Prüfung und Bezeichnung von Edelmetallwaren (mit Anhängen)
 eli: "https://fedlex.data.admin.ch/eli/cc/1975/1013_1014_1013"
 language: de
-version: 2019-01-01
+version: 2022-10-18
 adopted: 1972-11-15
 in_force: 1975-06-27
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1975/1013_1014_1013/20190101/de/xml/fedlex-data-admin-ch-eli-cc-1975-1013_1014_1013-20190101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1975/1013_1014_1013/20190101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1975/1013_1014_1013/20221018/de/xml/fedlex-data-admin-ch-eli-cc-1975-1013_1014_1013-20221018-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1975/1013_1014_1013/20221018/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -30,7 +30,7 @@ Revidiert in Genf am 9. Januar 2001
 
 In Kraft getreten für die Schweiz am 27. Februar 2010[^t-3]
 
-(Stand am 1. Januar 2019)
+(Stand am 18. Oktober 2022)
 
 [^t-1]: Der Ausdruck wurde in Anwendung von Art. 12 Abs. 1 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1.1.2019 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
 [^t-2]: [AS 1975 1012](https://fedlex.data.admin.ch/eli/oc/1975/1012_1012_1012)
@@ -201,7 +201,7 @@ Jeder Vertragsstaat kann von diesem Übereinkommen unter der Voraussetzung, dass
 
 *Zu Urkund dessen* haben die Unterzeichneten, die hiezu gehörig bevollmächtigt sind, dieses Übereinkommen unterzeichnet. Geschehen zu Wien, am 15. November 1972, in französischer und englischer Sprache, wobei jeder Wortlaut in gleicher Weise massgebend ist, in einer einzigen Ausfertigung, die bei der Regierung Schwedens hinterlegt wird, die allen anderen Unterzeichnerstaaten und allen beitretenden Staaten eine beglaubigte Abschrift zu übermitteln hat. (Es folgen die Unterschriften)
 
-Anhang I*[^t-4]*
+Anhang I[^t-4]
 
 ## Definitionen und technische Erfordernisse
 
@@ -323,7 +323,7 @@ Eine Minustoleranz in Bezug auf den auf der Ware angegebenen gesetzlichen Feinge
 
 - [tab] Über zulässige Oberflächenveredlungen sowie durch technische Gründe gerechtfertigte Ausnahmen entscheidet der Ständige Ausschuss.
 
-Anhang II*[^t-5]*
+Anhang II[^t-5]
 
 ## Prüfung durch das ermächtigte Kontrollamt/die ermächtigten Kontrollämter
 
@@ -393,7 +393,7 @@ Die Verantwortlichkeitsmarke gemäss Absatz 5.1.2 Buchstabe a) muss in einem amt
 - 5\.5.1.2 Die Gemeinsame Punze kann mit einer Feingehaltsangabe und der Bezeichnung des Edelmetalls kombiniert werden. In diesem Fall zeigt die Umrahmung die Art des Edelmetalls an und eine Zahl in arabischen Ziffern gibt in Reliefdarstellung den Feingehalt der Ware in Tausendteilen an (vgl. Typ 1 unten).
 - 5\.5.1.3 Die Gemeinsame Punze kann auch nur ein Konformitätszeichen sein. In diesem Fall ist die Standardumrahmung ein Oktogon (vgl. Typ 2 unten)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1975/1013_1014_1013/20190101/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1975/1013_1014_1013/20221018/de/xml/image/image1.png)
 
 ### 5.5.2 Anerkannte Dimensionen
 
@@ -418,7 +418,7 @@ Besteht eine Ware aus Teilen, die mit Scharnieren verbunden oder leicht trennbar
 - 5\.9.1 Bei Mehrmetallwaren werden die in Absatz 5.1.2 erwähnten Zeichen auf dem Edelmetallteil angebracht. Auf dem metallischen Teil wird im Einklang mit Anhang I Absatz 2.6 des Übereinkommens die Bezeichnung «METAL» (oder eine gleichwertige Bezeichnung) angebracht.
 - 5\.9.2 Über weitere Einzelheiten oder Ausnahmen entscheidet der Ständige Ausschuss.
 
-Geltungsbereich am 4. Dezember 2018**[^t-6]**
+Geltungsbereich am 18. Oktober 2022[^t-6]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -436,6 +436,7 @@ Geltungsbereich am 4. Dezember 2018**[^t-6]**
 <tr><td>Portugal</td><td>6. Juli</td><td>1982</td><td>6. September</td><td>1982</td></tr>
 <tr><td>Schweden</td><td>27. Februar</td><td>1975</td><td>27. Juni</td><td>1975</td></tr>
 <tr><td>Schweiz</td><td>1. April</td><td>1974</td><td>27. Juni</td><td>1975</td></tr>
+<tr><td>Serbien</td><td>24. März</td><td>2020 B</td><td>24. Juni</td><td>2020</td></tr>
 <tr><td>Slowakei</td><td>6. Februar</td><td>2007 B</td><td>6. Mai</td><td>2007</td></tr>
 <tr><td>Slowenien</td><td>5. Dezember</td><td>2008 B</td><td>5. März</td><td>2009</td></tr>
 <tr><td>Tschechische Republik</td><td>2. August</td><td>1994 B</td><td>2. November</td><td>1994</td></tr>
@@ -445,4 +446,4 @@ Geltungsbereich am 4. Dezember 2018**[^t-6]**
 <tr><td colspan="5">[tab] <sup>a</sup> Das Übereinkommen gilt nur für das Königsreich in Europa.</td></tr>
 </table>
 
-[^t-6]: [AS 2010 5123](https://fedlex.data.admin.ch/eli/oc/2010/739), [2018 5437](https://fedlex.data.admin.ch/eli/oc/2018/822). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-6]: [AS 2010 5123](https://fedlex.data.admin.ch/eli/oc/2010/739); [2018 5437](https://fedlex.data.admin.ch/eli/oc/2018/822); [2022 596](https://fedlex.data.admin.ch/eli/oc/2022/596). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht https://www.fedlex.admin.ch/de/treaty
