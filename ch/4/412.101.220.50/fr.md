@@ -3,18 +3,18 @@ sr: "412.101.220.50"
 title: "Ordonnance du SEFRI du 12 octobre 2017 sur la formation professionnelle initiale de mécanicienne en maintenance d'automobiles/mécanicien en maintenance d'automobiles avec certificat fédéral de capacité (CFC)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/626"
 language: fr
-version: 2018-01-01
+version: 2022-10-19
 adopted: 2017-10-12
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/626/20180101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-626-20180101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/626/20180101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/626/20221019/fr/xml/fedlex-data-admin-ch-eli-cc-2017-626-20221019-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/626/20221019/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du SEFRI sur la formation professionnelle initiale de mécanicienne en maintenance d’automobiles/ mécanicien en maintenance d’automobiles avec certificat fédéral de capacité (CFC)<sup>\*</sup>
 
-du 12 octobre 2017 (Etat le 1<sup>er</sup> janvier 2018)
+du 12 octobre 2017 (État le 19 octobre 2022)
 
 <table>
 <tr><td>46324</td><td>Mécanicienne en maintenance d’automobiles CFC/ Mécanicien en maintenance d’automobiles CFC Automobil-Fachfrau EFZ/Automobil-Fachmann EFZ Meccanica/Meccanico di manutenzione per automobili AFC</td></tr>
@@ -28,7 +28,7 @@ vu l’art. 19 de la loi fédérale du 13 décembre 2002 sur la formation profes
 
 arrête:
 
-[^ingress-1]: **\*** Les termes désignant des personnes s’appliquent également aux femmes et aux hommes. RS **412.10**
+[^ingress-1]: **\***Les termes désignant des personnes s’appliquent également aux femmes et aux hommes. RS **412.10**
 [^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
 [^ingress-3]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
 
@@ -419,7 +419,9 @@ Pour le calcul de la note globale, les notes sont pondérées de la manière sui
 
 <sup>3</sup> Pour les personnes qui répètent l’examen final et qui ne suivent plus l’enseignement des connaissances professionnelles, l’ancienne note d’expérience est prise en compte. Pour les personnes qui suivent à nouveau l’enseignement des connaissances professionnelles pendant 2 semestres au minimum, seules les nouvelles notes sont prises en compte pour le calcul de la note d’expérience.
 
-<sup>4</sup> Pour les personnes qui répètent l’examen final et qui ne suivent plus les cours interentreprises, l’ancienne note est prise en compte. Pour les personnes qui suivent à nouveau l’enseignement des connaissances professionnelles pendant 2 semestres au minimum, seules les nouvelles notes sont prises en compte pour le calcul de la note d’expérience.
+<sup>4</sup> Pour les personnes qui répètent l’examen final et qui ne suivent plus les cours interentreprises, l’ancienne note est prise en compte. Pour les personnes qui suivent à nouveau les deux derniers cours interentreprises évalués, seules les nouvelles notes sont prises en compte pour le calcul de la note d’expérience.[^20-1]
+
+[^20-1]: Erratum du 19 oct. 2022 ([RO 2022 593](https://fedlex.data.admin.ch/eli/oc/2022/593)).
 
 #### Art. 21
 

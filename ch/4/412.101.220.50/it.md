@@ -3,20 +3,18 @@ sr: "412.101.220.50"
 title: Ordinanza della SEFRI sulla formazione del 12 ottobre 2017 professionale di base. Meccanica di manutenzione per automobili/Meccanico di manutenzione per automobili con attestato federale di capacità (AFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/626"
 language: it
-version: 2018-01-01
+version: 2022-10-19
 adopted: 2017-10-12
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/626/20180101/it/xml/fedlex-data-admin-ch-eli-cc-2017-626-20180101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/626/20180101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/626/20221019/it/xml/fedlex-data-admin-ch-eli-cc-2017-626-20221019-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/626/20221019/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Ordinanza della SEFRI sulla formazione professionale di base Meccanica di manutenzione per automobili/ Meccanico di manutenzione per automobili
+# Ordinanza della SEFRI sulla formazione professionale di base Meccanica di manutenzione per automobili/ Meccanico di manutenzione per automobili con attestato federale di capacità (AFC)
 
-con attestato federale di capacità (AFC)
-
-del 12 ottobre 2017 (Stato 1° gennaio 2018)
+del 12 ottobre 2017 (Stato 19 ottobre 2022)
 
 <table>
 <tr><td>46324</td><td>Meccanica/Meccanico di manutenzione per automobili AFC Automobil-Fachfrau EFZ/Automobil-Fachmann EFZ Mécanicienne en maintenance d’automobiles CFC/ Mécanicien en maintenance d’automobiles CFC</td></tr>
@@ -421,7 +419,9 @@ Per il calcolo della nota complessiva valgono le note sottoelencate con la ponde
 
 <sup>3</sup> Qualora si ripeta l’esame finale senza frequentare nuovamente l’insegnamento delle conoscenze professionali, resta valida la nota conseguita in precedenza. Se si ripetono almeno due semestri di insegnamento delle conoscenze professionali, per il calcolo della nota dei luoghi di formazione fanno stato soltanto le nuove note.
 
-<sup>4</sup> Qualora si ripeta l’esame finale senza frequentare nuovamente i corsi interaziendali, resta valida la nota conseguita in precedenza. Se si ripetono gli ultimi due corsi interaziendali valutati, per il calcolo della nota dei luoghi di formazione fanno stato soltanto le nuove note.
+<sup>4</sup> Qualora si ripeta l’esame finale senza frequentare nuovamente i corsi interaziendali, resta valida la nota conseguita in precedenza. Se si ripetono gli ultimi due corsi interaziendali valutati, per il calcolo della nota dei luoghi di formazione fanno stato soltanto le nuove note.[^20-1]
+
+[^20-1]: La correzione del 19 ott. 2022 concerne soltanto il testo francese ([RU 2022 593](https://fedlex.data.admin.ch/eli/oc/2022/593)).
 
 #### Art. 21
 

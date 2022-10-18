@@ -3,18 +3,18 @@ sr: "412.101.220.50"
 title: Verordnung des SBFI vom 12. Oktober 2017 über die berufliche Grundbildung. Automobil-Fachfrau/Automobil-Fachmann mit eidgenössischem Fähigkeitszeugnis (EFZ)
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/626"
 language: de
-version: 2018-01-01
+version: 2022-10-19
 adopted: 2017-10-12
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/626/20180101/de/xml/fedlex-data-admin-ch-eli-cc-2017-626-20180101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/626/20180101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/626/20221019/de/xml/fedlex-data-admin-ch-eli-cc-2017-626-20221019-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/626/20221019/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des SBFI über die berufliche Grundbildung Automobil-Fachfrau/Automobil-Fachmann mit eidgenössischem Fähigkeitszeugnis (EFZ)
 
-vom 12. Oktober 2017 (Stand am 1. Januar 2018)
+vom 12. Oktober 2017 (Stand am 19. Oktober 2022)
 
 <table>
 <tr><td>46324</td><td>Automobil-Fachfrau EFZ/Automobil-Fachmann EFZ Mécanicienne en maintenance d’automobiles CFC/ Mécanicien en maintenance d’automobiles CFC Meccanica/Meccanico di manutenzione per automobili AFC</td></tr>
@@ -419,7 +419,9 @@ Für die Berechnung der Gesamtnote werden die einzelnen Noten wie folgt gewichte
 
 <sup>3</sup> Wird die Abschlussprüfung ohne erneuten Besuch des Unterrichts in den Berufskenntnissen wiederholt, so wird die bisherige Note beibehalten. Wird der Unterricht in den Berufskenntnissen während mindestens zwei Semestern wiederholt, so zählen für die Berechnung der Erfahrungsnote nur die neuen Noten.
 
-<sup>4</sup> Wird die Abschlussprüfung ohne erneuten Besuch von überbetrieblichen Kursen wiederholt, so wird die bisherige Note beibehalten. Werden die letzten zwei bewerteten überbetrieblichen Kurse wiederholt, so zählen für die Berechnung der Erfahrungsnote nur die neuen Noten.
+<sup>4</sup> Wird die Abschlussprüfung ohne erneuten Besuch von überbetrieblichen Kursen wiederholt, so wird die bisherige Note beibehalten. Werden die letzten zwei bewerteten überbetrieblichen Kurse wiederholt, so zählen für die Berechnung der Erfahrungsnote nur die neuen Noten.[^20-1]
+
+[^20-1]: Die Berichtigung vom 19. Okt. 2022 betrifft nur den französischen Text ([AS 2022 593](https://fedlex.data.admin.ch/eli/oc/2022/593)).
 
 #### Art. 21
 
