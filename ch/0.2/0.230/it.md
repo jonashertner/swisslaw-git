@@ -3,11 +3,11 @@ sr: "0.230"
 title: "Convenzione del 14 luglio 1967 istitutiva dell'Organizzazione Mondiale della proprietà Intellettuale"
 eli: "https://fedlex.data.admin.ch/eli/cc/1970/602_603_603"
 language: it
-version: 2019-06-26
+version: 2022-10-20
 adopted: 1967-07-14
 in_force: 1970-04-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1970/602_603_603/20190626/it/xml/fedlex-data-admin-ch-eli-cc-1970-602_603_603-20190626-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1970/602_603_603/20190626/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1970/602_603_603/20221020/it/xml/fedlex-data-admin-ch-eli-cc-1970-602_603_603-20221020-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1970/602_603_603/20221020/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,14 +16,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/1970/602_603_603/20190626/it"
 
 RU **1970** 603; FF **1968** II 905
 
-Il testo ufficiale italiano è stato stabilito in virtù dell’articolo 20 (2)*[^t-1]*
+Il testo ufficiale italiano è stato stabilito in virtù dell’articolo 20 (2)
 
-Conchiusa a Stoccolma il 14 luglio 1967 Approvata dall’Assemblea federale il 2 dicembre 1969[^t-2] Istrumento di ratificazione depositato dalla Svizzera il 26 gennaio 1970 Entrata in vigore per la Svizzera il 26 aprile 1970
+Conchiusa a Stoccolma il 14 luglio 1967 Approvata dall’Assemblea federale il 2 dicembre 1969[^t-1] Istrumento di ratificazione depositato dalla Svizzera il 26 gennaio 1970 Entrata in vigore per la Svizzera il 26 aprile 1970
 
-(Stato 26 giugno 2019) (Stato 26 giugno 2019)
+(Stato 20 ottobre 2022)
 
-[^t-1]: Dal testo originale francese.
-[^t-2]: Art. 1 n. 1 del DF del 2 dic. 1969 ([RU 1970 601](https://fedlex.data.admin.ch/eli/oc/1970/600_601_601)).
+[^t-1]: Art. 1 n. 1 del DF del 2 dic. 1969 ([RU 1970 601](https://fedlex.data.admin.ch/eli/oc/1970/600_601_601)).
 
 Le Parti Contraenti,
 
@@ -69,9 +68,9 @@ Ai sensi della presente Convenzione, si deve intendere per:
 - e tutti gli altri diritti inerenti all’attività intellettuale nei campi industriale, scientifico, letterario e artistico.
 
 [^2-1]: [RU **7** 517, **16** 365, **19** 213; CS **11** 929]
-[^2-2]: RS **0**.**232.01/.04**
+[^2-2]: [RS 0.232.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1027)**/.04**
 [^2-3]: [RU **10** 219, **16** 632]
-[^2-4]: [RS 0.231.12](https://fedlex.data.admin.ch/eli/cc/47/462_466_476)**/.15**
+[^2-4]: [RS 0.231.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1014)**/.15**
 
 #### Art. 3
 
@@ -108,7 +107,7 @@ Al fine di conseguire lo scopo definito nell’articolo 3, l’Organizzazione, m
 - i) sia membro dell’Organizzazione delle Nazioni Unite, di una delle Istituzioni specializzate connesse alla medesima o dell’Agenzia internazionale dell’Energia atomica, o partecipi allo Statuto della Corte internazionale di Giustizia[^5-1], oppure
 - ii) sia invitato dall’Assemblea generale a partecipare alla presente Convenzione.
 
-[^5-1]: [RS 0.193.501](https://fedlex.data.admin.ch/eli/cc/1948/1048_1037_1010)
+[^5-1]: [RS 0.193.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/809)
 
 #### Art. 6
 
@@ -148,7 +147,7 @@ Al fine di conseguire lo scopo definito nell’articolo 3, l’Organizzazione, m
 - c) Le riunioni hanno luogo nella sede dell’Organizzazione.
 
 [^6-1]: Nuovo termine giusta la mod. in vigore dal 1° giu. 1984 ([RU 1984 823](https://fedlex.data.admin.ch/eli/oc/1984/823_823_823)[1452](https://fedlex.data.admin.ch/eli/oc/1984/1452_1452_1452)).
-[^6-2]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^6-2]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 [^6-3]: Nuovo termine giusta la mod., in vigore dal 1° giu. 1984 ([RU 1984 823](https://fedlex.data.admin.ch/eli/oc/1984/823_823_823)[1452](https://fedlex.data.admin.ch/eli/oc/1984/1452_1452_1452)).
 
 #### Art. 7
@@ -333,8 +332,8 @@ Classe C 1
 - ii) la loro firma con riserva di ratifica e susseguente deposito dello strumento di ratifica, o
 - iii) il deposito d’uno strumento d’adesione.
 
-[^14-1]: [RS 0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
-[^14-2]: [RS 0.231.14](https://fedlex.data.admin.ch/eli/cc/1970/649_648_649)
+[^14-1]: [RS 0.232.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1030)
+[^14-2]: [RS 0.231.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1016)
 
 #### Art. 15
 
@@ -408,7 +407,7 @@ Il Direttore generale notifica ai Governi di tutti gli Stati membri:
 
 *In fede di che,* i sottoscritti, a tal fine autorizzati, hanno firmato la presente Convenzione. Fatto a Stoccolma, il 14 luglio 1967. (Seguono le firme)
 
-Campo d’applicazione il 26 giugno 2019**[^t-3]**
+Campo d’applicazione il 20 ottobre 2022[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S) Firmato senza riserva di ratificazione (F)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -535,6 +534,7 @@ Campo d’applicazione il 26 giugno 2019**[^t-3]**
 <tr><td>Mozambico</td><td>23 settembre</td><td>1996 A</td><td>23 dicembre</td><td>1996</td></tr>
 <tr><td>Myanmar</td><td>15 febbraio</td><td>2001 A</td><td>15 maggio</td><td>2001</td></tr>
 <tr><td>Namibia</td><td>23 settembre</td><td>1991 A</td><td>23 dicembre</td><td>1991</td></tr>
+<tr><td>Nauru</td><td>11 febbraio</td><td>2020 A</td><td>11 maggio</td><td>2020</td></tr>
 <tr><td>Nepal</td><td>4 novembre</td><td>1996 A</td><td>4 febbraio</td><td>1997</td></tr>
 <tr><td>Nicaragua</td><td>5 febbraio</td><td>1985 A</td><td>5 maggio</td><td>1985</td></tr>
 <tr><td>Niger</td><td>18 febbraio</td><td>1975</td><td>18 maggio</td><td>1975</td></tr>
@@ -606,11 +606,11 @@ Campo d’applicazione il 26 giugno 2019**[^t-3]**
 <tr><td>Vanuatu</td><td>2 dicembre</td><td>2011 A</td><td>2 marzo</td><td>2012</td></tr>
 <tr><td>Venezuela</td><td>23 agosto</td><td>1984 A</td><td>23 novembre</td><td>1984</td></tr>
 <tr><td>Vietnam</td><td>7 aprile</td><td>1981 S</td><td>2 luglio</td><td>1976</td></tr>
-<tr><td>Yemen<sup>a</sup></td><td></td><td></td><td>22 maggio</td><td>1990</td></tr>
+<tr><td>Yemen <sup>a</sup></td><td></td><td></td><td>22 maggio</td><td>1990</td></tr>
 <tr><td>Zambia</td><td>14 febbraio</td><td>1977 A</td><td>14 maggio</td><td>1977</td></tr>
 <tr><td>Zimbabwe</td><td>29 settembre</td><td>1981 A</td><td>29 dicembre</td><td>1981</td></tr>
 <tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. I testi, francese ed inglese, possono essere consultati sul sito Internet dell’Organizzazione mondiale della proprietà intellettuale: www.wipo.int/ &gt; Français &gt; Savoirs &gt; Traités administrés par l’OMPI, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione trattati internazionali, 3003 Berna.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Yemen (Sanaa) aveva aderito alla Conv. il 29 dic. 1978 e Yemen (Aden) il 27 set. 1989. Questi due Stati si sono uniti, il 22 mag. 1990, in un solo Stato denominato: «Yemen».</td></tr>
 </table>
 
-[^t-3]: [RU 1976 1847](https://fedlex.data.admin.ch/eli/oc/1976/1847_1847_1847), [1978 454](https://fedlex.data.admin.ch/eli/oc/1978/454_454_454), [1979 291](https://fedlex.data.admin.ch/eli/oc/1979/291_291_291), [1980 884](https://fedlex.data.admin.ch/eli/oc/1980/884_884_884), [1981 551](https://fedlex.data.admin.ch/eli/oc/1981/551_551_551), [1983 24](https://fedlex.data.admin.ch/eli/oc/1983/24_24_24), [1984 219](https://fedlex.data.admin.ch/eli/oc/1984/219_219_219), [1985 172](https://fedlex.data.admin.ch/eli/oc/1985/172_172_172), [1986 105](https://fedlex.data.admin.ch/eli/oc/1986/105_105_105), [1987 498](https://fedlex.data.admin.ch/eli/oc/1987/498_498_498), [1988 1996](https://fedlex.data.admin.ch/eli/oc/1988/1996_1996_1996), [1990 709](https://fedlex.data.admin.ch/eli/oc/1990/709_709_709), [1991 964](https://fedlex.data.admin.ch/eli/oc/1991/964_964_964), [1995 1084](https://fedlex.data.admin.ch/eli/oc/1995/1084_1084_1084), [2003 4051](https://fedlex.data.admin.ch/eli/oc/2003/593), [2007 1327](https://fedlex.data.admin.ch/eli/oc/2007/215), [2012 1491](https://fedlex.data.admin.ch/eli/oc/2012/203), [2016 769](https://fedlex.data.admin.ch/eli/oc/2016/147), [2019 2179](https://fedlex.data.admin.ch/eli/oc/2019/401). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1970 603](https://fedlex.data.admin.ch/eli/oc/1970/602_603_603); [1976 1847](https://fedlex.data.admin.ch/eli/oc/1976/1847_1847_1847); [1978 454](https://fedlex.data.admin.ch/eli/oc/1978/454_454_454); [1979 291](https://fedlex.data.admin.ch/eli/oc/1979/291_291_291); [1980 884](https://fedlex.data.admin.ch/eli/oc/1980/884_884_884); [1981 551](https://fedlex.data.admin.ch/eli/oc/1981/551_551_551); [1983 24](https://fedlex.data.admin.ch/eli/oc/1983/24_24_24); [1984 219](https://fedlex.data.admin.ch/eli/oc/1984/219_219_219); [1985 172](https://fedlex.data.admin.ch/eli/oc/1985/172_172_172); [1986 105](https://fedlex.data.admin.ch/eli/oc/1986/105_105_105); [1987 498](https://fedlex.data.admin.ch/eli/oc/1987/498_498_498); [1988 1996](https://fedlex.data.admin.ch/eli/oc/1988/1996_1996_1996); [1990 709](https://fedlex.data.admin.ch/eli/oc/1990/709_709_709); [1991 964](https://fedlex.data.admin.ch/eli/oc/1991/964_964_964); [1995 1084](https://fedlex.data.admin.ch/eli/oc/1995/1084_1084_1084); [2003 4051](https://fedlex.data.admin.ch/eli/oc/2003/593); [2007 1327](https://fedlex.data.admin.ch/eli/oc/2007/215); [2012 1491](https://fedlex.data.admin.ch/eli/oc/2012/203); [2016 769](https://fedlex.data.admin.ch/eli/oc/2016/147); [2019 2179](https://fedlex.data.admin.ch/eli/oc/2019/401); [2022 619](https://fedlex.data.admin.ch/eli/oc/2022/619). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [https://www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)

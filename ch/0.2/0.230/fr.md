@@ -3,11 +3,11 @@ sr: "0.230"
 title: "Convention du 14 juillet 1967 instituant l'Organisation Mondiale de la Propriété Intellectuelle"
 eli: "https://fedlex.data.admin.ch/eli/cc/1970/602_603_603"
 language: fr
-version: 2019-06-26
+version: 2022-10-20
 adopted: 1967-07-14
 in_force: 1970-04-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1970/602_603_603/20190626/fr/xml/fedlex-data-admin-ch-eli-cc-1970-602_603_603-20190626-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1970/602_603_603/20190626/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1970/602_603_603/20221020/fr/xml/fedlex-data-admin-ch-eli-cc-1970-602_603_603-20221020-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1970/602_603_603/20221020/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 26 janvier 1970
 
 Entrée en vigueur pour la Suisse le 26 avril 1970
 
-(Etat le 26 juin 2019)
+(État le 20 octobre 2022)
 
 [^t-1]: Art. 1 ch. 1 de l’AF du 2 déc. 1969 ([RO 1970 601](https://fedlex.data.admin.ch/eli/oc/1970/600_601_601))
 
@@ -73,10 +73,10 @@ Au sens de la présente Convention, il faut entendre par:
 
 - et tous les autres droits afférents à l’activité intellectuelle dans les domaines industriel, scientifique, littéraire et artistique.
 
-[^2-1]: [RO **7** 469, **16** 353, **19** 214, RS **11** 913]
-[^2-2]: [RS 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253)**/.04**
+[^2-1]: [RO **7** 469, **16** 353, **19** 214, [RS 11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4723)913]
+[^2-2]: [RS 0.232.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1027)**/.04**
 [^2-3]: [RO **10** 202, **16** 586]
-[^2-4]: [RS 0.231.12](https://fedlex.data.admin.ch/eli/cc/47/462_466_476)**/.15**
+[^2-4]: [RS 0.231.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1014)**/.15**
 
 #### Art. 3
 
@@ -113,7 +113,7 @@ Aux fins d’atteindre le but défini à l’art. 3, l’Organisation, par ses o
 - i) qu’il soit membre de l’Organisation des Nations Unies, de l’une des Institutions spécialisées qui sont reliées à l’Organisation des Nations Unies ou de l’Agence internationale de l’Energie atomique, ou partie au statut de la Cour internationale de Justice[^5-1], ou
 - ii) qu’il soit invité par l’Assemblée générale à devenir partie à la présente Convention.
 
-[^5-1]: [RS 0.193.501](https://fedlex.data.admin.ch/eli/cc/1948/1048_1037_1010)
+[^5-1]: [RS 0.193.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/809)
 
 #### Art. 6
 
@@ -153,7 +153,7 @@ Aux fins d’atteindre le but défini à l’art. 3, l’Organisation, par ses o
 - c) Les réunions se tiennent au siège de l’Organisation.
 
 [^6-1]: Nouvelle teneur, en vigueur depuis le 1<sup>er</sup> juin 1984 ([RO 1984 823](https://fedlex.data.admin.ch/eli/oc/1984/823_823_823)[1452](https://fedlex.data.admin.ch/eli/oc/1984/1452_1452_1452)).
-[^6-2]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^6-2]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 [^6-3]: Nouvelle teneur, en vigueur depuis le 1<sup>er</sup> juin 1984 ([RO 1984 823](https://fedlex.data.admin.ch/eli/oc/1984/823_823_823)[1452](https://fedlex.data.admin.ch/eli/oc/1984/1452_1452_1452)).
 
 #### Art. 7
@@ -342,8 +342,8 @@ soit à l’Acte de Stockholm de la Convention de Berne[^14-2] dans sa totalité
 - ii) leur signature sous réserve de ratification, suivie du dépôt de l’instrument de ratification, ou
 - iii) le dépôt d’un instrument d’adhésion.
 
-[^14-1]: [RS 0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
-[^14-2]: [RS 0.231.14](https://fedlex.data.admin.ch/eli/cc/1970/649_648_649)
+[^14-1]: [RS 0.232.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1030)
+[^14-2]: [RS 0.231.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1016)
 
 #### Art. 15
 
@@ -417,7 +417,7 @@ Le Directeur général notifie aux Gouvernements de tous les États membres:
 
 *En foi de quoi,* les soussignés, dûment autorisés à cet effet, ont signé la présente Convention. Fait à Stockholm, le 14 juillet 1967. (Suivent les signatures)
 
-Champ d’application le 26 juin 2019**[^t-2]**
+Champ d’application le 20 octobre 2022[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S) Signature sans réserve de ratification (Si)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -545,6 +545,7 @@ Champ d’application le 26 juin 2019**[^t-2]**
 <tr><td>Mozambique</td><td>23 septembre</td><td>1996 A</td><td>23 décembre</td><td>1996</td></tr>
 <tr><td>Myanmar</td><td>15 février</td><td>2001 A</td><td>15 mai</td><td>2001</td></tr>
 <tr><td>Namibie</td><td>23 septembre</td><td>1991 A</td><td>23 décembre</td><td>1991</td></tr>
+<tr><td>Nauru</td><td>11 février</td><td>2020 A</td><td>11 mai</td><td>2020</td></tr>
 <tr><td>Népal</td><td>4 novembre</td><td>1996 A</td><td>4 février</td><td>1997</td></tr>
 <tr><td>Nicaragua</td><td>5 février</td><td>1985 A</td><td>5 mai</td><td>1985</td></tr>
 <tr><td>Niger</td><td>18 février</td><td>1975</td><td>18 mai</td><td>1975</td></tr>
@@ -621,4 +622,4 @@ Champ d’application le 26 juin 2019**[^t-2]**
 <tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation mondiale de la propriété intellectuelle: www.wipo.int/ &gt; Français &gt; Savoirs &gt; Traités administrés par l’OMPI, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Yémen (Sanaa) avait adhéré à la conv. le 29 déc. 1978 et Yémen (Aden) le 27 sept. 1989. Ces deux États ont fusionné le 22 mai 1990 en un seul État appelé «Yémen».</td></tr>
 </table>
 
-[^t-2]: [RO 1976 1847](https://fedlex.data.admin.ch/eli/oc/1976/1847_1847_1847), [1978 454](https://fedlex.data.admin.ch/eli/oc/1978/454_454_454),[1979 291](https://fedlex.data.admin.ch/eli/oc/1979/291_291_291), [1980 884](https://fedlex.data.admin.ch/eli/oc/1980/884_884_884), [1981 551](https://fedlex.data.admin.ch/eli/oc/1981/551_551_551), [1983 24](https://fedlex.data.admin.ch/eli/oc/1983/24_24_24), [1984 219](https://fedlex.data.admin.ch/eli/oc/1984/219_219_219), [1985 172](https://fedlex.data.admin.ch/eli/oc/1985/172_172_172), [1986 105](https://fedlex.data.admin.ch/eli/oc/1986/105_105_105), [1987 498](https://fedlex.data.admin.ch/eli/oc/1987/498_498_498),[1988 1996](https://fedlex.data.admin.ch/eli/oc/1988/1996_1996_1996), [1990 709](https://fedlex.data.admin.ch/eli/oc/1990/709_709_709), [1991 964](https://fedlex.data.admin.ch/eli/oc/1991/964_964_964), [1995 1084](https://fedlex.data.admin.ch/eli/oc/1995/1084_1084_1084), [2003 4051](https://fedlex.data.admin.ch/eli/oc/2003/593), [2007 1327](https://fedlex.data.admin.ch/eli/oc/2007/215), [2012 1491](https://fedlex.data.admin.ch/eli/oc/2012/203), [2016 769](https://fedlex.data.admin.ch/eli/oc/2016/147), [2019 2179](https://fedlex.data.admin.ch/eli/oc/2019/401). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 1976 1847](https://fedlex.data.admin.ch/eli/oc/1976/1847_1847_1847); [1978 454](https://fedlex.data.admin.ch/eli/oc/1978/454_454_454);[1979 291](https://fedlex.data.admin.ch/eli/oc/1979/291_291_291); [1980 884](https://fedlex.data.admin.ch/eli/oc/1980/884_884_884); [1981 551](https://fedlex.data.admin.ch/eli/oc/1981/551_551_551); [1983 24](https://fedlex.data.admin.ch/eli/oc/1983/24_24_24); [1984 219](https://fedlex.data.admin.ch/eli/oc/1984/219_219_219); [1985 172](https://fedlex.data.admin.ch/eli/oc/1985/172_172_172); [1986 105](https://fedlex.data.admin.ch/eli/oc/1986/105_105_105); [1987 498](https://fedlex.data.admin.ch/eli/oc/1987/498_498_498);[1988 1996](https://fedlex.data.admin.ch/eli/oc/1988/1996_1996_1996); [1990 709](https://fedlex.data.admin.ch/eli/oc/1990/709_709_709); [1991 964](https://fedlex.data.admin.ch/eli/oc/1991/964_964_964); [1995 1084](https://fedlex.data.admin.ch/eli/oc/1995/1084_1084_1084); [2003 4051](https://fedlex.data.admin.ch/eli/oc/2003/593); [2007 1327](https://fedlex.data.admin.ch/eli/oc/2007/215); [2012 1491](https://fedlex.data.admin.ch/eli/oc/2012/203); [2016 769](https://fedlex.data.admin.ch/eli/oc/2016/147); [2019 2179](https://fedlex.data.admin.ch/eli/oc/2019/401); [2022 619](https://fedlex.data.admin.ch/eli/oc/2022/619). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: https://www.fedlex.admin.ch/fr/treaty

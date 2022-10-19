@@ -3,11 +3,11 @@ sr: "0.230"
 title: Übereinkommen vom 14. Juli 1967 zur Errichtung der Weltorganisation für geistiges Eigentum
 eli: "https://fedlex.data.admin.ch/eli/cc/1970/602_603_603"
 language: de
-version: 2019-06-26
+version: 2022-10-20
 adopted: 1967-07-14
 in_force: 1970-04-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1970/602_603_603/20190626/de/xml/fedlex-data-admin-ch-eli-cc-1970-602_603_603-20190626-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1970/602_603_603/20190626/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1970/602_603_603/20221020/de/xml/fedlex-data-admin-ch-eli-cc-1970-602_603_603-20221020-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1970/602_603_603/20221020/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ Amtlicher deutscher Text gemäss Artikel 20 Absatz 2
 
 Abgeschlossen in Stockholm am 14. Juli 1967 Von der Bundesversammlung genehmigt am 2. Dezember 1969[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 26. Januar 1970 In Kraft getreten für die Schweiz am 26. April 1970
 
-(Stand am 26. Juni 2019)
+(Stand am 20. Oktober 2022)
 
 [^t-1]: Art. 1 Ziff. 1 des BB vom 2. Dez. 1969 ([AS 1970 600](https://fedlex.data.admin.ch/eli/oc/1970/600_601_601))
 
@@ -53,7 +53,10 @@ Im Sinn dieses Übereinkommens bedeutet:
 - v) «Pariser Verband» der durch die Pariser Verbandsübereinkunft errichtete internationale Verband;
 - vi) «Berner Verband» der durch die Berner Übereinkunft errichtete internationale Verband;
 - vii) «Verbände» der Pariser Verband, die im Rahmen dieses Verbandes errichteten besonderen Verbände und Sonderabkommen, der Berner Verband sowie jede andere internationale Vereinbarung zur Förderung des Schutzes des geistigen Eigentums, deren Verwaltung durch die Organisation nach Artikel 4 Ziffer iii) übernommen wird;
-- viii) «geistiges Eigentum» die Rechte betreffend
+- viii)
+
+  «geistiges Eigentum» die Rechte betreffend:
+
   - – die Werke der Literatur, Kunst und Wissenschaft,
   - – die Leistungen der ausübenden Künstler, die Tonträger und Funksendungen,
   - – die Erfindungen auf allen Gebieten der menschlichen Tätigkeit,
@@ -67,13 +70,13 @@ Im Sinn dieses Übereinkommens bedeutet:
 [^2-1]: [AS **7** 517, **16** 358, **19** 212; BS **11** 965]
 [^2-2]: SR **0****. 232.01/.04**
 [^2-3]: [AS **10** 219, **16** 61]
-[^2-4]: [SR 0.231.12](https://fedlex.data.admin.ch/eli/cc/47/462_466_476)**/.15**
+[^2-4]: [SR 0.231.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1014)**/.15**
 
 #### Art. 3
 
 **Zweck der Organisation**
 
-Zweck der Organisation ist es,
+Zweck der Organisation ist es:
 
 - i) den Schutz des geistigen Eigentums durch Zusammenarbeit der Staaten weltweit zu fördern, gegebenenfalls im Zusammenwirken mit jeder anderen internationalen Organisation,
 - ii) die verwaltungsmässige Zusammenarbeit zwischen den Verbänden zu gewährleisten.
@@ -99,25 +102,24 @@ Zur Erreichung des in Artikel 3 bezeichneten Zwecks nimmt die Organisation durch
 
 \1) Mitglied der Organisation kann jeder Staat werden, der Mitglied eines der in Artikel 2 Ziffer vii) bezeichneten Verbände ist.
 
-\2) Mitglied der Organisation kann ferner jeder Staat werden, der nicht Mitglied eines der Verbände ist, sofern er
+\2) Mitglied der Organisation kann ferner jeder Staat werden, der nicht Mitglied eines der Verbände ist, sofern er:
 
-- i) Mitglied der Vereinten Nationen, einer der mit den Vereinten Nationen in Beziehung gebrachten Sonderorganisationen oder der Internationalen Atomenergie-Organisation oder Vertragspartei des Statuts des Internationalen Gerichtshofes[^5-1] ist oder
+- i) Mitglied der Vereinten Nationen, einer der mit den Vereinten Nationen in Beziehung gebrachten Sonderorganisationen oder der Internationalen Atomenergie-Organisation oder Vertragspartei des Statuts des Internationalen Gerichtshofes[^5-1] ist, oder
 - ii) von der Generalversammlung eingeladen wird, Vertragspartei dieses Übereinkommens zu werden.
 
-[^5-1]: [SR 0.193.501](https://fedlex.data.admin.ch/eli/cc/1948/1048_1037_1010)
+[^5-1]: [SR 0.193.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/809)
 
 #### Art. 6
 
 **Generalversammlung**
 
-\2) Die Generalversammlung
+\2) Die Generalversammlung;
 
 \5) Die Mitgliedstaaten dieses Übereinkommens, die nicht Mitglied eines Verbandes sind, werden zu den Sitzungen der Generalversammlung als Beobachter zugelassen.
 
 \6) Die Generalversammlung gibt sich eine Geschäftsordnung.
 
-- [tab] 1)
-- a) Es wird eine Generalversammlung gebildet, bestehend aus den Vertragsstaaten dieses Übereinkommens, die Mitglied mindestens eines der Verbände sind.
+- 1) a) Es wird eine Generalversammlung gebildet, bestehend aus den Vertragsstaaten dieses Übereinkommens, die Mitglied mindestens eines der Verbände sind.
 - b) Die Regierung jedes Staates wird durch einen Delegierten vertreten, der von Stellvertretern, Beratern und Sachverständigen unterstützt werden kann.
 - c) Die Kosten jeder Delegation werden von der Regierung getragen, die sie entsandt hat.
 
@@ -131,8 +133,7 @@ Zur Erreichung des in Artikel 3 bezeichneten Zwecks nimmt die Organisation durch
 - viii) lädt die in Artikel 5 Absatz 2) Ziffer ii) bezeichneten Staaten ein, Vertragspartei dieses Übereinkommens zu werden;
 - ix) bestimmt, welche Nichtmitgliedstaaten der Organisation, welche zwischenstaatlichen und welche internationalen nichtstaatlichen Organisationen zu ihren Sitzungen als Beobachter zugelassen werden;
 - x) nimmt alle anderen im Rahmen dieses Übereinkommens zweckdienlichen Aufgaben wahr.
-- [tab] 3)
-- a) Jeder Staat, gleichgültig ob er Mitglied eines oder mehrerer Verbände ist, verfügt in der Generalversammlung über eine Stimme.
+- 3) a) Jeder Staat, gleichgültig ob er Mitglied eines oder mehrerer Verbände ist, verfügt in der Generalversammlung über eine Stimme.
 - b) Die Hälfte der Mitgliedstaaten der Generalversammlung bildet das Quorum (die für die Beschlussfähigkeit erforderliche Mindestzahl).
 - c) Ungeachtet des Buchstabens b) kann die Generalversammlung Beschlüsse fassen, wenn während einer Tagung die Zahl der vertretenen Staaten zwar weniger als die Hälfte, aber mindestens ein Drittel der Mitgliedstaaten der Generalversammlung beträgt; jedoch werden diese Beschlüsse mit Ausnahme der Beschlüsse über das Verfahren der Generalversammlung nur dann wirksam, wenn die folgenden Bedingungen erfüllt sind: Das Internationale Büro teilt diese Beschlüsse den Mitgliedstaaten der Generalversammlung mit, die nicht vertreten waren, und lädt sie ein, innerhalb einer Frist von drei Monaten vom Zeitpunkt dieser Mitteilung an schriftlich ihre Stimme oder Stimmenthaltung bekanntzugeben. Entspricht nach Ablauf der Frist die Zahl der Staaten, die auf diese Weise ihre Stimme oder Stimmenthaltung bekanntgegeben haben, mindestens der Zahl der Staaten, die für die Erreichung des Quorums während der Tagung gefehlt hatte, so werden die Beschlüsse wirksam, sofern gleichzeitig die erforderliche Mehrheit noch vorhanden ist.
 - d) Vorbehaltlich der Buchstaben e) und f) fasst die Generalversammlung ihre Beschlüsse mit einer Mehrheit von zwei Dritteln der abgegebenen Stimmen.
@@ -141,27 +142,25 @@ Zur Erreichung des in Artikel 3 bezeichneten Zwecks nimmt die Organisation durch
 - g) Für die Ernennung des Generaldirektors (Absatz 2) Ziffer i)) die Billigung der vom Generaldirektor vorgeschlagenen Massnahmen betreffend die Verwaltung der internationalen Vereinbarungen (Absatz 2) Ziffer v)) und für die Verlegung des Sitzes (Artikel 10) ist die vorgesehene Mehrheit nicht nur in der Generalversammlung, sondern auch in der Versammlung des Pariser Verbandes und in der Versammlung des Berner Verbandes erforderlich.
 - h) Stimmenthaltung gilt nicht als Stimmabgabe.
 - i) Ein Delegierter kann nur einen Staat vertreten und nur in dessen Namen abstimmen.
-- [tab] 4)
-- a) Die Generalversammlung tritt nach Einberufung durch den Generaldirektor alle zwei Jahre[^6-3] einmal zu einer ordentlichen Tagung zusammen.
+- 4) a) Die Generalversammlung tritt nach Einberufung durch den Generaldirektor alle zwei Jahre[^6-3] einmal zu einer ordentlichen Tagung zusammen.
 - b) Die Generalversammlung tritt nach Einberufung durch den Generaldirektor zu einer ausserordentlichen Tagung zusammen, wenn der Koordinierungsausschuss oder ein Viertel der Mitgliedstaaten der Generalversammlung es verlangt.
 - c) Die Sitzungen finden am Sitz der Organisation statt.
 
 [^6-1]: Geänderte Fassung, in Kraft getreten am 1. Juni 1984 ([AS 1984 823](https://fedlex.data.admin.ch/eli/oc/1984/823_823_823)[1452](https://fedlex.data.admin.ch/eli/oc/1984/1452_1452_1452)).
-[^6-2]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^6-2]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 [^6-3]: Geänderte Fassung, in Kraft getreten am 1. Juni 1984 ([AS 1984 823](https://fedlex.data.admin.ch/eli/oc/1984/823_823_823)[1452](https://fedlex.data.admin.ch/eli/oc/1984/1452_1452_1452)).
 
 #### Art. 7
 
 **Konferenz**
 
-\2) Die Konferenz
-
 \5) Die Konferenz gibt sich eine Geschäftsordnung.
 
-- [tab] 1)
-- a) Es wird eine Konferenz gebildet, bestehend aus den Vertragsstaaten dieses Übereinkommens, gleichgültig ob sie Mitglied eines der Verbände sind oder nicht.
+- 1) a) Es wird eine Konferenz gebildet, bestehend aus den Vertragsstaaten dieses Übereinkommens, gleichgültig ob sie Mitglied eines der Verbände sind oder nicht.
 - b) Die Regierung jedes Staates wird durch einen Delegierten vertreten, der von Stellvertretern, Beratern und Sachverständigen unterstützt werden kann.
 - c) Die Kosten jeder Delegation werden von der Regierung getragen, die sie entsandt hat.
+
+\2) Die Konferenz:
 
 - i) erörtert Fragen von allgemeinem Interesse auf dem Gebiet des geistigen Eigentums und kann Empfehlungen zu diesen Fragen beschliessen, wobei die Zuständigkeit und die Unabhängigkeit der Verbände zu wahren sind;
 - ii) beschliesst den Zweijahres‑Haushaltsplan[^7-1] der Konferenz;
@@ -169,15 +168,13 @@ Zur Erreichung des in Artikel 3 bezeichneten Zwecks nimmt die Organisation durch
 - iv) beschliesst Änderungen dieses Übereinkommens nach dem in Artikel 17 vorgesehenen Verfahren;
 - v) bestimmt, welche Nichtmitgliedstaaten der Organisation, welche zwischenstaatlichen und welche internationalen nichtstaatlichen Organisationen zu ihren Sitzungen als Beobachter zugelassen werden;
 - vi) nimmt alle anderen im Rahmen dieses Übereinkommens zweckdienlichen Aufgaben wahr.
-- [tab] 3)
-- a) Jeder Mitgliedstaat verfügt in der Konferenz über eine Stimme.
+- 3) a) Jeder Mitgliedstaat verfügt in der Konferenz über eine Stimme.
 - b) Ein Drittel der Mitgliedstaaten bildet das Quorum.
 - c) Vorbehaltlich des Artikels 17 fasst die Konferenz ihre Beschlüsse mit einer Mehrheit von zwei Dritteln der abgegebenen Stimmen.
 - d) Die Höhe der Beiträge der Vertragsstaaten dieses Übereinkommens, die nicht Mitglied eines Verbandes sind, wird durch eine Abstimmung festgesetzt, an der teilzunehmen nur die Delegierten dieser Staaten berechtigt sind.
 - e) Stimmenthaltung gilt nicht als Stimmabgabe.
 - f) Ein Delegierter kann nur einen Staat vertreten und nur in dessen Namen abstimmen.
-- [tab] 4)
-- a) Die Konferenz tritt nach Einberufung durch den Generaldirektor zu derselben Zeit und an demselben Ort wie die Generalversammlung zu einer ordentlichen Tagung zusammen.
+- 4) a) Die Konferenz tritt nach Einberufung durch den Generaldirektor zu derselben Zeit und an demselben Ort wie die Generalversammlung zu einer ordentlichen Tagung zusammen.
 - b) Die Konferenz tritt nach Einberufung durch den Generaldirektor zu einer ausserordentlichen Tagung zusammen, wenn die Mehrheit der Mitgliedstaaten es verlangt.
 
 [^7-1]: Geänderte Fassung, in Kraft getreten am 1. Juni 1984 ([AS 1984 823](https://fedlex.data.admin.ch/eli/oc/1984/823_823_823)[1452](https://fedlex.data.admin.ch/eli/oc/1984/1452_1452_1452)).
@@ -189,17 +186,16 @@ Zur Erreichung des in Artikel 3 bezeichneten Zwecks nimmt die Organisation durch
 
 \2) Wünschen die anderen Verbände, die von der Organisation verwaltet werden, als solche im Koordinierungsausschuss vertreten zu sein, so sind ihre Vertreter aus dem Kreis der Mitgliedstaaten des Koordinierungsausschusses zu bestimmen.
 
-\3) Der Koordinierungsausschuss
-
 \7) Jeder Mitgliedstaat der Organisation, der nicht Mitglied des Koordinierungsausschusses ist, kann bei den Sitzungen dieses Ausschusses durch Beobachter vertreten sein; diese sind berechtigt, an den Beratungen teilzunehmen, haben jedoch kein Stimmrecht.
 
 \8) Der Koordinierungsausschuss gibt sich eine Geschäftsordnung.
 
-- [tab] 1)
-- a) Es wird ein Koordinierungsausschuss gebildet, bestehend aus den Vertragsstaaten dieses Übereinkommens, die Mitglied des Exekutivausschusses des Pariser Verbandes, des Exekutivausschusses des Berner Verbandes oder beider Ausschüsse sind. Besteht jedoch einer dieser Exekutivausschüsse aus mehr als einem Viertel der Mitgliedländer der Versammlung, die ihn gewählt hat, so bestimmt dieser Ausschuss aus dem Kreis seiner Mitglieder die Staaten, die Mitglied des Koordinierungsausschusses sein sollen, in der Weise, dass ihre Zahl dieses Viertel nicht übersteigt; das Land, in dessen Hoheitsgebiet die Organisation ihren Sitz hat, bleibt bei der Berechnung dieses Viertels ausser Betracht.
+- 1) a) Es wird ein Koordinierungsausschuss gebildet, bestehend aus den Vertragsstaaten dieses Übereinkommens, die Mitglied des Exekutivausschusses des Pariser Verbandes, des Exekutivausschusses des Berner Verbandes oder beider Ausschüsse sind. Besteht jedoch einer dieser Exekutivausschüsse aus mehr als einem Viertel der Mitgliedländer der Versammlung, die ihn gewählt hat, so bestimmt dieser Ausschuss aus dem Kreis seiner Mitglieder die Staaten, die Mitglied des Koordinierungsausschusses sein sollen, in der Weise, dass ihre Zahl dieses Viertel nicht übersteigt; das Land, in dessen Hoheitsgebiet die Organisation ihren Sitz hat, bleibt bei der Berechnung dieses Viertels ausser Betracht.
 - b) Die Regierung jedes Mitgliedstaates des Koordinierungsausschusses wird durch einen Delegierten vertreten, der von Stellvertretern, Beratern und Sachverständigen unterstützt werden kann.
 - c) Behandelt der Koordinierungsausschuss Fragen, die unmittelbar das Programm oder den Haushaltsplan der Konferenz und ihre Tagesordnung betreffen, oder behandelt er Vorschläge zur Änderung dieses Übereinkommens, die die Rechte oder Verpflichtungen der Vertragsstaaten dieses Übereinkommens berühren, die nicht Mitglied eines der Verbände sind, so nimmt ein Viertel dieser Staaten an den Sitzungen des Koordinierungsausschusses mit den gleichen Rechten teil, wie sie den Mitgliedern dieses Ausschusses zustehen. Die Konferenz bestimmt bei jeder ordentlichen Tagung die Staaten, die zur Teilnahme an solchen Sitzungen einzuladen sind.
 - d) Die Kosten jeder Delegation werden von der Regierung getragen, die sie entsandt hat.
+
+\3) Der Koordinierungsausschuss:
 
 - i) äussert sich den Organen der Verbände, der Generalversammlung, der Konferenz und dem Generaldirektor gegenüber zu allen Verwaltungs‑ und Finanzfragen und zu allen anderen Fragen, die entweder für zwei oder mehrere Verbände oder für einen oder mehrere Verbände und die Organisation von gemeinsamem Interesse sind, und insbesondere zu Fragen des Haushaltsplans für die gemeinsamen Ausgaben der Verbände;
 - ii) bereitet den Entwurf der Tagesordnung der Generalversammlung vor;
@@ -208,15 +204,12 @@ Zur Erreichung des in Artikel 3 bezeichneten Zwecks nimmt die Organisation durch
 - v) schlägt der Generalversammlung einen Kandidaten für das Amt des Generaldirektors vor, wenn die Amtszeit des Generaldirektors abläuft oder dessen Posten nicht besetzt ist; ernennt die Generalversammlung den vorgeschlagenen Kandidaten nicht, so schlägt der Koordinierungsausschuss einen anderen Kandidaten vor; dieses Verfahren wird wiederholt, bis der zuletzt vorgeschlagene Kandidat von der Generalversammlung ernannt ist;
 - vi) ernennt einen geschäftsführenden Generaldirektor für die Zeit bis zur Amtsübernahme durch den neuen Generaldirektor, wenn der Posten des Generaldirektors zwischen zwei Tagungen der Generalversammlung frei wird;
 - [tab] vii) nimmt alle anderen Aufgaben wahr, die ihm im Rahmen dieses Übereinkommens übertragen werden.
-- [tab] 4)
-- a) Der Koordinierungsausschuss tritt nach Einberufung durch den General-direktor jedes Jahr einmal zu einer ordentlichen Tagung zusammen. Er tritt in der Regel am Sitz der Organisation zusammen.
+- 4) a) Der Koordinierungsausschuss tritt nach Einberufung durch den General-direktor jedes Jahr einmal zu einer ordentlichen Tagung zusammen. Er tritt in der Regel am Sitz der Organisation zusammen.
 - b) Der Koordinierungsausschuss tritt nach Einberufung durch den Generaldirektor zu einer ausserordentlichen Tagung zusammen, entweder auf Initiative des Generaldirektors oder wenn der Vorsitzende oder ein Viertel der Mitglieder des Koordinierungsausschusses es verlangt.
-- [tab] 5)
-- a) Jeder Staat, gleichgültig ob er Mitglied eines oder beider in Absatz 1) Buchstabe a) bezeichneten Exekutivausschüsse ist, verfügt im Koordinierungsausschuss über eine Stimme.
+- 5) a) Jeder Staat, gleichgültig ob er Mitglied eines oder beider in Absatz 1) Buchstabe a) bezeichneten Exekutivausschüsse ist, verfügt im Koordinierungsausschuss über eine Stimme.
 - b) Die Hälfte der Mitglieder des Koordinierungsausschusses bildet das Quorum.
 - c) Ein Delegierter kann nur einen Staat vertreten und nur in dessen Namen abstimmen.
-- [tab] 6)
-- a) Der Koordinierungsausschuss nimmt Stellung und fasst seine Beschlüsse mit einfacher Mehrheit der abgegebenen Stimmen. Stimmenthaltung gilt nicht als Stimmabgabe.
+- 6) a) Der Koordinierungsausschuss nimmt Stellung und fasst seine Beschlüsse mit einfacher Mehrheit der abgegebenen Stimmen. Stimmenthaltung gilt nicht als Stimmabgabe.
 - b) Selbst wenn eine einfache Mehrheit erreicht ist, kann jedes Mitglied des Koordinierungsausschusses unmittelbar nach der Abstimmung verlangen, dass eine besondere Stimmenzählung nach folgendem Verfahren stattfindet: Es werden zwei getrennte Listen angelegt, von denen eine die Namen der Mitgliedstaaten des Exekutivausschusses des Pariser Verbandes und die andere die Namen der Mitgliedstaaten des Exekutivausschusses des Berner Verbandes enthält; die Stimmabgabe jedes Staates wird in jeder Liste, in der er aufgeführt ist, neben seinem Namen eingetragen. Ergibt diese besondere Zählung, dass eine einfache Mehrheit nicht auf jeder dieser Listen erreicht worden ist, so gilt der Vorschlag nicht als angenommen.
 
 [^8-1]: Aufgehoben ([AS 1984 823](https://fedlex.data.admin.ch/eli/oc/1984/823_823_823)).
@@ -239,8 +232,7 @@ Zur Erreichung des in Artikel 3 bezeichneten Zwecks nimmt die Organisation durch
 
 \8) Die Stellung des Generaldirektors und der Mitglieder des Personals hat ausschliesslich internationalen Charakter. Sie dürfen bei der Ausübung ihrer Dienstobliegenheiten Weisungen von einer Regierung oder einer Behörde ausserhalb der Organisation weder einholen noch annehmen. Sie haben sich aller Handlungen zu enthalten, die ihre Stellung als internationale Beamte beeinträchtigen könnten. Jeder Mitgliedstaat verpflichtet sich, den ausschliesslich internationalen Charakter der Stellung des Generaldirektors und der Mitglieder des Personals zu achten und von jedem Versuch abzusehen, sie bei der Ausübung ihrer Dienstobliegenheiten zu beeinflussen.
 
-- [tab] 4)
-- a) Der Generaldirektor ist der höchste Beamte der Organisation.
+- 4) a) Der Generaldirektor ist der höchste Beamte der Organisation.
 - b) Er vertritt die Organisation.
 - c) Er legt der Generalversammlung Rechenschaft ab und befolgt ihre Weisungen in den inneren und äusseren Angelegenheiten der Organisation.
 
@@ -266,43 +258,44 @@ Zur Erreichung des in Artikel 3 bezeichneten Zwecks nimmt die Organisation durch
 
 \10) Die Rechnungsprüfung wird nach Massgabe der Finanzvorschriften von einem oder mehreren Mitgliedstaaten oder von aussenstehenden Rechnungsprüfern vorgenommen, die mit ihrer Zustimmung von der Generalversammlung bestimmt werden.
 
-- [tab] 2)
-- a) Der Haushaltsplan für die gemeinsamen Ausgaben der Verbände enthält Voranschläge für die Ausgaben, die für mehrere Verbände von Interesse sind.
-- b) Dieser Haushaltsplan umfasst folgende Einnahmen;
+- 2) a) Der Haushaltsplan für die gemeinsamen Ausgaben der Verbände enthält Voranschläge für die Ausgaben, die für mehrere Verbände von Interesse sind.
+- b)
+
+  Dieser Haushaltsplan umfasst folgende Einnahmen:
+
   - i) Beiträge der Verbände mit der Massgabe, dass die Höhe des Beitrages jedes Verbandes von seiner Versammlung unter Berücksichtigung des Interesses festgesetzt wird, das der Verband an den gemeinsamen Ausgaben hat;
   - ii) Gebühren und Beträge für Dienstleistungen des Internationalen Büros, die weder in unmittelbarem Zusammenhang mit einem der Verbände stehen noch auf dem Gebiet der juristisch‑technischen Hilfe liegen;
   - iii) Verkaufserlöse und andere Einkünfte aus Veröffentlichungen des Internationalen Büros, die nicht unmittelbar einen der Verbände betreffen;
   - iv) Schenkungen, Vermächtnisse und Zuwendungen an die Organisation, soweit sie nicht in Absatz 3) Buchstabe b) Ziffer iv) bezeichnet sind;
   - v) Mieten, Zinsen und andere verschiedene Einkünfte der Organisation.
 
-- [tab] 3)
-- a) Der Haushaltsplan der Konferenz enthält Ausgabenvoranschläge für die Durchführung der Tagungen der Konferenz und für das Programm der juristisch‑technischen Hilfe.
-- b) Dieser Haushaltsplan umfasst folgende Einnahmen;
+- 3) a) Der Haushaltsplan der Konferenz enthält Ausgabenvoranschläge für die Durchführung der Tagungen der Konferenz und für das Programm der juristisch‑technischen Hilfe.
+- b)
+
+  Dieser Haushaltsplan umfasst folgende Einnahmen:
+
   - i) Beiträge der Vertragsstaaten dieses Übereinkommens, die nicht Mitglied eines der Verbände sind;
   - ii) Beträge, die von den Verbänden für diesen Haushaltsplan zur Ver-fügung gestellt werden, mit der Massgabe, dass die Höhe des von jedem Verband zur Verfügung gestellten Betrages von der Versammlung dieses Verbandes festgesetzt wird und es jedem Verband freisteht, zu diesem Haushaltsplan keine solchen Beträge zu leisten;
   - iii) Beträge, die das Internationale Büro für Dienstleistungen auf dem Gebiet der juristisch‑technischen Hilfe erhält;
   - iv) Schenkungen, Vermächtnisse und Zuwendungen, die der Organisation für die unter Buchstabe a)bezeichneten Zwecke gewährt werden.
 
-- [tab] 4)
-- a)
+- 4) a) Jeder Vertragsstaat dieses Übereinkommens, der nicht Mitglied eines der Verbände ist, wird zur Bestimmung seines Beitrags zum Haushaltsplan der Konferenz in eine Klasse eingestuft und zahlt seine Jahresbeiträge auf der Grundlage einer Zahl von Einheiten, die wie folgt festgesetzt wird:
 
-  Jeder Vertragsstaat dieses Übereinkommens, der nicht Mitglied eines der Verbände ist, wird zur Bestimmung seines Beitrags zum Haushaltsplan der Konferenz in eine Klasse eingestuft und zahlt seine Jahresbeiträge auf der Grundlage einer Zahl von Einheiten, die wie folgt festgesetzt wird:
-
-  - Klasse A 10
-  - Klasse B 3
-  - Klasse C 1
+<table>
+<tr><td></td><td>Klasse A</td><td>10</td></tr>
+<tr><td></td><td>Klasse B</td><td>3</td></tr>
+<tr><td></td><td>Klasse C</td><td>1</td></tr>
+</table>
 
 - b) Jeder dieser Staaten gibt, wenn er eine der in Artikel 14 Absatz 1) bezeichneten Handlungen vornimmt, gleichzeitig die Klasse an, in die er eingestuft zu werden wünscht. Er kann die Klasse wechseln. Wählt er eine niedrigere Klasse, so hat er dies der Konferenz auf einer ihrer ordentlichen Tagungen mitzuteilen. Ein solcher Wechsel wird zu Beginn des auf diese Tagung folgenden Kalenderjahres wirksam.
 - c) Der Jahresbeitrag jedes dieser Staaten besteht aus einem Betrag, der in demselben Verhältnis zu der Summe der Beiträge aller dieser Staaten zum Haushaltsplan der Konferenz steht wie die Zahl der Einheiten der Klasse, in die der Staat eingestuft ist, zur Summe der Einheiten aller dieser Staaten.
 - d) Die Beiträge werden am 1. Januar jedes Jahres fällig.
 - e) Wird der Haushaltsplan nicht vor Beginn eines neuen Rechnungsjahres beschlossen, so wird der Haushaltsplan des Vorjahres nach Massgabe der Finanzvorschriften übernommen.
 
-- [tab] 8)
-- a) Die Organisation hat einen Betriebsmittelfonds, der durch eine einmalige Zahlung der Verbände und jedes Vertragsstaates dieses Übereinkommens, der nicht Mitglied eines der Verbände ist, gebildet wird. Reicht der Fonds nicht mehr aus, so wird er erhöht.
+- 8) a) Die Organisation hat einen Betriebsmittelfonds, der durch eine einmalige Zahlung der Verbände und jedes Vertragsstaates dieses Übereinkommens, der nicht Mitglied eines der Verbände ist, gebildet wird. Reicht der Fonds nicht mehr aus, so wird er erhöht.
 - b) Die Höhe der einmaligen Zahlung jedes Verbandes und gegebenenfalls sein Anteil an jeder Erhöhung werden von der Versammlung dieses Verbandes beschlossen.
 - c) Die Höhe der einmaligen Zahlung jedes Vertragsstaates dieses Übereinkommens, der nicht Mitglied eines der Verbände ist, und sein Anteil an jeder Erhöhung sind proportional zu dem Beitrag dieses Staates für das Jahr, in dem der Fonds gebildet oder die Erhöhung beschlossen wird. Dieses Verhältnis und die Zahlungsbedingungen werden von der Konferenz auf Vorschlag des Generaldirektors und nach Äusserung des Koordinierungsausschusses festgesetzt.
-- [tab] 9)
-- a) Das Abkommen über den Sitz der Organisation, das mit dem Staat geschlossen wird, in dessen Hoheitsgebiet die Organisation ihren Sitz hat, sieht vor, dass dieser Staat Vorschüsse gewährt, wenn der Betriebsmittelfonds nicht ausreicht. Die Höhe dieser Vorschüsse und die Bedingungen, unter denen sie gewährt werden, sind in jedem Fall Gegenstand besonderer Vereinbarungen zwischen diesem Staat und der Organisation. Solange dieser Staat verpflichtet ist, Vorschüsse zu gewähren, hat er *ex officio* einen Sitz im Koordinierungsausschuss.
+- 9) a) Das Abkommen über den Sitz der Organisation, das mit dem Staat geschlossen wird, in dessen Hoheitsgebiet die Organisation ihren Sitz hat, sieht vor, dass dieser Staat Vorschüsse gewährt, wenn der Betriebsmittelfonds nicht ausreicht. Die Höhe dieser Vorschüsse und die Bedingungen, unter denen sie gewährt werden, sind in jedem Fall Gegenstand besonderer Vereinbarungen zwischen diesem Staat und der Organisation. Solange dieser Staat verpflichtet ist, Vorschüsse zu gewähren, hat er *ex officio* einen Sitz im Koordinierungsausschuss.
 - b) Der unter Buchstabe a) bezeichnete Staat und die Organisation sind berechtigt, die Verpflichtung zur Gewährung von Vorschüssen durch schriftliche Notifikation zu kündigen. Die Kündigung wird drei Jahre nach Ablauf des Jahres wirksam, in dem sie notifiziert worden ist.
 
 #### Art. 12
@@ -329,18 +322,18 @@ Zur Erreichung des in Artikel 3 bezeichneten Zwecks nimmt die Organisation durch
 
 **Möglichkeiten, Vertragspartei zu werden**
 
-\1) Die in Artikel 5 bezeichneten Staaten können Vertragspartei dieses Übereinkommens und Mitglied der Organisation werden durch
-
 \2) Ungeachtet aller anderen Bestimmungen dieses Übereinkommens kann ein Vertragsstaat der Pariser Verbandsübereinkunft, der Berner Übereinkunft oder beider Übereinkünfte nur dann Vertragspartei dieses Übereinkommens werden, wenn er durch Ratifikation oder Beitritt gleichzeitig oder vorher Vertragspartei entweder der Stockholmer Fassung der Pariser Verbandsübereinkunft[^14-1] in ihrer Gesamtheit oder mit der in Artikel 20 Absatz 1) Buchstabe b) Ziffer i) dieser Fassung vorgesehenen Einschränkung oder der Stockholmer Fassung der Berner Übereinkunft[^14-2] in ihrer Gesamtheit oder mit der in Artikel 28 Absatz 1) Buchstabe b) Ziffer i) dieser Fassung vorgesehenen Einschränkung wird oder geworden ist.
 
 \3) Die Ratifikations‑ oder Beitrittsurkunden werden beim Generaldirektor hinterlegt.
 
-- i) Unterzeichnung ohne Vorbehalt der Ratifikation oder
-- ii) Unterzeichnung unter Vorbehalt der Ratifikation und nachfolgende Hinterlegung der Ratifikationsurkunde oder
+\1) Die in Artikel 5 bezeichneten Staaten können Vertragspartei dieses Übereinkommens und Mitglied der Organisation werden durch:
+
+- i) Unterzeichnung ohne Vorbehalt der Ratifikation; oder
+- ii) Unterzeichnung unter Vorbehalt der Ratifikation und nachfolgende Hinterlegung der Ratifikationsurkunde; oder
 - iii) Hinterlegung einer Beitrittsurkunde.
 
-[^14-1]: [SR 0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
-[^14-2]: [SR 0.231.14](https://fedlex.data.admin.ch/eli/cc/1970/649_648_649)
+[^14-1]: [SR 0.232.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1030)
+[^14-2]: [SR 0.231.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1016)
 
 #### Art. 15
 
@@ -380,11 +373,11 @@ Vorbehalte zu diesem Übereinkommen sind nicht zulässig.
 
 **Notifikationen**
 
-Der Generaldirektor notifiziert den Regierungen aller Mitgliedstaaten
+Der Generaldirektor notifiziert den Regierungen aller Mitgliedstaaten:
 
-- i) den Zeitpunkt des Inkrafttretens des Übereinkommens,
-- ii) die Unterzeichnungen und die Hinterlegungen von Ratifikations‑ oder Beitrittsurkunden,
-- iii) die Annahmen von Änderungen dieses Übereinkommens und den Zeitpunkt, zu dem diese Änderungen in Kraft treten,
+- i) den Zeitpunkt des Inkrafttretens des Übereinkommens;
+- ii) die Unterzeichnungen und die Hinterlegungen von Ratifikations‑ oder Beitrittsurkunden;
+- iii) die Annahmen von Änderungen dieses Übereinkommens und den Zeitpunkt, zu dem diese Änderungen in Kraft treten;
 - iv) die Kündigungen dieses Übereinkommens.
 
 #### Art. 20
@@ -397,8 +390,7 @@ Der Generaldirektor notifiziert den Regierungen aller Mitgliedstaaten
 
 \4) Der Generaldirektor lässt dieses Übereinkommen beim Sekretariat der Vereinten Nationen registrieren.
 
-- [tab] 1)
-- a) Dieses Übereinkommen wird in einer Urschrift in englischer, französischer, russischer und spanischer Sprache unterzeichnet, wobei jeder Wortlaut gleichermassen verbindlich ist, und bei der schwedischen Regierung hinterlegt.
+- 1) a) Dieses Übereinkommen wird in einer Urschrift in englischer, französischer, russischer und spanischer Sprache unterzeichnet, wobei jeder Wortlaut gleichermassen verbindlich ist, und bei der schwedischen Regierung hinterlegt.
 - b) Dieses Übereinkommen liegt bis zum 13. Januar 1968 in Stockholm zur Unterzeichnung auf.
 
 #### Art. 21
@@ -407,19 +399,17 @@ Der Generaldirektor notifiziert den Regierungen aller Mitgliedstaaten
 
 \1) Bis zur Amtsübernahme durch den ersten Generaldirektor gelten Bezugnahmen in diesem Übereinkommen auf das Internationale Büro oder den Generaldirektor als Bezugnahmen auf die Vereinigten Internationalen Büros zum Schutz des gewerblichen, literarischen und künstlerischen Eigentums (auch Vereinigte Internationale Büros zum Schutz des geistigen Eigentums – BIRPI – genannt) oder ihren Direktor.
 
-- [tab] 2)
-- a) Staaten, die Mitglied eines der Verbände sind, aber noch nicht Vertragspartei dieses Übereinkommens geworden sind, können, wenn sie dies wünschen, während eines Zeitraums von fünf Jahren, gerechnet vom Zeitpunkt des Inkrafttretens dieses Übereinkommens an, die gleichen Rechte ausüben, die sie als Vertragspartei dieses Übereinkommens hätten. Jeder Staat, der diese Rechte auszuüben wünscht, hinterlegt zu diesem Zweck beim Generaldirektor eine schriftliche Notifikation, die im Zeitpunkt ihres Eingangs wirksam wird. Solche Staaten gelten bis zum Ablauf der genannten Frist als Mitglied der Generalversammlung und der Konferenz.
+- 2) a) Staaten, die Mitglied eines der Verbände sind, aber noch nicht Vertragspartei dieses Übereinkommens geworden sind, können, wenn sie dies wünschen, während eines Zeitraums von fünf Jahren, gerechnet vom Zeitpunkt des Inkrafttretens dieses Übereinkommens an, die gleichen Rechte ausüben, die sie als Vertragspartei dieses Übereinkommens hätten. Jeder Staat, der diese Rechte auszuüben wünscht, hinterlegt zu diesem Zweck beim Generaldirektor eine schriftliche Notifikation, die im Zeitpunkt ihres Eingangs wirksam wird. Solche Staaten gelten bis zum Ablauf der genannten Frist als Mitglied der Generalversammlung und der Konferenz.
 - b) Mit Ablauf der fünfjährigen Frist sind diese Staaten in der Generalversammlung, in der Konferenz und im Koordinierungsausschuss nicht mehr stimmberechtigt.
 - c) Werden diese Staaten Vertragspartei dieses Übereinkommens, so sind sie wieder stimmberechtigt.
 - 3) a) Solange nicht alle Mitgliedstaaten des Pariser und des Berner Verbandes Vertragspartei dieses Übereinkommens geworden sind, nehmen das Internationale Büro und der Generaldirektor auch die Aufgaben der Vereinigten Internationalen Büros zum Schutz des gewerblichen, literarischen und künstlerischen Eigentums und ihres Direktors wahr.
 - b) Das bei den genannten Büros im Zeitpunkt des Inkrafttretens dieses Übereinkommens beschäftigte Personal gilt während der unter Buchstabe a) bezeichneten Übergangszeit auch als beim Internationalen Büro beschäftigt.
-- [tab] 4)
-- a) Sobald alle Mitgliedstaaten des Pariser Verbandes Mitglied der Organisation geworden sind, gehen die Rechte und Verpflichtungen sowie das Vermögen des Büros dieses Verbandes auf das Internationale Büro der Organisation über.
+- 4) a) Sobald alle Mitgliedstaaten des Pariser Verbandes Mitglied der Organisation geworden sind, gehen die Rechte und Verpflichtungen sowie das Vermögen des Büros dieses Verbandes auf das Internationale Büro der Organisation über.
 - b) Sobald alle Mitgliedstaaten des Berner Verbandes Mitglied der Organisation geworden sind, gehen die Rechte und Verpflichtungen sowie das Vermögen des Büros dieses Verbandes auf das Internationale Büro der Organisation über.
 
 *Zu Urkund dessen* haben die hierzu gehörig bevollmächtigten Unterzeichneten dieses Übereinkommen unterschrieben. Geschehen zu Stockholm am 14. Juli 1967. (Es folgen die Unterschriften)
 
-Geltungsbereich am 26. Juni 2019**[^t-2]**
+Geltungsbereich am 20. Oktober 2022[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N) Unterzeichnet ohne Ratifikationsvorbehalt (U)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -541,6 +531,7 @@ Geltungsbereich am 26. Juni 2019**[^t-2]**
 <tr><td>Mosambik</td><td>23. September</td><td>1996 B</td><td>23. Dezember</td><td>1996</td></tr>
 <tr><td>Myanmar</td><td>15. Februar</td><td>2001 B</td><td>15. Mai</td><td>2001</td></tr>
 <tr><td>Namibia</td><td>23. September</td><td>1991 B</td><td>23. Dezember</td><td>1991</td></tr>
+<tr><td>Nauru</td><td>11. Februar</td><td>2020 B</td><td>11. Mai</td><td>2020</td></tr>
 <tr><td>Nepal</td><td>4. November</td><td>1996 B</td><td>4. Februar</td><td>1997</td></tr>
 <tr><td>Neuseeland\*</td><td>14. März</td><td>1984 B</td><td>20. Juni</td><td>1984</td></tr>
 <tr><td>[tab] Tokelau</td><td>14. März</td><td>1984</td><td>20. Juni</td><td>1984</td></tr>
@@ -624,4 +615,4 @@ Geltungsbereich am 26. Juni 2019**[^t-2]**
 <tr><td colspan="5"><sup>a</sup> Jemen (Sanaa) ist am 29. Dez. 1978 und Jemen (Aden) am 27. Sept. 1989 dem Übereink. beigetreten. Diese beiden Staaten haben sich am 22. Mai 1990 in einem einzigen Staat «Jemen» vereint.</td></tr>
 </table>
 
-[^t-2]: [AS 1976 1847](https://fedlex.data.admin.ch/eli/oc/1976/1847_1847_1847), [1978 454](https://fedlex.data.admin.ch/eli/oc/1978/454_454_454), [1979 291](https://fedlex.data.admin.ch/eli/oc/1979/291_291_291), [1980 884](https://fedlex.data.admin.ch/eli/oc/1980/884_884_884), [1981 551](https://fedlex.data.admin.ch/eli/oc/1981/551_551_551), [1983 24](https://fedlex.data.admin.ch/eli/oc/1983/24_24_24), [1984 219](https://fedlex.data.admin.ch/eli/oc/1984/219_219_219), [1985 172](https://fedlex.data.admin.ch/eli/oc/1985/172_172_172), [1986 105](https://fedlex.data.admin.ch/eli/oc/1986/105_105_105), [1987 498](https://fedlex.data.admin.ch/eli/oc/1987/498_498_498), [1988 1996](https://fedlex.data.admin.ch/eli/oc/1988/1996_1996_1996), [1990 709](https://fedlex.data.admin.ch/eli/oc/1990/709_709_709), [1991 964](https://fedlex.data.admin.ch/eli/oc/1991/964_964_964), [1995 1084](https://fedlex.data.admin.ch/eli/oc/1995/1084_1084_1084), [2003 4051](https://fedlex.data.admin.ch/eli/oc/2003/593), [2007 1327](https://fedlex.data.admin.ch/eli/oc/2007/215), [2012 1491](https://fedlex.data.admin.ch/eli/oc/2012/203), [2016 769](https://fedlex.data.admin.ch/eli/oc/2016/147), [2019 2179](https://fedlex.data.admin.ch/eli/oc/2019/401). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1970 602](https://fedlex.data.admin.ch/eli/oc/1970/602_603_603); [1976 1847](https://fedlex.data.admin.ch/eli/oc/1976/1847_1847_1847); [1978 454](https://fedlex.data.admin.ch/eli/oc/1978/454_454_454); [1979 291](https://fedlex.data.admin.ch/eli/oc/1979/291_291_291); [1980 884](https://fedlex.data.admin.ch/eli/oc/1980/884_884_884); [1981 551](https://fedlex.data.admin.ch/eli/oc/1981/551_551_551); [1983 24](https://fedlex.data.admin.ch/eli/oc/1983/24_24_24); [1984 219](https://fedlex.data.admin.ch/eli/oc/1984/219_219_219); [1985 172](https://fedlex.data.admin.ch/eli/oc/1985/172_172_172); [1986 105](https://fedlex.data.admin.ch/eli/oc/1986/105_105_105); [1987 498](https://fedlex.data.admin.ch/eli/oc/1987/498_498_498); [1988 1996](https://fedlex.data.admin.ch/eli/oc/1988/1996_1996_1996); [1990 709](https://fedlex.data.admin.ch/eli/oc/1990/709_709_709); [1991 964](https://fedlex.data.admin.ch/eli/oc/1991/964_964_964); [1995 1084](https://fedlex.data.admin.ch/eli/oc/1995/1084_1084_1084); [2003 4051](https://fedlex.data.admin.ch/eli/oc/2003/593); [2007 1327](https://fedlex.data.admin.ch/eli/oc/2007/215); [2012 1491](https://fedlex.data.admin.ch/eli/oc/2012/203); [2016 769](https://fedlex.data.admin.ch/eli/oc/2016/147); [2019 2179](https://fedlex.data.admin.ch/eli/oc/2019/401); [2022 619](https://fedlex.data.admin.ch/eli/oc/2022/619). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht https://www.fedlex.admin.ch/de/treaty
