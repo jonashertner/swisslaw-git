@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica della legge federale concernente l’imposta sul valore aggiunto et modifica dell’ordinanza sul numero d’identificazione delle imprese
 document: Progetto posto in consultazione
 language: it

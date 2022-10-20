@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification de la loi sur la TVA et modification de l’ordonnance sur le numéro d’identification des entreprises
 document: Projet mis en consultation-2
 language: fr

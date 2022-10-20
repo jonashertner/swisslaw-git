@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung des Mehrwertsteuergesetzes und Änderung der Verordnung über die Unternehmens-Identifikationsnummer
 document: Vernehmlassungsvorlage-2
 language: de
