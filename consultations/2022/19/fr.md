@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Loi fédérale sur l’identité électronique et les autres moyens de preuve électroniques (loi sur l’e-ID, LeID)"
 document: Projet mis en consultation
 language: fr

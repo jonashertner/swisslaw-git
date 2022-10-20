@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Legge federale sul mezzo d’identificazione elettronico e altri mezzi di autenticazione elettronici
 document: Progetto posto in consultazione
 language: it
