@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Prescrizioni per i veicoli – Revisione parziale di quattro ordinanze in materia di circolazione stradale
 document: Progetto posto in consultazione-3
 language: it

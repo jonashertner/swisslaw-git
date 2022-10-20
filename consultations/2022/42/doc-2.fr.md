@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Prescriptions applicables aux véhicules – révision partielle de quatre ordonnances relevant du droit de la circulation routière
 document: Projet mis en consultation-2
 language: fr

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Fahrzeugvorschriften – Teilrevision von vier Verordnungen des Strassenverkehrsrechts
 document: Vernehmlassungsvorlage-4
 language: de
