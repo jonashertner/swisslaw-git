@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung der Mehrwertsteuerverordnung (elektronische Verfahren)
 document: Vernehmlassungsvorlage
 language: de

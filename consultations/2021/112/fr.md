@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification de l’ordonnance régissant la taxe sur la valeur ajoutée (procédures électroniques)
 document: Projet mis en consultation
 language: fr
