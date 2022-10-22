@@ -4,20 +4,20 @@ title: Loi fédérale du 17 décembre 1976 sur les droits politiques (LDP)
 short: LDP
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/688_688_688"
 language: fr
-version: 2015-11-01
+version: 2022-10-23
 adopted: 1976-12-17
 in_force: 1978-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/688_688_688/20151101/fr/xml/fedlex-data-admin-ch-eli-cc-1978-688_688_688-20151101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/688_688_688/20151101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/688_688_688/20221023/fr/xml/fedlex-data-admin-ch-eli-cc-1978-688_688_688-20221023-fr-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/688_688_688/20221023/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Loi fédérale sur les droits politiques
 
-(LDP)**[^t-1]**
+(LDP)[^t-1]
 
-du 17 décembre 1976 (Etat le 1<sup>er</sup> novembre 2015)
+du 17 décembre 1976 (État le 23 octobre 2022)
 
 [^t-1]: Abréviation introduite par le ch. I de la LF du 26 sept. 2014 (Election du Conseil national), en vigueur depuis le 1<sup>er</sup> nov. 2015 ([RO 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [FF 2013 8255](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
 
@@ -27,7 +27,7 @@ vu l’art. 39, al. 1, de la Constitution[^ingress-1],[^ingress-2] vu le message
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Nouvelle teneur selon le ch. I de la LF du 26 sept. 2014 (Election du Conseil national), en vigueur depuis le 1<sup>er</sup> nov. 2015 ([RO 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [FF 2013 8255](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
 [^ingress-3]: [FF 1975 I 1337](https://fedlex.data.admin.ch/eli/fga/1975/1_1317_1337_1313)
 
@@ -45,7 +45,7 @@ arrête:
 
 Les interdits exclus du droit de vote au sens de l’art. 136, al. 1, de la Constitution sont les personnes qui, en raison d’une incapacité durable de discernement, sont protégées par une curatelle de portée générale ou par un mandat pour cause d’inaptitude.
 
-[^2-1]: Nouvelle teneur selon le ch. 3 de l’annexe à la LF du 19 déc. 2008 (Protection de l’adulte, droit des personnes et droit de la filiation), en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6635](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^2-1]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 19 déc. 2008 (Protection de l’adulte, droit des personnes et droit de la filiation), en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6635](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 
 #### Art. 3
 
@@ -77,7 +77,7 @@ Les interdits exclus du droit de vote au sens de l’art. 136, al. 1, de la Cons
 
 <sup>3</sup> L’électeur doit exercer son droit en déposant personnellement son bulletin dans l’urne ou en votant par correspondance.[^5-2] L’expérimentation du vote électronique est régie par l’art. 8*a*.[^5-3]
 
-<sup>4</sup> et <sup>5</sup> …[^5-4]
+<sup>4 et <sup>5</sup></sup> …[^5-4]
 
 <sup>6</sup> Le bulletin de vote ne peut être déposé dans l’urne par un tiers que si le droit cantonal l’admet pour les élections et les votations cantonales. L’électeur qui est dans l’incapacité d’écrire peut faire remplir son bulletin de vote ou son bulletin électoral selon ses instructions par un électeur de son choix.[^5-5]
 
@@ -249,7 +249,7 @@ Les bulletins de vote sont nuls:
 
 <sup>4</sup> Si la modification du droit ne souffre aucun retard et que le résultat de la votation est incontestable, le Conseil fédéral ou l’Assemblée fédérale peut, avant que ne soit édicté l’arrêté de validation, faire entrer provisoirement en vigueur une loi ou un arrêté fédéral portant approbation d’un accord international ou encore maintenir en vigueur ou abroger provisoirement une loi déclarée urgente.[^15-2]
 
-[^15-1]: Nouvelle teneur selon le ch. 2 de l’annexe à la L du 17 juin 2005 sur le TF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^15-1]: Nouvelle teneur selon l’annexe ch. 2 de la L du 17 juin 2005 sur le TF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^15-2]: Introduit par le ch. I de la LF du 21 juin 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 6051](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
 
 ## Titre 3 Election du Conseil national
@@ -265,7 +265,7 @@ Les bulletins de vote sont nuls:
 <sup>2</sup> Se fondant sur l’effectif de la population validé conformément à l’art. 13 de la loi du 22 juin 2007 sur le recensement de la population, le Conseil fédéral fixe le nombre de sièges attribués à chaque canton lors des prochaines élections pour le renouvellement intégral du Conseil national.
 
 [^16-1]: Nouvelle teneur selon l’art. 17 ch. 1 de la LF du 22 juin 2007 sur le recensement, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6743](https://fedlex.data.admin.ch/eli/oc/2007/869); [FF 2007 55](https://fedlex.data.admin.ch/eli/fga/2007/17)).
-[^16-2]: [RS 431.112](https://fedlex.data.admin.ch/eli/cc/2007/869)
+[^16-2]: [RS 431.112](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6959)
 
 #### Art. 17
 
@@ -291,7 +291,7 @@ Les 200 sièges du Conseil national sont répartis entre les cantons selon le mo
 
 [^18-1]
 
-[^18-1]: Abrogé par le ch. II 1 de l’annexe à la L du 13 déc. 2002 sur le Parlement, avec effet au 3 déc. 2007 ([RO 2003 3543](https://fedlex.data.admin.ch/eli/oc/2003/510); [FF 2001 3298](https://fedlex.data.admin.ch/eli/fga/2001/639)[5181](https://fedlex.data.admin.ch/eli/fga/2001/853)).
+[^18-1]: Abrogé par l’annexe ch. II 1 de la L du 13 déc. 2002 sur le Parlement, avec effet au 3 déc. 2007 ([RO 2003 3543](https://fedlex.data.admin.ch/eli/oc/2003/510); [FF 2001 3298](https://fedlex.data.admin.ch/eli/fga/2001/639)[5181](https://fedlex.data.admin.ch/eli/fga/2001/853)).
 
 #### Art. 19
 
@@ -315,7 +315,7 @@ Le tirage au sort a lieu dans le canton sur l’ordre du gouvernement cantonal, 
 
 [^20a-1]: Introduit par le ch. I de la LF du 18 mars 1994 ([RO 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 405](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)). Abrogé par le ch. II 4 de la LF du 20 mars 2008 relative à la mise à jour formelle du droit fédéral, avec effet au 1<sup>er</sup> août 2008 ([RO 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5789](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
-### Chapitre 2 Election selon le système proportionnel****
+### Chapitre 2 Election selon le système proportionnel
 
 [^tit3-chap2-1]
 
@@ -509,7 +509,7 @@ Si une candidature multiple est découverte après la mise au point des listes, 
 [^33-2]: Introduit par le ch. I de la LF du 18 mars 1994, en vigueur depuis le 15 nov. 1994 ([RO 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 405](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 [^33-3]: Nouvelle teneur selon le ch. I de la LF du 26 sept. 2014 (Election du Conseil national), en vigueur depuis le 1<sup>er</sup> nov. 2015 ([RO 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [FF 2013 8255](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
 
-### Section 2 Scrutin et établissement des résultats****
+### Section 2 Scrutin et établissement des résultats
 
 [^tit3-chap2-sec2-1]
 
@@ -549,15 +549,15 @@ Les voix recueillies par des candidats décédés depuis la mise au point des li
 
 <sup>2</sup> Lorsque plusieurs listes régionales de même dénomination sont déposées dans un canton, les suffrages complémentaires qui figurent sur un bulletin qui ne porte pas la désignation de la région, sont attribués à la liste de la région où le bulletin a été déposé.[^37-1]
 
-<sup>2bis</sup> Dans les autres cas d’application de l’art. 31, al. 1<sup>bis</sup>, les suffrages complémentaires sont attribués à la liste dont la désignation est mentionnée sur le bulletin. Les suffrages complémentaires provenant des bulletins électoraux dont la dénomination est insuffisante sont attribués à la liste que le groupement a désignée comme liste mère.[^37-2] [^37-3]
+<sup>2bis</sup> Dans les autres cas d’application de l’art. 31, al. 1<sup>bis</sup>, les suffrages complémentaires sont attribués à la liste dont la désignation est mentionnée sur le bulletin.[^37-2] Les suffrages complémentaires provenant des bulletins électoraux dont la dénomination est insuffisante sont attribués à la liste que le groupement a désignée comme liste mère.[^37-3]
 
 <sup>3</sup> Les noms qui ne figurent sur aucune liste de l’arrondissement sont biffés. …[^37-4]
 
 <sup>4</sup> Lorsque la dénomination de la liste ne concorde pas avec le numéro d’ordre qui lui est attribué, seule la dénomination est valable.
 
 [^37-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 1994, en vigueur depuis le 15 nov. 1994 ([RO 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 405](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^37-2]: Phrase introduite par le ch. I de la LF du 21 juin 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 6051](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
-[^37-3]: Introduit par le ch. I de la LF du 18 mars 1994, en vigueur depuis le 15 nov. 1994 ([RO 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 405](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^37-2]: Introduite par le ch. I de la LF du 18 mars 1994, en vigueur depuis le 15 nov. 1994 ([RO 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 405](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^37-3]: Phrase introduite par le ch. I de la LF du 21 juin 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 6051](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
 [^37-4]: Phrases abrogées par le ch. II 4 de la LF du 20 mars 2008 relative à la mise à jour formelle du droit fédéral, avec effet au 1<sup>er</sup> août 2008 ([RO 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5789](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
 #### Art. 38
@@ -763,7 +763,7 @@ Sont nuls:
 - a. les suffrages accordés à des personnes dont le nom ne figure pas sur le bulletin imprimé;
 - b. les bulletins électoraux où sont cochés plus d’un nom.
 
-[^50-1]: Abrogé par le ch. I de la LF du 18 mars 1994 ([RO 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 405](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)). Nouvelle teneur selon le ch. I 1 de la LF du 23 mars 2007 sur la révision de la législation sur les droits politiques, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4635](https://fedlex.data.admin.ch/eli/oc/2007/649); [FF 2006 5001](https://fedlex.data.admin.ch/eli/fga/2006/639)).
+[^50-1]: Nouvelle teneur selon le ch. I 1 de la LF du 23 mars 2007 sur la révision de la législation sur les droits politiques, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4635](https://fedlex.data.admin.ch/eli/oc/2007/649); [FF 2006 5001](https://fedlex.data.admin.ch/eli/fga/2006/639)).
 
 #### Art. 51
 
@@ -783,14 +783,14 @@ Les art. 47 à 49 sont applicables aux élections de remplacement.
 
 <sup>2</sup> Le canton publie dans la feuille officielle et dans les huit jours qui suivent le jour de l’élection les résultats obtenus par chacun des candidats et, le cas échéant, par chacune des listes; il mentionne les voies de recours.[^52-2]
 
-<sup>3</sup> Les résultats des élections pour le renouvellement intégral, des élections complémentaires et des élections de remplacement sont publiés dans la Feuille fédérale. Ils sont aussi publiés, dans leur intégralité, dans la version électronique de la Feuille fédérale.[^52-3] [^52-4]
+<sup>3</sup> Les résultats des élections pour le renouvellement intégral, des élections complémentaires et des élections de remplacement sont publiés dans la Feuille fédérale.[^52-3] Ils sont aussi publiés, dans leur intégralité, dans la version électronique de la Feuille fédérale.[^52-4]
 
 <sup>4</sup> A l’expiration du délai de recours (art. 77, al. 2), le canton transmet immédiatement son procès-verbal à la Chancellerie fédérale. Il transfère les bulletins électoraux à l’endroit indiqué par la Chancellerie fédérale dans les dix jours qui suivent l’expiration du délai de recours.[^52-5]
 
 [^52-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 1994, en vigueur depuis le 15 nov. 1994 ([RO 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 405](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 [^52-2]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 6051](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
-[^52-3]: Phrase introduite par l’art. 21 ch. 1 de la L du 18 juin 2004 sur les publications officielles, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 4929](https://fedlex.data.admin.ch/eli/oc/2004/745); [FF 2003 7047](https://fedlex.data.admin.ch/eli/fga/2003/1274)).
-[^52-4]: Introduit par l’art. 17 ch. 1 de la L du 21 mars 1986 sur les publications officielles, en vigueur depuis le 15 mai 1987 ([RO 1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600); [FF 1983 III 441](https://fedlex.data.admin.ch/eli/fga/1983/3_429_441_333)).
+[^52-3]: Introduite par l’art. 17 ch. 1 de la L du 21 mars 1986 sur les publications officielles, en vigueur depuis le 15 mai 1987 ([RO 1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600); [FF 1983 III 441](https://fedlex.data.admin.ch/eli/fga/1983/3_429_441_333)).
+[^52-4]: Phrase introduite par l’art. 21 ch. 1 de la L du 18 juin 2004 sur les publications officielles, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 4929](https://fedlex.data.admin.ch/eli/oc/2004/745); [FF 2003 7047](https://fedlex.data.admin.ch/eli/fga/2003/1274)).
 [^52-5]: Introduit par le ch. I de la LF du 18 mars 1994, en vigueur depuis le 15 nov. 1994 ([RO 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 405](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 53
@@ -845,7 +845,7 @@ La législature du Conseil national prend fin au moment où se constitue le nouv
 
 [^57-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 1994, en vigueur depuis le 15 nov. 1994 ([RO 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 405](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
-## Titre 4**** Référendum
+## Titre 4 Référendum
 
 [^tit4-1]
 
@@ -861,7 +861,7 @@ Les actes soumis au référendum obligatoire sont publiés après leur adoption 
 
 ### Chapitre 2 Référendum facultatif
 
-### Section 1 Dispositions générales****
+### Section 1 Dispositions générales
 
 [^tit4-chap2-sec1-1]
 
@@ -897,7 +897,7 @@ Lorsque la demande de référendum a abouti, le Conseil fédéral ordonne l’or
 
 [^59c-1]: Introduit par le ch. I de la LF du 21 juin 1996, en vigueur depuis le 1<sup>er</sup> avr. 1997 ([RO 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 405](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
-### Section 2 Référendum populaire****
+### Section 2 Référendum populaire
 
 [^tit4-chap2-sec2-1]
 
@@ -920,7 +920,7 @@ Les listes (sur feuilles, pages ou cartes) au moyen desquelles les auteurs d’u
 [^60-1]: Nouvelle teneur selon le ch. I de la LF du 21 juin 1996, en vigueur depuis le 1<sup>er</sup> avr. 1997 ([RO 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 405](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 [^60-2]: Nouvelle teneur selon le ch. I de la LF du 21 juin 1996, en vigueur depuis le 1<sup>er</sup> avr. 1997 ([RO 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 405](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 [^60-3]: Nouvelle teneur selon le ch. I de la LF du 21 juin 1996, en vigueur depuis le 1<sup>er</sup> avr. 1997 ([RO 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 405](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^60-4]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^60-4]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^60-5]: Introduit par le ch. I de la LF du 21 juin 1996, en vigueur depuis le 1<sup>er</sup> avr. 1997 ([RO 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 405](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 60a
@@ -1009,7 +1009,7 @@ Sont nulles:
 [^66-3]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 6051](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
 [^66-4]: Nouvelle teneur selon le ch. II 4 de la LF du 20 mars 2008 relative à la mise à jour formelle du droit fédéral, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5789](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
-### Section 3 Référendum demandé par les cantons****
+### Section 3 Référendum demandé par les cantons
 
 [^tit4-chap2-sec3-1]
 
@@ -1055,7 +1055,7 @@ Sont nulles les demandes de référendum:
 [^67b-1]: Introduit par le ch. I de la LF du 21 juin 1996, en vigueur depuis le 1<sup>er</sup> avr. 1997 ([RO 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 405](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 [^67b-2]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 6051](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
 
-## Titre 5**** Initiative populaire
+## Titre 5 Initiative populaire
 
 [^tit5-1]
 
@@ -1070,7 +1070,7 @@ Sont nulles les demandes de référendum:
 Les listes (sur feuilles, pages ou cartes) au moyen desquelles les auteurs d’une initiative populaire recueillent des signatures doivent contenir les indications suivantes:[^68-1]
 
 - a. le canton et la commune politique où le signataire a le droit de vote;
-- [tab] b.[^68-2]le titre et le texte de l’initiative, ainsi que la date de sa publication dans la *Feuille fédérale;*
+- b.[^68-2] le titre et le texte de l’initiative, ainsi que la date de sa publication dans la *Feuille fédérale;*
 - c.[^68-3] une clause de retrait conforme aux exigences prévues à l’art. 73;
 - d.[^68-4] la mention selon laquelle quiconque falsifie le résultat d’une récolte de signatures effectuée en vue d’une initiative populaire (art. 282 CP[^68-5]) ou se rend coupable de corruption active ou passive relativement à une récolte de signatures (art. 281 CP) est punissable;
 - e.[^68-6] le nom et l’adresse des auteurs de l’initiative, qui doivent avoir le droit de vote et être au moins sept, mais pas plus de vingt-sept (comité d’initiative).
@@ -1081,7 +1081,7 @@ Les listes (sur feuilles, pages ou cartes) au moyen desquelles les auteurs d’u
 [^68-2]: Nouvelle teneur selon le ch. I de la LF du 21 juin 1996, en vigueur depuis le 1<sup>er</sup> avr. 1997 ([RO 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 405](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 [^68-3]: Nouvelle teneur selon le ch. I de la LF du 25 sept. 2009 (Retrait conditionnel d’une initiative populaire), en vigueur depuis le1<sup>er</sup> fév. 2010 ([RO 2010 271](https://fedlex.data.admin.ch/eli/oc/2010/35); [FF 2009 3143](https://fedlex.data.admin.ch/eli/fga/2009/699)[3161](https://fedlex.data.admin.ch/eli/fga/2009/701)).
 [^68-4]: Nouvelle teneur selon le ch. I de la LF du 21 juin 1996, en vigueur depuis le 1<sup>er</sup> avr. 1997 ([RO 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 405](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^68-5]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^68-5]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^68-6]: Nouvelle teneur selon le ch. I de la LF du 21 juin 1996, en vigueur depuis le 1<sup>er</sup> avr. 1997 ([RO 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 405](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 [^68-7]: Introduit par le ch. I de la LF du 21 juin 1996, en vigueur depuis le 1<sup>er</sup> avr. 1997 ([RO 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 405](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
@@ -1207,7 +1207,7 @@ Le retrait conditionnel prend effet:
 
 [^75a-1]: Introduit par le ch. I de la LF du 25 sept. 2009 (Retrait conditionnel d’une initiative populaire), en vigueur depuis le 1<sup>er</sup> fév. 2010 ([RO 2010 271](https://fedlex.data.admin.ch/eli/oc/2010/35); [FF 2009 3143](https://fedlex.data.admin.ch/eli/fga/2009/699)[3161](https://fedlex.data.admin.ch/eli/fga/2009/701)).
 [^75a-2]: Introduit par le ch. I de la LF du 26 sept. 2014 (Election du Conseil National), en vigueur depuis le 1<sup>er</sup> mars 2015 ([RO 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [FF 2013 8255](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
-[^75a-3]: [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
+[^75a-3]: [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)
 
 #### Art. 76
 
@@ -1228,7 +1228,7 @@ Lorsque l’Assemblée fédérale élabore un contre-projet, trois questions ser
 [^76-1]: Nouvelle teneur selon le ch. I de la LF du 8 oct. 1999, en vigueur depuis le 1<sup>er</sup> mars 2000 ([RO 2000 411](https://fedlex.data.admin.ch/eli/oc/2000/90); [FF 1999 7145](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784)).
 [^76-2]: Introduit par le ch. I de la LF du 25 sept. 2009 (Retrait conditionnel d’une initiative populaire), en vigueur depuis le 1<sup>er</sup> fév. 2010 ([RO 2010 271](https://fedlex.data.admin.ch/eli/oc/2010/35); [FF 2009 3143](https://fedlex.data.admin.ch/eli/fga/2009/699)[3161](https://fedlex.data.admin.ch/eli/fga/2009/701)).
 
-## Titre 5*a***** Registre des partis politiques
+## Titre 5*a* Registre des partis politiques
 
 [^tit5a-1]
 
@@ -1253,7 +1253,163 @@ Tout parti politique qui désire se faire inscrire dans le registre des partis c
 
 <sup>3</sup> La Chancellerie fédérale tient le registre des données fournies par les partis politiques. Ce registre est public. L’Assemblée fédérale fixe les modalités dans une ordonnance.
 
-[^76a-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^76a-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+
+## Titre 5*b* Transparence du financement de la vie politique
+
+[^tit5b-1]
+
+[^tit5b-1]: Introduit par le ch. I de la LF du 18 juin 2021 (Transparence du financement de la vie politique), en vigueur depuis le 23 oct. 2022 ([RO 2022 466](https://fedlex.data.admin.ch/eli/oc/2022/466); [FF 2019 7467](https://fedlex.data.admin.ch/eli/fga/2019/2692), [7765](https://fedlex.data.admin.ch/eli/fga/2019/2804)).
+
+#### Art. 76b
+
+**Obligation de déclarer le financement des partis politiques**
+
+<sup>1</sup> Les partis politiques représentés à l’Assemblée fédérale doivent déclarer leur financement.
+
+<sup>2</sup>
+
+Ils s’acquittent de ce devoir en fournissant les indications suivantes à l’autorité compétente:
+
+- a. leurs recettes;
+- b. tout avantage économique leur ayant été octroyé volontairement (libéralité monétaire et non-monétaire) dont la valeur dépasse 15 000 francs par auteur de la libéralité et par année;
+- c. les contributions des élus et autres titulaires de mandats.
+
+<sup>3</sup> Les députés de l’Assemblée fédérale qui ne sont membres d’aucun parti déclarent les libéralités monétaires et non-monétaires conformément à l’al. 2, let. b.
+
+#### Art. 76c
+
+**Obligation de déclarer le financement de campagnes de votation et de campagnes électorales**
+
+<sup>1</sup> Les personnes physiques ou morales ainsi que les sociétés de personnes qui font campagne en vue d’une élection au Conseil national ou d’une votation fédérale et qui engagent plus de 50 000 francs pour ce faire doivent déclarer le financement de la campagne.
+
+<sup>2</sup>
+
+Elles s’acquittent de ce devoir en fournissant les indications suivantes à l’autorité compétente:
+
+- a. les recettes budgétisées et le décompte final des recettes;
+- b. toute libéralité monétaire et non-monétaire qui a été octroyée dans les 12 mois précédant la votation ou l’élection et dont la valeur excède 15 000 francs par auteur de la libéralité et par campagne.
+
+<sup>3</sup> Les personnes physiques ou morales ainsi que les sociétés de personnes qui ont fait campagne en vue de l’élection d’un membre du Conseil des États et ont engagé plus de 50 000 francs à cette fin doivent fournir le décompte final des recettes et déclarer les libéralités monétaires et non-monétaires visées à l’al. 2, let. b.
+
+<sup>4</sup> Si plusieurs personnes ou sociétés de personnes font une campagne commune, elles doivent soumettre conjointement les recettes budgétisées et le décompte final des recettes; en cas d’élection au Conseil des États, elles ne soumettent que le décompte final conjoint des recettes. Les libéralités monétaires et non-monétaires qui leur sont versées ainsi que leurs charges doivent être additionnées. Le Conseil fédéral règle les modalités.
+
+#### Art. 76d
+
+**Délais et modalités de l’obligation de déclarer**
+
+<sup>1</sup>
+
+Les informations doivent être fournies:
+
+- a. chaque année, pour celles visées à l’art. 76*b*;
+- b. en cas de votation ou d’élection au Conseil national, 45 jours avant l’élection ou la votation, s’agissant des recettes budgétisées, et 60 jours après l’élection ou la votation, s’agissant du décompte final des recettes ainsi que des libéralités monétaires et non-monétaires visées à l’art. 76*c*, al. 2, let. b;
+- c. en cas d’élection au Conseil des États, 30 jours après l’entrée en fonction, s’agissant du décompte final des recettes ainsi que des libéralités monétaires et non-monétaires visées à l’art. 76*c*, al. 2, let. b.
+
+<sup>2</sup> Entre la fin du délai de déclaration concernant les recettes budgétisées et l’élection ou la votation , la communication des libéralités monétaires et non-monétaires visées à l’art. 76*c*, al. 2, let. b, à l’autorité compétente doit avoir lieu immédiatement.
+
+<sup>3</sup> Dans les recettes budgétisées et dans le décompte final des recettes, les libéralités monétaires et non-monétaires doivent être présentées séparément.
+
+<sup>4</sup> La déclaration des libéralités monétaires et non-monétaires d’une valeur de plus de 15 000 francs précise les nom, prénom et commune de domicile ou la raison sociale et le siège de l’auteur de la libéralité, ainsi que la valeur de celle-ci et la date à laquelle elle a été octroyée.
+
+<sup>5</sup> Les informations visées à l’al. 4 doivent être accompagnées des pièces justificatives correspondantes.
+
+<sup>6</sup> Le Conseil fédéral détermine la forme de la communication.
+
+#### Art. 76e
+
+**Contrôle**
+
+<sup>1</sup> L’autorité compétente contrôle si les acteurs politiques ont communiqué toutes les informations et tous les documents visés aux art. 76*b* et 76*c* dans les délais. Des contrôles par échantillonnage sont effectués pour vérifier l’exactitude des informations et des documents.
+
+<sup>2</sup> Si les informations et les documents ne sont pas communiqués dans les délais ou s’ils ne sont pas exacts, l’autorité compétente somme les acteurs politiques concernés de les livrer en leur impartissant un délai supplémentaire.
+
+<sup>3</sup> Si les informations et les documents ne sont pas communiqués dans le délai supplémentaire imparti, l’autorité compétente est tenue de dénoncer à l’autorité de poursuite pénale compétente les infractions dont elle a eu connaissance à l’occasion de son contrôle. Lorsqu’elle impartit un délai supplémentaire au sens de l’al. 2, elle avertit les acteurs politiques concernés qu’ils seront dénoncés à défaut de livraison dans ce délai.
+
+#### Art. 76f
+
+**Publication**
+
+<sup>1</sup> Après avoir effectué le contrôle prévu à l’art. 76*e*, l’autorité compétente publie les informations et les documents sur sa page Internet.
+
+<sup>2</sup>
+
+La publication intervient:
+
+- a. chaque année, pour les informations visées à l’art. 76*d*, al. 1, let. a;
+- b. au plus tard 15 jours après leur réception par l’autorité compétente, pour les informations visées à l’art. 76*d*, al. 1, let. b et c.
+
+<sup>3</sup> Les informations relatives aux libéralités monétaires et non-monétaires devant être communiquées immédiatement en vertu de l’art. 76*d*, al. 2, sont publiées au fur et à mesure de leur réception.
+
+#### Art. 76g
+
+**Autorité compétente**
+
+Le Conseil fédéral désigne l’autorité chargée de procéder au contrôle et à la publication.
+
+#### Art. 76h
+
+**Libéralités anonymes et libéralités provenant de l’étranger**
+
+<sup>1</sup>
+
+Les acteurs politiques visés aux art. 76*b* et 76*c* ne peuvent pas accepter:
+
+- a. les libéralités monétaires et non-monétaires anonymes;
+- b. les libéralités monétaires et non-monétaires provenant de l’étranger.
+
+<sup>2</sup> Les libéralités monétaires et non-monétaires versées par des Suisses de l’étranger ne sont pas considérées comme provenant de l’étranger.
+
+<sup>3</sup>
+
+Celui qui reçoit une libéralité monétaire et non-monétaire anonyme doit:
+
+- a. réunir les informations requises en vertu de l’art. 76*d*, al. 4, ou
+- b. la restituer si possible; si une restitution n’est pas possible ou ne peut pas être raisonnablement exigée, la libéralité doit être communiquée à l’autorité compétente et transmise à la Confédération.
+
+<sup>4</sup> Celui qui reçoit une libéralité monétaire et non-monétaire de l’étranger doit la restituer à son auteur. Si une restitution n’est pas possible ou ne peut pas être raisonnablement exigée, la libéralité doit être communiquée à l’autorité compétente et transmise à la Confédération.
+
+<sup>5</sup> En dérogation aux al. 1 à 4, les acteurs politiques visés à l’art. 76*c*, al. 3, doivent déclarer avec le décompte final cité à l’art. 76*d*, al. 1, let. c, les montants des libéralités anonymes et des libéralités provenant de l’étranger, monétaires et non monétaires, qui leur ont été versées en prévision de la campagne en faveur d’un membre du Conseil des États.
+
+#### Art. 76i
+
+**Traitement de données personnelles et échange d’informations**
+
+<sup>1</sup>
+
+Pour l’accomplissement de ses tâches légales, en particulier celles relatives au contrôle et à la publication, l’autorité compétente est habilitée à traiter les données personnelles concernant:
+
+- a. l’identité et la situation financière des acteurs politiques visés aux art. 76*b* et 76*c*;
+- b. l’identité de l’auteur des libéralités monétaires et non-monétaires octroyées aux acteurs politiques visés aux art. 76*b* et 76*c*;
+- c. l’identité des élus et autres titulaires de mandats qui versent une contribution aux partis politiques visés à l’art. 76*b*.
+
+<sup>2</sup>
+
+L’autorité compétente peut transmettre aux autorités suivantes les informations concernant les acteurs politiques, notamment les données personnelles, qui sont nécessaires à l’accomplissement de leurs tâches légales:
+
+- a. les autorités cantonales et communales compétentes pour la transparence du financement de la vie politique selon le droit cantonal;
+- b. les autorités de poursuite pénale compétentes dans le cas où elle dénonce une infraction au sens de l’art. 76*e*, al. 3.
+
+<sup>3</sup> à la demande de l’autorité compétente au sens de l’art. 76*g*, les autorités cantonales et communales compétentes pour la transparence du financement de la vie politique selon le droit cantonal lui communiquent les informations, notamment les données personnelles, qui sont nécessaires à l’exécution du contrôle et à la publication.
+
+#### Art 76j
+
+**Dispositions pénales**
+
+<sup>1</sup>
+
+Est puni d’une amende de 40 000 francs au plus quiconque, intentionnellement:
+
+- a. viole l’une des obligations de déclarer prévues aux art. 76*b* à 76*d*;
+- b. viole l’une des obligations visées à l’art. 76*h*, al. 3 à 5.
+
+<sup>2</sup> La poursuite pénale incombe aux cantons.
+
+#### Art. 76k
+
+**Réserve en faveur du droit cantonal**
+
+Les cantons peuvent prévoir des dispositions plus sévères en matière de transparence du financement des acteurs politiques cantonaux dans l’exercice des droits politiques au niveau fédéral.
 
 ## Titre 6 Voies de recours
 
@@ -1298,7 +1454,7 @@ Le recours au gouvernement cantonal est recevable contre:
 <sup>3</sup> Le gouvernement cantonal notifie sa décision sur recours et les autres mesures prises conformément aux art. 34 à 38 et 61, al. 2, de la loi fédérale du 20 décembre 1968 sur la procédure administrative[^79-2] et les communique aussi à la Chancellerie fédérale.[^79-3]
 
 [^79-1]: Introduit par le ch. I de la LF du 18 mars 1994, en vigueur depuis le 15 nov. 1994 ([RO 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 405](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^79-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^79-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 [^79-3]: Nouvelle teneur selon le ch. I de la LF du 18 mars 1994, en vigueur depuis le 15 nov. 1994 ([RO 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 405](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 80
@@ -1311,15 +1467,15 @@ Le recours au gouvernement cantonal est recevable contre:
 
 <sup>3</sup> Les membres du comité d’initiative peuvent également former recours devant le Tribunal fédéral contre les décisions de la Chancellerie fédérale relatives à la validité formelle de la liste de signatures (art. 69, al. 1) ou au titre de l’initiative (art. 69, al. 2).
 
-[^80-1]: Nouvelle teneur selon le ch. 2 de l’annexe à la L du 17 juin 2005 sur le TF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^80-2]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^80-1]: Nouvelle teneur selon l’annexe ch. 2 de la L du 17 juin 2005 sur le TF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^80-2]: [RS 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 [^80-3]: Nouvelle teneur selon le ch. I 1 de la LF du 23 mars 2007 sur la révision de la législation sur les droits politiques, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4635](https://fedlex.data.admin.ch/eli/oc/2007/649); [FF 2006 5001](https://fedlex.data.admin.ch/eli/fga/2006/639)).
 
 #### Art. 81 et 82
 
 [^8182-1]
 
-[^8182-1]: Abrogés par le ch. 2 de l’annexe à la L du 17 juin 2005 sur le TF, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^8182-1]: Abrogés par l’annexe ch. 2 de la L du 17 juin 2005 sur le TF, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ## Titre 7 Dispositions communes
 
@@ -1329,7 +1485,7 @@ Le recours au gouvernement cantonal est recevable contre:
 
 Le droit cantonal s’applique dans la mesure où la présente loi et les prescriptions d’exécution de la Confédération ne contiennent pas d’autres dispositions. La loi fédérale d’organisation judiciaire du 16 décembre 1943[^83-1] est réservée.
 
-[^83-1]: [RS **3** 521; [RO 1948 473](https://fedlex.data.admin.ch/eli/oc/1948/485_473_421)art. 86, [1955 893](https://fedlex.data.admin.ch/eli/oc/1955/871_893_899)art. 118, [1959 931](https://fedlex.data.admin.ch/eli/oc/1959/902_931_921), [1969 757](https://fedlex.data.admin.ch/eli/oc/1969/737_757_755)art. 80 let. b [787](https://fedlex.data.admin.ch/eli/oc/1969/767_787_784), [1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237)ch. II 3 [862](https://fedlex.data.admin.ch/eli/oc/1977/862_862_862)art. 52 ch. 2 [1323](https://fedlex.data.admin.ch/eli/oc/1977/1323_1323_1323)ch. III, [1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)art. 88 ch. 3 [1450](https://fedlex.data.admin.ch/eli/oc/1978/1450_1450_1450), [1979 42](https://fedlex.data.admin.ch/eli/oc/1979/42_42_42), [1980 31](https://fedlex.data.admin.ch/eli/oc/1980/31_31_31)ch. IV [1718](https://fedlex.data.admin.ch/eli/oc/1980/1718_1718_1718)art. 52 ch. 2 [1819](https://fedlex.data.admin.ch/eli/oc/1980/1819_1819_1819)art. 12 al. 1, [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)annexe ch. 13, [1983 1886](https://fedlex.data.admin.ch/eli/oc/1983/1886_1886_1886)art. 36 ch. 1, [1986 926](https://fedlex.data.admin.ch/eli/oc/1986/926_926_926)art. 59 ch. 1, [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226)ch. II 1 [1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665)ch. II, [1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)annexe ch. II 1, [1989 504](https://fedlex.data.admin.ch/eli/oc/1989/504_504_504)art. 33 let. a, [1990 938](https://fedlex.data.admin.ch/eli/oc/1990/938_938_938)ch. III al. 5, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288), [1993 274](https://fedlex.data.admin.ch/eli/oc/1993/274_274_274)art. 75 ch. 1 [1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945)annexe ch. 1, [1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227)annexe ch. 3 [4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)annexe ch. 4, [1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508)art. 36 [750](https://fedlex.data.admin.ch/eli/oc/1996/750_750_750)art. 17 [1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445)annexe ch. 2 [1498](https://fedlex.data.admin.ch/eli/oc/1996/1498_1498_1498)annexe ch. 2, [1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155)annexe ch. 6 [2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)app. ch. 5, [1998 2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)annexe ch. 3 [3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)annexe ch. 2, [1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149)annexe ch. 1 [3071](https://fedlex.data.admin.ch/eli/oc/1999/472)ch. I 2, [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)annexe ch. 6 [416](https://fedlex.data.admin.ch/eli/oc/2000/92)ch. I 2 [505](https://fedlex.data.admin.ch/eli/oc/2000/95)ch. I 1 [2355](https://fedlex.data.admin.ch/eli/oc/2000/374)annexe ch. 1 [2719](https://fedlex.data.admin.ch/eli/oc/2000/453), [2001 114](https://fedlex.data.admin.ch/eli/oc/2001/21)ch. I 4 [894](https://fedlex.data.admin.ch/eli/oc/2001/123)art. 40 ch. 3 [1029](https://fedlex.data.admin.ch/eli/oc/2001/150)art. 11 al. 2, [2002 863](https://fedlex.data.admin.ch/eli/oc/2002/153)art. 35 [1904](https://fedlex.data.admin.ch/eli/oc/2002/283)art. 36 ch. 1 [2767](https://fedlex.data.admin.ch/eli/oc/2002/408)ch. II [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)annexe ch. 1, [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)annexe ch. 7 [3543](https://fedlex.data.admin.ch/eli/oc/2003/510)annexe ch. II 4 let. a [4557](https://fedlex.data.admin.ch/eli/oc/2003/674)annexe ch. II 1, [2004 1985](https://fedlex.data.admin.ch/eli/oc/2004/221)annexe ch. II 1 [4719](https://fedlex.data.admin.ch/eli/oc/2004/723)annexe ch. II 1, [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)annexe ch. 7. [RO 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)art. 131 al. 1]. Voir actuellement la L du 17 juin 2005 sur le TF ([RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)).
+[^83-1]: [[RS 3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6193)521; [RO 1948 473](https://fedlex.data.admin.ch/eli/oc/1948/485_473_421)art. 86, [1955 893](https://fedlex.data.admin.ch/eli/oc/1955/871_893_899)art. 118, [1959 931](https://fedlex.data.admin.ch/eli/oc/1959/902_931_921), [1969 757](https://fedlex.data.admin.ch/eli/oc/1969/737_757_755)art. 80 let. b [787](https://fedlex.data.admin.ch/eli/oc/1969/767_787_784), [1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237)ch. II 3 [862](https://fedlex.data.admin.ch/eli/oc/1977/862_862_862)art. 52 ch. 2 [1323](https://fedlex.data.admin.ch/eli/oc/1977/1323_1323_1323)ch. III, [1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)art. 88 ch. 3 [1450](https://fedlex.data.admin.ch/eli/oc/1978/1450_1450_1450), [1979 42](https://fedlex.data.admin.ch/eli/oc/1979/42_42_42), [1980 31](https://fedlex.data.admin.ch/eli/oc/1980/31_31_31)ch. IV [1718](https://fedlex.data.admin.ch/eli/oc/1980/1718_1718_1718)art. 52 ch. 2 [1819](https://fedlex.data.admin.ch/eli/oc/1980/1819_1819_1819)art. 12 al. 1, [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)annexe ch. 13, [1983 1886](https://fedlex.data.admin.ch/eli/oc/1983/1886_1886_1886)art. 36 ch. 1, [1986 926](https://fedlex.data.admin.ch/eli/oc/1986/926_926_926)art. 59 ch. 1, [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226)ch. II 1 [1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665)ch. II, [1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)annexe ch. II 1, [1989 504](https://fedlex.data.admin.ch/eli/oc/1989/504_504_504)art. 33 let. a, [1990 938](https://fedlex.data.admin.ch/eli/oc/1990/938_938_938)ch. III al. 5, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288), [1993 274](https://fedlex.data.admin.ch/eli/oc/1993/274_274_274)art. 75 ch. 1 [1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945)annexe ch. 1, [1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227)annexe ch. 3 [4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)annexe ch. 4, [1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508)art. 36 [750](https://fedlex.data.admin.ch/eli/oc/1996/750_750_750)art. 17 [1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445)annexe ch. 2 [1498](https://fedlex.data.admin.ch/eli/oc/1996/1498_1498_1498)annexe ch. 2, [1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155)annexe ch. 6 [2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)app. ch. 5, [1998 2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)annexe ch. 3 [3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)annexe ch. 2, [1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149)annexe ch. 1 [3071](https://fedlex.data.admin.ch/eli/oc/1999/472)ch. I 2, [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)annexe ch. 6 [416](https://fedlex.data.admin.ch/eli/oc/2000/92)ch. I 2 [505](https://fedlex.data.admin.ch/eli/oc/2000/95)ch. I 1 [2355](https://fedlex.data.admin.ch/eli/oc/2000/374)annexe ch. 1 [2719](https://fedlex.data.admin.ch/eli/oc/2000/453), [2001 114](https://fedlex.data.admin.ch/eli/oc/2001/21)ch. I 4 [894](https://fedlex.data.admin.ch/eli/oc/2001/123)art. 40 ch. 3 [1029](https://fedlex.data.admin.ch/eli/oc/2001/150)art. 11 al. 2, [2002 863](https://fedlex.data.admin.ch/eli/oc/2002/153)art. 35 [1904](https://fedlex.data.admin.ch/eli/oc/2002/283)art. 36 ch. 1 [2767](https://fedlex.data.admin.ch/eli/oc/2002/408)ch. II [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)annexe ch. 1, [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)annexe ch. 7 [3543](https://fedlex.data.admin.ch/eli/oc/2003/510)annexe ch. II 4 let. a [4557](https://fedlex.data.admin.ch/eli/oc/2003/674)annexe ch. II 1, [2004 1985](https://fedlex.data.admin.ch/eli/oc/2004/221)annexe ch. II 1 [4719](https://fedlex.data.admin.ch/eli/oc/2004/723)annexe ch. II 1, [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)annexe ch. 7. [RO 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)art. 131 al. 1]. Voir actuellement la L du 17 juin 2005 sur le TF ([RS 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)).
 
 #### Art. 84
 
@@ -1346,7 +1502,7 @@ Le droit cantonal s’applique dans la mesure où la présente loi et les prescr
 
 [^85-1]
 
-[^85-1]: Abrogé par le ch. 2 de l’annexe à la L du 17 juin 2005 sur le TF, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^85-1]: Abrogé par l’annexe ch. 2 de la L du 17 juin 2005 sur le TF, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 86
 
@@ -1356,8 +1512,8 @@ Le droit cantonal s’applique dans la mesure où la présente loi et les prescr
 
 <sup>2</sup> Pour la procédure devant le Tribunal fédéral, les frais sont régis par la loi du 17 juin 2005 sur le Tribunal fédéral[^86-2].
 
-[^86-1]: Nouvelle teneur selon le ch. 2 de l’annexe à la L du 17 juin 2005 sur le TF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^86-2]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^86-1]: Nouvelle teneur selon l’annexe ch. 2 de la L du 17 juin 2005 sur le TF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^86-2]: [RS 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 
 #### Art. 87
 
@@ -1404,12 +1560,12 @@ Sont abrogées:
 - e. la loi fédérale du 8 mars 1963[^89-5] répartissant entre les cantons les députés au Conseil national;
 - f. la loi fédérale du 14 février 1919[^89-6] concernant l’élection du Conseil national.
 
-[^89-1]: [RS **1** 147; [RO 1952 69](https://fedlex.data.admin.ch/eli/oc/1952/69_69_69), [1966 875](https://fedlex.data.admin.ch/eli/oc/1966/849_875_867)art. 9, [1971 1361](https://fedlex.data.admin.ch/eli/oc/1971/1365_1361_1361)]
-[^89-2]: [RS **1** 162; [RO 1962 827](https://fedlex.data.admin.ch/eli/oc/1962/789_827_848)art. 11 al. 3]
+[^89-1]: [[RS 1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4713)147; [RO 1952 69](https://fedlex.data.admin.ch/eli/oc/1952/69_69_69), [1966 875](https://fedlex.data.admin.ch/eli/oc/1966/849_875_867)art. 9, [1971 1361](https://fedlex.data.admin.ch/eli/oc/1971/1365_1361_1361)]
+[^89-2]: [[RS 1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4713)162; [RO 1962 827](https://fedlex.data.admin.ch/eli/oc/1962/789_827_848)art. 11 al. 3]
 [^89-3]: [[RO 1962 827](https://fedlex.data.admin.ch/eli/oc/1962/789_827_848)]
 [^89-4]: [[RO 1966 875](https://fedlex.data.admin.ch/eli/oc/1966/849_875_867)]
 [^89-5]: [[RO 1963 415](https://fedlex.data.admin.ch/eli/oc/1963/419_415_435)]
-[^89-6]: [RS **1** 168; [RO 1975 601](https://fedlex.data.admin.ch/eli/oc/1975/601_601_601)]
+[^89-6]: [[RS 1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4713)168; [RO 1975 601](https://fedlex.data.admin.ch/eli/oc/1975/601_601_601)]
 
 ### Chapitre 2 Dispositions transitoires, exécution et entrée en vigueur
 

@@ -4,20 +4,20 @@ title: Bundesgesetz vom 17. Dezember 1976 über die politischen Rechte (BPR)
 short: BPR
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/688_688_688"
 language: de
-version: 2015-11-01
+version: 2022-10-23
 adopted: 1976-12-17
 in_force: 1978-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/688_688_688/20151101/de/xml/fedlex-data-admin-ch-eli-cc-1978-688_688_688-20151101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/688_688_688/20151101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/688_688_688/20221023/de/xml/fedlex-data-admin-ch-eli-cc-1978-688_688_688-20221023-de-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/688_688_688/20221023/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesgesetz über die politischen Rechte
 
-(BPR)**[^t-1]**
+(BPR)[^t-1]
 
-vom 17. Dezember 1976 (Stand am 1. November 2015)
+vom 17. Dezember 1976 (Stand am 23. Oktober 2022)
 
 [^t-1]: Eingefügt durch Ziff. I des BG vom 26. Sept. 2014 (Nationalratswahlen), in Kraft seit 1. Nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
 
@@ -27,7 +27,7 @@ gestützt auf Artikel 39 Absatz 1 der Bundesverfassung[^ingress-1],[^ingress-2] 
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Fassung gemäss Ziff. I des BG vom 26. Sept. 2014 (Nationalratswahlen), in Kraft seit 1. Nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
 [^ingress-3]: [BBl 1975 I 1317](https://fedlex.data.admin.ch/eli/fga/1975/1_1317_1337_1313)
 
@@ -77,7 +77,7 @@ Als vom Stimmrecht ausgeschlossene Entmündigte im Sinne von Artikel 136 Absatz 
 
 <sup>3</sup> Der Stimmberechtigte kann seine Stimme persönlich an der Urne oder brieflich abgeben.[^5-2] Die Stimmabgabe bei Versuchen zur elektronischen Stimmabgabe richtet sich nach Artikel 8*a*.[^5-3]
 
-<sup>4</sup> und <sup>5</sup> …[^5-4]
+<sup>4 und <sup>5</sup></sup> …[^5-4]
 
 <sup>6</sup> Die Stimme darf durch Drittpersonen zur Urne gebracht werden, soweit das kantonale Recht dies für die kantonalen Abstimmungen und Wahlen zulässt. Schreib-unfähige Stimmberechtigte können den Stimm- oder Wahlzettel durch einen Stimmberechtigten ihrer Wahl nach ihren Anweisungen ausfüllen lassen.[^5-5]
 
@@ -266,7 +266,7 @@ Stimmzettel sind ungültig, wenn sie:
 <sup>2</sup> Gestützt auf die verbindliche Feststellung der Wohnbevölkerungszahlen nach Artikel 13 des Volkszählungsgesetzes vom 22. Juni 2007 stellt der Bundesrat verbindlich fest, wie viele Sitze den einzelnen Kantonen in der folgenden Gesamterneuerungswahl des Nationalrats zukommen.
 
 [^16-1]: Fassung gemäss Art. 17 Ziff. 1 des Volkszählungsgesetzes vom 22. Juni 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6743](https://fedlex.data.admin.ch/eli/oc/2007/869); [BBl 2007 53](https://fedlex.data.admin.ch/eli/fga/2007/17)).
-[^16-2]: [SR 431.112](https://fedlex.data.admin.ch/eli/cc/2007/869)
+[^16-2]: [SR 431.112](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6959)
 
 #### Art. 17
 
@@ -830,7 +830,7 @@ Die Amtsdauer des Nationalrates endet mit der Konstituierung des neu gewählten 
 
 [^57-1]: Fassung gemäss Ziff. I des BG vom 18. März 1994, in Kraft seit 15. Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
-## 4. Titel:**** Referendum
+## 4. Titel: Referendum
 
 [^tit4-1]
 
@@ -846,7 +846,7 @@ Erlasse, die dem obligatorischen Referendum unterstehen, werden nach ihrer Annah
 
 ### 2. Kapitel: Fakultatives Referendum
 
-### 1. Abschnitt: Allgemeines****
+### 1. Abschnitt: Allgemeines
 
 [^tit4-chap2-sec1-1]
 
@@ -882,7 +882,7 @@ Ist das Referendum zustandegekommen, so ordnet der Bundesrat die Volksabstimmung
 
 [^59c-1]: Eingefügt durch Ziff. I des BG vom 21. Juni 1996, in Kraft seit 1. April 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
-### 2. Abschnitt: Volksreferendum****
+### 2. Abschnitt: Volksreferendum
 
 [^tit4-chap2-sec2-1]
 
@@ -904,7 +904,7 @@ Wird ein Referendumsbegehren zur Unterzeichnung aufgelegt, so hat die Unterschri
 
 [^60-1]: Fassung gemäss Ziff. I des BG vom 21. Juni 1996, in Kraft seit 1. April 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 [^60-2]: Fassung gemäss Ziff. I des BG vom 21. Juni 1996, in Kraft seit 1. April 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^60-3]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^60-3]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^60-4]: Eingefügt durch Ziff. I des BG vom 21. Juni 1996, in Kraft seit 1. April 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 60a
@@ -993,7 +993,7 @@ Ungültig sind:
 [^66-3]: Fassung gemäss Ziff. I des BG vom 21. Juni 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
 [^66-4]: Fassung gemäss Ziff. II 4 des BG vom 20. März 2008 zur formellen Bereinigung des Bundesrechts, in Kraft seit 1. Aug. 2008 ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
-### 3. Abschnitt: Kantonsreferendum****
+### 3. Abschnitt: Kantonsreferendum
 
 [^tit4-chap2-sec3-1]
 
@@ -1039,7 +1039,7 @@ Ungültig sind Referendumsbegehren, die:
 [^67b-1]: Eingefügt durch Ziff. I des BG vom 21. Juni 1996, in Kraft seit 1. April 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 [^67b-2]: Fassung gemäss Ziff. I des BG vom 21. Juni 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
 
-## 5. Titel:**** Volksinitiative
+## 5. Titel: Volksinitiative
 
 [^tit5-1]
 
@@ -1065,7 +1065,7 @@ Wird eine Volksinitiative zur Unterzeichnung aufgelegt, so hat die Unterschrifte
 [^68-2]: Fassung gemäss Ziff. I des BG vom 21. Juni 1996, in Kraft seit 1. April 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 [^68-3]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2009 (Bedingter Rückzug einer Volksinitiative), in Kraft seit 1. Febr. 2010 ([AS 2010 271](https://fedlex.data.admin.ch/eli/oc/2010/35); [BBl 2009 3591](https://fedlex.data.admin.ch/eli/fga/2009/699)[3609](https://fedlex.data.admin.ch/eli/fga/2009/701)).
 [^68-4]: Fassung gemäss Ziff. I des BG vom 21. Juni 1996, in Kraft seit 1. April 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^68-5]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^68-5]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^68-6]: Fassung gemäss Ziff. I des BG vom 21. Juni 1996, in Kraft seit 1. April 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 [^68-7]: Eingefügt durch Ziff. I des BG vom 21. Juni 1996, in Kraft seit 1. April 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
@@ -1192,7 +1192,7 @@ Der bedingte Rückzug wird wirksam, sobald:
 
 [^75a-1]: Eingefügt durch Ziff. I des BG vom 25. Sept. 2009 (Bedingter Rückzug einer Volksinitiative), in Kraft seit 1. Febr. 2010 ([AS 2010 271](https://fedlex.data.admin.ch/eli/oc/2010/35); [BBl 2009 3591](https://fedlex.data.admin.ch/eli/fga/2009/699)[3609](https://fedlex.data.admin.ch/eli/fga/2009/701)).
 [^75a-2]: Eingefügt durch Ziff. I des BG vom 26. Sept. 2014 (Nationalratswahlen), in Kraft seit 1. März 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
-[^75a-3]: [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
+[^75a-3]: [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)
 
 #### Art. 76
 
@@ -1213,7 +1213,7 @@ Beschliesst die Bundesversammlung einen Gegenentwurf, so werden den Stimmberecht
 [^76-1]: Fassung gemäss Ziff. I der V vom 8. Okt. 1999, in Kraft seit 1. März 2000 ([AS 2000 411](https://fedlex.data.admin.ch/eli/oc/2000/90); [BBl 1999 7922](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784)).
 [^76-2]: Eingefügt durch Ziff. I des BG vom 25. Sept. 2009 (Bedingter Rückzug einer Volksinitiative), in Kraft seit 1. Febr. 2010 ([AS 2010 271](https://fedlex.data.admin.ch/eli/oc/2010/35); [BBl 2009 3591](https://fedlex.data.admin.ch/eli/fga/2009/699)[3609](https://fedlex.data.admin.ch/eli/fga/2009/701)).
 
-## 5*a*. Titel:**** Parteienregister
+## 5*a*. Titel: Parteienregister
 
 [^tit5a-1]
 
@@ -1238,7 +1238,163 @@ Zur Eintragung ins Parteienregister reicht der Verein der Bundeskanzlei folgende
 
 <sup>3</sup> Die Bundeskanzlei erstellt ein Register über die Angaben der Parteien. Dieses Register ist öffentlich. Einzelheiten regelt die Bundesversammlung in einer Verordnung.
 
-[^76a-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^76a-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+
+## 5*b*. Titel: Transparenz bei der Politikfinanzierung
+
+[^tit5b-1]
+
+[^tit5b-1]: Eingefügt durch Ziff. I des BG vom 18. Juni 2021 (Transparenz bei der Politikfinanzierung), in Kraft seit 23. Okt. 2022 ([AS 2022 466](https://fedlex.data.admin.ch/eli/oc/2022/466); [BBl 2019 7875](https://fedlex.data.admin.ch/eli/fga/2019/2692), [8207](https://fedlex.data.admin.ch/eli/fga/2019/2804)).
+
+#### Art. 76b
+
+**Offenlegungspflicht der politischen Parteien**
+
+<sup>1</sup> Die in der Bundesversammlung vertretenen politischen Parteien haben ihre Finanzierung offenzulegen.
+
+<sup>2</sup>
+
+Sie erfüllen diese Pflicht, indem sie der zuständigen Stelle Folgendes offenlegen:
+
+- a. ihre Einnahmen;
+- b. alle wirtschaftlichen Vorteile, die ihnen freiwillig gewährt werden (monetäre und nichtmonetäre Zuwendungen) und den Wert von 15 000 Franken pro Zuwenderin beziehungsweise Zuwender und Jahr überschreiten;
+- c. die Beiträge der einzelnen Mandatsträgerinnen und Mandatsträger.
+
+<sup>3</sup> Parteilose Mitglieder der Bundesversammlung legen monetäre und nichtmonetäre Zuwendungen gemäss Absatz 2 Buchstabe b offen.
+
+#### Art. 76c
+
+**Offenlegungspflicht bei Wahl- und Abstimmungskampagnen**
+
+<sup>1</sup> Natürliche und juristische Personen sowie Personengesellschaften, die im Hinblick auf eine Wahl in den Nationalrat oder auf eine eidgenössische Abstimmung eine Kampagne führen, haben deren Finanzierung offenzulegen, wenn sie mehr als 50 000 Franken aufwenden.
+
+<sup>2</sup>
+
+Sie erfüllen diese Pflicht, indem sie der zuständigen Stelle Folgendes offenlegen:
+
+- a. die budgetierten Einnahmen und die Schlussrechnung über die Einnahmen;
+- b. monetäre und nichtmonetäre Zuwendungen, die in den letzten 12 Monaten vor der Abstimmung oder Wahl erfolgten und den Wert von 15 000 Franken pro Zuwenderin beziehungsweise Zuwender und Kampagne überschreiten.
+
+<sup>3</sup> Natürliche und juristische Personen sowie Personengesellschaften, die für die Wahl eines Mitglieds des Ständerates eine Kampagne geführt und dafür mehr als 50 000 Franken aufgewendet haben, müssen die Schlussrechnung über die Einnahmen sowie die monetären und nichtmonetären Zuwendungen im Sinne von Absatz 2 Buchstabe b offenlegen.
+
+<sup>4</sup> Führen mehrere Personen oder Personengesellschaften eine gemeinsame Kampagne, so müssen sie die budgetierten Einnahmen und die Schlussrechnung über die Einnahmen beziehungsweise bei Wahlen in den Ständerat nur die Schlussrechnung über die Einnahmen gemeinsam einreichen. Die ihnen gewährten monetären und nichtmonetären Zuwendungen und ihre Aufwendungen sind zusammenzurechnen. Der Bundesrat regelt die Einzelheiten.
+
+#### Art. 76d
+
+**Fristen und Modalitäten der Offenlegungspflicht**
+
+<sup>1</sup>
+
+Einzureichen sind:
+
+- a. die Angaben nach Artikel 76*b* jährlich;
+- b. bei Abstimmungen und Wahlen in den Nationalrat die budgetierten Einnahmen 45 Tage vor und die Schlussrechnung über die Einnahmen sowie monetäre und nicht monetäre Zuwendungen im Sinne von Artikel 76*c* Absatz 2 Buchstabe b 60 Tage nach der Abstimmung oder Wahl;
+- c. bei Wahlen in den Ständerat die Schlussrechnung über die Einnahmen sowie monetäre und nichtmonetäre Zuwendungen im Sinne von Artikel 76*c* Absatz 2 Buchstabe b 30 Tage nach Amtsantritt.
+
+<sup>2</sup> Zwischen dem Ende der Einreichungsfrist für die budgetierten Einnahmen und der Wahl oder Abstimmung sind monetäre und nichtmonetäre Zuwendungen nach Artikel 76*c* Absatz 2 Buchstabe b der zuständigen Stelle unverzüglich zu melden.
+
+<sup>3</sup> Bei den budgetierten Einnahmen und in der Schlussrechnung über die Einnahmen sind die monetären und nichtmonetären Zuwendungen separat auszuweisen.
+
+<sup>4</sup> Bei der Meldung der monetären und nichtmonetären Zuwendungen im Wert von mehr als 15 000 Franken sind der Wert und das Datum der Zuwendung sowie der Name, der Vorname und die Wohnsitzgemeinde oder die Firma und der Sitz der Urheberin oder des Urhebers der Zuwendung anzugeben.
+
+<sup>5</sup> Die Angaben nach Absatz 4 sind zu belegen.
+
+<sup>6</sup> Der Bundesrat legt die Form der Meldung fest.
+
+#### Art. 76e
+
+**Kontrolle**
+
+<sup>1</sup> Die zuständige Stelle kontrolliert, ob alle Angaben und Dokumente nach den Artikeln 76*b* und 76*c* von den politischen Akteurinnen und Akteuren innert Frist eingereicht worden sind. Die Kontrolle über die Korrektheit der Angaben und Dokumente erfolgt stichprobenweise.
+
+<sup>2</sup> Stellt sie fest, dass gewisse Angaben und Dokumente nicht fristgerecht oder nicht korrekt eingereicht worden sind, fordert sie die verpflichteten Akteurinnen und Akteure auf, die erforderlichen Angaben und Dokumente nachzuliefern, und setzt ihnen dafür eine Frist.
+
+<sup>3</sup> Werden die Angaben und Dokumente nicht innert der angesetzten Frist nachgeliefert, ist die zuständige Stelle verpflichtet, Straftaten, von denen sie anlässlich der Kontrolle Kenntnis erlangt, bei der zuständigen Strafverfolgungsbehörde anzuzeigen. Bei Fristansetzungen nach Absatz 2 weist sie auf diese Anzeigepflicht hin.
+
+#### Art. 76f
+
+**Veröffentlichung**
+
+<sup>1</sup> Nach Abschluss der Kontrolle nach Artikel 76*e* veröffentlicht die zuständige Stelle die Angaben und die Dokumente auf ihrer Internetseite.
+
+<sup>2</sup>
+
+Veröffentlicht werden:
+
+- a. die Angaben nach Artikel 76*d* Absatz 1 Buchstabe a jährlich;
+- b. die Angaben nach Artikel 76*d* Absatz 1 Buchstaben b und c spätestens 15 Tage nach deren Eingang bei der zuständigen Stelle.
+
+<sup>3</sup> Die Angaben über monetäre und nichtmonetäre Zuwendungen, die nach Artikel 76*d* Absatz 2 unverzüglich zu melden sind, werden fortlaufend veröffentlicht.
+
+#### Art. 76g
+
+**Zuständige Stelle**
+
+Der Bundesrat bezeichnet die Behörde, welche für die Kontrolle und Veröffentlichung zuständig ist.
+
+#### Art. 76h
+
+**Anonyme Zuwendungen und Zuwendungen aus dem Ausland**
+
+<sup>1</sup>
+
+Verboten ist für die politischen Akteurinnen und Akteure nach den Artikeln 76*b* und 76*c* die Annahme:
+
+- a. von anonymen monetären und nichtmonetären Zuwendungen; und
+- b. von monetären und nichtmonetären Zuwendungen aus dem Ausland.
+
+<sup>2</sup> Monetäre und nichtmonetäre Zuwendungen von Auslandschweizerinnen und Auslandschweizern gelten nicht als Zuwendungen aus dem Ausland.
+
+<sup>3</sup>
+
+Wer eine anonyme monetäre oder nichtmonetäre Zuwendung erhält, muss:
+
+- a. die Herkunftsangaben nach Artikel 76*d* Absatz 4 ermitteln; oder
+- b. die Zuwendung wenn möglich zurückerstatten; ist eine Rückerstattung nicht möglich oder nicht zumutbar, muss die Zuwendung der zuständigen Stelle gemeldet und dem Bund abgeliefert werden.
+
+<sup>4</sup> Wer eine monetäre oder nichtmonetäre Zuwendung aus dem Ausland erhält, muss diese zurückerstatten. Ist eine Rückerstattung nicht möglich oder nicht zumutbar, muss die Zuwendung der zuständigen Stelle gemeldet und dem Bund abgeliefert werden.
+
+<sup>5</sup> In Abweichung von den Absätzen 1–4 müssen die politischen Akteurinnen und Akteure nach Artikel 76*c* Absatz 3 die Beträge der anonymen monetären und nicht monetären Zuwendungen und der monetären und nichtmonetären Zuwendungen aus dem Ausland, die ihnen im Hinblick auf die Kampagne für die Wahl eines Mitglieds des Ständerates gewährt wurden, mit der Schlussrechnung nach Artikel 76*d* Absatz 1 Buchstabe c offenlegen.
+
+#### Art. 76i
+
+**Bearbeiten von Personendaten und Austausch von Informationen**
+
+<sup>1</sup>
+
+Zur Wahrnehmung ihrer gesetzlichen Aufgaben, insbesondere zur Kontrolle und zur Veröffentlichung, ist die zuständige Stelle befugt, folgende Personendaten zu bearbeiten:
+
+- a. Daten über die Identität und die finanzielle Situation der politischen Akteurinnen und Akteure nach den Artikeln 76*b* und 76*c*;
+- b. Daten über die Identität von Personen, die den politischen Akteurinnen und Akteuren nach den Artikeln 76*b* und 76*c* monetäre und nichtmonetäre Zuwendungen zukommen lassen;
+- c. Daten über die Identität von Mandatsträgerinnen und Mandatsträgern, die den politischen Parteien nach Artikel 76*b* einen Beitrag entrichten.
+
+<sup>2</sup>
+
+Die zuständige Stelle darf den folgenden Behörden die Informationen über die politischen Akteurinnen und Akteure wie namentlich Personendaten weiterleiten, die für die Erfüllung ihrer gesetzlichen Aufgaben erforderlich sind:
+
+- a. den kantonalen und den kommunalen Behörden, die nach kantonalem Recht für die Transparenz bei der Politikfinanzierung zuständig sind;
+- b. den zuständigen Strafverfolgungsbehörden, falls es um die Anzeige einer Straftat nach Artikel 76*e* Absatz 3 geht.
+
+<sup>3</sup> Auf Anfrage der zuständigen Stelle nach Artikel 76*g* geben die kantonalen und die kommunalen Behörden, die nach kantonalem Recht für die Transparenz bei der Politikfinanzierung zuständig sind, ihr die Informationen wie namentlich Personendaten bekannt, die für die Durchführung der Kontrolle und für die Veröffentlichung erforderlich sind.
+
+#### Art. 76j
+
+**Strafbestimmungen**
+
+<sup>1</sup>
+
+Mit Busse bis zu 40 000 Franken wird bestraft, wer vorsätzlich:
+
+- a. eine Pflicht zur Offenlegung nach den Artikeln 76*b*–76*d* verletzt;
+- b. eine Pflicht nach Artikel 76*h* Absätze 3–5 verletzt.
+
+<sup>2</sup> Die Strafverfolgung obliegt den Kantonen.
+
+#### Art. 76k
+
+**Vorbehalt der kantonalen Gesetzgebung**
+
+Den Kantonen bleibt es vorbehalten, bei der Ausübung der politischen Rechte auf Bundesebene weitergehende Vorschriften über die Offenlegung der Finanzierung von kantonalen politischen Akteurinnen oder Akteuren vorzusehen.
 
 ## 6. Titel: Rechtspflege
 
@@ -1283,7 +1439,7 @@ Bei der Kantonsregierung kann Beschwerde geführt werden:
 <sup>3</sup> Die Kantonsregierung eröffnet ihre Beschwerdeentscheide und andere Verfügungen nach den Artikeln 34–38 und 61 Absatz 2 des Verwaltungsverfahrensgesetzes vom 20. Dezember 1968[^79-2] und teilt sie auch der Bundeskanzlei mit.[^79-3]
 
 [^79-1]: Eingefügt durch Ziff. I des BG vom 18. März 1994, in Kraft seit 15. Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^79-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^79-2]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 [^79-3]: Fassung gemäss Ziff. I des BG vom 18. März 1994, in Kraft seit 15. Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 80
@@ -1297,7 +1453,7 @@ Bei der Kantonsregierung kann Beschwerde geführt werden:
 <sup>3</sup> Den Mitgliedern des Initiativkomitees steht die Beschwerde auch gegen Verfügungen der Bundeskanzlei über die formelle Gültigkeit der Unterschriftenliste (Art. 69 Abs. 1) und betreffend den Titel der Initiative (Art. 69 Abs. 2) zu.
 
 [^80-1]: Fassung gemäss Anhang Ziff. 2 des Bundesgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188)Art. 1 Bst. a; [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^80-2]: [SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^80-2]: [SR 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 [^80-3]: Fassung gemäss Ziff. I 1 des BG vom 23. März 2007 betreffend die Änderung der Bundesgesetzgebung über die politischen Rechte, in Kraft seit 1. Jan. 2008 ([AS 2007 4635](https://fedlex.data.admin.ch/eli/oc/2007/649); [BBl 2006 5261](https://fedlex.data.admin.ch/eli/fga/2006/639)).
 
 #### Art. 81 und 82
@@ -1314,7 +1470,7 @@ Bei der Kantonsregierung kann Beschwerde geführt werden:
 
 Soweit dieses Gesetz und die Ausführungserlasse des Bundes keine Bestimmungen enthalten, gilt kantonales Recht. Vorbehalten bleibt das Bundesrechtspflegegesetz vom 16. Dezember 1943[^83-1].
 
-[^83-1]: [BS **3** 531; [AS 1948 485](https://fedlex.data.admin.ch/eli/oc/1948/485_473_421)Art. 86, [1955 871](https://fedlex.data.admin.ch/eli/oc/1955/871_893_899)Art. 118, [1959 902](https://fedlex.data.admin.ch/eli/oc/1959/902_931_921), [1969 737](https://fedlex.data.admin.ch/eli/oc/1969/737_757_755)Art. 80 Bst. b [767](https://fedlex.data.admin.ch/eli/oc/1969/767_787_784), [1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237)Ziff. II 3 [862](https://fedlex.data.admin.ch/eli/oc/1977/862_862_862)Art. 52 Ziff. 2 [1323](https://fedlex.data.admin.ch/eli/oc/1977/1323_1323_1323)Ziff. III, [1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)Art. 88 Ziff. 3 [1450](https://fedlex.data.admin.ch/eli/oc/1978/1450_1450_1450), [1979 42](https://fedlex.data.admin.ch/eli/oc/1979/42_42_42), [1980 31](https://fedlex.data.admin.ch/eli/oc/1980/31_31_31)Ziff. IV [1718](https://fedlex.data.admin.ch/eli/oc/1980/1718_1718_1718)Art. 52 Ziff. 2 [1819](https://fedlex.data.admin.ch/eli/oc/1980/1819_1819_1819)Art. 12 Abs. 1, [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)Anhang Ziff. 13, [1983 1886](https://fedlex.data.admin.ch/eli/oc/1983/1886_1886_1886)Art. 36 Ziff. 1, [1986 926](https://fedlex.data.admin.ch/eli/oc/1986/926_926_926)Art. 59 Ziff. 1, [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226)Ziff. II 1 [1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665)Ziff. II, [1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)Anhang Ziff. II 1, [1989 504](https://fedlex.data.admin.ch/eli/oc/1989/504_504_504)Art. 33 Bst. a, [1990 938](https://fedlex.data.admin.ch/eli/oc/1990/938_938_938)Ziff. III Abs. 5, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288), [1993 274](https://fedlex.data.admin.ch/eli/oc/1993/274_274_274)Art. 75 Ziff. 1 [1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945)Anhang Ziff. 1, [1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227)Anhang Ziff. 3 [4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)Anhang Ziff. 4, [1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508)Art. 36 [750](https://fedlex.data.admin.ch/eli/oc/1996/750_750_750)Art. 17 [1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445)Anhang Ziff. 2 [1498](https://fedlex.data.admin.ch/eli/oc/1996/1498_1498_1498)Anhang Ziff. 2, [1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155)Anhang Ziff. 6 [2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Anhang Ziff. 5, [1998 2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)Anhang Ziff. 3 [3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Anhang Ziff. 2, [1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149)Anhang Ziff. 1 [3071](https://fedlex.data.admin.ch/eli/oc/1999/472)Ziff. I 2, [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)Anhang Ziff. 6 [416](https://fedlex.data.admin.ch/eli/oc/2000/92)Ziff. I 2 [505](https://fedlex.data.admin.ch/eli/oc/2000/95)Ziff. I 1 [2355](https://fedlex.data.admin.ch/eli/oc/2000/374)Anhang Ziff. 1 [2719](https://fedlex.data.admin.ch/eli/oc/2000/453), [2001 114](https://fedlex.data.admin.ch/eli/oc/2001/21)Ziff. I 4 [894](https://fedlex.data.admin.ch/eli/oc/2001/123)Art. 40 Ziff. 3 [1029](https://fedlex.data.admin.ch/eli/oc/2001/150)Art. 11 Abs. 2, [2002 863](https://fedlex.data.admin.ch/eli/oc/2002/153)Art. 35 [1904](https://fedlex.data.admin.ch/eli/oc/2002/283)Art. 36 Ziff. 1 [2767](https://fedlex.data.admin.ch/eli/oc/2002/408)Ziff. II [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)Anhang Ziff. 1, [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)Anhang Ziff. 7 [3543](https://fedlex.data.admin.ch/eli/oc/2003/510)Anhang Ziff. II 4 Bst. a [4557](https://fedlex.data.admin.ch/eli/oc/2003/674)Anhang Ziff. II 1, [2004 1985](https://fedlex.data.admin.ch/eli/oc/2004/221)Anhang Ziff. II 1 [4719](https://fedlex.data.admin.ch/eli/oc/2004/723)Anhang Ziff. II 1, [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)Anhang Ziff. 7. [AS 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)Art. 131 Abs. 1]. Siehe heute: das Bundesgerichtsgesetz vom 17. Juni 2005 ([SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)).
+[^83-1]: [BS **3** 531; [AS 1948 485](https://fedlex.data.admin.ch/eli/oc/1948/485_473_421)Art. 86; [1955 871](https://fedlex.data.admin.ch/eli/oc/1955/871_893_899)Art. 118; [1959 902](https://fedlex.data.admin.ch/eli/oc/1959/902_931_921); [1969 737](https://fedlex.data.admin.ch/eli/oc/1969/737_757_755)Art. 80 Bst. b, [767](https://fedlex.data.admin.ch/eli/oc/1969/767_787_784); [1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237)Ziff. II 3, [862](https://fedlex.data.admin.ch/eli/oc/1977/862_862_862)Art. 52 Ziff. 2, [1323](https://fedlex.data.admin.ch/eli/oc/1977/1323_1323_1323)Ziff. III; [1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)Art. 88 Ziff. 3, [1450](https://fedlex.data.admin.ch/eli/oc/1978/1450_1450_1450); [1979 42](https://fedlex.data.admin.ch/eli/oc/1979/42_42_42); [1980 31](https://fedlex.data.admin.ch/eli/oc/1980/31_31_31)Ziff. IV, [1718](https://fedlex.data.admin.ch/eli/oc/1980/1718_1718_1718)Art. 52 Ziff. 2, [1819](https://fedlex.data.admin.ch/eli/oc/1980/1819_1819_1819)Art. 12 Abs. 1; [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)Anhang Ziff. 13; [1983 1886](https://fedlex.data.admin.ch/eli/oc/1983/1886_1886_1886)Art. 36 Ziff. 1; [1986 926](https://fedlex.data.admin.ch/eli/oc/1986/926_926_926)Art. 59 Ziff. 1; [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226)Ziff. II 1, [1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665)Ziff. II; [1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)Anhang Ziff. II 1; [1989 504](https://fedlex.data.admin.ch/eli/oc/1989/504_504_504)Art. 33 Bst. a; [1990 938](https://fedlex.data.admin.ch/eli/oc/1990/938_938_938)Ziff. III Abs. 5; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288); [1993 274](https://fedlex.data.admin.ch/eli/oc/1993/274_274_274)Art. 75 Ziff. 1, [1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945)Anhang Ziff. 1; [1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227)Anhang Ziff. 3, [4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)Anhang Ziff. 4; [1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508)Art. 36, [750](https://fedlex.data.admin.ch/eli/oc/1996/750_750_750)Art. 17, [1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445)Anhang Ziff. 2, [1498](https://fedlex.data.admin.ch/eli/oc/1996/1498_1498_1498)Anhang Ziff. 2; [1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155)Anhang Ziff. 6, [2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Anhang Ziff. 5; [1998 2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)Anhang Ziff. 3, [3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Anhang Ziff. 2; [1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149)Anhang Ziff. 1, [3071](https://fedlex.data.admin.ch/eli/oc/1999/472)Ziff. I 2; [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)Anhang Ziff. 6, [416](https://fedlex.data.admin.ch/eli/oc/2000/92)Ziff. I 2, [505](https://fedlex.data.admin.ch/eli/oc/2000/95)Ziff. I 1, [2355](https://fedlex.data.admin.ch/eli/oc/2000/374)Anhang Ziff. 1, [2719](https://fedlex.data.admin.ch/eli/oc/2000/453); [2001 114](https://fedlex.data.admin.ch/eli/oc/2001/21)Ziff. I 4, [894](https://fedlex.data.admin.ch/eli/oc/2001/123)Art. 40 Ziff. 3, [1029](https://fedlex.data.admin.ch/eli/oc/2001/150)Art. 11 Abs. 2; [2002 863](https://fedlex.data.admin.ch/eli/oc/2002/153)Art. 35, [1904](https://fedlex.data.admin.ch/eli/oc/2002/283)Art. 36 Ziff. 1, [2767](https://fedlex.data.admin.ch/eli/oc/2002/408)Ziff. II, [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)Anhang Ziff. 1; [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)Anhang Ziff. 7, [3543](https://fedlex.data.admin.ch/eli/oc/2003/510)Anhang Ziff. II 4 Bst. a, [4557](https://fedlex.data.admin.ch/eli/oc/2003/674)Anhang Ziff. II 1; [2004 1985](https://fedlex.data.admin.ch/eli/oc/2004/221)Anhang Ziff. II 1, [4719](https://fedlex.data.admin.ch/eli/oc/2004/723)Anhang Ziff. II 1; [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)Anhang Ziff. 7. [AS 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)Art. 131 Abs. 1]. Siehe heute: das Bundesgerichtsgesetz vom 17. Juni 2005 ([SR 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)).
 
 #### Art. 84
 
@@ -1342,7 +1498,7 @@ Soweit dieses Gesetz und die Ausführungserlasse des Bundes keine Bestimmungen e
 <sup>2</sup> Im Verfahren vor dem Bundesgericht richtet sich die Kostenpflicht nach dem Bundesgerichtsgesetz vom 17. Juni 2005[^86-2].
 
 [^86-1]: Fassung gemäss Anhang Ziff. 2 des Bundesgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188)Art. 1 Bst. a; [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^86-2]: [SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^86-2]: [SR 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 
 #### Art. 87
 

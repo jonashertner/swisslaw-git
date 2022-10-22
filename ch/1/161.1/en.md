@@ -3,11 +3,11 @@ sr: "161.1"
 title: Federal Act of 17 December 1976 on Political Rights
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/688_688_688"
 language: en
-version: 2015-11-01
+version: 2022-10-23
 adopted: 1976-12-17
 in_force: 1978-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/688_688_688/20151101/en/xml/fedlex-data-admin-ch-eli-cc-1978-688_688_688-20151101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/688_688_688/20151101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/688_688_688/20221023/en/xml/fedlex-data-admin-ch-eli-cc-1978-688_688_688-20221023-en-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/688_688_688/20221023/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -16,11 +16,11 @@ url: "https://www.fedlex.admin.ch/eli/cc/1978/688_688_688/20151101/en"
 
 English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.
 
-(PRA)**[^t-1]**
+(PRA)[^t-1]
 
-of 17 December 1976 (Status as of 1 November 2015)
+of 17 December 1976 (Status as of 23 October 2022)
 
-[^t-1]: Inserted by No I of the Federal Act of 26 Sept. 2014 (National Council elections), in force since 1 Nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+[^t-1]: Inserted by No I of the FA of 26 Sept. 2014 (National Council elections), in force since 1 Nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -28,8 +28,8 @@ on the basis of Article 39 paragraph 1 of the Federal Constitution[^ingress-1],[
 
 decrees:
 
-[^ingress-1]: [BS **1** 3; AS **1962** 1695, **1971** 329, [1984 290](https://fedlex.data.admin.ch/eli/oc/1984/290_290_290)]. The provisions mentioned now correspond to Articles 39, 136, 149 and 192 of the Federal Constitution of 18 April 1999 ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
-[^ingress-2]: Amended by No I of the Federal Act of 26 Sept. 2014 (National Council elections), in force since 1 Nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
+[^ingress-2]: Amended by No I of the FA of 26 Sept. 2014 (National Council elections), in force since 1 Nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
 [^ingress-3]: [BBl 1975 I 1317](https://fedlex.data.admin.ch/eli/fga/1975/1_1317_1337_1313)
 
 ## Title 1 Right to Vote and Voting
@@ -38,7 +38,7 @@ decrees:
 
 [^1-1]
 
-[^1-1]: Repealed by No I of the Federal Act of 21 June 2002, with effect from 1 Jan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^1-1]: Repealed by No I of the FA of 21 June 2002, with effect from 1 Jan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
 
 #### Art. 2
 
@@ -46,7 +46,7 @@ decrees:
 
 Persons lacking legal capacity who are ineligible to vote in accordance with Article 136 paragraph 1 of the Federal Constitution are persons who are subject to a general deputyship or are represented by a carer as they are permanently incapable of judgement.
 
-[^2-1]: Amended by Annex No 3 of the Federal Act of 19 Dec. 2008 (Adult Protection, Law of Persons and Law of Children), in force since 1 Jan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^2-1]: Amended by Annex No 3 of the FA of 19 Dec. 2008 (Adult Protection, Law of Persons and Law of Children), in force since 1 Jan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 
 #### Art. 3
 
@@ -56,7 +56,7 @@ Persons lacking legal capacity who are ineligible to vote in accordance with Art
 
 <sup>2</sup> Any person who deposits an identification document other than the certificate of origin (certificate of residence, provisional certificate, etc.) shall acquire political domicile only if they prove that they are not registered to vote in the place where their certificate of origin is deposited.
 
-[^3-1]: Second sentence inserted by No I of the Federal Act of 18 March 1994, in force since 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^3-1]: Second sentence inserted by No I of the FA of 18 March 1994, in force since 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 4
 
@@ -78,17 +78,17 @@ Persons lacking legal capacity who are ineligible to vote in accordance with Art
 
 <sup>3</sup> Persons who are eligible to vote may vote in person or by post.[^5-2] Voting in electronic voting pilot schemes is governed by Article 8*a*.[^5-3]
 
-<sup>4</sup> and <sup>5</sup> …[^5-4]
+<sup>4 and <sup>5</sup></sup> ...[^5-4]
 
 <sup>6</sup> Votes may be cast by proxy at the polling station provided cantonal law permits this for cantonal votes and elections. Persons who are eligible to vote but who are unable to write may have their ballot paper completed in accordance with their instructions by person of their choice who is eligible to vote.[^5-5]
 
 <sup>7</sup> Voting secrecy must be preserved.
 
-[^5-1]: Second sentence inserted by No I of the Federal Act of 18 March 1994, in force since 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^5-2]: Amended by No I of the Federal Act of 18 March 1994, in force since 15 Dec. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^5-3]: Second sentence inserted by No I of the Federal Act of 21 June 2002, in force since 1 Jan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
-[^5-4]: Repealed by No I of the Federal Act of 18 March 1994, with effect from 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^5-5]: Amended by No I of the Federal Act of 23 March 2007 on the Amendment of the Federal Legislation on Political Rights, in force since 1 Jan. 2008 ([AS 2007 4635](https://fedlex.data.admin.ch/eli/oc/2007/649); [BBl 2006 5261](https://fedlex.data.admin.ch/eli/fga/2006/639)).
+[^5-1]: Second sentence inserted by No I of the FA of 18 March 1994, in force since 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^5-2]: Amended by No I of the FA of 18 March 1994, in force since 15 Dec. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^5-3]: Second sentence inserted by No I of the FA of 21 June 2002, in force since 1 Jan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^5-4]: Repealed by No I of the FA of 18 March 1994, with effect from 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^5-5]: Amended by No I 1 of the Federal Act of 23 March 2007 on the Amendment of the Federal Legislation on Political Rights, in force since 1 Jan. 2008 ([AS 2007 4635](https://fedlex.data.admin.ch/eli/oc/2007/649); [BBl 2006 5261](https://fedlex.data.admin.ch/eli/fga/2006/639)).
 
 #### Art. 6
 
@@ -116,7 +116,7 @@ The cantons shall ensure that any person who, due to a disability or any other r
 
 <sup>2</sup> Postal voting is permitted from the time of receipt of the documents required to cast a valid vote in accordance with cantonal law.[^8-1]
 
-[^8-1]: Amended by No I of the Federal Act of 18 March 1994, in force since 15 Dec. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^8-1]: Amended by No I of the FA of 18 March 1994, in force since 15 Dec. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 8a
 
@@ -128,13 +128,13 @@ The cantons shall ensure that any person who, due to a disability or any other r
 
 <sup>2</sup> The verification of eligibility to vote, voting secrecy and the counting of all the votes cast must be guaranteed and abuses prevented.
 
-<sup>3</sup> …[^8a-3]
+<sup>3</sup> ...[^8a-3]
 
 <sup>4</sup> The Federal Council shall regulate the details of such schemes.
 
-[^8a-1]: Inserted by No I of the Federal Act of 21 June 2002, in force since 1 Jan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
-[^8a-2]: Amended by No I of the Federal Act of 23 March 2007 on the Amendment of the Federal Legislation on Political Rights, in force since 1 Jan. 2008 ([AS 2007 4635](https://fedlex.data.admin.ch/eli/oc/2007/649)4637; [BBl 2006 5261](https://fedlex.data.admin.ch/eli/fga/2006/639)).
-[^8a-3]: Repealed by No I of the Federal Act of 23 March 2007 on the Amendment of the Federal Legislation on Political Rights, with effect from 1 Jan. 2008 ([AS 2007 4635](https://fedlex.data.admin.ch/eli/oc/2007/649)4637; [BBl 2006 5261](https://fedlex.data.admin.ch/eli/fga/2006/639)).
+[^8a-1]: Inserted by No I of the FA of 21 June 2002, in force since 1 Jan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^8a-2]: Inserted by No I 1 of the Federal Act of 23 March 2007 on the Amendment of the Federal Legislation on Political Rights, in force since 1 Jan. 2008 ([AS 2007 4635](https://fedlex.data.admin.ch/eli/oc/2007/649)4637; [BBl 2006 5261](https://fedlex.data.admin.ch/eli/fga/2006/639)).
+[^8a-3]: Repealed by No I 1 of the Federal Act of 23 March 2007 on the Amendment of the Federal Legislation on Political Rights, with effect from 1 Jan. 2008 ([AS 2007 4635](https://fedlex.data.admin.ch/eli/oc/2007/649)4637; [BBl 2006 5261](https://fedlex.data.admin.ch/eli/fga/2006/639)).
 
 #### Art. 9
 
@@ -148,20 +148,20 @@ The cantons shall ensure that any person who, due to a disability or any other r
 
 **Organisation**
 
-<sup>1</sup> The Federal Council shall determines the rules by which polling days are appointed. In doing so, it shall take account of the requirements of those eligible to vote, parliament, the cantons, the parties and the agencies responsible for effecting service of voting documents, and shall avoid any collisions of dates that may result from differences between the calendar year and the church year.[^10-1]
+<sup>1</sup> The Federal Council shall determine the rules by which polling days are appointed. In doing so, it shall take account of the requirements of those eligible to vote, parliament, the cantons, the parties and the agencies responsible for effecting service of voting documents, and shall avoid any collisions of dates that may result from differences between the calendar year and the church year.[^10-1]
 
-<sup>1bis</sup> The Federal Council shall determine, four months prior to the polling day at the latest, which proposals are to be submitted to the vote of the People. This period of four months may be reduced in the case of federal acts that have been declared to be urgent.[^10-2]
+<sup>1bis</sup> The Federal Council shall determine, four months prior to the polling day at the latest, which proposals are to be submitted to a popular vote. This period of four months may be reduced in the case of emergency federal acts.[^10-2]
 
 <sup>2</sup> Each canton is responsible for the conduct of the vote within its own territory and issues the required regulations.
 
-[^10-1]: Amended by No I of the Federal Act of 21 June 2002, in force since 1 Jan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
-[^10-2]: Inserted by No I of the Federal Act of 21 June 2002, in force since 1 Jan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^10-1]: Amended by No I of the FA of 21 June 2002, in force since 1 Jan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^10-2]: Inserted by No I of the FA of 21 June 2002, in force since 1 Jan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
 
 #### Art. 10a
 
 **Information for persons eligible to vote**[^10a-1]
 
-<sup>1</sup> The Federal Council shall continually inform persons eligible to vote about federal proposals to be submitted to the vote of the People.
+<sup>1</sup> The Federal Council shall continually inform persons eligible to vote about federal proposals to be submitted to a popular vote.
 
 <sup>2</sup> In doing so, it shall comply with the principles of completeness, objectivity, transparency and proportionality.
 
@@ -169,60 +169,62 @@ The cantons shall ensure that any person who, due to a disability or any other r
 
 <sup>4</sup> It shall not make a recommendation on how to vote that diverges from the position of the Federal Assembly.
 
-[^10a-1]: Inserted by No I of the Federal Decree of 5 Oct. 2007, in force since 15 Jan. 2009 ([AS 2009 1](https://fedlex.data.admin.ch/eli/oc/2009/1)2; [BBl 2006 9259](https://fedlex.data.admin.ch/eli/fga/2006/1201)[9279](https://fedlex.data.admin.ch/eli/fga/2006/1203)).
+[^10a-1]: Inserted by No I of the Federal Decree of 5 Oct. 2007, in force since 15 Jan. 2009 ([AS 2009 1](https://fedlex.data.admin.ch/eli/oc/2009/1); [BBl 2006 9259](https://fedlex.data.admin.ch/eli/fga/2006/1201)[9279](https://fedlex.data.admin.ch/eli/fga/2006/1203)).
 
 #### Art. 11
 
-**Proposals submitted to a vote of the People, ballot papers and explanatory statements [^11-1]**
+**Proposals submitted to a popular vote, ballot papers and explanatory statements[^11-1]**
 
-<sup>1</sup> The Confederation shall provide the cantons with the proposals to be submitted to a vote of the People and the ballot papers.
+<sup>1</sup> The Confederation shall provide the cantons with the proposals to be submitted to a popular vote and the ballot papers.
 
 <sup>2</sup> Each proposal shall be accompanied by a short, objective explanation from the Federal Council that shall also take account of the opinions of significant minorities. The proposal must contain the wording of the questions on the ballot paper. In the case of popular initiatives and referendums, the initiative committee shall inform the Federal Council of their arguments and the Federal Council shall take such arguments into account in its explanatory statement. The Federal Council may amend or reject defamatory, blatantly false or excessively long statements. References to electronic sources may be included in the explanatory statement only if the author of the references declares in writing that none of the content of the sources is illegal and that the sources are not linked to electronic publications with illegal content.[^11-2]
 
-<sup>3</sup> Persons eligible to vote shall receive the documents required to cast a valid vote under cantonal law (ballot paper, polling card, official voting envelope, validation stamp[^11-3], etc.) at least three and no more than four weeks prior to the polling day. Proposals submitted to a vote of the People and explanatory statements may be sent at an earlier date. The Federal Chancellery shall publish the proposals and the explanatory statement electronically at least six weeks prior to the polling day.[^11-4] [^11-5]
+<sup>3</sup> Persons eligible to vote shall receive the documents required to cast a valid vote under cantonal law (ballot paper, polling card, official voting envelope, validation stamp[^11-3], etc.) at least three and no more than four weeks prior to the polling day. The proposal submitted to a popular vote and the explanatory statements may be sent at an earlier date. The Federal Chancellery shall publish the proposals and the explanatory statement electronically at least six weeks prior to the polling day.[^11-4] [^11-5]
 
 <sup>4</sup> The cantons may by law authorise communes to send only one copy of the proposals and the explanatory statements to each household unless a member of the household who is eligible to vote requests that personal copies be sent.[^11-6]
 
-[^11-1]: Amended by No I of the Federal Act of 21 June 1996, in force since 1 April 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); BBl **1993** III).
-[^11-2]: Amended by No I of the Federal Act of 23 March 2007 on the Amendment of the Federal Legislation on Political Rights, in force since 1 Jan. 2008 ([AS 2007 4635](https://fedlex.data.admin.ch/eli/oc/2007/649); [BBl 2006 5261](https://fedlex.data.admin.ch/eli/fga/2006/639)).
-[^11-3]: Term in accordance with No II 4 of the Federal Act of 20 March 2008 on the Formal Revision of Federal Legislation, with effect from 1 Aug. 2008 ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)3452; [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)). This amendment has been made throughout the text.
-[^11-4]: Third sentence inserted by No I of the Federal Act of 21 June 2002, in force since 1 Jan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
-[^11-5]: Amended by No I of the Federal Act of 18 March 1994, in force since 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^11-6]: Inserted by No I of the Federal Act of 18 March 1994, in force since 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^11-1]: Amended by No I of the FA of 21 June 1996, in force since 1 April 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^11-2]: Amended by No I 1 of the Federal Act of 23 March 2007 on the Amendment of the Federal Legislation on Political Rights, in force since 1 Jan. 2008 ([AS 2007 4635](https://fedlex.data.admin.ch/eli/oc/2007/649); [BBl 2006 5261](https://fedlex.data.admin.ch/eli/fga/2006/639)).
+[^11-3]: Term in accordance with No II 4 of the Federal Act of 20 March 2008 on the Formal Revision of Federal Legislation, with effect from 1 Aug. 2008 ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)). This amendment has been made throughout the text.
+[^11-4]: Third sentence inserted by No I of the FA of 21 June 2002, in force since 1 Jan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^11-5]: Amended by No I of the FA of 18 March 1994, in force since 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^11-6]: Inserted by No I of the FA of 18 March 1994, in force since 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 12
 
 **Invalid ballot papers**
 
-<sup>1</sup> Ballot papers are invalid if they
+<sup>1</sup>
+
+Ballot papers are invalid if they:
 
 - a. are not official;
 - b. have been completed other than by hand;
 - c. do not permit the intention of the voter to be clearly recognised;
 - d. contain defamatory remarks or obviously irrelevant markings;
-- e.[^12-1] …
+- e.[^12-1] ...
 
 <sup>2</sup> Grounds for invalidity or nullity that relate to cantonal procedures (official voting envelope, validation stamp, etc.) are reserved.
 
 <sup>3</sup> In the case of electronic voting pilot schemes[^12-2], the legislation of each canton conducting such a scheme shall determine the requirements according to which votes are validly cast and the grounds for invalidity.[^12-3]
 
-[^12-1]: Repealed by No II of the Federal Act of 22 March 1991, with effect from 1 Jul. 1992 ([AS 1991 2388](https://fedlex.data.admin.ch/eli/oc/1991/2388_2388_2388); [BBl 1990 III 445](https://fedlex.data.admin.ch/eli/fga/1990/3_445_429_393)).
+[^12-1]: Repealed by No II of the FA of 22 March 1991, with effect from 1 Jul. 1992 ([AS 1991 2388](https://fedlex.data.admin.ch/eli/oc/1991/2388_2388_2388); [BBl 1990 III 445](https://fedlex.data.admin.ch/eli/fga/1990/3_445_429_393)).
 [^12-2]: Term in accordance with No II 4 of the Federal Act of 20 March 2008 on the Formal Revision of Federal Legislation, with effect from 1 Aug. 2008 ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)). This amendment has been made throughout the text.
-[^12-3]: Inserted by No I of the Federal Act of 21 June 2002, in force since 1 Jan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^12-3]: Inserted by No I of the FA of 21 June 2002, in force since 1 Jan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
 
 #### Art. 13
 
-**Determination of the result of the vote [^13-1]**
+**Determination of the result of the vote[^13-1]**
 
 <sup>1</sup> Blank and invalid ballot papers shall be disregarded when determining the result of the vote.
 
 <sup>2</sup> Where the yes-votes in a canton are equal in number to the no-votes, the vote of that canton shall be counted towards the cantons voting no.[^13-2]
 
-<sup>3</sup> A very close result requires a recount if there are credible allegations of irregularities that by their nature and extent could have influenced the federal result.[^13-3]
+<sup>3</sup> A very close result only requires a recount if there are credible allegations of irregularities that by their nature and extent could have influenced the federal result.[^13-3]
 
-[^13-1]: Amended by No I of the Federal Act of 21 June 1996, in force since 1 April 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^13-2]: Inserted by No I of the Federal Act of 21 June 1996, in force since 1 April 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^13-3]: Inserted by No I of the Federal Act of 26 Sept. 2014 (National Council elections), in force since 1 Nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+[^13-1]: Amended by No I of the FA of 21 June 1996, in force since 1 April 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^13-2]: Inserted by No I of the FA of 21 June 1996, in force since 1 April 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^13-3]: Inserted by No I of the FA of 26 Sept. 2014 (National Council elections), in force since 1 Nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
 
 #### Art. 14
 
@@ -234,8 +236,8 @@ The cantons shall ensure that any person who, due to a disability or any other r
 
 <sup>3</sup> The cantons shall submit the report, and if so requested, the ballot papers, to the Federal Chancellery within ten days of expiry of the period allowed for an appeal to be lodged (Art. 79 para. 3). Following validation of the result of the vote, the ballot papers shall be destroyed.
 
-[^14-1]: Amended by No I of the Federal Act of 21 June 1996, in force since 1 April 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^14-2]: Amended by No I of the Federal Act of 21 June 2002, in force since 1 Jan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^14-1]: Amended by No I of the FA of 21 June 1996, in force since 1 April 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^14-2]: Amended by No I of the FA of 21 June 2002, in force since 1 Jan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
 
 #### Art. 15
 
@@ -247,10 +249,10 @@ The cantons shall ensure that any person who, due to a disability or any other r
 
 <sup>3</sup> Amendments to the Federal Constitution shall come into force on their adoption by the People and the cantons, unless the proposal provides otherwise.
 
-<sup>4</sup> Where a change in the law cannot be delayed and as soon as the result of the vote is beyond dispute, the Federal Council or the Federal Assembly may bring draft legislation or federal decrees on the adoption of international treaties provisionally into force prior to the completion of the validation procedure, or in the case of acts that have been declared to be urgent, allow such acts to continue in force, or repeal the same.[^15-2]
+<sup>4</sup> Where a change in the law cannot be delayed and as soon as the result of the vote is beyond dispute, the Federal Council or the Federal Assembly may bring draft legislation or federal decrees on the adoption of international treaties provisionally into force prior to the completion of the validation procedure, or in the case of emergency federal acts, allow such acts to remain in force provisionally, or repeal the same.[^15-2]
 
-[^15-1]: Amended by Annex No 2 of the Federal Supreme Court Act of 17 June 2005, in force since 1 Jan. 2007 ([AS 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188)Art. 1 let. a; BBl **2001** 6402).
-[^15-2]: Inserted by No I of the Federal Act of 21 June 2002, in force since 1 Jan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^15-1]: Amended by Annex No 2 of the Federal Supreme Court Act of 17 June 2005, in force since 1 Jan. 2007 ([AS 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188)Art. 1 let. a; [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^15-2]: Inserted by No I of the FA of 21 June 2002, in force since 1 Jan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
 
 ## Title 3 Election of the National Council
 
@@ -265,7 +267,7 @@ The cantons shall ensure that any person who, due to a disability or any other r
 <sup>2</sup> Based on the binding figures for the resident population in accordance with Article 13 of the Census Act of 22 June 2007, the Federal Council shall make a binding decision on the number of seats to be allocated to each canton in the follow general election to the National Council.
 
 [^16-1]: Amended by Art. 17 No 1 of the Census Act of 22 June 2007, in force since 1 Jan. 2008 ([AS 2007 6743](https://fedlex.data.admin.ch/eli/oc/2007/869); [BBl 2007 53](https://fedlex.data.admin.ch/eli/fga/2007/17)).
-[^16-2]: [SR 431.112](https://fedlex.data.admin.ch/eli/cc/2007/869)
+[^16-2]: [SR 431.112](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6959)
 
 #### Art. 17
 
@@ -284,14 +286,14 @@ The 200 seats in the National Council shall be allocated among the cantons in ac
 - b. *Principal allocation*: each remaining canton is allocated as many seats as its population divided by the final allocation number.
 - c. *Final allocation*: the remaining seats are divided among the cantons with the highest fractions of a whole number remaining. Where more than one canton has the same remaining fraction, the canton or cantons with the lower or lowest remaining number that results from the division of their population by the first allocation number are excluded. If this also results in the same remaining number for more than one canton, the allocation of the remaining seats is decided by drawing lots.
 
-[^17-1]: Amended by No I of the Federal Act of 18 March 1994, in force since 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^17-2]: Amended by No I of the Federal Act of 21 June 2002, in force since 1 Jan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^17-1]: Amended by No I of the FA of 18 March 1994, in force since 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^17-2]: Amended by No I of the FA of 21 June 2002, in force since 1 Jan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
 
 #### Art. 18
 
 [^18-1]
 
-[^18-1]: Repealed by Annex No II 1 of the Parliament Act of 13 December 2002, with effect from 3 Dec. 2007 (AS **2003** 3453; [BBl 2001 3467](https://fedlex.data.admin.ch/eli/fga/2001/639)[5428](https://fedlex.data.admin.ch/eli/fga/2001/853)).
+[^18-1]: Repealed by Annex No II 1 of the Parliament Act of 13 Dec. 2002, with effect from 3 Dec. 2007 (AS **2003** 3453; [BBl 2001 3467](https://fedlex.data.admin.ch/eli/fga/2001/639)[5428](https://fedlex.data.admin.ch/eli/fga/2001/853)).
 
 #### Art. 19
 
@@ -301,7 +303,7 @@ The 200 seats in the National Council shall be allocated among the cantons in ac
 
 <sup>2</sup> The Federal Council shall fix the date for an extraordinary general election in terms of Article 193 paragraph 3 of the Federal Constitution.[^19-1]
 
-[^19-1]: Amended by No I of the Ordinance of 8 Oct. 1999, in force since 1 March 2000 ([AS 2000 411](https://fedlex.data.admin.ch/eli/oc/2000/90)413; [BBl 1999 7922](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784)).
+[^19-1]: Amended by No I of the O of 8 Oct. 1999, in force since 1 March 2000 ([AS 2000 411](https://fedlex.data.admin.ch/eli/oc/2000/90); [BBl 1999 7922](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784)).
 
 #### Art. 20
 
@@ -313,7 +315,7 @@ If lots must be drawn, this takes place in the canton subject to the orders of t
 
 [^20a-1]
 
-[^20a-1]: Inserted by No I of the Federal Act of 18 March 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)). Repealed by No II 4 of the Federal Act of 20. March 2008 on the Formal Revision of Federal Legislation, with effect from 1 Aug. 2008 ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+[^20a-1]: Inserted by No I of the FA of 18 March 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)). Repealed by No II 4 of the Federal Act of 20 March 2008 on the Formal Revision of Federal Legislation, with effect from 1 Aug. 2008 ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
 ### Chapter 2 Elections based on a System of Proportional Representation
 
@@ -329,8 +331,8 @@ If lots must be drawn, this takes place in the canton subject to the orders of t
 
 <sup>3</sup> The cantons shall notify the Federal Chancellery of each candidate list without delay.
 
-[^21-1]: Amended by No I of the Federal Act of 18 March 1994, in force since 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^21-2]: Amended by No I of the Federal Act of 26 Sept. 2014 (National Council elections), in force since 1 Nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+[^21-1]: Amended by No I of the FA of 18 March 1994, in force since 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^21-2]: Amended by No I of the FA of 26 Sept. 2014 (National Council elections), in force since 1 Nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
 
 #### Art. 22
 
@@ -352,8 +354,8 @@ The candidate lists must provide the following details for each candidate:
 
 <sup>3</sup> Each candidate must confirm in writing that they accept their nomination. In the absence of such confirmation, the name of the candidate shall be deleted from the list.[^22-2]
 
-[^22-1]: Amended by No I of the Federal Act of 26 Sept. 2014 (National Council elections), in force since 1 Nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
-[^22-2]: Inserted by No I of the Federal Act of 18 March 1994, in force since 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^22-1]: Amended by No I of the FA of 26 Sept. 2014 (National Council elections), in force since 1 Nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+[^22-2]: Inserted by No I of the FA of 18 March 1994, in force since 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 23
 
@@ -361,11 +363,11 @@ The candidate lists must provide the following details for each candidate:
 
 Each candidate list must bear a designation that is sufficient to distinguish it from other lists. Groups that submit lists of candidates with identical elements in the main designation and that intend to combine such lists shall declare one of these candidate lists to be the parent list.[^23-1]
 
-[^23-1]: Second sentence inserted by No I of the Federal Act of 21 June 2002, in force since 1 Jan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^23-1]: Second sentence inserted by No I of the FA of 21 June 2002, in force since 1 Jan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
 
 #### Art. 24
 
-**Quorum of signatures [^24-1]**
+**Quorum of signatures[^24-1]**
 
 <sup>1</sup>
 
@@ -381,10 +383,10 @@ Each candidate list must be signed by hand by a minimum number of persons who ar
 
 <sup>4</sup> Any party falling within the terms of paragraph 3 above must simply submit the legally valid signatures of all its candidates together with those of its president and secretary.[^24-4]
 
-[^24-1]: Amended by No I of the Federal Act of 18 March 1994, in force since 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^24-2]: Amended by No I of the Federal Act of 18 March 1994, in force since 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^24-3]: Inserted by No I of the Federal Act of 21 June 2002 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)). Amended by No I of the Federal Act of 26 Sept. 2014 (National Council elections), in force since 1 Nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
-[^24-4]: Inserted by No I of the Federal Act of 21 June 2002, in force since 1 Jan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^24-1]: Amended by No I of the FA of 18 March 1994, in force since 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^24-2]: Amended by No I of the FA of 18 March 1994, in force since 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^24-3]: Inserted by No I of the FA of 21 June 2002 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)). Amended by No I of the FA of 26 Sept. 2014 (National Council elections), in force since 1 Nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+[^24-4]: Inserted by No I of the FA of 21 June 2002, in force since 1 Jan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
 
 #### Art. 25
 
@@ -410,13 +412,13 @@ Those eligible to vote in a constituency may inspect the lists of candidates and
 
 <sup>3</sup> The Federal Chancellery shall immediately notify the cantons concerned of the deletions that it has made.
 
-[^27-1]: Amended by No I of the Federal Act of 18 March 1994, in force since 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^27-1]: Amended by No I of the FA of 18 March 1994, in force since 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 28
 
 [^28-1]
 
-[^28-1]: Repealed by No I of the Federal Act of 18 March 1994, with effect from 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^28-1]: Repealed by No I of the FA of 18 March 1994, with effect from 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 29
 
@@ -430,9 +432,9 @@ Those eligible to vote in a constituency may inspect the lists of candidates and
 
 <sup>4</sup> No candidate list may be further amended from the second Monday following the final date for submission of candidate lists. The foregoing does not apply to the official declaration of the invalidity of multiple candidacies subsequently discovered (Art. 32*a*). Cantonal legislation may reduce to one week the period allowed for rectification.[^29-3]
 
-[^29-1]: Amended by No I of the Federal Act of 21 June 1996, in force since 1 April 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^29-2]: Wording of the first two sentences according to No I of the Federal Act of 18 March 1994, in force since 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^29-3]: Amended by No I of the Federal Act of 26 Sept. 2014 (National Council elections), in force since 1 Nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+[^29-1]: Amended by No I of the FA of 21 June 1996, in force since 1 April 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^29-2]: Amended by No I of the FA of 18 March 1994, in force since 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^29-3]: Amended by No I of the FA of 26 Sept. 2014 (National Council elections), in force since 1 Nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
 
 #### Art. 30
 
@@ -454,7 +456,7 @@ Those eligible to vote in a constituency may inspect the lists of candidates and
 
 <sup>3</sup> Declarations relating to electoral list combinations and electoral list sub-combinations may not be revoked.
 
-[^31-1]: Amended by No I of the Federal Act of 18 March 1994, in force since 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^31-1]: Amended by No I of the FA of 18 March 1994, in force since 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 32
 
@@ -464,8 +466,8 @@ Those eligible to vote in a constituency may inspect the lists of candidates and
 
 <sup>2</sup> The Federal Chancellery shall publish the electoral lists in electronic form indicating the official surnames and first names, year of birth, occupation, place of origin and place of residence of the candidates.[^32-2]
 
-[^32-1]: Amended by No I of the Federal Act of 18 March 1994, in force since 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414)2422; [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^32-2]: Inserted by Art. 21 No I of the Publication Act of 18 June 2004, in force since 1 Jan. 2005 ([AS 2004 4929](https://fedlex.data.admin.ch/eli/oc/2004/745); BBl **200****3** 7711). Amended by No I of the Federal Act of 26 Sept. 2014 (National Council elections), in force since 1 Nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+[^32-1]: Amended by No I of the FA of 18 March 1994, in force since 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414)2422; [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^32-2]: Inserted by Art. 21 No I of the Publication Act of 18 June 2004, in force since 1 Jan. 2005 ([AS 2004 4929](https://fedlex.data.admin.ch/eli/oc/2004/745); BBl **200****3** 7711). Amended by No I of the FA of 26 Sept. 2014 (National Council elections), in force since 1 Nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
 
 #### Art. 32a
 
@@ -484,7 +486,7 @@ If a multiple candidacy is discovered following the rectification of the candida
 
 <sup>4</sup> The declaration of the invalidity of a candidacy on lists that have already been published shall be published immediately in electronic form in the Federal Gazette and in the official gazette of all the cantons concerned.
 
-[^32a-1]: Inserted by No I of the Federal Act of 26 Sept. 2014 (National Council elections), in force since 1 Nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+[^32a-1]: Inserted by No I of the FA of 26 Sept. 2014 (National Council elections), in force since 1 Nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
 
 #### Art. 33
 
@@ -498,8 +500,8 @@ If a multiple candidacy is discovered following the rectification of the candida
 
 <sup>3</sup> The signatories may obtain additional pre-printed ballot papers at cost price from the cantonal chancelleries.
 
-[^33-1]: Inserted by No I of the Federal Act of 18 March 1994, in force since 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^33-2]: Amended by No I of the Federal Act of 26 Sept. 2014 (National Council elections), in force since 1 Nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+[^33-1]: Inserted by No I of the FA of 18 March 1994, in force since 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^33-2]: Amended by No I of the FA of 26 Sept. 2014 (National Council elections), in force since 1 Nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
 
 ### Section 2 The Voting Procedure and Establishing the Result
 
@@ -527,7 +529,7 @@ The Federal Chancellery shall issue brief instructions on voting procedures prio
 
 Votes for candidates who have died in the period since the final rectification of any deficiencies in the candidate lists (Art. 29 para. 4) are counted as personal votes for those candidates.
 
-[^36-1]: Amended by No I of the Federal Act of 26 Sept. 2014 (National Council elections), in force since 1 Nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+[^36-1]: Amended by No I of the FA of 26 Sept. 2014 (National Council elections), in force since 1 Nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
 
 #### Art. 37
 
@@ -537,28 +539,30 @@ Votes for candidates who have died in the period since the final rectification o
 
 <sup>2</sup> Where more than one regional list with the same designation has been submitted in any canton, additional votes on a ballot paper that does not designate the region are counted towards the list relating to the region in which the ballot paper is handed in.[^37-1]
 
-<sup>2bis</sup> In the case of the other possible applications of Article 31 paragraph 1<sup>bis</sup>, the additional votes are counted towards the list whose designation is entered on the ballot paper. The additional votes on insufficiently designated ballot papers are counted towards the electoral list that has been declared to be the parent list by the group.[^37-2] [^37-3]
+<sup>2bis</sup> In the case of the other possible applications of Article 31 paragraph 1<sup>bis</sup>, the additional votes are counted towards the list whose designation is entered on the ballot paper.[^37-2] The additional votes on insufficiently designated ballot papers are counted towards the electoral list that has been declared to be the parent list by the group.[^37-3]
 
-<sup>3</sup> Names that do not appear on any electoral list pertaining to the constituency are deleted. …[^37-4]
+<sup>3</sup> Names that do not appear on any electoral list pertaining to the constituency are deleted. ...[^37-4]
 
 <sup>4</sup> Where there is a contradiction between the electoral list designation and the reference number, the electoral list designation shall take precedence.
 
-[^37-1]: Amended by No I of the Federal Act of 18 March 1994, in force since 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^37-2]: Second sentence inserted by No I of the Federal Act of 21 June 2002, in force since 1 Jan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
-[^37-3]: Inserted by No I of the Federal Act of 18 March 1994, in force since 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^37-1]: Amended by No I of the FA of 18 March 1994, in force since 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^37-2]: Inserted by No I of the FA of 18 March 1994, in force since 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^37-3]: Second sentence inserted by No I of the FA of 21 June 2002, in force since 1 Jan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
 [^37-4]: Second and third sentences repealed by No II 4 of the Federal Act of 20 March 2008 on Formal Revision of Federal Legislation, with effect from 1 Aug. 2008 ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
 #### Art. 38
 
 **Invalid ballot papers and candidate votes**
 
-<sup>1</sup> Ballot papers are invalid if they
+<sup>1</sup>
+
+Ballot papers are invalid if they:
 
 - a. do not contain the name of a candidate standing in the constituency;
 - b. are not official;
-- c. have been completed or altered other than by hand;;
+- c. have been completed or altered other than by hand;
 - d. contain defamatory remarks or obviously irrelevant markings;
-- e.[^38-1] …
+- e.[^38-1] ...
 
 <sup>2</sup>
 
@@ -573,11 +577,11 @@ The following shall be deleted from the ballot paper:
 
 <sup>5</sup> In the case of electronic voting pilot schemes, the legislation of each canton conducting such a scheme determines the requirements according to which votes are validly cast and the grounds for invalidity.[^38-5]
 
-[^38-1]: Repealed by No II of the Federal Act of 22 March 1991, with effect from 1 Jul. 1992 ([AS 1991 2388](https://fedlex.data.admin.ch/eli/oc/1991/2388_2388_2388); [BBl 1990 III 445](https://fedlex.data.admin.ch/eli/fga/1990/3_445_429_393)).
-[^38-2]: Amended by No I of the Federal Act of 26 Sept. 2014 (National Council elections), in force since 1 Nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
-[^38-3]: Amended by No I of the Federal Act of 26 Sept. 2014 (National Council elections), in force since 1 Nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
-[^38-4]: Inserted by No I of the Federal Act of 18 March 1994, in force since 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^38-5]: Inserted by No I of the Federal Act of 21 June 2002, in force since 1 Jan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^38-1]: Repealed by No II of the FA of 22 March 1991, with effect from 1 Jul. 1992 ([AS 1991 2388](https://fedlex.data.admin.ch/eli/oc/1991/2388_2388_2388); [BBl 1990 III 445](https://fedlex.data.admin.ch/eli/fga/1990/3_445_429_393)).
+[^38-2]: Amended by No I of the FA of 26 Sept. 2014 (National Council elections), in force since 1 Nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+[^38-3]: Amended by No I of the FA of 26 Sept. 2014 (National Council elections), in force since 1 Nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+[^38-4]: Inserted by No I of the FA of 18 March 1994, in force since 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^38-5]: Inserted by No I of the FA of 21 June 2002, in force since 1 Jan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
 
 #### Art. 39
 
@@ -593,22 +597,22 @@ Following the close of voting, the cantons shall establish the following on the 
 - f. in respect of combined lists, the total of the votes cast in favour of the group on the lists;
 - g. the number of blank votes.
 
-[^39-1]: Amended by No I of the Federal Act of 21 June 2002, in force since 1 Jan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
-[^39-2]: Amended by No I of the Federal Act of 21 June 2002, in force since 1 Jan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^39-1]: Amended by No I of the FA of 21 June 2002, in force since 1 Jan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^39-2]: Amended by No I of the FA of 21 June 2002, in force since 1 Jan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
 
 #### Art. 40
 
-**Initial allocation of mandates to the electoral lists [^40-1]**
+**Initial allocation of mandates to the electoral lists[^40-1]**
 
 <sup>1</sup> The number of valid party votes for all the electoral lists is divided by a number equivalent to the number of mandates to be allocated plus one. To obtain the allocation number, the result is rounded up to the nearest whole number, unless it is already a whole number, in which case it is increased to the next highest whole number.[^40-2]
 
 <sup>2</sup> Each electoral list shall be allocated as many mandates as the number obtained by dividing the number of votes cast in favour of the list by the allocation number.
 
-<sup>3</sup> …[^40-3]
+<sup>3</sup> ...[^40-3]
 
-[^40-1]: Amended by No I of the Federal Act of 18 March 1994, in force since 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^40-2]: Amended by No I of the Federal Act of 18 March 1994, in force since 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^40-3]: Repealed by No I of the Federal Act of 18 March 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^40-1]: Amended by No I of the FA of 18 March 1994, in force since 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^40-2]: Amended by No I of the FA of 18 March 1994, in force since 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^40-3]: Repealed by No I of the FA of 18 March 1994 , with effect from 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 41
 
@@ -618,16 +622,16 @@ Following the close of voting, the cantons shall establish the following on the 
 
 Where not all of the mandates have been allocated, the mandates remaining shall be allocated individually and one after the other according to the following rules:
 
-- a. the number of votes cast in favour of each electoral list is divided by a number equivalent to the number of mandates already allocated to that list plus one.
-- b. the next mandate is allocated to the electoral list that has the largest quotient.
-- c. if more than one list is entitled to the next mandate as they have the same quotient, then the next mandate is allocated to the list that achieved the highest remainder in the division according to Article 40 paragraph 2.
-- d. if there are still two or more lists with the same right to the mandate, the mandate goes to the list that has obtained the highest number of party votes.
-- e. if more than one list still has the same right to the mandate, the first mandate is allocated to the list whose candidate for the mandate has obtained the highest number of votes.
+- a. the number of votes cast in favour of each electoral list is divided by a number equivalent to the number of mandates already allocated to that list plus one;
+- b. the next mandate is allocated to the electoral list that has the largest quotient;
+- c. if more than one list is entitled to the next mandate as they have the same quotient, then the next mandate is allocated to the list that achieved the highest remainder in the division according to Article 40 paragraph 2;
+- d. if there are still two or more lists with the same right to the mandate, the mandate goes to the list that has obtained the highest number of party votes;
+- e. if more than one list still has the same right to the mandate, the first mandate is allocated to the list whose candidate for the mandate has obtained the highest number of votes;
 - f. if more than one candidate has obtained the same highest number of votes, the mandate is allocated by drawing lots.
 
 <sup>2</sup> This procedure is repeated until all the mandates have been allocated.
 
-[^41-1]: Amended by No I of the Federal Act of 18 March 1994, in force since 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^41-1]: Amended by No I of the FA of 18 March 1994, in force since 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 42
 
@@ -637,7 +641,7 @@ Where not all of the mandates have been allocated, the mandates remaining shall 
 
 <sup>2</sup> Mandates shall be allocated to the individual lists within a group according to Articles 40 and 41. Article 37 paragraphs 2 and 2<sup>bis</sup> remain reserved.[^42-1]
 
-[^42-1]: Amended by No I of the Federal Act of 18 March 1994, in force since 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^42-1]: Amended by No I of the FA of 18 March 1994, in force since 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 43
 
@@ -663,7 +667,7 @@ Where any list is allocated more mandates than it has candidates, a supplementar
 
 <sup>2</sup> Where all the lists when taken together contain fewer candidates than there are mandates to be allocated, supplementary elections shall be held in accordance with Article 56 paragraph 3 in respect of the mandates that cannot be allocated.
 
-[^45-1]: Amended by No I of the Federal Act of 18 March 1994, in force since 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^45-1]: Amended by No I of the FA of 18 March 1994, in force since 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 46
 
@@ -675,7 +679,7 @@ Where any list is allocated more mandates than it has candidates, a supplementar
 
 <sup>3</sup> The provisions that apply to constituencies that return only one member also apply by analogy.
 
-[^46-1]: Amended by No I of the Federal Act of 18 March 1994, in force since 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^46-1]: Amended by No I of the FA of 18 March 1994, in force since 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 ### Chapter 3 Simple Majority System
 
@@ -694,13 +698,13 @@ The canton may publish electronically and in the cantonal gazette all candidacie
 - c. sex;
 - d. home address including postcode;
 - e. place and canton of origin;
-- f. party or political group affiliation: and
+- f. party or political group affiliation; and
 - g. occupation.[^47-1]
 
 <sup>2</sup> Cantonal legislation may provide for a tacit election where only one valid nomination has been submitted to the responsible cantonal authority by 12.00 noon on the forty-eighth day (seventh Monday) prior to the election.[^47-2]
 
-[^47-1]: Inserted by No I of the Federal Act of 26 Sept. 2014 (National Council elections), in force since 1 Nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
-[^47-2]: Inserted by No I of the Federal Act of 18 March 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)). Amended by No I 1 of the Federal Act of 23 March 2007 on the Amendment of the Federal Legislation on Political Rights, in force since 1 Jan. 2008 ([AS 2007 4635](https://fedlex.data.admin.ch/eli/oc/2007/649); [BBl 2006 5261](https://fedlex.data.admin.ch/eli/fga/2006/639)).
+[^47-1]: Inserted by No I of the FA of 26 Sept. 2014 (National Council elections), in force since 1 Nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+[^47-2]: Inserted by No I of the FA of 18 March 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)). Amended by No I 1 of the Federal Act of 23 March 2007 on the Amendment of the Federal Legislation on Political Rights, in force since 1 Jan. 2008 ([AS 2007 4635](https://fedlex.data.admin.ch/eli/oc/2007/649); [BBl 2006 5261](https://fedlex.data.admin.ch/eli/fga/2006/639)).
 
 #### Art. 48
 
@@ -708,27 +712,29 @@ The canton may publish electronically and in the cantonal gazette all candidacie
 
 The cantons shall arrange for a ballot paper to be delivered to each person eligible to vote at least three weeks and no more than four weeks prior to the polling day.
 
-[^48-1]: Amended by No I of the Federal Act of 26 Sept. 2014 (National Council elections), in force since 1 Nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+[^48-1]: Amended by No I of the FA of 26 Sept. 2014 (National Council elections), in force since 1 Nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
 
 #### Art. 49
 
 **Invalid ballot papers**
 
-<sup>1</sup> Ballot papers are deemed invalid if they
+<sup>1</sup>
+
+Ballot papers are deemed invalid if they:
 
 - a. contain the names of more than one person;
 - b. are not official;
 - c. have been completed other than by hand;
 - d. contain defamatory remarks or obviously irrelevant markings;
-- e.[^49-1] …
+- e.[^49-1] ...
 
 <sup>2</sup> Grounds for invalidity or nullity that relate to the cantonal procedure (official voting envelope, validation stamp, etc.) remain reserved.[^49-2]
 
 <sup>3</sup> In the case of electronic voting pilot schemes, the legislation of each canton conducting such a scheme determines the requirements according to which votes are validly cast and the grounds for invalidity.[^49-3]
 
-[^49-1]: Repealed by No II of the Federal Act of 22 March 1991, with effect from 1 Jul 1992 ([AS 1991 2388](https://fedlex.data.admin.ch/eli/oc/1991/2388_2388_2388); [BBl 1990 III 445](https://fedlex.data.admin.ch/eli/fga/1990/3_445_429_393)).
-[^49-2]: Inserted by No I of the Federal Act of 18 March 1994, in force since 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^49-3]: Inserted by No I of the Federal Act of 21 June 2002, in force since 1 Jan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^49-1]: Repealed by No II of the FA of 22 March 1991, with effect from 1 Jul 1992 ([AS 1991 2388](https://fedlex.data.admin.ch/eli/oc/1991/2388_2388_2388); [BBl 1990 III 445](https://fedlex.data.admin.ch/eli/fga/1990/3_445_429_393)).
+[^49-2]: Inserted by No I of the FA of 18 March 1994, in force since 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^49-3]: Inserted by No I of the FA of 21 June 2002, in force since 1 Jan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
 
 #### Art. 50
 
@@ -753,7 +759,7 @@ The following are invalid:
 
 Articles 47–49 also apply to by-elections.
 
-[^51-1]: Amended by No I of the Federal Act of 18 March 1994, in force since 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^51-1]: Amended by No I of the FA of 18 March 1994, in force since 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 ### Chapter 4 Publication and Validation of Election Results
 
@@ -765,14 +771,14 @@ Articles 47–49 also apply to by-elections.
 
 <sup>2</sup> The canton shall publish the results obtained by each candidate and, where applicable, each list in the official cantonal gazette within eight days of the polling day at the latest, making reference to the right to contest the result.[^52-1]
 
-<sup>3</sup> The results of general, supplementary and by-elections shall be published in the Federal Gazette. They shall also be published in full in the online version of the Federal Gazette.[^52-2] [^52-3]
+<sup>3</sup> The results of general, supplementary and by-elections shall be published in the Federal Gazette.[^52-2] They shall also be published in full in the online version of the Federal Gazette.[^52-3]
 
 <sup>4</sup> The canton shall send the election report to the Federal Chancellery immediately following the expiry of the period allowed for lodging an appeal contesting the election (Art. 77 para. 2). The ballot papers shall be delivered to the location appointed by the Federal Chancellery within ten days of the expiry of the period allowed for lodging an appeal contesting the election.[^52-4]
 
-[^52-1]: Amended by No I of the Federal Act of 21 June 2002, in force since 1 Jan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
-[^52-2]: Second sentence inserted by Art. 21 No 1 of the Publication Act of 18 June 2004, in force since 1 Jan. 2005 ([AS 2004 4929](https://fedlex.data.admin.ch/eli/oc/2004/745); BBl **200****3** 7711).
-[^52-3]: Inserted by Art. 17 No 1 of the Federal Act of 21 March 1986 on the Compilations of Legislation and the Official Federal Gazette, in force since 15 May 1987 ([AS 1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600); BBl **1983** II 429).
-[^52-4]: Inserted by No I of the Federal Act of 18 March 1994, in force since 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^52-1]: Amended by No I of the FA of 21 June 2002, in force since 1 Jan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^52-2]: Inserted by Art. 17 No 1 of the Federal Act of 21 March 1986 on the Compilations of Legislation and the Official Federal Gazette, in force since 15 May 1987 ([AS 1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600); [BBl 1983 III 429](https://fedlex.data.admin.ch/eli/fga/1983/3_429_441_333)).
+[^52-3]: Second sentence inserted by Art. 21 No 1 of the Publication Act of 18 June 2004, in force since 1 Jan. 2005 ([AS 2004 4929](https://fedlex.data.admin.ch/eli/oc/2004/745); BBl **200****3** 7711).
+[^52-4]: Inserted by No I of the FA of 18 March 1994, in force since 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 53
 
@@ -784,8 +790,8 @@ Articles 47–49 also apply to by-elections.
 
 <sup>3</sup> In the event of substitution or of by-elections or supplementary elections, a newly elected member may participate in the sitting only if their election has been declared to be valid.[^53-2]
 
-[^53-1]: Amended by No I of the Federal Act of 21 June 2002, in force since 1 Jan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
-[^53-2]: Amended by No I of the Federal Act of 18 March 1994, in force since 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^53-1]: Amended by No I of the FA of 21 June 2002, in force since 1 Jan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^53-2]: Amended by No I of the FA of 18 March 1994, in force since 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 ### Chapter 5 Changes during the Legislative Period
 
@@ -813,9 +819,9 @@ Notice of resignation from the National Council must be given in writing to the 
 
 <sup>3</sup> Where the right to nominate a candidate is not exercised, a popular election shall be held.[^56-3] This election is based on the simple majority election system unless more than one seat has to be filled, in which case the provisions on the system of proportional representation apply.
 
-[^56-1]: Amended by No I of the Federal Act of 21 June 2002, in force since 1 Jan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
-[^56-2]: Amended by No I of the Federal Act of 18 March 1994, in force since 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^56-3]: Amended by No I of Federal Act of 21 June 2002, in force since 1 Jan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^56-1]: Amended by No I of the FA of 21 June 2002, in force since 1 Jan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^56-2]: Amended by No I of the FA of 18 March 1994, in force since 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^56-3]: Amended by No I of FA of 21 June 2002, in force since 1 Jan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
 
 #### Art. 57
 
@@ -823,13 +829,13 @@ Notice of resignation from the National Council must be given in writing to the 
 
 The legislative period of the National Council ends on the constitution of the newly elected National Council.
 
-[^57-1]: Amended by No I of the Federal Act of 18 March 1994, in force since 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^57-1]: Amended by No I of the FA of 18 March 1994, in force since 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
-## Title 4**** The Referendum
+## Title 4 The Referendum
 
 [^tit4-1]
 
-[^tit4-1]: The provisions of the 4<sup>th</sup> Title (Art. 59–67) of the Act revised by the Federal Act of 21 June 1996 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753)) apply only to legislation passed by the Federal Assembly after 31 March 1997 ([AS 1997 760](https://fedlex.data.admin.ch/eli/oc/1997/760_760_760)Art. 2 para. 1).
+[^tit4-1]: The provisions of the 4<sup>th</sup> Title (Art. 59–67) of the Act revised by the FA of 21 June 1996 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753)) apply only to legislation passed by the Federal Assembly after 31 March 1997 ([AS 1997 760](https://fedlex.data.admin.ch/eli/oc/1997/760_760_760)Art. 2 para. 1).
 
 ### Chapter 1 Mandatory Referendum
 
@@ -841,11 +847,11 @@ Enactments that are subject to a mandatory referendum shall be published followi
 
 ### Chapter 2 The Optional Referendum
 
-### Section 1 General****
+### Section 1 General
 
 [^tit4-chap2-sec1-1]
 
-[^tit4-chap2-sec1-1]: Inserted by No I of the Federal Act of 21 June 1996, in force since 1 April 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^tit4-chap2-sec1-1]: Inserted by No I of the FA of 21 June 1996, in force since 1 April 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 59
 
@@ -859,7 +865,7 @@ Enactments that are subject to a mandatory referendum shall be published followi
 
 The request for a referendum must be submitted to the Federal Chancellery before expiry of the referendum period, either with the support of the number of cantons required by the Constitution or furnished with the required number of signatures and the certificates of eligibility to vote.
 
-[^59a-1]: Inserted by No I of the Federal Act of 21 June 1996, in force since 1 April 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^59a-1]: Inserted by No I of the FA of 21 June 1996, in force since 1 April 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 59b
 
@@ -867,7 +873,7 @@ The request for a referendum must be submitted to the Federal Chancellery before
 
 A request for a referendum may not be withdrawn.
 
-[^59b-1]: Inserted by No I of the Federal Act of 21 June 1996, in force since 1 April 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^59b-1]: Inserted by No I of the FA of 21 June 1996, in force since 1 April 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 59c
 
@@ -875,13 +881,13 @@ A request for a referendum may not be withdrawn.
 
 If the request for a referendum is successful, the Federal Council shall order the organisation of a popular vote.
 
-[^59c-1]: Inserted by No I of the Federal Act of 21 June 1996, in force since 1 April 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^59c-1]: Inserted by No I of the FA of 21 June 1996, in force since 1 April 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
-### Section 2 The Popular Referendum****
+### Section 2 The Popular Referendum
 
 [^tit4-chap2-sec2-1]
 
-[^tit4-chap2-sec2-1]: Inserted by No I of the Federal Act of 21 June 1996, in force since 1 April 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^tit4-chap2-sec2-1]: Inserted by No I of the FA of 21 June 1996, in force since 1 April 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 60
 
@@ -897,10 +903,10 @@ The signature list (on forms, sheets of paper or cards) used by those requesting
 
 <sup>2</sup> Where more than one request for a referendum is submitted for signature, each request shall be the subject of a separate signature list. Signature lists for more than one request for a referendum may appear on the same page provided that it is possible to separate each signature list for the purpose of its submission.[^60-4]
 
-[^60-1]: Amended by No I of the Federal Act of 21 June 1996, in force since 1 April 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^60-2]: Amended by No I of the Federal Act of 21 June 1996, in force since 1 April 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^60-3]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^60-4]: Inserted by No I of the Federal Act of 21 June 1996, in force since 1 April 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^60-1]: Amended by No I of the FA of 21 June 1996, in force since 1 April 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^60-2]: Amended by No I of the FA of 21 June 1996, in force since 1 April 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^60-3]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^60-4]: Inserted by No I of the FA of 21 June 1996, in force since 1 April 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 60a
 
@@ -908,7 +914,7 @@ The signature list (on forms, sheets of paper or cards) used by those requesting
 
 Any person who downloads a signature list for requesting a referendum that has been made available online is responsible for ensuring that the signature list satisfies all the formal legal requirements.
 
-[^60a-1]: Inserted by No I of the Federal Act of 21 June 2002, in force since 1 Jan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^60a-1]: Inserted by No I of the FA of 21 June 2002, in force since 1 Jan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
 
 #### Art. 61
 
@@ -922,9 +928,9 @@ Any person who downloads a signature list for requesting a referendum that has b
 
 <sup>3</sup> They may only sign the same request for a referendum once.
 
-[^61-1]: Amended by No I of the Federal Act of 26 Sept. 2014 (National Council elections), in force since 1 Nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
-[^61-2]: Inserted by No I of the Federal Act of 21 June 1996, in force since 1 April 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^61-3]: Amended by No I of the Federal Act of 26 Sept. 2014 (National Council elections), in force since 1 Nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+[^61-1]: Amended by No I of the FA of 26 Sept. 2014 (National Council elections), in force since 1 Nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+[^61-2]: Inserted by No I of the FA of 21 June 1996, in force since 1 April 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^61-3]: Amended by No I of the FA of 26 Sept. 2014 (National Council elections), in force since 1 Nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
 
 #### Art. 62
 
@@ -938,7 +944,7 @@ Any person who downloads a signature list for requesting a referendum that has b
 
 <sup>4</sup> The eligibility to vote of the signatories may be certified collectively for more than one signature list.
 
-[^62-1]: Amended by No I of the Federal Act of 26 Sept. 2014 (National Council elections), in force since 1 Nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+[^62-1]: Amended by No I of the FA of 26 Sept. 2014 (National Council elections), in force since 1 Nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
 
 #### Art. 63
 
@@ -954,18 +960,18 @@ Any person who downloads a signature list for requesting a referendum that has b
 
 **Prohibition of inspection[^64-1]**
 
-<sup>1</sup> …[^64-2]
+<sup>1</sup> ...[^64-2]
 
 <sup>2</sup> Signature lists that have been submitted are not returned and may not be inspected.
 
-[^64-1]: Amended by No I of the Federal Act of 21 June 1996, in force since 1 April 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^64-2]: Repealed by No I of the Federal Act of 21 June 1996, with effect from 1 May 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^64-1]: Amended by No I of the FA of 21 June 1996, in force since 1 April 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^64-2]: Repealed by No I of the FA of 21 June 1996, with effect from 1 May 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 65
 
 [^65-1]
 
-[^65-1]: Repealed by No I of the Federal Act of 21 June 1996, with effect from 1 May 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^65-1]: Repealed by No I of the FA of 21 June 1996, with effect from 1 May 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 66
 
@@ -983,16 +989,16 @@ The following are invalid:
 
 <sup>3</sup> The Federal Chancellery shall publish the ruling on the success of the referendum request in the Federal Gazette together with details of the numbers of valid and invalid signatures for each canton.[^66-4]
 
-[^66-1]: Amended by No I of the Federal Act of 21 June 1996, in force since 1 April 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^66-2]: Amended by No I of the Federal Act of 21 June 2002, in force since 1 Jan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
-[^66-3]: Amended by No I of the Federal Act of 21 June 2002, in force since 1 Jan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
-[^66-4]: Amended by No II 4 of the Federal Act of 20 March 2008 on Formal Revision of Federal Legislation, in force since 1. Aug. 2008 ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447), [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+[^66-1]: Amended by No I of the FA of 21 June 1996, in force since 1 April 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^66-2]: Amended by No I of the FA of 21 June 2002, in force since 1 Jan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^66-3]: Amended by No I of the FA of 21 June 2002, in force since 1 Jan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^66-4]: Amended by No II 4 of the Federal Act of 20 March 2008 on Formal Revision of Federal Legislation, in force since 1 Aug. 2008 ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447), [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
-### Section 3 Referendum requested by the Cantons****
+### Section 3 Referendum requested by the Cantons
 
 [^tit4-chap2-sec3-1]
 
-[^tit4-chap2-sec3-1]: Inserted by No I of the Federal Act of 21 June 1996, in force since 1 April 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^tit4-chap2-sec3-1]: Inserted by No I of the FA of 21 June 1996, in force since 1 April 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 67
 
@@ -1000,7 +1006,7 @@ The following are invalid:
 
 Unless cantonal law provides otherwise, the cantonal parliament shall decide whether a referendum should be requested by a canton.
 
-[^67-1]: Amended by No I of the Federal Act of 21 June 1996, in force since 1 April 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^67-1]: Amended by No I of the FA of 21 June 1996, in force since 1 April 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 67a
 
@@ -1013,7 +1019,7 @@ The communication from the cantonal government to the Federal Chancellery shall 
 - c. the provisions under cantonal law that regulate the rights to request a referendum;
 - d. the date and result of the vote on the decision to request a referendum.
 
-[^67a-1]: Inserted by No I of the Federal Act of 21 June 1996, in force since 1 April 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^67a-1]: Inserted by No I of the FA of 21 June 1996, in force since 1 April 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 67b
 
@@ -1031,14 +1037,14 @@ A request for a referendum is declared invalid if:
 
 <sup>3</sup> The Federal Chancellery shall provide written notification of the ruling on the success or failure of the request for a referendum by the cantons to the governments of all those cantons that have requested the referendum, and shall publish the ruling in the Federal Gazette, giving details of the number of valid and invalid cantonal requests for a referendum.
 
-[^67b-1]: Inserted by No I of the Federal Act of 21 June 1996, in force since 1 April 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^67b-2]: Amended by No I of the Federal Act of 21 June 2002, in force since 1 Jan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^67b-1]: Inserted by No I of the FA of 21 June 1996, in force since 1 April 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^67b-2]: Amended by No I of the FA of 21 June 2002, in force since 1 Jan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
 
-## Title 5**** The Popular Initiative
+## Title 5 The Popular Initiative
 
 [^tit5-1]
 
-[^tit5-1]: The provisions of the 5<sup>th</sup> Title (Art. 68–74) of the Act revised by the Federal Act of 21 June 1996 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753)) apply only to popular initiatives where the collection of signatures began after 31 March 1997 ([AS 1997 760](https://fedlex.data.admin.ch/eli/oc/1997/760_760_760)Art. 2 para. 2).
+[^tit5-1]: The provisions of the 5<sup>th</sup> Title (Art. 68–74) of the Act revised by the FA of 21 June 1996 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753)) apply only to popular initiatives where the collection of signatures began after 31 March 1997 ([AS 1997 760](https://fedlex.data.admin.ch/eli/oc/1997/760_760_760)Art. 2 para. 2).
 
 #### Art. 68
 
@@ -1049,20 +1055,20 @@ A request for a referendum is declared invalid if:
 The signature list (on forms, sheets of paper or cards) that is used to collect signatures for a popular initiative must contain the following information:[^68-1]
 
 - a. the canton and the political commune in which the signatory is eligible to vote;
-- [tab] b.[^68-2] the title and text of the initiative, together with the date of its publication in the Federal Gazette;
+- b.[^68-2] the title and text of the initiative, together with the date of its publication in the Federal Gazette;
 - c.[^68-3] a withdrawal clause within the meaning of Article 73;
-- [tab] d.[^68-4] reference to the fact that Any person who falsifies the result of a signature collection for a popular initiative (Art. 282 SCC[^68-5]) or who offers or accepts bribes in connection with a signature collection (Art. 281 SCC) commits an offence;
-- [tab] e.[^68-6] the names and addresses of at least seven and no more than 27 authors of the initiative, all of whom must be eligible to vote (the initiative committee).
+- d.[^68-4] reference to the fact that Any person who falsifies the result of a signature collection for a popular initiative (Art. 282 SCC[^68-5]) or who offers or accepts bribes in connection with a signature collection (Art. 281 SCC) commits an offence;
+- e.[^68-6] the names and addresses of at least seven and no more than 27 authors of the initiative, all of whom must be eligible to vote (the initiative committee).
 
 <sup>2</sup> Article 60 paragraph 2 also applies to popular initiatives.[^68-7]
 
-[^68-1]: Amended by No I of the Federal Act of 21 June 1996, in force since 1 April 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^68-2]: Amended by No I of the Federal Act of 21 June 1996, in force since 1 April 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^68-1]: Amended by No I of the FA of 21 June 1996, in force since 1 April 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^68-2]: Amended by No I of the FA of 21 June 1996, in force since 1 April 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 [^68-3]: Amended by No I of the Federal Act of 25 Sept. 2009 (Conditional Withdrawal of a Popular Initiative), in force since 1 Feb. 2010 ([AS 2010 271](https://fedlex.data.admin.ch/eli/oc/2010/35); [BBl 2009 3591](https://fedlex.data.admin.ch/eli/fga/2009/699)[3609](https://fedlex.data.admin.ch/eli/fga/2009/701)).
-[^68-4]: Amended by No I of the Federal Act of 21 June 1996, in force since 1 April 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^68-5]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^68-6]: Amended by No I of the Federal Act of 21 June 1996, in force since 1 April 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^68-7]: Inserted by No I of the Federal Act of 21 June 1996, in force since 1 April 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^68-4]: Amended by No I of the FA of 21 June 1996, in force since 1 April 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^68-5]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^68-6]: Amended by No I of the FA of 21 June 1996, in force since 1 April 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^68-7]: Inserted by No I of the FA of 21 June 1996, in force since 1 April 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 69
 
@@ -1076,8 +1082,8 @@ The signature list (on forms, sheets of paper or cards) that is used to collect 
 
 <sup>4</sup> The title and text of the initiative, together with the names of the authors shall be published in the Federal Gazette.[^69-2]
 
-[^69-1]: Amended by No I of the Federal Act of 21 June 1996, in force since 1 April 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^69-2]: Amended by No I of the Federal Act of 21 June 1996, in force since 1 April 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^69-1]: Amended by No I of the FA of 21 June 1996, in force since 1 April 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^69-2]: Amended by No I of the FA of 21 June 1996, in force since 1 April 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 69a
 
@@ -1085,7 +1091,7 @@ The signature list (on forms, sheets of paper or cards) that is used to collect 
 
 Any person who downloads a signature list for a popular initiative that has been made available online is responsible for ensuring that the signature list satisfies all the formal legal requirements.
 
-[^69a-1]: Inserted by No I of the Federal Act of 21 June 2002, in force since 1 Jan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^69a-1]: Inserted by No I of the FA of 21 June 2002, in force since 1 Jan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
 
 #### Art. 70
 
@@ -1093,7 +1099,7 @@ Any person who downloads a signature list for a popular initiative that has been
 
 The provisions laid down for referendums relating to signatures (Art. 61), the certificate of eligibility to vote (Art. 62) and the refusal of a certificate of eligibility to vote (Art. 63) apply by analogy to popular initiatives.
 
-[^70-1]: Amended by No I of the Federal Act of 21 June 1996, in force since 1 April 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^70-1]: Amended by No I of the FA of 21 June 1996, in force since 1 April 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 71
 
@@ -1117,10 +1123,10 @@ The following are invalid:
 - b. signatures of signatories whose eligibility to vote is not certified;
 - c. signatures on lists that have been submitted after the period allowed for the collection of signatures.[^72-2]
 
-<sup>3</sup> The Federal Chancellery shall publishes the ruling on the success of the initiative in the Federal Gazette together with details of the numbers of valid and invalid signatures for each canton.
+<sup>3</sup> The Federal Chancellery shall publish the ruling on the success of the initiative in the Federal Gazette together with details of the numbers of valid and invalid signatures for each canton.
 
-[^72-1]: Amended by No I of the Federal Act of 21 June 1996, in force since 1 April 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^72-2]: Amended by No I of the Federal Act of 21 June 2002, in force since 1 Jan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^72-1]: Amended by No I of the FA of 21 June 1996, in force since 1 April 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^72-2]: Amended by No I of the FA of 21 June 2002, in force since 1 Jan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
 
 #### Art. 73
 
@@ -1132,7 +1138,7 @@ The following are invalid:
 
 <sup>3</sup> An initiative in the form of a general proposal may not be withdrawn after its approval by the Federal Assembly.
 
-[^73-1]: Amended by No I of the Federal Act of 21 June 1996, in force since 1 April 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^73-1]: Amended by No I of the FA of 21 June 1996, in force since 1 April 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 73a
 
@@ -1150,17 +1156,17 @@ The conditional withdrawal becomes effective as soon as:
 - b. a legally binding declaration has been made that the request for a referendum against the indirect counter-proposal has failed; or
 - c. the Federal Council has, in accordance with Article 15 paragraph 1, validated the result of the popular vote where a request for a referendum has succeeded and the People have voted for the indirect counter-proposal.
 
-[^73a-1]: Inserted by No I of the Federal Act of 25 Sept. 2009 (Conditional Withdrawal of a Popular Initiative), in force since 1 Feb. 2010 ([AS 2010 271](https://fedlex.data.admin.ch/eli/oc/2010/35); [BBl 2009 3591](https://fedlex.data.admin.ch/eli/fga/2009/699)[3609](https://fedlex.data.admin.ch/eli/fga/2009/701)).
+[^73a-1]: Inserted by No I of the FA of 25 Sept. 2009 (Conditional Withdrawal of a Popular Initiative), in force since 1 Feb. 2010 ([AS 2010 271](https://fedlex.data.admin.ch/eli/oc/2010/35); [BBl 2009 3591](https://fedlex.data.admin.ch/eli/fga/2009/699)[3609](https://fedlex.data.admin.ch/eli/fga/2009/701)).
 
 #### Art. 74
 
 [^74-1]
 
-[^74-1]: Repealed by No I of the Federal Act of 25. Sept. 2009 (Conditional Withdrawal of a Popular Initiative), with effect from 1 Feb. 2010 ([AS 2010 271](https://fedlex.data.admin.ch/eli/oc/2010/35); [BBl 2009 3591](https://fedlex.data.admin.ch/eli/fga/2009/699)[3609](https://fedlex.data.admin.ch/eli/fga/2009/701)).
+[^74-1]: Repealed by No I of the FA of 25 Sept. 2009 (Conditional Withdrawal of a Popular Initiative), with effect from 1 Feb. 2010 ([AS 2010 271](https://fedlex.data.admin.ch/eli/oc/2010/35); [BBl 2009 3591](https://fedlex.data.admin.ch/eli/fga/2009/699)[3609](https://fedlex.data.admin.ch/eli/fga/2009/701)).
 
 #### Art. 75
 
-**Examination of validity [^75-1]**
+**Examination of validity[^75-1]**
 
 <sup>1</sup> If the text of a popular initiative fails to comply with the principles of cohesion of subject matter (Art. 139 para. 3 and Art. 194 para. 2 Federal Constitution) or consistency of form (Art. 139 para. 3 and Art. 194 para. 3 Federal Constitution), or if the popular initiative violates mandatory provisions of international law (Art. 139 para. 3, Art. 193 para. 4 and Art. 194 para. 2 Federal Constitution), the Federal Assembly shall declare the initiative to be invalid as a whole or in part, to the extent that this is required.[^75-2]
 
@@ -1168,8 +1174,8 @@ The conditional withdrawal becomes effective as soon as:
 
 <sup>3</sup> There is consistency of form in a popular initiative when the initiative is couched exclusively in the form of a general proposal or of a specific draft provision.
 
-[^75-1]: Amended by No I of the Federal Act of 21 June 2002, in force since 1 Jan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
-[^75-2]: Amended by No I of the Ordinance of 8 Oct. 1999, in force since 1 March 2000 ([AS 2000 411](https://fedlex.data.admin.ch/eli/oc/2000/90); [BBl 1999 7922](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784)).
+[^75-1]: Amended by No I of the FA of 21 June 2002, in force since 1 Jan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^75-2]: Amended by No I of the O of 8 Oct. 1999, in force since 1 March 2000 ([AS 2000 411](https://fedlex.data.admin.ch/eli/oc/2000/90); [BBl 1999 7922](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784)).
 
 #### Art. 75a
 
@@ -1177,17 +1183,17 @@ The conditional withdrawal becomes effective as soon as:
 
 <sup>1</sup> The Federal Council shall submit the popular initiative to a popular vote within ten months of the final vote thereon in the Federal Assembly, but at the latest ten months after expiry of the statutory period allowed for Parliament to consider the popular vote.
 
-<sup>2</sup> In the event of a conditional withdrawal in favour of an indirect counter-proposal, the Federal Council shall submit the popular initiative to the vote of the People and the cantons within ten months of its validation in accordance with Article 15 paragraph 1 of the result of the popular vote rejecting the indirect counter-proposal.
+<sup>2</sup> In the event of a conditional withdrawal in favour of an indirect counter-proposal, the Federal Council shall submit the popular initiative to a popular vote and the cantons within ten months of its validation in accordance with Article 15 paragraph 1 of the result of the popular vote rejecting the indirect counter-proposal.
 
-<sup>3</sup> If a popular initiative in the form of a general proposal is approved, the draft amendment to the Constitution shall be submitted to a vote of the People and the cantons within ten months of the final vote in the Federal Assembly.
+<sup>3</sup> If a popular initiative in the form of a general proposal is approved, the draft amendment to the Constitution shall be submitted to a popular vote and the cantons within ten months of the final vote in the Federal Assembly.
 
 <sup>3bis</sup> The time limits in paragraphs 1–3 shall be extended by six months if they begin less than ten months but more than three months before the next general election to the National Council.[^75a-2]
 
 <sup>4</sup> The procedure for dealing with a popular initiative to be followed by the Federal Council and the Federal Assembly and the deadlines that must be observed are governed by the provisions of the Parliament Act of 13 December 2002[^75a-3].
 
-[^75a-1]: Inserted by No I of the Federal Act of 25. Sept. 2009 (Conditional Withdrawal of a Popular Initiative), in force since 1 Feb. 2010 ([AS 2010 271](https://fedlex.data.admin.ch/eli/oc/2010/35); [BBl 2009 3591](https://fedlex.data.admin.ch/eli/fga/2009/699)[3609](https://fedlex.data.admin.ch/eli/fga/2009/701)).
-[^75a-2]: Inserted by No I of the Federal Act of 26 Sept. 2014 (National Council Elections), in force since 1 March 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
-[^75a-3]: [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
+[^75a-1]: Inserted by No I of the FA of 25 Sept. 2009 (Conditional Withdrawal of a Popular Initiative), in force since 1 Feb. 2010 ([AS 2010 271](https://fedlex.data.admin.ch/eli/oc/2010/35); [BBl 2009 3591](https://fedlex.data.admin.ch/eli/fga/2009/699)[3609](https://fedlex.data.admin.ch/eli/fga/2009/701)).
+[^75a-2]: Inserted by No I of the FA of 26 Sept. 2014 (National Council Elections), in force since 1 March 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+[^75a-3]: [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)
 
 #### Art. 76
 
@@ -1205,14 +1211,14 @@ Where the Federal Assembly decides to submit a counter-proposal, three questions
 
 <sup>3</sup> Where both the popular initiative and the counter-proposal are accepted, the result of the third question shall be decisive. The proposal that secures a higher number of popular votes and a higher number of cantonal votes shall become law.
 
-[^76-1]: Amended by No I of the Ordinance of 8 Oct. 1999, in force since 1 March 2000 ([AS 2000 411](https://fedlex.data.admin.ch/eli/oc/2000/90); [BBl 1999 7922](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784)).
-[^76-2]: Inserted by No I of the Federal Act of 25 Sept. 2009 (Conditional Withdrawal of a Popular Initiative), in force since 1 Feb. 2010 ([AS 2010 271](https://fedlex.data.admin.ch/eli/oc/2010/35); [BBl 2009 3591](https://fedlex.data.admin.ch/eli/fga/2009/699)[3609](https://fedlex.data.admin.ch/eli/fga/2009/701)).
+[^76-1]: Amended by No I of the O of 8 Oct. 1999, in force since 1 March 2000 ([AS 2000 411](https://fedlex.data.admin.ch/eli/oc/2000/90); [BBl 1999 7922](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784)).
+[^76-2]: Inserted by No I of the FA of 25 Sept. 2009 (Conditional Withdrawal of a Popular Initiative), in force since 1 Feb. 2010 ([AS 2010 271](https://fedlex.data.admin.ch/eli/oc/2010/35); [BBl 2009 3591](https://fedlex.data.admin.ch/eli/fga/2009/699)[3609](https://fedlex.data.admin.ch/eli/fga/2009/701)).
 
-## Title 5*a***** Register of Political Parties
+## Title 5*a* Register of Political Parties
 
 [^tit5a-1]
 
-[^tit5a-1]: Inserted by No I of the Federal Act of 21 June 2002, in force since 1 Jan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^tit5a-1]: Inserted by No I of the FA of 21 June 2002, in force since 1 Jan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
 
 #### Art. 76a
 
@@ -1220,7 +1226,7 @@ Where the Federal Assembly decides to submit a counter-proposal, three questions
 
 A political party may be officially registered with the Federal Chancellery:
 
-- a. if it has the legal form of an association in terms of Articles 60-79 of the Swiss Civil Code [^76a-1]; and
+- a. if it has the legal form of an association in terms of Articles 60–79 of the Swiss Civil Code [^76a-1]; and
 - b. if it is represented in the same name by at least one member in the National Council or by at least three members in each of any three cantonal parliaments.
 
 <sup>2</sup>
@@ -1233,7 +1239,163 @@ For entry in the Register of Political Parties, the association shall file the f
 
 <sup>3</sup> The Federal Chancellery shall maintain a register of the information filed by political parties. This shall be a public register. The Federal Assembly shall enact an ordinance to regulate the details of the register.
 
-[^76a-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^76a-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+
+## Title 5*b* Transparency in Political Funding
+
+[^tit5b-1]
+
+[^tit5b-1]: Inserted by No I of the FA of 18 June 2021 (Transparency in Political Funding), in force since 23 Oct. 2022 ([AS 2022 466](https://fedlex.data.admin.ch/eli/oc/2022/466); [BBl 2019 7875](https://fedlex.data.admin.ch/eli/fga/2019/2692), [8207](https://fedlex.data.admin.ch/eli/fga/2019/2804)).
+
+#### Art. 76b
+
+**Duty of disclosure for political parties**
+
+<sup>1</sup> The political parties represented in the Federal Assembly shall disclose their funding.
+
+<sup>2</sup>
+
+They shall fulfil this duty by disclosing the following to the competent body:
+
+- a. their income;
+- b. all economic donations made to them voluntarily (monetary and non-monetary donations) and exceeding the value of 15,000 Swiss francs per donor and year;
+- c. the contributions of the individual mandate holders.
+
+<sup>3</sup> Members of the Federal Assembly who do not belong to a political party shall disclose monetary and non-monetary donations in accordance with paragraph 2 letter b.
+
+#### Art. 76c
+
+**Duty of disclosure in election and popular vote campaigns**
+
+<sup>1</sup> Individuals, legal entities and partnerships that run a campaign related to an election to the National Council or a federal vote must disclose the funding thereof if they spend more than 50,000 francs.
+
+<sup>2</sup>
+
+They shall fulfil this duty by disclosing the following to the competent body:
+
+- a. the budgeted income and the final statement of income;
+- b. monetary and non-monetary donations received in the 12 months preceding the vote or election and exceeding the value of 15,000 francs per donor and campaign.
+
+<sup>3</sup> Individuals, legal entities and partnerships that have run a campaign for the election of a member of the Council of States and have spent more than 50,000 francs on this campaign must disclose the final statement of income and the monetary and non-monetary donations specified in paragraph 2 letter b.
+
+<sup>4</sup> If two or more persons or partnerships run a joint campaign, they must jointly submit the budgeted income and the final statement of income; in the case of elections to the Council of States, only the final statement of income is required. The monetary and non-monetary donations granted to them and their expenses shall be added together. The Federal Council shall regulate the details.
+
+#### Art. 76d
+
+**Deadlines and modalities of the disclosure obligation**
+
+<sup>1</sup>
+
+The following shall be submitted:
+
+- a. the information specified in Article 76*b* every year;
+- b. in the case of popular votes and elections to the National Council, the budgeted income 45 days before, and the final account of income and the monetary and non-monetary donations specified in Article 76*c* paragraph 2 letter b 60 days after the popular vote or election;
+- c. in the case of elections to the Council of States, the final statement of income and the monetary and non-monetary donations specified in Article 76*c* paragraph 2 letter b 30 days after taking office.
+
+<sup>2</sup> Between the deadline for submitting the budgeted income and the date of the election or vote, the monetary and non-monetary donations specified in Article 76*c* paragraph 2 letter b shall be reported to the competent body without delay.
+
+<sup>3</sup> The monetary and non-monetary donations shall be shown separately in the budgeted income and in the final statement of income.
+
+<sup>4</sup> When reporting monetary and non-monetary donations worth more than 15,000 francs, the value and date of the benefit as well as the surname, first name and commune of residence or the business name and registered office of the donor must be stated.
+
+<sup>5</sup> The information specified in paragraph 4 shall be substantiated.
+
+<sup>6</sup> The Federal Council shall specify the form in which the information is reported.
+
+#### Art. 76e
+
+**Verification**
+
+<sup>1</sup> The competent body shall verify whether all the information and documents specified in Articles 76*b* and 76*c* have been submitted by the political actors within the deadline. The accuracy of the information and documents shall be verified on a random basis.
+
+<sup>2</sup> If the competent body establishes that any information and documents have not been submitted on time or are inaccurate, it shall request the actors responsible to provide the required information and documents and shall set a deadline for them to do so.
+
+<sup>3</sup> If the information and documents are not provided within the deadline set, the competent body is obliged to report offences which have come to its attention during the verification process to the competent prosecution authority. When setting deadlines in accordance with paragraph 2, it shall draw attention to this obligation to report offences.
+
+#### Art. 76f
+
+**Publication**
+
+<sup>1</sup> On completing the verification process in accordance with Article 76*e*, the competent body shall publish the information and the documents on its website.
+
+<sup>2</sup>
+
+The following deadlines for publication apply:
+
+- a. the information pursuant to Article 76*d* paragraph 1 letter a shall be published every year;
+- b. the information specified in Article 76*d* paragraph 1 letters b and c shall be published no later than 15 days after its receipt by the competent body.
+
+<sup>3</sup> The information on monetary and non-monetary donations to be reported immediately in accordance with Article 76*d* paragraph 2 shall be published on receipt.
+
+#### Art. 76g
+
+**Competent body**
+
+The Federal Council shall designate the competent authority for verification and publication.
+
+#### Art. 76h
+
+**Anonymous donations and donations from abroad**
+
+<sup>1</sup>
+
+It is prohibited for political actors in accordance with Articles 76*b* and 76*c* to accept:
+
+- a. monetary and non-monetary donations made anonymously; or
+- b. monetary and non-monetary donations from abroad.
+
+<sup>2</sup> Monetary and non-monetary donations from Swiss citizens resident abroad are not regarded as donations from abroad.
+
+<sup>3</sup>
+
+Any person who receives an anonymous monetary or non-monetary donation must:
+
+- a. ascertain the source in accordance with Article 76*d* paragraph 4; or
+- b. return the donation if possible; if returning the donation is not possible or not practicable, the donation must be reported to the competent body and handed over to the Confederation.
+
+<sup>4</sup> Any person who receives a monetary or non-monetary donation from abroad must return it. If returning the donation is not possible or not practicable, the donation must be reported to the competent body and handed over to the Confederation.
+
+<sup>5</sup> In derogation from paragraphs 1–4, political actors in accordance with Article 76*c* paragraph 3 must disclose the amounts of anonymous monetary and non-monetary donations and monetary and non-monetary donations from abroad made to them in respect of the campaign for the election of a member of the Council of States in the final account in accordance with Article 76*d* paragraph 1 letter c.
+
+#### Art. 76i
+
+**Processing of personal data and exchange of information**
+
+<sup>1</sup>
+
+In order to perform its statutory duties, in particular for verification and publication purposes, the competent body is authorised to process the following personal data:
+
+- a. data on the identity and financial circumstances of political actors in accordance with Articles 76*b* and 76*c*;
+- b. data on the identity of persons who provide monetary and non-monetary donations to political actors in accordance with Articles 76*b* and 76*c*;
+- c. data on the identity of mandate holders who pay a contribution to the political parties in accordance with Article 76*b*.
+
+<sup>2</sup>
+
+The competent body may pass on to the following authorities the information on political actors, such as personal data, that is required to perform their statutory duties:
+
+- a. the cantonal and communal authorities responsible under cantonal law for transparency in political funding;
+- b. the competent prosecution authorities, when reporting an offence in accordance with Article 76*e* paragraph 3.
+
+<sup>3</sup> At the request of the competent body in accordance with Article 76*g*, the cantonal and communal authorities that are responsible under cantonal law for transparency in political funding shall provide the competent body with the information, such as personal data, that is required to carry out the verification process and for publication.
+
+#### Art. 76j
+
+**Criminal provisions**
+
+<sup>1</sup>
+
+A fine of up to 40,000 francs shall be imposed on anyone who wilfully:
+
+- a. fails to comply with a duty of disclosure under Articles 76b–76d;
+- b. fails to comply with an obligation under Article 76h paragraphs 3–5.
+
+<sup>2</sup> The cantons are responsible for prosecution.
+
+#### Art. 76k
+
+**Reservation of cantonal legislation**
+
+The cantons shall have the right to issue stricter provisions on the disclosure of the funding of cantonal political actors when exercising political rights at federal level.
 
 ## Title 6 Rights of Appeal
 
@@ -1245,15 +1407,15 @@ For entry in the Register of Political Parties, the association shall file the f
 
 An appeal may be filed with the cantonal government:
 
-- a.[^77-1] in respect of a violation of the provisions on voting rights in terms of Articles 2-4, Article 5 paragraphs 3 and 6 and Articles 62 and 63 (appeal on a matter related to voting rights);
+- a.[^77-1] in respect of a violation of the provisions on voting rights in terms of Articles 2–4, Article 5 paragraphs 3 and 6 and Articles 62 and 63 (appeal on a matter related to voting rights);
 - b.[^77-2] in respect of irregularities at popular votes (appeal on a matter related to popular votes);
 - c. in respect of irregularities in the preparation for and conduct of elections to the National Council (appeal on a matter related to elections).
 
 <sup>2</sup> The appeal must be filed by registered mail within three days of the grounds for appeal being ascertained, and at the latest on the third day following publication of the results in the official cantonal gazette.[^77-3]
 
-[^77-1]: Amended by No I of the Federal Act of 18 March 1994, in force since 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^77-2]: Amended by No I of the Federal Act of 18 March 1994, in force since 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^77-3]: Amended by No I of the Federal Act of 21 June 2002, in force since 1 Jan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^77-1]: Amended by No I of the FA of 18 March 1994, in force since 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^77-2]: Amended by No I of the FA of 18 March 1994, in force since 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^77-3]: Amended by No I of the FA of 21 June 2002, in force since 1 Jan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
 
 #### Art. 78
 
@@ -1261,9 +1423,9 @@ An appeal may be filed with the cantonal government:
 
 <sup>1</sup> The appeal petition must contain a brief summary of the facts of the case in justification of the appeal.
 
-<sup>2</sup> …[^78-1]
+<sup>2</sup> ...[^78-1]
 
-[^78-1]: Repealed by No I of the Federal Act of 18 March 1994, with effect from 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); BBl **1993** III 4 5).
+[^78-1]: Repealed by No I of the FA of 18 March 1994, with effect from 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); BBl **1993** III 4 5).
 
 #### Art. 79
 
@@ -1275,11 +1437,11 @@ An appeal may be filed with the cantonal government:
 
 <sup>2bis</sup> The cantonal government shall reject any appeals on matters relating to popular votes or elections without conducting a detailed investigation if the irregularities complained of are not sufficient either in their nature or in their extent to have a material influence on the result of the vote as a whole.[^79-1]
 
-<sup>3</sup> The cantonal government shall give notice of its decision and any rulings issued in accordance with Articles 34-38 and 61 paragraph 2 of the Administrative Procedure Act [^79-2] and shall notify the Federal Chancellery.[^79-3]
+<sup>3</sup> The cantonal government shall give notice of its decision and any rulings issued in accordance with Articles 34–38 and 61 paragraph 2 of the Administrative Procedure Act of 20 December 1968[^79-2] and shall notify the Federal Chancellery.[^79-3]
 
-[^79-1]: Inserted by No I of the Federal Act of 18 March 1994, in force since 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^79-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^79-3]: Amended by No I of the Federal Act of 18 March 1994, in force since 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^79-1]: Inserted by No I of the FA of 18 March 1994, in force since 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^79-2]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^79-3]: Amended by No I of the FA of 18 March 1994, in force since 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 80
 
@@ -1291,15 +1453,15 @@ An appeal may be filed with the cantonal government:
 
 <sup>3</sup> The members of the initiative committee are also entitled to appeal against rulings issued by the Federal Chancellery relating to the formal validity of a signature list (Art. 69 para. 1) and relating to the title of an initiative (Art. 69 para. 2).
 
-[^80-1]: Amended by Annex No 2 of the Federal Supreme Court Act of 17 June 2005, in force since 1 Jan. 2007 ([AS 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188)Art. 1 let. a; BBl **2001** 6402).
-[^80-2]: [SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
-[^80-3]: Amended by No I 1 of the Federal Act of 23 March 2007 on the Amendment of the Federal Legislation on Political Rights, in force since 1 Jan. 2008 ([AS 2007 4635](https://fedlex.data.admin.ch/eli/oc/2007/649)4637; [BBl 2006 5261](https://fedlex.data.admin.ch/eli/fga/2006/639)).
+[^80-1]: Amended by Annex No 2 of the Federal Supreme Court Act of 17 June 2005, in force since 1 Jan. 2007 ([AS 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188)Art. 1 let. a; [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^80-2]: [SR 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
+[^80-3]: Amended by No I 1 of the Federal Act of 23 March 2007 on the Amendment of the Federal Legislation on Political Rights, in force since 1 Jan. 2008 ([AS 2007 4635](https://fedlex.data.admin.ch/eli/oc/2007/649); [BBl 2006 5261](https://fedlex.data.admin.ch/eli/fga/2006/639)).
 
 #### Art. 81 and 82
 
 [^8182-1]
 
-[^8182-1]: Repealed by Annex No 2 of the Federal Supreme Court Act of 17 June 2005, with effect from 1 Jan. 2007 ([AS 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188)Art. 1 let. a; BBl **2001** 6402).
+[^8182-1]: Repealed by Annex No 2 of the Federal Supreme Court Act of 17 June 2005, with effect from 1 Jan. 2007 ([AS 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188)Art. 1 let. a; [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ## Title 7 General Provisions
 
@@ -1307,9 +1469,9 @@ An appeal may be filed with the cantonal government:
 
 **Cantonal law**
 
-In the absence of any provisions in this Act and the implementing ordinances issued by the Confederation, cantonal law applies. The provisions of the Federal Act of 16 December 1943 on the Administration of Federal Justice are reserved[^83-1].
+In the absence of any provisions in this Act and the implementing ordinances issued by the Confederation, cantonal law applies. The provisions of the Federal Act of 16 December 1943[^83-1] on the Administration of Federal Justice are reserved.
 
-[^83-1]: [BS **3** 531; [AS 1948 485](https://fedlex.data.admin.ch/eli/oc/1948/485_473_421)Art. 86, [1955 871](https://fedlex.data.admin.ch/eli/oc/1955/871_893_899)Art. 118, [1959 902](https://fedlex.data.admin.ch/eli/oc/1959/902_931_921), [1969 737](https://fedlex.data.admin.ch/eli/oc/1969/737_757_755)Art. 80 let. *b* [767](https://fedlex.data.admin.ch/eli/oc/1969/767_787_784), [1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237)No II 3 [862](https://fedlex.data.admin.ch/eli/oc/1977/862_862_862)Art. 52 No 2 [1323](https://fedlex.data.admin.ch/eli/oc/1977/1323_1323_1323)No III, [1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)Art. 88 No 3 [1450](https://fedlex.data.admin.ch/eli/oc/1978/1450_1450_1450), [1979 42](https://fedlex.data.admin.ch/eli/oc/1979/42_42_42), [1980 31](https://fedlex.data.admin.ch/eli/oc/1980/31_31_31)No IV [1718](https://fedlex.data.admin.ch/eli/oc/1980/1718_1718_1718)Art. 52 No 2 [1819](https://fedlex.data.admin.ch/eli/oc/1980/1819_1819_1819)Art. 12 para. 1, [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)Annex No 13, [1983 1886](https://fedlex.data.admin.ch/eli/oc/1983/1886_1886_1886)Art. 36 No 1, [1986 926](https://fedlex.data.admin.ch/eli/oc/1986/926_926_926)Art. 59 No 1, [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226)No II 1 [1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665)No II, [1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)Annex No II 1, [1989 504](https://fedlex.data.admin.ch/eli/oc/1989/504_504_504)Art. 33 let. *a*, [1990 938](https://fedlex.data.admin.ch/eli/oc/1990/938_938_938)No III para. 5, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288), [1993 274](https://fedlex.data.admin.ch/eli/oc/1993/274_274_274)Art. 75 No 1 [1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945)Annex No 1, [1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227)Annex No 3 [4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)Annex No 4, [1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508)Art. 36 [750](https://fedlex.data.admin.ch/eli/oc/1996/750_750_750)Art. 17 [1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445)Annex No 2 [1498](https://fedlex.data.admin.ch/eli/oc/1996/1498_1498_1498)Annex No 2, [1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155)Annex No 6 [2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Annex No 5, [1998 2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)Annex No 3 [3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Annex No 2, [1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149)Annex No 1 [3071](https://fedlex.data.admin.ch/eli/oc/1999/472)No I 2, [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)Annex No 6 [416](https://fedlex.data.admin.ch/eli/oc/2000/92)No I 2 [505](https://fedlex.data.admin.ch/eli/oc/2000/95)No I 1 [2355](https://fedlex.data.admin.ch/eli/oc/2000/374)Annex No 1 [2719](https://fedlex.data.admin.ch/eli/oc/2000/453), [2001 114](https://fedlex.data.admin.ch/eli/oc/2001/21)No I 4 [894](https://fedlex.data.admin.ch/eli/oc/2001/123)Art. 40 No 3 [1029](https://fedlex.data.admin.ch/eli/oc/2001/150)Art. 11 para. 2, [2002 863](https://fedlex.data.admin.ch/eli/oc/2002/153)Art. 35 [1904](https://fedlex.data.admin.ch/eli/oc/2002/283)Art. 36 No 1 [2767](https://fedlex.data.admin.ch/eli/oc/2002/408)No II [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)Annex No 1, [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)Annex No 7 [3543](https://fedlex.data.admin.ch/eli/oc/2003/510)Annex No II 4 let. *a* [4557](https://fedlex.data.admin.ch/eli/oc/2003/674)Annex No II 1, [2004 1985](https://fedlex.data.admin.ch/eli/oc/2004/221)Annex No II 1 [4719](https://fedlex.data.admin.ch/eli/oc/2004/723)Annex No II 1, [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)Annex No 7. [AS 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)Art. 131 para. 1]. See now the Federal Supreme Court Act of 17 June 2005 ([SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)).
+[^83-1]: [BS **3** 531; [AS 1948 485](https://fedlex.data.admin.ch/eli/oc/1948/485_473_421)Art. 86; [1955 871](https://fedlex.data.admin.ch/eli/oc/1955/871_893_899)Art. 118; [1959 902](https://fedlex.data.admin.ch/eli/oc/1959/902_931_921); [1969 737](https://fedlex.data.admin.ch/eli/oc/1969/737_757_755)Art. 80 let. b [767](https://fedlex.data.admin.ch/eli/oc/1969/767_787_784); [1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237)No II 3, [862](https://fedlex.data.admin.ch/eli/oc/1977/862_862_862)Art. 52 No 2, [1323](https://fedlex.data.admin.ch/eli/oc/1977/1323_1323_1323)No III; [1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)Art. 88 No 3, [1450](https://fedlex.data.admin.ch/eli/oc/1978/1450_1450_1450); [1979 42](https://fedlex.data.admin.ch/eli/oc/1979/42_42_42); [1980 31](https://fedlex.data.admin.ch/eli/oc/1980/31_31_31)No IV, [1718](https://fedlex.data.admin.ch/eli/oc/1980/1718_1718_1718)Art. 52 No 2, [1819](https://fedlex.data.admin.ch/eli/oc/1980/1819_1819_1819)Art. 12 para. 1; [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)Annex No 13; [1983 1886](https://fedlex.data.admin.ch/eli/oc/1983/1886_1886_1886)Art. 36 No 1; [1986 926](https://fedlex.data.admin.ch/eli/oc/1986/926_926_926)Art. 59 No 1; [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226)No II 1, [1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665)No II; [1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)Annex No II 1; [1989 504](https://fedlex.data.admin.ch/eli/oc/1989/504_504_504)Art. 33 let. a; [1990 938](https://fedlex.data.admin.ch/eli/oc/1990/938_938_938)No III para. 5; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288); [1993 274](https://fedlex.data.admin.ch/eli/oc/1993/274_274_274)Art. 75 No 1, [1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945)Annex No 1; [1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227)Annex No 3, [4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)Annex No 4; [1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508)Art. 36, [750](https://fedlex.data.admin.ch/eli/oc/1996/750_750_750)Art. 17, [1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445)Annex No 2, [1498](https://fedlex.data.admin.ch/eli/oc/1996/1498_1498_1498)Annex No 2; [1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155)Annex No 6, [2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Annex No 5; [1998 2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)Annex No 3, [3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Annex No 2; [1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149)Annex No 1, [3071](https://fedlex.data.admin.ch/eli/oc/1999/472)No I 2; [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)Annex No 6, [416](https://fedlex.data.admin.ch/eli/oc/2000/92)No I 2, [505](https://fedlex.data.admin.ch/eli/oc/2000/95)No I 1, [2355](https://fedlex.data.admin.ch/eli/oc/2000/374)Annex No 1, [2719](https://fedlex.data.admin.ch/eli/oc/2000/453), [2001 114](https://fedlex.data.admin.ch/eli/oc/2001/21)No I 4, [894](https://fedlex.data.admin.ch/eli/oc/2001/123)Art. 40 No 3, [1029](https://fedlex.data.admin.ch/eli/oc/2001/150)Art. 11 para. 2; [2002 863](https://fedlex.data.admin.ch/eli/oc/2002/153)Art. 35, [1904](https://fedlex.data.admin.ch/eli/oc/2002/283)Art. 36 No 1, [2767](https://fedlex.data.admin.ch/eli/oc/2002/408)No II, [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)Annex No 1; [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)Annex No 7, [3543](https://fedlex.data.admin.ch/eli/oc/2003/510)Annex No II 4 let. a, [4557](https://fedlex.data.admin.ch/eli/oc/2003/674)Annex No II 1; [2004 1985](https://fedlex.data.admin.ch/eli/oc/2004/221)Annex No II 1, [4719](https://fedlex.data.admin.ch/eli/oc/2004/723)Annex No II 1; [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)Annex No 7. [AS 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)Art. 131 para. 1]. See now the Federal Supreme Court Act of 17 June 2005 ([SR 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)).
 
 #### Art. 84
 
@@ -1319,14 +1481,14 @@ In the absence of any provisions in this Act and the implementing ordinances iss
 
 <sup>2</sup> Election and popular vote procedures that use technical aids shall require the approval of the Federal Council.[^84-2]
 
-[^84-1]: Amended by No I of the Federal Act of 18 March 1994, in force since 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^84-2]: Inserted by No I of the Federal Act of 18 March 1994, in force since 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^84-1]: Amended by No I of the FA of 18 March 1994, in force since 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^84-2]: Inserted by No I of the FA of 18 March 1994, in force since 15 Nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 85
 
 [^85-1]
 
-[^85-1]: Repealed by Annex No 2 of the Federal Supreme Court Act of 17 June 2005, with effect from 1 Jan. 2007 ([AS 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188)Art. 1 let. a; BBl **2001** 6402).
+[^85-1]: Repealed by Annex No 2 of the Federal Supreme Court Act of 17 June 2005, with effect from 1 Jan. 2007 ([AS 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188)Art. 1 let. a; [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 86
 
@@ -1336,14 +1498,14 @@ In the absence of any provisions in this Act and the implementing ordinances iss
 
 <sup>2</sup> In proceedings before the Federal Supreme Court, the obligation to pay fees or costs is governed by the Federal Supreme Court Act of 17 June 2005[^86-2].
 
-[^86-1]: Amended by Annex No 2 of the Federal Supreme Court Act of 17 June 2005, in force since 1 Jan. 2007 ([AS 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188)Art. 1 let. a; BBl **2001** 6402).
-[^86-2]: [SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^86-1]: Amended by Annex No 2 of the Federal Supreme Court Act of 17 June 2005, in force since 1 Jan. 2007 ([AS 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188)Art. 1 let. a; [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^86-2]: [SR 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 
 #### Art. 87
 
 **Statistical surveys**
 
-<sup>1</sup> The Federal Council may order that statistical surveys be carried out in respect of elections to the National Council or popular votes.
+<sup>1</sup>
 
 The Confederation shall keep statistics on federal elections and popular votes; these shall provide information at communal, district and cantonal levels on:
 
@@ -1356,8 +1518,8 @@ The Confederation shall keep statistics on federal elections and popular votes; 
 
 <sup>3</sup> No breach of voting secrecy in connection with a statistical surveys shall be permitted.
 
-[^87-1]: Amended by No I of the Federal Act of 26 Sept. 2014 (National Council elections), in force since 1 Nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
-[^87-2]: Inserted by No I of the Federal Act of 26 Sept. 2014 (National Council elections), in force since 1 Nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+[^87-1]: Amended by No I of the FA of 26 Sept. 2014 (National Council elections), in force since 1 Nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+[^87-2]: Inserted by No I of the FA of 26 Sept. 2014 (National Council elections), in force since 1 Nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
 
 ## Title 8 Final Provisions
 
@@ -1367,7 +1529,7 @@ The Confederation shall keep statistics on federal elections and popular votes; 
 
 **Amendment of federal acts**
 
-…[^88-1]
+...[^88-1]
 
 [^88-1]: The amendments may be consulted under [AS 1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688).
 
@@ -1389,7 +1551,7 @@ The following acts are repealed:
 [^89-3]: [[AS 1962 789](https://fedlex.data.admin.ch/eli/oc/1962/789_827_848)]
 [^89-4]: [[AS 1966 849](https://fedlex.data.admin.ch/eli/oc/1966/849_875_867)]
 [^89-5]: [[AS 1963 419](https://fedlex.data.admin.ch/eli/oc/1963/419_415_435)]
-[^89-6]: [BS **1** 180; [AS 1975 601](https://fedlex.data.admin.ch/eli/oc/1975/601_601_601)[710](https://fedlex.data.admin.ch/eli/oc/1975/710_710_710)]
+[^89-6]: [BS **1** 180; [AS 1975 601](https://fedlex.data.admin.ch/eli/oc/1975/601_601_601), [710](https://fedlex.data.admin.ch/eli/oc/1975/710_710_710)]
 
 ### Chapter 2 Transitional Provisions, Implementation and Commencement
 
@@ -1401,12 +1563,12 @@ The following acts are repealed:
 
 <sup>2</sup> On expiry of 18 months from the date on which this Act comes into force, signature lists shall be accepted only if they comply with the provisions of this Act.
 
-<sup>3</sup> …[^90-1]
+<sup>3</sup> ...[^90-1]
 
-<sup>4</sup> …[^90-2]
+<sup>4</sup> ...[^90-2]
 
 [^90-1]: Repealed by No II 4 of the Federal Act of 20 March 2008 on the Formal Revision of Federal Legislation, with effect from 1 Aug. 2008 ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)).
-[^90-2]: Inserted by No III of the Federal Act of 9 March 1978 ([AS 1978 1694](https://fedlex.data.admin.ch/eli/oc/1978/1694_1694_1694); [BBl 1977 III 819](https://fedlex.data.admin.ch/eli/fga/1977/3_819_850_829)). Repealed by No II 4 of the Federal Act of 20 March 2008 on the Formal Revision of Federal Legislation, with effect from 1. Aug 2008 ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+[^90-2]: Inserted by No III of the FA of 9 March 1978 ([AS 1978 1694](https://fedlex.data.admin.ch/eli/oc/1978/1694_1694_1694); [BBl 1977 III 819](https://fedlex.data.admin.ch/eli/fga/1977/3_819_850_829)). Repealed by No II 4 of the FA of 20 March 2008 on the Formal Revision of Federal Legislation, with effect from 1 Aug 2008 ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
 #### Art. 90a
 
@@ -1414,7 +1576,7 @@ The following acts are repealed:
 
 The new law applies to federal popular initiatives that are pending on commencement of the Amendment of 25 September 2009 to this Act.
 
-[^90a-1]: Inserted by No I of the Federal Act of 25. Sept. 2009 (Conditional Withdrawal of a Popular Initiative), in force since 1 Feb. 2010 ([AS 2010 271](https://fedlex.data.admin.ch/eli/oc/2010/35); [BBl 2009 3591](https://fedlex.data.admin.ch/eli/fga/2009/699)[3609](https://fedlex.data.admin.ch/eli/fga/2009/701)).
+[^90a-1]: Inserted by No I of the FA of 25 Sept. 2009 (Conditional Withdrawal of a Popular Initiative), in force since 1 Feb. 2010 ([AS 2010 271](https://fedlex.data.admin.ch/eli/oc/2010/35); [BBl 2009 3591](https://fedlex.data.admin.ch/eli/fga/2009/699)[3609](https://fedlex.data.admin.ch/eli/fga/2009/701)).
 
 #### Art. 91
 
@@ -1436,4 +1598,4 @@ The new law applies to federal popular initiatives that are pending on commencem
 
 Commencement Date: 1 July 1978[^92-1]
 
-[^92-1]: Federal Council Decree of 24 May 1978 (AS **1978** 711)
+[^92-1]: FCD of 24 May 1978

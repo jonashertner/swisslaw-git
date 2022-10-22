@@ -3,11 +3,11 @@ sr: "161.1"
 title: Lescha federala dals 17 da december 1976 davart ils dretgs politics
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/688_688_688"
 language: rm
-version: 2015-11-01
+version: 2022-10-23
 adopted: 1976-12-17
 in_force: 1978-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/688_688_688/20151101/rm/xml/fedlex-data-admin-ch-eli-cc-1978-688_688_688-20151101-rm-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/688_688_688/20151101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/688_688_688/20221023/rm/xml/fedlex-data-admin-ch-eli-cc-1978-688_688_688-20221023-rm-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/688_688_688/20221023/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,11 +16,11 @@ url: "https://www.fedlex.admin.ch/eli/cc/1978/688_688_688/20151101/rm"
 
 Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Confederaziun, numnadamain en la correspundenza cun persunas da lingua rumantscha. La translaziun d’in decret federal serva a l’infurmaziun, n’ha dentant nagina validitad legala.
 
-(LDP)**[^t-1]**
+(LDP)[^t-1]
 
-dals 17 da december 1976 (versiun dal 1. da november 2015)
+dals 17 da december 1976 (versiun dals 23 d’october 2022)
 
-[^t-1]: Integrà tras la cifra I da la LF dals 26 da sett. 2014 (Elecziuns dal Cussegl naziunal), en vigur dapi il 1. da nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+[^t-1]: Integrà tras la cifra I da la LF dals 26 da sett. 2014 (elecziuns dal Cussegl naziunal), en vigur dapi il 1. da nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -28,8 +28,8 @@ sa basond sin l’artitgel 39 alinea 1 da la Constituziun federala[^ingress-1],[
 
 concluda:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: Versiun tenor la cifra I da la LF dals 26 da sett. 2014 (Elecziuns dal Cussegl naziunal), en vigur dapi il 1. da nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
+[^ingress-2]: Versiun tenor la cifra I da la LF dals 26 da sett. 2014 (elecziuns dal Cussegl naziunal), en vigur dapi il 1. da nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
 [^ingress-3]: [BBl 1975 I 1317](https://fedlex.data.admin.ch/eli/fga/1975/1_1317_1337_1313)
 
 ## 1. titel Dretg da votar e votaziun
@@ -38,7 +38,7 @@ concluda:
 
 [^1-1]
 
-[^1-1]: Abolì tras la cifra I da la LF dals 21 da zercl. 2002, en vigur dapi il 1. da schan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^1-1]: Abolì tras la cifra I da la LF dals 21 da zer. 2002, cun effect dapi il 1. da schan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
 
 #### Art. 2
 
@@ -46,7 +46,7 @@ concluda:
 
 Exclusas dal dretg da votar èn persunas sut curatella en il senn da l’alinea 1 da l’artitgel 136 da la Constituziun federala che stattan sut curatella cumplessiva u che vegnan represchentadas tras ina persuna incumbensada cun la curatella pervi d’ina inabilitad da giuditgar permanenta.
 
-[^2-1]: Versiun tenor la cifra 3 da l’agiunta da la LF dals 19 da dec. 2008 (Protecziun da creschids, dretg da persunas e d’uffants), en vigur dapi il 1. da schan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^2-1]: Versiun tenor la cifra 3 da l’agiunta da la LF dals 19 da dec. 2008 (protecziun da creschids, dretg da persunas e d’uffants), en vigur dapi il 1. da schan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 
 #### Art. 3
 
@@ -78,7 +78,7 @@ Exclusas dal dretg da votar èn persunas sut curatella en il senn da l’alinea 
 
 <sup>3</sup> La persuna cun dretg da votar po votar persunalmain a l’urna ubain per correspundenza.[^5-2] Emprovas cun la votaziun electronica sa drizzan tenor l’artitgel 8*a*.[^5-3]
 
-<sup>4</sup> e <sup>5</sup> …[^5-4]
+<sup>4 e <sup>5</sup></sup> …[^5-4]
 
 <sup>6</sup> La vusch dastga vegnir deponida a l’urna da terzas persunas, sch’il dretg chantunal permetta quai per las votaziuns e per las elecziuns chantunalas. Las persunas cun dretg da votar che n’èn betg ablas da scriver pon laschar emplenir lur cedel da votar u lur cedel electoral tenor lur instrucziun tras ina persuna cun dretg da votar da lur tscherna (votaziun per procura).[^5-5]
 
@@ -86,9 +86,9 @@ Exclusas dal dretg da votar èn persunas sut curatella en il senn da l’alinea 
 
 [^5-1]: Integrà la segunda frasa tras la cifra I da la LF dals 18 da mars 1994, en vigur dapi ils 15 da nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 [^5-2]: Versiun tenor la cifra I da la LF dals 18 da mars 1994, en vigur dapi ils 15 da nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^5-3]: Integrà la segunda frasa tras la cifra I da la LF dals 21 da zercl. 2002, en vigur dapi il 1. da schan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
-[^5-4]: Abolì tras la cifra I da la LF dals 18 da mars 1994, en vigur dapi ils 15 da nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^5-5]: Versiun tenor la cifra I 1 da la LF dals 23 da mars 2007 concernent la midada da la legislaziun federala davart ils dretgs politiSR, en vigur dapi il 1. da schan. 2008 ([AS 2007 4635](https://fedlex.data.admin.ch/eli/oc/2007/649); [BBl 2006 5261](https://fedlex.data.admin.ch/eli/fga/2006/639)).
+[^5-3]: Integrà la segunda frasa tras la cifra I da la LF dals 21 da zer. 2002, en vigur dapi il 1. da schan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^5-4]: Abolì tras la cifra I da la LF dals 18 da mars 1994, cun effect dapi ils 15 da nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^5-5]: Versiun tenor la cifra I 1 da la LF dals 23 da mars 2007 concernent la midada da la legislaziun federala davart ils dretgs politics, en vigur dapi il 1. da schan. 2008 ([AS 2007 4635](https://fedlex.data.admin.ch/eli/oc/2007/649); [BBl 2006 5261](https://fedlex.data.admin.ch/eli/fga/2006/639)).
 
 #### Art. 6
 
@@ -132,15 +132,15 @@ Ils chantuns procuran ch’er quellas persunas possian votar, che n’èn perman
 
 <sup>4</sup> Il Cussegl federal regla ils detagls.
 
-[^8a-1]: Integrà tras la cifra I da la LF dals 21 da zercl. 2002, en vigur dapi il 1. da schan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
-[^8a-2]: Integrà la cifra I 1 da la LF dals 23 da mars 2007 concernent la midada da la legislaziun federala davart ils dretgs politiSR, en vigur dapi il 1. da schan. 2008 ([AS 2007 4635](https://fedlex.data.admin.ch/eli/oc/2007/649); [BBl 2006 5261](https://fedlex.data.admin.ch/eli/fga/2006/639)).
-[^8a-3]: Abolì tras la cifra I 1 da la LF dals 23 da mars 2007 concernent la midada da la legislaziun federala davart ils dretgs politiSR, en vigur dapi il 1. da schan. 2008 ([AS 2007 4635](https://fedlex.data.admin.ch/eli/oc/2007/649); [BBl 2006 5261](https://fedlex.data.admin.ch/eli/fga/2006/639)).
+[^8a-1]: Integrà tras la cifra I da la LF dals 21 da zer. 2002, en vigur dapi il 1. da schan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^8a-2]: Integrà la cifra I 1 da la LF dals 23 da mars 2007 concernent la midada da la legislaziun federala davart ils dretgs politics, en vigur dapi il 1. da schan. 2008 ([AS 2007 4635](https://fedlex.data.admin.ch/eli/oc/2007/649); [BBl 2006 5261](https://fedlex.data.admin.ch/eli/fga/2006/639)).
+[^8a-3]: Abolì tras la cifra I 1 da la LF dals 23 da mars 2007 concernent la midada da la legislaziun federala davart ils dretgs politics, cun effect dapi il 1. da schan. 2008 ([AS 2007 4635](https://fedlex.data.admin.ch/eli/oc/2007/649); [BBl 2006 5261](https://fedlex.data.admin.ch/eli/fga/2006/639)).
 
 #### Art. 9
 
 [^9-1]
 
-[^9-1]: Abolì tras la cifra II 4 da la LF dals 20 da mars 2008 davart la rectificaziun formala dal dretg federal, en vigur dapi il 1. d’avust 2008 ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+[^9-1]: Abolì tras la cifra II 4 da la LF dals 20 da mars 2008 davart la rectificaziun formala dal dretg federal, cun effect dapi il 1. d’avust 2008 ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
 ## 2. titel Votaziuns
 
@@ -154,8 +154,8 @@ Ils chantuns procuran ch’er quellas persunas possian votar, che n’èn perman
 
 <sup>2</sup> Mintga chantun realisescha la votaziun sin ses territori e decretescha las ordinaziuns necessarias.
 
-[^10-1]: Versiun tenor la cifra I da la LF dals 21 da zercl. 2002, en vigur dapi il 1. da schan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
-[^10-2]: Integrà tras la cifra I da la LF dals 21 da zercl. 2002, en vigur dapi il 1. da schan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^10-1]: Versiun tenor la cifra I da la LF dals 21 da zer. 2002, en vigur dapi il 1. da schan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^10-2]: Integrà tras la cifra I da la LF dals 21 da zer. 2002, en vigur dapi il 1. da schan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
 
 #### Art. 10a
 
@@ -169,7 +169,7 @@ Ils chantuns procuran ch’er quellas persunas possian votar, che n’èn perman
 
 <sup>4</sup> El na represchenta betg ina tenuta che divergescha da la recumandaziun da l’Assamblea federala per la votaziun.
 
-[^10a-1]: Integrà tras la cifra I da la LF dals 5 d’october 2007, en vigur dapi ils 15 da schan. 2009 ([AS 2009 1](https://fedlex.data.admin.ch/eli/oc/2009/1); [BBl 2006 9259](https://fedlex.data.admin.ch/eli/fga/2006/1201)[9279](https://fedlex.data.admin.ch/eli/fga/2006/1203)).
+[^10a-1]: Integrà tras la cifra I da la LF dals 5 d’oct. 2007, en vigur dapi ils 15 da schan. 2009 ([AS 2009 1](https://fedlex.data.admin.ch/eli/oc/2009/1); [BBl 2006 9259](https://fedlex.data.admin.ch/eli/fga/2006/1201)[9279](https://fedlex.data.admin.ch/eli/fga/2006/1203)).
 
 #### Art. 11
 
@@ -183,10 +183,10 @@ Ils chantuns procuran ch’er quellas persunas possian votar, che n’èn perman
 
 <sup>4</sup> Ils chantuns pon autorisar las vischnancas tras lescha da consegnar il text da votaziun e las explicaziuns mo ina giada per chasada, nun ch’ina persuna cun dretg da votar che fa part da la chasada pretendia la consegna persunala.[^11-6]
 
-[^11-1]: Versiun tenor la cifra I da la LF dals 21 da zercl. 1996, en vigur dapi il 1. d’avr. 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^11-2]: Versiun tenor la cifra I 1 da la LF dals 23 da mars 2007 concernent la midada da la legislaziun federala davart ils dretgs politiSR, en vigur dapi il 1. da schan. 2008 ([AS 2007 4635](https://fedlex.data.admin.ch/eli/oc/2007/649); [BBl 2006 5261](https://fedlex.data.admin.ch/eli/fga/2006/639)).
-[^11-3]: Expressiun tenor la cifra II 4 da la LF dals 20 da mars 2008 davart la rectificaziun formala dal dretg federal, en vigur dapi il 1. d’avust 2008 ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)). Questa midada è resguardada en l’entir decret
-[^11-4]: Integrà la terza frasa tras la cifra I da la LF dals 21 da zercl. 2002, en vigur dapi il 1. da schan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^11-1]: Versiun tenor la cifra I da la LF dals 21 da zer. 1996, en vigur dapi il 1. d’avr. 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^11-2]: Versiun tenor la cifra I 1 da la LF dals 23 da mars 2007 concernent la midada da la legislaziun federala davart ils dretgs politics, en vigur dapi il 1. da schan. 2008 ([AS 2007 4635](https://fedlex.data.admin.ch/eli/oc/2007/649); [BBl 2006 5261](https://fedlex.data.admin.ch/eli/fga/2006/639)).
+[^11-3]: Expressiun tenor la cifra II 4 da la LF dals 20 da mars 2008 davart la rectificaziun formala dal dretg federal, en vigur dapi il 1. d’avust 2008 ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)). Questa midada è resguardada en l’entir decret.
+[^11-4]: Integrà la terza frasa tras la cifra I da la LF dals 21 da zer. 2002, en vigur dapi il 1. da schan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
 [^11-5]: Versiun tenor la cifra I da la LF dals 18 da mars 1994, en vigur dapi ils 15 da nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 [^11-6]: Integrà tras la cifra I da la LF dals 18 da mars 1994, en vigur dapi ils 15 da nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
@@ -206,11 +206,11 @@ Ils cedels da votar èn nunvalaivels, sch’els:
 
 <sup>2</sup> Resalvads restan ils motivs da nunvalaivladad e da nullitad che resultan da la procedura chantunala (cuverta da votar, bul da controlla e.u.v.).
 
-<sup>3</sup> Il dretg d’in chantun che realisescha emprovas[^12-2] cun la votaziun electronica definescha las premissas per la votaziun valaivla ed ils motivs da nunvalaivladad.[^12-3]
+<sup>3</sup> Il chantun che fa emprovas[^12-2] cun la votaziun electronica definescha en ses dretg las premissas per la votaziun valaivla ed ils motivs da nunvalaivladad.[^12-3]
 
-[^12-1]: Abolì tras la cifra II da la LF dals 22 da mars 1991, en vigur dapi il 1. da fanadur 1992 ([AS 1991 2388](https://fedlex.data.admin.ch/eli/oc/1991/2388_2388_2388); [BBl 1990 III 445](https://fedlex.data.admin.ch/eli/fga/1990/3_445_429_393)).
-[^12-2]: Expressiun tenor la cifra II 4 da la LF dals 20 da mars 2008 davart la rectificaziun formala dal dretg federal, en vigur dapi il 1. d’avust 2008 ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)). Questa midada è resguardada en l’entir decret
-[^12-3]: Integrà tras la cifra I da la LF dals 21 da zercl. 2002, en vigur dapi il 1. da schan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^12-1]: Abolì tras la cifra II da la LF dals 22 da mars 1991, cun effect dapi il 1. da fan. 1992 ([AS 1991 2388](https://fedlex.data.admin.ch/eli/oc/1991/2388_2388_2388); [BBl 1990 III 445](https://fedlex.data.admin.ch/eli/fga/1990/3_445_429_393)).
+[^12-2]: Expressiun tenor la cifra II 4 da la LF dals 20 da mars 2008 davart la rectificaziun formala dal dretg federal, en vigur dapi il 1. d’avust 2008 ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)). Questa midada è resguardada en l’entir decret.
+[^12-3]: Integrà tras la cifra I da la LF dals 21 da zer. 2002, en vigur dapi il 1. da schan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
 
 #### Art. 13
 
@@ -218,26 +218,26 @@ Ils cedels da votar èn nunvalaivels, sch’els:
 
 <sup>1</sup> Per eruir il resultat da la votaziun na vegnan betg considerads ils cedels da votar vids e nunvalaivels.
 
-<sup>2</sup> Sch’i dat en in chantun precis uschè bleras vuschs "gea" sco "na", vegn sia vusch da chantun quintada tar ils chantuns che refusan il project da votaziun.[^13-2]
+<sup>2</sup> Sch’i dat en in chantun precis uschè bleras vuschs «gea» sco «na», vegn sia vusch da chantun quintada tar ils chantuns che refusan il project da votaziun.[^13-2]
 
 <sup>3</sup> En cas d’in resultat fitg stretg è ina verificaziun dal scrutini necessaria mo, sch’i èn vegnidas fatgas valair vardaivlamain irregularitads ch’eran – tenor il gener e la dimensiun – en cas d’influenzar considerablamain il resultat federal.[^13-3]
 
-[^13-1]: Versiun tenor la cifra I da la LF dals 21 da zercl. 1996, en vigur dapi il 1. d’avr. 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^13-2]: Integrà tras la cifra I da la LF dals 21 da zercl. 1996, en vigur dapi il 1. d’avr. 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^13-3]: Integrà tras la cifra I da la LF dals 26 da sett. 2014 (Elecziuns dal Cussegl naziunal), en vigur dapi il 1. da nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+[^13-1]: Versiun tenor la cifra I da la LF dals 21 da zer. 1996, en vigur dapi il 1. d’avr. 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^13-2]: Integrà tras la cifra I da la LF dals 21 da zer. 1996, en vigur dapi il 1. d’avr. 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^13-3]: Integrà tras la cifra I da la LF dals 26 da sett. 2014 (elecziuns dal Cussegl naziunal), en vigur dapi il 1. da nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
 
 #### Art. 14
 
 **Protocol da votaziun**
 
-<sup>1</sup> En mintga biro da votaziun vegn fatg in protocol davart il resultat da la votaziun che inditgescha il dumber total da las persunas cun dretg da votar, sco er il dumber dals Svizzers a l’exteriur cun dretg da votar, il dumber dals votants, dals cedels da votar vids, nunvalaivels e valaivels sco er da las vuschs "gea" e "na".[^14-1]
+<sup>1</sup> En mintga biro da votaziun vegn fatg in protocol davart il resultat da la votaziun che inditgescha il dumber total da las persunas cun dretg da votar, sco er il dumber dals Svizzers a l’exteriur cun dretg da votar, il dumber dals votants, dals cedels da votar vids, nunvalaivels e valaivels sco er da las vuschs «gea» e «na».[^14-1]
 
 <sup>2</sup> Il protocol vegn tramess vinavant a la regenza chantunala. Quella cumpilescha ils resultats provisorics da tut il chantun, als communitgescha a la Chanzlia federala ed als publitgescha en il Fegl uffizial chantunal entaifer 13 dis suenter il di da la votaziun. En cas da basegn edescha ella in supplement spezial dal Fegl uffizial chantunal.[^14-2]
 
 <sup>3</sup> Ils chantuns transmettan ils protocols – sin dumonda er ils cedels da votar – a la Chanzlia federala entaifer 10 dis suenter ch’il termin da recurs è scadì (art. 79 al. 3). Suenter la verificaziun dal resultat da la votaziun vegnan destruids ils cedels da votar.
 
-[^14-1]: Versiun tenor la cifra I da la LF dals 21 da zercl. 1996, en vigur dapi il 1. d’avr. 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^14-2]: Versiun tenor la cifra I da la LF dals 21 da zercl. 2002, en vigur dapi il 1. da schan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^14-1]: Versiun tenor la cifra I da la LF dals 21 da zer. 1996, en vigur dapi il 1. d’avr. 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^14-2]: Versiun tenor la cifra I da la LF dals 21 da zer. 2002, en vigur dapi il 1. da schan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
 
 #### Art. 15
 
@@ -251,8 +251,8 @@ Ils cedels da votar èn nunvalaivels, sch’els:
 
 <sup>4</sup> Sch’ina midada da dretg na cumporta nagin retard e sch’il resultat da la votaziun è evident, po il Cussegl federal u l’Assamblea federala metter en vigur provisoricamain projects da lescha u conclus federals davart l’approvaziun da contracts internaziunals ubain laschar en vigur u abolir provisoricamain leschas ch’èn vegnidas decleradas sco urgentas anc avant che publitgar il conclus da verificaziun.[^15-2]
 
-[^15-1]: Versiun tenor la cifra 2 da l’agiunta tar la L dals 17 da zercl. 2005 davart il TF, en vigur dapi il 1. da schan. 2007 ([AS 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188)art. 1 lit. a; [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^15-2]: Integrà tras la cifra I da la LF dals 21 da zercl. 2002, en vigur dapi il 1. da schan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^15-1]: Versiun tenor la cifra 2 da l’agiunta da la LF dals 17 da zer. 2005 davart il TF, en vigur dapi il 1. da schan. 2007 ([AS 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188)art. 1 lit. a; [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^15-2]: Integrà tras la cifra I da la LF dals 21 da zer. 2002, en vigur dapi il 1. da schan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
 
 ## 3. titel Elecziun dal Cussegl naziunal
 
@@ -266,8 +266,8 @@ Ils cedels da votar èn nunvalaivels, sch’els:
 
 <sup>2</sup> Sa basond sin la constataziun lianta dal dumber da las abitantas e dals abitants tenor l’artitgel 13 da la Lescha federala dals 22 da zercladur 2007 davart la dumbraziun federala dal pievel, fixescha il Cussegl federal en moda lianta, quants sezs che vegnan repartids sin ils singuls chantuns per la proxima elecziun per la renovaziun totala dal Cussegl naziunal.
 
-[^16-1]: Versiun tenor l’art. 17 cifra 1 da la LF dals 22 da zercl. 2007 davart la dumbraziun dal pievel, en vigur dapi il 1. da schan. 2008 ([AS 2007 6743](https://fedlex.data.admin.ch/eli/oc/2007/869); [BBl 2007 53](https://fedlex.data.admin.ch/eli/fga/2007/17)).
-[^16-2]: [SR 431.112](https://fedlex.data.admin.ch/eli/cc/2007/869)
+[^16-1]: Versiun tenor l’art. 17 cifra 1 da la LF dals 22 da zer. 2007 davart la dumbraziun dal pievel, en vigur dapi il 1. da schan. 2008 ([AS 2007 6743](https://fedlex.data.admin.ch/eli/oc/2007/869); [BBl 2007 53](https://fedlex.data.admin.ch/eli/fga/2007/17)).
+[^16-2]: [SR 431.112](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6959)
 
 #### Art. 17
 
@@ -287,13 +287,13 @@ Ils 200 sezs dal Cussegl naziunal vegnan repartids sin ils chantuns tenor la sua
 - c. *Repartiziun restanta:* Ils sezs restants vegnan repartids sin ils chantuns cun las cifras restantas las pli grondas. Sche plirs chantuns cuntanschan la medema cifra restanta, vegnan els eliminads tenor la successiun dals rests ils pli pitschens che resultan suenter la divisiun da lur dumber d’abitantas e d’abitants tras l’emprima cifra da repartiziun. Sche er quests rests èn eguals, decida la sort.
 
 [^17-1]: Versiun tenor la cifra I da la LF dals 18 da mars 1994, en vigur dapi ils 15 da nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^17-2]: Versiun tenor la cifra I da la LF dals 21 da zercl. 2002, en vigur dapi il 1. da schan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^17-2]: Versiun tenor la cifra I da la LF dals 21 da zer. 2002, en vigur dapi il 1. da schan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
 
 #### Art. 18
 
 [^18-1]
 
-[^18-1]: Abolì tras la cifra II 1 da l’agiunta tar la LF dals 13 da dec. 2002 davart l’Assamblea federala, en vigur dapi ils 3 da dec. 2007 ([AS 2003 3543](https://fedlex.data.admin.ch/eli/oc/2003/510); [BBl 2001 3467](https://fedlex.data.admin.ch/eli/fga/2001/639)[5428](https://fedlex.data.admin.ch/eli/fga/2001/853)).
+[^18-1]: Abolì tras la cifra II 1 da l’agiunta da la LF dals 13 da dec. 2002 davart l’AF, cun effect dapi ils 3 da dec. 2007 ([AS 2003 3543](https://fedlex.data.admin.ch/eli/oc/2003/510); [BBl 2001 3467](https://fedlex.data.admin.ch/eli/fga/2001/639)[5428](https://fedlex.data.admin.ch/eli/fga/2001/853)).
 
 #### Art. 19
 
@@ -303,7 +303,7 @@ Ils 200 sezs dal Cussegl naziunal vegnan repartids sin ils chantuns tenor la sua
 
 <sup>2</sup> Il Cussegl federal fixescha il termin per la renovaziun totala extraordinaria en il senn da l’artitgel 193 alinea 3 da la Constituziun federala.[^19-1]
 
-[^19-1]: Versiun tenor la cifra I da la O dals 8 d’october 1999, en vigur dapi il 1. da mars 2000 ([AS 2000 411](https://fedlex.data.admin.ch/eli/oc/2000/90); [BBl 1999 7922](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784)).
+[^19-1]: Versiun tenor la cifra I da la O dals 8 d’oct. 1999, en vigur dapi il 1. da mars 2000 ([AS 2000 411](https://fedlex.data.admin.ch/eli/oc/2000/90); [BBl 1999 7922](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784)).
 
 #### Art. 20
 
@@ -315,7 +315,7 @@ Sch’i sto vegnir tratg la sort, vegn quai fatg sin plaun chantunal tras ordina
 
 [^20a-1]
 
-[^20a-1]: Integrà tenor la cifra I da la LF dals 18 da mars 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)). Abolì tras la cifra II 4 da la LF dals 20 da mars 2008 davart la rectificaziun formala dal dretg federal, en vigur dapi il 1. d’avust 2008 ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+[^20a-1]: Integrà tenor la cifra I da la LF dals 18 da mars 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)). Abolì tras la cifra II 4 da la LF dals 20 da mars 2008 davart la rectificaziun formala dal dretg federal, cun effect dapi il 1. d’avust 2008 ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
 ### 2. chapitel Elecziun da proporz
 
@@ -332,7 +332,7 @@ Sch’i sto vegnir tratg la sort, vegn quai fatg sin plaun chantunal tras ordina
 <sup>3</sup> Ils chantuns annunzian immediatamain mintga proposta electorala a la Chanzlia federala.
 
 [^21-1]: Versiun tenor la cifra I da la LF dals 18 da mars 1994, en vigur dapi ils 15 da nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^21-2]: Versiun tenor la cifra I da la LF dals 26 da sett. 2014 (Elecziuns dal Cussegl naziunal), en vigur dapi il 1. da nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+[^21-2]: Versiun tenor la cifra I da la LF dals 26 da sett. 2014 (elecziuns dal Cussegl naziunal), en vigur dapi il 1. da nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
 
 #### Art. 22
 
@@ -354,7 +354,7 @@ Las propostas electoralas ston inditgar per mintga candidata u candidat:
 
 <sup>3</sup> Mintga candidata e mintga candidat sto confermar en scrit ch’ella u ch’el acceptia la proposta electorala. Sche la conferma manca, vegn stritgà ses num.[^22-2]
 
-[^22-1]: Versiun tenor la cifra I da la LF dals 26 da sett. 2014 (Elecziuns dal Cussegl naziunal), en vigur dapi il 1. da nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+[^22-1]: Versiun tenor la cifra I da la LF dals 26 da sett. 2014 (elecziuns dal Cussegl naziunal), en vigur dapi il 1. da nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
 [^22-2]: Integrà tras la cifra I da la LF dals 18 da mars 1994, en vigur dapi ils 15 da nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 23
@@ -363,7 +363,7 @@ Las propostas electoralas ston inditgar per mintga candidata u candidat:
 
 Mintga proposta electorala sto avair ina denominaziun ch’è adattada per la differenziar dad autras propostas electoralas. Las gruppaziuns ch’inoltreschan propostas electoralas cun elements identics en la denominaziun principala e che las vulan colliar ina cun l’autra, designeschan ina da las propostas electoralas sco glista da tschep.[^23-1]
 
-[^23-1]: Integrà la segunda frasa tras la cifra I da la LF dals 21 da zercl. 2002, en vigur dapi il 1. da schan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^23-1]: Integrà la segunda frasa tras la cifra I da la LF dals 21 da zer. 2002, en vigur dapi il 1. da schan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
 
 #### Art. 24
 
@@ -379,14 +379,14 @@ Mintga proposta electorala sto esser suttascritta a maun d’in dumber minimal d
 
 <sup>2</sup> Ina persuna cun dretg da votar na dastga betg suttascriver dapli ch’ina proposta electorala. Ella na po betg retrair sia suttascripziun suenter l’inoltraziun da la proposta electorala.
 
-<sup>3</sup> Ils dumbers minimals tenor l’alinea 1 na valan betg per ina partida ch’era registrada la fin da l’onn che preceda las elecziuns confurm a l’urden tar la Chanzlia federala (art. 76*a*), premess ch’ella represchentia durant la perioda d’uffizi scadenta il medem circul electoral en il Cussegl naziunal u haja survegnì tar l’ultima elecziun per la renovaziun totala en il medem chantun almain 3 pertschient da las vuschs.[^24-3]
+<sup>3</sup> Ils dumbers minimals tenor l’alinea 1 na valan betg per ina partida ch’era registrada la fin da l’onn che preceda las elecziuns confurm a l’urden tar la Chanzlia federala (art. 76*a*), premess ch’ella represchentia durant la perioda d’uffizi scadenta il medem circul electoral en il Cussegl naziunal u haja survegnì tar l’ultima elecziun da renovaziun totala en il medem chantun almain 3 pertschient da las vuschs.[^24-3]
 
 <sup>4</sup> La partida tenor l’alinea 3 sto inoltrar mo las suttascripziuns legalmain valaivlas da tut las candidatas e da tut ils candidats sco er da las persunas che presidieschan la partida e da quellas che mainan las fatschentas.[^24-4]
 
 [^24-1]: Versiun tenor la cifra I da la LF dals 18 da mars 1994, en vigur dapi ils 15 da nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 [^24-2]: Versiun tenor la cifra I da la LF dals 18 da mars 1994, en vigur dapi ils 15 da nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^24-3]: Integrà tras la cifra I da la LF dals 21 da zercl. 2002 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)). Versiun tenor la cifra I da la LF dals 26 da sett. 2014 (Elecziuns dal Cussegl naziunal), en vigur dapi il 1. da nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
-[^24-4]: Integrà tras la cifra I da la LF dals 21 da zercl. 2002, en vigur dapi il 1. da schan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^24-3]: Integrà tras la cifra I da la LF dals 21 da zer. 2002 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)). Versiun tenor la cifra I da la LF dals 26 da sett. 2014 (elecziuns dal Cussegl naziunal), en vigur dapi il 1. da nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+[^24-4]: Integrà tras la cifra I da la LF dals 21 da zer. 2002, en vigur dapi il 1. da schan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
 
 #### Art. 25
 
@@ -418,7 +418,7 @@ Las votantas ed ils votants d’in circul electoral pon prender invista dals num
 
 [^28-1]
 
-[^28-1]: Abolì tras la cifra I da la LF dals 18 da mars 1994, en vigur dapi ils 15 da nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^28-1]: Abolì tras la cifra I da la LF dals 18 da mars 1994, cun effect dapi ils 15 da nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 29
 
@@ -432,9 +432,9 @@ Las votantas ed ils votants d’in circul electoral pon prender invista dals num
 
 <sup>4</sup> A partir dal segund glindesdi suenter il termin final per inoltrar las propostas electoralas na pon quellas betg pli vegnir modifitgadas. Resalvada resta l’annullaziun uffiziala da candidaturas multiplas scuvertas posteriuramain (art. 32*a*). Il dretg chantunal po scursanir il termin da rectificaziun ad in’emna.[^29-3]
 
-[^29-1]: Versiun tenor la cifra I da la LF dals 21 da zercl. 1996, en vigur dapi il 1. d’avr. 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^29-1]: Versiun tenor la cifra I da la LF dals 21 da zer. 1996, en vigur dapi il 1. d’avr. 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 [^29-2]: Versiun da las emprimas duas frasas tenor la cifra I da la LF dals 18 da mars 1994, en vigur dapi ils 15 da nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^29-3]: Versiun tenor la cifra I da la LF dals 26 da sett. 2014 (Elecziuns dal Cussegl naziunal), en vigur dapi il 1. da nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+[^29-3]: Versiun tenor la cifra I da la LF dals 26 da sett. 2014 (elecziuns dal Cussegl naziunal), en vigur dapi il 1. da nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
 
 #### Art. 30
 
@@ -467,7 +467,7 @@ Las votantas ed ils votants d’in circul electoral pon prender invista dals num
 <sup>2</sup> La Chanzlia federala publitgescha las glistas en furma electronica, inditgond il num ed il prenum uffizial, l’onn da naschientscha, ils lieus d’origin ed il domicil da las candidatas e dals candidats.[^32-2]
 
 [^32-1]: Versiun tenor la cifra I da la LF dals 18 da mars 1994, en vigur dapi ils 15 da nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^32-2]: Integrà tras l’art. 21 cifra 1 da la LF dals 18 da zercl. 2004 davart las publicaziuns uffizialas ([AS 2004 4929](https://fedlex.data.admin.ch/eli/oc/2004/745); [BBl 2003 7711](https://fedlex.data.admin.ch/eli/fga/2003/1274)). Versiun tenor la cifra I da la LF dals 26 da sett. 2014 (Elecziuns dal Cussegl naziunal), en vigur dapi il 1. da nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+[^32-2]: Integrà tras l’art. 21 cifra 1 da la LF dals 18 da zer. 2004 davart las publicaziuns uffizialas ([AS 2004 4929](https://fedlex.data.admin.ch/eli/oc/2004/745); [BBl 2003 7711](https://fedlex.data.admin.ch/eli/fga/2003/1274)). Versiun tenor la cifra I da la LF dals 26 da sett. 2014 (elecziuns dal Cussegl naziunal), en vigur dapi il 1. da nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
 
 #### Art. 32a
 
@@ -486,7 +486,7 @@ Sch’ina candidatura multipla vegn scuverta suenter la rectificaziun da las pro
 
 <sup>4</sup> L’annullaziun d’ina candidatura che figurescha sin glistas gia communitgadas vegn publitgada immediatamain sin via electronica sco er en ils fegls uffizials da tut ils chantuns pertutgads ed en il Fegl uffizial federal, inditgond il motiv da l’annullaziun.
 
-[^32a-1]: Integrà tras la cifra I da la LF dals 26 da sett. 2014 (Elecziuns dal Cussegl naziunal), en vigur dapi il 1. da nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+[^32a-1]: Integrà tras la cifra I da la LF dals 26 da sett. 2014 (elecziuns dal Cussegl naziunal), en vigur dapi il 1. da nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
 
 #### Art. 33
 
@@ -501,7 +501,7 @@ Sch’ina candidatura multipla vegn scuverta suenter la rectificaziun da las pro
 <sup>3</sup> Las persunas che han suttascrit ina proposta electorala pon retrair tar las chanzlias chantunalas ulteriurs cedels electorals prestampads per il pretsch custant.
 
 [^33-1]: Integrà tras la cifra I da la LF dals 18 da mars 1994, en vigur dapi ils 15 da nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^33-2]: Versiun tenor la cifra I da la LF dals 26 da sett. 2014 (Elecziuns dal Cussegl naziunal), en vigur dapi il 1. da nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+[^33-2]: Versiun tenor la cifra I da la LF dals 26 da sett. 2014 (elecziuns dal Cussegl naziunal), en vigur dapi il 1. da nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
 
 ### 2. part Elecziun ed eruida dals resultats
 
@@ -509,9 +509,9 @@ Sch’ina candidatura multipla vegn scuverta suenter la rectificaziun da las pro
 
 **Mussavia electoral**[^34-1]
 
-La Chanzlia federala edescha avant mintga elecziun per la renovaziun totala in curt mussavia electoral che vegn tramess – ensemen cun ils cedels electorals (art. 33 al. 2) – a las persunas cun dretg da votar dals chantuns cun elecziuns da proporz.
+La Chanzlia federala edescha avant mintga elecziun da renovaziun totala in curt mussavia electoral che vegn tramess – ensemen cun ils cedels electorals (art. 33 al. 2) – a las persunas cun dretg da votar dals chantuns cun elecziuns da proporz.
 
-[^34-1]: Versiun tenor la cifra I 1 da la LF dals 23 da mars 2007 concernent la midada da la legislaziun federala davart ils dretgs politiSR, en vigur dapi il 1. da schan. 2008 ([AS 2007 4635](https://fedlex.data.admin.ch/eli/oc/2007/649); [BBl 2006 5261](https://fedlex.data.admin.ch/eli/fga/2006/639)).
+[^34-1]: Versiun tenor la cifra I 1 da la LF dals 23 da mars 2007 concernent la midada da la legislaziun federala davart ils dretgs politics, en vigur dapi il 1. da schan. 2008 ([AS 2007 4635](https://fedlex.data.admin.ch/eli/oc/2007/649); [BBl 2006 5261](https://fedlex.data.admin.ch/eli/fga/2006/639)).
 
 #### Art. 35
 
@@ -529,7 +529,7 @@ La Chanzlia federala edescha avant mintga elecziun per la renovaziun totala in c
 
 Vuschs per candidatas e per candidats ch’èn morts dapi la rectificaziun da las propostas electoralas (art. 29 al. 4) valan sco vuschs da candidat.
 
-[^36-1]: Versiun tenor la cifra I da la LF dals 26 da sett. 2014 (Elecziuns dal Cussegl naziunal), en vigur dapi il 1. da nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+[^36-1]: Versiun tenor la cifra I da la LF dals 26 da sett. 2014 (elecziuns dal Cussegl naziunal), en vigur dapi il 1. da nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
 
 #### Art. 37
 
@@ -547,8 +547,8 @@ Vuschs per candidatas e per candidats ch’èn morts dapi la rectificaziun da la
 
 [^37-1]: Versiun tenor la cifra I da la LF dals 18 da mars 1994, en vigur dapi ils 15 da nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 [^37-2]: Integrà tras la cifra I da la LF dals 18 da mars 1994, en vigur dapi ils 15 da nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^37-3]: Integrà la segunda frasa tras la cifra I da la LF dals 21 da zercl. 2002, en vigur dapi il 1. da schan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
-[^37-4]: Abolì la segunda e la terza frasa tras la cifra II 4 da la LF dals 20 da mars 2008 davart la rectificaziun formala dal dretg federal, en vigur dapi il 1. d’avust 2008 ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+[^37-3]: Integrà la segunda frasa tras la cifra I da la LF dals 21 da zer. 2002, en vigur dapi il 1. da schan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^37-4]: Abolì la segunda e la terza frasa tras la cifra II 4 da la LF dals 20 da mars 2008 davart la rectificaziun formala dal dretg federal, cun effect dapi il 1. d’avust 2008 ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
 #### Art. 38
 
@@ -577,11 +577,11 @@ Dal cedel electoral vegnan stritgadas:
 
 <sup>5</sup> Il dretg d’in chantun che realisescha emprovas cun la votaziun electronica definescha las premissas per la votaziun valaivla ed ils motivs da nunvalaivladad.[^38-5]
 
-[^38-1]: Abolì tras la cifra II da la LF dals 22 da mars 1991, en vigur dapi il 1. da fanadur 1992 ([AS 1991 2388](https://fedlex.data.admin.ch/eli/oc/1991/2388_2388_2388); [BBl 1990 III 445](https://fedlex.data.admin.ch/eli/fga/1990/3_445_429_393)).
-[^38-2]: Versiun tenor la cifra I da la LF dals 26 da sett. 2014 (Elecziuns dal Cussegl naziunal), en vigur dapi il 1. da nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
-[^38-3]: Versiun tenor la cifra I da la LF dals 26 da sett. 2014 (Elecziuns dal Cussegl naziunal), en vigur dapi il 1. da nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+[^38-1]: Abolì tras la cifra II da la LF dals 22 da mars 1991, cun effect dapi il 1. da fan. 1992 ([AS 1991 2388](https://fedlex.data.admin.ch/eli/oc/1991/2388_2388_2388); [BBl 1990 III 445](https://fedlex.data.admin.ch/eli/fga/1990/3_445_429_393)).
+[^38-2]: Versiun tenor la cifra I da la LF dals 26 da sett. 2014 (elecziuns dal Cussegl naziunal), en vigur dapi il 1. da nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+[^38-3]: Versiun tenor la cifra I da la LF dals 26 da sett. 2014 (elecziuns dal Cussegl naziunal), en vigur dapi il 1. da nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
 [^38-4]: Integrà tras la cifra I da la LF dals 18 da mars 1994, en vigur dapi ils 15 da nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^38-5]: Integrà tras la cifra I da la LF dals 21 da zercl. 2002, en vigur dapi il 1. da schan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^38-5]: Integrà tras la cifra I da la LF dals 21 da zer. 2002, en vigur dapi il 1. da schan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
 
 #### Art. 39
 
@@ -597,8 +597,8 @@ Suenter che l’elecziun è ida a fin erueschan ils chantuns sin basa dals proto
 - f. per las colliaziuns da glistas: il dumber total da las vuschs che la gruppa da glistas ha survegnì;
 - g. il dumber da las vuschs vidas.
 
-[^39-1]: Versiun tenor la cifra I da la LF dals 21 da zercl. 2002, en vigur dapi il 1. da schan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
-[^39-2]: Versiun tenor la cifra I da la LF dals 21 da zercl. 2002, en vigur dapi il 1. da schan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^39-1]: Versiun tenor la cifra I da la LF dals 21 da zer. 2002, en vigur dapi il 1. da schan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^39-2]: Versiun tenor la cifra I da la LF dals 21 da zer. 2002, en vigur dapi il 1. da schan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
 
 #### Art. 40
 
@@ -612,7 +612,7 @@ Suenter che l’elecziun è ida a fin erueschan ils chantuns sin basa dals proto
 
 [^40-1]: Versiun tenor la cifra I da la LF dals 18 da mars 1994, en vigur dapi ils 15 da nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 [^40-2]: Versiun tenor la cifra I da la LF dals 18 da mars 1994, en vigur dapi ils 15 da nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^40-3]: Abolì tras la cifra I da la LF dals 18 da mars 1994, en vigur dapi ils 15 da nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^40-3]: Abolì tras la cifra I da la LF dals 18 da mars 1994, cun effect dapi ils 15 da nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 41
 
@@ -703,8 +703,8 @@ Il chantun po publitgar sin via electronica ed en il fegl uffizial chantunal tut
 
 <sup>2</sup> Il dretg chantunal po prevair in’elecziun taciturna, sch’igl è entrada mo ina suletta candidatura valaivla tar l’autoritad chantunala cumpetenta fin il 48avel di (7avel glindesdi) avant l’elecziun a las 12.00.[^47-2]
 
-[^47-1]: Integrà tras la cifra I da la LF dals 26 da sett. 2014 (Elecziuns dal Cussegl naziunal), en vigur dapi il 1. da nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
-[^47-2]: Integrà tenor la cifra I da la LF dals 18 da mars 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)). Versiun tenor la cifra I 1 da la LF dals 23 da mars 2007 concernent la midada da la legislaziun federala davart ils dretgs politiSR, en vigur dapi il 1. da schan. 2008 ([AS 2007 4635](https://fedlex.data.admin.ch/eli/oc/2007/649); [BBl 2006 5261](https://fedlex.data.admin.ch/eli/fga/2006/639)).
+[^47-1]: Integrà tras la cifra I da la LF dals 26 da sett. 2014 (elecziuns dal Cussegl naziunal), en vigur dapi il 1. da nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+[^47-2]: Integrà tenor la cifra I da la LF dals 18 da mars 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)). Versiun tenor la cifra I 1 da la LF dals 23 da mars 2007 concernent la midada da la legislaziun federala davart ils dretgs politics, en vigur dapi il 1. da schan. 2008 ([AS 2007 4635](https://fedlex.data.admin.ch/eli/oc/2007/649); [BBl 2006 5261](https://fedlex.data.admin.ch/eli/fga/2006/639)).
 
 #### Art. 48
 
@@ -712,7 +712,7 @@ Il chantun po publitgar sin via electronica ed en il fegl uffizial chantunal tut
 
 Ils chantuns tramettan a las persunas cun dretg da votar il pli tard 3 ed il pli baud 4 emnas avant il di d’elecziun in cedel electoral.
 
-[^48-1]: Versiun tenor la cifra I da la LF dals 26 da sett. 2014 (Elecziuns dal Cussegl naziunal), en vigur dapi il 1. da nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+[^48-1]: Versiun tenor la cifra I da la LF dals 26 da sett. 2014 (elecziuns dal Cussegl naziunal), en vigur dapi il 1. da nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
 
 #### Art. 49
 
@@ -732,9 +732,9 @@ Cedels electorals èn nunvalaivels, sch’els:
 
 <sup>3</sup> Il dretg d’in chantun che realisescha emprovas cun la votaziun electronica definescha las premissas per la votaziun valaivla ed ils motivs da nunvalaivladad.[^49-3]
 
-[^49-1]: Abolì tras la cifra II da la LF dals 22 da mars 1991, en vigur dapi il 1. da fanadur 1992 ([AS 1991 2388](https://fedlex.data.admin.ch/eli/oc/1991/2388_2388_2388); [BBl 1990 III 445](https://fedlex.data.admin.ch/eli/fga/1990/3_445_429_393)).
+[^49-1]: Abolì tras la cifra II da la LF dals 22 da mars 1991, cun effect dapi il 1. da fan. 1992 ([AS 1991 2388](https://fedlex.data.admin.ch/eli/oc/1991/2388_2388_2388); [BBl 1990 III 445](https://fedlex.data.admin.ch/eli/fga/1990/3_445_429_393)).
 [^49-2]: Integrà tras la cifra I da la LF dals 18 da mars 1994, en vigur dapi ils 15 da nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^49-3]: Integrà tras la cifra I da la LF dals 21 da zercl. 2002, en vigur dapi il 1. da schan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^49-3]: Integrà tras la cifra I da la LF dals 21 da zer. 2002, en vigur dapi il 1. da schan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
 
 #### Art. 50
 
@@ -751,7 +751,7 @@ Nunvalaivels èn:
 - a. vuschs accordadas a candidatas ed a candidats che na figureschan betg sin il cedel electoral prestampà;
 - b. cedels electorals, nua ch’ins ha fatg ina crusch tar dapli ch’ina candidata u ch’in candidat.
 
-[^50-1]: Versiun tenor la cifra I 1 da la LF dals 23 da mars 2007 concernent la midada da la legislaziun federala davart ils dretgs politiSR, en vigur dapi il 1. da schan. 2008 ([AS 2007 4635](https://fedlex.data.admin.ch/eli/oc/2007/649); [BBl 2006 5261](https://fedlex.data.admin.ch/eli/fga/2006/639)).
+[^50-1]: Versiun tenor la cifra I 1 da la LF dals 23 da mars 2007 concernent la midada da la legislaziun federala davart ils dretgs politics, en vigur dapi il 1. da schan. 2008 ([AS 2007 4635](https://fedlex.data.admin.ch/eli/oc/2007/649); [BBl 2006 5261](https://fedlex.data.admin.ch/eli/fga/2006/639)).
 
 #### Art. 51
 
@@ -771,13 +771,13 @@ Ils artitgels 47 fin 49 valan er per las elecziuns substitutivas.
 
 <sup>2</sup> Il chantun publitgescha ils resultats da tut las candidatas e da tut ils candidats ed eventualmain da tut las glistas – inditgond la pussaivladad da far recurs – en il Fegl uffizial chantunal, e quai il pli tard entaifer 8 dis suenter il di da l’elecziun.[^52-1]
 
-<sup>3</sup> Ils resultats da las elecziuns per la renovaziun totala, da las elecziuns cumplementaras e da las elecziuns substitutivas ston vegnir publitgads en il Fegl uffizial federal.[^52-2] Ils resultats vegnan publitgads pled per pled er en la versiun electronica.[^52-3]
+<sup>3</sup> Ils resultats da las elecziuns da renovaziun totala, da las elecziuns cumplementaras e da las elecziuns substitutivas ston vegnir publitgads en il Fegl uffizial federal.[^52-2] Ils resultats vegnan publitgads pled per pled er en la versiun electronica.[^52-3]
 
 <sup>4</sup> Immediatamain suenter ch’il termin da recurs è scadì (art. 77 al. 2) transmetta il chantun il protocol electoral a la Chanzlia federala. Ils cedels electorals vegnan tramess entaifer 10 dis suenter ch’il termin da recurs è scadì al lieu inditgà da la Chanzlia federala.[^52-4]
 
-[^52-1]: Versiun tenor la cifra I da la LF dals 21 da zercl. 2002, en vigur dapi il 1. da schan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
-[^52-2]: Integrà tras l’art. 17 cifra 1 da la LF dals 21 da mars 1986 davart las collecziuns da leschas ed il BBl, en vigur dapi ils 15 da matg 1987 ([AS 1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600); [BBl 1983 III 429](https://fedlex.data.admin.ch/eli/fga/1983/3_429_441_333)).
-[^52-3]: Integrà la segunda frasa tras l’art. 21 cifra 1 da la LF dals 18 da zercl. 2004 davart las publicaziuns uffizialas, en vigur dapi il 1. da schan. 2005 ([AS 2004 4929](https://fedlex.data.admin.ch/eli/oc/2004/745); [BBl 2003 7711](https://fedlex.data.admin.ch/eli/fga/2003/1274)).
+[^52-1]: Versiun tenor la cifra I da la LF dals 21 da zer. 2002, en vigur dapi il 1. da schan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^52-2]: Integrà tras l’art. 17 cifra 1 da la LF dals 21 da mars 1986 davart las collecziuns da leschas ed il Fegl uffizial federal, en vigur dapi ils 15 da matg 1987 ([AS 1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600); [BBl 1983 III 429](https://fedlex.data.admin.ch/eli/fga/1983/3_429_441_333)).
+[^52-3]: Integrà la segunda frasa tras l’art. 21 cifra 1 da la LF dals 18 da zer. 2004 davart las publicaziuns uffizialas, en vigur dapi il 1. da schan. 2005 ([AS 2004 4929](https://fedlex.data.admin.ch/eli/oc/2004/745); [BBl 2003 7711](https://fedlex.data.admin.ch/eli/fga/2003/1274)).
 [^52-4]: Integrà tras la cifra I da la LF dals 18 da mars 1994, en vigur dapi ils 15 da nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 53
@@ -790,7 +790,7 @@ Ils artitgels 47 fin 49 valan er per las elecziuns substitutivas.
 
 <sup>3</sup> Sch’ina suppleanta u in suppleant suonda en in mandat ubain sch’ina nova commembra u in nov commember vegn elegì tras elecziuns cumplementaras u tras elecziuns substitutivas, dastga quella u quel prender part a las tractativas pir cur che sia elecziun è vegnida verifitgada.[^53-2]
 
-[^53-1]: Versiun tenor la cifra I da la LF dals 21 da zercl. 2002, en vigur dapi il 1. da schan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^53-1]: Versiun tenor la cifra I da la LF dals 21 da zer. 2002, en vigur dapi il 1. da schan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
 [^53-2]: Versiun tenor la cifra I da la LF dals 18 da mars 1994, en vigur dapi ils 15 da nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 ### 5. chapitel Midadas durant la perioda d’uffizi
@@ -819,9 +819,9 @@ La demissiun d’ina commembra u d’in commember dal Cussegl naziunal sto vegni
 
 <sup>3</sup> Sch’il dretg da proponer candidatas e candidats na vegn betg duvrà, ha lieu in’elecziun dal pievel.[^56-3] Sch’i ston vegnir occupads plirs mandats, vegnan applitgadas las disposiziuns davart l’elecziun da proporz, uschiglio quellas davart l’elecziun da maiorz.
 
-[^56-1]: Versiun tenor la cifra I da la LF dals 21 da zercl. 2002, en vigur dapi il 1. da schan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^56-1]: Versiun tenor la cifra I da la LF dals 21 da zer. 2002, en vigur dapi il 1. da schan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
 [^56-2]: Versiun tenor la cifra I da la LF dals 18 da mars 1994, en vigur dapi ils 15 da nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^56-3]: Versiun tenor la cifra I da la LF dals 21 da zercl. 2002, en vigur dapi il 1. da schan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^56-3]: Versiun tenor la cifra I da la LF dals 21 da zer. 2002, en vigur dapi il 1. da schan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
 
 #### Art. 57
 
@@ -831,11 +831,11 @@ La perioda d’uffizi dal Cussegl naziunal va a fin cun la constituziun dal cuss
 
 [^57-1]: Versiun tenor la cifra I da la LF dals 18 da mars 1994, en vigur dapi ils 15 da nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
-## 4. titel**** Referendum
+## 4. titel Referendum
 
 [^tit4-1]
 
-[^tit4-1]: Las disposiziuns dal 4. titel (art. 59–67) da questa lescha ch’èn vegnidas revedidas tras la LF dals 21 da zercl. 1996 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753)) valan mo per ils decrets ch’èn vegnids deliberads da las chombras federalas suenter ils 31 da mars 1997 ([AS 1997 760](https://fedlex.data.admin.ch/eli/oc/1997/760_760_760)art. 2 al. 1).
+[^tit4-1]: Las disposiziuns dal 4. titel (art. 59–67) da questa lescha ch’èn vegnidas revedidas tras la LF dals 21 da zer. 1996 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753)) valan mo per ils decrets ch’èn vegnids deliberads da las chombras federalas suenter ils 31 da mars 1997 ([AS 1997 760](https://fedlex.data.admin.ch/eli/oc/1997/760_760_760)art. 2 al. 1).
 
 ### 1. chapitel Referendum obligatoric
 
@@ -847,17 +847,17 @@ Ils decrets che suttastattan al referendum obligatoric vegnan publitgads tras l�
 
 ### 2. chapitel Referendum facultativ
 
-### 1. part En general****
+### 1. part En general
 
 [^tit4-chap2-sec1-1]
 
-[^tit4-chap2-sec1-1]: Integrà tras la cifra I da la LF dals 21 da zercl. 1996, en vigur dapi il 1. d’avr. 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^tit4-chap2-sec1-1]: Integrà tras la cifra I da la LF dals 21 da zer. 1996, en vigur dapi il 1. d’avr. 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 59
 
 [^59-1]
 
-[^59-1]: Abolì tras la cifra II 4 da la LF dals 20 da mars 2008 davart la rectificaziun formala dal dretg federal, en vigur dapi il 1. d’avust 2008 ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+[^59-1]: Abolì tras la cifra II 4 da la LF dals 20 da mars 2008 davart la rectificaziun formala dal dretg federal, cun effect dapi il 1. d’avust 2008 ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
 #### Art. 59a
 
@@ -865,7 +865,7 @@ Ils decrets che suttastattan al referendum obligatoric vegnan publitgads tras l�
 
 Il referendum sto vegnir pretendì dal dumber da chantuns previs en la Constituziun federala u inoltrà cun il dumber necessari da suttascripziuns inclusiv l’attestaziun dal dretg da votar a la Chanzlia federala avant ch’il termin da referendum scadia.
 
-[^59a-1]: Integrà tras la cifra I da la LF dals 21 da zercl. 1996, en vigur dapi il 1. d’avr. 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^59a-1]: Integrà tras la cifra I da la LF dals 21 da zer. 1996, en vigur dapi il 1. d’avr. 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 59b
 
@@ -873,7 +873,7 @@ Il referendum sto vegnir pretendì dal dumber da chantuns previs en la Constituz
 
 In referendum na po betg vegnir retratg.
 
-[^59b-1]: Integrà tras la cifra I da la LF dals 21 da zercl. 1996, en vigur dapi il 1. d’avr. 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^59b-1]: Integrà tras la cifra I da la LF dals 21 da zer. 1996, en vigur dapi il 1. d’avr. 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 59c
 
@@ -881,13 +881,13 @@ In referendum na po betg vegnir retratg.
 
 Sch’il referendum è reussì, ordinescha il Cussegl federal la votaziun dal pievel.
 
-[^59c-1]: Integrà tras la cifra I da la LF dals 21 da zercl. 1996, en vigur dapi il 1. d’avr. 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^59c-1]: Integrà tras la cifra I da la LF dals 21 da zer. 1996, en vigur dapi il 1. d’avr. 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
-### 2. part Referendum dal pievel****
+### 2. part Referendum dal pievel
 
 [^tit4-chap2-sec2-1]
 
-[^tit4-chap2-sec2-1]: Integrà tras la cifra I da la LF dals 21 da zercl. 1996, en vigur dapi il 1. d’avr. 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^tit4-chap2-sec2-1]: Integrà tras la cifra I da la LF dals 21 da zer. 1996, en vigur dapi il 1. d’avr. 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 60
 
@@ -903,10 +903,10 @@ Sch’ina dumonda da referendum vegn dada libra per la suttascripziun, sto la gl
 
 <sup>2</sup> Sche pliras dumondas da referendum vegnan dadas libras per la suttascripziun, sto vegnir fatga per mintgina da quellas in’atgna glista da suttascripziuns. Glistas da suttascripziuns da pliras dumondas dastgan figurar sin la medema pagina sulettamain, sch’ellas pon vegnir separadas ina da l’autra, cur ch’ellas vegnan inoltradas.[^60-4]
 
-[^60-1]: Versiun tenor la cifra I da la LF dals 21 da zercl. 1996, en vigur dapi il 1. d’avr. 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^60-2]: Versiun tenor la cifra I da la LF dals 21 da zercl. 1996, en vigur dapi il 1. d’avr. 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^60-3]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^60-4]: Integrà tras la cifra I da la LF dals 21 da zercl. 1996, en vigur dapi il 1. d’avr. 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^60-1]: Versiun tenor la cifra I da la LF dals 21 da zer. 1996, en vigur dapi il 1. d’avr. 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^60-2]: Versiun tenor la cifra I da la LF dals 21 da zer. 1996, en vigur dapi il 1. d’avr. 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^60-3]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^60-4]: Integrà tras la cifra I da la LF dals 21 da zer. 1996, en vigur dapi il 1. d’avr. 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 60a
 
@@ -914,7 +914,7 @@ Sch’ina dumonda da referendum vegn dada libra per la suttascripziun, sto la gl
 
 Tgi che telechargia ina glista da suttascripziuns electronica che vegn messa a disposiziun per in referendum è responsabel da controllar che quella adempleschia tut las pretensiuns formalas tenor la lescha.
 
-[^60a-1]: Integrà tras la cifra I da la LF dals 21 da zercl. 2002, en vigur dapi il 1. da schan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^60a-1]: Integrà tras la cifra I da la LF dals 21 da zer. 2002, en vigur dapi il 1. da schan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
 
 #### Art. 61
 
@@ -928,9 +928,9 @@ Tgi che telechargia ina glista da suttascripziuns electronica che vegn messa a d
 
 <sup>3</sup> Ella dastga suttascriver la medema dumonda da referendum mo ina giada.
 
-[^61-1]: Versiun tenor la cifra I da la LF dals 26 da sett. 2014 (Elecziuns dal Cussegl naziunal), en vigur dapi il 1. da nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
-[^61-2]: Integrà tras la cifra I da la LF dals 21 da zercl. 1996, en vigur dapi il 1. d’avr. 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^61-3]: Versiun tenor la cifra I da la LF dals 26 da sett. 2014 (Elecziuns dal Cussegl naziunal), en vigur dapi il 1. da nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+[^61-1]: Versiun tenor la cifra I da la LF dals 26 da sett. 2014 (elecziuns dal Cussegl naziunal), en vigur dapi il 1. da nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+[^61-2]: Integrà tras la cifra I da la LF dals 21 da zer. 1996, en vigur dapi il 1. d’avr. 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^61-3]: Versiun tenor la cifra I da la LF dals 26 da sett. 2014 (elecziuns dal Cussegl naziunal), en vigur dapi il 1. da nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
 
 #### Art. 62
 
@@ -944,7 +944,7 @@ Tgi che telechargia ina glista da suttascripziuns electronica che vegn messa a d
 
 <sup>4</sup> L’attestaziun dal dretg da votar per las persunas che han suttascrit in referendum po vegnir dada en total per pliras glistas.
 
-[^62-1]: Versiun tenor la cifra I da la LF dals 26 da sett. 2014 (Elecziuns dal Cussegl naziunal), en vigur dapi il 1. da nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+[^62-1]: Versiun tenor la cifra I da la LF dals 26 da sett. 2014 (elecziuns dal Cussegl naziunal), en vigur dapi il 1. da nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
 
 #### Art. 63
 
@@ -964,14 +964,14 @@ Tgi che telechargia ina glista da suttascripziuns electronica che vegn messa a d
 
 <sup>2</sup> Glistas da suttascripziuns inoltradas na vegnan betg returnadas ed i na po betg vegnir prendì invista da questas glistas.
 
-[^64-1]: Versiun tenor la cifra I da la LF dals 21 da zercl. 1996, en vigur dapi il 1. d’avr. 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^64-2]: Abolì tras la cifra I da la LF dals 21 da zercl. 1996, en vigur dapi il 1. d’avr. 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^64-1]: Versiun tenor la cifra I da la LF dals 21 da zer. 1996, en vigur dapi il 1. d’avr. 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^64-2]: Abolì tras la cifra I da la LF dals 21 da zer. 1996, cun effect dapi il 1. d’avr. 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 65
 
 [^65-1]
 
-[^65-1]: Abolì tras la cifra I da la LF dals 21 da zercl. 1996, en vigur dapi il 1. d’avr. 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^65-1]: Abolì tras la cifra I da la LF dals 21 da zer. 1996, cun effect dapi il 1. d’avr. 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 66
 
@@ -989,16 +989,16 @@ Nunvalaivlas èn:
 
 <sup>3</sup> La Chanzlia federala publitgescha la disposiziun davart la reussida dal referendum inclusiv il dumber da las suttascripziuns valaivlas e nunvalaivlas divididas tenor ils chantuns en il Fegl uffizial federal.[^66-4]
 
-[^66-1]: Versiun tenor la cifra I da la LF dals 21 da zercl. 1996, en vigur dapi il 1. d’avr. 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^66-2]: Versiun tenor la cifra I da la LF dals 21 da zercl. 2002, en vigur dapi il 1. da schan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
-[^66-3]: Versiun tenor la cifra I da la LF dals 21 da zercl. 2002, en vigur dapi il 1. da schan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^66-1]: Versiun tenor la cifra I da la LF dals 21 da zer. 1996, en vigur dapi il 1. d’avr. 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^66-2]: Versiun tenor la cifra I da la LF dals 21 da zer. 2002, en vigur dapi il 1. da schan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^66-3]: Versiun tenor la cifra I da la LF dals 21 da zer. 2002, en vigur dapi il 1. da schan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
 [^66-4]: Versiun tenor la cifra II 4 da la LF dals 20 da mars 2008 davart la rectificaziun formala dal dretg federal, en vigur dapi il 1. d’avust 2008 ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
-### 3. part Referendum dals chantuns****
+### 3. part Referendum dals chantuns
 
 [^tit4-chap2-sec3-1]
 
-[^tit4-chap2-sec3-1]: Integrà tras la cifra I da la LF dals 21 da zercl. 1996, en vigur dapi il 1. d’avr. 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^tit4-chap2-sec3-1]: Integrà tras la cifra I da la LF dals 21 da zer. 1996, en vigur dapi il 1. d’avr. 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 67
 
@@ -1006,7 +1006,7 @@ Nunvalaivlas èn:
 
 Sch’il dretg chantunal na fixescha nagut auter, decida il parlament chantunal, sch’i vegn fatg in referendum dals chantuns.
 
-[^67-1]: Versiun tenor la cifra I da la LF dals 21 da zercl. 1996, en vigur dapi il 1. d’avr. 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^67-1]: Versiun tenor la cifra I da la LF dals 21 da zer. 1996, en vigur dapi il 1. d’avr. 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 67a
 
@@ -1019,7 +1019,7 @@ La brev da la regenza chantunala a la Chanzlia federala inditgescha:
 - c. las disposiziuns da cumpetenza dal dretg chantunal davart il referendum dals chantuns;
 - d. la data ed il resultat dal conclus davart il referendum.
 
-[^67a-1]: Integrà tras la cifra I da la LF dals 21 da zercl. 1996, en vigur dapi il 1. d’avr. 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^67a-1]: Integrà tras la cifra I da la LF dals 21 da zer. 1996, en vigur dapi il 1. d’avr. 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 67b
 
@@ -1037,14 +1037,14 @@ Nunvalaivlas èn dumondas da referendum che:
 
 <sup>3</sup> La Chanzlia federala infurmescha las regenzas da tut ils chantuns che han inoltrà in referendum en scrit tras ina disposiziun, sch’il referendum dals chantuns è reussì u betg e publitgescha l’infurmaziun en il Fegl uffizial federal, inditgond il dumber da las dumondas da referendum chantunalas valaivlas e nunvalaivlas.
 
-[^67b-1]: Integrà tras la cifra I da la LF dals 21 da zercl. 1996, en vigur dapi il 1. d’avr. 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^67b-2]: Versiun tenor la cifra I da la LF dals 21 da zercl. 2002, en vigur dapi il 1. da schan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^67b-1]: Integrà tras la cifra I da la LF dals 21 da zer. 1996, en vigur dapi il 1. d’avr. 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^67b-2]: Versiun tenor la cifra I da la LF dals 21 da zer. 2002, en vigur dapi il 1. da schan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
 
-## 5. titel**** Iniziativa dal pievel
+## 5. titel Iniziativa dal pievel
 
 [^tit5-1]
 
-[^tit5-1]: Las disposiziuns dal 5. titel (art. 68–74) da questa lescha ch’èn vegnidas revedidas tras la LF dals 21 da zercl. 1996 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753)) valan mo per las iniziativas dal pievel che cumenzan a rimnar suttascripziuns suenter ils 31 da mars 1997 ([AS 1997 760](https://fedlex.data.admin.ch/eli/oc/1997/760_760_760)art. 2 al. 2).
+[^tit5-1]: Las disposiziuns dal 5. titel (art. 68–74) da questa lescha ch’èn vegnidas revedidas tras la LF dals 21 da zer. 1996 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753)) valan mo per las iniziativas dal pievel che cumenzan a rimnar suttascripziuns suenter ils 31 da mars 1997 ([AS 1997 760](https://fedlex.data.admin.ch/eli/oc/1997/760_760_760)art. 2 al. 2).
 
 #### Art. 68
 
@@ -1062,13 +1062,13 @@ Sch’ina iniziativa dal pievel vegn dada libra per la suttascripziun, sto la gl
 
 <sup>2</sup> L’artitgel 60 alinea 2 vala er per iniziativas dal pievel.[^68-7]
 
-[^68-1]: Versiun tenor la cifra I da la LF dals 21 da zercl. 1996, en vigur dapi il 1. d’avr. 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^68-2]: Versiun tenor la cifra I da la LF dals 21 da zercl. 1996, en vigur dapi il 1. d’avr. 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^68-3]: Versiun tenor la cifra I da la LF dals 25 da sett. 2009 (Retratga cundiziunada d’ina iniziativa dal pievel), en vigur dapi il 1. da favrer 2010 ([AS 2010 271](https://fedlex.data.admin.ch/eli/oc/2010/35); [BBl 2009 3591](https://fedlex.data.admin.ch/eli/fga/2009/699)[3609](https://fedlex.data.admin.ch/eli/fga/2009/701)).
-[^68-4]: Versiun tenor la cifra I da la LF dals 21 da zercl. 1996, en vigur dapi il 1. d’avr. 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^68-5]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^68-6]: Versiun tenor la cifra I da la LF dals 21 da zercl. 1996, en vigur dapi il 1. d’avr. 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^68-7]: Integrà tras la cifra I da la LF dals 21 da zercl. 1996, en vigur dapi il 1. d’avr. 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^68-1]: Versiun tenor la cifra I da la LF dals 21 da zer. 1996, en vigur dapi il 1. d’avr. 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^68-2]: Versiun tenor la cifra I da la LF dals 21 da zer. 1996, en vigur dapi il 1. d’avr. 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^68-3]: Versiun tenor la cifra I da la LF dals 25 da sett. 2009 (retratga cundiziunada d’ina iniziativa dal pievel), en vigur dapi il 1. da favr. 2010 ([AS 2010 271](https://fedlex.data.admin.ch/eli/oc/2010/35); [BBl 2009 3591](https://fedlex.data.admin.ch/eli/fga/2009/699)[3609](https://fedlex.data.admin.ch/eli/fga/2009/701)).
+[^68-4]: Versiun tenor la cifra I da la LF dals 21 da zer. 1996, en vigur dapi il 1. d’avr. 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^68-5]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^68-6]: Versiun tenor la cifra I da la LF dals 21 da zer. 1996, en vigur dapi il 1. d’avr. 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^68-7]: Integrà tras la cifra I da la LF dals 21 da zer. 1996, en vigur dapi il 1. d’avr. 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 69
 
@@ -1082,8 +1082,8 @@ Sch’ina iniziativa dal pievel vegn dada libra per la suttascripziun, sto la gl
 
 <sup>4</sup> Il titel ed il text da l’iniziativa sco er ils nums da las auturas e dals auturs vegnan publitgads en il Fegl uffizial federal.[^69-2]
 
-[^69-1]: Versiun tenor la cifra I da la LF dals 21 da zercl. 1996, en vigur dapi il 1. d’avr. 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^69-2]: Versiun tenor la cifra I da la LF dals 21 da zercl. 1996, en vigur dapi il 1. d’avr. 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^69-1]: Versiun tenor la cifra I da la LF dals 21 da zer. 1996, en vigur dapi il 1. d’avr. 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^69-2]: Versiun tenor la cifra I da la LF dals 21 da zer. 1996, en vigur dapi il 1. d’avr. 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 69a
 
@@ -1091,7 +1091,7 @@ Sch’ina iniziativa dal pievel vegn dada libra per la suttascripziun, sto la gl
 
 Tgi che telechargia ina glista da suttascripziuns electronica che vegn messa a disposiziun per ina iniziativa dal pievel è responsabel da controllar che quella adempleschia tut las pretensiuns formalas tenor la lescha.
 
-[^69a-1]: Integrà tras la cifra I da la LF dals 21 da zercl. 2002, en vigur dapi il 1. da schan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^69a-1]: Integrà tras la cifra I da la LF dals 21 da zer. 2002, en vigur dapi il 1. da schan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
 
 #### Art. 70
 
@@ -1099,7 +1099,7 @@ Tgi che telechargia ina glista da suttascripziuns electronica che vegn messa a d
 
 Las disposiziuns davart la suttascripziun (art. 61), davart l’attestaziun dal dretg da votar (art. 62) e davart la refusa d’attestar il dretg da votar (art. 63) che valan per il referendum, valan confurm al senn er per l’iniziativa dal pievel.
 
-[^70-1]: Versiun tenor la cifra I da la LF dals 21 da zercl. 1996, en vigur dapi il 1. d’avr. 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^70-1]: Versiun tenor la cifra I da la LF dals 21 da zer. 1996, en vigur dapi il 1. d’avr. 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 71
 
@@ -1125,8 +1125,8 @@ Nunvalaivlas èn:
 
 <sup>3</sup> La Chanzlia federala publitgescha la disposiziun davart la reussida da l’iniziativa dal pievel inclusiv il dumber da las suttascripziuns valaivlas e nunvalaivlas divididas tenor ils chantuns en il Fegl uffizial federal.
 
-[^72-1]: Versiun tenor la cifra I da la LF dals 21 da zercl. 1996, en vigur dapi il 1. d’avr. 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^72-2]: Versiun tenor la cifra I da la LF dals 21 da zercl. 2002, en vigur dapi il 1. da schan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^72-1]: Versiun tenor la cifra I da la LF dals 21 da zer. 1996, en vigur dapi il 1. d’avr. 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^72-2]: Versiun tenor la cifra I da la LF dals 21 da zer. 2002, en vigur dapi il 1. da schan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
 
 #### Art. 73
 
@@ -1138,7 +1138,7 @@ Nunvalaivlas èn:
 
 <sup>3</sup> Ina iniziativa en furma d’ina proposta generala na po betg pli vegnir retratga, suenter che l’Assamblea federala l’ha approvada.
 
-[^73-1]: Versiun tenor la cifra I da la LF dals 21 da zercl. 1996, en vigur dapi il 1. d’avr. 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^73-1]: Versiun tenor la cifra I da la LF dals 21 da zer. 1996, en vigur dapi il 1. d’avr. 1997 ([AS 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 73a
 
@@ -1156,13 +1156,13 @@ La retratga cundiziunada s’effectuescha, sche:
 - b. igl è segir e legalmain valaivel ch’il referendum inoltrà cunter la cuntraproposta indirecta n’è betg reussì;
 - c. il Cussegl federal ha verifitgà, en cas d’in referendum, tenor l’artitgel 15 alinea 1 il resultat da la votaziun dal pievel, nua che la cuntraproposta indirecta è vegnida approvada.
 
-[^73a-1]: Integrà tras la cifra I da la LF dals 25 da sett. 2009 (Retratga cundiziunada d’ina iniziativa dal pievel), en vigur dapi il 1. da favrer 2010 ([AS 2010 271](https://fedlex.data.admin.ch/eli/oc/2010/35); [BBl 2009 3591](https://fedlex.data.admin.ch/eli/fga/2009/699)[3609](https://fedlex.data.admin.ch/eli/fga/2009/701)).
+[^73a-1]: Integrà tras la cifra I da la LF dals 25 da sett. 2009 (retratga cundiziunada d’ina iniziativa dal pievel), en vigur dapi il 1. da favr. 2010 ([AS 2010 271](https://fedlex.data.admin.ch/eli/oc/2010/35); [BBl 2009 3591](https://fedlex.data.admin.ch/eli/fga/2009/699)[3609](https://fedlex.data.admin.ch/eli/fga/2009/701)).
 
 #### Art. 74
 
 [^74-1]
 
-[^74-1]: Abolì tras la cifra I da la LF dals 25 da sett. 2009 (Retratga cundiziunada d’ina iniziativa dal pievel), en vigur dapi il 1. da favrer 2010 ([AS 2010 271](https://fedlex.data.admin.ch/eli/oc/2010/35); [BBl 2009 3591](https://fedlex.data.admin.ch/eli/fga/2009/699)[3609](https://fedlex.data.admin.ch/eli/fga/2009/701)).
+[^74-1]: Abolì tras la cifra I da la LF dals 25 da sett. 2009 (retratga cundiziunada d’ina iniziativa dal pievel), cun effect dapi il 1. da favr. 2010 ([AS 2010 271](https://fedlex.data.admin.ch/eli/oc/2010/35); [BBl 2009 3591](https://fedlex.data.admin.ch/eli/fga/2009/699)[3609](https://fedlex.data.admin.ch/eli/fga/2009/701)).
 
 #### Art. 75
 
@@ -1174,8 +1174,8 @@ La retratga cundiziunada s’effectuescha, sche:
 
 <sup>3</sup> L’unitad da la furma è observada, sche l’iniziativa vegn formulada exclusivamain sco proposta generala u sco sboz elavurà.
 
-[^75-1]: Versiun tenor la cifra I da la LF dals 21 da zercl. 2002, en vigur dapi il 1. da schan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
-[^75-2]: Versiun tenor la cifra I da la O dals 8 d’october 1999, en vigur dapi il 1. da mars 2000 ([AS 2000 411](https://fedlex.data.admin.ch/eli/oc/2000/90); [BBl 1999 7922](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784)).
+[^75-1]: Versiun tenor la cifra I da la LF dals 21 da zer. 2002, en vigur dapi il 1. da schan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^75-2]: Versiun tenor la cifra I da la O dals 8 d’oct. 1999, en vigur dapi il 1. da mars 2000 ([AS 2000 411](https://fedlex.data.admin.ch/eli/oc/2000/90); [BBl 1999 7922](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784)).
 
 #### Art. 75a
 
@@ -1191,9 +1191,9 @@ La retratga cundiziunada s’effectuescha, sche:
 
 <sup>4</sup> Per il tractament d’ina iniziativa dal pievel tras il Cussegl federal e tras l’Assamblea federala sco er per ils termins che ston vegnir observads en quest connex valan las disposiziuns da la lescha dal parlament dals 13 da december 2002[^75a-3].
 
-[^75a-1]: Integrà tras la cifra I da la LF dals 25 da sett. 2009 (Retratga cundiziunada d’ina iniziativa dal pievel), en vigur dapi il 1. da favrer 2010 ([AS 2010 271](https://fedlex.data.admin.ch/eli/oc/2010/35); [BBl 2009 3591](https://fedlex.data.admin.ch/eli/fga/2009/699)[3609](https://fedlex.data.admin.ch/eli/fga/2009/701)).
-[^75a-2]: Integrà tras la cifra I da la LF dals 26 da sett. 2014 (Elecziuns dal Cussegl naziunal), en vigur dapi il 1. da mars 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
-[^75a-3]: [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
+[^75a-1]: Integrà tras la cifra I da la LF dals 25 da sett. 2009 (retratga cundiziunada d’ina iniziativa dal pievel), en vigur dapi il 1. da favr. 2010 ([AS 2010 271](https://fedlex.data.admin.ch/eli/oc/2010/35); [BBl 2009 3591](https://fedlex.data.admin.ch/eli/fga/2009/699)[3609](https://fedlex.data.admin.ch/eli/fga/2009/701)).
+[^75a-2]: Integrà tras la cifra I da la LF dals 26 da sett. 2014 (elecziuns dal Cussegl naziunal), en vigur dapi il 1. da mars 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+[^75a-3]: [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)
 
 #### Art. 76
 
@@ -1211,14 +1211,14 @@ Sche l’Assamblea federala concluda in cuntraproject, vegnan preschentadas a la
 
 <sup>3</sup> Sche tant l’iniziativa dal pievel sco er il cuntraproject vegnan acceptads, decida il resultat da la terza dumonda. Quel project che cuntanscha dapli vuschs dal pievel e dals chantuns tar la terza dumonda entra en vigur.
 
-[^76-1]: Versiun tenor la cifra I da la O dals 8 d’october 1999, en vigur dapi il 1. da mars 2000 ([AS 2000 411](https://fedlex.data.admin.ch/eli/oc/2000/90); [BBl 1999 7922](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784)).
-[^76-2]: Integrà tras la cifra I da la LF dals 25 da sett. 2009 (Retratga cundiziunada d’ina iniziativa dal pievel), en vigur dapi il 1. da favrer 2010 ([AS 2010 271](https://fedlex.data.admin.ch/eli/oc/2010/35); [BBl 2009 3591](https://fedlex.data.admin.ch/eli/fga/2009/699)[3609](https://fedlex.data.admin.ch/eli/fga/2009/701)).
+[^76-1]: Versiun tenor la cifra I da la O dals 8 d’oct. 1999, en vigur dapi il 1. da mars 2000 ([AS 2000 411](https://fedlex.data.admin.ch/eli/oc/2000/90); [BBl 1999 7922](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784)).
+[^76-2]: Integrà tras la cifra I da la LF dals 25 da sett. 2009 (retratga cundiziunada d’ina iniziativa dal pievel), en vigur dapi il 1. da favr. 2010 ([AS 2010 271](https://fedlex.data.admin.ch/eli/oc/2010/35); [BBl 2009 3591](https://fedlex.data.admin.ch/eli/fga/2009/699)[3609](https://fedlex.data.admin.ch/eli/fga/2009/701)).
 
-## 5*a*. titel**** Register da las partidas
+## 5*a*. titel Register da las partidas
 
 [^tit5a-1]
 
-[^tit5a-1]: Integrà tras la cifra I da la LF dals 21 da zercl. 2002, en vigur dapi il 1. da schan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^tit5a-1]: Integrà tras la cifra I da la LF dals 21 da zer. 2002, en vigur dapi il 1. da schan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
 
 #### Art. 76a
 
@@ -1239,7 +1239,163 @@ Per sa laschar registrar en il register da las partidas inoltrescha l’uniun a 
 
 <sup>3</sup> La Chanzlia federala maina in register cun las indicaziuns da las partidas. Quest register è public. Ils detagls regla l’Assamblea federala en in’ordinaziun.
 
-[^76a-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^76a-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+
+## 5*b*. titel Transparenza en la finanziaziun da la politica
+
+[^tit5b-1]
+
+[^tit5b-1]: Integrà tras la cifra I da la LF dals 18 da zer. 2021 (transparenza en la finanziaziun da la politica), en vigur dapi ils 23 d’oct. 2022 ([AS 2022 466](https://fedlex.data.admin.ch/eli/oc/2022/466); [BBl 2019 7875](https://fedlex.data.admin.ch/eli/fga/2019/2692), [8207](https://fedlex.data.admin.ch/eli/fga/2019/2804)).
+
+#### Art. 76b
+
+**Obligaziun da las partidas politicas da declerar lur finanziaziun**
+
+<sup>1</sup> Las partidas politicas ch’èn represchentadas en l’Assamblea federala ston declerar lur finanziaziun.
+
+<sup>2</sup>
+
+Ellas adempleschan questa obligaziun, sch’ellas communitgeschan al post cumpetent il suandant:
+
+- a. lur entradas;
+- b. tut ils avantatgs economics che vegnan concedids voluntarmain ad ellas (donaziuns monetaras e betg monetaras) e che surpassan la valur da 15 000 francs per donatur ed onn;
+- c. las contribuziuns dals singuls mandataris.
+
+<sup>3</sup> Commembers da l’Assamblea federala che n’appartegnan betg ad ina partida, ston declerar las donaziuns monetaras e betg monetaras tenor l’alinea 2 litera b.
+
+#### Art. 76c
+
+**Obligaziun da declerar la finanziaziun da campagnas electoralas e da votaziun**
+
+<sup>1</sup> Persunas natiralas e giuridicas sco er societads da persunas che fan ina campagna en vista ad in’elecziun dal Cussegl naziunal u ad ina votaziun federala e che impundan passa 50 000 francs per quest intent, ston declerar la finanziaziun da la campagna.
+
+<sup>2</sup>
+
+Ellas adempleschan questa obligaziun, sch’ellas communitgeschan al post cumpetent il suandant:
+
+- a. las entradas budgetadas ed il quint final da las entradas;
+- b. las donaziuns monetaras e betg monetaras ch’èn vegnidas concedidas durant ils 12 mais avant la votaziun u l’elecziun e che surpassan la valur da 15 000 francs per donatur e campagna.
+
+<sup>3</sup> Persunas natiralas e giuridicas sco er societads da persunas che han fatg ina campagna en vista a l’elecziun d’in commember dal Cussegl dals chantuns e che han impundì passa 50 000 francs per quest intent, ston preschentar il quint final da las entradas sco er las donaziuns monetaras e betg monetaras en il senn da l’alinea 2 litera b.
+
+<sup>4</sup> Sche pliras persunas u societads da persunas fan ina campagna cuminaivla, ston ellas inoltrar cuminaivlamain las entradas budgetadas ed il quint final da las entradas; en cas d’elecziuns dal Cussegl dals chantuns inoltreschan ellas mo il quint final da las entradas. Las donaziuns monetaras e betg monetaras concedidas ad ellas e lur expensas vegnan quintadas ensemen. Il Cussegl federal regla ils detagls.
+
+#### Art. 76d
+
+**Termins e modalitads da l’obligaziun da declerar la finanziaziun**
+
+<sup>1</sup>
+
+I ston vegnir inoltrads:
+
+- a. annualmain las indicaziuns tenor l’artitgel 76*b*;
+- b. en cas da votaziuns e d’elecziuns dal Cussegl naziunal: 45 dis avant la votaziun u l’elecziun las entradas budgetadas e 60 dis suenter la votaziun u l’elecziun il quint final da las entradas sco er las donaziuns monetaras e betg monetaras en il senn da l’artitgel 76*c* alinea 2 litera b;
+- c. en cas d’elecziuns dal Cussegl dals chantuns: 30 dis suenter l’entrada en uffizi il quint final da las entradas sco er las donaziuns monetaras e betg monetaras en il senn da l’artitgel 76*c* alinea 2 litera b.
+
+<sup>2</sup> Tranter la fin dal termin per inoltrar las entradas budgetadas e l’elecziun u la votaziun ston donaziuns monetaras e betg monetaras tenor l’artitgel 76*c* alinea 2 litera b vegnir communitgadas immediatamain al post cumpetent.
+
+<sup>3</sup> Tar las entradas budgetadas ed en il quint final da las entradas ston las donaziuns monetaras e betg monetaras vegnir preschentadas separadamain.
+
+<sup>4</sup> La communicaziun da las donaziuns monetaras e betg monetaras d’ina valur da passa 15 000 francs sto cuntegnair la valur e la data da la donaziun sco er il num, il prenum e la vischnanca da domicil u la firma e la sedia da l’autur da la donaziun.
+
+<sup>5</sup> Las indicaziuns tenor l’alinea 4 ston vegnir cumprovadas.
+
+<sup>6</sup> Il Cussegl federal fixescha la furma da la communicaziun.
+
+#### Art. 76e
+
+**Controlla**
+
+<sup>1</sup> Il post cumpetent controllescha, sch’ils acturs politics han inoltrà tut las indicaziuns e tut ils documents tenor ils artitgels 76*b* e 76*c* entaifer ils termins prescrits. Per verifitgar, sche las indicaziuns ed ils documents èn corrects, vegnan fatgas controllas sporadicas.
+
+<sup>2</sup> Sch’il post cumpetent constatescha che tschertas indicaziuns e tscherts documents n’èn betg vegnids inoltrads entaifer ils termins prescrits u n’èn betg corrects, supplitgescha el ils acturs politics pertutgads d’anc furnir las indicaziuns ed ils documents necessaris, e fixescha per els in nov termin per quest intent.
+
+<sup>3</sup> Sche las indicaziuns ed ils documents na vegnan betg furnids entaifer il nov termin, è il post cumpetent obligà d’annunziar a l’autoritad da persecuziun penala cumpetenta ils malfatgs, dals quals el survegn enconuschientscha a chaschun da la controlla. Cun fixar il nov termin tenor l’alinea 2 renda el attent a questa obligaziun d’annunzia.
+
+#### Art. 76f
+
+**Publicaziun**
+
+<sup>1</sup> Suenter che la controlla tenor l’artitgel 76*e* è terminada, publitgescha il post cumpetent las indicaziuns ed ils documents sin sia pagina d’internet.
+
+<sup>2</sup>
+
+Publitgadas vegnan:
+
+- a. annualmain las indicaziuns tenor l’artitgel 76*d* alinea 1 litera a;
+- b. il pli tard 15 dis suenter l’entrada tar il post cumpetent las indicaziuns tenor l’artitgel 76*d* alinea 1 literas b e c.
+
+<sup>3</sup> Las indicaziuns davart las donaziuns monetaras e betg monetaras, che ston vegnir communitgadas immediatamain tenor l’artitgel 76*d* alinea 2, vegnan publitgadas cuntinuadamain.
+
+#### Art. 76g
+
+**Post cumpetent**
+
+Il Cussegl federal designescha l’autoritad ch’è responsabla per la controlla e per la publicaziun.
+
+#### Art. 76h
+
+**Donaziuns anonimas e donaziuns da l’exteriur**
+
+<sup>1</sup>
+
+Ils acturs politics tenor ils artitgels 76*b* e 76*c* na dastgan betg acceptar:
+
+- a. donaziuns monetaras e betg monetaras anonimas; e
+- b. donaziuns monetaras e betg monetaras da l’exteriur.
+
+<sup>2</sup> Donaziuns monetaras e betg monetaras da Svizzers a l’exteriur na valan betg sco donaziuns da l’exteriur.
+
+<sup>3</sup>
+
+Tgi che retschaiva ina donaziun monetara u betg monetara anonima, sto:
+
+- a. eruir las indicaziuns da derivanza tenor l’artitgel 76*d* alinea 4; u
+- b. sche pussaivel restituir la donaziun; sch’ina restituziun n’è betg pussaivla u betg raschunaivla, sto la donaziun vegnir annunziada al post cumpetent e vegnir surdada a la Confederaziun.
+
+<sup>4</sup> Tgi che retschaiva ina donaziun monetara u betg monetara da l’exteriur, sto restituir quella. Sch’ina restituziun n’è betg pussaivla u betg raschunaivla, sto la donaziun vegnir annunziada al post cumpetent e vegnir surdada a la Confederaziun.
+
+<sup>5</sup> En divergenza dals alineas 1–4 ston ils acturs politics tenor l’artitgel 76*c* alinea 3 declerar – en il quint final tenor l’artitgel 76*d* alinea 1 litera c – ils imports da las donaziuns monetaras e betg monetaras anonimas sco er da las donaziuns monetaras e betg monetaras da l’exteriur, ch’èn vegnidas concedidas ad els per ina campagna en vista a l’elecziun d’in commember dal Cussegl dals chantuns.
+
+#### Art. 76i
+
+**Elavuraziun da datas persunalas e barat d’infurmaziuns**
+
+<sup>1</sup>
+
+Per ademplir sias incumbensas legalas, en spezial las incumbensas da controlla e da publicaziun, dastga il post cumpetent elavurar las suandantas datas persunalas:
+
+- a. datas davart l’identitad e davart la situaziun finanziala dals acturs politics tenor ils artitgels 76*b* e 76*c*;
+- b. datas davart l’identitad da persunas che fan donaziuns monetaras e betg monetaras als acturs politics tenor ils artitgels 76*b* e 76*c*;
+- c. datas davart l’identitad da mandataris che pajan ina contribuziun a las partidas politicas tenor l’artitgel 76*b*.
+
+<sup>2</sup>
+
+Il post cumpetent dastga transmetter las infurmaziuns davart ils acturs politics, ch’èn necessarias per ademplir lur incumbensas legalas, en spezial las datas persunalas, a las suandantas autoritads:
+
+- a. a las autoritads chantunalas e communalas ch’èn cumpetentas tenor il dretg chantunal per la transparenza en la finanziaziun da la politica;
+- b. a las autoritads da persecuziun penala cumpetentas, sch’i sa tracta d’annunziar in malfatg tenor l’artitgel 76*e* alinea 3.
+
+<sup>3</sup> Las autoritads chantunalas e communalas ch’èn cumpetentas tenor il dretg chantunal per la transparenza en la finanziaziun da la politica, communitgeschan al post cumpetent tenor l’artitgel 76*g* – sin sia dumonda – las infurmaziuns ch’èn necessarias per la controlla e per la publicaziun, en spezial las datas persunalas.
+
+#### Art. 76j
+
+**Disposiziuns penalas**
+
+<sup>1</sup>
+
+Cun ina multa fin 40 000 francs vegn chastià, tgi che fa intenziunadamain il suandant:
+
+- a. violescha in’obligaziun da decleraziun tenor ils artitgels 76*b*–76*d*;
+- b. violescha in’obligaziun tenor l’artitgel 76*h* alineas 3–5.
+
+<sup>2</sup> La persecuziun penala è chaussa dals chantuns.
+
+#### Art. 76k
+
+**Resalva da la legislaziun chantunala**
+
+Per il diever dals dretgs politics sin plaun federal pon ils chantuns prevair disposiziuns pli severas en connex cun la decleraziun da la finanziaziun d’acturs politics chantunals.
 
 ## 6. titel Giurisdicziun
 
@@ -1259,7 +1415,7 @@ Tar la regenza chantunala pon ins far recurs:
 
 [^77-1]: Versiun tenor la cifra I da la LF dals 18 da mars 1994, en vigur dapi ils 15 da nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 [^77-2]: Versiun tenor la cifra I da la LF dals 18 da mars 1994, en vigur dapi ils 15 da nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^77-3]: Versiun tenor la cifra I da la LF dals 21 da zercl. 2002, en vigur dapi il 1. da schan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^77-3]: Versiun tenor la cifra I da la LF dals 21 da zer. 2002, en vigur dapi il 1. da schan. 2003 ([AS 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [BBl 2001 6401](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
 
 #### Art. 78
 
@@ -1267,9 +1423,9 @@ Tar la regenza chantunala pon ins far recurs:
 
 <sup>1</sup> Per motivar il recurs ston las actas cuntegnair ina curta preschentaziun dals fatgs.
 
-<sup>2</sup> …[^78-1]
+<sup>2</sup> ...[^78-1]
 
-[^78-1]: Abolì tras la cifra I da la LF dals 18 da mars 1994, en vigur dapi ils 15 da nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^78-1]: Abolì tras la cifra I da la LF dals 18 da mars 1994, cun effect dapi ils 15 da nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 79
 
@@ -1284,7 +1440,7 @@ Tar la regenza chantunala pon ins far recurs:
 <sup>3</sup> La regenza chantunala communitgescha sia decisiun da recurs ed autras disposiziuns tenor ils artitgels 34 fin 38 e 61 alinea 2 da la Lescha federala dals 20 da december 1968[^79-2] davart la procedura administrativa e las annunzia a la Chanzlia federala.[^79-3]
 
 [^79-1]: Integrà tras la cifra I da la LF dals 18 da mars 1994, en vigur dapi ils 15 da nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^79-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^79-2]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 [^79-3]: Versiun tenor la cifra I da la LF dals 18 da mars 1994, en vigur dapi ils 15 da nov. 1994 ([AS 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [BBl 1993 III 445](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 80
@@ -1297,15 +1453,15 @@ Tar la regenza chantunala pon ins far recurs:
 
 <sup>3</sup> Las commembras ed ils commembers dal comité d’iniziativa pon far recurs er cunter disposiziuns da la Chanzlia federala davart la valaivladad formala da la glista da suttascripziuns (art. 69 al. 1) e concernent il titel da l’iniziativa (art. 69 al. 2).
 
-[^80-1]: Versiun tenor la cifra 2 da l’agiunta tar la L dals 17 da zercl. 2005 davart il TF, en vigur dapi il 1. da schan. 2007 ([AS 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188)art. 1 lit. a; [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^80-2]: [SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
-[^80-3]: Versiun tenor la cifra I 1 da la LF dals 23 da mars 2007 concernent la midada da la legislaziun federala davart ils dretgs politiSR, en vigur dapi il 1. da schan. 2008 ([AS 2007 4635](https://fedlex.data.admin.ch/eli/oc/2007/649); [BBl 2006 5261](https://fedlex.data.admin.ch/eli/fga/2006/639)).
+[^80-1]: Versiun tenor la cifra 2 da l’agiunta da la LF dals 17 da zer. 2005 davart il TF, en vigur dapi il 1. da schan. 2007 ([AS 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188)art. 1 lit. a; [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^80-2]: [SR 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
+[^80-3]: Versiun tenor la cifra I 1 da la LF dals 23 da mars 2007 concernent la midada da la legislaziun federala davart ils dretgs politics, en vigur dapi il 1. da schan. 2008 ([AS 2007 4635](https://fedlex.data.admin.ch/eli/oc/2007/649); [BBl 2006 5261](https://fedlex.data.admin.ch/eli/fga/2006/639)).
 
 #### Art. 81
 
-**ed **82**[^81-1]**
+**ed **82**[^8182-1]**
 
-[^81-1]: Abolì tras la cifra 2 da l’agiunta tar la L dals 17 da zercl. 2005 davart il TF, en vigur dapi il 1. da schan. 2007 ([AS 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188)art. 1 lit. a; [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^8182-1]: Abolì tras la cifra 2 da l’agiunta da la LF dals 17 da zer. 2005 davart il TF, cun effect dapi il 1. da schan. 2007 ([AS 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188)art. 1 lit. a; [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ## 7. titel Disposiziuns cuminaivlas
 
@@ -1315,7 +1471,7 @@ Tar la regenza chantunala pon ins far recurs:
 
 Sche questa lescha ed ils decrets federals executivs na cuntegnan naginas disposiziuns, vala il dretg chantunal. Resalvada resta la Lescha federala dals 16 da december 1943[^83-1] davart l’organisaziun giudiziala.
 
-[^83-1]: [BS **3** 531; [AS 1948 485](https://fedlex.data.admin.ch/eli/oc/1948/485_473_421)art. 86, [1955 871](https://fedlex.data.admin.ch/eli/oc/1955/871_893_899)art. 118, [1959 902](https://fedlex.data.admin.ch/eli/oc/1959/902_931_921), [1969 737](https://fedlex.data.admin.ch/eli/oc/1969/737_757_755)art. 80 lit. b [767](https://fedlex.data.admin.ch/eli/oc/1969/767_787_784), [1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237)cifra II 3 [862](https://fedlex.data.admin.ch/eli/oc/1977/862_862_862)art. 52 cifra 2 [1323](https://fedlex.data.admin.ch/eli/oc/1977/1323_1323_1323)cifra III, [1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)art. 88 cifra 3 [1450](https://fedlex.data.admin.ch/eli/oc/1978/1450_1450_1450), [1979 42](https://fedlex.data.admin.ch/eli/oc/1979/42_42_42), [1980 31](https://fedlex.data.admin.ch/eli/oc/1980/31_31_31)cifra IV [1718](https://fedlex.data.admin.ch/eli/oc/1980/1718_1718_1718)art. 52 cifra 2 [1819](https://fedlex.data.admin.ch/eli/oc/1980/1819_1819_1819)art. 12 al. 1, [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)agiunta cifra 13, [1983 1886](https://fedlex.data.admin.ch/eli/oc/1983/1886_1886_1886)art. 36 cifra 1, [1986 926](https://fedlex.data.admin.ch/eli/oc/1986/926_926_926)art. 59 cifra 1, [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226)cifra II 1 [1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665)cifra II, [1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)agiunta cifra II 1, [1989 504](https://fedlex.data.admin.ch/eli/oc/1989/504_504_504)art. 33 lit. a, [1990 938](https://fedlex.data.admin.ch/eli/oc/1990/938_938_938)cifra III al. 5, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288), [1993 274](https://fedlex.data.admin.ch/eli/oc/1993/274_274_274)art. 75 cifra 1 [1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945)agiunta cifra 1, [1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227)agiunta cifra 3 [4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)agiunta cifra 4, [1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508)art. 36 [750](https://fedlex.data.admin.ch/eli/oc/1996/750_750_750)art. 17 [1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445)agiunta cifra 2 [1498](https://fedlex.data.admin.ch/eli/oc/1996/1498_1498_1498)agiunta cifra 2, [1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155)agiunta cifra 6 [2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)agiunta cifra 5, [1998 2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)agiunta cifra 3 [3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)agiunta cifra 2, [1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149)agiunta cifra 1 [3071](https://fedlex.data.admin.ch/eli/oc/1999/472)cifra I 2, [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)agiunta cifra 6 [416](https://fedlex.data.admin.ch/eli/oc/2000/92)cifra I 2 [505](https://fedlex.data.admin.ch/eli/oc/2000/95)cifra I 1 [2355](https://fedlex.data.admin.ch/eli/oc/2000/374)agiunta cifra 1 [2719](https://fedlex.data.admin.ch/eli/oc/2000/453), [2001 114](https://fedlex.data.admin.ch/eli/oc/2001/21)cifra I 4 [894](https://fedlex.data.admin.ch/eli/oc/2001/123)art. 40 cifra 3 [1029](https://fedlex.data.admin.ch/eli/oc/2001/150)art. 11 al. 2, [2002 863](https://fedlex.data.admin.ch/eli/oc/2002/153)art. 35 [1904](https://fedlex.data.admin.ch/eli/oc/2002/283)art. 36 cifra 1 [2767](https://fedlex.data.admin.ch/eli/oc/2002/408)cifra II [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)agiunta cifra 1, [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)agiunta cifra 7 [3543](https://fedlex.data.admin.ch/eli/oc/2003/510)agiunta cifra II 4 lit. a [4557](https://fedlex.data.admin.ch/eli/oc/2003/674)agiunta cifra II 1, [2004 1985](https://fedlex.data.admin.ch/eli/oc/2004/221)agiunta cifra II 1 [4719](https://fedlex.data.admin.ch/eli/oc/2004/723)agiunta cifra II 1, [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)agiunta cifra 7. [AS 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)art. 131 al. 1] vesair ussa la LF dals 17 da zercl. 2005 davart il Tribunal federal ([SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)).
+[^83-1]: [BS **3** 531; [AS 1948 485](https://fedlex.data.admin.ch/eli/oc/1948/485_473_421)art. 86; [1955 871](https://fedlex.data.admin.ch/eli/oc/1955/871_893_899)art. 118; [1959 902](https://fedlex.data.admin.ch/eli/oc/1959/902_931_921); [1969 737](https://fedlex.data.admin.ch/eli/oc/1969/737_757_755)art. 80 lit. b, [767](https://fedlex.data.admin.ch/eli/oc/1969/767_787_784); [1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237)cifra II 3, [862](https://fedlex.data.admin.ch/eli/oc/1977/862_862_862)art. 52 cifra 2, [1323](https://fedlex.data.admin.ch/eli/oc/1977/1323_1323_1323)cifra III; [1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)art. 88 cifra 3, [1450](https://fedlex.data.admin.ch/eli/oc/1978/1450_1450_1450); [1979 42](https://fedlex.data.admin.ch/eli/oc/1979/42_42_42); [1980 31](https://fedlex.data.admin.ch/eli/oc/1980/31_31_31)cifra IV, [1718](https://fedlex.data.admin.ch/eli/oc/1980/1718_1718_1718)art. 52 cifra 2, [1819](https://fedlex.data.admin.ch/eli/oc/1980/1819_1819_1819)art. 12 al. 1; [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)agiunta cifra 13; [1983 1886](https://fedlex.data.admin.ch/eli/oc/1983/1886_1886_1886)art. 36 cifra 1; [1986 926](https://fedlex.data.admin.ch/eli/oc/1986/926_926_926)art. 59 cifra 1; [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226)cifra II 1, [1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665)cifra II; [1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)agiunta cifra II 1; [1989 504](https://fedlex.data.admin.ch/eli/oc/1989/504_504_504)art. 33 lit. a; [1990 938](https://fedlex.data.admin.ch/eli/oc/1990/938_938_938)cifra III al. 5; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288); [1993 274](https://fedlex.data.admin.ch/eli/oc/1993/274_274_274)art. 75 cifra 1, [1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945)agiunta cifra 1; [1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227)agiunta cifra 3, [4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)agiunta cifra 4; [1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508)art. 36, [750](https://fedlex.data.admin.ch/eli/oc/1996/750_750_750)art. 17, [1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445)agiunta cifra 2, [1498](https://fedlex.data.admin.ch/eli/oc/1996/1498_1498_1498)agiunta cifra 2; [1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155)agiunta cifra 6, [2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)agiunta cifra 5; [1998 2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)agiunta cifra 3, [3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)agiunta cifra 2; [1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149)agiunta cifra 1, [3071](https://fedlex.data.admin.ch/eli/oc/1999/472)cifra I 2; [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)agiunta cifra 6, [416](https://fedlex.data.admin.ch/eli/oc/2000/92)cifra I 2, [505](https://fedlex.data.admin.ch/eli/oc/2000/95)cifra I 1, [2355](https://fedlex.data.admin.ch/eli/oc/2000/374)agiunta cifra 1, [2719](https://fedlex.data.admin.ch/eli/oc/2000/453); [2001 114](https://fedlex.data.admin.ch/eli/oc/2001/21)cifra I 4, [894](https://fedlex.data.admin.ch/eli/oc/2001/123)art. 40 cifra 3, [1029](https://fedlex.data.admin.ch/eli/oc/2001/150)art. 11 al. 2; [2002 863](https://fedlex.data.admin.ch/eli/oc/2002/153)art. 35, [1904](https://fedlex.data.admin.ch/eli/oc/2002/283)art. 36 cifra 1, [2767](https://fedlex.data.admin.ch/eli/oc/2002/408)cifra II, [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)agiunta cifra 1; [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)agiunta cifra 7, [3543](https://fedlex.data.admin.ch/eli/oc/2003/510)agiunta cifra II 4 lit. a, [4557](https://fedlex.data.admin.ch/eli/oc/2003/674)agiunta cifra II 1; [2004 1985](https://fedlex.data.admin.ch/eli/oc/2004/221)agiunta cifra II 1, [4719](https://fedlex.data.admin.ch/eli/oc/2004/723)agiunta cifra II 1; [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)agiunta cifra 7. [AS 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)art. 131 al. 1]. Guardar oz: LF dals 17 da zer. 2005 davart il Tribunal federal ([SR 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)).
 
 #### Art. 84
 
@@ -1332,7 +1488,7 @@ Sche questa lescha ed ils decrets federals executivs na cuntegnan naginas dispos
 
 [^85-1]
 
-[^85-1]: Abolì tras la cifra 2 da l’agiunta tar la LF dals 17 da zercl. 2005 davart il TF, en vigur dapi il 1. da schan. 2007 ([AS 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188)art. 1 lit. a; [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^85-1]: Abolì tras la cifra 2 da l’agiunta da la LF dals 17 da zer. 2005 davart il TF, cun effect dapi il 1. da schan. 2007 ([AS 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188)art. 1 lit. a; [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 86
 
@@ -1342,8 +1498,8 @@ Sche questa lescha ed ils decrets federals executivs na cuntegnan naginas dispos
 
 <sup>2</sup> En la procedura davant il Tribunal federal sa drizza l’obligaziun da surpigliar ils custs tenor la Lescha federala dals 17 da zercladur 2005[^86-2] davart il Tribunal federal.
 
-[^86-1]: Versiun tenor la cifra 2 da l’agiunta tar la LF dals 17 da zercl. 2005 davart il TF, en vigur dapi il 1. da schan. 2007 ([AS 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188)art. 1 lit. a; [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^86-2]: [SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^86-1]: Versiun tenor la cifra 2 da l’agiunta da la LF dals 17 da zer. 2005 davart il TF, en vigur dapi il 1. da schan. 2007 ([AS 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188)art. 1 lit. a; [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^86-2]: [SR 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 
 #### Art. 87
 
@@ -1362,8 +1518,8 @@ La Confederaziun fa statisticas davart las elecziuns federalas e davart las vota
 
 <sup>3</sup> Il secret da votaziun na dastga betg vegnir violà.
 
-[^87-1]: Versiun tenor la cifra I da la LF dals 26 da sett. 2014 (Elecziuns dal Cussegl naziunal), en vigur dapi il 1. da nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
-[^87-2]: Integrà tras la cifra I da la LF dals 26 da sett. 2014 (Elecziuns dal Cussegl naziunal), en vigur dapi il 1. da nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+[^87-1]: Versiun tenor la cifra I da la LF dals 26 da sett. 2014 (elecziuns dal Cussegl naziunal), en vigur dapi il 1. da nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+[^87-2]: Integrà tras la cifra I da la LF dals 26 da sett. 2014 (elecziuns dal Cussegl naziunal), en vigur dapi il 1. da nov. 2015 ([AS 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [BBl 2013 9217](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
 
 ## 8. titel Disposiziuns finalas
 
@@ -1373,7 +1529,7 @@ La Confederaziun fa statisticas davart las elecziuns federalas e davart las vota
 
 **Midada da leschas federalas**
 
-…[^88-1]
+...[^88-1]
 
 [^88-1]: Las midadas pon vegnir consultadas sut [AS 1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688).
 
@@ -1395,7 +1551,7 @@ Abolidas vegnan:
 [^89-3]: [[AS 1962 789](https://fedlex.data.admin.ch/eli/oc/1962/789_827_848)]
 [^89-4]: [[AS 1966 849](https://fedlex.data.admin.ch/eli/oc/1966/849_875_867)]
 [^89-5]: [[AS 1963 419](https://fedlex.data.admin.ch/eli/oc/1963/419_415_435)]
-[^89-6]: [BS **1** 180; [AS 1975 601](https://fedlex.data.admin.ch/eli/oc/1975/601_601_601)[710](https://fedlex.data.admin.ch/eli/oc/1975/710_710_710)]
+[^89-6]: [BS **1** 180; [AS 1975 601](https://fedlex.data.admin.ch/eli/oc/1975/601_601_601), [710](https://fedlex.data.admin.ch/eli/oc/1975/710_710_710)]
 
 ### 2. chapitel Dretg transitoric, execuziun ed entrada en vigur
 
@@ -1411,8 +1567,8 @@ Abolidas vegnan:
 
 <sup>4</sup> …[^90-2]
 
-[^90-1]: Abolì tras la cifra II 4 da la LF dals 20 da mars 2008 davart la rectificaziun formala dal dretg federal, en vigur dapi il 1. d’avust 2008 ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)).
-[^90-2]: Integrà tras la cifra III da la LF dals 9 da mars 1978 ([AS 1978 1694](https://fedlex.data.admin.ch/eli/oc/1978/1694_1694_1694); [BBl 1977 III 819](https://fedlex.data.admin.ch/eli/fga/1977/3_819_850_829)). Abolì tras la cifra II 4 da la LF dals 20 da mars 2008 davart la rectificaziun formala dal dretg federal, en vigur dapi il 1. d’avust 2008 ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+[^90-1]: Abolì tras la cifra II 4 da la LF dals 20 da mars 2008 davart la rectificaziun formala dal dretg federal, cun effect dapi il 1. d’avust 2008 ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+[^90-2]: Integrà tras la cifra III da la LF dals 9 da mars 1978 ([AS 1978 1694](https://fedlex.data.admin.ch/eli/oc/1978/1694_1694_1694); [BBl 1977 III 819](https://fedlex.data.admin.ch/eli/fga/1977/3_819_850_829)). Abolì tras la cifra II 4 da la LF dals 20 da mars 2008 davart la rectificaziun formala dal dretg federal, cun effect dapi il 1. d’avust 2008 ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
 #### Art. 90a
 
@@ -1420,7 +1576,7 @@ Abolidas vegnan:
 
 Per las iniziativas federalas dal pievel ch’èn pendentas il mument che la midada dals 25 da settember 2009 entra en vigur vala il dretg nov.
 
-[^90a-1]: Integrà tras la cifra I da la LF dals 25 da sett. 2009 (Retratga cundiziunada d’ina iniziativa dal pievel), en vigur dapi il 1. da favrer 2010 ([AS 2010 271](https://fedlex.data.admin.ch/eli/oc/2010/35); [BBl 2009 3591](https://fedlex.data.admin.ch/eli/fga/2009/699)[3609](https://fedlex.data.admin.ch/eli/fga/2009/701)).
+[^90a-1]: Integrà tras la cifra I da la LF dals 25 da sett. 2009 (retratga cundiziunada d’ina iniziativa dal pievel), en vigur dapi il 1. da favr. 2010 ([AS 2010 271](https://fedlex.data.admin.ch/eli/oc/2010/35); [BBl 2009 3591](https://fedlex.data.admin.ch/eli/fga/2009/699)[3609](https://fedlex.data.admin.ch/eli/fga/2009/701)).
 
 #### Art. 91
 
@@ -1430,7 +1586,7 @@ Per las iniziativas federalas dal pievel ch’èn pendentas il mument che la mid
 
 <sup>2</sup> Las disposiziuns executivas chantunalas ston vegnir approvadas da la Confederaziun[^91-1] per esser valaivlas. Ellas ston vegnir decretadas entaifer 18 mais suenter che questa lescha è vegnida acceptada da l’Assamblea federala.
 
-[^91-1]: Expressiun tenor la cifra III da la LF dals 15 da dec. 1989 davart l’approvaziun da decrets chantunals tras la Confederaziun, en vigur dapi il 1. da favrer 1991 ([AS 1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362); [BBl 1988 II 1333](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)).
+[^91-1]: Expressiun tenor la cifra III da la LF dals 15 da dec. 1989 davart l’approvaziun da decrets chantunals tras la Confederaziun, en vigur dapi il 1. da favr. 1991 ([AS 1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362); [BBl 1988 II 1333](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)).
 
 #### Art. 92
 

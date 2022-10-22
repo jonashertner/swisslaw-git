@@ -4,22 +4,22 @@ title: Legge federale del 17 dicembre 1976 sui diritti politici (LDP)
 short: LDP
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/688_688_688"
 language: it
-version: 2015-11-01
+version: 2022-10-23
 adopted: 1976-12-17
 in_force: 1978-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/688_688_688/20151101/it/xml/fedlex-data-admin-ch-eli-cc-1978-688_688_688-20151101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/688_688_688/20151101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/688_688_688/20221023/it/xml/fedlex-data-admin-ch-eli-cc-1978-688_688_688-20221023-it-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/688_688_688/20221023/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Legge federale sui diritti politici
 
-(LDP)**[^t-1]**
+(LDP)[^t-1]
 
-del 17 dicembre 1976 (Stato 1° novembre 2015)
+del 17 dicembre 1976 (Stato 23 ottobre 2022)
 
-[^t-1]: Abbreviazione introdotta dal n. I della LF del 26 set. 2014 (Elezione del Consiglio nazionale), in vigore dal 1° nov. 2015 ([RU 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [FF 2013 7909](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+[^t-1]: Abbreviazione introdotta dalla cifra I della LF del 26 set. 2014 (Elezione del Consiglio nazionale), in vigore dal 1° nov. 2015 ([RU 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [FF 2013 7909](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -27,8 +27,8 @@ visto l’articolo 39 capoverso 1 della Costituzione federale[^ingress-1];[^ingr
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: Nuovo testo giusta il n. I della LF del 26 set. 2014 (Elezione del Consiglio nazionale), in vigore dal 1° nov. 2015 ([RU 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [FF 2013 7909](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
+[^ingress-2]: Nuovo testo giusta la cifra I della LF del 26 set. 2014 (Elezione del Consiglio nazionale), in vigore dal 1° nov. 2015 ([RU 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [FF 2013 7909](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
 [^ingress-3]: [FF 1975 I 1313](https://fedlex.data.admin.ch/eli/fga/1975/1_1317_1337_1313)
 
 ## Titolo primo: Diritto di voto e espressione del voto
@@ -37,7 +37,7 @@ decreta:
 
 [^1-1]
 
-[^1-1]: Abrogato dal n. I della LF del 21 giu. 2002, con effetto dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^1-1]: Abrogato dalla cifra I della LF del 21 giu. 2002, con effetto dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
 
 #### Art. 2
 
@@ -45,7 +45,7 @@ decreta:
 
 Per persone interdette escluse dal diritto di voto ai sensi dell’articolo 136 capoverso 1 della Costituzione federale s’intendono le persone che a causa di durevole incapacità di discernimento sono sottoposte a curatela generale o sono rappresentate da una persona che hanno designato con mandato precauzionale.
 
-[^2-1]: Nuovo testo giusta il n. 3 dell’all. alla LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^2-1]: Nuovo testo giusta l’all. n. 3 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 
 #### Art. 3
 
@@ -55,7 +55,7 @@ Per persone interdette escluse dal diritto di voto ai sensi dell’articolo 136 
 
 <sup>2</sup> Chiunque deposita, invece dell’atto d’origine, un altro documento di legittimazione (certificato di cittadinanza, certificato provvisorio ecc.) acquista il domicilio politico soltanto se prova di non essere iscritto nel catalogo elettorale del luogo in cui è depositato l’atto d’origine.
 
-[^3-1]: Per. 2 introdotto dal n. I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^3-1]: Per. 2 introdotto dalla cifra I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 4
 
@@ -77,17 +77,17 @@ Per persone interdette escluse dal diritto di voto ai sensi dell’articolo 136 
 
 <sup>3</sup> Il votante esprime personalmente il suo voto deponendo la scheda nell’urna o votando per corrispondenza.[^5-2] La sperimentazione del voto elettronico è retta dall’articolo 8*a*.[^5-3]
 
-<sup>4</sup> e <sup>5</sup> …[^5-4]
+<sup>4 e <sup>5</sup></sup> …[^5-4]
 
 <sup>6</sup> La scheda può essere deposta nell’urna da terzi se tale procedura è ammessa dal diritto cantonale per le votazioni ed elezioni cantonali. L’avente diritto di voto incapace di scrivere può far riempire la scheda secondo le sue istruzioni da un avente diritto di voto di sua scelta.[^5-5]
 
 <sup>7</sup> Il segreto del voto dev’essere tutelato.
 
-[^5-1]: Per. 2 introdotto dal n. I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^5-2]: Nuovo testo giusta il n. I della LF del 18 mar. 1994, in vigore dal 15 dic. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^5-3]: Per. 2 introdotto dal n. I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
-[^5-4]: Abrogati dal n. I della LF del 18 mar. 1994, con effetto dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); FF **1993** 309).
-[^5-5]: Nuovo testo giusta il n. I 1 della LF del 23 mar. 2007 che modifica la legislazione federale in materia di diritti politici, in vigore dal 1° gen. 2008 ([RU 2007 4635](https://fedlex.data.admin.ch/eli/oc/2007/649); [FF 2006 4815](https://fedlex.data.admin.ch/eli/fga/2006/639)).
+[^5-1]: Per. 2 introdotto dalla cifra I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^5-2]: Nuovo testo giusta la cifra I della LF del 18 mar. 1994, in vigore dal 15 dic. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^5-3]: Per. 2 introdotto dalla cifra I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^5-4]: Abrogati dalla cifra I della LF del 18 mar. 1994, con effetto dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); FF **1993** 309).
+[^5-5]: Nuovo testo giusta la cifra I n. 1 della LF del 23 mar. 2007 che modifica la legislazione federale in materia di diritti politici, in vigore dal 1° gen. 2008 ([RU 2007 4635](https://fedlex.data.admin.ch/eli/oc/2007/649); [FF 2006 4815](https://fedlex.data.admin.ch/eli/fga/2006/639)).
 
 #### Art. 6
 
@@ -117,7 +117,7 @@ I Cantoni provvedono affinché possano votare anche coloro che, per invalidità 
 
 <sup>2</sup> Il voto per corrispondenza può avvenire dal momento in cui il materiale necessario per votare validamente, secondo la normativa cantonale, è disponibile.[^8-1]
 
-[^8-1]: Nuovo testo giusta il n. I della LF del 18 mar. 1994, in vigore dal 15 dic. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^8-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 1994, in vigore dal 15 dic. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 8a
 
@@ -133,15 +133,15 @@ I Cantoni provvedono affinché possano votare anche coloro che, per invalidità 
 
 <sup>4</sup> Il Consiglio federale disciplina i dettagli.
 
-[^8a-1]: Introdotto dal n. I della LF del 21 giu. 2002 , in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
-[^8a-2]: Introdotto dal n. I 1 della LF del 23 mar. 2007 che modifica la legislazione federale in materia di diritti politici, in vigore dal 1° gen. 2008 ([RU 2007 4635](https://fedlex.data.admin.ch/eli/oc/2007/649); [FF 2006 4815](https://fedlex.data.admin.ch/eli/fga/2006/639)).
-[^8a-3]: Abrogato dal n. I 1 della LF del 23 mar. 2007 che modifica la legislazione federale in materia di diritti politici, con effetto dal 1° gen. 2008 ([RU 2007 4635](https://fedlex.data.admin.ch/eli/oc/2007/649); [FF 2006 4815](https://fedlex.data.admin.ch/eli/fga/2006/639)).
+[^8a-1]: Introdotto dalla cifra I della LF del 21 giu. 2002 , in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^8a-2]: Introdotto dalla cifra I n. 1 della LF del 23 mar. 2007 che modifica la legislazione federale in materia di diritti politici, in vigore dal 1° gen. 2008 ([RU 2007 4635](https://fedlex.data.admin.ch/eli/oc/2007/649); [FF 2006 4815](https://fedlex.data.admin.ch/eli/fga/2006/639)).
+[^8a-3]: Abrogato dalla cifra I n. 1 della LF del 23 mar. 2007 che modifica la legislazione federale in materia di diritti politici, con effetto dal 1° gen. 2008 ([RU 2007 4635](https://fedlex.data.admin.ch/eli/oc/2007/649); [FF 2006 4815](https://fedlex.data.admin.ch/eli/fga/2006/639)).
 
 #### Art. 9
 
 [^9-1]
 
-[^9-1]: Abrogato dal n. II 4 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+[^9-1]: Abrogato dalla cifra II n. 4 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
 ## Titolo secondo: Votazioni
 
@@ -155,8 +155,8 @@ I Cantoni provvedono affinché possano votare anche coloro che, per invalidità 
 
 <sup>2</sup> Ogni Cantone organizza la votazione sul suo territorio ed emana le necessarie disposizioni.
 
-[^10-1]: Nuovo testo giusta il n. I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
-[^10-2]: Introdotto dal n. I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^10-1]: Nuovo testo giusta la cifra I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^10-2]: Introdotto dalla cifra I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
 
 #### Art. 10a
 
@@ -170,7 +170,7 @@ I Cantoni provvedono affinché possano votare anche coloro che, per invalidità 
 
 <sup>4</sup> Non sostiene una raccomandazione di voto che diverga dalla posizione dell’Assemblea federale.
 
-[^10a-1]: Introdotto dal n. I della LF del 5 ott. 2007, in vigore dal 15 gen. 2009 ([RU 2009 1](https://fedlex.data.admin.ch/eli/oc/2009/1); [FF 2006 8491](https://fedlex.data.admin.ch/eli/fga/2006/1201)[8509](https://fedlex.data.admin.ch/eli/fga/2006/1203)).
+[^10a-1]: Introdotto dalla cifra I della LF del 5 ott. 2007, in vigore dal 15 gen. 2009 ([RU 2009 1](https://fedlex.data.admin.ch/eli/oc/2009/1); [FF 2006 8491](https://fedlex.data.admin.ch/eli/fga/2006/1201)[8509](https://fedlex.data.admin.ch/eli/fga/2006/1203)).
 
 #### Art. 11
 
@@ -184,12 +184,12 @@ I Cantoni provvedono affinché possano votare anche coloro che, per invalidità 
 
 <sup>4</sup> I Cantoni possono, per legge, autorizzare i Comuni ad inviare un unico esemplare (testi e spiegazione) per economia domestica, a meno che un membro di quest’ultima avente diritto di voto esiga l’invio personale.[^11-6]
 
-[^11-1]: Nuovo testo giusta il n. I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^11-2]: Nuovo testo giusta il n. I 1 della LF del 23 mar. 2007 che modifica la legislazione federale in materia di diritti politici, in vigore dal 1° gen. 2008 ([RU 2007 4635](https://fedlex.data.admin.ch/eli/oc/2007/649); [FF 2006 4815](https://fedlex.data.admin.ch/eli/fga/2006/639)).
-[^11-3]: Nuovo testo giusta il n. I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
-[^11-4]: Per. introdotto dal n. I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
-[^11-5]: Nuovo testo giusta il n. I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^11-6]: Introdotto dal n. I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^11-1]: Nuovo testo giusta la cifra I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^11-2]: Nuovo testo giusta la cifra I n. 1 della LF del 23 mar. 2007 che modifica la legislazione federale in materia di diritti politici, in vigore dal 1° gen. 2008 ([RU 2007 4635](https://fedlex.data.admin.ch/eli/oc/2007/649); [FF 2006 4815](https://fedlex.data.admin.ch/eli/fga/2006/639)).
+[^11-3]: Nuovo testo giusta la cifra I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^11-4]: Per. introdotto dalla cifra I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^11-5]: Nuovo testo giusta la cifra I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^11-6]: Introdotto dalla cifra I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 12
 
@@ -209,10 +209,10 @@ Sono nulle le schede che:
 
 <sup>3</sup> Il Cantone che svolge prove[^12-3] del voto elettronico disciplina nella sua legislazione le condizioni di validità e i motivi di invalidità del voto.[^12-4]
 
-[^12-1]: Abrogata dal n. II della LF del 22 mar. 1991, con effetto dal 1° lug. 1992 ([RU 1991 2388](https://fedlex.data.admin.ch/eli/oc/1991/2388_2388_2388); [FF 1990 III 393](https://fedlex.data.admin.ch/eli/fga/1990/3_445_429_393)).
-[^12-2]: Nuova espr. giusta il n. II 4 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, in vigore dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
-[^12-3]: Nuova espr. giusta il n. II 4 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, in vigore dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^12-4]: Introdotto dal n. I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^12-1]: Abrogata dalla cifra II della LF del 22 mar. 1991, con effetto dal 1° lug. 1992 ([RU 1991 2388](https://fedlex.data.admin.ch/eli/oc/1991/2388_2388_2388); [FF 1990 III 393](https://fedlex.data.admin.ch/eli/fga/1990/3_445_429_393)).
+[^12-2]: Nuova espr. giusta la cifra II n. 4 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, in vigore dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+[^12-3]: Nuova espr. giusta la cifra II n. 4 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, in vigore dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^12-4]: Introdotto dalla cifra I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
 
 #### Art. 13
 
@@ -224,8 +224,8 @@ Sono nulle le schede che:
 
 <sup>3</sup> In caso di risultato molto risicato si procede a un riconteggio dei voti soltanto se sono state rese verosimili irregolarità che, per genere ed entità, sono state in grado di influire essenzialmente sull’esito a livello federale.[^13-2]
 
-[^13-1]: Introdotto dal n. I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^13-2]: Introdotto dal n. I della LF del 26 set. 2014 (Elezione del Consiglio nazionale), in vigore dal 1° nov. 2015 ([RU 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [FF 2013 7909](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+[^13-1]: Introdotto dalla cifra I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^13-2]: Introdotto dalla cifra I della LF del 26 set. 2014 (Elezione del Consiglio nazionale), in vigore dal 1° nov. 2015 ([RU 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [FF 2013 7909](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
 
 #### Art. 14
 
@@ -237,8 +237,8 @@ Sono nulle le schede che:
 
 <sup>3</sup> I Cantoni trasmettono i processi verbali, a richiesta anche le schede, alla Cancelleria federale entro dieci giorni dalla scadenza del termine di ricorso (art. 79 cpv. 3). Accertato l’esito della votazione, le schede sono distrutte.
 
-[^14-1]: Nuovo testo giusta il n. I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^14-2]: Nuovo testo giusta il n. I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^14-1]: Nuovo testo giusta la cifra I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^14-2]: Nuovo testo giusta la cifra I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
 
 #### Art. 15
 
@@ -253,7 +253,7 @@ Sono nulle le schede che:
 <sup>4</sup> Se una modifica giuridica non può essere ritardata e il risultato della votazione è indubbio, il Consiglio federale o l’Assemblea federale può provvisoriamente porre in vigore leggi o decreti federali concernenti l’approvazione di trattati internazionali, come pure mantenere in vigore o abrogare leggi dichiarate urgenti, prima che sia ultimato l’accertamento.[^15-2]
 
 [^15-1]: Nuovo testo giusta il n. 2 dell’all. alla L del 17 giu. 2005 sul Tribunale federale, in vigore dal 1° gen. 2007 ([RU 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^15-2]: Introdotto dal n. I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^15-2]: Introdotto dalla cifra I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
 
 ## Titolo terzo: Elezione del Consiglio nazionale
 
@@ -268,7 +268,7 @@ Sono nulle le schede che:
 <sup>2</sup> In base all’attestazione vincolante dei dati sulla popolazione residente ai sensi dell’articolo 13 della legge del 22 giugno 2007 sul censimento, il Consiglio federale stabilisce in maniera vincolante il numero dei seggi spettante a ciascun Cantone alle successive elezioni per il rinnovo integrale del Consiglio nazionale.
 
 [^16-1]: Nuovo testo giusta l’art. 17 n. 1 della LF del 22 giu. 2007 sul censimento, in vigore dal 1° gen. 2008 ([RU 2007 6743](https://fedlex.data.admin.ch/eli/oc/2007/869); [FF 2007 55](https://fedlex.data.admin.ch/eli/fga/2007/17)).
-[^16-2]: [RS 431.112](https://fedlex.data.admin.ch/eli/cc/2007/869)
+[^16-2]: [RS 431.112](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6959)
 
 #### Art. 17
 
@@ -287,14 +287,14 @@ I 200 seggi del Consiglio nazionale sono ripartiti tra i Cantoni nel modo seguen
 - b. *Ripartizione principale:* Ogni rimanente Cantone ottiene tanti seggi quante volte l’ammontare della sua popolazione contiene l’ultimo quoziente.
 - c. *Ripartizione completiva:* I seggi rimanenti sono ripartiti tra i Cantoni che ottengono i resti maggiori. Se più Cantoni ottengono resti uguali, sono dapprima esclusi quelli che hanno ottenuto i resti minori dalla divisione della loro popolazione per il primo quoziente determinante. Se vi è ancora parità si procede a sorteggio.
 
-[^17-1]: Nuovo testo giusta il n. I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^17-2]: Nuovo testo giusta il n. I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^17-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^17-2]: Nuovo testo giusta la cifra I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
 
 #### Art. 18
 
 [^18-1]
 
-[^18-1]: Abrogato dal n. II 1 dell’all. alla L sul Parlamento del 13 dic. 2002, con effetto dal 3 dic. 2007 ([RU 2003 3543](https://fedlex.data.admin.ch/eli/oc/2003/510); [FF 2001 3097](https://fedlex.data.admin.ch/eli/fga/2001/639)4867).
+[^18-1]: Abrogato dalla cifra II n. 1 dell’all. alla L sul Parlamento del 13 dic. 2002, con effetto dal 3 dic. 2007 ([RU 2003 3543](https://fedlex.data.admin.ch/eli/oc/2003/510); [FF 2001 3097](https://fedlex.data.admin.ch/eli/fga/2001/639)4867).
 
 #### Art. 19
 
@@ -304,7 +304,7 @@ I 200 seggi del Consiglio nazionale sono ripartiti tra i Cantoni nel modo seguen
 
 <sup>2</sup> Per la rinnovazione straordinaria a tenore dell’articolo 193 capoverso 3 della Costituzione federale, la data è stabilita dal Consiglio federale.[^19-1]
 
-[^19-1]: Nuovo testo giusta il n. I della LF dell’8 ott. 1999, in vigore dal 1° mar. 2000 ([RU 2000 411](https://fedlex.data.admin.ch/eli/oc/2000/90); [FF 1999 6784](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784)).
+[^19-1]: Nuovo testo giusta la cifra I della LF dell’8 ott. 1999, in vigore dal 1° mar. 2000 ([RU 2000 411](https://fedlex.data.admin.ch/eli/oc/2000/90); [FF 1999 6784](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784)).
 
 #### Art. 20
 
@@ -316,7 +316,7 @@ Gli eventuali sorteggi avvengono nel Cantone per ordine del governo cantonale, n
 
 [^20a-1]
 
-[^20a-1]: Introdotto dal n. I della LF del 18 mar. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)). Abrogato dal n. II 4 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+[^20a-1]: Introdotto dalla cifra I della LF del 18 mar. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)). Abrogato dalla cifra II n. 4 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
 ### Capitolo 2: Sistema proporzionale
 
@@ -332,8 +332,8 @@ Gli eventuali sorteggi avvengono nel Cantone per ordine del governo cantonale, n
 
 <sup>3</sup> I Cantoni comunicano senza indugio alla Cancelleria federale tutte le proposte ricevute.
 
-[^21-1]: Nuovo testo giusta il n. I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^21-2]: Nuovo testo giusta il n. I della LF del 26 set. 2014 (Elezione del Consiglio nazionale), in vigore dal 1° nov. 2015 ([RU 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [FF 2013 7909](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+[^21-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^21-2]: Nuovo testo giusta la cifra I della LF del 26 set. 2014 (Elezione del Consiglio nazionale), in vigore dal 1° nov. 2015 ([RU 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [FF 2013 7909](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
 
 #### Art. 22
 
@@ -355,8 +355,8 @@ Le proposte devono indicare, per ogni candidato:
 
 <sup>3</sup> Ogni candidato deve dichiarare per scritto che accetta la proposta. Se tale dichiarazione manca, il suo nome è stralciato.[^22-2]
 
-[^22-1]: Nuovo testo giusta il n. I della LF del 26 set. 2014 (Elezione del Consiglio nazionale), in vigore dal 1° nov. 2015 ([RU 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [FF 2013 7909](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
-[^22-2]: Introdotto dal n. I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^22-1]: Nuovo testo giusta la cifra I della LF del 26 set. 2014 (Elezione del Consiglio nazionale), in vigore dal 1° nov. 2015 ([RU 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [FF 2013 7909](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+[^22-2]: Introdotto dalla cifra I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 23
 
@@ -364,7 +364,7 @@ Le proposte devono indicare, per ogni candidato:
 
 Ogni proposta deve recare una denominazione che la distingua dalle altre. I gruppi che presentano proposte con elementi identici nella denominazione principale al fine di congiungerle designano una delle proposte quale lista privilegiata.[^23-1]
 
-[^23-1]: Per. introdotto dal n. I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^23-1]: Per. introdotto dalla cifra I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
 
 #### Art. 24
 
@@ -384,10 +384,10 @@ Ogni proposta dev’essere firmata personalmente da un numero minimo di elettori
 
 <sup>4</sup> Il partito di cui al capoverso 3 deve depositare soltanto le firme valide di tutti i candidati e delle persone preposte alla presidenza e alla gestione.[^24-4]
 
-[^24-1]: Nuovo testo giusta il n. I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^24-2]: Nuovo testo giusta il n. I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^24-3]: Introdotto dal n. I della LF del 21 giu. 2002 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)). Nuovo testo giusta il n. I della LF del 26 set. 2014 (Elezione del Consiglio nazionale), in vigore dal 1° nov. 2015 ([RU 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [FF 2013 7909](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
-[^24-4]: Introdotto dal n. I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^24-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^24-2]: Nuovo testo giusta la cifra I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^24-3]: Introdotto dalla cifra I della LF del 21 giu. 2002 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)). Nuovo testo giusta la cifra I della LF del 26 set. 2014 (Elezione del Consiglio nazionale), in vigore dal 1° nov. 2015 ([RU 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [FF 2013 7909](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+[^24-4]: Introdotto dalla cifra I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
 
 #### Art. 25
 
@@ -413,13 +413,13 @@ Gli elettori del circondario possono prender visione delle proposte e dei nomi d
 
 <sup>3</sup> La Cancelleria federale notifica senza indugio gli stralci ai Cantoni interessati.
 
-[^27-1]: Nuovo testo giusta il n. I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^27-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 28
 
 [^28-1]
 
-[^28-1]: Abrogato dal n. I della LF del 18 mar. 1994, con effetto dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^28-1]: Abrogato dalla cifra I della LF del 18 mar. 1994, con effetto dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 29
 
@@ -433,10 +433,10 @@ Gli elettori del circondario possono prender visione delle proposte e dei nomi d
 
 <sup>4</sup> Dopo il secondo lunedì successivo al termine di presentazione delle candidature, le proposte non possono più essere modificate. È fatto salvo l’annullamento ufficiale di candidature plurime scoperte successivamente (art. 32*a*). Il diritto cantonale può limitare a una settimana il termine per la modifica.[^29-4]
 
-[^29-1]: Nuovo testo giusta il n. I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^29-2]: Nuovo testo del per. giusta il n. I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^29-3]: Nuovo testo del per. giusta il n. I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^29-4]: Nuovo testo giusta il n. I della LF del 26 set. 2014 (Elezione del Consiglio nazionale), in vigore dal 1° nov. 2015 ([RU 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [FF 2013 7909](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+[^29-1]: Nuovo testo giusta la cifra I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^29-2]: Nuovo testo del per. giusta la cifra I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^29-3]: Nuovo testo del per. giusta la cifra I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^29-4]: Nuovo testo giusta la cifra I della LF del 26 set. 2014 (Elezione del Consiglio nazionale), in vigore dal 1° nov. 2015 ([RU 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [FF 2013 7909](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
 
 #### Art. 30
 
@@ -458,7 +458,7 @@ Gli elettori del circondario possono prender visione delle proposte e dei nomi d
 
 <sup>3</sup> Le dichiarazioni di congiunzione e sotto-congiunzione di liste non possono essere revocate.
 
-[^31-1]: Nuovo testo giusta il n. I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^31-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 32
 
@@ -468,8 +468,8 @@ Gli elettori del circondario possono prender visione delle proposte e dei nomi d
 
 <sup>2</sup> La Cancelleria federale pubblica in forma elettronica le liste con il cognome e il nome ufficiali, l’anno di nascita, i luoghi d’origine e il domicilio dei candidati.[^32-2]
 
-[^32-1]: Nuovo testo giusta il n. I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^32-2]: Introdotto dall’art. 21 n. 1 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RU 2004 4929](https://fedlex.data.admin.ch/eli/oc/2004/745); [FF 2003 6699](https://fedlex.data.admin.ch/eli/fga/2003/1274)). Nuovo testo giusta il n. I della LF del 26 set. 2014 (Elezione del Consiglio nazionale), in vigore dal 1° nov. 2015 ([RU 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [FF 2013 7909](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+[^32-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^32-2]: Introdotto dall’art. 21 n. 1 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RU 2004 4929](https://fedlex.data.admin.ch/eli/oc/2004/745); [FF 2003 6699](https://fedlex.data.admin.ch/eli/fga/2003/1274)). Nuovo testo giusta la cifra I della LF del 26 set. 2014 (Elezione del Consiglio nazionale), in vigore dal 1° nov. 2015 ([RU 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [FF 2013 7909](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
 
 #### Art. 32a
 
@@ -488,7 +488,7 @@ Se dopo che le proposte di candidatura sono state definitivamente stabilite è s
 
 <sup>4</sup> L’annullamento di una candidatura che figura su liste già pubblicate è pubblicato immediatamente in forma elettronica e nel Foglio ufficiale di tutti i Cantoni interessati, nonché nel Foglio federale, con l’indicazione dei motivi dell’annullamento.
 
-[^32a-1]: Introdotto dal n. I della LF del 26 set. 2014 (Elezione del Consiglio nazionale), in vigore dal 1° nov. 2015 ([RU 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [FF 2013 7909](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+[^32a-1]: Introdotto dalla cifra I della LF del 26 set. 2014 (Elezione del Consiglio nazionale), in vigore dal 1° nov. 2015 ([RU 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [FF 2013 7909](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
 
 #### Art. 33
 
@@ -502,8 +502,8 @@ Se dopo che le proposte di candidatura sono state definitivamente stabilite è s
 
 <sup>3</sup> I firmatari possono ottenere al prezzo di costo presso le cancellerie di Stato cantonali schede prestampate suppletive.
 
-[^33-1]: Introdotto dal n. I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^33-2]: Nuovo testo giusta il n. I della LF del 26 set. 2014 (Elezione del Consiglio nazionale), in vigore dal 1° nov. 2015 ([RU 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [FF 2013 7909](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+[^33-1]: Introdotto dalla cifra I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^33-2]: Nuovo testo giusta la cifra I della LF del 26 set. 2014 (Elezione del Consiglio nazionale), in vigore dal 1° nov. 2015 ([RU 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [FF 2013 7909](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
 
 ### Sezione 2: Operazioni elettorali e spoglio
 
@@ -513,7 +513,7 @@ Se dopo che le proposte di candidatura sono state definitivamente stabilite è s
 
 Prima di ogni elezione per il rinnovo integrale del Consiglio nazionale, la Cancelleria federale allestisce una breve guida elettorale per il sistema proporzionale da consegnare agli elettori assieme alle schede (art. 33 cpv. 2) nei Cantoni in cui si vota secondo tale sistema.
 
-[^34-1]: Nuovo testo giusta il n. I 1 della LF del 23 mar. 2007 che modifica la legislazione federale in materia di diritti politici, in vigore dal 1° gen. 2008 ([RU 2007 4635](https://fedlex.data.admin.ch/eli/oc/2007/649); [FF 2006 4815](https://fedlex.data.admin.ch/eli/fga/2006/639)).
+[^34-1]: Nuovo testo giusta la cifra I n. 1 della LF del 23 mar. 2007 che modifica la legislazione federale in materia di diritti politici, in vigore dal 1° gen. 2008 ([RU 2007 4635](https://fedlex.data.admin.ch/eli/oc/2007/649); [FF 2006 4815](https://fedlex.data.admin.ch/eli/fga/2006/639)).
 
 #### Art. 35
 
@@ -531,7 +531,7 @@ Prima di ogni elezione per il rinnovo integrale del Consiglio nazionale, la Canc
 
 I suffragi dati a candidati deceduti dopo che le proposte di candidatura sono state definitivamente stabilite (art. 29 cpv. 4) contano come voti personali.
 
-[^36-1]: Nuovo testo giusta il n. I della LF del 26 set. 2014 (Elezione del Consiglio nazionale), in vigore dal 1° nov. 2015 ([RU 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [FF 2013 7909](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+[^36-1]: Nuovo testo giusta la cifra I della LF del 26 set. 2014 (Elezione del Consiglio nazionale), in vigore dal 1° nov. 2015 ([RU 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [FF 2013 7909](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
 
 #### Art. 37
 
@@ -541,16 +541,16 @@ I suffragi dati a candidati deceduti dopo che le proposte di candidatura sono st
 
 <sup>2</sup> Se in un Cantone sono state depositate più liste regionali con la stessa denominazione, i suffragi di complemento inerenti a schede che non recano la designazione della regione sono attribuiti alla lista della regione in cui queste schede furono votate.[^37-1]
 
-<sup>2bis</sup> Negli altri casi d’applicazione dell’articolo 31 capoverso 1, i suffragi di complemento sono attribuiti alla lista che figura sulla scheda. I suffragi di complemento provenienti da schede la cui denominazione è lacunosa sono attribuiti alla lista designata dal gruppo quale lista privilegiata.[^37-2] [^37-3]
+<sup>2bis</sup> Negli altri casi d’applicazione dell’articolo 31 capoverso 1, i suffragi di complemento sono attribuiti alla lista che figura sulla scheda.[^37-2] I suffragi di complemento provenienti da schede la cui denominazione è lacunosa sono attribuiti alla lista designata dal gruppo quale lista privilegiata.[^37-3]
 
 <sup>3</sup> I nomi non recati da nessuna lista del circondario sono stralciati. …[^37-4]
 
 <sup>4</sup> Se vi è contraddizione tra la denominazione e il numero progressivo quella fa stato.
 
-[^37-1]: Nuovo testo giusta il n. I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^37-2]: Per. introdotto dal n. I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
-[^37-3]: Introdotto dal n. I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^37-4]: Secondo e terzo per. abrogati dal n. II 4 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+[^37-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^37-2]: Introdotto dalla cifra I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^37-3]: Per. introdotto dalla cifra I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^37-4]: Secondo e terzo per. abrogati dalla cifra II n. 4 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
 #### Art. 38
 
@@ -579,11 +579,11 @@ Sono stralciati dalla scheda:
 
 <sup>5</sup> Il Cantone che svolge prove del voto elettronico disciplina nella sua legislazione le condizioni di validità e i motivi di invalidità del voto.[^38-5]
 
-[^38-1]: Abrogata dal n. II della LF del 22 mar. 1991, con effetto dal 1° lug. 1992 ([RU 1991 2388](https://fedlex.data.admin.ch/eli/oc/1991/2388_2388_2388); [FF 1990 III 393](https://fedlex.data.admin.ch/eli/fga/1990/3_445_429_393)).
-[^38-2]: Nuovo testo giusta il n. I della LF del 26 set. 2014 (Elezione del Consiglio nazionale), in vigore dal 1° nov. 2015 ([RU 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [FF 2013 7909](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
-[^38-3]: Nuovo testo giusta il n. I della LF del 26 set. 2014 (Elezione del Consiglio nazionale), in vigore dal 1° nov. 2015 ([RU 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [FF 2013 7909](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
-[^38-4]: Introdotto dal n. I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^38-5]: Introdotto dal n. I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^38-1]: Abrogata dalla cifra II della LF del 22 mar. 1991, con effetto dal 1° lug. 1992 ([RU 1991 2388](https://fedlex.data.admin.ch/eli/oc/1991/2388_2388_2388); [FF 1990 III 393](https://fedlex.data.admin.ch/eli/fga/1990/3_445_429_393)).
+[^38-2]: Nuovo testo giusta la cifra I della LF del 26 set. 2014 (Elezione del Consiglio nazionale), in vigore dal 1° nov. 2015 ([RU 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [FF 2013 7909](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+[^38-3]: Nuovo testo giusta la cifra I della LF del 26 set. 2014 (Elezione del Consiglio nazionale), in vigore dal 1° nov. 2015 ([RU 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [FF 2013 7909](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+[^38-4]: Introdotto dalla cifra I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^38-5]: Introdotto dalla cifra I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
 
 #### Art. 39
 
@@ -599,8 +599,8 @@ Dopo l’elezione, i Cantoni stabiliscono in base ai processi verbali degli uffi
 - f. per le liste congiunte il numero totale dei suffragi spettanti ad ogni gruppo;
 - g. il numero dei voti non emessi.
 
-[^39-1]: Nuovo testo giusta il n. I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
-[^39-2]: Nuovo testo giusta il n. I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^39-1]: Nuovo testo giusta la cifra I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^39-2]: Nuovo testo giusta la cifra I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
 
 #### Art. 40
 
@@ -612,9 +612,9 @@ Dopo l’elezione, i Cantoni stabiliscono in base ai processi verbali degli uffi
 
 <sup>3</sup> …[^40-3]
 
-[^40-1]: Nuovo testo giusta il n. I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^40-2]: Nuovo testo giusta il n. I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
-[^40-3]: Abrogato dal n. I della LF del 18 mar. 1994, con effetto dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^40-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^40-2]: Nuovo testo giusta la cifra I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^40-3]: Abrogato dalla cifra I della LF del 18 mar. 1994, con effetto dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 41
 
@@ -633,7 +633,7 @@ I mandati restanti dopo la prima ripartizione sono attribuiti singolarmente e su
 
 <sup>2</sup> La procedura viene ripetuta fino all’esaurimento dei mandati.
 
-[^41-1]: Nuovo testo giusta il n. I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^41-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 42
 
@@ -643,7 +643,7 @@ I mandati restanti dopo la prima ripartizione sono attribuiti singolarmente e su
 
 <sup>2</sup> I mandati assegnati sono poi ripartiti fra le singole liste corrispondentemente agli articoli 40 e 41. È fatto salvo l’articolo 37 capoversi 2 e 2<sup>bis</sup>.[^42-1]
 
-[^42-1]: Nuovo testo giusta il n. I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^42-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 43
 
@@ -669,7 +669,7 @@ Se a una lista è assegnato un numero di mandati superiore a quello dei suoi can
 
 <sup>2</sup> Se il numero dei candidati di tutte le liste non raggiunge quello dei mandati da assegnare, per i seggi restanti si procede a una elezione complementare giusta l’articolo 56 capoverso 3.
 
-[^45-1]: Nuovo testo giusta il n. I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^45-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 46
 
@@ -681,7 +681,7 @@ Se a una lista è assegnato un numero di mandati superiore a quello dei suoi can
 
 <sup>3</sup> Per altro s’applicano per analogia le disposizioni determinanti per il circondario ad elezione uninominale.
 
-[^46-1]: Nuovo testo giusta il n. I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^46-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 ### Capitolo 3: Sistema maggioritario
 
@@ -705,8 +705,8 @@ Il Cantone può pubblicare, in forma elettronica e nel Foglio ufficiale cantonal
 
 <sup>2</sup> Il diritto cantonale può tuttavia prevedere l’elezione tacita se entro mezzogiorno del quarantottesimo giorno (settimo lunedì) precedente l’elezione è stata presentata all’autorità competente un’unica candidatura valida.[^47-2]
 
-[^47-1]: Introdotto dal n. I della LF del 26 set. 2014 (Elezione del Consiglio nazionale), in vigore dal 1° nov. 2015 ([RU 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [FF 2013 7909](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
-[^47-2]: Introdotto dal n. I della LF del 18 mar. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)). Nuovo testo giusta il n. I 1 della LF del 23 mar. 2007 che modifica la legislazione federale in materia di diritti politici, in vigore dal 1° gen. 2008 ([RU 2007 4635](https://fedlex.data.admin.ch/eli/oc/2007/649); [FF 2006 4815](https://fedlex.data.admin.ch/eli/fga/2006/639)).
+[^47-1]: Introdotto dalla cifra I della LF del 26 set. 2014 (Elezione del Consiglio nazionale), in vigore dal 1° nov. 2015 ([RU 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [FF 2013 7909](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+[^47-2]: Introdotto dalla cifra I della LF del 18 mar. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)). Nuovo testo giusta la cifra I n. 1 della LF del 23 mar. 2007 che modifica la legislazione federale in materia di diritti politici, in vigore dal 1° gen. 2008 ([RU 2007 4635](https://fedlex.data.admin.ch/eli/oc/2007/649); [FF 2006 4815](https://fedlex.data.admin.ch/eli/fga/2006/639)).
 
 #### Art. 48
 
@@ -714,7 +714,7 @@ Il Cantone può pubblicare, in forma elettronica e nel Foglio ufficiale cantonal
 
 I Cantoni consegnano la scheda agli elettori almeno tre, ma al più presto quattro settimane prima del giorno dell’elezione.
 
-[^48-1]: Nuovo testo giusta il n. I della LF del 26 set. 2014 (Elezione del Consiglio nazionale), in vigore dal 1° nov. 2015 ([RU 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [FF 2013 7909](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+[^48-1]: Nuovo testo giusta la cifra I della LF del 26 set. 2014 (Elezione del Consiglio nazionale), in vigore dal 1° nov. 2015 ([RU 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [FF 2013 7909](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
 
 #### Art. 49
 
@@ -734,9 +734,9 @@ Sono nulle le schede che:
 
 <sup>3</sup> Il Cantone che svolge prove del voto elettronico disciplina nella sua legislazione le condizioni di validità e i motivi di invalidità del voto.[^49-3]
 
-[^49-1]: Abrogata dal n. II della LF del 22 mar. 1991, con effetto dal 1° lug. 1992 ([RU 1991 2388](https://fedlex.data.admin.ch/eli/oc/1991/2388_2388_2388); [FF 1990 III 393](https://fedlex.data.admin.ch/eli/fga/1990/3_445_429_393)).
-[^49-2]: Introdotto dal n. I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^49-3]: Introdotto dal n. I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^49-1]: Abrogata dalla cifra II della LF del 22 mar. 1991, con effetto dal 1° lug. 1992 ([RU 1991 2388](https://fedlex.data.admin.ch/eli/oc/1991/2388_2388_2388); [FF 1990 III 393](https://fedlex.data.admin.ch/eli/fga/1990/3_445_429_393)).
+[^49-2]: Introdotto dalla cifra I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^49-3]: Introdotto dalla cifra I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
 
 #### Art. 50
 
@@ -753,7 +753,7 @@ Sono nulli:
 - a. i voti espressi a candidati il cui nome non figura prestampato sulla scheda;
 - b. le schede sulle quali sono stati contrassegnati con una crocetta più candidati.
 
-[^50-1]: Nuovo testo giusta il n. I 1 della LF del 23 mar. 2007 che modifica la legislazione federale in materia di diritti politici, in vigore dal 1° gen. 2008 ([RU 2007 4635](https://fedlex.data.admin.ch/eli/oc/2007/649); [FF 2006 4815](https://fedlex.data.admin.ch/eli/fga/2006/639)).
+[^50-1]: Nuovo testo giusta la cifra I n. 1 della LF del 23 mar. 2007 che modifica la legislazione federale in materia di diritti politici, in vigore dal 1° gen. 2008 ([RU 2007 4635](https://fedlex.data.admin.ch/eli/oc/2007/649); [FF 2006 4815](https://fedlex.data.admin.ch/eli/fga/2006/639)).
 
 #### Art. 51
 
@@ -761,7 +761,7 @@ Sono nulli:
 
 Gli articoli 47 a 49 s’applicano anche alle elezioni suppletorie.
 
-[^51-1]: Nuovo testo giusta il n. I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^51-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 ### Capitolo 4: Pubblicazione dei risultati e verificazione dei poteri
 
@@ -773,14 +773,14 @@ Gli articoli 47 a 49 s’applicano anche alle elezioni suppletorie.
 
 <sup>2</sup> Al più tardi entro otto giorni da quello dell’elezione, il Cantone pubblica nel Foglio ufficiale i risultati concernenti tutti i candidati e, se del caso, tutte le liste e indica i rimedi di diritto.[^52-1]
 
-<sup>3</sup> I risultati delle elezioni per la rinnovazione integrale, delle elezioni suppletorie e di quelle complementari sono pubblicati nel Foglio federale. Tali risultati sono pubblicati integralmente anche in forma elettronica.[^52-2] [^52-3]
+<sup>3</sup> I risultati delle elezioni per la rinnovazione integrale, delle elezioni suppletorie e di quelle complementari sono pubblicati nel Foglio federale.[^52-2] Tali risultati sono pubblicati integralmente anche in forma elettronica.[^52-3]
 
 <sup>4</sup> Trascorso il termine di ricorso (art. 77 cpv. 2), il Cantone trasmette immediatamente il processo verbale alla Cancelleria federale. Nei dieci giorni successivi, le schede sono trasferite al luogo indicato dalla Cancelleria federale.[^52-4]
 
-[^52-1]: Nuovo testo giusta il n. I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
-[^52-2]: Per. introdotto dall’art. 21 n. 1 della L del 18 giu. 2004 sulle pubblicazioni ufficiali, in vigore dal 1° gen. 2005 ([RU 2004 4929](https://fedlex.data.admin.ch/eli/oc/2004/745); [FF 2003 6699](https://fedlex.data.admin.ch/eli/fga/2003/1274)).
-[^52-3]: Introdotto dall’art. 17 n. I della LF del 21 mar. 1986 sulle pubblicazioni ufficiali, in vigore dal 15 mag. 1987 ([RU 1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600); [FF 1983 III 333](https://fedlex.data.admin.ch/eli/fga/1983/3_429_441_333)).
-[^52-4]: Introdotto dal n. I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^52-1]: Nuovo testo giusta la cifra I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^52-2]: Introdotto dall’art. 17 cifra I della LF del 21 mar. 1986 sulle pubblicazioni ufficiali, in vigore dal 15 mag. 1987 ([RU 1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600); [FF 1983 III 333](https://fedlex.data.admin.ch/eli/fga/1983/3_429_441_333)).
+[^52-3]: Per. introdotto dall’art. 21 n. 1 della L del 18 giu. 2004 sulle pubblicazioni ufficiali, in vigore dal 1° gen. 2005 ([RU 2004 4929](https://fedlex.data.admin.ch/eli/oc/2004/745); [FF 2003 6699](https://fedlex.data.admin.ch/eli/fga/2003/1274)).
+[^52-4]: Introdotto dalla cifra I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 53
 
@@ -792,8 +792,8 @@ Gli articoli 47 a 49 s’applicano anche alle elezioni suppletorie.
 
 <sup>3</sup> In caso di subingresso, di elezioni suppletorie o completive, il neoeletto può partecipare ai dibattiti soltanto dopo che è stata convalidata la sua elezione.[^53-2]
 
-[^53-1]: Nuovo testo giusta il n. I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
-[^53-2]: Nuovo testo giusta il n. I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^53-1]: Nuovo testo giusta la cifra I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^53-2]: Nuovo testo giusta la cifra I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 ### Capitolo 5: Modificazioni durante il periodo di nomina
 
@@ -821,9 +821,9 @@ Le dimissioni dalla carica di consigliere nazionale devono essere comunicate per
 
 <sup>3</sup> Se non è fatto uso del diritto di proposta, si procede a un’elezione popolare.[^56-3] Se devono essere assegnati più seggi, s’applicano le disposizioni sul sistema proporzionale, altrimenti quelle sul sistema maggioritario.
 
-[^56-1]: Nuovo testo giusta il n. I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
-[^56-2]: Nuovo testo giusta il n. I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^56-3]: Nuovo testo giusta il n. I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^56-1]: Nuovo testo giusta la cifra I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^56-2]: Nuovo testo giusta la cifra I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^56-3]: Nuovo testo giusta la cifra I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
 
 #### Art. 57
 
@@ -831,13 +831,13 @@ Le dimissioni dalla carica di consigliere nazionale devono essere comunicate per
 
 Il periodo di nomina del Consiglio nazionale termina all’atto della costituzione del neoeletto Consiglio.
 
-[^57-1]: Nuovo testo giusta il n. I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^57-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
-## Titolo quarto:**** Referendum
+## Titolo quarto: Referendum
 
 [^tit4-1]
 
-[^tit4-1]: Le disp. rivedute del titolo quarto (art. 59-67) della legge si applicano soltanto agli atti legislativi approvati dalle Camere federali dopo il 31 mar. 1997([RU 1997 760](https://fedlex.data.admin.ch/eli/oc/1997/760_760_760)art. 2 cpv. 2).
+[^tit4-1]: Le disp. rivedute del titolo quarto (art. 59-67) della legge si applicano soltanto agli atti legislativi approvati dalle Camere federali dopo il 31 mar. 1997 ([RU 1997 760](https://fedlex.data.admin.ch/eli/oc/1997/760_760_760)art. 2 cpv. 2).
 
 ### Capitolo 1: Referendum obbligatorio
 
@@ -849,17 +849,17 @@ Gli atti legislativi sottostanti al referendum obbligatorio sono pubblicati acce
 
 ### Capitolo 2: Referendum facoltativo
 
-### Sezione 1: Disposizioni generali****
+### Sezione 1: Disposizioni generali
 
 [^tit4-chap2-sec1-1]
 
-[^tit4-chap2-sec1-1]: Introdotto dal n. I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^tit4-chap2-sec1-1]: Introdotto dalla cifra I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 59
 
 [^59-1]
 
-[^59-1]: Abrogato dal n. II 4 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+[^59-1]: Abrogato dalla cifra II n. 4 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
 #### Art. 59a
 
@@ -867,7 +867,7 @@ Gli atti legislativi sottostanti al referendum obbligatorio sono pubblicati acce
 
 La domanda di referendum, sostenuta dal numero di Cantoni previsto dalla Costituzione oppure corredata del necessario numero di firme e relative attestazioni del diritto di voto, deve essere depositata presso la Cancelleria federale entro la scadenza del termine di referendum.
 
-[^59a-1]: Introdotto dal n. I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^59a-1]: Introdotto dalla cifra I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 59b
 
@@ -875,7 +875,7 @@ La domanda di referendum, sostenuta dal numero di Cantoni previsto dalla Costitu
 
 Un referendum non può essere ritirato.
 
-[^59b-1]: Introdotto dal n. I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^59b-1]: Introdotto dalla cifra I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 59c
 
@@ -883,13 +883,13 @@ Un referendum non può essere ritirato.
 
 Riuscita la domanda di referendum, il Consiglio federale ordina la votazione popolare.
 
-[^59c-1]: Introdotto dal n. I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^59c-1]: Introdotto dalla cifra I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
-### Sezione 2: Referendum popolare****
+### Sezione 2: Referendum popolare
 
 [^tit4-chap2-sec2-1]
 
-[^tit4-chap2-sec2-1]: Introdotto dal n. I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^tit4-chap2-sec2-1]: Introdotto dalla cifra I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 60
 
@@ -905,10 +905,10 @@ La lista delle firme (su foglio, pagina o cartolina) per una domanda di referend
 
 <sup>2</sup> Se sono presentate più domande, ognuna dev’essere oggetto di un’apposita lista di firme. Le liste di firme per più iniziative possono figurare sulla medesima pagina se separabili in vista del deposito.[^60-4]
 
-[^60-1]: Nuovo testo giusta il n. I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^60-2]: Nuovo testo giusta il n. I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^60-3]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^60-4]: Introdotto dal n. I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^60-1]: Nuovo testo giusta la cifra I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^60-2]: Nuovo testo giusta la cifra I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^60-3]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^60-4]: Introdotto dalla cifra I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 60a
 
@@ -916,7 +916,7 @@ La lista delle firme (su foglio, pagina o cartolina) per una domanda di referend
 
 Chi scarica una lista delle firme pubblicata in forma elettronica per una domanda di referendum deve assicurarsi che tale lista soddisfi tutte le esigenze formali previste dalla legge.
 
-[^60a-1]: Introdotto dal n. I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^60a-1]: Introdotto dalla cifra I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
 
 #### Art. 61
 
@@ -930,9 +930,9 @@ Chi scarica una lista delle firme pubblicata in forma elettronica per una domand
 
 <sup>3</sup> Può firmare una volta sola la stessa domanda di referendum.
 
-[^61-1]: Nuovo testo giusta il n. I della LF del 26 set. 2014 (Elezione del Consiglio nazionale), in vigore dal 1° nov. 2015 ([RU 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [FF 2013 7909](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
-[^61-2]: Introdotto dal n. I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^61-3]: Nuovo testo giusta il n. I della LF del 26 set. 2014 (Elezione del Consiglio nazionale), in vigore dal 1° nov. 2015 ([RU 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [FF 2013 7909](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+[^61-1]: Nuovo testo giusta la cifra I della LF del 26 set. 2014 (Elezione del Consiglio nazionale), in vigore dal 1° nov. 2015 ([RU 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [FF 2013 7909](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+[^61-2]: Introdotto dalla cifra I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^61-3]: Nuovo testo giusta la cifra I della LF del 26 set. 2014 (Elezione del Consiglio nazionale), in vigore dal 1° nov. 2015 ([RU 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [FF 2013 7909](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
 
 #### Art. 62
 
@@ -946,7 +946,7 @@ Chi scarica una lista delle firme pubblicata in forma elettronica per una domand
 
 <sup>4</sup> Il diritto di voto dei firmatari può essere attestato collettivamente per più liste.
 
-[^62-1]: Nuovo testo giusta il n. I della LF del 26 set. 2014 (Elezione del Consiglio nazionale), in vigore dal 1° nov. 2015 ([RU 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [FF 2013 7909](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+[^62-1]: Nuovo testo giusta la cifra I della LF del 26 set. 2014 (Elezione del Consiglio nazionale), in vigore dal 1° nov. 2015 ([RU 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [FF 2013 7909](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
 
 #### Art. 63
 
@@ -966,14 +966,14 @@ Chi scarica una lista delle firme pubblicata in forma elettronica per una domand
 
 <sup>2</sup> Le liste depositate non sono restituite né possono essere esaminate.
 
-[^64-1]: Nuovo testo giusta il n. I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^64-2]: Abrogato dal n. I della LF del 21 giu. 1996, con effetto dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^64-1]: Nuovo testo giusta la cifra I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^64-2]: Abrogato dalla cifra I della LF del 21 giu. 1996, con effetto dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 65
 
 [^65-1]
 
-[^65-1]: Abrogato dal n. I della LF del 21 giu. 1996, con effetto dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^65-1]: Abrogato dalla cifra I della LF del 21 giu. 1996, con effetto dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 66
 
@@ -985,22 +985,22 @@ Chi scarica una lista delle firme pubblicata in forma elettronica per una domand
 
 Sono nulle:
 
-- [tab] a.[^66-2] le firme su liste che non adempiono i requisiti di cui all’articolo 60;
-- [tab] b.[^66-3] le firme di coloro il cui diritto di voto non è stato attestato;
+- a.[^66-2] le firme su liste che non adempiono i requisiti di cui all’articolo 60;
+- b.[^66-3] le firme di coloro il cui diritto di voto non è stato attestato;
 - c. le firme su liste depositate scaduto il termine di referendum.
 
 <sup>3</sup> La Cancelleria federale pubblica nel Foglio federale la decisione di riuscita indicando per Cantone il numero delle firme valide e nulle.[^66-4]
 
-[^66-1]: Nuovo testo giusta il n. I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^66-2]: Nuovo testo giusta il n. I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
-[^66-3]: Nuovo testo giusta il n. I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
-[^66-4]: Nuovo testo giusta il n. II 4 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, in vigore dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+[^66-1]: Nuovo testo giusta la cifra I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^66-2]: Nuovo testo giusta la cifra I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^66-3]: Nuovo testo giusta la cifra I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^66-4]: Nuovo testo giusta la cifra II n. 4 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, in vigore dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
-### Sezione 3: Referendum dei Cantoni****
+### Sezione 3: Referendum dei Cantoni
 
 [^tit4-chap2-sec3-1]
 
-[^tit4-chap2-sec3-1]: Introdotto dal n. I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^tit4-chap2-sec3-1]: Introdotto dalla cifra I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 67
 
@@ -1008,7 +1008,7 @@ Sono nulle:
 
 Salvo disposizione contraria del diritto cantonale, la decisione di chiedere il referendum spetta al Parlamento cantonale.
 
-[^67-1]: Nuovo testo giusta il n. I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^67-1]: Nuovo testo giusta la cifra I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 67a
 
@@ -1021,7 +1021,7 @@ La lettera del governo cantonale alla Cancelleria federale deve contenere le ind
 - c. le disposizioni di diritto cantonale disciplinanti la competenza in materia di referendum del Cantone;
 - d. la data e il risultato della decisione che chiede il referendum.
 
-[^67a-1]: Introdotto dal n. I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^67a-1]: Introdotto dalla cifra I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 67b
 
@@ -1039,10 +1039,10 @@ Sono nulle le domande di referendum che:
 
 <sup>3</sup> La Cancelleria federale notifica per scritto ai governi di tutti i Cantoni che hanno chiesto il referendum la decisione accertante la riuscita o la non riuscita e la pubblica nel Foglio federale, indicando il numero delle domande valide e di quelle nulle.
 
-[^67b-1]: Introdotto dal n. I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^67b-2]: Nuovo testo giusta il n. I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^67b-1]: Introdotto dalla cifra I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^67b-2]: Nuovo testo giusta la cifra I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
 
-## Titolo quinto:**** Iniziativa popolare
+## Titolo quinto: Iniziativa popolare
 
 [^tit5-1]
 
@@ -1064,13 +1064,13 @@ La lista delle firme (su foglio, pagina, cartolina) per un’iniziativa popolare
 
 <sup>2</sup> L’articolo 60 capoverso 2 si applica anche alle iniziative popolari.[^68-7]
 
-[^68-1]: Nuovo testo giusta il n. I della LF del 25 set. 2009 (Ritiro condizionato di un’iniziativa popolare), in vigore dal 1° feb. 2010 ([RU 2010 271](https://fedlex.data.admin.ch/eli/oc/2010/35); [FF 2009 3019](https://fedlex.data.admin.ch/eli/fga/2009/699)[3037](https://fedlex.data.admin.ch/eli/fga/2009/701)).
-[^68-2]: Nuovo testo giusta il n. I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^68-3]: Nuovo testo giusta il n. I della LF del 25 set. 2009 (Ritiro condizionato di un’iniziativa popolare), in vigore dal 1° feb. 2010 ([RU 2010 271](https://fedlex.data.admin.ch/eli/oc/2010/35); [FF 2009 3019](https://fedlex.data.admin.ch/eli/fga/2009/699)[3037](https://fedlex.data.admin.ch/eli/fga/2009/701)).
-[^68-4]: Nuovo testo giusta il n. I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^68-5]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^68-6]: Nuovo testo giusta il n. I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^68-7]: Introdotto dal n. I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^68-1]: Nuovo testo giusta la cifra I della LF del 25 set. 2009 (Ritiro condizionato di un’iniziativa popolare), in vigore dal 1° feb. 2010 ([RU 2010 271](https://fedlex.data.admin.ch/eli/oc/2010/35); [FF 2009 3019](https://fedlex.data.admin.ch/eli/fga/2009/699)[3037](https://fedlex.data.admin.ch/eli/fga/2009/701)).
+[^68-2]: Nuovo testo giusta la cifra I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^68-3]: Nuovo testo giusta la cifra I della LF del 25 set. 2009 (Ritiro condizionato di un’iniziativa popolare), in vigore dal 1° feb. 2010 ([RU 2010 271](https://fedlex.data.admin.ch/eli/oc/2010/35); [FF 2009 3019](https://fedlex.data.admin.ch/eli/fga/2009/699)[3037](https://fedlex.data.admin.ch/eli/fga/2009/701)).
+[^68-4]: Nuovo testo giusta la cifra I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^68-5]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^68-6]: Nuovo testo giusta la cifra I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^68-7]: Introdotto dalla cifra I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 69
 
@@ -1084,8 +1084,8 @@ La lista delle firme (su foglio, pagina, cartolina) per un’iniziativa popolare
 
 <sup>4</sup> Il titolo, il testo dell’iniziativa e il nome dei promotori sono pubblicati nel Foglio federale.[^69-2]
 
-[^69-1]: Nuovo testo giusta il n. I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^69-2]: Nuovo testo giusta il n. I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^69-1]: Nuovo testo giusta la cifra I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^69-2]: Nuovo testo giusta la cifra I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 69a
 
@@ -1093,7 +1093,7 @@ La lista delle firme (su foglio, pagina, cartolina) per un’iniziativa popolare
 
 Chi scarica una lista delle firme pubblicata in forma elettronica per un’iniziativa popolare deve assicurarsi che tale lista soddisfi tutte le esigenze formali previste dalla legge.
 
-[^69a-1]: Introdotto dal n. I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^69a-1]: Introdotto dalla cifra I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
 
 #### Art. 70
 
@@ -1101,7 +1101,7 @@ Chi scarica una lista delle firme pubblicata in forma elettronica per un’inizi
 
 Le disposizioni inerenti alla firma (art. 61), all’attestazione del diritto di voto (art. 62) e al diniego dell’attestazione (art. 63) in materia di referendum si applicano per analogia anche all’iniziativa popolare.
 
-[^70-1]: Nuovo testo giusta il n. I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^70-1]: Nuovo testo giusta la cifra I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 71
 
@@ -1127,9 +1127,9 @@ Sono nulle:
 
 <sup>3</sup> La Cancelleria federale pubblica nel *Foglio federale* la decisione di riuscita indicando per Cantone il numero delle firme valide e nulle.[^72-3]
 
-[^72-1]: Nuovo testo giusta il n. I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^72-2]: Nuovo testo giusta il n. I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
-[^72-3]: Nuovo testo giusta il n. I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^72-1]: Nuovo testo giusta la cifra I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^72-2]: Nuovo testo giusta la cifra I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^72-3]: Nuovo testo giusta la cifra I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
 
 #### Art. 73
 
@@ -1141,7 +1141,7 @@ Sono nulle:
 
 <sup>3</sup> L’iniziativa che riveste la forma di proposta generale non può più essere ritirata, approvata che sia dall’Assemblea federale.
 
-[^73-1]: Nuovo testo giusta il n. I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^73-1]: Nuovo testo giusta la cifra I della LF del 21 giu. 1996, in vigore dal 1° apr. 1997 ([RU 1997 753](https://fedlex.data.admin.ch/eli/oc/1997/753_753_753); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 73a
 
@@ -1159,13 +1159,13 @@ Il ritiro condizionato ha effetto appena:
 - b. la non riuscita della domanda di referendum contro il controprogetto indiretto sia stata validamente accertata; o
 - c. il Consiglio federale, in caso di referendum, abbia omologato secondo l’articolo 15 capoverso 1 il risultato della votazione popolare in cui il controprogetto indiretto è stato accettato.
 
-[^73a-1]: Introdotto dal n. I della LF del 25 set. 2009 (Ritiro condizionato di un’iniziativa popolare), in vigore dal 1° feb. 2010 ([RU 2010 271](https://fedlex.data.admin.ch/eli/oc/2010/35); [FF 2009 3019](https://fedlex.data.admin.ch/eli/fga/2009/699)[3037](https://fedlex.data.admin.ch/eli/fga/2009/701)).
+[^73a-1]: Introdotto dalla cifra I della LF del 25 set. 2009 (Ritiro condizionato di un’iniziativa popolare), in vigore dal 1° feb. 2010 ([RU 2010 271](https://fedlex.data.admin.ch/eli/oc/2010/35); [FF 2009 3019](https://fedlex.data.admin.ch/eli/fga/2009/699)[3037](https://fedlex.data.admin.ch/eli/fga/2009/701)).
 
 #### Art. 74
 
 [^74-1]
 
-[^74-1]: Abrogato dal n. I della LF del 25 set. 2009 (Ritiro condizionato di un’iniziativa popolare), con effetto dal 1° feb. 2010 ([RU 2010 271](https://fedlex.data.admin.ch/eli/oc/2010/35); [FF 2009 3019](https://fedlex.data.admin.ch/eli/fga/2009/699)[3037](https://fedlex.data.admin.ch/eli/fga/2009/701)).
+[^74-1]: Abrogato dalla cifra I della LF del 25 set. 2009 (Ritiro condizionato di un’iniziativa popolare), con effetto dal 1° feb. 2010 ([RU 2010 271](https://fedlex.data.admin.ch/eli/oc/2010/35); [FF 2009 3019](https://fedlex.data.admin.ch/eli/fga/2009/699)[3037](https://fedlex.data.admin.ch/eli/fga/2009/701)).
 
 #### Art. 75
 
@@ -1177,8 +1177,8 @@ Il ritiro condizionato ha effetto appena:
 
 <sup>3</sup> L’unità formale è rispettata se l’iniziativa riveste esclusivamente la forma di proposta generale o di progetto già elaborato.
 
-[^75-1]: Nuovo testo giusta il n. I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
-[^75-2]: Nuovo testo giusta il n. I della LF dell’8 ott. 1999, in vigore dal 1° mar. 2000 ([RU 2000 411](https://fedlex.data.admin.ch/eli/oc/2000/90); [FF 1999 6784](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784)).
+[^75-1]: Nuovo testo giusta la cifra I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^75-2]: Nuovo testo giusta la cifra I della LF dell’8 ott. 1999, in vigore dal 1° mar. 2000 ([RU 2000 411](https://fedlex.data.admin.ch/eli/oc/2000/90); [FF 1999 6784](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784)).
 
 #### Art. 75a
 
@@ -1194,9 +1194,9 @@ Il ritiro condizionato ha effetto appena:
 
 <sup>4</sup> Alla trattazione di un’iniziativa popolare da parte del Consiglio federale e dell’Assemblea federale e ai relativi termini si applicano le disposizioni della legge del 13 dicembre 2002[^75a-3] sul Parlamento.
 
-[^75a-1]: Introdotto dal n. I della LF del 25 set. 2009 (Ritiro condizionato di un’iniziativa popolare), in vigore dal 1° feb. 2010 ([RU 2010 271](https://fedlex.data.admin.ch/eli/oc/2010/35); [FF 2009 3019](https://fedlex.data.admin.ch/eli/fga/2009/699)[3037](https://fedlex.data.admin.ch/eli/fga/2009/701)).
-[^75a-2]: Introdotto dal n. I della LF del 26 set. 2014 (Elezione del Consiglio nazionale), in vigore dal 1° mar. 2015 ([RU 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [FF 2013 7909](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
-[^75a-3]: [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
+[^75a-1]: Introdotto dalla cifra I della LF del 25 set. 2009 (Ritiro condizionato di un’iniziativa popolare), in vigore dal 1° feb. 2010 ([RU 2010 271](https://fedlex.data.admin.ch/eli/oc/2010/35); [FF 2009 3019](https://fedlex.data.admin.ch/eli/fga/2009/699)[3037](https://fedlex.data.admin.ch/eli/fga/2009/701)).
+[^75a-2]: Introdotto dalla cifra I della LF del 26 set. 2014 (Elezione del Consiglio nazionale), in vigore dal 1° mar. 2015 ([RU 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [FF 2013 7909](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+[^75a-3]: [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)
 
 #### Art. 76
 
@@ -1214,14 +1214,14 @@ Se l’Assemblea federale adotta un controprogetto, ai votanti sono poste sulla 
 
 <sup>3</sup> Se risultano accettati sia l’iniziativa sia il controprogetto, è determinante l’esito della terza domanda. Entra in vigore il testo che, secondo le risposte a questa domanda, ha raccolto il maggior numero di voti del Popolo e dei Cantoni.
 
-[^76-1]: Nuovo testo giusta il n. I della LF dell’8 ott. 1999, in vigore dal 1° mar. 2000 ([RU 2000 411](https://fedlex.data.admin.ch/eli/oc/2000/90); [FF 1999 6784](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784)).
-[^76-2]: Introdotta dal n. I della LF del 25 set. 2009 (Ritiro condizionato di un’iniziativa popolare), in vigore dal 1° feb. 2010 ([RU 2010 271](https://fedlex.data.admin.ch/eli/oc/2010/35); [FF 2009 3019](https://fedlex.data.admin.ch/eli/fga/2009/699)[3037](https://fedlex.data.admin.ch/eli/fga/2009/701)).
+[^76-1]: Nuovo testo giusta la cifra I della LF dell’8 ott. 1999, in vigore dal 1° mar. 2000 ([RU 2000 411](https://fedlex.data.admin.ch/eli/oc/2000/90); [FF 1999 6784](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784)).
+[^76-2]: Introdotta dalla cifra I della LF del 25 set. 2009 (Ritiro condizionato di un’iniziativa popolare), in vigore dal 1° feb. 2010 ([RU 2010 271](https://fedlex.data.admin.ch/eli/oc/2010/35); [FF 2009 3019](https://fedlex.data.admin.ch/eli/fga/2009/699)[3037](https://fedlex.data.admin.ch/eli/fga/2009/701)).
 
-## Titolo quinto *a*:**** Registro dei partiti
+## Titolo quinto *a*: Registro dei partiti
 
 [^tit5a-1]
 
-[^tit5a-1]: Introdotto dal n. I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^tit5a-1]: Introdotto dalla cifra I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
 
 #### Art. 76a
 
@@ -1242,7 +1242,163 @@ L’associazione che intende farsi iscrivere nel registro dei partiti fornisce a
 
 <sup>3</sup> La Cancelleria federale tiene un registro concernente le indicazioni fornitele dai partiti. Il registro è pubblico. L’Assemblea federale disciplina i dettagli mediante ordinanza.
 
-[^76a-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^76a-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+
+## Titolo quinto *b*: Trasparenza nel finanziamento della politica
+
+[^tit5b-1]
+
+[^tit5b-1]: Introdotto dalla cifra I della LF del 18 giu. 2021, in vigore dal 1° ott. 2022 ([RU 2022 466](https://fedlex.data.admin.ch/eli/oc/2022/466); [FF 2019 6555](https://fedlex.data.admin.ch/eli/fga/2019/2692), [6831](https://fedlex.data.admin.ch/eli/fga/2019/2804)).
+
+#### Art. 76b
+
+**Obbligo dei partiti di rendere pubblico il loro finanziamento**
+
+<sup>1</sup> I partiti rappresentati nell’Assemblea federale rendono pubblico il loro finanziamento.
+
+<sup>2</sup>
+
+Adempiono questo obbligo comunicando al servizio competente:
+
+- a. le loro entrate;
+- b. ogni vantaggio economico di valore superiore a 15 000 franchi per donatore e per anno concesso loro volontariamente (liberalità monetaria o non monetaria);
+- c. i contributi dei loro membri investiti di un mandato pubblico.
+
+<sup>3</sup> I membri senza partito dell’Assemblea federale rendono pubbliche le liberalità monetarie e non monetarie secondo il capoverso 2 lettera b.
+
+#### Art. 76c
+
+**Obbligo di rendere pubblico il finanziamento di campagne in vista di elezioni o votazioni**
+
+<sup>1</sup> Le persone fisiche e giuridiche nonché le società di persone che conducono una campagna in vista di un’elezione nel Consiglio nazionale o di una votazione federale impiegando più di 50 000 franchi rendono pubblico il finanziamento della campagna.
+
+<sup>2</sup>
+
+Adempiono questo obbligo comunicando al servizio competente:
+
+- a. le entrate preventivate e il conto finale delle entrate;
+- b. le liberalità monetarie e non monetarie concesse loro nei 12 mesi precedenti la votazione o l’elezione e il cui valore è superiore a 15 000 franchi per donatore e per campagna.
+
+<sup>3</sup> Le persone fisiche e giuridiche nonché le società di persone che hanno condotto una campagna in vista dell’elezione di un membro del Consiglio degli Stati impiegando a tal fine più di 50 000 franchi comunicano il conto finale delle entrate nonché le liberalità monetarie e non monetarie di cui al capoverso 2 lettera b.
+
+<sup>4</sup> Le persone o società di persone che conducono una campagna comune comunicano congiuntamente le entrate preventivate e il conto finale delle entrate; nel caso di elezioni nel Consiglio degli Stati comunicano soltanto il conto finale delle entrate. Le liberalità monetarie e non monetarie concesse loro e le loro spese sono sommate. Il Consiglio federale disciplina i dettagli.
+
+#### Art. 76d
+
+**Termini e modalità dell’obbligo di rendere pubblico il finanziamento**
+
+<sup>1</sup>
+
+Sono comunicati:
+
+- a. i dati di cui all’articolo 76*b*, annualmente;
+- b. nel caso di votazioni ed elezioni nel Consiglio nazionale, le entrate preventivate, 45 giorni prima della votazione o dell’elezione, e il conto finale delle entrate nonché le liberalità monetarie e non monetarie di cui all’articolo 76*c* capoverso 2 lettera b, 60 giorni dopo la votazione o l’elezione;
+- c. nel caso di elezioni nel Consiglio degli Stati, il conto finale delle entrate nonché le liberalità monetarie e non monetarie di cui all’articolo 76*c* capoverso 2 lettera b, 30 giorni dopo l’entrata in funzione.
+
+<sup>2</sup> Le liberalità monetarie e non monetarie di cui all’articolo 76*c* capoverso 2 lettera b sono comunicate senza indugio al servizio competente nel periodo compreso tra la scadenza del termine di trasmissione delle entrate preventivate e la votazione o l’elezione.
+
+<sup>3</sup> Nelle entrate preventivate e nel conto finale delle entrate le liberalità monetarie e non monetarie sono indicate separatamente.
+
+<sup>4</sup> La comunicazione delle liberalità monetarie e non monetarie di valore superiore a 15 000 franchi indica il valore della liberalità e la data della sua concessione, nonché il cognome, il nome e il Comune di domicilio o la ragione sociale e la sede dell’autore della liberalità.
+
+<sup>5</sup> I dati secondo il capoverso 4 vanno documentati.
+
+<sup>6</sup> Il Consiglio federale stabilisce la forma della comunicazione.
+
+#### Art. 76e
+
+**Controllo**
+
+<sup>1</sup> Il servizio competente controlla se gli attori politici hanno trasmesso i dati e i documenti di cui agli articoli 76*b* e 76*c* entro il termine stabilito. Il controllo della correttezza dei dati e dei documenti è effettuato per campionatura.
+
+<sup>2</sup> Se constata che determinati dati e documenti non sono stati trasmessi entro il termine stabilito o non sono corretti, ingiunge agli attori politici interessati di fornire i dati e i documenti necessari impartendo loro un termine a tal fine.
+
+<sup>3</sup> Se i dati e i documenti non sono forniti entro il termine impartito, il servizio competente è tenuto a denunciare all’autorità di perseguimento penale competente i reati di cui viene a conoscenza in occasione del controllo. Informa di quest’obbligo quando impartisce il termine di cui al capoverso 2.
+
+#### Art. 76f
+
+**Pubblicazione**
+
+<sup>1</sup> Al termine del controllo di cui all’articolo 76*e* il servizio competente pubblica i dati e i documenti sul suo sito Internet.
+
+<sup>2</sup>
+
+Sono pubblicati:
+
+- a. i dati di cui all’articolo 76*d* capoverso 1 lettera a, annualmente;
+- b. i dati di cui all’articolo 76*d* capoverso 1 lettere b e c, al più tardi 15 giorni dopo che il servizio competente li ha ricevuti*.*
+
+<sup>3</sup> I dati relativi alle liberalità monetarie e non monetarie che devono essere comunicati senza indugio secondo l’articolo 76*d* capoverso 2 sono pubblicati in modo continuativo.
+
+#### Art. 76g
+
+**Servizio competente**
+
+Il Consiglio federale designa l’autorità competente per il controllo e la pubblicazione.
+
+#### Art. 76h
+
+**Liberalità anonime e liberalità provenienti dall’estero**
+
+<sup>1</sup>
+
+Gli attori politici di cui agli articoli 76*b* e 76*c* non possono accettare:
+
+- a. liberalità monetarie e non monetarie anonime; e
+- b. liberalità monetarie e non monetarie provenienti dall’estero.
+
+<sup>2</sup> Le liberalità monetarie e non monetarie concesse da Svizzeri all’estero non sono considerate provenienti dall’estero.
+
+<sup>3</sup>
+
+Chi riceve una liberalità monetaria o non monetaria anonima deve:
+
+- a. fornire i dati relativi alla provenienza secondo l’articolo 76*d* capoverso 4; o
+- b. se possibile, restituirla; se la restituzione non è possibile o non è ragionevolmente esigibile, la liberalità è comunicata al servizio competente e versata alla Confederazione.
+
+<sup>4</sup> Chi riceve una liberalità monetaria o non monetaria proveniente dall’estero, deve restituirla. Se la restituzione non è possibile o non è ragionevolmente esigibile, la liberalità è comunicata al servizio competente e versata alla Confederazione.
+
+<sup>5</sup> In deroga ai capoversi 1–4, gli attori politici di cui all’articolo 76*c* capoverso 3 comunicano, insieme al conto finale di cui all’articolo 76*d* capoverso 1 lettera c, le liberalità monetarie e non monetarie anonime e quelle provenienti dall’estero concesse loro per una campagna in vista dell’elezione di un membro del Consiglio degli Stati.
+
+#### Art. 76i
+
+**Trattamento di dati personali e scambio di informazioni**
+
+<sup>1</sup>
+
+Ai fini dell’adempimento dei suoi compiti legali, in particolare di quelli relativi al controllo e alla pubblicazione, il servizio competente è autorizzato a trattare i dati personali concernenti:
+
+- a. l’identità e la situazione finanziaria degli attori politici di cui agli articoli 76*b* e 76*c*;
+- b. l’identità degli autori delle liberalità monetarie e non monetarie concesse agli attori politici di cui agli articoli 76*b* e 76*c*;
+- c. l’identità dei membri investiti di un mandato pubblico che versano un contributo ai partiti di cui all’articolo 76*b*.
+
+<sup>2</sup>
+
+Il servizio competente può trasmettere le informazioni relative agli attori politici, segnatamente i dati personali necessari all’adempimento dei loro compiti legali, alle seguenti autorità:
+
+- a. autorità cantonali e comunali competenti per la trasparenza nel finanziamento della politica secondo il diritto cantonale;
+- b. autorità di perseguimento penale competenti in caso di denuncia di un reato conformemente all’articolo 76*e* capoverso 3.
+
+<sup>3</sup> Le autorità cantonali e comunali competenti per la trasparenza nel finanziamento della politica secondo il diritto cantonale comunicano al servizio competente di cui all’articolo 76*g*, su sua richiesta, le informazioni necessarie all’esecuzione del controllo e alla pubblicazione, segnatamente i dati personali.
+
+#### Art. 76j
+
+**Disposizioni penali**
+
+<sup>1</sup>
+
+È punito con la multa sino a 40 000 franchi chiunque, intenzionalmente, viola:
+
+- a. uno degli obblighi di rendere pubblico il finanziamento di cui agli articoli 76*b*–76*d*;
+- b. uno degli obblighi di cui all’articolo 76*h* capoversi 3–5.
+
+<sup>2</sup> Il perseguimento penale spetta ai Cantoni.
+
+#### Art. 76k
+
+**Riserva della legislazione cantonale**
+
+Nell’esercizio dei diritti politici a livello federale, è riservato ai Cantoni di prevedere disposizioni più severe in materia di trasparenza nel finanziamento degli attori politici cantonali.
 
 ## Titolo sesto: Rimedi di diritto
 
@@ -1260,9 +1416,9 @@ Il ricorso al governo cantonale è ammissibile per:
 
 <sup>2</sup> Il ricorso dev’essere presentato, mediante invio raccomandato, entro tre giorni dalla scoperta del motivo di impugnazione, ma al più tardi il terzo giorno dopo la pubblicazione dei risultati nel Foglio ufficiale del Cantone.[^77-3]
 
-[^77-1]: Nuovo testo giusta il n. I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^77-2]: Nuovo testo giusta il n. I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^77-3]: Nuovo testo giusta il n. I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
+[^77-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^77-2]: Nuovo testo giusta la cifra I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^77-3]: Nuovo testo giusta la cifra I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3193](https://fedlex.data.admin.ch/eli/oc/2002/478); [FF 2001 5665](https://fedlex.data.admin.ch/eli/fga/2001/1111)).
 
 #### Art. 78
 
@@ -1272,7 +1428,7 @@ Il ricorso al governo cantonale è ammissibile per:
 
 <sup>2</sup> …[^78-1]
 
-[^78-1]: Abrogato dal n. I della LF del 18 mar. 1994, con effetto dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^78-1]: Abrogato dalla cifra I della LF del 18 mar. 1994, con effetto dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 79
 
@@ -1286,9 +1442,9 @@ Il ricorso al governo cantonale è ammissibile per:
 
 <sup>3</sup> Il governo cantonale notifica le decisioni su ricorso e le altre disposizioni giusta gli articoli 34–38 e 61 capoverso 2 della legge federale del 20 dicembre 1968[^79-2] sulla procedura amministrativa e le comunica anche alla Cancelleria federale.[^79-3]
 
-[^79-1]: Introdotto dal n. I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^79-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^79-3]: Nuovo testo giusta il n. I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^79-1]: Introdotto dalla cifra I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^79-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^79-3]: Nuovo testo giusta la cifra I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 80
 
@@ -1301,8 +1457,8 @@ Il ricorso al governo cantonale è ammissibile per:
 <sup>3</sup> I membri del comitato d’iniziativa possono impugnare con ricorso al Tribunale federale anche le decisioni della Cancelleria federale inerenti alla validità formale della lista delle firme (art. 69 cpv. 1) e al titolo dell’iniziativa (art. 69 cpv. 2).
 
 [^80-1]: Nuovo testo giusta il n. 2 dell’all. alla L del 17 giu. 2005 sul Tribunale federale, in vigore dal 1° gen. 2007 ([RU 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^80-2]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
-[^80-3]: Nuovo testo giusta il n. I 1 della LF del 23 mar. 2007 che modifica la legislazione federale in materia di diritti politici, in vigore dal 1° gen. 2008 ([RU 2007 4635](https://fedlex.data.admin.ch/eli/oc/2007/649); [FF 2006 4815](https://fedlex.data.admin.ch/eli/fga/2006/639)).
+[^80-2]: [RS 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
+[^80-3]: Nuovo testo giusta la cifra I n. 1 della LF del 23 mar. 2007 che modifica la legislazione federale in materia di diritti politici, in vigore dal 1° gen. 2008 ([RU 2007 4635](https://fedlex.data.admin.ch/eli/oc/2007/649); [FF 2006 4815](https://fedlex.data.admin.ch/eli/fga/2006/639)).
 
 #### Art. 81 e 82
 
@@ -1318,7 +1474,7 @@ Il ricorso al governo cantonale è ammissibile per:
 
 In quanto la presente legge e i disposti federali esecutivi non contengano pertinenti disposizioni, s’applica il diritto cantonale. È riservata la legge federale del 16 dicembre 1943[^83-1] sull’organizzazione giudiziaria.
 
-[^83-1]: [CS **3** 499; RU **1948** 899 art. 86, [1955 899](https://fedlex.data.admin.ch/eli/oc/1955/871_893_899)art. 118, [1959 921](https://fedlex.data.admin.ch/eli/oc/1959/902_931_921), [1969 755](https://fedlex.data.admin.ch/eli/oc/1969/737_757_755)art. 80 lett. b [784](https://fedlex.data.admin.ch/eli/oc/1969/767_787_784), [1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237)n. II 3 [862](https://fedlex.data.admin.ch/eli/oc/1977/862_862_862)art. 52 n. 2 [1323](https://fedlex.data.admin.ch/eli/oc/1977/1323_1323_1323)n. III, [1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)art. 88 n. 3 [1450](https://fedlex.data.admin.ch/eli/oc/1978/1450_1450_1450), [1979 42](https://fedlex.data.admin.ch/eli/oc/1979/42_42_42), [1980 31](https://fedlex.data.admin.ch/eli/oc/1980/31_31_31)n. IV [1718](https://fedlex.data.admin.ch/eli/oc/1980/1718_1718_1718)art. 52 n. 2 [1819](https://fedlex.data.admin.ch/eli/oc/1980/1819_1819_1819)art. 12 cpv. 1, [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)all. n. 13, [1983 1886](https://fedlex.data.admin.ch/eli/oc/1983/1886_1886_1886)art. 36 n. 1, [1986 926](https://fedlex.data.admin.ch/eli/oc/1986/926_926_926)art. 59 n. 1, [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226)n. II 1 [1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665)n. II, [1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)all. II 1, [1989 504](https://fedlex.data.admin.ch/eli/oc/1989/504_504_504)art. 33 lett. a, [1990 938](https://fedlex.data.admin.ch/eli/oc/1990/938_938_938)n. III cpv. 5, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288), [1993 274](https://fedlex.data.admin.ch/eli/oc/1993/274_274_274)art. 75 n. 1 [1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945)all. n. 1, [1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227)all. n. 3 [4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)all. n. 4, [1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508)art. 36 [750](https://fedlex.data.admin.ch/eli/oc/1996/750_750_750)art. 17 [1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445)all. n. 2 [1498](https://fedlex.data.admin.ch/eli/oc/1996/1498_1498_1498)all. n. 2, [1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155)all. n. 6 [2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)all. n. 5, [1998 2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)all. n. 3 [3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)all. n. 2, [1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149)all. n. 1 [3071](https://fedlex.data.admin.ch/eli/oc/1999/472)n. I 2, [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)all. n. 6 [416](https://fedlex.data.admin.ch/eli/oc/2000/92)n. I 2 [505](https://fedlex.data.admin.ch/eli/oc/2000/95)n. I 1 [2355](https://fedlex.data.admin.ch/eli/oc/2000/374)all. n. 1 [2719](https://fedlex.data.admin.ch/eli/oc/2000/453), [2001 114](https://fedlex.data.admin.ch/eli/oc/2001/21)n. I 4 [894](https://fedlex.data.admin.ch/eli/oc/2001/123)art. 40 n. 3 [1029](https://fedlex.data.admin.ch/eli/oc/2001/150)art. 11 cpv. 2, [2002 863](https://fedlex.data.admin.ch/eli/oc/2002/153)art. 35 [1904](https://fedlex.data.admin.ch/eli/oc/2002/283)art. 36 n. 1 [2767](https://fedlex.data.admin.ch/eli/oc/2002/408)n. II [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)all. n. 1, [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)all. n. 7 [3543](https://fedlex.data.admin.ch/eli/oc/2003/510)all. n. II 4 lett. a [4557](https://fedlex.data.admin.ch/eli/oc/2003/674)all. n. II 1, [2004 1985](https://fedlex.data.admin.ch/eli/oc/2004/221)all. n. II 1 [4719](https://fedlex.data.admin.ch/eli/oc/2004/723)all. n. II 1, [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)all. n. 7. [RU 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)art. 131 cpv. 1]. Vedi ora la L del 17 giu. 2005 sul Tribunale federale ([RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)).
+[^83-1]: [CS **3** 499; RU **1948** 899 art. 86, [1955 899](https://fedlex.data.admin.ch/eli/oc/1955/871_893_899)art. 118, [1959 921](https://fedlex.data.admin.ch/eli/oc/1959/902_931_921), [1969 755](https://fedlex.data.admin.ch/eli/oc/1969/737_757_755)art. 80 lett. b [784](https://fedlex.data.admin.ch/eli/oc/1969/767_787_784), [1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237)cifra II n. 3 [862](https://fedlex.data.admin.ch/eli/oc/1977/862_862_862)art. 52 n. 2 [1323](https://fedlex.data.admin.ch/eli/oc/1977/1323_1323_1323)cifra III, [1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)art. 88 n. 3 [1450](https://fedlex.data.admin.ch/eli/oc/1978/1450_1450_1450), [1979 42](https://fedlex.data.admin.ch/eli/oc/1979/42_42_42), [1980 31](https://fedlex.data.admin.ch/eli/oc/1980/31_31_31)cifra IV n. 1718 art. 52 n. 2 [1819](https://fedlex.data.admin.ch/eli/oc/1980/1819_1819_1819)art. 12 cpv. 1, [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)all. n. 13, [1983 1886](https://fedlex.data.admin.ch/eli/oc/1983/1886_1886_1886)art. 36 n. 1, [1986 926](https://fedlex.data.admin.ch/eli/oc/1986/926_926_926)art. 59 n. 1, [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226)cifra II n. 1 [1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665)cifra II, [1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)all. II 1, [1989 504](https://fedlex.data.admin.ch/eli/oc/1989/504_504_504)art. 33 lett. a, [1990 938](https://fedlex.data.admin.ch/eli/oc/1990/938_938_938)cifra III cpv. 5, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288), [1993 274](https://fedlex.data.admin.ch/eli/oc/1993/274_274_274)art. 75 n. 1 [1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945)all. n. 1, [1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227)all. n. 3 [4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)all. n. 4, [1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508)art. 36 [750](https://fedlex.data.admin.ch/eli/oc/1996/750_750_750)art. 17 [1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445)all. n. 2 [1498](https://fedlex.data.admin.ch/eli/oc/1996/1498_1498_1498)all. n. 2, [1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155)all. n. 6 [2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)all. n. 5, [1998 2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)all. n. 3 [3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)all. n. 2, [1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149)all. n. 1 [3071](https://fedlex.data.admin.ch/eli/oc/1999/472)cifra I n. 2, [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)all. n. 6 [416](https://fedlex.data.admin.ch/eli/oc/2000/92)cifra I n. 2 [505](https://fedlex.data.admin.ch/eli/oc/2000/95)cifra I n. 1 [2355](https://fedlex.data.admin.ch/eli/oc/2000/374)all. n. 1 [2719](https://fedlex.data.admin.ch/eli/oc/2000/453), [2001 114](https://fedlex.data.admin.ch/eli/oc/2001/21)cifra I n. 4 [894](https://fedlex.data.admin.ch/eli/oc/2001/123)art. 40 n. 3 [1029](https://fedlex.data.admin.ch/eli/oc/2001/150)art. 11 cpv. 2, [2002 863](https://fedlex.data.admin.ch/eli/oc/2002/153)art. 35 [1904](https://fedlex.data.admin.ch/eli/oc/2002/283)art. 36 n. 1 [2767](https://fedlex.data.admin.ch/eli/oc/2002/408)cifra II n. 3988 all. n. 1, [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)all. n. 7 [3543](https://fedlex.data.admin.ch/eli/oc/2003/510)all. cifra II n. 4 lett. a [4557](https://fedlex.data.admin.ch/eli/oc/2003/674)all. cifra II n. 1, [2004 1985](https://fedlex.data.admin.ch/eli/oc/2004/221)all. cifra II n. 1 [4719](https://fedlex.data.admin.ch/eli/oc/2004/723)all. cifra II n. 1, [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)all. n. 7. [RU 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)art. 131 cpv. 1]. Vedi ora la L del 17 giu. 2005 sul Tribunale federale ([RS 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)).
 
 #### Art. 84
 
@@ -1328,8 +1484,8 @@ In quanto la presente legge e i disposti federali esecutivi non contengano perti
 
 <sup>2</sup> L’utilizzazione di mezzi tecnici per le elezioni e le votazioni deve essere approvata dal Consiglio federale.[^84-2]
 
-[^84-1]: Nuovo testo giusta il n. I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
-[^84-2]: Introdotto dal n. I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^84-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
+[^84-2]: Introdotto dalla cifra I della LF del 18 mar. 1994, in vigore dal 15 nov. 1994 ([RU 1994 2414](https://fedlex.data.admin.ch/eli/oc/1994/2414_2414_2414); [FF 1993 III 309](https://fedlex.data.admin.ch/eli/fga/1993/3_445_405_309)).
 
 #### Art. 85
 
@@ -1346,7 +1502,7 @@ In quanto la presente legge e i disposti federali esecutivi non contengano perti
 <sup>2</sup> Nei procedimenti dinanzi al Tribunale federale, l’onere delle spese è disciplinato dalla legge del 17 giugno 2005[^86-2] sul Tribunale federale.
 
 [^86-1]: Nuovo testo giusta il n. 2 dell’all. alla L del 17 giu. 2005 sul Tribunale federale, in vigore dal 1° gen. 2007 ([RU 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^86-2]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^86-2]: [RS 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 
 #### Art. 87
 
@@ -1365,8 +1521,8 @@ La Confederazione tiene statistiche sulle elezioni e votazioni popolari federali
 
 <sup>3</sup> Il segreto del voto non dev’essere pregiudicato.
 
-[^87-1]: Nuovo testo giusta il n. I della LF del 26 set. 2014 (Elezione del Consiglio nazionale), in vigore dal 1° nov. 2015 ([RU 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [FF 2013 7909](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
-[^87-2]: Introdotto dal n. I della LF del 26 set. 2014 (Elezione del Consiglio nazionale), in vigore dal 1° nov. 2015 ([RU 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [FF 2013 7909](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+[^87-1]: Nuovo testo giusta la cifra I della LF del 26 set. 2014 (Elezione del Consiglio nazionale), in vigore dal 1° nov. 2015 ([RU 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [FF 2013 7909](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
+[^87-2]: Introdotto dalla cifra I della LF del 26 set. 2014 (Elezione del Consiglio nazionale), in vigore dal 1° nov. 2015 ([RU 2015 543](https://fedlex.data.admin.ch/eli/oc/2015/79); [FF 2013 7909](https://fedlex.data.admin.ch/eli/fga/2013/1844)).
 
 ## Titolo ottavo: Disposizioni finali
 
@@ -1414,8 +1570,8 @@ Sono abrogate:
 
 <sup>4</sup> …[^90-2]
 
-[^90-1]: Abrogato dal n. II 4 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
-[^90-2]: Introdotto dal n. III della LF del 9 mar. 1978 ([RU 1978 1694](https://fedlex.data.admin.ch/eli/oc/1978/1694_1694_1694); [FF 1977 III 829](https://fedlex.data.admin.ch/eli/fga/1977/3_819_850_829)). Abrogato dal n. II 4 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+[^90-1]: Abrogato dalla cifra II n. 4 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+[^90-2]: Introdotto dalla cifra III della LF del 9 mar. 1978 ([RU 1978 1694](https://fedlex.data.admin.ch/eli/oc/1978/1694_1694_1694); [FF 1977 III 829](https://fedlex.data.admin.ch/eli/fga/1977/3_819_850_829)). Abrogato dalla cifra II n. 4 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
 #### Art. 90a
 
@@ -1423,7 +1579,7 @@ Sono abrogate:
 
 Alle iniziative popolari federali pendenti al momento dell’entrata in vigore della modifica del 25 settembre 2009 della presente legge si applica il nuovo diritto.
 
-[^90a-1]: Introdotto dal n. I della LF del 25 set. 2009 (Ritiro condizionato di un’iniziativa popolare), in vigore dal 1° feb. 2010 ([RU 2010 271](https://fedlex.data.admin.ch/eli/oc/2010/35); [FF 2009 3019](https://fedlex.data.admin.ch/eli/fga/2009/699)[3037](https://fedlex.data.admin.ch/eli/fga/2009/701)).
+[^90a-1]: Introdotto dalla cifra I della LF del 25 set. 2009 (Ritiro condizionato di un’iniziativa popolare), in vigore dal 1° feb. 2010 ([RU 2010 271](https://fedlex.data.admin.ch/eli/oc/2010/35); [FF 2009 3019](https://fedlex.data.admin.ch/eli/fga/2009/699)[3037](https://fedlex.data.admin.ch/eli/fga/2009/701)).
 
 #### Art. 91
 
@@ -1433,7 +1589,7 @@ Alle iniziative popolari federali pendenti al momento dell’entrata in vigore d
 
 <sup>2</sup> Le disposizioni cantonali esecutive richiedono, per essere valide, l’approvazione della Confederazione[^91-1]. Esse devono essere emanate entro 18 mesi dall’accettazione della presente legge da parte dell’Assemblea federale.
 
-[^91-1]: Espr. modificata dal n. III della LF del 15 dic. 1989 concernente l’approvazione di atti legislativi dei Cantoni da parte della Confederazione, in vigore dal 1° feb. 1991 ([RU 1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362); [FF 1988 II 1149](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)).
+[^91-1]: Espr. modificata dalla cifra III della LF del 15 dic. 1989 concernente l’approvazione di atti legislativi dei Cantoni da parte della Confederazione, in vigore dal 1° feb. 1991 ([RU 1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362); [FF 1988 II 1149](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)).
 
 #### Art. 92
 
