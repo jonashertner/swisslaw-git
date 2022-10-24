@@ -3,11 +3,11 @@ sr: "0.312.11"
 title: Änderungen des Römer Statuts vom 11. Juni 2010 des Internationalen Strafgerichtshofs betreffend das Verbrechen der Aggression
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/644"
 language: de
-version: 2020-04-14
+version: 2022-10-25
 adopted: 2010-06-11
 in_force: 2016-09-10
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/644/20200414/de/xml/fedlex-data-admin-ch-eli-cc-2015-644-20200414-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/644/20200414/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/644/20221025/de/xml/fedlex-data-admin-ch-eli-cc-2015-644-20221025-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/644/20221025/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Ratifikationsurkunde durch die Schweiz hinterlegt am 10. September 2015
 
 In Kraft getreten für die Schweiz am 10. September 2016
 
-(Stand am 14. April 2020)
+(Stand am 25. Oktober 2022)
 
 [^t-1]: Resolution RC/Res.6; siehe Verwahrernotifikation C.N.651.2010 Treaties-8 vom 29. November 2010, verfügbar unter http://treaties.un.org.
 [^t-2]: Art. 1 Abs. 1 Bst. a des BB vom 20. März 2015 ([AS 2015 3823](https://fedlex.data.admin.ch/eli/oc/2015/643)).

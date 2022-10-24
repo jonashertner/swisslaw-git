@@ -3,11 +3,11 @@ sr: "0.312.11"
 title: "Amendements au Statut de Rome du 11 juin 2010 de la Cour pénale internationale relatifs au crime d'agression"
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/644"
 language: fr
-version: 2020-04-14
+version: 2022-10-25
 adopted: 2010-06-11
 in_force: 2016-09-10
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/644/20200414/fr/xml/fedlex-data-admin-ch-eli-cc-2015-644-20200414-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/644/20200414/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/644/20221025/fr/xml/fedlex-data-admin-ch-eli-cc-2015-644-20221025-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/644/20221025/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 10 septembre 2015
 
 Entrés en vigueur pour la Suisse le 10 septembre 2016
 
-(Etat le 14 avril 2020)
+(État le 25 octobre 2022)
 
 [^t-1]: Résolution RC/Res.6; voir C.N.651.2010.TREATIES-8 (Notification dépositaire), en date du 29 novembre 2010, disponible à l’adresse suivante: http://treaties.un.org.
 [^t-2]: Art. 1, al.1, let. a, de l’AF du 20 mars 2015 ([RO 2015 3823](https://fedlex.data.admin.ch/eli/oc/2015/643)).
