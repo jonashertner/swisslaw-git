@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung der Eigenmittelverordnung (Basel III)
 document: Vernehmlassungsvorlage
 language: de
