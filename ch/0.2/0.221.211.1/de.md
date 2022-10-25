@@ -3,11 +3,11 @@ sr: "0.221.211.1"
 title: Übereinkommen der Vereinten Nationen vom 11. April 1980 über Verträge über den internationalen Warenkauf
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/307_307_307"
 language: de
-version: 2020-02-06
+version: 2022-10-26
 adopted: 1980-04-11
 in_force: 1991-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/307_307_307/20200206/de/xml/fedlex-data-admin-ch-eli-cc-1991-307_307_307-20200206-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/307_307_307/20200206/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/307_307_307/20221026/de/xml/fedlex-data-admin-ch-eli-cc-1991-307_307_307-20221026-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/307_307_307/20221026/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Beitrittsurkunde hinterlegt am 21. Februar 1990
 
 In Kraft getreten für die Schweiz am 1. März 1991
 
-(Stand am 6. Februar 2020)
+(Stand am 26. Oktober 2022)
 
 [^t-1]: [AS 1991 306](https://fedlex.data.admin.ch/eli/oc/1991/306_306_306)
 
@@ -201,7 +201,7 @@ Für die Zwecke dieses Teils des Übereinkommens «geht» ein Angebot, eine Anna
 
 #### Art. 25
 
-Eine von einer Partei begangene Vertragsverletzung ist wesentlich, wenn sie für die andere Partei solchen Nachteil zur Folge hat, dass ihr im wesentlichen entgeht, was sie nach dem Vertrag hätte erwarten dürfen, es sei denn, dass die vertragsbrüchige Partei diese Folge nicht vorausgesehen hat und eine vernünftige Person in gleicher Stellung diese Folge unter den gleichen Umständen auch nicht vorausgesehen hätte.
+Eine von einer Partei begangene Vertragsverletzung ist wesentlich, wenn sie für die andere Partei solchen Nachteil zur Folge hat, dass ihr im Wesentlichen entgeht, was sie nach dem Vertrag hätte erwarten dürfen, es sei denn, dass die vertragsbrüchige Partei diese Folge nicht vorausgesehen hat und eine vernünftige Person in gleicher Stellung diese Folge unter den gleichen Umständen auch nicht vorausgesehen hätte.
 
 #### Art. 26
 
@@ -239,7 +239,7 @@ Hat der Verkäufer die Ware nicht an einem anderen bestimmten Ort zu liefern, so
 
 #### Art. 32
 
-<sup>1</sup> Übergibt der Verkäufer nach dem Vertrag oder diesem Übereinkommen die Ware einem Beförderer und ist die Ware nicht deutlich durch daran angebrachte Kennzeichen oder durch Beförderungsdokumente oder auf andere Weise dem Vertrag zugeordnet, so hat der Verkäufer dem Käufer die Versendung anzuzeigen und dabei die Ware im einzelnen zu bezeichnen.
+<sup>1</sup> Übergibt der Verkäufer nach dem Vertrag oder diesem Übereinkommen die Ware einem Beförderer und ist die Ware nicht deutlich durch daran angebrachte Kennzeichen oder durch Beförderungsdokumente oder auf andere Weise dem Vertrag zugeordnet, so hat der Verkäufer dem Käufer die Versendung anzuzeigen und dabei die Ware im Einzelnen zu bezeichnen.
 
 <sup>2</sup> Hat der Verkäufer für die Beförderung der Ware zu sorgen, so hat er die Verträge zu schliessen, die zur Beförderung an den festgesetzten Ort mit den nach den Umständen angemessenen Beförderungsmitteln und zu den für solche Beförderungen üblichen Bedingungen erforderlich sind.
 
@@ -398,7 +398,7 @@ Ist die Ware nicht vertragsgemäss, so kann der Käufer unabhängig davon, ob de
 
 <sup>1</sup> Liefert der Verkäufer die Ware vor dem festgesetzten Zeitpunkt, so steht es dem Käufer frei, sie anzunehmen oder die Annahme zu verweigern.
 
-<sup>2</sup> Liefert der Verkäufer eine grössere als die vereinbarte Menge, so kann der Käufer die zuviel gelieferte Menge annehmen oder ihre Annahme verweigern. Nimmt der Käufer die zuviel gelieferte Menge ganz oder teilweise an, so hat er sie entsprechend dem vertraglichen Preis zu bezahlen.
+<sup>2</sup> Liefert der Verkäufer eine grössere als die vereinbarte Menge, so kann der Käufer die zu viel gelieferte Menge annehmen oder ihre Annahme verweigern. Nimmt der Käufer die zu viel gelieferte Menge ganz oder teilweise an, so hat er sie entsprechend dem vertraglichen Preis zu bezahlen.
 
 ### Kapitel III Pflichten des Käufers
 
@@ -488,7 +488,7 @@ Der Verkäufer kann die Aufhebung des Vertrages erklären:
 
 <sup>2</sup>
 
-Hat der Käufer den Kaufpreis gezahlt, so verliert Jedoch der Verkäufer sein Recht, die Aufhebung des Vertrages zu erklären, wenn er:
+Hat der Käufer den Kaufpreis gezahlt, so verliert jedoch der Verkäufer sein Recht, die Aufhebung des Vertrages zu erklären, wenn er:
 
 - a) im Falle verspäteter Erfüllung durch den Käufer die Aufhebung nicht erklärt, bevor er erfahren hat, dass erfüllt worden ist, oder
 - b)
@@ -624,13 +624,13 @@ Eine Partei kann sich auf die Nichterfüllung von Pflichten durch die andere Par
 
 #### Art. 82
 
-<sup>1</sup> Der Käufer verliert das Recht, die Aufhebung des Vertrages zu erklären oder vom Verkäufer Ersatzlieferung zu verlangen, wenn es ihm unmöglich ist, die Ware im wesentlichen in dem Zustand zurückzugeben, in dem er sie erhalten hat.
+<sup>1</sup> Der Käufer verliert das Recht, die Aufhebung des Vertrages zu erklären oder vom Verkäufer Ersatzlieferung zu verlangen, wenn es ihm unmöglich ist, die Ware im Wesentlichen in dem Zustand zurückzugeben, in dem er sie erhalten hat.
 
 <sup>2</sup>
 
 Absatz 1 findet keine Anwendung:
 
-- a) wenn die Unmöglichkeit, die Ware zurückzugeben oder sie im wesentlichen in dem Zustand zurückzugeben, in dem der Käufer sie erhalten hat, nicht auf einer Handlung oder Unterlassung des Käufers beruht;
+- a) wenn die Unmöglichkeit, die Ware zurückzugeben oder sie im Wesentlichen in dem Zustand zurückzugeben, in dem der Käufer sie erhalten hat, nicht auf einer Handlung oder Unterlassung des Käufers beruht;
 - b) wenn die Ware ganz oder teilweise infolge der in Artikel 38 vorgesehenen Untersuchung untergegangen oder verschlechtert worden ist, oder
 - c) wenn der Käufer die Ware ganz oder teilweise im normalen Geschäftsverkehr verkauft oder der normalen Verwendung entsprechend verbraucht oder verändert hat, bevor er die Vertragswidrigkeit entdeckt hat oder hätte entdecken müssen.
 
@@ -647,7 +647,7 @@ Der Käufer, der nach Artikel 82 das Recht verloren hat, die Aufhebung des Vertr
 Der Käufer schuldet dem Verkäufer den Gegenwert aller Vorteile, die er aus der Ware oder einem Teil der Ware gezogen hat:
 
 - a) wenn er die Ware ganz oder teilweise zurückgeben muss oder
-- b) wenn es ihm unmöglich ist, die Ware ganz oder teilweise zurückzugeben oder sie ganz oder teilweise im wesentlichen in dem Zustand zurückzugeben, in dem er sie erhalten hat, er aber dennoch die Aufhebung des Vertrages erklärt oder vom Verkäufer Ersatzlieferung verlangt hat.
+- b) wenn es ihm unmöglich ist, die Ware ganz oder teilweise zurückzugeben oder sie ganz oder teilweise im Wesentlichen in dem Zustand zurückzugeben, in dem er sie erhalten hat, er aber dennoch die Aufhebung des Vertrages erklärt oder vom Verkäufer Ersatzlieferung verlangt hat.
 
 ### Abschnitt VI Erhaltung der Ware
 
@@ -769,7 +769,7 @@ Vorbehalte sind nur zulässig, soweit sie in diesem Übereinkommen ausdrücklich
 
 Geschehen zu Wien, am 11. April 1980 in einer Urschrift in arabischer, chinesischer, englischer, französischer, russischer und spanischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist. *Zu Urkund dessen* haben die unterzeichneten, hierzu von ihren Regierungen gehörig befugten Bevollmächtigten dieses Übereinkommen unterschrieben. (Es folgen die Unterschriften)
 
-Geltungsbereich am 6. Februar 2020**[^t-2]**
+Geltungsbereich am 26. Oktober 2022[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -779,7 +779,7 @@ Geltungsbereich am 6. Februar 2020**[^t-2]**
 <tr><td>Armenien\*</td><td>2. Dezember</td><td>2008 B</td><td>1. Januar</td><td>2010</td></tr>
 <tr><td>Aserbaidschan<sup>\*</sup></td><td>3. Mai</td><td>2016 B</td><td>1. Juni</td><td>2017</td></tr>
 <tr><td>Australien\*</td><td>17. März</td><td>1988 B</td><td>1. April</td><td>1989</td></tr>
-<tr><td>Australische Aussenbesitzungen mit Ausnahme der Weihnachts- insel, der Kokos-Inseln (Keeling) und der Ashmore- und Cartier-Inseln</td><td>17. März</td><td>1988</td><td>1. April</td><td>1989</td></tr>
+<tr><td>Australische Aussenbesitzungen mit Ausnahme der Weihnachtsinsel, der Kokos- Inseln (Keeling) und der Ashmore- und Cartier-Inseln</td><td>17. März</td><td>1988</td><td>1. April</td><td>1989</td></tr>
 <tr><td>Bundesstaaten Australiens und Territorien Australiens auf dem Kontinent</td><td>17. März</td><td>1988</td><td>1. April</td><td>1989</td></tr>
 <tr><td>Bahrain</td><td>25. September</td><td>2013 B</td><td>1. Oktober</td><td>2014</td></tr>
 <tr><td>Belarus\*</td><td>9. Oktober</td><td>1989 B</td><td>1. November</td><td>1990</td></tr>
@@ -791,13 +791,14 @@ Geltungsbereich am 6. Februar 2020**[^t-2]**
 <tr><td>Burundi</td><td>4. September</td><td>1998 B</td><td>1. Oktober</td><td>1999</td></tr>
 <tr><td>Chile\*</td><td>7. Februar</td><td>1990</td><td>1. März</td><td>1991</td></tr>
 <tr><td>China\*</td><td>11. Dezember</td><td>1986</td><td>1. Januar</td><td>1988</td></tr>
+<tr><td>Hongkong</td><td>4. Mai</td><td>2022</td><td>4. Mai</td><td>2022</td></tr>
 <tr><td>Costa Rica</td><td>12. Juli</td><td>2017 B</td><td>1. August</td><td>2018</td></tr>
 <tr><td>Dänemark\*</td><td>14. Februar</td><td>1989</td><td>1. März</td><td>1990</td></tr>
 <tr><td>Deutschland\*</td><td>21. Dezember</td><td>1989</td><td>1. Januar</td><td>1991</td></tr>
 <tr><td>Dominikanische Republik</td><td>7. Juni</td><td>2010 B</td><td>1. Juli</td><td>2011</td></tr>
 <tr><td>Ecuador</td><td>27. Januar</td><td>1992 B</td><td>1. Februar</td><td>1993</td></tr>
 <tr><td>El Salvador</td><td>27. November</td><td>2006 B</td><td>1. Dezember</td><td>2007</td></tr>
-<tr><td>Estland\*</td><td>20. September</td><td>1993 B</td><td>1. Oktober</td><td>1994</td></tr>
+<tr><td>Estland</td><td>20. September</td><td>1993 B</td><td>1. Oktober</td><td>1994</td></tr>
 <tr><td>Fidschi</td><td>7. Juni</td><td>2017 B</td><td>1. Juli</td><td>2018</td></tr>
 <tr><td>Finnland\*</td><td>15. Dezember</td><td>1987</td><td>1. Januar</td><td>1989</td></tr>
 <tr><td>Frankreich</td><td>6. August</td><td>1982</td><td>1. Januar</td><td>1988</td></tr>
@@ -846,6 +847,7 @@ Geltungsbereich am 6. Februar 2020**[^t-2]**
 <tr><td>Paraguay\*</td><td>13. Januar</td><td>2006 B</td><td>1. Februar</td><td>2007</td></tr>
 <tr><td>Peru</td><td>25. März</td><td>1999 B</td><td>1. April</td><td>2000</td></tr>
 <tr><td>Polen</td><td>19. Mai</td><td>1995</td><td>1. Juni</td><td>1996</td></tr>
+<tr><td>Portugal</td><td>23. September</td><td>2020 B</td><td>1. Oktober</td><td>2021</td></tr>
 <tr><td>Rumänien</td><td>22. Mai</td><td>1991 B</td><td>1. Juni</td><td>1992</td></tr>
 <tr><td>Russland\*</td><td>16. August</td><td>1990 B</td><td>1. September</td><td>1991</td></tr>
 <tr><td>Sambia</td><td>6. Juni</td><td>1986 B</td><td>1. Januar</td><td>1988</td></tr>
@@ -861,6 +863,7 @@ Geltungsbereich am 6. Februar 2020**[^t-2]**
 <tr><td>Syrien</td><td>19. Oktober</td><td>1982 B</td><td>1. Januar</td><td>1988</td></tr>
 <tr><td>Tschechische Republik</td><td>30. September</td><td>1993 N</td><td>1. Januar</td><td>1993</td></tr>
 <tr><td>Türkei</td><td>7. Juli</td><td>2010 B</td><td>1. August</td><td>2011</td></tr>
+<tr><td>Turkmenistan</td><td>4. Mai</td><td>2022 B</td><td>1. Juni</td><td>2023</td></tr>
 <tr><td>Uganda</td><td>12. Februar</td><td>1992 B</td><td>1. März</td><td>1993</td></tr>
 <tr><td>Ukraine\*</td><td>3. Januar</td><td>1990 B</td><td>1. Februar</td><td>1991</td></tr>
 <tr><td>Ungarn</td><td>16. Juni</td><td>1983</td><td>1. Januar</td><td>1988</td></tr>
@@ -872,4 +875,4 @@ Geltungsbereich am 6. Februar 2020**[^t-2]**
 <tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden.</td></tr>
 </table>
 
-[^t-2]: [AS 1991 307](https://fedlex.data.admin.ch/eli/oc/1991/307_307_307), [1993 2057](https://fedlex.data.admin.ch/eli/oc/1993/2057_2057_2057), [1995 1215](https://fedlex.data.admin.ch/eli/oc/1995/1215_1215_1215), [2004 3455](https://fedlex.data.admin.ch/eli/oc/2004/462), [2006 2021](https://fedlex.data.admin.ch/eli/oc/2006/317), [2009 1659](https://fedlex.data.admin.ch/eli/oc/2009/242), [2012 2553](https://fedlex.data.admin.ch/eli/oc/2012/303), [2014 2153](https://fedlex.data.admin.ch/eli/oc/2014/361), [2016 2891](https://fedlex.data.admin.ch/eli/oc/2016/478), [2018 877](https://fedlex.data.admin.ch/eli/oc/2018/119), [2020 485](https://fedlex.data.admin.ch/eli/oc/2020/85). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1991 307](https://fedlex.data.admin.ch/eli/oc/1991/307_307_307); [1993 2057](https://fedlex.data.admin.ch/eli/oc/1993/2057_2057_2057); [1995 1215](https://fedlex.data.admin.ch/eli/oc/1995/1215_1215_1215); [2004 3455](https://fedlex.data.admin.ch/eli/oc/2004/462); [2006 2021](https://fedlex.data.admin.ch/eli/oc/2006/317); [2009 1659](https://fedlex.data.admin.ch/eli/oc/2009/242); [2012 2553](https://fedlex.data.admin.ch/eli/oc/2012/303); [2014 2153](https://fedlex.data.admin.ch/eli/oc/2014/361); [2016 2891](https://fedlex.data.admin.ch/eli/oc/2016/478); [2018 877](https://fedlex.data.admin.ch/eli/oc/2018/119); [2020 485](https://fedlex.data.admin.ch/eli/oc/2020/85); [2022 624](https://fedlex.data.admin.ch/eli/oc/2022/624). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht https://www.fedlex.admin.ch/de/treaty
