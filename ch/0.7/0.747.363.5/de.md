@@ -3,11 +3,11 @@ sr: "0.747.363.5"
 title: Internationales Übereinkommen vom 18. Mai 2007 von Nairobi von 2007 über die Beseitigung von Wracks (mit Anhang)
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/454"
 language: de
-version: 2020-08-03
+version: 2022-10-26
 adopted: 2007-05-18
 in_force: 2016-08-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/454/20200803/de/xml/fedlex-data-admin-ch-eli-cc-2016-454-20200803-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/454/20200803/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/454/20221026/de/xml/fedlex-data-admin-ch-eli-cc-2016-454-20221026-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/454/20221026/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -24,7 +24,7 @@ Beitrittsurkunde von der Schweiz hinterlegt am 16. Mai 2016
 
 In Kraft getreten für die Schweiz am 16. August 2016
 
-(Stand am 3. August 2020)
+(Stand am 26. Oktober 2022)
 
 Die Vertragsstaaten dieses Übereinkommens,
 
@@ -475,7 +475,7 @@ Ausgestellt von:
 <tr><td>(Ort)</td><td></td><td>(Datum)</td></tr>
 </table>
 
-*(Unterschrift und Amtsbezeichnung des ausstellenden oder bestätigenden Bedienst**e**ten)*
+*(Unterschrift und Amtsbezeichnung des ausstellenden oder bestätigenden Bediensteten)*
 
 ### Erläuterungen
 
@@ -489,68 +489,80 @@ Ausgestellt von:
 
 \5. Die Eintragung «Anschrift» des (der) Versicherers (Versicherer) und/oder Sicherheitsgebers (Sicherheitsgeber) hat die Anschrift des Hauptgeschäftssitzes des (der) Versicherers (Versicherer) und/oder Sicherheitsgebers (Sicherheitsgeber) zu enthalten. Gegebenenfalls ist der Geschäftssitz anzugeben, an dem die Versicherung oder sonstige Sicherheit abgeschlossen wurde.
 
-Geltungsbereich am 3. August 2020**[^t-1]**
+Geltungsbereich am 26. Oktober 2022[^t-1]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
-<tr><td>Albanien<sup>\*</sup></td><td>27. April</td><td>2015 B</td><td>27. Juli</td><td>2015</td></tr>
-<tr><td>Antigua und Barbuda<sup>\*</sup></td><td>9. Januar</td><td>2015 B</td><td>14. April</td><td>2015</td></tr>
-<tr><td>Bahamas<sup>\*</sup></td><td>5. Juni</td><td>2015 B</td><td>5. September</td><td>2015</td></tr>
+<tr><td>Albanien\*</td><td>27. April</td><td>2015 B</td><td>27. Juli</td><td>2015</td></tr>
+<tr><td>Antigua und Barbuda\*</td><td>9. Januar</td><td>2015 B</td><td>14. April</td><td>2015</td></tr>
+<tr><td>Bahamas\*</td><td>5. Juni</td><td>2015 B</td><td>5. September</td><td>2015</td></tr>
 <tr><td>Belarus</td><td>5. September</td><td>2019 B</td><td>5. Dezember</td><td>2019</td></tr>
 <tr><td>Belgien</td><td>17. Januar</td><td>2017 B</td><td>17. April</td><td>2017</td></tr>
 <tr><td>Belize\*</td><td>17. Januar</td><td>2018 B</td><td>17. April</td><td>2018</td></tr>
-<tr><td>Bulgarien<sup>\*</sup></td><td>8. Februar</td><td>2012 B</td><td>14. April</td><td>2015</td></tr>
+<tr><td>Bulgarien\*</td><td>8. Februar</td><td>2012 B</td><td>14. April</td><td>2015</td></tr>
 <tr><td>China\* <sup>a</sup></td><td>11. November</td><td>2016 B</td><td>11. Februar</td><td>2017</td></tr>
 <tr><td>Cook-Inseln</td><td>22. Dezember</td><td>2014 B</td><td>14. April</td><td>2015</td></tr>
 <tr><td>Deutschland</td><td>20. Juni</td><td>2013</td><td>14. April</td><td>2015</td></tr>
-<tr><td>Dänemark<sup>\*</sup></td><td>14. April</td><td>2014</td><td>14. April</td><td>2015</td></tr>
+<tr><td>Dänemark\* <sup>b</sup></td><td>14. April</td><td>2014</td><td>14. April</td><td>2015</td></tr>
 <tr><td>Estland</td><td>29. Juni</td><td>2020</td><td>29. September</td><td>2020</td></tr>
 <tr><td>Finnland\*</td><td>27. Oktober</td><td>2016 B</td><td>27. Januar</td><td>2017</td></tr>
-<tr><td>Frankreich<sup>\*</sup></td><td>4. Februar</td><td>2016</td><td>4. Mai</td><td>2016</td></tr>
+<tr><td>Frankreich\*</td><td>4. Februar</td><td>2016</td><td>4. Mai</td><td>2016</td></tr>
 <tr><td>Gabun</td><td>17. April</td><td>2019 B</td><td>17. Juli</td><td>2019</td></tr>
+<tr><td>Guinea-Bissau</td><td>12. Mai</td><td>2022 B</td><td>12. August</td><td>2022</td></tr>
 <tr><td>Guyana</td><td>20. Februar</td><td>2019 B</td><td>20. Mai</td><td>2019</td></tr>
+<tr><td>Honduras</td><td>15. Februar</td><td>2022 B</td><td>15. Mai</td><td>2022</td></tr>
 <tr><td>Indien</td><td>23. März</td><td>2011 B</td><td>14. April</td><td>2015</td></tr>
+<tr><td>Indonesien</td><td>14. Dezember</td><td>2020 B</td><td>14. März</td><td>2021</td></tr>
 <tr><td>Iran</td><td>19. April</td><td>2011 B</td><td>14. April</td><td>2015</td></tr>
 <tr><td>Japan</td><td>1. Juli</td><td>2020 B</td><td>1. Oktober</td><td>2020</td></tr>
 <tr><td>Jordanien</td><td>16. September</td><td>2016 B</td><td>16. Dezember</td><td>2016</td></tr>
-<tr><td>Kanada</td><td>30. April</td><td>2019 B</td><td>30. Juli</td><td>2019</td></tr>
-<tr><td>Kenia<sup>\*</sup></td><td>14. April</td><td>2015 B</td><td>14. Juli</td><td>2015</td></tr>
+<tr><td>Kanada\*</td><td>30. April</td><td>2019 B</td><td>30. Juli</td><td>2019</td></tr>
+<tr><td>Kasachstan\*</td><td>28. April</td><td>2021 B</td><td>28. Juli</td><td>2021</td></tr>
+<tr><td>Kenia\*</td><td>14. April</td><td>2015 B</td><td>14. Juli</td><td>2015</td></tr>
 <tr><td>Komoren</td><td>1. Februar</td><td>2018 B</td><td>1. Mai</td><td>2018</td></tr>
 <tr><td>Kongo (Kinshasa)</td><td>19. Mai</td><td>2014 B</td><td>14. April</td><td>2015</td></tr>
 <tr><td>Korea (Nord-)</td><td>8. Mai</td><td>2017 B</td><td>8. August</td><td>2017</td></tr>
-<tr><td>Kroatien</td><td>11. Juli</td><td>2017 B</td><td>11. Oktober</td><td>2017</td></tr>
-<tr><td>Liberia<sup>\*</sup></td><td>8. Januar</td><td>2015 B</td><td>14. April</td><td>2015</td></tr>
+<tr><td>Kroatien\*</td><td>11. Juli</td><td>2017 B</td><td>11. Oktober</td><td>2017</td></tr>
+<tr><td>Liberia\*</td><td>8. Januar</td><td>2015 B</td><td>14. April</td><td>2015</td></tr>
+<tr><td>Luxemburg</td><td>29. Juli</td><td>2022 B</td><td>29. Oktober</td><td>2022</td></tr>
 <tr><td>Madagaskar</td><td>26. Juli</td><td>2019 B</td><td>26. Oktober</td><td>2019</td></tr>
 <tr><td>Malaysia</td><td>28. November</td><td>2013 B</td><td>14. April</td><td>2015</td></tr>
-<tr><td>Malta<sup>\*</sup></td><td>18. Januar</td><td>2015 B</td><td>18. April</td><td>2015</td></tr>
+<tr><td>Malta\*</td><td>18. Januar</td><td>2015 B</td><td>18. April</td><td>2015</td></tr>
 <tr><td>Marokko</td><td>13. Juni</td><td>2013 B</td><td>14. April</td><td>2015</td></tr>
-<tr><td>Marshallinseln<sup>\*</sup></td><td>27. Oktober</td><td>2014 B</td><td>14. April</td><td>2015</td></tr>
+<tr><td>Marshallinseln\*</td><td>27. Oktober</td><td>2014 B</td><td>14. April</td><td>2015</td></tr>
 <tr><td>Nauru</td><td>23. März</td><td>2020 B</td><td>23. Juni</td><td>2020</td></tr>
-<tr><td>Niederlande<sup>\*</sup> <sup>b</sup></td><td>19. Januar</td><td>2016</td><td>19. April</td><td>2016</td></tr>
+<tr><td>Niederlande\* <sup>c</sup></td><td>19. Januar</td><td>2016</td><td>19. April</td><td>2016</td></tr>
 <tr><td>Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td>20. Dezember</td><td>2017</td><td>20. Dezember</td><td>2017</td></tr>
 <tr><td>Nigeria</td><td>23. Juli</td><td>2009 B</td><td>14. April</td><td>2015</td></tr>
-<tr><td>Niue<sup>\*</sup></td><td>27. April</td><td>2015 B</td><td>27. Juli</td><td>2015</td></tr>
+<tr><td>Niue\*</td><td>27. April</td><td>2015 B</td><td>27. Juli</td><td>2015</td></tr>
 <tr><td>Oman</td><td>30. April</td><td>2020 B</td><td>30. Juli</td><td>2020</td></tr>
-<tr><td>Palau</td><td>29. September</td><td>2011 B</td><td>14. Mai</td><td>2015</td></tr>
-<tr><td>Panama<sup>\*</sup></td><td>18. August</td><td>2015 B</td><td>18. November</td><td>2015</td></tr>
+<tr><td>Pakistan</td><td>17. Juni</td><td>2022 B</td><td>17. September</td><td>2022</td></tr>
+<tr><td>Palau</td><td>29. September</td><td>2011 B</td><td>14. April</td><td>2015</td></tr>
+<tr><td>Panama\*</td><td>18. August</td><td>2015 B</td><td>18. November</td><td>2015</td></tr>
 <tr><td>Portugal</td><td>19. Oktober</td><td>2017 B</td><td>19. Januar</td><td>2018</td></tr>
 <tr><td>Rumänien</td><td>20. September</td><td>2016 B</td><td>20. Dezember</td><td>2016</td></tr>
+<tr><td>Russland</td><td>3. Februar</td><td>2022 B</td><td>3. Mai</td><td>2022</td></tr>
+<tr><td>San Marino</td><td>11. April</td><td>2022 B</td><td>11. Juli</td><td>2022</td></tr>
+<tr><td>São Tomé und Príncipe</td><td>15. August</td><td>2022 B</td><td>15. November</td><td>2022</td></tr>
 <tr><td>Saudi-Arabien</td><td>18. Juli</td><td>2019 B</td><td>18. Oktober</td><td>2019</td></tr>
 <tr><td>Schweden\*</td><td>3. November</td><td>2017 B</td><td>3. Februar</td><td>2018</td></tr>
 <tr><td>Schweiz</td><td>16. Mai</td><td>2016 B</td><td>16. August</td><td>2016</td></tr>
 <tr><td>Sierra Leone</td><td>22. November</td><td>2019 B</td><td>22. Februar</td><td>2020</td></tr>
 <tr><td>Singapur</td><td>8. Juni</td><td>2017 B</td><td>8. September</td><td>2017</td></tr>
 <tr><td>St. Kitts und Nevis</td><td>31. März</td><td>2016 B</td><td>30. Juni</td><td>2016</td></tr>
+<tr><td>St. Lucia</td><td>2. Dezember</td><td>2020 B</td><td>2. März</td><td>2021</td></tr>
 <tr><td>St. Vincent und die Grenadinen</td><td>2. Juli</td><td>2020 B</td><td>2. Oktober</td><td>2020</td></tr>
 <tr><td>Südafrika</td><td>4. September</td><td>2015 B</td><td>4. Dezember</td><td>2015</td></tr>
-<tr><td>Tonga</td><td>20. März</td><td>2015 B</td><td>20. Juni</td><td>2015</td></tr>
+<tr><td>Togo</td><td>20. März</td><td>2015 B</td><td>20. Juni</td><td>2015</td></tr>
+<tr><td>Tonga</td><td>17. Mai</td><td>2022 B</td><td>17. August</td><td>2022</td></tr>
 <tr><td>Tuvalu</td><td>17. Februar</td><td>2015 B</td><td>17. Mai</td><td>2015</td></tr>
-<tr><td>Vereinigtes Königreich<sup>\*</sup></td><td>30. November</td><td>2012 B</td><td>14. April</td><td>2015</td></tr>
+<tr><td>Vereinigtes Königreich\*</td><td>30. November</td><td>2012 B</td><td>14. April</td><td>2015</td></tr>
+<tr><td>Bermudas</td><td>31. März</td><td>2021</td><td>31. März</td><td>2021</td></tr>
 <tr><td>Gibraltar</td><td>16. April</td><td>2015</td><td>16. April</td><td>2015</td></tr>
 <tr><td>Insel Man</td><td>14. April</td><td>2015</td><td>14. April</td><td>2015</td></tr>
 <tr><td>Kaimaninseln</td><td>7. Februar</td><td>2017</td><td>7. Juli</td><td>2017</td></tr>
-<tr><td>Zypern<sup>\*</sup></td><td>22. Juli</td><td>2015 B</td><td>22. Oktober</td><td>2015</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrtsorganisation (OMI): www.imo.org/ &gt; Publications &gt; Catalogue & Code Listings oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden. <sup>a</sup> Das Übereink. gilt nicht für die Besonderen Verwaltungsregionen (SAR) Hong Kong und Macao. <sup>b</sup> Das Übereink. gilt nur für den europäischen Teil der Niederlande.</td></tr>
+<tr><td>Zypern\*</td><td>22. Juli</td><td>2015 B</td><td>22. Oktober</td><td>2015</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrtsorganisation (OMI): [www.imo.org](http://www.imo.org) &gt; Publications &gt; Catalogue & Code Listings oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden. <sup>a</sup> Das Übereink. gilt nicht für die Besonderen Verwaltungsregionen (SAR) Hong Kong und Macao. <sup>b</sup> Das Übereinkommen gilt nicht für die Färöer und Grönland. <sup>c</sup> Das Übereink. gilt nur für den europäischen Teil der Niederlande.</td></tr>
 </table>
 
-[^t-1]: [AS 2016 2777](https://fedlex.data.admin.ch/eli/oc/2016/454), [2017 2287](https://fedlex.data.admin.ch/eli/oc/2017/212), [2018 29](https://fedlex.data.admin.ch/eli/oc/2018/13), [2019 2455](https://fedlex.data.admin.ch/eli/oc/2019/453), [2020 2183](https://fedlex.data.admin.ch/eli/oc/2020/434)[3523](https://fedlex.data.admin.ch/eli/oc/2020/621). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-1]: [AS 2016 2777](https://fedlex.data.admin.ch/eli/oc/2016/454); [2017 2287](https://fedlex.data.admin.ch/eli/oc/2017/212); [2018 29](https://fedlex.data.admin.ch/eli/oc/2018/13); [2019 2455](https://fedlex.data.admin.ch/eli/oc/2019/453); [2020 2183](https://fedlex.data.admin.ch/eli/oc/2020/434), [3523](https://fedlex.data.admin.ch/eli/oc/2020/621); [2022 627](https://fedlex.data.admin.ch/eli/oc/2022/627). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht [https://www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

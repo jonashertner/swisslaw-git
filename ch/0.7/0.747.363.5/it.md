@@ -3,11 +3,11 @@ sr: "0.747.363.5"
 title: Convenzione internazionale del 18 maggio 2007 di Nairobi del 2007 sulla rimozione dei relitti (con all.)
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/454"
 language: it
-version: 2020-08-03
+version: 2022-10-26
 adopted: 2007-05-18
 in_force: 2016-08-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/454/20200803/it/xml/fedlex-data-admin-ch-eli-cc-2016-454-20200803-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/454/20200803/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/454/20221026/it/xml/fedlex-data-admin-ch-eli-cc-2016-454-20221026-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/454/20221026/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,13 +18,9 @@ RU **2016** 2777
 
 *Traduzione*
 
-Conclusa a Nairobi il 18 maggio 2007
+Conclusa a Nairobi il 18 maggio 2007 Strumento di adesione depositato dalla Svizzera il 16 maggio 2016 Entrata in vigore per la Svizzera il 16 agosto 2016
 
-Strumento di adesione depositato dalla Svizzera il 16 maggio 2016
-
-Entrata in vigore per la Svizzera il 16 agosto 2016
-
-(Stato 3 agosto 2020)
+(Stato 26 ottobre 2022)
 
 Gli Stati Parti contraenti della presente Convenzione,
 
@@ -489,68 +485,80 @@ Da
 
 \5. Alla voce «Indirizzo dell’assicuratore (o degli assicuratori) e/o del garante (o dei garanti)» occorre indicare l’indirizzo della sede di affari principale dell’assicuratore (o degli assicuratori) e/o del garante (o dei garanti). Se opportuno, deve essere indicata la sede di attività presso la quale è stata stipulata l’assicurazione o la garanzia.
 
-Campo d’applicazione il 3 agosto 2020**[^t-1]**
+Campo d’applicazione il 26 ottobre 2022[^t-1]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
-<tr><td>Albania<sup>\*</sup></td><td>27 aprile</td><td>2015 A</td><td>27 luglio</td><td>2015</td></tr>
-<tr><td>Antigua e Barbuda<sup>\*</sup></td><td>9 gennaio</td><td>2015 A</td><td>14 aprile</td><td>2015</td></tr>
+<tr><td>Albania\*</td><td>27 aprile</td><td>2015 A</td><td>27 luglio</td><td>2015</td></tr>
+<tr><td>Antigua e Barbuda\*</td><td>9 gennaio</td><td>2015 A</td><td>14 aprile</td><td>2015</td></tr>
 <tr><td>Arabia Saudita</td><td>18 luglio</td><td>2019 A</td><td>18 ottobre</td><td>2019</td></tr>
-<tr><td>Bahamas<sup>\*</sup></td><td>5 giugno</td><td>2015 A</td><td>5 settembre</td><td>2015</td></tr>
+<tr><td>Bahamas\*</td><td>5 giugno</td><td>2015 A</td><td>5 settembre</td><td>2015</td></tr>
 <tr><td>Belarus</td><td>5 settembre</td><td>2019 A</td><td>5 dicembre</td><td>2019</td></tr>
 <tr><td>Belgio</td><td>17 gennaio</td><td>2017 A</td><td>17 aprile</td><td>2017</td></tr>
 <tr><td>Belize\*</td><td>17 gennaio</td><td>2018 A</td><td>17 aprile</td><td>2018</td></tr>
-<tr><td>Bulgaria<sup>\*</sup></td><td>8 febbraio</td><td>2012 A</td><td>14 aprile</td><td>2015</td></tr>
-<tr><td>Canada</td><td>30 aprile</td><td>2019 A</td><td>30 luglio</td><td>2019</td></tr>
+<tr><td>Bulgaria\*</td><td>8 febbraio</td><td>2012 A</td><td>14 aprile</td><td>2015</td></tr>
+<tr><td>Canada\*</td><td>30 aprile</td><td>2019 A</td><td>30 luglio</td><td>2019</td></tr>
 <tr><td>Cina\* <sup>a</sup></td><td>11 novembre</td><td>2016 A</td><td>11 febbraio</td><td>2017</td></tr>
-<tr><td>Cipro<sup>\*</sup></td><td>22 luglio</td><td>2015 A</td><td>22 ottobre</td><td>2015</td></tr>
+<tr><td>Cipro\*</td><td>22 luglio</td><td>2015 A</td><td>22 ottobre</td><td>2015</td></tr>
 <tr><td>Comore</td><td>1° febbraio</td><td>2018 A</td><td>1° maggio</td><td>2018</td></tr>
 <tr><td>Congo (Kinshasa)</td><td>19 maggio</td><td>2014 A</td><td>14 aprile</td><td>2015</td></tr>
 <tr><td>Corea del Nord</td><td>8 maggio</td><td>2017 A</td><td>8 agosto</td><td>2017</td></tr>
-<tr><td>Croazia</td><td>11 luglio</td><td>2017 A</td><td>11 ottobre</td><td>2017</td></tr>
-<tr><td>Danimarca<sup>\*</sup></td><td>14 aprile</td><td>2014</td><td>14 aprile</td><td>2015</td></tr>
+<tr><td>Croazia\*</td><td>11 luglio</td><td>2017 A</td><td>11 ottobre</td><td>2017</td></tr>
+<tr><td>Danimarca\* <sup>b</sup></td><td>14 aprile</td><td>2014</td><td>14 aprile</td><td>2015</td></tr>
 <tr><td>Estonia</td><td>29 giugno</td><td>2020</td><td>29 settembre</td><td>2020</td></tr>
 <tr><td>Finlandia\*</td><td>27 ottobre</td><td>2016 A</td><td>27 gennaio</td><td>2017</td></tr>
-<tr><td>Francia<sup>\*</sup></td><td>4 febbraio</td><td>2016</td><td>4 maggio</td><td>2016</td></tr>
+<tr><td>Francia\*</td><td>4 febbraio</td><td>2016</td><td>4 maggio</td><td>2016</td></tr>
 <tr><td>Gabon</td><td>17 aprile</td><td>2019 A</td><td>17 luglio</td><td>2019</td></tr>
 <tr><td>Germania</td><td>20 giugno</td><td>2013</td><td>14 aprile</td><td>2015</td></tr>
 <tr><td>Giappone</td><td>1° luglio</td><td>2020 A</td><td>1° ottobre</td><td>2020</td></tr>
 <tr><td>Giordania</td><td>16 settembre</td><td>2016 A</td><td>16 dicembre</td><td>2016</td></tr>
+<tr><td>Guinea-Bissau</td><td>12 maggio</td><td>2022 A</td><td>12 agosto</td><td>2022</td></tr>
 <tr><td>Guyana</td><td>20 febbraio</td><td>2019 A</td><td>20 maggio</td><td>2019</td></tr>
+<tr><td>Honduras</td><td>15 febbraio</td><td>2022 A</td><td>15 maggio</td><td>2022</td></tr>
 <tr><td>India</td><td>23 marzo</td><td>2011 A</td><td>14 aprile</td><td>2015</td></tr>
+<tr><td>Indonesia</td><td>14 dicembre</td><td>2020 A</td><td>14 marzo</td><td>2021</td></tr>
 <tr><td>Iran</td><td>19 aprile</td><td>2011 A</td><td>14 aprile</td><td>2015</td></tr>
 <tr><td>Isole Cook</td><td>22 dicembre</td><td>2014 A</td><td>14 aprile</td><td>2015</td></tr>
-<tr><td>Isole Marshall<sup>\*</sup></td><td>27 ottobre</td><td>2014 A</td><td>14 aprile</td><td>2015</td></tr>
-<tr><td>Kenya<sup>\*</sup></td><td>14 aprile</td><td>2015 A</td><td>14 luglio</td><td>2015</td></tr>
-<tr><td>Liberia<sup>\*</sup></td><td>8 gennaio</td><td>2015 A</td><td>14 aprile</td><td>2015</td></tr>
+<tr><td>Isole Marshall\*</td><td>27 ottobre</td><td>2014 A</td><td>14 aprile</td><td>2015</td></tr>
+<tr><td>Kazakistan\*</td><td>28 aprile</td><td>2021 A</td><td>28 luglio</td><td>2021</td></tr>
+<tr><td>Kenya\*</td><td>14 aprile</td><td>2015 A</td><td>14 luglio</td><td>2015</td></tr>
+<tr><td>Liberia\*</td><td>8 gennaio</td><td>2015 A</td><td>14 aprile</td><td>2015</td></tr>
+<tr><td>Lussemburgo</td><td>29 luglio</td><td>2022 A</td><td>29 ottobre</td><td>2022</td></tr>
 <tr><td>Madagascar</td><td>26 luglio</td><td>2019 A</td><td>26 ottobre</td><td>2019</td></tr>
 <tr><td>Malaysia</td><td>28 novembre</td><td>2013 A</td><td>14 aprile</td><td>2015</td></tr>
-<tr><td>Malta<sup>\*</sup></td><td>18 gennaio</td><td>2015 A</td><td>18 aprile</td><td>2015</td></tr>
+<tr><td>Malta\*</td><td>18 gennaio</td><td>2015 A</td><td>18 aprile</td><td>2015</td></tr>
 <tr><td>Marocco</td><td>13 giugno</td><td>2013 A</td><td>14 aprile</td><td>2015</td></tr>
 <tr><td>Nauru</td><td>23 marzo</td><td>2020 A</td><td>23 giugno</td><td>2020</td></tr>
 <tr><td>Nigeria</td><td>23 luglio</td><td>2009 A</td><td>14 aprile</td><td>2015</td></tr>
-<tr><td>Niue<sup>\*</sup></td><td>27 aprile</td><td>2015 A</td><td>27 luglio</td><td>2015</td></tr>
+<tr><td>Niue\*</td><td>27 aprile</td><td>2015 A</td><td>27 luglio</td><td>2015</td></tr>
 <tr><td>Oman</td><td>30 aprile</td><td>2020 A</td><td>30 luglio</td><td>2020</td></tr>
-<tr><td>Paesi Bassi\* <sup>b</sup></td><td>19 gennaio</td><td>2016</td><td>19 aprile</td><td>2016</td></tr>
+<tr><td>Paesi Bassi\* <sup>c</sup></td><td>19 gennaio</td><td>2016</td><td>19 aprile</td><td>2016</td></tr>
 <tr><td>Parte caraibica (Bonaire, Sant’Eustachio e Saba)</td><td>20 dicembre</td><td>2017</td><td>20 dicembre</td><td>2017</td></tr>
-<tr><td>Palau</td><td>29 settembre</td><td>2011 A</td><td>14 maggio</td><td>2015</td></tr>
-<tr><td>Panama<sup>\*</sup></td><td>18 agosto</td><td>2015 A</td><td>18 novembre</td><td>2015</td></tr>
+<tr><td>Pakistan</td><td>17 giugno</td><td>2022 A</td><td>17 settembre</td><td>2022</td></tr>
+<tr><td>Palau</td><td>29 settembre</td><td>2011 A</td><td>14 aprile</td><td>2015</td></tr>
+<tr><td>Panama\*</td><td>18 agosto</td><td>2015 A</td><td>18 novembre</td><td>2015</td></tr>
 <tr><td>Portogallo</td><td>19 ottobre</td><td>2017 A</td><td>19 gennaio</td><td>2018</td></tr>
-<tr><td>Regno Unito<sup>\*</sup></td><td>30 novembre</td><td>2012 A</td><td>14 aprile</td><td>2015</td></tr>
+<tr><td>Regno Unito\*</td><td>30 novembre</td><td>2012 A</td><td>14 aprile</td><td>2015</td></tr>
+<tr><td>Bermuda</td><td>31 marzo</td><td>2021</td><td>31 marzo</td><td>2021</td></tr>
 <tr><td>Cayman, Isole</td><td>7 febbraio</td><td>2017</td><td>7 luglio</td><td>2017</td></tr>
 <tr><td>Gibilterra</td><td>16 aprile</td><td>2015</td><td>16 aprile</td><td>2015</td></tr>
 <tr><td>Isola di Man</td><td>14 aprile</td><td>2015</td><td>14 aprile</td><td>2015</td></tr>
 <tr><td>Romania</td><td>20 settembre</td><td>2016 A</td><td>20 dicembre</td><td>2016</td></tr>
+<tr><td>Russia</td><td>3 febbraio</td><td>2022 A</td><td>3 maggio</td><td>2022</td></tr>
 <tr><td>Saint Kitts e Nevis</td><td>31 marzo</td><td>2016 A</td><td>30 giugno</td><td>2016</td></tr>
 <tr><td>Saint Vincent e Grenadine</td><td>2 luglio</td><td>2020 A</td><td>2 ottobre</td><td>2020</td></tr>
+<tr><td>San Marino</td><td>11 aprile</td><td>2022 A</td><td>11 luglio</td><td>2022</td></tr>
+<tr><td>Santa Lucia</td><td>2 dicembre</td><td>2020 A</td><td>2 marzo</td><td>2021</td></tr>
+<tr><td>São Tomé e Príncipe</td><td>15 agosto</td><td>2022 A</td><td>15 novembre</td><td>2022</td></tr>
 <tr><td>Sierra Leone</td><td>22 novembre</td><td>2019 A</td><td>22 febbraio</td><td>2020</td></tr>
 <tr><td>Singapore</td><td>8 giugno</td><td>2017 A</td><td>8 settembre</td><td>2017</td></tr>
 <tr><td>Sudafrica</td><td>4 settembre</td><td>2015 A</td><td>4 dicembre</td><td>2015</td></tr>
-<tr><td>Svezia<sup>\*</sup></td><td>3 novembre</td><td>2017 A</td><td>3 febbraio</td><td>2018</td></tr>
+<tr><td>Svezia\*</td><td>3 novembre</td><td>2017 A</td><td>3 febbraio</td><td>2018</td></tr>
 <tr><td>Svizzera</td><td>16 maggio</td><td>2016 A</td><td>16 agosto</td><td>2016</td></tr>
-<tr><td>Tonga</td><td>20 marzo</td><td>2015 A</td><td>20 giugno</td><td>2015</td></tr>
+<tr><td>Togo</td><td>20 marzo</td><td>2015 A</td><td>20 giugno</td><td>2015</td></tr>
+<tr><td>Tonga</td><td>17 maggio</td><td>2022 A</td><td>17 agosto</td><td>2022</td></tr>
 <tr><td>Tuvalu</td><td>17 febbraio</td><td>2015 A</td><td>17 maggio</td><td>2015</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. Il testo in inglese può essere ottenuto sul sito Internet dell’Organizzazione internazionale marittima (IMO): www.imo.org/ &gt; Publications &gt; Catalogue & Code Listings, oppure presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Non si applica alle Regioni amministrative speciali (SAR) di Hong Kong e Macao. <sup>b</sup> Non si applica alla Parte europea dei Paesi Bassi.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. I testi in inglese possono essere ottenuti sul sito Internet dell’Organizzazione internazionale marittima (IMO): [www.imo.org](http://www.imo.org) &gt; Publications &gt; Catalogue & Code Listings, oppure presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Non si applica alle Regioni amministrative speciali (SAR) di Hong Kong e Macao. <sup>b</sup> La Conv. non si applica alle Isole Faroe e alla Groenlandia. <sup>c</sup> Non si applica alla Parte europea dei Paesi Bassi.</td></tr>
 </table>
 
-[^t-1]: [RU 2016 2777](https://fedlex.data.admin.ch/eli/oc/2016/454), [2017 2287](https://fedlex.data.admin.ch/eli/oc/2017/212), [2018 29](https://fedlex.data.admin.ch/eli/oc/2018/13), [2019 2455](https://fedlex.data.admin.ch/eli/oc/2019/453), [2020 2183](https://fedlex.data.admin.ch/eli/oc/2020/434)e [3523](https://fedlex.data.admin.ch/eli/oc/2020/621). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-1]: [RU 2016 2777](https://fedlex.data.admin.ch/eli/oc/2016/454); [2017 2287](https://fedlex.data.admin.ch/eli/oc/2017/212); [2018 29](https://fedlex.data.admin.ch/eli/oc/2018/13); [2019 2455](https://fedlex.data.admin.ch/eli/oc/2019/453); [2020 2183](https://fedlex.data.admin.ch/eli/oc/2020/434), [3523](https://fedlex.data.admin.ch/eli/oc/2020/621); [2022 627](https://fedlex.data.admin.ch/eli/oc/2022/627). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [https://www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
