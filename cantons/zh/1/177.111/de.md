@@ -5,40 +5,36 @@ title: Vollzugsverordnung zum Personalgesetz (VVO)
 short: VVO
 language: de
 version: "2022-10-01"
-nachtrag: "118"
-valid_until: 2022-10-26
+nachtrag: "119"
+valid_until: 2023-01-26
 adopted: 1999-05-19
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-177_111-1999_05_19-1999_07_01-118.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-177_111-1999_05_19-1999_07_01-119.html"
 text: pdf
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Vollzugsverordnung zum Personalgesetz (VVO)
+# Vollzugsverordnung zum Personalgesetz (VVO)<sup>42</sup>
 
-(vom 19. Mai 1999)[^t-2][^t-1]
+(vom 19. Mai 1999)[^t-1]
 
 Der Regierungsrat beschliesst:
 
-[^t-1]: Fassung gemäss RRB vom 23. November 2016 (OS 72, 32; ABl 2016-12-09). In Kraft seit 1. März 2017. 1.10. 22 - 118 55
-[^t-2]: OS 55, 249.
+[^t-1]: OS 55, 249.
 
 ### I. Allgemeine Bestimmungen
 
-[^hIAllgemeineBestim-1]: Fassung gemäss RRB vom 23. November 2016 (OS 72, 32; ABl 2016-12-09). In Kraft seit 1. März 2017. 1.10. 22 - 118 55
-[^hIAllgemeineBestim-2]: SR 412.10.
+[^hIAllgemeineBestim-1]: SR 412.10.
 
 #### § 1
 
 **Geltungsbereich, Begriffe**
 
-<sup>1</sup> Die Verordnung gilt auch für die Lehrverhältnisse des Kantons[^hIAllgemeineBestim-1] gemäss der Bundesgesetzgebung über die Berufsbildung[^hIAllgemeineBestim-2] sowie für die Lehrverhältnisse der Berufe der Gesundheitspflege.
+<sup>1</sup> Die Verordnung gilt auch für die Lehrverhältnisse des Kantons<sup>42</sup> gemäss der Bundesgesetzgebung über die Berufsbildung[^hIAllgemeineBestim-1] sowie für die Lehrverhältnisse der Berufe der Gesundheitspflege.
 
-<sup>2</sup> Es werden bezeichnet a. als Amt: Ämter, Abteilungen und Betriebe, die einer Direktion des Regierungsrates oder der Staatskanzlei unmittelbar unterstellt sind, b.[^1-1] als Gerichte: die dem Obergericht angegliederten Gerichte, die Bezirksgerichte, das Baurekursgericht und das Steuerrekursgericht,
+<sup>2</sup> Es werden bezeichnet a. als Amt: Ämter, Abteilungen und Betriebe, die einer Direktion des Regierungsrates oder der Staatskanzlei unmittelbar unterstellt sind, b.<sup>36</sup> als Gerichte: die dem Obergericht angegliederten Gerichte, die Bezirksgerichte, das Baurekursgericht und das Steuerrekursgericht,
 
 - c. als Betriebsangestellte: Angestellte des medizinisch-technischen, handwerklichen, land- und forstwirtschaftlichen, Ökonomie-, Aufseher- und Hausdienstbereiches.
-
-[^1-1]: Fassung gemäss RRB vom 14. September 2011 (OS 66, 814; ABl 2011, 2717). In Kraft seit 1. Dezember 2011.
 
 #### § 2
 
@@ -48,13 +44,11 @@ Der Regierungsrat beschliesst:
 
 <sup>2</sup> Die Stellenbeschreibungen werden regelmässig sowie bei einer Änderung des Aufgabengebietes überprüft. Das Personalamt erlässt Richtlinien über den Inhalt und die Gestaltung der Stellenbeschreibungen.
 
-<sup>3</sup> Das Obergericht und das Verwaltungsgericht erlassen für ihre Bereiche entsprechende Richtlinien.[^2-1]
+<sup>3</sup> Das Obergericht und das Verwaltungsgericht erlassen für ihre Bereiche entsprechende Richtlinien.<sup>36</sup>
 
 **1**
 
-1.10. 22 - 118
-
-[^2-1]: Fassung gemäss RRB vom 14. September 2011 (OS 66, 814; ABl 2011, 2717). In Kraft seit 1. Dezember 2011.
+- 1\. 1. 23 - 119
 
 ### II. Arbeitsverhältnis
 
@@ -100,11 +94,9 @@ Der Regierungsrat beschliesst:
 
 <sup>1</sup> Die Direktionen gewährleisten gegenüber der Finanzdirektion den Überblick über die Stellenpläne und deren Auslastung.
 
-<sup>2</sup> Die Direktionen bearbeiten die Stellenpläne mittels des zentralen Personalmanagement- und Lohnadministrationssystems oder mittels dezentralen Personalmanagementsystemen. Sie können diese Aufgabe an ihre Ämter delegieren.[^6-1]
+<sup>2</sup> Die Direktionen bearbeiten die Stellenpläne mittels des zentralen Personalmanagement- und Lohnadministrationssystems oder mittels dezentralen Personalmanagementsystemen. Sie können diese Aufgabe an ihre Ämter delegieren.<sup>42</sup>
 
 <sup>3</sup> Das Personalamt erlässt Weisungen zur Gestaltung und Bearbeitung der Stellenpläne.
-
-[^6-1]: Fassung gemäss RRB vom 23. November 2016 (OS 72, 32; ABl 2016-12-09). In Kraft seit 1. März 2017. 1.10. 22 - 118 55
 
 #### § 7
 
@@ -144,13 +136,13 @@ Die obersten kantonalen Gerichte regeln die Zuständigkeiten zur Festsetzung, Ä
 
 **Öffentliche Ausschreibung**
 
-§ 11.[^hBBegründungundDa-1] <sup>1</sup> Zuständig für die öffentliche Ausschreibung ist die Anstellungsbehörde oder die von ihr bezeichnete Stelle.
+§ 11.<sup>42</sup> <sup>1</sup> Zuständig für die öffentliche Ausschreibung ist die Anstellungsbehörde oder die von ihr bezeichnete Stelle.
 
 <sup>2</sup> Die Ausschreibung erfolgt in weiblicher und in männlicher oder in geschlechtsneutraler Form. Sie enthält gegebenenfalls Hinweise auf die Eignung der Stelle für Teilzeitbeschäftigung und für den beruflichen Wiedereinstieg.
 
 **3**
 
-1.10. 22 - 118
+- 1\. 1. 23 - 119
 
 <sup>3</sup> Die Ausschreibung kann insbesondere unterbleiben a. wenn die Stelle durch Beförderung oder Versetzung innerhalb der Verwaltung oder der Rechtspflege oder auf dem Wege der Berufung besetzt wird,
 
@@ -158,7 +150,7 @@ Die obersten kantonalen Gerichte regeln die Zuständigkeiten zur Festsetzung, Ä
 
 **Bewerbungsverfahren**
 
-§ 11 a.[^hBBegründungundDa-2] <sup>1</sup> Bewerbungsunterlagen können physisch oder über kantonale Rekrutierungsplattformen verlangt werden.
+§ 11 a.<sup>41</sup> <sup>1</sup> Bewerbungsunterlagen können physisch oder über kantonale Rekrutierungsplattformen verlangt werden.
 
 <sup>2</sup> Referenzen, Leumundsberichte, Sicherheitsüberprüfungen und andere Eignungsabklärungen werden nur mit Einwilligung der Bewerbenden eingeholt oder durchgeführt.
 
@@ -166,7 +158,7 @@ Die obersten kantonalen Gerichte regeln die Zuständigkeiten zur Festsetzung, Ä
 
 **Anstellungsbehörde**
 
-§ 12.[^hBBegründungundDa-3] <sup>1</sup> Die Direktionen sind zuständig für:
+§ 12.[^hBBegründungundDa-1] <sup>1</sup> Die Direktionen sind zuständig für:
 
 - a. die Anstellung und Festsetzung des Lohnes,
 
@@ -174,23 +166,21 @@ Die obersten kantonalen Gerichte regeln die Zuständigkeiten zur Festsetzung, Ä
 
 - c. die Versetzung,
 
-- d. die Gewährung von Zulagen gemäss §§ 25, 26 Abs. 1 und 3 und 27 Personalverordnung[^hBBegründungundDa-4], e.[^hBBegründungundDa-5] die Individuelle Lohnerhöhung und die Rückstufung,
+- d. die Gewährung von Zulagen gemäss §§ 25, 26 Abs. 1 und 3 und 27 Personalverordnung[^hBBegründungundDa-2], e.[^hBBegründungundDa-3] die Individuelle Lohnerhöhung und die Rückstufung,
 
 - f. die Entlassung aus dem Arbeitsverhältnis.
 
-<sup>2</sup> Der Regierungsrat ist zuständig für die Anstellung und Entlassung, die Festsetzung des Lohnes und die Versetzung der Angestellten ab Lohnklasse 24, die einem Mitglied des Regierungsrates oder der Staatsschreiberin bzw. dem Staatsschreiber direkt unterstellt sind. Die Direktion ist zuständig für Änderungen des Beschäftigungsgrades, Individuelle Lohnerhöhungen, Rückstufungen und die Gewährung von Zulagen. Für die Staatsschreiberin oder den Staatsschreiber kommen die Befugnisse der Direktion der Präsidentin oder dem Präsidenten des Regierungsrates zu.[^hBBegründungundDa-5]
+<sup>2</sup> Der Regierungsrat ist zuständig für die Anstellung und Entlassung, die Festsetzung des Lohnes und die Versetzung der Angestellten ab Lohnklasse 24, die einem Mitglied des Regierungsrates oder der Staatsschreiberin bzw. dem Staatsschreiber direkt unterstellt sind. Die Direktion ist zuständig für Änderungen des Beschäftigungsgrades, Individuelle Lohnerhöhungen, Rückstufungen und die Gewährung von Zulagen. Für die Staatsschreiberin oder den Staatsschreiber kommen die Befugnisse der Direktion der Präsidentin oder dem Präsidenten des Regierungsrates zu.[^hBBegründungundDa-3]
 
 <sup>3</sup> Für die Anstellung und Entlassung, die Festsetzung des Lohnes und die Versetzung von Chefärztinnen und Chefärzten ist die Gesundheitsdirektion zuständig.
 
 <sup>4</sup> Die Direktionen können ihre Zuständigkeiten gemäss Abs. 1 und 3 ganz oder teilweise an ihre Ämter und Betriebe delegieren.
 
-<sup>5</sup> Für die Gewährung von Zulagen gemäss §§ 26 Abs. 1 und 27 Personalverordnung[^hBBegründungundDa-4] ist das Einvernehmen mit dem Personalamt erforderlich.
+<sup>5</sup> Für die Gewährung von Zulagen gemäss §§ 26 Abs. 1 und 27 Personalverordnung[^hBBegründungundDa-2] ist das Einvernehmen mit dem Personalamt erforderlich.
 
-[^hBBegründungundDa-1]: Fassung gemäss RRB vom 23. November 2016 (OS 72, 32; ABl 2016-12-09). In Kraft seit 1. März 2017. 1.10. 22 - 118 55
-[^hBBegründungundDa-2]: Eingefügt durch RRB vom 23. November 2016 (OS 72, 32; ABl 2016-12-09). In Kraft seit 1. März 2017.
-[^hBBegründungundDa-3]: Fassung gemäss RRB vom 6. Dezember 2005 (OS 60, 520; ABl 2005, 1550). In Kraft seit 1. Januar 2006.
-[^hBBegründungundDa-4]: LS 177.11.
-[^hBBegründungundDa-5]: Fassung gemäss RRB vom 17. Juni 2009 (OS 65, 103; ABl 2010, 106). In Kraft seit 1. Januar 2010.
+[^hBBegründungundDa-1]: Fassung gemäss RRB vom 6. Dezember 2005 (OS 60, 520; ABl 2005, 1550). In Kraft seit 1. Januar 2006.
+[^hBBegründungundDa-2]: LS 177.11.
+[^hBBegründungundDa-3]: Fassung gemäss RRB vom 17. Juni 2009 (OS 65, 103; ABl 2010, 106). In Kraft seit 1. Januar 2010.
 
 #### § 13
 
@@ -206,11 +196,9 @@ Die obersten kantonalen Gerichte regeln die Zuständigkeiten zur Festsetzung, Ä
 
 <sup>1</sup> Zur Berechnung der Dienstjahre wird für alle Angestellten ungeachtet der Zahl der Anstellungen ein fiktives Eintrittsdatum festgesetzt. Dieses entspricht dem Zeitpunkt des Beginns der ersten, für die Berechnung der Dienstjahre zu berücksichtigenden Tätigkeit.
 
-<sup>2</sup> Das fiktive Eintrittsdatum wird bei einem Wiedereintritt in den Dienst des Kantons[^14-1] angepasst, ebenso bei einmaligen oder mehrfachen unbezahlten Urlauben, deren Dauer insgesamt sechs Monate oder 132 Arbeitstage übersteigen, wobei nur die diese Dauer übersteigende Zeit zu berücksichtigen ist.
+<sup>2</sup> Das fiktive Eintrittsdatum wird bei einem Wiedereintritt in den Dienst des Kantons<sup>42</sup> angepasst, ebenso bei einmaligen oder mehrfachen unbezahlten Urlauben, deren Dauer insgesamt sechs Monate oder 132 Arbeitstage übersteigen, wobei nur die diese Dauer übersteigende Zeit zu berücksichtigen ist.
 
 <sup>3</sup> Das fiktive Eintrittsdatum wird durch die Anstellungsbehörde festgelegt und angepasst. Für Angestellte mit gleichzeitig mehreren Arbeitsverhältnissen ist diejenige Behörde zuständig, bei der die erste Anstellung erfolgt ist.
-
-[^14-1]: Fassung gemäss RRB vom 23. November 2016 (OS 72, 32; ABl 2016-12-09). In Kraft seit 1. März 2017. 1.10. 22 - 118 55
 
 ### C. Beendigung
 
@@ -226,19 +214,19 @@ Die obersten kantonalen Gerichte regeln die Zuständigkeiten zur Festsetzung, Ä
 
 **Sachlich zureichender Grund bei Kündigung durch den Kanton42**
 
-§ 16.[^15-1] <sup>1</sup> Ein sachlich zureichender Grund besteht namentlich, wenn a. mangelhafte Leistungen oder unbefriedigendes Verhalten vorliegen,
+§ 16.<sup>42</sup> <sup>1</sup> Ein sachlich zureichender Grund besteht namentlich, wenn a. mangelhafte Leistungen oder unbefriedigendes Verhalten vorliegen,
 
 - b. die Stelle aus organisatorischen oder wirtschaftlichen Gründen aufgehoben wird und eine andere, zumutbare Stelle nicht angeboten werden kann oder abgelehnt wird,
 
 **5**
 
-1.10. 22 - 118 c.[^15-2] die oder der Angestellte aus gesundheitlichen Gründen während langer Zeit wiederholt oder dauernd an der Erfüllung der Aufgaben verhindert ist. Die Lohnfortzahlung gemäss § 99 Abs. 2 und 3 sowie § 108 Abs. 1 darf durch die Kündigung grundsätzlich nicht verkürzt werden.
+- 1\. 1. 23 - 119 c.[^15-1] die oder der Angestellte aus gesundheitlichen Gründen während langer Zeit wiederholt oder dauernd an der Erfüllung der Aufgaben verhindert ist. Die Lohnfortzahlung gemäss § 99 Abs. 2 und 3 sowie § 108 Abs. 1 darf durch die Kündigung grundsätzlich nicht verkürzt werden.
 
 <sup>2</sup> Kein sachlich zureichender Grund liegt insbesondere vor, wenn die Kündigung ausschliesslich als Folge einer Neubesetzung der Anstellungs- oder Aufsichtsbehörde erfolgt.
 
 **Restrukturierung, Stellenabbau, unverschuldete Entlassung a. Geltungsbereich**
 
-§ 16 a.[^15-3] <sup>1</sup> Für Restrukturierungen und Stellenabbau gemäss § 16 Abs. 1 lit. b gelten die §§ 16 b–17.
+§ 16 a.[^15-2] <sup>1</sup> Für Restrukturierungen und Stellenabbau gemäss § 16 Abs. 1 lit. b gelten die §§ 16 b–17.
 
 <sup>2</sup> Bei unverschuldeten Entlassungen in Einzelfällen gelten die §§ 16 b und 16 e–17.
 
@@ -246,13 +234,13 @@ Die obersten kantonalen Gerichte regeln die Zuständigkeiten zur Festsetzung, Ä
 
 **b. Vermeiden von Entlassungen**
 
-§ 16 b.[^15-3] <sup>1</sup> Beschliesst der Kanton eine Restrukturierung oder einen Stellenabbau, prüft er alle Massnahmen zur Vermeidung von Kündigungen, insbesondere die Vermittlung von Arbeitsstellen, Versetzungen, Pensenreduktionen oder besondere Arbeitszeitmodelle.
+§ 16 b.[^15-2] <sup>1</sup> Beschliesst der Kanton eine Restrukturierung oder einen Stellenabbau, prüft er alle Massnahmen zur Vermeidung von Kündigungen, insbesondere die Vermittlung von Arbeitsstellen, Versetzungen, Pensenreduktionen oder besondere Arbeitszeitmodelle.
 
-<sup>2</sup> Angestellte, die von einer Restrukturierung oder einem Stellenabbau betroffen sind, haben bei der Neubesetzung anderer kantonaler[^15-1] Stellen Vorrang, sofern sie mindestens gleich qualifiziert sind wie externe Bewerberinnen oder Bewerber. Die Direktionen und die obersten kantonalen Gerichte informieren über freie Stellen.[^15-4]
+<sup>2</sup> Angestellte, die von einer Restrukturierung oder einem Stellenabbau betroffen sind, haben bei der Neubesetzung anderer kantonaler<sup>42</sup> Stellen Vorrang, sofern sie mindestens gleich qualifiziert sind wie externe Bewerberinnen oder Bewerber. Die Direktionen und die obersten kantonalen Gerichte informieren über freie Stellen.<sup>36</sup>
 
 **c. Information**
 
-§ 16 c.[^15-3] <sup>1</sup> Beschliesst der Kanton eine Restrukturierung oder einen Stellenabbau, informiert er die betroffenen Angestellten frühzeitig darüber und über die geplanten Massnahmen zu ihren Gunsten.
+§ 16 c.[^15-2] <sup>1</sup> Beschliesst der Kanton eine Restrukturierung oder einen Stellenabbau, informiert er die betroffenen Angestellten frühzeitig darüber und über die geplanten Massnahmen zu ihren Gunsten.
 
 <sup>2</sup> Beabsichtigt er Entlassungen, informiert er in der Regel gleichzeitig die betroffenen Angestellten und weist sie auf das Beratungsangebot nach § 16 e Abs. 1 hin. Machen die Angestellten davon Gebrauch, beachtet der Kanton in der Regel eine Frist von neun Monaten zwischen der Mitteilung der Entlassung und dem Ende der Anstellung, sofern dies die dienstlichen Verhältnisse gestatten.
 
@@ -260,13 +248,13 @@ Die obersten kantonalen Gerichte regeln die Zuständigkeiten zur Festsetzung, Ä
 
 **d. Sozialplan**
 
-§ 16 d.[^15-3] <sup>1</sup> Führt eine Restrukturierung oder ein Stellenabbau bei mindestens fünf Angestellten zur Kündigung oder zu einer Weiterbeschäftigung unter schlechteren Bedingungen, erarbeitet die Direktion oder das oberste kantonale Gericht einen Sozialplan. Die Personalverbände werden beigezogen. Das Personalamt leistet Unterstützung.
+§ 16 d.[^15-2] <sup>1</sup> Führt eine Restrukturierung oder ein Stellenabbau bei mindestens fünf Angestellten zur Kündigung oder zu einer Weiterbeschäftigung unter schlechteren Bedingungen, erarbeitet die Direktion oder das oberste kantonale Gericht einen Sozialplan. Die Personalverbände werden beigezogen. Das Personalamt leistet Unterstützung.
 
-<sup>2</sup> Beabsichtigt der Kanton eine Massenentlassung im Sinne von Art. 335 d OR[^15-5], darf er Kündigungen erst aussprechen, nachdem die Sozialpartner Gelegenheit hatten, Vorschläge im Sinne von Art. 335 f Abs. 2 OR[^15-5] zu unterbreiten. Für die Stellungnahme der Sozialpartner gilt in der Regel eine Frist von 20 Tagen.
+<sup>2</sup> Beabsichtigt der Kanton eine Massenentlassung im Sinne von Art. 335 d OR[^15-3], darf er Kündigungen erst aussprechen, nachdem die Sozialpartner Gelegenheit hatten, Vorschläge im Sinne von Art. 335 f Abs. 2 OR[^15-3] zu unterbreiten. Für die Stellungnahme der Sozialpartner gilt in der Regel eine Frist von 20 Tagen.
 
 **e. Begleitangebote**
 
-§ 16 e.[^15-3] <sup>1</sup> Der Kanton stellt ein Beratungsangebot zur Verfügung, um Angestellten, die von einer Restrukturierung oder einem Stellenabbau betroffen sind, baldmöglichst eine neue Stelle zu vermitteln.
+§ 16 e.[^15-2] <sup>1</sup> Der Kanton stellt ein Beratungsangebot zur Verfügung, um Angestellten, die von einer Restrukturierung oder einem Stellenabbau betroffen sind, baldmöglichst eine neue Stelle zu vermitteln.
 
 <sup>2</sup> Für weiter gehende Unterstützungsmassnahmen wie Aus- oder Weiterbildungen, Hilfeleistungen für fremdsprachige Angestellte oder psychologische Beratungen kann der Kanton Beiträge bis zu höchstens vier Monatslöhnen leisten.
 
@@ -274,11 +262,11 @@ Die obersten kantonalen Gerichte regeln die Zuständigkeiten zur Festsetzung, Ä
 
 **f. Härtefälle**
 
-§ 16 f.[^15-3] Geraten Mitarbeitende durch eine Entlassung in eine Notlage, die durch die Leistungen gemäss den übrigen Bestimmungen dieser Verordnung nicht genügend aufgefangen wird, kann die Direktion im Einvernehmen mit dem Personalamt besondere Regelungen treffen.
+§ 16 f.[^15-2] Geraten Mitarbeitende durch eine Entlassung in eine Notlage, die durch die Leistungen gemäss den übrigen Bestimmungen dieser Verordnung nicht genügend aufgefangen wird, kann die Direktion im Einvernehmen mit dem Personalamt besondere Regelungen treffen.
 
 **g. Höhe der Abfindung**
 
-§ 16 g.<sup>58</sup> <sup>1</sup> Die Abfindung nach § 26 des Personalgesetzes[^15-6] und § 7 der Personalverordnung[^15-7] wird in Monatslöhnen berechnet. Als Monatslohn gilt ein Zwölftel des zuletzt bezahlten Jahres-Bruttolohnes zuzüglich ständiger Zulagen mit Lohncharakter.
+§ 16 g.<sup>58</sup> <sup>1</sup> Die Abfindung nach § 26 des Personalgesetzes[^15-4] und § 7 der Personalverordnung[^15-5] wird in Monatslöhnen berechnet. Als Monatslohn gilt ein Zwölftel des zuletzt bezahlten Jahres-Bruttolohnes zuzüglich ständiger Zulagen mit Lohncharakter.
 
 <sup>2</sup> Die Abfindung wird innerhalb des folgenden Rahmens festgesetzt:
 
@@ -290,7 +278,7 @@ Dienstjahre: 5–14 15–24 ab 25 Alter:
 
 **h. Verfahren; Kürzung26**
 
-§ 17.[^15-2] <sup>1</sup> Die Abfindung wird festgesetzt durch:
+§ 17.[^15-1] <sup>1</sup> Die Abfindung wird festgesetzt durch:
 
 - a. den Regierungsrat für das von ihm angestellte Personal,
 
@@ -300,7 +288,7 @@ Dienstjahre: 5–14 15–24 ab 25 Alter:
 
 **7**
 
-1.10. 22 - 118
+- 1\. 1. 23 - 119
 
 <sup>2</sup> Eine Abfindung wird als Einmalzahlung ausgerichtet und bei der Beendigung des Arbeitsverhältnisses ausbezahlt. Anstelle der Einmalzahlung kann vor Beendigung des Anstellungsverhältnisses dessen Verlängerung vereinbart werden.<sup>58</sup>
 
@@ -312,13 +300,13 @@ Dienstjahre: 5–14 15–24 ab 25 Alter:
 
 **Kündigung im Zusammenhang mit der Leistung oder dem Verhalten**
 
-§ 18.<sup>58</sup> <sup>1</sup> Auf das Ansetzen einer Frist zur Verbesserung gemäss § 19 des Personalgesetzes[^15-6] kann insbesondere verzichtet werden, wenn feststeht, dass die betroffene Person während der Frist a. auch mit angemessenen Förderungsmassnahmen nicht in der Lage sein wird, ihre Leistung oder ihr Verhalten genügend zu verbessern, oder b. nicht gewillt ist, ihre Leistung oder ihr Verhalten zu ändern.
+§ 18.<sup>58</sup> <sup>1</sup> Auf das Ansetzen einer Frist zur Verbesserung gemäss § 19 des Personalgesetzes[^15-4] kann insbesondere verzichtet werden, wenn feststeht, dass die betroffene Person während der Frist a. auch mit angemessenen Förderungsmassnahmen nicht in der Lage sein wird, ihre Leistung oder ihr Verhalten genügend zu verbessern, oder b. nicht gewillt ist, ihre Leistung oder ihr Verhalten zu ändern.
 
 <sup>2</sup> Fällt die Leistung oder das Verhalten innerhalb eines Jahres seit Ablauf der Frist zur Verbesserung erneut mangelhaft bzw. unbefriedigend aus, kann ohne Ansetzen einer neuen Frist zur Verbesserung gekündigt werden.
 
 **Entlassung invaliditätshalber**
 
-§ 19.[^15-1] <sup>1</sup> Die Entlassung invaliditätshalber erfolgt in der Regel auf das Ende des dritten der Invaliderklärung folgenden Monats. Ist der Invaliderklärung eine Dienstaussetzung von mehr als drei Monaten vorausgegangen, erfolgt die Auflösung auf das Ende des der Invaliderklärung folgenden Monats. Die Auflösung ist mindestens einen vollen Monat im Voraus zu verfügen.
+§ 19.<sup>42</sup> <sup>1</sup> Die Entlassung invaliditätshalber erfolgt in der Regel auf das Ende des dritten der Invaliderklärung folgenden Monats. Ist der Invaliderklärung eine Dienstaussetzung von mehr als drei Monaten vorausgegangen, erfolgt die Auflösung auf das Ende des der Invaliderklärung folgenden Monats. Die Auflösung ist mindestens einen vollen Monat im Voraus zu verfügen.
 
 <sup>2</sup> Die Dauer der Lohnfortzahlung gemäss § 99 Abs. 2 und 3 sowie § 108 Abs. 1 darf grundsätzlich nicht verkürzt werden.
 
@@ -326,48 +314,39 @@ Dienstjahre: 5–14 15–24 ab 25 Alter:
 
 **Altersrücktritt**
 
-§ 19 a.[^15-8] Die Angestellten können den Altersrücktritt in höchstens zwei Schritten vollziehen, wenn es die dienstlichen Verhältnisse zulassen.
+§ 19 a.<sup>41</sup> Die Angestellten können den Altersrücktritt in höchstens zwei Schritten vollziehen, wenn es die dienstlichen Verhältnisse zulassen.
 
-[^15-1]: Fassung gemäss RRB vom 23. November 2016 (OS 72, 32; ABl 2016-12-09). In Kraft seit 1. März 2017. 1.10. 22 - 118 55
-[^15-2]: Fassung gemäss RRB vom 6. Dezember 2005 (OS 60, 520; ABl 2005, 1550). In Kraft seit 1. Januar 2006.
-[^15-3]: Eingefügt durch RRB vom 4. Juni 2008 (OS 63, 341; ABl 2008, 905). In Kraft seit 1. Juli 2008.
-[^15-4]: Fassung gemäss RRB vom 14. September 2011 (OS 66, 814; ABl 2011, 2717). In Kraft seit 1. Dezember 2011.
-[^15-5]: SR 220.
-[^15-6]: LS 177.10.
-[^15-7]: LS 177.11.
-[^15-8]: Eingefügt durch RRB vom 23. November 2016 (OS 72, 32; ABl 2016-12-09). In Kraft seit 1. März 2017.
+[^15-1]: Fassung gemäss RRB vom 6. Dezember 2005 (OS 60, 520; ABl 2005, 1550). In Kraft seit 1. Januar 2006.
+[^15-2]: Eingefügt durch RRB vom 4. Juni 2008 (OS 63, 341; ABl 2008, 905). In Kraft seit 1. Juli 2008.
+[^15-3]: SR 220.
+[^15-4]: LS 177.10.
+[^15-5]: LS 177.11.
 
 ### D. Rechtsschutz
-
-[^hDRechtsschutz-1]: Fassung gemäss RRB vom 23. November 2016 (OS 72, 32; ABl 2016-12-09). In Kraft seit 1. März 2017. 1.10. 22 - 118 55
 
 #### § 20
 
 **Kostenersatz**
 
-<sup>1</sup> Werden Angestellte im Zusammenhang mit ihrer amtlichen Tätigkeit auf dem Rechtsweg belangt oder erweist sich zur Wahrung ihrer Rechte gegenüber Dritten die Beschreitung des Rechtsweges als notwendig, so übernimmt der Kanton[^hDRechtsschutz-1] mindestens die Kosten des erstinstanzlichen Rechtsschutzes. Die betroffene Person informiert die Direktion so rasch als möglich. Ausgenommen sind Auseinandersetzungen um geringfügige Übertretungen, die für Angestellte keine nachteiligen dienstlichen Folgen haben.
+<sup>1</sup> Werden Angestellte im Zusammenhang mit ihrer amtlichen Tätigkeit auf dem Rechtsweg belangt oder erweist sich zur Wahrung ihrer Rechte gegenüber Dritten die Beschreitung des Rechtsweges als notwendig, so übernimmt der Kanton<sup>42</sup> mindestens die Kosten des erstinstanzlichen Rechtsschutzes. Die betroffene Person informiert die Direktion so rasch als möglich. Ausgenommen sind Auseinandersetzungen um geringfügige Übertretungen, die für Angestellte keine nachteiligen dienstlichen Folgen haben.
 
-<sup>2</sup> In Auseinandersetzungen, bei denen der Kanton[^20-1] Gegenpartei ist, bezahlt er angemessenen Ersatz der den Angestellten erwachsenden Kosten, wenn diesen keine schuldhafte Pflichtverletzung nachgewiesen wird.
+<sup>2</sup> In Auseinandersetzungen, bei denen der Kanton<sup>42</sup> Gegenpartei ist, bezahlt er angemessenen Ersatz der den Angestellten erwachsenden Kosten, wenn diesen keine schuldhafte Pflichtverletzung nachgewiesen wird.
 
 <sup>3</sup> Ergibt das Verfahren, dass die oder der Angestellte die Amtspflichten vorsätzlich oder grobfahrlässig verletzt hat, kann sie oder er zur Rückerstattung der Kosten verpflichtet werden.
 
 <sup>4</sup> Diese Bestimmungen sind auch nach der Beendigung des Arbeitsverhältnisses anwendbar.
 
-[^20-1]: Fassung gemäss RRB vom 23. November 2016 (OS 72, 32; ABl 2016-12-09). In Kraft seit 1. März 2017. 1.10. 22 - 118 55
-
-### E. Datenschutz und Datenbearbeitung
-
-[^20-1]
+### E. Datenschutz und Datenbearbeitung<sup>42</sup>
 
 **Personaldossier a. Führung und Zuständigkeit**
 
-§ 21.[^hEDatenschutzundD-1] <sup>1</sup> Für alle Angestellten wird ein Personaldossier geführt. Dieses kann elektronisch geführt werden.
+§ 21.<sup>42</sup> <sup>1</sup> Für alle Angestellten wird ein Personaldossier geführt. Dieses kann elektronisch geführt werden.
 
 <sup>2</sup> Die Direktionen oder die dazu ermächtigten Ämter und das zuständige oberste kantonale Gericht bezeichnen die zur Führung der Personaldossiers zuständigen Stellen und regeln den Zugriff. Niemand darf sein eigenes Personaldossier führen.
 
 **b. Gliederung und Inhalt**
 
-§ 22.[^hEDatenschutzundD-1] <sup>1</sup> Das Personaldossier kann in ein Haupt- und in Nebendossiers unterteilt werden. Nebendossiers können insbesondere angelegt werden für den Lohn, Versicherungen, ärztliche Zeugnisse und Gutachten sowie für bestimmte Ereignisse. Nebendossiers können auch für Daten mehrerer Personen angelegt werden.
+§ 22.<sup>42</sup> <sup>1</sup> Das Personaldossier kann in ein Haupt- und in Nebendossiers unterteilt werden. Nebendossiers können insbesondere angelegt werden für den Lohn, Versicherungen, ärztliche Zeugnisse und Gutachten sowie für bestimmte Ereignisse. Nebendossiers können auch für Daten mehrerer Personen angelegt werden.
 
 <sup>2</sup> Das Personaldossier enthält insbesondere a. Daten zur Person und über persönliche Verhältnisse,
 
@@ -383,7 +362,9 @@ Dienstjahre: 5–14 15–24 ab 25 Alter:
 
 **9**
 
-1.10. 22 - 118 g. Unterlagen über Ferien, Urlaub und andere Dienstaussetzungen,
+- 1\. 1. 23 - 119
+
+- g. Unterlagen über Ferien, Urlaub und andere Dienstaussetzungen,
 
 - h. Unterlagen über Aus- und Weiterbildung sowie Karriereplanung,
 
@@ -401,37 +382,37 @@ Dienstjahre: 5–14 15–24 ab 25 Alter:
 
 **c. Aufbewahrung**
 
-§ 23.[^hEDatenschutzundD-1] Das Personaldossier wird durch organisatorische und technische Massnahmen vor dem Zugriff, der Einsichtnahme und vor Veränderungen durch unbefugte Personen geschützt.
+§ 23.<sup>42</sup> Das Personaldossier wird durch organisatorische und technische Massnahmen vor dem Zugriff, der Einsichtnahme und vor Veränderungen durch unbefugte Personen geschützt.
 
 **d. Überprüfung und Aussonderung**
 
-§ 24.[^hEDatenschutzundD-1] <sup>1</sup> Personaldossiers werden während der Anstellung periodisch überprüft. Personendaten, die weder für die Aufgabe der betreffenden Dienststelle noch für die Begründung, Durchführung oder Beendigung des Arbeitsverhältnisses oder für die Erstellung eines Arbeitszeugnisses notwendig sind, werden im Hinblick auf eine spätere Archivierung ausgesondert.
+§ 24.<sup>42</sup> <sup>1</sup> Personaldossiers werden während der Anstellung periodisch überprüft. Personendaten, die weder für die Aufgabe der betreffenden Dienststelle noch für die Begründung, Durchführung oder Beendigung des Arbeitsverhältnisses oder für die Erstellung eines Arbeitszeugnisses notwendig sind, werden im Hinblick auf eine spätere Archivierung ausgesondert.
 
 <sup>2</sup> Bei Beendigung des Arbeitsverhältnisses werden aus dem Personaldossier alle Unterlagen ausgesondert, die nicht mehr aufgrund gesetzlicher Aufbewahrungspflichten, für die Erteilung von Referenzauskünften oder im Zusammenhang mit Ansprüchen aus dem Arbeitsverhältnis notwendig sind.
 
 **e. Archivierung und Anbietepflicht**
 
-§ 25.[^hEDatenschutzundD-1] <sup>1</sup> Ausgesonderte Unterlagen werden während des Arbeitsverhältnisses verschlossen aufbewahrt.
+§ 25.<sup>42</sup> <sup>1</sup> Ausgesonderte Unterlagen werden während des Arbeitsverhältnisses verschlossen aufbewahrt.
 
 <sup>2</sup> Personaldossiers und ausgesonderte Unterlagen werden nach Beendigung des Arbeitsverhältnisses während zehn Jahren nach Ablauf des Austrittsjahres verschlossen aufbewahrt.
 
-<sup>3</sup> Sowohl Personaldossiers als auch ausgesonderte Unterlagen werden dem Staatsarchiv gemäss § 8 des Archivgesetzes vom 24. September 1995[^hEDatenschutzundD-2] angeboten. Unterlagen, die das Staatsarchiv nicht übernimmt, werden vernichtet.
+<sup>3</sup> Sowohl Personaldossiers als auch ausgesonderte Unterlagen werden dem Staatsarchiv gemäss § 8 des Archivgesetzes vom 24. September 1995[^hEDatenschutzundD-1] angeboten. Unterlagen, die das Staatsarchiv nicht übernimmt, werden vernichtet.
 
 **f. Interner Stellenwechsel**
 
-§ 26.[^hEDatenschutzundD-1] <sup>1</sup> Bei einem Stellenwechsel in eine andere Verwaltungseinheit wird das Personaldossier nicht übertragen.
+§ 26.<sup>42</sup> <sup>1</sup> Bei einem Stellenwechsel in eine andere Verwaltungseinheit wird das Personaldossier nicht übertragen.
 
 <sup>2</sup> Für die neue Verwaltungseinheit notwendige Informationen werden weitergegeben.
 
 **Einsichtsrecht**
 
-§ 27.[^hEDatenschutzundD-1] <sup>1</sup> Der zuständige Personaldienst gewährt Mitarbeitenden auf Gesuch Einsicht in ihr Personaldossier.
+§ 27.<sup>42</sup> <sup>1</sup> Der zuständige Personaldienst gewährt Mitarbeitenden auf Gesuch Einsicht in ihr Personaldossier.
 
 <sup>2</sup> Das Einsichtsrecht kann eingeschränkt werden, wenn überwiegende öffentliche oder private Interessen entgegenstehen.
 
 **Zentrales Personalmanagement- und Lohnadministrationssystem**
 
-§ 28.[^hEDatenschutzundD-1] <sup>1</sup> Das Personalmanagement- und Lohnadministrationssystem dient der Lohnverarbeitung, der einheitlichen Anwendung des Personalrechts, dem Personalcontrolling, der Personalführung, der Erstellung der Personal- und Lohnstatistik und des Geschäftsberichts sowie dem Verkehr mit den Sozialversicherungen und der Vorsorgeeinrichtung.
+§ 28.<sup>42</sup> <sup>1</sup> Das Personalmanagement- und Lohnadministrationssystem dient der Lohnverarbeitung, der einheitlichen Anwendung des Personalrechts, dem Personalcontrolling, der Personalführung, der Erstellung der Personal- und Lohnstatistik und des Geschäftsberichts sowie dem Verkehr mit den Sozialversicherungen und der Vorsorgeeinrichtung.
 
 <sup>2</sup> Im Personalmanagement- und Lohnadministrationssystem dürfen insbesondere folgende Personendaten bearbeitet werden:
 
@@ -467,7 +448,7 @@ Dienstjahre: 5–14 15–24 ab 25 Alter:
 
 **11**
 
-1.10. 22 - 118
+- 1\. 1. 23 - 119
 
 <sup>3</sup> Zusätzlich werden die Daten zum Arbeitsverhältnis und zur Stelle bearbeitet, soweit dies für die Zweckbestimmung gemäss Abs. 1 notwendig ist, insbesondere Daten über Eintritt und Anstellungsdauer, Einreihung und Lohn, Beschäftigungsgrad, Zulagen und Zahlungsmodalitäten.
 
@@ -479,7 +460,7 @@ Dienstjahre: 5–14 15–24 ab 25 Alter:
 
 **Dezentrale Personalmanagementsysteme**
 
-§ 29.[^hEDatenschutzundD-1] <sup>1</sup> Der Regierungsrat setzt die Anforderungen an dezentrale Personalmanagementsysteme fest.
+§ 29.<sup>42</sup> <sup>1</sup> Der Regierungsrat setzt die Anforderungen an dezentrale Personalmanagementsysteme fest.
 
 <sup>2</sup> In dezentralen Personalmanagementsystemen können bearbeitet werden:
 
@@ -489,18 +470,17 @@ Dienstjahre: 5–14 15–24 ab 25 Alter:
 
 **Meldepflichten der Angestellten**
 
-§ 30.[^hEDatenschutzundD-1] <sup>1</sup> Die Angestellten melden Änderungen der Daten gemäss § 28. Die Direktionen und die obersten kantonalen Gerichte können zusätzliche Daten festlegen, deren Änderungen durch die Angestellten gemeldet werden müssen.
+§ 30.<sup>42</sup> <sup>1</sup> Die Angestellten melden Änderungen der Daten gemäss § 28. Die Direktionen und die obersten kantonalen Gerichte können zusätzliche Daten festlegen, deren Änderungen durch die Angestellten gemeldet werden müssen.
 
 <sup>2</sup> Die vorgesetzte Stelle leitet die Meldungen den zur Führung der Personaldossiers und zur Bearbeitung der Personalmanagementsysteme zuständigen Stellen weiter.
 
-[^hEDatenschutzundD-1]: Fassung gemäss RRB vom 23. November 2016 (OS 72, 32; ABl 2016-12-09). In Kraft seit 1. März 2017. 1.10. 22 - 118 55
-[^hEDatenschutzundD-2]: LS 432.11; heute: LS 170.6.
+[^hEDatenschutzundD-1]: LS 432.11; heute: LS 170.6.
 
 #### § 31
 
 **Benützung technischer Einrichtungen**
 
-<sup>1</sup> Bei der Benützung technischer Einrichtungen, namentlich Telefonanlagen und IT-Systemen, dürfen die für den dienstlichen Gebrauch notwendigen Daten aufgezeichnet werden.[^hEDatenschutzundD-1]
+<sup>1</sup> Bei der Benützung technischer Einrichtungen, namentlich Telefonanlagen und IT-Systemen, dürfen die für den dienstlichen Gebrauch notwendigen Daten aufgezeichnet werden.<sup>42</sup>
 
 <sup>2</sup> Daten über die private Benützung dieser Einrichtungen dürfen nur zur Gebührenverrechnung erhoben werden.
 
@@ -550,7 +530,7 @@ Wo diese Verordnung auf Lohnklassen abstellt, ist die persönliche Lohnklasse de
 
 **13**
 
-1.10. 22 - 118 § 36. <sup>1</sup> Anfangseinreihungen in einer Leistungsklasse müssen begründet und von der vorgesetzten Direktion oder vom zuständigen obersten kantonalen Gericht genehmigt werden.[^35-1]
+- 1\. 1. 23 - 119 § 36. <sup>1</sup> Anfangseinreihungen in einer Leistungsklasse müssen begründet und von der vorgesetzten Direktion oder vom zuständigen obersten kantonalen Gericht genehmigt werden.[^35-1]
 
 **Anfangslohn**
 
@@ -558,13 +538,13 @@ Wo diese Verordnung auf Lohnklassen abstellt, ist die persönliche Lohnklasse de
 
 **Termine für Individuelle Lohnerhöhungen, Rückstufungen und Zulagen32**
 
-§ 37.[^35-2] <sup>1</sup> Ordentlicher Termin für Individuelle Lohnerhöhungen ist der 1. April.
+§ 37.<sup>40</sup> <sup>1</sup> Ordentlicher Termin für Individuelle Lohnerhöhungen ist der 1. April.
 
 <sup>2</sup> Individuelle Lohnerhöhungen als Anerkennung für den Erwerb eines besonderen Fachausweises oder den Abschluss einer beruflichen Weiterbildung, an der ein hohes dienstliches Interesse besteht, können ausnahmsweise auch ausserhalb des ordentlichen Termins auf Beginn eines Monats vorgenommen werden.
 
-<sup>3</sup> Rückstufungen im Sinne der Personalverordnung[^35-3] sind unter Berücksichtigung der Kündigungsfrist jederzeit zulässig.[^35-4]
+<sup>3</sup> Rückstufungen im Sinne der Personalverordnung[^35-2] sind unter Berücksichtigung der Kündigungsfrist jederzeit zulässig.[^35-3]
 
-<sup>4</sup> Zulagen für besondere Dienstleistungen, Funktionszulagen, Einmalzulagen und Anreize gemäss der Personalverordnung[^35-3] sind nicht an den Termin für Individuelle Lohnerhöhungen gebunden.
+<sup>4</sup> Zulagen für besondere Dienstleistungen, Funktionszulagen, Einmalzulagen und Anreize gemäss der Personalverordnung[^35-2] sind nicht an den Termin für Individuelle Lohnerhöhungen gebunden.
 
 **Ergänzende Bestimmungen**
 
@@ -575,9 +555,8 @@ Wo diese Verordnung auf Lohnklassen abstellt, ist die persönliche Lohnklasse de
 <sup>3</sup> Das Verfahren zur Festsetzung des neuen Lohnes gemäss Abs. 2 gilt auch, wenn eine Stelle neu eingereiht wird.
 
 [^35-1]: Fassung gemäss RRB vom 17. Juni 2009 (OS 65, 103; ABl 2010, 106). In Kraft seit 1. Januar 2010.
-[^35-2]: Fassung gemäss RRB vom 7. Juni 2016 (OS 71, 369; ABl 2016-06-24). In Kraft seit 1. Januar 2017.
-[^35-3]: LS 177.11.
-[^35-4]: Fassung gemäss RRB vom 6. Dezember 2005 (OS 60, 520; ABl 2005, 1550). In Kraft seit 1. Januar 2006.
+[^35-2]: LS 177.11.
+[^35-3]: Fassung gemäss RRB vom 6. Dezember 2005 (OS 60, 520; ABl 2005, 1550). In Kraft seit 1. Januar 2006.
 
 #### § 39
 
@@ -629,17 +608,17 @@ Die Finanzdirektion setzt im Rahmen ortsüblicher Mietzinse die Entschädigung f
 
 **15**
 
-1.10. 22 - 118
+- 1\. 1. 23 - 119
 
 <sup>3</sup> Anstelle einer Einmalzulage gemäss § 26 Abs. 3 der Personalverordnung[^hBAnerkennungbeson-2] kann bezahlter Urlaub bis zu zehn Tagen gewährt oder ein Naturalgeschenk bis zu einem Wert von Fr. 500 ausgerichtet werden. Urlaub ist zu gewähren, sofern die oder der Angestellte dies wünscht und der Betrieb es zulässt.
 
-<sup>4</sup> Für Einmalzulagen können bis 0,4% der Lohnsumme budgetiert werden. Budgetiert der Regierungsrat keinen prozentualen Anteil für Einmalzulagen, kann der Anteil für Individuelle Lohnerhöhungen auch für Einmalzulagen verwendet werden.[^hBAnerkennungbeson-3]
+<sup>4</sup> Für Einmalzulagen können bis 0,4% der Lohnsumme budgetiert werden. Budgetiert der Regierungsrat keinen prozentualen Anteil für Einmalzulagen, kann der Anteil für Individuelle Lohnerhöhungen auch für Einmalzulagen verwendet werden.<sup>40</sup>
 
 **Dienstaltersgeschenk a. Bemessung**
 
-§ 45. <sup>1</sup> Das Dienstaltersgeschenk wird nach dem Grundlohn zuzüglich Teuerungszulage und ständige Zulagen mit Lohncharakter, jedoch ohne Familienzulage[^hBAnerkennungbeson-4], berechnet.
+§ 45. <sup>1</sup> Das Dienstaltersgeschenk wird nach dem Grundlohn zuzüglich Teuerungszulage und ständige Zulagen mit Lohncharakter, jedoch ohne Familienzulage[^hBAnerkennungbeson-3], berechnet.
 
-<sup>2</sup> Das Dienstaltersgeschenk entspricht einem Achtzehntel, für 25 Dienstjahre einem Zwölftel und für 40 Dienstjahre einem Neuntel des Jahresgrundlohnes.[^hBAnerkennungbeson-5]
+<sup>2</sup> Das Dienstaltersgeschenk entspricht einem Achtzehntel, für 25 Dienstjahre einem Zwölftel und für 40 Dienstjahre einem Neuntel des Jahresgrundlohnes.[^hBAnerkennungbeson-4]
 
 **b. Unterschiedlicher Beschäftigungsgrad, Sonderfälle**
 
@@ -649,7 +628,7 @@ Die Finanzdirektion setzt im Rahmen ortsüblicher Mietzinse die Entschädigung f
 
 <sup>3</sup> Vollbeschäftigte Angestellte, die noch in einer weiteren Funktion teilzeitbeschäftigt sind, erhalten das Dienstaltersgeschenk nur für die Vollbeschäftigung.
 
-<sup>4</sup> Bestehen mehrere Teilzeitanstellungen, wird das Dienstaltersgeschenk anteilmässig auf die Anstellungen aufgeteilt.[^hBAnerkennungbeson-6]
+<sup>4</sup> Bestehen mehrere Teilzeitanstellungen, wird das Dienstaltersgeschenk anteilmässig auf die Anstellungen aufgeteilt.[^hBAnerkennungbeson-5]
 
 **c. Teilbetrag**
 
@@ -661,11 +640,11 @@ Die Finanzdirektion setzt im Rahmen ortsüblicher Mietzinse die Entschädigung f
 
 - d. 30%, wenn mehr als drei, aber höchstens vier Dienstjahre fehlen.
 
-<sup>2</sup> . . .[^hBAnerkennungbeson-7]
+<sup>2</sup> . . .[^hBAnerkennungbeson-6]
 
 **d. Bezug als Urlaub**
 
-§ 48.[^hBAnerkennungbeson-8] . . .[^hBAnerkennungbeson-7]
+§ 48.[^hBAnerkennungbeson-7] . . .[^hBAnerkennungbeson-6]
 
 <sup>2</sup> Der Urlaub kann in Abschnitte unterteilt oder tageweise oder in anderer geeigneter Form bezogen werden. Er kann bis zwei Jahre nach Fälligkeit bezogen werden. Das Amt, Gericht oder Notariat kann einen Aufschub bis zu einem weiteren Jahr gewähren.
 
@@ -673,12 +652,11 @@ Die Finanzdirektion setzt im Rahmen ortsüblicher Mietzinse die Entschädigung f
 
 [^hBAnerkennungbeson-1]: Fassung gemäss RRB vom 17. Juni 2009 (OS 65, 103; ABl 2010, 106). In Kraft seit 1. Januar 2010.
 [^hBAnerkennungbeson-2]: LS 177.11.
-[^hBAnerkennungbeson-3]: Fassung gemäss RRB vom 7. Juni 2016 (OS 71, 369; ABl 2016-06-24). In Kraft seit 1. Januar 2017.
-[^hBAnerkennungbeson-4]: Fassung gemäss RRB vom 11. Februar 2009 (OS 64, 109; ABl 2009, 347). In Kraft seit 1. Januar 2009.
-[^hBAnerkennungbeson-5]: Fassung gemäss RRB vom 5. Mai 2004 (OS 59, 138). In Kraft seit 1. Januar 2005.
-[^hBAnerkennungbeson-6]: Fassung gemäss RRB vom 6. Dezember 2005 (OS 60, 520; ABl 2005, 1550). In Kraft seit 1. Januar 2006.
-[^hBAnerkennungbeson-7]: Aufgehoben durch RRB vom 5. Mai 2004 (OS 59, 138). In Kraft seit 1. Januar 2005.
-[^hBAnerkennungbeson-8]: OS 55, 249.
+[^hBAnerkennungbeson-3]: Fassung gemäss RRB vom 11. Februar 2009 (OS 64, 109; ABl 2009, 347). In Kraft seit 1. Januar 2009.
+[^hBAnerkennungbeson-4]: Fassung gemäss RRB vom 5. Mai 2004 (OS 59, 138). In Kraft seit 1. Januar 2005.
+[^hBAnerkennungbeson-5]: Fassung gemäss RRB vom 6. Dezember 2005 (OS 60, 520; ABl 2005, 1550). In Kraft seit 1. Januar 2006.
+[^hBAnerkennungbeson-6]: Aufgehoben durch RRB vom 5. Mai 2004 (OS 59, 138). In Kraft seit 1. Januar 2005.
+[^hBAnerkennungbeson-7]: OS 55, 249.
 
 #### § 49
 
@@ -741,11 +719,11 @@ Sonderfälle werden für das Personal der Verwaltung von der vorgesetzten Direkt
 
 **Taggelder, Sitzungsgelder, Spesen**
 
-§ 55. <sup>1</sup> Die Taggelder gemäss §§ 34, 38 und 39 der Personalverordnung[^hDKommissionenund-2] betragen für eine ganztägige Beanspruchung[^hDKommissionenund-3]/260 des Jahreslohnes gemäss Lohnstufe 1 der jeweiligen Einreihungsklasse.[^hDKommissionenund-4]
+§ 55. <sup>1</sup> Die Taggelder gemäss §§ 34, 38 und 39 der Personalverordnung[^hDKommissionenund-2] betragen für eine ganztägige Beanspruchung[^hDKommissionenund-3]/260 des Jahreslohnes gemäss Lohnstufe 1 der jeweiligen Einreihungsklasse.<sup>36</sup>
 
 **17**
 
-1.10. 22 - 118
+- 1\. 1. 23 - 119
 
 <sup>2</sup> Soweit Gesetz oder Verordnung keine andere Regelung enthalten, wird den Kommissionen des Regierungsrates und seiner Direktionen sowie der obersten kantonalen Gerichte ein Sitzungsgeld gemäss den Ansätzen für die Kommissionen des Kantonsrates ausgerichtet. Darin inbegriffen ist die ordentliche Sitzungsvorbereitung.
 
@@ -755,18 +733,16 @@ Sonderfälle werden für das Personal der Verwaltung von der vorgesetzten Direkt
 
 <sup>5</sup> Den Kommissionen steht der Ersatz der Fahrauslagen vom Wohnort zum Sitzungsort zu.
 
-<sup>6</sup> Beträgt die voraussichtliche oder tatsächliche Entschädigung der Kommissionstätigkeit mindestens 20% des Jahreslohnes gemäss Lohnklasse 18, Lohnstufe 9, gelten die folgenden Bestimmungen des Personalrechts sinngemäss: §§ 43 und 44 der Personalverordnung[^hDKommissionenund-2] sowie §§ 58–77, 84–91 und 96–115 dieser Verordnung.[^hDKommissionenund-5]
+<sup>6</sup> Beträgt die voraussichtliche oder tatsächliche Entschädigung der Kommissionstätigkeit mindestens 20% des Jahreslohnes gemäss Lohnklasse 18, Lohnstufe 9, gelten die folgenden Bestimmungen des Personalrechts sinngemäss: §§ 43 und 44 der Personalverordnung[^hDKommissionenund-2] sowie §§ 58–77, 84–91 und 96–115 dieser Verordnung.<sup>42</sup>
 
 [^hDKommissionenund-1]: Aufgehoben durch RRB vom 3. Dezember 2003 (OS 58, 269). In Kraft seit 1. Januar 2004.
 [^hDKommissionenund-2]: LS 177.11.
 [^hDKommissionenund-3]: OS 55, 249.
-[^hDKommissionenund-4]: Fassung gemäss RRB vom 14. September 2011 (OS 66, 814; ABl 2011, 2717). In Kraft seit 1. Dezember 2011.
-[^hDKommissionenund-5]: Fassung gemäss RRB vom 23. November 2016 (OS 72, 32; ABl 2016-12-09). In Kraft seit 1. März 2017. 1.10. 22 - 118 55
-[^hDKommissionenund-6]: Fassung gemäss RRB vom 11. Februar 2009 (OS 64, 109; ABl 2009, 347). In Kraft seit 1. Januar 2009.
+[^hDKommissionenund-4]: Fassung gemäss RRB vom 11. Februar 2009 (OS 64, 109; ABl 2009, 347). In Kraft seit 1. Januar 2009.
 
 ### IV. Teuerungszulage und Familienzulagen
 
-[^hDKommissionenund-6]
+[^hDKommissionenund-4]
 
 ### A. Teuerungszulage
 
@@ -848,7 +824,7 @@ Die Teuerungszulage wird ausgerichtet auf a. Jahreslöhnen oder Teilen davon gem
 
 **19**
 
-1.10. 22 - 118
+- 1\. 1. 23 - 119
 
 <sup>2</sup> Wer regelmässig dienstlich öffentliche Verkehrsmittel benützt, erhält die Kosten eines Halbtaxabonnements vergütet. In diesen Fällen werden Billette zur halben Taxe entschädigt, in den übrigen Fällen zur vollen Taxe.
 
@@ -944,7 +920,7 @@ Bei Dienstreisen werden pro Tag Nebenauslagen pauschal gemäss folgenden Ansätz
 
 **21**
 
-1.10. 22 - 118 § 74. <sup>1</sup> Die Direktionen orientieren das Personalamt über Regelungen, die sie zum Vollzug der Vorschriften über den Ersatz von Barauslagen erlassen.
+- 1\. 1. 23 - 119 § 74. <sup>1</sup> Die Direktionen orientieren das Personalamt über Regelungen, die sie zum Vollzug der Vorschriften über den Ersatz von Barauslagen erlassen.
 
 **Besondere Regelungen**
 
@@ -962,13 +938,11 @@ Bei Dienstreisen werden pro Tag Nebenauslagen pauschal gemäss folgenden Ansätz
 
 <sup>4</sup> Stellen Angestellte ihre privaten Bürogeräte sowie Telefone an ihrem Wohn- oder Arbeitsort regelmässig zur Verfügung, kann ihnen mit Zustimmung der nach Abs. 3 zuständigen Instanz eine Entschädigung oder ein Beitrag an die Anschaffungskosten ausgerichtet werden.
 
-[^75-1]: Fassung gemäss RRB vom 23. November 2016 (OS 72, 32; ABl 2016-12-09). In Kraft seit 1. März 2017. 1.10. 22 - 118 55
-
 #### § 76
 
 **Parkplätze**
 
-<sup>1</sup> Angestellte, die für das Parkieren ihres privaten Motorfahrzeuges einen Platz innerhalb kantonaler[^75-1] oder vom Kanton[^75-1] gemieteter Liegenschaften benützen, haben dafür grundsätzlich eine Gebühr zu entrichten.
+<sup>1</sup> Angestellte, die für das Parkieren ihres privaten Motorfahrzeuges einen Platz innerhalb kantonaler<sup>42</sup> oder vom Kanton<sup>42</sup> gemieteter Liegenschaften benützen, haben dafür grundsätzlich eine Gebühr zu entrichten.
 
 <sup>2</sup> Der Regierungsrat und die obersten kantonalen Gerichte regeln die Einzelheiten nach übereinstimmenden Grundsätzen.
 
@@ -1040,7 +1014,7 @@ Als Lohn im Sinne der Bestimmungen des VI. Abschnitts gelten der Grundlohn zuzü
 
 **23**
 
-1.10. 22 - 118
+- 1\. 1. 23 - 119
 
 <sup>3</sup> Ferien, die im laufenden Kalenderjahr aus dienstlichen oder triftigen persönlichen Gründen nicht bezogen werden können, sind bis spätestens Mitte des folgenden Kalenderjahres zu beziehen. Der Übertrag von nicht bezogenen Ferien sowie der ausnahmsweise Vorbezug von Ferien bedürfen der Bewilligung der Verwaltungseinheit.
 
@@ -1074,73 +1048,63 @@ Als Lohn im Sinne der Bestimmungen des VI. Abschnitts gelten der Grundlohn zuzü
 
 <sup>3</sup> Bei überwiegenden dienstlichen Interessen kann die Gewährung von Urlaub verweigert, oder es können Auflagen gemacht werden.
 
-[^84-1]: Fassung gemäss RRB vom 29. November 2006 (OS 61, 483; ABl 2006, 1696). In Kraft seit 1. Januar 2007.
-
-#### § 85
-
 **Bezahlter Urlaub a. Familiäre Ereignisse**
 
-<sup>1</sup> Die Bestimmungen für Ereignisse im Zusammenhang mit Eltern, Kindern oder Geschwistern gelten auch für Stief- und Pflegeverhältnisse und für die Kinder der eingetragenen Partnerin oder des eingetragenen Partners, solche im Zusammenhang mit der Ehegattin bzw. dem Ehegatten auch für die Lebenspartnerin oder den Lebenspartner und die eingetragene Partnerin oder den eingetragenen Partner.[^84-1]
+§ 85.<sup>59</sup> <sup>1</sup> Die Bestimmungen für Ereignisse im Zusammenhang mit Eltern, Kindern oder Geschwistern gelten auch für Stief- und Pflegeverhältnisse. Die Bestimmungen für Ereignisse im Zusammenhang mit der Ehegattin bzw. dem Ehegatten gelten auch für die Lebenspartnerin oder den Lebenspartner und die eingetragene Partnerin oder den eingetragenen Partner.
 
 <sup>2</sup> Zur Familie gemäss Abs. 3 werden diejenigen Personen gezählt, die zueinander in einem Verhältnis nach Abs. 1 stehen.
 
 <sup>3</sup> Für familiäre Ereignisse wird wie folgt Urlaub gewährt:<sup>51</sup>
 
-**Urlaub**
+**Urlaub 3 Arbeitstage 1 Arbeitstag**
 
-Ereignis a. Eigene Hochzeit oder Eintragung 3 Arbeitstage der eigenen Partnerschaft b. Hochzeit oder Eintragung der Partnerschaft eines eigenen Kindes, von Geschwistern, Vater oder Mutter c.[^85-1] Aufnahme eines Kindes in ein unentgeltliches dauerhaftes Pflegeverhältnis Aufnahme des Kindes d. Krankheit oder Unfall in der Familie – wenn andere Hilfe fehlt höchstens 2 Arbeitstage pro Ereignis – bei Familien mit eigenen Kleinkindern oder Kindern im schulpflichtigen Alter – wenn ein Familienmitglied im Sterben liegt e. Tod der Ehegattin oder des Ehegatten, der eingetragenen Partnerin oder des eingetragenen Partners, eines Kindes oder der Eltern f. Tod der Schwiegereltern, von Schwiegertöchtern, Schwiegersöhnen und Geschwistern g. Tod von Grosseltern, Ehegatten oder eingetragenen Partnerinnen Erledigung von Formali- und Partnern von Geschwistern, Geschwistern der Ehegattin, des Ehegatten, der eingetragenen Partnerin oder des eingetragenen Partners, Enkeln, Tanten oder Onkeln h. Tod anderer Verwandter oder von Dritten Beerdigung, höchstens 1 Arbeitstag
+Ereignis a. Eigene Hochzeit b. Hochzeit eines eigenen Kindes, von Geschwistern, eines Elternteils c. Krankheit oder Unfall in der Familie – wenn andere Hilfe fehlt höchstens 2 Arbeitstage pro Ereignis – bei Familien mit eigenen Kleinkindern oder Kindern im schulpflichtigen Alter – wenn ein Familienmitglied im Sterben liegt d. Tod der Ehegattin oder des Ehegatten, der eingetragenen Partnerin oder des eingetragenen Partners, eines Kindes oder der Eltern e. Tod der Schwiegereltern, von Schwiegertöchtern, Schwiegersöhnen und Geschwistern f. Tod von Grosseltern, Ehegatten oder eingetragenen Partnerinnen Erledigung von Formali- und Partnern von Geschwistern, Geschwistern der Ehegattin, des Ehegatten, der eingetragenen Partnerin oder des eingetragenen Partners, Enkeln, Tanten oder Onkeln g. Tod anderer Verwandter oder von Dritten Beerdigung, höchstens 1 Arbeitstag
 
 **25**
 
-1.10. 22 - 118 § 86. <sup>1</sup> Für persönliche Angelegenheiten wird wie folgt Urlaub gewährt:
+- 1\. 1. 23 - 119 § 86. <sup>1</sup> Für persönliche Angelegenheiten wird wie folgt Urlaub gewährt:
 
-**1 Arbeitstag**
+**die notwendige Zeit,**
 
 **b. Persösnliche Angelegenheiten**
 
 Ereignis Urlaub a. Arzt- und Zahnarztkonsultationen die notwendige Zeit b. Stellensuche in gekündigter Stellung die notwendige Zeit, höchstens 5 Arbeitstage, weiter gehende Zeitaufwendungen sind zu kompensieren c. Wohnungs- und Zimmerwechsel 1 Arbeitstag d. An- und Abmeldung bei Behörden die notwendige Zeit
 
-**5 Arbeitstage für den Vater und die Mutter in den ersten zwei Monaten seit**
-
-**die notwendige Zeit,**
+**die notwendige Zeit, höchstens 5 Arbeitstage pro Ereignis 2 Arbeitstage**
 
 <sup>2</sup> Für Vorladungen vor Gericht oder vor eine andere Behörde wird bezahlter Urlaub im Umfang der notwendigen Zeit gewährt.
 
+**3 Arbeitstage**
+
 <sup>3</sup> Zur Erledigung unaufschiebbarer Angelegenheiten können Eltern die notwendige Zeit zur Begleitung ihrer Kinder beanspruchen, bis höchstens fünf Arbeitstage pro Kalenderjahr.
 
-[^85-1]: Fassung gemäss RRB vom 4. Juni 2008 (OS 63, 344; ABl 2008, 913). In Kraft seit 1. Juli 2008.
-
 #### § 87
-
-**die notwendige Zeit, höchstens 5 Arbeitstage pro Ereignis 2 Arbeitstage**
 
 **c. Militär, Zivilschutz**
 
 <sup>1</sup> Für freiwillige Militärsport- und Gebirgskurse der Armee wird bezahlter Urlaub für höchstens vier Kurse während des gesamten Arbeitsverhältnisses gewährt.
 
-**3 Arbeitstage**
+**2 Arbeitstage**
 
 <sup>2</sup> Für militärische Marschgruppenanlässe wird die notwendige Zeit gewährt, höchstens vier Tage pro Kalenderjahr.
 
+**1 Arbeitstag, im Falle der**
+
 <sup>3</sup> Für freiwillige Dienstleistungen im Zivilschutz wird die notwendige Zeit gewährt, pro Kalenderjahr jedoch höchstens 20 Arbeitstage, eingeschlossen obligatorische Dienstleistungen.
 
-**2 Arbeitstage**
+**täten im Zusammenhang mit dem Todesfall 2 Arbeitstage**
 
 **d. Personalverbände**
 
 § 88.<sup>57</sup> <sup>1</sup> Je fünf Vorstandsmitgliedern der ständigen Verhandlungspartner oder deren Stellvertretung wird für verbandsinterne Sitzungen die notwendige Zeit gewährt, jedoch höchstens zehn Arbeitstage pro Kalenderjahr.
 
-**1 Arbeitstag, im Falle der**
-
 <sup>2</sup> Einem Mitglied eines ständigen Verhandlungspartners wird wie folgt Urlaub gewährt:
 
-**täten im Zusammenhang mit dem Todesfall 2 Arbeitstage**
+**die notwendige Zeit zur Teilnahme an der**
 
 - a. für Sitzungen mit der Verwaltung die notwendige Zeit,
 
 - b. für die Teilnahme als Delegierte oder Delegierter an gesamtschweizerischen Tagungen der betreffenden Organisation die notwendige Zeit, höchstens drei Arbeitstage pro Kalenderjahr.
-
-**die notwendige Zeit zur Teilnahme an der**
 
 <sup>3</sup> Amtsstellen, bei denen Vorstandsmitglieder oder Delegierte im Sinne von Abs. 1 und 2 beschäftigt sind, berücksichtigen, soweit möglich, bei der Arbeitszuteilung die Beanspruchung für die Verbandstätigkeit angemessen.
 
@@ -1190,7 +1154,7 @@ Für Einsätze im Rahmen friedenserhaltender Aktionen und Guter Dienste des Bund
 
 **27**
 
-1.10. 22 - 118 § 94. <sup>1</sup> Für externe Weiterbildungsveranstaltungen können bezahlter Urlaub und Beiträge gewährt werden.
+- 1\. 1. 23 - 119 § 94. <sup>1</sup> Für externe Weiterbildungsveranstaltungen können bezahlter Urlaub und Beiträge gewährt werden.
 
 **Externe Weiterbildungsveranstaltungen**
 
@@ -1227,15 +1191,17 @@ Für Einsätze im Rahmen friedenserhaltender Aktionen und Guter Dienste des Bund
 
 <sup>4</sup> Der Mutter kann zusätzlich unbezahlter Urlaub gewährt werden.
 
-<sup>5</sup> . . .<sup>52</sup> § 96 a.<sup>50</sup> <sup>1</sup> Der Angestellte, der im Zeitpunkt der Geburt eines Kindes dessen rechtlicher Vater ist oder innerhalb der auf die Geburt folgenden sechs Monate dessen rechtlicher Vater wird, hat Anspruch auf einen bezahlten Vaterschaftsurlaub von zwei Wochen und auf einen unbezahlten Urlaub von einem Monat.
+<sup>5</sup> . . .<sup>52</sup> § 96 a.<sup>59</sup> <sup>1</sup> Anspruch auf einen bezahlten Urlaub von zwei Wochen und auf einen unbezahlten Urlaub von einem Monat hat:
 
-**Vaterschaftsurlaub**
+**Urlaub des anderen Elternteils**
 
-<sup>2</sup> Der bezahlte Vaterschaftsurlaub muss innert sechs Monaten nach der Geburt des Kindes bezogen werden. Er kann wochen- oder tageweise bezogen werden. Der unbezahlte Urlaub muss innert zwölf Monaten nach der Geburt des Kindes bezogen werden. Bei der Bestimmung des Zeitpunkts und der Aufteilung der Urlaube ist auf die betrieblichen Bedürfnisse Rücksicht zu nehmen.
+- a. der Angestellte, der im Zeitpunkt der Geburt eines Kindes dessen rechtlicher Vater ist oder innerhalb der auf die Geburt folgenden sechs Monate dessen rechtlicher Vater wird,
 
-<sup>3</sup> Abs. 1 und 2 gelten auch für Angestellte, bei deren eingetragener Partnerin ein Kindesverhältnis mit Geburt begründet wird, soweit nicht durch eine andere Person für dasselbe Kind Vaterschaftsurlaub gemäss Abs. 1 und 2 bezogen wird.
+- b. die Angestellte, die im Zeitpunkt der Geburt eines Kindes dessen rechtlicher anderer Elternteil ist.
 
-<sup>4</sup> Die nach den Bestimmungen über den Erwerbsersatz ausgerichtete Entschädigung steht im Umfang des bezahlten Vaterschaftsurlaubs der Staatskasse zu.
+<sup>2</sup> Der bezahlte Urlaub muss innert sechs Monaten nach der Geburt des Kindes bezogen werden. Er kann wochen- oder tageweise bezogen werden. Der unbezahlte Urlaub muss innert zwölf Monaten nach der Geburt des Kindes bezogen werden. Bei der Bestimmung des Zeitpunkts und der Aufteilung der Urlaube ist auf die betrieblichen Bedürfnisse Rücksicht zu nehmen.
+
+<sup>3</sup> Die nach den Bestimmungen über den Erwerbsersatz ausgerichtete Entschädigung steht im Umfang des bezahlten Urlaubs der Staatskasse zu.
 
 **Besondere Verhältnisse**
 
@@ -1245,13 +1211,17 @@ Für Einsätze im Rahmen friedenserhaltender Aktionen und Guter Dienste des Bund
 
 <sup>3</sup> Für besondere Verhältnisse im Einzelfall kann die Direktion im Einvernehmen mit dem Personalamt oder das zuständige oberste kantonale Gericht eine angemessene Lösung treffen.
 
-**Urlaub bei Begründung eines Pflegekind-Verhältnisses**
+**Urlaub bei Begründung eines Pflegeverhältnisses**
 
-§ 98.[^hCElternschaft95-1] Bei der Begründung eines Pflegekind-Verhältnisses im Hinblick auf eine spätere Adoption wird § 96 sinngemäss angewendet. Die Direktion, das zuständige oberste kantonale Gericht oder das Notariatsinspektorat legen den Urlaub der Elternteile im Einzelfall fest.
+§ 98.<sup>59</sup> <sup>1</sup> Bei der Begründung eines Pflegeverhältnisses im Hinblick auf eine spätere Adoption wird dem angestellten Elternteil ein bezahlter Urlaub von höchstens acht Wochen gewährt.
+
+<sup>2</sup> Die Direktion, das zuständige oberste kantonale Gericht oder das Notariatsinspektorat legen den Urlaub des angestellten Elternteils im Einzelfall fest.
+
+<sup>3</sup> Der Urlaub muss innerhalb des ersten Jahres nach Aufnahme des Kindes bezogen werden. Er kann wochenweise bezogen werden. Bei der Bestimmung des Zeitpunkts und der Aufteilung des Urlaubs ist auf die betrieblichen Bedürfnisse Rücksicht zu nehmen.
 
 **29**
 
-1.10. 22 - 118
+- 1\. 1. 23 - 119
 
 [^hCElternschaft95-1]: Fassung gemäss RRB vom 6. Dezember 2005 (OS 60, 520; ABl 2005, 1550). In Kraft seit 1. Januar 2006.
 
@@ -1287,7 +1257,7 @@ Für Einsätze im Rahmen friedenserhaltender Aktionen und Guter Dienste des Bund
 
 **Case Management**
 
-§ 100 a.[^99-3] <sup>1</sup> Die kranken oder verunfallten Angestellten und die Vorgesetzten oder die Personaldienste halten regelmässigen Kontakt.
+§ 100 a.<sup>42</sup> <sup>1</sup> Die kranken oder verunfallten Angestellten und die Vorgesetzten oder die Personaldienste halten regelmässigen Kontakt.
 
 <sup>2</sup> Die Vorgesetzten oder die Personaldienste prüfen ein Case Management, wenn die volle oder teilweise Dienstaussetzung oder die Leistungseinbusse voraussichtlich länger als zwei Monate dauert.
 
@@ -1303,7 +1273,7 @@ Für Einsätze im Rahmen friedenserhaltender Aktionen und Guter Dienste des Bund
 
 **Durchführung des Case Managements**
 
-§ 100 b.[^99-4] <sup>1</sup> Das Case Management beginnt mit der Einsetzung einer Case Managerin oder eines Case Managers.
+§ 100 b.<sup>41</sup> <sup>1</sup> Das Case Management beginnt mit der Einsetzung einer Case Managerin oder eines Case Managers.
 
 <sup>2</sup> Es endet infolge a. vollständiger oder teilweiser Wiedereingliederung am bisherigen oder an einem neuen Arbeitsplatz,
 
@@ -1315,8 +1285,6 @@ Für Einsätze im Rahmen friedenserhaltender Aktionen und Guter Dienste des Bund
 
 [^99-1]: Fassung gemäss RRB vom 6. Dezember 2005 (OS 60, 520; ABl 2005, 1550). In Kraft seit 1. Januar 2006.
 [^99-2]: Fassung gemäss RRB vom 24. Oktober 2007 (OS 62, 455; ABl 2007, 1984). In Kraft seit 1. April 2008.
-[^99-3]: Fassung gemäss RRB vom 23. November 2016 (OS 72, 32; ABl 2016-12-09). In Kraft seit 1. März 2017. 1.10. 22 - 118 55
-[^99-4]: Eingefügt durch RRB vom 23. November 2016 (OS 72, 32; ABl 2016-12-09). In Kraft seit 1. März 2017.
 
 #### § 101
 
@@ -1330,11 +1298,11 @@ Für Einsätze im Rahmen friedenserhaltender Aktionen und Guter Dienste des Bund
 
 **31**
 
-1.10. 22 - 118 § 102. <sup>1</sup> Die Versicherungsverträge für die obligatorische Unfallversicherung der nicht bei der SUVA versicherten Angestellten werden von der Finanzdirektion abgeschlossen.
+- 1\. 1. 23 - 119 § 102. <sup>1</sup> Die Versicherungsverträge für die obligatorische Unfallversicherung der nicht bei der SUVA versicherten Angestellten werden von der Finanzdirektion abgeschlossen.
 
 **Unfallversicherung**
 
-<sup>2</sup> Der Kanton[^101-2] übernimmt die Hälfte der Prämien für die Nichtberufsunfallversicherung.
+<sup>2</sup> Der Kanton<sup>42</sup> übernimmt die Hälfte der Prämien für die Nichtberufsunfallversicherung.
 
 <sup>3</sup> Die Finanzdirektion regelt mit einem Kollektiv-Versicherungsvertrag zusätzliche Leistungen zum Obligatorium. Der Beitritt zu dieser Versicherung ist freiwillig. Die Prämien werden von den Angestellten getragen.
 
@@ -1350,7 +1318,7 @@ Für Einsätze im Rahmen friedenserhaltender Aktionen und Guter Dienste des Bund
 
 **Kürzung der Lohnfortzahlung**
 
-§ 103.[^101-2] <sup>1</sup> Die Lohnfortzahlung kann gekürzt werden, wenn a. die Arbeitsunfähigkeit ganz oder teilweise auf Krankheiten oder Unfallfolgen zurückgeht, die beim Diensteintritt bereits bestanden haben,
+§ 103.<sup>42</sup> <sup>1</sup> Die Lohnfortzahlung kann gekürzt werden, wenn a. die Arbeitsunfähigkeit ganz oder teilweise auf Krankheiten oder Unfallfolgen zurückgeht, die beim Diensteintritt bereits bestanden haben,
 
 - b. der Unfall oder eine Krankheit von der betroffenen Person absichtlich oder grobfahrlässig herbeigeführt worden oder die Folge einer ausserberuflich bewusst eingegangenen, besonderen Gefährdung ist,
 
@@ -1365,7 +1333,6 @@ Für Einsätze im Rahmen friedenserhaltender Aktionen und Guter Dienste des Bund
 <sup>3</sup> Bei Nichtberufsunfällen, die wegen groben Selbstverschuldens oder durch Eingehen einer besonderen Gefährdung eingetreten sind, wird die Höhe der Lohnfortzahlung in der Regel im gleichen Verhältnis wie das Taggeld der obligatorischen Unfallversicherung gekürzt.
 
 [^101-1]: Fassung gemäss RRB vom 6. Dezember 2005 (OS 60, 520; ABl 2005, 1550). In Kraft seit 1. Januar 2006.
-[^101-2]: Fassung gemäss RRB vom 23. November 2016 (OS 72, 32; ABl 2016-12-09). In Kraft seit 1. März 2017. 1.10. 22 - 118 55
 
 #### § 104
 
@@ -1373,41 +1340,33 @@ Für Einsätze im Rahmen friedenserhaltender Aktionen und Guter Dienste des Bund
 
 <sup>1</sup> Taggelder der Invalidenversicherung und der Militärversicherung während Dienstaussetzungen wegen Krankheit und Unfalls werden grundsätzlich auf den Lohn angerechnet.
 
-<sup>2</sup> Taggelder der obligatorischen Unfallversicherung gehen an den Kanton[^104-1], soweit der Lohnanspruch höher ist. In dem Umfang, in dem sie den Lohn übersteigen, werden sie den Angestellten ausbezahlt.
-
-[^104-1]: Fassung gemäss RRB vom 23. November 2016 (OS 72, 32; ABl 2016-12-09). In Kraft seit 1. März 2017. 1.10. 22 - 118 55
+<sup>2</sup> Taggelder der obligatorischen Unfallversicherung gehen an den Kanton<sup>42</sup>, soweit der Lohnanspruch höher ist. In dem Umfang, in dem sie den Lohn übersteigen, werden sie den Angestellten ausbezahlt.
 
 #### § 105
 
 **b. Renten**
 
-<sup>1</sup> Wird wegen Krankheit oder Unfalls eine Rente der obligatorischen Unfallversicherung, der Invalidenversicherung oder der Militärversicherung zugesprochen, hat der Kanton[^104-1] das Recht, den Lohn, den er trotz fehlender oder eingeschränkter Arbeitsfähigkeit geleistet hat, bis zum Betrag der für die entsprechende Periode nachzuzahlenden Rente beim Versicherer zurückzufordern.
+<sup>1</sup> Wird wegen Krankheit oder Unfalls eine Rente der obligatorischen Unfallversicherung, der Invalidenversicherung oder der Militärversicherung zugesprochen, hat der Kanton<sup>42</sup> das Recht, den Lohn, den er trotz fehlender oder eingeschränkter Arbeitsfähigkeit geleistet hat, bis zum Betrag der für die entsprechende Periode nachzuzahlenden Rente beim Versicherer zurückzufordern.
 
 <sup>2</sup> Im Falle künftiger Dienstaussetzungen wegen des Ereignisses, das zur Rente geführt hat, entscheidet die Direktion im Einvernehmen mit der Finanzdirektion oder das zuständige oberste kantonale Gericht über die Anrechnung auf den Lohn.
 
-<sup>3</sup> Wurde die Rente vor Eintritt in den Dienst des Kantons[^105-1] zugesprochen, wird ihre Anrechnung bei der Anstellung geregelt.
+<sup>3</sup> Wurde die Rente vor Eintritt in den Dienst des Kantons<sup>42</sup> zugesprochen, wird ihre Anrechnung bei der Anstellung geregelt.
 
 <sup>4</sup> Die Rente wird nicht angerechnet, soweit ihr Grund, namentlich herabgesetzte Leistungsfähigkeit oder Notwendigkeit häufiger Arzt- oder Therapiebesuche, bei der Festsetzung des Lohnes berücksichtigt wurde oder sich nicht auf das Arbeitsverhältnis auswirkt.
-
-[^105-1]: Fassung gemäss RRB vom 23. November 2016 (OS 72, 32; ABl 2016-12-09). In Kraft seit 1. März 2017. 1.10. 22 - 118 55
 
 #### § 106
 
 **Ansprüche gegenüber Dritten**
 
-<sup>1</sup> Erkrankte oder verunfallte Angestellte haben Schadenersatzansprüche gegenüber Dritten bis zur Höhe des bezogenen Lohnes an den Kanton[^105-1] abzutreten und bei der Geltendmachung solcher Ansprüche mitzuwirken.
+<sup>1</sup> Erkrankte oder verunfallte Angestellte haben Schadenersatzansprüche gegenüber Dritten bis zur Höhe des bezogenen Lohnes an den Kanton<sup>42</sup> abzutreten und bei der Geltendmachung solcher Ansprüche mitzuwirken.
 
 <sup>2</sup> Im Falle der Weigerung kann der Lohn entsprechend gekürzt werden.
 
-#### § 107
-
-**Gesundheitskontrolle**
-
-<sup>1</sup> Die Direktionen können für Angestellte, die eine gesundheitsgefährdende Tätigkeit ausüben, regelmässige Gesundheitskontrollen sowie Austrittsuntersuchungen anordnen.
-
 **33**
 
-1.10. 22 - 118
+- 1\. 1. 23 - 119 § 107. <sup>1</sup> Die Direktionen können für Angestellte, die eine gesundheitsgefährdende Tätigkeit ausüben, regelmässige Gesundheitskontrollen sowie Austrittsuntersuchungen anordnen.
+
+**Gesundheitskontrolle**
 
 <sup>2</sup> Angestellten, die sich solchen Kontrollen nicht unterziehen, können die bei Krankheit vorgesehenen Leistungen verweigert werden.
 
@@ -1415,41 +1374,37 @@ Für Einsätze im Rahmen friedenserhaltender Aktionen und Guter Dienste des Bund
 
 **Grundsätze**
 
-§ 108. <sup>1</sup> Bei Arbeitsunfähigkeit wegen Berufsunfalls und Berufskrankheit im Sinne des Bundesgesetzes über die Unfallversicherung[^107-1] wird den Angestellten während zwölf Monaten der volle Lohn ausgerichtet. Wiederholte Dienstaussetzungen wegen Berufsunfalls werden für die Lohnzahlung nicht zusammengezählt.
+§ 108. <sup>1</sup> Bei Arbeitsunfähigkeit wegen Berufsunfalls und Berufskrankheit im Sinne des Bundesgesetzes über die Unfallversicherung[^106-1] wird den Angestellten während zwölf Monaten der volle Lohn ausgerichtet. Wiederholte Dienstaussetzungen wegen Berufsunfalls werden für die Lohnzahlung nicht zusammengezählt.
 
 <sup>2</sup> Vom dreizehnten Monat an wird der Lohn bis zur Wiederaufnahme der Arbeit oder bis zur Auflösung des Arbeitsverhältnisses wegen Invalidität auf 80% reduziert.
 
-<sup>3</sup> Im Umfang der kantonalen[^107-2] Leistungen gehen Ansprüche der Angestellten gegen haftpflichtige Dritte auf den Kanton[^107-2] über.
+<sup>3</sup> Im Umfang der kantonalen<sup>42</sup> Leistungen gehen Ansprüche der Angestellten gegen haftpflichtige Dritte auf den Kanton<sup>42</sup> über.
 
-[^107-1]: SR 832.20.
-[^107-2]: Fassung gemäss RRB vom 23. November 2016 (OS 72, 32; ABl 2016-12-09). In Kraft seit 1. März 2017. 1.10. 22 - 118 55
+[^106-1]: SR 832.20.
 
 #### § 109
 
 **Invalidität und Tod**
 
-<sup>1</sup> Übersteigt der Bruttolohn den Höchstbetrag des in der obligatorischen Unfallversicherung versicherten Verdienstes, richtet der Kanton[^107-2] die vom UVG-Versicherer festgesetzte Invaliditäts- oder Hinterlassenenrente auch auf dem nicht versicherten Verdienst aus.
+<sup>1</sup> Übersteigt der Bruttolohn den Höchstbetrag des in der obligatorischen Unfallversicherung versicherten Verdienstes, richtet der Kanton<sup>42</sup> die vom UVG-Versicherer festgesetzte Invaliditäts- oder Hinterlassenenrente auch auf dem nicht versicherten Verdienst aus.
 
-<sup>2</sup> Eine Komplementärrente der Vorsorgeeinrichtung wird auf die Leistungen gemäss Abs. 1 angerechnet.[^109-1]
+<sup>2</sup> Eine Komplementärrente der Vorsorgeeinrichtung wird auf die Leistungen gemäss Abs. 1 angerechnet.<sup>42</sup>
 
 **Nicht obligatorisch versicherte Personen**
 
-§ 110. Bei Berufsunfällen von Angestellten und Mitgliedern von Behörden im Nebenamt, die nicht nach dem Bundesgesetz über die Unfallversicherung[^109-2] versichert sind, erbringt der Kanton[^109-1] die dort vorgesehenen Leistungen, wenn der Nebenerwerb beim Kanton[^109-1] nicht durch die Unfallversicherung aufgrund des Haupterwerbs versichert ist.
+§ 110. Bei Berufsunfällen von Angestellten und Mitgliedern von Behörden im Nebenamt, die nicht nach dem Bundesgesetz über die Unfallversicherung[^109-1] versichert sind, erbringt der Kanton<sup>42</sup> die dort vorgesehenen Leistungen, wenn der Nebenerwerb beim Kanton<sup>42</sup> nicht durch die Unfallversicherung aufgrund des Haupterwerbs versichert ist.
 
-[^109-1]: Fassung gemäss RRB vom 23. November 2016 (OS 72, 32; ABl 2016-12-09). In Kraft seit 1. März 2017. 1.10. 22 - 118 55
-[^109-2]: SR 832.20.
+[^109-1]: SR 832.20.
 
 ### E. Leistungen im Todesfall
 
 **Bemessung**
 
-§ 111.[^hELeistungenimTod-1] <sup>1</sup> Im Todesfall wird der Lohn für den Sterbemonat weiter ausgerichtet. Den Hinterbliebenen im Sinne der Bestimmungen der Vorsorgeeinrichtung wird der Lohn auch für die beiden darauf folgenden Monate weiter ausgerichtet. Hätte ein befristetes Arbeitsverhältnis weniger lang gedauert, besteht der Anspruch in beiden Fällen nur bis zum Zeitpunkt der vorgesehenen Beendigung.
+§ 111.<sup>42</sup> <sup>1</sup> Im Todesfall wird der Lohn für den Sterbemonat weiter ausgerichtet. Den Hinterbliebenen im Sinne der Bestimmungen der Vorsorgeeinrichtung wird der Lohn auch für die beiden darauf folgenden Monate weiter ausgerichtet. Hätte ein befristetes Arbeitsverhältnis weniger lang gedauert, besteht der Anspruch in beiden Fällen nur bis zum Zeitpunkt der vorgesehenen Beendigung.
 
 <sup>2</sup> Für die Bemessung ist der volle Lohn, unabhängig von einer vorausgegangenen Kürzung massgebend.
 
 <sup>3</sup> Weitergehende Leistungen für Hinterbliebene von Angestellten, die nicht der Vorsorgeeinrichtung angehörten, sowie in anderen Sonderfällen werden im Einzelfall von der Direktion im Einvernehmen mit dem Personalamt und vom zuständigen obersten kantonalen Gericht festgelegt.
-
-[^hELeistungenimTod-1]: Fassung gemäss RRB vom 23. November 2016 (OS 72, 32; ABl 2016-12-09). In Kraft seit 1. März 2017. 1.10. 22 - 118 55
 
 ### F. Militär-, Schutz- und Zivildienst
 
@@ -1461,10 +1416,9 @@ Für Einsätze im Rahmen friedenserhaltender Aktionen und Guter Dienste des Bund
 
 <sup>2</sup> Als obligatorischer Militär- und Schutzdienst gelten sämtliche Dienstleistungen, zu denen Dienstpflichtige gemäss der Bundesgesetzgebung verpflichtet werden können, auch solche von Frauen, die sich freiwillig zur Leistung von Militärdienst oder Schutzdienst gemeldet haben.[^112-1]
 
-<sup>3</sup> Der Regierungsrat und die obersten kantonalen Gerichte regeln übereinstimmend die Voraussetzungen für die Rückforderung von Lohnleistungen in Fällen, in denen bei Auflösung des Arbeitsverhältnisses die gesamte Dauer der Abwesenheit wegen Militär-, Schutz- oder Zivildienst die gesamte Dauer der Tätigkeit im Dienst des Kantons[^112-2] überschreitet.
+<sup>3</sup> Der Regierungsrat und die obersten kantonalen Gerichte regeln übereinstimmend die Voraussetzungen für die Rückforderung von Lohnleistungen in Fällen, in denen bei Auflösung des Arbeitsverhältnisses die gesamte Dauer der Abwesenheit wegen Militär-, Schutz- oder Zivildienst die gesamte Dauer der Tätigkeit im Dienst des Kantons<sup>42</sup> überschreitet.
 
 [^112-1]: Fassung gemäss RRB vom 6. Dezember 2005 (OS 60, 520; ABl 2005, 1550). In Kraft seit 1. Januar 2006.
-[^112-2]: Fassung gemäss RRB vom 23. November 2016 (OS 72, 32; ABl 2016-12-09). In Kraft seit 1. März 2017. 1.10. 22 - 118 55
 
 #### § 113
 
@@ -1490,7 +1444,7 @@ Die Angestellten müssen bevorstehende Militär- und Schutz- und Zivildienstleis
 
 **35**
 
-1.10. 22 - 118
+- 1\. 1. 23 - 119
 
 ### VII. Arbeitszeit
 
@@ -1564,7 +1518,7 @@ Die Angestellten müssen bevorstehende Militär- und Schutz- und Zivildienstleis
 
 **37**
 
-1.10. 22 - 118
+- 1\. 1. 23 - 119
 
 <sup>2</sup> Ein diesen Umfang übersteigender negativer Arbeitszeitsaldo wird am Jahresende mit Überzeit oder Ferienguthaben verrechnet. Ein grösserer positiver Arbeitszeitsaldo verfällt grundsätzlich am Jahresende. Das Amt, Gericht oder Notariat kann den Übertrag bewilligen, wenn eine Kompensation innerhalb des Kalenderjahres aus dienstlichen oder triftigen persönlichen Gründen nicht möglich war.
 
@@ -1638,7 +1592,7 @@ Die Angestellten müssen bevorstehende Militär- und Schutz- und Zivildienstleis
 
 **39**
 
-1.10. 22 - 118
+- 1\. 1. 23 - 119
 
 <sup>3</sup> Die Zeitverwaltung erfolgt manuell oder unter Zuhilfenahme der bestehenden EDV-Infrastruktur.
 
@@ -1664,13 +1618,11 @@ Die Direktionen oder die von ihnen hiezu ermächtigten Ämter können, soweit be
 
 ### B. Nacht-, Sonntags-, Schicht- und Pikettdienst
 
-[^hBNachtSonntags-1]: Fassung gemäss RRB vom 10. Dezember 2014 (OS 69, 618; ABl 2014-12-19). In Kraft seit 1. Januar 2015.
-
 #### § 132
 
 **Vergütung für Nacht-, Sonntags- und Schichtdienst, Zeitgutschrift**
 
-<sup>1</sup> Für sich aus dem Arbeitsverhältnis ergebende Arbeitsleistungen in der Nacht zwischen 20.00 und 06.00 Uhr sowie an Samstagen und Sonntagen zwischen 06.00 und 20.00 Uhr wird eine Vergütung von Fr. 5.75 pro Stunde ausgerichtet.[^hBNachtSonntags-1]
+<sup>1</sup> Für sich aus dem Arbeitsverhältnis ergebende Arbeitsleistungen in der Nacht zwischen 20.00 und 06.00 Uhr sowie an Samstagen und Sonntagen zwischen 06.00 und 20.00 Uhr wird eine Vergütung von Fr. 5.75 pro Stunde ausgerichtet.<sup>38</sup>
 
 <sup>2</sup> Die Angestellten erhalten für einen Nachtdienst von mindestens acht Stunden zwischen 20.00 und 06.00 Uhr pro geleistete Stunde eine Zeitgutschrift von 20% zur Kompensation.
 
@@ -1686,30 +1638,27 @@ Die Direktionen oder die von ihnen hiezu ermächtigten Ämter können, soweit be
 
 <sup>2</sup> Pikettdienst ist entweder Präsenzzeit am Arbeitsort oder Bereitschaft ausserhalb desselben.
 
-<sup>3</sup> Pikettdienst gilt nicht als Arbeitszeit, wird jedoch mit Fr. 3.00 pro Stunde Präsenzdienst und mit Fr. 1.75 pro Stunde Bereitschaftsdienst vergütet. Dienstleistungen während der Pikettstellung gelten als angeordnete Überzeit, die auszugleichen oder zu vergüten ist.[^133-1]
+<sup>3</sup> Pikettdienst gilt nicht als Arbeitszeit, wird jedoch mit Fr. 3.00 pro Stunde Präsenzdienst und mit Fr. 1.75 pro Stunde Bereitschaftsdienst vergütet. Dienstleistungen während der Pikettstellung gelten als angeordnete Überzeit, die auszugleichen oder zu vergüten ist.<sup>38</sup>
 
 **Besondere Verhältnisse**
 
-§ 134. <sup>1</sup> Die Gesundheitsdirektion regelt für die Ober- und Spitalärztinnen und -ärzte sowie für ihre Angestellten, die dem eidgenössischen Arbeitsgesetz unterstellt sind, den Ausgleich und die Vergütung von Überzeit und von Nacht-, Sonntags-, Schicht- und Pikettdienst.[^133-2]
+§ 134. <sup>1</sup> Die Gesundheitsdirektion regelt für die Ober- und Spitalärztinnen und -ärzte sowie für ihre Angestellten, die dem eidgenössischen Arbeitsgesetz unterstellt sind, den Ausgleich und die Vergütung von Überzeit und von Nacht-, Sonntags-, Schicht- und Pikettdienst.[^133-1]
 
 <sup>2</sup> Die Direktionen können im Einvernehmen mit dem Personalamt für weitere besondere Arbeitsverhältnisse pauschale Vergütungen für Nacht-, Sonntags- und Schichtdienst sowie für Pikettdienst festlegen. Sie können bei besondern Verhältnissen die Dauer des Nachtdienstes bis längstens 08.00 Uhr verlängern.
 
 <sup>3</sup> Besondere Regelungen der Überzeit in andern Fällen bedürfen der Bewilligung der Direktion im Einvernehmen mit dem Personalamt oder der Bewilligung des zuständigen obersten kantonalen Gerichtes.
 
-[^133-1]: Fassung gemäss RRB vom 10. Dezember 2014 (OS 69, 618; ABl 2014-12-19). In Kraft seit 1. Januar 2015.
-[^133-2]: Fassung gemäss RRB vom 6. Dezember 2005 (OS 60, 520; ABl 2005, 1550). In Kraft seit 1. Januar 2006.
+[^133-1]: Fassung gemäss RRB vom 6. Dezember 2005 (OS 60, 520; ABl 2005, 1550). In Kraft seit 1. Januar 2006.
 
 ### VIII. Vollziehungsbestimmungen zu weiteren Rechten und Pflichten
 
 ### A. Rechte
 
-[^hARechte-1]: Fassung gemäss RRB vom 23. November 2016 (OS 72, 32; ABl 2016-12-09). In Kraft seit 1. März 2017. 1.10. 22 - 118 55
-
 #### § 135
 
 **Schutz und Verfahren bei sexueller Belästigung**
 
-<sup>1</sup> Der Kanton[^hARechte-1] sorgt durch geeignete präventive Massnahmen für den Schutz der Angestellten gegen sexuelle Belästigung und dafür, dass den Opfern sexueller Belästigungen keine weiteren Nachteile erwachsen.
+<sup>1</sup> Der Kanton<sup>42</sup> sorgt durch geeignete präventive Massnahmen für den Schutz der Angestellten gegen sexuelle Belästigung und dafür, dass den Opfern sexueller Belästigungen keine weiteren Nachteile erwachsen.
 
 <sup>2</sup> Das Personalamt steht den von sexueller Belästigung betroffenen Personen als Anlaufstelle beratend und unterstützend zur Verfügung. Es kann mit der betroffenen Person und anderen Beteiligten, namentlich mit Vorgesetzten, Gespräche führen. Die obersten kantonalen Gerichte bezeichnen entsprechende Anlaufstellen für ihren Bereich.
 
@@ -1725,7 +1674,7 @@ Die Direktionen oder die von ihnen hiezu ermächtigten Ämter können, soweit be
 
 **41**
 
-1.10. 22 - 118
+- 1\. 1. 23 - 119
 
 <sup>2</sup> Ziele der Mitarbeiterbeurteilung sind die Förderung des Personals sowie die Beurteilung der Leistungen und des Verhaltens.
 
@@ -1811,7 +1760,7 @@ Bestehen Zweifel, ob ein geringfügiges Höflichkeitsgeschenk die Unabhängigkei
 
 **43**
 
-1.10. 22 - 118
+- 1\. 1. 23 - 119
 
 <sup>3</sup> Arbeitszeit, die für eine überwiegend im dienstlichen Interesse ausgeübte Nebenbeschäftigung beansprucht wird, muss nicht ausgeglichen werden. Die Nebeneinkünfte sind mit Ausnahme von Spesenentschädigungen in einem angemessenen Verhältnis zur aufgewendeten Arbeitszeit an die Staatskasse abzuliefern, ausser wenn die Arbeitszeit ausgeglichen wird.
 
@@ -1835,7 +1784,7 @@ Bestehen Zweifel, ob ein geringfügiges Höflichkeitsgeschenk die Unabhängigkei
 
 **Vertrauensärztliche Untersuchung**
 
-§ 146.[^145-1] <sup>1</sup> Zuständig für die Einleitung von vertrauensärztlichen Untersuchungen sind die Direktionen, die obersten kantonalen Gerichte oder die von ihnen ermächtigten Amtsstellen. Die Gesundheitsdirektion kann diese Befugnis auf ihre Betriebe übertragen.
+§ 146.<sup>42</sup> <sup>1</sup> Zuständig für die Einleitung von vertrauensärztlichen Untersuchungen sind die Direktionen, die obersten kantonalen Gerichte oder die von ihnen ermächtigten Amtsstellen. Die Gesundheitsdirektion kann diese Befugnis auf ihre Betriebe übertragen.
 
 <sup>2</sup> Vorsorgerechtliche vertrauensärztliche Untersuchungen zur Prüfung einer Berufsinvalidität werden bei der Vorsorgeeinrichtung in Auftrag gegeben.
 
@@ -1849,12 +1798,11 @@ Bestehen Zweifel, ob ein geringfügiges Höflichkeitsgeschenk die Unabhängigkei
 
 **Erfindungen und Urheberrechte an Computerprogrammen**
 
-§ 147.[^145-2] <sup>1</sup> Machen Angestellte bei Ausübung ihrer dienstlichen Tätigkeit eine Erfindung oder wirken sie daran mit, so steht die Erfindung im Eigentum des Kantons. Bei Computerprogrammen liegt das ausschliessliche Verwendungsrecht beim Kanton. Die Direktion kann den Angestellten die Auswertung oder das Verwendungsrecht überlassen.
+§ 147.[^145-1] <sup>1</sup> Machen Angestellte bei Ausübung ihrer dienstlichen Tätigkeit eine Erfindung oder wirken sie daran mit, so steht die Erfindung im Eigentum des Kantons. Bei Computerprogrammen liegt das ausschliessliche Verwendungsrecht beim Kanton. Die Direktion kann den Angestellten die Auswertung oder das Verwendungsrecht überlassen.
 
 <sup>2</sup> Angestellte, denen die Auswertung einer Erfindung oder die Verwendung eines Computerprogramms von erheblicher wirtschaftlicher oder technischer Bedeutung nicht überlassen wird, haben Anspruch auf eine angemessene Vergütung. Das Obligationenrecht gilt sinngemäss.
 
-[^145-1]: Fassung gemäss RRB vom 23. November 2016 (OS 72, 32; ABl 2016-12-09). In Kraft seit 1. März 2017. 1.10. 22 - 118 55
-[^145-2]: Fassung gemäss RRB vom 6. Dezember 2005 (OS 60, 520; ABl 2005, 1550). In Kraft seit 1. Januar 2006.
+[^145-1]: Fassung gemäss RRB vom 6. Dezember 2005 (OS 60, 520; ABl 2005, 1550). In Kraft seit 1. Januar 2006.
 
 ### C. Mitsprache<sup>56</sup>
 
@@ -1882,7 +1830,7 @@ Bestehen Zweifel, ob ein geringfügiges Höflichkeitsgeschenk die Unabhängigkei
 
 **45**
 
-1.10. 22 - 118 § 147 c.<sup>56</sup> <sup>1</sup> Die ständigen Verhandlungspartner melden der Finanzdirektion unverzüglich:
+- 1\. 1. 23 - 119 § 147 c.<sup>56</sup> <sup>1</sup> Die ständigen Verhandlungspartner melden der Finanzdirektion unverzüglich:
 
 **c. Meldepflichten**
 
@@ -1950,19 +1898,19 @@ Bestehen Zweifel, ob ein geringfügiges Höflichkeitsgeschenk die Unabhängigkei
 
 **47**
 
-1.10. 22 - 118 c. koordiniert zusammen mit der Finanzverwaltung die Budgetierung und Rechnungslegung des Personalaufwandes und erstellt die Personal- und Lohnstatistik, d.[^149-1] ist zuständig für das zentrale Personalmanagement- und Lohnadministrationssystem sowie die zentrale Lohnverarbeitung, koordiniert die Tätigkeit der dezentralen Zahlstellen und erlässt die notwendigen Weisungen,
+- 1\. 1. 23 - 119
+
+- c. koordiniert zusammen mit der Finanzverwaltung die Budgetierung und Rechnungslegung des Personalaufwandes und erstellt die Personal- und Lohnstatistik, d.<sup>42</sup> ist zuständig für das zentrale Personalmanagement- und Lohnadministrationssystem sowie die zentrale Lohnverarbeitung, koordiniert die Tätigkeit der dezentralen Zahlstellen und erlässt die notwendigen Weisungen,
 
 - e. plant und entwickelt in Zusammenarbeit mit weiteren Fachstellen organisatorische, administrative und technische Hilfsmittel für die Personalführung,
 
-- f. begutachtet Fragen aus einzelnen Arbeitsverhältnissen und wird zum Mitbericht eingeladen in personalrechtlichen Rekursverfahren der Direktionen und vor dem Regierungsrat sowie in Beschwerde- und Klageverfahren vor Gericht, g.[^149-1] plant und organisiert die zentrale Aus- und Weiterbildung, führt die Schulungsmassnahmen durch und ist verantwortlich für die Ausbildung der kaufmännischen Lernenden und der Informatiklernenden der Zentral- und Bezirksverwaltung,
+- f. begutachtet Fragen aus einzelnen Arbeitsverhältnissen und wird zum Mitbericht eingeladen in personalrechtlichen Rekursverfahren der Direktionen und vor dem Regierungsrat sowie in Beschwerde- und Klageverfahren vor Gericht, g.<sup>42</sup> plant und organisiert die zentrale Aus- und Weiterbildung, führt die Schulungsmassnahmen durch und ist verantwortlich für die Ausbildung der kaufmännischen Lernenden und der Informatiklernenden der Zentral- und Bezirksverwaltung,
 
 - h. sorgt für die angemessene Information und Instruktion der Dienststellen und des Personals über personelle Angelegenheiten und leistet Öffentlichkeitsarbeit,
 
 - i. berät im Einvernehmen mit den beteiligten Direktionen die Ämter und das Personal in personellen Angelegenheiten sowie in Versetzungs- und Wiedereingliederungsfällen, plant und koordiniert die Personalbetreuung,
 
 - k. erledigt weitere ihm zugewiesene Aufgaben im Personalbereich.
-
-[^149-1]: Fassung gemäss RRB vom 23. November 2016 (OS 72, 32; ABl 2016-12-09). In Kraft seit 1. März 2017. 1.10. 22 - 118 55
 
 #### § 151
 
@@ -2010,9 +1958,7 @@ Der Regierungsrat regelt die Höchstarbeitszeit, die maximale Präsenzzeit sowie
 
 **Versicherungen**
 
-§ 154.[^153-1] Für die klinisch tätigen Assistenz-, Ober- sowie Spitalärztinnen und -ärzte bleiben besondere Regelungen der Finanzdirektion im Einvernehmen mit den zuständigen Direktionen hinsichtlich des Verhältnisses zur Vorsorgeeinrichtung vorbehalten.
-
-[^153-1]: Fassung gemäss RRB vom 23. November 2016 (OS 72, 32; ABl 2016-12-09). In Kraft seit 1. März 2017. 1.10. 22 - 118 55
+§ 154.<sup>42</sup> Für die klinisch tätigen Assistenz-, Ober- sowie Spitalärztinnen und -ärzte bleiben besondere Regelungen der Finanzdirektion im Einvernehmen mit den zuständigen Direktionen hinsichtlich des Verhältnisses zur Vorsorgeeinrichtung vorbehalten.
 
 ### B. Betriebsangestellte
 
@@ -2028,7 +1974,9 @@ Die zuständigen Direktionen legen mit Zustimmung der Finanzdirektion zusätzlic
 
 **49**
 
-1.10. 22 - 118 c. Arbeiten in Fäkalienwasser und in sehr schmutzigen Einrichtungen der Fernwärmeversorgung,
+- 1\. 1. 23 - 119
+
+- c. Arbeiten in Fäkalienwasser und in sehr schmutzigen Einrichtungen der Fernwärmeversorgung,
 
 - d. Arbeiten im Fernwärmekanal und in Seitenstollen,
 
@@ -2050,10 +1998,9 @@ Die zuständigen Direktionen legen mit Zustimmung der Finanzdirektion zusätzlic
 
 **Betriebsangestellte des Wäschereibetriebs der Strafanstalt**
 
-§ 158.[^156-2] Die zuständige Direktion regelt mit Zustimmung der Finanzdirektion die Vergütung für Angestellte, die vorübergehend an Arbeitsplätzen mit besonders schwerer oder schmutziger Arbeit oder solchen mit besonders starker Hitzeeinwirkung beschäftigt sind.
+§ 158.<sup>42</sup> Die zuständige Direktion regelt mit Zustimmung der Finanzdirektion die Vergütung für Angestellte, die vorübergehend an Arbeitsplätzen mit besonders schwerer oder schmutziger Arbeit oder solchen mit besonders starker Hitzeeinwirkung beschäftigt sind.
 
 [^156-1]: Fassung gemäss RRB vom 6. Dezember 2005 (OS 60, 520; ABl 2005, 1550). In Kraft seit 1. Januar 2006.
-[^156-2]: Fassung gemäss RRB vom 23. November 2016 (OS 72, 32; ABl 2016-12-09). In Kraft seit 1. März 2017. 1.10. 22 - 118 55
 
 #### § 159
 
@@ -2065,27 +2012,24 @@ Die zuständigen Direktionen legen mit Zustimmung der Finanzdirektion zusätzlic
 
 **Zulage als Gruppenführerin oder Gruppenführer**
 
-§ 160.[^159-1] Betriebsangestellten der Ämter der Baudirektion und der Volkswirtschaftsdirektion sowie des Wäschereibetriebs der Strafanstalt wird eine Zulage von Fr. 2.75 in der Stunde ausgerichtet, wenn sie vorübergehend als Vorarbeiterin oder Vorarbeiter einer Gruppe von in der Regel mindestens drei Mitarbeiterinnen oder Mitarbeitern tätig sind.
-
-[^159-1]: Fassung gemäss RRB vom 23. November 2016 (OS 72, 32; ABl 2016-12-09). In Kraft seit 1. März 2017. 1.10. 22 - 118 55
+§ 160.<sup>42</sup> Betriebsangestellten der Ämter der Baudirektion und der Volkswirtschaftsdirektion sowie des Wäschereibetriebs der Strafanstalt wird eine Zulage von Fr. 2.75 in der Stunde ausgerichtet, wenn sie vorübergehend als Vorarbeiterin oder Vorarbeiter einer Gruppe von in der Regel mindestens drei Mitarbeiterinnen oder Mitarbeitern tätig sind.
 
 ### C. Besondere Arbeitsverhältnisse
 
 **Wiederanstellung nach Erreichen der Altersgrenze**
 
-§ 160 a.[^hCBesondereArbeits-1] <sup>1</sup> Angestellte können nach Erreichen der Altersgrenze gemäss § 24 c des Personalgesetzes[^hCBesondereArbeits-2] für längstens ein Jahr befristet wiederangestellt werden, wenn die dienstlichen Verhältnisse es erfordern. In begründeten Fällen kann die befristete Anstellung jeweils um ein Jahr verlängert werden.
+§ 160 a.<sup>41</sup> <sup>1</sup> Angestellte können nach Erreichen der Altersgrenze gemäss § 24 c des Personalgesetzes[^hCBesondereArbeits-1] für längstens ein Jahr befristet wiederangestellt werden, wenn die dienstlichen Verhältnisse es erfordern. In begründeten Fällen kann die befristete Anstellung jeweils um ein Jahr verlängert werden.
 
 <sup>2</sup> Anstellung und Verlängerung bedürfen der Zustimmung der Direktion oder des zuständigen obersten kantonalen Gerichts.
 
-[^hCBesondereArbeits-1]: Eingefügt durch RRB vom 23. November 2016 (OS 72, 32; ABl 2016-12-09). In Kraft seit 1. März 2017.
-[^hCBesondereArbeits-2]: LS 177.10.
-[^hCBesondereArbeits-3]: Fassung gemäss RRB vom 24. Oktober 2007 (OS 62, 455; ABl 2007, 1984). In Kraft seit 1. April 2008.
+[^hCBesondereArbeits-1]: LS 177.10.
+[^hCBesondereArbeits-2]: Fassung gemäss RRB vom 24. Oktober 2007 (OS 62, 455; ABl 2007, 1984). In Kraft seit 1. April 2008.
 
 #### § 161
 
 **Aushilfen**
 
-<sup>1</sup> Aushilfen sind Angestellte, die ausserhalb des Stellenplans befristet für längstens zwölf Monate angestellt werden. Aushilfen als Ersatz für arbeitsunfähige Angestellte können bis längstens zwei Jahre angestellt werden.[^hCBesondereArbeits-3]
+<sup>1</sup> Aushilfen sind Angestellte, die ausserhalb des Stellenplans befristet für längstens zwölf Monate angestellt werden. Aushilfen als Ersatz für arbeitsunfähige Angestellte können bis längstens zwei Jahre angestellt werden.[^hCBesondereArbeits-2]
 
 <sup>2</sup> Die Direktionen, die obersten kantonalen Gerichte oder die von ihnen ermächtigten Amtsstellen können im Rahmen des Budgets Aushilfen anstellen.[^161-1]
 
@@ -2107,21 +2051,20 @@ Die zuständigen Direktionen legen mit Zustimmung der Finanzdirektion zusätzlic
 
 **Lernende**
 
-§ 163.[^162-1] <sup>1</sup> Lehrstellen nach der Bundesgesetzgebung über die Berufsbildung[^162-2] sowie solche für die Berufe der Gesundheitspflege werden mit dem Stellenplan festgesetzt.
+§ 163.<sup>42</sup> <sup>1</sup> Lehrstellen nach der Bundesgesetzgebung über die Berufsbildung[^162-1] sowie solche für die Berufe der Gesundheitspflege werden mit dem Stellenplan festgesetzt.
 
 <sup>2</sup> Die Löhne der Lernenden nach der Bundesgesetzgebung über die Berufsbildung werden von der Finanzdirektion und von den obersten kantonalen Gerichten im Einvernehmen mit der Finanzdirektion im Rahmen ortsüblicher Ansätze festgesetzt. Die Löhne der Lernenden der Berufe der Gesundheitspflege werden von der Gesundheitsdirektion im Einvernehmen mit der Finanzdirektion festgesetzt.
 
 **51**
 
-1.10. 22 - 118
+- 1\. 1. 23 - 119
 
 <sup>3</sup> Kaufmännische Lernende und Informatiklernende der Zentral- und Bezirksverwaltung werden vom Personalamt angestellt, andere Lernende nach Abs. 2 Satz 1 vom zuständigen Amt. Die Anstellung von Lernenden der Rechtspflege erfolgt durch die obersten kantonalen Gerichte, die Gerichte und die Notariate.
 
-<sup>4</sup> Der Lehrvertrag untersteht dem öffentlichen Recht, vorbehältlich der zwingenden Bestimmungen des Schweizerischen Obligationenrechts[^162-3].
+<sup>4</sup> Der Lehrvertrag untersteht dem öffentlichen Recht, vorbehältlich der zwingenden Bestimmungen des Schweizerischen Obligationenrechts[^162-2].
 
-[^162-1]: Fassung gemäss RRB vom 23. November 2016 (OS 72, 32; ABl 2016-12-09). In Kraft seit 1. März 2017. 1.10. 22 - 118 55
-[^162-2]: SR 412.10.
-[^162-3]: SR 220.
+[^162-1]: SR 412.10.
+[^162-2]: SR 220.
 
 ### XI. Übergangs- und Schlussbestimmungen
 
@@ -2151,13 +2094,11 @@ Soweit diese Verordnung nicht ausdrücklich etwas anderes bestimmt, gelten für 
 
 Bei der Erteilung jeder Bewilligung wird deren Gültigkeitsdauer bestimmt.
 
-[^166-1]: Fassung gemäss RRB vom 23. November 2016 (OS 72, 32; ABl 2016-12-09). In Kraft seit 1. März 2017. 1.10. 22 - 118 55
-
 #### § 167
 
 **Berechnung der Dienstjahre**
 
-Arbeitsverhältnisse, die bei der kantonalen[^166-1] Zentral- und Bezirksverwaltung, einschliesslich Universität und Fachhochschulen, den Gerichten und Notariaten vor dem Inkrafttreten dieser Verordnung Bestand hatten, werden ungeachtet des Beschäftigungsgrades für die Berechnung der Dienstjahre mit berücksichtigt.
+Arbeitsverhältnisse, die bei der kantonalen<sup>42</sup> Zentral- und Bezirksverwaltung, einschliesslich Universität und Fachhochschulen, den Gerichten und Notariaten vor dem Inkrafttreten dieser Verordnung Bestand hatten, werden ungeachtet des Beschäftigungsgrades für die Berechnung der Dienstjahre mit berücksichtigt.
 
 § 168.<sup>43</sup>
 
@@ -2213,7 +2154,7 @@ Der bezahlte Vaterschaftsurlaub gemäss § 96 a Abs. 1 gilt bei Geburt eines Kin
 
 **53**
 
-1.10. 22 - 118
+- 1\. 1. 23 - 119
 
 ### Übergangsbestimmungen zur Änderung vom 16. März 2022
 
@@ -2222,6 +2163,32 @@ Der bezahlte Vaterschaftsurlaub gemäss § 96 a Abs. 1 gilt bei Geburt eines Kin
 I. Bei Anstellungsverhältnissen, die vor Inkrafttreten der Änderung aufgelöst werden, beurteilt sich die Abfindung nach dem bisherigen Recht.
 
 II. Auf Kündigungsverfahren gemäss § 19 des Personalgesetzes, die vor Inkrafttreten der Änderung eingeleitet wurden, bleibt das bisherige Recht anwendbar.
+
+### Übergangsbestimmungen zur Änderung vom 31. August 2022
+
+(OS 77, 463)
+
+I. Das neue Recht gemäss § 96 a Abs. 1 lit. b gilt bei Geburt eines Kindes ab 1. Juli 2022.
+
+II. Wird bei Angestellten ein Kindesverhältnis innert sechs Monaten nach Inkrafttreten der Änderung begründet, bleibt § 96 a Abs. 3 in der vor dem Inkrafttreten der Änderung vom 31. August 2022 geltenden Fassung anwendbar.
+
+III. Auf Angestellte, die ein Kind sechs Monate nach Inkrafttreten der Änderung in ein Pflegeverhältnis aufnehmen, bleibt § 98 in der vor dem Inkrafttreten der Änderung vom 31. August 2022 geltenden Fassung anwendbar.
+
+<sup>35</sup> Fassung gemäss RRB vom 17. November 2010 (OS 65, 997; ABl 2010, 2610). In Kraft seit 1. Januar 2011.
+
+<sup>36</sup> Fassung gemäss RRB vom 14. September 2011 (OS 66, 814; ABl 2011, 2717). In Kraft seit 1. Dezember 2011.
+
+<sup>37</sup> Fassung gemäss RRB vom 2. November 2011 (OS 66, 978; ABl 2011, 3236). In Kraft seit 1. Januar 2012.
+
+<sup>38</sup> Fassung gemäss RRB vom 10. Dezember 2014 (OS 69, 618; ABl 2014-12-19). In Kraft seit 1. Januar 2015.
+
+<sup>39</sup> Fassung gemäss RRB vom 19. August 2015 (OS 70, 357; ABl 2015-08-28). In Kraft seit 1. Januar 2016.
+
+<sup>40</sup> Fassung gemäss RRB vom 7. Juni 2016 (OS 71, 369; ABl 2016-06-24). In Kraft seit 1. Januar 2017.
+
+<sup>41</sup> Eingefügt durch RRB vom 23. November 2016 (OS 72, 32; ABl 2016-12-09). In Kraft seit 1. März 2017.
+
+<sup>42</sup> Fassung gemäss RRB vom 23. November 2016 (OS 72, 32; ABl 2016-12-09). In Kraft seit 1. März 2017.
 
 <sup>43</sup> Aufgehoben durch RRB vom 23. November 2016 (OS 72, 32; ABl 2016-12- 09). In Kraft seit 1. März 2017.
 
@@ -2254,6 +2221,12 @@ II. Auf Kündigungsverfahren gemäss § 19 des Personalgesetzes, die vor Inkraft
 <sup>57</sup> Fassung gemäss RRB vom 25. November 2020 (OS 77, 141; ABl 2021-12-04). In Kraft seit 1. Juli 2022.
 
 <sup>58</sup> Fassung gemäss RRB vom 16. März 2022 (OS 77, 398; ABl 2022-03-25). In Kraft seit 1. Oktober 2022.
+
+<sup>59</sup> Fassung gemäss RRB vom 31. August 2022 (OS 77, 463; ABl 2022-09-09). In Kraft seit 1. Juli 2022.
+
+**57**
+
+- 1\. 1. 23 - 119
 
 ### Anhang 1: Einreihungsplan
 
@@ -2289,10 +2262,6 @@ Betriebsangestellte/r Büroangestellte/r Facharbeiter/in Hauswirtschaftliche/r A
 
 Betriebsangestellte/r Büroangestellte/r Facharbeiter/in Hauswirtschaftliche/r Angestellte/r Hilfskoch/-köchin Laborhilfe Magaziner/in Pflegehelfer/in Portier Sicherheitsangestellte/r Technische/r Angestellte/r Tierpflegergehilfe/-gehilfin Waldarbeiter/in
 
-**57**
-
-1.10. 22 - 118
-
 [^hKlasse6hKlasse5hK-1]: Fassung gemäss RRB vom 2. Dezember 2009 (OS 65, 1; ABl 2009, 2421). In Kraft seit 1. Juli 2010.
 
 ### Klasse 7
@@ -2302,13 +2271,16 @@ Betriebsangestellte/r Büroangestellte/r Facharbeiter/in Hauswirtschaftliche/r A
 Betriebsangestellte/r Facharbeiter/in Gerichtsangestellte/r Hauswirtschaftliche/r Angestellte/r Hilfskoch/-köchin Laborhilfe Landwirtschaftliche/r Angestellte/r Magaziner/in Notariatsangestellte/r Pflegehelfer/in Portier Sicherheitsangestellte/r Technische/r Angestellte/r Tierpflegergehilfe/-gehilfin Verwaltungsangestellte/r Waldarbeiter/in Weibel/in
 
 [^hKlasse7hKlasse6hK-1]: Fassung gemäss RRB vom 2. Dezember 2009 (OS 65, 1; ABl 2009, 2421). In Kraft seit 1. Juli 2010.
-[^hKlasse7hKlasse6hK-2]: Fassung gemäss RRB vom 14. September 2011 (OS 66, 814; ABl 2011, 2717). In Kraft seit 1. Dezember 2011.
 
-### Klasse 8,
+### Klasse 8, <sup>36</sup>
 
-[^hKlasse7hKlasse6hK-1][^hKlasse7hKlasse6hK-2]
+[^hKlasse7hKlasse6hK-1]
 
 Betriebsangestellte/r Chauffeur/Chauffeuse Datatypist/in Facharbeiter/in Gerichtsangestellte/r Hauswirtschaftliche/r Angestellte/r Hilfskoch/-köchin Laborhilfe Landwirtschaftliche/r Angestellte/r Magaziner/in Medizinisch-Technische/r Angestellte/r Pflegehelfer/in Portier Sicherheitsangestellte/r Strassenwärter/in Technische/r Angestellte/r Verwaltungsangestellte/r Waldarbeiter/in Weibel/in
+
+**59**
+
+- 1\. 1. 23 - 119
 
 [^hKlasse8hKlasse7hK-1]: Fassung gemäss RRB vom 2. Dezember 2009 (OS 65, 1; ABl 2009, 2421). In Kraft seit 1. Juli 2010.
 
@@ -2324,11 +2296,7 @@ Bibliothekar/in Chauffeur/Chauffeuse Dokumentalist/in Fachfrau/Fachmann Betreuun
 
 [^hKlasse9hKlasse8hK-1]
 
-Bibliothekar/in Chauffeur/Chauffeuse Dokumentalist/in Equipenchef/in Fachfrau/Fachmann Betreuung Fachfrau/-mann Gesundheit Fachfrau/-mann Information und Dokumentation Forstwart/in Gärtner/in Handwerker/in Hauswart/in Hauswirtschaftliche/r Equipenchef/in Informatiker/in
-
-**59**
-
-1.10. 22 - 118 Koch/Köchin Laborant/in Landwirtschaftliche/r Angestellte/r Magazinchef/in Medizinische/r Praxisassistent/in Medizinisch-Technische/r Assistent/in Notariatssekretär/in Pflegeassistent/in Portier mbA Sicherheitsangestellte/r Strassenwärter/in Technische/r Assistent/in Therapieassistent/in Tierpfleger/in Verwaltungssekretär/in Wasserbauarbeiter/in Weibel/in
+Bibliothekar/in Chauffeur/Chauffeuse Dokumentalist/in Equipenchef/in Fachfrau/Fachmann Betreuung Fachfrau/-mann Gesundheit Fachfrau/-mann Information und Dokumentation Forstwart/in Gärtner/in Handwerker/in Hauswart/in Hauswirtschaftliche/r Equipenchef/in Informatiker/in Koch/Köchin Laborant/in Landwirtschaftliche/r Angestellte/r Magazinchef/in Medizinische/r Praxisassistent/in Medizinisch-Technische/r Assistent/in Notariatssekretär/in Pflegeassistent/in Portier mbA Sicherheitsangestellte/r Strassenwärter/in Technische/r Assistent/in Therapieassistent/in Tierpfleger/in Verwaltungssekretär/in Wasserbauarbeiter/in Weibel/in
 
 [^hKlasse10hKlasse9h-1]: Fassung gemäss RRB vom 2. Dezember 2009 (OS 65, 1; ABl 2009, 2421). In Kraft seit 1. Juli 2010.
 
@@ -2336,7 +2304,11 @@ Bibliothekar/in Chauffeur/Chauffeuse Dokumentalist/in Equipenchef/in Fachfrau/Fa
 
 [^hKlasse10hKlasse9h-1]
 
-Bibliothekar/in Chauffeur/Chauffeuse mbA Dokumentalist/in Equipenchef/in Fachfrau/Fachmann Betreuung mbA Fachfrau/-mann Gesundheit mbA Fachfrau/-mann Information und Dokumentation Forstwart/in Gärtner/in Handwerker/in Hauswart/in Hauswirtschaftliche/r Equipenchef/in Informatiker/in Koch/Köchin Laborant/in Landwirtschaftliche/r Angestellte/r mbA Magazinchef/in Medizinische/r Praxisassistent/in mbA Medizinisch-Technische/r Assistent/in Notariatssekretär/in Personalassistent/in Portier mbA Strassenwärter/in mbA Technische/r Assistent/in Therapieassistent/in Tierpfleger/in Verwaltungssekretär/in Weibel/in
+Bibliothekar/in Chauffeur/Chauffeuse mbA Dokumentalist/in Equipenchef/in Fachfrau/Fachmann Betreuung mbA Fachfrau/-mann Gesundheit mbA Fachfrau/-mann Information und Dokumentation Forstwart/in Gärtner/in Handwerker/in Hauswart/in Hauswirtschaftliche/r Equipenchef/in Informatiker/in Koch/Köchin Laborant/in Landwirtschaftliche/r Angestellte/r mbA Magazinchef/in Medizinische/r Praxisassistent/in mbA Medizinisch-Technische/r Assistent/in Notariatssekretär/in Personalassistent/in Portier mbA Strassenwärter/in mbA Technische/r Assistent/in Therapieassistent/in
+
+**61**
+
+- 1\. 1. 23 - 119 Tierpfleger/in Verwaltungssekretär/in Weibel/in
 
 [^hKlasse11hKlasse10-1]: Fassung gemäss RRB vom 2. Dezember 2009 (OS 65, 1; ABl 2009, 2421). In Kraft seit 1. Juli 2010.
 
@@ -2352,11 +2324,7 @@ Aufseher/in Bibliothekar/in Chauffeur/Chauffeuse mbA Dokumentalist/in Equipenche
 
 [^hKlasse12hKlasse11-1]
 
-Abteilungstierpfleger/in Aspirant des Polizeikorps Aufseher/in Bibliothekar/in mbA
-
-**61**
-
-1.10. 22 - 118 Chauffeur/Chauffeuse mbA Diplomierte/r Pflegefachfrau/-mann Diplomniveau I Dokumentalist/in mbA Fachfrau/Fachmann Betreuung mbA Fachfrau/-mann Gesundheit mbA Forstwart/in mbA Gruppenchef/in Handwerkermeister/in Hausmeister/in Hauswirtschaftliche/r Betriebsleiter/in Informatiker/in mbA Koch/Köchin mbA Krankenpfleger/in FA SRK mbA Laborant/in Laborant/in mbA Landwirtschaftliche/r Angestellte/r mbA Magazinchef/in Medizinisch-Technische/r Assistent/in Medizinisch-Technische/r Assistent/in mbA Notariatssekretär/in mbA Obergärtner/in Personalassistent/in Personalfachverantwortliche/r Rechnungsführer/in Rettungssanitäter/in Spezialhandwerker/in Techniker/in Therapeut/in Verwaltungsassistent/in Verwaltungssekretär/in mbA Vorarbeiter/in
+Abteilungstierpfleger/in Aspirant des Polizeikorps Aufseher/in Bibliothekar/in mbA Chauffeur/Chauffeuse mbA Diplomierte/r Pflegefachfrau/-mann Diplomniveau I Dokumentalist/in mbA Fachfrau/Fachmann Betreuung mbA Fachfrau/-mann Gesundheit mbA Forstwart/in mbA Gruppenchef/in Handwerkermeister/in Hausmeister/in Hauswirtschaftliche/r Betriebsleiter/in Informatiker/in mbA Koch/Köchin mbA Krankenpfleger/in FA SRK mbA Laborant/in Laborant/in mbA Landwirtschaftliche/r Angestellte/r mbA Magazinchef/in Medizinisch-Technische/r Assistent/in Medizinisch-Technische/r Assistent/in mbA Notariatssekretär/in mbA Obergärtner/in Personalassistent/in Personalfachverantwortliche/r Rechnungsführer/in Rettungssanitäter/in Spezialhandwerker/in Techniker/in Therapeut/in Verwaltungsassistent/in Verwaltungssekretär/in mbA Vorarbeiter/in
 
 [^hKlasse13hKlasse12-1]: Fassung gemäss RRB vom 2. Dezember 2009 (OS 65, 1; ABl 2009, 2421). In Kraft seit 1. Juli 2010.
 
@@ -2364,155 +2332,134 @@ Abteilungstierpfleger/in Aspirant des Polizeikorps Aufseher/in Bibliothekar/in m
 
 [^hKlasse13hKlasse12-1]
 
-Abteilungstierpfleger/in Aktivierungsfachfrau/-mann HF Arbeitsagoge/-agogin Aufseher/in mbA Bewegungs- und Tanztherapeut/in HF Bibliothekar/in mbA Biomedizinische/r Analytiker/in HF Diplomierte/r Pflegefachfrau/-mann Diplomniveau I mbA Dokumentalist/in mbA Fachfrau/-mann für medizinisch-technische Radiologie HF Fachfrau/-mann Operationstechnik HF Förster/in HF Gefreiter des Polizeikorps Gruppenchef/in Handwerkermeister/in Hausmeister/in Hauswirtschaftliche/r Betriebsleiter/in Hebamme Informatiker/in mbA Instruktor/in des Zivilschutzes Koch/Köchin mbA Laborant/in mbA Landwirtschaftliche/r Betriebsleiter/in Leitende/r Medizinisch-Technische/r Assistent/in Leiter/in Labor Materialverwalter/in Medizinisch-Technische/r Assistent/in mbA Notariatssekretär/in mbA Obergärtner/in Orthoptist/in HF Personalfachverantwortliche/r Pflegefachfrau/-mann HF Polizeisoldat des Polizeikorps Rechnungsführer/in Revisionsassistent/in Sozialpädagoge/-pädagogin HF Spezialhandwerker/in Techniker/in Therapeut/in Therapeut/in mbA Verwaltungsassistent/in Verwaltungssekretär/in mbA Vorarbeiter/in
-
-[^hKlasse14hKlasse13-1]: Fassung gemäss RRB vom 2. Dezember 2009 (OS 65, 1; ABl 2009, 2421). In Kraft seit 1. Juli 2010.
-[^hKlasse14hKlasse13-2]: Fassung gemäss RRB vom 14. September 2011 (OS 66, 814; ABl 2011, 2717). In Kraft seit 1. Dezember 2011.
-
-### Klasse 15,, <sup>44,</sup> <sup>49</sup>
-
-[^hKlasse14hKlasse13-1][^hKlasse14hKlasse13-2]
-
-Aktivierungsfachfrau/-mann HF Arbeitsagoge/-agogin Aufseher/in mbA Ausbildner/in Betriebsleiter/in Bewegungs- und Tanztherapeut/in HF Bibliothekar/in mbA Biomedizinische/r Analytiker/in HF Dokumentalist/in mbA Fachfrau/-mann für medizinisch-technische Radiologie HF
+Abteilungstierpfleger/in Aktivierungsfachfrau/-mann HF Arbeitsagoge/-agogin Aufseher/in mbA Bewegungs- und Tanztherapeut/in HF Bibliothekar/in mbA Biomedizinische/r Analytiker/in HF Diplomierte/r Pflegefachfrau/-mann Diplomniveau I mbA Dokumentalist/in mbA Fachfrau/-mann für medizinisch-technische Radiologie HF Fachfrau/-mann Operationstechnik HF
 
 **63**
 
-1.10. 22 - 118 Fachfrau/-mann Operationstechnik HF Fischereiaufseher/in Förster/in HF Gruppenchef/in Handwerkermeister/in Hauswirtschaftliche/r Betriebsleiter/in Hebamme Hebamme mbA Informatiker/in mbA Instruktor/in des Zivilschutzes Koch/Köchin mbA Korporal des Polizeikorps Küchenchef/in Laborant/in mbA Landwirtschaftliche/r Betriebsleiter/in Leitende/r Medizinisch-Technische Assistent/in Leiter/in Labor Materialverwalter/in Medizinisch-Technische/r Assistent/in mbA Notariatsassistent/in Notariatssekretär/in mbA Oberaufseher/in Obergärtner/in Obertierpfleger/in Orthoptist/in HF Personalberater/in RAV Personalfachverantwortliche/r Pflegefachfrau/-mann HF Rechnungssekretär/in Revisionsassistent/in Sozialpädagoge/-pädagogin HF Techniker/in Therapeut/in mbA Verwaltungsassistent/in Verwaltungssekretär/in mbA
+- 1\. 1. 23 - 119 Förster/in HF Gefreiter des Polizeikorps Gruppenchef/in Handwerkermeister/in Hausmeister/in Hauswirtschaftliche/r Betriebsleiter/in Hebamme Informatiker/in mbA Instruktor/in des Zivilschutzes Koch/Köchin mbA Laborant/in mbA Landwirtschaftliche/r Betriebsleiter/in Leitende/r Medizinisch-Technische/r Assistent/in Leiter/in Labor Materialverwalter/in Medizinisch-Technische/r Assistent/in mbA Notariatssekretär/in mbA Obergärtner/in Orthoptist/in HF Personalfachverantwortliche/r Pflegefachfrau/-mann HF Polizeisoldat des Polizeikorps Rechnungsführer/in Revisionsassistent/in Sozialpädagoge/-pädagogin HF Spezialhandwerker/in Techniker/in Therapeut/in Therapeut/in mbA Verwaltungsassistent/in Verwaltungssekretär/in mbA Vorarbeiter/in
+
+[^hKlasse14hKlasse13-1]: Fassung gemäss RRB vom 2. Dezember 2009 (OS 65, 1; ABl 2009, 2421). In Kraft seit 1. Juli 2010.
+
+### Klasse 15, <sup>36,</sup> <sup>44,</sup> <sup>49</sup>
+
+[^hKlasse14hKlasse13-1]
+
+Aktivierungsfachfrau/-mann HF Arbeitsagoge/-agogin Aufseher/in mbA Ausbildner/in Betriebsleiter/in Bewegungs- und Tanztherapeut/in HF Bibliothekar/in mbA Biomedizinische/r Analytiker/in HF Dokumentalist/in mbA Fachfrau/-mann für medizinisch-technische Radiologie HF Fachfrau/-mann Operationstechnik HF Fischereiaufseher/in Förster/in HF Gruppenchef/in Handwerkermeister/in Hauswirtschaftliche/r Betriebsleiter/in Hebamme Hebamme mbA Informatiker/in mbA Instruktor/in des Zivilschutzes Koch/Köchin mbA Korporal des Polizeikorps Küchenchef/in Laborant/in mbA Landwirtschaftliche/r Betriebsleiter/in Leitende/r Medizinisch-Technische Assistent/in Leiter/in Labor Materialverwalter/in Medizinisch-Technische/r Assistent/in mbA Notariatsassistent/in Notariatssekretär/in mbA Oberaufseher/in Obergärtner/in Obertierpfleger/in Orthoptist/in HF Personalberater/in RAV Personalfachverantwortliche/r Pflegefachfrau/-mann HF Rechnungssekretär/in Revisionsassistent/in Sozialpädagoge/-pädagogin HF Techniker/in Therapeut/in mbA Verwaltungsassistent/in Verwaltungssekretär/in mbA
 
 [^hKlasse15hKlasse14-1]: Fassung gemäss RRB vom 2. Dezember 2009 (OS 65, 1; ABl 2009, 2421). In Kraft seit 1. Juli 2010.
-[^hKlasse15hKlasse14-2]: Fassung gemäss Berichtigung vom 12. März 2010 (OS 65, 155). In Kraft seit 1. Juli 2010.
-[^hKlasse15hKlasse14-3]: Fassung gemäss RRB vom 19. August 2015 (OS 70, 357; ABl 2015-08-28). In Kraft seit 1. Januar 2016.
+[^hKlasse15hKlasse14-2]: Fassung gemäss Berichtigung vom 12. März 2010 (OS 65, 155). In Kraft seit 1. Juli 2010. 1. 1. 23 - 119 55
 
-### Klasse 16,,, <sup>44,</sup> <sup>49</sup>
+### Klasse 16,, <sup>39,</sup> <sup>44,</sup> <sup>49</sup>
 
-[^hKlasse15hKlasse14-1][^hKlasse15hKlasse14-2][^hKlasse15hKlasse14-3]
+[^hKlasse15hKlasse14-1][^hKlasse15hKlasse14-2]
 
-Adjunkt/in Aktivierungsfachfrau/-mann HF mbA Architekt/in Assistenzstaatsanwalt/-anwältin Ausbildner/in Berufsberater/in Bewegungs- und Tanztherapeut/in HF mbA Biomedizinische/r Analytiker/in HF mbA Controller/in Ergotherapeut/in FH Ernährungsberater/in FH Fachfrau/-mann für medizinisch-technische Radiologie HF mbA Fachfrau/-mann Operationstechnik HF mbA Förster/in HF mbA Hauswirtschaftliche/r Betriebsleiter/in mbA Hebamme mbA Hebamme/Geburtshelfer FH Informatikspezialist/in Informations- und Dokumentationsspezialist/in Ingenieur/in Instruktor/in des Zivilschutzes Juristische/r Sekretär/in Küchenchef/in Laborant/in mbA Landwirtschaftliche/r Betriebsleiter/in Leitende/r Medizinisch-Technische Assistent/in Leiter/in Gebärabteilung Leiter/in Labor Materialverwalter/in Medizinisch-Technische/r Assistent/in mbA Notariatsassistent/in Notariatssekretär/in mbA Oberaufseher/in Obertierpfleger/in Organisator/in Orthoptist/in HF mbA Personalberater/in RAV Personalfachverantwortliche/r Pflegefachfrau/-mann HF mbA Pflegefachfrau/-mann HF mit Zusatzausbildung Pflegefachfrau/-mann FH Pflegeexperte/-in Physiotherapeut/in FH Psychologe/-login Rechnungssekretär/in Revisionsassistent/in Revisor/in Sektorleiter/in Sozialarbeiter/in Sozialpädagoge/-pädagogin FH Sozialpädagoge/-pädagogin HF mbA Steuerkommissär/in
+Adjunkt/in Aktivierungsfachfrau/-mann HF mbA Architekt/in Assistenzstaatsanwalt/-anwältin Ausbildner/in Berufsberater/in Bewegungs- und Tanztherapeut/in HF mbA
 
 **65**
 
-1.10. 22 - 118 Stv. Jugendanwalt/-anwältin Stv. Staatsanwalt/-anwältin Techniker/in Therapeut/in mbA Verwaltungsassistent/in Verwaltungssekretär/in mbA Wachtmeister des Polizeikorps Werkstattchef/in Wissenschaftliche/r Bibliothekar/in Wissenschaftliche/r Mitarbeiter/in
-
-[^hKlasse16hKlasse15-1]: Fassung gemäss RRB vom 2. Dezember 2009 (OS 65, 1; ABl 2009, 2421). In Kraft seit 1. Juli 2010.
-[^hKlasse16hKlasse15-2]: Fassung gemäss RRB vom 14. September 2011 (OS 66, 814; ABl 2011, 2717). In Kraft seit 1. Dezember 2011.
-[^hKlasse16hKlasse15-3]: Fassung gemäss RRB vom 19. August 2015 (OS 70, 357; ABl 2015-08-28). In Kraft seit 1. Januar 2016.
-
-### Klasse 17,,, <sup>44</sup>
-
-[^hKlasse16hKlasse15-1][^hKlasse16hKlasse15-2][^hKlasse16hKlasse15-3]
-
-Adjunkt/in Aktivierungsfachfrau/-mann HF mbA Architekt/in Assistent/in Assistenzstaatsanwalt/-anwältin Berufsberater/in Bewegungs- und Tanztherapeut/in HF mbA Controller/in Ergotherapeut/in FH mbA Ernährungsberater/in FH mbA Förster/in HF mbA Gefängnisverwalter/in Gerichtsschreiber/in an einem Bezirksgericht Hauswirtschaftliche/r Betriebsleiter/in mbA Hebamme/Geburtshelfer FH mbA Informatikspezialist/in Informations- und Dokumentationsspezialist/in Ingenieur/in Inspektor/in Instruktor/in des Zivilschutzes Juristische/r Sekretär/in Küchenchef/in Leitende/r Medizinisch-Technische/r Assistent/in Leiter/in Abteilung/Bereich Pflege Leiter/in Biomedizinische Analytik Leiter/in Gebärabteilung Leiter/in Labor Leiter/in medizinisch-technische Radiologie Leiter/in Operationstechnik Leiter/in Therapie Logopäde/-pädin Notariatsassistent/in Oberaufseher/in Organisator/in Orthoptist/in HF mbA Personalfachverantwortliche/r Pflegeexperte/-in Pflegefachfrau/-mann FH mbA Pflegefachfrau/-mann mit Zusatzausbildung mbA Physiotherapeut/in FH mbA Psychologe/-login Rechnungssekretär/in Revisor/in Sektorleiter/in Sozialarbeiter/in Sozialpädagoge/-pädagogin FH mbA Steuerkommissär/in Stv. Jugendanwalt/-anwältin Stv. Staatsanwalt/-anwältin Therapeut/in mbA Wachtmeister mbA des Polizeikorps Werkstattchef/in Wissenschaftliche/r Bibliothekar/in Wissenschaftliche/r Mitarbeiter/in
-
-[^hKlasse17hKlasse16-1]: Fassung gemäss RRB vom 2. Dezember 2009 (OS 65, 1; ABl 2009, 2421). In Kraft seit 1. Juli 2010.
-[^hKlasse17hKlasse16-2]: Fassung gemäss RRB vom 14. September 2011 (OS 66, 814; ABl 2011, 2717). In Kraft seit 1. Dezember 2011.
-[^hKlasse17hKlasse16-3]: Fassung gemäss RRB vom 19. August 2015 (OS 70, 357; ABl 2015-08-28). In Kraft seit 1. Januar 2016.
-
-### Klasse 18,,, <sup>44</sup>
-
-[^hKlasse17hKlasse16-1][^hKlasse17hKlasse16-2][^hKlasse17hKlasse16-3]
-
-Abteilungschef/in Adjunkt/in Architekt/in Assistent/in Assistenzstaatsanwalt/-anwältin Ausbildungsleiter/in Berufsberater/in Chefinstruktor/in des Zivilschutzes Controller/in Ergotherapeut/in FH mbA Ernährungsberater/in FH mbA Feldweibel des Polizeikorps Gefängnisverwalter/in Gerichtsschreiber/in an einem Bezirksgericht Hauswirtschaftliche/r Betriebsleiter/in mbA Informatikspezialist/in Informations- und Dokumentationsspezialist/in Ingenieur/in Inspektor/in Juristische/r Sekretär/in
-
 **67**
 
-1.10. 22 - 118 Küchenchef/in Leitende/r Medizinisch-Technische/r Assistent/in Leiter/in Abteilung/Bereich Pflege Leiter/in Biomedizinische Analytik Leiter/in Gebärabteilung Leiter/in Labor Leiter/in medizinisch-technische Radiologie Leiter/in Operationstechnik Leiter/in Therapie Logopäde/-pädin Notariatsassistent/in Notar/-Stellvertreter/in Organisator/in Personalbereichsleiter/in Pflegeexperte/-in Physiotherapeut/in FH mbA Psychologe/-login Rechnungssekretär/in Revisor/in Sanitätschef/in Sektorleiter/in Sozialarbeiter/in mbA Sozialpädagoge/-pädagogin FH mbA Steuerkommissär/in Stv. Jugendanwalt/-anwältin Stv. Staatsanwalt/-anwältin Werkstattchef/in Wissenschaftliche/r Bibliothekar/in Wissenschaftliche/r Mitarbeiter/in
+- 1\. 1. 23 - 119 Biomedizinische/r Analytiker/in HF mbA Controller/in Ergotherapeut/in FH Ernährungsberater/in FH Fachfrau/-mann für medizinisch-technische Radiologie HF mbA Fachfrau/-mann Operationstechnik HF mbA Förster/in HF mbA Hauswirtschaftliche/r Betriebsleiter/in mbA Hebamme mbA Hebamme/Geburtshelfer FH Informatikspezialist/in Informations- und Dokumentationsspezialist/in Ingenieur/in Instruktor/in des Zivilschutzes Juristische/r Sekretär/in Küchenchef/in Laborant/in mbA Landwirtschaftliche/r Betriebsleiter/in Leitende/r Medizinisch-Technische Assistent/in Leiter/in Gebärabteilung Leiter/in Labor Materialverwalter/in Medizinisch-Technische/r Assistent/in mbA Notariatsassistent/in Notariatssekretär/in mbA Oberaufseher/in Obertierpfleger/in Organisator/in Orthoptist/in HF mbA Personalberater/in RAV Personalfachverantwortliche/r Pflegefachfrau/-mann HF mbA Pflegefachfrau/-mann HF mit Zusatzausbildung Pflegefachfrau/-mann FH Pflegeexperte/-in Physiotherapeut/in FH Psychologe/-login Rechnungssekretär/in Revisionsassistent/in Revisor/in Sektorleiter/in Sozialarbeiter/in Sozialpädagoge/-pädagogin FH Sozialpädagoge/-pädagogin HF mbA Steuerkommissär/in Stv. Jugendanwalt/-anwältin Stv. Staatsanwalt/-anwältin Techniker/in Therapeut/in mbA Verwaltungsassistent/in Verwaltungssekretär/in mbA Wachtmeister des Polizeikorps Werkstattchef/in Wissenschaftliche/r Bibliothekar/in Wissenschaftliche/r Mitarbeiter/in
+
+[^hKlasse16hKlasse15-1]: Fassung gemäss RRB vom 2. Dezember 2009 (OS 65, 1; ABl 2009, 2421). In Kraft seit 1. Juli 2010.
+
+### Klasse 17, <sup>36,</sup> <sup>39,</sup> <sup>44</sup>
+
+[^hKlasse16hKlasse15-1]
+
+Adjunkt/in Aktivierungsfachfrau/-mann HF mbA Architekt/in Assistent/in Assistenzstaatsanwalt/-anwältin Berufsberater/in Bewegungs- und Tanztherapeut/in HF mbA Controller/in Ergotherapeut/in FH mbA Ernährungsberater/in FH mbA Förster/in HF mbA Gefängnisverwalter/in Gerichtsschreiber/in an einem Bezirksgericht Hauswirtschaftliche/r Betriebsleiter/in mbA Hebamme/Geburtshelfer FH mbA Informatikspezialist/in Informations- und Dokumentationsspezialist/in Ingenieur/in Inspektor/in Instruktor/in des Zivilschutzes Juristische/r Sekretär/in Küchenchef/in Leitende/r Medizinisch-Technische/r Assistent/in Leiter/in Abteilung/Bereich Pflege Leiter/in Biomedizinische Analytik Leiter/in Gebärabteilung Leiter/in Labor Leiter/in medizinisch-technische Radiologie Leiter/in Operationstechnik Leiter/in Therapie Logopäde/-pädin Notariatsassistent/in
+
+- 1\. 1. 23 - 119 Oberaufseher/in Organisator/in Orthoptist/in HF mbA Personalfachverantwortliche/r Pflegeexperte/-in Pflegefachfrau/-mann FH mbA Pflegefachfrau/-mann mit Zusatzausbildung mbA Physiotherapeut/in FH mbA Psychologe/-login Rechnungssekretär/in Revisor/in Sektorleiter/in Sozialarbeiter/in Sozialpädagoge/-pädagogin FH mbA Steuerkommissär/in Stv. Jugendanwalt/-anwältin Stv. Staatsanwalt/-anwältin Therapeut/in mbA Wachtmeister mbA des Polizeikorps Werkstattchef/in Wissenschaftliche/r Bibliothekar/in Wissenschaftliche/r Mitarbeiter/in
+
+[^hKlasse17hKlasse16-1]: Fassung gemäss RRB vom 2. Dezember 2009 (OS 65, 1; ABl 2009, 2421). In Kraft seit 1. Juli 2010.
+
+### Klasse 18, <sup>36,</sup> <sup>39,</sup> <sup>44</sup>
+
+[^hKlasse17hKlasse16-1]
+
+Abteilungschef/in Adjunkt/in Architekt/in Assistent/in Assistenzstaatsanwalt/-anwältin Ausbildungsleiter/in Berufsberater/in Chefinstruktor/in des Zivilschutzes Controller/in Ergotherapeut/in FH mbA Ernährungsberater/in FH mbA Feldweibel des Polizeikorps Gefängnisverwalter/in Gerichtsschreiber/in an einem Bezirksgericht Hauswirtschaftliche/r Betriebsleiter/in mbA Informatikspezialist/in Informations- und Dokumentationsspezialist/in Ingenieur/in Inspektor/in Juristische/r Sekretär/in Küchenchef/in Leitende/r Medizinisch-Technische/r Assistent/in Leiter/in Abteilung/Bereich Pflege Leiter/in Biomedizinische Analytik Leiter/in Gebärabteilung Leiter/in Labor Leiter/in medizinisch-technische Radiologie Leiter/in Operationstechnik Leiter/in Therapie Logopäde/-pädin Notariatsassistent/in Notar/-Stellvertreter/in Organisator/in Personalbereichsleiter/in Pflegeexperte/-in Physiotherapeut/in FH mbA Psychologe/-login Rechnungssekretär/in Revisor/in Sanitätschef/in Sektorleiter/in Sozialarbeiter/in mbA Sozialpädagoge/-pädagogin FH mbA Steuerkommissär/in Stv. Jugendanwalt/-anwältin Stv. Staatsanwalt/-anwältin Werkstattchef/in Wissenschaftliche/r Bibliothekar/in Wissenschaftliche/r Mitarbeiter/in
 
 [^hKlasse18hKlasse17-1]: Fassung gemäss RRB vom 2. Dezember 2009 (OS 65, 1; ABl 2009, 2421). In Kraft seit 1. Juli 2010.
-[^hKlasse18hKlasse17-2]: Fassung gemäss RRB vom 14. September 2011 (OS 66, 814; ABl 2011, 2717). In Kraft seit 1. Dezember 2011.
-[^hKlasse18hKlasse17-3]: Fassung gemäss RRB vom 19. August 2015 (OS 70, 357; ABl 2015-08-28). In Kraft seit 1. Januar 2016.
 
-### Klasse 19,,, <sup>44</sup>
+### Klasse 19, <sup>36,</sup> <sup>39,</sup> <sup>44</sup>
 
-[^hKlasse18hKlasse17-1][^hKlasse18hKlasse17-2][^hKlasse18hKlasse17-3]
+[^hKlasse18hKlasse17-1]
 
-Abteilungschef/in Adjunkt/in Architekt/in Assistenzarzt/-ärztin Assistenzstaatsanwalt/-anwältin Ausbildungsleiter/in Berufsberater/in mbA Chef/in des Rechnungswesens Chefinstruktor/in des Zivilschutzes Controller/in Feldweibel mbA des Polizeikorps Gefängnisverwalter/in Gerichtsschreiber/in an einem Bezirksgericht Gerichtsschreiber/in an einem obersten kantonalen Gericht Gerichtsschreiber/in an einem Rekursgericht Informatikspezialist/in Informations- und Dokumentationsspezialist/in Ingenieur/in Inspektor/in Juristische/r Sekretär/in Leitende/r Medizinisch-Technische/r Assistent/in Leiter/in Abteilung/Bereich Pflege Leiter/in Biomedizinische Analytik Leiter/in Gebärabteilung Leiter/in Labor Leiter/in medizinisch-technische Radiologie Leiter/in Operationstechnik Leiter/in Therapie Logopäde/-pädin Notar/-Stellvertreter/in Oberassistent/in Organisator/in Personalbereichsleiter/in Pflegewissenschafter/in Physiowissenschafter/in Psychologe/-login Revisor/in Sektorleiter/in Sozialarbeiter/in mbA Sozialpädagogin/Sozialpädagoge FH mbA Steuerkommissär/in Stv. Jugendanwalt/-anwältin Stv. Staatsanwalt/-anwältin Wissenschaftliche/r Bibliothekar/in Wissenschaftliche/r Mitarbeiter/in
-
-[^hKlasse19hKlasse18-1]: Fassung gemäss RRB vom 2. Dezember 2009 (OS 65, 1; ABl 2009, 2421). In Kraft seit 1. Juli 2010.
-[^hKlasse19hKlasse18-2]: Fassung gemäss RRB vom 14. September 2011 (OS 66, 814; ABl 2011, 2717). In Kraft seit 1. Dezember 2011.
-[^hKlasse19hKlasse18-3]: Fassung gemäss RRB vom 19. August 2015 (OS 70, 357; ABl 2015-08-28). In Kraft seit 1. Januar 2016.
-
-### Klasse 20,,, <sup>44</sup>
-
-[^hKlasse19hKlasse18-1][^hKlasse19hKlasse18-2][^hKlasse19hKlasse18-3]
-
-Abteilungschef/in Adjutant des Polizeikorps Adjunkt/in Architekt/in Assistenzarzt/-ärztin Assistenzstaatsanwalt/-anwältin Berufsberater/in mbA Bezirksratsschreiber/in Chef/in des Rechnungswesens Controller/in
+Abteilungschef/in Adjunkt/in Architekt/in Assistenzarzt/-ärztin Assistenzstaatsanwalt/-anwältin Ausbildungsleiter/in Berufsberater/in mbA Chef/in des Rechnungswesens Chefinstruktor/in des Zivilschutzes Controller/in Feldweibel mbA des Polizeikorps Gefängnisverwalter/in Gerichtsschreiber/in an einem Bezirksgericht
 
 **69**
 
-1.10. 22 - 118 Gerichtsschreiber/in an einem obersten kantonalen Gericht Gerichtsschreiber/in an einem Rekursgericht Habilitierte/r Oberassistent/in Informatik-Controller/in Informatikspezialist/in Informations- und Dokumentationsspezialist/in Ingenieur/in Juristische/r Sekretär/in Leitende/r Bezirksgerichtsschreiber/in Leitende/r Medizinisch-Technische/r Assistent/in Leiter/in Abteilung/Bereich Pflege Leiter/in biomedizinische Analytik Leiter/in des Pflegedienstes Leiter/in Gebärabteilung Leiter/in Labor Leiter/in medizinisch-technische Radiologie Leiter/in Therapie Notar/-Stellvertreter/in Oberassistent/in Organisator/in Personalbereichsleiter/in Pflegewissenschafter/in Physiowissenschafter/in Psychologe/-login Revisor/in Schulleiter/in Spitalarzt/-ärztin Steuerkommissär/in Stv. Jugendanwalt/-anwältin Stv. Staatsanwalt/-anwältin Wissenschaftliche/r Bibliothekar/in Wissenschaftliche/r Mitarbeiter/in
+- 1\. 1. 23 - 119 Gerichtsschreiber/in an einem obersten kantonalen Gericht Gerichtsschreiber/in an einem Rekursgericht Informatikspezialist/in Informations- und Dokumentationsspezialist/in Ingenieur/in Inspektor/in Juristische/r Sekretär/in Leitende/r Medizinisch-Technische/r Assistent/in Leiter/in Abteilung/Bereich Pflege Leiter/in Biomedizinische Analytik Leiter/in Gebärabteilung Leiter/in Labor Leiter/in medizinisch-technische Radiologie Leiter/in Operationstechnik Leiter/in Therapie Logopäde/-pädin Notar/-Stellvertreter/in Oberassistent/in Organisator/in Personalbereichsleiter/in Pflegewissenschafter/in Physiowissenschafter/in Psychologe/-login Revisor/in Sektorleiter/in Sozialarbeiter/in mbA Sozialpädagogin/Sozialpädagoge FH mbA Steuerkommissär/in Stv. Jugendanwalt/-anwältin Stv. Staatsanwalt/-anwältin Wissenschaftliche/r Bibliothekar/in Wissenschaftliche/r Mitarbeiter/in
+
+[^hKlasse19hKlasse18-1]: Fassung gemäss RRB vom 2. Dezember 2009 (OS 65, 1; ABl 2009, 2421). In Kraft seit 1. Juli 2010.
+
+### Klasse 20, <sup>36,</sup> <sup>39,</sup> <sup>44</sup>
+
+[^hKlasse19hKlasse18-1]
+
+Abteilungschef/in Adjutant des Polizeikorps Adjunkt/in Architekt/in Assistenzarzt/-ärztin Assistenzstaatsanwalt/-anwältin Berufsberater/in mbA Bezirksratsschreiber/in Chef/in des Rechnungswesens Controller/in Gerichtsschreiber/in an einem obersten kantonalen Gericht Gerichtsschreiber/in an einem Rekursgericht Habilitierte/r Oberassistent/in Informatik-Controller/in Informatikspezialist/in Informations- und Dokumentationsspezialist/in Ingenieur/in Juristische/r Sekretär/in Leitende/r Bezirksgerichtsschreiber/in Leitende/r Medizinisch-Technische/r Assistent/in Leiter/in Abteilung/Bereich Pflege Leiter/in biomedizinische Analytik Leiter/in des Pflegedienstes Leiter/in Gebärabteilung Leiter/in Labor Leiter/in medizinisch-technische Radiologie Leiter/in Therapie Notar/-Stellvertreter/in Oberassistent/in Organisator/in Personalbereichsleiter/in Pflegewissenschafter/in Physiowissenschafter/in Psychologe/-login Revisor/in Schulleiter/in Spitalarzt/-ärztin Steuerkommissär/in Stv. Jugendanwalt/-anwältin Stv. Staatsanwalt/-anwältin Wissenschaftliche/r Bibliothekar/in Wissenschaftliche/r Mitarbeiter/in
 
 [^hKlasse20hKlasse19-1]: Fassung gemäss RRB vom 2. Dezember 2009 (OS 65, 1; ABl 2009, 2421). In Kraft seit 1. Juli 2010.
-[^hKlasse20hKlasse19-2]: Fassung gemäss RRB vom 14. September 2011 (OS 66, 814; ABl 2011, 2717). In Kraft seit 1. Dezember 2011.
 
-### Klasse 21,, <sup>44</sup>
+### Klasse 21, <sup>36,</sup> <sup>44</sup>
 
-[^hKlasse20hKlasse19-1][^hKlasse20hKlasse19-2]
+[^hKlasse20hKlasse19-1]
 
-Abteilungschef/in Adjunkt/in mbA Architekt/in mbA Assistenzarzt/-ärztin Bezirksratsschreiber/in Chef/in des Rechnungswesens Controller/in mbA Gerichtsschreiber/in mbA an einem obersten kantonalen Gericht Gerichtsschreiber/in mbA an einem Rekursgericht Habilitierte/r Oberassistent/in Informatikspezialist/in mbA Informations- und Dokumentationsspezialist/in mbA Ingenieur/in mbA Juristische/r Sekretär/in mbA Kreisforstmeister/in Leitende/r Bezirksgerichtsschreiber/in Leitende/r Gerichtsschreiber/in Verwaltungsgericht Leitende/r Psychologe/-login Leiter/in Abteilung/Bereich Pflege Leiter/in Biomedizinische Analytik Leiter/in des Pflegedienstes Leiter/in Fachentwicklung Pflege Leiter/in Fachentwicklung Physiotherapie Leiter/in medizinisch-technische Radiologie Leiter/in Therapie Leutnant des Polizeikorps Notar/in-Stellvertreter/in Oberarzt/-ärztin Oberassistent/in Personalbereichsleiter/in Revisor/in mbA Spitalarzt/-ärztin Steuerkommissär/in mbA Wissenschaftliche/r Abteilungsleiter/in Wissenschaftliche/r Bibliothekar/in mbA Wissenschaftliche/r Mitarbeiter/in mbA
-
-[^hKlasse21hKlasse20-1]: Fassung gemäss RRB vom 2. Dezember 2009 (OS 65, 1; ABl 2009, 2421). In Kraft seit 1. Juli 2010.
-[^hKlasse21hKlasse20-2]: Fassung gemäss RRB vom 14. September 2011 (OS 66, 814; ABl 2011, 2717). In Kraft seit 1. Dezember 2011.
-
-### Klasse 22,, <sup>44</sup>
-
-[^hKlasse21hKlasse20-1][^hKlasse21hKlasse20-2]
-
-Abteilungschef/in Adjunkt/in mbA Architekt/in mbA Chef/in des Rechnungswesens Chef/in Zentrale Dienste/Logistik Controller/in mbA Gerichtsschreiber/in mbA an einem obersten kantonalen Gericht Gerichtsschreiber/in mbA an einem Rekursgericht Habilitierte/r Oberassistent/in Informatikspezialist/in mbA Informations- und Dokumentationsspezialist/in mbA Ingenieur/in mbA Juristische/r Sekretär/in mbA Kreisforstmeister/in Leitende/r Bezirksgerichtsschreiber/in Leitende/r Gerichtsschreiber/in Verwaltungsgericht
+Abteilungschef/in Adjunkt/in mbA Architekt/in mbA Assistenzarzt/-ärztin Bezirksratsschreiber/in Chef/in des Rechnungswesens Controller/in mbA Gerichtsschreiber/in mbA an einem obersten kantonalen Gericht Gerichtsschreiber/in mbA an einem Rekursgericht Habilitierte/r Oberassistent/in
 
 **71**
 
-1.10. 22 - 118 Leitende/r Psychologe/-login Leiter/in des Pflegedienstes Notar/in Notar/in-Stellvertreter/in Oberarzt/-ärztin Oberleutnant des Polizeikorps Revisor/in mbA Spitalarzt/-ärztin Stellvertreter/in des/der Betreibungsinspektors/-inspektorin Steuerkommissär/in mbA Wissenschaftliche/r Abteilungsleiter/in Wissenschaftliche/r Bibliothekar/in mbA Wissenschaftliche/r Mitarbeiter/in mbA
+- 1\. 1. 23 - 119 Informatikspezialist/in mbA Informations- und Dokumentationsspezialist/in mbA Ingenieur/in mbA Juristische/r Sekretär/in mbA Kreisforstmeister/in Leitende/r Bezirksgerichtsschreiber/in Leitende/r Gerichtsschreiber/in Verwaltungsgericht Leitende/r Psychologe/-login Leiter/in Abteilung/Bereich Pflege Leiter/in Biomedizinische Analytik Leiter/in des Pflegedienstes Leiter/in Fachentwicklung Pflege Leiter/in Fachentwicklung Physiotherapie Leiter/in medizinisch-technische Radiologie Leiter/in Therapie Leutnant des Polizeikorps Notar/in-Stellvertreter/in Oberarzt/-ärztin Oberassistent/in Personalbereichsleiter/in Revisor/in mbA Spitalarzt/-ärztin Steuerkommissär/in mbA Wissenschaftliche/r Abteilungsleiter/in Wissenschaftliche/r Bibliothekar/in mbA Wissenschaftliche/r Mitarbeiter/in mbA
+
+[^hKlasse21hKlasse20-1]: Fassung gemäss RRB vom 2. Dezember 2009 (OS 65, 1; ABl 2009, 2421). In Kraft seit 1. Juli 2010.
+
+### Klasse 22, <sup>36,</sup> <sup>44</sup>
+
+[^hKlasse21hKlasse20-1]
+
+Abteilungschef/in Adjunkt/in mbA Architekt/in mbA Chef/in des Rechnungswesens Chef/in Zentrale Dienste/Logistik Controller/in mbA Gerichtsschreiber/in mbA an einem obersten kantonalen Gericht Gerichtsschreiber/in mbA an einem Rekursgericht Habilitierte/r Oberassistent/in Informatikspezialist/in mbA Informations- und Dokumentationsspezialist/in mbA Ingenieur/in mbA Juristische/r Sekretär/in mbA Kreisforstmeister/in Leitende/r Bezirksgerichtsschreiber/in Leitende/r Gerichtsschreiber/in Verwaltungsgericht Leitende/r Psychologe/-login Leiter/in des Pflegedienstes Notar/in Notar/in-Stellvertreter/in Oberarzt/-ärztin Oberleutnant des Polizeikorps Revisor/in mbA Spitalarzt/-ärztin Stellvertreter/in des/der Betreibungsinspektors/-inspektorin Steuerkommissär/in mbA Wissenschaftliche/r Abteilungsleiter/in Wissenschaftliche/r Bibliothekar/in mbA Wissenschaftliche/r Mitarbeiter/in mbA
 
 [^hKlasse22hKlasse21-1]: Fassung gemäss RRB vom 2. Dezember 2009 (OS 65, 1; ABl 2009, 2421). In Kraft seit 1. Juli 2010.
-[^hKlasse22hKlasse21-2]: Fassung gemäss RRB vom 14. September 2011 (OS 66, 814; ABl 2011, 2717). In Kraft seit 1. Dezember 2011.
-[^hKlasse22hKlasse21-3]: Fassung gemäss RRB vom 19. August 2015 (OS 70, 357; ABl 2015-08-28). In Kraft seit 1. Januar 2016.
 
-### Klasse 23,,, <sup>44,</sup> <sup>49</sup>
+### Klasse 23, <sup>36,</sup> <sup>39,</sup> <sup>44,</sup> <sup>49</sup>
 
-[^hKlasse22hKlasse21-1][^hKlasse22hKlasse21-2][^hKlasse22hKlasse21-3]
+[^hKlasse22hKlasse21-1]
 
 Abteilungschef/in Adjunkt/in mbA Architekt/in mbA Betreibungsinspektor/in Chef/in des Rechnungswesens Controller/in mbA Gerichtsschreiber/in mbA an einem obersten kantonalen Gericht Informatikspezialist/in mbA Informations- und Dokumentationsspezialist/in mbA Ingenieur/in mbA Juristische/r Sekretär/in mbA Leitende/r Gerichtsschreiber/in an einem Rekursgericht Leitende/r Gerichtsschreiber/in Verwaltungsgericht Leitende/r Psychologe/-login Leiter/in des Pflegedienstes Notar/in Oberarzt/-ärztin Revisor/in mbA Statthalter/in Steuerkommissär/in mbA Wissenschaftliche/r Abteilungsleiter/in Wissenschaftliche/r Bibliothekar/in mbA Wissenschaftliche/r Mitarbeiter/in mbA
 
 [^hKlasse23hKlasse22-1]: Fassung gemäss RRB vom 2. Dezember 2009 (OS 65, 1; ABl 2009, 2421). In Kraft seit 1. Juli 2010.
-[^hKlasse23hKlasse22-2]: Fassung gemäss RRB vom 14. September 2011 (OS 66, 814; ABl 2011, 2717). In Kraft seit 1. Dezember 2011.
 
-### Klasse 24,
+### Klasse 24, <sup>36</sup>
 
-[^hKlasse23hKlasse22-1][^hKlasse23hKlasse22-2]
+[^hKlasse23hKlasse22-1]
 
-Amtschef/in Bezirksrichter/in Chef/in Fach- und Rechtsdienst Chefrevisor/in Chefsteuerkommissär/in Erste/r Leitende/r Gerichtsschreiber/in am Bezirksgericht Zürich Hauptabteilungschef/in Hauptmann des Polizeikorps Jugendanwalt/-anwältin Leitende/r Gerichtsschreiber/in am Handelsgericht Leitende/r Gerichtsschreiber/in am Obergericht Leiter/in des Pflegedienstes Notar/in Oberarzt/-ärztin Richter/in am Steuerrekursgericht Staatsanwalt/-anwältin Statthalter/in Stellvertretende/r Kanzleichef/in des Baurekursgerichts
+Amtschef/in Bezirksrichter/in Chef/in Fach- und Rechtsdienst Chefrevisor/in
+
+**73**
+
+- 1\. 1. 23 - 119 Chefsteuerkommissär/in Erste/r Leitende/r Gerichtsschreiber/in am Bezirksgericht Zürich Hauptabteilungschef/in Hauptmann des Polizeikorps Jugendanwalt/-anwältin Leitende/r Gerichtsschreiber/in am Handelsgericht Leitende/r Gerichtsschreiber/in am Obergericht Leiter/in des Pflegedienstes Notar/in Oberarzt/-ärztin Richter/in am Steuerrekursgericht Staatsanwalt/-anwältin Statthalter/in Stellvertretende/r Kanzleichef/in des Baurekursgerichts
 
 [^hKlasse24hKlasse23-1]: Fassung gemäss RRB vom 2. Dezember 2009 (OS 65, 1; ABl 2009, 2421). In Kraft seit 1. Juli 2010.
-[^hKlasse24hKlasse23-2]: Fassung gemäss RRB vom 14. September 2011 (OS 66, 814; ABl 2011, 2717). In Kraft seit 1. Dezember 2011.
-[^hKlasse24hKlasse23-3]: Fassung gemäss RRB vom 19. August 2015 (OS 70, 357; ABl 2015-08-28). In Kraft seit 1. Januar 2016.
 
-### Klasse 25,,, <sup>49</sup>
+### Klasse 25, <sup>36,</sup> <sup>39,</sup> <sup>49</sup>
 
-[^hKlasse24hKlasse23-1][^hKlasse24hKlasse23-2][^hKlasse24hKlasse23-3]
+[^hKlasse24hKlasse23-1]
 
 Amtschef/in Bezirksrichter/in Chefrevisor/in Chefsteuerkommissär/in Hauptabteilungschef/in Leitende/r Arzt/Ärztin Leitende/r Jugendanwalt/-anwältin Notariatsinspektor/in Oberarzt/-ärztin Richter/in am Steuerrekursgericht Staatsanwalt/-anwältin Staatsarchivar/in Stellvertretende/r Kanzleichef/in des Baurekursgerichts Stellvertreter/in des/der Generalsekretärs/-sekretärin Verwaltungsdirektor/in
 
 [^hKlasse25hKlasse24-1]: Fassung gemäss RRB vom 8. Dezember 2004 (OS 59, 451). In Kraft seit 1. Januar 2005.
-[^hKlasse25hKlasse24-2]: Fassung gemäss RRB vom 14. September 2011 (OS 66, 814; ABl 2011, 2717). In Kraft seit 1. Dezember 2011.
-[^hKlasse25hKlasse24-3]: Fassung gemäss RRB vom 19. August 2015 (OS 70, 357; ABl 2015-08-28). In Kraft seit 1. Januar 2016.
 
-### Klasse 26,,
+### Klasse 26, <sup>36,</sup> <sup>39</sup>
 
-[^hKlasse25hKlasse24-1][^hKlasse25hKlasse24-2][^hKlasse25hKlasse24-3]
+[^hKlasse25hKlasse24-1]
 
-Abteilungspräsident/in des Steuerrekursgerichts Amtschef/in Bezirksrichter/in Geschäftsleitende/r Notariatsinspektor/in Hauptabteilungschef/in Kanzleichef/in des Baurekursgerichts Leitende/r Arzt/Ärztin Leitende/r Staatsanwalt/-anwältin Major des Polizeikorps
-
-**73**
-
-1.10. 22 - 118 Oberjugendanwalt/-anwältin Sonderstaatsanwalt/-anwältin Stellvertreter/in des/der Generalsekretärs/-sekretärin Verwaltungsdirektor/in
+Abteilungspräsident/in des Steuerrekursgerichts Amtschef/in Bezirksrichter/in Geschäftsleitende/r Notariatsinspektor/in Hauptabteilungschef/in Kanzleichef/in des Baurekursgerichts Leitende/r Arzt/Ärztin Leitende/r Staatsanwalt/-anwältin Major des Polizeikorps Oberjugendanwalt/-anwältin Sonderstaatsanwalt/-anwältin Stellvertreter/in des/der Generalsekretärs/-sekretärin Verwaltungsdirektor/in
 
 [^hKlasse26hKlasse25-1]: Fassung gemäss RRB vom 8. Dezember 2004 (OS 59, 451). In Kraft seit 1. Januar 2005.
-[^hKlasse26hKlasse25-2]: Fassung gemäss RRB vom 14. September 2011 (OS 66, 814; ABl 2011, 2717). In Kraft seit 1. Dezember 2011.
-[^hKlasse26hKlasse25-3]: Fassung gemäss RRB vom 19. August 2015 (OS 70, 357; ABl 2015-08-28). In Kraft seit 1. Januar 2016.
 
-### Klasse 27,,
+### Klasse 27, <sup>36,</sup> <sup>39</sup>
 
-[^hKlasse26hKlasse25-1][^hKlasse26hKlasse25-2][^hKlasse26hKlasse25-3]
+[^hKlasse26hKlasse25-1]
 
 Amtschef/in Chefarzt/-ärztin Hauptabteilungschef/in Leitende/r Oberjugendanwalt/-anwältin Oberstaatsanwalt/-anwältin Präsident/in eines Bezirksgerichts Präsident/in des Steuerrekursgerichts Stellvertreter/in des/der Staatsschreibers/-schreiberin Verwaltungsdirektor/in
 
@@ -2526,9 +2473,15 @@ Amtschef/in Chefarzt/-ärztin Generalsekretär/in Oberstleutnant des Polizeikorp
 
 [^hKlasse28-1]
 
+Chef/in des Steueramtes Kommandant/in (Oberst) des Polizeikorps Leitende/r Oberstaatsanwalt/-anwältin Staatsschreiber/in
+
 **75**
 
-Chef/in des Steueramtes Kommandant/in (Oberst) des Polizeikorps Leitende/r Oberstaatsanwalt/-anwältin Staatsschreiber/in 1.10. 22 - 118
+- 1\. 1. 23 - 119
+
+**77**
+
+- 1\. 1. 23 - 119
 
 ## Weitere Fussnoten
 
@@ -2537,8 +2490,8 @@ Chef/in des Steueramtes Kommandant/in (Oberst) des Polizeikorps Leitende/r Obers
 - [7] LS 432.111; heute: LS 170.61.
 - [12] Fassung gemäss RRB vom 16. Mai 2001 (OS 56, 607). In Kraft seit 1. Juli 2001.
 - [13] Fassung gemäss RRB vom 24. Juli 2002 (OS 57, 271). In Kraft seit 1. September 2002.
+- [22] Fassung gemäss RRB vom 29. November 2006 (OS 61, 483; ABl 2006, 1696). In Kraft seit 1. Januar 2007.
 - [23] Eingefügt durch RRB vom 24. Oktober 2007 (OS 62, 455; ABl 2007, 1984). In Kraft seit 1. April 2008.
 - [26] Fassung gemäss RRB vom 4. Juni 2008 (OS 63, 341; ABl 2008, 905). In Kraft seit 1. Juli 2008.
+- [27] Fassung gemäss RRB vom 4. Juni 2008 (OS 63, 344; ABl 2008, 913). In Kraft seit 1. Juli 2008.
 - [29] Fassung gemäss RRB vom 3. Dezember 2008 (OS 63, 665; ABl 2008, 2285). In Kraft seit 1. Januar 2009.
-- [35] Fassung gemäss RRB vom 17. November 2010 (OS 65, 997; ABl 2010, 2610). In Kraft seit 1. Januar 2011.
-- [37] Fassung gemäss RRB vom 2. November 2011 (OS 66, 978; ABl 2011, 3236). In Kraft seit 1. Januar 2012.
