@@ -5,10 +5,10 @@ title: Mittel- und Berufsschullehrpersonenvollzugsverordnung (MBVVO)
 short: MBVVO
 language: de
 version: "2022-10-01"
-nachtrag: "118"
-valid_until: 2022-10-26
+nachtrag: "119"
+valid_until: 2024-01-26
 adopted: 1999-05-26
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-413_112-1999_05_26-1999_08_23-118.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-413_112-1999_05_26-1999_08_23-119.html"
 text: pdf
 ---
 
@@ -85,7 +85,7 @@ Der Altersrücktritt erfolgt auf Ende eines Semesters.
 
 **1**
 
-1.10. 22 - 118
+- 1\. 1. 23 - 119
 
 ### III. Lohn
 
@@ -103,7 +103,7 @@ Der Altersrücktritt erfolgt auf Ende eines Semesters.
 
 Praktika an den Schulen zur Erlangung des Diploms für das Höhere Lehramt werden nicht vergütet.
 
-[^10-1]: Fassung gemäss RRB vom 26. Oktober 2016 (OS 71, 479; ABl 2016-11-04). In Kraft seit 1. Januar 2017. 1.10. 22 - 118 7
+[^10-1]: Fassung gemäss RRB vom 26. Oktober 2016 (OS 71, 479; ABl 2016-11-04). In Kraft seit 1. Januar 2017. 1. 1. 23 - 119 7
 
 #### § 11
 
@@ -171,7 +171,7 @@ Normal- Kurzlektion lektion a.[^14-1] an Mittelschulen:
 
 **3**
 
-1.10. 22 - 118 § 16. <sup>1</sup> Das Schuljahr umfasst 39 Wochen Unterricht. Die Lehrpersonen sind verpflichtet, ihre Ferien in der unterrichtsfreien Zeit zu beziehen. Die §§ 79–83 der VVO[^14-2],[^14-3] sind nicht anwendbar.
+- 1\. 1. 23 - 119 § 16. <sup>1</sup> Das Schuljahr umfasst 39 Wochen Unterricht. Die Lehrpersonen sind verpflichtet, ihre Ferien in der unterrichtsfreien Zeit zu beziehen. Die §§ 79–83 der VVO[^14-2],[^14-3] sind nicht anwendbar.
 
 **Unterricht und Ferien**
 
@@ -243,15 +243,15 @@ Für Stellvertretung kann jede unbefristet angestellte Lehrperson in Anspruch ge
 
 Die gemäss §§ 85–90 der VVO[^21-1],[^21-3] vorgesehenen Urlaube können nicht kompensiert werden, falls sie nicht in die Unterrichtszeit fallen.
 
-**Vaterschaftsurlaub**
+**Urlaub des anderen Elternteils**
 
-§ 22 a.[^22-1] Lehrpersonen müssen den bezahlten Vaterschaftsurlaub gemäss § 96 a VVO[^22-2] wochenweise beziehen.
+§ 22 a.[^22-1] Lehrpersonen müssen den bezahlten Urlaub gemäss § 96 a VVO[^22-2] wochenweise beziehen.
 
 **Tätigkeit an andern Schulen und Institutionen**
 
 § 23.[^22-3] Das Mittelschul- und Berufsbildungsamt kann für Tätigkeiten von Lehrpersonen an anderen öffentlichen Schulen sowie kantonalen oder eidgenössischen Institutionen und Konferenzen Entlastungen bewilligen.
 
-[^22-1]: Eingefügt durch RRB vom 31. März 2021 (OS 76, 168; ABl 2021-04-09). In Kraft seit 1. Januar 2021.
+[^22-1]: Fassung gemäss RRB vom 31. August 2022 (OS 77, 467; ABl 2022-09-09). In Kraft seit 1. Juli 2022.
 [^22-2]: LS 177.111.
 [^22-3]: Fassung gemäss RRB vom 9. Mai 2012 (OS 67, 225; ABl 2012, 1053). In Kraft seit 1. August 2012.
 
@@ -284,7 +284,7 @@ Die Schulleitungen bewilligen die dienstlichen Reisen von Lehrpersonen ins Ausla
 
 **5**
 
-1.10. 22 - 118
+- 1\. 1. 23 - 119
 
 ### VI. Schulleitungen
 
@@ -361,3 +361,4 @@ Auf Rückstufungen, die vor Inkrafttreten der Änderung eingeleitet wurden, blei
 ## Weitere Fussnoten
 
 - [3] LS 177.11.
+- [19] Eingefügt durch RRB vom 31. März 2021 (OS 76, 168; ABl 2021-04-09). In Kraft seit 1. Januar 2021.
