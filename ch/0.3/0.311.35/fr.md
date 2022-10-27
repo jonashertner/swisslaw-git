@@ -3,11 +3,11 @@ sr: "0.311.35"
 title: "Convention du Conseil de l'Europe du 11 mai 2011 sur la prévention et la lutte contre la violence à l'égard des femmes et la violence domestique (Convention d'Istanbul) (avec annexe)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/168"
 language: fr
-version: 2019-06-06
+version: 2022-10-28
 adopted: 2011-05-11
 in_force: 2018-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/168/20190606/fr/xml/fedlex-data-admin-ch-eli-cc-2018-168-20190606-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/168/20190606/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/168/20221028/fr/xml/fedlex-data-admin-ch-eli-cc-2018-168-20221028-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/168/20221028/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -28,15 +28,15 @@ Instrument de ratification déposé par la Suisse le 14 décembre 2017
 
 Entrée en vigueur pour la Suisse le 1<sup>er</sup> avril 2018
 
-(Etat le 6 juin 2019)
+(État le 28 octobre 2022)
 
 [^t-1]: [RO 2018 1117](https://fedlex.data.admin.ch/eli/oc/2018/167)
 
 *Préambule*
 
-Les Etats membres du Conseil de l’Europe et les autres signataires de la présente Convention,
+Les États membres du Conseil de l’Europe et les autres signataires de la présente Convention,
 
-rappelant la Convention de sauvegarde des droits de l’homme et des libertés fondamentales[^ingress-1] <sup>(STE n</sup><sup>o</sup> <sup>5, 1950) et ses Protocoles, la Charte sociale europée</sup><sup>n</sup><sup>ne (STE n</sup><sup>o</sup> <sup>35, 1961, révisée en</sup> 1996, STE <sup>n</sup><sup>o</sup> 163), la Convention du Conseil de l’Europe sur la lutte contre la traite des êtres humains[^ingress-2] (STCE <sup>n</sup><sup>o</sup> 197, 2005) et la Convention du Conseil de l’Europe sur la protection des enfants contre l’exploitation et les abus sexuels[^ingress-3] (STCE <sup>n</sup><sup>o</sup> 201, 2007),
+rappelant la Convention de sauvegarde des droits de l’homme et des libertés fondamentales[^ingress-1] <sup>(STE n</sup><sup>o</sup> <sup>5, 1950) et ses Protocoles, la Charte sociale européenne (STE n</sup><sup>o</sup> <sup>35, 1961, révisée en</sup> 1996, STE <sup>n</sup><sup>o</sup> 163), la Convention du Conseil de l’Europe sur la lutte contre la traite des êtres humains[^ingress-2] (STCE <sup>n</sup><sup>o</sup> 197, 2005) et la Convention du Conseil de l’Europe sur la protection des enfants contre l’exploitation et les abus sexuels[^ingress-3] (STCE <sup>n</sup><sup>o</sup> 201, 2007),
 
 rappelant les recommandations suivantes du Comité des Ministres aux Etats membres du Conseil de l’Europe: la Recommandation Rec(2002)5 sur la protection des femmes contre la violence, la Recommandation CM/Rec(2007)17 sur les normes et mécanismes d’égalité entre les femmes et les hommes, la Recommandation CM/Rec(2010)10 sur le rôle des femmes et des hommes dans la prévention et la résolution des conflits et la consolidation de la paix, et les autres recommandations pertinentes,
 
@@ -969,19 +969,19 @@ Annexe
 
 \6. Les privilèges et immunités sont accordés aux personnes mentionnées au par. 1 de la présente annexe, non pour leur bénéfice personnel, mais dans le but d’assurer en toute indépendance l’exercice de leurs fonctions dans l’intérêt du GREVIO. La levée des immunités accordées aux personnes mentionnées au par. 1 de la présente annexe est effectuée par le Secrétaire Général du Conseil de l’Europe, dans tous les cas où, à son avis, l’immunité empêcherait que justice soit faite et où l’immunité peut être levée sans nuire aux intérêts du GREVIO.
 
-Champ d’application le 6 juin 2019**[^t-2]**
+Champ d’application le 28 octobre 2022[^t-2]
 
 <table>
-<tr><th>Etats parties</th><th>Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Albanie</td><td>4 février</td><td>2013</td><td>1<sup>er</sup> août</td><td>2014</td></tr>
 <tr><td>Allemagne\*</td><td>12 octobre</td><td>2017</td><td>1<sup>er</sup> février</td><td>2018</td></tr>
 <tr><td>Andorre\*</td><td>22 avril</td><td>2014</td><td>1<sup>er</sup> août</td><td>2014</td></tr>
-<tr><td>Autriche\* \*\*</td><td>14 novembre</td><td>2013</td><td>1<sup>er</sup> août</td><td>2014</td></tr>
+<tr><td>Autriche<sup>\*\*</sup></td><td>14 novembre</td><td>2013</td><td>1<sup>er</sup> août</td><td>2014</td></tr>
 <tr><td>Belgique\*</td><td>14 mars</td><td>2016</td><td>1<sup>er</sup> juillet</td><td>2016</td></tr>
 <tr><td>Bosnie et Herzégovine</td><td>7 novembre</td><td>2013</td><td>1<sup>er</sup> août</td><td>2014</td></tr>
 <tr><td>Chypre\*</td><td>10 novembre</td><td>2017</td><td>1<sup>er</sup> mars</td><td>2018</td></tr>
 <tr><td>Croatie\*</td><td>12 juin</td><td>2018</td><td>1<sup>er</sup> octobre</td><td>2018</td></tr>
-<tr><td>Danemark\*</td><td>23 avril</td><td>2014</td><td>1<sup>er</sup> août</td><td>2014</td></tr>
+<tr><td>Danemark<sup>\*</sup> <sup>a</sup></td><td>23 avril</td><td>2014</td><td>1<sup>er</sup> août</td><td>2014</td></tr>
 <tr><td>Espagne\*</td><td>10 avril</td><td>2014</td><td>1<sup>er</sup> août</td><td>2014</td></tr>
 <tr><td>Estonie\*</td><td>26 octobre</td><td>2017</td><td>1<sup>er</sup> février</td><td>2018</td></tr>
 <tr><td>Finlande\* \*\*</td><td>17 avril</td><td>2015</td><td>1<sup>er</sup> août</td><td>2015</td></tr>
@@ -991,26 +991,29 @@ Champ d’application le 6 juin 2019**[^t-2]**
 <tr><td>Irlande\*</td><td>8 mars</td><td>2019</td><td>1<sup>er</sup> juillet</td><td>2019</td></tr>
 <tr><td>Islande</td><td>26 avril</td><td>2018</td><td>1<sup>er</sup> août</td><td>2018</td></tr>
 <tr><td>Italie</td><td>10 septembre</td><td>2013</td><td>1<sup>er</sup> août</td><td>2014</td></tr>
+<tr><td>Liechtenstein<sup>\*</sup></td><td>17 juin</td><td>2021</td><td>1<sup>er</sup> octobre</td><td>2021</td></tr>
 <tr><td>Luxembourg</td><td>7 août</td><td>2018</td><td>1<sup>er</sup> décembre</td><td>2018</td></tr>
 <tr><td>Macédoine du Nord\*</td><td>23 mars</td><td>2018</td><td>1<sup>er</sup> juillet</td><td>2018</td></tr>
 <tr><td>Malte\*</td><td>29 juillet</td><td>2014</td><td>1<sup>er</sup> novembre</td><td>2014</td></tr>
+<tr><td>Moldova<sup>\*</sup></td><td>31 janvier</td><td>2022</td><td>1<sup>er</sup> mai</td><td>2022</td></tr>
 <tr><td>Monaco\*</td><td>7 octobre</td><td>2014</td><td>1<sup>er</sup> février</td><td>2015</td></tr>
 <tr><td>Monténégro</td><td>22 avril</td><td>2013</td><td>1<sup>er</sup> août</td><td>2014</td></tr>
 <tr><td>Norvège\*\*</td><td>5 juillet</td><td>2017</td><td>1<sup>er</sup> novembre</td><td>2017</td></tr>
-<tr><td>Pays-Bas\* \*\*</td><td>18 novembre</td><td>2015</td><td>1<sup>er</sup> mars</td><td>2016</td></tr>
+<tr><td>Pays-Bas<sup>\*\*</sup> <sup>b</sup></td><td>18 novembre</td><td>2015</td><td>1<sup>er</sup> mars</td><td>2016</td></tr>
 <tr><td>Pologne\*</td><td>27 avril</td><td>2015</td><td>1<sup>er</sup> août</td><td>2015</td></tr>
 <tr><td>Portugal</td><td>5 février</td><td>2013</td><td>1<sup>er</sup> août</td><td>2014</td></tr>
 <tr><td>Roumanie\*</td><td>23 mai</td><td>2016</td><td>1<sup>er</sup> septembre</td><td>2016</td></tr>
+<tr><td>Royaume-Uni<sup>\*</sup></td><td>21 juillet</td><td>2022</td><td>1<sup>er</sup> novembre</td><td>2022</td></tr>
 <tr><td>Saint-Marin</td><td>28 janvier</td><td>2016</td><td>1<sup>er</sup> mai</td><td>2016</td></tr>
 <tr><td>Serbie\*</td><td>21 novembre</td><td>2013</td><td>1<sup>er</sup> août</td><td>2014</td></tr>
 <tr><td>Slovénie\*</td><td>5 février</td><td>2015</td><td>1<sup>er</sup> juin</td><td>2015</td></tr>
 <tr><td>Suisse\* \*\*</td><td>14 décembre</td><td>2017</td><td>1<sup>er</sup> avril</td><td>2018</td></tr>
 <tr><td>Suède\* \*\*</td><td>1<sup>er</sup> juillet</td><td>2014</td><td>1<sup>er</sup> novembre</td><td>2014</td></tr>
-<tr><td>Turquie</td><td>14 mars</td><td>2012</td><td>1<sup>er</sup> août</td><td>2014</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO, à l’exception des réserves et déclarations de la Suisse. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet du Conseil de l’Europe: www.coe.int &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td>Ukraine<sup>\*</sup></td><td>18 juillet</td><td>2022</td><td>1<sup>er</sup> novembre</td><td>2022</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO, à l’exception des réserves et déclarations de la Suisse. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet du Conseil de l’Europe: www.coe.int &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La Convention ne s’applique pas au Îles Féroé et au Groenland. <sup>b</sup> La Convention s’applique pour la partie européenne des Pays-Bas.</td></tr>
 </table>
 
-[^t-2]: [RO 2019 1833](https://fedlex.data.admin.ch/eli/oc/2019/343).Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 2018 1119](https://fedlex.data.admin.ch/eli/oc/2018/168); [2019 1833](https://fedlex.data.admin.ch/eli/oc/2019/343); [2022 639](https://fedlex.data.admin.ch/eli/oc/2022/639).Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [https://www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
 
 Déclarations
 

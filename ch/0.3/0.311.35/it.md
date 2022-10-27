@@ -3,11 +3,11 @@ sr: "0.311.35"
 title: "Convenzione del Consiglio d'Europa dell' 11 maggio 2011 sulla prevenzione e la lotta contro la violenza nei confronti delle donne e la violenza domestica (Convenzione di Istanbul) (con allegato)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/168"
 language: it
-version: 2019-06-06
+version: 2022-10-28
 adopted: 2011-05-11
 in_force: 2018-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/168/20190606/it/xml/fedlex-data-admin-ch-eli-cc-2018-168-20190606-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/168/20190606/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/168/20221028/it/xml/fedlex-data-admin-ch-eli-cc-2018-168-20221028-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/168/20221028/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -28,7 +28,7 @@ Strumento di ratifica depositato dalla Svizzera il 14 dicembre 2017
 
 Entrata in vigore per la Svizzera il 1° aprile 2018
 
-(Stato 6 giugno 2019)
+(Stato 28 ottobre 2022)
 
 [^t-1]: [RU 2018 1117](https://fedlex.data.admin.ch/eli/oc/2018/167)
 
@@ -969,18 +969,18 @@ Allegato
 
 \6. I privilegi e le immunità sono concessi alle persone di cui al paragrafo 1 del presente allegato non per loro vantaggio personale, bensì per garantire l’esercizio indipendente delle loro funzioni nell’interesse del GREVIO. La revoca delle immunità concesse alle persone di cui al paragrafo 1 del presente allegato è pronunciata dal Segretario Generale del Consiglio d’Europa, in tutti i casi in cui, a suo parere, l’immunità potrebbe ostacolare il corso della giustizia e tale immunità potrebbe essere sospesa senza arrecare pregiudizio agli interessi del GREVIO.
 
-Campo d’applicazione il 6 giugno 2019**[^t-2]**
+Campo d’applicazione il 28 ottobre 2022[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica</th><th></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td>Albania</td><td>4 febbraio</td><td>2013</td><td>1° agosto</td><td>2014</td></tr>
 <tr><td>Andorra\*</td><td>22 aprile</td><td>2014</td><td>1° agosto</td><td>2014</td></tr>
-<tr><td>Austria\* \*\*</td><td>14 novembre</td><td>2013</td><td>1° agosto</td><td>2014</td></tr>
+<tr><td>Austria\*\*</td><td>14 novembre</td><td>2013</td><td>1° agosto</td><td>2014</td></tr>
 <tr><td>Belgio\*</td><td>14 marzo</td><td>2016</td><td>1° luglio</td><td>2016</td></tr>
 <tr><td>Bosnia ed Erzegovina</td><td>7 novembre</td><td>2013</td><td>1° agosto</td><td>2014</td></tr>
 <tr><td>Cipro\*</td><td>10 novembre</td><td>2017</td><td>1° marzo</td><td>2018</td></tr>
 <tr><td>Croazia\*</td><td>12 giugno</td><td>2018</td><td>1° ottobre</td><td>2018</td></tr>
-<tr><td>Danimarca\*</td><td>23 aprile</td><td>2014</td><td>1° agosto</td><td>2014</td></tr>
+<tr><td>Danimarca\* <sup>a</sup></td><td>23 aprile</td><td>2014</td><td>1° agosto</td><td>2014</td></tr>
 <tr><td>Estonia\*</td><td>26 ottobre</td><td>2017</td><td>1° febbraio</td><td>2018</td></tr>
 <tr><td>Finlandia\* \*\*</td><td>17 aprile</td><td>2015</td><td>1° agosto</td><td>2015</td></tr>
 <tr><td>Francia\*</td><td>4 luglio</td><td>2014</td><td>1° novembre</td><td>2014</td></tr>
@@ -990,15 +990,18 @@ Campo d’applicazione il 6 giugno 2019**[^t-2]**
 <tr><td>Irlanda\*</td><td>8 marzo</td><td>2019</td><td>1° luglio</td><td>2019</td></tr>
 <tr><td>Islanda</td><td>26 aprile</td><td>2018</td><td>1° agosto</td><td>2018</td></tr>
 <tr><td>Italia</td><td>10 settembre</td><td>2013</td><td>1° agosto</td><td>2014</td></tr>
+<tr><td>Liechtenstein<sup>\*</sup></td><td>17 giugno</td><td>2021</td><td>1° ottobre</td><td>2021</td></tr>
 <tr><td>Lussemburgo</td><td>7 agosto</td><td>2018</td><td>1° dicembre</td><td>2018</td></tr>
 <tr><td>Macedonia del Nord\*</td><td>23 marzo</td><td>2018</td><td>1° luglio</td><td>2018</td></tr>
 <tr><td>Malta\*</td><td>29 luglio</td><td>2014</td><td>1° novembre</td><td>2014</td></tr>
+<tr><td>Moldova<sup>\*</sup></td><td>31 gennaio</td><td>2022</td><td>1° maggio</td><td>2022</td></tr>
 <tr><td>Monaco\*</td><td>7 ottobre</td><td>2014</td><td>1° febbraio</td><td>2015</td></tr>
 <tr><td>Montenegro</td><td>22 aprile</td><td>2013</td><td>1° agosto</td><td>2014</td></tr>
 <tr><td>Norvegia\*\*</td><td>5 luglio</td><td>2017</td><td>1° novembre</td><td>2017</td></tr>
-<tr><td>Paesi Bassi\* \*\*</td><td>18 novembre</td><td>2015</td><td>1° marzo</td><td>2016</td></tr>
+<tr><td>Paesi Bassi\*\* <sup>b</sup></td><td>18 novembre</td><td>2015</td><td>1° marzo</td><td>2016</td></tr>
 <tr><td>Polonia\*</td><td>27 aprile</td><td>2015</td><td>1° agosto</td><td>2015</td></tr>
 <tr><td>Portogallo</td><td>5 febbraio</td><td>2013</td><td>1° agosto</td><td>2014</td></tr>
+<tr><td>Regno Unito<sup>\*</sup></td><td>21 luglio</td><td>2022</td><td>1° novembre</td><td>2022</td></tr>
 <tr><td>Romania\*</td><td>23 maggio</td><td>2016</td><td>1° settembre</td><td>2016</td></tr>
 <tr><td>San Marino</td><td>28 gennaio</td><td>2016</td><td>1° maggio</td><td>2016</td></tr>
 <tr><td>Serbia\*</td><td>21 novembre</td><td>2013</td><td>1° agosto</td><td>2014</td></tr>
@@ -1006,11 +1009,11 @@ Campo d’applicazione il 6 giugno 2019**[^t-2]**
 <tr><td>Spagna\*</td><td>10 aprile</td><td>2014</td><td>1° agosto</td><td>2014</td></tr>
 <tr><td>Svezia\* \*\*</td><td>1° luglio</td><td>2014</td><td>1° novembre</td><td>2014</td></tr>
 <tr><td>Svizzera\* \*\*</td><td>14 dicembre</td><td>2017</td><td>1° aprile</td><td>2018</td></tr>
-<tr><td>Turchia</td><td>14 marzo</td><td>2012</td><td>1° agosto</td><td>2014</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. Le riserve, dichiarazioni e obiezioni non sono pubblicate nella RU, eccetto le riserve e dichiarazioni della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet del Consiglio d’Europa: http://conventions.coe.int oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td>Ucraina<sup>\*</sup></td><td>18 luglio</td><td>2022</td><td>1° novembre</td><td>2022</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. Le riserve, dichiarazioni e obiezioni non sono pubblicate nella RU, eccetto le riserve e dichiarazioni della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet del Consiglio d’Europa: https://www.coe.int/fr/web/conventions/home oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> La Convenzione non si applica alle Isole Faroe e alle Groenlandia. <sup>b</sup> La Convenzione si applica alla parte europea dei Paesi Bassi.</td></tr>
 </table>
 
-[^t-2]: [RU 2019 1833](https://fedlex.data.admin.ch/eli/oc/2019/343). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2018 1119](https://fedlex.data.admin.ch/eli/oc/2018/168); [2019 1833](https://fedlex.data.admin.ch/eli/oc/2019/343); [2022 639](https://fedlex.data.admin.ch/eli/oc/2022/639)Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: https://www.fedlex.admin.ch/it/treaty
 
 Dichiarazioni
 
