@@ -5,12 +5,12 @@ title: Behördenverordnung
 short: BehV
 language: de
 version: 2022-01-01
-valid_until: 2024-05-31
+corrected: 2022-10-28
 version_adopted: 2021-12-06
 adopted: 1998-06-15
 in_force: 1998-06-15
 url: "https://ai.clex.ch/app/de/texts_of_law/170.010"
-pdf: "https://ai.clex.ch/api/de/versions/2158/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2156/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -165,7 +165,7 @@ beschliesst:
 
 <sup>1</sup> Weitere Entschädigungen werden durch die Standeskommission geregelt.
 
-<sup>2</sup> Sie kann für Kommissionen, für die sie Wahlorgan ist, die Entschädigungen näher regeln.
+<sup>2</sup> Sie kann für Kommission, für die sie Wahlorgan ist, die Entschädigungen näher regeln.
 
 #### Art. 10
 
