@@ -3,11 +3,11 @@ sr: "0.415.31"
 title: "Convention du Conseil de l'Europe du 3 juillet 2016 sur une approche intégrée de la sécurité, de la sûreté et des services lors des matches de football et autres manifestations sportives"
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/797"
 language: fr
-version: 2020-09-21
+version: 2022-10-28
 adopted: 2016-07-03
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/797/20200921/fr/xml/fedlex-data-admin-ch-eli-cc-2019-797-20200921-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/797/20200921/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/797/20221028/fr/xml/fedlex-data-admin-ch-eli-cc-2019-797-20221028-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/797/20221028/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,13 +26,13 @@ Instrument de ratification déposé par la Suisse le 21 novembre 2019
 
 Entrée en vigueur pour la Suisse le 1<sup>er</sup> janvier 2020
 
-(Etat le 21 septembre 2020)
+(État le 28 octobre 2022)
 
 [^t-1]: [RO 2019 5031](https://fedlex.data.admin.ch/eli/oc/2019/796)
 
 *Préambule*
 
-Les États membres du Conseil de l’Europe et les autres États Parties à la Convention culturelle européenne (STE n<sup>o</sup> 18)*[^ingress-1]*, signataires de la présente Convention,
+Les États membres du Conseil de l’Europe et les autres États Parties à la Convention culturelle européenne (STE n<sup>o</sup> 18)[^ingress-1], signataires de la présente Convention,
 
 considérant que le but du Conseil de l’Europe est de réaliser une union plus étroite entre ses membres,
 
@@ -353,25 +353,34 @@ Le Secrétaire Général du Conseil de l’Europe notifie aux États membres du 
 
 *En foi de quoi*, les soussignés, dûment autorisés à cet effet, ont signé la présente Convention. Fait à Saint-Denis, le 3 juillet 2016 en français et en anglais, les deux textes faisant également foi, en un seul exemplaire qui sera déposé dans les archives du Conseil de l’Europe. Le Secrétaire Général du Conseil de l’Europe en communiquera copie certifiée conforme à chaque État membre du Conseil de l’Europe, à chaque État Partie à la Convention culturelle européenne, et à tout État invité à adhérer à la présente Convention. (Suivent les signatures)
 
-Champ d’application le 21 septembre 2020**[^t-2]**
+Champ d’application le 28 octobre 2022[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><td>Autriche</td><td>3 août</td><td>2021</td><td>1<sup>er</sup> octobre</td><td>2021</td></tr>
 <tr><td>Azerbaïdjan\*</td><td>11 décembre</td><td>2018</td><td>1<sup>er</sup> février</td><td>2019</td></tr>
+<tr><td>Bulgarie</td><td>10 décembre</td><td>2019</td><td>1<sup>er</sup> février</td><td>2020</td></tr>
+<tr><td>Croatie</td><td>13 novembre</td><td>2020</td><td>1<sup>er</sup> janvier</td><td>2021</td></tr>
 <tr><td>Espagne\*</td><td>6 septembre</td><td>2019</td><td>1<sup>er</sup> novembre</td><td>2019</td></tr>
+<tr><td>Estonie</td><td>16 décembre</td><td>2019</td><td>1<sup>er</sup> février</td><td>2020</td></tr>
+<tr><td>Finlande</td><td>4 janvier</td><td>2022</td><td>1<sup>er</sup> mars</td><td>2022</td></tr>
 <tr><td>France\*</td><td>6 février</td><td>2017</td><td>1<sup>er</sup> novembre</td><td>2017</td></tr>
+<tr><td>Italie</td><td>18 novembre</td><td>2020</td><td>1<sup>er</sup> janvier</td><td>2021</td></tr>
+<tr><td>Lituanie</td><td>2 février</td><td>2021</td><td>1<sup>er</sup> avril</td><td>2021</td></tr>
 <tr><td>Moldova\*</td><td>10 janvier</td><td>2018</td><td>1<sup>er</sup> mars</td><td>2018</td></tr>
 <tr><td>Monaco\*</td><td>2 mars</td><td>2017</td><td>1<sup>er</sup> novembre</td><td>2017</td></tr>
 <tr><td>Norvège\*</td><td>11 décembre</td><td>2017</td><td>1<sup>er</sup> février</td><td>2018</td></tr>
-<tr><td>Pays-Bas</td><td>6 février</td><td>2020</td><td>1<sup>er</sup> avril</td><td>2020</td></tr>
+<tr><td>Pays-Bas <sup>a</sup></td><td>6 février</td><td>2020</td><td>1<sup>er</sup> avril</td><td>2020</td></tr>
 <tr><td>Pologne\*</td><td>18 septembre</td><td>2017</td><td>1<sup>er</sup> novembre</td><td>2017</td></tr>
 <tr><td>Portugal</td><td>19 juin</td><td>2018</td><td>1<sup>er</sup> août</td><td>2018</td></tr>
 <tr><td>République tchèque</td><td>16 mai</td><td>2019</td><td>1<sup>er</sup> juillet</td><td>2019</td></tr>
 <tr><td>Roumanie</td><td>17 février</td><td>2020</td><td>1<sup>er</sup> avril</td><td>2020</td></tr>
 <tr><td>Russie</td><td>3 octobre</td><td>2017</td><td>1<sup>er</sup> décembre</td><td>2017</td></tr>
+<tr><td>Slovaquie</td><td>11 mars</td><td>2022</td><td>1<sup>er</sup> mai</td><td>2022</td></tr>
+<tr><td>Slovénie</td><td>10 février</td><td>2021</td><td>1<sup>er</sup> avril</td><td>2021</td></tr>
 <tr><td>Suisse</td><td>21 novembre</td><td>2019</td><td>1<sup>er</sup> janvier</td><td>2020</td></tr>
 <tr><td>Turquie\*</td><td>25 mai</td><td>2020</td><td>1<sup>er</sup> juillet</td><td>2020</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet du Conseil de l’Europe: www.coe.int &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet du Conseil de l’Europe: www.coe.int &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La Convention s’applique pour la partie européenne des Pays-Bas.</td></tr>
 </table>
 
-[^t-2]: [RO 2019 5033](https://fedlex.data.admin.ch/eli/oc/2019/797), [2020 3875](https://fedlex.data.admin.ch/eli/oc/2020/719). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 2019 5033](https://fedlex.data.admin.ch/eli/oc/2019/797); [2020 3875](https://fedlex.data.admin.ch/eli/oc/2020/719); [2022 654](https://fedlex.data.admin.ch/eli/oc/2022/654). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [https://www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

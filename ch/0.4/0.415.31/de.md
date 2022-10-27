@@ -3,11 +3,11 @@ sr: "0.415.31"
 title: "Übereinkommen des Europarats vom 3. Juli 2016 über einen ganzheitlichen Ansatz für Sicherheit, Schutz und Dienstleistungen bei Fussballspielen und anderen Sportveranstaltungen"
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/797"
 language: de
-version: 2020-09-21
+version: 2022-10-28
 adopted: 2016-07-03
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/797/20200921/de/xml/fedlex-data-admin-ch-eli-cc-2019-797-20200921-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/797/20200921/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/797/20221028/de/xml/fedlex-data-admin-ch-eli-cc-2019-797-20221028-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/797/20221028/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,13 +26,13 @@ Schweizerische Ratifikationsurkunde hinterlegt am 21. November 2019
 
 In Kraft getreten für die Schweiz am 1. Januar 2020
 
-(Stand am 21. September 2020)
+(Stand am 28. Oktober 2022)
 
 [^t-1]: [AS 2019 5031](https://fedlex.data.admin.ch/eli/oc/2019/796)
 
 *Präambel*
 
-Die Mitgliedstaaten des Europarats und die anderen Vertragsstaaten des Europäischen Kulturabkommens (SEV-Nr. 18)*[^ingress-1]*, die dieses Übereinkommen unterzeichnen,
+Die Mitgliedstaaten des Europarats und die anderen Vertragsstaaten des Europäischen Kulturabkommens (SEV-Nr. 18)[^ingress-1], die dieses Übereinkommen unterzeichnen,
 
 in der Erwägung, dass es das Ziel des Europarats ist, eine engere Verbindung zwischen seinen Mitgliedern herzustellen;
 
@@ -362,25 +362,34 @@ Der Generalsekretär des Europarats notifiziert den Mitgliedstaaten des Europara
 - f. jede nach Artikel 21 erfolgte Kündigung;
 - g. jede andere Handlung, Erklärung, Notifikation oder Mitteilung im Zusammenhang mit diesem Übereinkommen.
 
-Geltungsbereich am 21. September 2020**[^t-2]**
+Geltungsbereich am 28. Oktober 2022[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation</th><th></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td>Aserbaidschan\*</td><td>11. Dezember</td><td>2018</td><td>1. Februar</td><td>2019</td></tr>
+<tr><td>Bulgarien</td><td>10. Dezember</td><td>2019</td><td>1. Februar</td><td>2020</td></tr>
+<tr><td>Estland</td><td>16. Dezember</td><td>2019</td><td>1. Februar</td><td>2020</td></tr>
+<tr><td>Finnland</td><td>4. Januar</td><td>2022</td><td>1. März</td><td>2022</td></tr>
 <tr><td>Frankreich\*</td><td>6. Februar</td><td>2017</td><td>1. November</td><td>2017</td></tr>
+<tr><td>Italien</td><td>18. November</td><td>2020</td><td>1. Januar</td><td>2021</td></tr>
+<tr><td>Kroatien</td><td>13. November</td><td>2020</td><td>1. Januar</td><td>2021</td></tr>
+<tr><td>Litauen</td><td>2. Februar</td><td>2021</td><td>1. April</td><td>2021</td></tr>
 <tr><td>Moldau\*</td><td>10. Januar</td><td>2018</td><td>1. März</td><td>2018</td></tr>
 <tr><td>Monaco\*</td><td>2. März</td><td>2017</td><td>1. November</td><td>2017</td></tr>
-<tr><td>Niederlande</td><td>6. Februar</td><td>2020</td><td>1. April</td><td>2020</td></tr>
+<tr><td>Niederlande <sup>a</sup></td><td>6. Februar</td><td>2020</td><td>1. April</td><td>2020</td></tr>
 <tr><td>Norwegen\*</td><td>11. Dezember</td><td>2017</td><td>1. Februar</td><td>2018</td></tr>
+<tr><td>Österreich</td><td>3. August</td><td>2021</td><td>1. Oktober</td><td>2021</td></tr>
 <tr><td>Polen\*</td><td>18. September</td><td>2017</td><td>1. November</td><td>2017</td></tr>
 <tr><td>Portugal</td><td>19. Juni</td><td>2018</td><td>1. August</td><td>2018</td></tr>
 <tr><td>Rumänien</td><td>17. Februar</td><td>2020</td><td>1. April</td><td>2020</td></tr>
 <tr><td>Russland</td><td>3. Oktober</td><td>2017</td><td>1. Dezember</td><td>2017</td></tr>
 <tr><td>Schweiz</td><td>21. November</td><td>2019</td><td>1. Januar</td><td>2020</td></tr>
+<tr><td>Slowakei</td><td>11. März</td><td>2022</td><td>1. Mai</td><td>2022</td></tr>
+<tr><td>Slowenien</td><td>10. Februar</td><td>2021</td><td>1. April</td><td>2021</td></tr>
 <tr><td>Spanien\*</td><td>6. September</td><td>2019</td><td>1. November</td><td>2019</td></tr>
 <tr><td>Tschechische Republik</td><td>16. Mai</td><td>2019</td><td>1. Juli</td><td>2019</td></tr>
 <tr><td>Türkei\*</td><td>25. Mai</td><td>2020</td><td>1. Juli</td><td>2020</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme der Vorbehalte und Erklärungen der Schweiz. Die französischen und englischen Texte können auf der Internetseite des Europarates: www.coe.int &gt; Deutsch &gt; Mehr &gt; Vertragsbüro &gt; Gesamtverzeichnis eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme der Vorbehalte und Erklärungen der Schweiz. Die französischen und englischen Texte können auf der Internetseite des Europarates: www.coe.int &gt; Deutsch &gt; Mehr &gt; Vertragsbüro &gt; Gesamtverzeichnis eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden. <sup>a</sup> Das Übereinkommen gilt für den europäischen Teil der Niederlande.</td></tr>
 </table>
 
-[^t-2]: [AS 2019 5033](https://fedlex.data.admin.ch/eli/oc/2019/797)und [2020 3875](https://fedlex.data.admin.ch/eli/oc/2020/719). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 2019 5033](https://fedlex.data.admin.ch/eli/oc/2019/797); [2020 3875](https://fedlex.data.admin.ch/eli/oc/2020/719); [2022 654](https://fedlex.data.admin.ch/eli/oc/2022/654). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht www.fedlex.admin.ch/de/treaty
