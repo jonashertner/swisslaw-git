@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: 16.470 n Pa. Iv. Regazzi. Verzugszinssatz des Bundes. Anpassung an Marktzinsen
 document: Vernehmlassungsvorlage
 language: de

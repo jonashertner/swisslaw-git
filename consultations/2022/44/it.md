@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: 16.470 n Iv. pa. Regazzi. Interessi di mora applicati dalla Confederazione in linea con i tassi di mercato
 document: Progetto posto in consultazione
 language: it

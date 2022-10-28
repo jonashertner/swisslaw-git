@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: 16.470 n Iv. pa. Regazzi. Aligner l’intérêt moratoire appliqué par la Confédération sur les taux du marché
 document: Projet mis en consultation
 language: fr
