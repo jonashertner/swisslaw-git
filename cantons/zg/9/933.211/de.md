@@ -3,20 +3,19 @@ canton: ZG
 number: "933.211"
 title: Verordnung über die Fischerei
 language: de
-version: 2020-11-01
-valid_until: 2022-10-28
-version_adopted: 2020-09-08
+version: 2022-10-29
+version_adopted: 2022-07-05
 adopted: 1995-12-12
 in_force: 1996-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/933.211"
-pdf: "https://bgs.zg.ch/api/de/versions/2145/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2377/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Fischerei
 
-Vom 12. Dezember 1995 (Stand 1. November 2020)
+Vom 12. Dezember 1995 (Stand 29. Oktober 2022)
 
 Der Regierungsrat des Kantons Zug,
 
@@ -43,7 +42,7 @@ beschliesst:
 
 <sup>2</sup> Für die Berufsfischerei ist die Fangstatistik am Ende jedes Monats innert 14 Tagen, für die Angelfischerei jährlich innert 30 Tagen nach Ablauf des Wirtschaftsjahres dem Amt für Wald und Wild einzureichen.
 
-<sup>3</sup> Wer infolge verspäteter Ablieferung der Fangstatistik gemahnt werden muss, hat eine Mahngebühr von Fr. 15.– zu bezahlen.
+<sup>3</sup> Wer infolge verspäteter Ablieferung der Fangstatistik gemahnt werden muss, hat eine Mahngebühr von Fr. 50.– zu bezahlen.
 
 #### § 3
 
@@ -81,7 +80,7 @@ beschliesst:
 
 <sup>3</sup> …
 
-<sup>4</sup> Keinen Sachkundenachweis braucht, wer eine Fischereiberechtigung von weniger als einem Monat Gültigkeitsdauer erwerben will.
+<sup>4</sup> Einen Sachkundenachweis braucht, wer eine Fischereiberechtigung von länger als einem Tag erwerben will. Die Patentausgabestellen informieren bei Patenten ohne Sachkundenachweis die Angelfischerinnen und Angelfischer über die tiergerechte Fischerei.
 
 ## 2. Schonbestimmungen
 
@@ -114,7 +113,7 @@ beschliesst:
 - e) Äsche: 30 cm
 - f) Hecht: 50 cm
 - g) Egli: 15 cm
-- h) Aal: 50 cm
+- h) …
 
 <sup>2</sup> …
 
@@ -160,8 +159,8 @@ beschliesst:
 
 <table>
 <tr><th>Fanggerät</th><th>max. Länge (in m)</th><th>max. Höhe (in m)</th><th>Mindestmaschenweiten (in mm)</th><th>Zulässige Dichte für den Ägerisee</th></tr>
-<tr><td>Schwebnetze</td><td>90</td><td>8</td><td>ab 32</td><td>2 pro km² der Fischenze</td></tr>
-<tr><td>Bodennetze</td><td>90</td><td>6</td><td>ab 24 (Egli), ab 26 (Rötel), ab 32 (Felchen), ab 45 (Hecht)</td><td>4 pro km Uferlänge der Fischenze</td></tr>
+<tr><td>Schwebnetze</td><td>90</td><td>8</td><td>ab 32</td><td>2 pro km² der Fischenze, max. 8 pro Berufsfischerin oder Berufsfischer</td></tr>
+<tr><td>Bodennetze</td><td>90</td><td>6</td><td>ab 24 (Egli), ab 26 (Rötel), ab 32 (Felchen), ab 45 (Hecht)</td><td>4 pro km Uferlänge der Fischenze, max. 20 pro Berufsfischerin oder Berufsfischer</td></tr>
 <tr><td>Bären</td><td>–</td><td>–</td><td>ab 12</td><td>fallweise festzulegen</td></tr>
 <tr><td>Trappnetze</td><td>–</td><td>–</td><td>ab 20</td><td>fallweise festzulegen</td></tr>
 </table>
@@ -245,7 +244,7 @@ beschliesst:
 
 <sup>3</sup> Als Hilfsgerät dürfen nur der Feumer zur Anlandung von Fischen, Geräte zur Ortung von Fischen sowie zur Bestimmung der Gewässertiefen verwendet werden.
 
-<sup>4</sup> Mit Ausnahme der pro Boot limitieren Schleppangelfischerei darf jede Patentinhaberin oder jeder Patentinhaber in stehenden Gewässern maximal zwei der in Abs. 1 beschriebenen Gerätschaften einsetzen. Bei der Fischerei in Fliessgewässern sowie beim Angeln mit dem Jugendpatent ohne Sachkundenachweis ist nur eine Gerätschaft erlaubt.
+<sup>4</sup> Mit Ausnahme der pro Boot limitierten Schleppangelfischerei darf jede Patentinhaberin oder jeder Patentinhaber in stehenden Gewässern maximal zwei der in Abs. 1 beschriebenen Gerätschaften einsetzen. Bei der Fischerei in Fliessgewässern ist nur eine Gerätschaft pro Person erlaubt.
 
 <sup>5</sup> Erlaubt sind künstliche oder natürliche Köder, ausgenommen lebende Köderfische.
 
@@ -300,7 +299,11 @@ beschliesst:
 - a) Uferpatente für die Fischerei vom Ufer aus;
 - b) Bootspatente für die Fischerei vom Boot oder vom Ufer aus;
 - c) Jugendpatent mit Sachkundenachweis, das Personen bis zum zurückgelegten 16. Altersjahr berechtigt, die Fischerei im Rahmen des Bootspatentes auszuüben;
-- d) Jugendpatent ohne Sachkundenachweis, das Personen, die über keinen Sachkundenachweis verfügen, bis zum zurückgelegten 14. Altersjahr berechtigt, die Fischerei in Begleitung einer Inhaberin oder eines Inhabers eines Sachkundenachweises im Rahmen des Bootspatentes auszuüben.
+- d) …
+
+<sup>1a</sup> Kindern und Jugendlichen ist bis zum vollendeten 14. Altersjahr die Angelfischerei ohne Patent unter der Aufsicht einer Patentinhaberin oder eines Patentinhabers gestattet. Dabei dürfen maximal zwei der zulässigen Angelgeräte verwendet werden. Die Fänge müssen in die Statistik der Patentinhaberin oder des Patentinhabers eingetragen werden.
+
+<sup>1b</sup> Inhaberinnen und Inhabern eines Patents für ein Wirtschaftsjahr (Fischereijahr) kann eine Gastkarte ausgestellt werden. Diese berechtigt sie, unter ihrer Aufsicht einen Gast mitfischen zu lassen. Als Gast ausgenommen sind Personen, denen die Fischereiausübung untersagt worden ist. Die Gastkarte erlaubt keine zusätzlichen Fanggeräte und die Fänge müssen in die Statistik der Patentinhaberin oder des Patentinhabers eingetragen werden.
 
 <sup>2</sup> Die Patente sind nicht auf andere Personen übertragbar.
 
@@ -331,8 +334,9 @@ beschliesst:
   - 3\. für zwei Wochen (14 Tage) Fr. 40.–
   - 4\. pro Tag Fr. 20.–
 - c) Jugendpatent mit Sachkundenachweis, pro Jahr Fr. 40.–
-- d) Jugendpatent ohne Sachkundenachweis, pro Jahr Fr. 25.–
+- d) …
 - e) Berufsfischereipatent pro Jahr inklusive ein Hilfspersonenpatent: Fr. 350.–
+- f) Gastkarte zu Ufer- und Bootspatent pro Wirtschaftsjahr (Fischereijahr) Zugersee: Fr. 50.–
 
 <sup>2</sup> Personen ohne Wohnsitz im Kanton bezahlen für Ufer- und Bootspatente mit einer Gültigkeitsdauer von mehr als zwei Wochen einen Zuschlag von 100 % der massgebenden Patentgebühr.
 
@@ -368,6 +372,6 @@ beschliesst:
 
 [^23-1]: GS 18, 289
 
-Vom Bund genehmigt am 5. Februar 1996
+Vom Bund genehmigt am 5. Februar 1996. Änderungen vom Bund genehmigt am ...
 
 GS 25, 211
