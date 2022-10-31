@@ -4,11 +4,11 @@ title: "Verordnung vom 21. Mai 2008 über Geoinformation (Geoinformationsverordn
 short: GeoIV
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/389"
 language: de
-version: 2022-08-01
+version: 2022-11-01
 adopted: 2008-05-21
 in_force: 2008-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/389/20220801/de/xml/fedlex-data-admin-ch-eli-cc-2008-389-20220801-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/389/20220801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/389/20221101/de/xml/fedlex-data-admin-ch-eli-cc-2008-389-20221101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/389/20221101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/389/20220801/de"
 
 (Geoinformationsverordnung, GeoIV)
 
-vom 21. Mai 2008 (Stand am 1. August 2022)
+vom 21. Mai 2008 (Stand am 1. November 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -767,7 +767,7 @@ Anhang 1[^t-1]
 
 ## Katalog der Geobasisdaten des Bundesrechts
 
-[^t-1]: Fassung gemäss Ziff. II der V vom 28. März 2012 ([AS 2012 1791](https://fedlex.data.admin.ch/eli/oc/2012/254)). Bereinigt gemäss Ziff. II 2 der V vom 27. Juni 2012 ([AS 2012 3683](https://fedlex.data.admin.ch/eli/oc/2012/422)[4169](https://fedlex.data.admin.ch/eli/oc/2012/489)), Art. 30 Ziff. 2 der V vom 23. Okt. 2013 über Informationssysteme im Bereich der Landwirtschaft ([AS 2013 4009](https://fedlex.data.admin.ch/eli/oc/2013/733)), Anhang Ziff. II 2 der V vom 29. Okt. 2014 über den Schutz der Kulturgüter bei bewaffneten Konfikten, bei Katastrophen und in Notlagen ([AS 2014 3555](https://fedlex.data.admin.ch/eli/oc/2014/616)), Ziff. III der V vom 28. Okt. 2015 ([AS 2015 4581](https://fedlex.data.admin.ch/eli/oc/2015/772)), Anhang 6 Ziff. 1 der Abfallverordnung vom 4. Dez. 2015 ([AS 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), Anhang Ziffer II 1 der V vom 17. Aug. 2016 ([AS 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)), Anhang 2 Ziff. II 3 der V vom 9. Juni über das eidgenössische Gebäude- und Wohnungsregister ([AS 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)), Ziff. II der V vom 15. Nov. 2017 ([AS 2017 6653](https://fedlex.data.admin.ch/eli/oc/2017/739)), Anhang 8 Ziff. 2 der Pflanzengesundheitsverordnung vom 31. Okt. 2018 ([AS 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)), Ziff. I der V vom 3. April 2019 ([AS 2019 1343](https://fedlex.data.admin.ch/eli/oc/2019/262)), vom 16. Okt. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3231](https://fedlex.data.admin.ch/eli/oc/2019/595)), Ziff. III der V vom 17. Okt. 2018 ([AS 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611), [2020 145](https://fedlex.data.admin.ch/eli/oc/2020/25)), Ziff. I der V vom 25. Nov. 2020 ([AS 2020 6013](https://fedlex.data.admin.ch/eli/oc/2020/1004)), Anhang 2 Ziff. 1 der Rohrleitungssicherheitsverordnung vom 4. Juni 2021 ([AS 2021 348](https://fedlex.data.admin.ch/eli/oc/2021/348)) und Ziff. I der V vom 22. Juni 2022, in Kraft seit 1. Aug. 2022 ([AS 2022 395](https://fedlex.data.admin.ch/eli/oc/2022/395)).
+[^t-1]: Fassung gemäss Ziff. II der V vom 28. März 2012 ([AS 2012 1791](https://fedlex.data.admin.ch/eli/oc/2012/254)). Bereinigt gemäss Ziff. II 2 der V vom 27. Juni 2012 ([AS 2012 3683](https://fedlex.data.admin.ch/eli/oc/2012/422)[4169](https://fedlex.data.admin.ch/eli/oc/2012/489)), Art. 30 Ziff. 2 der V vom 23. Okt. 2013 über Informationssysteme im Bereich der Landwirtschaft ([AS 2013 4009](https://fedlex.data.admin.ch/eli/oc/2013/733)), Anhang Ziff. II 2 der V vom 29. Okt. 2014 über den Schutz der Kulturgüter bei bewaffneten Konfikten, bei Katastrophen und in Notlagen ([AS 2014 3555](https://fedlex.data.admin.ch/eli/oc/2014/616)), Ziff. III der V vom 28. Okt. 2015 ([AS 2015 4581](https://fedlex.data.admin.ch/eli/oc/2015/772)), Anhang 6 Ziff. 1 der Abfallverordnung vom 4. Dez. 2015 ([AS 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), Anhang Ziffer II 1 der V vom 17. Aug. 2016 ([AS 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)), Anhang 2 Ziff. II 3 der V vom 9. Juni über das eidgenössische Gebäude- und Wohnungsregister ([AS 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)), Ziff. II der V vom 15. Nov. 2017 ([AS 2017 6653](https://fedlex.data.admin.ch/eli/oc/2017/739)), Anhang 8 Ziff. 2 der Pflanzengesundheitsverordnung vom 31. Okt. 2018 ([AS 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)), Ziff. I der V vom 3. April 2019 ([AS 2019 1343](https://fedlex.data.admin.ch/eli/oc/2019/262)), vom 16. Okt. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3231](https://fedlex.data.admin.ch/eli/oc/2019/595)), Ziff. III der V vom 17. Okt. 2018 ([AS 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611), [2020 145](https://fedlex.data.admin.ch/eli/oc/2020/25)), Ziff. I der V vom 25. Nov. 2020 ([AS 2020 6013](https://fedlex.data.admin.ch/eli/oc/2020/1004)), Anhang 2 Ziff. 1 der Rohrleitungssicherheitsverordnung vom 4. Juni 2021 ([AS 2021 348](https://fedlex.data.admin.ch/eli/oc/2021/348)), Ziff. I der V vom 22. Juni 2022 ([AS 2022 395](https://fedlex.data.admin.ch/eli/oc/2022/395)) und Ziff. II der V vom 31. Aug. 2022, in Kraft seit 1. Nov. 2022 ([AS 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 <table>
 <tr><th>Bezeichnung</th><th colspan="2">Rechtsgrundlage</th><th colspan="2">Zuständige Stelle (SR *510.62* Art. 8 Abs. 1) [Fachstelle des Bundes]</th><th colspan="2">Georeferenzdaten</th><th>ÖREB Kataster</th><th colspan="2">Zugangsberechtigungsstufe</th><th>Download-Dienst</th><th>Identifikator</th></tr>
@@ -911,7 +911,6 @@ Anhang 1[^t-1]
 <tr><td>Hanglagen</td><td colspan="2">SR *910.1* Art. 178 Abs. 5 SR *910.13* Art. 43 und 45</td><td colspan="2">BLW</td><td colspan="2"></td><td></td><td colspan="2">A</td><td>X</td><td>152</td></tr>
 <tr><td>Landwirtschaftliche Kulturflächen</td><td colspan="2">SR *910.1* Art. 178 Abs. 5 SR *910.13* Art. 38, 45, 55, 56, 58–60, 63, 64, 113, Anhang 1–4 SR *910.91* Art. 6, 9, 13, 14, 16, 24</td><td colspan="2">Kantone [BLW]</td><td colspan="2"></td><td></td><td colspan="2">A</td><td>X</td><td>153</td></tr>
 <tr><td>Gebietsüberwachung besonders gefährlicher Schadorganismen</td><td colspan="2">SR *916.20* Art. 18</td><td colspan="2">Kantone [BLW, BAFU]</td><td colspan="2"></td><td></td><td colspan="2">A</td><td>X</td><td>154</td></tr>
-<tr><td>Meldepflichtige Tierseuchen</td><td colspan="2">SR *916.401* Art. 65</td><td colspan="2">BLV[^annex1-lvlu1-2]</td><td colspan="2"></td><td></td><td colspan="2">A</td><td></td><td>155</td></tr>
 <tr><td>Statische Waldgrenzen</td><td colspan="2">SR *921.0* Art. 10 Abs. 2, 13 SR *921.01* Art. 12*a*</td><td colspan="2">Kantone [BAFU]</td><td colspan="2"></td><td>X</td><td colspan="2">A</td><td>X</td><td>157</td></tr>
 <tr><td>Waldabstandslinien</td><td colspan="2">SR *921.0* Art. 17</td><td colspan="2">Kantone [BAFU]</td><td colspan="2"></td><td>X</td><td colspan="2">A</td><td>X</td><td>159</td></tr>
 <tr><td>Waldreservate</td><td colspan="2">SR *921.0* Art. 20 Abs. 4 SR *921.01* Art. 41</td><td colspan="2">Kantone [BAFU]</td><td colspan="2"></td><td>X</td><td colspan="2">A</td><td>X</td><td>160</td></tr>
@@ -933,7 +932,7 @@ Anhang 1[^t-1]
 <tr><td>Übereinkommen zum Schutz des Kultur- und Naturgutes der Welt (UNESCO-Welterbe Kulturstätten)</td><td colspan="2">SR *0.451.41*</td><td colspan="2">BAK</td><td colspan="2"></td><td></td><td colspan="2">A</td><td>X</td><td>179</td></tr>
 <tr><td>Statistischer Atlas der Schweiz</td><td colspan="2">SR *510.62* Art. 22 ff. SR *510.626* Art. 23</td><td colspan="2">BFS</td><td colspan="2"></td><td></td><td colspan="2">A</td><td></td><td>180</td></tr>
 <tr><td>Amtliches Ortschaftenverzeichnis mit Postleitzahl und Perimeter</td><td colspan="2">SR *510.625* Art. 24</td><td colspan="2">swisstopo</td><td colspan="2"></td><td></td><td colspan="2">A</td><td>X</td><td>181</td></tr>
-<tr><td>Radondatenbank</td><td colspan="2">SR *814.501* Art. 162[^annex1-lvlu1-3]</td><td colspan="2">Kantone [BAG]</td><td colspan="2"></td><td></td><td colspan="2">B</td><td></td><td>182</td></tr>
+<tr><td>Radondatenbank</td><td colspan="2">SR *814.501* Art. 162[^annex1-lvlu1-2]</td><td colspan="2">Kantone [BAG]</td><td colspan="2"></td><td></td><td colspan="2">B</td><td></td><td>182</td></tr>
 <tr><td>Stromversorgungssicherheit: Netzgebiete</td><td colspan="2">SR *734.7* Art. 5 Abs. 1</td><td colspan="2">Kantone [ElCom]</td><td colspan="2"></td><td></td><td colspan="2">A</td><td>X</td><td>183</td></tr>
 <tr><td>Kantonale Ausnahmetransportrouten</td><td colspan="2">SR *741.11* Art. 78 ff.</td><td colspan="2">Kantone [ASTRA]</td><td colspan="2"></td><td></td><td colspan="2">A</td><td>X</td><td>184</td></tr>
 <tr><td>Rodungen und Rodungsersatz</td><td colspan="2">SR *921.0* Art. 5, 7 SR *921.01* Art. 7, 8</td><td colspan="2">Kantone [BAFU]</td><td colspan="2"></td><td></td><td colspan="2">A</td><td></td><td>185</td></tr>
@@ -944,8 +943,8 @@ Anhang 1[^t-1]
 <tr><td>Gewässerraum</td><td colspan="2">SR *814.20* Art. 36*a* SR *814.201* Art. 41*a*, 41*b*</td><td colspan="2">Kantone [BAFU]</td><td colspan="2"></td><td>X</td><td colspan="2">A</td><td>X</td><td>190</td></tr>
 <tr><td>Planung der Revitalisierungen von Gewässern</td><td colspan="2">SR *814.20* Art. 38*a* SR *814.201* Art. 41*d*</td><td colspan="2">Kantone [BAFU]</td><td colspan="2"></td><td></td><td colspan="2">A</td><td>X</td><td>191</td></tr>
 <tr><td>Planung und Berichterstattung der Sanierung Wasserkraft</td><td colspan="2">SR *814.20* Art. 83*b* SR *814.201* Art. 41*f*, 42*b* SR *923.01* Art. 9*b*</td><td colspan="2">Kantone [BAFU]</td><td colspan="2"></td><td></td><td colspan="2">A</td><td></td><td>192</td></tr>
-<tr><td>Stauanlagen unter Bundesaufsicht</td><td colspan="2">SR *721.101* Art. 2, 3 Abs. 2, 22, 24 SR *721.101.1* Art. 29[^annex1-lvlu1-4]</td><td colspan="2">BFE</td><td colspan="2"></td><td></td><td colspan="2">A</td><td>X</td><td>193</td></tr>
-<tr><td>Stauanlagen unter kantonaler Aufsicht</td><td colspan="2">SR *721.101* Art. 2, 23, 24[^annex1-lvlu1-5]</td><td colspan="2">Kantone [BFE]</td><td colspan="2"></td><td></td><td colspan="2">A</td><td>X</td><td>194</td></tr>
+<tr><td>Stauanlagen unter Bundesaufsicht</td><td colspan="2">SR *721.101* Art. 2, 3 Abs. 2, 22, 24 SR *721.101.1* Art. 29[^annex1-lvlu1-3]</td><td colspan="2">BFE</td><td colspan="2"></td><td></td><td colspan="2">A</td><td>X</td><td>193</td></tr>
+<tr><td>Stauanlagen unter kantonaler Aufsicht</td><td colspan="2">SR *721.101* Art. 2, 23, 24[^annex1-lvlu1-4]</td><td colspan="2">Kantone [BFE]</td><td colspan="2"></td><td></td><td colspan="2">A</td><td>X</td><td>194</td></tr>
 <tr><td>Ruhezonen für Wildtiere (inkl. Routennetz)</td><td colspan="2">SR *922.01* Art. 4<sup>ter</sup></td><td colspan="2">Kantone [BAFU]</td><td colspan="2"></td><td></td><td colspan="2">A</td><td>X</td><td>195</td></tr>
 <tr><td>Amtliches Verzeichnis der Strassen</td><td colspan="2">SR *510.625* Art. 26*a*</td><td colspan="2">swisstopo</td><td colspan="2">X</td><td></td><td colspan="2">A</td><td>X</td><td>196</td></tr>
 <tr><td>Amtliches Verzeichnis der Gebäudeadressen</td><td colspan="2">SR *510.625* Art. 26*c*</td><td colspan="2">swisstopo</td><td colspan="2">X</td><td></td><td colspan="2">A</td><td>X</td><td>197</td></tr>
@@ -981,10 +980,9 @@ Anhang 1[^t-1]
 </table>
 
 [^annex1-lvlu1-1]: [[AS 1999 689](https://fedlex.data.admin.ch/eli/oc/1999/101); [2009 5981](https://fedlex.data.admin.ch/eli/oc/2009/732)Art. 26 Bst. c].
-[^annex1-lvlu1-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2014 angepasst.
-[^annex1-lvlu1-3]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Jan. 2018 angepasst.
+[^annex1-lvlu1-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Jan. 2018 angepasst.
+[^annex1-lvlu1-3]: Die Verweise wurden in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) angepasst.
 [^annex1-lvlu1-4]: Die Verweise wurden in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) angepasst.
-[^annex1-lvlu1-5]: Die Verweise wurden in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) angepasst.
 
 Anhang 2
 
