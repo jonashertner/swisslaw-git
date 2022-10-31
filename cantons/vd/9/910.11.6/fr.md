@@ -4,7 +4,7 @@ number: "910.11.6"
 title: "RÈGLEMENT du 01.07.2020 fixant les conditions à l'octroi d'un soutien financier cantonal à une production laitière différenciée (RSFPLD)"
 short: RSFPLD
 language: fr
-version: 2020-07-01
+version: 2022-11-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/910.11.6?id=46d0afda-a583-40f1-838f-4b4daba318f6"
 ---
 
@@ -48,18 +48,19 @@ arrête
 
 <sup>1</sup> Le terme lait différencié désigne un lait produit dans une exploitation agricole respectant les conditions cumulatives suivantes : autonomie en fourrage grossier, consommation de fourrage produit localement et respect du bien-être animal.
 
-<sup>2</sup> Les termes exploitants, exploitations agricoles, communauté partielle d'exploitation, et communauté d'exploitation, s'entendent au sens de l'ordonnance fédérale du 7 décembre 1998 sur la terminologie agricole et la reconnaissance des formes d'exploitation.
+<sup>2</sup> Les termes exploitants, exploitations agricoles, communauté partielle d'exploitation, et communauté d'exploitation, s'entendent au sens de l'ordonnance fédérale du 7 décembre 1998 sur la terminologie agricole et la reconnaissance des formes d'exploitation[^2-1].
 
-<sup>3</sup> Le terme lait d'ensilage désigne le lait qui ne perçoit pas le supplément pour lait de non-ensilage, au sens de l'ordonnance fédérale du 25 juin 2008 sur le soutien du prix du lait[^2-1].
+<sup>3</sup> Le terme lait d'ensilage désigne le lait qui ne perçoit pas le supplément pour lait de non-ensilage, au sens de l'ordonnance fédérale du 25 juin 2008 sur le soutien du prix du lait[^2-2].
 
 <sup>4</sup> Le fourrage produit localement désigne le fourrage produit dans le canton de Vaud et dans une zone limitrophe.
 
 <sup>5</sup> La zone limitrophe désigne une zone limitrophe au canton de Vaud qui n'excède pas 15 km par la route depuis la frontière cantonale.
 
-<sup>6</sup> Les céréales fourragères d'origine locale s'entendent comme celles produites dans le canton de Vaud, étendu aux districts limitrophes du canton de Vaud, soit ceux des cantons de Neuchâtel, Berne, Fribourg, Valais et Genève.
+<sup>6</sup> Les céréales fourragères d'origine locale s'entendent comme celles produites dans le canton de Vaud, étendu aux districts limitrophes du canton de Vaud, soit ceux des cantons de Neuchâtel, Berne, Fribourg et Valais ainsi qu'aux communes limitrophes du canton de Genève.
 
-[^1-1]: Modif. 1 du 29.03.2023: Modification Al. 6; entrée en vigueur au 01.11.2022; Introduction Art. 16, Al. 2; entrée en vigueur au 01.11.2022
-[^2-1]: Ordonnance du 25.06.2008 concernant les suppléments et l'enregistrement des données dans le domaine du lait (RS 916.350.2)
+[^1-1]: Modif. 1 du 29.03.2023: Modification Al. 6; entrée en vigueur au 01.11.2022
+[^2-1]: [Ordonnance du 07.12.1998 sur la terminologie agricole et la reconnaissance des formes d'exploitation, RS 910.91](https://www.admin.ch/opc/fr/classified-compilation/19983381/index.html)
+[^2-2]: Ordonnance du 25.06.2008 concernant les suppléments et l'enregistrement des données dans le domaine du lait (RS 916.350.2)
 
 #### Art. 3
 
@@ -118,13 +119,13 @@ arrête
 
 <sup>3</sup> Les sous-produits, tels que la pulpe de betteraves et les drêches de brasserie, sont considérés comme fourrage de base local lorsque la matière première est produite dans la zone limitrophe.
 
-<sup>4</sup> Le 100 % des céréales fourragères constituant les fourrages complémentaires (concentrés) des vaches laitières est d'origine locale. Le tourteau de soja et le gluten de maïs sont exclus de la ration complémentaire.
+<sup>4</sup> Le 100 % des céréales fourragères constituant les fourrages complémentaires (concentrés) des vaches laitières est d'origine locale. Le gluten de maïs est exclu de la ration complémentaire. Le tourteau de soja suisse ou certifié européen est autorisé comme complément.
 
 <sup>5</sup> La distribution d'aliments devant être déclarés comme génétiquement modifiés est interdite.
 
 <sup>6</sup> En cas d'événements météorologiques extraordinaires, le service peut accorder une dérogation, selon les dispositions relatives au cas de force majeure prévues par l'ordonnance sur les paiements directs, pour l'achat du fourrage de base hors de la zone d'achat local pour les régions concernées.
 
-[^7-2]: Modif. 1 du 29.03.2023: Modification Al. 4; entrée en vigueur au 01.11.2022; Introduction Art. 16, Al. 2; entrée en vigueur au 01.11.2022
+[^7-2]: Modif. 1 du 29.03.2023: Modification Al. 4; entrée en vigueur au 01.11.2022
 [^8-1]: Ordonnance du 23.10.2013 sur les paiements directs versés dans l’agriculture (RS 910.13)
 
 #### Art. 9
@@ -141,7 +142,7 @@ arrête
 
 **Montant et modalités des versements [^9-1]**
 
-<sup>1</sup> L'aide est octroyée pour les années 2020 à 2023.
+<sup>1</sup> L'aide est octroyée pour les années 2020 à 2025.
 
 <sup>2</sup> L'aide individuelle est allouée selon le calcul de l'effectif déterminant au sens de l'ordonnance sur les paiements directs[^10-1].
 
@@ -156,7 +157,7 @@ arrête
 
 <sup>6</sup> Le versement a lieu en fin d'année civile.
 
-[^9-1]: Modif. 1 du 29.03.2023: Modification Al. 1; entrée en vigueur au 01.11.2022; Introduction Art. 16, Al. 2; entrée en vigueur au 01.11.2022
+[^9-1]: Modif. 1 du 29.03.2023: Modification Al. 1; entrée en vigueur au 01.11.2022
 [^10-1]: Ordonnance du 23.10.2013 sur les paiements directs versés dans l’agriculture (RS 910.13)
 
 #### Art. 11
@@ -183,17 +184,17 @@ arrête
 
 <sup>1</sup> En cas de non-respect des dispositions du présent règlement, le soutien accordé devra être remboursé.
 
-<sup>2</sup> Au surplus, en cas de non-respect des conditions des lettres d et f de l'article 7 du présent règlement, une sanction du double du montant octroyé devra être acquittée.
+<sup>2</sup> ...
 
-[^12-1]: Modif. 1 du 29.03.2023: Abrogation Al. 2; entrée en vigueur au 01.11.2022; Introduction Art. 16, Al. 2; entrée en vigueur au 01.11.2022
+[^12-1]: Modif. 1 du 29.03.2023: Abrogation Al. 2; entrée en vigueur au 01.11.2022
 
 #### Art. 14
 
-**Disposition transitoire [^13-1]**
+**... [^13-1]**
 
-<sup>1</sup> Un délai de transition de deux ans, soit jusqu'au 31 décembre 2021, est prévu pour remplacer le gluten de maïs des rations de fourrages complémentaires.
+<sup>1</sup> ...
 
-[^13-1]: Modif. 1 du 29.03.2023: Abrogation tArt; entrée en vigueur au 01.11.2022; Abrogation Al. 1; entrée en vigueur au 01.11.2022; Introduction Art. 16, Al. 2; entrée en vigueur au 01.11.2022
+[^13-1]: Modif. 1 du 29.03.2023: Abrogation tArt; entrée en vigueur au 01.11.2022; Abrogation Al. 1; entrée en vigueur au 01.11.2022
 
 #### Art. 15
 
@@ -208,5 +209,7 @@ arrête
 **Abrogation [^15-1]**
 
 <sup>1</sup> Le présent règlement, y compris le versement des aides financières, échoit le 31 décembre 2023.
+
+<sup>2</sup> La durée de validité du présent règlement est prolongée jusqu'au 31 décembre 2025.
 
 [^15-1]: Modif. 1 du 29.03.2023: Introduction Al. 2; entrée en vigueur au 01.11.2022
