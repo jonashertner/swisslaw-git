@@ -4,13 +4,13 @@ number: 600a
 title: Verordnung zum Gesetz über die Steuerung der Finanzen und Leistungen
 short: FLV
 language: de
-version: 2021-01-01
-valid_until: 2022-10-31
-version_adopted: 2020-03-24
+version: 2022-11-01
+valid_until: 2023-08-31
+version_adopted: 2022-09-27
 adopted: 2010-12-17
 in_force: 2011-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/600a"
-pdf: "https://srl.lu.ch/api/de/versions/3669/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3967/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3669/pdf_file"
 
 (FLV)
 
-vom 17.12.2010 (Stand 01.01.2021)
+vom 17.12.2010 (Stand 01.11.2022)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -370,7 +370,7 @@ beschliesst:
 - 1\. die Luzerner Pensionskasse,
 - 2\. die Hochschule Luzern,
 - 3\. die Luzerner Kantonalbank AG,
-- 4\. das Luzerner Kantonsspital.
+- 4\. die Luzerner Kantonsspital AG.
 
 #### § 27b
 
@@ -470,10 +470,10 @@ beschliesst:
 
 **Bestimmung der Ausgabenhöhe**
 
-<sup>1</sup> In die Ausgabe werden eingerechnet
+<sup>1</sup> In die Ausgabe eingerechnet werden alle nach der Beschlussfassung zum geplanten Vorhaben anfallenden Aufwendungen, wie Landerwerb, Baukosten einschliesslich Kosten für Provisorien, Rückbauten von Mietobjekten, die für den sachgemässen Gebrauch erforderlichen Ausstattungen sowie Steuern, Abgaben und Reserven für Unvorhergesehenes.
 
-- a. alle nach der Beschlussfassung zum geplanten Vorhaben anfallenden Aufwendungen, wie Landerwerb, Baukosten einschliesslich Kosten für Provisorien, Rückbauten von Mietobjekten, die für den sachgemässen Gebrauch erforderlichen Ausstattungen sowie Steuern, Abgaben und Reserven für Unvorhergesehenes,
-- b. vor der Beschlussfassung angefallene Aufwendungen, wenn sie aufgrund dieser Verordnung aktiviert werden müssen.
+- a. …
+- b. …
 
 <sup>2</sup> Der interne Aufwand für ein Vorhaben wird nicht in die Ausgabe eingerechnet, ausgenommen der aktivierbare Arbeitsaufwand von kantonalen Angestellten.
 
@@ -715,15 +715,16 @@ beschliesst:
 
 **Staatssteuerertrag**
 
-<sup>1</sup> Der in der Erfolgsrechnung des Jahres n ausgewiesene Staatssteuerertrag setzt sich zusammen aus den zu veranlagenden Einkommens- und Vermögenssteuern natürlicher Personen sowie den Gewinn- und Kapitalsteuern juristischer Personen gemäss Absatz 2 und den im Rechnungsjahr n vereinnahmten Quellen-, Nach- und Strafsteuern sowie den Sondersteuern auf Kapitalauszahlungen.
+<sup>1</sup> Der in der Erfolgsrechnung des Jahres n ausgewiesene Staatssteuerertrag setzt sich zusammen aus den zu veranlagenden Staatssteuern gemäss Absatz 2 und den im Rechnungsjahr n vereinnahmten Quellensteuern.
 
 <sup>2</sup> Die zu veranlagenden und in der Erfolgsrechnung n auszuweisenden Staatssteuern setzen sich zusammen aus
 
-- a. den im Jahr n den natürlichen und juristischen Personen für die Steuerperiode n in Rechnung gestellten Steuern,
+- a. den im Jahr n den natürlichen und juristischen Personen für die Steuerperiode n in Rechnung gestellten Einkommens-, Vermögens-, Gewinn- und Kapitalsteuern,
 - b. den in den Jahren n+1 bis n+4 zu erwartenden Nach- und Rückträgen für die Steuerperiode n,
 - b<sup>bis</sup>. allfälligen Korrekturen der in den Jahresrechnungen n–3 bis n–1 vorgenommenen Schätzungen der erwarteten Nach- und Rückträge,
 - c. der Differenz zwischen den in der Jahresrechnung n–4 berücksichtigten Nach- und Rückträgen für die Steuerperiode n–4 und den tatsächlichen Nach- und Rückträgen für die Steuerperiode n–4 in den Jahren n–3 bis n,
-- d. den tatsächlichen Nach- und Rückträgen für Steuerperioden vor dem Jahr n–4.
+- d. den tatsächlichen Nach- und Rückträgen für Steuerperioden vor dem Jahr n–4,
+- e. den im Jahr n in Rechnung gestellten Nach- und Strafsteuern sowie den Sondersteuern auf Kapitalauszahlungen.
 
 <sup>3</sup> Die gemäss Absatz 2b zu erwartenden Nach- und Rückträge für die Steuerperiode n ergeben sich aus dem Durchschnitt der tatsächlichen Nach- und Rückträge in den Jahren n–7 bis n. Die zu erwartenden Nach- und Rückträge sind tiefer anzusetzen, wenn das geschätzte Wachstum des nationalen Bruttoinlandprodukts im Jahr n mindestens 0,5 Prozentpunkte unter dem Durchschnitt der Jahre n–8 bis n–1 liegt. Ist infolge Änderungen des Steuergesetzes oder der Staatssteuereinheiten mit einer erheblichen Ab- oder Zunahme der Nach- und Rückträge zu rechnen, sind diese entsprechend anzupassen.
 
