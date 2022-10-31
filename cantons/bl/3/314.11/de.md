@@ -4,13 +4,12 @@ number: "314.11"
 title: Verordnung zum Gesetz über die Beteiligungen (Public Corporate Governance)
 short: PCGV
 language: de
-version: 2020-01-01
-valid_until: 2022-10-31
-version_adopted: 2019-12-17
+version: 2022-11-01
+version_adopted: 2022-10-25
 adopted: 2017-12-12
 in_force: 2018-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/314.11"
-pdf: "https://bl.clex.ch/api/de/versions/2528/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3430/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,16 +18,16 @@ pdf: "https://bl.clex.ch/api/de/versions/2528/pdf_file"
 
 (PCGV)
 
-Vom 12.12.2017 (Stand 01.01.2020)
+Vom 12.12.2017 (Stand 01.11.2022)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
-gestützt auf § 74 Absatz 2 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-1] und § 11 des Gesetzes vom 15. Juni 2017[^ingress-2] über die Beteiligungen (Public Corporate Governance, PCGG),
+gestützt auf § 74 Abs. 2 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-1] und das Gesetz über die Beteiligungen (Public Corporate Governance, PCGG) vom 15. Juni 2017[^ingress-2],
 
 beschliesst:
 
-[^ingress-1]: GS 29.276, SGS [100](https://bl.clex.ch/data/100/de/art74)
-[^ingress-2]: GS 2017.077, SGS [314](https://bl.clex.ch/data/314/de/art11)
+[^ingress-1]: [SGS 100](https://bl.clex.ch/data/100/de/art74)
+[^ingress-2]: [SGS 314](https://bl.clex.ch/data/314/de)
 
 ## 1 Aufgaben und Zuständigkeiten
 
@@ -116,11 +115,11 @@ beschliesst:
 
 **Umfang**
 
-<sup>1</sup> Bei strategisch wichtigen Beteiligungen enthält die Eigentümerstrategie Angaben zu sämtlichen Punkten gemäss [§ 4 Abs. 2](https://bl.clex.ch/data/314/de/art4) PCGG.
+<sup>1</sup> …
 
-<sup>2</sup> Bei anderen Beteiligungen kann die Eigentümerstrategie auf einzelne Punkte gemäss [§ 4 Abs. 2](https://bl.clex.ch/data/314/de/art4) PCGG verzichten oder diese verkürzt darstellen, sofern die Steuerung der Beteiligung dadurch nicht beeinträchtigt wird.
+<sup>2</sup> …
 
-<sup>3</sup> Bei Bedarf kann die Eigentümerstrategie weitere Punkte enthalten, wenn diese zur Steuerung der Beteiligung erforderlich sind.
+<sup>3</sup> Bei Bedarf kann die Eigentümerstrategie zusätzlich zu [§ 4 Abs. 2](https://bl.clex.ch/data/314/de/art4) PCGG weitere Punkte enthalten, wenn diese zur Steuerung der Beteiligung erforderlich sind.
 
 #### § 8
 
@@ -250,6 +249,16 @@ beschliesst:
 <sup>1</sup> Im Rahmen ihres Mandats informiert die Kantonsvertretung den Regierungsrat unverzüglich über wichtige Ereignisse und Entwicklungen.
 
 <sup>2</sup> Sie sorgt unter Vorbehalt abweichender übergeordneter Regelungen dafür, dass die beteiligungsinternen Normen dem Gesetz und der Verordnung entsprechen.
+
+#### § 19a
+
+**Offenlegung von Entschädigung und Vergütungen**
+
+<sup>1</sup> Die Kantonsvertretung meldet der für die Beteiligung zuständigen Direktion jährlich die Höhe der von der Beteiligung für das Mandat erhaltenen Entschädigungen und Vergütungen, falls diese nicht pro Person im Geschäftsbericht der Beteiligung aufgeführt sind.
+
+<sup>2</sup> Der Kanton publiziert die Entschädigungen und Vergütungen der Kantonsvertretung mit Namensnennung im Beteiligungsbericht, sofern dieser Publikation keine übergeordneten Regeln entgegenstehen.
+
+<sup>3</sup> Die Einzelheiten der Meldung regelt der Mandatsvertrag.
 
 ## 8 Weitere Instrumente der Beteiligungssteuerung
 
