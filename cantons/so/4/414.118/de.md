@@ -4,13 +4,12 @@ number: "414.118"
 title: Verordnung über die Passerelle Berufsmaturität oder Fachmaturität - universitäre Hochschulen
 short: Passerelleverordnung
 language: de
-version: 2019-08-01
-valid_until: 2022-10-31
-version_adopted: 2018-10-22
+version: 2022-11-01
+version_adopted: 2022-08-23
 adopted: 2018-10-22
 in_force: 2019-08-01
 url: "https://bgs.so.ch/app/de/texts_of_law/414.118"
-pdf: "https://bgs.so.ch/api/de/versions/4801/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5269/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.so.ch/api/de/versions/4801/pdf_file"
 
 (Passerelleverordnung)
 
-Vom 22.10.2018 (Stand 01.08.2019)
+Vom 22.10.2018 (Stand 01.11.2022)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -93,7 +92,7 @@ beschliesst:
 
 <sup>1</sup> Die Kursteilnehmenden besuchen den Unterricht grundsätzlich lückenlos.
 
-<sup>2</sup> Es gelten die Verhaltensregeln nach den §§ 8–12 der Absenzen- und Disziplinarordnung der kantonalen Mittelschulen vom 7. September 2012[^8-1].
+<sup>2</sup> Es gelten die Verhaltensregeln nach den §§ 13 und 14 der Absenzen- und Disziplinarordnung der kantonalen Mittelschulen (ADO Mittelschulen) vom 14. Juni 2022[^8-1].
 
 [^8-1]: BGS [414.481](https://bgs.so.ch/data/414.481/de).
 
